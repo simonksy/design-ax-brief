@@ -1,251 +1,199 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-heygemini",
+      "id": "gadgets-ps5-local-ai",
       "source_lang": "en",
-      "tool": "Gadgets",
       "eyebrow": "AI NEWS",
-      "headline": "Android XR 안경에\nHey Gemini 온다",
-      "body": "Google이 Android XR에 Hey Gemini·카메라 호출을 준비한다.",
-      "mini_headline": "XR 안경용 Hey Gemini",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
-      "accent": "#ff5a4d",
+      "headline": "탈옥한 PS5s,\nGPU로 로컬 AI 구동",
+      "body": "PS5LM 포크는 RAM 11.4 GiB로 27B 모델을 초당 20토큰에 돌린다.",
+      "mini_headline": "PS5s, GPU로 로컬 AI 구동",
+      "tool": "Gadgets",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
+      "accent": "#3b6bff",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
-            "cap": "Xreal Aura"
+            "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+            "cap": "(이미지 출처: Tom's Hardware)"
           },
           {
             "t": "p",
-            "x": "Google Assistant의 “Hey Google”과 “Ok Google”로 시작한 호출어가 이제 “Hey Gemini”로 넘어가는 모양이다. 최신 버전 Google 앱을 뜯어보니 Android XR 기기용 새 “Hey Gemini” 호출어를 가리키는 문자열이 나왔다."
+            "x": "Reddit 사용자 u/AdIllustrious7246이 탈옥한 PS5s에서 AI LLMs를 로컬로 돌리는 llama.cpp 포트 PS5LM의 포크를 공개했다. 콘솔에서 네이티브로 도는 이 포크는 GPU를 써서 Qwen3.8-27B 같은 더 큰 모델도 초당 20토큰으로 처리한다."
           },
           {
             "t": "p",
-            "x": "문자열에 따르면 사용자는 “Hey Google”이나 “Hey Gemini”로 AI 비서를 부르고, “Ok Google”로 대화를 시작할 수 있다. “Hey Gemini” 호출어는 기본값이 꺼져 있어 “Wear Detection”을 켜야 쓸 수 있다. 이 옵션은 Glasses 환경설정에 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
-            "cap": "Xreal Aura"
+            "x": "GitHub 사용자 cobanov의 원본 포트는 CPU에서 페이로드로 실행되는데, 더 많이 점유하면 홈 화면이 멈추기 때문에 RAM은 약 6.25 GiB까지만 쓸 수 있다. 포크는 RADV 그래픽 드라이버를 옮긴 PS5_Vulkan으로 평소 잠겨 있는 PS5 GPU에 명령을 보낸다."
           },
           {
             "t": "p",
-            "x": "사용자가 안경을 쓰고 있으면 Google은 Gemini 대화에서 안경 쪽을 우선해, 스마트폰과 안경이 한꺼번에 반응하지 않게 할 듯하다."
+            "x": "GPU에서 네이티브로 돌면 RAM을 최대 11.4 GiB까지 쓸 수 있고, Gemma 4 E4B와 Llama 3.2 3B 같은 작은 모델은 각각 초당 61토큰, 124토큰을 낸다. 대시보드는 초당 토큰 수, GPU·CPU 사용률, 전력 소모, 온도, 모델과 KV 캐시 간 메모리 배분을 실시간으로 보여준다. llama.cpp 웹 UI를 쓰면 다른 로컬 기기의 브라우저에서 LLM과 대화할 수도 있다."
           },
           {
             "t": "p",
-            "x": "카메라 연동을 가리키는 문자열도 있다. Android XR 안경 사용자는 “What plant am I looking at?”(내가 보는 식물이 뭐지?) 같은 질문을 할 수 있다. Gemini는 카메라를 켜서 사용자가 보는 것을 ‘볼’ 수 있다. Google은 이 기능을 끌 수 있게 할 가능성이 크고, “turn on the camera”나 “turn off the camera”라고 말해 카메라를 제어할 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "새 “Hey Gemini” 호출어가 스마트폰까지 올 가능성도 있다."
+            "x": "댓글에는 암호화폐 채굴 때 벌어진 GPU 품귀를 떠올리는 반응도 있었다. Tom's Hardware는 그럴 가능성이 낮다고 본다. PS5의 GPU는 가장 빠르지도 않고, RAM이 가장 많지도 않다."
           }
         ]
       },
+      "_lead_image": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "\"Hey Gemini\" is in the works\nfor Android XR glasses",
-          "body": "App strings show Google is working on a \"Hey Gemini\" hotword and camera activation for Android XR glasses.",
-          "mini_headline": "Hey Gemini for XR glasses",
+          "headline": "Jailbroken PS5s now run local\nAI models on the console's GPU",
+          "body": "A native PS5LM fork taps the PS5 GPU and up to 11.4 GiB of RAM, running a 27B model at 20 tokens per second.",
+          "mini_headline": "PS5s run local AI on the GPU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
-                "cap": "Xreal Aura"
+                "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+                "cap": "(Image credit: Tom's Hardware)"
               },
               {
                 "t": "p",
-                "x": "What started off with “Hey Google” and “Ok Google” for Google Assistant now looks like it is heading toward “Hey Gemini.” Digging through the latest version of the Google app, we found strings pointing toward a new “Hey Gemini” hotword for Android XR devices."
+                "x": "Reddit user u/AdIllustrious7246 posted a fork of PS5LM, a llama.cpp port for running AI LLMs locally on jailbroken PS5s, that runs natively on the console and uses its GPU to run bigger models such as Qwen3.8-27B at 20 tokens per second."
               },
               {
                 "t": "p",
-                "x": "The strings suggest users will be able to say either “Hey Google” or “Hey Gemini” to activate their AI assistant, and “Ok Google” to start a conversation. The “Hey Gemini” hotword won’t be enabled by default and will require “Wear Detection” to be turned on; the option will sit within the Glasses preferences."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
-                "cap": "Xreal Aura"
+                "x": "GitHub user cobanov's original port runs as a payload on the CPU, which limits RAM access to about 6.25 GiB because holding more would freeze the home screen. The fork instead uses PS5_Vulkan, a port of the RADV graphics driver that lets instructions reach the normally locked-down PS5 GPU."
               },
               {
                 "t": "p",
-                "x": "It also seems Google will prioritize your glasses for conversations with Gemini while you’re wearing them, so your smartphone and glasses don’t both activate."
+                "x": "Running natively on the GPU, it can use up to 11.4 GiB of RAM; smaller models like Gemma 4 E4B and Llama 3.2 3B hit 61 and 124 tokens per second. A dashboard shows live tokens per second, GPU and CPU use, power draw, temperatures and the memory split between model and KV cache, and llama.cpp's web UI lets users chat with the LLM from other local devices in a browser."
               },
               {
                 "t": "p",
-                "x": "We also found strings pointing to a camera integration. Android XR glasses will let users ask things like “What plant am I looking at?” Gemini will be able to turn on the camera and “see” what you’re looking at. Google will likely let you turn this off, and you may still use the camera by saying “turn on the camera” or “turn off the camera.”"
-              },
-              {
-                "t": "p",
-                "x": "The new “Hey Gemini” hotword could also make its way to smartphones."
+                "x": "Commenters recalled the crypto-mining GPU crisis, but Tom's Hardware calls that unlikely: the PS5 doesn't have the fastest GPU or the most RAM."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Android XR 안경에\nHey Gemini 온다",
-          "body": "Google이 Android XR에 Hey Gemini·카메라 호출을 준비한다.",
-          "mini_headline": "XR 안경용 Hey Gemini",
+          "headline": "탈옥한 PS5s,\nGPU로 로컬 AI 구동",
+          "body": "PS5LM 포크는 RAM 11.4 GiB로 27B 모델을 초당 20토큰에 돌린다.",
+          "mini_headline": "PS5s, GPU로 로컬 AI 구동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
-                "cap": "Xreal Aura"
+                "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+                "cap": "(이미지 출처: Tom's Hardware)"
               },
               {
                 "t": "p",
-                "x": "Google Assistant의 “Hey Google”과 “Ok Google”로 시작한 호출어가 이제 “Hey Gemini”로 넘어가는 모양이다. 최신 버전 Google 앱을 뜯어보니 Android XR 기기용 새 “Hey Gemini” 호출어를 가리키는 문자열이 나왔다."
+                "x": "Reddit 사용자 u/AdIllustrious7246이 탈옥한 PS5s에서 AI LLMs를 로컬로 돌리는 llama.cpp 포트 PS5LM의 포크를 공개했다. 콘솔에서 네이티브로 도는 이 포크는 GPU를 써서 Qwen3.8-27B 같은 더 큰 모델도 초당 20토큰으로 처리한다."
               },
               {
                 "t": "p",
-                "x": "문자열에 따르면 사용자는 “Hey Google”이나 “Hey Gemini”로 AI 비서를 부르고, “Ok Google”로 대화를 시작할 수 있다. “Hey Gemini” 호출어는 기본값이 꺼져 있어 “Wear Detection”을 켜야 쓸 수 있다. 이 옵션은 Glasses 환경설정에 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
-                "cap": "Xreal Aura"
+                "x": "GitHub 사용자 cobanov의 원본 포트는 CPU에서 페이로드로 실행되는데, 더 많이 점유하면 홈 화면이 멈추기 때문에 RAM은 약 6.25 GiB까지만 쓸 수 있다. 포크는 RADV 그래픽 드라이버를 옮긴 PS5_Vulkan으로 평소 잠겨 있는 PS5 GPU에 명령을 보낸다."
               },
               {
                 "t": "p",
-                "x": "사용자가 안경을 쓰고 있으면 Google은 Gemini 대화에서 안경 쪽을 우선해, 스마트폰과 안경이 한꺼번에 반응하지 않게 할 듯하다."
+                "x": "GPU에서 네이티브로 돌면 RAM을 최대 11.4 GiB까지 쓸 수 있고, Gemma 4 E4B와 Llama 3.2 3B 같은 작은 모델은 각각 초당 61토큰, 124토큰을 낸다. 대시보드는 초당 토큰 수, GPU·CPU 사용률, 전력 소모, 온도, 모델과 KV 캐시 간 메모리 배분을 실시간으로 보여준다. llama.cpp 웹 UI를 쓰면 다른 로컬 기기의 브라우저에서 LLM과 대화할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "카메라 연동을 가리키는 문자열도 있다. Android XR 안경 사용자는 “What plant am I looking at?”(내가 보는 식물이 뭐지?) 같은 질문을 할 수 있다. Gemini는 카메라를 켜서 사용자가 보는 것을 ‘볼’ 수 있다. Google은 이 기능을 끌 수 있게 할 가능성이 크고, “turn on the camera”나 “turn off the camera”라고 말해 카메라를 제어할 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "새 “Hey Gemini” 호출어가 스마트폰까지 올 가능성도 있다."
+                "x": "댓글에는 암호화폐 채굴 때 벌어진 GPU 품귀를 떠올리는 반응도 있었다. Tom's Hardware는 그럴 가능성이 낮다고 본다. PS5의 GPU는 가장 빠르지도 않고, RAM이 가장 많지도 않다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Android XR眼鏡に\nHey Geminiが来る",
-          "body": "GoogleがAndroid XR眼鏡向けにHey Geminiとカメラ起動を開発中だ。",
-          "mini_headline": "XR眼鏡にHey Gemini",
+          "headline": "脱獄PS5sが\nGPUでローカルAI",
+          "body": "PS5LMフォークはRAM 11.4 GiBで27B モデルを毎秒20トークンで動かす。",
+          "mini_headline": "PS5sがGPUでローカルAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
-                "cap": "Xreal Aura"
+                "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+                "cap": "(画像出典：Tom's Hardware)"
               },
               {
                 "t": "p",
-                "x": "Google Assistantの「Hey Google」「Ok Google」から始まった呼びかけ語は、いま「Hey Gemini」へ向かっているようだ。Googleアプリの最新版を解析したところ、Android XRデバイス向けの新しいホットワード「Hey Gemini」を示す文字列が見つかった。"
+                "x": "Redditユーザーのu/AdIllustrious7246が、脱獄したPS5sでAI LLMsをローカル実行するllama.cppの移植版PS5LMのフォークを公開した。コンソール上でネイティブに動作し、GPUを使ってQwen3.8-27B などの大きなモデルを毎秒20トークンで動かす。"
               },
               {
                 "t": "p",
-                "x": "文字列によると、ユーザーは「Hey Google」または「Hey Gemini」でAIアシスタントを起動し、「Ok Google」で会話を始められる。「Hey Gemini」はデフォルトでは無効で、「Wear Detection」をオンにする必要がある。この設定はGlassesの設定項目内に置かれる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
-                "cap": "Xreal Aura"
+                "x": "GitHubユーザーcobanovによる元の移植版はCPU上のペイロードとして動き、それ以上確保するとホーム画面がフリーズするため、RAMの利用は約6.25 GiBに制限される。フォークは代わりにRADVグラフィックスドライバーの移植版であるPS5_Vulkanを使い、通常はロックされているPS5のGPUに命令を届ける。"
               },
               {
                 "t": "p",
-                "x": "Googleは装着中のGeminiとの会話で眼鏡を優先し、スマートフォンと眼鏡が同時に反応しないようにするとみられる。"
+                "x": "GPU上でネイティブに動くため最大11.4 GiBのRAMを使え、Gemma 4 E4BやLlama 3.2 3B などの小型モデルは毎秒61トークン、124トークンに達する。ダッシュボードには毎秒トークン数、GPUとCPUの使用率、消費電力、温度、モデルとKVキャッシュのメモリ配分がリアルタイムで表示され、llama.cppのWeb UIを使えば他のローカル機器のブラウザからLLMとチャットできる。"
               },
               {
                 "t": "p",
-                "x": "カメラ連携を示す文字列も見つかった。Android XR眼鏡では「What plant am I looking at?」(私が見ている植物は何?)のように尋ねられる。Geminiはカメラをオンにして、ユーザーが見ているものを「見る」ことができる。Googleはこの機能をオフにできるようにする可能性が高く、「turn on the camera」「turn off the camera」と話してカメラを使うこともできそうだ。"
-              },
-              {
-                "t": "p",
-                "x": "新しいホットワード「Hey Gemini」はスマートフォンにも広がる可能性がある。"
+                "x": "コメント欄では暗号資産マイニングによるGPU不足を思い出す声もあったが、Tom's Hardwareはその可能性は低いとみる。PS5のGPUは最速でもなく、RAMも最大ではないからだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Android XR眼镜\n将支持Hey Gemini",
-          "body": "Google正为Android XR眼镜开发Hey Gemini唤醒词和相机启动功能。",
-          "mini_headline": "XR眼镜迎来Hey Gemini",
+          "headline": "越狱PS5s用GPU\n跑本地AI模型",
+          "body": "PS5LM分支用GPU和最多11.4 GiB内存，以每秒20个token运行27B 模型。",
+          "mini_headline": "PS5s用GPU跑本地AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
-                "cap": "Xreal Aura"
+                "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+                "cap": "（图片来源：Tom's Hardware）"
               },
               {
                 "t": "p",
-                "x": "从Google Assistant的“Hey Google”和“Ok Google”起步的唤醒词，如今似乎正走向“Hey Gemini”。我们拆解最新版Google应用后，发现了指向Android XR设备新唤醒词“Hey Gemini”的字符串。"
+                "x": "Reddit用户u/AdIllustrious7246发布了PS5LM的一个分支。PS5LM是在越狱PS5s上本地运行AI LLMs的llama.cpp移植版，而这个分支可在主机上原生运行，并调用GPU以每秒20个token的速度运行Qwen3.8-27B 等更大的模型。"
               },
               {
                 "t": "p",
-                "x": "字符串显示，用户可以说“Hey Google”或“Hey Gemini”来唤起AI助手，并说“Ok Google”开始对话。“Hey Gemini”唤醒词默认不开启，需要打开“Wear Detection”；该选项位于Glasses偏好设置中。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
-                "cap": "Xreal Aura"
+                "x": "GitHub用户cobanov的原版移植以payload形式在CPU上运行，由于占用更多内存会导致主界面卡死，RAM访问被限制在约6.25 GiB。该分支则使用PS5_Vulkan——RADV图形驱动的移植版，让指令能够到达通常处于锁定状态的PS5 GPU。"
               },
               {
                 "t": "p",
-                "x": "Google似乎还会在你佩戴眼镜时优先让眼镜与Gemini对话，避免手机和眼镜同时被唤醒。"
+                "x": "在GPU上原生运行时，它最多可使用11.4 GiB RAM；Gemma 4 E4B和Llama 3.2 3B 等较小模型分别达到每秒61和124个token。仪表盘实时显示每秒token数、GPU和CPU占用、功耗、温度以及模型与KV缓存之间的内存分配，用户还可通过llama.cpp的Web UI在其他本地设备的浏览器中与LLM对话。"
               },
               {
                 "t": "p",
-                "x": "我们还发现了指向相机集成的字符串。Android XR眼镜用户可以问“What plant am I looking at?”（我看到的是什么植物？）之类的问题。Gemini能够打开相机，“看到”你正在看的东西。Google很可能允许关闭这一功能，你也仍可以说“turn on the camera”或“turn off the camera”来使用相机。"
-              },
-              {
-                "t": "p",
-                "x": "新的“Hey Gemini”唤醒词也可能登陆智能手机。"
+                "x": "评论者想起了加密货币挖矿引发的GPU短缺，但Tom's Hardware认为这不太可能：PS5的GPU既不是最快的，内存也不是最多的。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google prepara \"Hey Gemini\"\npara las gafas Android XR",
-          "body": "Cadenas de la app revelan que Google prepara el comando \"Hey Gemini\" y la activación de cámara para gafas Android XR.",
-          "mini_headline": "Hey Gemini para gafas XR",
+          "headline": "Las PS5s con jailbreak ya corren\nIA local en la GPU de la consola",
+          "body": "Un fork nativo de PS5LM usa la GPU de la PS5 y hasta 11,4 GiB de RAM y mueve un modelo de 27B a 20 tokens por segundo.",
+          "mini_headline": "Las PS5s corren IA local en la GPU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
-                "cap": "Xreal Aura"
+                "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+                "cap": "(Crédito de imagen: Tom's Hardware)"
               },
               {
                 "t": "p",
-                "x": "Lo que empezó con “Hey Google” y “Ok Google” para Google Assistant ahora parece encaminarse hacia “Hey Gemini”. Al revisar la última versión de la app de Google, encontramos cadenas que apuntan a una nueva palabra de activación “Hey Gemini” para dispositivos Android XR."
+                "x": "El usuario de Reddit u/AdIllustrious7246 publicó un fork de PS5LM, un port de llama.cpp para ejecutar LLMs de IA en local en PS5s con jailbreak, que funciona de forma nativa en la consola y usa su GPU para mover modelos más grandes como Qwen3.8-27B a 20 tokens por segundo."
               },
               {
                 "t": "p",
-                "x": "Las cadenas sugieren que los usuarios podrán decir “Hey Google” o “Hey Gemini” para activar su asistente de AI, y “Ok Google” para iniciar una conversación. La palabra de activación “Hey Gemini” no estará activada por defecto y requerirá encender “Wear Detection”; la opción estará dentro de las preferencias de Glasses."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
-                "cap": "Xreal Aura"
+                "x": "El port original del usuario de GitHub cobanov se ejecuta como payload en la CPU, lo que limita el acceso a la RAM a unos 6,25 GiB, porque ocupar más congelaría la pantalla de inicio. El fork, en cambio, usa PS5_Vulkan, un port del controlador gráfico RADV que permite que las instrucciones lleguen a la GPU de la PS5, normalmente bloqueada."
               },
               {
                 "t": "p",
-                "x": "También parece que Google dará prioridad a las gafas en las conversaciones con Gemini mientras las llevas puestas, para que el smartphone y las gafas no se activen a la vez."
+                "x": "Al ejecutarse de forma nativa en la GPU, puede usar hasta 11,4 GiB de RAM; modelos más pequeños como Gemma 4 E4B y Llama 3.2 3B alcanzan 61 y 124 tokens por segundo. Un panel muestra en tiempo real los tokens por segundo, el uso de GPU y CPU, el consumo, las temperaturas y el reparto de memoria entre el modelo y la caché KV, y la interfaz web de llama.cpp permite chatear con el LLM desde otros dispositivos locales en un navegador."
               },
               {
                 "t": "p",
-                "x": "También encontramos cadenas que apuntan a una integración con la cámara. Las gafas Android XR permitirán preguntar cosas como “What plant am I looking at?” (¿qué planta estoy mirando?). Gemini podrá encender la cámara y “ver” lo que estás mirando. Es probable que Google permita desactivar esta función, y aun así podrías usar la cámara diciendo “turn on the camera” o “turn off the camera”."
-              },
-              {
-                "t": "p",
-                "x": "La nueva palabra de activación “Hey Gemini” también podría llegar a los smartphones."
+                "x": "Algunos comentaristas recordaron la crisis de GPU causada por la minería de criptomonedas, pero Tom's Hardware lo ve poco probable: la PS5 no tiene la GPU más rápida ni la mayor cantidad de RAM."
               }
             ]
           }
@@ -253,161 +201,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Android XR 안경에\nHey Gemini 온다",
-          "body": "Google이 Android XR에 Hey Gemini·카메라 호출을 준비한다.",
-          "mini_headline": "XR 안경용 Hey Gemini",
+          "headline": "탈옥 PS5s, GPU로\n로컬 AI 모델 구동",
+          "body": "PS5LM 포크는 RAM 11.4 GiB로 27B 모델을 초당 20토큰으로 돌린다.",
+          "mini_headline": "PS5s, GPU로 로컬 AI 구동",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
-                "cap": "Xreal Aura"
+                "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+                "cap": "(이미지 출처: Tom's Hardware)"
               },
               {
                 "t": "p",
-                "x": "Google Assistant의 “Hey Google”과 “Ok Google”로 시작한 호출어가 이제 “Hey Gemini”로 향하는 듯하다. 최신 버전 Google 앱을 분석한 결과, Android XR 기기용 새 “Hey Gemini” 호출어를 가리키는 문자열이 발견됐다."
+                "x": "Reddit 사용자 u/AdIllustrious7246이 탈옥한 PS5s에서 AI LLMs를 로컬로 돌리는 llama.cpp 포트 PS5LM의 포크를 공개했다. 이 포크는 콘솔에서 네이티브로 실행되며 GPU를 활용해 Qwen3.8-27B 같은 더 큰 모델을 초당 20토큰으로 돌린다."
               },
               {
                 "t": "p",
-                "x": "문자열에 따르면 사용자는 “Hey Google”이나 “Hey Gemini”로 AI 비서를 부르고, “Ok Google”로 대화를 시작할 수 있다. “Hey Gemini” 호출어는 기본으로 켜져 있지 않으며 “Wear Detection”을 켜야 쓸 수 있다. 이 옵션은 Glasses 환경설정 안에 들어간다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
-                "cap": "Xreal Aura"
+                "x": "GitHub 사용자 cobanov의 원본 포트는 CPU에서 페이로드로 실행되는데, 더 많이 점유하면 홈 화면이 멈추기 때문에 RAM 접근이 약 6.25 GiB로 제한된다. 포크는 대신 RADV 그래픽 드라이버의 포트인 PS5_Vulkan을 써서, 평소 잠겨 있는 PS5 GPU에 명령을 전달한다."
               },
               {
                 "t": "p",
-                "x": "Google은 사용자가 안경을 쓰고 있을 때 Gemini와의 대화에서 안경을 우선시해, 스마트폰과 안경이 동시에 반응하지 않게 할 것으로 보인다."
+                "x": "GPU에서 네이티브로 돌면 RAM을 최대 11.4 GiB까지 쓸 수 있고, Gemma 4 E4B와 Llama 3.2 3B 같은 작은 모델은 초당 61토큰과 124토큰을 낸다. 대시보드는 초당 토큰 수, GPU·CPU 사용률, 전력 소모, 온도, 모델과 KV 캐시 간 메모리 배분을 실시간으로 보여주고, llama.cpp 웹 UI로 다른 로컬 기기의 브라우저에서 LLM과 대화할 수 있다."
               },
               {
                 "t": "p",
-                "x": "카메라 연동을 가리키는 문자열도 있다. Android XR 안경 사용자는 “What plant am I looking at?”(내가 보는 식물이 뭐지?) 같은 질문을 할 수 있다. Gemini가 카메라를 켜고 사용자가 보는 것을 ‘볼’ 수 있다. Google은 이 기능을 끌 수 있게 할 가능성이 크며, “turn on the camera”나 “turn off the camera”라고 말해 카메라를 쓸 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "새 “Hey Gemini” 호출어는 스마트폰에도 들어올 수 있다."
+                "x": "댓글에서는 암호화폐 채굴 때의 GPU 품귀 사태를 떠올리는 반응도 나왔지만, Tom's Hardware는 그럴 가능성이 낮다고 본다. PS5의 GPU가 가장 빠르지도, RAM이 가장 많지도 않기 때문이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Android XR眼鏡に\nHey Geminiが来る",
-          "body": "GoogleがAndroid XR眼鏡向けにHey Geminiとカメラ起動を開発中だ。",
-          "mini_headline": "XR眼鏡にHey Gemini",
+          "headline": "脱獄PS5sが\nGPUでローカルAI",
+          "body": "PS5LMフォークはRAM 11.4 GiBで27B モデルを毎秒20トークンで動かす。",
+          "mini_headline": "PS5sがGPUでローカルAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
-                "cap": "Xreal Aura"
+                "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+                "cap": "(画像出典：Tom's Hardware)"
               },
               {
                 "t": "p",
-                "x": "Google Assistantの「Hey Google」「Ok Google」から始まった呼びかけ語は、いま「Hey Gemini」へ向かっているようだ。Googleアプリの最新版を解析したところ、Android XRデバイス向けの新しいホットワード「Hey Gemini」を示す文字列が見つかった。"
+                "x": "Redditユーザーのu/AdIllustrious7246が、脱獄したPS5sでAI LLMsをローカル実行するllama.cppの移植版PS5LMのフォークを公開した。コンソール上でネイティブに動作し、GPUを使ってQwen3.8-27B などの大きなモデルを毎秒20トークンで動かす。"
               },
               {
                 "t": "p",
-                "x": "文字列によると、ユーザーは「Hey Google」または「Hey Gemini」でAIアシスタントを起動し、「Ok Google」で会話を始められる。「Hey Gemini」はデフォルトでは無効で、「Wear Detection」をオンにする必要がある。この設定はGlassesの設定項目内に置かれる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
-                "cap": "Xreal Aura"
+                "x": "GitHubユーザーcobanovによる元の移植版はCPU上のペイロードとして動き、それ以上確保するとホーム画面がフリーズするため、RAMの利用は約6.25 GiBに制限される。フォークは代わりにRADVグラフィックスドライバーの移植版であるPS5_Vulkanを使い、通常はロックされているPS5のGPUに命令を届ける。"
               },
               {
                 "t": "p",
-                "x": "Googleは装着中のGeminiとの会話で眼鏡を優先し、スマートフォンと眼鏡が同時に反応しないようにするとみられる。"
+                "x": "GPU上でネイティブに動くため最大11.4 GiBのRAMを使え、Gemma 4 E4BやLlama 3.2 3B などの小型モデルは毎秒61トークン、124トークンに達する。ダッシュボードには毎秒トークン数、GPUとCPUの使用率、消費電力、温度、モデルとKVキャッシュのメモリ配分がリアルタイムで表示され、llama.cppのWeb UIを使えば他のローカル機器のブラウザからLLMとチャットできる。"
               },
               {
                 "t": "p",
-                "x": "カメラ連携を示す文字列も見つかった。Android XR眼鏡では「What plant am I looking at?」(私が見ている植物は何?)のように尋ねられる。Geminiはカメラをオンにして、ユーザーが見ているものを「見る」ことができる。Googleはこの機能をオフにできるようにする可能性が高く、「turn on the camera」「turn off the camera」と話してカメラを使うこともできそうだ。"
-              },
-              {
-                "t": "p",
-                "x": "新しいホットワード「Hey Gemini」はスマートフォンにも広がる可能性がある。"
+                "x": "コメント欄では暗号資産マイニングによるGPU不足を思い出す声もあったが、Tom's Hardwareはその可能性は低いとみる。PS5のGPUは最速でもなく、RAMも最大ではないからだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Android XR眼镜\n将支持Hey Gemini",
-          "body": "Google正为Android XR眼镜开发Hey Gemini唤醒词和相机启动功能。",
-          "mini_headline": "XR眼镜迎来Hey Gemini",
+          "headline": "越狱PS5s用GPU\n跑本地AI模型",
+          "body": "PS5LM分支用GPU和最多11.4 GiB内存，以每秒20个token运行27B 模型。",
+          "mini_headline": "PS5s用GPU跑本地AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
-                "cap": "Xreal Aura"
+                "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+                "cap": "（图片来源：Tom's Hardware）"
               },
               {
                 "t": "p",
-                "x": "从Google Assistant的“Hey Google”和“Ok Google”起步的唤醒词，如今似乎正走向“Hey Gemini”。我们拆解最新版Google应用后，发现了指向Android XR设备新唤醒词“Hey Gemini”的字符串。"
+                "x": "Reddit用户u/AdIllustrious7246发布了PS5LM的一个分支。PS5LM是在越狱PS5s上本地运行AI LLMs的llama.cpp移植版，而这个分支可在主机上原生运行，并调用GPU以每秒20个token的速度运行Qwen3.8-27B 等更大的模型。"
               },
               {
                 "t": "p",
-                "x": "字符串显示，用户可以说“Hey Google”或“Hey Gemini”来唤起AI助手，并说“Ok Google”开始对话。“Hey Gemini”唤醒词默认不开启，需要打开“Wear Detection”；该选项位于Glasses偏好设置中。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
-                "cap": "Xreal Aura"
+                "x": "GitHub用户cobanov的原版移植以payload形式在CPU上运行，由于占用更多内存会导致主界面卡死，RAM访问被限制在约6.25 GiB。该分支则使用PS5_Vulkan——RADV图形驱动的移植版，让指令能够到达通常处于锁定状态的PS5 GPU。"
               },
               {
                 "t": "p",
-                "x": "Google似乎还会在你佩戴眼镜时优先让眼镜与Gemini对话，避免手机和眼镜同时被唤醒。"
+                "x": "在GPU上原生运行时，它最多可使用11.4 GiB RAM；Gemma 4 E4B和Llama 3.2 3B 等较小模型分别达到每秒61和124个token。仪表盘实时显示每秒token数、GPU和CPU占用、功耗、温度以及模型与KV缓存之间的内存分配，用户还可通过llama.cpp的Web UI在其他本地设备的浏览器中与LLM对话。"
               },
               {
                 "t": "p",
-                "x": "我们还发现了指向相机集成的字符串。Android XR眼镜用户可以问“What plant am I looking at?”（我看到的是什么植物？）之类的问题。Gemini能够打开相机，“看到”你正在看的东西。Google很可能允许关闭这一功能，你也仍可以说“turn on the camera”或“turn off the camera”来使用相机。"
-              },
-              {
-                "t": "p",
-                "x": "新的“Hey Gemini”唤醒词也可能登陆智能手机。"
+                "x": "评论者想起了加密货币挖矿引发的GPU短缺，但Tom's Hardware认为这不太可能：PS5的GPU既不是最快的，内存也不是最多的。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google prepara \"Hey Gemini\"\npara las gafas Android XR",
-          "body": "Cadenas de la app revelan que Google prepara el comando \"Hey Gemini\" y la activación de cámara para gafas Android XR.",
-          "mini_headline": "Hey Gemini para gafas XR",
+          "headline": "Las PS5s con jailbreak ya corren\nIA local en la GPU de la consola",
+          "body": "Un fork nativo de PS5LM usa la GPU de la PS5 y hasta 11,4 GiB de RAM y mueve un modelo de 27B a 20 tokens por segundo.",
+          "mini_headline": "Las PS5s corren IA local en la GPU",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
-                "cap": "Xreal Aura"
+                "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+                "cap": "(Crédito de imagen: Tom's Hardware)"
               },
               {
                 "t": "p",
-                "x": "Lo que empezó con “Hey Google” y “Ok Google” para Google Assistant ahora parece encaminarse hacia “Hey Gemini”. Al revisar la última versión de la app de Google, encontramos cadenas que apuntan a una nueva palabra de activación “Hey Gemini” para dispositivos Android XR."
+                "x": "El usuario de Reddit u/AdIllustrious7246 publicó un fork de PS5LM, un port de llama.cpp para ejecutar LLMs de IA en local en PS5s con jailbreak, que funciona de forma nativa en la consola y usa su GPU para mover modelos más grandes como Qwen3.8-27B a 20 tokens por segundo."
               },
               {
                 "t": "p",
-                "x": "Las cadenas sugieren que los usuarios podrán decir “Hey Google” o “Hey Gemini” para activar su asistente de AI, y “Ok Google” para iniciar una conversación. La palabra de activación “Hey Gemini” no estará activada por defecto y requerirá encender “Wear Detection”; la opción estará dentro de las preferencias de Glasses."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
-                "cap": "Xreal Aura"
+                "x": "El port original del usuario de GitHub cobanov se ejecuta como payload en la CPU, lo que limita el acceso a la RAM a unos 6,25 GiB, porque ocupar más congelaría la pantalla de inicio. El fork, en cambio, usa PS5_Vulkan, un port del controlador gráfico RADV que permite que las instrucciones lleguen a la GPU de la PS5, normalmente bloqueada."
               },
               {
                 "t": "p",
-                "x": "También parece que Google dará prioridad a las gafas en las conversaciones con Gemini mientras las llevas puestas, para que el smartphone y las gafas no se activen a la vez."
+                "x": "Al ejecutarse de forma nativa en la GPU, puede usar hasta 11,4 GiB de RAM; modelos más pequeños como Gemma 4 E4B y Llama 3.2 3B alcanzan 61 y 124 tokens por segundo. Un panel muestra en tiempo real los tokens por segundo, el uso de GPU y CPU, el consumo, las temperaturas y el reparto de memoria entre el modelo y la caché KV, y la interfaz web de llama.cpp permite chatear con el LLM desde otros dispositivos locales en un navegador."
               },
               {
                 "t": "p",
-                "x": "También encontramos cadenas que apuntan a una integración con la cámara. Las gafas Android XR permitirán preguntar cosas como “What plant am I looking at?” (¿qué planta estoy mirando?). Gemini podrá encender la cámara y “ver” lo que estás mirando. Es probable que Google permita desactivar esta función, y aun así podrías usar la cámara diciendo “turn on the camera” o “turn off the camera”."
-              },
-              {
-                "t": "p",
-                "x": "La nueva palabra de activación “Hey Gemini” también podría llegar a los smartphones."
+                "x": "Algunos comentaristas recordaron la crisis de GPU causada por la minería de criptomonedas, pero Tom's Hardware lo ve poco probable: la PS5 no tiene la GPU más rápida ni la mayor cantidad de RAM."
               }
             ]
           }
@@ -415,15 +327,15 @@
       }
     },
     {
-      "id": "gadgets-brera",
+      "id": "gadgets-asusproartp16",
       "source_lang": "en",
-      "tool": "Gadgets",
       "eyebrow": "AI NEWS",
-      "headline": "Meta AI 안경이 연\n밀라노 Brera 예술",
-      "body": "Meta·EssilorLuxottica·Brera가 AI 안경 예술 시범을 연다.",
-      "mini_headline": "Brera의 AI 안경",
-      "source": "Meta Newsroom",
-      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
+      "headline": "RTX Spark 품은\nProArt P16 리뷰",
+      "body": "Tom's Guide 평가로 ProArt P16은 최고의 AI 노트북이나 비싸다.",
+      "mini_headline": "ProArt P16 RTX Spark 리뷰",
+      "tool": "Gadgets",
+      "source": "Tom's Guide",
+      "url": "https://www.tomsguide.com/computing/laptops/asus-proart-p16-rtx-spark-review",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
@@ -431,555 +343,235 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
-          },
-          {
-            "t": "video",
-            "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
+            "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
           },
           {
             "t": "p",
-            "x": "Meta와 Pinacoteca di Brera, EssilorLuxottica가 “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”(눈에 보이는 것 너머의 걸작을 발견하다)를 시작했다. AI 안경으로 시각장애인과 저시력자가 예술을 더 쉽게 누릴 방법을 찾는 시범사업이며, ANS, UICI, Fondazione Istituto dei Ciechi di Milano가 함께한다."
+            "x": "Nvidia의 RTX Spark 칩이 마침내 노트북에 들어왔다. 3D 작업과 영상, 게임용 RTX 그래픽에, AI 모델과 에이전트를 로컬에서 돌리는 CUDA까지 갖췄다. Tom's Guide가 이 칩을 시험한 기기는 120Hz OLED 터치스크린과 최대 128GB RAM을 갖춘 더 얇은 16인치 크리에이터 노트북 Asus ProArt P16이다."
           },
           {
             "t": "p",
-            "x": "이탈리아에는 시각장애인이나 시각 손상을 겪는 사람이 백만 명 넘게 있다. AI 안경은 미술관의 Grande Brera 앱과 연동된다. 앱에 담긴 오디오 투어 가이드는 ANS가 DescriVedendo 방식으로 만들었고, 작품의 형태와 구도, 시각적 세부를 말로 풀어 준다."
-          },
-          {
-            "t": "p",
-            "x": "선정된 작품 여덟 점 중 하나 앞에 서면 관람객은 안경에서 작품 인식을 켜고 안경테의 오픈형 스피커로 음성 해설을 들을 수 있다. Meta AI는 주변 환경에 관한 질문에 답하고, Be My Eyes는 관람객을 비장애인 자원봉사자와 상담원에게 연결해 준다."
-          },
-          {
-            "t": "p",
-            "x": "시범사업은 시각장애인·저시력자와 함께 테스트하고 자문을 받아 만들었다. 투어는 예약제이고, AI 안경은 화요일부터 금요일까지 10:00 AM부터 4:30 PM까지 이용할 수 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Meta AI glasses open\nart at Milan's Brera",
-          "body": "Brera, Meta and EssilorLuxottica launch \"Sensing Art,\" a pilot using AI glasses to expand access to art.",
-          "mini_headline": "AI glasses at Brera",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
-              },
-              {
-                "t": "video",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta, Pinacoteca di Brera and EssilorLuxottica have launched “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye,” a pilot exploring how AI glasses can make art more accessible for people who are blind or with low vision, in collaboration with ANS, UICI and the Fondazione Istituto dei Ciechi di Milano."
-              },
-              {
-                "t": "p",
-                "x": "Over one million people in Italy are blind or visually impaired. The AI glasses have been integrated with the museum’s Grande Brera app, which includes an audio tour guide developed by ANS using the DescriVedendo method, translating an artwork’s shapes, composition and visual details into spoken words."
-              },
-              {
-                "t": "p",
-                "x": "In front of one of eight selected artworks, visitors can activate artwork recognition from the glasses and hear the audio description through the open-ear speakers in the frames. Meta AI answers questions about the surroundings, and Be My Eyes connects visitors with sighted volunteers and operators."
-              },
-              {
-                "t": "p",
-                "x": "The pilot was developed through testing and consultation with blind and visually impaired people. The tour is available upon reservation, with AI glasses available Tuesday through Friday from 10:00 AM to 4:30 PM."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Meta AI 안경이 연\n밀라노 Brera 예술",
-          "body": "Meta·EssilorLuxottica·Brera가 AI 안경 예술 시범을 연다.",
-          "mini_headline": "Brera의 AI 안경",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
-              },
-              {
-                "t": "video",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta와 Pinacoteca di Brera, EssilorLuxottica가 “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”(눈에 보이는 것 너머의 걸작을 발견하다)를 시작했다. AI 안경으로 시각장애인과 저시력자가 예술을 더 쉽게 누릴 방법을 찾는 시범사업이며, ANS, UICI, Fondazione Istituto dei Ciechi di Milano가 함께한다."
-              },
-              {
-                "t": "p",
-                "x": "이탈리아에는 시각장애인이나 시각 손상을 겪는 사람이 백만 명 넘게 있다. AI 안경은 미술관의 Grande Brera 앱과 연동된다. 앱에 담긴 오디오 투어 가이드는 ANS가 DescriVedendo 방식으로 만들었고, 작품의 형태와 구도, 시각적 세부를 말로 풀어 준다."
-              },
-              {
-                "t": "p",
-                "x": "선정된 작품 여덟 점 중 하나 앞에 서면 관람객은 안경에서 작품 인식을 켜고 안경테의 오픈형 스피커로 음성 해설을 들을 수 있다. Meta AI는 주변 환경에 관한 질문에 답하고, Be My Eyes는 관람객을 비장애인 자원봉사자와 상담원에게 연결해 준다."
-              },
-              {
-                "t": "p",
-                "x": "시범사업은 시각장애인·저시력자와 함께 테스트하고 자문을 받아 만들었다. 투어는 예약제이고, AI 안경은 화요일부터 금요일까지 10:00 AM부터 4:30 PM까지 이용할 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Meta AI眼鏡が開く\nミラノBreraの芸術",
-          "body": "Brera、Meta、EssilorLuxotticaがAI眼鏡の美術鑑賞試験を始めた。",
-          "mini_headline": "BreraのAI眼鏡",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
-              },
-              {
-                "t": "video",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta、Pinacoteca di Brera、EssilorLuxotticaは「Sensing Art – Discovering Masterpieces Beyond What Meets the Eye」(目に見えるものの先にある名作を発見する)を開始した。AI眼鏡が視覚障害や弱視の人々にとって芸術をより身近にできるかを探る試験事業で、ANS、UICI、Fondazione Istituto dei Ciechi di Milanoと協力している。"
-              },
-              {
-                "t": "p",
-                "x": "イタリアには視覚障害のある人が百万人以上いる。AI眼鏡は美術館のGrande Breraアプリと連携しており、このアプリにはANSがDescriVedendo方式で開発した音声ツアーガイドが含まれる。作品の形、構図、視覚的な細部を言葉に置き換えて伝えるものだ。"
-              },
-              {
-                "t": "p",
-                "x": "選ばれた八つの作品のいずれかの前で、来館者は眼鏡から作品認識を起動し、フレームに内蔵されたオープンイヤー型スピーカーで音声解説を聞ける。Meta AIは周囲に関する質問に答え、Be My Eyesは来館者を晴眼者のボランティアやオペレーターにつなぐ。"
-              },
-              {
-                "t": "p",
-                "x": "この試験事業は、視覚障害のある人々とのテストや協議を通じて開発された。ツアーは予約制で、AI眼鏡は火曜日から金曜日の10:00 AMから4:30 PMまで利用できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meta AI眼镜打开\n米兰Brera的艺术",
-          "body": "Brera、Meta与EssilorLuxottica推出用AI眼镜拓展艺术可及性的试点。",
-          "mini_headline": "Brera的AI眼镜",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
-              },
-              {
-                "t": "video",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta、Pinacoteca di Brera与EssilorLuxottica推出了“Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”（发现目之所及以外的杰作）试点项目，与ANS、UICI及Fondazione Istituto dei Ciechi di Milano合作，探索AI眼镜如何让盲人和低视力人群更容易接触艺术。"
-              },
-              {
-                "t": "p",
-                "x": "意大利有超过一百万名盲人或视障人士。AI眼镜已与博物馆的Grande Brera应用集成，该应用包含ANS采用DescriVedendo方法开发的语音导览，把艺术品的形状、构图和视觉细节转化为口述文字。"
-              },
-              {
-                "t": "p",
-                "x": "在八件入选作品中的任意一件前，参观者可以通过眼镜启动作品识别，并经由镜框中的开放式扬声器收听语音讲解。Meta AI可回答有关周围环境的问题，Be My Eyes则将参观者与明眼志愿者和接线员连接起来。"
-              },
-              {
-                "t": "p",
-                "x": "该试点项目经过与盲人和视障人士的测试与咨询后开发而成。导览需预约，AI眼镜的开放时间为周二至周五10:00 AM至4:30 PM。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Las gafas con AI de Meta abren\nel arte de la Brera de Milán",
-          "body": "Brera, Meta y EssilorLuxottica lanzan \"Sensing Art\", un piloto con gafas de AI para ampliar el acceso al arte.",
-          "mini_headline": "Gafas con AI en la Brera",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
-              },
-              {
-                "t": "video",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta, la Pinacoteca di Brera y EssilorLuxottica han lanzado “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”, un piloto que explora cómo las gafas con AI pueden hacer el arte más accesible para personas ciegas o con baja visión, en colaboración con ANS, UICI y la Fondazione Istituto dei Ciechi di Milano."
-              },
-              {
-                "t": "p",
-                "x": "Más de un millón de personas en Italia son ciegas o tienen discapacidad visual. Las gafas con AI se han integrado en la app Grande Brera del museo, que incluye una audioguía desarrollada por ANS con el método DescriVedendo, que traduce en palabras las formas, la composición y los detalles visuales de una obra."
-              },
-              {
-                "t": "p",
-                "x": "Frente a una de las ocho obras seleccionadas, los visitantes pueden activar el reconocimiento de obras desde las gafas y escuchar la audiodescripción a través de los altavoces abiertos de la montura. Meta AI responde preguntas sobre el entorno, y Be My Eyes conecta a los visitantes con voluntarios y operadores videntes."
-              },
-              {
-                "t": "p",
-                "x": "El piloto se desarrolló mediante pruebas y consultas con personas ciegas y con discapacidad visual. La visita está disponible con reserva, y las gafas con AI pueden usarse de martes a viernes de 10:00 AM a 4:30 PM."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Meta AI 안경이 연\n밀라노 Brera 예술",
-          "body": "Meta·EssilorLuxottica·Brera가 AI 안경 예술 시범을 연다.",
-          "mini_headline": "Brera의 AI 안경",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
-              },
-              {
-                "t": "video",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta와 Pinacoteca di Brera, EssilorLuxottica가 “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”(눈에 보이는 것 너머의 걸작을 발견하다)를 시작했다. AI 안경이 시각장애인과 저시력자의 예술 접근성을 어떻게 높일 수 있는지 살펴보는 시범사업으로, ANS, UICI, Fondazione Istituto dei Ciechi di Milano와 협력한다."
-              },
-              {
-                "t": "p",
-                "x": "이탈리아에는 시각장애인이나 시각 손상을 겪는 사람이 백만 명 넘게 있다. AI 안경은 미술관의 Grande Brera 앱과 연동된다. 이 앱에는 ANS가 DescriVedendo 방식으로 만든 오디오 투어 가이드가 들어 있으며, 작품의 형태와 구도, 시각적 세부를 말로 옮겨 준다."
-              },
-              {
-                "t": "p",
-                "x": "선정된 작품 여덟 점 가운데 하나 앞에 서면, 관람객은 안경에서 작품 인식을 켜고 안경테의 오픈형 스피커로 음성 해설을 들을 수 있다. Meta AI는 주변 환경에 관한 질문에 답하고, Be My Eyes는 관람객을 비장애인 자원봉사자와 상담원에게 연결해 준다."
-              },
-              {
-                "t": "p",
-                "x": "이 시범사업은 시각장애인 및 저시력자와의 테스트와 자문을 거쳐 개발됐다. 투어는 예약제로 운영되며, AI 안경은 화요일부터 금요일까지 10:00 AM부터 4:30 PM까지 이용할 수 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Meta AI眼鏡が開く\nミラノBreraの芸術",
-          "body": "Brera、Meta、EssilorLuxotticaがAI眼鏡の美術鑑賞試験を始めた。",
-          "mini_headline": "BreraのAI眼鏡",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
-              },
-              {
-                "t": "video",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta、Pinacoteca di Brera、EssilorLuxotticaは「Sensing Art – Discovering Masterpieces Beyond What Meets the Eye」(目に見えるものの先にある名作を発見する)を開始した。AI眼鏡が視覚障害や弱視の人々にとって芸術をより身近にできるかを探る試験事業で、ANS、UICI、Fondazione Istituto dei Ciechi di Milanoと協力している。"
-              },
-              {
-                "t": "p",
-                "x": "イタリアには視覚障害のある人が百万人以上いる。AI眼鏡は美術館のGrande Breraアプリと連携しており、このアプリにはANSがDescriVedendo方式で開発した音声ツアーガイドが含まれる。作品の形、構図、視覚的な細部を言葉に置き換えて伝えるものだ。"
-              },
-              {
-                "t": "p",
-                "x": "選ばれた八つの作品のいずれかの前で、来館者は眼鏡から作品認識を起動し、フレームに内蔵されたオープンイヤー型スピーカーで音声解説を聞ける。Meta AIは周囲に関する質問に答え、Be My Eyesは来館者を晴眼者のボランティアやオペレーターにつなぐ。"
-              },
-              {
-                "t": "p",
-                "x": "この試験事業は、視覚障害のある人々とのテストや協議を通じて開発された。ツアーは予約制で、AI眼鏡は火曜日から金曜日の10:00 AMから4:30 PMまで利用できる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meta AI眼镜打开\n米兰Brera的艺术",
-          "body": "Brera、Meta与EssilorLuxottica推出用AI眼镜拓展艺术可及性的试点。",
-          "mini_headline": "Brera的AI眼镜",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
-              },
-              {
-                "t": "video",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta、Pinacoteca di Brera与EssilorLuxottica推出了“Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”（发现目之所及以外的杰作）试点项目，与ANS、UICI及Fondazione Istituto dei Ciechi di Milano合作，探索AI眼镜如何让盲人和低视力人群更容易接触艺术。"
-              },
-              {
-                "t": "p",
-                "x": "意大利有超过一百万名盲人或视障人士。AI眼镜已与博物馆的Grande Brera应用集成，该应用包含ANS采用DescriVedendo方法开发的语音导览，把艺术品的形状、构图和视觉细节转化为口述文字。"
-              },
-              {
-                "t": "p",
-                "x": "在八件入选作品中的任意一件前，参观者可以通过眼镜启动作品识别，并经由镜框中的开放式扬声器收听语音讲解。Meta AI可回答有关周围环境的问题，Be My Eyes则将参观者与明眼志愿者和接线员连接起来。"
-              },
-              {
-                "t": "p",
-                "x": "该试点项目经过与盲人和视障人士的测试与咨询后开发而成。导览需预约，AI眼镜的开放时间为周二至周五10:00 AM至4:30 PM。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Las gafas con AI de Meta abren\nel arte de la Brera de Milán",
-          "body": "Brera, Meta y EssilorLuxottica lanzan \"Sensing Art\", un piloto con gafas de AI para ampliar el acceso al arte.",
-          "mini_headline": "Gafas con AI en la Brera",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
-              },
-              {
-                "t": "video",
-                "src": "https://about.fb.com/wp-content/uploads/2026/10/Global-sub-ENG-Sensing-Art-video-2.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Meta, la Pinacoteca di Brera y EssilorLuxottica han lanzado “Sensing Art – Discovering Masterpieces Beyond What Meets the Eye”, un piloto que explora cómo las gafas con AI pueden hacer el arte más accesible para personas ciegas o con baja visión, en colaboración con ANS, UICI y la Fondazione Istituto dei Ciechi di Milano."
-              },
-              {
-                "t": "p",
-                "x": "Más de un millón de personas en Italia son ciegas o tienen discapacidad visual. Las gafas con AI se han integrado en la app Grande Brera del museo, que incluye una audioguía desarrollada por ANS con el método DescriVedendo, que traduce en palabras las formas, la composición y los detalles visuales de una obra."
-              },
-              {
-                "t": "p",
-                "x": "Frente a una de las ocho obras seleccionadas, los visitantes pueden activar el reconocimiento de obras desde las gafas y escuchar la audiodescripción a través de los altavoces abiertos de la montura. Meta AI responde preguntas sobre el entorno, y Be My Eyes conecta a los visitantes con voluntarios y operadores videntes."
-              },
-              {
-                "t": "p",
-                "x": "El piloto se desarrolló mediante pruebas y consultas con personas ciegas y con discapacidad visual. La visita está disponible con reserva, y las gafas con AI pueden usarse de martes a viernes de 10:00 AM a 4:30 PM."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-galaxylang",
-      "source_lang": "en",
-      "tool": "Gadgets",
-      "eyebrow": "AI NEWS",
-      "headline": "Galaxy AI와\nBixby 지원 언어 확대",
-      "body": "Samsung이 Galaxy AI와 Bixby의 지원 언어를 늘렸다.",
-      "mini_headline": "Galaxy AI 지원 언어 확대",
-      "source": "Samsung Global Newsroom",
-      "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
-      "accent": "#7928ca",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Samsung이 Galaxy AI와 Bixby의 지원 언어를 넓혔다. 더 많은 사용자가 자기 언어로 이 기능을 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Galaxy AI는 번역, 받아쓰기, 요약 기능을 시작으로 더 많은 기능에서 지원 언어를 늘린다. Call Assist, Note Assist, Interpreter, Transcript Assist에 헝가리어와 말레이어가 들어가, Live Translate 같은 기능은 24개 언어를 지원한다."
+            "x": "구독료나 프롬프트 요금 없이 나만의 온디바이스 AI 에이전트를 돌린다는 점이 핵심이다. 시험 기기는 20코어 RTX Spark N1X CPU와 6144코어 GPU에 128GB RAM, 2TB 저장공간을 갖췄다. Windows on Arm 기기라 일부 앱은 Microsoft의 Prism 에뮬레이션을 거쳐 돈다."
           },
           {
             "t": "img",
-            "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
-            "cap": "Malay-English 통화의 Live Translate 화면(설명을 위한 시뮬레이션 이미지다. 실제 UX/UI는 다를 수 있다.)"
+            "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+            "cap": "(이미지 출처: Future / Tom's Guide)"
           },
           {
             "t": "p",
-            "x": "Galaxy AI의 다른 기능인 Now Nudge도 언어 여덟 개가 늘어 24개 언어를 지원한다. Now Nudge는 화면 내용을 보고 알맞은 다음 단계를 제안한다."
+            "x": "Handbrake 4K-to-1080p 트랜스코딩은 02:06에 끝났고, 게임에서는 이전 모델에 들어간 독립 RTX 4070보다 빨랐다. 배터리로는 12시간 26분을 버텼다. 순수 성능은 아직 Apple의 MacBook Pro M5 Pro가 위다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+            "cap": "(이미지 출처: Future / Tom's Guide)"
           },
           {
             "t": "p",
-            "x": "Bixby는 자연스러운 대화로 기기를 직관적으로 제어하는 디바이스 에이전트다. 사용자는 설정의 정확한 이름이나 메뉴 위치를 몰라도 자기 말로 필요한 것을 요청할 수 있다. 폴란드어, 태국어, 베트남어가 더해져 Bixby 지원 언어는 12개가 됐다. 그만큼 더 많은 Galaxy 사용자가 기기를 수월하게 다룬다."
-          },
-          {
-            "t": "p",
-            "x": "Bixby의 새 언어는 October 14부터 배포되고, Galaxy AI의 새 언어는 몇 주 안에 뒤따른다."
+            "x": "Red Dead Redemption 2가 자꾸 멈추자 로컬 Hermes Agent가 원인을 찾았다. 게임이 Vulkan 모드로 돌고 있었고, 에이전트가 DirectX 12로 바꾸자 문제가 풀렸다. 팬 소음이 크고 키보드 주변이 뜨거우며 가격이 $2,799~$6,999라는 점은 아쉽다. '최고의 AI 노트북 중 하나'지만 맞는 사람은 AI 파워 유저나 3D 크리에이터 정도다."
           }
         ]
       },
+      "_lead_image": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "Galaxy AI and Bixby\nlearn more languages",
-          "body": "Samsung expands language support for Galaxy AI and Bixby, opening both AI experiences to users of more languages.",
-          "mini_headline": "Galaxy AI adds languages",
+          "headline": "Asus ProArt P16 with RTX Spark\ntested as an AI creator laptop",
+          "body": "Tom's Guide calls the Asus ProArt P16 with Nvidia RTX Spark the ultimate AI creator laptop, at a price to match.",
+          "mini_headline": "ProArt P16 RTX Spark tested",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Samsung is expanding language support for Galaxy AI and Bixby, bringing these experiences to more users in their own language."
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Galaxy AI is expanding language support across more of its features, starting with those that translate, transcribe, and summarize. Call Assist, Note Assist, Interpreter, and Transcript Assist now include Hungarian and Malay, bringing features such as Live Translate to 24 languages."
+                "x": "Nvidia's RTX Spark chip has finally landed in laptops, with RTX graphics for 3D work, video and gaming plus CUDA to run AI models and agents locally. Tom's Guide tested it in the Asus ProArt P16, a slimmer 16-inch creator laptop with a 120Hz OLED touchscreen and up to 128GB of RAM."
+              },
+              {
+                "t": "p",
+                "x": "The main draw is running your own on-device AI agent — no subscriptions or prompt fees. The tested unit pairs a 20-core RTX Spark N1X CPU and 6144-core GPU with 128GB of RAM and 2TB of storage; it is Windows on Arm, so some apps run through Microsoft's Prism emulation."
               },
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
-                "cap": "Live Translate of a phone call in Malay-English (Image simulated for illustrative purposes. Actual UX/UI may differ.)"
+                "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+                "cap": "(Image credit: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "Elsewhere in Galaxy AI, Now Nudge, which suggests a relevant next step based on what is on screen, adds eight languages to reach 24 as well."
+                "x": "It cut Handbrake 4K-to-1080p transcodes to 02:06, beat the last model's dedicated RTX 4070 in games, and lasted 12 hours and 26 minutes on battery. Apple's MacBook Pro M5 Pro still wins on raw performance."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+                "cap": "(Image credit: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "Bixby is a device agent that offers intuitive device control through natural conversation. Users can ask for what they need in their own words, without having to know the exact name of a setting or where to find it in a menu. With the addition of Polish, Thai, and Vietnamese, Bixby now supports 12 languages, allowing more Galaxy users to control their devices more effortlessly."
-              },
-              {
-                "t": "p",
-                "x": "Bixby’s new languages will begin rolling out on October 14, with the new Galaxy AI languages to follow in the coming weeks."
+                "x": "When Red Dead Redemption 2 kept crashing, a local Hermes Agent found it was running in Vulkan mode, switched it to DirectX 12 and fixed it. The downsides: fans get loud, the keyboard area gets hot, and it costs $2,799 to $6,999 — 'one of the best AI laptops,' but only for AI power users or 3D creatives."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Galaxy AI와\nBixby 지원 언어 확대",
-          "body": "Samsung이 Galaxy AI와 Bixby의 지원 언어를 늘렸다.",
-          "mini_headline": "Galaxy AI 지원 언어 확대",
+          "headline": "RTX Spark 품은\nProArt P16 리뷰",
+          "body": "Tom's Guide 평가로 ProArt P16은 최고의 AI 노트북이나 비싸다.",
+          "mini_headline": "ProArt P16 RTX Spark 리뷰",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Samsung이 Galaxy AI와 Bixby의 지원 언어를 넓혔다. 더 많은 사용자가 자기 언어로 이 기능을 쓸 수 있다."
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Galaxy AI는 번역, 받아쓰기, 요약 기능을 시작으로 더 많은 기능에서 지원 언어를 늘린다. Call Assist, Note Assist, Interpreter, Transcript Assist에 헝가리어와 말레이어가 들어가, Live Translate 같은 기능은 24개 언어를 지원한다."
+                "x": "Nvidia의 RTX Spark 칩이 마침내 노트북에 들어왔다. 3D 작업과 영상, 게임용 RTX 그래픽에, AI 모델과 에이전트를 로컬에서 돌리는 CUDA까지 갖췄다. Tom's Guide가 이 칩을 시험한 기기는 120Hz OLED 터치스크린과 최대 128GB RAM을 갖춘 더 얇은 16인치 크리에이터 노트북 Asus ProArt P16이다."
+              },
+              {
+                "t": "p",
+                "x": "구독료나 프롬프트 요금 없이 나만의 온디바이스 AI 에이전트를 돌린다는 점이 핵심이다. 시험 기기는 20코어 RTX Spark N1X CPU와 6144코어 GPU에 128GB RAM, 2TB 저장공간을 갖췄다. Windows on Arm 기기라 일부 앱은 Microsoft의 Prism 에뮬레이션을 거쳐 돈다."
               },
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
-                "cap": "Malay-English 통화의 Live Translate 화면(설명을 위한 시뮬레이션 이미지다. 실제 UX/UI는 다를 수 있다.)"
+                "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+                "cap": "(이미지 출처: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "Galaxy AI의 다른 기능인 Now Nudge도 언어 여덟 개가 늘어 24개 언어를 지원한다. Now Nudge는 화면 내용을 보고 알맞은 다음 단계를 제안한다."
+                "x": "Handbrake 4K-to-1080p 트랜스코딩은 02:06에 끝났고, 게임에서는 이전 모델에 들어간 독립 RTX 4070보다 빨랐다. 배터리로는 12시간 26분을 버텼다. 순수 성능은 아직 Apple의 MacBook Pro M5 Pro가 위다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+                "cap": "(이미지 출처: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "Bixby는 자연스러운 대화로 기기를 직관적으로 제어하는 디바이스 에이전트다. 사용자는 설정의 정확한 이름이나 메뉴 위치를 몰라도 자기 말로 필요한 것을 요청할 수 있다. 폴란드어, 태국어, 베트남어가 더해져 Bixby 지원 언어는 12개가 됐다. 그만큼 더 많은 Galaxy 사용자가 기기를 수월하게 다룬다."
-              },
-              {
-                "t": "p",
-                "x": "Bixby의 새 언어는 October 14부터 배포되고, Galaxy AI의 새 언어는 몇 주 안에 뒤따른다."
+                "x": "Red Dead Redemption 2가 자꾸 멈추자 로컬 Hermes Agent가 원인을 찾았다. 게임이 Vulkan 모드로 돌고 있었고, 에이전트가 DirectX 12로 바꾸자 문제가 풀렸다. 팬 소음이 크고 키보드 주변이 뜨거우며 가격이 $2,799~$6,999라는 점은 아쉽다. '최고의 AI 노트북 중 하나'지만 맞는 사람은 AI 파워 유저나 3D 크리에이터 정도다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Galaxy AIと\nBixbyの対応言語が拡大",
-          "body": "SamsungがGalaxy AIとBixbyの対応言語を広げ、より多くの人に届ける。",
-          "mini_headline": "Galaxy AIが対応言語を拡大",
+          "headline": "RTX Spark搭載の\nProArt P16を試す",
+          "body": "Tom's Guideは、ProArt P16を価格相応の最高のAIノートと評した。",
+          "mini_headline": "ProArt P16 RTX Sparkを試す",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "SamsungはGalaxy AIとBixbyの対応言語を拡大し、より多くのユーザーが自分の言語でこれらの機能を使えるようにする。"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Galaxy AIは、翻訳、文字起こし、要約の機能を皮切りに、より多くの機能で対応言語を広げる。Call Assist、Note Assist、Interpreter、Transcript Assistにハンガリー語とマレー語が加わり、Live Translateなどの機能は24言語に対応する。"
+                "x": "NvidiaのRTX Sparkチップがついにノートパソコンに搭載された。3D作業や動画、ゲーム向けのRTXグラフィックスに加え、AIモデルやエージェントをローカルで動かすCUDAを備える。Tom's Guideは、120Hz OLEDタッチスクリーンと最大128GBのRAMを備えた薄型16インチのクリエイター向けノート、Asus ProArt P16でこれを試した。"
+              },
+              {
+                "t": "p",
+                "x": "最大の魅力は、サブスクリプションもプロンプト料金もなしに自分だけのオンデバイスAIエージェントを動かせることだ。試用機は20コアのRTX Spark N1X CPUと6144コアのGPUに、128GBのRAMと2TBのストレージを組み合わせる。Windows on Armのため、一部のアプリはMicrosoftのPrismエミュレーションで動作する。"
               },
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
-                "cap": "Malay-Englishの通話をLive Translateで翻訳する様子(説明用のシミュレーション画像。実際のUX/UIとは異なる場合がある。)"
+                "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+                "cap": "(画像出典：Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "Galaxy AIではほかにも、画面の内容に応じて次の一手を提案するNow Nudgeが八つの言語を追加し、同じく24言語に対応する。"
+                "x": "Handbrakeによる4K-to-1080pトランスコードを02:06に短縮し、ゲームでは前モデルの単体RTX 4070を上回り、バッテリーでは12時間26分持続した。純粋な性能では依然としてAppleのMacBook Pro M5 Proが勝る。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+                "cap": "(画像出典：Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "Bixbyは、自然な会話で直感的に機器を操作できるデバイスエージェントだ。ユーザーは設定の正確な名前やメニューの場所を知らなくても、自分の言葉で必要なことを頼める。ポーランド語、タイ語、ベトナム語の追加により、Bixbyは12言語に対応し、より多くのGalaxyユーザーが機器をより手軽に操作できるようになる。"
-              },
-              {
-                "t": "p",
-                "x": "Bixbyの新言語はOctober 14から順次提供が始まり、Galaxy AIの新言語も数週間のうちに続く。"
+                "x": "Red Dead Redemption 2がクラッシュを繰り返した際、ローカルのHermes AgentがVulkanモードで動いていることを突き止め、DirectX 12に切り替えて解決した。欠点はファンの騒音、キーボード周辺の発熱、そして$2,799〜$6,999という価格だ。「最高のAIノートの一つ」だが、AIのパワーユーザーや3Dクリエイター向けに限られる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Galaxy AI和\nBixby支持更多语言",
-          "body": "Samsung扩大Galaxy AI和Bixby的语言支持，让更多用户用上这两项AI体验。",
-          "mini_headline": "Galaxy AI新增语言",
+          "headline": "搭载RTX Spark的\nProArt P16实测",
+          "body": "Tom's Guide称ProArt P16是顶级AI创作者笔记本，价格也与之相称。",
+          "mini_headline": "ProArt P16 RTX Spark实测",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Samsung正在扩大Galaxy AI和Bixby的语言支持，让更多用户能以自己的语言使用这些体验。"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Galaxy AI正在把语言支持扩展到更多功能，首先是翻译、转写和摘要类功能。Call Assist、Note Assist、Interpreter和Transcript Assist现已加入匈牙利语和马来语，Live Translate等功能由此支持24种语言。"
+                "x": "Nvidia的RTX Spark芯片终于登陆笔记本电脑，既有面向3D工作、视频和游戏的RTX图形性能，也有可在本地运行AI模型和智能体的CUDA。Tom's Guide在Asus ProArt P16上进行了测试，这是一款更轻薄的16英寸创作者笔记本，配备120Hz OLED触摸屏和最高128GB内存。"
+              },
+              {
+                "t": "p",
+                "x": "最大卖点是无需订阅或提示词费用即可运行自己的端侧AI智能体。测试机搭载20核RTX Spark N1X CPU和6144核GPU，配备128GB RAM与2TB存储；它是Windows on Arm设备，因此部分应用需通过Microsoft的Prism仿真运行。"
               },
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
-                "cap": "Malay-English通话的Live Translate（图片为示意模拟，实际UX/UI可能有所不同。）"
+                "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+                "cap": "（图片来源：Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "Galaxy AI中的另一项功能Now Nudge会根据屏幕内容推荐相关的下一步操作，它新增了八种语言，同样达到24种。"
+                "x": "它将Handbrake的4K-to-1080p转码时间缩短至02:06，游戏表现超过上一代机型的独立RTX 4070，电池续航达12小时26分钟。论纯性能，Apple的MacBook Pro M5 Pro依然更胜一筹。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+                "cap": "（图片来源：Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "Bixby是一款设备代理，可通过自然对话直观地控制设备。用户无需知道设置的确切名称或它在菜单中的位置，就能用自己的话提出需求。新增波兰语、泰语和越南语后，Bixby现支持12种语言，让更多Galaxy用户更轻松地控制设备。"
-              },
-              {
-                "t": "p",
-                "x": "Bixby的新语言将于October 14开始推送，Galaxy AI的新语言将在未来几周内跟进。"
+                "x": "当Red Dead Redemption 2不断崩溃时，本地运行的Hermes Agent发现它处于Vulkan模式，将其切换为DirectX 12后解决了问题。缺点是风扇噪音大、键盘区域发烫，售价为$2,799至$6,999——是“最好的AI笔记本之一”，但只适合AI重度用户或3D创作者。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Galaxy AI y Bixby\naprenden más idiomas",
-          "body": "Samsung amplía los idiomas de Galaxy AI y Bixby, y abre ambas experiencias de AI a usuarios de más lenguas.",
-          "mini_headline": "Galaxy AI suma idiomas",
+          "headline": "Asus ProArt P16 con RTX Spark\na prueba como portátil de IA",
+          "body": "Para Tom's Guide, el ProArt P16 con RTX Spark es el mejor portátil de IA para creadores, y su precio está a la altura.",
+          "mini_headline": "ProArt P16 con RTX Spark, a prueba",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Samsung amplía la compatibilidad de idiomas de Galaxy AI y Bixby, y lleva estas experiencias a más usuarios en su propio idioma."
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Galaxy AI amplía la compatibilidad de idiomas a más funciones, empezando por las que traducen, transcriben y resumen. Call Assist, Note Assist, Interpreter y Transcript Assist incorporan ahora el húngaro y el malayo, con lo que funciones como Live Translate llegan a 24 idiomas."
+                "x": "El chip RTX Spark de Nvidia por fin llega a los portátiles, con gráficos RTX para trabajo 3D, vídeo y juegos, y CUDA para ejecutar modelos y agentes de IA en local. Tom's Guide lo probó en el Asus ProArt P16, un portátil para creadores de 16 pulgadas más delgado, con pantalla táctil OLED de 120Hz y hasta 128GB de RAM."
+              },
+              {
+                "t": "p",
+                "x": "El principal atractivo es ejecutar tu propio agente de IA en el dispositivo, sin suscripciones ni tarifas por prompt. La unidad probada combina una CPU RTX Spark N1X de 20 núcleos y una GPU de 6144 núcleos con 128GB de RAM y 2TB de almacenamiento; usa Windows on Arm, así que algunas apps funcionan mediante la emulación Prism de Microsoft."
               },
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
-                "cap": "Live Translate de una llamada en Malay-English (imagen simulada con fines ilustrativos; la UX/UI real puede variar.)"
+                "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+                "cap": "(Crédito de imagen: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "En otra parte de Galaxy AI, Now Nudge, que sugiere un siguiente paso pertinente según lo que aparece en pantalla, suma ocho idiomas y también llega a 24."
+                "x": "Redujo las transcodificaciones 4K-to-1080p de Handbrake a 02:06, superó en juegos a la RTX 4070 dedicada del modelo anterior y aguantó 12 horas y 26 minutos con batería. El MacBook Pro M5 Pro de Apple sigue ganando en rendimiento bruto."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+                "cap": "(Crédito de imagen: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "Bixby es un agente del dispositivo que permite controlarlo de forma intuitiva mediante conversación natural. Los usuarios pueden pedir lo que necesitan con sus propias palabras, sin conocer el nombre exacto de un ajuste ni dónde encontrarlo en un menú. Con la incorporación del polaco, el tailandés y el vietnamita, Bixby admite ahora 12 idiomas, lo que permite a más usuarios de Galaxy controlar sus dispositivos con menos esfuerzo."
-              },
-              {
-                "t": "p",
-                "x": "Los nuevos idiomas de Bixby empezarán a desplegarse el 14 de octubre, y los nuevos idiomas de Galaxy AI llegarán en las próximas semanas."
+                "x": "Cuando Red Dead Redemption 2 se cerraba una y otra vez, un Hermes Agent local detectó que se ejecutaba en modo Vulkan, lo cambió a DirectX 12 y lo solucionó. Las pegas: los ventiladores hacen ruido, la zona del teclado se calienta y cuesta entre $2,799 y $6,999; es 'uno de los mejores portátiles de IA', pero solo para usuarios avanzados de IA o creativos 3D."
               }
             ]
           }
@@ -987,141 +579,161 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Galaxy AI와\nBixby 지원 언어 확대",
-          "body": "Samsung이 Galaxy AI와 Bixby의 지원 언어를 늘렸다.",
-          "mini_headline": "Galaxy AI 지원 언어 확대",
+          "headline": "RTX Spark 탑재한\nProArt P16 리뷰",
+          "body": "Tom's Guide가 본 ProArt P16은 최고의 AI 노트북이지만 비싸다.",
+          "mini_headline": "ProArt P16 RTX Spark 리뷰",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Samsung이 Galaxy AI와 Bixby의 지원 언어를 확대해, 더 많은 사용자가 자기 언어로 이 기능들을 쓸 수 있게 한다."
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Galaxy AI는 번역, 받아쓰기, 요약 기능을 시작으로 더 많은 기능에서 지원 언어를 늘린다. Call Assist, Note Assist, Interpreter, Transcript Assist에 헝가리어와 말레이어가 추가되면서 Live Translate 같은 기능의 지원 언어가 24개로 늘었다."
+                "x": "Nvidia의 RTX Spark 칩이 마침내 노트북에 들어왔다. 3D 작업과 영상, 게임을 위한 RTX 그래픽에 AI 모델과 에이전트를 로컬에서 돌리는 CUDA를 갖췄다. Tom's Guide는 120Hz OLED 터치스크린과 최대 128GB RAM을 갖춘 더 얇은 16인치 크리에이터 노트북 Asus ProArt P16으로 이를 시험했다."
+              },
+              {
+                "t": "p",
+                "x": "핵심은 구독료나 프롬프트 요금 없이 나만의 온디바이스 AI 에이전트를 돌릴 수 있다는 점이다. 시험 기기는 20코어 RTX Spark N1X CPU와 6144코어 GPU에 128GB RAM, 2TB 저장공간을 갖췄다. Windows on Arm 기기라 일부 앱은 Microsoft의 Prism 에뮬레이션으로 실행된다."
               },
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
-                "cap": "Malay-English 통화의 Live Translate 화면(설명을 위한 시뮬레이션 이미지다. 실제 UX/UI는 다를 수 있다.)"
+                "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+                "cap": "(이미지 출처: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "Galaxy AI의 다른 기능인 Now Nudge도 언어 여덟 개를 추가해 마찬가지로 24개 언어를 지원한다. Now Nudge는 화면 내용을 바탕으로 적절한 다음 단계를 제안한다."
+                "x": "Handbrake 4K-to-1080p 트랜스코딩을 02:06으로 줄였고, 게임에서는 이전 모델의 독립 RTX 4070을 앞섰으며, 배터리로 12시간 26분을 버텼다. 순수 성능에서는 여전히 Apple의 MacBook Pro M5 Pro가 앞선다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+                "cap": "(이미지 출처: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "Bixby는 자연스러운 대화로 기기를 직관적으로 제어하는 디바이스 에이전트다. 사용자는 설정의 정확한 이름이나 메뉴 위치를 몰라도 자기 말로 필요한 것을 요청할 수 있다. 폴란드어, 태국어, 베트남어가 추가되면서 Bixby는 12개 언어를 지원하게 됐고, 더 많은 Galaxy 사용자가 한층 수월하게 기기를 제어할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Bixby의 새 언어는 October 14부터 배포를 시작하며, Galaxy AI의 새 언어는 앞으로 몇 주 안에 뒤따른다."
+                "x": "Red Dead Redemption 2가 계속 멈추자, 로컬 Hermes Agent가 게임이 Vulkan 모드로 돌고 있음을 찾아내 DirectX 12로 바꿔 문제를 해결했다. 단점은 팬 소음이 크고 키보드 주변이 뜨거우며, 가격이 $2,799~$6,999라는 점이다. '최고의 AI 노트북 중 하나'지만 AI 파워 유저나 3D 크리에이터에게만 맞다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Galaxy AIと\nBixbyの対応言語が拡大",
-          "body": "SamsungがGalaxy AIとBixbyの対応言語を広げ、より多くの人に届ける。",
-          "mini_headline": "Galaxy AIが対応言語を拡大",
+          "headline": "RTX Spark搭載の\nProArt P16を試す",
+          "body": "Tom's Guideは、ProArt P16を価格相応の最高のAIノートと評した。",
+          "mini_headline": "ProArt P16 RTX Sparkを試す",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "SamsungはGalaxy AIとBixbyの対応言語を拡大し、より多くのユーザーが自分の言語でこれらの機能を使えるようにする。"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Galaxy AIは、翻訳、文字起こし、要約の機能を皮切りに、より多くの機能で対応言語を広げる。Call Assist、Note Assist、Interpreter、Transcript Assistにハンガリー語とマレー語が加わり、Live Translateなどの機能は24言語に対応する。"
+                "x": "NvidiaのRTX Sparkチップがついにノートパソコンに搭載された。3D作業や動画、ゲーム向けのRTXグラフィックスに加え、AIモデルやエージェントをローカルで動かすCUDAを備える。Tom's Guideは、120Hz OLEDタッチスクリーンと最大128GBのRAMを備えた薄型16インチのクリエイター向けノート、Asus ProArt P16でこれを試した。"
+              },
+              {
+                "t": "p",
+                "x": "最大の魅力は、サブスクリプションもプロンプト料金もなしに自分だけのオンデバイスAIエージェントを動かせることだ。試用機は20コアのRTX Spark N1X CPUと6144コアのGPUに、128GBのRAMと2TBのストレージを組み合わせる。Windows on Armのため、一部のアプリはMicrosoftのPrismエミュレーションで動作する。"
               },
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
-                "cap": "Malay-Englishの通話をLive Translateで翻訳する様子(説明用のシミュレーション画像。実際のUX/UIとは異なる場合がある。)"
+                "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+                "cap": "(画像出典：Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "Galaxy AIではほかにも、画面の内容に応じて次の一手を提案するNow Nudgeが八つの言語を追加し、同じく24言語に対応する。"
+                "x": "Handbrakeによる4K-to-1080pトランスコードを02:06に短縮し、ゲームでは前モデルの単体RTX 4070を上回り、バッテリーでは12時間26分持続した。純粋な性能では依然としてAppleのMacBook Pro M5 Proが勝る。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+                "cap": "(画像出典：Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "Bixbyは、自然な会話で直感的に機器を操作できるデバイスエージェントだ。ユーザーは設定の正確な名前やメニューの場所を知らなくても、自分の言葉で必要なことを頼める。ポーランド語、タイ語、ベトナム語の追加により、Bixbyは12言語に対応し、より多くのGalaxyユーザーが機器をより手軽に操作できるようになる。"
-              },
-              {
-                "t": "p",
-                "x": "Bixbyの新言語はOctober 14から順次提供が始まり、Galaxy AIの新言語も数週間のうちに続く。"
+                "x": "Red Dead Redemption 2がクラッシュを繰り返した際、ローカルのHermes AgentがVulkanモードで動いていることを突き止め、DirectX 12に切り替えて解決した。欠点はファンの騒音、キーボード周辺の発熱、そして$2,799〜$6,999という価格だ。「最高のAIノートの一つ」だが、AIのパワーユーザーや3Dクリエイター向けに限られる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Galaxy AI和\nBixby支持更多语言",
-          "body": "Samsung扩大Galaxy AI和Bixby的语言支持，让更多用户用上这两项AI体验。",
-          "mini_headline": "Galaxy AI新增语言",
+          "headline": "搭载RTX Spark的\nProArt P16实测",
+          "body": "Tom's Guide称ProArt P16是顶级AI创作者笔记本，价格也与之相称。",
+          "mini_headline": "ProArt P16 RTX Spark实测",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Samsung正在扩大Galaxy AI和Bixby的语言支持，让更多用户能以自己的语言使用这些体验。"
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Galaxy AI正在把语言支持扩展到更多功能，首先是翻译、转写和摘要类功能。Call Assist、Note Assist、Interpreter和Transcript Assist现已加入匈牙利语和马来语，Live Translate等功能由此支持24种语言。"
+                "x": "Nvidia的RTX Spark芯片终于登陆笔记本电脑，既有面向3D工作、视频和游戏的RTX图形性能，也有可在本地运行AI模型和智能体的CUDA。Tom's Guide在Asus ProArt P16上进行了测试，这是一款更轻薄的16英寸创作者笔记本，配备120Hz OLED触摸屏和最高128GB内存。"
+              },
+              {
+                "t": "p",
+                "x": "最大卖点是无需订阅或提示词费用即可运行自己的端侧AI智能体。测试机搭载20核RTX Spark N1X CPU和6144核GPU，配备128GB RAM与2TB存储；它是Windows on Arm设备，因此部分应用需通过Microsoft的Prism仿真运行。"
               },
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
-                "cap": "Malay-English通话的Live Translate（图片为示意模拟，实际UX/UI可能有所不同。）"
+                "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+                "cap": "（图片来源：Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "Galaxy AI中的另一项功能Now Nudge会根据屏幕内容推荐相关的下一步操作，它新增了八种语言，同样达到24种。"
+                "x": "它将Handbrake的4K-to-1080p转码时间缩短至02:06，游戏表现超过上一代机型的独立RTX 4070，电池续航达12小时26分钟。论纯性能，Apple的MacBook Pro M5 Pro依然更胜一筹。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+                "cap": "（图片来源：Future / Tom's Guide）"
               },
               {
                 "t": "p",
-                "x": "Bixby是一款设备代理，可通过自然对话直观地控制设备。用户无需知道设置的确切名称或它在菜单中的位置，就能用自己的话提出需求。新增波兰语、泰语和越南语后，Bixby现支持12种语言，让更多Galaxy用户更轻松地控制设备。"
-              },
-              {
-                "t": "p",
-                "x": "Bixby的新语言将于October 14开始推送，Galaxy AI的新语言将在未来几周内跟进。"
+                "x": "当Red Dead Redemption 2不断崩溃时，本地运行的Hermes Agent发现它处于Vulkan模式，将其切换为DirectX 12后解决了问题。缺点是风扇噪音大、键盘区域发烫，售价为$2,799至$6,999——是“最好的AI笔记本之一”，但只适合AI重度用户或3D创作者。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Galaxy AI y Bixby\naprenden más idiomas",
-          "body": "Samsung amplía los idiomas de Galaxy AI y Bixby, y abre ambas experiencias de AI a usuarios de más lenguas.",
-          "mini_headline": "Galaxy AI suma idiomas",
+          "headline": "Asus ProArt P16 con RTX Spark\na prueba como portátil de IA",
+          "body": "Para Tom's Guide, el ProArt P16 con RTX Spark es el mejor portátil de IA para creadores, y su precio está a la altura.",
+          "mini_headline": "ProArt P16 con RTX Spark, a prueba",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Samsung amplía la compatibilidad de idiomas de Galaxy AI y Bixby, y lleva estas experiencias a más usuarios en su propio idioma."
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Galaxy AI amplía la compatibilidad de idiomas a más funciones, empezando por las que traducen, transcriben y resumen. Call Assist, Note Assist, Interpreter y Transcript Assist incorporan ahora el húngaro y el malayo, con lo que funciones como Live Translate llegan a 24 idiomas."
+                "x": "El chip RTX Spark de Nvidia por fin llega a los portátiles, con gráficos RTX para trabajo 3D, vídeo y juegos, y CUDA para ejecutar modelos y agentes de IA en local. Tom's Guide lo probó en el Asus ProArt P16, un portátil para creadores de 16 pulgadas más delgado, con pantalla táctil OLED de 120Hz y hasta 128GB de RAM."
+              },
+              {
+                "t": "p",
+                "x": "El principal atractivo es ejecutar tu propio agente de IA en el dispositivo, sin suscripciones ni tarifas por prompt. La unidad probada combina una CPU RTX Spark N1X de 20 núcleos y una GPU de 6144 núcleos con 128GB de RAM y 2TB de almacenamiento; usa Windows on Arm, así que algunas apps funcionan mediante la emulación Prism de Microsoft."
               },
               {
                 "t": "img",
-                "src": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13150954/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Main1.jpg",
-                "cap": "Live Translate de una llamada en Malay-English (imagen simulada con fines ilustrativos; la UX/UI real puede variar.)"
+                "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+                "cap": "(Crédito de imagen: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "En otra parte de Galaxy AI, Now Nudge, que sugiere un siguiente paso pertinente según lo que aparece en pantalla, suma ocho idiomas y también llega a 24."
+                "x": "Redujo las transcodificaciones 4K-to-1080p de Handbrake a 02:06, superó en juegos a la RTX 4070 dedicada del modelo anterior y aguantó 12 horas y 26 minutos con batería. El MacBook Pro M5 Pro de Apple sigue ganando en rendimiento bruto."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+                "cap": "(Crédito de imagen: Future / Tom's Guide)"
               },
               {
                 "t": "p",
-                "x": "Bixby es un agente del dispositivo que permite controlarlo de forma intuitiva mediante conversación natural. Los usuarios pueden pedir lo que necesitan con sus propias palabras, sin conocer el nombre exacto de un ajuste ni dónde encontrarlo en un menú. Con la incorporación del polaco, el tailandés y el vietnamita, Bixby admite ahora 12 idiomas, lo que permite a más usuarios de Galaxy controlar sus dispositivos con menos esfuerzo."
-              },
-              {
-                "t": "p",
-                "x": "Los nuevos idiomas de Bixby empezarán a desplegarse el 14 de octubre, y los nuevos idiomas de Galaxy AI llegarán en las próximas semanas."
+                "x": "Cuando Red Dead Redemption 2 se cerraba una y otra vez, un Hermes Agent local detectó que se ejecutaba en modo Vulkan, lo cambió a DirectX 12 y lo solucionó. Las pegas: los ventiladores hacen ruido, la zona del teclado se calienta y cuesta entre $2,799 y $6,999; es 'uno de los mejores portátiles de IA', pero solo para usuarios avanzados de IA o creativos 3D."
               }
             ]
           }
@@ -1129,15 +741,409 @@
       }
     },
     {
-      "id": "gadgets-siri",
+      "id": "gadgets-macpaweney",
       "source_lang": "en",
-      "tool": "Gadgets",
       "eyebrow": "AI NEWS",
-      "headline": "Siri는 ChatGPT를\n이길 필요가 없다",
-      "body": "Apple CEO는 TIME에 Siri가 iPhone의 개인 데이터에 건다고 했다.",
-      "mini_headline": "Siri의 승부수는 개인 데이터",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/ai/apple-says-siri-doesnt-need-to-beat-chatgpt-heres-what-its-betting-on-instead",
+      "headline": "MacPaw Eney 출시\nMac·iPhone용 비서",
+      "body": "MacPaw Eney는 앱·파일·시스템을 오가며 먼저 일을 챙기는 AI 비서다.",
+      "mini_headline": "MacPaw, Eney 출시",
+      "tool": "Gadgets",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/",
+      "accent": "#7928ca",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+          },
+          {
+            "t": "p",
+            "x": "MacPaw가 앱과 파일, 시스템을 넘나들며 일을 돕는 능동형 AI 비서 Eney를 내놓는다. 시작은 2019년, 자연어 명령으로 CleanMyMac을 간편하게 쓰자는 아이디어였다. 오늘 Mac과 iPhone용으로 나온다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+          },
+          {
+            "t": "p",
+            "x": "Eney는 앱, 파일, 캘린더 회의 등 Mac의 맥락을 이해해 챙길 일을 찾아낸 뒤 다음 단계를 준비해 두고 사용자 승인을 기다린다. 텍스트 위에서 커서를 흔들거나 Option + W를 누르면 Eney Wand가 뜬다. 모델은 로컬과 클라우드를 함께 쓰고, Apple 하드웨어용 맞춤 모델은 Liquid AI와 함께 개발했다."
+          },
+          {
+            "t": "img",
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+          },
+          {
+            "t": "p",
+            "x": "MacPaw의 AI 메모리 시스템 Mnemos는 Mac 안에서 로컬로 저장·처리하는 지식 그래프를 쓴다. 다만 아직 개발 중이다. Eney는 글쓰기 도우미 Eney Spell, 봇 없는 통화 받아쓰기, Mac 관리 알림, Gmail·Slack·Notion·Jira·Linear 등과의 연동까지 8개 언어로 지원한다."
+          },
+          {
+            "t": "p",
+            "x": "14일 무료 체험에 AI 크레딧 10,000개가 들어 있고, 요금제는 Starter($14.99, 크레딧 10,000개)부터 Power($49.99, 크레딧 30,000개)까지다."
+          }
+        ]
+      },
+      "_lead_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600",
+      "_video": "",
+      "text": {
+        "en": {
+          "headline": "MacPaw launches Eney, an AI\nassistant for Mac and iPhone",
+          "body": "MacPaw's Eney is a proactive AI assistant that works across your apps, files, and system to help you get things done.",
+          "mini_headline": "MacPaw launches Eney",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "MacPaw is releasing Eney, a proactive AI assistant that works across your apps, files, and system to help you get things done. It began in 2019 as an idea for simplifying CleanMyMac through natural-language commands and launches today for Mac and iPhone."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "Eney understands the Mac's context — apps, files, calendar meetings — and spots what needs attention, preparing the next step for your approval. Shake your cursor over text (or press Option + W) to invoke Eney Wand. It uses local and cloud models, with custom models developed alongside Liquid AI for Apple hardware."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "Mnemos, MacPaw's AI memory system, uses a knowledge graph stored and processed locally on the Mac, though it is still in development. Eney also offers Eney Spell writing help, call transcription without a bot, Mac maintenance alerts, and integrations with Gmail, Slack, Notion, Jira, Linear and more, in eight languages."
+              },
+              {
+                "t": "p",
+                "x": "A 14-day free trial includes 10,000 AI credits; plans run from Starter ($14.99, 10,000 credits) to Power ($49.99, 30,000 credits)."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "MacPaw Eney 출시\nMac·iPhone용 비서",
+          "body": "MacPaw Eney는 앱·파일·시스템을 오가며 먼저 일을 챙기는 AI 비서다.",
+          "mini_headline": "MacPaw, Eney 출시",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "MacPaw가 앱과 파일, 시스템을 넘나들며 일을 돕는 능동형 AI 비서 Eney를 내놓는다. 시작은 2019년, 자연어 명령으로 CleanMyMac을 간편하게 쓰자는 아이디어였다. 오늘 Mac과 iPhone용으로 나온다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "Eney는 앱, 파일, 캘린더 회의 등 Mac의 맥락을 이해해 챙길 일을 찾아낸 뒤 다음 단계를 준비해 두고 사용자 승인을 기다린다. 텍스트 위에서 커서를 흔들거나 Option + W를 누르면 Eney Wand가 뜬다. 모델은 로컬과 클라우드를 함께 쓰고, Apple 하드웨어용 맞춤 모델은 Liquid AI와 함께 개발했다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "MacPaw의 AI 메모리 시스템 Mnemos는 Mac 안에서 로컬로 저장·처리하는 지식 그래프를 쓴다. 다만 아직 개발 중이다. Eney는 글쓰기 도우미 Eney Spell, 봇 없는 통화 받아쓰기, Mac 관리 알림, Gmail·Slack·Notion·Jira·Linear 등과의 연동까지 8개 언어로 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "14일 무료 체험에 AI 크레딧 10,000개가 들어 있고, 요금제는 Starter($14.99, 크레딧 10,000개)부터 Power($49.99, 크레딧 30,000개)까지다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MacPawがEney発表\nMac・iPhone向けAI",
+          "body": "MacPawのEneyはアプリやファイル、システムを横断して働く能動型AIアシスタントだ。",
+          "mini_headline": "MacPawがEneyを発表",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "MacPawは、アプリやファイル、システムを横断して作業を手助けする能動型AIアシスタントEneyをリリースする。2019年、自然言語コマンドでCleanMyMacを簡単に使えるようにするというアイデアから始まり、本日MacとiPhone向けに提供を開始する。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "Eneyはアプリ、ファイル、カレンダーのミーティングなどMacの文脈を理解し、対応が必要なことを見つけて次のステップを用意し、ユーザーの承認を待つ。テキストの上でカーソルを振る(またはOption + Wを押す)とEney Wandが呼び出される。ローカルとクラウドのモデルを使い、Liquid AIと共同でApple製ハードウェア向けのカスタムモデルを開発した。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "MacPawのAIメモリーシステムMnemosは、Mac上でローカルに保存・処理するナレッジグラフを使うが、まだ開発中だ。Eneyはほかにも、文章作成支援のEney Spell、ボット不要の通話文字起こし、Macのメンテナンス通知、Gmail、Slack、Notion、Jira、Linearなどとの連携を8言語で提供する。"
+              },
+              {
+                "t": "p",
+                "x": "14日間の無料トライアルには10,000 AIクレジットが含まれ、プランはStarter($14.99、10,000クレジット)からPower($49.99、30,000クレジット)までだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "MacPaw推出Eney\n面向Mac与iPhone",
+          "body": "MacPaw的Eney是一款主动式AI助手，可跨应用、文件和系统帮你完成工作。",
+          "mini_headline": "MacPaw推出Eney",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "MacPaw即将推出Eney，这是一款可跨应用、文件和系统帮你完成工作的主动式AI助手。它始于2019年一个通过自然语言命令简化CleanMyMac的想法，今天面向Mac和iPhone发布。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "Eney能理解Mac的上下文——应用、文件、日历会议——发现需要处理的事项，并准备好下一步供你批准。在文字上晃动光标（或按Option + W）即可唤出Eney Wand。它同时使用本地和云端模型，并与Liquid AI合作为Apple硬件开发了定制模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "MacPaw的AI记忆系统Mnemos使用在Mac本地存储和处理的知识图谱，但仍在开发中。Eney还提供写作助手Eney Spell、无需机器人的通话转录、Mac维护提醒，以及与Gmail、Slack、Notion、Jira、Linear等的集成，支持八种语言。"
+              },
+              {
+                "t": "p",
+                "x": "14天免费试用包含10,000个AI积分；套餐从Starter（$14.99，10,000积分）到Power（$49.99，30,000积分）不等。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "MacPaw lanza Eney, un asistente\nde IA para Mac y iPhone",
+          "body": "Eney de MacPaw es un asistente de IA proactivo que opera en tus apps, archivos y sistema para ayudarte a hacer tareas.",
+          "mini_headline": "MacPaw lanza Eney",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "MacPaw lanza Eney, un asistente de IA proactivo que opera en tus apps, archivos y sistema para ayudarte a hacer tareas. Nació en 2019 como una idea para simplificar CleanMyMac mediante comandos en lenguaje natural y hoy llega a Mac y iPhone."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "Eney entiende el contexto del Mac —apps, archivos, reuniones del calendario— y detecta lo que requiere atención, preparando el siguiente paso para que lo apruebes. Al agitar el cursor sobre un texto (o pulsar Option + W) se invoca Eney Wand. Usa modelos locales y en la nube, con modelos propios desarrollados junto a Liquid AI para el hardware de Apple."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "Mnemos, el sistema de memoria de IA de MacPaw, usa un grafo de conocimiento almacenado y procesado localmente en el Mac, aunque aún está en desarrollo. Eney también ofrece ayuda de escritura con Eney Spell, transcripción de llamadas sin bot, alertas de mantenimiento del Mac e integraciones con Gmail, Slack, Notion, Jira, Linear y más, en ocho idiomas."
+              },
+              {
+                "t": "p",
+                "x": "Una prueba gratuita de 14 días incluye 10.000 créditos de IA; los planes van de Starter ($14.99, 10.000 créditos) a Power ($49.99, 30.000 créditos)."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "MacPaw Eney 출시\nMac·iPhone용 비서",
+          "body": "MacPaw Eney는 앱·파일·시스템을 넘나들며 일을 돕는 능동형 AI 비서다.",
+          "mini_headline": "MacPaw, Eney 출시",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "MacPaw가 앱과 파일, 시스템을 넘나들며 일을 돕는 능동형 AI 비서 Eney를 내놓는다. 2019년 자연어 명령으로 CleanMyMac을 간편하게 쓰자는 아이디어에서 출발했으며, 오늘 Mac과 iPhone용으로 출시된다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "Eney는 앱, 파일, 캘린더 회의 등 Mac의 맥락을 이해해 챙겨야 할 일을 찾아내고, 다음 단계를 준비해 사용자 승인을 기다린다. 텍스트 위에서 커서를 흔들거나 Option + W를 누르면 Eney Wand가 호출된다. 로컬 모델과 클라우드 모델을 함께 쓰며, Liquid AI와 함께 Apple 하드웨어용 맞춤 모델을 개발했다."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "MacPaw의 AI 메모리 시스템 Mnemos는 Mac에서 로컬로 저장·처리하는 지식 그래프를 쓰지만, 아직 개발 중이다. Eney는 글쓰기 도우미 Eney Spell, 봇 없는 통화 받아쓰기, Mac 관리 알림, Gmail·Slack·Notion·Jira·Linear 등과의 연동도 8개 언어로 제공한다."
+              },
+              {
+                "t": "p",
+                "x": "14일 무료 체험에는 AI 크레딧 10,000개가 포함되며, 요금제는 Starter($14.99, 크레딧 10,000개)부터 Power($49.99, 크레딧 30,000개)까지다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MacPawがEney発表\nMac・iPhone向けAI",
+          "body": "MacPawのEneyはアプリやファイル、システムを横断して働く能動型AIアシスタントだ。",
+          "mini_headline": "MacPawがEneyを発表",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "MacPawは、アプリやファイル、システムを横断して作業を手助けする能動型AIアシスタントEneyをリリースする。2019年、自然言語コマンドでCleanMyMacを簡単に使えるようにするというアイデアから始まり、本日MacとiPhone向けに提供を開始する。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "Eneyはアプリ、ファイル、カレンダーのミーティングなどMacの文脈を理解し、対応が必要なことを見つけて次のステップを用意し、ユーザーの承認を待つ。テキストの上でカーソルを振る(またはOption + Wを押す)とEney Wandが呼び出される。ローカルとクラウドのモデルを使い、Liquid AIと共同でApple製ハードウェア向けのカスタムモデルを開発した。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "MacPawのAIメモリーシステムMnemosは、Mac上でローカルに保存・処理するナレッジグラフを使うが、まだ開発中だ。Eneyはほかにも、文章作成支援のEney Spell、ボット不要の通話文字起こし、Macのメンテナンス通知、Gmail、Slack、Notion、Jira、Linearなどとの連携を8言語で提供する。"
+              },
+              {
+                "t": "p",
+                "x": "14日間の無料トライアルには10,000 AIクレジットが含まれ、プランはStarter($14.99、10,000クレジット)からPower($49.99、30,000クレジット)までだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "MacPaw推出Eney\n面向Mac与iPhone",
+          "body": "MacPaw的Eney是一款主动式AI助手，可跨应用、文件和系统帮你完成工作。",
+          "mini_headline": "MacPaw推出Eney",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "MacPaw即将推出Eney，这是一款可跨应用、文件和系统帮你完成工作的主动式AI助手。它始于2019年一个通过自然语言命令简化CleanMyMac的想法，今天面向Mac和iPhone发布。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "Eney能理解Mac的上下文——应用、文件、日历会议——发现需要处理的事项，并准备好下一步供你批准。在文字上晃动光标（或按Option + W）即可唤出Eney Wand。它同时使用本地和云端模型，并与Liquid AI合作为Apple硬件开发了定制模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "MacPaw的AI记忆系统Mnemos使用在Mac本地存储和处理的知识图谱，但仍在开发中。Eney还提供写作助手Eney Spell、无需机器人的通话转录、Mac维护提醒，以及与Gmail、Slack、Notion、Jira、Linear等的集成，支持八种语言。"
+              },
+              {
+                "t": "p",
+                "x": "14天免费试用包含10,000个AI积分；套餐从Starter（$14.99，10,000积分）到Power（$49.99，30,000积分）不等。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "MacPaw lanza Eney, un asistente\nde IA para Mac y iPhone",
+          "body": "Eney de MacPaw es un asistente de IA proactivo que opera en tus apps, archivos y sistema para ayudarte a hacer tareas.",
+          "mini_headline": "MacPaw lanza Eney",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+              },
+              {
+                "t": "p",
+                "x": "MacPaw lanza Eney, un asistente de IA proactivo que opera en tus apps, archivos y sistema para ayudarte a hacer tareas. Nació en 2019 como una idea para simplificar CleanMyMac mediante comandos en lenguaje natural y hoy llega a Mac y iPhone."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "Eney entiende el contexto del Mac —apps, archivos, reuniones del calendario— y detecta lo que requiere atención, preparando el siguiente paso para que lo apruebes. Al agitar el cursor sobre un texto (o pulsar Option + W) se invoca Eney Wand. Usa modelos locales y en la nube, con modelos propios desarrollados junto a Liquid AI para el hardware de Apple."
+              },
+              {
+                "t": "img",
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+              },
+              {
+                "t": "p",
+                "x": "Mnemos, el sistema de memoria de IA de MacPaw, usa un grafo de conocimiento almacenado y procesado localmente en el Mac, aunque aún está en desarrollo. Eney también ofrece ayuda de escritura con Eney Spell, transcripción de llamadas sin bot, alertas de mantenimiento del Mac e integraciones con Gmail, Slack, Notion, Jira, Linear y más, en ocho idiomas."
+              },
+              {
+                "t": "p",
+                "x": "Una prueba gratuita de 14 días incluye 10.000 créditos de IA; los planes van de Starter ($14.99, 10.000 créditos) a Power ($49.99, 30.000 créditos)."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-eufywindowe10",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Eufy 창문카메라 E10\nAI 감지는 기기 안에서",
+      "body": "64.1g 창문 카메라가 사람·차량·반려동물을 기기에서 가려내고 구독료도 없다.",
+      "mini_headline": "Eufy 창문 캠, 로컬 AI",
+      "tool": "Gadgets",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
@@ -1145,293 +1151,211 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
-            "cap": "Apple CEO John Ternus와 iPhone의 Siri 앱"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+            "cap": "재사용 가능한 접착 패드로 실내 유리에 고정하고, 뒷면 다이얼로 렌즈를 최대 25도까지 아래로 기울인다"
           },
           {
             "t": "p",
-            "x": "October 15에 공개된 TIME 인터뷰에서 Apple CEO John Ternus는 회사가 AI에 남다른 방식으로 접근하는 이유를 설명했다. Apple은 가장 똑똑한 챗봇보다 이미 iPhone에 들어 있는 정보에 승부를 건다."
+            "x": "Eufy가 64.1g 보안 카메라 Window Camera E10을 내놓았다. 창문 안쪽에 붙이기만 하면 밖에 따로 설치하지 않고도 진입로나 정원, 현관을 지켜본다. 가격은 미국 $79.99, 영국 £69.99, 2개 묶음 $149.99이고 11월에 출고된다."
+          },
+          {
+            "t": "p",
+            "x": "재사용할 수 있는 접착 스티커로 1분도 안 돼 유리에 붙인다. 뒷면 다이얼로 렌즈를 최대 25도까지 아래로 기울이면 화면에 잡히는 빈 하늘이 줄어든다. 밤에 실내 조명이 유리에 비치는 현상은 반사 방지 스티커가 줄인다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
-            "cap": "OpenAI와 Apple 로고"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+            "cap": "Window Camera E10"
           },
           {
             "t": "p",
-            "x": "새 Siri에는 Google의 Gemini 기술로 만든 Apple AI 모델이 들어간다. Ternus는 TIME에 “We make the things where we can really bring differentiation”(우리는 진정한 차별화를 이룰 수 있는 것을 만든다)이라고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
-            "cap": "iPhone 17의 Apple Maps"
+            "x": "f/1.0 렌즈와 125도 화각으로 2688 x 1520 영상을 15fps로 녹화한다. 움직임 감지는 기기 안에서 처리하고, 활동을 사람·차량·반려동물로 나눠 라벨을 붙인 알림을 보낸다."
           },
           {
             "t": "p",
-            "x": "사용자가 허용하면 Siri는 지원 앱의 정보를 엮고 그 맥락으로 일을 처리한다. Apple Watch로 모은 건강 정보를 Siri가 풀이해 주는 데서도 Apple은 기회를 본다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
-            "cap": "iPhone 17 Pro에서 실행되는 iOS 27 Siri AI."
-          },
-          {
-            "t": "p",
-            "x": "Apple의 AI 제품 책임자 Lilian Rincon은 Siri가 AI 동반자처럼 행동하지 않도록 일부러 설계했다고 했다. Siri는 요청을 되도록 기기에서 처리하고, 무거운 요청만 Private Cloud Compute로 넘긴다."
-          },
-          {
-            "t": "p",
-            "x": "관건은 Apple이 Siri를 충분히 쓸모 있게 만들어 iPhone 사용자가 애초에 ChatGPT를 찾지 않게 할 수 있느냐다."
+            "x": "영상은 최대 256GB microSD 카드에 담긴다. Eufy는 AI 감지와 연속 녹화, 스마트 알림이 모두 월 구독료 없이 작동한다고 밝혔다. E10에는 배터리가 없어 3m USB-C 케이블로 연결한 플러그형 어댑터에서 전원을 받는다."
           }
         ]
       },
+      "_lead_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "Siri doesn't need\nto beat ChatGPT",
-          "body": "Apple CEO John Ternus told TIME that Siri bets on the personal data on your iPhone, not on being the smartest chatbot.",
-          "mini_headline": "Siri's bet: personal data",
+          "headline": "Eufy's Window Camera E10 runs\nAI detection on the device",
+          "body": "The 64.1g Eufy camera sticks inside a window and detects people, vehicles and pets on-device, with no subscription.",
+          "mini_headline": "Eufy window cam, local AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
-                "cap": "Apple CEO John Ternus and Siri app on iPhone"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+                "cap": "A reusable adhesive pad holds it against interior glass, and a rear dial angles the lens down by as much as 25 degrees"
               },
               {
                 "t": "p",
-                "x": "In a new interview with TIME, published October 15, Apple CEO John Ternus explained why the company is taking a different approach to AI. Rather than trying to build the smartest chatbot, Apple is betting on the information already sitting on your iPhone."
+                "x": "Eufy has launched the Window Camera E10, a 64.1g security camera that sticks to the inside of a window to watch a driveway, garden or front door without outdoor mounting. It costs $79.99 in the US and £69.99 in the UK, with a two-pack at $149.99, shipping in November."
+              },
+              {
+                "t": "p",
+                "x": "A reusable adhesive sticker fixes it to the glass in under a minute, and a rear dial tilts the lens down by up to 25 degrees to cut empty sky from the frame. Anti-reflection stickers reduce night glare from indoor lights."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
-                "cap": "OpenAI and Apple logos"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+                "cap": "The Window Camera E10"
               },
               {
                 "t": "p",
-                "x": "The new Siri uses an Apple AI model that draws on Google's Gemini technology. \"We make the things where we can really bring differentiation,\" Ternus told TIME."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
-                "cap": "Apple Maps on an iPhone 17"
+                "x": "It records 2688 x 1520 video at 15fps through an f/1.0 lens with a 125-degree field of view. Motion detection runs on the device itself, classifying activity as a person, vehicle or pet and sending labelled alerts."
               },
               {
                 "t": "p",
-                "x": "With permission, Siri can draw connections between information across supported apps and use that context to complete tasks. Apple also sees opportunities for Siri to interpret health information collected by an Apple Watch."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
-                "cap": "iOS 27 Siri AI running on iPhone 17 Pro."
-              },
-              {
-                "t": "p",
-                "x": "Apple's AI product leader Lilian Rincon explained that Siri was deliberately designed not to behave like an AI companion. Siri processes requests on device when possible, with more demanding ones handled through Private Cloud Compute."
-              },
-              {
-                "t": "p",
-                "x": "The question is whether Apple can make Siri useful enough that iPhone owners stop reaching for ChatGPT in the first place."
+                "x": "Recordings go to a microSD card of up to 256GB; Eufy says AI detection, continuous recording and smart alerts all work without a monthly fee. The E10 has no battery and runs from a plug-in adapter over a 3m USB-C cable."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Siri는 ChatGPT를\n이길 필요가 없다",
-          "body": "Apple CEO는 TIME에 Siri가 iPhone의 개인 데이터에 건다고 했다.",
-          "mini_headline": "Siri의 승부수는 개인 데이터",
+          "headline": "Eufy 창문카메라 E10\nAI 감지는 기기 안에서",
+          "body": "64.1g 창문 카메라가 사람·차량·반려동물을 기기에서 가려내고 구독료도 없다.",
+          "mini_headline": "Eufy 창문 캠, 로컬 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
-                "cap": "Apple CEO John Ternus와 iPhone의 Siri 앱"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+                "cap": "재사용 가능한 접착 패드로 실내 유리에 고정하고, 뒷면 다이얼로 렌즈를 최대 25도까지 아래로 기울인다"
               },
               {
                 "t": "p",
-                "x": "October 15에 공개된 TIME 인터뷰에서 Apple CEO John Ternus는 회사가 AI에 남다른 방식으로 접근하는 이유를 설명했다. Apple은 가장 똑똑한 챗봇보다 이미 iPhone에 들어 있는 정보에 승부를 건다."
+                "x": "Eufy가 64.1g 보안 카메라 Window Camera E10을 내놓았다. 창문 안쪽에 붙이기만 하면 밖에 따로 설치하지 않고도 진입로나 정원, 현관을 지켜본다. 가격은 미국 $79.99, 영국 £69.99, 2개 묶음 $149.99이고 11월에 출고된다."
+              },
+              {
+                "t": "p",
+                "x": "재사용할 수 있는 접착 스티커로 1분도 안 돼 유리에 붙인다. 뒷면 다이얼로 렌즈를 최대 25도까지 아래로 기울이면 화면에 잡히는 빈 하늘이 줄어든다. 밤에 실내 조명이 유리에 비치는 현상은 반사 방지 스티커가 줄인다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
-                "cap": "OpenAI와 Apple 로고"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+                "cap": "Window Camera E10"
               },
               {
                 "t": "p",
-                "x": "새 Siri에는 Google의 Gemini 기술로 만든 Apple AI 모델이 들어간다. Ternus는 TIME에 “We make the things where we can really bring differentiation”(우리는 진정한 차별화를 이룰 수 있는 것을 만든다)이라고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
-                "cap": "iPhone 17의 Apple Maps"
+                "x": "f/1.0 렌즈와 125도 화각으로 2688 x 1520 영상을 15fps로 녹화한다. 움직임 감지는 기기 안에서 처리하고, 활동을 사람·차량·반려동물로 나눠 라벨을 붙인 알림을 보낸다."
               },
               {
                 "t": "p",
-                "x": "사용자가 허용하면 Siri는 지원 앱의 정보를 엮고 그 맥락으로 일을 처리한다. Apple Watch로 모은 건강 정보를 Siri가 풀이해 주는 데서도 Apple은 기회를 본다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
-                "cap": "iPhone 17 Pro에서 실행되는 iOS 27 Siri AI."
-              },
-              {
-                "t": "p",
-                "x": "Apple의 AI 제품 책임자 Lilian Rincon은 Siri가 AI 동반자처럼 행동하지 않도록 일부러 설계했다고 했다. Siri는 요청을 되도록 기기에서 처리하고, 무거운 요청만 Private Cloud Compute로 넘긴다."
-              },
-              {
-                "t": "p",
-                "x": "관건은 Apple이 Siri를 충분히 쓸모 있게 만들어 iPhone 사용자가 애초에 ChatGPT를 찾지 않게 할 수 있느냐다."
+                "x": "영상은 최대 256GB microSD 카드에 담긴다. Eufy는 AI 감지와 연속 녹화, 스마트 알림이 모두 월 구독료 없이 작동한다고 밝혔다. E10에는 배터리가 없어 3m USB-C 케이블로 연결한 플러그형 어댑터에서 전원을 받는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SiriはChatGPTに\n勝たなくていい",
-          "body": "Apple CEOはTIMEに、SiriはiPhoneの個人データで勝負すると語った。",
-          "mini_headline": "Siriの賭けは個人データ",
+          "headline": "EufyのE10窓カメラ\nAI検知を本体で処理",
+          "body": "64.1gのEufyカメラは窓の内側に貼り、人・車・ペットを本体で検知し、サブスク不要だ。",
+          "mini_headline": "Eufyの窓カメラ、ローカルAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
-                "cap": "Apple CEOのJohn TernusとiPhoneのSiriアプリ"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+                "cap": "再利用可能な粘着パッドで室内側のガラスに固定し、背面のダイヤルでレンズを最大25度下向きに傾けられる"
               },
               {
                 "t": "p",
-                "x": "October 15に公開されたTIMEの新しいインタビューで、Apple CEOのJohn Ternusは、同社がAIに異なるアプローチを取る理由を説明した。Appleは最も賢いチャットボットを作ろうとするのではなく、すでにiPhoneにある情報に賭けている。"
+                "x": "Eufyは、窓の内側に貼り付けて屋外に設置することなく車道や庭、玄関を見守る64.1gのセキュリティカメラ「Window Camera E10」を発売した。価格は米国で$79.99、英国で£69.99、2台セットは$149.99で、11月に出荷される。"
+              },
+              {
+                "t": "p",
+                "x": "再利用可能な粘着ステッカーで1分足らずでガラスに固定でき、背面のダイヤルでレンズを最大25度下に傾けて、画面から空の部分を減らせる。反射防止ステッカーは夜間の室内照明の映り込みを抑える。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
-                "cap": "OpenAIとAppleのロゴ"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+                "cap": "Window Camera E10"
               },
               {
                 "t": "p",
-                "x": "新しいSiriは、GoogleのGemini技術を活用したAppleのAIモデルを使う。TernusはTIMEに「We make the things where we can really bring differentiation」(本当に差別化をもたらせるものを我々は作る)と語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
-                "cap": "iPhone 17のApple Maps"
+                "x": "f/1.0レンズと125度の視野角で、2688 x 1520の映像を15fpsで記録する。動体検知は本体上で実行され、動きを人、車、ペットに分類してラベル付きの通知を送る。"
               },
               {
                 "t": "p",
-                "x": "ユーザーの許可があれば、Siriは対応アプリをまたいで情報を結びつけ、その文脈を使ってタスクを完了できる。Appleはまた、Apple Watchが収集した健康情報をSiriが解釈することにも可能性を見ている。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
-                "cap": "iPhone 17 Proで動作するiOS 27のSiri AI。"
-              },
-              {
-                "t": "p",
-                "x": "AppleのAI製品責任者Lilian Rinconは、SiriがAIコンパニオンのように振る舞わないよう意図的に設計されたと説明した。Siriは可能な限りデバイス上でリクエストを処理し、負荷の高いものはPrivate Cloud Computeで処理する。"
-              },
-              {
-                "t": "p",
-                "x": "問題は、AppleがSiriを十分に役立つものにし、iPhoneユーザーがそもそもChatGPTに手を伸ばさなくなるようにできるかどうかだ。"
+                "x": "録画は最大256GBのmicroSDカードに保存される。EufyによればAI検知、連続録画、スマート通知はすべて月額料金なしで使える。E10はバッテリーを持たず、3m USB-Cケーブルで接続したプラグ式アダプターから給電する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Siri无需\n击败ChatGPT",
-          "body": "Apple CEO Ternus告诉TIME，Siri押注iPhone上的个人数据。",
-          "mini_headline": "Siri押注个人数据",
+          "headline": "Eufy E10窗户摄像头\n在设备端做AI识别",
+          "body": "这款64.1g的Eufy摄像头贴在窗内，在设备端识别人、车和宠物，无需订阅。",
+          "mini_headline": "Eufy窗户摄像头，本地AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
-                "cap": "Apple CEO John Ternus与iPhone上的Siri应用"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+                "cap": "可重复使用的粘贴垫将其固定在室内玻璃上，背部旋钮可让镜头最多向下倾斜25度"
               },
               {
                 "t": "p",
-                "x": "在October 15发布的TIME最新专访中，Apple CEO John Ternus解释了公司为何对AI采取不同的路线。Apple没有试图打造最聪明的聊天机器人，而是押注已经存放在你iPhone上的信息。"
+                "x": "Eufy推出Window Camera E10，这款64.1g的安防摄像头贴在窗户内侧，无需在户外安装即可看护车道、花园或前门。售价在美国为$79.99、英国为£69.99，双机套装$149.99，11月发货。"
+              },
+              {
+                "t": "p",
+                "x": "可重复使用的粘贴贴纸能在一分钟内将其固定在玻璃上，背部旋钮可让镜头最多向下倾斜25度，从画面中减少空旷的天空。防反光贴纸可减少夜间室内灯光造成的眩光。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
-                "cap": "OpenAI与Apple标志"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+                "cap": "Window Camera E10"
               },
               {
                 "t": "p",
-                "x": "新版Siri采用了一款借助Google的Gemini技术的Apple AI模型。Ternus告诉TIME：“We make the things where we can really bring differentiation”（我们做能真正带来差异化的东西）。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
-                "cap": "iPhone 17上的Apple Maps"
+                "x": "它通过f/1.0镜头以125度视野录制2688 x 1520、15fps的视频。移动侦测在设备本身运行，可将活动分类为人、车辆或宠物，并发送带标签的提醒。"
               },
               {
                 "t": "p",
-                "x": "在获得许可后，Siri可以把各支持应用中的信息关联起来，并利用这些上下文完成任务。Apple还看到了让Siri解读Apple Watch所收集健康信息的机会。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
-                "cap": "在iPhone 17 Pro上运行的iOS 27 Siri AI。"
-              },
-              {
-                "t": "p",
-                "x": "Apple的AI产品负责人Lilian Rincon解释说，Siri被刻意设计成不像AI伴侣那样行事。Siri会尽可能在设备端处理请求，要求更高的请求则交由Private Cloud Compute处理。"
-              },
-              {
-                "t": "p",
-                "x": "问题在于，Apple能否让Siri足够好用，让iPhone用户从一开始就不再去找ChatGPT。"
+                "x": "录像保存在最大256GB的microSD卡上；Eufy表示，AI识别、连续录像和智能提醒都无需月费。E10没有电池，通过3m USB-C线缆连接插电适配器供电。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Siri no necesita\nsuperar a ChatGPT",
-          "body": "El CEO de Apple, John Ternus, dijo a TIME que Siri apuesta por tus datos en el iPhone, no por ser el chatbot más listo.",
-          "mini_headline": "La apuesta de Siri: datos personales",
+          "headline": "La Window Camera E10 de Eufy\ndetecta con IA en el dispositivo",
+          "body": "La cámara de 64,1 g de Eufy se pega tras la ventana y detecta personas, vehículos y mascotas en local, sin suscripción.",
+          "mini_headline": "Cámara de ventana Eufy con IA local",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
-                "cap": "John Ternus, CEO de Apple, y la app de Siri en el iPhone"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+                "cap": "Una almohadilla adhesiva reutilizable la fija al cristal interior, y un dial trasero inclina la lente hacia abajo hasta 25 grados"
               },
               {
                 "t": "p",
-                "x": "En una nueva entrevista con TIME, publicada el 15 de octubre, el CEO de Apple, John Ternus, explicó por qué la compañía adopta un enfoque distinto hacia la AI. En lugar de intentar crear el chatbot más inteligente, Apple apuesta por la información que ya está en tu iPhone."
+                "x": "Eufy ha lanzado la Window Camera E10, una cámara de seguridad de 64,1 g que se pega al interior de una ventana para vigilar una entrada de coches, un jardín o la puerta principal sin montaje exterior. Cuesta $79.99 en EE. UU. y £69.99 en el Reino Unido, con un pack de dos a $149.99, y se envía en noviembre."
+              },
+              {
+                "t": "p",
+                "x": "Una pegatina adhesiva reutilizable la fija al cristal en menos de un minuto, y un dial trasero inclina la lente hacia abajo hasta 25 grados para quitar el cielo vacío del encuadre. Unas pegatinas antirreflejo reducen el brillo nocturno de las luces interiores."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
-                "cap": "Logotipos de OpenAI y Apple"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+                "cap": "La Window Camera E10"
               },
               {
                 "t": "p",
-                "x": "La nueva Siri usa un modelo de AI de Apple que se basa en la tecnología Gemini de Google. “We make the things where we can really bring differentiation” (hacemos las cosas en las que realmente podemos diferenciarnos), dijo Ternus a TIME."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
-                "cap": "Apple Maps en un iPhone 17"
+                "x": "Graba vídeo de 2688 x 1520 a 15fps con una lente f/1.0 y un campo de visión de 125 grados. La detección de movimiento se ejecuta en el propio dispositivo, que clasifica la actividad como persona, vehículo o mascota y envía alertas etiquetadas."
               },
               {
                 "t": "p",
-                "x": "Con permiso, Siri puede relacionar información entre las apps compatibles y usar ese contexto para completar tareas. Apple también ve oportunidades para que Siri interprete la información de salud recopilada por un Apple Watch."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
-                "cap": "Siri AI de iOS 27 funcionando en un iPhone 17 Pro."
-              },
-              {
-                "t": "p",
-                "x": "Lilian Rincon, responsable de producto de AI de Apple, explicó que Siri se diseñó deliberadamente para no comportarse como un compañero de AI. Siri procesa las solicitudes en el dispositivo cuando es posible, y las más exigentes se gestionan mediante Private Cloud Compute."
-              },
-              {
-                "t": "p",
-                "x": "La cuestión es si Apple puede hacer que Siri sea lo bastante útil como para que los dueños de un iPhone dejen de recurrir a ChatGPT."
+                "x": "Las grabaciones se guardan en una tarjeta microSD de hasta 256GB; Eufy afirma que la detección por IA, la grabación continua y las alertas inteligentes funcionan sin cuota mensual. La E10 no tiene batería y se alimenta con un adaptador de enchufe mediante un cable USB-C de 3m."
               }
             ]
           }
@@ -1439,201 +1363,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Siri는 ChatGPT를\n이길 필요가 없다",
-          "body": "Apple CEO는 TIME에 Siri가 iPhone의 개인 데이터에 건다고 했다.",
-          "mini_headline": "Siri의 승부수는 개인 데이터",
+          "headline": "Eufy 창문카메라 E10\nAI 감지는 기기 안에서",
+          "body": "64.1g 창문 카메라가 사람·차량·반려동물을 기기에서 감지하며 구독료가 없다.",
+          "mini_headline": "Eufy 창문 캠, 로컬 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
-                "cap": "Apple CEO John Ternus와 iPhone의 Siri 앱"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+                "cap": "재사용 가능한 접착 패드로 실내 유리에 고정하고, 뒷면 다이얼로 렌즈를 최대 25도까지 아래로 기울인다"
               },
               {
                 "t": "p",
-                "x": "October 15에 공개된 TIME 인터뷰에서 Apple CEO John Ternus는 회사가 AI에 다른 방식으로 접근하는 이유를 설명했다. Apple은 가장 똑똑한 챗봇을 만들려 하기보다 이미 iPhone에 들어 있는 정보에 걸고 있다."
+                "x": "Eufy가 64.1g 보안 카메라 Window Camera E10을 내놓았다. 창문 안쪽에 붙여 외부 설치 없이 진입로나 정원, 현관을 지켜본다. 가격은 미국 $79.99, 영국 £69.99이며 2개 묶음은 $149.99로, 11월에 출고된다."
+              },
+              {
+                "t": "p",
+                "x": "재사용 가능한 접착 스티커로 1분도 안 돼 유리에 고정하고, 뒷면 다이얼로 렌즈를 최대 25도까지 아래로 기울여 화면에서 빈 하늘을 덜어낸다. 반사 방지 스티커는 밤에 실내 조명이 비치는 현상을 줄여준다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
-                "cap": "OpenAI와 Apple 로고"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+                "cap": "Window Camera E10"
               },
               {
                 "t": "p",
-                "x": "새 Siri는 Google의 Gemini 기술을 바탕으로 한 Apple AI 모델을 쓴다. Ternus는 TIME에 “We make the things where we can really bring differentiation”(우리는 진정한 차별화를 이룰 수 있는 것을 만든다)이라고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
-                "cap": "iPhone 17의 Apple Maps"
+                "x": "f/1.0 렌즈와 125도 화각으로 2688 x 1520 영상을 15fps로 녹화한다. 움직임 감지는 기기 자체에서 이뤄지며, 활동을 사람·차량·반려동물로 분류해 라벨이 붙은 알림을 보낸다."
               },
               {
                 "t": "p",
-                "x": "사용자가 허용하면 Siri는 지원 앱 전반의 정보를 서로 연결하고, 그 맥락을 활용해 작업을 처리할 수 있다. Apple은 Siri가 Apple Watch로 수집한 건강 정보를 해석하는 데서도 기회를 본다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
-                "cap": "iPhone 17 Pro에서 실행되는 iOS 27 Siri AI."
-              },
-              {
-                "t": "p",
-                "x": "Apple의 AI 제품 책임자 Lilian Rincon은 Siri가 AI 동반자처럼 행동하지 않도록 의도적으로 설계했다고 설명했다. Siri는 가능하면 기기에서 요청을 처리하고, 더 무거운 요청은 Private Cloud Compute로 처리한다."
-              },
-              {
-                "t": "p",
-                "x": "관건은 Apple이 Siri를 충분히 쓸모 있게 만들어 iPhone 사용자가 애초에 ChatGPT를 찾지 않게 할 수 있느냐다."
+                "x": "영상은 최대 256GB microSD 카드에 저장된다. Eufy는 AI 감지와 연속 녹화, 스마트 알림이 모두 월 구독료 없이 작동한다고 밝혔다. E10은 배터리가 없고 3m USB-C 케이블로 연결한 플러그형 어댑터로 전원을 받는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SiriはChatGPTに\n勝たなくていい",
-          "body": "Apple CEOはTIMEに、SiriはiPhoneの個人データで勝負すると語った。",
-          "mini_headline": "Siriの賭けは個人データ",
+          "headline": "EufyのE10窓カメラ\nAI検知を本体で処理",
+          "body": "64.1gのEufyカメラは窓の内側に貼り、人・車・ペットを本体で検知し、サブスク不要だ。",
+          "mini_headline": "Eufyの窓カメラ、ローカルAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
-                "cap": "Apple CEOのJohn TernusとiPhoneのSiriアプリ"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+                "cap": "再利用可能な粘着パッドで室内側のガラスに固定し、背面のダイヤルでレンズを最大25度下向きに傾けられる"
               },
               {
                 "t": "p",
-                "x": "October 15に公開されたTIMEの新しいインタビューで、Apple CEOのJohn Ternusは、同社がAIに異なるアプローチを取る理由を説明した。Appleは最も賢いチャットボットを作ろうとするのではなく、すでにiPhoneにある情報に賭けている。"
+                "x": "Eufyは、窓の内側に貼り付けて屋外に設置することなく車道や庭、玄関を見守る64.1gのセキュリティカメラ「Window Camera E10」を発売した。価格は米国で$79.99、英国で£69.99、2台セットは$149.99で、11月に出荷される。"
+              },
+              {
+                "t": "p",
+                "x": "再利用可能な粘着ステッカーで1分足らずでガラスに固定でき、背面のダイヤルでレンズを最大25度下に傾けて、画面から空の部分を減らせる。反射防止ステッカーは夜間の室内照明の映り込みを抑える。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
-                "cap": "OpenAIとAppleのロゴ"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+                "cap": "Window Camera E10"
               },
               {
                 "t": "p",
-                "x": "新しいSiriは、GoogleのGemini技術を活用したAppleのAIモデルを使う。TernusはTIMEに「We make the things where we can really bring differentiation」(本当に差別化をもたらせるものを我々は作る)と語った。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
-                "cap": "iPhone 17のApple Maps"
+                "x": "f/1.0レンズと125度の視野角で、2688 x 1520の映像を15fpsで記録する。動体検知は本体上で実行され、動きを人、車、ペットに分類してラベル付きの通知を送る。"
               },
               {
                 "t": "p",
-                "x": "ユーザーの許可があれば、Siriは対応アプリをまたいで情報を結びつけ、その文脈を使ってタスクを完了できる。Appleはまた、Apple Watchが収集した健康情報をSiriが解釈することにも可能性を見ている。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
-                "cap": "iPhone 17 Proで動作するiOS 27のSiri AI。"
-              },
-              {
-                "t": "p",
-                "x": "AppleのAI製品責任者Lilian Rinconは、SiriがAIコンパニオンのように振る舞わないよう意図的に設計されたと説明した。Siriは可能な限りデバイス上でリクエストを処理し、負荷の高いものはPrivate Cloud Computeで処理する。"
-              },
-              {
-                "t": "p",
-                "x": "問題は、AppleがSiriを十分に役立つものにし、iPhoneユーザーがそもそもChatGPTに手を伸ばさなくなるようにできるかどうかだ。"
+                "x": "録画は最大256GBのmicroSDカードに保存される。EufyによればAI検知、連続録画、スマート通知はすべて月額料金なしで使える。E10はバッテリーを持たず、3m USB-Cケーブルで接続したプラグ式アダプターから給電する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Siri无需\n击败ChatGPT",
-          "body": "Apple CEO Ternus告诉TIME，Siri押注iPhone上的个人数据。",
-          "mini_headline": "Siri押注个人数据",
+          "headline": "Eufy E10窗户摄像头\n在设备端做AI识别",
+          "body": "这款64.1g的Eufy摄像头贴在窗内，在设备端识别人、车和宠物，无需订阅。",
+          "mini_headline": "Eufy窗户摄像头，本地AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
-                "cap": "Apple CEO John Ternus与iPhone上的Siri应用"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+                "cap": "可重复使用的粘贴垫将其固定在室内玻璃上，背部旋钮可让镜头最多向下倾斜25度"
               },
               {
                 "t": "p",
-                "x": "在October 15发布的TIME最新专访中，Apple CEO John Ternus解释了公司为何对AI采取不同的路线。Apple没有试图打造最聪明的聊天机器人，而是押注已经存放在你iPhone上的信息。"
+                "x": "Eufy推出Window Camera E10，这款64.1g的安防摄像头贴在窗户内侧，无需在户外安装即可看护车道、花园或前门。售价在美国为$79.99、英国为£69.99，双机套装$149.99，11月发货。"
+              },
+              {
+                "t": "p",
+                "x": "可重复使用的粘贴贴纸能在一分钟内将其固定在玻璃上，背部旋钮可让镜头最多向下倾斜25度，从画面中减少空旷的天空。防反光贴纸可减少夜间室内灯光造成的眩光。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
-                "cap": "OpenAI与Apple标志"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+                "cap": "Window Camera E10"
               },
               {
                 "t": "p",
-                "x": "新版Siri采用了一款借助Google的Gemini技术的Apple AI模型。Ternus告诉TIME：“We make the things where we can really bring differentiation”（我们做能真正带来差异化的东西）。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
-                "cap": "iPhone 17上的Apple Maps"
+                "x": "它通过f/1.0镜头以125度视野录制2688 x 1520、15fps的视频。移动侦测在设备本身运行，可将活动分类为人、车辆或宠物，并发送带标签的提醒。"
               },
               {
                 "t": "p",
-                "x": "在获得许可后，Siri可以把各支持应用中的信息关联起来，并利用这些上下文完成任务。Apple还看到了让Siri解读Apple Watch所收集健康信息的机会。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
-                "cap": "在iPhone 17 Pro上运行的iOS 27 Siri AI。"
-              },
-              {
-                "t": "p",
-                "x": "Apple的AI产品负责人Lilian Rincon解释说，Siri被刻意设计成不像AI伴侣那样行事。Siri会尽可能在设备端处理请求，要求更高的请求则交由Private Cloud Compute处理。"
-              },
-              {
-                "t": "p",
-                "x": "问题在于，Apple能否让Siri足够好用，让iPhone用户从一开始就不再去找ChatGPT。"
+                "x": "录像保存在最大256GB的microSD卡上；Eufy表示，AI识别、连续录像和智能提醒都无需月费。E10没有电池，通过3m USB-C线缆连接插电适配器供电。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Siri no necesita\nsuperar a ChatGPT",
-          "body": "El CEO de Apple, John Ternus, dijo a TIME que Siri apuesta por tus datos en el iPhone, no por ser el chatbot más listo.",
-          "mini_headline": "La apuesta de Siri: datos personales",
+          "headline": "La Window Camera E10 de Eufy\ndetecta con IA en el dispositivo",
+          "body": "La cámara de 64,1 g de Eufy se pega tras la ventana y detecta personas, vehículos y mascotas en local, sin suscripción.",
+          "mini_headline": "Cámara de ventana Eufy con IA local",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-1200-80.jpg",
-                "cap": "John Ternus, CEO de Apple, y la app de Siri en el iPhone"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+                "cap": "Una almohadilla adhesiva reutilizable la fija al cristal interior, y un dial trasero inclina la lente hacia abajo hasta 25 grados"
               },
               {
                 "t": "p",
-                "x": "En una nueva entrevista con TIME, publicada el 15 de octubre, el CEO de Apple, John Ternus, explicó por qué la compañía adopta un enfoque distinto hacia la AI. En lugar de intentar crear el chatbot más inteligente, Apple apuesta por la información que ya está en tu iPhone."
+                "x": "Eufy ha lanzado la Window Camera E10, una cámara de seguridad de 64,1 g que se pega al interior de una ventana para vigilar una entrada de coches, un jardín o la puerta principal sin montaje exterior. Cuesta $79.99 en EE. UU. y £69.99 en el Reino Unido, con un pack de dos a $149.99, y se envía en noviembre."
+              },
+              {
+                "t": "p",
+                "x": "Una pegatina adhesiva reutilizable la fija al cristal en menos de un minuto, y un dial trasero inclina la lente hacia abajo hasta 25 grados para quitar el cielo vacío del encuadre. Unas pegatinas antirreflejo reducen el brillo nocturno de las luces interiores."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/AJfRiTwXRZBjMQmGp6bqfW-1200-80.jpg",
-                "cap": "Logotipos de OpenAI y Apple"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+                "cap": "La Window Camera E10"
               },
               {
                 "t": "p",
-                "x": "La nueva Siri usa un modelo de AI de Apple que se basa en la tecnología Gemini de Google. “We make the things where we can really bring differentiation” (hacemos las cosas en las que realmente podemos diferenciarnos), dijo Ternus a TIME."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/4AkQ7gosxR54LV5qDC92vS-1200-80.jpg",
-                "cap": "Apple Maps en un iPhone 17"
+                "x": "Graba vídeo de 2688 x 1520 a 15fps con una lente f/1.0 y un campo de visión de 125 grados. La detección de movimiento se ejecuta en el propio dispositivo, que clasifica la actividad como persona, vehículo o mascota y envía alertas etiquetadas."
               },
               {
                 "t": "p",
-                "x": "Con permiso, Siri puede relacionar información entre las apps compatibles y usar ese contexto para completar tareas. Apple también ve oportunidades para que Siri interprete la información de salud recopilada por un Apple Watch."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/iopeLDvPGawviRJFdMxca5-1200-80.jpg",
-                "cap": "Siri AI de iOS 27 funcionando en un iPhone 17 Pro."
-              },
-              {
-                "t": "p",
-                "x": "Lilian Rincon, responsable de producto de AI de Apple, explicó que Siri se diseñó deliberadamente para no comportarse como un compañero de AI. Siri procesa las solicitudes en el dispositivo cuando es posible, y las más exigentes se gestionan mediante Private Cloud Compute."
-              },
-              {
-                "t": "p",
-                "x": "La cuestión es si Apple puede hacer que Siri sea lo bastante útil como para que los dueños de un iPhone dejen de recurrir a ChatGPT."
+                "x": "Las grabaciones se guardan en una tarjeta microSD de hasta 256GB; Eufy afirma que la detección por IA, la grabación continua y las alertas inteligentes funcionan sin cuota mensual. La E10 no tiene batería y se alimenta con un adaptador de enchufe mediante un cable USB-C de 3m."
               }
             ]
           }
@@ -1641,303 +1509,215 @@
       }
     },
     {
-      "id": "gadgets-myfirst",
+      "id": "gadgets-htcviveeagle",
       "source_lang": "en",
-      "tool": "Gadgets",
       "eyebrow": "AI NEWS",
-      "headline": "아이 생각을 즉석 만화로\n바꾸는 myFirst",
-      "body": "myFirst의 magiCam·magiBox는 사진과 말을 색칠본·만화로 바꾼다.",
-      "mini_headline": "myFirst AI 만화 기기",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/myFirst-s-AI-camera-and-printer-turn-kids-ideas-into-instant-comics.1423897.0.html",
-      "accent": "#f5a623",
+      "headline": "HTC Vive Eagle\nMeta보다 사생활 우선",
+      "body": "HTC Vive Eagle은 Meta 안경 기능을 갖추고도 SNS에 묶이지 않는다.",
+      "mini_headline": "HTC의 프라이버시 스마트 안경",
+      "tool": "Gadgets",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+      "accent": "#eb367f",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
-            "cap": "myFirst 시리즈"
+            "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
           },
           {
             "t": "p",
-            "x": "myFirst가 생성형 AI와 즉석 인화를 결합한 어린이용 기기 두 종, Insta magiCam과 Insta magiBox의 세부 정보를 더 풀었다. 두 기기는 IFA 2026에서 먼저 모습을 보였고, 이번 주에 발표됐다."
+            "x": "HTC가 9월 미국에서 $499짜리 Vive Eagle 스마트 안경을 팔기 시작했다. 카메라와 프레임 내장 스피커, AI 에이전트를 갖췄다. 그래도 HTC는 Meta 안경에 따라붙은 프라이버시 논란과는 거리를 두려 한다."
           },
           {
             "t": "p",
-            "x": "Insta magiCam은 찍은 대상을 알아보고 그에 관한 질문에도 답하는 디지털카메라다. 아이들은 사진을 여러 예술 스타일로 바꾸거나 상상한 장면을 설명해 카메라에게 그려 달라고 할 수도 있다. 전후면 카메라, 16MP 사진 해상도, 1080p 동영상 녹화, 3-inch IPS 디스플레이를 갖췄다. 내장 감열식 프린터로 잉크 카트리지 없이 사진, 일러스트, 색칠 도안, 스티커를 뽑을 수 있다."
+            "x": "AI 비서 Vive AI로는 로그인하지 않고 OpenAI의 ChatGPT나 Google의 Gemini를 쓸 수 있어, 사용자가 '비식별' 상태로 남는다. AI Plus는 2년간 무료, 그 뒤로는 월 $2.50다. 배터리는 음악 재생 기준 4.5시간 간다."
           },
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
-            "cap": "myFirst Insta magiCam"
+            "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
           },
           {
             "t": "p",
-            "x": "Insta magiBox는 방식이 조금 다르다. 아이가 아이디어를 소리 내어 말하면 기기가 애니메, 카툰, 연필화 등 여섯 가지 스타일 중 하나로 그림을 만든다. 말로 들려준 이야기를 네 컷 만화로 바꿔 주기도 하니, 같은 공룡을 열다섯 번째 그려 주던 부모가 한숨 돌릴 수 있을지도 모른다."
+            "x": "표시등을 가리면 녹화가 멈춘다. 영상은 암호화한 채 휴대폰이나 클라우드가 아닌 안경에 저장된다. HTC Vive의 Dan McDowell은 \"우리는 소셜 미디어 회사가 아니다\"라며 \"안경에서 쓰이는 어떤 정보로도 우리 AI 모델이나 외부 AI 모델을 학습시키지 않는다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "이 프린터는 2.8-inch 디스플레이와 1,300mAh 배터리를 갖추고 26개 언어를 지원한다. myFirst에 따르면 이미지가 생성된 뒤 인쇄까지 약 10초가 걸린다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
-            "cap": "myFirst Insta magicBox"
-          },
-          {
-            "t": "p",
-            "x": "magiBox는 AI 생성에 인터넷 연결이 필요하지만, 스마트폰은 초기 설정 때만 있으면 된다. 회사는 연령에 맞는 콘텐츠 필터링과 아이 음성 데이터 보호 장치도 약속했다. 다만 실제 효과를 독립적으로 검증한 곳은 아직 없다."
-          },
-          {
-            "t": "p",
-            "x": "두 기기 모두 출시 예정으로만 나와 있고, 최종 가격과 판매 지역 확대는 아직 정해지지 않았다."
+            "x": "다만 Eagle은 Meta 안경과 꽤 닮았다. 프라이버시를 걱정하는 사람들은 둘의 차이를 모를 수도 있다."
           }
         ]
       },
+      "_lead_image": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "myFirst turns kids' ideas\ninto instant comics",
-          "body": "myFirst's magiCam turns photos into coloring pages, and its magiBox turns spoken ideas into four-panel comics.",
-          "mini_headline": "myFirst AI comic gadgets",
+          "headline": "HTC's Vive Eagle smart glasses\nput privacy ahead of Meta",
+          "body": "HTC's Vive Eagle glasses do just about everything Meta's glasses can, but they are not tied to a social media platform.",
+          "mini_headline": "HTC's private smart glasses",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
-                "cap": "myFirst series"
+                "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
               },
               {
                 "t": "p",
-                "x": "myFirst has unveiled more details about its Insta magiCam and Insta magiBox, two children's gadgets combining generative AI with instant printing. The devices were announced this week, following an earlier appearance at IFA 2026."
+                "x": "In September, HTC started selling its $499 Vive Eagle smart glasses in the US. They have cameras, speakers in the frames and an embedded AI agent, but HTC wants to steer clear of the privacy debate that has dogged Meta's glasses."
               },
               {
                 "t": "p",
-                "x": "The Insta magiCam is a digital camera that can identify photographed subjects and answer questions about them. Children can also transform their photos into different artistic styles or describe an imaginary scene and have the camera create it. The camera features front and rear cameras, 16MP photo resolution, 1080p video recording, and a 3-inch IPS display. Its built-in thermal printer produces photographs, illustrations, coloring pages, and stickers without requiring ink cartridges."
+                "x": "The AI assistant, Vive AI, can use OpenAI's ChatGPT or Google's Gemini without a login, so users are 'de-identified.' AI Plus is free for two years, then $2.50 a month. Battery life is 4.5 hours of music playback."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
-                "cap": "myFirst Insta magiCam"
+                "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
               },
               {
                 "t": "p",
-                "x": "Meanwhile, the Insta magiBox takes a slightly different approach. Children describe an idea aloud, and the device generates an illustration in one of six styles, including anime, cartoon, and pencil art. It can also transform a spoken story into a four-panel comic, potentially giving parents a break from drawing the same dinosaur for the fifteenth time."
+                "x": "Covering the indicator light stops recording, and footage is encrypted and stored on the glasses rather than sent to the phone or cloud. \"We're not a social media company,\" says HTC Vive's Dan McDowell. \"We don't train our AI model or any third-party AI models with any of the information that is used on the glasses.\""
               },
               {
                 "t": "p",
-                "x": "The printer features a 2.8-inch display, a 1,300mAh battery, and support for 26 languages. According to myFirst, printing takes approximately 10 seconds once an image has been generated."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
-                "cap": "myFirst Insta magicBox"
-              },
-              {
-                "t": "p",
-                "x": "The magiBox requires an internet connection for AI generation, although a smartphone is needed only during setup. The company also promises age-appropriate content filtering and safeguards for children's voice data, but their effectiveness remains independently unverified."
-              },
-              {
-                "t": "p",
-                "x": "Both devices are listed as coming soon, with final pricing and wider availability yet to be confirmed."
+                "x": "The catch: the Eagles look a lot like Meta glasses, so people worried about privacy may not know they are different."
               }
             ]
           }
         },
         "ko": {
-          "headline": "아이 생각을 즉석 만화로\n바꾸는 myFirst",
-          "body": "myFirst의 magiCam·magiBox는 사진과 말을 색칠본·만화로 바꾼다.",
-          "mini_headline": "myFirst AI 만화 기기",
+          "headline": "HTC Vive Eagle\nMeta보다 사생활 우선",
+          "body": "HTC Vive Eagle은 Meta 안경 기능을 갖추고도 SNS에 묶이지 않는다.",
+          "mini_headline": "HTC의 프라이버시 스마트 안경",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
-                "cap": "myFirst 시리즈"
+                "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
               },
               {
                 "t": "p",
-                "x": "myFirst가 생성형 AI와 즉석 인화를 결합한 어린이용 기기 두 종, Insta magiCam과 Insta magiBox의 세부 정보를 더 풀었다. 두 기기는 IFA 2026에서 먼저 모습을 보였고, 이번 주에 발표됐다."
+                "x": "HTC가 9월 미국에서 $499짜리 Vive Eagle 스마트 안경을 팔기 시작했다. 카메라와 프레임 내장 스피커, AI 에이전트를 갖췄다. 그래도 HTC는 Meta 안경에 따라붙은 프라이버시 논란과는 거리를 두려 한다."
               },
               {
                 "t": "p",
-                "x": "Insta magiCam은 찍은 대상을 알아보고 그에 관한 질문에도 답하는 디지털카메라다. 아이들은 사진을 여러 예술 스타일로 바꾸거나 상상한 장면을 설명해 카메라에게 그려 달라고 할 수도 있다. 전후면 카메라, 16MP 사진 해상도, 1080p 동영상 녹화, 3-inch IPS 디스플레이를 갖췄다. 내장 감열식 프린터로 잉크 카트리지 없이 사진, 일러스트, 색칠 도안, 스티커를 뽑을 수 있다."
+                "x": "AI 비서 Vive AI로는 로그인하지 않고 OpenAI의 ChatGPT나 Google의 Gemini를 쓸 수 있어, 사용자가 '비식별' 상태로 남는다. AI Plus는 2년간 무료, 그 뒤로는 월 $2.50다. 배터리는 음악 재생 기준 4.5시간 간다."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
-                "cap": "myFirst Insta magiCam"
+                "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
               },
               {
                 "t": "p",
-                "x": "Insta magiBox는 방식이 조금 다르다. 아이가 아이디어를 소리 내어 말하면 기기가 애니메, 카툰, 연필화 등 여섯 가지 스타일 중 하나로 그림을 만든다. 말로 들려준 이야기를 네 컷 만화로 바꿔 주기도 하니, 같은 공룡을 열다섯 번째 그려 주던 부모가 한숨 돌릴 수 있을지도 모른다."
+                "x": "표시등을 가리면 녹화가 멈춘다. 영상은 암호화한 채 휴대폰이나 클라우드가 아닌 안경에 저장된다. HTC Vive의 Dan McDowell은 \"우리는 소셜 미디어 회사가 아니다\"라며 \"안경에서 쓰이는 어떤 정보로도 우리 AI 모델이나 외부 AI 모델을 학습시키지 않는다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "이 프린터는 2.8-inch 디스플레이와 1,300mAh 배터리를 갖추고 26개 언어를 지원한다. myFirst에 따르면 이미지가 생성된 뒤 인쇄까지 약 10초가 걸린다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
-                "cap": "myFirst Insta magicBox"
-              },
-              {
-                "t": "p",
-                "x": "magiBox는 AI 생성에 인터넷 연결이 필요하지만, 스마트폰은 초기 설정 때만 있으면 된다. 회사는 연령에 맞는 콘텐츠 필터링과 아이 음성 데이터 보호 장치도 약속했다. 다만 실제 효과를 독립적으로 검증한 곳은 아직 없다."
-              },
-              {
-                "t": "p",
-                "x": "두 기기 모두 출시 예정으로만 나와 있고, 최종 가격과 판매 지역 확대는 아직 정해지지 않았다."
+                "x": "다만 Eagle은 Meta 안경과 꽤 닮았다. 프라이버시를 걱정하는 사람들은 둘의 차이를 모를 수도 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "myFirstが子どもの\n発想を即席マンガに",
-          "body": "myFirstのmagiCamは写真をぬり絵に、magiBoxは言葉を四コマ漫画にする。",
-          "mini_headline": "myFirstのAIマンガ機器",
+          "headline": "HTCのVive Eagle\nMetaよりプライバシー重視",
+          "body": "HTCのVive EagleはMetaのメガネとほぼ同等の機能を持つがSNSに縛られない。",
+          "mini_headline": "HTCのプライバシー重視スマートグラス",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
-                "cap": "myFirstシリーズ"
+                "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
               },
               {
                 "t": "p",
-                "x": "myFirstは、生成AIと即時印刷を組み合わせた二つの子ども向けガジェット、Insta magiCamとInsta magiBoxの詳細を新たに明らかにした。両機種はIFA 2026での披露に続き、今週発表された。"
+                "x": "HTCは9月、$499のスマートグラス「Vive Eagle」を米国で発売した。カメラやフレーム内蔵スピーカー、AIエージェントを備えるが、HTCはMetaのメガネにつきまとうプライバシー論争から距離を置きたい考えだ。"
               },
               {
                 "t": "p",
-                "x": "Insta magiCamは、撮影した被写体を識別し、それについての質問に答えられるデジタルカメラだ。子どもは写真をさまざまなアートスタイルに変えたり、想像した場面を説明してカメラに作らせたりもできる。前面と背面のカメラ、16MPの写真解像度、1080pの動画撮影、3-inch IPSディスプレイを備える。内蔵のサーマルプリンターで、インクカートリッジなしに写真、イラスト、ぬり絵、ステッカーを印刷できる。"
+                "x": "AIアシスタントのVive AIは、ログインなしでOpenAIのChatGPTやGoogleのGeminiを使えるため、ユーザーは「非識別化」される。AI Plusは2年間無料で、その後は月$2.50。バッテリー駆動時間は音楽再生で4.5時間だ。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
-                "cap": "myFirst Insta magiCam"
+                "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
               },
               {
                 "t": "p",
-                "x": "一方、Insta magiBoxは少し異なるアプローチを取る。子どもがアイデアを声に出して説明すると、アニメ、カートゥーン、鉛筆画など六つのスタイルのいずれかでイラストを生成する。話した物語を四コマ漫画にすることもでき、同じ恐竜を十五回目に描かされる親にとって一息つける存在になるかもしれない。"
+                "x": "インジケーターライトを覆うと録画が止まり、映像は暗号化されてスマホやクラウドではなくメガネ本体に保存される。HTC ViveのDan McDowellは「当社はソーシャルメディア企業ではない」と述べ、「メガネで使われるいかなる情報でも、自社のAIモデルやサードパーティーのAIモデルを学習させることはない」と語る。"
               },
               {
                 "t": "p",
-                "x": "このプリンターは2.8-inchディスプレイと1,300mAhバッテリーを備え、26言語に対応する。myFirstによると、画像の生成後、印刷にかかる時間は約10秒だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
-                "cap": "myFirst Insta magicBox"
-              },
-              {
-                "t": "p",
-                "x": "magiBoxはAI生成にインターネット接続が必要だが、スマートフォンが必要なのは初期設定時だけだ。同社は年齢に応じたコンテンツフィルタリングや子どもの音声データの保護も約束しているが、その有効性は第三者によって検証されていない。"
-              },
-              {
-                "t": "p",
-                "x": "両機種とも「近日発売」とされており、最終価格や販売地域の拡大はまだ確定していない。"
+                "x": "難点は、EagleがMetaのメガネによく似ているため、プライバシーを気にする人がその違いに気づかない可能性があることだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "myFirst把孩子创意\n变成即时漫画",
-          "body": "myFirst的magiCam把照片变成涂色画，magiBox把口述创意变成四格漫画。",
-          "mini_headline": "myFirst AI漫画小工具",
+          "headline": "HTC Vive Eagle\n隐私保护领先Meta",
+          "body": "HTC Vive Eagle眼镜几乎能做Meta眼镜能做的一切，但不绑定社交媒体平台。",
+          "mini_headline": "HTC注重隐私的智能眼镜",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
-                "cap": "myFirst系列"
+                "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
               },
               {
                 "t": "p",
-                "x": "myFirst公布了Insta magiCam和Insta magiBox的更多细节，这两款儿童小工具将生成式AI与即时打印相结合。继此前亮相IFA 2026之后，两款设备于本周正式发布。"
+                "x": "9月，HTC开始在美国销售售价$499的Vive Eagle智能眼镜。它配有摄像头、镜框内置扬声器和内嵌AI智能体，但HTC希望避开一直困扰Meta眼镜的隐私争议。"
               },
               {
                 "t": "p",
-                "x": "Insta magiCam是一款数码相机，能识别所拍对象并回答相关问题。孩子们还可以把照片转换成不同的艺术风格，或描述一个想象中的场景，让相机把它创作出来。相机配备前后摄像头、16MP照片分辨率、1080p视频录制和3-inch IPS显示屏。内置热敏打印机无需墨盒，即可打印照片、插画、涂色画和贴纸。"
+                "x": "AI助手Vive AI无需登录即可使用OpenAI的ChatGPT或Google的Gemini，因此用户处于“去标识化”状态。AI Plus前两年免费，之后每月$2.50。续航为音乐播放4.5小时。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
-                "cap": "myFirst Insta magiCam"
+                "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
               },
               {
                 "t": "p",
-                "x": "Insta magiBox则采取了略有不同的思路。孩子大声描述一个想法，设备就会以动漫、卡通、铅笔画等六种风格之一生成插画。它还能把口述的故事变成四格漫画，或许能让父母不必第十五次画同一只恐龙。"
+                "x": "遮住指示灯即可停止录制，视频经过加密后保存在眼镜上，而不是发送到手机或云端。HTC Vive的Dan McDowell表示：“我们不是一家社交媒体公司。”“我们不会用眼镜上使用的任何信息来训练我们的AI模型或任何第三方AI模型。”"
               },
               {
                 "t": "p",
-                "x": "这款打印机配备2.8-inch显示屏、1,300mAh电池，并支持26种语言。据myFirst介绍，图像生成后打印约需10秒。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
-                "cap": "myFirst Insta magicBox"
-              },
-              {
-                "t": "p",
-                "x": "magiBox需要联网才能进行AI生成，不过只有在设置时才需要智能手机。该公司还承诺提供适龄内容过滤和儿童语音数据保护措施，但其效果尚未经过独立验证。"
-              },
-              {
-                "t": "p",
-                "x": "两款设备均标注为即将推出，最终定价和更大范围的上市时间尚待确认。"
+                "x": "问题在于，Eagle看起来很像Meta眼镜，担心隐私的人可能不知道二者的区别。"
               }
             ]
           }
         },
         "es": {
-          "headline": "myFirst convierte las ideas\ninfantiles en cómics al instante",
-          "body": "La magiCam de myFirst convierte fotos en dibujos para colorear, y su magiBox, ideas dichas en cómics de cuatro viñetas.",
-          "mini_headline": "Gadgets de cómics con AI de myFirst",
+          "headline": "Las gafas Vive Eagle de HTC\nson más privadas que las de Meta",
+          "body": "Las Vive Eagle de HTC hacen casi todo lo que las gafas de Meta, pero no están ligadas a ninguna plataforma social.",
+          "mini_headline": "Las gafas inteligentes privadas de HTC",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
-                "cap": "Serie myFirst"
+                "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
               },
               {
                 "t": "p",
-                "x": "myFirst ha revelado más detalles de Insta magiCam e Insta magiBox, dos gadgets infantiles que combinan AI generativa con impresión instantánea. Los dispositivos se anunciaron esta semana, tras una primera aparición en IFA 2026."
+                "x": "En septiembre, HTC empezó a vender en EE. UU. sus gafas inteligentes Vive Eagle, de $499. Tienen cámaras, altavoces en la montura y un agente de IA integrado, pero HTC quiere mantenerse al margen del debate sobre privacidad que persigue a las gafas de Meta."
               },
               {
                 "t": "p",
-                "x": "Insta magiCam es una cámara digital capaz de identificar lo que fotografía y responder preguntas sobre ello. Los niños también pueden transformar sus fotos en distintos estilos artísticos o describir una escena imaginaria para que la cámara la cree. Cuenta con cámaras frontal y trasera, resolución de foto de 16MP, grabación de video en 1080p y una pantalla IPS 3-inch. Su impresora térmica integrada produce fotografías, ilustraciones, dibujos para colorear y pegatinas sin necesidad de cartuchos de tinta."
+                "x": "El asistente de IA, Vive AI, puede usar ChatGPT de OpenAI o Gemini de Google sin iniciar sesión, de modo que los usuarios quedan 'desidentificados'. AI Plus es gratis durante dos años y después cuesta $2.50 al mes. La batería dura 4,5 horas reproduciendo música."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
-                "cap": "myFirst Insta magiCam"
+                "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
               },
               {
                 "t": "p",
-                "x": "Por su parte, Insta magiBox adopta un enfoque algo distinto. Los niños describen una idea en voz alta y el dispositivo genera una ilustración en uno de seis estilos, como anime, dibujos animados o lápiz. También puede convertir una historia contada en un cómic de cuatro viñetas, lo que quizá dé un respiro a los padres que dibujan el mismo dinosaurio por decimoquinta vez."
+                "x": "Tapar la luz indicadora detiene la grabación, y las imágenes se cifran y se guardan en las gafas en lugar de enviarse al teléfono o a la nube. \"No somos una empresa de redes sociales\", dice Dan McDowell, de HTC Vive. \"No entrenamos nuestro modelo de IA ni ningún modelo de IA de terceros con ninguna de la información que se usa en las gafas.\""
               },
               {
                 "t": "p",
-                "x": "La impresora tiene una pantalla 2.8-inch, una batería de 1,300mAh y es compatible con 26 idiomas. Según myFirst, imprimir tarda unos 10 segundos una vez generada la imagen."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
-                "cap": "myFirst Insta magicBox"
-              },
-              {
-                "t": "p",
-                "x": "La magiBox necesita conexión a internet para la generación con AI, aunque el smartphone solo se requiere durante la configuración. La empresa también promete filtros de contenido adecuados a la edad y protección de los datos de voz de los niños, pero su eficacia aún no se ha verificado de forma independiente."
-              },
-              {
-                "t": "p",
-                "x": "Ambos dispositivos figuran como próximamente disponibles, y el precio final y una disponibilidad más amplia aún están por confirmar."
+                "x": "El problema: las Eagle se parecen mucho a las gafas de Meta, así que quienes se preocupan por la privacidad quizá no sepan que son distintas."
               }
             ]
           }
@@ -1945,197 +1725,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "아이 생각을 즉석 만화로\n바꾸는 myFirst",
-          "body": "myFirst의 magiCam·magiBox는 사진과 말을 색칠본·만화로 바꾼다.",
-          "mini_headline": "myFirst AI 만화 기기",
+          "headline": "HTC Vive Eagle\nMeta보다 사생활 우선",
+          "body": "HTC Vive Eagle은 Meta 안경 기능을 갖추되 SNS에 묶이지 않는다.",
+          "mini_headline": "HTC의 프라이버시 스마트 안경",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
-                "cap": "myFirst 시리즈"
+                "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
               },
               {
                 "t": "p",
-                "x": "myFirst가 생성형 AI와 즉석 인화를 결합한 어린이용 기기 두 종, Insta magiCam과 Insta magiBox의 세부 정보를 추가로 공개했다. 두 기기는 앞서 IFA 2026에 모습을 드러낸 데 이어 이번 주에 발표됐다."
+                "x": "HTC는 9월 미국에서 $499짜리 Vive Eagle 스마트 안경 판매를 시작했다. 카메라와 프레임 내장 스피커, AI 에이전트를 갖췄지만, HTC는 Meta 안경을 따라다닌 프라이버시 논란과는 거리를 두려 한다."
               },
               {
                 "t": "p",
-                "x": "Insta magiCam은 촬영한 대상을 알아보고 그에 관한 질문에 답할 수 있는 디지털카메라다. 아이들은 사진을 다양한 예술 스타일로 바꾸거나, 상상한 장면을 설명해 카메라가 만들어 내게 할 수도 있다. 전후면 카메라, 16MP 사진 해상도, 1080p 동영상 녹화, 3-inch IPS 디스플레이를 갖췄다. 내장 감열식 프린터로 잉크 카트리지 없이 사진, 일러스트, 색칠 도안, 스티커를 뽑을 수 있다."
+                "x": "AI 비서 Vive AI는 로그인 없이 OpenAI의 ChatGPT나 Google의 Gemini를 쓸 수 있어 사용자는 '비식별' 상태가 된다. AI Plus는 2년간 무료이고 이후 월 $2.50다. 배터리는 음악 재생 기준 4.5시간 간다."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
-                "cap": "myFirst Insta magiCam"
+                "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
               },
               {
                 "t": "p",
-                "x": "한편 Insta magiBox는 조금 다른 방식을 택했다. 아이가 아이디어를 소리 내어 말하면 기기가 애니메, 카툰, 연필화 등 여섯 가지 스타일 중 하나로 그림을 만든다. 말로 들려준 이야기를 네 컷 만화로 바꿀 수도 있어, 같은 공룡을 열다섯 번째 그려 주던 부모가 한숨 돌릴 수 있을지도 모른다."
+                "x": "표시등을 가리면 녹화가 멈추고, 영상은 암호화돼 휴대폰이나 클라우드로 보내지지 않고 안경에 저장된다. HTC Vive의 Dan McDowell은 \"우리는 소셜 미디어 회사가 아니다\"라며 \"안경에서 쓰이는 어떤 정보로도 우리 AI 모델이나 외부 AI 모델을 학습시키지 않는다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "이 프린터는 2.8-inch 디스플레이와 1,300mAh 배터리를 갖추고 26개 언어를 지원한다. myFirst에 따르면 이미지가 생성된 뒤 인쇄까지 약 10초가 걸린다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
-                "cap": "myFirst Insta magicBox"
-              },
-              {
-                "t": "p",
-                "x": "magiBox는 AI 생성에 인터넷 연결이 필요하지만, 스마트폰은 초기 설정 때만 있으면 된다. 회사는 연령에 맞는 콘텐츠 필터링과 아이 음성 데이터 보호 장치도 약속했지만, 그 효과는 아직 독립적으로 검증되지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "두 기기 모두 출시 예정으로 표시돼 있으며, 최종 가격과 판매 지역 확대는 아직 확정되지 않았다."
+                "x": "문제는 Eagle이 Meta 안경과 꽤 닮아, 프라이버시를 걱정하는 사람들이 둘의 차이를 모를 수 있다는 점이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "myFirstが子どもの\n発想を即席マンガに",
-          "body": "myFirstのmagiCamは写真をぬり絵に、magiBoxは言葉を四コマ漫画にする。",
-          "mini_headline": "myFirstのAIマンガ機器",
+          "headline": "HTCのVive Eagle\nMetaよりプライバシー重視",
+          "body": "HTCのVive EagleはMetaのメガネとほぼ同等の機能を持つがSNSに縛られない。",
+          "mini_headline": "HTCのプライバシー重視スマートグラス",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
-                "cap": "myFirstシリーズ"
+                "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
               },
               {
                 "t": "p",
-                "x": "myFirstは、生成AIと即時印刷を組み合わせた二つの子ども向けガジェット、Insta magiCamとInsta magiBoxの詳細を新たに明らかにした。両機種はIFA 2026での披露に続き、今週発表された。"
+                "x": "HTCは9月、$499のスマートグラス「Vive Eagle」を米国で発売した。カメラやフレーム内蔵スピーカー、AIエージェントを備えるが、HTCはMetaのメガネにつきまとうプライバシー論争から距離を置きたい考えだ。"
               },
               {
                 "t": "p",
-                "x": "Insta magiCamは、撮影した被写体を識別し、それについての質問に答えられるデジタルカメラだ。子どもは写真をさまざまなアートスタイルに変えたり、想像した場面を説明してカメラに作らせたりもできる。前面と背面のカメラ、16MPの写真解像度、1080pの動画撮影、3-inch IPSディスプレイを備える。内蔵のサーマルプリンターで、インクカートリッジなしに写真、イラスト、ぬり絵、ステッカーを印刷できる。"
+                "x": "AIアシスタントのVive AIは、ログインなしでOpenAIのChatGPTやGoogleのGeminiを使えるため、ユーザーは「非識別化」される。AI Plusは2年間無料で、その後は月$2.50。バッテリー駆動時間は音楽再生で4.5時間だ。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
-                "cap": "myFirst Insta magiCam"
+                "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
               },
               {
                 "t": "p",
-                "x": "一方、Insta magiBoxは少し異なるアプローチを取る。子どもがアイデアを声に出して説明すると、アニメ、カートゥーン、鉛筆画など六つのスタイルのいずれかでイラストを生成する。話した物語を四コマ漫画にすることもでき、同じ恐竜を十五回目に描かされる親にとって一息つける存在になるかもしれない。"
+                "x": "インジケーターライトを覆うと録画が止まり、映像は暗号化されてスマホやクラウドではなくメガネ本体に保存される。HTC ViveのDan McDowellは「当社はソーシャルメディア企業ではない」と述べ、「メガネで使われるいかなる情報でも、自社のAIモデルやサードパーティーのAIモデルを学習させることはない」と語る。"
               },
               {
                 "t": "p",
-                "x": "このプリンターは2.8-inchディスプレイと1,300mAhバッテリーを備え、26言語に対応する。myFirstによると、画像の生成後、印刷にかかる時間は約10秒だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
-                "cap": "myFirst Insta magicBox"
-              },
-              {
-                "t": "p",
-                "x": "magiBoxはAI生成にインターネット接続が必要だが、スマートフォンが必要なのは初期設定時だけだ。同社は年齢に応じたコンテンツフィルタリングや子どもの音声データの保護も約束しているが、その有効性は第三者によって検証されていない。"
-              },
-              {
-                "t": "p",
-                "x": "両機種とも「近日発売」とされており、最終価格や販売地域の拡大はまだ確定していない。"
+                "x": "難点は、EagleがMetaのメガネによく似ているため、プライバシーを気にする人がその違いに気づかない可能性があることだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "myFirst把孩子创意\n变成即时漫画",
-          "body": "myFirst的magiCam把照片变成涂色画，magiBox把口述创意变成四格漫画。",
-          "mini_headline": "myFirst AI漫画小工具",
+          "headline": "HTC Vive Eagle\n隐私保护领先Meta",
+          "body": "HTC Vive Eagle眼镜几乎能做Meta眼镜能做的一切，但不绑定社交媒体平台。",
+          "mini_headline": "HTC注重隐私的智能眼镜",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
-                "cap": "myFirst系列"
+                "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
               },
               {
                 "t": "p",
-                "x": "myFirst公布了Insta magiCam和Insta magiBox的更多细节，这两款儿童小工具将生成式AI与即时打印相结合。继此前亮相IFA 2026之后，两款设备于本周正式发布。"
+                "x": "9月，HTC开始在美国销售售价$499的Vive Eagle智能眼镜。它配有摄像头、镜框内置扬声器和内嵌AI智能体，但HTC希望避开一直困扰Meta眼镜的隐私争议。"
               },
               {
                 "t": "p",
-                "x": "Insta magiCam是一款数码相机，能识别所拍对象并回答相关问题。孩子们还可以把照片转换成不同的艺术风格，或描述一个想象中的场景，让相机把它创作出来。相机配备前后摄像头、16MP照片分辨率、1080p视频录制和3-inch IPS显示屏。内置热敏打印机无需墨盒，即可打印照片、插画、涂色画和贴纸。"
+                "x": "AI助手Vive AI无需登录即可使用OpenAI的ChatGPT或Google的Gemini，因此用户处于“去标识化”状态。AI Plus前两年免费，之后每月$2.50。续航为音乐播放4.5小时。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
-                "cap": "myFirst Insta magiCam"
+                "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
               },
               {
                 "t": "p",
-                "x": "Insta magiBox则采取了略有不同的思路。孩子大声描述一个想法，设备就会以动漫、卡通、铅笔画等六种风格之一生成插画。它还能把口述的故事变成四格漫画，或许能让父母不必第十五次画同一只恐龙。"
+                "x": "遮住指示灯即可停止录制，视频经过加密后保存在眼镜上，而不是发送到手机或云端。HTC Vive的Dan McDowell表示：“我们不是一家社交媒体公司。”“我们不会用眼镜上使用的任何信息来训练我们的AI模型或任何第三方AI模型。”"
               },
               {
                 "t": "p",
-                "x": "这款打印机配备2.8-inch显示屏、1,300mAh电池，并支持26种语言。据myFirst介绍，图像生成后打印约需10秒。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
-                "cap": "myFirst Insta magicBox"
-              },
-              {
-                "t": "p",
-                "x": "magiBox需要联网才能进行AI生成，不过只有在设置时才需要智能手机。该公司还承诺提供适龄内容过滤和儿童语音数据保护措施，但其效果尚未经过独立验证。"
-              },
-              {
-                "t": "p",
-                "x": "两款设备均标注为即将推出，最终定价和更大范围的上市时间尚待确认。"
+                "x": "问题在于，Eagle看起来很像Meta眼镜，担心隐私的人可能不知道二者的区别。"
               }
             ]
           }
         },
         "es": {
-          "headline": "myFirst convierte las ideas\ninfantiles en cómics al instante",
-          "body": "La magiCam de myFirst convierte fotos en dibujos para colorear, y su magiBox, ideas dichas en cómics de cuatro viñetas.",
-          "mini_headline": "Gadgets de cómics con AI de myFirst",
+          "headline": "Las gafas Vive Eagle de HTC\nson más privadas que las de Meta",
+          "body": "Las Vive Eagle de HTC hacen casi todo lo que las gafas de Meta, pero no están ligadas a ninguna plataforma social.",
+          "mini_headline": "Las gafas inteligentes privadas de HTC",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
-                "cap": "Serie myFirst"
+                "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
               },
               {
                 "t": "p",
-                "x": "myFirst ha revelado más detalles de Insta magiCam e Insta magiBox, dos gadgets infantiles que combinan AI generativa con impresión instantánea. Los dispositivos se anunciaron esta semana, tras una primera aparición en IFA 2026."
+                "x": "En septiembre, HTC empezó a vender en EE. UU. sus gafas inteligentes Vive Eagle, de $499. Tienen cámaras, altavoces en la montura y un agente de IA integrado, pero HTC quiere mantenerse al margen del debate sobre privacidad que persigue a las gafas de Meta."
               },
               {
                 "t": "p",
-                "x": "Insta magiCam es una cámara digital capaz de identificar lo que fotografía y responder preguntas sobre ello. Los niños también pueden transformar sus fotos en distintos estilos artísticos o describir una escena imaginaria para que la cámara la cree. Cuenta con cámaras frontal y trasera, resolución de foto de 16MP, grabación de video en 1080p y una pantalla IPS 3-inch. Su impresora térmica integrada produce fotografías, ilustraciones, dibujos para colorear y pegatinas sin necesidad de cartuchos de tinta."
+                "x": "El asistente de IA, Vive AI, puede usar ChatGPT de OpenAI o Gemini de Google sin iniciar sesión, de modo que los usuarios quedan 'desidentificados'. AI Plus es gratis durante dos años y después cuesta $2.50 al mes. La batería dura 4,5 horas reproduciendo música."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Instamagiccam-landscape.png",
-                "cap": "myFirst Insta magiCam"
+                "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
               },
               {
                 "t": "p",
-                "x": "Por su parte, Insta magiBox adopta un enfoque algo distinto. Los niños describen una idea en voz alta y el dispositivo genera una ilustración en uno de seis estilos, como anime, dibujos animados o lápiz. También puede convertir una historia contada en un cómic de cuatro viñetas, lo que quizá dé un respiro a los padres que dibujan el mismo dinosaurio por decimoquinta vez."
+                "x": "Tapar la luz indicadora detiene la grabación, y las imágenes se cifran y se guardan en las gafas en lugar de enviarse al teléfono o a la nube. \"No somos una empresa de redes sociales\", dice Dan McDowell, de HTC Vive. \"No entrenamos nuestro modelo de IA ni ningún modelo de IA de terceros con ninguna de la información que se usa en las gafas.\""
               },
               {
                 "t": "p",
-                "x": "La impresora tiene una pantalla 2.8-inch, una batería de 1,300mAh y es compatible con 26 idiomas. Según myFirst, imprimir tarda unos 10 segundos una vez generada la imagen."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/magicBox_Blossom-Pink_Front.png",
-                "cap": "myFirst Insta magicBox"
-              },
-              {
-                "t": "p",
-                "x": "La magiBox necesita conexión a internet para la generación con AI, aunque el smartphone solo se requiere durante la configuración. La empresa también promete filtros de contenido adecuados a la edad y protección de los datos de voz de los niños, pero su eficacia aún no se ha verificado de forma independiente."
-              },
-              {
-                "t": "p",
-                "x": "Ambos dispositivos figuran como próximamente disponibles, y el precio final y una disponibilidad más amplia aún están por confirmar."
+                "x": "El problema: las Eagle se parecen mucho a las gafas de Meta, así que quienes se preocupan por la privacidad quizá no sepan que son distintas."
               }
             ]
           }

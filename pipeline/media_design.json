@@ -1,33 +1,30 @@
 {
- "date": "2026-10-17",
- "section": "design",
- "media": [
-  {
-   "id": "design-figma-code-layers",
-   "type": "image",
-   "src": "pipeline/media/design-figma-code-layers.png"
-  },
-  {
-   "id": "design-krea3",
-   "type": "video",
-   "src": "pipeline/media/design-krea3.mp4",
-   "poster": "pipeline/media/design-krea3.jpg"
-  },
-  {
-   "id": "design-cursor-canvases",
-   "type": "video",
-   "src": "pipeline/media/design-cursor-canvases.mp4",
-   "poster": "pipeline/media/design-cursor-canvases.jpg"
-  },
-  {
-   "id": "design-vercel-ship",
-   "type": "image",
-   "src": "pipeline/media/design-vercel-ship.jpg"
-  },
-  {
-   "id": "design-human-in-loop",
-   "type": "image",
-   "src": "pipeline/media/design-human-in-loop.png"
-  }
- ]
+  "date": "2026-10-18",
+  "media": [
+    {
+      "id": "design-figma-systems",
+      "type": "image",
+      "src": "pipeline/media/design-figma-systems.jpg"
+    },
+    {
+      "id": "design-figma-payload",
+      "type": "image",
+      "src": "pipeline/media/design-figma-payload.jpg"
+    },
+    {
+      "id": "design-adobe-nvidia",
+      "type": "image",
+      "src": "pipeline/media/design-adobe-nvidia.jpg"
+    },
+    {
+      "id": "design-uxc-org-chart",
+      "type": "image",
+      "src": "pipeline/media/design-uxc-org-chart.jpg"
+    },
+    {
+      "id": "design-smashing-ai-adoption",
+      "type": "image",
+      "src": "pipeline/media/design-smashing-ai-adoption.jpg"
+    }
+  ]
 }

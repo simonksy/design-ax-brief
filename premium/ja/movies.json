@@ -7270,6 +7270,135 @@
           "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
         }
       ]
+    },
+    "movies/movies-cottbus-woman-asleep": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
+          "cap": "A Woman Asleep"
+        },
+        {
+          "t": "p",
+          "x": "アーティストで映画監督のVikki BardotによるAI-generated長編A Woman Asleepが、11月3〜8日に開催されるドイツのFilmFestival Cottbusのメインコンペティションに選ばれた。定評ある国際映画祭のメインコンペに選ばれたAI-generated長編としては初とみられる。"
+        },
+        {
+          "t": "p",
+          "x": "Bardotの半自伝的な脚本に基づく本作は50,000ショットを編集したもので、すべてBardotが自ら学習・カスタマイズしたAIモデルで生成された。ナレーションは監督のAI音声クローンが担い、音楽もすべてAIで生成されている。"
+        },
+        {
+          "t": "p",
+          "x": "「ますます切り離され、機械のようになっていく社会を映すため、合成映像と、感情の起伏がない私自身の声のAIクローンを意図的に使った」とBardotは語った。"
+        },
+        {
+          "t": "p",
+          "x": "製作はトルコを拠点とするSpongeworthy Studioで、脚本はAlkan Avcıoğluとの共同執筆だ。今月下旬にAntalya Golden Orangeで初上映され、トルコの配給会社Başka Sinemaに販売された。映画祭ディレクターのBernd Buderは、その「分析的な鋭さ、個人的な手触り、物語の落ち着き」を称えた。"
+        }
+      ]
+    },
+    "movies/movies-claude-blender-blocking": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BExtQ740QgM"
+        },
+        {
+          "t": "p",
+          "x": "Curious RefugeはAlbert Bozesanと組み、AIカメラ制御のワークフローを紹介する。テキストプロンプトだけに頼らず、まず3Dでショットを計画し、そのアニメーションでAI動画生成を導く手法だ。"
+        },
+        {
+          "t": "p",
+          "x": "Claudeは公式のBlender MCPアドオンを通じてBlenderに接続し、指示に従って環境を構築し、キャラクターにポーズを付け、カメラを配置し、アニメーションを作成できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
+          "cap": "Blender MCPアドオンを有効化した状態"
+        },
+        {
+          "t": "p",
+          "x": "Albertのスターターキットには、プロンプトテンプレート、カメラのガイドライン、Claudeが複製してポーズを付けられるリグ付きキャラクター、環境ジェネレーター、720pのリファレンスレンダー設定が含まれる。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
+          "cap": "Magnificで生成した環境リファレンス"
+        },
+        {
+          "t": "p",
+          "x": "リファレンス画像はMagnificで作成する。レンダリングしたアニマティックをそれらと一緒にSeedance 2.5へアップロードし、最終的なシネマティックショットを生成する。"
+        }
+      ]
+    },
+    "movies/movies-ivybears": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
+          "cap": "IvyBears（Moontrail Animation Studios）"
+        },
+        {
+          "t": "p",
+          "x": "IvyBearsの創業者兼CEO、Kaan Haylaz博士はMIPJuniorで「リバース・フライホイール戦略」を披露した。食事に苦労していた息子を助けるために作ったIvyBearsのビタミングミが先にあり、エンターテインメントIPは後から生まれたという。"
+        },
+        {
+          "t": "p",
+          "x": "HaylazのマルタのMoontrail Animation Studiosは、人間の才能が導くAIツールを使う。「AIは映画監督ではない。AIは映画監督の手にある道具だ」と彼は語った。フルタイム20人余りの少数精鋭のスタジオが、12分のエピソードを約2週間で制作する。"
+        },
+        {
+          "t": "p",
+          "x": "彼によれば、生成AIはプロンプトを打ち込むだけのものではない。エピソード全体でキャラクター、照明、演技の一貫性を保つには「相当な監督、反復、細部への注意」が必要だという。"
+        },
+        {
+          "t": "p",
+          "x": "今年初めに開設されたIvyBearsのYouTubeチャンネルは、登録者数770万人超、各プラットフォーム合計で7500万回の再生を記録している。Moontrailは他のシリーズ（「The Dr Muppy Show」「Banana Rainbow」）にも展開しており、IvyBearsの長編アニメ映画も開発中で、年内に制作開始の見込みだ。"
+        }
+      ]
+    },
+    "movies/movies-foundry-smartroto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
+          "cap": "Foundry SmartRoto"
+        },
+        {
+          "t": "p",
+          "x": "FoundryのSmartRotoは、コマ単位で続くロトスコープの地道な作業を対象としたNuke向けのAI-assistedアドオンだ。Nukeの既存のRotoノードに直接組み込まれているため、スプラインアーティストにとって学習コストはほぼゼロだ。"
+        },
+        {
+          "t": "p",
+          "x": "SmartRotoは平面的なマットを出力するのではなく、実際のベクタースプラインを扱う。わずか数枚の入力フレームからスプラインをシーケンス全体に伝播・変形させるので、はみ出た髪の毛を直すときもショットをロトし直す必要はなく、見慣れたポイントをつかめばよい。"
+        },
+        {
+          "t": "p",
+          "x": "ワークフローはノンリニアだ。任意の位置に移動してシェイプにキーを打てば、ツールが補間する。ResolveのMagic Mask、Mocha ProのMatte Assist、NukeのCopyCatと時間を計って比較したテストで、レビュアーのTodd Sheridan Perryは作業が「4倍」速くなったと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "注意点として、Nukeのライセンスとは別の有料アドオンであり、Nuke 16.1以降が必要で、あくまで補助ツールであり監修の代わりにはならない。レビューではGaomon PD1561 V2とHuion Kamvas Pro 24のペンディスプレイも取り上げている。"
+        }
+      ]
+    },
+    "movies/movies-corridorkey2": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "godomkRXBLE"
+        },
+        {
+          "t": "p",
+          "x": "Corridor Crewは10月16日、“CorridorKey 2.0 just works...”と題した45秒のYouTube Shortを投稿した。説明文は“This Weekend.”の一行だけだ。動画では2.0の機能一覧や変更履歴は示されていない。"
+        },
+        {
+          "t": "p",
+          "x": "CorridorKeyは、Niko PueringerがCorridorで開発し、GitHubでオープンソース化した無料のニューラルキーヤーだ。未加工のグリーンバックのフレームを入力すると前景を分離し、モーションブラーやピンぼけした輪郭も含めて全ピクセルの本来のストレートカラーを、クリーンなリニアアルファチャンネルとともに推定する。“AI Roto”系ツールにありがちな硬い二値マスクとは異なる。"
+        },
+        {
+          "t": "p",
+          "x": "リポジトリにある現行機能は、自動判別付きのグリーンバック用・ブルーバック用専用チェックポイント、ネイティブ2048x2048バックボーンで最大4K までの解像度に依存しない推論、Nuke・Fusion・Resolve向けの16ビット・32ビットのリニアEXR入出力、トラッキングマーカーの自動除去だ。最新ビルドは6–8GBのVRAMと大半のM1+ Macsで動作する。"
+        }
+      ]
     }
   }
 }

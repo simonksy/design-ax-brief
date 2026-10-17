@@ -6656,6 +6656,131 @@
           "x": "Un responsable del sector editorial señaló: “Según la ley de derechos de autor vigente, venderlos está permitido, pero usarlos para entrenar a la AI es otra cuestión”, y añadió: “En el país todavía hay un vacío normativo al respecto”."
         }
       ]
+    },
+    "books/books-market-dilution": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/17/134859202.1.jpg",
+          "cap": "(Imagen generada con ChatGPT)"
+        },
+        {
+          "t": "p",
+          "x": "¿Puede considerarse infracción de derechos de autor que la AI generativa erosione el mercado de los creadores humanos aunque no copie ninguna obra concreta? Según publicó el día 16 la revista científica internacional Science, el equipo de la profesora Pamela Samuelson, de UC Berkeley (EE. UU.), señaló que con esta teoría de la 'dilución de mercado' es difícil probar un daño real y que puede chocar con los principios vigentes del derecho de autor."
+        },
+        {
+          "t": "p",
+          "x": "La teoría cobró relevancia en la demanda que autores estadounidenses presentaron contra Meta. El tribunal aceptó el argumento de uso legítimo de Meta sobre el entrenamiento de su AI 'Llama', pero indicó que su decisión podría haber sido distinta si hubiera existido evidencia empírica de erosión del mercado."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados empíricos son dispares. En una plataforma que permitió imágenes de AI, la producción de imágenes aumentó un 136% y las ventas totales un 82%, pero las ventas de imágenes no AI cayeron un 28%. Un análisis de 14,419 novelas de género autopublicadas en Amazon mostró que los ingresos por libro disminuyeron a medida que aumentaban los libros hechos con AI."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores sostienen que, aunque se confirme el daño al mercado causado por la AI, debe responderse con legislación y no con demandas individuales de derechos de autor, y que el Congreso debería estudiar licencias colectivas o sistemas de compensación."
+        }
+      ]
+    },
+    "books/books-sudowrite-worldbuilding": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La semana pasada tu elenco tuvo su primer plano con la llegada de Character Portraits. Ahora toca enfocar el resto del mundo de tu historia."
+        },
+        {
+          "t": "img",
+          "src": "https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/static/01a1174c-0a23-7e8f-bac2-0885c12e2750/dionnxabcc.png",
+          "cap": "Presentamos Worldbuilding Images"
+        },
+        {
+          "t": "p",
+          "x": "La sección Worldbuilding del Story Bible ya admite imágenes. Ahora puedes generar imágenes directamente desde tus tarjetas de Worldbuilding (o subir arte que ya tengas), para que cada lugar y objeto de tu historia tenga una referencia visual coherente."
+        },
+        {
+          "t": "p",
+          "x": "Como Character Portraits, las imágenes de Worldbuilding se generan con un solo clic, sin necesidad de escribir prompts. Selecciona la miniatura de cualquier tarjeta de Worldbuilding, elige un estilo (o cuatro) y pulsa Generate. Los campos de rasgos que ya tienen tus tarjetas sirven de referencia; puedes añadir detalles sobre ambiente, iluminación o ángulo para tener más control."
+        },
+        {
+          "t": "p",
+          "x": "Cada imagen se guarda en la galería de esa tarjeta, así que puedes generar opciones, compararlas y fijar tu favorita como miniatura, con lo que tu Story Bible se convierte en un atlas visual de tu mundo."
+        }
+      ]
+    },
+    "books/books-piccoma-ai-anime": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i3n.news1.kr/system/photos/2026/10/14/8158907/high.jpg",
+          "cap": "(Cortesía de Kakao)/News1"
+        },
+        {
+          "t": "p",
+          "x": "Kakao Piccoma impulsará la animación producida con AI como nuevo motor de crecimiento. La estrategia busca dejar atrás una estructura de negocio centrada en la lectura de webtoons y cómics digitales y diversificar su negocio de contenidos hacia el video y los productos derivados. En la reunión conjunta con analistas del grupo Kakao celebrada el día 13, la empresa presentó la animación con AI, un servicio especializado en BL y el negocio de productos derivados como sus 3 nuevos ejes de crecimiento, y señaló el contenido de video con AI como su área prioritaria."
+        },
+        {
+          "t": "p",
+          "x": "Desde mayo, Kakao Piccoma cuenta con una nueva categoría 'Anime' en la que convierte webtoons y novelas web en animación con AI para el mercado japonés. Este año busca ofrecer unos 80 títulos y prevé crear un sistema de publicación semanal de hasta 2 entregas por semana. A largo plazo, ampliará la oferta a adaptaciones de novelas en video de imagen real con AI, audiolibros e ilustraciones en video con AI."
+        },
+        {
+          "t": "p",
+          "x": "Según la empresa, los ingresos de pago de la animación con AI se multiplicaron por 4.5 en septiembre respecto a mayo, y las compras de obras originales de los nuevos usuarios atraídos por la animación con AI equivalen a unas 5 veces esos ingresos."
+        }
+      ]
+    },
+    "books/books-webtoon-ai-budget": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.3e465163d1504eafb0c06a53cb70804d_P1.jpg",
+          "cap": "El ministro de Cultura, Deportes y Turismo, Choi Hwi-young, interviene en el subcomité de webtoon del Comité Asesor de Políticas de Cultura y Artes. Foto cortesía del Ministerio de Cultura, Deportes y Turismo"
+        },
+        {
+          "t": "p",
+          "x": "La adopción de la AI dominó la cuarta sesión del subcomité de webtoon del Comité Asesor de Políticas de Cultura y Artes de Corea, celebrada el día 14 y presidida por el ministro de Cultura, Choi Hwi-young. Los vales para herramientas de AI y el emparejamiento entre empresas de AI y creadores surgieron como posibles líneas de acción."
+        },
+        {
+          "t": "p",
+          "x": "Park Suk-hwan, de Jaedam Media, dijo que la formación y los vales del Gobierno podrían abrir un nuevo mercado, y la dibujante Won Soo-yeon afirmó que los artistas usan AI casi sin excepción. El CEO de D&C Media, Choi Won-young, instó al Gobierno a conectar a las empresas de AI con los artistas de webtoon."
+        },
+        {
+          "t": "p",
+          "x": "El ministro dijo que los vales de AI para artistas individuales generan dudas sobre su eficacia frente al enorme presupuesto que exigirían, pero calificó de prometedora la idea de colaboración y mencionó la Culture Technology Alliance, que se lanza el día 15."
+        },
+        {
+          "t": "img",
+          "src": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.e96d8ae0bea64b92b2197c78575e7fc3_P1.jpg",
+          "cap": "El ministro de Cultura, Deportes y Turismo, Choi Hwi-young, interviene en el subcomité de webtoon del Comité Asesor de Políticas de Cultura y Artes. Foto cortesía del Ministerio de Cultura, Deportes y Turismo"
+        },
+        {
+          "t": "p",
+          "x": "Unos 32,700 millones de wones ($23 millones) se destinan a cómics y webtoons en el proyecto de presupuesto de 2027, un 4.6% menos en total pero un 6% más en gasto de programas sin contar la construcción de instalaciones, incluidos 3,100 millones de wones para 14 nuevos talleres de guion."
+        }
+      ]
+    },
+    "books/books-authors-guild-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132259-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "Mientras las editoriales siguen cancelando libros por acusaciones de uso de AI por parte de escritores, el Authors Guild ha elaborado un conjunto de pautas y buenas prácticas para editoriales sobre los detectores de AI y el manejo del uso no declarado de AI. Siguen a una lista similar que el Guild creó para autores en mayo, con el objetivo de «garantizar la confianza mutua entre autores y editoriales»."
+        },
+        {
+          "t": "p",
+          "x": "La principal preocupación es el creciente uso de lo que el Guild llama «detectores de AI imperfectos». Las editoriales deberían «ser totalmente transparentes sobre cuándo y por qué usan detectores de AI» y, antes de subir manuscritos a un servicio externo, confirmar que el texto no se conservará ni se usará para entrenamiento, y obtener el permiso del autor."
+        },
+        {
+          "t": "p",
+          "x": "«Ninguna editorial, agente u otra persona debería basarse únicamente en un detector de AI para determinar si un libro contiene texto de AI. Los detectores de AI, incluso los mejores, no siempre son precisos»."
+        },
+        {
+          "t": "p",
+          "x": "El Guild también afirma que «toda editorial debería adoptar una política de AI por escrito» y que ninguna editorial debería cancelar un contrato por uso de AI salvo que el autor haya incumplido un contrato firmado o una política que lo prohíba claramente. Se «opone a cualquier requisito de que los autores usen tecnologías que rastreen o registren su proceso de escritura», aunque apoya a los escritores que decidan usarlas si son acusados."
+        }
+      ]
     }
   }
 }

@@ -7672,6 +7672,135 @@
           "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
         }
       ]
+    },
+    "movies/movies-cottbus-woman-asleep": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
+          "cap": "A Woman Asleep"
+        },
+        {
+          "t": "p",
+          "x": "Artist and filmmaker Vikki Bardot's AI-generated feature A Woman Asleep has been selected in the main competition of Germany's FilmFestival Cottbus, which runs November 3-8. It is believed to be the first AI-generated feature selected for the main competition of an established international film festival."
+        },
+        {
+          "t": "p",
+          "x": "Based on Bardot's semi-autobiographical screenplay, the film is an edit of 50,000 shots, all generated through AI models trained and customised by Bardot. It is narrated by an AI voice clone of the director, and all its music is AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "“I intentionally used synthetic imagery and an emotionally flat AI clone of my own voice to reflect a society that is increasingly detached and becoming more machine-like,” Bardot said."
+        },
+        {
+          "t": "p",
+          "x": "It is produced by Turkey-based Spongeworthy Studio and co-written with Alkan Avcıoğlu. It premieres at Antalya Golden Orange later this month and has sold to Turkish distributor Başka Sinema. Festival director Bernd Buder praised its “analytical acuity, a personal touch, and narrative composure.”"
+        }
+      ]
+    },
+    "movies/movies-claude-blender-blocking": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BExtQ740QgM"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge teams up with Albert Bozesan on an AI camera-control workflow: plan shots in 3D first, then use that animation to guide AI video generation instead of relying on text prompts alone."
+        },
+        {
+          "t": "p",
+          "x": "Claude connects to Blender through the official Blender MCP add-on, so it can build environments, pose characters, position cameras and create animations from instructions."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
+          "cap": "The Blender MCP add-on enabled"
+        },
+        {
+          "t": "p",
+          "x": "Albert's starter kit supplies a prompt template, camera guidelines, a rigged character Claude can duplicate and pose, environment generators and a 720p reference render setup."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
+          "cap": "Environment reference generated in Magnific"
+        },
+        {
+          "t": "p",
+          "x": "Reference images come from Magnific; the rendered animatic is then uploaded with them to Seedance 2.5 to produce the final cinematic shot."
+        }
+      ]
+    },
+    "movies/movies-ivybears": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
+          "cap": "IvyBears (Moontrail Animation Studios)"
+        },
+        {
+          "t": "p",
+          "x": "At MIPJunior, IvyBears founder and CEO Dr. Kaan Haylaz presented his “reverse flywheel strategy”: the IvyBears vitamin gummies, created to help his son who was struggling with food, came first, and the entertainment IP followed."
+        },
+        {
+          "t": "p",
+          "x": "Haylaz's Malta-based Moontrail Animation Studios uses AI tools guided by human talent. “AI is not the filmmaker. AI is a tool in the filmmaker's hands,” he said. The lean studio of around 20-plus full-time people produces 12-minute episodes in approximately two weeks."
+        },
+        {
+          "t": "p",
+          "x": "He says generative AI is far more than typing prompts: keeping characters, lighting and performances consistent across an episode demands “considerable supervision, iteration and attention to detail.”"
+        },
+        {
+          "t": "p",
+          "x": "Launched earlier this year, the IvyBears YouTube channel has more than 7.7M subscribers and 75 million views across platforms. Moontrail is expanding into other series (“The Dr Muppy Show,” “Banana Rainbow”), and an IvyBears animated feature is in development, with production expected to start before year-end."
+        }
+      ]
+    },
+    "movies/movies-foundry-smartroto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
+          "cap": "Foundry SmartRoto"
+        },
+        {
+          "t": "p",
+          "x": "Foundry's SmartRoto is an add-on for Nuke aimed at the frame-by-frame grind of rotoscoping. It is built directly into Nuke's existing Roto node, so the learning curve for spline artists is close to zero."
+        },
+        {
+          "t": "p",
+          "x": "Rather than outputting a flat matte, SmartRoto works with actual vector splines, propagating and deforming them across a sequence from just a couple of input frames, so fixing a stray hair means grabbing a familiar point rather than re-rotoing the shot."
+        },
+        {
+          "t": "p",
+          "x": "The workflow is nonlinear: jump anywhere, key a shape and let the tool interpolate. In timed tests against Resolve's Magic Mask, Mocha Pro's Matte Assist and Nuke's CopyCat, reviewer Todd Sheridan Perry found it sped things up “by a factor of 4.”"
+        },
+        {
+          "t": "p",
+          "x": "Caveats: it is a paid add-on separate from Nuke licenses, needs Nuke 16.1 or later, and is an assistant, not a replacement for supervision. The review also covers the Gaomon PD1561 V2 and Huion Kamvas Pro 24 pen displays."
+        }
+      ]
+    },
+    "movies/movies-corridorkey2": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "godomkRXBLE"
+        },
+        {
+          "t": "p",
+          "x": "Corridor Crew posted a 45-second YouTube Short titled “CorridorKey 2.0 just works...” on Oct. 16, with a one-line description: “This Weekend.” The clip gives no feature list or changelog for version 2.0."
+        },
+        {
+          "t": "p",
+          "x": "CorridorKey is the free neural keyer Niko Pueringer built at Corridor and open-sourced on GitHub. You feed it a raw green screen frame and it separates the foreground, predicting the true straight color of every pixel — including motion blur and out-of-focus edges — alongside a clean linear alpha channel, instead of the harsh binary mask typical of “AI Roto” tools."
+        },
+        {
+          "t": "p",
+          "x": "Current features on the repo include dedicated green- and blue-screen checkpoints with auto-detection, resolution-independent inference up to 4K on a native 2048x2048 backbone, 16- and 32-bit linear EXR input and output for Nuke, Fusion or Resolve, and auto-cleanup of tracking markers. The latest build runs on 6–8GB of VRAM and on most M1+ Macs."
+        }
+      ]
     }
   }
 }

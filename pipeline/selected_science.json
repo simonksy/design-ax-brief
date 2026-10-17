@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "section": "science",
   "picks": [
     {
-      "url": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html",
-      "title": "AI designs working molecular scissors that recognize and cut selected protein targets",
-      "source": "Phys.org",
+      "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+      "title": "Anthropic's Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+      "source": "The Quantum Insider",
       "category": "science",
-      "published_iso": "2026-10-16T12:40:06-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
-      "excerpt": "Baker lab (UW) used RFdiffusion2, ProteinMPNN and AlphaFold 3 to design cysteine and zinc proteases from scratch; two Nature papers report designs that cut targets such as amyloid-beta and TDP-43, with AI refinement boosting one enzyme ~30-fold.",
+      "published_iso": "2026-10-17T08:11:10+00:00",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+      "excerpt": "Researchers used Claude to design more efficient quantum circuits across eight tasks, reducing estimated computing resources.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Two Nature papers from the Baker lab: de novo AI-designed proteases that cut chosen protein targets, a new capability in enzyme design."
+      "rationale": "Quantum slot and the newest item in the pool: an LLM designs leaner quantum circuits on eight tasks and cuts the estimated resources needed."
     },
     {
-      "url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
-      "title": "Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields",
+      "url": "https://phys.org/news/2026-10-machine-analysis-gene-reveals-dimension.html",
+      "title": "Machine learning analysis of gene regulation reveals new dimension of biological variability",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-16T11:40:12-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
-      "excerpt": "A physics-guided neural approach infers the internal magnetization of nanoscale magnets from the stray fields microscopes can measure, solving an ill-posed inverse problem relevant to spintronic computing.",
+      "published_iso": "2026-10-16T17:20:00+00:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+      "excerpt": "The FIRE tool adds a machine-learning step to long-read chromatin-accessibility mapping, scoring each accessible DNA region on maternal and paternal chromosomes for real regulatory function (study in Cell).",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Physics slot: a physics-guided neural network works out the hidden magnetization inside nanoscale magnets from the stray fields a microscope can measure, an inverse problem that matters for spintronics."
+      "rationale": "Genomics slot: a Cell study in which ML scores each accessible DNA region separately on the maternal and paternal chromosomes, a new level of detail in gene-regulation maps."
     },
     {
-      "url": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
-      "title": "Can AI break encryption? OpenAI's new math has cryptographers divided",
-      "source": "Scientific American",
+      "url": "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html",
+      "title": "Fully automated testing of bulk metals paves the way for AI-driven materials development",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-15T10:30:00-04:00",
-      "og_image": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
-      "excerpt": "OpenAI's bumper crop of 722 AI-generated math papers wowed and worried researchers, and cryptographers are split over whether the algorithms protecting texts and bank logins are next.",
-      "source_lang": "en",
-      "tool": "Science",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "Covers OpenAI's 722 AI-generated math papers and asks the practical question of whether encryption is next; a different event from earlier AI-math cards."
-    },
-    {
-      "url": "https://techxplore.com/news/2026-10-electronic-ai-materials.html",
-      "title": "Using electronic structure to guide AI in designing new materials",
-      "source": "Tech Xplore",
-      "category": "science",
-      "published_iso": "2026-10-15T05:00:02-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
-      "excerpt": "University of Tokyo researchers extended a leading generative AI materials model to condition on electronic structure, steering atom arrangements toward desired properties.",
+      "published_iso": "2026-10-16T14:20:00+00:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+      "excerpt": "Tohoku University and NIMS built an automated bulk-metal testing line with an AI optimizer that tunes furnace parameters, a step toward a closed-loop self-driving lab that proposes the next heat-treatment conditions itself.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Materials slot: a University of Tokyo team makes a generative materials model take electronic structure as an input, so designs can be steered toward target properties."
+      "rationale": "Materials slot: Tohoku and NIMS automate bulk-metal testing end to end, with an AI optimizer that tunes the furnace parameters. This is a new release dated three weeks after the 9-27 self-driving-lab card."
     },
     {
-      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-      "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
-      "source": "Quanta Magazine",
+      "url": "https://techxplore.com/news/2026-10-ai-food-physics-pair-human.html",
+      "title": "Can AI help discover new food physics? Researchers pair AI with human expertise",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-10-16T13:25:08+00:00",
-      "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Social.jpg",
-      "excerpt": "Moritz Hardt, author of a new book on benchmarks, argues AI's 'standardized tests' are fundamentally broken but fixable, and lays out a science of evaluation.",
+      "published_iso": "2026-10-16T16:40:00+00:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+      "excerpt": "Penn State's AgentXtract uses AI agents to extract food-property data from papers into an expert-verified database, which surfaced a previously unreported link between two dielectric properties across 100+ foods.",
+      "source_lang": "en",
+      "tool": "Science",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "Literature-mining slot: AI agents pull data from papers into a database that experts check, and that database turned up a dielectric-property link across 100+ foods that no one had reported."
+    },
+    {
+      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+      "title": "Simulating student learning for better AI tutoring",
+      "source": "Microsoft Research",
+      "category": "science",
+      "published_iso": "2026-10-12T16:00:00+00:00",
+      "og_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-TWLIFB-1200x627-1.jpg",
+      "excerpt": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "Methodology slot: Moritz Hardt (new book) on how to make AI evaluation a real science; different person and angle from the 10-06 benchmark-error study."
+      "rationale": "Learning-science slot: StudentSim simulates how learners respond so AI tutors can be tested before they reach real students. This is a new system, not commentary."
     }
   ],
   "dedup": {
     "checks": {
-      "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html": {
+      "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-millions-years-evolution-ai-pollution.html",
+        "nearest": "https://thequantuminsider.com/2026/09/24/qc-design-meridian-lower-error-rates-quantum-computing/",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html": {
+      "https://phys.org/news/2026-10-machine-analysis-gene-reveals-dimension.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-room-temperature-skyrmion-based-synapses.html",
+        "nearest": "https://phys.org/news/2026-10-tracking-cellular-gene-functions-ai.html",
         "new_action": ""
       },
-      "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/": {
+      "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html": {
         "verdict": "new",
-        "nearest": "https://www.scientificamerican.com/article/openai-cracks-the-hidden-math-that-keeps-your-texts-from-turning-to-gibberish/",
+        "nearest": "https://www.eurekalert.org/news-releases/1145149",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-electronic-ai-materials.html": {
+      "https://techxplore.com/news/2026-10-ai-food-physics-pair-human.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-09-physics-grounded-ai-framework-aims.html",
+        "nearest": "https://phys.org/news/2026-09-ai-peptide-bitterness-enables-flavor.html",
         "new_action": ""
       },
-      "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/": {
+      "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
+        "nearest": "https://phys.org/news/2026-10-math-slightly-ai-human-teacher.html",
         "new_action": ""
       }
     },
-    "note": "Pool 15. SWAP: Google Research 'autonomous wet labs' was removed after it tripped a safety classifier during translation. It was replaced, not reworded, with Phys.org's physics-guided AI on ultrathin magnets (non-biology). Nearest published story is the 9-17 skyrmion-synapse card, a different study and topic. None of the URLs in /tmp/ax_claimed_urls.txt covers the same story. Dropped as repeats: ScienceDaily AI-vs-human consciousness (likely-repeat of 10-03 techxplore conscious story); ScienceDaily CO2-to-fuel copper catalyst (same study as 10-09 eurekalert 1146653); Live Science 'AI about to go rogue' (same study as 10-09 techxplore simple math formula); SciAm Claude CRISPR-like DNA pattern (same Anthropic biology discovery as 9-25 phys.org 'Anthropic touts AI-led biology discovery', no new release). Skipped: Google Earth AI geospatial agents (running Earth AI line after the 10-07 card), Tech Xplore LLM double standard (close to the 10-10 'chatbots reason like humans' cognition card), Tech Xplore Turing-test dispute (commentary), Science News DeepMind math study (AI-math already covered by the SciAm pick), Phys.org gene-regulation ML (biology; ranked lower). The SciAm pick is about the 722-paper release, a different event from the 9-19 sphere-packing card. Safety: no pathogen, gain-of-function, bioweapon or wet-lab automation content. Outlets: Phys.org 2, Scientific American, Tech Xplore, Quanta (4 distinct, max 2 per outlet). No shared URLs."
+    "note": "Pool 18. Dropped as repeats: Phys.org Caltech tipping-point neural operator (likely-repeat, same study as 10-16 EurekAlert 1147991); ScienceDaily LMU AI-consciousness (same study as 10-03 techxplore); ScienceDaily IISc CO2-to-fuel (same study as 10-09 EurekAlert 1146653); Live Science 'AI about to go rogue' (same study as 10-09 techxplore simple math formula); SciAm Claude CRISPR-like DNA pattern (same Anthropic biology discovery as 9-25 phys.org, no new release). Safety skip: Google Research autonomous wet labs. It tripped the safety classifier in the 10-17 run, so it is not reused. Skipped on score or repetition: GEN Danaher-Nvidia (industry partnership, wet-lab automation adjacent); Google Earth AI geospatial agents (running Earth AI line after the 10-07 card); Tech Xplore LLM double standard (close to the 10-10 cognition card); Tech Xplore KAIST stress (26-person study); SciAm Navier-Stokes, Science News DeepMind math, MIT book Q&A (commentary). Gene-regulation pick: the history_match 10-09 card is a different study (microscopy gene function vs FIRE chromatin accessibility in Cell). Bulk-metals pick: the history_match 9-27 self-driving-lab card is a separate earlier release; this one is new Tohoku/NIMS bulk-metal testing work published 10-16. Safety: no pathogen, gain-of-function or bioweapon content. Outlets: Phys.org 2, The Quantum Insider, Tech Xplore, Microsoft Research (4 distinct, max 2 per outlet). No shared URLs; accents distinct."
   }
 }

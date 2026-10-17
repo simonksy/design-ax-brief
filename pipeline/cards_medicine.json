@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-llm-care-cost",
+      "id": "medicine-ai-fcp",
       "source_lang": "en",
-      "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "LLM 진료 계획 비용\n의사 처방과 비교",
-      "body": "NEJM AI 연구가 24개 AI로 LLMs 권고 진료비와 의사 처방을 비교했다.",
-      "mini_headline": "LLM 진료 계획의 비용",
-      "source": "NEJM AI",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600537",
+      "headline": "AI가 첫 종양 진료 전\n환자 기록을 정리한다",
+      "body": "종양 클리닉 현장에서 LLM이 첫 진료 전 비정형 문서를 구조화 요약으로 바꾼다.",
+      "mini_headline": "AI가 첫 종양 진료를 준비한다",
+      "tool": "Medicine",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03396-6",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,155 +19,175 @@
         "blocks": [
           {
             "t": "p",
-            "x": "대규모 언어 모델은 임상 의사결정 지원에 점점 더 많이 쓰인다. 그런데 이들이 권하는 서비스나 치료의 비용을 담당 의사가 실제로 처방한 내용과 맞대어 따져본 연구는 없었다. Dvir Aran, Jeremy D. Goldhaber-Fiebert, Ittai Many, Anthony Nguyen, Daniel Yang, Shahar Shelly는 NEJM AI에 \"Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians\"를 발표했다."
+            "x": "대규모 언어 모델이 정보 관리를 거들어 임상의를 도울 수는 있지만, 실제 종양 진료 현장에서 얼마나 쓸 만한지는 아직 연구가 부족하다고 네덜란드 암연구소(Netherlands Cancer Institute) 연구진이 npj Digital Medicine에 썼다."
           },
           {
             "t": "p",
-            "x": "연구는 다섯 단계를 밟았다. 200개 사례를 고르고, 각 기록을 임상 양상과 평가·계획으로 나눈 뒤, 24개 AI 시스템이 3가지 프롬프트(표준, 비용 고려, 간결하되 안전한 방식)로 계획을 짰다. 거기서 처방을 뽑아내고(세 번 추출한 값의 중앙값), 처방마다 CPT 코드로 Medicare 수가표에 맞춰 값을 매겼다."
-          },
-          {
-            "t": "img",
-            "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
-            "cap": "연구 흐름과 예시 사례: 전형적인 세기관지염을 앓는 생후 2개월 영아."
+            "x": "연구진은 비정형 임상 문서로 구조화 요약을 만드는 AI-based First Consultation Preparation(AI-FCP)의 워크플로 성능을 평가했다. 도구는 두경부종양과(Department of Head and Neck Oncology)의 최종 사용자, 파트너 kaiko.ai와 함께 개발했다."
           },
           {
             "t": "p",
-            "x": "예시 사례에서 담당 의사는 진단 검사를 하나도 내지 않았다(US$0). 세기관지염에는 일상적인 검사가 필요 없어서다. 기본 프롬프트에서 AI는 호흡기 바이러스 패널과 심초음파를 처방했고(US$454), 비용 고려 프롬프트는 바이러스 패널과 백일해 PCR을(US$292), 간결 프롬프트는 백일해 PCR 검사만 처방했다(US$35)."
+            "x": "설계는 전향적 단일군 전후 비교였다. 임상의 아홉 명이 개인별 기준선 측정을 마친 뒤 AI-FCP로 33건의 진료를 진행했고, 사용성은 검증된 설문지와 연구 전용 도구로 평가했다."
+          },
+          {
+            "t": "p",
+            "x": "AI-FCP를 도입하자 전반적 체감 업무 부담(NASA-TLX)이 기준선보다 28.9% 낮아졌고, 자가 보고 기준으로 사례당 평균 3.26분이 절약됐다. 준비는 진료의 84.9%에서 성공했고 요약의 63.6%는 완전했다."
+          },
+          {
+            "t": "p",
+            "x": "저자들은 이번 결과를 탐색적이라고 규정했다. 생존자 편향 가능성도 짚었고 일반화할 수 있는지는 추가 연구로 판단해야 한다고 밝혔다."
           }
         ]
       },
+      "_lead_image": "",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "LLM care plans priced against\nwhat physicians ordered",
-          "body": "An NEJM AI study of 24 AI systems compares the cost of care LLMs recommend with what physicians actually ordered.",
-          "mini_headline": "What LLM care plans cost",
+          "headline": "AI drafts the case file\nbefore the first oncology visit",
+          "body": "In a real oncology clinic, an LLM turns unstructured clinical documents into structured summaries before first visits.",
+          "mini_headline": "AI preps first oncology visits",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Large language models are increasingly consulted for clinical decision support, yet the cost of the services or treatment they recommend had not been systematically compared with what treating physicians actually ordered. In NEJM AI, Dvir Aran, Jeremy D. Goldhaber-Fiebert, Ittai Many, Anthony Nguyen, Daniel Yang and Shahar Shelly report \"Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians.\""
+                "x": "Large language models may support clinicians by facilitating information management, but their usability in real-world oncology practice remains understudied, write researchers at the Netherlands Cancer Institute in npj Digital Medicine."
               },
               {
                 "t": "p",
-                "x": "The study pipeline runs in five steps: 200 cases were selected; each note was split into the clinical presentation and the assessment and plan; 24 AI systems generated plans under 3 prompts (standard, cost-aware and parsimonious-but-safe); orders were extracted (median of three extractions); and each order was priced from CPT codes against the Medicare fee schedule."
-              },
-              {
-                "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
-                "cap": "Study workflow and an example case: a 2-month-old infant with classic bronchiolitis."
+                "x": "They evaluated the workflow performance of AI-based First Consultation Preparation (AI-FCP), which generates structured summaries from unstructured clinical documentation and was co-created with end users in the Department of Head and Neck Oncology, with partner kaiko.ai."
               },
               {
                 "t": "p",
-                "x": "In the example case, the treating clinician ordered no diagnostic tests (US$0), since routine testing is not indicated for bronchiolitis. With the default prompt, the AI ordered a viral respiratory panel and an echocardiogram (US$454); the cost-aware prompt ordered a viral panel and pertussis PCR (US$292); the parsimonious prompt ordered a pertussis PCR test only (US$35)."
+                "x": "In a prospective single-group pre-post design, nine clinicians completed a person-level baseline, followed by 33 consultations with AI-FCP. Usability was evaluated using validated questionnaires and study-specific instruments."
+              },
+              {
+                "t": "p",
+                "x": "After AI-FCP, overall perceived workload (NASA-TLX) was 28.9% lower than baseline, with self-reported average time savings of 3.26 min per case. Preparation succeeded in 84.9% of consultations, and 63.6% of summaries were complete."
+              },
+              {
+                "t": "p",
+                "x": "The authors call the findings exploratory, note possible survivorship bias, and say further research is needed to determine generalizability."
               }
             ]
           }
         },
         "ko": {
-          "headline": "LLM 진료 계획 비용\n의사 처방과 비교",
-          "body": "NEJM AI 연구가 24개 AI로 LLMs 권고 진료비와 의사 처방을 비교했다.",
-          "mini_headline": "LLM 진료 계획의 비용",
+          "headline": "AI가 첫 종양 진료 전\n환자 기록을 정리한다",
+          "body": "종양 클리닉 현장에서 LLM이 첫 진료 전 비정형 문서를 구조화 요약으로 바꾼다.",
+          "mini_headline": "AI가 첫 종양 진료를 준비한다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "대규모 언어 모델은 임상 의사결정 지원에 점점 더 많이 쓰인다. 그런데 이들이 권하는 서비스나 치료의 비용을 담당 의사가 실제로 처방한 내용과 맞대어 따져본 연구는 없었다. Dvir Aran, Jeremy D. Goldhaber-Fiebert, Ittai Many, Anthony Nguyen, Daniel Yang, Shahar Shelly는 NEJM AI에 \"Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians\"를 발표했다."
+                "x": "대규모 언어 모델이 정보 관리를 거들어 임상의를 도울 수는 있지만, 실제 종양 진료 현장에서 얼마나 쓸 만한지는 아직 연구가 부족하다고 네덜란드 암연구소(Netherlands Cancer Institute) 연구진이 npj Digital Medicine에 썼다."
               },
               {
                 "t": "p",
-                "x": "연구는 다섯 단계를 밟았다. 200개 사례를 고르고, 각 기록을 임상 양상과 평가·계획으로 나눈 뒤, 24개 AI 시스템이 3가지 프롬프트(표준, 비용 고려, 간결하되 안전한 방식)로 계획을 짰다. 거기서 처방을 뽑아내고(세 번 추출한 값의 중앙값), 처방마다 CPT 코드로 Medicare 수가표에 맞춰 값을 매겼다."
-              },
-              {
-                "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
-                "cap": "연구 흐름과 예시 사례: 전형적인 세기관지염을 앓는 생후 2개월 영아."
+                "x": "연구진은 비정형 임상 문서로 구조화 요약을 만드는 AI-based First Consultation Preparation(AI-FCP)의 워크플로 성능을 평가했다. 도구는 두경부종양과(Department of Head and Neck Oncology)의 최종 사용자, 파트너 kaiko.ai와 함께 개발했다."
               },
               {
                 "t": "p",
-                "x": "예시 사례에서 담당 의사는 진단 검사를 하나도 내지 않았다(US$0). 세기관지염에는 일상적인 검사가 필요 없어서다. 기본 프롬프트에서 AI는 호흡기 바이러스 패널과 심초음파를 처방했고(US$454), 비용 고려 프롬프트는 바이러스 패널과 백일해 PCR을(US$292), 간결 프롬프트는 백일해 PCR 검사만 처방했다(US$35)."
+                "x": "설계는 전향적 단일군 전후 비교였다. 임상의 아홉 명이 개인별 기준선 측정을 마친 뒤 AI-FCP로 33건의 진료를 진행했고, 사용성은 검증된 설문지와 연구 전용 도구로 평가했다."
+              },
+              {
+                "t": "p",
+                "x": "AI-FCP를 도입하자 전반적 체감 업무 부담(NASA-TLX)이 기준선보다 28.9% 낮아졌고, 자가 보고 기준으로 사례당 평균 3.26분이 절약됐다. 준비는 진료의 84.9%에서 성공했고 요약의 63.6%는 완전했다."
+              },
+              {
+                "t": "p",
+                "x": "저자들은 이번 결과를 탐색적이라고 규정했다. 생존자 편향 가능성도 짚었고 일반화할 수 있는지는 추가 연구로 판단해야 한다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMの診療計画、\n医師の処方とコスト比較",
-          "body": "NEJM AIの研究が24のAIシステムでLLMsの推奨診療費と医師の処方を比べた。",
-          "mini_headline": "LLM診療計画のコスト",
+          "headline": "腫瘍科の初診前に\nAIが症例をまとめる",
+          "body": "実際の腫瘍科外来で、LLMが非構造化の診療文書を初診前に構造化要約へ変換する。",
+          "mini_headline": "AIが腫瘍科の初診を準備",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "大規模言語モデルは臨床意思決定支援で参照される機会が増えているが、それらが推奨するサービスや治療のコストを、担当医が実際に指示した内容と体系的に比較した例はなかった。Dvir Aran、Jeremy D. Goldhaber-Fiebert、Ittai Many、Anthony Nguyen、Daniel Yang、Shahar ShellyはNEJM AIで「Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians」を報告した。"
+                "x": "大規模言語モデルは情報管理を助けることで臨床医を支援しうるが、実際の腫瘍診療における使い勝手は十分に研究されていないと、オランダがん研究所(Netherlands Cancer Institute)の研究者らがnpj Digital Medicineに記している。"
               },
               {
                 "t": "p",
-                "x": "研究のパイプラインは五つの段階で構成される。200の症例を選び、各記録を臨床所見と評価・計画に分け、24のAIシステムが3種類のプロンプト(標準、コスト重視、簡潔かつ安全)で計画を生成し、指示を抽出し(三回の抽出の中央値)、各指示をCPTコードからMedicareの報酬表に基づいて価格付けした。"
-              },
-              {
-                "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
-                "cap": "研究の流れと症例例:典型的な細気管支炎を患う生後2カ月の乳児。"
+                "x": "研究者らは、非構造化の臨床文書から構造化要約を生成するAI-based First Consultation Preparation(AI-FCP)のワークフロー性能を評価した。このツールは頭頸部腫瘍科(Department of Head and Neck Oncology)のエンドユーザー、そしてパートナーのkaiko.aiと共同で開発された。"
               },
               {
                 "t": "p",
-                "x": "この症例では、細気管支炎に日常的な検査は推奨されないため、担当医は診断検査を一切指示しなかった(US$0)。標準プロンプトではAIが呼吸器ウイルスパネルと心エコーを指示し(US$454)、コスト重視プロンプトはウイルスパネルと百日咳PCRを(US$292)、簡潔プロンプトは百日咳PCR検査のみを指示した(US$35)。"
+                "x": "前向き単群前後比較デザインで、臨床医九人が個人単位のベースライン評価を終えた後、AI-FCPを用いて33件の診察を行った。使い勝手は検証済みの質問票と研究独自の評価手段で評価した。"
+              },
+              {
+                "t": "p",
+                "x": "AI-FCP導入後、全体的な主観的作業負荷(NASA-TLX)はベースラインより28.9%低く、自己申告による平均時間短縮は1件あたり3.26分だった。準備は診察の84.9%で成功し、要約の63.6%が完全だった。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは今回の結果を探索的なものと位置づけ、生存者バイアスの可能性を指摘したうえで、一般化可能性を見極めるにはさらなる研究が必要だとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLM诊疗方案费用\n对比医生实际医嘱",
-          "body": "NEJM AI的一项研究用24个AI系统，比较LLMs推荐的诊疗费用与医生实际医嘱。",
-          "mini_headline": "LLM诊疗方案的费用",
+          "headline": "首次肿瘤门诊前\nAI先整理好病例",
+          "body": "在真实肿瘤门诊中，LLM在首诊前将非结构化临床文档转为结构化摘要。",
+          "mini_headline": "AI为肿瘤首诊做准备",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "大语言模型越来越多地被用于临床决策支持，但其推荐的服务或治疗费用，此前从未与主治医生的实际医嘱进行过系统比较。Dvir Aran、Jeremy D. Goldhaber-Fiebert、Ittai Many、Anthony Nguyen、Daniel Yang和Shahar Shelly在NEJM AI上发表了《Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians》。"
+                "x": "荷兰癌症研究所(Netherlands Cancer Institute)的研究人员在npj Digital Medicine上撰文指出，大语言模型可通过协助信息管理来支持临床医生，但其在真实肿瘤诊疗中的可用性仍缺乏研究。"
               },
               {
                 "t": "p",
-                "x": "研究流程分为五步：选取200个病例；将每份病历拆分为临床表现与评估及计划；24个AI系统在3种提示词（标准、成本意识、简约但安全）下生成方案；提取医嘱（取三次提取的中位数）；再依据CPT编码，按Medicare收费标准为每项医嘱定价。"
-              },
-              {
-                "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
-                "cap": "研究流程与示例病例：一名患典型细支气管炎的2个月大婴儿。"
+                "x": "他们评估了AI-based First Consultation Preparation(AI-FCP)的工作流程表现。该工具可从非结构化临床文档生成结构化摘要，由头颈肿瘤科(Department of Head and Neck Oncology)的终端用户与合作伙伴kaiko.ai共同开发。"
               },
               {
                 "t": "p",
-                "x": "在示例病例中，由于细支气管炎无需常规检查，主治医生未开任何诊断检查（US$0）。使用默认提示词时，AI开具了呼吸道病毒检测组合和超声心动图（US$454）；成本意识提示词开具了病毒检测组合和百日咳PCR（US$292）；简约提示词仅开具百日咳PCR检测（US$35）。"
+                "x": "研究采用前瞻性单组前后对照设计，九名临床医生先完成个人层面的基线评估，随后使用AI-FCP完成33次会诊。可用性通过经验证的问卷和研究专用工具进行评估。"
+              },
+              {
+                "t": "p",
+                "x": "使用AI-FCP后，整体感知工作负荷(NASA-TLX)比基线低28.9%，自我报告的平均每例节省时间为3.26分钟。84.9%的会诊准备成功，63.6%的摘要内容完整。"
+              },
+              {
+                "t": "p",
+                "x": "作者称这些发现属于探索性结果，指出可能存在幸存者偏差，并表示需要进一步研究来确定其可推广性。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Costo de los planes de LLM\nfrente a las órdenes médicas",
-          "body": "Un estudio de NEJM AI con 24 sistemas de IA compara el costo de lo que sugieren los LLMs y lo que ordenan los médicos.",
-          "mini_headline": "El costo de los planes de LLM",
+          "headline": "La IA redacta el expediente\nantes de la consulta oncológica",
+          "body": "En una clínica oncológica real, un LLM resume documentos clínicos no estructurados antes de la primera consulta.",
+          "mini_headline": "La IA prepara la primera consulta oncológica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los modelos de lenguaje de gran tamaño se consultan cada vez más como apoyo a la decisión clínica, pero el costo de los servicios o tratamientos que recomiendan no se había comparado de forma sistemática con lo que ordenaban los médicos tratantes. En NEJM AI, Dvir Aran, Jeremy D. Goldhaber-Fiebert, Ittai Many, Anthony Nguyen, Daniel Yang y Shahar Shelly presentan \"Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians.\""
+                "x": "Los grandes modelos de lenguaje pueden apoyar a los clínicos al facilitar la gestión de la información, pero su usabilidad en la práctica oncológica real sigue poco estudiada, escriben investigadores del Netherlands Cancer Institute en npj Digital Medicine."
               },
               {
                 "t": "p",
-                "x": "El proceso del estudio tiene cinco pasos: se seleccionaron 200 casos; cada nota se dividió en la presentación clínica y la evaluación y plan; 24 sistemas de AI generaron planes con 3 instrucciones (estándar, consciente del costo y parsimoniosa pero segura); se extrajeron las órdenes (mediana de tres extracciones); y cada orden se valoró a partir de los códigos CPT según el arancel de Medicare."
-              },
-              {
-                "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
-                "cap": "Flujo del estudio y un caso de ejemplo: un lactante de 2 meses con bronquiolitis clásica."
+                "x": "Evaluaron el desempeño en el flujo de trabajo de AI-based First Consultation Preparation (AI-FCP), que genera resúmenes estructurados a partir de documentación clínica no estructurada y que se creó junto con usuarios finales del Departamento de Oncología de Cabeza y Cuello, con el socio kaiko.ai."
               },
               {
                 "t": "p",
-                "x": "En el caso de ejemplo, el médico tratante no ordenó pruebas diagnósticas (US$0), ya que en la bronquiolitis no están indicadas las pruebas de rutina. Con la instrucción predeterminada, la AI ordenó un panel respiratorio viral y un ecocardiograma (US$454); la instrucción consciente del costo pidió un panel viral y una PCR de tosferina (US$292); la parsimoniosa pidió solo una prueba PCR de tosferina (US$35)."
+                "x": "En un diseño prospectivo de un solo grupo antes-después, nueve clínicos completaron una línea de base individual y luego 33 consultas con AI-FCP. La usabilidad se evaluó con cuestionarios validados e instrumentos específicos del estudio."
+              },
+              {
+                "t": "p",
+                "x": "Tras AI-FCP, la carga de trabajo percibida global (NASA-TLX) fue un 28.9% menor que en la línea de base, con un ahorro medio de tiempo autodeclarado de 3.26 min por caso. La preparación tuvo éxito en el 84.9% de las consultas y el 63.6% de los resúmenes estaba completo."
+              },
+              {
+                "t": "p",
+                "x": "Los autores califican los hallazgos de exploratorios, señalan un posible sesgo de supervivencia y afirman que se necesita más investigación para determinar su generalización."
               }
             ]
           }
@@ -175,109 +195,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "LLM 진료 계획 비용\n의사 처방과 비교",
-          "body": "NEJM AI 연구가 24개 AI로 LLMs 권고 진료비와 의사 처방을 비교했다.",
-          "mini_headline": "LLM 진료 계획의 비용",
+          "headline": "AI가 첫 종양 진료 전\n환자 기록을 정리한다",
+          "body": "실제 종양 클리닉에서 LLM이 첫 진료 전 비정형 문서를 구조화 요약으로 바꾼다.",
+          "mini_headline": "AI가 첫 종양 진료를 준비한다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "대규모 언어 모델은 임상 의사결정 지원에 점점 더 많이 쓰이지만, 이들이 권하는 서비스나 치료의 비용을 담당 의사가 실제로 처방한 내용과 체계적으로 비교한 연구는 없었다. Dvir Aran, Jeremy D. Goldhaber-Fiebert, Ittai Many, Anthony Nguyen, Daniel Yang, Shahar Shelly는 NEJM AI에 \"Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians\"를 발표했다."
+                "x": "대규모 언어 모델은 정보 관리를 도와 임상의를 지원할 수 있지만, 실제 종양 진료 현장에서의 사용성은 아직 충분히 연구되지 않았다고 네덜란드 암연구소(Netherlands Cancer Institute) 연구진이 npj Digital Medicine에 썼다."
               },
               {
                 "t": "p",
-                "x": "연구 파이프라인은 다섯 단계로 진행된다. 200개 사례를 선정하고, 각 기록을 임상 양상과 평가·계획으로 나눈 뒤, 24개 AI 시스템이 3가지 프롬프트(표준, 비용 고려, 간결하되 안전한 방식)로 계획을 생성했다. 이어 처방을 추출하고(세 번 추출한 값의 중앙값), 각 처방을 CPT 코드로 Medicare 수가표에 맞춰 가격을 매겼다."
-              },
-              {
-                "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
-                "cap": "연구 흐름과 예시 사례: 전형적인 세기관지염을 앓는 생후 2개월 영아."
+                "x": "연구진은 비정형 임상 문서에서 구조화 요약을 생성하는 AI-based First Consultation Preparation(AI-FCP)의 워크플로 성능을 평가했다. 이 도구는 두경부종양과(Department of Head and Neck Oncology)의 최종 사용자, 파트너 kaiko.ai와 함께 만들었다."
               },
               {
                 "t": "p",
-                "x": "예시 사례에서 담당 의사는 세기관지염에는 일상적인 검사가 필요하지 않아 진단 검사를 하나도 처방하지 않았다(US$0). 기본 프롬프트에서 AI는 호흡기 바이러스 패널과 심초음파를 처방했고(US$454), 비용 고려 프롬프트는 바이러스 패널과 백일해 PCR을(US$292), 간결 프롬프트는 백일해 PCR 검사만 처방했다(US$35)."
+                "x": "전향적 단일군 전후 비교 설계로 임상의 아홉 명이 개인 단위 기준선 측정을 마친 뒤 AI-FCP로 33건의 진료를 진행했다. 사용성은 검증된 설문지와 연구 전용 도구로 평가했다."
+              },
+              {
+                "t": "p",
+                "x": "AI-FCP 도입 후 전반적 체감 업무 부담(NASA-TLX)은 기준선보다 28.9% 낮았고, 자가 보고 기준 사례당 평균 3.26분을 절약했다. 준비는 진료의 84.9%에서 성공했고, 요약의 63.6%가 완전했다."
+              },
+              {
+                "t": "p",
+                "x": "저자들은 이번 결과를 탐색적이라고 규정하고 생존자 편향 가능성을 짚으며, 일반화 가능성을 판단하려면 추가 연구가 필요하다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "LLMの診療計画、\n医師の処方とコスト比較",
-          "body": "NEJM AIの研究が24のAIシステムでLLMsの推奨診療費と医師の処方を比べた。",
-          "mini_headline": "LLM診療計画のコスト",
+          "headline": "腫瘍科の初診前に\nAIが症例をまとめる",
+          "body": "実際の腫瘍科外来で、LLMが非構造化の診療文書を初診前に構造化要約へ変換する。",
+          "mini_headline": "AIが腫瘍科の初診を準備",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "大規模言語モデルは臨床意思決定支援で参照される機会が増えているが、それらが推奨するサービスや治療のコストを、担当医が実際に指示した内容と体系的に比較した例はなかった。Dvir Aran、Jeremy D. Goldhaber-Fiebert、Ittai Many、Anthony Nguyen、Daniel Yang、Shahar ShellyはNEJM AIで「Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians」を報告した。"
+                "x": "大規模言語モデルは情報管理を助けることで臨床医を支援しうるが、実際の腫瘍診療における使い勝手は十分に研究されていないと、オランダがん研究所(Netherlands Cancer Institute)の研究者らがnpj Digital Medicineに記している。"
               },
               {
                 "t": "p",
-                "x": "研究のパイプラインは五つの段階で構成される。200の症例を選び、各記録を臨床所見と評価・計画に分け、24のAIシステムが3種類のプロンプト(標準、コスト重視、簡潔かつ安全)で計画を生成し、指示を抽出し(三回の抽出の中央値)、各指示をCPTコードからMedicareの報酬表に基づいて価格付けした。"
-              },
-              {
-                "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
-                "cap": "研究の流れと症例例:典型的な細気管支炎を患う生後2カ月の乳児。"
+                "x": "研究者らは、非構造化の臨床文書から構造化要約を生成するAI-based First Consultation Preparation(AI-FCP)のワークフロー性能を評価した。このツールは頭頸部腫瘍科(Department of Head and Neck Oncology)のエンドユーザー、そしてパートナーのkaiko.aiと共同で開発された。"
               },
               {
                 "t": "p",
-                "x": "この症例では、細気管支炎に日常的な検査は推奨されないため、担当医は診断検査を一切指示しなかった(US$0)。標準プロンプトではAIが呼吸器ウイルスパネルと心エコーを指示し(US$454)、コスト重視プロンプトはウイルスパネルと百日咳PCRを(US$292)、簡潔プロンプトは百日咳PCR検査のみを指示した(US$35)。"
+                "x": "前向き単群前後比較デザインで、臨床医九人が個人単位のベースライン評価を終えた後、AI-FCPを用いて33件の診察を行った。使い勝手は検証済みの質問票と研究独自の評価手段で評価した。"
+              },
+              {
+                "t": "p",
+                "x": "AI-FCP導入後、全体的な主観的作業負荷(NASA-TLX)はベースラインより28.9%低く、自己申告による平均時間短縮は1件あたり3.26分だった。準備は診察の84.9%で成功し、要約の63.6%が完全だった。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは今回の結果を探索的なものと位置づけ、生存者バイアスの可能性を指摘したうえで、一般化可能性を見極めるにはさらなる研究が必要だとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "LLM诊疗方案费用\n对比医生实际医嘱",
-          "body": "NEJM AI的一项研究用24个AI系统，比较LLMs推荐的诊疗费用与医生实际医嘱。",
-          "mini_headline": "LLM诊疗方案的费用",
+          "headline": "首次肿瘤门诊前\nAI先整理好病例",
+          "body": "在真实肿瘤门诊中，LLM在首诊前将非结构化临床文档转为结构化摘要。",
+          "mini_headline": "AI为肿瘤首诊做准备",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "大语言模型越来越多地被用于临床决策支持，但其推荐的服务或治疗费用，此前从未与主治医生的实际医嘱进行过系统比较。Dvir Aran、Jeremy D. Goldhaber-Fiebert、Ittai Many、Anthony Nguyen、Daniel Yang和Shahar Shelly在NEJM AI上发表了《Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians》。"
+                "x": "荷兰癌症研究所(Netherlands Cancer Institute)的研究人员在npj Digital Medicine上撰文指出，大语言模型可通过协助信息管理来支持临床医生，但其在真实肿瘤诊疗中的可用性仍缺乏研究。"
               },
               {
                 "t": "p",
-                "x": "研究流程分为五步：选取200个病例；将每份病历拆分为临床表现与评估及计划；24个AI系统在3种提示词（标准、成本意识、简约但安全）下生成方案；提取医嘱（取三次提取的中位数）；再依据CPT编码，按Medicare收费标准为每项医嘱定价。"
-              },
-              {
-                "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
-                "cap": "研究流程与示例病例：一名患典型细支气管炎的2个月大婴儿。"
+                "x": "他们评估了AI-based First Consultation Preparation(AI-FCP)的工作流程表现。该工具可从非结构化临床文档生成结构化摘要，由头颈肿瘤科(Department of Head and Neck Oncology)的终端用户与合作伙伴kaiko.ai共同开发。"
               },
               {
                 "t": "p",
-                "x": "在示例病例中，由于细支气管炎无需常规检查，主治医生未开任何诊断检查（US$0）。使用默认提示词时，AI开具了呼吸道病毒检测组合和超声心动图（US$454）；成本意识提示词开具了病毒检测组合和百日咳PCR（US$292）；简约提示词仅开具百日咳PCR检测（US$35）。"
+                "x": "研究采用前瞻性单组前后对照设计，九名临床医生先完成个人层面的基线评估，随后使用AI-FCP完成33次会诊。可用性通过经验证的问卷和研究专用工具进行评估。"
+              },
+              {
+                "t": "p",
+                "x": "使用AI-FCP后，整体感知工作负荷(NASA-TLX)比基线低28.9%，自我报告的平均每例节省时间为3.26分钟。84.9%的会诊准备成功，63.6%的摘要内容完整。"
+              },
+              {
+                "t": "p",
+                "x": "作者称这些发现属于探索性结果，指出可能存在幸存者偏差，并表示需要进一步研究来确定其可推广性。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Costo de los planes de LLM\nfrente a las órdenes médicas",
-          "body": "Un estudio de NEJM AI con 24 sistemas de IA compara el costo de lo que sugieren los LLMs y lo que ordenan los médicos.",
-          "mini_headline": "El costo de los planes de LLM",
+          "headline": "La IA redacta el expediente\nantes de la consulta oncológica",
+          "body": "En una clínica oncológica real, un LLM resume documentos clínicos no estructurados antes de la primera consulta.",
+          "mini_headline": "La IA prepara la primera consulta oncológica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los modelos de lenguaje de gran tamaño se consultan cada vez más como apoyo a la decisión clínica, pero el costo de los servicios o tratamientos que recomiendan no se había comparado de forma sistemática con lo que ordenaban los médicos tratantes. En NEJM AI, Dvir Aran, Jeremy D. Goldhaber-Fiebert, Ittai Many, Anthony Nguyen, Daniel Yang y Shahar Shelly presentan \"Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians.\""
+                "x": "Los grandes modelos de lenguaje pueden apoyar a los clínicos al facilitar la gestión de la información, pero su usabilidad en la práctica oncológica real sigue poco estudiada, escriben investigadores del Netherlands Cancer Institute en npj Digital Medicine."
               },
               {
                 "t": "p",
-                "x": "El proceso del estudio tiene cinco pasos: se seleccionaron 200 casos; cada nota se dividió en la presentación clínica y la evaluación y plan; 24 sistemas de AI generaron planes con 3 instrucciones (estándar, consciente del costo y parsimoniosa pero segura); se extrajeron las órdenes (mediana de tres extracciones); y cada orden se valoró a partir de los códigos CPT según el arancel de Medicare."
-              },
-              {
-                "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
-                "cap": "Flujo del estudio y un caso de ejemplo: un lactante de 2 meses con bronquiolitis clásica."
+                "x": "Evaluaron el desempeño en el flujo de trabajo de AI-based First Consultation Preparation (AI-FCP), que genera resúmenes estructurados a partir de documentación clínica no estructurada y que se creó junto con usuarios finales del Departamento de Oncología de Cabeza y Cuello, con el socio kaiko.ai."
               },
               {
                 "t": "p",
-                "x": "En el caso de ejemplo, el médico tratante no ordenó pruebas diagnósticas (US$0), ya que en la bronquiolitis no están indicadas las pruebas de rutina. Con la instrucción predeterminada, la AI ordenó un panel respiratorio viral y un ecocardiograma (US$454); la instrucción consciente del costo pidió un panel viral y una PCR de tosferina (US$292); la parsimoniosa pidió solo una prueba PCR de tosferina (US$35)."
+                "x": "En un diseño prospectivo de un solo grupo antes-después, nueve clínicos completaron una línea de base individual y luego 33 consultas con AI-FCP. La usabilidad se evaluó con cuestionarios validados e instrumentos específicos del estudio."
+              },
+              {
+                "t": "p",
+                "x": "Tras AI-FCP, la carga de trabajo percibida global (NASA-TLX) fue un 28.9% menor que en la línea de base, con un ahorro medio de tiempo autodeclarado de 3.26 min por caso. La preparación tuvo éxito en el 84.9% de las consultas y el 63.6% de los resúmenes estaba completo."
+              },
+              {
+                "t": "p",
+                "x": "Los autores califican los hallazgos de exploratorios, señalan un posible sesgo de supervivencia y afirman que se necesita más investigación para determinar su generalización."
               }
             ]
           }
@@ -285,15 +317,15 @@
       }
     },
     {
-      "id": "medicine-seers-uae",
-      "source_lang": "ko",
-      "tool": "Medicine",
+      "id": "medicine-osteoporosis-cxr",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "씨어스, UAE 국가검진에\nAI 부정맥 파일럿 승인",
-      "body": "씨어스가 아부다비 보건부 IRB 승인을 받아 AI 부정맥 국가검진 파일럿에 나선다.",
-      "mini_headline": "씨어스, UAE 부정맥 검진",
-      "source": "메디게이트뉴스",
-      "url": "https://www.medigatenews.com/news/2062365725",
+      "headline": "흉부 X선 사진으로\n골다공증도 선별한다",
+      "body": "X선·DXA 46,478쌍을 익힌 AI-OsRM이 흉부 X선에서 골다공증을 찾는다.",
+      "mini_headline": "흉부 X선으로 골다공증 선별",
+      "tool": "Medicine",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03333-7",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -301,335 +333,257 @@
         "blocks": [
           {
             "t": "p",
-            "x": "웨어러블 AI 진단 모니터링 기업 씨어스는 UAE 최대 공공 의료 네트워크인 세하클리닉(SEHA Clinics)과 추진 중인 국가 건강검진 프로젝트에 대해 아부다비 보건부(DoH) 산하 기관생명윤리위원회(IRB) 승인을 획득하고 본격적인 프로젝트에 착수했다고 16일 밝혔다."
-          },
-          {
-            "t": "img",
-            "src": "https://medigatenews.com/file/news/534058"
+            "x": "연구진이 흉부 X선 사진으로 골다공증과 골밀도(BMD) 저하를 예측하는 AI 모델 AI-OsRM을 개발해 npj Digital Medicine에 발표했다."
           },
           {
             "t": "p",
-            "x": "이번 프로젝트는 UAE 정부가 40세 이상 자국민에게 연 1회 제공하는 국가 건강검진 프로그램에 AI 부정맥 스크리닝을 도입하기 위한 최종 파일럿이다. 현재 UAE 국가 건강검진에는 부정맥 스크리닝 검사가 포함돼 있지 않다. 씨어스는 지난해 말 입찰을 통해 이 사업의 유일한 사업자로 선정됐다."
+            "x": "AI-OsRM 개발에는 한 3차 의뢰 병원이 2016년부터 2022년까지 모은 환자 26,757명의 흉부 X선·이중에너지 X선 흡수계측(DXA) 짝 검사 46,478건이 쓰였다. 구조는 마스크드 오토인코더로 사전학습한 ResNet-based 모델이다."
           },
           {
             "t": "p",
-            "x": "씨어스는 100여 명의 검진 대상자에게 모비케어(mobiCARE™) 기반 AI 심전도 스크리닝을 수행해 임상적 유효성과 운영 적합성을 검증하고, 내년부터 국가 건강검진 프로그램에 단독 적용하는 것을 목표로 한다. 편입 시 연간 약 28만 명의 40세 이상 대상자에게 서비스를 제공할 수 있으며, 검사 건당 씨어스에 귀속되는 매출은 100달러 이상으로 예상된다."
+            "x": "외부 검증은 세 코호트에서 했다. 시기를 달리한 병원 코호트(SNUH; n = 6,391)와 건강검진 코호트 두 곳(HPC, n = 24,132; YSMC, n = 122,535)이다. AUROC는 SNUH에서 골다공증과 골밀도 저하 모두 0.88, HPC와 YSMC의 골다공증 예측에서는 각각 0.93과 0.92였다."
           },
           {
             "t": "p",
-            "x": "씨어스는 서울대병원 등 5개 의료기관과 수검자 3000명을 대상으로 임상적 유효성을 검증했고, KMI한국의학연구소와 한국건강관리협회 메디체크 등에서 AI 부정맥 스크리닝을 운영하고 있다. 회사는 UAE를 시작으로 GCC(걸프협력회의) 국가까지 사업을 확대한다는 전략이다."
-          },
-          {
-            "t": "p",
-            "x": "김성종 부사장(CBO)은 \"이번 프로젝트를 성공적으로 수행해 UAE 국가 건강검진 프로그램에 진입하고, 이를 기반으로 GCC 국가까지 AI 심혈관 스크리닝 사업을 확대해 나가겠다\"고 말했다."
+            "x": "시뮬레이션에서는 AI-OsRM으로 먼저 걸러내면 DXA 사용을 약 50% 줄이고도 골다공증 사례의 98-99%, 골밀도 저하 사례의 80-90%를 찾아냈다. DXA를 효율적으로 쓰게 하는 사전 선별 도구가 될 수 있다."
           }
         ]
       },
+      "_lead_image": "",
+      "_video": "",
       "text": {
-        "ko": {
-          "headline": "씨어스, UAE 국가검진에\nAI 부정맥 파일럿 승인",
-          "body": "씨어스가 아부다비 보건부 IRB 승인을 받아 AI 부정맥 국가검진 파일럿에 나선다.",
-          "mini_headline": "씨어스, UAE 부정맥 검진",
+        "en": {
+          "headline": "Chest X-rays double as\nosteoporosis screens",
+          "body": "AI-OsRM, trained on 46,478 paired X-ray and DXA exams, predicts osteoporosis from routine chest radiographs.",
+          "mini_headline": "Osteoporosis screening on chest X-rays",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "웨어러블 AI 진단 모니터링 기업 씨어스는 UAE 최대 공공 의료 네트워크인 세하클리닉(SEHA Clinics)과 추진 중인 국가 건강검진 프로젝트에 대해 아부다비 보건부(DoH) 산하 기관생명윤리위원회(IRB) 승인을 획득하고 본격적인 프로젝트에 착수했다고 16일 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534058"
+                "x": "Researchers developed an AI model, AI-OsRM, to predict osteoporosis and reduced bone mineral density (BMD) from chest radiographs, reports npj Digital Medicine."
               },
               {
                 "t": "p",
-                "x": "이번 프로젝트는 UAE 정부가 40세 이상 자국민에게 연 1회 제공하는 국가 건강검진 프로그램에 AI 부정맥 스크리닝을 도입하기 위한 최종 파일럿이다. 현재 UAE 국가 건강검진에는 부정맥 스크리닝 검사가 포함돼 있지 않다. 씨어스는 지난해 말 입찰을 통해 이 사업의 유일한 사업자로 선정됐다."
+                "x": "AI-OsRM was developed using 46,478 paired chest X-ray and dual-energy X-ray absorptiometry (DXA) examinations from 26,757 patients collected at a tertiary referral hospital between 2016 and 2022, using a ResNet-based architecture with masked autoencoder pretraining."
               },
               {
                 "t": "p",
-                "x": "씨어스는 100여 명의 검진 대상자에게 모비케어(mobiCARE™) 기반 AI 심전도 스크리닝을 수행해 임상적 유효성과 운영 적합성을 검증하고, 내년부터 국가 건강검진 프로그램에 단독 적용하는 것을 목표로 한다. 편입 시 연간 약 28만 명의 40세 이상 대상자에게 서비스를 제공할 수 있으며, 검사 건당 씨어스에 귀속되는 매출은 100달러 이상으로 예상된다."
+                "x": "External validation covered three cohorts: a temporally separated hospital cohort (SNUH; n = 6,391) and two health checkup cohorts (HPC, n = 24,132; YSMC, n = 122,535). AUROC was 0.88 in SNUH for both osteoporosis and reduced BMD, and 0.93 and 0.92 for osteoporosis in HPC and YSMC."
               },
               {
                 "t": "p",
-                "x": "씨어스는 서울대병원 등 5개 의료기관과 수검자 3000명을 대상으로 임상적 유효성을 검증했고, KMI한국의학연구소와 한국건강관리협회 메디체크 등에서 AI 부정맥 스크리닝을 운영하고 있다. 회사는 UAE를 시작으로 GCC(걸프협력회의) 국가까지 사업을 확대한다는 전략이다."
-              },
-              {
-                "t": "p",
-                "x": "김성종 부사장(CBO)은 \"이번 프로젝트를 성공적으로 수행해 UAE 국가 건강검진 프로그램에 진입하고, 이를 기반으로 GCC 국가까지 AI 심혈관 스크리닝 사업을 확대해 나가겠다\"고 말했다."
+                "x": "Simulations showed AI-OsRM prescreening could cut DXA use by about 50% while still detecting 98-99% of osteoporosis cases and 80-90% of reduced BMD cases, suggesting a prescreening tool to optimize DXA utilization."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Seers cleared for AI arrhythmia\npilot in UAE national checkups",
-          "body": "Seers won Abu Dhabi Department of Health IRB approval to run an AI arrhythmia pilot for national health checkups.",
-          "mini_headline": "Seers: UAE arrhythmia screening",
+        "ko": {
+          "headline": "흉부 X선 사진으로\n골다공증도 선별한다",
+          "body": "X선·DXA 46,478쌍을 익힌 AI-OsRM이 흉부 X선에서 골다공증을 찾는다.",
+          "mini_headline": "흉부 X선으로 골다공증 선별",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Seers, a wearable AI diagnostic monitoring company, said on the 16th that it has received approval from the Institutional Review Board (IRB) under the Abu Dhabi Department of Health (DoH) for the national health screening project it is pursuing with SEHA Clinics, the UAE's largest public healthcare network, and has begun the project in earnest."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534058"
+                "x": "연구진이 흉부 X선 사진으로 골다공증과 골밀도(BMD) 저하를 예측하는 AI 모델 AI-OsRM을 개발해 npj Digital Medicine에 발표했다."
               },
               {
                 "t": "p",
-                "x": "The project is the final pilot for introducing AI arrhythmia screening into the national health screening program, which the UAE government provides to its citizens aged 40 and over 1 time per year. The UAE's national health screening currently does not include arrhythmia screening tests. Seers was selected as the sole contractor for the project through a tender late last year."
+                "x": "AI-OsRM 개발에는 한 3차 의뢰 병원이 2016년부터 2022년까지 모은 환자 26,757명의 흉부 X선·이중에너지 X선 흡수계측(DXA) 짝 검사 46,478건이 쓰였다. 구조는 마스크드 오토인코더로 사전학습한 ResNet-based 모델이다."
               },
               {
                 "t": "p",
-                "x": "Seers will run AI ECG screening based on mobiCARE™ for about 100 screening participants to verify clinical effectiveness and operational fit, with the goal of being applied exclusively in the national health screening program from next year. Once included, it could serve about 280,000 people aged 40 and over each year, and revenue attributable to Seers is expected to exceed $100 per test."
+                "x": "외부 검증은 세 코호트에서 했다. 시기를 달리한 병원 코호트(SNUH; n = 6,391)와 건강검진 코호트 두 곳(HPC, n = 24,132; YSMC, n = 122,535)이다. AUROC는 SNUH에서 골다공증과 골밀도 저하 모두 0.88, HPC와 YSMC의 골다공증 예측에서는 각각 0.93과 0.92였다."
               },
               {
                 "t": "p",
-                "x": "Seers has verified clinical effectiveness with 3,000 examinees at 5 medical institutions, including Seoul National University Hospital, and operates AI arrhythmia screening at KMI Korea Medical Institute and the Korea Association of Health Promotion's Medicheck, among others. The company's strategy is to start with the UAE and expand the business to GCC (Gulf Cooperation Council) countries."
-              },
-              {
-                "t": "p",
-                "x": "Kim Sung-jong, vice president (CBO), said, \"We will successfully carry out this project to enter the UAE national health screening program and, building on that, expand our AI cardiovascular screening business to GCC countries.\""
+                "x": "시뮬레이션에서는 AI-OsRM으로 먼저 걸러내면 DXA 사용을 약 50% 줄이고도 골다공증 사례의 98-99%, 골밀도 저하 사례의 80-90%를 찾아냈다. DXA를 효율적으로 쓰게 하는 사전 선별 도구가 될 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Seers、UAE検診に\nAI不整脈パイロット承認",
-          "body": "Seersがアブダビ保健局のIRB承認を得て、AI不整脈の国家検診パイロットに乗り出す。",
-          "mini_headline": "Seers、UAE不整脈検診",
+          "headline": "胸部X線が骨粗鬆症の\n検診を兼ねる",
+          "body": "AI-OsRMはX線とDXAの対検査46,478件で学習し、胸部X線から骨粗鬆症を予測する。",
+          "mini_headline": "胸部X線で骨粗鬆症をスクリーニング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "ウェアラブルAI診断モニタリング企業のSeersは16日、UAE最大の公的医療ネットワークであるSEHA Clinicsと進める国家健康診断プロジェクトについて、アブダビ保健局(DoH)傘下の施設内倫理委員会(IRB)の承認を取得し、本格的にプロジェクトに着手したと明らかにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534058"
+                "x": "研究者らは、胸部X線写真から骨粗鬆症と骨密度(BMD)低下を予測するAIモデルAI-OsRMを開発した。npj Digital Medicineが報じた。"
               },
               {
                 "t": "p",
-                "x": "今回のプロジェクトは、UAE政府が40歳以上の自国民に年1回提供する国家健康診断プログラムにAI不整脈スクリーニングを導入するための最終パイロットだ。現在、UAEの国家健康診断には不整脈スクリーニング検査が含まれていない。Seersは昨年末の入札を経て、この事業の唯一の事業者に選ばれた。"
+                "x": "AI-OsRMは、ある三次紹介病院で2016年から2022年に収集された患者26,757人分の胸部X線と二重エネルギーX線吸収測定法(DXA)の対検査46,478件を用いて開発された。マスク付きオートエンコーダーによる事前学習を施したResNet-based構造を採用している。"
               },
               {
                 "t": "p",
-                "x": "Seersは約100人の受診者にmobiCARE™を基盤とするAI心電図スクリーニングを実施して臨床的有効性と運用適合性を検証し、来年から国家健康診断プログラムへの単独適用を目指す。編入されれば年間約28万人の40歳以上の対象者にサービスを提供でき、検査ごとにSeersに帰属する売上は100ドル以上と見込まれる。"
+                "x": "外部検証は三つのコホートで行われた。時期を分けた病院コホート(SNUH; n = 6,391)と、二つの健診コホート(HPC, n = 24,132; YSMC, n = 122,535)である。AUROCはSNUHで骨粗鬆症・骨密度低下ともに0.88、HPCとYSMCの骨粗鬆症ではそれぞれ0.93と0.92だった。"
               },
               {
                 "t": "p",
-                "x": "Seersはソウル大学病院など5つの医療機関で受診者3000人を対象に臨床的有効性を検証しており、KMI韓国医学研究所や韓国健康管理協会メディチェックなどでAI不整脈スクリーニングを運用している。同社はUAEを皮切りにGCC(湾岸協力会議)諸国まで事業を拡大する戦略だ。"
-              },
-              {
-                "t": "p",
-                "x": "キム・ソンジョン副社長(CBO)は「今回のプロジェクトを成功させてUAEの国家健康診断プログラムに参入し、これを基盤にGCC諸国までAI心血管スクリーニング事業を広げていく」と述べた。"
+                "x": "シミュレーションでは、AI-OsRMによる事前スクリーニングでDXAの使用を約50%減らしつつ、骨粗鬆症症例の98-99%、骨密度低下症例の80-90%を検出できた。DXAの利用を最適化する事前スクリーニングツールになりうることを示唆している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Seers获准在UAE国检\n开展AI心律失常试点",
-          "body": "Seers获阿布扎比卫生部IRB批准，将在国家体检中开展AI心律失常筛查试点。",
-          "mini_headline": "Seers UAE心律失常筛查",
+          "headline": "胸部X光片\n兼做骨质疏松筛查",
+          "body": "AI-OsRM基于46,478组X光与DXA配对检查训练，可从常规胸片预测骨质疏松。",
+          "mini_headline": "用胸部X光筛查骨质疏松",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "可穿戴AI诊断监测企业Seers 16日表示，其与UAE最大公立医疗网络SEHA Clinics推进的国家健康体检项目，已获得阿布扎比卫生部（DoH）下属机构伦理审查委员会（IRB）批准，并正式启动该项目。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534058"
+                "x": "据npj Digital Medicine报道，研究人员开发了AI模型AI-OsRM，可根据胸部X光片预测骨质疏松和骨密度(BMD)降低。"
               },
               {
                 "t": "p",
-                "x": "该项目是在UAE政府每年为40岁以上本国公民提供1次的国家健康体检计划中引入AI心律失常筛查的最终试点。目前UAE国家健康体检尚未包含心律失常筛查检查。Seers去年底通过招标被选为该项目的唯一承接方。"
+                "x": "AI-OsRM的开发使用了一家三级转诊医院在2016年至2022年间收集的26,757名患者的46,478组胸部X光与双能X线吸收测定(DXA)配对检查，采用经掩码自编码器预训练的ResNet-based架构。"
               },
               {
                 "t": "p",
-                "x": "Seers将为约100名受检者开展基于mobiCARE™的AI心电图筛查，验证临床有效性与运营适配性，目标是自明年起独家纳入国家健康体检计划。一旦纳入，每年可为约28万名40岁以上对象提供服务，预计每次检查归属Seers的收入超过100美元。"
+                "x": "外部验证涵盖三个队列：一个时间上独立的医院队列(SNUH; n = 6,391)和两个健康体检队列(HPC, n = 24,132; YSMC, n = 122,535)。在SNUH中，骨质疏松和骨密度降低的AUROC均为0.88；在HPC和YSMC中，骨质疏松的AUROC分别为0.93和0.92。"
               },
               {
                 "t": "p",
-                "x": "Seers已在首尔大学医院等5家医疗机构以3000名受检者验证了临床有效性，并在KMI韩国医学研究所、韩国健康管理协会Medicheck等机构运营AI心律失常筛查。公司的战略是以UAE为起点，将业务拓展至GCC（海湾合作委员会）国家。"
-              },
-              {
-                "t": "p",
-                "x": "副总裁（CBO）Kim Sung-jong表示：“将成功完成本项目，进入UAE国家健康体检计划，并以此为基础将AI心血管筛查业务拓展至GCC国家。”"
+                "x": "模拟显示，用AI-OsRM进行预筛查可将DXA使用量减少约50%，同时仍能检出98-99%的骨质疏松病例和80-90%的骨密度降低病例，表明其可作为优化DXA使用的预筛查工具。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Seers, aval para un piloto AI\nde arritmias en chequeos de UAE",
-          "body": "Seers obtiene aval IRB del Departamento de Salud de Abu Dabi para un piloto de chequeo nacional de arritmias con AI.",
-          "mini_headline": "Seers: chequeo de arritmias UAE",
+          "headline": "La radiografía de tórax sirve\npara cribar la osteoporosis",
+          "body": "AI-OsRM, entrenado con 46,478 pares de radiografía y DXA, predice osteoporosis en radiografías de tórax rutinarias.",
+          "mini_headline": "Cribado de osteoporosis en radiografías de tórax",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Seers, empresa de monitorización diagnóstica wearable con AI, anunció el día 16 que obtuvo la aprobación del Comité de Ética Institucional (IRB) dependiente del Departamento de Salud de Abu Dabi (DoH) para el proyecto nacional de chequeos de salud que impulsa con SEHA Clinics, la mayor red sanitaria pública de los Emiratos Árabes Unidos (UAE), y que ha iniciado el proyecto de lleno."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534058"
+                "x": "Investigadores desarrollaron un modelo de IA, AI-OsRM, para predecir la osteoporosis y la baja densidad mineral ósea (BMD) a partir de radiografías de tórax, informa npj Digital Medicine."
               },
               {
                 "t": "p",
-                "x": "El proyecto es el piloto final para incorporar el cribado de arritmias con AI al programa nacional de chequeos de salud que el gobierno de UAE ofrece 1 vez al año a sus ciudadanos de 40 años o más. Actualmente, el chequeo nacional de UAE no incluye pruebas de cribado de arritmias. Seers fue elegida a finales del año pasado, mediante licitación, como única adjudicataria del proyecto."
+                "x": "AI-OsRM se desarrolló con 46,478 pares de exámenes de radiografía de tórax y absorciometría de rayos X de energía dual (DXA) de 26,757 pacientes, recogidos en un hospital de referencia de tercer nivel entre 2016 y 2022, con una arquitectura ResNet-based y preentrenamiento mediante autocodificador enmascarado."
               },
               {
                 "t": "p",
-                "x": "Seers realizará cribados de ECG con AI basados en mobiCARE™ a unas 100 personas para verificar su eficacia clínica y su idoneidad operativa, con el objetivo de aplicarse en exclusiva en el programa nacional de chequeos desde el próximo año. Si se incorpora, podría atender cada año a unas 280,000 personas de 40 años o más, y se prevé que los ingresos atribuibles a Seers superen los 100 dólares por prueba."
+                "x": "La validación externa abarcó tres cohortes: una cohorte hospitalaria separada en el tiempo (SNUH; n = 6,391) y dos cohortes de chequeos de salud (HPC, n = 24,132; YSMC, n = 122,535). El AUROC fue de 0.88 en SNUH tanto para osteoporosis como para baja BMD, y de 0.93 y 0.92 para osteoporosis en HPC y YSMC."
               },
               {
                 "t": "p",
-                "x": "Seers verificó la eficacia clínica con 3000 examinados en 5 instituciones médicas, entre ellas el Hospital de la Universidad Nacional de Seúl, y opera cribados de arritmias con AI en KMI Instituto Coreano de Investigación Médica y en Medicheck de la Asociación Coreana de Gestión de la Salud, entre otros. La estrategia de la empresa es empezar por UAE y extender el negocio a los países del GCC (Consejo de Cooperación del Golfo)."
-              },
-              {
-                "t": "p",
-                "x": "El vicepresidente Kim Sung-jong (CBO) afirmó: \"Llevaremos a cabo con éxito este proyecto para entrar en el programa nacional de chequeos de UAE y, a partir de ahí, ampliaremos el negocio de cribado cardiovascular con AI hasta los países del GCC\"."
+                "x": "Las simulaciones mostraron que el precribado con AI-OsRM podría reducir el uso de DXA en torno al 50% y aun así detectar el 98-99% de los casos de osteoporosis y el 80-90% de los casos de baja BMD, lo que apunta a una herramienta de precribado para optimizar el uso de DXA."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Seers cleared for AI arrhythmia\npilot in UAE national checkups",
-          "body": "Seers won Abu Dhabi Department of Health IRB approval to run an AI arrhythmia pilot for national health checkups.",
-          "mini_headline": "Seers: UAE arrhythmia screening",
+        "ko": {
+          "headline": "흉부 X선 사진으로\n골다공증도 선별한다",
+          "body": "X선·DXA 46,478쌍을 익힌 AI-OsRM이 흉부 X선으로 골다공증을 찾는다.",
+          "mini_headline": "흉부 X선으로 골다공증 선별",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Seers, a wearable AI diagnostic monitoring company, said on the 16th that it has received approval from the Institutional Review Board (IRB) under the Abu Dhabi Department of Health (DoH) for the national health screening project it is pursuing with SEHA Clinics, the UAE's largest public healthcare network, and has begun the project in earnest."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534058"
+                "x": "연구진이 흉부 X선 사진으로 골다공증과 골밀도(BMD) 저하를 예측하는 AI 모델 AI-OsRM을 개발했다고 npj Digital Medicine이 전했다."
               },
               {
                 "t": "p",
-                "x": "The project is the final pilot for introducing AI arrhythmia screening into the national health screening program, which the UAE government provides to its citizens aged 40 and over 1 time per year. The UAE's national health screening currently does not include arrhythmia screening tests. Seers was selected as the sole contractor for the project through a tender late last year."
+                "x": "AI-OsRM은 한 3차 의뢰 병원에서 2016년부터 2022년까지 모은 환자 26,757명의 흉부 X선·이중에너지 X선 흡수계측(DXA) 짝 검사 46,478건으로 개발했다. 마스크드 오토인코더 사전학습을 적용한 ResNet-based 구조를 썼다."
               },
               {
                 "t": "p",
-                "x": "Seers will run AI ECG screening based on mobiCARE™ for about 100 screening participants to verify clinical effectiveness and operational fit, with the goal of being applied exclusively in the national health screening program from next year. Once included, it could serve about 280,000 people aged 40 and over each year, and revenue attributable to Seers is expected to exceed $100 per test."
+                "x": "외부 검증은 세 코호트에서 진행했다. 시기를 달리한 병원 코호트(SNUH; n = 6,391)와 건강검진 코호트 두 곳(HPC, n = 24,132; YSMC, n = 122,535)이다. AUROC는 SNUH에서 골다공증과 골밀도 저하 모두 0.88이었고, HPC와 YSMC의 골다공증 예측에서는 각각 0.93과 0.92였다."
               },
               {
                 "t": "p",
-                "x": "Seers has verified clinical effectiveness with 3,000 examinees at 5 medical institutions, including Seoul National University Hospital, and operates AI arrhythmia screening at KMI Korea Medical Institute and the Korea Association of Health Promotion's Medicheck, among others. The company's strategy is to start with the UAE and expand the business to GCC (Gulf Cooperation Council) countries."
-              },
-              {
-                "t": "p",
-                "x": "Kim Sung-jong, vice president (CBO), said, \"We will successfully carry out this project to enter the UAE national health screening program and, building on that, expand our AI cardiovascular screening business to GCC countries.\""
+                "x": "시뮬레이션 결과 AI-OsRM으로 사전 선별하면 DXA 사용을 약 50% 줄이면서도 골다공증 사례의 98-99%, 골밀도 저하 사례의 80-90%를 찾아낼 수 있었다. DXA 활용을 최적화하는 사전 선별 도구로 쓸 수 있다는 의미다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Seers、UAE検診に\nAI不整脈パイロット承認",
-          "body": "Seersがアブダビ保健局のIRB承認を得て、AI不整脈の国家検診パイロットに乗り出す。",
-          "mini_headline": "Seers、UAE不整脈検診",
+          "headline": "胸部X線が骨粗鬆症の\n検診を兼ねる",
+          "body": "AI-OsRMはX線とDXAの対検査46,478件で学習し、胸部X線から骨粗鬆症を予測する。",
+          "mini_headline": "胸部X線で骨粗鬆症をスクリーニング",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "ウェアラブルAI診断モニタリング企業のSeersは16日、UAE最大の公的医療ネットワークであるSEHA Clinicsと進める国家健康診断プロジェクトについて、アブダビ保健局(DoH)傘下の施設内倫理委員会(IRB)の承認を取得し、本格的にプロジェクトに着手したと明らかにした。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534058"
+                "x": "研究者らは、胸部X線写真から骨粗鬆症と骨密度(BMD)低下を予測するAIモデルAI-OsRMを開発した。npj Digital Medicineが報じた。"
               },
               {
                 "t": "p",
-                "x": "今回のプロジェクトは、UAE政府が40歳以上の自国民に年1回提供する国家健康診断プログラムにAI不整脈スクリーニングを導入するための最終パイロットだ。現在、UAEの国家健康診断には不整脈スクリーニング検査が含まれていない。Seersは昨年末の入札を経て、この事業の唯一の事業者に選ばれた。"
+                "x": "AI-OsRMは、ある三次紹介病院で2016年から2022年に収集された患者26,757人分の胸部X線と二重エネルギーX線吸収測定法(DXA)の対検査46,478件を用いて開発された。マスク付きオートエンコーダーによる事前学習を施したResNet-based構造を採用している。"
               },
               {
                 "t": "p",
-                "x": "Seersは約100人の受診者にmobiCARE™を基盤とするAI心電図スクリーニングを実施して臨床的有効性と運用適合性を検証し、来年から国家健康診断プログラムへの単独適用を目指す。編入されれば年間約28万人の40歳以上の対象者にサービスを提供でき、検査ごとにSeersに帰属する売上は100ドル以上と見込まれる。"
+                "x": "外部検証は三つのコホートで行われた。時期を分けた病院コホート(SNUH; n = 6,391)と、二つの健診コホート(HPC, n = 24,132; YSMC, n = 122,535)である。AUROCはSNUHで骨粗鬆症・骨密度低下ともに0.88、HPCとYSMCの骨粗鬆症ではそれぞれ0.93と0.92だった。"
               },
               {
                 "t": "p",
-                "x": "Seersはソウル大学病院など5つの医療機関で受診者3000人を対象に臨床的有効性を検証しており、KMI韓国医学研究所や韓国健康管理協会メディチェックなどでAI不整脈スクリーニングを運用している。同社はUAEを皮切りにGCC(湾岸協力会議)諸国まで事業を拡大する戦略だ。"
-              },
-              {
-                "t": "p",
-                "x": "キム・ソンジョン副社長(CBO)は「今回のプロジェクトを成功させてUAEの国家健康診断プログラムに参入し、これを基盤にGCC諸国までAI心血管スクリーニング事業を広げていく」と述べた。"
+                "x": "シミュレーションでは、AI-OsRMによる事前スクリーニングでDXAの使用を約50%減らしつつ、骨粗鬆症症例の98-99%、骨密度低下症例の80-90%を検出できた。DXAの利用を最適化する事前スクリーニングツールになりうることを示唆している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Seers获准在UAE国检\n开展AI心律失常试点",
-          "body": "Seers获阿布扎比卫生部IRB批准，将在国家体检中开展AI心律失常筛查试点。",
-          "mini_headline": "Seers UAE心律失常筛查",
+          "headline": "胸部X光片\n兼做骨质疏松筛查",
+          "body": "AI-OsRM基于46,478组X光与DXA配对检查训练，可从常规胸片预测骨质疏松。",
+          "mini_headline": "用胸部X光筛查骨质疏松",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "可穿戴AI诊断监测企业Seers 16日表示，其与UAE最大公立医疗网络SEHA Clinics推进的国家健康体检项目，已获得阿布扎比卫生部（DoH）下属机构伦理审查委员会（IRB）批准，并正式启动该项目。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534058"
+                "x": "据npj Digital Medicine报道，研究人员开发了AI模型AI-OsRM，可根据胸部X光片预测骨质疏松和骨密度(BMD)降低。"
               },
               {
                 "t": "p",
-                "x": "该项目是在UAE政府每年为40岁以上本国公民提供1次的国家健康体检计划中引入AI心律失常筛查的最终试点。目前UAE国家健康体检尚未包含心律失常筛查检查。Seers去年底通过招标被选为该项目的唯一承接方。"
+                "x": "AI-OsRM的开发使用了一家三级转诊医院在2016年至2022年间收集的26,757名患者的46,478组胸部X光与双能X线吸收测定(DXA)配对检查，采用经掩码自编码器预训练的ResNet-based架构。"
               },
               {
                 "t": "p",
-                "x": "Seers将为约100名受检者开展基于mobiCARE™的AI心电图筛查，验证临床有效性与运营适配性，目标是自明年起独家纳入国家健康体检计划。一旦纳入，每年可为约28万名40岁以上对象提供服务，预计每次检查归属Seers的收入超过100美元。"
+                "x": "外部验证涵盖三个队列：一个时间上独立的医院队列(SNUH; n = 6,391)和两个健康体检队列(HPC, n = 24,132; YSMC, n = 122,535)。在SNUH中，骨质疏松和骨密度降低的AUROC均为0.88；在HPC和YSMC中，骨质疏松的AUROC分别为0.93和0.92。"
               },
               {
                 "t": "p",
-                "x": "Seers已在首尔大学医院等5家医疗机构以3000名受检者验证了临床有效性，并在KMI韩国医学研究所、韩国健康管理协会Medicheck等机构运营AI心律失常筛查。公司的战略是以UAE为起点，将业务拓展至GCC（海湾合作委员会）国家。"
-              },
-              {
-                "t": "p",
-                "x": "副总裁（CBO）Kim Sung-jong表示：“将成功完成本项目，进入UAE国家健康体检计划，并以此为基础将AI心血管筛查业务拓展至GCC国家。”"
+                "x": "模拟显示，用AI-OsRM进行预筛查可将DXA使用量减少约50%，同时仍能检出98-99%的骨质疏松病例和80-90%的骨密度降低病例，表明其可作为优化DXA使用的预筛查工具。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Seers, aval para un piloto AI\nde arritmias en chequeos de UAE",
-          "body": "Seers obtiene aval IRB del Departamento de Salud de Abu Dabi para un piloto de chequeo nacional de arritmias con AI.",
-          "mini_headline": "Seers: chequeo de arritmias UAE",
+          "headline": "La radiografía de tórax sirve\npara cribar la osteoporosis",
+          "body": "AI-OsRM, entrenado con 46,478 pares de radiografía y DXA, predice osteoporosis en radiografías de tórax rutinarias.",
+          "mini_headline": "Cribado de osteoporosis en radiografías de tórax",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Seers, empresa de monitorización diagnóstica wearable con AI, anunció el día 16 que obtuvo la aprobación del Comité de Ética Institucional (IRB) dependiente del Departamento de Salud de Abu Dabi (DoH) para el proyecto nacional de chequeos de salud que impulsa con SEHA Clinics, la mayor red sanitaria pública de los Emiratos Árabes Unidos (UAE), y que ha iniciado el proyecto de lleno."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534058"
+                "x": "Investigadores desarrollaron un modelo de IA, AI-OsRM, para predecir la osteoporosis y la baja densidad mineral ósea (BMD) a partir de radiografías de tórax, informa npj Digital Medicine."
               },
               {
                 "t": "p",
-                "x": "El proyecto es el piloto final para incorporar el cribado de arritmias con AI al programa nacional de chequeos de salud que el gobierno de UAE ofrece 1 vez al año a sus ciudadanos de 40 años o más. Actualmente, el chequeo nacional de UAE no incluye pruebas de cribado de arritmias. Seers fue elegida a finales del año pasado, mediante licitación, como única adjudicataria del proyecto."
+                "x": "AI-OsRM se desarrolló con 46,478 pares de exámenes de radiografía de tórax y absorciometría de rayos X de energía dual (DXA) de 26,757 pacientes, recogidos en un hospital de referencia de tercer nivel entre 2016 y 2022, con una arquitectura ResNet-based y preentrenamiento mediante autocodificador enmascarado."
               },
               {
                 "t": "p",
-                "x": "Seers realizará cribados de ECG con AI basados en mobiCARE™ a unas 100 personas para verificar su eficacia clínica y su idoneidad operativa, con el objetivo de aplicarse en exclusiva en el programa nacional de chequeos desde el próximo año. Si se incorpora, podría atender cada año a unas 280,000 personas de 40 años o más, y se prevé que los ingresos atribuibles a Seers superen los 100 dólares por prueba."
+                "x": "La validación externa abarcó tres cohortes: una cohorte hospitalaria separada en el tiempo (SNUH; n = 6,391) y dos cohortes de chequeos de salud (HPC, n = 24,132; YSMC, n = 122,535). El AUROC fue de 0.88 en SNUH tanto para osteoporosis como para baja BMD, y de 0.93 y 0.92 para osteoporosis en HPC y YSMC."
               },
               {
                 "t": "p",
-                "x": "Seers verificó la eficacia clínica con 3000 examinados en 5 instituciones médicas, entre ellas el Hospital de la Universidad Nacional de Seúl, y opera cribados de arritmias con AI en KMI Instituto Coreano de Investigación Médica y en Medicheck de la Asociación Coreana de Gestión de la Salud, entre otros. La estrategia de la empresa es empezar por UAE y extender el negocio a los países del GCC (Consejo de Cooperación del Golfo)."
-              },
-              {
-                "t": "p",
-                "x": "El vicepresidente Kim Sung-jong (CBO) afirmó: \"Llevaremos a cabo con éxito este proyecto para entrar en el programa nacional de chequeos de UAE y, a partir de ahí, ampliaremos el negocio de cribado cardiovascular con AI hasta los países del GCC\"."
+                "x": "Las simulaciones mostraron que el precribado con AI-OsRM podría reducir el uso de DXA en torno al 50% y aun así detectar el 98-99% de los casos de osteoporosis y el 80-90% de los casos de baja BMD, lo que apunta a una herramienta de precribado para optimizar el uso de DXA."
               }
             ]
           }
@@ -637,189 +591,167 @@
       }
     },
     {
-      "id": "medicine-uci-lung-nlp",
+      "id": "medicine-agent-scope",
       "source_lang": "en",
-      "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "UC Irvine NLP로\n폐암 검진 대상 찾는다",
-      "body": "UC Irvine NLP가 서술형 기록 속 흡연력으로 폐암 검진 대상을 찾는다.",
-      "mini_headline": "AI가 찾는 폐암 검진 대상",
-      "source": "Radiology Business",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-department-uses-ai-identify-lung-cancer-screening-patients-ehr",
+      "headline": "AI 에이전트를\n진료 업무 안에 묶어두기",
+      "body": "랜싯 저자들은 임상의 앱을 다루는 AI 에이전트를 업무 범위에 가둬야 한다고 본다.",
+      "mini_headline": "진료실 AI 에이전트의 범위 정하기",
+      "tool": "Medicine",
+      "source": "The Lancet Digital Health",
+      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00146-9/fulltext",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+            "t": "p",
+            "x": "범용 AI 에이전트는 이제 사용자 컴퓨터의 파일과 애플리케이션을 직접 다룬다. Mahmud Omar, Eyal Klang, Girish N Nadkarni는 The Lancet Digital Health에서 ChatGPT Work, ChatGPT Codex, Claude Cowork, Claude Code 같은 제품이 이 기능을 소비자용 앱으로 가져왔다고 썼다."
           },
           {
             "t": "p",
-            "x": "한 영상의학과가 자연어 처리로 의료기관 전자건강기록에서 검진 대상 환자를 찾아내는 방법을 내놨다. 전문가들은 12일 Journal of the American College of Radiology에서 폐암 검진 수검률이 전국적으로 약 18%에 그친다고 짚었다."
+            "x": "이런 에이전트는 임상의의 집 컴퓨터에서도, 병원 워크스테이션에서도 돌아간다. 컴퓨터 사용 기능을 쓰면 에이전트가 단계마다 화면을 캡처해 개발사 서버로 보낸다. 그래서 화면에 뜬 것은 무엇이든 보고 임상의의 로그인으로 움직인다. 추적 진료를 예약하던 에이전트가 옆 패널에 뜬 무관한 진단명까지 캡처할 수도 있다."
           },
           {
             "t": "p",
-            "x": "걸림돌은 EHR에 구조화된 흡연력이 빠져 있거나 틀린 경우가 많다는 데 있다. University of California, Irvine은 자유 기술 임상 기록에서 흡연 정보를 뽑아 검진 대상 환자를 가려내는 NLP 도구를 만들었다."
+            "x": "애플리케이션을 조작할 권한이 있다고 업무마다 어떤 정보가 적절한지까지 정해지지는 않는다. 임상의가 스크린샷을 일일이 검토하리라 기대하기도 어렵다는 게 저자들의 주장이다."
           },
           {
             "t": "p",
-            "x": "후향적 연구는 2018년부터 2023년까지 50세 이상 환자 약 28,000명, EHR 기록 약 41,000건을 다뤘다. 규칙 기반 NLP 파이프라인은 수작업으로 검토한 기록 50건으로 만든 뒤 별도 기록 2,000건으로 다듬었다. 사람이 주석을 단 기록 2,000건과 맞춰보니 NLP의 검진 적격성 일치율은 약 84%였다."
-          },
-          {
-            "t": "p",
-            "x": "교신저자 Gelareh Sadigh(MD)와 동료들은 \"NLP 기반(NLP-derived) 흡연 상태와 LCS 적격성은 수작업 검토와 높은 일치도를 보였고, 구조화된 EHR 데이터보다 세 배 넘게 많은 검진 대상 환자를 찾아냈다\"고 결론지었다. NLP를 두고는 \"의사의 업무 흐름을 바꾸지 않고\" 굴러가는 \"실용적이고 확장 가능한 접근법\"이라고 평가했다."
+            "x": "저자들은 IRBs의 단계별 구조를 본뜬 표준 기관 절차를 제안한다. 정렬·에이전트 안전 위원회 형태로 운영하는 방식이다. 승인할 때 업무, 접근 가능한 데이터, 도구, 수신자, 보존 기간을 명시하고 새 기능이 생기면 다시 검토한다. 에이전트의 접근 권한은 위임받은 업무에 비례해야 한다고 저자들은 본다."
           }
         ]
       },
+      "_lead_image": "",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "UC Irvine uses NLP to find\nlung screening candidates",
-          "body": "UC Irvine's NLP tool reads smoking history in free-text notes to flag patients eligible for lung cancer screening.",
-          "mini_headline": "AI finds lung screening patients",
+          "headline": "Keeping AI agents inside\nthe clinical task",
+          "body": "Lancet Digital Health authors argue desktop AI agents that can operate clinicians' apps must stay scoped to the task.",
+          "mini_headline": "Scoping AI agents in the clinic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+                "t": "p",
+                "x": "General-purpose AI agents can now work through files and applications on a user's computer. Products such as ChatGPT Work, ChatGPT Codex, Claude Cowork, and Claude Code bring these abilities to consumer apps, write Mahmud Omar, Eyal Klang and Girish N Nadkarni in The Lancet Digital Health."
               },
               {
                 "t": "p",
-                "x": "A radiology department is detailing how it uses natural language processing to help root out screening-eligible patients from the health system's electronic health record. Lung cancer screening uptake remains low at about 18% nationally, experts detail Oct. 12 in the Journal of the American College of Radiology."
+                "x": "Such agents could run on a clinician's home computer or a hospital workstation. With computer use, an agent captures the screen at each step and sends it to the developer's servers, so it sees whatever is displayed and acts with the clinician's login. An agent booking a follow-up could capture an unrelated diagnosis in a neighbouring panel."
               },
               {
                 "t": "p",
-                "x": "One key barrier is incomplete or inaccurate structured smoking history in the EHR. To address this, the University of California, Irvine, developed an NLP tool that extracts smoking info and identifies screening-eligible patients from free-text clinical notes."
+                "x": "Permission to operate an application does not establish which information is appropriate for each task, the authors argue, and clinicians cannot be expected to review every screenshot."
               },
               {
                 "t": "p",
-                "x": "The retrospective study included nearly 28,000 patients aged 50 or older with almost 41,000 EHR notes from 2018 to 2023. A rule-based NLP pipeline was built from 50 manually reviewed notes and refined on a separate 2,000 notes. Against 2,000 human-annotated notes, NLP showed nearly 84% agreement on screening eligibility."
-              },
-              {
-                "t": "p",
-                "x": "\"NLP-derived smoking status and LCS eligibility demonstrated high concordance with manual review and identified more than three times as many screening-eligible patients as structured EHR data,\" corresponding author Gelareh Sadigh, MD, and colleagues concluded, calling NLP \"a practical and scalable approach\" that works \"without changing physician workflow.\""
+                "x": "They propose a standard institutional process, modelled on the tiered structure of IRBs, run as an alignment and agentic safety board. Approval would specify the task, accessible data, tools, recipients and retention; new capabilities would trigger review. The agent's access should remain proportional to the work delegated."
               }
             ]
           }
         },
         "ko": {
-          "headline": "UC Irvine NLP로\n폐암 검진 대상 찾는다",
-          "body": "UC Irvine NLP가 서술형 기록 속 흡연력으로 폐암 검진 대상을 찾는다.",
-          "mini_headline": "AI가 찾는 폐암 검진 대상",
+          "headline": "AI 에이전트를\n진료 업무 안에 묶어두기",
+          "body": "랜싯 저자들은 임상의 앱을 다루는 AI 에이전트를 업무 범위에 가둬야 한다고 본다.",
+          "mini_headline": "진료실 AI 에이전트의 범위 정하기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+                "t": "p",
+                "x": "범용 AI 에이전트는 이제 사용자 컴퓨터의 파일과 애플리케이션을 직접 다룬다. Mahmud Omar, Eyal Klang, Girish N Nadkarni는 The Lancet Digital Health에서 ChatGPT Work, ChatGPT Codex, Claude Cowork, Claude Code 같은 제품이 이 기능을 소비자용 앱으로 가져왔다고 썼다."
               },
               {
                 "t": "p",
-                "x": "한 영상의학과가 자연어 처리로 의료기관 전자건강기록에서 검진 대상 환자를 찾아내는 방법을 내놨다. 전문가들은 12일 Journal of the American College of Radiology에서 폐암 검진 수검률이 전국적으로 약 18%에 그친다고 짚었다."
+                "x": "이런 에이전트는 임상의의 집 컴퓨터에서도, 병원 워크스테이션에서도 돌아간다. 컴퓨터 사용 기능을 쓰면 에이전트가 단계마다 화면을 캡처해 개발사 서버로 보낸다. 그래서 화면에 뜬 것은 무엇이든 보고 임상의의 로그인으로 움직인다. 추적 진료를 예약하던 에이전트가 옆 패널에 뜬 무관한 진단명까지 캡처할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "걸림돌은 EHR에 구조화된 흡연력이 빠져 있거나 틀린 경우가 많다는 데 있다. University of California, Irvine은 자유 기술 임상 기록에서 흡연 정보를 뽑아 검진 대상 환자를 가려내는 NLP 도구를 만들었다."
+                "x": "애플리케이션을 조작할 권한이 있다고 업무마다 어떤 정보가 적절한지까지 정해지지는 않는다. 임상의가 스크린샷을 일일이 검토하리라 기대하기도 어렵다는 게 저자들의 주장이다."
               },
               {
                 "t": "p",
-                "x": "후향적 연구는 2018년부터 2023년까지 50세 이상 환자 약 28,000명, EHR 기록 약 41,000건을 다뤘다. 규칙 기반 NLP 파이프라인은 수작업으로 검토한 기록 50건으로 만든 뒤 별도 기록 2,000건으로 다듬었다. 사람이 주석을 단 기록 2,000건과 맞춰보니 NLP의 검진 적격성 일치율은 약 84%였다."
-              },
-              {
-                "t": "p",
-                "x": "교신저자 Gelareh Sadigh(MD)와 동료들은 \"NLP 기반(NLP-derived) 흡연 상태와 LCS 적격성은 수작업 검토와 높은 일치도를 보였고, 구조화된 EHR 데이터보다 세 배 넘게 많은 검진 대상 환자를 찾아냈다\"고 결론지었다. NLP를 두고는 \"의사의 업무 흐름을 바꾸지 않고\" 굴러가는 \"실용적이고 확장 가능한 접근법\"이라고 평가했다."
+                "x": "저자들은 IRBs의 단계별 구조를 본뜬 표준 기관 절차를 제안한다. 정렬·에이전트 안전 위원회 형태로 운영하는 방식이다. 승인할 때 업무, 접근 가능한 데이터, 도구, 수신자, 보존 기간을 명시하고 새 기능이 생기면 다시 검토한다. 에이전트의 접근 권한은 위임받은 업무에 비례해야 한다고 저자들은 본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UC Irvine、NLPで\n肺がん検診対象者を探す",
-          "body": "UC IrvineのNLPツールが自由記述から喫煙歴を読み、肺がん検診対象者を見つける。",
-          "mini_headline": "AIが肺がん検診対象者を発見",
+          "headline": "AIエージェントを\n診療業務の枠内に",
+          "body": "ランセット誌の著者らは、臨床医のアプリを操るAIエージェントを業務範囲に限るべきだと説く。",
+          "mini_headline": "診療現場のAIエージェントに範囲を",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+                "t": "p",
+                "x": "汎用AIエージェントは今や、ユーザーのコンピューター上のファイルやアプリケーションを操作できる。ChatGPT Work、ChatGPT Codex、Claude Cowork、Claude Codeといった製品がこうした機能を消費者向けアプリにもたらしていると、Mahmud Omar、Eyal Klang、Girish N NadkarniがThe Lancet Digital Healthに書いている。"
               },
               {
                 "t": "p",
-                "x": "ある放射線科が、自然言語処理を使って医療システムの電子カルテから検診対象の患者を掘り起こす方法を詳しく紹介した。専門家らは12日、Journal of the American College of Radiologyで、肺がん検診の受診率は全国で約18%と低いままだと説明した。"
+                "x": "こうしたエージェントは臨床医の自宅のコンピューターや病院のワークステーションで動きうる。コンピューター操作機能では、エージェントが各ステップで画面をキャプチャして開発元のサーバーに送るため、表示されているものは何でも見え、臨床医のログインで動作する。再診を予約するエージェントが、隣のパネルにある無関係な診断を取り込んでしまう可能性もある。"
               },
               {
                 "t": "p",
-                "x": "大きな障壁の一つは、EHR内の構造化された喫煙歴が不完全または不正確なことだ。これに対処するため、University of California, Irvineは自由記述の臨床記録から喫煙情報を抽出し、検診対象の患者を特定するNLPツールを開発した。"
+                "x": "アプリケーションを操作する許可があっても、各タスクにどの情報が適切かが決まるわけではなく、臨床医にすべてのスクリーンショットの確認を期待することもできないと著者らは論じる。"
               },
               {
                 "t": "p",
-                "x": "後ろ向き研究には、2018年から2023年までの50歳以上の患者約28,000人と、EHR記録約41,000件が含まれた。ルールベースのNLPパイプラインは手作業で確認した50件の記録から構築し、別の2,000件で改良した。人が注釈を付けた2,000件と比べると、NLPは検診適格性で約84%の一致を示した。"
-              },
-              {
-                "t": "p",
-                "x": "責任著者のGelareh Sadigh(MD)らは「NLP-derived(NLP由来)の喫煙状況とLCS適格性は手作業のレビューと高い一致を示し、構造化EHRデータの三倍を超える検診対象患者を特定した」と結論づけ、NLPを「医師のワークフローを変えずに」機能する「実用的で拡張性のあるアプローチ」と評した。"
+                "x": "著者らは、IRBsの階層構造をモデルにした標準的な機関手続きを、アラインメント・エージェント安全委員会として運用することを提案する。承認ではタスク、アクセス可能なデータ、ツール、受信者、保存期間を定め、新たな機能が加われば審査を行う。エージェントのアクセス権は委任された業務に見合ったものにとどめるべきだという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UC Irvine用NLP\n筛选肺癌筛查对象",
-          "body": "UC Irvine的NLP工具读取自由文本记录中的吸烟史，标记符合肺癌筛查条件的患者。",
-          "mini_headline": "AI找出肺癌筛查对象",
+          "headline": "让AI智能体\n守在临床任务之内",
+          "body": "《柳叶刀-数字健康》作者认为，能操作临床医生应用的桌面AI智能体必须限定于任务范围。",
+          "mini_headline": "为临床AI智能体划定范围",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+                "t": "p",
+                "x": "通用AI智能体如今已能操作用户电脑上的文件和应用程序。Mahmud Omar、Eyal Klang和Girish N Nadkarni在The Lancet Digital Health上撰文指出，ChatGPT Work、ChatGPT Codex、Claude Cowork和Claude Code等产品已将这些能力带入消费级应用。"
               },
               {
                 "t": "p",
-                "x": "某放射科详细介绍了如何利用自然语言处理，从医疗系统的电子健康记录中找出符合筛查条件的患者。专家们12日在Journal of the American College of Radiology上指出，全国肺癌筛查率仍然偏低，约为18%。"
+                "x": "这类智能体可以运行在临床医生的家用电脑或医院工作站上。在计算机使用模式下，智能体每一步都会截取屏幕并发送到开发者的服务器，因此它能看到屏幕上显示的任何内容，并以临床医生的登录身份操作。一个预约复诊的智能体，可能会截取到相邻面板中无关的诊断信息。"
               },
               {
                 "t": "p",
-                "x": "一大障碍是EHR中的结构化吸烟史不完整或不准确。为此，University of California, Irvine开发了一款NLP工具，可从自由文本临床记录中提取吸烟信息，并识别符合筛查条件的患者。"
+                "x": "作者认为，获得操作某个应用程序的权限，并不能确定每项任务适合使用哪些信息，而且也不能指望临床医生逐一审查每张截图。"
               },
               {
                 "t": "p",
-                "x": "这项回顾性研究纳入了2018年至2023年间近28,000名50岁及以上患者的近41,000份EHR记录。基于规则的NLP流程由50份人工审阅的记录构建，并在另外2,000份记录上优化。与2,000份人工标注记录相比，NLP在筛查资格判定上的一致率近84%。"
-              },
-              {
-                "t": "p",
-                "x": "通讯作者Gelareh Sadigh（MD）及同事总结称：“NLP-derived（由NLP得出的）吸烟状态和LCS资格与人工审阅高度一致，识别出的符合筛查条件患者是结构化EHR数据的三倍多。”他们称NLP是一种“实用且可扩展的方法”，且“无需改变医生工作流程”。"
+                "x": "他们提议建立一套参照IRBs分级结构的标准机构流程，以对齐与智能体安全委员会的形式运作。审批应明确任务、可访问的数据、工具、接收方和保存期限；新增能力将触发审查。智能体的访问权限应与所委派的工作相称。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UC Irvine usa NLP para hallar\ncandidatos a cribado pulmonar",
-          "body": "El NLP de UC Irvine lee el tabaquismo en notas de texto libre para hallar candidatos a cribado de cáncer de pulmón.",
-          "mini_headline": "La AI halla candidatos a cribado",
+          "headline": "Mantener a los agentes de IA\ndentro de la tarea clínica",
+          "body": "Autores en Lancet Digital Health sostienen que los agentes de IA que operan apps clínicas deben limitarse a la tarea.",
+          "mini_headline": "Acotar los agentes de IA en la clínica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+                "t": "p",
+                "x": "Los agentes de IA de propósito general ya pueden trabajar con archivos y aplicaciones en el equipo del usuario. Productos como ChatGPT Work, ChatGPT Codex, Claude Cowork y Claude Code llevan estas capacidades a apps de consumo, escriben Mahmud Omar, Eyal Klang y Girish N Nadkarni en The Lancet Digital Health."
               },
               {
                 "t": "p",
-                "x": "Un departamento de radiología detalla cómo usa el procesamiento del lenguaje natural para localizar, en la historia clínica electrónica del sistema de salud, a pacientes aptos para el cribado. La adopción del cribado de cáncer de pulmón sigue siendo baja, en torno al 18% a nivel nacional, explican los expertos el 12 de octubre en el Journal of the American College of Radiology."
+                "x": "Estos agentes podrían ejecutarse en el equipo doméstico de un clínico o en una estación de trabajo hospitalaria. Con el control del equipo, el agente captura la pantalla en cada paso y la envía a los servidores del desarrollador, de modo que ve todo lo que se muestra y actúa con las credenciales del clínico. Un agente que agenda una cita de seguimiento podría capturar un diagnóstico no relacionado en un panel contiguo."
               },
               {
                 "t": "p",
-                "x": "Una barrera clave es que el historial de tabaquismo estructurado en la EHR es incompleto o inexacto. Para resolverlo, la University of California, Irvine, desarrolló una herramienta de NLP que extrae la información sobre tabaquismo e identifica a los pacientes aptos para el cribado a partir de notas clínicas de texto libre."
+                "x": "El permiso para operar una aplicación no establece qué información es adecuada para cada tarea, sostienen los autores, y no cabe esperar que los clínicos revisen cada captura de pantalla."
               },
               {
                 "t": "p",
-                "x": "El estudio retrospectivo incluyó a casi 28,000 pacientes de 50 años o más, con casi 41,000 notas de la EHR de 2018 a 2023. Se construyó un sistema de NLP basado en reglas a partir de 50 notas revisadas manualmente y se refinó con otras 2,000 notas. Frente a 2,000 notas anotadas por personas, el NLP mostró casi un 84% de concordancia en la elegibilidad para el cribado."
-              },
-              {
-                "t": "p",
-                "x": "\"El estado de tabaquismo y la elegibilidad para LCS obtenidos por NLP (NLP-derived) mostraron una alta concordancia con la revisión manual e identificaron más del triple de pacientes aptos para el cribado que los datos estructurados de la EHR\", concluyeron la autora de correspondencia, Gelareh Sadigh, MD, y sus colegas, que califican el NLP de \"un enfoque práctico y escalable\" que funciona \"sin cambiar el flujo de trabajo del médico\"."
+                "x": "Proponen un proceso institucional estándar, inspirado en la estructura escalonada de los IRBs, que funcione como un comité de alineación y seguridad agéntica. La aprobación especificaría la tarea, los datos accesibles, las herramientas, los destinatarios y la conservación; las nuevas capacidades activarían una revisión. El acceso del agente debe seguir siendo proporcional al trabajo delegado."
               }
             ]
           }
@@ -827,121 +759,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "UC Irvine NLP로\n폐암 검진 대상 찾는다",
-          "body": "UC Irvine NLP가 서술형 기록 속 흡연력으로 폐암 검진 대상을 찾는다.",
-          "mini_headline": "AI가 찾는 폐암 검진 대상",
+          "headline": "AI 에이전트를\n진료 업무 안에 묶어두기",
+          "body": "랜싯 저자들은 임상의 앱을 다루는 AI 에이전트를 업무 범위에 묶어야 한다고 본다.",
+          "mini_headline": "진료실 AI 에이전트의 범위 정하기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+                "t": "p",
+                "x": "범용 AI 에이전트는 이제 사용자 컴퓨터의 파일과 애플리케이션을 직접 다룰 수 있다. ChatGPT Work, ChatGPT Codex, Claude Cowork, Claude Code 같은 제품이 이런 기능을 소비자용 앱에 들여왔다고 Mahmud Omar, Eyal Klang, Girish N Nadkarni가 The Lancet Digital Health에 썼다."
               },
               {
                 "t": "p",
-                "x": "한 영상의학과가 자연어 처리를 활용해 의료기관 전자건강기록에서 검진 대상 환자를 찾아내는 방법을 소개했다. 전문가들은 12일 Journal of the American College of Radiology에서 폐암 검진 수검률이 전국적으로 약 18%에 머문다고 설명했다."
+                "x": "이런 에이전트는 임상의의 집 컴퓨터나 병원 워크스테이션에서 돌아갈 수 있다. 컴퓨터 사용 기능을 쓰면 에이전트는 단계마다 화면을 캡처해 개발사 서버로 보내므로, 화면에 뜬 것은 무엇이든 보고 임상의의 로그인으로 움직인다. 추적 진료를 예약하던 에이전트가 옆 패널의 무관한 진단명까지 캡처할 수 있다."
               },
               {
                 "t": "p",
-                "x": "주요 걸림돌 하나는 EHR의 구조화된 흡연력이 불완전하거나 부정확하다는 점이다. 이를 해결하려고 University of California, Irvine은 자유 기술 임상 기록에서 흡연 정보를 추출해 검진 대상 환자를 가려내는 NLP 도구를 개발했다."
+                "x": "애플리케이션을 조작할 권한이 있다고 해서 업무마다 어떤 정보가 적절한지가 정해지는 것은 아니며, 임상의가 스크린샷을 일일이 검토하리라 기대할 수도 없다고 저자들은 주장한다."
               },
               {
                 "t": "p",
-                "x": "후향적 연구에는 2018년부터 2023년까지 50세 이상 환자 약 28,000명과 EHR 기록 약 41,000건이 포함됐다. 규칙 기반 NLP 파이프라인은 수작업으로 검토한 기록 50건으로 만들고 별도 기록 2,000건으로 다듬었다. 사람이 주석을 단 기록 2,000건과 비교하자 NLP는 검진 적격성에서 약 84% 일치를 보였다."
-              },
-              {
-                "t": "p",
-                "x": "교신저자 Gelareh Sadigh(MD)와 동료들은 \"NLP 기반(NLP-derived) 흡연 상태와 LCS 적격성은 수작업 검토와 높은 일치도를 보였고, 구조화된 EHR 데이터보다 세 배 넘게 많은 검진 대상 환자를 찾아냈다\"고 결론지었다. 이들은 NLP를 \"의사의 업무 흐름을 바꾸지 않고\" 작동하는 \"실용적이고 확장 가능한 접근법\"이라고 평가했다."
+                "x": "저자들은 IRBs의 단계별 구조를 본뜬 표준 기관 절차를 제안한다. 정렬·에이전트 안전 위원회 형태로 운영하는 방식이다. 승인 시 업무, 접근 가능한 데이터, 도구, 수신자, 보존 기간을 명시하고, 새 기능이 생기면 재검토를 거친다. 에이전트의 접근 권한은 위임받은 업무에 비례해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UC Irvine、NLPで\n肺がん検診対象者を探す",
-          "body": "UC IrvineのNLPツールが自由記述から喫煙歴を読み、肺がん検診対象者を見つける。",
-          "mini_headline": "AIが肺がん検診対象者を発見",
+          "headline": "AIエージェントを\n診療業務の枠内に",
+          "body": "ランセット誌の著者らは、臨床医のアプリを操るAIエージェントを業務範囲に限るべきだと説く。",
+          "mini_headline": "診療現場のAIエージェントに範囲を",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+                "t": "p",
+                "x": "汎用AIエージェントは今や、ユーザーのコンピューター上のファイルやアプリケーションを操作できる。ChatGPT Work、ChatGPT Codex、Claude Cowork、Claude Codeといった製品がこうした機能を消費者向けアプリにもたらしていると、Mahmud Omar、Eyal Klang、Girish N NadkarniがThe Lancet Digital Healthに書いている。"
               },
               {
                 "t": "p",
-                "x": "ある放射線科が、自然言語処理を使って医療システムの電子カルテから検診対象の患者を掘り起こす方法を詳しく紹介した。専門家らは12日、Journal of the American College of Radiologyで、肺がん検診の受診率は全国で約18%と低いままだと説明した。"
+                "x": "こうしたエージェントは臨床医の自宅のコンピューターや病院のワークステーションで動きうる。コンピューター操作機能では、エージェントが各ステップで画面をキャプチャして開発元のサーバーに送るため、表示されているものは何でも見え、臨床医のログインで動作する。再診を予約するエージェントが、隣のパネルにある無関係な診断を取り込んでしまう可能性もある。"
               },
               {
                 "t": "p",
-                "x": "大きな障壁の一つは、EHR内の構造化された喫煙歴が不完全または不正確なことだ。これに対処するため、University of California, Irvineは自由記述の臨床記録から喫煙情報を抽出し、検診対象の患者を特定するNLPツールを開発した。"
+                "x": "アプリケーションを操作する許可があっても、各タスクにどの情報が適切かが決まるわけではなく、臨床医にすべてのスクリーンショットの確認を期待することもできないと著者らは論じる。"
               },
               {
                 "t": "p",
-                "x": "後ろ向き研究には、2018年から2023年までの50歳以上の患者約28,000人と、EHR記録約41,000件が含まれた。ルールベースのNLPパイプラインは手作業で確認した50件の記録から構築し、別の2,000件で改良した。人が注釈を付けた2,000件と比べると、NLPは検診適格性で約84%の一致を示した。"
-              },
-              {
-                "t": "p",
-                "x": "責任著者のGelareh Sadigh(MD)らは「NLP-derived(NLP由来)の喫煙状況とLCS適格性は手作業のレビューと高い一致を示し、構造化EHRデータの三倍を超える検診対象患者を特定した」と結論づけ、NLPを「医師のワークフローを変えずに」機能する「実用的で拡張性のあるアプローチ」と評した。"
+                "x": "著者らは、IRBsの階層構造をモデルにした標準的な機関手続きを、アラインメント・エージェント安全委員会として運用することを提案する。承認ではタスク、アクセス可能なデータ、ツール、受信者、保存期間を定め、新たな機能が加われば審査を行う。エージェントのアクセス権は委任された業務に見合ったものにとどめるべきだという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UC Irvine用NLP\n筛选肺癌筛查对象",
-          "body": "UC Irvine的NLP工具读取自由文本记录中的吸烟史，标记符合肺癌筛查条件的患者。",
-          "mini_headline": "AI找出肺癌筛查对象",
+          "headline": "让AI智能体\n守在临床任务之内",
+          "body": "《柳叶刀-数字健康》作者认为，能操作临床医生应用的桌面AI智能体必须限定于任务范围。",
+          "mini_headline": "为临床AI智能体划定范围",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+                "t": "p",
+                "x": "通用AI智能体如今已能操作用户电脑上的文件和应用程序。Mahmud Omar、Eyal Klang和Girish N Nadkarni在The Lancet Digital Health上撰文指出，ChatGPT Work、ChatGPT Codex、Claude Cowork和Claude Code等产品已将这些能力带入消费级应用。"
               },
               {
                 "t": "p",
-                "x": "某放射科详细介绍了如何利用自然语言处理，从医疗系统的电子健康记录中找出符合筛查条件的患者。专家们12日在Journal of the American College of Radiology上指出，全国肺癌筛查率仍然偏低，约为18%。"
+                "x": "这类智能体可以运行在临床医生的家用电脑或医院工作站上。在计算机使用模式下，智能体每一步都会截取屏幕并发送到开发者的服务器，因此它能看到屏幕上显示的任何内容，并以临床医生的登录身份操作。一个预约复诊的智能体，可能会截取到相邻面板中无关的诊断信息。"
               },
               {
                 "t": "p",
-                "x": "一大障碍是EHR中的结构化吸烟史不完整或不准确。为此，University of California, Irvine开发了一款NLP工具，可从自由文本临床记录中提取吸烟信息，并识别符合筛查条件的患者。"
+                "x": "作者认为，获得操作某个应用程序的权限，并不能确定每项任务适合使用哪些信息，而且也不能指望临床医生逐一审查每张截图。"
               },
               {
                 "t": "p",
-                "x": "这项回顾性研究纳入了2018年至2023年间近28,000名50岁及以上患者的近41,000份EHR记录。基于规则的NLP流程由50份人工审阅的记录构建，并在另外2,000份记录上优化。与2,000份人工标注记录相比，NLP在筛查资格判定上的一致率近84%。"
-              },
-              {
-                "t": "p",
-                "x": "通讯作者Gelareh Sadigh（MD）及同事总结称：“NLP-derived（由NLP得出的）吸烟状态和LCS资格与人工审阅高度一致，识别出的符合筛查条件患者是结构化EHR数据的三倍多。”他们称NLP是一种“实用且可扩展的方法”，且“无需改变医生工作流程”。"
+                "x": "他们提议建立一套参照IRBs分级结构的标准机构流程，以对齐与智能体安全委员会的形式运作。审批应明确任务、可访问的数据、工具、接收方和保存期限；新增能力将触发审查。智能体的访问权限应与所委派的工作相称。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UC Irvine usa NLP para hallar\ncandidatos a cribado pulmonar",
-          "body": "El NLP de UC Irvine lee el tabaquismo en notas de texto libre para hallar candidatos a cribado de cáncer de pulmón.",
-          "mini_headline": "La AI halla candidatos a cribado",
+          "headline": "Mantener a los agentes de IA\ndentro de la tarea clínica",
+          "body": "Autores en Lancet Digital Health sostienen que los agentes de IA que operan apps clínicas deben limitarse a la tarea.",
+          "mini_headline": "Acotar los agentes de IA en la clínica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP"
+                "t": "p",
+                "x": "Los agentes de IA de propósito general ya pueden trabajar con archivos y aplicaciones en el equipo del usuario. Productos como ChatGPT Work, ChatGPT Codex, Claude Cowork y Claude Code llevan estas capacidades a apps de consumo, escriben Mahmud Omar, Eyal Klang y Girish N Nadkarni en The Lancet Digital Health."
               },
               {
                 "t": "p",
-                "x": "Un departamento de radiología detalla cómo usa el procesamiento del lenguaje natural para localizar, en la historia clínica electrónica del sistema de salud, a pacientes aptos para el cribado. La adopción del cribado de cáncer de pulmón sigue siendo baja, en torno al 18% a nivel nacional, explican los expertos el 12 de octubre en el Journal of the American College of Radiology."
+                "x": "Estos agentes podrían ejecutarse en el equipo doméstico de un clínico o en una estación de trabajo hospitalaria. Con el control del equipo, el agente captura la pantalla en cada paso y la envía a los servidores del desarrollador, de modo que ve todo lo que se muestra y actúa con las credenciales del clínico. Un agente que agenda una cita de seguimiento podría capturar un diagnóstico no relacionado en un panel contiguo."
               },
               {
                 "t": "p",
-                "x": "Una barrera clave es que el historial de tabaquismo estructurado en la EHR es incompleto o inexacto. Para resolverlo, la University of California, Irvine, desarrolló una herramienta de NLP que extrae la información sobre tabaquismo e identifica a los pacientes aptos para el cribado a partir de notas clínicas de texto libre."
+                "x": "El permiso para operar una aplicación no establece qué información es adecuada para cada tarea, sostienen los autores, y no cabe esperar que los clínicos revisen cada captura de pantalla."
               },
               {
                 "t": "p",
-                "x": "El estudio retrospectivo incluyó a casi 28,000 pacientes de 50 años o más, con casi 41,000 notas de la EHR de 2018 a 2023. Se construyó un sistema de NLP basado en reglas a partir de 50 notas revisadas manualmente y se refinó con otras 2,000 notas. Frente a 2,000 notas anotadas por personas, el NLP mostró casi un 84% de concordancia en la elegibilidad para el cribado."
-              },
-              {
-                "t": "p",
-                "x": "\"El estado de tabaquismo y la elegibilidad para LCS obtenidos por NLP (NLP-derived) mostraron una alta concordancia con la revisión manual e identificaron más del triple de pacientes aptos para el cribado que los datos estructurados de la EHR\", concluyeron la autora de correspondencia, Gelareh Sadigh, MD, y sus colegas, que califican el NLP de \"un enfoque práctico y escalable\" que funciona \"sin cambiar el flujo de trabajo del médico\"."
+                "x": "Proponen un proceso institucional estándar, inspirado en la estructura escalonada de los IRBs, que funcione como un comité de alineación y seguridad agéntica. La aprobación especificaría la tarea, los datos accesibles, las herramientas, los destinatarios y la conservación; las nuevas capacidades activarían una revisión. El acceso del agente debe seguir siendo proporcional al trabajo delegado."
               }
             ]
           }
@@ -949,15 +865,15 @@
       }
     },
     {
-      "id": "medicine-parkinsonism-mri",
+      "id": "medicine-ai-wait-human",
       "source_lang": "en",
-      "tool": "Medicine",
       "eyebrow": "AI NEWS",
-      "headline": "일반 MRI로 AI가\n파킨슨병·MSA 구분",
-      "body": "다기관 모델이 일반 T1-weighted MRI로 파킨슨병과 MSA를 가른다.",
-      "mini_headline": "MRI AI, PD와 MSA 구분",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03357-z",
+      "headline": "빠른 AI 답변이냐\n사람을 기다리느냐",
+      "body": "JAMA 조사가 미국 성인에게 빠른 AI 답과 사람 검토 중 무엇을 고를지 물었다.",
+      "mini_headline": "AI의 속도냐 사람의 검토냐",
+      "tool": "Medicine",
+      "source": "JAMA Network Open",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.39048",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -965,185 +881,151 @@
         "blocks": [
           {
             "t": "p",
-            "x": "연구용 다중모드 MRI 스캔은 파킨슨병(PD)과 다계통위축증(MSA)을 갈라낼 가능성을 보여 왔다. 다만 비용과 촬영 시간, 처리 부담 탓에 실제 진료에서는 쓰기 어려웠다. 연구진은 파킨슨증을 구별하는 T1-weighted 구조 MRI 기반(MRI-based) 머신러닝 모델을 만들어, 일상적인 비등방성 2D 임상 MRI까지 일반화했다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
-            "cap": "다중모드 벤치마크에서 임상 시그니처, 연구용 데이터 검증, 외부 임상 MRI(clinical-MRI) 코호트까지."
+            "x": "JAMA Network Open에 실린 단면 연구는 미국 성인 1,185명을 대상으로(2024년 6월 17일~7월 26일) 조사했다. 환자 포털 메시지에 빠른 AI 답변과 의료 전문가가 검토한 느린 답변 중 어느 쪽을 원하는지, 정신건강 지원의 AI 선택지는 어떻게 평가하는지 물었다."
           },
           {
             "t": "p",
-            "x": "환자 969명을 모은 다기관 코호트에 발견–검증–전환의 계층적 프레임워크를 적용했다. 그 결과 다중모드 벤치마크 모델은 AUROC 0.98, 간소화한 단일모드 T1-Top20 모델은 다중 분류(건강 대조군, PD, MSA)에서 0.93을 기록했다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
-            "cap": "ROC 곡선과 최종 분류에 쓴 Top-20 통합 특징 세트."
+            "x": "일정 조율이나 처방 재발급 같은 행정 메시지라면 57.4%가 빠른 AI 답변을 골랐고, 일반 메시지에서는 그 비율이 50.6%였다. 의학적 메시지에서는 63.1%가 의료 전문가의 검토를 기다리겠다고 답했다."
           },
           {
             "t": "p",
-            "x": "PD와 MSA를 가르는 데서 고정한 T1-Top20 모델은 외부 연구용 코호트(n = 227)에서 통합 AUROC 0.88을 기록했고, 특발성 REM 수면행동장애에서 PD로 표현형 전환한 25명 중 19명을 찾아냈다. 일반화 모델은 clinical-MRI 코호트(2D T1, n = 303)에서 통합 AUROC 0.84를 냈다."
+            "x": "정신건강 지원에서는 3개월 뒤 만날 수 있는 인간 치료사가 63.9%로 가장 많은 지지를 받았다. 치료사가 모니터링하는 1개월 뒤 AI(50.2%), 즉시 쓸 수 있는 AI 단독(44.3%)이 뒤를 이었다."
+          },
+          {
+            "t": "p",
+            "x": "결과는 출생 세대 등 여러 요인별로 나눠 분석했다. 저자들은 사람들이 의학적 질문이나 정신건강 지원보다 위험이 낮은 업무에서 빠른 AI를 더 쉽게 받아들인다고 봤다. 신속성과 사람의 검토 사이에서 고를 수 있는 선택지가 환자에게 도움이 될 수 있다는 결론이다."
           }
         ]
       },
+      "_lead_image": "",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "Routine MRI helps AI tell\nParkinson's from MSA",
-          "body": "A multicenter model separates Parkinson's disease from multiple system atrophy using routine T1-weighted MRI.",
-          "mini_headline": "MRI AI splits PD from MSA",
+          "headline": "Fast AI answers versus\nwaiting for a human",
+          "body": "A JAMA Network Open survey asks US adults whether faster AI replies are worth skipping human review in portal messages.",
+          "mini_headline": "AI speed vs human review",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Multimodal research-grade MRI scans show potential for differentiating Parkinson's disease (PD) from multiple system atrophy (MSA), but clinical translation is limited by cost, acquisition time, and processing burden. The authors developed a T1-weighted structural MRI-based machine learning model to differentiate Parkinsonism and generalized it to routine anisotropic 2D clinical MRI."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
-                "cap": "From multimodal benchmark to clinical signature, research-grade validation and the external clinical-MRI cohort."
+                "x": "A cross-sectional study in JAMA Network Open surveyed 1,185 US adults (June 17 to July 26, 2024) on whether they prefer faster AI responses or slower, health-professional-reviewed responses to patient portal messages, and how they weigh AI options for mental health support."
               },
               {
                 "t": "p",
-                "x": "Using a multicenter cohort of 969 participants and a hierarchical discovery–verification–translation framework, a multimodal benchmark model achieved an AUROC of 0.98, while the streamlined unimodal T1-Top20 model achieved 0.93 for multiclass discrimination (healthy controls, PD, MSA)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
-                "cap": "ROC curves and the combined Top-20 feature set for final classification."
+                "x": "For logistical messages such as scheduling and refills, 57.4% preferred a fast AI answer; for general messages, 50.6%. For medical messages, 63.1% preferred waiting for a health professional to review the response."
               },
               {
                 "t": "p",
-                "x": "For PD vs MSA, the frozen T1-Top20 model achieved a pooled AUROC of 0.88 in the external research-grade cohort (n = 227) and identified 19 of 25 who phenoconverted from idiopathic REM sleep behavior disorder to PD. The generalized model achieved a pooled AUROC of 0.84 in the clinical-MRI cohort (2D T1, n = 303)."
+                "x": "For mental health support, 63.9% most endorsed a human therapist available in 3 months, ahead of therapist-monitored AI in 1 month (50.2%) and AI alone available immediately (44.3%)."
+              },
+              {
+                "t": "p",
+                "x": "Results were stratified by birth generation and other factors. The authors conclude people are more open to faster AI for low-stakes tasks than for medical questions and mental health support, and that patients may benefit from options trading timeliness against human review."
               }
             ]
           }
         },
         "ko": {
-          "headline": "일반 MRI로 AI가\n파킨슨병·MSA 구분",
-          "body": "다기관 모델이 일반 T1-weighted MRI로 파킨슨병과 MSA를 가른다.",
-          "mini_headline": "MRI AI, PD와 MSA 구분",
+          "headline": "빠른 AI 답변이냐\n사람을 기다리느냐",
+          "body": "JAMA 조사가 미국 성인에게 빠른 AI 답과 사람 검토 중 무엇을 고를지 물었다.",
+          "mini_headline": "AI의 속도냐 사람의 검토냐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "연구용 다중모드 MRI 스캔은 파킨슨병(PD)과 다계통위축증(MSA)을 갈라낼 가능성을 보여 왔다. 다만 비용과 촬영 시간, 처리 부담 탓에 실제 진료에서는 쓰기 어려웠다. 연구진은 파킨슨증을 구별하는 T1-weighted 구조 MRI 기반(MRI-based) 머신러닝 모델을 만들어, 일상적인 비등방성 2D 임상 MRI까지 일반화했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
-                "cap": "다중모드 벤치마크에서 임상 시그니처, 연구용 데이터 검증, 외부 임상 MRI(clinical-MRI) 코호트까지."
+                "x": "JAMA Network Open에 실린 단면 연구는 미국 성인 1,185명을 대상으로(2024년 6월 17일~7월 26일) 조사했다. 환자 포털 메시지에 빠른 AI 답변과 의료 전문가가 검토한 느린 답변 중 어느 쪽을 원하는지, 정신건강 지원의 AI 선택지는 어떻게 평가하는지 물었다."
               },
               {
                 "t": "p",
-                "x": "환자 969명을 모은 다기관 코호트에 발견–검증–전환의 계층적 프레임워크를 적용했다. 그 결과 다중모드 벤치마크 모델은 AUROC 0.98, 간소화한 단일모드 T1-Top20 모델은 다중 분류(건강 대조군, PD, MSA)에서 0.93을 기록했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
-                "cap": "ROC 곡선과 최종 분류에 쓴 Top-20 통합 특징 세트."
+                "x": "일정 조율이나 처방 재발급 같은 행정 메시지라면 57.4%가 빠른 AI 답변을 골랐고, 일반 메시지에서는 그 비율이 50.6%였다. 의학적 메시지에서는 63.1%가 의료 전문가의 검토를 기다리겠다고 답했다."
               },
               {
                 "t": "p",
-                "x": "PD와 MSA를 가르는 데서 고정한 T1-Top20 모델은 외부 연구용 코호트(n = 227)에서 통합 AUROC 0.88을 기록했고, 특발성 REM 수면행동장애에서 PD로 표현형 전환한 25명 중 19명을 찾아냈다. 일반화 모델은 clinical-MRI 코호트(2D T1, n = 303)에서 통합 AUROC 0.84를 냈다."
+                "x": "정신건강 지원에서는 3개월 뒤 만날 수 있는 인간 치료사가 63.9%로 가장 많은 지지를 받았다. 치료사가 모니터링하는 1개월 뒤 AI(50.2%), 즉시 쓸 수 있는 AI 단독(44.3%)이 뒤를 이었다."
+              },
+              {
+                "t": "p",
+                "x": "결과는 출생 세대 등 여러 요인별로 나눠 분석했다. 저자들은 사람들이 의학적 질문이나 정신건강 지원보다 위험이 낮은 업무에서 빠른 AI를 더 쉽게 받아들인다고 봤다. 신속성과 사람의 검토 사이에서 고를 수 있는 선택지가 환자에게 도움이 될 수 있다는 결론이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "通常MRIでAIが\nパーキンソン病とMSA識別",
-          "body": "多施設モデルが通常T1-weighted MRIでパーキンソン病と多系統萎縮症を見分ける。",
-          "mini_headline": "MRIのAIがPDとMSAを識別",
+          "headline": "速いAIの回答か\n人の確認を待つか",
+          "body": "JAMAの調査は、米国成人にポータルで速いAI回答と人の確認のどちらを選ぶかを尋ねた。",
+          "mini_headline": "AIの速さか、人の確認か",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究用のマルチモーダルMRIは、パーキンソン病(PD)と多系統萎縮症(MSA)を鑑別できる可能性を示しているが、コストや撮像時間、処理負担のため臨床応用は限られている。著者らはパーキンソニズムを鑑別するT1-weighted構造MRIベース(MRI-based)の機械学習モデルを開発し、日常的な異方性2D臨床MRIに一般化した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
-                "cap": "マルチモーダルのベンチマークから臨床シグネチャー、研究用データでの検証、外部clinical-MRIコホートまで。"
+                "x": "JAMA Network Openに掲載された横断研究は、米国成人1,185人(2024年6月17日〜7月26日)を対象に、患者ポータルのメッセージへの返信として速いAIの回答と、医療専門職が確認した遅い回答のどちらを好むか、またメンタルヘルス支援でAIの選択肢をどう評価するかを調べた。"
               },
               {
                 "t": "p",
-                "x": "969人の多施設コホートと、発見–検証–応用の階層的フレームワークを用いた結果、マルチモーダルのベンチマークモデルはAUROC 0.98を、簡素化した単一モダリティのT1-Top20モデルは多クラス判別(健常対照、PD、MSA)で0.93を達成した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
-                "cap": "ROC曲線と、最終分類に用いた統合Top-20特徴量セット。"
+                "x": "予約調整や処方の再発行といった事務的なメッセージでは57.4%が速いAIの回答を好み、一般的なメッセージでは50.6%だった。医学的なメッセージでは63.1%が医療専門職による回答の確認を待つほうを選んだ。"
               },
               {
                 "t": "p",
-                "x": "PDとMSAの鑑別では、固定したT1-Top20モデルが外部の研究用コホート(n = 227)で統合AUROC 0.88を示し、特発性REM睡眠行動障害からPDへ表現型転換した25人中19人を識別した。一般化モデルはclinical-MRIコホート(2D T1、n = 303)で統合AUROC 0.84を達成した。"
+                "x": "メンタルヘルス支援では、63.9%が3か月後に利用できる人間のセラピストを最も支持し、セラピストが監督する1か月後のAI(50.2%)、すぐに使えるAI単独(44.3%)を上回った。"
+              },
+              {
+                "t": "p",
+                "x": "結果は出生世代などの要因別に層別化された。著者らは、人々は医学的な質問やメンタルヘルス支援よりも、リスクの低い作業で速いAIを受け入れやすく、迅速さと人による確認を引き換えにできる選択肢が患者の役に立ちうると結論づけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "常规MRI助AI区分\n帕金森病与MSA",
-          "body": "一个多中心模型利用常规T1-weighted MRI区分帕金森病与多系统萎缩。",
-          "mini_headline": "MRI AI区分PD与MSA",
+          "headline": "要AI的快速回复\n还是等人工审核",
+          "body": "JAMA Network Open调查询问美国成年人是否愿为更快的AI回复放弃人工审核。",
+          "mini_headline": "AI速度与人工审核之争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究级多模态MRI扫描在区分帕金森病（PD）与多系统萎缩（MSA）方面显示出潜力，但成本、采集时间和处理负担限制了其临床转化。作者开发了一种基于T1-weighted结构MRI（MRI-based）的机器学习模型来区分帕金森综合征，并将其推广至常规各向异性2D临床MRI。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
-                "cap": "从多模态基准到临床特征、研究级验证及外部clinical-MRI队列。"
+                "x": "JAMA Network Open发表的一项横断面研究调查了1,185名美国成年人(2024年6月17日至7月26日)，了解他们对患者门户消息更倾向于快速的AI回复，还是经医疗专业人员审核的较慢回复，以及他们如何看待心理健康支持中的AI选项。"
               },
               {
                 "t": "p",
-                "x": "研究利用969名参与者的多中心队列和“发现–验证–转化”分层框架，多模态基准模型的AUROC达0.98，精简的单模态T1-Top20模型在多分类判别（健康对照、PD、MSA）中达0.93。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
-                "cap": "ROC曲线及用于最终分类的合并Top-20特征集。"
+                "x": "对于预约安排和续药等事务性消息，57.4%的人更愿意接受快速的AI回复；对于一般消息，这一比例为50.6%。对于医疗类消息，63.1%的人更愿意等待医疗专业人员审核回复。"
               },
               {
                 "t": "p",
-                "x": "在PD与MSA的区分上，冻结的T1-Top20模型在外部研究级队列（n = 227）中的合并AUROC为0.88，并识别出从特发性REM睡眠行为障碍表型转化为PD的25人中的19人。推广模型在clinical-MRI队列（2D T1，n = 303）中的合并AUROC为0.84。"
+                "x": "在心理健康支持方面，63.9%的人最认可3个月后可获得的人类治疗师，高于1个月后可用的治疗师监督AI(50.2%)和可立即使用的纯AI(44.3%)。"
+              },
+              {
+                "t": "p",
+                "x": "研究结果按出生世代等因素进行了分层。作者总结称，与医疗问题和心理健康支持相比，人们在低风险任务上更愿意接受更快的AI；为患者提供在及时性与人工审核之间进行取舍的选项，可能对他们有益。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La MRI de rutina ayuda a la AI\na separar Parkinson y MSA",
-          "body": "Un modelo multicéntrico distingue el Parkinson de la atrofia multisistémica con MRI T1-weighted de rutina.",
-          "mini_headline": "AI con MRI separa PD de MSA",
+          "headline": "Respuestas rápidas de IA o\nesperar a un humano",
+          "body": "Un sondeo de JAMA Network Open pregunta a adultos de EE. UU. si una IA más rápida compensa omitir la revisión humana.",
+          "mini_headline": "Rapidez de la IA frente a revisión humana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Las MRI multimodales de grado de investigación muestran potencial para diferenciar la enfermedad de Parkinson (PD) de la atrofia multisistémica (MSA), pero su traslado a la clínica está limitado por el costo, el tiempo de adquisición y la carga de procesamiento. Los autores desarrollaron un modelo de aprendizaje automático basado en MRI estructural T1-weighted (MRI-based) para diferenciar el parkinsonismo y lo generalizaron a la MRI clínica 2D anisotrópica de rutina."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
-                "cap": "Del benchmark multimodal a la firma clínica, la validación con datos de investigación y la cohorte externa de clinical-MRI."
+                "x": "Un estudio transversal publicado en JAMA Network Open encuestó a 1,185 adultos de EE. UU. (del 17 de junio al 26 de julio de 2024) sobre si preferían respuestas más rápidas de IA o respuestas más lentas revisadas por profesionales de la salud a los mensajes del portal del paciente, y cómo valoraban las opciones de IA para el apoyo en salud mental."
               },
               {
                 "t": "p",
-                "x": "Con una cohorte multicéntrica de 969 participantes y un marco jerárquico de descubrimiento–verificación–traslación, un modelo multimodal de referencia alcanzó un AUROC de 0.98, mientras que el modelo unimodal simplificado T1-Top20 logró 0.93 en la discriminación multiclase (controles sanos, PD, MSA)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
-                "cap": "Curvas ROC y el conjunto combinado de características Top-20 para la clasificación final."
+                "x": "En mensajes logísticos como citas y renovación de recetas, el 57.4% prefirió una respuesta rápida de IA; en mensajes generales, el 50.6%. En mensajes médicos, el 63.1% prefirió esperar a que un profesional de la salud revisara la respuesta."
               },
               {
                 "t": "p",
-                "x": "Para PD frente a MSA, el modelo T1-Top20 congelado logró un AUROC combinado de 0.88 en la cohorte externa de grado de investigación (n = 227) e identificó a 19 de 25 personas que pasaron de un trastorno de conducta del sueño REM idiopático a PD. El modelo generalizado logró un AUROC combinado de 0.84 en la cohorte de clinical-MRI (2D T1, n = 303)."
+                "x": "Para el apoyo en salud mental, el 63.9% respaldó en mayor medida a un terapeuta humano disponible en 3 meses, por delante de la IA supervisada por un terapeuta en 1 mes (50.2%) y la IA sola disponible de inmediato (44.3%)."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados se estratificaron por generación de nacimiento y otros factores. Los autores concluyen que las personas están más abiertas a una IA más rápida en tareas de bajo riesgo que en preguntas médicas y apoyo en salud mental, y que los pacientes podrían beneficiarse de opciones que equilibren la rapidez frente a la revisión humana."
               }
             ]
           }
@@ -1151,541 +1033,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "일반 MRI로 AI가\n파킨슨병·MSA 구분",
-          "body": "다기관 모델이 일반 T1-weighted MRI로 파킨슨병과 MSA를 가른다.",
-          "mini_headline": "MRI AI, PD와 MSA 구분",
+          "headline": "빠른 AI 답변이냐\n사람을 기다리느냐",
+          "body": "JAMA 조사가 미국 성인에게 빠른 AI 답변과 사람 검토 중 선택을 물었다.",
+          "mini_headline": "AI의 속도냐 사람의 검토냐",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "연구용 다중모드 MRI 스캔은 파킨슨병(PD)과 다계통위축증(MSA)을 구별할 가능성을 보여 왔지만, 비용과 촬영 시간, 처리 부담 탓에 임상 적용은 제한적이다. 연구진은 파킨슨증을 구별하는 T1-weighted 구조 MRI 기반(MRI-based) 머신러닝 모델을 개발하고, 이를 일상적인 비등방성 2D 임상 MRI로 일반화했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
-                "cap": "다중모드 벤치마크에서 임상 시그니처, 연구용 데이터 검증, 외부 임상 MRI(clinical-MRI) 코호트까지."
+                "x": "JAMA Network Open에 실린 단면 연구는 미국 성인 1,185명을 대상으로(2024년 6월 17일~7월 26일) 환자 포털 메시지에 대해 빠른 AI 답변과 의료 전문가가 검토한 느린 답변 중 무엇을 선호하는지, 정신건강 지원에서 AI 선택지를 어떻게 평가하는지 조사했다."
               },
               {
                 "t": "p",
-                "x": "969명으로 구성된 다기관 코호트와 발견–검증–전환의 계층적 프레임워크를 활용한 결과, 다중모드 벤치마크 모델은 AUROC 0.98을, 간소화한 단일모드 T1-Top20 모델은 다중 분류(건강 대조군, PD, MSA)에서 0.93을 기록했다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
-                "cap": "ROC 곡선과 최종 분류에 쓴 Top-20 통합 특징 세트."
+                "x": "일정 조율이나 처방 재발급 같은 행정 메시지에서는 57.4%가 빠른 AI 답변을 선호했고, 일반 메시지에서는 50.6%였다. 의학적 메시지에서는 63.1%가 의료 전문가의 검토를 기다리는 쪽을 택했다."
               },
               {
                 "t": "p",
-                "x": "PD와 MSA 구분에서 고정한 T1-Top20 모델은 외부 연구용 코호트(n = 227)에서 통합 AUROC 0.88을 기록했고, 특발성 REM 수면행동장애에서 PD로 표현형 전환한 25명 중 19명을 찾아냈다. 일반화 모델은 clinical-MRI 코호트(2D T1, n = 303)에서 통합 AUROC 0.84를 기록했다."
+                "x": "정신건강 지원에서는 63.9%가 3개월 뒤 만날 수 있는 인간 치료사를 가장 지지했고, 치료사가 모니터링하는 1개월 뒤 AI(50.2%)와 즉시 쓸 수 있는 AI 단독(44.3%)이 뒤를 이었다."
+              },
+              {
+                "t": "p",
+                "x": "결과는 출생 세대 등 여러 요인별로 나눠 분석했다. 저자들은 사람들이 의학적 질문이나 정신건강 지원보다 위험이 낮은 업무에서 빠른 AI에 더 열려 있으며, 신속성과 사람의 검토를 맞바꿀 수 있는 선택지가 환자에게 도움이 될 수 있다고 결론지었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "通常MRIでAIが\nパーキンソン病とMSA識別",
-          "body": "多施設モデルが通常T1-weighted MRIでパーキンソン病と多系統萎縮症を見分ける。",
-          "mini_headline": "MRIのAIがPDとMSAを識別",
+          "headline": "速いAIの回答か\n人の確認を待つか",
+          "body": "JAMAの調査は、米国成人にポータルで速いAI回答と人の確認のどちらを選ぶかを尋ねた。",
+          "mini_headline": "AIの速さか、人の確認か",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究用のマルチモーダルMRIは、パーキンソン病(PD)と多系統萎縮症(MSA)を鑑別できる可能性を示しているが、コストや撮像時間、処理負担のため臨床応用は限られている。著者らはパーキンソニズムを鑑別するT1-weighted構造MRIベース(MRI-based)の機械学習モデルを開発し、日常的な異方性2D臨床MRIに一般化した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
-                "cap": "マルチモーダルのベンチマークから臨床シグネチャー、研究用データでの検証、外部clinical-MRIコホートまで。"
+                "x": "JAMA Network Openに掲載された横断研究は、米国成人1,185人(2024年6月17日〜7月26日)を対象に、患者ポータルのメッセージへの返信として速いAIの回答と、医療専門職が確認した遅い回答のどちらを好むか、またメンタルヘルス支援でAIの選択肢をどう評価するかを調べた。"
               },
               {
                 "t": "p",
-                "x": "969人の多施設コホートと、発見–検証–応用の階層的フレームワークを用いた結果、マルチモーダルのベンチマークモデルはAUROC 0.98を、簡素化した単一モダリティのT1-Top20モデルは多クラス判別(健常対照、PD、MSA)で0.93を達成した。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
-                "cap": "ROC曲線と、最終分類に用いた統合Top-20特徴量セット。"
+                "x": "予約調整や処方の再発行といった事務的なメッセージでは57.4%が速いAIの回答を好み、一般的なメッセージでは50.6%だった。医学的なメッセージでは63.1%が医療専門職による回答の確認を待つほうを選んだ。"
               },
               {
                 "t": "p",
-                "x": "PDとMSAの鑑別では、固定したT1-Top20モデルが外部の研究用コホート(n = 227)で統合AUROC 0.88を示し、特発性REM睡眠行動障害からPDへ表現型転換した25人中19人を識別した。一般化モデルはclinical-MRIコホート(2D T1、n = 303)で統合AUROC 0.84を達成した。"
+                "x": "メンタルヘルス支援では、63.9%が3か月後に利用できる人間のセラピストを最も支持し、セラピストが監督する1か月後のAI(50.2%)、すぐに使えるAI単独(44.3%)を上回った。"
+              },
+              {
+                "t": "p",
+                "x": "結果は出生世代などの要因別に層別化された。著者らは、人々は医学的な質問やメンタルヘルス支援よりも、リスクの低い作業で速いAIを受け入れやすく、迅速さと人による確認を引き換えにできる選択肢が患者の役に立ちうると結論づけている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "常规MRI助AI区分\n帕金森病与MSA",
-          "body": "一个多中心模型利用常规T1-weighted MRI区分帕金森病与多系统萎缩。",
-          "mini_headline": "MRI AI区分PD与MSA",
+          "headline": "要AI的快速回复\n还是等人工审核",
+          "body": "JAMA Network Open调查询问美国成年人是否愿为更快的AI回复放弃人工审核。",
+          "mini_headline": "AI速度与人工审核之争",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究级多模态MRI扫描在区分帕金森病（PD）与多系统萎缩（MSA）方面显示出潜力，但成本、采集时间和处理负担限制了其临床转化。作者开发了一种基于T1-weighted结构MRI（MRI-based）的机器学习模型来区分帕金森综合征，并将其推广至常规各向异性2D临床MRI。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
-                "cap": "从多模态基准到临床特征、研究级验证及外部clinical-MRI队列。"
+                "x": "JAMA Network Open发表的一项横断面研究调查了1,185名美国成年人(2024年6月17日至7月26日)，了解他们对患者门户消息更倾向于快速的AI回复，还是经医疗专业人员审核的较慢回复，以及他们如何看待心理健康支持中的AI选项。"
               },
               {
                 "t": "p",
-                "x": "研究利用969名参与者的多中心队列和“发现–验证–转化”分层框架，多模态基准模型的AUROC达0.98，精简的单模态T1-Top20模型在多分类判别（健康对照、PD、MSA）中达0.93。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
-                "cap": "ROC曲线及用于最终分类的合并Top-20特征集。"
+                "x": "对于预约安排和续药等事务性消息，57.4%的人更愿意接受快速的AI回复；对于一般消息，这一比例为50.6%。对于医疗类消息，63.1%的人更愿意等待医疗专业人员审核回复。"
               },
               {
                 "t": "p",
-                "x": "在PD与MSA的区分上，冻结的T1-Top20模型在外部研究级队列（n = 227）中的合并AUROC为0.88，并识别出从特发性REM睡眠行为障碍表型转化为PD的25人中的19人。推广模型在clinical-MRI队列（2D T1，n = 303）中的合并AUROC为0.84。"
+                "x": "在心理健康支持方面，63.9%的人最认可3个月后可获得的人类治疗师，高于1个月后可用的治疗师监督AI(50.2%)和可立即使用的纯AI(44.3%)。"
+              },
+              {
+                "t": "p",
+                "x": "研究结果按出生世代等因素进行了分层。作者总结称，与医疗问题和心理健康支持相比，人们在低风险任务上更愿意接受更快的AI；为患者提供在及时性与人工审核之间进行取舍的选项，可能对他们有益。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La MRI de rutina ayuda a la AI\na separar Parkinson y MSA",
-          "body": "Un modelo multicéntrico distingue el Parkinson de la atrofia multisistémica con MRI T1-weighted de rutina.",
-          "mini_headline": "AI con MRI separa PD de MSA",
+          "headline": "Respuestas rápidas de IA o\nesperar a un humano",
+          "body": "Un sondeo de JAMA Network Open pregunta a adultos de EE. UU. si una IA más rápida compensa omitir la revisión humana.",
+          "mini_headline": "Rapidez de la IA frente a revisión humana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Las MRI multimodales de grado de investigación muestran potencial para diferenciar la enfermedad de Parkinson (PD) de la atrofia multisistémica (MSA), pero su traslado a la clínica está limitado por el costo, el tiempo de adquisición y la carga de procesamiento. Los autores desarrollaron un modelo de aprendizaje automático basado en MRI estructural T1-weighted (MRI-based) para diferenciar el parkinsonismo y lo generalizaron a la MRI clínica 2D anisotrópica de rutina."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig4_HTML.png",
-                "cap": "Del benchmark multimodal a la firma clínica, la validación con datos de investigación y la cohorte externa de clinical-MRI."
+                "x": "Un estudio transversal publicado en JAMA Network Open encuestó a 1,185 adultos de EE. UU. (del 17 de junio al 26 de julio de 2024) sobre si preferían respuestas más rápidas de IA o respuestas más lentas revisadas por profesionales de la salud a los mensajes del portal del paciente, y cómo valoraban las opciones de IA para el apoyo en salud mental."
               },
               {
                 "t": "p",
-                "x": "Con una cohorte multicéntrica de 969 participantes y un marco jerárquico de descubrimiento–verificación–traslación, un modelo multimodal de referencia alcanzó un AUROC de 0.98, mientras que el modelo unimodal simplificado T1-Top20 logró 0.93 en la discriminación multiclase (controles sanos, PD, MSA)."
-              },
-              {
-                "t": "img",
-                "src": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
-                "cap": "Curvas ROC y el conjunto combinado de características Top-20 para la clasificación final."
+                "x": "En mensajes logísticos como citas y renovación de recetas, el 57.4% prefirió una respuesta rápida de IA; en mensajes generales, el 50.6%. En mensajes médicos, el 63.1% prefirió esperar a que un profesional de la salud revisara la respuesta."
               },
               {
                 "t": "p",
-                "x": "Para PD frente a MSA, el modelo T1-Top20 congelado logró un AUROC combinado de 0.88 en la cohorte externa de grado de investigación (n = 227) e identificó a 19 de 25 personas que pasaron de un trastorno de conducta del sueño REM idiopático a PD. El modelo generalizado logró un AUROC combinado de 0.84 en la cohorte de clinical-MRI (2D T1, n = 303)."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "medicine-hira-image-deletion",
-      "source_lang": "ko",
-      "tool": "Medicine",
-      "eyebrow": "AI NEWS",
-      "headline": "심평원 의료영상 삭제\n국감서 데이터 관리 질타",
-      "body": "심평원이 저장공간 부족으로 과거 의료영상을 기준 없이 삭제해 국감에서 질타받았다.",
-      "mini_headline": "심평원 의료영상 삭제 질타",
-      "source": "메디게이트뉴스",
-      "url": "https://www.medigatenews.com/news/1687364519",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://medigatenews.com/file/news/534168",
-            "cap": "사진=국회방송"
-          },
-          {
-            "t": "p",
-            "x": "건강보험심사평가원이 저장공간 부족을 이유로 과거 의료영상 데이터를 삭제하고, 삭제 기준과 데이터 표준화도 제대로 갖추지 못한 사실이 16일 국회 보건복지위원회 국정감사에서 드러나며 질타를 받았다."
-          },
-          {
-            "t": "p",
-            "x": "더불어민주당 권칠승 의원은 \"요즘 AI 시대라고 말하지만 실체를 들여다보면 데이터 싸움의 시대\"라며 심평원 의료영상 보유량을 추궁했다."
-          },
-          {
-            "t": "img",
-            "src": "https://medigatenews.com/file/news/534166",
-            "cap": "사진=국회방송"
-          },
-          {
-            "t": "p",
-            "x": "자료에 따르면 2021~2024년 의료영상 보유량은 연도별 약 500만~1300만건이었지만 2025년은 약 2억3000만건, 올해는 9월까지만 약 2억건에 달했다. 권 의원은 \"2024년도 이전에 있던 의료영상을 삭제해서 그렇다\"며 과거 자료의 약 90%를 삭제한 셈이라고 추산했고, 삭제 기준도 없다고 지적했다."
-          },
-          {
-            "t": "p",
-            "x": "데이터 표준화 비율은 1~3% 수준에 머물렀고, 3년간 20억원을 들인 데이터 실증랩은 2021년 이후 외부 AI 개발 기업 활용 실적이 0건이었다. 질의 말미에는 \"재산을 다 없앤 것이나 마찬가지\"라는 비판도 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "홍승권 심평원장은 저장공간 문제와 내부 관리기준 미비를 인정하며 \"산업계에서 AI 학습에 쓸 수 있는 양질의 데이터를 표준화하겠다\"고 밝혔다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "심평원 의료영상 삭제\n국감서 데이터 관리 질타",
-          "body": "심평원이 저장공간 부족으로 과거 의료영상을 기준 없이 삭제해 국감에서 질타받았다.",
-          "mini_headline": "심평원 의료영상 삭제 질타",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534168",
-                "cap": "사진=국회방송"
+                "x": "Para el apoyo en salud mental, el 63.9% respaldó en mayor medida a un terapeuta humano disponible en 3 meses, por delante de la IA supervisada por un terapeuta en 1 mes (50.2%) y la IA sola disponible de inmediato (44.3%)."
               },
               {
                 "t": "p",
-                "x": "건강보험심사평가원이 저장공간 부족을 이유로 과거 의료영상 데이터를 삭제하고, 삭제 기준과 데이터 표준화도 제대로 갖추지 못한 사실이 16일 국회 보건복지위원회 국정감사에서 드러나며 질타를 받았다."
-              },
-              {
-                "t": "p",
-                "x": "더불어민주당 권칠승 의원은 \"요즘 AI 시대라고 말하지만 실체를 들여다보면 데이터 싸움의 시대\"라며 심평원 의료영상 보유량을 추궁했다."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534166",
-                "cap": "사진=국회방송"
-              },
-              {
-                "t": "p",
-                "x": "자료에 따르면 2021~2024년 의료영상 보유량은 연도별 약 500만~1300만건이었지만 2025년은 약 2억3000만건, 올해는 9월까지만 약 2억건에 달했다. 권 의원은 \"2024년도 이전에 있던 의료영상을 삭제해서 그렇다\"며 과거 자료의 약 90%를 삭제한 셈이라고 추산했고, 삭제 기준도 없다고 지적했다."
-              },
-              {
-                "t": "p",
-                "x": "데이터 표준화 비율은 1~3% 수준에 머물렀고, 3년간 20억원을 들인 데이터 실증랩은 2021년 이후 외부 AI 개발 기업 활용 실적이 0건이었다. 질의 말미에는 \"재산을 다 없앤 것이나 마찬가지\"라는 비판도 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "홍승권 심평원장은 저장공간 문제와 내부 관리기준 미비를 인정하며 \"산업계에서 AI 학습에 쓸 수 있는 양질의 데이터를 표준화하겠다\"고 밝혔다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "HIRA deleted medical images,\ndata handling rebuked in audit",
-          "body": "HIRA was rebuked at a parliamentary audit for deleting past medical images without criteria, citing a lack of storage.",
-          "mini_headline": "HIRA rebuked over image deletion",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534168",
-                "cap": "Photo: National Assembly Television"
-              },
-              {
-                "t": "p",
-                "x": "The Health Insurance Review and Assessment Service (HIRA) was rebuked at the National Assembly Health and Welfare Committee's parliamentary audit on the 16th after it emerged that it had deleted past medical imaging data, citing a lack of storage space, and had not properly put in place deletion criteria or data standardization."
-              },
-              {
-                "t": "p",
-                "x": "Rep. Kwon Chil-seung of the Democratic Party pressed HIRA on the volume of medical images it holds, saying, \"People call these days the AI era, but if you look at the substance, it is an era of fighting over data.\""
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534166",
-                "cap": "Photo: National Assembly Television"
-              },
-              {
-                "t": "p",
-                "x": "According to the data, medical image holdings were about 5 million to 13 million per year from 2021 to 2024, but reached about 230 million in 2025 and about 200 million in just the first 9 months of this year. Kwon said, \"That is because the medical images from before 2024 were deleted,\" estimating that about 90% of past data had in effect been deleted, and pointed out that there were no deletion criteria either."
-              },
-              {
-                "t": "p",
-                "x": "The data standardization rate stayed at about 1 to 3%, and a data demonstration lab that cost 2 billion won over 3 years has recorded 0 uses by outside AI developers since 2021. At the end of the questioning, critics also said it was \"as good as wiping out all of its assets.\""
-              },
-              {
-                "t": "p",
-                "x": "HIRA President Hong Seung-kwon acknowledged the storage problem and the lack of internal management standards, saying, \"We will standardize high-quality data that industry can use for AI training.\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "審査評価院の医療画像削除\n国政監査でデータ管理を叱責",
-          "body": "審査評価院が保存容量不足で過去の医療画像を基準なく削除し、国政監査で批判された。",
-          "mini_headline": "審査評価院、医療画像削除で叱責",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534168",
-                "cap": "写真=国会放送"
-              },
-              {
-                "t": "p",
-                "x": "健康保険審査評価院が保存容量不足を理由に過去の医療画像データを削除し、削除基準やデータ標準化も十分に整えていなかったことが、16日の国会保健福祉委員会の国政監査で明らかになり、叱責を受けた。"
-              },
-              {
-                "t": "p",
-                "x": "共に民主党のクォン・チルスン議員は「最近はAI時代と言われるが、実態を見ればデータの戦いの時代だ」と述べ、審査評価院の医療画像の保有量を追及した。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534166",
-                "cap": "写真=国会放送"
-              },
-              {
-                "t": "p",
-                "x": "資料によると、2021〜2024年の医療画像の保有量は年ごとに約500万〜1300万件だったが、2025年は約2億3000万件、今年は9月までだけで約2億件に達した。クォン議員は「2024年度以前にあった医療画像を削除したからだ」として、過去の資料の約90%を削除した計算になると推計し、削除基準もないと指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "データ標準化の比率は1〜3%にとどまり、3年間で20億ウォンを投じたデータ実証ラボは、2021年以降、外部のAI開発企業による活用実績が0件だった。質疑の終盤には「財産をすべてなくしたも同然だ」との批判も出た。"
-              },
-              {
-                "t": "p",
-                "x": "ホン・スングォン審査評価院長は保存容量の問題と内部管理基準の不備を認め、「産業界がAI学習に使える良質なデータを標準化する」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "审评院删除医疗影像\n国政监查中数据管理遭批",
-          "body": "审评院因存储空间不足无标准删除过往医疗影像，在国政监查中遭到批评。",
-          "mini_headline": "审评院删除医疗影像遭批",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534168",
-                "cap": "图片=国会广播"
-              },
-              {
-                "t": "p",
-                "x": "韩国健康保险审查评价院以存储空间不足为由删除过往医疗影像数据，且未妥善建立删除标准和数据标准化体系，这一事实在16日国会保健福祉委员会国政监查中曝光，并受到批评。"
-              },
-              {
-                "t": "p",
-                "x": "共同民主党议员Kwon Chil-seung表示：“如今都说是AI时代，但看其实质，是数据之争的时代。”并追问审评院的医疗影像保有量。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534166",
-                "cap": "图片=国会广播"
-              },
-              {
-                "t": "p",
-                "x": "资料显示，2021~2024年医疗影像保有量每年约为500万~1300万件，但2025年约为2亿3000万件，今年仅截至9月就达约2亿件。Kwon Chil-seung议员称“这是因为删除了2024年度以前的医疗影像”，推算相当于删除了约90%的过往资料，并指出也没有删除标准。"
-              },
-              {
-                "t": "p",
-                "x": "数据标准化比率仅为1~3%，3年投入20亿韩元的数据实证实验室自2021年以来，外部AI开发企业的使用记录为0件。质询最后还有人批评称“这等于把财产全部毁掉”。"
-              },
-              {
-                "t": "p",
-                "x": "审评院院长Hong Seung-kwon承认存在存储空间问题和内部管理标准缺失，并表示“将把产业界可用于AI训练的优质数据标准化”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "HIRA borró imágenes médicas\ny recibe críticas en auditoría",
-          "body": "HIRA fue criticada en la auditoría estatal por borrar sin criterio imágenes médicas pasadas por falta de espacio.",
-          "mini_headline": "Críticas a HIRA por borrar imágenes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534168",
-                "cap": "Foto: Televisión de la Asamblea Nacional"
-              },
-              {
-                "t": "p",
-                "x": "El Servicio de Revisión y Evaluación de Seguros de Salud (HIRA) recibió críticas en la auditoría estatal de la Comisión de Salud y Bienestar de la Asamblea Nacional del día 16, al conocerse que había borrado datos de imágenes médicas antiguas alegando falta de espacio de almacenamiento y que no contaba con criterios de borrado ni con una estandarización de datos adecuada."
-              },
-              {
-                "t": "p",
-                "x": "El diputado Kwon Chil-seung, del Partido Democrático, afirmó: \"Se dice que vivimos en la era de la AI, pero en el fondo es una era de lucha por los datos\", y pidió explicaciones sobre el volumen de imágenes médicas que conserva HIRA."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534166",
-                "cap": "Foto: Televisión de la Asamblea Nacional"
-              },
-              {
-                "t": "p",
-                "x": "Según los datos, el volumen de imágenes médicas conservadas de 2021 a 2024 fue de entre unos 5 millones y 13 millones al año, pero en 2025 llegó a unos 230 millones y este año, solo en los primeros 9 meses, a unos 200 millones. Kwon señaló: \"Es porque se borraron las imágenes médicas anteriores a 2024\", estimó que en la práctica se eliminó alrededor del 90% de los datos antiguos y criticó que tampoco existieran criterios de borrado."
-              },
-              {
-                "t": "p",
-                "x": "La tasa de estandarización de datos se quedó en torno al 1 a 3%, y el laboratorio de validación de datos, en el que se invirtieron 2 mil millones de wones durante 3 años, registró 0 usos por parte de empresas externas de desarrollo de AI desde 2021. Al final de la sesión también se oyó la crítica de que era \"como haber perdido todo el patrimonio\"."
-              },
-              {
-                "t": "p",
-                "x": "El presidente de HIRA, Hong Seung-kwon, reconoció el problema de almacenamiento y la falta de normas internas de gestión, y afirmó: \"Estandarizaremos datos de calidad que la industria pueda usar para el entrenamiento de AI\"."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "HIRA deleted medical images,\ndata handling rebuked in audit",
-          "body": "HIRA was rebuked at a parliamentary audit for deleting past medical images without criteria, citing a lack of storage.",
-          "mini_headline": "HIRA rebuked over image deletion",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534168",
-                "cap": "Photo: National Assembly Television"
-              },
-              {
-                "t": "p",
-                "x": "The Health Insurance Review and Assessment Service (HIRA) was rebuked at the National Assembly Health and Welfare Committee's parliamentary audit on the 16th after it emerged that it had deleted past medical imaging data, citing a lack of storage space, and had not properly put in place deletion criteria or data standardization."
-              },
-              {
-                "t": "p",
-                "x": "Rep. Kwon Chil-seung of the Democratic Party pressed HIRA on the volume of medical images it holds, saying, \"People call these days the AI era, but if you look at the substance, it is an era of fighting over data.\""
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534166",
-                "cap": "Photo: National Assembly Television"
-              },
-              {
-                "t": "p",
-                "x": "According to the data, medical image holdings were about 5 million to 13 million per year from 2021 to 2024, but reached about 230 million in 2025 and about 200 million in just the first 9 months of this year. Kwon said, \"That is because the medical images from before 2024 were deleted,\" estimating that about 90% of past data had in effect been deleted, and pointed out that there were no deletion criteria either."
-              },
-              {
-                "t": "p",
-                "x": "The data standardization rate stayed at about 1 to 3%, and a data demonstration lab that cost 2 billion won over 3 years has recorded 0 uses by outside AI developers since 2021. At the end of the questioning, critics also said it was \"as good as wiping out all of its assets.\""
-              },
-              {
-                "t": "p",
-                "x": "HIRA President Hong Seung-kwon acknowledged the storage problem and the lack of internal management standards, saying, \"We will standardize high-quality data that industry can use for AI training.\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "審査評価院の医療画像削除\n国政監査でデータ管理を叱責",
-          "body": "審査評価院が保存容量不足で過去の医療画像を基準なく削除し、国政監査で批判された。",
-          "mini_headline": "審査評価院、医療画像削除で叱責",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534168",
-                "cap": "写真=国会放送"
-              },
-              {
-                "t": "p",
-                "x": "健康保険審査評価院が保存容量不足を理由に過去の医療画像データを削除し、削除基準やデータ標準化も十分に整えていなかったことが、16日の国会保健福祉委員会の国政監査で明らかになり、叱責を受けた。"
-              },
-              {
-                "t": "p",
-                "x": "共に民主党のクォン・チルスン議員は「最近はAI時代と言われるが、実態を見ればデータの戦いの時代だ」と述べ、審査評価院の医療画像の保有量を追及した。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534166",
-                "cap": "写真=国会放送"
-              },
-              {
-                "t": "p",
-                "x": "資料によると、2021〜2024年の医療画像の保有量は年ごとに約500万〜1300万件だったが、2025年は約2億3000万件、今年は9月までだけで約2億件に達した。クォン議員は「2024年度以前にあった医療画像を削除したからだ」として、過去の資料の約90%を削除した計算になると推計し、削除基準もないと指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "データ標準化の比率は1〜3%にとどまり、3年間で20億ウォンを投じたデータ実証ラボは、2021年以降、外部のAI開発企業による活用実績が0件だった。質疑の終盤には「財産をすべてなくしたも同然だ」との批判も出た。"
-              },
-              {
-                "t": "p",
-                "x": "ホン・スングォン審査評価院長は保存容量の問題と内部管理基準の不備を認め、「産業界がAI学習に使える良質なデータを標準化する」と述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "审评院删除医疗影像\n国政监查中数据管理遭批",
-          "body": "审评院因存储空间不足无标准删除过往医疗影像，在国政监查中遭到批评。",
-          "mini_headline": "审评院删除医疗影像遭批",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534168",
-                "cap": "图片=国会广播"
-              },
-              {
-                "t": "p",
-                "x": "韩国健康保险审查评价院以存储空间不足为由删除过往医疗影像数据，且未妥善建立删除标准和数据标准化体系，这一事实在16日国会保健福祉委员会国政监查中曝光，并受到批评。"
-              },
-              {
-                "t": "p",
-                "x": "共同民主党议员Kwon Chil-seung表示：“如今都说是AI时代，但看其实质，是数据之争的时代。”并追问审评院的医疗影像保有量。"
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534166",
-                "cap": "图片=国会广播"
-              },
-              {
-                "t": "p",
-                "x": "资料显示，2021~2024年医疗影像保有量每年约为500万~1300万件，但2025年约为2亿3000万件，今年仅截至9月就达约2亿件。Kwon Chil-seung议员称“这是因为删除了2024年度以前的医疗影像”，推算相当于删除了约90%的过往资料，并指出也没有删除标准。"
-              },
-              {
-                "t": "p",
-                "x": "数据标准化比率仅为1~3%，3年投入20亿韩元的数据实证实验室自2021年以来，外部AI开发企业的使用记录为0件。质询最后还有人批评称“这等于把财产全部毁掉”。"
-              },
-              {
-                "t": "p",
-                "x": "审评院院长Hong Seung-kwon承认存在存储空间问题和内部管理标准缺失，并表示“将把产业界可用于AI训练的优质数据标准化”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "HIRA borró imágenes médicas\ny recibe críticas en auditoría",
-          "body": "HIRA fue criticada en la auditoría estatal por borrar sin criterio imágenes médicas pasadas por falta de espacio.",
-          "mini_headline": "Críticas a HIRA por borrar imágenes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534168",
-                "cap": "Foto: Televisión de la Asamblea Nacional"
-              },
-              {
-                "t": "p",
-                "x": "El Servicio de Revisión y Evaluación de Seguros de Salud (HIRA) recibió críticas en la auditoría estatal de la Comisión de Salud y Bienestar de la Asamblea Nacional del día 16, al conocerse que había borrado datos de imágenes médicas antiguas alegando falta de espacio de almacenamiento y que no contaba con criterios de borrado ni con una estandarización de datos adecuada."
-              },
-              {
-                "t": "p",
-                "x": "El diputado Kwon Chil-seung, del Partido Democrático, afirmó: \"Se dice que vivimos en la era de la AI, pero en el fondo es una era de lucha por los datos\", y pidió explicaciones sobre el volumen de imágenes médicas que conserva HIRA."
-              },
-              {
-                "t": "img",
-                "src": "https://medigatenews.com/file/news/534166",
-                "cap": "Foto: Televisión de la Asamblea Nacional"
-              },
-              {
-                "t": "p",
-                "x": "Según los datos, el volumen de imágenes médicas conservadas de 2021 a 2024 fue de entre unos 5 millones y 13 millones al año, pero en 2025 llegó a unos 230 millones y este año, solo en los primeros 9 meses, a unos 200 millones. Kwon señaló: \"Es porque se borraron las imágenes médicas anteriores a 2024\", estimó que en la práctica se eliminó alrededor del 90% de los datos antiguos y criticó que tampoco existieran criterios de borrado."
-              },
-              {
-                "t": "p",
-                "x": "La tasa de estandarización de datos se quedó en torno al 1 a 3%, y el laboratorio de validación de datos, en el que se invirtieron 2 mil millones de wones durante 3 años, registró 0 usos por parte de empresas externas de desarrollo de AI desde 2021. Al final de la sesión también se oyó la crítica de que era \"como haber perdido todo el patrimonio\"."
-              },
-              {
-                "t": "p",
-                "x": "El presidente de HIRA, Hong Seung-kwon, reconoció el problema de almacenamiento y la falta de normas internas de gestión, y afirmó: \"Estandarizaremos datos de calidad que la industria pueda usar para el entrenamiento de AI\"."
+                "x": "Los resultados se estratificaron por generación de nacimiento y otros factores. Los autores concluyen que las personas están más abiertas a una IA más rápida en tareas de bajo riesgo que en preguntas médicas y apoyo en salud mental, y que los pacientes podrían beneficiarse de opciones que equilibren la rapidez frente a la revisión humana."
               }
             ]
           }

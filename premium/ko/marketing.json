@@ -1346,6 +1346,134 @@
           "x": "광고주는 공지에서 바로 옵트아웃하거나 광고별 Advantage+ Creative 및 Destination 설정에서 기능을 켜고 끌 수 있다. 미디어 바이어 David Herrmann은 이 기능을 크리에이티브를 다이내믹 상품 광고로 바꾸는 AI 기능이라 부르며 연말 쇼핑 시즌 직전이라는 시점을 문제 삼았다."
         }
       ]
+    },
+    "marketing/marketing-chatgpt-tracking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
+          "cap": "대표 이미지: Tetiana Yurchenko/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Graphite가 추적하는 사이트에서 GA4의 ChatGPT-attributed 세션(ChatGPT 유입으로 분류된 세션)이 10월 9일부터 22%~57% 줄었다고 CEO Ethan Smith는 말했다. 기준치와 비교하면 약 45% 줄어든 셈이다. LLM Pulse에서는 10월 9~11일 ChatGPT 세션이 약 46% 줄었지만 전체 트래픽은 그대로였다."
+        },
+        {
+          "t": "p",
+          "x": "Smith에 따르면 ChatGPT가 답변 본문 속 링크를 utm_source=chatgpt.com 태그나 리퍼러 없이 열기 시작하면서 이런 방문이 Direct로 잡힐 수 있다. 방문 일부가 실제로 사라졌는지는 아직 데이터가 모자라 판단하기 어렵다."
+        },
+        {
+          "t": "p",
+          "x": "Adobe의 Cedric Huesler는 약 500개 페이지에서 ChatGPT 방문이 하루 약 31,000회 줄고 Direct는 약 26,000회 늘어난 것을 확인했다. Profound는 이 현상을 GPT-6 출시 뒤 ChatGPT가 도입한 새 Intelligent UI 답변 형식과 연결 지었다."
+        },
+        {
+          "t": "p",
+          "x": "Huesler에 따르면 OpenAI는 10월 14일 이를 버그로 확인했고 10월 15일 수정 배포를 시작했다. Profound는 공식 발표를 보지 못했다고 밝혔다. Smith와 Huesler는 보고서에 10월 8~15일 기간을 표시하고 ChatGPT와 Direct 트래픽을 나란히 비교하라고 권한다."
+        }
+      ]
+    },
+    "marketing/marketing-videoamp-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "지난달 VideoAmp, Comscore, iSpot은 미국 Joint Industry Committee로부터 재인증을 받았다. 그래도 바이어와 셀러는 아직 Nielsen을 버릴 준비가 안 됐다. 그래서 대안 커런시 업체들은 데이터와 측정 전반으로 초점을 넓히는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "VideoAmp는 여름 동안 인력의 약 20%를 줄였다. 더 많은 업무를 AI에 맡기려는 움직임이다. SVP Andrea Zapata는 미디어 바이어가 AI의 도움으로 캠페인을 더 똑똑하게 기획해 의도한 성과보다 나은 결과를 내게 하는 것이 목표라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "최고제품책임자 Josh Hudgins는 기획과 측정 워크플로를 AI 에이전트와 연결하는 일이 최우선 과제의 하나로 꼽았다. 에이전트는 바이어가 집행 중인 캠페인을 최적화하도록 도울 수 있다. 예를 들어 한 인벤토리 소스의 지출은 줄이고, 순 도달을 효율적으로 늘려 주는 인벤토리를 사는 식이다."
+        },
+        {
+          "t": "p",
+          "x": "그래도 AI가 돌아가려면 클린룸과 퍼블리셔의 로그 단위 데이터로 얻는 퍼스트파티 시청자 데이터, 그리고 ACR 데이터가 있어야 한다. Zapata는 “결국 우리 모두가 얻으려는 것은 성과”라고 말했다."
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-learning": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "HaoMqRGlmp8"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads 제품 매니저 Tal Akabas는 10월 15일 Google의 Ads Decoded 팟캐스트에서 기존 캠페인의 목표나 예산을 바꿔도 학습 기간에 들어가지 않는다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Akabas는 “목표나 예산을 바꿀 때 실제로는 학습 기간이 없다”며 “Google Ads 백엔드 시스템은 목표 변경에 정비례해 입찰가를 바로 조정한다”고 말했다. 사전 정보가 없는 완전히 새로운 캠페인이라면 “어느 정도 학습 기간이 생길 수 있다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "다만 이 말이 통하는 범위는 좁다. 안정적으로 돌아가는 캠페인의 목표·예산 수정에만 해당하고, 새 애셋이나 타기팅, 입찰 전략 변경은 여기에 들지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "에피소드에서는 출시 소식도 함께 나왔다. 프로모션 모드는 Search와 PMax에서 베타를 벗어난다. 신규 고객용 보고 전용 모드는 배포 중이고, 재참여 전용 모드는 Performance Max에 먼저 나온 뒤 Search와 Shopping으로 이어진다."
+        }
+      ]
+    },
+    "marketing/marketing-fender-marshall": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "브랜드는 ChatGPT에 자사 제품을 어떻게 말하라고 지시할 수 없지만, 브랜디드 콘텐츠에 더 투자해 챗봇 밑단의 모델이 가져다 쓸 재료를 늘릴 수는 있다."
+        },
+        {
+          "t": "p",
+          "x": "Fender는 웹사이트를 스토리텔링의 “정문”으로 개편하고 브랜드 유산과 Jimi Hendrix 같은 아티스트를 다룬 짧은 영상을 올렸다. 제품을 알아보는 단계에서 더 눈에 띄려는 계산도 깔려 있다. Skyword 조사에 따르면 U.S. 소비자 10명 중 7명이 제품을 알아볼 때 ChatGPT나 AI 요약을 쓴다."
+        },
+        {
+          "t": "p",
+          "x": "Hendrix가 연주할 때 쓰던 앰프를 만든 Marshall은 YouTube 시리즈 ‘Dead Venues’를 앞세운다. 부사장 Christine Kennedy Grant는 AI Overviews와 LLM 도구를 두고 “우리가 반드시 모습을 드러내야 할 중요한 곳”이라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Attention Arc의 Urvashi Manral은 “ChatGPT는 새로운 입소문”이라고 말했다. Kantar 조사로는 마케터의 4분의 3(75%)이 내년에 AI 어시스턴트 속 노출을 위해 지출을 늘릴 계획이다."
+        }
+      ]
+    },
+    "marketing/marketing-meta-crawl-terms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "10월 30일 시행되는 Meta의 개정 상업 약관(Commercial Terms)에 따르면 회사는 자사 제품을 쓰는 기업과 연관된 웹사이트를 크롤링하고 그 콘텐츠로 해당 제품을 학습시킬 수 있다. 광고 집행부터 Facebook 페이지 관리까지 Meta 제품을 업무에 쓰기만 하면 이 약관이 적용된다."
+        },
+        {
+          "t": "p",
+          "x": "Nieman Lab 보도에 따르면 법률 전문가 세 명은 이 문구를 근거로 Meta가 AI 제품 학습용으로 뉴스 사이트를 스크래핑할 수 있다는 주장이 나올 수 있다고 본다. Meta 대변인 Andy Stone은 이 요약이 틀렸다면서 이번 개정은 정확한 제품 정보를 가져오려는 것이며 \"뉴스 사이트 스크래핑에 관한 것이 아니다\"라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Meta의 광고 약관은 이미 학습을 포함한 용도로 광고주 웹사이트 크롤링을 허용한다. 10월 개정판은 그 범위를 광고를 사지 않는 기업까지 넓힌다. 이 조항은 Meta가 해당 페이지에 접근하려고 \"테스트 자격 증명을 생성\"하는 것도 허용한다."
+        },
+        {
+          "t": "p",
+          "x": "Meta는 콘텐츠 소유자가 여전히 robots.txt로 접근을 관리할 수 있다고 하지만 개정된 두 약관 어디에도 그런 말은 없다. 사이트 소유자는 AI 학습용 크롤러인 Meta-ExternalAgent는 막고 Meta-WebIndexer는 열어 둘 수 있다."
+        }
+      ]
     }
   }
 }

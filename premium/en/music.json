@@ -7556,6 +7556,156 @@
           "x": "The findings reveal key strengths and vulnerabilities of existing detectors and offer practical insights for building more reliable AI music detection systems."
         }
       ]
+    },
+    "music/music-difro2": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "DY5QI4idlRU"
+        },
+        {
+          "t": "p",
+          "x": "Initial Audio has released Difro 2, which it calls its most powerful AI MIDI generator yet, as a free download."
+        },
+        {
+          "t": "p",
+          "x": "The company says it completely retrained the AI model from the ground up, delivering a massive leap in quality, musicality and creativity."
+        },
+        {
+          "t": "p",
+          "x": "Difro 2 takes your existing MIDI melodies and reimagines them into fresh new ideas while preserving the original vibe, character and musical DNA."
+        },
+        {
+          "t": "p",
+          "x": "What’s new: a completely retrained AI model, dramatically improved MIDI generation quality, better preservation of the original melody’s DNA, more musical and coherent results, and endless new variations from existing MIDI ideas."
+        },
+        {
+          "t": "p",
+          "x": "In the 14-minute first-look video, Initial Audio puts Difro 2 to the test, generating melodies live."
+        }
+      ]
+    },
+    "music/music-helix-stadium-stems": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The new firmware update for the Line 6 Helix Stadium includes a range of tasty new amps and effects, as well as a new stem separation feature."
+        },
+        {
+          "t": "p",
+          "x": "Firmware Update 1.4 (“The Eras Update”) is free and brings 14 Agoura amp channel settings derived from six different amps, for a total of 67 Agoura channels. New options include the Brit SL100, modeled on versions of the Marshall Plexi Superlead, the Omega Granophyre, based on the Granophyre 6L6, and the Prosecutor, the latest evolution of the Line 6 Litigator."
+        },
+        {
+          "t": "video",
+          "yt": "StAMPE_XF1M"
+        },
+        {
+          "t": "p",
+          "x": "There are also six new distortion and modulation effects, enhancements for current Agoura amp models, and you can edit with the Helix Stadium app when connected via USB. With the help of Yamaha’s Music Connect, you can now import an audio file into the Helix Stadium’s Showcase engine and split it into five separate files: drums, bass, guitar, vocals, and other."
+        },
+        {
+          "t": "p",
+          "x": "The update installs via Wi-Fi using a Line 6 Account or manually via USB with the Helix Stadium app."
+        }
+      ]
+    },
+    "music/music-bpb-ai-plugins": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
+        },
+        {
+          "t": "p",
+          "x": "I’ve noticed a huge shift in the plugin industry recently. The sheer number of plugins released daily has made it hard to keep up, and the average quality has dropped drastically."
+        },
+        {
+          "t": "p",
+          "x": "A lot of it comes down to the fact that AI tools are now being used to speed up coding or even allow users to create software without understanding the code underneath. This leads to potential quality issues, although some of these “vibe-coded” tools are extremely well received by users."
+        },
+        {
+          "t": "p",
+          "x": "Another aspect is AI tools that generate music or audio from text prompts. On the other end of the spectrum, there’s machine learning used to model hardware gear, especially virtual guitar amps, which typically receive overwhelming praise."
+        },
+        {
+          "t": "p",
+          "x": "I’ve been heavily filtering the software that makes it into BPB’s news section, doing my best to keep the so-called “AI slop” out. But the volume keeps growing, and the line has to be drawn somewhere."
+        },
+        {
+          "t": "p",
+          "x": "The poll is short. Please answer by Tuesday, October 20th. I will then share the results and use them to figure out the right way forward for BPB. — Tomislav Zlatic"
+        }
+      ]
+    },
+    "music/music-gugak-vocalset": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Gugak-VocalSet is the first publicly available audio dataset for Korean traditional singing with dense annotations of sigimsae, a structured pitch contour system of vocal expressions."
+        },
+        {
+          "t": "p",
+          "x": "It contains 24.5 hours of unaccompanied solo vocal recordings across 305 tracks of representative repertoire curated by the National Gugak Center, performed by 20 professional singers in a controlled studio environment with fixed key and tempo."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
+          "cap": "Genre hierarchy of Gugak-VocalSet. Numbers show track counts per category."
+        },
+        {
+          "t": "p",
+          "x": "Beyond genre, lyrics and mood/timbre tags, it provides a unified sigimsae ontology and about 68,000 segments (71,700 instances including multi-label) of sigimsae annotations, labeled by 14 expert annotators."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
+          "cap": "Annotation examples: jeongak (top) and minsogak (bottom)."
+        },
+        {
+          "t": "p",
+          "x": "Baseline experiments show domain-informed F0 representations remain competitive with, and on classification surpass, frozen probing of a general-purpose music foundation model."
+        }
+      ]
+    },
+    "music/music-vocaloid7": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+        },
+        {
+          "t": "p",
+          "x": "Yamaha has officially announced VOCALOID7 just under six months after the launch of Hatsune Miku V6. The new “VOCALOID7 Editor” succeeds VOCALOID6 after four years and will introduce a new generation of dedicated voicebanks while continuing to support existing releases dating back to VOCALOID3."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
+        },
+        {
+          "t": "p",
+          "x": "“Hatsune Miku V6” launched on April 14, 2026, with new AI-powered vocals. Crypton Future Media is working with Yamaha on VOCALOID7-compatible versions of the Miku V6 Japanese and English voicebanks, planned free of charge for existing V6 users as early as possible in 2027."
+        },
+        {
+          "t": "p",
+          "x": "Full details of VOCALOID7’s new functions have not yet been revealed. A new voicebank named “asa” will be bundled with the editor."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
+        },
+        {
+          "t": "p",
+          "x": "Internet Co. will release “VOCALOID7 Voicebank AI Megpoid” the same day, based on Megumi Nakajima and optimized for VOCALOID7’s AI engine, with eight selectable voice types. LUCI will also be available at launch via VOCALOID FAN-ding."
+        },
+        {
+          "t": "p",
+          "x": "The “VOCALOID7 Editor” will launch on November 11, 2026 for $129 before tax, while the upgrade edition is normally priced at $69."
+        }
+      ]
     }
   }
 }

@@ -8296,6 +8296,164 @@
           "x": "Raw audio isn’t stored: it is processed in real time and deleted, and transcripts are encrypted with keys the device controls. The Frontier is available now on Amazon; the Eclipse follows soon after."
         }
       ]
+    },
+    "gadgets/gadgets-asusproartp16": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia's RTX Spark chip has finally landed in laptops, with RTX graphics for 3D work, video and gaming plus CUDA to run AI models and agents locally. Tom's Guide tested it in the Asus ProArt P16, a slimmer 16-inch creator laptop with a 120Hz OLED touchscreen and up to 128GB of RAM."
+        },
+        {
+          "t": "p",
+          "x": "The main draw is running your own on-device AI agent — no subscriptions or prompt fees. The tested unit pairs a 20-core RTX Spark N1X CPU and 6144-core GPU with 128GB of RAM and 2TB of storage; it is Windows on Arm, so some apps run through Microsoft's Prism emulation."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+          "cap": "(Image credit: Future / Tom's Guide)"
+        },
+        {
+          "t": "p",
+          "x": "It cut Handbrake 4K-to-1080p transcodes to 02:06, beat the last model's dedicated RTX 4070 in games, and lasted 12 hours and 26 minutes on battery. Apple's MacBook Pro M5 Pro still wins on raw performance."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+          "cap": "(Image credit: Future / Tom's Guide)"
+        },
+        {
+          "t": "p",
+          "x": "When Red Dead Redemption 2 kept crashing, a local Hermes Agent found it was running in Vulkan mode, switched it to DirectX 12 and fixed it. The downsides: fans get loud, the keyboard area gets hot, and it costs $2,799 to $6,999 — 'one of the best AI laptops,' but only for AI power users or 3D creatives."
+        }
+      ]
+    },
+    "gadgets/gadgets-macpaweney": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "MacPaw is releasing Eney, a proactive AI assistant that works across your apps, files, and system to help you get things done. It began in 2019 as an idea for simplifying CleanMyMac through natural-language commands and launches today for Mac and iPhone."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Eney understands the Mac's context — apps, files, calendar meetings — and spots what needs attention, preparing the next step for your approval. Shake your cursor over text (or press Option + W) to invoke Eney Wand. It uses local and cloud models, with custom models developed alongside Liquid AI for Apple hardware."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Mnemos, MacPaw's AI memory system, uses a knowledge graph stored and processed locally on the Mac, though it is still in development. Eney also offers Eney Spell writing help, call transcription without a bot, Mac maintenance alerts, and integrations with Gmail, Slack, Notion, Jira, Linear and more, in eight languages."
+        },
+        {
+          "t": "p",
+          "x": "A 14-day free trial includes 10,000 AI credits; plans run from Starter ($14.99, 10,000 credits) to Power ($49.99, 30,000 credits)."
+        }
+      ]
+    },
+    "gadgets/gadgets-eufywindowe10": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+          "cap": "A reusable adhesive pad holds it against interior glass, and a rear dial angles the lens down by as much as 25 degrees"
+        },
+        {
+          "t": "p",
+          "x": "Eufy has launched the Window Camera E10, a 64.1g security camera that sticks to the inside of a window to watch a driveway, garden or front door without outdoor mounting. It costs $79.99 in the US and £69.99 in the UK, with a two-pack at $149.99, shipping in November."
+        },
+        {
+          "t": "p",
+          "x": "A reusable adhesive sticker fixes it to the glass in under a minute, and a rear dial tilts the lens down by up to 25 degrees to cut empty sky from the frame. Anti-reflection stickers reduce night glare from indoor lights."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+          "cap": "The Window Camera E10"
+        },
+        {
+          "t": "p",
+          "x": "It records 2688 x 1520 video at 15fps through an f/1.0 lens with a 125-degree field of view. Motion detection runs on the device itself, classifying activity as a person, vehicle or pet and sending labelled alerts."
+        },
+        {
+          "t": "p",
+          "x": "Recordings go to a microSD card of up to 256GB; Eufy says AI detection, continuous recording and smart alerts all work without a monthly fee. The E10 has no battery and runs from a plug-in adapter over a 3m USB-C cable."
+        }
+      ]
+    },
+    "gadgets/gadgets-htcviveeagle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In September, HTC started selling its $499 Vive Eagle smart glasses in the US. They have cameras, speakers in the frames and an embedded AI agent, but HTC wants to steer clear of the privacy debate that has dogged Meta's glasses."
+        },
+        {
+          "t": "p",
+          "x": "The AI assistant, Vive AI, can use OpenAI's ChatGPT or Google's Gemini without a login, so users are 'de-identified.' AI Plus is free for two years, then $2.50 a month. Battery life is 4.5 hours of music playback."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Covering the indicator light stops recording, and footage is encrypted and stored on the glasses rather than sent to the phone or cloud. \"We're not a social media company,\" says HTC Vive's Dan McDowell. \"We don't train our AI model or any third-party AI models with any of the information that is used on the glasses.\""
+        },
+        {
+          "t": "p",
+          "x": "The catch: the Eagles look a lot like Meta glasses, so people worried about privacy may not know they are different."
+        }
+      ]
+    },
+    "gadgets/gadgets-heygemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+          "cap": "Xreal Aura"
+        },
+        {
+          "t": "p",
+          "x": "What started off with “Hey Google” and “Ok Google” for Google Assistant now looks like it is heading toward “Hey Gemini.” Digging through the latest version of the Google app, we found strings pointing toward a new “Hey Gemini” hotword for Android XR devices."
+        },
+        {
+          "t": "p",
+          "x": "The strings suggest users will be able to say either “Hey Google” or “Hey Gemini” to activate their AI assistant, and “Ok Google” to start a conversation. The “Hey Gemini” hotword won’t be enabled by default and will require “Wear Detection” to be turned on; the option will sit within the Glasses preferences."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+          "cap": "Xreal Aura"
+        },
+        {
+          "t": "p",
+          "x": "It also seems Google will prioritize your glasses for conversations with Gemini while you’re wearing them, so your smartphone and glasses don’t both activate."
+        },
+        {
+          "t": "p",
+          "x": "We also found strings pointing to a camera integration. Android XR glasses will let users ask things like “What plant am I looking at?” Gemini will be able to turn on the camera and “see” what you’re looking at. Google will likely let you turn this off, and you may still use the camera by saying “turn on the camera” or “turn off the camera.”"
+        },
+        {
+          "t": "p",
+          "x": "The new “Hey Gemini” hotword could also make its way to smartphones."
+        }
+      ]
     }
   }
 }

@@ -1,79 +1,96 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "section": "games",
   "picks": [
     {
-      "title": "\"Our industry is rotting\" and AI \"pushed things over the edge,\" so the DayZ creator wants to change how games are made",
-      "url": "https://www.gamesradar.com/games/our-industry-is-rotting-and-ai-pushed-things-over-the-edge-so-the-creator-of-dayz-wants-to-change-how-games-are-made-with-some-of-the-smartest-devs-in-the-industry/",
-      "source": "GamesRadar+",
+      "title": "As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games",
+      "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
+      "source": "Rock Paper Shotgun",
       "tool": "Games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "A concrete release: Dean Hall launches BRUTAL, a free open-source development framework, with the Kerbal Space Program creator on board, framed as a response to AI. Developers can pick it up directly.",
-      "published_iso": "2026-10-16T20:30:33Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg",
-      "excerpt": "Dean Hall says AI pushed the industry over the edge and launches BRUTAL, a free open-source development framework, with the Kerbal Space Program creator on board."
+      "rationale": "Konami goes on record that people, not AI efficiency gains, drive innovative games. It is a new major-publisher position that joins the Sega and Capcom stances already in the section.",
+      "published_iso": "2026-10-17T17:04:18.959417+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "\"Even if AI use does lead to improvements in production efficiency I believe that the most important factors in producing... innovative video games are people.\""
     },
     {
-      "title": "Anime Gambling Horror Game Ditches Free Steam Demo So It Doesn't Get Ripped Off By AI",
-      "url": "https://kotaku.com/anime-gambling-horror-game-ditches-free-steam-demo-over-fears-of-getting-ripped-off-by-ai-2000746794",
-      "source": "Kotaku",
+      "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
+      "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
+      "source": "PC Gamer",
       "tool": "Games",
       "accent": "#0070f3",
       "motif": "cube",
-      "rationale": "A studio changed its launch strategy, swapping a public demo for a closed beta, out of fear of genAI clones. Earlier cards covered rip-offs after launch; this one is a defensive release decision indie developers can weigh for themselves.",
-      "published_iso": "2026-10-16T18:30:00+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg",
-      "excerpt": "The developers of Drunken Goddess Reflux cancelled their free Steam demo for a closed beta, fearing genAI copycats would clone the game before launch."
+      "rationale": "A vibe-coded web game was pulled after city residents and leaders denounced it. This is a concrete takedown that shows the reputational risk when fast AI prototyping meets real places and people.",
+      "published_iso": "2026-10-16T23:53:11Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi-876-80.webp",
+      "excerpt": "City residents and leaders denounced the free web game, which was taken down."
     },
     {
-      "title": "Masahiro Sakurai says original games will be harder for AI to rip off, but originality also makes them harder to sell",
-      "url": "https://www.gamesradar.com/games/super-smash-bros-and-kirby-creator-masahiro-sakurai-says-original-games-will-be-harder-for-ai-to-rip-off-but-originality-also-makes-your-game-harder-to-sell/",
+      "title": "Accused of using AI in World of Warcraft Forever videos, Blizzard employee says \"hell nah, we have real team members\"",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
       "source": "GamesRadar+",
       "tool": "Games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "rationale": "Sakurai argues that originality is the defense against AI clones, and weighs that against marketability. It pairs naturally with the Drunken Goddess demo decision as design guidance from a top director.",
-      "published_iso": "2026-10-16T16:34:21Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg",
-      "excerpt": "Smash Bros and Kirby creator Masahiro Sakurai argues AI has made existing design problems worse, and that originality is the defense against AI clones even if it hurts marketability."
+      "rationale": "Blizzard states it uses no AI on any of its social content, a clear disclosure line from a major studio at a time when players are quick to call out AI art.",
+      "published_iso": "2026-10-15T15:48:45Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
+      "excerpt": "\"We don't use AI on ANY social content we make\""
     },
     {
-      "title": "Interview: The Video Game Industry's Vibe-Coded Future",
-      "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
-      "source": "Kotaku",
+      "title": "Google Play launches discoverability tool Game Finder using \"gamer DNA\"",
+      "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/",
+      "source": "PocketGamer.biz",
       "tool": "Games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Take-Two's former head of AI and Godot's executive director discuss how vibe coding is flooding game development. It gives practitioners an insider view of the engine and pipeline side of a trend the section has covered only through individual ports and launchers.",
-      "published_iso": "2026-10-15T16:30:35+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg",
-      "excerpt": "Take-Two's former head of AI and Godot Engine's executive director discuss the Claude Opus-shaped problem facing game development as vibe coding floods the industry."
+      "rationale": "A new Google Play feature uses Google AI to build a \"gamer DNA\" profile from play habits and recommend games by genre and mechanic. It changes how mobile games get found, and players can filter out titles that push in-app purchases.",
+      "published_iso": "2026-10-13T18:00:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+      "excerpt": "Google Play's Game Finder uses Google AI to build a \"gamer DNA\" profile from play habits, then recommends games by genre and mechanic. Players can also filter out titles that push in-app purchases."
+    },
+    {
+      "title": "Wooga's Holger Wurst on designing June's Journey: Player research, AI and the UX rule you can't break",
+      "url": "https://www.pocketgamer.biz/holger-wurst-junes-journey-player-research-ai/",
+      "source": "PocketGamer.biz",
+      "tool": "Games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "rationale": "The UI/UX lead on a $1B live game, who runs a team of 11, explains where AI helps and where it falls short in live-game UX, and why player research comes first. It is directly useful craft guidance for game designers.",
+      "published_iso": "2026-10-14T15:38:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141725/90027/holgerwurstinthehotseat_l1200.jpg",
+      "excerpt": "Wooga's UI/UX lead on the $1B hidden-object game June's Journey, who runs 11 designers, animators and researchers, talks through AI's possibilities and limits for live-game UX and why player research still comes first."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.gamesradar.com/games/our-industry-is-rotting-and-ai-pushed-things-over-the-edge-so-the-creator-of-dayz-wants-to-change-how-games-are-made-with-some-of-the-smartest-devs-in-the-industry/": {
+      "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games": {
         "verdict": "new",
-        "nearest": "https://www.gamesindustry.biz/the-happiest-man-in-gaming-hates-generative-ai",
+        "nearest": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
         "new_action": ""
       },
-      "https://kotaku.com/anime-gambling-horror-game-ditches-free-steam-demo-over-fears-of-getting-ripped-off-by-ai-2000746794": {
+      "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/": {
         "verdict": "new",
-        "nearest": "https://www.ign.com/articles/indie-game-developer-accuses-studio-of-using-ai-to-rip-off-his-viral-potato-peeling-game",
+        "nearest": "https://www.rockpapershotgun.com/ai-generated-fallout-new-york-browser-game-full-of-utterly-cursed-faces-slapped-with-bethesda-cease-and-desist-its-slop-prompter-claims",
         "new_action": ""
       },
-      "https://www.gamesradar.com/games/super-smash-bros-and-kirby-creator-masahiro-sakurai-says-original-games-will-be-harder-for-ai-to-rip-off-but-originality-also-makes-your-game-harder-to-sell/": {
+      "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/": {
         "verdict": "new",
-        "nearest": "https://www.gamesradar.com/games/simulation/the-robloxification-of-steam-creator-of-viral-game-apologizes-after-slop-rip-offs-flood-valves-store/",
+        "nearest": "https://www.ign.com/articles/insomniac-says-marvels-wolverine-uses-no-generative-ai-after-fans-spot-strange-signs-in-game",
         "new_action": ""
       },
-      "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366": {
+      "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+        "nearest": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
+        "new_action": ""
+      },
+      "https://www.pocketgamer.biz/holger-wurst-junes-journey-player-research-ai/": {
+        "verdict": "new",
+        "nearest": "https://www.pocketgamer.biz/starforms-lou-fasulo-on-staying-at-26-people-ai-native-development-and-who-really-funds-a-live-game/",
         "new_action": ""
       }
     },
-    "note": "Swap pass: removed the IGN Goku voice-actor pick. The fetch pass found it covers anime voice acting only, with no video games mentioned, so it is off-domain. No eligible backfill was left, so the section ships 4 cards (floor 3; not padded). Remaining pool checked: (a) Kotaku Konami financial report would make a third Kotaku card, over the 2-per-outlet cap; (b) IGN Nvidia app AI-agent toggle is excluded as gadgets territory and related to the 10-16 NVIDIA RTX Spark card; (c) GamesBeat Wizards of the Coast union is a likely-repeat of the 10-07 GamesRadar+ card; (d) GamesIndustry.biz Capcom RE Engine AI is the same plan published 10-05 via The Verge; (e) GamesBeat Pride and Prejudice in Fortnite is the same project published 10-09 via Aftermath. None of the 4 kept picks overlaps another section's URL in /tmp/ax_claimed_urls.txt. The vibe-coding interview was benched on 10-16, never published. Outlets: GamesRadar+ x2, Kotaku x2."
+    "note": "First pass (pool of 11) shipped 3. Dropped then: (a) GamesRadar+ Sony boss-fight AI patent, the same patent published 10-07 via Wccftech; (b) PC Gamer driving-sim chatbot costs, the same story published 10-10 via GameMeca; (c) GamesBeat Pride and Prejudice in Fortnite, the same project published 10-09 via Aftermath; (d) PC Gamer 'Google's golden age of AI games?', a feature on Google Playground (published 10-11) with no new release; (e) GamesRadar+ ex-Fortnite producer, reaction commentary on Epic's AI-first push (published 10-13); (f) Kotaku vibe-coders porting Nintendo games, part of the running vibe-coded-ports story with no distinct new release; (g) IGN Goku voice actor, off-domain (anime voice acting); (h) GamesBeat Activision QA strike, no AI angle in the excerpt. Recovery pass (7 items): ADDED Google Play Game Finder (a new product launch; the history_match to Google Playground 10-11 is a different Google product, so it is not the same story) and the Wooga/June's Journey UX interview (a new interview; the nearest history item is a different PocketGamer.biz interview with Starform, 09-28). DROPPED: (i) PC Gamer OpenAI model cheating at StarCraft (10-04, StarSkirmish LLM botmatch), which falls within the running LLM-StarCraft-benchmark story published 09-30 via 36kr and is two weeks old; (j) GamesRadar+ Unity CEO 'does not make you Kojima', CEO commentary on the Unity Spark launch already published 10-08 via 80.lv; (k) Wccftech Sony frame-prediction patent, a weak AI angle (prediction rather than ML generation, with a non-AI fallback) and less actionable; (l) Kotaku Steam release count, an analysis/stat piece on the slop wave already covered heavily (09-27 Robloxification of Steam, 10-14 VRChat, 10-16 Battlefield), held back as the 6th-best; (m) GamesIndustry.biz six regulatory risks, an evergreen guide on EU AI Act rules in force since August 2 with no new event. Outlets: RPS 1, PC Gamer 1, GamesRadar+ 1, PocketGamer.biz 2 (at the 2-per-outlet cap); 4 distinct outlets."
   }
 }

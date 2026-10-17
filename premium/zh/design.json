@@ -8089,6 +8089,179 @@
           "x": "通过Figma MCP服务器，Codex等编程智能体可以读取规格文档及其链接的全部上下文。Specs支持网页端、桌面端和移动端，正以公开测试版形式向付费方案逐步推出。"
         }
       ]
+    },
+    "design/design-figma-payload": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "在Make中用Payload构建（预览模式）。"
+        },
+        {
+          "t": "p",
+          "x": "Payload是一款开源无头CMS，其团队已加入Figma，现在它已内置于Figma Make。过去12个月里，其下载量增长6倍，成为NPM上增长最快的开源CMS。"
+        },
+        {
+          "t": "p",
+          "x": "如今在Make中用提示词生成应用时，还会同时配置数据库、文件存储、用户登录和管理面板。设计师用真实内容编写提示，营销人员通过管理面板更新内容，开发者则用Payload的框架定制应用，每个角色都有细粒度权限。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "在Make中用Payload构建（CMS模式）。"
+        },
+        {
+          "t": "p",
+          "x": "Payload负责内容、媒体、权限、工作流、版本管理、APIs和管理面板，Figma负责托管。在IBM，设计师Noah Trevino把自己的界面和字段列表交给Figma，得到了一份团队可以自行更新的可用草稿。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "CSV上传（演示用名称）。"
+        },
+        {
+          "t": "p",
+          "x": "在已发布网站地址后加上/admin即可打开编辑面板，团队无需写提示或提交工单，就能创建文章、替换媒体、查看版本并发布。API密钥现在也可安全存放在Make的设置中，而不必另建Supabase项目。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "在CMS中更新内容。"
+        },
+        {
+          "t": "p",
+          "x": "Payload面向所有方案开放，将在未来几周内陆续推出；基于Payload的Make项目托管目前为免费测试，价格将另行公布。"
+        }
+      ]
+    },
+    "design/design-adobe-nvidia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
+          "cap": "Adobe与NVIDIA扩大合作。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe与NVIDIA宣布扩大合作，在3月宣布的战略合作基础上，优化Photoshop、Premiere、Substance 3D、Frame.io和Brand Concierge。"
+        },
+        {
+          "t": "p",
+          "x": "Photoshop、Premiere和Substance 3D正针对10月16日推出的NVIDIA RTX Spark超级芯片进行优化，AI处理、编辑、调色和特效速度最多提升2倍。Adobe围绕GPU-accelerated（GPU加速）合成重构了Photoshop；Premiere的Enhance Speech和Object Mask等功能也会提速，RTX Spark还加快了Substance 3D Painter中最繁重的纹理绘制步骤。"
+        },
+        {
+          "t": "p",
+          "x": "“依托RTX Spark，经过优化的Adobe工具可带来最多2倍的性能提升，加速这些新的工作流程。”NVIDIA本地AI副总裁Jason Paul表示。"
+        },
+        {
+          "t": "p",
+          "x": "Frame.io现已在媒体处理中使用NVDEC、TensorRT和CUDA，初步结果显示，嵌入生成速度提升约5倍，P95延迟改善4-5倍，搜索代理缩小约80%。"
+        },
+        {
+          "t": "p",
+          "x": "Brand Concierge借助NVIDIA Nemotron开放模型完成优化，将于今年晚些时候面向企业提供，NVIDIA也已选择将其用于NVIDIA.com。双方将在11月10-12日的Adobe MAX上展示更多内容。"
+        }
+      ]
+    },
+    "design/design-uxc-org-chart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
+          "cap": "被圈成一体的组织架构图：‘用户看到的是同一种体验’。"
+        },
+        {
+          "t": "p",
+          "x": "Kate Agena认为，AI正把内容设计、企业内容战略、知识管理和模型行为带入同一种用户体验，而我们的工作方式还没有跟上。她举例说，AI助手告诉一位财务经理，一张已获批准的发票可以付款了，但实际上它被冻结了。原因可能分属不同团队，但对用户来说，这是同一个出了问题的体验。"
+        },
+        {
+          "t": "p",
+          "x": "她借用Nielsen Norman Group的Sarah Gibbons对“AI设计”四种含义的梳理指出，内容设计师越来越多地在设计系统而非句子，应参与塑造语义架构：分类体系、本体和知识图谱。“专业化合情合理，让我担忧的是割裂。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
+          "cap": "静态UI、生成式UI、对话和智能体都建立在四个学科共同支撑的共识之上。"
+        },
+        {
+          "t": "p",
+          "x": "她呼吁建立更一体化的运营模式：共同治理术语，用内容模式指导AI行为，在知识变化时标记依赖关系的工作流，以及回流到源头团队的反馈闭环。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
+          "cap": "一个概念的变化会波及语义模型、UI内容、文档、AI行为、智能体操作和评估。"
+        },
+        {
+          "t": "p",
+          "x": "她写道，评估正成为我们维护体验的方式之一。“体验并不在乎我们的组织架构。我们的组织架构越来越需要在乎体验。”"
+        }
+      ]
+    },
+    "design/design-smashing-ai-adoption": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
+          "cap": "你的组织是否正在搞砸AI落地？"
+        },
+        {
+          "t": "p",
+          "x": "Paul Boag重提他2014年在Smashing出版的著作Digital Adaptation，认为各组织正在AI上重蹈数字化转型的覆辙。无论当年还是现在，最大的错误都是把它当成技术挑战：IT部门发放Copilot Studio许可证，加上一些通用培训，就认为大功告成。"
+        },
+        {
+          "t": "p",
+          "x": "员工个人从AI中获益甚少，还担心饭碗不保，因此组织必须激励他们——从他们讨厌的任务入手，或在晋升、薪酬、缩短工时方面给予激励——并提供针对岗位的培训和时间。他建议从热衷者开始，让社会认同发挥主要作用。"
+        },
+        {
+          "t": "p",
+          "x": "失败也必须是安全的：他听说有员工在被要求采用AI几周后，又因使用太多token而受到训斥。治理应是一套简短的原则，就像gov.uk的设计原则。"
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
+          "cap": "GOV.UK的设计原则。"
+        },
+        {
+          "t": "p",
+          "x": "IT部门把工具锁定为一种会让团队停滞——与他合作的一个UX团队就因Copilot无法实现其研究资料库而陷入困境——还会催生影子AI。与数字化转型一样，AI落地关乎人、文化和变革管理。"
+        }
+      ]
+    },
+    "design/design-figma-code-layers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "今天，code layers进入公开测试阶段。团队现在可以在画布上探索和构建由代码驱动的原型。当每个人都在各自的编码工具里单独工作时，设计就像是在孤立中进行，分享成果或比较备选方案都更困难。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "Figma画布上的代码"
+        },
+        {
+          "t": "p",
+          "x": "可以从GitHub或本地文件夹导入受支持的轻量级原型代码库，通过Figma MCP服务器引入原型，或用Figma Chrome扩展把线上网页体验作为code layer带到画布上。也可以把Figma设计转换为可交互的code layer。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "从GitHub或本地文件夹导入原型代码库，在现有流程上迭代。"
+        },
+        {
+          "t": "p",
+          "x": "Merkle称迭代和功能开发速度提升30%，文档工作减少50%。同一原型的多个版本可以同时放在画布上，团队可以复制其中一个、尝试不同思路，再比较两者。"
+        },
+        {
+          "t": "p",
+          "x": "可以通过向Figma agent输入提示来细化交互，Extract designs则能把code layer中的画面或流程转为可编辑的Figma图层。code layers将消耗AI积分；在付费方案中，创建和编辑在November 4, 2026前免费。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "用Extract designs把code layer中的画面转为可编辑的Figma框架。"
+        }
+      ]
     }
   }
 }

@@ -1346,6 +1346,134 @@
           "x": "Los anunciantes pueden excluirse desde el aviso o activar y desactivar la función en la configuración Advantage+ Creative y Destination de cada anuncio. El comprador de medios David Herrmann, que la describió como una función de AI que convierte las creatividades en anuncios dinámicos de producto, criticó que llegue justo antes de la temporada de fiestas."
         }
       ]
+    },
+    "marketing/marketing-chatgpt-tracking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
+          "cap": "Imagen destacada: Tetiana Yurchenko/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Las sesiones ChatGPT-attributed en GA4 cayeron entre un 22% y un 57% desde el 9 de octubre en los sitios que sigue Graphite, según su CEO, Ethan Smith, lo que supone una caída de alrededor del 45% respecto a la referencia. LLM Pulse registró cerca de un 46% menos de sesiones de ChatGPT entre el 9 y el 11 de octubre, mientras el tráfico total se mantuvo estable."
+        },
+        {
+          "t": "p",
+          "x": "Smith afirma que ChatGPT empezó a abrir los enlaces del texto de sus respuestas sin la etiqueta utm_source=chatgpt.com ni un referente, por lo que esas visitas pueden aparecer como Direct. Aún no hay datos suficientes para saber si también se perdieron algunas visitas."
+        },
+        {
+          "t": "p",
+          "x": "Cedric Huesler, de Adobe, comprobó que las visitas desde ChatGPT a unas 500 páginas cayeron en unas 31.000 al día, mientras Direct subió en unas 26.000. Profound lo vinculó al nuevo formato de respuesta Intelligent UI de ChatGPT tras el despliegue de GPT-6."
+        },
+        {
+          "t": "p",
+          "x": "Huesler dice que OpenAI confirmó el 14 de octubre que se trataba de un error y que el 15 de octubre empezó a desplegarse una corrección; Profound afirma que no ha visto un comunicado oficial. Smith y Huesler sugieren anotar el periodo del 8 al 15 de octubre en los informes y comparar el tráfico de ChatGPT y Direct lado a lado."
+        }
+      ]
+    },
+    "marketing/marketing-videoamp-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "El mes pasado, VideoAmp, Comscore e iSpot recibieron nuevas certificaciones del Joint Industry Committee de Estados Unidos. Aun así, compradores y vendedores no están listos para abandonar Nielsen, por lo que las empresas de monedas alternativas se centran en los datos y la medición de forma más amplia."
+        },
+        {
+          "t": "p",
+          "x": "Durante el verano, VideoAmp recortó cerca del 20% de su plantilla como parte de un esfuerzo por confiar más operaciones a la IA. La SVP Andrea Zapata dijo que el objetivo es usar la IA para ayudar a los compradores de medios a planificar campañas más inteligentes que rindan mejor frente a los resultados buscados."
+        },
+        {
+          "t": "p",
+          "x": "Una de las principales prioridades es conectar sus flujos de trabajo de planificación y medición con agentes de IA, dijo el director de producto Josh Hudgins. Los agentes pueden ayudar a los compradores a optimizar campañas en curso; por ejemplo, recortando el gasto en una fuente de inventario y comprando inventario que sume alcance único de forma eficiente."
+        },
+        {
+          "t": "p",
+          "x": "La IA sigue necesitando datos propios de espectadores, a través de clean rooms y datos a nivel de registro de los editores, además de datos ACR. “Al final, lo que todos buscamos son resultados”, dijo Zapata."
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-learning": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "HaoMqRGlmp8"
+        },
+        {
+          "t": "p",
+          "x": "En el podcast Ads Decoded de Google del 15 de octubre, el gerente de producto de Google Ads Tal Akabas dijo que cambiar el objetivo o el presupuesto de una campaña consolidada no la lleva a un periodo de aprendizaje."
+        },
+        {
+          "t": "p",
+          "x": "“Cuando cambias tu objetivo o tu presupuesto, en realidad no hay un periodo de aprendizaje”, dijo Akabas. “El sistema de back end de Google Ads ajustará las pujas directamente en proporción a los cambios de tu objetivo”. En una campaña totalmente nueva sin información previa, “puede producirse cierto periodo de aprendizaje”."
+        },
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "La afirmación es acotada: abarca cambios de objetivo y presupuesto en campañas estables, no nuevos recursos, segmentación ni estrategias de puja."
+        },
+        {
+          "t": "p",
+          "x": "El episodio también informó del estado de los lanzamientos: el modo de promoción sale de la beta en Search y PMax, se está desplegando un modo solo de informes para nuevos clientes y el modo solo de reenganche llega a Performance Max, con Search y Shopping a continuación."
+        }
+      ]
+    },
+    "marketing/marketing-fender-marshall": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Las marcas no pueden decirle a ChatGPT cómo hablar de sus productos, pero sí pueden invertir en más contenido de marca para dar más material a los modelos que hay detrás de los chatbots."
+        },
+        {
+          "t": "p",
+          "x": "Fender rediseñó su sitio web como una “puerta de entrada” para contar historias, con videos cortos sobre su legado y artistas como Jimi Hendrix, en parte para mejorar su visibilidad durante la búsqueda de productos. Siete de cada 10 consumidores de U.S. usan ChatGPT o resúmenes de IA al investigar productos, según una encuesta de Skyword."
+        },
+        {
+          "t": "p",
+          "x": "Marshall, con cuyos amplificadores tocaba Hendrix, impulsa su serie de YouTube ‘Dead Venues’. “Es un lugar muy importante para que aparezcamos”, dijo la vicepresidenta Christine Kennedy Grant sobre AI Overviews y las herramientas de LLM."
+        },
+        {
+          "t": "p",
+          "x": "“ChatGPT es el nuevo boca a boca”, dijo Urvashi Manral, de Attention Arc. Tres cuartas partes (75%) de los profesionales del marketing planean aumentar el gasto en visibilidad en asistentes de IA el próximo año, según Kantar."
+        }
+      ]
+    },
+    "marketing/marketing-meta-crawl-terms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los Commercial Terms actualizados de Meta, que entran en vigor el 30 de octubre, dan a la empresa permiso para rastrear sitios web vinculados a negocios que usan sus productos y para usar ese contenido en el entrenamiento de esos productos. Los términos se aplican a cualquier uso empresarial de los productos de Meta, desde publicar anuncios hasta gestionar una página de Facebook."
+        },
+        {
+          "t": "p",
+          "x": "Nieman Lab informó que tres profesionales del derecho creen que la redacción podría respaldar el argumento de que Meta puede extraer contenido de sitios de noticias para entrenar sus productos de IA. El portavoz de Meta Andy Stone calificó ese resumen de falso y afirmó que la actualización busca obtener información precisa de productos y que \"no trata de extraer contenido de sitios de noticias\"."
+        },
+        {
+          "t": "p",
+          "x": "Los términos publicitarios de Meta ya le permiten rastrear los sitios web de los anunciantes para usos que incluyen el entrenamiento. La versión de octubre alcanza a las empresas que no compran anuncios. La cláusula también permite a Meta \"crear credenciales de prueba\" para acceder a esas páginas."
+        },
+        {
+          "t": "p",
+          "x": "Meta afirma que los propietarios de contenido aún pueden gestionar el acceso con robots.txt, pero ninguno de los términos actualizados lo menciona. Los propietarios de sitios pueden bloquear Meta-ExternalAgent, su rastreador de entrenamiento de IA, y permitir Meta-WebIndexer."
+        }
+      ]
     }
   }
 }

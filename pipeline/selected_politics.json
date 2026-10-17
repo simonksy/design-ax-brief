@@ -1,128 +1,92 @@
 {
-  "date": "2026-10-17",
-  "section": "politics",
-  "picks": [
-    {
-      "url": "https://www.gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software",
-      "title": "CMA takes first steps to ensure choice in business software (proposes Microsoft strategic market status, AI tools in scope)",
-      "source": "GOV.UK (CMA)",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-16T09:00:00Z",
-      "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-      "excerpt": "Primary doc: the UK Competition and Markets Authority proposes designating Microsoft with strategic market status in business software, explicitly citing agentic AI in workplace tools and whether rival AI providers get a level playing field.",
-      "source_lang": "en",
-      "tool": "Politics",
-      "accent": "#3b6bff",
-      "motif": "cube",
-      "rationale": "Primary document and a new regulatory decision: the CMA's proposed strategic-market-status designation explicitly puts agentic AI in workplace software and rival AI providers' access in scope, which directly affects anyone building AI tools on top of Microsoft's stack. Copy must say the designation is proposed, not final. The og_image is a generic GOV.UK card, so ax-media should source an in-article image."
-    },
-    {
-      "url": "https://restofworld.org/2026/china-open-weight-models/",
-      "title": "Western open-weight models still can't beat China",
-      "source": "Rest of World",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-16T10:00:00+00:00",
-      "og_image": "https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg",
-      "excerpt": "Chinese open-weight AI models offer high capability at far lower cost than US frontier systems but face monetization and compute constraints, experts said at a Rest of World event.",
-      "source_lang": "en",
-      "tool": "Politics",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "Replaces the UK UN First Committee statement, in which AI turned out to be incidental. This is the remaining geopolitics-axis item: expert assessment of how the US and China compare on open-weight models, covering cost and capability gaps and Chinese compute and monetization limits. It is a different piece from the 10-08 Axios card about new Western releases. Attribute every assessment to the named panelists and present it as an event discussion, not as news of a release."
-    },
-    {
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2175",
-      "title": "Commission launches RAISE pledging initiative to boost AI support for researchers across Europe",
-      "source": "European Commission",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-15T12:03:07Z",
-      "og_image": "https://ec.europa.eu/commission/presscorner/static/sm_ec_logo_big.jpg",
-      "excerpt": "Primary doc: at the European AI in Science Summit in Dublin the Commission launched the RAISE (Resource for AI Science in Europe) pledging initiative for AI-in-science enablers.",
-      "source_lang": "en",
-      "tool": "Politics",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "A formal new Commission programme (the RAISE pledging initiative) for compute, data and support for AI in science, released as an official press release. It is distinct from the 10-12 Tech Policy Press summit-atmosphere card. Describe what pledgers commit to and who can join. The og_image is the EC logo, so source an in-article image."
-    },
-    {
-      "url": "https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/",
-      "title": "The EU is facing Big Tech pressure to revamp its AI law",
-      "source": "POLITICO Europe",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-15T18:12:09+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg",
-      "excerpt": "Microsoft and Google DeepMind executives are pushing Brussels to rework the AI Act for the newest frontier models; Commission officials insist the law is strong enough to handle their security risks.",
-      "source_lang": "en",
-      "tool": "Politics",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "First report of Microsoft and Google DeepMind formally pressing the Commission to rework the AI Act for frontier models, with the Commission's on-record answer that the law is enough. This bears on AI Act obligations for model builders. Present both positions and attribute each to the party that holds it."
-    },
-    {
-      "url": "https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models/",
-      "title": "How are countries evaluating AI models?",
-      "source": "Brookings",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-16T21:20:37+00:00",
-      "og_image": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg",
-      "excerpt": "Brookings background briefing (for the FCAI dialogue) comparing how governments and AI safety institutes test and evaluate frontier AI models.",
-      "source_lang": "en",
-      "tool": "Politics",
-      "accent": "#ff5a4d",
-      "motif": "cube",
-      "rationale": "A newly published comparative briefing on how national governments and AI safety institutes test frontier models. It is not an op-ed, and it gives builders a practical map of the evaluation regimes their models may face. Present it as a Brookings briefing, not as a government decision."
-    }
-  ],
-  "alternates": [
-    {
-      "url": "https://www.politico.eu/article/eus-cyber-unit-turns-to-ai-to-fend-off-high-risk-hacks/",
-      "title": "EU's cyber unit turns to AI to fend off 'high-risk' hacks",
-      "source": "POLITICO Europe",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-14T04:00:00+00:00",
-      "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/13/GettyImages-632565410-scaled.jpg",
-      "excerpt": "The European Commission's IT department wants to deploy AI to defend its systems against the most serious cyberattacks.",
-      "source_lang": "en",
-      "tool": "Politics",
-      "accent": "#171717",
-      "motif": "cube",
-      "rationale": "Weak backup: a minor internal procurement plan. Its nearest published story is https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks (related only)."
-    }
-  ],
-  "dedup": {
-    "checks": {
-      "https://www.gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software": {
-        "verdict": "new",
-        "nearest": "https://www.theregister.com/ai-and-ml/2026/10/08/ai-giants-promise-to-play-nice-with-personal-data-after-uk-watchdog-scrutiny/5301966",
-        "new_action": ""
-      },
-      "https://restofworld.org/2026/china-open-weight-models/": {
-        "verdict": "new",
-        "nearest": "https://www.axios.com/2026/10/06/reflection-mistral-open-weight-ai-models-china",
-        "new_action": ""
-      },
-      "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2175": {
-        "verdict": "new",
-        "nearest": "https://techpolicy.press/at-irelands-ai-summit-tech-industry-dominates-as-civil-society-sits-out",
-        "new_action": ""
-      },
-      "https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/": {
-        "verdict": "new",
-        "nearest": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
-        "new_action": ""
-      },
-      "https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models/": {
-        "verdict": "new",
-        "nearest": "https://www.lawfaremedia.org/article/the-many-open-questions-about-the-trump-administration-s-new-de-facto-ai-model-licensing-system",
-        "new_action": ""
-      }
-    },
-    "note": "Swap by orchestrator: removed the GOV.UK FCDO 'UK Statement at the UN First Committee' pick. The fetch pass found it is a disarmament statement where AI is incidental (about 3 sentences), so it fails the politics _note rule that AI must make the story. Backfilled with Rest of World 'Western open-weight models still can't beat China', the best remaining on-topic item, which keeps a geopolitics axis. It carries history_match related to the 10-08 Axios card on new Western open-weight releases (Reflection/Mistral). That card covered specific model launches; this is a separate 10-16 expert panel on the US-China cost and capability gap, so the verdict is new, with Axios as nearest. It overlaps no URL or story in /tmp/ax_claimed_urls.txt. Excluded by orchestrator instruction: The Verge 'Meta's new terms may allow it to train AI on news sites' (assigned to marketing; marketing holds the SEJ version). Dropped as the same running story: Ars 'FTC probes Anthropic, OpenAI' (history_match related to the 10-01 Axios FTC-crosshairs card; it relays the Axios report on the same probe with no new official FTC release, and it was already dropped on 10-16); Register 'UK keeps AI safeguards in the maybe pile' (officials 'still considering', a follow-up to the 10-15 GOV.UK AI-defences card with no new decision); POLITICO Anguilla .ai domain (a reaction to the 9-30 'Inaugurating the Era of Super Intelligence' order); WIRED 'AI hacks leave a mess' (liability analysis, already dropped 10-16). Dropped for scope or neutrality: Tech Policy Press image-authentication op-ed (op-ed); Verge Trump AI-edited photo column (opinion column, partisan-framing risk); Axios Bill Gates AI-safety push (advocacy, no decision); Ars image models tricked into nudes (a research finding, not a policy action). Dropped for classifier risk: WIRED open models modified to assist terrorists (the orchestrator dropped it on 10-16 for the same reason). Alternate: POLITICO EU cyber-unit AI plan (minor internal plan). Diversity: 5 outlets (GOV.UK, Rest of World, European Commission, POLITICO Europe, Brookings). Axes: policy x4, geopolitics x1. All picks are in the politics category, so each gets a distinct palette accent."
+ "date": "2026-10-18",
+ "section": "politics",
+ "picks": [
+  {
+   "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+   "title": "Apple's updated App Store rules go after 'nudify' AI apps",
+   "source": "The Verge",
+   "category": "politics",
+   "axis": "policy",
+   "published_iso": "2026-10-16T22:51:22+00:00",
+   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "excerpt": "Apple's revised App Store Review Guidelines require developers to prevent and remove sexualized deepfakes, targeting AI 'nudify' apps.",
+   "source_lang": "en",
+   "tool": "Politics",
+   "accent": "#3b6bff",
+   "motif": "cube",
+   "rationale": "A new platform rule, published as revised App Store Review Guidelines, puts concrete obligations on any developer shipping generative-image features. It is a different event from the 10-03 EU nudify ban and the 10-05 Minnesota ruling. Copy should cite the guideline text, which is the primary document. Check this does not clash with a gadgets pick."
+  },
+  {
+   "url": "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system",
+   "title": "North Korea says it tested new AI-powered torpedo system",
+   "source": "Euronews",
+   "category": "politics",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-17T07:52:00+00:00",
+   "og_image": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+   "excerpt": "KCNA says North Korea tested the Zam-2.0 torpedo, which uses artificial intelligence to aid target detection and guidance, days after underwater-launched cruise missile tests. (time from page display 09:52 GMT+2)",
+   "source_lang": "en",
+   "tool": "Politics",
+   "accent": "#7928ca",
+   "motif": "cube",
+   "rationale": "A new state announcement of an AI-guided weapons test, on the geopolitics axis. The AI capability is entirely North Korea's claim, so attribute it to KCNA and do not present it as verified."
+  },
+  {
+   "url": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
+   "title": "The Case for DUV Controls",
+   "source": "ChinaTalk",
+   "category": "politics",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-17T09:07:33+00:00",
+   "og_image": "https://substackcdn.com/image/fetch/$s_!LECo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+   "excerpt": "Former NSC tech official Saif Khan makes the case for extending export controls to DUV lithography tools to constrain China's AI chip production.",
+   "source_lang": "en",
+   "tool": "Politics",
+   "accent": "#2ec5c5",
+   "motif": "cube",
+   "rationale": "A former NSC official proposes extending chip export controls to DUV lithography, which would affect AI compute supply. It is not commentary on a story we already published. Present it as Khan's argued proposal and attribute it to him, not as a government decision."
+  },
+  {
+   "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/",
+   "title": "What the West can learn from AI optimists in the rest of the world",
+   "source": "Rest of World",
+   "category": "politics",
+   "axis": "elections",
+   "published_iso": "2026-10-15T10:00:00+00:00",
+   "og_image": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+   "excerpt": "Public opinion on AI diverges sharply: enthusiastic, necessity-driven adoption in the developing world contrasts with an anxiety-ridden West.",
+   "source_lang": "en",
+   "tool": "Politics",
+   "accent": "#ff5a4d",
+   "motif": "cube",
+   "rationale": "Replacement pick. It covers the public-opinion axis, which had no other pick today: Rest of World compares how attitudes to AI differ between the developing world and the West. This is analysis, not a decision, so the copy should present it as Rest of World's reading of survey and field evidence, attribute it, and stay neutral. It does not repeat the 10-13 US 'chatbot refuseniks' survey card or the 10-17 Rest of World open-weight models card."
   }
+ ],
+ "alternates": [],
+ "dedup": {
+  "checks": {
+   "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment": {
+    "verdict": "new",
+    "nearest": "https://zdnet.co.kr/view/?no=20261002190003",
+    "new_action": ""
+   },
+   "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system": {
+    "verdict": "new",
+    "nearest": "https://en.yna.co.kr/view/AEN20261012006500315",
+    "new_action": ""
+   },
+   "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls": {
+    "verdict": "new",
+    "nearest": "https://cset.georgetown.edu/article/tracking-ai-chips-what-does-it-cost/",
+    "new_action": ""
+   },
+   "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/": {
+    "verdict": "new",
+    "nearest": "https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690",
+    "new_action": ""
+   }
+  },
+  "note": "Swap 10-18 (second re-curation): removed Axios 'D.C. lawmakers target AI house-fishing in real estate listings' and its dedup entry. Every fetch method got a 403, and the story is not in RSS, not in Wayback and not covered by any other outlet, so it is unverifiable. The replacement is CJR 'An AI Company Wanted to Buy My Reporting Notes'. Its history_match (related, 0.165) is the 9-29 WIRED OpenAI-pause card, which is a different story about rogue agents. The closest published item by content is the 10-07 Yonhap card on Japanese publishers objecting to used books being bulk-sold for US AI training. That is the same theme (sourcing AI training data) but a different event, different actors and a different country, so it is not the same story. The CJR piece is also distinct from today's Meta terms-of-service scraping items (cluster c0, assigned to marketing): Meta's terms are a platform contract change, while CJR is a data buyer approaching an individual reporter. Borderline note: CJR is a feature with no decision or filing. It is kept because it is the only remaining candidate that passes the delete-AI test, is neutral, is verifiable (RSS pubDate) and is not a running-story repeat. Every other remaining candidate was rejected: Verge Trump AI-edited photo (an opinion column, partisan-framing risk); Register UK Cyber Security Bill (excluded, same-story repeat of the 10-15 GOV.UK card); Ars OpenAI crypto-wallet hacks (more incidents in the 9-29 rogue-agent running story, no new official action); Ars NJ prosecutor AI CSAM (excluded, individual criminal case); Axios geothermal (fails the delete-AI test, and Axios returns 403); WIRED 'AI hacks leave a mess' (liability analysis on the same running story); Tech Policy Press image-authentication op-ed (vendor-authored opinion); ChinaTalk Chinese lab product-lead interview (interview with no event, and it would be a second ChinaTalk card); Meta terms items from The Verge and Nieman Lab (assigned to marketing). Diversity: 5 distinct outlets (The Verge, CJR, Euronews, ChinaTalk, Rest of World). Axes: policy x2, geopolitics x2, public opinion x1. Each pick has a distinct palette accent; the CJR card takes #0070f3, which the removed Axios card freed up. Cross-section check: Apple App Store guidelines could also appear in gadgets, and CJR should be checked against marketing's Meta-scraping pick and against books. | Orchestrator: CJR replacement dropped after review (practice report, no decision/filing — below the politics bar); politics ships 4."
+ }
 }

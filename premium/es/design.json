@@ -8185,6 +8185,179 @@
           "x": "A través del servidor Figma MCP, agentes de programación como Codex pueden leer una spec y todo el contexto que enlaza. Specs está disponible en web, escritorio y móvil, y se despliega en beta abierta para los planes de pago."
         }
       ]
+    },
+    "design/design-figma-payload": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Crear con Payload en Make (modo de vista previa)."
+        },
+        {
+          "t": "p",
+          "x": "Payload, el CMS headless de código abierto cuyo equipo se unió a Figma, ya está integrado en Figma Make. En los últimos 12 meses sus descargas se multiplicaron por 6, lo que lo convierte en el CMS de código abierto de más rápido crecimiento en NPM."
+        },
+        {
+          "t": "p",
+          "x": "Al crear una app con un prompt en Make ahora también se configuran una base de datos, almacenamiento de archivos, inicio de sesión de usuarios y un panel de administración. Los diseñadores escriben prompts con contenido real, los especialistas en marketing lo actualizan desde el panel de administración y los desarrolladores personalizan la app con el framework de Payload, con permisos detallados para cada rol."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Crear con Payload en Make (modo CMS)."
+        },
+        {
+          "t": "p",
+          "x": "Payload gestiona contenido, medios, permisos, flujos de trabajo, control de versiones, APIs y el panel de administración, y Figma lo aloja. En IBM, el diseñador Noah Trevino le dio a Figma sus pantallas y su lista de campos y obtuvo un borrador funcional que su equipo podía actualizar por sí mismo."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Carga de CSV (nombres de demostración)."
+        },
+        {
+          "t": "p",
+          "x": "Un panel de edición, al que se accede añadiendo /admin a un sitio publicado, permite crear artículos, cambiar medios, revisar versiones y publicar sin escribir prompts ni abrir un ticket. Las claves de API ahora pueden guardarse de forma segura en la configuración de Make en lugar de en un proyecto aparte de Supabase."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Actualización de contenido en el CMS."
+        },
+        {
+          "t": "p",
+          "x": "Payload está disponible en todos los planes y se desplegará en las próximas semanas; el alojamiento de proyectos de Make con Payload está en beta gratuita y su precio se anunciará más adelante."
+        }
+      ]
+    },
+    "design/design-adobe-nvidia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
+          "cap": "Adobe y NVIDIA amplían su colaboración."
+        },
+        {
+          "t": "p",
+          "x": "Adobe y NVIDIA anunciaron una alianza ampliada para optimizar Photoshop, Premiere, Substance 3D, Frame.io y Brand Concierge, sobre la base de la alianza estratégica anunciada en marzo."
+        },
+        {
+          "t": "p",
+          "x": "Photoshop, Premiere y Substance 3D se están optimizando para el superchip NVIDIA RTX Spark, que sale a la venta el 16 de octubre, con procesamiento de IA, edición, color y efectos hasta 2x más rápidos. Adobe rediseñó Photoshop en torno a la composición acelerada por GPU (GPU-accelerated); funciones de Premiere como Enhance Speech y Object Mask ganan velocidad, y RTX Spark acelera los pasos de texturizado más pesados de Substance 3D Painter."
+        },
+        {
+          "t": "p",
+          "x": "“Impulsadas por RTX Spark, las herramientas optimizadas de Adobe ofrecen un rendimiento hasta 2x más rápido para acelerar estos nuevos flujos de trabajo”, dijo Jason Paul, vicepresidente de IA local de NVIDIA."
+        },
+        {
+          "t": "p",
+          "x": "Frame.io ahora usa NVDEC, TensorRT y CUDA para el procesamiento de medios, y los primeros resultados muestran una generación de embeddings unas 5x más rápida, una latencia P95 entre 4-5x mejor y un proxy de búsqueda aproximadamente un 80% más pequeño."
+        },
+        {
+          "t": "p",
+          "x": "Brand Concierge está optimizado con los modelos abiertos NVIDIA Nemotron, estará disponible para empresas más adelante este año, y NVIDIA lo eligió para NVIDIA.com. Ambas mostrarán más novedades en Adobe MAX, del 10 al 12 de noviembre."
+        }
+      ]
+    },
+    "design/design-uxc-org-chart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
+          "cap": "Un organigrama rodeado como un todo: ‘el usuario ve una sola experiencia’."
+        },
+        {
+          "t": "p",
+          "x": "Kate Agena sostiene que la IA está reuniendo el diseño de contenido, la estrategia de contenido empresarial, la gestión del conocimiento y el comportamiento del modelo en una misma experiencia de usuario, y que nuestras formas de trabajar no se han puesto al día. Su ejemplo: un asistente de IA le dice a un responsable de finanzas que una factura aprobada está lista para el pago, cuando en realidad está bloqueada. Las causas pueden depender de equipos distintos, pero para el usuario es una única experiencia rota."
+        },
+        {
+          "t": "p",
+          "x": "Partiendo de los cuatro significados de “diseño de IA” que propone Sarah Gibbons en Nielsen Norman Group, señala que los diseñadores de contenido diseñan cada vez más sistemas en lugar de frases y deberían ayudar a dar forma a la arquitectura semántica: taxonomías, ontologías y grafos de conocimiento. “La especialización tiene sentido. Lo que me preocupa es la separación”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
+          "cap": "La UI estática, la UI generada, las conversaciones y los agentes se apoyan en un entendimiento común sostenido por cuatro disciplinas."
+        },
+        {
+          "t": "p",
+          "x": "Pide un modelo operativo más integrado: gobernanza compartida de la terminología, patrones de contenido que orienten el comportamiento de la IA, flujos de trabajo que señalen dependencias cuando cambia el conocimiento y circuitos de retroalimentación hacia los equipos de origen."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
+          "cap": "Un cambio de concepto repercute en el modelo semántico, el contenido de la UI, la documentación, el comportamiento de la IA, las acciones de los agentes y la evaluación."
+        },
+        {
+          "t": "p",
+          "x": "La evaluación, escribe, se está convirtiendo en una de las formas de mantener la experiencia. “A la experiencia no le importa nuestro organigrama. Cada vez más, a nuestro organigrama tiene que importarle la experiencia”."
+        }
+      ]
+    },
+    "design/design-smashing-ai-adoption": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
+          "cap": "¿Tu organización está estropeando la adopción de la IA?"
+        },
+        {
+          "t": "p",
+          "x": "Paul Boag retoma su libro de 2014 para Smashing, Digital Adaptation, y sostiene que las organizaciones están repitiendo con la IA los errores de la transformación digital. El mayor, entonces y ahora, es tratarla como un reto tecnológico: el departamento de IT distribuye licencias de Copilot Studio, añade una formación genérica y da el trabajo por terminado."
+        },
+        {
+          "t": "p",
+          "x": "El personal obtiene poco beneficio personal de la IA y teme por su empleo, así que las organizaciones deben motivarlo —abordando tareas que detesta o con incentivos en ascensos, salario o jornadas más cortas— y darle formación específica para cada puesto y tiempo. Propone empezar por los entusiastas y dejar que la prueba social haga el trabajo pesado."
+        },
+        {
+          "t": "p",
+          "x": "También debe ser seguro equivocarse: sabe de empleados reprendidos por usar demasiados tokens semanas después de que se les pidiera adoptar la IA. La gobernanza debería ser un breve conjunto de principios, como los principios de diseño de gov.uk."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
+          "cap": "Principios de diseño de GOV.UK."
+        },
+        {
+          "t": "p",
+          "x": "Limitar el departamento de IT a una sola herramienta paraliza a los equipos —un equipo de UX con el que trabaja está bloqueado porque Copilot no puede ofrecer su repositorio de investigación— y alimenta la IA en la sombra. La adopción de la IA, como la transformación digital, depende de las personas, la cultura y la gestión del cambio."
+        }
+      ]
+    },
+    "design/design-figma-code-layers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Hoy, code layers pasa a beta abierta. Ahora los equipos pueden explorar y crear en el lienzo prototipos respaldados por código. Cuando cada persona trabaja por separado en sus propias herramientas de programación, puede parecer que se diseña en aislamiento, lo que dificulta compartir el trabajo o comparar alternativas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "Código en el lienzo de Figma"
+        },
+        {
+          "t": "p",
+          "x": "Se puede importar una base de código de prototipado ligera y compatible desde GitHub o una carpeta local, traer un prototipo mediante el servidor Figma MCP o usar la extensión Figma Chrome para llevar la experiencia web en vivo al lienzo como una code layer. También se puede convertir un diseño de Figma en una code layer interactiva."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "Importa tu base de código de prototipado desde GitHub o una carpeta local para iterar sobre flujos existentes."
+        },
+        {
+          "t": "p",
+          "x": "Merkle informa de una iteración y un desarrollo de funciones un 30% más rápidos y un 50% menos de documentación. Varias versiones de un prototipo pueden estar en el lienzo al mismo tiempo, de modo que los equipos pueden duplicar una, probar otro enfoque y comparar ambas."
+        },
+        {
+          "t": "p",
+          "x": "Las interacciones se pueden pulir con prompts al Figma agent, y Extract designs convierte una pantalla o un flujo de una code layer en capas editables de Figma. Code layers usará créditos de AI; en los planes de pago, crear y editar es gratis hasta el 4 de noviembre de 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "Usa Extract designs para convertir pantallas de una code layer en marcos editables de Figma."
+        }
+      ]
     }
   }
 }

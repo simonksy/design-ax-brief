@@ -12163,6 +12163,141 @@
           "x": "CERN이 지금까지 저장한 LHC 실험 데이터는 약 1엑사바이트다. 2030년경 가동 예정인 HL-LHC에서는 충돌 횟수가 10배로 늘어난다. 처음에는 고에너지 물리학에 집중하지만, 이번 협력이 더 넓은 과학계에 AI 접근법을 보탤 수도 있다."
         }
       ]
+    },
+    "science/science-fire-gene-regulation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+          "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+        },
+        {
+          "t": "p",
+          "x": "University of Utah Health 연구진이 Cell에 발표한 도구 FIRE는 롱리드 DNA 시퀀싱과 머신러닝을 결합해, 각 염색체의 모계·부계 사본에서 어떤 조절 영역이 활성인지 판별한다."
+        },
+        {
+          "t": "p",
+          "x": "먼저 물리적으로 접근 가능한 DNA에 표시를 한다. 그다음 머신러닝이 표시된 영역 가운데 유전자 조절에 중요할 가능성이 큰 곳을 평가하는데, 수십억 개 영역까지 넓혀 돌릴 수 있다. Mitchell R. Vollger는 \"여기서 머신러닝은 우리가 데이터에서 눈으로 직접 볼 수 있는 것을 그대로 따라 하는 것\"이라고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "FIRE는 그동안 놓친 조절 영역 수만 곳을 찾아냈다. 이런 영역은 질병 관련 변이를 품고 있을 가능성이 더 높다. 셀리악병 사례에서는 면역 유전자 옆 유전자 스위치의 DNA 글자 하나를 바꾸자 스위치가 열린 정도가 달라졌다."
+        },
+        {
+          "t": "p",
+          "x": "약 40%는 물려받은 두 사본의 DNA가 그 위치에서 똑같은데도 조절이 달랐다. 이런 차이 일부는 세포가 분열할 때 그대로 대물림됐다. Vollger는 이를 \"유전이 유전자 조절을 얼마나 결정할 수 있는지의 한계\"라고 부른다."
+        }
+      ]
+    },
+    "science/science-bulk-metal-testing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+          "cap": "로봇이 시편을 옮기며 자동 열처리, XRD, 충격 시험을 잇는다. Credit: Science and Technology of Advanced Materials: Methods (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Tohoku University 연구진은 NIMS, TsubameLab과 함께 벌크 금속의 열처리, X-ray 회절, 기계적 시험을 사람 손을 거치지 않고 잇는 시스템을 만들었다. 로봇 팔이 유도 가열로, XRD 장비, 미세 충격 시험기 사이로 시편을 옮긴다."
+        },
+        {
+          "t": "p",
+          "x": "JIS SCM435H 저합금강의 한 단계·두 단계 템퍼링 시험에서 열처리 시간을 빼고 시료당 약 800초가 들었다. 정확도는 수작업 시험과 비슷했고 속도는 수작업 실험보다 10배 이상 빨랐다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 NIMS Orchestration System(NIMO)에 AI 최적화 도구를 넣어, 가열로 제어 변수를 자동으로 최적화하는 과정도 보여줬다. Goro Miyamoto는 \"이번 연구는 실험 워크플로 전체를 자동화할 수 있음을 보여준다\"고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "연구진이 그리는 다음 단계는 AI가 새 열처리 조건을 제안하고 플랫폼이 이를 자동으로 시험하는 폐루프다."
+        }
+      ]
+    },
+    "science/science-agentxtract-food-physics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+          "cap": "Xu Zhou가 연구실에서 식품 소재의 유전 특성을 측정하고 있다. Credit: Penn State. Creative Commons"
+        },
+        {
+          "t": "p",
+          "x": "식품과학 조교수 Xu Zhou가 이끄는 Penn State 연구진은 과학 논문의 표와 그림, 수식에서 식품 물성 실험 데이터를 뽑아내는 AI 에이전트 시스템 AgentXtract를 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "믿을 만한 출처를 고르고 데이터 품질을 확인하는 일은 식품공학자들이 맡았다. 에이전트들은 30분 만에 4,000건이 넘는 실험 데이터 기록을 모았다. Zhou에 따르면 예전에는 숙련된 연구자가 여섯 달 이상 매달려야 했던 작업이다. 연구팀은 OpenAI, Google, Anthropic의 대규모 언어 모델 10개도 평가했다."
+        },
+        {
+          "t": "p",
+          "x": "데이터베이스를 분석하자 100가지가 넘는 식품에서 두 유전 특성인 유전 상수와 손실 계수 사이에 그동안 보고되지 않은 수학적 관계가 드러났다. 질의응답 AI에 이 데이터베이스를 연결하면 답변의 근거도 더 탄탄해졌다. 연구는 Journal of Food Engineering에 실렸다."
+        }
+      ]
+    },
+    "science/science-studentsim-ai-tutoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "StudentSim은 AI 튜터를 실제 학습자 앞에 내놓기 전에 평가하고 다듬는 Microsoft Research 시스템이다. 제품도 아니고 교사를 대신하려는 것도 아니다. 사람 대상 연구로 피드백을 모으면 느리고 비용도 많이 든다. 그래서 StudentSim은 공개된 비식별 학습자 기록으로 개인 맞춤형 학생 시뮬레이터를 학습시킨다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "시뮬레이터를 평가하는 기준은 Vygotsky의 근접발달영역에서 따온 두 가지다. 특정 학생처럼 반응하는지, 튜터의 안내를 받은 뒤 달라지는지다. 학습은 두 단계로, 여러 학생의 기록을 모아 먼저 익힌 뒤 한 학생 자신의 기록으로 특화한다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "체스, 외국어로서의 영어 쓰기, 수학 모두에서 StudentSim이 주요 기준 모델보다 나았다. 체스에서는 행동 충실도 0.5150, 안내 반응성 0.9067을 기록해 GPT-5.4의 0.2316, 0.7186을 넘었다. StudentSim을 보상원으로 학습한 체스 튜터의 정확도는 90.5%였다. RL을 쓰지 않으면 75.7%, GPT-5.4 보상을 쓰면 71.6%였다."
+        }
+      ]
+    },
+    "science/science-protease": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+          "cap": "계산 설계와 실험 검증 방식. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+        },
+        {
+          "t": "p",
+          "x": "프로테아제는 단백질을 펩타이드로, 나아가 아미노산 하나하나로 쪼개는 천연 효소다. 그런 프로테아제를 과학자들이 인공지능을 써서 아예 처음부터 새로 설계했다."
+        },
+        {
+          "t": "p",
+          "x": "University of Washington의 David Baker 연구팀은 RFdiffusion2의 변형인 RFD2-MI로 3D 형태와 핵심 골격을 잡았다. 아미노산 서열은 ProteinMPNN과 EnhancedMPNN으로 골랐다. 예측 구조가 의도한 설계와 얼마나 들어맞는지는 AlphaFold 3로 확인했다."
+        },
+        {
+          "t": "video",
+          "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 시스테인 프로테아제 69종과 아연 프로테아제 135종을 시험했다. 시스테인 쪽에서는 후보 69개 가운데 13개가 표적을 잘랐고, 아연 쪽은 후보 135개의 36%가 짝이 되는 펩타이드 표적을 끊었다. AI로 다듬자 최상위 아연 프로테아제는 절단 속도가 30배 빨라졌다."
+        },
+        {
+          "t": "p",
+          "x": "AI-designed 프로테아제 하나는 ALS와 일부 치매에서 비정상적으로 쌓이는 단백질 TDP-43을 전장 그대로 끊었다. 나머지 가운데 일부는 Alzheimer's disease와 관련된 amyloid-beta, 그리고 혈청 아밀로이드 A의 표적 조각을 잘라냈다."
+        },
+        {
+          "t": "p",
+          "x": "아직 사람을 대상으로 한 임상시험은 거치지 않았다. 연구 결과는 Nature에 논문 두 편으로 실렸다."
+        }
+      ]
     }
   }
 }

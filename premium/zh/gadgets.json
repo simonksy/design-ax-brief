@@ -7552,6 +7552,164 @@
           "x": "原始音频不会被存储：音频实时处理后即被删除，转录文本则用设备掌控的密钥加密。Frontier现已在Amazon上市，Eclipse随后不久推出。"
         }
       ]
+    },
+    "gadgets/gadgets-asusproartp16": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia的RTX Spark芯片终于登陆笔记本电脑，既有面向3D工作、视频和游戏的RTX图形性能，也有可在本地运行AI模型和智能体的CUDA。Tom's Guide在Asus ProArt P16上进行了测试，这是一款更轻薄的16英寸创作者笔记本，配备120Hz OLED触摸屏和最高128GB内存。"
+        },
+        {
+          "t": "p",
+          "x": "最大卖点是无需订阅或提示词费用即可运行自己的端侧AI智能体。测试机搭载20核RTX Spark N1X CPU和6144核GPU，配备128GB RAM与2TB存储；它是Windows on Arm设备，因此部分应用需通过Microsoft的Prism仿真运行。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+          "cap": "（图片来源：Future / Tom's Guide）"
+        },
+        {
+          "t": "p",
+          "x": "它将Handbrake的4K-to-1080p转码时间缩短至02:06，游戏表现超过上一代机型的独立RTX 4070，电池续航达12小时26分钟。论纯性能，Apple的MacBook Pro M5 Pro依然更胜一筹。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+          "cap": "（图片来源：Future / Tom's Guide）"
+        },
+        {
+          "t": "p",
+          "x": "当Red Dead Redemption 2不断崩溃时，本地运行的Hermes Agent发现它处于Vulkan模式，将其切换为DirectX 12后解决了问题。缺点是风扇噪音大、键盘区域发烫，售价为$2,799至$6,999——是“最好的AI笔记本之一”，但只适合AI重度用户或3D创作者。"
+        }
+      ]
+    },
+    "gadgets/gadgets-macpaweney": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "MacPaw即将推出Eney，这是一款可跨应用、文件和系统帮你完成工作的主动式AI助手。它始于2019年一个通过自然语言命令简化CleanMyMac的想法，今天面向Mac和iPhone发布。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Eney能理解Mac的上下文——应用、文件、日历会议——发现需要处理的事项，并准备好下一步供你批准。在文字上晃动光标（或按Option + W）即可唤出Eney Wand。它同时使用本地和云端模型，并与Liquid AI合作为Apple硬件开发了定制模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "MacPaw的AI记忆系统Mnemos使用在Mac本地存储和处理的知识图谱，但仍在开发中。Eney还提供写作助手Eney Spell、无需机器人的通话转录、Mac维护提醒，以及与Gmail、Slack、Notion、Jira、Linear等的集成，支持八种语言。"
+        },
+        {
+          "t": "p",
+          "x": "14天免费试用包含10,000个AI积分；套餐从Starter（$14.99，10,000积分）到Power（$49.99，30,000积分）不等。"
+        }
+      ]
+    },
+    "gadgets/gadgets-eufywindowe10": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+          "cap": "可重复使用的粘贴垫将其固定在室内玻璃上，背部旋钮可让镜头最多向下倾斜25度"
+        },
+        {
+          "t": "p",
+          "x": "Eufy推出Window Camera E10，这款64.1g的安防摄像头贴在窗户内侧，无需在户外安装即可看护车道、花园或前门。售价在美国为$79.99、英国为£69.99，双机套装$149.99，11月发货。"
+        },
+        {
+          "t": "p",
+          "x": "可重复使用的粘贴贴纸能在一分钟内将其固定在玻璃上，背部旋钮可让镜头最多向下倾斜25度，从画面中减少空旷的天空。防反光贴纸可减少夜间室内灯光造成的眩光。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+          "cap": "Window Camera E10"
+        },
+        {
+          "t": "p",
+          "x": "它通过f/1.0镜头以125度视野录制2688 x 1520、15fps的视频。移动侦测在设备本身运行，可将活动分类为人、车辆或宠物，并发送带标签的提醒。"
+        },
+        {
+          "t": "p",
+          "x": "录像保存在最大256GB的microSD卡上；Eufy表示，AI识别、连续录像和智能提醒都无需月费。E10没有电池，通过3m USB-C线缆连接插电适配器供电。"
+        }
+      ]
+    },
+    "gadgets/gadgets-htcviveeagle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
+        },
+        {
+          "t": "p",
+          "x": "9月，HTC开始在美国销售售价$499的Vive Eagle智能眼镜。它配有摄像头、镜框内置扬声器和内嵌AI智能体，但HTC希望避开一直困扰Meta眼镜的隐私争议。"
+        },
+        {
+          "t": "p",
+          "x": "AI助手Vive AI无需登录即可使用OpenAI的ChatGPT或Google的Gemini，因此用户处于“去标识化”状态。AI Plus前两年免费，之后每月$2.50。续航为音乐播放4.5小时。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
+        },
+        {
+          "t": "p",
+          "x": "遮住指示灯即可停止录制，视频经过加密后保存在眼镜上，而不是发送到手机或云端。HTC Vive的Dan McDowell表示：“我们不是一家社交媒体公司。”“我们不会用眼镜上使用的任何信息来训练我们的AI模型或任何第三方AI模型。”"
+        },
+        {
+          "t": "p",
+          "x": "问题在于，Eagle看起来很像Meta眼镜，担心隐私的人可能不知道二者的区别。"
+        }
+      ]
+    },
+    "gadgets/gadgets-heygemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+          "cap": "Xreal Aura"
+        },
+        {
+          "t": "p",
+          "x": "从Google Assistant的“Hey Google”和“Ok Google”起步的唤醒词，如今似乎正走向“Hey Gemini”。我们拆解最新版Google应用后，发现了指向Android XR设备新唤醒词“Hey Gemini”的字符串。"
+        },
+        {
+          "t": "p",
+          "x": "字符串显示，用户可以说“Hey Google”或“Hey Gemini”来唤起AI助手，并说“Ok Google”开始对话。“Hey Gemini”唤醒词默认不开启，需要打开“Wear Detection”；该选项位于Glasses偏好设置中。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+          "cap": "Xreal Aura"
+        },
+        {
+          "t": "p",
+          "x": "Google似乎还会在你佩戴眼镜时优先让眼镜与Gemini对话，避免手机和眼镜同时被唤醒。"
+        },
+        {
+          "t": "p",
+          "x": "我们还发现了指向相机集成的字符串。Android XR眼镜用户可以问“What plant am I looking at?”（我看到的是什么植物？）之类的问题。Gemini能够打开相机，“看到”你正在看的东西。Google很可能允许关闭这一功能，你也仍可以说“turn on the camera”或“turn off the camera”来使用相机。"
+        },
+        {
+          "t": "p",
+          "x": "新的“Hey Gemini”唤醒词也可能登陆智能手机。"
+        }
+      ]
     }
   }
 }

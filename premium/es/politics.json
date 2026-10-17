@@ -2737,6 +2737,105 @@
           "x": "Rangarajan también dijo que la Comisión cree haber detectado “sesgo algorítmico” en al menos una red social, que sufre entre 30.000 y 40.000 ciberataques al mes y que aplica leyes de 1983 o 2000 que están “muy desactualizadas”."
         }
       ]
+    },
+    "politics/politics-nk-ai-torpedo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Corea del Norte afirmó el sábado que había probado un nuevo sistema de torpedo AI-powered (impulsado por IA), en medio de una serie de recientes demostraciones de armamento."
+        },
+        {
+          "t": "p",
+          "x": "La agencia estatal de noticias KCNA informó que la prueba involucró el sistema de torpedo Zam-2.0, de «súper velocidad y guiado de precisión», que según dijo utiliza inteligencia artificial para ayudar en la detección de objetivos y el guiado. El informe señaló que la prueba verificó los sistemas de propulsión del arma."
+        },
+        {
+          "t": "p",
+          "x": "La prueba se produce después de que Corea del Norte también probara el miércoles dos tipos de misiles de crucero estratégicos lanzados bajo el agua, como parte de lo que se cree que es un impulso para reforzar sus capacidades navales. Se cree que los misiles fueron disparados desde un submarino."
+        },
+        {
+          "t": "p",
+          "x": "Corea del Norte también ha realizado varias pruebas de misiles balísticos en las últimas semanas, mientras busca ampliar su arsenal en medio de crecientes tensiones con su vecina Corea del Sur."
+        },
+        {
+          "t": "p",
+          "x": "En agosto, el presidente de EE. UU., Donald Trump, dijo a los periodistas que el líder norcoreano Kim Jong-un tenía «57 armas nucleares muy poderosas», al tiempo que volvía a destacar la relación entre ambos. Trump dijo entonces que tenía la intención de reunirse con Kim más adelante este año, aunque no dio más detalles sobre el plan."
+        }
+      ]
+    },
+    "politics/politics-duv-controls": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En el pódcast ChinaTalk, Saif Khan —exfuncionario del NSC y del Departamento de Comercio que ahora lanza el Center for Technology and Statecraft (CTS), un think tank IFP-affiliated (afiliado al IFP)— analiza el primer gran informe del CTS, un estudio a fondo sobre la litografía DUV de inmersión dirigido por el investigador sénior Nick Brown."
+        },
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Khan afirma que Japón y los Países Bajos son los únicos fabricantes de estas herramientas, que Huawei utiliza para sus chips más avanzados de 7nm, y que probablemente China no tendrá una herramienta comercial propia hasta mediados de los años treinta (mid-2030s). Los controles de 2023 aún permiten la entrada en China de algunas herramientas DUV de inmersión menos avanzadas; la base instalada, de unas 170–180 herramientas, se ha duplicado aproximadamente desde entonces."
+        },
+        {
+          "t": "p",
+          "x": "El informe proyecta que Estados Unidos podría producir del orden de mil millones de chips H100-equivalent (equivalentes a H100) al año hacia mediados de los años treinta (mid-2030s), mientras que detener hoy las exportaciones de DUV de inmersión probablemente limitaría la producción propia de China a unos diez millones al año. Khan lo considera posiblemente la palanca más decisiva sobre la brecha de IA US-China, mientras el Congreso debate la MATCH Act, que incluye posibles controles al DUV."
+        }
+      ]
+    },
+    "politics/politics-ai-optimists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+          "cap": "Rest of World/iStock"
+        },
+        {
+          "t": "p",
+          "x": "En un ensayo de la sección Ideas de Rest of World, Payal Arora, titular de la cátedra de Inclusive AI Cultures en la Universidad de Utrecht, sostiene que en Occidente el miedo a la IA ha contribuido a convertir el pesimismo en una virtud cultural."
+        },
+        {
+          "t": "p",
+          "x": "Solo el 17% de los adultos de Estados Unidos (U.S.) cree que la IA tendrá un impacto positivo en el país en los próximos 20 años, según una encuesta de Pew de 2025. El AI Index 2025 de Stanford halló que el 83% en China, el 80% en Indonesia y el 77% en Tailandia dijo que los productos de IA ofrecen más beneficios que inconvenientes, frente al 39% en EE. UU. y el 36% en los Países Bajos."
+        },
+        {
+          "t": "p",
+          "x": "Arora señala a los jóvenes usuarios de todo el Sur Global, los microdramas AI-made (hechos con IA) de China e India Stack como ejemplos de tecnología construida en torno a necesidades concretas y no a la cuota de mercado. «Occidente está advirtiendo al mundo sobre lo que la IA podría hacernos. Quizá sea hora de preguntar qué podría enseñarnos el resto del mundo a hacer con ella»."
+        }
+      ]
+    },
+    "politics/politics-cma-microsoft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La Competition and Markets Authority (CMA) propone designar a Microsoft con estatus de mercado estratégico (SMS) en su ecosistema de software empresarial y abrirá ahora una consulta antes de tomar una decisión final. También ha publicado una hoja de ruta indicativa con las áreas de posibles intervenciones futuras."
+        },
+        {
+          "t": "p",
+          "x": "El software empresarial de Microsoft (que incluye Word, Excel, Outlook, PowerPoint, Teams y, cada vez más, Copilot) lo usan más de un millón de empresas y organismos públicos del Reino Unido (UK), con unos 20 millones de usuarios mensuales. El sector cambia con rapidez, con un giro hacia la AI agéntica en herramientas de trabajo conocidas."
+        },
+        {
+          "t": "p",
+          "x": "Entre las áreas que se investigarán figuran si los clientes pueden elegir libremente las mejores herramientas de AI y si los proveedores alternativos de AI compiten en igualdad de condiciones con Copilot de Microsoft, cómo Microsoft agrupa sus productos de seguridad y sus prácticas de licencias en la nube."
+        },
+        {
+          "t": "p",
+          "x": "“Las organizaciones deberían poder elegir los productos que mejor les funcionen, cambiar de proveedor cuando quieran y combinar servicios de distintos proveedores”, afirmó la directora ejecutiva de la CMA, Sarah Cardell."
+        },
+        {
+          "t": "p",
+          "x": "Las conclusiones son provisionales y la decisión final llegará antes del plazo legal de febrero de 2027. La designación SMS no presupone ninguna infracción."
+        }
+      ]
     }
   }
 }

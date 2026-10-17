@@ -1,30 +1,25 @@
 {
- "date": "2026-10-17",
- "section": "politics",
+ "date": "2026-10-18",
  "media": [
   {
-   "id": "politics-cma-microsoft",
+   "id": "politics-apple-nudify",
    "type": "image",
-   "src": "pipeline/media/politics-cma-microsoft.jpg"
+   "src": "pipeline/media/politics-apple-nudify.jpg"
   },
   {
-   "id": "politics-china-open-weight",
+   "id": "politics-nk-ai-torpedo",
    "type": "image",
-   "src": "pipeline/media/politics-china-open-weight.jpg"
+   "src": "pipeline/media/politics-nk-ai-torpedo.jpg"
   },
   {
-   "id": "politics-eu-raise",
-   "type": "svg"
+   "id": "politics-duv-controls",
+   "type": "image",
+   "src": "pipeline/media/politics-duv-controls.jpg"
   },
   {
-   "id": "politics-eu-ai-act-pressure",
+   "id": "politics-ai-optimists",
    "type": "image",
-   "src": "pipeline/media/politics-eu-ai-act-pressure.jpg"
-  },
-  {
-   "id": "politics-brookings-ai-evals",
-   "type": "image",
-   "src": "pipeline/media/politics-brookings-ai-evals.jpg"
+   "src": "pipeline/media/politics-ai-optimists.jpg"
   }
  ]
 }

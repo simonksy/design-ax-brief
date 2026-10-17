@@ -1,100 +1,119 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "section": "books",
   "picks": [
     {
-      "url": "http://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101557-authors-guild-issues-ai-guidelines-for-publishers.html",
-      "title": "Authors Guild Issues AI Guidelines for Publishers",
-      "source": "Publishers Weekly",
+      "url": "https://janefriedman.com/us-copyright-office-starts-to-question-authors-about-potentially-ai-generated-work/",
+      "title": "US Copyright Office starts to question authors about potentially AI-generated work",
+      "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-10-16T04:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132259-1.JPG",
-      "excerpt": "The Authors Guild released AI best-practice guidelines for publishers, with a top concern being the growing use of 'imperfect AI detectors' against authors; it follows the Guild's May guidance for authors and aims to ensure mutual trust.",
+      "published_iso": "2026-10-07T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png",
+      "excerpt": "Humans are checking every manuscript and, in some instances, the Copyright Office sends a follow-up email asking the author to clarify their use of AI.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "A new primary policy document: the Authors Guild's first AI best-practice guidelines aimed at publishers, which take direct aim at unreliable AI detectors used against authors."
+      "rationale": "A concrete procedural change: the US Copyright Office is checking manuscripts by hand and emailing authors to clarify their AI use, which changes how authors file registrations."
     },
     {
-      "url": "https://goodereader.com/blog/e-book-news/google-launched-expert-intelligence-on-google-play-books",
-      "title": "Google launched Expert Intelligence on Google Play Books",
-      "source": "Good e-Reader",
+      "url": "https://www.donga.com/news/It/article/all/20261017/134859201/1",
+      "title": "“AI 때문에 내 책 안 팔리면 저작권 침해?”…美 연구진 반론",
+      "source": "동아일보",
       "category": "books",
-      "published_iso": "2026-10-10T05:38:09+00:00",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/10013738/Google-Expert-Intelligence-Play-Books-Gemini-Notebook-integration.webp",
-      "excerpt": "Eligible Play Books e-books can now be added to Gemini Notebook as grounded sources to generate quizzes, infographics and Audio Overviews; 100,000+ titles from PRH, Macmillan, Bloomsbury and others.",
-      "source_lang": "en",
+      "published_iso": "2026-10-17T20:57:57+09:00",
+      "og_image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/17/134859202.1.jpg",
+      "excerpt": "UC버클리 파멜라 새뮤얼슨 교수 연구진이 사이언스에 낸 논문에서, AI가 인간 작가의 책 시장을 잠식한다는 '시장 희석' 이론은 실제 피해 입증이 어렵고 저작권 원칙과 충돌한다며 소송보다 입법으로 풀어야 한다고 지적했다.",
+      "source_lang": "ko",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "A concrete product release: purchased Play Books e-books (100,000+ licensed titles from PRH, Macmillan, Bloomsbury) become grounded sources in Gemini Notebook, so readers get a new licensed AI reading feature."
+      "rationale": "A new Science paper by Pamela Samuelson's team challenges the 'market dilution' theory at the centre of the authors' AI copyright suits, and argues that legislation, not litigation, should settle it."
     },
     {
-      "url": "https://www.sedaily.com/article/20102227",
-      "title": "AI로 만든 '딸깍 서적' 판치는 한국…저작권 보호는 '걸음마'",
-      "source": "서울경제",
+      "url": "https://feedback.sudowrite.com/changelog/introducing-worldbuilding-images",
+      "title": "Introducing Worldbuilding Images",
+      "source": "Sudowrite",
       "category": "books",
-      "published_iso": "2026-10-15T19:10:18+09:00",
-      "og_image": "https://wimg.sedaily.com/news/cms/2026/10/15/rcv.YNA.20261015.PRU20261015051201009_Z1.jpg",
-      "excerpt": "AI 번역을 그대로 책으로 내는 저품질 '딸깍 출판'이 국내에서 먼저 문제로 부각되는 가운데, AI 기본법에 인간 창작물 보호·AI 창작물 표시 규정이 모호해 저작권 보호가 뒤처졌다는 지적.",
-      "source_lang": "ko",
+      "published_iso": "2026-10-07T19:34:34.549Z",
+      "og_image": "https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/static/01a1174c-0a23-7e8f-bac2-0885c12e2750/dionnxabcc.png",
+      "excerpt": "Sudowrite adds Worldbuilding Images, generating AI visuals for locations, objects and other Story Bible worldbuilding elements, following last week's Character Portraits for novelists' casts.",
+      "source_lang": "en",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "Reports that low-quality 'ttalkkak' books, AI translations printed as-is, are spreading in Korea. It also finds that the AI Basic Act's rules on protecting human work and labelling AI output are too vague to help. That puts AI squarely at the centre of a Korean publishing-quality and copyright gap."
+      "rationale": "A new product release in a novelist's tool: Story Bible can now generate images of locations and objects, not just characters, so writers can do visual worldbuilding without leaving the tool."
     },
     {
-      "url": "https://www.yna.co.kr/view/AKR20261016078400005",
-      "title": "출판인회의 \"AI 기업, 학습에 이용한 책에 정당한 보상하라\"",
-      "source": "연합뉴스",
+      "url": "https://www.news1.kr/it-science/internet-platform/6320039",
+      "title": "웹툰·웹소설을 AI 애니로…카카오픽코마 '탈웹툰' 승부수",
+      "source": "뉴스1",
       "category": "books",
-      "published_iso": "2026-10-16T12:57:58+09:00",
-      "og_image": "https://img0.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016078400005_01_i_P4.jpg",
-      "excerpt": "한국출판인회의가 '책이 없으면 AI도 없습니다' 호소문 연명을 시작했다. AI 학습은 권리자 이용 허락이 원칙이며, 학습 이용 작품·출처 기록 공개와 정당한 대가 지급을 요구했다.",
+      "published_iso": "2026-10-14T17:01:52+09:00",
+      "og_image": "https://i3n.news1.kr/system/photos/2026/10/14/8158907/high.jpg",
+      "excerpt": "카카오픽코마가 웹툰·웹소설 원작을 AI 애니메이션으로 제작하는 '탈웹툰' 전략에 나섰다. AI로 영상화 비용과 기간을 줄여 IP를 확장하려는 시도.",
       "source_lang": "ko",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "The Korean Publishers Society has launched a formal signature campaign, 'No books, no AI'. It demands consent, disclosure of the works used for training, and payment. It is a new collective action following this week's revelations about Anthropic and the bulk book purchases."
+      "rationale": "A new company strategy: Kakao Piccoma will use AI to turn webtoon and web-novel IP into animation, cutting the cost and time of adaptation."
+    },
+    {
+      "url": "https://en.sedaily.com/culture/2026/10/15/culture-minister-pledges-ai-support-for-webtoon-creators",
+      "title": "Culture Minister Pledges AI Support for Webtoon Creators",
+      "source": "Seoul Economic Daily",
+      "category": "books",
+      "published_iso": "2026-10-15T10:45:01+09:00",
+      "og_image": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.3e465163d1504eafb0c06a53cb70804d_P1.jpg",
+      "excerpt": "South Korea's culture ministry pledged AI support for webtoon creators, with 32.7 billion won allocated in the 2027 budget proposal.",
+      "source_lang": "en",
+      "tool": "Books",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "rationale": "A concrete government commitment: 32.7 billion won in Korea's 2027 budget proposal for AI support to webtoon creators."
     }
   ],
   "alternates": [
     {
-      "url": "https://lithub.com/why-are-publishers-suing-big-tech-with-one-hand-and-embracing-ai-with-the-other/",
-      "title": "Why Are Publishers Suing Big Tech With One Hand and Embracing AI With the Other?",
-      "source": "Literary Hub",
+      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-programs-explore-ais-impact-on-translation-and-the-future-of-publishing/",
+      "title": "Frankfurter Buchmesse 2026: Programs Explore AI's Impact on Translation, and the Future of Publishing",
+      "source": "Publishing Perspectives",
       "category": "books",
-      "published_iso": "2026-10-15T09:10:37+00:00",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/AI-hands-scaled.jpg",
-      "excerpt": "Essay from an Authors Guild 'Whose Truth?' panel on authorship and AI, interrogating publishers who litigate against AI firms while adopting AI tools in-house.",
+      "published_iso": "2026-10-16T12:50:20+00:00",
+      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png",
+      "excerpt": "With AI a major topic of conversation at this year's fair, research presented in Czechia's Frankfurt pavilion examined how publishing professionals use AI—and why literary translators remain concerned about their livelihoods.",
       "source_lang": "en",
-      "rationale": "Commentary column framed around the Wired 10-10 'publishers quietly using more AI' story, so it is the same running story."
+      "rationale": "First backup if a pick is swapped. It belongs to the saturated Frankfurt and translation thread (ENLIT 10-11, Nippon 10-15) and was passed over on 10-17."
     }
   ],
   "dedup": {
     "checks": {
-      "http://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101557-authors-guild-issues-ai-guidelines-for-publishers.html": {
+      "https://janefriedman.com/us-copyright-office-starts-to-question-authors-about-potentially-ai-generated-work/": {
         "verdict": "new",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101364-authors-guild-calls-on-publishers-to-share-the-anthropic-wealth.html",
+        "nearest": "https://www.thebookseller.com/news/intellectual-property-office-registers-uks-first-human-authored-certification-mark",
         "new_action": ""
       },
-      "https://goodereader.com/blog/e-book-news/google-launched-expert-intelligence-on-google-play-books": {
+      "https://www.donga.com/news/It/article/all/20261017/134859201/1": {
+        "verdict": "new",
+        "nearest": "https://janefriedman.com/openai-seeks-to-exclude-book-market-study-citing-funding-ties-to-authors-law-firm/",
+        "new_action": ""
+      },
+      "https://feedback.sudowrite.com/changelog/introducing-worldbuilding-images": {
         "verdict": "follow-up",
-        "nearest": "https://www.voiceoverherald.com/google-gemini-tts-voice-copy-30-seconds-consent/",
-        "new_action": "New feature release: Play Books e-books can now be added to Gemini Notebook as grounded sources (quizzes, infographics, Audio Overviews). The original Expert Intelligence launch on 08-28 falls outside the 30-day history. The tagged nearest item, a Gemini TTS voice model, is a different story."
+        "nearest": "https://feedback.sudowrite.com/changelog/introducing-character-portraits",
+        "new_action": "New feature release: Worldbuilding Images, which generates images for Story Bible locations, objects and worldbuilding elements. It is a separate launch from the Character Portraits feature published 09-28."
       },
-      "https://www.sedaily.com/article/20102227": {
+      "https://www.news1.kr/it-science/internet-platform/6320039": {
         "verdict": "new",
-        "nearest": "https://www.hani.co.kr/arti/culture/book/1280041.html",
+        "nearest": "https://eu.36kr.com/en/p/4003039857055617",
         "new_action": ""
       },
-      "https://www.yna.co.kr/view/AKR20261016078400005": {
+      "https://en.sedaily.com/culture/2026/10/15/culture-minister-pledges-ai-support-for-webtoon-creators": {
         "verdict": "new",
-        "nearest": "https://chytomo.com/en/publishers-urged-to-join-appeal-for-greater-ai-transparency/",
+        "nearest": "https://www.hankyung.com/article/202610139344i",
         "new_action": ""
       }
     },
-    "note": "REVISION after the coordinator's review. Jane Friedman's PayAuthors post (janefriedman.com/payauthors-com-are-your-books-in-pirate-libraries/) was removed: it is paywalled, and its readable part never mentions AI, so the card's AI claim was unsupported. It was replaced by Seoul Economic Daily 20102227 ('ttalkkak' AI-translated books). That piece is judged distinct from published history. It is about AI-translated print books in Korea and the gaps in the AI Basic Act. The 09-30 Hankyoreh story was the publishing industry proposing an AI-use labelling scheme, and the 09-24 mt.co.kr story was about AI-generated web novels flooding platforms. Both are related themes but neither is the same story. No URL in /tmp/ax_claimed_urls.txt covers this story. The Lit Hub publishers column stays an alternate (commentary on Wired 10-10). EARLIER DROPS (unchanged). Good e-Reader on Audible features: the same launch as TechCrunch 10-02. Jane Friedman on the Wired article: commentary on Wired 10-10. Lit Hub 'Is It or Isn't It': commentary on the Caine Prize accusation (Bookseller 10-13). Bookseller on SoA's unchanged position: a reaction to the ethical AI charter (10-15). Yonhap AI Dotbogi on big tech raiding used bookshops: an explainer on the saturated used-book buying thread. Hankyung on tech firms at Frankfurt: covers the same audiobook push as PW on Audible (10-10) and Spotify (10-11). Publishing Perspectives on Frankfurt translation research: part of the saturated Frankfurt and translation thread, with no og_image. IPDaily on the textbook class action: the suit was filed in August, this is commentary, and the outlet is off-list. Choi Hwi-young remarks: weak fit. Outlets: 4 distinct, one each. No duplicate URLs."
+    "note": "The follow-up rule was applied strictly. DROPPED. dpa on Gruffalo/Scheffler: the illustrator only says he 'intends' or is considering legal action. Nothing has been filed, so it is a development in the 09-14 story with no new concrete event. Orélien: already removed by story_dedup (Bookseller 09-24, Guardian 09-26). Jane Friedman 'About that Wired article' and Lit Hub 'Why are publishers suing...': commentary on Wired 10-10. Lit Hub 'Is It or Isn't It': commentary on the Caine Prize accusation (Bookseller 10-13). Bookseller on SoA's unchanged position and PW on writers groups backing the charter: a reaction to and re-reporting of the ethical AI charter (Bookseller 10-15). Yonhap on Anthropic using 21 Korean books: the same revelation as sedaily 10-16 ('Anthropic illegally downloaded Han Kang books'), with extra reporting only. Yonhap AI Dotbogi on used bookshops: an explainer on the saturated used-book buying thread (09-26, 10-12, 10-15). Good e-Reader on Audible features: the same launch as TechCrunch 10-02. KPI News on webtoon reader reactions: analysis built on Naver's AI character chat (inews24 09-26). LOWER SCORE, not picked: Scholarly Kitchen guest post (opinion), Hankyung interview with Mirae-N's CEO (corporate profile), ANN on the Japan actors union (voice acting, weak fit for books), Publishing Perspectives Frankfurt research (kept as the alternate). Outlets: 5 distinct, one each. No duplicate URLs."
   }
 }

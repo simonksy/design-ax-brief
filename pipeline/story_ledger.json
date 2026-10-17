@@ -2719,30 +2719,65 @@
   {
    "url": "http://www.publishersweekly.com/pw/by-topic/digital/copyright/article/101557-authors-guild-issues-ai-guidelines-for-publishers.html",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Authors Guild 출판사 AI 지침 발표 Authors Guild 출판사용 AI 지침의 최대 우려는 불완전한 AI 탐지기다.",
    "title": "Authors Guild Issues AI Guidelines for Publishers",
    "excerpt": "The Authors Guild released AI best-practice guidelines for publishers, with a top concern being the growing use of 'imperfect AI detectors' against authors; it follows the Guild's May guidance for authors and aims to ensure mutual trust."
   },
   {
    "url": "https://goodereader.com/blog/e-book-news/google-launched-expert-intelligence-on-google-play-books",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Play Books 전자책 Gemini 소스가 된다 Play Books 100,000여종이 Gemini Notebook 소스가 됐다.",
    "title": "Google launched Expert Intelligence on Google Play Books",
    "excerpt": "Eligible Play Books e-books can now be added to Gemini Notebook as grounded sources to generate quizzes, infographics and Audio Overviews; 100,000+ titles from PRH, Macmillan, Bloomsbury and others."
   },
   {
    "url": "https://www.sedaily.com/article/20102227",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "AI ‘딸깍 출판’ 확산 저작권 보호는 걸음마 AI 번역을 그대로 책으로 내는 딸깍 출판이 부각되지만 저작권 제도는 뒤처졌다.",
    "title": "AI로 만든 '딸깍 서적' 판치는 한국…저작권 보호는 '걸음마'",
    "excerpt": "AI 번역을 그대로 책으로 내는 저품질 '딸깍 출판'이 국내에서 먼저 문제로 부각되는 가운데, AI 기본법에 인간 창작물 보호·AI 창작물 표시 규정이 모호해 저작권 보호가 뒤처졌다는 지적."
   },
   {
    "url": "https://www.yna.co.kr/view/AKR20261016078400005",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "출판인회의, AI에 책 학습 보상 요구 출판인회의가 AI 학습 도서의 출처 공개와 정당한 보상을 요구했다.",
    "title": "출판인회의 \"AI 기업, 학습에 이용한 책에 정당한 보상하라\"",
    "excerpt": "한국출판인회의가 '책이 없으면 AI도 없습니다' 호소문 연명을 시작했다. AI 학습은 권리자 이용 허락이 원칙이며, 학습 이용 작품·출처 기록 공개와 정당한 대가 지급을 요구했다."
+  },
+  {
+   "url": "https://en.sedaily.com/culture/2026/10/15/culture-minister-pledges-ai-support-for-webtoon-creators",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Culture Minister Pledges AI Support for Webtoon Creators",
+   "excerpt": "South Korea's culture ministry pledged AI support for webtoon creators, with 32.7 billion won allocated in the 2027 budget proposal."
+  },
+  {
+   "url": "https://feedback.sudowrite.com/changelog/introducing-worldbuilding-images",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Introducing Worldbuilding Images",
+   "excerpt": "Sudowrite adds Worldbuilding Images, generating AI visuals for locations, objects and other Story Bible worldbuilding elements, following last week's Character Portraits for novelists' casts."
+  },
+  {
+   "url": "https://janefriedman.com/us-copyright-office-starts-to-question-authors-about-potentially-ai-generated-work/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "US Copyright Office starts to question authors about potentially AI-generated work",
+   "excerpt": "Humans are checking every manuscript and, in some instances, the Copyright Office sends a follow-up email asking the author to clarify their use of AI."
+  },
+  {
+   "url": "https://www.donga.com/news/It/article/all/20261017/134859201/1",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "“AI 때문에 내 책 안 팔리면 저작권 침해?”…美 연구진 반론",
+   "excerpt": "UC버클리 파멜라 새뮤얼슨 교수 연구진이 사이언스에 낸 논문에서, AI가 인간 작가의 책 시장을 잠식한다는 '시장 희석' 이론은 실제 피해 입증이 어렵고 저작권 원칙과 충돌한다며 소송보다 입법으로 풀어야 한다고 지적했다."
+  },
+  {
+   "url": "https://www.news1.kr/it-science/internet-platform/6320039",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "웹툰·웹소설을 AI 애니로…카카오픽코마 '탈웹툰' 승부수",
+   "excerpt": "카카오픽코마가 웹툰·웹소설 원작을 AI 애니메이션으로 제작하는 '탈웹툰' 전략에 나섰다. AI로 영상화 비용과 기간을 줄여 IP를 확장하려는 시도."
   }
  ],
  "design": [
@@ -6137,37 +6172,72 @@
   {
    "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Cursor 에이전트가 공유 캔버스를 만든다 Cursor 클라우드 에이전트가 인터랙티브 캔버스를 만들고 링크로 팀에 공유한다.",
    "title": "Cloud Agent Canvases and Environment Improvements",
    "excerpt": "Cursor's cloud agents can now build interactive canvases as part of their work and share them with a team by link. An Environments API also entered beta, with support for up to 300 repos per environment."
   },
   {
    "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e3882630",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "결과의 주인이 없다면 루프 속 사람은 무의미 Patrick Neeman은 에이전트에 결과를 책임질 사람이 필요하다고 본다.",
    "title": "Human in the loop means making sure the human is not out of the loop",
    "excerpt": "Agents now act before we ask and reach past what we authorized. Patrick Neeman argues that a person in the loop is not enough if nobody owns the outcome, and lists what designers should consider when designing agent experiences."
   },
   {
    "url": "https://vercel.com/blog/vercel-ship-2026-recap",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "SAP, 디자인 시스템을 사람·에이전트용으로 재편 Vercel Ship: SAP에선 사람·에이전트가 같은 부품으로 UIs를 짠다.",
    "title": "Vercel Ship 2026 recap",
    "excerpt": "Vercel's Ship recap includes SAP rebuilding its design system to be composable so that people and agents assemble interfaces from the same parts with v0 and json-render, ZoomInfo embedding v0 for 40,000+ customers, and Notion's Ivan Zhao telling designers to 'design the API first and the UI last'."
   },
   {
    "url": "https://www.figma.com/blog/design-together-with-code-layers/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Figma 코드 레이어 캔버스에 코드 프로토타입 Figma 코드 레이어가 오픈 베타로 나와 캔버스에서 코드 프로토타입을 비교한다.",
    "title": "Design together with code layers on the canvas",
    "excerpt": "Code layers is now in open beta. Teams can build code-backed prototypes on the Figma canvas, starting from GitHub, a local folder, a prototype brought in through the Figma MCP server, or a live site captured with the Chrome extension, and then compare variations side by side."
   },
   {
    "url": "https://www.krea.ai/blog/introducing-krea-3",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Krea 3, 몇 초 만에 2K 편집 장당 $0.06 Krea 3은 2K 편집 대부분을 8초 안에 끝내고 제품과 인물을 일관되게 지킨다.",
    "title": "Introducing Krea 3",
    "excerpt": "Krea released Krea 3, a new image editing model. Most edits finish in under 8 seconds at native 2K for $0.06 an image, take up to 6 reference images, and keep products and characters consistent from one image to the next. It is live for Krea's 30M users and through fal, Replicate and OpenRouter."
+  },
+  {
+   "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+   "excerpt": "Adobe is optimizing its agentic creative apps Photoshop, Premiere and Substance 3D for NVIDIA's RTX Spark superchip, claiming up to 2x faster AI processing, editing, color and effects, and accelerating Frame.io and Brand Concierge in the cloud."
+  },
+  {
+   "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Is Your Organization Messing Up AI Adoption?",
+   "excerpt": "Paul Boag revisits his book Digital Adaptation to show how lessons from digital transformation apply to AI adoption in design and digital teams, and where organizations are repeating the same mistakes."
+  },
+  {
+   "url": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "The AI experience doesn't care about your org chart",
+   "excerpt": "Kate Agena argues AI is merging content design, enterprise content strategy, knowledge management and model behavior into one user experience, and DesignOps ways of working haven't caught up."
+  },
+  {
+   "url": "https://www.figma.com/blog/build-by-design/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Build by Design: New workflows for new ways of building",
+   "excerpt": "Figma's Config India recap: beyond code layers and Specs, design systems can now carry guidelines and import code sources from a GitHub repo or npm package so agents build and edit components that follow the team's patterns, plus a preview of a single home for all system libraries."
+  },
+  {
+   "url": "https://www.figma.com/blog/websites-with-payload-in-figma/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Create, ship, and manage data-backed websites with Payload in Figma",
+   "excerpt": "Payload, the open-source headless CMS whose team joined Figma, is now built into Figma Make so teams can build and host sites and apps with a built-in backend and manage content and data from prototype to production."
   }
  ],
  "gadgets": [
@@ -9170,37 +9240,72 @@
   {
    "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Meta AI 안경이 연 밀라노 Brera 예술 Meta·EssilorLuxottica·Brera가 AI 안경 예술 시범을 연다.",
    "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
    "excerpt": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art - Discovering Masterpieces Beyond What Meets the Eye.” This pilot"
   },
   {
    "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Galaxy AI와 Bixby 지원 언어 확대 Samsung이 Galaxy AI와 Bixby의 지원 언어를 늘렸다.",
    "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
    "excerpt": "Samsung is expanding language support for Galaxy AI and Bixby, bringing these experiences "
   },
   {
    "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Android XR 안경에 Hey Gemini 온다 Google이 Android XR에 Hey Gemini·카메라 호출을 준비한다.",
    "title": "Google’s next Gemini trick could change how you use Android XR glasses",
    "excerpt": "\"Hey Gemini\" is coming for \"Ok Google\" — a new hotword and camera-activation flow for Gemini on Android XR glasses. (Published time from outlet RSS; page 403 to fetchers.)"
   },
   {
    "url": "https://www.notebookcheck.net/myFirst-s-AI-camera-and-printer-turn-kids-ideas-into-instant-comics.1423897.0.html",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "아이 생각을 즉석 만화로 바꾸는 myFirst myFirst의 magiCam·magiBox는 사진과 말을 색칠본·만화로 바꾼다.",
    "title": "myFirst's AI camera and printer turn kids' ideas into instant comics",
    "excerpt": "The Insta magiCam turns photos into coloring pages, stickers and illustrations, while the magiBox transforms spoken ideas into printable artwork and four-panel comics. (Published time from outlet RSS; page 403 to fetchers.)"
   },
   {
    "url": "https://www.tomsguide.com/ai/apple-says-siri-doesnt-need-to-beat-chatgpt-heres-what-its-betting-on-instead",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Siri는 ChatGPT를 이길 필요가 없다 Apple CEO는 TIME에 Siri가 iPhone의 개인 데이터에 건다고 했다.",
    "title": "Apple says Siri doesn't need to beat ChatGPT — here's what it's betting on instead",
    "excerpt": "Apple CEO John Ternus explains why Siri AI doesn't need to beat ChatGPT or Claude, and how your iPhone's personal data could give it an edge."
+  },
+  {
+   "url": "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "MacPaw launches Eney, a proactive AI assistant for Mac and iPhone",
+   "excerpt": "MacPaw is releasing Eney, a proactive AI assistant that works across your apps, files, and system to help you get things done."
+  },
+  {
+   "url": "https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Anker launches new window-mounted camera with 25-degree tilt and local AI detection",
+   "excerpt": "Eufy has launched the Window Camera E10, a 64.1g security camera that sticks to the inside of a window to watch driveways and entrances from indoors. It records 2688 x 1520 video at 15fps through an f/1.0 lens and saves footage to microSD cards of up to 256GB. Detection of people, vehicles and pets runs on the device, with no subscription."
+  },
+  {
+   "url": "https://www.tomsguide.com/computing/laptops/asus-proart-p16-rtx-spark-review",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "I tested the Asus ProArt P16 with Nvidia RTX Spark and it's the ultimate AI creator laptop (with a price to match)",
+   "excerpt": "A new standard of AI creativity on the move"
+  },
+  {
+   "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM",
+   "excerpt": "You can even chat with the LLM remotely from other devices."
+  },
+  {
+   "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "HTC Made Smart Glasses That Are Way More Private",
+   "excerpt": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform."
   }
  ],
  "games": [
@@ -12021,30 +12126,65 @@
   {
    "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "게임 개발 덮친 바이브 코딩, 업계 진단 Take-Two 전 AI 책임자와 Godot 대표가 바이브 코딩 열풍을 짚었다.",
    "title": "Interview: The Video Game Industry's Vibe-Coded Future",
    "excerpt": "Take-Two's former head of AI and Godot Engine's executive director discuss the Claude Opus-shaped problem facing game development as vibe coding floods the industry."
   },
   {
    "url": "https://kotaku.com/anime-gambling-horror-game-ditches-free-steam-demo-over-fears-of-getting-ripped-off-by-ai-2000746794",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "AI 모방작 우려에 호러 게임, 데모 철회 호러 게임 개발진이 AI 복제를 걱정해 Steam 데모를 비공개 시연으로 바꿨다.",
    "title": "Anime Gambling Horror Game Ditches Free Steam Demo So It Doesn't Get Ripped Off By AI",
    "excerpt": "The developers of Drunken Goddess Reflux cancelled their free Steam demo for a closed beta, fearing genAI copycats would clone the game before launch."
   },
   {
    "url": "https://www.gamesradar.com/games/our-industry-is-rotting-and-ai-pushed-things-over-the-edge-so-the-creator-of-dayz-wants-to-change-how-games-are-made-with-some-of-the-smartest-devs-in-the-industry/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "DayZ 개발자, AI에 무료 BRUTAL로 답하다 Dean Hall이 AI로 업계가 한계를 넘었다며 무료 BRUTAL을 공개했다.",
    "title": "\"Our industry is rotting\" and AI \"pushed things over the edge,\" so the DayZ creator wants to change how games are made",
    "excerpt": "Dean Hall says AI pushed the industry over the edge and launches BRUTAL, a free open-source development framework, with the Kerbal Space Program creator on board."
   },
   {
    "url": "https://www.gamesradar.com/games/super-smash-bros-and-kirby-creator-masahiro-sakurai-says-original-games-will-be-harder-for-ai-to-rip-off-but-originality-also-makes-your-game-harder-to-sell/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "사쿠라이, 독창성을 AI 복제 방패로 본다 사쿠라이는 독창적인 게임일수록 AI가 베끼기 어렵지만 팔기도 어렵다고 본다.",
    "title": "Masahiro Sakurai says original games will be harder for AI to rip off, but originality also makes them harder to sell",
    "excerpt": "Smash Bros and Kirby creator Masahiro Sakurai argues AI has made existing design problems worse, and that originality is the defense against AI clones even if it hurts marketability."
+  },
+  {
+   "url": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Accused of using AI in World of Warcraft Forever videos, Blizzard employee says \"hell nah, we have real team members\"",
+   "excerpt": "\"We don't use AI on ANY social content we make\""
+  },
+  {
+   "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
+   "excerpt": "City residents and leaders denounced the free web game, which was taken down."
+  },
+  {
+   "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Google Play launches discoverability tool Game Finder using \"gamer DNA\"",
+   "excerpt": "Google Play's Game Finder uses Google AI to build a \"gamer DNA\" profile from play habits, then recommends games by genre and mechanic. Players can also filter out titles that push in-app purchases."
+  },
+  {
+   "url": "https://www.pocketgamer.biz/holger-wurst-junes-journey-player-research-ai/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Wooga's Holger Wurst on designing June's Journey: Player research, AI and the UX rule you can't break",
+   "excerpt": "Wooga's UI/UX lead on the $1B hidden-object game June's Journey, who runs 11 designers, animators and researchers, talks through AI's possibilities and limits for live-game UX and why player research still comes first."
+  },
+  {
+   "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games",
+   "excerpt": "\"Even if AI use does lead to improvements in production efficiency I believe that the most important factors in producing... innovative video games are people.\""
   }
  ],
  "marketing": [
@@ -12394,37 +12534,72 @@
   {
    "url": "https://ppc.land/thrad-commits-1m-in-ad-spend-to-ai-chat-apps-testing-in-chat-ads/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Thrad, AI 앱 채팅 광고에 $1M 투입 Thrad가 채팅 광고를 시험하는 AI 앱에 최대 100만 달러를 집행한다.",
    "title": "Thrad commits $1m in ad spend to AI chat apps testing in-chat ads",
    "excerpt": "Thrad's Monetization Fund II routes up to $1 million in advertiser campaigns through its DSP to consumer AI apps willing to test in-chat ads, double the $500,000 first round. Ads are matched to the conversation topic rather than a user profile and appear as disclosed native sponsored placements."
   },
   {
    "url": "https://searchengineland.com/chatgpt-ads-introduces-new-measurement-tools-and-visual-ad-formats-496998",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "ChatGPT Ads에 측정 파트너·비주얼 광고 OpenAI가 측정 파트너 6곳을 늘리고 대형 ChatGPT 광고를 시험한다.",
    "title": "ChatGPT Ads introduces new measurement tools and visual ad formats",
    "excerpt": "OpenAI is adding Northbeam, DV Rockerbox and INCRMNTAL plus Kochava, Tenjin and Airbridge as measurement partners, redesigning the Ads Manager Conversions page, sending weekly performance emails, and testing larger images, wider ad cards and a multi-image format. Article HTML is blocked; facts come from the SEL RSS full text."
   },
   {
    "url": "https://searchengineland.com/google-begins-testing-ads-in-ai-mode-for-users-with-personal-intelligence-enabled-496990",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Google AI 모드에 개인 맞춤 광고 시험 Google이 AI 모드에서 연결 앱 맞춤 광고를 시험하며 무광고 방침을 접었다.",
    "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled",
    "excerpt": "Google is reversing the ad-free Personal Intelligence experience and testing AI Mode ads that can be personalized with insights from connected Google apps. Ads won't be based directly on Gmail or Photos content, and advertisers get no access to connected-app data. Facts come from the SEL RSS full text because the article HTML is blocked."
   },
   {
    "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "ChatGPT 광고, 이메일·번호로 타기팅 404 Media가 시험해 보니 ChatGPT 광고는 이메일·전화번호로 타기팅된다.",
    "title": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
    "excerpt": "404 Media reports that advertisers can target ChatGPT users by uploaded email address, phone number or mobile ad ID, on top of prompt context, which most users likely don't realize. This is an off-list outlet: AdExchanger's roundup cites it and no on-list outlet covered it."
   },
   {
    "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Meta 새 약관, 크롤링·학습 권한 확대 Meta는 10월 30일부터 고객사 사이트를 크롤링해 학습에 쓸 수 있다.",
    "title": "Meta's New Terms Expand Crawling Rights Beyond Advertisers",
    "excerpt": "Meta's new commercial terms, effective Oct 30, let it crawl any site tied to a Facebook or Instagram business account and use the content to train its AI products, widening rights ad buyers had already granted. Meta says the purpose is product data, which ties it to AI product ads and shopping. The Verge and PPC Land also covered it."
+  },
+  {
+   "url": "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Brands turn to content series and Jimi Hendrix to improve AI search performance",
+   "excerpt": "Fender and Marshall are funding branded content series and site overhauls partly to give the models behind ChatGPT and other chatbots more to work with, as brands shift spend toward AI-search visibility."
+  },
+  {
+   "url": "https://ppc.land/google-ads-pm-says-target-or-budget-changes-cause-no-learning-period/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Google Ads PM says target or budget changes cause no learning period",
+   "excerpt": "Google Ads PM Tal Akabas said Smart Bidding now scales bids proportionally to new targets on steady campaigns without re-entering learning; a re-engagement mode reaches PMax first, with Search and Shopping next."
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "excerpt": "Meta struck the Commercial Terms language that suggested it could crawl websites 'associated with' business/advertiser accounts to train AI, after backlash; a spokesperson said crawling practice hasn't changed."
+  },
+  {
+   "url": "https://www.adexchanger.com/ai/videoamp-bets-on-ai-to-connect-ad-planning-and-measurement/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "VideoAmp Bets On AI To Connect Ad Planning And Measurement",
+   "excerpt": "With its JIC re-certification in hand, VideoAmp is pushing AI agents to connect TV planning and measurement so buyers can optimize campaigns in flight."
+  },
+  {
+   "url": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem",
+   "excerpt": "ChatGPT-attributed referral traffic fell sharply in several analytics datasets this month; analysts tie it to ChatGPT links opening without tracking tags, an attribution issue for marketers measuring AI-driven visits."
   }
  ],
  "medicine": [
@@ -12781,37 +12956,65 @@
   {
    "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600537",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "LLM 진료 계획 비용 의사 처방과 비교 NEJM AI 연구가 24개 AI로 LLMs 권고 진료비와 의사 처방을 비교했다.",
    "title": "Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians",
    "excerpt": "NEJM AI study evaluating 24 AI models: LLMs are increasingly consulted for clinical decision support, yet the cost of the services or treatment they recommend had not been systematically compared with what treating physicians actually ordered. (Online date verified via Crossref.)"
   },
   {
    "url": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-department-uses-ai-identify-lung-cancer-screening-patients-ehr",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "UC Irvine NLP로 폐암 검진 대상 찾는다 UC Irvine NLP가 서술형 기록 속 흡연력으로 폐암 검진 대상을 찾는다.",
    "title": "Radiology department uses AI to identify lung cancer screening patients in EHR",
    "excerpt": "UC Irvine developed a natural language processing tool that extracts smoking history and identifies lung-cancer-screening-eligible patients from free-text clinical notes."
   },
   {
    "url": "https://www.medigatenews.com/news/1687364519",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "심평원 의료영상 삭제 국감서 데이터 관리 질타 심평원이 저장공간 부족으로 과거 의료영상을 기준 없이 삭제해 국감에서 질타받았다.",
    "title": "[2026 국감] \"AI 시대에 의료영상 삭제, 재산 없앤 셈\"…심평원 데이터 관리 도마",
    "excerpt": "심평원이 저장공간 부족을 이유로 과거 의료영상 데이터를 삭제하고 삭제 기준·표준화도 갖추지 못한 사실이 16일 보건복지위 국정감사에서 질타를 받았다. 의료 AI 학습용 공공 원천데이터 관리 문제."
   },
   {
    "url": "https://www.medigatenews.com/news/2062365725",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "씨어스, UAE 국가검진에 AI 부정맥 파일럿 승인 씨어스가 아부다비 보건부 IRB 승인을 받아 AI 부정맥 국가검진 파일럿에 나선다.",
    "title": "씨어스, UAE 아부다비 보건부 IRB 승인… UAE 최초 AI 부정맥 국가검진 사업자 선정",
    "excerpt": "씨어스가 UAE 세하클리닉과 추진하는 국가 건강검진 프로젝트로 아부다비 보건부 IRB 승인을 받았다. 40세 이상 자국민 연 1회 국가검진에 웨어러블 AI 부정맥 스크리닝을 도입하기 위한 최종 파일럿이다. (게시일: 본문 '16일 밝혔다' 기준)"
   },
   {
    "url": "https://www.nature.com/articles/s41746-026-03357-z",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "일반 MRI로 AI가 파킨슨병·MSA 구분 다기관 모델이 일반 T1-weighted MRI로 파킨슨병과 MSA를 가른다.",
    "title": "Automated differentiation for parkinsonism using clinical structural MRI: A multicenter study",
    "excerpt": "A T1-weighted structural MRI-based AI model differentiates Parkinson's disease from multiple system atrophy using routine clinical scans across multiple centers, avoiding costly research-grade multimodal MRI."
+  },
+  {
+   "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.39048",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Public Perceptions of Timeliness for AI Use and Human Oversight",
+   "excerpt": "Cross-sectional JAMA Network Open study of how patients across birth generations weigh faster AI answers against waiting for human review in patient-portal messaging and mental health support; published with an invited commentary on 'waiting for the human in the loop'. (Date verified via Crossref.)"
+  },
+  {
+   "url": "https://www.nature.com/articles/s41746-026-03333-7",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Artificial intelligence for opportunistic osteoporosis screening on chest radiographs",
+   "excerpt": "AI-OsRM predicts osteoporosis and low bone mineral density from routine chest X-rays; trained on 46,478 paired CXR/DXA exams from 26,757 patients and tested for clinical utility in three external cohorts."
+  },
+  {
+   "url": "https://www.nature.com/articles/s41746-026-03396-6",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "AI-supported first consultation preparation in oncology: a real-world clinical usability study",
+   "excerpt": "Real-world oncology clinic study of AI-based First Consultation Preparation (AI-FCP), an LLM that turns unstructured referral documents into structured summaries before a patient's first oncology visit, measuring workflow performance and clinician usability."
+  },
+  {
+   "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00146-9/fulltext",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Keeping artificial intelligence agents within the clinical task",
+   "excerpt": "Lancet Digital Health comment: general-purpose AI agents (ChatGPT Work, Codex, Claude Cowork, Claude Code) can now operate files and applications on clinicians' computers; the authors argue how to keep them scoped to the clinical task."
   }
  ],
  "movies": [
@@ -15646,37 +15849,72 @@
   {
    "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Mark Wahlberg, AI 분신에도 열려 있다 Mark Wahlberg는 작품을 돕는 AI라면 괜찮다며 AI 분신에도 열려 있다.",
    "title": "Mark Wahlberg on using AI in film 'the right way' and being open to an AI clone carrying on his legacy",
    "excerpt": "Actor and investor Mark Wahlberg says he's OK with AI in filmmaking if it's used 'to enhance what you're doing', and says he is open to an AI clone carrying on his legacy."
   },
   {
    "url": "https://variety.com/2026/artisans/festivals/avatar-ai-ghent-wsa-film-music-days-1236910224/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Avatar 작곡가, AI의 연주 재현에 의문 “Avatar” 작곡가 Simon Franglen은 AI의 연주 재현을 의심했다.",
    "title": "'Avatar: Fire and Ash' Composer and More Speak Out About AI at Ghent's WSA Film Music Days: 'We Must Continue to Defend Our Art'",
    "excerpt": "At the World Soundtrack Awards, 'Avatar: Fire and Ash' composer Simon Franglen said the work of film composers and musicians can never be replicated by AI."
   },
   {
    "url": "https://variety.com/2026/film/global/african-filmmakers-ai-1236904081/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "아프리카 영화계, AI 혁명에 대비한다 Durban FilmMart서 아프리카 영화계가 AI 기대와 비용·편향을 따졌다.",
    "title": "Tilly Nollywood? African Filmmakers — Ready or Not — Get Set for the AI Revolution",
    "excerpt": "Generative AI could transform filmmaking in Africa, but practical challenges across the continent abound."
   },
   {
    "url": "https://www.hollywoodreporter.com/business/digital/ai-comedians-stealing-stand-up-jokes-instagram-onlyfans-1236732931/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "AI 가짜 코미디언이 농담을 통째로 베낀다 AI-generated 봇이 농담 베껴 Instagram서 OnlyFans로 끈다.",
    "title": "Comics Accuse Hot AI Fakes of Stealing Their Jokes Word for Word to Push OnlyFans Pages",
    "excerpt": "Stand-up comics are calling out accounts where AI-generated 'comics' plagiarize their jokes word for word, sometimes for millions of views, to push OnlyFans pages: 'AI stole my joke and my outfit.' Deadline also covered it, at https://deadline.com/2026/10/comedians-ai-joke-theft-natalie-cuomo-olivia-carter-1237165762/."
   },
   {
    "url": "https://www.youtube.com/watch?v=godomkRXBLE",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "CorridorKey 2.0 티저 공개 Corridor Crew가 45초짜리 CorridorKey 2.0 티저를 공개했다.",
    "title": "CorridorKey 2.0 just works...",
    "excerpt": "Corridor Crew shows off CorridorKey 2.0, the new version of the in-house keying tool behind their AI VFX workflow, which composites actors into scenes without a traditional green-screen pull. The video description is only 'This Weekend.', so the enrichment pass needs to confirm what is new in 2.0."
+  },
+  {
+   "url": "https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "'IvyBears' Hits Cannes After YouTube Breakout, Spawns Animated Feature Project",
+   "excerpt": "IvyBears goes brand-to-content with a series and an animated feature project, in a 'reverse flywheel' approach powered by AI and artists alike."
+  },
+  {
+   "url": "https://www.animationmagazine.net/2026/10/tech-reviews-gaomon-pd1561-v2-foundry-smartroto-huion-kamvas-pro-24/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Tech Reviews: Gaomon PD1561 V2, Foundry SmartRoto, Huion Kamvas Pro 24",
+   "excerpt": "Monthly animation/VFX tech review covering Foundry's AI-assisted SmartRoto Nuke add-on for rotoscoping alongside two pen displays."
+  },
+  {
+   "url": "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Can AI Make a Sci-Fi Series for $38,000? Artlist's 'The Arc' Puts It to the Test",
+   "excerpt": "Artlist's AI-made sci-fi series 'The Arc' tests whether generative tools can deliver a watchable series on a $38,000 budget."
+  },
+  {
+   "url": "https://www.screendaily.com/news/filmfest-cottbus-selects-ai-generated-feature-a-woman-asleep-for-main-competition/5220948.article",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "FilmFest Cottbus selects AI-generated feature 'A Woman Asleep' for main competition",
+   "excerpt": "Vikki Bardot's AI-generated feature 'A Woman Asleep' is one of 10 films in FilmFest Cottbus' main competition, a festival-selection milestone for AI features."
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=BExtQ740QgM",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Here's how Hollywood is Directing Their AI Films",
+   "excerpt": "Curious Refuge and Albert Bozesan show an AI camera-control workflow: Claude drives Blender to block shots that guide AI video generation."
   }
  ],
  "music": [
@@ -18483,14 +18721,14 @@
   {
    "url": "https://essential-japan.com/news/vocaloid7-officially-announced-just-6-months-after-hatsune-mikus-v6-debut/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "VOCALOID7 공개 11월 11일, $129 VOCALOID7이 11월 11일 $129에 AI Megpoid와 함께 나온다.",
    "title": "VOCALOID7 Officially Announced Just 6 Months After Hatsune Miku's V6 Debut",
    "excerpt": "Yamaha announced VOCALOID7 with a second-generation VOCALOID:AI singing engine, on sale Nov 11 ($129); AI Megpoid is the launch voicebank and Miku V6 VOCALOID7 voicebanks are planned."
   },
   {
    "url": "https://musically.com/2026/10/16/duke-sanford-study-explores-ai-music-encounters-on-spotify/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Duke 연구진이 찾은 Spotify의 AI 음악 Duke 연구가 Spotify에서 AI임을 알리지 않은 아티스트 아홉을 찾았다.",
    "title": "Duke Sanford study explores AI-music encounters on Spotify",
    "excerpt": "'Spotify won't label AI music. We tried to detect it ourselves': the Duke Sanford Tech Policy Program ran its own detection to measure how often listeners actually encounter AI-generated tracks on Spotify."
   },
@@ -18504,16 +18742,51 @@
   {
    "url": "https://www.billboard.com/pro/umg-sony-demand-distrokid-admit-suno-song-uploads/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "UMG·Sony, 법정서 DistroKid 압박 UMG·Sony가 DistroKid의 월간 AI 곡 수 공개를 법원에 요청했다.",
    "title": "UMG & Sony Demand DistroKid Tell How Many AI Songs It Uploads From Suno: 'Staggering Scale'",
    "excerpt": "Universal Music Group and Sony Music asked a judge to force DistroKid to disclose how many AI songs it uploads from Suno to streaming services - a new discovery fight in the labels' Suno litigation that targets the distribution pipe for AI tracks."
   },
   {
    "url": "https://www.thebureauinvestigates.com/stories/2026-10-15/spotify-ai-artist-badge-global-policy-after-bureau-investigation",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Spotify, AI 표시 Bureau 보도 뒤 도입 TBIJ 질의 엿새 만의 AI Persona 배지가 Danny Bones에 붙었다.",
    "title": "Spotify labels AI artists after Bureau investigation",
    "excerpt": "Spotify's 'AI Persona' badges are now visibly rolling out globally, with Bones among the labelled acts, days after the Bureau of Investigative Journalism questioned its synthetic-artist policy."
+  },
+  {
+   "url": "https://arxiv.org/abs/2610.15350",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Gugak-VocalSet: the first public dataset of Korean traditional singing for music AI",
+   "excerpt": "Gugak-VocalSet: the first public dataset of Korean traditional singing (24.5h, 305 tracks, 20 professional singers via the National Gugak Center) with dense sigimsae pitch-ornament annotations for music AI."
+  },
+  {
+   "url": "https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "BPB starts filtering low-quality AI-built plugins from its news, opens reader poll",
+   "excerpt": "BPB says the flood of plugins built with AI coding tools has lowered average quality and it is now filtering low-quality AI-generated software from its news; a reader poll on AI in music software runs to Oct 20."
+  },
+  {
+   "url": "https://musically.com/2026/10/15/suno-made-track-the-adult-i-dreamed-of-is-a-hit-in-south-korea/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Suno-made track 'The Adult I Dreamed Of' is a hit in South Korea",
+   "excerpt": "A Suno-generated song, 'The Adult I Dreamed Of', has become a streaming hit in South Korea, following last month's debate after the AI track 'Forest of the Heart' entered Melon's Top 100."
+  },
+  {
+   "url": "https://www.gearnews.com/line-6-releases-helix-stadium-guitar/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Line 6 Helix Stadium 1.4 adds on-board stem separation",
+   "excerpt": "Line 6 Helix Stadium firmware 1.4 adds new amps and effects plus an on-board stem separation feature that lets guitarists isolate parts of backing tracks."
+  },
+  {
+   "url": "https://www.youtube.com/watch?v=DY5QI4idlRU",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Initial Audio Difro 2: free AI MIDI melody generator, retrained from scratch",
+   "excerpt": "Initial Audio launches Difro 2, a free AI MIDI melody generator with a model retrained from the ground up, shown in a first-look demo."
   }
  ],
  "politics": [
@@ -19185,37 +19458,65 @@
   {
    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2175",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "EU RAISE 서약 출범 유럽 과학의 AI 지원 집행위는 RAISE로 AI-in-science 연구자에게 민간·자선 지원을 모은다.",
    "title": "Commission launches RAISE pledging initiative to boost AI support for researchers across Europe",
    "excerpt": "Primary doc: at the European AI in Science Summit in Dublin the Commission launched the RAISE (Resource for AI Science in Europe) pledging initiative for AI-in-science enablers."
   },
   {
    "url": "https://restofworld.org/2026/china-open-weight-models/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "패널: 서구 오픈 모델 여전히 중국에 뒤처져 패널은 중국 오픈웨이트 모델이 성능과 비용에서 서구를 앞서나 칩이 한계라고 봤다.",
    "title": "Western open-weight models still can't beat China",
    "excerpt": "Chinese open-weight AI models offer high capability at far lower cost than US frontier systems but face monetization and compute constraints, experts said at a Rest of World event."
   },
   {
    "url": "https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "Brookings, 각국 프런티어 AI 평가 정리 FCAI용 Brookings 자료는 정부와 AI 안전연구소의 모델 시험을 견준다.",
    "title": "How are countries evaluating AI models?",
    "excerpt": "Brookings background briefing (for the FCAI dialogue) comparing how governments and AI safety institutes test and evaluate frontier AI models."
   },
   {
    "url": "https://www.gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "CMA, Microsoft 업무용 SW 전략지위 제안 CMA는 Microsoft 전략지위를 제안해 AI가 Copilot과 겨룰지 본다.",
    "title": "CMA takes first steps to ensure choice in business software (proposes Microsoft strategic market status, AI tools in scope)",
    "excerpt": "Primary doc: the UK Competition and Markets Authority proposes designating Microsoft with strategic market status in business software, explicitly citing agentic AI in workplace tools and whether rival AI providers get a level playing field."
   },
   {
    "url": "https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "빅테크, EU에 AI법 전면 손질 압박 Microsoft는 EU AI법 재검토를 촉구했고 집행위는 충분하다고 맞선다.",
    "title": "The EU is facing Big Tech pressure to revamp its AI law",
    "excerpt": "Microsoft and Google DeepMind executives are pushing Brussels to rework the AI Act for the newest frontier models; Commission officials insist the law is strong enough to handle their security risks."
+  },
+  {
+   "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "What the West can learn from AI optimists in the rest of the world",
+   "excerpt": "Public opinion on AI diverges sharply: enthusiastic, necessity-driven adoption in the developing world contrasts with an anxiety-ridden West."
+  },
+  {
+   "url": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "The Case for DUV Controls",
+   "excerpt": "Former NSC tech official Saif Khan makes the case for extending export controls to DUV lithography tools to constrain China's AI chip production."
+  },
+  {
+   "url": "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "North Korea says it tested new AI-powered torpedo system",
+   "excerpt": "KCNA says North Korea tested the Zam-2.0 torpedo, which uses artificial intelligence to aid target detection and guidance, days after underwater-launched cruise missile tests. (time from page display 09:52 GMT+2)"
+  },
+  {
+   "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Apple's updated App Store rules go after 'nudify' AI apps",
+   "excerpt": "Apple's revised App Store Review Guidelines require developers to prevent and remove sexualized deepfakes, targeting AI 'nudify' apps."
   }
  ],
  "science": [
@@ -21917,37 +22218,72 @@
   {
    "url": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "AI가 설계한 분자 가위 원하는 단백질만 절단 Baker 연구실의 AI 설계 프로테아제가 TDP-43과 아밀로이드베타를 잘랐다.",
    "title": "AI designs working molecular scissors that recognize and cut selected protein targets",
    "excerpt": "Baker lab (UW) used RFdiffusion2, ProteinMPNN and AlphaFold 3 to design cysteine and zinc proteases from scratch; two Nature papers report designs that cut targets such as amyloid-beta and TDP-43, with AI refinement boosting one enzyme ~30-fold."
   },
   {
    "url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "물리 법칙 품은 AI 얇은 자석 속 패턴 읽다 물리 기반 알고리즘이 바깥 자기장만으로 초박막 자석 내부의 자화를 추정한다.",
    "title": "Physics-guided AI reconstructs hidden patterns inside ultrathin magnets from external fields",
    "excerpt": "A physics-guided neural approach infers the internal magnetization of nanoscale magnets from the stray fields microscopes can measure, solving an ill-posed inverse problem relevant to spintronic computing."
   },
   {
    "url": "https://techxplore.com/news/2026-10-electronic-ai-materials.html",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "전자 구조가 이끄는 AI 소재 설계 도쿄 연구진이 MatterGen을 확장해 전자 구조와 결정 구조를 만들게 했다.",
    "title": "Using electronic structure to guide AI in designing new materials",
    "excerpt": "University of Tokyo researchers extended a leading generative AI materials model to condition on electronic structure, steering atom arrangements toward desired properties."
   },
   {
    "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "AI 벤치마크를 흑마술 아닌 과학으로 Moritz Hardt는 AI 벤치마크 생태계가 망가졌다며 대안을 내놓는다.",
    "title": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
    "excerpt": "Moritz Hardt, author of a new book on benchmarks, argues AI's 'standardized tests' are fundamentally broken but fixable, and lays out a science of evaluation."
   },
   {
    "url": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
    "date": "2026-10-17",
-   "ko": "",
+   "ko": "OpenAI 수학 논문에 암호학자들 의견 갈려 OpenAI의 AI-generated 수학 논문 722편에 암호학자들이 갈렸다.",
    "title": "Can AI break encryption? OpenAI's new math has cryptographers divided",
    "excerpt": "OpenAI's bumper crop of 722 AI-generated math papers wowed and worried researchers, and cryptographers are split over whether the algorithms protecting texts and bank logins are next."
+  },
+  {
+   "url": "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Fully automated testing of bulk metals paves the way for AI-driven materials development",
+   "excerpt": "Tohoku University and NIMS built an automated bulk-metal testing line with an AI optimizer that tunes furnace parameters, a step toward a closed-loop self-driving lab that proposes the next heat-treatment conditions itself."
+  },
+  {
+   "url": "https://phys.org/news/2026-10-machine-analysis-gene-reveals-dimension.html",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Machine learning analysis of gene regulation reveals new dimension of biological variability",
+   "excerpt": "The FIRE tool adds a machine-learning step to long-read chromatin-accessibility mapping, scoring each accessible DNA region on maternal and paternal chromosomes for real regulatory function (study in Cell)."
+  },
+  {
+   "url": "https://techxplore.com/news/2026-10-ai-food-physics-pair-human.html",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Can AI help discover new food physics? Researchers pair AI with human expertise",
+   "excerpt": "Penn State's AgentXtract uses AI agents to extract food-property data from papers into an expert-verified database, which surfaced a previously unreported link between two dielectric properties across 100+ foods."
+  },
+  {
+   "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Anthropic's Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+   "excerpt": "Researchers used Claude to design more efficient quantum circuits across eight tasks, reducing estimated computing resources."
+  },
+  {
+   "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+   "date": "2026-10-18",
+   "ko": "",
+   "title": "Simulating student learning for better AI tutoring",
+   "excerpt": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics."
   }
  ]
 }

@@ -1,107 +1,135 @@
 {
- "section": "music",
- "generated_at": "2026-10-16T22:00:37Z",
- "now_iso": "2026-10-16T22:00:37Z",
- "window_hours": 336,
- "items": [
-  {
-   "title": "UMG & Sony Demand DistroKid Tell How Many AI Songs It Uploads From Suno: 'Staggering Scale'",
-   "url": "https://www.billboard.com/pro/umg-sony-demand-distrokid-admit-suno-song-uploads/",
-   "source": "Billboard",
-   "category": "music",
-   "published_iso": "2026-10-16T16:20:51+00:00",
-   "excerpt": "Universal Music Group and Sony Music asked a judge to force DistroKid to disclose how many AI songs it uploads from Suno to streaming services - a new discovery fight in the labels' Suno litigation that targets the distribution pipe for AI tracks.",
-   "og_image": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024"
-  },
-  {
-   "title": "Duke Sanford study explores AI-music encounters on Spotify",
-   "url": "https://musically.com/2026/10/16/duke-sanford-study-explores-ai-music-encounters-on-spotify/",
-   "source": "Music Ally",
-   "category": "music",
-   "published_iso": "2026-10-16T12:30:00+00:00",
-   "excerpt": "'Spotify won't label AI music. We tried to detect it ourselves': the Duke Sanford Tech Policy Program ran its own detection to measure how often listeners actually encounter AI-generated tracks on Spotify.",
-   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2025/10/Spotify-logo-black-on-white.png?fit=2000%2C1500&ssl=1"
-  },
-  {
-   "title": "Publishing body ICMP blasts potential AI rules in Australia",
-   "url": "https://musically.com/2026/10/16/publishing-body-icmp-blasts-potential-ai-rules-in-australia/",
-   "source": "Music Ally",
-   "category": "music",
-   "published_iso": "2026-10-16T12:30:00+00:00",
-   "excerpt": "As Australia's government drafts its policy on AI training and copyright, global publishers' body ICMP has attacked the options on the table, following ARIA's select-committee testimony.",
-   "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-16T125745.140.png?fit=2000%2C1500&ssl=1"
-  },
-  {
-   "title": "Rocketship Maps a Song's Listeners Before Release for Free",
-   "url": "https://www.hypebot.com/rocketship-maps-a-songs-listeners-before-release-for-free/",
-   "source": "Hypebot",
-   "category": "music",
-   "published_iso": "2026-10-15T13:39:06+00:00",
-   "excerpt": "Rocketship gives indie artists major-label level data, using AI to identify target audiences for a song before release or spending a dime on promotion.",
-   "og_image": "https://images.unsplash.com/photo-1593697725250-6a184f4e9ed0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=2000"
-  },
-  {
-   "title": "Who's Buying All These Vibe-Coded Plugins?",
-   "url": "https://www.attackmagazine.com/features/long-read/whos-buying-all-these-vibe-coded-plugins/",
-   "source": "Attack Magazine",
-   "category": "music",
-   "published_iso": "2026-10-15T23:02:15+00:00",
-   "excerpt": "Vibe-coded plugins are everywhere, but are they actually taking over the market? Attack looks at the trend and talks to two developers who use AI as part of their plugin-building process.",
-   "og_image": "https://www.attackmagazine.com/wp-content/uploads/2026/10/3b83c303-dcf6-4d40-bb9a-7def2f026386-800x274.png"
-  },
-  {
-   "title": "A$AP Rocky Has a Very Diplomatic Stance on AI in Music: 'Who Am I to Say What's Standard'",
-   "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-ai-music-thoughts-1236361239/",
-   "source": "Billboard",
-   "category": "music",
-   "published_iso": "2026-10-15T16:34:49+00:00",
-   "excerpt": "A$AP Rocky shared his views on the growing use of AI in music-making, declining to condemn it outright. Artist commentary - low priority.",
-   "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2273665922-e1792076449724.jpg?w=1024"
-  },
-  {
-   "title": "Spotify labels AI artists after Bureau investigation",
-   "url": "https://www.thebureauinvestigates.com/stories/2026-10-15/spotify-ai-artist-badge-global-policy-after-bureau-investigation",
-   "source": "The Bureau of Investigative Journalism",
-   "category": "music",
-   "published_iso": "2026-10-15T16:00:00+01:00",
-   "excerpt": "Spotify's 'AI Persona' badges are now visibly rolling out globally (Bones among the labelled acts), days after TBIJ questioned its synthetic-artist policy. OFF-LIST source; the August announcement is already in the ledger - use only as a rollout follow-up.",
-   "og_image": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1200,height=630,quality=82,format=auto,fit=cover/filestore/images/Danny-Bones-Spotify-Misaligned.png?mtime=1792059341"
-  },
-  {
-   "title": "VOCALOID7 Officially Announced Just 6 Months After Hatsune Miku's V6 Debut",
-   "url": "https://essential-japan.com/news/vocaloid7-officially-announced-just-6-months-after-hatsune-mikus-v6-debut/",
-   "source": "Essential Japan",
-   "category": "music",
-   "published_iso": "2026-10-09T21:12:42+00:00",
-   "excerpt": "Yamaha announced VOCALOID7 with a second-generation VOCALOID:AI singing engine, on sale Nov 11 ($129); AI Megpoid is the launch voicebank and Miku V6 VOCALOID7 voicebanks are planned. OFF-LIST source (no allowed-domain coverage found; Japanese primary: automaton-media.com).",
-   "og_image": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
-  },
-  {
-   "title": "MIDI-REPA: Improving Text-to-Music Generation with Symbolic Representation Alignment",
-   "url": "https://arxiv.org/abs/2610.20967",
-   "source": "arXiv",
-   "category": "music",
-   "published_iso": "2026-10-14T00:00:00Z",
-   "excerpt": "Aligns text-to-music audio models with compact symbolic (MIDI) representations of melody, rhythm, harmony and structure instead of only scaling data and compute.",
-   "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-   "title": "FLOMSS: Generative Music Source Separation by Flow Matching",
-   "url": "https://arxiv.org/abs/2610.17821",
-   "source": "arXiv",
-   "category": "music",
-   "published_iso": "2026-10-13T00:00:00Z",
-   "excerpt": "Systematically studies flow matching as a generative alternative to discriminative stem-separation models - relevant to AI stem splitters producers use.",
-   "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  },
-  {
-   "title": "Reference-Free Singing Pitch Correction via Music-Constrained Sequence Editing",
-   "url": "https://arxiv.org/abs/2610.11524",
-   "source": "arXiv",
-   "category": "music",
-   "published_iso": "2026-10-08T00:00:00Z",
-   "excerpt": "Pitch-corrects vocals without a target melody or backing track, deciding per note whether and how to correct - an AI tuning approach for vocal production.",
-   "og_image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png"
-  }
- ]
+  "date": "2026-10-18",
+  "section": "music",
+  "window_hours": 336,
+  "items": [
+    {
+      "url": "https://musically.com/2026/10/15/suno-made-track-the-adult-i-dreamed-of-is-a-hit-in-south-korea/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-10-15T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "A Suno-generated song, 'The Adult I Dreamed Of', has become a streaming hit in South Korea, following last month's debate after the AI track 'Forest of the Heart' entered Melon's Top 100."
+    },
+    {
+      "url": "https://musically.com/2026/10/13/deezer-lets-users-hide-ai-music-playhead-generates-signal-chains-for-producers/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-10-13T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-13T131614.548.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Deezer will let listeners 'fully exclude' AI-generated music from their experience, while producer tool Playhead now generates whole effect signal chains for producers from a prompt."
+    },
+    {
+      "url": "https://musically.com/2026/10/16/publishing-body-icmp-blasts-potential-ai-rules-in-australia/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-10-16T12:30:00+00:00",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-16T125745.140.png?fit=2000%2C1500&ssl=1",
+      "excerpt": "Global publishing body ICMP has criticised Australia's emerging AI, training and copyright policy, warning against rules that would let AI firms train on songwriters' works without licences."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/10/15/dj-reinier-zonnevald-gaslab-funding-raise/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-10-15T08:01:57+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/dj-reinier-zonneveld-raises-1m-for-gen-ai-music-app-gaslab.png",
+      "excerpt": "Techno DJ Reinier Zonneveld's GasLab is a generative-AI music app built to recognise and pay the musicians whose work underpins its outputs; it has raised a $1M pre-seed."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/10/13/can-we-sue-our-way-to-ai-control/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-10-13T18:15:41+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/The-AI-battle-rages-on-but-will-the-legal-battle-lead-to-a-business-worth-pursuing.png",
+      "excerpt": "Op-ed arguing that copyright must evolve to protect music creators from AI misuse, because lawsuits against AI music firms alone can't secure a sustainable future for artists."
+    },
+    {
+      "url": "https://www.digitalmusicnews.com/2026/10/12/furnace-fest-mug-kid-rock-merch/",
+      "source": "Digital Music News",
+      "category": "music",
+      "published_iso": "2026-10-12T12:48:57+00:00",
+      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/furnace-fest-merch-disaster.png",
+      "excerpt": "Alabama's Furnace Fest baffled attendees with AI-designed merchandise and sticker-covered Kid Rock merch sold for $50 in a chaotic first edition under new ownership."
+    },
+    {
+      "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-ai-music-thoughts-1236361239/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-10-15T16:34:49+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2273665922-e1792076449724.jpg?w=1024",
+      "excerpt": "A$AP Rocky shared a diplomatic take on AI's growing role in music-making: 'Who am I to say what's standard.'"
+    },
+    {
+      "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-ai-stance-tech-investor-dating-rumors-1236356013/",
+      "source": "Billboard",
+      "category": "music",
+      "published_iso": "2026-10-07T16:30:57+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/04/P104S4UN-e1781880973570.jpg?w=1024",
+      "excerpt": "Olivia Rodrigo clarified her stance on AI in music ('absolutely no') while addressing rumours she was dating an AI tech investor."
+    },
+    {
+      "url": "https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/",
+      "source": "Bedroom Producers Blog",
+      "category": "music",
+      "published_iso": "2026-10-17T12:00:00+00:00",
+      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg",
+      "excerpt": "BPB says the flood of plugins built with AI coding tools has lowered average quality and it is now filtering low-quality AI-generated software from its news; a reader poll on AI in music software runs to Oct 20."
+    },
+    {
+      "url": "https://www.gearnews.com/line-6-releases-helix-stadium-guitar/",
+      "source": "Gearnews",
+      "category": "music",
+      "published_iso": "2026-10-14T11:31:22+02:00",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg",
+      "excerpt": "Line 6 Helix Stadium firmware 1.4 adds new amps and effects plus an on-board stem separation feature that lets guitarists isolate parts of backing tracks."
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.20967",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-14T21:42:50Z",
+      "og_image": "",
+      "excerpt": "MIDI-REPA aligns a flow-matching text-to-music DiT with MIDI supervision derived from automatic transcription, improving melody, rhythm and structure without scaling model size."
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.15802",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-11T17:44:28Z",
+      "og_image": "",
+      "excerpt": "Proposes joint discrete-and-continuous modeling for full-song generation from lyrics and a style prompt, letting acoustic rendering shape the planner for higher-fidelity vocals and instruments."
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.15350",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-11T05:14:13Z",
+      "og_image": "",
+      "excerpt": "Gugak-VocalSet: the first public dataset of Korean traditional singing (24.5h, 305 tracks, 20 professional singers via the National Gugak Center) with dense sigimsae pitch-ornament annotations for music AI."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DY5QI4idlRU",
+      "source": "INITIAL AUDIO (YouTube)",
+      "category": "music",
+      "published_iso": "2026-10-16T15:12:03-07:00",
+      "og_image": "https://i.ytimg.com/vi/DY5QI4idlRU/maxresdefault.jpg",
+      "excerpt": "Initial Audio launches Difro 2, a free AI MIDI melody generator with a model retrained from the ground up, shown in a first-look demo. (Note: original Difro was covered 2026-09-13 via BPB; this is the new v2 release.)"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=xo_zIc5ozHY",
+      "source": "ZigZag Production Studio (YouTube)",
+      "category": "music",
+      "published_iso": "2026-10-14T16:19:27-07:00",
+      "og_image": "https://i.ytimg.com/vi/xo_zIc5ozHY/maxresdefault.jpg",
+      "excerpt": "Hands-on look at Suno's new Speech feature, which adds spoken-word passages to AI-generated songs."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=-ETLneTCnk8",
+      "source": "Bob Doyle Media (YouTube)",
+      "category": "music",
+      "published_iso": "2026-10-14T09:00:34-07:00",
+      "og_image": "https://i.ytimg.com/vi/-ETLneTCnk8/maxresdefault.jpg",
+      "excerpt": "ACE Studio, the AI singing-voice tool, adds VST effects and instrument hosting alongside generative AI music, turning it into a fuller production environment (sponsored video)."
+    }
+  ]
 }

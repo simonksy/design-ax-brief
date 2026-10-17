@@ -1203,6 +1203,87 @@
           "x": "Neither humans nor LLMs appear suitable as the primary safeguard, the authors concluded. They recommend treating image provenance as data governance, using cryptographic content credentials or watermarking, with visual review as a secondary control."
         }
       ]
+    },
+    "medicine/medicine-osteoporosis-cxr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Investigadores desarrollaron un modelo de IA, AI-OsRM, para predecir la osteoporosis y la baja densidad mineral ósea (BMD) a partir de radiografías de tórax, informa npj Digital Medicine."
+        },
+        {
+          "t": "p",
+          "x": "AI-OsRM se desarrolló con 46,478 pares de exámenes de radiografía de tórax y absorciometría de rayos X de energía dual (DXA) de 26,757 pacientes, recogidos en un hospital de referencia de tercer nivel entre 2016 y 2022, con una arquitectura ResNet-based y preentrenamiento mediante autocodificador enmascarado."
+        },
+        {
+          "t": "p",
+          "x": "La validación externa abarcó tres cohortes: una cohorte hospitalaria separada en el tiempo (SNUH; n = 6,391) y dos cohortes de chequeos de salud (HPC, n = 24,132; YSMC, n = 122,535). El AUROC fue de 0.88 en SNUH tanto para osteoporosis como para baja BMD, y de 0.93 y 0.92 para osteoporosis en HPC y YSMC."
+        },
+        {
+          "t": "p",
+          "x": "Las simulaciones mostraron que el precribado con AI-OsRM podría reducir el uso de DXA en torno al 50% y aun así detectar el 98-99% de los casos de osteoporosis y el 80-90% de los casos de baja BMD, lo que apunta a una herramienta de precribado para optimizar el uso de DXA."
+        }
+      ]
+    },
+    "medicine/medicine-agent-scope": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los agentes de IA de propósito general ya pueden trabajar con archivos y aplicaciones en el equipo del usuario. Productos como ChatGPT Work, ChatGPT Codex, Claude Cowork y Claude Code llevan estas capacidades a apps de consumo, escriben Mahmud Omar, Eyal Klang y Girish N Nadkarni en The Lancet Digital Health."
+        },
+        {
+          "t": "p",
+          "x": "Estos agentes podrían ejecutarse en el equipo doméstico de un clínico o en una estación de trabajo hospitalaria. Con el control del equipo, el agente captura la pantalla en cada paso y la envía a los servidores del desarrollador, de modo que ve todo lo que se muestra y actúa con las credenciales del clínico. Un agente que agenda una cita de seguimiento podría capturar un diagnóstico no relacionado en un panel contiguo."
+        },
+        {
+          "t": "p",
+          "x": "El permiso para operar una aplicación no establece qué información es adecuada para cada tarea, sostienen los autores, y no cabe esperar que los clínicos revisen cada captura de pantalla."
+        },
+        {
+          "t": "p",
+          "x": "Proponen un proceso institucional estándar, inspirado en la estructura escalonada de los IRBs, que funcione como un comité de alineación y seguridad agéntica. La aprobación especificaría la tarea, los datos accesibles, las herramientas, los destinatarios y la conservación; las nuevas capacidades activarían una revisión. El acceso del agente debe seguir siendo proporcional al trabajo delegado."
+        }
+      ]
+    },
+    "medicine/medicine-ai-wait-human": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un estudio transversal publicado en JAMA Network Open encuestó a 1,185 adultos de EE. UU. (del 17 de junio al 26 de julio de 2024) sobre si preferían respuestas más rápidas de IA o respuestas más lentas revisadas por profesionales de la salud a los mensajes del portal del paciente, y cómo valoraban las opciones de IA para el apoyo en salud mental."
+        },
+        {
+          "t": "p",
+          "x": "En mensajes logísticos como citas y renovación de recetas, el 57.4% prefirió una respuesta rápida de IA; en mensajes generales, el 50.6%. En mensajes médicos, el 63.1% prefirió esperar a que un profesional de la salud revisara la respuesta."
+        },
+        {
+          "t": "p",
+          "x": "Para el apoyo en salud mental, el 63.9% respaldó en mayor medida a un terapeuta humano disponible en 3 meses, por delante de la IA supervisada por un terapeuta en 1 mes (50.2%) y la IA sola disponible de inmediato (44.3%)."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados se estratificaron por generación de nacimiento y otros factores. Los autores concluyen que las personas están más abiertas a una IA más rápida en tareas de bajo riesgo que en preguntas médicas y apoyo en salud mental, y que los pacientes podrían beneficiarse de opciones que equilibren la rapidez frente a la revisión humana."
+        }
+      ]
+    },
+    "medicine/medicine-llm-care-cost": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los modelos de lenguaje de gran tamaño se consultan cada vez más como apoyo a la decisión clínica, pero el costo de los servicios o tratamientos que recomiendan no se había comparado de forma sistemática con lo que ordenaban los médicos tratantes. En NEJM AI, Dvir Aran, Jeremy D. Goldhaber-Fiebert, Ittai Many, Anthony Nguyen, Daniel Yang y Shahar Shelly presentan \"Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians.\""
+        },
+        {
+          "t": "p",
+          "x": "El proceso del estudio tiene cinco pasos: se seleccionaron 200 casos; cada nota se dividió en la presentación clínica y la evaluación y plan; 24 sistemas de AI generaron planes con 3 instrucciones (estándar, consciente del costo y parsimoniosa pero segura); se extrajeron las órdenes (mediana de tres extracciones); y cada orden se valoró a partir de los códigos CPT según el arancel de Medicare."
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
+          "cap": "Flujo del estudio y un caso de ejemplo: un lactante de 2 meses con bronquiolitis clásica."
+        },
+        {
+          "t": "p",
+          "x": "En el caso de ejemplo, el médico tratante no ordenó pruebas diagnósticas (US$0), ya que en la bronquiolitis no están indicadas las pruebas de rutina. Con la instrucción predeterminada, la AI ordenó un panel respiratorio viral y un ecocardiograma (US$454); la instrucción consciente del costo pidió un panel viral y una PCR de tosferina (US$292); la parsimoniosa pidió solo una prueba PCR de tosferina (US$35)."
+        }
+      ]
     }
   }
 }

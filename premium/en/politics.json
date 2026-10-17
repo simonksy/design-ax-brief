@@ -2737,6 +2737,105 @@
           "x": "Rangarajan also said the Commission believes it has detected \"algorithmic bias\" on at least one social network, faces 30,000 to 40,000 cyber-attacks a month, and is applying laws from 1983 or 2000 that are \"very out of date.\""
         }
       ]
+    },
+    "politics/politics-nk-ai-torpedo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "North Korea said on Saturday that it had tested a new AI-powered torpedo system as it continues a wave of recent weapons demonstrations."
+        },
+        {
+          "t": "p",
+          "x": "The country's KCNA state news agency reported that the test involved the \"super-speed, precisely guided\" Zam-2.0 torpedo system, which it said uses artificial intelligence to aid with target detection and guidance. The report said the test had verified the weapon's propulsion systems."
+        },
+        {
+          "t": "p",
+          "x": "It comes after North Korea also tested two types of underwater-launched strategic cruise missiles on Wednesday as part of what is believed to be a push to bolster its naval capabilities. The missiles are thought to have been fired from a submarine."
+        },
+        {
+          "t": "p",
+          "x": "North Korea has also carried out a number of ballistic missile tests in recent weeks as it seeks to build up its arsenal amid growing tensions with neighbouring South Korea."
+        },
+        {
+          "t": "p",
+          "x": "In August, US President Donald Trump told reporters that North Korean leader Kim Jong-un had \"57 very powerful nuclear weapons\" as he once again touted the pair's relationship. Trump said at the time that he intended to meet with Kim later this year, although he gave no further details on the plan."
+        }
+      ]
+    },
+    "politics/politics-duv-controls": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "On the ChinaTalk podcast, Saif Khan — a former NSC and Commerce official now launching the Center for Technology and Statecraft (CTS), an IFP-affiliated think tank — discusses CTS’s first major report, a deep dive into DUV immersion lithography led by senior fellow Nick Brown."
+        },
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Khan says Japan and the Netherlands are the sole producers of these tools, which Huawei uses for its most advanced 7nm chips, and that China likely won’t have a commercial indigenous tool until the mid-2030s. Controls from 2023 still let some less advanced DUV immersion tools into China; the installed base of roughly 170–180 tools has since roughly doubled."
+        },
+        {
+          "t": "p",
+          "x": "The report projects the US could produce something like a billion H100-equivalent chips a year by the mid-2030s, while stopping DUV immersion exports today would likely cap China’s indigenous output around ten million a year. Khan calls it possibly the most consequential lever over the US-China AI gap, as Congress debates the MATCH Act, which includes potential DUV controls."
+        }
+      ]
+    },
+    "politics/politics-ai-optimists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+          "cap": "Rest of World/iStock"
+        },
+        {
+          "t": "p",
+          "x": "In an Ideas essay for Rest of World, Payal Arora, chair in Inclusive AI Cultures at Utrecht University, argues that in the West, fear of AI has helped turn pessimism into a cultural virtue."
+        },
+        {
+          "t": "p",
+          "x": "Only 17% of U.S. adults think AI will have a positive impact on the country over the next 20 years, per a 2025 Pew survey. Stanford’s 2025 AI Index found 83% in China, 80% in Indonesia and 77% in Thailand said AI products offer more benefits than drawbacks, versus 39% in the U.S. and 36% in the Netherlands."
+        },
+        {
+          "t": "p",
+          "x": "Arora points to young users across the Global South, AI-made micro-dramas in China, and India Stack as examples of technology built around concrete needs rather than market share. “The West is warning the world about what AI might do to us. Perhaps it is time to ask what the rest of the world might teach us to do with it.”"
+        }
+      ]
+    },
+    "politics/politics-cma-microsoft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Competition and Markets Authority (CMA) is proposing to designate Microsoft with strategic market status (SMS) in its business software ecosystem and will now consult before making a final decision. It has also published an indicative roadmap outlining areas for possible future interventions."
+        },
+        {
+          "t": "p",
+          "x": "Microsoft's business software (including Word, Excel, Outlook, PowerPoint, Teams and increasingly Copilot) is used by over a million UK businesses and public sector organisations, with around 20 million monthly users. The sector is changing rapidly, with a shift towards agentic AI in familiar workplace tools."
+        },
+        {
+          "t": "p",
+          "x": "Areas for further investigation include whether customers can freely choose the best AI tools and whether alternative AI providers have a level playing field to compete with Microsoft's Copilot, how Microsoft bundles its security products, and its cloud licensing practices."
+        },
+        {
+          "t": "p",
+          "x": "“Organisations should be able to choose the products that work best for them, switch provider when they want to and combine services from different suppliers,” said CMA Chief Executive Sarah Cardell."
+        },
+        {
+          "t": "p",
+          "x": "The findings are provisional, with a final decision due by the February 2027 statutory deadline. SMS designation does not assume wrongdoing."
+        }
+      ]
     }
   }
 }

@@ -1346,6 +1346,134 @@
           "x": "広告主は通知からオプトアウトするか、各広告のAdvantage+ CreativeとDestinationの設定で機能を切り替えられる。メディアバイヤーのDavid Herrmannは、クリエイティブをダイナミック商品広告に変えるAI機能だとしたうえで、ホリデーシーズン直前という時期に異議を唱えた。"
         }
       ]
+    },
+    "marketing/marketing-chatgpt-tracking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
+          "cap": "アイキャッチ画像：Tetiana Yurchenko/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Graphiteが追跡するサイトでは、GA4でChatGPT-attributedとされるセッションが10月9日以降22%〜57%減少し、ベースライン比でおよそ45%の落ち込みになったとCEOのEthan Smithは述べた。LLM Pulseでは10月9〜11日にChatGPTのセッションが約46%減った一方、総トラフィックは横ばいだった。"
+        },
+        {
+          "t": "p",
+          "x": "Smithによると、ChatGPTは回答本文内のリンクをutm_source=chatgpt.comタグやリファラーなしで開くようになり、その訪問がDirectとして計上される可能性がある。一部の訪問が実際に失われたかどうかを判断するには、まだデータが足りない。"
+        },
+        {
+          "t": "p",
+          "x": "AdobeのCedric Hueslerは、約500ページでChatGPTからの訪問が1日あたり約31,000件減る一方、Directが約26,000件増えたことを確認した。Profoundはこれを、GPT-6の展開後に導入されたChatGPTの新しいIntelligent UI回答形式と結びつけた。"
+        },
+        {
+          "t": "p",
+          "x": "Hueslerによると、OpenAIは10月14日にこれがバグだと認め、10月15日に修正の展開を始めた。Profoundは公式な発表を確認していないとしている。SmithとHueslerは、レポートで10月8〜15日に注記を付け、ChatGPTとDirectのトラフィックを並べて比較することを勧めている。"
+        }
+      ]
+    },
+    "marketing/marketing-videoamp-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "先月、VideoAmp、Comscore、iSpotは米Joint Industry Committeeから再認証を受けた。それでもバイヤーとセラーはNielsenを手放す準備ができておらず、代替カレンシー企業はより広くデータと測定に力を注いでいる。"
+        },
+        {
+          "t": "p",
+          "x": "VideoAmpは夏の間、より多くの業務をAIに任せる取り組みの一環として人員の約20%を削減した。SVPのAndrea Zapataは、AIを使ってメディアバイヤーが狙った成果に対してより高い効果を上げる、より賢いキャンペーンを計画できるよう支援することが目標だと語った。"
+        },
+        {
+          "t": "p",
+          "x": "最優先課題の一つは計画と測定のワークフローをAIエージェントとつなぐことだと、最高製品責任者のJosh Hudginsは述べた。エージェントはバイヤーが配信中のキャンペーンを最適化するのを助けられる。たとえば、ある在庫ソースへの支出を削り、ユニークリーチを効率的に積み増せる在庫を買うといった具合だ。"
+        },
+        {
+          "t": "p",
+          "x": "AIには依然として、クリーンルームやパブリッシャーのログレベルデータを通じたファーストパーティの視聴者データに加え、ACRデータが必要だ。「結局のところ、私たち皆が求めているのは成果だ」とZapataは語った。"
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-learning": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "HaoMqRGlmp8"
+        },
+        {
+          "t": "p",
+          "x": "10月15日のGoogleのポッドキャスト「Ads Decoded」で、Google AdsのプロダクトマネージャーであるTal Akabasは、既存キャンペーンの目標や予算を変更しても学習期間には入らないと語った。"
+        },
+        {
+          "t": "p",
+          "x": "「目標や予算を変更しても、実際には学習期間はない」とAkabasは述べた。「Google Adsのバックエンドシステムは、目標の変更に正比例して入札を直接調整する」。事前情報のないまったく新しいキャンペーンでは、「ある程度の学習期間が生じうる」という。"
+        },
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "この主張の範囲は狭い。対象は安定稼働中のキャンペーンでの目標と予算の変更であり、新しいアセットやターゲティング、入札戦略は含まない。"
+        },
+        {
+          "t": "p",
+          "x": "エピソードでは展開状況も示された。プロモーションモードはSearchとPMaxでベータを終え、新規顧客向けのレポート専用モードが展開中で、再エンゲージメント専用モードはPerformance Maxで開始され、SearchとShoppingが続く予定だ。"
+        }
+      ]
+    },
+    "marketing/marketing-fender-marshall": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "ブランドはChatGPTに自社製品の語り方を指示することはできないが、ブランドコンテンツへの投資を増やし、チャットボットの基盤となるモデルが活用できる材料を増やすことはできる。"
+        },
+        {
+          "t": "p",
+          "x": "Fenderはウェブサイトをストーリーテリングの「玄関口」へと刷新し、ブランドの歴史やJimi Hendrixのようなアーティストを紹介する短い動画を掲載した。製品リサーチの段階での露出を高める狙いもある。Skywordの調査によれば、U.S.の消費者の10人に7人が製品を調べる際にChatGPTやAI要約を使っている。"
+        },
+        {
+          "t": "p",
+          "x": "Hendrixが愛用したアンプのメーカーであるMarshallは、YouTubeシリーズ「Dead Venues」に力を入れている。副社長のChristine Kennedy Grantは、AI OverviewsやLLMツールについて「私たちが姿を見せるべき非常に重要な場所だ」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "「ChatGPTは新しい口コミだ」とAttention ArcのUrvashi Manralは言う。Kantarによると、マーケターの4分の3（75%）が来年、AIアシスタントでの露出への支出を増やす計画だ。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-crawl-terms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "10月30日に発効するMetaの改定版商用規約(Commercial Terms)は、自社製品を利用する企業に関連するウェブサイトをクロールし、そのコンテンツで当該製品を学習させる権限を同社に与える。この規約は、広告の出稿からFacebookページの管理まで、Meta製品のあらゆる業務利用に適用される。"
+        },
+        {
+          "t": "p",
+          "x": "Nieman Labによると、3人の法律専門家は、この文言がMetaによるAI製品の学習目的でのニュースサイトのスクレイピングを認める主張の根拠になり得るとみている。Metaの広報担当Andy Stoneはその要約を誤りだとし、今回の改定は正確な製品情報を取得するためのもので「ニュースサイトのスクレイピングに関するものではない」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Metaの広告規約はすでに、学習を含む用途で広告主のウェブサイトをクロールすることを認めている。10月の改定版は、広告を購入しない企業にまで対象を広げる。この条項は、Metaがそれらのページにアクセスするために「テスト用の認証情報を作成」することも認めている。"
+        },
+        {
+          "t": "p",
+          "x": "Metaは、コンテンツ所有者は引き続きrobots.txtでアクセスを管理できるとしているが、改定されたどちらの規約にもその記載はない。サイト所有者は、AI学習用クローラーのMeta-ExternalAgentをブロックしつつ、Meta-WebIndexerを許可できる。"
+        }
+      ]
     }
   }
 }

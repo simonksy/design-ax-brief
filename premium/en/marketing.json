@@ -1346,6 +1346,134 @@
           "x": "Advertisers can opt out via the notice or toggle the feature in each ad's Advantage+ Creative and Destination settings. Media buyer David Herrmann, who called it an AI feature that turns creatives into dynamic product ads, objected to the timing just before the holiday season."
         }
       ]
+    },
+    "marketing/marketing-chatgpt-tracking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
+          "cap": "Featured Image: Tetiana Yurchenko/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT-attributed sessions in GA4 fell by 22% to 57% from Oct. 9 for sites tracked by Graphite, CEO Ethan Smith said, roughly a 45% fall from baseline. LLM Pulse saw about 46% fewer ChatGPT sessions on Oct. 9–11 while total traffic held steady."
+        },
+        {
+          "t": "p",
+          "x": "Smith says ChatGPT began opening links in answer text without the utm_source=chatgpt.com tag or a referrer, so those visits can appear as Direct. There is not enough data yet to tell whether some visits were also lost."
+        },
+        {
+          "t": "p",
+          "x": "Adobe’s Cedric Huesler found ChatGPT visits on about 500 pages fell by about 31,000 a day while Direct rose by about 26,000. Profound tied it to ChatGPT’s new Intelligent UI answer format after the GPT-6 rollout."
+        },
+        {
+          "t": "p",
+          "x": "Huesler says OpenAI confirmed on Oct. 14 it was a bug and a fix began rolling out Oct. 15; Profound says it hasn’t seen official word. Smith and Huesler suggest annotating Oct. 8–15 in reporting and comparing ChatGPT and Direct traffic side by side."
+        }
+      ]
+    },
+    "marketing/marketing-videoamp-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Last month, VideoAmp, Comscore and iSpot received re-certifications from the US Joint Industry Committee. Still, buyers and sellers aren’t ready to ditch Nielsen, so alternative currency companies are focusing on data and measurement more broadly."
+        },
+        {
+          "t": "p",
+          "x": "Over the summer, VideoAmp cut about 20% of its headcount as part of an effort to entrust more operations to AI. SVP Andrea Zapata said the goal is to use AI to help media buyers plan smarter campaigns that perform better against their intended outcomes."
+        },
+        {
+          "t": "p",
+          "x": "One top priority is to connect its planning and measurement workflows with AI agents, said chief product officer Josh Hudgins. Agents can help buyers optimize campaigns in-flight — for example, cutting spend on one inventory source and buying inventory that efficiently adds unique reach."
+        },
+        {
+          "t": "p",
+          "x": "AI still needs first-party viewer data, via clean rooms and publishers’ log-level data, plus ACR data. “Ultimately, what we’re all trying to get is outcomes,” Zapata said."
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-learning": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "HaoMqRGlmp8"
+        },
+        {
+          "t": "p",
+          "x": "On Google’s Ads Decoded podcast on October 15, Google Ads product manager Tal Akabas said changing the target or budget of an established campaign does not put it into a learning period."
+        },
+        {
+          "t": "p",
+          "x": "“When you change your target or your budget, there isn’t actually a learning period,” Akabas said. “The Google Ads back end system will scale bids directly in proportion to your target changes.” For a net new campaign without prior information, “some learning period can take place.”"
+        },
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "The claim is narrow: it covers target and budget edits on steady campaigns, not new assets, targeting or bid strategies."
+        },
+        {
+          "t": "p",
+          "x": "The episode also gave rollout status: promotion mode is leaving beta on Search and PMax, a reporting-only mode for new customers is rolling out, and re-engagement only mode is launching in Performance Max, with Search and Shopping to follow."
+        }
+      ]
+    },
+    "marketing/marketing-fender-marshall": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Brands can’t tell ChatGPT how to talk about their products, but they can invest in more branded content to give the models beneath chatbots more to work with."
+        },
+        {
+          "t": "p",
+          "x": "Fender overhauled its website into a “front door” for storytelling, with short videos on its heritage and artists like Jimi Hendrix, partly to improve visibility during product research. Seven out of 10 U.S. consumers use ChatGPT or AI summaries when researching products, per a Skyword survey."
+        },
+        {
+          "t": "p",
+          "x": "Marshall, whose amps Hendrix played through, is pushing its ‘Dead Venues’ YouTube series. “It’s such an important place for us to show up,” said vp Christine Kennedy Grant of AI Overviews and LLM tools."
+        },
+        {
+          "t": "p",
+          "x": "“ChatGPT is the new word of mouth,” said Attention Arc’s Urvashi Manral. Three-fourths (75%) of marketers plan to increase spending on visibility in AI assistants next year, according to Kantar."
+        }
+      ]
+    },
+    "marketing/marketing-meta-crawl-terms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta's updated Commercial Terms, which take effect Oct. 30, give the company permission to crawl websites associated with businesses that use its products and to use that content to train those products. The terms apply to any business use of Meta's products, from running ads to managing a Facebook Page."
+        },
+        {
+          "t": "p",
+          "x": "Nieman Lab reported that three legal professionals believe the language could support an argument that Meta may scrape news sites to train its AI products. Meta spokesperson Andy Stone called that summary false, saying the update is about pulling accurate product information and is \"not about scraping news sites.\""
+        },
+        {
+          "t": "p",
+          "x": "Meta's ad terms already let it crawl advertisers' websites for uses that include training. The October version reaches businesses that don't buy ads. The clause also lets Meta \"create test credentials\" to reach those pages."
+        },
+        {
+          "t": "p",
+          "x": "Meta says content owners can still manage access with robots.txt, but neither updated terms mention it. Site owners can block Meta-ExternalAgent, its AI training crawler, while allowing Meta-WebIndexer."
+        }
+      ]
     }
   }
 }

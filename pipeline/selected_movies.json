@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "section": "movies",
   "picks": [
     {
@@ -7,65 +7,65 @@
       "category": "movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "CorridorKey 2.0 just works...",
-      "url": "https://www.youtube.com/watch?v=godomkRXBLE",
-      "source": "Corridor Crew",
-      "published_iso": "2026-10-16T09:00:18-07:00",
-      "og_image": "https://i.ytimg.com/vi/godomkRXBLE/maxresdefault.jpg",
-      "excerpt": "Corridor Crew shows off CorridorKey 2.0, the new version of the in-house keying tool behind their AI VFX workflow, which composites actors into scenes without a traditional green-screen pull. The video description is only 'This Weekend.', so the enrichment pass needs to confirm what is new in 2.0.",
-      "rationale": "A new tool version (2.0) of an AI keying tool that skips the traditional green-screen pull. This is the most actionable item for VFX and compositing artists today; enrichment must confirm what 2.0 changes."
+      "title": "Can AI Make a Sci-Fi Series for $38,000? Artlist's 'The Arc' Puts It to the Test",
+      "url": "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/",
+      "source": "IndieWire",
+      "published_iso": "2026-10-16T22:35:10+00:00",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=650",
+      "excerpt": "Artlist's AI-made sci-fi series 'The Arc' tests whether generative tools can deliver a watchable series on a $38,000 budget.",
+      "rationale": "A concrete production with a stated budget ($38K for a series). It gives creators a cost benchmark for AI episodic work, and the craft piece is distinct from the 10-12 'Overstake' rebuild."
     },
     {
       "tool": "Movies",
       "category": "movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "Comics Accuse Hot AI Fakes of Stealing Their Jokes Word for Word to Push OnlyFans Pages",
-      "url": "https://www.hollywoodreporter.com/business/digital/ai-comedians-stealing-stand-up-jokes-instagram-onlyfans-1236732931/",
-      "source": "The Hollywood Reporter",
-      "published_iso": "2026-10-16T12:32:38+00:00",
-      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/Split-Stage-Comedy-Show.png?crop=0px%2C10px%2C1661px%2C929px&resize=1440%2C810",
-      "excerpt": "Stand-up comics are calling out accounts where AI-generated 'comics' plagiarize their jokes word for word, sometimes for millions of views, to push OnlyFans pages: 'AI stole my joke and my outfit.' Deadline also covered it, at https://deadline.com/2026/10/comedians-ai-joke-theft-natalie-cuomo-olivia-carter-1237165762/.",
-      "rationale": "A new incident: AI avatars lift stand-up material word for word and drive it to millions of views. Performers' written work is being copied, not just their likeness, which is a new angle on the creator-rights fight."
+      "title": "FilmFest Cottbus selects AI-generated feature 'A Woman Asleep' for main competition",
+      "url": "https://www.screendaily.com/news/filmfest-cottbus-selects-ai-generated-feature-a-woman-asleep-for-main-competition/5220948.article",
+      "source": "Screen Daily",
+      "published_iso": "2026-10-16T09:16:00+00:00",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
+      "excerpt": "Vikki Bardot's AI-generated feature 'A Woman Asleep' is one of 10 films in FilmFest Cottbus' main competition, a festival-selection milestone for AI features.",
+      "rationale": "A follow-up with a new concrete event: an established festival placed an AI-generated feature in its main competition, which is a gatekeeping milestone beyond the 09-26 distribution deal."
     },
     {
       "tool": "Movies",
       "category": "movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "Mark Wahlberg on using AI in film 'the right way' and being open to an AI clone carrying on his legacy",
-      "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
-      "source": "TechCrunch",
-      "published_iso": "2026-10-16T14:26:51+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/55591094982_b63d06fba8_o.jpg?resize=1200,800",
-      "excerpt": "Actor and investor Mark Wahlberg says he's OK with AI in filmmaking if it's used 'to enhance what you're doing', and says he is open to an AI clone carrying on his legacy.",
-      "rationale": "An A-list actor, who is also an investor, openly endorses a posthumous AI clone. That runs against the talent pushback this section has been tracking (Cage, Cruise) and matters for likeness-licensing deals."
+      "title": "Here's how Hollywood is Directing Their AI Films",
+      "url": "https://www.youtube.com/watch?v=BExtQ740QgM",
+      "source": "Curious Refuge (YouTube)",
+      "published_iso": "2026-10-16T11:53:17-07:00",
+      "og_image": "https://i.ytimg.com/vi/BExtQ740QgM/maxresdefault.jpg",
+      "excerpt": "Curious Refuge and Albert Bozesan show an AI camera-control workflow: Claude drives Blender to block shots that guide AI video generation.",
+      "rationale": "The most actionable item in the pool: a reproducible workflow (an LLM drives Blender blocking, which then guides AI video) that a filmmaker can try tomorrow."
     },
     {
       "tool": "Movies",
       "category": "movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "title": "'Avatar: Fire and Ash' Composer and More Speak Out About AI at Ghent's WSA Film Music Days: 'We Must Continue to Defend Our Art'",
-      "url": "https://variety.com/2026/artisans/festivals/avatar-ai-ghent-wsa-film-music-days-1236910224/",
+      "title": "'IvyBears' Hits Cannes After YouTube Breakout, Spawns Animated Feature Project",
+      "url": "https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/",
       "source": "Variety",
-      "published_iso": "2026-10-16T06:28:01+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-13-Oct-2026-06-25-PM-8696.jpg?w=1000&h=563&crop=1",
-      "excerpt": "At the World Soundtrack Awards, 'Avatar: Fire and Ash' composer Simon Franglen said the work of film composers and musicians can never be replicated by AI.",
-      "rationale": "Film-score composers had not appeared in this section before. A major event (the World Soundtrack Awards, Ghent) adds the music department's stance on AI."
+      "published_iso": "2026-10-13T09:16:52+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=563&crop=1",
+      "excerpt": "IvyBears goes brand-to-content with a series and an animated feature project, in a 'reverse flywheel' approach powered by AI and artists alike.",
+      "rationale": "A new business model: a YouTube brand built with AI and artists moves up into a series and a feature at MIPCOM. It shows a viable path from AI-assisted short-form to long-form IP."
     },
     {
       "tool": "Movies",
       "category": "movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "title": "Tilly Nollywood? African Filmmakers — Ready or Not — Get Set for the AI Revolution",
-      "url": "https://variety.com/2026/film/global/african-filmmakers-ai-1236904081/",
-      "source": "Variety",
-      "published_iso": "2026-10-12T18:36:57+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=563&crop=1",
-      "excerpt": "Generative AI could transform filmmaking in Africa, but practical challenges across the continent abound.",
-      "rationale": "A regional angle the section has not covered: how generative AI is reaching African production, including Nollywood, and the practical limits there (infrastructure, cost)."
+      "title": "Tech Reviews: Gaomon PD1561 V2, Foundry SmartRoto, Huion Kamvas Pro 24",
+      "url": "https://www.animationmagazine.net/2026/10/tech-reviews-gaomon-pd1561-v2-foundry-smartroto-huion-kamvas-pro-24/",
+      "source": "Animation Magazine",
+      "published_iso": "2026-10-16T22:00:06+00:00",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Gaomon-PD1561-V2.jpg",
+      "excerpt": "Monthly animation/VFX tech review covering Foundry's AI-assisted SmartRoto Nuke add-on for rotoscoping alongside two pen displays.",
+      "rationale": "A hands-on review of Foundry's AI-assisted SmartRoto for Nuke. Rotoscoping is a daily VFX chore, so this is directly tool-actionable. The enrichment pass should center the card on SmartRoto, not the pen displays."
     }
   ],
   "alternates": [
@@ -74,38 +74,39 @@
       "category": "movies",
       "accent": "#171717",
       "motif": "frame",
-      "title": "Alex Gibney on How a CGI Avatar Helped Simulate the Elon Musk Interview He Could Never Get",
-      "url": "https://www.indiewire.com/features/podcast/alex-gibney-elon-musk-documentary-simulated-ai-interview-1235222409/",
-      "source": "IndieWire",
-      "published_iso": "2026-10-16T17:00:00+00:00",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
-      "excerpt": "Alex Gibney explains using artificial intelligence to critique it in his documentary 'Musk', building a CGI avatar to simulate the Elon Musk interview he could never get.",
-      "rationale": "Held back: an interview about the AI use in 'Musk', which already ran on 09-28 via the Zurich Summit panel with the film's producer. It is commentary with no new release."
+      "title": "Fan Bingbing Says Young Chinese Audiences 'Aren't Being Fed Very Well' as AI Microdramas Boom",
+      "url": "https://variety.com/2026/film/festivals/fan-bingbing-ai-microdramas-park-chan-wook-busan-1236906307/",
+      "source": "Variety",
+      "published_iso": "2026-10-09T03:24:57+00:00",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/Fan-Bingbing-Busan.jpg?w=1000&h=563&crop=1",
+      "excerpt": "At Busan, Fan Bingbing questioned the value of the booming AI-generated microdrama format for Chinese audiences.",
+      "rationale": "Alternate: a star's commentary on AI microdramas. It is new, but it is opinion and 9 days old."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.youtube.com/watch?v=godomkRXBLE": {
+      "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/": {
+        "verdict": "new",
+        "nearest": "https://variety.com/2026/film/markets-festivals/sci-fi-thriller-overstake-generative-ai-rebuild-busan-market-1236907993/"
+      },
+      "https://www.screendaily.com/news/filmfest-cottbus-selects-ai-generated-feature-a-woman-asleep-for-main-competition/5220948.article": {
+        "verdict": "follow-up",
+        "nearest": "https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817/",
+        "new_action": "FilmFest Cottbus officially selected 'A Woman Asleep' for its 10-film main competition. This is a new festival-selection announcement, separate from the 09-26 Baska Sinema theatrical-distribution deal."
+      },
+      "https://www.youtube.com/watch?v=BExtQ740QgM": {
+        "verdict": "new",
+        "nearest": "https://www.youtube.com/watch?v=0yv0r5UyzCY"
+      },
+      "https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/": {
         "verdict": "new",
         "nearest": ""
       },
-      "https://www.hollywoodreporter.com/business/digital/ai-comedians-stealing-stand-up-jokes-instagram-onlyfans-1236732931/": {
-        "verdict": "new",
-        "nearest": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth"
-      },
-      "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/": {
-        "verdict": "new",
-        "nearest": ""
-      },
-      "https://variety.com/2026/artisans/festivals/avatar-ai-ghent-wsa-film-music-days-1236910224/": {
-        "verdict": "new",
-        "nearest": ""
-      },
-      "https://variety.com/2026/film/global/african-filmmakers-ai-1236904081/": {
+      "https://www.animationmagazine.net/2026/10/tech-reviews-gaomon-pd1561-v2-foundry-smartroto-huion-kamvas-pro-24/": {
         "verdict": "new",
         "nearest": ""
       }
     },
-    "note": "Dropped: No Film School Adobe+NVIDIA agentic collaboration. It has a 'related' history_match to the 09-25 Adobe-in-Gemini card, but more importantly it is the same Adobe x NVIDIA RTX Spark launch that ran in DESIGN on 10-16. Yesterday's movies curator dropped this cluster to avoid a cross-section duplicate, and this pick keeps that consistent. Deadline BBC Kate Phillips: a 'related' match to the 10-03 Brittin AI Doctor Who card; it is a reaction with no new decision, and was already dropped on 10-16. Cartoon Brew View directors panel: same outlet and same conference as the 10-16 Cartoon Brew View exec roundtable card (content-hub rule). IndieWire Gibney 'Musk' avatar: an interview on the documentary's AI use, already covered on 09-28 (Deadline Zurich Summit, 'Musk' producer); commentary with no new release, kept only as an alternate. Variety Tsui Hark: interview commentary with low novelty. The THR AI joke-theft story is distinct from the 10-16 Verge deepfake report: it covers plagiarized written material by AI avatars, not likeness stills. The Deadline write-up of the same story is only referenced in the excerpt, not picked. Note: TechCrunch is not on the movies allowed_domains list; the librarian sourced it and it is reputable, but the orchestrator can swap in the Gibney alternate if the allowlist is enforced. Outlets: Corridor Crew, THR, TechCrunch, Variety x2 (4 distinct, max 2 per outlet)."
+    "note": "Dropped as cross-section exclusions: postPerspective Nvidia Editor's Day RTX Spark (design and gadgets cover RTX Spark), and No Film School Adobe+NVIDIA RTX Spark agentic collaboration (same launch that ran in design on 10-16, also dropped on 10-17). Dropped as sponsored: Deadline Kling 'Worm Train' partner content (also 'related' to the 10-13 Deadline Kling panel card) and befores & afters Autodesk Flow Studio Canvas. Dropped as repeats or commentary on published stories: Deadline BBC Kate Phillips (a reaction to the 10-03 Brittin 'Doctor Who' card, no new decision, dropped on 10-16 and 10-17 too); IndieWire Gibney 'Musk' avatar interview (AI use already covered 09-28 via the Zurich Summit 'Musk' producer panel, commentary only, held back on 10-17); The Verge 'tech backlash is now in theaters' (an analysis of 'Artificial' and 'Musk', which overlaps the 10-16 Variety 'Artificial' card and the 09-28 'Musk' card); Cartoon Brew View directors panel (same outlet and same conference as the 10-16 Cartoon Brew View exec roundtable, so the content-hub rule applies). Lower-scored, not picked: Variety 'Open to AI' feature (evergreen overview), Screen Daily Patrick Mao Huang profile, VFX Voice economics (10-06), Motionographer RevThink accelerator, and Fan Bingbing (kept as an alternate). Diversity: 5 distinct outlets (IndieWire, Screen Daily, Curious Refuge, Variety, Animation Magazine), all in the single 'movies' category, so distinct palette accents are used."
   }
 }

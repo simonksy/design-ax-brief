@@ -1,92 +1,92 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
-      "title": "Google’s next Gemini trick could change how you use Android XR glasses",
-      "source": "Android Authority",
+      "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
+      "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM",
+      "source": "Tom's Hardware",
       "category": "gadgets",
-      "published_iso": "2026-10-16T06:54:54+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
-      "excerpt": "\"Hey Gemini\" is coming for \"Ok Google\" — a new hotword and camera-activation flow for Gemini on Android XR glasses. (Published time from outlet RSS; page 403 to fetchers.)",
+      "published_iso": "2026-10-16T10:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+      "excerpt": "You can even chat with the LLM remotely from other devices.",
       "source_lang": "en",
       "tool": "Gadgets",
-      "accent": "#ff5a4d",
+      "accent": "#3b6bff",
       "motif": "headset",
-      "rationale": "Android XR glasses get a new \"Hey Gemini\" hotword and a camera-activation flow. It changes how voice and camera interaction on glasses gets designed."
+      "rationale": "A native fork of PS5LM runs local LLMs on jailbroken PS5s at over 100 tokens per second, using the console's GPU and extra RAM, and it can be chatted with remotely. AI is the whole story here: consumer hardware many people already own is being turned into a local-AI box, a new release in the local-inference trend."
     },
     {
-      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
-      "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
-      "source": "Meta Newsroom",
+      "url": "https://www.tomsguide.com/computing/laptops/asus-proart-p16-rtx-spark-review",
+      "title": "I tested the Asus ProArt P16 with Nvidia RTX Spark and it's the ultimate AI creator laptop (with a price to match)",
+      "source": "Tom's Guide",
       "category": "gadgets",
-      "published_iso": "2026-10-14T16:00:57+00:00",
-      "og_image": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200",
-      "excerpt": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art - Discovering Masterpieces Beyond What Meets the Eye.” This pilot",
+      "published_iso": "2026-10-16T12:00:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg",
+      "excerpt": "A new standard of AI creativity on the move",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Meta launches \"Sensing Art\", a pilot that uses AI glasses as an accessible museum guide at the Brera gallery. It is a new, concrete real-world use of AI glasses (the orchestrator assigned this item to gadgets)."
+      "rationale": "A hands-on test of the first creator-class RTX Spark laptop, the Asus ProArt P16, covering local AI performance and price. It is a buy-or-skip input for designers choosing a local-AI workstation (cleared for gadgets by the orchestrator)."
     },
     {
-      "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
-      "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
-      "source": "Samsung Global Newsroom",
+      "url": "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/",
+      "title": "MacPaw launches Eney, a proactive AI assistant for Mac and iPhone",
+      "source": "9to5Mac",
       "category": "gadgets",
-      "published_iso": "2026-10-14T21:00:00+09:00",
-      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13153111/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Thumb932.jpg",
-      "excerpt": "Samsung is expanding language support for Galaxy AI and Bixby, bringing these experiences ",
+      "published_iso": "2026-10-15T12:00:14+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "MacPaw is releasing Eney, a proactive AI assistant that works across your apps, files, and system to help you get things done.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "Samsung officially adds languages to Galaxy AI and Bixby. That widens the markets where on-device AI features ship, and localization teams need to know about it."
+      "rationale": "MacPaw releases Eney, a proactive assistant that works across Mac and iPhone apps, files and system settings. It is a new tool a Mac-based designer can install tomorrow."
     },
     {
-      "url": "https://www.tomsguide.com/ai/apple-says-siri-doesnt-need-to-beat-chatgpt-heres-what-its-betting-on-instead",
-      "title": "Apple says Siri doesn't need to beat ChatGPT — here's what it's betting on instead",
-      "source": "Tom's Guide",
+      "url": "https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html",
+      "title": "Anker launches new window-mounted camera with 25-degree tilt and local AI detection",
+      "source": "Notebookcheck",
       "category": "gadgets",
-      "published_iso": "2026-10-16T08:30:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-2000-80.jpg",
-      "excerpt": "Apple CEO John Ternus explains why Siri AI doesn't need to beat ChatGPT or Claude, and how your iPhone's personal data could give it an edge.",
+      "published_iso": "2026-10-15T20:07:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+      "excerpt": "Eufy has launched the Window Camera E10, a 64.1g security camera that sticks to the inside of a window to watch driveways and entrances from indoors. It records 2688 x 1520 video at 15fps through an f/1.0 lens and saves footage to microSD cards of up to 256GB. Detection of people, vehicles and pets runs on the device, with no subscription.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "Apple CEO John Ternus explains Siri's strategy on the record: personal context, not chatbot benchmarks. It is a first-hand statement of direction, not a repeat of the 10-12 Siri-vs-Gemini comparison."
+      "rationale": "Eufy's $79.99 Window Camera E10 runs person, vehicle and pet detection on the device and needs no subscription. It is a new product that puts on-device AI into a drill-free, renter-friendly form factor."
     },
     {
-      "url": "https://www.notebookcheck.net/myFirst-s-AI-camera-and-printer-turn-kids-ideas-into-instant-comics.1423897.0.html",
-      "title": "myFirst's AI camera and printer turn kids' ideas into instant comics",
-      "source": "Notebookcheck",
+      "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+      "title": "HTC Made Smart Glasses That Are Way More Private",
+      "source": "WIRED",
       "category": "gadgets",
-      "published_iso": "2026-10-14T16:37:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png",
-      "excerpt": "The Insta magiCam turns photos into coloring pages, stickers and illustrations, while the magiBox transforms spoken ideas into printable artwork and four-panel comics. (Published time from outlet RSS; page 403 to fetchers.)",
-      "source_lang": "en",
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "rationale": "myFirst launches two kids' devices that turn photos and spoken ideas into printable illustrations and four-panel comics. It is a new product launch putting generative image AI in physical hardware."
-    }
-  ],
-  "alternates": [
-    {
-      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-      "source": "TechCrunch",
-      "category": "gadgets",
-      "published_iso": "2026-10-15T19:55:25+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024",
-      "excerpt": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "published_iso": "2026-10-17T10:30:00.000Z",
+      "og_image": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg",
+      "excerpt": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#eb367f",
       "motif": "headset",
-      "rationale": "A Disrupt keynote that is commentary, not a release, and it overlaps the 10-16 Bee launch card. It stays an alternate."
+      "rationale": "HTC pitches its Vive Eagle AI glasses as the privacy-first alternative to Meta: similar features with no social-platform tie-in. It is a different product and maker from the 9-25 Meta privacy card, and it gives a clear design contrast for wearable AI."
+    }
+  ],
+  "alternates": [
+    {
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-10-17T13:21:20Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png",
+      "excerpt": "Is AI coming for blue-collar jobs, too?",
+      "source_lang": "en",
+      "tool": "Gadgets",
+      "accent": "#ff2d55",
+      "motif": "headset",
+      "rationale": "AI is central here (robot-training data collection with wearable sensors), but it is not a consumer gadget release. First alternate now."
     },
     {
       "url": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
@@ -98,53 +98,39 @@
       "excerpt": "A reliable source says that Nothing is building out its own AI smart glasses that feature ChatGPT integration, a camera,...",
       "source_lang": "en",
       "tool": "Gadgets",
-      "accent": "#3b6bff",
+      "accent": "#171717",
       "motif": "headset",
-      "rationale": "This is a report, not a launch, and there are already two glasses picks. It stays an alternate."
-    },
-    {
-      "url": "https://www.bloter.net/news/articleView.html?idxno=675908",
-      "title": "[피지컬 AI 생태계] 리벨리온·퓨리오사AI의 '로봇을 위한 계산'",
-      "source": "블로터",
-      "category": "gadgets",
-      "published_iso": "2026-10-16T18:29:09+09:00",
-      "og_image": "https://cdn.bloter.net/news/thumbnail/202610/675908_289907_1149_v150.jpg",
-      "excerpt": "현장에서 본 국내 피지컬 AI 생태계의 현재를 짚어봅니다.",
-      "source_lang": "ko",
-      "tool": "Gadgets",
-      "accent": "#ff2d55",
-      "motif": "headset",
-      "rationale": "This is an analysis series about Korean NPU makers and robotics, not a device release."
+      "rationale": "This is a report, not a launch, and HTC already fills the glasses slot. Second alternate."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/": {
+      "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram": {
         "verdict": "new",
-        "nearest": "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/",
+        "nearest": "https://www.xda-developers.com/a-29mb-ai-model-is-the-most-useful-thing-ive-run-on-my-raspberry-pi-5/",
         "new_action": ""
       },
-      "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/": {
+      "https://www.tomsguide.com/computing/laptops/asus-proart-p16-rtx-spark-review": {
         "verdict": "new",
-        "nearest": "https://www.uploadvr.com/liminal-walking-meditation-uses-meta-ai-glasses-to-deliver-a-meditation-based-on-what-you-see/",
+        "nearest": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
         "new_action": ""
       },
-      "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy": {
+      "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/": {
         "verdict": "new",
-        "nearest": "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
+        "nearest": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
         "new_action": ""
       },
-      "https://www.tomsguide.com/ai/apple-says-siri-doesnt-need-to-beat-chatgpt-heres-what-its-betting-on-instead": {
+      "https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html": {
         "verdict": "new",
-        "nearest": "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
+        "nearest": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/myFirst-s-AI-camera-and-printer-turn-kids-ideas-into-instant-comics.1423897.0.html": {
+      "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
         "new_action": ""
       }
     },
-    "note": "Dropped as same story: Ars 'Ray-Ban Meta bug recording audio' (the bug fix is the same incident as the 10-14 Android Authority Ray-Ban listening card; yesterday's 9to5Google fix follow-up was dropped the same way). CNET Amazon Bee (same launch as the 10-16 TechCrunch Bee card). 9to5Mac Apple Intelligence China (likely-repeat of the 10-15 MacRumors card). Notebookcheck HomeView (likely-repeat of the 10-14 Ars card). WIRED and Tom's Hardware Surface Laptop Ultra reviews (cluster c5): reviews of the 10-08 TechCrunch Microsoft Nvidia-chip AI PC launch, with no new release. Tom's Guide Asus ProArt P16 RTX Spark review: a review of the 10-10 RTX Spark laptop pre-order story. Engadget Alexa Tablet 12 Pro review and ZDNET Alexa tablets: both repeat the 10-09 Engadget launch. 9to5Google Samsung Android XR glasses leak: the leak predates the 10-14 CNET Samsung glasses unveiling it describes. 9to5Mac HomePod mini 2 and Apple TV 4K: products from the Oct 13 Apple event, already covered 10-14 (Ars HomeView); this follows yesterday's ruling on the same event coverage. Lower priority: Suunto screenless band filing (a report, no AI angle), Narwal robot vacuum review (weak AI), etnews Samsung TIME Best Inventions (an award). Alternates: Panay Disrupt talk, Nothing glasses report, Bloter physical-AI analysis. The final 5 come from 5 distinct outlets (Android Authority, Meta Newsroom, Samsung Newsroom, Tom's Guide, Notebookcheck). Two are glasses picks; the others are phone AI, an assistant strategy statement and a kids' generative-AI device."
+    "note": "SWAP (orchestrator request): removed XREAL 1 Pro+ (Road to VR), because the enrichment fetch showed it is a hardware refresh where AI is incidental (only an 'AI HDR' picture mode). Replaced it with the first alternate, Tom's Hardware's jailbroken-PS5 local-LLM story, where AI is central. Dedup check for the replacement: it has no history_match tag, and there is no PS5/PS5LM story in the 30-day history_digest. The nearest items are other local-AI-on-hobby-hardware pieces: XDA's Raspberry Pi 29MB model (10-12), the Digital Trends $7 board for AI iPhone control (10-16) and The Verge's local-AI diary (10-12). Each is a different device and event, so the verdict is new. Cross-section check: there is no PS5 or local-LLM story in today's selected_games.json, and it does not touch design's Adobe/NVIDIA RTX Spark story or politics' Apple App Store nudify rules. Outlets after the swap: Tom's Hardware, Tom's Guide, 9to5Mac, Notebookcheck, WIRED (5 distinct domains). Earlier drops from this run still stand: 9to5Google Samsung Android XR glasses leak (pre-launch coverage of the glasses CNET reported unveiled on 10-14). Ars Amazon Alexa Tablets (same launch as the 10-09 Engadget card). TechCrunch Apple TV 4K and 9to5Mac 'Siri AI not coming to original HomePod mini' (both from the Oct 13 Apple event, already covered 10-14). 9to5Mac Joswiak interview (commentary that overlaps the 10-17 Tom's Guide Siri-strategy card). Tom's Guide iOS 27 smart home explainer (a rehash). WIRED Surface Laptop Ultra review (a review of the 10-08 Microsoft Nvidia-chip PC launch). Google Home update (a minor fix in the 10-02 Gemini-for-Home thread). Lower priority / not picked: Meta Singapore donation (PR), Panay talk and Oppo CEO interview (commentary), Android Authority Instinct diary (opinion), Engadget Shortcuts and Tom's Guide ChatGPT Sketch how-tos (evergreen), etnews riot-control robot, TheElec Iron Device module."
   }
 }

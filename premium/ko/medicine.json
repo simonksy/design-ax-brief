@@ -1203,6 +1203,87 @@
           "x": "Neither humans nor LLMs appear suitable as the primary safeguard, the authors concluded. They recommend treating image provenance as data governance, using cryptographic content credentials or watermarking, with visual review as a secondary control."
         }
       ]
+    },
+    "medicine/medicine-osteoporosis-cxr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "연구진이 흉부 X선 사진으로 골다공증과 골밀도(BMD) 저하를 예측하는 AI 모델 AI-OsRM을 개발해 npj Digital Medicine에 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "AI-OsRM 개발에는 한 3차 의뢰 병원이 2016년부터 2022년까지 모은 환자 26,757명의 흉부 X선·이중에너지 X선 흡수계측(DXA) 짝 검사 46,478건이 쓰였다. 구조는 마스크드 오토인코더로 사전학습한 ResNet-based 모델이다."
+        },
+        {
+          "t": "p",
+          "x": "외부 검증은 세 코호트에서 했다. 시기를 달리한 병원 코호트(SNUH; n = 6,391)와 건강검진 코호트 두 곳(HPC, n = 24,132; YSMC, n = 122,535)이다. AUROC는 SNUH에서 골다공증과 골밀도 저하 모두 0.88, HPC와 YSMC의 골다공증 예측에서는 각각 0.93과 0.92였다."
+        },
+        {
+          "t": "p",
+          "x": "시뮬레이션에서는 AI-OsRM으로 먼저 걸러내면 DXA 사용을 약 50% 줄이고도 골다공증 사례의 98-99%, 골밀도 저하 사례의 80-90%를 찾아냈다. DXA를 효율적으로 쓰게 하는 사전 선별 도구가 될 수 있다."
+        }
+      ]
+    },
+    "medicine/medicine-agent-scope": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "범용 AI 에이전트는 이제 사용자 컴퓨터의 파일과 애플리케이션을 직접 다룬다. Mahmud Omar, Eyal Klang, Girish N Nadkarni는 The Lancet Digital Health에서 ChatGPT Work, ChatGPT Codex, Claude Cowork, Claude Code 같은 제품이 이 기능을 소비자용 앱으로 가져왔다고 썼다."
+        },
+        {
+          "t": "p",
+          "x": "이런 에이전트는 임상의의 집 컴퓨터에서도, 병원 워크스테이션에서도 돌아간다. 컴퓨터 사용 기능을 쓰면 에이전트가 단계마다 화면을 캡처해 개발사 서버로 보낸다. 그래서 화면에 뜬 것은 무엇이든 보고 임상의의 로그인으로 움직인다. 추적 진료를 예약하던 에이전트가 옆 패널에 뜬 무관한 진단명까지 캡처할 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "애플리케이션을 조작할 권한이 있다고 업무마다 어떤 정보가 적절한지까지 정해지지는 않는다. 임상의가 스크린샷을 일일이 검토하리라 기대하기도 어렵다는 게 저자들의 주장이다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 IRBs의 단계별 구조를 본뜬 표준 기관 절차를 제안한다. 정렬·에이전트 안전 위원회 형태로 운영하는 방식이다. 승인할 때 업무, 접근 가능한 데이터, 도구, 수신자, 보존 기간을 명시하고 새 기능이 생기면 다시 검토한다. 에이전트의 접근 권한은 위임받은 업무에 비례해야 한다고 저자들은 본다."
+        }
+      ]
+    },
+    "medicine/medicine-ai-wait-human": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "JAMA Network Open에 실린 단면 연구는 미국 성인 1,185명을 대상으로(2024년 6월 17일~7월 26일) 조사했다. 환자 포털 메시지에 빠른 AI 답변과 의료 전문가가 검토한 느린 답변 중 어느 쪽을 원하는지, 정신건강 지원의 AI 선택지는 어떻게 평가하는지 물었다."
+        },
+        {
+          "t": "p",
+          "x": "일정 조율이나 처방 재발급 같은 행정 메시지라면 57.4%가 빠른 AI 답변을 골랐고, 일반 메시지에서는 그 비율이 50.6%였다. 의학적 메시지에서는 63.1%가 의료 전문가의 검토를 기다리겠다고 답했다."
+        },
+        {
+          "t": "p",
+          "x": "정신건강 지원에서는 3개월 뒤 만날 수 있는 인간 치료사가 63.9%로 가장 많은 지지를 받았다. 치료사가 모니터링하는 1개월 뒤 AI(50.2%), 즉시 쓸 수 있는 AI 단독(44.3%)이 뒤를 이었다."
+        },
+        {
+          "t": "p",
+          "x": "결과는 출생 세대 등 여러 요인별로 나눠 분석했다. 저자들은 사람들이 의학적 질문이나 정신건강 지원보다 위험이 낮은 업무에서 빠른 AI를 더 쉽게 받아들인다고 봤다. 신속성과 사람의 검토 사이에서 고를 수 있는 선택지가 환자에게 도움이 될 수 있다는 결론이다."
+        }
+      ]
+    },
+    "medicine/medicine-llm-care-cost": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "대규모 언어 모델은 임상 의사결정 지원에 점점 더 많이 쓰인다. 그런데 이들이 권하는 서비스나 치료의 비용을 담당 의사가 실제로 처방한 내용과 맞대어 따져본 연구는 없었다. Dvir Aran, Jeremy D. Goldhaber-Fiebert, Ittai Many, Anthony Nguyen, Daniel Yang, Shahar Shelly는 NEJM AI에 \"Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians\"를 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "연구는 다섯 단계를 밟았다. 200개 사례를 고르고, 각 기록을 임상 양상과 평가·계획으로 나눈 뒤, 24개 AI 시스템이 3가지 프롬프트(표준, 비용 고려, 간결하되 안전한 방식)로 계획을 짰다. 거기서 처방을 뽑아내고(세 번 추출한 값의 중앙값), 처방마다 CPT 코드로 Medicare 수가표에 맞춰 값을 매겼다."
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
+          "cap": "연구 흐름과 예시 사례: 전형적인 세기관지염을 앓는 생후 2개월 영아."
+        },
+        {
+          "t": "p",
+          "x": "예시 사례에서 담당 의사는 진단 검사를 하나도 내지 않았다(US$0). 세기관지염에는 일상적인 검사가 필요 없어서다. 기본 프롬프트에서 AI는 호흡기 바이러스 패널과 심초음파를 처방했고(US$454), 비용 고려 프롬프트는 바이러스 패널과 백일해 PCR을(US$292), 간결 프롬프트는 백일해 PCR 검사만 처방했다(US$35)."
+        }
+      ]
     }
   }
 }

@@ -1,139 +1,137 @@
 {
   "section": "gadgets",
-  "now_iso": "2026-10-16T22:00:37Z",
+  "now_iso": "2026-10-17T22:00:34Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-      "url": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "title": "Samsung's first Android XR glasses leak in 25 styles alongside 9-hour battery, specs [Gallery]",
+      "url": "https://9to5google.com/2026/10/13/samsung-android-xr-glasses-styles-specs-battery-life-leak/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-10-13T15:15:00+00:00",
+      "excerpt": "Samsung’s first Android XR glasses are right around the corner and, ahead of launch, another leak reveals every style you’ll...",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/warby-parker-android-xr-glasses-1.jpg?quality=82&strip=all&resize=1200,628",
+      "history_match": {
+        "score": 0.198,
+        "date": "2026-10-17",
+        "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
+        "title": "Google’s next Gemini trick could change how you use Android XR glasses",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Google Home update rolling out with improved Favorites, more app & Gemini fixes",
+      "url": "https://9to5google.com/2026/10/14/google-home-update-rolling-out-improved-favorites-gemini-fixes/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-10-14T20:35:00+00:00",
+      "excerpt": "Google Home is rolling out a new update that fixes reorganizing your favorites and smooths out a whole bunch of Gemini issues.",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/05/google-home-ask-home-1.jpg?quality=82&strip=all&resize=1200,628",
+      "history_match": {
+        "score": 0.287,
+        "date": "2026-10-02",
+        "url": "https://www.androidauthority.com/google-home-third-september-update-gemini-fixes-3717609/",
+        "title": "Gemini for Home is now better at hearing you in noisy rooms",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Nothing reportedly launching two pairs of smart glasses, one with barely any AI",
+      "url": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
+      "source": "9to5Google",
+      "category": "gadgets",
+      "published_iso": "2026-10-14T14:05:00+00:00",
+      "excerpt": "A reliable source says that Nothing is building out its own AI smart glasses that feature ChatGPT integration, a camera,...",
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&resize=1200,628",
+      "history_match": {
+        "score": 0.23,
+        "date": "2026-09-18",
+        "url": "https://roadtovr.com/meta-smart-glasses-without-cameras-report/",
+        "title": "Meta Reportedly Building Smart Glasses without Cameras Following Public Backlash",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Apple confirms Siri AI is not coming to the original HomePod mini",
+      "url": "https://9to5mac.com/2026/10/14/no-siri-ai-is-not-coming-to-the-original-homepod-mini/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-10-14T17:30:55+00:00",
+      "excerpt": "Siri AI will be exclusive to HomePod mini 2, it‘s not coming to the original HomePod mini despite a report temporarily claiming otherwise.",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/07/homepod-mini-new-colors-2021.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "title": "Apple SVP Greg Joswiak: ‘We don’t feel threatened’ by OpenAI hardware plans",
+      "url": "https://9to5mac.com/2026/10/15/apple-svp-greg-joswiak-we-dont-feel-threatened-by-openai-hardware-plans/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T15:05:02+00:00",
+      "excerpt": "Greg “Joz” Joswiak, Apple’s SVP of Worldwide Marketing, was interviewed about AI at Apple, hardware threats from OpenAI, and more.",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/greg-joz-joswiak-event-sep-2026-1.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "title": "MacPaw launches Eney, a proactive AI assistant for Mac and iPhone",
+      "url": "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T12:00:14+00:00",
+      "excerpt": "MacPaw is releasing Eney, a proactive AI assistant that works across your apps, files, and system to help you get things done.",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "title": "Meta Donates 1,000 AI Glasses to Singapore's Disability Community",
+      "url": "https://about.fb.com/news/2026/10/meta-donates-1000-ai-glasses-to-singapores-disability-community/",
+      "source": "Meta Newsroom",
+      "category": "gadgets",
+      "published_iso": "2026-10-08T05:49:36+00:00",
+      "excerpt": "Meta donates 1,000 Ray-Ban Meta AI glasses to four Singapore community organisations to help persons with disabilities.",
+      "og_image": "https://about.fb.com/wp-content/uploads/2026/10/Meta-Singapore-Wearables-Event.jpg?w=1200",
+      "history_match": {
+        "score": 0.199,
+        "date": "2026-10-10",
+        "url": "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961",
+        "title": "Ray-Ban Meta Gen 3 review: Meta's new Muse model is the real upgrade",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Amazon's new Alexa Tablets drop the Fire branding but are more Android than ever",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
       "source": "Ars Technica",
       "category": "gadgets",
-      "published_iso": "2026-10-16T19:11:50+00:00",
-      "excerpt": "The bug is fixed, but privacy concerns remain.",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/unnamed-1-875x648.jpg",
+      "published_iso": "2026-10-08T16:32:46+00:00",
+      "excerpt": "Amazon killed its app store, so Google Play it is.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/assets.aboutamazon-1152x648.png",
       "history_match": {
-        "score": 0.367,
+        "score": 0.36,
+        "date": "2026-10-01",
+        "url": "https://www.engadget.com/2273042/amazons-new-fire-tv-interface-and-mobile-app-will-come-with-alexa-upgrades/",
+        "title": "Amazon's new Fire TV interface and mobile app will come with Alexa+ upgrades",
+        "band": "related"
+      }
+    },
+    {
+      "title": "XREAL Announces '1 Pro+' Flagship AR Glasses, Now Available & Priced at $599",
+      "url": "https://roadtovr.com/xreal-1-pro-plus-release-date-price/",
+      "source": "Road to VR",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T12:59:00+00:00",
+      "excerpt": "XREAL today announced XREAL 1 Pro+, a hardware refresh of its One Pro flagship AR glasses. Launching today at $599, Xreal 1 Pro+ includes a modest set of improvements over the original One Pro, which launched in early 2025. Principally, Xreal 1 Pro+ includes brighter displays, as well as improvements to spatial viewing and comfort. […]",
+      "og_image": "https://roadtovr.com/wp-content/uploads/2026/10/1_Pro__Image.jpg"
+    },
+    {
+      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "published_iso": "2026-10-13T13:16:11+00:00",
+      "excerpt": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-TV-4K-261013_big.jpg.large_2x.jpg?resize=1200,675",
+      "history_match": {
+        "score": 0.26,
         "date": "2026-10-06",
-        "url": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
-        "title": "Meta rolling out audio upgrades, turn-by-turn navigation for Ray-Ban smart glasses",
-        "band": "related"
-      }
-    },
-    {
-      "title": "[피지컬 AI 생태계] 리벨리온·퓨리오사AI의 '로봇을 위한 계산'",
-      "url": "https://www.bloter.net/news/articleView.html?idxno=675908",
-      "source": "블로터",
-      "category": "gadgets",
-      "published_iso": "2026-10-16T18:29:09+09:00",
-      "excerpt": "현장에서 본 국내 피지컬 AI 생태계의 현재를 짚어봅니다.",
-      "og_image": "https://cdn.bloter.net/news/thumbnail/202610/675908_289907_1149_v150.jpg"
-    },
-    {
-      "title": "Suunto Might Be Hopping on the Screenless Wearable Bandwagon",
-      "url": "https://gizmodo.com/suunto-screenless-fitness-tracker-2000827053",
-      "source": "Gizmodo",
-      "category": "gadgets",
-      "published_iso": "2026-10-16T17:40:57+00:00",
-      "excerpt": "Recent regulatory filings suggest the company is working on a Whoop competitor focused on heart rate and recovery.",
-      "og_image": "https://gizmodo.com/app/uploads/2025/07/whoop-5-band-review-10-1200x675.jpg"
-    },
-    {
-      "title": "Narwal Freo 20 Robot Vacuum review",
-      "url": "https://www.tomsguide.com/home/home-appliances/narwal-freo-20-robot-vacuum-review",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-10-16T14:21:30Z",
-      "excerpt": "The Narwal Freo 20 looks good on paper and has handy mopping features. It’s just a shame that it struggled on carpets",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/iKirbZoPhX5fFYZrFSftRb-2000-80.jpg"
-    },
-    {
-      "title": "삼성 '갤S26 울트라' 등 3개 제품, 美 타임 '올해 최고의 발명품' 선정",
-      "url": "https://www.etnews.com/20261016000203",
-      "source": "전자신문",
-      "category": "gadgets",
-      "published_iso": "2026-10-16T14:02:51+09:00",
-      "excerpt": "삼성전자의 갤럭시S26 울트라와 비스포크 AI 패밀리허브 냉장고, 오디세이G8 게이밍 모니터가 미국 시사주간지 타임(TIME)이 선정한 ",
-      "og_image": "https://img.etnews.com/news/article/2026/10/16/news-p.v1.20261016.064d0a5214934858881039e9eab2369b_P1.jpg"
-    },
-    {
-      "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
-      "url": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
-      "source": "WIRED",
-      "category": "gadgets",
-      "published_iso": "2026-10-16T09:00:00.000-04:00",
-      "excerpt": "The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple—if only it weren't for the lack of battery life.",
-      "og_image": "https://media.wired.com/photos/6ad13db2947d3d6c92ec6bb7/191:100/w_1280,c_limit/Review%20Surface%20Laptop%20Ultra%20102026%20top%20art%20SOURCE%20BH%20Photo.jpg",
-      "history_match": {
-        "score": 0.276,
-        "date": "2026-09-26",
-        "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-        "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-        "band": "related"
-      },
-      "cluster": "c5"
-    },
-    {
-      "title": "Microsoft Surface Laptop Ultra review: RTX Spark in a straight-up beautiful Windows PC",
-      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-10-16T12:00:00Z",
-      "excerpt": "Useful for AI models, but still waiting for more Windows 11 features to take advantage of.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/2euXU5qSKhStmYNM3oz75j-2520-80.jpg",
-      "history_match": {
-        "score": 0.254,
-        "date": "2026-10-08",
-        "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-        "band": "related"
-      },
-      "cluster": "c5"
-    },
-    {
-      "title": "I tested the Asus ProArt P16 with Nvidia RTX Spark and it's the ultimate AI creator laptop (with a price to match)",
-      "url": "https://www.tomsguide.com/computing/laptops/asus-proart-p16-rtx-spark-review",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-10-16T12:00:00Z",
-      "excerpt": "A new standard of AI creativity on the move",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg",
-      "history_match": {
-        "score": 0.256,
-        "date": "2026-10-10",
-        "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
-        "title": "Pre-orders open for Nvidia's RTX Spark laptops, starting at $2,599",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Apple says Siri doesn't need to beat ChatGPT — here's what it's betting on instead",
-      "url": "https://www.tomsguide.com/ai/apple-says-siri-doesnt-need-to-beat-chatgpt-heres-what-its-betting-on-instead",
-      "source": "Tom's Guide",
-      "category": "gadgets",
-      "published_iso": "2026-10-16T08:30:00Z",
-      "excerpt": "Apple CEO John Ternus explains why Siri AI doesn't need to beat ChatGPT or Claude, and how your iPhone's personal data could give it an edge.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HjYwAC95TvVVcJWWjdzB3C-2000-80.jpg",
-      "history_match": {
-        "score": 0.24,
-        "date": "2026-10-12",
-        "url": "https://www.androidauthority.com/siri-ai-better-than-gemini-3717976/",
-        "title": "Siri AI beats Gemini at the thing that matters most",
-        "band": "related"
-      }
-    },
-    {
-      "title": "New Amazon Bee Personal AI Devices Will Listen and Record You",
-      "url": "https://www.cnet.com/tech/mobile/amazon-bee-personal-ai-device-always-listening-and-recording-2/",
-      "source": "CNET",
-      "category": "gadgets",
-      "published_iso": "2026-10-15T18:14:16-04:00",
-      "excerpt": "The Bee Frontier and Bee Eclipse use artificial intelligence to process conversations into summaries, to-do lists and more. Just make sure you ask people for permission to record first.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/Bee-Eclipse-phone-16x9-1.jpg",
-      "history_match": {
-        "score": 0.392,
-        "date": "2026-10-16",
-        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+        "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
+        "title": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV",
         "band": "related"
       }
     },
@@ -147,220 +145,170 @@
       "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024"
     },
     {
-      "title": "Alexa Tablet 12 Pro review: Amazon's premium tablet gets almost everything right",
-      "url": "https://www.engadget.com/2287955/amazon-alexa-tablet-12-pro-review/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-10-15T18:30:00+00:00",
-      "excerpt": "This tablet is a great value, even if Android apps still aren",
-      "og_image": "https://www.engadget.com/img/gallery/alexa-tablet-12-pro-review-amazons-premium-tablet-gets-almost-everything-right/l-intro-1792087746.jpg",
-      "history_match": {
-        "score": 0.299,
-        "date": "2026-10-09",
-        "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
-        "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
-      "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy",
-      "source": "Samsung Global Newsroom",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T21:00:00+09:00",
-      "excerpt": "Samsung is expanding language support for Galaxy AI and Bixby, bringing these experiences ",
-      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/13153111/Samsung-Mobile-Language-Support-AI-Experience-Galaxy_Thumb932.jpg",
-      "history_match": {
-        "score": 0.185,
-        "date": "2026-10-14",
-        "url": "https://www.cnet.com/tech/mobile/samsung-smart-glasses-reveal/",
-        "title": "Samsung Smart Glasses Unveiled, and They're Superlight",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Apple Intelligence reportedly coming to China in December, but without Siri AI",
-      "url": "https://9to5mac.com/2026/10/14/apple-intelligence-reportedly-coming-to-china-in-december-but-without-siri-ai/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T20:20:14+00:00",
-      "excerpt": "Bloomberg reports that Apple plans to finally launch Apple Intelligence in China in December, although some important features could still be missing.",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/09/apple-intelligence-macOS-27.jpg?quality=82&strip=all&resize=1200,628",
-      "history_match": {
-        "score": 0.462,
-        "date": "2026-10-15",
-        "url": "https://www.macrumors.com/2026/10/14/apple-intelligence-china-ios-27-3/",
-        "title": "Apple Intelligence Coming to China in December With iOS 27.3",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
-      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
-      "source": "Meta Newsroom",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T16:00:57+00:00",
-      "excerpt": "Today, Meta, Pinacoteca di Brera and EssilorLuxottica are proud to launch “Sensing Art - Discovering Masterpieces Beyond What Meets the Eye.” This pilot",
-      "og_image": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200"
-    },
-    {
-      "title": "Nothing reportedly launching two pairs of smart glasses, one with barely any AI",
-      "url": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T14:05:00+00:00",
-      "excerpt": "A reliable source says that Nothing is building out its own AI smart glasses that feature ChatGPT integration, a camera,...",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&resize=1200,628",
-      "history_match": {
-        "score": 0.217,
-        "date": "2026-09-18",
-        "url": "https://roadtovr.com/meta-smart-glasses-without-cameras-report/",
-        "title": "Meta Reportedly Building Smart Glasses without Cameras Following Public Backlash",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Samsung’s first Android XR glasses leak in 25 styles alongside 9-hour battery, specs [Gallery]",
-      "url": "https://9to5google.com/2026/10/13/samsung-android-xr-glasses-styles-specs-battery-life-leak/",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-10-13T15:15:00+00:00",
-      "excerpt": "Samsung’s first Android XR glasses are right around the corner and, ahead of launch, another leak reveals every style you’ll...",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/warby-parker-android-xr-glasses-1.jpg?quality=82&strip=all&resize=1200,628"
-    },
-    {
-      "title": "Apple announces HomePod mini 2: Siri AI, new colors, Sound Glow, more",
-      "url": "https://9to5mac.com/2026/10/13/apple-announces-homepod-mini-2-siri-ai-new-colors-sound-glow-more/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-10-13T13:08:20+00:00",
-      "excerpt": "Apple has officially announced the new HomePod mini 2 smart speaker. The new product was announced by Apple today alongside...",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/homepod.-mini-2.webp?resize=1200,628",
-      "history_match": {
-        "score": 0.211,
-        "date": "2026-09-24",
-        "url": "https://9to5google.com/2026/09/23/qualcomm-announces-snapdragon-sound-elite-gen-2/",
-        "title": "Qualcomm announces Snapdragon Sound Elite Gen 2 for AI ‘hearables,’ even ones with cameras",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Apple announces new Apple TV 4K with upgraded Siri Remote, A19 chip, more",
-      "url": "https://9to5mac.com/2026/10/13/apple-announces-new-apple-tv-4k/",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-10-13T13:02:28+00:00",
-      "excerpt": "Today Apple unveiled a brand new Apple TV 4K model as part of its ‘Welcome home’ product launch event. Here are the full details from the announcement.",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/new-apple-tv-4k-2026.jpg?quality=82&strip=all&resize=1200,628",
-      "history_match": {
-        "score": 0.216,
-        "date": "2026-10-06",
-        "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
-        "title": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV",
-        "band": "related"
-      }
-    },
-    {
-      "title": "4 ways Amazon’s new Alexa tablets eclipse the Fire line – starting with Google Play",
-      "url": "https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/",
-      "source": "ZDNET",
-      "category": "gadgets",
-      "published_iso": "2026-10-09T15:10:13-04:00",
-      "excerpt": "Amazon just upped its game with new Android tablets for entertainment and work.",
-      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/alexa-tablets-22.jpg",
-      "history_match": {
-        "score": 0.298,
-        "date": "2026-10-09",
-        "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
-        "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Google’s next Gemini trick could change how you use Android XR glasses",
-      "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
+      "title": "I've been using an AI agent for a month, and I'm both impressed and terrified",
+      "url": "https://www.androidauthority.com/using-ai-agent-instinct-one-month-later-impressions-3720825/",
       "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-10-16T06:54:54+00:00",
-      "excerpt": "\"Hey Gemini\" is coming for \"Ok Google\" — a new hotword and camera-activation flow for Gemini on Android XR glasses. (Published time from outlet RSS; page 403 to fetchers.)",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+      "published_iso": "2026-10-17T09:00:53+00:00",
+      "excerpt": "Instinct AI is extremely good, with some big caveats.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/instinct-hands-on-1.jpg"
+    },
+    {
+      "title": "How to create iPhone Shortcuts with Apple Intelligence (and why you should) - Engadget",
+      "url": "https://www.engadget.com/2283983/how-to-create-iphone-shortcuts-with-apple-intelligence-and-why-you-should/",
+      "source": "Engadget",
+      "category": "gadgets",
+      "published_iso": "2026-10-17T13:00:00+00:00",
+      "excerpt": "When it works, it works!",
+      "og_image": "https://www.engadget.com/img/gallery/how-to-create-iphone-shortcuts-with-apple-intelligence-and-why-you-should/l-intro-1791819599.jpg",
       "history_match": {
-        "score": 0.171,
-        "date": "2026-10-15",
-        "url": "https://www.engadget.com/2286355/android-will-use-gemini-to-warn-you-about-scammy-messages/",
-        "title": "Android will use Gemini to warn you about scammy messages",
+        "score": 0.192,
+        "date": "2026-09-26",
+        "url": "https://www.androidauthority.com/google-create-my-widget-play-store-listing-3715354/",
+        "title": "This is how Google's 'Create My Widget' app will work on Android and Googlebook OS",
         "band": "related"
       }
     },
     {
-      "title": "myFirst's AI camera and printer turn kids' ideas into instant comics",
-      "url": "https://www.notebookcheck.net/myFirst-s-AI-camera-and-printer-turn-kids-ideas-into-instant-comics.1423897.0.html",
-      "source": "Notebookcheck",
+      "title": "폭동 진압하는 로봇?…방패·진압봉까지 들었다",
+      "url": "https://www.etnews.com/20261015000433",
+      "source": "전자신문",
       "category": "gadgets",
-      "published_iso": "2026-10-14T16:37:00+02:00",
-      "excerpt": "The Insta magiCam turns photos into coloring pages, stickers and illustrations, while the magiBox transforms spoken ideas into printable artwork and four-panel comics. (Published time from outlet RSS; page 403 to fetchers.)",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/MyFirst-Product-launch45.png"
+      "published_iso": "2026-10-18T06:00:00+09:00",
+      "excerpt": "중국에서 방패와 진압봉을 든 휴머노이드 로봇이 폭동 대응 임무를 위한 시험에 나섰습니다. 이 로봇은 중국 국영 방산기업 산하 연구기관이 개발한 휴머노이드 로봇 '푸시'입니다. 푸시는 수상한 사람을 감지한 뒤 진압봉을 휘두르거나 방패로 상대를 밀어내는 동작을 수행할 수 있습니다. 개발 과정에서는 중국 무장경찰 대원의 움직임을 수집해 로봇이 관련 동작을 따라 하도록 학습시켰습니다. 위험한 상황에서는 사람이 원격으로 조종하는 것도 가능합니다. 현재는",
+      "og_image": "https://img.etnews.com/news/article/2026/10/15/news-p.v1.20261015.be3752f6fdfd48609efaa8843eec2fa3_P1.jpg"
     },
     {
-      "title": "Apple HomeView arrives with a 7-inch display and Siri AI, but European buyers are out of luck",
-      "url": "https://www.notebookcheck.net/Apple-HomeView-arrives-with-a-7-inch-display-and-Siri-AI-but-European-buyers-are-out-of-luck.1423130.0.html",
+      "title": "Anker launches new window-mounted camera with 25-degree tilt and local AI detection\n\nURL Source: https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html\n\nPublished Time: 2026-10-15T20:07:00+02:00\n\nMarkdown Content:\n[Video 3](https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html)\n\n[Video 4](https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html)\n\n[![Image 3: Notebookcheck Logo](https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_alone_header.svg)![Image 4: Notebookcheck Logo](https://www.notebookcheck.net/fileadmin/templates/nbc_v5/images/logo_simplified_unicolor_t.svg)](https://www.notebookcheck.net/ \"Notebookcheck Home\")\n\n[![Image 5: dark mode](https://www.notebookcheck.net/fileadmin/templates/images/moon-filled.svg)](https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html#)[![Image 6: light mode](https://www.notebookcheck.net/fileadmin/templates/images/sun-filled.svg)](https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html#)\n\n[▼![Image 7: US Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/us.svg)](https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html#footer)\n\n*   [Reviews](https://www.notebookcheck.net/Reviews.55.0.html)\n*   [News](https://www.notebookcheck.net/News.152.0.html)\n*   [Videos](https://www.notebookcheck.net/Videos.1174615.0.html)\n*   [Benchmarks / Tech](https://www.notebookcheck.net/Benchmarks-Tech.123.0.html)\n*   [Buyers Guide](https://www.notebookcheck.net/Laptop-Buying-Guide-Tool.13212.0.html)\n*   [Magazine](https://www.notebookcheck.net/Magazine.614549.0.html)\n*   [Library](https://www.notebookcheck.net/Library.279.0.html)\n*   [Search](https://www.notebookcheck.net/Search.8222.0.html)\n*   [Jobs](https://www.notebookcheck.net/Jobs.2095.0.html)\n*   [...](https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html#)\n\n*   [![Image 8: DE Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/de.svg) Deutsch](https://www.notebookcheck.com/)\n*   [![Image 9: US Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/us.svg) English](https://www.notebookcheck.net/)\n*   [![Image 10: ES Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/es.svg) Español](https://www.notebookcheck.org/)\n*   [![Image 11: FR Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/fr.svg) Français](https://www.notebookcheck.biz/)\n*   [![Image 12: IT Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/it.svg) Italiano](https://www.notebookcheck.it/)\n*   [![Image 13: NL Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/nl.svg) Nederlands](https://www.notebookcheck.nl/)\n*   [![Image 14: PL Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/pl.svg) Polski](https://www.notebookcheck.pl/)\n*   [![Image 15: PT Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/pt.svg) Português](https://www.notebookcheck.info/)\n*   [![Image 16: RU Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/ru.svg) Русский](https://www.notebookcheck-ru.com/)\n*   [![Image 17: TR Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/tr.svg) Türkçe](https://www.notebookcheck-tr.com/)\n*   [![Image 18: SE Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/se.svg) Svenska](https://www.notebookcheck.se/)\n*   [![Image 19: CN Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/cn.svg) Chinese](https://www.notebookcheck-cn.com/)\n*   [![Image 20: HU Flag](https://www.notebookcheck.net/fileadmin/templates/images/svg_flags/hu.svg) Magyar](https://www.notebookcheck-hu.com/)\n\n# Anker launches new window-mounted camera with 25-degree tilt and local AI detection\n\n[![Image 21: A reusable adhesive pad holds it against interior glass, and a rear dial angles the lens down by as much as 25 degrees](https://www.notebookcheck.net/fileadmin/_processed_/2/b/csm_Group-45-24_25dbd00d8f.jpg) ⓘ eufy](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg \"A reusable adhesive pad holds it against interior glass, and a rear dial angles the lens down by as much as 25 degrees\")\n\nA reusable adhesive pad holds it against interior glass, and a rear dial angles the lens down by as much as 25 degrees\n\nEufy has launched the Window Camera E10, a 64.1g security camera that sticks to the inside of a window to watch driveways and entrances from indoors. It records 2688 x 1520 video at 15fps through an f/1.0 lens, saves footage to microSD cards of up to 256GB. Power comes from a plug-in adapter over a 3m USB-C cable.\n\n[Antony Muchiri](https://www.notebookcheck.net/Notebookcheck-Team.212978.0.html?tx_nbc2journalist_pi1%5Bmode%5D=show&tx_nbc2journalist_pi1%5Buid%5D=398&cHash=4767551654d1a1529484ddf4ec803309), Published 10/15/2026[🇩🇪](https://www.notebookcheck.com/Anker-veroeffentlicht-Sicherheitskamera-zur-Fenstermontage-mit-lokalen-KI-Features.1425346.0.html)\n\n[Gadget](https://www.notebookcheck.net/Topics.92152.0.html?tag=114)[Smart Home](https://www.notebookcheck.net/Topics.92152.0.html?tag=100)[Security](https://www.notebookcheck.net/Topics.92152.0.html?tag=80)\n\nloading ...\n\n4\n\n- [x]  Reviews \n\n← - [x] exclude selected types \n\n← - [x] exclude selected tags \n\n[![Image 22: Xiaomi Poco X8 review](https://www.notebookcheck.net/fileadmin/_processed_/e/1/csm_Xiaomi_Poco_X8_im_Test_7_9326a4f28c.jpg)](https://www.notebookcheck.net/Xiaomi-Poco-X8-smartphone-review-Probably-the-best-phone-deal-of-2026-for-battery-life-and-display.1426213.0.html)\n\n76%[Xiaomi Poco X8 smartphone review – Probably the best phone deal of 2026 for battery life and display](https://www.notebookcheck.net/Xiaomi-Poco-X8-smartphone-review-Probably-the-best-phone-deal-of-2026-for-battery-life-and-display.1426213.0.html)\n\n[![Image 23: Aurzen Zip Pro.](https://www.notebookcheck.net/fileadmin/_processed_/c/4/csm_Aurzen-Zip-Pro-Teaser_c27e8d5cb9.jpg)](https://www.notebookcheck.net/Aurzen-Zip-Pro-tri-fold-1080p-projector-Superb-pocketable-design.1426250.0.html)\n\n[Aurzen Zip Pro tri-fold 1080p projector: Superb pocketable design](https://www.notebookcheck.net/Aurzen-Zip-Pro-tri-fold-1080p-projector-Superb-pocketable-design.1426250.0.html)\n\n[![Image 24: Nvidia RTX Spark Analysis - Finally an answer to Apple's M5 Pro & M5 Max?](https://www.notebookcheck.net/fileadmin/_processed_/f/3/csm_rtx_spark_chip_74f3e4d3ef.png)](https://www.notebookcheck.net/Nvidia-RTX-Spark-Analysis-Finally-an-answer-to-Apple-s-M5-Pro-M5-Max.1422820.0.html)\n\n[Nvidia RTX Spark Analysis - Finally an answer to Apple's M5 Pro & M5 Max?](https://www.notebookcheck.net/Nvidia-RTX-Spark-Analysis-Finally-an-answer-to-Apple-s-M5-Pro-M5-Max.1422820.0.html)\n\n[![Image 25: Huawei Watch 6 Pro Space Edition review: Luxury meets health](https://www.notebookcheck.net/fileadmin/_processed_/b/c/csm_aPic_Huawei_Watch_6-Pro-3801_c246fd936c.jpg)](https://www.notebookcheck.net/Huawei-Watch-6-Pro-Space-Edition-review-Luxury-meets-health.1425263.0.html)\n\n[Huawei Watch 6 Pro Space Edition review: Luxury meets health](https://www.notebookcheck.net/Huawei-Watch-6-Pro-Space-Edition-review-Luxury-meets-health.1425263.0.html)\n\n[Next Page ⟩](https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html#)\n\nHot on the heels of the launch of the [Video Doorbell S4](https://www.notebookcheck.net/Anker-launches-new-video-doorbell-with-360-degree-field-of-view-and-AI-tracking.1409690.0.html) and the [SoloCam E50](https://www.notebookcheck.net/Anker-launches-new-security-camera-with-dual-4K-lenses-and-radar-detection.1409222.0.html), Eufy has launched the [Window Camera E10](https://www.eufy.com/products/t8404121), a compact security camera that attaches to the inside of a window pane and monitors a driveway, garden, or front door without any outdoor mounting. The camera costs $79.99 in the US and £69.99 in the UK, and it stores 2.5K footage locally on a memory card, so owners do not need a paid plan to keep recordings.\n\nA two-camera pack sells for $149.99 in the US and £129.99 in the UK. Eufy’s US store lists the E10 on pre-order with shipping expected by mid-November, while its UK listing says pre-orders will be dispatched in November and processed on a first-come, first-served basis because of high demand.\n\n[![Image 26: Local AI detection, round-the-clock recording and alerts need no monthly plan once a memory card is installed](https://www.notebookcheck.net/fileadmin/_processed_/6/9/csm_AXXX_Rich_image_TD0X_XX_V1_c51cd9995c.gif) ⓘ eufy](https://www.notebookcheck.net/fileadmin/_processed_/6/9/csm_AXXX_Rich_image_TD0X_XX_V1_50e7b30838.gif \"Local AI detection, round-the-clock recording and alerts need no monthly plan once a memory card is installed\")\n\nLocal AI detection, round-the-clock recording and alerts need no monthly plan once a memory card is installed\n\n[![Image 27: Because it runs on mains power, the camera can only go on windows within 3m of a socket](https://www.notebookcheck.net/fileadmin/_processed_/c/6/csm_AXXX_Rich_image_TD0X_XX_V1_quick_3-new_3014c5dbc1.gif) ⓘ eufy](https://www.notebookcheck.net/fileadmin/_processed_/c/6/csm_AXXX_Rich_image_TD0X_XX_V1_quick_3-new_1f9275ef56.gif \"Because it runs on mains power, the camera can only go on windows within 3m of a socket\")\n\nBecause it runs on mains power, the camera can only go on windows within 3m of a socket\n\nThe camera measures 68.28 x 68.28 x 41.8mm and weighs 64.1g. It fixes to interior glass with a reusable adhesive sticker that Eufy says peels away at room temperature without leaving residue, which removes the need for drilling, brackets, or tools. The company puts average installation time at under a minute and pitches the drill-free design at renters as well as homeowners.\n\nA dial on the back tilts the lens downward by up to 25 degrees. Eufy says the adjustment trims the empty sky that fills the top of most window-mounted views and brings more of the ground into frame, where visitors, pets, and parcels appear. The housing wraps around the lens and sits flush against the pane, and the box includes anti-reflection stickers intended to cut glare from indoor lights at night. Eufy acknowledges that extra-thick double- or triple-glazed windows can still produce slight glare at the edges of the image.\n\n[![Image 28: The Window Camera E10](https://www.notebookcheck.net/fileadmin/_processed_/3/0/csm_Axxxx_PRC_TD0x_xx_V1_3-1-pc-new_9026053054.gif) ⓘ Eufy](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp \"The Window Camera E10\")\n\nThe Window Camera E10\n\nloading ...\n\n4\n\n- [x]  News \n\n← - [x] exclude selected types \n\n← - [x] exclude selected tags \n\n[![Image 29: OpenCode confirms the breach and API keys been leaked](https://www.notebookcheck.net/fileadmin/_processed_/f/e/csm_OpenCode-confirms-the-breach-and-API-keys-been-leaked_cb16431e2e.png)](https://www.notebookcheck.net/OpenCode-hacked-users-urged-to-revoke-their-API-keys.1426957.0.html)\n\n[OpenCode hacked, users urged to revoke their API keys](https://www.notebookcheck.net/OpenCode-hacked-users-urged-to-revoke-their-API-keys.1426957.0.html)\n\n[![Image 30: A screengrab of a PlayStation 5 DualSense controller leaning against a PS5 console](https://www.notebookcheck.net/fileadmin/_processed_/5/5/csm_new-patent-reveals-frame-gen-in-next-gen-playstation.jpg_bb1c552c2e.jpg)](https://www.notebookcheck.net/PlayStation-6-likely-to-have-Sony-s-own-take-on-Frame-Generation-according-to-latest-patent.1426715.0.html)\n\n[PlayStation 6 likely to have Sony's own take on Frame Generation, according to latest patent](https://www.notebookcheck.net/PlayStation-6-likely-to-have-Sony-s-own-take-on-Frame-Generation-according-to-latest-patent.1426715.0.html)\n\n[![Image 31: The new Galleria NC5L laptop comes equipped with a 12-core Intel Meteor Lake-U CPU. ](https://www.notebookcheck.net/fileadmin/_processed_/2/4/csm_japanese_laptop_galleria_nsc5l_laptop_launch_a996d27a1e.jpg)](https://www.notebookcheck.net/Tokyo-based-brand-unveils-lightweight-laptop-with-12-core-CPU-and-up-to-32-GB-RAM.1426091.0.html)\n\n[Tokyo-based brand unveils lightweight laptop with 12-core CPU and up to 32 GB RAM](https://www.notebookcheck.net/Tokyo-based-brand-unveils-lightweight-laptop-with-12-core-CPU-and-up-to-32-GB-RAM.1426091.0.html)\n\n[![Image 32: The Redmi G27Q 2026 Standard Edition ships with a 240 Hz panel](https://www.notebookcheck.net/fileadmin/_processed_/2/a/csm_240Hz_dd85c1b09a.png)](https://www.notebookcheck.net/Xiaomi-releases-new-gaming-monitor-with-240-Hz-refresh-rate-and-1-ms-response-time.1426458.0.html)\n\n[Xiaomi releases new gaming monitor with 240 Hz refresh rate and 1 ms response time](https://www.notebookcheck.net/Xiaomi-releases-new-gaming-monitor-with-240-Hz-refresh-rate-and-1-ms-response-time.1426458.0.html)\n\n[Next Page ⟩](https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html#)\n\nThe E10 records at 2688 x 1520 resolution and 15 frames per second in H.264 through an f/1.0 lens with a 125-degree diagonal field of view. Night footage relies on Eufy’s MaxColor Vision, which uses the wide aperture and image processing to produce color video in low light instead of a built-in spotlight. Wide dynamic range is switched on by default, and the app supports up to 8x digital zoom.\n\nMotion detection runs on the device itself. The camera classifies activity as a person, vehicle, or pet and sends push notifications labelled by event type, while custom activity zones restrict alerts to chosen parts of the scene. Continuous 24/7 recording is supported, and pre-roll capture saves the moments leading up to a triggered event. The E10 connects over dual-band 2.4GHz and 5GHz Wi-Fi and works with [Amazon Alexa](https://www.notebookcheck.net/Amazon-Alexa-Tablet-12-Pro-launches-for-499.1419273.0.html) and Google Assistant. Two-way audio is built in, although Eufy states that talking to someone outside depends on the thickness and insulation of the glass.\n\n[![Image 33: Pre-orders are open in the US and UK at $79.99 and £69.99, with deliveries scheduled for November](https://www.notebookcheck.net/fileadmin/_processed_/c/b/csm_Axxxx_PRC_TD0x_xx_V1_a31a330b-4df8-40a2-ba11-2b833dc058c7_55952e8f63.gif) ⓘ eufy](https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_a31a330b-4df8-40a2-ba11-2b833dc058c7.webp \"Pre-orders are open in the US and UK at $79.99 and £69.99, with deliveries scheduled for November\")\n\nPre-orders are open in the US and UK at $79.99 and £69.99, with deliveries scheduled for November\n\nRecordings are saved to a microSD card of up to 256GB, which is sold separately. Eufy says AI detection, continuous recording, and smart alerts all work without a monthly fee, a contrast with rivals such as Ring, which requires a paid subscription to save and review recorded video. Optional cloud backup is available for owners who want an off-site copy. The camera can operate on its own or pair with Eufy’s HomeBase S380, HomeBase Mini and HomeBase Professional hubs, which add continuous snapshot capture. The older HomeBase 2 (S280) and Apple HomeKit are not supported.\n\nThe E10 has no battery and draws power from a plug-in adapter through a USB-C cable. Eufy supplies a 3m (10ft) lead with a 90-degree L-shaped connector and clips for routing it along the window frame, but the camera can only be placed on windows within reach of a power outlet, and the cable stays visible inside the room. TechRadar singled out the wired design as the product’s main limitation in its launch coverage.\n\nEufy also advises against several uses. The company says the camera should not be aimed at subjects closer than 0.5m, such as bird feeders or fish tanks, or mounted on frosted, patterned, or cracked glass. It also warns that upper-floor windows looking steeply downward create larger blind zones and that owners should avoid angles that intrude on neighbors' privacy. The E10 is rated to operate between -10°C and 50°C. The E10 box contains the camera, a mounting sticker, a power adapter, a USB-C cable, cable clips, and a quick start guide. The camera is sold under the Anker eufy name, following the brand’s move under Anker’s unified branding.\n\n## Source(s)\n\n[Anker Eufy](http://eufy.com/products/t8404121)\n\n[⟨](https://www.notebookcheck.net/Hamilton-revives-1920s-watch-design-with-new-American-Classic-Mechanical-watches.1424994.0.html)\n\nPrevious article\n\n[Hamilton revives 1920s watch design with new American Classic Mechanical watches](https://www.notebookcheck.net/Hamilton-revives-1920s-watch-design-with-new-American-Classic-Mechanical-watches.1424994.0.html)\n\n[![Image 34: Google Logo](https://www.notebookcheck.net/fileadmin/templates/images/sociallinks/google_logo.svg)Add as a preferred source on Google](https://google.com/preferences/source?q=https://www.notebookcheck.net \"Add as a preferred source on Google\")  \n[![Image 35: Facebook Logo](https://www.notebookcheck.net/fileadmin/templates/images/sociallinks/facebook_logo.svg)](http://facebook.com/share.php?u=https%3A%2F%2Fwww.notebookcheck.net%2FAnker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html&t=Anker+launches+new+window-mounted+camera+with+25-degree+tilt+and+local+AI+detection \"Click to share this post on Facebook\")[![Image 36: Threads Logo](https://www.notebookcheck.net/fileadmin/templates/images/sociallinks/threads_logo.svg)](https://threads.net/intent/post?text=Anker+launches+new+window-mounted+camera+with+25-degree+tilt+and+local+AI+detection%0Ahttps%3A%2F%2Fwww.notebookcheck.net%2FAnker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html \"Click to share this post on Threads\")[![Image 37: Bluesky Logo](https://www.notebookcheck.net/fileadmin/templates/images/sociallinks/bluesky_logo.svg)](https://bsky.app/intent/compose?text=Anker+launches+new+window-mounted+camera+with+25-degree+tilt+and+local+AI+detection%0Ahttps%3A%2F%2Fwww.notebookcheck.net%2FAnker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html \"Click to share this post on Bluesky\")[![Image 38: X (Twitter) Logo](https://www.notebookcheck.net/fileadmin/templates/images/sociallinks/x_logo.svg)](https://x.com/intent/post?text=Anker+launches+new+window-mounted+camera+with+25-degree+tilt+and+local+AI+detection&url=https%3A%2F%2Fwww.notebookcheck.net%2FAnker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html \"Click to share this post on X\")[![Image 39: Reddit Logo](https://www.notebookcheck.net/fileadmin/templates/images/sociallinks/reddit_logo.svg)](https://www.reddit.com/submit?url=https%3A%2F%2Fwww.notebookcheck.net%2FAnker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html&title=Anker+launches+new+window-mounted+camera+with+25-degree+tilt+and+local+AI+detection \"Click to share this post on Reddit\")[![Image 40: Pocket Logo](https://www.notebookcheck.net/fileadmin/templates/images/sociallinks/pocket_logo.svg)](https://getpocket.com/save?url=https%3A%2F%2Fwww.notebookcheck.net%2FAnker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html \"Read later with Pocket\")[![Image 41: Flipboard Logo](https://www.notebookcheck.net/fileadmin/templates/images/sociallinks/flipboard_logo.svg)](https://share.flipboard.com/bookmarklet/popout?v=2&title=Anker+launches+new+window-mounted+camera+with+25-degree+tilt+and+local+AI+detection&url=https%3A%2F%2Fwww.notebookcheck.net%2FAnker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html \"Share on Flipboard\")[![Image 42: Linkedin Logo](https://www.notebookcheck.net/fileadmin/templates/images/sociallinks/linkedin_logo.svg)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.notebookcheck.net%2FAnker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html \"Share on Linkedin\")[![Image 43: Mail Logo](https://www.notebookcheck.net/fileadmin/templates/images/sociallinks/mail_logo.svg)](mailto:test@test.com?subject=%20Anker%20launches%20new%20window-mounted%20camera%20with%2025-degree%20tilt%20and%20local%20AI%20detection&body=Notebookcheck:%20Anker%20launches%20new%20window-mounted%20camera%20with%2025-degree%20tilt%20and%20local%20AI%20detection%0Ahttps%3A%2F%2Fwww.notebookcheck.net%2FAnker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html \"Email current page\")\n\n static version [load dynamic](https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html#)\n\nLoading Comments \n\n[Comment on this article](https://www.notebookchat.com/index.php?action=post;topic=328480.0;num_replies=1&language=english-utf8)\n\n## Related Articles\n\n[![Image 44: The LFP battery is rated for 6,000 cycles before dropping to 80% capacity, which Anker puts at about 15 years of use.](https://www.notebookcheck.net/fileadmin/_processed_/3/3/csm_Anker-1_b6783eecc7.jpg) Anker Solix S5000 launched with a battery rated for 15 years of daily use 10/12/2026](https://www.notebookcheck.net/Anker-Solix-S5000-launched-with-a-battery-rated-for-15-years-of-daily-use.1421629.0.html)[![Image 45: The Baseus Spacemate RD1 Mini Dock has a compact phone-sized design.](https://www.notebookcheck.net/fileadmin/_processed_/b/2/csm_Baseus-Spacemate-RD1-Mini-Dock_f05bf57b4f.jpg) Baseus launching new 10-in-1 dock with display and dual 4K monitor support to rival Anker 10/12/2026](https://www.notebookcheck.net/Baseus-launching-new-10-in-1-dock-with-display-and-dual-4K-monitor-support-to-rival-Anker.1421772.0.html)[![Image 46: Anker’s Nano Charger (45W, Smart Display) for the UK](https://www.notebookcheck.net/fileadmin/_processed_/7/8/csm_Anker-Nano-Charger-45W-Smart-Display-UK-release_7e1dfc0088.jpg) Anker releases new upgraded version of compact charger in UK 10/06/2026](https://www.notebookcheck.net/Anker-releases-new-upgraded-version-of-compact-charger-in-UK.1417304.0.html)[![Image 47: The Anker Nano 10-in-1 USB-C Hub Valorant Limited Edition](https://www.notebookcheck.net/fileadmin/_processed_/a/f/csm_Anker-Nano-10-in-1-USB-C-Hub-Smart-Display-Hub-VALORANT-Limited-Edition_06c05f723c.jpg) Anker releases new limited edition desktop charger in more countries 10/05/2026](https://www.notebookcheck.net/Anker-releases-new-limited-edition-desktop-charger-in-more-countries.1416483.0.html)[![Image 48: The ClipBuds Pro 2 have a launch price of $79.99. Pictured: an edited promo picture showing the earbuds and the available colorways.](https://www.notebookcheck.net/fileadmin/_processed_/3/0/csm_Ugreen-launches-ClipBuds-Pro-2_e02c1aaf2f.jpg) Ugreen intros affordable Anker AeroClip 2 rival with 46-hour battery life and LDAC support 10/05/2026](https://www.notebookcheck.net/Ugreen-intros-affordable-Anker-AeroClip-2-rival-with-46-hour-battery-life-and-LDAC-support.1416164.0.html)[![Image 49: Owners can pan around the live feed by moving a phone or headset in VR mode, and a ring arrives on the phone like an incoming video call.](https://www.notebookcheck.net/fileadmin/_processed_/b/d/csm_Group-45-8_6a5b8e8eaa.jpg) Anker launches new video doorbell with 360-degree field of view and AI tracking 09/27/2026](https://www.notebookcheck.net/Anker-launches-new-video-doorbell-with-360-degree-field-of-view-and-AI-tracking.1409690.0.html)[![Image 50: The eufy SoloCam E50](https://www.notebookcheck.net/fileadmin/_processed_/a/2/csm_Group-45-7_3ff4cf4665.jpg) Anker launches new security camera with dual 4K lenses and radar detection 09/26/2026](https://www.notebookcheck.net/Anker-launches-new-security-camera-with-dual-4K-lenses-and-radar-detection.1409222.0.html)[![Image 51: The Eufy HydroJet E35 is one of two new robot vacuums from Anker](https://www.notebookcheck.net/fileadmin/_processed_/8/e/csm_image-1_276aa5fa3f.png) Anker Eufy HydroJet E35 with roller mop launches with discount alongside cheaper C30 Edge 09/24/2026](https://www.notebookcheck.net/Anker-Eufy-HydroJet-E35-with-roller-mop-launches-with-discount-alongside-cheaper-C30-Edge.1407652.0.html)[![Image 52: The Valorant edition Anker Desktop USB-C Hub is now on sale in the US.](https://www.notebookcheck.net/fileadmin/_processed_/5/e/csm_Anker-Desktop-USB-C-Hub-Valorant-Edition_dac6a752f6.jpg) Anker releases new Valorant-themed USB-C dock with 240Hz monitor support and smart display 09/23/2026](https://www.notebookcheck.net/Anker-releases-new-Valorant-themed-USB-C-dock-with-240Hz-monitor-support-and-smart-display.1405777.0.html)[![Image 53: The Anker Laptop Charger Pro (Valorant Limited Edition) is now up for grabs in the US.](https://www.notebookcheck.net/fileadmin/_processed_/9/6/csm_Anker-x-Valorant-100W-charger_e8baad8e1a.jpg) Anker releases new limited edition 100W charger with smart display and added battery health features 09/23/2026](https://www.notebookcheck.net/Anker-releases-new-limited-edition-100W-charger-with-smart-display-and-added-battery-health-features.1405776.0.html)\n\n[![Image 54: The new Anker Nano Charger Neo (pictured) can charge an iPhone 18 Pro Max to 80% in 32 minutes.](https://www.notebookcheck.net/fileadmin/_processed_/9/a/csm_Anker-Nano-Charger-Neo_0e1e6df1ee.jpg) Anker quietly launches new affordable 45W charger with 65W dynamic output and compact design 09/19/2026](https://www.notebookcheck.net/Anker-quietly-launches-new-affordable-45W-charger-with-65W-dynamic-output-and-compact-design.1402681.0.html)\n\n[Show more articles](https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html#)\n\n[![Image 55: Antony Muchiri](https://www.notebookcheck.net/fileadmin/_processed_/0/0/csm_Antony_Muchiri_profile_picture_March_2025_af38cad086.jpg)](https://www.notebookcheck.net/Notebookcheck-Team.212978.0.html?&tx_nbc2journalist_pi1%5Bmode%5D=show&tx_nbc2journalist_pi1%5Buid%5D=398)\n\n[Antony Muchiri](https://www.notebookcheck.net/Notebookcheck-Team.212978.0.html?&tx_nbc2journalist_pi1%5Bmode%5D=show&tx_nbc2journalist_pi1%5Buid%5D=398) - Tech Writer  - 404 articles published on Notebookcheck since 2025\n\nI’ve been obsessed with tech for as long as I can remember, so much so that I’ve become the unofficial \"tech support\" for my entire family. Whether it’s fixing gadgets, explaining specs, or recommending the best buys, I love breaking down tech for everyday people. That passion led me to writing about tech. When I’m not testing gadgets or writing reviews, you’ll probably find me hiking or doom-scrolling car listings (still hunting for my first ride, wish me luck, lol).\n\ncontact me via: [@TechWithMuchiri](https://twitter.com/TechWithMuchiri)\n\n>[Expert reviews and news on laptops, smartphones and tech innovations](https://www.notebookcheck.net/Expert-reviews-and-news-on-laptops-smartphones-and-tech-innovations.48.0.html)>[News](https://www.notebookcheck.net/News.152.0.html)>[News Archive](https://www.notebookcheck.net/News-Archive.45592.0.html)>[Newsarchive 2026 10](https://www.notebookcheck.net/Newsarchive-2026-10.1412655.0.html)> Anker launches new window-mounted camera with 25-degree tilt and local AI detection   \n\nAntony Muchiri,2026-10-15(Update:2026-10-15)\n\nloading ...\n\n10\n\n← - [x] exclude selected types \n\n← - [x] exclude selected tags \n\n[![Image 56: Xiaomi Poco X8 review](https://www.notebookcheck.net/fileadmin/_processed_/e/1/csm_Xiaomi_Poco_X8_im_Test_7_02bcbec843.jpg) Deal or no deal? Xiaomi Poco X8 review](https://www.notebookcheck.net/Xiaomi-Poco-X8-smartphone-review-Probably-the-best-phone-deal-of-2026-for-battery-life-and-display.1426213.0.html)[![Image 57: Nvidia RTX Spark Analysis - Finally an answer to Apple's M5 Pro & M5 Max?](https://www.notebookcheck.net/fileadmin/_processed_/f/3/csm_rtx_spark_chip_a4dd36bffe.png) Nvidia RTX Spark N1X Analysis - Update: Surface Laptop Ultra](https://www.notebookcheck.net/Nvidia-RTX-Spark-Analysis-Finally-an-answer-to-Apple-s-M5-Pro-M5-Max.1422820.0.html)[![Image 58: The four different colors of the new HP OmniBook 5](https://www.notebookcheck.net/fileadmin/_processed_/d/4/csm_OmniBook5_hands_on_163_9a95a84b4d.jpg) Hands on: Maybe the most exciting MacBook Neo competitor](https://www.notebookcheck.net/Maybe-the-most-exciting-new-MacBook-Neo-competitor-HP-OmniBook-5-14-laptop-hands-on-review.1426125.0.html)[![Image 59: Huawei Watch 6 Pro Space Edition review: Luxury meets health](https://www.notebookcheck.net/fileadmin/_processed_/b/c/csm_aPic_Huawei_Watch_6-Pro-3801_fb8a6a71ad.jpg) Huawei Watch 6 Pro review: Plenty of titanium, little revolution](https://www.notebookcheck.net/Huawei-Watch-6-Pro-Space-Edition-review-Luxury-meets-health.1425263.0.html)[![Image 60: Nvidia against them all! ](https://www.notebookcheck.net/fileadmin/_processed_/3/0/csm__1053671_6dc891835b.jpg) ▶ The $7,000 MacBook Pro alternative?](https://www.notebookcheck.net/The-7-000-MacBook-Pro-alternative-Asus-ProArt-P16-Review.1426100.0.html)[![Image 61: Asus ProArt P16 RTX Spark Laptop Review - The future of multimedia laptops?](https://www.notebookcheck.net/fileadmin/_processed_/6/d/csm_proart_p16_h7607_teaser_03_feb1fa990b.jpg) Asus ProArt P16 RTX Spark Review - A great multimedia laptop](https://www.notebookcheck.net/Asus-ProArt-P16-RTX-Spark-Laptop-Review-The-future-of-multimedia-laptops.1422366.0.html)[![Image 62: Geekom A5 2027 review: Surprisingly quiet – What the new version of this budget mini-PC has to offer](https://www.notebookcheck.net/fileadmin/_processed_/c/5/csm_A5_2027_1969_d7a300e6ef.jpg) Geekom A5 2027: Proven chassis & fast ports – but where is USB4?](https://www.notebookcheck.net/Geekom-A5-2027-review-Surprisingly-quiet-What-the-new-version-of-this-budget-mini-PC-has-to-offer.1423873.0.html)[![Image 63: A stunning OLED screen - Asus ROG Xbox Ally X20 Gaming Handheld Review](https://www.notebookcheck.net/fileadmin/_processed_/5/5/csm_rog_ally_x20_case_02_6c6967295a.jpg) Asus ROG Xbox Ally X20 OLED Review](https://www.notebookcheck.net/A-stunning-OLED-screen-Asus-ROG-Xbox-Ally-X20-Gaming-Handheld-Review.1425337.0.html)[![Image 64: Elgato Wave Go in the foreground, with the case and two competitors in the background](https://www.notebookcheck.net/fileadmin/_processed_/3/c/csm_wave-go-title-578_b97e316439.jpg) Smaller than the DJI Mic Mini – with a handheld mic trick: Elgato Wave Go review](https://www.notebookcheck.net/Smaller-than-the-DJI-Mic-Mini-with-a-handheld-mic-trick-Elgato-Wave-Go-review.1425112.0.html)[![Image 65: Nvidia's RTX Spark Laptop are finally here! ](https://www.notebookcheck.net/fileadmin/_processed_/0/7/csm__1053675_41406ee6b6.jpg) ▶ Nvidia's RTX Spark is here: The future of Windows Laptops?](https://www.notebookcheck.net/Nvidia-s-RTX-Spark-Is-Here-The-Future-of-Windows-Laptops.1425155.0.html)\n\n  \n\n[Contact & Imprint](https://www.notebookcheck.net/Contact.270.0.html) | [Team](https://www.notebookcheck.net/Notebookcheck-Team.212978.0.html) | [Data Privacy Declaration](https://www.notebookcheck.net/Data-Privacy-Declaration.748338.0.html) |15.10.2026 20:07* If you buy something via one of our affiliate links, Notebookcheck may earn a commission. Thank you for your support!\n\n![Image 66: Logo](https://images.getadmiral.com/DcJntgqB_m3pcqkotURn1A?v=0)\n\n![Image 67](https://ids4.ad.gt/api/v1/ip_match?id=AU1D-0100-001792274833-0T1ZGZ7M-SYRH)![Image 68](https://secure.adnxs.com/getuid?https://ids.ad.gt/api/v1/match?id=AU1D-0100-001792274833-0T1ZGZ7M-SYRH&adnxs_id=$UID&gdpr=0)![Image 69](https://u.openx.net/w/1.0/cm?id=998eaf06-9905-4eae-9e26-9fac75960c53&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fopenx%3Fopenx_id%3D%7BOPENX_ID%7D%26id%3DAU1D-0100-001792274833-0T1ZGZ7M-SYRH%26auid%3DAU1D-0100-001792274833-0T1ZGZ7M-SYRH&gdpr=0)![Image 70](https://image2.pubmatic.com/AdServer/UCookieSetPug?rd=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fpbm_match%3Fpbm%3D%23PM_USER_ID%26id%3DAU1D-0100-001792274833-0T1ZGZ7M-SYRH&gdpr=0)![Image 71](https://token.rubiconproject.com/token?pid=50242&puid=AU1D-0100-001792274833-0T1ZGZ7M-SYRH&gdpr=0)![Image 72](https://match.adsrvr.org/track/cmf/generic?ttd_pid=8gkxb6n&ttd_tpi=1&ttd_puid=AU1D-0100-001792274833-0T1ZGZ7M-SYRH&gdpr=0)![Image 73](https://pixel.tapad.com/idsync/ex/receive?partner_id=3185&partner_device_id=AU1D-0100-001792274833-0T1ZGZ7M-SYRH&partner_url=https://ids.ad.gt%2Fapi%2Fv1%2Ftapad_match%3Fid%3DAU1D-0100-001792274833-0T1ZGZ7M-SYRH%26tapad_id%3D%24%7BTA_DEVICE_ID%7D&gdpr=0)![Image 74](https://cm.g.doubleclick.net/pixel?google_cm&google_nid=audigent_dmp&google_hm=QVUxRC0wMTAwLTAwMTc5MjI3NDgzMy0wVDFaR1o3TS1TWVJI&id=AU1D-0100-001792274833-0T1ZGZ7M-SYRH&gdpr=0)![Image 75](https://d.turn.com/r/dd/id/L2NzaWQvMS9jaWQvMTc0ODI0MTY1OC90LzA/url/https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Famo_match%3Fturn_id%3D%24!%7BTURN_UUID%7D%26id%3DAU1D-0100-001792274833-0T1ZGZ7M-SYRH)![Image 76](https://sync.go.sonobi.com/us?https://ids.ad.gt/api/v1/son_match?id=AU1D-0100-001792274833-0T1ZGZ7M-SYRH&uid=[UID]&gdpr=0)![Image 77](https://ad.360yield.com/ux?&publisher_dmp_id=15&r=https%3A%2F%2Fids.ad.gt%2Fapi%2Fv1%2Fimpr_match%3Fid%3DAU1D-0100-001792274833-0T1ZGZ7M-SYRH%26impr_uid%3D%7BPUB_USER_ID%7D&gdpr=0)",
+      "url": "https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html",
       "source": "Notebookcheck",
       "category": "gadgets",
-      "published_iso": "2026-10-13T15:29:00+02:00",
-      "excerpt": "Apple has unveiled HomeView, its smart home hub with a 7-inch display, facial recognition and a substantially upgraded Siri assistant. (Published time from outlet RSS; page 403 to fetchers.)",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Apple-HomeView-4.jpg",
+      "published_iso": "2026-10-15T20:07:00+02:00",
+      "excerpt": "Eufy has launched the Window Camera E10, a 64.1g security camera that sticks to the inside of a window to watch driveways and entrances from indoors. It records 2688 x 1520 video at 15fps through an f/1.0 lens, saves footage to microSD cards of up to 256GB. Power comes from a plug-in adapter over a ",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg"
+    },
+    {
+      "title": "‘These AI tools can help our brand’: Oppo’s European CEO explains how chatbots like ChatGPT could help boost Oppo’s market share",
+      "url": "https://www.techradar.com/phones/oppo-phones/the-premium-market-is-dominated-by-two-brands-i-believe-consumers-would-be-interested-in-a-third-oppos-european-ceo-explains-his-strategy-for-breaking-the-apple-and-samsung-duopoly-and-how-chatbots-like-chatgpt-could-hold-the-key",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-10-17T17:00:00Z",
+      "excerpt": "We spoke to Oppo's European CEO about the company's growth ambitions in the face of negative industry headwinds.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/J6PscbR6enubQ8FwWxB7PG-1920-80.jpg"
+    },
+    {
+      "title": "Iron Device to Develop On-Device AI Computing Module for Robotic Hands - The Elec Inc.",
+      "url": "https://www.thelec.net/news/articleView.html?idxno=14633",
+      "source": "TheElec",
+      "category": "gadgets",
+      "published_iso": "2026-10-16T00:36:20+09:00",
+      "excerpt": "Fabless semiconductor company Iron Device said on Oct. 15 that it will participate in a go",
+      "og_image": "https://cdn.thelec.net/news/photo/202610/14633_14909_220.jpg"
+    },
+    {
+      "title": "iOS 27 offers major upgrades for your smart home — what you need to know",
+      "url": "https://www.tomsguide.com/ai/apple-intelligence/apple-intelligence-is-coming-for-your-smart-home-in-ios-27-here-are-5-upgrades-you-need-to-know",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-10-17T07:00:00Z",
+      "excerpt": "Apple Home gets a iOS 27 upgrade, with crisp higher-resolution camera feeds and AI-powered notification summaries for a safer, smarter space.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/QTDb5tjmXu3E8bFnB7WuYA-2000-80.jpg"
+    },
+    {
+      "title": "Forget 100-word prompts: ChatGPT’s Sketch tool lets you draw exactly what you mean",
+      "url": "https://www.tomsguide.com/ai/how-to-turn-simple-sketches-into-realistic-photos-with-chatgpt-images-2-5",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-10-17T08:15:00Z",
+      "excerpt": "ChatGPT Images 2.5 turns rough scribbles into art, here's exactly how it works.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/HAfATfXUNtZ5C9AnG3ehAn-2560-80.jpg",
       "history_match": {
-        "score": 0.464,
-        "date": "2026-10-14",
-        "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
-        "title": "Apple’s first smart display is the 7-inch HomeView for $299",
-        "band": "likely-repeat"
+        "score": 0.16,
+        "date": "2026-10-15",
+        "url": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+        "title": "Google lets you make personal Android apps for free now – with just prompts",
+        "band": "related"
+      }
+    },
+    {
+      "title": "I tested the Asus ProArt P16 with Nvidia RTX Spark and it's the ultimate AI creator laptop (with a price to match)",
+      "url": "https://www.tomsguide.com/computing/laptops/asus-proart-p16-rtx-spark-review",
+      "source": "Tom's Guide",
+      "category": "gadgets",
+      "published_iso": "2026-10-16T12:00:00Z",
+      "excerpt": "A new standard of AI creativity on the move",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg",
+      "history_match": {
+        "score": 0.281,
+        "date": "2026-10-10",
+        "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
+        "title": "Pre-orders open for Nvidia's RTX Spark laptops, starting at $2,599",
+        "band": "related"
+      }
+    },
+    {
+      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots — wearable sensors record video of repair work for robotics training, free services also include electrical work, air duct cleaning, and carpet cleaning",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-10-17T13:21:20Z",
+      "excerpt": "Is AI coming for blue-collar jobs, too?",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+    },
+    {
+      "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM",
+      "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
+      "source": "Tom's Hardware",
+      "category": "gadgets",
+      "published_iso": "2026-10-16T10:00:00Z",
+      "excerpt": "You can even chat with the LLM remotely from other devices.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg"
+    },
+    {
+      "title": "The Surface Laptop Ultra Takes a Bite of the Apple",
+      "url": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
+      "source": "WIRED",
+      "category": "gadgets",
+      "published_iso": "2026-10-16T09:00:00.000-04:00",
+      "excerpt": "The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple—if only it weren't for the lack of battery life.",
+      "og_image": "https://media.wired.com/photos/6ad13db2947d3d6c92ec6bb7/191:100/w_1280,c_limit/Review%20Surface%20Laptop%20Ultra%20102026%20top%20art%20SOURCE%20BH%20Photo.jpg",
+      "history_match": {
+        "score": 0.213,
+        "date": "2026-10-08",
+        "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+        "band": "related"
+      }
+    },
+    {
+      "title": "HTC Made Smart Glasses That Are Way More Private",
+      "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+      "source": "WIRED",
+      "category": "gadgets",
+      "published_iso": "2026-10-17T10:30:00.000Z",
+      "excerpt": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
+      "og_image": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg",
+      "history_match": {
+        "score": 0.288,
+        "date": "2026-09-25",
+        "url": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
+        "title": "Meta Pinky Promises Its Smart Glasses Will Be Private Soon",
+        "band": "related"
       }
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 23,
+    "dropped": 1,
+    "kept": 24,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 15,
-    "same_story_pairs": [
-      [
-        "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
-        "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review",
-        0.427
-      ]
-    ]
+    "review": 11,
+    "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-17",
-      "title": "애플이 직접 밝힌 레퍼런스 이미지의 구조 애플이 아이폰 18 프로 레퍼런스 이미지 모드의 구조를 보안 블로그에 직접 설명했다.",
-      "url": "https://9to5mac.com/2026/09/15/apple-explains-how-the-iphone-18-pros-new-reference-image-camera-mode-works/"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "캐논이 무료 소프트웨어로 쓰던 카메라에 3D를 더한다 캐논이 10월 3일 듀얼 픽셀 3D 컨버터를 무료로 낸다. 사진 한 장이 3D 이미지가 된다.",
-      "url": "https://www.techradar.com/computing/creative-software/canon-cameras-just-got-a-free-update-that-unleashes-immersive-3d-photo-capabilities-heres-how"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "구글 홈이 AI 에이전트에게 집 안을 넘긴다 구글 홈이 MCP를 열어 외부 AI 에이전트가 집 안 기기를 직접 다루게 한다.",
-      "url": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "퍼플렉시티 로컬 에이전트, VRAM 24GB부터 시작한다 퍼플렉시티 로컬 에이전트가 윈도우에 왔다. 다만 VRAM 24GB 이상 RTX가 있어야 한다.",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/perplexitys-local-ai-agent-comes-to-windows-but-only-for-rtx-gpus-with-at-least-24gb-of-vram-portable-computer-brings-ai-for-multistep-tasks-to-compatible-pcs"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "코파일럿이 가져간 키보드 키를 윈도우 11이 돌려준다 마이크로소프트가 코파일럿 키를 오른쪽 Ctrl이나 컨텍스트 메뉴로 바꿀 길을 연다.",
-      "url": "https://www.xda-developers.com/microsoft-finally-letting-windows-11-users-take-back-keyboard-keys-copilot-stole/"
-    },
     {
       "date": "2026-09-18",
       "title": "Meta Reportedly Building Smart Glasses without Cameras Following Public Backlash",
@@ -1025,6 +973,31 @@
       "date": "2026-10-16",
       "title": "Sipeed reveals Chinese-made DGX Spark and Ryzen AI Halo rival, expected to cost $3,999",
       "url": "https://www.tomshardware.com/desktops/mini-pcs/sipeed-reveals-chinese-made-dgx-spark-and-ryzen-ai-halo-rival-expected-to-cost-usd3-999-maixstation-pairs-axeras-ax8860p-with-128gb-of-lpddr5x-at-273-gb-s-with-promising-local-ai-performance-claims"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Meta, Milan’s Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
+      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Samsung Expands Language Support Across AI Experiences on Galaxy",
+      "url": "https://news.samsung.com/global/samsung-expands-language-support-across-ai-experiences-on-galaxy"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Google’s next Gemini trick could change how you use Android XR glasses",
+      "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "myFirst's AI camera and printer turn kids' ideas into instant comics",
+      "url": "https://www.notebookcheck.net/myFirst-s-AI-camera-and-printer-turn-kids-ideas-into-instant-comics.1423897.0.html"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Apple says Siri doesn't need to beat ChatGPT — here's what it's betting on instead",
+      "url": "https://www.tomsguide.com/ai/apple-says-siri-doesnt-need-to-beat-chatgpt-heres-what-its-betting-on-instead"
     }
   ]
 }

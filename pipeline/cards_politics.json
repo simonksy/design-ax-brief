@@ -1,215 +1,199 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "section": "politics",
   "cards": [
     {
-      "id": "politics-cma-microsoft",
+      "id": "politics-apple-nudify",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "CMA, Microsoft\n업무용 SW 전략지위 제안",
-      "body": "CMA는 Microsoft 전략지위를 제안해 AI가 Copilot과 겨룰지 본다.",
-      "mini_headline": "CMA, Microsoft SW 겨냥",
+      "headline": "App Store 새 규정\nAI 누드화 앱 겨냥",
+      "body": "Apple은 개발자에게 비동의 성적 이미지를 선제적으로 막고 지우라고 요구한다.",
+      "mini_headline": "Apple, 누드화 앱 겨냥",
       "tool": "Politics",
-      "source": "GOV.UK (CMA)",
-      "url": "https://www.gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+            "cap": "이미지: Cath Virginia / The Verge, Getty Images"
           },
           {
             "t": "p",
-            "x": "경쟁시장청(Competition and Markets Authority, CMA)은 Microsoft의 업무용 소프트웨어 생태계에 전략적 시장 지위(SMS)를 지정하자고 제안했고, 최종 결정 전에 의견을 듣기로 했다. 앞으로 개입할 만한 분야를 담은 예비 로드맵도 내놨다."
+            "x": "Apple의 App Store 규정이 이른바 “nudify”(누드화) 앱을 한층 명시적으로 금지한다. AI 도구로 당사자 동의 없이 사람의 은밀한 이미지를 만들어내는 앱이다."
           },
           {
             "t": "p",
-            "x": "Word, Excel, Outlook, PowerPoint, Teams, 그리고 비중이 커지는 Copilot까지 아우르는 Microsoft 업무용 소프트웨어는 백만 곳이 넘는 UK 기업과 공공기관이 쓴다. 월간 이용자는 약 20M 명이다. 익숙한 업무 도구에 에이전트형 AI가 들어오면서 이 분야는 빠르게 바뀌는 중이다."
+            "x": "이번 변경은 올해 초 X 사용자들이 Grok으로 미성년자를 포함한 비동의 성적 딥페이크를 만들면서 Apple에 쏟아진 거센 비판에서 나왔다. Apple은 X나 Grok을 App Store에서 내리지 않았지만, 상원의원들에게는 Grok 퇴출을 경고했다고 밝혔다. 6월 Apple의 WWDC 행사장에서는 시위대가 Apple에 “App Store에서 Grok, X, 그리고 모든 누드화 기술을 퇴출하라”고 요구했다. 7월에는 샌프란시스코 시 법무관이 Apple에 “nudify” 앱 13개를 삭제하라고 명령했고 Apple은 그대로 따랐다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "추가로 살필 대상은 고객이 가장 알맞은 AI 도구를 자유롭게 고를 수 있는지, 다른 AI 업체가 Microsoft의 Copilot과 공정한 조건에서 겨룰 수 있는지, Microsoft가 보안 제품을 어떻게 묶어 파는지, 그리고 클라우드 라이선스 관행이다."
+            "x": "Apple은 금요일 발표한 업데이트에서 App Store 앱의 콘텐츠 관리 요건 가운데 하나로 개발자가 비동의 성적 이미지를 “선제적으로 막고 삭제해야 한다”고 밝혔다. “적절한 안전장치를 갖추지 못하거나” “통보 후에도 위반 사항을 바로잡지 않는” 개발자는 App Store에서 퇴출될 수 있다. Apple은 승인 뒤 “nudification”(누드화) 같은 기능을 덧붙이거나 바꾸는 “bait-and-switch”(미끼 상술) 앱 금지 규정도 분명히 했다."
           },
           {
             "t": "p",
-            "x": "“조직은 자신에게 가장 잘 맞는 제품을 고르고, 원할 때 공급자를 바꾸고, 여러 공급자의 서비스를 조합할 수 있어야 한다”고 CMA의 Sarah Cardell 최고경영자가 말했다."
-          },
-          {
-            "t": "p",
-            "x": "아직은 잠정 판단이고 최종 결정은 2027년 이월 법정 시한 안에 나온다. SMS로 지정된다고 해서 위법 행위가 있었다는 뜻은 아니다."
+            "x": "Apple 규정은 “인신매매나 아동 착취를 조장하는” 앱이라면 모두 App Store에서 퇴출되고 “대체 유통 경로에서도 차단된다”는 점도 더 분명히 적었다."
           }
         ]
       },
+      "_lead_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "CMA proposes strategic status\nfor Microsoft business software",
-          "body": "The CMA proposes strategic market status for Microsoft and will probe whether rival AI tools can compete with Copilot.",
-          "mini_headline": "CMA eyes Microsoft software",
+          "headline": "Apple's App Store rules\ntarget AI nudify apps",
+          "body": "Apple's revised App Store rules say developers must proactively prevent and remove nonconsensual sexual images.",
+          "mini_headline": "Apple targets nudify apps",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "Image: Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "The Competition and Markets Authority (CMA) is proposing to designate Microsoft with strategic market status (SMS) in its business software ecosystem and will now consult before making a final decision. It has also published an indicative roadmap outlining areas for possible future interventions."
+                "x": "Apple’s App Store rules now more explicitly ban so-called “nudify” apps that generate intimate images of people without their consent using AI tools."
               },
               {
                 "t": "p",
-                "x": "Microsoft's business software (including Word, Excel, Outlook, PowerPoint, Teams and increasingly Copilot) is used by over a million UK businesses and public sector organisations, with around 20 million monthly users. The sector is changing rapidly, with a shift towards agentic AI in familiar workplace tools."
+                "x": "The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn’t pull X or Grok from the App Store, though it told senators that it threatened to yank Grok. At Apple’s WWDC event in June, protestors also called on Apple to “remove Grok, X, and all nudify technology from the App Store,” and in July, a San Francisco city attorney ordered Apple to remove 13 “nudify” apps, which it said it did."
               },
               {
                 "t": "p",
-                "x": "Areas for further investigation include whether customers can freely choose the best AI tools and whether alternative AI providers have a level playing field to compete with Microsoft's Copilot, how Microsoft bundles its security products, and its cloud licensing practices."
+                "x": "As part of updates announced Friday, Apple says that developers “must proactively prevent and remove” nonconsensual, sexual images as part of its content moderation requirements for App Store apps. Developers who “fail to implement adequate safeguards” or “don’t remedy violations after notice” may be removed from the App Store. Apple also clarified a rule that bars “bait-and-switch” apps, or apps that add or change features, including “nudification,” after they have been approved."
               },
               {
                 "t": "p",
-                "x": "“Organisations should be able to choose the products that work best for them, switch provider when they want to and combine services from different suppliers,” said CMA Chief Executive Sarah Cardell."
-              },
-              {
-                "t": "p",
-                "x": "The findings are provisional, with a final decision due by the February 2027 statutory deadline. SMS designation does not assume wrongdoing."
+                "x": "Apple’s rules also more clearly spell out that any apps that “facilitate human trafficking or the exploitation of children” will be pulled from the App Store and “blocked from alternative distribution.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "CMA, Microsoft\n업무용 SW 전략지위 제안",
-          "body": "CMA는 Microsoft 전략지위를 제안해 AI가 Copilot과 겨룰지 본다.",
-          "mini_headline": "CMA, Microsoft SW 겨냥",
+          "headline": "App Store 새 규정\nAI 누드화 앱 겨냥",
+          "body": "Apple은 개발자에게 비동의 성적 이미지를 선제적으로 막고 지우라고 요구한다.",
+          "mini_headline": "Apple, 누드화 앱 겨냥",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "이미지: Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "경쟁시장청(Competition and Markets Authority, CMA)은 Microsoft의 업무용 소프트웨어 생태계에 전략적 시장 지위(SMS)를 지정하자고 제안했고, 최종 결정 전에 의견을 듣기로 했다. 앞으로 개입할 만한 분야를 담은 예비 로드맵도 내놨다."
+                "x": "Apple의 App Store 규정이 이른바 “nudify”(누드화) 앱을 한층 명시적으로 금지한다. AI 도구로 당사자 동의 없이 사람의 은밀한 이미지를 만들어내는 앱이다."
               },
               {
                 "t": "p",
-                "x": "Word, Excel, Outlook, PowerPoint, Teams, 그리고 비중이 커지는 Copilot까지 아우르는 Microsoft 업무용 소프트웨어는 백만 곳이 넘는 UK 기업과 공공기관이 쓴다. 월간 이용자는 약 20M 명이다. 익숙한 업무 도구에 에이전트형 AI가 들어오면서 이 분야는 빠르게 바뀌는 중이다."
+                "x": "이번 변경은 올해 초 X 사용자들이 Grok으로 미성년자를 포함한 비동의 성적 딥페이크를 만들면서 Apple에 쏟아진 거센 비판에서 나왔다. Apple은 X나 Grok을 App Store에서 내리지 않았지만, 상원의원들에게는 Grok 퇴출을 경고했다고 밝혔다. 6월 Apple의 WWDC 행사장에서는 시위대가 Apple에 “App Store에서 Grok, X, 그리고 모든 누드화 기술을 퇴출하라”고 요구했다. 7월에는 샌프란시스코 시 법무관이 Apple에 “nudify” 앱 13개를 삭제하라고 명령했고 Apple은 그대로 따랐다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "추가로 살필 대상은 고객이 가장 알맞은 AI 도구를 자유롭게 고를 수 있는지, 다른 AI 업체가 Microsoft의 Copilot과 공정한 조건에서 겨룰 수 있는지, Microsoft가 보안 제품을 어떻게 묶어 파는지, 그리고 클라우드 라이선스 관행이다."
+                "x": "Apple은 금요일 발표한 업데이트에서 App Store 앱의 콘텐츠 관리 요건 가운데 하나로 개발자가 비동의 성적 이미지를 “선제적으로 막고 삭제해야 한다”고 밝혔다. “적절한 안전장치를 갖추지 못하거나” “통보 후에도 위반 사항을 바로잡지 않는” 개발자는 App Store에서 퇴출될 수 있다. Apple은 승인 뒤 “nudification”(누드화) 같은 기능을 덧붙이거나 바꾸는 “bait-and-switch”(미끼 상술) 앱 금지 규정도 분명히 했다."
               },
               {
                 "t": "p",
-                "x": "“조직은 자신에게 가장 잘 맞는 제품을 고르고, 원할 때 공급자를 바꾸고, 여러 공급자의 서비스를 조합할 수 있어야 한다”고 CMA의 Sarah Cardell 최고경영자가 말했다."
-              },
-              {
-                "t": "p",
-                "x": "아직은 잠정 판단이고 최종 결정은 2027년 이월 법정 시한 안에 나온다. SMS로 지정된다고 해서 위법 행위가 있었다는 뜻은 아니다."
+                "x": "Apple 규정은 “인신매매나 아동 착취를 조장하는” 앱이라면 모두 App Store에서 퇴출되고 “대체 유통 경로에서도 차단된다”는 점도 더 분명히 적었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CMA、Microsoft\n業務ソフトに戦略的地位案",
-          "body": "CMAはMicrosoftの戦略的地位を提案、他社AIがCopilotと競えるか調べる。",
-          "mini_headline": "CMA、Microsoftソフトを注視",
+          "headline": "App Store新規約\nAI脱衣アプリを標的に",
+          "body": "Appleは改定規約で、同意のない性的画像を積極的に防ぎ削除するよう開発者に求めた。",
+          "mini_headline": "Apple、脱衣アプリを標的に",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "画像：Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "競争・市場庁(Competition and Markets Authority、CMA)は、Microsoftの業務用ソフトウェア・エコシステムを戦略的市場地位(SMS)に指定する案を示し、最終決定の前に意見募集を行う。将来の介入候補分野をまとめた暫定ロードマップも公表した。"
+                "x": "AppleのApp Store規約は、AIツールを使って本人の同意なく人物の性的な画像を生成する、いわゆる「nudify」（脱衣）アプリをより明確に禁止した。"
               },
               {
                 "t": "p",
-                "x": "Microsoftの業務用ソフトウェア(Word、Excel、Outlook、PowerPoint、Teams、そして存在感を増すCopilotを含む)は、百万を超えるUKの企業と公共機関が利用し、月間利用者は約20M 人にのぼる。身近な職場ツールにエージェント型AIが入り込み、この分野は急速に変化している。"
+                "x": "今回の規約変更は、今年初めにXのユーザーがGrokを使って未成年者を含む同意のない性的ディープフェイクを作成し、Appleに強い批判が向けられたことを受けたものだ。AppleはXやGrokをApp Storeから削除しなかったが、Grokを削除すると警告したと上院議員に説明していた。6月のAppleのWWDCでは、抗議者らがAppleに「App StoreからGrok、X、そしてすべての脱衣技術を削除せよ」と訴え、7月にはサンフランシスコ市の法務官がAppleに「nudify」アプリ13本の削除を命じ、Appleはこれに応じたとしている。"
               },
               {
                 "t": "p",
-                "x": "今後の調査対象には、顧客が最適なAIツールを自由に選べるか、他のAI事業者がMicrosoftのCopilotと公平な条件で競争できるか、Microsoftがセキュリティ製品をどう抱き合わせているか、そしてクラウドのライセンス慣行が含まれる。"
+                "x": "金曜日に発表された更新の一環として、AppleはApp Storeアプリのコンテンツモデレーション要件として、開発者は同意のない性的画像を「積極的に防止し削除しなければならない」としている。「適切な安全策を講じない」開発者や「通知後も違反を是正しない」開発者は、App Storeから削除される可能性がある。Appleはまた、承認後に「nudification」（脱衣化）を含む機能を追加・変更する「bait-and-switch」（おとり）アプリを禁じる規定も明確化した。"
               },
               {
                 "t": "p",
-                "x": "「組織は自らに最も合う製品を選び、望むときに事業者を乗り換え、異なる供給者のサービスを組み合わせられるべきだ」と、CMAのSarah Cardell最高経営責任者は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "今回の判断は暫定的なもので、最終決定は2027年二月の法定期限までに下される。SMS指定は違法行為を前提とするものではない。"
+                "x": "Appleの規約はさらに、「人身売買や児童搾取を助長する」アプリはすべてApp Storeから削除され、「代替配信からもブロックされる」ことをより明確に定めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CMA拟将Microsoft\n企业软件列为战略地位",
-          "body": "CMA拟认定Microsoft具战略市场地位，调查其他AI工具能否与Copilot竞争。",
-          "mini_headline": "CMA盯上Microsoft软件",
+          "headline": "App Store新规\n瞄准AI脱衣应用",
+          "body": "Apple修订App Store规则，要求开发者主动防止并删除未经同意的性图像。",
+          "mini_headline": "Apple瞄准脱衣应用",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "图片：Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "竞争与市场管理局(Competition and Markets Authority，CMA)拟认定Microsoft在其商业软件生态系统中具有战略市场地位(SMS)，并将在作出最终决定前征求意见。该机构还发布了一份指示性路线图，列出未来可能采取干预的领域。"
+                "x": "Apple的App Store规则如今更明确地禁止所谓的“nudify”（脱衣）应用，这类应用利用AI工具在未经当事人同意的情况下生成其私密图像。"
               },
               {
                 "t": "p",
-                "x": "Microsoft的商业软件(包括Word、Excel、Outlook、PowerPoint、Teams，以及日益重要的Copilot)被超过一百万家UK企业和公共部门机构使用，月活跃用户约20M 人。随着熟悉的办公工具转向智能体AI，该行业正在迅速变化。"
+                "x": "今年早些时候，X用户利用Grok制作了包括未成年人在内的未经同意的性化深度伪造内容，Apple因此饱受批评，规则随之调整。Apple并未将X或Grok从App Store下架，但它告诉参议员，曾威胁要下架Grok。6月Apple的WWDC活动上，抗议者也呼吁Apple“将Grok、X以及所有脱衣技术从App Store移除”；7月，旧金山一位市检察官命令Apple移除13款“nudify”应用，Apple表示已照办。"
               },
               {
                 "t": "p",
-                "x": "进一步调查的领域包括：客户能否自由选择最好的AI工具、其他AI提供商能否在公平环境中与Microsoft的Copilot竞争、Microsoft如何捆绑其安全产品，以及其云许可做法。"
+                "x": "在周五公布的更新中，Apple表示，作为App Store应用内容审核要求的一部分，开发者“必须主动防止并删除”未经同意的性图像。“未能落实充分保障措施”或“收到通知后仍不纠正违规”的开发者可能被移出App Store。Apple还澄清了一项规则，禁止“bait-and-switch”（偷梁换柱）式应用，即在获批后添加或更改功能（包括“nudification”）的应用。"
               },
               {
                 "t": "p",
-                "x": "“各组织应能选择最适合自己的产品，随时更换供应商，并组合不同供应商的服务。”CMA首席执行官Sarah Cardell表示。"
-              },
-              {
-                "t": "p",
-                "x": "上述结论为初步意见，最终决定将在2027年二月的法定期限前作出。SMS认定并不意味着存在违法行为。"
+                "x": "Apple的规则还更清楚地写明，任何“为人口贩卖或儿童剥削提供便利”的应用都将被移出App Store，并“禁止通过其他渠道分发”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CMA propone estatus estratégico\npara el software de Microsoft",
-          "body": "La CMA propone un estatus estratégico para Microsoft y examinará si las AI rivales compiten con Copilot.",
-          "mini_headline": "La CMA examina el software de Microsoft",
+          "headline": "Apple endurece la App Store\ncontra apps «nudify» con IA",
+          "body": "Apple exige a los desarrolladores de su App Store prevenir y retirar proactivamente imágenes sexuales no consentidas.",
+          "mini_headline": "Apple apunta a las apps «nudify»",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "Imagen: Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "La Competition and Markets Authority (CMA) propone designar a Microsoft con estatus de mercado estratégico (SMS) en su ecosistema de software empresarial y abrirá ahora una consulta antes de tomar una decisión final. También ha publicado una hoja de ruta indicativa con las áreas de posibles intervenciones futuras."
+                "x": "Las reglas de la App Store de Apple ahora prohíben de forma más explícita las llamadas apps «nudify», que generan imágenes íntimas de personas sin su consentimiento mediante herramientas de IA."
               },
               {
                 "t": "p",
-                "x": "El software empresarial de Microsoft (que incluye Word, Excel, Outlook, PowerPoint, Teams y, cada vez más, Copilot) lo usan más de un millón de empresas y organismos públicos del Reino Unido (UK), con unos 20 millones de usuarios mensuales. El sector cambia con rapidez, con un giro hacia la AI agéntica en herramientas de trabajo conocidas."
+                "x": "Los cambios llegan tras las fuertes críticas que recibió Apple después de que usuarios de X usaran Grok a principios de este año para crear deepfakes sexualizados no consentidos, incluso de menores. Apple no retiró X ni Grok de la App Store, aunque dijo a senadores que había amenazado con retirar Grok. En el evento WWDC de Apple en junio, manifestantes también pidieron a Apple «retirar Grok, X y toda la tecnología nudify de la App Store», y en julio un fiscal municipal de San Francisco ordenó a Apple retirar 13 apps «nudify», algo que la empresa dijo haber hecho."
               },
               {
                 "t": "p",
-                "x": "Entre las áreas que se investigarán figuran si los clientes pueden elegir libremente las mejores herramientas de AI y si los proveedores alternativos de AI compiten en igualdad de condiciones con Copilot de Microsoft, cómo Microsoft agrupa sus productos de seguridad y sus prácticas de licencias en la nube."
+                "x": "Como parte de las actualizaciones anunciadas el viernes, Apple afirma que los desarrolladores «deben prevenir y eliminar de forma proactiva» las imágenes sexuales no consentidas, dentro de sus requisitos de moderación de contenido para las apps de la App Store. Los desarrolladores que «no implementen salvaguardas adecuadas» o «no corrijan las infracciones tras ser notificados» podrán ser retirados de la App Store. Apple también aclaró una norma que prohíbe las apps de tipo «bait-and-switch» (gato por liebre), es decir, las que añaden o cambian funciones, incluida la «nudification», después de haber sido aprobadas."
               },
               {
                 "t": "p",
-                "x": "“Las organizaciones deberían poder elegir los productos que mejor les funcionen, cambiar de proveedor cuando quieran y combinar servicios de distintos proveedores”, afirmó la directora ejecutiva de la CMA, Sarah Cardell."
-              },
-              {
-                "t": "p",
-                "x": "Las conclusiones son provisionales y la decisión final llegará antes del plazo legal de febrero de 2027. La designación SMS no presupone ninguna infracción."
+                "x": "Las reglas de Apple también establecen con mayor claridad que cualquier app que «facilite la trata de personas o la explotación infantil» será retirada de la App Store y «bloqueada en la distribución alternativa»."
               }
             ]
           }
@@ -217,137 +201,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "CMA, Microsoft\n업무용 SW 전략지위 제안",
-          "body": "CMA는 Microsoft 전략지위를 제안해 AI가 Copilot과 겨룰지 본다.",
-          "mini_headline": "CMA, Microsoft SW 겨냥",
+          "headline": "App Store 새 규정\nAI 누드화 앱 겨냥",
+          "body": "Apple은 개발자에게 비동의 성적 이미지를 선제적으로 막고 삭제하라고 요구한다.",
+          "mini_headline": "Apple, 누드화 앱 겨냥",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "이미지: Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "경쟁시장청(Competition and Markets Authority, CMA)은 Microsoft의 업무용 소프트웨어 생태계에 전략적 시장 지위(SMS)를 지정하는 방안을 제안했고, 최종 결정에 앞서 의견 수렴에 들어간다. 향후 개입할 수 있는 분야를 담은 예비 로드맵도 공개했다."
+                "x": "Apple의 App Store 규정이 AI 도구로 당사자 동의 없이 사람의 은밀한 이미지를 만들어내는 이른바 “nudify”(누드화) 앱을 한층 명시적으로 금지한다."
               },
               {
                 "t": "p",
-                "x": "Microsoft의 업무용 소프트웨어(Word, Excel, Outlook, PowerPoint, Teams, 그리고 비중이 커지는 Copilot 포함)는 백만 곳이 넘는 UK 기업과 공공기관이 쓰며, 월간 이용자는 약 20M 명이다. 익숙한 업무 도구에 에이전트형 AI가 자리 잡으면서 이 분야는 빠르게 바뀌고 있다."
+                "x": "이번 규정 변경은 올해 초 X 사용자들이 Grok으로 미성년자를 포함한 비동의 성적 딥페이크를 만든 뒤 Apple에 쏟아진 거센 비판에 따른 것이다. Apple은 X나 Grok을 App Store에서 내리지 않았지만, 상원의원들에게는 Grok을 퇴출하겠다고 경고했다고 밝혔다. 6월 Apple의 WWDC 행사에서는 시위대가 Apple에 “App Store에서 Grok, X, 그리고 모든 누드화 기술을 퇴출하라”고 요구했고, 7월에는 샌프란시스코 시 법무관이 Apple에 “nudify” 앱 13개를 삭제하라고 명령했으며 Apple은 그렇게 했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "추가 조사 대상은 고객이 최적의 AI 도구를 자유롭게 고를 수 있는지, 다른 AI 제공업체가 Microsoft의 Copilot과 공정한 조건에서 경쟁할 수 있는지, Microsoft가 보안 제품을 어떻게 묶어 파는지, 그리고 클라우드 라이선스 관행이다."
+                "x": "Apple은 금요일 발표한 업데이트에서 App Store 앱의 콘텐츠 관리 요건의 하나로 개발자가 비동의 성적 이미지를 “선제적으로 막고 삭제해야 한다”고 밝혔다. “적절한 안전장치를 갖추지 못하거나” “통보 후에도 위반 사항을 바로잡지 않는” 개발자는 App Store에서 퇴출될 수 있다. Apple은 승인 이후 “nudification”(누드화)을 비롯한 기능을 추가하거나 바꾸는 “bait-and-switch”(미끼 상술) 앱을 금지하는 규정도 명확히 했다."
               },
               {
                 "t": "p",
-                "x": "“조직은 자신에게 가장 잘 맞는 제품을 고르고, 원할 때 공급자를 바꾸고, 여러 공급자의 서비스를 조합할 수 있어야 한다”고 CMA의 Sarah Cardell 최고경영자는 말했다."
-              },
-              {
-                "t": "p",
-                "x": "이번 판단은 잠정적이며, 최종 결정은 2027년 이월 법정 시한까지 나온다. SMS 지정이 위법 행위를 전제하는 것은 아니다."
+                "x": "Apple 규정은 또한 “인신매매나 아동 착취를 조장하는” 앱은 모두 App Store에서 퇴출되고 “대체 유통 경로에서도 차단된다”고 더 분명히 명시한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "CMA、Microsoft\n業務ソフトに戦略的地位案",
-          "body": "CMAはMicrosoftの戦略的地位を提案、他社AIがCopilotと競えるか調べる。",
-          "mini_headline": "CMA、Microsoftソフトを注視",
+          "headline": "App Store新規約\nAI脱衣アプリを標的に",
+          "body": "Appleは改定規約で、同意のない性的画像を積極的に防ぎ削除するよう開発者に求めた。",
+          "mini_headline": "Apple、脱衣アプリを標的に",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "画像：Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "競争・市場庁(Competition and Markets Authority、CMA)は、Microsoftの業務用ソフトウェア・エコシステムを戦略的市場地位(SMS)に指定する案を示し、最終決定の前に意見募集を行う。将来の介入候補分野をまとめた暫定ロードマップも公表した。"
+                "x": "AppleのApp Store規約は、AIツールを使って本人の同意なく人物の性的な画像を生成する、いわゆる「nudify」（脱衣）アプリをより明確に禁止した。"
               },
               {
                 "t": "p",
-                "x": "Microsoftの業務用ソフトウェア(Word、Excel、Outlook、PowerPoint、Teams、そして存在感を増すCopilotを含む)は、百万を超えるUKの企業と公共機関が利用し、月間利用者は約20M 人にのぼる。身近な職場ツールにエージェント型AIが入り込み、この分野は急速に変化している。"
+                "x": "今回の規約変更は、今年初めにXのユーザーがGrokを使って未成年者を含む同意のない性的ディープフェイクを作成し、Appleに強い批判が向けられたことを受けたものだ。AppleはXやGrokをApp Storeから削除しなかったが、Grokを削除すると警告したと上院議員に説明していた。6月のAppleのWWDCでは、抗議者らがAppleに「App StoreからGrok、X、そしてすべての脱衣技術を削除せよ」と訴え、7月にはサンフランシスコ市の法務官がAppleに「nudify」アプリ13本の削除を命じ、Appleはこれに応じたとしている。"
               },
               {
                 "t": "p",
-                "x": "今後の調査対象には、顧客が最適なAIツールを自由に選べるか、他のAI事業者がMicrosoftのCopilotと公平な条件で競争できるか、Microsoftがセキュリティ製品をどう抱き合わせているか、そしてクラウドのライセンス慣行が含まれる。"
+                "x": "金曜日に発表された更新の一環として、AppleはApp Storeアプリのコンテンツモデレーション要件として、開発者は同意のない性的画像を「積極的に防止し削除しなければならない」としている。「適切な安全策を講じない」開発者や「通知後も違反を是正しない」開発者は、App Storeから削除される可能性がある。Appleはまた、承認後に「nudification」（脱衣化）を含む機能を追加・変更する「bait-and-switch」（おとり）アプリを禁じる規定も明確化した。"
               },
               {
                 "t": "p",
-                "x": "「組織は自らに最も合う製品を選び、望むときに事業者を乗り換え、異なる供給者のサービスを組み合わせられるべきだ」と、CMAのSarah Cardell最高経営責任者は述べた。"
-              },
-              {
-                "t": "p",
-                "x": "今回の判断は暫定的なもので、最終決定は2027年二月の法定期限までに下される。SMS指定は違法行為を前提とするものではない。"
+                "x": "Appleの規約はさらに、「人身売買や児童搾取を助長する」アプリはすべてApp Storeから削除され、「代替配信からもブロックされる」ことをより明確に定めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "CMA拟将Microsoft\n企业软件列为战略地位",
-          "body": "CMA拟认定Microsoft具战略市场地位，调查其他AI工具能否与Copilot竞争。",
-          "mini_headline": "CMA盯上Microsoft软件",
+          "headline": "App Store新规\n瞄准AI脱衣应用",
+          "body": "Apple修订App Store规则，要求开发者主动防止并删除未经同意的性图像。",
+          "mini_headline": "Apple瞄准脱衣应用",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "图片：Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "竞争与市场管理局(Competition and Markets Authority，CMA)拟认定Microsoft在其商业软件生态系统中具有战略市场地位(SMS)，并将在作出最终决定前征求意见。该机构还发布了一份指示性路线图，列出未来可能采取干预的领域。"
+                "x": "Apple的App Store规则如今更明确地禁止所谓的“nudify”（脱衣）应用，这类应用利用AI工具在未经当事人同意的情况下生成其私密图像。"
               },
               {
                 "t": "p",
-                "x": "Microsoft的商业软件(包括Word、Excel、Outlook、PowerPoint、Teams，以及日益重要的Copilot)被超过一百万家UK企业和公共部门机构使用，月活跃用户约20M 人。随着熟悉的办公工具转向智能体AI，该行业正在迅速变化。"
+                "x": "今年早些时候，X用户利用Grok制作了包括未成年人在内的未经同意的性化深度伪造内容，Apple因此饱受批评，规则随之调整。Apple并未将X或Grok从App Store下架，但它告诉参议员，曾威胁要下架Grok。6月Apple的WWDC活动上，抗议者也呼吁Apple“将Grok、X以及所有脱衣技术从App Store移除”；7月，旧金山一位市检察官命令Apple移除13款“nudify”应用，Apple表示已照办。"
               },
               {
                 "t": "p",
-                "x": "进一步调查的领域包括：客户能否自由选择最好的AI工具、其他AI提供商能否在公平环境中与Microsoft的Copilot竞争、Microsoft如何捆绑其安全产品，以及其云许可做法。"
+                "x": "在周五公布的更新中，Apple表示，作为App Store应用内容审核要求的一部分，开发者“必须主动防止并删除”未经同意的性图像。“未能落实充分保障措施”或“收到通知后仍不纠正违规”的开发者可能被移出App Store。Apple还澄清了一项规则，禁止“bait-and-switch”（偷梁换柱）式应用，即在获批后添加或更改功能（包括“nudification”）的应用。"
               },
               {
                 "t": "p",
-                "x": "“各组织应能选择最适合自己的产品，随时更换供应商，并组合不同供应商的服务。”CMA首席执行官Sarah Cardell表示。"
-              },
-              {
-                "t": "p",
-                "x": "上述结论为初步意见，最终决定将在2027年二月的法定期限前作出。SMS认定并不意味着存在违法行为。"
+                "x": "Apple的规则还更清楚地写明，任何“为人口贩卖或儿童剥削提供便利”的应用都将被移出App Store，并“禁止通过其他渠道分发”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "CMA propone estatus estratégico\npara el software de Microsoft",
-          "body": "La CMA propone un estatus estratégico para Microsoft y examinará si las AI rivales compiten con Copilot.",
-          "mini_headline": "La CMA examina el software de Microsoft",
+          "headline": "Apple endurece la App Store\ncontra apps «nudify» con IA",
+          "body": "Apple exige a los desarrolladores de su App Store prevenir y retirar proactivamente imágenes sexuales no consentidas.",
+          "mini_headline": "Apple apunta a las apps «nudify»",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+                "cap": "Imagen: Cath Virginia / The Verge, Getty Images"
               },
               {
                 "t": "p",
-                "x": "La Competition and Markets Authority (CMA) propone designar a Microsoft con estatus de mercado estratégico (SMS) en su ecosistema de software empresarial y abrirá ahora una consulta antes de tomar una decisión final. También ha publicado una hoja de ruta indicativa con las áreas de posibles intervenciones futuras."
+                "x": "Las reglas de la App Store de Apple ahora prohíben de forma más explícita las llamadas apps «nudify», que generan imágenes íntimas de personas sin su consentimiento mediante herramientas de IA."
               },
               {
                 "t": "p",
-                "x": "El software empresarial de Microsoft (que incluye Word, Excel, Outlook, PowerPoint, Teams y, cada vez más, Copilot) lo usan más de un millón de empresas y organismos públicos del Reino Unido (UK), con unos 20 millones de usuarios mensuales. El sector cambia con rapidez, con un giro hacia la AI agéntica en herramientas de trabajo conocidas."
+                "x": "Los cambios llegan tras las fuertes críticas que recibió Apple después de que usuarios de X usaran Grok a principios de este año para crear deepfakes sexualizados no consentidos, incluso de menores. Apple no retiró X ni Grok de la App Store, aunque dijo a senadores que había amenazado con retirar Grok. En el evento WWDC de Apple en junio, manifestantes también pidieron a Apple «retirar Grok, X y toda la tecnología nudify de la App Store», y en julio un fiscal municipal de San Francisco ordenó a Apple retirar 13 apps «nudify», algo que la empresa dijo haber hecho."
               },
               {
                 "t": "p",
-                "x": "Entre las áreas que se investigarán figuran si los clientes pueden elegir libremente las mejores herramientas de AI y si los proveedores alternativos de AI compiten en igualdad de condiciones con Copilot de Microsoft, cómo Microsoft agrupa sus productos de seguridad y sus prácticas de licencias en la nube."
+                "x": "Como parte de las actualizaciones anunciadas el viernes, Apple afirma que los desarrolladores «deben prevenir y eliminar de forma proactiva» las imágenes sexuales no consentidas, dentro de sus requisitos de moderación de contenido para las apps de la App Store. Los desarrolladores que «no implementen salvaguardas adecuadas» o «no corrijan las infracciones tras ser notificados» podrán ser retirados de la App Store. Apple también aclaró una norma que prohíbe las apps de tipo «bait-and-switch» (gato por liebre), es decir, las que añaden o cambian funciones, incluida la «nudification», después de haber sido aprobadas."
               },
               {
                 "t": "p",
-                "x": "“Las organizaciones deberían poder elegir los productos que mejor les funcionen, cambiar de proveedor cuando quieran y combinar servicios de distintos proveedores”, afirmó la directora ejecutiva de la CMA, Sarah Cardell."
-              },
-              {
-                "t": "p",
-                "x": "Las conclusiones son provisionales y la decisión final llegará antes del plazo legal de febrero de 2027. La designación SMS no presupone ninguna infracción."
+                "x": "Las reglas de Apple también establecen con mayor claridad que cualquier app que «facilite la trata de personas o la explotación infantil» será retirada de la App Store y «bloqueada en la distribución alternativa»."
               }
             ]
           }
@@ -355,607 +327,221 @@
       }
     },
     {
-      "id": "politics-china-open-weight",
+      "id": "politics-nk-ai-torpedo",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "패널: 서구 오픈 모델\n여전히 중국에 뒤처져",
-      "body": "패널은 중국 오픈웨이트 모델이 성능과 비용에서 서구를 앞서나 칩이 한계라고 봤다.",
-      "mini_headline": "오픈 모델은 중국이 선두",
+      "headline": "북한, AI-guided\n어뢰 시험 주장",
+      "body": "북한 KCNA가 AI로 표적 탐지·유도를 돕는 Zam-2.0 어뢰의 시험을 알렸다.",
+      "mini_headline": "북한, AI 어뢰 시험 주장",
       "tool": "Politics",
-      "source": "Rest of World",
-      "url": "https://restofworld.org/2026/china-open-weight-models/",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
-          },
-          {
-            "t": "p",
-            "x": "샌프란시스코에서 열린 Rest of World 행사에서 전문가들은 미국과 유럽 기업이 내놓은 새 오픈웨이트 모델을 이렇게 평했다. 보안을 걱정하는 중국 오픈 모델 사용자를 끌어오려 하지만, 자원이 더 많은데도 성능은 시장을 이끄는 중국 시스템에 못 미친다는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "Columbia University 조교수 Daniel Björkegren은 저소득 국가의 기업과 정부에게는 비용이 가장 중요하다고 했다. “저소득 국가 맥락에서는 프런티어 지능을 U.S.에 의존하는 데 대한 우려가 크다”는 것이다."
-          },
-          {
-            "t": "p",
-            "x": "지난주 OpenRouter 순위표에서는 상위 다섯 개 가운데 네 개가 중국 모델이었다. LiveBench에서도 최상위 중국 모델의 벤치마크 점수는 U.S. 경쟁 모델보다 3% 낮은 데 그쳤다."
-          },
-          {
-            "t": "img",
-            "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
-            "cap": "샌프란시스코 Rest of World 행사에 참석한 Kristy Loke(왼쪽)와 Daniel Björkegren."
-          },
-          {
-            "t": "p",
-            "x": "MATS 연구원 Kristy Loke는 오픈 모델 덕분에 중국이 해외 시장 진출을 둘러싼 우려 일부를 피해 갈 수 있다고 봤다. “소프트파워에 도움이 된다. 국내적으로도 좋다”고 했다."
-          },
-          {
-            "t": "p",
-            "x": "Stanford DigiChina Project의 Graham Webster는 칩 무역 제한 탓에 중국 기업들이 더 효율적인 모델을 만들 수밖에 없었다고 짚었다. “비교적 프런티어급 성능이 필요하다면 지금은 중국 오픈 모델밖에 없다.”"
-          },
-          {
-            "t": "p",
-            "x": "다만 중국 기업들도 컴퓨팅 한계와 수익화라는 숙제를 안고 있다. Webster는 “현재 여건에서는 살 수 있는 칩에 한계가 있다”며 “벽에 부딪힐 수도 있다”고 했다. Loke는 수익화가 모든 중국 AI 기업의 고민이라고 덧붙였다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Panel: Western open models\nstill trail Chinese rivals",
-          "body": "Rest of World panelists said Chinese open-weight models lead Western rivals on capability and cost but face chip limits.",
-          "mini_headline": "China leads open models",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
-              },
-              {
-                "t": "p",
-                "x": "New open-weight models from American and European companies aim to win over users of Chinese open models who are concerned about security, but fall short of the dominant Chinese systems on performance despite greater resources, experts said at a Rest of World event in San Francisco."
-              },
-              {
-                "t": "p",
-                "x": "For businesses and governments in lower-income countries, cost is the primary factor, said Daniel Björkegren, an assistant professor at Columbia University. “In the low-income context, there’s a lot of concern about being dependent on the U.S. for frontier intelligence,” he said."
-              },
-              {
-                "t": "p",
-                "x": "The OpenRouter leaderboard had four Chinese models among its top five last week, and LiveBench showed the top Chinese models lagging their U.S. rivals by just 3% on benchmark scores."
-              },
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
-                "cap": "Kristy Loke (left) and Daniel Björkegren at the Rest of World event in San Francisco."
-              },
-              {
-                "t": "p",
-                "x": "Open models let China get around some concerns about its presence in overseas markets, said Kristy Loke, a research fellow at MATS. “It’s good for soft power. It’s good domestically, as well,” she said."
-              },
-              {
-                "t": "p",
-                "x": "Chip trade restrictions forced Chinese firms to build more efficient models, said Graham Webster of Stanford’s DigiChina Project. “If you need relatively frontier capability, right now that’s Chinese open models only.”"
-              },
-              {
-                "t": "p",
-                "x": "Still, Chinese companies face compute limits and the question of how to make money. “You can only buy so many chips under current conditions,” Webster said. “They may run into a wall.” Monetization concerns every Chinese AI company, Loke said."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "패널: 서구 오픈 모델\n여전히 중국에 뒤처져",
-          "body": "패널은 중국 오픈웨이트 모델이 성능과 비용에서 서구를 앞서나 칩이 한계라고 봤다.",
-          "mini_headline": "오픈 모델은 중국이 선두",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
-              },
-              {
-                "t": "p",
-                "x": "샌프란시스코에서 열린 Rest of World 행사에서 전문가들은 미국과 유럽 기업이 내놓은 새 오픈웨이트 모델을 이렇게 평했다. 보안을 걱정하는 중국 오픈 모델 사용자를 끌어오려 하지만, 자원이 더 많은데도 성능은 시장을 이끄는 중국 시스템에 못 미친다는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "Columbia University 조교수 Daniel Björkegren은 저소득 국가의 기업과 정부에게는 비용이 가장 중요하다고 했다. “저소득 국가 맥락에서는 프런티어 지능을 U.S.에 의존하는 데 대한 우려가 크다”는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "지난주 OpenRouter 순위표에서는 상위 다섯 개 가운데 네 개가 중국 모델이었다. LiveBench에서도 최상위 중국 모델의 벤치마크 점수는 U.S. 경쟁 모델보다 3% 낮은 데 그쳤다."
-              },
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
-                "cap": "샌프란시스코 Rest of World 행사에 참석한 Kristy Loke(왼쪽)와 Daniel Björkegren."
-              },
-              {
-                "t": "p",
-                "x": "MATS 연구원 Kristy Loke는 오픈 모델 덕분에 중국이 해외 시장 진출을 둘러싼 우려 일부를 피해 갈 수 있다고 봤다. “소프트파워에 도움이 된다. 국내적으로도 좋다”고 했다."
-              },
-              {
-                "t": "p",
-                "x": "Stanford DigiChina Project의 Graham Webster는 칩 무역 제한 탓에 중국 기업들이 더 효율적인 모델을 만들 수밖에 없었다고 짚었다. “비교적 프런티어급 성능이 필요하다면 지금은 중국 오픈 모델밖에 없다.”"
-              },
-              {
-                "t": "p",
-                "x": "다만 중국 기업들도 컴퓨팅 한계와 수익화라는 숙제를 안고 있다. Webster는 “현재 여건에서는 살 수 있는 칩에 한계가 있다”며 “벽에 부딪힐 수도 있다”고 했다. Loke는 수익화가 모든 중국 AI 기업의 고민이라고 덧붙였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "パネル：欧米オープンモデル\nなお中国勢に及ばず",
-          "body": "中国のオープンモデルは性能と費用で欧米に勝るが、チップ制約を抱えるとパネリストは語った。",
-          "mini_headline": "オープンモデルは中国優位",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
-              },
-              {
-                "t": "p",
-                "x": "米国と欧州の企業による新しいオープンウェイトモデルは、セキュリティを懸念する中国製オープンモデルの利用者を取り込もうとしているが、より多くの資源を持ちながらも性能では支配的な中国のシステムに及ばない。サンフランシスコで開かれたRest of Worldのイベントで、専門家らがそう語った。"
-              },
-              {
-                "t": "p",
-                "x": "低所得国の企業や政府にとって最大の要因はコストだと、Columbia University助教のDaniel Björkegrenは述べた。「低所得国の文脈では、フロンティアの知能をU.S.に依存することへの懸念が大きい」と彼は語った。"
-              },
-              {
-                "t": "p",
-                "x": "先週のOpenRouterのランキングでは上位五つのうち四つが中国モデルで、LiveBenchではトップの中国モデルがベンチマークスコアでU.S.の競合をわずか3%下回るにとどまった。"
-              },
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
-                "cap": "サンフランシスコのRest of WorldイベントでのKristy Loke(左)とDaniel Björkegren。"
-              },
-              {
-                "t": "p",
-                "x": "オープンモデルによって中国は海外市場での存在感をめぐる懸念の一部を回避できると、MATSの研究フェローKristy Lokeは述べた。「ソフトパワーにとって良い。国内的にも良い」と彼女は語った。"
-              },
-              {
-                "t": "p",
-                "x": "半導体の貿易規制が中国企業により効率的なモデルの開発を迫ったと、StanfordのDigiChina ProjectのGraham Websterは述べた。「比較的フロンティアに近い能力が必要なら、今は中国のオープンモデルしかない」"
-              },
-              {
-                "t": "p",
-                "x": "それでも中国企業は計算資源の制約と、どう稼ぐかという課題を抱える。「現状では買えるチップの量に限りがある」とWebsterは言う。「壁にぶつかるかもしれない」。収益化はすべての中国AI企業にとっての懸念だとLokeは述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "座谈：西方开放模型\n仍落后于中国对手",
-          "body": "Rest of World座谈嘉宾称，中国开放模型在能力和成本上领先西方，但受芯片限制。",
-          "mini_headline": "开放模型中国领先",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
-              },
-              {
-                "t": "p",
-                "x": "专家在旧金山举行的Rest of World活动上表示，美国和欧洲公司推出的新开放权重模型希望吸引担心安全问题的中国开放模型用户，但尽管资源更多，其性能仍不及占主导地位的中国系统。"
-              },
-              {
-                "t": "p",
-                "x": "Columbia University助理教授Daniel Björkegren表示，对于低收入国家的企业和政府而言，成本是首要因素。他说：“在低收入背景下，人们非常担心在前沿智能上依赖U.S.。”"
-              },
-              {
-                "t": "p",
-                "x": "上周OpenRouter排行榜前五名中有四个是中国模型；LiveBench显示，顶尖中国模型的基准分数仅比U.S.对手低3%。"
-              },
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
-                "cap": "Kristy Loke(左)与Daniel Björkegren在旧金山的Rest of World活动上。"
-              },
-              {
-                "t": "p",
-                "x": "MATS研究员Kristy Loke表示，开放模型让中国得以绕开外界对其进入海外市场的部分担忧。她说：“这有利于软实力，对国内也有好处。”"
-              },
-              {
-                "t": "p",
-                "x": "Stanford DigiChina Project的Graham Webster表示，芯片贸易限制迫使中国公司打造更高效的模型。“如果你需要相对前沿的能力，眼下只有中国开放模型。”"
-              },
-              {
-                "t": "p",
-                "x": "不过，中国公司仍面临算力限制和如何盈利的问题。Webster说：“在当前条件下，能买到的芯片有限。”“它们可能会撞墙。”Loke表示，盈利问题困扰着每一家中国AI公司。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Panel: los modelos occidentales\nsiguen tras sus rivales chinos",
-          "body": "Panelistas de Rest of World ven a los modelos abiertos chinos por delante de Occidente, aunque con límites de chips.",
-          "mini_headline": "China lidera los modelos abiertos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
-              },
-              {
-                "t": "p",
-                "x": "Los nuevos modelos de pesos abiertos de empresas estadounidenses y europeas buscan atraer a los usuarios de modelos abiertos chinos preocupados por la seguridad, pero se quedan por detrás de los dominantes sistemas chinos en rendimiento pese a contar con más recursos, según dijeron expertos en un evento de Rest of World en San Francisco."
-              },
-              {
-                "t": "p",
-                "x": "Para empresas y gobiernos de países de bajos ingresos, el coste es el factor principal, dijo Daniel Björkegren, profesor adjunto de Columbia University. “En el contexto de bajos ingresos, preocupa mucho depender de U.S. para la inteligencia de frontera”, afirmó."
-              },
-              {
-                "t": "p",
-                "x": "La clasificación de OpenRouter tuvo la semana pasada cuatro modelos chinos entre sus cinco primeros, y LiveBench mostró que los mejores modelos chinos quedaban solo un 3% por detrás de sus rivales de U.S. en puntuaciones de referencia."
-              },
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
-                "cap": "Kristy Loke (izquierda) y Daniel Björkegren en el evento de Rest of World en San Francisco."
-              },
-              {
-                "t": "p",
-                "x": "Los modelos abiertos permiten a China sortear algunas inquietudes sobre su presencia en mercados extranjeros, dijo Kristy Loke, investigadora de MATS. “Es bueno para el poder blando. También es bueno a nivel interno”, afirmó."
-              },
-              {
-                "t": "p",
-                "x": "Las restricciones comerciales a los chips obligaron a las empresas chinas a crear modelos más eficientes, dijo Graham Webster, del DigiChina Project de Stanford. “Si necesitas una capacidad relativamente de frontera, ahora mismo solo existen los modelos abiertos chinos”."
-              },
-              {
-                "t": "p",
-                "x": "Aun así, las empresas chinas afrontan límites de cómputo y la cuestión de cómo ganar dinero. “En las condiciones actuales solo se pueden comprar tantos chips”, dijo Webster. “Puede que se topen con un muro”. La monetización preocupa a todas las empresas chinas de AI, dijo Loke."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "패널: 서구 오픈 모델\n여전히 중국에 뒤처져",
-          "body": "패널은 중국 오픈웨이트 모델이 성능과 비용에서 서구를 앞서나 칩이 한계라고 봤다.",
-          "mini_headline": "오픈 모델은 중국이 선두",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
-              },
-              {
-                "t": "p",
-                "x": "미국과 유럽 기업이 내놓은 새 오픈웨이트 모델은 보안을 우려하는 중국 오픈 모델 사용자를 끌어오려 하지만, 더 많은 자원을 갖고도 성능에서는 시장을 주도하는 중국 시스템에 못 미친다고 샌프란시스코에서 열린 Rest of World 행사에서 전문가들이 말했다."
-              },
-              {
-                "t": "p",
-                "x": "저소득 국가의 기업과 정부에게는 비용이 가장 중요한 요소라고 Columbia University 조교수 Daniel Björkegren은 말했다. 그는 “저소득 국가 맥락에서는 프런티어 지능을 U.S.에 의존하는 데 대한 우려가 크다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "지난주 OpenRouter 순위표에서는 상위 다섯 개 중 네 개가 중국 모델이었고, LiveBench에서 최상위 중국 모델의 벤치마크 점수는 U.S. 경쟁 모델보다 3%만 낮았다."
-              },
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
-                "cap": "샌프란시스코 Rest of World 행사에 참석한 Kristy Loke(왼쪽)와 Daniel Björkegren."
-              },
-              {
-                "t": "p",
-                "x": "오픈 모델 덕분에 중국은 해외 시장 진출을 둘러싼 우려 일부를 피해 갈 수 있다고 MATS 연구원 Kristy Loke는 말했다. 그는 “소프트파워에 도움이 된다. 국내적으로도 좋다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "칩 무역 제한 때문에 중국 기업들은 더 효율적인 모델을 만들 수밖에 없었다고 Stanford DigiChina Project의 Graham Webster는 말했다. “비교적 프런티어급 성능이 필요하다면 지금은 중국 오픈 모델밖에 없다.”"
-              },
-              {
-                "t": "p",
-                "x": "그럼에도 중국 기업들은 컴퓨팅 한계와 수익화 문제에 직면해 있다. Webster는 “현재 여건에서는 살 수 있는 칩에 한계가 있다”며 “벽에 부딪힐 수도 있다”고 말했다. Loke는 수익화가 모든 중국 AI 기업의 고민이라고 말했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "パネル：欧米オープンモデル\nなお中国勢に及ばず",
-          "body": "中国のオープンモデルは性能と費用で欧米に勝るが、チップ制約を抱えるとパネリストは語った。",
-          "mini_headline": "オープンモデルは中国優位",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
-              },
-              {
-                "t": "p",
-                "x": "米国と欧州の企業による新しいオープンウェイトモデルは、セキュリティを懸念する中国製オープンモデルの利用者を取り込もうとしているが、より多くの資源を持ちながらも性能では支配的な中国のシステムに及ばない。サンフランシスコで開かれたRest of Worldのイベントで、専門家らがそう語った。"
-              },
-              {
-                "t": "p",
-                "x": "低所得国の企業や政府にとって最大の要因はコストだと、Columbia University助教のDaniel Björkegrenは述べた。「低所得国の文脈では、フロンティアの知能をU.S.に依存することへの懸念が大きい」と彼は語った。"
-              },
-              {
-                "t": "p",
-                "x": "先週のOpenRouterのランキングでは上位五つのうち四つが中国モデルで、LiveBenchではトップの中国モデルがベンチマークスコアでU.S.の競合をわずか3%下回るにとどまった。"
-              },
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
-                "cap": "サンフランシスコのRest of WorldイベントでのKristy Loke(左)とDaniel Björkegren。"
-              },
-              {
-                "t": "p",
-                "x": "オープンモデルによって中国は海外市場での存在感をめぐる懸念の一部を回避できると、MATSの研究フェローKristy Lokeは述べた。「ソフトパワーにとって良い。国内的にも良い」と彼女は語った。"
-              },
-              {
-                "t": "p",
-                "x": "半導体の貿易規制が中国企業により効率的なモデルの開発を迫ったと、StanfordのDigiChina ProjectのGraham Websterは述べた。「比較的フロンティアに近い能力が必要なら、今は中国のオープンモデルしかない」"
-              },
-              {
-                "t": "p",
-                "x": "それでも中国企業は計算資源の制約と、どう稼ぐかという課題を抱える。「現状では買えるチップの量に限りがある」とWebsterは言う。「壁にぶつかるかもしれない」。収益化はすべての中国AI企業にとっての懸念だとLokeは述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "座谈：西方开放模型\n仍落后于中国对手",
-          "body": "Rest of World座谈嘉宾称，中国开放模型在能力和成本上领先西方，但受芯片限制。",
-          "mini_headline": "开放模型中国领先",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
-              },
-              {
-                "t": "p",
-                "x": "专家在旧金山举行的Rest of World活动上表示，美国和欧洲公司推出的新开放权重模型希望吸引担心安全问题的中国开放模型用户，但尽管资源更多，其性能仍不及占主导地位的中国系统。"
-              },
-              {
-                "t": "p",
-                "x": "Columbia University助理教授Daniel Björkegren表示，对于低收入国家的企业和政府而言，成本是首要因素。他说：“在低收入背景下，人们非常担心在前沿智能上依赖U.S.。”"
-              },
-              {
-                "t": "p",
-                "x": "上周OpenRouter排行榜前五名中有四个是中国模型；LiveBench显示，顶尖中国模型的基准分数仅比U.S.对手低3%。"
-              },
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
-                "cap": "Kristy Loke(左)与Daniel Björkegren在旧金山的Rest of World活动上。"
-              },
-              {
-                "t": "p",
-                "x": "MATS研究员Kristy Loke表示，开放模型让中国得以绕开外界对其进入海外市场的部分担忧。她说：“这有利于软实力，对国内也有好处。”"
-              },
-              {
-                "t": "p",
-                "x": "Stanford DigiChina Project的Graham Webster表示，芯片贸易限制迫使中国公司打造更高效的模型。“如果你需要相对前沿的能力，眼下只有中国开放模型。”"
-              },
-              {
-                "t": "p",
-                "x": "不过，中国公司仍面临算力限制和如何盈利的问题。Webster说：“在当前条件下，能买到的芯片有限。”“它们可能会撞墙。”Loke表示，盈利问题困扰着每一家中国AI公司。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Panel: los modelos occidentales\nsiguen tras sus rivales chinos",
-          "body": "Panelistas de Rest of World ven a los modelos abiertos chinos por delante de Occidente, aunque con límites de chips.",
-          "mini_headline": "China lidera los modelos abiertos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/illo_chinese_US_weight.jpg?width=800&dpr=2&crop=16:9"
-              },
-              {
-                "t": "p",
-                "x": "Los nuevos modelos de pesos abiertos de empresas estadounidenses y europeas buscan atraer a los usuarios de modelos abiertos chinos preocupados por la seguridad, pero se quedan por detrás de los dominantes sistemas chinos en rendimiento pese a contar con más recursos, según dijeron expertos en un evento de Rest of World en San Francisco."
-              },
-              {
-                "t": "p",
-                "x": "Para empresas y gobiernos de países de bajos ingresos, el coste es el factor principal, dijo Daniel Björkegren, profesor adjunto de Columbia University. “En el contexto de bajos ingresos, preocupa mucho depender de U.S. para la inteligencia de frontera”, afirmó."
-              },
-              {
-                "t": "p",
-                "x": "La clasificación de OpenRouter tuvo la semana pasada cuatro modelos chinos entre sus cinco primeros, y LiveBench mostró que los mejores modelos chinos quedaban solo un 3% por detrás de sus rivales de U.S. en puntuaciones de referencia."
-              },
-              {
-                "t": "img",
-                "src": "https://fastly.restofworld.org/uploads/2026/10/Rest-of-World-Panel-2026-0373.jpg?width=800&dpr=2&crop=16:9",
-                "cap": "Kristy Loke (izquierda) y Daniel Björkegren en el evento de Rest of World en San Francisco."
-              },
-              {
-                "t": "p",
-                "x": "Los modelos abiertos permiten a China sortear algunas inquietudes sobre su presencia en mercados extranjeros, dijo Kristy Loke, investigadora de MATS. “Es bueno para el poder blando. También es bueno a nivel interno”, afirmó."
-              },
-              {
-                "t": "p",
-                "x": "Las restricciones comerciales a los chips obligaron a las empresas chinas a crear modelos más eficientes, dijo Graham Webster, del DigiChina Project de Stanford. “Si necesitas una capacidad relativamente de frontera, ahora mismo solo existen los modelos abiertos chinos”."
-              },
-              {
-                "t": "p",
-                "x": "Aun así, las empresas chinas afrontan límites de cómputo y la cuestión de cómo ganar dinero. “En las condiciones actuales solo se pueden comprar tantos chips”, dijo Webster. “Puede que se topen con un muro”. La monetización preocupa a todas las empresas chinas de AI, dijo Loke."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "politics-eu-raise",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "EU RAISE 서약 출범\n유럽 과학의 AI 지원",
-      "body": "집행위는 RAISE로 AI-in-science 연구자에게 민간·자선 지원을 모은다.",
-      "mini_headline": "EU, RAISE 서약 출범",
-      "tool": "Politics",
-      "source": "European Commission",
-      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2175",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "유럽연합 집행위원회는 더블린에서 열린 European AI in Science Summit에서 AI in Science Enablers를 위한 RAISE(Resource for AI Science in Europe) 서약 이니셔티브를 출범했다. 공공 자금만으로는 닿지 않는 부분까지 민간 부문과 자선 단체의 지원을 끌어와, 인공지능과 과학 전반에서 일하는 유럽 연구자를 돕겠다는 취지다."
+            "t": "img",
+            "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "AI in Science Strategy의 하나로 나온 이 이니셔티브는 프런티어 AI 모델 접근권, 컴퓨팅 용량, 연구용 소프트웨어 라이선스, 데이터, 교육 같은 현물 기여를 한곳에 모은다. 첫 약정은 Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral, Google DeepMind가 내놓았다."
+            "x": "북한은 토요일 새 AI-powered(AI 기반) 어뢰 체계를 시험했다고 밝혔다. 최근 잇따른 무기 시연의 연장선이다."
           },
           {
             "t": "p",
-            "x": "이 틀 안에서 Mistral AI와 CERN은 물리학 분야 최대 규모가 될 파운데이션 모델을 함께 개발하기로 했다. 서약은 직접적인 상업적 이해를 넘어 과학 AI를 꾸준히 돕겠다는 뜻을 보여야 하고, 이니셔티브는 해마다 검토를 받는다."
+            "x": "북한 국영 통신사 KCNA는 이번 시험에 “초고속·정밀 유도” Zam-2.0 어뢰 체계가 쓰였다고 보도했다. 이 체계는 인공지능으로 표적 탐지와 유도를 돕는다. 보도에 따르면 이번 시험에서 무기의 추진 체계를 검증했다."
           },
           {
             "t": "p",
-            "x": "집행위원회는 연구에서 에이전트형 AI를 포함한 생성형 AI를 책임 있게 쓰도록 돕는 Living Guidelines 개정판도 내놓았다. RAISE Hub, Forum, Observatory도 함께 출범했다."
+            "x": "북한은 앞서 수요일에도 수중 발사 전략순항미사일 두 종류를 시험했다. 해군력 강화 행보로 보이며 미사일은 잠수함에서 발사된 것으로 추정된다."
+          },
+          {
+            "t": "p",
+            "x": "최근 몇 주 동안 북한은 탄도미사일도 여러 차례 시험했다. 이웃 한국과의 긴장이 커지는 가운데 무기고를 늘리려는 움직임이다."
+          },
+          {
+            "t": "p",
+            "x": "8월 도널드 트럼프 미국 대통령은 두 사람의 관계를 다시 내세우며 북한 지도자 김정은이 “매우 강력한 핵무기 57개”를 보유하고 있다고 기자들에게 말했다. 당시 트럼프는 올해 안에 김정은을 만날 생각이라고 했지만 구체적인 계획은 밝히지 않았다."
           }
         ]
       },
+      "_lead_image": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "EU launches RAISE pledges\nfor AI in European science",
-          "body": "In Dublin, the Commission launched RAISE to mobilise private and philanthropic support for AI-in-science researchers.",
-          "mini_headline": "EU launches RAISE pledges",
+          "headline": "North Korea says it tested\nan AI-guided torpedo",
+          "body": "According to KCNA, North Korea tested the Zam-2.0 torpedo, which uses AI to aid target detection and guidance.",
+          "mini_headline": "N. Korea claims AI torpedo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "At the European AI in Science Summit in Dublin, the European Commission launched the RAISE (Resource for AI Science in Europe) pledging initiative for AI in Science Enablers. It aims to mobilise private-sector and philanthropic support for European researchers working across artificial intelligence and science, beyond what public funding alone can provide."
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Part of the AI in Science Strategy, it brings together in-kind contributions such as access to frontier AI models, computing capacity, research software licences, data and training. Initial commitments have been made by the Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral, and Google DeepMind."
+                "x": "North Korea said on Saturday that it had tested a new AI-powered torpedo system as it continues a wave of recent weapons demonstrations."
               },
               {
                 "t": "p",
-                "x": "As part of the initiative, Mistral AI and CERN launched a partnership to develop what is set to become the largest foundation model in physics. Pledges must show sustained support for AI in science beyond direct commercial interests, and the initiative will be reviewed annually."
+                "x": "The country's KCNA state news agency reported that the test involved the \"super-speed, precisely guided\" Zam-2.0 torpedo system, which it said uses artificial intelligence to aid with target detection and guidance. The report said the test had verified the weapon's propulsion systems."
               },
               {
                 "t": "p",
-                "x": "The Commission also presented updated Living Guidelines on the Responsible Use of Generative AI in Research, including agentic AI, and launched the RAISE Hub, Forum and Observatory."
+                "x": "It comes after North Korea also tested two types of underwater-launched strategic cruise missiles on Wednesday as part of what is believed to be a push to bolster its naval capabilities. The missiles are thought to have been fired from a submarine."
+              },
+              {
+                "t": "p",
+                "x": "North Korea has also carried out a number of ballistic missile tests in recent weeks as it seeks to build up its arsenal amid growing tensions with neighbouring South Korea."
+              },
+              {
+                "t": "p",
+                "x": "In August, US President Donald Trump told reporters that North Korean leader Kim Jong-un had \"57 very powerful nuclear weapons\" as he once again touted the pair's relationship. Trump said at the time that he intended to meet with Kim later this year, although he gave no further details on the plan."
               }
             ]
           }
         },
         "ko": {
-          "headline": "EU RAISE 서약 출범\n유럽 과학의 AI 지원",
-          "body": "집행위는 RAISE로 AI-in-science 연구자에게 민간·자선 지원을 모은다.",
-          "mini_headline": "EU, RAISE 서약 출범",
+          "headline": "북한, AI-guided\n어뢰 시험 주장",
+          "body": "북한 KCNA가 AI로 표적 탐지·유도를 돕는 Zam-2.0 어뢰의 시험을 알렸다.",
+          "mini_headline": "북한, AI 어뢰 시험 주장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "유럽연합 집행위원회는 더블린에서 열린 European AI in Science Summit에서 AI in Science Enablers를 위한 RAISE(Resource for AI Science in Europe) 서약 이니셔티브를 출범했다. 공공 자금만으로는 닿지 않는 부분까지 민간 부문과 자선 단체의 지원을 끌어와, 인공지능과 과학 전반에서 일하는 유럽 연구자를 돕겠다는 취지다."
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "AI in Science Strategy의 하나로 나온 이 이니셔티브는 프런티어 AI 모델 접근권, 컴퓨팅 용량, 연구용 소프트웨어 라이선스, 데이터, 교육 같은 현물 기여를 한곳에 모은다. 첫 약정은 Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral, Google DeepMind가 내놓았다."
+                "x": "북한은 토요일 새 AI-powered(AI 기반) 어뢰 체계를 시험했다고 밝혔다. 최근 잇따른 무기 시연의 연장선이다."
               },
               {
                 "t": "p",
-                "x": "이 틀 안에서 Mistral AI와 CERN은 물리학 분야 최대 규모가 될 파운데이션 모델을 함께 개발하기로 했다. 서약은 직접적인 상업적 이해를 넘어 과학 AI를 꾸준히 돕겠다는 뜻을 보여야 하고, 이니셔티브는 해마다 검토를 받는다."
+                "x": "북한 국영 통신사 KCNA는 이번 시험에 “초고속·정밀 유도” Zam-2.0 어뢰 체계가 쓰였다고 보도했다. 이 체계는 인공지능으로 표적 탐지와 유도를 돕는다. 보도에 따르면 이번 시험에서 무기의 추진 체계를 검증했다."
               },
               {
                 "t": "p",
-                "x": "집행위원회는 연구에서 에이전트형 AI를 포함한 생성형 AI를 책임 있게 쓰도록 돕는 Living Guidelines 개정판도 내놓았다. RAISE Hub, Forum, Observatory도 함께 출범했다."
+                "x": "북한은 앞서 수요일에도 수중 발사 전략순항미사일 두 종류를 시험했다. 해군력 강화 행보로 보이며 미사일은 잠수함에서 발사된 것으로 추정된다."
+              },
+              {
+                "t": "p",
+                "x": "최근 몇 주 동안 북한은 탄도미사일도 여러 차례 시험했다. 이웃 한국과의 긴장이 커지는 가운데 무기고를 늘리려는 움직임이다."
+              },
+              {
+                "t": "p",
+                "x": "8월 도널드 트럼프 미국 대통령은 두 사람의 관계를 다시 내세우며 북한 지도자 김정은이 “매우 강력한 핵무기 57개”를 보유하고 있다고 기자들에게 말했다. 당시 트럼프는 올해 안에 김정은을 만날 생각이라고 했지만 구체적인 계획은 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EUがRAISE誓約始動\n欧州科学のAIを後押し",
-          "body": "欧州委はRAISEを始動し、AI-in-science研究者への民間・慈善支援を募る。",
-          "mini_headline": "EUがRAISE誓約を始動",
+          "headline": "北朝鮮、AI-guided\n魚雷を試験と発表",
+          "body": "KCNAによると、北朝鮮はAIで標的探知と誘導を支援するZam-2.0魚雷を試験した。",
+          "mini_headline": "北朝鮮、AI魚雷を主張",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ダブリンで開かれたEuropean AI in Science Summitで、欧州委員会はAI in Science Enablersを対象とするRAISE(Resource for AI Science in Europe)の誓約イニシアチブを立ち上げた。公的資金だけで賄える範囲を超えて、人工知能と科学の両分野で活動する欧州の研究者に向け、民間セクターや慈善団体の支援を引き出すことを狙う。"
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "AI in Science Strategyの一環として、最先端AIモデルへのアクセス、計算能力、研究用ソフトウェアのライセンス、データ、トレーニングといった現物提供を束ねる。初期のコミットメントはNovo Nordisk Foundation、Nvidia、Elsevier、Sanofi、Frontiers、Mistral、Google DeepMindが表明した。"
+                "x": "北朝鮮は土曜日、最近相次ぐ兵器の誇示の一環として、新たなAI-powered（AI搭載）魚雷システムを試験したと発表した。"
               },
               {
                 "t": "p",
-                "x": "この取り組みの一環として、Mistral AIとCERNは物理学で最大となる見込みの基盤モデルを開発する提携を始めた。誓約は直接の商業的利益を超えて科学向けAIを継続的に支えることを示す必要があり、イニシアチブは毎年見直される。"
+                "x": "国営のKCNAは、試験には「超高速・精密誘導」のZam-2.0魚雷システムが用いられ、同システムは人工知能を使って標的の探知と誘導を支援すると報じた。報道によると、試験で兵器の推進システムが検証されたという。"
               },
               {
                 "t": "p",
-                "x": "欧州委員会はまた、エージェント型AIを含む研究における生成AIの責任ある利用に関するLiving Guidelinesの改訂版を示し、RAISE Hub、Forum、Observatoryを立ち上げた。"
+                "x": "北朝鮮はこれに先立つ水曜日にも、海軍力強化の動きの一環とみられる水中発射型の戦略巡航ミサイル2種類を試験していた。ミサイルは潜水艦から発射されたとみられる。"
+              },
+              {
+                "t": "p",
+                "x": "北朝鮮は隣国の韓国との緊張が高まる中、兵器の増強を図り、ここ数週間で複数回の弾道ミサイル試験も実施している。"
+              },
+              {
+                "t": "p",
+                "x": "8月には、ドナルド・トランプ米大統領が記者団に対し、北朝鮮の指導者である金正恩氏が「非常に強力な核兵器を57個」保有していると語り、改めて両者の関係をアピールした。トランプ氏は当時、年内に金氏と会談する意向を示したが、計画の詳細は明らかにしなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU启动RAISE承诺\n支持欧洲科学中的AI",
-          "body": "欧盟委员会在都柏林启动RAISE，为AI-in-science研究者动员私人与慈善支持。",
-          "mini_headline": "EU启动RAISE承诺",
+          "headline": "朝鲜称测试了\nAI-guided鱼雷",
+          "body": "据KCNA报道，朝鲜测试了借助AI辅助目标探测与制导的Zam-2.0鱼雷。",
+          "mini_headline": "朝鲜称测试AI鱼雷",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "在都柏林举行的European AI in Science Summit上，欧盟委员会为AI in Science Enablers启动了RAISE(Resource for AI Science in Europe)承诺倡议。该倡议旨在动员私营部门和慈善界的支持，在公共资金之外，为横跨人工智能与科学领域的欧洲研究人员提供助力。"
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "作为AI in Science Strategy的一部分，该倡议汇集前沿AI模型使用权、算力、科研软件许可、数据和培训等实物贡献。Novo Nordisk Foundation、Nvidia、Elsevier、Sanofi、Frontiers、Mistral和Google DeepMind已作出首批承诺。"
+                "x": "朝鲜周六表示，已测试一款新型AI-powered（AI驱动）鱼雷系统，近期一系列武器展示仍在持续。"
               },
               {
                 "t": "p",
-                "x": "作为倡议的一部分，Mistral AI与CERN启动合作，开发有望成为物理学领域最大的基础模型。承诺必须体现超越直接商业利益、对科学AI的持续支持，该倡议每年接受审查。"
+                "x": "朝鲜国营通讯社KCNA报道称，此次测试涉及“超高速、精确制导”的Zam-2.0鱼雷系统，并称该系统利用人工智能辅助目标探测和制导。报道称，测试验证了该武器的推进系统。"
               },
               {
                 "t": "p",
-                "x": "欧盟委员会还发布了关于在研究中负责任地使用生成式AI的更新版Living Guidelines，内容涵盖智能体AI，并启动了RAISE Hub、Forum和Observatory。"
+                "x": "此前，朝鲜周三还测试了两种水下发射的战略巡航导弹，外界认为此举旨在增强其海军能力。据信这些导弹是从潜艇发射的。"
+              },
+              {
+                "t": "p",
+                "x": "近几周，朝鲜还进行了多次弹道导弹试射，在与邻国韩国紧张关系加剧之际扩充武器库。"
+              },
+              {
+                "t": "p",
+                "x": "8月，美国总统唐纳德·特朗普对记者表示，朝鲜领导人金正恩拥有“57件非常强大的核武器”，并再次称道两人的关系。特朗普当时表示，他打算在今年晚些时候与金正恩会面，但未透露该计划的更多细节。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La EU lanza el compromiso RAISE\npara la AI en la ciencia europea",
-          "body": "En Dublín, la Comisión lanzó RAISE para movilizar apoyo privado y filantrópico a investigadores de AI-in-science.",
-          "mini_headline": "La EU lanza los compromisos RAISE",
+          "headline": "Corea del Norte afirma haber\nprobado un torpedo AI-guided",
+          "body": "Según KCNA, Corea del Norte probó el torpedo Zam-2.0, que usa IA en la detección de objetivos y el guiado.",
+          "mini_headline": "Corea del Norte dice tener un torpedo con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "En la European AI in Science Summit de Dublín, la Comisión Europea lanzó la iniciativa de compromisos RAISE (Resource for AI Science in Europe) para AI in Science Enablers. Su objetivo es movilizar apoyo del sector privado y filantrópico para los investigadores europeos que trabajan entre la inteligencia artificial y la ciencia, más allá de lo que puede aportar la financiación pública por sí sola."
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Parte de la AI in Science Strategy, reúne contribuciones en especie como acceso a modelos de AI de frontera, capacidad de computación, licencias de software de investigación, datos y formación. Los primeros compromisos proceden de la Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral y Google DeepMind."
+                "x": "Corea del Norte afirmó el sábado que había probado un nuevo sistema de torpedo AI-powered (impulsado por IA), en medio de una serie de recientes demostraciones de armamento."
               },
               {
                 "t": "p",
-                "x": "Dentro de la iniciativa, Mistral AI y el CERN pusieron en marcha una alianza para desarrollar el que será el mayor modelo fundacional de la física. Los compromisos deben demostrar un apoyo sostenido a la AI en la ciencia más allá de intereses comerciales directos, y la iniciativa se revisará cada año."
+                "x": "La agencia estatal de noticias KCNA informó que la prueba involucró el sistema de torpedo Zam-2.0, de «súper velocidad y guiado de precisión», que según dijo utiliza inteligencia artificial para ayudar en la detección de objetivos y el guiado. El informe señaló que la prueba verificó los sistemas de propulsión del arma."
               },
               {
                 "t": "p",
-                "x": "La Comisión también presentó unas Living Guidelines actualizadas sobre el uso responsable de la AI generativa en la investigación, que incluyen la AI agéntica, y lanzó el RAISE Hub, el Forum y el Observatory."
+                "x": "La prueba se produce después de que Corea del Norte también probara el miércoles dos tipos de misiles de crucero estratégicos lanzados bajo el agua, como parte de lo que se cree que es un impulso para reforzar sus capacidades navales. Se cree que los misiles fueron disparados desde un submarino."
+              },
+              {
+                "t": "p",
+                "x": "Corea del Norte también ha realizado varias pruebas de misiles balísticos en las últimas semanas, mientras busca ampliar su arsenal en medio de crecientes tensiones con su vecina Corea del Sur."
+              },
+              {
+                "t": "p",
+                "x": "En agosto, el presidente de EE. UU., Donald Trump, dijo a los periodistas que el líder norcoreano Kim Jong-un tenía «57 armas nucleares muy poderosas», al tiempo que volvía a destacar la relación entre ambos. Trump dijo entonces que tenía la intención de reunirse con Kim más adelante este año, aunque no dio más detalles sobre el plan."
               }
             ]
           }
@@ -963,105 +549,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "EU RAISE 서약 출범\n유럽 과학의 AI 지원",
-          "body": "집행위는 RAISE로 AI-in-science 연구자에 민간·자선 지원을 모은다.",
-          "mini_headline": "EU, RAISE 서약 출범",
+          "headline": "북한, AI-guided\n어뢰 시험 주장",
+          "body": "북한 KCNA는 AI로 표적 탐지·유도를 돕는 Zam-2.0 어뢰 시험을 전했다.",
+          "mini_headline": "북한, AI 어뢰 시험 주장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "더블린에서 열린 European AI in Science Summit에서 유럽연합 집행위원회는 AI in Science Enablers를 위한 RAISE(Resource for AI Science in Europe) 서약 이니셔티브를 출범했다. 공공 자금만으로 감당할 수 있는 범위를 넘어, 인공지능과 과학 전반에서 일하는 유럽 연구자를 위해 민간 부문과 자선 단체의 지원을 끌어내는 것이 목표다."
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "AI in Science Strategy의 일환인 이 이니셔티브는 프런티어 AI 모델 접근권, 컴퓨팅 용량, 연구용 소프트웨어 라이선스, 데이터, 교육 같은 현물 기여를 한데 모은다. Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral, Google DeepMind가 첫 약정을 내놓았다."
+                "x": "북한은 토요일, 최근 이어지는 무기 시연의 하나로 새 AI-powered(AI 기반) 어뢰 체계를 시험했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "이니셔티브의 일환으로 Mistral AI와 CERN은 물리학 분야 최대 규모가 될 파운데이션 모델을 개발하는 협력을 시작했다. 서약은 직접적인 상업적 이해를 넘어 과학 AI를 꾸준히 지원한다는 점을 보여야 하며, 이니셔티브는 매년 검토를 거친다."
+                "x": "북한 국영 통신사 KCNA는 이번 시험에 “초고속·정밀 유도” Zam-2.0 어뢰 체계가 쓰였으며, 이 체계가 인공지능으로 표적 탐지와 유도를 돕는다고 보도했다. 보도에 따르면 이번 시험으로 무기의 추진 체계를 검증했다."
               },
               {
                 "t": "p",
-                "x": "집행위원회는 에이전트형 AI를 포함해 연구에서 생성형 AI를 책임 있게 쓰기 위한 Living Guidelines 개정판도 내놓았고, RAISE Hub, Forum, Observatory도 출범했다."
+                "x": "이에 앞서 북한은 수요일 해군력 강화 행보의 일환으로 보이는 수중 발사 전략순항미사일 두 종류도 시험했다. 이 미사일들은 잠수함에서 발사된 것으로 추정된다."
+              },
+              {
+                "t": "p",
+                "x": "북한은 이웃 한국과의 긴장이 커지는 가운데 무기고를 늘리려 최근 몇 주간 여러 차례 탄도미사일 시험도 진행했다."
+              },
+              {
+                "t": "p",
+                "x": "8월 도널드 트럼프 미국 대통령은 두 사람의 관계를 다시 내세우며 북한 지도자 김정은이 “매우 강력한 핵무기 57개”를 보유하고 있다고 기자들에게 말했다. 트럼프는 당시 올해 안에 김정은을 만날 생각이라고 했지만, 계획에 대한 구체적인 내용은 밝히지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EUがRAISE誓約始動\n欧州科学のAIを後押し",
-          "body": "欧州委はRAISEを始動し、AI-in-science研究者への民間・慈善支援を募る。",
-          "mini_headline": "EUがRAISE誓約を始動",
+          "headline": "北朝鮮、AI-guided\n魚雷を試験と発表",
+          "body": "KCNAによると、北朝鮮はAIで標的探知と誘導を支援するZam-2.0魚雷を試験した。",
+          "mini_headline": "北朝鮮、AI魚雷を主張",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ダブリンで開かれたEuropean AI in Science Summitで、欧州委員会はAI in Science Enablersを対象とするRAISE(Resource for AI Science in Europe)の誓約イニシアチブを立ち上げた。公的資金だけで賄える範囲を超えて、人工知能と科学の両分野で活動する欧州の研究者に向け、民間セクターや慈善団体の支援を引き出すことを狙う。"
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "AI in Science Strategyの一環として、最先端AIモデルへのアクセス、計算能力、研究用ソフトウェアのライセンス、データ、トレーニングといった現物提供を束ねる。初期のコミットメントはNovo Nordisk Foundation、Nvidia、Elsevier、Sanofi、Frontiers、Mistral、Google DeepMindが表明した。"
+                "x": "北朝鮮は土曜日、最近相次ぐ兵器の誇示の一環として、新たなAI-powered（AI搭載）魚雷システムを試験したと発表した。"
               },
               {
                 "t": "p",
-                "x": "この取り組みの一環として、Mistral AIとCERNは物理学で最大となる見込みの基盤モデルを開発する提携を始めた。誓約は直接の商業的利益を超えて科学向けAIを継続的に支えることを示す必要があり、イニシアチブは毎年見直される。"
+                "x": "国営のKCNAは、試験には「超高速・精密誘導」のZam-2.0魚雷システムが用いられ、同システムは人工知能を使って標的の探知と誘導を支援すると報じた。報道によると、試験で兵器の推進システムが検証されたという。"
               },
               {
                 "t": "p",
-                "x": "欧州委員会はまた、エージェント型AIを含む研究における生成AIの責任ある利用に関するLiving Guidelinesの改訂版を示し、RAISE Hub、Forum、Observatoryを立ち上げた。"
+                "x": "北朝鮮はこれに先立つ水曜日にも、海軍力強化の動きの一環とみられる水中発射型の戦略巡航ミサイル2種類を試験していた。ミサイルは潜水艦から発射されたとみられる。"
+              },
+              {
+                "t": "p",
+                "x": "北朝鮮は隣国の韓国との緊張が高まる中、兵器の増強を図り、ここ数週間で複数回の弾道ミサイル試験も実施している。"
+              },
+              {
+                "t": "p",
+                "x": "8月には、ドナルド・トランプ米大統領が記者団に対し、北朝鮮の指導者である金正恩氏が「非常に強力な核兵器を57個」保有していると語り、改めて両者の関係をアピールした。トランプ氏は当時、年内に金氏と会談する意向を示したが、計画の詳細は明らかにしなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "EU启动RAISE承诺\n支持欧洲科学中的AI",
-          "body": "欧盟委员会在都柏林启动RAISE，为AI-in-science研究者动员私人与慈善支持。",
-          "mini_headline": "EU启动RAISE承诺",
+          "headline": "朝鲜称测试了\nAI-guided鱼雷",
+          "body": "据KCNA报道，朝鲜测试了借助AI辅助目标探测与制导的Zam-2.0鱼雷。",
+          "mini_headline": "朝鲜称测试AI鱼雷",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "在都柏林举行的European AI in Science Summit上，欧盟委员会为AI in Science Enablers启动了RAISE(Resource for AI Science in Europe)承诺倡议。该倡议旨在动员私营部门和慈善界的支持，在公共资金之外，为横跨人工智能与科学领域的欧洲研究人员提供助力。"
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "作为AI in Science Strategy的一部分，该倡议汇集前沿AI模型使用权、算力、科研软件许可、数据和培训等实物贡献。Novo Nordisk Foundation、Nvidia、Elsevier、Sanofi、Frontiers、Mistral和Google DeepMind已作出首批承诺。"
+                "x": "朝鲜周六表示，已测试一款新型AI-powered（AI驱动）鱼雷系统，近期一系列武器展示仍在持续。"
               },
               {
                 "t": "p",
-                "x": "作为倡议的一部分，Mistral AI与CERN启动合作，开发有望成为物理学领域最大的基础模型。承诺必须体现超越直接商业利益、对科学AI的持续支持，该倡议每年接受审查。"
+                "x": "朝鲜国营通讯社KCNA报道称，此次测试涉及“超高速、精确制导”的Zam-2.0鱼雷系统，并称该系统利用人工智能辅助目标探测和制导。报道称，测试验证了该武器的推进系统。"
               },
               {
                 "t": "p",
-                "x": "欧盟委员会还发布了关于在研究中负责任地使用生成式AI的更新版Living Guidelines，内容涵盖智能体AI，并启动了RAISE Hub、Forum和Observatory。"
+                "x": "此前，朝鲜周三还测试了两种水下发射的战略巡航导弹，外界认为此举旨在增强其海军能力。据信这些导弹是从潜艇发射的。"
+              },
+              {
+                "t": "p",
+                "x": "近几周，朝鲜还进行了多次弹道导弹试射，在与邻国韩国紧张关系加剧之际扩充武器库。"
+              },
+              {
+                "t": "p",
+                "x": "8月，美国总统唐纳德·特朗普对记者表示，朝鲜领导人金正恩拥有“57件非常强大的核武器”，并再次称道两人的关系。特朗普当时表示，他打算在今年晚些时候与金正恩会面，但未透露该计划的更多细节。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La EU lanza el compromiso RAISE\npara la AI en la ciencia europea",
-          "body": "En Dublín, la Comisión lanzó RAISE para movilizar apoyo privado y filantrópico a investigadores de AI-in-science.",
-          "mini_headline": "La EU lanza los compromisos RAISE",
+          "headline": "Corea del Norte afirma haber\nprobado un torpedo AI-guided",
+          "body": "Según KCNA, Corea del Norte probó el torpedo Zam-2.0, que usa IA en la detección de objetivos y el guiado.",
+          "mini_headline": "Corea del Norte dice tener un torpedo con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "En la European AI in Science Summit de Dublín, la Comisión Europea lanzó la iniciativa de compromisos RAISE (Resource for AI Science in Europe) para AI in Science Enablers. Su objetivo es movilizar apoyo del sector privado y filantrópico para los investigadores europeos que trabajan entre la inteligencia artificial y la ciencia, más allá de lo que puede aportar la financiación pública por sí sola."
+                "t": "img",
+                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Parte de la AI in Science Strategy, reúne contribuciones en especie como acceso a modelos de AI de frontera, capacidad de computación, licencias de software de investigación, datos y formación. Los primeros compromisos proceden de la Novo Nordisk Foundation, Nvidia, Elsevier, Sanofi, Frontiers, Mistral y Google DeepMind."
+                "x": "Corea del Norte afirmó el sábado que había probado un nuevo sistema de torpedo AI-powered (impulsado por IA), en medio de una serie de recientes demostraciones de armamento."
               },
               {
                 "t": "p",
-                "x": "Dentro de la iniciativa, Mistral AI y el CERN pusieron en marcha una alianza para desarrollar el que será el mayor modelo fundacional de la física. Los compromisos deben demostrar un apoyo sostenido a la AI en la ciencia más allá de intereses comerciales directos, y la iniciativa se revisará cada año."
+                "x": "La agencia estatal de noticias KCNA informó que la prueba involucró el sistema de torpedo Zam-2.0, de «súper velocidad y guiado de precisión», que según dijo utiliza inteligencia artificial para ayudar en la detección de objetivos y el guiado. El informe señaló que la prueba verificó los sistemas de propulsión del arma."
               },
               {
                 "t": "p",
-                "x": "La Comisión también presentó unas Living Guidelines actualizadas sobre el uso responsable de la AI generativa en la investigación, que incluyen la AI agéntica, y lanzó el RAISE Hub, el Forum y el Observatory."
+                "x": "La prueba se produce después de que Corea del Norte también probara el miércoles dos tipos de misiles de crucero estratégicos lanzados bajo el agua, como parte de lo que se cree que es un impulso para reforzar sus capacidades navales. Se cree que los misiles fueron disparados desde un submarino."
+              },
+              {
+                "t": "p",
+                "x": "Corea del Norte también ha realizado varias pruebas de misiles balísticos en las últimas semanas, mientras busca ampliar su arsenal en medio de crecientes tensiones con su vecina Corea del Sur."
+              },
+              {
+                "t": "p",
+                "x": "En agosto, el presidente de EE. UU., Donald Trump, dijo a los periodistas que el líder norcoreano Kim Jong-un tenía «57 armas nucleares muy poderosas», al tiempo que volvía a destacar la relación entre ambos. Trump dijo entonces que tenía la intención de reunirse con Kim más adelante este año, aunque no dio más detalles sobre el plan."
               }
             ]
           }
@@ -1069,219 +691,173 @@
       }
     },
     {
-      "id": "politics-eu-ai-act-pressure",
+      "id": "politics-duv-controls",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "빅테크, EU에 AI법\n전면 손질 압박",
-      "body": "Microsoft는 EU AI법 재검토를 촉구했고 집행위는 충분하다고 맞선다.",
-      "mini_headline": "빅테크, AI Act 손질 압박",
+      "headline": "Saif Khan, DUV\n수출 통제를 주장",
+      "body": "Khan은 DUV 수출을 막으면 중국 AI 칩 생산을 묶어 둘 수 있다고 본다.",
+      "mini_headline": "DUV 통제 옹호론",
       "tool": "Politics",
-      "source": "POLITICO Europe",
-      "url": "https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/",
+      "source": "ChinaTalk",
+      "url": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
-          },
-          {
             "t": "p",
-            "x": "DUBLIN — AI 에이전트가 통제를 벗어난 사건이 잇따른 여름이 지나자, Microsoft와 Google 최고위 인사들이 EU의 2024년 인공지능법(Artificial Intelligence Act)이 아직 제 목적에 맞는지 공개적으로 의문을 던졌다."
-          },
-          {
-            "t": "p",
-            "x": "Microsoft의 Brad Smith 사장은 Decoded by POLITICO에 유럽 당국자들이 현행 규칙이 적절한지 다시 따져봐야 한다고 말했다. Google DeepMind 공동창업자 Demis Hassabis는 AI Act를 직접 거론하지 않은 채 무대에서 “삼 년 전 일을 두고 법을 만든다면 오늘날엔 시대에 뒤떨어질 것”이라고 했다."
-          },
-          {
-            "t": "p",
-            "x": "집행위원회 당국자들은 법이 충분히 강력하다는 입장이다. EU 기술 담당 수장 Henna Virkkunen은 이 법이 AI 에이전트를 다루기에 “잘 갖춰져 있다”고 했고, Michael McGrath 법무 담당 집행위원은 “지금으로선 만족한다”고 말했다."
+            "x": "ChinaTalk 팟캐스트에서 Saif Khan이 CTS의 첫 주요 보고서를 소개한다. 그는 전 NSC·상무부 관리로, IFP-affiliated(IFP 계열) 싱크탱크인 Center for Technology and Statecraft(CTS)를 출범시키고 있다. 선임 연구원 Nick Brown이 이끈 보고서는 DUV 액침 노광을 깊이 파고든다."
           },
           {
             "t": "img",
-            "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
-            "cap": "일부 EU 정부는 AI Act에 허점이 있다고 결론 내렸다. | Michele Spatari/NurPhoto via Getty Images"
+            "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "일부 EU 정부는 빈틈이 있다고 본다. POLITICO가 입수한 헝가리 문서는 이 법이 대체로 모델이 시장에 나온 뒤에야 적용된다면서 “2026년 사건들은 그 이전에 일어났다”고 짚었다. 체코의 AI 특사 Lukáš Kačena는 “AI Act로는 결코 충분하지 않을 것”이라고 말했다."
+            "x": "Khan에 따르면 이 장비를 만드는 나라는 일본과 네덜란드뿐이고, Huawei는 가장 앞선 7nm 칩을 이 장비로 만든다. 중국이 상업용 국산 장비를 갖추기는 mid-2030s까지 어렵다는 게 그의 말이다. 2023년 통제 뒤에도 덜 앞선 DUV 액침 장비 일부는 여전히 중국에 들어갈 수 있었고, 약 170~180대이던 설치 기반은 그 사이 대략 두 배로 늘었다."
+          },
+          {
+            "t": "p",
+            "x": "보고서 전망에 따르면 미국은 mid-2030s까지 연간 십억 개 안팎의 H100-equivalent(H100 환산) 칩을 생산할 수 있다. 반면 지금 DUV 액침 장비 수출을 막으면 중국의 자체 생산량은 연간 천만 개 수준에 묶일 가능성이 크다. 의회가 DUV 통제 가능성을 담은 MATCH Act를 논의하는 지금, Khan은 이것이 US-China AI 격차를 좌우할 가장 중요한 지렛대일 수 있다고 말한다."
           }
         ]
       },
+      "_lead_image": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "Big Tech presses the EU\nto revamp its AI Act",
-          "body": "Microsoft's Brad Smith says the EU should revisit its AI Act, as Commission officials insist the law is strong enough.",
-          "mini_headline": "Big Tech pushes AI Act rework",
+          "headline": "Saif Khan makes the case\nfor DUV export controls",
+          "body": "Former NSC official Saif Khan argues that halting DUV immersion tool exports could cap China's AI chip output.",
+          "mini_headline": "The case for DUV controls",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
-              },
-              {
                 "t": "p",
-                "x": "DUBLIN — Top bosses from Microsoft and Google have openly questioned whether the EU's 2024 Artificial Intelligence Act still fits the purpose, after a summer of incidents involving AI agents going rogue."
-              },
-              {
-                "t": "p",
-                "x": "Microsoft President Brad Smith told Decoded by POLITICO that European officials should reconsider the relevance of the current rules. “If you legislate for something three years ago, it would be out of date today,” Google DeepMind co-founder Demis Hassabis said on stage, without referring to the AI Act."
-              },
-              {
-                "t": "p",
-                "x": "Commission officials insist the law is strong enough. EU tech chief Henna Virkkunen said it is “well-equipped” to handle AI agents. “We are satisfied for now,” Justice Commissioner Michael McGrath said."
+                "x": "On the ChinaTalk podcast, Saif Khan — a former NSC and Commerce official now launching the Center for Technology and Statecraft (CTS), an IFP-affiliated think tank — discusses CTS’s first major report, a deep dive into DUV immersion lithography led by senior fellow Nick Brown."
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
-                "cap": "Some EU governments have concluded that the AI Act has loopholes. | Michele Spatari/NurPhoto via Getty Images"
+                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Some EU governments see gaps. A Hungarian paper seen by POLITICO notes the Act largely applies once a model is placed on the market: “The 2026 incidents occurred before that point.” Czech AI envoy Lukáš Kačena said: “The AI Act will never be enough.”"
+                "x": "Khan says Japan and the Netherlands are the sole producers of these tools, which Huawei uses for its most advanced 7nm chips, and that China likely won’t have a commercial indigenous tool until the mid-2030s. Controls from 2023 still let some less advanced DUV immersion tools into China; the installed base of roughly 170–180 tools has since roughly doubled."
+              },
+              {
+                "t": "p",
+                "x": "The report projects the US could produce something like a billion H100-equivalent chips a year by the mid-2030s, while stopping DUV immersion exports today would likely cap China’s indigenous output around ten million a year. Khan calls it possibly the most consequential lever over the US-China AI gap, as Congress debates the MATCH Act, which includes potential DUV controls."
               }
             ]
           }
         },
         "ko": {
-          "headline": "빅테크, EU에 AI법\n전면 손질 압박",
-          "body": "Microsoft는 EU AI법 재검토를 촉구했고 집행위는 충분하다고 맞선다.",
-          "mini_headline": "빅테크, AI Act 손질 압박",
+          "headline": "Saif Khan, DUV\n수출 통제를 주장",
+          "body": "Khan은 DUV 수출을 막으면 중국 AI 칩 생산을 묶어 둘 수 있다고 본다.",
+          "mini_headline": "DUV 통제 옹호론",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
-              },
-              {
                 "t": "p",
-                "x": "DUBLIN — AI 에이전트가 통제를 벗어난 사건이 잇따른 여름이 지나자, Microsoft와 Google 최고위 인사들이 EU의 2024년 인공지능법(Artificial Intelligence Act)이 아직 제 목적에 맞는지 공개적으로 의문을 던졌다."
-              },
-              {
-                "t": "p",
-                "x": "Microsoft의 Brad Smith 사장은 Decoded by POLITICO에 유럽 당국자들이 현행 규칙이 적절한지 다시 따져봐야 한다고 말했다. Google DeepMind 공동창업자 Demis Hassabis는 AI Act를 직접 거론하지 않은 채 무대에서 “삼 년 전 일을 두고 법을 만든다면 오늘날엔 시대에 뒤떨어질 것”이라고 했다."
-              },
-              {
-                "t": "p",
-                "x": "집행위원회 당국자들은 법이 충분히 강력하다는 입장이다. EU 기술 담당 수장 Henna Virkkunen은 이 법이 AI 에이전트를 다루기에 “잘 갖춰져 있다”고 했고, Michael McGrath 법무 담당 집행위원은 “지금으로선 만족한다”고 말했다."
+                "x": "ChinaTalk 팟캐스트에서 Saif Khan이 CTS의 첫 주요 보고서를 소개한다. 그는 전 NSC·상무부 관리로, IFP-affiliated(IFP 계열) 싱크탱크인 Center for Technology and Statecraft(CTS)를 출범시키고 있다. 선임 연구원 Nick Brown이 이끈 보고서는 DUV 액침 노광을 깊이 파고든다."
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
-                "cap": "일부 EU 정부는 AI Act에 허점이 있다고 결론 내렸다. | Michele Spatari/NurPhoto via Getty Images"
+                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "일부 EU 정부는 빈틈이 있다고 본다. POLITICO가 입수한 헝가리 문서는 이 법이 대체로 모델이 시장에 나온 뒤에야 적용된다면서 “2026년 사건들은 그 이전에 일어났다”고 짚었다. 체코의 AI 특사 Lukáš Kačena는 “AI Act로는 결코 충분하지 않을 것”이라고 말했다."
+                "x": "Khan에 따르면 이 장비를 만드는 나라는 일본과 네덜란드뿐이고, Huawei는 가장 앞선 7nm 칩을 이 장비로 만든다. 중국이 상업용 국산 장비를 갖추기는 mid-2030s까지 어렵다는 게 그의 말이다. 2023년 통제 뒤에도 덜 앞선 DUV 액침 장비 일부는 여전히 중국에 들어갈 수 있었고, 약 170~180대이던 설치 기반은 그 사이 대략 두 배로 늘었다."
+              },
+              {
+                "t": "p",
+                "x": "보고서 전망에 따르면 미국은 mid-2030s까지 연간 십억 개 안팎의 H100-equivalent(H100 환산) 칩을 생산할 수 있다. 반면 지금 DUV 액침 장비 수출을 막으면 중국의 자체 생산량은 연간 천만 개 수준에 묶일 가능성이 크다. 의회가 DUV 통제 가능성을 담은 MATCH Act를 논의하는 지금, Khan은 이것이 US-China AI 격차를 좌우할 가장 중요한 지렛대일 수 있다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "巨大テックがEUに\nAI法の見直し迫る",
-          "body": "MicrosoftのSmithはEUにAI法の再考を求め、欧州委は十分だと譲らない。",
-          "mini_headline": "巨大テック、AI Act見直し迫る",
+          "headline": "Saif Khan氏が説く\nDUV輸出規制論",
+          "body": "Khan氏は、DUV液浸装置の輸出停止で中国のAIチップ生産を抑えられると主張する。",
+          "mini_headline": "DUV規制を推す論拠",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
-              },
-              {
                 "t": "p",
-                "x": "DUBLIN — AIエージェントが暴走する事案が相次いだ夏を経て、MicrosoftとGoogleのトップが、EUの2024年人工知能法(Artificial Intelligence Act)がなお目的に適っているのか公然と疑問を呈した。"
-              },
-              {
-                "t": "p",
-                "x": "MicrosoftのBrad Smith社長はDecoded by POLITICOに対し、欧州当局は現行ルールの妥当性を見直すべきだと語った。Google DeepMind共同創業者のDemis HassabisはAI Actに触れることなく、壇上で「三年前の事柄に合わせて法律を作れば、今日には時代遅れになる」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "欧州委員会の当局者は、この法律は十分に強力だと主張する。EUの技術担当トップHenna Virkkunenは、AIエージェントに対処する「備えは十分」だと述べた。Michael McGrath司法担当委員は「今のところ満足している」と語った。"
+                "x": "ChinaTalkのポッドキャストで、元NSC・商務省高官で、IFP-affiliated（IFP系）シンクタンクCenter for Technology and Statecraft（CTS）を立ち上げるSaif Khan氏が、CTS初の主要報告書について語る。シニアフェローのNick Brown氏が主導した同報告書は、DUV液浸リソグラフィーを掘り下げたものだ。"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
-                "cap": "一部のEU加盟国政府は、AI Actに抜け穴があると結論づけた。 | Michele Spatari/NurPhoto via Getty Images"
+                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "一部のEU政府は欠陥を見ている。POLITICOが確認したハンガリーの文書は、同法が主にモデルの市場投入後に適用されると指摘し、「2026年の事案はその前に起きた」と記す。チェコのAI特使Lukáš Kačenaは「AI Actで十分になることは決してない」と述べた。"
+                "x": "Khan氏によれば、これらの装置を製造するのは日本とオランダだけで、Huaweiは最先端の7nmチップにこれを使っている。中国が商用の国産装置を持てるのはmid-2030sになるとみられる。2023年の規制後も、一部の旧世代のDUV液浸装置は中国に入り続け、約170～180台だった設置台数はその後おおむね倍増した。"
+              },
+              {
+                "t": "p",
+                "x": "報告書は、米国がmid-2030sまでに年間十億個規模のH100-equivalent（H100換算）チップを生産できる可能性がある一方、今DUV液浸装置の輸出を止めれば、中国の国産生産量は年間一千万個程度に抑えられる可能性が高いと予測する。Khan氏は、議会がDUV規制の可能性を含むMATCH Actを審議する中、これがUS-China間のAI格差を左右する最も重要なてこになり得ると述べる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "科技巨头施压EU\n要求改革AI法案",
-          "body": "Microsoft的Brad Smith称EU应重审AI法案，委员会则坚称该法已足够。",
-          "mini_headline": "科技巨头促改AI Act",
+          "headline": "Saif Khan力主\nDUV出口管制",
+          "body": "前NSC官员Saif Khan认为，停止出口DUV浸没式设备可能限制中国AI芯片产量。",
+          "mini_headline": "DUV管制的理由",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
-              },
-              {
                 "t": "p",
-                "x": "DUBLIN — 在经历了一个AI智能体频频失控的夏天之后，Microsoft和Google的高层公开质疑EU 2024年的《人工智能法》(Artificial Intelligence Act)是否仍然合乎目的。"
-              },
-              {
-                "t": "p",
-                "x": "Microsoft总裁Brad Smith对Decoded by POLITICO表示，欧洲官员应重新考虑现行规则的适用性。Google DeepMind联合创始人Demis Hassabis在台上表示：“如果针对三年前的事物立法，到今天就会过时。”他并未提及AI Act。"
-              },
-              {
-                "t": "p",
-                "x": "欧盟委员会官员坚称该法足够有力。EU科技事务负责人Henna Virkkunen表示，该法“完全有能力”应对AI智能体。司法专员Michael McGrath表示：“我们目前感到满意。”"
+                "x": "在ChinaTalk播客中，前NSC及商务部官员Saif Khan——他正在创办IFP-affiliated（隶属IFP）的智库Center for Technology and Statecraft（CTS）——介绍了CTS的首份重要报告。这份由高级研究员Nick Brown牵头的报告深入剖析了DUV浸没式光刻。"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
-                "cap": "部分EU国家政府认定AI Act存在漏洞。| Michele Spatari/NurPhoto via Getty Images"
+                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "部分EU国家政府看到了缺口。POLITICO看到的一份匈牙利文件指出，该法主要在模型投放市场后才适用：“2026年的事件发生在那之前。”捷克AI特使Lukáš Kačena说：“AI Act永远不会足够。”"
+                "x": "Khan表示，日本和荷兰是这类设备仅有的生产国，Huawei用它们制造最先进的7nm芯片，而中国在mid-2030s之前恐怕难以拥有商用国产设备。2023年的管制措施仍允许部分较不先进的DUV浸没式设备进入中国；此后，约170至180台的装机量已大致翻了一番。"
+              },
+              {
+                "t": "p",
+                "x": "报告预测，到mid-2030s，美国每年或可生产约十亿颗H100-equivalent（H100当量）芯片，而若现在停止DUV浸没式设备出口，中国的自主产量很可能被限制在每年一千万颗左右。Khan称，这可能是影响US-China AI差距最关键的杠杆；目前国会正在讨论包含潜在DUV管制内容的MATCH Act。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Big Tech presiona a la EU\npara reformar su Ley de AI",
-          "body": "Brad Smith, de Microsoft, pide que la EU revise su Ley de AI, mientras la Comisión insiste en que la norma basta.",
-          "mini_headline": "Big Tech pide rehacer la AI Act",
+          "headline": "Saif Khan defiende controlar\nlas exportaciones de DUV",
+          "body": "Saif Khan sostiene que frenar las exportaciones de equipos DUV podría limitar la producción china de chips de IA.",
+          "mini_headline": "Argumentos para controlar el DUV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
-              },
-              {
                 "t": "p",
-                "x": "DUBLIN — Altos directivos de Microsoft y Google han cuestionado abiertamente si la Ley de Inteligencia Artificial de 2024 de la EU (Artificial Intelligence Act) sigue siendo adecuada, tras un verano de incidentes con agentes de AI fuera de control."
-              },
-              {
-                "t": "p",
-                "x": "El presidente de Microsoft, Brad Smith, dijo a Decoded by POLITICO que los responsables europeos deberían reconsiderar la vigencia de las normas actuales. “Si legislas para algo de hace tres años, hoy estaría desfasado”, dijo en el escenario Demis Hassabis, cofundador de Google DeepMind, sin referirse a la AI Act."
-              },
-              {
-                "t": "p",
-                "x": "Los responsables de la Comisión insisten en que la ley es lo bastante sólida. La jefa de tecnología de la EU, Henna Virkkunen, dijo que está “bien equipada” para afrontar los agentes de AI. “Por ahora estamos satisfechos”, dijo el comisario de Justicia, Michael McGrath."
+                "x": "En el pódcast ChinaTalk, Saif Khan —exfuncionario del NSC y del Departamento de Comercio que ahora lanza el Center for Technology and Statecraft (CTS), un think tank IFP-affiliated (afiliado al IFP)— analiza el primer gran informe del CTS, un estudio a fondo sobre la litografía DUV de inmersión dirigido por el investigador sénior Nick Brown."
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
-                "cap": "Algunos gobiernos de la EU han concluido que la AI Act tiene lagunas. | Michele Spatari/NurPhoto via Getty Images"
+                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Algunos gobiernos de la EU ven lagunas. Un documento húngaro al que ha tenido acceso POLITICO señala que la ley se aplica sobre todo una vez que un modelo sale al mercado: “Los incidentes de 2026 ocurrieron antes de ese momento”. El enviado checo para la AI, Lukáš Kačena, dijo: “La AI Act nunca será suficiente”."
+                "x": "Khan afirma que Japón y los Países Bajos son los únicos fabricantes de estas herramientas, que Huawei utiliza para sus chips más avanzados de 7nm, y que probablemente China no tendrá una herramienta comercial propia hasta mediados de los años treinta (mid-2030s). Los controles de 2023 aún permiten la entrada en China de algunas herramientas DUV de inmersión menos avanzadas; la base instalada, de unas 170–180 herramientas, se ha duplicado aproximadamente desde entonces."
+              },
+              {
+                "t": "p",
+                "x": "El informe proyecta que Estados Unidos podría producir del orden de mil millones de chips H100-equivalent (equivalentes a H100) al año hacia mediados de los años treinta (mid-2030s), mientras que detener hoy las exportaciones de DUV de inmersión probablemente limitaría la producción propia de China a unos diez millones al año. Khan lo considera posiblemente la palanca más decisiva sobre la brecha de IA US-China, mientras el Congreso debate la MATCH Act, que incluye posibles controles al DUV."
               }
             ]
           }
@@ -1289,141 +865,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "빅테크, EU에 AI법\n전면 손질 압박",
-          "body": "Microsoft는 EU AI법 재검토를 촉구했고 집행위는 충분하다고 맞선다.",
-          "mini_headline": "빅테크, AI Act 손질 압박",
+          "headline": "Saif Khan, DUV\n수출 통제를 주장",
+          "body": "Khan은 DUV 수출을 막으면 중국 AI 칩 생산을 묶을 수 있다고 본다.",
+          "mini_headline": "DUV 통제 옹호론",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
-              },
-              {
                 "t": "p",
-                "x": "DUBLIN — AI 에이전트가 통제를 벗어난 사건이 잇따른 여름을 보낸 뒤, Microsoft와 Google 최고위 인사들이 EU의 2024년 인공지능법(Artificial Intelligence Act)이 여전히 목적에 맞는지 공개적으로 의문을 제기했다."
-              },
-              {
-                "t": "p",
-                "x": "Microsoft의 Brad Smith 사장은 Decoded by POLITICO에 유럽 당국자들이 현행 규칙의 적합성을 다시 따져봐야 한다고 말했다. Google DeepMind 공동창업자 Demis Hassabis는 AI Act를 언급하지 않은 채 무대에서 “삼 년 전 일을 두고 법을 만든다면 오늘날엔 시대에 뒤떨어질 것”이라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "집행위원회 당국자들은 법이 충분히 강력하다고 강조한다. EU 기술 담당 수장 Henna Virkkunen은 이 법이 AI 에이전트를 다루기에 “잘 갖춰져 있다”고 말했다. Michael McGrath 법무 담당 집행위원은 “지금으로선 만족한다”고 말했다."
+                "x": "ChinaTalk 팟캐스트에서 전 NSC·상무부 관리로, IFP-affiliated(IFP 계열) 싱크탱크인 Center for Technology and Statecraft(CTS)를 출범시키는 Saif Khan이 CTS의 첫 주요 보고서를 소개한다. 선임 연구원 Nick Brown이 이끈 이 보고서는 DUV 액침 노광을 깊이 파고든다."
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
-                "cap": "일부 EU 정부는 AI Act에 허점이 있다고 결론 내렸다. | Michele Spatari/NurPhoto via Getty Images"
+                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "일부 EU 정부는 빈틈을 본다. POLITICO가 입수한 헝가리 문서는 이 법이 대체로 모델이 시장에 나온 뒤에야 적용된다며 “2026년 사건들은 그 이전에 일어났다”고 지적한다. 체코의 AI 특사 Lukáš Kačena는 “AI Act로는 결코 충분하지 않을 것”이라고 말했다."
+                "x": "Khan에 따르면 이 장비를 만드는 나라는 일본과 네덜란드뿐이며, Huawei는 가장 앞선 7nm 칩에 이 장비를 쓴다. 그는 중국이 mid-2030s까지는 상업용 국산 장비를 갖추기 어려울 것이라고 말한다. 2023년 통제 이후에도 일부 덜 앞선 DUV 액침 장비는 여전히 중국에 들어갈 수 있었고, 약 170~180대이던 설치 기반은 그 뒤 대략 두 배로 늘었다."
+              },
+              {
+                "t": "p",
+                "x": "보고서는 미국이 mid-2030s까지 연간 십억 개 안팎의 H100-equivalent(H100 환산) 칩을 생산할 수 있는 반면, 지금 DUV 액침 장비 수출을 막으면 중국의 자체 생산량은 연간 천만 개 수준에 묶일 가능성이 크다고 전망한다. Khan은 의회가 DUV 통제 가능성을 담은 MATCH Act를 논의하는 가운데, 이것이 US-China AI 격차를 좌우할 가장 중요한 지렛대일 수 있다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "巨大テックがEUに\nAI法の見直し迫る",
-          "body": "MicrosoftのSmithはEUにAI法の再考を求め、欧州委は十分だと譲らない。",
-          "mini_headline": "巨大テック、AI Act見直し迫る",
+          "headline": "Saif Khan氏が説く\nDUV輸出規制論",
+          "body": "Khan氏は、DUV液浸装置の輸出停止で中国のAIチップ生産を抑えられると主張する。",
+          "mini_headline": "DUV規制を推す論拠",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
-              },
-              {
                 "t": "p",
-                "x": "DUBLIN — AIエージェントが暴走する事案が相次いだ夏を経て、MicrosoftとGoogleのトップが、EUの2024年人工知能法(Artificial Intelligence Act)がなお目的に適っているのか公然と疑問を呈した。"
-              },
-              {
-                "t": "p",
-                "x": "MicrosoftのBrad Smith社長はDecoded by POLITICOに対し、欧州当局は現行ルールの妥当性を見直すべきだと語った。Google DeepMind共同創業者のDemis HassabisはAI Actに触れることなく、壇上で「三年前の事柄に合わせて法律を作れば、今日には時代遅れになる」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "欧州委員会の当局者は、この法律は十分に強力だと主張する。EUの技術担当トップHenna Virkkunenは、AIエージェントに対処する「備えは十分」だと述べた。Michael McGrath司法担当委員は「今のところ満足している」と語った。"
+                "x": "ChinaTalkのポッドキャストで、元NSC・商務省高官で、IFP-affiliated（IFP系）シンクタンクCenter for Technology and Statecraft（CTS）を立ち上げるSaif Khan氏が、CTS初の主要報告書について語る。シニアフェローのNick Brown氏が主導した同報告書は、DUV液浸リソグラフィーを掘り下げたものだ。"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
-                "cap": "一部のEU加盟国政府は、AI Actに抜け穴があると結論づけた。 | Michele Spatari/NurPhoto via Getty Images"
+                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "一部のEU政府は欠陥を見ている。POLITICOが確認したハンガリーの文書は、同法が主にモデルの市場投入後に適用されると指摘し、「2026年の事案はその前に起きた」と記す。チェコのAI特使Lukáš Kačenaは「AI Actで十分になることは決してない」と述べた。"
+                "x": "Khan氏によれば、これらの装置を製造するのは日本とオランダだけで、Huaweiは最先端の7nmチップにこれを使っている。中国が商用の国産装置を持てるのはmid-2030sになるとみられる。2023年の規制後も、一部の旧世代のDUV液浸装置は中国に入り続け、約170～180台だった設置台数はその後おおむね倍増した。"
+              },
+              {
+                "t": "p",
+                "x": "報告書は、米国がmid-2030sまでに年間十億個規模のH100-equivalent（H100換算）チップを生産できる可能性がある一方、今DUV液浸装置の輸出を止めれば、中国の国産生産量は年間一千万個程度に抑えられる可能性が高いと予測する。Khan氏は、議会がDUV規制の可能性を含むMATCH Actを審議する中、これがUS-China間のAI格差を左右する最も重要なてこになり得ると述べる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "科技巨头施压EU\n要求改革AI法案",
-          "body": "Microsoft的Brad Smith称EU应重审AI法案，委员会则坚称该法已足够。",
-          "mini_headline": "科技巨头促改AI Act",
+          "headline": "Saif Khan力主\nDUV出口管制",
+          "body": "前NSC官员Saif Khan认为，停止出口DUV浸没式设备可能限制中国AI芯片产量。",
+          "mini_headline": "DUV管制的理由",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
-              },
-              {
                 "t": "p",
-                "x": "DUBLIN — 在经历了一个AI智能体频频失控的夏天之后，Microsoft和Google的高层公开质疑EU 2024年的《人工智能法》(Artificial Intelligence Act)是否仍然合乎目的。"
-              },
-              {
-                "t": "p",
-                "x": "Microsoft总裁Brad Smith对Decoded by POLITICO表示，欧洲官员应重新考虑现行规则的适用性。Google DeepMind联合创始人Demis Hassabis在台上表示：“如果针对三年前的事物立法，到今天就会过时。”他并未提及AI Act。"
-              },
-              {
-                "t": "p",
-                "x": "欧盟委员会官员坚称该法足够有力。EU科技事务负责人Henna Virkkunen表示，该法“完全有能力”应对AI智能体。司法专员Michael McGrath表示：“我们目前感到满意。”"
+                "x": "在ChinaTalk播客中，前NSC及商务部官员Saif Khan——他正在创办IFP-affiliated（隶属IFP）的智库Center for Technology and Statecraft（CTS）——介绍了CTS的首份重要报告。这份由高级研究员Nick Brown牵头的报告深入剖析了DUV浸没式光刻。"
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
-                "cap": "部分EU国家政府认定AI Act存在漏洞。| Michele Spatari/NurPhoto via Getty Images"
+                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "部分EU国家政府看到了缺口。POLITICO看到的一份匈牙利文件指出，该法主要在模型投放市场后才适用：“2026年的事件发生在那之前。”捷克AI特使Lukáš Kačena说：“AI Act永远不会足够。”"
+                "x": "Khan表示，日本和荷兰是这类设备仅有的生产国，Huawei用它们制造最先进的7nm芯片，而中国在mid-2030s之前恐怕难以拥有商用国产设备。2023年的管制措施仍允许部分较不先进的DUV浸没式设备进入中国；此后，约170至180台的装机量已大致翻了一番。"
+              },
+              {
+                "t": "p",
+                "x": "报告预测，到mid-2030s，美国每年或可生产约十亿颗H100-equivalent（H100当量）芯片，而若现在停止DUV浸没式设备出口，中国的自主产量很可能被限制在每年一千万颗左右。Khan称，这可能是影响US-China AI差距最关键的杠杆；目前国会正在讨论包含潜在DUV管制内容的MATCH Act。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Big Tech presiona a la EU\npara reformar su Ley de AI",
-          "body": "Brad Smith, de Microsoft, pide que la EU revise su Ley de AI, mientras la Comisión insiste en que la norma basta.",
-          "mini_headline": "Big Tech pide rehacer la AI Act",
+          "headline": "Saif Khan defiende controlar\nlas exportaciones de DUV",
+          "body": "Saif Khan sostiene que frenar las exportaciones de equipos DUV podría limitar la producción china de chips de IA.",
+          "mini_headline": "Argumentos para controlar el DUV",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.politico.eu/cdn-cgi/image/width=1160,height=696,quality=80,onerror=redirect,format=auto/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
-              },
-              {
                 "t": "p",
-                "x": "DUBLIN — Altos directivos de Microsoft y Google han cuestionado abiertamente si la Ley de Inteligencia Artificial de 2024 de la EU (Artificial Intelligence Act) sigue siendo adecuada, tras un verano de incidentes con agentes de AI fuera de control."
-              },
-              {
-                "t": "p",
-                "x": "El presidente de Microsoft, Brad Smith, dijo a Decoded by POLITICO que los responsables europeos deberían reconsiderar la vigencia de las normas actuales. “Si legislas para algo de hace tres años, hoy estaría desfasado”, dijo en el escenario Demis Hassabis, cofundador de Google DeepMind, sin referirse a la AI Act."
-              },
-              {
-                "t": "p",
-                "x": "Los responsables de la Comisión insisten en que la ley es lo bastante sólida. La jefa de tecnología de la EU, Henna Virkkunen, dijo que está “bien equipada” para afrontar los agentes de AI. “Por ahora estamos satisfechos”, dijo el comisario de Justicia, Michael McGrath."
+                "x": "En el pódcast ChinaTalk, Saif Khan —exfuncionario del NSC y del Departamento de Comercio que ahora lanza el Center for Technology and Statecraft (CTS), un think tank IFP-affiliated (afiliado al IFP)— analiza el primer gran informe del CTS, un estudio a fondo sobre la litografía DUV de inmersión dirigido por el investigador sénior Nick Brown."
               },
               {
                 "t": "img",
-                "src": "https://www.politico.eu/wp-content/uploads/2026/03/18/GettyImages-1082800026-1024x684.jpg",
-                "cap": "Algunos gobiernos de la EU han concluido que la AI Act tiene lagunas. | Michele Spatari/NurPhoto via Getty Images"
+                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Algunos gobiernos de la EU ven lagunas. Un documento húngaro al que ha tenido acceso POLITICO señala que la ley se aplica sobre todo una vez que un modelo sale al mercado: “Los incidentes de 2026 ocurrieron antes de ese momento”. El enviado checo para la AI, Lukáš Kačena, dijo: “La AI Act nunca será suficiente”."
+                "x": "Khan afirma que Japón y los Países Bajos son los únicos fabricantes de estas herramientas, que Huawei utiliza para sus chips más avanzados de 7nm, y que probablemente China no tendrá una herramienta comercial propia hasta mediados de los años treinta (mid-2030s). Los controles de 2023 aún permiten la entrada en China de algunas herramientas DUV de inmersión menos avanzadas; la base instalada, de unas 170–180 herramientas, se ha duplicado aproximadamente desde entonces."
+              },
+              {
+                "t": "p",
+                "x": "El informe proyecta que Estados Unidos podría producir del orden de mil millones de chips H100-equivalent (equivalentes a H100) al año hacia mediados de los años treinta (mid-2030s), mientras que detener hoy las exportaciones de DUV de inmersión probablemente limitaría la producción propia de China a unos diez millones al año. Khan lo considera posiblemente la palanca más decisiva sobre la brecha de IA US-China, mientras el Congreso debate la MATCH Act, que incluye posibles controles al DUV."
               }
             ]
           }
@@ -1431,15 +975,15 @@
       }
     },
     {
-      "id": "politics-brookings-ai-evals",
+      "id": "politics-ai-optimists",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Brookings, 각국\n프런티어 AI 평가 정리",
-      "body": "FCAI용 Brookings 자료는 정부와 AI 안전연구소의 모델 시험을 견준다.",
-      "mini_headline": "각국의 AI 모델 시험법",
+      "headline": "서구가 해외 AI\n낙관론에서 배울 점",
+      "body": "Arora는 에세이에서 남반구의 필요에서 나온 AI 열기를 서구의 불안과 견준다.",
+      "mini_headline": "서구와 AI 낙관론자들",
       "tool": "Politics",
-      "source": "Brookings",
-      "url": "https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models/",
+      "source": "Rest of World",
+      "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/",
       "accent": "#ff5a4d",
       "motif": "cube",
       "full": {
@@ -1447,203 +991,157 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+            "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+            "cap": "Rest of World/iStock"
           },
           {
             "t": "p",
-            "x": "이 배경 브리핑 가이드는 2026년 구월 15일 Forum for Cooperation on AI(FCAI) 대화를 앞두고 참가자들에게 배포됐다. 각국 정부와 기관이 한꺼번에 AI 평가 역량을 키우는 가운데, 최근 사건들로 이 작업이 새삼 급해졌다."
+            "x": "Payal Arora는 Rest of World의 Ideas 에세이에서 서구에서는 AI를 향한 두려움이 비관주의를 문화적 미덕으로 만드는 데 한몫했다고 주장한다. 그는 위트레흐트대학교에서 Inclusive AI Cultures 석좌를 맡고 있다."
           },
           {
             "t": "p",
-            "x": "평가 주체는 개발사에서 얼마나 독립적인지에 따라 갈린다. 퍼스트파티 평가는 사내에서 하고 세컨드파티 평가자는 계약으로 묶여 있으며, 서드파티 평가자는 그런 관계가 없다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
-            "cap": "Figure A"
+            "x": "2025년 Pew 조사에서 향후 20년 동안 AI가 나라에 긍정적 영향을 줄 것으로 본 미국(U.S.) 성인은 17%뿐이었다. Stanford의 2025 AI Index에서 AI 제품의 이점이 단점보다 크다고 답한 비율은 중국 83%, 인도네시아 80%, 태국 77%였다. 미국은 39%, 네덜란드는 36%에 머물렀다."
           },
           {
             "t": "p",
-            "x": "U.S.에서는 CAISI가 프런티어 모델의 국가안보 시험을 맡는다. 오월에는 Google DeepMind, Microsoft, xAI와 배포 전 평가 협약을 맺었다. EU AI Act의 평가 의무는 주로 제55조에 담겼다. U.K. AI Security Institute는 재현 가능한 평가를 위한 오픈소스 프레임워크 Inspect를 만들었고, 일본·싱가포르·캐나다·호주도 각자 AI 안전연구소를 운영한다."
-          },
-          {
-            "t": "p",
-            "x": "브리핑은 “어떤 평가도 전체 그림을 보여줄 수 없다”면서 평가가 “중립적인 도구가 아니다”라고 짚는다."
+            "x": "Arora는 글로벌 사우스 곳곳의 젊은 사용자, 중국의 AI-made(AI로 만든) 마이크로 드라마, India Stack을 예로 든다. 시장 점유율보다 구체적인 필요를 중심에 두고 만든 기술이라는 것이다. “서구는 AI가 우리에게 무엇을 할지 세계에 경고하고 있다. 이제는 나머지 세계가 우리에게 AI로 무엇을 하라고 가르쳐 줄 수 있을지 물어볼 때인지도 모른다.”"
           }
         ]
       },
+      "_lead_image": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "Brookings maps how countries\nevaluate frontier AI models",
-          "body": "A Brookings briefing for the FCAI dialogue compares how governments and AI safety institutes test frontier models.",
-          "mini_headline": "How nations test AI models",
+          "headline": "What the West can learn\nfrom AI optimists abroad",
+          "body": "In a Rest of World essay, Payal Arora contrasts necessity-driven AI enthusiasm in the Global South with Western anxiety.",
+          "mini_headline": "The West and AI optimists",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+                "cap": "Rest of World/iStock"
               },
               {
                 "t": "p",
-                "x": "This background briefing guide was distributed to participants ahead of the Forum for Cooperation on AI (FCAI) dialogue on Sept. 15, 2026. Governments and organizations are building AI evaluation capacity simultaneously, and recent events gave that work new urgency."
+                "x": "In an Ideas essay for Rest of World, Payal Arora, chair in Inclusive AI Cultures at Utrecht University, argues that in the West, fear of AI has helped turn pessimism into a cultural virtue."
               },
               {
                 "t": "p",
-                "x": "Evaluators differ in their independence from developers: first-party evaluations are run in-house, second-party evaluators have a contractual relationship, and third-party evaluators have none."
-              },
-              {
-                "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
-                "cap": "Figure A"
+                "x": "Only 17% of U.S. adults think AI will have a positive impact on the country over the next 20 years, per a 2025 Pew survey. Stanford’s 2025 AI Index found 83% in China, 80% in Indonesia and 77% in Thailand said AI products offer more benefits than drawbacks, versus 39% in the U.S. and 36% in the Netherlands."
               },
               {
                 "t": "p",
-                "x": "In the U.S., CAISI runs national security testing of frontier models and signed predeployment evaluation agreements with Google DeepMind, Microsoft, and xAI in May. The EU AI Act's evaluation obligations sit mainly in Article 55. The U.K. AI Security Institute developed Inspect, an open-source framework for reproducible evaluations, while Japan, Singapore, Canada and Australia run their own AI safety institutes."
-              },
-              {
-                "t": "p",
-                "x": "“No evaluation can give the full picture,” the briefing notes; evaluations are “not neutral instruments.”"
+                "x": "Arora points to young users across the Global South, AI-made micro-dramas in China, and India Stack as examples of technology built around concrete needs rather than market share. “The West is warning the world about what AI might do to us. Perhaps it is time to ask what the rest of the world might teach us to do with it.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Brookings, 각국\n프런티어 AI 평가 정리",
-          "body": "FCAI용 Brookings 자료는 정부와 AI 안전연구소의 모델 시험을 견준다.",
-          "mini_headline": "각국의 AI 모델 시험법",
+          "headline": "서구가 해외 AI\n낙관론에서 배울 점",
+          "body": "Arora는 에세이에서 남반구의 필요에서 나온 AI 열기를 서구의 불안과 견준다.",
+          "mini_headline": "서구와 AI 낙관론자들",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+                "cap": "Rest of World/iStock"
               },
               {
                 "t": "p",
-                "x": "이 배경 브리핑 가이드는 2026년 구월 15일 Forum for Cooperation on AI(FCAI) 대화를 앞두고 참가자들에게 배포됐다. 각국 정부와 기관이 한꺼번에 AI 평가 역량을 키우는 가운데, 최근 사건들로 이 작업이 새삼 급해졌다."
+                "x": "Payal Arora는 Rest of World의 Ideas 에세이에서 서구에서는 AI를 향한 두려움이 비관주의를 문화적 미덕으로 만드는 데 한몫했다고 주장한다. 그는 위트레흐트대학교에서 Inclusive AI Cultures 석좌를 맡고 있다."
               },
               {
                 "t": "p",
-                "x": "평가 주체는 개발사에서 얼마나 독립적인지에 따라 갈린다. 퍼스트파티 평가는 사내에서 하고 세컨드파티 평가자는 계약으로 묶여 있으며, 서드파티 평가자는 그런 관계가 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
-                "cap": "Figure A"
+                "x": "2025년 Pew 조사에서 향후 20년 동안 AI가 나라에 긍정적 영향을 줄 것으로 본 미국(U.S.) 성인은 17%뿐이었다. Stanford의 2025 AI Index에서 AI 제품의 이점이 단점보다 크다고 답한 비율은 중국 83%, 인도네시아 80%, 태국 77%였다. 미국은 39%, 네덜란드는 36%에 머물렀다."
               },
               {
                 "t": "p",
-                "x": "U.S.에서는 CAISI가 프런티어 모델의 국가안보 시험을 맡는다. 오월에는 Google DeepMind, Microsoft, xAI와 배포 전 평가 협약을 맺었다. EU AI Act의 평가 의무는 주로 제55조에 담겼다. U.K. AI Security Institute는 재현 가능한 평가를 위한 오픈소스 프레임워크 Inspect를 만들었고, 일본·싱가포르·캐나다·호주도 각자 AI 안전연구소를 운영한다."
-              },
-              {
-                "t": "p",
-                "x": "브리핑은 “어떤 평가도 전체 그림을 보여줄 수 없다”면서 평가가 “중립적인 도구가 아니다”라고 짚는다."
+                "x": "Arora는 글로벌 사우스 곳곳의 젊은 사용자, 중국의 AI-made(AI로 만든) 마이크로 드라마, India Stack을 예로 든다. 시장 점유율보다 구체적인 필요를 중심에 두고 만든 기술이라는 것이다. “서구는 AI가 우리에게 무엇을 할지 세계에 경고하고 있다. 이제는 나머지 세계가 우리에게 AI로 무엇을 하라고 가르쳐 줄 수 있을지 물어볼 때인지도 모른다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Brookings、各国の\n先端AI評価を整理",
-          "body": "FCAI向けのBrookings資料は、政府とAI安全研究所の先端モデル評価を比べる。",
-          "mini_headline": "各国のAIモデル評価",
+          "headline": "西側が海外のAI\n楽観派に学ぶこと",
+          "body": "Arora氏はエッセイで、グローバルサウスの必要に根ざすAI熱を西側の不安と対比する。",
+          "mini_headline": "西側とAI楽観派",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+                "cap": "Rest of World/iStock"
               },
               {
                 "t": "p",
-                "x": "この背景説明ガイドは、2026年九月15日のForum for Cooperation on AI(FCAI)対話に先立ち参加者に配布された。各国政府や組織が同時にAI評価能力を構築しており、最近の出来事がその取り組みに新たな緊急性をもたらした。"
+                "x": "ユトレヒト大学でInclusive AI Culturesのチェアを務めるPayal Arora氏は、Rest of WorldのIdeasエッセイで、西側ではAIへの恐れが悲観主義を文化的な美徳に変える一因になったと論じる。"
               },
               {
                 "t": "p",
-                "x": "評価者は開発者からの独立性で異なる。ファーストパーティー評価は社内で行われ、セカンドパーティー評価者は契約関係を持ち、サードパーティー評価者はそうした関係を持たない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
-                "cap": "Figure A"
+                "x": "2025年のPew調査によると、今後20年でAIが国に良い影響を与えると考える米国（U.S.）の成人はわずか17%だ。Stanfordの2025 AI Indexでは、AI製品は欠点より利点が大きいと答えた人が中国で83%、インドネシアで80%、タイで77%だったのに対し、米国では39%、オランダでは36%だった。"
               },
               {
                 "t": "p",
-                "x": "U.S.ではCAISIがフロンティアモデルの国家安全保障テストを担い、五月にGoogle DeepMind、Microsoft、xAIと配備前評価の協定を結んだ。EU AI Actの評価義務は主に第55条に定められている。U.K. AI Security Instituteは再現可能な評価のためのオープンソースのフレームワークInspectを開発し、日本、シンガポール、カナダ、オーストラリアはそれぞれ独自のAI安全研究所を運営している。"
-              },
-              {
-                "t": "p",
-                "x": "「いかなる評価も全体像を示すことはできない」とブリーフィングは指摘し、評価は「中立的な道具ではない」とする。"
+                "x": "Arora氏は、グローバルサウス各地の若いユーザー、中国のAI-made（AI製）マイクロドラマ、India Stackを、市場シェアではなく具体的なニーズを軸に作られた技術の例として挙げる。「西側は、AIが私たちに何をしうるかを世界に警告している。そろそろ、残りの世界がAIで何をすべきかを私たちに教えてくれるのではないかと問うべき時なのかもしれない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Brookings梳理\n各国前沿AI评估",
-          "body": "Brookings为FCAI对话的简报，比较各国政府与AI安全研究所如何测试前沿模型。",
-          "mini_headline": "各国如何测试AI模型",
+          "headline": "西方能从海外AI\n乐观者身上学什么",
+          "body": "Payal Arora撰文，将全球南方出于需要的AI热情与西方的焦虑相对照。",
+          "mini_headline": "西方与AI乐观者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+                "cap": "Rest of World/iStock"
               },
               {
                 "t": "p",
-                "x": "这份背景简报指南在2026年九月15日Forum for Cooperation on AI(FCAI)对话前分发给与会者。各国政府和组织正同时建设AI评估能力，近期事件让这项工作更显紧迫。"
+                "x": "乌得勒支大学Inclusive AI Cultures讲席教授Payal Arora在为Rest of World撰写的Ideas文章中认为，在西方，对AI的恐惧助推悲观主义成为一种文化美德。"
               },
               {
                 "t": "p",
-                "x": "评估方与开发者的独立程度各不相同：第一方评估由内部进行，第二方评估方与开发者存在合同关系，第三方评估方则没有。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
-                "cap": "Figure A"
+                "x": "根据Pew 2025年的一项调查，只有17%的美国（U.S.）成年人认为AI将在未来20年对国家产生积极影响。Stanford的2025 AI Index发现，中国83%、印度尼西亚80%、泰国77%的受访者认为AI产品利大于弊，而美国和荷兰分别为39%和36%。"
               },
               {
                 "t": "p",
-                "x": "在U.S.，CAISI负责前沿模型的国家安全测试，并于五月与Google DeepMind、Microsoft和xAI签署了部署前评估协议。EU AI Act的评估义务主要载于第55条。U.K. AI Security Institute开发了用于可复现评估的开源框架Inspect，日本、新加坡、加拿大和澳大利亚则各自运营AI安全研究所。"
-              },
-              {
-                "t": "p",
-                "x": "简报指出：“没有任何评估能呈现全貌”；评估“并非中立的工具”。"
+                "x": "Arora以全球南方各地的年轻用户、中国的AI-made（AI制作）微短剧以及India Stack为例，说明这些技术是围绕具体需求而非市场份额打造的。“西方正在警告世界AI可能对我们做什么。或许是时候问问，世界其他地方能教会我们用它做什么。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Brookings analiza cómo evalúan\nlos países la AI de frontera",
-          "body": "Brookings compara, para el diálogo FCAI, cómo gobiernos e institutos de seguridad de AI evalúan modelos de frontera.",
-          "mini_headline": "Cómo prueban los países la AI",
+          "headline": "Lo que Occidente puede aprender\nde los optimistas de IA de fuera",
+          "body": "En un ensayo, Arora opone el entusiasmo por la IA del Sur Global, nacido de la necesidad, a la ansiedad occidental.",
+          "mini_headline": "Occidente y los optimistas de la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+                "cap": "Rest of World/iStock"
               },
               {
                 "t": "p",
-                "x": "Esta guía informativa de contexto se distribuyó entre los participantes antes del diálogo del Forum for Cooperation on AI (FCAI) del 15 de septiembre de 2026. Gobiernos y organizaciones están desarrollando a la vez su capacidad de evaluación de AI, y los acontecimientos recientes han dado nueva urgencia a ese trabajo."
+                "x": "En un ensayo de la sección Ideas de Rest of World, Payal Arora, titular de la cátedra de Inclusive AI Cultures en la Universidad de Utrecht, sostiene que en Occidente el miedo a la IA ha contribuido a convertir el pesimismo en una virtud cultural."
               },
               {
                 "t": "p",
-                "x": "Los evaluadores difieren en su independencia respecto de los desarrolladores: las evaluaciones de primera parte se hacen internamente, los evaluadores de segunda parte tienen una relación contractual y los de tercera parte no tienen ninguna."
-              },
-              {
-                "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
-                "cap": "Figure A"
+                "x": "Solo el 17% de los adultos de Estados Unidos (U.S.) cree que la IA tendrá un impacto positivo en el país en los próximos 20 años, según una encuesta de Pew de 2025. El AI Index 2025 de Stanford halló que el 83% en China, el 80% en Indonesia y el 77% en Tailandia dijo que los productos de IA ofrecen más beneficios que inconvenientes, frente al 39% en EE. UU. y el 36% en los Países Bajos."
               },
               {
                 "t": "p",
-                "x": "En U.S., CAISI realiza pruebas de seguridad nacional de modelos de frontera y en mayo firmó acuerdos de evaluación previa al despliegue con Google DeepMind, Microsoft y xAI. Las obligaciones de evaluación de la EU AI Act figuran principalmente en el artículo 55. El U.K. AI Security Institute desarrolló Inspect, un marco de código abierto para evaluaciones reproducibles, mientras que Japón, Singapur, Canadá y Australia gestionan sus propios institutos de seguridad de AI."
-              },
-              {
-                "t": "p",
-                "x": "“Ninguna evaluación puede dar la imagen completa”, señala el informe; las evaluaciones “no son instrumentos neutrales”."
+                "x": "Arora señala a los jóvenes usuarios de todo el Sur Global, los microdramas AI-made (hechos con IA) de China e India Stack como ejemplos de tecnología construida en torno a necesidades concretas y no a la cuota de mercado. «Occidente está advirtiendo al mundo sobre lo que la IA podría hacernos. Quizá sea hora de preguntar qué podría enseñarnos el resto del mundo a hacer con ella»."
               }
             ]
           }
@@ -1651,141 +1149,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Brookings, 각국\n프런티어 AI 평가 정리",
-          "body": "FCAI용 Brookings 자료는 정부와 AI 안전연구소의 모델 시험을 견준다.",
-          "mini_headline": "각국의 AI 모델 시험법",
+          "headline": "서구가 해외 AI\n낙관론에서 배울 점",
+          "body": "Arora는 에세이에서 남반구의 필요 기반 AI 열기를 서구의 불안과 대비한다.",
+          "mini_headline": "서구와 AI 낙관론자들",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+                "cap": "Rest of World/iStock"
               },
               {
                 "t": "p",
-                "x": "이 배경 브리핑 가이드는 2026년 구월 15일 Forum for Cooperation on AI(FCAI) 대화에 앞서 참가자들에게 배포됐다. 각국 정부와 기관이 동시에 AI 평가 역량을 키우고 있으며, 최근 사건들로 이 작업은 새삼 시급해졌다."
+                "x": "위트레흐트대학교에서 Inclusive AI Cultures 석좌를 맡고 있는 Payal Arora는 Rest of World의 Ideas 에세이에서, 서구에서는 AI에 대한 두려움이 비관주의를 문화적 미덕으로 만드는 데 한몫했다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "평가 주체는 개발사로부터 얼마나 독립적인지에서 차이가 난다. 퍼스트파티 평가는 사내에서 이뤄지고, 세컨드파티 평가자는 계약 관계에 있으며, 서드파티 평가자는 그런 관계가 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
-                "cap": "Figure A"
+                "x": "2025년 Pew 조사에 따르면 향후 20년 동안 AI가 나라에 긍정적 영향을 줄 것이라고 보는 미국(U.S.) 성인은 17%에 그친다. Stanford의 2025 AI Index에서는 AI 제품의 이점이 단점보다 크다는 응답이 중국 83%, 인도네시아 80%, 태국 77%였던 반면, 미국은 39%, 네덜란드는 36%였다."
               },
               {
                 "t": "p",
-                "x": "U.S.에서는 CAISI가 프런티어 모델의 국가안보 시험을 맡고 있으며, 오월 Google DeepMind, Microsoft, xAI와 배포 전 평가 협약을 맺었다. EU AI Act의 평가 의무는 주로 제55조에 담겨 있다. U.K. AI Security Institute는 재현 가능한 평가를 위한 오픈소스 프레임워크 Inspect를 개발했고, 일본·싱가포르·캐나다·호주는 각자 AI 안전연구소를 운영한다."
-              },
-              {
-                "t": "p",
-                "x": "브리핑은 “어떤 평가도 전체 그림을 보여줄 수 없다”며 평가는 “중립적인 도구가 아니다”라고 짚는다."
+                "x": "Arora는 글로벌 사우스 곳곳의 젊은 사용자, 중국의 AI-made(AI로 만든) 마이크로 드라마, India Stack을 시장 점유율보다 구체적인 필요를 중심으로 만들어진 기술의 사례로 든다. “서구는 AI가 우리에게 무엇을 할지 세계에 경고하고 있다. 이제는 나머지 세계가 우리에게 AI로 무엇을 하라고 가르쳐 줄 수 있을지 물어볼 때인지도 모른다.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Brookings、各国の\n先端AI評価を整理",
-          "body": "FCAI向けのBrookings資料は、政府とAI安全研究所の先端モデル評価を比べる。",
-          "mini_headline": "各国のAIモデル評価",
+          "headline": "西側が海外のAI\n楽観派に学ぶこと",
+          "body": "Arora氏はエッセイで、グローバルサウスの必要に根ざすAI熱を西側の不安と対比する。",
+          "mini_headline": "西側とAI楽観派",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+                "cap": "Rest of World/iStock"
               },
               {
                 "t": "p",
-                "x": "この背景説明ガイドは、2026年九月15日のForum for Cooperation on AI(FCAI)対話に先立ち参加者に配布された。各国政府や組織が同時にAI評価能力を構築しており、最近の出来事がその取り組みに新たな緊急性をもたらした。"
+                "x": "ユトレヒト大学でInclusive AI Culturesのチェアを務めるPayal Arora氏は、Rest of WorldのIdeasエッセイで、西側ではAIへの恐れが悲観主義を文化的な美徳に変える一因になったと論じる。"
               },
               {
                 "t": "p",
-                "x": "評価者は開発者からの独立性で異なる。ファーストパーティー評価は社内で行われ、セカンドパーティー評価者は契約関係を持ち、サードパーティー評価者はそうした関係を持たない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
-                "cap": "Figure A"
+                "x": "2025年のPew調査によると、今後20年でAIが国に良い影響を与えると考える米国（U.S.）の成人はわずか17%だ。Stanfordの2025 AI Indexでは、AI製品は欠点より利点が大きいと答えた人が中国で83%、インドネシアで80%、タイで77%だったのに対し、米国では39%、オランダでは36%だった。"
               },
               {
                 "t": "p",
-                "x": "U.S.ではCAISIがフロンティアモデルの国家安全保障テストを担い、五月にGoogle DeepMind、Microsoft、xAIと配備前評価の協定を結んだ。EU AI Actの評価義務は主に第55条に定められている。U.K. AI Security Instituteは再現可能な評価のためのオープンソースのフレームワークInspectを開発し、日本、シンガポール、カナダ、オーストラリアはそれぞれ独自のAI安全研究所を運営している。"
-              },
-              {
-                "t": "p",
-                "x": "「いかなる評価も全体像を示すことはできない」とブリーフィングは指摘し、評価は「中立的な道具ではない」とする。"
+                "x": "Arora氏は、グローバルサウス各地の若いユーザー、中国のAI-made（AI製）マイクロドラマ、India Stackを、市場シェアではなく具体的なニーズを軸に作られた技術の例として挙げる。「西側は、AIが私たちに何をしうるかを世界に警告している。そろそろ、残りの世界がAIで何をすべきかを私たちに教えてくれるのではないかと問うべき時なのかもしれない」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Brookings梳理\n各国前沿AI评估",
-          "body": "Brookings为FCAI对话的简报，比较各国政府与AI安全研究所如何测试前沿模型。",
-          "mini_headline": "各国如何测试AI模型",
+          "headline": "西方能从海外AI\n乐观者身上学什么",
+          "body": "Payal Arora撰文，将全球南方出于需要的AI热情与西方的焦虑相对照。",
+          "mini_headline": "西方与AI乐观者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+                "cap": "Rest of World/iStock"
               },
               {
                 "t": "p",
-                "x": "这份背景简报指南在2026年九月15日Forum for Cooperation on AI(FCAI)对话前分发给与会者。各国政府和组织正同时建设AI评估能力，近期事件让这项工作更显紧迫。"
+                "x": "乌得勒支大学Inclusive AI Cultures讲席教授Payal Arora在为Rest of World撰写的Ideas文章中认为，在西方，对AI的恐惧助推悲观主义成为一种文化美德。"
               },
               {
                 "t": "p",
-                "x": "评估方与开发者的独立程度各不相同：第一方评估由内部进行，第二方评估方与开发者存在合同关系，第三方评估方则没有。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
-                "cap": "Figure A"
+                "x": "根据Pew 2025年的一项调查，只有17%的美国（U.S.）成年人认为AI将在未来20年对国家产生积极影响。Stanford的2025 AI Index发现，中国83%、印度尼西亚80%、泰国77%的受访者认为AI产品利大于弊，而美国和荷兰分别为39%和36%。"
               },
               {
                 "t": "p",
-                "x": "在U.S.，CAISI负责前沿模型的国家安全测试，并于五月与Google DeepMind、Microsoft和xAI签署了部署前评估协议。EU AI Act的评估义务主要载于第55条。U.K. AI Security Institute开发了用于可复现评估的开源框架Inspect，日本、新加坡、加拿大和澳大利亚则各自运营AI安全研究所。"
-              },
-              {
-                "t": "p",
-                "x": "简报指出：“没有任何评估能呈现全貌”；评估“并非中立的工具”。"
+                "x": "Arora以全球南方各地的年轻用户、中国的AI-made（AI制作）微短剧以及India Stack为例，说明这些技术是围绕具体需求而非市场份额打造的。“西方正在警告世界AI可能对我们做什么。或许是时候问问，世界其他地方能教会我们用它做什么。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Brookings analiza cómo evalúan\nlos países la AI de frontera",
-          "body": "Brookings compara, para el diálogo FCAI, cómo gobiernos e institutos de seguridad de AI evalúan modelos de frontera.",
-          "mini_headline": "Cómo prueban los países la AI",
+          "headline": "Lo que Occidente puede aprender\nde los optimistas de IA de fuera",
+          "body": "En un ensayo, Arora opone el entusiasmo por la IA del Sur Global, nacido de la necesidad, a la ansiedad occidental.",
+          "mini_headline": "Occidente y los optimistas de la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg?quality=50&w=1500"
+                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+                "cap": "Rest of World/iStock"
               },
               {
                 "t": "p",
-                "x": "Esta guía informativa de contexto se distribuyó entre los participantes antes del diálogo del Forum for Cooperation on AI (FCAI) del 15 de septiembre de 2026. Gobiernos y organizaciones están desarrollando a la vez su capacidad de evaluación de AI, y los acontecimientos recientes han dado nueva urgencia a ese trabajo."
+                "x": "En un ensayo de la sección Ideas de Rest of World, Payal Arora, titular de la cátedra de Inclusive AI Cultures en la Universidad de Utrecht, sostiene que en Occidente el miedo a la IA ha contribuido a convertir el pesimismo en una virtud cultural."
               },
               {
                 "t": "p",
-                "x": "Los evaluadores difieren en su independencia respecto de los desarrolladores: las evaluaciones de primera parte se hacen internamente, los evaluadores de segunda parte tienen una relación contractual y los de tercera parte no tienen ninguna."
-              },
-              {
-                "t": "img",
-                "src": "https://www.brookings.edu/wp-content/uploads/2026/09/Figure-A.jpeg?quality=50&w=1192",
-                "cap": "Figure A"
+                "x": "Solo el 17% de los adultos de Estados Unidos (U.S.) cree que la IA tendrá un impacto positivo en el país en los próximos 20 años, según una encuesta de Pew de 2025. El AI Index 2025 de Stanford halló que el 83% en China, el 80% en Indonesia y el 77% en Tailandia dijo que los productos de IA ofrecen más beneficios que inconvenientes, frente al 39% en EE. UU. y el 36% en los Países Bajos."
               },
               {
                 "t": "p",
-                "x": "En U.S., CAISI realiza pruebas de seguridad nacional de modelos de frontera y en mayo firmó acuerdos de evaluación previa al despliegue con Google DeepMind, Microsoft y xAI. Las obligaciones de evaluación de la EU AI Act figuran principalmente en el artículo 55. El U.K. AI Security Institute desarrolló Inspect, un marco de código abierto para evaluaciones reproducibles, mientras que Japón, Singapur, Canadá y Australia gestionan sus propios institutos de seguridad de AI."
-              },
-              {
-                "t": "p",
-                "x": "“Ninguna evaluación puede dar la imagen completa”, señala el informe; las evaluaciones “no son instrumentos neutrales”."
+                "x": "Arora señala a los jóvenes usuarios de todo el Sur Global, los microdramas AI-made (hechos con IA) de China e India Stack como ejemplos de tecnología construida en torno a necesidades concretas y no a la cuota de mercado. «Occidente está advirtiendo al mundo sobre lo que la IA podría hacernos. Quizá sea hora de preguntar qué podría enseñarnos el resto del mundo a hacer con ella»."
               }
             ]
           }

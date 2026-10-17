@@ -1346,6 +1346,134 @@
           "x": "广告主可通过通知选择退出，或在每条广告的Advantage+ Creative和Destination设置中开关该功能。媒介采买David Herrmann称其为一项把创意素材变成动态商品广告的AI功能，并对临近假日季的时间点提出异议。"
         }
       ]
+    },
+    "marketing/marketing-chatgpt-tracking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
+          "cap": "题图：Tetiana Yurchenko/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Graphite首席执行官Ethan Smith表示，在其追踪的网站中，GA4里ChatGPT-attributed的会话自10月9日起下降了22%至57%，较基线约下降45%。LLM Pulse发现，10月9日至11日ChatGPT会话减少约46%，而总流量保持稳定。"
+        },
+        {
+          "t": "p",
+          "x": "Smith说，ChatGPT开始在打开回答正文中的链接时不带utm_source=chatgpt.com标签或引荐来源，因此这些访问可能被计为Direct。目前尚无足够数据判断是否也有部分访问确实流失。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe的Cedric Huesler发现，在约500个页面上，ChatGPT访问量每天减少约31,000次，而Direct增加约26,000次。Profound将此与GPT-6推出后ChatGPT新的Intelligent UI回答格式联系起来。"
+        },
+        {
+          "t": "p",
+          "x": "Huesler称，OpenAI于10月14日确认这是一个漏洞，并于10月15日开始推送修复；Profound则表示尚未看到官方说法。Smith和Huesler建议在报告中标注10月8日至15日，并将ChatGPT与Direct流量并列比较。"
+        }
+      ]
+    },
+    "marketing/marketing-videoamp-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "上个月，VideoAmp、Comscore和iSpot获得了美国Joint Industry Committee的重新认证。不过，买方和卖方还没准备好放弃Nielsen，因此替代货币公司正更广泛地聚焦数据与测量。"
+        },
+        {
+          "t": "p",
+          "x": "今年夏天，VideoAmp裁减了约20%的员工，作为将更多运营交给AI的举措之一。SVP Andrea Zapata表示，目标是利用AI帮助媒介买家规划更聪明的广告活动，使其在预期成果上表现更好。"
+        },
+        {
+          "t": "p",
+          "x": "首席产品官Josh Hudgins表示，首要任务之一是将其规划与测量工作流程与AI智能体打通。智能体可以帮助买家在投放过程中优化广告活动，例如削减某一库存来源的支出，并购买能高效增加独立触达的库存。"
+        },
+        {
+          "t": "p",
+          "x": "AI仍然需要通过数据洁净室和发布商日志级数据获取的第一方观众数据，以及ACR数据。Zapata说：“归根结底，我们都在追求的是成果。”"
+        }
+      ]
+    },
+    "marketing/marketing-google-ads-learning": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "HaoMqRGlmp8"
+        },
+        {
+          "t": "p",
+          "x": "在10月15日的Google播客Ads Decoded中，Google Ads产品经理Tal Akabas表示，调整成熟广告系列的目标或预算并不会使其进入学习期。"
+        },
+        {
+          "t": "p",
+          "x": "Akabas说：“当你更改目标或预算时，实际上并不存在学习期。”“Google Ads后端系统会根据你的目标变化直接按比例调整出价。”对于没有任何先前信息的全新广告系列，“可能会出现一定的学习期”。"
+        },
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "这一说法范围有限：它只涵盖稳定广告系列的目标和预算调整，不包括新素材、定向或出价策略。"
+        },
+        {
+          "t": "p",
+          "x": "该期节目还介绍了上线进展：促销模式即将在Search和PMax中结束测试版，面向新客户的仅报告模式正在推出，仅再互动模式正在Performance Max中上线，Search和Shopping随后跟进。"
+        }
+      ]
+    },
+    "marketing/marketing-fender-marshall": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "品牌无法告诉ChatGPT如何谈论自家产品，但可以加大对品牌内容的投入，让聊天机器人背后的模型有更多素材可用。"
+        },
+        {
+          "t": "p",
+          "x": "Fender将官网改版为讲故事的“正门”，推出关于品牌传承以及Jimi Hendrix等艺术家的短视频，部分目的是提升产品调研阶段的曝光度。Skyword的调查显示，每10名U.S.消费者中有7人在调研产品时会使用ChatGPT或AI摘要。"
+        },
+        {
+          "t": "p",
+          "x": "Hendrix曾使用其音箱的Marshall正在力推YouTube系列节目《Dead Venues》。副总裁Christine Kennedy Grant谈到AI Overviews和LLM工具时说：“这是我们必须出现的重要场合。”"
+        },
+        {
+          "t": "p",
+          "x": "Attention Arc的Urvashi Manral说：“ChatGPT是新的口碑。”Kantar数据显示，四分之三（75%）的营销人员计划明年增加在AI助手中提升可见度的支出。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-crawl-terms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meta更新后的商业条款（Commercial Terms）将于10月30日生效，允许该公司抓取与使用其产品的企业相关的网站，并用这些内容训练相关产品。条款适用于对Meta产品的任何商业使用，从投放广告到管理Facebook主页均包括在内。"
+        },
+        {
+          "t": "p",
+          "x": "据Nieman Lab报道，三位法律专业人士认为，这一措辞可能支持Meta可以抓取新闻网站来训练其AI产品的说法。Meta发言人Andy Stone称这种概括不实，表示此次更新是为了获取准确的产品信息，“并非为了抓取新闻网站”。"
+        },
+        {
+          "t": "p",
+          "x": "Meta的广告条款本就允许其出于包括训练在内的用途抓取广告主网站。10月版本则将范围扩大到不购买广告的企业。该条款还允许Meta“创建测试凭证”以访问这些页面。"
+        },
+        {
+          "t": "p",
+          "x": "Meta表示，内容所有者仍可通过robots.txt管理访问权限，但两份更新后的条款都未提及这一点。网站所有者可以屏蔽其AI训练爬虫Meta-ExternalAgent，同时允许Meta-WebIndexer。"
+        }
+      ]
     }
   }
 }

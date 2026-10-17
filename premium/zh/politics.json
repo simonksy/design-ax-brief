@@ -2737,6 +2737,105 @@
           "x": "兰加拉詹还表示，委员会认为已在至少一个社交网络上发现“算法偏见”，每月遭受3万至4万次网络攻击，而且仍在适用1983年或2000年制定、“非常过时”的法律。"
         }
       ]
+    },
+    "politics/politics-nk-ai-torpedo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "朝鲜周六表示，已测试一款新型AI-powered（AI驱动）鱼雷系统，近期一系列武器展示仍在持续。"
+        },
+        {
+          "t": "p",
+          "x": "朝鲜国营通讯社KCNA报道称，此次测试涉及“超高速、精确制导”的Zam-2.0鱼雷系统，并称该系统利用人工智能辅助目标探测和制导。报道称，测试验证了该武器的推进系统。"
+        },
+        {
+          "t": "p",
+          "x": "此前，朝鲜周三还测试了两种水下发射的战略巡航导弹，外界认为此举旨在增强其海军能力。据信这些导弹是从潜艇发射的。"
+        },
+        {
+          "t": "p",
+          "x": "近几周，朝鲜还进行了多次弹道导弹试射，在与邻国韩国紧张关系加剧之际扩充武器库。"
+        },
+        {
+          "t": "p",
+          "x": "8月，美国总统唐纳德·特朗普对记者表示，朝鲜领导人金正恩拥有“57件非常强大的核武器”，并再次称道两人的关系。特朗普当时表示，他打算在今年晚些时候与金正恩会面，但未透露该计划的更多细节。"
+        }
+      ]
+    },
+    "politics/politics-duv-controls": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "在ChinaTalk播客中，前NSC及商务部官员Saif Khan——他正在创办IFP-affiliated（隶属IFP）的智库Center for Technology and Statecraft（CTS）——介绍了CTS的首份重要报告。这份由高级研究员Nick Brown牵头的报告深入剖析了DUV浸没式光刻。"
+        },
+        {
+          "t": "img",
+          "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Khan表示，日本和荷兰是这类设备仅有的生产国，Huawei用它们制造最先进的7nm芯片，而中国在mid-2030s之前恐怕难以拥有商用国产设备。2023年的管制措施仍允许部分较不先进的DUV浸没式设备进入中国；此后，约170至180台的装机量已大致翻了一番。"
+        },
+        {
+          "t": "p",
+          "x": "报告预测，到mid-2030s，美国每年或可生产约十亿颗H100-equivalent（H100当量）芯片，而若现在停止DUV浸没式设备出口，中国的自主产量很可能被限制在每年一千万颗左右。Khan称，这可能是影响US-China AI差距最关键的杠杆；目前国会正在讨论包含潜在DUV管制内容的MATCH Act。"
+        }
+      ]
+    },
+    "politics/politics-ai-optimists": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
+          "cap": "Rest of World/iStock"
+        },
+        {
+          "t": "p",
+          "x": "乌得勒支大学Inclusive AI Cultures讲席教授Payal Arora在为Rest of World撰写的Ideas文章中认为，在西方，对AI的恐惧助推悲观主义成为一种文化美德。"
+        },
+        {
+          "t": "p",
+          "x": "根据Pew 2025年的一项调查，只有17%的美国（U.S.）成年人认为AI将在未来20年对国家产生积极影响。Stanford的2025 AI Index发现，中国83%、印度尼西亚80%、泰国77%的受访者认为AI产品利大于弊，而美国和荷兰分别为39%和36%。"
+        },
+        {
+          "t": "p",
+          "x": "Arora以全球南方各地的年轻用户、中国的AI-made（AI制作）微短剧以及India Stack为例，说明这些技术是围绕具体需求而非市场份额打造的。“西方正在警告世界AI可能对我们做什么。或许是时候问问，世界其他地方能教会我们用它做什么。”"
+        }
+      ]
+    },
+    "politics/politics-cma-microsoft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets.publishing.service.gov.uk/media/6ad1def8dfa45fcb6753cab7/s960_Image_for_MBSE.jpg"
+        },
+        {
+          "t": "p",
+          "x": "竞争与市场管理局(Competition and Markets Authority，CMA)拟认定Microsoft在其商业软件生态系统中具有战略市场地位(SMS)，并将在作出最终决定前征求意见。该机构还发布了一份指示性路线图，列出未来可能采取干预的领域。"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft的商业软件(包括Word、Excel、Outlook、PowerPoint、Teams，以及日益重要的Copilot)被超过一百万家UK企业和公共部门机构使用，月活跃用户约20M 人。随着熟悉的办公工具转向智能体AI，该行业正在迅速变化。"
+        },
+        {
+          "t": "p",
+          "x": "进一步调查的领域包括：客户能否自由选择最好的AI工具、其他AI提供商能否在公平环境中与Microsoft的Copilot竞争、Microsoft如何捆绑其安全产品，以及其云许可做法。"
+        },
+        {
+          "t": "p",
+          "x": "“各组织应能选择最适合自己的产品，随时更换供应商，并组合不同供应商的服务。”CMA首席执行官Sarah Cardell表示。"
+        },
+        {
+          "t": "p",
+          "x": "上述结论为初步意见，最终决定将在2027年二月的法定期限前作出。SMS认定并不意味着存在违法行为。"
+        }
+      ]
     }
   }
 }

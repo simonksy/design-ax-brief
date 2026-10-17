@@ -8475,6 +8475,179 @@
           "x": "Figma MCPサーバーを通じて、Codexのようなコーディングエージェントはスペックとそのリンク先のすべてのコンテキストを読み取れる。SpecsはWeb、デスクトップ、モバイルで利用でき、有料プラン向けにオープンベータとして順次提供される。"
         }
       ]
+    },
+    "design/design-figma-payload": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "MakeでPayloadを使って構築(プレビューモード)。"
+        },
+        {
+          "t": "p",
+          "x": "Figmaに合流したチームによるオープンソースのヘッドレスCMS、PayloadがFigma Makeに組み込まれた。過去12か月でダウンロード数は6倍に伸び、NPMで最も急成長しているオープンソースCMSとなった。"
+        },
+        {
+          "t": "p",
+          "x": "Makeでプロンプトからアプリを作ると、データベース、ファイルストレージ、ユーザーログイン、管理パネルも用意されるようになった。デザイナーは実際のコンテンツでプロンプトを書き、マーケターは管理パネルから更新し、開発者はPayloadのフレームワークでアプリをカスタマイズする。役割ごとにきめ細かな権限も設定できる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "MakeでPayloadを使って構築(CMSモード)。"
+        },
+        {
+          "t": "p",
+          "x": "コンテンツ、メディア、権限、ワークフロー、バージョン管理、APIs、管理パネルをPayloadが担い、ホスティングはFigmaが行う。IBMのデザイナーNoah Trevinoは画面とフィールド一覧をFigmaに渡し、チームが自ら更新できる動くドラフトを手にした。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "CSVアップロード(デモ用の名前)。"
+        },
+        {
+          "t": "p",
+          "x": "公開サイトのURLに/adminを付けると開く編集パネルでは、プロンプトもチケット起票もなしに記事の作成、メディアの差し替え、バージョンの確認、公開ができる。APIキーも別のSupabaseプロジェクトではなく、Makeの設定に安全に保存できるようになった。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "CMSでコンテンツを更新する。"
+        },
+        {
+          "t": "p",
+          "x": "Payloadは全プランで利用でき、今後数週間かけて順次展開される。Payloadを使うMakeプロジェクトのホスティングは無料ベータで、料金は後日発表される。"
+        }
+      ]
+    },
+    "design/design-adobe-nvidia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
+          "cap": "AdobeとNVIDIAが協業を拡大。"
+        },
+        {
+          "t": "p",
+          "x": "AdobeとNVIDIAは、3月に発表した戦略的パートナーシップを土台に、Photoshop、Premiere、Substance 3D、Frame.io、Brand Conciergeを最適化する協業の拡大を発表した。"
+        },
+        {
+          "t": "p",
+          "x": "Photoshop、Premiere、Substance 3Dは10月16日に発売されるNVIDIA RTX Sparkスーパーチップ向けに最適化が進められており、AI処理、編集、カラー、エフェクトが最大2倍速くなる。AdobeはPhotoshopをGPU-accelerated(GPUで高速化した)コンポジットを軸に再設計し、PremiereのEnhance SpeechやObject Maskといった機能も高速化する。RTX SparkはSubstance 3D Painterで最も重いテクスチャリング工程を速める。"
+        },
+        {
+          "t": "p",
+          "x": "「RTX Sparkを搭載し、最適化されたAdobeのツールは最大2倍の性能を発揮し、こうした新しいワークフローを加速する」と、NVIDIAのローカルAI担当バイスプレジデントJason Paulは述べた。"
+        },
+        {
+          "t": "p",
+          "x": "Frame.ioはメディア処理にNVDEC、TensorRT、CUDAを使うようになり、初期結果ではエンベディング生成が約5倍速く、P95レイテンシが4-5倍改善し、検索用プロキシは約80%小さくなった。"
+        },
+        {
+          "t": "p",
+          "x": "Brand ConciergeはNVIDIA Nemotronのオープンモデルで最適化され、年内に企業向けに提供される予定で、NVIDIAはこれをNVIDIA.comに採用した。両社は11月10-12日のAdobe MAXでさらに披露する。"
+        }
+      ]
+    },
+    "design/design-uxc-org-chart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
+          "cap": "一つの円で囲まれた組織図:『ユーザーが見るのは一つの体験』。"
+        },
+        {
+          "t": "p",
+          "x": "Kate Agenaは、AIがコンテンツデザイン、エンタープライズのコンテンツ戦略、ナレッジマネジメント、モデルの振る舞いを同じユーザー体験に持ち込んでいるのに、私たちの働き方は追いついていないと論じる。例として、AIアシスタントが財務マネージャーに承認済みの請求書は支払い準備ができていると伝えるが、実際には止まっているケースを挙げる。原因はそれぞれ別のチームの担当かもしれないが、ユーザーにとっては一つの壊れた体験だ。"
+        },
+        {
+          "t": "p",
+          "x": "Nielsen Norman GroupのSarah Gibbonsが示した「AIデザイン」の四つの意味を踏まえ、コンテンツデザイナーは文章よりもシステムを設計するようになっており、タクソノミー、オントロジー、ナレッジグラフといったセマンティックアーキテクチャの形成に関わるべきだと指摘する。「専門化は理にかなう。懸念するのは分断だ」"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
+          "cap": "静的UI、生成UI、会話、エージェントは、四つの専門分野が支える共通の理解の上に成り立つ。"
+        },
+        {
+          "t": "p",
+          "x": "彼女はより統合された運営モデルを求める。用語の共同ガバナンス、AIの振る舞いに反映されるコンテンツパターン、知識が変わったときに依存関係を知らせるワークフロー、元のチームへ戻るフィードバックループだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
+          "cap": "一つの概念の変更が、セマンティックモデル、UIコンテンツ、ドキュメント、AIの振る舞い、エージェントの動作、評価へと波及する。"
+        },
+        {
+          "t": "p",
+          "x": "評価は体験を維持する方法の一つになりつつある、と彼女は書く。「体験は私たちの組織図など気にしない。むしろ組織図の側が体験を気にかけなければならなくなっている」"
+        }
+      ]
+    },
+    "design/design-smashing-ai-adoption": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
+          "cap": "あなたの組織はAI導入をしくじっていないか?"
+        },
+        {
+          "t": "p",
+          "x": "Paul Boagは、2014年にSmashingから出した著書Digital Adaptationを振り返り、組織がAIでデジタル変革と同じ過ちを繰り返していると論じる。当時も今も最大の過ちは、それを技術的な課題として扱うことだ。IT部門がCopilot Studioのライセンスを配り、汎用的な研修を加えて、それで終わりとしてしまう。"
+        },
+        {
+          "t": "p",
+          "x": "社員はAIから個人的に得るものが少なく、仕事を失うことを恐れている。だから組織は、嫌がられている作業を狙う、あるいは昇進や給与、労働時間の短縮といったインセンティブを用意することで動機づけ、職務に応じた研修と時間を与えなければならない。彼は熱心な人たちから始め、社会的証明に大きな役割を担わせることを勧める。"
+        },
+        {
+          "t": "p",
+          "x": "失敗しても安全でなければならない。AIを導入するよう言われた数週間後に、トークンを使いすぎたと叱責された社員の話も耳にするという。ガバナンスはgov.ukのデザイン原則のような短い原則の集まりであるべきだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
+          "cap": "GOV.UKのデザイン原則。"
+        },
+        {
+          "t": "p",
+          "x": "IT部門がツールを一つに絞るとチームは行き詰まる。彼が関わるあるUXチームは、Copilotではリサーチリポジトリを実現できず立ち往生している。それはシャドーAIも招く。AI導入はデジタル変革と同じく、人、文化、変化のマネジメントの問題だ。"
+        }
+      ]
+    },
+    "design/design-figma-code-layers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "本日、code layersがオープンベータに移行した。チームはキャンバス上で、コードに裏打ちされたプロトタイプを探り、作れるようになる。各自が別々のコーディングツールで作業すると、孤立してデザインしているように感じられ、作業の共有や代替案の比較も難しくなる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "Figmaキャンバス上のコード"
+        },
+        {
+          "t": "p",
+          "x": "サポート対象の軽量なプロトタイピング用コードベースをGitHubやローカルフォルダから読み込むほか、Figma MCPサーバー経由でプロトタイプを取り込んだり、Figma Chrome拡張機能で稼働中のウェブ体験をcode layerとしてキャンバスに持ち込んだりできる。FigmaのデザインをインタラクティブなCode layerに変換することも可能だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "GitHubやローカルフォルダからプロトタイピング用コードベースを読み込み、既存のフローを反復改善する。"
+        },
+        {
+          "t": "p",
+          "x": "Merkleは、反復と機能開発が30%速くなり、ドキュメント作成が50%減ったと報告している。プロトタイプの複数バージョンを同時にキャンバスに置けるため、ひとつを複製して別のアプローチを試し、両者を比較できる。"
+        },
+        {
+          "t": "p",
+          "x": "Figma agentへのプロンプトでインタラクションを磨き込めるほか、Extract designsはcode layerの画面やフローを編集可能なFigmaレイヤーに変換する。code layersはAIクレジットを消費するが、有料プランではNovember 4, 2026まで作成と編集が無料となる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "Extract designsでcode layerの画面を編集可能なFigmaフレームに変換する。"
+        }
+      ]
     }
   }
 }

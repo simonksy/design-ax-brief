@@ -1203,6 +1203,87 @@
           "x": "Neither humans nor LLMs appear suitable as the primary safeguard, the authors concluded. They recommend treating image provenance as data governance, using cryptographic content credentials or watermarking, with visual review as a secondary control."
         }
       ]
+    },
+    "medicine/medicine-osteoporosis-cxr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "据npj Digital Medicine报道，研究人员开发了AI模型AI-OsRM，可根据胸部X光片预测骨质疏松和骨密度(BMD)降低。"
+        },
+        {
+          "t": "p",
+          "x": "AI-OsRM的开发使用了一家三级转诊医院在2016年至2022年间收集的26,757名患者的46,478组胸部X光与双能X线吸收测定(DXA)配对检查，采用经掩码自编码器预训练的ResNet-based架构。"
+        },
+        {
+          "t": "p",
+          "x": "外部验证涵盖三个队列：一个时间上独立的医院队列(SNUH; n = 6,391)和两个健康体检队列(HPC, n = 24,132; YSMC, n = 122,535)。在SNUH中，骨质疏松和骨密度降低的AUROC均为0.88；在HPC和YSMC中，骨质疏松的AUROC分别为0.93和0.92。"
+        },
+        {
+          "t": "p",
+          "x": "模拟显示，用AI-OsRM进行预筛查可将DXA使用量减少约50%，同时仍能检出98-99%的骨质疏松病例和80-90%的骨密度降低病例，表明其可作为优化DXA使用的预筛查工具。"
+        }
+      ]
+    },
+    "medicine/medicine-agent-scope": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "通用AI智能体如今已能操作用户电脑上的文件和应用程序。Mahmud Omar、Eyal Klang和Girish N Nadkarni在The Lancet Digital Health上撰文指出，ChatGPT Work、ChatGPT Codex、Claude Cowork和Claude Code等产品已将这些能力带入消费级应用。"
+        },
+        {
+          "t": "p",
+          "x": "这类智能体可以运行在临床医生的家用电脑或医院工作站上。在计算机使用模式下，智能体每一步都会截取屏幕并发送到开发者的服务器，因此它能看到屏幕上显示的任何内容，并以临床医生的登录身份操作。一个预约复诊的智能体，可能会截取到相邻面板中无关的诊断信息。"
+        },
+        {
+          "t": "p",
+          "x": "作者认为，获得操作某个应用程序的权限，并不能确定每项任务适合使用哪些信息，而且也不能指望临床医生逐一审查每张截图。"
+        },
+        {
+          "t": "p",
+          "x": "他们提议建立一套参照IRBs分级结构的标准机构流程，以对齐与智能体安全委员会的形式运作。审批应明确任务、可访问的数据、工具、接收方和保存期限；新增能力将触发审查。智能体的访问权限应与所委派的工作相称。"
+        }
+      ]
+    },
+    "medicine/medicine-ai-wait-human": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "JAMA Network Open发表的一项横断面研究调查了1,185名美国成年人(2024年6月17日至7月26日)，了解他们对患者门户消息更倾向于快速的AI回复，还是经医疗专业人员审核的较慢回复，以及他们如何看待心理健康支持中的AI选项。"
+        },
+        {
+          "t": "p",
+          "x": "对于预约安排和续药等事务性消息，57.4%的人更愿意接受快速的AI回复；对于一般消息，这一比例为50.6%。对于医疗类消息，63.1%的人更愿意等待医疗专业人员审核回复。"
+        },
+        {
+          "t": "p",
+          "x": "在心理健康支持方面，63.9%的人最认可3个月后可获得的人类治疗师，高于1个月后可用的治疗师监督AI(50.2%)和可立即使用的纯AI(44.3%)。"
+        },
+        {
+          "t": "p",
+          "x": "研究结果按出生世代等因素进行了分层。作者总结称，与医疗问题和心理健康支持相比，人们在低风险任务上更愿意接受更快的AI；为患者提供在及时性与人工审核之间进行取舍的选项，可能对他们有益。"
+        }
+      ]
+    },
+    "medicine/medicine-llm-care-cost": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "大语言模型越来越多地被用于临床决策支持，但其推荐的服务或治疗费用，此前从未与主治医生的实际医嘱进行过系统比较。Dvir Aran、Jeremy D. Goldhaber-Fiebert、Ittai Many、Anthony Nguyen、Daniel Yang和Shahar Shelly在NEJM AI上发表了《Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians》。"
+        },
+        {
+          "t": "p",
+          "x": "研究流程分为五步：选取200个病例；将每份病历拆分为临床表现与评估及计划；24个AI系统在3种提示词（标准、成本意识、简约但安全）下生成方案；提取医嘱（取三次提取的中位数）；再依据CPT编码，按Medicare收费标准为每项医嘱定价。"
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
+          "cap": "研究流程与示例病例：一名患典型细支气管炎的2个月大婴儿。"
+        },
+        {
+          "t": "p",
+          "x": "在示例病例中，由于细支气管炎无需常规检查，主治医生未开任何诊断检查（US$0）。使用默认提示词时，AI开具了呼吸道病毒检测组合和超声心动图（US$454）；成本意识提示词开具了病毒检测组合和百日咳PCR（US$292）；简约提示词仅开具百日咳PCR检测（US$35）。"
+        }
+      ]
     }
   }
 }
