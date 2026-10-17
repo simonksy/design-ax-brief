@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "section": "marketing",
   "picks": [
     {
-      "title": "Meta's New Terms Expand Crawling Rights Beyond Advertisers",
-      "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
-      "source": "Search Engine Journal",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "TechCrunch",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "Meta's new commercial terms take effect Oct 30. Any business tied to a Facebook or Instagram account grants AI-training crawl rights over its site, and Meta links this to AI product ads. Advertisers need to decide what to do before the deadline.",
-      "published_iso": "2026-10-16T21:38:49+00:00",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/meta-commercial-terms-featured.jpg",
-      "excerpt": "Meta's new commercial terms, effective Oct 30, let it crawl any site tied to a Facebook or Instagram business account and use the content to train its AI products, widening rights ad buyers had already granted. Meta says the purpose is product data, which ties it to AI product ads and shopping. The Verge and PPC Land also covered it."
+      "rationale": "This is a new decision on the Oct 17 story. After backlash, Meta struck the Commercial Terms clause that let it crawl advertiser-linked sites for AI training, which changes what advertisers agree to before the Oct 30 effective date.",
+      "published_iso": "2026-10-17T21:31:32+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+      "excerpt": "Meta struck the Commercial Terms language that suggested it could crawl websites 'associated with' business/advertiser accounts to train AI, after backlash; a spokesperson said crawling practice hasn't changed."
     },
     {
-      "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled",
-      "url": "https://searchengineland.com/google-begins-testing-ads-in-ai-mode-for-users-with-personal-intelligence-enabled-496990",
-      "source": "Search Engine Land",
+      "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem",
+      "url": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
+      "source": "Search Engine Journal",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Google is reversing the ad-free Personal Intelligence experience and testing personalized ads in AI Mode, which opens a new paid surface in AI search.",
-      "published_iso": "2026-10-16T16:11:59+00:00",
-      "og_image": "https://searchengineland.com/wp-content/seloads/2026/10/Pastel-Google-AI-Search-Interface.png",
-      "excerpt": "Google is reversing the ad-free Personal Intelligence experience and testing AI Mode ads that can be personalized with insights from connected Google apps. Ads won't be based directly on Gmail or Photos content, and advertisers get no access to connected-app data. Facts come from the SEL RSS full text because the article HTML is blocked."
+      "rationale": "This is an attribution issue that matters right away. The apparent drop in ChatGPT referrals comes from links that open without tracking tags, so marketers measuring AI-driven visits and conversions are undercounting.",
+      "published_iso": "2026-10-15T21:48:30+00:00",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
+      "excerpt": "ChatGPT-attributed referral traffic fell sharply in several analytics datasets this month; analysts tie it to ChatGPT links opening without tracking tags, an attribution issue for marketers measuring AI-driven visits."
     },
     {
-      "title": "ChatGPT Ads introduces new measurement tools and visual ad formats",
-      "url": "https://searchengineland.com/chatgpt-ads-introduces-new-measurement-tools-and-visual-ad-formats-496998",
-      "source": "Search Engine Land",
+      "title": "VideoAmp Bets On AI To Connect Ad Planning And Measurement",
+      "url": "https://www.adexchanger.com/ai/videoamp-bets-on-ai-to-connect-ad-planning-and-measurement/",
+      "source": "AdExchanger",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "This is a new release: six named MMM and attribution partners, a redesigned Conversions page, weekly performance emails, and tests of larger images and a multi-image format. It changes how buyers measure ChatGPT spend.",
-      "published_iso": "2026-10-16T16:30:09+00:00",
-      "og_image": "https://searchengineland.com/wp-content/seloads/2026/10/ChatGPT-Analytics-Dashboard-Showcase.png",
-      "excerpt": "OpenAI is adding Northbeam, DV Rockerbox and INCRMNTAL plus Kochava, Tenjin and Airbridge as measurement partners, redesigning the Ads Manager Conversions page, sending weekly performance emails, and testing larger images, wider ad cards and a multi-image format. Article HTML is blocked; facts come from the SEL RSS full text."
+      "rationale": "This is the measurement angle on agentic TV buying. Fresh off its JIC re-certification, VideoAmp is using AI agents to tie TV planning to measurement so buyers can optimize campaigns in flight.",
+      "published_iso": "2026-10-16T09:00:09+00:00",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-scaled.jpg",
+      "excerpt": "With its JIC re-certification in hand, VideoAmp is pushing AI agents to connect TV planning and measurement so buyers can optimize campaigns in flight."
     },
     {
-      "title": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
-      "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
-      "source": "404 Media",
+      "title": "Google Ads PM says target or budget changes cause no learning period",
+      "url": "https://ppc.land/google-ads-pm-says-target-or-budget-changes-cause-no-learning-period/",
+      "source": "PPC Land",
       "tool": "Marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "This reporting is the first to show that ChatGPT advertisers can target users by uploaded email, phone number or mobile ad ID on top of prompt context. That is a targeting capability no published card has covered.",
-      "published_iso": "2026-10-15T13:25:19+00:00",
-      "og_image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/Germany_OpenAI_to_Add_Invisible_ChatGPT_Text_Water_26279283787270.jpg",
-      "excerpt": "404 Media reports that advertisers can target ChatGPT users by uploaded email address, phone number or mobile ad ID, on top of prompt context, which most users likely don't realize. This is an off-list outlet: AdExchanger's roundup cites it and no on-list outlet covered it."
+      "rationale": "Google's automated Smart Bidding now scales bids proportionally to new targets without resetting learning, and a re-engagement mode is reaching PMax first. Buyers can now change targets and budgets mid-flight.",
+      "published_iso": "2026-10-16T20:23:14+00:00",
+      "og_image": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
+      "excerpt": "Google Ads PM Tal Akabas said Smart Bidding now scales bids proportionally to new targets on steady campaigns without re-entering learning; a re-engagement mode reaches PMax first, with Search and Shopping next."
     },
     {
-      "title": "Thrad commits $1m in ad spend to AI chat apps testing in-chat ads",
-      "url": "https://ppc.land/thrad-commits-1m-in-ad-spend-to-ai-chat-apps-testing-in-chat-ads/",
-      "source": "PPC Land",
+      "title": "Brands turn to content series and Jimi Hendrix to improve AI search performance",
+      "url": "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/",
+      "source": "Digiday",
       "tool": "Marketing",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "Thrad's DSP will route $1M of advertiser spend to consumer AI apps that test contextual in-chat ads, double its first round. This extends conversational ad inventory beyond ChatGPT.",
-      "published_iso": "2026-10-15T18:15:33+00:00",
-      "og_image": "https://ppc.land/content/images/2026/10/thrad-monetization-fund-ii-ai-chat-app-ads-speech-bubble-piggy-bank-coin.jpg",
-      "excerpt": "Thrad's Monetization Fund II routes up to $1 million in advertiser campaigns through its DSP to consumer AI apps willing to test in-chat ads, double the $500,000 first round. Ads are matched to the conversation topic rather than a user profile and appear as disclosed native sponsored placements."
+      "rationale": "Named brands, Fender and Marshall, are moving brand budget into content series and site overhauls built to feed the models behind ChatGPT and other chatbots. It is a concrete case of spend shifting toward AI-answer visibility.",
+      "published_iso": "2026-10-15T04:01:00+00:00",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
+      "excerpt": "Fender and Marshall are funding branded content series and site overhauls partly to give the models behind ChatGPT and other chatbots more to work with, as brands shift spend toward AI-search visibility."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/": {
-        "verdict": "new",
-        "nearest": "https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/",
-        "new_action": ""
-      },
-      "https://searchengineland.com/google-begins-testing-ads-in-ai-mode-for-users-with-personal-intelligence-enabled-496990": {
-        "verdict": "new",
-        "nearest": "https://www.adweek.com/media/google-opens-ai-mode-to-prescription-drug-ads/",
-        "new_action": ""
-      },
-      "https://searchengineland.com/chatgpt-ads-introduces-new-measurement-tools-and-visual-ad-formats-496998": {
+      "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/": {
         "verdict": "follow-up",
-        "nearest": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-        "new_action": "OpenAI's Oct 16 release adds six named measurement partners (Northbeam, DV Rockerbox, INCRMNTAL, Kochava, Tenjin, Airbridge), a redesigned Ads Manager Conversions page and weekly performance emails, and starts tests of larger-image, wider-card and multi-image formats. None of this was in the Oct 7 announcement."
+        "nearest": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
+        "new_action": "Meta removed the Commercial Terms clause allowing it to crawl websites 'associated with' business/advertiser accounts for AI training. This is a new revision of the terms; the Oct 17 card covered the original expansion."
       },
-      "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/": {
+      "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/": {
         "verdict": "new",
-        "nearest": "https://www.adweek.com/media/openai-wants-chatgpt-ads-to-become-a-permanent-line-item-in-agency-media-plans/",
+        "nearest": "https://ppc.land/trafficguard-finds-up-to-34-of-clicks-on-some-chatgpt-ads-were-invalid/",
         "new_action": ""
       },
-      "https://ppc.land/thrad-commits-1m-in-ad-spend-to-ai-chat-apps-testing-in-chat-ads/": {
+      "https://www.adexchanger.com/ai/videoamp-bets-on-ai-to-connect-ad-planning-and-measurement/": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://www.adexchanger.com/daily-news-roundup/ai-agents-are-coming-for-ctv-its-cheaper-for-politicians-to-buy-national-ads-than-to-target-texas/",
+        "new_action": ""
+      },
+      "https://ppc.land/google-ads-pm-says-target-or-budget-changes-cause-no-learning-period/": {
+        "verdict": "new",
+        "nearest": "https://ppc.land/google-optimises-its-own-revenue-advertisers-have-to-optimise-theirs/",
+        "new_action": ""
+      },
+      "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/": {
+        "verdict": "new",
+        "nearest": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
         "new_action": ""
       }
     },
-    "note": "Dropped: Meta Muse/DataDome (PPC Land) is a follow-up to the Oct 11 HUMAN Muse traffic story with only new vendor data and no new release. TikTok Summit Korea preview (etnews) is an event preview that overlaps the Oct 7 TikTok AI advertiser updates. Kargo/Karlo (Adweek) is a podcast interview, not a launch. VideoAmp (AdExchanger) names no product, date or data. The Naver/Kakao KODA seminar recap (Brand Brief) is a recap of statements. Gmarket seller conference (SBS Biz) is thin. NH Card agentic payment PoC is a payments pilot that only loosely touches selling. Google Ads PM no-learning-period (PPC Land) is a Smart Bidding clarification where AI is not what drives the story. Square AI kiosk (Adweek) ranked below the five ad-platform picks. Within-pool clusters: none. Diversity: 4 outlets (SEL x2, SEJ, 404 Media, PPC Land); two ChatGPT-ads cards cover distinct events (OpenAI product release vs investigative report on targeting). Meta terms story assigned to marketing per orchestrator cross-section note."
+    "note": "Original four picks kept as they were. Original pass dropped: (1) Meta Muse/DataDome (PPC Land), a follow-up to the Oct 11 HUMAN Muse story that adds only vendor data. (2) The Amazon Ads Agent piece (PPC Land), opinion on the Sept 29 launch. (3) The Verge's agent-blocking trend feature, which repeats the running story with no new decision. (4) The AWNY roundup (Marketing Dive), where AI is one theme among several. (5) The Meta APAC SMB survey, a vendor survey. (6) Wirecutter (Digiday), which falls under the publisher-revenue exclusion. Recovery pass: added the Digiday piece on Fender and Marshall funding content for AI search. It has no history_match and no paraphrase match in the 30-day digest; earlier AI-search cards covered ad formats in ChatGPT and Google AI Mode, not brand budgets moving to AI-answer visibility. It is in scope because the _note counts brand budget shifting toward AI search/chat surfaces as marketing. Recovery items dropped: (a) the Typeface '49% deprioritize SEO' survey (PPC Land), a vendor-run generic survey that the _note excludes. (b) The Tottenham 'Ask Spurs' Agentforce item (Salesforce), a vendor press release that the _note excludes as vendor-software promotion. (c) The PMax 0% Search-partner cap (PPC Land), where the AI angle is indirect and fails the delete-AI-from-the-headline test; the item is a channel-control setting. Within-pool clusters: none. Diversity: 5 distinct outlets with 1 card each (TechCrunch, SEJ, AdExchanger, PPC Land, Digiday). The fifth pick takes palette accent #eb367f so the four accents already in use are not repeated."
   }
 }

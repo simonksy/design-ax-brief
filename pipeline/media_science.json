@@ -1,31 +1,30 @@
 {
- "date": "2026-10-17",
- "section": "science",
- "media": [
-  {
-   "id": "science-protease",
-   "type": "image",
-   "src": "pipeline/media/science-protease.jpg"
-  },
-  {
-   "id": "science-magnet-patterns",
-   "type": "image",
-   "src": "pipeline/media/science-magnet-patterns.jpg"
-  },
-  {
-   "id": "science-crypto",
-   "type": "image",
-   "src": "pipeline/media/science-crypto.jpg"
-  },
-  {
-   "id": "science-materials",
-   "type": "image",
-   "src": "pipeline/media/science-materials.jpg"
-  },
-  {
-   "id": "science-benchmarks",
-   "type": "image",
-   "src": "pipeline/media/science-benchmarks.jpg"
-  }
- ]
+  "date": "2026-10-18",
+  "media": [
+    {
+      "id": "science-claude-quantum-circuits",
+      "type": "image",
+      "src": "pipeline/media/science-claude-quantum-circuits.png"
+    },
+    {
+      "id": "science-fire-gene-regulation",
+      "type": "image",
+      "src": "pipeline/media/science-fire-gene-regulation.jpg"
+    },
+    {
+      "id": "science-bulk-metal-testing",
+      "type": "image",
+      "src": "pipeline/media/science-bulk-metal-testing.jpg"
+    },
+    {
+      "id": "science-agentxtract-food-physics",
+      "type": "image",
+      "src": "pipeline/media/science-agentxtract-food-physics.jpg"
+    },
+    {
+      "id": "science-studentsim-ai-tutoring",
+      "type": "image",
+      "src": "pipeline/media/science-studentsim-ai-tutoring.jpg"
+    }
+  ]
 }

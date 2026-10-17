@@ -8348,6 +8348,179 @@
           "x": "Through the Figma MCP server, coding agents like Codex can read a spec and all the context it links to. Specs is available on web, desktop, and mobile, rolling out in open beta to paid plans."
         }
       ]
+    },
+    "design/design-figma-payload": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Build with Payload in Make (preview mode)."
+        },
+        {
+          "t": "p",
+          "x": "Payload, the open-source headless CMS whose team joined Figma, is now built into Figma Make. In the past 12 months its downloads grew 6x, making it the fastest growing open source CMS on NPM."
+        },
+        {
+          "t": "p",
+          "x": "Prompting an app in Make now also sets up a database, file storage, user login and an admin panel. Designers prompt with real content, marketers update it through the admin panel, and developers customize the app with Payload's framework, with granular permissions for each role."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Build with Payload in Make (CMS mode)."
+        },
+        {
+          "t": "p",
+          "x": "Payload powers content, media, permissions, workflows, versioning, APIs and the admin panel, and Figma hosts it. At IBM, designer Noah Trevino gave Figma his screens and field list and got a working draft his team could update themselves."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "CSV upload (demo names)."
+        },
+        {
+          "t": "p",
+          "x": "An editing panel, reached by adding /admin to a published site, lets teams create articles, swap media, review versions and publish without prompting or filing a ticket. API keys can now be stored securely in Make's settings instead of a separate Supabase project."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Updating content in the CMS."
+        },
+        {
+          "t": "p",
+          "x": "Payload is available on all plans, rolling out over the coming weeks; hosting for Payload-backed Make projects is in free beta, with pricing to be announced."
+        }
+      ]
+    },
+    "design/design-adobe-nvidia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
+          "cap": "Adobe and NVIDIA expand their collaboration."
+        },
+        {
+          "t": "p",
+          "x": "Adobe and NVIDIA announced an expanded partnership to optimize Photoshop, Premiere, Substance 3D, Frame.io and Brand Concierge, building on the strategic partnership announced in March."
+        },
+        {
+          "t": "p",
+          "x": "Photoshop, Premiere and Substance 3D are being optimized for the NVIDIA RTX Spark superchip, launching Oct. 16, delivering up to 2x faster AI processing, editing, color and effects. Adobe rearchitected Photoshop around GPU-accelerated compositing; Premiere features like Enhance Speech and Object Mask gain speed, and RTX Spark speeds the heaviest texturing steps in Substance 3D Painter."
+        },
+        {
+          "t": "p",
+          "x": "“Powered by RTX Spark, Adobe’s optimized tools deliver up to 2x faster performance to accelerate these new workflows,” said Jason Paul, vice president, local AI, NVIDIA."
+        },
+        {
+          "t": "p",
+          "x": "Frame.io now uses NVDEC, TensorRT and CUDA for media processing, with early results showing about 5x faster embedding generation, 4-5x better P95 latency and an approximately 80% smaller search proxy."
+        },
+        {
+          "t": "p",
+          "x": "Brand Concierge is optimized with NVIDIA Nemotron open models, available to enterprises later this year, and NVIDIA selected it for NVIDIA.com. Both will showcase more at Adobe MAX, Nov. 10-12."
+        }
+      ]
+    },
+    "design/design-uxc-org-chart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
+          "cap": "An org chart circled as one: ‘the user sees one experience’."
+        },
+        {
+          "t": "p",
+          "x": "Kate Agena argues that AI is bringing content design, enterprise content strategy, knowledge management and model behavior into the same user experience — and our ways of working haven’t caught up. Her example: an AI assistant tells a finance manager an approved invoice is ready for payment, when it is actually blocked. The causes may be owned by different teams, but to the user it’s one broken experience."
+        },
+        {
+          "t": "p",
+          "x": "Drawing on Sarah Gibbons’s four meanings of “AI design” at Nielsen Norman Group, she notes content designers increasingly design systems rather than sentences, and should help shape semantic architecture: taxonomies, ontologies and knowledge graphs. “Specialization makes sense. Separation is where I get concerned.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
+          "cap": "Static UI, generated UI, conversations and agents rest on a shared understanding held up by four disciplines."
+        },
+        {
+          "t": "p",
+          "x": "She calls for a more integrated operating model: shared governance of terminology, content patterns that inform AI behavior, workflows that flag dependencies when knowledge changes, and feedback loops back to source teams."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
+          "cap": "A concept change ripples across semantic model, UI content, documentation, AI behavior, agent actions and evaluation."
+        },
+        {
+          "t": "p",
+          "x": "Evaluation, she writes, is becoming one of the ways we maintain the experience. “The experience doesn’t care about our org chart. Increasingly, our org chart has to care about the experience.”"
+        }
+      ]
+    },
+    "design/design-smashing-ai-adoption": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
+          "cap": "Is Your Organization Messing Up AI Adoption?"
+        },
+        {
+          "t": "p",
+          "x": "Paul Boag revisits his 2014 Smashing book Digital Adaptation and argues organizations are repeating digital transformation’s mistakes with AI. The biggest one, then and now, is treating it as a technological challenge: IT rolls out Copilot Studio licenses, adds generic training and considers the job done."
+        },
+        {
+          "t": "p",
+          "x": "Staff gain little from AI personally and fear for their jobs, so organizations must motivate them — by targeting tasks they hate, or with incentives in progression, pay or shorter hours — and give them role-specific training and time. He suggests starting with enthusiasts and letting social proof do the heavy lifting."
+        },
+        {
+          "t": "p",
+          "x": "It must also be safe to fail: he hears of staff reprimanded for using too many tokens weeks after being told to adopt AI. Governance should be a short set of principles, like gov.uk’s design principles."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
+          "cap": "Design Principles from GOV.UK."
+        },
+        {
+          "t": "p",
+          "x": "Locking IT down to one tool stalls teams — a UX team he works with is stuck because Copilot can’t deliver its research repository — and drives shadow AI. AI adoption, like digital transformation, is about people, culture and change management."
+        }
+      ]
+    },
+    "design/design-figma-code-layers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Today, code layers moves into open beta. Now teams can explore and build prototypes backed by code on the canvas. When everyone works separately in their own coding tools, it can feel like you’re designing in isolation, making it harder to share work or compare alternatives."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "Code on the Figma canvas"
+        },
+        {
+          "t": "p",
+          "x": "Import a supported, lightweight prototyping codebase from GitHub or a local folder, bring in a prototype through the Figma MCP server, or use the Figma Chrome extension to bring your live web experience onto the canvas as a code layer. You can also turn a Figma design into an interactive code layer."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "Import your prototyping codebase from GitHub or a local folder to iterate on existing flows."
+        },
+        {
+          "t": "p",
+          "x": "Merkle reports 30% faster iteration and feature development and 50% less documentation. Multiple versions of a prototype can sit on the canvas at the same time, so teams can duplicate one, try a different approach and compare both."
+        },
+        {
+          "t": "p",
+          "x": "You can refine interactions by prompting the Figma agent, and Extract designs turns a screen or flow from a code layer into editable Figma layers. Code layers will use AI credits; on paid plans, creating and editing is free through November 4, 2026."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "Use Extract designs to turn screens from a code layer into editable Figma frames."
+        }
+      ]
     }
   }
 }

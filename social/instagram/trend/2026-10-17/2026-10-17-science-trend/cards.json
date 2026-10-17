@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "issue": "AI 성과를 재는 잣대가 흔들린다",
+    "date": "2026.10.17",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "아카이브를 거슬러 사람이 묶었다. 벤치마크도 AI 증명도 검증이 뒤처진다.",
+    "sources": [
+      "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
+      "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+      "https://www.scientificamerican.com/article/new-first-proof-exam-reveals-how-ai-powered-math-is-a-pay-for-play-sport/",
+      "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
+      "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 과학 · 10.06~10.17",
+      "thread": [
+        {
+          "d": "10.6",
+          "t": "엇갈린 시험",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.8",
+          "t": "보도자료 수학",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.15",
+          "t": "유료 경기",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.17",
+          "t": "722편 논쟁",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.17",
+          "t": "고장난 채점",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 내놓는 결과는 쏟아지는데, 그걸 잴 잣대와 검증은 따라오지 못한다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "AI의 성과, 누가 채점하나",
+      "body": "열하루 사이 다섯 기사가 같은 틈을 짚는다. 벤치마크는 흔들리고, AI가 쓴 증명은 검토보다 먼저 쏟아진다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.06",
+      "headline": "AI 시험끼리 답이 엇갈린다",
+      "body": "Stanford 주도 연구가 AI 벤치마크 56개를 살폈다. 내세운 능력을 늘 재지는 못했고 결과도 자주 엇갈렸다.",
+      "foot": "2026.10.06",
+      "_src": "https://techxplore.com/news/2026-09-grade-ai-wrong.html",
+      "_id": "stanford-ai-benchmarks-measurement-audit",
+      "media": "pipeline/media/stanford-ai-benchmarks-measurement-audit.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.08",
+      "headline": "검토 없이 나온 AI 증명",
+      "body": "OpenAI는 unique games 증명을 다른 결과 376건과 함께 냈다. 사람 편집도 독립 검토도 없던 원고다.",
+      "foot": "2026.10.08",
+      "_src": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+      "_id": "science-unique-games-proof-race",
+      "media": "pipeline/media/science-unique-games-proof-race.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.15",
+      "headline": "증명 시험, 유료 모델만 통과",
+      "body": "연구 문제 10개 중 ProofCouncil은 9개를 풀었고, 오픈 웨이트 Kimi K3는 하나도 못 풀었다.",
+      "foot": "2026.10.15",
+      "_src": "https://www.scientificamerican.com/article/new-first-proof-exam-reveals-how-ai-powered-math-is-a-pay-for-play-sport/",
+      "_id": "science-firstproof",
+      "media": "pipeline/media/science-firstproof.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "AI 수학 논문 722편, 갈린 평가",
+      "body": "OpenAI가 올린 722편 중 3편은 하루 만에 내려갔다. 암호학자들은 위험을 두고 의견이 갈렸다.",
+      "foot": "2026.10.17",
+      "_src": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
+      "_id": "science-crypto",
+      "media": "pipeline/media/science-crypto.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "“벤치마킹 생태계는 망가졌다”",
+      "body": "Moritz Hardt는 LLM에선 더 나은 모델이 반드시 이기지 않는다며 ‘고지대 훈련’을 제안한다.",
+      "foot": "2026.10.17",
+      "_src": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+      "_id": "science-benchmarks",
+      "media": "pipeline/media/science-benchmarks.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

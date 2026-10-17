@@ -1203,6 +1203,87 @@
           "x": "Neither humans nor LLMs appear suitable as the primary safeguard, the authors concluded. They recommend treating image provenance as data governance, using cryptographic content credentials or watermarking, with visual review as a secondary control."
         }
       ]
+    },
+    "medicine/medicine-osteoporosis-cxr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Researchers developed an AI model, AI-OsRM, to predict osteoporosis and reduced bone mineral density (BMD) from chest radiographs, reports npj Digital Medicine."
+        },
+        {
+          "t": "p",
+          "x": "AI-OsRM was developed using 46,478 paired chest X-ray and dual-energy X-ray absorptiometry (DXA) examinations from 26,757 patients collected at a tertiary referral hospital between 2016 and 2022, using a ResNet-based architecture with masked autoencoder pretraining."
+        },
+        {
+          "t": "p",
+          "x": "External validation covered three cohorts: a temporally separated hospital cohort (SNUH; n = 6,391) and two health checkup cohorts (HPC, n = 24,132; YSMC, n = 122,535). AUROC was 0.88 in SNUH for both osteoporosis and reduced BMD, and 0.93 and 0.92 for osteoporosis in HPC and YSMC."
+        },
+        {
+          "t": "p",
+          "x": "Simulations showed AI-OsRM prescreening could cut DXA use by about 50% while still detecting 98-99% of osteoporosis cases and 80-90% of reduced BMD cases, suggesting a prescreening tool to optimize DXA utilization."
+        }
+      ]
+    },
+    "medicine/medicine-agent-scope": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "General-purpose AI agents can now work through files and applications on a user's computer. Products such as ChatGPT Work, ChatGPT Codex, Claude Cowork, and Claude Code bring these abilities to consumer apps, write Mahmud Omar, Eyal Klang and Girish N Nadkarni in The Lancet Digital Health."
+        },
+        {
+          "t": "p",
+          "x": "Such agents could run on a clinician's home computer or a hospital workstation. With computer use, an agent captures the screen at each step and sends it to the developer's servers, so it sees whatever is displayed and acts with the clinician's login. An agent booking a follow-up could capture an unrelated diagnosis in a neighbouring panel."
+        },
+        {
+          "t": "p",
+          "x": "Permission to operate an application does not establish which information is appropriate for each task, the authors argue, and clinicians cannot be expected to review every screenshot."
+        },
+        {
+          "t": "p",
+          "x": "They propose a standard institutional process, modelled on the tiered structure of IRBs, run as an alignment and agentic safety board. Approval would specify the task, accessible data, tools, recipients and retention; new capabilities would trigger review. The agent's access should remain proportional to the work delegated."
+        }
+      ]
+    },
+    "medicine/medicine-ai-wait-human": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A cross-sectional study in JAMA Network Open surveyed 1,185 US adults (June 17 to July 26, 2024) on whether they prefer faster AI responses or slower, health-professional-reviewed responses to patient portal messages, and how they weigh AI options for mental health support."
+        },
+        {
+          "t": "p",
+          "x": "For logistical messages such as scheduling and refills, 57.4% preferred a fast AI answer; for general messages, 50.6%. For medical messages, 63.1% preferred waiting for a health professional to review the response."
+        },
+        {
+          "t": "p",
+          "x": "For mental health support, 63.9% most endorsed a human therapist available in 3 months, ahead of therapist-monitored AI in 1 month (50.2%) and AI alone available immediately (44.3%)."
+        },
+        {
+          "t": "p",
+          "x": "Results were stratified by birth generation and other factors. The authors conclude people are more open to faster AI for low-stakes tasks than for medical questions and mental health support, and that patients may benefit from options trading timeliness against human review."
+        }
+      ]
+    },
+    "medicine/medicine-llm-care-cost": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Large language models are increasingly consulted for clinical decision support, yet the cost of the services or treatment they recommend had not been systematically compared with what treating physicians actually ordered. In NEJM AI, Dvir Aran, Jeremy D. Goldhaber-Fiebert, Ittai Many, Anthony Nguyen, Daniel Yang and Shahar Shelly report \"Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians.\""
+        },
+        {
+          "t": "p",
+          "x": "The study pipeline runs in five steps: 200 cases were selected; each note was split into the clinical presentation and the assessment and plan; 24 AI systems generated plans under 3 prompts (standard, cost-aware and parsimonious-but-safe); orders were extracted (median of three extractions); and each order was priced from CPT codes against the Medicare fee schedule."
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
+          "cap": "Study workflow and an example case: a 2-month-old infant with classic bronchiolitis."
+        },
+        {
+          "t": "p",
+          "x": "In the example case, the treating clinician ordered no diagnostic tests (US$0), since routine testing is not indicated for bronchiolitis. With the default prompt, the AI ordered a viral respiratory panel and an echocardiogram (US$454); the cost-aware prompt ordered a viral panel and pertussis PCR (US$292); the parsimonious prompt ordered a pertussis PCR test only (US$35)."
+        }
+      ]
     }
   }
 }

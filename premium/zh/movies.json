@@ -6862,6 +6862,135 @@
           "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
         }
       ]
+    },
+    "movies/movies-cottbus-woman-asleep": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
+          "cap": "A Woman Asleep"
+        },
+        {
+          "t": "p",
+          "x": "艺术家兼电影人Vikki Bardot的AI-generated长片A Woman Asleep入选德国FilmFestival Cottbus主竞赛单元，该电影节于11月3日至8日举行。这被认为是首部入选知名国际电影节主竞赛单元的AI-generated长片。"
+        },
+        {
+          "t": "p",
+          "x": "影片改编自Bardot的半自传剧本，由50,000个镜头剪辑而成，所有镜头均由Bardot亲自训练和定制的AI模型生成。旁白由导演本人的AI声音克隆完成，全部配乐也由AI生成。"
+        },
+        {
+          "t": "p",
+          "x": "Bardot表示：“我有意使用合成影像和情感平淡的本人声音AI克隆，来映照一个日益疏离、越来越像机器的社会。”"
+        },
+        {
+          "t": "p",
+          "x": "影片由土耳其的Spongeworthy Studio制作，与Alkan Avcıoğlu共同编剧，将于本月晚些时候在Antalya Golden Orange首映，并已售予土耳其发行商Başka Sinema。电影节总监Bernd Buder称赞其“分析上的敏锐、个人化的触感和叙事上的从容”。"
+        }
+      ]
+    },
+    "movies/movies-claude-blender-blocking": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BExtQ740QgM"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge与Albert Bozesan合作推出一套AI摄影机控制工作流：先在3D中规划镜头，再用这段动画引导AI视频生成，而不是只依赖文字提示词。"
+        },
+        {
+          "t": "p",
+          "x": "Claude通过官方的Blender MCP插件连接Blender，可以根据指令搭建场景、摆放角色姿势、布置摄影机并制作动画。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
+          "cap": "已启用的Blender MCP插件"
+        },
+        {
+          "t": "p",
+          "x": "Albert的入门套件提供提示词模板、摄影机指南、可由Claude复制并摆姿势的绑定角色、环境生成器，以及720p参考渲染设置。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
+          "cap": "在Magnific中生成的环境参考图"
+        },
+        {
+          "t": "p",
+          "x": "参考图来自Magnific；随后将渲染好的动态分镜与参考图一起上传到Seedance 2.5，生成最终的电影级镜头。"
+        }
+      ]
+    },
+    "movies/movies-ivybears": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
+          "cap": "IvyBears（Moontrail Animation Studios）"
+        },
+        {
+          "t": "p",
+          "x": "在MIPJunior上，IvyBears创始人兼CEO Kaan Haylaz博士介绍了他的“逆向飞轮战略”：先有为帮助饮食困难的儿子而研发的IvyBears维生素软糖，之后才有娱乐IP。"
+        },
+        {
+          "t": "p",
+          "x": "Haylaz旗下位于马耳他的Moontrail Animation Studios使用由人类创作者主导的AI工具。他说：“AI不是电影人。AI是电影人手中的工具。”这家精简的工作室约有20多名全职员工，大约两周就能制作一集12分钟的节目。"
+        },
+        {
+          "t": "p",
+          "x": "他表示，生成式AI远不止输入提示词：要在一整集中保持角色、灯光和表演的一致，需要“大量的监督、反复迭代和对细节的关注”。"
+        },
+        {
+          "t": "p",
+          "x": "IvyBears的YouTube频道于今年早些时候上线，订阅者已超过770万，各平台总观看量达7500万次。Moontrail正拓展其他系列（《The Dr Muppy Show》《Banana Rainbow》），IvyBears动画长片也在开发中，预计年底前开拍。"
+        }
+      ]
+    },
+    "movies/movies-foundry-smartroto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
+          "cap": "Foundry SmartRoto"
+        },
+        {
+          "t": "p",
+          "x": "Foundry的SmartRoto是一款Nuke插件，针对逐帧转描这项繁重工作。它直接内置于Nuke现有的Roto节点中，因此样条美术师几乎不需要学习成本。"
+        },
+        {
+          "t": "p",
+          "x": "SmartRoto输出的不是平面遮罩，而是真正的矢量样条；只需几帧输入，它就能把样条传播到整个序列并随之变形。因此修正一缕散乱的头发时，只需抓取熟悉的控制点，而不必重新转描整个镜头。"
+        },
+        {
+          "t": "p",
+          "x": "其工作流程是非线性的：跳到任意位置，为形状设置关键帧，交给工具插值即可。在与Resolve的Magic Mask、Mocha Pro的Matte Assist和Nuke的CopyCat进行的计时测试中，评测者Todd Sheridan Perry发现它让效率提升了“4倍”。"
+        },
+        {
+          "t": "p",
+          "x": "需要注意的是：它是独立于Nuke授权的付费插件，需要Nuke 16.1或更高版本，而且只是辅助工具，不能取代人工监督。该评测还涵盖了Gaomon PD1561 V2和Huion Kamvas Pro 24两款数位屏。"
+        }
+      ]
+    },
+    "movies/movies-corridorkey2": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "godomkRXBLE"
+        },
+        {
+          "t": "p",
+          "x": "Corridor Crew于10月16日发布了一条45秒的YouTube Short，标题为“CorridorKey 2.0 just works...”，简介只有一行：“This Weekend.”。视频没有给出2.0版本的功能列表或更新日志。"
+        },
+        {
+          "t": "p",
+          "x": "CorridorKey是Niko Pueringer在Corridor打造并在GitHub开源的免费神经网络抠像工具。输入原始绿幕帧，它就能分离前景，预测每个像素真实的直通颜色（包括运动模糊和失焦边缘），同时输出干净的线性alpha通道，而不是“AI Roto”类工具常见的生硬二值遮罩。"
+        },
+        {
+          "t": "p",
+          "x": "代码库目前的功能包括带自动检测的绿幕和蓝幕专用检查点、基于原生2048x2048主干网络、最高可达4K 的分辨率无关推理、面向Nuke、Fusion或Resolve的16位和32位线性EXR输入输出，以及跟踪标记自动清理。最新版本可在6–8GB VRAM及大多数M1+ Macs上运行。"
+        }
+      ]
     }
   }
 }

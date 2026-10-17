@@ -1,136 +1,117 @@
 {
-  "date": "2026-10-17",
-  "section": "medicine",
-  "picks": [
-    {
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600537",
-      "title": "Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians",
-      "source": "NEJM AI",
-      "category": "medicine",
-      "published_iso": "2026-10-15T14:00:05Z",
-      "og_image": "https://ai.nejm.org/cms/asset/7e050631-98f4-4621-b116-84a15c8d1a4e/aioa2600537_f1.jpg",
-      "excerpt": "NEJM AI study evaluating 24 AI models: LLMs are increasingly consulted for clinical decision support, yet the cost of the services or treatment they recommend had not been systematically compared with what treating physicians actually ordered. (Online date verified via Crossref.)",
-      "source_lang": "en",
-      "tool": "Medicine",
-      "accent": "#00897b",
-      "motif": "sphere",
-      "rationale": "This NEJM AI study compares the cost of care recommended by 24 LLMs with what treating physicians actually ordered. Clinicians already consult these models for decisions, and no one had measured the cost side before. It also has a real figure image."
-    },
-    {
-      "url": "https://www.medigatenews.com/news/2062365725",
-      "title": "씨어스, UAE 아부다비 보건부 IRB 승인… UAE 최초 AI 부정맥 국가검진 사업자 선정",
-      "source": "메디게이트뉴스",
-      "category": "medicine",
-      "published_iso": "2026-10-16T00:00:00+09:00",
-      "og_image": "https://medigatenews.com/file/news/534058",
-      "excerpt": "씨어스가 UAE 세하클리닉과 추진하는 국가 건강검진 프로젝트로 아부다비 보건부 IRB 승인을 받았다. 40세 이상 자국민 연 1회 국가검진에 웨어러블 AI 부정맥 스크리닝을 도입하기 위한 최종 파일럿이다. (게시일: 본문 '16일 밝혔다' 기준)",
-      "source_lang": "ko",
-      "tool": "Medicine",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "rationale": "Abu Dhabi's health department granted IRB approval for the final pilot that puts wearable AI arrhythmia screening into the UAE's annual national checkup for citizens aged 40 and over. A regulator signed off, and the tool will reach patients at population scale."
-    },
-    {
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-department-uses-ai-identify-lung-cancer-screening-patients-ehr",
-      "title": "Radiology department uses AI to identify lung cancer screening patients in EHR",
-      "source": "Radiology Business",
-      "category": "medicine",
-      "published_iso": "2026-10-16T10:05:49+00:00",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2023-05/microsoftteams-image_15.png?h=140710cd&itok=FSuFEtkP",
-      "excerpt": "UC Irvine developed a natural language processing tool that extracts smoking history and identifies lung-cancer-screening-eligible patients from free-text clinical notes.",
-      "source_lang": "en",
-      "tool": "Medicine",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "UC Irvine's radiology department runs an NLP tool that reads free-text notes for smoking history and finds patients who qualify for lung cancer screening. Under-enrollment in that screening is a well-known gap, and this is a working hospital deployment aimed at it."
-    },
-    {
-      "url": "https://www.nature.com/articles/s41746-026-03357-z",
-      "title": "Automated differentiation for parkinsonism using clinical structural MRI: A multicenter study",
-      "source": "npj Digital Medicine",
-      "category": "medicine",
-      "published_iso": "2026-10-16T00:00:00Z",
-      "og_image": "https://media.springernature.com/lw1200/springer-static/image/art%3A10.1038%2Fs41746-026-03357-z/MediaObjects/41746_2026_3357_Fig1_HTML.png",
-      "excerpt": "A T1-weighted structural MRI-based AI model differentiates Parkinson's disease from multiple system atrophy using routine clinical scans across multiple centers, avoiding costly research-grade multimodal MRI.",
-      "source_lang": "en",
-      "tool": "Medicine",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "This multicenter model tells Parkinson's disease apart from multiple system atrophy using routine clinical T1 MRI, a hard differential diagnosis that otherwise needs research-grade scans. It is fresh, open access and comes with a figure image."
-    },
-    {
-      "url": "https://www.medigatenews.com/news/1687364519",
-      "title": "[2026 국감] \"AI 시대에 의료영상 삭제, 재산 없앤 셈\"…심평원 데이터 관리 도마",
-      "source": "메디게이트뉴스",
-      "category": "medicine",
-      "published_iso": "2026-10-16T00:00:00+09:00",
-      "og_image": "https://medigatenews.com/file/news/534168",
-      "excerpt": "심평원이 저장공간 부족을 이유로 과거 의료영상 데이터를 삭제하고 삭제 기준·표준화도 갖추지 못한 사실이 16일 보건복지위 국정감사에서 질타를 받았다. 의료 AI 학습용 공공 원천데이터 관리 문제.",
-      "source_lang": "ko",
-      "tool": "Medicine",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "rationale": "At a National Assembly audit, Korea's health insurance review agency (HIRA) was criticised for deleting historical medical images to free up storage, with no deletion criteria. Those images are public source data for training medical AI, so this is regulator-level accountability."
-    }
-  ],
-  "alternates": [
-    {
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600136",
-      "title": "Effect of Previsit AI-Generated Document Summaries on Consultation Time and Patient-Physician Communication (AI-INFO)",
-      "source": "NEJM AI",
-      "category": "medicine",
-      "published_iso": "2026-10-15T14:00:52Z",
-      "og_image": "",
-      "excerpt": "NEJM AI original article (AI-INFO) testing whether AI-generated summaries of patient documents handed to physicians before the visit change consultation time and patient-physician communication. Abstract behind Cloudflare at collection time; online date verified via Crossref.",
-      "source_lang": "en",
-      "tool": "Medicine",
-      "accent": "#00897b",
-      "motif": "sphere",
-      "rationale": "A strong clinical trial, but the abstract is Cloudflare-blocked and there is no image, so the excerpt is thin. First alternate."
-    },
-    {
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600258",
-      "title": "Artificial Intelligence-Enhanced Auscultation to Identify Left Ventricular Dysfunction - Development and External Validation",
-      "source": "NEJM AI",
-      "category": "medicine",
-      "published_iso": "2026-10-15T14:01:36Z",
-      "og_image": "",
-      "excerpt": "NEJM AI original article developing and externally validating an AI-enhanced (digital stethoscope) auscultation model to flag left ventricular dysfunction at the point of care. Abstract behind Cloudflare at collection time; online date verified via Crossref.",
-      "source_lang": "en",
-      "tool": "Medicine",
-      "accent": "#00897b",
-      "motif": "sphere",
-      "rationale": "A point-of-care diagnostic study, but it has the same thin-excerpt and no-image problem. Second alternate."
-    }
-  ],
-  "dedup": {
-    "checks": {
-      "https://ai.nejm.org/doi/full/10.1056/AIoa2600537": {
-        "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03325-7",
-        "new_action": ""
-      },
-      "https://www.medigatenews.com/news/2062365725": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://radiologybusiness.com/topics/artificial-intelligence/radiology-department-uses-ai-identify-lung-cancer-screening-patients-ehr": {
-        "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03346-2",
-        "new_action": ""
-      },
-      "https://www.nature.com/articles/s41746-026-03357-z": {
-        "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03339-1",
-        "new_action": ""
-      },
-      "https://www.medigatenews.com/news/1687364519": {
-        "verdict": "new",
-        "nearest": "https://www.bosa.co.kr/news/articleView.html?idxno=3013809",
-        "new_action": ""
-      }
-    },
-    "note": "The pool had 18 candidates and 4 history_match tags, with no clusters. DROPPED as the same story: (1) STAT Clairity direct-to-patient (likely-repeat, 0.473). This is the Clairity/Everlywell consumer launch already published 10-08 via AuntMinnie. (2) Radiology Business 'adapting adult radiology AI models to pediatric population' (untagged). It covers the same Nature BME paper published 10-14 (s41551-026-01812-6), and the 10-16 curator dropped it for the same reason. (3) STAT 'AI sandboxes' (related). This is commentary on the state-regulation lobbying story published 10-15, with no new decision. Parkinsonism MRI (related to the 10-08 Parkinson telerehab RCT) was KEPT: it is a different study and a different task (MRI differential diagnosis of PD vs MSA, not rehab). Riverain-on-platform (related to the 10-08 FDA bone-age card) is a different company and event, but it was dropped as stale (10-06) and as a distribution deal. DROPPED as lower priority: the NEJM AI AI-INFO and auscultation papers (thin Cloudflare-blocked excerpts, no image; kept as alternates); CPT codes for CCTA AI (10-09, explainer); osteoporosis CXR (10-09) and infant motion screening (10-08), passed over for fresher npj; 3billion ASHG (company conference presentations); careCycle Medicare tool (plan comparison, weak clinical tie); JAMA Netw Open public-perceptions survey (survey only, dropped on 10-16 too). Diversity: medigatenews 2, nejm 1, radiologybusiness 1, nature 1, for 4 distinct outlets. No pick touches biosecurity or gain-of-function."
+ "date": "2026-10-18",
+ "section": "medicine",
+ "picks": [
+  {
+   "url": "https://www.nature.com/articles/s41746-026-03396-6",
+   "title": "AI-supported first consultation preparation in oncology: a real-world clinical usability study",
+   "source": "npj Digital Medicine",
+   "category": "medicine",
+   "published_iso": "2026-10-17T19:57:08Z",
+   "og_image": "",
+   "excerpt": "Real-world oncology clinic study of AI-based First Consultation Preparation (AI-FCP), an LLM that turns unstructured referral documents into structured summaries before a patient's first oncology visit, measuring workflow performance and clinician usability.",
+   "source_lang": "en",
+   "tool": "Medicine",
+   "accent": "#00897b",
+   "motif": "sphere",
+   "rationale": "This is the freshest item in the pool, and the open-access body can be fetched. An LLM deployed in a live oncology clinic turns messy referral packets into structured summaries before a new patient's first visit, and the study measures clinician usability."
+  },
+  {
+   "url": "https://www.nature.com/articles/s41746-026-03333-7",
+   "title": "Artificial intelligence for opportunistic osteoporosis screening on chest radiographs",
+   "source": "npj Digital Medicine",
+   "category": "medicine",
+   "published_iso": "2026-10-08T22:53:44Z",
+   "og_image": "",
+   "excerpt": "AI-OsRM predicts osteoporosis and low bone mineral density from routine chest X-rays; trained on 46,478 paired CXR/DXA exams from 26,757 patients and tested for clinical utility in three external cohorts.",
+   "source_lang": "en",
+   "tool": "Medicine",
+   "accent": "#0070f3",
+   "motif": "sphere",
+   "rationale": "The model screens for osteoporosis on chest X-rays patients already get, so an underdiagnosed disease is caught without an extra DXA scan. It was trained on 46k paired exams and validated in three external cohorts."
+  },
+  {
+   "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00146-9/fulltext",
+   "title": "Keeping artificial intelligence agents within the clinical task",
+   "source": "The Lancet Digital Health",
+   "category": "medicine",
+   "published_iso": "2026-10-16T15:41:37Z",
+   "og_image": "",
+   "excerpt": "Lancet Digital Health comment: general-purpose AI agents (ChatGPT Work, Codex, Claude Cowork, Claude Code) can now operate files and applications on clinicians' computers; the authors argue how to keep them scoped to the clinical task.",
+   "source_lang": "en",
+   "tool": "Medicine",
+   "accent": "#f5a623",
+   "motif": "sphere",
+   "rationale": "General-purpose desktop agents can now act on clinicians' machines, and this Lancet Digital Health comment sets out how to keep them scoped to the clinical task. It complements, but does not repeat, the AMA governance framework published 10-16."
+  },
+  {
+   "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.39048",
+   "title": "Public Perceptions of Timeliness for AI Use and Human Oversight",
+   "source": "JAMA Network Open",
+   "category": "medicine",
+   "published_iso": "2026-10-14T15:00:21Z",
+   "og_image": "",
+   "excerpt": "Cross-sectional JAMA Network Open study of how patients across birth generations weigh faster AI answers against waiting for human review in patient-portal messaging and mental health support; published with an invited commentary on 'waiting for the human in the loop'. (Date verified via Crossref.)",
+   "source_lang": "en",
+   "tool": "Medicine",
+   "accent": "#7928ca",
+   "motif": "sphere",
+   "rationale": "Patients weigh a fast AI answer against waiting for a human to review it, in portal messages and mental-health support. That is a direct design input for any health system putting AI drafting into patient messaging."
   }
+ ],
+ "alternates": [
+  {
+   "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15837377/pockethealth-pockethealth-expands-agentic-ai-platform",
+   "title": "PocketHealth expands agentic AI platform",
+   "source": "AuntMinnie",
+   "category": "medicine",
+   "published_iso": "2026-10-14T12:00:00Z",
+   "og_image": "",
+   "excerpt": "PocketHealth is extending its Conductor agentic AI platform into radiology protocoling, the reading room and revenue cycle, operating API-less legacy apps and payer portals under audited least-privilege accounts.",
+   "source_lang": "en",
+   "tool": "Medicine",
+   "accent": "#2ec5c5",
+   "motif": "sphere",
+   "rationale": "The body can be fetched and AI is central, but this is a vendor product expansion, mostly operational and revenue cycle. Use it if the auscultation abstract cannot be retrieved."
+  },
+  {
+   "url": "https://www.fiercehealthcare.com/payers/voice-ai-medicare-carecycle-rolls-out-free-plan-comparison-tool",
+   "title": "Voice AI startup careCycle rolls out free plan comparison tool for Medicare beneficiaries",
+   "source": "Fierce Healthcare",
+   "category": "medicine",
+   "published_iso": "2026-10-15T20:15:00Z",
+   "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1548788859/medicarecalculatorGettyImages-882656410.jpg/medicarecalculatorGettyImages-882656410.jpg?VersionId=Mc.76c4bHLcNPebDb4NbkvPhZU78hI9k",
+   "excerpt": "CareCycle, a voice AI company serving Medicare agencies, launched a free tool that helps Medicare beneficiaries compare plans; it takes no payer payments or commissions and does not sell personal data.",
+   "source_lang": "en",
+   "tool": "Medicine",
+   "accent": "#00897b",
+   "motif": "sphere",
+   "rationale": "It reaches patients and has a real image, but the clinical tie is weak because this is a plan-comparison tool. Second alternate."
+  }
+ ],
+ "dedup": {
+  "checks": {
+   "https://www.nature.com/articles/s41746-026-03396-6": {
+    "verdict": "new",
+    "nearest": "https://www.nature.com/articles/s41746-026-03232-x",
+    "new_action": ""
+   },
+   "https://www.nature.com/articles/s41746-026-03333-7": {
+    "verdict": "new",
+    "nearest": "https://www.auntminnie.com/clinical-news/digital-x-ray/article/15837620/radiologists-llms-fail-at-spotting-aigenerated-chest-xrays",
+    "new_action": ""
+   },
+   "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00146-9/fulltext": {
+    "verdict": "new",
+    "nearest": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+    "new_action": ""
+   },
+   "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.39048": {
+    "verdict": "new",
+    "nearest": "https://www.healthcaredive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831902/",
+    "new_action": ""
+   }
+  },
+  "note": "SWAP (orchestrator request after enrichment): I removed the AuntMinnie 'HPI: Evidence contradicts broad claims about AI, radiology workforce' pick and its check. Its body is mainly a rebuttal about imaging-use and workforce projections, with AI only as framing. REPLACEMENT: NEJM AI 'AI-Enhanced Auscultation to Identify Left Ventricular Dysfunction' (10-15). It has no history_match and no cluster. In the 30-day history_digest there is no cardiac, stethoscope, or auscultation story; the nearest AI-diagnostic validation cards (10-07 NEJM AI cervical dual-stain triage, 10-17 parkinsonism MRI) are different diseases and modalities, so it is new. Its body is behind Cloudflare, but the Crossref abstract is reachable. Other remaining candidates rejected for the swap: NEJM AI AI-INFOCARE (same pre-visit-summary theme as the AI-FCP pick, and the body is blocked); NEJM AI SMO medulloblastoma (single case study); PocketHealth (vendor expansion, kept as an alternate); AuntMinnie turnaround times (10-08, stale, overlaps the 10-08 Radiology Business efficiency card); STAT AI sandboxes (follow-up to the 10-15 STAT lobbying card with no new decision); Endpoints panel (commentary; endpoints.news is not in allowed_domains); CPT codes (cardiovascularbusiness.com is not allowed); Radiology Business pediatric adaptation (same paper as the 10-14 Nature BME card); OSCE grading and MedPage med-student cheating (education, not patient care); STM antibiotic review (a review, not a new result); MedCity op-ed (commentary); careCycle (weak clinical tie). Original pass: 19 candidates, 4 'related' tags, no clusters. Diversity: nature.com 2, thelancet 1, jamanetwork 1, nejm.org 1, for 4 distinct outlets. No pick touches biosecurity or gain-of-function. | Orchestrator: NEJM AI auscultation replacement dropped — no abstract reachable (Cloudflare; Crossref/PubMed/EuropePMC have none), unverifiable; medicine ships 4."
+ }
 }

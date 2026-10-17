@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "section": "science",
   "cards": [
     {
-      "id": "science-protease",
+      "id": "science-claude-quantum-circuits",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 설계한 분자 가위\n원하는 단백질만 절단",
-      "body": "Baker 연구실의 AI 설계 프로테아제가 TDP-43과 아밀로이드베타를 잘랐다.",
-      "mini_headline": "AI-built 단백질 가위",
+      "headline": "Claude가 설계한\n더 가벼운 양자 회로",
+      "body": "Anthropic·Harvard의 Claude가 여덟 과제 중 일곱서 자원 줄였다.",
+      "mini_headline": "Claude, 양자 회로를 줄이다",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-ai-molecular-scissors-protein.html",
+      "source": "The Quantum Insider",
+      "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,227 +19,181 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
-            "cap": "계산 설계와 실험 검증 방식. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+            "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "프로테아제는 단백질을 펩타이드로, 나아가 아미노산 하나하나로 쪼개는 천연 효소다. 그런 프로테아제를 과학자들이 인공지능을 써서 아예 처음부터 새로 설계했다."
+            "x": "Anthropic과 Harvard 연구팀이 Claude로 연산과 큐비트가 덜 드는 양자 회로를 설계했다. 시험 대상은 화학·최적화·물리 시뮬레이션·정수론에 쓰이는 여덟 가지 구성 요소다. 일곱 개 설계는 연구의 기준선보다 비용이 큰 양자 연산과 큐비트를 모두 줄였다. 여덟 번째 설계는 시간–메모리 절충이 더 나은 새 산술 방식을 내놓았다."
           },
           {
             "t": "p",
-            "x": "University of Washington의 David Baker 연구팀은 RFdiffusion2의 변형인 RFD2-MI로 3D 형태와 핵심 골격을 잡았다. 아미노산 서열은 ProteinMPNN과 EnhancedMPNN으로 골랐다. 예측 구조가 의도한 설계와 얼마나 들어맞는지는 AlphaFold 3로 확인했다."
-          },
-          {
-            "t": "video",
-            "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+            "x": "재설계한 한 디코딩 회로는 Toffoli 게이트가 510만 개에서 약 440,000개로 줄었고, 최대 큐비트 수는 1,938개에서 1,837개로 내려갔다. 고정소수점 Gaussian 회로는 게이트-큐비트 곱을 39배, 선형방정식 루틴은 32배 줄였다."
           },
           {
             "t": "p",
-            "x": "연구팀은 시스테인 프로테아제 69종과 아연 프로테아제 135종을 시험했다. 시스테인 쪽에서는 후보 69개 가운데 13개가 표적을 잘랐고, 아연 쪽은 후보 135개의 36%가 짝이 되는 펩타이드 표적을 끊었다. AI로 다듬자 최상위 아연 프로테아제는 절단 속도가 30배 빨라졌다."
+            "x": "모델에게는 아이디어 제안만 맡기지 않았다. 회로를 검증할 프로그래밍 도구와, Toffoli 게이트 수에 최대 큐비트 수를 곱해 점수를 매기는 평가기도 함께 주었다. Anthropic 블로그가 밝힌 모델은 Claude Mythos 5다. 타원곡선 산술 작업에는 사람의 프롬프트가 제한적으로만 들어갔고, 53시간이 걸렸다."
           },
           {
             "t": "p",
-            "x": "AI-designed 프로테아제 하나는 ALS와 일부 치매에서 비정상적으로 쌓이는 단백질 TDP-43을 전장 그대로 끊었다. 나머지 가운데 일부는 Alzheimer's disease와 관련된 amyloid-beta, 그리고 혈청 아밀로이드 A의 표적 조각을 잘라냈다."
-          },
-          {
-            "t": "p",
-            "x": "아직 사람을 대상으로 한 임상시험은 거치지 않았다. 연구 결과는 Nature에 논문 두 편으로 실렸다."
+            "x": "이번 결과는 자원 추정치이고 양자 하드웨어에서 시연한 것은 아니다. 표본 테스트만으로는 모든 입력에서 성공한다고 증명되지도 않는다. 논문은 arXiv 프리프린트로, 아직 동료 심사를 거치지 않았다."
           }
         ]
       },
+      "_lead_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "AI designs molecular scissors\nthat cut chosen proteins",
-          "body": "The Baker lab's AI-designed proteases cut TDP-43 and amyloid-beta fragments, two Nature papers report.",
-          "mini_headline": "AI-built protein scissors",
+          "headline": "Claude designs leaner\nquantum circuits",
+          "body": "Anthropic and Harvard researchers used Claude to design quantum circuits that cut resources in seven of eight tasks.",
+          "mini_headline": "Claude trims quantum circuits",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
-                "cap": "Computational design and experimental testing approach. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Proteases are naturally occurring enzymes that break down proteins into peptides and even single amino acids. Now scientists have used artificial intelligence to design new versions from scratch."
+                "x": "A team from Anthropic and Harvard used Claude to design quantum circuits that require fewer operations and qubits, testing the approach on eight building blocks used in chemistry, optimization, physics simulation and number theory. Seven designs reduced both costly quantum operations and qubits versus the study's baselines; the eighth produced a new approach to arithmetic with better time–memory trade-offs."
               },
               {
                 "t": "p",
-                "x": "David Baker at the University of Washington and his colleagues used a version of RFdiffusion2 called RFD2-MI to design the 3D shape and core backbones, ProteinMPNN and EnhancedMPNN to select the amino acid sequences, and AlphaFold 3 to check how closely the predicted shapes matched the intended designs."
-              },
-              {
-                "t": "video",
-                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+                "x": "One redesigned decoding circuit needed about 440,000 Toffoli gates, down from 5.1 million, and cut peak qubits from 1,938 to 1,837. A fixed-point Gaussian circuit cut the gate-qubit product by a factor of 39, and a linear-equations routine by 32."
               },
               {
                 "t": "p",
-                "x": "The team tested 69 versions of the cysteine protease and 135 of the zinc protease. Out of the 69 cysteine protease candidates, 13 successfully cut their targets; 36% of the 135 zinc protease candidates cut their matching peptide targets. AI refinement boosted the cutting speed of the top zinc protease by 30 times."
+                "x": "Rather than only suggesting ideas, the model got programming tools and an evaluator that checked circuits and scored Toffoli gates times peak qubits. Anthropic's blog names the model Claude Mythos 5; its elliptic-curve arithmetic work took 53 hours with limited human prompting."
               },
               {
                 "t": "p",
-                "x": "One of the AI-designed proteases cut full-length TDP-43, a protein that builds up abnormally in ALS and some types of dementia. Others chopped targeted fragments of amyloid-beta, linked to Alzheimer's disease, and serum amyloid A."
-              },
-              {
-                "t": "p",
-                "x": "The enzymes have not yet been tested in human clinical trials. The findings are detailed in two papers published in Nature."
+                "x": "The results are resource estimates, not demonstrations on quantum hardware, and sampled tests do not prove every input succeeds. The paper is an arXiv preprint and has not been peer reviewed."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 설계한 분자 가위\n원하는 단백질만 절단",
-          "body": "Baker 연구실의 AI 설계 프로테아제가 TDP-43과 아밀로이드베타를 잘랐다.",
-          "mini_headline": "AI-built 단백질 가위",
+          "headline": "Claude가 설계한\n더 가벼운 양자 회로",
+          "body": "Anthropic·Harvard의 Claude가 여덟 과제 중 일곱서 자원 줄였다.",
+          "mini_headline": "Claude, 양자 회로를 줄이다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
-                "cap": "계산 설계와 실험 검증 방식. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "프로테아제는 단백질을 펩타이드로, 나아가 아미노산 하나하나로 쪼개는 천연 효소다. 그런 프로테아제를 과학자들이 인공지능을 써서 아예 처음부터 새로 설계했다."
+                "x": "Anthropic과 Harvard 연구팀이 Claude로 연산과 큐비트가 덜 드는 양자 회로를 설계했다. 시험 대상은 화학·최적화·물리 시뮬레이션·정수론에 쓰이는 여덟 가지 구성 요소다. 일곱 개 설계는 연구의 기준선보다 비용이 큰 양자 연산과 큐비트를 모두 줄였다. 여덟 번째 설계는 시간–메모리 절충이 더 나은 새 산술 방식을 내놓았다."
               },
               {
                 "t": "p",
-                "x": "University of Washington의 David Baker 연구팀은 RFdiffusion2의 변형인 RFD2-MI로 3D 형태와 핵심 골격을 잡았다. 아미노산 서열은 ProteinMPNN과 EnhancedMPNN으로 골랐다. 예측 구조가 의도한 설계와 얼마나 들어맞는지는 AlphaFold 3로 확인했다."
-              },
-              {
-                "t": "video",
-                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+                "x": "재설계한 한 디코딩 회로는 Toffoli 게이트가 510만 개에서 약 440,000개로 줄었고, 최대 큐비트 수는 1,938개에서 1,837개로 내려갔다. 고정소수점 Gaussian 회로는 게이트-큐비트 곱을 39배, 선형방정식 루틴은 32배 줄였다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 시스테인 프로테아제 69종과 아연 프로테아제 135종을 시험했다. 시스테인 쪽에서는 후보 69개 가운데 13개가 표적을 잘랐고, 아연 쪽은 후보 135개의 36%가 짝이 되는 펩타이드 표적을 끊었다. AI로 다듬자 최상위 아연 프로테아제는 절단 속도가 30배 빨라졌다."
+                "x": "모델에게는 아이디어 제안만 맡기지 않았다. 회로를 검증할 프로그래밍 도구와, Toffoli 게이트 수에 최대 큐비트 수를 곱해 점수를 매기는 평가기도 함께 주었다. Anthropic 블로그가 밝힌 모델은 Claude Mythos 5다. 타원곡선 산술 작업에는 사람의 프롬프트가 제한적으로만 들어갔고, 53시간이 걸렸다."
               },
               {
                 "t": "p",
-                "x": "AI-designed 프로테아제 하나는 ALS와 일부 치매에서 비정상적으로 쌓이는 단백질 TDP-43을 전장 그대로 끊었다. 나머지 가운데 일부는 Alzheimer's disease와 관련된 amyloid-beta, 그리고 혈청 아밀로이드 A의 표적 조각을 잘라냈다."
-              },
-              {
-                "t": "p",
-                "x": "아직 사람을 대상으로 한 임상시험은 거치지 않았다. 연구 결과는 Nature에 논문 두 편으로 실렸다."
+                "x": "이번 결과는 자원 추정치이고 양자 하드웨어에서 시연한 것은 아니다. 표본 테스트만으로는 모든 입력에서 성공한다고 증명되지도 않는다. 논문은 arXiv 프리프린트로, 아직 동료 심사를 거치지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが設計した分子のハサミ\n狙った蛋白質だけ切断",
-          "body": "Baker研のAI設計プロテアーゼがTDP-43とアミロイドβ断片を切断した。",
-          "mini_headline": "AI-built タンパク質のハサミ",
+          "headline": "Claudeが設計した\nより軽い量子回路",
+          "body": "AnthropicとHarvardのClaude設計回路は八課題中七つで資源を減らした。",
+          "mini_headline": "Claude、量子回路をスリム化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
-                "cap": "計算設計と実験検証のアプローチ。Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "プロテアーゼは、タンパク質をペプチドへ、さらには単一のアミノ酸へと分解する天然の酵素である。いま科学者たちは人工知能を使い、新しいものをゼロから設計した。"
+                "x": "AnthropicとHarvardのチームはClaudeを用いて、必要な演算と量子ビットが少ない量子回路を設計し、化学、最適化、物理シミュレーション、数論で使われる八つの構成要素で手法を検証した。七つの設計は研究のベースラインと比べ、コストの高い量子演算と量子ビットの両方を削減し、八つ目は時間とメモリのトレードオフに優れた新しい算術手法を生み出した。"
               },
               {
                 "t": "p",
-                "x": "University of WashingtonのDavid Bakerらは、RFdiffusion2の派生版RFD2-MIで3D形状と中核の骨格を設計し、ProteinMPNNとEnhancedMPNNでアミノ酸配列を選び、AlphaFold 3で予測構造が意図した設計とどれだけ一致するかを確かめた。"
-              },
-              {
-                "t": "video",
-                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+                "x": "再設計したある復号回路では、Toffoliゲートが510万から約440,000に減り、ピーク量子ビット数は1,938から1,837に下がった。固定小数点のGaussian回路はゲート・量子ビット積を39倍、線形方程式ルーチンは32倍縮小した。"
               },
               {
                 "t": "p",
-                "x": "チームはシステインプロテアーゼ69種と亜鉛プロテアーゼ135種を試験した。システインプロテアーゼ候補69個のうち13個が標的を切断し、亜鉛プロテアーゼ候補135個の36%が対応するペプチド標的を切断した。AIによる改良で、最上位の亜鉛プロテアーゼの切断速度は30倍に高まった。"
+                "x": "モデルはアイデアを提案するだけでなく、プログラミングツールと、回路を検証してToffoliゲート数とピーク量子ビット数の積で採点する評価器を与えられた。AnthropicのブログはこのモデルをClaude Mythos 5としており、楕円曲線算術の作業は人間による限られたプロンプトのもとで53時間を要した。"
               },
               {
                 "t": "p",
-                "x": "AI-designedプロテアーゼの一つは、ALSや一部の認知症で異常に蓄積するタンパク質TDP-43を全長で切断した。ほかのものは、Alzheimer's diseaseに関わるamyloid-betaや血清アミロイドAの狙った断片を切り出した。"
-              },
-              {
-                "t": "p",
-                "x": "これらの酵素はまだヒトでの臨床試験にかけられていない。成果はNatureに掲載された二本の論文で報告されている。"
+                "x": "結果は資源の見積もりであり、量子ハードウェア上での実証ではない。サンプルによるテストも、すべての入力で成功することを証明するものではない。論文はarXivのプレプリントで、査読を経ていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI设计分子剪刀\n精准切开目标蛋白",
-          "body": "Baker实验室用AI设计的蛋白酶切开了TDP-43与amyloid-beta片段。",
-          "mini_headline": "AI-built 蛋白质剪刀",
+          "headline": "Claude设计出\n更精简的量子电路",
+          "body": "Anthropic与Harvard用Claude设计量子电路，八项任务中七项节省资源。",
+          "mini_headline": "Claude精简量子电路",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
-                "cap": "计算设计与实验验证的流程。Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "蛋白酶是天然存在的酶，能把蛋白质分解成多肽，甚至分解到单个氨基酸。如今科学家用人工智能从零设计出新的蛋白酶。"
+                "x": "来自Anthropic和Harvard的团队用Claude设计所需运算和量子比特更少的量子电路，并在化学、优化、物理模拟和数论中使用的八个基本模块上测试这一方法。与研究基线相比，七个设计同时减少了代价高昂的量子运算和量子比特；第八个则提出了一种时间与内存权衡更优的新算术方法。"
               },
               {
                 "t": "p",
-                "x": "University of Washington的David Baker及同事，用RFdiffusion2的一个版本RFD2-MI设计3D形状与核心骨架，用ProteinMPNN和EnhancedMPNN挑选氨基酸序列，再用AlphaFold 3核对预测结构与设计意图的吻合程度。"
-              },
-              {
-                "t": "video",
-                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+                "x": "一个重新设计的解码电路所需Toffoli门从510万个降至约440,000个，峰值量子比特从1,938个减至1,837个。一个定点Gaussian电路将门–量子比特乘积缩小了39倍，一个线性方程组例程则缩小了32倍。"
               },
               {
                 "t": "p",
-                "x": "团队测试了69种半胱氨酸蛋白酶和135种锌蛋白酶。69个半胱氨酸蛋白酶候选中有13个成功切开目标；135个锌蛋白酶候选中有36%切开了各自对应的多肽目标。经AI优化，最佳锌蛋白酶的切割速度提高到30倍。"
+                "x": "模型不只是提出想法，还获得了编程工具和一个评估器，后者负责检查电路，并以Toffoli门数乘以峰值量子比特数打分。Anthropic的博客称该模型为Claude Mythos 5；其椭圆曲线算术工作在有限的人工提示下耗时53小时。"
               },
               {
                 "t": "p",
-                "x": "其中一种AI-designed蛋白酶切开了全长TDP-43，这种蛋白会在ALS和部分痴呆中异常堆积。另一些则切下与Alzheimer's disease相关的amyloid-beta以及血清淀粉样蛋白A的指定片段。"
-              },
-              {
-                "t": "p",
-                "x": "这些酶尚未进入人体临床试验。相关结果发表于Nature的两篇论文。"
+                "x": "这些结果是资源估算，并非在量子硬件上的演示，抽样测试也不能证明所有输入都会成功。该论文是arXiv预印本，尚未经过同行评审。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA diseña tijeras moleculares\nque cortan proteínas elegidas",
-          "body": "Las proteasas diseñadas por IA del laboratorio de Baker cortan TDP-43 y amyloid-beta, según Nature.",
-          "mini_headline": "Tijeras de proteínas AI-built",
+          "headline": "Claude diseña circuitos\ncuánticos más ligeros",
+          "body": "Con Claude, Anthropic y Harvard diseñaron circuitos cuánticos que ahorran recursos en siete de ocho tareas.",
+          "mini_headline": "Claude recorta circuitos cuánticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
-                "cap": "Enfoque de diseño computacional y validación experimental. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Las proteasas son enzimas naturales que descomponen las proteínas en péptidos e incluso en aminoácidos sueltos. Ahora los científicos han usado inteligencia artificial para diseñar versiones nuevas desde cero."
+                "x": "Un equipo de Anthropic y Harvard usó Claude para diseñar circuitos cuánticos que requieren menos operaciones y qubits, y probó el enfoque en ocho bloques básicos usados en química, optimización, simulación física y teoría de números. Siete diseños redujeron tanto las costosas operaciones cuánticas como los qubits frente a las referencias del estudio; el octavo produjo un nuevo enfoque de aritmética con mejores compensaciones entre tiempo y memoria."
               },
               {
                 "t": "p",
-                "x": "David Baker, de la University of Washington, y sus colegas usaron una versión de RFdiffusion2 llamada RFD2-MI para diseñar la forma 3D y los esqueletos centrales, ProteinMPNN y EnhancedMPNN para elegir las secuencias de aminoácidos, y AlphaFold 3 para comprobar hasta qué punto las formas predichas coincidían con los diseños previstos."
-              },
-              {
-                "t": "video",
-                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+                "x": "Un circuito de decodificación rediseñado necesitó unas 440,000 puertas Toffoli, frente a 5.1 millones, y redujo los qubits máximos de 1,938 a 1,837. Un circuito Gaussian de punto fijo redujo el producto puertas-qubits en un factor de 39, y una rutina de ecuaciones lineales, en 32."
               },
               {
                 "t": "p",
-                "x": "El equipo probó 69 versiones de la proteasa de cisteína y 135 de la proteasa de zinc. De los 69 candidatos de proteasa de cisteína, 13 cortaron sus objetivos; el 36% de los 135 candidatos de proteasa de zinc cortó el péptido correspondiente. El refinamiento con IA multiplicó por 30 veces la velocidad de corte de la mejor proteasa de zinc."
+                "x": "En lugar de limitarse a sugerir ideas, el modelo recibió herramientas de programación y un evaluador que verificaba los circuitos y puntuaba el producto de puertas Toffoli por qubits máximos. El blog de Anthropic identifica el modelo como Claude Mythos 5; su trabajo en aritmética de curvas elípticas llevó 53 horas con indicaciones humanas limitadas."
               },
               {
                 "t": "p",
-                "x": "Una de las proteasas AI-designed cortó TDP-43 de longitud completa, una proteína que se acumula de forma anómala en la ALS y en algunos tipos de demencia. Otras cortaron fragmentos concretos de amyloid-beta, vinculada a la Alzheimer's disease, y de amiloide sérico A."
-              },
-              {
-                "t": "p",
-                "x": "Las enzimas aún no se han probado en ensayos clínicos con personas. Los resultados se detallan en dos artículos publicados en Nature."
+                "x": "Los resultados son estimaciones de recursos, no demostraciones en hardware cuántico, y las pruebas por muestreo no demuestran que todas las entradas funcionen. El artículo es un preprint de arXiv y no ha pasado revisión por pares."
               }
             ]
           }
@@ -247,157 +201,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 설계한 분자 가위\n원하는 단백질만 절단",
-          "body": "Baker 연구실의 AI 설계 프로테아제가 TDP-43과 아밀로이드베타를 잘랐다.",
-          "mini_headline": "AI-built 단백질 가위",
+          "headline": "Claude가 설계한\n더 가벼운 양자 회로",
+          "body": "Anthropic·Harvard의 Claude가 여덟 중 일곱 과제서 자원 줄였다.",
+          "mini_headline": "Claude, 양자 회로를 줄이다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
-                "cap": "계산 설계와 실험 검증 방식. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "프로테아제는 단백질을 펩타이드로, 나아가 아미노산 하나하나로 분해하는 천연 효소다. 이제 과학자들은 인공지능으로 새로운 프로테아제를 처음부터 설계했다."
+                "x": "Anthropic과 Harvard 연구팀은 Claude로 연산과 큐비트가 덜 드는 양자 회로를 설계하고, 화학·최적화·물리 시뮬레이션·정수론에 쓰이는 여덟 가지 구성 요소에서 이 방식을 시험했다. 일곱 개 설계는 연구의 기준선보다 비용이 큰 양자 연산과 큐비트를 모두 줄였고, 여덟 번째 설계는 시간–메모리 절충이 더 나은 새로운 산술 방식을 내놓았다."
               },
               {
                 "t": "p",
-                "x": "University of Washington의 David Baker와 동료들은 RFdiffusion2의 변형인 RFD2-MI로 3D 형태와 핵심 골격을 설계하고, ProteinMPNN과 EnhancedMPNN으로 아미노산 서열을 고른 뒤, AlphaFold 3로 예측 구조가 의도한 설계와 얼마나 들어맞는지 확인했다."
-              },
-              {
-                "t": "video",
-                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+                "x": "재설계한 한 디코딩 회로는 Toffoli 게이트가 510만 개에서 약 440,000개로 줄었고, 최대 큐비트 수는 1,938개에서 1,837개로 감소했다. 고정소수점 Gaussian 회로는 게이트-큐비트 곱을 39배, 선형방정식 루틴은 32배 줄였다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 시스테인 프로테아제 69종과 아연 프로테아제 135종을 시험했다. 시스테인 프로테아제 후보 69개 가운데 13개가 표적을 잘랐고, 아연 프로테아제 후보 135개의 36%가 짝이 되는 펩타이드 표적을 절단했다. AI로 다듬자 최상위 아연 프로테아제의 절단 속도는 30배 빨라졌다."
+                "x": "모델은 아이디어를 제안하는 데 그치지 않고, 프로그래밍 도구와 함께 회로를 검증하고 Toffoli 게이트 수에 최대 큐비트 수를 곱해 점수를 매기는 평가기를 받았다. Anthropic 블로그는 이 모델을 Claude Mythos 5로 명시했으며, 타원곡선 산술 작업에는 사람의 제한적인 프롬프트만으로 53시간이 걸렸다."
               },
               {
                 "t": "p",
-                "x": "AI-designed 프로테아제 가운데 하나는 ALS와 일부 치매에서 비정상적으로 쌓이는 단백질 TDP-43을 전장 그대로 잘랐다. 다른 것들은 Alzheimer's disease와 관련된 amyloid-beta, 그리고 혈청 아밀로이드 A의 표적 조각을 잘라냈다."
-              },
-              {
-                "t": "p",
-                "x": "이 효소들은 아직 사람 대상 임상시험을 거치지 않았다. 연구 결과는 Nature에 실린 논문 두 편에 담겼다."
+                "x": "이 결과는 자원 추정치일 뿐 양자 하드웨어에서 시연한 것이 아니며, 표본 테스트로 모든 입력에서 성공한다고 증명되지도 않는다. 논문은 arXiv 프리프린트로, 아직 동료 심사를 거치지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが設計した分子のハサミ\n狙った蛋白質だけ切断",
-          "body": "Baker研のAI設計プロテアーゼがTDP-43とアミロイドβ断片を切断した。",
-          "mini_headline": "AI-built タンパク質のハサミ",
+          "headline": "Claudeが設計した\nより軽い量子回路",
+          "body": "AnthropicとHarvardのClaude設計回路は八課題中七つで資源を減らした。",
+          "mini_headline": "Claude、量子回路をスリム化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
-                "cap": "計算設計と実験検証のアプローチ。Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "プロテアーゼは、タンパク質をペプチドへ、さらには単一のアミノ酸へと分解する天然の酵素である。いま科学者たちは人工知能を使い、新しいものをゼロから設計した。"
+                "x": "AnthropicとHarvardのチームはClaudeを用いて、必要な演算と量子ビットが少ない量子回路を設計し、化学、最適化、物理シミュレーション、数論で使われる八つの構成要素で手法を検証した。七つの設計は研究のベースラインと比べ、コストの高い量子演算と量子ビットの両方を削減し、八つ目は時間とメモリのトレードオフに優れた新しい算術手法を生み出した。"
               },
               {
                 "t": "p",
-                "x": "University of WashingtonのDavid Bakerらは、RFdiffusion2の派生版RFD2-MIで3D形状と中核の骨格を設計し、ProteinMPNNとEnhancedMPNNでアミノ酸配列を選び、AlphaFold 3で予測構造が意図した設計とどれだけ一致するかを確かめた。"
-              },
-              {
-                "t": "video",
-                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+                "x": "再設計したある復号回路では、Toffoliゲートが510万から約440,000に減り、ピーク量子ビット数は1,938から1,837に下がった。固定小数点のGaussian回路はゲート・量子ビット積を39倍、線形方程式ルーチンは32倍縮小した。"
               },
               {
                 "t": "p",
-                "x": "チームはシステインプロテアーゼ69種と亜鉛プロテアーゼ135種を試験した。システインプロテアーゼ候補69個のうち13個が標的を切断し、亜鉛プロテアーゼ候補135個の36%が対応するペプチド標的を切断した。AIによる改良で、最上位の亜鉛プロテアーゼの切断速度は30倍に高まった。"
+                "x": "モデルはアイデアを提案するだけでなく、プログラミングツールと、回路を検証してToffoliゲート数とピーク量子ビット数の積で採点する評価器を与えられた。AnthropicのブログはこのモデルをClaude Mythos 5としており、楕円曲線算術の作業は人間による限られたプロンプトのもとで53時間を要した。"
               },
               {
                 "t": "p",
-                "x": "AI-designedプロテアーゼの一つは、ALSや一部の認知症で異常に蓄積するタンパク質TDP-43を全長で切断した。ほかのものは、Alzheimer's diseaseに関わるamyloid-betaや血清アミロイドAの狙った断片を切り出した。"
-              },
-              {
-                "t": "p",
-                "x": "これらの酵素はまだヒトでの臨床試験にかけられていない。成果はNatureに掲載された二本の論文で報告されている。"
+                "x": "結果は資源の見積もりであり、量子ハードウェア上での実証ではない。サンプルによるテストも、すべての入力で成功することを証明するものではない。論文はarXivのプレプリントで、査読を経ていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI设计分子剪刀\n精准切开目标蛋白",
-          "body": "Baker实验室用AI设计的蛋白酶切开了TDP-43与amyloid-beta片段。",
-          "mini_headline": "AI-built 蛋白质剪刀",
+          "headline": "Claude设计出\n更精简的量子电路",
+          "body": "Anthropic与Harvard用Claude设计量子电路，八项任务中七项节省资源。",
+          "mini_headline": "Claude精简量子电路",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
-                "cap": "计算设计与实验验证的流程。Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "蛋白酶是天然存在的酶，能把蛋白质分解成多肽，甚至分解到单个氨基酸。如今科学家用人工智能从零设计出新的蛋白酶。"
+                "x": "来自Anthropic和Harvard的团队用Claude设计所需运算和量子比特更少的量子电路，并在化学、优化、物理模拟和数论中使用的八个基本模块上测试这一方法。与研究基线相比，七个设计同时减少了代价高昂的量子运算和量子比特；第八个则提出了一种时间与内存权衡更优的新算术方法。"
               },
               {
                 "t": "p",
-                "x": "University of Washington的David Baker及同事，用RFdiffusion2的一个版本RFD2-MI设计3D形状与核心骨架，用ProteinMPNN和EnhancedMPNN挑选氨基酸序列，再用AlphaFold 3核对预测结构与设计意图的吻合程度。"
-              },
-              {
-                "t": "video",
-                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+                "x": "一个重新设计的解码电路所需Toffoli门从510万个降至约440,000个，峰值量子比特从1,938个减至1,837个。一个定点Gaussian电路将门–量子比特乘积缩小了39倍，一个线性方程组例程则缩小了32倍。"
               },
               {
                 "t": "p",
-                "x": "团队测试了69种半胱氨酸蛋白酶和135种锌蛋白酶。69个半胱氨酸蛋白酶候选中有13个成功切开目标；135个锌蛋白酶候选中有36%切开了各自对应的多肽目标。经AI优化，最佳锌蛋白酶的切割速度提高到30倍。"
+                "x": "模型不只是提出想法，还获得了编程工具和一个评估器，后者负责检查电路，并以Toffoli门数乘以峰值量子比特数打分。Anthropic的博客称该模型为Claude Mythos 5；其椭圆曲线算术工作在有限的人工提示下耗时53小时。"
               },
               {
                 "t": "p",
-                "x": "其中一种AI-designed蛋白酶切开了全长TDP-43，这种蛋白会在ALS和部分痴呆中异常堆积。另一些则切下与Alzheimer's disease相关的amyloid-beta以及血清淀粉样蛋白A的指定片段。"
-              },
-              {
-                "t": "p",
-                "x": "这些酶尚未进入人体临床试验。相关结果发表于Nature的两篇论文。"
+                "x": "这些结果是资源估算，并非在量子硬件上的演示，抽样测试也不能证明所有输入都会成功。该论文是arXiv预印本，尚未经过同行评审。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA diseña tijeras moleculares\nque cortan proteínas elegidas",
-          "body": "Las proteasas diseñadas por IA del laboratorio de Baker cortan TDP-43 y amyloid-beta, según Nature.",
-          "mini_headline": "Tijeras de proteínas AI-built",
+          "headline": "Claude diseña circuitos\ncuánticos más ligeros",
+          "body": "Con Claude, Anthropic y Harvard diseñaron circuitos cuánticos que ahorran recursos en siete de ocho tareas.",
+          "mini_headline": "Claude recorta circuitos cuánticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
-                "cap": "Enfoque de diseño computacional y validación experimental. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Las proteasas son enzimas naturales que descomponen las proteínas en péptidos e incluso en aminoácidos sueltos. Ahora los científicos han usado inteligencia artificial para diseñar versiones nuevas desde cero."
+                "x": "Un equipo de Anthropic y Harvard usó Claude para diseñar circuitos cuánticos que requieren menos operaciones y qubits, y probó el enfoque en ocho bloques básicos usados en química, optimización, simulación física y teoría de números. Siete diseños redujeron tanto las costosas operaciones cuánticas como los qubits frente a las referencias del estudio; el octavo produjo un nuevo enfoque de aritmética con mejores compensaciones entre tiempo y memoria."
               },
               {
                 "t": "p",
-                "x": "David Baker, de la University of Washington, y sus colegas usaron una versión de RFdiffusion2 llamada RFD2-MI para diseñar la forma 3D y los esqueletos centrales, ProteinMPNN y EnhancedMPNN para elegir las secuencias de aminoácidos, y AlphaFold 3 para comprobar hasta qué punto las formas predichas coincidían con los diseños previstos."
-              },
-              {
-                "t": "video",
-                "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+                "x": "Un circuito de decodificación rediseñado necesitó unas 440,000 puertas Toffoli, frente a 5.1 millones, y redujo los qubits máximos de 1,938 a 1,837. Un circuito Gaussian de punto fijo redujo el producto puertas-qubits en un factor de 39, y una rutina de ecuaciones lineales, en 32."
               },
               {
                 "t": "p",
-                "x": "El equipo probó 69 versiones de la proteasa de cisteína y 135 de la proteasa de zinc. De los 69 candidatos de proteasa de cisteína, 13 cortaron sus objetivos; el 36% de los 135 candidatos de proteasa de zinc cortó el péptido correspondiente. El refinamiento con IA multiplicó por 30 veces la velocidad de corte de la mejor proteasa de zinc."
+                "x": "En lugar de limitarse a sugerir ideas, el modelo recibió herramientas de programación y un evaluador que verificaba los circuitos y puntuaba el producto de puertas Toffoli por qubits máximos. El blog de Anthropic identifica el modelo como Claude Mythos 5; su trabajo en aritmética de curvas elípticas llevó 53 horas con indicaciones humanas limitadas."
               },
               {
                 "t": "p",
-                "x": "Una de las proteasas AI-designed cortó TDP-43 de longitud completa, una proteína que se acumula de forma anómala en la ALS y en algunos tipos de demencia. Otras cortaron fragmentos concretos de amyloid-beta, vinculada a la Alzheimer's disease, y de amiloide sérico A."
-              },
-              {
-                "t": "p",
-                "x": "Las enzimas aún no se han probado en ensayos clínicos con personas. Los resultados se detallan en dos artículos publicados en Nature."
+                "x": "Los resultados son estimaciones de recursos, no demostraciones en hardware cuántico, y las pruebas por muestreo no demuestran que todas las entradas funcionen. El artículo es un preprint de arXiv y no ha pasado revisión por pares."
               }
             ]
           }
@@ -405,15 +327,15 @@
       }
     },
     {
-      "id": "science-magnet-patterns",
+      "id": "science-fire-gene-regulation",
       "source_lang": "en",
-      "tool": "Science",
       "eyebrow": "AI NEWS",
-      "headline": "물리 법칙 품은 AI\n얇은 자석 속 패턴 읽다",
-      "body": "물리 기반 알고리즘이 바깥 자기장만으로 초박막 자석 내부의 자화를 추정한다.",
-      "mini_headline": "AI가 그린 자석 속 패턴",
+      "headline": "ML이 점수 매긴\n모계·부계의 열린 DNA",
+      "body": "FIRE는 머신러닝으로 모계·부계의 열린 DNA에서 유전자 조절 영역을 골라낸다.",
+      "mini_headline": "ML로 그린 유전자 스위치 지도",
+      "tool": "Science",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-physics-ai-reconstructs-hidden-patterns.html",
+      "url": "https://phys.org/news/2026-10-machine-analysis-gene-reveals-dimension.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -421,203 +343,181 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
-            "cap": "다이아몬드 양자 센서가 초박막 자석 위의 자기장을 스캔하고, 물리 기반 방법이 그 아래 숨은 자화를 재구성한다. Credit: Alexander Setescak / University of Vienna"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+            "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
           },
           {
             "t": "p",
-            "x": "현대 현미경은 나노 규모 자성 물질 바깥의 자기장만 잡아낼 뿐 내부 패턴은 못 본다. 속이 서로 다르게 생겨도 바깥으로는 똑같은 자기장이 나올 수 있어, 거꾸로 되짚는 일은 오랫동안 난제로 남았다."
+            "x": "University of Utah Health 연구진이 Cell에 발표한 도구 FIRE는 롱리드 DNA 시퀀싱과 머신러닝을 결합해, 각 염색체의 모계·부계 사본에서 어떤 조절 영역이 활성인지 판별한다."
           },
           {
             "t": "p",
-            "x": "빈 대학교(University of Vienna) 물리학자들이 드레스덴(Dresden)과 싱가포르(Singapore), 울산(Ulsan)의 동료들과 함께 이 문제를 풀었다. 물리 법칙을 최신 머신러닝 방법에 그대로 녹이는 방식이다. 연구는 Physical Review Letters에 실렸고, 소프트웨어는 오픈소스로 무료 공개했다."
+            "x": "먼저 물리적으로 접근 가능한 DNA에 표시를 한다. 그다음 머신러닝이 표시된 영역 가운데 유전자 조절에 중요할 가능성이 큰 곳을 평가하는데, 수십억 개 영역까지 넓혀 돌릴 수 있다. Mitchell R. Vollger는 \"여기서 머신러닝은 우리가 데이터에서 눈으로 직접 볼 수 있는 것을 그대로 따라 하는 것\"이라고 말한다."
           },
           {
             "t": "p",
-            "x": "이 물리 기반 알고리즘은 측정된 자기장과 들어맞으면서 물질의 물리적 에너지를 가장 낮추는 자기 패턴을 고른다. 기본 물리 법칙에 어긋나는 패턴은 아예 걸러낸다. 연구를 이끈 Claas Abert는 \"어떤 해가 현실적인지는 자석의 물리적 에너지가 결정하게 했다\"고 말했다."
+            "x": "FIRE는 그동안 놓친 조절 영역 수만 곳을 찾아냈다. 이런 영역은 질병 관련 변이를 품고 있을 가능성이 더 높다. 셀리악병 사례에서는 면역 유전자 옆 유전자 스위치의 DNA 글자 하나를 바꾸자 스위치가 열린 정도가 달라졌다."
           },
           {
             "t": "p",
-            "x": "시료는 National University of Singapore(싱가포르국립대)에서 합성한 초박막 Fe₃−ₓGaTe₂였다. 연구팀은 드레스덴의 Max Planck Institute for Chemical Physics of Solids(막스플랑크 고체화학물리연구소)가 측정한 다이아몬드 질소-공공 센서 데이터로 이 방법을 검증했다. 소프트웨어는 자기 패턴과 센서 높이를 한꺼번에 계산해 81나노미터라는 거리를 찾아냈다."
-          },
-          {
-            "t": "p",
-            "x": "다른 자기 이미징 기법에도 그대로 쓸 수 있는 방식이다. 연구팀은 이미 복잡한 자성 나노구조의 3D X-ray 이미징으로 방법을 넓히는 중이다."
+            "x": "약 40%는 물려받은 두 사본의 DNA가 그 위치에서 똑같은데도 조절이 달랐다. 이런 차이 일부는 세포가 분열할 때 그대로 대물림됐다. Vollger는 이를 \"유전이 유전자 조절을 얼마나 결정할 수 있는지의 한계\"라고 부른다."
           }
         ]
       },
+      "_lead_image": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "Physics-guided AI reveals\nhidden patterns in thin magnets",
-          "body": "A physics-informed algorithm infers the magnetization inside ultrathin magnets from the field measured outside them.",
-          "mini_headline": "AI maps hidden magnet patterns",
+          "headline": "ML tool scores open DNA\non maternal and paternal copies",
+          "body": "The FIRE tool uses machine learning to flag which open DNA regions on maternal and paternal copies regulate genes.",
+          "mini_headline": "ML maps gene switches",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
-                "cap": "A diamond quantum sensor scans the magnetic field above an ultrathin magnet; the physics-informed method reconstructs the magnetization hidden underneath. Credit: Alexander Setescak / University of Vienna"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
               },
               {
                 "t": "p",
-                "x": "Modern microscopes only measure the magnetic field outside nanoscale magnetic materials, not the pattern inside. Because many different internal patterns can produce the exact same field, working backwards has long been a challenge."
+                "x": "University of Utah Health researchers, publishing in Cell, built FIRE, a tool that pairs long-read DNA sequencing with machine learning to tell which regulatory regions are active on the maternal and paternal copies of each chromosome."
               },
               {
                 "t": "p",
-                "x": "Physicists at the University of Vienna, with colleagues in Dresden, Singapore, and Ulsan, solved this by building the laws of physics directly into modern machine learning methods. The study is published in Physical Review Letters, and the software is freely available as open source."
+                "x": "It starts from a method that highlights physically accessible DNA; machine learning then assesses which highlighted regions likely matter for gene regulation, scaling to billions of regions. \"Machine learning here is really copying something that we're able to see with our own eyes in the data,\" says Mitchell R. Vollger."
               },
               {
                 "t": "p",
-                "x": "Their physics-informed algorithm selects the magnetic pattern that minimizes the material's physical energy while matching the measured field; patterns that violate basic physical laws are ruled out. \"We let the physical energy of the magnet decide which solution is realistic,\" says Claas Abert, who led the study."
+                "x": "FIRE found tens of thousands of previously overlooked regulatory regions, which are more likely to contain disease-linked variants. In a celiac disease example, changing a single DNA letter in a gene switch next to an immune gene altered how open the switch was."
               },
               {
                 "t": "p",
-                "x": "The team tested it on diamond nitrogen-vacancy sensor measurements from the Max Planck Institute for Chemical Physics of Solids in Dresden, on ultrathin Fe₃−ₓGaTe₂ synthesized at the National University of Singapore. The software calculated the magnetic pattern and the sensor height simultaneously, finding a distance of 81 nanometers."
-              },
-              {
-                "t": "p",
-                "x": "The approach can be adapted to other magnetic imaging techniques. The team is already extending it to 3D X-ray imaging of complex magnetic nanostructures."
+                "x": "About 40% of the time, the two inherited copies were regulated differently even though their DNA was identical at that spot, and some of these differences were passed on as cells divide — what Vollger calls \"the limits of how much our genetics can determine our gene regulation.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "물리 법칙 품은 AI\n얇은 자석 속 패턴 읽다",
-          "body": "물리 기반 알고리즘이 바깥 자기장만으로 초박막 자석 내부의 자화를 추정한다.",
-          "mini_headline": "AI가 그린 자석 속 패턴",
+          "headline": "ML이 점수 매긴\n모계·부계의 열린 DNA",
+          "body": "FIRE는 머신러닝으로 모계·부계의 열린 DNA에서 유전자 조절 영역을 골라낸다.",
+          "mini_headline": "ML로 그린 유전자 스위치 지도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
-                "cap": "다이아몬드 양자 센서가 초박막 자석 위의 자기장을 스캔하고, 물리 기반 방법이 그 아래 숨은 자화를 재구성한다. Credit: Alexander Setescak / University of Vienna"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
               },
               {
                 "t": "p",
-                "x": "현대 현미경은 나노 규모 자성 물질 바깥의 자기장만 잡아낼 뿐 내부 패턴은 못 본다. 속이 서로 다르게 생겨도 바깥으로는 똑같은 자기장이 나올 수 있어, 거꾸로 되짚는 일은 오랫동안 난제로 남았다."
+                "x": "University of Utah Health 연구진이 Cell에 발표한 도구 FIRE는 롱리드 DNA 시퀀싱과 머신러닝을 결합해, 각 염색체의 모계·부계 사본에서 어떤 조절 영역이 활성인지 판별한다."
               },
               {
                 "t": "p",
-                "x": "빈 대학교(University of Vienna) 물리학자들이 드레스덴(Dresden)과 싱가포르(Singapore), 울산(Ulsan)의 동료들과 함께 이 문제를 풀었다. 물리 법칙을 최신 머신러닝 방법에 그대로 녹이는 방식이다. 연구는 Physical Review Letters에 실렸고, 소프트웨어는 오픈소스로 무료 공개했다."
+                "x": "먼저 물리적으로 접근 가능한 DNA에 표시를 한다. 그다음 머신러닝이 표시된 영역 가운데 유전자 조절에 중요할 가능성이 큰 곳을 평가하는데, 수십억 개 영역까지 넓혀 돌릴 수 있다. Mitchell R. Vollger는 \"여기서 머신러닝은 우리가 데이터에서 눈으로 직접 볼 수 있는 것을 그대로 따라 하는 것\"이라고 말한다."
               },
               {
                 "t": "p",
-                "x": "이 물리 기반 알고리즘은 측정된 자기장과 들어맞으면서 물질의 물리적 에너지를 가장 낮추는 자기 패턴을 고른다. 기본 물리 법칙에 어긋나는 패턴은 아예 걸러낸다. 연구를 이끈 Claas Abert는 \"어떤 해가 현실적인지는 자석의 물리적 에너지가 결정하게 했다\"고 말했다."
+                "x": "FIRE는 그동안 놓친 조절 영역 수만 곳을 찾아냈다. 이런 영역은 질병 관련 변이를 품고 있을 가능성이 더 높다. 셀리악병 사례에서는 면역 유전자 옆 유전자 스위치의 DNA 글자 하나를 바꾸자 스위치가 열린 정도가 달라졌다."
               },
               {
                 "t": "p",
-                "x": "시료는 National University of Singapore(싱가포르국립대)에서 합성한 초박막 Fe₃−ₓGaTe₂였다. 연구팀은 드레스덴의 Max Planck Institute for Chemical Physics of Solids(막스플랑크 고체화학물리연구소)가 측정한 다이아몬드 질소-공공 센서 데이터로 이 방법을 검증했다. 소프트웨어는 자기 패턴과 센서 높이를 한꺼번에 계산해 81나노미터라는 거리를 찾아냈다."
-              },
-              {
-                "t": "p",
-                "x": "다른 자기 이미징 기법에도 그대로 쓸 수 있는 방식이다. 연구팀은 이미 복잡한 자성 나노구조의 3D X-ray 이미징으로 방법을 넓히는 중이다."
+                "x": "약 40%는 물려받은 두 사본의 DNA가 그 위치에서 똑같은데도 조절이 달랐다. 이런 차이 일부는 세포가 분열할 때 그대로 대물림됐다. Vollger는 이를 \"유전이 유전자 조절을 얼마나 결정할 수 있는지의 한계\"라고 부른다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "物理則を組み込むAI\n薄い磁石の隠れた模様を解明",
-          "body": "物理に基づくアルゴリズムが、外側で測った磁場から極薄磁石内部の磁化を推定する。",
-          "mini_headline": "AIが磁石の隠れた模様を描く",
+          "headline": "MLが採点する\n母方・父方の開いたDNA",
+          "body": "FIREは機械学習で、母方・父方コピーの開いたDNAから遺伝子を調節する領域を見分ける。",
+          "mini_headline": "MLで遺伝子スイッチを地図化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
-                "cap": "ダイヤモンド量子センサーが極薄磁石の上の磁場を走査し、物理に基づく手法がその下に隠れた磁化を再構成する。Credit: Alexander Setescak / University of Vienna"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
               },
               {
                 "t": "p",
-                "x": "現代の顕微鏡が測れるのは、ナノスケールの磁性材料の外側の磁場だけで、内部の模様ではない。異なる多くの内部模様がまったく同じ磁場を生み得るため、逆算は長年の難題だった。"
+                "x": "University of Utah Healthの研究者はCellに発表した論文で、ロングリードDNAシーケンシングと機械学習を組み合わせ、各染色体の母方・父方コピーでどの調節領域が働いているかを判別するツールFIREを開発した。"
               },
               {
                 "t": "p",
-                "x": "ウィーン大学（University of Vienna）の物理学者たちは、ドレスデン（Dresden）、シンガポール（Singapore）、蔚山（Ulsan）の共同研究者とともに、物理法則を最新の機械学習手法に直接組み込むことでこの問題を解いた。研究はPhysical Review Lettersに掲載され、ソフトウェアはオープンソースとして無償公開されている。"
+                "x": "出発点は物理的にアクセス可能なDNAを浮かび上がらせる手法で、その後、機械学習が浮かび上がった領域のうち遺伝子調節に関わる可能性が高いものを評価し、数十億の領域にまで対応する。Mitchell R. Vollgerは「ここでの機械学習は、私たちがデータの中に自分の目で見ているものを、まさに再現している」と語る。"
               },
               {
                 "t": "p",
-                "x": "この物理に基づくアルゴリズムは、測定された磁場と一致しつつ材料の物理的エネルギーを最小にする磁気模様を選び、基本的な物理法則に反する模様は除外する。研究を率いたClaas Abertは「どの解が現実的かは、磁石の物理的エネルギーに決めさせた」と語る。"
+                "x": "FIREはこれまで見落とされていた数万の調節領域を見つけた。それらは疾患に関連する変異を含む可能性が高い。セリアック病の例では、免疫遺伝子の隣にある遺伝子スイッチでDNAの一文字を変えると、スイッチの開き具合が変化した。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、National University of Singapore（シンガポール国立大学）で合成された極薄のFe₃−ₓGaTe₂について、ドレスデンのMax Planck Institute for Chemical Physics of Solids（マックス・プランク固体化学物理研究所）が行ったダイヤモンド窒素空孔センサーの測定データで手法を検証した。ソフトウェアは磁気模様とセンサーの高さを同時に計算し、81ナノメートルという距離を導き出した。"
-              },
-              {
-                "t": "p",
-                "x": "この手法は他の磁気イメージング技術にも応用できる。チームはすでに、複雑な磁性ナノ構造の3D X-rayイメージングへの拡張を進めている。"
+                "x": "約40%のケースで、受け継いだ二つのコピーはその位置のDNAが同一にもかかわらず異なる調節を受けており、その違いの一部は細胞分裂を通じて受け継がれた。Vollgerはこれを「遺伝がどこまで遺伝子調節を決められるかの限界」と呼ぶ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "物理引导的AI\n揭示薄磁体中的隐藏图案",
-          "body": "一种物理信息算法根据外部测得的磁场，推断超薄磁体内部的磁化分布。",
-          "mini_headline": "AI绘出磁体隐藏图案",
+          "headline": "ML工具为母本与父本\n拷贝上的开放DNA评分",
+          "body": "FIRE工具借助机器学习，找出母本和父本拷贝上哪些开放DNA区域调控基因。",
+          "mini_headline": "ML绘制基因开关图谱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
-                "cap": "金刚石量子传感器扫描超薄磁体上方的磁场，物理信息方法据此重建隐藏在下方的磁化分布。Credit: Alexander Setescak / University of Vienna"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
               },
               {
                 "t": "p",
-                "x": "现代显微镜只能测量纳米级磁性材料外部的磁场，而无法看到内部的图案。由于许多不同的内部图案可以产生完全相同的磁场，反向推算长期以来一直是个难题。"
+                "x": "University of Utah Health的研究人员在Cell上发表论文，开发出工具FIRE，将长读长DNA测序与机器学习结合，用于判断每条染色体的母本和父本拷贝上哪些调控区域处于活跃状态。"
               },
               {
                 "t": "p",
-                "x": "维也纳大学（University of Vienna）的物理学家与德累斯顿（Dresden）、新加坡（Singapore）和蔚山（Ulsan）的同行合作，将物理定律直接融入现代机器学习方法，解决了这一问题。研究发表于Physical Review Letters，软件以开源形式免费提供。"
+                "x": "它从一种标记物理上可及DNA的方法出发；随后由机器学习评估被标记区域中哪些可能对基因调控起作用，规模可扩展到数十亿个区域。Mitchell R. Vollger说：“这里的机器学习其实是在复制我们能在数据中亲眼看到的东西。”"
               },
               {
                 "t": "p",
-                "x": "这一物理信息算法会选出既与实测磁场相符、又使材料物理能量最小的磁性图案，违背基本物理定律的图案则被排除。领导该研究的Claas Abert表示：\"我们让磁体的物理能量来决定哪个解是现实的。\""
+                "x": "FIRE发现了数万个此前被忽视的调控区域，这些区域更可能含有与疾病相关的变异。在一个乳糜泻案例中，改变免疫基因旁某个基因开关中的单个DNA字母，就改变了该开关的开放程度。"
               },
               {
                 "t": "p",
-                "x": "研究团队以National University of Singapore（新加坡国立大学）合成的超薄Fe₃−ₓGaTe₂为对象，用德累斯顿Max Planck Institute for Chemical Physics of Solids（马克斯·普朗克固体化学物理研究所）的金刚石氮-空位传感器测量数据进行了测试。软件同时计算出磁性图案和传感器高度，得出的距离为81纳米。"
-              },
-              {
-                "t": "p",
-                "x": "该方法可推广到其他磁成像技术。团队已在将其扩展到复杂磁性纳米结构的3D X-ray成像。"
+                "x": "约40%的情况下，两份遗传拷贝在该位点的DNA完全相同，却受到不同的调控，其中一些差异会随细胞分裂传递下去——Vollger称之为“我们的遗传能在多大程度上决定基因调控的极限”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una AI guiada por la física\nrevela patrones en imanes finos",
-          "body": "Un algoritmo basado en la física deduce la magnetización interna de imanes ultrafinos a partir del campo medido fuera.",
-          "mini_headline": "La AI mapea patrones ocultos en imanes",
+          "headline": "ML puntúa el DNA abierto\nde copias maternas y paternas",
+          "body": "FIRE usa aprendizaje automático para ver qué DNA abierto de las copias materna y paterna regula genes.",
+          "mini_headline": "El ML mapea interruptores génicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
-                "cap": "Un sensor cuántico de diamante escanea el campo magnético sobre un imán ultrafino; el método basado en la física reconstruye la magnetización oculta debajo. Credit: Alexander Setescak / University of Vienna"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
               },
               {
                 "t": "p",
-                "x": "Los microscopios modernos solo miden el campo magnético fuera de los materiales magnéticos a nanoescala, no el patrón interior. Como muchos patrones internos distintos pueden producir exactamente el mismo campo, deducirlo a la inversa ha sido durante mucho tiempo un desafío."
+                "x": "Investigadores de University of Utah Health, en un estudio publicado en Cell, crearon FIRE, una herramienta que combina la secuenciación de DNA de lectura larga con aprendizaje automático para determinar qué regiones reguladoras están activas en las copias materna y paterna de cada cromosoma."
               },
               {
                 "t": "p",
-                "x": "Físicos de la Universidad de Viena (University of Vienna), junto con colegas de Dresde (Dresden), Singapur (Singapore) y Ulsan, lo resolvieron incorporando las leyes de la física directamente en métodos modernos de aprendizaje automático. El estudio se publica en Physical Review Letters y el software está disponible gratuitamente como código abierto."
+                "x": "Parte de un método que resalta el DNA físicamente accesible; luego, el aprendizaje automático evalúa cuáles de las regiones resaltadas probablemente importan para la regulación génica, a una escala de miles de millones de regiones. \"Aquí el aprendizaje automático realmente copia algo que podemos ver con nuestros propios ojos en los datos\", dice Mitchell R. Vollger."
               },
               {
                 "t": "p",
-                "x": "Su algoritmo basado en la física selecciona el patrón magnético que minimiza la energía física del material y a la vez coincide con el campo medido; los patrones que violan leyes físicas básicas quedan descartados. \"Dejamos que la energía física del imán decida qué solución es realista\", afirma Claas Abert, quien dirigió el estudio."
+                "x": "FIRE encontró decenas de miles de regiones reguladoras antes pasadas por alto, que tienen más probabilidad de contener variantes ligadas a enfermedades. En un ejemplo de enfermedad celíaca, cambiar una sola letra del DNA en un interruptor génico junto a un gen inmunitario alteró cuán abierto estaba el interruptor."
               },
               {
                 "t": "p",
-                "x": "El equipo lo probó con mediciones de sensores de diamante con centros de nitrógeno-vacante del Max Planck Institute for Chemical Physics of Solids en Dresde, sobre Fe₃−ₓGaTe₂ ultrafino sintetizado en la National University of Singapore. El software calculó a la vez el patrón magnético y la altura del sensor, y halló una distancia de 81 nanómetros."
-              },
-              {
-                "t": "p",
-                "x": "El enfoque puede adaptarse a otras técnicas de imagen magnética. El equipo ya lo está ampliando a la imagen 3D por X-ray de nanoestructuras magnéticas complejas."
+                "x": "Alrededor del 40% de las veces, las dos copias heredadas se regulaban de forma distinta aunque su DNA era idéntico en ese punto, y algunas de estas diferencias se transmitían al dividirse las células: lo que Vollger llama \"los límites de cuánto puede determinar nuestra genética la regulación de nuestros genes\"."
               }
             ]
           }
@@ -625,141 +525,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "물리 법칙 품은 AI\n얇은 자석 속 패턴 읽다",
-          "body": "물리 기반 알고리즘이 바깥 자기장만으로 초박막 자석 내부의 자화를 추정한다.",
-          "mini_headline": "AI가 그린 자석 속 패턴",
+          "headline": "ML이 점수 매긴\n모계·부계의 열린 DNA",
+          "body": "FIRE는 머신러닝으로 모계·부계의 열린 DNA 중 유전자 조절 영역을 가린다.",
+          "mini_headline": "ML로 그린 유전자 스위치 지도",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
-                "cap": "다이아몬드 양자 센서가 초박막 자석 위의 자기장을 스캔하고, 물리 기반 방법이 그 아래 숨은 자화를 재구성한다. Credit: Alexander Setescak / University of Vienna"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
               },
               {
                 "t": "p",
-                "x": "현대 현미경은 나노 규모 자성 물질 바깥의 자기장만 측정할 뿐, 내부 패턴은 보지 못한다. 서로 다른 수많은 내부 패턴이 똑같은 자기장을 만들어낼 수 있어, 거꾸로 추적하는 일은 오랫동안 난제였다."
+                "x": "University of Utah Health 연구진은 Cell에 발표한 연구에서, 롱리드 DNA 시퀀싱과 머신러닝을 결합해 각 염색체의 모계·부계 사본에서 어떤 조절 영역이 활성인지 판별하는 도구 FIRE를 만들었다."
               },
               {
                 "t": "p",
-                "x": "빈 대학교(University of Vienna) 물리학자들은 드레스덴(Dresden), 싱가포르(Singapore), 울산(Ulsan)의 동료들과 함께 물리 법칙을 최신 머신러닝 방법에 직접 녹여 이 문제를 풀었다. 연구는 Physical Review Letters에 실렸고, 소프트웨어는 오픈소스로 무료 공개됐다."
+                "x": "출발점은 물리적으로 접근 가능한 DNA를 표시하는 방법이다. 이어 머신러닝이 표시된 영역 가운데 유전자 조절에 중요할 가능성이 큰 곳을 평가하며, 수십억 개 영역까지 규모를 넓힐 수 있다. Mitchell R. Vollger는 \"여기서 머신러닝은 우리가 데이터에서 눈으로 직접 볼 수 있는 것을 그대로 따라 하는 것\"이라고 말한다."
               },
               {
                 "t": "p",
-                "x": "이 물리 기반 알고리즘은 측정된 자기장과 일치하면서 물질의 물리적 에너지를 최소화하는 자기 패턴을 고르고, 기본 물리 법칙에 어긋나는 패턴은 배제한다. 연구를 이끈 Claas Abert는 \"어떤 해가 현실적인지는 자석의 물리적 에너지가 결정하게 했다\"고 말했다."
+                "x": "FIRE는 그동안 간과된 조절 영역 수만 곳을 찾아냈으며, 이 영역들은 질병 관련 변이를 품고 있을 가능성이 더 높다. 셀리악병 사례에서는 면역 유전자 옆 유전자 스위치의 DNA 글자 하나를 바꾸자 스위치가 열린 정도가 달라졌다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 National University of Singapore(싱가포르국립대)에서 합성한 초박막 Fe₃−ₓGaTe₂를 대상으로, 드레스덴의 Max Planck Institute for Chemical Physics of Solids(막스플랑크 고체화학물리연구소)가 측정한 다이아몬드 질소-공공 센서 데이터로 방법을 검증했다. 소프트웨어는 자기 패턴과 센서 높이를 동시에 계산해 81나노미터의 거리를 찾아냈다."
-              },
-              {
-                "t": "p",
-                "x": "이 방식은 다른 자기 이미징 기법에도 적용할 수 있다. 연구팀은 이미 복잡한 자성 나노구조의 3D X-ray 이미징으로 방법을 확장하고 있다."
+                "x": "약 40%의 경우, 물려받은 두 사본은 해당 위치의 DNA가 똑같은데도 다르게 조절됐고, 이런 차이 일부는 세포가 분열할 때 대물림됐다. Vollger는 이를 \"유전이 유전자 조절을 얼마나 결정할 수 있는지의 한계\"라고 부른다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "物理則を組み込むAI\n薄い磁石の隠れた模様を解明",
-          "body": "物理に基づくアルゴリズムが、外側で測った磁場から極薄磁石内部の磁化を推定する。",
-          "mini_headline": "AIが磁石の隠れた模様を描く",
+          "headline": "MLが採点する\n母方・父方の開いたDNA",
+          "body": "FIREは機械学習で、母方・父方コピーの開いたDNAから遺伝子を調節する領域を見分ける。",
+          "mini_headline": "MLで遺伝子スイッチを地図化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
-                "cap": "ダイヤモンド量子センサーが極薄磁石の上の磁場を走査し、物理に基づく手法がその下に隠れた磁化を再構成する。Credit: Alexander Setescak / University of Vienna"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
               },
               {
                 "t": "p",
-                "x": "現代の顕微鏡が測れるのは、ナノスケールの磁性材料の外側の磁場だけで、内部の模様ではない。異なる多くの内部模様がまったく同じ磁場を生み得るため、逆算は長年の難題だった。"
+                "x": "University of Utah Healthの研究者はCellに発表した論文で、ロングリードDNAシーケンシングと機械学習を組み合わせ、各染色体の母方・父方コピーでどの調節領域が働いているかを判別するツールFIREを開発した。"
               },
               {
                 "t": "p",
-                "x": "ウィーン大学（University of Vienna）の物理学者たちは、ドレスデン（Dresden）、シンガポール（Singapore）、蔚山（Ulsan）の共同研究者とともに、物理法則を最新の機械学習手法に直接組み込むことでこの問題を解いた。研究はPhysical Review Lettersに掲載され、ソフトウェアはオープンソースとして無償公開されている。"
+                "x": "出発点は物理的にアクセス可能なDNAを浮かび上がらせる手法で、その後、機械学習が浮かび上がった領域のうち遺伝子調節に関わる可能性が高いものを評価し、数十億の領域にまで対応する。Mitchell R. Vollgerは「ここでの機械学習は、私たちがデータの中に自分の目で見ているものを、まさに再現している」と語る。"
               },
               {
                 "t": "p",
-                "x": "この物理に基づくアルゴリズムは、測定された磁場と一致しつつ材料の物理的エネルギーを最小にする磁気模様を選び、基本的な物理法則に反する模様は除外する。研究を率いたClaas Abertは「どの解が現実的かは、磁石の物理的エネルギーに決めさせた」と語る。"
+                "x": "FIREはこれまで見落とされていた数万の調節領域を見つけた。それらは疾患に関連する変異を含む可能性が高い。セリアック病の例では、免疫遺伝子の隣にある遺伝子スイッチでDNAの一文字を変えると、スイッチの開き具合が変化した。"
               },
               {
                 "t": "p",
-                "x": "研究チームは、National University of Singapore（シンガポール国立大学）で合成された極薄のFe₃−ₓGaTe₂について、ドレスデンのMax Planck Institute for Chemical Physics of Solids（マックス・プランク固体化学物理研究所）が行ったダイヤモンド窒素空孔センサーの測定データで手法を検証した。ソフトウェアは磁気模様とセンサーの高さを同時に計算し、81ナノメートルという距離を導き出した。"
-              },
-              {
-                "t": "p",
-                "x": "この手法は他の磁気イメージング技術にも応用できる。チームはすでに、複雑な磁性ナノ構造の3D X-rayイメージングへの拡張を進めている。"
+                "x": "約40%のケースで、受け継いだ二つのコピーはその位置のDNAが同一にもかかわらず異なる調節を受けており、その違いの一部は細胞分裂を通じて受け継がれた。Vollgerはこれを「遺伝がどこまで遺伝子調節を決められるかの限界」と呼ぶ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "物理引导的AI\n揭示薄磁体中的隐藏图案",
-          "body": "一种物理信息算法根据外部测得的磁场，推断超薄磁体内部的磁化分布。",
-          "mini_headline": "AI绘出磁体隐藏图案",
+          "headline": "ML工具为母本与父本\n拷贝上的开放DNA评分",
+          "body": "FIRE工具借助机器学习，找出母本和父本拷贝上哪些开放DNA区域调控基因。",
+          "mini_headline": "ML绘制基因开关图谱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
-                "cap": "金刚石量子传感器扫描超薄磁体上方的磁场，物理信息方法据此重建隐藏在下方的磁化分布。Credit: Alexander Setescak / University of Vienna"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
               },
               {
                 "t": "p",
-                "x": "现代显微镜只能测量纳米级磁性材料外部的磁场，而无法看到内部的图案。由于许多不同的内部图案可以产生完全相同的磁场，反向推算长期以来一直是个难题。"
+                "x": "University of Utah Health的研究人员在Cell上发表论文，开发出工具FIRE，将长读长DNA测序与机器学习结合，用于判断每条染色体的母本和父本拷贝上哪些调控区域处于活跃状态。"
               },
               {
                 "t": "p",
-                "x": "维也纳大学（University of Vienna）的物理学家与德累斯顿（Dresden）、新加坡（Singapore）和蔚山（Ulsan）的同行合作，将物理定律直接融入现代机器学习方法，解决了这一问题。研究发表于Physical Review Letters，软件以开源形式免费提供。"
+                "x": "它从一种标记物理上可及DNA的方法出发；随后由机器学习评估被标记区域中哪些可能对基因调控起作用，规模可扩展到数十亿个区域。Mitchell R. Vollger说：“这里的机器学习其实是在复制我们能在数据中亲眼看到的东西。”"
               },
               {
                 "t": "p",
-                "x": "这一物理信息算法会选出既与实测磁场相符、又使材料物理能量最小的磁性图案，违背基本物理定律的图案则被排除。领导该研究的Claas Abert表示：\"我们让磁体的物理能量来决定哪个解是现实的。\""
+                "x": "FIRE发现了数万个此前被忽视的调控区域，这些区域更可能含有与疾病相关的变异。在一个乳糜泻案例中，改变免疫基因旁某个基因开关中的单个DNA字母，就改变了该开关的开放程度。"
               },
               {
                 "t": "p",
-                "x": "研究团队以National University of Singapore（新加坡国立大学）合成的超薄Fe₃−ₓGaTe₂为对象，用德累斯顿Max Planck Institute for Chemical Physics of Solids（马克斯·普朗克固体化学物理研究所）的金刚石氮-空位传感器测量数据进行了测试。软件同时计算出磁性图案和传感器高度，得出的距离为81纳米。"
-              },
-              {
-                "t": "p",
-                "x": "该方法可推广到其他磁成像技术。团队已在将其扩展到复杂磁性纳米结构的3D X-ray成像。"
+                "x": "约40%的情况下，两份遗传拷贝在该位点的DNA完全相同，却受到不同的调控，其中一些差异会随细胞分裂传递下去——Vollger称之为“我们的遗传能在多大程度上决定基因调控的极限”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una AI guiada por la física\nrevela patrones en imanes finos",
-          "body": "Un algoritmo basado en la física deduce la magnetización interna de imanes ultrafinos a partir del campo medido fuera.",
-          "mini_headline": "La AI mapea patrones ocultos en imanes",
+          "headline": "ML puntúa el DNA abierto\nde copias maternas y paternas",
+          "body": "FIRE usa aprendizaje automático para ver qué DNA abierto de las copias materna y paterna regula genes.",
+          "mini_headline": "El ML mapea interruptores génicos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/finding-the-magnetic-p.jpg",
-                "cap": "Un sensor cuántico de diamante escanea el campo magnético sobre un imán ultrafino; el método basado en la física reconstruye la magnetización oculta debajo. Credit: Alexander Setescak / University of Vienna"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
               },
               {
                 "t": "p",
-                "x": "Los microscopios modernos solo miden el campo magnético fuera de los materiales magnéticos a nanoescala, no el patrón interior. Como muchos patrones internos distintos pueden producir exactamente el mismo campo, deducirlo a la inversa ha sido durante mucho tiempo un desafío."
+                "x": "Investigadores de University of Utah Health, en un estudio publicado en Cell, crearon FIRE, una herramienta que combina la secuenciación de DNA de lectura larga con aprendizaje automático para determinar qué regiones reguladoras están activas en las copias materna y paterna de cada cromosoma."
               },
               {
                 "t": "p",
-                "x": "Físicos de la Universidad de Viena (University of Vienna), junto con colegas de Dresde (Dresden), Singapur (Singapore) y Ulsan, lo resolvieron incorporando las leyes de la física directamente en métodos modernos de aprendizaje automático. El estudio se publica en Physical Review Letters y el software está disponible gratuitamente como código abierto."
+                "x": "Parte de un método que resalta el DNA físicamente accesible; luego, el aprendizaje automático evalúa cuáles de las regiones resaltadas probablemente importan para la regulación génica, a una escala de miles de millones de regiones. \"Aquí el aprendizaje automático realmente copia algo que podemos ver con nuestros propios ojos en los datos\", dice Mitchell R. Vollger."
               },
               {
                 "t": "p",
-                "x": "Su algoritmo basado en la física selecciona el patrón magnético que minimiza la energía física del material y a la vez coincide con el campo medido; los patrones que violan leyes físicas básicas quedan descartados. \"Dejamos que la energía física del imán decida qué solución es realista\", afirma Claas Abert, quien dirigió el estudio."
+                "x": "FIRE encontró decenas de miles de regiones reguladoras antes pasadas por alto, que tienen más probabilidad de contener variantes ligadas a enfermedades. En un ejemplo de enfermedad celíaca, cambiar una sola letra del DNA en un interruptor génico junto a un gen inmunitario alteró cuán abierto estaba el interruptor."
               },
               {
                 "t": "p",
-                "x": "El equipo lo probó con mediciones de sensores de diamante con centros de nitrógeno-vacante del Max Planck Institute for Chemical Physics of Solids en Dresde, sobre Fe₃−ₓGaTe₂ ultrafino sintetizado en la National University of Singapore. El software calculó a la vez el patrón magnético y la altura del sensor, y halló una distancia de 81 nanómetros."
-              },
-              {
-                "t": "p",
-                "x": "El enfoque puede adaptarse a otras técnicas de imagen magnética. El equipo ya lo está ampliando a la imagen 3D por X-ray de nanoestructuras magnéticas complejas."
+                "x": "Alrededor del 40% de las veces, las dos copias heredadas se regulaban de forma distinta aunque su DNA era idéntico en ese punto, y algunas de estas diferencias se transmitían al dividirse las células: lo que Vollger llama \"los límites de cuánto puede determinar nuestra genética la regulación de nuestros genes\"."
               }
             ]
           }
@@ -767,377 +651,15 @@
       }
     },
     {
-      "id": "science-crypto",
+      "id": "science-bulk-metal-testing",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI 수학 논문에\n암호학자들 의견 갈려",
-      "body": "OpenAI의 AI-generated 수학 논문 722편에 암호학자들이 갈렸다.",
-      "mini_headline": "AI 수학이 가른 암호학계",
+      "headline": "AI가 가열로를 조정\n벌크 금속 시험 자동화",
+      "body": "Tohoku University·NIMS가 AI로 도는 금속 시험 라인을 만들었다.",
+      "mini_headline": "AI가 금속 시험을 돌린다",
       "tool": "Science",
-      "source": "Scientific American",
-      "url": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
-            "cap": "암호학은 온라인 쇼핑부터 소프트웨어 업데이트, 암호화폐까지 현대 생활의 넓은 영역을 지킨다. Jackreznor / Shutterstock"
-          },
-          {
-            "t": "p",
-            "x": "지난주 OpenAI는 수학 원고 722편을 한꺼번에 온라인에 올렸다. 모두 아직 일반에 공개하지 않은 AI 모델이 쓴 글이다. 하루 만에 OpenAI는 그중 세 편을 내렸고, 수학자들은 나머지를 아직 들여다보는 중이다."
-          },
-          {
-            "t": "p",
-            "x": "수학은 암호학을 떠받친다. Johns Hopkins University의 암호학자 Matthew Green은 기존 공개키 암호 알고리즘을 더는 믿지 못하게 될 가능성을 15퍼센트로 잡았다."
-          },
-          {
-            "t": "p",
-            "x": "생각이 다른 이들도 있다. Bar-Ilan University와 Coinbase의 Yehuda Lindell은 돌파구의 “증거는 전혀 없다”고 X에 썼다. OpenAI의 722편 가운데 암호학을 다룬 논문은 한 편도 없다. Stanford의 Dan Boneh는 이를 “조금 눈에 띄는” 일이라고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "최근 프리프린트에서 ETH Zurich의 Florian Tramèr와 동료들은 주요 AI 모델을 191개 암호 해독 과제에 붙였다. 그는 “모델의 암호 해독 능력이 대단히 빠르게 자라고 있다는 점은 꽤 분명하다”고 말한다. 그래도 “오늘까지 실제 운용되는 알고리즘 가운데 AI에 뚫린 것은 없다”고 Govind Pimpale은 인정한다."
-          },
-          {
-            "t": "p",
-            "x": "KU Leuven의 Bart Preneel은 “공황에 빠질 진짜 이유는 없다”고 본다. Boneh와 Green은 AI 기업들이 자사 모델이 암호학에서 무엇을 시도했는지 밝히기를 바란다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "OpenAI's math papers split\ncryptographers on encryption",
-          "body": "After OpenAI released 722 AI-generated math papers, cryptographers split over whether encryption is the next target.",
-          "mini_headline": "AI math splits cryptographers",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
-                "cap": "Cryptography protects vast swaths of modern life, from online shopping to software updates to cryptocurrency. Jackreznor / Shutterstock"
-              },
-              {
-                "t": "p",
-                "x": "Last week OpenAI dropped 722 mathematical manuscripts online in one go, every one of them penned by an AI model unavailable to the public. OpenAI withdrew three of the papers within a day, and mathematicians are still poring over the rest."
-              },
-              {
-                "t": "p",
-                "x": "Math powers cryptography. Matthew Green, a cryptographer at Johns Hopkins University, suggested there was a 15 percent chance that we could lose confidence in existing public-key encryption algorithms."
-              },
-              {
-                "t": "p",
-                "x": "Others disagree. Yehuda Lindell of Bar-Ilan University and Coinbase wrote on X that there is “no evidence whatsoever” of a breakthrough, and not one of OpenAI’s 722 papers deals with cryptography, which Stanford’s Dan Boneh calls “a little striking.”"
-              },
-              {
-                "t": "p",
-                "x": "In a recent preprint, Florian Tramèr of ETH Zurich and colleagues pitted leading AI models against 191 code-breaking challenges. “It’s pretty clear that models’ ability in cryptanalysis is growing extremely rapidly,” he says. Still, “today no currently deployed algorithm has been broken by AI,” Govind Pimpale concedes."
-              },
-              {
-                "t": "p",
-                "x": "KU Leuven’s Bart Preneel sees “no real reason to panic.” Boneh and Green want AI companies to say what their models have tried on cryptography."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "OpenAI 수학 논문에\n암호학자들 의견 갈려",
-          "body": "OpenAI의 AI-generated 수학 논문 722편에 암호학자들이 갈렸다.",
-          "mini_headline": "AI 수학이 가른 암호학계",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
-                "cap": "암호학은 온라인 쇼핑부터 소프트웨어 업데이트, 암호화폐까지 현대 생활의 넓은 영역을 지킨다. Jackreznor / Shutterstock"
-              },
-              {
-                "t": "p",
-                "x": "지난주 OpenAI는 수학 원고 722편을 한꺼번에 온라인에 올렸다. 모두 아직 일반에 공개하지 않은 AI 모델이 쓴 글이다. 하루 만에 OpenAI는 그중 세 편을 내렸고, 수학자들은 나머지를 아직 들여다보는 중이다."
-              },
-              {
-                "t": "p",
-                "x": "수학은 암호학을 떠받친다. Johns Hopkins University의 암호학자 Matthew Green은 기존 공개키 암호 알고리즘을 더는 믿지 못하게 될 가능성을 15퍼센트로 잡았다."
-              },
-              {
-                "t": "p",
-                "x": "생각이 다른 이들도 있다. Bar-Ilan University와 Coinbase의 Yehuda Lindell은 돌파구의 “증거는 전혀 없다”고 X에 썼다. OpenAI의 722편 가운데 암호학을 다룬 논문은 한 편도 없다. Stanford의 Dan Boneh는 이를 “조금 눈에 띄는” 일이라고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "최근 프리프린트에서 ETH Zurich의 Florian Tramèr와 동료들은 주요 AI 모델을 191개 암호 해독 과제에 붙였다. 그는 “모델의 암호 해독 능력이 대단히 빠르게 자라고 있다는 점은 꽤 분명하다”고 말한다. 그래도 “오늘까지 실제 운용되는 알고리즘 가운데 AI에 뚫린 것은 없다”고 Govind Pimpale은 인정한다."
-              },
-              {
-                "t": "p",
-                "x": "KU Leuven의 Bart Preneel은 “공황에 빠질 진짜 이유는 없다”고 본다. Boneh와 Green은 AI 기업들이 자사 모델이 암호학에서 무엇을 시도했는지 밝히기를 바란다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "OpenAIの数学論文で\n暗号学者の見方割れる",
-          "body": "OpenAIがAI-generatedな数学論文722本を公開し、暗号学者の見方が割れた。",
-          "mini_headline": "AI数学が割る暗号学界",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
-                "cap": "暗号は、オンラインショッピングからソフトウェア更新、暗号通貨まで、現代生活の広い領域を守っている。Jackreznor / Shutterstock"
-              },
-              {
-                "t": "p",
-                "x": "先週、OpenAIは722本の数学論文原稿を一度にオンラインへ投じた。いずれも一般には使えないAIモデルが書いたものである。OpenAIは一日のうちに三本を取り下げ、数学者たちは残りをなお精査している。"
-              },
-              {
-                "t": "p",
-                "x": "数学は暗号を支えている。Johns Hopkins Universityの暗号研究者Matthew Greenは、既存の公開鍵暗号アルゴリズムへの信頼が失われる可能性は15パーセントだと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "異論もある。Bar-Ilan UniversityとCoinbaseのYehuda Lindellは、突破口の「証拠は一切ない」とXに書いた。OpenAIの722本のうち暗号を扱った論文は一本もなく、StanfordのDan Bonehはそれを「やや目を引く」と評する。"
-              },
-              {
-                "t": "p",
-                "x": "最近のプレプリントで、ETH ZurichのFlorian Tramèrらは主要なAIモデルを191の暗号解読課題に挑ませた。「モデルの暗号解析能力が極めて急速に伸びているのは、かなりはっきりしている」と彼は言う。それでも「今日、実運用中のアルゴリズムでAIに破られたものはない」とGovind Pimpaleは認める。"
-              },
-              {
-                "t": "p",
-                "x": "KU LeuvenのBart Preneelは「慌てる本当の理由はない」と見る。BonehとGreenは、AI企業が自社モデルで暗号について何を試したのかを明かすことを求めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "OpenAI数学论文\n令密码学界分歧",
-          "body": "OpenAI发布722篇AI-generated数学论文后，密码学界出现分歧。",
-          "mini_headline": "AI数学令密码学界分歧",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
-                "cap": "密码学守护着现代生活的广阔领域，从网上购物到软件更新，再到加密货币。Jackreznor / Shutterstock"
-              },
-              {
-                "t": "p",
-                "x": "上周，OpenAI一次性在网上放出722份数学手稿，全部出自一个尚未对公众开放的AI模型之手。OpenAI在一天之内撤下其中三篇，数学家仍在逐一研读其余部分。"
-              },
-              {
-                "t": "p",
-                "x": "数学是密码学的根基。Johns Hopkins University的密码学家Matthew Green认为，我们对现有公钥加密算法失去信心的可能性约为百分之十五。"
-              },
-              {
-                "t": "p",
-                "x": "也有人不以为然。Bar-Ilan University与Coinbase的Yehuda Lindell在X上写道，并无“任何证据”表明出现了突破；而OpenAI的722篇论文中没有一篇涉及密码学，Stanford的Dan Boneh称这“有点耐人寻味”。"
-              },
-              {
-                "t": "p",
-                "x": "在最近的预印本中，ETH Zurich的Florian Tramèr及同事让领先的AI模型挑战191项破译任务。他说：“模型在密码分析上的能力增长极快，这一点相当清楚。”不过Govind Pimpale也承认，“到今天为止，还没有任何已部署的算法被AI攻破。”"
-              },
-              {
-                "t": "p",
-                "x": "KU Leuven的Bart Preneel认为“没有真正恐慌的理由”。Boneh和Green希望AI公司说明自家模型在密码学上尝试过什么。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los artículos de OpenAI dividen\na los criptógrafos",
-          "body": "Tras la publicación por OpenAI de 722 artículos matemáticos AI-generated, los criptógrafos discrepan.",
-          "mini_headline": "Las matemáticas con IA dividen a los criptógrafos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
-                "cap": "La criptografía protege amplias parcelas de la vida moderna, desde las compras en línea hasta las actualizaciones de software y las criptomonedas. Jackreznor / Shutterstock"
-              },
-              {
-                "t": "p",
-                "x": "La semana pasada OpenAI publicó de golpe 722 manuscritos matemáticos en línea, todos ellos escritos por un modelo de IA no disponible para el público. OpenAI retiró tres de los artículos en un día, y los matemáticos siguen revisando el resto."
-              },
-              {
-                "t": "p",
-                "x": "Las matemáticas sostienen la criptografía. Matthew Green, criptógrafo de la Johns Hopkins University, planteó que había un 15 por ciento de probabilidad de que perdiéramos la confianza en los algoritmos actuales de cifrado de clave pública."
-              },
-              {
-                "t": "p",
-                "x": "Otros no coinciden. Yehuda Lindell, de la Bar-Ilan University y de Coinbase, escribió en X que no hay “ninguna evidencia” de un avance decisivo, y ninguno de los 722 artículos de OpenAI trata de criptografía, algo que Dan Boneh, de Stanford, califica de “un poco llamativo”."
-              },
-              {
-                "t": "p",
-                "x": "En un preprint reciente, Florian Tramèr, de ETH Zurich, y sus colegas enfrentaron a los principales modelos de IA con 191 retos de descifrado. “Está bastante claro que la capacidad de los modelos en criptoanálisis crece muy rápido”, dice. Aun así, “hoy ningún algoritmo actualmente desplegado ha sido roto por la IA”, admite Govind Pimpale."
-              },
-              {
-                "t": "p",
-                "x": "Bart Preneel, de KU Leuven, no ve “ninguna razón real para el pánico”. Boneh y Green quieren que las empresas de IA digan qué han intentado sus modelos en criptografía."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "OpenAI 수학 논문에\n암호학자들 의견 갈려",
-          "body": "OpenAI의 AI-generated 수학 논문 722편에 암호학자들이 갈렸다.",
-          "mini_headline": "AI 수학이 가른 암호학계",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
-                "cap": "암호학은 온라인 쇼핑부터 소프트웨어 업데이트, 암호화폐까지 현대 생활의 넓은 영역을 지킨다. Jackreznor / Shutterstock"
-              },
-              {
-                "t": "p",
-                "x": "지난주 OpenAI는 수학 원고 722편을 한꺼번에 온라인에 올렸다. 모두 일반에는 공개되지 않은 AI 모델이 쓴 글이다. OpenAI는 하루 만에 그중 세 편을 내렸고, 수학자들은 나머지를 아직 들여다보고 있다."
-              },
-              {
-                "t": "p",
-                "x": "수학은 암호학을 떠받친다. Johns Hopkins University의 암호학자 Matthew Green은 기존 공개키 암호 알고리즘에 대한 신뢰를 잃을 가능성이 15퍼센트라고 봤다."
-              },
-              {
-                "t": "p",
-                "x": "생각이 다른 이들도 있다. Bar-Ilan University와 Coinbase의 Yehuda Lindell은 돌파구의 “증거는 전혀 없다”고 X에 썼다. OpenAI의 722편 가운데 암호학을 다룬 논문은 하나도 없는데, Stanford의 Dan Boneh는 이를 “조금 눈에 띄는” 일이라고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "최근 프리프린트에서 ETH Zurich의 Florian Tramèr와 동료들은 주요 AI 모델을 191개 암호 해독 과제에 붙였다. 그는 “모델의 암호 해독 능력이 대단히 빠르게 자라고 있다는 점은 꽤 분명하다”고 말한다. 그래도 “오늘까지 실제 운용되는 알고리즘 가운데 AI에 뚫린 것은 없다”고 Govind Pimpale은 인정한다."
-              },
-              {
-                "t": "p",
-                "x": "KU Leuven의 Bart Preneel은 “공황에 빠질 진짜 이유는 없다”고 본다. Boneh와 Green은 AI 기업들이 자사 모델이 암호학에서 무엇을 시도했는지 밝히기를 바란다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "OpenAIの数学論文で\n暗号学者の見方割れる",
-          "body": "OpenAIがAI-generatedな数学論文722本を公開し、暗号学者の見方が割れた。",
-          "mini_headline": "AI数学が割る暗号学界",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
-                "cap": "暗号は、オンラインショッピングからソフトウェア更新、暗号通貨まで、現代生活の広い領域を守っている。Jackreznor / Shutterstock"
-              },
-              {
-                "t": "p",
-                "x": "先週、OpenAIは722本の数学論文原稿を一度にオンラインへ投じた。いずれも一般には使えないAIモデルが書いたものである。OpenAIは一日のうちに三本を取り下げ、数学者たちは残りをなお精査している。"
-              },
-              {
-                "t": "p",
-                "x": "数学は暗号を支えている。Johns Hopkins Universityの暗号研究者Matthew Greenは、既存の公開鍵暗号アルゴリズムへの信頼が失われる可能性は15パーセントだと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "異論もある。Bar-Ilan UniversityとCoinbaseのYehuda Lindellは、突破口の「証拠は一切ない」とXに書いた。OpenAIの722本のうち暗号を扱った論文は一本もなく、StanfordのDan Bonehはそれを「やや目を引く」と評する。"
-              },
-              {
-                "t": "p",
-                "x": "最近のプレプリントで、ETH ZurichのFlorian Tramèrらは主要なAIモデルを191の暗号解読課題に挑ませた。「モデルの暗号解析能力が極めて急速に伸びているのは、かなりはっきりしている」と彼は言う。それでも「今日、実運用中のアルゴリズムでAIに破られたものはない」とGovind Pimpaleは認める。"
-              },
-              {
-                "t": "p",
-                "x": "KU LeuvenのBart Preneelは「慌てる本当の理由はない」と見る。BonehとGreenは、AI企業が自社モデルで暗号について何を試したのかを明かすことを求めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "OpenAI数学论文\n令密码学界分歧",
-          "body": "OpenAI发布722篇AI-generated数学论文后，密码学界出现分歧。",
-          "mini_headline": "AI数学令密码学界分歧",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
-                "cap": "密码学守护着现代生活的广阔领域，从网上购物到软件更新，再到加密货币。Jackreznor / Shutterstock"
-              },
-              {
-                "t": "p",
-                "x": "上周，OpenAI一次性在网上放出722份数学手稿，全部出自一个尚未对公众开放的AI模型之手。OpenAI在一天之内撤下其中三篇，数学家仍在逐一研读其余部分。"
-              },
-              {
-                "t": "p",
-                "x": "数学是密码学的根基。Johns Hopkins University的密码学家Matthew Green认为，我们对现有公钥加密算法失去信心的可能性约为百分之十五。"
-              },
-              {
-                "t": "p",
-                "x": "也有人不以为然。Bar-Ilan University与Coinbase的Yehuda Lindell在X上写道，并无“任何证据”表明出现了突破；而OpenAI的722篇论文中没有一篇涉及密码学，Stanford的Dan Boneh称这“有点耐人寻味”。"
-              },
-              {
-                "t": "p",
-                "x": "在最近的预印本中，ETH Zurich的Florian Tramèr及同事让领先的AI模型挑战191项破译任务。他说：“模型在密码分析上的能力增长极快，这一点相当清楚。”不过Govind Pimpale也承认，“到今天为止，还没有任何已部署的算法被AI攻破。”"
-              },
-              {
-                "t": "p",
-                "x": "KU Leuven的Bart Preneel认为“没有真正恐慌的理由”。Boneh和Green希望AI公司说明自家模型在密码学上尝试过什么。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los artículos de OpenAI dividen\na los criptógrafos",
-          "body": "Tras la publicación por OpenAI de 722 artículos matemáticos AI-generated, los criptógrafos discrepan.",
-          "mini_headline": "Las matemáticas con IA dividen a los criptógrafos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://static.scientificamerican.com/dam/asset/359e09c0-3379-4c4c-afce-696e137c3e4e/shutterstock_2819871589.jpg?m=1792074570.38&w=1200",
-                "cap": "La criptografía protege amplias parcelas de la vida moderna, desde las compras en línea hasta las actualizaciones de software y las criptomonedas. Jackreznor / Shutterstock"
-              },
-              {
-                "t": "p",
-                "x": "La semana pasada OpenAI publicó de golpe 722 manuscritos matemáticos en línea, todos ellos escritos por un modelo de IA no disponible para el público. OpenAI retiró tres de los artículos en un día, y los matemáticos siguen revisando el resto."
-              },
-              {
-                "t": "p",
-                "x": "Las matemáticas sostienen la criptografía. Matthew Green, criptógrafo de la Johns Hopkins University, planteó que había un 15 por ciento de probabilidad de que perdiéramos la confianza en los algoritmos actuales de cifrado de clave pública."
-              },
-              {
-                "t": "p",
-                "x": "Otros no coinciden. Yehuda Lindell, de la Bar-Ilan University y de Coinbase, escribió en X que no hay “ninguna evidencia” de un avance decisivo, y ninguno de los 722 artículos de OpenAI trata de criptografía, algo que Dan Boneh, de Stanford, califica de “un poco llamativo”."
-              },
-              {
-                "t": "p",
-                "x": "En un preprint reciente, Florian Tramèr, de ETH Zurich, y sus colegas enfrentaron a los principales modelos de IA con 191 retos de descifrado. “Está bastante claro que la capacidad de los modelos en criptoanálisis crece muy rápido”, dice. Aun así, “hoy ningún algoritmo actualmente desplegado ha sido roto por la IA”, admite Govind Pimpale."
-              },
-              {
-                "t": "p",
-                "x": "Bart Preneel, de KU Leuven, no ve “ninguna razón real para el pánico”. Boneh y Green quieren que las empresas de IA digan qué han intentado sus modelos en criptografía."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "science-materials",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "전자 구조가 이끄는\nAI 소재 설계",
-      "body": "도쿄 연구진이 MatterGen을 확장해 전자 구조와 결정 구조를 만들게 했다.",
-      "mini_headline": "물리를 반영한 AI 소재 설계",
-      "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-electronic-ai-materials.html",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1145,179 +667,181 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
-            "cap": "결정 구조와 전자 구조를 함께 설계하는 생성형 AI 모델을 연구진이 개발했다. Credit: Institute of Industrial Science, The University of Tokyo"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+            "cap": "로봇이 시편을 옮기며 자동 열처리, XRD, 충격 시험을 잇는다. Credit: Science and Technology of Advanced Materials: Methods (2026)"
           },
           {
             "t": "p",
-            "x": "Institute of Industrial Science, The University of Tokyo의 연구진이 대표적인 생성형 AI 모델을 손봐, 소재의 전자 구조까지 결정 구조와 나란히 설계하게 했다. 새 모델 이름은 MatterGen-e⁻이고, npj Computational Materials에 실렸다."
+            "x": "Tohoku University 연구진은 NIMS, TsubameLab과 함께 벌크 금속의 열처리, X-ray 회절, 기계적 시험을 사람 손을 거치지 않고 잇는 시스템을 만들었다. 로봇 팔이 유도 가열로, XRD 장비, 미세 충격 시험기 사이로 시편을 옮긴다."
           },
           {
             "t": "p",
-            "x": "역설계에서는 밴드갭이나 형성 에너지 같은 목표 물성을 먼저 정한다. 그러면 AI가 거기에 맞는 안정한 결정을 곧바로 설계한다. Microsoft Research의 MatterGen은 원자 종류와 좌표, 격자로 구조를 만들어내지만, 데이터가 제한되면 물성과 구조의 상관까지 배우기는 어렵다."
+            "x": "JIS SCM435H 저합금강의 한 단계·두 단계 템퍼링 시험에서 열처리 시간을 빼고 시료당 약 800초가 들었다. 정확도는 수작업 시험과 비슷했고 속도는 수작업 실험보다 10배 이상 빨랐다."
           },
           {
             "t": "p",
-            "x": "연구팀은 국소 전자 기술자, 곧 Bader 전하와 원자별 상태 밀도를 더했다. 목표 형성 에너지와 밴드갭을 놓고 보면 MatterGen-e⁻가 유효하고 안정하며 고유하고 새로운 구조를 MatterGen보다 훨씬 많이 내놓았다."
+            "x": "연구팀은 NIMS Orchestration System(NIMO)에 AI 최적화 도구를 넣어, 가열로 제어 변수를 자동으로 최적화하는 과정도 보여줬다. Goro Miyamoto는 \"이번 연구는 실험 워크플로 전체를 자동화할 수 있음을 보여준다\"고 말한다."
           },
           {
             "t": "p",
-            "x": "“중요한 것은 변수의 개수가 아니라 전자 정보의 질”이라고 교신저자 Teruyasu Mizoguchi는 말한다. 표면과 계면을 만들어내는 일에도 이 방법이 보탬이 된다."
+            "x": "연구진이 그리는 다음 단계는 AI가 새 열처리 조건을 제안하고 플랫폼이 이를 자동으로 시험하는 폐루프다."
           }
         ]
       },
+      "_lead_image": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "Electronic structure steers\nAI materials design",
-          "body": "A Tokyo team extended MatterGen so it generates electronic and crystal structures together for target properties.",
-          "mini_headline": "Physics-guided AI materials",
+          "headline": "AI tunes the furnace in\nautomated bulk-metal testing",
+          "body": "Tohoku University and NIMS built an automated bulk-metal testing line whose AI optimizer tunes furnace parameters.",
+          "mini_headline": "AI runs metal testing",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
-                "cap": "Researchers develop a generative AI model that designs crystal and electronic structures together. Credit: Institute of Industrial Science, The University of Tokyo"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+                "cap": "Automated heat treatment, XRD and impact testing linked by robotic specimen transfer. Credit: Science and Technology of Advanced Materials: Methods (2026)"
               },
               {
                 "t": "p",
-                "x": "Researchers at the Institute of Industrial Science, The University of Tokyo, have extended a leading generative AI model so that it designs the electronic structure of a material together with its crystal structure. The new model, named MatterGen-e⁻, is reported in npj Computational Materials."
+                "x": "Researchers at Tohoku University, working with NIMS and TsubameLab, built a system that links heat treatment, X-ray diffraction and mechanical testing of bulk metals without human intervention. A robotic arm moves specimens between an induction furnace, an XRD instrument and a micro-impact tester."
               },
               {
                 "t": "p",
-                "x": "In inverse design, a target property such as band gap or formation energy is specified first, and AI directly designs a matching stable crystal. Microsoft Research's MatterGen generates structures from atom types, coordinates and lattices, but learning property–structure correlations from limited data is difficult."
+                "x": "In tests on one- and two-step tempering of JIS SCM435H low-alloy steel, it took approximately 800 seconds per sample, excluding heat-treatment time, with accuracy comparable to manual testing and more than 10 times faster than manual experimentation."
               },
               {
                 "t": "p",
-                "x": "The team added local electronic descriptors—the Bader charge and the atomic density of states. For target formation energies and band gaps, MatterGen-e⁻ produced substantially more structures that were simultaneously valid, stable, unique and novel than MatterGen."
+                "x": "The team implemented an AI optimization tool within the NIMS Orchestration System (NIMO) and demonstrated automated optimization of furnace control parameters. \"This work demonstrates that the entire experimental workflow can be automated,\" says Goro Miyamoto."
               },
               {
                 "t": "p",
-                "x": "“The quality of the electronic information, not the number of variables, is what matters,” says senior author Teruyasu Mizoguchi. The approach could improve the generation of surfaces and interfaces."
+                "x": "The researchers envision a future closed loop in which AI proposes new heat-treatment conditions and the platform tests them automatically."
               }
             ]
           }
         },
         "ko": {
-          "headline": "전자 구조가 이끄는\nAI 소재 설계",
-          "body": "도쿄 연구진이 MatterGen을 확장해 전자 구조와 결정 구조를 만들게 했다.",
-          "mini_headline": "물리를 반영한 AI 소재 설계",
+          "headline": "AI가 가열로를 조정\n벌크 금속 시험 자동화",
+          "body": "Tohoku University·NIMS가 AI로 도는 금속 시험 라인을 만들었다.",
+          "mini_headline": "AI가 금속 시험을 돌린다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
-                "cap": "결정 구조와 전자 구조를 함께 설계하는 생성형 AI 모델을 연구진이 개발했다. Credit: Institute of Industrial Science, The University of Tokyo"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+                "cap": "로봇이 시편을 옮기며 자동 열처리, XRD, 충격 시험을 잇는다. Credit: Science and Technology of Advanced Materials: Methods (2026)"
               },
               {
                 "t": "p",
-                "x": "Institute of Industrial Science, The University of Tokyo의 연구진이 대표적인 생성형 AI 모델을 손봐, 소재의 전자 구조까지 결정 구조와 나란히 설계하게 했다. 새 모델 이름은 MatterGen-e⁻이고, npj Computational Materials에 실렸다."
+                "x": "Tohoku University 연구진은 NIMS, TsubameLab과 함께 벌크 금속의 열처리, X-ray 회절, 기계적 시험을 사람 손을 거치지 않고 잇는 시스템을 만들었다. 로봇 팔이 유도 가열로, XRD 장비, 미세 충격 시험기 사이로 시편을 옮긴다."
               },
               {
                 "t": "p",
-                "x": "역설계에서는 밴드갭이나 형성 에너지 같은 목표 물성을 먼저 정한다. 그러면 AI가 거기에 맞는 안정한 결정을 곧바로 설계한다. Microsoft Research의 MatterGen은 원자 종류와 좌표, 격자로 구조를 만들어내지만, 데이터가 제한되면 물성과 구조의 상관까지 배우기는 어렵다."
+                "x": "JIS SCM435H 저합금강의 한 단계·두 단계 템퍼링 시험에서 열처리 시간을 빼고 시료당 약 800초가 들었다. 정확도는 수작업 시험과 비슷했고 속도는 수작업 실험보다 10배 이상 빨랐다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 국소 전자 기술자, 곧 Bader 전하와 원자별 상태 밀도를 더했다. 목표 형성 에너지와 밴드갭을 놓고 보면 MatterGen-e⁻가 유효하고 안정하며 고유하고 새로운 구조를 MatterGen보다 훨씬 많이 내놓았다."
+                "x": "연구팀은 NIMS Orchestration System(NIMO)에 AI 최적화 도구를 넣어, 가열로 제어 변수를 자동으로 최적화하는 과정도 보여줬다. Goro Miyamoto는 \"이번 연구는 실험 워크플로 전체를 자동화할 수 있음을 보여준다\"고 말한다."
               },
               {
                 "t": "p",
-                "x": "“중요한 것은 변수의 개수가 아니라 전자 정보의 질”이라고 교신저자 Teruyasu Mizoguchi는 말한다. 표면과 계면을 만들어내는 일에도 이 방법이 보탬이 된다."
+                "x": "연구진이 그리는 다음 단계는 AI가 새 열처리 조건을 제안하고 플랫폼이 이를 자동으로 시험하는 폐루프다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "電子構造が導く\nAIの材料設計",
-          "body": "東京の研究チームがMatterGenを拡張し、電子構造と結晶構造を同時に生成する。",
-          "mini_headline": "物理に基づくAI材料設計",
+          "headline": "AIが炉を調整する\nバルク金属の自動試験",
+          "body": "Tohoku UniversityとNIMSが、AIで炉を最適化する金属試験系を作った。",
+          "mini_headline": "AIが金属試験を回す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
-                "cap": "結晶構造と電子構造を同時に設計する生成AIモデルを研究者が開発した。Credit: Institute of Industrial Science, The University of Tokyo"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+                "cap": "ロボットによる試料搬送で、自動熱処理、XRD、衝撃試験をつなぐ。Credit: Science and Technology of Advanced Materials: Methods (2026)"
               },
               {
                 "t": "p",
-                "x": "Institute of Industrial Science, The University of Tokyoの研究者らが、代表的な生成AIモデルを拡張し、材料の電子構造を結晶構造と一緒に設計できるようにした。MatterGen-e⁻と名づけられたこの新しいモデルは、npj Computational Materialsで報告されている。"
+                "x": "Tohoku Universityの研究者はNIMSおよびTsubameLabと協力し、バルク金属の熱処理、X-ray回折、機械試験を人手を介さずにつなぐシステムを構築した。ロボットアームが誘導加熱炉、XRD装置、微小衝撃試験機の間で試料を移動させる。"
               },
               {
                 "t": "p",
-                "x": "逆設計では、バンドギャップや生成エネルギーといった目標物性を先に指定し、AIがそれに合う安定な結晶を直接設計する。Microsoft ResearchのMatterGenは原子種・座標・格子から構造を生成するが、限られたデータから物性と構造の相関を学ぶのは難しい。"
+                "x": "JIS SCM435H低合金鋼の一段階・二段階焼戻しを対象とした試験では、熱処理時間を除いて試料あたり約800秒を要した。精度は手作業の試験と同等で、手作業の実験より10倍以上速かった。"
               },
               {
                 "t": "p",
-                "x": "チームは局所的な電子記述子、すなわちBader電荷と原子ごとの状態密度を加えた。目標とする生成エネルギーとバンドギャップについて、MatterGen-e⁻は有効で安定、かつ固有で新規という条件を同時に満たす構造を、MatterGenより大幅に多く生み出した。"
+                "x": "チームはNIMS Orchestration System（NIMO）内にAI最適化ツールを実装し、炉の制御パラメーターの自動最適化を実証した。Goro Miyamotoは「この研究は、実験ワークフロー全体を自動化できることを示している」と述べる。"
               },
               {
                 "t": "p",
-                "x": "「重要なのは変数の数ではなく、電子情報の質である」と責任著者のTeruyasu Mizoguchiは語る。この手法は表面や界面の生成も改善しうる。"
+                "x": "研究者らは、AIが新たな熱処理条件を提案し、プラットフォームがそれを自動で試験するクローズドループを将来像として描いている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "电子结构引导\nAI材料设计",
-          "body": "东京团队扩展MatterGen，使其同时生成电子结构与晶体结构。",
-          "mini_headline": "物理引导的AI材料设计",
+          "headline": "AI调节炉子参数\n块体金属自动测试",
+          "body": "Tohoku University与NIMS建成自动块体金属测试线，由AI优化器调节炉参数。",
+          "mini_headline": "AI运行金属测试",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
-                "cap": "研究者开发出可同时设计晶体结构与电子结构的生成式AI模型。Credit: Institute of Industrial Science, The University of Tokyo"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+                "cap": "机械臂转运试样，将自动热处理、XRD与冲击测试串联起来。Credit: Science and Technology of Advanced Materials: Methods (2026)"
               },
               {
                 "t": "p",
-                "x": "Institute of Industrial Science, The University of Tokyo的研究者扩展了一款领先的生成式AI模型，使其在设计材料晶体结构的同时设计电子结构。这一名为MatterGen-e⁻的新模型发表于npj Computational Materials。"
+                "x": "Tohoku University的研究人员与NIMS和TsubameLab合作，建成一套无需人工干预即可串联块体金属热处理、X-ray衍射和力学测试的系统。机械臂在感应炉、XRD仪器和微冲击试验机之间转运试样。"
               },
               {
                 "t": "p",
-                "x": "在逆向设计中，先给定带隙或形成能等目标性质，再由AI直接设计出与之匹配的稳定晶体。Microsoft Research的MatterGen依据原子类型、坐标与晶格生成结构，但从有限数据中学习性质与结构的关联并不容易。"
+                "x": "在对JIS SCM435H低合金钢进行一段和两段回火的测试中，每个样品耗时约800秒（不含热处理时间），精度与人工测试相当，速度比人工实验快10倍以上。"
               },
               {
                 "t": "p",
-                "x": "团队加入了局域电子描述符——Bader电荷与原子态密度。针对目标形成能与带隙，MatterGen-e⁻生成的同时满足有效、稳定、唯一且新颖的结构，明显多于MatterGen。"
+                "x": "团队在NIMS Orchestration System（NIMO）中部署了AI优化工具，并演示了炉控参数的自动优化。Goro Miyamoto表示：“这项工作表明，整个实验流程都可以实现自动化。”"
               },
               {
                 "t": "p",
-                "x": "“关键在于电子信息的质量，而不是变量的数量，”通讯作者Teruyasu Mizoguchi说。这一思路还有望改进表面与界面的生成。"
+                "x": "研究人员设想未来形成闭环：由AI提出新的热处理条件，再由平台自动进行测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La estructura electrónica guía\nel diseño de materiales con IA",
-          "body": "Un equipo de Tokio amplió MatterGen para generar a la vez estructuras electrónicas y cristalinas.",
-          "mini_headline": "Materiales con IA guiados por la física",
+          "headline": "La AI ajusta el horno en pruebas\nautomatizadas de metal en bloque",
+          "body": "Tohoku University y NIMS crearon una línea automatizada de pruebas de metal cuyo optimizador de AI ajusta el horno.",
+          "mini_headline": "La AI dirige pruebas de metales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
-                "cap": "Los investigadores desarrollan un modelo de IA generativa que diseña a la vez estructuras cristalinas y electrónicas. Credit: Institute of Industrial Science, The University of Tokyo"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+                "cap": "Tratamiento térmico, XRD y ensayos de impacto automatizados, conectados mediante transferencia robótica de probetas. Credit: Science and Technology of Advanced Materials: Methods (2026)"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Institute of Industrial Science, The University of Tokyo, han ampliado un modelo destacado de IA generativa para que diseñe la estructura electrónica de un material junto con su estructura cristalina. El nuevo modelo, llamado MatterGen-e⁻, se describe en npj Computational Materials."
+                "x": "Investigadores de Tohoku University, en colaboración con NIMS y TsubameLab, crearon un sistema que enlaza el tratamiento térmico, la difracción de rayos X (X-ray) y los ensayos mecánicos de metales en bloque sin intervención humana. Un brazo robótico traslada las probetas entre un horno de inducción, un instrumento de XRD y un probador de microimpacto."
               },
               {
                 "t": "p",
-                "x": "En el diseño inverso se fija primero una propiedad objetivo, como la banda prohibida o la energía de formación, y la IA diseña directamente un cristal estable que la cumpla. MatterGen, de Microsoft Research, genera estructuras a partir de tipos de átomos, coordenadas y redes, pero aprender las correlaciones entre propiedad y estructura con datos limitados resulta difícil."
+                "x": "En pruebas de revenido de una y dos etapas del acero de baja aleación JIS SCM435H, tardó aproximadamente 800 segundos por muestra, sin contar el tiempo de tratamiento térmico, con una precisión comparable a la de las pruebas manuales y más de 10 veces más rápido que la experimentación manual."
               },
               {
                 "t": "p",
-                "x": "El equipo añadió descriptores electrónicos locales: la carga de Bader y la densidad de estados atómica. Para energías de formación y bandas prohibidas objetivo, MatterGen-e⁻ produjo bastantes más estructuras simultáneamente válidas, estables, únicas y novedosas que MatterGen."
+                "x": "El equipo implementó una herramienta de optimización con AI dentro del NIMS Orchestration System (NIMO) y demostró la optimización automatizada de los parámetros de control del horno. \"Este trabajo demuestra que todo el flujo experimental puede automatizarse\", dice Goro Miyamoto."
               },
               {
                 "t": "p",
-                "x": "“Lo que importa es la calidad de la información electrónica, no el número de variables”, dice el autor principal Teruyasu Mizoguchi. El enfoque podría mejorar la generación de superficies e interfaces."
+                "x": "Los investigadores imaginan un futuro ciclo cerrado en el que la AI proponga nuevas condiciones de tratamiento térmico y la plataforma las pruebe automáticamente."
               }
             ]
           }
@@ -1325,125 +849,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "전자 구조가 이끄는\nAI 소재 설계",
-          "body": "도쿄 연구진이 MatterGen을 확장해 전자 구조와 결정 구조를 만들게 했다.",
-          "mini_headline": "물리를 반영한 AI 소재 설계",
+          "headline": "AI가 가열로를 조정\n벌크 금속 시험 자동화",
+          "body": "Tohoku University와 NIMS가 AI 기반 금속 시험 라인을 만들었다.",
+          "mini_headline": "AI가 금속 시험을 돌린다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
-                "cap": "결정 구조와 전자 구조를 함께 설계하는 생성형 AI 모델을 연구진이 개발했다. Credit: Institute of Industrial Science, The University of Tokyo"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+                "cap": "로봇의 시편 이송으로 자동 열처리, XRD, 충격 시험을 연결했다. Credit: Science and Technology of Advanced Materials: Methods (2026)"
               },
               {
                 "t": "p",
-                "x": "Institute of Industrial Science, The University of Tokyo의 연구진이 대표적인 생성형 AI 모델을 확장해, 소재의 전자 구조를 결정 구조와 함께 설계하도록 만들었다. MatterGen-e⁻라는 이름의 새 모델은 npj Computational Materials에 실렸다."
+                "x": "Tohoku University 연구진은 NIMS, TsubameLab과 함께 벌크 금속의 열처리, X-ray 회절, 기계적 시험을 사람의 개입 없이 잇는 시스템을 만들었다. 로봇 팔이 유도 가열로, XRD 장비, 미세 충격 시험기 사이로 시편을 옮긴다."
               },
               {
                 "t": "p",
-                "x": "역설계에서는 밴드갭이나 형성 에너지 같은 목표 물성을 먼저 정하고, AI가 거기에 맞는 안정한 결정을 곧바로 설계한다. Microsoft Research의 MatterGen은 원자 종류와 좌표, 격자로 구조를 만들어내지만, 제한된 데이터에서 물성과 구조의 상관을 배우기는 어렵다."
+                "x": "JIS SCM435H 저합금강의 한 단계·두 단계 템퍼링 시험에서 열처리 시간을 빼고 시료당 약 800초가 걸렸다. 정확도는 수작업 시험과 비슷했고, 속도는 수작업 실험보다 10배 이상 빨랐다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 국소 전자 기술자, 곧 Bader 전하와 원자별 상태 밀도를 더했다. 목표 형성 에너지와 밴드갭에 대해 MatterGen-e⁻는 유효하고 안정하며 고유하고 새로운 구조를 MatterGen보다 훨씬 많이 내놓았다."
+                "x": "연구팀은 NIMS Orchestration System(NIMO)에 AI 최적화 도구를 구현해 가열로 제어 변수의 자동 최적화를 시연했다. Goro Miyamoto는 \"이번 연구는 실험 워크플로 전체를 자동화할 수 있음을 보여준다\"고 말한다."
               },
               {
                 "t": "p",
-                "x": "“중요한 것은 변수의 개수가 아니라 전자 정보의 질”이라고 교신저자 Teruyasu Mizoguchi는 말한다. 이 방법은 표면과 계면의 생성도 개선할 수 있다."
+                "x": "연구진은 AI가 새로운 열처리 조건을 제안하고 플랫폼이 이를 자동으로 시험하는 폐루프를 앞으로의 모습으로 그리고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "電子構造が導く\nAIの材料設計",
-          "body": "東京の研究チームがMatterGenを拡張し、電子構造と結晶構造を同時に生成する。",
-          "mini_headline": "物理に基づくAI材料設計",
+          "headline": "AIが炉を調整する\nバルク金属の自動試験",
+          "body": "Tohoku UniversityとNIMSが、AIで炉を最適化する金属試験系を作った。",
+          "mini_headline": "AIが金属試験を回す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
-                "cap": "結晶構造と電子構造を同時に設計する生成AIモデルを研究者が開発した。Credit: Institute of Industrial Science, The University of Tokyo"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+                "cap": "ロボットによる試料搬送で、自動熱処理、XRD、衝撃試験をつなぐ。Credit: Science and Technology of Advanced Materials: Methods (2026)"
               },
               {
                 "t": "p",
-                "x": "Institute of Industrial Science, The University of Tokyoの研究者らが、代表的な生成AIモデルを拡張し、材料の電子構造を結晶構造と一緒に設計できるようにした。MatterGen-e⁻と名づけられたこの新しいモデルは、npj Computational Materialsで報告されている。"
+                "x": "Tohoku Universityの研究者はNIMSおよびTsubameLabと協力し、バルク金属の熱処理、X-ray回折、機械試験を人手を介さずにつなぐシステムを構築した。ロボットアームが誘導加熱炉、XRD装置、微小衝撃試験機の間で試料を移動させる。"
               },
               {
                 "t": "p",
-                "x": "逆設計では、バンドギャップや生成エネルギーといった目標物性を先に指定し、AIがそれに合う安定な結晶を直接設計する。Microsoft ResearchのMatterGenは原子種・座標・格子から構造を生成するが、限られたデータから物性と構造の相関を学ぶのは難しい。"
+                "x": "JIS SCM435H低合金鋼の一段階・二段階焼戻しを対象とした試験では、熱処理時間を除いて試料あたり約800秒を要した。精度は手作業の試験と同等で、手作業の実験より10倍以上速かった。"
               },
               {
                 "t": "p",
-                "x": "チームは局所的な電子記述子、すなわちBader電荷と原子ごとの状態密度を加えた。目標とする生成エネルギーとバンドギャップについて、MatterGen-e⁻は有効で安定、かつ固有で新規という条件を同時に満たす構造を、MatterGenより大幅に多く生み出した。"
+                "x": "チームはNIMS Orchestration System（NIMO）内にAI最適化ツールを実装し、炉の制御パラメーターの自動最適化を実証した。Goro Miyamotoは「この研究は、実験ワークフロー全体を自動化できることを示している」と述べる。"
               },
               {
                 "t": "p",
-                "x": "「重要なのは変数の数ではなく、電子情報の質である」と責任著者のTeruyasu Mizoguchiは語る。この手法は表面や界面の生成も改善しうる。"
+                "x": "研究者らは、AIが新たな熱処理条件を提案し、プラットフォームがそれを自動で試験するクローズドループを将来像として描いている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "电子结构引导\nAI材料设计",
-          "body": "东京团队扩展MatterGen，使其同时生成电子结构与晶体结构。",
-          "mini_headline": "物理引导的AI材料设计",
+          "headline": "AI调节炉子参数\n块体金属自动测试",
+          "body": "Tohoku University与NIMS建成自动块体金属测试线，由AI优化器调节炉参数。",
+          "mini_headline": "AI运行金属测试",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
-                "cap": "研究者开发出可同时设计晶体结构与电子结构的生成式AI模型。Credit: Institute of Industrial Science, The University of Tokyo"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+                "cap": "机械臂转运试样，将自动热处理、XRD与冲击测试串联起来。Credit: Science and Technology of Advanced Materials: Methods (2026)"
               },
               {
                 "t": "p",
-                "x": "Institute of Industrial Science, The University of Tokyo的研究者扩展了一款领先的生成式AI模型，使其在设计材料晶体结构的同时设计电子结构。这一名为MatterGen-e⁻的新模型发表于npj Computational Materials。"
+                "x": "Tohoku University的研究人员与NIMS和TsubameLab合作，建成一套无需人工干预即可串联块体金属热处理、X-ray衍射和力学测试的系统。机械臂在感应炉、XRD仪器和微冲击试验机之间转运试样。"
               },
               {
                 "t": "p",
-                "x": "在逆向设计中，先给定带隙或形成能等目标性质，再由AI直接设计出与之匹配的稳定晶体。Microsoft Research的MatterGen依据原子类型、坐标与晶格生成结构，但从有限数据中学习性质与结构的关联并不容易。"
+                "x": "在对JIS SCM435H低合金钢进行一段和两段回火的测试中，每个样品耗时约800秒（不含热处理时间），精度与人工测试相当，速度比人工实验快10倍以上。"
               },
               {
                 "t": "p",
-                "x": "团队加入了局域电子描述符——Bader电荷与原子态密度。针对目标形成能与带隙，MatterGen-e⁻生成的同时满足有效、稳定、唯一且新颖的结构，明显多于MatterGen。"
+                "x": "团队在NIMS Orchestration System（NIMO）中部署了AI优化工具，并演示了炉控参数的自动优化。Goro Miyamoto表示：“这项工作表明，整个实验流程都可以实现自动化。”"
               },
               {
                 "t": "p",
-                "x": "“关键在于电子信息的质量，而不是变量的数量，”通讯作者Teruyasu Mizoguchi说。这一思路还有望改进表面与界面的生成。"
+                "x": "研究人员设想未来形成闭环：由AI提出新的热处理条件，再由平台自动进行测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La estructura electrónica guía\nel diseño de materiales con IA",
-          "body": "Un equipo de Tokio amplió MatterGen para generar a la vez estructuras electrónicas y cristalinas.",
-          "mini_headline": "Materiales con IA guiados por la física",
+          "headline": "La AI ajusta el horno en pruebas\nautomatizadas de metal en bloque",
+          "body": "Tohoku University y NIMS crearon una línea automatizada de pruebas de metal cuyo optimizador de AI ajusta el horno.",
+          "mini_headline": "La AI dirige pruebas de metales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/using-electronic-struc.jpg",
-                "cap": "Los investigadores desarrollan un modelo de IA generativa que diseña a la vez estructuras cristalinas y electrónicas. Credit: Institute of Industrial Science, The University of Tokyo"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+                "cap": "Tratamiento térmico, XRD y ensayos de impacto automatizados, conectados mediante transferencia robótica de probetas. Credit: Science and Technology of Advanced Materials: Methods (2026)"
               },
               {
                 "t": "p",
-                "x": "Investigadores del Institute of Industrial Science, The University of Tokyo, han ampliado un modelo destacado de IA generativa para que diseñe la estructura electrónica de un material junto con su estructura cristalina. El nuevo modelo, llamado MatterGen-e⁻, se describe en npj Computational Materials."
+                "x": "Investigadores de Tohoku University, en colaboración con NIMS y TsubameLab, crearon un sistema que enlaza el tratamiento térmico, la difracción de rayos X (X-ray) y los ensayos mecánicos de metales en bloque sin intervención humana. Un brazo robótico traslada las probetas entre un horno de inducción, un instrumento de XRD y un probador de microimpacto."
               },
               {
                 "t": "p",
-                "x": "En el diseño inverso se fija primero una propiedad objetivo, como la banda prohibida o la energía de formación, y la IA diseña directamente un cristal estable que la cumpla. MatterGen, de Microsoft Research, genera estructuras a partir de tipos de átomos, coordenadas y redes, pero aprender las correlaciones entre propiedad y estructura con datos limitados resulta difícil."
+                "x": "En pruebas de revenido de una y dos etapas del acero de baja aleación JIS SCM435H, tardó aproximadamente 800 segundos por muestra, sin contar el tiempo de tratamiento térmico, con una precisión comparable a la de las pruebas manuales y más de 10 veces más rápido que la experimentación manual."
               },
               {
                 "t": "p",
-                "x": "El equipo añadió descriptores electrónicos locales: la carga de Bader y la densidad de estados atómica. Para energías de formación y bandas prohibidas objetivo, MatterGen-e⁻ produjo bastantes más estructuras simultáneamente válidas, estables, únicas y novedosas que MatterGen."
+                "x": "El equipo implementó una herramienta de optimización con AI dentro del NIMS Orchestration System (NIMO) y demostró la optimización automatizada de los parámetros de control del horno. \"Este trabajo demuestra que todo el flujo experimental puede automatizarse\", dice Goro Miyamoto."
               },
               {
                 "t": "p",
-                "x": "“Lo que importa es la calidad de la información electrónica, no el número de variables”, dice el autor principal Teruyasu Mizoguchi. El enfoque podría mejorar la generación de superficies e interfaces."
+                "x": "Los investigadores imaginan un futuro ciclo cerrado en el que la AI proponga nuevas condiciones de tratamiento térmico y la plataforma las pruebe automáticamente."
               }
             ]
           }
@@ -1451,225 +975,173 @@
       }
     },
     {
-      "id": "science-benchmarks",
+      "id": "science-agentxtract-food-physics",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 벤치마크를\n흑마술 아닌 과학으로",
-      "body": "Moritz Hardt는 AI 벤치마크 생태계가 망가졌다며 대안을 내놓는다.",
-      "mini_headline": "과학이 되는 벤치마크",
+      "headline": "AI 에이전트, 논문에서\n새 식품 물리를 캐다",
+      "body": "Penn State의 AgentXtract가 논문에서 새 유전율 관계를 찾았다.",
+      "mini_headline": "AI가 식품 물리를 캐다",
       "tool": "Science",
-      "source": "Quanta Magazine",
-      "url": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
-      "accent": "#eb367f",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-ai-food-physics-pair-human.html",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
-            "cap": "컴퓨터과학자 Moritz Hardt는 벤치마크를 “기계학습을 만든 실수”라고 부른다. Jerrit Peinelt for Quanta Magazine"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+            "cap": "Xu Zhou가 연구실에서 식품 소재의 유전 특성을 측정하고 있다. Credit: Penn State. Creative Commons"
           },
           {
             "t": "p",
-            "x": "Max Planck Institute for Intelligent Systems의 소장 Moritz Hardt도 벤치마킹에 결함이 생겼다는 데 동의한다. “달리 말할 여지가 없다. 벤치마킹 생태계는 망가졌다.” 그러면서도 2026년 저서 The Emerging Science of Machine Learning Benchmarks에서 그는 벤치마크가 진짜 진보를 이끌었다고 주장한다 — “대체로 순전한 운으로.” Quanta는 분량을 줄이고 다듬은 인터뷰로 Hardt를 만났다."
+            "x": "식품과학 조교수 Xu Zhou가 이끄는 Penn State 연구진은 과학 논문의 표와 그림, 수식에서 식품 물성 실험 데이터를 뽑아내는 AI 에이전트 시스템 AgentXtract를 만들었다."
           },
           {
             "t": "p",
-            "x": "시험 집합이 조금만 달라져도 절대 점수는 흔들린다. 반면 모델 사이의 순위는 데이터셋이 바뀌어도 꽤 안정적이라고 그는 말한다. 기계학습이 과학적 위기를 피한 가장 큰 이유다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
-            "cap": "Hardt는 AI 모델이 벤치마크에서 받는 점수는 큰 의미가 없다고 경고한다. 다만 모델 사이의 비교, 곧 순위는 의미가 있다. Jerrit Peinelt for Quanta Magazine"
+            "x": "믿을 만한 출처를 고르고 데이터 품질을 확인하는 일은 식품공학자들이 맡았다. 에이전트들은 30분 만에 4,000건이 넘는 실험 데이터 기록을 모았다. Zhou에 따르면 예전에는 숙련된 연구자가 여섯 달 이상 매달려야 했던 작업이다. 연구팀은 OpenAI, Google, Anthropic의 대규모 언어 모델 10개도 평가했다."
           },
           {
             "t": "p",
-            "x": "LLMs에서는 그 안정성이 깨진다. 모델이 무엇으로 학습했는지 알 길이 없고, 만드는 쪽은 벤치마크 성적을 끌어올릴 데이터 조합을 짤 수 있다. “더 나은 모델이 반드시 이긴다는 말은 이제 사실이 아니다.”"
-          },
-          {
-            "t": "p",
-            "x": "그가 내놓은 해법은 “고지대 훈련”이다. 학습 집합을 없애고 시험 집합과, 시험 전에 각 모델을 준비시키는 규약만 두어 순위의 타당성을 되살리자는 이야기다."
+            "x": "데이터베이스를 분석하자 100가지가 넘는 식품에서 두 유전 특성인 유전 상수와 손실 계수 사이에 그동안 보고되지 않은 수학적 관계가 드러났다. 질의응답 AI에 이 데이터베이스를 연결하면 답변의 근거도 더 탄탄해졌다. 연구는 Journal of Food Engineering에 실렸다."
           }
         ]
       },
+      "_lead_image": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "Making AI benchmarking\na science, not a dark art",
-          "body": "Moritz Hardt tells Quanta the AI benchmarking ecosystem is broken and proposes 'altitude training' to restore rankings.",
-          "mini_headline": "Benchmarks as a science",
+          "headline": "AI agents mine papers\nfor new food physics",
+          "body": "Penn State's AgentXtract mines papers for food data that experts verify, revealing an unreported dielectric link.",
+          "mini_headline": "AI mines food physics",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
-                "cap": "The computer scientist Moritz Hardt calls benchmarks “the mistake that made machine learning.” Jerrit Peinelt for Quanta Magazine"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+                "cap": "Xu Zhou measures dielectric properties of food materials in his lab. Credit: Penn State. Creative Commons"
               },
               {
                 "t": "p",
-                "x": "Moritz Hardt, a director at the Max Planck Institute for Intelligent Systems, agrees that benchmarking has become flawed. “There’s no two ways about it. The benchmarking ecosystem is broken.” In his 2026 book The Emerging Science of Machine Learning Benchmarks, he argues benchmarks drove legitimate progress anyway — “mostly by sheer luck.” Quanta spoke to Hardt in an interview condensed and edited for clarity."
+                "x": "Penn State researchers led by Xu Zhou, assistant professor of food science, built AgentXtract, a system of AI agents that extracts experimental food-property data from scientific papers, including tables, figures and equations."
               },
               {
                 "t": "p",
-                "x": "Absolute scores shift when the test set changes slightly, he says, but rankings between models tend to be very stable across datasets — the main reason machine learning escaped a scientific crisis."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
-                "cap": "Hardt cautions that the scores AI models receive on benchmarks don’t mean much. But comparisons, or rankings, among models do. Jerrit Peinelt for Quanta Magazine"
+                "x": "Human food engineers identified reliable sources and ensured data quality. The agents gathered more than 4,000 experimental data records in just 30 minutes — work Zhou said once took an experienced researcher six months or more. The study evaluated 10 large language models from OpenAI, Google and Anthropic."
               },
               {
                 "t": "p",
-                "x": "With LLMs, that stability breaks: we don’t know what models were trained on, and builders can assemble data mixes that promote benchmark performance. “It’s no longer true that the better model necessarily wins.”"
-              },
-              {
-                "t": "p",
-                "x": "His fix is “altitude training”: no training set, just a test set and a protocol for preparing each model before testing, to restore the validity of rankings."
+                "x": "Analyzing the database revealed a previously unreported mathematical relationship between two dielectric properties — dielectric constant and loss factor — across more than 100 different foods. Linked to a question-answering AI, the database also produced more evidence-based answers. The work appears in the Journal of Food Engineering."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 벤치마크를\n흑마술 아닌 과학으로",
-          "body": "Moritz Hardt는 AI 벤치마크 생태계가 망가졌다며 대안을 내놓는다.",
-          "mini_headline": "과학이 되는 벤치마크",
+          "headline": "AI 에이전트, 논문에서\n새 식품 물리를 캐다",
+          "body": "Penn State의 AgentXtract가 논문에서 새 유전율 관계를 찾았다.",
+          "mini_headline": "AI가 식품 물리를 캐다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
-                "cap": "컴퓨터과학자 Moritz Hardt는 벤치마크를 “기계학습을 만든 실수”라고 부른다. Jerrit Peinelt for Quanta Magazine"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+                "cap": "Xu Zhou가 연구실에서 식품 소재의 유전 특성을 측정하고 있다. Credit: Penn State. Creative Commons"
               },
               {
                 "t": "p",
-                "x": "Max Planck Institute for Intelligent Systems의 소장 Moritz Hardt도 벤치마킹에 결함이 생겼다는 데 동의한다. “달리 말할 여지가 없다. 벤치마킹 생태계는 망가졌다.” 그러면서도 2026년 저서 The Emerging Science of Machine Learning Benchmarks에서 그는 벤치마크가 진짜 진보를 이끌었다고 주장한다 — “대체로 순전한 운으로.” Quanta는 분량을 줄이고 다듬은 인터뷰로 Hardt를 만났다."
+                "x": "식품과학 조교수 Xu Zhou가 이끄는 Penn State 연구진은 과학 논문의 표와 그림, 수식에서 식품 물성 실험 데이터를 뽑아내는 AI 에이전트 시스템 AgentXtract를 만들었다."
               },
               {
                 "t": "p",
-                "x": "시험 집합이 조금만 달라져도 절대 점수는 흔들린다. 반면 모델 사이의 순위는 데이터셋이 바뀌어도 꽤 안정적이라고 그는 말한다. 기계학습이 과학적 위기를 피한 가장 큰 이유다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
-                "cap": "Hardt는 AI 모델이 벤치마크에서 받는 점수는 큰 의미가 없다고 경고한다. 다만 모델 사이의 비교, 곧 순위는 의미가 있다. Jerrit Peinelt for Quanta Magazine"
+                "x": "믿을 만한 출처를 고르고 데이터 품질을 확인하는 일은 식품공학자들이 맡았다. 에이전트들은 30분 만에 4,000건이 넘는 실험 데이터 기록을 모았다. Zhou에 따르면 예전에는 숙련된 연구자가 여섯 달 이상 매달려야 했던 작업이다. 연구팀은 OpenAI, Google, Anthropic의 대규모 언어 모델 10개도 평가했다."
               },
               {
                 "t": "p",
-                "x": "LLMs에서는 그 안정성이 깨진다. 모델이 무엇으로 학습했는지 알 길이 없고, 만드는 쪽은 벤치마크 성적을 끌어올릴 데이터 조합을 짤 수 있다. “더 나은 모델이 반드시 이긴다는 말은 이제 사실이 아니다.”"
-              },
-              {
-                "t": "p",
-                "x": "그가 내놓은 해법은 “고지대 훈련”이다. 학습 집합을 없애고 시험 집합과, 시험 전에 각 모델을 준비시키는 규약만 두어 순위의 타당성을 되살리자는 이야기다."
+                "x": "데이터베이스를 분석하자 100가지가 넘는 식품에서 두 유전 특성인 유전 상수와 손실 계수 사이에 그동안 보고되지 않은 수학적 관계가 드러났다. 질의응답 AI에 이 데이터베이스를 연결하면 답변의 근거도 더 탄탄해졌다. 연구는 Journal of Food Engineering에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIベンチマークを\n黒魔術から科学へ",
-          "body": "Moritz HardtはAIベンチマークの生態系は壊れていると語る。",
-          "mini_headline": "科学としてのベンチマーク",
+          "headline": "AIエージェントが論文から\n新たな食品物理を発掘",
+          "body": "Penn StateのAgentXtractが論文から未報告の誘電関係を見いだした。",
+          "mini_headline": "AIが食品物理を発掘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
-                "cap": "計算機科学者のMoritz Hardtは、ベンチマークを「機械学習をつくった誤り」と呼ぶ。Jerrit Peinelt for Quanta Magazine"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+                "cap": "研究室で食品素材の誘電特性を測定するXu Zhou。Credit: Penn State. Creative Commons"
               },
               {
                 "t": "p",
-                "x": "Max Planck Institute for Intelligent Systemsのディレクターを務めるMoritz Hardtも、ベンチマーキングが欠陥を抱えるようになったと認める。「議論の余地はない。ベンチマーキングの生態系は壊れている」。2026年の著書The Emerging Science of Machine Learning Benchmarksで彼は、それでもベンチマークが正当な進歩を生んだと論じる——「ほとんどは純粋な幸運によって」。Quantaは、短く整理し読みやすく編集したインタビューでHardtに話を聞いた。"
+                "x": "食品科学の助教Xu Zhouが率いるPenn Stateの研究チームは、科学論文の表や図、数式を含む部分から食品物性の実験データを抽出するAIエージェントのシステムAgentXtractを開発した。"
               },
               {
                 "t": "p",
-                "x": "テストセットが少し変わるだけで絶対的なスコアは動くが、モデル間の順位はデータセットをまたいでもきわめて安定していると彼は言う。機械学習が科学的な危機を免れた主な理由である。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
-                "cap": "AIモデルがベンチマークで得るスコアに大きな意味はない、とHardtは戒める。ただし、モデル同士の比較すなわち順位には意味がある。Jerrit Peinelt for Quanta Magazine"
+                "x": "人間の食品エンジニアが信頼できる情報源を特定し、データの品質を担保した。エージェントはわずか30分で4,000件を超える実験データを収集した。Zhouによれば、かつては熟練の研究者が六か月以上かけていた作業だという。研究ではOpenAI、Google、Anthropicの大規模言語モデル10種を評価した。"
               },
               {
                 "t": "p",
-                "x": "LLMsではその安定性が崩れる。モデルが何で学習したのか分からず、作り手はベンチマークの成績を押し上げるデータの配合を組めるからだ。「より良いモデルが必ず勝つ、とはもはや言えない」。"
-              },
-              {
-                "t": "p",
-                "x": "彼の処方箋は「高地トレーニング」である。訓練セットは置かず、テストセットと、テスト前に各モデルを整えるための手順だけを定め、順位の妥当性を取り戻す。"
+                "x": "データベースを分析すると、100種類を超える食品にわたり、二つの誘電特性である誘電率と損失係数の間に、これまで報告されていなかった数学的関係が見つかった。質問応答AIと連携させると、データベースはより根拠に基づいた回答も生み出した。成果はJournal of Food Engineeringに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "让AI基准测试\n成为科学而非黑魔法",
-          "body": "Moritz Hardt认为AI基准测试生态已经失灵，需要重建排名。",
-          "mini_headline": "作为科学的基准测试",
+          "headline": "AI智能体挖掘论文\n发现新的食品物理",
+          "body": "Penn State的AgentXtract从论文挖掘食品数据，揭示未报道的介电关联。",
+          "mini_headline": "AI挖掘食品物理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
-                "cap": "计算机科学家Moritz Hardt把基准测试称为“造就机器学习的那个错误”。Jerrit Peinelt for Quanta Magazine"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+                "cap": "Xu Zhou在实验室测量食品材料的介电特性。Credit: Penn State. Creative Commons"
               },
               {
                 "t": "p",
-                "x": "Max Planck Institute for Intelligent Systems的主任Moritz Hardt也认为基准测试已变得有缺陷。“这一点没有第二种说法。基准测试的生态已经坏了。”在2026年出版的The Emerging Science of Machine Learning Benchmarks一书中，他提出基准测试仍然推动了真实的进步——“多半是靠运气”。Quanta对Hardt的采访经过压缩与编辑以便阅读。"
+                "x": "由食品科学助理教授Xu Zhou领导的Penn State研究人员开发了AgentXtract，这是一套AI智能体系统，能从科学论文的表格、图和方程中提取食品特性实验数据。"
               },
               {
                 "t": "p",
-                "x": "他说，测试集稍有变化，绝对分数就会移动；但不同数据集之间，模型的排名往往非常稳定——这正是机器学习躲过一场科学危机的主要原因。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
-                "cap": "Hardt提醒，AI模型在基准测试上拿到的分数意义不大，但模型之间的比较，也就是排名，是有意义的。Jerrit Peinelt for Quanta Magazine"
+                "x": "人类食品工程师负责确定可靠来源并保证数据质量。智能体仅用30分钟就收集了4,000多条实验数据记录——Zhou说，这项工作过去需要经验丰富的研究人员花六个月甚至更久。研究评估了来自OpenAI、Google和Anthropic的10个大语言模型。"
               },
               {
                 "t": "p",
-                "x": "到了LLMs，这种稳定性被打破：我们不知道模型用什么训练，开发者也能配出有利于基准成绩的数据组合。“更好的模型必然胜出，这句话已经不再成立。”"
-              },
-              {
-                "t": "p",
-                "x": "他开出的方子是“高原训练”：不设训练集，只保留测试集，以及在测试前准备每个模型的统一流程，以恢复排名的有效性。"
+                "x": "分析该数据库后，研究人员在100多种食品中发现了两种介电特性——介电常数与损耗因子——之间此前未被报道的数学关系。与问答AI连接后，该数据库还给出了更有依据的回答。该研究发表于Journal of Food Engineering。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Convertir la evaluación de IA\nen ciencia, no en arte oscuro",
-          "body": "Moritz Hardt afirma a Quanta que el ecosistema de evaluación de la IA está roto.",
-          "mini_headline": "Los benchmarks como ciencia",
+          "headline": "Agentes de AI exploran artículos\npor nueva física alimentaria",
+          "body": "AgentXtract, de Penn State, extrae datos de alimentos que verifican expertos y revela un vínculo dieléctrico inédito.",
+          "mini_headline": "La AI explora la física de los alimentos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
-                "cap": "El informático Moritz Hardt llama a los benchmarks “el error que hizo el aprendizaje automático”. Jerrit Peinelt for Quanta Magazine"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+                "cap": "Xu Zhou mide las propiedades dieléctricas de materiales alimentarios en su laboratorio. Credit: Penn State. Creative Commons"
               },
               {
                 "t": "p",
-                "x": "Moritz Hardt, director en el Max Planck Institute for Intelligent Systems, coincide en que la evaluación con benchmarks se ha vuelto defectuosa. “No hay dos maneras de verlo. El ecosistema de benchmarks está roto.” En su libro de 2026 The Emerging Science of Machine Learning Benchmarks sostiene que, aun así, los benchmarks impulsaron un progreso legítimo: “sobre todo por pura suerte”. Quanta habló con Hardt en una entrevista condensada y editada para mayor claridad."
+                "x": "Investigadores de Penn State dirigidos por Xu Zhou, profesor adjunto de ciencia de los alimentos, crearon AgentXtract, un sistema de agentes de AI que extrae de artículos científicos datos experimentales sobre propiedades de los alimentos, incluidos tablas, figuras y ecuaciones."
               },
               {
                 "t": "p",
-                "x": "Las puntuaciones absolutas cambian cuando el conjunto de prueba se altera levemente, dice, pero las clasificaciones entre modelos suelen ser muy estables entre conjuntos de datos: la razón principal de que el aprendizaje automático escapara a una crisis científica."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
-                "cap": "Hardt advierte que las puntuaciones que los modelos de IA obtienen en los benchmarks significan poco. Las comparaciones, o clasificaciones, entre modelos sí importan. Jerrit Peinelt for Quanta Magazine"
+                "x": "Ingenieros de alimentos humanos identificaron fuentes fiables y garantizaron la calidad de los datos. Los agentes reunieron más de 4,000 registros de datos experimentales en solo 30 minutos, un trabajo que, según Zhou, antes le llevaba a un investigador experimentado seis meses o más. El estudio evaluó 10 modelos de lenguaje de gran tamaño de OpenAI, Google y Anthropic."
               },
               {
                 "t": "p",
-                "x": "Con los LLMs esa estabilidad se rompe: no sabemos con qué se entrenaron los modelos y quienes los construyen pueden componer mezclas de datos que favorecen el rendimiento en los benchmarks. “Ya no es cierto que el mejor modelo gane necesariamente.”"
-              },
-              {
-                "t": "p",
-                "x": "Su solución es el “entrenamiento en altura”: sin conjunto de entrenamiento, solo un conjunto de prueba y un protocolo para preparar cada modelo antes de la prueba, de modo que las clasificaciones recuperen su validez."
+                "x": "El análisis de la base de datos reveló una relación matemática no descrita hasta ahora entre dos propiedades dieléctricas —la constante dieléctrica y el factor de pérdida— en más de 100 alimentos distintos. Conectada a una AI de preguntas y respuestas, la base de datos también produjo respuestas más basadas en evidencia. El trabajo se publica en el Journal of Food Engineering."
               }
             ]
           }
@@ -1677,145 +1149,493 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 벤치마크를\n흑마술 아닌 과학으로",
-          "body": "Moritz Hardt는 AI 벤치마크 생태계가 망가졌다며 대안을 내놓는다.",
-          "mini_headline": "과학이 되는 벤치마크",
+          "headline": "AI 에이전트, 논문에서\n새 식품 물리를 캐다",
+          "body": "Penn State의 AgentXtract가 논문에서 미보고 유전율 관계를 찾았다.",
+          "mini_headline": "AI가 식품 물리를 캐다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
-                "cap": "컴퓨터과학자 Moritz Hardt는 벤치마크를 “기계학습을 만든 실수”라고 부른다. Jerrit Peinelt for Quanta Magazine"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+                "cap": "Xu Zhou가 연구실에서 식품 소재의 유전 특성을 측정하고 있다. Credit: Penn State. Creative Commons"
               },
               {
                 "t": "p",
-                "x": "Max Planck Institute for Intelligent Systems의 소장 Moritz Hardt도 벤치마킹이 결함을 안게 됐다는 데 동의한다. “달리 말할 여지가 없다. 벤치마킹 생태계는 망가졌다.” 2026년 저서 The Emerging Science of Machine Learning Benchmarks에서 그는 그럼에도 벤치마크가 진짜 진보를 이끌었다고 주장한다 — “대체로 순전한 운으로.” Quanta는 분량을 줄이고 다듬은 인터뷰로 Hardt를 만났다."
+                "x": "식품과학 조교수 Xu Zhou가 이끄는 Penn State 연구진은 과학 논문의 표, 그림, 수식에서 식품 물성 실험 데이터를 추출하는 AI 에이전트 시스템 AgentXtract를 만들었다."
               },
               {
                 "t": "p",
-                "x": "시험 집합이 조금만 달라져도 절대 점수는 흔들리지만, 모델 사이의 순위는 데이터셋이 바뀌어도 꽤 안정적이라고 그는 말한다. 기계학습이 과학적 위기를 피한 가장 큰 이유다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
-                "cap": "Hardt는 AI 모델이 벤치마크에서 받는 점수는 큰 의미가 없다고 경고한다. 다만 모델 사이의 비교, 곧 순위는 의미가 있다. Jerrit Peinelt for Quanta Magazine"
+                "x": "인간 식품공학자들이 신뢰할 만한 출처를 고르고 데이터 품질을 확인했다. 에이전트들은 30분 만에 4,000건이 넘는 실험 데이터 기록을 모았는데, Zhou는 예전에는 숙련된 연구자가 여섯 달 이상 걸리던 작업이라고 말했다. 연구는 OpenAI, Google, Anthropic의 대규모 언어 모델 10개를 평가했다."
               },
               {
                 "t": "p",
-                "x": "LLMs에서는 그 안정성이 깨진다. 모델이 무엇으로 학습했는지 알 수 없고, 만드는 쪽은 벤치마크 성적을 끌어올리는 데이터 조합을 짤 수 있다. “더 나은 모델이 반드시 이긴다는 말은 이제 사실이 아니다.”"
-              },
-              {
-                "t": "p",
-                "x": "그의 해법은 “고지대 훈련”이다. 학습 집합 없이 시험 집합과, 시험 전에 각 모델을 준비시키는 규약만 두어 순위의 타당성을 되살리자는 것이다."
+                "x": "데이터베이스를 분석한 결과, 100가지가 넘는 식품에서 두 유전 특성인 유전 상수와 손실 계수 사이에 그동안 보고되지 않은 수학적 관계가 드러났다. 질의응답 AI와 연결하자 이 데이터베이스는 근거가 더 탄탄한 답변도 내놓았다. 연구는 Journal of Food Engineering에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIベンチマークを\n黒魔術から科学へ",
-          "body": "Moritz HardtはAIベンチマークの生態系は壊れていると語る。",
-          "mini_headline": "科学としてのベンチマーク",
+          "headline": "AIエージェントが論文から\n新たな食品物理を発掘",
+          "body": "Penn StateのAgentXtractが論文から未報告の誘電関係を見いだした。",
+          "mini_headline": "AIが食品物理を発掘",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
-                "cap": "計算機科学者のMoritz Hardtは、ベンチマークを「機械学習をつくった誤り」と呼ぶ。Jerrit Peinelt for Quanta Magazine"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+                "cap": "研究室で食品素材の誘電特性を測定するXu Zhou。Credit: Penn State. Creative Commons"
               },
               {
                 "t": "p",
-                "x": "Max Planck Institute for Intelligent Systemsのディレクターを務めるMoritz Hardtも、ベンチマーキングが欠陥を抱えるようになったと認める。「議論の余地はない。ベンチマーキングの生態系は壊れている」。2026年の著書The Emerging Science of Machine Learning Benchmarksで彼は、それでもベンチマークが正当な進歩を生んだと論じる——「ほとんどは純粋な幸運によって」。Quantaは、短く整理し読みやすく編集したインタビューでHardtに話を聞いた。"
+                "x": "食品科学の助教Xu Zhouが率いるPenn Stateの研究チームは、科学論文の表や図、数式を含む部分から食品物性の実験データを抽出するAIエージェントのシステムAgentXtractを開発した。"
               },
               {
                 "t": "p",
-                "x": "テストセットが少し変わるだけで絶対的なスコアは動くが、モデル間の順位はデータセットをまたいでもきわめて安定していると彼は言う。機械学習が科学的な危機を免れた主な理由である。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
-                "cap": "AIモデルがベンチマークで得るスコアに大きな意味はない、とHardtは戒める。ただし、モデル同士の比較すなわち順位には意味がある。Jerrit Peinelt for Quanta Magazine"
+                "x": "人間の食品エンジニアが信頼できる情報源を特定し、データの品質を担保した。エージェントはわずか30分で4,000件を超える実験データを収集した。Zhouによれば、かつては熟練の研究者が六か月以上かけていた作業だという。研究ではOpenAI、Google、Anthropicの大規模言語モデル10種を評価した。"
               },
               {
                 "t": "p",
-                "x": "LLMsではその安定性が崩れる。モデルが何で学習したのか分からず、作り手はベンチマークの成績を押し上げるデータの配合を組めるからだ。「より良いモデルが必ず勝つ、とはもはや言えない」。"
-              },
-              {
-                "t": "p",
-                "x": "彼の処方箋は「高地トレーニング」である。訓練セットは置かず、テストセットと、テスト前に各モデルを整えるための手順だけを定め、順位の妥当性を取り戻す。"
+                "x": "データベースを分析すると、100種類を超える食品にわたり、二つの誘電特性である誘電率と損失係数の間に、これまで報告されていなかった数学的関係が見つかった。質問応答AIと連携させると、データベースはより根拠に基づいた回答も生み出した。成果はJournal of Food Engineeringに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "让AI基准测试\n成为科学而非黑魔法",
-          "body": "Moritz Hardt认为AI基准测试生态已经失灵，需要重建排名。",
-          "mini_headline": "作为科学的基准测试",
+          "headline": "AI智能体挖掘论文\n发现新的食品物理",
+          "body": "Penn State的AgentXtract从论文挖掘食品数据，揭示未报道的介电关联。",
+          "mini_headline": "AI挖掘食品物理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
-                "cap": "计算机科学家Moritz Hardt把基准测试称为“造就机器学习的那个错误”。Jerrit Peinelt for Quanta Magazine"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+                "cap": "Xu Zhou在实验室测量食品材料的介电特性。Credit: Penn State. Creative Commons"
               },
               {
                 "t": "p",
-                "x": "Max Planck Institute for Intelligent Systems的主任Moritz Hardt也认为基准测试已变得有缺陷。“这一点没有第二种说法。基准测试的生态已经坏了。”在2026年出版的The Emerging Science of Machine Learning Benchmarks一书中，他提出基准测试仍然推动了真实的进步——“多半是靠运气”。Quanta对Hardt的采访经过压缩与编辑以便阅读。"
+                "x": "由食品科学助理教授Xu Zhou领导的Penn State研究人员开发了AgentXtract，这是一套AI智能体系统，能从科学论文的表格、图和方程中提取食品特性实验数据。"
               },
               {
                 "t": "p",
-                "x": "他说，测试集稍有变化，绝对分数就会移动；但不同数据集之间，模型的排名往往非常稳定——这正是机器学习躲过一场科学危机的主要原因。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
-                "cap": "Hardt提醒，AI模型在基准测试上拿到的分数意义不大，但模型之间的比较，也就是排名，是有意义的。Jerrit Peinelt for Quanta Magazine"
+                "x": "人类食品工程师负责确定可靠来源并保证数据质量。智能体仅用30分钟就收集了4,000多条实验数据记录——Zhou说，这项工作过去需要经验丰富的研究人员花六个月甚至更久。研究评估了来自OpenAI、Google和Anthropic的10个大语言模型。"
               },
               {
                 "t": "p",
-                "x": "到了LLMs，这种稳定性被打破：我们不知道模型用什么训练，开发者也能配出有利于基准成绩的数据组合。“更好的模型必然胜出，这句话已经不再成立。”"
-              },
-              {
-                "t": "p",
-                "x": "他开出的方子是“高原训练”：不设训练集，只保留测试集，以及在测试前准备每个模型的统一流程，以恢复排名的有效性。"
+                "x": "分析该数据库后，研究人员在100多种食品中发现了两种介电特性——介电常数与损耗因子——之间此前未被报道的数学关系。与问答AI连接后，该数据库还给出了更有依据的回答。该研究发表于Journal of Food Engineering。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Convertir la evaluación de IA\nen ciencia, no en arte oscuro",
-          "body": "Moritz Hardt afirma a Quanta que el ecosistema de evaluación de la IA está roto.",
-          "mini_headline": "Los benchmarks como ciencia",
+          "headline": "Agentes de AI exploran artículos\npor nueva física alimentaria",
+          "body": "AgentXtract, de Penn State, extrae datos de alimentos que verifican expertos y revela un vínculo dieléctrico inédito.",
+          "mini_headline": "La AI explora la física de los alimentos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-Lede-scaled.webp",
-                "cap": "El informático Moritz Hardt llama a los benchmarks “el error que hizo el aprendizaje automático”. Jerrit Peinelt for Quanta Magazine"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+                "cap": "Xu Zhou mide las propiedades dieléctricas de materiales alimentarios en su laboratorio. Credit: Penn State. Creative Commons"
               },
               {
                 "t": "p",
-                "x": "Moritz Hardt, director en el Max Planck Institute for Intelligent Systems, coincide en que la evaluación con benchmarks se ha vuelto defectuosa. “No hay dos maneras de verlo. El ecosistema de benchmarks está roto.” En su libro de 2026 The Emerging Science of Machine Learning Benchmarks sostiene que, aun así, los benchmarks impulsaron un progreso legítimo: “sobre todo por pura suerte”. Quanta habló con Hardt en una entrevista condensada y editada para mayor claridad."
+                "x": "Investigadores de Penn State dirigidos por Xu Zhou, profesor adjunto de ciencia de los alimentos, crearon AgentXtract, un sistema de agentes de AI que extrae de artículos científicos datos experimentales sobre propiedades de los alimentos, incluidos tablas, figuras y ecuaciones."
               },
               {
                 "t": "p",
-                "x": "Las puntuaciones absolutas cambian cuando el conjunto de prueba se altera levemente, dice, pero las clasificaciones entre modelos suelen ser muy estables entre conjuntos de datos: la razón principal de que el aprendizaje automático escapara a una crisis científica."
+                "x": "Ingenieros de alimentos humanos identificaron fuentes fiables y garantizaron la calidad de los datos. Los agentes reunieron más de 4,000 registros de datos experimentales en solo 30 minutos, un trabajo que, según Zhou, antes le llevaba a un investigador experimentado seis meses o más. El estudio evaluó 10 modelos de lenguaje de gran tamaño de OpenAI, Google y Anthropic."
+              },
+              {
+                "t": "p",
+                "x": "El análisis de la base de datos reveló una relación matemática no descrita hasta ahora entre dos propiedades dieléctricas —la constante dieléctrica y el factor de pérdida— en más de 100 alimentos distintos. Conectada a una AI de preguntas y respuestas, la base de datos también produjo respuestas más basadas en evidencia. El trabajo se publica en el Journal of Food Engineering."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "science-studentsim-ai-tutoring",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "시뮬레이션 학생이\nAI 튜터를 시험하다",
+      "body": "Microsoft StudentSim은 가상 학생으로 AI 튜터를 사전 검증한다.",
+      "mini_headline": "StudentSim, AI 튜터를 시험하다",
+      "tool": "Science",
+      "source": "Microsoft Research",
+      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+            "cap": ""
+          },
+          {
+            "t": "p",
+            "x": "StudentSim은 AI 튜터를 실제 학습자 앞에 내놓기 전에 평가하고 다듬는 Microsoft Research 시스템이다. 제품도 아니고 교사를 대신하려는 것도 아니다. 사람 대상 연구로 피드백을 모으면 느리고 비용도 많이 든다. 그래서 StudentSim은 공개된 비식별 학습자 기록으로 개인 맞춤형 학생 시뮬레이터를 학습시킨다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+            "cap": ""
+          },
+          {
+            "t": "p",
+            "x": "시뮬레이터를 평가하는 기준은 Vygotsky의 근접발달영역에서 따온 두 가지다. 특정 학생처럼 반응하는지, 튜터의 안내를 받은 뒤 달라지는지다. 학습은 두 단계로, 여러 학생의 기록을 모아 먼저 익힌 뒤 한 학생 자신의 기록으로 특화한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+            "cap": ""
+          },
+          {
+            "t": "p",
+            "x": "체스, 외국어로서의 영어 쓰기, 수학 모두에서 StudentSim이 주요 기준 모델보다 나았다. 체스에서는 행동 충실도 0.5150, 안내 반응성 0.9067을 기록해 GPT-5.4의 0.2316, 0.7186을 넘었다. StudentSim을 보상원으로 학습한 체스 튜터의 정확도는 90.5%였다. RL을 쓰지 않으면 75.7%, GPT-5.4 보상을 쓰면 71.6%였다."
+          }
+        ]
+      },
+      "_lead_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-TWLIFB-1200x627-1.jpg",
+      "_video": "",
+      "text": {
+        "en": {
+          "headline": "Simulated students put\nAI tutors to the test",
+          "body": "Microsoft's StudentSim simulates learners to test and improve AI tutors before they reach real students.",
+          "mini_headline": "StudentSim tests AI tutors",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "StudentSim is a Microsoft Research system for evaluating and improving AI tutors before they are tested with real learners; it is not a product and is not intended to replace teachers. Collecting feedback through human studies is slow and costly, so StudentSim trains personalized student simulators from publicly available, de-identified learner records."
               },
               {
                 "t": "img",
-                "src": "https://www.quantamagazine.org/wp-content/uploads/2026/10/Moritz-Hardt-QA-cr.Jerrit-Peinelt-With-tree-scaled.webp",
-                "cap": "Hardt advierte que las puntuaciones que los modelos de IA obtienen en los benchmarks significan poco. Las comparaciones, o clasificaciones, entre modelos sí importan. Jerrit Peinelt for Quanta Magazine"
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Con los LLMs esa estabilidad se rompe: no sabemos con qué se entrenaron los modelos y quienes los construyen pueden componer mezclas de datos que favorecen el rendimiento en los benchmarks. “Ya no es cierto que el mejor modelo gane necesariamente.”"
+                "x": "Simulators are judged on two dimensions inspired by Vygotsky's zone of proximal development: whether they respond like a specific student, and whether they update after tutor guidance. A two-stage pipeline first trains on records pooled across many students, then specializes on one student's own records."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Su solución es el “entrenamiento en altura”: sin conjunto de entrenamiento, solo un conjunto de prueba y un protocolo para preparar cada modelo antes de la prueba, de modo que las clasificaciones recuperen su validez."
+                "x": "Across chess, second-language English writing and mathematics, StudentSim outperforms leading baselines. In chess it reaches behavioral fidelity of 0.5150 and guidance responsiveness of 0.9067, versus 0.2316 and 0.7186 for GPT-5.4. A chess tutor trained with StudentSim as the reward source reached 90.5% accuracy, compared with 75.7% without RL and 71.6% with a GPT-5.4 reward."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "시뮬레이션 학생이\nAI 튜터를 시험하다",
+          "body": "Microsoft StudentSim은 가상 학생으로 AI 튜터를 사전 검증한다.",
+          "mini_headline": "StudentSim, AI 튜터를 시험하다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "StudentSim은 AI 튜터를 실제 학습자 앞에 내놓기 전에 평가하고 다듬는 Microsoft Research 시스템이다. 제품도 아니고 교사를 대신하려는 것도 아니다. 사람 대상 연구로 피드백을 모으면 느리고 비용도 많이 든다. 그래서 StudentSim은 공개된 비식별 학습자 기록으로 개인 맞춤형 학생 시뮬레이터를 학습시킨다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "시뮬레이터를 평가하는 기준은 Vygotsky의 근접발달영역에서 따온 두 가지다. 특정 학생처럼 반응하는지, 튜터의 안내를 받은 뒤 달라지는지다. 학습은 두 단계로, 여러 학생의 기록을 모아 먼저 익힌 뒤 한 학생 자신의 기록으로 특화한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "체스, 외국어로서의 영어 쓰기, 수학 모두에서 StudentSim이 주요 기준 모델보다 나았다. 체스에서는 행동 충실도 0.5150, 안내 반응성 0.9067을 기록해 GPT-5.4의 0.2316, 0.7186을 넘었다. StudentSim을 보상원으로 학습한 체스 튜터의 정확도는 90.5%였다. RL을 쓰지 않으면 75.7%, GPT-5.4 보상을 쓰면 71.6%였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "模擬の生徒が\nAIチューターを試す",
+          "body": "MicrosoftのStudentSimは模擬学習者でAIチューターを事前に検証・改善する。",
+          "mini_headline": "StudentSimがAIチューターを検証",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "StudentSimは、AIチューターを実際の学習者で試す前に評価・改善するためのMicrosoft Researchのシステムであり、製品ではなく、教師に取って代わることも意図していない。人を対象とした研究でフィードバックを集めるのは時間も費用もかかるため、StudentSimは公開されている匿名化済みの学習者記録から、個別化された生徒シミュレーターを訓練する。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "シミュレーターは、Vygotskyの最近接発達領域に着想を得た二つの観点で評価される。特定の生徒のように反応するか、そしてチューターの指導を受けて変化するかだ。二段階のパイプラインは、まず多くの生徒から集めた記録で訓練し、その後ひとりの生徒自身の記録で特化させる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "チェス、外国語としての英語ライティング、数学のいずれでも、StudentSimは主要なベースラインを上回る。チェスでは行動忠実度0.5150、指導応答性0.9067を達成し、GPT-5.4の0.2316と0.7186を上回った。StudentSimを報酬源として訓練したチェスチューターは精度90.5%に達し、RLなしでは75.7%、GPT-5.4の報酬では71.6%だった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "模拟学生上阵\n测试AI导师",
+          "body": "Microsoft的StudentSim模拟学习者，在AI导师接触真实学生前加以测试和改进。",
+          "mini_headline": "StudentSim测试AI导师",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "StudentSim是Microsoft Research的一套系统，用于在AI导师接受真实学习者测试之前对其进行评估和改进；它不是产品，也无意取代教师。通过人类研究收集反馈既慢又昂贵，因此StudentSim利用公开的、已去标识化的学习者记录训练个性化的学生模拟器。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "模拟器从受Vygotsky最近发展区启发的两个维度接受评判：是否像某个特定学生那样作答，以及在获得导师指导后是否有所改变。一个两阶段流程先用汇集自众多学生的记录训练，再用单个学生自己的记录进行专门化。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "在国际象棋、非母语英语写作和数学领域，StudentSim均优于主要基线。在国际象棋中，它的行为保真度达0.5150，指导响应度达0.9067，而GPT-5.4分别为0.2316和0.7186。以StudentSim作为奖励来源训练的国际象棋导师准确率达到90.5%，不使用RL时为75.7%，使用GPT-5.4奖励时为71.6%。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Estudiantes simulados ponen\na prueba a los tutores de AI",
+          "body": "StudentSim, de Microsoft, simula estudiantes para probar y mejorar tutores de AI antes de que lleguen a alumnos reales.",
+          "mini_headline": "StudentSim pone a prueba tutores de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "StudentSim es un sistema de Microsoft Research para evaluar y mejorar tutores de AI antes de probarlos con estudiantes reales; no es un producto ni pretende sustituir a los docentes. Recoger retroalimentación mediante estudios con personas es lento y costoso, así que StudentSim entrena simuladores de estudiantes personalizados a partir de registros de aprendizaje públicos y anonimizados."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Los simuladores se evalúan en dos dimensiones inspiradas en la zona de desarrollo próximo de Vygotsky: si responden como un estudiante concreto y si cambian tras la guía del tutor. Un proceso en dos etapas primero entrena con registros agrupados de muchos estudiantes y luego se especializa con los registros de un solo estudiante."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "En ajedrez, escritura en inglés como segunda lengua y matemáticas, StudentSim supera a las principales referencias. En ajedrez alcanza una fidelidad conductual de 0.5150 y una capacidad de respuesta a la guía de 0.9067, frente a 0.2316 y 0.7186 de GPT-5.4. Un tutor de ajedrez entrenado con StudentSim como fuente de recompensa alcanzó un 90.5% de precisión, frente al 75.7% sin RL y el 71.6% con una recompensa de GPT-5.4."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "시뮬레이션 학생이\nAI 튜터를 시험하다",
+          "body": "Microsoft StudentSim은 가상 학생으로 AI 튜터를 미리 검증한다.",
+          "mini_headline": "StudentSim, AI 튜터를 시험하다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "StudentSim은 실제 학습자와 시험하기 전에 AI 튜터를 평가하고 개선하기 위한 Microsoft Research 시스템이다. 제품이 아니며 교사를 대체하려는 것도 아니다. 사람을 대상으로 한 연구로 피드백을 모으는 일은 느리고 비용이 많이 들기 때문에, StudentSim은 공개된 비식별 학습자 기록으로 개인 맞춤형 학생 시뮬레이터를 학습시킨다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "시뮬레이터는 Vygotsky의 근접발달영역에서 착안한 두 가지 기준으로 평가받는다. 특정 학생처럼 반응하는지, 그리고 튜터의 안내를 받은 뒤 달라지는지다. 두 단계 파이프라인은 먼저 여러 학생의 기록을 모아 학습한 뒤, 한 학생 자신의 기록으로 특화한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "체스, 외국어로서의 영어 쓰기, 수학 전반에서 StudentSim은 주요 기준 모델을 앞선다. 체스에서는 행동 충실도 0.5150, 안내 반응성 0.9067을 기록해 GPT-5.4의 0.2316, 0.7186을 넘었다. StudentSim을 보상원으로 학습한 체스 튜터는 정확도 90.5%에 이르렀고, RL을 쓰지 않았을 때는 75.7%, GPT-5.4 보상을 썼을 때는 71.6%였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "模擬の生徒が\nAIチューターを試す",
+          "body": "MicrosoftのStudentSimは模擬学習者でAIチューターを事前に検証・改善する。",
+          "mini_headline": "StudentSimがAIチューターを検証",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "StudentSimは、AIチューターを実際の学習者で試す前に評価・改善するためのMicrosoft Researchのシステムであり、製品ではなく、教師に取って代わることも意図していない。人を対象とした研究でフィードバックを集めるのは時間も費用もかかるため、StudentSimは公開されている匿名化済みの学習者記録から、個別化された生徒シミュレーターを訓練する。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "シミュレーターは、Vygotskyの最近接発達領域に着想を得た二つの観点で評価される。特定の生徒のように反応するか、そしてチューターの指導を受けて変化するかだ。二段階のパイプラインは、まず多くの生徒から集めた記録で訓練し、その後ひとりの生徒自身の記録で特化させる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "チェス、外国語としての英語ライティング、数学のいずれでも、StudentSimは主要なベースラインを上回る。チェスでは行動忠実度0.5150、指導応答性0.9067を達成し、GPT-5.4の0.2316と0.7186を上回った。StudentSimを報酬源として訓練したチェスチューターは精度90.5%に達し、RLなしでは75.7%、GPT-5.4の報酬では71.6%だった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "模拟学生上阵\n测试AI导师",
+          "body": "Microsoft的StudentSim模拟学习者，在AI导师接触真实学生前加以测试和改进。",
+          "mini_headline": "StudentSim测试AI导师",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "StudentSim是Microsoft Research的一套系统，用于在AI导师接受真实学习者测试之前对其进行评估和改进；它不是产品，也无意取代教师。通过人类研究收集反馈既慢又昂贵，因此StudentSim利用公开的、已去标识化的学习者记录训练个性化的学生模拟器。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "模拟器从受Vygotsky最近发展区启发的两个维度接受评判：是否像某个特定学生那样作答，以及在获得导师指导后是否有所改变。一个两阶段流程先用汇集自众多学生的记录训练，再用单个学生自己的记录进行专门化。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "在国际象棋、非母语英语写作和数学领域，StudentSim均优于主要基线。在国际象棋中，它的行为保真度达0.5150，指导响应度达0.9067，而GPT-5.4分别为0.2316和0.7186。以StudentSim作为奖励来源训练的国际象棋导师准确率达到90.5%，不使用RL时为75.7%，使用GPT-5.4奖励时为71.6%。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Estudiantes simulados ponen\na prueba a los tutores de AI",
+          "body": "StudentSim, de Microsoft, simula estudiantes para probar y mejorar tutores de AI antes de que lleguen a alumnos reales.",
+          "mini_headline": "StudentSim pone a prueba tutores de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "StudentSim es un sistema de Microsoft Research para evaluar y mejorar tutores de AI antes de probarlos con estudiantes reales; no es un producto ni pretende sustituir a los docentes. Recoger retroalimentación mediante estudios con personas es lento y costoso, así que StudentSim entrena simuladores de estudiantes personalizados a partir de registros de aprendizaje públicos y anonimizados."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Los simuladores se evalúan en dos dimensiones inspiradas en la zona de desarrollo próximo de Vygotsky: si responden como un estudiante concreto y si cambian tras la guía del tutor. Un proceso en dos etapas primero entrena con registros agrupados de muchos estudiantes y luego se especializa con los registros de un solo estudiante."
+              },
+              {
+                "t": "img",
+                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "En ajedrez, escritura en inglés como segunda lengua y matemáticas, StudentSim supera a las principales referencias. En ajedrez alcanza una fidelidad conductual de 0.5150 y una capacidad de respuesta a la guía de 0.9067, frente a 0.2316 y 0.7186 de GPT-5.4. Un tutor de ajedrez entrenado con StudentSim como fuente de recompensa alcanzó un 90.5% de precisión, frente al 75.7% sin RL y el 71.6% con una recompensa de GPT-5.4."
               }
             ]
           }

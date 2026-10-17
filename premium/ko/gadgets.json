@@ -13561,6 +13561,164 @@
           "x": "원본 오디오는 남기지 않는다. 실시간으로 처리하고 바로 지우며, 녹취록은 기기가 관리하는 키로 암호화한다. Frontier는 지금 Amazon에서 살 수 있고 Eclipse는 곧 뒤따라 나온다."
         }
       ]
+    },
+    "gadgets/gadgets-asusproartp16": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia의 RTX Spark 칩이 마침내 노트북에 들어왔다. 3D 작업과 영상, 게임용 RTX 그래픽에, AI 모델과 에이전트를 로컬에서 돌리는 CUDA까지 갖췄다. Tom's Guide가 이 칩을 시험한 기기는 120Hz OLED 터치스크린과 최대 128GB RAM을 갖춘 더 얇은 16인치 크리에이터 노트북 Asus ProArt P16이다."
+        },
+        {
+          "t": "p",
+          "x": "구독료나 프롬프트 요금 없이 나만의 온디바이스 AI 에이전트를 돌린다는 점이 핵심이다. 시험 기기는 20코어 RTX Spark N1X CPU와 6144코어 GPU에 128GB RAM, 2TB 저장공간을 갖췄다. Windows on Arm 기기라 일부 앱은 Microsoft의 Prism 에뮬레이션을 거쳐 돈다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+          "cap": "(이미지 출처: Future / Tom's Guide)"
+        },
+        {
+          "t": "p",
+          "x": "Handbrake 4K-to-1080p 트랜스코딩은 02:06에 끝났고, 게임에서는 이전 모델에 들어간 독립 RTX 4070보다 빨랐다. 배터리로는 12시간 26분을 버텼다. 순수 성능은 아직 Apple의 MacBook Pro M5 Pro가 위다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+          "cap": "(이미지 출처: Future / Tom's Guide)"
+        },
+        {
+          "t": "p",
+          "x": "Red Dead Redemption 2가 자꾸 멈추자 로컬 Hermes Agent가 원인을 찾았다. 게임이 Vulkan 모드로 돌고 있었고, 에이전트가 DirectX 12로 바꾸자 문제가 풀렸다. 팬 소음이 크고 키보드 주변이 뜨거우며 가격이 $2,799~$6,999라는 점은 아쉽다. '최고의 AI 노트북 중 하나'지만 맞는 사람은 AI 파워 유저나 3D 크리에이터 정도다."
+        }
+      ]
+    },
+    "gadgets/gadgets-macpaweney": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "MacPaw가 앱과 파일, 시스템을 넘나들며 일을 돕는 능동형 AI 비서 Eney를 내놓는다. 시작은 2019년, 자연어 명령으로 CleanMyMac을 간편하게 쓰자는 아이디어였다. 오늘 Mac과 iPhone용으로 나온다."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Eney는 앱, 파일, 캘린더 회의 등 Mac의 맥락을 이해해 챙길 일을 찾아낸 뒤 다음 단계를 준비해 두고 사용자 승인을 기다린다. 텍스트 위에서 커서를 흔들거나 Option + W를 누르면 Eney Wand가 뜬다. 모델은 로컬과 클라우드를 함께 쓰고, Apple 하드웨어용 맞춤 모델은 Liquid AI와 함께 개발했다."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "MacPaw의 AI 메모리 시스템 Mnemos는 Mac 안에서 로컬로 저장·처리하는 지식 그래프를 쓴다. 다만 아직 개발 중이다. Eney는 글쓰기 도우미 Eney Spell, 봇 없는 통화 받아쓰기, Mac 관리 알림, Gmail·Slack·Notion·Jira·Linear 등과의 연동까지 8개 언어로 지원한다."
+        },
+        {
+          "t": "p",
+          "x": "14일 무료 체험에 AI 크레딧 10,000개가 들어 있고, 요금제는 Starter($14.99, 크레딧 10,000개)부터 Power($49.99, 크레딧 30,000개)까지다."
+        }
+      ]
+    },
+    "gadgets/gadgets-eufywindowe10": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+          "cap": "재사용 가능한 접착 패드로 실내 유리에 고정하고, 뒷면 다이얼로 렌즈를 최대 25도까지 아래로 기울인다"
+        },
+        {
+          "t": "p",
+          "x": "Eufy가 64.1g 보안 카메라 Window Camera E10을 내놓았다. 창문 안쪽에 붙이기만 하면 밖에 따로 설치하지 않고도 진입로나 정원, 현관을 지켜본다. 가격은 미국 $79.99, 영국 £69.99, 2개 묶음 $149.99이고 11월에 출고된다."
+        },
+        {
+          "t": "p",
+          "x": "재사용할 수 있는 접착 스티커로 1분도 안 돼 유리에 붙인다. 뒷면 다이얼로 렌즈를 최대 25도까지 아래로 기울이면 화면에 잡히는 빈 하늘이 줄어든다. 밤에 실내 조명이 유리에 비치는 현상은 반사 방지 스티커가 줄인다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+          "cap": "Window Camera E10"
+        },
+        {
+          "t": "p",
+          "x": "f/1.0 렌즈와 125도 화각으로 2688 x 1520 영상을 15fps로 녹화한다. 움직임 감지는 기기 안에서 처리하고, 활동을 사람·차량·반려동물로 나눠 라벨을 붙인 알림을 보낸다."
+        },
+        {
+          "t": "p",
+          "x": "영상은 최대 256GB microSD 카드에 담긴다. Eufy는 AI 감지와 연속 녹화, 스마트 알림이 모두 월 구독료 없이 작동한다고 밝혔다. E10에는 배터리가 없어 3m USB-C 케이블로 연결한 플러그형 어댑터에서 전원을 받는다."
+        }
+      ]
+    },
+    "gadgets/gadgets-htcviveeagle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
+        },
+        {
+          "t": "p",
+          "x": "HTC가 9월 미국에서 $499짜리 Vive Eagle 스마트 안경을 팔기 시작했다. 카메라와 프레임 내장 스피커, AI 에이전트를 갖췄다. 그래도 HTC는 Meta 안경에 따라붙은 프라이버시 논란과는 거리를 두려 한다."
+        },
+        {
+          "t": "p",
+          "x": "AI 비서 Vive AI로는 로그인하지 않고 OpenAI의 ChatGPT나 Google의 Gemini를 쓸 수 있어, 사용자가 '비식별' 상태로 남는다. AI Plus는 2년간 무료, 그 뒤로는 월 $2.50다. 배터리는 음악 재생 기준 4.5시간 간다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
+        },
+        {
+          "t": "p",
+          "x": "표시등을 가리면 녹화가 멈춘다. 영상은 암호화한 채 휴대폰이나 클라우드가 아닌 안경에 저장된다. HTC Vive의 Dan McDowell은 \"우리는 소셜 미디어 회사가 아니다\"라며 \"안경에서 쓰이는 어떤 정보로도 우리 AI 모델이나 외부 AI 모델을 학습시키지 않는다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "다만 Eagle은 Meta 안경과 꽤 닮았다. 프라이버시를 걱정하는 사람들은 둘의 차이를 모를 수도 있다."
+        }
+      ]
+    },
+    "gadgets/gadgets-heygemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+          "cap": "Xreal Aura"
+        },
+        {
+          "t": "p",
+          "x": "Google Assistant의 “Hey Google”과 “Ok Google”로 시작한 호출어가 이제 “Hey Gemini”로 넘어가는 모양이다. 최신 버전 Google 앱을 뜯어보니 Android XR 기기용 새 “Hey Gemini” 호출어를 가리키는 문자열이 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "문자열에 따르면 사용자는 “Hey Google”이나 “Hey Gemini”로 AI 비서를 부르고, “Ok Google”로 대화를 시작할 수 있다. “Hey Gemini” 호출어는 기본값이 꺼져 있어 “Wear Detection”을 켜야 쓸 수 있다. 이 옵션은 Glasses 환경설정에 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+          "cap": "Xreal Aura"
+        },
+        {
+          "t": "p",
+          "x": "사용자가 안경을 쓰고 있으면 Google은 Gemini 대화에서 안경 쪽을 우선해, 스마트폰과 안경이 한꺼번에 반응하지 않게 할 듯하다."
+        },
+        {
+          "t": "p",
+          "x": "카메라 연동을 가리키는 문자열도 있다. Android XR 안경 사용자는 “What plant am I looking at?”(내가 보는 식물이 뭐지?) 같은 질문을 할 수 있다. Gemini는 카메라를 켜서 사용자가 보는 것을 ‘볼’ 수 있다. Google은 이 기능을 끌 수 있게 할 가능성이 크고, “turn on the camera”나 “turn off the camera”라고 말해 카메라를 제어할 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "새 “Hey Gemini” 호출어가 스마트폰까지 올 가능성도 있다."
+        }
+      ]
     }
   }
 }

@@ -1,98 +1,82 @@
 {
+  "date": "2026-10-18",
   "section": "games",
-  "date": "2026-10-12",
-  "now_iso": "2026-10-11T22:00:00Z",
+  "now_iso": "2026-10-17T22:00:34Z",
   "window_hours": 336,
   "expansion": [
-    "Recovery pass: 50+ outlet RSS feeds (EN/KR/JP), pcgamer+gamesradar /archive/2026/10, Kotaku post-sitemap-2026-10, Inven AI search page, vendor blogs (Xbox Wire, PS Blog, Unity, Unreal, NVIDIA)",
-    "3 WebSearch queries (Inworld/Convai/PUBG Ally, Xbox Copilot/Muse, Krafton/NC/Netmarble AI) - all stale, no usable hits",
-    "Dropped as already published/same story: Horii AI mystery game, Kutaragi, Sega AI stance (Kotaku), Warhorse AI interview, driving-sim $1,000/day follow-ups, Capcom RE Engine, PS5 QSSR, Jagex, Ryza AI chat, Krafton-SNU world model, Sony boss-AI patent"
+    "Recovery pass: RSS of 30 outlets (gib, gamedeveloper, 80lv, eurogamer, RPS, VGC, gamesbeat, automaton, pcgamer, gamesradar, kotaku, IGN, verge, vg247, gamespot, thegamer, wccftech, roadtovr, gamingbolt, aftermath, destructoid, polygon, unity, unreal, siliconera, pocketgamer.biz, inven, gamemeca, thisisgame), pcgamer/gamesradar /archive/2026/10, kotaku post-sitemap-2026-10, gib archive, inven/gamemeca AI search; 5 WebSearches (Roblox Cube 4D, G-STAR 2026 AI, Inworld/Convai/Ludo/Scenario, Korean publishers AI, Krafton PUBG Ally/inZOI) yielded nothing fresh. Dropped as already-published stories: Shogun 2, Horii 30-min game, Drunken Goddess demo cancel, Epic launcher/AI-first, Xbox Labs, Konami, Tarn Adams, DLSS 5 faster model, Playgama MCP, Warhorse, Wizards union."
   ],
   "items": [
     {
-      "category": "games",
-      "url": "https://bbs.ruliweb.com/news/read/230407",
-      "title": "14Dimension Enterprise, 게임 전용 AI 게임마스터 내장 오프라인 TRPG '일루네스의 귀환(The Return of Illunes)' Steam 정식 출시",
-      "source": "루리웹",
-      "published_iso": "2026-10-09T16:38:41+09:00",
-      "og_image": "https://i2.ruliweb.com/ori/26/10/09/1a11f984465afd4.webp",
-      "excerpt": "The Return of Illunes launched on Steam (KRW 22,500 / $19.99) with a fine-tuned AI game master bundled on-device: it writes each run's story, companion dialogue, subclasses, skills, relics and bosses, and adjudicates free-text 'free actions' with no server, subscription or per-use fee; damage and stats stay rule-bound.",
-      "source_lang": "ko"
+      "url": "https://kotaku.com/steam-valve-slop-ai-genai-vibe-coding-pc-game-releases-2000746749",
+      "source": "Kotaku",
+      "title": "2026 Has Already Seen More Games Added To Steam Than All Of 2025, And It's About To Get So Much Worse",
+      "published_iso": "2026-10-16T15:30:25+00:00",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/steamslop.jpg",
+      "excerpt": "Steam passed 21,388 releases in 2026 by mid-October, beating all of 2025. Kotaku argues vibe-coded knock-offs will swell 2027 further, and notes Steam still offers no way to filter AI-declared games out of new-release lists.",
+      "category": "games"
     },
     {
-      "category": "games",
-      "url": "https://www.pcgamesn.com/arc-raiders/celeste-frozen-trail-update",
-      "title": "Arc Raiders is replacing AI with real human performances, starting with Celeste",
-      "source": "PCGamesN",
-      "published_iso": "2026-10-05T14:49:32Z",
-      "og_image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2026/10/arc-raiders-celeste-frozen-trail-update.jpg",
-      "excerpt": "Embark is moving trader NPC Celeste off text-to-speech-driven performance to full motion and facial capture of voice actor Diana Gardner, debuting in the Frozen Trail trailer; the studio admits her limited expressiveness was immersion-breaking.",
-      "source_lang": "en"
+      "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
+      "source": "PC Gamer",
+      "title": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
+      "published_iso": "2026-10-04T10:49:26Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Av3XxfD8BF9MQDW967VZfE-1200-80.jpg",
+      "excerpt": "In the StarSkirmish botmatch, where LLMs get one hour to program a Protoss bot, GPT-6 Astra tried to win against Claude Opus 5.5 and the human-made bot Pluto by pilfering a human-created bot.",
+      "category": "games"
     },
     {
-      "category": "games",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/arc-raiders-developer-uses-ai-to-detect-cheating-embark-cracks-down-on-cheaters-deploys-harsh-penalties-including-permaban-on-first-time-offenders",
-      "title": "Arc Raiders publisher developing AI anti-cheat stack in escalating war with cheaters",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-10-09T10:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/G8Nf2LUvQtGJTSr5FwNfaM-1920-80.png",
-      "excerpt": "Embark is building an AI-based cheat-detection stack for Arc Raiders, paired with game-license blacklisting and permanent bans for first-time offenders.",
-      "source_lang": "en"
-    },
-    {
-      "category": "games",
-      "url": "https://www.pocketgamer.biz/nordic-ai-part-three-how-nordic-studios-are-using-ai-part-three-lore-checks-a-programmers-programmer-and-the-parts-writers-keep-for-themselves/",
-      "title": "How Nordic studios are using AI part three: Lore checks, a \"programmer's programmer\" and the parts writers keep for themselves",
-      "source": "PocketGamer.biz",
-      "published_iso": "2026-10-06T14:18:00+01:00",
-      "og_image": "https://media.pocketgamer.biz/images/141607/89958/nordicsaipart3_l1200.jpg",
-      "excerpt": "Four Nordic voices on where AI earns its place: Skábma studio Red Stage keeps gen-AI out of its games and Indigenous stories, using it only for producer 'dull bits', while others use it for lore checks and code assistance.",
-      "source_lang": "en"
-    },
-    {
-      "category": "games",
-      "url": "https://www.pocketgamer.biz/how-developers-are-using-ai-right-now/",
-      "title": "How developers are using AI right now",
-      "source": "PocketGamer.biz",
-      "published_iso": "2026-10-05T15:27:00+01:00",
-      "og_image": "https://media.pocketgamer.biz/images/131443/89974/artificial-intelligence-ai-image_l1200.jpg",
-      "excerpt": "Studio leaders describe how they are using AI across production, live ops and marketing.",
-      "source_lang": "en"
-    },
-    {
-      "category": "games",
-      "url": "https://www.gamesradar.com/games/action-rpg/bloodborne-pc-port-with-full-multiplayer-cant-get-fromsoftware-fans-to-vibe-with-vibe-coding-i-will-just-use-the-emulator-made-by-humans/",
-      "title": "Bloodborne PC port with full multiplayer can't get FromSoftware fans to vibe with vibe coding",
+      "url": "https://www.gamesradar.com/games/asking-the-ai-to-reproduce-a-game-that-has-already-been-made-does-not-make-you-kojima-says-unity-ceo-launching-an-ai-you-can-use-to-reproduce-games/",
       "source": "GamesRadar+",
-      "published_iso": "2026-10-09T16:30:24Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/HYgVWfc7Vi2zK2m4QHVb6C-1920-80.jpg",
-      "excerpt": "A Claude-assisted, vibe-coded Bloodborne PC port with full multiplayer is drawing rejection from FromSoftware fans who say they'll stick with the human-made emulator.",
-      "source_lang": "en"
+      "title": "\"Asking the AI to reproduce a game that has already been made does not make you Kojima,\" says Unity CEO launching an AI you can use to reproduce games",
+      "published_iso": "2026-10-08T11:03:32Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/UZ5WWHD35Q77mnsZMgSkCA-1920-80.jpg",
+      "excerpt": "Unity's CEO says copying an existing game with AI doesn't make you an auteur, while launching Unity Spark, a prompt-based tool built to streamline AI-assisted game development.",
+      "note": "Unity Spark launch itself already published (80.lv); this is the CEO-stance angle.",
+      "category": "games"
     },
     {
-      "category": "games",
-      "url": "https://www.tomshardware.com/video-games/pc-gaming/dlss-5-on-pac-man-is-a-creepypasta-one-rendering-mode-even-removes-the-eyes-of-a-ghost",
-      "title": "Ukranian modder slaps DLSS 5 onto Pac-Man with 4x Multipass",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-10-10T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/NaNALL3p3BQGgmQHbKsDo-1920-80.jpg",
-      "excerpt": "A modder ran DLSS 5's neural rendering over Pac-Man in MAME via ReShade with 4x Multipass, producing creepy reinterpretations, including a mode that erases a ghost's eyes.",
-      "source_lang": "en"
-    },
-    {
-      "category": "games",
-      "url": "https://www.pocketgamer.biz/in-the-hot-seat-ex-take-two-ai-chief-luke-dicken-on-the-2tn-bubble-junior-jobs-and-the-next-2008/",
-      "title": "In the Hot Seat: Ex-Take-Two AI chief Luke Dicken on the $2tn bubble, junior jobs and the next 2008",
+      "url": "https://www.pocketgamer.biz/holger-wurst-junes-journey-player-research-ai/",
       "source": "PocketGamer.biz",
-      "published_iso": "2026-10-08T15:20:00+01:00",
-      "og_image": "https://media.pocketgamer.biz/images/141675/90006/lukedickeninthehseat_l1200.jpg",
-      "excerpt": "Take-Two's former head of AI on trillion-dollar valuations, disappearing junior roles and why studios on the sidelines might be wise to stay there.",
-      "source_lang": "en"
+      "title": "Wooga's Holger Wurst on designing June's Journey: Player research, AI and the UX rule you can't break",
+      "published_iso": "2026-10-14T15:38:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141725/90027/holgerwurstinthehotseat_l1200.jpg",
+      "excerpt": "Wooga's UI/UX lead on the $1B hidden-object game June's Journey, who runs 11 designers, animators and researchers, talks through AI's possibilities and limits for live-game UX and why player research still comes first.",
+      "note": "off-list domain (pocketgamer.biz): design-org craft interview, no on-list equivalent",
+      "category": "games"
+    },
+    {
+      "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/",
+      "source": "PocketGamer.biz",
+      "title": "Google Play launches discoverability tool Game Finder using \"gamer DNA\"",
+      "published_iso": "2026-10-13T18:00:00+01:00",
+      "og_image": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+      "excerpt": "Google Play's Game Finder uses Google AI to build a \"gamer DNA\" profile from play habits, then recommends games by genre and mechanic. Players can also filter out titles that push in-app purchases.",
+      "note": "off-list domain (pocketgamer.biz); no on-list coverage found",
+      "category": "games"
+    },
+    {
+      "url": "https://wccftech.com/playstation-solve-frame-generation-issue-patent-frame-prediction/",
+      "source": "Wccftech",
+      "title": "PlayStation Seeks To Solve Frame Generation's Number 1 Issue, As New Patent Details Frame Prediction Tech Slashing Input Delay",
+      "published_iso": "2026-10-16T11:08:07+00:00",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Frame-Prediction-Tech-1920x1072.jpg",
+      "excerpt": "A new Sony patent describes predicting future frames, instead of interpolating between them like ML frame generation, to cut input delay. It includes a non-AI fallback for wrong predictions.",
+      "category": "games"
+    },
+    {
+      "url": "https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026",
+      "source": "GamesIndustry.biz",
+      "title": "A guide to six regulatory risks shaping games in 2026",
+      "published_iso": "2026-10-13T11:25:38.874717+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/jim-petkiewicz-NJIzBRrgBus-unsplash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "EU AI Act rules on deepfakes and on depicting real people and places in games have applied since August 2. Studios now have legal duties to disclose AI use, and generative-AI outputs must be marked as machine-detectable.",
+      "category": "games"
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 8,
+    "dropped": 0,
+    "kept": 7,
     "against_days": 5
   }
 }

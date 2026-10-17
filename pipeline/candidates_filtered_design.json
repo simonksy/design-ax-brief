@@ -1,125 +1,108 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "section": "design",
   "window_hours": 72,
-  "now_iso": "2026-10-16T22:00:37Z",
+  "now_iso": "2026-10-17T22:00:34Z",
   "items": [
     {
-      "title": "Introducing Krea 3",
-      "url": "https://www.krea.ai/blog/introducing-krea-3",
-      "source": "Krea",
+      "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+      "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+      "source": "NVIDIA Newsroom",
       "category": "render",
-      "published_iso": "2026-10-15T15:00:00Z",
-      "excerpt": "Krea released Krea 3, a new image editing model. Most edits finish in under 8 seconds at native 2K for $0.06 an image, take up to 6 reference images, and keep products and characters consistent from one image to the next. It is live for Krea's 30M users and through fal, Replicate and OpenRouter.",
-      "og_image": "https://s.krea.ai/press/krea-3/krea-3-launch-film-poster.webp",
+      "published_iso": "2026-10-15T17:00:00Z",
+      "excerpt": "Adobe is optimizing its agentic creative apps Photoshop, Premiere and Substance 3D for NVIDIA's RTX Spark superchip, claiming up to 2x faster AI processing, editing, color and effects, and accelerating Frame.io and Brand Concierge in the cloud.",
+      "og_image": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
       "history_match": {
-        "score": 0.173,
-        "date": "2026-09-23",
-        "url": "https://dev.to/aloow/two-images-two-jobs-designing-inputs-for-ai-product-photos-768",
-        "title": "Two Images, Two Jobs: Designing Inputs for AI Product Photos",
+        "score": 0.231,
+        "date": "2026-10-14",
+        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+        "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
         "band": "related"
       }
     },
     {
-      "title": "Design together with code layers on the canvas",
-      "url": "https://www.figma.com/blog/design-together-with-code-layers/",
-      "source": "Figma Blog",
-      "category": "figma",
-      "published_iso": "2026-10-15T04:52:00Z",
-      "excerpt": "Code layers is now in open beta. Teams can build code-backed prototypes on the Figma canvas, starting from GitHub, a local folder, a prototype brought in through the Figma MCP server, or a live site captured with the Chrome extension, and then compare variations side by side.",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/fd9f6ce97dbb2f1dadaf0baf1542447e73bcf51d-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-      "history_match": {
-        "score": 0.165,
-        "date": "2026-10-07",
-        "url": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
-        "title": "I Tested Claude Code to Figma (Here's What Actually Works)",
-        "band": "related"
-      },
-      "cluster": "c1"
-    },
-    {
-      "title": "Build by design: New workflows for new ways of building",
-      "url": "https://www.figma.com/blog/build-by-design/",
-      "source": "Figma Blog",
-      "category": "figma",
-      "published_iso": "2026-10-15T04:53:00Z",
-      "excerpt": "Dylan Field's Config India recap sets out Figma's 'building to think vs building to ship' framing and covers code layers, design systems for agents, Specs and Payload, all aimed at bringing teams, agents, design, code and context onto one full-stack canvas.",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/6fb8bfd609660ecc0fc8729137a58c451db49fe1-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-      "history_match": {
-        "score": 0.161,
-        "date": "2026-10-16",
-        "url": "https://www.figma.com/blog/introducing-figma-specs/",
-        "title": "Introducing Specs: Markdown as a medium",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Cloud Agent Canvases and Environment Improvements",
-      "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
-      "source": "Cursor",
-      "category": "figma",
-      "published_iso": "2026-10-16T00:00:00Z",
-      "excerpt": "Cursor's cloud agents can now build interactive canvases as part of their work and share them with a team by link. An Environments API also entered beta, with support for up to 300 repos per environment.",
-      "og_image": "https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/og/opengraph-default.png",
-      "history_match": {
-        "score": 0.159,
-        "date": "2026-09-18",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-        "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Vercel Ship 2026 recap",
-      "url": "https://vercel.com/blog/vercel-ship-2026-recap",
-      "source": "Vercel",
-      "category": "tokens",
-      "published_iso": "2026-10-15T16:00:00Z",
-      "excerpt": "Vercel's Ship recap includes SAP rebuilding its design system to be composable so that people and agents assemble interfaces from the same parts with v0 and json-render, ZoomInfo embedding v0 for 40,000+ customers, and Notion's Ivan Zhao telling designers to 'design the API first and the UI last'.",
-      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/1QYTAAT1hR7NJAVlhZa4Ka/b14334abbd76f130064ec6ec70827fae/og_02_26.png"
-    },
-    {
-      "title": "I used Nvidia RTX Spark's AI agent to run Blender – here's what happened",
+      "title": "I ran Blender via Nvidia's new RTX Spark AI agent - here's what happened",
       "url": "https://www.creativebloq.com/features/i-asked-nvidia-sparks-ai-agent-to-run-blender-for-me-heres-what-happened",
       "source": "Creative Bloq",
       "category": "render",
       "published_iso": "2026-10-15T12:36:17Z",
-      "excerpt": "A hands-on test of the on-device AI agent on Nvidia's RTX Spark laptops, asking it to drive Blender tasks. It reports where agentic control of a 3D app works and where it still falls short for a working artist.",
+      "excerpt": "A beginner tests RTX Spark's built-in local agents (Hermes, Perplexity, OpenClaw), which can operate creative apps directly, by asking one to run Blender, and weighs whether agents as 'teammates' really free creatives for more making.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/RMydSd9JF8efBK722qUKkG-1920-80.jpg",
       "history_match": {
-        "score": 0.323,
+        "score": 0.264,
         "date": "2026-10-14",
         "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
         "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
         "band": "related"
-      },
-      "cluster": "c5"
+      }
     },
     {
-      "title": "No amount of renaming can fix AI's growing reputation problem",
-      "url": "https://www.creativebloq.com/news/elon-musks-attempts-to-rebrand-ai-slop-are-hilarious-but-they-betray-a-deeper-truth",
+      "title": "Olivia Rodrigo accused of using AI in expectations music video",
+      "url": "https://www.creativebloq.com/news/olivia-rodrigos-expectations-music-video-hit-with-ai-allegations",
       "source": "Creative Bloq",
       "category": "workflow",
-      "published_iso": "2026-10-15T08:29:03Z",
-      "excerpt": "Creative Bloq argues that Elon Musk's attempts to rebrand 'AI slop' point to a deeper reputation problem for generative imagery among creatives and audiences.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/euaMdgeFpst5UrvwfDjssc-2560-80.jpg"
+      "published_iso": "2026-10-17T08:00:00Z",
+      "excerpt": "Viewers spotted glitches, including a cameo missing an arm, in Olivia Rodrigo's new music video and accused the production of using generative AI, the latest flashpoint over undisclosed AI in commercial creative work.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/JBNodSdzrJq6SmUC8ahYmG-1920-80.jpg"
     },
     {
-      "title": "A week with RTX Spark: everything we've learned using Nvidia's new laptops",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "source": "The Verge",
-      "category": "render",
-      "published_iso": "2026-10-16T15:00:00Z",
-      "excerpt": "The Verge spent a week with Nvidia's RTX Spark Windows-on-Arm laptops from Asus, HP and Lenovo, testing the 'superchip' pitched for local AI and creative workloads.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_laptops_Asus_HP_Lenovo_ADiBenedetto_0001.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Build by Design: New workflows for new ways of building",
+      "url": "https://www.figma.com/blog/build-by-design/",
+      "source": "Figma",
+      "category": "figma",
+      "published_iso": "2026-10-15T04:53:00Z",
+      "excerpt": "Figma's Config India recap: beyond code layers and Specs, design systems can now carry guidelines and import code sources from a GitHub repo or npm package so agents build and edit components that follow the team's patterns, plus a preview of a single home for all system libraries.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/6fb8bfd609660ecc0fc8729137a58c451db49fe1-3840x2160.png?w=1200&q=70&fit=max&auto=format",
       "history_match": {
-        "score": 0.273,
-        "date": "2026-10-14",
-        "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-        "title": "All Systems Go: Global PC App Ecosystem Ready for NVIDIA RTX Spark",
+        "score": 0.191,
+        "date": "2026-10-17",
+        "url": "https://www.figma.com/blog/design-together-with-code-layers/",
+        "title": "Design together with code layers on the canvas",
         "band": "related"
       },
-      "cluster": "c5"
+      "cluster": "c3"
+    },
+    {
+      "title": "Create, ship, and manage data-backed websites with Payload in Figma",
+      "url": "https://www.figma.com/blog/websites-with-payload-in-figma/",
+      "source": "Figma",
+      "category": "figma",
+      "published_iso": "2026-10-15T04:50:00Z",
+      "excerpt": "Payload, the open-source headless CMS whose team joined Figma, is now built into Figma Make so teams can build and host sites and apps with a built-in backend and manage content and data from prototype to production.",
+      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+    },
+    {
+      "title": "More control over your design systems | Figma",
+      "url": "https://www.youtube.com/watch?v=ThXrNXxpS-o",
+      "source": "Figma (YouTube)",
+      "category": "social",
+      "published_iso": "2026-10-17T05:00:37-07:00",
+      "excerpt": "Figma demo: add guidelines to published libraries and import code sources from GitHub or npm so the Figma agent reflects your design system when it builds components and code layers.",
+      "og_image": "https://i.ytimg.com/vi/ThXrNXxpS-o/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.237,
+        "date": "2026-10-17",
+        "url": "https://www.figma.com/blog/design-together-with-code-layers/",
+        "title": "Design together with code layers on the canvas",
+        "band": "related"
+      },
+      "cluster": "c3"
+    },
+    {
+      "title": "AI News: 6 New Models & A Nano Banana Killer",
+      "url": "https://www.youtube.com/watch?v=KGcuuhqmPhI",
+      "source": "Matt Wolfe (YouTube)",
+      "category": "social",
+      "published_iso": "2026-10-16T09:20:28-07:00",
+      "excerpt": "Matt Wolfe's weekly roundup tests Krea 3 image editing, Google's Gemini 4 Argon and Meta's Muse Wonder, plus new open-weight models, OpenAI updates and Grok Voice 3.0.",
+      "og_image": "https://i.ytimg.com/vi/KGcuuhqmPhI/maxresdefault.jpg",
+      "history_match": {
+        "score": 0.304,
+        "date": "2026-09-29",
+        "url": "https://www.testingcatalog.com/new-google-flow-build-now-points-to-nano-banana-2-1/",
+        "title": "New Google Flow build now points to Nano Banana 2.1",
+        "band": "related"
+      }
     },
     {
       "title": "Is Your Organization Messing Up AI Adoption?",
@@ -127,10 +110,10 @@
       "source": "Smashing Magazine",
       "category": "tokens",
       "published_iso": "2026-10-16T10:00:00Z",
-      "excerpt": "Paul Boag goes back to his book Digital Adaptation to show how lessons from digital transformation apply to rolling out AI across organizations and design teams.",
+      "excerpt": "Paul Boag revisits his book Digital Adaptation to show how lessons from digital transformation apply to AI adoption in design and digital teams, and where organizations are repeating the same mistakes.",
       "og_image": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
       "history_match": {
-        "score": 0.154,
+        "score": 0.174,
         "date": "2026-10-11",
         "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
         "title": "4 team rituals that drive AI adoption",
@@ -138,30 +121,13 @@
       }
     },
     {
-      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
-      "url": "https://huggingface.co/blog/meta-muse-spark-open",
-      "source": "Hugging Face",
-      "category": "tokens",
-      "published_iso": "2026-10-15T00:00:00Z",
-      "excerpt": "Meta released Muse Spark Open, an open-weight multimodal mixture-of-experts model, on Hugging Face. It can be run and fine-tuned locally, including on Macs through MLX.",
-      "og_image": "https://huggingface.co/blog/assets/meta-muse-spark-open/thumbnail.png",
-      "cluster": "c9"
-    },
-    {
-      "title": "Human in the loop means making sure the human is not out of the loop",
-      "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e3882630",
+      "title": "I ran a 7-week AI workshop for designers (that wasn't really about AI)",
+      "url": "https://uxdesign.cc/i-ran-a-7-week-ai-workshop-for-designers-that-wasnt-really-about-ai-804035e7b328",
       "source": "UX Collective",
-      "category": "workflow",
-      "published_iso": "2026-10-15T22:09:29Z",
-      "excerpt": "Agents now act before we ask and reach past what we authorized. Patrick Neeman argues that a person in the loop is not enough if nobody owns the outcome, and lists what designers should consider when designing agent experiences.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*HzHXq_X2ih01vbqVZYkmfw.png",
-      "history_match": {
-        "score": 0.214,
-        "date": "2026-09-29",
-        "url": "https://dev.to/ifynx_studio/usertestings-mcp-servers-ai-product-teams-need-human-insight-inside-the-loop-1fmc",
-        "title": "UserTesting's MCP Servers: AI Product Teams Need Human Insight Inside the Loop",
-        "band": "related"
-      }
+      "category": "figma",
+      "published_iso": "2026-10-15T22:08:34Z",
+      "excerpt": "Lai-Jing Chu on running a 7-week vibe-coding workshop for designers: what designers really needed to know about shipping to production, and what they wanted from online learning.",
+      "og_image": "https://cdn-images-1.medium.com/max/1090/1*k8ZtBFSgpFpKPc4Mh1ZfNA.png"
     },
     {
       "title": "The AI experience doesn't care about your org chart",
@@ -169,7 +135,7 @@
       "source": "UX Collective",
       "category": "workflow",
       "published_iso": "2026-10-15T22:00:47Z",
-      "excerpt": "AI is pulling content design, enterprise content strategy, knowledge management and model behavior into a single user experience. Kate Agena argues that design teams' ways of working have not caught up.",
+      "excerpt": "Kate Agena argues AI is merging content design, enterprise content strategy, knowledge management and model behavior into one user experience, and DesignOps ways of working haven't caught up.",
       "og_image": "https://cdn-images-1.medium.com/max/1024/1*6NmwSGMnZgD1hsraDqel3g.png"
     },
     {
@@ -178,138 +144,85 @@
       "source": "UX Collective",
       "category": "workflow",
       "published_iso": "2026-10-14T22:09:56Z",
-      "excerpt": "Dan Maccarone argues that buyers want AI to disappear into the platforms they already use, not to arrive as yet another standalone app, and says this changes what product designers should build.",
+      "excerpt": "Dan Maccarone argues buyers want AI that disappears into existing platforms rather than standalone AI apps, and what that shift means for product designers.",
       "og_image": "https://cdn-images-1.medium.com/max/1024/1*_oMEmp-Z-xsaX5uRmZJI4Q.jpeg"
     },
     {
-      "title": "Meta, Milan's Pinacoteca di Brera, and EssilorLuxottica Expand Access to Art Through AI Glasses",
-      "url": "https://about.fb.com/news/2026/10/meta-milans-pinacoteca-di-brera-and-essilorluxottica-expand-access-to-art-through-ai-glasses/",
-      "source": "Meta Newsroom",
-      "category": "vr",
-      "published_iso": "2026-10-14T16:00:57Z",
-      "excerpt": "Meta, the Pinacoteca di Brera and EssilorLuxottica launched 'Sensing Art', a pilot that uses Meta AI glasses to describe and interpret masterpieces for visitors, an accessibility-first spatial experience built on AI glasses.",
-      "og_image": "https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?w=1200",
+      "title": "Figma MCP + Claude Code: Give It Your Real Layout, Variables, and Components",
+      "url": "https://dev.to/juholee/figma-mcp-claude-code-give-it-your-real-layout-variables-and-components-497m",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-10-17T21:14:42Z",
+      "excerpt": "A walkthrough of Figma's official hosted MCP server letting Claude Code read a linked frame's layout, variables and components instead of guessing from a screenshot.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fquickpromptco.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fqpc-featured-276.png",
       "history_match": {
-        "score": 0.157,
-        "date": "2026-09-30",
-        "url": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
-        "title": "Hands-on: Meta's Hologram avatars for VR and display glasses",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Astra Studios Launches AstraLabs, Teams with VerSe on AI Pipeline",
-      "url": "https://www.awn.com/news/astra-studios-launches-astralabs-teams-verse-ai-pipeline",
-      "source": "AWN",
-      "category": "workflow",
-      "published_iso": "2026-10-15T15:20:00Z",
-      "excerpt": "Astra Studios and VerSe will co-develop an AI-native production pipeline on SparkStation. It carries a production from script to distribution and keeps faces, wardrobe and locations consistent across shots.",
-      "og_image": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/attached/1081545-1000850912b.jpg?itok=TM6XK6lf"
-    },
-    {
-      "title": "AI News: 6 New Models & A Nano Banana Killer",
-      "url": "https://www.youtube.com/watch?v=KGcuuhqmPhI",
-      "source": "Matt Wolfe",
-      "category": "social",
-      "published_iso": "2026-10-16T16:20:28Z",
-      "excerpt": "Matt Wolfe's weekly roundup leads with Krea 3 making image editing 'seriously easy', then hands-on tests of Gemini 4 Argon and Meta's Muse Wonder, new open-weight models and the latest OpenAI updates.",
-      "og_image": "https://i.ytimg.com/vi/KGcuuhqmPhI/maxresdefault.jpg",
-      "history_match": {
-        "score": 0.249,
-        "date": "2026-09-29",
-        "url": "https://www.testingcatalog.com/new-google-flow-build-now-points-to-nano-banana-2-1/",
-        "title": "New Google Flow build now points to Nano Banana 2.1",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Getting started with Code Layers | Figma",
-      "url": "https://www.youtube.com/watch?v=ukY9Dvwm7Gc",
-      "source": "Figma",
-      "category": "social",
-      "published_iso": "2026-10-15T11:27:40Z",
-      "excerpt": "Figma designer advocate Anthony DiSpezio shows code layers in open beta: starting from a codebase, exploring variations with the agent, extracting designs into editable layers, and pushing changes to a GitHub branch for review.",
-      "og_image": "https://i.ytimg.com/vi/ukY9Dvwm7Gc/maxresdefault.jpg",
-      "history_match": {
-        "score": 0.202,
+        "score": 0.231,
         "date": "2026-10-07",
         "url": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
         "title": "I Tested Claude Code to Figma (Here's What Actually Works)",
         "band": "related"
-      },
-      "cluster": "c1"
+      }
     },
     {
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "source": "The Verge",
-      "category": "tokens",
-      "published_iso": "2026-10-15T18:15:36Z",
-      "excerpt": "Meta and Apple are working together to optimize Meta's open Muse Spark model for Apple silicon through MLX, so the multimodal model runs locally on Macs.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268742_Mac_Studio_AKrales_0025.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "title": "Comparing AI video models side by side: one prompt through Veo, Kling and Seedance",
+      "url": "https://dev.to/vidlarkai/comparing-ai-video-models-side-by-side-what-i-learned-planning-one-prompt-through-veo-kling-and-1jdm",
+      "source": "DEV Community",
+      "category": "render",
+      "published_iso": "2026-10-17T04:10:30Z",
+      "excerpt": "A side-by-side planning comparison of Veo, Kling and Seedance for one prompt, with prices and specs from public model pages (author works on Vidlark).",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5fwngbxo9jzl4hplgyu2.png"
+    },
+    {
+      "title": "I asked an AI app builder for a \"simple\" landing page. Here's what it actually built.",
+      "url": "https://dev.to/readmodelmag/i-asked-an-ai-app-builder-for-a-simple-landing-page-heres-what-it-actually-built-13d1",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-10-17T21:30:08Z",
+      "excerpt": "MODEL, a weekly magazine that tests AI tools, asks an AI app builder for a simple landing page and documents what it actually produced.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fdj6vi3ir6xglufpnh1zi.png",
       "history_match": {
-        "score": 0.174,
-        "date": "2026-09-27",
-        "url": "https://www.fastcompany.com/91612532/with-metas-muse-charm-ai-enters-its-kawaii-era",
-        "title": "With Meta's Muse Charm, AI enters its kawaii era",
+        "score": 0.206,
+        "date": "2026-10-07",
+        "url": "https://dev.to/dishant0406/i-tested-claude-code-to-figma-heres-what-actually-works-4p19",
+        "title": "I Tested Claude Code to Figma (Here's What Actually Works)",
         "band": "related"
-      },
-      "cluster": "c9"
+      }
+    },
+    {
+      "title": "MCP Events support in Vercel Connect is now in public beta",
+      "url": "https://vercel.com/changelog/mcp-events-support-in-vercel-connect-is-now-in-public-beta",
+      "source": "Vercel",
+      "category": "figma",
+      "published_iso": "2026-10-15T00:00:00Z",
+      "excerpt": "Vercel Connect now supports the MCP Events protocol extension, so agents can monitor updates from MCP servers and act when events arrive.",
+      "og_image": "https://assets.vercel.com/image/upload/contentful/image/e5382hct74si/5Gkwe5QduUSkyqvMo1c2oX/cc3f1754799d0f7f6e3f5e9b17b91b29/vercel-connect-now-supports-mcp-event-subscriptions.png",
+      "history_match": {
+        "score": 0.254,
+        "date": "2026-09-19",
+        "url": "https://vercel.com/changelog/webmcp-mcp-handler",
+        "title": "WebMCP support now available in mcp-handler",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 18,
+    "kept": 16,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 12,
+    "review": 9,
     "same_story_pairs": [
       [
-        "https://www.figma.com/blog/design-together-with-code-layers/",
-        "https://www.youtube.com/watch?v=ukY9Dvwm7Gc",
-        0.381
-      ],
-      [
-        "https://www.creativebloq.com/features/i-asked-nvidia-sparks-ai-agent-to-run-blender-for-me-heres-what-happened",
-        "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-        0.332
-      ],
-      [
-        "https://huggingface.co/blog/meta-muse-spark-open",
-        "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-        0.441
+        "https://www.figma.com/blog/build-by-design/",
+        "https://www.youtube.com/watch?v=ThXrNXxpS-o",
+        0.479
       ]
     ]
   },
   "history_digest": [
-    {
-      "date": "2026-09-17",
-      "title": "코워크를 접고, 클로드 안에서 문서와 슬라이드를 만든다 앤스로픽이 코워크를 클로드 본체로 합치고, 대화 안에서 함께 고쳐 쓰는 문서와 슬라이드를 베타로 열었다.",
-      "url": "https://venturebeat.com/technology/anthropic-is-killing-off-cowork-and-folding-it-into-claude-launching-claude-docs-and-claude-slides"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "무료가 된 어피니티, 3.3에서 스크립팅까지 얻었다 캔바가 어피니티 3.3을 내놓았다. 60가지가 넘는 기능이 붙었고, 스크립팅 스튜디오는 무료로, 새 AI 모델은 유료 구독자에게 열린다.",
-      "url": "https://www.cgchannel.com/2026/09/canva-releases-affinity-3-3/"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "온셰이프 안에서 말로 시키는 시뮬레이션 에이전트 심스케일 엔지니어링 AI 에이전트가 온셰이프 안으로 들어왔다. CAD 정리와 해석 설정, 결과 설명까지 자연어로 처리한다.",
-      "url": "https://www.engineering.com/simscale-launches-engineering-ai-agent-within-onshape/"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "피그마 위브, 남이 만든 도구를 그대로 가져다 쓴다 위브 도구의 커뮤니티 퍼블리싱이 열렸다. 무드보드를 방 렌더로 바꾸는 도구까지 피그마 캔버스에서 바로 돌아간다.",
-      "url": "https://www.figma.com/blog/try-these-5-weave-tools-and-share-your-own/"
-    },
-    {
-      "date": "2026-09-17",
-      "title": "149달러짜리 카메라가 스팀 프레임에 색을 입힌다 아크투루스 비전 카메라가 스팀 프레임에 눈당 6MP 컬러 패스스루와 3D HDR 촬영을 더한다.",
-      "url": "https://www.uploadvr.com/steam-frame-arcturus-vision-camera-color-passthrough/"
-    },
     {
       "date": "2026-09-18",
       "title": "Backflip now converts 2D engineering drawings directly into CAD",
@@ -984,6 +897,31 @@
       "date": "2026-10-16",
       "title": "Bluesky's AI tool now lets you make games and apps to share on social",
       "url": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Cloud Agent Canvases and Environment Improvements",
+      "url": "https://cursor.com/changelog/cloud-agent-canvases-and-environments"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Human in the loop means making sure the human is not out of the loop",
+      "url": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e3882630"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Vercel Ship 2026 recap",
+      "url": "https://vercel.com/blog/vercel-ship-2026-recap"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Design together with code layers on the canvas",
+      "url": "https://www.figma.com/blog/design-together-with-code-layers/"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Introducing Krea 3",
+      "url": "https://www.krea.ai/blog/introducing-krea-3"
     }
   ]
 }

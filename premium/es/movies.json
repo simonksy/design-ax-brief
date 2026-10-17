@@ -7257,6 +7257,135 @@
           "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
         }
       ]
+    },
+    "movies/movies-cottbus-woman-asleep": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
+          "cap": "A Woman Asleep"
+        },
+        {
+          "t": "p",
+          "x": "El largometraje AI-generated A Woman Asleep, de la artista y cineasta Vikki Bardot, ha sido seleccionado para la competición principal del FilmFestival Cottbus de Alemania, que se celebra del 3 al 8 de noviembre. Se cree que es el primer largometraje AI-generated seleccionado para la competición principal de un festival internacional consolidado."
+        },
+        {
+          "t": "p",
+          "x": "Basada en el guion semiautobiográfico de Bardot, la película es un montaje de 50.000 planos, todos generados con modelos de IA entrenados y personalizados por Bardot. La narra un clon de voz por IA de la directora, y toda su música está generada por IA."
+        },
+        {
+          "t": "p",
+          "x": "“Usé intencionadamente imágenes sintéticas y un clon de IA emocionalmente plano de mi propia voz para reflejar una sociedad cada vez más desconectada y más parecida a una máquina”, dijo Bardot."
+        },
+        {
+          "t": "p",
+          "x": "La produce Spongeworthy Studio, con sede en Turquía, y está coescrita con Alkan Avcıoğlu. Se estrena en el Antalya Golden Orange a finales de este mes y se ha vendido a la distribuidora turca Başka Sinema. El director del festival, Bernd Buder, elogió su “agudeza analítica, toque personal y serenidad narrativa”."
+        }
+      ]
+    },
+    "movies/movies-claude-blender-blocking": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BExtQ740QgM"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge se une a Albert Bozesan en un flujo de trabajo de control de cámara con IA: primero se planifican las tomas en 3D y luego esa animación guía la generación de video con IA, en lugar de depender solo de prompts de texto."
+        },
+        {
+          "t": "p",
+          "x": "Claude se conecta a Blender mediante el complemento oficial Blender MCP, de modo que puede construir entornos, posar personajes, colocar cámaras y crear animaciones a partir de instrucciones."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
+          "cap": "El complemento Blender MCP activado"
+        },
+        {
+          "t": "p",
+          "x": "El kit de inicio de Albert incluye una plantilla de prompt, pautas de cámara, un personaje con rig que Claude puede duplicar y posar, generadores de entornos y una configuración de render de referencia a 720p."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
+          "cap": "Referencia de entorno generada en Magnific"
+        },
+        {
+          "t": "p",
+          "x": "Las imágenes de referencia salen de Magnific; después, la animática renderizada se sube junto con ellas a Seedance 2.5 para producir la toma cinematográfica final."
+        }
+      ]
+    },
+    "movies/movies-ivybears": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
+          "cap": "IvyBears (Moontrail Animation Studios)"
+        },
+        {
+          "t": "p",
+          "x": "En MIPJunior, el fundador y CEO de IvyBears, el Dr. Kaan Haylaz, presentó su “estrategia de volante de inercia inversa”: primero llegaron las vitaminas masticables IvyBears, creadas para ayudar a su hijo, que tenía dificultades con la comida, y después la IP de entretenimiento."
+        },
+        {
+          "t": "p",
+          "x": "Moontrail Animation Studios, el estudio de Haylaz con sede en Malta, utiliza herramientas de IA guiadas por talento humano. “La IA no es el cineasta. La IA es una herramienta en manos del cineasta”, afirmó. Este estudio reducido, con algo más de 20 personas a tiempo completo, produce episodios de 12 minutos en aproximadamente dos semanas."
+        },
+        {
+          "t": "p",
+          "x": "Según él, la IA generativa es mucho más que escribir prompts: mantener la coherencia de personajes, iluminación e interpretaciones a lo largo de un episodio exige “considerable supervisión, iteración y atención al detalle”."
+        },
+        {
+          "t": "p",
+          "x": "Lanzado a principios de este año, el canal de YouTube de IvyBears supera los 7,7 millones de suscriptores y suma 75 millones de visualizaciones entre plataformas. Moontrail se expande con otras series (“The Dr Muppy Show”, “Banana Rainbow”) y prepara un largometraje animado de IvyBears, cuya producción debería comenzar antes de fin de año."
+        }
+      ]
+    },
+    "movies/movies-foundry-smartroto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
+          "cap": "Foundry SmartRoto"
+        },
+        {
+          "t": "p",
+          "x": "SmartRoto, de Foundry, es un complemento para Nuke dirigido a la pesada tarea del rotoscopiado fotograma a fotograma. Está integrado directamente en el nodo Roto que ya existe en Nuke, así que la curva de aprendizaje para los artistas de splines es casi nula."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de generar un mate plano, SmartRoto trabaja con splines vectoriales reales, que propaga y deforma a lo largo de una secuencia a partir de solo un par de fotogramas de entrada; así, corregir un pelo suelto consiste en tomar un punto conocido en vez de volver a rotoscopiar el plano."
+        },
+        {
+          "t": "p",
+          "x": "El flujo de trabajo no es lineal: se salta a cualquier punto, se fija una forma con un fotograma clave y la herramienta interpola. En pruebas cronometradas frente a Magic Mask de Resolve, Matte Assist de Mocha Pro y CopyCat de Nuke, el crítico Todd Sheridan Perry comprobó que agilizaba el trabajo “por un factor de 4”."
+        },
+        {
+          "t": "p",
+          "x": "Advertencias: es un complemento de pago independiente de las licencias de Nuke, requiere Nuke 16.1 o posterior y es un asistente, no un sustituto de la supervisión. La reseña también analiza las pantallas de lápiz Gaomon PD1561 V2 y Huion Kamvas Pro 24."
+        }
+      ]
+    },
+    "movies/movies-corridorkey2": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "godomkRXBLE"
+        },
+        {
+          "t": "p",
+          "x": "Corridor Crew publicó el Oct. 16 un YouTube Short de 45 segundos titulado “CorridorKey 2.0 just works...”, con una descripción de una sola línea: “This Weekend.” El clip no incluye lista de funciones ni registro de cambios de la versión 2.0."
+        },
+        {
+          "t": "p",
+          "x": "CorridorKey es el keyer neuronal gratuito que Niko Pueringer creó en Corridor y liberó como código abierto en GitHub. Basta con darle un fotograma de pantalla verde sin procesar para que separe el primer plano y prediga el color recto real de cada píxel —incluidos el desenfoque de movimiento y los bordes fuera de foco— junto con un canal alfa lineal limpio, en lugar de la máscara binaria tosca típica de las herramientas de “AI Roto”."
+        },
+        {
+          "t": "p",
+          "x": "Entre las funciones actuales del repositorio figuran checkpoints dedicados para pantalla verde y azul con detección automática, inferencia independiente de la resolución hasta 4K sobre un backbone nativo de 2048x2048, entrada y salida EXR lineal de 16- y 32-bit para Nuke, Fusion o Resolve, y limpieza automática de marcadores de seguimiento. La versión más reciente funciona con 6–8GB de VRAM y en la mayoría de los M1+ Macs."
+        }
+      ]
     }
   }
 }

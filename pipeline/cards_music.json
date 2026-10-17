@@ -1,263 +1,217 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "section": "music",
   "cards": [
     {
-      "id": "music-vocaloid7",
+      "id": "music-suno-korea-hit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "VOCALOID7 공개\n11월 11일, $129",
-      "body": "VOCALOID7이 11월 11일 $129에 AI Megpoid와 함께 나온다.",
-      "mini_headline": "Yamaha의 VOCALOID7",
+      "headline": "Suno로 만든 노래\n한국서 또 히트",
+      "body": "Suno 곡 '내가 꿈꾸던 어른'이 '마음의 숲'에 이어 국내에서도 히트했다.",
+      "mini_headline": "Suno 곡, 한국서 두 번째 히트",
       "tool": "Music",
-      "source": "Essential Japan",
-      "url": "https://essential-japan.com/news/vocaloid7-officially-announced-just-6-months-after-hatsune-mikus-v6-debut/",
+      "source": "Music Ally",
+      "url": "https://musically.com/2026/10/15/suno-made-track-the-adult-i-dreamed-of-is-a-hit-in-south-korea/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
           },
           {
             "t": "p",
-            "x": "Yamaha가 Hatsune Miku V6 출시 후 여섯 달이 채 안 되어 VOCALOID7을 공식 발표했다. 새 “VOCALOID7 Editor”는 사 년 만에 VOCALOID6의 뒤를 잇는다. 전용 보이스뱅크도 새 세대로 내놓지만, VOCALOID3까지 거슬러 올라가는 기존 제품 지원은 그대로 이어간다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
+            "x": "지난달 AI-generated 곡 ‘마음의 숲’이 스트리밍 서비스 Melon의 Top 100 차트 하위권에 오르자 한국에서 논쟁이 일었다고 전한 바 있다."
           },
           {
             "t": "p",
-            "x": "“Hatsune Miku V6”는 2026년 4월 14일 새 AI-powered 보컬을 앞세워 나왔다. Crypton Future Media는 Yamaha와 함께 Miku V6 일본어·영어 보이스뱅크의 VOCALOID7-compatible 버전을 만드는 중이고, 2027년 중 되도록 이른 시점에 기존 V6 사용자에게 무료로 풀 계획이다."
+            "x": "그 기록이 이번에 큰 차이로 깨졌다. Meomuru라는 아티스트의 ‘내가 꿈꾸던 어른’이 이번 주 같은 차트 3위에 올랐다. 6월 발매 이후 소셜미디어 게시물에 쓰이며 조금씩 순위를 끌어올렸다."
           },
           {
             "t": "p",
-            "x": "VOCALOID7에 어떤 기능이 새로 들어가는지는 아직 알려지지 않았다. 에디터에는 “asa”라는 새 보이스뱅크가 함께 들어간다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
+            "x": "The Straits Times에 따르면 이 아티스트는 가사를 직접 쓰고 음악은 Suno로 생성했다. ‘마음의 숲’도 마찬가지였다."
           },
           {
             "t": "p",
-            "x": "Internet Co.는 같은 날 “VOCALOID7 Voicebank AI Megpoid”를 내놓는다. Megumi Nakajima를 바탕으로 만들어 VOCALOID7 AI 엔진에 맞게 다듬었고, 여덟 가지 보이스 타입을 고를 수 있다. LUCI도 VOCALOID FAN-ding으로 출시에 맞춰 나온다."
+            "x": "논쟁은 주로 Melon을 두고 벌어지지만 이 곡은 다른 서비스 차트에도 올라 있다. ‘내가 꿈꾸던 어른’은 이 글을 쓰는 시점 Spotify의 ‘Top Songs – South Korea’ 차트 48위인데 최신 일간 Top 50 순위에서는 10위다."
           },
           {
             "t": "p",
-            "x": "“VOCALOID7 Editor”는 2026년 11월 11일 세전 $129에 출시되고, 업그레이드판 정가는 $69다."
+            "x": "YouTube 성적은 더 좋다. ‘내가 꿈꾸던 어른’은 YouTube의 최신 한국 Weekly Top Songs 차트에서 주간 조회수 320만 회로 2위다. YouTube에서는 YouTube Music이 막 발표한 라벨링 정책에 따라 ‘AI’ 태그가 붙었다."
           }
         ]
       },
+      "_lead_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "Yamaha unveils VOCALOID7,\nout November 11 for $129",
-          "body": "Yamaha's VOCALOID7 Editor launches Nov 11 for $129, with AI Megpoid optimized for its AI engine.",
-          "mini_headline": "Yamaha's VOCALOID7",
+          "headline": "Another Suno-made song\nbecomes a hit in South Korea",
+          "body": "Suno-made 'The Adult I Dreamed Of' is a streaming hit in Korea, after 'Forest of the Heart' reached Melon's Top 100.",
+          "mini_headline": "Second Suno hit in Korea",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Yamaha has officially announced VOCALOID7 just under six months after the launch of Hatsune Miku V6. The new “VOCALOID7 Editor” succeeds VOCALOID6 after four years and will introduce a new generation of dedicated voicebanks while continuing to support existing releases dating back to VOCALOID3."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
+                "x": "Last month we wrote about a debate breaking out in South Korea after an AI-generated song called ‘Forest of the Heart’ appeared in the lower reaches of streaming service Melon’s Top 100 chart."
               },
               {
                 "t": "p",
-                "x": "“Hatsune Miku V6” launched on April 14, 2026, with new AI-powered vocals. Crypton Future Media is working with Yamaha on VOCALOID7-compatible versions of the Miku V6 Japanese and English voicebanks, planned free of charge for existing V6 users as early as possible in 2027."
+                "x": "Well, now it’s been surpassed by some distance. ‘The Adult I Dreamed Of’ by an artist called Meomuru took the number three spot in that chart this week, after a slow-burn rise since its June release fuelled by its use in social-media posts."
               },
               {
                 "t": "p",
-                "x": "Full details of VOCALOID7’s new functions have not yet been revealed. A new voicebank named “asa” will be bundled with the editor."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
+                "x": "The Straits Times has the story, noting that the artist wrote the lyrics for the track but generated the music on Suno – as was the case for ‘Forest of the Heart’ too."
               },
               {
                 "t": "p",
-                "x": "Internet Co. will release “VOCALOID7 Voicebank AI Megpoid” the same day, based on Megumi Nakajima and optimized for VOCALOID7’s AI engine, with eight selectable voice types. LUCI will also be available at launch via VOCALOID FAN-ding."
+                "x": "Melon is the focus for the debate around the new hit, although it is making an impact on the charts of other services too. ‘The Adult I Dreamed Of’ is 48th on Spotify’s ‘Top Songs – South Korea’ chart at the time of writing, but 10th in its latest daily Top 50 rankings."
               },
               {
                 "t": "p",
-                "x": "The “VOCALOID7 Editor” will launch on November 11, 2026 for $129 before tax, while the upgrade edition is normally priced at $69."
+                "x": "It’s doing even better on YouTube: ‘The Adult I Dreamed Of’ is in second place in that platform’s latest Weekly Top Songs chart for South Korea, with 3.2m weekly views. On YouTube, it carries an ‘AI’ tag under YouTube Music’s just-announced labelling policy."
               }
             ]
           }
         },
         "ko": {
-          "headline": "VOCALOID7 공개\n11월 11일, $129",
-          "body": "VOCALOID7이 11월 11일 $129에 AI Megpoid와 함께 나온다.",
-          "mini_headline": "Yamaha의 VOCALOID7",
+          "headline": "Suno로 만든 노래\n한국서 또 히트",
+          "body": "Suno 곡 '내가 꿈꾸던 어른'이 '마음의 숲'에 이어 국내에서도 히트했다.",
+          "mini_headline": "Suno 곡, 한국서 두 번째 히트",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Yamaha가 Hatsune Miku V6 출시 후 여섯 달이 채 안 되어 VOCALOID7을 공식 발표했다. 새 “VOCALOID7 Editor”는 사 년 만에 VOCALOID6의 뒤를 잇는다. 전용 보이스뱅크도 새 세대로 내놓지만, VOCALOID3까지 거슬러 올라가는 기존 제품 지원은 그대로 이어간다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
+                "x": "지난달 AI-generated 곡 ‘마음의 숲’이 스트리밍 서비스 Melon의 Top 100 차트 하위권에 오르자 한국에서 논쟁이 일었다고 전한 바 있다."
               },
               {
                 "t": "p",
-                "x": "“Hatsune Miku V6”는 2026년 4월 14일 새 AI-powered 보컬을 앞세워 나왔다. Crypton Future Media는 Yamaha와 함께 Miku V6 일본어·영어 보이스뱅크의 VOCALOID7-compatible 버전을 만드는 중이고, 2027년 중 되도록 이른 시점에 기존 V6 사용자에게 무료로 풀 계획이다."
+                "x": "그 기록이 이번에 큰 차이로 깨졌다. Meomuru라는 아티스트의 ‘내가 꿈꾸던 어른’이 이번 주 같은 차트 3위에 올랐다. 6월 발매 이후 소셜미디어 게시물에 쓰이며 조금씩 순위를 끌어올렸다."
               },
               {
                 "t": "p",
-                "x": "VOCALOID7에 어떤 기능이 새로 들어가는지는 아직 알려지지 않았다. 에디터에는 “asa”라는 새 보이스뱅크가 함께 들어간다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
+                "x": "The Straits Times에 따르면 이 아티스트는 가사를 직접 쓰고 음악은 Suno로 생성했다. ‘마음의 숲’도 마찬가지였다."
               },
               {
                 "t": "p",
-                "x": "Internet Co.는 같은 날 “VOCALOID7 Voicebank AI Megpoid”를 내놓는다. Megumi Nakajima를 바탕으로 만들어 VOCALOID7 AI 엔진에 맞게 다듬었고, 여덟 가지 보이스 타입을 고를 수 있다. LUCI도 VOCALOID FAN-ding으로 출시에 맞춰 나온다."
+                "x": "논쟁은 주로 Melon을 두고 벌어지지만 이 곡은 다른 서비스 차트에도 올라 있다. ‘내가 꿈꾸던 어른’은 이 글을 쓰는 시점 Spotify의 ‘Top Songs – South Korea’ 차트 48위인데 최신 일간 Top 50 순위에서는 10위다."
               },
               {
                 "t": "p",
-                "x": "“VOCALOID7 Editor”는 2026년 11월 11일 세전 $129에 출시되고, 업그레이드판 정가는 $69다."
+                "x": "YouTube 성적은 더 좋다. ‘내가 꿈꾸던 어른’은 YouTube의 최신 한국 Weekly Top Songs 차트에서 주간 조회수 320만 회로 2위다. YouTube에서는 YouTube Music이 막 발표한 라벨링 정책에 따라 ‘AI’ 태그가 붙었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "VOCALOID7発表\n11月11日、$129で発売",
-          "body": "VOCALOID7は11月11日に$129で発売され、AI Megpoidも同日に出る。",
-          "mini_headline": "YamahaのVOCALOID7",
+          "headline": "Suno製の楽曲が\n韓国でまたヒット",
+          "body": "Suno製の「私が夢見た大人」が「心の森」に続き、韓国でストリーミングヒットとなった。",
+          "mini_headline": "韓国で2例目のSunoヒット",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Yamahaは、Hatsune Miku V6の発売から六か月足らずでVOCALOID7を正式に発表した。新しい「VOCALOID7 Editor」は四年ぶりにVOCALOID6の後継となり、新世代の専用ボイスバンクを導入する一方、VOCALOID3にさかのぼる既存製品も引き続きサポートする。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
+                "x": "先月、AI-generatedの楽曲「心の森」がストリーミングサービスMelonのTop 100チャート下位に入り、韓国で議論が起きたと伝えた。"
               },
               {
                 "t": "p",
-                "x": "「Hatsune Miku V6」は2026年4月14日、新たなAI-poweredボーカルを搭載して発売された。Crypton Future MediaはYamahaと協力してMiku V6の日本語・英語ボイスバンクのVOCALOID7-compatible版を開発中で、既存のV6ユーザーには2027年のできるだけ早い時期に無償で提供する予定だ。"
+                "x": "今回はそれを大きく上回った。Meomuruというアーティストの「私が夢見た大人」が今週、同チャートで3位に入った。6月のリリース以降、SNS投稿での使用を追い風にじわじわと順位を上げてきた。"
               },
               {
                 "t": "p",
-                "x": "VOCALOID7の新機能の詳細はまだ明らかにされていない。エディターには新ボイスバンク「asa」が同梱される。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
+                "x": "The Straits Timesによると、このアーティストは歌詞を自ら書き、音楽はSunoで生成した。「心の森」も同様だった。"
               },
               {
                 "t": "p",
-                "x": "Internet Co.は同日、Megumi NakajimaをもとにVOCALOID7のAIエンジン向けに最適化した「VOCALOID7 Voicebank AI Megpoid」を発売する。ボイスタイプは八種類から選べる。LUCIも発売時にVOCALOID FAN-dingを通じて提供される。"
+                "x": "新たなヒット曲をめぐる議論の中心はMelonだが、他のサービスのチャートでも存在感を示している。「私が夢見た大人」は執筆時点でSpotifyの「Top Songs – South Korea」チャートで48位だが、最新の日次Top 50ランキングでは10位だ。"
               },
               {
                 "t": "p",
-                "x": "「VOCALOID7 Editor」は2026年11月11日に税抜$129で発売され、アップグレード版の通常価格は$69である。"
+                "x": "YouTubeではさらに好調だ。「私が夢見た大人」は同プラットフォームの韓国向け最新Weekly Top Songsチャートで2位につけ、週間再生回数は320万回に達した。YouTube上では、YouTube Musicが発表したばかりのラベリング方針に基づき「AI」タグが付いている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "VOCALOID7亮相\n11月11日上市，$129",
-          "body": "VOCALOID7将于11月11日以$129发售，并配有AI Megpoid。",
-          "mini_headline": "Yamaha的VOCALOID7",
+          "headline": "又一首Suno歌曲\n在韩国走红",
+          "body": "Suno制作的《我梦想中的大人》继《心之森》之后，在韩国成为流媒体热门歌曲。",
+          "mini_headline": "Suno在韩国再出热门曲",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Yamaha在Hatsune Miku V6发布后不到六个月，正式公布了VOCALOID7。全新的“VOCALOID7 Editor”时隔四年接替VOCALOID6，将推出新一代专用声库，同时继续支持可追溯至VOCALOID3的既有产品。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
+                "x": "上个月我们报道过，一首名为《心之森》的AI-generated歌曲进入流媒体服务Melon的Top 100榜单靠后位置，在韩国引发争论。"
               },
               {
                 "t": "p",
-                "x": "“Hatsune Miku V6”于2026年4月14日发布，搭载全新的AI-powered歌声。Crypton Future Media正与Yamaha合作开发Miku V6日语和英语声库的VOCALOID7-compatible版本，计划在2027年尽早免费提供给现有V6用户。"
+                "x": "如今它已被远远超越。艺人Meomuru的《我梦想中的大人》本周登上该榜第三名。这首歌自6月发行以来，借助在社交媒体帖子中的使用缓慢攀升。"
               },
               {
                 "t": "p",
-                "x": "VOCALOID7新功能的完整细节尚未公布。编辑器将附带一款名为“asa”的新声库。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
+                "x": "据The Straits Times报道，这位艺人亲自创作了歌词，但音乐是用Suno生成的，《心之森》也是如此。"
               },
               {
                 "t": "p",
-                "x": "Internet Co.将于同日推出“VOCALOID7 Voicebank AI Megpoid”，该声库以Megumi Nakajima为基础，针对VOCALOID7的AI引擎优化，提供八种可选音色。LUCI也将在发售时通过VOCALOID FAN-ding推出。"
+                "x": "新热门歌曲引发的争论集中在Melon，但它在其他平台的榜单上同样有影响力。截至撰稿时，《我梦想中的大人》在Spotify的“Top Songs – South Korea”榜单上排名第48位，但在其最新的每日Top 50排名中位列第10。"
               },
               {
                 "t": "p",
-                "x": "“VOCALOID7 Editor”将于2026年11月11日发售，税前售价$129，升级版常规售价为$69。"
+                "x": "它在YouTube上表现更好：《我梦想中的大人》在该平台最新的韩国Weekly Top Songs榜单中排名第二，周播放量达320万次。在YouTube上，根据YouTube Music刚刚公布的标注政策，这首歌带有“AI”标签。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Yamaha presenta VOCALOID7,\nsale el 11 de noviembre por $129",
-          "body": "El VOCALOID7 Editor de Yamaha sale el 11 de noviembre por $129, con AI Megpoid optimizada para su motor de AI.",
-          "mini_headline": "VOCALOID7 de Yamaha",
+          "headline": "Otra canción hecha con Suno\nes un éxito en Corea del Sur",
+          "body": "'The Adult I Dreamed Of', creada con Suno, es un éxito de streaming en Corea tras 'Forest of the Heart'.",
+          "mini_headline": "Segundo éxito de Suno en Corea",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Yamaha anunció oficialmente VOCALOID7 poco menos de seis meses después del lanzamiento de Hatsune Miku V6. El nuevo “VOCALOID7 Editor” sucede a VOCALOID6 tras cuatro años e introducirá una nueva generación de bancos de voz dedicados, sin dejar de admitir los lanzamientos existentes que se remontan a VOCALOID3."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
+                "x": "El mes pasado contamos el debate que surgió en Corea del Sur después de que una canción generada por IA (AI-generated) llamada ‘Forest of the Heart’ apareciera en la parte baja del Top 100 del servicio de streaming Melon."
               },
               {
                 "t": "p",
-                "x": "“Hatsune Miku V6” salió el 14 de abril de 2026 con nuevas voces impulsadas por AI (AI-powered). Crypton Future Media trabaja con Yamaha en versiones compatibles con VOCALOID7 (VOCALOID7-compatible) de los bancos de voz japonés e inglés de Miku V6, que se ofrecerán gratis a los usuarios actuales de V6 lo antes posible en 2027."
+                "x": "Ahora ha quedado ampliamente superada. ‘The Adult I Dreamed Of’, de un artista llamado Meomuru, alcanzó esta semana el tercer puesto de esa lista, tras un ascenso lento desde su lanzamiento en junio impulsado por su uso en publicaciones de redes sociales."
               },
               {
                 "t": "p",
-                "x": "Aún no se han revelado todos los detalles de las nuevas funciones de VOCALOID7. El editor incluirá un nuevo banco de voz llamado “asa”."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
+                "x": "The Straits Times recoge la noticia y señala que el artista escribió la letra del tema, pero generó la música con Suno, como también ocurrió con ‘Forest of the Heart’."
               },
               {
                 "t": "p",
-                "x": "Internet Co. lanzará el mismo día “VOCALOID7 Voicebank AI Megpoid”, basado en Megumi Nakajima y optimizado para el motor de AI de VOCALOID7, con ocho tipos de voz seleccionables. LUCI también estará disponible desde el lanzamiento a través de VOCALOID FAN-ding."
+                "x": "Melon concentra el debate sobre el nuevo éxito, aunque la canción también deja huella en las listas de otros servicios. ‘The Adult I Dreamed Of’ ocupa el puesto 48 en la lista ‘Top Songs – South Korea’ de Spotify en el momento de escribir esto, pero el 10 en su último ranking diario Top 50."
               },
               {
                 "t": "p",
-                "x": "El “VOCALOID7 Editor” saldrá a la venta el 11 de noviembre de 2026 por $129 antes de impuestos, mientras que la edición de actualización tiene un precio normal de $69."
+                "x": "En YouTube le va aún mejor: ‘The Adult I Dreamed Of’ ocupa el segundo lugar en la última lista Weekly Top Songs de la plataforma para Corea del Sur, con 3,2 millones de visualizaciones semanales. En YouTube lleva una etiqueta ‘AI’ conforme a la política de etiquetado que YouTube Music acaba de anunciar."
               }
             ]
           }
@@ -265,169 +219,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "VOCALOID7 공개\n11월 11일, $129",
-          "body": "VOCALOID7은 11월 11일 $129로, AI Megpoid와 함께 나온다.",
-          "mini_headline": "Yamaha의 VOCALOID7",
+          "headline": "Suno로 만든 노래\n한국서 또 히트",
+          "body": "Suno 곡 '내가 꿈꾸던 어른'이 '마음의 숲'에 이어 국내서 히트했다.",
+          "mini_headline": "Suno 곡, 한국서 두 번째 히트",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Yamaha가 Hatsune Miku V6 출시 후 여섯 달이 채 안 되어 VOCALOID7을 공식 발표했다. 새 “VOCALOID7 Editor”는 사 년 만에 VOCALOID6의 뒤를 잇는다. 새로운 세대의 전용 보이스뱅크를 선보이는 한편, VOCALOID3까지 거슬러 올라가는 기존 제품도 계속 지원한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
+                "x": "지난달 우리는 AI-generated 곡 ‘마음의 숲’이 스트리밍 서비스 Melon의 Top 100 차트 하위권에 오르며 한국에서 논쟁이 일었다고 전했다."
               },
               {
                 "t": "p",
-                "x": "“Hatsune Miku V6”는 2026년 4월 14일 새로운 AI-powered 보컬을 앞세워 출시됐다. Crypton Future Media는 Yamaha와 함께 Miku V6 일본어·영어 보이스뱅크의 VOCALOID7-compatible 버전을 만들고 있으며, 기존 V6 사용자에게 2027년 중 가능한 한 이른 시점에 무료로 제공할 계획이다."
+                "x": "이제 그 기록은 큰 차이로 넘어섰다. Meomuru라는 아티스트의 ‘내가 꿈꾸던 어른’이 이번 주 같은 차트 3위에 올랐다. 6월 발매 이후 소셜미디어 게시물에 쓰이며 서서히 순위를 끌어올린 결과다."
               },
               {
                 "t": "p",
-                "x": "VOCALOID7 새 기능의 세부 내용은 아직 공개되지 않았다. 에디터에는 “asa”라는 새 보이스뱅크가 함께 들어간다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
+                "x": "The Straits Times에 따르면 이 아티스트는 가사를 직접 쓰고 음악은 Suno로 생성했다. ‘마음의 숲’도 마찬가지였다."
               },
               {
                 "t": "p",
-                "x": "Internet Co.는 같은 날 “VOCALOID7 Voicebank AI Megpoid”를 내놓는다. Megumi Nakajima를 바탕으로 VOCALOID7의 AI 엔진에 맞춰 최적화했고, 여덟 가지 보이스 타입을 고를 수 있다. LUCI도 VOCALOID FAN-ding을 통해 출시 시점에 함께 나온다."
+                "x": "새 히트곡을 둘러싼 논쟁의 중심은 Melon이지만, 다른 서비스 차트에서도 존재감을 보이고 있다. ‘내가 꿈꾸던 어른’은 이 글을 쓰는 시점 Spotify의 ‘Top Songs – South Korea’ 차트 48위지만, 최신 일간 Top 50 순위에서는 10위다."
               },
               {
                 "t": "p",
-                "x": "“VOCALOID7 Editor”는 2026년 11월 11일 세전 $129에 출시되며, 업그레이드판 정가는 $69다."
+                "x": "YouTube에서는 성적이 더 좋다. ‘내가 꿈꾸던 어른’은 YouTube의 최신 한국 Weekly Top Songs 차트에서 주간 조회수 320만 회로 2위다. YouTube에서는 YouTube Music이 막 발표한 라벨링 정책에 따라 ‘AI’ 태그가 붙어 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "VOCALOID7発表\n11月11日、$129で発売",
-          "body": "VOCALOID7は11月11日に$129で発売され、AI Megpoidも同日に出る。",
-          "mini_headline": "YamahaのVOCALOID7",
+          "headline": "Suno製の楽曲が\n韓国でまたヒット",
+          "body": "Suno製の「私が夢見た大人」が「心の森」に続き、韓国でストリーミングヒットとなった。",
+          "mini_headline": "韓国で2例目のSunoヒット",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Yamahaは、Hatsune Miku V6の発売から六か月足らずでVOCALOID7を正式に発表した。新しい「VOCALOID7 Editor」は四年ぶりにVOCALOID6の後継となり、新世代の専用ボイスバンクを導入する一方、VOCALOID3にさかのぼる既存製品も引き続きサポートする。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
+                "x": "先月、AI-generatedの楽曲「心の森」がストリーミングサービスMelonのTop 100チャート下位に入り、韓国で議論が起きたと伝えた。"
               },
               {
                 "t": "p",
-                "x": "「Hatsune Miku V6」は2026年4月14日、新たなAI-poweredボーカルを搭載して発売された。Crypton Future MediaはYamahaと協力してMiku V6の日本語・英語ボイスバンクのVOCALOID7-compatible版を開発中で、既存のV6ユーザーには2027年のできるだけ早い時期に無償で提供する予定だ。"
+                "x": "今回はそれを大きく上回った。Meomuruというアーティストの「私が夢見た大人」が今週、同チャートで3位に入った。6月のリリース以降、SNS投稿での使用を追い風にじわじわと順位を上げてきた。"
               },
               {
                 "t": "p",
-                "x": "VOCALOID7の新機能の詳細はまだ明らかにされていない。エディターには新ボイスバンク「asa」が同梱される。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
+                "x": "The Straits Timesによると、このアーティストは歌詞を自ら書き、音楽はSunoで生成した。「心の森」も同様だった。"
               },
               {
                 "t": "p",
-                "x": "Internet Co.は同日、Megumi NakajimaをもとにVOCALOID7のAIエンジン向けに最適化した「VOCALOID7 Voicebank AI Megpoid」を発売する。ボイスタイプは八種類から選べる。LUCIも発売時にVOCALOID FAN-dingを通じて提供される。"
+                "x": "新たなヒット曲をめぐる議論の中心はMelonだが、他のサービスのチャートでも存在感を示している。「私が夢見た大人」は執筆時点でSpotifyの「Top Songs – South Korea」チャートで48位だが、最新の日次Top 50ランキングでは10位だ。"
               },
               {
                 "t": "p",
-                "x": "「VOCALOID7 Editor」は2026年11月11日に税抜$129で発売され、アップグレード版の通常価格は$69である。"
+                "x": "YouTubeではさらに好調だ。「私が夢見た大人」は同プラットフォームの韓国向け最新Weekly Top Songsチャートで2位につけ、週間再生回数は320万回に達した。YouTube上では、YouTube Musicが発表したばかりのラベリング方針に基づき「AI」タグが付いている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "VOCALOID7亮相\n11月11日上市，$129",
-          "body": "VOCALOID7将于11月11日以$129发售，并配有AI Megpoid。",
-          "mini_headline": "Yamaha的VOCALOID7",
+          "headline": "又一首Suno歌曲\n在韩国走红",
+          "body": "Suno制作的《我梦想中的大人》继《心之森》之后，在韩国成为流媒体热门歌曲。",
+          "mini_headline": "Suno在韩国再出热门曲",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Yamaha在Hatsune Miku V6发布后不到六个月，正式公布了VOCALOID7。全新的“VOCALOID7 Editor”时隔四年接替VOCALOID6，将推出新一代专用声库，同时继续支持可追溯至VOCALOID3的既有产品。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
+                "x": "上个月我们报道过，一首名为《心之森》的AI-generated歌曲进入流媒体服务Melon的Top 100榜单靠后位置，在韩国引发争论。"
               },
               {
                 "t": "p",
-                "x": "“Hatsune Miku V6”于2026年4月14日发布，搭载全新的AI-powered歌声。Crypton Future Media正与Yamaha合作开发Miku V6日语和英语声库的VOCALOID7-compatible版本，计划在2027年尽早免费提供给现有V6用户。"
+                "x": "如今它已被远远超越。艺人Meomuru的《我梦想中的大人》本周登上该榜第三名。这首歌自6月发行以来，借助在社交媒体帖子中的使用缓慢攀升。"
               },
               {
                 "t": "p",
-                "x": "VOCALOID7新功能的完整细节尚未公布。编辑器将附带一款名为“asa”的新声库。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
+                "x": "据The Straits Times报道，这位艺人亲自创作了歌词，但音乐是用Suno生成的，《心之森》也是如此。"
               },
               {
                 "t": "p",
-                "x": "Internet Co.将于同日推出“VOCALOID7 Voicebank AI Megpoid”，该声库以Megumi Nakajima为基础，针对VOCALOID7的AI引擎优化，提供八种可选音色。LUCI也将在发售时通过VOCALOID FAN-ding推出。"
+                "x": "新热门歌曲引发的争论集中在Melon，但它在其他平台的榜单上同样有影响力。截至撰稿时，《我梦想中的大人》在Spotify的“Top Songs – South Korea”榜单上排名第48位，但在其最新的每日Top 50排名中位列第10。"
               },
               {
                 "t": "p",
-                "x": "“VOCALOID7 Editor”将于2026年11月11日发售，税前售价$129，升级版常规售价为$69。"
+                "x": "它在YouTube上表现更好：《我梦想中的大人》在该平台最新的韩国Weekly Top Songs榜单中排名第二，周播放量达320万次。在YouTube上，根据YouTube Music刚刚公布的标注政策，这首歌带有“AI”标签。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Yamaha presenta VOCALOID7,\nsale el 11 de noviembre por $129",
-          "body": "El VOCALOID7 Editor de Yamaha sale el 11 de noviembre por $129, con AI Megpoid optimizada para su motor de AI.",
-          "mini_headline": "VOCALOID7 de Yamaha",
+          "headline": "Otra canción hecha con Suno\nes un éxito en Corea del Sur",
+          "body": "'The Adult I Dreamed Of', creada con Suno, es un éxito de streaming en Corea tras 'Forest of the Heart'.",
+          "mini_headline": "Segundo éxito de Suno en Corea",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Yamaha anunció oficialmente VOCALOID7 poco menos de seis meses después del lanzamiento de Hatsune Miku V6. El nuevo “VOCALOID7 Editor” sucede a VOCALOID6 tras cuatro años e introducirá una nueva generación de bancos de voz dedicados, sin dejar de admitir los lanzamientos existentes que se remontan a VOCALOID3."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
+                "x": "El mes pasado contamos el debate que surgió en Corea del Sur después de que una canción generada por IA (AI-generated) llamada ‘Forest of the Heart’ apareciera en la parte baja del Top 100 del servicio de streaming Melon."
               },
               {
                 "t": "p",
-                "x": "“Hatsune Miku V6” salió el 14 de abril de 2026 con nuevas voces impulsadas por AI (AI-powered). Crypton Future Media trabaja con Yamaha en versiones compatibles con VOCALOID7 (VOCALOID7-compatible) de los bancos de voz japonés e inglés de Miku V6, que se ofrecerán gratis a los usuarios actuales de V6 lo antes posible en 2027."
+                "x": "Ahora ha quedado ampliamente superada. ‘The Adult I Dreamed Of’, de un artista llamado Meomuru, alcanzó esta semana el tercer puesto de esa lista, tras un ascenso lento desde su lanzamiento en junio impulsado por su uso en publicaciones de redes sociales."
               },
               {
                 "t": "p",
-                "x": "Aún no se han revelado todos los detalles de las nuevas funciones de VOCALOID7. El editor incluirá un nuevo banco de voz llamado “asa”."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
+                "x": "The Straits Times recoge la noticia y señala que el artista escribió la letra del tema, pero generó la música con Suno, como también ocurrió con ‘Forest of the Heart’."
               },
               {
                 "t": "p",
-                "x": "Internet Co. lanzará el mismo día “VOCALOID7 Voicebank AI Megpoid”, basado en Megumi Nakajima y optimizado para el motor de AI de VOCALOID7, con ocho tipos de voz seleccionables. LUCI también estará disponible desde el lanzamiento a través de VOCALOID FAN-ding."
+                "x": "Melon concentra el debate sobre el nuevo éxito, aunque la canción también deja huella en las listas de otros servicios. ‘The Adult I Dreamed Of’ ocupa el puesto 48 en la lista ‘Top Songs – South Korea’ de Spotify en el momento de escribir esto, pero el 10 en su último ranking diario Top 50."
               },
               {
                 "t": "p",
-                "x": "El “VOCALOID7 Editor” saldrá a la venta el 11 de noviembre de 2026 por $129 antes de impuestos, mientras que la edición de actualización tiene un precio normal de $69."
+                "x": "En YouTube le va aún mejor: ‘The Adult I Dreamed Of’ ocupa el segundo lugar en la última lista Weekly Top Songs de la plataforma para Corea del Sur, con 3,2 millones de visualizaciones semanales. En YouTube lleva una etiqueta ‘AI’ conforme a la política de etiquetado que YouTube Music acaba de anunciar."
               }
             ]
           }
@@ -435,195 +357,215 @@
       }
     },
     {
-      "id": "music-distrokid-suno",
+      "id": "music-difro2",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UMG·Sony, 법정서\nDistroKid 압박",
-      "body": "UMG·Sony가 DistroKid의 월간 AI 곡 수 공개를 법원에 요청했다.",
-      "mini_headline": "레이블, DistroKid 겨냥",
+      "headline": "Initial Audio\nDifro 2 무료 공개",
+      "body": "무료 AI MIDI 멜로디 생성기 Difro 2가 모델을 처음부터 재학습했다.",
+      "mini_headline": "Difro 2, AI 모델 재학습",
       "tool": "Music",
-      "source": "Billboard",
-      "url": "https://www.billboard.com/pro/umg-sony-demand-distrokid-admit-suno-song-uploads/",
+      "source": "INITIAL AUDIO (YouTube)",
+      "url": "https://www.youtube.com/watch?v=DY5QI4idlRU",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
-            "cap": "2024년 6월 04일 뉴욕시에서 휴대전화에 음악 앱이 떠 있는 모습을 담은 사진 일러스트. Michael M. Santiago/Getty Images"
+            "t": "video",
+            "yt": "DY5QI4idlRU"
           },
           {
             "t": "p",
-            "x": "Universal Music Group과 Sony Music이 DistroKid가 매달 스트리밍 서비스에 올리는 AI 곡의 수를 밝히게 해 달라며 새 소송을 냈다. Suno와 벌이는 분쟁에서 그 수치가 결정적 증거라는 주장이다."
+            "x": "Initial Audio가 Difro 2를 무료로 내려받을 수 있게 공개하며 자사 역대 가장 강력한 AI MIDI 생성기라고 소개했다."
           },
           {
             "t": "p",
-            "x": "수요일(10월 14일) 맨해튼 연방법원에 낸 이번 신청은 지난달 보낸 소환장에 DistroKid가 응하게 하려는 것이다. 레이블들은 DistroKid를 “스트리밍 시장을 AI-generated 녹음물로 뒤덮는 주요 통로 가운데 하나”라고 부르면서 이 회사가 “문서 한 건도 내놓기를 거부하고 있다”고 밝혔다."
+            "x": "회사는 AI 모델을 처음부터 다시 학습시켰고, 그 덕에 품질과 음악성, 창의성이 크게 나아졌다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "레이블들은 Suno가 “결과물이 Suno 플랫폼을 떠난 뒤 어디로 유통되는지 추적하지 않는다”고 하면서도 DistroKid는 “스트리밍 서비스의 상류에 있다”고 말한다. 변호인단은 “DistroKid는 AI-detection 도구로 그 흐름을 측정한다고 인정했다”며 “그 흐름이 원고 측 녹음물 시장에 해를 끼치는지가 Suno의 공정 이용 항변의 핵심 쟁점”이라고 썼다."
+            "x": "Difro 2는 기존 MIDI 멜로디를 받아 원곡의 분위기와 개성, 음악적 DNA는 살린 채 새 아이디어로 풀어낸다."
           },
           {
             "t": "p",
-            "x": "DistroKid 대변인은 “DistroKid는 Universal Music Group, Sony Music과 Suno 사이에 진행 중인 소송의 제삼자다. 우리는 투명성을 지키며, 이 사안이 진행되는 동안 법적 절차에 계속 협조하겠다”고 말했다."
+            "x": "달라진 점은 이렇다. 완전히 재학습한 AI 모델, 크게 개선된 MIDI 생성 품질, 원래 멜로디의 DNA를 더 잘 보존하는 능력, 더 음악적이고 일관된 결과, 기존 MIDI 아이디어에서 끝없이 뽑아내는 새 변주다."
+          },
+          {
+            "t": "p",
+            "x": "14분 분량의 첫인상 영상에서 Initial Audio는 Difro 2로 멜로디를 실시간 생성하며 성능을 시험한다."
           }
         ]
       },
+      "_lead_image": "https://i.ytimg.com/vi/DY5QI4idlRU/maxresdefault.jpg",
+      "_video": "DY5QI4idlRU",
       "text": {
         "en": {
-          "headline": "UMG and Sony press DistroKid\non its Suno song uploads",
-          "body": "UMG and Sony asked a court to force DistroKid to disclose how many AI songs it uploads to streaming services monthly.",
-          "mini_headline": "Labels target DistroKid",
+          "headline": "Initial Audio releases\nfree AI melody tool Difro 2",
+          "body": "Difro 2, Initial Audio's free AI MIDI melody generator, returns with a model retrained from the ground up.",
+          "mini_headline": "Difro 2 retrains its AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
-                "cap": "In this photo illustration, music apps are seen on a phone on June 04, 2024 in New York City. Michael M. Santiago/Getty Images"
+                "t": "video",
+                "yt": "DY5QI4idlRU"
               },
               {
                 "t": "p",
-                "x": "Universal Music Group and Sony Music have filed a new legal case seeking to force DistroKid to disclose how many AI songs it uploads to streaming services each month, arguing it’s crucial evidence in their ongoing battle against Suno."
+                "x": "Initial Audio has released Difro 2, which it calls its most powerful AI MIDI generator yet, as a free download."
               },
               {
                 "t": "p",
-                "x": "The filing, lodged Wednesday (Oct. 14) in Manhattan federal court, aims to compel DistroKid to comply with a subpoena sent last month. The labels call DistroKid “one of the primary conduits by which the streaming market is being flooded with AI-generated recordings” and say it “refuses to produce a single document.”"
+                "x": "The company says it completely retrained the AI model from the ground up, delivering a massive leap in quality, musicality and creativity."
               },
               {
                 "t": "p",
-                "x": "Suno “does not track where its outputs are distributed once they leave Suno’s platform,” they say, but DistroKid “sits upstream of the streaming services.” “DistroKid has admitted that it measures that flow with an AI-detection tool,” the attorneys write. “Whether that flow is harming the market for plaintiffs’ recordings is a question at the center of Suno’s fair use defense.”"
+                "x": "Difro 2 takes your existing MIDI melodies and reimagines them into fresh new ideas while preserving the original vibe, character and musical DNA."
               },
               {
                 "t": "p",
-                "x": "A DistroKid spokesperson said: “DistroKid is a third party in the ongoing litigation between Universal Music Group, Sony Music and Suno. We are committed to transparency and will continue to cooperate with the legal process as this matter proceeds.”"
+                "x": "What’s new: a completely retrained AI model, dramatically improved MIDI generation quality, better preservation of the original melody’s DNA, more musical and coherent results, and endless new variations from existing MIDI ideas."
+              },
+              {
+                "t": "p",
+                "x": "In the 14-minute first-look video, Initial Audio puts Difro 2 to the test, generating melodies live."
               }
             ]
           }
         },
         "ko": {
-          "headline": "UMG·Sony, 법정서\nDistroKid 압박",
-          "body": "UMG·Sony가 DistroKid의 월간 AI 곡 수 공개를 법원에 요청했다.",
-          "mini_headline": "레이블, DistroKid 겨냥",
+          "headline": "Initial Audio\nDifro 2 무료 공개",
+          "body": "무료 AI MIDI 멜로디 생성기 Difro 2가 모델을 처음부터 재학습했다.",
+          "mini_headline": "Difro 2, AI 모델 재학습",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
-                "cap": "2024년 6월 04일 뉴욕시에서 휴대전화에 음악 앱이 떠 있는 모습을 담은 사진 일러스트. Michael M. Santiago/Getty Images"
+                "t": "video",
+                "yt": "DY5QI4idlRU"
               },
               {
                 "t": "p",
-                "x": "Universal Music Group과 Sony Music이 DistroKid가 매달 스트리밍 서비스에 올리는 AI 곡의 수를 밝히게 해 달라며 새 소송을 냈다. Suno와 벌이는 분쟁에서 그 수치가 결정적 증거라는 주장이다."
+                "x": "Initial Audio가 Difro 2를 무료로 내려받을 수 있게 공개하며 자사 역대 가장 강력한 AI MIDI 생성기라고 소개했다."
               },
               {
                 "t": "p",
-                "x": "수요일(10월 14일) 맨해튼 연방법원에 낸 이번 신청은 지난달 보낸 소환장에 DistroKid가 응하게 하려는 것이다. 레이블들은 DistroKid를 “스트리밍 시장을 AI-generated 녹음물로 뒤덮는 주요 통로 가운데 하나”라고 부르면서 이 회사가 “문서 한 건도 내놓기를 거부하고 있다”고 밝혔다."
+                "x": "회사는 AI 모델을 처음부터 다시 학습시켰고, 그 덕에 품질과 음악성, 창의성이 크게 나아졌다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "레이블들은 Suno가 “결과물이 Suno 플랫폼을 떠난 뒤 어디로 유통되는지 추적하지 않는다”고 하면서도 DistroKid는 “스트리밍 서비스의 상류에 있다”고 말한다. 변호인단은 “DistroKid는 AI-detection 도구로 그 흐름을 측정한다고 인정했다”며 “그 흐름이 원고 측 녹음물 시장에 해를 끼치는지가 Suno의 공정 이용 항변의 핵심 쟁점”이라고 썼다."
+                "x": "Difro 2는 기존 MIDI 멜로디를 받아 원곡의 분위기와 개성, 음악적 DNA는 살린 채 새 아이디어로 풀어낸다."
               },
               {
                 "t": "p",
-                "x": "DistroKid 대변인은 “DistroKid는 Universal Music Group, Sony Music과 Suno 사이에 진행 중인 소송의 제삼자다. 우리는 투명성을 지키며, 이 사안이 진행되는 동안 법적 절차에 계속 협조하겠다”고 말했다."
+                "x": "달라진 점은 이렇다. 완전히 재학습한 AI 모델, 크게 개선된 MIDI 생성 품질, 원래 멜로디의 DNA를 더 잘 보존하는 능력, 더 음악적이고 일관된 결과, 기존 MIDI 아이디어에서 끝없이 뽑아내는 새 변주다."
+              },
+              {
+                "t": "p",
+                "x": "14분 분량의 첫인상 영상에서 Initial Audio는 Difro 2로 멜로디를 실시간 생성하며 성능을 시험한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UMGとSonyが\nDistroKidに開示要求",
-          "body": "UMGとSonyは、DistroKidが毎月配信するAI楽曲数の開示を裁判所に求めた。",
-          "mini_headline": "レーベルがDistroKidを標的に",
+          "headline": "Initial Audio\nDifro 2を無料公開",
+          "body": "無料のAI MIDIメロディ生成ツールDifro 2が、モデルを一から再学習して登場した。",
+          "mini_headline": "Difro 2がAIを再学習",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
-                "cap": "2024年6月04日、ニューヨーク市でスマートフォンに表示された音楽アプリのフォトイラスト。Michael M. Santiago/Getty Images"
+                "t": "video",
+                "yt": "DY5QI4idlRU"
               },
               {
                 "t": "p",
-                "x": "Universal Music GroupとSony Musicは、DistroKidが毎月ストリーミングサービスにアップロードするAI楽曲の数を開示させるよう求める新たな訴えを起こした。Sunoとの係争において決定的な証拠になると主張している。"
+                "x": "Initial Audioは、同社史上最も強力なAI MIDIジェネレーターとうたうDifro 2を無料ダウンロードで公開した。"
               },
               {
                 "t": "p",
-                "x": "水曜日(10月14日)にマンハッタンの連邦裁判所に提出された申し立ては、先月送付した召喚状にDistroKidを従わせることを狙う。レーベル側はDistroKidを「ストリーミング市場をAI-generatedの録音物であふれさせている主要な経路の一つ」と呼び、同社が「文書を一通も提出しようとしない」と述べた。"
+                "x": "同社によると、AIモデルを一から完全に再学習させたことで、品質、音楽性、創造性が大きく飛躍したという。"
               },
               {
                 "t": "p",
-                "x": "レーベル側によれば、Sunoは「生成物がSunoのプラットフォームを離れた後、どこに配信されるかを追跡していない」が、DistroKidは「ストリーミングサービスの上流に位置する」。弁護士らは「DistroKidはAI-detectionツールでその流れを測定していると認めている」とし、「その流れが原告の録音物の市場を損なっているかどうかは、Sunoのフェアユース抗弁の核心にある問題だ」と記した。"
+                "x": "Difro 2は既存のMIDIメロディを読み込み、元の雰囲気や個性、音楽的なDNAを保ちながら新しいアイデアへと生まれ変わらせる。"
               },
               {
                 "t": "p",
-                "x": "DistroKidの広報担当者は「DistroKidは、Universal Music Group、Sony Music、Suno間で係争中の訴訟における第三者だ。当社は透明性に取り組んでおり、本件の進行に伴い法的手続きに引き続き協力する」と述べた。"
+                "x": "新機能は、完全に再学習したAIモデル、大幅に向上したMIDI生成品質、元のメロディのDNAをより忠実に保つ能力、より音楽的で一貫性のある結果、そして既存のMIDIアイデアから生まれる無限のバリエーションだ。"
+              },
+              {
+                "t": "p",
+                "x": "14分のファーストルック動画で、Initial AudioはDifro 2を実際に試し、メロディをライブで生成している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UMG与Sony就Suno\n向DistroKid施压",
-          "body": "UMG与Sony请求法院迫使DistroKid披露其每月上传至流媒体的AI歌曲数量。",
-          "mini_headline": "唱片公司瞄准DistroKid",
+          "headline": "Initial Audio\n免费发布Difro 2",
+          "body": "免费AI MIDI旋律生成器Difro 2回归，其模型已从零开始重新训练。",
+          "mini_headline": "Difro 2重新训练AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
-                "cap": "图为2024年6月04日在纽约市拍摄的手机上音乐应用的照片插图。Michael M. Santiago/Getty Images"
+                "t": "video",
+                "yt": "DY5QI4idlRU"
               },
               {
                 "t": "p",
-                "x": "Universal Music Group与Sony Music提起新的法律诉讼，要求迫使DistroKid披露其每月上传至流媒体服务的AI歌曲数量，称这是它们与Suno持续交锋中的关键证据。"
+                "x": "Initial Audio发布了Difro 2，称其为公司迄今最强大的AI MIDI生成器，并提供免费下载。"
               },
               {
                 "t": "p",
-                "x": "该申请于周三（10月14日）提交至曼哈顿联邦法院，旨在迫使DistroKid遵守上月发出的传票。唱片公司称DistroKid是“导致流媒体市场被AI-generated录音淹没的主要渠道之一”，并称其“拒绝提供任何一份文件”。"
+                "x": "该公司表示，他们从零开始彻底重新训练了AI模型，在质量、音乐性和创造力上实现了巨大飞跃。"
               },
               {
                 "t": "p",
-                "x": "他们表示，Suno“不追踪其生成内容离开Suno平台后被分发到何处”，但DistroKid“位于流媒体服务的上游”。律师写道：“DistroKid已承认使用AI-detection工具衡量这一流量。”“这一流量是否正在损害原告录音的市场，是Suno合理使用抗辩的核心问题。”"
+                "x": "Difro 2会读取你现有的MIDI旋律，在保留原有氛围、特色和音乐DNA的同时，将其重新构想为全新的创意。"
               },
               {
                 "t": "p",
-                "x": "DistroKid发言人表示：“DistroKid是Universal Music Group、Sony Music与Suno之间正在进行的诉讼中的第三方。我们致力于透明，并将在此事推进过程中继续配合法律程序。”"
+                "x": "新内容包括：彻底重新训练的AI模型、显著提升的MIDI生成质量、更好地保留原旋律的DNA、更具音乐性且更连贯的结果，以及从现有MIDI创意中衍生出的无尽新变奏。"
+              },
+              {
+                "t": "p",
+                "x": "在14分钟的首发体验视频中，Initial Audio对Difro 2进行了实测，现场生成旋律。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UMG y Sony presionan a DistroKid\npor las canciones de Suno",
-          "body": "UMG y Sony pidieron a un tribunal que obligara a DistroKid a revelar cuántas canciones de AI sube cada mes.",
-          "mini_headline": "Los sellos apuntan a DistroKid",
+          "headline": "Initial Audio lanza Difro 2,\nherramienta gratuita de IA",
+          "body": "Difro 2, el generador gratuito de melodías MIDI con IA de Initial Audio, vuelve con un modelo reentrenado desde cero.",
+          "mini_headline": "Difro 2 reentrena su IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
-                "cap": "En esta ilustración fotográfica, aplicaciones de música en un teléfono el 04 de junio de 2024 en Nueva York. Michael M. Santiago/Getty Images"
+                "t": "video",
+                "yt": "DY5QI4idlRU"
               },
               {
                 "t": "p",
-                "x": "Universal Music Group y Sony Music presentaron una nueva acción legal para obligar a DistroKid a revelar cuántas canciones de AI sube cada mes a los servicios de streaming, con el argumento de que es una prueba crucial en su batalla en curso contra Suno."
+                "x": "Initial Audio ha lanzado Difro 2, que presenta como su generador MIDI con IA más potente hasta la fecha, como descarga gratuita."
               },
               {
                 "t": "p",
-                "x": "La petición, presentada el miércoles (14 de octubre) ante un tribunal federal de Manhattan, busca obligar a DistroKid a cumplir una citación enviada el mes pasado. Los sellos describen a DistroKid como “uno de los principales conductos por los que el mercado del streaming se está inundando de grabaciones generadas por AI (AI-generated)” y afirman que “se niega a entregar un solo documento”."
+                "x": "La compañía afirma que reentrenó por completo el modelo de IA desde cero, lo que supone un gran salto en calidad, musicalidad y creatividad."
               },
               {
                 "t": "p",
-                "x": "Suno “no rastrea dónde se distribuyen sus resultados una vez que salen de la plataforma de Suno”, dicen, pero DistroKid “está aguas arriba de los servicios de streaming”. “DistroKid ha admitido que mide ese flujo con una herramienta de detección de AI (AI-detection)”, escriben los abogados. “Si ese flujo está dañando el mercado de las grabaciones de los demandantes es una cuestión central de la defensa de uso legítimo de Suno”."
+                "x": "Difro 2 toma tus melodías MIDI existentes y las reinterpreta como ideas nuevas, conservando el ambiente, el carácter y el ADN musical originales."
               },
               {
                 "t": "p",
-                "x": "Un portavoz de DistroKid declaró: “DistroKid es un tercero en el litigio en curso entre Universal Music Group, Sony Music y Suno. Estamos comprometidos con la transparencia y seguiremos colaborando con el proceso legal a medida que avance este asunto”."
+                "x": "Novedades: un modelo de IA reentrenado por completo, una calidad de generación MIDI muy superior, mejor conservación del ADN de la melodía original, resultados más musicales y coherentes, y variaciones nuevas sin fin a partir de ideas MIDI existentes."
+              },
+              {
+                "t": "p",
+                "x": "En el vídeo de primera impresión de 14 minutos, Initial Audio pone a prueba Difro 2 generando melodías en directo."
               }
             ]
           }
@@ -631,125 +573,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "UMG·Sony, 법정서\nDistroKid 압박",
-          "body": "UMG·Sony가 DistroKid의 월간 AI 곡 수 공개를 법원에 요청했다.",
-          "mini_headline": "레이블, DistroKid 겨냥",
+          "headline": "Initial Audio\nDifro 2 무료 공개",
+          "body": "무료 AI MIDI 멜로디 생성기 Difro 2가 모델을 처음부터 재학습했다.",
+          "mini_headline": "Difro 2, AI 모델 재학습",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
-                "cap": "2024년 6월 04일 뉴욕시에서 휴대전화에 음악 앱이 떠 있는 모습을 담은 사진 일러스트. Michael M. Santiago/Getty Images"
+                "t": "video",
+                "yt": "DY5QI4idlRU"
               },
               {
                 "t": "p",
-                "x": "Universal Music Group과 Sony Music이 DistroKid가 매달 스트리밍 서비스에 올리는 AI 곡의 수를 공개하도록 강제해 달라는 새 소송을 냈다. 이들은 이것이 Suno와 이어 가는 분쟁에서 결정적인 증거라고 주장한다."
+                "x": "Initial Audio가 자사 역대 가장 강력한 AI MIDI 생성기라고 소개한 Difro 2를 무료 다운로드로 공개했다."
               },
               {
                 "t": "p",
-                "x": "수요일(10월 14일) 맨해튼 연방법원에 낸 이번 신청은 지난달 보낸 소환장에 DistroKid가 응하도록 강제하는 것이 목적이다. 레이블들은 DistroKid를 “스트리밍 시장을 AI-generated 녹음물로 뒤덮는 주요 통로 가운데 하나”라고 부르며, 이 회사가 “문서 한 건도 내놓기를 거부하고 있다”고 밝혔다."
+                "x": "회사는 AI 모델을 처음부터 완전히 다시 학습시켜 품질, 음악성, 창의성이 크게 도약했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "이들은 Suno가 “결과물이 Suno 플랫폼을 떠난 뒤 어디로 유통되는지 추적하지 않는다”면서도, DistroKid는 “스트리밍 서비스의 상류에 있다”고 말한다. 변호인단은 “DistroKid는 AI-detection 도구로 그 흐름을 측정한다고 인정했다”며 “그 흐름이 원고 측 녹음물 시장에 해를 끼치는지가 Suno의 공정 이용 항변의 핵심 쟁점”이라고 썼다."
+                "x": "Difro 2는 기존 MIDI 멜로디를 받아 원곡의 분위기와 개성, 음악적 DNA는 살리면서 새로운 아이디어로 재해석한다."
               },
               {
                 "t": "p",
-                "x": "DistroKid 대변인은 “DistroKid는 Universal Music Group, Sony Music과 Suno 사이에 진행 중인 소송의 제삼자다. 우리는 투명성을 지키며, 이 사안이 진행되는 동안 법적 절차에 계속 협조하겠다”고 말했다."
+                "x": "새로워진 점은 완전히 재학습한 AI 모델, 크게 개선된 MIDI 생성 품질, 원래 멜로디의 DNA를 더 잘 보존하는 능력, 더 음악적이고 일관된 결과, 기존 MIDI 아이디어에서 끝없이 뽑아내는 새 변주다."
+              },
+              {
+                "t": "p",
+                "x": "14분 분량의 첫인상 영상에서 Initial Audio는 Difro 2로 멜로디를 실시간 생성하며 성능을 시험한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UMGとSonyが\nDistroKidに開示要求",
-          "body": "UMGとSonyは、DistroKidが毎月配信するAI楽曲数の開示を裁判所に求めた。",
-          "mini_headline": "レーベルがDistroKidを標的に",
+          "headline": "Initial Audio\nDifro 2を無料公開",
+          "body": "無料のAI MIDIメロディ生成ツールDifro 2が、モデルを一から再学習して登場した。",
+          "mini_headline": "Difro 2がAIを再学習",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
-                "cap": "2024年6月04日、ニューヨーク市でスマートフォンに表示された音楽アプリのフォトイラスト。Michael M. Santiago/Getty Images"
+                "t": "video",
+                "yt": "DY5QI4idlRU"
               },
               {
                 "t": "p",
-                "x": "Universal Music GroupとSony Musicは、DistroKidが毎月ストリーミングサービスにアップロードするAI楽曲の数を開示させるよう求める新たな訴えを起こした。Sunoとの係争において決定的な証拠になると主張している。"
+                "x": "Initial Audioは、同社史上最も強力なAI MIDIジェネレーターとうたうDifro 2を無料ダウンロードで公開した。"
               },
               {
                 "t": "p",
-                "x": "水曜日(10月14日)にマンハッタンの連邦裁判所に提出された申し立ては、先月送付した召喚状にDistroKidを従わせることを狙う。レーベル側はDistroKidを「ストリーミング市場をAI-generatedの録音物であふれさせている主要な経路の一つ」と呼び、同社が「文書を一通も提出しようとしない」と述べた。"
+                "x": "同社によると、AIモデルを一から完全に再学習させたことで、品質、音楽性、創造性が大きく飛躍したという。"
               },
               {
                 "t": "p",
-                "x": "レーベル側によれば、Sunoは「生成物がSunoのプラットフォームを離れた後、どこに配信されるかを追跡していない」が、DistroKidは「ストリーミングサービスの上流に位置する」。弁護士らは「DistroKidはAI-detectionツールでその流れを測定していると認めている」とし、「その流れが原告の録音物の市場を損なっているかどうかは、Sunoのフェアユース抗弁の核心にある問題だ」と記した。"
+                "x": "Difro 2は既存のMIDIメロディを読み込み、元の雰囲気や個性、音楽的なDNAを保ちながら新しいアイデアへと生まれ変わらせる。"
               },
               {
                 "t": "p",
-                "x": "DistroKidの広報担当者は「DistroKidは、Universal Music Group、Sony Music、Suno間で係争中の訴訟における第三者だ。当社は透明性に取り組んでおり、本件の進行に伴い法的手続きに引き続き協力する」と述べた。"
+                "x": "新機能は、完全に再学習したAIモデル、大幅に向上したMIDI生成品質、元のメロディのDNAをより忠実に保つ能力、より音楽的で一貫性のある結果、そして既存のMIDIアイデアから生まれる無限のバリエーションだ。"
+              },
+              {
+                "t": "p",
+                "x": "14分のファーストルック動画で、Initial AudioはDifro 2を実際に試し、メロディをライブで生成している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UMG与Sony就Suno\n向DistroKid施压",
-          "body": "UMG与Sony请求法院迫使DistroKid披露其每月上传至流媒体的AI歌曲数量。",
-          "mini_headline": "唱片公司瞄准DistroKid",
+          "headline": "Initial Audio\n免费发布Difro 2",
+          "body": "免费AI MIDI旋律生成器Difro 2回归，其模型已从零开始重新训练。",
+          "mini_headline": "Difro 2重新训练AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
-                "cap": "图为2024年6月04日在纽约市拍摄的手机上音乐应用的照片插图。Michael M. Santiago/Getty Images"
+                "t": "video",
+                "yt": "DY5QI4idlRU"
               },
               {
                 "t": "p",
-                "x": "Universal Music Group与Sony Music提起新的法律诉讼，要求迫使DistroKid披露其每月上传至流媒体服务的AI歌曲数量，称这是它们与Suno持续交锋中的关键证据。"
+                "x": "Initial Audio发布了Difro 2，称其为公司迄今最强大的AI MIDI生成器，并提供免费下载。"
               },
               {
                 "t": "p",
-                "x": "该申请于周三（10月14日）提交至曼哈顿联邦法院，旨在迫使DistroKid遵守上月发出的传票。唱片公司称DistroKid是“导致流媒体市场被AI-generated录音淹没的主要渠道之一”，并称其“拒绝提供任何一份文件”。"
+                "x": "该公司表示，他们从零开始彻底重新训练了AI模型，在质量、音乐性和创造力上实现了巨大飞跃。"
               },
               {
                 "t": "p",
-                "x": "他们表示，Suno“不追踪其生成内容离开Suno平台后被分发到何处”，但DistroKid“位于流媒体服务的上游”。律师写道：“DistroKid已承认使用AI-detection工具衡量这一流量。”“这一流量是否正在损害原告录音的市场，是Suno合理使用抗辩的核心问题。”"
+                "x": "Difro 2会读取你现有的MIDI旋律，在保留原有氛围、特色和音乐DNA的同时，将其重新构想为全新的创意。"
               },
               {
                 "t": "p",
-                "x": "DistroKid发言人表示：“DistroKid是Universal Music Group、Sony Music与Suno之间正在进行的诉讼中的第三方。我们致力于透明，并将在此事推进过程中继续配合法律程序。”"
+                "x": "新内容包括：彻底重新训练的AI模型、显著提升的MIDI生成质量、更好地保留原旋律的DNA、更具音乐性且更连贯的结果，以及从现有MIDI创意中衍生出的无尽新变奏。"
+              },
+              {
+                "t": "p",
+                "x": "在14分钟的首发体验视频中，Initial Audio对Difro 2进行了实测，现场生成旋律。"
               }
             ]
           }
         },
         "es": {
-          "headline": "UMG y Sony presionan a DistroKid\npor las canciones de Suno",
-          "body": "UMG y Sony pidieron a un tribunal que obligara a DistroKid a revelar cuántas canciones de AI sube cada mes.",
-          "mini_headline": "Los sellos apuntan a DistroKid",
+          "headline": "Initial Audio lanza Difro 2,\nherramienta gratuita de IA",
+          "body": "Difro 2, el generador gratuito de melodías MIDI con IA de Initial Audio, vuelve con un modelo reentrenado desde cero.",
+          "mini_headline": "Difro 2 reentrena su IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2026/03/2156022070-e1773946699305.jpg?w=1024",
-                "cap": "En esta ilustración fotográfica, aplicaciones de música en un teléfono el 04 de junio de 2024 en Nueva York. Michael M. Santiago/Getty Images"
+                "t": "video",
+                "yt": "DY5QI4idlRU"
               },
               {
                 "t": "p",
-                "x": "Universal Music Group y Sony Music presentaron una nueva acción legal para obligar a DistroKid a revelar cuántas canciones de AI sube cada mes a los servicios de streaming, con el argumento de que es una prueba crucial en su batalla en curso contra Suno."
+                "x": "Initial Audio ha lanzado Difro 2, que presenta como su generador MIDI con IA más potente hasta la fecha, como descarga gratuita."
               },
               {
                 "t": "p",
-                "x": "La petición, presentada el miércoles (14 de octubre) ante un tribunal federal de Manhattan, busca obligar a DistroKid a cumplir una citación enviada el mes pasado. Los sellos describen a DistroKid como “uno de los principales conductos por los que el mercado del streaming se está inundando de grabaciones generadas por AI (AI-generated)” y afirman que “se niega a entregar un solo documento”."
+                "x": "La compañía afirma que reentrenó por completo el modelo de IA desde cero, lo que supone un gran salto en calidad, musicalidad y creatividad."
               },
               {
                 "t": "p",
-                "x": "Suno “no rastrea dónde se distribuyen sus resultados una vez que salen de la plataforma de Suno”, dicen, pero DistroKid “está aguas arriba de los servicios de streaming”. “DistroKid ha admitido que mide ese flujo con una herramienta de detección de AI (AI-detection)”, escriben los abogados. “Si ese flujo está dañando el mercado de las grabaciones de los demandantes es una cuestión central de la defensa de uso legítimo de Suno”."
+                "x": "Difro 2 toma tus melodías MIDI existentes y las reinterpreta como ideas nuevas, conservando el ambiente, el carácter y el ADN musical originales."
               },
               {
                 "t": "p",
-                "x": "Un portavoz de DistroKid declaró: “DistroKid es un tercero en el litigio en curso entre Universal Music Group, Sony Music y Suno. Estamos comprometidos con la transparencia y seguiremos colaborando con el proceso legal a medida que avance este asunto”."
+                "x": "Novedades: un modelo de IA reentrenado por completo, una calidad de generación MIDI muy superior, mejor conservación del ADN de la melodía original, resultados más musicales y coherentes, y variaciones nuevas sin fin a partir de ideas MIDI existentes."
+              },
+              {
+                "t": "p",
+                "x": "En el vídeo de primera impresión de 14 minutos, Initial Audio pone a prueba Difro 2 generando melodías en directo."
               }
             ]
           }
@@ -757,613 +711,215 @@
       }
     },
     {
-      "id": "music-duke-spotify",
+      "id": "music-helix-stadium-stems",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Duke 연구진이 찾은\nSpotify의 AI 음악",
-      "body": "Duke 연구가 Spotify에서 AI임을 알리지 않은 아티스트 아홉을 찾았다.",
-      "mini_headline": "Spotify 속 AI 찾기",
+      "headline": "Helix 1.4 업데이트\n스템 분리 기능 추가",
+      "body": "Helix Stadium 1.4가 새 앰프·이펙트와 스템 분리 기능을 더했다.",
+      "mini_headline": "Helix, 스템 분리 지원",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/10/16/duke-sanford-study-explores-ai-music-encounters-on-spotify/",
+      "source": "Gearnews",
+      "url": "https://www.gearnews.com/line-6-releases-helix-stadium-guitar/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "“Spotify는 AI 음악에 라벨을 붙이지 않는다. 그래서 우리가 직접 찾아보기로 했다.” Duke Sanford Tech Policy Program의 새 보고서를 알리는 블로그 글의 제목이다."
-          },
-          {
-            "t": "p",
-            "x": "보고서는 “Spotify와 Apple Music 같은 주요 음악 스트리밍 플랫폼은 AI-generated 음악에 라벨을 붙이겠다고 계속 약속하면서도 여전히 아티스트의 자발적 표기에 기대고 있다”고 주장했다. “이런 라벨링 방식은 효과가 없고, 음악 산업과 창작 경제에 책임의 문화를 키우지 못한다.”"
-          },
-          {
-            "t": "p",
-            "x": "방식은 이랬다. 연구진 다섯 명이 장르를 하나씩 맡아 새 Spotify 계정을 만들고 25일 동안 플레이리스트를 들었다. 누가 봐도 ‘인간’이 아닌 아티스트를 표시해 두고 Deezer의 AI-detection 기술로 확인했다."
-          },
-          {
-            "t": "p",
-            "x": "그렇게 AI-generated로 판별된 아티스트가 아홉 팀이다. 연구진은 모두 Spotify의 개인화 플레이리스트 ‘Release Radar’에서 이들의 음악을 접했고, 프로필에서 AI 사용을 스스로 밝힌 아티스트는 한 팀도 없었다."
-          },
-          {
-            "t": "p",
-            "x": "보고서 날짜는 2026년 6월이지만, 연구진이 실제로 언제 작업했는지는 분명하지 않다. Spotify가 올해 여러 투명성 기능을 내놓았기에 시점이 중요하다. 5월에는 인간 아티스트용 ‘Verified’ 배지를, 9월에는 ‘AI Persona’ 배지를 도입했고, Spotify는 후자를 부여할 때 “자기 신고에만 의존하지 않겠다”고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "저자들은 Spotify가 해 볼 만한 합리적 조치를 몇 가지 내놓았는데, 그중 일부는 Spotify가 이미 하고 있다. Spotify는 ‘Release Radar’를 포함한 추천에서 AI-slop 트랙을 걸러낼 방법도 마련 중이라고 말한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Duke researchers detect\nAI music on Spotify",
-          "body": "A Duke Sanford study flagged nine undisclosed AI artists that its researchers met on Spotify's Release Radar.",
-          "mini_headline": "Detecting AI on Spotify",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "“Spotify won’t label AI music. We tried to detect it ourselves,” is the headline of a blog post announcing a new report from the Duke Sanford Tech Policy Program."
-              },
-              {
-                "t": "p",
-                "x": "“Dominant music streaming platforms, like Spotify and Apple Music, continue to make promises of labels for AI-generated music, yet still rely on voluntary labels from the artist,” it claimed. “This approach to labeling is ineffective and does not promote a culture of accountability in the music industry or creative economy.”"
-              },
-              {
-                "t": "p",
-                "x": "It was based on five researchers each creating new Spotify accounts focused on a different genre, listening to playlists for 25 days and flagging any artist that wasn’t obviously ‘human’ – then using Deezer’s AI-detection tech to check for sure."
-              },
-              {
-                "t": "p",
-                "x": "This process led to nine artists being identified as AI-generated. In each case, the researchers had encountered their music through Spotify’s ‘Release Radar’ personalised playlist, and none of the artists had self-disclosed their use of AI in their profiles."
-              },
-              {
-                "t": "p",
-                "x": "The study is dated June 2026, but it’s unclear when the researchers actually did the work. That’s important, because Spotify has launched several transparency features this year: including a ‘Verified’ badge for human artists in May and an ‘AI Persona’ badge in September – with Spotify saying it “won’t rely on self-disclosure alone” to assign the latter."
-              },
-              {
-                "t": "p",
-                "x": "The study’s authors identified some sensible measures Spotify could take, but it has already been rolling some of those out – and says it is working on ways to keep AI-slop tracks out of recommendations, ‘Release Radar’ included."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Duke 연구진이 찾은\nSpotify의 AI 음악",
-          "body": "Duke 연구가 Spotify에서 AI임을 알리지 않은 아티스트 아홉을 찾았다.",
-          "mini_headline": "Spotify 속 AI 찾기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "“Spotify는 AI 음악에 라벨을 붙이지 않는다. 그래서 우리가 직접 찾아보기로 했다.” Duke Sanford Tech Policy Program의 새 보고서를 알리는 블로그 글의 제목이다."
-              },
-              {
-                "t": "p",
-                "x": "보고서는 “Spotify와 Apple Music 같은 주요 음악 스트리밍 플랫폼은 AI-generated 음악에 라벨을 붙이겠다고 계속 약속하면서도 여전히 아티스트의 자발적 표기에 기대고 있다”고 주장했다. “이런 라벨링 방식은 효과가 없고, 음악 산업과 창작 경제에 책임의 문화를 키우지 못한다.”"
-              },
-              {
-                "t": "p",
-                "x": "방식은 이랬다. 연구진 다섯 명이 장르를 하나씩 맡아 새 Spotify 계정을 만들고 25일 동안 플레이리스트를 들었다. 누가 봐도 ‘인간’이 아닌 아티스트를 표시해 두고 Deezer의 AI-detection 기술로 확인했다."
-              },
-              {
-                "t": "p",
-                "x": "그렇게 AI-generated로 판별된 아티스트가 아홉 팀이다. 연구진은 모두 Spotify의 개인화 플레이리스트 ‘Release Radar’에서 이들의 음악을 접했고, 프로필에서 AI 사용을 스스로 밝힌 아티스트는 한 팀도 없었다."
-              },
-              {
-                "t": "p",
-                "x": "보고서 날짜는 2026년 6월이지만, 연구진이 실제로 언제 작업했는지는 분명하지 않다. Spotify가 올해 여러 투명성 기능을 내놓았기에 시점이 중요하다. 5월에는 인간 아티스트용 ‘Verified’ 배지를, 9월에는 ‘AI Persona’ 배지를 도입했고, Spotify는 후자를 부여할 때 “자기 신고에만 의존하지 않겠다”고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 Spotify가 해 볼 만한 합리적 조치를 몇 가지 내놓았는데, 그중 일부는 Spotify가 이미 하고 있다. Spotify는 ‘Release Radar’를 포함한 추천에서 AI-slop 트랙을 걸러낼 방법도 마련 중이라고 말한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Duke研究者が\nSpotifyでAI音楽検出",
-          "body": "Duke研究がSpotifyでAIと明かさない九組のアーティストを特定した。",
-          "mini_headline": "Spotify上のAIを検出",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "「SpotifyはAI音楽にラベルを付けない。だから自分たちで検出を試みた」。これはDuke Sanford Tech Policy Programの新しい報告書を告知するブログ記事の見出しである。"
-              },
-              {
-                "t": "p",
-                "x": "報告書は「SpotifyやApple Musicなどの主要な音楽ストリーミングプラットフォームは、AI-generatedの音楽にラベルを付けると約束し続けながら、依然としてアーティストの自主的な表示に頼っている」と主張した。「このラベリング手法は効果がなく、音楽業界やクリエイティブ経済に説明責任の文化を育てない」。"
-              },
-              {
-                "t": "p",
-                "x": "調査は、五人の研究者がそれぞれ異なるジャンルに絞った新しいSpotifyアカウントを作り、25日間プレイリストを聴いて、明らかに「人間」ではないアーティストを洗い出し、DeezerのAI-detection技術で確認するというものだった。"
-              },
-              {
-                "t": "p",
-                "x": "その結果、九組のアーティストがAI-generatedと判定された。研究者はいずれもSpotifyのパーソナライズされたプレイリスト「Release Radar」でその音楽に出会っており、プロフィールでAI使用を自ら明かしたアーティストは一組もいなかった。"
-              },
-              {
-                "t": "p",
-                "x": "報告書の日付は2026年6月だが、実際にいつ調査が行われたかは不明だ。これが重要なのは、Spotifyが今年いくつもの透明性機能を導入しているからだ。5月には人間のアーティスト向けの「Verified」バッジを、9月には「AI Persona」バッジを開始し、後者の付与については「自己申告だけには頼らない」としている。"
-              },
-              {
-                "t": "p",
-                "x": "報告書の著者らはSpotifyが取り得る妥当な対策をいくつか挙げたが、同社はすでにその一部を展開しており、「Release Radar」を含むおすすめからAI-slopトラックを排除する方法にも取り組んでいるという。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Duke研究者揪出\nSpotify上的AI音乐",
-          "body": "Duke Sanford研究在Spotify上揪出九位未披露AI身份的艺人。",
-          "mini_headline": "检测Spotify上的AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "“Spotify不给AI音乐贴标签，我们试着自己检测。”这是Duke Sanford Tech Policy Program宣布一份新报告的博客文章标题。"
-              },
-              {
-                "t": "p",
-                "x": "文章称：“Spotify和Apple Music等主流音乐流媒体平台不断承诺为AI-generated音乐加标签，却仍依赖艺人的自愿标注。”“这种标注方式无效，也无助于在音乐产业或创意经济中培养问责文化。”"
-              },
-              {
-                "t": "p",
-                "x": "研究由五名研究人员各自创建专注不同曲风的新Spotify账号，连续25天收听播放列表，标记任何明显不像“人类”的艺人，再用Deezer的AI-detection技术加以确认。"
-              },
-              {
-                "t": "p",
-                "x": "通过这一流程，共有九位艺人被认定为AI-generated。研究人员都是通过Spotify的个性化播放列表“Release Radar”接触到这些音乐的，而且没有一位艺人在个人资料中主动披露使用了AI。"
-              },
-              {
-                "t": "p",
-                "x": "该研究注明的日期为2026年6月，但研究人员实际何时开展工作尚不清楚。这一点很重要，因为Spotify今年推出了多项透明度功能：5月为人类艺人推出“Verified”徽章，9月推出“AI Persona”徽章，Spotify表示授予后者时“不会只依赖自我披露”。"
-              },
-              {
-                "t": "p",
-                "x": "研究作者提出了Spotify可以采取的一些合理措施，但Spotify已在推行其中部分措施，并表示正在想办法将AI-slop曲目挡在推荐之外，包括“Release Radar”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Investigadores de Duke detectan\nmúsica de AI en Spotify",
-          "body": "Un estudio de Duke Sanford halló en Release Radar de Spotify nueve artistas de AI que no lo declaraban.",
-          "mini_headline": "Detectar AI en Spotify",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "“Spotify no etiqueta la música de AI. Intentamos detectarla nosotros mismos” es el titular de una entrada de blog que anuncia un nuevo informe del Duke Sanford Tech Policy Program."
-              },
-              {
-                "t": "p",
-                "x": "“Las plataformas dominantes de streaming musical, como Spotify y Apple Music, siguen prometiendo etiquetas para la música generada por AI (AI-generated), pero aún dependen de etiquetas voluntarias del artista”, afirmó. “Este enfoque de etiquetado es ineficaz y no fomenta una cultura de rendición de cuentas en la industria musical ni en la economía creativa”."
-              },
-              {
-                "t": "p",
-                "x": "El trabajo consistió en que cinco investigadores crearan cada uno una nueva cuenta de Spotify centrada en un género distinto, escucharan playlists durante 25 días y señalaran a cualquier artista que no fuera claramente ‘humano’, para luego confirmarlo con la tecnología de detección de AI (AI-detection) de Deezer."
-              },
-              {
-                "t": "p",
-                "x": "Así se identificó a nueve artistas como generados por AI (AI-generated). En todos los casos, los investigadores habían dado con su música a través de la playlist personalizada ‘Release Radar’ de Spotify, y ninguno de los artistas había declarado en su perfil el uso de AI."
-              },
-              {
-                "t": "p",
-                "x": "El estudio está fechado en junio de 2026, pero no está claro cuándo hicieron el trabajo los investigadores. Eso importa, porque Spotify ha lanzado este año varias funciones de transparencia: una insignia ‘Verified’ para artistas humanos en mayo y una insignia ‘AI Persona’ en septiembre, y Spotify asegura que “no dependerá solo de la autodeclaración” para asignar esta última."
-              },
-              {
-                "t": "p",
-                "x": "Los autores del estudio señalaron algunas medidas sensatas que Spotify podría tomar, pero la compañía ya ha empezado a aplicar algunas, y dice que trabaja en formas de mantener las pistas de baja calidad hechas con AI (AI-slop) fuera de las recomendaciones, incluido ‘Release Radar’."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Duke 연구진이 찾은\nSpotify의 AI 음악",
-          "body": "Duke 연구가 Spotify에서 AI임을 알리지 않은 아티스트 아홉을 찾았다.",
-          "mini_headline": "Spotify 속 AI 찾기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "“Spotify는 AI 음악에 라벨을 붙이지 않는다. 그래서 우리가 직접 찾아보기로 했다.” Duke Sanford Tech Policy Program의 새 보고서를 알리는 블로그 글의 제목이다."
-              },
-              {
-                "t": "p",
-                "x": "보고서는 “Spotify와 Apple Music 같은 주요 음악 스트리밍 플랫폼은 AI-generated 음악에 라벨을 붙이겠다고 계속 약속하면서도 여전히 아티스트의 자발적 표기에 기대고 있다”고 주장했다. “이런 라벨링 방식은 효과가 없고, 음악 산업과 창작 경제에 책임의 문화를 키우지 못한다.”"
-              },
-              {
-                "t": "p",
-                "x": "연구진 다섯 명이 각자 다른 장르에 맞춘 새 Spotify 계정을 만들어 25일 동안 플레이리스트를 듣고, 누가 봐도 ‘인간’이 아닌 아티스트를 표시한 뒤 Deezer의 AI-detection 기술로 확인하는 방식이었다."
-              },
-              {
-                "t": "p",
-                "x": "이 과정에서 아티스트 아홉 팀이 AI-generated로 판별됐다. 연구진은 모두 Spotify의 개인화 플레이리스트 ‘Release Radar’에서 이들의 음악을 접했고, 프로필에서 AI 사용을 스스로 밝힌 아티스트는 한 팀도 없었다."
-              },
-              {
-                "t": "p",
-                "x": "보고서 날짜는 2026년 6월이지만, 연구진이 실제로 언제 작업했는지는 분명하지 않다. 이 점이 중요한 이유는 Spotify가 올해 여러 투명성 기능을 내놓았기 때문이다. 5월에는 인간 아티스트용 ‘Verified’ 배지를, 9월에는 ‘AI Persona’ 배지를 도입했고, Spotify는 후자를 부여할 때 “자기 신고에만 의존하지 않겠다”고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "보고서 저자들은 Spotify가 취할 만한 합리적 조치를 몇 가지 제시했지만, Spotify는 그중 일부를 이미 시행하고 있다. 또 ‘Release Radar’를 포함한 추천에서 AI-slop 트랙을 걸러낼 방법도 마련하고 있다고 말한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Duke研究者が\nSpotifyでAI音楽検出",
-          "body": "Duke研究がSpotifyでAIと明かさない九組のアーティストを特定した。",
-          "mini_headline": "Spotify上のAIを検出",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "「SpotifyはAI音楽にラベルを付けない。だから自分たちで検出を試みた」。これはDuke Sanford Tech Policy Programの新しい報告書を告知するブログ記事の見出しである。"
-              },
-              {
-                "t": "p",
-                "x": "報告書は「SpotifyやApple Musicなどの主要な音楽ストリーミングプラットフォームは、AI-generatedの音楽にラベルを付けると約束し続けながら、依然としてアーティストの自主的な表示に頼っている」と主張した。「このラベリング手法は効果がなく、音楽業界やクリエイティブ経済に説明責任の文化を育てない」。"
-              },
-              {
-                "t": "p",
-                "x": "調査は、五人の研究者がそれぞれ異なるジャンルに絞った新しいSpotifyアカウントを作り、25日間プレイリストを聴いて、明らかに「人間」ではないアーティストを洗い出し、DeezerのAI-detection技術で確認するというものだった。"
-              },
-              {
-                "t": "p",
-                "x": "その結果、九組のアーティストがAI-generatedと判定された。研究者はいずれもSpotifyのパーソナライズされたプレイリスト「Release Radar」でその音楽に出会っており、プロフィールでAI使用を自ら明かしたアーティストは一組もいなかった。"
-              },
-              {
-                "t": "p",
-                "x": "報告書の日付は2026年6月だが、実際にいつ調査が行われたかは不明だ。これが重要なのは、Spotifyが今年いくつもの透明性機能を導入しているからだ。5月には人間のアーティスト向けの「Verified」バッジを、9月には「AI Persona」バッジを開始し、後者の付与については「自己申告だけには頼らない」としている。"
-              },
-              {
-                "t": "p",
-                "x": "報告書の著者らはSpotifyが取り得る妥当な対策をいくつか挙げたが、同社はすでにその一部を展開しており、「Release Radar」を含むおすすめからAI-slopトラックを排除する方法にも取り組んでいるという。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Duke研究者揪出\nSpotify上的AI音乐",
-          "body": "Duke Sanford研究在Spotify上揪出九位未披露AI身份的艺人。",
-          "mini_headline": "检测Spotify上的AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "“Spotify不给AI音乐贴标签，我们试着自己检测。”这是Duke Sanford Tech Policy Program宣布一份新报告的博客文章标题。"
-              },
-              {
-                "t": "p",
-                "x": "文章称：“Spotify和Apple Music等主流音乐流媒体平台不断承诺为AI-generated音乐加标签，却仍依赖艺人的自愿标注。”“这种标注方式无效，也无助于在音乐产业或创意经济中培养问责文化。”"
-              },
-              {
-                "t": "p",
-                "x": "研究由五名研究人员各自创建专注不同曲风的新Spotify账号，连续25天收听播放列表，标记任何明显不像“人类”的艺人，再用Deezer的AI-detection技术加以确认。"
-              },
-              {
-                "t": "p",
-                "x": "通过这一流程，共有九位艺人被认定为AI-generated。研究人员都是通过Spotify的个性化播放列表“Release Radar”接触到这些音乐的，而且没有一位艺人在个人资料中主动披露使用了AI。"
-              },
-              {
-                "t": "p",
-                "x": "该研究注明的日期为2026年6月，但研究人员实际何时开展工作尚不清楚。这一点很重要，因为Spotify今年推出了多项透明度功能：5月为人类艺人推出“Verified”徽章，9月推出“AI Persona”徽章，Spotify表示授予后者时“不会只依赖自我披露”。"
-              },
-              {
-                "t": "p",
-                "x": "研究作者提出了Spotify可以采取的一些合理措施，但Spotify已在推行其中部分措施，并表示正在想办法将AI-slop曲目挡在推荐之外，包括“Release Radar”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Investigadores de Duke detectan\nmúsica de AI en Spotify",
-          "body": "Un estudio de Duke Sanford halló en Release Radar de Spotify nueve artistas de AI que no lo declaraban.",
-          "mini_headline": "Detectar AI en Spotify",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "“Spotify no etiqueta la música de AI. Intentamos detectarla nosotros mismos” es el titular de una entrada de blog que anuncia un nuevo informe del Duke Sanford Tech Policy Program."
-              },
-              {
-                "t": "p",
-                "x": "“Las plataformas dominantes de streaming musical, como Spotify y Apple Music, siguen prometiendo etiquetas para la música generada por AI (AI-generated), pero aún dependen de etiquetas voluntarias del artista”, afirmó. “Este enfoque de etiquetado es ineficaz y no fomenta una cultura de rendición de cuentas en la industria musical ni en la economía creativa”."
-              },
-              {
-                "t": "p",
-                "x": "El trabajo consistió en que cinco investigadores crearan cada uno una nueva cuenta de Spotify centrada en un género distinto, escucharan playlists durante 25 días y señalaran a cualquier artista que no fuera claramente ‘humano’, para luego confirmarlo con la tecnología de detección de AI (AI-detection) de Deezer."
-              },
-              {
-                "t": "p",
-                "x": "Así se identificó a nueve artistas como generados por AI (AI-generated). En todos los casos, los investigadores habían dado con su música a través de la playlist personalizada ‘Release Radar’ de Spotify, y ninguno de los artistas había declarado en su perfil el uso de AI."
-              },
-              {
-                "t": "p",
-                "x": "El estudio está fechado en junio de 2026, pero no está claro cuándo hicieron el trabajo los investigadores. Eso importa, porque Spotify ha lanzado este año varias funciones de transparencia: una insignia ‘Verified’ para artistas humanos en mayo y una insignia ‘AI Persona’ en septiembre, y Spotify asegura que “no dependerá solo de la autodeclaración” para asignar esta última."
-              },
-              {
-                "t": "p",
-                "x": "Los autores del estudio señalaron algunas medidas sensatas que Spotify podría tomar, pero la compañía ya ha empezado a aplicar algunas, y dice que trabaja en formas de mantener las pistas de baja calidad hechas con AI (AI-slop) fuera de las recomendaciones, incluido ‘Release Radar’."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "music-spotify-ai-badge",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Spotify, AI 표시\nBureau 보도 뒤 도입",
-      "body": "TBIJ 질의 엿새 만의 AI Persona 배지가 Danny Bones에 붙었다.",
-      "mini_headline": "Spotify, AI 아티스트 표시",
-      "tool": "Music",
-      "source": "The Bureau of Investigative Journalism",
-      "url": "https://www.thebureauinvestigates.com/stories/2026-10-15/spotify-ai-artist-badge-global-policy-after-bureau-investigation",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
             "t": "img",
-            "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
+            "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
           },
           {
             "t": "p",
-            "x": "Spotify가 합성 아티스트에 라벨을 붙이기 시작했다. 스트리밍 1백만 회를 넘긴 극우 AI 래퍼 Danny Bones를 우리가 보도한 뒤다."
+            "x": "Line 6 Helix Stadium의 새 펌웨어 업데이트에는 눈길을 끄는 앰프와 이펙트, 스템 분리 기능이 새로 들어갔다."
           },
           {
             "t": "p",
-            "x": "이 스트리밍 대기업이 새 “AI Persona” 배지를 발표한 건 8월이다. 합성 아티스트가 왜 지어낸 정체성을 밝히지 않아도 되는지 우리가 회사에 질의한 지 엿새 뒤였다. 배지는 지난 몇 주에 걸쳐 차례로 붙었고, 지금 라벨이 눈에 띄게 붙은 아티스트 가운데 Bones도 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
-          },
-          {
-            "t": "p",
-            "x": "청취자가 Spotify에서 해당 아티스트를 이미 팔로하거나 접한 적이 없다면, AI 페르소나의 음악은 에디토리얼 추천과 개인화 추천에도 뜨지 않는다."
+            "x": "펌웨어 업데이트 1.4(“The Eras Update”)는 무료이며, 서로 다른 6개 앰프에서 가져온 Agoura 앰프 채널 설정 14개를 더해 Agoura 채널은 모두 67개로 늘었다. 새로 추가된 것은 Marshall Plexi Superlead의 여러 버전을 모델링한 Brit SL100, Granophyre 6L6 기반의 Omega Granophyre, Line 6 Litigator의 최신 진화형인 Prosecutor다."
           },
           {
             "t": "video",
-            "yt": "5hVInGPwQLs"
+            "yt": "StAMPE_XF1M"
           },
           {
             "t": "p",
-            "x": "음악 자체가 AI-generated인지는 배지로 알 수 없다. 아티스트는 AI 페르소나 라벨 없이도 AI-generated 보컬이나 반주, 다른 도구를 쓸 수 있고, AI 크레디트 시스템은 따로 있지만 일부 유통사와 아직 베타로 시험 중이다."
+            "x": "새로운 디스토션·모듈레이션 이펙트 6종과 기존 Agoura 앰프 모델 개선도 들어갔고 USB로 연결하면 Helix Stadium 앱에서 편집할 수 있다. Yamaha의 Music Connect를 쓰면 오디오 파일을 Helix Stadium의 Showcase 엔진으로 불러와 드럼, 베이스, 기타, 보컬, 그 외의 다섯 개 파일로 분리할 수 있다."
           },
           {
             "t": "p",
-            "x": "Manchester에서 활동하는 아티스트 J.Chambers는 “Spotify가 AI-generated 아티스트 정체성이 심각한 문제를 낳는다는 점을 인정해 기쁘지만, 프로필에 라벨을 달거나 크레디트에 AI 정보를 넣는 것으로는 충분하지 않다고 본다”고 말했다."
+            "x": "업데이트는 Line 6 Account를 이용해 Wi-Fi로 설치하거나, Helix Stadium 앱에서 USB로 직접 설치하면 된다."
           }
         ]
       },
+      "_lead_image": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg",
+      "_video": "StAMPE_XF1M",
       "text": {
         "en": {
-          "headline": "Spotify labels AI artists\nafter Bureau investigation",
-          "body": "Spotify's AI Persona badge, announced six days after TBIJ questioned its policy, now labels rapper Danny Bones.",
-          "mini_headline": "Spotify tags AI artists",
+          "headline": "Line 6 Helix Stadium 1.4\nadds stem separation",
+          "body": "Helix Stadium firmware 1.4 adds new amps and effects plus stem separation that splits audio into five stems.",
+          "mini_headline": "Helix gets stem separation",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotify is now labelling synthetic artists after our reporting into the far-right, AI rapper Danny Bones, who has racked up over 1 million streams."
+                "x": "The new firmware update for the Line 6 Helix Stadium includes a range of tasty new amps and effects, as well as a new stem separation feature."
               },
               {
                 "t": "p",
-                "x": "The streaming giant announced its new “AI Persona” badge in August, six days after we asked the company why synthetic artists weren’t required to disclose their invented identities. The badges have been rolling out over the last few weeks, with Bones among the artists now visibly labelled."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
-              },
-              {
-                "t": "p",
-                "x": "Music from AI personas is also excluded from editorial and personalised recommendations unless listeners have already followed or engaged with an artist on Spotify."
+                "x": "Firmware Update 1.4 (“The Eras Update”) is free and brings 14 Agoura amp channel settings derived from six different amps, for a total of 67 Agoura channels. New options include the Brit SL100, modeled on versions of the Marshall Plexi Superlead, the Omega Granophyre, based on the Granophyre 6L6, and the Prosecutor, the latest evolution of the Line 6 Litigator."
               },
               {
                 "t": "video",
-                "yt": "5hVInGPwQLs"
+                "yt": "StAMPE_XF1M"
               },
               {
                 "t": "p",
-                "x": "The badge says nothing about whether the music itself is AI-generated. Artists can use AI-generated vocals, instrumentals or other tools without being labelled an AI persona; a separate AI credits system is still in beta with select distributors."
+                "x": "There are also six new distortion and modulation effects, enhancements for current Agoura amp models, and you can edit with the Helix Stadium app when connected via USB. With the help of Yamaha’s Music Connect, you can now import an audio file into the Helix Stadium’s Showcase engine and split it into five separate files: drums, bass, guitar, vocals, and other."
               },
               {
                 "t": "p",
-                "x": "J.Chambers, a Manchester-based artist, said: “I’m glad Spotify is acknowledging that AI-generated artist identities raise serious questions, but I don’t think labelling profiles or adding AI information to credits goes far enough.”"
+                "x": "The update installs via Wi-Fi using a Line 6 Account or manually via USB with the Helix Stadium app."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Spotify, AI 표시\nBureau 보도 뒤 도입",
-          "body": "TBIJ 질의 엿새 만의 AI Persona 배지가 Danny Bones에 붙었다.",
-          "mini_headline": "Spotify, AI 아티스트 표시",
+          "headline": "Helix 1.4 업데이트\n스템 분리 기능 추가",
+          "body": "Helix Stadium 1.4가 새 앰프·이펙트와 스템 분리 기능을 더했다.",
+          "mini_headline": "Helix, 스템 분리 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotify가 합성 아티스트에 라벨을 붙이기 시작했다. 스트리밍 1백만 회를 넘긴 극우 AI 래퍼 Danny Bones를 우리가 보도한 뒤다."
+                "x": "Line 6 Helix Stadium의 새 펌웨어 업데이트에는 눈길을 끄는 앰프와 이펙트, 스템 분리 기능이 새로 들어갔다."
               },
               {
                 "t": "p",
-                "x": "이 스트리밍 대기업이 새 “AI Persona” 배지를 발표한 건 8월이다. 합성 아티스트가 왜 지어낸 정체성을 밝히지 않아도 되는지 우리가 회사에 질의한 지 엿새 뒤였다. 배지는 지난 몇 주에 걸쳐 차례로 붙었고, 지금 라벨이 눈에 띄게 붙은 아티스트 가운데 Bones도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
-              },
-              {
-                "t": "p",
-                "x": "청취자가 Spotify에서 해당 아티스트를 이미 팔로하거나 접한 적이 없다면, AI 페르소나의 음악은 에디토리얼 추천과 개인화 추천에도 뜨지 않는다."
+                "x": "펌웨어 업데이트 1.4(“The Eras Update”)는 무료이며, 서로 다른 6개 앰프에서 가져온 Agoura 앰프 채널 설정 14개를 더해 Agoura 채널은 모두 67개로 늘었다. 새로 추가된 것은 Marshall Plexi Superlead의 여러 버전을 모델링한 Brit SL100, Granophyre 6L6 기반의 Omega Granophyre, Line 6 Litigator의 최신 진화형인 Prosecutor다."
               },
               {
                 "t": "video",
-                "yt": "5hVInGPwQLs"
+                "yt": "StAMPE_XF1M"
               },
               {
                 "t": "p",
-                "x": "음악 자체가 AI-generated인지는 배지로 알 수 없다. 아티스트는 AI 페르소나 라벨 없이도 AI-generated 보컬이나 반주, 다른 도구를 쓸 수 있고, AI 크레디트 시스템은 따로 있지만 일부 유통사와 아직 베타로 시험 중이다."
+                "x": "새로운 디스토션·모듈레이션 이펙트 6종과 기존 Agoura 앰프 모델 개선도 들어갔고 USB로 연결하면 Helix Stadium 앱에서 편집할 수 있다. Yamaha의 Music Connect를 쓰면 오디오 파일을 Helix Stadium의 Showcase 엔진으로 불러와 드럼, 베이스, 기타, 보컬, 그 외의 다섯 개 파일로 분리할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Manchester에서 활동하는 아티스트 J.Chambers는 “Spotify가 AI-generated 아티스트 정체성이 심각한 문제를 낳는다는 점을 인정해 기쁘지만, 프로필에 라벨을 달거나 크레디트에 AI 정보를 넣는 것으로는 충분하지 않다고 본다”고 말했다."
+                "x": "업데이트는 Line 6 Account를 이용해 Wi-Fi로 설치하거나, Helix Stadium 앱에서 USB로 직접 설치하면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SpotifyがAI表示\nBureauの調査受け導入",
-          "body": "TBIJの質問の六日後に出たAI PersonaバッジがDanny Bonesに付いた。",
-          "mini_headline": "SpotifyがAIアーティストを表示",
+          "headline": "Helix Stadium\n1.4でステム分離に対応",
+          "body": "Helix Stadium 1.4は新アンプやエフェクトとステム分離を追加した。",
+          "mini_headline": "Helixがステム分離に対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotifyは、1百万回超の再生を記録した極右のAIラッパーDanny Bonesに関する我々の報道を受け、合成アーティストへのラベル付けを始めた。"
+                "x": "Line 6 Helix Stadiumの新しいファームウェアアップデートには、魅力的な新アンプやエフェクトに加え、新たなステム分離機能が含まれる。"
               },
               {
                 "t": "p",
-                "x": "この大手ストリーミング企業は8月、新たな「AI Persona」バッジを発表した。合成アーティストがなぜ作られたアイデンティティを開示しなくてよいのか、我々が同社に問い合わせてから六日後のことだ。バッジはここ数週間で順次導入され、Bonesも現在はっきりとラベルが表示されたアーティストの一人となっている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
-              },
-              {
-                "t": "p",
-                "x": "AIペルソナの音楽は、リスナーがSpotify上ですでにそのアーティストをフォローしたり聴いたりしていない限り、編集部のおすすめやパーソナライズされたおすすめからも除外される。"
+                "x": "ファームウェアアップデート1.4（“The Eras Update”）は無料で、6種類のアンプに由来する14のAgouraアンプチャンネル設定を追加し、Agouraチャンネルは合計67になる。新たな選択肢には、Marshall Plexi Superleadの各バージョンをモデルにしたBrit SL100、Granophyre 6L6をベースにしたOmega Granophyre、そしてLine 6 Litigatorの最新進化形であるProsecutorがある。"
               },
               {
                 "t": "video",
-                "yt": "5hVInGPwQLs"
+                "yt": "StAMPE_XF1M"
               },
               {
                 "t": "p",
-                "x": "このバッジは、音楽そのものがAI-generatedかどうかについては何も示さない。アーティストはAIペルソナと表示されることなく、AI-generatedのボーカルや演奏、その他のツールを使うことができる。別のAIクレジット制度は、一部の配信事業者とともにまだベータ段階にある。"
+                "x": "さらに6種類の新しいディストーションとモジュレーションのエフェクト、既存のAgouraアンプモデルの強化が加わり、USB接続時にはHelix Stadiumアプリで編集できる。YamahaのMusic Connectにより、オーディオファイルをHelix StadiumのShowcaseエンジンに読み込み、ドラム、ベース、ギター、ボーカル、その他の5つのファイルに分離できるようになった。"
               },
               {
                 "t": "p",
-                "x": "Manchesterを拠点とするアーティスト、J.Chambersは「AI-generatedのアーティストのアイデンティティが深刻な問題を提起していることをSpotifyが認めているのはうれしいが、プロフィールにラベルを付けたり、クレジットにAI情報を加えたりするだけでは不十分だと思う」と語った。"
+                "x": "アップデートは、Line 6 Accountを使ったWi-Fi経由、またはHelix Stadiumアプリを使ったUSB経由の手動でインストールできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Spotify为AI艺人贴标\nBureau调查之后",
-          "body": "TBIJ质询六天后推出的AI Persona徽章，已标注说唱歌手Danny Bones。",
-          "mini_headline": "Spotify标注AI艺人",
+          "headline": "Helix Stadium\n1.4新增分轨分离",
+          "body": "Helix Stadium固件1.4新增放大器和效果器，并可将音频分离为五条分轨。",
+          "mini_headline": "Helix新增分轨分离",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
               },
               {
                 "t": "p",
-                "x": "在我们报道了播放量超过1百万次的极右翼AI说唱歌手Danny Bones之后，Spotify开始为合成艺人贴上标签。"
+                "x": "Line 6 Helix Stadium的新固件更新带来了一系列诱人的新放大器和效果器，以及全新的分轨分离功能。"
               },
               {
                 "t": "p",
-                "x": "这家流媒体巨头在8月宣布推出新的“AI Persona”徽章，距我们询问该公司为何不要求合成艺人披露其虚构身份仅六天。过去几周徽章陆续上线，Bones也是如今被明显标注的艺人之一。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
-              },
-              {
-                "t": "p",
-                "x": "除非听众已在Spotify上关注过该艺人或与其有过互动，否则AI人设艺人的音乐也会被排除在编辑推荐和个性化推荐之外。"
+                "x": "固件更新1.4（“The Eras Update”）免费提供，新增14个Agoura放大器通道设置，源自六款不同的放大器，使Agoura通道总数达到67个。新选项包括以Marshall Plexi Superlead多个版本为原型的Brit SL100、基于Granophyre 6L6的Omega Granophyre，以及Line 6 Litigator的最新进化版Prosecutor。"
               },
               {
                 "t": "video",
-                "yt": "5hVInGPwQLs"
+                "yt": "StAMPE_XF1M"
               },
               {
                 "t": "p",
-                "x": "该徽章并不说明音乐本身是否为AI-generated。艺人可以使用AI-generated的人声、伴奏或其他工具，而不会被标注为AI人设；另一套AI署名系统仍在与部分发行商进行beta测试。"
+                "x": "此外还有六款新的失真和调制效果器、对现有Agoura放大器型号的增强，并且通过USB连接时可以用Helix Stadium应用进行编辑。借助Yamaha的Music Connect，现在可以将音频文件导入Helix Stadium的Showcase引擎，并拆分为鼓、贝斯、吉他、人声和其他五个独立文件。"
               },
               {
                 "t": "p",
-                "x": "Manchester的艺人J.Chambers说：“我很高兴Spotify承认AI-generated的艺人身份引发了严重问题，但我认为给个人资料加标签或在署名中加入AI信息还远远不够。”"
+                "x": "更新可通过Line 6 Account经Wi-Fi安装，也可以使用Helix Stadium应用通过USB手动安装。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Spotify marca a artistas de AI\ntras la investigación del Bureau",
-          "body": "La insignia AI Persona de Spotify, anunciada seis días después de la consulta de TBIJ, ya marca al rapero Danny Bones.",
-          "mini_headline": "Spotify marca a artistas de AI",
+          "headline": "Line 6 Helix Stadium 1.4\nañade separación de stems",
+          "body": "El firmware 1.4 de Helix Stadium añade nuevos amplificadores y efectos, además de separar el audio en cinco stems.",
+          "mini_headline": "Helix suma separación de stems",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotify ya etiqueta a los artistas sintéticos tras nuestra investigación sobre Danny Bones, rapero de AI de extrema derecha que acumula más de 1 millón de reproducciones."
+                "x": "La nueva actualización de firmware del Line 6 Helix Stadium incluye una serie de atractivos amplificadores y efectos nuevos, además de una nueva función de separación de stems."
               },
               {
                 "t": "p",
-                "x": "El gigante del streaming anunció su nueva insignia “AI Persona” en agosto, seis días después de que preguntáramos a la empresa por qué los artistas sintéticos no estaban obligados a revelar sus identidades inventadas. Las insignias se han ido desplegando en las últimas semanas, y Bones figura entre los artistas que ya aparecen etiquetados."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
-              },
-              {
-                "t": "p",
-                "x": "La música de personas de AI también queda excluida de las recomendaciones editoriales y personalizadas, salvo que los oyentes ya sigan al artista o hayan interactuado con él en Spotify."
+                "x": "La actualización de firmware 1.4 (“The Eras Update”) es gratuita y aporta 14 ajustes de canal de amplificador Agoura derivados de seis amplificadores distintos, hasta un total de 67 canales Agoura. Entre las nuevas opciones figuran el Brit SL100, modelado a partir de versiones del Marshall Plexi Superlead; el Omega Granophyre, basado en el Granophyre 6L6, y el Prosecutor, la última evolución del Line 6 Litigator."
               },
               {
                 "t": "video",
-                "yt": "5hVInGPwQLs"
+                "yt": "StAMPE_XF1M"
               },
               {
                 "t": "p",
-                "x": "La insignia no dice nada sobre si la música en sí está generada por AI (AI-generated). Los artistas pueden usar voces, instrumentales u otras herramientas generadas por AI sin ser etiquetados como persona de AI; un sistema aparte de créditos de AI sigue en beta con algunos distribuidores."
+                "x": "También hay seis nuevos efectos de distorsión y modulación, mejoras para los modelos de amplificador Agoura actuales, y es posible editar con la app Helix Stadium al conectarlo por USB. Con la ayuda de Music Connect de Yamaha, ahora se puede importar un archivo de audio al motor Showcase del Helix Stadium y dividirlo en cinco archivos independientes: batería, bajo, guitarra, voz y otros."
               },
               {
                 "t": "p",
-                "x": "J.Chambers, artista de Manchester, dijo: “Me alegra que Spotify reconozca que las identidades de artistas generadas por AI (AI-generated) plantean serias dudas, pero no creo que etiquetar perfiles o añadir información de AI a los créditos sea suficiente”."
+                "x": "La actualización se instala por Wi-Fi con una Line 6 Account o manualmente por USB con la app Helix Stadium."
               }
             ]
           }
@@ -1371,169 +927,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Spotify, AI 표시\nBureau 보도 뒤 도입",
-          "body": "TBIJ 질의 엿새 만의 AI Persona 배지가 Danny Bones에 붙었다.",
-          "mini_headline": "Spotify, AI 아티스트 표시",
+          "headline": "Helix 1.4 업데이트\n스템 분리 기능 추가",
+          "body": "Helix Stadium 1.4가 새 앰프·이펙트와 스템 분리 기능을 더했다.",
+          "mini_headline": "Helix, 스템 분리 지원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotify가 합성 아티스트에 라벨을 붙이기 시작했다. 스트리밍 1백만 회를 넘긴 극우 AI 래퍼 Danny Bones에 대한 우리의 보도 이후다."
+                "x": "Line 6 Helix Stadium의 새 펌웨어 업데이트에는 매력적인 새 앰프와 이펙트, 그리고 새로운 스템 분리 기능이 담겼다."
               },
               {
                 "t": "p",
-                "x": "이 스트리밍 대기업은 8월에 새 “AI Persona” 배지를 발표했다. 합성 아티스트가 왜 지어낸 정체성을 밝히지 않아도 되는지 우리가 회사에 질의한 지 엿새 뒤였다. 배지는 지난 몇 주 동안 차례로 적용됐고, Bones도 지금 눈에 띄게 라벨이 붙은 아티스트 가운데 하나다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
-              },
-              {
-                "t": "p",
-                "x": "AI 페르소나의 음악은 청취자가 Spotify에서 해당 아티스트를 이미 팔로하거나 접한 적이 없다면 에디토리얼 추천과 개인화 추천에서도 빠진다."
+                "x": "펌웨어 업데이트 1.4(“The Eras Update”)는 무료이며, 서로 다른 6개 앰프에서 가져온 Agoura 앰프 채널 설정 14개를 더해 Agoura 채널이 모두 67개가 된다. 새 옵션으로는 Marshall Plexi Superlead의 여러 버전을 모델링한 Brit SL100, Granophyre 6L6 기반의 Omega Granophyre, Line 6 Litigator의 최신 진화형인 Prosecutor가 있다."
               },
               {
                 "t": "video",
-                "yt": "5hVInGPwQLs"
+                "yt": "StAMPE_XF1M"
               },
               {
                 "t": "p",
-                "x": "배지는 음악 자체가 AI-generated인지에 대해서는 아무것도 말해 주지 않는다. 아티스트는 AI 페르소나 라벨 없이도 AI-generated 보컬이나 반주, 다른 도구를 쓸 수 있고, 별도의 AI 크레디트 시스템은 일부 유통사와 함께 아직 베타 단계다."
+                "x": "새로운 디스토션·모듈레이션 이펙트 6종과 기존 Agoura 앰프 모델 개선도 포함됐고, USB로 연결하면 Helix Stadium 앱에서 편집할 수 있다. Yamaha의 Music Connect 덕분에 이제 오디오 파일을 Helix Stadium의 Showcase 엔진으로 불러와 드럼, 베이스, 기타, 보컬, 그 외의 다섯 개 파일로 분리할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Manchester에서 활동하는 아티스트 J.Chambers는 “Spotify가 AI-generated 아티스트 정체성이 심각한 문제를 낳는다는 점을 인정해 기쁘지만, 프로필에 라벨을 달거나 크레디트에 AI 정보를 넣는 것으로는 충분하지 않다고 본다”고 말했다."
+                "x": "업데이트는 Line 6 Account를 이용해 Wi-Fi로 설치하거나, Helix Stadium 앱을 통해 USB로 직접 설치할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SpotifyがAI表示\nBureauの調査受け導入",
-          "body": "TBIJの質問の六日後に出たAI PersonaバッジがDanny Bonesに付いた。",
-          "mini_headline": "SpotifyがAIアーティストを表示",
+          "headline": "Helix Stadium\n1.4でステム分離に対応",
+          "body": "Helix Stadium 1.4は新アンプやエフェクトとステム分離を追加した。",
+          "mini_headline": "Helixがステム分離に対応",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotifyは、1百万回超の再生を記録した極右のAIラッパーDanny Bonesに関する我々の報道を受け、合成アーティストへのラベル付けを始めた。"
+                "x": "Line 6 Helix Stadiumの新しいファームウェアアップデートには、魅力的な新アンプやエフェクトに加え、新たなステム分離機能が含まれる。"
               },
               {
                 "t": "p",
-                "x": "この大手ストリーミング企業は8月、新たな「AI Persona」バッジを発表した。合成アーティストがなぜ作られたアイデンティティを開示しなくてよいのか、我々が同社に問い合わせてから六日後のことだ。バッジはここ数週間で順次導入され、Bonesも現在はっきりとラベルが表示されたアーティストの一人となっている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
-              },
-              {
-                "t": "p",
-                "x": "AIペルソナの音楽は、リスナーがSpotify上ですでにそのアーティストをフォローしたり聴いたりしていない限り、編集部のおすすめやパーソナライズされたおすすめからも除外される。"
+                "x": "ファームウェアアップデート1.4（“The Eras Update”）は無料で、6種類のアンプに由来する14のAgouraアンプチャンネル設定を追加し、Agouraチャンネルは合計67になる。新たな選択肢には、Marshall Plexi Superleadの各バージョンをモデルにしたBrit SL100、Granophyre 6L6をベースにしたOmega Granophyre、そしてLine 6 Litigatorの最新進化形であるProsecutorがある。"
               },
               {
                 "t": "video",
-                "yt": "5hVInGPwQLs"
+                "yt": "StAMPE_XF1M"
               },
               {
                 "t": "p",
-                "x": "このバッジは、音楽そのものがAI-generatedかどうかについては何も示さない。アーティストはAIペルソナと表示されることなく、AI-generatedのボーカルや演奏、その他のツールを使うことができる。別のAIクレジット制度は、一部の配信事業者とともにまだベータ段階にある。"
+                "x": "さらに6種類の新しいディストーションとモジュレーションのエフェクト、既存のAgouraアンプモデルの強化が加わり、USB接続時にはHelix Stadiumアプリで編集できる。YamahaのMusic Connectにより、オーディオファイルをHelix StadiumのShowcaseエンジンに読み込み、ドラム、ベース、ギター、ボーカル、その他の5つのファイルに分離できるようになった。"
               },
               {
                 "t": "p",
-                "x": "Manchesterを拠点とするアーティスト、J.Chambersは「AI-generatedのアーティストのアイデンティティが深刻な問題を提起していることをSpotifyが認めているのはうれしいが、プロフィールにラベルを付けたり、クレジットにAI情報を加えたりするだけでは不十分だと思う」と語った。"
+                "x": "アップデートは、Line 6 Accountを使ったWi-Fi経由、またはHelix Stadiumアプリを使ったUSB経由の手動でインストールできる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Spotify为AI艺人贴标\nBureau调查之后",
-          "body": "TBIJ质询六天后推出的AI Persona徽章，已标注说唱歌手Danny Bones。",
-          "mini_headline": "Spotify标注AI艺人",
+          "headline": "Helix Stadium\n1.4新增分轨分离",
+          "body": "Helix Stadium固件1.4新增放大器和效果器，并可将音频分离为五条分轨。",
+          "mini_headline": "Helix新增分轨分离",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
               },
               {
                 "t": "p",
-                "x": "在我们报道了播放量超过1百万次的极右翼AI说唱歌手Danny Bones之后，Spotify开始为合成艺人贴上标签。"
+                "x": "Line 6 Helix Stadium的新固件更新带来了一系列诱人的新放大器和效果器，以及全新的分轨分离功能。"
               },
               {
                 "t": "p",
-                "x": "这家流媒体巨头在8月宣布推出新的“AI Persona”徽章，距我们询问该公司为何不要求合成艺人披露其虚构身份仅六天。过去几周徽章陆续上线，Bones也是如今被明显标注的艺人之一。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
-              },
-              {
-                "t": "p",
-                "x": "除非听众已在Spotify上关注过该艺人或与其有过互动，否则AI人设艺人的音乐也会被排除在编辑推荐和个性化推荐之外。"
+                "x": "固件更新1.4（“The Eras Update”）免费提供，新增14个Agoura放大器通道设置，源自六款不同的放大器，使Agoura通道总数达到67个。新选项包括以Marshall Plexi Superlead多个版本为原型的Brit SL100、基于Granophyre 6L6的Omega Granophyre，以及Line 6 Litigator的最新进化版Prosecutor。"
               },
               {
                 "t": "video",
-                "yt": "5hVInGPwQLs"
+                "yt": "StAMPE_XF1M"
               },
               {
                 "t": "p",
-                "x": "该徽章并不说明音乐本身是否为AI-generated。艺人可以使用AI-generated的人声、伴奏或其他工具，而不会被标注为AI人设；另一套AI署名系统仍在与部分发行商进行beta测试。"
+                "x": "此外还有六款新的失真和调制效果器、对现有Agoura放大器型号的增强，并且通过USB连接时可以用Helix Stadium应用进行编辑。借助Yamaha的Music Connect，现在可以将音频文件导入Helix Stadium的Showcase引擎，并拆分为鼓、贝斯、吉他、人声和其他五个独立文件。"
               },
               {
                 "t": "p",
-                "x": "Manchester的艺人J.Chambers说：“我很高兴Spotify承认AI-generated的艺人身份引发了严重问题，但我认为给个人资料加标签或在署名中加入AI信息还远远不够。”"
+                "x": "更新可通过Line 6 Account经Wi-Fi安装，也可以使用Helix Stadium应用通过USB手动安装。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Spotify marca a artistas de AI\ntras la investigación del Bureau",
-          "body": "La insignia AI Persona de Spotify, anunciada seis días después de la consulta de TBIJ, ya marca al rapero Danny Bones.",
-          "mini_headline": "Spotify marca a artistas de AI",
+          "headline": "Line 6 Helix Stadium 1.4\nañade separación de stems",
+          "body": "El firmware 1.4 de Helix Stadium añade nuevos amplificadores y efectos, además de separar el audio en cinco stems.",
+          "mini_headline": "Helix suma separación de stems",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=1280,quality=82,format=auto,fit=contain/filestore/images/Danny-Bones-Spotify-Misaligned.png"
+                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
               },
               {
                 "t": "p",
-                "x": "Spotify ya etiqueta a los artistas sintéticos tras nuestra investigación sobre Danny Bones, rapero de AI de extrema derecha que acumula más de 1 millón de reproducciones."
+                "x": "La nueva actualización de firmware del Line 6 Helix Stadium incluye una serie de atractivos amplificadores y efectos nuevos, además de una nueva función de separación de stems."
               },
               {
                 "t": "p",
-                "x": "El gigante del streaming anunció su nueva insignia “AI Persona” en agosto, seis días después de que preguntáramos a la empresa por qué los artistas sintéticos no estaban obligados a revelar sus identidades inventadas. Las insignias se han ido desplegando en las últimas semanas, y Bones figura entre los artistas que ya aparecen etiquetados."
-              },
-              {
-                "t": "img",
-                "src": "https://www.thebureauinvestigates.com/cdn-cgi/image/width=630,quality=82,format=auto,fit=contain/filestore/images/DANNY-BONES-AI-PERSONA-SPOTIFY.png"
-              },
-              {
-                "t": "p",
-                "x": "La música de personas de AI también queda excluida de las recomendaciones editoriales y personalizadas, salvo que los oyentes ya sigan al artista o hayan interactuado con él en Spotify."
+                "x": "La actualización de firmware 1.4 (“The Eras Update”) es gratuita y aporta 14 ajustes de canal de amplificador Agoura derivados de seis amplificadores distintos, hasta un total de 67 canales Agoura. Entre las nuevas opciones figuran el Brit SL100, modelado a partir de versiones del Marshall Plexi Superlead; el Omega Granophyre, basado en el Granophyre 6L6, y el Prosecutor, la última evolución del Line 6 Litigator."
               },
               {
                 "t": "video",
-                "yt": "5hVInGPwQLs"
+                "yt": "StAMPE_XF1M"
               },
               {
                 "t": "p",
-                "x": "La insignia no dice nada sobre si la música en sí está generada por AI (AI-generated). Los artistas pueden usar voces, instrumentales u otras herramientas generadas por AI sin ser etiquetados como persona de AI; un sistema aparte de créditos de AI sigue en beta con algunos distribuidores."
+                "x": "También hay seis nuevos efectos de distorsión y modulación, mejoras para los modelos de amplificador Agoura actuales, y es posible editar con la app Helix Stadium al conectarlo por USB. Con la ayuda de Music Connect de Yamaha, ahora se puede importar un archivo de audio al motor Showcase del Helix Stadium y dividirlo en cinco archivos independientes: batería, bajo, guitarra, voz y otros."
               },
               {
                 "t": "p",
-                "x": "J.Chambers, artista de Manchester, dijo: “Me alegra que Spotify reconozca que las identidades de artistas generadas por AI (AI-generated) plantean serias dudas, pero no creo que etiquetar perfiles o añadir información de AI a los créditos sea suficiente”."
+                "x": "La actualización se instala por Wi-Fi con una Line 6 Account o manualmente por USB con la app Helix Stadium."
               }
             ]
           }
@@ -1541,237 +1065,215 @@
       }
     },
     {
-      "id": "music-vibe-coded-plugins",
+      "id": "music-bpb-ai-plugins",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "vibe-coded\n플러그인, 누가 사나",
-      "body": "Attack이 vibe-coded 플러그인 시장 장악을 AI 개발자 둘에게 물었다.",
-      "mini_headline": "vibe-coded 플러그인 수요",
+      "headline": "저품질 AI-built\n플러그인 거르는 BPB",
+      "body": "BPB는 저품질 AI-built 플러그인을 뉴스에서 걸러 왔다고 밝혔다.",
+      "mini_headline": "BPB, AI-built 플러그인 선별",
       "tool": "Music",
-      "source": "Attack Magazine",
-      "url": "https://www.attackmagazine.com/features/long-read/whos-buying-all-these-vibe-coded-plugins/",
+      "source": "Bedroom Producers Blog",
+      "url": "https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "vibe-coded 플러그인은 어디에나 있다. 그렇다고 시장을 장악했느냐는 다른 문제다. AI 도움으로 만든 플러그인이 마켓플레이스를 채우고 있지만, 정말 사 가는 사람이 있을까."
-          },
-          {
-            "t": "p",
-            "x": "Bedroom Producer’s Blog 편집자 Tomislav Zlatic은 “vibe coding은 플러그인을 ‘만든’ 사람조차 아마 읽지 못할, 디버깅은 더더욱 못할 코드의 벽을 안겨 준다”고 경고한다. 독자들이 가장 걱정한 건 신뢰였다."
-          },
-          {
             "t": "img",
-            "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+            "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
           },
           {
             "t": "p",
-            "x": "Våld Labs의 Jaime Paiva는 AI 에이전트의 도움으로 소프트 신스 Tresse를 만들었지만 코딩은 지금도 직접 한다. 그는 “AI는 워크플로 속 도구일 뿐, 워크플로 그 자체가 아니다”라며 “Tresse가 무엇이어야 할지는 AI가 정하지 않았다”고 말한다."
-          },
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+            "x": "요즘 플러그인 업계는 크게 달라졌다. 매일 나오는 플러그인이 너무 많아 따라가기 벅차고 평균 품질은 크게 떨어졌다."
           },
           {
             "t": "p",
-            "x": "Artists in DSP의 Amorph로는 DAW 안에서 악기와 이펙트를 vibe code로 만든다. CEO Leonardo Biasca-Caroni는 “Amorph는 음악을 생성하지 않는다. 악기를 생성한다”며 “완성된 플러그인으로 충분하다면 그걸 사라. Amorph는 아무도 팔지 않는 것을 위한 도구다”라고 말한다."
+            "x": "AI 도구가 코딩 속도를 끌어올리고, 코드를 몰라도 소프트웨어를 만들 수 있게 해 주는 것이 큰 원인이다. 품질 문제로 번지기도 하지만 이런 “vibe-coded” 도구 중 일부는 사용자들에게 꽤 좋은 반응을 얻는다."
           },
           {
             "t": "p",
-            "x": "Attack은 보안을 꼼꼼히 확인하고 개발자가 오래 갈 생각인지 따져 보라고 조언한다. vibe-coded 플러그인은 먼저 써 볼 데모가 있을 때만 사라는 것이다."
+            "x": "한편에는 텍스트 프롬프트로 음악이나 오디오를 생성하는 AI 도구다. 반대쪽 끝에는 하드웨어 장비, 특히 가상 기타 앰프를 모델링하는 데 쓰이는 머신러닝이 있는데, 대체로 압도적인 호평을 받는다."
+          },
+          {
+            "t": "p",
+            "x": "나는 BPB 뉴스 섹션에 실리는 소프트웨어를 철저히 걸러 왔고, 이른바 “AI slop”을 막으려 최선을 다했다. 하지만 물량은 계속 늘고 있고, 어딘가에는 선을 그어야 한다."
+          },
+          {
+            "t": "p",
+            "x": "설문은 짧다. 10월 20일 화요일까지 답해 주기 바란다. 결과는 이후 공유하고, 그에 맞춰 BPB가 갈 방향을 정하겠다. — Tomislav Zlatic"
           }
         ]
       },
+      "_lead_image": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "Who is actually buying\nvibe-coded plugins",
-          "body": "Attack asks whether vibe-coded plugins are taking over the market, hearing from two developers who build with AI.",
-          "mini_headline": "Vibe-coded plugin demand",
+          "headline": "Bedroom Producers Blog filters\nlow-quality AI-built plugins",
+          "body": "BPB has been filtering low-quality AI-built plugins out of its news, citing a flood that has lowered average quality.",
+          "mini_headline": "BPB filters AI-built plugins",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Vibe-coded plugins are everywhere but does that mean that they’re actually taking over the market? Made with the help of AI, these plugins are clogging up the marketplace – but is anyone actually buying them?"
-              },
-              {
-                "t": "p",
-                "x": "Bedroom Producer’s Blog editor Tomislav Zlatic warns: “Vibe coding hands you a wall of code that whoever ‘made’ the plugin probably can’t read, much less debug.” Trust was the biggest concern readers raised."
-              },
-              {
                 "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
               },
               {
                 "t": "p",
-                "x": "Jaime Paiva of Våld Labs built his soft synth Tresse with the help of an AI agent, but still codes. “AI is a tool in the workflow, not the workflow itself,” he says. “It didn’t decide what Tresse should be.”"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+                "x": "I’ve noticed a huge shift in the plugin industry recently. The sheer number of plugins released daily has made it hard to keep up, and the average quality has dropped drastically."
               },
               {
                 "t": "p",
-                "x": "Artists in DSP’s Amorph lets you vibe code instruments and effects inside a DAW. “Amorph doesn’t generate music. It generates the instrument,” says CEO Leonardo Biasca-Caroni. “If a finished plugin does the job, buy it. Amorph is for the thing nobody sells.”"
+                "x": "A lot of it comes down to the fact that AI tools are now being used to speed up coding or even allow users to create software without understanding the code underneath. This leads to potential quality issues, although some of these “vibe-coded” tools are extremely well received by users."
               },
               {
                 "t": "p",
-                "x": "Attack’s advice: do your due diligence on security, ask whether developers are in it for the long haul, and only buy vibe-coded plugins with a demo that you can try first."
+                "x": "Another aspect is AI tools that generate music or audio from text prompts. On the other end of the spectrum, there’s machine learning used to model hardware gear, especially virtual guitar amps, which typically receive overwhelming praise."
+              },
+              {
+                "t": "p",
+                "x": "I’ve been heavily filtering the software that makes it into BPB’s news section, doing my best to keep the so-called “AI slop” out. But the volume keeps growing, and the line has to be drawn somewhere."
+              },
+              {
+                "t": "p",
+                "x": "The poll is short. Please answer by Tuesday, October 20th. I will then share the results and use them to figure out the right way forward for BPB. — Tomislav Zlatic"
               }
             ]
           }
         },
         "ko": {
-          "headline": "vibe-coded\n플러그인, 누가 사나",
-          "body": "Attack이 vibe-coded 플러그인 시장 장악을 AI 개발자 둘에게 물었다.",
-          "mini_headline": "vibe-coded 플러그인 수요",
+          "headline": "저품질 AI-built\n플러그인 거르는 BPB",
+          "body": "BPB는 저품질 AI-built 플러그인을 뉴스에서 걸러 왔다고 밝혔다.",
+          "mini_headline": "BPB, AI-built 플러그인 선별",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "vibe-coded 플러그인은 어디에나 있다. 그렇다고 시장을 장악했느냐는 다른 문제다. AI 도움으로 만든 플러그인이 마켓플레이스를 채우고 있지만, 정말 사 가는 사람이 있을까."
-              },
-              {
-                "t": "p",
-                "x": "Bedroom Producer’s Blog 편집자 Tomislav Zlatic은 “vibe coding은 플러그인을 ‘만든’ 사람조차 아마 읽지 못할, 디버깅은 더더욱 못할 코드의 벽을 안겨 준다”고 경고한다. 독자들이 가장 걱정한 건 신뢰였다."
-              },
-              {
                 "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
               },
               {
                 "t": "p",
-                "x": "Våld Labs의 Jaime Paiva는 AI 에이전트의 도움으로 소프트 신스 Tresse를 만들었지만 코딩은 지금도 직접 한다. 그는 “AI는 워크플로 속 도구일 뿐, 워크플로 그 자체가 아니다”라며 “Tresse가 무엇이어야 할지는 AI가 정하지 않았다”고 말한다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+                "x": "요즘 플러그인 업계는 크게 달라졌다. 매일 나오는 플러그인이 너무 많아 따라가기 벅차고 평균 품질은 크게 떨어졌다."
               },
               {
                 "t": "p",
-                "x": "Artists in DSP의 Amorph로는 DAW 안에서 악기와 이펙트를 vibe code로 만든다. CEO Leonardo Biasca-Caroni는 “Amorph는 음악을 생성하지 않는다. 악기를 생성한다”며 “완성된 플러그인으로 충분하다면 그걸 사라. Amorph는 아무도 팔지 않는 것을 위한 도구다”라고 말한다."
+                "x": "AI 도구가 코딩 속도를 끌어올리고, 코드를 몰라도 소프트웨어를 만들 수 있게 해 주는 것이 큰 원인이다. 품질 문제로 번지기도 하지만 이런 “vibe-coded” 도구 중 일부는 사용자들에게 꽤 좋은 반응을 얻는다."
               },
               {
                 "t": "p",
-                "x": "Attack은 보안을 꼼꼼히 확인하고 개발자가 오래 갈 생각인지 따져 보라고 조언한다. vibe-coded 플러그인은 먼저 써 볼 데모가 있을 때만 사라는 것이다."
+                "x": "한편에는 텍스트 프롬프트로 음악이나 오디오를 생성하는 AI 도구다. 반대쪽 끝에는 하드웨어 장비, 특히 가상 기타 앰프를 모델링하는 데 쓰이는 머신러닝이 있는데, 대체로 압도적인 호평을 받는다."
+              },
+              {
+                "t": "p",
+                "x": "나는 BPB 뉴스 섹션에 실리는 소프트웨어를 철저히 걸러 왔고, 이른바 “AI slop”을 막으려 최선을 다했다. 하지만 물량은 계속 늘고 있고, 어딘가에는 선을 그어야 한다."
+              },
+              {
+                "t": "p",
+                "x": "설문은 짧다. 10월 20일 화요일까지 답해 주기 바란다. 결과는 이후 공유하고, 그에 맞춰 BPB가 갈 방향을 정하겠다. — Tomislav Zlatic"
               }
             ]
           }
         },
         "ja": {
-          "headline": "vibe-coded\nプラグイン、誰が買うのか",
-          "body": "Attackはvibe-codedプラグインの実需を、AIで作る開発者二人に聞いた。",
-          "mini_headline": "vibe-codedプラグインの需要",
+          "headline": "低品質なAI-built\nプラグインを除外",
+          "body": "BPBは粗製乱造を理由に、低品質なAI-builtプラグインをニュースから外してきた。",
+          "mini_headline": "BPBがAI-builtプラグインを選別",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "vibe-codedプラグインはあちこちにあるが、それは本当に市場を席巻しているということなのか。AIの力を借りて作られたこれらのプラグインはマーケットプレイスを埋め尽くしているが、実際に買う人はいるのだろうか。"
-              },
-              {
-                "t": "p",
-                "x": "Bedroom Producer’s Blog編集者のTomislav Zlaticは「vibe codingで手に入るのは、そのプラグインを『作った』人でさえおそらく読めず、ましてデバッグなどできないコードの壁だ」と警告する。読者が最も懸念したのは信頼性だった。"
-              },
-              {
                 "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
               },
               {
                 "t": "p",
-                "x": "Våld LabsのJaime Paivaは、AIエージェントの助けを借りてソフトシンセTresseを開発したが、今もコードを書いている。「AIはワークフローの中の道具であって、ワークフローそのものではない」と彼は言う。「Tresseがどうあるべきかを決めたのはAIではない」。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+                "x": "最近、プラグイン業界で大きな変化が起きていると感じる。毎日リリースされるプラグインの数があまりに多く追いきれなくなり、平均的な品質も大きく落ちた。"
               },
               {
                 "t": "p",
-                "x": "Artists in DSPのAmorphを使えば、DAWの中で楽器やエフェクトをvibe codeで作れる。CEOのLeonardo Biasca-Caroniは「Amorphは音楽を生成しない。楽器を生成する」と語る。「完成したプラグインで用が足りるなら、それを買えばいい。Amorphは誰も売っていないもののためにある」。"
+                "x": "その大きな要因は、AIツールがコーディングの高速化に使われたり、内部のコードを理解していないユーザーでもソフトウェアを作れるようになったりしていることだ。これは品質上の問題につながりうるが、こうした“vibe-coded”ツールの中にはユーザーから非常に好評なものもある。"
               },
               {
                 "t": "p",
-                "x": "Attackの助言は、セキュリティを入念に確認し、開発者が長く続けるつもりかを見極め、vibe-codedプラグインは事前に試せるデモがあるものだけを買うことだ。"
+                "x": "もう一つの側面は、テキストプロンプトから音楽やオーディオを生成するAIツールだ。その対極には、ハードウェア機材、特にバーチャルギターアンプのモデリングに使われる機械学習があり、こちらは概して圧倒的な称賛を受けている。"
+              },
+              {
+                "t": "p",
+                "x": "私はBPBのニュース欄に載るソフトウェアを厳しく選別し、いわゆる“AI slop”を締め出すよう最善を尽くしてきた。だが量は増え続けており、どこかで線を引かなければならない。"
+              },
+              {
+                "t": "p",
+                "x": "アンケートは短い。10月20日（火）までに回答してほしい。その後結果を共有し、BPBの進むべき方向を見極めるために活用する。— Tomislav Zlatic"
               }
             ]
           }
         },
         "zh": {
-          "headline": "vibe-coded插件\n到底谁在买",
-          "body": "Attack探讨vibe-coded插件是否正在占领市场，并采访了两位借助AI的开发者。",
-          "mini_headline": "vibe-coded插件需求",
+          "headline": "BPB过滤低质量\nAI-built插件",
+          "body": "BPB以插件泛滥拉低平均质量为由，一直在新闻中过滤低质量的AI-built插件。",
+          "mini_headline": "BPB过滤AI-built插件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "vibe-coded插件随处可见，但这是否意味着它们真的在占领市场？这些借助AI制作的插件正充斥着市场，可真的有人在买吗？"
-              },
-              {
-                "t": "p",
-                "x": "Bedroom Producer’s Blog编辑Tomislav Zlatic警告：“vibe coding交给你的是一堵代码墙，‘做出’插件的人很可能都读不懂，更别说调试了。”信任是读者提出的最大顾虑。"
-              },
-              {
                 "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
               },
               {
                 "t": "p",
-                "x": "Våld Labs的Jaime Paiva借助AI智能体打造了软合成器Tresse，但他仍在亲自写代码。他说：“AI是工作流程中的工具，而不是工作流程本身。”“Tresse应该是什么样子，不是由它决定的。”"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+                "x": "我注意到最近插件行业发生了巨大变化。每天发布的插件数量多到难以跟上，平均质量也大幅下降。"
               },
               {
                 "t": "p",
-                "x": "Artists in DSP的Amorph可以让你在DAW中用vibe code制作乐器和效果器。CEO Leonardo Biasca-Caroni说：“Amorph不生成音乐，它生成的是乐器。”“如果现成的插件够用，就买它。Amorph是为没人卖的东西准备的。”"
+                "x": "这在很大程度上是因为，AI工具如今被用来加快编码速度，甚至让用户在不理解底层代码的情况下也能开发软件。这可能带来质量问题，不过其中一些“vibe-coded”工具也极受用户欢迎。"
               },
               {
                 "t": "p",
-                "x": "Attack的建议是：做好安全方面的尽职调查，问问开发者是否打算长期做下去，并且只购买提供可先试用演示版的vibe-coded插件。"
+                "x": "另一方面是根据文本提示生成音乐或音频的AI工具。而在光谱的另一端，是用于为硬件设备建模的机器学习，尤其是虚拟吉他放大器，这类产品通常广受好评。"
+              },
+              {
+                "t": "p",
+                "x": "我一直在严格筛选进入BPB新闻栏目的软件，尽力把所谓的“AI slop”挡在门外。但数量还在不断增长，总得在某处划清界限。"
+              },
+              {
+                "t": "p",
+                "x": "这份调查很简短。请在10月20日（星期二）前作答。之后我会公布结果，并据此确定BPB正确的前进方向。—— Tomislav Zlatic"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Quién compra realmente\nlos plugins vibe-coded?",
-          "body": "Attack se pregunta si los plugins vibe-coded dominan el mercado y habla con dos desarrolladores que usan AI.",
-          "mini_headline": "Demanda de plugins vibe-coded",
+          "headline": "Bedroom Producers Blog filtra\nplugins AI-built de baja calidad",
+          "body": "BPB filtra de sus noticias los plugins AI-built de baja calidad, ante una avalancha que ha rebajado la calidad media.",
+          "mini_headline": "BPB filtra plugins AI-built",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Los plugins vibe-coded están por todas partes, pero ¿significa eso que realmente se están apoderando del mercado? Hechos con ayuda de AI, estos plugins están saturando el mercado, pero ¿alguien los compra de verdad?"
-              },
-              {
-                "t": "p",
-                "x": "Tomislav Zlatic, editor de Bedroom Producer’s Blog, advierte: “El vibe coding te entrega un muro de código que probablemente quien ‘hizo’ el plugin no sabe leer, y mucho menos depurar”. La confianza fue la mayor preocupación que plantearon los lectores."
-              },
-              {
                 "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
               },
               {
                 "t": "p",
-                "x": "Jaime Paiva, de Våld Labs, creó su sintetizador de software Tresse con ayuda de un agente de AI, pero sigue programando. “La AI es una herramienta dentro del flujo de trabajo, no el flujo de trabajo en sí”, dice. “No fue ella quien decidió qué debía ser Tresse”."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+                "x": "He notado un gran cambio en la industria de los plugins últimamente. La enorme cantidad de plugins que se lanzan cada día hace difícil seguirles el ritmo, y la calidad media ha caído drásticamente."
               },
               {
                 "t": "p",
-                "x": "Amorph, de Artists in DSP, permite crear con vibe coding instrumentos y efectos dentro de un DAW. “Amorph no genera música. Genera el instrumento”, dice su CEO, Leonardo Biasca-Caroni. “Si un plugin terminado cumple su función, cómpralo. Amorph es para lo que nadie vende”."
+                "x": "Buena parte se debe a que ahora se usan herramientas de IA para acelerar la programación o incluso para que los usuarios creen software sin entender el código subyacente. Esto puede generar problemas de calidad, aunque algunas de estas herramientas “vibe-coded” tienen una acogida excelente entre los usuarios."
               },
               {
                 "t": "p",
-                "x": "El consejo de Attack: revisar a fondo la seguridad, preguntarse si los desarrolladores piensan quedarse a largo plazo y comprar plugins vibe-coded solo si tienen una demo que se pueda probar antes."
+                "x": "Otro aspecto son las herramientas de IA que generan música o audio a partir de prompts de texto. En el extremo opuesto está el aprendizaje automático usado para modelar equipos de hardware, sobre todo amplificadores virtuales de guitarra, que suelen recibir elogios abrumadores."
+              },
+              {
+                "t": "p",
+                "x": "He estado filtrando con rigor el software que llega a la sección de noticias de BPB, haciendo todo lo posible por mantener fuera el llamado “AI slop”. Pero el volumen no deja de crecer, y en algún punto hay que trazar la línea."
+              },
+              {
+                "t": "p",
+                "x": "La encuesta es breve. Respondan antes del martes 20 de octubre, por favor. Después compartiré los resultados y los usaré para decidir el rumbo adecuado de BPB. — Tomislav Zlatic"
               }
             ]
           }
@@ -1779,153 +1281,511 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "vibe-coded\n플러그인, 누가 사나",
-          "body": "Attack이 vibe-coded 플러그인 시장 장악을 AI 개발자 둘에게 물었다.",
-          "mini_headline": "vibe-coded 플러그인 수요",
+          "headline": "저품질 AI-built\n플러그인 거르는 BPB",
+          "body": "BPB는 저품질 AI-built 플러그인을 뉴스에서 걸러 왔다고 밝혔다.",
+          "mini_headline": "BPB, AI-built 플러그인 선별",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "vibe-coded 플러그인은 어디에나 있지만, 그렇다고 실제로 시장을 장악했는지는 별개의 문제다. AI의 도움으로 만든 이 플러그인들이 마켓플레이스를 메우고 있으나, 정말 사는 사람이 있는지는 의문이다."
-              },
-              {
-                "t": "p",
-                "x": "Bedroom Producer’s Blog 편집자 Tomislav Zlatic은 “vibe coding은 플러그인을 ‘만든’ 사람조차 아마 읽지 못할, 디버깅은 더더욱 못할 코드의 벽을 안겨 준다”고 경고한다. 독자들이 가장 크게 우려한 것은 신뢰였다."
-              },
-              {
                 "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
               },
               {
                 "t": "p",
-                "x": "Våld Labs의 Jaime Paiva는 AI 에이전트의 도움을 받아 소프트 신스 Tresse를 만들었지만, 코딩은 여전히 직접 한다. 그는 “AI는 워크플로 속 도구일 뿐, 워크플로 그 자체가 아니다”라며 “Tresse가 무엇이어야 할지는 AI가 정하지 않았다”고 말한다."
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+                "x": "최근 플러그인 업계에 큰 변화가 생겼다. 매일 쏟아지는 플러그인이 너무 많아 따라가기 어려워졌고, 평균 품질은 크게 떨어졌다."
               },
               {
                 "t": "p",
-                "x": "Artists in DSP의 Amorph를 쓰면 DAW 안에서 악기와 이펙트를 vibe code로 만들 수 있다. CEO Leonardo Biasca-Caroni는 “Amorph는 음악을 생성하지 않는다. 악기를 생성한다”며 “완성된 플러그인으로 충분하다면 그걸 사라. Amorph는 아무도 팔지 않는 것을 위한 도구다”라고 말한다."
+                "x": "그 원인의 상당 부분은 이제 AI 도구가 코딩 속도를 높이는 데 쓰이거나, 사용자가 밑바탕의 코드를 이해하지 못해도 소프트웨어를 만들 수 있게 해 준다는 데 있다. 이는 품질 문제로 이어질 수 있지만, 이런 “vibe-coded” 도구 중 일부는 사용자들에게 매우 좋은 반응을 얻고 있다."
               },
               {
                 "t": "p",
-                "x": "Attack의 조언은 보안을 꼼꼼히 확인하고, 개발자가 오래 갈 생각인지 따져 보며, vibe-coded 플러그인은 먼저 써 볼 수 있는 데모가 있을 때만 사라는 것이다."
+                "x": "또 다른 측면은 텍스트 프롬프트로 음악이나 오디오를 생성하는 AI 도구다. 반대편 끝에는 하드웨어 장비, 특히 가상 기타 앰프를 모델링하는 데 쓰이는 머신러닝이 있는데, 대체로 압도적인 호평을 받는다."
+              },
+              {
+                "t": "p",
+                "x": "나는 BPB 뉴스 섹션에 실리는 소프트웨어를 철저히 걸러 왔고, 이른바 “AI slop”을 막으려 최선을 다했다. 하지만 물량은 계속 늘고 있고, 어딘가에는 선을 그어야 한다."
+              },
+              {
+                "t": "p",
+                "x": "설문은 짧다. 10월 20일 화요일까지 답해 주기 바란다. 이후 결과를 공유하고, 이를 바탕으로 BPB가 나아갈 올바른 방향을 정하겠다. — Tomislav Zlatic"
               }
             ]
           }
         },
         "ja": {
-          "headline": "vibe-coded\nプラグイン、誰が買うのか",
-          "body": "Attackはvibe-codedプラグインの実需を、AIで作る開発者二人に聞いた。",
-          "mini_headline": "vibe-codedプラグインの需要",
+          "headline": "低品質なAI-built\nプラグインを除外",
+          "body": "BPBは粗製乱造を理由に、低品質なAI-builtプラグインをニュースから外してきた。",
+          "mini_headline": "BPBがAI-builtプラグインを選別",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "vibe-codedプラグインはあちこちにあるが、それは本当に市場を席巻しているということなのか。AIの力を借りて作られたこれらのプラグインはマーケットプレイスを埋め尽くしているが、実際に買う人はいるのだろうか。"
-              },
-              {
-                "t": "p",
-                "x": "Bedroom Producer’s Blog編集者のTomislav Zlaticは「vibe codingで手に入るのは、そのプラグインを『作った』人でさえおそらく読めず、ましてデバッグなどできないコードの壁だ」と警告する。読者が最も懸念したのは信頼性だった。"
-              },
-              {
                 "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
               },
               {
                 "t": "p",
-                "x": "Våld LabsのJaime Paivaは、AIエージェントの助けを借りてソフトシンセTresseを開発したが、今もコードを書いている。「AIはワークフローの中の道具であって、ワークフローそのものではない」と彼は言う。「Tresseがどうあるべきかを決めたのはAIではない」。"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+                "x": "最近、プラグイン業界で大きな変化が起きていると感じる。毎日リリースされるプラグインの数があまりに多く追いきれなくなり、平均的な品質も大きく落ちた。"
               },
               {
                 "t": "p",
-                "x": "Artists in DSPのAmorphを使えば、DAWの中で楽器やエフェクトをvibe codeで作れる。CEOのLeonardo Biasca-Caroniは「Amorphは音楽を生成しない。楽器を生成する」と語る。「完成したプラグインで用が足りるなら、それを買えばいい。Amorphは誰も売っていないもののためにある」。"
+                "x": "その大きな要因は、AIツールがコーディングの高速化に使われたり、内部のコードを理解していないユーザーでもソフトウェアを作れるようになったりしていることだ。これは品質上の問題につながりうるが、こうした“vibe-coded”ツールの中にはユーザーから非常に好評なものもある。"
               },
               {
                 "t": "p",
-                "x": "Attackの助言は、セキュリティを入念に確認し、開発者が長く続けるつもりかを見極め、vibe-codedプラグインは事前に試せるデモがあるものだけを買うことだ。"
+                "x": "もう一つの側面は、テキストプロンプトから音楽やオーディオを生成するAIツールだ。その対極には、ハードウェア機材、特にバーチャルギターアンプのモデリングに使われる機械学習があり、こちらは概して圧倒的な称賛を受けている。"
+              },
+              {
+                "t": "p",
+                "x": "私はBPBのニュース欄に載るソフトウェアを厳しく選別し、いわゆる“AI slop”を締め出すよう最善を尽くしてきた。だが量は増え続けており、どこかで線を引かなければならない。"
+              },
+              {
+                "t": "p",
+                "x": "アンケートは短い。10月20日（火）までに回答してほしい。その後結果を共有し、BPBの進むべき方向を見極めるために活用する。— Tomislav Zlatic"
               }
             ]
           }
         },
         "zh": {
-          "headline": "vibe-coded插件\n到底谁在买",
-          "body": "Attack探讨vibe-coded插件是否正在占领市场，并采访了两位借助AI的开发者。",
-          "mini_headline": "vibe-coded插件需求",
+          "headline": "BPB过滤低质量\nAI-built插件",
+          "body": "BPB以插件泛滥拉低平均质量为由，一直在新闻中过滤低质量的AI-built插件。",
+          "mini_headline": "BPB过滤AI-built插件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "vibe-coded插件随处可见，但这是否意味着它们真的在占领市场？这些借助AI制作的插件正充斥着市场，可真的有人在买吗？"
-              },
-              {
-                "t": "p",
-                "x": "Bedroom Producer’s Blog编辑Tomislav Zlatic警告：“vibe coding交给你的是一堵代码墙，‘做出’插件的人很可能都读不懂，更别说调试了。”信任是读者提出的最大顾虑。"
-              },
-              {
                 "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
               },
               {
                 "t": "p",
-                "x": "Våld Labs的Jaime Paiva借助AI智能体打造了软合成器Tresse，但他仍在亲自写代码。他说：“AI是工作流程中的工具，而不是工作流程本身。”“Tresse应该是什么样子，不是由它决定的。”"
-              },
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+                "x": "我注意到最近插件行业发生了巨大变化。每天发布的插件数量多到难以跟上，平均质量也大幅下降。"
               },
               {
                 "t": "p",
-                "x": "Artists in DSP的Amorph可以让你在DAW中用vibe code制作乐器和效果器。CEO Leonardo Biasca-Caroni说：“Amorph不生成音乐，它生成的是乐器。”“如果现成的插件够用，就买它。Amorph是为没人卖的东西准备的。”"
+                "x": "这在很大程度上是因为，AI工具如今被用来加快编码速度，甚至让用户在不理解底层代码的情况下也能开发软件。这可能带来质量问题，不过其中一些“vibe-coded”工具也极受用户欢迎。"
               },
               {
                 "t": "p",
-                "x": "Attack的建议是：做好安全方面的尽职调查，问问开发者是否打算长期做下去，并且只购买提供可先试用演示版的vibe-coded插件。"
+                "x": "另一方面是根据文本提示生成音乐或音频的AI工具。而在光谱的另一端，是用于为硬件设备建模的机器学习，尤其是虚拟吉他放大器，这类产品通常广受好评。"
+              },
+              {
+                "t": "p",
+                "x": "我一直在严格筛选进入BPB新闻栏目的软件，尽力把所谓的“AI slop”挡在门外。但数量还在不断增长，总得在某处划清界限。"
+              },
+              {
+                "t": "p",
+                "x": "这份调查很简短。请在10月20日（星期二）前作答。之后我会公布结果，并据此确定BPB正确的前进方向。—— Tomislav Zlatic"
               }
             ]
           }
         },
         "es": {
-          "headline": "¿Quién compra realmente\nlos plugins vibe-coded?",
-          "body": "Attack se pregunta si los plugins vibe-coded dominan el mercado y habla con dos desarrolladores que usan AI.",
-          "mini_headline": "Demanda de plugins vibe-coded",
+          "headline": "Bedroom Producers Blog filtra\nplugins AI-built de baja calidad",
+          "body": "BPB filtra de sus noticias los plugins AI-built de baja calidad, ante una avalancha que ha rebajado la calidad media.",
+          "mini_headline": "BPB filtra plugins AI-built",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
+              },
+              {
+                "t": "p",
+                "x": "He notado un gran cambio en la industria de los plugins últimamente. La enorme cantidad de plugins que se lanzan cada día hace difícil seguirles el ritmo, y la calidad media ha caído drásticamente."
+              },
+              {
+                "t": "p",
+                "x": "Buena parte se debe a que ahora se usan herramientas de IA para acelerar la programación o incluso para que los usuarios creen software sin entender el código subyacente. Esto puede generar problemas de calidad, aunque algunas de estas herramientas “vibe-coded” tienen una acogida excelente entre los usuarios."
+              },
+              {
+                "t": "p",
+                "x": "Otro aspecto son las herramientas de IA que generan música o audio a partir de prompts de texto. En el extremo opuesto está el aprendizaje automático usado para modelar equipos de hardware, sobre todo amplificadores virtuales de guitarra, que suelen recibir elogios abrumadores."
+              },
+              {
+                "t": "p",
+                "x": "He estado filtrando con rigor el software que llega a la sección de noticias de BPB, haciendo todo lo posible por mantener fuera el llamado “AI slop”. Pero el volumen no deja de crecer, y en algún punto hay que trazar la línea."
+              },
+              {
+                "t": "p",
+                "x": "La encuesta es breve. Respondan antes del martes 20 de octubre, por favor. Después compartiré los resultados y los usaré para decidir el rumbo adecuado de BPB. — Tomislav Zlatic"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "music-gugak-vocalset",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI용 첫 공개\n국악 가창 데이터셋",
+      "body": "Gugak-VocalSet은 전문가 20명의 국악 가창 24.5시간을 담았다.",
+      "mini_headline": "국악 가창 공개 데이터셋",
+      "tool": "Music",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.15350",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "Gugak-VocalSet은 성악 표현의 구조화된 음높이 윤곽 체계인 시김새(sigimsae)에 촘촘히 주석을 단 데이터셋으로, 국악 가창을 다룬 공개 오디오 데이터셋은 이것이 처음이다."
+          },
+          {
+            "t": "p",
+            "x": "국립국악원(National Gugak Center)이 선별한 대표 레퍼토리 305곡에 걸친 24.5시간 분량의 무반주 독창 녹음이 들어 있다. 전문 가창자 20명이 조성과 템포를 고정한 스튜디오에서 불렀다."
+          },
+          {
+            "t": "img",
+            "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
+            "cap": "Gugak-VocalSet의 장르 계층. 숫자는 범주별 곡 수를 나타낸다."
+          },
+          {
+            "t": "p",
+            "x": "장르, 가사, 분위기·음색 태그 외에도 통합 시김새 온톨로지와 약 68,000개 구간(다중 레이블 포함 71,700건)의 시김새 주석을 제공한다. 주석 작업은 전문 주석자 14명이 맡았다."
+          },
+          {
+            "t": "img",
+            "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
+            "cap": "주석 예시: 정악(위)과 민속악(아래)."
+          },
+          {
+            "t": "p",
+            "x": "기준선 실험에서 도메인 지식을 반영한 F0 표현은 범용 음악 파운데이션 모델의 고정(frozen) 프로빙과 대등했고 분류에서는 오히려 앞섰다."
+          }
+        ]
+      },
+      "_lead_image": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
+      "_video": "",
+      "text": {
+        "en": {
+          "headline": "First open dataset of Korean\ntraditional singing for AI",
+          "body": "Gugak-VocalSet offers 24.5 hours of Korean traditional singing by 20 professionals, with sigimsae ornament annotations.",
+          "mini_headline": "Open dataset for gugak singing",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los plugins vibe-coded están por todas partes, pero ¿significa eso que realmente se están apoderando del mercado? Hechos con ayuda de AI, estos plugins están saturando el mercado, pero ¿alguien los compra de verdad?"
+                "x": "Gugak-VocalSet is the first publicly available audio dataset for Korean traditional singing with dense annotations of sigimsae, a structured pitch contour system of vocal expressions."
               },
               {
                 "t": "p",
-                "x": "Tomislav Zlatic, editor de Bedroom Producer’s Blog, advierte: “El vibe coding te entrega un muro de código que probablemente quien ‘hizo’ el plugin no sabe leer, y mucho menos depurar”. La confianza fue la mayor preocupación que plantearon los lectores."
+                "x": "It contains 24.5 hours of unaccompanied solo vocal recordings across 305 tracks of representative repertoire curated by the National Gugak Center, performed by 20 professional singers in a controlled studio environment with fixed key and tempo."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Tresse.png?resize=600%2C402&ssl=1"
+                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
+                "cap": "Genre hierarchy of Gugak-VocalSet. Numbers show track counts per category."
               },
               {
                 "t": "p",
-                "x": "Jaime Paiva, de Våld Labs, creó su sintetizador de software Tresse con ayuda de un agente de AI, pero sigue programando. “La AI es una herramienta dentro del flujo de trabajo, no el flujo de trabajo en sí”, dice. “No fue ella quien decidió qué debía ser Tresse”."
+                "x": "Beyond genre, lyrics and mood/timbre tags, it provides a unified sigimsae ontology and about 68,000 segments (71,700 instances including multi-label) of sigimsae annotations, labeled by 14 expert annotators."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/www.attackmagazine.com/wp-content/uploads/2026/09/Amorph-1.png?resize=600%2C338&ssl=1"
+                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
+                "cap": "Annotation examples: jeongak (top) and minsogak (bottom)."
               },
               {
                 "t": "p",
-                "x": "Amorph, de Artists in DSP, permite crear con vibe coding instrumentos y efectos dentro de un DAW. “Amorph no genera música. Genera el instrumento”, dice su CEO, Leonardo Biasca-Caroni. “Si un plugin terminado cumple su función, cómpralo. Amorph es para lo que nadie vende”."
+                "x": "Baseline experiments show domain-informed F0 representations remain competitive with, and on classification surpass, frozen probing of a general-purpose music foundation model."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI용 첫 공개\n국악 가창 데이터셋",
+          "body": "Gugak-VocalSet은 전문가 20명의 국악 가창 24.5시간을 담았다.",
+          "mini_headline": "국악 가창 공개 데이터셋",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Gugak-VocalSet은 성악 표현의 구조화된 음높이 윤곽 체계인 시김새(sigimsae)에 촘촘히 주석을 단 데이터셋으로, 국악 가창을 다룬 공개 오디오 데이터셋은 이것이 처음이다."
               },
               {
                 "t": "p",
-                "x": "El consejo de Attack: revisar a fondo la seguridad, preguntarse si los desarrolladores piensan quedarse a largo plazo y comprar plugins vibe-coded solo si tienen una demo que se pueda probar antes."
+                "x": "국립국악원(National Gugak Center)이 선별한 대표 레퍼토리 305곡에 걸친 24.5시간 분량의 무반주 독창 녹음이 들어 있다. 전문 가창자 20명이 조성과 템포를 고정한 스튜디오에서 불렀다."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
+                "cap": "Gugak-VocalSet의 장르 계층. 숫자는 범주별 곡 수를 나타낸다."
+              },
+              {
+                "t": "p",
+                "x": "장르, 가사, 분위기·음색 태그 외에도 통합 시김새 온톨로지와 약 68,000개 구간(다중 레이블 포함 71,700건)의 시김새 주석을 제공한다. 주석 작업은 전문 주석자 14명이 맡았다."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
+                "cap": "주석 예시: 정악(위)과 민속악(아래)."
+              },
+              {
+                "t": "p",
+                "x": "기준선 실험에서 도메인 지식을 반영한 F0 표현은 범용 음악 파운데이션 모델의 고정(frozen) 프로빙과 대등했고 분류에서는 오히려 앞섰다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "韓国伝統歌唱の\nAI向け初の公開データ",
+          "body": "Gugak-VocalSetは、プロ歌手20人による韓国伝統歌唱24.5時間を収録した。",
+          "mini_headline": "国楽歌唱の公開データセット",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Gugak-VocalSetは、声楽表現における構造化された音高輪郭の体系「シギムセ（sigimsae）」に密な注釈を付けた、韓国伝統歌唱のための初の一般公開音声データセットである。"
+              },
+              {
+                "t": "p",
+                "x": "国立国楽院（National Gugak Center）が選定した代表的レパートリー305曲にわたる、計24.5時間の無伴奏ソロ歌唱録音を収録する。歌唱は20人のプロ歌手が、キーとテンポを固定した管理されたスタジオ環境で行った。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
+                "cap": "Gugak-VocalSetのジャンル階層。数字はカテゴリーごとの曲数を示す。"
+              },
+              {
+                "t": "p",
+                "x": "ジャンル、歌詞、ムード・音色タグに加え、統一されたシギムセのオントロジーと、約68,000区間（マルチラベルを含め71,700件）のシギムセ注釈を提供する。注釈は14人の専門アノテーターが付けた。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
+                "cap": "注釈の例：正楽（上）と民俗楽（下）。"
+              },
+              {
+                "t": "p",
+                "x": "ベースライン実験では、ドメイン知識を取り入れたF0表現が、汎用音楽基盤モデルのフローズン・プロービングと互角の性能を保ち、分類ではそれを上回った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "首个面向AI的开放\n韩国传统歌唱数据集",
+          "body": "Gugak-VocalSet收录20位专业歌手的24.5小时韩国传统声乐及其装饰音标注。",
+          "mini_headline": "国乐演唱开放数据集",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Gugak-VocalSet是首个公开的韩国传统歌唱音频数据集，对sigimsae（一种描述声乐表现的结构化音高轮廓体系）进行了密集标注。"
+              },
+              {
+                "t": "p",
+                "x": "它包含24.5小时的无伴奏独唱录音，涵盖由国立国乐院（National Gugak Center）精选的305首代表性曲目，由20位专业歌手在固定调性与速度的受控录音室环境中演唱。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
+                "cap": "Gugak-VocalSet的流派层级。数字表示各类别的曲目数。"
+              },
+              {
+                "t": "p",
+                "x": "除流派、歌词和情绪/音色标签外，它还提供统一的sigimsae本体，以及约68,000个片段（含多标签共71,700个实例）的sigimsae标注，由14位专家标注员完成。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
+                "cap": "标注示例：正乐（上）与民俗乐（下）。"
+              },
+              {
+                "t": "p",
+                "x": "基线实验表明，融入领域知识的F0表征与通用音乐基础模型的冻结探测相比仍具竞争力，在分类任务上更是超越了后者。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Primer dataset abierto de canto\ntradicional coreano para IA",
+          "body": "Gugak-VocalSet reúne 24,5 horas de canto tradicional coreano de 20 profesionales, con anotaciones de sigimsae.",
+          "mini_headline": "Dataset abierto de canto gugak",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Gugak-VocalSet es el primer conjunto de datos de audio públicamente disponible de canto tradicional coreano con anotaciones densas de sigimsae, un sistema estructurado de contornos de altura para las expresiones vocales."
+              },
+              {
+                "t": "p",
+                "x": "Contiene 24,5 horas de grabaciones vocales solistas sin acompañamiento en 305 pistas de repertorio representativo seleccionado por el National Gugak Center, interpretadas por 20 cantantes profesionales en un estudio controlado con tonalidad y tempo fijos."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
+                "cap": "Jerarquía de géneros de Gugak-VocalSet. Los números indican la cantidad de pistas por categoría."
+              },
+              {
+                "t": "p",
+                "x": "Además de etiquetas de género, letra y estado de ánimo/timbre, ofrece una ontología unificada de sigimsae y unos 68.000 segmentos (71.700 instancias, incluidas las multietiqueta) de anotaciones de sigimsae, elaboradas por 14 anotadores expertos."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
+                "cap": "Ejemplos de anotación: jeongak (arriba) y minsogak (abajo)."
+              },
+              {
+                "t": "p",
+                "x": "Los experimentos de referencia muestran que las representaciones de F0 basadas en conocimiento del dominio siguen siendo competitivas frente al sondeo congelado de un modelo fundacional de música de propósito general, y lo superan en clasificación."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI용 첫 공개\n국악 가창 데이터셋",
+          "body": "Gugak-VocalSet은 전문가 20명의 국악 가창 24.5시간을 담았다.",
+          "mini_headline": "국악 가창 공개 데이터셋",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Gugak-VocalSet은 성악 표현의 구조화된 음높이 윤곽 체계인 시김새(sigimsae)에 촘촘한 주석을 단, 국악 가창을 위한 최초의 공개 오디오 데이터셋이다."
+              },
+              {
+                "t": "p",
+                "x": "국립국악원(National Gugak Center)이 선별한 대표 레퍼토리 305곡에 걸친 24.5시간 분량의 무반주 독창 녹음을 담았으며, 전문 가창자 20명이 조성과 템포를 고정한 통제된 스튜디오 환경에서 불렀다."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
+                "cap": "Gugak-VocalSet의 장르 계층. 숫자는 범주별 곡 수를 나타낸다."
+              },
+              {
+                "t": "p",
+                "x": "장르, 가사, 분위기·음색 태그 외에도 통합 시김새 온톨로지와 약 68,000개 구간(다중 레이블 포함 71,700건)의 시김새 주석을 제공하며, 주석은 전문 주석자 14명이 달았다."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
+                "cap": "주석 예시: 정악(위)과 민속악(아래)."
+              },
+              {
+                "t": "p",
+                "x": "기준선 실험 결과, 도메인 지식을 반영한 F0 표현은 범용 음악 파운데이션 모델의 고정(frozen) 프로빙과 대등한 경쟁력을 유지했고, 분류에서는 이를 앞섰다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "韓国伝統歌唱の\nAI向け初の公開データ",
+          "body": "Gugak-VocalSetは、プロ歌手20人による韓国伝統歌唱24.5時間を収録した。",
+          "mini_headline": "国楽歌唱の公開データセット",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Gugak-VocalSetは、声楽表現における構造化された音高輪郭の体系「シギムセ（sigimsae）」に密な注釈を付けた、韓国伝統歌唱のための初の一般公開音声データセットである。"
+              },
+              {
+                "t": "p",
+                "x": "国立国楽院（National Gugak Center）が選定した代表的レパートリー305曲にわたる、計24.5時間の無伴奏ソロ歌唱録音を収録する。歌唱は20人のプロ歌手が、キーとテンポを固定した管理されたスタジオ環境で行った。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
+                "cap": "Gugak-VocalSetのジャンル階層。数字はカテゴリーごとの曲数を示す。"
+              },
+              {
+                "t": "p",
+                "x": "ジャンル、歌詞、ムード・音色タグに加え、統一されたシギムセのオントロジーと、約68,000区間（マルチラベルを含め71,700件）のシギムセ注釈を提供する。注釈は14人の専門アノテーターが付けた。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
+                "cap": "注釈の例：正楽（上）と民俗楽（下）。"
+              },
+              {
+                "t": "p",
+                "x": "ベースライン実験では、ドメイン知識を取り入れたF0表現が、汎用音楽基盤モデルのフローズン・プロービングと互角の性能を保ち、分類ではそれを上回った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "首个面向AI的开放\n韩国传统歌唱数据集",
+          "body": "Gugak-VocalSet收录20位专业歌手的24.5小时韩国传统声乐及其装饰音标注。",
+          "mini_headline": "国乐演唱开放数据集",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Gugak-VocalSet是首个公开的韩国传统歌唱音频数据集，对sigimsae（一种描述声乐表现的结构化音高轮廓体系）进行了密集标注。"
+              },
+              {
+                "t": "p",
+                "x": "它包含24.5小时的无伴奏独唱录音，涵盖由国立国乐院（National Gugak Center）精选的305首代表性曲目，由20位专业歌手在固定调性与速度的受控录音室环境中演唱。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
+                "cap": "Gugak-VocalSet的流派层级。数字表示各类别的曲目数。"
+              },
+              {
+                "t": "p",
+                "x": "除流派、歌词和情绪/音色标签外，它还提供统一的sigimsae本体，以及约68,000个片段（含多标签共71,700个实例）的sigimsae标注，由14位专家标注员完成。"
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
+                "cap": "标注示例：正乐（上）与民俗乐（下）。"
+              },
+              {
+                "t": "p",
+                "x": "基线实验表明，融入领域知识的F0表征与通用音乐基础模型的冻结探测相比仍具竞争力，在分类任务上更是超越了后者。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Primer dataset abierto de canto\ntradicional coreano para IA",
+          "body": "Gugak-VocalSet reúne 24,5 horas de canto tradicional coreano de 20 profesionales, con anotaciones de sigimsae.",
+          "mini_headline": "Dataset abierto de canto gugak",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Gugak-VocalSet es el primer conjunto de datos de audio públicamente disponible de canto tradicional coreano con anotaciones densas de sigimsae, un sistema estructurado de contornos de altura para las expresiones vocales."
+              },
+              {
+                "t": "p",
+                "x": "Contiene 24,5 horas de grabaciones vocales solistas sin acompañamiento en 305 pistas de repertorio representativo seleccionado por el National Gugak Center, interpretadas por 20 cantantes profesionales en un estudio controlado con tonalidad y tempo fijos."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
+                "cap": "Jerarquía de géneros de Gugak-VocalSet. Los números indican la cantidad de pistas por categoría."
+              },
+              {
+                "t": "p",
+                "x": "Además de etiquetas de género, letra y estado de ánimo/timbre, ofrece una ontología unificada de sigimsae y unos 68.000 segmentos (71.700 instancias, incluidas las multietiqueta) de anotaciones de sigimsae, elaboradas por 14 anotadores expertos."
+              },
+              {
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
+                "cap": "Ejemplos de anotación: jeongak (arriba) y minsogak (abajo)."
+              },
+              {
+                "t": "p",
+                "x": "Los experimentos de referencia muestran que las representaciones de F0 basadas en conocimiento del dominio siguen siendo competitivas frente al sondeo congelado de un modelo fundacional de música de propósito general, y lo superan en clasificación."
               }
             ]
           }

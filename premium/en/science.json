@@ -7970,6 +7970,141 @@
           "x": "CERN has stored around one exabyte of experimental LHC data to date, and the number of collisions is set to increase tenfold with the HL-LHC, expected to begin operation around 2030. While the initial focus is on high-energy physics, the partnership could contribute AI approaches for the broader scientific community."
         }
       ]
+    },
+    "science/science-fire-gene-regulation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+          "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+        },
+        {
+          "t": "p",
+          "x": "University of Utah Health researchers, publishing in Cell, built FIRE, a tool that pairs long-read DNA sequencing with machine learning to tell which regulatory regions are active on the maternal and paternal copies of each chromosome."
+        },
+        {
+          "t": "p",
+          "x": "It starts from a method that highlights physically accessible DNA; machine learning then assesses which highlighted regions likely matter for gene regulation, scaling to billions of regions. \"Machine learning here is really copying something that we're able to see with our own eyes in the data,\" says Mitchell R. Vollger."
+        },
+        {
+          "t": "p",
+          "x": "FIRE found tens of thousands of previously overlooked regulatory regions, which are more likely to contain disease-linked variants. In a celiac disease example, changing a single DNA letter in a gene switch next to an immune gene altered how open the switch was."
+        },
+        {
+          "t": "p",
+          "x": "About 40% of the time, the two inherited copies were regulated differently even though their DNA was identical at that spot, and some of these differences were passed on as cells divide — what Vollger calls \"the limits of how much our genetics can determine our gene regulation.\""
+        }
+      ]
+    },
+    "science/science-bulk-metal-testing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+          "cap": "Automated heat treatment, XRD and impact testing linked by robotic specimen transfer. Credit: Science and Technology of Advanced Materials: Methods (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at Tohoku University, working with NIMS and TsubameLab, built a system that links heat treatment, X-ray diffraction and mechanical testing of bulk metals without human intervention. A robotic arm moves specimens between an induction furnace, an XRD instrument and a micro-impact tester."
+        },
+        {
+          "t": "p",
+          "x": "In tests on one- and two-step tempering of JIS SCM435H low-alloy steel, it took approximately 800 seconds per sample, excluding heat-treatment time, with accuracy comparable to manual testing and more than 10 times faster than manual experimentation."
+        },
+        {
+          "t": "p",
+          "x": "The team implemented an AI optimization tool within the NIMS Orchestration System (NIMO) and demonstrated automated optimization of furnace control parameters. \"This work demonstrates that the entire experimental workflow can be automated,\" says Goro Miyamoto."
+        },
+        {
+          "t": "p",
+          "x": "The researchers envision a future closed loop in which AI proposes new heat-treatment conditions and the platform tests them automatically."
+        }
+      ]
+    },
+    "science/science-agentxtract-food-physics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+          "cap": "Xu Zhou measures dielectric properties of food materials in his lab. Credit: Penn State. Creative Commons"
+        },
+        {
+          "t": "p",
+          "x": "Penn State researchers led by Xu Zhou, assistant professor of food science, built AgentXtract, a system of AI agents that extracts experimental food-property data from scientific papers, including tables, figures and equations."
+        },
+        {
+          "t": "p",
+          "x": "Human food engineers identified reliable sources and ensured data quality. The agents gathered more than 4,000 experimental data records in just 30 minutes — work Zhou said once took an experienced researcher six months or more. The study evaluated 10 large language models from OpenAI, Google and Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "Analyzing the database revealed a previously unreported mathematical relationship between two dielectric properties — dielectric constant and loss factor — across more than 100 different foods. Linked to a question-answering AI, the database also produced more evidence-based answers. The work appears in the Journal of Food Engineering."
+        }
+      ]
+    },
+    "science/science-studentsim-ai-tutoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "StudentSim is a Microsoft Research system for evaluating and improving AI tutors before they are tested with real learners; it is not a product and is not intended to replace teachers. Collecting feedback through human studies is slow and costly, so StudentSim trains personalized student simulators from publicly available, de-identified learner records."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Simulators are judged on two dimensions inspired by Vygotsky's zone of proximal development: whether they respond like a specific student, and whether they update after tutor guidance. A two-stage pipeline first trains on records pooled across many students, then specializes on one student's own records."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Across chess, second-language English writing and mathematics, StudentSim outperforms leading baselines. In chess it reaches behavioral fidelity of 0.5150 and guidance responsiveness of 0.9067, versus 0.2316 and 0.7186 for GPT-5.4. A chess tutor trained with StudentSim as the reward source reached 90.5% accuracy, compared with 75.7% without RL and 71.6% with a GPT-5.4 reward."
+        }
+      ]
+    },
+    "science/science-protease": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+          "cap": "Computational design and experimental testing approach. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+        },
+        {
+          "t": "p",
+          "x": "Proteases are naturally occurring enzymes that break down proteins into peptides and even single amino acids. Now scientists have used artificial intelligence to design new versions from scratch."
+        },
+        {
+          "t": "p",
+          "x": "David Baker at the University of Washington and his colleagues used a version of RFdiffusion2 called RFD2-MI to design the 3D shape and core backbones, ProteinMPNN and EnhancedMPNN to select the amino acid sequences, and AlphaFold 3 to check how closely the predicted shapes matched the intended designs."
+        },
+        {
+          "t": "video",
+          "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "The team tested 69 versions of the cysteine protease and 135 of the zinc protease. Out of the 69 cysteine protease candidates, 13 successfully cut their targets; 36% of the 135 zinc protease candidates cut their matching peptide targets. AI refinement boosted the cutting speed of the top zinc protease by 30 times."
+        },
+        {
+          "t": "p",
+          "x": "One of the AI-designed proteases cut full-length TDP-43, a protein that builds up abnormally in ALS and some types of dementia. Others chopped targeted fragments of amyloid-beta, linked to Alzheimer's disease, and serum amyloid A."
+        },
+        {
+          "t": "p",
+          "x": "The enzymes have not yet been tested in human clinical trials. The findings are detailed in two papers published in Nature."
+        }
+      ]
     }
   }
 }

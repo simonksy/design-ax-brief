@@ -8155,6 +8155,141 @@
           "x": "CERNはこれまでに約1エクサバイトのLHC実験データを保存しており、2030年ごろ稼働予定のHL-LHCでは衝突数が10倍に増える。当初は高エネルギー物理学に焦点を当てるが、この提携はより広い科学コミュニティにAIの手法をもたらす可能性がある。"
         }
       ]
+    },
+    "science/science-fire-gene-regulation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+          "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+        },
+        {
+          "t": "p",
+          "x": "University of Utah Healthの研究者はCellに発表した論文で、ロングリードDNAシーケンシングと機械学習を組み合わせ、各染色体の母方・父方コピーでどの調節領域が働いているかを判別するツールFIREを開発した。"
+        },
+        {
+          "t": "p",
+          "x": "出発点は物理的にアクセス可能なDNAを浮かび上がらせる手法で、その後、機械学習が浮かび上がった領域のうち遺伝子調節に関わる可能性が高いものを評価し、数十億の領域にまで対応する。Mitchell R. Vollgerは「ここでの機械学習は、私たちがデータの中に自分の目で見ているものを、まさに再現している」と語る。"
+        },
+        {
+          "t": "p",
+          "x": "FIREはこれまで見落とされていた数万の調節領域を見つけた。それらは疾患に関連する変異を含む可能性が高い。セリアック病の例では、免疫遺伝子の隣にある遺伝子スイッチでDNAの一文字を変えると、スイッチの開き具合が変化した。"
+        },
+        {
+          "t": "p",
+          "x": "約40%のケースで、受け継いだ二つのコピーはその位置のDNAが同一にもかかわらず異なる調節を受けており、その違いの一部は細胞分裂を通じて受け継がれた。Vollgerはこれを「遺伝がどこまで遺伝子調節を決められるかの限界」と呼ぶ。"
+        }
+      ]
+    },
+    "science/science-bulk-metal-testing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+          "cap": "ロボットによる試料搬送で、自動熱処理、XRD、衝撃試験をつなぐ。Credit: Science and Technology of Advanced Materials: Methods (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Tohoku Universityの研究者はNIMSおよびTsubameLabと協力し、バルク金属の熱処理、X-ray回折、機械試験を人手を介さずにつなぐシステムを構築した。ロボットアームが誘導加熱炉、XRD装置、微小衝撃試験機の間で試料を移動させる。"
+        },
+        {
+          "t": "p",
+          "x": "JIS SCM435H低合金鋼の一段階・二段階焼戻しを対象とした試験では、熱処理時間を除いて試料あたり約800秒を要した。精度は手作業の試験と同等で、手作業の実験より10倍以上速かった。"
+        },
+        {
+          "t": "p",
+          "x": "チームはNIMS Orchestration System（NIMO）内にAI最適化ツールを実装し、炉の制御パラメーターの自動最適化を実証した。Goro Miyamotoは「この研究は、実験ワークフロー全体を自動化できることを示している」と述べる。"
+        },
+        {
+          "t": "p",
+          "x": "研究者らは、AIが新たな熱処理条件を提案し、プラットフォームがそれを自動で試験するクローズドループを将来像として描いている。"
+        }
+      ]
+    },
+    "science/science-agentxtract-food-physics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+          "cap": "研究室で食品素材の誘電特性を測定するXu Zhou。Credit: Penn State. Creative Commons"
+        },
+        {
+          "t": "p",
+          "x": "食品科学の助教Xu Zhouが率いるPenn Stateの研究チームは、科学論文の表や図、数式を含む部分から食品物性の実験データを抽出するAIエージェントのシステムAgentXtractを開発した。"
+        },
+        {
+          "t": "p",
+          "x": "人間の食品エンジニアが信頼できる情報源を特定し、データの品質を担保した。エージェントはわずか30分で4,000件を超える実験データを収集した。Zhouによれば、かつては熟練の研究者が六か月以上かけていた作業だという。研究ではOpenAI、Google、Anthropicの大規模言語モデル10種を評価した。"
+        },
+        {
+          "t": "p",
+          "x": "データベースを分析すると、100種類を超える食品にわたり、二つの誘電特性である誘電率と損失係数の間に、これまで報告されていなかった数学的関係が見つかった。質問応答AIと連携させると、データベースはより根拠に基づいた回答も生み出した。成果はJournal of Food Engineeringに掲載された。"
+        }
+      ]
+    },
+    "science/science-studentsim-ai-tutoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "StudentSimは、AIチューターを実際の学習者で試す前に評価・改善するためのMicrosoft Researchのシステムであり、製品ではなく、教師に取って代わることも意図していない。人を対象とした研究でフィードバックを集めるのは時間も費用もかかるため、StudentSimは公開されている匿名化済みの学習者記録から、個別化された生徒シミュレーターを訓練する。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "シミュレーターは、Vygotskyの最近接発達領域に着想を得た二つの観点で評価される。特定の生徒のように反応するか、そしてチューターの指導を受けて変化するかだ。二段階のパイプラインは、まず多くの生徒から集めた記録で訓練し、その後ひとりの生徒自身の記録で特化させる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "チェス、外国語としての英語ライティング、数学のいずれでも、StudentSimは主要なベースラインを上回る。チェスでは行動忠実度0.5150、指導応答性0.9067を達成し、GPT-5.4の0.2316と0.7186を上回った。StudentSimを報酬源として訓練したチェスチューターは精度90.5%に達し、RLなしでは75.7%、GPT-5.4の報酬では71.6%だった。"
+        }
+      ]
+    },
+    "science/science-protease": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+          "cap": "計算設計と実験検証のアプローチ。Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+        },
+        {
+          "t": "p",
+          "x": "プロテアーゼは、タンパク質をペプチドへ、さらには単一のアミノ酸へと分解する天然の酵素である。いま科学者たちは人工知能を使い、新しいものをゼロから設計した。"
+        },
+        {
+          "t": "p",
+          "x": "University of WashingtonのDavid Bakerらは、RFdiffusion2の派生版RFD2-MIで3D形状と中核の骨格を設計し、ProteinMPNNとEnhancedMPNNでアミノ酸配列を選び、AlphaFold 3で予測構造が意図した設計とどれだけ一致するかを確かめた。"
+        },
+        {
+          "t": "video",
+          "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "チームはシステインプロテアーゼ69種と亜鉛プロテアーゼ135種を試験した。システインプロテアーゼ候補69個のうち13個が標的を切断し、亜鉛プロテアーゼ候補135個の36%が対応するペプチド標的を切断した。AIによる改良で、最上位の亜鉛プロテアーゼの切断速度は30倍に高まった。"
+        },
+        {
+          "t": "p",
+          "x": "AI-designedプロテアーゼの一つは、ALSや一部の認知症で異常に蓄積するタンパク質TDP-43を全長で切断した。ほかのものは、Alzheimer's diseaseに関わるamyloid-betaや血清アミロイドAの狙った断片を切り出した。"
+        },
+        {
+          "t": "p",
+          "x": "これらの酵素はまだヒトでの臨床試験にかけられていない。成果はNatureに掲載された二本の論文で報告されている。"
+        }
+      ]
     }
   }
 }

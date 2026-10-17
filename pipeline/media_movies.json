@@ -1,32 +1,7 @@
-{
- "date": "2026-10-17",
- "section": "movies",
- "media": [
-  {
-   "id": "movies-corridorkey2",
-   "type": "video",
-   "src": "pipeline/media/movies-corridorkey2.mp4",
-   "poster": "pipeline/media/movies-corridorkey2.jpg"
-  },
-  {
-   "id": "movies-ai-joke-theft",
-   "type": "image",
-   "src": "pipeline/media/movies-ai-joke-theft.png"
-  },
-  {
-   "id": "movies-wahlberg",
-   "type": "image",
-   "src": "pipeline/media/movies-wahlberg.jpg"
-  },
-  {
-   "id": "movies-franglen",
-   "type": "image",
-   "src": "pipeline/media/movies-franglen.jpg"
-  },
-  {
-   "id": "movies-nollywood",
-   "type": "image",
-   "src": "pipeline/media/movies-nollywood.jpg"
-  }
- ]
-}
+{"date":"2026-10-18","media":[
+ {"id":"movies-artlist-arc","type":"image","src":"pipeline/media/movies-artlist-arc.jpg"},
+ {"id":"movies-cottbus-woman-asleep","type":"image","src":"pipeline/media/movies-cottbus-woman-asleep.jpg"},
+ {"id":"movies-claude-blender-blocking","type":"video","src":"pipeline/media/movies-claude-blender-blocking.mp4","poster":"pipeline/media/movies-claude-blender-blocking.jpg"},
+ {"id":"movies-ivybears","type":"image","src":"pipeline/media/movies-ivybears.jpg"},
+ {"id":"movies-foundry-smartroto","type":"image","src":"pipeline/media/movies-foundry-smartroto.jpg"}
+]}

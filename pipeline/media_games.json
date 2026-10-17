@@ -1,28 +1,31 @@
 {
- "date": "2026-10-17",
- "section": "games",
- "media": [
-  {
-   "id": "games-dayz-brutal",
-   "type": "image",
-   "src": "pipeline/media/games-dayz-brutal.jpg"
-  },
-  {
-   "id": "games-drunken-goddess",
-   "type": "video",
-   "src": "pipeline/media/games-drunken-goddess.mp4",
-   "poster": "pipeline/media/games-drunken-goddess.jpg"
-  },
-  {
-   "id": "games-sakurai-originality",
-   "type": "image",
-   "src": "pipeline/media/games-sakurai-originality.jpg"
-  },
-  {
-   "id": "games-vibe-coding",
-   "type": "video",
-   "src": "pipeline/media/games-vibe-coding.mp4",
-   "poster": "pipeline/media/games-vibe-coding.jpg"
-  }
- ]
+  "date": "2026-10-18",
+  "media": [
+    {
+      "id": "games-konami",
+      "type": "image",
+      "src": "pipeline/media/games-konami.jpg"
+    },
+    {
+      "id": "games-vibe-zombies",
+      "type": "image",
+      "src": "pipeline/media/games-vibe-zombies.jpg"
+    },
+    {
+      "id": "games-wow-forever",
+      "type": "image",
+      "src": "pipeline/media/games-wow-forever.jpg"
+    },
+    {
+      "id": "games-game-finder",
+      "type": "image",
+      "src": "pipeline/media/games-game-finder.jpg"
+    },
+    {
+      "id": "games-junes-journey",
+      "type": "video",
+      "src": "pipeline/media/games-junes-journey.mp4",
+      "poster": "pipeline/media/games-junes-journey.jpg"
+    }
+  ]
 }

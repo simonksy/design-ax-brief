@@ -7793,6 +7793,153 @@
           "x": "Street says the gamified leaderboard has warped into \"a hollow numbers game\" and that decomp.dev as a public index \"is now causing more harm than good.\""
         }
       ]
+    },
+    "games/games-vibe-zombies": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
+          "cap": "Tenderloin Night Shift (Image credit: Pierre-Louis Biojout)"
+        },
+        {
+          "t": "p",
+          "x": "Pierre-Louis Biojout, founder of Y Combinator-backed AI startup NanoCorp, took heat from San Francisco residents and city leaders after publishing a weekend vibe coding project: a web-based shooter set in SF's Tenderloin district, known for homelessness and open drug use."
+        },
+        {
+          "t": "p",
+          "x": "\"San Francisco couldn't fix the Tenderloin,\" Biojout said in a now-deleted X post on October 13. \"So I monetized it [as a] Call of Duty style zombie shooter on the real SF streets.\" He noted he'd already made $300 from in-game ads."
+        },
+        {
+          "t": "p",
+          "x": "The game, Tenderloin Night Shift, had players shoot \"zombies\" that, according to the SF Chronicle and KRON4, included a \"folded\" fentanyl addict and a Black security guard. Jennifer Friedenbach of the SF Coalition on Homelessness said Biojout was \"monetizing the dehumanization and pretend killing for fun of mostly Black and Brown residents.\""
+        },
+        {
+          "t": "p",
+          "x": "Biojout said he had not intended to \"provoke or to depict shooting real people.\" The game appears to have been removed from NanoCorp's website."
+        }
+      ]
+    },
+    "games/games-wow-forever": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
+          "cap": "World of Warcraft: Forever (Image credit: Blizzard Entertainment)"
+        },
+        {
+          "t": "p",
+          "x": "Ahead of World of Warcraft: Forever's release next month, Blizzard has been making social media ads for the new MMO, which it says contain no generative AI content."
+        },
+        {
+          "t": "p",
+          "x": "Responding to allegations online, the company's digital marketing manager wrote on X: \"there have been comments on whether or not we use AI in these videos. That's a big hell nah. We have real team members writing scripts, getting and editing footage, and I've been in recording booths with our VO actors every week.\""
+        },
+        {
+          "t": "p",
+          "x": "World of Warcraft's social media manager added: \"To add, we don't use AI on ANY social content we make. Big hell nah indeed.\""
+        },
+        {
+          "t": "p",
+          "x": "The posts come as others in the industry announce support for gen AI amid widespread layoffs, including Epic Games, whose CEO Tim Sweeney spoke of a \"huge pivot\" toward \"maximum AI acceleration.\""
+        }
+      ]
+    },
+    "games/games-game-finder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+          "cap": "Google Play Game Finder"
+        },
+        {
+          "t": "p",
+          "x": "Google Play has announced Game Finder, an app discoverability update using the latest Google AI tech, tailored to each player's gameplay habits."
+        },
+        {
+          "t": "p",
+          "x": "It recommends games based on a user's interests, including favourite genres and mechanics. This has been described as \"gamer DNA\", an analysis of how a user plays and the preferences they share."
+        },
+        {
+          "t": "p",
+          "x": "Users can filter out games, such as titles that push in-app purchases, or view recommendations based on what people they follow are playing. There are also playlists such as \"best idle games for my commute\". Game Finder has rolled out in English in the US."
+        },
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
+          "cap": "Google Play updates, October 2026"
+        },
+        {
+          "t": "p",
+          "x": "Google Play also now lets users create personal apps via vibe coding in Google AI Studio without a developer account, and plans Age Range Sharing so players can share an age range rather than an exact date of birth."
+        }
+      ]
+    },
+    "games/games-junes-journey": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "hFLKDmPw3XE"
+        },
+        {
+          "t": "p",
+          "x": "Holger Wurst joined Wooga in 2015 and now leads the UI/UX department on June's Journey, the 1920s hidden object mystery that passed $1 billion in revenue in 2023. He runs a team of eleven designers, animators and researchers."
+        },
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
+          "cap": "Poirot joined June's Journey to mark 50 years since Agatha Christie's death."
+        },
+        {
+          "t": "p",
+          "x": "For tie-ins like Wicked and Agatha Christie, he researched players first; their one condition: \"They can never overshadow June.\" His UX rule for hidden object games: \"Don't break mapping.\""
+        },
+        {
+          "t": "p",
+          "x": "On AI, he is enthusiastic about speed. His designers write their own tools for jobs like batch-renaming elements, and he estimates prototypes now come together around 70% faster."
+        },
+        {
+          "t": "p",
+          "x": "Where he draws a hard line is synthetic players built from audience data. \"That's where it's becoming dangerous, where you somehow stop thinking about the player again.\" \"We're still building something for people. And you can't build something for people without people in the room.\""
+        }
+      ]
+    },
+    "games/games-dayz-brutal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DayZ creator Dean Hall says \"our industry is rotting from its core,\" and that AI agent-led development, reverse-engineering and recompilation \"have pushed things over the edge.\" He and studio RocketWerkz have shared Brutal, a free open-source C# framework meant to help developers \"break free of Unity\" and mainstream offerings like Unreal Engine."
+        },
+        {
+          "t": "p",
+          "x": "Brutal is technically not a game engine, but can be used to make games or as a base for custom engines. RocketWerkz's Kitten Space Agency uses it, and Ludeon Studios built RimWorld's new in-house Waylith Engine on it, with performance improved by 2-4x in tests."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
+          "cap": "A screenshot of the upcoming Switch 2 game, DayZ"
+        },
+        {
+          "t": "p",
+          "x": "Kerbal Space Program creator Felipe Falanghe says he used Brutal to make his next game, which is \"very very close to being showable.\""
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
+          "cap": "Tim Sweeney"
+        },
+        {
+          "t": "p",
+          "x": "\"I have watched Unity and Unreal consistently fail to be accountable to developers,\" Hall writes, warning this could get worse as agentic workflows erode established software companies' advantages. He criticizes Epic for chasing \"the metaverse one year, AI the next.\""
+        },
+        {
+          "t": "p",
+          "x": "\"You can use BRUTAL for free, including in commercial games,\" Hall says. \"There are no royalties.\" Only attribution is required. \"If the tools are public... you have options.\""
+        }
+      ]
     }
   }
 }

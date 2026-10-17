@@ -1,31 +1,7 @@
-{
- "date": "2026-10-17",
- "section": "music",
- "media": [
-  {
-   "id": "music-vocaloid7",
-   "type": "image",
-   "src": "pipeline/media/music-vocaloid7.jpg"
-  },
-  {
-   "id": "music-distrokid-suno",
-   "type": "image",
-   "src": "pipeline/media/music-distrokid-suno.jpg"
-  },
-  {
-   "id": "music-duke-spotify",
-   "type": "image",
-   "src": "pipeline/media/music-duke-spotify.png"
-  },
-  {
-   "id": "music-spotify-ai-badge",
-   "type": "image",
-   "src": "pipeline/media/music-spotify-ai-badge.png"
-  },
-  {
-   "id": "music-vibe-coded-plugins",
-   "type": "image",
-   "src": "pipeline/media/music-vibe-coded-plugins.jpg"
-  }
- ]
-}
+{"date":"2026-10-18","media":[
+{"id":"music-suno-korea-hit","type":"image","src":"pipeline/media/music-suno-korea-hit.jpg"},
+{"id":"music-difro2","type":"video","src":"pipeline/media/music-difro2.mp4","poster":"pipeline/media/music-difro2.jpg"},
+{"id":"music-helix-stadium-stems","type":"video","src":"pipeline/media/music-helix-stadium-stems.mp4","poster":"pipeline/media/music-helix-stadium-stems.jpg"},
+{"id":"music-bpb-ai-plugins","type":"image","src":"pipeline/media/music-bpb-ai-plugins.jpg"},
+{"id":"music-gugak-vocalset","type":"image","src":"pipeline/media/music-gugak-vocalset.png"}
+]}

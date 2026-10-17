@@ -1,25 +1,30 @@
 {
- "date": "2026-10-17",
- "section": "books",
- "media": [
-  {
-   "id": "books-authors-guild-ai",
-   "type": "image",
-   "src": "pipeline/media/books-authors-guild-ai.jpg"
-  },
-  {
-   "id": "books-play-books-gemini",
-   "type": "image",
-   "src": "pipeline/media/books-play-books-gemini.jpg"
-  },
-  {
-   "id": "books-ddalkkak-ai-books",
-   "type": "image",
-   "src": "pipeline/media/books-ddalkkak-ai-books.jpg"
-  },
-  {
-   "id": "books-kpa-ai-compensation",
-   "type": "svg"
-  }
- ]
+  "date": "2026-10-18",
+  "media": [
+    {
+      "id": "books-copyright-office-ai",
+      "type": "image",
+      "src": "pipeline/media/books-copyright-office-ai.png"
+    },
+    {
+      "id": "books-market-dilution",
+      "type": "image",
+      "src": "pipeline/media/books-market-dilution.jpg"
+    },
+    {
+      "id": "books-sudowrite-worldbuilding",
+      "type": "image",
+      "src": "pipeline/media/books-sudowrite-worldbuilding.png"
+    },
+    {
+      "id": "books-piccoma-ai-anime",
+      "type": "image",
+      "src": "pipeline/media/books-piccoma-ai-anime.jpg"
+    },
+    {
+      "id": "books-webtoon-ai-budget",
+      "type": "image",
+      "src": "pipeline/media/books-webtoon-ai-budget.jpg"
+    }
+  ]
 }

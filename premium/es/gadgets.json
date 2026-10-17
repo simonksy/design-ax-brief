@@ -8340,6 +8340,164 @@
           "x": "El audio sin procesar no se almacena: se procesa en tiempo real y se elimina, y las transcripciones se cifran con claves que controla el dispositivo. El Frontier ya está disponible en Amazon; el Eclipse llegará poco después."
         }
       ]
+    },
+    "gadgets/gadgets-asusproartp16": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El chip RTX Spark de Nvidia por fin llega a los portátiles, con gráficos RTX para trabajo 3D, vídeo y juegos, y CUDA para ejecutar modelos y agentes de IA en local. Tom's Guide lo probó en el Asus ProArt P16, un portátil para creadores de 16 pulgadas más delgado, con pantalla táctil OLED de 120Hz y hasta 128GB de RAM."
+        },
+        {
+          "t": "p",
+          "x": "El principal atractivo es ejecutar tu propio agente de IA en el dispositivo, sin suscripciones ni tarifas por prompt. La unidad probada combina una CPU RTX Spark N1X de 20 núcleos y una GPU de 6144 núcleos con 128GB de RAM y 2TB de almacenamiento; usa Windows on Arm, así que algunas apps funcionan mediante la emulación Prism de Microsoft."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/vK9xmG6WdjLJK3HrBHWtn9.jpg",
+          "cap": "(Crédito de imagen: Future / Tom's Guide)"
+        },
+        {
+          "t": "p",
+          "x": "Redujo las transcodificaciones 4K-to-1080p de Handbrake a 02:06, superó en juegos a la RTX 4070 dedicada del modelo anterior y aguantó 12 horas y 26 minutos con batería. El MacBook Pro M5 Pro de Apple sigue ganando en rendimiento bruto."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/JNgHvMgZxV3uNywvvgcpp9.jpg",
+          "cap": "(Crédito de imagen: Future / Tom's Guide)"
+        },
+        {
+          "t": "p",
+          "x": "Cuando Red Dead Redemption 2 se cerraba una y otra vez, un Hermes Agent local detectó que se ejecutaba en modo Vulkan, lo cambió a DirectX 12 y lo solucionó. Las pegas: los ventiladores hacen ruido, la zona del teclado se calienta y cuesta entre $2,799 y $6,999; es 'uno de los mejores portátiles de IA', pero solo para usuarios avanzados de IA o creativos 3D."
+        }
+      ]
+    },
+    "gadgets/gadgets-macpaweney": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "MacPaw lanza Eney, un asistente de IA proactivo que opera en tus apps, archivos y sistema para ayudarte a hacer tareas. Nació en 2019 como una idea para simplificar CleanMyMac mediante comandos en lenguaje natural y hoy llega a Mac y iPhone."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-mac.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Eney entiende el contexto del Mac —apps, archivos, reuniones del calendario— y detecta lo que requiere atención, preparando el siguiente paso para que lo apruebes. Al agitar el cursor sobre un texto (o pulsar Option + W) se invoca Eney Wand. Usa modelos locales y en la nube, con modelos propios desarrollados junto a Liquid AI para el hardware de Apple."
+        },
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/mnemos.jpg?quality=82&strip=all"
+        },
+        {
+          "t": "p",
+          "x": "Mnemos, el sistema de memoria de IA de MacPaw, usa un grafo de conocimiento almacenado y procesado localmente en el Mac, aunque aún está en desarrollo. Eney también ofrece ayuda de escritura con Eney Spell, transcripción de llamadas sin bot, alertas de mantenimiento del Mac e integraciones con Gmail, Slack, Notion, Jira, Linear y más, en ocho idiomas."
+        },
+        {
+          "t": "p",
+          "x": "Una prueba gratuita de 14 días incluye 10.000 créditos de IA; los planes van de Starter ($14.99, 10.000 créditos) a Power ($49.99, 30.000 créditos)."
+        }
+      ]
+    },
+    "gadgets/gadgets-eufywindowe10": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
+          "cap": "Una almohadilla adhesiva reutilizable la fija al cristal interior, y un dial trasero inclina la lente hacia abajo hasta 25 grados"
+        },
+        {
+          "t": "p",
+          "x": "Eufy ha lanzado la Window Camera E10, una cámara de seguridad de 64,1 g que se pega al interior de una ventana para vigilar una entrada de coches, un jardín o la puerta principal sin montaje exterior. Cuesta $79.99 en EE. UU. y £69.99 en el Reino Unido, con un pack de dos a $149.99, y se envía en noviembre."
+        },
+        {
+          "t": "p",
+          "x": "Una pegatina adhesiva reutilizable la fija al cristal en menos de un minuto, y un dial trasero inclina la lente hacia abajo hasta 25 grados para quitar el cielo vacío del encuadre. Unas pegatinas antirreflejo reducen el brillo nocturno de las luces interiores."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Axxxx_PRC_TD0x_xx_V1_3-1-pc-new.webp",
+          "cap": "La Window Camera E10"
+        },
+        {
+          "t": "p",
+          "x": "Graba vídeo de 2688 x 1520 a 15fps con una lente f/1.0 y un campo de visión de 125 grados. La detección de movimiento se ejecuta en el propio dispositivo, que clasifica la actividad como persona, vehículo o mascota y envía alertas etiquetadas."
+        },
+        {
+          "t": "p",
+          "x": "Las grabaciones se guardan en una tarjeta microSD de hasta 256GB; Eufy afirma que la detección por IA, la grabación continua y las alertas inteligentes funcionan sin cuota mensual. La E10 no tiene batería y se alimenta con un adaptador de enchufe mediante un cable USB-C de 3m."
+        }
+      ]
+    },
+    "gadgets/gadgets-htcviveeagle": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En septiembre, HTC empezó a vender en EE. UU. sus gafas inteligentes Vive Eagle, de $499. Tienen cámaras, altavoces en la montura y un agente de IA integrado, pero HTC quiere mantenerse al margen del debate sobre privacidad que persigue a las gafas de Meta."
+        },
+        {
+          "t": "p",
+          "x": "El asistente de IA, Vive AI, puede usar ChatGPT de OpenAI o Gemini de Google sin iniciar sesión, de modo que los usuarios quedan 'desidentificados'. AI Plus es gratis durante dos años y después cuesta $2.50 al mes. La batería dura 4,5 horas reproduciendo música."
+        },
+        {
+          "t": "img",
+          "src": "https://media.wired.com/photos/6ad2d199e9b2199c45d6de65/master/w_1600,c_limit/VIVE%2520Eagle%2520-%2520Navy%2520-%2520Sun%2520lens%2520-%2520Front%2520left%2520low%2520angle.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Tapar la luz indicadora detiene la grabación, y las imágenes se cifran y se guardan en las gafas en lugar de enviarse al teléfono o a la nube. \"No somos una empresa de redes sociales\", dice Dan McDowell, de HTC Vive. \"No entrenamos nuestro modelo de IA ni ningún modelo de IA de terceros con ninguna de la información que se usa en las gafas.\""
+        },
+        {
+          "t": "p",
+          "x": "El problema: las Eagle se parecen mucho a las gafas de Meta, así que quienes se preocupan por la privacidad quizá no sepan que son distintas."
+        }
+      ]
+    },
+    "gadgets/gadgets-heygemini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-5.jpg",
+          "cap": "Xreal Aura"
+        },
+        {
+          "t": "p",
+          "x": "Lo que empezó con “Hey Google” y “Ok Google” para Google Assistant ahora parece encaminarse hacia “Hey Gemini”. Al revisar la última versión de la app de Google, encontramos cadenas que apuntan a una nueva palabra de activación “Hey Gemini” para dispositivos Android XR."
+        },
+        {
+          "t": "p",
+          "x": "Las cadenas sugieren que los usuarios podrán decir “Hey Google” o “Hey Gemini” para activar su asistente de AI, y “Ok Google” para iniciar una conversación. La palabra de activación “Hey Gemini” no estará activada por defecto y requerirá encender “Wear Detection”; la opción estará dentro de las preferencias de Glasses."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Xreal-Aura-3.jpg",
+          "cap": "Xreal Aura"
+        },
+        {
+          "t": "p",
+          "x": "También parece que Google dará prioridad a las gafas en las conversaciones con Gemini mientras las llevas puestas, para que el smartphone y las gafas no se activen a la vez."
+        },
+        {
+          "t": "p",
+          "x": "También encontramos cadenas que apuntan a una integración con la cámara. Las gafas Android XR permitirán preguntar cosas como “What plant am I looking at?” (¿qué planta estoy mirando?). Gemini podrá encender la cámara y “ver” lo que estás mirando. Es probable que Google permita desactivar esta función, y aun así podrías usar la cámara diciendo “turn on the camera” o “turn off the camera”."
+        },
+        {
+          "t": "p",
+          "x": "La nueva palabra de activación “Hey Gemini” también podría llegar a los smartphones."
+        }
+      ]
     }
   }
 }

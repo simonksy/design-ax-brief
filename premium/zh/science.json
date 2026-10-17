@@ -7281,6 +7281,141 @@
           "x": "迄今为止，CERN已存储约1艾字节的LHC实验数据；预计约2030年投入运行的HL-LHC将使碰撞数量增加十倍。虽然初期重点是高能物理，但这一合作也可能为更广泛的科学界贡献AI方法。"
         }
       ]
+    },
+    "science/science-fire-gene-regulation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+          "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+        },
+        {
+          "t": "p",
+          "x": "University of Utah Health的研究人员在Cell上发表论文，开发出工具FIRE，将长读长DNA测序与机器学习结合，用于判断每条染色体的母本和父本拷贝上哪些调控区域处于活跃状态。"
+        },
+        {
+          "t": "p",
+          "x": "它从一种标记物理上可及DNA的方法出发；随后由机器学习评估被标记区域中哪些可能对基因调控起作用，规模可扩展到数十亿个区域。Mitchell R. Vollger说：“这里的机器学习其实是在复制我们能在数据中亲眼看到的东西。”"
+        },
+        {
+          "t": "p",
+          "x": "FIRE发现了数万个此前被忽视的调控区域，这些区域更可能含有与疾病相关的变异。在一个乳糜泻案例中，改变免疫基因旁某个基因开关中的单个DNA字母，就改变了该开关的开放程度。"
+        },
+        {
+          "t": "p",
+          "x": "约40%的情况下，两份遗传拷贝在该位点的DNA完全相同，却受到不同的调控，其中一些差异会随细胞分裂传递下去——Vollger称之为“我们的遗传能在多大程度上决定基因调控的极限”。"
+        }
+      ]
+    },
+    "science/science-bulk-metal-testing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+          "cap": "机械臂转运试样，将自动热处理、XRD与冲击测试串联起来。Credit: Science and Technology of Advanced Materials: Methods (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Tohoku University的研究人员与NIMS和TsubameLab合作，建成一套无需人工干预即可串联块体金属热处理、X-ray衍射和力学测试的系统。机械臂在感应炉、XRD仪器和微冲击试验机之间转运试样。"
+        },
+        {
+          "t": "p",
+          "x": "在对JIS SCM435H低合金钢进行一段和两段回火的测试中，每个样品耗时约800秒（不含热处理时间），精度与人工测试相当，速度比人工实验快10倍以上。"
+        },
+        {
+          "t": "p",
+          "x": "团队在NIMS Orchestration System（NIMO）中部署了AI优化工具，并演示了炉控参数的自动优化。Goro Miyamoto表示：“这项工作表明，整个实验流程都可以实现自动化。”"
+        },
+        {
+          "t": "p",
+          "x": "研究人员设想未来形成闭环：由AI提出新的热处理条件，再由平台自动进行测试。"
+        }
+      ]
+    },
+    "science/science-agentxtract-food-physics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+          "cap": "Xu Zhou在实验室测量食品材料的介电特性。Credit: Penn State. Creative Commons"
+        },
+        {
+          "t": "p",
+          "x": "由食品科学助理教授Xu Zhou领导的Penn State研究人员开发了AgentXtract，这是一套AI智能体系统，能从科学论文的表格、图和方程中提取食品特性实验数据。"
+        },
+        {
+          "t": "p",
+          "x": "人类食品工程师负责确定可靠来源并保证数据质量。智能体仅用30分钟就收集了4,000多条实验数据记录——Zhou说，这项工作过去需要经验丰富的研究人员花六个月甚至更久。研究评估了来自OpenAI、Google和Anthropic的10个大语言模型。"
+        },
+        {
+          "t": "p",
+          "x": "分析该数据库后，研究人员在100多种食品中发现了两种介电特性——介电常数与损耗因子——之间此前未被报道的数学关系。与问答AI连接后，该数据库还给出了更有依据的回答。该研究发表于Journal of Food Engineering。"
+        }
+      ]
+    },
+    "science/science-studentsim-ai-tutoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "StudentSim是Microsoft Research的一套系统，用于在AI导师接受真实学习者测试之前对其进行评估和改进；它不是产品，也无意取代教师。通过人类研究收集反馈既慢又昂贵，因此StudentSim利用公开的、已去标识化的学习者记录训练个性化的学生模拟器。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "模拟器从受Vygotsky最近发展区启发的两个维度接受评判：是否像某个特定学生那样作答，以及在获得导师指导后是否有所改变。一个两阶段流程先用汇集自众多学生的记录训练，再用单个学生自己的记录进行专门化。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "在国际象棋、非母语英语写作和数学领域，StudentSim均优于主要基线。在国际象棋中，它的行为保真度达0.5150，指导响应度达0.9067，而GPT-5.4分别为0.2316和0.7186。以StudentSim作为奖励来源训练的国际象棋导师准确率达到90.5%，不使用RL时为75.7%，使用GPT-5.4奖励时为71.6%。"
+        }
+      ]
+    },
+    "science/science-protease": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+          "cap": "计算设计与实验验证的流程。Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+        },
+        {
+          "t": "p",
+          "x": "蛋白酶是天然存在的酶，能把蛋白质分解成多肽，甚至分解到单个氨基酸。如今科学家用人工智能从零设计出新的蛋白酶。"
+        },
+        {
+          "t": "p",
+          "x": "University of Washington的David Baker及同事，用RFdiffusion2的一个版本RFD2-MI设计3D形状与核心骨架，用ProteinMPNN和EnhancedMPNN挑选氨基酸序列，再用AlphaFold 3核对预测结构与设计意图的吻合程度。"
+        },
+        {
+          "t": "video",
+          "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "团队测试了69种半胱氨酸蛋白酶和135种锌蛋白酶。69个半胱氨酸蛋白酶候选中有13个成功切开目标；135个锌蛋白酶候选中有36%切开了各自对应的多肽目标。经AI优化，最佳锌蛋白酶的切割速度提高到30倍。"
+        },
+        {
+          "t": "p",
+          "x": "其中一种AI-designed蛋白酶切开了全长TDP-43，这种蛋白会在ALS和部分痴呆中异常堆积。另一些则切下与Alzheimer's disease相关的amyloid-beta以及血清淀粉样蛋白A的指定片段。"
+        },
+        {
+          "t": "p",
+          "x": "这些酶尚未进入人体临床试验。相关结果发表于Nature的两篇论文。"
+        }
+      ]
     }
   }
 }

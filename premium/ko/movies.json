@@ -12531,6 +12531,135 @@
           "src": "https://nofilmschool.com/media-library/image.png?id=68441556&width=980"
         }
       ]
+    },
+    "movies/movies-cottbus-woman-asleep": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
+          "cap": "A Woman Asleep"
+        },
+        {
+          "t": "p",
+          "x": "아티스트이자 영화감독인 Vikki Bardot의 AI-generated 장편 A Woman Asleep이 11월 3~8일 열리는 독일 FilmFestival Cottbus 본선 경쟁 부문에 선정됐다. 기성 국제영화제 본선 경쟁에 오른 AI-generated 장편은 이번이 처음으로 알려졌다."
+        },
+        {
+          "t": "p",
+          "x": "Bardot의 반자전적 각본으로 만든 이 영화는 숏 50,000개를 편집한 결과물이다. 숏은 모두 Bardot가 직접 학습·맞춤화한 AI 모델로 생성했다. 내레이션은 감독의 AI 음성 클론이 맡았고, 음악도 모두 AI로 생성했다."
+        },
+        {
+          "t": "p",
+          "x": "“점점 더 단절되고 기계처럼 변해 가는 사회를 비추려고 합성 이미지와 감정이 밋밋한 제 목소리의 AI 클론을 의도적으로 썼습니다.” Bardot의 말이다."
+        },
+        {
+          "t": "p",
+          "x": "제작은 터키의 Spongeworthy Studio, 각본은 Alkan Avcıoğlu와 함께 썼다. 이달 말 Antalya Golden Orange에서 첫선을 보이며, 터키 배급사 Başka Sinema에 판매됐다. 영화제 집행위원장 Bernd Buder는 이 작품의 “분석적 예리함, 개인적 감성, 서사적 침착함”을 치켜세웠다."
+        }
+      ]
+    },
+    "movies/movies-claude-blender-blocking": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "BExtQ740QgM"
+        },
+        {
+          "t": "p",
+          "x": "Curious Refuge는 Albert Bozesan과 함께 AI 카메라 제어 워크플로를 소개한다. 텍스트 프롬프트에만 기대는 대신 3D로 숏부터 계획하고 그 애니메이션으로 AI 영상 생성을 이끄는 방식이다."
+        },
+        {
+          "t": "p",
+          "x": "Claude는 공식 Blender MCP 애드온으로 Blender에 붙어 지시대로 환경을 만들고 캐릭터 포즈를 잡고 카메라를 배치하고 애니메이션을 만든다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
+          "cap": "Blender MCP 애드온을 켠 화면"
+        },
+        {
+          "t": "p",
+          "x": "Albert가 만든 스타터 키트에는 프롬프트 템플릿, 카메라 가이드라인, Claude가 복제하고 포즈를 잡을 수 있는 리깅된 캐릭터, 환경 생성기, 720p 레퍼런스 렌더 설정이 들어 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
+          "cap": "Magnific으로 만든 환경 레퍼런스"
+        },
+        {
+          "t": "p",
+          "x": "레퍼런스 이미지는 Magnific에서 만든다. 렌더링한 애니매틱과 이 이미지를 Seedance 2.5에 함께 올리면 최종 시네마틱 숏이 완성된다."
+        }
+      ]
+    },
+    "movies/movies-ivybears": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
+          "cap": "IvyBears (Moontrail Animation Studios)"
+        },
+        {
+          "t": "p",
+          "x": "IvyBears 창업자 겸 CEO Kaan Haylaz 박사는 MIPJunior에서 “리버스 플라이휠 전략”을 소개했다. 편식으로 힘들어하던 아들을 도우려고 만든 IvyBears 비타민 구미가 먼저 나왔고, 엔터테인먼트 IP는 나중에 붙었다."
+        },
+        {
+          "t": "p",
+          "x": "Haylaz의 몰타 기반 Moontrail Animation Studios는 AI 도구를 쓰되 방향은 사람의 재능이 잡는다. 그는 “AI는 영화감독이 아니다. AI는 영화감독 손에 들린 도구다”라고 말했다. 정규직 20여 명인 작은 스튜디오지만 12분짜리 에피소드를 약 2주 만에 만든다."
+        },
+        {
+          "t": "p",
+          "x": "그에 따르면 생성형 AI 작업은 프롬프트 입력보다 훨씬 손이 많이 간다. 한 에피소드 내내 캐릭터, 조명, 연기를 일관되게 유지하려면 “상당한 감독, 반복, 세부에 대한 주의”가 필요하다."
+        },
+        {
+          "t": "p",
+          "x": "올해 초 문을 연 IvyBears YouTube 채널은 구독자 770만 명 이상, 플랫폼 합산 조회수 7500만 회를 기록했다. Moontrail은 다른 시리즈(“The Dr Muppy Show”, “Banana Rainbow”)로 넓혀 가는 중이고 IvyBears 장편 애니메이션도 개발 중으로 연내 제작에 들어갈 예정이다."
+        }
+      ]
+    },
+    "movies/movies-foundry-smartroto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
+          "cap": "Foundry SmartRoto"
+        },
+        {
+          "t": "p",
+          "x": "Foundry의 SmartRoto는 프레임 단위로 이어지는 고된 로토스코핑 작업을 겨냥한 Nuke용 AI-assisted 애드온이다. Nuke의 기존 Roto 노드 안에 들어 있어서 스플라인 아티스트는 새로 익힐 게 거의 없다."
+        },
+        {
+          "t": "p",
+          "x": "SmartRoto는 평면 매트를 뽑지 않고 실제 벡터 스플라인을 다룬다. 입력 프레임 두어 개만으로 스플라인을 시퀀스 전체에 전파하고 변형한다. 그래서 삐져나온 머리카락 하나를 고칠 때도 숏을 다시 로토할 필요 없이 익숙한 포인트를 잡아 고치면 된다."
+        },
+        {
+          "t": "p",
+          "x": "워크플로는 비선형이다. 아무 위치로 이동해 셰이프에 키를 주면 도구가 보간한다. Resolve의 Magic Mask, Mocha Pro의 Matte Assist, Nuke의 CopyCat과 시간을 재 가며 비교해 본 테스트에서 리뷰어 Todd Sheridan Perry는 작업 속도가 “4배” 빨라졌다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "단점도 있다. Nuke 라이선스와 별도인 유료 애드온이고, Nuke 16.1 이상이 필요하며, 감독을 대신하지 못하는 보조 도구일 뿐이다. 리뷰는 Gaomon PD1561 V2와 Huion Kamvas Pro 24 펜 디스플레이도 다룬다."
+        }
+      ]
+    },
+    "movies/movies-corridorkey2": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "godomkRXBLE"
+        },
+        {
+          "t": "p",
+          "x": "Corridor Crew는 10월 16일 “CorridorKey 2.0 just works...”라는 제목의 45초 YouTube Short를 올렸다. 설명은 “This Weekend.” 한 줄이 전부이고, 2.0 버전의 기능 목록이나 변경 내역은 영상에 나오지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "CorridorKey는 Niko Pueringer가 Corridor에서 만들어 GitHub에 오픈소스로 공개한 무료 신경망 키어다. 원본 그린스크린 프레임을 넣으면 전경을 분리하고, 모션 블러나 초점이 나간 가장자리까지 모든 픽셀의 실제 스트레이트 컬러를 깨끗한 선형 알파 채널과 함께 예측한다. “AI Roto” 도구가 흔히 내놓는 거친 이진 마스크와는 다르다."
+        },
+        {
+          "t": "p",
+          "x": "지금 저장소에 올라온 기능은 자동 감지를 갖춘 그린스크린·블루스크린 전용 체크포인트, 네이티브 2048x2048 백본에서 최대 4K 해상도까지 해상도와 무관하게 돌아가는 추론, Nuke·Fusion·Resolve용 16비트·32비트 선형 EXR 입출력, 트래킹 마커 자동 정리다. 최신 빌드는 6–8GB VRAM과 대부분의 M1+ Macs에서 돌아간다."
+        }
+      ]
     }
   }
 }

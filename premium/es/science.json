@@ -7720,6 +7720,141 @@
           "x": "El CERN ha almacenado hasta la fecha alrededor de un exabyte de datos experimentales del LHC, y el número de colisiones se multiplicará por diez con el HL-LHC, que se espera que empiece a funcionar hacia 2030. Aunque el foco inicial es la física de altas energías, la alianza podría aportar enfoques de AI a la comunidad científica en general."
         }
       ]
+    },
+    "science/science-fire-gene-regulation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
+          "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de University of Utah Health, en un estudio publicado en Cell, crearon FIRE, una herramienta que combina la secuenciación de DNA de lectura larga con aprendizaje automático para determinar qué regiones reguladoras están activas en las copias materna y paterna de cada cromosoma."
+        },
+        {
+          "t": "p",
+          "x": "Parte de un método que resalta el DNA físicamente accesible; luego, el aprendizaje automático evalúa cuáles de las regiones resaltadas probablemente importan para la regulación génica, a una escala de miles de millones de regiones. \"Aquí el aprendizaje automático realmente copia algo que podemos ver con nuestros propios ojos en los datos\", dice Mitchell R. Vollger."
+        },
+        {
+          "t": "p",
+          "x": "FIRE encontró decenas de miles de regiones reguladoras antes pasadas por alto, que tienen más probabilidad de contener variantes ligadas a enfermedades. En un ejemplo de enfermedad celíaca, cambiar una sola letra del DNA en un interruptor génico junto a un gen inmunitario alteró cuán abierto estaba el interruptor."
+        },
+        {
+          "t": "p",
+          "x": "Alrededor del 40% de las veces, las dos copias heredadas se regulaban de forma distinta aunque su DNA era idéntico en ese punto, y algunas de estas diferencias se transmitían al dividirse las células: lo que Vollger llama \"los límites de cuánto puede determinar nuestra genética la regulación de nuestros genes\"."
+        }
+      ]
+    },
+    "science/science-bulk-metal-testing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
+          "cap": "Tratamiento térmico, XRD y ensayos de impacto automatizados, conectados mediante transferencia robótica de probetas. Credit: Science and Technology of Advanced Materials: Methods (2026)"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Tohoku University, en colaboración con NIMS y TsubameLab, crearon un sistema que enlaza el tratamiento térmico, la difracción de rayos X (X-ray) y los ensayos mecánicos de metales en bloque sin intervención humana. Un brazo robótico traslada las probetas entre un horno de inducción, un instrumento de XRD y un probador de microimpacto."
+        },
+        {
+          "t": "p",
+          "x": "En pruebas de revenido de una y dos etapas del acero de baja aleación JIS SCM435H, tardó aproximadamente 800 segundos por muestra, sin contar el tiempo de tratamiento térmico, con una precisión comparable a la de las pruebas manuales y más de 10 veces más rápido que la experimentación manual."
+        },
+        {
+          "t": "p",
+          "x": "El equipo implementó una herramienta de optimización con AI dentro del NIMS Orchestration System (NIMO) y demostró la optimización automatizada de los parámetros de control del horno. \"Este trabajo demuestra que todo el flujo experimental puede automatizarse\", dice Goro Miyamoto."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores imaginan un futuro ciclo cerrado en el que la AI proponga nuevas condiciones de tratamiento térmico y la plataforma las pruebe automáticamente."
+        }
+      ]
+    },
+    "science/science-agentxtract-food-physics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
+          "cap": "Xu Zhou mide las propiedades dieléctricas de materiales alimentarios en su laboratorio. Credit: Penn State. Creative Commons"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Penn State dirigidos por Xu Zhou, profesor adjunto de ciencia de los alimentos, crearon AgentXtract, un sistema de agentes de AI que extrae de artículos científicos datos experimentales sobre propiedades de los alimentos, incluidos tablas, figuras y ecuaciones."
+        },
+        {
+          "t": "p",
+          "x": "Ingenieros de alimentos humanos identificaron fuentes fiables y garantizaron la calidad de los datos. Los agentes reunieron más de 4,000 registros de datos experimentales en solo 30 minutos, un trabajo que, según Zhou, antes le llevaba a un investigador experimentado seis meses o más. El estudio evaluó 10 modelos de lenguaje de gran tamaño de OpenAI, Google y Anthropic."
+        },
+        {
+          "t": "p",
+          "x": "El análisis de la base de datos reveló una relación matemática no descrita hasta ahora entre dos propiedades dieléctricas —la constante dieléctrica y el factor de pérdida— en más de 100 alimentos distintos. Conectada a una AI de preguntas y respuestas, la base de datos también produjo respuestas más basadas en evidencia. El trabajo se publica en el Journal of Food Engineering."
+        }
+      ]
+    },
+    "science/science-studentsim-ai-tutoring": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "StudentSim es un sistema de Microsoft Research para evaluar y mejorar tutores de AI antes de probarlos con estudiantes reales; no es un producto ni pretende sustituir a los docentes. Recoger retroalimentación mediante estudios con personas es lento y costoso, así que StudentSim entrena simuladores de estudiantes personalizados a partir de registros de aprendizaje públicos y anonimizados."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Los simuladores se evalúan en dos dimensiones inspiradas en la zona de desarrollo próximo de Vygotsky: si responden como un estudiante concreto y si cambian tras la guía del tutor. Un proceso en dos etapas primero entrena con registros agrupados de muchos estudiantes y luego se especializa con los registros de un solo estudiante."
+        },
+        {
+          "t": "img",
+          "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "En ajedrez, escritura en inglés como segunda lengua y matemáticas, StudentSim supera a las principales referencias. En ajedrez alcanza una fidelidad conductual de 0.5150 y una capacidad de respuesta a la guía de 0.9067, frente a 0.2316 y 0.7186 de GPT-5.4. Un tutor de ajedrez entrenado con StudentSim como fuente de recompensa alcanzó un 90.5% de precisión, frente al 75.7% sin RL y el 71.6% con una recompensa de GPT-5.4."
+        }
+      ]
+    },
+    "science/science-protease": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-designed-molecular-1.jpg",
+          "cap": "Enfoque de diseño computacional y validación experimental. Credit: Nature (2026). DOI: 10.1038/s41586-026-11143-w"
+        },
+        {
+          "t": "p",
+          "x": "Las proteasas son enzimas naturales que descomponen las proteínas en péptidos e incluso en aminoácidos sueltos. Ahora los científicos han usado inteligencia artificial para diseñar versiones nuevas desde cero."
+        },
+        {
+          "t": "p",
+          "x": "David Baker, de la University of Washington, y sus colegas usaron una versión de RFdiffusion2 llamada RFD2-MI para diseñar la forma 3D y los esqueletos centrales, ProteinMPNN y EnhancedMPNN para elegir las secuencias de aminoácidos, y AlphaFold 3 para comprobar hasta qué punto las formas predichas coincidían con los diseños previstos."
+        },
+        {
+          "t": "video",
+          "src": "https://scx2.b-cdn.net/gfx/video/2026/ai-designed-molecular-1.mp4"
+        },
+        {
+          "t": "p",
+          "x": "El equipo probó 69 versiones de la proteasa de cisteína y 135 de la proteasa de zinc. De los 69 candidatos de proteasa de cisteína, 13 cortaron sus objetivos; el 36% de los 135 candidatos de proteasa de zinc cortó el péptido correspondiente. El refinamiento con IA multiplicó por 30 veces la velocidad de corte de la mejor proteasa de zinc."
+        },
+        {
+          "t": "p",
+          "x": "Una de las proteasas AI-designed cortó TDP-43 de longitud completa, una proteína que se acumula de forma anómala en la ALS y en algunos tipos de demencia. Otras cortaron fragmentos concretos de amyloid-beta, vinculada a la Alzheimer's disease, y de amiloide sérico A."
+        },
+        {
+          "t": "p",
+          "x": "Las enzimas aún no se han probado en ensayos clínicos con personas. Los resultados se detallan en dos artículos publicados en Nature."
+        }
+      ]
     }
   }
 }

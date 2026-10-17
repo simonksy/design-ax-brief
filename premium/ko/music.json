@@ -11835,6 +11835,156 @@
           "x": "연구는 기존 탐지기가 어디에 강하고 어디서 약한지 짚는다. 더 믿을 만한 AI 음악 탐지 시스템을 만들 때 참고할 실용적인 단서도 함께 내놓는다."
         }
       ]
+    },
+    "music/music-difro2": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "DY5QI4idlRU"
+        },
+        {
+          "t": "p",
+          "x": "Initial Audio가 Difro 2를 무료로 내려받을 수 있게 공개하며 자사 역대 가장 강력한 AI MIDI 생성기라고 소개했다."
+        },
+        {
+          "t": "p",
+          "x": "회사는 AI 모델을 처음부터 다시 학습시켰고, 그 덕에 품질과 음악성, 창의성이 크게 나아졌다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Difro 2는 기존 MIDI 멜로디를 받아 원곡의 분위기와 개성, 음악적 DNA는 살린 채 새 아이디어로 풀어낸다."
+        },
+        {
+          "t": "p",
+          "x": "달라진 점은 이렇다. 완전히 재학습한 AI 모델, 크게 개선된 MIDI 생성 품질, 원래 멜로디의 DNA를 더 잘 보존하는 능력, 더 음악적이고 일관된 결과, 기존 MIDI 아이디어에서 끝없이 뽑아내는 새 변주다."
+        },
+        {
+          "t": "p",
+          "x": "14분 분량의 첫인상 영상에서 Initial Audio는 Difro 2로 멜로디를 실시간 생성하며 성능을 시험한다."
+        }
+      ]
+    },
+    "music/music-helix-stadium-stems": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Line 6 Helix Stadium의 새 펌웨어 업데이트에는 눈길을 끄는 앰프와 이펙트, 스템 분리 기능이 새로 들어갔다."
+        },
+        {
+          "t": "p",
+          "x": "펌웨어 업데이트 1.4(“The Eras Update”)는 무료이며, 서로 다른 6개 앰프에서 가져온 Agoura 앰프 채널 설정 14개를 더해 Agoura 채널은 모두 67개로 늘었다. 새로 추가된 것은 Marshall Plexi Superlead의 여러 버전을 모델링한 Brit SL100, Granophyre 6L6 기반의 Omega Granophyre, Line 6 Litigator의 최신 진화형인 Prosecutor다."
+        },
+        {
+          "t": "video",
+          "yt": "StAMPE_XF1M"
+        },
+        {
+          "t": "p",
+          "x": "새로운 디스토션·모듈레이션 이펙트 6종과 기존 Agoura 앰프 모델 개선도 들어갔고 USB로 연결하면 Helix Stadium 앱에서 편집할 수 있다. Yamaha의 Music Connect를 쓰면 오디오 파일을 Helix Stadium의 Showcase 엔진으로 불러와 드럼, 베이스, 기타, 보컬, 그 외의 다섯 개 파일로 분리할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "업데이트는 Line 6 Account를 이용해 Wi-Fi로 설치하거나, Helix Stadium 앱에서 USB로 직접 설치하면 된다."
+        }
+      ]
+    },
+    "music/music-bpb-ai-plugins": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
+        },
+        {
+          "t": "p",
+          "x": "요즘 플러그인 업계는 크게 달라졌다. 매일 나오는 플러그인이 너무 많아 따라가기 벅차고 평균 품질은 크게 떨어졌다."
+        },
+        {
+          "t": "p",
+          "x": "AI 도구가 코딩 속도를 끌어올리고, 코드를 몰라도 소프트웨어를 만들 수 있게 해 주는 것이 큰 원인이다. 품질 문제로 번지기도 하지만 이런 “vibe-coded” 도구 중 일부는 사용자들에게 꽤 좋은 반응을 얻는다."
+        },
+        {
+          "t": "p",
+          "x": "한편에는 텍스트 프롬프트로 음악이나 오디오를 생성하는 AI 도구다. 반대쪽 끝에는 하드웨어 장비, 특히 가상 기타 앰프를 모델링하는 데 쓰이는 머신러닝이 있는데, 대체로 압도적인 호평을 받는다."
+        },
+        {
+          "t": "p",
+          "x": "나는 BPB 뉴스 섹션에 실리는 소프트웨어를 철저히 걸러 왔고, 이른바 “AI slop”을 막으려 최선을 다했다. 하지만 물량은 계속 늘고 있고, 어딘가에는 선을 그어야 한다."
+        },
+        {
+          "t": "p",
+          "x": "설문은 짧다. 10월 20일 화요일까지 답해 주기 바란다. 결과는 이후 공유하고, 그에 맞춰 BPB가 갈 방향을 정하겠다. — Tomislav Zlatic"
+        }
+      ]
+    },
+    "music/music-gugak-vocalset": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Gugak-VocalSet은 성악 표현의 구조화된 음높이 윤곽 체계인 시김새(sigimsae)에 촘촘히 주석을 단 데이터셋으로, 국악 가창을 다룬 공개 오디오 데이터셋은 이것이 처음이다."
+        },
+        {
+          "t": "p",
+          "x": "국립국악원(National Gugak Center)이 선별한 대표 레퍼토리 305곡에 걸친 24.5시간 분량의 무반주 독창 녹음이 들어 있다. 전문 가창자 20명이 조성과 템포를 고정한 스튜디오에서 불렀다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
+          "cap": "Gugak-VocalSet의 장르 계층. 숫자는 범주별 곡 수를 나타낸다."
+        },
+        {
+          "t": "p",
+          "x": "장르, 가사, 분위기·음색 태그 외에도 통합 시김새 온톨로지와 약 68,000개 구간(다중 레이블 포함 71,700건)의 시김새 주석을 제공한다. 주석 작업은 전문 주석자 14명이 맡았다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
+          "cap": "주석 예시: 정악(위)과 민속악(아래)."
+        },
+        {
+          "t": "p",
+          "x": "기준선 실험에서 도메인 지식을 반영한 F0 표현은 범용 음악 파운데이션 모델의 고정(frozen) 프로빙과 대등했고 분류에서는 오히려 앞섰다."
+        }
+      ]
+    },
+    "music/music-vocaloid7": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release-00.webp"
+        },
+        {
+          "t": "p",
+          "x": "Yamaha가 Hatsune Miku V6 출시 후 여섯 달이 채 안 되어 VOCALOID7을 공식 발표했다. 새 “VOCALOID7 Editor”는 사 년 만에 VOCALOID6의 뒤를 잇는다. 전용 보이스뱅크도 새 세대로 내놓지만, VOCALOID3까지 거슬러 올라가는 기존 제품 지원은 그대로 이어간다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/vocaloid7-release.webp"
+        },
+        {
+          "t": "p",
+          "x": "“Hatsune Miku V6”는 2026년 4월 14일 새 AI-powered 보컬을 앞세워 나왔다. Crypton Future Media는 Yamaha와 함께 Miku V6 일본어·영어 보이스뱅크의 VOCALOID7-compatible 버전을 만드는 중이고, 2027년 중 되도록 이른 시점에 기존 V6 사용자에게 무료로 풀 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "VOCALOID7에 어떤 기능이 새로 들어가는지는 아직 알려지지 않았다. 에디터에는 “asa”라는 새 보이스뱅크가 함께 들어간다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.essential-japan.com/wp-content/uploads/2026/10/aimegpoid-vocaloid7-1.webp"
+        },
+        {
+          "t": "p",
+          "x": "Internet Co.는 같은 날 “VOCALOID7 Voicebank AI Megpoid”를 내놓는다. Megumi Nakajima를 바탕으로 만들어 VOCALOID7 AI 엔진에 맞게 다듬었고, 여덟 가지 보이스 타입을 고를 수 있다. LUCI도 VOCALOID FAN-ding으로 출시에 맞춰 나온다."
+        },
+        {
+          "t": "p",
+          "x": "“VOCALOID7 Editor”는 2026년 11월 11일 세전 $129에 출시되고, 업그레이드판 정가는 $69다."
+        }
+      ]
     }
   }
 }

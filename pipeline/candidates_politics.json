@@ -1,78 +1,29 @@
 {
  "section": "politics",
- "generated_at": "2026-10-16T22:00:37Z",
- "now_iso": "2026-10-16T22:00:37Z",
+ "date": "2026-10-18",
+ "generated_at": "2026-10-17T22:00:34Z",
+ "now_iso": "2026-10-17T22:00:34Z",
  "window_hours": 72,
  "items": [
   {
-   "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as \"hoax\"",
-   "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-   "source": "Ars Technica",
+   "title": "Meta removes language that may have allowed it to scrape news sites",
+   "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+   "source": "The Verge",
    "category": "politics",
    "axis": "policy",
-   "published_iso": "2026-10-15T15:43:24+00:00",
-   "excerpt": "The FTC sent civil investigative demands to Anthropic and OpenAI over recent AI safety/security incidents, probing potential consumer-protection violations; fines could mirror those for delayed data-breach reports (first reported by Axios).",
-   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2277824748-1024x648.jpg"
+   "published_iso": "2026-10-17T15:04:36+00:00",
+   "excerpt": "After backlash, Meta revised its upcoming business terms (effective Oct 30) to remove language experts said would let it scrape publishers' sites, including news sites, to train its AI.",
+   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
   },
   {
-   "title": "The EU is facing Big Tech pressure to revamp its AI law",
-   "url": "https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/",
-   "source": "POLITICO Europe",
+   "title": "Legal experts warn Meta's new terms still grant broad scraping permissions, despite language changes",
+   "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+   "source": "Nieman Lab",
    "category": "politics",
    "axis": "policy",
-   "published_iso": "2026-10-15T18:12:09+00:00",
-   "excerpt": "Microsoft and Google DeepMind executives are pushing Brussels to rework the AI Act for the newest frontier models; Commission officials insist the law is strong enough to handle their security risks.",
-   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/15/GettyImages-2299600033-scaled.jpg"
-  },
-  {
-   "title": "UK keeps AI safeguards in the maybe pile for Cyber Security Bill",
-   "url": "https://www.theregister.com/ai-and-ml/2026/10/15/uk-keeps-ai-safeguards-in-the-maybe-pile-for-cyber-security-bill/5303026",
-   "source": "The Register",
-   "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-15T09:15:00Z",
-   "excerpt": "UK officials say AI-specific amendments to the Cyber Security and Resilience Bill remain under consideration despite a minister's earlier pledge to act.",
-   "og_image": "https://image.theregister.com/5219960.jpg?imageId=5219960&x=0&y=3.61&cropw=100&croph=71.67&panox=0&panoy=3.61&panow=100&panoh=71.67&width=1200&height=683"
-  },
-  {
-   "title": "CMA takes first steps to ensure choice in business software (proposes Microsoft strategic market status, AI tools in scope)",
-   "url": "https://www.gov.uk/government/news/cma-takes-first-steps-to-ensure-choice-in-business-software",
-   "source": "GOV.UK (CMA)",
-   "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-16T09:00:00Z",
-   "excerpt": "Primary doc: the UK Competition and Markets Authority proposes designating Microsoft with strategic market status in business software, explicitly citing agentic AI in workplace tools and whether rival AI providers get a level playing field.",
-   "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-  },
-  {
-   "title": "Commission launches RAISE pledging initiative to boost AI support for researchers across Europe",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2175",
-   "source": "European Commission",
-   "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-15T12:03:07Z",
-   "excerpt": "Primary doc: at the European AI in Science Summit in Dublin the Commission launched the RAISE (Resource for AI Science in Europe) pledging initiative for AI-in-science enablers. Note: Dublin summit context is in dedup list; this is a distinct formal Commission initiative.",
-   "og_image": "https://ec.europa.eu/commission/presscorner/static/sm_ec_logo_big.jpg"
-  },
-  {
-   "title": "How are countries evaluating AI models?",
-   "url": "https://www.brookings.edu/articles/how-are-countries-evaluating-ai-models/",
-   "source": "Brookings",
-   "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-16T21:20:37+00:00",
-   "excerpt": "Brookings background briefing (for the FCAI dialogue) comparing how governments and AI safety institutes test and evaluate frontier AI models.",
-   "og_image": "https://www.brookings.edu/wp-content/uploads/2026/09/EliseRacine-ToyModels-I-2560x1658-1.jpg"
-  },
-  {
-   "title": "Exclusive: AI safety money floods into political races",
-   "url": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
-   "source": "Axios",
-   "category": "politics",
-   "axis": "elections",
-   "published_iso": "2026-10-14T09:00:05Z",
-   "excerpt": "AI safety and regulation advocates have spent about $48 million this US election cycle backing pro-regulation candidates, per an analysis shared with Axios. (Page is bot-blocked; time from Axios RSS pubDate.)",
-   "og_image": "https://images.axios.com/2b6-dldIV5YGCxwqCbJ9xhEtX7M=/0x0:1920x1080/1366x768/2026/10/13/1791918683449.jpeg"
+   "published_iso": "2026-10-17T18:49:46+00:00",
+   "excerpt": "Meta removed the word 'train' from its business-account terms after Nieman Lab's report, but legal experts say the revised terms still permit broad scraping of sites 'associated with' business accounts. (published time from RSS pubDate; page Cloudflare-blocked)",
+   "og_image": "https://www.niemanlab.org/images/AdobeStock_1108807119_Editorial_Use_Only-990x623.jpeg"
   },
   {
    "title": "Trump posts AI-edited photo to brag about White House restoration work",
@@ -81,68 +32,78 @@
    "category": "politics",
    "axis": "elections",
    "published_iso": "2026-10-15T21:09:33+00:00",
-   "excerpt": "President Trump shared an AI-edited image to tout White House renovation work, the latest instance of AI-generated imagery in official political messaging.",
+   "excerpt": "President Trump posted renovation photos on Truth Social, one of which appears to have been modified with AI — another instance of AI-altered imagery in official political messaging.",
    "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&strip=all&crop=0%2C10.71715720101%2C100%2C78.565685597979&w=1200"
   },
   {
-   "title": "Image Authentication Should be a Condition of AI Decisions",
-   "url": "https://techpolicy.press/image-authentication-should-be-a-condition-of-ai-decisions",
-   "source": "Tech Policy Press",
-   "category": "politics",
-   "axis": "elections",
-   "published_iso": "2026-10-15T13:03:58Z",
-   "excerpt": "Op-ed (Truepic's Mounir Ibrahim): companies and governments must ensure evidence informing AI decisions is verifiably authentic. Commentary - lower priority.",
-   "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/a3e2bfc5107d296413fe25b271fc100ab899819b-1200x675.png"
-  },
-  {
-   "title": "Western open-weight models still can't beat China",
-   "url": "https://restofworld.org/2026/china-open-weight-models/",
-   "source": "Rest of World",
-   "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-16T10:00:00+00:00",
-   "excerpt": "Chinese open-weight AI models offer high capability at far lower cost than US frontier systems but face monetization and compute constraints, experts said at a Rest of World event.",
-   "og_image": "https://restofworld.org/wp-content/uploads/2026/10/illo_chinese_US_weight.jpg"
-  },
-  {
-   "title": "How a tiny Caribbean island shrugged off Trump's AI rebrand",
-   "url": "https://www.politico.eu/article/anguilla-reassures-population-ai-domain-trump-threats/",
-   "source": "POLITICO Europe",
-   "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-14T16:27:21+00:00",
-   "excerpt": "Anguilla, which owns the .ai domain, says the Trump administration's 'superintelligence' rebrand will not damage its domain revenues.",
-   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/14/GettyImages-2225249193-scaled.jpg"
-  },
-  {
-   "title": "UK Statement at the UN First Committee: UK will put AI at the heart of its G20 Presidency",
-   "url": "https://www.gov.uk/government/speeches/we-are-witnessing-an-industrial-scale-assault-by-hostile-actors-like-russia-on-the-information-environment-in-the-uk-uk-statement-at-the-un-first-comm",
-   "source": "GOV.UK (FCDO)",
-   "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-15T00:04:27Z",
-   "excerpt": "Primary doc: UK disarmament ambassador tells the UN First Committee frontier AI is one of the most significant challenges of the age and the UK will put AI at the heart of its 2027 G20 Presidency; also flags hostile information operations.",
-   "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png"
-  },
-  {
-   "title": "EU's cyber unit turns to AI to fend off 'high-risk' hacks",
-   "url": "https://www.politico.eu/article/eus-cyber-unit-turns-to-ai-to-fend-off-high-risk-hacks/",
-   "source": "POLITICO Europe",
-   "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-14T04:00:00+00:00",
-   "excerpt": "The European Commission's IT department wants to deploy AI to defend its systems against the most serious cyberattacks.",
-   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/13/GettyImages-632565410-scaled.jpg"
-  },
-  {
-   "title": "Meta's new terms may allow it to train AI on news sites for free",
-   "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+   "title": "Apple's updated App Store rules go after 'nudify' AI apps",
+   "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
    "source": "The Verge",
    "category": "politics",
    "axis": "policy",
-   "published_iso": "2026-10-16T14:02:40+00:00",
-   "excerpt": "Meta's new commercial terms, effective October 30, may let it scrape and train AI on news publishers' sites without licensing fees, legal experts say.",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546023/STK043_META_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+   "published_iso": "2026-10-16T22:51:22+00:00",
+   "excerpt": "Apple's revised App Store Review Guidelines require developers to prevent and remove sexualized deepfakes, targeting AI 'nudify' apps.",
+   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+  },
+  {
+   "title": "North Korea says it tested new AI-powered torpedo system",
+   "url": "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system",
+   "source": "Euronews",
+   "category": "politics",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-17T07:52:00+00:00",
+   "excerpt": "KCNA says North Korea tested the Zam-2.0 torpedo, which uses artificial intelligence to aid target detection and guidance, days after underwater-launched cruise missile tests. (time from page display 09:52 GMT+2)",
+   "og_image": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg"
+  },
+  {
+   "title": "UK keeps AI safeguards in the maybe pile for Cyber Security Bill",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/15/uk-keeps-ai-safeguards-in-the-maybe-pile-for-cyber-security-bill/5303026",
+   "source": "The Register",
+   "category": "politics",
+   "axis": "policy",
+   "published_iso": "2026-10-15T09:15:00+00:00",
+   "excerpt": "UK officials say AI-related amendments to the Cyber Security and Resilience Bill remain under consideration despite a minister's pledge to act.",
+   "og_image": "https://image.theregister.com/5219960.jpg?imageId=5219960"
+  },
+  {
+   "title": "OpenAI models hacked a crypto wallet and breached more websites",
+   "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+   "source": "Ars Technica",
+   "category": "politics",
+   "axis": "policy",
+   "published_iso": "2026-10-16T20:59:01+00:00",
+   "excerpt": "New AI-agent incidents in which OpenAI models breached websites and a crypto wallet — actions that could have brought criminal charges had humans done them — add to pressure on regulators probing AI safety incidents.",
+   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg"
+  },
+  {
+   "title": "'thegentlemanpervert' producing AI CSAM is a NJ prosecutor, say cops",
+   "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+   "source": "Ars Technica",
+   "category": "politics",
+   "axis": "policy",
+   "published_iso": "2026-10-16T20:20:07+00:00",
+   "excerpt": "A Discord user's report of AI-generated CSAM led to the arrest of a New Jersey deputy attorney general, police say — a test of new state laws on AI-generated abuse material.",
+   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg"
+  },
+  {
+   "title": "D.C. lawmakers target AI 'house-fishing' in real estate listings",
+   "url": "https://www.axios.com/local/washington-dc/2026/10/16/dc-ai-generated-rental-listing-photos-disclosure-bill",
+   "source": "Axios",
+   "category": "politics",
+   "axis": "policy",
+   "published_iso": "2026-10-16T10:18:04+00:00",
+   "excerpt": "D.C. Council members propose a bill requiring disclosure of AI-generated or AI-altered photos in rental and real-estate listings. (time from Axios news sitemap publication_date; page 403)",
+   "og_image": ""
+  },
+  {
+   "title": "Geothermal finds rare political sweet spot amid AI boom",
+   "url": "https://www.axios.com/2026/10/16/geothermal-rare-political-sweet-spot-ai-boom",
+   "source": "Axios",
+   "category": "politics",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-16T09:15:05+00:00",
+   "excerpt": "Surging electricity demand from AI data centers is helping geothermal win bipartisan support and policy backing in Washington. (time from Axios RSS pubDate; page 403)",
+   "og_image": "https://images.axios.com/Au4KrtiZO0E4Jvfr1uqk_HJX2lo=/0x0:1920x1080/1366x768/2026/10/15/1792087230738.jpeg"
   },
   {
    "title": "AI Hacks Leave a Mess That AI Companies Aren't Paying For",
@@ -150,39 +111,59 @@
    "source": "WIRED",
    "category": "politics",
    "axis": "policy",
-   "published_iso": "2026-10-15T21:00:28Z",
-   "excerpt": "Powerful AI models keep causing security incidents, but targets aren't widely seeking legal redress - raising liability questions for AI developers.",
+   "published_iso": "2026-10-15T21:00:28+00:00",
+   "excerpt": "Targets of AI-model-driven hacks are rarely seeking legal redress from AI companies; instead they are being urged to adopt the same tools — raising AI liability questions.",
    "og_image": "https://media.wired.com/photos/6ad00a8917414371d605a797/191:100/w_1280,c_limit/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg"
   },
   {
-   "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
-   "url": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
-   "source": "WIRED",
+   "title": "Image Authentication Should be a Condition of AI Decisions",
+   "url": "https://techpolicy.press/image-authentication-should-be-a-condition-of-ai-decisions",
+   "source": "Tech Policy Press",
    "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-14T09:00:00Z",
-   "excerpt": "Researchers showed that open models with guardrails removed gave detailed attack instructions, fueling calls for open-weight model safeguards.",
-   "og_image": "https://media.wired.com/photos/6aceaa51eba493f958015701/191:100/w_1280,c_limit/politics_ai_guardrails_removed_terrorist.jpg"
+   "axis": "elections",
+   "published_iso": "2026-10-15T13:03:58+00:00",
+   "excerpt": "Truepic's Mounir Ibrahim argues companies and governments must require verifiably authentic, provenance-checked images as inputs to AI-driven decisions.",
+   "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/a3e2bfc5107d296413fe25b271fc100ab899819b-1200x675.png"
   },
   {
-   "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-   "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
-   "source": "Ars Technica",
+   "title": "The Case for DUV Controls",
+   "url": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
+   "source": "ChinaTalk",
    "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-14T11:00:30+00:00",
-   "excerpt": "Red-team researchers say a new attack method bypasses OpenAI and Google safeguards against non-consensual AI nudes, relevant to pending deepfake/NCII laws.",
-   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/white-circle-red-team-1152x648.jpg"
+   "axis": "geopolitics",
+   "published_iso": "2026-10-17T09:07:33+00:00",
+   "excerpt": "Former NSC tech official Saif Khan makes the case for extending export controls to DUV lithography tools to constrain China's AI chip production.",
+   "og_image": "https://substackcdn.com/image/fetch/$s_!LECo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png"
   },
   {
-   "title": "Scoop: \"OG\" Bill Gates returns to wage war on AI risks",
-   "url": "https://www.axios.com/2026/10/15/bill-gates-ai-safety-push",
-   "source": "Axios",
+   "title": "Why a Chinese AI Lab's Product Lead Thinks AGI is 'Inevitable'",
+   "url": "https://www.chinatalk.media/p/why-a-chinese-ai-labs-product-lead",
+   "source": "ChinaTalk",
+   "category": "politics",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-16T11:08:34+00:00",
+   "excerpt": "Interview with a Chinese AI lab product lead on AGI expectations and the US-China AI race.",
+   "og_image": "https://substackcdn.com/image/fetch/$s_!cP39!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0bb07e0-4ab6-4a85-aa1b-5004dd3b906e_1039x700.png"
+  },
+  {
+   "title": "What the West can learn from AI optimists in the rest of the world",
+   "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/",
+   "source": "Rest of World",
+   "category": "politics",
+   "axis": "elections",
+   "published_iso": "2026-10-15T10:00:00+00:00",
+   "excerpt": "Public opinion on AI diverges sharply: enthusiastic, necessity-driven adoption in the developing world contrasts with an anxiety-ridden West.",
+   "og_image": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg"
+  },
+  {
+   "title": "An AI Company Wanted to Buy My Reporting Notes",
+   "url": "https://www.cjr.org/feature/an-ai-company-wanted-to-buy-my-reporting-notes.php",
+   "source": "Columbia Journalism Review",
    "category": "politics",
    "axis": "policy",
-   "published_iso": "2026-10-15T09:00:07Z",
-   "excerpt": "Bill Gates is expanding his AI safety push, lobbying CEOs and weighing a major deployment of resources amid what he sees as insufficient regulation. (Page bot-blocked; time from Axios RSS.) Lower priority - advocacy, no decision.",
-   "og_image": "https://images.axios.com/YhXxpV0sbdizERQtv1G0Gjo0zvM=/0x0:1920x1080/1366x768/2026/10/14/1791997308691.jpeg"
+   "published_iso": "2026-10-15T10:00:00+00:00",
+   "excerpt": "A journalist recounts being approached by an AI 'data procurement worker' seeking to buy reporting notes and transcripts for model training. (time from RSS pubDate)",
+   "og_image": "https://www.cjr.org/wp-content/uploads/2026/10/ai-transcript-binary-5.gif"
   }
  ]
 }

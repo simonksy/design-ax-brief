@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "section": "games",
   "cards": [
     {
-      "id": "games-dayz-brutal",
+      "id": "games-konami",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "DayZ 개발자, AI에\n무료 BRUTAL로 답하다",
-      "body": "Dean Hall이 AI로 업계가 한계를 넘었다며 무료 BRUTAL을 공개했다.",
-      "mini_headline": "DayZ 개발자, BRUTAL 공개",
+      "headline": "Konami, 혁신 게임은\nAI 아닌 사람이 만든다",
+      "body": "Konami는 AI로 제작 효율이 올라가도 혁신 게임의 핵심은 사람이라고 했다.",
+      "mini_headline": "Konami, AI보다 사람에 건다",
       "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/our-industry-is-rotting-and-ai-pushed-things-over-the-edge-so-the-creator-of-dayz-wants-to-change-how-games-are-made-with-some-of-the-smartest-devs-in-the-industry/",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,257 +19,181 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
+            "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+            "cap": "이미지 출처: Rock Paper Shotgun / Konami"
           },
           {
             "t": "p",
-            "x": "DayZ 개발자 Dean Hall은 \"우리 업계가 속부터 썩어 가고 있다\"며 AI 에이전트 주도 개발과 리버스 엔지니어링, 리컴파일이 \"상황을 벼랑 끝으로 밀어붙였다\"고 말한다. 그와 스튜디오 RocketWerkz는 개발자들이 \"Unity에서 벗어나고\" Unreal Engine 같은 주류 도구에서도 자유로워지도록 돕는 무료 오픈소스 C# 프레임워크 Brutal을 공개했다."
+            "x": "Dengeki Online이 처음 전하고 Automaton이 번역한 내용에 따르면 Konami Digital Entertainment의 Hideki Hayakawa 사장은 회사 최신 통합 보고서에서 빠르게 발전하는 AI 기술을 두고 생각을 밝혔다."
           },
           {
             "t": "p",
-            "x": "Brutal은 엄밀히 말해 게임 엔진이 아니다. 그래도 게임을 만들거나 자체 엔진의 기반으로 쓸 수 있다. RocketWerkz의 Kitten Space Agency가 이를 쓰고, Ludeon Studios는 RimWorld의 새 자체 엔진 Waylith Engine을 Brutal 위에 올렸다. 테스트에서 성능은 2-4x 좋아졌다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
-            "cap": "곧 나올 Switch 2용 게임 DayZ의 스크린샷"
+            "x": "Hayakawa는 생성형 AI가 게임 개발을 더 쉽게 해 준다는 통념과 달리 큰 변화는 없으리라고 봤다. \"범용 게임 엔진의 발전과 UGC(사용자 제작 콘텐츠)의 확산으로 진입 장벽은 이미 낮아졌다\"는 것이다."
           },
           {
             "t": "p",
-            "x": "Kerbal Space Program을 만든 Felipe Falanghe는 Brutal로 차기작을 만들었다. 이 게임이 \"보여줄 수 있는 단계에 아주아주 가까워졌다\"고 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
-            "cap": "Tim Sweeney"
+            "x": "\"AI 활용이 제작 효율 향상으로 이어지더라도, 재미있고 혁신적인 비디오 게임을 만드는 데 가장 중요한 요소는 사람과 크리에이터라고 생각한다.\" 배경이 다양한 개발자들이 함께 일하며 생기는 \"일종의 화학 반응\"은 \"쉽게 대체할 수 있는 것이 아니다\"라는 말도 덧붙였다."
           },
           {
             "t": "p",
-            "x": "\"Unity와 Unreal이 개발자에 대한 책임을 꾸준히 저버리는 모습을 지켜봐 왔다\"고 Hall은 썼다. 그는 에이전트 기반 워크플로가 기존 소프트웨어 기업의 우위를 깎아 내리면 상황이 더 나빠질 수 있다는 경고도 했다. Epic이 \"한 해는 메타버스, 다음 해는 AI\"를 좇는다는 비판도 내놨다."
-          },
-          {
-            "t": "p",
-            "x": "\"BRUTAL은 상업용 게임을 포함해 무료로 쓸 수 있다\"고 Hall은 말한다. \"로열티는 없다.\" 출처 표기만 하면 된다. \"도구가 공개돼 있다면... 선택지가 생긴다.\""
+            "x": "Konami가 이 기술을 멀리하지는 않는다. 그는 \"Konami는 크리에이터가 새로운 기술을 이해하고, 그 기술이 가져올 수 있는 위험을 제대로 평가하며, 게임 개발에 안전하게 적용할 수 있도록 체계적으로 지원하고 있다\"고 말했다."
           }
         ]
       },
+      "_lead_image": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "DayZ creator answers AI\nwith open-source BRUTAL",
-          "body": "Dean Hall, saying AI pushed the industry over the edge, launches BRUTAL, a free open-source dev framework.",
-          "mini_headline": "DayZ creator launches BRUTAL",
+          "headline": "Konami says people, not AI,\nmake innovative games",
+          "body": "Konami says that even if AI boosts production efficiency, people remain the key to making innovative games.",
+          "mini_headline": "Konami bets on people over AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+                "cap": "Image credit: Rock Paper Shotgun / Konami"
               },
               {
                 "t": "p",
-                "x": "DayZ creator Dean Hall says \"our industry is rotting from its core,\" and that AI agent-led development, reverse-engineering and recompilation \"have pushed things over the edge.\" He and studio RocketWerkz have shared Brutal, a free open-source C# framework meant to help developers \"break free of Unity\" and mainstream offerings like Unreal Engine."
+                "x": "As spotted by Dengeki Online and translated by Automaton, Konami Digital Entertainment president Hideki Hayakawa shared his thoughts on the rapid development of AI technology in the company's latest integrated report."
               },
               {
                 "t": "p",
-                "x": "Brutal is technically not a game engine, but can be used to make games or as a base for custom engines. RocketWerkz's Kitten Space Agency uses it, and Ludeon Studios built RimWorld's new in-house Waylith Engine on it, with performance improved by 2-4x in tests."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
-                "cap": "A screenshot of the upcoming Switch 2 game, DayZ"
+                "x": "Hayakawa goes against the widespread belief that generative AI will make game development easier, saying it won't bring a significant change because \"entry barriers have already been lowered by the advancements of generic game engines and the spread of UGC (user generated content).\""
               },
               {
                 "t": "p",
-                "x": "Kerbal Space Program creator Felipe Falanghe says he used Brutal to make his next game, which is \"very very close to being showable.\""
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
-                "cap": "Tim Sweeney"
+                "x": "\"Even if AI use does lead to improvements in production efficiency, I believe that the most important factors in producing entertaining and innovative video games are people and creators.\" The \"kind of chemical reaction\" that comes from developers with a range of backgrounds working together is \"not something that can be easily replaced,\" he added."
               },
               {
                 "t": "p",
-                "x": "\"I have watched Unity and Unreal consistently fail to be accountable to developers,\" Hall writes, warning this could get worse as agentic workflows erode established software companies' advantages. He criticizes Epic for chasing \"the metaverse one year, AI the next.\""
-              },
-              {
-                "t": "p",
-                "x": "\"You can use BRUTAL for free, including in commercial games,\" Hall says. \"There are no royalties.\" Only attribution is required. \"If the tools are public... you have options.\""
+                "x": "Konami isn't swearing off the technology: \"Konami provides systematic support so that creators can get a grasp of new technologies, properly assess the risks they may bring, and safely apply them to game development,\" he said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "DayZ 개발자, AI에\n무료 BRUTAL로 답하다",
-          "body": "Dean Hall이 AI로 업계가 한계를 넘었다며 무료 BRUTAL을 공개했다.",
-          "mini_headline": "DayZ 개발자, BRUTAL 공개",
+          "headline": "Konami, 혁신 게임은\nAI 아닌 사람이 만든다",
+          "body": "Konami는 AI로 제작 효율이 올라가도 혁신 게임의 핵심은 사람이라고 했다.",
+          "mini_headline": "Konami, AI보다 사람에 건다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+                "cap": "이미지 출처: Rock Paper Shotgun / Konami"
               },
               {
                 "t": "p",
-                "x": "DayZ 개발자 Dean Hall은 \"우리 업계가 속부터 썩어 가고 있다\"며 AI 에이전트 주도 개발과 리버스 엔지니어링, 리컴파일이 \"상황을 벼랑 끝으로 밀어붙였다\"고 말한다. 그와 스튜디오 RocketWerkz는 개발자들이 \"Unity에서 벗어나고\" Unreal Engine 같은 주류 도구에서도 자유로워지도록 돕는 무료 오픈소스 C# 프레임워크 Brutal을 공개했다."
+                "x": "Dengeki Online이 처음 전하고 Automaton이 번역한 내용에 따르면 Konami Digital Entertainment의 Hideki Hayakawa 사장은 회사 최신 통합 보고서에서 빠르게 발전하는 AI 기술을 두고 생각을 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Brutal은 엄밀히 말해 게임 엔진이 아니다. 그래도 게임을 만들거나 자체 엔진의 기반으로 쓸 수 있다. RocketWerkz의 Kitten Space Agency가 이를 쓰고, Ludeon Studios는 RimWorld의 새 자체 엔진 Waylith Engine을 Brutal 위에 올렸다. 테스트에서 성능은 2-4x 좋아졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
-                "cap": "곧 나올 Switch 2용 게임 DayZ의 스크린샷"
+                "x": "Hayakawa는 생성형 AI가 게임 개발을 더 쉽게 해 준다는 통념과 달리 큰 변화는 없으리라고 봤다. \"범용 게임 엔진의 발전과 UGC(사용자 제작 콘텐츠)의 확산으로 진입 장벽은 이미 낮아졌다\"는 것이다."
               },
               {
                 "t": "p",
-                "x": "Kerbal Space Program을 만든 Felipe Falanghe는 Brutal로 차기작을 만들었다. 이 게임이 \"보여줄 수 있는 단계에 아주아주 가까워졌다\"고 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
-                "cap": "Tim Sweeney"
+                "x": "\"AI 활용이 제작 효율 향상으로 이어지더라도, 재미있고 혁신적인 비디오 게임을 만드는 데 가장 중요한 요소는 사람과 크리에이터라고 생각한다.\" 배경이 다양한 개발자들이 함께 일하며 생기는 \"일종의 화학 반응\"은 \"쉽게 대체할 수 있는 것이 아니다\"라는 말도 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "\"Unity와 Unreal이 개발자에 대한 책임을 꾸준히 저버리는 모습을 지켜봐 왔다\"고 Hall은 썼다. 그는 에이전트 기반 워크플로가 기존 소프트웨어 기업의 우위를 깎아 내리면 상황이 더 나빠질 수 있다는 경고도 했다. Epic이 \"한 해는 메타버스, 다음 해는 AI\"를 좇는다는 비판도 내놨다."
-              },
-              {
-                "t": "p",
-                "x": "\"BRUTAL은 상업용 게임을 포함해 무료로 쓸 수 있다\"고 Hall은 말한다. \"로열티는 없다.\" 출처 표기만 하면 된다. \"도구가 공개돼 있다면... 선택지가 생긴다.\""
+                "x": "Konami가 이 기술을 멀리하지는 않는다. 그는 \"Konami는 크리에이터가 새로운 기술을 이해하고, 그 기술이 가져올 수 있는 위험을 제대로 평가하며, 게임 개발에 안전하게 적용할 수 있도록 체계적으로 지원하고 있다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DayZの生みの親\nAIにBRUTALで応える",
-          "body": "Dean HallはAIで業界が一線を越えたとし、無料のBRUTALを公開した。",
-          "mini_headline": "DayZ開発者がBRUTALを公開",
+          "headline": "Konami、革新的ゲームは\nAIでなく人が作ると強調",
+          "body": "KonamiはAIで制作効率が上がっても、革新的なゲームを生む鍵は人だと述べた。",
+          "mini_headline": "Konami、AIより人に賭ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+                "cap": "画像提供：Rock Paper Shotgun / Konami"
               },
               {
                 "t": "p",
-                "x": "DayZの生みの親Dean Hallは「業界は根幹から腐りつつある」と述べ、AIエージェント主導の開発やリバースエンジニアリング、リコンパイルが「事態を限界の先へ押しやった」と語る。Hallとスタジオ RocketWerkzは、開発者が「Unityから脱却」し、Unreal Engineなど主流の選択肢からも離れられるよう支援する無料のオープンソースC#フレームワーク、Brutalを公開した。"
+                "x": "Dengeki Onlineが報じ、Automatonが翻訳したところによると、Konami Digital EntertainmentのHideki Hayakawa社長は、同社の最新の統合報告書でAI技術の急速な発展について考えを述べた。"
               },
               {
                 "t": "p",
-                "x": "Brutalは厳密にはゲームエンジンではないが、ゲーム制作にも独自エンジンの土台にも使える。RocketWerkzのKitten Space Agencyが採用しているほか、Ludeon StudiosはRimWorldの新しい自社エンジンWaylith EngineをBrutal上に構築し、テストでは性能が2-4x向上した。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
-                "cap": "近日発売のSwitch 2向けゲーム、DayZのスクリーンショット"
+                "x": "Hayakawa氏は、生成AIがゲーム開発を容易にするという広く浸透した見方に異を唱え、大きな変化はもたらさないと述べた。「汎用ゲームエンジンの進歩とUGC(ユーザー生成コンテンツ)の普及によって、参入障壁はすでに下がっている」ためだという。"
               },
               {
                 "t": "p",
-                "x": "Kerbal Space Programの生みの親Felipe Falangheは、Brutalで次回作を制作したと話す。その作品は「披露できる段階にとてもとても近い」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
-                "cap": "Tim Sweeney"
+                "x": "「AIの活用が制作効率の向上につながったとしても、面白く革新的なビデオゲームを生み出すうえで最も重要な要素は人とクリエイターだと考えている」。さまざまな背景を持つ開発者が協働することで生まれる「一種の化学反応」は「容易に置き換えられるものではない」とも付け加えた。"
               },
               {
                 "t": "p",
-                "x": "「UnityとUnrealが開発者への説明責任を果たさない姿を、ずっと見てきた」とHallは書き、エージェント型ワークフローが既存ソフトウェア企業の優位を崩すにつれ、状況はさらに悪化しうると警告する。またEpicについて「ある年はメタバース、翌年はAI」を追いかけていると批判する。"
-              },
-              {
-                "t": "p",
-                "x": "「BRUTALは商用ゲームを含め無料で使える」とHallは言う。「ロイヤリティはない」。必要なのはクレジット表記だけだ。「ツールが公開されていれば...選択肢がある」"
+                "x": "Konamiがこの技術を避けているわけではない。「Konamiは、クリエイターが新しい技術を理解し、それがもたらしうるリスクを適切に評価し、ゲーム開発に安全に適用できるよう、体系的な支援を行っている」と同氏は語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DayZ之父以开源\nBRUTAL回应AI",
-          "body": "Dean Hall称AI把行业推过了临界点，推出免费开源开发框架BRUTAL。",
-          "mini_headline": "DayZ之父推出BRUTAL",
+          "headline": "Konami：创新游戏\n靠的是人而非AI",
+          "body": "Konami表示，即使AI提升了制作效率，打造创新游戏的关键仍然是人。",
+          "mini_headline": "Konami押注人而非AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+                "cap": "图片来源：Rock Paper Shotgun / Konami"
               },
               {
                 "t": "p",
-                "x": "DayZ之父Dean Hall表示，“我们的行业正从核心开始腐烂”，而AI智能体主导的开发、逆向工程和重新编译“已把局面推过了临界点”。他与工作室RocketWerkz共享了Brutal——一个免费开源的C#框架，旨在帮助开发者“摆脱Unity”以及Unreal Engine等主流方案。"
+                "x": "据Dengeki Online发现、Automaton翻译，Konami Digital Entertainment总裁Hideki Hayakawa在公司最新的综合报告中，谈到了他对AI技术快速发展的看法。"
               },
               {
                 "t": "p",
-                "x": "严格来说，Brutal并不是游戏引擎，但可用于制作游戏，或作为自定义引擎的基础。RocketWerkz的Kitten Space Agency正在使用它；Ludeon Studios则基于它打造了RimWorld全新的自研引擎Waylith Engine，测试中性能提升了2-4x。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
-                "cap": "即将登陆Switch 2的游戏DayZ截图"
+                "x": "Hayakawa不认同生成式AI会让游戏开发变得更容易的普遍看法，认为它不会带来重大改变，因为“通用游戏引擎的进步和UGC（用户生成内容）的普及已经降低了进入门槛”。"
               },
               {
                 "t": "p",
-                "x": "Kerbal Space Program之父Felipe Falanghe表示，他用Brutal制作了自己的下一款游戏，这款游戏“已非常非常接近可以展示的阶段”。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
-                "cap": "Tim Sweeney"
+                "x": "“即使使用AI确实能提高制作效率，我认为制作有趣且创新的电子游戏最重要的因素是人和创作者。”他补充说，不同背景的开发者协作所产生的“某种化学反应”是“无法轻易取代的”。"
               },
               {
                 "t": "p",
-                "x": "“我看着Unity和Unreal一贯未能对开发者负责，”Hall写道。他警告称，随着智能体工作流削弱老牌软件公司的优势，情况可能进一步恶化。他还批评Epic“一年追逐元宇宙，第二年又追逐AI”。"
-              },
-              {
-                "t": "p",
-                "x": "“你可以免费使用BRUTAL，包括用于商业游戏，”Hall说，“没有版税。”只需署名即可。“如果工具是公开的...你就有选择。”"
+                "x": "Konami并没有弃用这项技术。他说：“Konami提供系统性的支持，让创作者能够掌握新技术、恰当评估其可能带来的风险，并将其安全地应用于游戏开发。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Creador de DayZ responde a la AI\ncon BRUTAL, de código abierto",
-          "body": "Dean Hall, que culpa a la AI de llevar la industria al límite, lanza BRUTAL, un framework gratuito de código abierto.",
-          "mini_headline": "El creador de DayZ lanza BRUTAL",
+          "headline": "Konami: los juegos innovadores\nlos hacen personas, no la IA",
+          "body": "Para Konami, aunque la IA haga más eficiente la producción, la clave de los juegos innovadores son las personas.",
+          "mini_headline": "Konami apuesta por las personas antes que por la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+                "cap": "Imagen: Rock Paper Shotgun / Konami"
               },
               {
                 "t": "p",
-                "x": "El creador de DayZ, Dean Hall, afirma que \"nuestra industria se está pudriendo desde su núcleo\" y que el desarrollo dirigido por agentes de AI, la ingeniería inversa y la recompilación \"han llevado las cosas al límite\". Él y el estudio RocketWerkz han compartido Brutal, un framework gratuito de código abierto en C# pensado para ayudar a los desarrolladores a \"liberarse de Unity\" y de opciones dominantes como Unreal Engine."
+                "x": "Según detectó Dengeki Online y tradujo Automaton, el presidente de Konami Digital Entertainment, Hideki Hayakawa, compartió su opinión sobre el rápido desarrollo de la tecnología de IA en el último informe integrado de la compañía."
               },
               {
                 "t": "p",
-                "x": "Técnicamente, Brutal no es un motor de juego, pero puede usarse para crear juegos o como base para motores propios. Kitten Space Agency, de RocketWerkz, lo utiliza, y Ludeon Studios construyó sobre él el nuevo motor interno de RimWorld, Waylith Engine, con mejoras de rendimiento de 2-4x en las pruebas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
-                "cap": "Captura de pantalla de DayZ, el próximo juego para Switch 2"
+                "x": "Hayakawa contradice la creencia generalizada de que la IA generativa facilitará el desarrollo de videojuegos y afirma que no supondrá un cambio significativo porque \"las barreras de entrada ya se han reducido gracias a los avances de los motores de juego genéricos y la difusión del UGC (contenido generado por los usuarios)\"."
               },
               {
                 "t": "p",
-                "x": "Felipe Falanghe, creador de Kerbal Space Program, dice que usó Brutal para hacer su próximo juego, que está \"muy, muy cerca de poder mostrarse\"."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
-                "cap": "Tim Sweeney"
+                "x": "\"Aunque el uso de la IA mejore la eficiencia de producción, creo que los factores más importantes para crear videojuegos entretenidos e innovadores son las personas y los creadores\". Esa \"especie de reacción química\" que surge cuando trabajan juntos desarrolladores de perfiles diversos \"no es algo que pueda sustituirse fácilmente\", añadió."
               },
               {
                 "t": "p",
-                "x": "\"He visto cómo Unity y Unreal fallan sistemáticamente a la hora de rendir cuentas ante los desarrolladores\", escribe Hall, y advierte que esto podría empeorar a medida que los flujos de trabajo agénticos erosionen las ventajas de las empresas de software consolidadas. Critica a Epic por perseguir \"el metaverso un año y la AI al siguiente\"."
-              },
-              {
-                "t": "p",
-                "x": "\"Puedes usar BRUTAL gratis, incluso en juegos comerciales\", dice Hall. \"No hay regalías\". Solo se exige la atribución. \"Si las herramientas son públicas... tienes opciones\"."
+                "x": "Konami no renuncia a la tecnología: \"Konami ofrece un apoyo sistemático para que los creadores comprendan las nuevas tecnologías, evalúen adecuadamente los riesgos que puedan conllevar y las apliquen de forma segura al desarrollo de juegos\", afirmó."
               }
             ]
           }
@@ -277,177 +201,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "DayZ 개발자, AI에\n무료 BRUTAL로 답하다",
-          "body": "Dean Hall이 AI로 업계가 한계를 넘었다며 무료 BRUTAL을 공개했다.",
-          "mini_headline": "DayZ 개발자, BRUTAL 공개",
+          "headline": "Konami, 혁신 게임은\nAI 아닌 사람이 만든다",
+          "body": "Konami는 AI가 제작 효율을 높여도 혁신 게임의 핵심은 사람이라고 밝혔다.",
+          "mini_headline": "Konami, AI보다 사람에 건다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+                "cap": "이미지 출처: Rock Paper Shotgun / Konami"
               },
               {
                 "t": "p",
-                "x": "DayZ 개발자 Dean Hall은 \"우리 업계가 속부터 썩어 가고 있다\"며, AI 에이전트 주도 개발과 리버스 엔지니어링, 리컴파일이 \"상황을 벼랑 끝으로 밀어붙였다\"고 말한다. 그와 스튜디오 RocketWerkz는 개발자들이 \"Unity에서 벗어나고\" Unreal Engine 같은 주류 도구에서도 자유로워지도록 돕는 무료 오픈소스 C# 프레임워크 Brutal을 공개했다."
+                "x": "Dengeki Online이 처음 전하고 Automaton이 번역한 바에 따르면, Konami Digital Entertainment의 Hideki Hayakawa 사장은 회사의 최신 통합 보고서에서 빠르게 발전하는 AI 기술에 대한 생각을 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Brutal은 엄밀히 말해 게임 엔진은 아니지만, 게임을 만들거나 자체 엔진의 기반으로 쓸 수 있다. RocketWerkz의 Kitten Space Agency가 이를 사용하며, Ludeon Studios는 RimWorld의 새 자체 엔진 Waylith Engine을 Brutal 위에 구축했고 테스트에서 성능이 2-4x 향상됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
-                "cap": "곧 나올 Switch 2용 게임 DayZ의 스크린샷"
+                "x": "Hayakawa는 생성형 AI가 게임 개발을 더 쉽게 만들 것이라는 통념과 달리 큰 변화는 없을 것이라고 봤다. \"범용 게임 엔진의 발전과 UGC(사용자 제작 콘텐츠)의 확산으로 진입 장벽은 이미 낮아졌다\"는 이유다."
               },
               {
                 "t": "p",
-                "x": "Kerbal Space Program을 만든 Felipe Falanghe는 Brutal로 차기작을 만들었으며, 이 게임이 \"보여줄 수 있는 단계에 아주아주 가까워졌다\"고 말한다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
-                "cap": "Tim Sweeney"
+                "x": "\"AI 활용이 제작 효율 향상으로 이어지더라도, 재미있고 혁신적인 비디오 게임을 만드는 데 가장 중요한 요소는 사람과 크리에이터라고 생각한다.\" 그는 다양한 배경을 지닌 개발자들이 함께 일하며 생기는 \"일종의 화학 반응\"은 \"쉽게 대체할 수 있는 것이 아니다\"라고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "\"Unity와 Unreal이 개발자에 대한 책임을 꾸준히 저버리는 모습을 지켜봐 왔다\"고 Hall은 썼다. 그는 에이전트 기반 워크플로가 기존 소프트웨어 기업의 우위를 깎아 내리면서 상황이 더 나빠질 수 있다고 경고한다. 또 Epic이 \"한 해는 메타버스, 다음 해는 AI\"를 좇는다고 비판한다."
-              },
-              {
-                "t": "p",
-                "x": "\"BRUTAL은 상업용 게임을 포함해 무료로 쓸 수 있다\"고 Hall은 말한다. \"로열티는 없다.\" 출처 표기만 하면 된다. \"도구가 공개돼 있다면... 선택지가 생긴다.\""
+                "x": "Konami가 이 기술을 멀리하는 것은 아니다. 그는 \"Konami는 크리에이터가 새로운 기술을 이해하고, 그 기술이 가져올 수 있는 위험을 제대로 평가하며, 게임 개발에 안전하게 적용할 수 있도록 체계적으로 지원하고 있다\"고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DayZの生みの親\nAIにBRUTALで応える",
-          "body": "Dean HallはAIで業界が一線を越えたとし、無料のBRUTALを公開した。",
-          "mini_headline": "DayZ開発者がBRUTALを公開",
+          "headline": "Konami、革新的ゲームは\nAIでなく人が作ると強調",
+          "body": "KonamiはAIで制作効率が上がっても、革新的なゲームを生む鍵は人だと述べた。",
+          "mini_headline": "Konami、AIより人に賭ける",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+                "cap": "画像提供：Rock Paper Shotgun / Konami"
               },
               {
                 "t": "p",
-                "x": "DayZの生みの親Dean Hallは「業界は根幹から腐りつつある」と述べ、AIエージェント主導の開発やリバースエンジニアリング、リコンパイルが「事態を限界の先へ押しやった」と語る。Hallとスタジオ RocketWerkzは、開発者が「Unityから脱却」し、Unreal Engineなど主流の選択肢からも離れられるよう支援する無料のオープンソースC#フレームワーク、Brutalを公開した。"
+                "x": "Dengeki Onlineが報じ、Automatonが翻訳したところによると、Konami Digital EntertainmentのHideki Hayakawa社長は、同社の最新の統合報告書でAI技術の急速な発展について考えを述べた。"
               },
               {
                 "t": "p",
-                "x": "Brutalは厳密にはゲームエンジンではないが、ゲーム制作にも独自エンジンの土台にも使える。RocketWerkzのKitten Space Agencyが採用しているほか、Ludeon StudiosはRimWorldの新しい自社エンジンWaylith EngineをBrutal上に構築し、テストでは性能が2-4x向上した。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
-                "cap": "近日発売のSwitch 2向けゲーム、DayZのスクリーンショット"
+                "x": "Hayakawa氏は、生成AIがゲーム開発を容易にするという広く浸透した見方に異を唱え、大きな変化はもたらさないと述べた。「汎用ゲームエンジンの進歩とUGC(ユーザー生成コンテンツ)の普及によって、参入障壁はすでに下がっている」ためだという。"
               },
               {
                 "t": "p",
-                "x": "Kerbal Space Programの生みの親Felipe Falangheは、Brutalで次回作を制作したと話す。その作品は「披露できる段階にとてもとても近い」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
-                "cap": "Tim Sweeney"
+                "x": "「AIの活用が制作効率の向上につながったとしても、面白く革新的なビデオゲームを生み出すうえで最も重要な要素は人とクリエイターだと考えている」。さまざまな背景を持つ開発者が協働することで生まれる「一種の化学反応」は「容易に置き換えられるものではない」とも付け加えた。"
               },
               {
                 "t": "p",
-                "x": "「UnityとUnrealが開発者への説明責任を果たさない姿を、ずっと見てきた」とHallは書き、エージェント型ワークフローが既存ソフトウェア企業の優位を崩すにつれ、状況はさらに悪化しうると警告する。またEpicについて「ある年はメタバース、翌年はAI」を追いかけていると批判する。"
-              },
-              {
-                "t": "p",
-                "x": "「BRUTALは商用ゲームを含め無料で使える」とHallは言う。「ロイヤリティはない」。必要なのはクレジット表記だけだ。「ツールが公開されていれば...選択肢がある」"
+                "x": "Konamiがこの技術を避けているわけではない。「Konamiは、クリエイターが新しい技術を理解し、それがもたらしうるリスクを適切に評価し、ゲーム開発に安全に適用できるよう、体系的な支援を行っている」と同氏は語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DayZ之父以开源\nBRUTAL回应AI",
-          "body": "Dean Hall称AI把行业推过了临界点，推出免费开源开发框架BRUTAL。",
-          "mini_headline": "DayZ之父推出BRUTAL",
+          "headline": "Konami：创新游戏\n靠的是人而非AI",
+          "body": "Konami表示，即使AI提升了制作效率，打造创新游戏的关键仍然是人。",
+          "mini_headline": "Konami押注人而非AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+                "cap": "图片来源：Rock Paper Shotgun / Konami"
               },
               {
                 "t": "p",
-                "x": "DayZ之父Dean Hall表示，“我们的行业正从核心开始腐烂”，而AI智能体主导的开发、逆向工程和重新编译“已把局面推过了临界点”。他与工作室RocketWerkz共享了Brutal——一个免费开源的C#框架，旨在帮助开发者“摆脱Unity”以及Unreal Engine等主流方案。"
+                "x": "据Dengeki Online发现、Automaton翻译，Konami Digital Entertainment总裁Hideki Hayakawa在公司最新的综合报告中，谈到了他对AI技术快速发展的看法。"
               },
               {
                 "t": "p",
-                "x": "严格来说，Brutal并不是游戏引擎，但可用于制作游戏，或作为自定义引擎的基础。RocketWerkz的Kitten Space Agency正在使用它；Ludeon Studios则基于它打造了RimWorld全新的自研引擎Waylith Engine，测试中性能提升了2-4x。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
-                "cap": "即将登陆Switch 2的游戏DayZ截图"
+                "x": "Hayakawa不认同生成式AI会让游戏开发变得更容易的普遍看法，认为它不会带来重大改变，因为“通用游戏引擎的进步和UGC（用户生成内容）的普及已经降低了进入门槛”。"
               },
               {
                 "t": "p",
-                "x": "Kerbal Space Program之父Felipe Falanghe表示，他用Brutal制作了自己的下一款游戏，这款游戏“已非常非常接近可以展示的阶段”。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
-                "cap": "Tim Sweeney"
+                "x": "“即使使用AI确实能提高制作效率，我认为制作有趣且创新的电子游戏最重要的因素是人和创作者。”他补充说，不同背景的开发者协作所产生的“某种化学反应”是“无法轻易取代的”。"
               },
               {
                 "t": "p",
-                "x": "“我看着Unity和Unreal一贯未能对开发者负责，”Hall写道。他警告称，随着智能体工作流削弱老牌软件公司的优势，情况可能进一步恶化。他还批评Epic“一年追逐元宇宙，第二年又追逐AI”。"
-              },
-              {
-                "t": "p",
-                "x": "“你可以免费使用BRUTAL，包括用于商业游戏，”Hall说，“没有版税。”只需署名即可。“如果工具是公开的...你就有选择。”"
+                "x": "Konami并没有弃用这项技术。他说：“Konami提供系统性的支持，让创作者能够掌握新技术、恰当评估其可能带来的风险，并将其安全地应用于游戏开发。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Creador de DayZ responde a la AI\ncon BRUTAL, de código abierto",
-          "body": "Dean Hall, que culpa a la AI de llevar la industria al límite, lanza BRUTAL, un framework gratuito de código abierto.",
-          "mini_headline": "El creador de DayZ lanza BRUTAL",
+          "headline": "Konami: los juegos innovadores\nlos hacen personas, no la IA",
+          "body": "Para Konami, aunque la IA haga más eficiente la producción, la clave de los juegos innovadores son las personas.",
+          "mini_headline": "Konami apuesta por las personas antes que por la IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3TusbkPiGn5Y8yBJ8PuRnN-1920-80.jpg"
+                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+                "cap": "Imagen: Rock Paper Shotgun / Konami"
               },
               {
                 "t": "p",
-                "x": "El creador de DayZ, Dean Hall, afirma que \"nuestra industria se está pudriendo desde su núcleo\" y que el desarrollo dirigido por agentes de AI, la ingeniería inversa y la recompilación \"han llevado las cosas al límite\". Él y el estudio RocketWerkz han compartido Brutal, un framework gratuito de código abierto en C# pensado para ayudar a los desarrolladores a \"liberarse de Unity\" y de opciones dominantes como Unreal Engine."
+                "x": "Según detectó Dengeki Online y tradujo Automaton, el presidente de Konami Digital Entertainment, Hideki Hayakawa, compartió su opinión sobre el rápido desarrollo de la tecnología de IA en el último informe integrado de la compañía."
               },
               {
                 "t": "p",
-                "x": "Técnicamente, Brutal no es un motor de juego, pero puede usarse para crear juegos o como base para motores propios. Kitten Space Agency, de RocketWerkz, lo utiliza, y Ludeon Studios construyó sobre él el nuevo motor interno de RimWorld, Waylith Engine, con mejoras de rendimiento de 2-4x en las pruebas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WoPcJVz2wXYG2BVPP4saSh-1200-80.jpg",
-                "cap": "Captura de pantalla de DayZ, el próximo juego para Switch 2"
+                "x": "Hayakawa contradice la creencia generalizada de que la IA generativa facilitará el desarrollo de videojuegos y afirma que no supondrá un cambio significativo porque \"las barreras de entrada ya se han reducido gracias a los avances de los motores de juego genéricos y la difusión del UGC (contenido generado por los usuarios)\"."
               },
               {
                 "t": "p",
-                "x": "Felipe Falanghe, creador de Kerbal Space Program, dice que usó Brutal para hacer su próximo juego, que está \"muy, muy cerca de poder mostrarse\"."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/925L6o9Ro3uNx7HgBCZWyn-1200-80.jpg",
-                "cap": "Tim Sweeney"
+                "x": "\"Aunque el uso de la IA mejore la eficiencia de producción, creo que los factores más importantes para crear videojuegos entretenidos e innovadores son las personas y los creadores\". Esa \"especie de reacción química\" que surge cuando trabajan juntos desarrolladores de perfiles diversos \"no es algo que pueda sustituirse fácilmente\", añadió."
               },
               {
                 "t": "p",
-                "x": "\"He visto cómo Unity y Unreal fallan sistemáticamente a la hora de rendir cuentas ante los desarrolladores\", escribe Hall, y advierte que esto podría empeorar a medida que los flujos de trabajo agénticos erosionen las ventajas de las empresas de software consolidadas. Critica a Epic por perseguir \"el metaverso un año y la AI al siguiente\"."
-              },
-              {
-                "t": "p",
-                "x": "\"Puedes usar BRUTAL gratis, incluso en juegos comerciales\", dice Hall. \"No hay regalías\". Solo se exige la atribución. \"Si las herramientas son públicas... tienes opciones\"."
+                "x": "Konami no renuncia a la tecnología: \"Konami ofrece un apoyo sistemático para que los creadores comprendan las nuevas tecnologías, evalúen adecuadamente los riesgos que puedan conllevar y las apliquen de forma segura al desarrollo de juegos\", afirmó."
               }
             ]
           }
@@ -455,15 +327,15 @@
       }
     },
     {
-      "id": "games-drunken-goddess",
+      "id": "games-vibe-zombies",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 모방작 우려에\n호러 게임, 데모 철회",
-      "body": "호러 게임 개발진이 AI 복제를 걱정해 Steam 데모를 비공개 시연으로 바꿨다.",
-      "mini_headline": "AI 복제 우려에 데모 철회",
+      "headline": "바이브 코딩 좀비 게임\n샌프란시스코 반발에 삭제",
+      "body": "샌프란시스코 빈곤 지역의 '좀비'를 쏘는 바이브 코딩 게임이 반발 끝에 내려졌다.",
+      "mini_headline": "바이브 코딩 좀비 게임, 결국 삭제",
       "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/anime-gambling-horror-game-ditches-free-steam-demo-over-fears-of-getting-ripped-off-by-ai-2000746794",
+      "source": "PC Gamer",
+      "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -471,197 +343,181 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
+            "cap": "Tenderloin Night Shift (이미지 출처: Pierre-Louis Biojout)"
           },
           {
             "t": "p",
-            "x": "Drunken Goddess Reflux는 악마와 러시안룰렛을 벌이는 애니메이션풍 호러 게임이다. 다음 주 Steam Next Fest 기간에 무료 데모를 낼 계획이었다. 그런데 생성형 AI 때문에 개발진이 이를 접었다."
+            "x": "Y Combinator가 투자한 AI 스타트업 NanoCorp의 창업자 Pierre-Louis Biojout는 주말에 바이브 코딩으로 만든 프로젝트를 공개했다가 샌프란시스코 주민과 시 지도자들에게 거센 비판을 받았다. 노숙과 공공연한 마약 사용으로 알려진 SF Tenderloin 지구가 배경인 웹 슈팅 게임이었다."
           },
           {
             "t": "p",
-            "x": "\"10월 19일 월요일로 예정했던 Drunken Goddess Reflux 데모의 공개 배포를 취소하고, 대신 제한된 인원을 대상으로 비공개 플레이 세션을 열기로 했다\"고 개발사 Alliance Arts는 Steam에 썼다."
+            "x": "Biojout는 10월 13일 지금은 삭제된 X 게시물에서 \"샌프란시스코는 Tenderloin을 고치지 못했다\"며 \"그래서 나는 실제 SF 거리를 배경으로 한 Call of Duty 스타일의 좀비 슈팅 게임으로 그걸 수익화했다\"고 썼다. 인게임 광고로 이미 300달러를 벌었다는 말도 덧붙였다."
           },
           {
             "t": "p",
-            "x": "스트리밍과 플레이 영상을 막는 방법은 이만한 규모의 팀이 감당하기 어려웠다. 팀은 \"데모 내용을 바탕으로 이 게임의 연출과 게임플레이를 모방하거나 복제한 작품이 AI 등의 도구로 빠르게 만들어져 게임 출시보다 먼저 나올 수 있다는 점이 우려된다\"고 밝혔다."
-          },
-          {
-            "t": "video",
-            "yt": "SRFDW2Pm9nk"
+            "x": "게임 Tenderloin Night Shift에서 플레이어가 쏘는 \"좀비\" 중에는 SF Chronicle과 KRON4에 따르면 \"몸이 접힌\" 펜타닐 중독자와 흑인 경비원도 있었다. SF Coalition on Homelessness의 Jennifer Friedenbach는 Biojout가 \"주로 흑인과 유색인종 주민을 비인간화하고 재미로 죽이는 시늉을 하는 것으로 돈을 벌고 있다\"고 비판했다."
           },
           {
             "t": "p",
-            "x": "이 게임의 Steam 페이지 팔로워는 이미 25,000명이 넘고, 위시리스트 순위는 65위다. Kotaku에 따르면 이번 달 Claude Opus 같은 AI 도구가 게임계를 뒤흔들었다. 바이브 코딩으로 만든 이식판과 매시업, 프로토타입이 소셜 미디어에 쏟아졌다."
+            "x": "Biojout는 \"도발하거나 실제 사람을 쏘는 장면을 묘사할\" 의도는 없었다고 해명했다. 게임은 NanoCorp 웹사이트에서 삭제된 것으로 보인다."
           }
         ]
       },
+      "_lead_image": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "Horror game drops its demo\nto dodge AI copycats",
-          "body": "Drunken Goddess Reflux's devs swapped a free Steam demo for a closed play session, fearing AI clones before launch.",
-          "mini_headline": "Demo pulled over AI clones",
+          "headline": "Vibe-coded zombie game pulled\nafter San Francisco backlash",
+          "body": "A founder's vibe-coded game about shooting 'zombies' in a poor San Francisco area was taken down after backlash.",
+          "mini_headline": "Vibe-coded zombie game pulled",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
+                "cap": "Tenderloin Night Shift (Image credit: Pierre-Louis Biojout)"
               },
               {
                 "t": "p",
-                "x": "Drunken Goddess Reflux is an anime horror game in which you play Russian Roulette with a demon. It was supposed to get a free demo during next week's Steam Next Fest, but the developers have ditched that plan because of generative AI."
+                "x": "Pierre-Louis Biojout, founder of Y Combinator-backed AI startup NanoCorp, took heat from San Francisco residents and city leaders after publishing a weekend vibe coding project: a web-based shooter set in SF's Tenderloin district, known for homelessness and open drug use."
               },
               {
                 "t": "p",
-                "x": "\"We have decided to cancel the public release of the Drunken Goddess Reflux demo, originally scheduled for Monday, October 19, and will instead hold a closed play session for a limited number of participants,\" developer Alliance Arts wrote on Steam."
+                "x": "\"San Francisco couldn't fix the Tenderloin,\" Biojout said in a now-deleted X post on October 13. \"So I monetized it [as a] Call of Duty style zombie shooter on the real SF streets.\" He noted he'd already made $300 from in-game ads."
               },
               {
                 "t": "p",
-                "x": "Restricting streaming and gameplay videos would have been too impractical for a team their size to enforce. \"We are concerned that, based on the content of the demo, works imitating or replicating this game's presentation and gameplay could be quickly produced using AI or other tools and released ahead of the game's launch,\" the team wrote."
-              },
-              {
-                "t": "video",
-                "yt": "SRFDW2Pm9nk"
+                "x": "The game, Tenderloin Night Shift, had players shoot \"zombies\" that, according to the SF Chronicle and KRON4, included a \"folded\" fentanyl addict and a Black security guard. Jennifer Friedenbach of the SF Coalition on Homelessness said Biojout was \"monetizing the dehumanization and pretend killing for fun of mostly Black and Brown residents.\""
               },
               {
                 "t": "p",
-                "x": "The game's Steam page already has over 25,000 followers and ranks 65th among the top wishlisted games. Kotaku notes AI tools like Claude Opus have upended gaming this month as vibe-coded ports, mash-ups and prototypes flood social media."
+                "x": "Biojout said he had not intended to \"provoke or to depict shooting real people.\" The game appears to have been removed from NanoCorp's website."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 모방작 우려에\n호러 게임, 데모 철회",
-          "body": "호러 게임 개발진이 AI 복제를 걱정해 Steam 데모를 비공개 시연으로 바꿨다.",
-          "mini_headline": "AI 복제 우려에 데모 철회",
+          "headline": "바이브 코딩 좀비 게임\n샌프란시스코 반발에 삭제",
+          "body": "샌프란시스코 빈곤 지역의 '좀비'를 쏘는 바이브 코딩 게임이 반발 끝에 내려졌다.",
+          "mini_headline": "바이브 코딩 좀비 게임, 결국 삭제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
+                "cap": "Tenderloin Night Shift (이미지 출처: Pierre-Louis Biojout)"
               },
               {
                 "t": "p",
-                "x": "Drunken Goddess Reflux는 악마와 러시안룰렛을 벌이는 애니메이션풍 호러 게임이다. 다음 주 Steam Next Fest 기간에 무료 데모를 낼 계획이었다. 그런데 생성형 AI 때문에 개발진이 이를 접었다."
+                "x": "Y Combinator가 투자한 AI 스타트업 NanoCorp의 창업자 Pierre-Louis Biojout는 주말에 바이브 코딩으로 만든 프로젝트를 공개했다가 샌프란시스코 주민과 시 지도자들에게 거센 비판을 받았다. 노숙과 공공연한 마약 사용으로 알려진 SF Tenderloin 지구가 배경인 웹 슈팅 게임이었다."
               },
               {
                 "t": "p",
-                "x": "\"10월 19일 월요일로 예정했던 Drunken Goddess Reflux 데모의 공개 배포를 취소하고, 대신 제한된 인원을 대상으로 비공개 플레이 세션을 열기로 했다\"고 개발사 Alliance Arts는 Steam에 썼다."
+                "x": "Biojout는 10월 13일 지금은 삭제된 X 게시물에서 \"샌프란시스코는 Tenderloin을 고치지 못했다\"며 \"그래서 나는 실제 SF 거리를 배경으로 한 Call of Duty 스타일의 좀비 슈팅 게임으로 그걸 수익화했다\"고 썼다. 인게임 광고로 이미 300달러를 벌었다는 말도 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "스트리밍과 플레이 영상을 막는 방법은 이만한 규모의 팀이 감당하기 어려웠다. 팀은 \"데모 내용을 바탕으로 이 게임의 연출과 게임플레이를 모방하거나 복제한 작품이 AI 등의 도구로 빠르게 만들어져 게임 출시보다 먼저 나올 수 있다는 점이 우려된다\"고 밝혔다."
-              },
-              {
-                "t": "video",
-                "yt": "SRFDW2Pm9nk"
+                "x": "게임 Tenderloin Night Shift에서 플레이어가 쏘는 \"좀비\" 중에는 SF Chronicle과 KRON4에 따르면 \"몸이 접힌\" 펜타닐 중독자와 흑인 경비원도 있었다. SF Coalition on Homelessness의 Jennifer Friedenbach는 Biojout가 \"주로 흑인과 유색인종 주민을 비인간화하고 재미로 죽이는 시늉을 하는 것으로 돈을 벌고 있다\"고 비판했다."
               },
               {
                 "t": "p",
-                "x": "이 게임의 Steam 페이지 팔로워는 이미 25,000명이 넘고, 위시리스트 순위는 65위다. Kotaku에 따르면 이번 달 Claude Opus 같은 AI 도구가 게임계를 뒤흔들었다. 바이브 코딩으로 만든 이식판과 매시업, 프로토타입이 소셜 미디어에 쏟아졌다."
+                "x": "Biojout는 \"도발하거나 실제 사람을 쏘는 장면을 묘사할\" 의도는 없었다고 해명했다. 게임은 NanoCorp 웹사이트에서 삭제된 것으로 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI模倣作を警戒し\nホラーゲームが体験版中止",
-          "body": "ホラーゲームの開発陣が、AI模倣作を恐れ、Steamの体験版を非公開試遊会に切り替えた。",
-          "mini_headline": "AI模倣を恐れ体験版を撤回",
+          "headline": "バイブコーディングのゾンビ\nゲーム、SFの反発で撤去",
+          "body": "創業者がバイブコーディングで作った、SF貧困地区で「ゾンビ」を撃つゲームが反発で削除された。",
+          "mini_headline": "バイブコーディング製ゾンビゲームが撤去",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
+                "cap": "Tenderloin Night Shift(画像提供：Pierre-Louis Biojout)"
               },
               {
                 "t": "p",
-                "x": "Drunken Goddess Refluxは、悪魔とロシアンルーレットに興じるアニメ調ホラーゲームだ。来週のSteam Next Fest期間中に無料体験版を配信する予定だったが、開発陣は生成AIを理由にその計画を取りやめた。"
+                "x": "Y Combinatorが支援するAIスタートアップNanoCorpの創業者Pierre-Louis Biojout氏は、週末のバイブコーディングのプロジェクトを公開した後、サンフランシスコの住民や市の指導者から批判を浴びた。ホームレス問題や公然の薬物使用で知られるSFのTenderloin地区を舞台にした、ウェブベースのシューティングゲームだ。"
               },
               {
                 "t": "p",
-                "x": "「10月19日（月）に予定していたDrunken Goddess Reflux体験版の一般公開を中止し、代わりに人数を限定したクローズドプレイセッションを実施することにした」と、開発元のAlliance ArtsはSteamに記した。"
+                "x": "Biojout氏は10月13日、現在は削除されたXへの投稿で「サンフランシスコはTenderloinを立て直せなかった」と述べ、「だから実際のSFの街を舞台にしたCall of Duty風のゾンビシューティングとして収益化した」と書いた。ゲーム内広告ですでに300ドルを稼いだとも記していた。"
               },
               {
                 "t": "p",
-                "x": "配信やプレイ動画を制限するのは、この規模のチームが徹底するにはあまりに現実的でなかった。チームは「体験版の内容をもとに、本作の演出やゲームプレイを模倣・複製した作品がAIなどのツールで素早く作られ、本作の発売より先にリリースされることを懸念している」と記した。"
-              },
-              {
-                "t": "video",
-                "yt": "SRFDW2Pm9nk"
+                "x": "ゲーム「Tenderloin Night Shift」では、プレイヤーが「ゾンビ」を撃つ。SF ChronicleとKRON4によれば、その中には「体を折り曲げた」フェンタニル中毒者や黒人の警備員が含まれていた。SF Coalition on HomelessnessのJennifer Friedenbach氏は、Biojout氏が「主に黒人や褐色人種の住民を非人間化し、遊びで殺すふりをすることで金を稼いでいる」と批判した。"
               },
               {
                 "t": "p",
-                "x": "本作のSteamページはすでにフォロワーが25,000人を超え、ウィッシュリスト上位タイトルで65位に入っている。Kotakuは、バイブコーディングで作られた移植版やマッシュアップ、プロトタイプがSNSにあふれ、今月はClaude OpusのようなAIツールがゲーム界を揺るがしたと指摘する。"
+                "x": "Biojout氏は「挑発したり、実在の人々を撃つ様子を描いたりする」意図はなかったと説明した。ゲームはNanoCorpのウェブサイトから削除されたとみられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "担心AI抄袭\n恐怖游戏撤下试玩版",
-          "body": "一款恐怖游戏的开发者担心上市前遭AI克隆，把Steam免费试玩版改为封闭试玩活动。",
-          "mini_headline": "因AI克隆担忧撤下试玩版",
+          "headline": "氛围编程僵尸游戏\n遭旧金山抵制下架",
+          "body": "一位创始人用氛围编程做的、在旧金山贫困街区射杀“僵尸”的游戏，因遭强烈反对而下架。",
+          "mini_headline": "氛围编程僵尸游戏下架",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
+                "cap": "Tenderloin Night Shift（图片来源：Pierre-Louis Biojout）"
               },
               {
                 "t": "p",
-                "x": "Drunken Goddess Reflux是一款动漫风恐怖游戏，玩家要与恶魔玩俄罗斯轮盘赌。它原定在下周的Steam Next Fest期间推出免费试玩版，但开发者因生成式AI放弃了这一计划。"
+                "x": "获Y Combinator投资的AI初创公司NanoCorp创始人Pierre-Louis Biojout发布了一个周末氛围编程项目后，遭到旧金山居民和市领导的批评：这是一款以SF的Tenderloin区为背景的网页射击游戏，该区以无家可归问题和公开吸毒闻名。"
               },
               {
                 "t": "p",
-                "x": "“我们决定取消原定于10月19日（星期一）公开发布的Drunken Goddess Reflux试玩版，改为面向有限人数的参与者举办封闭试玩会，”开发商Alliance Arts在Steam上写道。"
+                "x": "Biojout在10月13日一篇现已删除的X帖子中写道：“旧金山没能解决Tenderloin的问题，所以我把它变现成了一款以真实SF街道为背景、Call of Duty风格的僵尸射击游戏。”他还提到，自己已经通过游戏内广告赚了300美元。"
               },
               {
                 "t": "p",
-                "x": "对这样规模的团队来说，限制直播和游戏视频难以落实。团队写道：“我们担心，基于试玩版的内容，模仿或复制本作表现形式与玩法的作品可能会借助AI或其他工具迅速制作出来，并抢在本作发售前推出。”"
-              },
-              {
-                "t": "video",
-                "yt": "SRFDW2Pm9nk"
+                "x": "在这款名为Tenderloin Night Shift的游戏中，玩家射杀“僵尸”。据SF Chronicle和KRON4报道，这些“僵尸”包括一名“弯着身子”的芬太尼成瘾者和一名黑人保安。SF Coalition on Homelessness的Jennifer Friedenbach表示，Biojout是在“将以黑人和棕色人种为主的居民非人化，并以假装杀害他们取乐来牟利”。"
               },
               {
                 "t": "p",
-                "x": "该作的Steam页面已有超过25,000名关注者，在愿望单热门游戏中排名第65位。Kotaku指出，随着氛围编程制作的移植版、混搭作品和原型在社交媒体上泛滥，Claude Opus等AI工具在本月颠覆了游戏界。"
+                "x": "Biojout表示，他无意“挑衅或描绘射杀真人”。这款游戏似乎已从NanoCorp网站上撤下。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Juego de terror retira su demo\npara evitar imitaciones con AI",
-          "body": "Los creadores de Drunken Goddess Reflux cambiaron su demo en Steam por una sesión cerrada, temiendo clones de AI.",
-          "mini_headline": "Retiran una demo por clones de AI",
+          "headline": "Retiran un juego de zombis\ntras polémica en San Francisco",
+          "body": "Retiran tras las críticas un juego hecho con vibe coding para disparar a 'zombis' en una zona pobre de San Francisco.",
+          "mini_headline": "Retiran un juego de zombis hecho con vibe coding",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
+                "cap": "Tenderloin Night Shift (Imagen: Pierre-Louis Biojout)"
               },
               {
                 "t": "p",
-                "x": "Drunken Goddess Reflux es un juego de terror de estilo anime en el que juegas a la ruleta rusa con un demonio. Iba a recibir una demo gratuita durante el Steam Next Fest de la próxima semana, pero los desarrolladores han descartado ese plan por culpa de la AI generativa."
+                "x": "Pierre-Louis Biojout, fundador de NanoCorp, una startup de IA respaldada por Y Combinator, recibió críticas de vecinos y dirigentes de San Francisco tras publicar un proyecto de vibe coding de fin de semana: un shooter web ambientado en el distrito Tenderloin de SF, conocido por la falta de vivienda y el consumo de drogas a la vista."
               },
               {
                 "t": "p",
-                "x": "\"Hemos decidido cancelar el lanzamiento público de la demo de Drunken Goddess Reflux, previsto originalmente para el lunes 19 de octubre, y en su lugar celebraremos una sesión de juego cerrada para un número limitado de participantes\", escribió en Steam el desarrollador Alliance Arts."
+                "x": "\"San Francisco no pudo arreglar el Tenderloin\", escribió Biojout en una publicación de X del 13 de octubre, ya eliminada. \"Así que lo moneticé [como un] shooter de zombis al estilo Call of Duty en las calles reales de SF\". Señaló que ya había ganado $300 con anuncios dentro del juego."
               },
               {
                 "t": "p",
-                "x": "Restringir las retransmisiones y los videos de juego habría sido demasiado poco práctico de hacer cumplir para un equipo de su tamaño. \"Nos preocupa que, a partir del contenido de la demo, se puedan producir rápidamente con AI u otras herramientas obras que imiten o reproduzcan la presentación y la jugabilidad de este juego, y que se publiquen antes de su lanzamiento\", escribió el equipo."
-              },
-              {
-                "t": "video",
-                "yt": "SRFDW2Pm9nk"
+                "x": "En el juego, Tenderloin Night Shift, los jugadores disparaban a \"zombis\" que, según SF Chronicle y KRON4, incluían a un adicto al fentanilo \"doblado\" y a un guardia de seguridad negro. Jennifer Friedenbach, de la SF Coalition on Homelessness, dijo que Biojout estaba \"monetizando la deshumanización y el asesinato simulado por diversión de residentes mayoritariamente negros y morenos\"."
               },
               {
                 "t": "p",
-                "x": "La página de Steam del juego ya supera los 25,000 seguidores y ocupa el puesto 65 entre los juegos más añadidos a listas de deseos. Kotaku señala que herramientas de AI como Claude Opus han sacudido el mundo de los videojuegos este mes, mientras ports, mezclas y prototipos hechos con vibe coding inundan las redes sociales."
+                "x": "Biojout dijo que no pretendía \"provocar ni representar disparos contra personas reales\". Al parecer, el juego se ha retirado del sitio web de NanoCorp."
               }
             ]
           }
@@ -669,137 +525,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 모방작 우려에\n호러 게임, 데모 철회",
-          "body": "호러 게임 개발진이 AI 복제를 걱정해 Steam 데모를 비공개 시연으로 바꿨다.",
-          "mini_headline": "AI 복제 우려에 데모 철회",
+          "headline": "바이브 코딩 좀비 게임\n샌프란시스코 반발에 삭제",
+          "body": "샌프란시스코 빈곤 지역의 '좀비'를 쏘는 바이브 코딩 게임이 반발 끝에 내려졌다.",
+          "mini_headline": "바이브 코딩 좀비 게임, 결국 삭제",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
+                "cap": "Tenderloin Night Shift (이미지 출처: Pierre-Louis Biojout)"
               },
               {
                 "t": "p",
-                "x": "Drunken Goddess Reflux는 악마와 러시안룰렛을 벌이는 애니메이션풍 호러 게임이다. 다음 주 Steam Next Fest 기간에 무료 데모를 낼 예정이었지만, 개발진은 생성형 AI 때문에 그 계획을 접었다."
+                "x": "Y Combinator의 투자를 받은 AI 스타트업 NanoCorp의 창업자 Pierre-Louis Biojout는 주말 바이브 코딩 프로젝트를 공개한 뒤 샌프란시스코 주민과 시 지도자들의 거센 비판을 받았다. 노숙과 공공연한 마약 사용으로 알려진 SF Tenderloin 지구를 배경으로 한 웹 기반 슈팅 게임이었다."
               },
               {
                 "t": "p",
-                "x": "\"10월 19일 월요일로 예정했던 Drunken Goddess Reflux 데모의 공개 배포를 취소하고, 대신 제한된 인원을 대상으로 비공개 플레이 세션을 열기로 했다\"고 개발사 Alliance Arts는 Steam에 썼다."
+                "x": "Biojout는 10월 13일 지금은 삭제된 X 게시물에서 \"샌프란시스코는 Tenderloin을 고치지 못했다\"며 \"그래서 나는 실제 SF 거리를 배경으로 한 Call of Duty 스타일의 좀비 슈팅 게임으로 그걸 수익화했다\"고 썼다. 그는 이미 인게임 광고로 300달러를 벌었다고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "스트리밍과 플레이 영상을 제한하는 방안은 이 정도 규모의 팀이 집행하기에는 현실성이 너무 떨어졌다. 팀은 \"데모 내용을 바탕으로 이 게임의 연출과 게임플레이를 모방하거나 복제한 작품이 AI 등의 도구로 빠르게 만들어져 게임 출시보다 먼저 나올 수 있다는 점이 우려된다\"고 밝혔다."
-              },
-              {
-                "t": "video",
-                "yt": "SRFDW2Pm9nk"
+                "x": "게임 Tenderloin Night Shift에서 플레이어는 \"좀비\"를 쏘는데, SF Chronicle과 KRON4에 따르면 여기에는 \"몸이 접힌\" 펜타닐 중독자와 흑인 경비원이 포함돼 있었다. SF Coalition on Homelessness의 Jennifer Friedenbach는 Biojout가 \"주로 흑인과 유색인종 주민을 비인간화하고 재미로 죽이는 시늉을 하는 것으로 돈을 벌고 있다\"고 비판했다."
               },
               {
                 "t": "p",
-                "x": "이 게임의 Steam 페이지는 이미 팔로워가 25,000명을 넘었고, 위시리스트 상위 게임 중 65위에 올라 있다. Kotaku는 바이브 코딩으로 만든 이식판과 매시업, 프로토타입이 소셜 미디어에 쏟아지면서 이번 달 Claude Opus 같은 AI 도구가 게임계를 뒤흔들었다고 짚는다."
+                "x": "Biojout는 \"도발하거나 실제 사람을 쏘는 장면을 묘사할\" 의도는 없었다고 밝혔다. 게임은 NanoCorp 웹사이트에서 삭제된 것으로 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI模倣作を警戒し\nホラーゲームが体験版中止",
-          "body": "ホラーゲームの開発陣が、AI模倣作を恐れ、Steamの体験版を非公開試遊会に切り替えた。",
-          "mini_headline": "AI模倣を恐れ体験版を撤回",
+          "headline": "バイブコーディングのゾンビ\nゲーム、SFの反発で撤去",
+          "body": "創業者がバイブコーディングで作った、SF貧困地区で「ゾンビ」を撃つゲームが反発で削除された。",
+          "mini_headline": "バイブコーディング製ゾンビゲームが撤去",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
+                "cap": "Tenderloin Night Shift(画像提供：Pierre-Louis Biojout)"
               },
               {
                 "t": "p",
-                "x": "Drunken Goddess Refluxは、悪魔とロシアンルーレットに興じるアニメ調ホラーゲームだ。来週のSteam Next Fest期間中に無料体験版を配信する予定だったが、開発陣は生成AIを理由にその計画を取りやめた。"
+                "x": "Y Combinatorが支援するAIスタートアップNanoCorpの創業者Pierre-Louis Biojout氏は、週末のバイブコーディングのプロジェクトを公開した後、サンフランシスコの住民や市の指導者から批判を浴びた。ホームレス問題や公然の薬物使用で知られるSFのTenderloin地区を舞台にした、ウェブベースのシューティングゲームだ。"
               },
               {
                 "t": "p",
-                "x": "「10月19日（月）に予定していたDrunken Goddess Reflux体験版の一般公開を中止し、代わりに人数を限定したクローズドプレイセッションを実施することにした」と、開発元のAlliance ArtsはSteamに記した。"
+                "x": "Biojout氏は10月13日、現在は削除されたXへの投稿で「サンフランシスコはTenderloinを立て直せなかった」と述べ、「だから実際のSFの街を舞台にしたCall of Duty風のゾンビシューティングとして収益化した」と書いた。ゲーム内広告ですでに300ドルを稼いだとも記していた。"
               },
               {
                 "t": "p",
-                "x": "配信やプレイ動画を制限するのは、この規模のチームが徹底するにはあまりに現実的でなかった。チームは「体験版の内容をもとに、本作の演出やゲームプレイを模倣・複製した作品がAIなどのツールで素早く作られ、本作の発売より先にリリースされることを懸念している」と記した。"
-              },
-              {
-                "t": "video",
-                "yt": "SRFDW2Pm9nk"
+                "x": "ゲーム「Tenderloin Night Shift」では、プレイヤーが「ゾンビ」を撃つ。SF ChronicleとKRON4によれば、その中には「体を折り曲げた」フェンタニル中毒者や黒人の警備員が含まれていた。SF Coalition on HomelessnessのJennifer Friedenbach氏は、Biojout氏が「主に黒人や褐色人種の住民を非人間化し、遊びで殺すふりをすることで金を稼いでいる」と批判した。"
               },
               {
                 "t": "p",
-                "x": "本作のSteamページはすでにフォロワーが25,000人を超え、ウィッシュリスト上位タイトルで65位に入っている。Kotakuは、バイブコーディングで作られた移植版やマッシュアップ、プロトタイプがSNSにあふれ、今月はClaude OpusのようなAIツールがゲーム界を揺るがしたと指摘する。"
+                "x": "Biojout氏は「挑発したり、実在の人々を撃つ様子を描いたりする」意図はなかったと説明した。ゲームはNanoCorpのウェブサイトから削除されたとみられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "担心AI抄袭\n恐怖游戏撤下试玩版",
-          "body": "一款恐怖游戏的开发者担心上市前遭AI克隆，把Steam免费试玩版改为封闭试玩活动。",
-          "mini_headline": "因AI克隆担忧撤下试玩版",
+          "headline": "氛围编程僵尸游戏\n遭旧金山抵制下架",
+          "body": "一位创始人用氛围编程做的、在旧金山贫困街区射杀“僵尸”的游戏，因遭强烈反对而下架。",
+          "mini_headline": "氛围编程僵尸游戏下架",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
+                "cap": "Tenderloin Night Shift（图片来源：Pierre-Louis Biojout）"
               },
               {
                 "t": "p",
-                "x": "Drunken Goddess Reflux是一款动漫风恐怖游戏，玩家要与恶魔玩俄罗斯轮盘赌。它原定在下周的Steam Next Fest期间推出免费试玩版，但开发者因生成式AI放弃了这一计划。"
+                "x": "获Y Combinator投资的AI初创公司NanoCorp创始人Pierre-Louis Biojout发布了一个周末氛围编程项目后，遭到旧金山居民和市领导的批评：这是一款以SF的Tenderloin区为背景的网页射击游戏，该区以无家可归问题和公开吸毒闻名。"
               },
               {
                 "t": "p",
-                "x": "“我们决定取消原定于10月19日（星期一）公开发布的Drunken Goddess Reflux试玩版，改为面向有限人数的参与者举办封闭试玩会，”开发商Alliance Arts在Steam上写道。"
+                "x": "Biojout在10月13日一篇现已删除的X帖子中写道：“旧金山没能解决Tenderloin的问题，所以我把它变现成了一款以真实SF街道为背景、Call of Duty风格的僵尸射击游戏。”他还提到，自己已经通过游戏内广告赚了300美元。"
               },
               {
                 "t": "p",
-                "x": "对这样规模的团队来说，限制直播和游戏视频难以落实。团队写道：“我们担心，基于试玩版的内容，模仿或复制本作表现形式与玩法的作品可能会借助AI或其他工具迅速制作出来，并抢在本作发售前推出。”"
-              },
-              {
-                "t": "video",
-                "yt": "SRFDW2Pm9nk"
+                "x": "在这款名为Tenderloin Night Shift的游戏中，玩家射杀“僵尸”。据SF Chronicle和KRON4报道，这些“僵尸”包括一名“弯着身子”的芬太尼成瘾者和一名黑人保安。SF Coalition on Homelessness的Jennifer Friedenbach表示，Biojout是在“将以黑人和棕色人种为主的居民非人化，并以假装杀害他们取乐来牟利”。"
               },
               {
                 "t": "p",
-                "x": "该作的Steam页面已有超过25,000名关注者，在愿望单热门游戏中排名第65位。Kotaku指出，随着氛围编程制作的移植版、混搭作品和原型在社交媒体上泛滥，Claude Opus等AI工具在本月颠覆了游戏界。"
+                "x": "Biojout表示，他无意“挑衅或描绘射杀真人”。这款游戏似乎已从NanoCorp网站上撤下。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Juego de terror retira su demo\npara evitar imitaciones con AI",
-          "body": "Los creadores de Drunken Goddess Reflux cambiaron su demo en Steam por una sesión cerrada, temiendo clones de AI.",
-          "mini_headline": "Retiran una demo por clones de AI",
+          "headline": "Retiran un juego de zombis\ntras polémica en San Francisco",
+          "body": "Retiran tras las críticas un juego hecho con vibe coding para disparar a 'zombis' en una zona pobre de San Francisco.",
+          "mini_headline": "Retiran un juego de zombis hecho con vibe coding",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/10/something-fun-1200x675.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
+                "cap": "Tenderloin Night Shift (Imagen: Pierre-Louis Biojout)"
               },
               {
                 "t": "p",
-                "x": "Drunken Goddess Reflux es un juego de terror de estilo anime en el que juegas a la ruleta rusa con un demonio. Iba a recibir una demo gratuita durante el Steam Next Fest de la próxima semana, pero los desarrolladores han descartado ese plan por culpa de la AI generativa."
+                "x": "Pierre-Louis Biojout, fundador de NanoCorp, una startup de IA respaldada por Y Combinator, recibió críticas de vecinos y dirigentes de San Francisco tras publicar un proyecto de vibe coding de fin de semana: un shooter web ambientado en el distrito Tenderloin de SF, conocido por la falta de vivienda y el consumo de drogas a la vista."
               },
               {
                 "t": "p",
-                "x": "\"Hemos decidido cancelar el lanzamiento público de la demo de Drunken Goddess Reflux, previsto originalmente para el lunes 19 de octubre, y en su lugar celebraremos una sesión de juego cerrada para un número limitado de participantes\", escribió en Steam el desarrollador Alliance Arts."
+                "x": "\"San Francisco no pudo arreglar el Tenderloin\", escribió Biojout en una publicación de X del 13 de octubre, ya eliminada. \"Así que lo moneticé [como un] shooter de zombis al estilo Call of Duty en las calles reales de SF\". Señaló que ya había ganado $300 con anuncios dentro del juego."
               },
               {
                 "t": "p",
-                "x": "Restringir las retransmisiones y los videos de juego habría sido demasiado poco práctico de hacer cumplir para un equipo de su tamaño. \"Nos preocupa que, a partir del contenido de la demo, se puedan producir rápidamente con AI u otras herramientas obras que imiten o reproduzcan la presentación y la jugabilidad de este juego, y que se publiquen antes de su lanzamiento\", escribió el equipo."
-              },
-              {
-                "t": "video",
-                "yt": "SRFDW2Pm9nk"
+                "x": "En el juego, Tenderloin Night Shift, los jugadores disparaban a \"zombis\" que, según SF Chronicle y KRON4, incluían a un adicto al fentanilo \"doblado\" y a un guardia de seguridad negro. Jennifer Friedenbach, de la SF Coalition on Homelessness, dijo que Biojout estaba \"monetizando la deshumanización y el asesinato simulado por diversión de residentes mayoritariamente negros y morenos\"."
               },
               {
                 "t": "p",
-                "x": "La página de Steam del juego ya supera los 25,000 seguidores y ocupa el puesto 65 entre los juegos más añadidos a listas de deseos. Kotaku señala que herramientas de AI como Claude Opus han sacudido el mundo de los videojuegos este mes, mientras ports, mezclas y prototipos hechos con vibe coding inundan las redes sociales."
+                "x": "Biojout dijo que no pretendía \"provocar ni representar disparos contra personas reales\". Al parecer, el juego se ha retirado del sitio web de NanoCorp."
               }
             ]
           }
@@ -807,15 +651,15 @@
       }
     },
     {
-      "id": "games-sakurai-originality",
+      "id": "games-wow-forever",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "사쿠라이, 독창성을\nAI 복제 방패로 본다",
-      "body": "사쿠라이는 독창적인 게임일수록 AI가 베끼기 어렵지만 팔기도 어렵다고 본다.",
-      "mini_headline": "사쿠라이가 본 독창성과 AI",
+      "headline": "Blizzard, WoW\n신작 AI 사용 부인",
+      "body": "Blizzard 직원들은 신작 홍보 영상의 AI 사용 의혹을 부인했다.",
+      "mini_headline": "Blizzard \"WoW 영상에 AI 없다\"",
       "tool": "Games",
       "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/super-smash-bros-and-kirby-creator-masahiro-sakurai-says-original-games-will-be-harder-for-ai-to-rip-off-but-originality-also-makes-your-game-harder-to-sell/",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -823,173 +667,181 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
+            "cap": "World of Warcraft: Forever (이미지 출처: Blizzard Entertainment)"
           },
           {
             "t": "p",
-            "x": "Kirby와 Super Smash Bros 시리즈를 만든 Masahiro Sakurai가 일본 매체 Denfaminico Gamer와의 대담에서 생성형 AI를 두고 생각을 밝혔다. 독창성은 예전만큼 팔리지 않는다는 지적이다. 눈에 띄기도 어렵고 사람을 끌어들이기는 더 어렵다."
+            "x": "Blizzard는 다음 달 World of Warcraft: Forever 출시를 앞두고 새 MMO의 소셜 미디어 광고를 만들어 왔는데, 여기에 생성형 AI 콘텐츠는 쓰지 않았다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "그래서 이미 자리 잡은 장르와 아이디어에 기대고 싶은 유혹이 생기는데, AI가 교묘하게 파고드는 지점이 바로 여기다. 이 기술은 이미 있던 것만 끌어다 쓸 뿐 새것을 만들지 못한다. 그러니 흔한 메커니즘을 쓴 게임이 gen-AI 모방작의 주요 표적이 된다."
+            "x": "온라인에서 의혹이 나오자 회사의 디지털 마케팅 매니저가 X에 이렇게 썼다. \"이 영상들에 AI를 쓰느냐는 댓글이 있었다. 절대 아니다. 실제 팀원들이 대본을 쓰고, 영상을 확보해 편집하며, 나는 매주 VO 배우들과 녹음 부스에 들어가 있다.\""
           },
           {
             "t": "p",
-            "x": "그는 지난 4월 출시된 Librarian을 예로 든다. 기본 요소를 파악하고 고쳐 쓰기 쉬운 만큼 그 단순함이 AI에 딱 맞는다고 했다. 에셋 플립과 리스킨이라는 오래된 관행도 AI와 바이브 코딩 탓에 더 나빠졌다."
+            "x": "World of Warcraft의 소셜 미디어 매니저도 \"덧붙이자면, 우리는 만드는 어떤(ANY) 소셜 콘텐츠에도 AI를 쓰지 않는다. 정말 절대 아니다\"라고 거들었다."
           },
           {
             "t": "p",
-            "x": "Sakurai는 인디와 대형 스튜디오를 가리지 않고, 이런 프로젝트 대부분이 아무도 모르게 사라지리라 본다."
+            "x": "대규모 해고가 이어지는 가운데 업계 다른 회사들이 생성형 AI 지원을 발표하던 시점에 나온 게시물이다. Epic Games도 그중 하나다. CEO Tim Sweeney는 \"최대한의 AI 가속\"을 향한 \"거대한 전환\"을 언급했다."
           }
         ]
       },
+      "_lead_image": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "Sakurai sees originality as\na shield against AI clones",
-          "body": "Masahiro Sakurai argues original games are harder for AI to rip off, though originality makes them harder to sell.",
-          "mini_headline": "Sakurai on originality vs AI",
+          "headline": "Blizzard denies using AI in\nWorld of Warcraft Forever",
+          "body": "Blizzard staff rejected claims of AI in World of Warcraft: Forever videos, saying they use no AI on any social content.",
+          "mini_headline": "Blizzard: no AI in WoW videos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
+                "cap": "World of Warcraft: Forever (Image credit: Blizzard Entertainment)"
               },
               {
                 "t": "p",
-                "x": "Masahiro Sakurai, creator of the Kirby and Super Smash Bros series, weighed in on generative AI in a chat with Japanese outlet Denfaminico Gamer. He points out that originality doesn't tend to sell like it used to: it's harder to stand out, and harder still to get people on board."
+                "x": "Ahead of World of Warcraft: Forever's release next month, Blizzard has been making social media ads for the new MMO, which it says contain no generative AI content."
               },
               {
                 "t": "p",
-                "x": "That makes it tempting to fall back on established genres and ideas, which is where AI becomes insidious. The technology only draws on what's come before and can't create something new, so games with well-trodden mechanics are a prime target for a gen-AI lookalike."
+                "x": "Responding to allegations online, the company's digital marketing manager wrote on X: \"there have been comments on whether or not we use AI in these videos. That's a big hell nah. We have real team members writing scripts, getting and editing footage, and I've been in recording booths with our VO actors every week.\""
               },
               {
                 "t": "p",
-                "x": "He points to Librarian, released this past April, as an example: its simplicity is ripe for AI because the base elements are easy to comprehend and retool. AI and vibe-coding have exacerbated the old practice of asset flips and reskins."
+                "x": "World of Warcraft's social media manager added: \"To add, we don't use AI on ANY social content we make. Big hell nah indeed.\""
               },
               {
                 "t": "p",
-                "x": "Sakurai doesn't differentiate between indie and larger studios, and believes most of these projects will die in obscurity."
+                "x": "The posts come as others in the industry announce support for gen AI amid widespread layoffs, including Epic Games, whose CEO Tim Sweeney spoke of a \"huge pivot\" toward \"maximum AI acceleration.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "사쿠라이, 독창성을\nAI 복제 방패로 본다",
-          "body": "사쿠라이는 독창적인 게임일수록 AI가 베끼기 어렵지만 팔기도 어렵다고 본다.",
-          "mini_headline": "사쿠라이가 본 독창성과 AI",
+          "headline": "Blizzard, WoW\n신작 AI 사용 부인",
+          "body": "Blizzard 직원들은 신작 홍보 영상의 AI 사용 의혹을 부인했다.",
+          "mini_headline": "Blizzard \"WoW 영상에 AI 없다\"",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
+                "cap": "World of Warcraft: Forever (이미지 출처: Blizzard Entertainment)"
               },
               {
                 "t": "p",
-                "x": "Kirby와 Super Smash Bros 시리즈를 만든 Masahiro Sakurai가 일본 매체 Denfaminico Gamer와의 대담에서 생성형 AI를 두고 생각을 밝혔다. 독창성은 예전만큼 팔리지 않는다는 지적이다. 눈에 띄기도 어렵고 사람을 끌어들이기는 더 어렵다."
+                "x": "Blizzard는 다음 달 World of Warcraft: Forever 출시를 앞두고 새 MMO의 소셜 미디어 광고를 만들어 왔는데, 여기에 생성형 AI 콘텐츠는 쓰지 않았다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "그래서 이미 자리 잡은 장르와 아이디어에 기대고 싶은 유혹이 생기는데, AI가 교묘하게 파고드는 지점이 바로 여기다. 이 기술은 이미 있던 것만 끌어다 쓸 뿐 새것을 만들지 못한다. 그러니 흔한 메커니즘을 쓴 게임이 gen-AI 모방작의 주요 표적이 된다."
+                "x": "온라인에서 의혹이 나오자 회사의 디지털 마케팅 매니저가 X에 이렇게 썼다. \"이 영상들에 AI를 쓰느냐는 댓글이 있었다. 절대 아니다. 실제 팀원들이 대본을 쓰고, 영상을 확보해 편집하며, 나는 매주 VO 배우들과 녹음 부스에 들어가 있다.\""
               },
               {
                 "t": "p",
-                "x": "그는 지난 4월 출시된 Librarian을 예로 든다. 기본 요소를 파악하고 고쳐 쓰기 쉬운 만큼 그 단순함이 AI에 딱 맞는다고 했다. 에셋 플립과 리스킨이라는 오래된 관행도 AI와 바이브 코딩 탓에 더 나빠졌다."
+                "x": "World of Warcraft의 소셜 미디어 매니저도 \"덧붙이자면, 우리는 만드는 어떤(ANY) 소셜 콘텐츠에도 AI를 쓰지 않는다. 정말 절대 아니다\"라고 거들었다."
               },
               {
                 "t": "p",
-                "x": "Sakurai는 인디와 대형 스튜디오를 가리지 않고, 이런 프로젝트 대부분이 아무도 모르게 사라지리라 본다."
+                "x": "대규모 해고가 이어지는 가운데 업계 다른 회사들이 생성형 AI 지원을 발표하던 시점에 나온 게시물이다. Epic Games도 그중 하나다. CEO Tim Sweeney는 \"최대한의 AI 가속\"을 향한 \"거대한 전환\"을 언급했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "桜井政博、独創性は\nAI模倣への盾と見る",
-          "body": "桜井政博氏は、独創的なゲームほどAIに模倣されにくいが、その分売るのも難しいと語る。",
-          "mini_headline": "桜井政博、独創性とAIを語る",
+          "headline": "Blizzard、WoW\n新作でのAI使用を否定",
+          "body": "Blizzardの社員は、WoW新作の動画にAIを使ったとの指摘を否定した。",
+          "mini_headline": "Blizzard、WoW動画にAIは不使用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
+                "cap": "World of Warcraft: Forever(画像提供：Blizzard Entertainment)"
               },
               {
                 "t": "p",
-                "x": "KirbyやSuper Smash Brosシリーズの生みの親である桜井政博（Masahiro Sakurai）氏が、日本のメディアDenfaminico Gamerとの対談で生成AIについて語った。桜井氏によれば、独創性はかつてほど売れなくなっている。目立つことが難しく、人を引き込むのはさらに難しいという。"
+                "x": "来月のWorld of Warcraft: Foreverのリリースを前に、Blizzardは新作MMOのソーシャルメディア広告を制作しており、生成AIによるコンテンツは含まれていないとしている。"
               },
               {
                 "t": "p",
-                "x": "そのため既存のジャンルやアイデアに頼りたくなるが、そこにこそAIの厄介さがある。この技術は過去にあるものを引き出すだけで新しいものは生み出せないため、ありふれたメカニクスのゲームはgen-AIによる模倣作の格好の標的になる。"
+                "x": "ネット上の指摘に対し、同社のデジタルマーケティングマネージャーはXに次のように投稿した。「これらの動画でAIを使っているかどうかについてコメントが寄せられている。答えは断じてノーだ。実際のチームメンバーが脚本を書き、映像を集めて編集しているし、私は毎週VO俳優たちと収録ブースに入っている」"
               },
               {
                 "t": "p",
-                "x": "桜井氏は、この4月に発売されたLibrarianを例に挙げる。基本要素が理解しやすく作り替えやすいため、そのシンプルさはAIにとって格好の素材だという。AIとバイブコーディングは、アセットフリップやリスキンという昔からの手口に拍車をかけた。"
+                "x": "World of Warcraftのソーシャルメディアマネージャーも「付け加えると、私たちが作るソーシャルコンテンツには一切(ANY)AIを使っていない。まさに断じてノーだ」と続けた。"
               },
               {
                 "t": "p",
-                "x": "桜井氏はインディーと大手スタジオを区別しておらず、こうしたプロジェクトの多くは人知れず消えていくと考えている。"
+                "x": "これらの投稿は、大規模なレイオフが広がるなか、業界の他社が生成AIへの支持を表明している時期に出た。Epic Gamesもそのひとつで、CEOのTim Sweeney氏は「AIの最大限の加速」に向けた「大転換」について語っていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "樱井政博视原创为\n抵御AI克隆之盾",
-          "body": "樱井政博认为，原创游戏更难被AI抄袭，但原创也让游戏更难卖出去。",
-          "mini_headline": "樱井政博谈原创与AI",
+          "headline": "Blizzard否认\nWoW新作宣传使用AI",
+          "body": "Blizzard员工否认新作宣传视频使用AI，并称所有社交内容都不用AI。",
+          "mini_headline": "Blizzard：WoW视频没用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
+                "cap": "World of Warcraft: Forever（图片来源：Blizzard Entertainment）"
               },
               {
                 "t": "p",
-                "x": "Kirby与Super Smash Bros系列的创作者樱井政博（Masahiro Sakurai）在与日本媒体Denfaminico Gamer的对谈中谈到了生成式AI。他指出，原创性已不像过去那样好卖：脱颖而出更难，让玩家买账更是难上加难。"
+                "x": "在World of Warcraft: Forever下月发布之前，Blizzard一直在为这款新MMO制作社交媒体广告，并表示其中不含生成式AI内容。"
               },
               {
                 "t": "p",
-                "x": "这让人很容易退回到成熟的类型和创意上，而AI的阴险之处正在于此。这项技术只能借鉴已有的东西，无法创造新事物，因此玩法套路陈旧的游戏就成了gen-AI仿制品的首要目标。"
+                "x": "针对网上的质疑，公司的数字营销经理在X上写道：“有评论问我们是否在这些视频中使用了AI。绝对没有。我们有真正的团队成员写脚本、获取和剪辑素材，我每周都和我们的VO演员一起待在录音棚里。”"
               },
               {
                 "t": "p",
-                "x": "他以今年4月发布的Librarian为例：其基础元素易于理解和改造，这种简单性正好被AI利用。AI和氛围编程加剧了资产翻转和换皮这种老做法。"
+                "x": "World of Warcraft的社交媒体经理补充道：“再补充一句，我们制作的任何（ANY）社交内容都不使用AI。确实绝对没有。”"
               },
               {
                 "t": "p",
-                "x": "樱井并不区分独立工作室和大型工作室，他认为这类项目大多会默默无闻地消亡。"
+                "x": "与此同时，业内其他公司在大规模裁员之际纷纷宣布支持生成式AI，其中包括Epic Games，其CEO Tim Sweeney曾谈到向“最大程度的AI加速”进行“巨大转向”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sakurai ve la originalidad como\nescudo ante los clones de AI",
-          "body": "Masahiro Sakurai sostiene que los juegos originales son más difíciles de copiar para la AI, pero también de vender.",
-          "mini_headline": "Sakurai: originalidad frente a la AI",
+          "headline": "Blizzard niega usar IA en\nWorld of Warcraft Forever",
+          "body": "Personal de Blizzard negó el uso de IA en los videos de World of Warcraft: Forever y aseguró que no la usan en redes.",
+          "mini_headline": "Blizzard: sin IA en los videos de WoW",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
+                "cap": "World of Warcraft: Forever (Imagen: Blizzard Entertainment)"
               },
               {
                 "t": "p",
-                "x": "Masahiro Sakurai, creador de las series Kirby y Super Smash Bros, opinó sobre la AI generativa en una conversación con el medio japonés Denfaminico Gamer. Señala que la originalidad ya no suele vender como antes: es más difícil destacar, y todavía más difícil atraer al público."
+                "x": "Antes del lanzamiento de World of Warcraft: Forever el próximo mes, Blizzard ha estado creando anuncios para redes sociales del nuevo MMO, que según la empresa no incluyen contenido de IA generativa."
               },
               {
                 "t": "p",
-                "x": "Eso hace tentador recurrir a géneros e ideas ya establecidos, y ahí es donde la AI se vuelve insidiosa. La tecnología solo se nutre de lo que ya existe y no puede crear algo nuevo, así que los juegos con mecánicas muy trilladas son un blanco ideal para una imitación hecha con gen-AI."
+                "x": "En respuesta a las acusaciones en internet, el responsable de marketing digital de la compañía escribió en X: \"Ha habido comentarios sobre si usamos o no IA en estos videos. La respuesta es un rotundo no. Tenemos miembros reales del equipo escribiendo guiones, consiguiendo y editando material, y yo he estado cada semana en cabinas de grabación con nuestros actores de VO\"."
               },
               {
                 "t": "p",
-                "x": "Pone como ejemplo Librarian, lanzado el pasado abril: su sencillez lo hace presa fácil de la AI porque sus elementos básicos son fáciles de entender y readaptar. La AI y el vibe-coding han agravado la vieja práctica de los asset flips y los reskins."
+                "x": "El responsable de redes sociales de World of Warcraft añadió: \"Para completar, no usamos IA en NINGÚN (ANY) contenido social que creamos. Un rotundo no, sin duda\"."
               },
               {
                 "t": "p",
-                "x": "Sakurai no distingue entre estudios indie y grandes, y cree que la mayoría de estos proyectos morirán en el olvido."
+                "x": "Las publicaciones llegan mientras otras empresas del sector anuncian su apoyo a la IA generativa en medio de despidos generalizados, entre ellas Epic Games, cuyo CEO, Tim Sweeney, habló de un \"gran giro\" hacia la \"máxima aceleración de la IA\"."
               }
             ]
           }
@@ -997,121 +849,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "사쿠라이, 독창성을\nAI 복제 방패로 본다",
-          "body": "사쿠라이는 독창적인 게임일수록 AI가 베끼기 어렵지만 팔기도 어렵다고 본다.",
-          "mini_headline": "사쿠라이가 본 독창성과 AI",
+          "headline": "Blizzard, WoW\n신작 AI 사용 부인",
+          "body": "Blizzard 직원들은 신작 홍보 영상의 AI 사용 의혹을 부인했다.",
+          "mini_headline": "Blizzard \"WoW 영상에 AI 없다\"",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
+                "cap": "World of Warcraft: Forever (이미지 출처: Blizzard Entertainment)"
               },
               {
                 "t": "p",
-                "x": "Kirby와 Super Smash Bros 시리즈를 만든 Masahiro Sakurai가 일본 매체 Denfaminico Gamer와의 대담에서 생성형 AI에 대한 생각을 밝혔다. 그는 독창성이 예전만큼 잘 팔리지 않는다고 지적한다. 눈에 띄기도 어렵고, 사람들을 끌어들이기는 더 어렵다는 것이다."
+                "x": "다음 달 World of Warcraft: Forever 출시를 앞두고 Blizzard는 새 MMO의 소셜 미디어 광고를 만들어 왔으며, 여기에 생성형 AI 콘텐츠는 들어 있지 않다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "그래서 이미 자리 잡은 장르와 아이디어에 기대고 싶은 유혹이 생기는데, AI가 교묘하게 파고드는 지점이 바로 여기다. 이 기술은 이미 있던 것만 끌어다 쓸 뿐 새로운 것을 만들지 못하므로, 흔한 메커니즘을 쓴 게임은 gen-AI 모방작의 주요 표적이 된다."
+                "x": "온라인에서 제기된 의혹에 대해 회사의 디지털 마케팅 매니저는 X에 이렇게 썼다. \"이 영상들에 AI를 쓰느냐는 댓글이 있었다. 절대 아니다. 실제 팀원들이 대본을 쓰고, 영상을 확보해 편집하며, 나는 매주 VO 배우들과 녹음 부스에 들어가 있다.\""
               },
               {
                 "t": "p",
-                "x": "그는 지난 4월 출시된 Librarian을 예로 든다. 기본 요소를 이해하고 고쳐 쓰기 쉬워 그 단순함이 AI에 안성맞춤이라는 것이다. AI와 바이브 코딩은 에셋 플립과 리스킨이라는 오래된 관행을 더 악화시켰다."
+                "x": "World of Warcraft의 소셜 미디어 매니저도 \"덧붙이자면, 우리는 만드는 어떤(ANY) 소셜 콘텐츠에도 AI를 쓰지 않는다. 정말 절대 아니다\"라고 거들었다."
               },
               {
                 "t": "p",
-                "x": "Sakurai는 인디와 대형 스튜디오를 구분하지 않으며, 이런 프로젝트 대부분이 아무도 모르게 사라질 것으로 본다."
+                "x": "이 게시물은 대규모 해고 속에 업계 다른 회사들이 생성형 AI 지원을 발표하는 가운데 나왔다. Epic Games도 그중 하나로, CEO Tim Sweeney는 \"최대한의 AI 가속\"을 향한 \"거대한 전환\"을 언급했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "桜井政博、独創性は\nAI模倣への盾と見る",
-          "body": "桜井政博氏は、独創的なゲームほどAIに模倣されにくいが、その分売るのも難しいと語る。",
-          "mini_headline": "桜井政博、独創性とAIを語る",
+          "headline": "Blizzard、WoW\n新作でのAI使用を否定",
+          "body": "Blizzardの社員は、WoW新作の動画にAIを使ったとの指摘を否定した。",
+          "mini_headline": "Blizzard、WoW動画にAIは不使用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
+                "cap": "World of Warcraft: Forever(画像提供：Blizzard Entertainment)"
               },
               {
                 "t": "p",
-                "x": "KirbyやSuper Smash Brosシリーズの生みの親である桜井政博（Masahiro Sakurai）氏が、日本のメディアDenfaminico Gamerとの対談で生成AIについて語った。桜井氏によれば、独創性はかつてほど売れなくなっている。目立つことが難しく、人を引き込むのはさらに難しいという。"
+                "x": "来月のWorld of Warcraft: Foreverのリリースを前に、Blizzardは新作MMOのソーシャルメディア広告を制作しており、生成AIによるコンテンツは含まれていないとしている。"
               },
               {
                 "t": "p",
-                "x": "そのため既存のジャンルやアイデアに頼りたくなるが、そこにこそAIの厄介さがある。この技術は過去にあるものを引き出すだけで新しいものは生み出せないため、ありふれたメカニクスのゲームはgen-AIによる模倣作の格好の標的になる。"
+                "x": "ネット上の指摘に対し、同社のデジタルマーケティングマネージャーはXに次のように投稿した。「これらの動画でAIを使っているかどうかについてコメントが寄せられている。答えは断じてノーだ。実際のチームメンバーが脚本を書き、映像を集めて編集しているし、私は毎週VO俳優たちと収録ブースに入っている」"
               },
               {
                 "t": "p",
-                "x": "桜井氏は、この4月に発売されたLibrarianを例に挙げる。基本要素が理解しやすく作り替えやすいため、そのシンプルさはAIにとって格好の素材だという。AIとバイブコーディングは、アセットフリップやリスキンという昔からの手口に拍車をかけた。"
+                "x": "World of Warcraftのソーシャルメディアマネージャーも「付け加えると、私たちが作るソーシャルコンテンツには一切(ANY)AIを使っていない。まさに断じてノーだ」と続けた。"
               },
               {
                 "t": "p",
-                "x": "桜井氏はインディーと大手スタジオを区別しておらず、こうしたプロジェクトの多くは人知れず消えていくと考えている。"
+                "x": "これらの投稿は、大規模なレイオフが広がるなか、業界の他社が生成AIへの支持を表明している時期に出た。Epic Gamesもそのひとつで、CEOのTim Sweeney氏は「AIの最大限の加速」に向けた「大転換」について語っていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "樱井政博视原创为\n抵御AI克隆之盾",
-          "body": "樱井政博认为，原创游戏更难被AI抄袭，但原创也让游戏更难卖出去。",
-          "mini_headline": "樱井政博谈原创与AI",
+          "headline": "Blizzard否认\nWoW新作宣传使用AI",
+          "body": "Blizzard员工否认新作宣传视频使用AI，并称所有社交内容都不用AI。",
+          "mini_headline": "Blizzard：WoW视频没用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
+                "cap": "World of Warcraft: Forever（图片来源：Blizzard Entertainment）"
               },
               {
                 "t": "p",
-                "x": "Kirby与Super Smash Bros系列的创作者樱井政博（Masahiro Sakurai）在与日本媒体Denfaminico Gamer的对谈中谈到了生成式AI。他指出，原创性已不像过去那样好卖：脱颖而出更难，让玩家买账更是难上加难。"
+                "x": "在World of Warcraft: Forever下月发布之前，Blizzard一直在为这款新MMO制作社交媒体广告，并表示其中不含生成式AI内容。"
               },
               {
                 "t": "p",
-                "x": "这让人很容易退回到成熟的类型和创意上，而AI的阴险之处正在于此。这项技术只能借鉴已有的东西，无法创造新事物，因此玩法套路陈旧的游戏就成了gen-AI仿制品的首要目标。"
+                "x": "针对网上的质疑，公司的数字营销经理在X上写道：“有评论问我们是否在这些视频中使用了AI。绝对没有。我们有真正的团队成员写脚本、获取和剪辑素材，我每周都和我们的VO演员一起待在录音棚里。”"
               },
               {
                 "t": "p",
-                "x": "他以今年4月发布的Librarian为例：其基础元素易于理解和改造，这种简单性正好被AI利用。AI和氛围编程加剧了资产翻转和换皮这种老做法。"
+                "x": "World of Warcraft的社交媒体经理补充道：“再补充一句，我们制作的任何（ANY）社交内容都不使用AI。确实绝对没有。”"
               },
               {
                 "t": "p",
-                "x": "樱井并不区分独立工作室和大型工作室，他认为这类项目大多会默默无闻地消亡。"
+                "x": "与此同时，业内其他公司在大规模裁员之际纷纷宣布支持生成式AI，其中包括Epic Games，其CEO Tim Sweeney曾谈到向“最大程度的AI加速”进行“巨大转向”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sakurai ve la originalidad como\nescudo ante los clones de AI",
-          "body": "Masahiro Sakurai sostiene que los juegos originales son más difíciles de copiar para la AI, pero también de vender.",
-          "mini_headline": "Sakurai: originalidad frente a la AI",
+          "headline": "Blizzard niega usar IA en\nWorld of Warcraft Forever",
+          "body": "Personal de Blizzard negó el uso de IA en los videos de World of Warcraft: Forever y aseguró que no la usan en redes.",
+          "mini_headline": "Blizzard: sin IA en los videos de WoW",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SUVXNnd52HHw53bxxgdqwh-1920-80.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
+                "cap": "World of Warcraft: Forever (Imagen: Blizzard Entertainment)"
               },
               {
                 "t": "p",
-                "x": "Masahiro Sakurai, creador de las series Kirby y Super Smash Bros, opinó sobre la AI generativa en una conversación con el medio japonés Denfaminico Gamer. Señala que la originalidad ya no suele vender como antes: es más difícil destacar, y todavía más difícil atraer al público."
+                "x": "Antes del lanzamiento de World of Warcraft: Forever el próximo mes, Blizzard ha estado creando anuncios para redes sociales del nuevo MMO, que según la empresa no incluyen contenido de IA generativa."
               },
               {
                 "t": "p",
-                "x": "Eso hace tentador recurrir a géneros e ideas ya establecidos, y ahí es donde la AI se vuelve insidiosa. La tecnología solo se nutre de lo que ya existe y no puede crear algo nuevo, así que los juegos con mecánicas muy trilladas son un blanco ideal para una imitación hecha con gen-AI."
+                "x": "En respuesta a las acusaciones en internet, el responsable de marketing digital de la compañía escribió en X: \"Ha habido comentarios sobre si usamos o no IA en estos videos. La respuesta es un rotundo no. Tenemos miembros reales del equipo escribiendo guiones, consiguiendo y editando material, y yo he estado cada semana en cabinas de grabación con nuestros actores de VO\"."
               },
               {
                 "t": "p",
-                "x": "Pone como ejemplo Librarian, lanzado el pasado abril: su sencillez lo hace presa fácil de la AI porque sus elementos básicos son fáciles de entender y readaptar. La AI y el vibe-coding han agravado la vieja práctica de los asset flips y los reskins."
+                "x": "El responsable de redes sociales de World of Warcraft añadió: \"Para completar, no usamos IA en NINGÚN (ANY) contenido social que creamos. Un rotundo no, sin duda\"."
               },
               {
                 "t": "p",
-                "x": "Sakurai no distingue entre estudios indie y grandes, y cree que la mayoría de estos proyectos morirán en el olvido."
+                "x": "Las publicaciones llegan mientras otras empresas del sector anuncian su apoyo a la IA generativa en medio de despidos generalizados, entre ellas Epic Games, cuyo CEO, Tim Sweeney, habló de un \"gran giro\" hacia la \"máxima aceleración de la IA\"."
               }
             ]
           }
@@ -1119,15 +975,15 @@
       }
     },
     {
-      "id": "games-vibe-coding",
+      "id": "games-game-finder",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "게임 개발 덮친\n바이브 코딩, 업계 진단",
-      "body": "Take-Two 전 AI 책임자와 Godot 대표가 바이브 코딩 열풍을 짚었다.",
-      "mini_headline": "게임 개발 덮친 바이브 코딩",
+      "headline": "Google Play,\n'게이머 DNA'로 추천",
+      "body": "Game Finder는 AI로 플레이 습관을 '게이머 DNA'로 분석해 추천한다.",
+      "mini_headline": "Google Play의 AI Game Finder",
       "tool": "Games",
-      "source": "Kotaku",
-      "url": "https://kotaku.com/ai-vibe-coding-just-hit-the-video-game-industry-like-an-avalanche-2000746366",
+      "source": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1135,197 +991,211 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+            "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+            "cap": "Google Play Game Finder"
           },
           {
             "t": "p",
-            "x": "브라우저 \"이식판\", 매시업 모드, PlayStation 탈옥의 진전은 모두 9월 22일 Anthropic의 Claude Opus 5.5 출시로 거슬러 올라간다. GitHub의 DMCA 기록은 퍼블리셔들이 낸 삭제 요청으로 뒤덮였다. Kotaku는 Take-Two의 전 AI 책임자 Dr Luke Dicken과 Godot Engine 대표 Emilio Coppola에게 업계가 앞으로 어디로 향할지 물었다."
+            "x": "Google Play가 최신 Google AI 기술로 플레이어 각자의 게임 습관에 맞춰 앱을 찾아 주는 업데이트 Game Finder를 발표했다."
           },
           {
             "t": "p",
-            "x": "\"이번 디컴파일·이식 물결은 개발사와 퍼블리셔가 분명히 진지하게 받아들여야 할 문제\"라고 말한 Dicken은 \"더 침해적인 DRM, 플랫폼 차원의 해법, 그리고 아마도 스트리밍 방식으로의 전환 확대\"를 내다봤다."
-          },
-          {
-            "t": "video",
-            "yt": "r_ScnjXsxTM"
+            "x": "Game Finder는 좋아하는 장르와 메커닉 같은 사용자 관심사에 맞춰 게임을 추천한다. 사용자가 어떻게 플레이하고 어떤 취향을 공유하는지 분석한 '게이머 DNA'가 그 바탕이다."
           },
           {
             "t": "p",
-            "x": "Coppola는 저품질 복제작을 파는 악성 업자를 허용하는 Steam처럼 \"이런 행위를 가능케 하는 플랫폼이 책임을 져야 한다\"고 말했다. 불안해서 이제 게임의 앞서 해보기 버전을 공유하지 못한다는 개발자 이야기도 많이 들었다고 한다."
+            "x": "사용자는 인앱 결제를 강요하는 게임 등을 걸러내거나, 팔로우하는 사람들이 즐기는 게임 위주로 추천을 받을 수도 있다. '출퇴근길에 즐기기 좋은 방치형 게임' 같은 플레이리스트도 있다. Game Finder는 미국에서 영어로 출시됐다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
+            "cap": "Google Play 업데이트, 2026년 10월"
           },
           {
             "t": "p",
-            "x": "두 사람은 AI가 창의성을 대신할 수 없다는 데 뜻을 같이했다. Dicken은 \"AI는 게임을 복제할 수는 있다\"며 \"하지만 다음 작품의 재미를 찾아내지는 못한다\"고 말했다."
+            "x": "Google Play에서는 이제 개발자 계정 없이도 Google AI Studio의 바이브 코딩으로 개인용 앱을 만들 수 있다. 플레이어가 정확한 생년월일 대신 연령대를 공유하는 Age Range Sharing도 도입할 계획이다."
           }
         ]
       },
+      "_lead_image": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+      "_video": "",
       "text": {
         "en": {
-          "headline": "Insiders on vibe coding's\nflood into game development",
-          "body": "Take-Two's former head of AI and Godot's executive director discuss how vibe coding is flooding game development.",
-          "mini_headline": "Vibe coding floods game dev",
+          "headline": "Google Play Game Finder\nbuilds a \"gamer DNA\"",
+          "body": "Google Play's Game Finder uses AI to profile play habits as \"gamer DNA\" and suggest games by genre and mechanic.",
+          "mini_headline": "Google Play's AI Game Finder",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+                "cap": "Google Play Game Finder"
               },
               {
                 "t": "p",
-                "x": "Browser \"ports,\" mash-up mods and PlayStation jailbreaking advances can all be tied back to Anthropic's Claude Opus 5.5 release on September 22, and GitHub's DMCA logs are littered with takedowns from publishers. Kotaku asked Take-Two's former head of AI Dr Luke Dicken and Godot Engine executive director Emilio Coppola where the industry goes from here."
+                "x": "Google Play has announced Game Finder, an app discoverability update using the latest Google AI tech, tailored to each player's gameplay habits."
               },
               {
                 "t": "p",
-                "x": "\"This new wave of decompile-and-port is definitely something that developers and publishers need to take seriously,\" Dicken said, predicting \"more invasive DRM, platform-level solutions, and probably more of a push towards streaming solutions.\""
-              },
-              {
-                "t": "video",
-                "yt": "r_ScnjXsxTM"
+                "x": "It recommends games based on a user's interests, including favourite genres and mechanics. This has been described as \"gamer DNA\", an analysis of how a user plays and the preferences they share."
               },
               {
                 "t": "p",
-                "x": "Coppola said \"the burden should fall onto the platforms who are enabling this sort of behavior,\" such as Steam, which lets bad actors sell low-quality clones. He has heard many developers are now too anxious to share early-access versions of their games."
+                "x": "Users can filter out games, such as titles that push in-app purchases, or view recommendations based on what people they follow are playing. There are also playlists such as \"best idle games for my commute\". Game Finder has rolled out in English in the US."
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
+                "cap": "Google Play updates, October 2026"
               },
               {
                 "t": "p",
-                "x": "Both agreed AI can't replace creativity. \"AI can clone a game,\" Dicken said, \"but what it can't do is find the fun of the next thing.\""
+                "x": "Google Play also now lets users create personal apps via vibe coding in Google AI Studio without a developer account, and plans Age Range Sharing so players can share an age range rather than an exact date of birth."
               }
             ]
           }
         },
         "ko": {
-          "headline": "게임 개발 덮친\n바이브 코딩, 업계 진단",
-          "body": "Take-Two 전 AI 책임자와 Godot 대표가 바이브 코딩 열풍을 짚었다.",
-          "mini_headline": "게임 개발 덮친 바이브 코딩",
+          "headline": "Google Play,\n'게이머 DNA'로 추천",
+          "body": "Game Finder는 AI로 플레이 습관을 '게이머 DNA'로 분석해 추천한다.",
+          "mini_headline": "Google Play의 AI Game Finder",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+                "cap": "Google Play Game Finder"
               },
               {
                 "t": "p",
-                "x": "브라우저 \"이식판\", 매시업 모드, PlayStation 탈옥의 진전은 모두 9월 22일 Anthropic의 Claude Opus 5.5 출시로 거슬러 올라간다. GitHub의 DMCA 기록은 퍼블리셔들이 낸 삭제 요청으로 뒤덮였다. Kotaku는 Take-Two의 전 AI 책임자 Dr Luke Dicken과 Godot Engine 대표 Emilio Coppola에게 업계가 앞으로 어디로 향할지 물었다."
+                "x": "Google Play가 최신 Google AI 기술로 플레이어 각자의 게임 습관에 맞춰 앱을 찾아 주는 업데이트 Game Finder를 발표했다."
               },
               {
                 "t": "p",
-                "x": "\"이번 디컴파일·이식 물결은 개발사와 퍼블리셔가 분명히 진지하게 받아들여야 할 문제\"라고 말한 Dicken은 \"더 침해적인 DRM, 플랫폼 차원의 해법, 그리고 아마도 스트리밍 방식으로의 전환 확대\"를 내다봤다."
-              },
-              {
-                "t": "video",
-                "yt": "r_ScnjXsxTM"
+                "x": "Game Finder는 좋아하는 장르와 메커닉 같은 사용자 관심사에 맞춰 게임을 추천한다. 사용자가 어떻게 플레이하고 어떤 취향을 공유하는지 분석한 '게이머 DNA'가 그 바탕이다."
               },
               {
                 "t": "p",
-                "x": "Coppola는 저품질 복제작을 파는 악성 업자를 허용하는 Steam처럼 \"이런 행위를 가능케 하는 플랫폼이 책임을 져야 한다\"고 말했다. 불안해서 이제 게임의 앞서 해보기 버전을 공유하지 못한다는 개발자 이야기도 많이 들었다고 한다."
+                "x": "사용자는 인앱 결제를 강요하는 게임 등을 걸러내거나, 팔로우하는 사람들이 즐기는 게임 위주로 추천을 받을 수도 있다. '출퇴근길에 즐기기 좋은 방치형 게임' 같은 플레이리스트도 있다. Game Finder는 미국에서 영어로 출시됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
+                "cap": "Google Play 업데이트, 2026년 10월"
               },
               {
                 "t": "p",
-                "x": "두 사람은 AI가 창의성을 대신할 수 없다는 데 뜻을 같이했다. Dicken은 \"AI는 게임을 복제할 수는 있다\"며 \"하지만 다음 작품의 재미를 찾아내지는 못한다\"고 말했다."
+                "x": "Google Play에서는 이제 개발자 계정 없이도 Google AI Studio의 바이브 코딩으로 개인용 앱을 만들 수 있다. 플레이어가 정확한 생년월일 대신 연령대를 공유하는 Age Range Sharing도 도입할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ゲーム開発に押し寄せる\nバイブコーディングの波",
-          "body": "Take-Two元AI責任者とGodot事務局長が、バイブコーディングの波を語る。",
-          "mini_headline": "ゲーム開発に押し寄せるバイブコーディング",
+          "headline": "Google Play、\n「ゲーマーDNA」で推薦",
+          "body": "Game FinderはAIでプレイ傾向を「ゲーマーDNA」として分析し、ゲームを勧める。",
+          "mini_headline": "Google PlayのAI「Game Finder」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+                "cap": "Google Play Game Finder"
               },
               {
                 "t": "p",
-                "x": "ブラウザ「移植版」、マッシュアップMOD、PlayStationの脱獄の進展は、いずれも9月22日のAnthropicによるClaude Opus 5.5のリリースにさかのぼることができ、GitHubのDMCAログはパブリッシャーによる削除要請で埋め尽くされている。Kotakuは、Take-Twoの元AI責任者Dr Luke Dicken氏とGodot Engineの事務局長Emilio Coppola氏に、業界がこれからどこへ向かうのかを尋ねた。"
+                "x": "Google Playは、最新のGoogle AI技術を使い、プレイヤーごとのプレイ習慣に合わせたアプリ発見のためのアップデート「Game Finder」を発表した。"
               },
               {
                 "t": "p",
-                "x": "「このデコンパイルと移植の新たな波は、開発者とパブリッシャーが間違いなく真剣に受け止めるべきものだ」とDicken氏は述べ、「より侵襲的なDRM、プラットフォームレベルの対策、そしておそらくストリーミングへの移行のさらなる推進」を予測した。"
-              },
-              {
-                "t": "video",
-                "yt": "r_ScnjXsxTM"
+                "x": "好きなジャンルやメカニクスなど、ユーザーの関心に基づいてゲームを推薦する。これは「ゲーマーDNA」と呼ばれ、ユーザーのプレイの仕方や共有する好みを分析したものだ。"
               },
               {
                 "t": "p",
-                "x": "Coppola氏は、悪質な業者に低品質なクローンの販売を許しているSteamのように、「こうした行為を可能にしているプラットフォームが責任を負うべきだ」と語った。多くの開発者が不安のあまり、ゲームの早期アクセス版を公開できずにいるとも聞いているという。"
+                "x": "ユーザーは、アプリ内課金を強く促すタイトルなどを除外したり、フォローしている人がプレイしているものに基づくおすすめを見たりできる。「通勤に最適な放置ゲーム」といったプレイリストもある。Game Finderは米国で英語版が展開された。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
+                "cap": "Google Playのアップデート、2026年10月"
               },
               {
                 "t": "p",
-                "x": "両氏は、AIは創造性の代わりにはならないという点で一致した。「AIはゲームを複製できる」とDicken氏は言う。「だが、次なるものの面白さを見つけることはできない」"
+                "x": "Google Playではさらに、開発者アカウントなしでGoogle AI Studioのバイブコーディングにより個人用アプリを作れるようになったほか、正確な生年月日ではなく年齢層を共有できるAge Range Sharingも予定している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "业内人士谈氛围编程\n涌入游戏开发",
-          "body": "Take-Two前AI负责人与Godot执行董事探讨氛围编程如何涌入游戏开发。",
-          "mini_headline": "氛围编程涌入游戏开发",
+          "headline": "Google Play新功能\n打造“玩家DNA”",
+          "body": "Game Finder用AI将游戏习惯归纳为“玩家DNA”，并按类型与机制推荐游戏。",
+          "mini_headline": "Google Play推出AI Game Finder",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+                "cap": "Google Play Game Finder"
               },
               {
                 "t": "p",
-                "x": "浏览器“移植版”、混搭模组以及PlayStation越狱的进展，都可以追溯到Anthropic于9月22日发布的Claude Opus 5.5，而GitHub的DMCA日志里满是发行商提交的下架请求。Kotaku采访了Take-Two前AI负责人Dr Luke Dicken和Godot Engine执行董事Emilio Coppola，询问行业接下来将走向何方。"
+                "x": "Google Play发布了Game Finder，这是一项利用最新Google AI技术、根据每位玩家游戏习惯量身定制的应用发现功能更新。"
               },
               {
                 "t": "p",
-                "x": "“这股反编译加移植的新浪潮，绝对是开发者和发行商需要认真对待的事情，”Dicken说。他预测会出现“更具侵入性的DRM、平台层面的解决方案，可能还会进一步转向串流方案”。"
-              },
-              {
-                "t": "video",
-                "yt": "r_ScnjXsxTM"
+                "x": "它会根据用户的兴趣（包括喜爱的类型和玩法机制）推荐游戏。这被称为“玩家DNA”，即对用户游戏方式及其所分享偏好的分析。"
               },
               {
                 "t": "p",
-                "x": "Coppola表示，“责任应该落在助长这类行为的平台身上”，比如允许不良行为者出售低质量克隆作品的Steam。他听说，许多开发者如今因过于焦虑而不敢分享游戏的抢先体验版本。"
+                "x": "用户可以过滤掉某些游戏，例如主推应用内购买的作品，也可以查看基于自己关注的人正在玩什么的推荐。此外还有“通勤路上最佳放置游戏”之类的播放列表。Game Finder已在美国以英文版推出。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
+                "cap": "Google Play更新，2026年10月"
               },
               {
                 "t": "p",
-                "x": "两人都认为AI无法取代创造力。“AI可以克隆一款游戏，”Dicken说，“但它做不到的，是找到下一个作品的乐趣。”"
+                "x": "Google Play现在还允许用户无需开发者账号，在Google AI Studio中通过氛围编程创建个人应用，并计划推出Age Range Sharing，让玩家可以分享年龄段而非确切的出生日期。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Expertos del sector analizan\nla ola de vibe coding en juegos",
-          "body": "El exjefe de AI de Take-Two y el director ejecutivo de Godot analizan cómo el vibe coding inunda los videojuegos.",
-          "mini_headline": "El vibe coding inunda el desarrollo de juegos",
+          "headline": "Google Play Game Finder crea\nun \"ADN de jugador\"",
+          "body": "Game Finder, de Google Play, usa IA para perfilar hábitos como \"ADN de jugador\" y sugerir juegos por género.",
+          "mini_headline": "El Game Finder con IA de Google Play",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+                "cap": "Google Play Game Finder"
               },
               {
                 "t": "p",
-                "x": "Los \"ports\" para navegador, los mods de mezcla y los avances en el jailbreak de PlayStation se remontan al lanzamiento de Claude Opus 5.5 de Anthropic el 22 de septiembre, y los registros DMCA de GitHub están plagados de retiradas solicitadas por editoras. Kotaku preguntó al exjefe de AI de Take-Two, Dr Luke Dicken, y al director ejecutivo de Godot Engine, Emilio Coppola, hacia dónde se dirige la industria."
+                "x": "Google Play ha anunciado Game Finder, una actualización para descubrir apps que utiliza la última tecnología de Google AI y se adapta a los hábitos de juego de cada jugador."
               },
               {
                 "t": "p",
-                "x": "\"Esta nueva ola de descompilar y portar es sin duda algo que desarrolladores y editoras deben tomarse en serio\", dijo Dicken, que prevé \"DRM más invasivos, soluciones a nivel de plataforma y probablemente un mayor impulso hacia las soluciones de streaming\"."
-              },
-              {
-                "t": "video",
-                "yt": "r_ScnjXsxTM"
+                "x": "Recomienda juegos según los intereses del usuario, incluidos sus géneros y mecánicas favoritos. Se ha descrito como \"ADN de jugador\", un análisis de cómo juega el usuario y de las preferencias que comparte."
               },
               {
                 "t": "p",
-                "x": "Coppola afirmó que \"la carga debería recaer en las plataformas que permiten este tipo de comportamiento\", como Steam, que deja que actores malintencionados vendan clones de baja calidad. Ha oído que muchos desarrolladores tienen ahora demasiado miedo de compartir versiones de acceso anticipado de sus juegos."
+                "x": "Los usuarios pueden filtrar juegos, como los títulos que insisten en las compras dentro de la app, o ver recomendaciones basadas en lo que juegan las personas a las que siguen. También hay listas como \"los mejores juegos idle para mi trayecto al trabajo\". Game Finder ya está disponible en inglés en Estados Unidos."
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
+                "cap": "Actualizaciones de Google Play, octubre de 2026"
               },
               {
                 "t": "p",
-                "x": "Ambos coincidieron en que la AI no puede sustituir la creatividad. \"La AI puede clonar un juego\", dijo Dicken, \"pero lo que no puede hacer es encontrar la diversión de lo siguiente\"."
+                "x": "Google Play también permite ahora crear apps personales mediante vibe coding en Google AI Studio sin cuenta de desarrollador, y prevé lanzar Age Range Sharing para que los jugadores compartan un rango de edad en lugar de su fecha de nacimiento exacta."
               }
             ]
           }
@@ -1333,137 +1203,509 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "게임 개발 덮친\n바이브 코딩, 업계 진단",
-          "body": "Take-Two 전 AI 책임자와 Godot 대표가 바이브 코딩 열풍을 짚었다.",
-          "mini_headline": "게임 개발 덮친 바이브 코딩",
+          "headline": "Google Play,\n'게이머 DNA'로 추천",
+          "body": "Game Finder는 AI로 플레이 습관을 '게이머 DNA'로 분석해 추천한다.",
+          "mini_headline": "Google Play의 AI Game Finder",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+                "cap": "Google Play Game Finder"
               },
               {
                 "t": "p",
-                "x": "브라우저 \"이식판\", 매시업 모드, PlayStation 탈옥의 진전은 모두 9월 22일 Anthropic의 Claude Opus 5.5 출시로 거슬러 올라가며, GitHub의 DMCA 기록은 퍼블리셔들의 삭제 요청으로 뒤덮여 있다. Kotaku는 Take-Two의 전 AI 책임자 Dr Luke Dicken과 Godot Engine 대표 Emilio Coppola에게 업계가 앞으로 어디로 향할지 물었다."
+                "x": "Google Play가 최신 Google AI 기술을 활용해 플레이어마다의 게임 플레이 습관에 맞춘 앱 발견성 업데이트 Game Finder를 발표했다."
               },
               {
                 "t": "p",
-                "x": "\"이번 디컴파일·이식 물결은 개발사와 퍼블리셔가 분명히 진지하게 받아들여야 할 문제\"라고 Dicken은 말하며, \"더 침해적인 DRM, 플랫폼 차원의 해법, 그리고 아마도 스트리밍 방식으로의 전환 확대\"를 예상했다."
-              },
-              {
-                "t": "video",
-                "yt": "r_ScnjXsxTM"
+                "x": "Game Finder는 좋아하는 장르와 메커닉 등 사용자의 관심사를 바탕으로 게임을 추천한다. 이는 사용자가 어떻게 플레이하고 어떤 취향을 공유하는지 분석한 '게이머 DNA'로 설명된다."
               },
               {
                 "t": "p",
-                "x": "Coppola는 저품질 복제작을 파는 악성 업자를 허용하는 Steam처럼 \"이런 행위를 가능케 하는 플랫폼이 책임을 져야 한다\"고 말했다. 그는 많은 개발자가 이제 불안한 나머지 게임의 앞서 해보기 버전을 공유하지 못한다는 이야기를 많이 들었다고 한다."
+                "x": "사용자는 인앱 결제를 강요하는 게임 등을 걸러내거나, 팔로우하는 사람들이 플레이하는 게임을 바탕으로 한 추천을 볼 수 있다. '출퇴근길에 즐기기 좋은 방치형 게임' 같은 플레이리스트도 있다. Game Finder는 미국에서 영어로 출시됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
+                "cap": "Google Play 업데이트, 2026년 10월"
               },
               {
                 "t": "p",
-                "x": "두 사람은 AI가 창의성을 대신할 수 없다는 데 뜻을 같이했다. \"AI는 게임을 복제할 수는 있다\"며 Dicken은 \"하지만 다음 작품의 재미를 찾아내지는 못한다\"고 말했다."
+                "x": "Google Play는 이제 개발자 계정 없이도 Google AI Studio에서 바이브 코딩으로 개인용 앱을 만들 수 있게 했고, 플레이어가 정확한 생년월일 대신 연령대를 공유할 수 있는 Age Range Sharing도 도입할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ゲーム開発に押し寄せる\nバイブコーディングの波",
-          "body": "Take-Two元AI責任者とGodot事務局長が、バイブコーディングの波を語る。",
-          "mini_headline": "ゲーム開発に押し寄せるバイブコーディング",
+          "headline": "Google Play、\n「ゲーマーDNA」で推薦",
+          "body": "Game FinderはAIでプレイ傾向を「ゲーマーDNA」として分析し、ゲームを勧める。",
+          "mini_headline": "Google PlayのAI「Game Finder」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+                "cap": "Google Play Game Finder"
               },
               {
                 "t": "p",
-                "x": "ブラウザ「移植版」、マッシュアップMOD、PlayStationの脱獄の進展は、いずれも9月22日のAnthropicによるClaude Opus 5.5のリリースにさかのぼることができ、GitHubのDMCAログはパブリッシャーによる削除要請で埋め尽くされている。Kotakuは、Take-Twoの元AI責任者Dr Luke Dicken氏とGodot Engineの事務局長Emilio Coppola氏に、業界がこれからどこへ向かうのかを尋ねた。"
+                "x": "Google Playは、最新のGoogle AI技術を使い、プレイヤーごとのプレイ習慣に合わせたアプリ発見のためのアップデート「Game Finder」を発表した。"
               },
               {
                 "t": "p",
-                "x": "「このデコンパイルと移植の新たな波は、開発者とパブリッシャーが間違いなく真剣に受け止めるべきものだ」とDicken氏は述べ、「より侵襲的なDRM、プラットフォームレベルの対策、そしておそらくストリーミングへの移行のさらなる推進」を予測した。"
-              },
-              {
-                "t": "video",
-                "yt": "r_ScnjXsxTM"
+                "x": "好きなジャンルやメカニクスなど、ユーザーの関心に基づいてゲームを推薦する。これは「ゲーマーDNA」と呼ばれ、ユーザーのプレイの仕方や共有する好みを分析したものだ。"
               },
               {
                 "t": "p",
-                "x": "Coppola氏は、悪質な業者に低品質なクローンの販売を許しているSteamのように、「こうした行為を可能にしているプラットフォームが責任を負うべきだ」と語った。多くの開発者が不安のあまり、ゲームの早期アクセス版を公開できずにいるとも聞いているという。"
+                "x": "ユーザーは、アプリ内課金を強く促すタイトルなどを除外したり、フォローしている人がプレイしているものに基づくおすすめを見たりできる。「通勤に最適な放置ゲーム」といったプレイリストもある。Game Finderは米国で英語版が展開された。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
+                "cap": "Google Playのアップデート、2026年10月"
               },
               {
                 "t": "p",
-                "x": "両氏は、AIは創造性の代わりにはならないという点で一致した。「AIはゲームを複製できる」とDicken氏は言う。「だが、次なるものの面白さを見つけることはできない」"
+                "x": "Google Playではさらに、開発者アカウントなしでGoogle AI Studioのバイブコーディングにより個人用アプリを作れるようになったほか、正確な生年月日ではなく年齢層を共有できるAge Range Sharingも予定している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "业内人士谈氛围编程\n涌入游戏开发",
-          "body": "Take-Two前AI负责人与Godot执行董事探讨氛围编程如何涌入游戏开发。",
-          "mini_headline": "氛围编程涌入游戏开发",
+          "headline": "Google Play新功能\n打造“玩家DNA”",
+          "body": "Game Finder用AI将游戏习惯归纳为“玩家DNA”，并按类型与机制推荐游戏。",
+          "mini_headline": "Google Play推出AI Game Finder",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+                "cap": "Google Play Game Finder"
               },
               {
                 "t": "p",
-                "x": "浏览器“移植版”、混搭模组以及PlayStation越狱的进展，都可以追溯到Anthropic于9月22日发布的Claude Opus 5.5，而GitHub的DMCA日志里满是发行商提交的下架请求。Kotaku采访了Take-Two前AI负责人Dr Luke Dicken和Godot Engine执行董事Emilio Coppola，询问行业接下来将走向何方。"
+                "x": "Google Play发布了Game Finder，这是一项利用最新Google AI技术、根据每位玩家游戏习惯量身定制的应用发现功能更新。"
               },
               {
                 "t": "p",
-                "x": "“这股反编译加移植的新浪潮，绝对是开发者和发行商需要认真对待的事情，”Dicken说。他预测会出现“更具侵入性的DRM、平台层面的解决方案，可能还会进一步转向串流方案”。"
-              },
-              {
-                "t": "video",
-                "yt": "r_ScnjXsxTM"
+                "x": "它会根据用户的兴趣（包括喜爱的类型和玩法机制）推荐游戏。这被称为“玩家DNA”，即对用户游戏方式及其所分享偏好的分析。"
               },
               {
                 "t": "p",
-                "x": "Coppola表示，“责任应该落在助长这类行为的平台身上”，比如允许不良行为者出售低质量克隆作品的Steam。他听说，许多开发者如今因过于焦虑而不敢分享游戏的抢先体验版本。"
+                "x": "用户可以过滤掉某些游戏，例如主推应用内购买的作品，也可以查看基于自己关注的人正在玩什么的推荐。此外还有“通勤路上最佳放置游戏”之类的播放列表。Game Finder已在美国以英文版推出。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
+                "cap": "Google Play更新，2026年10月"
               },
               {
                 "t": "p",
-                "x": "两人都认为AI无法取代创造力。“AI可以克隆一款游戏，”Dicken说，“但它做不到的，是找到下一个作品的乐趣。”"
+                "x": "Google Play现在还允许用户无需开发者账号，在Google AI Studio中通过氛围编程创建个人应用，并计划推出Age Range Sharing，让玩家可以分享年龄段而非确切的出生日期。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Expertos del sector analizan\nla ola de vibe coding en juegos",
-          "body": "El exjefe de AI de Take-Two y el director ejecutivo de Godot analizan cómo el vibe coding inunda los videojuegos.",
-          "mini_headline": "El vibe coding inunda el desarrollo de juegos",
+          "headline": "Google Play Game Finder crea\nun \"ADN de jugador\"",
+          "body": "Game Finder, de Google Play, usa IA para perfilar hábitos como \"ADN de jugador\" y sugerir juegos por género.",
+          "mini_headline": "El Game Finder con IA de Google Play",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://kotaku.com/app/uploads/2026/04/Slay-the-Spire-2-official-trailer-image-Necrobinder-1200x675.jpg"
+                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
+                "cap": "Google Play Game Finder"
               },
               {
                 "t": "p",
-                "x": "Los \"ports\" para navegador, los mods de mezcla y los avances en el jailbreak de PlayStation se remontan al lanzamiento de Claude Opus 5.5 de Anthropic el 22 de septiembre, y los registros DMCA de GitHub están plagados de retiradas solicitadas por editoras. Kotaku preguntó al exjefe de AI de Take-Two, Dr Luke Dicken, y al director ejecutivo de Godot Engine, Emilio Coppola, hacia dónde se dirige la industria."
+                "x": "Google Play ha anunciado Game Finder, una actualización para descubrir apps que utiliza la última tecnología de Google AI y se adapta a los hábitos de juego de cada jugador."
               },
               {
                 "t": "p",
-                "x": "\"Esta nueva ola de descompilar y portar es sin duda algo que desarrolladores y editoras deben tomarse en serio\", dijo Dicken, que prevé \"DRM más invasivos, soluciones a nivel de plataforma y probablemente un mayor impulso hacia las soluciones de streaming\"."
+                "x": "Recomienda juegos según los intereses del usuario, incluidos sus géneros y mecánicas favoritos. Se ha descrito como \"ADN de jugador\", un análisis de cómo juega el usuario y de las preferencias que comparte."
               },
+              {
+                "t": "p",
+                "x": "Los usuarios pueden filtrar juegos, como los títulos que insisten en las compras dentro de la app, o ver recomendaciones basadas en lo que juegan las personas a las que siguen. También hay listas como \"los mejores juegos idle para mi trayecto al trabajo\". Game Finder ya está disponible en inglés en Estados Unidos."
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
+                "cap": "Actualizaciones de Google Play, octubre de 2026"
+              },
+              {
+                "t": "p",
+                "x": "Google Play también permite ahora crear apps personales mediante vibe coding en Google AI Studio sin cuenta de desarrollador, y prevé lanzar Age Range Sharing para que los jugadores compartan un rango de edad en lugar de su fecha de nacimiento exacta."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "games-junes-journey",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Wooga UX 리드\nAI보다 플레이어 먼저",
+      "body": "Wooga UX 리드는 AI로 시제품이 약 70% 빨라져도 합성 유저는 거부한다.",
+      "mini_headline": "Wooga UX 리드가 보는 AI의 한계",
+      "tool": "Games",
+      "source": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/holger-wurst-junes-journey-player-research-ai/",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "hFLKDmPw3XE"
+          },
+          {
+            "t": "p",
+            "x": "Holger Wurst는 2015년 Wooga에 합류해 현재 June's Journey의 UI/UX 부서를 이끌고 있다. June's Journey는 1920년대를 배경으로 한 숨은그림찾기 미스터리 게임으로, 2023년 매출 10억 달러를 넘어섰다. 그가 이끄는 팀은 디자이너, 애니메이터, 리서처 11명이다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
+            "cap": "Agatha Christie 사망 50주년을 맞아 June's Journey에 Poirot가 합류했다."
+          },
+          {
+            "t": "p",
+            "x": "Wicked, Agatha Christie 같은 협업을 할 때 그는 플레이어 조사부터 했다. 플레이어들이 내건 조건은 하나였다. \"June을 절대 가려서는 안 된다.\" 숨은그림찾기 게임을 두고 그가 세운 UX 원칙은 \"매핑을 깨지 마라\"다."
+          },
+          {
+            "t": "p",
+            "x": "속도를 높이는 데는 AI를 적극적으로 쓴다. 디자이너들은 요소 이름을 한꺼번에 바꾸는 작업용 도구를 직접 만든다. 그는 이제 프로토타입이 약 70% 더 빨리 나온다고 추산한다."
+          },
+          {
+            "t": "p",
+            "x": "그가 분명히 선을 긋는 곳은 오디언스 데이터로 만든 합성 플레이어다. \"바로 거기서 위험해진다. 어느새 다시 플레이어에 대해 생각하지 않게 되는 지점이다.\" \"우리는 여전히 사람을 위한 무언가를 만들고 있다. 그리고 방 안에 사람이 없이는 사람을 위한 무언가를 만들 수 없다.\""
+          }
+        ]
+      },
+      "_lead_image": "https://media.pocketgamer.biz/images/141725/90027/holgerwurstinthehotseat_l1200.jpg",
+      "_video": "hFLKDmPw3XE",
+      "text": {
+        "en": {
+          "headline": "Wooga's UX lead on AI limits\nand putting players first",
+          "body": "Wooga's June's Journey UX lead says AI makes prototypes about 70% faster, but synthetic players are a hard line.",
+          "mini_headline": "Wooga UX lead on AI limits",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "video",
-                "yt": "r_ScnjXsxTM"
+                "yt": "hFLKDmPw3XE"
               },
               {
                 "t": "p",
-                "x": "Coppola afirmó que \"la carga debería recaer en las plataformas que permiten este tipo de comportamiento\", como Steam, que deja que actores malintencionados vendan clones de baja calidad. Ha oído que muchos desarrolladores tienen ahora demasiado miedo de compartir versiones de acceso anticipado de sus juegos."
+                "x": "Holger Wurst joined Wooga in 2015 and now leads the UI/UX department on June's Journey, the 1920s hidden object mystery that passed $1 billion in revenue in 2023. He runs a team of eleven designers, animators and researchers."
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
+                "cap": "Poirot joined June's Journey to mark 50 years since Agatha Christie's death."
               },
               {
                 "t": "p",
-                "x": "Ambos coincidieron en que la AI no puede sustituir la creatividad. \"La AI puede clonar un juego\", dijo Dicken, \"pero lo que no puede hacer es encontrar la diversión de lo siguiente\"."
+                "x": "For tie-ins like Wicked and Agatha Christie, he researched players first; their one condition: \"They can never overshadow June.\" His UX rule for hidden object games: \"Don't break mapping.\""
+              },
+              {
+                "t": "p",
+                "x": "On AI, he is enthusiastic about speed. His designers write their own tools for jobs like batch-renaming elements, and he estimates prototypes now come together around 70% faster."
+              },
+              {
+                "t": "p",
+                "x": "Where he draws a hard line is synthetic players built from audience data. \"That's where it's becoming dangerous, where you somehow stop thinking about the player again.\" \"We're still building something for people. And you can't build something for people without people in the room.\""
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Wooga UX 리드\nAI보다 플레이어 먼저",
+          "body": "Wooga UX 리드는 AI로 시제품이 약 70% 빨라져도 합성 유저는 거부한다.",
+          "mini_headline": "Wooga UX 리드가 보는 AI의 한계",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "hFLKDmPw3XE"
+              },
+              {
+                "t": "p",
+                "x": "Holger Wurst는 2015년 Wooga에 합류해 현재 June's Journey의 UI/UX 부서를 이끌고 있다. June's Journey는 1920년대를 배경으로 한 숨은그림찾기 미스터리 게임으로, 2023년 매출 10억 달러를 넘어섰다. 그가 이끄는 팀은 디자이너, 애니메이터, 리서처 11명이다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
+                "cap": "Agatha Christie 사망 50주년을 맞아 June's Journey에 Poirot가 합류했다."
+              },
+              {
+                "t": "p",
+                "x": "Wicked, Agatha Christie 같은 협업을 할 때 그는 플레이어 조사부터 했다. 플레이어들이 내건 조건은 하나였다. \"June을 절대 가려서는 안 된다.\" 숨은그림찾기 게임을 두고 그가 세운 UX 원칙은 \"매핑을 깨지 마라\"다."
+              },
+              {
+                "t": "p",
+                "x": "속도를 높이는 데는 AI를 적극적으로 쓴다. 디자이너들은 요소 이름을 한꺼번에 바꾸는 작업용 도구를 직접 만든다. 그는 이제 프로토타입이 약 70% 더 빨리 나온다고 추산한다."
+              },
+              {
+                "t": "p",
+                "x": "그가 분명히 선을 긋는 곳은 오디언스 데이터로 만든 합성 플레이어다. \"바로 거기서 위험해진다. 어느새 다시 플레이어에 대해 생각하지 않게 되는 지점이다.\" \"우리는 여전히 사람을 위한 무언가를 만들고 있다. 그리고 방 안에 사람이 없이는 사람을 위한 무언가를 만들 수 없다.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "WoogaのUX責任者\nAIの限界とプレイヤー第一",
+          "body": "WoogaのUX責任者はAIで試作が約70%速くなったが、合成プレイヤーは認めないと語る。",
+          "mini_headline": "Wooga UX責任者が語るAIの限界",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "hFLKDmPw3XE"
+              },
+              {
+                "t": "p",
+                "x": "Holger Wurst氏は2015年にWoogaに入社し、現在はJune's JourneyのUI/UX部門を率いている。June's Journeyは1920年代を舞台にした隠しアイテム探しのミステリーゲームで、2023年に売上10億ドルを突破した。同氏はデザイナー、アニメーター、リサーチャー11人のチームを率いる。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
+                "cap": "Agatha Christieの没後50年を記念して、PoirotがJune's Journeyに登場した。"
+              },
+              {
+                "t": "p",
+                "x": "WickedやAgatha Christieとのタイアップでは、まずプレイヤーを調査した。プレイヤーが示した条件はひとつ、「Juneを決して食ってはならない」だった。隠しアイテム探しゲームにおける同氏のUXの鉄則は「マッピングを崩すな」だ。"
+              },
+              {
+                "t": "p",
+                "x": "AIについては、スピード面で前向きだ。デザイナーたちは要素の一括リネームなどの作業向けに独自のツールを自作しており、プロトタイプは今や約70%速く仕上がると同氏は見積もる。"
+              },
+              {
+                "t": "p",
+                "x": "同氏がはっきりと線を引くのは、オーディエンスデータから作った合成プレイヤーだ。「そこが危うくなるところで、いつの間にかまたプレイヤーのことを考えなくなってしまう」「私たちは今も人のために何かを作っている。そして、部屋に人がいなければ、人のためのものは作れない」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Wooga UX负责人\n谈AI边界与玩家优先",
+          "body": "Wooga的UX负责人称，AI让原型制作提速约70%，但合成玩家是一条红线。",
+          "mini_headline": "Wooga UX负责人谈AI的边界",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "hFLKDmPw3XE"
+              },
+              {
+                "t": "p",
+                "x": "Holger Wurst于2015年加入Wooga，目前领导June's Journey的UI/UX部门。June's Journey是一款以1920年代为背景的隐藏物品解谜游戏，2023年收入突破10亿美元。他带领一支由11名设计师、动画师和研究员组成的团队。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
+                "cap": "为纪念Agatha Christie逝世50周年，Poirot加入了June's Journey。"
+              },
+              {
+                "t": "p",
+                "x": "在与Wicked和Agatha Christie等联动时，他首先研究了玩家；玩家只有一个条件：“绝不能抢了June的风头。”他对隐藏物品游戏的UX原则是：“不要破坏映射。”"
+              },
+              {
+                "t": "p",
+                "x": "在AI方面，他对速度充满热情。他的设计师会自己编写工具来完成批量重命名元素之类的工作，他估计现在原型的制作速度快了约70%。"
+              },
+              {
+                "t": "p",
+                "x": "他明确划出红线的是基于受众数据构建的合成玩家。“那正是开始变得危险的地方，你会不知不觉又不再考虑玩家。”“我们仍然是在为人打造东西。而房间里没有人，你就无法为人打造东西。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Wooga: límites de la IA y\nlos jugadores, lo primero",
+          "body": "Para el líder de UX de Wooga, la IA agiliza los prototipos cerca de un 70%, pero los jugadores sintéticos son tabú.",
+          "mini_headline": "Wooga y los límites de la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "hFLKDmPw3XE"
+              },
+              {
+                "t": "p",
+                "x": "Holger Wurst se incorporó a Wooga en 2015 y hoy dirige el departamento de UI/UX de June's Journey, el juego de misterio y objetos ocultos ambientado en la década de 1920 que superó los 1.000 millones de dólares de ingresos en 2023. Dirige un equipo de once diseñadores, animadores e investigadores."
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
+                "cap": "Poirot llegó a June's Journey para conmemorar los 50 años de la muerte de Agatha Christie."
+              },
+              {
+                "t": "p",
+                "x": "Para colaboraciones como las de Wicked y Agatha Christie, primero investigó a los jugadores; su única condición: \"Nunca pueden eclipsar a June\". Su regla de UX para los juegos de objetos ocultos: \"No rompas el mapeo\"."
+              },
+              {
+                "t": "p",
+                "x": "En cuanto a la IA, le entusiasma la velocidad. Sus diseñadores escriben sus propias herramientas para tareas como renombrar elementos en lote, y calcula que los prototipos ahora se completan en torno a un 70% más rápido."
+              },
+              {
+                "t": "p",
+                "x": "Donde traza una línea roja es en los jugadores sintéticos creados a partir de datos de audiencia. \"Ahí es donde se vuelve peligroso, donde de algún modo vuelves a dejar de pensar en el jugador\". \"Seguimos construyendo algo para personas. Y no puedes construir algo para personas sin personas en la sala\"."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Wooga UX 리드\nAI보다 플레이어 먼저",
+          "body": "Wooga UX 리드는 AI로 시제품이 약 70% 빨라져도 합성 유저는 거부한다.",
+          "mini_headline": "Wooga UX 리드가 보는 AI의 한계",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "hFLKDmPw3XE"
+              },
+              {
+                "t": "p",
+                "x": "Holger Wurst는 2015년 Wooga에 합류해 현재 June's Journey의 UI/UX 부서를 이끌고 있다. June's Journey는 1920년대를 배경으로 한 숨은그림찾기 미스터리 게임으로, 2023년 매출 10억 달러를 넘어섰다. 그는 디자이너, 애니메이터, 리서처 11명으로 이뤄진 팀을 운영한다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
+                "cap": "Agatha Christie 사망 50주년을 맞아 June's Journey에 Poirot가 합류했다."
+              },
+              {
+                "t": "p",
+                "x": "Wicked, Agatha Christie 같은 협업에서 그는 먼저 플레이어를 조사했다. 플레이어들의 조건은 하나였다. \"June을 절대 가려서는 안 된다.\" 숨은그림찾기 게임에 대한 그의 UX 원칙은 \"매핑을 깨지 마라\"다."
+              },
+              {
+                "t": "p",
+                "x": "AI에 대해서는 속도 면에서 적극적이다. 그의 디자이너들은 요소 일괄 이름 변경 같은 작업을 위한 도구를 직접 만들고, 그는 이제 프로토타입이 약 70% 더 빨리 완성된다고 추산한다."
+              },
+              {
+                "t": "p",
+                "x": "그가 분명히 선을 긋는 지점은 오디언스 데이터로 만든 합성 플레이어다. \"바로 거기서 위험해진다. 어느새 다시 플레이어에 대해 생각하지 않게 되는 지점이다.\" \"우리는 여전히 사람을 위한 무언가를 만들고 있다. 그리고 방 안에 사람이 없이는 사람을 위한 무언가를 만들 수 없다.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "WoogaのUX責任者\nAIの限界とプレイヤー第一",
+          "body": "WoogaのUX責任者はAIで試作が約70%速くなったが、合成プレイヤーは認めないと語る。",
+          "mini_headline": "Wooga UX責任者が語るAIの限界",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "hFLKDmPw3XE"
+              },
+              {
+                "t": "p",
+                "x": "Holger Wurst氏は2015年にWoogaに入社し、現在はJune's JourneyのUI/UX部門を率いている。June's Journeyは1920年代を舞台にした隠しアイテム探しのミステリーゲームで、2023年に売上10億ドルを突破した。同氏はデザイナー、アニメーター、リサーチャー11人のチームを率いる。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
+                "cap": "Agatha Christieの没後50年を記念して、PoirotがJune's Journeyに登場した。"
+              },
+              {
+                "t": "p",
+                "x": "WickedやAgatha Christieとのタイアップでは、まずプレイヤーを調査した。プレイヤーが示した条件はひとつ、「Juneを決して食ってはならない」だった。隠しアイテム探しゲームにおける同氏のUXの鉄則は「マッピングを崩すな」だ。"
+              },
+              {
+                "t": "p",
+                "x": "AIについては、スピード面で前向きだ。デザイナーたちは要素の一括リネームなどの作業向けに独自のツールを自作しており、プロトタイプは今や約70%速く仕上がると同氏は見積もる。"
+              },
+              {
+                "t": "p",
+                "x": "同氏がはっきりと線を引くのは、オーディエンスデータから作った合成プレイヤーだ。「そこが危うくなるところで、いつの間にかまたプレイヤーのことを考えなくなってしまう」「私たちは今も人のために何かを作っている。そして、部屋に人がいなければ、人のためのものは作れない」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Wooga UX负责人\n谈AI边界与玩家优先",
+          "body": "Wooga的UX负责人称，AI让原型制作提速约70%，但合成玩家是一条红线。",
+          "mini_headline": "Wooga UX负责人谈AI的边界",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "hFLKDmPw3XE"
+              },
+              {
+                "t": "p",
+                "x": "Holger Wurst于2015年加入Wooga，目前领导June's Journey的UI/UX部门。June's Journey是一款以1920年代为背景的隐藏物品解谜游戏，2023年收入突破10亿美元。他带领一支由11名设计师、动画师和研究员组成的团队。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
+                "cap": "为纪念Agatha Christie逝世50周年，Poirot加入了June's Journey。"
+              },
+              {
+                "t": "p",
+                "x": "在与Wicked和Agatha Christie等联动时，他首先研究了玩家；玩家只有一个条件：“绝不能抢了June的风头。”他对隐藏物品游戏的UX原则是：“不要破坏映射。”"
+              },
+              {
+                "t": "p",
+                "x": "在AI方面，他对速度充满热情。他的设计师会自己编写工具来完成批量重命名元素之类的工作，他估计现在原型的制作速度快了约70%。"
+              },
+              {
+                "t": "p",
+                "x": "他明确划出红线的是基于受众数据构建的合成玩家。“那正是开始变得危险的地方，你会不知不觉又不再考虑玩家。”“我们仍然是在为人打造东西。而房间里没有人，你就无法为人打造东西。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Wooga: límites de la IA y\nlos jugadores, lo primero",
+          "body": "Para el líder de UX de Wooga, la IA agiliza los prototipos cerca de un 70%, pero los jugadores sintéticos son tabú.",
+          "mini_headline": "Wooga y los límites de la IA",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "hFLKDmPw3XE"
+              },
+              {
+                "t": "p",
+                "x": "Holger Wurst se incorporó a Wooga en 2015 y hoy dirige el departamento de UI/UX de June's Journey, el juego de misterio y objetos ocultos ambientado en la década de 1920 que superó los 1.000 millones de dólares de ingresos en 2023. Dirige un equipo de once diseñadores, animadores e investigadores."
+              },
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
+                "cap": "Poirot llegó a June's Journey para conmemorar los 50 años de la muerte de Agatha Christie."
+              },
+              {
+                "t": "p",
+                "x": "Para colaboraciones como las de Wicked y Agatha Christie, primero investigó a los jugadores; su única condición: \"Nunca pueden eclipsar a June\". Su regla de UX para los juegos de objetos ocultos: \"No rompas el mapeo\"."
+              },
+              {
+                "t": "p",
+                "x": "En cuanto a la IA, le entusiasma la velocidad. Sus diseñadores escriben sus propias herramientas para tareas como renombrar elementos en lote, y calcula que los prototipos ahora se completan en torno a un 70% más rápido."
+              },
+              {
+                "t": "p",
+                "x": "Donde traza una línea roja es en los jugadores sintéticos creados a partir de datos de audiencia. \"Ahí es donde se vuelve peligroso, donde de algún modo vuelves a dejar de pensar en el jugador\". \"Seguimos construyendo algo para personas. Y no puedes construir algo para personas sin personas en la sala\"."
               }
             ]
           }

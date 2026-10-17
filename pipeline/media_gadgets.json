@@ -1,32 +1,30 @@
 {
- "date": "2026-10-17",
- "section": "gadgets",
- "media": [
-  {
-   "id": "gadgets-heygemini",
-   "type": "image",
-   "src": "pipeline/media/gadgets-heygemini.jpg"
-  },
-  {
-   "id": "gadgets-brera",
-   "type": "video",
-   "src": "pipeline/media/gadgets-brera.mp4",
-   "poster": "pipeline/media/gadgets-brera.jpg"
-  },
-  {
-   "id": "gadgets-galaxylang",
-   "type": "image",
-   "src": "pipeline/media/gadgets-galaxylang.jpg"
-  },
-  {
-   "id": "gadgets-siri",
-   "type": "image",
-   "src": "pipeline/media/gadgets-siri.jpg"
-  },
-  {
-   "id": "gadgets-myfirst",
-   "type": "image",
-   "src": "pipeline/media/gadgets-myfirst.jpg"
-  }
- ]
+  "date": "2026-10-18",
+  "media": [
+    {
+      "id": "gadgets-ps5-local-ai",
+      "type": "image",
+      "src": "pipeline/media/gadgets-ps5-local-ai.jpg"
+    },
+    {
+      "id": "gadgets-asusproartp16",
+      "type": "image",
+      "src": "pipeline/media/gadgets-asusproartp16.jpg"
+    },
+    {
+      "id": "gadgets-macpaweney",
+      "type": "image",
+      "src": "pipeline/media/gadgets-macpaweney.jpg"
+    },
+    {
+      "id": "gadgets-eufywindowe10",
+      "type": "image",
+      "src": "pipeline/media/gadgets-eufywindowe10.jpg"
+    },
+    {
+      "id": "gadgets-htcviveeagle",
+      "type": "image",
+      "src": "pipeline/media/gadgets-htcviveeagle.jpg"
+    }
+  ]
 }

@@ -14310,6 +14310,179 @@
           "x": "Codex 같은 코딩 에이전트는 Figma MCP 서버로 스펙과 거기 연결된 맥락을 모두 읽는다. Specs는 웹, 데스크톱, 모바일에서 쓸 수 있으며 유료 플랜에 오픈 베타로 차례로 열린다."
         }
       ]
+    },
+    "design/design-figma-payload": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Make에서 Payload로 만들기(미리보기 모드)."
+        },
+        {
+          "t": "p",
+          "x": "Payload는 Figma에 합류한 팀이 만든 오픈소스 헤드리스 CMS로, 이제 Figma Make에 내장됐다. 지난 12개월 동안 다운로드가 6배 늘어 NPM에서 가장 빠르게 크는 오픈소스 CMS가 됐다."
+        },
+        {
+          "t": "p",
+          "x": "이제 Make에서 프롬프트로 앱을 만들면 데이터베이스, 파일 저장소, 사용자 로그인, 관리자 패널도 함께 갖춰진다. 디자이너는 실제 콘텐츠로 프롬프트를 쓰고, 마케터는 관리자 패널에서 콘텐츠를 고치며, 개발자는 Payload 프레임워크로 앱을 맞춤 설정한다. 권한은 역할별로 세밀하게 나뉜다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Make에서 Payload로 만들기(CMS 모드)."
+        },
+        {
+          "t": "p",
+          "x": "콘텐츠, 미디어, 권한, 워크플로, 버전 관리, APIs, 관리자 패널은 Payload가 맡고 호스팅은 Figma가 한다. IBM의 디자이너 Noah Trevino는 화면과 필드 목록을 Figma에 넘겼고, 팀이 바로 고칠 수 있는 실제로 돌아가는 초안을 받았다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "CSV 업로드(데모용 이름)."
+        },
+        {
+          "t": "p",
+          "x": "게시된 사이트 주소에 /admin을 붙이면 편집 패널이 열린다. 팀은 여기서 프롬프트를 쓰거나 티켓을 올리지 않고도 글을 만들고, 미디어를 바꾸고, 버전을 검토하고, 게시한다. API 키도 이제 별도의 Supabase 프로젝트 대신 Make 설정에 안전하게 보관된다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "CMS에서 콘텐츠를 업데이트하는 모습."
+        },
+        {
+          "t": "p",
+          "x": "Payload는 모든 플랜에서 쓸 수 있고 앞으로 몇 주에 걸쳐 차례로 배포된다. Payload 기반 Make 프로젝트 호스팅은 무료 베타로 제공되고, 가격은 나중에 발표된다."
+        }
+      ]
+    },
+    "design/design-adobe-nvidia": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
+          "cap": "Adobe와 NVIDIA가 협력을 넓힌다."
+        },
+        {
+          "t": "p",
+          "x": "Adobe와 NVIDIA는 3월에 발표한 전략적 파트너십을 넓혀 Photoshop, Premiere, Substance 3D, Frame.io, Brand Concierge를 함께 최적화한다고 발표했다."
+        },
+        {
+          "t": "p",
+          "x": "Photoshop, Premiere, Substance 3D는 10월 16일 출시되는 NVIDIA RTX Spark 슈퍼칩에 맞춰 최적화 중이며, AI 처리·편집·색 보정·이펙트가 최대 2배 빨라진다. Adobe는 Photoshop을 GPU 가속(GPU-accelerated) 합성 중심으로 다시 설계했다. Premiere의 Enhance Speech와 Object Mask 같은 기능도 빨라지고, Substance 3D Painter에서는 RTX Spark가 가장 무거운 텍스처링 단계를 가속한다."
+        },
+        {
+          "t": "p",
+          "x": "“RTX Spark를 기반으로 최적화된 Adobe 도구는 최대 2배 빠른 성능으로 이 새로운 워크플로를 가속한다”고 NVIDIA 로컬 AI 부문 부사장 Jason Paul은 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Frame.io는 이제 미디어 처리에 NVDEC, TensorRT, CUDA를 쓴다. 초기 결과를 보면 임베딩 생성이 약 5배 빨라졌고, P95 지연 시간은 4-5배 개선됐고, 검색 프록시는 약 80% 작아졌다."
+        },
+        {
+          "t": "p",
+          "x": "Brand Concierge는 NVIDIA Nemotron 오픈 모델로 최적화돼 올해 안에 기업용으로 나올 예정이다. NVIDIA도 이를 NVIDIA.com에 쓰기로 했다. 두 회사는 11월 10-12일 열리는 Adobe MAX에서 더 많은 내용을 공개한다."
+        }
+      ]
+    },
+    "design/design-uxc-org-chart": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
+          "cap": "하나로 묶인 조직도: ‘사용자는 하나의 경험을 본다’."
+        },
+        {
+          "t": "p",
+          "x": "Kate Agena는 AI가 콘텐츠 디자인, 기업 콘텐츠 전략, 지식 관리, 모델 행동을 같은 사용자 경험 안으로 끌어들이는데 정작 우리가 일하는 방식은 아직 따라가지 못했다고 주장한다. 그가 드는 예는 이렇다. AI 어시스턴트가 재무 담당자에게 승인된 청구서가 지급 준비를 마쳤다고 알리지만, 실제로는 지급이 막혀 있다. 원인은 여러 팀에 흩어져 있을 수 있지만 사용자가 겪는 건 망가진 경험 하나다."
+        },
+        {
+          "t": "p",
+          "x": "그는 Nielsen Norman Group의 Sarah Gibbons가 정리한 “AI 디자인”의 네 가지 의미를 빌려 온다. 콘텐츠 디자이너는 점점 문장보다 시스템을 설계하게 되고, 택소노미, 온톨로지, 지식 그래프 같은 의미 구조도 함께 만들어야 한다고 그는 짚는다. “전문화는 타당합니다. 우려되는 건 분리입니다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
+          "cap": "정적 UI, 생성형 UI, 대화와 에이전트는 네 분야가 떠받치는 공통의 이해 위에 서 있다."
+        },
+        {
+          "t": "p",
+          "x": "그는 더 통합된 운영 모델을 주문한다. 용어를 함께 관리하는 거버넌스, AI 행동에 반영되는 콘텐츠 패턴, 지식이 바뀔 때 의존 관계를 알려 주는 워크플로, 원천 팀까지 되돌아가는 피드백 루프다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
+          "cap": "개념 하나가 바뀌면 의미 모델, UI 콘텐츠, 문서, AI 행동, 에이전트 동작, 평가까지 파급된다."
+        },
+        {
+          "t": "p",
+          "x": "평가가 경험을 지키는 방법의 하나로 자리 잡아 간다고 그는 쓴다. “경험은 우리의 조직도를 신경 쓰지 않습니다. 이제는 점점 더 조직도가 경험을 신경 써야 합니다.”"
+        }
+      ]
+    },
+    "design/design-smashing-ai-adoption": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
+          "cap": "당신의 조직은 AI 도입을 망치고 있는가?"
+        },
+        {
+          "t": "p",
+          "x": "Paul Boag는 2014년 Smashing에서 낸 책 Digital Adaptation을 다시 꺼낸다. 조직들이 AI를 두고 디지털 전환 때의 실수를 되풀이한다는 것이 그의 주장이다. 그때나 지금이나 가장 큰 실수는 이 일을 기술 과제로 보는 것이다. IT 부서는 Copilot Studio 라이선스를 나눠 주고 일반 교육을 얹은 뒤 할 일을 마쳤다고 여긴다."
+        },
+        {
+          "t": "p",
+          "x": "직원은 AI로 개인이 얻는 게 적고 일자리도 걱정한다. 그러니 조직이 동기를 줘야 한다. 싫어하는 업무부터 공략하거나 승진, 급여, 근무 시간 단축 같은 인센티브를 걸고, 직무별 교육과 시간을 내줘야 한다. 열성적인 사람부터 시작해 사회적 증거가 힘을 쓰게 두라는 게 그의 제안이다."
+        },
+        {
+          "t": "p",
+          "x": "실패해도 안전해야 한다. AI를 도입하라는 지시를 받았다가 몇 주 뒤 토큰을 너무 많이 썼다고 질책받은 직원들 이야기가 그에게 들려온다. 거버넌스는 gov.uk의 디자인 원칙처럼 짧은 원칙 모음이어야 한다."
+        },
+        {
+          "t": "img",
+          "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
+          "cap": "GOV.UK의 디자인 원칙."
+        },
+        {
+          "t": "p",
+          "x": "IT가 도구 하나로 묶어두면 팀이 멈춘다. 그가 함께 일하는 한 UX 팀은 Copilot이 리서치 저장소를 구현하지 못해 발이 묶였다. 이런 상황은 섀도 AI도 부추긴다. AI 도입은 디지털 전환과 마찬가지로 사람, 문화, 변화 관리의 문제다."
+        }
+      ]
+    },
+    "design/design-figma-code-layers": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "code layers가 오늘 오픈 베타로 바뀐다. 팀은 이제 캔버스 위에서 코드 기반 프로토타입을 살펴보고 직접 만든다. 저마다 자기 코딩 도구에서 따로 일하면 혼자 디자인하는 기분이 들고 작업을 공유하거나 대안을 견주기도 어렵다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/5bad8b94a677b2890b50915446f7cc066fa47988-3264x1836.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "Figma 캔버스 위의 코드"
+        },
+        {
+          "t": "p",
+          "x": "지원하는 가벼운 프로토타이핑 코드베이스를 GitHub나 로컬 폴더에서 가져오거나, Figma MCP 서버로 프로토타입을 불러오거나, Figma Chrome 확장 프로그램으로 실제 웹 경험을 code layer 형태로 캔버스에 올린다. Figma 디자인을 인터랙티브 code layer로 바꿀 수도 있다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2a2ce577dc820b43d688545d2343d69cab12bff-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "GitHub나 로컬 폴더에서 프로토타이핑 코드베이스를 가져와 기존 플로를 반복해 다듬는다."
+        },
+        {
+          "t": "p",
+          "x": "Merkle은 반복 작업과 기능 개발이 30% 빨라지고 문서 작업은 50% 줄었다고 밝혔다. 캔버스에는 한 프로토타입의 여러 버전을 나란히 둘 수 있다. 하나를 복제해 다른 접근을 시도한 뒤 둘을 비교하면 된다."
+        },
+        {
+          "t": "p",
+          "x": "인터랙션은 Figma agent에 프롬프트를 넣어 다듬고, Extract designs는 code layer의 화면이나 플로를 편집 가능한 Figma 레이어로 바꾼다. code layers는 AI 크레딧을 쓰지만 유료 플랜에서는 November 4, 2026까지 생성과 편집이 무료다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/186f422e55b6e4d04f695a00f06e799e333f63b1-3840x2160.png?w=1600&q=75&fit=max&auto=format",
+          "cap": "Extract designs로 code layer의 화면을 편집 가능한 Figma 프레임으로 바꾼다."
+        }
+      ]
     }
   }
 }
