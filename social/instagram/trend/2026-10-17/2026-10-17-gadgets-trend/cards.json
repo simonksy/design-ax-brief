@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "AI 말벗이 아이와 노년 곁으로 간다",
+    "date": "2026.10.17",
+    "section": "GADGETS",
+    "accent": "#ff5a4d",
+    "note": "아카이브를 거슬러 사람이 묶었다. 아이·노년용 AI 기기 네 건이 같은 질문을 남긴다.",
+    "sources": [
+      "https://www.techradar.com/phones/this-colorful-gadget-might-be-the-first-phone-for-free-range-kids-but-im-still-not-sure-freckle-phone-can-overcome-the-ai-gadget-curse",
+      "https://www.notebookcheck.net/HMD-brings-AI-companionship-to-a-basic-flip-phone-complete-with-a-recurring-subscription.1423960.0.html",
+      "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "https://www.notebookcheck.net/myFirst-s-AI-camera-and-printer-turn-kids-ideas-into-instant-comics.1423897.0.html"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 가젯 · 10.01~10.17",
+      "thread": [
+        {
+          "d": "10.1",
+          "t": "아이용 폰",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.15",
+          "t": "노년의 말벗",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.16",
+          "t": "대화 유출",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        },
+        {
+          "d": "10.17",
+          "t": "즉석 만화",
+          "c": "#ff5a4d",
+          "s": "GADGETS"
+        }
+      ],
+      "thread_note": "AI 말벗은 가장 여린 사용자부터 찾아가는데, 지켜 줄 장치는 아직 약속뿐이다",
+      "eyebrow": "흐름 · 가젯",
+      "headline": "AI 말벗, 가장 여린 곁으로",
+      "body": "아이용 폰, 노년 피처폰, 반려 로봇, 그림 기기. AI가 말을 거는 상대는 넓어지는데 대화를 지키는 장치는 제각각이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.01",
+      "headline": "앱도 인터넷도 없는 아이 폰",
+      "body": "Freckle 폰은 앱·인터넷 대신 Gemini와 소형 로컬 모델로 아이 질문에 답한다. 199달러, 12월 미국 출시.",
+      "foot": "2026.10.01",
+      "_src": "https://www.techradar.com/phones/this-colorful-gadget-might-be-the-first-phone-for-free-range-kids-but-im-still-not-sure-freckle-phone-can-overcome-the-ai-gadget-curse",
+      "_id": "gadgets-freckle-kids-phone",
+      "media": "pipeline/media/gadgets-freckle-kids-phone.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.15",
+      "headline": "노년 피처폰에 AI 말벗 Mary",
+      "body": "HMD 2660 Flip Senior Edition의 Mary는 이전 대화도 기억한다. 무료 다섯 시간 뒤엔 월 €19.90.",
+      "foot": "2026.10.15",
+      "_src": "https://www.notebookcheck.net/HMD-brings-AI-companionship-to-a-basic-flip-phone-complete-with-a-recurring-subscription.1423960.0.html",
+      "_id": "gadgets-hmd-flip-companion",
+      "media": "pipeline/media/gadgets-hmd-flip-companion.png"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "‘비밀은 지켜 줄게요’라던 로봇",
+      "body": "해커는 몇 분 만에 장난감 68,000대의 대화 1300만 건을 읽었다. US 아동 프로필도 31,000개가 넘었다.",
+      "foot": "2026.10.16",
+      "_src": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+      "_id": "gadgets-eiliko",
+      "media": "pipeline/media/gadgets-eiliko.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "아이 말이 즉석 만화가 된다",
+      "body": "myFirst magiBox는 아이가 말한 이야기를 네 컷 만화로 뽑는다. 음성 보호 약속은 아직 검증 전이다.",
+      "foot": "2026.10.17",
+      "_src": "https://www.notebookcheck.net/myFirst-s-AI-camera-and-printer-turn-kids-ideas-into-instant-comics.1423897.0.html",
+      "_id": "gadgets-myfirst",
+      "media": "pipeline/media/gadgets-myfirst.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

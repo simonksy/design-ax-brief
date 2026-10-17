@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "캔버스가 사람과 에이전트의 공용 작업대로",
+    "date": "2026.10.17",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "아카이브를 거슬러 사람이 묶었다. 낱말 겹침이 아니라 읽어서 고른 흐름이다.",
+    "sources": [
+      "https://www.figma.com/blog/introducing-figma-specs/",
+      "https://vercel.com/blog/vercel-ship-2026-recap",
+      "https://www.figma.com/blog/design-together-with-code-layers/",
+      "https://cursor.com/changelog/cloud-agent-canvases-and-environments"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 디자인 · 10.16~10.17",
+      "thread": [
+        {
+          "d": "10.16",
+          "t": "명세 공유",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.17",
+          "t": "코드 레이어",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.17",
+          "t": "공유 캔버스",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        },
+        {
+          "d": "10.17",
+          "t": "같은 부품",
+          "c": "#0070f3",
+          "s": "DESIGN"
+        }
+      ],
+      "thread_note": "디자인 캔버스가 사람과 에이전트가 함께 읽고 쓰는 자리가 된다",
+      "eyebrow": "흐름 · 디자인",
+      "headline": "캔버스, 에이전트와 함께 쓰는 책상",
+      "body": "이틀 새 네 소식이 같은 쪽을 향한다. 명세와 코드, 부품이 캔버스 한곳에 모여 사람과 에이전트가 같이 읽는다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "명세가 캔버스 위로 올라왔다",
+      "body": "Figma Specs는 Markdown 명세를 캔버스에 둔다. 코딩 에이전트는 MCP 서버로 그 맥락을 읽는다.",
+      "foot": "2026.10.16",
+      "_src": "https://www.figma.com/blog/introducing-figma-specs/",
+      "_id": "design-figma-specs",
+      "media": "pipeline/media/design-figma-specs.png"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "코드 프로토타입도 캔버스에",
+      "body": "code layers 오픈 베타. 여러 버전을 나란히 견준다. Merkle은 반복 작업이 30% 빨라졌다고 했다.",
+      "foot": "2026.10.17",
+      "_src": "https://www.figma.com/blog/design-together-with-code-layers/",
+      "_id": "design-figma-code-layers",
+      "media": "pipeline/media/design-figma-code-layers.png"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "이번엔 에이전트가 캔버스를 연다",
+      "body": "Cursor 클라우드 에이전트가 작업 중 인터랙티브 캔버스를 만들고, 다 만들면 링크로 팀과 나눈다.",
+      "foot": "2026.10.17",
+      "_src": "https://cursor.com/changelog/cloud-agent-canvases-and-environments",
+      "_id": "design-cursor-canvases",
+      "video": "pipeline/media/design-cursor-canvases.mp4"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "사람과 에이전트, 같은 부품으로",
+      "body": "SAP는 디자인 시스템을 조합 가능한 구조로 다시 짰다. 사람과 에이전트가 같은 부품으로 UI를 조립한다.",
+      "foot": "2026.10.17",
+      "_src": "https://vercel.com/blog/vercel-ship-2026-recap",
+      "_id": "design-vercel-ship",
+      "media": "pipeline/media/design-vercel-ship.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
