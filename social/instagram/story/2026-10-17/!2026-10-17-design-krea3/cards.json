@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "issue": "Krea 3, 2K 편집을 8초 안에",
+  "date": "2026.10.17",
+  "section": "DESIGN",
+  "accent": "#0070f3",
+  "note": "영상 앞 4초(제품·속도 그래프)는 표지, 뒤 4초(소파·램프·인물 조합)는 참고 이미지 장.",
+  "sources": [
+   "Krea 블로그 — Introducing Krea 3 (2026.10.15)"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "video": "pipeline/media/design-krea3.mp4",
+   "start": 0,
+   "dur": 4,
+   "eyebrow": "AI × 디자인 · 2026.10.17",
+   "headline": "Krea 3, 2K 편집을 8초 안에",
+   "body": "Krea가 이미지 편집 모델 Krea 3을 내놨다. 빠르고 싸게, 많이 고치는 일에 맞췄다.",
+   "foot": "밀어서 보기 →",
+   "n": 1
+  },
+  {
+   "kind": "stat",
+   "stat_top": "2K 한 장",
+   "stat_arrow": "편집 값은",
+   "stat_bottom": "$0.06",
+   "stat_strike": false,
+   "eyebrow": "얼마나 싼가",
+   "headline": "10만 장 고치면 6,000달러",
+   "body": "같은 양을 Nano Banana Pro로 고치면 1만 3,500달러, GPT Image 2는 2만 2,000달러다. Krea가 밝힌 정가 기준이다.",
+   "foot": "2026.10.17",
+   "n": 2
+  },
+  {
+   "kind": "photo",
+   "video": "pipeline/media/design-krea3.mp4",
+   "start": 4,
+   "dur": 4,
+   "eyebrow": "무엇을 지키나",
+   "headline": "고치라는 곳만 고친다",
+   "body": "참고 이미지는 한 번에 6장까지. 소파와 램프를 바꿔도 인물은 그대로고, 제품 라벨과 로고도 흐려지지 않는다.",
+   "foot": "2026.10.17",
+   "n": 3
+  },
+  {
+   "kind": "quote",
+   "quote": "속도와 품질 사이의\n맞바꿈을 없앤다",
+   "quote_by": "Víctor Perez · Krea 공동창업자·CEO",
+   "eyebrow": "짚을 대목",
+   "headline": "스케치도 사진이 된다",
+   "body": "마커 스케치, 무드보드, 바랜 사진을 완성된 이미지로 바꾼다. 가장 빠르면 4~5초지만 아직 실시간은 아니라고 Krea도 말한다.",
+   "foot": "2026.10.17",
+   "n": 4
+  },
+  {
+   "kind": "stat",
+   "stat_top": "krea.ai 사용자",
+   "stat_arrow": "바로 열렸다",
+   "stat_bottom": "3,000만 명",
+   "stat_strike": false,
+   "eyebrow": "어디서 쓰나",
+   "headline": "API와 외부 여섯 곳에서도",
+   "body": "Krea API 말고도 fal, Replicate, OpenRouter, Together AI, Hedra, Nous Research에서 쓸 수 있다.",
+   "foot": "2026.10.17",
+   "n": 5
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

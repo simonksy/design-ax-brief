@@ -1,0 +1,128 @@
+{
+  "meta": {
+    "issue": "Meta가 광고주 안쪽까지 AI를 켠다",
+    "date": "2026.10.18",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "계정·예측 모델·기존 광고·약관까지, Meta가 한 주 사이 광고주 영역 깊숙이 AI를 들인 흐름이다.",
+    "sources": [
+      "https://ppc.land/metas-muse-agent-gains-access-to-ad-accounts-and-15-business-tools/",
+      "https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/",
+      "https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/",
+      "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
+      "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 마케팅 · 10.12~10.18",
+      "thread": [
+        {
+          "d": "10.12",
+          "t": "Muse 계정",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.15",
+          "t": "GEM 통합",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.16",
+          "t": "기본값 켜기",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.17",
+          "t": "크롤링 약관",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.18",
+          "t": "조항 철회",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "Meta의 AI가 광고주 계정·광고·사이트로 들어오고, 선을 넘자 한 발 물러섰다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "Meta AI, 광고주 안방까지 들어왔다",
+      "body": "한 건씩 보면 기능 소식이다. 이어 보면 계정에서 기존 광고, 사이트 크롤링까지 AI가 들어오다 약관에서 처음 제동이 걸렸다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.12",
+      "headline": "에이전트가 광고 계정에 들어왔다",
+      "body": "미국·캐나다 소상공인은 Meta 광고 계정을 Muse에 연결할 수 있다. 다만 지출은 사장이 직접 승인해야 한다.",
+      "foot": "2026.10.12",
+      "_src": "https://ppc.land/metas-muse-agent-gains-access-to-ad-accounts-and-15-business-tools/",
+      "_id": "meta-muse-ad-accounts",
+      "media": "pipeline/media/meta-muse-ad-accounts.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "stat",
+      "eyebrow": "2026.10.15",
+      "headline": "예측은 GEM 하나로",
+      "body": "Meta는 GEM으로 예측을 합치자 전환율 18.9%, 클릭률 12%가 올랐다고 한다. 독립 감사는 없었다.",
+      "foot": "2026.10.15",
+      "_src": "https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/",
+      "_id": "marketing-meta-gem",
+      "stat_top": "예측 시스템 따로따로",
+      "stat_arrow": "GEM 하나로 묶자",
+      "stat_bottom": "전환율 +18.9%",
+      "stat_strike": false
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "돌던 광고에 AI가 기본으로 켜진다",
+      "body": "Meta는 10월 28일부터 집행 중인 Facebook·Instagram 광고에 AI 상품 탐색을 기본으로 켠다. 근거는 전환 3% 상승이다.",
+      "foot": "2026.10.16",
+      "_src": "https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/",
+      "_id": "marketing-meta-product-browsing",
+      "media": "pipeline/media/marketing-meta-product-browsing.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "quote",
+      "eyebrow": "2026.10.17",
+      "headline": "약관이 광고주 밖까지 넓어졌다",
+      "body": "10월 30일 시행 약관은 Meta 제품을 쓰는 기업과 연관된 사이트를 크롤링해 학습에 쓰게 했다. 광고를 사지 않는 기업까지 범위가 넓어졌다.",
+      "foot": "2026.10.17",
+      "_src": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
+      "_id": "marketing-meta-crawl-terms",
+      "quote": "뉴스 사이트\n스크래핑에 관한 것이\n아니다",
+      "quote_by": "Andy Stone · Meta 대변인"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "반발이 일자 문구를 뺐다",
+      "body": "Meta는 상업 약관에서 광고주 사이트를 AI 학습에 쓸 수 있다고 읽히던 문구를 삭제했다.",
+      "foot": "2026.10.18",
+      "_src": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "_id": "marketing-meta-terms",
+      "media": "pipeline/media/marketing-meta-terms.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}

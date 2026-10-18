@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "issue": "AI가 쓰는 증명",
+    "date": "2026.10.18",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "AI가 난제를 풀었다는 소식과, 그 증명을 누가 읽고 믿을지 묻는 수학계의 반응을 한 줄로 꿴다.",
+    "sources": [
+      "https://www.scientificamerican.com/article/ai-solves-a-holy-grail-problem-from-probability-theory/",
+      "https://www.livescience.com/technology/artificial-intelligence/this-is-what-happened-with-claude-and-me-ais-failed-attempt-to-crack-the-riemann-hypothesis-led-mathematician-to-a-breakthrough",
+      "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+      "https://www.eurekalert.org/news-releases/1146436",
+      "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+      "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "6건 · 과학 · 10.01~10.17",
+      "thread": [
+        {
+          "d": "10.1",
+          "t": "퍼콜레이션",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.2",
+          "t": "리만 우회로",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.8",
+          "t": "증명 경주",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.9",
+          "t": "Lean 검증",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.11",
+          "t": "수학자 동요",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.17",
+          "t": "722편 논란",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI가 증명을 쏟아내자 질문이 '풀었나'에서 '누가 읽고 믿나'로 옮겨갔다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "증명은 AI가, 읽는 일은 사람이",
+      "body": "한 건씩 보면 난제 하나가 풀린 소식이다. 3주를 꿰면 증명은 AI가 쏟아내고 검증과 해석, 신뢰의 몫이 사람에게 넘어오는 흐름이 보인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.01",
+      "headline": "퍼콜레이션 난제, 마지막 걸음은 AI가",
+      "body": "Anthropic이 LLM이 만든 증명을 공개했다. 3~10차원 격자에서도 전이가 연속적이라는 수십 년 묵은 추측이다.",
+      "foot": "2026.10.01",
+      "_src": "https://www.scientificamerican.com/article/ai-solves-a-holy-grail-problem-from-probability-theory/",
+      "_id": "science-percolation-proof",
+      "media": "pipeline/media/science-percolation-proof.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.02",
+      "headline": "실패한 리만 증명이 남긴 지름길",
+      "body": "Claude는 임계선 위 영점 비율의 하한을 40%에서 67.25%로 올렸다. Lamzouri는 그 논문을 읽고 더 간단한 증명으로 같은 값에 닿았다.",
+      "foot": "2026.10.02",
+      "_src": "https://www.livescience.com/technology/artificial-intelligence/this-is-what-happened-with-claude-and-me-ais-failed-attempt-to-crack-the-riemann-hypothesis-led-mathematician-to-a-breakthrough",
+      "_id": "riemannclaude",
+      "media": "pipeline/media/riemannclaude.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "quote",
+      "eyebrow": "2026.10.08",
+      "headline": "발표 전에 서둘러 올린 95쪽",
+      "body": "OpenAI가 unique games 증명을 찾았다는 소식에 MIT Minzer 팀은 사흘 뒤 4-to-1 결과를 올렸다.",
+      "foot": "2026.10.08",
+      "_src": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+      "_id": "science-unique-games-proof-race",
+      "quote": "보도자료로 하는 수학은\n수학에 그다지\n건강하지 않다",
+      "quote_by": "Mark Braverman · Princeton 수학자"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.09",
+      "headline": "Lean으로 한 단계씩 검증한 증명",
+      "body": "AlphaProof Nexus는 Erdős 문제 353개 중 9개, 미해결 OEIS 추측 492개 중 44개를 풀었다. Science에 실렸다.",
+      "foot": "2026.10.09",
+      "_src": "https://www.eurekalert.org/news-releases/1146436",
+      "_id": "science-alphaproof-nexus",
+      "media": "pipeline/media/science-alphaproof-nexus.png"
+    },
+    {
+      "n": 6,
+      "kind": "quote",
+      "eyebrow": "2026.10.11",
+      "headline": "검증은 되는데 읽히지 않는 증명",
+      "body": "OpenAI 발표 뒤 수학자들은 슬픔과 분노를 드러냈다. arXiv는 저자 한 명당 한 달 두 편으로 투고를 묶었다.",
+      "foot": "2026.10.11",
+      "_src": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005/",
+      "_id": "science-quanta-math-ai-reckoning",
+      "quote": "우리가 적응하지 못하면\n50년 뒤에는 수학이\n아예 사라지는\n나쁜 미래가 있다",
+      "quote_by": "Daniel Litt · University of Toronto 수학자"
+    },
+    {
+      "n": 7,
+      "kind": "stat",
+      "eyebrow": "2026.10.17",
+      "headline": "722편 속 암호학은 없었다",
+      "body": "OpenAI가 AI가 쓴 수학 원고 722편을 올리자 암호학계가 갈렸다. Matthew Green은 공개키 암호를 못 믿게 될 가능성을 15%로 봤다.",
+      "foot": "2026.10.17",
+      "_src": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
+      "_id": "science-crypto",
+      "stat_top": "AI 수학 원고 722편",
+      "stat_arrow": "그중 암호학을 다룬 논문은",
+      "stat_bottom": "0편",
+      "stat_strike": false
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 8
+    }
+  ]
+}

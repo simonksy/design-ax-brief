@@ -1,0 +1,124 @@
+{
+  "meta": {
+    "issue": "일본 게임계, AI는 효율에 창작은 사람에게",
+    "date": "2026.10.18",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "3주 사이 일본 제작자와 퍼블리셔가 차례로 같은 선을 그었다: AI는 효율 도구로 쓰되 이야기와 창작은 사람이 맡는다.",
+    "sources": [
+      "https://automaton-media.com/en/news/disgaea-creator-sohei-niikawa-has-absolutely-no-interest-in-having-ai-write-stories-instead-of-him/",
+      "https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/",
+      "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
+      "https://www.gamesradar.com/games/super-smash-bros-and-kirby-creator-masahiro-sakurai-says-original-games-will-be-harder-for-ai-to-rip-off-but-originality-also-makes-your-game-harder-to-sell/",
+      "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "5건 · 게임 · 09.28~10.18",
+      "thread": [
+        {
+          "d": "09.28",
+          "t": "이야기는 손",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.6",
+          "t": "의도는 작가",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.7",
+          "t": "창작은 사람",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.17",
+          "t": "독창성 방패",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.18",
+          "t": "핵심은 사람",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "일본 게임계는 AI를 효율 도구로 들이되, 창작은 사람 몫이라고 선을 긋는다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "AI는 들이고, 창작은 지킨다",
+      "body": "니이카와·Kojima·사쿠라이와 Sega·Konami가 3주 새 같은 말을 했다. 이어 보면 업계가 정한 선이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.09.28",
+      "headline": "니이카와 \"이야기는\nAI에 안 맡긴다\"",
+      "body": "디스가이아를 만든 그는 AI를 생산성 도구로는 인정한다. 그래도 단어 하나하나 직접 꿰지 않으면 재미가 없다고 했다.",
+      "foot": "2026.09.28",
+      "_src": "https://automaton-media.com/en/news/disgaea-creator-sohei-niikawa-has-absolutely-no-interest-in-having-ai-write-stories-instead-of-him/",
+      "_id": "games-disgaea-niikawa-no-ai-stories",
+      "media": "pipeline/media/games-disgaea-niikawa-no-ai-stories.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.06",
+      "headline": "Kojima, AI가\n의도 바꾸는 건 싫다",
+      "body": "DLSS 5 논쟁 속에 Hideo Kojima는 조명 하나에도 이유가 있었다며 AI의 원작 변경을 꺼렸다.",
+      "foot": "2026.10.06",
+      "_src": "https://www.gamesradar.com/games/open-world/hideo-kojima-addresses-ai-after-dlss-5-hit-death-stranding-2-says-i-dont-much-like-the-idea-of-it-taking-work-or-control-from-artists/",
+      "_id": "kojima-on-ai-after-dlss5-death-stranding2",
+      "media": "pipeline/media/kojima-on-ai-after-dlss5-death-stranding2.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.07",
+      "headline": "Sega, 창작은\nAI에 안 맡긴다",
+      "body": "Tsuyoshi Saito는 AI를 업무 효율화에만 쓰고 게임 창작엔 쓰지 않는다고 Nikkei에 말했다.",
+      "foot": "2026.10.07",
+      "_src": "https://www.gamesindustry.biz/sega-wont-entrust-the-creative-aspect-of-games-to-ai-but-is-using-tech-to-improve-efficiency-in-other-departments",
+      "_id": "games-sega-ai",
+      "media": "pipeline/media/games-sega-ai.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "사쿠라이, 독창성이\nAI 모방을 막는다",
+      "body": "Masahiro Sakurai는 AI가 있던 것만 끌어다 쓴다고 본다. 그래서 흔한 메커니즘일수록 모방작의 표적이 된다.",
+      "foot": "2026.10.17",
+      "_src": "https://www.gamesradar.com/games/super-smash-bros-and-kirby-creator-masahiro-sakurai-says-original-games-will-be-harder-for-ai-to-rip-off-but-originality-also-makes-your-game-harder-to-sell/",
+      "_id": "games-sakurai-originality",
+      "media": "pipeline/media/games-sakurai-originality.jpg"
+    },
+    {
+      "n": 6,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "Konami, 혁신의\n핵심은 사람",
+      "body": "Hideki Hayakawa 사장은 AI로 효율이 올라도 혁신적인 게임은 사람과 크리에이터가 만든다고 했다.",
+      "foot": "2026.10.18",
+      "_src": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
+      "_id": "games-konami",
+      "media": "pipeline/media/games-konami.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 7
+    }
+  ]
+}
