@@ -1,0 +1,78 @@
+{
+ "meta": {
+  "issue": "Claude가 양자 회로를 더 가볍게 짰다",
+  "date": "2026.10.18",
+  "section": "SCIENCE",
+  "accent": "#3aa655",
+  "note": "수치는 The Quantum Insider 기사 기준. 모델명·53시간은 기사가 인용한 Anthropic 블로그.",
+  "sources": [
+   "The Quantum Insider — Anthropic's Claude Designs Leaner Quantum Circuits (2026.10.17)",
+   "arXiv 2610.22367"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "media": "pipeline/media/science-claude-quantum-circuits.png",
+   "eyebrow": "AI × 과학 · 2026.10.18",
+   "headline": "Claude가 양자 회로를 더 가볍게 짰다",
+   "body": "Anthropic과 Harvard 연구진이 Claude로 양자 계산의 기본 부품 여덟 가지를 다시 설계했다.",
+   "foot": "밀어서 보기 →",
+   "n": 1
+  },
+  {
+   "kind": "stat",
+   "stat_top": "Toffoli 510만 개",
+   "stat_arrow": "디코딩 회로 하나에서",
+   "stat_bottom": "약 44만 개",
+   "stat_strike": true,
+   "eyebrow": "얼마나 줄었나",
+   "headline": "비싼 연산이 약 12분의 1로",
+   "body": "최대 큐비트 수도 1,938개에서 1,837개로 줄었다. 확장 유클리드 방식을 Berlekamp–Massey로 바꾼 결과다.",
+   "foot": "2026.10.18",
+   "n": 2
+  },
+  {
+   "kind": "stat",
+   "stat_top": "기본 부품 8가지 중",
+   "stat_arrow": "게이트·큐비트를 다 줄인 것",
+   "stat_bottom": "7가지",
+   "stat_strike": false,
+   "eyebrow": "어디서 줄였나",
+   "headline": "화학·최적화·물리·정수론",
+   "body": "가우스 함수 회로는 게이트×큐비트 점수가 39배, 선형 방정식 회로는 32배 나아졌다. 나머지 하나는 새 산술 방식을 내놨다.",
+   "foot": "2026.10.18",
+   "n": 3
+  },
+  {
+   "kind": "quote",
+   "quote": "결과는 회로 설계와\n자원 추정치다",
+   "quote_by": "The Quantum Insider · 2026.10.17",
+   "eyebrow": "짚을 대목",
+   "headline": "양자 하드웨어 시연은 아니다",
+   "body": "표본 테스트는 정확성을 뒷받침할 뿐, 모든 입력에서 맞는다는 증명은 아니다. arXiv 프리프린트로 동료 평가 전이다.",
+   "foot": "2026.10.18",
+   "n": 4
+  },
+  {
+   "kind": "stat",
+   "stat_top": "타원곡선 산술 작업",
+   "stat_arrow": "Claude Mythos 5가 돌린 시간",
+   "stat_bottom": "53시간",
+   "stat_strike": false,
+   "eyebrow": "사람은 무엇을 했나",
+   "headline": "처음 지시와 가끔의 재촉",
+   "body": "사람은 처음 지시를 주고, 가끔 탐색을 넓히라고 했을 뿐이다. 회로는 독립 평가기가 따로 시험했다.",
+   "foot": "2026.10.18",
+   "n": 5
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

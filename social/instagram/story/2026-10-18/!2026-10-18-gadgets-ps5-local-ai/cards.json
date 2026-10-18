@@ -1,0 +1,65 @@
+{
+ "meta": {
+  "issue": "탈옥한 PS5, 이제 GPU로 AI를 돌린다",
+  "date": "2026.10.18",
+  "section": "GADGETS",
+  "accent": "#ff5a4d",
+  "note": "스틸이 한 장뿐이라 나머지는 stat·quote로.",
+  "sources": [
+   "Tom's Hardware — Jailbroken PS5s can now run local AI models at over 100+ tokens per second (2026.10.16)"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "media": "pipeline/media/gadgets-ps5-local-ai.jpg",
+   "eyebrow": "AI × 가젯 · 2026.10.18",
+   "headline": "탈옥한 PS5, 이제 GPU로 AI를 돌린다",
+   "body": "Reddit 사용자 u/AdIllustrious7246이 PS5용 llama.cpp 포트 PS5LM을 고쳐 GPU에서 바로 돌게 했다.",
+   "foot": "밀어서 보기 →",
+   "n": 1
+  },
+  {
+   "kind": "stat",
+   "stat_top": "6GiB",
+   "stat_arrow": "GPU에서 직접 돌리자",
+   "stat_bottom": "11.4GiB",
+   "stat_strike": true,
+   "eyebrow": "무엇이 달라졌나",
+   "headline": "쓸 수 있는 메모리가 두 배 가까이",
+   "body": "원본은 CPU에 끼어 도는 방식이라, 더 잡으면 홈 화면이 멈췄다. 포크는 PS5_Vulkan으로 잠긴 GPU에 명령을 보낸다.",
+   "foot": "2026.10.18",
+   "n": 2
+  },
+  {
+   "kind": "stat",
+   "stat_top": "Llama 3.2 3B",
+   "stat_arrow": "초당",
+   "stat_bottom": "124토큰",
+   "stat_strike": false,
+   "eyebrow": "얼마나 빠른가",
+   "headline": "27B 모델도 초당 20토큰",
+   "body": "Gemma 4 E4B는 초당 61토큰, Qwen3.8-27B는 20토큰이다. 웹 UI도 붙여 다른 기기 브라우저에서 대화할 수 있다.",
+   "foot": "2026.10.18",
+   "n": 3
+  },
+  {
+   "kind": "quote",
+   "quote": "PS5의 GPU가 가장 빠른 것도,\nRAM이 가장 많은 것도 아니다",
+   "quote_by": "Tom's Hardware · 2026.10.16",
+   "eyebrow": "짚을 대목",
+   "headline": "채굴 대란 재연은 어렵다",
+   "body": "댓글에는 암호화폐 채굴 때 GPU 품귀를 떠올리는 반응이 있었다. Tom's Hardware는 그럴 가능성이 낮다고 봤다.",
+   "foot": "2026.10.18",
+   "n": 4
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 5
+  }
+ ]
+}

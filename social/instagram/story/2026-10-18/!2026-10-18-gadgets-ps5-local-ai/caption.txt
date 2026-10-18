@@ -1,0 +1,17 @@
+탈옥한 PS5, 이제 GPU로 AI를 돌린다
+
+PS5용 llama.cpp 포트 PS5LM의 포크가 나왔습니다. 이제 PS5 GPU에서 직접 돌아갑니다.
+
+· 쓸 수 있는 메모리가 6GiB에서 11.4GiB로
+· Llama 3.2 3B는 초당 124토큰, 27B 모델도 초당 20토큰
+· 웹 UI로 다른 기기 브라우저에서 대화
+
+게임을 안 할 때 PS5를 AI 비서로 쓰는 셈입니다. 다만 채굴 때 같은 GPU 품귀로 번지긴 어렵다는 게 Tom's Hardware의 판단입니다.
+
+밀어서 5장 →
+
+출처: Tom's Hardware
+
+매일 아침 열 개 분야 AI 뉴스와 분야를 넘나드는 지식 그래프 → axitnow.com (프로필 링크)
+
+#AI #PS5 #로컬AI #LLM #llamacpp #axitnow
