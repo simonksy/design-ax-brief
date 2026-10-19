@@ -1,83 +1,103 @@
 {
+  "date": "2026-10-19",
   "section": "marketing",
-  "generated_at": "2026-10-17T22:00:34Z",
-  "now_iso": "2026-10-17T22:00:34Z",
   "window_hours": 72,
+  "now_iso": "2026-10-19T01:00:00Z",
   "items": [
     {
-      "title": "VideoAmp Bets On AI To Connect Ad Planning And Measurement",
-      "url": "https://www.adexchanger.com/ai/videoamp-bets-on-ai-to-connect-ad-planning-and-measurement/",
+      "title": "Amazon's $100-a-day Full-Funnel campaigns hand targeting to AI, ADOTAT says",
+      "url": "https://ppc.land/amazons-100-a-day-full-funnel-campaigns-hand-targeting-to-ai-adotat-says/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-18T20:38:32.000Z",
+      "excerpt": "Full-Funnel Campaigns are live for US advertisers while DVA+, which keeps the DSP controls, sat in closed beta. ADOTAT asks who grades results Amazon optimized.",
+      "og_image": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+    },
+    {
+      "title": "Salesforce's Hunter agent gets Demandbase intent data with no extra contract",
+      "url": "https://ppc.land/salesforces-hunter-agent-gets-demandbase-intent-data-with-no-extra-contract/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-18T19:45:57.000Z",
+      "excerpt": "Sales Cloud teams get buying group, intent and engagement signals inside Hunter's pilot. No price, GA date or data limits are given. What does the deal cover?",
+      "og_image": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
+    },
+    {
+      "title": "Google's Universal Cart reaches US shoppers as Meta flips browsing on",
+      "url": "https://ppc.land/googles-universal-cart-reaches-us-shoppers-as-meta-flips-browsing-on/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-16T11:22:28.000Z",
+      "excerpt": "Google's Universal Cart went live in US Search and Gemini, while Meta set in-app product browsing to switch on by default in existing ads on October 28, 2026.",
+      "og_image": "https://ppc.land/content/images/2026/10/google-universal-cart-meta-product-browsing-default-storefronts-shopping-cart-skyscraper.jpg",
+      "history_match": {
+        "score": 0.408,
+        "date": "2026-10-16",
+        "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "title": "Google's Universal Cart shopping tool launches in the US",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "Devising A New (Ad) Metric System; Where Did All The UTMs Go?",
+      "url": "https://www.adexchanger.com/daily-news-roundup/friday-16102026/",
       "source": "AdExchanger",
       "category": "marketing",
-      "published_iso": "2026-10-16T09:00:09+00:00",
-      "excerpt": "With its JIC re-certification in hand, VideoAmp is pushing AI agents to connect TV planning and measurement so buyers can optimize campaigns in flight. Note: no named product or customer data; measurement angle (under-covered).",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-scaled.jpg"
+      "published_iso": "2026-10-16T04:03:54+00:00",
+      "excerpt": "The fight over standardized metrics; UTM parameters no longer appear in ChatGPT results; and the ad agency that's been spying on online users.",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2024/11/Meet-the-Metrics-viewability-attention-video-completion-rate-CTR-baseball-comic-detail-1.jpg"
     },
     {
-      "title": "Meta named a future that never came. Amazon Ads Agent names one that exists",
-      "url": "https://ppc.land/meta-named-a-future-that-never-came-amazon-ads-agent-names-one-that-exists/",
-      "source": "PPC Land",
+      "title": "Google Tests Ads in AI Mode for Personal Intelligence Users",
+      "url": "https://www.thekeyword.co/news/google-personal-intelligence-ads",
+      "source": "The Keyword",
       "category": "marketing",
-      "published_iso": "2026-10-15T19:20:10+00:00",
-      "excerpt": "Analysis of Amazon retiring the Amazon DSP name (now DVA) and merging the ads console and DSP into the agentic Amazon Ads Agent; argues the real test is its fees. Retail media AI; the launch itself was Sept 29 at unBoxed, so this is analysis, not a new launch.",
-      "og_image": "https://ppc.land/content/images/2026/10/amazon-ads-agent-meta-metaverse-rename-fees-self-running-machine.jpg",
+      "published_iso": "2026-10-17T12:00:00Z",
+      "excerpt": "Google is testing ads in AI Mode that can be personalized with inferences from the Gmail and Google Photos data people connect through Personal Intelligence; ads will not draw directly on inboxes, but those inferences may shape which ads appear.",
+      "og_image": null,
       "history_match": {
-        "score": 0.21,
-        "date": "2026-10-08",
-        "url": "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/",
-        "title": "Ads Uploader: 17.5% of 36,289 Meta ad batches came from AI agents",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Google Ads PM says target or budget changes cause no learning period",
-      "url": "https://ppc.land/google-ads-pm-says-target-or-budget-changes-cause-no-learning-period/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-10-16T20:23:14+00:00",
-      "excerpt": "Google Ads PM Tal Akabas said Smart Bidding now scales bids proportionally to new targets on steady campaigns without re-entering learning; a re-engagement mode reaches PMax first, with Search and Shopping next.",
-      "og_image": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg"
-    },
-    {
-      "title": "Meta's Muse gains a 33% share of AI browser traffic in 9 days, DataDome finds",
-      "url": "https://ppc.land/metas-muse-gains-a-33-share-of-ai-browser-traffic-in-9-days-datadome-finds/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-10-15T17:56:55+00:00",
-      "excerpt": "DataDome counted 29.1M Muse agent requests in 12 days, 99.3% from Cloudflare and Fastly rather than home ISPs, testing merchants' bot rules. Follow-up to the HUMAN '72% of agent traffic' story already covered; new vendor data only.",
-      "og_image": "https://ppc.land/content/images/2026/10/meta-muse-datadome-ai-browser-traffic-cloud-staircase-doorman.jpg",
-      "history_match": {
-        "score": 0.29,
-        "date": "2026-10-11",
-        "url": "https://ppc.land/metas-muse-accounts-for-72-of-ai-agent-requests-human-finds/",
-        "title": "Meta's Muse accounts for 72% of AI agent requests, HUMAN finds",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "source": "TechCrunch",
-      "category": "marketing",
-      "published_iso": "2026-10-17T21:31:32+00:00",
-      "excerpt": "Meta struck the Commercial Terms language that suggested it could crawl websites 'associated with' business/advertiser accounts to train AI, after backlash; a spokesperson said crawling practice hasn't changed. New decision following the 10-17 Meta crawl-terms card.",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-      "history_match": {
-        "score": 0.273,
+        "score": 0.49,
         "date": "2026-10-17",
-        "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
-        "title": "Meta's New Terms Expand Crawling Rights Beyond Advertisers",
-        "band": "related"
+        "url": "https://searchengineland.com/google-begins-testing-ads-in-ai-mode-for-users-with-personal-intelligence-enabled-496990",
+        "title": "Google begins testing ads in AI Mode for users with Personal Intelligence enabled",
+        "band": "likely-repeat"
       }
     },
     {
-      "title": "Inside Wirecutter's push to diversify beyond affiliate revenue as AI reshapes discovery",
-      "url": "https://digiday.com/media/inside-wirecutters-push-to-diversify-beyond-affiliate-revenue-as-ai-reshapes-discovery/",
-      "source": "Digiday",
+      "title": "Here's How ChatGPT Is Targeting You With Ads",
+      "url": "https://gizmodo.com/heres-how-chatgpt-is-targeting-you-with-ads-2000826457",
+      "source": "Gizmodo",
       "category": "marketing",
-      "published_iso": "2026-10-15T04:01:00+00:00",
-      "excerpt": "As AI answers erode search-driven product discovery, NYT's Wirecutter is expanding beyond affiliate commerce into new categories, franchises and advertising opportunities.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/04/checkout-funnel-digiday.jpg"
+      "published_iso": "2026-10-16T14:45:26+00:00",
+      "excerpt": "Following 404 Media's tests, Gizmodo explains how advertisers can target ChatGPT ads by prompt context plus email address, phone number or device identifier.",
+      "og_image": "https://gizmodo.com/app/uploads/2026/06/GettyImages-2264640543-1200x675.jpg",
+      "history_match": {
+        "score": 0.467,
+        "date": "2026-10-17",
+        "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
+        "title": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "National Trust pulls TikTok ads after platform’s AI publishes unauthorised videos — Tomorrow's Publisher",
+      "url": "https://tomorrowspublisher.today/news/national-trust-pulls-tiktok-ads-after-platform-s-ai-publishes-unauthorised-video-68149cb63312/index.html",
+      "source": "Tomorrow's Publisher",
+      "category": "marketing",
+      "published_iso": "2026-10-18T01:00:51+00:00",
+      "excerpt": "The charity has suspended its TikTok advertising while it investigates how AI-generated promotional material went live without approval.",
+      "og_image": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+      "cluster": "c6"
+    },
+    {
+      "title": "National Trust shuts off all campaigns amid TikTok AI advertising mistake",
+      "url": "https://www.thecooldown.com/green-tech/national-trust-tiktok-ai-ads-error/",
+      "source": "The Cool Down",
+      "category": "marketing",
+      "published_iso": "2026-10-17T17:34:00+00:00",
+      "excerpt": "A run of AI-generated TikTok ads promoting National Trust membership has led the charity to suspend its advertising on the platform.",
+      "og_image": "https://www.thecooldown.com/wp-content/uploads/2026/10/National-Trust-sign.jpg",
+      "cluster": "c6"
     },
     {
       "title": "Websites are closing their doors to AI agents",
@@ -85,108 +105,98 @@
       "source": "The Verge",
       "category": "marketing",
       "published_iso": "2026-10-17T13:00:00+00:00",
-      "excerpt": "Sites and retailers increasingly block AI agents with bot walls and terms, undermining the agentic-shopping narrative. Overlaps the earlier 'commerce platforms block AI agents' card; check cross-section (gadgets/politics).",
+      "excerpt": "Online roadblocks are undermining the narrative behind AI agents.",
       "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK414_AI_CVIRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
-      "title": "What marketers need to know from Advertising Week New York 2026",
-      "url": "https://www.marketingdive.com/news/what-marketers-need-to-know-from-advertising-week-new-york-2026/833139/",
-      "source": "Marketing Dive",
+      "title": "Ecommerce confronts AI shopping agents ahead of holiday season",
+      "url": "https://www.semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season",
+      "source": "Semafor",
       "category": "marketing",
-      "published_iso": "2026-10-16T08:00:00-04:00",
-      "excerpt": "Takeaways from AWNY with Smirnoff, Liquid Death and Chili's: the evolving role of AI in advertising, reaching Gen Z/Gen Alpha and creator-marketing cost efficiency. Conference roundup; AI is one of several themes.",
+      "published_iso": "2026-10-16T17:02:02Z",
+      "excerpt": "Cheq, a cybersecurity company that verifies AI shopping agents, says it recorded a 100x surge in agentic traffic.",
+      "og_image": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?rect=0,284,4000,2100&w=1200&h=630&q=75&auto=format"
+    },
+    {
+      "title": "American Express launches framework to verify AI shopping agent purchases",
+      "url": "https://www.digitalcommerce360.com/2026/10/16/american-express-ai-framework/",
+      "source": "Digital Commerce 360",
+      "category": "marketing",
+      "published_iso": "2026-10-16T22:13:58+00:00",
+      "excerpt": "American Express aims to reduce payment disputes by documenting what shoppers authorize before AI agents make purchases, including when an agent makes an ordering mistake.",
+      "og_image": "https://www.digitalcommerce360.com/wp-content/uploads/2026/10/american-express-agentic-scaled.jpeg",
+      "history_match": {
+        "score": 0.444,
+        "date": "2026-10-14",
+        "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+        "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "TikTok Shop Rolls Out Automated Ad Tool And Subscription Feature For UK Sellers",
+      "url": "https://www.netinfluencer.com/tiktok-shop-rolls-out-automated-ad-tool-and-subscription-feature-for-uk-sellers/",
+      "source": "Net Influencer",
+      "category": "marketing",
+      "published_iso": "2026-10-16T10:09:39-04:00",
+      "excerpt": "TikTok Shop added a slate of new seller tools in the UK this month, including an automated advertising program that reinvests sales into ad spend without manual top-ups and a subscription feature that lets buyers set up recurring purchases, according to the platform’s latest Product Pulse update. Th",
+      "og_image": "https://www.netinfluencer.com/wp-content/uploads/2026/10/tiktok-shop-rolls-out-automated-ad-tool-and-subscription-feature-for-uk-sellers-20261016_140917-901066-1000x600.png"
+    },
+    {
+      "title": "Over 40% of Americans have felt duped by AI ads before, new survey suggests",
+      "url": "https://nypost.com/2026/10/16/lifestyle/over-40-of-americans-have-felt-duped-by-ai-ads-before-new-survey-suggests/",
+      "source": "New York Post",
+      "category": "marketing",
+      "published_iso": "2026-10-16T17:38:42+00:00",
+      "excerpt": "More than half said they do not trust products advertised with AI to match their descriptions.",
+      "og_image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/145306102.jpg?quality=75&strip=all&w=1200"
+    },
+    {
+      "title": "Meta Adds 15 Always-On Topics to Reels Trending Ads",
+      "url": "https://www.thekeyword.co/news/meta-reels-trending-ads-topics",
+      "source": "The Keyword",
+      "category": "marketing",
+      "published_iso": "2026-10-16T12:00:00Z",
+      "excerpt": "Meta now offers 15 always-on standard topics in Reels Trending Ads, the format that uses AI to place an ad immediately after top-trending creator Reels.",
       "og_image": null
     },
     {
-      "title": "More Than Three Quarters of Small Business Owners Say AI Makes Them More Productive, But Most Need More Guidance",
-      "url": "https://about.fb.com/news/2026/10/more-than-three-quarters-of-small-business-owners-say-ai-makes-them-more-productive-but-most-need-more-guidance/",
-      "source": "Meta Newsroom",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
       "category": "marketing",
-      "published_iso": "2026-10-15T00:50:50+00:00",
-      "excerpt": "Meta research across nine APAC markets on how small businesses use AI to grow, compete and reach customers across borders; most say they need more guidance. Vendor survey.",
-      "og_image": "https://about.fb.com/wp-content/uploads/2025/05/Economic-and-Workforce-Impacts-of-OS-AI-Linux-Foundation-paper_Thumbnail-1-1.jpg?w=1200",
-      "history_match": {
-        "score": 0.177,
-        "date": "2026-10-12",
-        "url": "https://ppc.land/metas-muse-agent-gains-access-to-ad-accounts-and-15-business-tools/",
-        "title": "Meta's Muse agent gains access to ad accounts and 15 business tools",
-        "band": "related"
-      }
-    },
-    {
-      "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem",
-      "url": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
-      "source": "Search Engine Journal",
-      "category": "marketing",
-      "published_iso": "2026-10-15T21:48:30+00:00",
-      "excerpt": "ChatGPT-attributed referral traffic fell sharply in several analytics datasets this month; analysts tie it to ChatGPT links opening without tracking tags, an attribution issue for marketers measuring AI-driven visits. Not paid placement; borderline scope.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg"
-    },
-    {
-      "title": "49% of marketers plan to deprioritize SEO, Typeface survey finds",
-      "url": "https://ppc.land/49-of-marketers-plan-to-deprioritize-seo-typeface-survey-finds/",
-      "source": "PPC Land",
-      "published_iso": "2026-10-15T22:17:25+02:00",
-      "excerpt": "Typeface survey of 500+ US/UK marketing leaders: 49% plan to deprioritize SEO, 62% say brands trade content quality for AI citations, and many run AEO tactics they consider overhyped. Budget shift toward AI-answer visibility; vendor-run survey.",
-      "og_image": "https://ppc.land/content/images/2026/10/typeface-survey-49-percent-marketers-deprioritize-seo-ad-men-magnifying-glass.jpg",
-      "category": "marketing",
-      "recovery": true
-    },
-    {
-      "title": "Brands turn to content series and Jimi Hendrix to improve AI search performance",
-      "url": "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/",
-      "source": "Digiday",
-      "published_iso": "2026-10-15T04:01:00+00:00",
-      "excerpt": "Fender and Marshall are funding branded content series and site overhauls partly to give the models behind ChatGPT and other chatbots more to work with, as brands shift spend toward AI-search visibility.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
-      "category": "marketing",
-      "recovery": true
-    },
-    {
-      "title": "Tottenham Hotspur Launches Ask Spurs on Agentforce",
-      "url": "https://www.salesforce.com/news/press-releases/2026/10/15/tottenham-hotspur-becomes-agentic-enterprise-with-agentforce/",
-      "source": "Salesforce",
-      "published_iso": "2026-10-15T07:00:00+00:00",
-      "excerpt": "Tottenham unified 4.6M fan accounts across 10+ systems on Salesforce and launched Ask Spurs, an Agentforce AI agent with an 86% engagement rate, spanning ticketing, stadium events and commercial operations. CRM/sales AI. Primary source, but a vendor press release.",
-      "og_image": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/10/789_0826_T05_Tottenham-Hotspur-and-Salesforce-Deepen-Partnership_b_v1_081826.png",
-      "category": "marketing",
-      "recovery": true,
-      "history_match": {
-        "score": 0.154,
-        "date": "2026-10-14",
-        "url": "https://ppc.land/salesforce-trains-its-koa-model-on-27-years-of-crm-workflow-simulations/",
-        "title": "Salesforce trains its Koa model on 27 years of CRM workflow simulations",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Google Ads lets PMax advertisers set Search partner spend to 0%, Marvin says",
-      "url": "https://ppc.land/google-ads-lets-pmax-advertisers-set-search-partner-spend-to-0-marvin-says/",
-      "source": "PPC Land",
-      "published_iso": "2026-10-17T21:12:40+02:00",
-      "excerpt": "Google Ads Liaison Ginny Marvin says Performance Max channel caps now allow 0% Search-partner spend via the API, while the help page still says coming soon. Gives advertisers more control over Google's AI-run campaign type. Note: the AI angle is indirect.",
-      "og_image": "https://ppc.land/content/images/2026/10/google-ads-pmax-search-partners-zero-percent-capped-whiskey-tumbler.jpg",
-      "category": "marketing",
-      "recovery": true,
-      "history_match": {
-        "score": 0.192,
-        "date": "2026-10-10",
-        "url": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
-        "title": "Google Ads Text Customization Asset Previews",
-        "band": "related"
-      }
+      "published_iso": "2026-10-16T19:00:00Z",
+      "excerpt": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees.",
+      "og_image": null
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 10,
+    "dropped": 0,
+    "kept": 16,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [],
-    "review": 6,
-    "same_story_pairs": []
+    "dropped": [
+      {
+        "url": "https://almcorp.com/news/google-ads-search-terms-ad-combinations-report-ai-max/",
+        "title": "Google Ads Adds Search Terms and Ad Combinations Report for AI Max",
+        "match": {
+          "score": 0.629,
+          "date": "2026-10-16",
+          "url": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
+          "title": "Google Ads Search Terms and Ad Combinations Report (AI Max)"
+        }
+      }
+    ],
+    "review": 4,
+    "same_story_pairs": [
+      [
+        "https://tomorrowspublisher.today/news/national-trust-pulls-tiktok-ads-after-platform-s-ai-publishes-unauthorised-video-68149cb63312/index.html",
+        "https://www.thecooldown.com/green-tech/national-trust-tiktok-ai-ads-error/",
+        0.384
+      ]
+    ]
   },
   "history_digest": [
     {
@@ -458,6 +468,31 @@
       "date": "2026-10-17",
       "title": "Meta's New Terms Expand Crawling Rights Beyond Advertisers",
       "url": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Brands turn to content series and Jimi Hendrix to improve AI search performance",
+      "url": "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Google Ads PM says target or budget changes cause no learning period",
+      "url": "https://ppc.land/google-ads-pm-says-target-or-budget-changes-cause-no-learning-period/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "VideoAmp Bets On AI To Connect Ad Planning And Measurement",
+      "url": "https://www.adexchanger.com/ai/videoamp-bets-on-ai-to-connect-ad-planning-and-measurement/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem",
+      "url": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/"
     }
   ]
 }

@@ -1,21 +1,29 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
+  "section": "medicine",
   "media": [
     {
-      "id": "medicine-ai-fcp",
+      "id": "medicine-ai-auscultation-lvd",
+      "type": "image",
+      "src": "pipeline/media/medicine-ai-auscultation-lvd.jpg"
+    },
+    {
+      "id": "medicine-simbiosys-tumorsight-risk",
       "type": "svg"
     },
     {
-      "id": "medicine-osteoporosis-cxr",
+      "id": "medicine-bitmate-ai-emr",
+      "type": "image",
+      "src": "pipeline/media/medicine-bitmate-ai-emr.png"
+    },
+    {
+      "id": "medicine-bmj-llm-trial-reporting",
       "type": "svg"
     },
     {
-      "id": "medicine-agent-scope",
-      "type": "svg"
-    },
-    {
-      "id": "medicine-ai-wait-human",
-      "type": "svg"
+      "id": "medicine-llm-depression-diaries",
+      "type": "image",
+      "src": "pipeline/media/medicine-llm-depression-diaries.png"
     }
   ]
 }

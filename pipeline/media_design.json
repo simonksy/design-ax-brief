@@ -1,30 +1,31 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
+  "section": "design",
   "media": [
     {
-      "id": "design-figma-systems",
+      "id": "design-kling4",
       "type": "image",
-      "src": "pipeline/media/design-figma-systems.jpg"
+      "src": "pipeline/media/design-kling4.jpg"
     },
     {
-      "id": "design-figma-payload",
+      "id": "design-meshy-edit",
       "type": "image",
-      "src": "pipeline/media/design-figma-payload.jpg"
+      "src": "pipeline/media/design-meshy-edit.jpg"
     },
     {
-      "id": "design-adobe-nvidia",
+      "id": "design-brand-foundation",
       "type": "image",
-      "src": "pipeline/media/design-adobe-nvidia.jpg"
+      "src": "pipeline/media/design-brand-foundation.jpg"
     },
     {
-      "id": "design-uxc-org-chart",
+      "id": "design-a11y-gates",
       "type": "image",
-      "src": "pipeline/media/design-uxc-org-chart.jpg"
+      "src": "pipeline/media/design-a11y-gates.png"
     },
     {
-      "id": "design-smashing-ai-adoption",
+      "id": "design-material-you-ship",
       "type": "image",
-      "src": "pipeline/media/design-smashing-ai-adoption.jpg"
+      "src": "pipeline/media/design-material-you-ship.png"
     }
   ]
 }

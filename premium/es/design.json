@@ -8358,6 +8358,169 @@
           "cap": "Usa Extract designs para convertir pantallas de una code layer en marcos editables de Figma."
         }
       ]
+    },
+    "design/design-meshy-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meshy, empresa de modelos multimodales de AI 3D, lanzó Meshy Edit, una herramienta que modifica una parte seleccionada de un modelo 3D a partir de una descripción en texto sin tocar el resto de la geometría. Está disponible para todos los usuarios registrados y funciona con un nuevo modelo desarrollado internamente; cada edición tarda alrededor de un minuto y cuesta 20 créditos."
+        },
+        {
+          "t": "p",
+          "x": "Antes, los usuarios tenían que regenerar todo el modelo o editar la malla a mano en programas como Blender, donde un solo cambio podía llevar horas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Cada cambio tiene dos pasos: seleccionar y luego describir. Lasso rodea una parte en pantalla y abarca el frente, los lados y la parte trasera; Brush afina el borde. Se pueden añadir hasta cinco imágenes de referencia de hasta 20 MB cada una. Cada edición produce un nuevo modelo y conserva el original; por ahora la herramienta solo modifica la geometría."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El nuevo modelo puede editarse otra vez, descargarse o enviarse a un laminador como Bambu Studio. Meshy Edit funciona con modelos de alta poligonización de Meshy 6 y Meshy 7.1, incluido Meshy 7.1 Ultra 2K."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meshy recaudó hace poco casi $400 millones en una ronda Series B con una valoración de $1.5 mil millones."
+        }
+      ]
+    },
+    "design/design-brand-foundation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+        },
+        {
+          "t": "p",
+          "x": "Así se usan Claude y unas cuantas salvaguardas para construir un sistema de diseño que los desarrolladores respeten y que los clientes realmente puedan lanzar."
+        },
+        {
+          "t": "p",
+          "x": "Son las 5pm de un jueves. La llamada con el cliente es por la mañana. Has pasado la tarde en Claude, avanzando a base de prompts en un panel que a las 2pm se veía extraordinario y ahora parece la casa de un desconocido. Así que abres Figma, reconstruyes la pantalla a mano y te dices que solo estabas “ajustando detalles”. La AI fue un cuaderno de bocetos."
+        },
+        {
+          "t": "p",
+          "x": "El autor sostiene que no es un fallo de habilidad, sino de andamiaje. El llamado Vibe coding resulta liberador en la fase exploratoria, y una investigación sobre ideación AI-supported (asistida por AI) concluye que la AIGC reduce la exigencia mental percibida durante el pensamiento divergente; pero esa misma investigación distingue entre ideación y desarrollo."
+        }
+      ]
+    },
+    "design/design-a11y-gates": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+        },
+        {
+          "t": "p",
+          "x": "Si le pides a Claude o a GPT que construya un diálogo modal con \"accesibilidad adecuada\", obtendrás atributos role=\"dialog\" y aria-labelledby, y luego descubrirás que los usuarios de VoiceOver quedan atrapados dentro del modal porque la gestión del foco falla. La generación de código optimiza la corrección sintáctica, no el comportamiento en tiempo de ejecución."
+        },
+        {
+          "t": "p",
+          "x": "plugin87/ux-ui-agent-skills reúne 52 patrones de componentes de nivel de producción (modales, menús desplegables, pestañas, carruseles) con 50 puertas de verificación objetivas que hacen fallar la compilación si el resultado incumple los requisitos de WCAG 2.2 AA/AAA. Los tokens siguen la especificación W3C DTCG, las primitivas son independientes del framework y las pruebas ejecutables (axe-core + Playwright) verifican las trampas de foco y la navegación por teclado."
+        },
+        {
+          "t": "p",
+          "x": "Una prueba generada detectó una regresión en la que un desarrollador junior eliminó onCloseAutoFocus durante una refactorización, lo que rompió la navegación por teclado para el 8% de los usuarios. El rendimiento en Lighthouse pasó de 78 a 94 tras migrar 23 componentes de tarjeta a un patrón container-query."
+        },
+        {
+          "t": "p",
+          "x": "Limitaciones: no hay pruebas de regresión visual y la configuración de DTCG puede llevar 2-3 horas. Durante tres semanas en un proyecto para un cliente, las puertas de compilación detectaron 14 regresiones de accesibilidad que el QA manual pasó por alto."
+        }
+      ]
+    },
+    "design/design-material-you-ship": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+          "cap": "La misma tarjeta en el archivo de diseño y en el navegador con datos reales."
+        },
+        {
+          "t": "p",
+          "x": "Los diseñadores deberían entender el código como un arquitecto entiende la piedra: qué puede hacer, no cómo cortarla. Ahora el corte lo hace la AI."
+        },
+        {
+          "t": "p",
+          "x": "Un archivo de diseño es un dibujo. Muestra un estado, en un ancho, en un idioma, con los datos que el diseñador escribió. El producto es todos los demás estados: el nombre largo, la foto que no carga, la lista vacía, la solicitud de cuatro segundos, el usuario de teclado, el teléfono de 320 píxeles."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+          "cap": "Seis estados que el archivo de diseño nunca mostró."
+        },
+        {
+          "t": "p",
+          "x": "Construir 131 variaciones de un botón en código convirtió un adjetivo (táctil) en números que un ingeniero puede construir. En el equipo de producto del autor, lo que se revisa es el prototipo en código; el archivo de diseño se regenera a partir del código después de cada pasada, como un espejo."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+          "cap": "Antes y después: qué artefacto es la fuente de verdad."
+        },
+        {
+          "t": "p",
+          "x": "“Los diseñadores deberían programar” es una idea superada, porque la AI escribe el código. Las herramientas de revisión con AI también lo leen —en una prueba comparativa, la mejor detectó 84 de 122 errores reales—, mientras que el ingeniero responsable del sistema sigue rindiendo cuentas. Lo que el diseñador no puede delegar es la comprensión: juzgar el resultado ejecutándolo a 320 píxeles, con el nombre real más largo, una red lenta y un teclado."
+        }
+      ]
+    },
+    "design/design-figma-systems": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Dylan Field, CEO de Figma, afirma que la IA ha abaratado la programación, de modo que los equipos ahora 'construyen para pensar' además de 'construir para lanzar', y Figma quiere reunir ambas cosas en su lienzo creativo full-stack."
+        },
+        {
+          "t": "p",
+          "x": "Code layers pasa a beta abierta en todos los planes y permite explorar en el lienzo prototipos respaldados por código: convertidos desde diseños, subidos, incorporados vía MCP, importados desde GitHub o capturados con la extensión de Chrome."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Vista previa de Pickup App en el lienzo de Figma junto a su código fuente App.tsx."
+        },
+        {
+          "t": "p",
+          "x": "Los sistemas de diseño ya pueden incluir pautas en las bibliotecas publicadas para que los agentes sigan los patrones establecidos, además de fuentes de código importadas desde un repositorio de GitHub o un paquete de npm. Figma también presenta en vista previa un mapa del sistema para seguir cambios y dependencias, y una revisión del sistema que detecta carencias como descripciones o estados interactivos que faltan. Las pautas (beta abierta) y las fuentes de código (beta cerrada) llegan a todos los planes de pago."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "El panel de sistemas de diseño mapea bibliotecas y código y señala problemas de componentes y tokens."
+        },
+        {
+          "t": "p",
+          "x": "Specs, un espacio nativo para contexto en Markdown, permite convertir ideas iniciales en especificaciones detalladas y entregarlas a agentes de programación mediante el servidor MCP de Figma; se abre en beta en todos los planes de pago."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Una instrucción para redactar una especificación técnica con GitHub, junto a la especificación resultante."
+        },
+        {
+          "t": "p",
+          "x": "Payload, cuyas descargas se multiplicaron por 6 en 12 meses, ya está en Figma; el agente de Figma está disponible de forma general, y el MCP suma 20 nuevas integraciones de socios, entre ellas OpenCode, Dia, Junie de JetBrains y Meta Muse."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
+          "cap": "Una lista de eventos de Payload CMS junto a la página web de eventos que impulsa."
+        }
+      ]
     }
   }
 }

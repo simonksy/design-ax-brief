@@ -1,92 +1,48 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram",
-      "title": "Jailbroken PS5s can now run local AI models at over 100+ tokens per second — fork of PS5LM goes native, hijacks the CPU, and accesses the GPU and more RAM",
-      "source": "Tom's Hardware",
+      "url": "https://gizmodo.com/alibaba-qwen-glasses-n1-2000825793",
+      "title": "China’s Smart Glasses Are Once Again Making Meta Look Silly",
+      "source": "Gizmodo",
       "category": "gadgets",
-      "published_iso": "2026-10-16T10:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
-      "excerpt": "You can even chat with the LLM remotely from other devices.",
+      "published_iso": "2026-10-14T14:50:16+00:00",
+      "og_image": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1--1200x675.jpg",
+      "excerpt": "Alibaba's Qwen Glasses N1 smart glasses make lofty claims about battery life and have a camera sensor that crushes Meta on paper.",
       "source_lang": "en",
       "tool": "Gadgets",
-      "accent": "#3b6bff",
+      "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "A native fork of PS5LM runs local LLMs on jailbroken PS5s at over 100 tokens per second, using the console's GPU and extra RAM, and it can be chatted with remotely. AI is the whole story here: consumer hardware many people already own is being turned into a local-AI box, a new release in the local-inference trend."
+      "rationale": "Alibaba's Qwen Glasses N1 is a new AI-glasses launch built around its own Qwen model, and on paper its camera and battery beat Meta's. It is a new competitor in the busiest AI-wearable category."
     },
     {
-      "url": "https://www.tomsguide.com/computing/laptops/asus-proart-p16-rtx-spark-review",
-      "title": "I tested the Asus ProArt P16 with Nvidia RTX Spark and it's the ultimate AI creator laptop (with a price to match)",
-      "source": "Tom's Guide",
+      "url": "https://www.notebookcheck.net/With-16-TOPS-NVMe-support-and-SATA-the-new-OrangePi-O1-makes-the-Raspberry-Pi-look-dated.1424829.0.html",
+      "title": "With 16 TOPS, NVMe support, and SATA, the new OrangePi O1 makes the Raspberry Pi look dated",
+      "source": "Notebookcheck",
       "category": "gadgets",
-      "published_iso": "2026-10-16T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Gev6unfN9LGT3CUTwdXFq9-2000-80.jpg",
-      "excerpt": "A new standard of AI creativity on the move",
+      "published_iso": "2026-10-15T07:08:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/orangepio1teaser.jpg",
+      "excerpt": "Boasting 16 TOPS of hardware AI acceleration and extensive connectivity, the OrangePi O1 single-board computer looks set to give the Raspberry Pi serious competition for edge AI workloads.",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "A hands-on test of the first creator-class RTX Spark laptop, the Asus ProArt P16, covering local AI performance and price. It is a buy-or-skip input for designers choosing a local-AI workstation (cleared for gadgets by the orchestrator)."
+      "rationale": "The OrangePi O1 is a new single-board computer with a 16 TOPS NPU and NVMe/SATA storage, aimed at edge-AI work. It is cheap hardware a maker or prototyper can build local-AI projects on now."
     },
     {
-      "url": "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/",
-      "title": "MacPaw launches Eney, a proactive AI assistant for Mac and iPhone",
-      "source": "9to5Mac",
+      "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+      "title": "UCLA researchers built a $400 humanoid robot around cheap phone technology",
+      "source": "TechRadar",
       "category": "gadgets",
-      "published_iso": "2026-10-15T12:00:14+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/eney-macpaw.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "MacPaw is releasing Eney, a proactive AI assistant that works across your apps, files, and system to help you get things done.",
+      "published_iso": "2026-10-18T20:20:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png",
+      "excerpt": "This open-source humanoid robot walks, tracks people, and gets back up using inexpensive hardware and a smartphone instead of dedicated sensors",
       "source_lang": "en",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "MacPaw releases Eney, a proactive assistant that works across Mac and iPhone apps, files and system settings. It is a new tool a Mac-based designer can install tomorrow."
-    },
-    {
-      "url": "https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html",
-      "title": "Anker launches new window-mounted camera with 25-degree tilt and local AI detection",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-15T20:07:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-24.jpg",
-      "excerpt": "Eufy has launched the Window Camera E10, a 64.1g security camera that sticks to the inside of a window to watch driveways and entrances from indoors. It records 2688 x 1520 video at 15fps through an f/1.0 lens and saves footage to microSD cards of up to 256GB. Detection of people, vehicles and pets runs on the device, with no subscription.",
-      "source_lang": "en",
-      "tool": "Gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "rationale": "Eufy's $79.99 Window Camera E10 runs person, vehicle and pet detection on the device and needs no subscription. It is a new product that puts on-device AI into a drill-free, renter-friendly form factor."
-    },
-    {
-      "url": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
-      "title": "HTC Made Smart Glasses That Are Way More Private",
-      "source": "WIRED",
-      "category": "gadgets",
-      "published_iso": "2026-10-17T10:30:00.000Z",
-      "og_image": "https://media.wired.com/photos/6ad2cf84d0032abb88177a54/191:100/w_1280,c_limit/7-full_SM.jpg",
-      "excerpt": "These smart glasses do just about everything Meta glasses can, but they're not tied to a social media platform.",
-      "source_lang": "en",
-      "tool": "Gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "HTC pitches its Vive Eagle AI glasses as the privacy-first alternative to Meta: similar features with no social-platform tie-in. It is a different product and maker from the 9-25 Meta privacy card, and it gives a clear design contrast for wearable AI."
-    }
-  ],
-  "alternates": [
-    {
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
-      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
-      "source": "Tom's Hardware",
-      "category": "gadgets",
-      "published_iso": "2026-10-17T13:21:20Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png",
-      "excerpt": "Is AI coming for blue-collar jobs, too?",
-      "source_lang": "en",
-      "tool": "Gadgets",
-      "accent": "#ff2d55",
-      "motif": "headset",
-      "rationale": "AI is central here (robot-training data collection with wearable sensors), but it is not a consumer gadget release. First alternate now."
+      "rationale": "UCLA's open-source PhoneBot uses a $50 Android phone as the brain and eyes of a $400 humanoid that walks, tracks people and gets back up on its own. It brings embodied AI down to maker budgets."
     },
     {
       "url": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
@@ -98,39 +54,83 @@
       "excerpt": "A reliable source says that Nothing is building out its own AI smart glasses that feature ChatGPT integration, a camera,...",
       "source_lang": "en",
       "tool": "Gadgets",
-      "accent": "#171717",
+      "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "This is a report, not a launch, and HTC already fills the glasses slot. Second alternate."
+      "rationale": "A report says Nothing is building two pairs of glasses: one with ChatGPT integration and a camera, and one with almost no AI. That split is a useful product-design signal about how much AI a wearable should carry. Copy must make clear this is a report, not a launch."
+    },
+    {
+      "url": "https://www.androidauthority.com/the-pixel-11-pros-120x-zoom-3721738/",
+      "title": "The Pixel 11 Pro’s 120x zoom is ridiculous, but is it actually useful?",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-10-18T11:00:46+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg",
+      "excerpt": "The Pixel 11 Pro pushes Pro Res Zoom to 120x, up from 100x on the Pixel 10 Pro, combining a brighter telephoto camera with generative AI to reconstruct detail. Android Authority tests whether it is actually useful.",
+      "source_lang": "en",
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "rationale": "A field test of Pixel 11 Pro's 120x Pro Res Zoom, where generative AI rebuilds detail that the optics never captured. It shows when AI-reconstructed photos can be trusted, which matters to anyone shooting reference images on a phone."
+    }
+  ],
+  "alternates": [
+    {
+      "url": "https://www.etnews.com/20261016000332",
+      "title": "사람과 무술 대결하는 로봇…공중제비에 발차기까지",
+      "source": "전자신문 (etnews)",
+      "category": "gadgets",
+      "published_iso": "2026-10-18T22:30:00+09:00",
+      "og_image": "https://img.etnews.com/news/article/2026/10/16/news-p.v1.20261016.443947f342d341f4a59c1c2a33d53f74_P1.jpg",
+      "excerpt": "중국 로봇 스타트업 애지봇은 자사 휴머노이드 로봇 'A3'가 액션 배우들과 함께 쿵푸 동작을 선보이는 영상을 공개했습니다.",
+      "source_lang": "ko",
+      "tool": "Gadgets",
+      "accent": "#eb367f",
+      "motif": "headset",
+      "rationale": "AgiBot's A3 kung-fu humanoid video. It is new, but it would be a second humanoid card next to the UCLA PhoneBot. First alternate."
+    },
+    {
+      "url": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
+      "title": "Apple's next HomeView could debut as soon as next year with a robotic arm: report",
+      "source": "9to5Mac",
+      "category": "gadgets",
+      "published_iso": "2026-10-18T14:17:21+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Apple just announced its long awaited smart home display: HomeView, and it's available for $299.",
+      "source_lang": "en",
+      "tool": "Gadgets",
+      "accent": "#3b6bff",
+      "motif": "headset",
+      "rationale": "A rumor about a future robotic-arm HomeView. It sits close to the HomeView launch card from 10-14 (nearest: arstechnica HomeView). Second alternate only; it needs a new dedup check if it is swapped in."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.tomshardware.com/video-games/playstation/jailbroken-ps5s-can-now-run-local-ai-models-at-over-100-tokens-per-second-fork-of-ps5lm-goes-native-and-accesses-gpu-and-more-ram": {
+      "https://gizmodo.com/alibaba-qwen-glasses-n1-2000825793": {
+        "verdict": "new",
+        "nearest": "https://www.androidauthority.com/meta-smart-glasses-muse-agent-leak-3714611/",
+        "new_action": ""
+      },
+      "https://www.notebookcheck.net/With-16-TOPS-NVMe-support-and-SATA-the-new-OrangePi-O1-makes-the-Raspberry-Pi-look-dated.1424829.0.html": {
         "verdict": "new",
         "nearest": "https://www.xda-developers.com/a-29mb-ai-model-is-the-most-useful-thing-ive-run-on-my-raspberry-pi-5/",
         "new_action": ""
       },
-      "https://www.tomsguide.com/computing/laptops/asus-proart-p16-rtx-spark-review": {
+      "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers": {
         "verdict": "new",
-        "nearest": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
+        "nearest": "https://www.notebookcheck.net/Humanoid-robot-rental-prices-crater-as-dedicated-exchanges-appear.1421009.0.html",
         "new_action": ""
       },
-      "https://9to5mac.com/2026/10/15/macpaw-launches-eney-a-proactive-ai-assistant-for-mac-and-iphone/": {
+      "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/": {
         "verdict": "new",
-        "nearest": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
+        "nearest": "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/Anker-launches-new-window-mounted-camera-with-25-degree-tilt-and-local-AI-detection.1425241.0.html": {
+      "https://www.androidauthority.com/the-pixel-11-pros-120x-zoom-3721738/": {
         "verdict": "new",
-        "nearest": "https://www.techradar.com/home/home-security/ankers-launches-worlds-first-video-doorbell-with-vr-viewing-fortunately-it-has-other-smart-features-to-justify-its-giant-price-tag-and-is-subscription-free",
-        "new_action": ""
-      },
-      "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/": {
-        "verdict": "new",
-        "nearest": "https://www.wired.com/story/meta-pinky-promises-its-smart-glasses-are-going-to-be-private-soon/",
+        "nearest": "https://www.androidauthority.com/pixel-10-proactive-assistance-beta-3712714/",
         "new_action": ""
       }
     },
-    "note": "SWAP (orchestrator request): removed XREAL 1 Pro+ (Road to VR), because the enrichment fetch showed it is a hardware refresh where AI is incidental (only an 'AI HDR' picture mode). Replaced it with the first alternate, Tom's Hardware's jailbroken-PS5 local-LLM story, where AI is central. Dedup check for the replacement: it has no history_match tag, and there is no PS5/PS5LM story in the 30-day history_digest. The nearest items are other local-AI-on-hobby-hardware pieces: XDA's Raspberry Pi 29MB model (10-12), the Digital Trends $7 board for AI iPhone control (10-16) and The Verge's local-AI diary (10-12). Each is a different device and event, so the verdict is new. Cross-section check: there is no PS5 or local-LLM story in today's selected_games.json, and it does not touch design's Adobe/NVIDIA RTX Spark story or politics' Apple App Store nudify rules. Outlets after the swap: Tom's Hardware, Tom's Guide, 9to5Mac, Notebookcheck, WIRED (5 distinct domains). Earlier drops from this run still stand: 9to5Google Samsung Android XR glasses leak (pre-launch coverage of the glasses CNET reported unveiled on 10-14). Ars Amazon Alexa Tablets (same launch as the 10-09 Engadget card). TechCrunch Apple TV 4K and 9to5Mac 'Siri AI not coming to original HomePod mini' (both from the Oct 13 Apple event, already covered 10-14). 9to5Mac Joswiak interview (commentary that overlaps the 10-17 Tom's Guide Siri-strategy card). Tom's Guide iOS 27 smart home explainer (a rehash). WIRED Surface Laptop Ultra review (a review of the 10-08 Microsoft Nvidia-chip PC launch). Google Home update (a minor fix in the 10-02 Gemini-for-Home thread). Lower priority / not picked: Meta Singapore donation (PR), Panay talk and Oppo CEO interview (commentary), Android Authority Instinct diary (opinion), Engadget Shortcuts and Tom's Guide ChatGPT Sketch how-tos (evergreen), etnews riot-control robot, TheElec Iron Device module."
+    "note": "Five distinct outlets (Gizmodo, Notebookcheck, TechRadar, 9to5Google, Android Authority), no repeated URL, at most one per cluster. DROPPED as already published: Ars 'Ray-Ban Meta bug records audio' (same story as the 10-14 Android Authority 'glasses listening without being asked (Updated)'). Tom's Guide camera-free Ray-Ban Meta hands-on (hands-on of the Ray-Ban Meta Audio launch, published 10-05 via UploadVR). Both Surface Laptop Ultra reviews, cluster c4, Ars and WIRED (reviews of the 10-08 TechCrunch Microsoft Nvidia-chip PC launch, with no new release). Apple TV 4K (9to5Mac) and MacRumors older Apple TV 4K Siri AI, cluster c8, plus 9to5Mac HomePod mini 2: all from the Oct 13 Apple event, which was covered 10-14 by the Ars HomeView card, and yesterday's curator treated those as covered; the older-Apple-TV item also continues the 10-06 tvOS 27.2 code story. Engadget Alexa Tablet 12 Pro review (review of the 10-09 Alexa tablets launch). Tom's Guide iOS 27 smart home explainer (rehash of the 09-27 Verge Apple Intelligence home camera and 09-27 Siri cards). Google Home Gemini-fixes update (minor fix in the 10-02 Gemini-for-Home thread). XDA Gemini desktop app (software, not a device, and it follows the 09-20 XDA Gemini Windows card). NOT PICKED: Narwal vacuum (AI incidental), XREAL 1 Pro Plus (yesterday's enrichment found AI incidental), Rogbid glasses (low-credibility budget launch), Engadget Alexa always-listening explainer (evergreen), Panos Panay talk (commentary), Tom's Hardware AI-lab free repairs (robot-training data business, not a device), etnews humanoid guideline (policy, better suited to politics). Alternates: etnews AgiBot A3 and the 9to5Mac HomeView robotic-arm rumor."
   }
 }

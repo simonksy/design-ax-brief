@@ -7399,6 +7399,138 @@
           "x": "リポジトリにある現行機能は、自動判別付きのグリーンバック用・ブルーバック用専用チェックポイント、ネイティブ2048x2048バックボーンで最大4K までの解像度に依存しない推論、Nuke・Fusion・Resolve向けの16ビット・32ビットのリニアEXR入出力、トラッキングマーカーの自動除去だ。最新ビルドは6–8GBのVRAMと大半のM1+ Macsで動作する。"
         }
       ]
+    },
+    "movies/movies-nvidia-editors-day": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mike McCarthyは、San Franciscoで開かれたNvidiaの「Editor’s Day」に参加した。ノートPCとデスクトップからなるRTX Sparkシリーズの発売に向けた同社のイベントで、AIと、新しいハードウェアがいかにローカルAI処理を可能にするかをめぐるプレゼンテーションが終日続いた。"
+        },
+        {
+          "t": "p",
+          "x": "ユニファイドメモリにより、GPUsは最大でシステムメモリ全体にアクセスでき、選べるAIモデルの幅が広がる。NvidiaはAdobeと協力し、クラウドで処理していたCreative Cloudの一部機能をローカルで使えるようにした。Premiereの画像マスキングと音声補正、Photoshopのオブジェクト削除などが対象で、クラウド処理とローカル処理を選べる新しいUIオプションも加わった。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+        },
+        {
+          "t": "p",
+          "x": "二つ目の売り込みは、MCPを介したエージェント型AIだ。SparkN1xのCPUはARMプロセッサーで、Windows 11 for ARMで動く。McCarthyはローカルのQwen3.8-27B モデルでHermesハーネスを試したが、MCP経由でBlenderに接続できず、ComfyUIのプロンプトの単語を一つ変えるのに40分かかった。「エージェント型AIを使う最初の試みは、好ましい体験ではなかった」"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidiaの試算では、フル稼働のRTX Sparkは月に$1,200相当のAI-token 処理をこなせる。実環境のテストの大半で、McCarthyのSurface Ultraノートは、彼のCore i7 デスクトップワークステーションと互角だった。"
+        }
+      ]
+    },
+    "movies/movies-gibney-musk-avatar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+          "cap": "2026年9月8日、Venice, Italyで開かれた第83回Venice International Film Festival(ベネチア国際映画祭)の『Musk』フォトコールに臨むAlex Gibney"
+        },
+        {
+          "t": "p",
+          "x": "Alex GibneyによるElon Muskの肖像「Musk」で、人工知能は創作上の選択であると同時に、警鐘の物語としても機能している。IndieWireのポッドキャスト「Screen Talk」でGibneyは、Muskとの唯一の接点はXだけで、制作チームが対面インタビューを取り付けることは到底できなかったと語った。"
+        },
+        {
+          "t": "p",
+          "x": "そこで制作陣はAIを使い、あえてuncanny-valley(不気味の谷)を感じさせるMuskのアバターを作り、彼の公の発言をすべてまとめて、シミュレーションの「インタビュー」に仕立てた。「Elonが実際に語ったものの膨大なデータベースを集めた。映画で使っている録音は、まさにその録音だ」とGibneyは言う。この発想は、シミュレーションの中に生きているという考えへのMuskの執着に着想を得たものだ。"
+        },
+        {
+          "t": "p",
+          "x": "スタジオMakeMakeと組み、「セットをデザインした。彼が着る服を決めた。ゲーミングチェアに座らせることにした … それから、いくつかのAIツールを使ってその人物を音声に同期させた。音声は本物だ」"
+        },
+        {
+          "t": "p",
+          "x": "映画はAIに対して警戒的な立場も取る。GibneyはDOGEのスタッフがU.S. 市民のデータを大量に保存したことや、その個人データでAIを訓練することへのGeoffrey Hintonの懸念を指摘する。"
+        }
+      ]
+    },
+    "movies/movies-fall2-flawless-vfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Michael and Peter Spierig兄弟が監督した'Fall 2: Deadpoint'は、サバイバル・スリラーの舞台をひとつのTV塔からタイ(Thailand)の架空の山Mount Kwanへ移した。タイの採石場の岩壁、地上およそ六メートルの高さに板の構造物が組まれ、Koala FXはデジタル・マットペインティングで作ったフルCGのMount Kwan、2.5Dのセット拡張、CG環境を含む400以上のVFXショットを納品した。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "1作目の'Fall'では、Scott MannのFlawlessがAIツールTrueSyncを使い、レーティング審査のためにF-bombsをいくつか差し替える必要があった場面を吹き替え直した。「私たちは彼らのテスト・プラットフォームのような存在になった」とKoala FXのマネージング・ディレクター、Dasha Shermanは語る。「Fall 2では、むしろR&Dのプロセスに近かった」。作業の中心は数百ショットに及ぶワイヤー除去で、Flawlessがツールを磨き上げる一方、Koala FXがフィードバックを返した。"
+        },
+        {
+          "t": "p",
+          "x": "VFXスーパーバイザーのMenelaos Pampoukidisによれば、同社のパイプライン経験によってAIツールを実際の現場状況で徹底的に試すことができた。プレートの光のちらつき、デグレイン、最終仕上げのためのショットごとの部分修正について、実践的な助言も行った。この関係は、Scott Mann監督のもとで現在製作中の'Fall 3'にも引き継がれる予定だ。"
+        }
+      ]
+    },
+    "movies/movies-duvernay-14th-asteria": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+          "cap": "64th New York Film Festivalでの'14th'記者会見に臨むAva DuVernay"
+        },
+        {
+          "t": "p",
+          "x": "Ava DuVernayの'14th'は、'13th'がNew York Film Festivalのオープニングを飾ってから10年後に、同映画祭のクロージングを務める。それでも本人は「続編とは言わない」と語る。出生地主義の市民権をめぐる映画として構想された本作は、現在の出来事を背景に14th Amendment(合衆国憲法修正第14条)全体を見つめる作品へと広がった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+          "cap": "'14th'のAva DuVernayと歴史家Dr. David Blight"
+        },
+        {
+          "t": "p",
+          "x": "DuVernayは、Library of CongressからArkansas Historical Society、家族のアルバムまで、チームがアーカイブで見つけた写真の復元のためにAsteria Film Co.と協力した。一度もデジタル化されていないスライドもあり、「中には本当にひどく劣化したものもあった」と彼女は言う。「映画に使えるほどの高解像度にはなかなかできない」。そこで力を発揮したのが、AsteriaのAI-poweredツールだった。"
+        },
+        {
+          "t": "p",
+          "x": "復元作業は立体視の手法へとつながった。「まず復元し、次にロトスコープを行い、少し動きをつけるためにほんの少しアニメーションを加える。そこのアーティストたちがそのツールを使い、写真に命を吹き込んだ」。Netflixは本作を11月27日に一部劇場で公開し、12月4日にNetflixで配信する。"
+        }
+      ]
+    },
+    "movies/movies-artlist-arc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
+          "cap": "「The Arc」（スクリーンショット／YouTube）"
+        },
+        {
+          "t": "p",
+          "x": "Artlistの5話構成のSFミニシリーズ「The Arc」は、加虐的な未来の監獄プログラムに閉じ込められた父親が、病気の息子のための「治療薬」を得るため、歴史上の激しい戦いを生き延びなければならない物語だ。監督のDarin StewartとプロデューサーのSimone Ferrettiは、生成モデルが映画制作を民主化するとBusiness Insiderに語った。"
+        },
+        {
+          "t": "p",
+          "x": "かつて音楽・効果音ライブラリだったArtlistはAIへ全面的に転換し、動画・画像・テキスト生成の段階別プランに加え、Veo、Seedance、Klingなどのモデルを紹介する小規模なストリーミングプラットフォームも提供している。"
+        },
+        {
+          "t": "p",
+          "x": "IndieWireは、生成モデルだけで作られた作品は「芸術的価値がない」と論じる。根拠として、チームが脚本用にClaudeへ入力した「10分間の口頭ブレインダンプ」、表情に乏しいAI俳優、そしてプロンプトあたり8秒（Veo）または30秒（Seedance）というモデルの上限を挙げる。"
+        },
+        {
+          "t": "p",
+          "x": "チームが得たAIクレジットは38,000ドルで、1話あたり約7,600ドルだ。API-pricingで計算すると83分の動画を生成できる額で、ArtlistのAI Creatorプランは年500ドルだ。全員に1日分の満額の日当が支払われたが、IndieWireは少人数でより速く働くことがエンターテインメントの脱スキル化につながると警告する。"
+        }
+      ]
     }
   }
 }

@@ -8105,6 +8105,127 @@
           "x": "The enzymes have not yet been tested in human clinical trials. The findings are detailed in two papers published in Nature."
         }
       ]
+    },
+    "science/science-riverlane-nvidia-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+        },
+        {
+          "t": "p",
+          "x": "Quantum error correction needs a decoder that works out which errors occurred. It relies on numerical settings, or weights, based on hardware measurements — but qubit frequencies shift, defects come and go, and gate performance changes, so the weights drift out of date and must be recalibrated."
+        },
+        {
+          "t": "p",
+          "x": "Riverlane has developed an AI-based calibration loop that learns improved decoder settings directly from experimental data, without manual tuning. The AI proposes settings, tests them against hardware data on an NVIDIA H100 GPU and favours those that lead to fewer logical errors."
+        },
+        {
+          "t": "p",
+          "x": "Using Riverlane's Local Clustering Decoder adapted for GPUs, a surface-code training cycle that took three minutes on a single CPU core now takes 2.8 seconds. The H100 decodes more than four million syndromes per second, versus around 59,000 on one CPU core."
+        },
+        {
+          "t": "p",
+          "x": "A loop that takes minutes rather than hours can run before every experiment instead of once a day. “Riverlane is using AI to help error correction keep pace with changing quantum hardware,” said NVIDIA's Sam Stanwyck."
+        }
+      ]
+    },
+    "science/science-chatbot-language-personality": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at the University of Science and Technology of China gave five chatbots — ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5 and Le Chat — the Big Five Inventory-2 questionnaire in English and Mandarin, 30 times per language. Le Chat was also tested in French."
+        },
+        {
+          "t": "p",
+          "x": "Within a language, profiles were fairly consistent: the models described themselves as cooperative and dependable, with little negative emotionality. Switching languages shifted the scores, in directions that varied by model. ChatGPT-4o's open-mindedness averaged 4.74 in English and 4.03 in Mandarin; DeepSeek-V3 scored 4.38 and 4.81."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+          "cap": "Mean scores for five traits comparing human vs chatbot responses in different languages."
+        },
+        {
+          "t": "p",
+          "x": "Developer country explained only part of it, and no model fully matched its human reference group. The scores describe questionnaire answers, not feelings — so using chatbots as stand-ins for survey participants is risky. The study appears in Royal Society Open Science."
+        }
+      ]
+    },
+    "science/science-satellite-reentry-drag": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+          "cap": "Predicted vs. reported fall times for Cosmos-482, NEOWISE, and a Long March 4B stage."
+        },
+        {
+          "t": "p",
+          "x": "When an uncontrolled satellite or rocket stage reenters determines where it lands: a one-minute timing error can shift the landing point by roughly 460 km."
+        },
+        {
+          "t": "p",
+          "x": "Researchers combine orbital physics — Earth's gravity, its flattening and atmospheric drag — with a neural network that learns each object's ballistic coefficient, a measure of how strongly air slows it, from about 11 years of tracking data and space-weather forecasts. The estimate updates every three hours during descent, and running the network 100 times with random components switched off yields an uncertainty window."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+          "cap": "How the neural network forecasts the ballistic coefficient and produces the uncertainty window."
+        },
+        {
+          "t": "p",
+          "x": "Tested retrospectively on Cosmos-482, NASA's NEOWISE telescope and a Long March 4B upper stage, the reported reentry time fell inside the predicted window each time. Freezing the coefficient shifted predictions for the two nonspherical objects by 31 and 36 minutes, outside their windows. Only three objects were tested; the team plans to try objects still in orbit. The work appears in Acta Astronautica."
+        }
+      ]
+    },
+    "science/science-missing-black-holes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+          "cap": "An illustration of a sun-like star orbiting a black hole."
+        },
+        {
+          "t": "p",
+          "x": "The Milky Way has churned out more than 10 million black holes, yet astronomers have found only 70. A U.K. project called Black Hole Hunters is enlisting volunteers to sift data from NASA's TESS telescope for a telltale sign: a black hole passing in front of its companion star and briefly magnifying its light."
+        },
+        {
+          "t": "p",
+          "x": "Automated algorithms make a preliminary sweep, screening millions of stars for the most obvious candidates. But artificial intelligence struggles with the messy realities of the cosmos — stellar flares and natural pulsations can trick the algorithms into false positives. That makes human volunteers key; each graph goes to multiple people so individual mistakes average out."
+        },
+        {
+          "t": "p",
+          "x": "The shortlist lets astronomers aim scarce telescope time at specific stars. Since launching on Zooniverse in October 2021, the project has drawn nearly 23,000 volunteers and more than 12 million classifications. “With potentially thousands of new discoveries, we need all the help we can get,” said co-lead Adam McMaster."
+        }
+      ]
+    },
+    "science/science-claude-quantum-circuits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "A team from Anthropic and Harvard used Claude to design quantum circuits that require fewer operations and qubits, testing the approach on eight building blocks used in chemistry, optimization, physics simulation and number theory. Seven designs reduced both costly quantum operations and qubits versus the study's baselines; the eighth produced a new approach to arithmetic with better time–memory trade-offs."
+        },
+        {
+          "t": "p",
+          "x": "One redesigned decoding circuit needed about 440,000 Toffoli gates, down from 5.1 million, and cut peak qubits from 1,938 to 1,837. A fixed-point Gaussian circuit cut the gate-qubit product by a factor of 39, and a linear-equations routine by 32."
+        },
+        {
+          "t": "p",
+          "x": "Rather than only suggesting ideas, the model got programming tools and an evaluator that checked circuits and scored Toffoli gates times peak qubits. Anthropic's blog names the model Claude Mythos 5; its elliptic-curve arithmetic work took 53 hours with limited human prompting."
+        },
+        {
+          "t": "p",
+          "x": "The results are resource estimates, not demonstrations on quantum hardware, and sampled tests do not prove every input succeeds. The paper is an arXiv preprint and has not been peer reviewed."
+        }
+      ]
     }
   }
 }

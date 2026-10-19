@@ -1,31 +1,33 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
+  "section": "games",
   "media": [
     {
-      "id": "games-konami",
+      "id": "games-npctalk-gta5",
       "type": "image",
-      "src": "pipeline/media/games-konami.jpg"
+      "src": "pipeline/media/games-npctalk-gta5.jpg"
     },
     {
-      "id": "games-vibe-zombies",
+      "id": "games-roblox-audioscape",
       "type": "image",
-      "src": "pipeline/media/games-vibe-zombies.jpg"
+      "src": "pipeline/media/games-roblox-audioscape.jpg"
     },
     {
-      "id": "games-wow-forever",
-      "type": "image",
-      "src": "pipeline/media/games-wow-forever.jpg"
-    },
-    {
-      "id": "games-game-finder",
-      "type": "image",
-      "src": "pipeline/media/games-game-finder.jpg"
-    },
-    {
-      "id": "games-junes-journey",
+      "id": "games-scam-with-friends",
       "type": "video",
-      "src": "pipeline/media/games-junes-journey.mp4",
-      "poster": "pipeline/media/games-junes-journey.jpg"
+      "src": "pipeline/media/games-scam-with-friends.mp4",
+      "poster": "pipeline/media/games-scam-with-friends.jpg"
+    },
+    {
+      "id": "games-oblivion-claude-fpsfix",
+      "type": "video",
+      "src": "pipeline/media/games-oblivion-claude-fpsfix.mp4",
+      "poster": "pipeline/media/games-oblivion-claude-fpsfix.jpg"
+    },
+    {
+      "id": "games-unity-aijam-busan",
+      "type": "image",
+      "src": "pipeline/media/games-unity-aijam-busan.jpg"
     }
   ]
 }

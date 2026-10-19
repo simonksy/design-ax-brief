@@ -1284,6 +1284,137 @@
           "x": "In the example case, the treating clinician ordered no diagnostic tests (US$0), since routine testing is not indicated for bronchiolitis. With the default prompt, the AI ordered a viral respiratory panel and an echocardiogram (US$454); the cost-aware prompt ordered a viral panel and pertussis PCR (US$292); the parsimonious prompt ordered a pertussis PCR test only (US$35)."
         }
       ]
+    },
+    "medicine/medicine-simbiosys-tumorsight-risk": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SimBioSys announced FDA 510(k) clearance of TumorSight Risk, which it calls the world's first AI-powered, MRI-derived prognostic tool for assessing breast cancer recurrence risk. The software analyzes routinely collected breast MRI, pathology and clinical data to generate an individualized prognosis at five and ten years that, the company says, can be available before surgery."
+        },
+        {
+          "t": "p",
+          "x": "It is intended for adult women with HR-positive, HER2-negative Stage I–IIIA breast cancer. The cloud-based platform produces a score from zero to 100 and a high-, intermediate- or low-risk classification, requiring no additional procedure, tissue shipment or specialized hardware."
+        },
+        {
+          "t": "p",
+          "x": "According to the company, a validation study of 2,129 patients from Mayo Clinic, Emory University, Stanford Medicine and Mercy Medical Cedar Rapids, presented at ASCO 2026, found high-risk patients had a 3.3-fold greater risk of recurrence than low-risk patients, and each 10-point score increase was associated with a 22 percent increase in relative recurrence risk."
+        },
+        {
+          "t": "p",
+          "x": "Estimated five-year recurrence risk ranged from 2.2 percent (scores 0–10) to 13.6 percent (58–100). Mayo Clinic has a financial interest with SimBioSys."
+        }
+      ]
+    },
+    "medicine/medicine-bitmate-ai-emr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "[Uihak Sinmun·Ilgan Bosa, reporter Oh In-gyu] Bit Computer (CEOs Cho Hyun-jung and Jeon Jin-ok), a leading medical informatics company, is taking part in 'KIMES BUSAN 2026', held from the 23rd to the 25th at BEXCO in Busan, where it will present clinic- and hospital-level solutions centered on its AI clinical agent 'BITMate AI'."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414976_03.png",
+          "cap": "BITMate AI, the AI clinical agent built into Bit Computer's cloud EMR BitPlus (Photo: Bit Computer)"
+        },
+        {
+          "t": "p",
+          "x": "BITMate AI is built into every solution on display. Where a conventional EMR was closer to a system for entering records after the visit, BITMate AI aims to be an AI clinical agent that links, in real time from the moment care begins, everything from checking patient information and recognizing the conversation to generating records and the prescribing flow."
+        },
+        {
+          "t": "p",
+          "x": "Its main features are Visit Summary, Voice Charting and My AI Agent. Visit Summary uses AI to automatically summarize recent visit records, while Voice Charting transcribes the doctor–patient conversation in real time and instantly generates a draft record in SOAP format. Speech appears on screen within 0.3 seconds on average and is updated at 0.16-second intervals."
+        },
+        {
+          "t": "p",
+          "x": "My AI Agent lets clinicians choose a record format or write their own prompts so that the AI reflects their own way of documenting. It is the first time in the Korean EMR industry that prompt-setting rights have been opened to customers. It carries an early version of a Korea-specific medical LLM that Bit Computer is developing with AWS, and all AI processing is completed on domestic infrastructure."
+        },
+        {
+          "t": "p",
+          "x": "The hospital-level HIS will also be shown with an automated outpatient claims review feature. The system itself performs the manual work done before insurance claims, completing 80% of all cases automatically without staff review."
+        },
+        {
+          "t": "p",
+          "x": "CEO Jeon Jin-ok said, “Our goal is to create an environment where clinicians can focus on care, looking at the patient instead of the keyboard.”"
+        }
+      ]
+    },
+    "medicine/medicine-bmj-llm-trial-reporting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "A systematic review in The BMJ characterised the reporting completeness of clinical trials of large language model (LLM) interventions in medicine, using established reporting guidelines."
+        },
+        {
+          "t": "p",
+          "x": "Searches of databases and trial registries (1 January 2017 to 6 December 2025) yielded 461 records: 68 trial reports, 15 protocols and 378 registrations. Trial reports were mostly small sample, single site randomised studies published in 2024–25, primarily targeting patient facing education and management recommendations."
+        },
+        {
+          "t": "img",
+          "src": "https://www.bmj.com/content/bmj/395/bmj-2026-100855/F3.large.jpg",
+          "cap": "TRIPOD-LLM item level reporting completeness among all included clinical trials (n=68)."
+        },
+        {
+          "t": "p",
+          "x": "Mean reporting completeness was modest: TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59% and CHART 52% for trial reports; SPIRIT 2025 51% and SPIRIT-AI 57% for protocols; 61% for registrations."
+        },
+        {
+          "t": "p",
+          "x": "Main gaps involved model identity and versioning, data provenance and preprocessing, prompt development, input and output handling, and protocol, data and code availability. Harms planning, monitoring and reporting were often incomplete."
+        },
+        {
+          "t": "p",
+          "x": "Reports were often sufficient to understand the clinical question and headline findings, but frequently insufficient to reconstruct how the LLM intervention was configured, delivered, monitored and analysed."
+        }
+      ]
+    },
+    "medicine/medicine-llm-depression-diaries": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Closely tracking changes in depression is important for clinical research and practice, but intensive longitudinal assessment relies on self-report surveys with major limitations. This npj Digital Medicine study tested the validity of depression rated by large language models (LLMs) from daily video diaries."
+        },
+        {
+          "t": "p",
+          "x": "108 participants (45% in mental health treatment) completed a clinical interview and 14-21 days of depression surveys and video diaries. Daily depression scores were estimated by LLMs from diary transcripts."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03388-6/MediaObjects/41746_2026_3388_Fig1_HTML.png",
+          "cap": "LLM-rated versus self-report depression, within-person (a) and between-person (b)."
+        },
+        {
+          "t": "p",
+          "x": "LLM ratings converged with self-report within-person (r = .45) and when averaged across days (r = .61), and averaged ratings correlated with interview-rated symptom severity (r = .53)."
+        },
+        {
+          "t": "p",
+          "x": "LLM ratings predicted daily functioning and interview-rated depression over and above self-reports, suggesting LLMs capture clinically relevant information that self-reports miss."
+        }
+      ]
+    },
+    "medicine/medicine-ai-fcp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Large language models may support clinicians by facilitating information management, but their usability in real-world oncology practice remains understudied, write researchers at the Netherlands Cancer Institute in npj Digital Medicine."
+        },
+        {
+          "t": "p",
+          "x": "They evaluated the workflow performance of AI-based First Consultation Preparation (AI-FCP), which generates structured summaries from unstructured clinical documentation and was co-created with end users in the Department of Head and Neck Oncology, with partner kaiko.ai."
+        },
+        {
+          "t": "p",
+          "x": "In a prospective single-group pre-post design, nine clinicians completed a person-level baseline, followed by 33 consultations with AI-FCP. Usability was evaluated using validated questionnaires and study-specific instruments."
+        },
+        {
+          "t": "p",
+          "x": "After AI-FCP, overall perceived workload (NASA-TLX) was 28.9% lower than baseline, with self-reported average time savings of 3.26 min per case. Preparation succeeded in 84.9% of consultations, and 63.6% of summaries were complete."
+        },
+        {
+          "t": "p",
+          "x": "The authors call the findings exploratory, note possible survivorship bias, and say further research is needed to determine generalizability."
+        }
+      ]
     }
   }
 }

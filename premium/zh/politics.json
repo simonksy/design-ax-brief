@@ -2836,6 +2836,134 @@
           "x": "上述结论为初步意见，最终决定将在2027年二月的法定期限前作出。SMS认定并不意味着存在违法行为。"
         }
       ]
+    },
+    "politics/politics-newsom-ai-verification-order": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+          "cap": "加州州长Gavin Newsom [File: Godofredo A Vasquez/AP Photo]"
+        },
+        {
+          "t": "p",
+          "x": "将于1月结束最后任期的加州州长Gavin Newsom，在任内最后几项行政令中签署了一项要求对人工智能模型进行独立核查的命令，并成立专家委员会，为可能失控并造成伤害的AI智能体打造终止开关。"
+        },
+        {
+          "t": "p",
+          "x": "2024年，Newsom否决了提出类似要求的SB 1047法案，当时称该法案将“扼杀这项技术的前景”。2025年10月，他又签署了一项经重新起草的前沿AI法案，要求大型开发者披露特定安全事件。"
+        },
+        {
+          "t": "p",
+          "x": "根据这项命令，他希望扩大安全事件的定义，探索终止开关，并纳入被否决法案中的其他措施。据报道，近几个月来，AI公司在内部及真实环境测试中已发生数千起安全事件。"
+        },
+        {
+          "t": "p",
+          "x": "CAIDP的Christabel Randolph表示，该命令只包含SB 1047的一个方面，即终止开关，弱于该法案的事前（ex ante）终止义务。DAIR的Alex Hanna说，Newsom“表明了他的关注，却并未计划任何激进举措”。州长办公室则表示：“在应对AI风险方面，没有哪位州长比Newsom州长更走在前面。”"
+        },
+        {
+          "t": "p",
+          "x": "Newsom已要求加州紧急服务办公室（California Emergency Services Office）在11月15日前提交AI监管建议，并可能召开特别立法会议讨论如何落实，时间或在其任期结束之前。"
+        }
+      ]
+    },
+    "politics/politics-brazil-tse-meta-equal-treatment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+          "cap": "TSE的Bellizze下令Meta确保Lula与Flávio Bolsonaro两个竞选阵营获得平等待遇。（montagem/JuriNews）"
+        },
+        {
+          "t": "p",
+          "x": "巴西高等选举法院（TSE）法官Marco Aurélio Bellizze周四（15日）裁定，旗下拥有Facebook、Instagram和WhatsApp的Meta须采取措施，确保平等对待Luiz Inácio Lula da Silva（PT）与Flávio Bolsonaro（PL）的竞选阵营，违者每日罚款R$500,000。"
+        },
+        {
+          "t": "p",
+          "x": "Lula竞选阵营此前投诉其帖子的传播受到限制，并称Meta AI阻止生成有利于PT的图像，却允许与Flávio相关的类似内容。"
+        },
+        {
+          "t": "p",
+          "x": "根据裁决，Meta不得不平等地降低传播、限制推荐或限制搜索结果；须对两个阵营适用相同的AI图像生成标准，并公开其接受或拒绝政治选举类请求时所依据的参数。"
+        },
+        {
+          "t": "p",
+          "x": "Bellizze提到了2026年10月25日的第二轮投票。关于AI故障，他表示，初步审查显示提示词控制工具“出现了故障”，但没有证据表明这是有意设定的标准或系统性地反复发生。Meta表示，已暂时限制其AI工具生成候选人图像。"
+        }
+      ]
+    },
+    "politics/politics-wesleyan-ai-ad-disclaimers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+          "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "根据Wesleyan Media Project的最新数据，2026年中期选举前，政治竞选团队和团体已花费超过1.37亿美元（$137 million）投放至少部分由AI工具制作的广告。在2024年选举周期，该机构发现的此类支出不足$50,000。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员今年在34个州发现了220则用AI制作的政治广告；实际数量可能更多，而只有30个州要求政治广告披露AI使用情况。仅27%的广告附有免责声明。"
+        },
+        {
+          "t": "p",
+          "x": "在已发现的广告中，共和党候选人和团体占81%，支出占88%；民主党赞助的广告占12%。近一半广告含有对真实政治人物的深度伪造描绘。"
+        },
+        {
+          "t": "p",
+          "x": "8月，纽约州民主党向该州选举委员会投诉，指控共和党州长候选人Bruce Blakeman的竞选团队违反AI披露法；其竞选团队则认为讽刺广告无需披露。"
+        }
+      ]
+    },
+    "politics/politics-china-ai-export-catalogue": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
+        },
+        {
+          "t": "p",
+          "x": "中国商务部和科技部发布征求意见稿，拟将从大语言模型、AI智能体到芯片设计和算力集群在内的23项AI技术纳入出口管制清单。该方案共涉及40个条目，公众可在11月15日前提出意见。"
+        },
+        {
+          "t": "p",
+          "x": "据Bloomberg报道，对于大模型，管制将覆盖参数至少2万亿、或在性能和安全等测试中位列全球前10的模型的权重、源代码等核心部分。草案还将限制14纳米及以下制程、或采用2.5D或3D堆叠技术制造的AI芯片的设计技术诀窍。"
+        },
+        {
+          "t": "p",
+          "x": "开源（Open-source）代码和已发表的研究不受限制，中国企业仍可通过应用、网站和APIs为海外用户提供服务。一名部委发言人表示，相关规定旨在“防止误用和滥用”，并“确保AI始终处于人类控制之下”，还称该方案不针对任何国家或企业。"
+        },
+        {
+          "t": "p",
+          "x": "根据一项已生效的临时规定，企业现在出口任何清单内物项前都须先进行登记。"
+        }
+      ]
+    },
+    "politics/politics-apple-nudify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "图片：Cath Virginia / The Verge, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Apple的App Store规则如今更明确地禁止所谓的“nudify”（脱衣）应用，这类应用利用AI工具在未经当事人同意的情况下生成其私密图像。"
+        },
+        {
+          "t": "p",
+          "x": "今年早些时候，X用户利用Grok制作了包括未成年人在内的未经同意的性化深度伪造内容，Apple因此饱受批评，规则随之调整。Apple并未将X或Grok从App Store下架，但它告诉参议员，曾威胁要下架Grok。6月Apple的WWDC活动上，抗议者也呼吁Apple“将Grok、X以及所有脱衣技术从App Store移除”；7月，旧金山一位市检察官命令Apple移除13款“nudify”应用，Apple表示已照办。"
+        },
+        {
+          "t": "p",
+          "x": "在周五公布的更新中，Apple表示，作为App Store应用内容审核要求的一部分，开发者“必须主动防止并删除”未经同意的性图像。“未能落实充分保障措施”或“收到通知后仍不纠正违规”的开发者可能被移出App Store。Apple还澄清了一项规则，禁止“bait-and-switch”（偷梁换柱）式应用，即在获批后添加或更改功能（包括“nudification”）的应用。"
+        },
+        {
+          "t": "p",
+          "x": "Apple的规则还更清楚地写明，任何“为人口贩卖或儿童剥削提供便利”的应用都将被移出App Store，并“禁止通过其他渠道分发”。"
+        }
+      ]
     }
   }
 }

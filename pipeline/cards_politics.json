@@ -1,199 +1,149 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "politics",
   "cards": [
     {
-      "id": "politics-apple-nudify",
+      "id": "politics-anthropic-draft-bill",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "App Store 새 규정\nAI 누드화 앱 겨냥",
-      "body": "Apple은 개발자에게 비동의 성적 이미지를 선제적으로 막고 지우라고 요구한다.",
-      "mini_headline": "Apple, 누드화 앱 겨냥",
+      "headline": "Anthropic, 연방\nAI 안전법안 초안 회람",
+      "body": "Anthropic 초안은 출시 차단을 제한하고 주 AI 안전법 일부를 대체한다.",
+      "mini_headline": "Anthropic, AI 법안 초안 마련",
       "tool": "Politics",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "source": "POLITICO",
+      "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-            "cap": "이미지: Cath Virginia / The Verge, Getty Images"
+            "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+            "cap": "2026년 9월 16일, 한 기기 화면에 Anthropic의 AI 앱 “Claude” 아이콘이 떠 있다. (Leon Neal/Getty Images)"
           },
           {
             "t": "p",
-            "x": "Apple의 App Store 규정이 이른바 “nudify”(누드화) 앱을 한층 명시적으로 금지한다. AI 도구로 당사자 동의 없이 사람의 은밀한 이미지를 만들어내는 앱이다."
+            "x": "POLITICO는 소식통 세 명을 인용해 Anthropic 측이 프런티어 AI의 안전과 보안을 규율하는 법안 초안을 Capitol Hill 의원들에게 조용히 제안해 왔다고 보도했다."
           },
           {
             "t": "p",
-            "x": "이번 변경은 올해 초 X 사용자들이 Grok으로 미성년자를 포함한 비동의 성적 딥페이크를 만들면서 Apple에 쏟아진 거센 비판에서 나왔다. Apple은 X나 Grok을 App Store에서 내리지 않았지만, 상원의원들에게는 Grok 퇴출을 경고했다고 밝혔다. 6월 Apple의 WWDC 행사장에서는 시위대가 Apple에 “App Store에서 Grok, X, 그리고 모든 누드화 기술을 퇴출하라”고 요구했다. 7월에는 샌프란시스코 시 법무관이 Apple에 “nudify” 앱 13개를 삭제하라고 명령했고 Apple은 그대로 따랐다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "Apple은 금요일 발표한 업데이트에서 App Store 앱의 콘텐츠 관리 요건 가운데 하나로 개발자가 비동의 성적 이미지를 “선제적으로 막고 삭제해야 한다”고 밝혔다. “적절한 안전장치를 갖추지 못하거나” “통보 후에도 위반 사항을 바로잡지 않는” 개발자는 App Store에서 퇴출될 수 있다. Apple은 승인 뒤 “nudification”(누드화) 같은 기능을 덧붙이거나 바꾸는 “bait-and-switch”(미끼 상술) 앱 금지 규정도 분명히 했다."
-          },
-          {
-            "t": "p",
-            "x": "Apple 규정은 “인신매매나 아동 착취를 조장하는” 앱이라면 모두 App Store에서 퇴출되고 “대체 유통 경로에서도 차단된다”는 점도 더 분명히 적었다."
+            "x": "초안에는 정부가 첨단 모델 출시를 막을 수 있는 경우를 제한하고 일부 주의 AI 안전법을 대체하는 내용이 담겼다."
           }
         ]
       },
-      "_lead_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Apple's App Store rules\ntarget AI nudify apps",
-          "body": "Apple's revised App Store rules say developers must proactively prevent and remove nonconsensual sexual images.",
-          "mini_headline": "Apple targets nudify apps",
+          "headline": "Anthropic circulates a draft\nfederal AI safety bill",
+          "body": "Anthropic's draft would limit when the government can block a model release and preempt some state AI safety laws.",
+          "mini_headline": "Anthropic drafts an AI bill",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "Image: Cath Virginia / The Verge, Getty Images"
+                "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+                "cap": "The icon for Anthropic's AI app \"Claude\" is displayed on a device on Sept. 16, 2026. (Leon Neal/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Apple’s App Store rules now more explicitly ban so-called “nudify” apps that generate intimate images of people without their consent using AI tools."
+                "x": "Anthropic representatives have quietly pitched Capitol Hill lawmakers on a draft bill to regulate frontier AI safety and security, POLITICO reported, citing three people."
               },
               {
                 "t": "p",
-                "x": "The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn’t pull X or Grok from the App Store, though it told senators that it threatened to yank Grok. At Apple’s WWDC event in June, protestors also called on Apple to “remove Grok, X, and all nudify technology from the App Store,” and in July, a San Francisco city attorney ordered Apple to remove 13 “nudify” apps, which it said it did."
-              },
-              {
-                "t": "p",
-                "x": "As part of updates announced Friday, Apple says that developers “must proactively prevent and remove” nonconsensual, sexual images as part of its content moderation requirements for App Store apps. Developers who “fail to implement adequate safeguards” or “don’t remedy violations after notice” may be removed from the App Store. Apple also clarified a rule that bars “bait-and-switch” apps, or apps that add or change features, including “nudification,” after they have been approved."
-              },
-              {
-                "t": "p",
-                "x": "Apple’s rules also more clearly spell out that any apps that “facilitate human trafficking or the exploitation of children” will be pulled from the App Store and “blocked from alternative distribution.”"
+                "x": "The draft proposal would limit the circumstances in which the government could block the release of an advanced model and preempt some state AI safety laws."
               }
             ]
           }
         },
         "ko": {
-          "headline": "App Store 새 규정\nAI 누드화 앱 겨냥",
-          "body": "Apple은 개발자에게 비동의 성적 이미지를 선제적으로 막고 지우라고 요구한다.",
-          "mini_headline": "Apple, 누드화 앱 겨냥",
+          "headline": "Anthropic, 연방\nAI 안전법안 초안 회람",
+          "body": "Anthropic 초안은 출시 차단을 제한하고 주 AI 안전법 일부를 대체한다.",
+          "mini_headline": "Anthropic, AI 법안 초안 마련",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "이미지: Cath Virginia / The Verge, Getty Images"
+                "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+                "cap": "2026년 9월 16일, 한 기기 화면에 Anthropic의 AI 앱 “Claude” 아이콘이 떠 있다. (Leon Neal/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Apple의 App Store 규정이 이른바 “nudify”(누드화) 앱을 한층 명시적으로 금지한다. AI 도구로 당사자 동의 없이 사람의 은밀한 이미지를 만들어내는 앱이다."
+                "x": "POLITICO는 소식통 세 명을 인용해 Anthropic 측이 프런티어 AI의 안전과 보안을 규율하는 법안 초안을 Capitol Hill 의원들에게 조용히 제안해 왔다고 보도했다."
               },
               {
                 "t": "p",
-                "x": "이번 변경은 올해 초 X 사용자들이 Grok으로 미성년자를 포함한 비동의 성적 딥페이크를 만들면서 Apple에 쏟아진 거센 비판에서 나왔다. Apple은 X나 Grok을 App Store에서 내리지 않았지만, 상원의원들에게는 Grok 퇴출을 경고했다고 밝혔다. 6월 Apple의 WWDC 행사장에서는 시위대가 Apple에 “App Store에서 Grok, X, 그리고 모든 누드화 기술을 퇴출하라”고 요구했다. 7월에는 샌프란시스코 시 법무관이 Apple에 “nudify” 앱 13개를 삭제하라고 명령했고 Apple은 그대로 따랐다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Apple은 금요일 발표한 업데이트에서 App Store 앱의 콘텐츠 관리 요건 가운데 하나로 개발자가 비동의 성적 이미지를 “선제적으로 막고 삭제해야 한다”고 밝혔다. “적절한 안전장치를 갖추지 못하거나” “통보 후에도 위반 사항을 바로잡지 않는” 개발자는 App Store에서 퇴출될 수 있다. Apple은 승인 뒤 “nudification”(누드화) 같은 기능을 덧붙이거나 바꾸는 “bait-and-switch”(미끼 상술) 앱 금지 규정도 분명히 했다."
-              },
-              {
-                "t": "p",
-                "x": "Apple 규정은 “인신매매나 아동 착취를 조장하는” 앱이라면 모두 App Store에서 퇴출되고 “대체 유통 경로에서도 차단된다”는 점도 더 분명히 적었다."
+                "x": "초안에는 정부가 첨단 모델 출시를 막을 수 있는 경우를 제한하고 일부 주의 AI 안전법을 대체하는 내용이 담겼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "App Store新規約\nAI脱衣アプリを標的に",
-          "body": "Appleは改定規約で、同意のない性的画像を積極的に防ぎ削除するよう開発者に求めた。",
-          "mini_headline": "Apple、脱衣アプリを標的に",
+          "headline": "Anthropic、連邦\nAI安全法案の草案を回覧",
+          "body": "Anthropicの草案はモデル公開の阻止要件を絞り、州のAI安全法の一部に優先する。",
+          "mini_headline": "Anthropic、AI法案を起草",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "画像：Cath Virginia / The Verge, Getty Images"
+                "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+                "cap": "2026年9月16日、端末に表示されたAnthropicのAIアプリ「Claude」のアイコン。(Leon Neal/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "AppleのApp Store規約は、AIツールを使って本人の同意なく人物の性的な画像を生成する、いわゆる「nudify」（脱衣）アプリをより明確に禁止した。"
+                "x": "POLITICOが関係者3人の話として報じたところによると、Anthropicの担当者は、フロンティアAIの安全性とセキュリティを規制する法案の草案をCapitol Hillの議員らにひそかに売り込んできた。"
               },
               {
                 "t": "p",
-                "x": "今回の規約変更は、今年初めにXのユーザーがGrokを使って未成年者を含む同意のない性的ディープフェイクを作成し、Appleに強い批判が向けられたことを受けたものだ。AppleはXやGrokをApp Storeから削除しなかったが、Grokを削除すると警告したと上院議員に説明していた。6月のAppleのWWDCでは、抗議者らがAppleに「App StoreからGrok、X、そしてすべての脱衣技術を削除せよ」と訴え、7月にはサンフランシスコ市の法務官がAppleに「nudify」アプリ13本の削除を命じ、Appleはこれに応じたとしている。"
-              },
-              {
-                "t": "p",
-                "x": "金曜日に発表された更新の一環として、AppleはApp Storeアプリのコンテンツモデレーション要件として、開発者は同意のない性的画像を「積極的に防止し削除しなければならない」としている。「適切な安全策を講じない」開発者や「通知後も違反を是正しない」開発者は、App Storeから削除される可能性がある。Appleはまた、承認後に「nudification」（脱衣化）を含む機能を追加・変更する「bait-and-switch」（おとり）アプリを禁じる規定も明確化した。"
-              },
-              {
-                "t": "p",
-                "x": "Appleの規約はさらに、「人身売買や児童搾取を助長する」アプリはすべてApp Storeから削除され、「代替配信からもブロックされる」ことをより明確に定めている。"
+                "x": "草案は、政府が先進的なモデルの公開を阻止できる状況を限定し、一部の州のAI安全法に優先する内容だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "App Store新规\n瞄准AI脱衣应用",
-          "body": "Apple修订App Store规则，要求开发者主动防止并删除未经同意的性图像。",
-          "mini_headline": "Apple瞄准脱衣应用",
+          "headline": "Anthropic传阅\n联邦AI安全法案草案",
+          "body": "Anthropic草案将限制政府阻止模型发布的情形，并优先于部分州AI安全法。",
+          "mini_headline": "Anthropic起草AI法案",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "图片：Cath Virginia / The Verge, Getty Images"
+                "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+                "cap": "2026年9月16日，一台设备上显示着Anthropic旗下AI应用“Claude”的图标。（Leon Neal/Getty Images）"
               },
               {
                 "t": "p",
-                "x": "Apple的App Store规则如今更明确地禁止所谓的“nudify”（脱衣）应用，这类应用利用AI工具在未经当事人同意的情况下生成其私密图像。"
+                "x": "据POLITICO援引三名知情人士报道，Anthropic代表一直在悄悄向Capitol Hill议员推介一份监管前沿AI安全与安保的法案草案。"
               },
               {
                 "t": "p",
-                "x": "今年早些时候，X用户利用Grok制作了包括未成年人在内的未经同意的性化深度伪造内容，Apple因此饱受批评，规则随之调整。Apple并未将X或Grok从App Store下架，但它告诉参议员，曾威胁要下架Grok。6月Apple的WWDC活动上，抗议者也呼吁Apple“将Grok、X以及所有脱衣技术从App Store移除”；7月，旧金山一位市检察官命令Apple移除13款“nudify”应用，Apple表示已照办。"
-              },
-              {
-                "t": "p",
-                "x": "在周五公布的更新中，Apple表示，作为App Store应用内容审核要求的一部分，开发者“必须主动防止并删除”未经同意的性图像。“未能落实充分保障措施”或“收到通知后仍不纠正违规”的开发者可能被移出App Store。Apple还澄清了一项规则，禁止“bait-and-switch”（偷梁换柱）式应用，即在获批后添加或更改功能（包括“nudification”）的应用。"
-              },
-              {
-                "t": "p",
-                "x": "Apple的规则还更清楚地写明，任何“为人口贩卖或儿童剥削提供便利”的应用都将被移出App Store，并“禁止通过其他渠道分发”。"
+                "x": "该草案将限制政府可阻止先进模型发布的情形，并优先于部分州的AI安全法。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple endurece la App Store\ncontra apps «nudify» con IA",
-          "body": "Apple exige a los desarrolladores de su App Store prevenir y retirar proactivamente imágenes sexuales no consentidas.",
-          "mini_headline": "Apple apunta a las apps «nudify»",
+          "headline": "Anthropic difunde un proyecto\nfederal de seguridad de la AI",
+          "body": "El borrador de Anthropic acotaría cuándo el gobierno frena un modelo y primaría sobre ciertas leyes estatales de AI.",
+          "mini_headline": "Anthropic redacta una ley de AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "Imagen: Cath Virginia / The Verge, Getty Images"
+                "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+                "cap": "El ícono de la app de AI de Anthropic, “Claude”, aparece en un dispositivo el 16 de septiembre de 2026. (Leon Neal/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Las reglas de la App Store de Apple ahora prohíben de forma más explícita las llamadas apps «nudify», que generan imágenes íntimas de personas sin su consentimiento mediante herramientas de IA."
+                "x": "Representantes de Anthropic han presentado discretamente a legisladores de Capitol Hill un borrador de ley para regular la seguridad y la protección de la AI de frontera, informó POLITICO citando a tres personas."
               },
               {
                 "t": "p",
-                "x": "Los cambios llegan tras las fuertes críticas que recibió Apple después de que usuarios de X usaran Grok a principios de este año para crear deepfakes sexualizados no consentidos, incluso de menores. Apple no retiró X ni Grok de la App Store, aunque dijo a senadores que había amenazado con retirar Grok. En el evento WWDC de Apple en junio, manifestantes también pidieron a Apple «retirar Grok, X y toda la tecnología nudify de la App Store», y en julio un fiscal municipal de San Francisco ordenó a Apple retirar 13 apps «nudify», algo que la empresa dijo haber hecho."
-              },
-              {
-                "t": "p",
-                "x": "Como parte de las actualizaciones anunciadas el viernes, Apple afirma que los desarrolladores «deben prevenir y eliminar de forma proactiva» las imágenes sexuales no consentidas, dentro de sus requisitos de moderación de contenido para las apps de la App Store. Los desarrolladores que «no implementen salvaguardas adecuadas» o «no corrijan las infracciones tras ser notificados» podrán ser retirados de la App Store. Apple también aclaró una norma que prohíbe las apps de tipo «bait-and-switch» (gato por liebre), es decir, las que añaden o cambian funciones, incluida la «nudification», después de haber sido aprobadas."
-              },
-              {
-                "t": "p",
-                "x": "Las reglas de Apple también establecen con mayor claridad que cualquier app que «facilite la trata de personas o la explotación infantil» será retirada de la App Store y «bloqueada en la distribución alternativa»."
+                "x": "La propuesta limitaría las circunstancias en que el gobierno podría bloquear el lanzamiento de un modelo avanzado y primaría sobre algunas leyes estatales de seguridad de la AI."
               }
             ]
           }
@@ -201,125 +151,93 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "App Store 새 규정\nAI 누드화 앱 겨냥",
-          "body": "Apple은 개발자에게 비동의 성적 이미지를 선제적으로 막고 삭제하라고 요구한다.",
-          "mini_headline": "Apple, 누드화 앱 겨냥",
+          "headline": "Anthropic, 연방\nAI 안전법안 초안 회람",
+          "body": "Anthropic 초안은 출시 차단을 제한하고 주 AI 안전법 일부를 대체한다.",
+          "mini_headline": "Anthropic, AI 법안 초안 마련",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "이미지: Cath Virginia / The Verge, Getty Images"
+                "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+                "cap": "2026년 9월 16일, 한 기기 화면에 Anthropic의 AI 앱 “Claude” 아이콘이 떠 있다. (Leon Neal/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Apple의 App Store 규정이 AI 도구로 당사자 동의 없이 사람의 은밀한 이미지를 만들어내는 이른바 “nudify”(누드화) 앱을 한층 명시적으로 금지한다."
+                "x": "POLITICO는 세 명의 소식통을 인용해, Anthropic 측이 프런티어 AI의 안전과 보안을 규율하는 법안 초안을 Capitol Hill 의원들에게 조용히 제안해 왔다고 보도했다."
               },
               {
                 "t": "p",
-                "x": "이번 규정 변경은 올해 초 X 사용자들이 Grok으로 미성년자를 포함한 비동의 성적 딥페이크를 만든 뒤 Apple에 쏟아진 거센 비판에 따른 것이다. Apple은 X나 Grok을 App Store에서 내리지 않았지만, 상원의원들에게는 Grok을 퇴출하겠다고 경고했다고 밝혔다. 6월 Apple의 WWDC 행사에서는 시위대가 Apple에 “App Store에서 Grok, X, 그리고 모든 누드화 기술을 퇴출하라”고 요구했고, 7월에는 샌프란시스코 시 법무관이 Apple에 “nudify” 앱 13개를 삭제하라고 명령했으며 Apple은 그렇게 했다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Apple은 금요일 발표한 업데이트에서 App Store 앱의 콘텐츠 관리 요건의 하나로 개발자가 비동의 성적 이미지를 “선제적으로 막고 삭제해야 한다”고 밝혔다. “적절한 안전장치를 갖추지 못하거나” “통보 후에도 위반 사항을 바로잡지 않는” 개발자는 App Store에서 퇴출될 수 있다. Apple은 승인 이후 “nudification”(누드화)을 비롯한 기능을 추가하거나 바꾸는 “bait-and-switch”(미끼 상술) 앱을 금지하는 규정도 명확히 했다."
-              },
-              {
-                "t": "p",
-                "x": "Apple 규정은 또한 “인신매매나 아동 착취를 조장하는” 앱은 모두 App Store에서 퇴출되고 “대체 유통 경로에서도 차단된다”고 더 분명히 명시한다."
+                "x": "초안은 정부가 첨단 모델의 출시를 막을 수 있는 경우를 제한하고, 일부 주의 AI 안전법을 대체하는 내용을 담고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "App Store新規約\nAI脱衣アプリを標的に",
-          "body": "Appleは改定規約で、同意のない性的画像を積極的に防ぎ削除するよう開発者に求めた。",
-          "mini_headline": "Apple、脱衣アプリを標的に",
+          "headline": "Anthropic、連邦\nAI安全法案の草案を回覧",
+          "body": "Anthropicの草案はモデル公開の阻止要件を絞り、州のAI安全法の一部に優先する。",
+          "mini_headline": "Anthropic、AI法案を起草",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "画像：Cath Virginia / The Verge, Getty Images"
+                "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+                "cap": "2026年9月16日、端末に表示されたAnthropicのAIアプリ「Claude」のアイコン。(Leon Neal/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "AppleのApp Store規約は、AIツールを使って本人の同意なく人物の性的な画像を生成する、いわゆる「nudify」（脱衣）アプリをより明確に禁止した。"
+                "x": "POLITICOが関係者3人の話として報じたところによると、Anthropicの担当者は、フロンティアAIの安全性とセキュリティを規制する法案の草案をCapitol Hillの議員らにひそかに売り込んできた。"
               },
               {
                 "t": "p",
-                "x": "今回の規約変更は、今年初めにXのユーザーがGrokを使って未成年者を含む同意のない性的ディープフェイクを作成し、Appleに強い批判が向けられたことを受けたものだ。AppleはXやGrokをApp Storeから削除しなかったが、Grokを削除すると警告したと上院議員に説明していた。6月のAppleのWWDCでは、抗議者らがAppleに「App StoreからGrok、X、そしてすべての脱衣技術を削除せよ」と訴え、7月にはサンフランシスコ市の法務官がAppleに「nudify」アプリ13本の削除を命じ、Appleはこれに応じたとしている。"
-              },
-              {
-                "t": "p",
-                "x": "金曜日に発表された更新の一環として、AppleはApp Storeアプリのコンテンツモデレーション要件として、開発者は同意のない性的画像を「積極的に防止し削除しなければならない」としている。「適切な安全策を講じない」開発者や「通知後も違反を是正しない」開発者は、App Storeから削除される可能性がある。Appleはまた、承認後に「nudification」（脱衣化）を含む機能を追加・変更する「bait-and-switch」（おとり）アプリを禁じる規定も明確化した。"
-              },
-              {
-                "t": "p",
-                "x": "Appleの規約はさらに、「人身売買や児童搾取を助長する」アプリはすべてApp Storeから削除され、「代替配信からもブロックされる」ことをより明確に定めている。"
+                "x": "草案は、政府が先進的なモデルの公開を阻止できる状況を限定し、一部の州のAI安全法に優先する内容だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "App Store新规\n瞄准AI脱衣应用",
-          "body": "Apple修订App Store规则，要求开发者主动防止并删除未经同意的性图像。",
-          "mini_headline": "Apple瞄准脱衣应用",
+          "headline": "Anthropic传阅\n联邦AI安全法案草案",
+          "body": "Anthropic草案将限制政府阻止模型发布的情形，并优先于部分州AI安全法。",
+          "mini_headline": "Anthropic起草AI法案",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "图片：Cath Virginia / The Verge, Getty Images"
+                "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+                "cap": "2026年9月16日，一台设备上显示着Anthropic旗下AI应用“Claude”的图标。（Leon Neal/Getty Images）"
               },
               {
                 "t": "p",
-                "x": "Apple的App Store规则如今更明确地禁止所谓的“nudify”（脱衣）应用，这类应用利用AI工具在未经当事人同意的情况下生成其私密图像。"
+                "x": "据POLITICO援引三名知情人士报道，Anthropic代表一直在悄悄向Capitol Hill议员推介一份监管前沿AI安全与安保的法案草案。"
               },
               {
                 "t": "p",
-                "x": "今年早些时候，X用户利用Grok制作了包括未成年人在内的未经同意的性化深度伪造内容，Apple因此饱受批评，规则随之调整。Apple并未将X或Grok从App Store下架，但它告诉参议员，曾威胁要下架Grok。6月Apple的WWDC活动上，抗议者也呼吁Apple“将Grok、X以及所有脱衣技术从App Store移除”；7月，旧金山一位市检察官命令Apple移除13款“nudify”应用，Apple表示已照办。"
-              },
-              {
-                "t": "p",
-                "x": "在周五公布的更新中，Apple表示，作为App Store应用内容审核要求的一部分，开发者“必须主动防止并删除”未经同意的性图像。“未能落实充分保障措施”或“收到通知后仍不纠正违规”的开发者可能被移出App Store。Apple还澄清了一项规则，禁止“bait-and-switch”（偷梁换柱）式应用，即在获批后添加或更改功能（包括“nudification”）的应用。"
-              },
-              {
-                "t": "p",
-                "x": "Apple的规则还更清楚地写明，任何“为人口贩卖或儿童剥削提供便利”的应用都将被移出App Store，并“禁止通过其他渠道分发”。"
+                "x": "该草案将限制政府可阻止先进模型发布的情形，并优先于部分州的AI安全法。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple endurece la App Store\ncontra apps «nudify» con IA",
-          "body": "Apple exige a los desarrolladores de su App Store prevenir y retirar proactivamente imágenes sexuales no consentidas.",
-          "mini_headline": "Apple apunta a las apps «nudify»",
+          "headline": "Anthropic difunde un proyecto\nfederal de seguridad de la AI",
+          "body": "El borrador de Anthropic acotaría cuándo el gobierno frena un modelo y primaría sobre ciertas leyes estatales de AI.",
+          "mini_headline": "Anthropic redacta una ley de AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-                "cap": "Imagen: Cath Virginia / The Verge, Getty Images"
+                "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+                "cap": "El ícono de la app de AI de Anthropic, “Claude”, aparece en un dispositivo el 16 de septiembre de 2026. (Leon Neal/Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Las reglas de la App Store de Apple ahora prohíben de forma más explícita las llamadas apps «nudify», que generan imágenes íntimas de personas sin su consentimiento mediante herramientas de IA."
+                "x": "Representantes de Anthropic han presentado discretamente a legisladores de Capitol Hill un borrador de ley para regular la seguridad y la protección de la AI de frontera, informó POLITICO citando a tres personas."
               },
               {
                 "t": "p",
-                "x": "Los cambios llegan tras las fuertes críticas que recibió Apple después de que usuarios de X usaran Grok a principios de este año para crear deepfakes sexualizados no consentidos, incluso de menores. Apple no retiró X ni Grok de la App Store, aunque dijo a senadores que había amenazado con retirar Grok. En el evento WWDC de Apple en junio, manifestantes también pidieron a Apple «retirar Grok, X y toda la tecnología nudify de la App Store», y en julio un fiscal municipal de San Francisco ordenó a Apple retirar 13 apps «nudify», algo que la empresa dijo haber hecho."
-              },
-              {
-                "t": "p",
-                "x": "Como parte de las actualizaciones anunciadas el viernes, Apple afirma que los desarrolladores «deben prevenir y eliminar de forma proactiva» las imágenes sexuales no consentidas, dentro de sus requisitos de moderación de contenido para las apps de la App Store. Los desarrolladores que «no implementen salvaguardas adecuadas» o «no corrijan las infracciones tras ser notificados» podrán ser retirados de la App Store. Apple también aclaró una norma que prohíbe las apps de tipo «bait-and-switch» (gato por liebre), es decir, las que añaden o cambian funciones, incluida la «nudification», después de haber sido aprobadas."
-              },
-              {
-                "t": "p",
-                "x": "Las reglas de Apple también establecen con mayor claridad que cualquier app que «facilite la trata de personas o la explotación infantil» será retirada de la App Store y «bloqueada en la distribución alternativa»."
+                "x": "La propuesta limitaría las circunstancias en que el gobierno podría bloquear el lanzamiento de un modelo avanzado y primaría sobre algunas leyes estatales de seguridad de la AI."
               }
             ]
           }
@@ -327,15 +245,377 @@
       }
     },
     {
-      "id": "politics-nk-ai-torpedo",
+      "id": "politics-newsom-ai-verification-order",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "북한, AI-guided\n어뢰 시험 주장",
-      "body": "북한 KCNA가 AI로 표적 탐지·유도를 돕는 Zam-2.0 어뢰의 시험을 알렸다.",
-      "mini_headline": "북한, AI 어뢰 시험 주장",
+      "headline": "Newsom 행정명령,\nAI 모델 독립 검증 요구",
+      "body": "Newsom은 AI 모델 독립 검증과 AI-agent 킬스위치 위원회를 지시했다.",
+      "mini_headline": "Newsom, AI 모델 검증 지시",
       "tool": "Politics",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run",
+      "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+            "cap": "Gavin Newsom 캘리포니아 주지사 [File: Godofredo A Vasquez/AP Photo]"
+          },
+          {
+            "t": "p",
+            "x": "1월에 마지막 임기를 마치는 Gavin Newsom 캘리포니아 주지사는 재임 중 마지막 행정명령 가운데 하나로 인공지능 모델의 독립 검증을 요구했다. 통제를 벗어나 피해를 일으킬 수 있는 AI 에이전트를 멈출 킬스위치를 만들 전문가 위원회도 꾸렸다."
+          },
+          {
+            "t": "p",
+            "x": "Newsom은 2024년 비슷한 요건을 담은 법안 SB 1047에 거부권을 행사하면서 이 법안이 “이 기술의 가능성을 꺾는 일”이 될 것이라고 말했다. 그러다 2025년 10월에는 대형 개발사가 특정 안전 사고를 공개하도록 한 수정 프런티어 AI 법안에 서명했다."
+          },
+          {
+            "t": "p",
+            "x": "Newsom은 이번 명령으로 안전 사고의 정의를 넓히고 킬스위치를 검토하며, 거부했던 법안의 다른 조치도 담으려 한다. 보도에 따르면 AI 기업들은 최근 몇 달 동안 내부 테스트와 실제 환경 테스트에서 안전 사고 수천 건을 겪었다."
+          },
+          {
+            "t": "p",
+            "x": "CAIDP의 Christabel Randolph는 이 명령이 SB 1047의 한 측면인 킬스위치만 담았고, 그마저 해당 법안의 사전(ex ante) 종료 의무보다 약하다고 말했다. DAIR의 Alex Hanna는 Newsom이 “과감한 계획 없이 관심을 기울이고 있음을 보여주고 있다”고 말했다. 주지사실은 “AI의 위험에 대응하는 데 Newsom 주지사보다 앞장선 주지사는 없었다”고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "Newsom은 캘리포니아 비상서비스국(California Emergency Services Office)에 11월 15일까지 AI 규제 권고안을 보내라고 요청했다. 이를 이행할 방법을 논의하려고 특별 입법 회기를 소집할 수도 있는데, 임기가 끝나기 전이 될 수도 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Newsom order calls for\nindependent AI model checks",
+          "body": "Newsom's order calls for independent AI model verification and an expert committee on AI-agent kill switches.",
+          "mini_headline": "Newsom orders AI model checks",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+                "cap": "California Gov Gavin Newsom [File: Godofredo A Vasquez/AP Photo]"
+              },
+              {
+                "t": "p",
+                "x": "In his last few executive orders as California governor, Gavin Newsom, whose final term ends in January, issued one asking for independent verification of artificial intelligence models and set up an expert committee to create kill switches for AI agents that could go rogue and cause harm."
+              },
+              {
+                "t": "p",
+                "x": "In 2024, Newsom vetoed a bill, SB 1047, with similar requirements, saying at the time it would amount to “thwarting the promise of this technology”. He later signed a redrafted frontier AI bill into law in October 2025 that asks large developers to disclose certain safety incidents."
+              },
+              {
+                "t": "p",
+                "x": "Under the order he wants to expand the definition of safety incidents, explore a kill switch and include other measures from the vetoed bill. AI companies have reportedly had thousands of safety incidents in internal and real-world tests in recent months."
+              },
+              {
+                "t": "p",
+                "x": "CAIDP's Christabel Randolph said the order only includes one aspect of SB 1047 – the kill switch – which is weaker than that bill's ex ante termination obligation. DAIR's Alex Hanna said Newsom “is showing he is attentive without planning anything drastic”. The governor's office said “No governor has been more out-front on addressing the risks of AI than Governor Newsom.”"
+              },
+              {
+                "t": "p",
+                "x": "Newsom has asked the California Emergency Services Office to send recommendations on AI regulation by November 15 and could convene a special legislative session to discuss how to implement them, possibly before his term ends."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Newsom 행정명령,\nAI 모델 독립 검증 요구",
+          "body": "Newsom은 AI 모델 독립 검증과 AI-agent 킬스위치 위원회를 지시했다.",
+          "mini_headline": "Newsom, AI 모델 검증 지시",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+                "cap": "Gavin Newsom 캘리포니아 주지사 [File: Godofredo A Vasquez/AP Photo]"
+              },
+              {
+                "t": "p",
+                "x": "1월에 마지막 임기를 마치는 Gavin Newsom 캘리포니아 주지사는 재임 중 마지막 행정명령 가운데 하나로 인공지능 모델의 독립 검증을 요구했다. 통제를 벗어나 피해를 일으킬 수 있는 AI 에이전트를 멈출 킬스위치를 만들 전문가 위원회도 꾸렸다."
+              },
+              {
+                "t": "p",
+                "x": "Newsom은 2024년 비슷한 요건을 담은 법안 SB 1047에 거부권을 행사하면서 이 법안이 “이 기술의 가능성을 꺾는 일”이 될 것이라고 말했다. 그러다 2025년 10월에는 대형 개발사가 특정 안전 사고를 공개하도록 한 수정 프런티어 AI 법안에 서명했다."
+              },
+              {
+                "t": "p",
+                "x": "Newsom은 이번 명령으로 안전 사고의 정의를 넓히고 킬스위치를 검토하며, 거부했던 법안의 다른 조치도 담으려 한다. 보도에 따르면 AI 기업들은 최근 몇 달 동안 내부 테스트와 실제 환경 테스트에서 안전 사고 수천 건을 겪었다."
+              },
+              {
+                "t": "p",
+                "x": "CAIDP의 Christabel Randolph는 이 명령이 SB 1047의 한 측면인 킬스위치만 담았고, 그마저 해당 법안의 사전(ex ante) 종료 의무보다 약하다고 말했다. DAIR의 Alex Hanna는 Newsom이 “과감한 계획 없이 관심을 기울이고 있음을 보여주고 있다”고 말했다. 주지사실은 “AI의 위험에 대응하는 데 Newsom 주지사보다 앞장선 주지사는 없었다”고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Newsom은 캘리포니아 비상서비스국(California Emergency Services Office)에 11월 15일까지 AI 규제 권고안을 보내라고 요청했다. 이를 이행할 방법을 논의하려고 특별 입법 회기를 소집할 수도 있는데, 임기가 끝나기 전이 될 수도 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Newsomの行政命令、\nAIモデルの独立検証を要求",
+          "body": "Newsomの命令はAIモデルの独立検証とAI-agent停止策の専門委員会を求める。",
+          "mini_headline": "Newsom、AIモデル検証を指示",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+                "cap": "カリフォルニア州のGavin Newsom知事 [File: Godofredo A Vasquez/AP Photo]"
+              },
+              {
+                "t": "p",
+                "x": "1月に最後の任期を終えるカリフォルニア州のGavin Newsom知事は、知事として最後となる一連の行政命令の一つで人工知能モデルの独立した検証を求め、暴走して害を及ぼしかねないAIエージェントのキルスイッチを作る専門家委員会を設けた。"
+              },
+              {
+                "t": "p",
+                "x": "Newsomは2024年、同様の要件を盛り込んだ法案SB 1047に拒否権を行使し、当時「この技術の可能性を阻むことになる」と述べた。その後2025年10月には、大手開発企業に特定の安全インシデントの開示を求める、書き直されたフロンティアAI法案に署名し成立させた。"
+              },
+              {
+                "t": "p",
+                "x": "今回の命令で、Newsomは安全インシデントの定義を広げ、キルスイッチを検討し、拒否した法案のほかの措置も取り入れたい考えだ。報道によると、AI企業はここ数カ月、社内テストや実環境でのテストで数千件の安全インシデントを起こしてきた。"
+              },
+              {
+                "t": "p",
+                "x": "CAIDPのChristabel Randolphは、この命令に含まれるのはSB 1047の一側面であるキルスイッチだけで、同法案の事前(ex ante)停止義務より弱いと述べた。DAIRのAlex Hannaは、Newsomは「思い切った計画はないまま、注意を払っていることを示している」と語った。知事室は「AIのリスクへの対応でNewsom知事ほど先頭に立ってきた知事はいない」としている。"
+              },
+              {
+                "t": "p",
+                "x": "Newsomはカリフォルニア州緊急サービス局(California Emergency Services Office)に11月15日までにAI規制の提言を送るよう求めており、その実施方法を話し合うため、任期終了前にも特別議会を招集する可能性がある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Newsom签署行政令\n要求独立核查AI模型",
+          "body": "Newsom的行政令要求对AI模型独立核查，并设立AI-agent终止开关专家委员会。",
+          "mini_headline": "Newsom下令核查AI模型",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+                "cap": "加州州长Gavin Newsom [File: Godofredo A Vasquez/AP Photo]"
+              },
+              {
+                "t": "p",
+                "x": "将于1月结束最后任期的加州州长Gavin Newsom，在任内最后几项行政令中签署了一项要求对人工智能模型进行独立核查的命令，并成立专家委员会，为可能失控并造成伤害的AI智能体打造终止开关。"
+              },
+              {
+                "t": "p",
+                "x": "2024年，Newsom否决了提出类似要求的SB 1047法案，当时称该法案将“扼杀这项技术的前景”。2025年10月，他又签署了一项经重新起草的前沿AI法案，要求大型开发者披露特定安全事件。"
+              },
+              {
+                "t": "p",
+                "x": "根据这项命令，他希望扩大安全事件的定义，探索终止开关，并纳入被否决法案中的其他措施。据报道，近几个月来，AI公司在内部及真实环境测试中已发生数千起安全事件。"
+              },
+              {
+                "t": "p",
+                "x": "CAIDP的Christabel Randolph表示，该命令只包含SB 1047的一个方面，即终止开关，弱于该法案的事前（ex ante）终止义务。DAIR的Alex Hanna说，Newsom“表明了他的关注，却并未计划任何激进举措”。州长办公室则表示：“在应对AI风险方面，没有哪位州长比Newsom州长更走在前面。”"
+              },
+              {
+                "t": "p",
+                "x": "Newsom已要求加州紧急服务办公室（California Emergency Services Office）在11月15日前提交AI监管建议，并可能召开特别立法会议讨论如何落实，时间或在其任期结束之前。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Newsom ordena una revisión\nindependiente de modelos de AI",
+          "body": "Newsom ordena la verificación independiente de modelos de AI y un comité experto en interruptores de apagado AI-agent.",
+          "mini_headline": "Newsom ordena revisar modelos de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+                "cap": "El gobernador de California, Gavin Newsom [File: Godofredo A Vasquez/AP Photo]"
+              },
+              {
+                "t": "p",
+                "x": "En una de sus últimas órdenes ejecutivas como gobernador de California, Gavin Newsom, cuyo último mandato termina en enero, pidió la verificación independiente de los modelos de inteligencia artificial y creó un comité de expertos para diseñar interruptores de apagado para agentes de AI que puedan descontrolarse y causar daños."
+              },
+              {
+                "t": "p",
+                "x": "En 2024, Newsom vetó un proyecto de ley, SB 1047, con requisitos similares, y dijo entonces que equivaldría a “frustrar la promesa de esta tecnología”. Más tarde, en octubre de 2025, promulgó una versión reformulada de una ley sobre AI de frontera que pide a los grandes desarrolladores revelar ciertos incidentes de seguridad."
+              },
+              {
+                "t": "p",
+                "x": "Con la orden busca ampliar la definición de incidente de seguridad, estudiar un interruptor de apagado e incluir otras medidas del proyecto vetado. Según informes, las empresas de AI han registrado miles de incidentes de seguridad en pruebas internas y en condiciones reales en los últimos meses."
+              },
+              {
+                "t": "p",
+                "x": "Christabel Randolph, de CAIDP, dijo que la orden solo incluye un aspecto de SB 1047 —el interruptor de apagado—, más débil que la obligación de terminación ex ante de ese proyecto. Alex Hanna, de DAIR, dijo que Newsom “muestra que está atento sin planear nada drástico”. La oficina del gobernador afirmó: “Ningún gobernador ha estado más al frente para abordar los riesgos de la AI que el gobernador Newsom”."
+              },
+              {
+                "t": "p",
+                "x": "Newsom pidió a la California Emergency Services Office enviar recomendaciones sobre regulación de la AI antes del 15 de noviembre y podría convocar una sesión legislativa especial para discutir cómo aplicarlas, posiblemente antes de que termine su mandato."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Newsom 행정명령,\nAI 모델 독립 검증 요구",
+          "body": "Newsom은 AI 모델 독립 검증과 AI-agent 킬스위치 위원회를 지시했다.",
+          "mini_headline": "Newsom, AI 모델 검증 지시",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+                "cap": "Gavin Newsom 캘리포니아 주지사 [File: Godofredo A Vasquez/AP Photo]"
+              },
+              {
+                "t": "p",
+                "x": "1월에 마지막 임기를 마치는 Gavin Newsom 캘리포니아 주지사는 재임 중 마지막 행정명령 가운데 하나로 인공지능 모델의 독립 검증을 요구했고, 통제를 벗어나 피해를 일으킬 수 있는 AI 에이전트를 멈출 킬스위치를 만들 전문가 위원회를 꾸렸다."
+              },
+              {
+                "t": "p",
+                "x": "Newsom은 2024년 비슷한 요건을 담은 법안 SB 1047에 거부권을 행사하며, 당시 이 법안이 “이 기술의 가능성을 꺾는 일”이 될 것이라고 말했다. 이후 2025년 10월에는 대형 개발사에 특정 안전 사고 공개를 요구하는 수정 프런티어 AI 법안에 서명했다."
+              },
+              {
+                "t": "p",
+                "x": "그는 이번 명령으로 안전 사고의 정의를 넓히고, 킬스위치를 검토하며, 거부한 법안의 다른 조치도 담으려 한다. 보도에 따르면 AI 기업들은 최근 몇 달간 내부 테스트와 실제 환경 테스트에서 수천 건의 안전 사고를 겪었다."
+              },
+              {
+                "t": "p",
+                "x": "CAIDP의 Christabel Randolph는 이 명령이 SB 1047의 한 측면인 킬스위치만 담았으며, 이는 해당 법안의 사전(ex ante) 종료 의무보다 약하다고 말했다. DAIR의 Alex Hanna는 Newsom이 “과감한 계획 없이 관심을 기울이고 있음을 보여주고 있다”고 말했다. 주지사실은 “AI의 위험에 대응하는 데 Newsom 주지사보다 앞장선 주지사는 없었다”고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Newsom은 캘리포니아 비상서비스국(California Emergency Services Office)에 11월 15일까지 AI 규제 권고안을 보내라고 요청했다. 이를 이행할 방법을 논의하려고 특별 입법 회기를 소집할 수도 있으며, 그 시점은 임기 종료 전이 될 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Newsomの行政命令、\nAIモデルの独立検証を要求",
+          "body": "Newsomの命令はAIモデルの独立検証とAI-agent停止策の専門委員会を求める。",
+          "mini_headline": "Newsom、AIモデル検証を指示",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+                "cap": "カリフォルニア州のGavin Newsom知事 [File: Godofredo A Vasquez/AP Photo]"
+              },
+              {
+                "t": "p",
+                "x": "1月に最後の任期を終えるカリフォルニア州のGavin Newsom知事は、知事として最後となる一連の行政命令の一つで人工知能モデルの独立した検証を求め、暴走して害を及ぼしかねないAIエージェントのキルスイッチを作る専門家委員会を設けた。"
+              },
+              {
+                "t": "p",
+                "x": "Newsomは2024年、同様の要件を盛り込んだ法案SB 1047に拒否権を行使し、当時「この技術の可能性を阻むことになる」と述べた。その後2025年10月には、大手開発企業に特定の安全インシデントの開示を求める、書き直されたフロンティアAI法案に署名し成立させた。"
+              },
+              {
+                "t": "p",
+                "x": "今回の命令で、Newsomは安全インシデントの定義を広げ、キルスイッチを検討し、拒否した法案のほかの措置も取り入れたい考えだ。報道によると、AI企業はここ数カ月、社内テストや実環境でのテストで数千件の安全インシデントを起こしてきた。"
+              },
+              {
+                "t": "p",
+                "x": "CAIDPのChristabel Randolphは、この命令に含まれるのはSB 1047の一側面であるキルスイッチだけで、同法案の事前(ex ante)停止義務より弱いと述べた。DAIRのAlex Hannaは、Newsomは「思い切った計画はないまま、注意を払っていることを示している」と語った。知事室は「AIのリスクへの対応でNewsom知事ほど先頭に立ってきた知事はいない」としている。"
+              },
+              {
+                "t": "p",
+                "x": "Newsomはカリフォルニア州緊急サービス局(California Emergency Services Office)に11月15日までにAI規制の提言を送るよう求めており、その実施方法を話し合うため、任期終了前にも特別議会を招集する可能性がある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Newsom签署行政令\n要求独立核查AI模型",
+          "body": "Newsom的行政令要求对AI模型独立核查，并设立AI-agent终止开关专家委员会。",
+          "mini_headline": "Newsom下令核查AI模型",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+                "cap": "加州州长Gavin Newsom [File: Godofredo A Vasquez/AP Photo]"
+              },
+              {
+                "t": "p",
+                "x": "将于1月结束最后任期的加州州长Gavin Newsom，在任内最后几项行政令中签署了一项要求对人工智能模型进行独立核查的命令，并成立专家委员会，为可能失控并造成伤害的AI智能体打造终止开关。"
+              },
+              {
+                "t": "p",
+                "x": "2024年，Newsom否决了提出类似要求的SB 1047法案，当时称该法案将“扼杀这项技术的前景”。2025年10月，他又签署了一项经重新起草的前沿AI法案，要求大型开发者披露特定安全事件。"
+              },
+              {
+                "t": "p",
+                "x": "根据这项命令，他希望扩大安全事件的定义，探索终止开关，并纳入被否决法案中的其他措施。据报道，近几个月来，AI公司在内部及真实环境测试中已发生数千起安全事件。"
+              },
+              {
+                "t": "p",
+                "x": "CAIDP的Christabel Randolph表示，该命令只包含SB 1047的一个方面，即终止开关，弱于该法案的事前（ex ante）终止义务。DAIR的Alex Hanna说，Newsom“表明了他的关注，却并未计划任何激进举措”。州长办公室则表示：“在应对AI风险方面，没有哪位州长比Newsom州长更走在前面。”"
+              },
+              {
+                "t": "p",
+                "x": "Newsom已要求加州紧急服务办公室（California Emergency Services Office）在11月15日前提交AI监管建议，并可能召开特别立法会议讨论如何落实，时间或在其任期结束之前。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Newsom ordena una revisión\nindependiente de modelos de AI",
+          "body": "Newsom ordena la verificación independiente de modelos de AI y un comité experto en interruptores de apagado AI-agent.",
+          "mini_headline": "Newsom ordena revisar modelos de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+                "cap": "El gobernador de California, Gavin Newsom [File: Godofredo A Vasquez/AP Photo]"
+              },
+              {
+                "t": "p",
+                "x": "En una de sus últimas órdenes ejecutivas como gobernador de California, Gavin Newsom, cuyo último mandato termina en enero, pidió la verificación independiente de los modelos de inteligencia artificial y creó un comité de expertos para diseñar interruptores de apagado para agentes de AI que puedan descontrolarse y causar daños."
+              },
+              {
+                "t": "p",
+                "x": "En 2024, Newsom vetó un proyecto de ley, SB 1047, con requisitos similares, y dijo entonces que equivaldría a “frustrar la promesa de esta tecnología”. Más tarde, en octubre de 2025, promulgó una versión reformulada de una ley sobre AI de frontera que pide a los grandes desarrolladores revelar ciertos incidentes de seguridad."
+              },
+              {
+                "t": "p",
+                "x": "Con la orden busca ampliar la definición de incidente de seguridad, estudiar un interruptor de apagado e incluir otras medidas del proyecto vetado. Según informes, las empresas de AI han registrado miles de incidentes de seguridad en pruebas internas y en condiciones reales en los últimos meses."
+              },
+              {
+                "t": "p",
+                "x": "Christabel Randolph, de CAIDP, dijo que la orden solo incluye un aspecto de SB 1047 —el interruptor de apagado—, más débil que la obligación de terminación ex ante de ese proyecto. Alex Hanna, de DAIR, dijo que Newsom “muestra que está atento sin planear nada drástico”. La oficina del gobernador afirmó: “Ningún gobernador ha estado más al frente para abordar los riesgos de la AI que el gobernador Newsom”."
+              },
+              {
+                "t": "p",
+                "x": "Newsom pidió a la California Emergency Services Office enviar recomendaciones sobre regulación de la AI antes del 15 de noviembre y podría convocar una sesión legislativa especial para discutir cómo aplicarlas, posiblemente antes de que termine su mandato."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "politics-brazil-tse-meta-equal-treatment",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "브라질 법원, Meta에\n양측 캠프 동등 대우 명령",
+      "body": "PT가 Meta AI의 pro-Lula 차단을 짚었고 일벌금은 R$500,000다.",
+      "mini_headline": "Meta, 양측 캠프 동등 대우 명령받아",
+      "tool": "Politics",
+      "source": "JuriNews",
+      "url": "https://jurinews.com.br/en/justica-eleitoral/tse-determines-that-meta-treat-lula-and-flavio-campaigns-equally-under-fine-of-r-500-thousand",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -343,205 +623,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
-            "cap": ""
+            "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+            "cap": "TSE의 Bellizze가 Meta에 Lula와 Flávio Bolsonaro 캠프 간 동등한 대우를 보장하라고 명령했다. (montagem/JuriNews)"
           },
           {
             "t": "p",
-            "x": "북한은 토요일 새 AI-powered(AI 기반) 어뢰 체계를 시험했다고 밝혔다. 최근 잇따른 무기 시연의 연장선이다."
+            "x": "고등선거법원(TSE)의 Marco Aurélio Bellizze 판사는 15일 목요일, Facebook·Instagram·WhatsApp을 운영하는 Meta에 Luiz Inácio Lula da Silva(PT)와 Flávio Bolsonaro(PL) 캠프를 동등하게 대우하도록 조치하라고 결정했다. 따르지 않으면 하루 R$500,000의 벌금을 물어야 한다."
           },
           {
             "t": "p",
-            "x": "북한 국영 통신사 KCNA는 이번 시험에 “초고속·정밀 유도” Zam-2.0 어뢰 체계가 쓰였다고 보도했다. 이 체계는 인공지능으로 표적 탐지와 유도를 돕는다. 보도에 따르면 이번 시험에서 무기의 추진 체계를 검증했다."
+            "x": "Lula 캠프는 게시물 배포가 제한됐다고 문제를 제기하며, Meta AI가 Flávio 관련 비슷한 콘텐츠는 허용하면서 PT에 우호적인 이미지 생성은 막았다고 주장했다."
           },
           {
             "t": "p",
-            "x": "북한은 앞서 수요일에도 수중 발사 전략순항미사일 두 종류를 시험했다. 해군력 강화 행보로 보이며 미사일은 잠수함에서 발사된 것으로 추정된다."
+            "x": "이번 결정으로 Meta는 배포를 불평등하게 줄이거나 추천을 제한하거나 검색 결과를 제한할 수 없다. 두 캠프에 같은 AI 이미지 생성 기준을 적용해야 하고, 정치·선거 관련 요청을 받아들이거나 거절하는 기준도 공개해야 한다."
           },
           {
             "t": "p",
-            "x": "최근 몇 주 동안 북한은 탄도미사일도 여러 차례 시험했다. 이웃 한국과의 긴장이 커지는 가운데 무기고를 늘리려는 움직임이다."
-          },
-          {
-            "t": "p",
-            "x": "8월 도널드 트럼프 미국 대통령은 두 사람의 관계를 다시 내세우며 북한 지도자 김정은이 “매우 강력한 핵무기 57개”를 보유하고 있다고 기자들에게 말했다. 당시 트럼프는 올해 안에 김정은을 만날 생각이라고 했지만 구체적인 계획은 밝히지 않았다."
+            "x": "Bellizze는 2026년 10월 25일 결선 투표를 언급했다. AI 오류를 두고는 예비 검토에서 프롬프트 통제 도구가 “오류를 보였다”고 했지만, 이것이 의도된 기준이었거나 체계적으로 반복됐다는 증거는 없다고 밝혔다. Meta는 자사 AI 도구에서 후보자 이미지 생성을 일시적으로 제한했다고 밝혔다."
           }
         ]
       },
-      "_lead_image": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "North Korea says it tested\nan AI-guided torpedo",
-          "body": "According to KCNA, North Korea tested the Zam-2.0 torpedo, which uses AI to aid target detection and guidance.",
-          "mini_headline": "N. Korea claims AI torpedo",
+          "headline": "Brazil court orders Meta to\ntreat both campaigns equally",
+          "body": "Under a daily R$500,000 fine, the order covers Meta AI images, which the PT campaign says blocked pro-Lula content.",
+          "mini_headline": "Meta told to treat campaigns equally",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
-                "cap": ""
+                "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+                "cap": "Bellizze, from TSE, orders Meta to ensure isonomy between Lula and Flávio Bolsonaro campaigns. (montagem/JuriNews)"
               },
               {
                 "t": "p",
-                "x": "North Korea said on Saturday that it had tested a new AI-powered torpedo system as it continues a wave of recent weapons demonstrations."
+                "x": "Superior Electoral Court (TSE) Minister Marco Aurélio Bellizze determined on Thursday (15) that Meta, the company responsible for Facebook, Instagram and WhatsApp, adopt measures to ensure equal treatment of the campaigns of Luiz Inácio Lula da Silva (PT) and Flávio Bolsonaro (PL), under a daily fine of R$500,000 for non-compliance."
               },
               {
                 "t": "p",
-                "x": "The country's KCNA state news agency reported that the test involved the \"super-speed, precisely guided\" Zam-2.0 torpedo system, which it said uses artificial intelligence to aid with target detection and guidance. The report said the test had verified the weapon's propulsion systems."
+                "x": "Lula's campaign had complained of restrictions on the distribution of its posts, and said Meta AI prevented the creation of images favorable to the PT while allowing similar content related to Flávio."
               },
               {
                 "t": "p",
-                "x": "It comes after North Korea also tested two types of underwater-launched strategic cruise missiles on Wednesday as part of what is believed to be a push to bolster its naval capabilities. The missiles are thought to have been fired from a submarine."
+                "x": "Under the decision, Meta may not unequally reduce distribution, limit recommendations or restrict search results. It must apply the same AI image-generation criteria to both campaigns and disclose the parameters it uses to accept or refuse political-electoral requests."
               },
               {
                 "t": "p",
-                "x": "North Korea has also carried out a number of ballistic missile tests in recent weeks as it seeks to build up its arsenal amid growing tensions with neighbouring South Korea."
-              },
-              {
-                "t": "p",
-                "x": "In August, US President Donald Trump told reporters that North Korean leader Kim Jong-un had \"57 very powerful nuclear weapons\" as he once again touted the pair's relationship. Trump said at the time that he intended to meet with Kim later this year, although he gave no further details on the plan."
+                "x": "Bellizze cited the second round on October 25, 2026. On the AI failures, he said the prompt control tool “showed failure” in a preliminary examination, but there is no evidence it was a deliberate criterion or repeated systematically. Meta said it temporarily restricted image generation of candidates by its AI tool."
               }
             ]
           }
         },
         "ko": {
-          "headline": "북한, AI-guided\n어뢰 시험 주장",
-          "body": "북한 KCNA가 AI로 표적 탐지·유도를 돕는 Zam-2.0 어뢰의 시험을 알렸다.",
-          "mini_headline": "북한, AI 어뢰 시험 주장",
+          "headline": "브라질 법원, Meta에\n양측 캠프 동등 대우 명령",
+          "body": "PT가 Meta AI의 pro-Lula 차단을 짚었고 일벌금은 R$500,000다.",
+          "mini_headline": "Meta, 양측 캠프 동등 대우 명령받아",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
-                "cap": ""
+                "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+                "cap": "TSE의 Bellizze가 Meta에 Lula와 Flávio Bolsonaro 캠프 간 동등한 대우를 보장하라고 명령했다. (montagem/JuriNews)"
               },
               {
                 "t": "p",
-                "x": "북한은 토요일 새 AI-powered(AI 기반) 어뢰 체계를 시험했다고 밝혔다. 최근 잇따른 무기 시연의 연장선이다."
+                "x": "고등선거법원(TSE)의 Marco Aurélio Bellizze 판사는 15일 목요일, Facebook·Instagram·WhatsApp을 운영하는 Meta에 Luiz Inácio Lula da Silva(PT)와 Flávio Bolsonaro(PL) 캠프를 동등하게 대우하도록 조치하라고 결정했다. 따르지 않으면 하루 R$500,000의 벌금을 물어야 한다."
               },
               {
                 "t": "p",
-                "x": "북한 국영 통신사 KCNA는 이번 시험에 “초고속·정밀 유도” Zam-2.0 어뢰 체계가 쓰였다고 보도했다. 이 체계는 인공지능으로 표적 탐지와 유도를 돕는다. 보도에 따르면 이번 시험에서 무기의 추진 체계를 검증했다."
+                "x": "Lula 캠프는 게시물 배포가 제한됐다고 문제를 제기하며, Meta AI가 Flávio 관련 비슷한 콘텐츠는 허용하면서 PT에 우호적인 이미지 생성은 막았다고 주장했다."
               },
               {
                 "t": "p",
-                "x": "북한은 앞서 수요일에도 수중 발사 전략순항미사일 두 종류를 시험했다. 해군력 강화 행보로 보이며 미사일은 잠수함에서 발사된 것으로 추정된다."
+                "x": "이번 결정으로 Meta는 배포를 불평등하게 줄이거나 추천을 제한하거나 검색 결과를 제한할 수 없다. 두 캠프에 같은 AI 이미지 생성 기준을 적용해야 하고, 정치·선거 관련 요청을 받아들이거나 거절하는 기준도 공개해야 한다."
               },
               {
                 "t": "p",
-                "x": "최근 몇 주 동안 북한은 탄도미사일도 여러 차례 시험했다. 이웃 한국과의 긴장이 커지는 가운데 무기고를 늘리려는 움직임이다."
-              },
-              {
-                "t": "p",
-                "x": "8월 도널드 트럼프 미국 대통령은 두 사람의 관계를 다시 내세우며 북한 지도자 김정은이 “매우 강력한 핵무기 57개”를 보유하고 있다고 기자들에게 말했다. 당시 트럼프는 올해 안에 김정은을 만날 생각이라고 했지만 구체적인 계획은 밝히지 않았다."
+                "x": "Bellizze는 2026년 10월 25일 결선 투표를 언급했다. AI 오류를 두고는 예비 검토에서 프롬프트 통제 도구가 “오류를 보였다”고 했지만, 이것이 의도된 기준이었거나 체계적으로 반복됐다는 증거는 없다고 밝혔다. Meta는 자사 AI 도구에서 후보자 이미지 생성을 일시적으로 제한했다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "北朝鮮、AI-guided\n魚雷を試験と発表",
-          "body": "KCNAによると、北朝鮮はAIで標的探知と誘導を支援するZam-2.0魚雷を試験した。",
-          "mini_headline": "北朝鮮、AI魚雷を主張",
+          "headline": "ブラジル裁判所、Metaに\n両陣営の平等な扱いを命令",
+          "body": "PTがpro-Lula阻止を訴えたMeta AIも対象、罰金は日額R$500,000だ。",
+          "mini_headline": "Meta、両陣営の平等な扱いを命じられる",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
-                "cap": ""
+                "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+                "cap": "TSEのBellizze氏、MetaにLula陣営とFlávio Bolsonaro陣営の平等な扱いを確保するよう命じる。(montagem/JuriNews)"
               },
               {
                 "t": "p",
-                "x": "北朝鮮は土曜日、最近相次ぐ兵器の誇示の一環として、新たなAI-powered（AI搭載）魚雷システムを試験したと発表した。"
+                "x": "高等選挙裁判所(TSE)のMarco Aurélio Bellizze判事は15日(木)、Facebook、Instagram、WhatsAppを運営するMetaに対し、Luiz Inácio Lula da Silva(PT)陣営とFlávio Bolsonaro(PL)陣営を平等に扱うための措置を講じるよう命じた。従わない場合は1日あたりR$500,000の罰金が科される。"
               },
               {
                 "t": "p",
-                "x": "国営のKCNAは、試験には「超高速・精密誘導」のZam-2.0魚雷システムが用いられ、同システムは人工知能を使って標的の探知と誘導を支援すると報じた。報道によると、試験で兵器の推進システムが検証されたという。"
+                "x": "Lula陣営は投稿の配信が制限されていると訴え、Meta AIがFlávio関連の同様のコンテンツは認める一方で、PTに有利な画像の生成を妨げたと主張していた。"
               },
               {
                 "t": "p",
-                "x": "北朝鮮はこれに先立つ水曜日にも、海軍力強化の動きの一環とみられる水中発射型の戦略巡航ミサイル2種類を試験していた。ミサイルは潜水艦から発射されたとみられる。"
+                "x": "決定により、Metaは配信を不平等に減らしたり、おすすめを制限したり、検索結果を制限したりしてはならない。両陣営に同じAI画像生成基準を適用し、政治・選挙関連の依頼を受け付けるか拒否するかの判断に使うパラメーターを開示しなければならない。"
               },
               {
                 "t": "p",
-                "x": "北朝鮮は隣国の韓国との緊張が高まる中、兵器の増強を図り、ここ数週間で複数回の弾道ミサイル試験も実施している。"
-              },
-              {
-                "t": "p",
-                "x": "8月には、ドナルド・トランプ米大統領が記者団に対し、北朝鮮の指導者である金正恩氏が「非常に強力な核兵器を57個」保有していると語り、改めて両者の関係をアピールした。トランプ氏は当時、年内に金氏と会談する意向を示したが、計画の詳細は明らかにしなかった。"
+                "x": "Bellizze氏は2026年10月25日の決選投票に言及した。AIの不具合については、予備的な検討でプロンプト制御ツールが「不具合を示した」としつつ、それが意図的な基準だった、あるいは組織的に繰り返されたという証拠はないと述べた。Metaは、自社のAIツールによる候補者の画像生成を一時的に制限したとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "朝鲜称测试了\nAI-guided鱼雷",
-          "body": "据KCNA报道，朝鲜测试了借助AI辅助目标探测与制导的Zam-2.0鱼雷。",
-          "mini_headline": "朝鲜称测试AI鱼雷",
+          "headline": "巴西法院要求Meta\n平等对待两方竞选阵营",
+          "body": "命令涵盖PT称阻挠pro-Lula内容的Meta AI图像，每日罚R$500,000。",
+          "mini_headline": "Meta被要求平等对待两大阵营",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
-                "cap": ""
+                "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+                "cap": "TSE的Bellizze下令Meta确保Lula与Flávio Bolsonaro两个竞选阵营获得平等待遇。（montagem/JuriNews）"
               },
               {
                 "t": "p",
-                "x": "朝鲜周六表示，已测试一款新型AI-powered（AI驱动）鱼雷系统，近期一系列武器展示仍在持续。"
+                "x": "巴西高等选举法院（TSE）法官Marco Aurélio Bellizze周四（15日）裁定，旗下拥有Facebook、Instagram和WhatsApp的Meta须采取措施，确保平等对待Luiz Inácio Lula da Silva（PT）与Flávio Bolsonaro（PL）的竞选阵营，违者每日罚款R$500,000。"
               },
               {
                 "t": "p",
-                "x": "朝鲜国营通讯社KCNA报道称，此次测试涉及“超高速、精确制导”的Zam-2.0鱼雷系统，并称该系统利用人工智能辅助目标探测和制导。报道称，测试验证了该武器的推进系统。"
+                "x": "Lula竞选阵营此前投诉其帖子的传播受到限制，并称Meta AI阻止生成有利于PT的图像，却允许与Flávio相关的类似内容。"
               },
               {
                 "t": "p",
-                "x": "此前，朝鲜周三还测试了两种水下发射的战略巡航导弹，外界认为此举旨在增强其海军能力。据信这些导弹是从潜艇发射的。"
+                "x": "根据裁决，Meta不得不平等地降低传播、限制推荐或限制搜索结果；须对两个阵营适用相同的AI图像生成标准，并公开其接受或拒绝政治选举类请求时所依据的参数。"
               },
               {
                 "t": "p",
-                "x": "近几周，朝鲜还进行了多次弹道导弹试射，在与邻国韩国紧张关系加剧之际扩充武器库。"
-              },
-              {
-                "t": "p",
-                "x": "8月，美国总统唐纳德·特朗普对记者表示，朝鲜领导人金正恩拥有“57件非常强大的核武器”，并再次称道两人的关系。特朗普当时表示，他打算在今年晚些时候与金正恩会面，但未透露该计划的更多细节。"
+                "x": "Bellizze提到了2026年10月25日的第二轮投票。关于AI故障，他表示，初步审查显示提示词控制工具“出现了故障”，但没有证据表明这是有意设定的标准或系统性地反复发生。Meta表示，已暂时限制其AI工具生成候选人图像。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Corea del Norte afirma haber\nprobado un torpedo AI-guided",
-          "body": "Según KCNA, Corea del Norte probó el torpedo Zam-2.0, que usa IA en la detección de objetivos y el guiado.",
-          "mini_headline": "Corea del Norte dice tener un torpedo con IA",
+          "headline": "El TSE de Brasil ordena a Meta\ntratar igual a ambas campañas",
+          "body": "Con multa diaria de R$500,000, la orden incluye las imágenes de Meta AI, que según el PT bloqueó contenido pro-Lula.",
+          "mini_headline": "Meta debe tratar igual a las campañas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
-                "cap": ""
+                "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+                "cap": "Bellizze, del TSE, ordena a Meta garantizar la isonomía entre las campañas de Lula y Flávio Bolsonaro. (montagem/JuriNews)"
               },
               {
                 "t": "p",
-                "x": "Corea del Norte afirmó el sábado que había probado un nuevo sistema de torpedo AI-powered (impulsado por IA), en medio de una serie de recientes demostraciones de armamento."
+                "x": "El ministro del Tribunal Superior Electoral (TSE) Marco Aurélio Bellizze determinó el jueves (15) que Meta, la empresa responsable de Facebook, Instagram y WhatsApp, adopte medidas para garantizar un trato igualitario a las campañas de Luiz Inácio Lula da Silva (PT) y Flávio Bolsonaro (PL), bajo una multa diaria de R$500,000 por incumplimiento."
               },
               {
                 "t": "p",
-                "x": "La agencia estatal de noticias KCNA informó que la prueba involucró el sistema de torpedo Zam-2.0, de «súper velocidad y guiado de precisión», que según dijo utiliza inteligencia artificial para ayudar en la detección de objetivos y el guiado. El informe señaló que la prueba verificó los sistemas de propulsión del arma."
+                "x": "La campaña de Lula se había quejado de restricciones en la distribución de sus publicaciones y afirmó que Meta AI impedía crear imágenes favorables al PT mientras permitía contenido similar relacionado con Flávio."
               },
               {
                 "t": "p",
-                "x": "La prueba se produce después de que Corea del Norte también probara el miércoles dos tipos de misiles de crucero estratégicos lanzados bajo el agua, como parte de lo que se cree que es un impulso para reforzar sus capacidades navales. Se cree que los misiles fueron disparados desde un submarino."
+                "x": "Según la decisión, Meta no puede reducir de forma desigual la distribución, limitar recomendaciones ni restringir resultados de búsqueda. Debe aplicar los mismos criterios de generación de imágenes con AI a ambas campañas y revelar los parámetros que usa para aceptar o rechazar solicitudes político-electorales."
               },
               {
                 "t": "p",
-                "x": "Corea del Norte también ha realizado varias pruebas de misiles balísticos en las últimas semanas, mientras busca ampliar su arsenal en medio de crecientes tensiones con su vecina Corea del Sur."
-              },
-              {
-                "t": "p",
-                "x": "En agosto, el presidente de EE. UU., Donald Trump, dijo a los periodistas que el líder norcoreano Kim Jong-un tenía «57 armas nucleares muy poderosas», al tiempo que volvía a destacar la relación entre ambos. Trump dijo entonces que tenía la intención de reunirse con Kim más adelante este año, aunque no dio más detalles sobre el plan."
+                "x": "Bellizze citó la segunda vuelta del 25 de octubre de 2026. Sobre los fallos de la AI, dijo que la herramienta de control de prompts “mostró fallos” en un examen preliminar, pero que no hay pruebas de que fuera un criterio deliberado ni de que se repitiera de forma sistemática. Meta dijo que restringió temporalmente la generación de imágenes de candidatos con su herramienta de AI."
               }
             ]
           }
@@ -549,141 +803,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "북한, AI-guided\n어뢰 시험 주장",
-          "body": "북한 KCNA는 AI로 표적 탐지·유도를 돕는 Zam-2.0 어뢰 시험을 전했다.",
-          "mini_headline": "북한, AI 어뢰 시험 주장",
+          "headline": "브라질 법원, Meta에\n양측 캠프 동등 대우 명령",
+          "body": "PT는 Meta AI의 pro-Lula 차단을 짚었고 일벌금 R$500,000다.",
+          "mini_headline": "Meta, 양측 캠프 동등 대우 명령받아",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
-                "cap": ""
+                "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+                "cap": "TSE의 Bellizze가 Meta에 Lula와 Flávio Bolsonaro 캠프 간 동등한 대우를 보장하라고 명령했다. (montagem/JuriNews)"
               },
               {
                 "t": "p",
-                "x": "북한은 토요일, 최근 이어지는 무기 시연의 하나로 새 AI-powered(AI 기반) 어뢰 체계를 시험했다고 밝혔다."
+                "x": "고등선거법원(TSE)의 Marco Aurélio Bellizze 판사는 15일 목요일, Facebook·Instagram·WhatsApp을 운영하는 Meta에 Luiz Inácio Lula da Silva(PT)와 Flávio Bolsonaro(PL) 캠프를 동등하게 대우할 조치를 취하라고 결정했다. 이를 지키지 않으면 하루 R$500,000의 벌금이 부과된다."
               },
               {
                 "t": "p",
-                "x": "북한 국영 통신사 KCNA는 이번 시험에 “초고속·정밀 유도” Zam-2.0 어뢰 체계가 쓰였으며, 이 체계가 인공지능으로 표적 탐지와 유도를 돕는다고 보도했다. 보도에 따르면 이번 시험으로 무기의 추진 체계를 검증했다."
+                "x": "Lula 캠프는 게시물 배포가 제한됐다고 문제를 제기했으며, Meta AI가 Flávio 관련 유사 콘텐츠는 허용하면서 PT에 우호적인 이미지 생성은 막았다고 주장했다."
               },
               {
                 "t": "p",
-                "x": "이에 앞서 북한은 수요일 해군력 강화 행보의 일환으로 보이는 수중 발사 전략순항미사일 두 종류도 시험했다. 이 미사일들은 잠수함에서 발사된 것으로 추정된다."
+                "x": "결정에 따라 Meta는 배포를 불평등하게 줄이거나 추천을 제한하거나 검색 결과를 제한할 수 없다. 또 두 캠프에 같은 AI 이미지 생성 기준을 적용하고, 정치·선거 관련 요청을 수락하거나 거절할 때 쓰는 기준을 공개해야 한다."
               },
               {
                 "t": "p",
-                "x": "북한은 이웃 한국과의 긴장이 커지는 가운데 무기고를 늘리려 최근 몇 주간 여러 차례 탄도미사일 시험도 진행했다."
-              },
-              {
-                "t": "p",
-                "x": "8월 도널드 트럼프 미국 대통령은 두 사람의 관계를 다시 내세우며 북한 지도자 김정은이 “매우 강력한 핵무기 57개”를 보유하고 있다고 기자들에게 말했다. 트럼프는 당시 올해 안에 김정은을 만날 생각이라고 했지만, 계획에 대한 구체적인 내용은 밝히지 않았다."
+                "x": "Bellizze는 2026년 10월 25일 결선 투표를 언급했다. AI 오류에 대해서는 예비 검토에서 프롬프트 통제 도구가 “오류를 보였다”고 했지만, 이것이 의도적인 기준이었거나 체계적으로 반복됐다는 증거는 없다고 밝혔다. Meta는 자사 AI 도구의 후보자 이미지 생성을 일시적으로 제한했다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "北朝鮮、AI-guided\n魚雷を試験と発表",
-          "body": "KCNAによると、北朝鮮はAIで標的探知と誘導を支援するZam-2.0魚雷を試験した。",
-          "mini_headline": "北朝鮮、AI魚雷を主張",
+          "headline": "ブラジル裁判所、Metaに\n両陣営の平等な扱いを命令",
+          "body": "PTがpro-Lula阻止を訴えたMeta AIも対象、罰金は日額R$500,000だ。",
+          "mini_headline": "Meta、両陣営の平等な扱いを命じられる",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
-                "cap": ""
+                "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+                "cap": "TSEのBellizze氏、MetaにLula陣営とFlávio Bolsonaro陣営の平等な扱いを確保するよう命じる。(montagem/JuriNews)"
               },
               {
                 "t": "p",
-                "x": "北朝鮮は土曜日、最近相次ぐ兵器の誇示の一環として、新たなAI-powered（AI搭載）魚雷システムを試験したと発表した。"
+                "x": "高等選挙裁判所(TSE)のMarco Aurélio Bellizze判事は15日(木)、Facebook、Instagram、WhatsAppを運営するMetaに対し、Luiz Inácio Lula da Silva(PT)陣営とFlávio Bolsonaro(PL)陣営を平等に扱うための措置を講じるよう命じた。従わない場合は1日あたりR$500,000の罰金が科される。"
               },
               {
                 "t": "p",
-                "x": "国営のKCNAは、試験には「超高速・精密誘導」のZam-2.0魚雷システムが用いられ、同システムは人工知能を使って標的の探知と誘導を支援すると報じた。報道によると、試験で兵器の推進システムが検証されたという。"
+                "x": "Lula陣営は投稿の配信が制限されていると訴え、Meta AIがFlávio関連の同様のコンテンツは認める一方で、PTに有利な画像の生成を妨げたと主張していた。"
               },
               {
                 "t": "p",
-                "x": "北朝鮮はこれに先立つ水曜日にも、海軍力強化の動きの一環とみられる水中発射型の戦略巡航ミサイル2種類を試験していた。ミサイルは潜水艦から発射されたとみられる。"
+                "x": "決定により、Metaは配信を不平等に減らしたり、おすすめを制限したり、検索結果を制限したりしてはならない。両陣営に同じAI画像生成基準を適用し、政治・選挙関連の依頼を受け付けるか拒否するかの判断に使うパラメーターを開示しなければならない。"
               },
               {
                 "t": "p",
-                "x": "北朝鮮は隣国の韓国との緊張が高まる中、兵器の増強を図り、ここ数週間で複数回の弾道ミサイル試験も実施している。"
-              },
-              {
-                "t": "p",
-                "x": "8月には、ドナルド・トランプ米大統領が記者団に対し、北朝鮮の指導者である金正恩氏が「非常に強力な核兵器を57個」保有していると語り、改めて両者の関係をアピールした。トランプ氏は当時、年内に金氏と会談する意向を示したが、計画の詳細は明らかにしなかった。"
+                "x": "Bellizze氏は2026年10月25日の決選投票に言及した。AIの不具合については、予備的な検討でプロンプト制御ツールが「不具合を示した」としつつ、それが意図的な基準だった、あるいは組織的に繰り返されたという証拠はないと述べた。Metaは、自社のAIツールによる候補者の画像生成を一時的に制限したとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "朝鲜称测试了\nAI-guided鱼雷",
-          "body": "据KCNA报道，朝鲜测试了借助AI辅助目标探测与制导的Zam-2.0鱼雷。",
-          "mini_headline": "朝鲜称测试AI鱼雷",
+          "headline": "巴西法院要求Meta\n平等对待两方竞选阵营",
+          "body": "命令涵盖PT称阻挠pro-Lula内容的Meta AI图像，每日罚R$500,000。",
+          "mini_headline": "Meta被要求平等对待两大阵营",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
-                "cap": ""
+                "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+                "cap": "TSE的Bellizze下令Meta确保Lula与Flávio Bolsonaro两个竞选阵营获得平等待遇。（montagem/JuriNews）"
               },
               {
                 "t": "p",
-                "x": "朝鲜周六表示，已测试一款新型AI-powered（AI驱动）鱼雷系统，近期一系列武器展示仍在持续。"
+                "x": "巴西高等选举法院（TSE）法官Marco Aurélio Bellizze周四（15日）裁定，旗下拥有Facebook、Instagram和WhatsApp的Meta须采取措施，确保平等对待Luiz Inácio Lula da Silva（PT）与Flávio Bolsonaro（PL）的竞选阵营，违者每日罚款R$500,000。"
               },
               {
                 "t": "p",
-                "x": "朝鲜国营通讯社KCNA报道称，此次测试涉及“超高速、精确制导”的Zam-2.0鱼雷系统，并称该系统利用人工智能辅助目标探测和制导。报道称，测试验证了该武器的推进系统。"
+                "x": "Lula竞选阵营此前投诉其帖子的传播受到限制，并称Meta AI阻止生成有利于PT的图像，却允许与Flávio相关的类似内容。"
               },
               {
                 "t": "p",
-                "x": "此前，朝鲜周三还测试了两种水下发射的战略巡航导弹，外界认为此举旨在增强其海军能力。据信这些导弹是从潜艇发射的。"
+                "x": "根据裁决，Meta不得不平等地降低传播、限制推荐或限制搜索结果；须对两个阵营适用相同的AI图像生成标准，并公开其接受或拒绝政治选举类请求时所依据的参数。"
               },
               {
                 "t": "p",
-                "x": "近几周，朝鲜还进行了多次弹道导弹试射，在与邻国韩国紧张关系加剧之际扩充武器库。"
-              },
-              {
-                "t": "p",
-                "x": "8月，美国总统唐纳德·特朗普对记者表示，朝鲜领导人金正恩拥有“57件非常强大的核武器”，并再次称道两人的关系。特朗普当时表示，他打算在今年晚些时候与金正恩会面，但未透露该计划的更多细节。"
+                "x": "Bellizze提到了2026年10月25日的第二轮投票。关于AI故障，他表示，初步审查显示提示词控制工具“出现了故障”，但没有证据表明这是有意设定的标准或系统性地反复发生。Meta表示，已暂时限制其AI工具生成候选人图像。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Corea del Norte afirma haber\nprobado un torpedo AI-guided",
-          "body": "Según KCNA, Corea del Norte probó el torpedo Zam-2.0, que usa IA en la detección de objetivos y el guiado.",
-          "mini_headline": "Corea del Norte dice tener un torpedo con IA",
+          "headline": "El TSE de Brasil ordena a Meta\ntratar igual a ambas campañas",
+          "body": "Con multa diaria de R$500,000, la orden incluye las imágenes de Meta AI, que según el PT bloqueó contenido pro-Lula.",
+          "mini_headline": "Meta debe tratar igual a las campañas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
-                "cap": ""
+                "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+                "cap": "Bellizze, del TSE, ordena a Meta garantizar la isonomía entre las campañas de Lula y Flávio Bolsonaro. (montagem/JuriNews)"
               },
               {
                 "t": "p",
-                "x": "Corea del Norte afirmó el sábado que había probado un nuevo sistema de torpedo AI-powered (impulsado por IA), en medio de una serie de recientes demostraciones de armamento."
+                "x": "El ministro del Tribunal Superior Electoral (TSE) Marco Aurélio Bellizze determinó el jueves (15) que Meta, la empresa responsable de Facebook, Instagram y WhatsApp, adopte medidas para garantizar un trato igualitario a las campañas de Luiz Inácio Lula da Silva (PT) y Flávio Bolsonaro (PL), bajo una multa diaria de R$500,000 por incumplimiento."
               },
               {
                 "t": "p",
-                "x": "La agencia estatal de noticias KCNA informó que la prueba involucró el sistema de torpedo Zam-2.0, de «súper velocidad y guiado de precisión», que según dijo utiliza inteligencia artificial para ayudar en la detección de objetivos y el guiado. El informe señaló que la prueba verificó los sistemas de propulsión del arma."
+                "x": "La campaña de Lula se había quejado de restricciones en la distribución de sus publicaciones y afirmó que Meta AI impedía crear imágenes favorables al PT mientras permitía contenido similar relacionado con Flávio."
               },
               {
                 "t": "p",
-                "x": "La prueba se produce después de que Corea del Norte también probara el miércoles dos tipos de misiles de crucero estratégicos lanzados bajo el agua, como parte de lo que se cree que es un impulso para reforzar sus capacidades navales. Se cree que los misiles fueron disparados desde un submarino."
+                "x": "Según la decisión, Meta no puede reducir de forma desigual la distribución, limitar recomendaciones ni restringir resultados de búsqueda. Debe aplicar los mismos criterios de generación de imágenes con AI a ambas campañas y revelar los parámetros que usa para aceptar o rechazar solicitudes político-electorales."
               },
               {
                 "t": "p",
-                "x": "Corea del Norte también ha realizado varias pruebas de misiles balísticos en las últimas semanas, mientras busca ampliar su arsenal en medio de crecientes tensiones con su vecina Corea del Sur."
-              },
-              {
-                "t": "p",
-                "x": "En agosto, el presidente de EE. UU., Donald Trump, dijo a los periodistas que el líder norcoreano Kim Jong-un tenía «57 armas nucleares muy poderosas», al tiempo que volvía a destacar la relación entre ambos. Trump dijo entonces que tenía la intención de reunirse con Kim más adelante este año, aunque no dio más detalles sobre el plan."
+                "x": "Bellizze citó la segunda vuelta del 25 de octubre de 2026. Sobre los fallos de la AI, dijo que la herramienta de control de prompts “mostró fallos” en un examen preliminar, pero que no hay pruebas de que fuera un criterio deliberado ni de que se repitiera de forma sistemática. Meta dijo que restringió temporalmente la generación de imágenes de candidatos con su herramienta de AI."
               }
             ]
           }
@@ -691,173 +929,195 @@
       }
     },
     {
-      "id": "politics-duv-controls",
+      "id": "politics-wesleyan-ai-ad-disclaimers",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Saif Khan, DUV\n수출 통제를 주장",
-      "body": "Khan은 DUV 수출을 막으면 중국 AI 칩 생산을 묶어 둘 수 있다고 본다.",
-      "mini_headline": "DUV 통제 옹호론",
+      "headline": "AI 중간선거 광고 지출\n$137M, 고지 27%뿐",
+      "body": "34개 주 AI-assisted 광고는 220건, AI 고지 의무 주는 30곳이다.",
+      "mini_headline": "고지 없는 AI 광고",
       "tool": "Politics",
-      "source": "ChinaTalk",
-      "url": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
+      "source": "Gizmodo",
+      "url": "https://gizmodo.com/137-million-has-been-spent-on-ai-generated-ads-ahead-of-midterms-only-27-included-a-disclaimer-2000827138",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "ChinaTalk 팟캐스트에서 Saif Khan이 CTS의 첫 주요 보고서를 소개한다. 그는 전 NSC·상무부 관리로, IFP-affiliated(IFP 계열) 싱크탱크인 Center for Technology and Statecraft(CTS)를 출범시키고 있다. 선임 연구원 Nick Brown이 이끈 보고서는 DUV 액침 노광을 깊이 파고든다."
-          },
-          {
             "t": "img",
-            "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
-            "cap": ""
+            "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+            "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
           },
           {
             "t": "p",
-            "x": "Khan에 따르면 이 장비를 만드는 나라는 일본과 네덜란드뿐이고, Huawei는 가장 앞선 7nm 칩을 이 장비로 만든다. 중국이 상업용 국산 장비를 갖추기는 mid-2030s까지 어렵다는 게 그의 말이다. 2023년 통제 뒤에도 덜 앞선 DUV 액침 장비 일부는 여전히 중국에 들어갈 수 있었고, 약 170~180대이던 설치 기반은 그 사이 대략 두 배로 늘었다."
+            "x": "Wesleyan Media Project의 새 자료에 따르면 2026년 중간선거를 앞두고 정치 캠프와 단체들은 일부라도 AI 도구로 만든 광고에 $137 million(1억3,700만 달러) 넘게 썼다. 이 단체가 2024년 선거 주기에 확인한 같은 종류의 지출은 $50,000이 채 안 됐다."
           },
           {
             "t": "p",
-            "x": "보고서 전망에 따르면 미국은 mid-2030s까지 연간 십억 개 안팎의 H100-equivalent(H100 환산) 칩을 생산할 수 있다. 반면 지금 DUV 액침 장비 수출을 막으면 중국의 자체 생산량은 연간 천만 개 수준에 묶일 가능성이 크다. 의회가 DUV 통제 가능성을 담은 MATCH Act를 논의하는 지금, Khan은 이것이 US-China AI 격차를 좌우할 가장 중요한 지렛대일 수 있다고 말한다."
+            "x": "연구진은 올해 34개 주에서 AI로 만든 정치 광고 220건을 확인했다. 실제로는 더 많을 가능성이 높다. 정치 광고에 AI 사용 고지를 요구하는 주는 30곳뿐이고, 고지 문구를 넣은 광고는 27%에 그쳤다."
+          },
+          {
+            "t": "p",
+            "x": "확인된 광고의 81%와 지출의 88%가 공화당 후보와 단체 몫이었고, 민주당이 후원한 광고는 12%였다. 절반 가까이는 실제 정치인을 딥페이크로 그렸다."
+          },
+          {
+            "t": "p",
+            "x": "8월 뉴욕주 민주당은 공화당 주지사 후보 Bruce Blakeman 캠프가 AI 고지법을 어겼다며 주 선거관리위원회에 진정을 냈다. Blakeman 캠프는 풍자 광고에는 고지가 필요 없다고 주장한다."
           }
         ]
       },
-      "_lead_image": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Saif Khan makes the case\nfor DUV export controls",
-          "body": "Former NSC official Saif Khan argues that halting DUV immersion tool exports could cap China's AI chip output.",
-          "mini_headline": "The case for DUV controls",
+          "headline": "$137M in AI midterm ads,\nonly 27% with a disclaimer",
+          "body": "The Wesleyan Media Project counted 220 AI-assisted midterm ads in 34 states, while 30 states require AI disclosure.",
+          "mini_headline": "AI ads skip disclaimers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "On the ChinaTalk podcast, Saif Khan — a former NSC and Commerce official now launching the Center for Technology and Statecraft (CTS), an IFP-affiliated think tank — discusses CTS’s first major report, a deep dive into DUV immersion lithography led by senior fellow Nick Brown."
-              },
-              {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
-                "cap": ""
+                "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+                "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Khan says Japan and the Netherlands are the sole producers of these tools, which Huawei uses for its most advanced 7nm chips, and that China likely won’t have a commercial indigenous tool until the mid-2030s. Controls from 2023 still let some less advanced DUV immersion tools into China; the installed base of roughly 170–180 tools has since roughly doubled."
+                "x": "Political campaigns and groups have spent more than $137 million airing ads created at least partly with AI tools ahead of the 2026 midterm elections, according to new data from the Wesleyan Media Project. In the 2024 cycle, the group identified less than $50,000 in such spending."
               },
               {
                 "t": "p",
-                "x": "The report projects the US could produce something like a billion H100-equivalent chips a year by the mid-2030s, while stopping DUV immersion exports today would likely cap China’s indigenous output around ten million a year. Khan calls it possibly the most consequential lever over the US-China AI gap, as Congress debates the MATCH Act, which includes potential DUV controls."
+                "x": "The researchers identified 220 political ads across 34 states created with AI this year; the actual number is likely higher, and only 30 states require AI disclosures for political ads. Just 27% of the ads included a disclaimer."
+              },
+              {
+                "t": "p",
+                "x": "Republican candidates and groups accounted for 81% of the identified ads and 88% of the spending; Democrats sponsored 12% of the ads. Nearly half feature deepfake depictions of real politicians."
+              },
+              {
+                "t": "p",
+                "x": "In August, the New York State Democratic Party filed a complaint with the state's Board of Elections accusing Republican gubernatorial candidate Bruce Blakeman's campaign of violating an AI disclosure law; his campaign argues satirical ads do not require disclosures."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Saif Khan, DUV\n수출 통제를 주장",
-          "body": "Khan은 DUV 수출을 막으면 중국 AI 칩 생산을 묶어 둘 수 있다고 본다.",
-          "mini_headline": "DUV 통제 옹호론",
+          "headline": "AI 중간선거 광고 지출\n$137M, 고지 27%뿐",
+          "body": "34개 주 AI-assisted 광고는 220건, AI 고지 의무 주는 30곳이다.",
+          "mini_headline": "고지 없는 AI 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ChinaTalk 팟캐스트에서 Saif Khan이 CTS의 첫 주요 보고서를 소개한다. 그는 전 NSC·상무부 관리로, IFP-affiliated(IFP 계열) 싱크탱크인 Center for Technology and Statecraft(CTS)를 출범시키고 있다. 선임 연구원 Nick Brown이 이끈 보고서는 DUV 액침 노광을 깊이 파고든다."
-              },
-              {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
-                "cap": ""
+                "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+                "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Khan에 따르면 이 장비를 만드는 나라는 일본과 네덜란드뿐이고, Huawei는 가장 앞선 7nm 칩을 이 장비로 만든다. 중국이 상업용 국산 장비를 갖추기는 mid-2030s까지 어렵다는 게 그의 말이다. 2023년 통제 뒤에도 덜 앞선 DUV 액침 장비 일부는 여전히 중국에 들어갈 수 있었고, 약 170~180대이던 설치 기반은 그 사이 대략 두 배로 늘었다."
+                "x": "Wesleyan Media Project의 새 자료에 따르면 2026년 중간선거를 앞두고 정치 캠프와 단체들은 일부라도 AI 도구로 만든 광고에 $137 million(1억3,700만 달러) 넘게 썼다. 이 단체가 2024년 선거 주기에 확인한 같은 종류의 지출은 $50,000이 채 안 됐다."
               },
               {
                 "t": "p",
-                "x": "보고서 전망에 따르면 미국은 mid-2030s까지 연간 십억 개 안팎의 H100-equivalent(H100 환산) 칩을 생산할 수 있다. 반면 지금 DUV 액침 장비 수출을 막으면 중국의 자체 생산량은 연간 천만 개 수준에 묶일 가능성이 크다. 의회가 DUV 통제 가능성을 담은 MATCH Act를 논의하는 지금, Khan은 이것이 US-China AI 격차를 좌우할 가장 중요한 지렛대일 수 있다고 말한다."
+                "x": "연구진은 올해 34개 주에서 AI로 만든 정치 광고 220건을 확인했다. 실제로는 더 많을 가능성이 높다. 정치 광고에 AI 사용 고지를 요구하는 주는 30곳뿐이고, 고지 문구를 넣은 광고는 27%에 그쳤다."
+              },
+              {
+                "t": "p",
+                "x": "확인된 광고의 81%와 지출의 88%가 공화당 후보와 단체 몫이었고, 민주당이 후원한 광고는 12%였다. 절반 가까이는 실제 정치인을 딥페이크로 그렸다."
+              },
+              {
+                "t": "p",
+                "x": "8월 뉴욕주 민주당은 공화당 주지사 후보 Bruce Blakeman 캠프가 AI 고지법을 어겼다며 주 선거관리위원회에 진정을 냈다. Blakeman 캠프는 풍자 광고에는 고지가 필요 없다고 주장한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Saif Khan氏が説く\nDUV輸出規制論",
-          "body": "Khan氏は、DUV液浸装置の輸出停止で中国のAIチップ生産を抑えられると主張する。",
-          "mini_headline": "DUV規制を推す論拠",
+          "headline": "AI中間選挙広告に$137M\n開示表示は27%のみ",
+          "body": "34州のAI-assisted広告は220本、AI開示を義務付ける州は30だ。",
+          "mini_headline": "開示なきAI広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ChinaTalkのポッドキャストで、元NSC・商務省高官で、IFP-affiliated（IFP系）シンクタンクCenter for Technology and Statecraft（CTS）を立ち上げるSaif Khan氏が、CTS初の主要報告書について語る。シニアフェローのNick Brown氏が主導した同報告書は、DUV液浸リソグラフィーを掘り下げたものだ。"
-              },
-              {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
-                "cap": ""
+                "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+                "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Khan氏によれば、これらの装置を製造するのは日本とオランダだけで、Huaweiは最先端の7nmチップにこれを使っている。中国が商用の国産装置を持てるのはmid-2030sになるとみられる。2023年の規制後も、一部の旧世代のDUV液浸装置は中国に入り続け、約170～180台だった設置台数はその後おおむね倍増した。"
+                "x": "Wesleyan Media Projectの新たなデータによると、2026年の中間選挙を前に、政治陣営や団体は少なくとも一部をAIツールで制作した広告の放映に1億3700万ドル($137 million)超を費やした。2024年の選挙サイクルで同団体が確認したこうした支出は$50,000未満だった。"
               },
               {
                 "t": "p",
-                "x": "報告書は、米国がmid-2030sまでに年間十億個規模のH100-equivalent（H100換算）チップを生産できる可能性がある一方、今DUV液浸装置の輸出を止めれば、中国の国産生産量は年間一千万個程度に抑えられる可能性が高いと予測する。Khan氏は、議会がDUV規制の可能性を含むMATCH Actを審議する中、これがUS-China間のAI格差を左右する最も重要なてこになり得ると述べる。"
+                "x": "研究者らは今年、34州でAIを使って制作された政治広告220本を確認した。実際の数はさらに多い可能性が高く、政治広告にAIの開示を義務付けている州は30にとどまる。開示文を入れた広告は27%にすぎなかった。"
+              },
+              {
+                "t": "p",
+                "x": "確認された広告の81%、支出の88%を共和党の候補者や団体が占め、民主党が出した広告は12%だった。半数近くが実在の政治家をディープフェイクで描いている。"
+              },
+              {
+                "t": "p",
+                "x": "8月にはニューヨーク州民主党が、共和党の州知事候補Bruce Blakeman氏の陣営がAI開示法に違反したとして州選挙管理委員会に申し立てた。同陣営は、風刺広告に開示は不要だと主張している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Saif Khan力主\nDUV出口管制",
-          "body": "前NSC官员Saif Khan认为，停止出口DUV浸没式设备可能限制中国AI芯片产量。",
-          "mini_headline": "DUV管制的理由",
+          "headline": "AI中期选举广告达$137M\n仅27%附有免责声明",
+          "body": "Wesleyan统计34州共220则AI-assisted选举广告，30州要求AI披露。",
+          "mini_headline": "AI广告缺少免责声明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "在ChinaTalk播客中，前NSC及商务部官员Saif Khan——他正在创办IFP-affiliated（隶属IFP）的智库Center for Technology and Statecraft（CTS）——介绍了CTS的首份重要报告。这份由高级研究员Nick Brown牵头的报告深入剖析了DUV浸没式光刻。"
-              },
-              {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
-                "cap": ""
+                "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+                "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Khan表示，日本和荷兰是这类设备仅有的生产国，Huawei用它们制造最先进的7nm芯片，而中国在mid-2030s之前恐怕难以拥有商用国产设备。2023年的管制措施仍允许部分较不先进的DUV浸没式设备进入中国；此后，约170至180台的装机量已大致翻了一番。"
+                "x": "根据Wesleyan Media Project的最新数据，2026年中期选举前，政治竞选团队和团体已花费超过1.37亿美元（$137 million）投放至少部分由AI工具制作的广告。在2024年选举周期，该机构发现的此类支出不足$50,000。"
               },
               {
                 "t": "p",
-                "x": "报告预测，到mid-2030s，美国每年或可生产约十亿颗H100-equivalent（H100当量）芯片，而若现在停止DUV浸没式设备出口，中国的自主产量很可能被限制在每年一千万颗左右。Khan称，这可能是影响US-China AI差距最关键的杠杆；目前国会正在讨论包含潜在DUV管制内容的MATCH Act。"
+                "x": "研究人员今年在34个州发现了220则用AI制作的政治广告；实际数量可能更多，而只有30个州要求政治广告披露AI使用情况。仅27%的广告附有免责声明。"
+              },
+              {
+                "t": "p",
+                "x": "在已发现的广告中，共和党候选人和团体占81%，支出占88%；民主党赞助的广告占12%。近一半广告含有对真实政治人物的深度伪造描绘。"
+              },
+              {
+                "t": "p",
+                "x": "8月，纽约州民主党向该州选举委员会投诉，指控共和党州长候选人Bruce Blakeman的竞选团队违反AI披露法；其竞选团队则认为讽刺广告无需披露。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Saif Khan defiende controlar\nlas exportaciones de DUV",
-          "body": "Saif Khan sostiene que frenar las exportaciones de equipos DUV podría limitar la producción china de chips de IA.",
-          "mini_headline": "Argumentos para controlar el DUV",
+          "headline": "$137M en anuncios electorales\ncon AI; solo el 27% lo avisa",
+          "body": "El Wesleyan Media Project contó 220 anuncios electorales AI-assisted en 34 estados, y 30 estados exigen aviso de AI.",
+          "mini_headline": "Anuncios con AI sin aviso",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "En el pódcast ChinaTalk, Saif Khan —exfuncionario del NSC y del Departamento de Comercio que ahora lanza el Center for Technology and Statecraft (CTS), un think tank IFP-affiliated (afiliado al IFP)— analiza el primer gran informe del CTS, un estudio a fondo sobre la litografía DUV de inmersión dirigido por el investigador sénior Nick Brown."
-              },
-              {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
-                "cap": ""
+                "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+                "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Khan afirma que Japón y los Países Bajos son los únicos fabricantes de estas herramientas, que Huawei utiliza para sus chips más avanzados de 7nm, y que probablemente China no tendrá una herramienta comercial propia hasta mediados de los años treinta (mid-2030s). Los controles de 2023 aún permiten la entrada en China de algunas herramientas DUV de inmersión menos avanzadas; la base instalada, de unas 170–180 herramientas, se ha duplicado aproximadamente desde entonces."
+                "x": "Las campañas y los grupos políticos han gastado más de $137 millones en emitir anuncios creados al menos en parte con herramientas de AI de cara a las elecciones de mitad de mandato de 2026, según nuevos datos del Wesleyan Media Project. En el ciclo de 2024, el grupo identificó menos de $50,000 en este tipo de gasto."
               },
               {
                 "t": "p",
-                "x": "El informe proyecta que Estados Unidos podría producir del orden de mil millones de chips H100-equivalent (equivalentes a H100) al año hacia mediados de los años treinta (mid-2030s), mientras que detener hoy las exportaciones de DUV de inmersión probablemente limitaría la producción propia de China a unos diez millones al año. Khan lo considera posiblemente la palanca más decisiva sobre la brecha de IA US-China, mientras el Congreso debate la MATCH Act, que incluye posibles controles al DUV."
+                "x": "Los investigadores identificaron este año 220 anuncios políticos creados con AI en 34 estados; la cifra real probablemente es mayor, y solo 30 estados exigen revelar el uso de AI en los anuncios políticos. Apenas el 27% de los anuncios incluía un aviso."
+              },
+              {
+                "t": "p",
+                "x": "Los candidatos y grupos republicanos representaron el 81% de los anuncios identificados y el 88% del gasto; los demócratas patrocinaron el 12% de los anuncios. Casi la mitad muestra deepfakes de políticos reales."
+              },
+              {
+                "t": "p",
+                "x": "En agosto, el Partido Demócrata del estado de Nueva York presentó una queja ante la Junta Electoral del estado en la que acusa a la campaña del candidato republicano a gobernador Bruce Blakeman de violar una ley de divulgación sobre AI; su campaña sostiene que los anuncios satíricos no requieren divulgación."
               }
             ]
           }
@@ -865,109 +1125,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Saif Khan, DUV\n수출 통제를 주장",
-          "body": "Khan은 DUV 수출을 막으면 중국 AI 칩 생산을 묶을 수 있다고 본다.",
-          "mini_headline": "DUV 통제 옹호론",
+          "headline": "AI 중간선거 광고 지출\n$137M, 고지 27%뿐",
+          "body": "34개 주 AI-assisted 광고는 220건, AI 고지 의무 주는 30곳이다.",
+          "mini_headline": "고지 없는 AI 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ChinaTalk 팟캐스트에서 전 NSC·상무부 관리로, IFP-affiliated(IFP 계열) 싱크탱크인 Center for Technology and Statecraft(CTS)를 출범시키는 Saif Khan이 CTS의 첫 주요 보고서를 소개한다. 선임 연구원 Nick Brown이 이끈 이 보고서는 DUV 액침 노광을 깊이 파고든다."
-              },
-              {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
-                "cap": ""
+                "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+                "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Khan에 따르면 이 장비를 만드는 나라는 일본과 네덜란드뿐이며, Huawei는 가장 앞선 7nm 칩에 이 장비를 쓴다. 그는 중국이 mid-2030s까지는 상업용 국산 장비를 갖추기 어려울 것이라고 말한다. 2023년 통제 이후에도 일부 덜 앞선 DUV 액침 장비는 여전히 중국에 들어갈 수 있었고, 약 170~180대이던 설치 기반은 그 뒤 대략 두 배로 늘었다."
+                "x": "Wesleyan Media Project의 새 자료에 따르면, 2026년 중간선거를 앞두고 정치 캠프와 단체들은 적어도 일부를 AI 도구로 만든 광고를 내보내는 데 $137 million(1억3,700만 달러) 넘게 썼다. 2024년 선거 주기에 이 단체가 확인한 같은 종류의 지출은 $50,000 미만이었다."
               },
               {
                 "t": "p",
-                "x": "보고서는 미국이 mid-2030s까지 연간 십억 개 안팎의 H100-equivalent(H100 환산) 칩을 생산할 수 있는 반면, 지금 DUV 액침 장비 수출을 막으면 중국의 자체 생산량은 연간 천만 개 수준에 묶일 가능성이 크다고 전망한다. Khan은 의회가 DUV 통제 가능성을 담은 MATCH Act를 논의하는 가운데, 이것이 US-China AI 격차를 좌우할 가장 중요한 지렛대일 수 있다고 말한다."
+                "x": "연구진은 올해 34개 주에서 AI로 만든 정치 광고 220건을 확인했다. 실제 수는 이보다 많을 가능성이 높고, 정치 광고에 AI 사용 고지를 요구하는 주는 30곳뿐이다. 고지 문구를 넣은 광고는 27%에 그쳤다."
+              },
+              {
+                "t": "p",
+                "x": "확인된 광고의 81%와 지출의 88%는 공화당 후보와 단체가 차지했고, 민주당이 후원한 광고는 12%였다. 절반 가까이는 실제 정치인을 딥페이크로 묘사했다."
+              },
+              {
+                "t": "p",
+                "x": "8월 뉴욕주 민주당은 공화당 주지사 후보 Bruce Blakeman 캠프가 AI 고지법을 어겼다며 주 선거관리위원회에 진정을 냈다. Blakeman 캠프는 풍자 광고에는 고지가 필요 없다고 주장한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Saif Khan氏が説く\nDUV輸出規制論",
-          "body": "Khan氏は、DUV液浸装置の輸出停止で中国のAIチップ生産を抑えられると主張する。",
-          "mini_headline": "DUV規制を推す論拠",
+          "headline": "AI中間選挙広告に$137M\n開示表示は27%のみ",
+          "body": "34州のAI-assisted広告は220本、AI開示を義務付ける州は30だ。",
+          "mini_headline": "開示なきAI広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ChinaTalkのポッドキャストで、元NSC・商務省高官で、IFP-affiliated（IFP系）シンクタンクCenter for Technology and Statecraft（CTS）を立ち上げるSaif Khan氏が、CTS初の主要報告書について語る。シニアフェローのNick Brown氏が主導した同報告書は、DUV液浸リソグラフィーを掘り下げたものだ。"
-              },
-              {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
-                "cap": ""
+                "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+                "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Khan氏によれば、これらの装置を製造するのは日本とオランダだけで、Huaweiは最先端の7nmチップにこれを使っている。中国が商用の国産装置を持てるのはmid-2030sになるとみられる。2023年の規制後も、一部の旧世代のDUV液浸装置は中国に入り続け、約170～180台だった設置台数はその後おおむね倍増した。"
+                "x": "Wesleyan Media Projectの新たなデータによると、2026年の中間選挙を前に、政治陣営や団体は少なくとも一部をAIツールで制作した広告の放映に1億3700万ドル($137 million)超を費やした。2024年の選挙サイクルで同団体が確認したこうした支出は$50,000未満だった。"
               },
               {
                 "t": "p",
-                "x": "報告書は、米国がmid-2030sまでに年間十億個規模のH100-equivalent（H100換算）チップを生産できる可能性がある一方、今DUV液浸装置の輸出を止めれば、中国の国産生産量は年間一千万個程度に抑えられる可能性が高いと予測する。Khan氏は、議会がDUV規制の可能性を含むMATCH Actを審議する中、これがUS-China間のAI格差を左右する最も重要なてこになり得ると述べる。"
+                "x": "研究者らは今年、34州でAIを使って制作された政治広告220本を確認した。実際の数はさらに多い可能性が高く、政治広告にAIの開示を義務付けている州は30にとどまる。開示文を入れた広告は27%にすぎなかった。"
+              },
+              {
+                "t": "p",
+                "x": "確認された広告の81%、支出の88%を共和党の候補者や団体が占め、民主党が出した広告は12%だった。半数近くが実在の政治家をディープフェイクで描いている。"
+              },
+              {
+                "t": "p",
+                "x": "8月にはニューヨーク州民主党が、共和党の州知事候補Bruce Blakeman氏の陣営がAI開示法に違反したとして州選挙管理委員会に申し立てた。同陣営は、風刺広告に開示は不要だと主張している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Saif Khan力主\nDUV出口管制",
-          "body": "前NSC官员Saif Khan认为，停止出口DUV浸没式设备可能限制中国AI芯片产量。",
-          "mini_headline": "DUV管制的理由",
+          "headline": "AI中期选举广告达$137M\n仅27%附有免责声明",
+          "body": "Wesleyan统计34州共220则AI-assisted选举广告，30州要求AI披露。",
+          "mini_headline": "AI广告缺少免责声明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "在ChinaTalk播客中，前NSC及商务部官员Saif Khan——他正在创办IFP-affiliated（隶属IFP）的智库Center for Technology and Statecraft（CTS）——介绍了CTS的首份重要报告。这份由高级研究员Nick Brown牵头的报告深入剖析了DUV浸没式光刻。"
-              },
-              {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
-                "cap": ""
+                "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+                "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Khan表示，日本和荷兰是这类设备仅有的生产国，Huawei用它们制造最先进的7nm芯片，而中国在mid-2030s之前恐怕难以拥有商用国产设备。2023年的管制措施仍允许部分较不先进的DUV浸没式设备进入中国；此后，约170至180台的装机量已大致翻了一番。"
+                "x": "根据Wesleyan Media Project的最新数据，2026年中期选举前，政治竞选团队和团体已花费超过1.37亿美元（$137 million）投放至少部分由AI工具制作的广告。在2024年选举周期，该机构发现的此类支出不足$50,000。"
               },
               {
                 "t": "p",
-                "x": "报告预测，到mid-2030s，美国每年或可生产约十亿颗H100-equivalent（H100当量）芯片，而若现在停止DUV浸没式设备出口，中国的自主产量很可能被限制在每年一千万颗左右。Khan称，这可能是影响US-China AI差距最关键的杠杆；目前国会正在讨论包含潜在DUV管制内容的MATCH Act。"
+                "x": "研究人员今年在34个州发现了220则用AI制作的政治广告；实际数量可能更多，而只有30个州要求政治广告披露AI使用情况。仅27%的广告附有免责声明。"
+              },
+              {
+                "t": "p",
+                "x": "在已发现的广告中，共和党候选人和团体占81%，支出占88%；民主党赞助的广告占12%。近一半广告含有对真实政治人物的深度伪造描绘。"
+              },
+              {
+                "t": "p",
+                "x": "8月，纽约州民主党向该州选举委员会投诉，指控共和党州长候选人Bruce Blakeman的竞选团队违反AI披露法；其竞选团队则认为讽刺广告无需披露。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Saif Khan defiende controlar\nlas exportaciones de DUV",
-          "body": "Saif Khan sostiene que frenar las exportaciones de equipos DUV podría limitar la producción china de chips de IA.",
-          "mini_headline": "Argumentos para controlar el DUV",
+          "headline": "$137M en anuncios electorales\ncon AI; solo el 27% lo avisa",
+          "body": "El Wesleyan Media Project contó 220 anuncios electorales AI-assisted en 34 estados, y 30 estados exigen aviso de AI.",
+          "mini_headline": "Anuncios con AI sin aviso",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "En el pódcast ChinaTalk, Saif Khan —exfuncionario del NSC y del Departamento de Comercio que ahora lanza el Center for Technology and Statecraft (CTS), un think tank IFP-affiliated (afiliado al IFP)— analiza el primer gran informe del CTS, un estudio a fondo sobre la litografía DUV de inmersión dirigido por el investigador sénior Nick Brown."
-              },
-              {
                 "t": "img",
-                "src": "https://substackcdn.com/image/fetch/$s_!LECo!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
-                "cap": ""
+                "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+                "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
               },
               {
                 "t": "p",
-                "x": "Khan afirma que Japón y los Países Bajos son los únicos fabricantes de estas herramientas, que Huawei utiliza para sus chips más avanzados de 7nm, y que probablemente China no tendrá una herramienta comercial propia hasta mediados de los años treinta (mid-2030s). Los controles de 2023 aún permiten la entrada en China de algunas herramientas DUV de inmersión menos avanzadas; la base instalada, de unas 170–180 herramientas, se ha duplicado aproximadamente desde entonces."
+                "x": "Las campañas y los grupos políticos han gastado más de $137 millones en emitir anuncios creados al menos en parte con herramientas de AI de cara a las elecciones de mitad de mandato de 2026, según nuevos datos del Wesleyan Media Project. En el ciclo de 2024, el grupo identificó menos de $50,000 en este tipo de gasto."
               },
               {
                 "t": "p",
-                "x": "El informe proyecta que Estados Unidos podría producir del orden de mil millones de chips H100-equivalent (equivalentes a H100) al año hacia mediados de los años treinta (mid-2030s), mientras que detener hoy las exportaciones de DUV de inmersión probablemente limitaría la producción propia de China a unos diez millones al año. Khan lo considera posiblemente la palanca más decisiva sobre la brecha de IA US-China, mientras el Congreso debate la MATCH Act, que incluye posibles controles al DUV."
+                "x": "Los investigadores identificaron este año 220 anuncios políticos creados con AI en 34 estados; la cifra real probablemente es mayor, y solo 30 estados exigen revelar el uso de AI en los anuncios políticos. Apenas el 27% de los anuncios incluía un aviso."
+              },
+              {
+                "t": "p",
+                "x": "Los candidatos y grupos republicanos representaron el 81% de los anuncios identificados y el 88% del gasto; los demócratas patrocinaron el 12% de los anuncios. Casi la mitad muestra deepfakes de políticos reales."
+              },
+              {
+                "t": "p",
+                "x": "En agosto, el Partido Demócrata del estado de Nueva York presentó una queja ante la Junta Electoral del estado en la que acusa a la campaña del candidato republicano a gobernador Bruce Blakeman de violar una ley de divulgación sobre AI; su campaña sostiene que los anuncios satíricos no requieren divulgación."
               }
             ]
           }
@@ -975,15 +1251,15 @@
       }
     },
     {
-      "id": "politics-ai-optimists",
+      "id": "politics-china-ai-export-catalogue",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "서구가 해외 AI\n낙관론에서 배울 점",
-      "body": "Arora는 에세이에서 남반구의 필요에서 나온 AI 열기를 서구의 불안과 견준다.",
-      "mini_headline": "서구와 AI 낙관론자들",
+      "headline": "중국, AI 모델·칩 설계\n수출 통제 초안 마련",
+      "body": "중국 초안은 모델 가중치부터 AI 칩 설계까지 AI 기술 23개를 수출 통제한다.",
+      "mini_headline": "중국, AI 수출 통제 검토",
       "tool": "Politics",
-      "source": "Rest of World",
-      "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/",
+      "source": "The Next Web",
+      "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
       "accent": "#ff5a4d",
       "motif": "cube",
       "full": {
@@ -991,157 +1267,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
-            "cap": "Rest of World/iStock"
+            "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
           },
           {
             "t": "p",
-            "x": "Payal Arora는 Rest of World의 Ideas 에세이에서 서구에서는 AI를 향한 두려움이 비관주의를 문화적 미덕으로 만드는 데 한몫했다고 주장한다. 그는 위트레흐트대학교에서 Inclusive AI Cultures 석좌를 맡고 있다."
+            "x": "중국 상무부와 과학기술부가 대규모 언어 모델과 AI 에이전트부터 칩 설계, 컴퓨팅 클러스터까지 AI 기술 23개를 수출 통제 목록에 올리는 초안을 내놓았다. 전체 계획은 40개 항목을 다루며 의견은 11월 15일까지 받는다."
           },
           {
             "t": "p",
-            "x": "2025년 Pew 조사에서 향후 20년 동안 AI가 나라에 긍정적 영향을 줄 것으로 본 미국(U.S.) 성인은 17%뿐이었다. Stanford의 2025 AI Index에서 AI 제품의 이점이 단점보다 크다고 답한 비율은 중국 83%, 인도네시아 80%, 태국 77%였다. 미국은 39%, 네덜란드는 36%에 머물렀다."
+            "x": "Bloomberg 보도에 따르면 대형 모델은 매개변수가 최소 2조 개이거나 성능·안전성 등 시험에서 세계 상위 10위 안에 들면 가중치와 소스 코드 같은 핵심 부분이 규제 대상이 된다. 14나노미터 이하 공정이나 2.5D 또는 3D 적층 방식으로 만든 AI 칩의 설계 노하우도 제한된다."
           },
           {
             "t": "p",
-            "x": "Arora는 글로벌 사우스 곳곳의 젊은 사용자, 중국의 AI-made(AI로 만든) 마이크로 드라마, India Stack을 예로 든다. 시장 점유율보다 구체적인 필요를 중심에 두고 만든 기술이라는 것이다. “서구는 AI가 우리에게 무엇을 할지 세계에 경고하고 있다. 이제는 나머지 세계가 우리에게 AI로 무엇을 하라고 가르쳐 줄 수 있을지 물어볼 때인지도 모른다.”"
+            "x": "오픈소스(Open-source) 코드와 공개된 연구는 예외다. 중국 기업은 앱, 웹사이트, APIs로 해외 이용자에게 계속 서비스할 수 있다. 부처 대변인은 이 규정이 “오용과 남용을 막고” “AI가 인간의 통제 아래 있도록 하려는” 것이라며 특정 국가나 기업을 겨냥하지 않는다고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "이미 시행된 임시 규정에 따라 기업은 이제 목록에 오른 품목을 수출하려면 먼저 등록해야 한다."
           }
         ]
       },
-      "_lead_image": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "What the West can learn\nfrom AI optimists abroad",
-          "body": "In a Rest of World essay, Payal Arora contrasts necessity-driven AI enthusiasm in the Global South with Western anxiety.",
-          "mini_headline": "The West and AI optimists",
+          "headline": "China drafts export controls\non AI models and chip designs",
+          "body": "China's draft catalogue would put 23 AI technologies under export control, from model weights to AI chip designs.",
+          "mini_headline": "China eyes AI export controls",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
-                "cap": "Rest of World/iStock"
+                "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
               },
               {
                 "t": "p",
-                "x": "In an Ideas essay for Rest of World, Payal Arora, chair in Inclusive AI Cultures at Utrecht University, argues that in the West, fear of AI has helped turn pessimism into a cultural virtue."
+                "x": "China's commerce and science ministries have put out a draft proposal to add 23 AI technologies, from large language models and AI agents to chip designs and computing clusters, to the country's export control list. The plan covers 40 items in total, and the public can comment until 15 November."
               },
               {
                 "t": "p",
-                "x": "Only 17% of U.S. adults think AI will have a positive impact on the country over the next 20 years, per a 2025 Pew survey. Stanford’s 2025 AI Index found 83% in China, 80% in Indonesia and 77% in Thailand said AI products offer more benefits than drawbacks, versus 39% in the U.S. and 36% in the Netherlands."
+                "x": "For large models, the curbs would cover weights, source code and other core parts of models with at least 2 trillion parameters, or that rank in the world's top 10 on tests such as performance and safety, Bloomberg reported. The draft would also limit design know-how for AI chips made at 14 nanometres or below, or built by 2.5D or 3D stacking."
               },
               {
                 "t": "p",
-                "x": "Arora points to young users across the Global South, AI-made micro-dramas in China, and India Stack as examples of technology built around concrete needs rather than market share. “The West is warning the world about what AI might do to us. Perhaps it is time to ask what the rest of the world might teach us to do with it.”"
+                "x": "Open-source code and published research would be exempt, and Chinese firms could keep serving users abroad through apps, websites and APIs. A ministry spokesperson said the rules aim to “prevent misuse and abuse” and “ensure that AI remains under human control,” adding the plan does not target any country or firm."
+              },
+              {
+                "t": "p",
+                "x": "Firms must now register before exporting any listed item, under a temporary rule that has already taken effect."
               }
             ]
           }
         },
         "ko": {
-          "headline": "서구가 해외 AI\n낙관론에서 배울 점",
-          "body": "Arora는 에세이에서 남반구의 필요에서 나온 AI 열기를 서구의 불안과 견준다.",
-          "mini_headline": "서구와 AI 낙관론자들",
+          "headline": "중국, AI 모델·칩 설계\n수출 통제 초안 마련",
+          "body": "중국 초안은 모델 가중치부터 AI 칩 설계까지 AI 기술 23개를 수출 통제한다.",
+          "mini_headline": "중국, AI 수출 통제 검토",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
-                "cap": "Rest of World/iStock"
+                "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
               },
               {
                 "t": "p",
-                "x": "Payal Arora는 Rest of World의 Ideas 에세이에서 서구에서는 AI를 향한 두려움이 비관주의를 문화적 미덕으로 만드는 데 한몫했다고 주장한다. 그는 위트레흐트대학교에서 Inclusive AI Cultures 석좌를 맡고 있다."
+                "x": "중국 상무부와 과학기술부가 대규모 언어 모델과 AI 에이전트부터 칩 설계, 컴퓨팅 클러스터까지 AI 기술 23개를 수출 통제 목록에 올리는 초안을 내놓았다. 전체 계획은 40개 항목을 다루며 의견은 11월 15일까지 받는다."
               },
               {
                 "t": "p",
-                "x": "2025년 Pew 조사에서 향후 20년 동안 AI가 나라에 긍정적 영향을 줄 것으로 본 미국(U.S.) 성인은 17%뿐이었다. Stanford의 2025 AI Index에서 AI 제품의 이점이 단점보다 크다고 답한 비율은 중국 83%, 인도네시아 80%, 태국 77%였다. 미국은 39%, 네덜란드는 36%에 머물렀다."
+                "x": "Bloomberg 보도에 따르면 대형 모델은 매개변수가 최소 2조 개이거나 성능·안전성 등 시험에서 세계 상위 10위 안에 들면 가중치와 소스 코드 같은 핵심 부분이 규제 대상이 된다. 14나노미터 이하 공정이나 2.5D 또는 3D 적층 방식으로 만든 AI 칩의 설계 노하우도 제한된다."
               },
               {
                 "t": "p",
-                "x": "Arora는 글로벌 사우스 곳곳의 젊은 사용자, 중국의 AI-made(AI로 만든) 마이크로 드라마, India Stack을 예로 든다. 시장 점유율보다 구체적인 필요를 중심에 두고 만든 기술이라는 것이다. “서구는 AI가 우리에게 무엇을 할지 세계에 경고하고 있다. 이제는 나머지 세계가 우리에게 AI로 무엇을 하라고 가르쳐 줄 수 있을지 물어볼 때인지도 모른다.”"
+                "x": "오픈소스(Open-source) 코드와 공개된 연구는 예외다. 중국 기업은 앱, 웹사이트, APIs로 해외 이용자에게 계속 서비스할 수 있다. 부처 대변인은 이 규정이 “오용과 남용을 막고” “AI가 인간의 통제 아래 있도록 하려는” 것이라며 특정 국가나 기업을 겨냥하지 않는다고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "이미 시행된 임시 규정에 따라 기업은 이제 목록에 오른 품목을 수출하려면 먼저 등록해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "西側が海外のAI\n楽観派に学ぶこと",
-          "body": "Arora氏はエッセイで、グローバルサウスの必要に根ざすAI熱を西側の不安と対比する。",
-          "mini_headline": "西側とAI楽観派",
+          "headline": "中国、AIモデルと\nチップ設計に輸出規制案",
+          "body": "中国の規制案は、モデルの重みからAIチップ設計まで、AI技術23項目を輸出管理下に置く。",
+          "mini_headline": "中国、AI輸出規制を検討",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
-                "cap": "Rest of World/iStock"
+                "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
               },
               {
                 "t": "p",
-                "x": "ユトレヒト大学でInclusive AI Culturesのチェアを務めるPayal Arora氏は、Rest of WorldのIdeasエッセイで、西側ではAIへの恐れが悲観主義を文化的な美徳に変える一因になったと論じる。"
+                "x": "中国の商務省と科学技術省は、大規模言語モデルやAIエージェントからチップ設計、計算クラスターまで、23のAI技術を輸出管理リストに加える草案を公表した。計画は計40項目を対象とし、11月15日まで意見を受け付ける。"
               },
               {
                 "t": "p",
-                "x": "2025年のPew調査によると、今後20年でAIが国に良い影響を与えると考える米国（U.S.）の成人はわずか17%だ。Stanfordの2025 AI Indexでは、AI製品は欠点より利点が大きいと答えた人が中国で83%、インドネシアで80%、タイで77%だったのに対し、米国では39%、オランダでは36%だった。"
+                "x": "Bloombergによると、大規模モデルについては、パラメーター数が2兆以上、または性能や安全性などのテストで世界上位10に入るモデルの重み、ソースコードなどの中核部分が規制対象となる。草案は、14ナノメートル以下で製造される、または2.5Dや3Dの積層技術で作られるAIチップの設計ノウハウも制限する。"
               },
               {
                 "t": "p",
-                "x": "Arora氏は、グローバルサウス各地の若いユーザー、中国のAI-made（AI製）マイクロドラマ、India Stackを、市場シェアではなく具体的なニーズを軸に作られた技術の例として挙げる。「西側は、AIが私たちに何をしうるかを世界に警告している。そろそろ、残りの世界がAIで何をすべきかを私たちに教えてくれるのではないかと問うべき時なのかもしれない」"
+                "x": "オープンソース(Open-source)のコードと公開済みの研究は対象外で、中国企業はアプリやウェブサイト、APIsを通じて海外ユーザーへのサービスを続けられる。省の報道官は、規則の狙いは「誤用と乱用を防ぐ」ことと「AIが人間の管理下にとどまるようにする」ことだと述べ、計画は特定の国や企業を標的にしたものではないと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "すでに施行された暫定規則により、企業はリスト掲載品目を輸出する前に登録しなければならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "西方能从海外AI\n乐观者身上学什么",
-          "body": "Payal Arora撰文，将全球南方出于需要的AI热情与西方的焦虑相对照。",
-          "mini_headline": "西方与AI乐观者",
+          "headline": "中国拟对AI模型和\n芯片设计实施出口管制",
+          "body": "中国的管制目录草案拟将从模型权重到AI芯片设计的23项AI技术纳入出口管制。",
+          "mini_headline": "中国拟管制AI出口",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
-                "cap": "Rest of World/iStock"
+                "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
               },
               {
                 "t": "p",
-                "x": "乌得勒支大学Inclusive AI Cultures讲席教授Payal Arora在为Rest of World撰写的Ideas文章中认为，在西方，对AI的恐惧助推悲观主义成为一种文化美德。"
+                "x": "中国商务部和科技部发布征求意见稿，拟将从大语言模型、AI智能体到芯片设计和算力集群在内的23项AI技术纳入出口管制清单。该方案共涉及40个条目，公众可在11月15日前提出意见。"
               },
               {
                 "t": "p",
-                "x": "根据Pew 2025年的一项调查，只有17%的美国（U.S.）成年人认为AI将在未来20年对国家产生积极影响。Stanford的2025 AI Index发现，中国83%、印度尼西亚80%、泰国77%的受访者认为AI产品利大于弊，而美国和荷兰分别为39%和36%。"
+                "x": "据Bloomberg报道，对于大模型，管制将覆盖参数至少2万亿、或在性能和安全等测试中位列全球前10的模型的权重、源代码等核心部分。草案还将限制14纳米及以下制程、或采用2.5D或3D堆叠技术制造的AI芯片的设计技术诀窍。"
               },
               {
                 "t": "p",
-                "x": "Arora以全球南方各地的年轻用户、中国的AI-made（AI制作）微短剧以及India Stack为例，说明这些技术是围绕具体需求而非市场份额打造的。“西方正在警告世界AI可能对我们做什么。或许是时候问问，世界其他地方能教会我们用它做什么。”"
+                "x": "开源（Open-source）代码和已发表的研究不受限制，中国企业仍可通过应用、网站和APIs为海外用户提供服务。一名部委发言人表示，相关规定旨在“防止误用和滥用”，并“确保AI始终处于人类控制之下”，还称该方案不针对任何国家或企业。"
+              },
+              {
+                "t": "p",
+                "x": "根据一项已生效的临时规定，企业现在出口任何清单内物项前都须先进行登记。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lo que Occidente puede aprender\nde los optimistas de IA de fuera",
-          "body": "En un ensayo, Arora opone el entusiasmo por la IA del Sur Global, nacido de la necesidad, a la ansiedad occidental.",
-          "mini_headline": "Occidente y los optimistas de la IA",
+          "headline": "China propone controlar la\nexportación de AI y chips",
+          "body": "El borrador de China controlaría la exportación de 23 tecnologías de AI, de pesos de modelos a diseños de chips de AI.",
+          "mini_headline": "China estudia controlar la exportación de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
-                "cap": "Rest of World/iStock"
+                "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
               },
               {
                 "t": "p",
-                "x": "En un ensayo de la sección Ideas de Rest of World, Payal Arora, titular de la cátedra de Inclusive AI Cultures en la Universidad de Utrecht, sostiene que en Occidente el miedo a la IA ha contribuido a convertir el pesimismo en una virtud cultural."
+                "x": "Los ministerios de Comercio y de Ciencia de China publicaron un borrador para añadir 23 tecnologías de AI, desde grandes modelos de lenguaje y agentes de AI hasta diseños de chips y clústeres de cómputo, a la lista de control de exportaciones del país. El plan abarca 40 elementos en total y el público puede enviar comentarios hasta el 15 de noviembre."
               },
               {
                 "t": "p",
-                "x": "Solo el 17% de los adultos de Estados Unidos (U.S.) cree que la IA tendrá un impacto positivo en el país en los próximos 20 años, según una encuesta de Pew de 2025. El AI Index 2025 de Stanford halló que el 83% en China, el 80% en Indonesia y el 77% en Tailandia dijo que los productos de IA ofrecen más beneficios que inconvenientes, frente al 39% en EE. UU. y el 36% en los Países Bajos."
+                "x": "En el caso de los grandes modelos, las restricciones abarcarían los pesos, el código fuente y otras partes esenciales de los modelos con al menos 2 billones de parámetros, o que figuren entre los 10 mejores del mundo en pruebas como rendimiento y seguridad, informó Bloomberg. El borrador también limitaría el conocimiento de diseño de chips de AI fabricados a 14 nanómetros o menos, o construidos mediante apilamiento 2.5D o 3D."
               },
               {
                 "t": "p",
-                "x": "Arora señala a los jóvenes usuarios de todo el Sur Global, los microdramas AI-made (hechos con IA) de China e India Stack como ejemplos de tecnología construida en torno a necesidades concretas y no a la cuota de mercado. «Occidente está advirtiendo al mundo sobre lo que la IA podría hacernos. Quizá sea hora de preguntar qué podría enseñarnos el resto del mundo a hacer con ella»."
+                "x": "El código Open-source y la investigación publicada quedarían exentos, y las empresas chinas podrían seguir atendiendo a usuarios en el extranjero mediante apps, sitios web y APIs. Un portavoz del ministerio dijo que las normas buscan “prevenir el mal uso y el abuso” y “garantizar que la AI siga bajo control humano”, y añadió que el plan no está dirigido contra ningún país ni empresa."
+              },
+              {
+                "t": "p",
+                "x": "Las empresas ya deben registrarse antes de exportar cualquier elemento de la lista, en virtud de una norma temporal que ya entró en vigor."
               }
             ]
           }
@@ -1149,109 +1441,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "서구가 해외 AI\n낙관론에서 배울 점",
-          "body": "Arora는 에세이에서 남반구의 필요 기반 AI 열기를 서구의 불안과 대비한다.",
-          "mini_headline": "서구와 AI 낙관론자들",
+          "headline": "중국, AI 모델·칩 설계\n수출 통제 초안 마련",
+          "body": "중국 초안은 모델 가중치부터 AI 칩 설계까지 AI 기술 23개를 수출 통제한다.",
+          "mini_headline": "중국, AI 수출 통제 검토",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
-                "cap": "Rest of World/iStock"
+                "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
               },
               {
                 "t": "p",
-                "x": "위트레흐트대학교에서 Inclusive AI Cultures 석좌를 맡고 있는 Payal Arora는 Rest of World의 Ideas 에세이에서, 서구에서는 AI에 대한 두려움이 비관주의를 문화적 미덕으로 만드는 데 한몫했다고 주장한다."
+                "x": "중국 상무부와 과학기술부는 대규모 언어 모델과 AI 에이전트부터 칩 설계와 컴퓨팅 클러스터까지 AI 기술 23개를 수출 통제 목록에 추가하는 초안을 내놓았다. 계획은 모두 40개 항목을 다루며, 11월 15일까지 의견을 받는다."
               },
               {
                 "t": "p",
-                "x": "2025년 Pew 조사에 따르면 향후 20년 동안 AI가 나라에 긍정적 영향을 줄 것이라고 보는 미국(U.S.) 성인은 17%에 그친다. Stanford의 2025 AI Index에서는 AI 제품의 이점이 단점보다 크다는 응답이 중국 83%, 인도네시아 80%, 태국 77%였던 반면, 미국은 39%, 네덜란드는 36%였다."
+                "x": "Bloomberg 보도에 따르면 대형 모델의 경우 매개변수가 최소 2조 개이거나 성능·안전성 등 시험에서 세계 상위 10위 안에 드는 모델의 가중치, 소스 코드 등 핵심 부분이 규제 대상이다. 초안은 14나노미터 이하 공정이나 2.5D 또는 3D 적층 방식으로 만든 AI 칩의 설계 노하우도 제한한다."
               },
               {
                 "t": "p",
-                "x": "Arora는 글로벌 사우스 곳곳의 젊은 사용자, 중국의 AI-made(AI로 만든) 마이크로 드라마, India Stack을 시장 점유율보다 구체적인 필요를 중심으로 만들어진 기술의 사례로 든다. “서구는 AI가 우리에게 무엇을 할지 세계에 경고하고 있다. 이제는 나머지 세계가 우리에게 AI로 무엇을 하라고 가르쳐 줄 수 있을지 물어볼 때인지도 모른다.”"
+                "x": "오픈소스(Open-source) 코드와 공개된 연구는 예외이며, 중국 기업은 앱, 웹사이트, APIs를 통해 해외 이용자에게 계속 서비스할 수 있다. 부처 대변인은 이 규정이 “오용과 남용을 막고” “AI가 인간의 통제 아래 있도록 하려는” 것이라며, 특정 국가나 기업을 겨냥하지 않는다고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "이미 시행된 임시 규정에 따라 기업은 이제 목록에 오른 품목을 수출하기 전에 등록해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "西側が海外のAI\n楽観派に学ぶこと",
-          "body": "Arora氏はエッセイで、グローバルサウスの必要に根ざすAI熱を西側の不安と対比する。",
-          "mini_headline": "西側とAI楽観派",
+          "headline": "中国、AIモデルと\nチップ設計に輸出規制案",
+          "body": "中国の規制案は、モデルの重みからAIチップ設計まで、AI技術23項目を輸出管理下に置く。",
+          "mini_headline": "中国、AI輸出規制を検討",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
-                "cap": "Rest of World/iStock"
+                "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
               },
               {
                 "t": "p",
-                "x": "ユトレヒト大学でInclusive AI Culturesのチェアを務めるPayal Arora氏は、Rest of WorldのIdeasエッセイで、西側ではAIへの恐れが悲観主義を文化的な美徳に変える一因になったと論じる。"
+                "x": "中国の商務省と科学技術省は、大規模言語モデルやAIエージェントからチップ設計、計算クラスターまで、23のAI技術を輸出管理リストに加える草案を公表した。計画は計40項目を対象とし、11月15日まで意見を受け付ける。"
               },
               {
                 "t": "p",
-                "x": "2025年のPew調査によると、今後20年でAIが国に良い影響を与えると考える米国（U.S.）の成人はわずか17%だ。Stanfordの2025 AI Indexでは、AI製品は欠点より利点が大きいと答えた人が中国で83%、インドネシアで80%、タイで77%だったのに対し、米国では39%、オランダでは36%だった。"
+                "x": "Bloombergによると、大規模モデルについては、パラメーター数が2兆以上、または性能や安全性などのテストで世界上位10に入るモデルの重み、ソースコードなどの中核部分が規制対象となる。草案は、14ナノメートル以下で製造される、または2.5Dや3Dの積層技術で作られるAIチップの設計ノウハウも制限する。"
               },
               {
                 "t": "p",
-                "x": "Arora氏は、グローバルサウス各地の若いユーザー、中国のAI-made（AI製）マイクロドラマ、India Stackを、市場シェアではなく具体的なニーズを軸に作られた技術の例として挙げる。「西側は、AIが私たちに何をしうるかを世界に警告している。そろそろ、残りの世界がAIで何をすべきかを私たちに教えてくれるのではないかと問うべき時なのかもしれない」"
+                "x": "オープンソース(Open-source)のコードと公開済みの研究は対象外で、中国企業はアプリやウェブサイト、APIsを通じて海外ユーザーへのサービスを続けられる。省の報道官は、規則の狙いは「誤用と乱用を防ぐ」ことと「AIが人間の管理下にとどまるようにする」ことだと述べ、計画は特定の国や企業を標的にしたものではないと付け加えた。"
+              },
+              {
+                "t": "p",
+                "x": "すでに施行された暫定規則により、企業はリスト掲載品目を輸出する前に登録しなければならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "西方能从海外AI\n乐观者身上学什么",
-          "body": "Payal Arora撰文，将全球南方出于需要的AI热情与西方的焦虑相对照。",
-          "mini_headline": "西方与AI乐观者",
+          "headline": "中国拟对AI模型和\n芯片设计实施出口管制",
+          "body": "中国的管制目录草案拟将从模型权重到AI芯片设计的23项AI技术纳入出口管制。",
+          "mini_headline": "中国拟管制AI出口",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
-                "cap": "Rest of World/iStock"
+                "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
               },
               {
                 "t": "p",
-                "x": "乌得勒支大学Inclusive AI Cultures讲席教授Payal Arora在为Rest of World撰写的Ideas文章中认为，在西方，对AI的恐惧助推悲观主义成为一种文化美德。"
+                "x": "中国商务部和科技部发布征求意见稿，拟将从大语言模型、AI智能体到芯片设计和算力集群在内的23项AI技术纳入出口管制清单。该方案共涉及40个条目，公众可在11月15日前提出意见。"
               },
               {
                 "t": "p",
-                "x": "根据Pew 2025年的一项调查，只有17%的美国（U.S.）成年人认为AI将在未来20年对国家产生积极影响。Stanford的2025 AI Index发现，中国83%、印度尼西亚80%、泰国77%的受访者认为AI产品利大于弊，而美国和荷兰分别为39%和36%。"
+                "x": "据Bloomberg报道，对于大模型，管制将覆盖参数至少2万亿、或在性能和安全等测试中位列全球前10的模型的权重、源代码等核心部分。草案还将限制14纳米及以下制程、或采用2.5D或3D堆叠技术制造的AI芯片的设计技术诀窍。"
               },
               {
                 "t": "p",
-                "x": "Arora以全球南方各地的年轻用户、中国的AI-made（AI制作）微短剧以及India Stack为例，说明这些技术是围绕具体需求而非市场份额打造的。“西方正在警告世界AI可能对我们做什么。或许是时候问问，世界其他地方能教会我们用它做什么。”"
+                "x": "开源（Open-source）代码和已发表的研究不受限制，中国企业仍可通过应用、网站和APIs为海外用户提供服务。一名部委发言人表示，相关规定旨在“防止误用和滥用”，并“确保AI始终处于人类控制之下”，还称该方案不针对任何国家或企业。"
+              },
+              {
+                "t": "p",
+                "x": "根据一项已生效的临时规定，企业现在出口任何清单内物项前都须先进行登记。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lo que Occidente puede aprender\nde los optimistas de IA de fuera",
-          "body": "En un ensayo, Arora opone el entusiasmo por la IA del Sur Global, nacido de la necesidad, a la ansiedad occidental.",
-          "mini_headline": "Occidente y los optimistas de la IA",
+          "headline": "China propone controlar la\nexportación de AI y chips",
+          "body": "El borrador de China controlaría la exportación de 23 tecnologías de AI, de pesos de modelos a diseños de chips de AI.",
+          "mini_headline": "China estudia controlar la exportación de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
-                "cap": "Rest of World/iStock"
+                "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
               },
               {
                 "t": "p",
-                "x": "En un ensayo de la sección Ideas de Rest of World, Payal Arora, titular de la cátedra de Inclusive AI Cultures en la Universidad de Utrecht, sostiene que en Occidente el miedo a la IA ha contribuido a convertir el pesimismo en una virtud cultural."
+                "x": "Los ministerios de Comercio y de Ciencia de China publicaron un borrador para añadir 23 tecnologías de AI, desde grandes modelos de lenguaje y agentes de AI hasta diseños de chips y clústeres de cómputo, a la lista de control de exportaciones del país. El plan abarca 40 elementos en total y el público puede enviar comentarios hasta el 15 de noviembre."
               },
               {
                 "t": "p",
-                "x": "Solo el 17% de los adultos de Estados Unidos (U.S.) cree que la IA tendrá un impacto positivo en el país en los próximos 20 años, según una encuesta de Pew de 2025. El AI Index 2025 de Stanford halló que el 83% en China, el 80% en Indonesia y el 77% en Tailandia dijo que los productos de IA ofrecen más beneficios que inconvenientes, frente al 39% en EE. UU. y el 36% en los Países Bajos."
+                "x": "En el caso de los grandes modelos, las restricciones abarcarían los pesos, el código fuente y otras partes esenciales de los modelos con al menos 2 billones de parámetros, o que figuren entre los 10 mejores del mundo en pruebas como rendimiento y seguridad, informó Bloomberg. El borrador también limitaría el conocimiento de diseño de chips de AI fabricados a 14 nanómetros o menos, o construidos mediante apilamiento 2.5D o 3D."
               },
               {
                 "t": "p",
-                "x": "Arora señala a los jóvenes usuarios de todo el Sur Global, los microdramas AI-made (hechos con IA) de China e India Stack como ejemplos de tecnología construida en torno a necesidades concretas y no a la cuota de mercado. «Occidente está advirtiendo al mundo sobre lo que la IA podría hacernos. Quizá sea hora de preguntar qué podría enseñarnos el resto del mundo a hacer con ella»."
+                "x": "El código Open-source y la investigación publicada quedarían exentos, y las empresas chinas podrían seguir atendiendo a usuarios en el extranjero mediante apps, sitios web y APIs. Un portavoz del ministerio dijo que las normas buscan “prevenir el mal uso y el abuso” y “garantizar que la AI siga bajo control humano”, y añadió que el plan no está dirigido contra ningún país ni empresa."
+              },
+              {
+                "t": "p",
+                "x": "Las empresas ya deben registrarse antes de exportar cualquier elemento de la lista, en virtud de una norma temporal que ya entró en vigor."
               }
             ]
           }

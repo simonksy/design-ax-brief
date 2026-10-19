@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "games",
   "cards": [
     {
-      "id": "games-konami",
+      "id": "games-npctalk-gta5",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Konami, 혁신 게임은\nAI 아닌 사람이 만든다",
-      "body": "Konami는 AI로 제작 효율이 올라가도 혁신 게임의 핵심은 사람이라고 했다.",
-      "mini_headline": "Konami, AI보다 사람에 건다",
+      "headline": "GTA V NPCs와 대화\nNPCTalk AI 모드",
+      "body": "무료 NPCTalk로 GTA V NPCs가 1.15-2.2초 만에 AI로 답한다.",
+      "mini_headline": "GTA V NPCs와 AI 대화",
       "tool": "Games",
-      "source": "Rock Paper Shotgun",
-      "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/gta-v-npcs-can-now-talk-back-in-real-time-with-ai-powered-npctalk-mod-free-release-coming-next-week/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,181 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
-            "cap": "이미지 출처: Rock Paper Shotgun / Konami"
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
           },
           {
             "t": "p",
-            "x": "Dengeki Online이 처음 전하고 Automaton이 번역한 내용에 따르면 Konami Digital Entertainment의 Hideki Hayakawa 사장은 회사 최신 통합 보고서에서 빠르게 발전하는 AI 기술을 두고 생각을 밝혔다."
+            "x": "AI-powered 모딩 툴킷 NPCTalk가 Grand Theft Auto V에 대본 없는 실시간 대화를 들여왔다. 플레이어가 NPCs에게 직접 말을 걸면 원래 목소리를 AI로 복제한(AI-cloned) 음성으로 답이 돌아온다. Universal Modder가 만든 이 오픈소스 프로젝트는 모드를 지원하는 거의 모든 게임에 비슷한 기능을 넣으려 한다."
           },
           {
             "t": "p",
-            "x": "Hayakawa는 생성형 AI가 게임 개발을 더 쉽게 해 준다는 통념과 달리 큰 변화는 없으리라고 봤다. \"범용 게임 엔진의 발전과 UGC(사용자 제작 콘텐츠)의 확산으로 진입 장벽은 이미 낮아졌다\"는 것이다."
+            "x": "마이크로 말을 걸면 캐릭터마다 성격과 주변 상황에 맞춘 답이 나온다. 애니메이션을 취하거나 음성 명령을 따르는 등 NPCs가 몸으로 반응하기도 한다."
           },
           {
             "t": "p",
-            "x": "\"AI 활용이 제작 효율 향상으로 이어지더라도, 재미있고 혁신적인 비디오 게임을 만드는 데 가장 중요한 요소는 사람과 크리에이터라고 생각한다.\" 배경이 다양한 개발자들이 함께 일하며 생기는 \"일종의 화학 반응\"은 \"쉽게 대체할 수 있는 것이 아니다\"라는 말도 덧붙였다."
+            "x": "음성 인식은 NVIDIA의 Nemotron ASR, 대사 생성은 Cerebras에서 돌아가는 Qwen 3.8 27B 모델 몫이다. 음성 복제와 합성은 클라우드의 NVIDIA H100 GPU에서 Fish Audio Drama 3가 맡는다. 프로젝트 문서를 보면 푸시투토크(push-to-talk) 방식에서 플레이어가 말을 마치고 NPC가 입을 열기까지 약 1.15–2.2초가 걸린다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+            "cap": "NPCTalk 아키텍처. 이미지 출처: NPCTalk GitHub 저장소."
           },
           {
             "t": "p",
-            "x": "Konami가 이 기술을 멀리하지는 않는다. 그는 \"Konami는 크리에이터가 새로운 기술을 이해하고, 그 기술이 가져올 수 있는 위험을 제대로 평가하며, 게임 개발에 안전하게 적용할 수 있도록 체계적으로 지원하고 있다\"고 말했다."
+            "x": "NPCTalk는 Claude Code의 도움으로 개발됐고, 그 노하우는 재사용 가능한 AI-agent 스킬로 묶였다. 다만 게임마다 따로 통합 작업을 해야 하고, 시연도 아직 GTA V Legacy 싱글플레이 모드에서만 이뤄졌다. 툴킷은 MIT 라이선스로 GitHub에 올라와 있으며 무료로 즐길 수 있는 GTA V 모드는 다음 주에 나온다."
           }
         ]
       },
-      "_lead_image": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Konami says people, not AI,\nmake innovative games",
-          "body": "Konami says that even if AI boosts production efficiency, people remain the key to making innovative games.",
-          "mini_headline": "Konami bets on people over AI",
+          "headline": "GTA V NPCs now talk back\nwith the NPCTalk AI mod",
+          "body": "The free NPCTalk mod, due next week, gives GTA V NPCs real-time AI conversations with 1.15-2.2 second replies.",
+          "mini_headline": "GTA V NPCs talk back",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
-                "cap": "Image credit: Rock Paper Shotgun / Konami"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
               },
               {
                 "t": "p",
-                "x": "As spotted by Dengeki Online and translated by Automaton, Konami Digital Entertainment president Hideki Hayakawa shared his thoughts on the rapid development of AI technology in the company's latest integrated report."
+                "x": "A new AI-powered modding toolkit called NPCTalk is bringing unscripted, real-time conversations to Grand Theft Auto V, letting players speak directly with NPCs and hear responses in their original, AI-cloned voices. Developed by Universal Modder, the open-source project aims to bring similar functionality to virtually any moddable game."
               },
               {
                 "t": "p",
-                "x": "Hayakawa goes against the widespread belief that generative AI will make game development easier, saying it won't bring a significant change because \"entry barriers have already been lowered by the advancements of generic game engines and the spread of UGC (user generated content).\""
+                "x": "Players speak through their microphone and get contextually appropriate replies reflecting each character's personality and surroundings. NPCs can also react physically, performing animations or following spoken commands."
               },
               {
                 "t": "p",
-                "x": "\"Even if AI use does lead to improvements in production efficiency, I believe that the most important factors in producing entertaining and innovative video games are people and creators.\" The \"kind of chemical reaction\" that comes from developers with a range of backgrounds working together is \"not something that can be easily replaced,\" he added."
+                "x": "NVIDIA's Nemotron ASR handles speech recognition, Qwen 3.8 27B running through Cerebras generates dialogue, and Fish Audio Drama 3 handles voice cloning and speech synthesis on a cloud-based NVIDIA H100 GPU. The project's documentation reports roughly 1.15–2.2 seconds between the player finishing a sentence and the NPC speaking with push-to-talk."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+                "cap": "The NPCTalk architecture. Image source: NPCTalk GitHub repo."
               },
               {
                 "t": "p",
-                "x": "Konami isn't swearing off the technology: \"Konami provides systematic support so that creators can get a grasp of new technologies, properly assess the risks they may bring, and safely apply them to game development,\" he said."
+                "x": "NPCTalk was developed with the assistance of Claude Code, and its knowledge is packaged as reusable AI-agent skills. Each game still needs its own integration, and it has only been shown in GTA V Legacy's single-player mode. The toolkit is on GitHub under the MIT license; a free, playable GTA V mod is due next week."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Konami, 혁신 게임은\nAI 아닌 사람이 만든다",
-          "body": "Konami는 AI로 제작 효율이 올라가도 혁신 게임의 핵심은 사람이라고 했다.",
-          "mini_headline": "Konami, AI보다 사람에 건다",
+          "headline": "GTA V NPCs와 대화\nNPCTalk AI 모드",
+          "body": "무료 NPCTalk로 GTA V NPCs가 1.15-2.2초 만에 AI로 답한다.",
+          "mini_headline": "GTA V NPCs와 AI 대화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
-                "cap": "이미지 출처: Rock Paper Shotgun / Konami"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
               },
               {
                 "t": "p",
-                "x": "Dengeki Online이 처음 전하고 Automaton이 번역한 내용에 따르면 Konami Digital Entertainment의 Hideki Hayakawa 사장은 회사 최신 통합 보고서에서 빠르게 발전하는 AI 기술을 두고 생각을 밝혔다."
+                "x": "AI-powered 모딩 툴킷 NPCTalk가 Grand Theft Auto V에 대본 없는 실시간 대화를 들여왔다. 플레이어가 NPCs에게 직접 말을 걸면 원래 목소리를 AI로 복제한(AI-cloned) 음성으로 답이 돌아온다. Universal Modder가 만든 이 오픈소스 프로젝트는 모드를 지원하는 거의 모든 게임에 비슷한 기능을 넣으려 한다."
               },
               {
                 "t": "p",
-                "x": "Hayakawa는 생성형 AI가 게임 개발을 더 쉽게 해 준다는 통념과 달리 큰 변화는 없으리라고 봤다. \"범용 게임 엔진의 발전과 UGC(사용자 제작 콘텐츠)의 확산으로 진입 장벽은 이미 낮아졌다\"는 것이다."
+                "x": "마이크로 말을 걸면 캐릭터마다 성격과 주변 상황에 맞춘 답이 나온다. 애니메이션을 취하거나 음성 명령을 따르는 등 NPCs가 몸으로 반응하기도 한다."
               },
               {
                 "t": "p",
-                "x": "\"AI 활용이 제작 효율 향상으로 이어지더라도, 재미있고 혁신적인 비디오 게임을 만드는 데 가장 중요한 요소는 사람과 크리에이터라고 생각한다.\" 배경이 다양한 개발자들이 함께 일하며 생기는 \"일종의 화학 반응\"은 \"쉽게 대체할 수 있는 것이 아니다\"라는 말도 덧붙였다."
+                "x": "음성 인식은 NVIDIA의 Nemotron ASR, 대사 생성은 Cerebras에서 돌아가는 Qwen 3.8 27B 모델 몫이다. 음성 복제와 합성은 클라우드의 NVIDIA H100 GPU에서 Fish Audio Drama 3가 맡는다. 프로젝트 문서를 보면 푸시투토크(push-to-talk) 방식에서 플레이어가 말을 마치고 NPC가 입을 열기까지 약 1.15–2.2초가 걸린다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+                "cap": "NPCTalk 아키텍처. 이미지 출처: NPCTalk GitHub 저장소."
               },
               {
                 "t": "p",
-                "x": "Konami가 이 기술을 멀리하지는 않는다. 그는 \"Konami는 크리에이터가 새로운 기술을 이해하고, 그 기술이 가져올 수 있는 위험을 제대로 평가하며, 게임 개발에 안전하게 적용할 수 있도록 체계적으로 지원하고 있다\"고 말했다."
+                "x": "NPCTalk는 Claude Code의 도움으로 개발됐고, 그 노하우는 재사용 가능한 AI-agent 스킬로 묶였다. 다만 게임마다 따로 통합 작업을 해야 하고, 시연도 아직 GTA V Legacy 싱글플레이 모드에서만 이뤄졌다. 툴킷은 MIT 라이선스로 GitHub에 올라와 있으며 무료로 즐길 수 있는 GTA V 모드는 다음 주에 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Konami、革新的ゲームは\nAIでなく人が作ると強調",
-          "body": "KonamiはAIで制作効率が上がっても、革新的なゲームを生む鍵は人だと述べた。",
-          "mini_headline": "Konami、AIより人に賭ける",
+          "headline": "GTA V NPCsが話す\nNPCTalk AI MOD",
+          "body": "無料のNPCTalkにより、GTA V NPCsが1.15-2.2秒でAI応答を返す。",
+          "mini_headline": "GTA V NPCsが話す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
-                "cap": "画像提供：Rock Paper Shotgun / Konami"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
               },
               {
                 "t": "p",
-                "x": "Dengeki Onlineが報じ、Automatonが翻訳したところによると、Konami Digital EntertainmentのHideki Hayakawa社長は、同社の最新の統合報告書でAI技術の急速な発展について考えを述べた。"
+                "x": "AI-poweredのMODツールキット「NPCTalk」が、Grand Theft Auto Vに台本のないリアルタイム会話をもたらす。プレイヤーはNPCsに直接話しかけ、本来の声をAIで複製した（AI-cloned）音声で返答を聞ける。Universal Modderが開発したこのオープンソースプロジェクトは、MODに対応するほぼすべてのゲームで同様の機能を実現することを目指す。"
               },
               {
                 "t": "p",
-                "x": "Hayakawa氏は、生成AIがゲーム開発を容易にするという広く浸透した見方に異を唱え、大きな変化はもたらさないと述べた。「汎用ゲームエンジンの進歩とUGC(ユーザー生成コンテンツ)の普及によって、参入障壁はすでに下がっている」ためだという。"
+                "x": "プレイヤーがマイクで話しかけると、各キャラクターの性格や周囲の状況を反映した、文脈に沿った返答が返ってくる。NPCsはアニメーションを再生したり、音声による指示に従ったりと、体の動きで反応することもできる。"
               },
               {
                 "t": "p",
-                "x": "「AIの活用が制作効率の向上につながったとしても、面白く革新的なビデオゲームを生み出すうえで最も重要な要素は人とクリエイターだと考えている」。さまざまな背景を持つ開発者が協働することで生まれる「一種の化学反応」は「容易に置き換えられるものではない」とも付け加えた。"
+                "x": "音声認識はNVIDIAのNemotron ASR、台詞の生成はCerebras上で動くQwen 3.8 27B 、音声の複製と合成はFish Audio Drama 3が担い、クラウド上のNVIDIA H100 GPUで処理される。プロジェクトのドキュメントによると、push-to-talk使用時、プレイヤーが話し終えてからNPCが話し出すまでの時間は約1.15–2.2秒だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+                "cap": "NPCTalkのアーキテクチャ。画像出典：NPCTalk GitHubリポジトリ。"
               },
               {
                 "t": "p",
-                "x": "Konamiがこの技術を避けているわけではない。「Konamiは、クリエイターが新しい技術を理解し、それがもたらしうるリスクを適切に評価し、ゲーム開発に安全に適用できるよう、体系的な支援を行っている」と同氏は語った。"
+                "x": "NPCTalkはClaude Codeの支援を受けて開発され、その知見は再利用可能なAI-agentスキルとしてまとめられている。ゲームごとに個別の統合作業は依然として必要で、これまでに披露されたのはGTA V Legacyのシングルプレイモードのみだ。ツールキットはMITライセンスでGitHubに公開されており、無料でプレイできるGTA V用MODは来週公開される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Konami：创新游戏\n靠的是人而非AI",
-          "body": "Konami表示，即使AI提升了制作效率，打造创新游戏的关键仍然是人。",
-          "mini_headline": "Konami押注人而非AI",
+          "headline": "GTA V NPCs开口对话\nNPCTalk AI模组",
+          "body": "免费模组NPCTalk让GTA V NPCs用AI实时对话，延迟1.15-2.2秒。",
+          "mini_headline": "GTA V NPCs开口说话",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
-                "cap": "图片来源：Rock Paper Shotgun / Konami"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
               },
               {
                 "t": "p",
-                "x": "据Dengeki Online发现、Automaton翻译，Konami Digital Entertainment总裁Hideki Hayakawa在公司最新的综合报告中，谈到了他对AI技术快速发展的看法。"
+                "x": "一款名为NPCTalk的AI-powered模组工具包，为Grand Theft Auto V带来了无脚本的实时对话：玩家可以直接与NPCs交谈，并听到以AI克隆（AI-cloned）的原声作出的回应。该开源项目由Universal Modder开发，目标是为几乎所有可加装模组的游戏带来类似功能。"
               },
               {
                 "t": "p",
-                "x": "Hayakawa不认同生成式AI会让游戏开发变得更容易的普遍看法，认为它不会带来重大改变，因为“通用游戏引擎的进步和UGC（用户生成内容）的普及已经降低了进入门槛”。"
+                "x": "玩家通过麦克风说话，即可得到契合语境的回复，反映每个角色的性格和所处环境。NPCs还能做出肢体反应，执行动画或听从语音指令。"
               },
               {
                 "t": "p",
-                "x": "“即使使用AI确实能提高制作效率，我认为制作有趣且创新的电子游戏最重要的因素是人和创作者。”他补充说，不同背景的开发者协作所产生的“某种化学反应”是“无法轻易取代的”。"
+                "x": "语音识别由NVIDIA的Nemotron ASR负责，对话生成由运行在Cerebras上的Qwen 3.8 27B 完成，语音克隆与语音合成则由Fish Audio Drama 3在云端NVIDIA H100 GPU上处理。项目文档显示，使用push-to-talk时，从玩家说完一句话到NPC开口约需1.15–2.2秒。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+                "cap": "NPCTalk架构。图片来源：NPCTalk GitHub仓库。"
               },
               {
                 "t": "p",
-                "x": "Konami并没有弃用这项技术。他说：“Konami提供系统性的支持，让创作者能够掌握新技术、恰当评估其可能带来的风险，并将其安全地应用于游戏开发。”"
+                "x": "NPCTalk在Claude Code的协助下开发，其经验被封装为可复用的AI-agent技能。每款游戏仍需单独集成，目前仅在GTA V Legacy的单人模式中展示过。该工具包以MIT许可证发布在GitHub上；可免费游玩的GTA V模组将于下周推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Konami: los juegos innovadores\nlos hacen personas, no la IA",
-          "body": "Para Konami, aunque la IA haga más eficiente la producción, la clave de los juegos innovadores son las personas.",
-          "mini_headline": "Konami apuesta por las personas antes que por la IA",
+          "headline": "Los NPCs de GTA V ya responden\ncon el mod AI NPCTalk",
+          "body": "El mod gratuito NPCTalk, que sale la próxima semana, da a los NPCs de GTA V respuestas de AI en 1.15-2.2 segundos.",
+          "mini_headline": "Los NPCs de GTA V responden",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
-                "cap": "Imagen: Rock Paper Shotgun / Konami"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
               },
               {
                 "t": "p",
-                "x": "Según detectó Dengeki Online y tradujo Automaton, el presidente de Konami Digital Entertainment, Hideki Hayakawa, compartió su opinión sobre el rápido desarrollo de la tecnología de IA en el último informe integrado de la compañía."
+                "x": "Un nuevo kit de herramientas de modding impulsado por IA (AI-powered), llamado NPCTalk, lleva conversaciones sin guion y en tiempo real a Grand Theft Auto V: los jugadores pueden hablar directamente con los NPCs y escuchar sus respuestas con sus voces originales clonadas por IA (AI-cloned). Desarrollado por Universal Modder, el proyecto de código abierto busca llevar funciones similares a prácticamente cualquier juego que admita mods."
               },
               {
                 "t": "p",
-                "x": "Hayakawa contradice la creencia generalizada de que la IA generativa facilitará el desarrollo de videojuegos y afirma que no supondrá un cambio significativo porque \"las barreras de entrada ya se han reducido gracias a los avances de los motores de juego genéricos y la difusión del UGC (contenido generado por los usuarios)\"."
+                "x": "Los jugadores hablan por el micrófono y reciben respuestas acordes al contexto, que reflejan la personalidad y el entorno de cada personaje. Los NPCs también pueden reaccionar físicamente, ejecutando animaciones o siguiendo órdenes habladas."
               },
               {
                 "t": "p",
-                "x": "\"Aunque el uso de la IA mejore la eficiencia de producción, creo que los factores más importantes para crear videojuegos entretenidos e innovadores son las personas y los creadores\". Esa \"especie de reacción química\" que surge cuando trabajan juntos desarrolladores de perfiles diversos \"no es algo que pueda sustituirse fácilmente\", añadió."
+                "x": "Nemotron ASR de NVIDIA se encarga del reconocimiento de voz, Qwen 3.8 27B, ejecutado a través de Cerebras, genera el diálogo, y Fish Audio Drama 3 realiza la clonación de voz y la síntesis del habla en una NVIDIA H100 GPU en la nube. La documentación del proyecto indica unos 1.15–2.2 segundos entre que el jugador termina una frase y el NPC empieza a hablar con push-to-talk."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+                "cap": "La arquitectura de NPCTalk. Fuente de la imagen: repositorio de NPCTalk en GitHub."
               },
               {
                 "t": "p",
-                "x": "Konami no renuncia a la tecnología: \"Konami ofrece un apoyo sistemático para que los creadores comprendan las nuevas tecnologías, evalúen adecuadamente los riesgos que puedan conllevar y las apliquen de forma segura al desarrollo de juegos\", afirmó."
+                "x": "NPCTalk se desarrolló con la ayuda de Claude Code, y su conocimiento está empaquetado como habilidades reutilizables para agentes de IA (AI-agent). Cada juego sigue necesitando su propia integración, y por ahora solo se ha mostrado en el modo de un jugador de GTA V Legacy. El kit está en GitHub con licencia MIT; un mod gratuito y jugable para GTA V llegará la próxima semana."
               }
             ]
           }
@@ -201,125 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Konami, 혁신 게임은\nAI 아닌 사람이 만든다",
-          "body": "Konami는 AI가 제작 효율을 높여도 혁신 게임의 핵심은 사람이라고 밝혔다.",
-          "mini_headline": "Konami, AI보다 사람에 건다",
+          "headline": "GTA V NPCs와 대화\nNPCTalk AI 모드",
+          "body": "무료 NPCTalk로 GTA V NPCs가 1.15-2.2초에 AI로 답한다.",
+          "mini_headline": "GTA V NPCs와 AI 대화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
-                "cap": "이미지 출처: Rock Paper Shotgun / Konami"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
               },
               {
                 "t": "p",
-                "x": "Dengeki Online이 처음 전하고 Automaton이 번역한 바에 따르면, Konami Digital Entertainment의 Hideki Hayakawa 사장은 회사의 최신 통합 보고서에서 빠르게 발전하는 AI 기술에 대한 생각을 밝혔다."
+                "x": "AI-powered 모딩 툴킷 NPCTalk가 Grand Theft Auto V에 대본 없는 실시간 대화를 들여왔다. 플레이어는 NPCs와 직접 말을 주고받고, 원래 목소리를 AI로 복제한(AI-cloned) 음성으로 답을 듣는다. Universal Modder가 개발한 이 오픈소스 프로젝트는 모드를 지원하는 거의 모든 게임에 비슷한 기능을 넣는 것을 목표로 한다."
               },
               {
                 "t": "p",
-                "x": "Hayakawa는 생성형 AI가 게임 개발을 더 쉽게 만들 것이라는 통념과 달리 큰 변화는 없을 것이라고 봤다. \"범용 게임 엔진의 발전과 UGC(사용자 제작 콘텐츠)의 확산으로 진입 장벽은 이미 낮아졌다\"는 이유다."
+                "x": "플레이어가 마이크로 말을 걸면 각 캐릭터의 성격과 주변 상황을 반영해 맥락에 맞는 답이 돌아온다. NPCs는 애니메이션을 취하거나 음성 명령을 따르는 등 몸으로 반응하기도 한다."
               },
               {
                 "t": "p",
-                "x": "\"AI 활용이 제작 효율 향상으로 이어지더라도, 재미있고 혁신적인 비디오 게임을 만드는 데 가장 중요한 요소는 사람과 크리에이터라고 생각한다.\" 그는 다양한 배경을 지닌 개발자들이 함께 일하며 생기는 \"일종의 화학 반응\"은 \"쉽게 대체할 수 있는 것이 아니다\"라고 덧붙였다."
+                "x": "음성 인식은 NVIDIA의 Nemotron ASR이, 대사 생성은 Cerebras에서 구동되는 Qwen 3.8 27B 모델이 맡는다. 음성 복제와 음성 합성은 클라우드 기반 NVIDIA H100 GPU에서 Fish Audio Drama 3가 처리한다. 프로젝트 문서에 따르면 푸시투토크(push-to-talk) 방식에서 플레이어가 말을 마친 뒤 NPC가 말하기까지 약 1.15–2.2초가 걸린다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+                "cap": "NPCTalk 아키텍처. 이미지 출처: NPCTalk GitHub 저장소."
               },
               {
                 "t": "p",
-                "x": "Konami가 이 기술을 멀리하는 것은 아니다. 그는 \"Konami는 크리에이터가 새로운 기술을 이해하고, 그 기술이 가져올 수 있는 위험을 제대로 평가하며, 게임 개발에 안전하게 적용할 수 있도록 체계적으로 지원하고 있다\"고 말했다."
+                "x": "NPCTalk는 Claude Code의 도움을 받아 개발됐고, 그 노하우는 재사용 가능한 AI-agent 스킬로 묶였다. 게임마다 별도 통합 작업이 여전히 필요하며, 지금까지는 GTA V Legacy의 싱글플레이 모드에서만 시연됐다. 툴킷은 MIT 라이선스로 GitHub에 공개돼 있고, 무료로 플레이할 수 있는 GTA V 모드는 다음 주에 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Konami、革新的ゲームは\nAIでなく人が作ると強調",
-          "body": "KonamiはAIで制作効率が上がっても、革新的なゲームを生む鍵は人だと述べた。",
-          "mini_headline": "Konami、AIより人に賭ける",
+          "headline": "GTA V NPCsが話す\nNPCTalk AI MOD",
+          "body": "無料のNPCTalkにより、GTA V NPCsが1.15-2.2秒でAI応答を返す。",
+          "mini_headline": "GTA V NPCsが話す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
-                "cap": "画像提供：Rock Paper Shotgun / Konami"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
               },
               {
                 "t": "p",
-                "x": "Dengeki Onlineが報じ、Automatonが翻訳したところによると、Konami Digital EntertainmentのHideki Hayakawa社長は、同社の最新の統合報告書でAI技術の急速な発展について考えを述べた。"
+                "x": "AI-poweredのMODツールキット「NPCTalk」が、Grand Theft Auto Vに台本のないリアルタイム会話をもたらす。プレイヤーはNPCsに直接話しかけ、本来の声をAIで複製した（AI-cloned）音声で返答を聞ける。Universal Modderが開発したこのオープンソースプロジェクトは、MODに対応するほぼすべてのゲームで同様の機能を実現することを目指す。"
               },
               {
                 "t": "p",
-                "x": "Hayakawa氏は、生成AIがゲーム開発を容易にするという広く浸透した見方に異を唱え、大きな変化はもたらさないと述べた。「汎用ゲームエンジンの進歩とUGC(ユーザー生成コンテンツ)の普及によって、参入障壁はすでに下がっている」ためだという。"
+                "x": "プレイヤーがマイクで話しかけると、各キャラクターの性格や周囲の状況を反映した、文脈に沿った返答が返ってくる。NPCsはアニメーションを再生したり、音声による指示に従ったりと、体の動きで反応することもできる。"
               },
               {
                 "t": "p",
-                "x": "「AIの活用が制作効率の向上につながったとしても、面白く革新的なビデオゲームを生み出すうえで最も重要な要素は人とクリエイターだと考えている」。さまざまな背景を持つ開発者が協働することで生まれる「一種の化学反応」は「容易に置き換えられるものではない」とも付け加えた。"
+                "x": "音声認識はNVIDIAのNemotron ASR、台詞の生成はCerebras上で動くQwen 3.8 27B 、音声の複製と合成はFish Audio Drama 3が担い、クラウド上のNVIDIA H100 GPUで処理される。プロジェクトのドキュメントによると、push-to-talk使用時、プレイヤーが話し終えてからNPCが話し出すまでの時間は約1.15–2.2秒だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+                "cap": "NPCTalkのアーキテクチャ。画像出典：NPCTalk GitHubリポジトリ。"
               },
               {
                 "t": "p",
-                "x": "Konamiがこの技術を避けているわけではない。「Konamiは、クリエイターが新しい技術を理解し、それがもたらしうるリスクを適切に評価し、ゲーム開発に安全に適用できるよう、体系的な支援を行っている」と同氏は語った。"
+                "x": "NPCTalkはClaude Codeの支援を受けて開発され、その知見は再利用可能なAI-agentスキルとしてまとめられている。ゲームごとに個別の統合作業は依然として必要で、これまでに披露されたのはGTA V Legacyのシングルプレイモードのみだ。ツールキットはMITライセンスでGitHubに公開されており、無料でプレイできるGTA V用MODは来週公開される予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Konami：创新游戏\n靠的是人而非AI",
-          "body": "Konami表示，即使AI提升了制作效率，打造创新游戏的关键仍然是人。",
-          "mini_headline": "Konami押注人而非AI",
+          "headline": "GTA V NPCs开口对话\nNPCTalk AI模组",
+          "body": "免费模组NPCTalk让GTA V NPCs用AI实时对话，延迟1.15-2.2秒。",
+          "mini_headline": "GTA V NPCs开口说话",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
-                "cap": "图片来源：Rock Paper Shotgun / Konami"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
               },
               {
                 "t": "p",
-                "x": "据Dengeki Online发现、Automaton翻译，Konami Digital Entertainment总裁Hideki Hayakawa在公司最新的综合报告中，谈到了他对AI技术快速发展的看法。"
+                "x": "一款名为NPCTalk的AI-powered模组工具包，为Grand Theft Auto V带来了无脚本的实时对话：玩家可以直接与NPCs交谈，并听到以AI克隆（AI-cloned）的原声作出的回应。该开源项目由Universal Modder开发，目标是为几乎所有可加装模组的游戏带来类似功能。"
               },
               {
                 "t": "p",
-                "x": "Hayakawa不认同生成式AI会让游戏开发变得更容易的普遍看法，认为它不会带来重大改变，因为“通用游戏引擎的进步和UGC（用户生成内容）的普及已经降低了进入门槛”。"
+                "x": "玩家通过麦克风说话，即可得到契合语境的回复，反映每个角色的性格和所处环境。NPCs还能做出肢体反应，执行动画或听从语音指令。"
               },
               {
                 "t": "p",
-                "x": "“即使使用AI确实能提高制作效率，我认为制作有趣且创新的电子游戏最重要的因素是人和创作者。”他补充说，不同背景的开发者协作所产生的“某种化学反应”是“无法轻易取代的”。"
+                "x": "语音识别由NVIDIA的Nemotron ASR负责，对话生成由运行在Cerebras上的Qwen 3.8 27B 完成，语音克隆与语音合成则由Fish Audio Drama 3在云端NVIDIA H100 GPU上处理。项目文档显示，使用push-to-talk时，从玩家说完一句话到NPC开口约需1.15–2.2秒。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+                "cap": "NPCTalk架构。图片来源：NPCTalk GitHub仓库。"
               },
               {
                 "t": "p",
-                "x": "Konami并没有弃用这项技术。他说：“Konami提供系统性的支持，让创作者能够掌握新技术、恰当评估其可能带来的风险，并将其安全地应用于游戏开发。”"
+                "x": "NPCTalk在Claude Code的协助下开发，其经验被封装为可复用的AI-agent技能。每款游戏仍需单独集成，目前仅在GTA V Legacy的单人模式中展示过。该工具包以MIT许可证发布在GitHub上；可免费游玩的GTA V模组将于下周推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Konami: los juegos innovadores\nlos hacen personas, no la IA",
-          "body": "Para Konami, aunque la IA haga más eficiente la producción, la clave de los juegos innovadores son las personas.",
-          "mini_headline": "Konami apuesta por las personas antes que por la IA",
+          "headline": "Los NPCs de GTA V ya responden\ncon el mod AI NPCTalk",
+          "body": "El mod gratuito NPCTalk, que sale la próxima semana, da a los NPCs de GTA V respuestas de AI en 1.15-2.2 segundos.",
+          "mini_headline": "Los NPCs de GTA V responden",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
-                "cap": "Imagen: Rock Paper Shotgun / Konami"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
               },
               {
                 "t": "p",
-                "x": "Según detectó Dengeki Online y tradujo Automaton, el presidente de Konami Digital Entertainment, Hideki Hayakawa, compartió su opinión sobre el rápido desarrollo de la tecnología de IA en el último informe integrado de la compañía."
+                "x": "Un nuevo kit de herramientas de modding impulsado por IA (AI-powered), llamado NPCTalk, lleva conversaciones sin guion y en tiempo real a Grand Theft Auto V: los jugadores pueden hablar directamente con los NPCs y escuchar sus respuestas con sus voces originales clonadas por IA (AI-cloned). Desarrollado por Universal Modder, el proyecto de código abierto busca llevar funciones similares a prácticamente cualquier juego que admita mods."
               },
               {
                 "t": "p",
-                "x": "Hayakawa contradice la creencia generalizada de que la IA generativa facilitará el desarrollo de videojuegos y afirma que no supondrá un cambio significativo porque \"las barreras de entrada ya se han reducido gracias a los avances de los motores de juego genéricos y la difusión del UGC (contenido generado por los usuarios)\"."
+                "x": "Los jugadores hablan por el micrófono y reciben respuestas acordes al contexto, que reflejan la personalidad y el entorno de cada personaje. Los NPCs también pueden reaccionar físicamente, ejecutando animaciones o siguiendo órdenes habladas."
               },
               {
                 "t": "p",
-                "x": "\"Aunque el uso de la IA mejore la eficiencia de producción, creo que los factores más importantes para crear videojuegos entretenidos e innovadores son las personas y los creadores\". Esa \"especie de reacción química\" que surge cuando trabajan juntos desarrolladores de perfiles diversos \"no es algo que pueda sustituirse fácilmente\", añadió."
+                "x": "Nemotron ASR de NVIDIA se encarga del reconocimiento de voz, Qwen 3.8 27B, ejecutado a través de Cerebras, genera el diálogo, y Fish Audio Drama 3 realiza la clonación de voz y la síntesis del habla en una NVIDIA H100 GPU en la nube. La documentación del proyecto indica unos 1.15–2.2 segundos entre que el jugador termina una frase y el NPC empieza a hablar con push-to-talk."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+                "cap": "La arquitectura de NPCTalk. Fuente de la imagen: repositorio de NPCTalk en GitHub."
               },
               {
                 "t": "p",
-                "x": "Konami no renuncia a la tecnología: \"Konami ofrece un apoyo sistemático para que los creadores comprendan las nuevas tecnologías, evalúen adecuadamente los riesgos que puedan conllevar y las apliquen de forma segura al desarrollo de juegos\", afirmó."
+                "x": "NPCTalk se desarrolló con la ayuda de Claude Code, y su conocimiento está empaquetado como habilidades reutilizables para agentes de IA (AI-agent). Cada juego sigue necesitando su propia integración, y por ahora solo se ha mostrado en el modo de un jugador de GTA V Legacy. El kit está en GitHub con licencia MIT; un mod gratuito y jugable para GTA V llegará la próxima semana."
               }
             ]
           }
@@ -327,323 +365,883 @@
       }
     },
     {
-      "id": "games-vibe-zombies",
+      "id": "games-roblox-audioscape",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "바이브 코딩 좀비 게임\n샌프란시스코 반발에 삭제",
-      "body": "샌프란시스코 빈곤 지역의 '좀비'를 쏘는 바이브 코딩 게임이 반발 끝에 내려졌다.",
-      "mini_headline": "바이브 코딩 좀비 게임, 결국 삭제",
+      "headline": "Roblox가 AI 오디오\nAudioscape 영입",
+      "body": "Roblox가 AI 오디오 팀 Audioscape를 데려와 창작 도구에 넣는다.",
+      "mini_headline": "Roblox, Audioscape 영입",
       "tool": "Games",
-      "source": "PC Gamer",
-      "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
+      "source": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
       "accent": "#0070f3",
+      "motif": "cube",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Roblox가 AI 오디오 스타트업 Audioscape의 팀을 영입했다. 이 팀의 기술은 앞으로 플랫폼의 크리에이터 도구에 들어간다."
+          },
+          {
+            "t": "p",
+            "x": "Audioscape 창업자 Sean Varah는 이 소식을 알리며 Roblox 크리에이터 경험 전반에서 오디오와 음악을 아우르는 더 넓은 로드맵에 집중하겠다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "팀이 그동안 만든 것은 AI-powered 오디오 검색·탐색 도구다. 크리에이터가 이름이 아니라 실제 소리로 사운드를 찾게 돕는다."
+          },
+          {
+            "t": "p",
+            "x": "최근 Audioscape는 오디오 탐색, 사운드 디자인, 오디오 프로그래밍, 믹싱, 테스트까지 아우르는 AI Audio Agent도 개발했다. triple-A 오디오 제작의 여러 요소를 Roblox 크리에이터 가까이로 끌어오려는 도구다."
+          },
+          {
+            "t": "p",
+            "x": "“Roblox에 합류한다는 것은 이 기술이 플랫폼의 기본 기능이 되어, 매일 Roblox에서 무언가를 만드는 수백만 명의 크리에이터가 쓸 수 있게 된다는 뜻입니다. 저는 크리에이터 경험 전반에서 오디오와 음악 저작을 위한 총체적인 로드맵을 이끄는 데 집중할 것이며, 앞으로가 무척 기대됩니다.” Varah는 이렇게 말했다."
+          },
+          {
+            "t": "p",
+            "x": "팀은 처음부터 Roblox만을 위해 도구를 만들었고, 이번 합류로 그 기술이 플랫폼 크리에이터에게 곧바로 닿게 됐다."
+          },
+          {
+            "t": "p",
+            "x": "Varah는 Audioscape를 믿어 준 초기 후원자와 자문가, 투자자, 그리고 팀을 도운 Roblox 크리에이터에게도 고마움을 전했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Roblox brings Audioscape\nin-house for AI audio tools",
+          "body": "Roblox brought in the Audioscape AI audio team, whose technology will now join the platform's creator tools.",
+          "mini_headline": "Roblox adds Audioscape",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Roblox has brought the team behind AI audio startup Audioscape into the company and its technology will now become part of the platform's creator tools."
+              },
+              {
+                "t": "p",
+                "x": "Audioscape founder Sean Varah announced the move, saying he would focus on developing a broader roadmap for audio and music across Roblox’s creator experience."
+              },
+              {
+                "t": "p",
+                "x": "The team has developed AI-powered audio search and discovery tools that help creators find sounds based on how they actually sound, rather than just by name."
+              },
+              {
+                "t": "p",
+                "x": "Recently, Audioscape developed an AI Audio Agent that covers audio discovery, sound design, audio programming, mixing and testing. The tool aims to bring aspects of triple-A audio production closer to Roblox creators."
+              },
+              {
+                "t": "p",
+                "x": "“Joining Roblox means this technology will become a native part of the platform, available to the millions of creators who build on Roblox every day. I'll be focused on driving a holistic roadmap for audio and music authoring across the Creator experience and I couldn't be more energised about what's ahead,” Varah said."
+              },
+              {
+                "t": "p",
+                "x": "The team built its tools natively for Roblox, and the move will bring the technology directly to the platform’s creators."
+              },
+              {
+                "t": "p",
+                "x": "Varah also thanked early supporters, advisers and investors who backed Audioscape, as well as the Roblox creators who helped the team."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Roblox가 AI 오디오\nAudioscape 영입",
+          "body": "Roblox가 AI 오디오 팀 Audioscape를 데려와 창작 도구에 넣는다.",
+          "mini_headline": "Roblox, Audioscape 영입",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Roblox가 AI 오디오 스타트업 Audioscape의 팀을 영입했다. 이 팀의 기술은 앞으로 플랫폼의 크리에이터 도구에 들어간다."
+              },
+              {
+                "t": "p",
+                "x": "Audioscape 창업자 Sean Varah는 이 소식을 알리며 Roblox 크리에이터 경험 전반에서 오디오와 음악을 아우르는 더 넓은 로드맵에 집중하겠다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "팀이 그동안 만든 것은 AI-powered 오디오 검색·탐색 도구다. 크리에이터가 이름이 아니라 실제 소리로 사운드를 찾게 돕는다."
+              },
+              {
+                "t": "p",
+                "x": "최근 Audioscape는 오디오 탐색, 사운드 디자인, 오디오 프로그래밍, 믹싱, 테스트까지 아우르는 AI Audio Agent도 개발했다. triple-A 오디오 제작의 여러 요소를 Roblox 크리에이터 가까이로 끌어오려는 도구다."
+              },
+              {
+                "t": "p",
+                "x": "“Roblox에 합류한다는 것은 이 기술이 플랫폼의 기본 기능이 되어, 매일 Roblox에서 무언가를 만드는 수백만 명의 크리에이터가 쓸 수 있게 된다는 뜻입니다. 저는 크리에이터 경험 전반에서 오디오와 음악 저작을 위한 총체적인 로드맵을 이끄는 데 집중할 것이며, 앞으로가 무척 기대됩니다.” Varah는 이렇게 말했다."
+              },
+              {
+                "t": "p",
+                "x": "팀은 처음부터 Roblox만을 위해 도구를 만들었고, 이번 합류로 그 기술이 플랫폼 크리에이터에게 곧바로 닿게 됐다."
+              },
+              {
+                "t": "p",
+                "x": "Varah는 Audioscape를 믿어 준 초기 후원자와 자문가, 투자자, 그리고 팀을 도운 Roblox 크리에이터에게도 고마움을 전했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Roblox、AIオーディオ\nAudioscapeを社内に",
+          "body": "RobloxがAI音響チームAudioscapeを迎え、技術を制作ツールに統合する。",
+          "mini_headline": "RobloxがAudioscapeを迎え入れ",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Robloxは、AIオーディオのスタートアップAudioscapeのチームを社内に迎え入れた。同社の技術は今後、プラットフォームのクリエイターツールの一部となる。"
+              },
+              {
+                "t": "p",
+                "x": "Audioscape創業者のSean Varahがこの移籍を発表し、Robloxのクリエイター体験全体にわたるオーディオと音楽の、より広いロードマップの策定に注力すると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "同チームは、名前だけでなく実際の音の響きをもとにクリエイターがサウンドを探せる、AI-poweredのオーディオ検索・発見ツールを開発してきた。"
+              },
+              {
+                "t": "p",
+                "x": "Audioscapeは最近、オーディオの発見、サウンドデザイン、オーディオプログラミング、ミキシング、テストまでを担うAI Audio Agentを開発した。このツールは、triple-A級のオーディオ制作の要素をRobloxのクリエイターにより身近なものにすることを目指す。"
+              },
+              {
+                "t": "p",
+                "x": "「Robloxに加わるということは、この技術がプラットフォームにネイティブに組み込まれ、毎日Robloxで制作する何百万人ものクリエイターが使えるようになるということだ。私はクリエイター体験全体でオーディオと音楽の制作に関する包括的なロードマップを推進することに注力する。この先が本当に楽しみだ」とVarahは語った。"
+              },
+              {
+                "t": "p",
+                "x": "チームはRoblox向けにネイティブでツールを構築しており、今回の移籍によりその技術がプラットフォームのクリエイターに直接届くことになる。"
+              },
+              {
+                "t": "p",
+                "x": "Varahはまた、Audioscapeを支えた初期の支援者、アドバイザー、投資家、そしてチームを助けたRobloxのクリエイターにも感謝を述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Roblox将AI音频团队\nAudioscape收入麾下",
+          "body": "Roblox吸纳AI音频团队Audioscape，其技术将并入平台创作者工具。",
+          "mini_headline": "Roblox吸纳Audioscape",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Roblox已将AI音频初创公司Audioscape的团队纳入公司，其技术将成为平台创作者工具的一部分。"
+              },
+              {
+                "t": "p",
+                "x": "Audioscape创始人Sean Varah宣布了这一消息，并表示将专注于为Roblox整个创作者体验制定更广泛的音频与音乐路线图。"
+              },
+              {
+                "t": "p",
+                "x": "该团队开发了AI-powered音频搜索与发现工具，帮助创作者依据声音的实际听感而不只是名称来查找音效。"
+              },
+              {
+                "t": "p",
+                "x": "Audioscape近期开发了AI Audio Agent，覆盖音频发现、声音设计、音频编程、混音和测试。该工具旨在让Roblox创作者更接近triple-A级音频制作的部分环节。"
+              },
+              {
+                "t": "p",
+                "x": "“加入Roblox意味着这项技术将成为平台的原生组成部分，供每天在Roblox上创作的数百万创作者使用。我将专注于推动创作者体验中音频与音乐创作的整体路线图，对未来充满期待。”Varah说。"
+              },
+              {
+                "t": "p",
+                "x": "该团队的工具原本就是为Roblox原生打造，此次加入将把这项技术直接带给平台的创作者。"
+              },
+              {
+                "t": "p",
+                "x": "Varah还感谢了支持Audioscape的早期支持者、顾问和投资者，以及曾帮助团队的Roblox创作者。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Roblox incorpora a Audioscape\ny su tecnología de audio AI",
+          "body": "Roblox incorporó al equipo de audio AI de Audioscape, cuya tecnología se sumará a las herramientas para creadores.",
+          "mini_headline": "Roblox incorpora Audioscape",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Roblox ha incorporado a la empresa al equipo detrás de Audioscape, startup de audio con AI, y su tecnología pasará a formar parte de las herramientas para creadores de la plataforma."
+              },
+              {
+                "t": "p",
+                "x": "Sean Varah, fundador de Audioscape, anunció el movimiento y dijo que se centrará en desarrollar una hoja de ruta más amplia para el audio y la música en toda la experiencia de creadores de Roblox."
+              },
+              {
+                "t": "p",
+                "x": "El equipo ha desarrollado herramientas AI-powered de búsqueda y descubrimiento de audio que ayudan a los creadores a encontrar sonidos según cómo suenan realmente, y no solo por su nombre."
+              },
+              {
+                "t": "p",
+                "x": "Recientemente, Audioscape desarrolló un AI Audio Agent que abarca el descubrimiento de audio, el diseño de sonido, la programación de audio, la mezcla y las pruebas. La herramienta busca acercar a los creadores de Roblox aspectos de la producción de audio triple-A."
+              },
+              {
+                "t": "p",
+                "x": "“Unirse a Roblox significa que esta tecnología pasará a ser una parte nativa de la plataforma, disponible para los millones de creadores que construyen en Roblox cada día. Me centraré en impulsar una hoja de ruta integral para la creación de audio y música en toda la experiencia de creadores, y no podría estar más entusiasmado con lo que viene”, dijo Varah."
+              },
+              {
+                "t": "p",
+                "x": "El equipo creó sus herramientas de forma nativa para Roblox, y el movimiento llevará la tecnología directamente a los creadores de la plataforma."
+              },
+              {
+                "t": "p",
+                "x": "Varah también agradeció a los primeros simpatizantes, asesores e inversores que respaldaron a Audioscape, así como a los creadores de Roblox que ayudaron al equipo."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Roblox가 AI 오디오\nAudioscape 영입",
+          "body": "Roblox가 AI 오디오 팀 Audioscape를 영입해 창작 도구에 넣는다.",
+          "mini_headline": "Roblox, Audioscape 영입",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Roblox가 AI 오디오 스타트업 Audioscape의 팀을 회사로 영입했으며, 이 팀의 기술은 앞으로 플랫폼의 크리에이터 도구에 포함된다."
+              },
+              {
+                "t": "p",
+                "x": "Audioscape 창업자 Sean Varah는 이 소식을 전하며, Roblox 크리에이터 경험 전반에서 오디오와 음악을 위한 더 넓은 로드맵 개발에 집중하겠다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "이 팀은 이름만이 아니라 실제 소리를 기준으로 크리에이터가 사운드를 찾도록 돕는 AI-powered 오디오 검색·탐색 도구를 개발해 왔다."
+              },
+              {
+                "t": "p",
+                "x": "최근 Audioscape는 오디오 탐색, 사운드 디자인, 오디오 프로그래밍, 믹싱, 테스트를 아우르는 AI Audio Agent를 개발했다. 이 도구는 triple-A 오디오 제작의 여러 요소를 Roblox 크리에이터에게 더 가까이 가져가는 것을 목표로 한다."
+              },
+              {
+                "t": "p",
+                "x": "“Roblox에 합류한다는 것은 이 기술이 플랫폼의 기본 기능이 되어, 매일 Roblox에서 무언가를 만드는 수백만 명의 크리에이터가 쓸 수 있게 된다는 뜻입니다. 저는 크리에이터 경험 전반에서 오디오와 음악 저작을 위한 총체적인 로드맵을 이끄는 데 집중할 것이며, 앞으로가 무척 기대됩니다.” Varah는 이렇게 말했다."
+              },
+              {
+                "t": "p",
+                "x": "팀은 처음부터 Roblox 전용으로 도구를 만들었고, 이번 합류로 이 기술이 플랫폼 크리에이터에게 직접 전달된다."
+              },
+              {
+                "t": "p",
+                "x": "Varah는 Audioscape를 지지해 준 초기 후원자, 자문가, 투자자와 팀을 도와준 Roblox 크리에이터에게도 감사를 전했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Roblox、AIオーディオ\nAudioscapeを社内に",
+          "body": "RobloxがAI音響チームAudioscapeを迎え、技術を制作ツールに統合する。",
+          "mini_headline": "RobloxがAudioscapeを迎え入れ",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Robloxは、AIオーディオのスタートアップAudioscapeのチームを社内に迎え入れた。同社の技術は今後、プラットフォームのクリエイターツールの一部となる。"
+              },
+              {
+                "t": "p",
+                "x": "Audioscape創業者のSean Varahがこの移籍を発表し、Robloxのクリエイター体験全体にわたるオーディオと音楽の、より広いロードマップの策定に注力すると述べた。"
+              },
+              {
+                "t": "p",
+                "x": "同チームは、名前だけでなく実際の音の響きをもとにクリエイターがサウンドを探せる、AI-poweredのオーディオ検索・発見ツールを開発してきた。"
+              },
+              {
+                "t": "p",
+                "x": "Audioscapeは最近、オーディオの発見、サウンドデザイン、オーディオプログラミング、ミキシング、テストまでを担うAI Audio Agentを開発した。このツールは、triple-A級のオーディオ制作の要素をRobloxのクリエイターにより身近なものにすることを目指す。"
+              },
+              {
+                "t": "p",
+                "x": "「Robloxに加わるということは、この技術がプラットフォームにネイティブに組み込まれ、毎日Robloxで制作する何百万人ものクリエイターが使えるようになるということだ。私はクリエイター体験全体でオーディオと音楽の制作に関する包括的なロードマップを推進することに注力する。この先が本当に楽しみだ」とVarahは語った。"
+              },
+              {
+                "t": "p",
+                "x": "チームはRoblox向けにネイティブでツールを構築しており、今回の移籍によりその技術がプラットフォームのクリエイターに直接届くことになる。"
+              },
+              {
+                "t": "p",
+                "x": "Varahはまた、Audioscapeを支えた初期の支援者、アドバイザー、投資家、そしてチームを助けたRobloxのクリエイターにも感謝を述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Roblox将AI音频团队\nAudioscape收入麾下",
+          "body": "Roblox吸纳AI音频团队Audioscape，其技术将并入平台创作者工具。",
+          "mini_headline": "Roblox吸纳Audioscape",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Roblox已将AI音频初创公司Audioscape的团队纳入公司，其技术将成为平台创作者工具的一部分。"
+              },
+              {
+                "t": "p",
+                "x": "Audioscape创始人Sean Varah宣布了这一消息，并表示将专注于为Roblox整个创作者体验制定更广泛的音频与音乐路线图。"
+              },
+              {
+                "t": "p",
+                "x": "该团队开发了AI-powered音频搜索与发现工具，帮助创作者依据声音的实际听感而不只是名称来查找音效。"
+              },
+              {
+                "t": "p",
+                "x": "Audioscape近期开发了AI Audio Agent，覆盖音频发现、声音设计、音频编程、混音和测试。该工具旨在让Roblox创作者更接近triple-A级音频制作的部分环节。"
+              },
+              {
+                "t": "p",
+                "x": "“加入Roblox意味着这项技术将成为平台的原生组成部分，供每天在Roblox上创作的数百万创作者使用。我将专注于推动创作者体验中音频与音乐创作的整体路线图，对未来充满期待。”Varah说。"
+              },
+              {
+                "t": "p",
+                "x": "该团队的工具原本就是为Roblox原生打造，此次加入将把这项技术直接带给平台的创作者。"
+              },
+              {
+                "t": "p",
+                "x": "Varah还感谢了支持Audioscape的早期支持者、顾问和投资者，以及曾帮助团队的Roblox创作者。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Roblox incorpora a Audioscape\ny su tecnología de audio AI",
+          "body": "Roblox incorporó al equipo de audio AI de Audioscape, cuya tecnología se sumará a las herramientas para creadores.",
+          "mini_headline": "Roblox incorpora Audioscape",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Roblox ha incorporado a la empresa al equipo detrás de Audioscape, startup de audio con AI, y su tecnología pasará a formar parte de las herramientas para creadores de la plataforma."
+              },
+              {
+                "t": "p",
+                "x": "Sean Varah, fundador de Audioscape, anunció el movimiento y dijo que se centrará en desarrollar una hoja de ruta más amplia para el audio y la música en toda la experiencia de creadores de Roblox."
+              },
+              {
+                "t": "p",
+                "x": "El equipo ha desarrollado herramientas AI-powered de búsqueda y descubrimiento de audio que ayudan a los creadores a encontrar sonidos según cómo suenan realmente, y no solo por su nombre."
+              },
+              {
+                "t": "p",
+                "x": "Recientemente, Audioscape desarrolló un AI Audio Agent que abarca el descubrimiento de audio, el diseño de sonido, la programación de audio, la mezcla y las pruebas. La herramienta busca acercar a los creadores de Roblox aspectos de la producción de audio triple-A."
+              },
+              {
+                "t": "p",
+                "x": "“Unirse a Roblox significa que esta tecnología pasará a ser una parte nativa de la plataforma, disponible para los millones de creadores que construyen en Roblox cada día. Me centraré en impulsar una hoja de ruta integral para la creación de audio y música en toda la experiencia de creadores, y no podría estar más entusiasmado con lo que viene”, dijo Varah."
+              },
+              {
+                "t": "p",
+                "x": "El equipo creó sus herramientas de forma nativa para Roblox, y el movimiento llevará la tecnología directamente a los creadores de la plataforma."
+              },
+              {
+                "t": "p",
+                "x": "Varah también agradeció a los primeros simpatizantes, asesores e inversores que respaldaron a Audioscape, así como a los creadores de Roblox que ayudaron al equipo."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "games-scam-with-friends",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "AI를 속이는 협동 신작\n스팀 인기 최상위권",
+      "body": "생성형 AI를 속이는 협동 신작이 스팀 앞서 해보기로 인기 최상위권에 올랐다.",
+      "mini_headline": "AI 속이는 협동작",
+      "tool": "Games",
+      "source": "게임메카",
+      "url": "https://www.gamemeca.com/view.php?gid=1781919",
+      "accent": "#f5a623",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
-            "cap": "Tenderloin Night Shift (이미지 출처: Pierre-Louis Biojout)"
+            "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+            "cap": "10월 16일 오후 5시 기준 스팀 전 세계 최고 인기 게임 TOP 10 (자료출처: 스팀)"
           },
           {
             "t": "p",
-            "x": "Y Combinator가 투자한 AI 스타트업 NanoCorp의 창업자 Pierre-Louis Biojout는 주말에 바이브 코딩으로 만든 프로젝트를 공개했다가 샌프란시스코 주민과 시 지도자들에게 거센 비판을 받았다. 노숙과 공공연한 마약 사용으로 알려진 SF Tenderloin 지구가 배경인 웹 슈팅 게임이었다."
+            "x": "협동 시뮬레이션 신작 '스캠 위드 유어 프렌즈(Scam With Your Friends)'가 16일 스팀 앞서 해보기로 출시된 후 전 세계 최고 인기 게임 최상위권에 올랐다. 생성형 AI를 상대로 사기극을 벌인다는 설정과 협동 과정에서 발생하는 재미있는 상황이 맞물리며 게이머들의 이목을 끌었다."
           },
           {
             "t": "p",
-            "x": "Biojout는 10월 13일 지금은 삭제된 X 게시물에서 \"샌프란시스코는 Tenderloin을 고치지 못했다\"며 \"그래서 나는 실제 SF 거리를 배경으로 한 Call of Duty 스타일의 좀비 슈팅 게임으로 그걸 수익화했다\"고 썼다. 인게임 광고로 이미 300달러를 벌었다는 말도 덧붙였다."
+            "x": "콜센터를 가장한 사기집단을 배경으로 한 협동게임으로, 최대 6인이 사무실 직원이 되어 정해진 근무 시간 안에 팀 전체의 일일 수익 할당량을 채워야 한다. 할당량 달성에 실패하면 상사의 가혹한 인사 평가가 내려오고, 일차가 지날수록 목표 금액이 상승한다."
           },
           {
             "t": "p",
-            "x": "게임 Tenderloin Night Shift에서 플레이어가 쏘는 \"좀비\" 중에는 SF Chronicle과 KRON4에 따르면 \"몸이 접힌\" 펜타닐 중독자와 흑인 경비원도 있었다. SF Coalition on Homelessness의 Jennifer Friedenbach는 Biojout가 \"주로 흑인과 유색인종 주민을 비인간화하고 재미로 죽이는 시늉을 하는 것으로 돈을 벌고 있다\"고 비판했다."
+            "x": "생성형 AI 고객을 상대로 한 실시간 통화와 해킹이 주를 이룬다. 걸려오는 전화를 받은 뒤 마이크에 직접 말하거나 텍스트를 입력해 AI 고객의 의심을 줄이고 기프트 카드 번호나 계좌 이체를 유도해야 한다. 통화로 주의를 끄는 동안 피해자의 PC에 원격 접속해 개인정보를 빼내는 방법도 있다."
+          },
+          {
+            "t": "video",
+            "yt": "e4BhBUryVFY"
           },
           {
             "t": "p",
-            "x": "Biojout는 \"도발하거나 실제 사람을 쏘는 장면을 묘사할\" 의도는 없었다고 해명했다. 게임은 NanoCorp 웹사이트에서 삭제된 것으로 보인다."
+            "x": "스팀 유저 평가는 '대체로 긍정적(705명 참여, 71% 긍정적)'이다. 정해진 대본 없이 즉흥적인 거짓말로 AI 고객을 속이는 과정과 일과 종료 후 통화 하이라이트를 함께 보며 진행되는 상사의 인사 평가가 포인트라 평가됐다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+            "cap": "스캠 위드 유어 프렌즈 스크린샷 (사진출처: 게임 스팀 페이지)"
+          },
+          {
+            "t": "p",
+            "x": "다만 불안정한 서버로 인한 잦은 응답 불가 현상과 음성 인식 오류, 프레임 저하 등 최적화가 문제로 지적됐다. 특히 한국어를 포함한 비영어권 언어에서 응답 지연이 심해 정상적인 진행이 어렵다고 언급됐다. AI 서버 유지비로 인한 조기 서비스 종료나 유료 구독제 전환에 대한 우려도 나왔다."
           }
         ]
       },
-      "_lead_image": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
-      "_video": "",
       "text": {
-        "en": {
-          "headline": "Vibe-coded zombie game pulled\nafter San Francisco backlash",
-          "body": "A founder's vibe-coded game about shooting 'zombies' in a poor San Francisco area was taken down after backlash.",
-          "mini_headline": "Vibe-coded zombie game pulled",
+        "ko": {
+          "headline": "AI를 속이는 협동 신작\n스팀 인기 최상위권",
+          "body": "생성형 AI를 속이는 협동 신작이 스팀 앞서 해보기로 인기 최상위권에 올랐다.",
+          "mini_headline": "AI 속이는 협동작",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
-                "cap": "Tenderloin Night Shift (Image credit: Pierre-Louis Biojout)"
+                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+                "cap": "10월 16일 오후 5시 기준 스팀 전 세계 최고 인기 게임 TOP 10 (자료출처: 스팀)"
               },
               {
                 "t": "p",
-                "x": "Pierre-Louis Biojout, founder of Y Combinator-backed AI startup NanoCorp, took heat from San Francisco residents and city leaders after publishing a weekend vibe coding project: a web-based shooter set in SF's Tenderloin district, known for homelessness and open drug use."
+                "x": "협동 시뮬레이션 신작 '스캠 위드 유어 프렌즈(Scam With Your Friends)'가 16일 스팀 앞서 해보기로 출시된 후 전 세계 최고 인기 게임 최상위권에 올랐다. 생성형 AI를 상대로 사기극을 벌인다는 설정과 협동 과정에서 발생하는 재미있는 상황이 맞물리며 게이머들의 이목을 끌었다."
               },
               {
                 "t": "p",
-                "x": "\"San Francisco couldn't fix the Tenderloin,\" Biojout said in a now-deleted X post on October 13. \"So I monetized it [as a] Call of Duty style zombie shooter on the real SF streets.\" He noted he'd already made $300 from in-game ads."
+                "x": "콜센터를 가장한 사기집단을 배경으로 한 협동게임으로, 최대 6인이 사무실 직원이 되어 정해진 근무 시간 안에 팀 전체의 일일 수익 할당량을 채워야 한다. 할당량 달성에 실패하면 상사의 가혹한 인사 평가가 내려오고, 일차가 지날수록 목표 금액이 상승한다."
               },
               {
                 "t": "p",
-                "x": "The game, Tenderloin Night Shift, had players shoot \"zombies\" that, according to the SF Chronicle and KRON4, included a \"folded\" fentanyl addict and a Black security guard. Jennifer Friedenbach of the SF Coalition on Homelessness said Biojout was \"monetizing the dehumanization and pretend killing for fun of mostly Black and Brown residents.\""
+                "x": "생성형 AI 고객을 상대로 한 실시간 통화와 해킹이 주를 이룬다. 걸려오는 전화를 받은 뒤 마이크에 직접 말하거나 텍스트를 입력해 AI 고객의 의심을 줄이고 기프트 카드 번호나 계좌 이체를 유도해야 한다. 통화로 주의를 끄는 동안 피해자의 PC에 원격 접속해 개인정보를 빼내는 방법도 있다."
+              },
+              {
+                "t": "video",
+                "yt": "e4BhBUryVFY"
               },
               {
                 "t": "p",
-                "x": "Biojout said he had not intended to \"provoke or to depict shooting real people.\" The game appears to have been removed from NanoCorp's website."
+                "x": "스팀 유저 평가는 '대체로 긍정적(705명 참여, 71% 긍정적)'이다. 정해진 대본 없이 즉흥적인 거짓말로 AI 고객을 속이는 과정과 일과 종료 후 통화 하이라이트를 함께 보며 진행되는 상사의 인사 평가가 포인트라 평가됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+                "cap": "스캠 위드 유어 프렌즈 스크린샷 (사진출처: 게임 스팀 페이지)"
+              },
+              {
+                "t": "p",
+                "x": "다만 불안정한 서버로 인한 잦은 응답 불가 현상과 음성 인식 오류, 프레임 저하 등 최적화가 문제로 지적됐다. 특히 한국어를 포함한 비영어권 언어에서 응답 지연이 심해 정상적인 진행이 어렵다고 언급됐다. AI 서버 유지비로 인한 조기 서비스 종료나 유료 구독제 전환에 대한 우려도 나왔다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "바이브 코딩 좀비 게임\n샌프란시스코 반발에 삭제",
-          "body": "샌프란시스코 빈곤 지역의 '좀비'를 쏘는 바이브 코딩 게임이 반발 끝에 내려졌다.",
-          "mini_headline": "바이브 코딩 좀비 게임, 결국 삭제",
+        "en": {
+          "headline": "New co-op game about fooling AI\nclimbs to top of Steam charts",
+          "body": "A new co-op game about fooling generative AI hit the top of Steam's popularity ranks in early access.",
+          "mini_headline": "Co-op game that fools AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
-                "cap": "Tenderloin Night Shift (이미지 출처: Pierre-Louis Biojout)"
+                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+                "cap": "Steam's global TOP 10 most popular games as of 5 p.m. on October 16 (Source: Steam)"
               },
               {
                 "t": "p",
-                "x": "Y Combinator가 투자한 AI 스타트업 NanoCorp의 창업자 Pierre-Louis Biojout는 주말에 바이브 코딩으로 만든 프로젝트를 공개했다가 샌프란시스코 주민과 시 지도자들에게 거센 비판을 받았다. 노숙과 공공연한 마약 사용으로 알려진 SF Tenderloin 지구가 배경인 웹 슈팅 게임이었다."
+                "x": "The new co-op simulation game 'Scam With Your Friends' launched in Steam early access on the 16th and climbed to the top of the global most popular games chart. Its premise of running scams on generative AI, combined with the funny situations that arise during co-op play, caught gamers' attention."
               },
               {
                 "t": "p",
-                "x": "Biojout는 10월 13일 지금은 삭제된 X 게시물에서 \"샌프란시스코는 Tenderloin을 고치지 못했다\"며 \"그래서 나는 실제 SF 거리를 배경으로 한 Call of Duty 스타일의 좀비 슈팅 게임으로 그걸 수익화했다\"고 썼다. 인게임 광고로 이미 300달러를 벌었다는 말도 덧붙였다."
+                "x": "Set in a scam ring posing as a call center, the co-op game puts up to 6 players in the role of office staff who must meet the whole team's daily revenue quota within set working hours. Missing the quota brings a harsh performance review from the boss, and the target amount rises as the days go by."
               },
               {
                 "t": "p",
-                "x": "게임 Tenderloin Night Shift에서 플레이어가 쏘는 \"좀비\" 중에는 SF Chronicle과 KRON4에 따르면 \"몸이 접힌\" 펜타닐 중독자와 흑인 경비원도 있었다. SF Coalition on Homelessness의 Jennifer Friedenbach는 Biojout가 \"주로 흑인과 유색인종 주민을 비인간화하고 재미로 죽이는 시늉을 하는 것으로 돈을 벌고 있다\"고 비판했다."
+                "x": "Gameplay centers on real-time calls with generative AI customers and hacking. After picking up an incoming call, players must speak directly into a microphone or type text to ease the AI customer's suspicion and get them to hand over gift card numbers or make bank transfers. Players can also remotely access the victim's PC to steal personal information while the call keeps them distracted."
+              },
+              {
+                "t": "video",
+                "yt": "e4BhBUryVFY"
               },
               {
                 "t": "p",
-                "x": "Biojout는 \"도발하거나 실제 사람을 쏘는 장면을 묘사할\" 의도는 없었다고 해명했다. 게임은 NanoCorp 웹사이트에서 삭제된 것으로 보인다."
+                "x": "Steam user reviews are 'Mostly Positive' (705 reviews, 71% positive). Reviewers singled out tricking AI customers with improvised lies and no set script, and the boss's performance review at the end of each workday, held while watching call highlights together."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+                "cap": "Scam With Your Friends screenshot (Image source: the game's Steam page)"
+              },
+              {
+                "t": "p",
+                "x": "However, players pointed to optimization problems, including frequent unresponsiveness caused by unstable servers, voice recognition errors and frame drops. In particular, response delays in non-English languages, including Korean, were said to be severe enough to make normal play difficult. Some also raised concerns about an early shutdown or a switch to a paid subscription because of AI server costs."
               }
             ]
           }
         },
         "ja": {
-          "headline": "バイブコーディングのゾンビ\nゲーム、SFの反発で撤去",
-          "body": "創業者がバイブコーディングで作った、SF貧困地区で「ゾンビ」を撃つゲームが反発で削除された。",
-          "mini_headline": "バイブコーディング製ゾンビゲームが撤去",
+          "headline": "AIをだます協力新作\nSteam人気で最上位",
+          "body": "生成AIをだます協力新作が、Steamの早期アクセスで人気最上位に入った。",
+          "mini_headline": "AIをだます協力ゲーム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
-                "cap": "Tenderloin Night Shift(画像提供：Pierre-Louis Biojout)"
+                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+                "cap": "10月16日午後5時時点のSteam全世界人気ゲームTOP 10（出典：Steam）"
               },
               {
                 "t": "p",
-                "x": "Y Combinatorが支援するAIスタートアップNanoCorpの創業者Pierre-Louis Biojout氏は、週末のバイブコーディングのプロジェクトを公開した後、サンフランシスコの住民や市の指導者から批判を浴びた。ホームレス問題や公然の薬物使用で知られるSFのTenderloin地区を舞台にした、ウェブベースのシューティングゲームだ。"
+                "x": "協力シミュレーションの新作『スキャム・ウィズ・ユア・フレンズ（Scam With Your Friends）』が16日にSteamで早期アクセス配信を開始し、全世界の人気ゲームで最上位に入った。生成AIを相手に詐欺を仕掛けるという設定と、協力プレイ中に起こる愉快な状況がかみ合い、ゲーマーの注目を集めた。"
               },
               {
                 "t": "p",
-                "x": "Biojout氏は10月13日、現在は削除されたXへの投稿で「サンフランシスコはTenderloinを立て直せなかった」と述べ、「だから実際のSFの街を舞台にしたCall of Duty風のゾンビシューティングとして収益化した」と書いた。ゲーム内広告ですでに300ドルを稼いだとも記していた。"
+                "x": "コールセンターを装った詐欺グループを舞台にした協力ゲームで、最大6人がオフィスの社員となり、決められた勤務時間内にチーム全体の1日の収益ノルマを達成しなければならない。ノルマを達成できなければ上司から厳しい人事評価が下され、日数が進むほど目標金額は上がっていく。"
               },
               {
                 "t": "p",
-                "x": "ゲーム「Tenderloin Night Shift」では、プレイヤーが「ゾンビ」を撃つ。SF ChronicleとKRON4によれば、その中には「体を折り曲げた」フェンタニル中毒者や黒人の警備員が含まれていた。SF Coalition on HomelessnessのJennifer Friedenbach氏は、Biojout氏が「主に黒人や褐色人種の住民を非人間化し、遊びで殺すふりをすることで金を稼いでいる」と批判した。"
+                "x": "中心となるのは生成AIの顧客を相手にしたリアルタイム通話とハッキングだ。かかってきた電話に出たら、マイクで直接話すかテキストを入力してAI顧客の疑いを和らげ、ギフトカードの番号や口座振込を引き出す必要がある。通話で注意を引いている間に被害者のPCへリモート接続し、個人情報を抜き取る方法もある。"
+              },
+              {
+                "t": "video",
+                "yt": "e4BhBUryVFY"
               },
               {
                 "t": "p",
-                "x": "Biojout氏は「挑発したり、実在の人々を撃つ様子を描いたりする」意図はなかったと説明した。ゲームはNanoCorpのウェブサイトから削除されたとみられる。"
+                "x": "Steamのユーザー評価は「やや好評（705件、71%が好評）」だ。決まった台本なしにその場の嘘でAI顧客をだます過程や、1日の終わりに通話のハイライトを一緒に見ながら行われる上司の人事評価が見どころだと評価された。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+                "cap": "スキャム・ウィズ・ユア・フレンズのスクリーンショット（画像出典：ゲームのSteamページ）"
+              },
+              {
+                "t": "p",
+                "x": "ただし、不安定なサーバーによる頻繁な無応答、音声認識の誤り、フレームレート低下など最適化の問題が指摘された。特に韓国語を含む英語以外の言語では応答の遅れがひどく、正常なプレイが難しいとの声もあった。AIサーバーの維持費による早期のサービス終了や、有料サブスクリプションへの移行を懸念する声も上がった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "氛围编程僵尸游戏\n遭旧金山抵制下架",
-          "body": "一位创始人用氛围编程做的、在旧金山贫困街区射杀“僵尸”的游戏，因遭强烈反对而下架。",
-          "mini_headline": "氛围编程僵尸游戏下架",
+          "headline": "欺骗AI的合作新作\n登上Steam热门前列",
+          "body": "一款欺骗生成式AI的合作新作以Steam抢先体验推出后跻身热门榜前列。",
+          "mini_headline": "欺骗AI的合作游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
-                "cap": "Tenderloin Night Shift（图片来源：Pierre-Louis Biojout）"
+                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+                "cap": "截至10月16日下午5点的Steam全球最热门游戏TOP 10（资料来源：Steam）"
               },
               {
                 "t": "p",
-                "x": "获Y Combinator投资的AI初创公司NanoCorp创始人Pierre-Louis Biojout发布了一个周末氛围编程项目后，遭到旧金山居民和市领导的批评：这是一款以SF的Tenderloin区为背景的网页射击游戏，该区以无家可归问题和公开吸毒闻名。"
+                "x": "合作模拟新作《Scam With Your Friends》于16日以Steam抢先体验形式推出后，跻身全球最热门游戏榜前列。以生成式AI为对象实施诈骗的设定，加上合作过程中产生的有趣状况，吸引了玩家的关注。"
               },
               {
                 "t": "p",
-                "x": "Biojout在10月13日一篇现已删除的X帖子中写道：“旧金山没能解决Tenderloin的问题，所以我把它变现成了一款以真实SF街道为背景、Call of Duty风格的僵尸射击游戏。”他还提到，自己已经通过游戏内广告赚了300美元。"
+                "x": "这是一款以伪装成呼叫中心的诈骗团伙为背景的合作游戏，最多6名玩家扮演办公室职员，须在规定的工作时间内完成全队的每日收益指标。若未完成指标，上司会给出严厉的考核评价，且随着天数推进，目标金额会不断提高。"
               },
               {
                 "t": "p",
-                "x": "在这款名为Tenderloin Night Shift的游戏中，玩家射杀“僵尸”。据SF Chronicle和KRON4报道，这些“僵尸”包括一名“弯着身子”的芬太尼成瘾者和一名黑人保安。SF Coalition on Homelessness的Jennifer Friedenbach表示，Biojout是在“将以黑人和棕色人种为主的居民非人化，并以假装杀害他们取乐来牟利”。"
+                "x": "游戏的核心是与生成式AI客户进行实时通话和黑客入侵。接起来电后，玩家需直接对着麦克风说话或输入文字，打消AI客户的疑虑，诱导对方提供礼品卡号码或进行转账。也可以在通话分散对方注意力时，远程接入受害者的PC窃取个人信息。"
+              },
+              {
+                "t": "video",
+                "yt": "e4BhBUryVFY"
               },
               {
                 "t": "p",
-                "x": "Biojout表示，他无意“挑衅或描绘射杀真人”。这款游戏似乎已从NanoCorp网站上撤下。"
+                "x": "Steam用户评价为“多半好评（705人参与，71%好评）”。玩家认为，无固定剧本、凭即兴谎言骗过AI客户的过程，以及每天工作结束后一起观看通话精彩片段并由上司进行考核评价的环节，是游戏的看点。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+                "cap": "Scam With Your Friends截图（图片来源：游戏Steam页面）"
+              },
+              {
+                "t": "p",
+                "x": "不过，服务器不稳定导致的频繁无响应、语音识别错误和掉帧等优化问题也被指出。尤其是包括韩语在内的非英语语言响应延迟严重，难以正常进行游戏。也有人担心AI服务器维护成本可能导致提前停服或转为付费订阅制。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Retiran un juego de zombis\ntras polémica en San Francisco",
-          "body": "Retiran tras las críticas un juego hecho con vibe coding para disparar a 'zombis' en una zona pobre de San Francisco.",
-          "mini_headline": "Retiran un juego de zombis hecho con vibe coding",
+          "headline": "Un juego para engañar a la AI\nen equipo, en lo alto de Steam",
+          "body": "Un nuevo juego cooperativo sobre engañar a la AI generativa llegó a lo más alto de Steam en acceso anticipado.",
+          "mini_headline": "Cooperativo para engañar a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
-                "cap": "Tenderloin Night Shift (Imagen: Pierre-Louis Biojout)"
+                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+                "cap": "TOP 10 de los juegos más populares de Steam en todo el mundo a las 5 p. m. del 16 de octubre (Fuente: Steam)"
               },
               {
                 "t": "p",
-                "x": "Pierre-Louis Biojout, fundador de NanoCorp, una startup de IA respaldada por Y Combinator, recibió críticas de vecinos y dirigentes de San Francisco tras publicar un proyecto de vibe coding de fin de semana: un shooter web ambientado en el distrito Tenderloin de SF, conocido por la falta de vivienda y el consumo de drogas a la vista."
+                "x": "El nuevo juego cooperativo de simulación 'Scam With Your Friends' se lanzó en acceso anticipado en Steam el día 16 y escaló a lo más alto de la lista mundial de juegos más populares. Su premisa de montar estafas a una AI generativa y las situaciones divertidas que surgen durante el juego en equipo captaron la atención de los jugadores."
               },
               {
                 "t": "p",
-                "x": "\"San Francisco no pudo arreglar el Tenderloin\", escribió Biojout en una publicación de X del 13 de octubre, ya eliminada. \"Así que lo moneticé [como un] shooter de zombis al estilo Call of Duty en las calles reales de SF\". Señaló que ya había ganado $300 con anuncios dentro del juego."
+                "x": "Es un juego cooperativo ambientado en una banda de estafadores que se hace pasar por un centro de llamadas: hasta 6 jugadores asumen el papel de empleados de oficina y deben cumplir la cuota diaria de ingresos de todo el equipo dentro de un horario laboral fijo. Si no alcanzan la cuota, el jefe emite una dura evaluación de desempeño, y el monto objetivo sube a medida que pasan los días."
               },
               {
                 "t": "p",
-                "x": "En el juego, Tenderloin Night Shift, los jugadores disparaban a \"zombis\" que, según SF Chronicle y KRON4, incluían a un adicto al fentanilo \"doblado\" y a un guardia de seguridad negro. Jennifer Friedenbach, de la SF Coalition on Homelessness, dijo que Biojout estaba \"monetizando la deshumanización y el asesinato simulado por diversión de residentes mayoritariamente negros y morenos\"."
+                "x": "El núcleo del juego son las llamadas en tiempo real con clientes de AI generativa y el hackeo. Tras contestar una llamada entrante, hay que hablar directamente al micrófono o escribir texto para reducir las sospechas del cliente de AI y llevarlo a dar números de tarjetas de regalo o a hacer transferencias bancarias. También es posible conectarse de forma remota al PC de la víctima para robar sus datos personales mientras la llamada la mantiene distraída."
+              },
+              {
+                "t": "video",
+                "yt": "e4BhBUryVFY"
               },
               {
                 "t": "p",
-                "x": "Biojout dijo que no pretendía \"provocar ni representar disparos contra personas reales\". Al parecer, el juego se ha retirado del sitio web de NanoCorp."
+                "x": "La valoración de los usuarios de Steam es 'Mayormente positiva' (705 reseñas, 71% positivas). Se destacaron como puntos fuertes engañar a los clientes de AI con mentiras improvisadas, sin un guion fijo, y la evaluación de desempeño del jefe al final de cada jornada mientras se ven juntos los mejores momentos de las llamadas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+                "cap": "Captura de pantalla de Scam With Your Friends (Fuente de la imagen: página del juego en Steam)"
+              },
+              {
+                "t": "p",
+                "x": "Sin embargo, se señalaron problemas de optimización, como frecuentes fallos de respuesta por servidores inestables, errores de reconocimiento de voz y caídas de fotogramas. En particular, se mencionó que en idiomas distintos del inglés, incluido el coreano, los retrasos de respuesta son tan graves que dificultan jugar con normalidad. También surgió preocupación por un cierre prematuro del servicio o un paso a un modelo de suscripción de pago debido al costo de mantener los servidores de AI."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "바이브 코딩 좀비 게임\n샌프란시스코 반발에 삭제",
-          "body": "샌프란시스코 빈곤 지역의 '좀비'를 쏘는 바이브 코딩 게임이 반발 끝에 내려졌다.",
-          "mini_headline": "바이브 코딩 좀비 게임, 결국 삭제",
+        "en": {
+          "headline": "New co-op game about fooling AI\nclimbs to top of Steam charts",
+          "body": "A new co-op game about fooling generative AI hit the top of Steam's popularity ranks in early access.",
+          "mini_headline": "Co-op game that fools AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
-                "cap": "Tenderloin Night Shift (이미지 출처: Pierre-Louis Biojout)"
+                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+                "cap": "Steam's global TOP 10 most popular games as of 5 p.m. on October 16 (Source: Steam)"
               },
               {
                 "t": "p",
-                "x": "Y Combinator의 투자를 받은 AI 스타트업 NanoCorp의 창업자 Pierre-Louis Biojout는 주말 바이브 코딩 프로젝트를 공개한 뒤 샌프란시스코 주민과 시 지도자들의 거센 비판을 받았다. 노숙과 공공연한 마약 사용으로 알려진 SF Tenderloin 지구를 배경으로 한 웹 기반 슈팅 게임이었다."
+                "x": "The new co-op simulation game 'Scam With Your Friends' launched in Steam early access on the 16th and climbed to the top of the global most popular games chart. Its premise of running scams on generative AI, combined with the funny situations that arise during co-op play, caught gamers' attention."
               },
               {
                 "t": "p",
-                "x": "Biojout는 10월 13일 지금은 삭제된 X 게시물에서 \"샌프란시스코는 Tenderloin을 고치지 못했다\"며 \"그래서 나는 실제 SF 거리를 배경으로 한 Call of Duty 스타일의 좀비 슈팅 게임으로 그걸 수익화했다\"고 썼다. 그는 이미 인게임 광고로 300달러를 벌었다고 덧붙였다."
+                "x": "Set in a scam ring posing as a call center, the co-op game puts up to 6 players in the role of office staff who must meet the whole team's daily revenue quota within set working hours. Missing the quota brings a harsh performance review from the boss, and the target amount rises as the days go by."
               },
               {
                 "t": "p",
-                "x": "게임 Tenderloin Night Shift에서 플레이어는 \"좀비\"를 쏘는데, SF Chronicle과 KRON4에 따르면 여기에는 \"몸이 접힌\" 펜타닐 중독자와 흑인 경비원이 포함돼 있었다. SF Coalition on Homelessness의 Jennifer Friedenbach는 Biojout가 \"주로 흑인과 유색인종 주민을 비인간화하고 재미로 죽이는 시늉을 하는 것으로 돈을 벌고 있다\"고 비판했다."
+                "x": "Gameplay centers on real-time calls with generative AI customers and hacking. After picking up an incoming call, players must speak directly into a microphone or type text to ease the AI customer's suspicion and get them to hand over gift card numbers or make bank transfers. Players can also remotely access the victim's PC to steal personal information while the call keeps them distracted."
+              },
+              {
+                "t": "video",
+                "yt": "e4BhBUryVFY"
               },
               {
                 "t": "p",
-                "x": "Biojout는 \"도발하거나 실제 사람을 쏘는 장면을 묘사할\" 의도는 없었다고 밝혔다. 게임은 NanoCorp 웹사이트에서 삭제된 것으로 보인다."
+                "x": "Steam user reviews are 'Mostly Positive' (705 reviews, 71% positive). Reviewers singled out tricking AI customers with improvised lies and no set script, and the boss's performance review at the end of each workday, held while watching call highlights together."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+                "cap": "Scam With Your Friends screenshot (Image source: the game's Steam page)"
+              },
+              {
+                "t": "p",
+                "x": "However, players pointed to optimization problems, including frequent unresponsiveness caused by unstable servers, voice recognition errors and frame drops. In particular, response delays in non-English languages, including Korean, were said to be severe enough to make normal play difficult. Some also raised concerns about an early shutdown or a switch to a paid subscription because of AI server costs."
               }
             ]
           }
         },
         "ja": {
-          "headline": "バイブコーディングのゾンビ\nゲーム、SFの反発で撤去",
-          "body": "創業者がバイブコーディングで作った、SF貧困地区で「ゾンビ」を撃つゲームが反発で削除された。",
-          "mini_headline": "バイブコーディング製ゾンビゲームが撤去",
+          "headline": "AIをだます協力新作\nSteam人気で最上位",
+          "body": "生成AIをだます協力新作が、Steamの早期アクセスで人気最上位に入った。",
+          "mini_headline": "AIをだます協力ゲーム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
-                "cap": "Tenderloin Night Shift(画像提供：Pierre-Louis Biojout)"
+                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+                "cap": "10月16日午後5時時点のSteam全世界人気ゲームTOP 10（出典：Steam）"
               },
               {
                 "t": "p",
-                "x": "Y Combinatorが支援するAIスタートアップNanoCorpの創業者Pierre-Louis Biojout氏は、週末のバイブコーディングのプロジェクトを公開した後、サンフランシスコの住民や市の指導者から批判を浴びた。ホームレス問題や公然の薬物使用で知られるSFのTenderloin地区を舞台にした、ウェブベースのシューティングゲームだ。"
+                "x": "協力シミュレーションの新作『スキャム・ウィズ・ユア・フレンズ（Scam With Your Friends）』が16日にSteamで早期アクセス配信を開始し、全世界の人気ゲームで最上位に入った。生成AIを相手に詐欺を仕掛けるという設定と、協力プレイ中に起こる愉快な状況がかみ合い、ゲーマーの注目を集めた。"
               },
               {
                 "t": "p",
-                "x": "Biojout氏は10月13日、現在は削除されたXへの投稿で「サンフランシスコはTenderloinを立て直せなかった」と述べ、「だから実際のSFの街を舞台にしたCall of Duty風のゾンビシューティングとして収益化した」と書いた。ゲーム内広告ですでに300ドルを稼いだとも記していた。"
+                "x": "コールセンターを装った詐欺グループを舞台にした協力ゲームで、最大6人がオフィスの社員となり、決められた勤務時間内にチーム全体の1日の収益ノルマを達成しなければならない。ノルマを達成できなければ上司から厳しい人事評価が下され、日数が進むほど目標金額は上がっていく。"
               },
               {
                 "t": "p",
-                "x": "ゲーム「Tenderloin Night Shift」では、プレイヤーが「ゾンビ」を撃つ。SF ChronicleとKRON4によれば、その中には「体を折り曲げた」フェンタニル中毒者や黒人の警備員が含まれていた。SF Coalition on HomelessnessのJennifer Friedenbach氏は、Biojout氏が「主に黒人や褐色人種の住民を非人間化し、遊びで殺すふりをすることで金を稼いでいる」と批判した。"
+                "x": "中心となるのは生成AIの顧客を相手にしたリアルタイム通話とハッキングだ。かかってきた電話に出たら、マイクで直接話すかテキストを入力してAI顧客の疑いを和らげ、ギフトカードの番号や口座振込を引き出す必要がある。通話で注意を引いている間に被害者のPCへリモート接続し、個人情報を抜き取る方法もある。"
+              },
+              {
+                "t": "video",
+                "yt": "e4BhBUryVFY"
               },
               {
                 "t": "p",
-                "x": "Biojout氏は「挑発したり、実在の人々を撃つ様子を描いたりする」意図はなかったと説明した。ゲームはNanoCorpのウェブサイトから削除されたとみられる。"
+                "x": "Steamのユーザー評価は「やや好評（705件、71%が好評）」だ。決まった台本なしにその場の嘘でAI顧客をだます過程や、1日の終わりに通話のハイライトを一緒に見ながら行われる上司の人事評価が見どころだと評価された。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+                "cap": "スキャム・ウィズ・ユア・フレンズのスクリーンショット（画像出典：ゲームのSteamページ）"
+              },
+              {
+                "t": "p",
+                "x": "ただし、不安定なサーバーによる頻繁な無応答、音声認識の誤り、フレームレート低下など最適化の問題が指摘された。特に韓国語を含む英語以外の言語では応答の遅れがひどく、正常なプレイが難しいとの声もあった。AIサーバーの維持費による早期のサービス終了や、有料サブスクリプションへの移行を懸念する声も上がった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "氛围编程僵尸游戏\n遭旧金山抵制下架",
-          "body": "一位创始人用氛围编程做的、在旧金山贫困街区射杀“僵尸”的游戏，因遭强烈反对而下架。",
-          "mini_headline": "氛围编程僵尸游戏下架",
+          "headline": "欺骗AI的合作新作\n登上Steam热门前列",
+          "body": "一款欺骗生成式AI的合作新作以Steam抢先体验推出后跻身热门榜前列。",
+          "mini_headline": "欺骗AI的合作游戏",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
-                "cap": "Tenderloin Night Shift（图片来源：Pierre-Louis Biojout）"
+                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+                "cap": "截至10月16日下午5点的Steam全球最热门游戏TOP 10（资料来源：Steam）"
               },
               {
                 "t": "p",
-                "x": "获Y Combinator投资的AI初创公司NanoCorp创始人Pierre-Louis Biojout发布了一个周末氛围编程项目后，遭到旧金山居民和市领导的批评：这是一款以SF的Tenderloin区为背景的网页射击游戏，该区以无家可归问题和公开吸毒闻名。"
+                "x": "合作模拟新作《Scam With Your Friends》于16日以Steam抢先体验形式推出后，跻身全球最热门游戏榜前列。以生成式AI为对象实施诈骗的设定，加上合作过程中产生的有趣状况，吸引了玩家的关注。"
               },
               {
                 "t": "p",
-                "x": "Biojout在10月13日一篇现已删除的X帖子中写道：“旧金山没能解决Tenderloin的问题，所以我把它变现成了一款以真实SF街道为背景、Call of Duty风格的僵尸射击游戏。”他还提到，自己已经通过游戏内广告赚了300美元。"
+                "x": "这是一款以伪装成呼叫中心的诈骗团伙为背景的合作游戏，最多6名玩家扮演办公室职员，须在规定的工作时间内完成全队的每日收益指标。若未完成指标，上司会给出严厉的考核评价，且随着天数推进，目标金额会不断提高。"
               },
               {
                 "t": "p",
-                "x": "在这款名为Tenderloin Night Shift的游戏中，玩家射杀“僵尸”。据SF Chronicle和KRON4报道，这些“僵尸”包括一名“弯着身子”的芬太尼成瘾者和一名黑人保安。SF Coalition on Homelessness的Jennifer Friedenbach表示，Biojout是在“将以黑人和棕色人种为主的居民非人化，并以假装杀害他们取乐来牟利”。"
+                "x": "游戏的核心是与生成式AI客户进行实时通话和黑客入侵。接起来电后，玩家需直接对着麦克风说话或输入文字，打消AI客户的疑虑，诱导对方提供礼品卡号码或进行转账。也可以在通话分散对方注意力时，远程接入受害者的PC窃取个人信息。"
+              },
+              {
+                "t": "video",
+                "yt": "e4BhBUryVFY"
               },
               {
                 "t": "p",
-                "x": "Biojout表示，他无意“挑衅或描绘射杀真人”。这款游戏似乎已从NanoCorp网站上撤下。"
+                "x": "Steam用户评价为“多半好评（705人参与，71%好评）”。玩家认为，无固定剧本、凭即兴谎言骗过AI客户的过程，以及每天工作结束后一起观看通话精彩片段并由上司进行考核评价的环节，是游戏的看点。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+                "cap": "Scam With Your Friends截图（图片来源：游戏Steam页面）"
+              },
+              {
+                "t": "p",
+                "x": "不过，服务器不稳定导致的频繁无响应、语音识别错误和掉帧等优化问题也被指出。尤其是包括韩语在内的非英语语言响应延迟严重，难以正常进行游戏。也有人担心AI服务器维护成本可能导致提前停服或转为付费订阅制。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Retiran un juego de zombis\ntras polémica en San Francisco",
-          "body": "Retiran tras las críticas un juego hecho con vibe coding para disparar a 'zombis' en una zona pobre de San Francisco.",
-          "mini_headline": "Retiran un juego de zombis hecho con vibe coding",
+          "headline": "Un juego para engañar a la AI\nen equipo, en lo alto de Steam",
+          "body": "Un nuevo juego cooperativo sobre engañar a la AI generativa llegó a lo más alto de Steam en acceso anticipado.",
+          "mini_headline": "Cooperativo para engañar a la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi.webp",
-                "cap": "Tenderloin Night Shift (Imagen: Pierre-Louis Biojout)"
+                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+                "cap": "TOP 10 de los juegos más populares de Steam en todo el mundo a las 5 p. m. del 16 de octubre (Fuente: Steam)"
               },
               {
                 "t": "p",
-                "x": "Pierre-Louis Biojout, fundador de NanoCorp, una startup de IA respaldada por Y Combinator, recibió críticas de vecinos y dirigentes de San Francisco tras publicar un proyecto de vibe coding de fin de semana: un shooter web ambientado en el distrito Tenderloin de SF, conocido por la falta de vivienda y el consumo de drogas a la vista."
+                "x": "El nuevo juego cooperativo de simulación 'Scam With Your Friends' se lanzó en acceso anticipado en Steam el día 16 y escaló a lo más alto de la lista mundial de juegos más populares. Su premisa de montar estafas a una AI generativa y las situaciones divertidas que surgen durante el juego en equipo captaron la atención de los jugadores."
               },
               {
                 "t": "p",
-                "x": "\"San Francisco no pudo arreglar el Tenderloin\", escribió Biojout en una publicación de X del 13 de octubre, ya eliminada. \"Así que lo moneticé [como un] shooter de zombis al estilo Call of Duty en las calles reales de SF\". Señaló que ya había ganado $300 con anuncios dentro del juego."
+                "x": "Es un juego cooperativo ambientado en una banda de estafadores que se hace pasar por un centro de llamadas: hasta 6 jugadores asumen el papel de empleados de oficina y deben cumplir la cuota diaria de ingresos de todo el equipo dentro de un horario laboral fijo. Si no alcanzan la cuota, el jefe emite una dura evaluación de desempeño, y el monto objetivo sube a medida que pasan los días."
               },
               {
                 "t": "p",
-                "x": "En el juego, Tenderloin Night Shift, los jugadores disparaban a \"zombis\" que, según SF Chronicle y KRON4, incluían a un adicto al fentanilo \"doblado\" y a un guardia de seguridad negro. Jennifer Friedenbach, de la SF Coalition on Homelessness, dijo que Biojout estaba \"monetizando la deshumanización y el asesinato simulado por diversión de residentes mayoritariamente negros y morenos\"."
+                "x": "El núcleo del juego son las llamadas en tiempo real con clientes de AI generativa y el hackeo. Tras contestar una llamada entrante, hay que hablar directamente al micrófono o escribir texto para reducir las sospechas del cliente de AI y llevarlo a dar números de tarjetas de regalo o a hacer transferencias bancarias. También es posible conectarse de forma remota al PC de la víctima para robar sus datos personales mientras la llamada la mantiene distraída."
+              },
+              {
+                "t": "video",
+                "yt": "e4BhBUryVFY"
               },
               {
                 "t": "p",
-                "x": "Biojout dijo que no pretendía \"provocar ni representar disparos contra personas reales\". Al parecer, el juego se ha retirado del sitio web de NanoCorp."
+                "x": "La valoración de los usuarios de Steam es 'Mayormente positiva' (705 reseñas, 71% positivas). Se destacaron como puntos fuertes engañar a los clientes de AI con mentiras improvisadas, sin un guion fijo, y la evaluación de desempeño del jefe al final de cada jornada mientras se ven juntos los mejores momentos de las llamadas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+                "cap": "Captura de pantalla de Scam With Your Friends (Fuente de la imagen: página del juego en Steam)"
+              },
+              {
+                "t": "p",
+                "x": "Sin embargo, se señalaron problemas de optimización, como frecuentes fallos de respuesta por servidores inestables, errores de reconocimiento de voz y caídas de fotogramas. En particular, se mencionó que en idiomas distintos del inglés, incluido el coreano, los retrasos de respuesta son tan graves que dificultan jugar con normalidad. También surgió preocupación por un cierre prematuro del servicio o un paso a un modelo de suscripción de pago debido al costo de mantener los servidores de AI."
               }
             ]
           }
@@ -651,15 +1249,15 @@
       }
     },
     {
-      "id": "games-wow-forever",
+      "id": "games-oblivion-claude-fpsfix",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Blizzard, WoW\n신작 AI 사용 부인",
-      "body": "Blizzard 직원들은 신작 홍보 영상의 AI 사용 의혹을 부인했다.",
-      "mini_headline": "Blizzard \"WoW 영상에 AI 없다\"",
+      "headline": "Oblivion FPS\n40%↑ Claude 모드",
+      "body": "Claude-built 모드가 Oblivion FPS를 40% 넘게 끌어올렸다.",
+      "mini_headline": "Claude 모드로 Oblivion FPS 상승",
       "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
+      "source": "Wccftech",
+      "url": "https://wccftech.com/oblivion-remastered-mod-built-using-claude-ai-boosts-fps-by-over-40-and-drastically-reduces-stuttering-without-sacrificing-visual-quality/",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
@@ -667,181 +1265,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
-            "cap": "World of Warcraft: Forever (이미지 출처: Blizzard Entertainment)"
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
           },
           {
             "t": "p",
-            "x": "Blizzard는 다음 달 World of Warcraft: Forever 출시를 앞두고 새 MMO의 소셜 미디어 광고를 만들어 왔는데, 여기에 생성형 AI 콘텐츠는 쓰지 않았다고 밝혔다."
+            "x": "The Elder Scrolls IV: Oblivion Remastered는 출시 이후로 CPU 병목, 들쭉날쭉한 프레임 타임, 이동 중 끊김에 시달렸다. Reddit 사용자 LTSharpe는 Ryzen 7 5800X 시스템을 RTX 2070 SUPER에서 Radeon RX 9070 XT로 업그레이드하고도 문제가 그대로이자 Claude Opus 5.5에 도움을 청했다. Claude Opus 5.5는 게임 코드에서 근본적인 비효율 몇 가지를 짚어낸 것으로 알려졌다."
           },
           {
             "t": "p",
-            "x": "온라인에서 의혹이 나오자 회사의 디지털 마케팅 매니저가 X에 이렇게 썼다. \"이 영상들에 AI를 쓰느냐는 댓글이 있었다. 절대 아니다. 실제 팀원들이 대본을 쓰고, 영상을 확보해 편집하며, 나는 매주 VO 배우들과 녹음 부스에 들어가 있다.\""
+            "x": "이어 약 2주 반 동안 AI-assisted 리버스 엔지니어링과 프로파일링, 최적화 작업이 이어졌다. 전문 개발 경력이 없는 LTSharpe는 Claude에게 지시해 엔진 수준 최적화 약 40개를 만들었고, 이를 오픈소스 모드 Oblivion Remastered Performance Fix로 묶었다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
           },
           {
             "t": "p",
-            "x": "World of Warcraft의 소셜 미디어 매니저도 \"덧붙이자면, 우리는 만드는 어떤(ANY) 소셜 콘텐츠에도 AI를 쓰지 않는다. 정말 절대 아니다\"라고 거들었다."
+            "x": "알려진 바로는 이 게임이 매 프레임 해와 달의 조명을 새로 구성했고 불필요한 메모리 할당을 되풀이했으며 DirectX 12 명령 준비도 대부분 한 스레드에 몰려 있었다. 모드는 멀티스레딩과 메모리 관리를 손보면서도 Nanite, Lumen 같은 시각 설정은 그대로 둔다고 한다."
+          },
+          {
+            "t": "video",
+            "yt": "K8WkCz6cuHk"
           },
           {
             "t": "p",
-            "x": "대규모 해고가 이어지는 가운데 업계 다른 회사들이 생성형 AI 지원을 발표하던 시점에 나온 게시물이다. Epic Games도 그중 하나다. CEO Tim Sweeney는 \"최대한의 AI 가속\"을 향한 \"거대한 전환\"을 언급했다."
+            "x": "4K 환경에서 FSR Performance와 Frame Generation을 켜고 Imperial City를 비행하며 측정하자 평균 FPS는 72에서 102로(+41%) 올랐고, 50 ms를 넘는 끊김은 회당 19.5회에서 4.8회로 줄었다. Cheydinhal에서는 64 FPS에서 91 FPS로(+43%) 뛰었다. 다만 결과는 주로 Ryzen 7 5800X/RX 9070 XT 단일 시스템에서 나왔다. v1.0.0 베타에는 소스 코드와 벤치마크 도구가 함께 들어 있다."
           }
         ]
       },
-      "_lead_image": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Blizzard denies using AI in\nWorld of Warcraft Forever",
-          "body": "Blizzard staff rejected claims of AI in World of Warcraft: Forever videos, saying they use no AI on any social content.",
-          "mini_headline": "Blizzard: no AI in WoW videos",
+          "headline": "Claude-built Oblivion mod\nlifts FPS by over 40%",
+          "body": "Oblivion Remastered Performance Fix, built with Claude, raises FPS over 40% and sharply cuts stuttering.",
+          "mini_headline": "Claude mod lifts Oblivion FPS",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
-                "cap": "World of Warcraft: Forever (Image credit: Blizzard Entertainment)"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
               },
               {
                 "t": "p",
-                "x": "Ahead of World of Warcraft: Forever's release next month, Blizzard has been making social media ads for the new MMO, which it says contain no generative AI content."
+                "x": "The Elder Scrolls IV: Oblivion Remastered has struggled with CPU bottlenecks, inconsistent frame times and traversal stuttering since launch. Reddit user LTSharpe, whose Ryzen 7 5800X system still struggled after upgrading from an RTX 2070 SUPER to a Radeon RX 9070 XT, turned to Claude Opus 5.5, which reportedly identified several fundamental inefficiencies in the game's code."
               },
               {
                 "t": "p",
-                "x": "Responding to allegations online, the company's digital marketing manager wrote on X: \"there have been comments on whether or not we use AI in these videos. That's a big hell nah. We have real team members writing scripts, getting and editing footage, and I've been in recording booths with our VO actors every week.\""
+                "x": "Roughly two and a half weeks of AI-assisted reverse engineering, profiling and optimization followed. Despite no professional development background, LTSharpe directed Claude to produce approximately 40 engine-level optimizations, packaged into an open-source mod called Oblivion Remastered Performance Fix."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
               },
               {
                 "t": "p",
-                "x": "World of Warcraft's social media manager added: \"To add, we don't use AI on ANY social content we make. Big hell nah indeed.\""
+                "x": "The game was reportedly rebuilding its sun and moon lighting every frame, with redundant memory allocations and DirectX 12 command preparation largely confined to a single thread. The mod uses better multithreading and memory management while reportedly preserving Nanite, Lumen and other visual settings."
+              },
+              {
+                "t": "video",
+                "yt": "K8WkCz6cuHk"
               },
               {
                 "t": "p",
-                "x": "The posts come as others in the industry announce support for gen AI amid widespread layoffs, including Epic Games, whose CEO Tim Sweeney spoke of a \"huge pivot\" toward \"maximum AI acceleration.\""
+                "x": "In an Imperial City flythrough at 4K with FSR Performance and Frame Generation, average FPS rose from 72 to 102 (+41%) and hitches over 50 ms fell from 19.5 to 4.8 per run. Cheydinhal went from 64 to 91 FPS (+43%). Results come primarily from a single Ryzen 7 5800X/RX 9070 XT system, and the v1.0.0 beta ships with source code and benchmarking tools."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Blizzard, WoW\n신작 AI 사용 부인",
-          "body": "Blizzard 직원들은 신작 홍보 영상의 AI 사용 의혹을 부인했다.",
-          "mini_headline": "Blizzard \"WoW 영상에 AI 없다\"",
+          "headline": "Oblivion FPS\n40%↑ Claude 모드",
+          "body": "Claude-built 모드가 Oblivion FPS를 40% 넘게 끌어올렸다.",
+          "mini_headline": "Claude 모드로 Oblivion FPS 상승",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
-                "cap": "World of Warcraft: Forever (이미지 출처: Blizzard Entertainment)"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
               },
               {
                 "t": "p",
-                "x": "Blizzard는 다음 달 World of Warcraft: Forever 출시를 앞두고 새 MMO의 소셜 미디어 광고를 만들어 왔는데, 여기에 생성형 AI 콘텐츠는 쓰지 않았다고 밝혔다."
+                "x": "The Elder Scrolls IV: Oblivion Remastered는 출시 이후로 CPU 병목, 들쭉날쭉한 프레임 타임, 이동 중 끊김에 시달렸다. Reddit 사용자 LTSharpe는 Ryzen 7 5800X 시스템을 RTX 2070 SUPER에서 Radeon RX 9070 XT로 업그레이드하고도 문제가 그대로이자 Claude Opus 5.5에 도움을 청했다. Claude Opus 5.5는 게임 코드에서 근본적인 비효율 몇 가지를 짚어낸 것으로 알려졌다."
               },
               {
                 "t": "p",
-                "x": "온라인에서 의혹이 나오자 회사의 디지털 마케팅 매니저가 X에 이렇게 썼다. \"이 영상들에 AI를 쓰느냐는 댓글이 있었다. 절대 아니다. 실제 팀원들이 대본을 쓰고, 영상을 확보해 편집하며, 나는 매주 VO 배우들과 녹음 부스에 들어가 있다.\""
+                "x": "이어 약 2주 반 동안 AI-assisted 리버스 엔지니어링과 프로파일링, 최적화 작업이 이어졌다. 전문 개발 경력이 없는 LTSharpe는 Claude에게 지시해 엔진 수준 최적화 약 40개를 만들었고, 이를 오픈소스 모드 Oblivion Remastered Performance Fix로 묶었다."
               },
-              {
-                "t": "p",
-                "x": "World of Warcraft의 소셜 미디어 매니저도 \"덧붙이자면, 우리는 만드는 어떤(ANY) 소셜 콘텐츠에도 AI를 쓰지 않는다. 정말 절대 아니다\"라고 거들었다."
-              },
-              {
-                "t": "p",
-                "x": "대규모 해고가 이어지는 가운데 업계 다른 회사들이 생성형 AI 지원을 발표하던 시점에 나온 게시물이다. Epic Games도 그중 하나다. CEO Tim Sweeney는 \"최대한의 AI 가속\"을 향한 \"거대한 전환\"을 언급했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Blizzard、WoW\n新作でのAI使用を否定",
-          "body": "Blizzardの社員は、WoW新作の動画にAIを使ったとの指摘を否定した。",
-          "mini_headline": "Blizzard、WoW動画にAIは不使用",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
-                "cap": "World of Warcraft: Forever(画像提供：Blizzard Entertainment)"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
               },
               {
                 "t": "p",
-                "x": "来月のWorld of Warcraft: Foreverのリリースを前に、Blizzardは新作MMOのソーシャルメディア広告を制作しており、生成AIによるコンテンツは含まれていないとしている。"
+                "x": "알려진 바로는 이 게임이 매 프레임 해와 달의 조명을 새로 구성했고 불필요한 메모리 할당을 되풀이했으며 DirectX 12 명령 준비도 대부분 한 스레드에 몰려 있었다. 모드는 멀티스레딩과 메모리 관리를 손보면서도 Nanite, Lumen 같은 시각 설정은 그대로 둔다고 한다."
+              },
+              {
+                "t": "video",
+                "yt": "K8WkCz6cuHk"
               },
               {
                 "t": "p",
-                "x": "ネット上の指摘に対し、同社のデジタルマーケティングマネージャーはXに次のように投稿した。「これらの動画でAIを使っているかどうかについてコメントが寄せられている。答えは断じてノーだ。実際のチームメンバーが脚本を書き、映像を集めて編集しているし、私は毎週VO俳優たちと収録ブースに入っている」"
-              },
-              {
-                "t": "p",
-                "x": "World of Warcraftのソーシャルメディアマネージャーも「付け加えると、私たちが作るソーシャルコンテンツには一切(ANY)AIを使っていない。まさに断じてノーだ」と続けた。"
-              },
-              {
-                "t": "p",
-                "x": "これらの投稿は、大規模なレイオフが広がるなか、業界の他社が生成AIへの支持を表明している時期に出た。Epic Gamesもそのひとつで、CEOのTim Sweeney氏は「AIの最大限の加速」に向けた「大転換」について語っていた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Blizzard否认\nWoW新作宣传使用AI",
-          "body": "Blizzard员工否认新作宣传视频使用AI，并称所有社交内容都不用AI。",
-          "mini_headline": "Blizzard：WoW视频没用AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
-                "cap": "World of Warcraft: Forever（图片来源：Blizzard Entertainment）"
-              },
-              {
-                "t": "p",
-                "x": "在World of Warcraft: Forever下月发布之前，Blizzard一直在为这款新MMO制作社交媒体广告，并表示其中不含生成式AI内容。"
-              },
-              {
-                "t": "p",
-                "x": "针对网上的质疑，公司的数字营销经理在X上写道：“有评论问我们是否在这些视频中使用了AI。绝对没有。我们有真正的团队成员写脚本、获取和剪辑素材，我每周都和我们的VO演员一起待在录音棚里。”"
-              },
-              {
-                "t": "p",
-                "x": "World of Warcraft的社交媒体经理补充道：“再补充一句，我们制作的任何（ANY）社交内容都不使用AI。确实绝对没有。”"
-              },
-              {
-                "t": "p",
-                "x": "与此同时，业内其他公司在大规模裁员之际纷纷宣布支持生成式AI，其中包括Epic Games，其CEO Tim Sweeney曾谈到向“最大程度的AI加速”进行“巨大转向”。"
+                "x": "4K 환경에서 FSR Performance와 Frame Generation을 켜고 Imperial City를 비행하며 측정하자 평균 FPS는 72에서 102로(+41%) 올랐고, 50 ms를 넘는 끊김은 회당 19.5회에서 4.8회로 줄었다. Cheydinhal에서는 64 FPS에서 91 FPS로(+43%) 뛰었다. 다만 결과는 주로 Ryzen 7 5800X/RX 9070 XT 단일 시스템에서 나왔다. v1.0.0 베타에는 소스 코드와 벤치마크 도구가 함께 들어 있다."
               }
             ]
           }
         },
         "es": {
-          "headline": "Blizzard niega usar IA en\nWorld of Warcraft Forever",
-          "body": "Personal de Blizzard negó el uso de IA en los videos de World of Warcraft: Forever y aseguró que no la usan en redes.",
-          "mini_headline": "Blizzard: sin IA en los videos de WoW",
+          "headline": "Mod Claude-built para Oblivion\nsube los FPS más de un 40%",
+          "body": "Oblivion Remastered Performance Fix, creado con Claude, sube los FPS más de un 40% y reduce mucho los tirones.",
+          "mini_headline": "Mod de Claude acelera Oblivion",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
-                "cap": "World of Warcraft: Forever (Imagen: Blizzard Entertainment)"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
               },
               {
                 "t": "p",
-                "x": "Antes del lanzamiento de World of Warcraft: Forever el próximo mes, Blizzard ha estado creando anuncios para redes sociales del nuevo MMO, que según la empresa no incluyen contenido de IA generativa."
+                "x": "The Elder Scrolls IV: Oblivion Remastered arrastra desde su lanzamiento cuellos de botella de CPU, tiempos de fotograma irregulares y tirones al desplazarse. El usuario de Reddit LTSharpe, cuyo equipo con Ryzen 7 5800X seguía teniendo problemas tras pasar de una RTX 2070 SUPER a una Radeon RX 9070 XT, recurrió a Claude Opus 5.5, que, según se informa, identificó varias ineficiencias fundamentales en el código del juego."
               },
               {
                 "t": "p",
-                "x": "En respuesta a las acusaciones en internet, el responsable de marketing digital de la compañía escribió en X: \"Ha habido comentarios sobre si usamos o no IA en estos videos. La respuesta es un rotundo no. Tenemos miembros reales del equipo escribiendo guiones, consiguiendo y editando material, y yo he estado cada semana en cabinas de grabación con nuestros actores de VO\"."
+                "x": "Siguieron unas dos semanas y media de ingeniería inversa, perfilado y optimización asistidos por IA (AI-assisted). Sin experiencia profesional en desarrollo, LTSharpe dirigió a Claude para producir unas 40 optimizaciones a nivel de motor, empaquetadas en un mod de código abierto llamado Oblivion Remastered Performance Fix."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
               },
               {
                 "t": "p",
-                "x": "El responsable de redes sociales de World of Warcraft añadió: \"Para completar, no usamos IA en NINGÚN (ANY) contenido social que creamos. Un rotundo no, sin duda\"."
+                "x": "Según se informa, el juego reconstruía la iluminación del sol y la luna en cada fotograma, con asignaciones de memoria redundantes y la preparación de comandos de DirectX 12 confinada en gran medida a un solo hilo. El mod mejora el multihilo y la gestión de memoria y, según se informa, conserva Nanite, Lumen y otros ajustes visuales."
+              },
+              {
+                "t": "video",
+                "yt": "K8WkCz6cuHk"
               },
               {
                 "t": "p",
-                "x": "Las publicaciones llegan mientras otras empresas del sector anuncian su apoyo a la IA generativa en medio de despidos generalizados, entre ellas Epic Games, cuyo CEO, Tim Sweeney, habló de un \"gran giro\" hacia la \"máxima aceleración de la IA\"."
+                "x": "En un recorrido aéreo por Imperial City a 4K con FSR Performance y Frame Generation, los FPS medios subieron de 72 a 102 (+41%) y los tirones de más de 50 ms bajaron de 19.5 a 4.8 por recorrido. Cheydinhal pasó de 64 a 91 FPS (+43%). Los resultados proceden principalmente de un único sistema Ryzen 7 5800X/RX 9070 XT, y la beta v1.0.0 incluye el código fuente y herramientas de benchmarking."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Oblivion改造MOD\nFPS 40%超向上",
+          "body": "Claude-builtのMODでOblivionのFPSが40%以上向上した。",
+          "mini_headline": "Claude製MODでOblivion高速化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
+              },
+              {
+                "t": "p",
+                "x": "The Elder Scrolls IV: Oblivion Remastered は発売以来、CPUのボトルネック、不安定なフレームタイム、移動時のスタッターに悩まされてきた。RedditユーザーのLTSharpeは、RTX 2070 SUPERからRadeon RX 9070 XTへ乗り換えた後もRyzen 7 5800Xのシステムで問題が続いたため、Claude Opus 5.5に頼った。Claude Opus 5.5はゲームのコードにいくつかの根本的な非効率を見つけたとされる。"
+              },
+              {
+                "t": "p",
+                "x": "その後、約2週間半にわたるAI-assistedのリバースエンジニアリング、プロファイリング、最適化が続いた。プロの開発経験がないLTSharpeはClaudeに指示して約40のエンジンレベルの最適化を作らせ、オープンソースMOD「Oblivion Remastered Performance Fix」としてまとめた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
+              },
+              {
+                "t": "p",
+                "x": "同作は毎フレーム太陽と月のライティングを再構築しており、冗長なメモリ割り当てが発生し、DirectX 12のコマンド準備もほぼ単一スレッドに限られていたという。MODはマルチスレッド処理とメモリ管理を改善しつつ、NaniteやLumenなどのビジュアル設定は維持しているとされる。"
+              },
+              {
+                "t": "video",
+                "yt": "K8WkCz6cuHk"
+              },
+              {
+                "t": "p",
+                "x": "4K 環境でFSR PerformanceとFrame Generationを有効にしたImperial Cityのフライスルーでは、平均FPSが72から102へ（+41%）上がり、50 msを超えるヒッチは1回あたり19.5回から4.8回に減った。Cheydinhalでは64 FPSから91 FPSへ（+43%）向上した。結果は主にRyzen 7 5800X/RX 9070 XTの単一システムによるもので、v1.0.0ベータにはソースコードとベンチマークツールが付属する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Oblivion模组\nFPS提升逾40%",
+          "body": "Claude-built模组让Oblivion的FPS提升逾40%，卡顿明显减少。",
+          "mini_headline": "Claude模组提升Oblivion帧率",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
+              },
+              {
+                "t": "p",
+                "x": "The Elder Scrolls IV: Oblivion Remastered自发售以来一直受CPU瓶颈、帧时间不稳定和移动卡顿困扰。Reddit用户LTSharpe从RTX 2070 SUPER升级到Radeon RX 9070 XT后，其Ryzen 7 5800X系统依然表现不佳，于是求助于Claude Opus 5.5；据报道，后者在游戏代码中发现了几处根本性的低效问题。"
+              },
+              {
+                "t": "p",
+                "x": "随后是约两周半的AI-assisted逆向工程、性能分析与优化。尽管没有专业开发背景，LTSharpe指导Claude完成了约40项引擎级优化，并打包成名为Oblivion Remastered Performance Fix的开源模组。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
+              },
+              {
+                "t": "p",
+                "x": "据报道，游戏每一帧都在重建太阳和月亮的光照，存在冗余的内存分配，DirectX 12命令准备也大多局限于单个线程。该模组改进了多线程和内存管理，据称同时保留了Nanite、Lumen等画面设置。"
+              },
+              {
+                "t": "video",
+                "yt": "K8WkCz6cuHk"
+              },
+              {
+                "t": "p",
+                "x": "在4K 分辨率、开启FSR Performance和Frame Generation的Imperial City飞行测试中，平均FPS从72升至102（+41%），每轮超过50 ms的卡顿从19.5次降至4.8次。Cheydinhal从64 FPS升至91 FPS（+43%）。测试结果主要来自一台Ryzen 7 5800X/RX 9070 XT系统，v1.0.0测试版附带源代码和基准测试工具。"
               }
             ]
           }
@@ -849,125 +1487,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Blizzard, WoW\n신작 AI 사용 부인",
-          "body": "Blizzard 직원들은 신작 홍보 영상의 AI 사용 의혹을 부인했다.",
-          "mini_headline": "Blizzard \"WoW 영상에 AI 없다\"",
+          "headline": "Oblivion FPS\n40%↑ Claude 모드",
+          "body": "Claude-built 모드가 Oblivion FPS를 40% 넘게 끌어올렸다.",
+          "mini_headline": "Claude 모드로 Oblivion FPS 상승",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
-                "cap": "World of Warcraft: Forever (이미지 출처: Blizzard Entertainment)"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
               },
               {
                 "t": "p",
-                "x": "다음 달 World of Warcraft: Forever 출시를 앞두고 Blizzard는 새 MMO의 소셜 미디어 광고를 만들어 왔으며, 여기에 생성형 AI 콘텐츠는 들어 있지 않다고 밝혔다."
+                "x": "The Elder Scrolls IV: Oblivion Remastered는 출시 이후 CPU 병목, 들쭉날쭉한 프레임 타임, 이동 중 끊김에 시달려 왔다. Reddit 사용자 LTSharpe는 RTX 2070 SUPER에서 Radeon RX 9070 XT로 업그레이드한 뒤에도 Ryzen 7 5800X 시스템에서 문제가 이어지자 Claude Opus 5.5를 찾았고, Claude Opus 5.5는 게임 코드에서 몇 가지 근본적인 비효율을 찾아낸 것으로 알려졌다."
               },
               {
                 "t": "p",
-                "x": "온라인에서 제기된 의혹에 대해 회사의 디지털 마케팅 매니저는 X에 이렇게 썼다. \"이 영상들에 AI를 쓰느냐는 댓글이 있었다. 절대 아니다. 실제 팀원들이 대본을 쓰고, 영상을 확보해 편집하며, 나는 매주 VO 배우들과 녹음 부스에 들어가 있다.\""
+                "x": "이후 약 2주 반 동안 AI-assisted 리버스 엔지니어링, 프로파일링, 최적화 작업이 이어졌다. 전문 개발 경력이 없는 LTSharpe는 Claude에게 지시해 엔진 수준 최적화 약 40개를 만들었고, 이를 오픈소스 모드 Oblivion Remastered Performance Fix로 묶었다."
               },
-              {
-                "t": "p",
-                "x": "World of Warcraft의 소셜 미디어 매니저도 \"덧붙이자면, 우리는 만드는 어떤(ANY) 소셜 콘텐츠에도 AI를 쓰지 않는다. 정말 절대 아니다\"라고 거들었다."
-              },
-              {
-                "t": "p",
-                "x": "이 게시물은 대규모 해고 속에 업계 다른 회사들이 생성형 AI 지원을 발표하는 가운데 나왔다. Epic Games도 그중 하나로, CEO Tim Sweeney는 \"최대한의 AI 가속\"을 향한 \"거대한 전환\"을 언급했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Blizzard、WoW\n新作でのAI使用を否定",
-          "body": "Blizzardの社員は、WoW新作の動画にAIを使ったとの指摘を否定した。",
-          "mini_headline": "Blizzard、WoW動画にAIは不使用",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
-                "cap": "World of Warcraft: Forever(画像提供：Blizzard Entertainment)"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
               },
               {
                 "t": "p",
-                "x": "来月のWorld of Warcraft: Foreverのリリースを前に、Blizzardは新作MMOのソーシャルメディア広告を制作しており、生成AIによるコンテンツは含まれていないとしている。"
+                "x": "알려진 바에 따르면 이 게임은 매 프레임 해와 달의 조명을 다시 구성하고 있었고, 불필요한 메모리 할당이 반복됐으며 DirectX 12 명령 준비도 대부분 단일 스레드에 몰려 있었다. 모드는 멀티스레딩과 메모리 관리를 개선하면서도 Nanite, Lumen 등 시각 설정은 그대로 유지하는 것으로 전해졌다."
+              },
+              {
+                "t": "video",
+                "yt": "K8WkCz6cuHk"
               },
               {
                 "t": "p",
-                "x": "ネット上の指摘に対し、同社のデジタルマーケティングマネージャーはXに次のように投稿した。「これらの動画でAIを使っているかどうかについてコメントが寄せられている。答えは断じてノーだ。実際のチームメンバーが脚本を書き、映像を集めて編集しているし、私は毎週VO俳優たちと収録ブースに入っている」"
-              },
-              {
-                "t": "p",
-                "x": "World of Warcraftのソーシャルメディアマネージャーも「付け加えると、私たちが作るソーシャルコンテンツには一切(ANY)AIを使っていない。まさに断じてノーだ」と続けた。"
-              },
-              {
-                "t": "p",
-                "x": "これらの投稿は、大規模なレイオフが広がるなか、業界の他社が生成AIへの支持を表明している時期に出た。Epic Gamesもそのひとつで、CEOのTim Sweeney氏は「AIの最大限の加速」に向けた「大転換」について語っていた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Blizzard否认\nWoW新作宣传使用AI",
-          "body": "Blizzard员工否认新作宣传视频使用AI，并称所有社交内容都不用AI。",
-          "mini_headline": "Blizzard：WoW视频没用AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
-                "cap": "World of Warcraft: Forever（图片来源：Blizzard Entertainment）"
-              },
-              {
-                "t": "p",
-                "x": "在World of Warcraft: Forever下月发布之前，Blizzard一直在为这款新MMO制作社交媒体广告，并表示其中不含生成式AI内容。"
-              },
-              {
-                "t": "p",
-                "x": "针对网上的质疑，公司的数字营销经理在X上写道：“有评论问我们是否在这些视频中使用了AI。绝对没有。我们有真正的团队成员写脚本、获取和剪辑素材，我每周都和我们的VO演员一起待在录音棚里。”"
-              },
-              {
-                "t": "p",
-                "x": "World of Warcraft的社交媒体经理补充道：“再补充一句，我们制作的任何（ANY）社交内容都不使用AI。确实绝对没有。”"
-              },
-              {
-                "t": "p",
-                "x": "与此同时，业内其他公司在大规模裁员之际纷纷宣布支持生成式AI，其中包括Epic Games，其CEO Tim Sweeney曾谈到向“最大程度的AI加速”进行“巨大转向”。"
+                "x": "4K 환경에서 FSR Performance와 Frame Generation을 켜고 Imperial City를 비행하며 측정한 결과, 평균 FPS는 72에서 102로(+41%) 올랐고 50 ms를 넘는 끊김은 회당 19.5회에서 4.8회로 줄었다. Cheydinhal에서는 64 FPS에서 91 FPS로(+43%) 올랐다. 결과는 주로 Ryzen 7 5800X/RX 9070 XT 단일 시스템에서 나왔으며, v1.0.0 베타는 소스 코드와 벤치마크 도구를 함께 제공한다."
               }
             ]
           }
         },
         "es": {
-          "headline": "Blizzard niega usar IA en\nWorld of Warcraft Forever",
-          "body": "Personal de Blizzard negó el uso de IA en los videos de World of Warcraft: Forever y aseguró que no la usan en redes.",
-          "mini_headline": "Blizzard: sin IA en los videos de WoW",
+          "headline": "Mod Claude-built para Oblivion\nsube los FPS más de un 40%",
+          "body": "Oblivion Remastered Performance Fix, creado con Claude, sube los FPS más de un 40% y reduce mucho los tirones.",
+          "mini_headline": "Mod de Claude acelera Oblivion",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
-                "cap": "World of Warcraft: Forever (Imagen: Blizzard Entertainment)"
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
               },
               {
                 "t": "p",
-                "x": "Antes del lanzamiento de World of Warcraft: Forever el próximo mes, Blizzard ha estado creando anuncios para redes sociales del nuevo MMO, que según la empresa no incluyen contenido de IA generativa."
+                "x": "The Elder Scrolls IV: Oblivion Remastered arrastra desde su lanzamiento cuellos de botella de CPU, tiempos de fotograma irregulares y tirones al desplazarse. El usuario de Reddit LTSharpe, cuyo equipo con Ryzen 7 5800X seguía teniendo problemas tras pasar de una RTX 2070 SUPER a una Radeon RX 9070 XT, recurrió a Claude Opus 5.5, que, según se informa, identificó varias ineficiencias fundamentales en el código del juego."
               },
               {
                 "t": "p",
-                "x": "En respuesta a las acusaciones en internet, el responsable de marketing digital de la compañía escribió en X: \"Ha habido comentarios sobre si usamos o no IA en estos videos. La respuesta es un rotundo no. Tenemos miembros reales del equipo escribiendo guiones, consiguiendo y editando material, y yo he estado cada semana en cabinas de grabación con nuestros actores de VO\"."
+                "x": "Siguieron unas dos semanas y media de ingeniería inversa, perfilado y optimización asistidos por IA (AI-assisted). Sin experiencia profesional en desarrollo, LTSharpe dirigió a Claude para producir unas 40 optimizaciones a nivel de motor, empaquetadas en un mod de código abierto llamado Oblivion Remastered Performance Fix."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
               },
               {
                 "t": "p",
-                "x": "El responsable de redes sociales de World of Warcraft añadió: \"Para completar, no usamos IA en NINGÚN (ANY) contenido social que creamos. Un rotundo no, sin duda\"."
+                "x": "Según se informa, el juego reconstruía la iluminación del sol y la luna en cada fotograma, con asignaciones de memoria redundantes y la preparación de comandos de DirectX 12 confinada en gran medida a un solo hilo. El mod mejora el multihilo y la gestión de memoria y, según se informa, conserva Nanite, Lumen y otros ajustes visuales."
+              },
+              {
+                "t": "video",
+                "yt": "K8WkCz6cuHk"
               },
               {
                 "t": "p",
-                "x": "Las publicaciones llegan mientras otras empresas del sector anuncian su apoyo a la IA generativa en medio de despidos generalizados, entre ellas Epic Games, cuyo CEO, Tim Sweeney, habló de un \"gran giro\" hacia la \"máxima aceleración de la IA\"."
+                "x": "En un recorrido aéreo por Imperial City a 4K con FSR Performance y Frame Generation, los FPS medios subieron de 72 a 102 (+41%) y los tirones de más de 50 ms bajaron de 19.5 a 4.8 por recorrido. Cheydinhal pasó de 64 a 91 FPS (+43%). Los resultados proceden principalmente de un único sistema Ryzen 7 5800X/RX 9070 XT, y la beta v1.0.0 incluye el código fuente y herramientas de benchmarking."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Oblivion改造MOD\nFPS 40%超向上",
+          "body": "Claude-builtのMODでOblivionのFPSが40%以上向上した。",
+          "mini_headline": "Claude製MODでOblivion高速化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
+              },
+              {
+                "t": "p",
+                "x": "The Elder Scrolls IV: Oblivion Remastered は発売以来、CPUのボトルネック、不安定なフレームタイム、移動時のスタッターに悩まされてきた。RedditユーザーのLTSharpeは、RTX 2070 SUPERからRadeon RX 9070 XTへ乗り換えた後もRyzen 7 5800Xのシステムで問題が続いたため、Claude Opus 5.5に頼った。Claude Opus 5.5はゲームのコードにいくつかの根本的な非効率を見つけたとされる。"
+              },
+              {
+                "t": "p",
+                "x": "その後、約2週間半にわたるAI-assistedのリバースエンジニアリング、プロファイリング、最適化が続いた。プロの開発経験がないLTSharpeはClaudeに指示して約40のエンジンレベルの最適化を作らせ、オープンソースMOD「Oblivion Remastered Performance Fix」としてまとめた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
+              },
+              {
+                "t": "p",
+                "x": "同作は毎フレーム太陽と月のライティングを再構築しており、冗長なメモリ割り当てが発生し、DirectX 12のコマンド準備もほぼ単一スレッドに限られていたという。MODはマルチスレッド処理とメモリ管理を改善しつつ、NaniteやLumenなどのビジュアル設定は維持しているとされる。"
+              },
+              {
+                "t": "video",
+                "yt": "K8WkCz6cuHk"
+              },
+              {
+                "t": "p",
+                "x": "4K 環境でFSR PerformanceとFrame Generationを有効にしたImperial Cityのフライスルーでは、平均FPSが72から102へ（+41%）上がり、50 msを超えるヒッチは1回あたり19.5回から4.8回に減った。Cheydinhalでは64 FPSから91 FPSへ（+43%）向上した。結果は主にRyzen 7 5800X/RX 9070 XTの単一システムによるもので、v1.0.0ベータにはソースコードとベンチマークツールが付属する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Oblivion模组\nFPS提升逾40%",
+          "body": "Claude-built模组让Oblivion的FPS提升逾40%，卡顿明显减少。",
+          "mini_headline": "Claude模组提升Oblivion帧率",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
+              },
+              {
+                "t": "p",
+                "x": "The Elder Scrolls IV: Oblivion Remastered自发售以来一直受CPU瓶颈、帧时间不稳定和移动卡顿困扰。Reddit用户LTSharpe从RTX 2070 SUPER升级到Radeon RX 9070 XT后，其Ryzen 7 5800X系统依然表现不佳，于是求助于Claude Opus 5.5；据报道，后者在游戏代码中发现了几处根本性的低效问题。"
+              },
+              {
+                "t": "p",
+                "x": "随后是约两周半的AI-assisted逆向工程、性能分析与优化。尽管没有专业开发背景，LTSharpe指导Claude完成了约40项引擎级优化，并打包成名为Oblivion Remastered Performance Fix的开源模组。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
+              },
+              {
+                "t": "p",
+                "x": "据报道，游戏每一帧都在重建太阳和月亮的光照，存在冗余的内存分配，DirectX 12命令准备也大多局限于单个线程。该模组改进了多线程和内存管理，据称同时保留了Nanite、Lumen等画面设置。"
+              },
+              {
+                "t": "video",
+                "yt": "K8WkCz6cuHk"
+              },
+              {
+                "t": "p",
+                "x": "在4K 分辨率、开启FSR Performance和Frame Generation的Imperial City飞行测试中，平均FPS从72升至102（+41%），每轮超过50 ms的卡顿从19.5次降至4.8次。Cheydinhal从64 FPS升至91 FPS（+43%）。测试结果主要来自一台Ryzen 7 5800X/RX 9070 XT系统，v1.0.0测试版附带源代码和基准测试工具。"
               }
             ]
           }
@@ -975,15 +1641,15 @@
       }
     },
     {
-      "id": "games-game-finder",
-      "source_lang": "en",
+      "id": "games-unity-aijam-busan",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Google Play,\n'게이머 DNA'로 추천",
-      "body": "Game Finder는 AI로 플레이 습관을 '게이머 DNA'로 분석해 추천한다.",
-      "mini_headline": "Google Play의 AI Game Finder",
+      "headline": "유니티 AI 게임잼\n부산서 참가자 모집",
+      "body": "유니티와 게임산업협회가 지스타 전 24시간 AI 게임잼 참가자를 20일까지 모집한다.",
+      "mini_headline": "부산 유니티 AI 잼",
       "tool": "Games",
-      "source": "PocketGamer.biz",
-      "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/",
+      "source": "게임메카",
+      "url": "https://www.gamemeca.com/view.php?gid=1781633",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -991,721 +1657,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
-            "cap": "Google Play Game Finder"
+            "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+            "cap": "유니티 AI 게임잼 포스터(사진제공: 유니티)"
           },
           {
             "t": "p",
-            "x": "Google Play가 최신 Google AI 기술로 플레이어 각자의 게임 습관에 맞춰 앱을 찾아 주는 업데이트 Game Finder를 발표했다."
+            "x": "유니티와 한국게임산업협회가 '유니티 AI 게임잼' 참가자를 10월 12일부터 20일까지 모집한다고 밝혔다. 이번 행사는 국내 최대 게임쇼인 지스타 2026 개막에 앞서 11월 18일부터 19일까지 부산 벡스코에서 24시간 무박 일정으로 열릴 예정이다."
           },
           {
             "t": "p",
-            "x": "Game Finder는 좋아하는 장르와 메커닉 같은 사용자 관심사에 맞춰 게임을 추천한다. 사용자가 어떻게 플레이하고 어떤 취향을 공유하는지 분석한 '게이머 DNA'가 그 바탕이다."
+            "x": "참가 신청은 유니티 스퀘어에서 10월 20일까지 진행되며, 신청 규모에 따라 조기 마감될 수 있다. 전공이나 직무 경험에 관계없이 게임 개발과 창작에 관심 있는 누구나 지원할 수 있다. 유니티는 서류 심사를 거쳐 최종 참가자 55명을 선발할 계획이며, 팀은 현장에서 직접 구성된다."
           },
           {
             "t": "p",
-            "x": "사용자는 인앱 결제를 강요하는 게임 등을 걸러내거나, 팔로우하는 사람들이 즐기는 게임 위주로 추천을 받을 수도 있다. '출퇴근길에 즐기기 좋은 방치형 게임' 같은 플레이리스트도 있다. Game Finder는 미국에서 영어로 출시됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
-            "cap": "Google Play 업데이트, 2026년 10월"
+            "x": "오픈AI(OpenAI)와 메쉬AI(Meshy.ai)가 공식 스폰서로 참여한다. 참가자들은 유니티 CLI(Unity CLI)와 코덱스(Codex) 플러그인 등 유니티의 AI 기능을 활용할 수 있다. 유니티는 참가자 전원에게 50달러(한화 약 6만 7,500원) 상당의 AI 도구 활용 크레딧을 지급하며, 오픈AI는 크레딧과 소속 엔지니어의 현장 멘토링을, 메쉬AI는 텍스트나 이미지만으로 3D 에셋을 생성할 수 있는 크레딧을 제공한다."
           },
           {
             "t": "p",
-            "x": "Google Play에서는 이제 개발자 계정 없이도 Google AI Studio의 바이브 코딩으로 개인용 앱을 만들 수 있다. 플레이어가 정확한 생년월일 대신 연령대를 공유하는 Age Range Sharing도 도입할 계획이다."
+            "x": "수상팀에게는 부문에 따라 지스타 2026 현장의 유니티 부스 게임 전시 기회, 챗GPT 프로 1년 이용권, 유니티 글로벌 및 한국 공식 블로그 인터뷰 기회 등이 제공된다. 10월 27일에는 유니티 코리아 유튜브 라이브로 사전 웨비나가 열린다."
+          },
+          {
+            "t": "p",
+            "x": "송민석 유니티 코리아 대표이사는 \"AI는 아이디어를 게임으로 구현하는 속도를 높이고 창작자가 더 과감하고 다양한 시도를 할 수 있도록 돕는 든든한 파트너가 되고 있다\"고 말했다."
           }
         ]
       },
-      "_lead_image": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
-      "_video": "",
       "text": {
-        "en": {
-          "headline": "Google Play Game Finder\nbuilds a \"gamer DNA\"",
-          "body": "Google Play's Game Finder uses AI to profile play habits as \"gamer DNA\" and suggest games by genre and mechanic.",
-          "mini_headline": "Google Play's AI Game Finder",
+        "ko": {
+          "headline": "유니티 AI 게임잼\n부산서 참가자 모집",
+          "body": "유니티와 게임산업협회가 지스타 전 24시간 AI 게임잼 참가자를 20일까지 모집한다.",
+          "mini_headline": "부산 유니티 AI 잼",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
-                "cap": "Google Play Game Finder"
+                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+                "cap": "유니티 AI 게임잼 포스터(사진제공: 유니티)"
               },
               {
                 "t": "p",
-                "x": "Google Play has announced Game Finder, an app discoverability update using the latest Google AI tech, tailored to each player's gameplay habits."
+                "x": "유니티와 한국게임산업협회가 '유니티 AI 게임잼' 참가자를 10월 12일부터 20일까지 모집한다고 밝혔다. 이번 행사는 국내 최대 게임쇼인 지스타 2026 개막에 앞서 11월 18일부터 19일까지 부산 벡스코에서 24시간 무박 일정으로 열릴 예정이다."
               },
               {
                 "t": "p",
-                "x": "It recommends games based on a user's interests, including favourite genres and mechanics. This has been described as \"gamer DNA\", an analysis of how a user plays and the preferences they share."
+                "x": "참가 신청은 유니티 스퀘어에서 10월 20일까지 진행되며, 신청 규모에 따라 조기 마감될 수 있다. 전공이나 직무 경험에 관계없이 게임 개발과 창작에 관심 있는 누구나 지원할 수 있다. 유니티는 서류 심사를 거쳐 최종 참가자 55명을 선발할 계획이며, 팀은 현장에서 직접 구성된다."
               },
               {
                 "t": "p",
-                "x": "Users can filter out games, such as titles that push in-app purchases, or view recommendations based on what people they follow are playing. There are also playlists such as \"best idle games for my commute\". Game Finder has rolled out in English in the US."
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
-                "cap": "Google Play updates, October 2026"
+                "x": "오픈AI(OpenAI)와 메쉬AI(Meshy.ai)가 공식 스폰서로 참여한다. 참가자들은 유니티 CLI(Unity CLI)와 코덱스(Codex) 플러그인 등 유니티의 AI 기능을 활용할 수 있다. 유니티는 참가자 전원에게 50달러(한화 약 6만 7,500원) 상당의 AI 도구 활용 크레딧을 지급하며, 오픈AI는 크레딧과 소속 엔지니어의 현장 멘토링을, 메쉬AI는 텍스트나 이미지만으로 3D 에셋을 생성할 수 있는 크레딧을 제공한다."
               },
               {
                 "t": "p",
-                "x": "Google Play also now lets users create personal apps via vibe coding in Google AI Studio without a developer account, and plans Age Range Sharing so players can share an age range rather than an exact date of birth."
+                "x": "수상팀에게는 부문에 따라 지스타 2026 현장의 유니티 부스 게임 전시 기회, 챗GPT 프로 1년 이용권, 유니티 글로벌 및 한국 공식 블로그 인터뷰 기회 등이 제공된다. 10월 27일에는 유니티 코리아 유튜브 라이브로 사전 웨비나가 열린다."
+              },
+              {
+                "t": "p",
+                "x": "송민석 유니티 코리아 대표이사는 \"AI는 아이디어를 게임으로 구현하는 속도를 높이고 창작자가 더 과감하고 다양한 시도를 할 수 있도록 돕는 든든한 파트너가 되고 있다\"고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Google Play,\n'게이머 DNA'로 추천",
-          "body": "Game Finder는 AI로 플레이 습관을 '게이머 DNA'로 분석해 추천한다.",
-          "mini_headline": "Google Play의 AI Game Finder",
+        "en": {
+          "headline": "Unity AI game jam in Busan\nopens call for participants",
+          "body": "Unity and Korea's game industry association seek entrants by the 20th for a 24-hour AI game jam before G-STAR.",
+          "mini_headline": "Unity AI jam in Busan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
-                "cap": "Google Play Game Finder"
+                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+                "cap": "Unity AI Game Jam poster (Image courtesy of Unity)"
               },
               {
                 "t": "p",
-                "x": "Google Play가 최신 Google AI 기술로 플레이어 각자의 게임 습관에 맞춰 앱을 찾아 주는 업데이트 Game Finder를 발표했다."
+                "x": "Unity and the Korea Association of Game Industry announced that they will recruit participants for the 'Unity AI Game Jam' from October 12 to 20. The event will be held as a 24-hour overnight session at BEXCO in Busan from November 18 to 19, ahead of the opening of G-STAR 2026, Korea's largest game show."
               },
               {
                 "t": "p",
-                "x": "Game Finder는 좋아하는 장르와 메커닉 같은 사용자 관심사에 맞춰 게임을 추천한다. 사용자가 어떻게 플레이하고 어떤 취향을 공유하는지 분석한 '게이머 DNA'가 그 바탕이다."
+                "x": "Applications are open on Unity Square until October 20 and may close early depending on demand. Anyone interested in game development and creation can apply, regardless of major or work experience. Unity plans to select 55 final participants through a document review, and teams will be formed on site."
               },
               {
                 "t": "p",
-                "x": "사용자는 인앱 결제를 강요하는 게임 등을 걸러내거나, 팔로우하는 사람들이 즐기는 게임 위주로 추천을 받을 수도 있다. '출퇴근길에 즐기기 좋은 방치형 게임' 같은 플레이리스트도 있다. Game Finder는 미국에서 영어로 출시됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
-                "cap": "Google Play 업데이트, 2026년 10월"
+                "x": "OpenAI and Meshy.ai are taking part as official sponsors. Participants can use Unity's AI features, including Unity CLI and the Codex plugin. Unity will give every participant AI tool credits worth $50 (about 67,500 won), OpenAI will provide credits and on-site mentoring from its engineers, and Meshy.ai will provide credits for generating 3D assets from text or images alone."
               },
               {
                 "t": "p",
-                "x": "Google Play에서는 이제 개발자 계정 없이도 Google AI Studio의 바이브 코딩으로 개인용 앱을 만들 수 있다. 플레이어가 정확한 생년월일 대신 연령대를 공유하는 Age Range Sharing도 도입할 계획이다."
+                "x": "Depending on the category, winning teams will receive a chance to exhibit their game at Unity's booth at G-STAR 2026, a 1-year ChatGPT Pro subscription, and interview opportunities on Unity's global and Korean official blogs. A pre-event webinar will be held on October 27 via a Unity Korea YouTube live stream."
+              },
+              {
+                "t": "p",
+                "x": "Song Min-seok, CEO of Unity Korea, said, “AI is becoming a reliable partner that speeds up turning ideas into games and helps creators make bolder and more diverse attempts.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Google Play、\n「ゲーマーDNA」で推薦",
-          "body": "Game FinderはAIでプレイ傾向を「ゲーマーDNA」として分析し、ゲームを勧める。",
-          "mini_headline": "Google PlayのAI「Game Finder」",
+          "headline": "Unity AIゲームジャム\n釜山で参加者募集",
+          "body": "Unityとゲーム産業協会がG-STAR前の24時間AIゲームジャム参加者を20日まで募る。",
+          "mini_headline": "釜山でUnity AIジャム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
-                "cap": "Google Play Game Finder"
+                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+                "cap": "Unity AIゲームジャムのポスター（写真提供：Unity）"
               },
               {
                 "t": "p",
-                "x": "Google Playは、最新のGoogle AI技術を使い、プレイヤーごとのプレイ習慣に合わせたアプリ発見のためのアップデート「Game Finder」を発表した。"
+                "x": "Unityと韓国ゲーム産業協会は、「Unity AIゲームジャム」の参加者を10月12日から20日まで募集すると発表した。イベントは、韓国最大のゲームショーであるG-STAR 2026の開幕に先立ち、11月18日から19日まで釜山のBEXCOで24時間の徹夜日程で開かれる予定だ。"
               },
               {
                 "t": "p",
-                "x": "好きなジャンルやメカニクスなど、ユーザーの関心に基づいてゲームを推薦する。これは「ゲーマーDNA」と呼ばれ、ユーザーのプレイの仕方や共有する好みを分析したものだ。"
+                "x": "参加申し込みはUnity Squareで10月20日まで受け付け、応募状況によっては早期に締め切られる場合がある。専攻や職務経験を問わず、ゲーム開発や創作に関心があれば誰でも応募できる。Unityは書類審査を経て最終参加者55人を選ぶ予定で、チームは現地で組まれる。"
               },
               {
                 "t": "p",
-                "x": "ユーザーは、アプリ内課金を強く促すタイトルなどを除外したり、フォローしている人がプレイしているものに基づくおすすめを見たりできる。「通勤に最適な放置ゲーム」といったプレイリストもある。Game Finderは米国で英語版が展開された。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
-                "cap": "Google Playのアップデート、2026年10月"
+                "x": "OpenAIとMeshy.aiが公式スポンサーとして参加する。参加者はUnity CLIやCodexプラグインなど、UnityのAI機能を活用できる。Unityは参加者全員に50ドル（約6万7,500ウォン）相当のAIツール用クレジットを支給し、OpenAIはクレジットと所属エンジニアによる現地メンタリングを、Meshy.aiはテキストや画像だけで3Dアセットを生成できるクレジットを提供する。"
               },
               {
                 "t": "p",
-                "x": "Google Playではさらに、開発者アカウントなしでGoogle AI Studioのバイブコーディングにより個人用アプリを作れるようになったほか、正確な生年月日ではなく年齢層を共有できるAge Range Sharingも予定している。"
+                "x": "受賞チームには部門に応じて、G-STAR 2026会場のUnityブースでのゲーム展示の機会、ChatGPT Proの1年間利用権、Unityのグローバルおよび韓国公式ブログでのインタビューの機会などが与えられる。10月27日にはUnity KoreaのYouTubeライブで事前ウェビナーが開かれる。"
+              },
+              {
+                "t": "p",
+                "x": "Unity Koreaのソン・ミンソク代表取締役は「AIは、アイデアをゲームとして形にするスピードを高め、クリエイターがより大胆で多様な挑戦をできるよう支える心強いパートナーになりつつある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Play新功能\n打造“玩家DNA”",
-          "body": "Game Finder用AI将游戏习惯归纳为“玩家DNA”，并按类型与机制推荐游戏。",
-          "mini_headline": "Google Play推出AI Game Finder",
+          "headline": "Unity AI游戏Jam\n釜山招募参赛者",
+          "body": "Unity与游戏产业协会招募G-STAR前的24小时AI游戏Jam参赛者，截至20日。",
+          "mini_headline": "釜山Unity AI游戏Jam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
-                "cap": "Google Play Game Finder"
+                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+                "cap": "Unity AI游戏Jam海报（图片提供：Unity）"
               },
               {
                 "t": "p",
-                "x": "Google Play发布了Game Finder，这是一项利用最新Google AI技术、根据每位玩家游戏习惯量身定制的应用发现功能更新。"
+                "x": "Unity与韩国游戏产业协会宣布，将于10月12日至20日招募“Unity AI游戏Jam”参赛者。活动将在韩国最大游戏展G-STAR 2026开幕前，于11月18日至19日在釜山BEXCO以24小时通宵形式举行。"
               },
               {
                 "t": "p",
-                "x": "它会根据用户的兴趣（包括喜爱的类型和玩法机制）推荐游戏。这被称为“玩家DNA”，即对用户游戏方式及其所分享偏好的分析。"
+                "x": "报名通过Unity Square进行，截至10月20日，视报名情况可能提前截止。无论专业或工作经历，凡对游戏开发和创作感兴趣者均可报名。Unity计划经书面审核选出最终55名参赛者，团队将在现场组建。"
               },
               {
                 "t": "p",
-                "x": "用户可以过滤掉某些游戏，例如主推应用内购买的作品，也可以查看基于自己关注的人正在玩什么的推荐。此外还有“通勤路上最佳放置游戏”之类的播放列表。Game Finder已在美国以英文版推出。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
-                "cap": "Google Play更新，2026年10月"
+                "x": "OpenAI和Meshy.ai作为官方赞助商参与。参赛者可使用Unity CLI、Codex插件等Unity的AI功能。Unity将向全体参赛者发放价值50美元（约合6万7,500韩元）的AI工具使用额度，OpenAI提供额度及其工程师的现场指导，Meshy.ai则提供仅凭文字或图片即可生成3D素材的额度。"
               },
               {
                 "t": "p",
-                "x": "Google Play现在还允许用户无需开发者账号，在Google AI Studio中通过氛围编程创建个人应用，并计划推出Age Range Sharing，让玩家可以分享年龄段而非确切的出生日期。"
+                "x": "获奖团队将根据所获奖项，获得在G-STAR 2026现场Unity展位展出游戏的机会、ChatGPT Pro 1年使用权，以及在Unity全球和韩国官方博客接受采访的机会等。10月27日还将通过Unity Korea的YouTube直播举行赛前网络研讨会。"
+              },
+              {
+                "t": "p",
+                "x": "Unity Korea代表理事宋珉锡表示：“AI正成为可靠的伙伴，它加快了把创意变成游戏的速度，帮助创作者进行更大胆、更多样的尝试。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Play Game Finder crea\nun \"ADN de jugador\"",
-          "body": "Game Finder, de Google Play, usa IA para perfilar hábitos como \"ADN de jugador\" y sugerir juegos por género.",
-          "mini_headline": "El Game Finder con IA de Google Play",
+          "headline": "Game jam de AI de Unity\nbusca participantes en Busan",
+          "body": "Unity y la asociación del sector abren hasta el 20 la inscripción a una game jam de AI de 24 horas previa a G-STAR.",
+          "mini_headline": "Game jam de AI de Unity en Busan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
-                "cap": "Google Play Game Finder"
+                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+                "cap": "Póster de la Unity AI Game Jam (Imagen cedida por Unity)"
               },
               {
                 "t": "p",
-                "x": "Google Play ha anunciado Game Finder, una actualización para descubrir apps que utiliza la última tecnología de Google AI y se adapta a los hábitos de juego de cada jugador."
+                "x": "Unity y la Asociación de la Industria del Juego de Corea anunciaron que reclutarán participantes para la 'Unity AI Game Jam' del 12 al 20 de octubre. El evento se celebrará del 18 al 19 de noviembre en BEXCO, en Busan, en una jornada continua de 24 horas, antes de la apertura de G-STAR 2026, la mayor feria de videojuegos del país."
               },
               {
                 "t": "p",
-                "x": "Recomienda juegos según los intereses del usuario, incluidos sus géneros y mecánicas favoritos. Se ha descrito como \"ADN de jugador\", un análisis de cómo juega el usuario y de las preferencias que comparte."
+                "x": "Las inscripciones están abiertas en Unity Square hasta el 20 de octubre y podrían cerrarse antes según la demanda. Puede inscribirse cualquier persona interesada en el desarrollo y la creación de juegos, sin importar su formación o experiencia laboral. Unity prevé seleccionar a 55 participantes finales tras una revisión de solicitudes, y los equipos se formarán en el lugar."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden filtrar juegos, como los títulos que insisten en las compras dentro de la app, o ver recomendaciones basadas en lo que juegan las personas a las que siguen. También hay listas como \"los mejores juegos idle para mi trayecto al trabajo\". Game Finder ya está disponible en inglés en Estados Unidos."
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
-                "cap": "Actualizaciones de Google Play, octubre de 2026"
+                "x": "OpenAI y Meshy.ai participan como patrocinadores oficiales. Los participantes podrán usar las funciones de AI de Unity, como Unity CLI y el plugin de Codex. Unity entregará a cada participante créditos para herramientas de AI por valor de 50 dólares (unos 67,500 wones), OpenAI ofrecerá créditos y mentoría presencial de sus ingenieros, y Meshy.ai aportará créditos para generar recursos 3D solo a partir de texto o imágenes."
               },
               {
                 "t": "p",
-                "x": "Google Play también permite ahora crear apps personales mediante vibe coding en Google AI Studio sin cuenta de desarrollador, y prevé lanzar Age Range Sharing para que los jugadores compartan un rango de edad en lugar de su fecha de nacimiento exacta."
+                "x": "Según la categoría, los equipos ganadores tendrán la oportunidad de exhibir su juego en el stand de Unity en G-STAR 2026, una suscripción de 1 año a ChatGPT Pro y entrevistas en los blogs oficiales global y coreano de Unity. El 27 de octubre se celebrará un seminario web previo en directo en el canal de YouTube de Unity Korea."
+              },
+              {
+                "t": "p",
+                "x": "Song Min-seok, director ejecutivo de Unity Korea, afirmó: “La AI se está convirtiendo en un socio sólido que acelera la conversión de ideas en juegos y ayuda a los creadores a hacer intentos más audaces y diversos”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Google Play,\n'게이머 DNA'로 추천",
-          "body": "Game Finder는 AI로 플레이 습관을 '게이머 DNA'로 분석해 추천한다.",
-          "mini_headline": "Google Play의 AI Game Finder",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
-                "cap": "Google Play Game Finder"
-              },
-              {
-                "t": "p",
-                "x": "Google Play가 최신 Google AI 기술을 활용해 플레이어마다의 게임 플레이 습관에 맞춘 앱 발견성 업데이트 Game Finder를 발표했다."
-              },
-              {
-                "t": "p",
-                "x": "Game Finder는 좋아하는 장르와 메커닉 등 사용자의 관심사를 바탕으로 게임을 추천한다. 이는 사용자가 어떻게 플레이하고 어떤 취향을 공유하는지 분석한 '게이머 DNA'로 설명된다."
-              },
-              {
-                "t": "p",
-                "x": "사용자는 인앱 결제를 강요하는 게임 등을 걸러내거나, 팔로우하는 사람들이 플레이하는 게임을 바탕으로 한 추천을 볼 수 있다. '출퇴근길에 즐기기 좋은 방치형 게임' 같은 플레이리스트도 있다. Game Finder는 미국에서 영어로 출시됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
-                "cap": "Google Play 업데이트, 2026년 10월"
-              },
-              {
-                "t": "p",
-                "x": "Google Play는 이제 개발자 계정 없이도 Google AI Studio에서 바이브 코딩으로 개인용 앱을 만들 수 있게 했고, 플레이어가 정확한 생년월일 대신 연령대를 공유할 수 있는 Age Range Sharing도 도입할 계획이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Google Play、\n「ゲーマーDNA」で推薦",
-          "body": "Game FinderはAIでプレイ傾向を「ゲーマーDNA」として分析し、ゲームを勧める。",
-          "mini_headline": "Google PlayのAI「Game Finder」",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
-                "cap": "Google Play Game Finder"
-              },
-              {
-                "t": "p",
-                "x": "Google Playは、最新のGoogle AI技術を使い、プレイヤーごとのプレイ習慣に合わせたアプリ発見のためのアップデート「Game Finder」を発表した。"
-              },
-              {
-                "t": "p",
-                "x": "好きなジャンルやメカニクスなど、ユーザーの関心に基づいてゲームを推薦する。これは「ゲーマーDNA」と呼ばれ、ユーザーのプレイの仕方や共有する好みを分析したものだ。"
-              },
-              {
-                "t": "p",
-                "x": "ユーザーは、アプリ内課金を強く促すタイトルなどを除外したり、フォローしている人がプレイしているものに基づくおすすめを見たりできる。「通勤に最適な放置ゲーム」といったプレイリストもある。Game Finderは米国で英語版が展開された。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
-                "cap": "Google Playのアップデート、2026年10月"
-              },
-              {
-                "t": "p",
-                "x": "Google Playではさらに、開発者アカウントなしでGoogle AI Studioのバイブコーディングにより個人用アプリを作れるようになったほか、正確な生年月日ではなく年齢層を共有できるAge Range Sharingも予定している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Google Play新功能\n打造“玩家DNA”",
-          "body": "Game Finder用AI将游戏习惯归纳为“玩家DNA”，并按类型与机制推荐游戏。",
-          "mini_headline": "Google Play推出AI Game Finder",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
-                "cap": "Google Play Game Finder"
-              },
-              {
-                "t": "p",
-                "x": "Google Play发布了Game Finder，这是一项利用最新Google AI技术、根据每位玩家游戏习惯量身定制的应用发现功能更新。"
-              },
-              {
-                "t": "p",
-                "x": "它会根据用户的兴趣（包括喜爱的类型和玩法机制）推荐游戏。这被称为“玩家DNA”，即对用户游戏方式及其所分享偏好的分析。"
-              },
-              {
-                "t": "p",
-                "x": "用户可以过滤掉某些游戏，例如主推应用内购买的作品，也可以查看基于自己关注的人正在玩什么的推荐。此外还有“通勤路上最佳放置游戏”之类的播放列表。Game Finder已在美国以英文版推出。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
-                "cap": "Google Play更新，2026年10月"
-              },
-              {
-                "t": "p",
-                "x": "Google Play现在还允许用户无需开发者账号，在Google AI Studio中通过氛围编程创建个人应用，并计划推出Age Range Sharing，让玩家可以分享年龄段而非确切的出生日期。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Google Play Game Finder crea\nun \"ADN de jugador\"",
-          "body": "Game Finder, de Google Play, usa IA para perfilar hábitos como \"ADN de jugador\" y sugerir juegos por género.",
-          "mini_headline": "El Game Finder con IA de Google Play",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
-                "cap": "Google Play Game Finder"
-              },
-              {
-                "t": "p",
-                "x": "Google Play ha anunciado Game Finder, una actualización para descubrir apps que utiliza la última tecnología de Google AI y se adapta a los hábitos de juego de cada jugador."
-              },
-              {
-                "t": "p",
-                "x": "Recomienda juegos según los intereses del usuario, incluidos sus géneros y mecánicas favoritos. Se ha descrito como \"ADN de jugador\", un análisis de cómo juega el usuario y de las preferencias que comparte."
-              },
-              {
-                "t": "p",
-                "x": "Los usuarios pueden filtrar juegos, como los títulos que insisten en las compras dentro de la app, o ver recomendaciones basadas en lo que juegan las personas a las que siguen. También hay listas como \"los mejores juegos idle para mi trayecto al trabajo\". Game Finder ya está disponible en inglés en Estados Unidos."
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141719/90035/google-play-updates-october-2026_1200.jpg",
-                "cap": "Actualizaciones de Google Play, octubre de 2026"
-              },
-              {
-                "t": "p",
-                "x": "Google Play también permite ahora crear apps personales mediante vibe coding en Google AI Studio sin cuenta de desarrollador, y prevé lanzar Age Range Sharing para que los jugadores compartan un rango de edad en lugar de su fecha de nacimiento exacta."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "games-junes-journey",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Wooga UX 리드\nAI보다 플레이어 먼저",
-      "body": "Wooga UX 리드는 AI로 시제품이 약 70% 빨라져도 합성 유저는 거부한다.",
-      "mini_headline": "Wooga UX 리드가 보는 AI의 한계",
-      "tool": "Games",
-      "source": "PocketGamer.biz",
-      "url": "https://www.pocketgamer.biz/holger-wurst-junes-journey-player-research-ai/",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "hFLKDmPw3XE"
-          },
-          {
-            "t": "p",
-            "x": "Holger Wurst는 2015년 Wooga에 합류해 현재 June's Journey의 UI/UX 부서를 이끌고 있다. June's Journey는 1920년대를 배경으로 한 숨은그림찾기 미스터리 게임으로, 2023년 매출 10억 달러를 넘어섰다. 그가 이끄는 팀은 디자이너, 애니메이터, 리서처 11명이다."
-          },
-          {
-            "t": "img",
-            "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
-            "cap": "Agatha Christie 사망 50주년을 맞아 June's Journey에 Poirot가 합류했다."
-          },
-          {
-            "t": "p",
-            "x": "Wicked, Agatha Christie 같은 협업을 할 때 그는 플레이어 조사부터 했다. 플레이어들이 내건 조건은 하나였다. \"June을 절대 가려서는 안 된다.\" 숨은그림찾기 게임을 두고 그가 세운 UX 원칙은 \"매핑을 깨지 마라\"다."
-          },
-          {
-            "t": "p",
-            "x": "속도를 높이는 데는 AI를 적극적으로 쓴다. 디자이너들은 요소 이름을 한꺼번에 바꾸는 작업용 도구를 직접 만든다. 그는 이제 프로토타입이 약 70% 더 빨리 나온다고 추산한다."
-          },
-          {
-            "t": "p",
-            "x": "그가 분명히 선을 긋는 곳은 오디언스 데이터로 만든 합성 플레이어다. \"바로 거기서 위험해진다. 어느새 다시 플레이어에 대해 생각하지 않게 되는 지점이다.\" \"우리는 여전히 사람을 위한 무언가를 만들고 있다. 그리고 방 안에 사람이 없이는 사람을 위한 무언가를 만들 수 없다.\""
-          }
-        ]
-      },
-      "_lead_image": "https://media.pocketgamer.biz/images/141725/90027/holgerwurstinthehotseat_l1200.jpg",
-      "_video": "hFLKDmPw3XE",
-      "text": {
         "en": {
-          "headline": "Wooga's UX lead on AI limits\nand putting players first",
-          "body": "Wooga's June's Journey UX lead says AI makes prototypes about 70% faster, but synthetic players are a hard line.",
-          "mini_headline": "Wooga UX lead on AI limits",
+          "headline": "Unity AI game jam in Busan\nopens call for participants",
+          "body": "Unity and Korea's game industry association seek entrants by the 20th for a 24-hour AI game jam before G-STAR.",
+          "mini_headline": "Unity AI jam in Busan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "hFLKDmPw3XE"
-              },
-              {
-                "t": "p",
-                "x": "Holger Wurst joined Wooga in 2015 and now leads the UI/UX department on June's Journey, the 1920s hidden object mystery that passed $1 billion in revenue in 2023. He runs a team of eleven designers, animators and researchers."
-              },
-              {
                 "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
-                "cap": "Poirot joined June's Journey to mark 50 years since Agatha Christie's death."
+                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+                "cap": "Unity AI Game Jam poster (Image courtesy of Unity)"
               },
               {
                 "t": "p",
-                "x": "For tie-ins like Wicked and Agatha Christie, he researched players first; their one condition: \"They can never overshadow June.\" His UX rule for hidden object games: \"Don't break mapping.\""
+                "x": "Unity and the Korea Association of Game Industry announced that they will recruit participants for the 'Unity AI Game Jam' from October 12 to 20. The event will be held as a 24-hour overnight session at BEXCO in Busan from November 18 to 19, ahead of the opening of G-STAR 2026, Korea's largest game show."
               },
               {
                 "t": "p",
-                "x": "On AI, he is enthusiastic about speed. His designers write their own tools for jobs like batch-renaming elements, and he estimates prototypes now come together around 70% faster."
+                "x": "Applications are open on Unity Square until October 20 and may close early depending on demand. Anyone interested in game development and creation can apply, regardless of major or work experience. Unity plans to select 55 final participants through a document review, and teams will be formed on site."
               },
               {
                 "t": "p",
-                "x": "Where he draws a hard line is synthetic players built from audience data. \"That's where it's becoming dangerous, where you somehow stop thinking about the player again.\" \"We're still building something for people. And you can't build something for people without people in the room.\""
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Wooga UX 리드\nAI보다 플레이어 먼저",
-          "body": "Wooga UX 리드는 AI로 시제품이 약 70% 빨라져도 합성 유저는 거부한다.",
-          "mini_headline": "Wooga UX 리드가 보는 AI의 한계",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "hFLKDmPw3XE"
+                "x": "OpenAI and Meshy.ai are taking part as official sponsors. Participants can use Unity's AI features, including Unity CLI and the Codex plugin. Unity will give every participant AI tool credits worth $50 (about 67,500 won), OpenAI will provide credits and on-site mentoring from its engineers, and Meshy.ai will provide credits for generating 3D assets from text or images alone."
               },
               {
                 "t": "p",
-                "x": "Holger Wurst는 2015년 Wooga에 합류해 현재 June's Journey의 UI/UX 부서를 이끌고 있다. June's Journey는 1920년대를 배경으로 한 숨은그림찾기 미스터리 게임으로, 2023년 매출 10억 달러를 넘어섰다. 그가 이끄는 팀은 디자이너, 애니메이터, 리서처 11명이다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
-                "cap": "Agatha Christie 사망 50주년을 맞아 June's Journey에 Poirot가 합류했다."
+                "x": "Depending on the category, winning teams will receive a chance to exhibit their game at Unity's booth at G-STAR 2026, a 1-year ChatGPT Pro subscription, and interview opportunities on Unity's global and Korean official blogs. A pre-event webinar will be held on October 27 via a Unity Korea YouTube live stream."
               },
               {
                 "t": "p",
-                "x": "Wicked, Agatha Christie 같은 협업을 할 때 그는 플레이어 조사부터 했다. 플레이어들이 내건 조건은 하나였다. \"June을 절대 가려서는 안 된다.\" 숨은그림찾기 게임을 두고 그가 세운 UX 원칙은 \"매핑을 깨지 마라\"다."
-              },
-              {
-                "t": "p",
-                "x": "속도를 높이는 데는 AI를 적극적으로 쓴다. 디자이너들은 요소 이름을 한꺼번에 바꾸는 작업용 도구를 직접 만든다. 그는 이제 프로토타입이 약 70% 더 빨리 나온다고 추산한다."
-              },
-              {
-                "t": "p",
-                "x": "그가 분명히 선을 긋는 곳은 오디언스 데이터로 만든 합성 플레이어다. \"바로 거기서 위험해진다. 어느새 다시 플레이어에 대해 생각하지 않게 되는 지점이다.\" \"우리는 여전히 사람을 위한 무언가를 만들고 있다. 그리고 방 안에 사람이 없이는 사람을 위한 무언가를 만들 수 없다.\""
+                "x": "Song Min-seok, CEO of Unity Korea, said, “AI is becoming a reliable partner that speeds up turning ideas into games and helps creators make bolder and more diverse attempts.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "WoogaのUX責任者\nAIの限界とプレイヤー第一",
-          "body": "WoogaのUX責任者はAIで試作が約70%速くなったが、合成プレイヤーは認めないと語る。",
-          "mini_headline": "Wooga UX責任者が語るAIの限界",
+          "headline": "Unity AIゲームジャム\n釜山で参加者募集",
+          "body": "Unityとゲーム産業協会がG-STAR前の24時間AIゲームジャム参加者を20日まで募る。",
+          "mini_headline": "釜山でUnity AIジャム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "hFLKDmPw3XE"
-              },
-              {
-                "t": "p",
-                "x": "Holger Wurst氏は2015年にWoogaに入社し、現在はJune's JourneyのUI/UX部門を率いている。June's Journeyは1920年代を舞台にした隠しアイテム探しのミステリーゲームで、2023年に売上10億ドルを突破した。同氏はデザイナー、アニメーター、リサーチャー11人のチームを率いる。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
-                "cap": "Agatha Christieの没後50年を記念して、PoirotがJune's Journeyに登場した。"
+                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+                "cap": "Unity AIゲームジャムのポスター（写真提供：Unity）"
               },
               {
                 "t": "p",
-                "x": "WickedやAgatha Christieとのタイアップでは、まずプレイヤーを調査した。プレイヤーが示した条件はひとつ、「Juneを決して食ってはならない」だった。隠しアイテム探しゲームにおける同氏のUXの鉄則は「マッピングを崩すな」だ。"
+                "x": "Unityと韓国ゲーム産業協会は、「Unity AIゲームジャム」の参加者を10月12日から20日まで募集すると発表した。イベントは、韓国最大のゲームショーであるG-STAR 2026の開幕に先立ち、11月18日から19日まで釜山のBEXCOで24時間の徹夜日程で開かれる予定だ。"
               },
               {
                 "t": "p",
-                "x": "AIについては、スピード面で前向きだ。デザイナーたちは要素の一括リネームなどの作業向けに独自のツールを自作しており、プロトタイプは今や約70%速く仕上がると同氏は見積もる。"
+                "x": "参加申し込みはUnity Squareで10月20日まで受け付け、応募状況によっては早期に締め切られる場合がある。専攻や職務経験を問わず、ゲーム開発や創作に関心があれば誰でも応募できる。Unityは書類審査を経て最終参加者55人を選ぶ予定で、チームは現地で組まれる。"
               },
               {
                 "t": "p",
-                "x": "同氏がはっきりと線を引くのは、オーディエンスデータから作った合成プレイヤーだ。「そこが危うくなるところで、いつの間にかまたプレイヤーのことを考えなくなってしまう」「私たちは今も人のために何かを作っている。そして、部屋に人がいなければ、人のためのものは作れない」"
+                "x": "OpenAIとMeshy.aiが公式スポンサーとして参加する。参加者はUnity CLIやCodexプラグインなど、UnityのAI機能を活用できる。Unityは参加者全員に50ドル（約6万7,500ウォン）相当のAIツール用クレジットを支給し、OpenAIはクレジットと所属エンジニアによる現地メンタリングを、Meshy.aiはテキストや画像だけで3Dアセットを生成できるクレジットを提供する。"
+              },
+              {
+                "t": "p",
+                "x": "受賞チームには部門に応じて、G-STAR 2026会場のUnityブースでのゲーム展示の機会、ChatGPT Proの1年間利用権、Unityのグローバルおよび韓国公式ブログでのインタビューの機会などが与えられる。10月27日にはUnity KoreaのYouTubeライブで事前ウェビナーが開かれる。"
+              },
+              {
+                "t": "p",
+                "x": "Unity Koreaのソン・ミンソク代表取締役は「AIは、アイデアをゲームとして形にするスピードを高め、クリエイターがより大胆で多様な挑戦をできるよう支える心強いパートナーになりつつある」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Wooga UX负责人\n谈AI边界与玩家优先",
-          "body": "Wooga的UX负责人称，AI让原型制作提速约70%，但合成玩家是一条红线。",
-          "mini_headline": "Wooga UX负责人谈AI的边界",
+          "headline": "Unity AI游戏Jam\n釜山招募参赛者",
+          "body": "Unity与游戏产业协会招募G-STAR前的24小时AI游戏Jam参赛者，截至20日。",
+          "mini_headline": "釜山Unity AI游戏Jam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "hFLKDmPw3XE"
-              },
-              {
-                "t": "p",
-                "x": "Holger Wurst于2015年加入Wooga，目前领导June's Journey的UI/UX部门。June's Journey是一款以1920年代为背景的隐藏物品解谜游戏，2023年收入突破10亿美元。他带领一支由11名设计师、动画师和研究员组成的团队。"
-              },
-              {
                 "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
-                "cap": "为纪念Agatha Christie逝世50周年，Poirot加入了June's Journey。"
+                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+                "cap": "Unity AI游戏Jam海报（图片提供：Unity）"
               },
               {
                 "t": "p",
-                "x": "在与Wicked和Agatha Christie等联动时，他首先研究了玩家；玩家只有一个条件：“绝不能抢了June的风头。”他对隐藏物品游戏的UX原则是：“不要破坏映射。”"
+                "x": "Unity与韩国游戏产业协会宣布，将于10月12日至20日招募“Unity AI游戏Jam”参赛者。活动将在韩国最大游戏展G-STAR 2026开幕前，于11月18日至19日在釜山BEXCO以24小时通宵形式举行。"
               },
               {
                 "t": "p",
-                "x": "在AI方面，他对速度充满热情。他的设计师会自己编写工具来完成批量重命名元素之类的工作，他估计现在原型的制作速度快了约70%。"
+                "x": "报名通过Unity Square进行，截至10月20日，视报名情况可能提前截止。无论专业或工作经历，凡对游戏开发和创作感兴趣者均可报名。Unity计划经书面审核选出最终55名参赛者，团队将在现场组建。"
               },
               {
                 "t": "p",
-                "x": "他明确划出红线的是基于受众数据构建的合成玩家。“那正是开始变得危险的地方，你会不知不觉又不再考虑玩家。”“我们仍然是在为人打造东西。而房间里没有人，你就无法为人打造东西。”"
+                "x": "OpenAI和Meshy.ai作为官方赞助商参与。参赛者可使用Unity CLI、Codex插件等Unity的AI功能。Unity将向全体参赛者发放价值50美元（约合6万7,500韩元）的AI工具使用额度，OpenAI提供额度及其工程师的现场指导，Meshy.ai则提供仅凭文字或图片即可生成3D素材的额度。"
+              },
+              {
+                "t": "p",
+                "x": "获奖团队将根据所获奖项，获得在G-STAR 2026现场Unity展位展出游戏的机会、ChatGPT Pro 1年使用权，以及在Unity全球和韩国官方博客接受采访的机会等。10月27日还将通过Unity Korea的YouTube直播举行赛前网络研讨会。"
+              },
+              {
+                "t": "p",
+                "x": "Unity Korea代表理事宋珉锡表示：“AI正成为可靠的伙伴，它加快了把创意变成游戏的速度，帮助创作者进行更大胆、更多样的尝试。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Wooga: límites de la IA y\nlos jugadores, lo primero",
-          "body": "Para el líder de UX de Wooga, la IA agiliza los prototipos cerca de un 70%, pero los jugadores sintéticos son tabú.",
-          "mini_headline": "Wooga y los límites de la IA",
+          "headline": "Game jam de AI de Unity\nbusca participantes en Busan",
+          "body": "Unity y la asociación del sector abren hasta el 20 la inscripción a una game jam de AI de 24 horas previa a G-STAR.",
+          "mini_headline": "Game jam de AI de Unity en Busan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "hFLKDmPw3XE"
-              },
-              {
-                "t": "p",
-                "x": "Holger Wurst se incorporó a Wooga en 2015 y hoy dirige el departamento de UI/UX de June's Journey, el juego de misterio y objetos ocultos ambientado en la década de 1920 que superó los 1.000 millones de dólares de ingresos en 2023. Dirige un equipo de once diseñadores, animadores e investigadores."
-              },
-              {
                 "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
-                "cap": "Poirot llegó a June's Journey para conmemorar los 50 años de la muerte de Agatha Christie."
+                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+                "cap": "Póster de la Unity AI Game Jam (Imagen cedida por Unity)"
               },
               {
                 "t": "p",
-                "x": "Para colaboraciones como las de Wicked y Agatha Christie, primero investigó a los jugadores; su única condición: \"Nunca pueden eclipsar a June\". Su regla de UX para los juegos de objetos ocultos: \"No rompas el mapeo\"."
+                "x": "Unity y la Asociación de la Industria del Juego de Corea anunciaron que reclutarán participantes para la 'Unity AI Game Jam' del 12 al 20 de octubre. El evento se celebrará del 18 al 19 de noviembre en BEXCO, en Busan, en una jornada continua de 24 horas, antes de la apertura de G-STAR 2026, la mayor feria de videojuegos del país."
               },
               {
                 "t": "p",
-                "x": "En cuanto a la IA, le entusiasma la velocidad. Sus diseñadores escriben sus propias herramientas para tareas como renombrar elementos en lote, y calcula que los prototipos ahora se completan en torno a un 70% más rápido."
+                "x": "Las inscripciones están abiertas en Unity Square hasta el 20 de octubre y podrían cerrarse antes según la demanda. Puede inscribirse cualquier persona interesada en el desarrollo y la creación de juegos, sin importar su formación o experiencia laboral. Unity prevé seleccionar a 55 participantes finales tras una revisión de solicitudes, y los equipos se formarán en el lugar."
               },
               {
                 "t": "p",
-                "x": "Donde traza una línea roja es en los jugadores sintéticos creados a partir de datos de audiencia. \"Ahí es donde se vuelve peligroso, donde de algún modo vuelves a dejar de pensar en el jugador\". \"Seguimos construyendo algo para personas. Y no puedes construir algo para personas sin personas en la sala\"."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Wooga UX 리드\nAI보다 플레이어 먼저",
-          "body": "Wooga UX 리드는 AI로 시제품이 약 70% 빨라져도 합성 유저는 거부한다.",
-          "mini_headline": "Wooga UX 리드가 보는 AI의 한계",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "hFLKDmPw3XE"
+                "x": "OpenAI y Meshy.ai participan como patrocinadores oficiales. Los participantes podrán usar las funciones de AI de Unity, como Unity CLI y el plugin de Codex. Unity entregará a cada participante créditos para herramientas de AI por valor de 50 dólares (unos 67,500 wones), OpenAI ofrecerá créditos y mentoría presencial de sus ingenieros, y Meshy.ai aportará créditos para generar recursos 3D solo a partir de texto o imágenes."
               },
               {
                 "t": "p",
-                "x": "Holger Wurst는 2015년 Wooga에 합류해 현재 June's Journey의 UI/UX 부서를 이끌고 있다. June's Journey는 1920년대를 배경으로 한 숨은그림찾기 미스터리 게임으로, 2023년 매출 10억 달러를 넘어섰다. 그는 디자이너, 애니메이터, 리서처 11명으로 이뤄진 팀을 운영한다."
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
-                "cap": "Agatha Christie 사망 50주년을 맞아 June's Journey에 Poirot가 합류했다."
+                "x": "Según la categoría, los equipos ganadores tendrán la oportunidad de exhibir su juego en el stand de Unity en G-STAR 2026, una suscripción de 1 año a ChatGPT Pro y entrevistas en los blogs oficiales global y coreano de Unity. El 27 de octubre se celebrará un seminario web previo en directo en el canal de YouTube de Unity Korea."
               },
               {
                 "t": "p",
-                "x": "Wicked, Agatha Christie 같은 협업에서 그는 먼저 플레이어를 조사했다. 플레이어들의 조건은 하나였다. \"June을 절대 가려서는 안 된다.\" 숨은그림찾기 게임에 대한 그의 UX 원칙은 \"매핑을 깨지 마라\"다."
-              },
-              {
-                "t": "p",
-                "x": "AI에 대해서는 속도 면에서 적극적이다. 그의 디자이너들은 요소 일괄 이름 변경 같은 작업을 위한 도구를 직접 만들고, 그는 이제 프로토타입이 약 70% 더 빨리 완성된다고 추산한다."
-              },
-              {
-                "t": "p",
-                "x": "그가 분명히 선을 긋는 지점은 오디언스 데이터로 만든 합성 플레이어다. \"바로 거기서 위험해진다. 어느새 다시 플레이어에 대해 생각하지 않게 되는 지점이다.\" \"우리는 여전히 사람을 위한 무언가를 만들고 있다. 그리고 방 안에 사람이 없이는 사람을 위한 무언가를 만들 수 없다.\""
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "WoogaのUX責任者\nAIの限界とプレイヤー第一",
-          "body": "WoogaのUX責任者はAIで試作が約70%速くなったが、合成プレイヤーは認めないと語る。",
-          "mini_headline": "Wooga UX責任者が語るAIの限界",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "hFLKDmPw3XE"
-              },
-              {
-                "t": "p",
-                "x": "Holger Wurst氏は2015年にWoogaに入社し、現在はJune's JourneyのUI/UX部門を率いている。June's Journeyは1920年代を舞台にした隠しアイテム探しのミステリーゲームで、2023年に売上10億ドルを突破した。同氏はデザイナー、アニメーター、リサーチャー11人のチームを率いる。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
-                "cap": "Agatha Christieの没後50年を記念して、PoirotがJune's Journeyに登場した。"
-              },
-              {
-                "t": "p",
-                "x": "WickedやAgatha Christieとのタイアップでは、まずプレイヤーを調査した。プレイヤーが示した条件はひとつ、「Juneを決して食ってはならない」だった。隠しアイテム探しゲームにおける同氏のUXの鉄則は「マッピングを崩すな」だ。"
-              },
-              {
-                "t": "p",
-                "x": "AIについては、スピード面で前向きだ。デザイナーたちは要素の一括リネームなどの作業向けに独自のツールを自作しており、プロトタイプは今や約70%速く仕上がると同氏は見積もる。"
-              },
-              {
-                "t": "p",
-                "x": "同氏がはっきりと線を引くのは、オーディエンスデータから作った合成プレイヤーだ。「そこが危うくなるところで、いつの間にかまたプレイヤーのことを考えなくなってしまう」「私たちは今も人のために何かを作っている。そして、部屋に人がいなければ、人のためのものは作れない」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Wooga UX负责人\n谈AI边界与玩家优先",
-          "body": "Wooga的UX负责人称，AI让原型制作提速约70%，但合成玩家是一条红线。",
-          "mini_headline": "Wooga UX负责人谈AI的边界",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "hFLKDmPw3XE"
-              },
-              {
-                "t": "p",
-                "x": "Holger Wurst于2015年加入Wooga，目前领导June's Journey的UI/UX部门。June's Journey是一款以1920年代为背景的隐藏物品解谜游戏，2023年收入突破10亿美元。他带领一支由11名设计师、动画师和研究员组成的团队。"
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
-                "cap": "为纪念Agatha Christie逝世50周年，Poirot加入了June's Journey。"
-              },
-              {
-                "t": "p",
-                "x": "在与Wicked和Agatha Christie等联动时，他首先研究了玩家；玩家只有一个条件：“绝不能抢了June的风头。”他对隐藏物品游戏的UX原则是：“不要破坏映射。”"
-              },
-              {
-                "t": "p",
-                "x": "在AI方面，他对速度充满热情。他的设计师会自己编写工具来完成批量重命名元素之类的工作，他估计现在原型的制作速度快了约70%。"
-              },
-              {
-                "t": "p",
-                "x": "他明确划出红线的是基于受众数据构建的合成玩家。“那正是开始变得危险的地方，你会不知不觉又不再考虑玩家。”“我们仍然是在为人打造东西。而房间里没有人，你就无法为人打造东西。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Wooga: límites de la IA y\nlos jugadores, lo primero",
-          "body": "Para el líder de UX de Wooga, la IA agiliza los prototipos cerca de un 70%, pero los jugadores sintéticos son tabú.",
-          "mini_headline": "Wooga y los límites de la IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "hFLKDmPw3XE"
-              },
-              {
-                "t": "p",
-                "x": "Holger Wurst se incorporó a Wooga en 2015 y hoy dirige el departamento de UI/UX de June's Journey, el juego de misterio y objetos ocultos ambientado en la década de 1920 que superó los 1.000 millones de dólares de ingresos en 2023. Dirige un equipo de once diseñadores, animadores e investigadores."
-              },
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141728/90027/image-1-4_1200.jpg",
-                "cap": "Poirot llegó a June's Journey para conmemorar los 50 años de la muerte de Agatha Christie."
-              },
-              {
-                "t": "p",
-                "x": "Para colaboraciones como las de Wicked y Agatha Christie, primero investigó a los jugadores; su única condición: \"Nunca pueden eclipsar a June\". Su regla de UX para los juegos de objetos ocultos: \"No rompas el mapeo\"."
-              },
-              {
-                "t": "p",
-                "x": "En cuanto a la IA, le entusiasma la velocidad. Sus diseñadores escriben sus propias herramientas para tareas como renombrar elementos en lote, y calcula que los prototipos ahora se completan en torno a un 70% más rápido."
-              },
-              {
-                "t": "p",
-                "x": "Donde traza una línea roja es en los jugadores sintéticos creados a partir de datos de audiencia. \"Ahí es donde se vuelve peligroso, donde de algún modo vuelves a dejar de pensar en el jugador\". \"Seguimos construyendo algo para personas. Y no puedes construir algo para personas sin personas en la sala\"."
+                "x": "Song Min-seok, director ejecutivo de Unity Korea, afirmó: “La AI se está convirtiendo en un socio sólido que acelera la conversión de ideas en juegos y ayuda a los creadores a hacer intentos más audaces y diversos”."
               }
             ]
           }

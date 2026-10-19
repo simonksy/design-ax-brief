@@ -1,199 +1,167 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-meta-terms",
+      "id": "marketing-amazon",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Meta, 상업 약관서\nAI 크롤링 조항 삭제",
-      "body": "반발이 일자 Meta가 광고주 사이트를 AI 학습에 쓸 수 있다는 문구를 뺐다.",
-      "mini_headline": "Meta, AI 크롤링 조항 철회",
+      "headline": "ADOTAT: Amazon\n광고 타기팅, AI가 기본",
+      "body": "ADOTAT은 Amazon Full-Funnel이 타기팅을 AI에 맡긴다고 본다.",
+      "mini_headline": "Amazon, AI에 광고 타기팅 맡겨",
       "tool": "Marketing",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "source": "PPC Land",
+      "url": "https://ppc.land/amazons-100-a-day-full-funnel-campaigns-hand-targeting-to-ai-adotat-says/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-            "cap": "이미지 출처: picture alliance / Getty Images"
+            "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
           },
           {
             "t": "p",
-            "x": "Meta는 최근 상업용 이용 약관을 개정하면서 회사가 Meta 제품과 서비스를 “제공, 개발, 개선, 연구, 학습하고 그 무결성을 유지하기 위해 [비즈니스 계정의] 도메인, 웹페이지 또는 URLs의 모든 콘텐츠를 사용할 수 있다”고 명시했다."
+            "x": "업계 뉴스레터 ADOTAT의 10월 1일 분석에 따르면 Amazon은 unBoxed 2026에서 \"Amazon DSP\"라는 이름을 없앴지만 구매 엔진은 그대로 두고, 트레이더가 쓰던 제어 기능을 고급 설정 토글 뒤로 옮겼다. 칼럼 주장대로라면 이제 기본 경로에서는 Amazon의 AI 에이전트가 채널과 오디언스, 입찰가를 고르고 그 결과도 Amazon 자체 데이터로 평가한다. Amazon 측은 DSP의 프로그래매틱 기능을 DVA+ 고급 설정에서 지금도 쓸 수 있다는 입장이다."
           },
           {
             "t": "p",
-            "x": "Nieman Lab이 인터뷰한 법률 전문가들은 이를 “주목할 만한 조항”으로 봤다. Meta 비즈니스 계정이 있는 모든 퍼블리셔의 웹사이트를 Meta가 스크랩해 그 콘텐츠로 자사 AI 모델을 학습시키도록 허용할 수 있다는 이유에서다. (Meta는 지난해 저작권 침해 혐의를 다툰 굵직한 소송에서 이겼지만, Meta를 비롯한 AI 기업들을 상대로 한 다른 소송은 아직 진행 중이다.)"
+            "x": "새 Amazon Ads Agent 아래에는 Sponsored Ads, DVA+, Full-Funnel Campaigns가 있다. 하루 $100부터 시작하는 Full-Funnel은 신규 고객(new-to-brand) 매출 같은 성과를 목표로 잡고, Amazon이 여러 형식에 예산을 나눈다. ADOTAT은 \"자격 요건에 따라 U.S. 광고주에게 실제로 열려 있는 것은 Full-Funnel Campaigns\"라며 \"트레이더가 운전대를 쥐게 해주는 기능은 아직 베타\"라고 썼다. DVA+는 US 비공개 베타였고 공개 베타는 10월 말로 예상됐다."
           },
           {
             "t": "p",
-            "x": "다만 Meta 대변인은 개정 약관이 Meta의 웹 크롤링 방식이 바뀌었다는 뜻은 아니라고 강조했다. 그러다 The Verge가 해당 조항이 삭제됐다고 보도했다."
-          },
-          {
-            "t": "p",
-            "x": "회사는 성명에서 “여러분의 의견을 들었고 분명히 하고자 한다. 우리가 통합한 크롤링 조항은 광고 및 비즈니스 제품에만 적용되며, 이를 약관 자체에 명확히 밝혔다”며 “이는 Meta가 웹 크롤러를 사용하는 방식을 바꾸지 않는다”고 밝혔다."
+            "x": "칼럼은 \"기본값이 운명\"이라고 말한다. ADOTAT도 자사의 상업적 해석이 추론임을 인정한다. 무료 미리보기에는 Full-Funnel이 오디언스 선택을 막는다는 내용이 없다."
           }
         ]
       },
-      "_lead_image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Meta strikes AI crawling clause\nfrom its Commercial Terms",
-          "body": "After backlash, Meta removed language suggesting it could crawl advertiser-linked websites to train AI.",
-          "mini_headline": "Meta drops AI crawl clause",
+          "headline": "ADOTAT: Amazon hands ad\ntargeting to AI by default",
+          "body": "ADOTAT: Amazon's $100-a-day Full-Funnel campaigns hand targeting to AI, while DVA+'s DSP controls sat in closed beta.",
+          "mini_headline": "Amazon lets AI target ads",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-                "cap": "Image Credits: picture alliance / Getty Images"
+                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta recently updated its commercial terms of use, declaring that the company can “use any content from [a business account’s] domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of” Meta products and services."
+                "x": "Amazon retired the \"Amazon DSP\" name at unBoxed 2026 but kept the buying engine, moving the controls traders use behind an advanced-settings toggle, according to an October 1 analysis by the trade newsletter ADOTAT. The column argues Amazon's AI agent now chooses channels, audiences and bids in its default path, then grades the results with Amazon's own data. Amazon says the DSP's programmatic capabilities remain available within DVA+ advanced settings."
               },
               {
                 "t": "p",
-                "x": "According to legal experts interviewed by Nieman Lab, this looked like a “remarkable provision” that could give Meta permission to scrape the website of any publisher with a Meta business account and use the content to train the company’s AI models. (While Meta defeated a high-profile lawsuit over alleged copyright infringement last year, other cases against AI companies, including Meta, continue.)"
+                "x": "Under the new Amazon Ads Agent umbrella sit Sponsored Ads, DVA+ and Full-Funnel Campaigns. In Full-Funnel, which starts at $100 a day, Amazon allocates the budget across formats toward outcomes such as new-to-brand sales. \"The thing that is actually live for U.S. advertisers, subject to eligibility, is Full-Funnel Campaigns,\" ADOTAT wrote. \"The thing that keeps the trader's hands on the wheel is the thing still in beta.\" DVA+ was in US closed beta, with open beta expected in late October."
               },
               {
                 "t": "p",
-                "x": "However, a Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web. And now, The Verge reports that the provision has been removed."
-              },
-              {
-                "t": "p",
-                "x": "“We’ve heard you and want to clarify: the crawling terms we consolidated only applied to our ads and business products, and we’ve clarified that in the terms themselves,” the company said in a statement. “It does not change how Meta uses web crawlers.”"
+                "x": "\"Defaults are destiny,\" the column states. ADOTAT labels its commercial reading as inference, and its free preview does not say Full-Funnel blocks audience selection."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta, 상업 약관서\nAI 크롤링 조항 삭제",
-          "body": "반발이 일자 Meta가 광고주 사이트를 AI 학습에 쓸 수 있다는 문구를 뺐다.",
-          "mini_headline": "Meta, AI 크롤링 조항 철회",
+          "headline": "ADOTAT: Amazon\n광고 타기팅, AI가 기본",
+          "body": "ADOTAT은 Amazon Full-Funnel이 타기팅을 AI에 맡긴다고 본다.",
+          "mini_headline": "Amazon, AI에 광고 타기팅 맡겨",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-                "cap": "이미지 출처: picture alliance / Getty Images"
+                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta는 최근 상업용 이용 약관을 개정하면서 회사가 Meta 제품과 서비스를 “제공, 개발, 개선, 연구, 학습하고 그 무결성을 유지하기 위해 [비즈니스 계정의] 도메인, 웹페이지 또는 URLs의 모든 콘텐츠를 사용할 수 있다”고 명시했다."
+                "x": "업계 뉴스레터 ADOTAT의 10월 1일 분석에 따르면 Amazon은 unBoxed 2026에서 \"Amazon DSP\"라는 이름을 없앴지만 구매 엔진은 그대로 두고, 트레이더가 쓰던 제어 기능을 고급 설정 토글 뒤로 옮겼다. 칼럼 주장대로라면 이제 기본 경로에서는 Amazon의 AI 에이전트가 채널과 오디언스, 입찰가를 고르고 그 결과도 Amazon 자체 데이터로 평가한다. Amazon 측은 DSP의 프로그래매틱 기능을 DVA+ 고급 설정에서 지금도 쓸 수 있다는 입장이다."
               },
               {
                 "t": "p",
-                "x": "Nieman Lab이 인터뷰한 법률 전문가들은 이를 “주목할 만한 조항”으로 봤다. Meta 비즈니스 계정이 있는 모든 퍼블리셔의 웹사이트를 Meta가 스크랩해 그 콘텐츠로 자사 AI 모델을 학습시키도록 허용할 수 있다는 이유에서다. (Meta는 지난해 저작권 침해 혐의를 다툰 굵직한 소송에서 이겼지만, Meta를 비롯한 AI 기업들을 상대로 한 다른 소송은 아직 진행 중이다.)"
+                "x": "새 Amazon Ads Agent 아래에는 Sponsored Ads, DVA+, Full-Funnel Campaigns가 있다. 하루 $100부터 시작하는 Full-Funnel은 신규 고객(new-to-brand) 매출 같은 성과를 목표로 잡고, Amazon이 여러 형식에 예산을 나눈다. ADOTAT은 \"자격 요건에 따라 U.S. 광고주에게 실제로 열려 있는 것은 Full-Funnel Campaigns\"라며 \"트레이더가 운전대를 쥐게 해주는 기능은 아직 베타\"라고 썼다. DVA+는 US 비공개 베타였고 공개 베타는 10월 말로 예상됐다."
               },
               {
                 "t": "p",
-                "x": "다만 Meta 대변인은 개정 약관이 Meta의 웹 크롤링 방식이 바뀌었다는 뜻은 아니라고 강조했다. 그러다 The Verge가 해당 조항이 삭제됐다고 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 성명에서 “여러분의 의견을 들었고 분명히 하고자 한다. 우리가 통합한 크롤링 조항은 광고 및 비즈니스 제품에만 적용되며, 이를 약관 자체에 명확히 밝혔다”며 “이는 Meta가 웹 크롤러를 사용하는 방식을 바꾸지 않는다”고 밝혔다."
+                "x": "칼럼은 \"기본값이 운명\"이라고 말한다. ADOTAT도 자사의 상업적 해석이 추론임을 인정한다. 무료 미리보기에는 Full-Funnel이 오디언스 선택을 막는다는 내용이 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、商用規約から\nAIクロール条項を削除",
-          "body": "反発を受け、Metaは広告主のサイトをAI学習のためにクロールできるとする文言を削除した。",
-          "mini_headline": "Meta、AIクロール条項を撤回",
+          "headline": "ADOTAT: Amazon\n標準で配信先をAIに委ねる",
+          "body": "ADOTATは、AmazonのFull-FunnelがターゲティングをAIに任せると見る。",
+          "mini_headline": "AmazonがAIに広告ターゲティング",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-                "cap": "画像クレジット：picture alliance / Getty Images"
+                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
               },
               {
                 "t": "p",
-                "x": "Metaは最近、商用利用規約を更新し、同社が「[ビジネスアカウントの]ドメイン、ウェブページ、またはURLsのあらゆるコンテンツを、Metaの製品やサービスの提供、開発、改善、研究、学習、そして完全性の維持のために使用できる」と定めた。"
+                "x": "業界ニュースレターADOTATの10月1日付の分析によると、AmazonはunBoxed 2026で「Amazon DSP」の名称を廃止したが、買い付けエンジンは残し、トレーダーが使う操作機能を詳細設定のトグルの奥に移した。コラムは、AmazonのAIエージェントが既定の経路でチャネル、オーディエンス、入札額を選び、その結果をAmazon自身のデータで評価するようになったと論じる。Amazonは、DSPのプログラマティック機能はDVA+の詳細設定内で引き続き利用できるとしている。"
               },
               {
                 "t": "p",
-                "x": "Nieman Labが取材した法律専門家によれば、これはMetaのビジネスアカウントを持つあらゆるパブリッシャーのウェブサイトをスクレイピングし、そのコンテンツを同社のAIモデルの学習に使う許可をMetaに与えかねない「注目すべき条項」に見えた。（Metaは昨年、著作権侵害の疑いをめぐる注目の訴訟に勝訴したが、Metaを含むAI企業に対する他の訴訟は続いている。）"
+                "x": "新たなAmazon Ads Agentの傘下には、Sponsored Ads、DVA+、Full-Funnel Campaignsが並ぶ。1日$100から始まるFull-Funnelでは、Amazonがnew-to-brand売上などの成果に向けて複数のフォーマットに予算を配分する。ADOTATは「資格要件を条件に、U.S.の広告主に実際に提供されているのはFull-Funnel Campaignsだ」とし、「トレーダーがハンドルを握り続けられる機能は、まだベータ版だ」と書いた。DVA+はUSでクローズドベータの段階にあり、オープンベータは10月下旬の見込みだった。"
               },
               {
                 "t": "p",
-                "x": "しかしMetaの広報担当者は、更新された規約はMetaのウェブクロールの方法の変更を反映したものではないと強調した。そして今回、The Vergeはこの条項が削除されたと報じている。"
-              },
-              {
-                "t": "p",
-                "x": "同社は声明で「皆さまの声を受け止め、明確にしたい。統合したクロール関連の条項は広告およびビジネス製品にのみ適用されるものであり、そのことを規約自体でも明確にした」と述べ、「これはMetaによるウェブクローラーの使い方を変えるものではない」とした。"
+                "x": "コラムは「デフォルトが運命を決める」と述べる。ADOTATは自らの商業的な読みを推論と位置づけており、無料プレビューにはFull-Funnelがオーディエンス選択を妨げるとの記述はない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta从商业条款中\n删除AI爬取条款",
-          "body": "遭到反对后，Meta删除了暗示可爬取广告主关联网站来训练AI的措辞。",
-          "mini_headline": "Meta撤回AI爬取条款",
+          "headline": "ADOTAT: Amazon\n默认交由AI定向广告",
+          "body": "ADOTAT称，Amazon每日$100起的Full-Funnel广告将定向交给AI。",
+          "mini_headline": "Amazon让AI定向广告",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-                "cap": "图片来源：picture alliance / Getty Images"
+                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta近日更新了商业使用条款，声明公司可以“使用来自[企业账户的]域名、网页或URLs的任何内容，用于提供、开发、改进、研究、训练并维护”Meta产品和服务的完整性。"
+                "x": "据行业通讯ADOTAT在10月1日发布的分析，Amazon在unBoxed 2026上停用了“Amazon DSP”这一名称，但保留了购买引擎，并把交易员使用的控制项移到了高级设置开关之后。该专栏认为，Amazon的AI代理如今在默认路径中选择渠道、受众和出价，再用Amazon自己的数据评估结果。Amazon表示，DSP的程序化功能仍可在DVA+高级设置中使用。"
               },
               {
                 "t": "p",
-                "x": "据Nieman Lab采访的法律专家称，这看起来是一项“非同寻常的条款”，可能允许Meta抓取任何拥有Meta企业账户的发布商的网站，并用其内容训练公司的AI模型。（尽管Meta去年在一起备受关注的涉嫌侵犯版权诉讼中胜诉，但包括Meta在内的AI公司面临的其他诉讼仍在继续。）"
+                "x": "新的Amazon Ads Agent旗下包括Sponsored Ads、DVA+和Full-Funnel Campaigns。Full-Funnel每日$100起，由Amazon围绕new-to-brand销售等成果在各类形式之间分配预算。ADOTAT写道：“视资格而定，真正向U.S.广告主上线的是Full-Funnel Campaigns。”“让交易员手握方向盘的功能仍处于测试阶段。”DVA+当时在US处于封闭测试，公开测试预计在10月下旬推出。"
               },
               {
                 "t": "p",
-                "x": "不过，Meta发言人坚称，更新后的条款并不意味着Meta爬取网络的方式有所改变。如今据The Verge报道，该条款已被删除。"
-              },
-              {
-                "t": "p",
-                "x": "该公司在声明中表示：“我们听到了大家的意见，并希望澄清：我们整合的爬取条款仅适用于我们的广告和商业产品，我们已在条款中明确说明这一点。”“这并不会改变Meta使用网络爬虫的方式。”"
+                "x": "该专栏写道：“默认即命运。”ADOTAT将其商业解读标注为推断，其免费预览也并未说Full-Funnel会阻止受众选择。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta elimina la cláusula de\nrastreo para IA de sus términos",
-          "body": "Tras las críticas, Meta eliminó un texto que sugería que podía rastrear webs de anunciantes para entrenar IA.",
-          "mini_headline": "Meta retira la cláusula de rastreo",
+          "headline": "ADOTAT: Amazon cede a la IA\nla segmentación por defecto",
+          "body": "ADOTAT: las campañas Full-Funnel dan la segmentación a la IA; los controles DSP de DVA+ seguían en beta cerrada.",
+          "mini_headline": "Amazon deja a la IA segmentar anuncios",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-                "cap": "Créditos de imagen: picture alliance / Getty Images"
+                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta actualizó recientemente sus términos comerciales de uso y declaró que la empresa puede “usar cualquier contenido de los dominios, páginas web o URLs [de una cuenta comercial] para proporcionar, desarrollar, mejorar, investigar, entrenar y mantener la integridad de” los productos y servicios de Meta."
+                "x": "Amazon retiró el nombre \"Amazon DSP\" en unBoxed 2026, pero conservó el motor de compra y trasladó los controles que usan los traders detrás de un interruptor de configuración avanzada, según un análisis del 1 de octubre del boletín del sector ADOTAT. La columna sostiene que el agente de IA de Amazon elige ahora canales, audiencias y pujas en su ruta predeterminada y luego evalúa los resultados con los datos propios de Amazon. Amazon afirma que las capacidades programáticas del DSP siguen disponibles en la configuración avanzada de DVA+."
               },
               {
                 "t": "p",
-                "x": "Según expertos legales entrevistados por Nieman Lab, esto parecía una “disposición notable” que podría dar a Meta permiso para extraer el sitio web de cualquier editor con una cuenta comercial de Meta y usar el contenido para entrenar los modelos de IA de la empresa. (Aunque Meta ganó el año pasado una demanda de alto perfil por presunta infracción de derechos de autor, otros casos contra empresas de IA, incluida Meta, siguen en curso.)"
+                "x": "Bajo el nuevo paraguas de Amazon Ads Agent se agrupan Sponsored Ads, DVA+ y Full-Funnel Campaigns. En Full-Funnel, que parte de $100 al día, Amazon reparte el presupuesto entre formatos en función de resultados como las ventas new-to-brand. \"Lo que de verdad está activo para los anunciantes de U.S. (EE. UU.), sujeto a elegibilidad, son las Full-Funnel Campaigns\", escribió ADOTAT. \"Lo que mantiene las manos del trader en el volante es lo que sigue en beta\". DVA+ estaba en beta cerrada en US, con una beta abierta prevista para finales de octubre."
               },
               {
                 "t": "p",
-                "x": "Sin embargo, un portavoz de Meta insistió en que los términos actualizados no reflejaban un cambio en la forma en que Meta rastrea la web. Y ahora The Verge informa de que la disposición ha sido eliminada."
-              },
-              {
-                "t": "p",
-                "x": "“Los hemos escuchado y queremos aclararlo: los términos de rastreo que consolidamos solo se aplicaban a nuestros productos publicitarios y comerciales, y lo hemos aclarado en los propios términos”, dijo la empresa en un comunicado. “No cambia la forma en que Meta usa los rastreadores web”."
+                "x": "\"Los valores predeterminados son el destino\", afirma la columna. ADOTAT presenta su lectura comercial como una inferencia, y su vista previa gratuita no dice que Full-Funnel bloquee la selección de audiencias."
               }
             ]
           }
@@ -201,125 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta, 상업 약관서\nAI 크롤링 조항 삭제",
-          "body": "반발이 일자 Meta가 광고주 사이트를 AI 학습에 쓸 수 있다는 문구를 뺐다.",
-          "mini_headline": "Meta, AI 크롤링 조항 철회",
+          "headline": "ADOTAT: Amazon\n광고 타기팅, AI가 기본",
+          "body": "ADOTAT은 Amazon Full-Funnel이 타기팅을 AI에 맡긴다고 본다.",
+          "mini_headline": "Amazon, AI에 광고 타기팅 맡겨",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-                "cap": "이미지 출처: picture alliance / Getty Images"
+                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta는 최근 상업용 이용 약관을 개정하면서, 회사가 Meta 제품과 서비스를 “제공, 개발, 개선, 연구, 학습하고 그 무결성을 유지하기 위해 [비즈니스 계정의] 도메인, 웹페이지 또는 URLs의 모든 콘텐츠를 사용할 수 있다”고 명시했다."
+                "x": "업계 뉴스레터 ADOTAT의 10월 1일 분석에 따르면 Amazon은 unBoxed 2026에서 \"Amazon DSP\"라는 이름을 없앴지만 구매 엔진은 그대로 두고, 트레이더가 쓰던 제어 기능을 고급 설정 토글 뒤로 옮겼다. 칼럼은 이제 Amazon의 AI 에이전트가 기본 경로에서 채널과 오디언스, 입찰가를 고르고 그 결과를 Amazon 자체 데이터로 평가한다고 주장한다. Amazon은 DSP의 프로그래매틱 기능을 DVA+ 고급 설정에서 여전히 쓸 수 있다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Nieman Lab이 인터뷰한 법률 전문가들에 따르면, 이는 Meta 비즈니스 계정을 가진 모든 퍼블리셔의 웹사이트를 Meta가 스크랩해 그 콘텐츠로 자사 AI 모델을 학습시키도록 허용할 수 있는 “주목할 만한 조항”으로 보였다. (Meta는 지난해 저작권 침해 혐의를 둘러싼 주목받는 소송에서 이겼지만, Meta를 포함한 AI 기업들을 상대로 한 다른 소송은 계속되고 있다.)"
+                "x": "새 Amazon Ads Agent 아래에는 Sponsored Ads, DVA+, Full-Funnel Campaigns가 있다. 하루 $100부터 시작하는 Full-Funnel에서는 Amazon이 신규 고객(new-to-brand) 매출 같은 성과를 목표로 여러 형식에 예산을 배분한다. ADOTAT은 \"자격 요건에 따라 U.S. 광고주에게 실제로 열려 있는 것은 Full-Funnel Campaigns\"라며 \"트레이더가 운전대를 쥐게 해주는 기능은 아직 베타\"라고 썼다. DVA+는 US 비공개 베타 상태였고, 공개 베타는 10월 말로 예상됐다."
               },
               {
                 "t": "p",
-                "x": "그러나 Meta 대변인은 개정된 약관이 Meta의 웹 크롤링 방식 변화를 반영한 것은 아니라고 강조했다. 그리고 이제 The Verge는 해당 조항이 삭제됐다고 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "회사는 성명에서 “여러분의 의견을 들었고 분명히 하고자 한다. 우리가 통합한 크롤링 조항은 광고 및 비즈니스 제품에만 적용되며, 이를 약관 자체에 명확히 밝혔다”며 “이는 Meta가 웹 크롤러를 사용하는 방식을 바꾸지 않는다”고 밝혔다."
+                "x": "칼럼은 \"기본값이 운명\"이라고 말한다. ADOTAT은 자사의 상업적 해석이 추론이라고 밝히고 있으며, 무료 미리보기에는 Full-Funnel이 오디언스 선택을 막는다는 내용이 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、商用規約から\nAIクロール条項を削除",
-          "body": "反発を受け、Metaは広告主のサイトをAI学習のためにクロールできるとする文言を削除した。",
-          "mini_headline": "Meta、AIクロール条項を撤回",
+          "headline": "ADOTAT: Amazon\n標準で配信先をAIに委ねる",
+          "body": "ADOTATは、AmazonのFull-FunnelがターゲティングをAIに任せると見る。",
+          "mini_headline": "AmazonがAIに広告ターゲティング",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-                "cap": "画像クレジット：picture alliance / Getty Images"
+                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
               },
               {
                 "t": "p",
-                "x": "Metaは最近、商用利用規約を更新し、同社が「[ビジネスアカウントの]ドメイン、ウェブページ、またはURLsのあらゆるコンテンツを、Metaの製品やサービスの提供、開発、改善、研究、学習、そして完全性の維持のために使用できる」と定めた。"
+                "x": "業界ニュースレターADOTATの10月1日付の分析によると、AmazonはunBoxed 2026で「Amazon DSP」の名称を廃止したが、買い付けエンジンは残し、トレーダーが使う操作機能を詳細設定のトグルの奥に移した。コラムは、AmazonのAIエージェントが既定の経路でチャネル、オーディエンス、入札額を選び、その結果をAmazon自身のデータで評価するようになったと論じる。Amazonは、DSPのプログラマティック機能はDVA+の詳細設定内で引き続き利用できるとしている。"
               },
               {
                 "t": "p",
-                "x": "Nieman Labが取材した法律専門家によれば、これはMetaのビジネスアカウントを持つあらゆるパブリッシャーのウェブサイトをスクレイピングし、そのコンテンツを同社のAIモデルの学習に使う許可をMetaに与えかねない「注目すべき条項」に見えた。（Metaは昨年、著作権侵害の疑いをめぐる注目の訴訟に勝訴したが、Metaを含むAI企業に対する他の訴訟は続いている。）"
+                "x": "新たなAmazon Ads Agentの傘下には、Sponsored Ads、DVA+、Full-Funnel Campaignsが並ぶ。1日$100から始まるFull-Funnelでは、Amazonがnew-to-brand売上などの成果に向けて複数のフォーマットに予算を配分する。ADOTATは「資格要件を条件に、U.S.の広告主に実際に提供されているのはFull-Funnel Campaignsだ」とし、「トレーダーがハンドルを握り続けられる機能は、まだベータ版だ」と書いた。DVA+はUSでクローズドベータの段階にあり、オープンベータは10月下旬の見込みだった。"
               },
               {
                 "t": "p",
-                "x": "しかしMetaの広報担当者は、更新された規約はMetaのウェブクロールの方法の変更を反映したものではないと強調した。そして今回、The Vergeはこの条項が削除されたと報じている。"
-              },
-              {
-                "t": "p",
-                "x": "同社は声明で「皆さまの声を受け止め、明確にしたい。統合したクロール関連の条項は広告およびビジネス製品にのみ適用されるものであり、そのことを規約自体でも明確にした」と述べ、「これはMetaによるウェブクローラーの使い方を変えるものではない」とした。"
+                "x": "コラムは「デフォルトが運命を決める」と述べる。ADOTATは自らの商業的な読みを推論と位置づけており、無料プレビューにはFull-Funnelがオーディエンス選択を妨げるとの記述はない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta从商业条款中\n删除AI爬取条款",
-          "body": "遭到反对后，Meta删除了暗示可爬取广告主关联网站来训练AI的措辞。",
-          "mini_headline": "Meta撤回AI爬取条款",
+          "headline": "ADOTAT: Amazon\n默认交由AI定向广告",
+          "body": "ADOTAT称，Amazon每日$100起的Full-Funnel广告将定向交给AI。",
+          "mini_headline": "Amazon让AI定向广告",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-                "cap": "图片来源：picture alliance / Getty Images"
+                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta近日更新了商业使用条款，声明公司可以“使用来自[企业账户的]域名、网页或URLs的任何内容，用于提供、开发、改进、研究、训练并维护”Meta产品和服务的完整性。"
+                "x": "据行业通讯ADOTAT在10月1日发布的分析，Amazon在unBoxed 2026上停用了“Amazon DSP”这一名称，但保留了购买引擎，并把交易员使用的控制项移到了高级设置开关之后。该专栏认为，Amazon的AI代理如今在默认路径中选择渠道、受众和出价，再用Amazon自己的数据评估结果。Amazon表示，DSP的程序化功能仍可在DVA+高级设置中使用。"
               },
               {
                 "t": "p",
-                "x": "据Nieman Lab采访的法律专家称，这看起来是一项“非同寻常的条款”，可能允许Meta抓取任何拥有Meta企业账户的发布商的网站，并用其内容训练公司的AI模型。（尽管Meta去年在一起备受关注的涉嫌侵犯版权诉讼中胜诉，但包括Meta在内的AI公司面临的其他诉讼仍在继续。）"
+                "x": "新的Amazon Ads Agent旗下包括Sponsored Ads、DVA+和Full-Funnel Campaigns。Full-Funnel每日$100起，由Amazon围绕new-to-brand销售等成果在各类形式之间分配预算。ADOTAT写道：“视资格而定，真正向U.S.广告主上线的是Full-Funnel Campaigns。”“让交易员手握方向盘的功能仍处于测试阶段。”DVA+当时在US处于封闭测试，公开测试预计在10月下旬推出。"
               },
               {
                 "t": "p",
-                "x": "不过，Meta发言人坚称，更新后的条款并不意味着Meta爬取网络的方式有所改变。如今据The Verge报道，该条款已被删除。"
-              },
-              {
-                "t": "p",
-                "x": "该公司在声明中表示：“我们听到了大家的意见，并希望澄清：我们整合的爬取条款仅适用于我们的广告和商业产品，我们已在条款中明确说明这一点。”“这并不会改变Meta使用网络爬虫的方式。”"
+                "x": "该专栏写道：“默认即命运。”ADOTAT将其商业解读标注为推断，其免费预览也并未说Full-Funnel会阻止受众选择。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta elimina la cláusula de\nrastreo para IA de sus términos",
-          "body": "Tras las críticas, Meta eliminó un texto que sugería que podía rastrear webs de anunciantes para entrenar IA.",
-          "mini_headline": "Meta retira la cláusula de rastreo",
+          "headline": "ADOTAT: Amazon cede a la IA\nla segmentación por defecto",
+          "body": "ADOTAT: las campañas Full-Funnel dan la segmentación a la IA; los controles DSP de DVA+ seguían en beta cerrada.",
+          "mini_headline": "Amazon deja a la IA segmentar anuncios",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-                "cap": "Créditos de imagen: picture alliance / Getty Images"
+                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
               },
               {
                 "t": "p",
-                "x": "Meta actualizó recientemente sus términos comerciales de uso y declaró que la empresa puede “usar cualquier contenido de los dominios, páginas web o URLs [de una cuenta comercial] para proporcionar, desarrollar, mejorar, investigar, entrenar y mantener la integridad de” los productos y servicios de Meta."
+                "x": "Amazon retiró el nombre \"Amazon DSP\" en unBoxed 2026, pero conservó el motor de compra y trasladó los controles que usan los traders detrás de un interruptor de configuración avanzada, según un análisis del 1 de octubre del boletín del sector ADOTAT. La columna sostiene que el agente de IA de Amazon elige ahora canales, audiencias y pujas en su ruta predeterminada y luego evalúa los resultados con los datos propios de Amazon. Amazon afirma que las capacidades programáticas del DSP siguen disponibles en la configuración avanzada de DVA+."
               },
               {
                 "t": "p",
-                "x": "Según expertos legales entrevistados por Nieman Lab, esto parecía una “disposición notable” que podría dar a Meta permiso para extraer el sitio web de cualquier editor con una cuenta comercial de Meta y usar el contenido para entrenar los modelos de IA de la empresa. (Aunque Meta ganó el año pasado una demanda de alto perfil por presunta infracción de derechos de autor, otros casos contra empresas de IA, incluida Meta, siguen en curso.)"
+                "x": "Bajo el nuevo paraguas de Amazon Ads Agent se agrupan Sponsored Ads, DVA+ y Full-Funnel Campaigns. En Full-Funnel, que parte de $100 al día, Amazon reparte el presupuesto entre formatos en función de resultados como las ventas new-to-brand. \"Lo que de verdad está activo para los anunciantes de U.S. (EE. UU.), sujeto a elegibilidad, son las Full-Funnel Campaigns\", escribió ADOTAT. \"Lo que mantiene las manos del trader en el volante es lo que sigue en beta\". DVA+ estaba en beta cerrada en US, con una beta abierta prevista para finales de octubre."
               },
               {
                 "t": "p",
-                "x": "Sin embargo, un portavoz de Meta insistió en que los términos actualizados no reflejaban un cambio en la forma en que Meta rastrea la web. Y ahora The Verge informa de que la disposición ha sido eliminada."
-              },
-              {
-                "t": "p",
-                "x": "“Los hemos escuchado y queremos aclararlo: los términos de rastreo que consolidamos solo se aplicaban a nuestros productos publicitarios y comerciales, y lo hemos aclarado en los propios términos”, dijo la empresa en un comunicado. “No cambia la forma en que Meta usa los rastreadores web”."
+                "x": "\"Los valores predeterminados son el destino\", afirma la columna. ADOTAT presenta su lectura comercial como una inferencia, y su vista previa gratuita no dice que Full-Funnel bloquee la selección de audiencias."
               }
             ]
           }
@@ -327,15 +275,15 @@
       }
     },
     {
-      "id": "marketing-chatgpt-tracking",
+      "id": "marketing-nationaltrust",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT 트래픽 급감\n추적 문제일 수도",
-      "body": "분석가들은 ChatGPT 유입 감소를 추적 태그 없이 열린 링크 탓으로 본다.",
-      "mini_headline": "ChatGPT 감소는 추적 공백",
+      "headline": "National Trust\nTikTok 광고 중단",
+      "body": "National Trust가 미승인 AI 영상 탓에 TikTok 광고를 멈췄다.",
+      "mini_headline": "National Trust, TikTok 광고 멈춤",
       "tool": "Marketing",
-      "source": "Search Engine Journal",
-      "url": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
+      "source": "Tomorrow's Publisher",
+      "url": "https://tomorrowspublisher.today/news/national-trust-pulls-tiktok-ads-after-platform-s-ai-publishes-unauthorised-video-68149cb63312/index.html",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -343,181 +291,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
-            "cap": "대표 이미지: Tetiana Yurchenko/Shutterstock"
+            "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+            "cap": "만화 · AI-generated"
           },
           {
             "t": "p",
-            "x": "Graphite가 추적하는 사이트에서 GA4의 ChatGPT-attributed 세션(ChatGPT 유입으로 분류된 세션)이 10월 9일부터 22%~57% 줄었다고 CEO Ethan Smith는 말했다. 기준치와 비교하면 약 45% 줄어든 셈이다. LLM Pulse에서는 10월 9~11일 ChatGPT 세션이 약 46% 줄었지만 전체 트래픽은 그대로였다."
+            "x": "National Trust는 자선단체의 승인 없이 AI-generated(AI 생성) 홍보 영상이 잇따라 올라오자 TikTok 광고를 모두 중단했다. 단체 설명으로는 TikTok Ads가 실수로 만든 광고였고 애초에 게시할 계획도 없었다."
           },
           {
             "t": "p",
-            "x": "Smith에 따르면 ChatGPT가 답변 본문 속 링크를 utm_source=chatgpt.com 태그나 리퍼러 없이 열기 시작하면서 이런 방문이 Direct로 잡힐 수 있다. 방문 일부가 실제로 사라졌는지는 아직 데이터가 모자라 판단하기 어렵다."
+            "x": "Trust는 LinkedIn 성명에서 조사하는 동안 TikTok 활동을 멈췄다고 밝혔다. 대변인은 Civil Society에 TikTok과 직접 협력해 경위를 파악하면서 추가 안전장치를 마련하는 중이라고 전했다."
           },
           {
             "t": "p",
-            "x": "Adobe의 Cedric Huesler는 약 500개 페이지에서 ChatGPT 방문이 하루 약 31,000회 줄고 Direct는 약 26,000회 늘어난 것을 확인했다. Profound는 이 현상을 GPT-6 출시 뒤 ChatGPT가 도입한 새 Intelligent UI 답변 형식과 연결 지었다."
+            "x": "마케터들은 AI-made(AI로 만든) 영상이 Trust가 쌓아 온 정체성과 맞지 않았다고 평했다. Ocean의 Charlotte Anstee는 지역 소셜미디어 팀이 앞서 AI 사용 금지 방침을 전달받았다고 말했다. Pollard Media의 Alex Pollard는 이 단체에 방대한 이미지 아카이브가 있다는 점을 짚었다."
           },
           {
             "t": "p",
-            "x": "Huesler에 따르면 OpenAI는 10월 14일 이를 버그로 확인했고 10월 15일 수정 배포를 시작했다. Profound는 공식 발표를 보지 못했다고 밝혔다. Smith와 Huesler는 보고서에 10월 8~15일 기간을 표시하고 ChatGPT와 Direct 트래픽을 나란히 비교하라고 권한다."
+            "x": "Antler Social 공동 창업자 Harri Brown은 광고 집행 중 새로 생성된 소재를 자동으로 추가하는 설정만 꺼도 뜻밖의 AI 소재를 피할 수 있고, 이미 들어간 소재는 직접 지우면 된다고 말했다."
           }
         ]
       },
-      "_lead_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "ChatGPT traffic drop looks\nlike a tracking problem",
-          "body": "ChatGPT referrals dropped in several analytics datasets, which analysts tie to links opening without tracking tags.",
-          "mini_headline": "ChatGPT drop is a tracking gap",
+          "headline": "National Trust pulls\nTikTok ads over AI videos",
+          "body": "The National Trust suspended TikTok ads after the platform's AI published promotional videos it never approved.",
+          "mini_headline": "National Trust pauses TikTok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
-                "cap": "Featured Image: Tetiana Yurchenko/Shutterstock"
+                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+                "cap": "Cartoon · AI-generated"
               },
               {
                 "t": "p",
-                "x": "ChatGPT-attributed sessions in GA4 fell by 22% to 57% from Oct. 9 for sites tracked by Graphite, CEO Ethan Smith said, roughly a 45% fall from baseline. LLM Pulse saw about 46% fewer ChatGPT sessions on Oct. 9–11 while total traffic held steady."
+                "x": "The National Trust has suspended all advertising on TikTok after a run of AI-generated promotional videos appeared without the charity's approval. According to the charity, the adverts were created in error by TikTok Ads and were never meant to go live."
               },
               {
                 "t": "p",
-                "x": "Smith says ChatGPT began opening links in answer text without the utm_source=chatgpt.com tag or a referrer, so those visits can appear as Direct. There is not enough data yet to tell whether some visits were also lost."
+                "x": "In a statement on LinkedIn, the Trust said it had paused its TikTok activity while it investigated. A spokesperson told Civil Society it was working directly with TikTok to understand the incident and put extra safeguards in place."
               },
               {
                 "t": "p",
-                "x": "Adobe’s Cedric Huesler found ChatGPT visits on about 500 pages fell by about 31,000 a day while Direct rose by about 26,000. Profound tied it to ChatGPT’s new Intelligent UI answer format after the GPT-6 rollout."
+                "x": "Marketers said the AI-made videos sat awkwardly beside the Trust's established identity. Charlotte Anstee of Ocean said local social media teams had previously been told there was an AI ban. Alex Pollard of Pollard Media noted the charity's extensive image archive."
               },
               {
                 "t": "p",
-                "x": "Huesler says OpenAI confirmed on Oct. 14 it was a bug and a fix began rolling out Oct. 15; Profound says it hasn’t seen official word. Smith and Huesler suggest annotating Oct. 8–15 in reporting and comparing ChatGPT and Direct traffic side by side."
+                "x": "Harri Brown, co-founder of Antler Social, said advertisers can avoid unexpected AI assets by disabling the setting that automatically adds newly generated material during delivery, and remove any already inserted manually."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT 트래픽 급감\n추적 문제일 수도",
-          "body": "분석가들은 ChatGPT 유입 감소를 추적 태그 없이 열린 링크 탓으로 본다.",
-          "mini_headline": "ChatGPT 감소는 추적 공백",
+          "headline": "National Trust\nTikTok 광고 중단",
+          "body": "National Trust가 미승인 AI 영상 탓에 TikTok 광고를 멈췄다.",
+          "mini_headline": "National Trust, TikTok 광고 멈춤",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
-                "cap": "대표 이미지: Tetiana Yurchenko/Shutterstock"
+                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+                "cap": "만화 · AI-generated"
               },
               {
                 "t": "p",
-                "x": "Graphite가 추적하는 사이트에서 GA4의 ChatGPT-attributed 세션(ChatGPT 유입으로 분류된 세션)이 10월 9일부터 22%~57% 줄었다고 CEO Ethan Smith는 말했다. 기준치와 비교하면 약 45% 줄어든 셈이다. LLM Pulse에서는 10월 9~11일 ChatGPT 세션이 약 46% 줄었지만 전체 트래픽은 그대로였다."
+                "x": "National Trust는 자선단체의 승인 없이 AI-generated(AI 생성) 홍보 영상이 잇따라 올라오자 TikTok 광고를 모두 중단했다. 단체 설명으로는 TikTok Ads가 실수로 만든 광고였고 애초에 게시할 계획도 없었다."
               },
               {
                 "t": "p",
-                "x": "Smith에 따르면 ChatGPT가 답변 본문 속 링크를 utm_source=chatgpt.com 태그나 리퍼러 없이 열기 시작하면서 이런 방문이 Direct로 잡힐 수 있다. 방문 일부가 실제로 사라졌는지는 아직 데이터가 모자라 판단하기 어렵다."
+                "x": "Trust는 LinkedIn 성명에서 조사하는 동안 TikTok 활동을 멈췄다고 밝혔다. 대변인은 Civil Society에 TikTok과 직접 협력해 경위를 파악하면서 추가 안전장치를 마련하는 중이라고 전했다."
               },
               {
                 "t": "p",
-                "x": "Adobe의 Cedric Huesler는 약 500개 페이지에서 ChatGPT 방문이 하루 약 31,000회 줄고 Direct는 약 26,000회 늘어난 것을 확인했다. Profound는 이 현상을 GPT-6 출시 뒤 ChatGPT가 도입한 새 Intelligent UI 답변 형식과 연결 지었다."
+                "x": "마케터들은 AI-made(AI로 만든) 영상이 Trust가 쌓아 온 정체성과 맞지 않았다고 평했다. Ocean의 Charlotte Anstee는 지역 소셜미디어 팀이 앞서 AI 사용 금지 방침을 전달받았다고 말했다. Pollard Media의 Alex Pollard는 이 단체에 방대한 이미지 아카이브가 있다는 점을 짚었다."
               },
               {
                 "t": "p",
-                "x": "Huesler에 따르면 OpenAI는 10월 14일 이를 버그로 확인했고 10월 15일 수정 배포를 시작했다. Profound는 공식 발표를 보지 못했다고 밝혔다. Smith와 Huesler는 보고서에 10월 8~15일 기간을 표시하고 ChatGPT와 Direct 트래픽을 나란히 비교하라고 권한다."
+                "x": "Antler Social 공동 창업자 Harri Brown은 광고 집행 중 새로 생성된 소재를 자동으로 추가하는 설정만 꺼도 뜻밖의 AI 소재를 피할 수 있고, 이미 들어간 소재는 직접 지우면 된다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT流入減は\n計測の問題か",
-          "body": "複数の分析データでChatGPT流入が減り、計測タグなしで開くリンクが原因とみられる。",
-          "mini_headline": "ChatGPT減少は計測の穴",
+          "headline": "National Trust\nTikTok広告を停止",
+          "body": "National TrustはTikTokのAIが未承認動画を出したため広告を停止した。",
+          "mini_headline": "National TrustがTikTokを停止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
-                "cap": "アイキャッチ画像：Tetiana Yurchenko/Shutterstock"
+                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+                "cap": "漫画 · AI-generated"
               },
               {
                 "t": "p",
-                "x": "Graphiteが追跡するサイトでは、GA4でChatGPT-attributedとされるセッションが10月9日以降22%〜57%減少し、ベースライン比でおよそ45%の落ち込みになったとCEOのEthan Smithは述べた。LLM Pulseでは10月9〜11日にChatGPTのセッションが約46%減った一方、総トラフィックは横ばいだった。"
+                "x": "National Trustは、団体の承認なしにAI-generated（AI生成）の宣伝動画が相次いで公開されたことを受け、TikTokでの広告をすべて停止した。団体によると、これらの広告はTikTok Adsが誤って作成したもので、公開される予定はなかった。"
               },
               {
                 "t": "p",
-                "x": "Smithによると、ChatGPTは回答本文内のリンクをutm_source=chatgpt.comタグやリファラーなしで開くようになり、その訪問がDirectとして計上される可能性がある。一部の訪問が実際に失われたかどうかを判断するには、まだデータが足りない。"
+                "x": "TrustはLinkedInでの声明で、調査のあいだTikTokでの活動を停止したと述べた。広報担当者はCivil Societyに対し、TikTokと直接連携して事態を把握し、追加の安全策を講じていると語った。"
               },
               {
                 "t": "p",
-                "x": "AdobeのCedric Hueslerは、約500ページでChatGPTからの訪問が1日あたり約31,000件減る一方、Directが約26,000件増えたことを確認した。Profoundはこれを、GPT-6の展開後に導入されたChatGPTの新しいIntelligent UI回答形式と結びつけた。"
+                "x": "マーケターらは、AI-made（AIで作られた）動画がTrustの確立されたイメージと噛み合っていなかったと指摘した。OceanのCharlotte Ansteeは、地域のソーシャルメディア担当チームが以前AI禁止を伝えられていたと述べた。Pollard MediaのAlex Pollardは、団体が膨大な画像アーカイブを持つ点に触れた。"
               },
               {
                 "t": "p",
-                "x": "Hueslerによると、OpenAIは10月14日にこれがバグだと認め、10月15日に修正の展開を始めた。Profoundは公式な発表を確認していないとしている。SmithとHueslerは、レポートで10月8〜15日に注記を付け、ChatGPTとDirectのトラフィックを並べて比較することを勧めている。"
+                "x": "Antler Socialの共同創業者Harri Brownは、配信中に新たに生成された素材を自動で追加する設定を無効にすれば想定外のAI素材を避けられ、すでに挿入されたものは手動で削除できると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT流量下滑\n或是追踪问题",
-          "body": "多个分析数据集显示ChatGPT引荐流量下降，分析人士归因于链接打开时缺少追踪标签。",
-          "mini_headline": "ChatGPT下滑源于追踪缺口",
+          "headline": "National Trust\n暂停TikTok广告",
+          "body": "National Trust因TikTok的AI发布未经批准的宣传视频而暂停广告。",
+          "mini_headline": "National Trust暂停TikTok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
-                "cap": "题图：Tetiana Yurchenko/Shutterstock"
+                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+                "cap": "漫画 · AI-generated"
               },
               {
                 "t": "p",
-                "x": "Graphite首席执行官Ethan Smith表示，在其追踪的网站中，GA4里ChatGPT-attributed的会话自10月9日起下降了22%至57%，较基线约下降45%。LLM Pulse发现，10月9日至11日ChatGPT会话减少约46%，而总流量保持稳定。"
+                "x": "在一系列AI-generated（AI生成）宣传视频未经该慈善机构批准便上线后，National Trust暂停了在TikTok上的全部广告。据该机构称，这些广告是TikTok Ads误建的，本不应上线。"
               },
               {
                 "t": "p",
-                "x": "Smith说，ChatGPT开始在打开回答正文中的链接时不带utm_source=chatgpt.com标签或引荐来源，因此这些访问可能被计为Direct。目前尚无足够数据判断是否也有部分访问确实流失。"
+                "x": "Trust在LinkedIn发表声明称，调查期间已暂停其TikTok活动。一位发言人对Civil Society表示，机构正与TikTok直接合作，以了解事件经过并增设额外保障措施。"
               },
               {
                 "t": "p",
-                "x": "Adobe的Cedric Huesler发现，在约500个页面上，ChatGPT访问量每天减少约31,000次，而Direct增加约26,000次。Profound将此与GPT-6推出后ChatGPT新的Intelligent UI回答格式联系起来。"
+                "x": "营销人士表示，这些AI-made（AI制作）视频与Trust既有的形象格格不入。Ocean的Charlotte Anstee说，当地社交媒体团队此前被告知有AI禁令。Pollard Media的Alex Pollard则提到该机构拥有大量图片档案。"
               },
               {
                 "t": "p",
-                "x": "Huesler称，OpenAI于10月14日确认这是一个漏洞，并于10月15日开始推送修复；Profound则表示尚未看到官方说法。Smith和Huesler建议在报告中标注10月8日至15日，并将ChatGPT与Direct流量并列比较。"
+                "x": "Antler Social联合创始人Harri Brown表示，广告主可以关闭投放过程中自动添加新生成素材的设置，以避免出现意外的AI素材，并手动删除已插入的素材。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La caída de tráfico de ChatGPT\nparece un problema de medición",
-          "body": "Los analistas atribuyen la caída de visitas desde ChatGPT a enlaces que se abren sin etiquetas de seguimiento.",
-          "mini_headline": "La caída de ChatGPT es de medición",
+          "headline": "National Trust suspende sus\nanuncios en TikTok por la IA",
+          "body": "El National Trust suspendió sus anuncios en TikTok cuando la IA de la plataforma publicó vídeos que no aprobó.",
+          "mini_headline": "National Trust pausa TikTok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
-                "cap": "Imagen destacada: Tetiana Yurchenko/Shutterstock"
+                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+                "cap": "Caricatura · AI-generated"
               },
               {
                 "t": "p",
-                "x": "Las sesiones ChatGPT-attributed en GA4 cayeron entre un 22% y un 57% desde el 9 de octubre en los sitios que sigue Graphite, según su CEO, Ethan Smith, lo que supone una caída de alrededor del 45% respecto a la referencia. LLM Pulse registró cerca de un 46% menos de sesiones de ChatGPT entre el 9 y el 11 de octubre, mientras el tráfico total se mantuvo estable."
+                "x": "El National Trust ha suspendido toda su publicidad en TikTok después de que aparecieran varios vídeos promocionales AI-generated (generados por IA) sin la aprobación de la organización benéfica. Según la entidad, TikTok Ads creó los anuncios por error y nunca debieron publicarse."
               },
               {
                 "t": "p",
-                "x": "Smith afirma que ChatGPT empezó a abrir los enlaces del texto de sus respuestas sin la etiqueta utm_source=chatgpt.com ni un referente, por lo que esas visitas pueden aparecer como Direct. Aún no hay datos suficientes para saber si también se perdieron algunas visitas."
+                "x": "En un comunicado en LinkedIn, el Trust indicó que había pausado su actividad en TikTok mientras investigaba. Un portavoz dijo a Civil Society que trabajaba directamente con TikTok para entender el incidente y establecer salvaguardas adicionales."
               },
               {
                 "t": "p",
-                "x": "Cedric Huesler, de Adobe, comprobó que las visitas desde ChatGPT a unas 500 páginas cayeron en unas 31.000 al día, mientras Direct subió en unas 26.000. Profound lo vinculó al nuevo formato de respuesta Intelligent UI de ChatGPT tras el despliegue de GPT-6."
+                "x": "Varios profesionales del marketing señalaron que los vídeos AI-made (hechos con IA) encajaban mal con la identidad consolidada del Trust. Charlotte Anstee, de Ocean, dijo que a los equipos locales de redes sociales se les había comunicado antes que existía una prohibición de la IA. Alex Pollard, de Pollard Media, destacó el amplio archivo de imágenes de la organización."
               },
               {
                 "t": "p",
-                "x": "Huesler dice que OpenAI confirmó el 14 de octubre que se trataba de un error y que el 15 de octubre empezó a desplegarse una corrección; Profound afirma que no ha visto un comunicado oficial. Smith y Huesler sugieren anotar el periodo del 8 al 15 de octubre en los informes y comparar el tráfico de ChatGPT y Direct lado a lado."
+                "x": "Harri Brown, cofundador de Antler Social, afirmó que los anunciantes pueden evitar recursos de IA inesperados desactivando el ajuste que añade automáticamente material recién generado durante la emisión, y eliminar manualmente los que ya se hayan insertado."
               }
             ]
           }
@@ -525,125 +471,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT 트래픽 급감\n추적 문제일 가능성",
-          "body": "분석가들은 ChatGPT 유입 감소를 추적 태그 없이 열린 링크 탓으로 본다.",
-          "mini_headline": "ChatGPT 감소는 추적 공백",
+          "headline": "National Trust\nTikTok 광고 중단",
+          "body": "National Trust가 미승인 AI 영상 탓에 TikTok 광고를 멈췄다.",
+          "mini_headline": "National Trust, TikTok 광고 멈춤",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
-                "cap": "대표 이미지: Tetiana Yurchenko/Shutterstock"
+                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+                "cap": "만화 · AI-generated"
               },
               {
                 "t": "p",
-                "x": "Graphite가 추적하는 사이트에서 GA4의 ChatGPT-attributed 세션(ChatGPT 유입으로 분류된 세션)이 10월 9일부터 22%~57% 줄었다고 CEO Ethan Smith는 말했다. 기준치 대비 약 45% 감소다. LLM Pulse에서는 10월 9~11일 ChatGPT 세션이 약 46% 줄었지만 전체 트래픽은 그대로였다."
+                "x": "National Trust는 자선단체의 승인 없이 AI-generated(AI 생성) 홍보 영상이 잇따라 올라오자 TikTok 광고를 모두 중단했다. 단체 설명에 따르면 이 광고는 TikTok Ads가 실수로 만든 것이며 게시될 예정도 없었다."
               },
               {
                 "t": "p",
-                "x": "Smith에 따르면 ChatGPT가 답변 본문 속 링크를 utm_source=chatgpt.com 태그나 리퍼러 없이 열기 시작했고, 그래서 해당 방문이 Direct로 잡힐 수 있다. 일부 방문이 실제로 사라졌는지 판단하기에는 아직 데이터가 부족하다."
+                "x": "Trust는 LinkedIn 성명에서 조사하는 동안 TikTok 활동을 멈췄다고 밝혔다. 대변인은 Civil Society에 TikTok과 직접 협력해 사건 경위를 파악하고 추가 안전장치를 마련하고 있다고 말했다."
               },
               {
                 "t": "p",
-                "x": "Adobe의 Cedric Huesler는 약 500개 페이지에서 ChatGPT 방문이 하루 약 31,000회 줄어든 반면 Direct는 약 26,000회 늘었다는 점을 확인했다. Profound는 이를 GPT-6 출시 이후 ChatGPT가 도입한 새 Intelligent UI 답변 형식과 연결했다."
+                "x": "마케터들은 AI-made(AI로 만든) 영상이 Trust의 확립된 정체성과 어울리지 않았다고 평했다. Ocean의 Charlotte Anstee는 지역 소셜미디어 팀이 앞서 AI 사용 금지 방침을 전달받았다고 말했다. Pollard Media의 Alex Pollard는 이 단체가 방대한 이미지 아카이브를 갖고 있다는 점을 짚었다."
               },
               {
                 "t": "p",
-                "x": "Huesler에 따르면 OpenAI는 10월 14일 이것이 버그라고 확인했고 10월 15일 수정 배포를 시작했다. Profound는 공식 발표를 보지 못했다고 밝혔다. Smith와 Huesler는 보고서에 10월 8~15일 기간을 표시하고 ChatGPT와 Direct 트래픽을 나란히 비교하라고 권한다."
+                "x": "Antler Social 공동 창업자 Harri Brown은 광고 집행 중 새로 생성된 소재를 자동으로 추가하는 설정을 끄면 예상치 못한 AI 소재를 피할 수 있고, 이미 들어간 소재는 직접 지우면 된다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT流入減は\n計測の問題か",
-          "body": "複数の分析データでChatGPT流入が減り、計測タグなしで開くリンクが原因とみられる。",
-          "mini_headline": "ChatGPT減少は計測の穴",
+          "headline": "National Trust\nTikTok広告を停止",
+          "body": "National TrustはTikTokのAIが未承認動画を出したため広告を停止した。",
+          "mini_headline": "National TrustがTikTokを停止",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
-                "cap": "アイキャッチ画像：Tetiana Yurchenko/Shutterstock"
+                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+                "cap": "漫画 · AI-generated"
               },
               {
                 "t": "p",
-                "x": "Graphiteが追跡するサイトでは、GA4でChatGPT-attributedとされるセッションが10月9日以降22%〜57%減少し、ベースライン比でおよそ45%の落ち込みになったとCEOのEthan Smithは述べた。LLM Pulseでは10月9〜11日にChatGPTのセッションが約46%減った一方、総トラフィックは横ばいだった。"
+                "x": "National Trustは、団体の承認なしにAI-generated（AI生成）の宣伝動画が相次いで公開されたことを受け、TikTokでの広告をすべて停止した。団体によると、これらの広告はTikTok Adsが誤って作成したもので、公開される予定はなかった。"
               },
               {
                 "t": "p",
-                "x": "Smithによると、ChatGPTは回答本文内のリンクをutm_source=chatgpt.comタグやリファラーなしで開くようになり、その訪問がDirectとして計上される可能性がある。一部の訪問が実際に失われたかどうかを判断するには、まだデータが足りない。"
+                "x": "TrustはLinkedInでの声明で、調査のあいだTikTokでの活動を停止したと述べた。広報担当者はCivil Societyに対し、TikTokと直接連携して事態を把握し、追加の安全策を講じていると語った。"
               },
               {
                 "t": "p",
-                "x": "AdobeのCedric Hueslerは、約500ページでChatGPTからの訪問が1日あたり約31,000件減る一方、Directが約26,000件増えたことを確認した。Profoundはこれを、GPT-6の展開後に導入されたChatGPTの新しいIntelligent UI回答形式と結びつけた。"
+                "x": "マーケターらは、AI-made（AIで作られた）動画がTrustの確立されたイメージと噛み合っていなかったと指摘した。OceanのCharlotte Ansteeは、地域のソーシャルメディア担当チームが以前AI禁止を伝えられていたと述べた。Pollard MediaのAlex Pollardは、団体が膨大な画像アーカイブを持つ点に触れた。"
               },
               {
                 "t": "p",
-                "x": "Hueslerによると、OpenAIは10月14日にこれがバグだと認め、10月15日に修正の展開を始めた。Profoundは公式な発表を確認していないとしている。SmithとHueslerは、レポートで10月8〜15日に注記を付け、ChatGPTとDirectのトラフィックを並べて比較することを勧めている。"
+                "x": "Antler Socialの共同創業者Harri Brownは、配信中に新たに生成された素材を自動で追加する設定を無効にすれば想定外のAI素材を避けられ、すでに挿入されたものは手動で削除できると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT流量下滑\n或是追踪问题",
-          "body": "多个分析数据集显示ChatGPT引荐流量下降，分析人士归因于链接打开时缺少追踪标签。",
-          "mini_headline": "ChatGPT下滑源于追踪缺口",
+          "headline": "National Trust\n暂停TikTok广告",
+          "body": "National Trust因TikTok的AI发布未经批准的宣传视频而暂停广告。",
+          "mini_headline": "National Trust暂停TikTok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
-                "cap": "题图：Tetiana Yurchenko/Shutterstock"
+                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+                "cap": "漫画 · AI-generated"
               },
               {
                 "t": "p",
-                "x": "Graphite首席执行官Ethan Smith表示，在其追踪的网站中，GA4里ChatGPT-attributed的会话自10月9日起下降了22%至57%，较基线约下降45%。LLM Pulse发现，10月9日至11日ChatGPT会话减少约46%，而总流量保持稳定。"
+                "x": "在一系列AI-generated（AI生成）宣传视频未经该慈善机构批准便上线后，National Trust暂停了在TikTok上的全部广告。据该机构称，这些广告是TikTok Ads误建的，本不应上线。"
               },
               {
                 "t": "p",
-                "x": "Smith说，ChatGPT开始在打开回答正文中的链接时不带utm_source=chatgpt.com标签或引荐来源，因此这些访问可能被计为Direct。目前尚无足够数据判断是否也有部分访问确实流失。"
+                "x": "Trust在LinkedIn发表声明称，调查期间已暂停其TikTok活动。一位发言人对Civil Society表示，机构正与TikTok直接合作，以了解事件经过并增设额外保障措施。"
               },
               {
                 "t": "p",
-                "x": "Adobe的Cedric Huesler发现，在约500个页面上，ChatGPT访问量每天减少约31,000次，而Direct增加约26,000次。Profound将此与GPT-6推出后ChatGPT新的Intelligent UI回答格式联系起来。"
+                "x": "营销人士表示，这些AI-made（AI制作）视频与Trust既有的形象格格不入。Ocean的Charlotte Anstee说，当地社交媒体团队此前被告知有AI禁令。Pollard Media的Alex Pollard则提到该机构拥有大量图片档案。"
               },
               {
                 "t": "p",
-                "x": "Huesler称，OpenAI于10月14日确认这是一个漏洞，并于10月15日开始推送修复；Profound则表示尚未看到官方说法。Smith和Huesler建议在报告中标注10月8日至15日，并将ChatGPT与Direct流量并列比较。"
+                "x": "Antler Social联合创始人Harri Brown表示，广告主可以关闭投放过程中自动添加新生成素材的设置，以避免出现意外的AI素材，并手动删除已插入的素材。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La caída de tráfico de ChatGPT\nparece un problema de medición",
-          "body": "Los analistas atribuyen la caída de visitas desde ChatGPT a enlaces que se abren sin etiquetas de seguimiento.",
-          "mini_headline": "La caída de ChatGPT es de medición",
+          "headline": "National Trust suspende sus\nanuncios en TikTok por la IA",
+          "body": "El National Trust suspendió sus anuncios en TikTok cuando la IA de la plataforma publicó vídeos que no aprobó.",
+          "mini_headline": "National Trust pausa TikTok",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/chatgpt-traffic-tracking-1600x840-1.jpg",
-                "cap": "Imagen destacada: Tetiana Yurchenko/Shutterstock"
+                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+                "cap": "Caricatura · AI-generated"
               },
               {
                 "t": "p",
-                "x": "Las sesiones ChatGPT-attributed en GA4 cayeron entre un 22% y un 57% desde el 9 de octubre en los sitios que sigue Graphite, según su CEO, Ethan Smith, lo que supone una caída de alrededor del 45% respecto a la referencia. LLM Pulse registró cerca de un 46% menos de sesiones de ChatGPT entre el 9 y el 11 de octubre, mientras el tráfico total se mantuvo estable."
+                "x": "El National Trust ha suspendido toda su publicidad en TikTok después de que aparecieran varios vídeos promocionales AI-generated (generados por IA) sin la aprobación de la organización benéfica. Según la entidad, TikTok Ads creó los anuncios por error y nunca debieron publicarse."
               },
               {
                 "t": "p",
-                "x": "Smith afirma que ChatGPT empezó a abrir los enlaces del texto de sus respuestas sin la etiqueta utm_source=chatgpt.com ni un referente, por lo que esas visitas pueden aparecer como Direct. Aún no hay datos suficientes para saber si también se perdieron algunas visitas."
+                "x": "En un comunicado en LinkedIn, el Trust indicó que había pausado su actividad en TikTok mientras investigaba. Un portavoz dijo a Civil Society que trabajaba directamente con TikTok para entender el incidente y establecer salvaguardas adicionales."
               },
               {
                 "t": "p",
-                "x": "Cedric Huesler, de Adobe, comprobó que las visitas desde ChatGPT a unas 500 páginas cayeron en unas 31.000 al día, mientras Direct subió en unas 26.000. Profound lo vinculó al nuevo formato de respuesta Intelligent UI de ChatGPT tras el despliegue de GPT-6."
+                "x": "Varios profesionales del marketing señalaron que los vídeos AI-made (hechos con IA) encajaban mal con la identidad consolidada del Trust. Charlotte Anstee, de Ocean, dijo que a los equipos locales de redes sociales se les había comunicado antes que existía una prohibición de la IA. Alex Pollard, de Pollard Media, destacó el amplio archivo de imágenes de la organización."
               },
               {
                 "t": "p",
-                "x": "Huesler dice que OpenAI confirmó el 14 de octubre que se trataba de un error y que el 15 de octubre empezó a desplegarse una corrección; Profound afirma que no ha visto un comunicado oficial. Smith y Huesler sugieren anotar el periodo del 8 al 15 de octubre en los informes y comparar el tráfico de ChatGPT y Direct lado a lado."
+                "x": "Harri Brown, cofundador de Antler Social, afirmó que los anunciantes pueden evitar recursos de IA inesperados desactivando el ajuste que añade automáticamente material recién generado durante la emisión, y eliminar manualmente los que ya se hayan insertado."
               }
             ]
           }
@@ -651,197 +597,165 @@
       }
     },
     {
-      "id": "marketing-videoamp-agents",
+      "id": "marketing-meta",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "VideoAmp, AI로\nTV 기획·측정 잇는다",
-      "body": "JIC 재인증 후 VideoAmp는 AI 에이전트로 TV 기획·측정을 이으려 한다.",
-      "mini_headline": "VideoAmp, AI 에이전트에 승부",
+      "headline": "Meta 상시 주제 15개\nReels 트렌딩 광고에",
+      "body": "Meta가 AI 기반 Reels Trending Ads에 주제 15개를 더했다.",
+      "mini_headline": "Meta, Reels Trending Ads 확대",
       "tool": "Marketing",
-      "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/ai/videoamp-bets-on-ai-to-connect-ad-planning-and-measurement/",
+      "source": "The Keyword",
+      "url": "https://www.thekeyword.co/news/meta-reels-trending-ads-topics",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
-            "cap": ""
+            "t": "p",
+            "x": "Meta가 Reels Trending Ads에 상시 표준 주제 15개를 마련했다. Reels Trending Ads는 Facebook과 Instagram에서 가장 많이 시청되고 문화적 관련성이 가장 높은 Reels 바로 뒤에 광고를 배치하는 형식이다. 새 카테고리에는 Home & Garden과 스페인어(Spanish-language) 콘텐츠도 들어갔다."
           },
           {
             "t": "p",
-            "x": "지난달 VideoAmp, Comscore, iSpot은 미국 Joint Industry Committee로부터 재인증을 받았다. 그래도 바이어와 셀러는 아직 Nielsen을 버릴 준비가 안 됐다. 그래서 대안 커런시 업체들은 데이터와 측정 전반으로 초점을 넓히는 중이다."
+            "x": "Meta는 10월 16일 Brand Building Summit에서 이번 업데이트를 발표했다. 광고주는 연휴 시즌과 풋볼·농구 시즌 개막에 맞춘 시즌별 라인업도 고를 수 있다. 올해 안에는 맞춤 오디언스 제외 기능이 붙어 캠페인에서 지정한 맞춤 오디언스를 뺄 수 있다."
           },
           {
             "t": "p",
-            "x": "VideoAmp는 여름 동안 인력의 약 20%를 줄였다. 더 많은 업무를 AI에 맡기려는 움직임이다. SVP Andrea Zapata는 미디어 바이어가 AI의 도움으로 캠페인을 더 똑똑하게 기획해 의도한 성과보다 나은 결과를 내게 하는 것이 목표라고 말했다."
+            "x": "Meta에 따르면 Reels Trending Ads를 포함한 캠페인은 대조군보다 행동 의향이 5퍼센트포인트 넘게 올랐고 비보조 브랜드 인지도도 5퍼센트포인트 더 높아졌다. 두 수치 모두 Meta 자체 집계다."
           },
           {
             "t": "p",
-            "x": "최고제품책임자 Josh Hudgins는 기획과 측정 워크플로를 AI 에이전트와 연결하는 일이 최우선 과제의 하나로 꼽았다. 에이전트는 바이어가 집행 중인 캠페인을 최적화하도록 도울 수 있다. 예를 들어 한 인벤토리 소스의 지출은 줄이고, 순 도달을 효율적으로 늘려 주는 인벤토리를 사는 식이다."
-          },
-          {
-            "t": "p",
-            "x": "그래도 AI가 돌아가려면 클린룸과 퍼블리셔의 로그 단위 데이터로 얻는 퍼스트파티 시청자 데이터, 그리고 ACR 데이터가 있어야 한다. Zapata는 “결국 우리 모두가 얻으려는 것은 성과”라고 말했다."
+            "x": "Meta는 2025년 9월 이 형식을 전 세계 모든 광고주에게 열면서, AI로 가장 인기 있는 크리에이터 제작 Reels 바로 뒤에 광고를 배치한다고 밝혔다. TikTok의 Pulse 제품군과 비슷한 방식이다. 회사 설명으로는 Instagram 전체 이용 시간의 절반 이상이 Reels에서 나온다."
           }
         ]
       },
-      "_lead_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "VideoAmp wants AI agents to tie\nTV planning to measurement",
-          "body": "After its JIC re-certification, VideoAmp aims to connect TV planning and measurement with AI agents.",
-          "mini_headline": "VideoAmp bets on AI agents",
+          "headline": "Meta adds 15 standing topics\nto Reels Trending Ads",
+          "body": "Meta now offers 15 always-on topics in Reels Trending Ads, which uses AI to place ads after top-trending creator Reels.",
+          "mini_headline": "Meta widens Reels Trending Ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
-                "cap": ""
+                "t": "p",
+                "x": "Meta now offers 15 always-on standard topics in Reels Trending Ads, the format that places an ad immediately after the most-watched and most culturally relevant Reels on Facebook and Instagram. New categories include Home & Garden and Spanish-language content."
               },
               {
                 "t": "p",
-                "x": "Last month, VideoAmp, Comscore and iSpot received re-certifications from the US Joint Industry Committee. Still, buyers and sellers aren’t ready to ditch Nielsen, so alternative currency companies are focusing on data and measurement more broadly."
+                "x": "Meta announced the update at its Brand Building Summit on 16 October. Advertisers can also choose seasonal lineups built around the holidays and the start of the football and basketball seasons. Custom audience exclusions arrive later this year, letting a campaign leave chosen custom audiences out."
               },
               {
                 "t": "p",
-                "x": "Over the summer, VideoAmp cut about 20% of its headcount as part of an effort to entrust more operations to AI. SVP Andrea Zapata said the goal is to use AI to help media buyers plan smarter campaigns that perform better against their intended outcomes."
+                "x": "Meta says campaigns that included Reels Trending Ads increased action intent by more than 5 percentage points against control groups, with an incremental 5 percentage point lift in unaided brand awareness. Both figures are Meta's own."
               },
               {
                 "t": "p",
-                "x": "One top priority is to connect its planning and measurement workflows with AI agents, said chief product officer Josh Hudgins. Agents can help buyers optimize campaigns in-flight — for example, cutting spend on one inventory source and buying inventory that efficiently adds unique reach."
-              },
-              {
-                "t": "p",
-                "x": "AI still needs first-party viewer data, via clean rooms and publishers’ log-level data, plus ACR data. “Ultimately, what we’re all trying to get is outcomes,” Zapata said."
+                "x": "Meta opened the format to all advertisers globally in September 2025, saying it uses AI to place ads directly after top-trending, creator-generated Reels. The approach is close to TikTok's Pulse family. Reels make up more than half of all time spent on Instagram, according to the company."
               }
             ]
           }
         },
         "ko": {
-          "headline": "VideoAmp, AI로\nTV 기획·측정 잇는다",
-          "body": "JIC 재인증 후 VideoAmp는 AI 에이전트로 TV 기획·측정을 이으려 한다.",
-          "mini_headline": "VideoAmp, AI 에이전트에 승부",
+          "headline": "Meta 상시 주제 15개\nReels 트렌딩 광고에",
+          "body": "Meta가 AI 기반 Reels Trending Ads에 주제 15개를 더했다.",
+          "mini_headline": "Meta, Reels Trending Ads 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
-                "cap": ""
+                "t": "p",
+                "x": "Meta가 Reels Trending Ads에 상시 표준 주제 15개를 마련했다. Reels Trending Ads는 Facebook과 Instagram에서 가장 많이 시청되고 문화적 관련성이 가장 높은 Reels 바로 뒤에 광고를 배치하는 형식이다. 새 카테고리에는 Home & Garden과 스페인어(Spanish-language) 콘텐츠도 들어갔다."
               },
               {
                 "t": "p",
-                "x": "지난달 VideoAmp, Comscore, iSpot은 미국 Joint Industry Committee로부터 재인증을 받았다. 그래도 바이어와 셀러는 아직 Nielsen을 버릴 준비가 안 됐다. 그래서 대안 커런시 업체들은 데이터와 측정 전반으로 초점을 넓히는 중이다."
+                "x": "Meta는 10월 16일 Brand Building Summit에서 이번 업데이트를 발표했다. 광고주는 연휴 시즌과 풋볼·농구 시즌 개막에 맞춘 시즌별 라인업도 고를 수 있다. 올해 안에는 맞춤 오디언스 제외 기능이 붙어 캠페인에서 지정한 맞춤 오디언스를 뺄 수 있다."
               },
               {
                 "t": "p",
-                "x": "VideoAmp는 여름 동안 인력의 약 20%를 줄였다. 더 많은 업무를 AI에 맡기려는 움직임이다. SVP Andrea Zapata는 미디어 바이어가 AI의 도움으로 캠페인을 더 똑똑하게 기획해 의도한 성과보다 나은 결과를 내게 하는 것이 목표라고 말했다."
+                "x": "Meta에 따르면 Reels Trending Ads를 포함한 캠페인은 대조군보다 행동 의향이 5퍼센트포인트 넘게 올랐고 비보조 브랜드 인지도도 5퍼센트포인트 더 높아졌다. 두 수치 모두 Meta 자체 집계다."
               },
               {
                 "t": "p",
-                "x": "최고제품책임자 Josh Hudgins는 기획과 측정 워크플로를 AI 에이전트와 연결하는 일이 최우선 과제의 하나로 꼽았다. 에이전트는 바이어가 집행 중인 캠페인을 최적화하도록 도울 수 있다. 예를 들어 한 인벤토리 소스의 지출은 줄이고, 순 도달을 효율적으로 늘려 주는 인벤토리를 사는 식이다."
-              },
-              {
-                "t": "p",
-                "x": "그래도 AI가 돌아가려면 클린룸과 퍼블리셔의 로그 단위 데이터로 얻는 퍼스트파티 시청자 데이터, 그리고 ACR 데이터가 있어야 한다. Zapata는 “결국 우리 모두가 얻으려는 것은 성과”라고 말했다."
+                "x": "Meta는 2025년 9월 이 형식을 전 세계 모든 광고주에게 열면서, AI로 가장 인기 있는 크리에이터 제작 Reels 바로 뒤에 광고를 배치한다고 밝혔다. TikTok의 Pulse 제품군과 비슷한 방식이다. 회사 설명으로는 Instagram 전체 이용 시간의 절반 이상이 Reels에서 나온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "VideoAmp、AIで\nTV計画と測定を結ぶ",
-          "body": "JIC再認証を経て、VideoAmpはAIエージェントでTVの計画と測定をつなぐ構えだ。",
-          "mini_headline": "VideoAmp、AIエージェントに賭ける",
+          "headline": "Meta、常設テーマ15種\nReelsトレンド広告に",
+          "body": "MetaはAIで配置するReels Trending Adsに常設テーマ15種を用意した。",
+          "mini_headline": "MetaがReels Trending Adsを拡充",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
-                "cap": ""
+                "t": "p",
+                "x": "MetaはReels Trending Adsで、常時利用できる標準テーマ15種の提供を始めた。FacebookとInstagramで最も視聴され、文化的な関連性が最も高いReelsの直後に広告を配置するフォーマットだ。新たなカテゴリーにはHome & Gardenやスペイン語（Spanish-language）コンテンツが含まれる。"
               },
               {
                 "t": "p",
-                "x": "先月、VideoAmp、Comscore、iSpotは米Joint Industry Committeeから再認証を受けた。それでもバイヤーとセラーはNielsenを手放す準備ができておらず、代替カレンシー企業はより広くデータと測定に力を注いでいる。"
+                "x": "Metaは10月16日のBrand Building Summitでこの更新を発表した。広告主は、ホリデーシーズンやフットボール、バスケットボールのシーズン開幕に合わせた季節限定のラインナップも選べる。年内にはカスタムオーディエンスの除外機能が加わり、キャンペーンから指定したカスタムオーディエンスを外せるようになる。"
               },
               {
                 "t": "p",
-                "x": "VideoAmpは夏の間、より多くの業務をAIに任せる取り組みの一環として人員の約20%を削減した。SVPのAndrea Zapataは、AIを使ってメディアバイヤーが狙った成果に対してより高い効果を上げる、より賢いキャンペーンを計画できるよう支援することが目標だと語った。"
+                "x": "Metaによると、Reels Trending Adsを含むキャンペーンは対照群と比べて行動意向が5パーセントポイント超高まり、非助成ブランド認知も5パーセントポイント上積みされた。いずれもMeta自身の数字である。"
               },
               {
                 "t": "p",
-                "x": "最優先課題の一つは計画と測定のワークフローをAIエージェントとつなぐことだと、最高製品責任者のJosh Hudginsは述べた。エージェントはバイヤーが配信中のキャンペーンを最適化するのを助けられる。たとえば、ある在庫ソースへの支出を削り、ユニークリーチを効率的に積み増せる在庫を買うといった具合だ。"
-              },
-              {
-                "t": "p",
-                "x": "AIには依然として、クリーンルームやパブリッシャーのログレベルデータを通じたファーストパーティの視聴者データに加え、ACRデータが必要だ。「結局のところ、私たち皆が求めているのは成果だ」とZapataは語った。"
+                "x": "Metaは2025年9月にこのフォーマットを世界中のすべての広告主に開放し、AIを使ってトレンド上位のクリエイター制作Reelsの直後に広告を配置すると説明していた。この手法はTikTokのPulseシリーズに近い。同社によると、ReelsはInstagramの総利用時間の半分以上を占める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "VideoAmp想用AI\n打通TV规划与测量",
-          "body": "通过JIC重新认证后，VideoAmp计划借助AI智能体打通TV规划与测量。",
-          "mini_headline": "VideoAmp押注AI智能体",
+          "headline": "Meta新增15个常设主题\n用于Reels趋势广告",
+          "body": "Meta为借助AI投放的Reels Trending Ads新增15个常设主题。",
+          "mini_headline": "Meta扩展Reels Trending Ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
-                "cap": ""
+                "t": "p",
+                "x": "Meta如今在Reels Trending Ads中提供15个常设标准主题。该形式会把广告紧接着放在Facebook和Instagram上观看量最高、文化相关性最强的Reels之后。新增类别包括Home & Garden和西班牙语（Spanish-language）内容。"
               },
               {
                 "t": "p",
-                "x": "上个月，VideoAmp、Comscore和iSpot获得了美国Joint Industry Committee的重新认证。不过，买方和卖方还没准备好放弃Nielsen，因此替代货币公司正更广泛地聚焦数据与测量。"
+                "x": "Meta在10月16日的Brand Building Summit上宣布了这项更新。广告主还可以选择围绕节假日以及橄榄球和篮球赛季开幕打造的季节性阵容。今年晚些时候将推出自定义受众排除功能，让广告系列可以排除选定的自定义受众。"
               },
               {
                 "t": "p",
-                "x": "今年夏天，VideoAmp裁减了约20%的员工，作为将更多运营交给AI的举措之一。SVP Andrea Zapata表示，目标是利用AI帮助媒介买家规划更聪明的广告活动，使其在预期成果上表现更好。"
+                "x": "Meta称，与对照组相比，包含Reels Trending Ads的广告系列行动意向提升超过5个百分点，无提示品牌认知度也额外提升5个百分点。两项数据均来自Meta自身。"
               },
               {
                 "t": "p",
-                "x": "首席产品官Josh Hudgins表示，首要任务之一是将其规划与测量工作流程与AI智能体打通。智能体可以帮助买家在投放过程中优化广告活动，例如削减某一库存来源的支出，并购买能高效增加独立触达的库存。"
-              },
-              {
-                "t": "p",
-                "x": "AI仍然需要通过数据洁净室和发布商日志级数据获取的第一方观众数据，以及ACR数据。Zapata说：“归根结底，我们都在追求的是成果。”"
+                "x": "Meta于2025年9月向全球所有广告主开放该形式，并称其借助AI把广告直接投放在热门的创作者Reels之后。这一做法与TikTok的Pulse系列相近。据该公司称，Reels占Instagram总使用时长的一半以上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "VideoAmp quiere agentes de IA\npara unir plan y medición de TV",
-          "body": "Tras su nueva certificación del JIC, VideoAmp busca unir la planificación y la medición de TV con agentes de IA.",
-          "mini_headline": "VideoAmp apuesta por agentes de IA",
+          "headline": "Meta suma 15 temas fijos\na Reels Trending Ads",
+          "body": "Meta ofrece 15 temas permanentes en Reels Trending Ads, que usa IA para situar anuncios tras los Reels más populares.",
+          "mini_headline": "Meta amplía Reels Trending Ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
-                "cap": ""
+                "t": "p",
+                "x": "Meta ofrece ahora 15 temas estándar permanentes en Reels Trending Ads, el formato que coloca un anuncio justo después de los Reels más vistos y con mayor relevancia cultural en Facebook e Instagram. Entre las nuevas categorías figuran Home & Garden y el contenido en español."
               },
               {
                 "t": "p",
-                "x": "El mes pasado, VideoAmp, Comscore e iSpot recibieron nuevas certificaciones del Joint Industry Committee de Estados Unidos. Aun así, compradores y vendedores no están listos para abandonar Nielsen, por lo que las empresas de monedas alternativas se centran en los datos y la medición de forma más amplia."
+                "x": "Meta anunció la novedad en su Brand Building Summit el 16 de octubre. Los anunciantes también pueden elegir alineaciones de temporada en torno a las fiestas y al inicio de las temporadas de fútbol americano y baloncesto. Más adelante este año llegarán las exclusiones de audiencias personalizadas, que permitirán dejar fuera de una campaña las audiencias personalizadas elegidas."
               },
               {
                 "t": "p",
-                "x": "Durante el verano, VideoAmp recortó cerca del 20% de su plantilla como parte de un esfuerzo por confiar más operaciones a la IA. La SVP Andrea Zapata dijo que el objetivo es usar la IA para ayudar a los compradores de medios a planificar campañas más inteligentes que rindan mejor frente a los resultados buscados."
+                "x": "Según Meta, las campañas que incluyeron Reels Trending Ads elevaron la intención de acción en más de 5 puntos porcentuales frente a los grupos de control, con un aumento incremental de 5 puntos porcentuales en el reconocimiento de marca espontáneo. Ambas cifras son de la propia Meta."
               },
               {
                 "t": "p",
-                "x": "Una de las principales prioridades es conectar sus flujos de trabajo de planificación y medición con agentes de IA, dijo el director de producto Josh Hudgins. Los agentes pueden ayudar a los compradores a optimizar campañas en curso; por ejemplo, recortando el gasto en una fuente de inventario y comprando inventario que sume alcance único de forma eficiente."
-              },
-              {
-                "t": "p",
-                "x": "La IA sigue necesitando datos propios de espectadores, a través de clean rooms y datos a nivel de registro de los editores, además de datos ACR. “Al final, lo que todos buscamos son resultados”, dijo Zapata."
+                "x": "Meta abrió el formato a todos los anunciantes del mundo en septiembre de 2025 y explicó que usa IA para colocar anuncios justo después de los Reels de creadores con más tendencia. El enfoque se parece a la familia Pulse de TikTok. Según la compañía, los Reels suponen más de la mitad del tiempo total que se pasa en Instagram."
               }
             ]
           }
@@ -849,125 +763,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "VideoAmp, AI로\nTV 기획·측정 잇는다",
-          "body": "JIC 재인증 후 VideoAmp는 AI 에이전트로 TV 기획·측정을 이으려 한다.",
-          "mini_headline": "VideoAmp, AI 에이전트에 승부",
+          "headline": "Meta 상시 주제 15개\nReels 트렌딩 광고에",
+          "body": "Meta가 AI 기반 Reels Trending Ads에 주제 15개를 더했다.",
+          "mini_headline": "Meta, Reels Trending Ads 확대",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
-                "cap": ""
+                "t": "p",
+                "x": "Meta가 Reels Trending Ads에 상시 운영되는 표준 주제 15개를 마련했다. Reels Trending Ads는 Facebook과 Instagram에서 가장 많이 시청되고 문화적 관련성이 가장 높은 Reels 바로 뒤에 광고를 배치하는 형식이다. 새 카테고리에는 Home & Garden과 스페인어(Spanish-language) 콘텐츠가 포함된다."
               },
               {
                 "t": "p",
-                "x": "지난달 VideoAmp, Comscore, iSpot은 미국 Joint Industry Committee로부터 재인증을 받았다. 그래도 바이어와 셀러는 아직 Nielsen을 버릴 준비가 되지 않았고, 이에 대안 커런시 업체들은 데이터와 측정 전반으로 초점을 넓히고 있다."
+                "x": "Meta는 10월 16일 Brand Building Summit에서 이번 업데이트를 발표했다. 광고주는 연휴 시즌과 풋볼·농구 시즌 개막에 맞춘 시즌별 라인업도 고를 수 있다. 올해 안에 맞춤 오디언스 제외 기능이 추가돼, 캠페인에서 지정한 맞춤 오디언스를 뺄 수 있게 된다."
               },
               {
                 "t": "p",
-                "x": "VideoAmp는 여름 동안 더 많은 업무를 AI에 맡기려는 노력의 일환으로 인력의 약 20%를 줄였다. SVP Andrea Zapata는 AI로 미디어 바이어가 의도한 성과 대비 더 좋은 결과를 내는 캠페인을 더 똑똑하게 기획하도록 돕는 것이 목표라고 말했다."
+                "x": "Meta에 따르면 Reels Trending Ads를 포함한 캠페인은 대조군 대비 행동 의향이 5퍼센트포인트 넘게 올랐고, 비보조 브랜드 인지도도 5퍼센트포인트 추가 상승했다. 두 수치 모두 Meta 자체 집계다."
               },
               {
                 "t": "p",
-                "x": "최고제품책임자 Josh Hudgins는 기획과 측정 워크플로를 AI 에이전트와 연결하는 일이 최우선 과제 중 하나라고 말했다. 에이전트는 바이어가 집행 중인 캠페인을 최적화하도록 도울 수 있다. 예를 들어 한 인벤토리 소스의 지출을 줄이고 순 도달을 효율적으로 늘려 주는 인벤토리를 사는 식이다."
-              },
-              {
-                "t": "p",
-                "x": "AI에는 여전히 클린룸과 퍼블리셔의 로그 단위 데이터를 통한 퍼스트파티 시청자 데이터, 그리고 ACR 데이터가 필요하다. Zapata는 “결국 우리 모두가 얻으려는 것은 성과”라고 말했다."
+                "x": "Meta는 2025년 9월 이 형식을 전 세계 모든 광고주에게 열면서, AI를 활용해 가장 인기 있는 크리에이터 제작 Reels 바로 뒤에 광고를 배치한다고 밝혔다. 이 방식은 TikTok의 Pulse 제품군과 비슷하다. 회사에 따르면 Reels는 Instagram 전체 이용 시간의 절반 이상을 차지한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "VideoAmp、AIで\nTV計画と測定を結ぶ",
-          "body": "JIC再認証を経て、VideoAmpはAIエージェントでTVの計画と測定をつなぐ構えだ。",
-          "mini_headline": "VideoAmp、AIエージェントに賭ける",
+          "headline": "Meta、常設テーマ15種\nReelsトレンド広告に",
+          "body": "MetaはAIで配置するReels Trending Adsに常設テーマ15種を用意した。",
+          "mini_headline": "MetaがReels Trending Adsを拡充",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
-                "cap": ""
+                "t": "p",
+                "x": "MetaはReels Trending Adsで、常時利用できる標準テーマ15種の提供を始めた。FacebookとInstagramで最も視聴され、文化的な関連性が最も高いReelsの直後に広告を配置するフォーマットだ。新たなカテゴリーにはHome & Gardenやスペイン語（Spanish-language）コンテンツが含まれる。"
               },
               {
                 "t": "p",
-                "x": "先月、VideoAmp、Comscore、iSpotは米Joint Industry Committeeから再認証を受けた。それでもバイヤーとセラーはNielsenを手放す準備ができておらず、代替カレンシー企業はより広くデータと測定に力を注いでいる。"
+                "x": "Metaは10月16日のBrand Building Summitでこの更新を発表した。広告主は、ホリデーシーズンやフットボール、バスケットボールのシーズン開幕に合わせた季節限定のラインナップも選べる。年内にはカスタムオーディエンスの除外機能が加わり、キャンペーンから指定したカスタムオーディエンスを外せるようになる。"
               },
               {
                 "t": "p",
-                "x": "VideoAmpは夏の間、より多くの業務をAIに任せる取り組みの一環として人員の約20%を削減した。SVPのAndrea Zapataは、AIを使ってメディアバイヤーが狙った成果に対してより高い効果を上げる、より賢いキャンペーンを計画できるよう支援することが目標だと語った。"
+                "x": "Metaによると、Reels Trending Adsを含むキャンペーンは対照群と比べて行動意向が5パーセントポイント超高まり、非助成ブランド認知も5パーセントポイント上積みされた。いずれもMeta自身の数字である。"
               },
               {
                 "t": "p",
-                "x": "最優先課題の一つは計画と測定のワークフローをAIエージェントとつなぐことだと、最高製品責任者のJosh Hudginsは述べた。エージェントはバイヤーが配信中のキャンペーンを最適化するのを助けられる。たとえば、ある在庫ソースへの支出を削り、ユニークリーチを効率的に積み増せる在庫を買うといった具合だ。"
-              },
-              {
-                "t": "p",
-                "x": "AIには依然として、クリーンルームやパブリッシャーのログレベルデータを通じたファーストパーティの視聴者データに加え、ACRデータが必要だ。「結局のところ、私たち皆が求めているのは成果だ」とZapataは語った。"
+                "x": "Metaは2025年9月にこのフォーマットを世界中のすべての広告主に開放し、AIを使ってトレンド上位のクリエイター制作Reelsの直後に広告を配置すると説明していた。この手法はTikTokのPulseシリーズに近い。同社によると、ReelsはInstagramの総利用時間の半分以上を占める。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "VideoAmp想用AI\n打通TV规划与测量",
-          "body": "通过JIC重新认证后，VideoAmp计划借助AI智能体打通TV规划与测量。",
-          "mini_headline": "VideoAmp押注AI智能体",
+          "headline": "Meta新增15个常设主题\n用于Reels趋势广告",
+          "body": "Meta为借助AI投放的Reels Trending Ads新增15个常设主题。",
+          "mini_headline": "Meta扩展Reels Trending Ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
-                "cap": ""
+                "t": "p",
+                "x": "Meta如今在Reels Trending Ads中提供15个常设标准主题。该形式会把广告紧接着放在Facebook和Instagram上观看量最高、文化相关性最强的Reels之后。新增类别包括Home & Garden和西班牙语（Spanish-language）内容。"
               },
               {
                 "t": "p",
-                "x": "上个月，VideoAmp、Comscore和iSpot获得了美国Joint Industry Committee的重新认证。不过，买方和卖方还没准备好放弃Nielsen，因此替代货币公司正更广泛地聚焦数据与测量。"
+                "x": "Meta在10月16日的Brand Building Summit上宣布了这项更新。广告主还可以选择围绕节假日以及橄榄球和篮球赛季开幕打造的季节性阵容。今年晚些时候将推出自定义受众排除功能，让广告系列可以排除选定的自定义受众。"
               },
               {
                 "t": "p",
-                "x": "今年夏天，VideoAmp裁减了约20%的员工，作为将更多运营交给AI的举措之一。SVP Andrea Zapata表示，目标是利用AI帮助媒介买家规划更聪明的广告活动，使其在预期成果上表现更好。"
+                "x": "Meta称，与对照组相比，包含Reels Trending Ads的广告系列行动意向提升超过5个百分点，无提示品牌认知度也额外提升5个百分点。两项数据均来自Meta自身。"
               },
               {
                 "t": "p",
-                "x": "首席产品官Josh Hudgins表示，首要任务之一是将其规划与测量工作流程与AI智能体打通。智能体可以帮助买家在投放过程中优化广告活动，例如削减某一库存来源的支出，并购买能高效增加独立触达的库存。"
-              },
-              {
-                "t": "p",
-                "x": "AI仍然需要通过数据洁净室和发布商日志级数据获取的第一方观众数据，以及ACR数据。Zapata说：“归根结底，我们都在追求的是成果。”"
+                "x": "Meta于2025年9月向全球所有广告主开放该形式，并称其借助AI把广告直接投放在热门的创作者Reels之后。这一做法与TikTok的Pulse系列相近。据该公司称，Reels占Instagram总使用时长的一半以上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "VideoAmp quiere agentes de IA\npara unir plan y medición de TV",
-          "body": "Tras su nueva certificación del JIC, VideoAmp busca unir la planificación y la medición de TV con agentes de IA.",
-          "mini_headline": "VideoAmp apuesta por agentes de IA",
+          "headline": "Meta suma 15 temas fijos\na Reels Trending Ads",
+          "body": "Meta ofrece 15 temas permanentes en Reels Trending Ads, que usa IA para situar anuncios tras los Reels más populares.",
+          "mini_headline": "Meta amplía Reels Trending Ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/TV-concept-1024x903.jpg",
-                "cap": ""
+                "t": "p",
+                "x": "Meta ofrece ahora 15 temas estándar permanentes en Reels Trending Ads, el formato que coloca un anuncio justo después de los Reels más vistos y con mayor relevancia cultural en Facebook e Instagram. Entre las nuevas categorías figuran Home & Garden y el contenido en español."
               },
               {
                 "t": "p",
-                "x": "El mes pasado, VideoAmp, Comscore e iSpot recibieron nuevas certificaciones del Joint Industry Committee de Estados Unidos. Aun así, compradores y vendedores no están listos para abandonar Nielsen, por lo que las empresas de monedas alternativas se centran en los datos y la medición de forma más amplia."
+                "x": "Meta anunció la novedad en su Brand Building Summit el 16 de octubre. Los anunciantes también pueden elegir alineaciones de temporada en torno a las fiestas y al inicio de las temporadas de fútbol americano y baloncesto. Más adelante este año llegarán las exclusiones de audiencias personalizadas, que permitirán dejar fuera de una campaña las audiencias personalizadas elegidas."
               },
               {
                 "t": "p",
-                "x": "Durante el verano, VideoAmp recortó cerca del 20% de su plantilla como parte de un esfuerzo por confiar más operaciones a la IA. La SVP Andrea Zapata dijo que el objetivo es usar la IA para ayudar a los compradores de medios a planificar campañas más inteligentes que rindan mejor frente a los resultados buscados."
+                "x": "Según Meta, las campañas que incluyeron Reels Trending Ads elevaron la intención de acción en más de 5 puntos porcentuales frente a los grupos de control, con un aumento incremental de 5 puntos porcentuales en el reconocimiento de marca espontáneo. Ambas cifras son de la propia Meta."
               },
               {
                 "t": "p",
-                "x": "Una de las principales prioridades es conectar sus flujos de trabajo de planificación y medición con agentes de IA, dijo el director de producto Josh Hudgins. Los agentes pueden ayudar a los compradores a optimizar campañas en curso; por ejemplo, recortando el gasto en una fuente de inventario y comprando inventario que sume alcance único de forma eficiente."
-              },
-              {
-                "t": "p",
-                "x": "La IA sigue necesitando datos propios de espectadores, a través de clean rooms y datos a nivel de registro de los editores, además de datos ACR. “Al final, lo que todos buscamos son resultados”, dijo Zapata."
+                "x": "Meta abrió el formato a todos los anunciantes del mundo en septiembre de 2025 y explicó que usa IA para colocar anuncios justo después de los Reels de creadores con más tendencia. El enfoque se parece a la familia Pulse de TikTok. Según la compañía, los Reels suponen más de la mitad del tiempo total que se pasa en Instagram."
               }
             ]
           }
@@ -975,221 +869,165 @@
       }
     },
     {
-      "id": "marketing-google-ads-learning",
+      "id": "marketing-salesforce",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google Ads PM\n목표·예산 바꿔도 학습없다",
-      "body": "Google Ads PM은 기존 캠페인 목표·예산 변경엔 학습기간이 없다고 했다.",
-      "mini_headline": "Google “학습 리셋 없다”",
+      "headline": "Hunter 에이전트에\nDemandbase 데이터",
+      "body": "Sales Cloud 팀은 Demandbase 신호를 받지만 GA는 미정이다.",
+      "mini_headline": "Hunter, 의도 데이터 확보",
       "tool": "Marketing",
       "source": "PPC Land",
-      "url": "https://ppc.land/google-ads-pm-says-target-or-budget-changes-cause-no-learning-period/",
+      "url": "https://ppc.land/salesforces-hunter-agent-gets-demandbase-intent-data-with-no-extra-contract/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "HaoMqRGlmp8"
-          },
-          {
-            "t": "p",
-            "x": "Google Ads 제품 매니저 Tal Akabas는 10월 15일 Google의 Ads Decoded 팟캐스트에서 기존 캠페인의 목표나 예산을 바꿔도 학습 기간에 들어가지 않는다고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Akabas는 “목표나 예산을 바꿀 때 실제로는 학습 기간이 없다”며 “Google Ads 백엔드 시스템은 목표 변경에 정비례해 입찰가를 바로 조정한다”고 말했다. 사전 정보가 없는 완전히 새로운 캠페인이라면 “어느 정도 학습 기간이 생길 수 있다.”"
-          },
-          {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
-            "cap": ""
+            "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
           },
           {
             "t": "p",
-            "x": "다만 이 말이 통하는 범위는 좁다. 안정적으로 돌아가는 캠페인의 목표·예산 수정에만 해당하고, 새 애셋이나 타기팅, 입찰 전략 변경은 여기에 들지 않는다."
+            "x": "Demandbase는 2026년 10월 15일 Salesforce가 아직 시범 운영 중인 아웃바운드 영업 에이전트 Hunter의 출시 데이터 파트너로 자사를 지정했다고 밝혔다. Hunter 사용자는 Salesforce 안에서 Demandbase의 참여, 인물, 계정, 구매 그룹, 의도 데이터를 \"Salesforce 내 데이터에 대해 추가 계약 없이\" 받는다."
           },
           {
             "t": "p",
-            "x": "에피소드에서는 출시 소식도 함께 나왔다. 프로모션 모드는 Search와 PMax에서 베타를 벗어난다. 신규 고객용 보고 전용 모드는 배포 중이고, 재참여 전용 모드는 Performance Max에 먼저 나온 뒤 Search와 Shopping으로 이어진다."
+            "x": "통합에 Demandbase MCP 서버를 쓰기 때문에 영업 담당자는 Agentforce 안에서 자연어로 Demandbase에 물어 관심도가 가장 높은 잠재 고객을 찾고 우선순위를 정할 수 있다. Salesforce 제품관리 VP Rohan Punamia는 \"영업팀은 눈에 보이는 신호에만 대응할 수 있다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "보도자료는 \"Hunter는 현재 시범 단계이며 정식 출시는 올해 중 예정돼 있다\"고 밝혔지만 구체적인 달은 적지 않았다. Hunter의 가격과 데이터 범위, 독점 여부도 언급하지 않았다. \"추가 계약 없음\"이 곧 \"추가 비용 없음\"이라는 뜻도 아니다."
           }
         ]
       },
-      "_lead_image": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
-      "_video": "HaoMqRGlmp8",
       "text": {
         "en": {
-          "headline": "Google Ads PM: target or budget\nchanges skip the learning period",
-          "body": "Google Ads PM Tal Akabas said changing an established campaign's target or budget does not trigger a learning period.",
-          "mini_headline": "No learning reset, says Google",
+          "headline": "Salesforce's Hunter agent\ngets Demandbase intent data",
+          "body": "Sales Cloud teams piloting Hunter get Demandbase buying-group and intent signals, with no price or GA date yet.",
+          "mini_headline": "Hunter gets intent data",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HaoMqRGlmp8"
-              },
-              {
-                "t": "p",
-                "x": "On Google’s Ads Decoded podcast on October 15, Google Ads product manager Tal Akabas said changing the target or budget of an established campaign does not put it into a learning period."
-              },
-              {
-                "t": "p",
-                "x": "“When you change your target or your budget, there isn’t actually a learning period,” Akabas said. “The Google Ads back end system will scale bids directly in proportion to your target changes.” For a net new campaign without prior information, “some learning period can take place.”"
-              },
-              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
               },
               {
                 "t": "p",
-                "x": "The claim is narrow: it covers target and budget edits on steady campaigns, not new assets, targeting or bid strategies."
+                "x": "Demandbase said on October 15, 2026, that Salesforce has named it a launch data partner for Hunter, the outbound sales agent Salesforce is still piloting. Hunter users get Demandbase engagement, person, account, buying group and intent data inside Salesforce \"with no additional contracts required for the data within Salesforce.\""
               },
               {
                 "t": "p",
-                "x": "The episode also gave rollout status: promotion mode is leaving beta on Search and PMax, a reporting-only mode for new customers is rolling out, and re-engagement only mode is launching in Performance Max, with Search and Shopping to follow."
+                "x": "The integration uses the Demandbase MCP server, so sales reps can prompt Demandbase in natural language within Agentforce to identify and prioritize the most engaged prospects. \"Sales teams can only act on the signals they can see,\" said Salesforce VP of Product Management Rohan Punamia."
+              },
+              {
+                "t": "p",
+                "x": "\"Hunter is currently in pilot, with general availability planned later this year,\" the release says, with no month given. It gives no price for Hunter, no data scope, and no statement on exclusivity. \"No additional contracts\" is also not the same as \"no additional cost.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google Ads PM\n목표·예산 바꿔도 학습없다",
-          "body": "Google Ads PM은 기존 캠페인 목표·예산 변경엔 학습기간이 없다고 했다.",
-          "mini_headline": "Google “학습 리셋 없다”",
+          "headline": "Hunter 에이전트에\nDemandbase 데이터",
+          "body": "Sales Cloud 팀은 Demandbase 신호를 받지만 GA는 미정이다.",
+          "mini_headline": "Hunter, 의도 데이터 확보",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HaoMqRGlmp8"
-              },
-              {
-                "t": "p",
-                "x": "Google Ads 제품 매니저 Tal Akabas는 10월 15일 Google의 Ads Decoded 팟캐스트에서 기존 캠페인의 목표나 예산을 바꿔도 학습 기간에 들어가지 않는다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Akabas는 “목표나 예산을 바꿀 때 실제로는 학습 기간이 없다”며 “Google Ads 백엔드 시스템은 목표 변경에 정비례해 입찰가를 바로 조정한다”고 말했다. 사전 정보가 없는 완전히 새로운 캠페인이라면 “어느 정도 학습 기간이 생길 수 있다.”"
-              },
-              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
               },
               {
                 "t": "p",
-                "x": "다만 이 말이 통하는 범위는 좁다. 안정적으로 돌아가는 캠페인의 목표·예산 수정에만 해당하고, 새 애셋이나 타기팅, 입찰 전략 변경은 여기에 들지 않는다."
+                "x": "Demandbase는 2026년 10월 15일 Salesforce가 아직 시범 운영 중인 아웃바운드 영업 에이전트 Hunter의 출시 데이터 파트너로 자사를 지정했다고 밝혔다. Hunter 사용자는 Salesforce 안에서 Demandbase의 참여, 인물, 계정, 구매 그룹, 의도 데이터를 \"Salesforce 내 데이터에 대해 추가 계약 없이\" 받는다."
               },
               {
                 "t": "p",
-                "x": "에피소드에서는 출시 소식도 함께 나왔다. 프로모션 모드는 Search와 PMax에서 베타를 벗어난다. 신규 고객용 보고 전용 모드는 배포 중이고, 재참여 전용 모드는 Performance Max에 먼저 나온 뒤 Search와 Shopping으로 이어진다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Google Ads PM\n目標・予算変更で学習なし",
-          "body": "Google Ads PMは既存キャンペーンの目標・予算変更で学習期間は生じないとした。",
-          "mini_headline": "Google「学習リセットなし」",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "HaoMqRGlmp8"
+                "x": "통합에 Demandbase MCP 서버를 쓰기 때문에 영업 담당자는 Agentforce 안에서 자연어로 Demandbase에 물어 관심도가 가장 높은 잠재 고객을 찾고 우선순위를 정할 수 있다. Salesforce 제품관리 VP Rohan Punamia는 \"영업팀은 눈에 보이는 신호에만 대응할 수 있다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "10月15日のGoogleのポッドキャスト「Ads Decoded」で、Google AdsのプロダクトマネージャーであるTal Akabasは、既存キャンペーンの目標や予算を変更しても学習期間には入らないと語った。"
-              },
-              {
-                "t": "p",
-                "x": "「目標や予算を変更しても、実際には学習期間はない」とAkabasは述べた。「Google Adsのバックエンドシステムは、目標の変更に正比例して入札を直接調整する」。事前情報のないまったく新しいキャンペーンでは、「ある程度の学習期間が生じうる」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "この主張の範囲は狭い。対象は安定稼働中のキャンペーンでの目標と予算の変更であり、新しいアセットやターゲティング、入札戦略は含まない。"
-              },
-              {
-                "t": "p",
-                "x": "エピソードでは展開状況も示された。プロモーションモードはSearchとPMaxでベータを終え、新規顧客向けのレポート専用モードが展開中で、再エンゲージメント専用モードはPerformance Maxで開始され、SearchとShoppingが続く予定だ。"
+                "x": "보도자료는 \"Hunter는 현재 시범 단계이며 정식 출시는 올해 중 예정돼 있다\"고 밝혔지만 구체적인 달은 적지 않았다. Hunter의 가격과 데이터 범위, 독점 여부도 언급하지 않았다. \"추가 계약 없음\"이 곧 \"추가 비용 없음\"이라는 뜻도 아니다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads PM称\n改目标或预算无学习期",
-          "body": "Google Ads PM称，调整成熟广告系列的目标或预算不会触发学习期。",
-          "mini_headline": "Google称不会重置学习期",
+          "headline": "Hunter代理接入\nDemandbase意图数据",
+          "body": "试点Hunter的Sales Cloud团队获得Demandbase意图信号，GA未定。",
+          "mini_headline": "Hunter获得意图数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HaoMqRGlmp8"
-              },
-              {
-                "t": "p",
-                "x": "在10月15日的Google播客Ads Decoded中，Google Ads产品经理Tal Akabas表示，调整成熟广告系列的目标或预算并不会使其进入学习期。"
-              },
-              {
-                "t": "p",
-                "x": "Akabas说：“当你更改目标或预算时，实际上并不存在学习期。”“Google Ads后端系统会根据你的目标变化直接按比例调整出价。”对于没有任何先前信息的全新广告系列，“可能会出现一定的学习期”。"
-              },
-              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
               },
               {
                 "t": "p",
-                "x": "这一说法范围有限：它只涵盖稳定广告系列的目标和预算调整，不包括新素材、定向或出价策略。"
+                "x": "Demandbase于2026年10月15日表示，Salesforce已将其列为Hunter的首发数据合作伙伴。Hunter是Salesforce仍在试点的外呼销售代理。Hunter用户可在Salesforce内获得Demandbase的互动、人员、账户、采购群体和意图数据，且“Salesforce内的数据无需额外签订合同”。"
               },
               {
                 "t": "p",
-                "x": "该期节目还介绍了上线进展：促销模式即将在Search和PMax中结束测试版，面向新客户的仅报告模式正在推出，仅再互动模式正在Performance Max中上线，Search和Shopping随后跟进。"
+                "x": "该集成使用Demandbase MCP服务器，销售代表可以在Agentforce中用自然语言向Demandbase发出提示，识别参与度最高的潜在客户并排定优先级。Salesforce产品管理VP Rohan Punamia说：“销售团队只能对自己看得见的信号采取行动。”"
+              },
+              {
+                "t": "p",
+                "x": "新闻稿称：“Hunter目前处于试点阶段，计划于今年晚些时候全面上市。”但未给出具体月份。新闻稿也没有提及Hunter的价格、数据范围或是否独家。“无需额外合同”也不等于“无需额外费用”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads PM: sin aprendizaje\nsi cambia objetivo o presupuesto",
-          "body": "Según Tal Akabas, PM de Google Ads, cambiar objetivo o presupuesto en campañas asentadas no activa el aprendizaje.",
-          "mini_headline": "Google: sin reinicio del aprendizaje",
+          "headline": "El agente Hunter de Salesforce\nrecibe datos de Demandbase",
+          "body": "Los equipos de Sales Cloud que prueban Hunter reciben señales de intención de Demandbase, sin precio ni fecha de GA.",
+          "mini_headline": "Hunter recibe datos de intención",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HaoMqRGlmp8"
+                "t": "img",
+                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
               },
               {
                 "t": "p",
-                "x": "En el podcast Ads Decoded de Google del 15 de octubre, el gerente de producto de Google Ads Tal Akabas dijo que cambiar el objetivo o el presupuesto de una campaña consolidada no la lleva a un periodo de aprendizaje."
+                "x": "Demandbase anunció el 15 de octubre de 2026 que Salesforce la ha designado socio de datos de lanzamiento de Hunter, el agente de ventas outbound que Salesforce aún tiene en fase piloto. Los usuarios de Hunter obtienen datos de interacción, personas, cuentas, grupos de compra e intención de Demandbase dentro de Salesforce \"sin contratos adicionales necesarios para los datos dentro de Salesforce\"."
               },
               {
                 "t": "p",
-                "x": "“Cuando cambias tu objetivo o tu presupuesto, en realidad no hay un periodo de aprendizaje”, dijo Akabas. “El sistema de back end de Google Ads ajustará las pujas directamente en proporción a los cambios de tu objetivo”. En una campaña totalmente nueva sin información previa, “puede producirse cierto periodo de aprendizaje”."
+                "x": "La integración usa el servidor MCP de Demandbase, de modo que los comerciales pueden dar instrucciones a Demandbase en lenguaje natural dentro de Agentforce para identificar y priorizar a los prospectos más implicados. \"Los equipos de ventas solo pueden actuar sobre las señales que ven\", dijo Rohan Punamia, VP de Gestión de Producto de Salesforce."
               },
+              {
+                "t": "p",
+                "x": "\"Hunter está actualmente en fase piloto, con disponibilidad general prevista para más adelante este año\", indica el comunicado, sin precisar el mes. No da precio para Hunter, ni alcance de los datos, ni aclara si hay exclusividad. Además, \"sin contratos adicionales\" no equivale a \"sin coste adicional\"."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Hunterに意図データ\nDemandbaseが提供",
+          "body": "HunterにDemandbaseの購買・意図データが入るが、価格とGA時期は未定だ。",
+          "mini_headline": "Hunterに意図データ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
               },
               {
                 "t": "p",
-                "x": "La afirmación es acotada: abarca cambios de objetivo y presupuesto en campañas estables, no nuevos recursos, segmentación ni estrategias de puja."
+                "x": "Demandbaseは2026年10月15日、Salesforceがまだパイロット段階にあるアウトバウンド営業エージェントHunterのローンチデータパートナーに同社を選んだと発表した。Hunterの利用者は、Salesforce内でDemandbaseのエンゲージメント、個人、アカウント、購買グループ、インテントのデータを「Salesforce内のデータについて追加契約は不要」で利用できる。"
               },
               {
                 "t": "p",
-                "x": "El episodio también informó del estado de los lanzamientos: el modo de promoción sale de la beta en Search y PMax, se está desplegando un modo solo de informes para nuevos clientes y el modo solo de reenganche llega a Performance Max, con Search y Shopping a continuación."
+                "x": "この統合はDemandbase MCPサーバーを使うため、営業担当者はAgentforce内で自然言語によりDemandbaseに指示し、最も関心の高い見込み客を特定して優先順位を付けられる。Salesforceのプロダクトマネジメント担当VPであるRohan Punamiaは「営業チームが行動できるのは、見えているシグナルに対してだけだ」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "リリースは「Hunterは現在パイロット中で、一般提供（GA）は今年後半を予定している」としているが、月は示していない。Hunterの価格、データの範囲、独占性についての説明もない。また「追加契約不要」は「追加費用なし」と同じではない。"
               }
             ]
           }
@@ -1197,141 +1035,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google Ads PM\n목표·예산 바꿔도 학습없다",
-          "body": "Google Ads PM은 기존 캠페인 목표·예산 변경엔 학습기간이 없다고 했다.",
-          "mini_headline": "Google “학습 리셋 없다”",
+          "headline": "Hunter 에이전트에\nDemandbase 데이터",
+          "body": "Sales Cloud 팀은 Demandbase 신호를 받지만 GA는 미정이다.",
+          "mini_headline": "Hunter, 의도 데이터 확보",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HaoMqRGlmp8"
-              },
-              {
-                "t": "p",
-                "x": "Google Ads 제품 매니저 Tal Akabas는 10월 15일 Google의 Ads Decoded 팟캐스트에서 기존 캠페인의 목표나 예산을 바꿔도 학습 기간에 들어가지 않는다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Akabas는 “목표나 예산을 바꿀 때 실제로는 학습 기간이 없다”며 “Google Ads 백엔드 시스템은 목표 변경에 정비례해 입찰가를 바로 조정한다”고 말했다. 사전 정보가 없는 완전히 새로운 캠페인이라면 “어느 정도 학습 기간이 생길 수 있다.”"
-              },
-              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
               },
               {
                 "t": "p",
-                "x": "이 주장은 범위가 좁다. 안정적으로 운영 중인 캠페인의 목표·예산 수정에만 해당하며, 새 애셋이나 타기팅, 입찰 전략 변경은 포함하지 않는다."
+                "x": "Demandbase는 2026년 10월 15일, Salesforce가 아직 시범 운영 중인 아웃바운드 영업 에이전트 Hunter의 출시 데이터 파트너로 자사를 지정했다고 밝혔다. Hunter 사용자는 Salesforce 안에서 Demandbase의 참여, 인물, 계정, 구매 그룹, 의도 데이터를 \"Salesforce 내 데이터에 대해 추가 계약 없이\" 받는다."
               },
               {
                 "t": "p",
-                "x": "이번 에피소드에서는 출시 현황도 전했다. 프로모션 모드는 Search와 PMax에서 베타를 벗어나고, 신규 고객을 위한 보고 전용 모드가 배포되고 있으며, 재참여 전용 모드는 Performance Max에서 출시되고 Search와 Shopping이 뒤를 잇는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Google Ads PM\n目標・予算変更で学習なし",
-          "body": "Google Ads PMは既存キャンペーンの目標・予算変更で学習期間は生じないとした。",
-          "mini_headline": "Google「学習リセットなし」",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "HaoMqRGlmp8"
+                "x": "이 통합은 Demandbase MCP 서버를 쓰기 때문에 영업 담당자는 Agentforce 안에서 자연어로 Demandbase에 질문해 관심도가 가장 높은 잠재 고객을 찾고 우선순위를 정할 수 있다. Salesforce 제품관리 VP Rohan Punamia는 \"영업팀은 눈에 보이는 신호에만 대응할 수 있다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "10月15日のGoogleのポッドキャスト「Ads Decoded」で、Google AdsのプロダクトマネージャーであるTal Akabasは、既存キャンペーンの目標や予算を変更しても学習期間には入らないと語った。"
-              },
-              {
-                "t": "p",
-                "x": "「目標や予算を変更しても、実際には学習期間はない」とAkabasは述べた。「Google Adsのバックエンドシステムは、目標の変更に正比例して入札を直接調整する」。事前情報のないまったく新しいキャンペーンでは、「ある程度の学習期間が生じうる」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "この主張の範囲は狭い。対象は安定稼働中のキャンペーンでの目標と予算の変更であり、新しいアセットやターゲティング、入札戦略は含まない。"
-              },
-              {
-                "t": "p",
-                "x": "エピソードでは展開状況も示された。プロモーションモードはSearchとPMaxでベータを終え、新規顧客向けのレポート専用モードが展開中で、再エンゲージメント専用モードはPerformance Maxで開始され、SearchとShoppingが続く予定だ。"
+                "x": "보도자료는 \"Hunter는 현재 시범 단계이며 정식 출시는 올해 중 예정돼 있다\"고 밝혔지만 구체적인 달은 적지 않았다. Hunter의 가격, 데이터 범위, 독점 여부에 대한 언급도 없다. \"추가 계약 없음\"이 \"추가 비용 없음\"과 같은 뜻도 아니다."
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google Ads PM称\n改目标或预算无学习期",
-          "body": "Google Ads PM称，调整成熟广告系列的目标或预算不会触发学习期。",
-          "mini_headline": "Google称不会重置学习期",
+          "headline": "Hunter代理接入\nDemandbase意图数据",
+          "body": "试点Hunter的Sales Cloud团队获得Demandbase意图信号，GA未定。",
+          "mini_headline": "Hunter获得意图数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HaoMqRGlmp8"
-              },
-              {
-                "t": "p",
-                "x": "在10月15日的Google播客Ads Decoded中，Google Ads产品经理Tal Akabas表示，调整成熟广告系列的目标或预算并不会使其进入学习期。"
-              },
-              {
-                "t": "p",
-                "x": "Akabas说：“当你更改目标或预算时，实际上并不存在学习期。”“Google Ads后端系统会根据你的目标变化直接按比例调整出价。”对于没有任何先前信息的全新广告系列，“可能会出现一定的学习期”。"
-              },
-              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
               },
               {
                 "t": "p",
-                "x": "这一说法范围有限：它只涵盖稳定广告系列的目标和预算调整，不包括新素材、定向或出价策略。"
+                "x": "Demandbase于2026年10月15日表示，Salesforce已将其列为Hunter的首发数据合作伙伴。Hunter是Salesforce仍在试点的外呼销售代理。Hunter用户可在Salesforce内获得Demandbase的互动、人员、账户、采购群体和意图数据，且“Salesforce内的数据无需额外签订合同”。"
               },
               {
                 "t": "p",
-                "x": "该期节目还介绍了上线进展：促销模式即将在Search和PMax中结束测试版，面向新客户的仅报告模式正在推出，仅再互动模式正在Performance Max中上线，Search和Shopping随后跟进。"
+                "x": "该集成使用Demandbase MCP服务器，销售代表可以在Agentforce中用自然语言向Demandbase发出提示，识别参与度最高的潜在客户并排定优先级。Salesforce产品管理VP Rohan Punamia说：“销售团队只能对自己看得见的信号采取行动。”"
+              },
+              {
+                "t": "p",
+                "x": "新闻稿称：“Hunter目前处于试点阶段，计划于今年晚些时候全面上市。”但未给出具体月份。新闻稿也没有提及Hunter的价格、数据范围或是否独家。“无需额外合同”也不等于“无需额外费用”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google Ads PM: sin aprendizaje\nsi cambia objetivo o presupuesto",
-          "body": "Según Tal Akabas, PM de Google Ads, cambiar objetivo o presupuesto en campañas asentadas no activa el aprendizaje.",
-          "mini_headline": "Google: sin reinicio del aprendizaje",
+          "headline": "El agente Hunter de Salesforce\nrecibe datos de Demandbase",
+          "body": "Los equipos de Sales Cloud que prueban Hunter reciben señales de intención de Demandbase, sin precio ni fecha de GA.",
+          "mini_headline": "Hunter recibe datos de intención",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "HaoMqRGlmp8"
+                "t": "img",
+                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
               },
               {
                 "t": "p",
-                "x": "En el podcast Ads Decoded de Google del 15 de octubre, el gerente de producto de Google Ads Tal Akabas dijo que cambiar el objetivo o el presupuesto de una campaña consolidada no la lleva a un periodo de aprendizaje."
+                "x": "Demandbase anunció el 15 de octubre de 2026 que Salesforce la ha designado socio de datos de lanzamiento de Hunter, el agente de ventas outbound que Salesforce aún tiene en fase piloto. Los usuarios de Hunter obtienen datos de interacción, personas, cuentas, grupos de compra e intención de Demandbase dentro de Salesforce \"sin contratos adicionales necesarios para los datos dentro de Salesforce\"."
               },
               {
                 "t": "p",
-                "x": "“Cuando cambias tu objetivo o tu presupuesto, en realidad no hay un periodo de aprendizaje”, dijo Akabas. “El sistema de back end de Google Ads ajustará las pujas directamente en proporción a los cambios de tu objetivo”. En una campaña totalmente nueva sin información previa, “puede producirse cierto periodo de aprendizaje”."
+                "x": "La integración usa el servidor MCP de Demandbase, de modo que los comerciales pueden dar instrucciones a Demandbase en lenguaje natural dentro de Agentforce para identificar y priorizar a los prospectos más implicados. \"Los equipos de ventas solo pueden actuar sobre las señales que ven\", dijo Rohan Punamia, VP de Gestión de Producto de Salesforce."
               },
+              {
+                "t": "p",
+                "x": "\"Hunter está actualmente en fase piloto, con disponibilidad general prevista para más adelante este año\", indica el comunicado, sin precisar el mes. No da precio para Hunter, ni alcance de los datos, ni aclara si hay exclusividad. Además, \"sin contratos adicionales\" no equivale a \"sin coste adicional\"."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Hunterに意図データ\nDemandbaseが提供",
+          "body": "HunterにDemandbaseの購買・意図データが入るが、価格とGA時期は未定だ。",
+          "mini_headline": "Hunterに意図データ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/google-ads-learning-period-target-budget-changes-ad-man-dial-skyline.jpg",
-                "cap": ""
+                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
               },
               {
                 "t": "p",
-                "x": "La afirmación es acotada: abarca cambios de objetivo y presupuesto en campañas estables, no nuevos recursos, segmentación ni estrategias de puja."
+                "x": "Demandbaseは2026年10月15日、Salesforceがまだパイロット段階にあるアウトバウンド営業エージェントHunterのローンチデータパートナーに同社を選んだと発表した。Hunterの利用者は、Salesforce内でDemandbaseのエンゲージメント、個人、アカウント、購買グループ、インテントのデータを「Salesforce内のデータについて追加契約は不要」で利用できる。"
               },
               {
                 "t": "p",
-                "x": "El episodio también informó del estado de los lanzamientos: el modo de promoción sale de la beta en Search y PMax, se está desplegando un modo solo de informes para nuevos clientes y el modo solo de reenganche llega a Performance Max, con Search y Shopping a continuación."
+                "x": "この統合はDemandbase MCPサーバーを使うため、営業担当者はAgentforce内で自然言語によりDemandbaseに指示し、最も関心の高い見込み客を特定して優先順位を付けられる。Salesforceのプロダクトマネジメント担当VPであるRohan Punamiaは「営業チームが行動できるのは、見えているシグナルに対してだけだ」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "リリースは「Hunterは現在パイロット中で、一般提供（GA）は今年後半を予定している」としているが、月は示していない。Hunterの価格、データの範囲、独占性についての説明もない。また「追加契約不要」は「追加費用なし」と同じではない。"
               }
             ]
           }
@@ -1339,197 +1141,225 @@
       }
     },
     {
-      "id": "marketing-fender-marshall",
+      "id": "marketing-cheq",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Fender 등, 콘텐츠로\nAI 검색 공략",
-      "body": "Fender와 Marshall은 AI 챗봇을 의식해 콘텐츠와 사이트에 투자한다.",
-      "mini_headline": "브랜드들, AI 검색 공략",
+      "headline": "연휴 이커머스, AI\n쇼핑 에이전트 대비",
+      "body": "Cheq에 따르면 45일간 AI 에이전트 트래픽이 100x 급증했다.",
+      "mini_headline": "쇼핑 에이전트 급증",
       "tool": "Marketing",
-      "source": "Digiday",
-      "url": "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/",
+      "source": "Semafor",
+      "url": "https://www.semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
-            "cap": ""
+            "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
+            "cap": "Dado Ruvic/Reuters"
           },
           {
             "t": "p",
-            "x": "브랜드는 ChatGPT에 자사 제품을 어떻게 말하라고 지시할 수 없지만, 브랜디드 콘텐츠에 더 투자해 챗봇 밑단의 모델이 가져다 쓸 재료를 늘릴 수는 있다."
+            "x": "다가오는 연말 쇼핑 시즌, 브랜드가 공략할 새로운 유형의 쇼핑객이 있다. AI 에이전트다."
           },
           {
             "t": "p",
-            "x": "Fender는 웹사이트를 스토리텔링의 “정문”으로 개편하고 브랜드 유산과 Jimi Hendrix 같은 아티스트를 다룬 짧은 영상을 올렸다. 제품을 알아보는 단계에서 더 눈에 띄려는 계산도 깔려 있다. Skyword 조사에 따르면 U.S. 소비자 10명 중 7명이 제품을 알아볼 때 ChatGPT나 AI 요약을 쓴다."
+            "x": "AI 쇼핑 에이전트를 검증하는 사이버보안 기업 Cheq는 Instinct와 Meta의 Muse 같은 소비자용 AI 에이전트가 출시된 뒤 45일 동안 에이전트 트래픽이 100x 급증했다고 밝혔다. Cheq CEO Guy Tytunovich는 에이전트가 아직 온라인 쇼핑객 가운데 작은 비중에 그치지만 소비자용 에이전트가 쉴 새 없이 쏟아지는 만큼 빠르게 늘고 있다고 말했다."
           },
           {
             "t": "p",
-            "x": "Hendrix가 연주할 때 쓰던 앰프를 만든 Marshall은 YouTube 시리즈 ‘Dead Venues’를 앞세운다. 부사장 Christine Kennedy Grant는 AI Overviews와 LLM 도구를 두고 “우리가 반드시 모습을 드러내야 할 중요한 곳”이라고 말했다."
+            "x": "모두가 반기지는 않는다. Amazon과 eBay는 광고 사업과 결제 경험에 대한 통제력을 더 쥐려고 에이전트를 막았다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
+            "cap": "미국(US) 성인이 AI로 쇼핑할 가능성을 보여주는 차트."
           },
           {
             "t": "p",
-            "x": "Attention Arc의 Urvashi Manral은 “ChatGPT는 새로운 입소문”이라고 말했다. Kantar 조사로는 마케터의 4분의 3(75%)이 내년에 AI 어시스턴트 속 노출을 위해 지출을 늘릴 계획이다."
+            "x": "소비자도 망설인다. Morning Consult 조사에 따르면 쇼핑객은 이제 인플루언서만큼 에이전트의 추천에도 흔들리지만 AI에 구매를 맡기는 데 거리낌 없는 사람은 적다. 이번 연말 시즌은 어떤 브랜드가 에이전트가 거부하기 힘든 방식으로 상품을 가장 잘 보여주는지를 가리는 첫 진짜 시험대다."
           }
         ]
       },
-      "_lead_image": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Fender and Marshall court\nAI search with content",
-          "body": "Fender and Marshall are funding content series and site overhauls partly to give AI chatbots more to work with.",
-          "mini_headline": "Brands court AI search",
+          "headline": "Ecommerce braces for AI\nshopping agents this holiday",
+          "body": "Cheq, which verifies AI shopping agents, says agentic traffic surged 100x in 45 days after new consumer agents launched.",
+          "mini_headline": "Shopping agents surge",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
-                "cap": ""
+                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
+                "cap": "Dado Ruvic/Reuters"
               },
               {
                 "t": "p",
-                "x": "Brands can’t tell ChatGPT how to talk about their products, but they can invest in more branded content to give the models beneath chatbots more to work with."
+                "x": "This coming holiday season, brands will have a new type of shopper to court: AI agents."
               },
               {
                 "t": "p",
-                "x": "Fender overhauled its website into a “front door” for storytelling, with short videos on its heritage and artists like Jimi Hendrix, partly to improve visibility during product research. Seven out of 10 U.S. consumers use ChatGPT or AI summaries when researching products, per a Skyword survey."
+                "x": "Cheq, a cybersecurity company that verifies AI shopping agents, says it recorded a 100x surge in agentic traffic over a 45-day period following the release of consumer AI agents like Instinct and Meta's Muse. While agents still make up a small fraction of online shoppers, they're growing quickly, especially among a constant drumbeat of consumer agent releases, Cheq CEO Guy Tytunovich said."
               },
               {
                 "t": "p",
-                "x": "Marshall, whose amps Hendrix played through, is pushing its ‘Dead Venues’ YouTube series. “It’s such an important place for us to show up,” said vp Christine Kennedy Grant of AI Overviews and LLM tools."
+                "x": "But not everyone is on board: Amazon and eBay have blocked agents to reinforce control over their ads businesses and checkout experiences."
+              },
+              {
+                "t": "img",
+                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
+                "cap": "A chart showing how likely US adults are to use AI to shop."
               },
               {
                 "t": "p",
-                "x": "“ChatGPT is the new word of mouth,” said Attention Arc’s Urvashi Manral. Three-fourths (75%) of marketers plan to increase spending on visibility in AI assistants next year, according to Kantar."
+                "x": "Consumers are hesitant, too. Shoppers are now as likely to be swayed by an agent's recommendation as by an influencer, Morning Consult finds, but few are comfortable letting AI make purchases on their behalf. This holiday season will be the first true test of which brands are best at displaying their wares in ways that agents find irresistible."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Fender 등, 콘텐츠로\nAI 검색 공략",
-          "body": "Fender와 Marshall은 AI 챗봇을 의식해 콘텐츠와 사이트에 투자한다.",
-          "mini_headline": "브랜드들, AI 검색 공략",
+          "headline": "연휴 이커머스, AI\n쇼핑 에이전트 대비",
+          "body": "Cheq에 따르면 45일간 AI 에이전트 트래픽이 100x 급증했다.",
+          "mini_headline": "쇼핑 에이전트 급증",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
-                "cap": ""
+                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
+                "cap": "Dado Ruvic/Reuters"
               },
               {
                 "t": "p",
-                "x": "브랜드는 ChatGPT에 자사 제품을 어떻게 말하라고 지시할 수 없지만, 브랜디드 콘텐츠에 더 투자해 챗봇 밑단의 모델이 가져다 쓸 재료를 늘릴 수는 있다."
+                "x": "다가오는 연말 쇼핑 시즌, 브랜드가 공략할 새로운 유형의 쇼핑객이 있다. AI 에이전트다."
               },
               {
                 "t": "p",
-                "x": "Fender는 웹사이트를 스토리텔링의 “정문”으로 개편하고 브랜드 유산과 Jimi Hendrix 같은 아티스트를 다룬 짧은 영상을 올렸다. 제품을 알아보는 단계에서 더 눈에 띄려는 계산도 깔려 있다. Skyword 조사에 따르면 U.S. 소비자 10명 중 7명이 제품을 알아볼 때 ChatGPT나 AI 요약을 쓴다."
+                "x": "AI 쇼핑 에이전트를 검증하는 사이버보안 기업 Cheq는 Instinct와 Meta의 Muse 같은 소비자용 AI 에이전트가 출시된 뒤 45일 동안 에이전트 트래픽이 100x 급증했다고 밝혔다. Cheq CEO Guy Tytunovich는 에이전트가 아직 온라인 쇼핑객 가운데 작은 비중에 그치지만 소비자용 에이전트가 쉴 새 없이 쏟아지는 만큼 빠르게 늘고 있다고 말했다."
               },
               {
                 "t": "p",
-                "x": "Hendrix가 연주할 때 쓰던 앰프를 만든 Marshall은 YouTube 시리즈 ‘Dead Venues’를 앞세운다. 부사장 Christine Kennedy Grant는 AI Overviews와 LLM 도구를 두고 “우리가 반드시 모습을 드러내야 할 중요한 곳”이라고 말했다."
+                "x": "모두가 반기지는 않는다. Amazon과 eBay는 광고 사업과 결제 경험에 대한 통제력을 더 쥐려고 에이전트를 막았다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
+                "cap": "미국(US) 성인이 AI로 쇼핑할 가능성을 보여주는 차트."
               },
               {
                 "t": "p",
-                "x": "Attention Arc의 Urvashi Manral은 “ChatGPT는 새로운 입소문”이라고 말했다. Kantar 조사로는 마케터의 4분의 3(75%)이 내년에 AI 어시스턴트 속 노출을 위해 지출을 늘릴 계획이다."
+                "x": "소비자도 망설인다. Morning Consult 조사에 따르면 쇼핑객은 이제 인플루언서만큼 에이전트의 추천에도 흔들리지만 AI에 구매를 맡기는 데 거리낌 없는 사람은 적다. 이번 연말 시즌은 어떤 브랜드가 에이전트가 거부하기 힘든 방식으로 상품을 가장 잘 보여주는지를 가리는 첫 진짜 시험대다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "コンテンツでFenderと\nMarshallがAI検索へ",
-          "body": "FenderとMarshallは、AIチャットボットを念頭にコンテンツとサイトに投資する。",
-          "mini_headline": "ブランドがAI検索を狙う",
+          "headline": "EC業界、年末商戦で\nAI購買エージェントに備え",
+          "body": "Cheqによると、AIエージェントのトラフィックが45日で100x 急増した。",
+          "mini_headline": "ショッピングエージェントが急増",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
-                "cap": ""
+                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
+                "cap": "Dado Ruvic/Reuters"
               },
               {
                 "t": "p",
-                "x": "ブランドはChatGPTに自社製品の語り方を指示することはできないが、ブランドコンテンツへの投資を増やし、チャットボットの基盤となるモデルが活用できる材料を増やすことはできる。"
+                "x": "今年のホリデーシーズン、ブランドには新たに口説くべき買い手が現れる。AIエージェントだ。"
               },
               {
                 "t": "p",
-                "x": "Fenderはウェブサイトをストーリーテリングの「玄関口」へと刷新し、ブランドの歴史やJimi Hendrixのようなアーティストを紹介する短い動画を掲載した。製品リサーチの段階での露出を高める狙いもある。Skywordの調査によれば、U.S.の消費者の10人に7人が製品を調べる際にChatGPTやAI要約を使っている。"
+                "x": "AIショッピングエージェントを検証するサイバーセキュリティ企業Cheqによると、InstinctやMetaのMuseといった消費者向けAIエージェントの公開後、45日間でエージェント経由のトラフィックが100x に急増した。CheqのCEO、Guy Tytunovichは、エージェントはまだオンライン買い物客のごく一部にすぎないが、消費者向けエージェントの公開が絶え間なく続くなかで急速に増えていると述べた。"
               },
               {
                 "t": "p",
-                "x": "Hendrixが愛用したアンプのメーカーであるMarshallは、YouTubeシリーズ「Dead Venues」に力を入れている。副社長のChristine Kennedy Grantは、AI OverviewsやLLMツールについて「私たちが姿を見せるべき非常に重要な場所だ」と語った。"
+                "x": "ただし、誰もが歓迎しているわけではない。AmazonとeBayは、広告事業と購入手続きの体験に対する支配を強めるため、エージェントをブロックしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
+                "cap": "USの成人がAIで買い物をする可能性を示すグラフ。"
               },
               {
                 "t": "p",
-                "x": "「ChatGPTは新しい口コミだ」とAttention ArcのUrvashi Manralは言う。Kantarによると、マーケターの4分の3（75%）が来年、AIアシスタントでの露出への支出を増やす計画だ。"
+                "x": "消費者もためらっている。Morning Consultの調査では、買い物客はいまやインフルエンサーと同じくらいエージェントの推薦に左右されるが、AIに代わりに購入させることに抵抗がない人は少ない。今年のホリデーシーズンは、エージェントが抗えない形で商品を見せるのが最もうまいブランドはどこかを見極める、初の本格的な試金石となる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "借内容发力，Fender和\nMarshall争夺AI搜索",
-          "body": "Fender和Marshall投资内容系列与网站改版，部分是为了给AI聊天机器人更多素材。",
-          "mini_headline": "品牌争夺AI搜索",
+          "headline": "电商备战假日季\n迎接AI购物代理",
+          "body": "Cheq称，消费级AI代理推出后45天内，代理流量激增100x 。",
+          "mini_headline": "购物代理激增",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
-                "cap": ""
+                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
+                "cap": "Dado Ruvic/Reuters"
               },
               {
                 "t": "p",
-                "x": "品牌无法告诉ChatGPT如何谈论自家产品，但可以加大对品牌内容的投入，让聊天机器人背后的模型有更多素材可用。"
+                "x": "即将到来的假日季，品牌将迎来一类需要争取的新购物者：AI代理。"
               },
               {
                 "t": "p",
-                "x": "Fender将官网改版为讲故事的“正门”，推出关于品牌传承以及Jimi Hendrix等艺术家的短视频，部分目的是提升产品调研阶段的曝光度。Skyword的调查显示，每10名U.S.消费者中有7人在调研产品时会使用ChatGPT或AI摘要。"
+                "x": "验证AI购物代理的网络安全公司Cheq称，在Instinct和Meta的Muse等消费级AI代理发布后的45天里，其记录到的代理流量激增100x 。Cheq CEO Guy Tytunovich表示，代理在网购人群中占比仍小，但增长很快，尤其是在消费级代理接连不断发布的情况下。"
               },
               {
                 "t": "p",
-                "x": "Hendrix曾使用其音箱的Marshall正在力推YouTube系列节目《Dead Venues》。副总裁Christine Kennedy Grant谈到AI Overviews和LLM工具时说：“这是我们必须出现的重要场合。”"
+                "x": "但并非所有人都买账：Amazon和eBay已屏蔽代理，以加强对其广告业务和结账体验的控制。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
+                "cap": "显示US成年人使用AI购物可能性的图表。"
               },
               {
                 "t": "p",
-                "x": "Attention Arc的Urvashi Manral说：“ChatGPT是新的口碑。”Kantar数据显示，四分之三（75%）的营销人员计划明年增加在AI助手中提升可见度的支出。"
+                "x": "消费者也在犹豫。Morning Consult发现，如今购物者受代理推荐影响的可能性已与受网红影响相当，但很少有人愿意让AI代为购买。这个假日季将首次真正检验，哪些品牌最擅长以代理难以抗拒的方式展示商品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fender y Marshall apuestan por\ncontenidos para la búsqueda IA",
-          "body": "Fender y Marshall financian series de contenido y rediseños web, en parte para dar más material a los chatbots de IA.",
-          "mini_headline": "Las marcas cortejan la búsqueda IA",
+          "headline": "El ecommerce se prepara para\nagentes de IA en las fiestas",
+          "body": "Cheq, que verifica agentes de compra con IA, registró un aumento de 100x en el tráfico de agentes en 45 días.",
+          "mini_headline": "Auge de los agentes de compra",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
-                "cap": ""
+                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
+                "cap": "Dado Ruvic/Reuters"
               },
               {
                 "t": "p",
-                "x": "Las marcas no pueden decirle a ChatGPT cómo hablar de sus productos, pero sí pueden invertir en más contenido de marca para dar más material a los modelos que hay detrás de los chatbots."
+                "x": "En esta temporada de fiestas, las marcas tendrán que cortejar a un nuevo tipo de comprador: los agentes de IA."
               },
               {
                 "t": "p",
-                "x": "Fender rediseñó su sitio web como una “puerta de entrada” para contar historias, con videos cortos sobre su legado y artistas como Jimi Hendrix, en parte para mejorar su visibilidad durante la búsqueda de productos. Siete de cada 10 consumidores de U.S. usan ChatGPT o resúmenes de IA al investigar productos, según una encuesta de Skyword."
+                "x": "Cheq, una empresa de ciberseguridad que verifica agentes de compra con IA, afirma que registró un aumento de 100x en el tráfico de agentes durante un periodo de 45 días tras el lanzamiento de agentes de IA para consumidores como Instinct y Muse, de Meta. Aunque los agentes todavía representan una pequeña fracción de los compradores en línea, crecen con rapidez, sobre todo ante el constante goteo de lanzamientos de agentes para consumidores, dijo el CEO de Cheq, Guy Tytunovich."
               },
               {
                 "t": "p",
-                "x": "Marshall, con cuyos amplificadores tocaba Hendrix, impulsa su serie de YouTube ‘Dead Venues’. “Es un lugar muy importante para que aparezcamos”, dijo la vicepresidenta Christine Kennedy Grant sobre AI Overviews y las herramientas de LLM."
+                "x": "Pero no todos están de acuerdo: Amazon y eBay han bloqueado a los agentes para reforzar el control sobre sus negocios publicitarios y sus experiencias de pago."
+              },
+              {
+                "t": "img",
+                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
+                "cap": "Gráfico que muestra la probabilidad de que los adultos de EE. UU. usen IA para comprar."
               },
               {
                 "t": "p",
-                "x": "“ChatGPT es el nuevo boca a boca”, dijo Urvashi Manral, de Attention Arc. Tres cuartas partes (75%) de los profesionales del marketing planean aumentar el gasto en visibilidad en asistentes de IA el próximo año, según Kantar."
+                "x": "Los consumidores también dudan. Según Morning Consult, los compradores ya se dejan influir tanto por la recomendación de un agente como por la de un influencer, pero pocos se sienten cómodos dejando que la IA compre en su nombre. Esta temporada de fiestas será la primera prueba real de qué marcas saben presentar mejor sus productos de forma que a los agentes les resulten irresistibles."
               }
             ]
           }
@@ -1537,125 +1367,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Fender 등, 콘텐츠로\nAI 검색 공략",
-          "body": "Fender와 Marshall은 AI 챗봇을 의식해 콘텐츠와 사이트에 투자한다.",
-          "mini_headline": "브랜드들, AI 검색 공략",
+          "headline": "연휴 이커머스, AI\n쇼핑 에이전트 대비",
+          "body": "Cheq에 따르면 45일간 AI 에이전트 트래픽이 100x 급증했다.",
+          "mini_headline": "쇼핑 에이전트 급증",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
-                "cap": ""
+                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
+                "cap": "Dado Ruvic/Reuters"
               },
               {
                 "t": "p",
-                "x": "브랜드는 ChatGPT에 자사 제품을 어떻게 말하라고 지시할 수 없지만, 브랜디드 콘텐츠에 더 투자해 챗봇 밑단의 모델이 활용할 재료를 늘릴 수는 있다."
+                "x": "다가오는 연말 쇼핑 시즌, 브랜드는 새로운 유형의 쇼핑객인 AI 에이전트를 공략해야 한다."
               },
               {
                 "t": "p",
-                "x": "Fender는 웹사이트를 스토리텔링의 “정문”으로 개편하고, 브랜드 유산과 Jimi Hendrix 같은 아티스트를 다룬 짧은 영상을 실었다. 제품 조사 단계에서 노출을 높이려는 목적도 있다. Skyword 조사에 따르면 U.S. 소비자 10명 중 7명이 제품을 알아볼 때 ChatGPT나 AI 요약을 쓴다."
+                "x": "AI 쇼핑 에이전트를 검증하는 사이버보안 기업 Cheq는 Instinct와 Meta의 Muse 같은 소비자용 AI 에이전트가 출시된 뒤 45일 동안 에이전트 트래픽이 100x 급증했다고 밝혔다. Cheq CEO Guy Tytunovich는 에이전트가 아직 온라인 쇼핑객 가운데 작은 비중에 그치지만, 소비자용 에이전트가 끊임없이 쏟아지면서 빠르게 늘고 있다고 말했다."
               },
               {
                 "t": "p",
-                "x": "Hendrix가 연주할 때 쓰던 앰프를 만든 Marshall은 YouTube 시리즈 ‘Dead Venues’를 밀고 있다. 부사장 Christine Kennedy Grant는 AI Overviews와 LLM 도구를 두고 “우리가 반드시 모습을 드러내야 할 중요한 곳”이라고 말했다."
+                "x": "하지만 모두가 반기는 것은 아니다. Amazon과 eBay는 광고 사업과 결제 경험에 대한 통제력을 강화하려고 에이전트를 차단했다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
+                "cap": "미국(US) 성인이 AI로 쇼핑할 가능성을 보여주는 차트."
               },
               {
                 "t": "p",
-                "x": "Attention Arc의 Urvashi Manral은 “ChatGPT는 새로운 입소문”이라고 말했다. Kantar에 따르면 마케터의 4분의 3(75%)이 내년 AI 어시스턴트 내 노출을 위한 지출을 늘릴 계획이다."
+                "x": "소비자도 망설이고 있다. Morning Consult 조사에 따르면 쇼핑객은 이제 인플루언서만큼 에이전트의 추천에도 흔들리지만, AI에 구매를 맡기는 데 거리낌 없는 사람은 적다. 이번 연말 시즌은 어떤 브랜드가 에이전트가 거부하기 힘든 방식으로 상품을 가장 잘 보여주는지를 가리는 첫 진짜 시험대가 될 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "コンテンツでFenderと\nMarshallがAI検索へ",
-          "body": "FenderとMarshallは、AIチャットボットを念頭にコンテンツとサイトに投資する。",
-          "mini_headline": "ブランドがAI検索を狙う",
+          "headline": "EC業界、年末商戦で\nAI購買エージェントに備え",
+          "body": "Cheqによると、AIエージェントのトラフィックが45日で100x 急増した。",
+          "mini_headline": "ショッピングエージェントが急増",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
-                "cap": ""
+                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
+                "cap": "Dado Ruvic/Reuters"
               },
               {
                 "t": "p",
-                "x": "ブランドはChatGPTに自社製品の語り方を指示することはできないが、ブランドコンテンツへの投資を増やし、チャットボットの基盤となるモデルが活用できる材料を増やすことはできる。"
+                "x": "今年のホリデーシーズン、ブランドには新たに口説くべき買い手が現れる。AIエージェントだ。"
               },
               {
                 "t": "p",
-                "x": "Fenderはウェブサイトをストーリーテリングの「玄関口」へと刷新し、ブランドの歴史やJimi Hendrixのようなアーティストを紹介する短い動画を掲載した。製品リサーチの段階での露出を高める狙いもある。Skywordの調査によれば、U.S.の消費者の10人に7人が製品を調べる際にChatGPTやAI要約を使っている。"
+                "x": "AIショッピングエージェントを検証するサイバーセキュリティ企業Cheqによると、InstinctやMetaのMuseといった消費者向けAIエージェントの公開後、45日間でエージェント経由のトラフィックが100x に急増した。CheqのCEO、Guy Tytunovichは、エージェントはまだオンライン買い物客のごく一部にすぎないが、消費者向けエージェントの公開が絶え間なく続くなかで急速に増えていると述べた。"
               },
               {
                 "t": "p",
-                "x": "Hendrixが愛用したアンプのメーカーであるMarshallは、YouTubeシリーズ「Dead Venues」に力を入れている。副社長のChristine Kennedy Grantは、AI OverviewsやLLMツールについて「私たちが姿を見せるべき非常に重要な場所だ」と語った。"
+                "x": "ただし、誰もが歓迎しているわけではない。AmazonとeBayは、広告事業と購入手続きの体験に対する支配を強めるため、エージェントをブロックしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
+                "cap": "USの成人がAIで買い物をする可能性を示すグラフ。"
               },
               {
                 "t": "p",
-                "x": "「ChatGPTは新しい口コミだ」とAttention ArcのUrvashi Manralは言う。Kantarによると、マーケターの4分の3（75%）が来年、AIアシスタントでの露出への支出を増やす計画だ。"
+                "x": "消費者もためらっている。Morning Consultの調査では、買い物客はいまやインフルエンサーと同じくらいエージェントの推薦に左右されるが、AIに代わりに購入させることに抵抗がない人は少ない。今年のホリデーシーズンは、エージェントが抗えない形で商品を見せるのが最もうまいブランドはどこかを見極める、初の本格的な試金石となる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "借内容发力，Fender和\nMarshall争夺AI搜索",
-          "body": "Fender和Marshall投资内容系列与网站改版，部分是为了给AI聊天机器人更多素材。",
-          "mini_headline": "品牌争夺AI搜索",
+          "headline": "电商备战假日季\n迎接AI购物代理",
+          "body": "Cheq称，消费级AI代理推出后45天内，代理流量激增100x 。",
+          "mini_headline": "购物代理激增",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
-                "cap": ""
+                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
+                "cap": "Dado Ruvic/Reuters"
               },
               {
                 "t": "p",
-                "x": "品牌无法告诉ChatGPT如何谈论自家产品，但可以加大对品牌内容的投入，让聊天机器人背后的模型有更多素材可用。"
+                "x": "即将到来的假日季，品牌将迎来一类需要争取的新购物者：AI代理。"
               },
               {
                 "t": "p",
-                "x": "Fender将官网改版为讲故事的“正门”，推出关于品牌传承以及Jimi Hendrix等艺术家的短视频，部分目的是提升产品调研阶段的曝光度。Skyword的调查显示，每10名U.S.消费者中有7人在调研产品时会使用ChatGPT或AI摘要。"
+                "x": "验证AI购物代理的网络安全公司Cheq称，在Instinct和Meta的Muse等消费级AI代理发布后的45天里，其记录到的代理流量激增100x 。Cheq CEO Guy Tytunovich表示，代理在网购人群中占比仍小，但增长很快，尤其是在消费级代理接连不断发布的情况下。"
               },
               {
                 "t": "p",
-                "x": "Hendrix曾使用其音箱的Marshall正在力推YouTube系列节目《Dead Venues》。副总裁Christine Kennedy Grant谈到AI Overviews和LLM工具时说：“这是我们必须出现的重要场合。”"
+                "x": "但并非所有人都买账：Amazon和eBay已屏蔽代理，以加强对其广告业务和结账体验的控制。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
+                "cap": "显示US成年人使用AI购物可能性的图表。"
               },
               {
                 "t": "p",
-                "x": "Attention Arc的Urvashi Manral说：“ChatGPT是新的口碑。”Kantar数据显示，四分之三（75%）的营销人员计划明年增加在AI助手中提升可见度的支出。"
+                "x": "消费者也在犹豫。Morning Consult发现，如今购物者受代理推荐影响的可能性已与受网红影响相当，但很少有人愿意让AI代为购买。这个假日季将首次真正检验，哪些品牌最擅长以代理难以抗拒的方式展示商品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fender y Marshall apuestan por\ncontenidos para la búsqueda IA",
-          "body": "Fender y Marshall financian series de contenido y rediseños web, en parte para dar más material a los chatbots de IA.",
-          "mini_headline": "Las marcas cortejan la búsqueda IA",
+          "headline": "El ecommerce se prepara para\nagentes de IA en las fiestas",
+          "body": "Cheq, que verifica agentes de compra con IA, registró un aumento de 100x en el tráfico de agentes en 45 días.",
+          "mini_headline": "Auge de los agentes de compra",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
-                "cap": ""
+                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
+                "cap": "Dado Ruvic/Reuters"
               },
               {
                 "t": "p",
-                "x": "Las marcas no pueden decirle a ChatGPT cómo hablar de sus productos, pero sí pueden invertir en más contenido de marca para dar más material a los modelos que hay detrás de los chatbots."
+                "x": "En esta temporada de fiestas, las marcas tendrán que cortejar a un nuevo tipo de comprador: los agentes de IA."
               },
               {
                 "t": "p",
-                "x": "Fender rediseñó su sitio web como una “puerta de entrada” para contar historias, con videos cortos sobre su legado y artistas como Jimi Hendrix, en parte para mejorar su visibilidad durante la búsqueda de productos. Siete de cada 10 consumidores de U.S. usan ChatGPT o resúmenes de IA al investigar productos, según una encuesta de Skyword."
+                "x": "Cheq, una empresa de ciberseguridad que verifica agentes de compra con IA, afirma que registró un aumento de 100x en el tráfico de agentes durante un periodo de 45 días tras el lanzamiento de agentes de IA para consumidores como Instinct y Muse, de Meta. Aunque los agentes todavía representan una pequeña fracción de los compradores en línea, crecen con rapidez, sobre todo ante el constante goteo de lanzamientos de agentes para consumidores, dijo el CEO de Cheq, Guy Tytunovich."
               },
               {
                 "t": "p",
-                "x": "Marshall, con cuyos amplificadores tocaba Hendrix, impulsa su serie de YouTube ‘Dead Venues’. “Es un lugar muy importante para que aparezcamos”, dijo la vicepresidenta Christine Kennedy Grant sobre AI Overviews y las herramientas de LLM."
+                "x": "Pero no todos están de acuerdo: Amazon y eBay han bloqueado a los agentes para reforzar el control sobre sus negocios publicitarios y sus experiencias de pago."
+              },
+              {
+                "t": "img",
+                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
+                "cap": "Gráfico que muestra la probabilidad de que los adultos de EE. UU. usen IA para comprar."
               },
               {
                 "t": "p",
-                "x": "“ChatGPT es el nuevo boca a boca”, dijo Urvashi Manral, de Attention Arc. Tres cuartas partes (75%) de los profesionales del marketing planean aumentar el gasto en visibilidad en asistentes de IA el próximo año, según Kantar."
+                "x": "Los consumidores también dudan. Según Morning Consult, los compradores ya se dejan influir tanto por la recomendación de un agente como por la de un influencer, pero pocos se sienten cómodos dejando que la IA compre en su nombre. Esta temporada de fiestas será la primera prueba real de qué marcas saben presentar mejor sus productos de forma que a los agentes les resulten irresistibles."
               }
             ]
           }

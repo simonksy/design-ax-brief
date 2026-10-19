@@ -7416,6 +7416,127 @@
           "x": "这些酶尚未进入人体临床试验。相关结果发表于Nature的两篇论文。"
         }
       ]
+    },
+    "science/science-riverlane-nvidia-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+        },
+        {
+          "t": "p",
+          "x": "量子纠错需要一个解码器来判断发生了哪些错误。它依赖基于硬件测量的数值设置，即权重。但量子比特频率会漂移，缺陷时隐时现，门性能也会变化，因此权重会逐渐过时，必须重新校准。"
+        },
+        {
+          "t": "p",
+          "x": "Riverlane开发了一种基于AI（AI-based）的校准循环，无需手动调参，即可直接从实验数据中学习更优的解码器设置。AI提出设置，在NVIDIA H100 GPU上用硬件数据进行测试，并优先选用能减少逻辑错误的设置。"
+        },
+        {
+          "t": "p",
+          "x": "借助为GPUs改造的Riverlane Local Clustering Decoder，原本在单个CPU核心上需要三分钟的表面码（surface-code）训练周期，如今只需2.8秒。H100每秒可解码超过四百万个症状（syndrome），而单个CPU核心约为59,000个。"
+        },
+        {
+          "t": "p",
+          "x": "耗时几分钟而非几小时的循环，可以在每次实验前运行，而不是每天一次。NVIDIA的Sam Stanwyck表示：“Riverlane正在利用AI帮助纠错跟上不断变化的量子硬件。”"
+        }
+      ]
+    },
+    "science/science-chatbot-language-personality": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "中国科学技术大学（University of Science and Technology of China）的研究人员让五款聊天机器人——ChatGPT-4o、Gemini 2.0 Flash、DeepSeek-V3、Ernie 3.5和Le Chat——分别用英语和普通话回答Big Five Inventory-2问卷，每种语言30次。Le Chat还接受了法语测试。"
+        },
+        {
+          "t": "p",
+          "x": "在同一语言内，各模型的画像相当一致：它们把自己描述为合作、可靠，几乎没有负面情绪。切换语言后分数发生变化，变化方向因模型而异。ChatGPT-4o的开放性平均分在英语中为4.74，在普通话中为4.03；DeepSeek-V3则为4.38和4.81。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+          "cap": "不同语言下人类与聊天机器人回答的五项特质平均分对比。"
+        },
+        {
+          "t": "p",
+          "x": "开发者所在国家只能解释部分差异，没有一个模型与其人类参照组完全吻合。这些分数描述的是问卷回答，而非感受——因此用聊天机器人替代调查参与者存在风险。该研究发表于Royal Society Open Science。"
+        }
+      ]
+    },
+    "science/science-satellite-reentry-drag": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+          "cap": "Cosmos-482、NEOWISE与一枚Long March 4B 火箭级的预测坠落时间与报告坠落时间对比。"
+        },
+        {
+          "t": "p",
+          "x": "失控卫星或火箭级何时再入大气层，决定了它落在哪里：时间误差一分钟，落点就可能偏移约460 km。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员将轨道物理——地球引力、地球扁率和大气阻力——与一个神经网络相结合。该网络利用约11年的跟踪数据和空间天气预报，学习每个物体的弹道系数，即衡量空气对其减速程度的指标。下降过程中估算值每三小时更新一次，随机关闭部分组件后将网络运行100次，即可得出不确定性区间。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+          "cap": "神经网络如何预测弹道系数并给出不确定性区间。"
+        },
+        {
+          "t": "p",
+          "x": "研究团队以Cosmos-482、NASA的NEOWISE望远镜和一枚Long March 4B 上面级进行回溯测试，报告的再入时间每次都落在预测区间内。若固定弹道系数，两个非球形物体的预测分别偏移31分钟和36分钟，超出区间。目前仅测试了三个物体，团队计划再对仍在轨道上的物体进行测试。该研究发表于Acta Astronautica。"
+        }
+      ]
+    },
+    "science/science-missing-black-holes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+          "cap": "一颗类太阳恒星绕黑洞运行的示意图。"
+        },
+        {
+          "t": "p",
+          "x": "银河系已产生超过1000万个黑洞，但天文学家只找到了70个。一个名为Black Hole Hunters的U.K.（英国）项目正在招募志愿者，在NASA的TESS望远镜数据中寻找一个明显迹象：黑洞从伴星前方经过，短暂放大其光芒。"
+        },
+        {
+          "t": "p",
+          "x": "自动算法先进行初步筛查，从数百万颗恒星中挑出最明显的候选者。但人工智能难以应对宇宙的复杂现实——恒星耀斑和自然脉动可能让算法产生误报。因此人类志愿者至关重要；每张图都会交给多人查看，从而让个人错误相互抵消。"
+        },
+        {
+          "t": "p",
+          "x": "这份候选清单让天文学家能把稀缺的望远镜时间集中到特定恒星上。自2021年10月在Zooniverse上线以来，该项目已吸引近23,000名志愿者，完成超过1200万次分类。项目联合负责人Adam McMaster说：“可能会有成千上万项新发现，我们需要能得到的一切帮助。”"
+        }
+      ]
+    },
+    "science/science-claude-quantum-circuits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "来自Anthropic和Harvard的团队用Claude设计所需运算和量子比特更少的量子电路，并在化学、优化、物理模拟和数论中使用的八个基本模块上测试这一方法。与研究基线相比，七个设计同时减少了代价高昂的量子运算和量子比特；第八个则提出了一种时间与内存权衡更优的新算术方法。"
+        },
+        {
+          "t": "p",
+          "x": "一个重新设计的解码电路所需Toffoli门从510万个降至约440,000个，峰值量子比特从1,938个减至1,837个。一个定点Gaussian电路将门–量子比特乘积缩小了39倍，一个线性方程组例程则缩小了32倍。"
+        },
+        {
+          "t": "p",
+          "x": "模型不只是提出想法，还获得了编程工具和一个评估器，后者负责检查电路，并以Toffoli门数乘以峰值量子比特数打分。Anthropic的博客称该模型为Claude Mythos 5；其椭圆曲线算术工作在有限的人工提示下耗时53小时。"
+        },
+        {
+          "t": "p",
+          "x": "这些结果是资源估算，并非在量子硬件上的演示，抽样测试也不能证明所有输入都会成功。该论文是arXiv预印本，尚未经过同行评审。"
+        }
+      ]
     }
   }
 }

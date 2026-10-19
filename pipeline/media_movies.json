@@ -1,7 +1,31 @@
-{"date":"2026-10-18","media":[
- {"id":"movies-artlist-arc","type":"image","src":"pipeline/media/movies-artlist-arc.jpg"},
- {"id":"movies-cottbus-woman-asleep","type":"image","src":"pipeline/media/movies-cottbus-woman-asleep.jpg"},
- {"id":"movies-claude-blender-blocking","type":"video","src":"pipeline/media/movies-claude-blender-blocking.mp4","poster":"pipeline/media/movies-claude-blender-blocking.jpg"},
- {"id":"movies-ivybears","type":"image","src":"pipeline/media/movies-ivybears.jpg"},
- {"id":"movies-foundry-smartroto","type":"image","src":"pipeline/media/movies-foundry-smartroto.jpg"}
-]}
+{
+  "date": "2026-10-19",
+  "section": "movies",
+  "media": [
+    {
+      "id": "movies-artcraft-filmcraft",
+      "type": "image",
+      "src": "pipeline/media/movies-artcraft-filmcraft.jpg"
+    },
+    {
+      "id": "movies-nvidia-editors-day",
+      "type": "image",
+      "src": "pipeline/media/movies-nvidia-editors-day.jpg"
+    },
+    {
+      "id": "movies-gibney-musk-avatar",
+      "type": "image",
+      "src": "pipeline/media/movies-gibney-musk-avatar.jpg"
+    },
+    {
+      "id": "movies-fall2-flawless-vfx",
+      "type": "image",
+      "src": "pipeline/media/movies-fall2-flawless-vfx.jpg"
+    },
+    {
+      "id": "movies-duvernay-14th-asteria",
+      "type": "image",
+      "src": "pipeline/media/movies-duvernay-14th-asteria.jpg"
+    }
+  ]
+}

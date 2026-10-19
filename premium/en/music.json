@@ -7706,6 +7706,156 @@
           "x": "The “VOCALOID7 Editor” will launch on November 11, 2026 for $129 before tax, while the upgrade edition is normally priced at $69."
         }
       ]
+    },
+    "music/music-zoom-neurig": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+          "cap": "Zoom Neurig"
+        },
+        {
+          "t": "p",
+          "x": "Zoom is the latest big-name brand to embrace NAM with the Neurig, an affordable touchscreen-equipped modeler it calls “a next-generation guitar pedal that will redefine everything.” It natively supports NAM A2 Lite from TONE3000, the open-source amp modeling architecture sweeping through the guitar industry."
+        },
+        {
+          "t": "p",
+          "x": "Zoom says the tech “reproduces the amplifier itself, not just the tone.” There are 32 amp heads built in, from a Marshall JTM 45 and 1965 Fender Twin Reverb to a Diezel Herbert and Mesa/Boogie Dual Rectifier, plus six original amp sounds. NAM integration lets users load amps, pedals and cabinets, capture full signal chains, and import over 700,000 NAM capture and IR libraries for free."
+        },
+        {
+          "t": "video",
+          "yt": "pN3mt-v4KiE"
+        },
+        {
+          "t": "p",
+          "x": "Effects include reverbs, delays and modulations plus a bit crusher, rotary speaker sim, ring modulator and pitch shifter, with 17 effects tailored for an expression pedal. It runs up to 14 effects simultaneously and adds send/return, MIDI in/out, Bluetooth, a looper and a 4.5-hour battery."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+          "cap": "Zoom Neurig amp modeler (Image credit: Zoom)"
+        },
+        {
+          "t": "p",
+          "x": "It also features AI-driven tone generation and AI stem separation for removing guitar parts from tracks, accessible via the SessionZ Pedal cloud service."
+        },
+        {
+          "t": "p",
+          "x": "The price is ¥47,800, approximately $300 – a rough conversion while we wait for an official US price."
+        }
+      ]
+    },
+    "music/music-rocketship-audience-map": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "With an estimated 100,000 new tracks flooding streaming platforms every day, independent artists face an uphill battle. Most make their most expensive decisions — selecting singles, buying ads, planning promo — based on guesswork."
+        },
+        {
+          "t": "p",
+          "x": "Co-founded by Maxwell Zotz (Verge Campus, MAX.Live) and Billy Rodgers (Fanpage), Rocketship is billed as the first AI-driven platform capable of identifying a song's potential audience before it is ever commercially released. It follows four months in Beta with feedback from 100+ label, publishing, management, and distribution executives."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+          "cap": "Rocketship"
+        },
+        {
+          "t": "p",
+          "x": "Rocketship evaluates an unreleased track across 80 audio, lyrical, and contextual parameters, matching it against decades of music history to identify listener profiles. Its patent-pending models, developed alongside Loeb & Loeb, were trained on over 250,000 catalog tracks. It then builds a promotional strategy calibrated to the release window and budget."
+        },
+        {
+          "t": "p",
+          "x": "Every new user can run one unreleased track at zero cost. Mission Control, an AI-powered dashboard, customizes promotional missions, and Rocketship Studio turns audio into vertical video assets in minutes."
+        },
+        {
+          "t": "p",
+          "x": "“It doesn’t replace taste or instinct. It means they’re not guessing alone,” says Zotz."
+        }
+      ]
+    },
+    "music/music-neko-pocket-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+          "cap": "Neko Pocket Studio"
+        },
+        {
+          "t": "p",
+          "x": "The Neko, from Neko Engineering, launched on Kickstarter this week: a pocket-sized studio that marries wireless connectivity, amp and pedal modeling and recording with AI tools. The focus is on learning songs and turning guitar riffs into fully-formed arrangements."
+        },
+        {
+          "t": "p",
+          "x": "Two wireless jacks live and charge inside Neko, one plugging into a guitar or bass, the other into an amp or mixer. Neko handles sound processing, with NAM tones, and multi-track recording."
+        },
+        {
+          "t": "p",
+          "x": "It adds AI stem separation, the ability to mute the guitar in a track and play in its place, audio-to-tab shown on its display, and backing tracks and arrangements built through generative AI. A Time Machine feature lets musicians listen back to ideas even if they forgot to hit record. The NAM tie-in opens the Tone3000 library of captures."
+        },
+        {
+          "t": "video",
+          "yt": "keuagUavq90"
+        },
+        {
+          "t": "p",
+          "x": "Within the first 24 hours the Kickstarter had $10,000 of pledges; over $260k has been raised against a $30,000 goal. Pledges with rewards start at $449; retail price is $599. Shipping to backers is planned for April 2027."
+        }
+      ]
+    },
+    "music/music-midi-repa-paper": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+          "cap": "Figure 1: MIDI-REPA framework. Symbolic targets extracted by an AMT system supervise intermediate audio representations through a lightweight projection head and cosine-similarity alignment loss."
+        },
+        {
+          "t": "p",
+          "x": "State-of-the-art text-to-music models increasingly rely on scaling model capacity, data, and compute, while still learning musical structure directly from dense audio. Yet melody, rhythm, harmony, and structure can be represented compactly in symbolic form."
+        },
+        {
+          "t": "p",
+          "x": "We introduce MIDI-REPA, a representation-alignment framework that derives MIDI supervision from automatic music transcription (AMT) to align intermediate representations of a flow-matching DiT. Building on the 122M-parameter FluxAudio-S baseline from the 2026 ICME Academic Text-To-Music Challenge, we investigate what, where, and when to align. Aligning a MuScriptor-derived piano roll with an early DiT layer throughout the full flow trajectory performs the best."
+        },
+        {
+          "t": "p",
+          "x": "Without additional training data or techniques, MIDI-REPA remains competitive on the ATTM objective metrics while remaining trainable on a single RTX 3090 in about 31 hours. Our results highlight symbolic supervision as a simple and inexpensive learning signal for improving text-to-music generation. We release our transcription pipeline, JamendoMIDI, training code, and audio samples."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+          "cap": "Figure 2: Extrapolated final outputs from different timesteps along the baseline generation trajectory."
+        }
+      ]
+    },
+    "music/music-suno-korea-hit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Last month we wrote about a debate breaking out in South Korea after an AI-generated song called ‘Forest of the Heart’ appeared in the lower reaches of streaming service Melon’s Top 100 chart."
+        },
+        {
+          "t": "p",
+          "x": "Well, now it’s been surpassed by some distance. ‘The Adult I Dreamed Of’ by an artist called Meomuru took the number three spot in that chart this week, after a slow-burn rise since its June release fuelled by its use in social-media posts."
+        },
+        {
+          "t": "p",
+          "x": "The Straits Times has the story, noting that the artist wrote the lyrics for the track but generated the music on Suno – as was the case for ‘Forest of the Heart’ too."
+        },
+        {
+          "t": "p",
+          "x": "Melon is the focus for the debate around the new hit, although it is making an impact on the charts of other services too. ‘The Adult I Dreamed Of’ is 48th on Spotify’s ‘Top Songs – South Korea’ chart at the time of writing, but 10th in its latest daily Top 50 rankings."
+        },
+        {
+          "t": "p",
+          "x": "It’s doing even better on YouTube: ‘The Adult I Dreamed Of’ is in second place in that platform’s latest Weekly Top Songs chart for South Korea, with 3.2m weekly views. On YouTube, it carries an ‘AI’ tag under YouTube Music’s just-announced labelling policy."
+        }
+      ]
     }
   }
 }

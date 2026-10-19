@@ -7940,6 +7940,166 @@
           "x": "\"You can use BRUTAL for free, including in commercial games,\" Hall says. \"There are no royalties.\" Only attribution is required. \"If the tools are public... you have options.\""
         }
       ]
+    },
+    "games/games-roblox-audioscape": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Roblox has brought the team behind AI audio startup Audioscape into the company and its technology will now become part of the platform's creator tools."
+        },
+        {
+          "t": "p",
+          "x": "Audioscape founder Sean Varah announced the move, saying he would focus on developing a broader roadmap for audio and music across Roblox’s creator experience."
+        },
+        {
+          "t": "p",
+          "x": "The team has developed AI-powered audio search and discovery tools that help creators find sounds based on how they actually sound, rather than just by name."
+        },
+        {
+          "t": "p",
+          "x": "Recently, Audioscape developed an AI Audio Agent that covers audio discovery, sound design, audio programming, mixing and testing. The tool aims to bring aspects of triple-A audio production closer to Roblox creators."
+        },
+        {
+          "t": "p",
+          "x": "“Joining Roblox means this technology will become a native part of the platform, available to the millions of creators who build on Roblox every day. I'll be focused on driving a holistic roadmap for audio and music authoring across the Creator experience and I couldn't be more energised about what's ahead,” Varah said."
+        },
+        {
+          "t": "p",
+          "x": "The team built its tools natively for Roblox, and the move will bring the technology directly to the platform’s creators."
+        },
+        {
+          "t": "p",
+          "x": "Varah also thanked early supporters, advisers and investors who backed Audioscape, as well as the Roblox creators who helped the team."
+        }
+      ]
+    },
+    "games/games-scam-with-friends": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+          "cap": "Steam's global TOP 10 most popular games as of 5 p.m. on October 16 (Source: Steam)"
+        },
+        {
+          "t": "p",
+          "x": "The new co-op simulation game 'Scam With Your Friends' launched in Steam early access on the 16th and climbed to the top of the global most popular games chart. Its premise of running scams on generative AI, combined with the funny situations that arise during co-op play, caught gamers' attention."
+        },
+        {
+          "t": "p",
+          "x": "Set in a scam ring posing as a call center, the co-op game puts up to 6 players in the role of office staff who must meet the whole team's daily revenue quota within set working hours. Missing the quota brings a harsh performance review from the boss, and the target amount rises as the days go by."
+        },
+        {
+          "t": "p",
+          "x": "Gameplay centers on real-time calls with generative AI customers and hacking. After picking up an incoming call, players must speak directly into a microphone or type text to ease the AI customer's suspicion and get them to hand over gift card numbers or make bank transfers. Players can also remotely access the victim's PC to steal personal information while the call keeps them distracted."
+        },
+        {
+          "t": "video",
+          "yt": "e4BhBUryVFY"
+        },
+        {
+          "t": "p",
+          "x": "Steam user reviews are 'Mostly Positive' (705 reviews, 71% positive). Reviewers singled out tricking AI customers with improvised lies and no set script, and the boss's performance review at the end of each workday, held while watching call highlights together."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+          "cap": "Scam With Your Friends screenshot (Image source: the game's Steam page)"
+        },
+        {
+          "t": "p",
+          "x": "However, players pointed to optimization problems, including frequent unresponsiveness caused by unstable servers, voice recognition errors and frame drops. In particular, response delays in non-English languages, including Korean, were said to be severe enough to make normal play difficult. Some also raised concerns about an early shutdown or a switch to a paid subscription because of AI server costs."
+        }
+      ]
+    },
+    "games/games-oblivion-claude-fpsfix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Elder Scrolls IV: Oblivion Remastered has struggled with CPU bottlenecks, inconsistent frame times and traversal stuttering since launch. Reddit user LTSharpe, whose Ryzen 7 5800X system still struggled after upgrading from an RTX 2070 SUPER to a Radeon RX 9070 XT, turned to Claude Opus 5.5, which reportedly identified several fundamental inefficiencies in the game's code."
+        },
+        {
+          "t": "p",
+          "x": "Roughly two and a half weeks of AI-assisted reverse engineering, profiling and optimization followed. Despite no professional development background, LTSharpe directed Claude to produce approximately 40 engine-level optimizations, packaged into an open-source mod called Oblivion Remastered Performance Fix."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The game was reportedly rebuilding its sun and moon lighting every frame, with redundant memory allocations and DirectX 12 command preparation largely confined to a single thread. The mod uses better multithreading and memory management while reportedly preserving Nanite, Lumen and other visual settings."
+        },
+        {
+          "t": "video",
+          "yt": "K8WkCz6cuHk"
+        },
+        {
+          "t": "p",
+          "x": "In an Imperial City flythrough at 4K with FSR Performance and Frame Generation, average FPS rose from 72 to 102 (+41%) and hitches over 50 ms fell from 19.5 to 4.8 per run. Cheydinhal went from 64 to 91 FPS (+43%). Results come primarily from a single Ryzen 7 5800X/RX 9070 XT system, and the v1.0.0 beta ships with source code and benchmarking tools."
+        }
+      ]
+    },
+    "games/games-unity-aijam-busan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+          "cap": "Unity AI Game Jam poster (Image courtesy of Unity)"
+        },
+        {
+          "t": "p",
+          "x": "Unity and the Korea Association of Game Industry announced that they will recruit participants for the 'Unity AI Game Jam' from October 12 to 20. The event will be held as a 24-hour overnight session at BEXCO in Busan from November 18 to 19, ahead of the opening of G-STAR 2026, Korea's largest game show."
+        },
+        {
+          "t": "p",
+          "x": "Applications are open on Unity Square until October 20 and may close early depending on demand. Anyone interested in game development and creation can apply, regardless of major or work experience. Unity plans to select 55 final participants through a document review, and teams will be formed on site."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI and Meshy.ai are taking part as official sponsors. Participants can use Unity's AI features, including Unity CLI and the Codex plugin. Unity will give every participant AI tool credits worth $50 (about 67,500 won), OpenAI will provide credits and on-site mentoring from its engineers, and Meshy.ai will provide credits for generating 3D assets from text or images alone."
+        },
+        {
+          "t": "p",
+          "x": "Depending on the category, winning teams will receive a chance to exhibit their game at Unity's booth at G-STAR 2026, a 1-year ChatGPT Pro subscription, and interview opportunities on Unity's global and Korean official blogs. A pre-event webinar will be held on October 27 via a Unity Korea YouTube live stream."
+        },
+        {
+          "t": "p",
+          "x": "Song Min-seok, CEO of Unity Korea, said, “AI is becoming a reliable partner that speeds up turning ideas into games and helps creators make bolder and more diverse attempts.”"
+        }
+      ]
+    },
+    "games/games-konami": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+          "cap": "Image credit: Rock Paper Shotgun / Konami"
+        },
+        {
+          "t": "p",
+          "x": "As spotted by Dengeki Online and translated by Automaton, Konami Digital Entertainment president Hideki Hayakawa shared his thoughts on the rapid development of AI technology in the company's latest integrated report."
+        },
+        {
+          "t": "p",
+          "x": "Hayakawa goes against the widespread belief that generative AI will make game development easier, saying it won't bring a significant change because \"entry barriers have already been lowered by the advancements of generic game engines and the spread of UGC (user generated content).\""
+        },
+        {
+          "t": "p",
+          "x": "\"Even if AI use does lead to improvements in production efficiency, I believe that the most important factors in producing entertaining and innovative video games are people and creators.\" The \"kind of chemical reaction\" that comes from developers with a range of backgrounds working together is \"not something that can be easily replaced,\" he added."
+        },
+        {
+          "t": "p",
+          "x": "Konami isn't swearing off the technology: \"Konami provides systematic support so that creators can get a grasp of new technologies, properly assess the risks they may bring, and safely apply them to game development,\" he said."
+        }
+      ]
     }
   }
 }

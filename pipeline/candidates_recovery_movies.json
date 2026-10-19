@@ -1,79 +1,130 @@
 {
+  "date": "2026-10-19",
   "section": "movies",
-  "now_iso": "2026-10-14T22:00:44Z",
   "window_hours": 336,
+  "now_iso": "2026-10-19T01:00:00Z",
+  "pass": "recovery-1",
   "items": [
     {
-      "title": "Open to AI: Hollywood Is Embracing Artificial Intelligence Tools Despite Doomsday Fears",
-      "url": "https://variety.com/2026/digital/features/ai-hollywood-embraces-artificial-intelligence-1236909213/",
-      "source": "Variety",
+      "title": "'Fall 2' reaches new heights in VFX",
+      "url": "https://beforesandafters.com/2026/10/07/fall-2-reaches-new-heights-in-vfx/",
+      "source": "befores & afters",
+      "published_iso": "2026-10-06T14:32:28+00:00",
+      "excerpt": "Koala FX breaks down its VFX for the survival-thriller sequel, including how it stress-tested Flawless's AI tools (TrueSync, first used to redub lines on 'Fall') and fed back VFX-pipeline know-how such as de-grain and flicker handling to the AI developers.",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg",
+      "hit_term": "Flawless TrueSync / AI dubbing lip sync",
       "category": "movies",
-      "published_iso": "2026-10-13T15:00:00+00:00",
-      "excerpt": "Despite artificial intelligence sparking doomsday fears around the world, Hollywood is slowly embracing the technology. Here's why.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/AI-Placeholder-Directors-Hollywood-Production.jpg?crop=0px%2C484px%2C1500px%2C843px&resize=1000%2C563"
+      "fresh": true
     },
     {
-      "title": "Peacock App Launches ‘Your Bravoverse,’ Featuring a Personalized TikTok-Style Video Feed Hosted by AI-Generated Andy Cohen",
-      "url": "https://variety.com/2026/tv/news/peacock-app-launches-your-bravoverse-ai-andy-cohen-1236909580/",
-      "source": "Variety",
+      "title": "The Next Generation Speaks: What Young VFX Artists Are Doing Differently",
+      "url": "https://vfxvoice.com/the-next-generation-speaks-what-young-vfx-artists-are-doing-differently/",
+      "source": "VFX Voice",
+      "published_iso": "2026-10-06T16:00:32+00:00",
+      "excerpt": "Gen Z VFX artists split on AI: some see artist-driven machine-learning tools reshaping workflows rather than replacing artists, others reject prompt-generated imagery as replacing the human touch in cinema.",
+      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-11.jpg",
+      "hit_term": "VFX craft / AI workflow shift",
       "category": "movies",
-      "published_iso": "2026-10-13T16:00:00+00:00",
-      "excerpt": "Peacock is bowing a personalized stream of clips from Bravo shows, inspired by apps like TikTok, brought to you by a chatty AI avatar of Andy Cohen.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=563&crop=1"
+      "fresh": true
     },
     {
-      "title": "Tilly Nollywood? African Filmmakers — Ready or Not — Get Set for the AI Revolution",
-      "url": "https://variety.com/2026/film/global/african-filmmakers-ai-1236904081/",
-      "source": "Variety",
+      "title": "This Voice-Controlled Camera App Can Record Portrait and Landscape Video For You at the Same Time",
+      "url": "https://nofilmschool.com/shootsolo-video-camera-app",
+      "source": "No Film School",
+      "published_iso": "2026-10-14T18:00:04+00:00",
+      "excerpt": "Shootsolo, a voice-controlled camera app and AI filming assistant for solo filmmakers and creators, adds simultaneous portrait and landscape recording to its feature set.",
+      "og_image": "https://nofilmschool.com/media-library/image.png?id=68429685&width=1200&height=600&coordinates=0%2C151%2C0%2C151",
+      "hit_term": "AI filming assistant (adjacent tools)",
       "category": "movies",
-      "published_iso": "2026-10-12T18:36:57+00:00",
-      "excerpt": "While generative AI has the potential to transform filmmaking in Africa, practical challenges on the continent abound.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/MixCollage-12-Oct-2026-06-47-AM-9531.jpg?w=1000&h=563&crop=1"
+      "fresh": true
     },
     {
-      "title": "YouTuber Gossip Goblin Releases Trailer For R-Rated AI Theatrical Film ‘Gods Don’t Give Gifts’",
-      "url": "https://deadline.com/2026/10/youtube-gossip-goblin-trailer-ai-film-only-gods-give-gifts-1237146800/",
-      "source": "Deadline",
+      "title": "Ava DuVernay Didn't Make a Sequel — She Made '14th'",
+      "url": "https://www.indiewire.com/features/interviews/ava-duvernay-interview-14th-not-sequel-nyff-1235221117/",
+      "source": "IndieWire",
+      "published_iso": "2026-10-09T20:30:00+00:00",
+      "excerpt": "DuVernay explains that degraded archival photos from boxes, slides and family albums couldn't reach film resolution, so she worked with Natasha Lyonne's Asteria Film Co., whose AI-powered tools restored them. (ComingSoon/World of Reel report a backlash over the film's AI-animated archival images.)",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+      "hit_term": "Asteria / AI documentary ethics / AI restoration",
       "category": "movies",
-      "published_iso": "2026-10-06T16:52:10+00:00",
-      "excerpt": "YouTuber Gossip Goblin has released the trailer for 'Gods Don't Give Gifts,' a theatrical feature film made entirely with artificial intelligence.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/10/Gods-Dont-Give-Gifts-still-2.png?w=1024"
+      "fresh": true
     },
     {
-      "title": "BBC's Kate Phillips On AI, YouTube & 'Blue Planet III'",
-      "url": "https://deadline.com/2026/10/bbc-kate-phillips-on-ai-youtube-blue-planet-iii-1237155480/",
-      "source": "Deadline",
+      "title": "Union releases guidelines to protect voice actors from AI",
+      "url": "https://www.asahi.com/ajw/articles/16970021",
+      "source": "The Asahi Shimbun",
+      "published_iso": "2026-10-16T16:50:00+09:00",
+      "excerpt": "The Japan Actors Union issued its first AI guidelines on Oct. 15, requiring consent before voices are used to train generative AI or to make AI audio replicating them, and broadly barring AI use of deceased actors' voices or AI as a replacement in foreign-language dubbing.",
+      "og_image": "https://p.potaufeu.asahi.com/5d8f-p/picture/31449308/91d0fe5593209664a54d10f5f0739206.jpg",
+      "hit_term": "Equity/union AI provisions, AI dubbing (off-list: no allowed outlet covered it)",
       "category": "movies",
-      "published_iso": "2026-10-13T10:56:08+00:00",
-      "excerpt": "Her comments at MIPCOM came after DG Matt Brittin said he had been sent an AI-generated ep of 'Doctor Who' and it was \"pretty good.\"",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024"
+      "fresh": true
     },
     {
-      "title": "BBC Staff Concerned About Matt Brittin Praise For AI 'Doctor Who'",
-      "url": "https://deadline.com/2026/10/bbc-staff-concerns-matt-brittin-ai-doctor-who-1237149848/",
-      "source": "Deadline",
+      "title": "As Hollywood fights AI, a new filmmaking hub takes shape in Culver City",
+      "url": "https://www.latimes.com/business/story/2026-10-16/as-hollywood-warms-to-ai-culver-city-fills-with-ai-studios",
+      "source": "Los Angeles Times",
+      "published_iso": "2026-10-17T02:33:28Z",
+      "excerpt": "AI film studios such as Promise are clustering in Culver City and recruiting emerging and out-of-work creatives to reinvent traditional filmmaking. 'It's a great breeding ground for this new filmmaking,' says Promise co-founder Dave Clark.",
+      "og_image": "https://ca-times.brightspotcdn.com/dims4/default/857b037/2147483647/strip/true/crop/5355x2811+0+379/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4c%2F99%2F15bdcdba4e8f9197f6007c702b03%2F1547053-fi-culver-city-13-mjc.jpg",
+      "hit_term": "Promise studio AI (off-list)",
       "category": "movies",
-      "published_iso": "2026-10-08T12:46:07+00:00",
-      "excerpt": "BBC employees would like Matt Brittin to travel back in time and scrub from the record his comments about an AI-generated episode of 'Doctor Who.'",
-      "og_image": "https://deadline.com/wp-content/uploads/2025/06/525172-e1750264502579.jpg?w=1024"
+      "fresh": true
     },
     {
-      "title": "My Screen Life: Taiwanese producer Patrick Mao Huang on spotting new talent and embracing AI",
-      "url": "https://www.screendaily.com/features/my-screen-life-taiwanese-producer-patrick-mao-huang-on-spotting-new-talent-and-embracing-ai/5221306.article",
-      "source": "Screen Daily",
+      "title": "Innovation vs job losses in local AI film 'Mountain of Graves'",
+      "url": "https://www.timeslive.co.za/lifestyle/2026-10-16-innovation-vs-job-losses-in-local-ai-film-mountain-of-graves/",
+      "source": "TimesLIVE",
+      "published_iso": "2026-10-16T07:39:14+00:00",
+      "excerpt": "South Africa's Dragon Studios made 'Mountain of Graves' on AI filmmaking platforms and was selected for the Neu Wave AI Film Festival at LA Tech Week. Director Donovan Marsh says an AI film isn't one-click: it closely mirrors traditional filmmaking, with software replacing physical sets.",
+      "og_image": "https://www.timeslive.co.za/resizer/v2/HSDG3UKX2FEZ7AEIXOYZY6CMII.jpg?smart=true&auth=4bda8c4101187ba7b5ebad9ead92d774c5c9ed38c5e1a6d33d93be1d1c3c93c0&width=1200&height=630",
+      "hit_term": "AI film festival (off-list)",
       "category": "movies",
-      "published_iso": "2026-10-12T00:00:00Z",
-      "excerpt": "The Taiwanese film producer talk spotting up-and-coming filmmakers, learning those unwritten industry rules and the transformational impact of AI on storytelling.",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/5/8/7/1489587_patrickmaohuanginhisoffice1_536722_crop.jpg"
+      "fresh": true
     },
     {
-      "title": "Busan’s Asian Contents & Film Market evolves with added focus on AI and microdramas",
-      "url": "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
-      "source": "Screen Daily",
+      "title": "'Niu Lai': Chinese Animation's Crude Contender",
+      "url": "https://www.animationmagazine.net/2026/10/niu-lai-chinese-animations-crude-contender/",
+      "source": "Animation Magazine",
+      "published_iso": "2026-10-13T00:10:57+00:00",
+      "excerpt": "Why global audiences embraced the amateur-made Chinese animated feature 'Niu Lai': its human-made flaws read as a counterpoint to the 'soulless factory line of generative AI' encroaching on animation.",
+      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Niu-Lai-5.jpg",
+      "hit_term": "anime/animation AI production (craft counterpoint)",
       "category": "movies",
-      "published_iso": "2026-10-10T00:00:00Z",
-      "excerpt": "ACFM runs October 10-13 at Busan's Bexco exhibition centre.",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg"
+      "fresh": true
+    },
+    {
+      "title": "Generate Crew seeks generative VFX trainee for 'high-profile' production in Sydney",
+      "url": "https://if.com.au/generate-crew-seeks-generative-vfx-trainee-for-high-profile-production-in-sydney/",
+      "source": "IF Magazine",
+      "published_iso": "2026-10-18T23:31:02+00:00",
+      "excerpt": "Generate Crew is recruiting a generative VFX trainee for an unannounced, high-profile streaming production shooting in Sydney, an early sign of 'generative VFX' becoming a dedicated crew role.",
+      "og_image": "https://if.com.au/wp-content/uploads/2026/10/Nerida-Groth_Trainees_Generate-Crew.jpg?resize=1200,630",
+      "hit_term": "generative AI VFX studio (off-list)",
+      "category": "movies",
+      "fresh": true
+    },
+    {
+      "title": "OpenAI reportedly wants to bring back Sora AI, but not everyone may be able to use it",
+      "url": "https://www.digit.in/news/general/openai-reportedly-wants-to-bring-back-sora-ai-but-not-everyone-may-be-able-to-use-it.html",
+      "source": "Digit",
+      "published_iso": "2026-10-13T10:43:00+05:30",
+      "excerpt": "Per The Information, OpenAI is negotiating to license its shelved Sora video model to a stealth startup co-founded by Jeffrey Katzenberg and former Sora lead Bill Peebles, which would sell film-industry tools built on it. The deal is not final.",
+      "og_image": "https://static.digit.in/OpenAI-reportedly-wants-to-bring-back-Sora-but-not-everyone-may-be-able-to-use-it.png",
+      "hit_term": "Sora / studio AI licensing deal (off-list; deal unconfirmed)",
+      "category": "movies",
+      "fresh": true
+    },
+    {
+      "title": "Why Bot VFX chose artists over AI when the clock was ticking",
+      "url": "https://www.animationxpress.com/latest-news/why-bot-vfx-chose-artists-over-ai-when-the-clock-was-ticking/",
+      "source": "AnimationXpress",
+      "published_iso": "2026-10-15T09:30:00+00:00",
+      "excerpt": "Bot VFX explains why it relied on artists rather than AI for a tight-deadline job, calling AI 'an accelerator, not a replacement' that 'works on probability' as machine learning reshapes VFX workflows.",
+      "og_image": "https://www.animationxpress.com/wp-content/uploads/2026/10/BotVFX.jpg",
+      "hit_term": "AI animation pipeline studio (off-list)",
+      "category": "movies",
+      "fresh": true
     }
   ]
 }

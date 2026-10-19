@@ -1,112 +1,106 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "movies",
   "picks": [
     {
-      "tool": "Movies",
+      "url": "https://www.cined.com/artcraft-releases-free-open-source-adobe-alternatives-filmcraft-for-premiere-pro-effectcraft-for-after-effects-written-in-rust-with-ai/",
+      "title": "ArtCraft Releases Free Open-Source Adobe Alternatives – FilmCraft for Premiere Pro, EffectCraft for After Effects, Written in Rust With AI",
+      "source": "CineD",
       "category": "movies",
+      "published_iso": "2026-10-12T09:36:45Z",
+      "og_image": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+      "excerpt": "ArtCraft releases free open-source Adobe alternatives built with AI, with FilmCraft for Premiere Pro.",
+      "source_lang": "en",
+      "tool": "Movies",
       "accent": "#0070f3",
       "motif": "frame",
-      "title": "Can AI Make a Sci-Fi Series for $38,000? Artlist's 'The Arc' Puts It to the Test",
-      "url": "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/",
-      "source": "IndieWire",
-      "published_iso": "2026-10-16T22:35:10+00:00",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=650",
-      "excerpt": "Artlist's AI-made sci-fi series 'The Arc' tests whether generative tools can deliver a watchable series on a $38,000 budget.",
-      "rationale": "A concrete production with a stated budget ($38K for a series). It gives creators a cost benchmark for AI episodic work, and the craft piece is distinct from the 10-12 'Overstake' rebuild."
+      "rationale": "A new release: free, open-source editing and compositing apps (FilmCraft, EffectCraft) built with AI as Premiere Pro and After Effects alternatives. Editors can download and try them today."
     },
     {
-      "tool": "Movies",
+      "url": "https://postperspective.com/nvidias-editors-day-new-windows-based-rtx-spark-computers/",
+      "title": "Nvidia's Editor's Day: New Windows-Based RTX Spark Computers",
+      "source": "postPerspective",
       "category": "movies",
+      "published_iso": "2026-10-15T16:58:14Z",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg",
+      "excerpt": "By Mike McCarthy  Last week, I had the opportunity to attend Nvidia's \"Editor's Day\" in San Francisco, which was the company's lead-up to the launch of its RTX Spark line of laptops and desktops. It was a day of presentations about AI, how the new hardware enables local AI processing and the benefit",
+      "source_lang": "en",
+      "tool": "Movies",
       "accent": "#f5a623",
       "motif": "frame",
-      "title": "FilmFest Cottbus selects AI-generated feature 'A Woman Asleep' for main competition",
-      "url": "https://www.screendaily.com/news/filmfest-cottbus-selects-ai-generated-feature-a-woman-asleep-for-main-competition/5220948.article",
-      "source": "Screen Daily",
-      "published_iso": "2026-10-16T09:16:00+00:00",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
-      "excerpt": "Vikki Bardot's AI-generated feature 'A Woman Asleep' is one of 10 films in FilmFest Cottbus' main competition, a festival-selection milestone for AI features.",
-      "rationale": "A follow-up with a new concrete event: an established festival placed an AI-generated feature in its main competition, which is a gatekeeping milestone beyond the 09-26 distribution deal."
+      "rationale": "A post-production writer's report on what Nvidia's RTX Spark machines and on-device AI mean for editing workstations. It is aimed at editors, unlike the Adobe-NVIDIA tie-up that already ran in design."
     },
     {
-      "tool": "Movies",
+      "url": "https://www.indiewire.com/features/podcast/alex-gibney-elon-musk-documentary-simulated-ai-interview-1235222409/",
+      "title": "Alex Gibney on How a CGI Avatar Helped Simulate the Elon Musk Interview He Could Never Get",
+      "source": "IndieWire",
       "category": "movies",
+      "published_iso": "2026-10-16T17:00:00Z",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+      "excerpt": "Alex Gibney talks about using artificial intelligence to critique it for his Elon Musk documentary, 'Musk,' on IndieWire's 'Screen Talk' podcast.",
+      "source_lang": "en",
+      "tool": "Movies",
       "accent": "#7928ca",
       "motif": "frame",
-      "title": "Here's how Hollywood is Directing Their AI Films",
-      "url": "https://www.youtube.com/watch?v=BExtQ740QgM",
-      "source": "Curious Refuge (YouTube)",
-      "published_iso": "2026-10-16T11:53:17-07:00",
-      "og_image": "https://i.ytimg.com/vi/BExtQ740QgM/maxresdefault.jpg",
-      "excerpt": "Curious Refuge and Albert Bozesan show an AI camera-control workflow: Claude drives Blender to block shots that guide AI video generation.",
-      "rationale": "The most actionable item in the pool: a reproducible workflow (an LLM drives Blender blocking, which then guides AI video) that a filmmaker can try tomorrow."
+      "rationale": "The director explains a specific technique: a CGI/AI avatar used to stage a simulated interview with a subject who refused to take part. It is a concrete and ethically charged documentary method."
     },
     {
-      "tool": "Movies",
+      "url": "https://beforesandafters.com/2026/10/07/fall-2-reaches-new-heights-in-vfx/",
+      "title": "'Fall 2' reaches new heights in VFX",
+      "source": "befores & afters",
       "category": "movies",
+      "published_iso": "2026-10-06T14:32:28+00:00",
+      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg",
+      "excerpt": "Koala FX breaks down its VFX for the survival-thriller sequel, including how it stress-tested Flawless's AI tools (TrueSync, first used to redub lines on 'Fall') and fed back VFX-pipeline know-how such as de-grain and flicker handling to the AI developers.",
+      "source_lang": "en",
+      "tool": "Movies",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "title": "'IvyBears' Hits Cannes After YouTube Breakout, Spawns Animated Feature Project",
-      "url": "https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/",
-      "source": "Variety",
-      "published_iso": "2026-10-13T09:16:52+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=563&crop=1",
-      "excerpt": "IvyBears goes brand-to-content with a series and an animated feature project, in a 'reverse flywheel' approach powered by AI and artists alike.",
-      "rationale": "A new business model: a YouTube brand built with AI and artists moves up into a series and a feature at MIPCOM. It shows a viable path from AI-assisted short-form to long-form IP."
+      "rationale": "A VFX vendor's breakdown of a new sequel that put Flawless's AI tools into a real pipeline. It names the specific problems (grain, flicker) VFX teams had to solve, so it is practical for compositors."
     },
     {
-      "tool": "Movies",
+      "url": "https://www.indiewire.com/features/interviews/ava-duvernay-interview-14th-not-sequel-nyff-1235221117/",
+      "title": "Ava DuVernay Didn't Make a Sequel — She Made '14th'",
+      "source": "IndieWire",
       "category": "movies",
+      "published_iso": "2026-10-09T20:30:00+00:00",
+      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+      "excerpt": "DuVernay explains that degraded archival photos from boxes, slides and family albums couldn't reach film resolution, so she worked with Natasha Lyonne's Asteria Film Co., whose AI-powered tools restored them. (ComingSoon/World of Reel report a backlash over the film's AI-animated archival images.)",
+      "source_lang": "en",
+      "tool": "Movies",
       "accent": "#eb367f",
       "motif": "frame",
-      "title": "Tech Reviews: Gaomon PD1561 V2, Foundry SmartRoto, Huion Kamvas Pro 24",
-      "url": "https://www.animationmagazine.net/2026/10/tech-reviews-gaomon-pd1561-v2-foundry-smartroto-huion-kamvas-pro-24/",
-      "source": "Animation Magazine",
-      "published_iso": "2026-10-16T22:00:06+00:00",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Gaomon-PD1561-V2.jpg",
-      "excerpt": "Monthly animation/VFX tech review covering Foundry's AI-assisted SmartRoto Nuke add-on for rotoscoping alongside two pen displays.",
-      "rationale": "A hands-on review of Foundry's AI-assisted SmartRoto for Nuke. Rotoscoping is a daily VFX chore, so this is directly tool-actionable. The enrichment pass should center the card on SmartRoto, not the pen displays."
-    }
-  ],
-  "alternates": [
-    {
-      "tool": "Movies",
-      "category": "movies",
-      "accent": "#171717",
-      "motif": "frame",
-      "title": "Fan Bingbing Says Young Chinese Audiences 'Aren't Being Fed Very Well' as AI Microdramas Boom",
-      "url": "https://variety.com/2026/film/festivals/fan-bingbing-ai-microdramas-park-chan-wook-busan-1236906307/",
-      "source": "Variety",
-      "published_iso": "2026-10-09T03:24:57+00:00",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Fan-Bingbing-Busan.jpg?w=1000&h=563&crop=1",
-      "excerpt": "At Busan, Fan Bingbing questioned the value of the booming AI-generated microdrama format for Chinese audiences.",
-      "rationale": "Alternate: a star's commentary on AI microdramas. It is new, but it is opinion and 9 days old."
+      "rationale": "A high-profile documentary premiering at NYFF used Asteria's AI tools to restore archival photos, and the AI-animated images drew a backlash. It is a concrete case of AI in archival restoration."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/": {
+      "https://www.cined.com/artcraft-releases-free-open-source-adobe-alternatives-filmcraft-for-premiere-pro-effectcraft-for-after-effects-written-in-rust-with-ai/": {
         "verdict": "new",
-        "nearest": "https://variety.com/2026/film/markets-festivals/sci-fi-thriller-overstake-generative-ai-rebuild-busan-market-1236907993/"
+        "nearest": "https://www.provideocoalition.com/roundup-new-software-for-video-editors/",
+        "new_action": ""
       },
-      "https://www.screendaily.com/news/filmfest-cottbus-selects-ai-generated-feature-a-woman-asleep-for-main-competition/5220948.article": {
+      "https://postperspective.com/nvidias-editors-day-new-windows-based-rtx-spark-computers/": {
+        "verdict": "new",
+        "nearest": "https://postperspective.com/the-state-of-vfx-and-animation-might-surprise-you/",
+        "new_action": ""
+      },
+      "https://www.indiewire.com/features/podcast/alex-gibney-elon-musk-documentary-simulated-ai-interview-1235222409/": {
+        "verdict": "new",
+        "nearest": "https://deadline.com/2026/09/musk-producer-atwater-magnific-ai-zurich-summit-1237114419/",
+        "new_action": ""
+      },
+      "https://beforesandafters.com/2026/10/07/fall-2-reaches-new-heights-in-vfx/": {
         "verdict": "follow-up",
-        "nearest": "https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817/",
-        "new_action": "FilmFest Cottbus officially selected 'A Woman Asleep' for its 10-film main competition. This is a new festival-selection announcement, separate from the 09-26 Baska Sinema theatrical-distribution deal."
+        "nearest": "https://postperspective.com/sync-labs-intros-zero-shot-lipsyncing-for-film-and-television/",
+        "new_action": "Koala FX's VFX breakdown of the new sequel 'Fall 2', a new production use of Flawless's AI tools (TrueSync) in which the vendor fed de-grain and flicker fixes back to Flawless. Earlier Flawless coverage concerned other releases or deals, not this film."
       },
-      "https://www.youtube.com/watch?v=BExtQ740QgM": {
-        "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=0yv0r5UyzCY"
-      },
-      "https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/": {
-        "verdict": "new",
-        "nearest": ""
-      },
-      "https://www.animationmagazine.net/2026/10/tech-reviews-gaomon-pd1561-v2-foundry-smartroto-huion-kamvas-pro-24/": {
-        "verdict": "new",
-        "nearest": ""
+      "https://www.indiewire.com/features/interviews/ava-duvernay-interview-14th-not-sequel-nyff-1235221117/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.hollywoodreporter.com/tv/tv-news/fox-nation-houdini-docuseries-ai-imagery-1236725532/",
+        "new_action": "A new film release: DuVernay's NYFF documentary '14th' used Asteria Film Co.'s AI tools to restore and animate archival photos, and the film drew a backlash over them. No Asteria story about '14th' appears in the 30-day history."
       }
     },
-    "note": "Dropped as cross-section exclusions: postPerspective Nvidia Editor's Day RTX Spark (design and gadgets cover RTX Spark), and No Film School Adobe+NVIDIA RTX Spark agentic collaboration (same launch that ran in design on 10-16, also dropped on 10-17). Dropped as sponsored: Deadline Kling 'Worm Train' partner content (also 'related' to the 10-13 Deadline Kling panel card) and befores & afters Autodesk Flow Studio Canvas. Dropped as repeats or commentary on published stories: Deadline BBC Kate Phillips (a reaction to the 10-03 Brittin 'Doctor Who' card, no new decision, dropped on 10-16 and 10-17 too); IndieWire Gibney 'Musk' avatar interview (AI use already covered 09-28 via the Zurich Summit 'Musk' producer panel, commentary only, held back on 10-17); The Verge 'tech backlash is now in theaters' (an analysis of 'Artificial' and 'Musk', which overlaps the 10-16 Variety 'Artificial' card and the 09-28 'Musk' card); Cartoon Brew View directors panel (same outlet and same conference as the 10-16 Cartoon Brew View exec roundtable, so the content-hub rule applies). Lower-scored, not picked: Variety 'Open to AI' feature (evergreen overview), Screen Daily Patrick Mao Huang profile, VFX Voice economics (10-06), Motionographer RevThink accelerator, and Fan Bingbing (kept as an alternate). Diversity: 5 distinct outlets (IndieWire, Screen Daily, Curious Refuge, Variety, Animation Magazine), all in the single 'movies' category, so distinct palette accents are used."
+    "note": "Original pass dropped: THR 'Netflix used AI on ~300 titles' and Deadline Weta CTO Thurston (both cover the Netflix Creative Asia Busan panel, published 10-15 via Variety); Deadline 'Worm Train' Kling AI (partner content, and the same Kim Sung-soo/Kling Busan panel as Deadline 10-13); Screen Daily Banderas 'Cortes' (same as Variety 10-13); Screen Daily Danny Boyle 'would use AI again' (commentary on the Ink AI story published 10-10 via THR, no new event); Variety XPRIZE 'The Gifted' (same win as Deadline 09-30; it only adds an interview with the director); Engadget SynthID how-to (explainer on the SynthID detection tool published 10-08 via blog.google). Adobe-NVIDIA RTX Spark cluster: dropped RedShark and No Film School and kept only postPerspective's editor-focused report (design covered the RTX Spark launch on 10-14 via blogs.nvidia.com and the Adobe-NVIDIA collaboration on 10-18; the overlap is at the topic level only, with a different URL). Also dropped: the Variety View Conference lineup (stale) and Cartoon Brew's View directors panel (AI is incidental). RECOVERY top-up (recovery-1 pool, 11 items, none tagged history_match): added befores & afters 'Fall 2' (Flawless) and IndieWire DuVernay '14th' (Asteria). Both carry brands seen in older history, so both are logged as follow-ups and each names its new film release. Dropped: Digit's Sora/Katzenberg licensing report (unconfirmed, second-hand from The Information via a weak off-list outlet); Asahi's Japan Actors Union guidelines (about voice actors and dubbing, not screen performers, and rejected as voice acting for books on 10-19); LA Times Culver City AI-studio hub (a trend feature with no new concrete Promise release; credible but weaker than the two picks, and the next backfill if one is swapped out); TimesLIVE 'Mountain of Graves' (off-list, festival selection only); IF Magazine Generate Crew trainee ad (a job listing); VFX Voice Gen Z artists, AnimationXpress Bot VFX and Animation Magazine 'Niu Lai' (opinion or commentary, with AI incidental); No Film School Shootsolo (a minor feature update to a consumer camera app). Final diversity: 4 outlets (IndieWire 2, CineD 1, postPerspective 1, befores & afters 1), all at or under the cap of 2 per outlet; the second and later Movies cards take distinct palette accents."
   }
 }

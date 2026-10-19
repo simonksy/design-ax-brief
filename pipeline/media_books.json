@@ -1,30 +1,31 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
+  "section": "books",
   "media": [
     {
-      "id": "books-copyright-office-ai",
+      "id": "books-prize-author-check",
       "type": "image",
-      "src": "pipeline/media/books-copyright-office-ai.png"
+      "src": "pipeline/media/books-prize-author-check.png"
     },
     {
-      "id": "books-market-dilution",
+      "id": "books-kyobo-flitto",
       "type": "image",
-      "src": "pipeline/media/books-market-dilution.jpg"
+      "src": "pipeline/media/books-kyobo-flitto.jpg"
     },
     {
-      "id": "books-sudowrite-worldbuilding",
+      "id": "books-naav-ai",
       "type": "image",
-      "src": "pipeline/media/books-sudowrite-worldbuilding.png"
+      "src": "pipeline/media/books-naav-ai.jpg"
     },
     {
-      "id": "books-piccoma-ai-anime",
+      "id": "books-chatgpt-audiobooks",
       "type": "image",
-      "src": "pipeline/media/books-piccoma-ai-anime.jpg"
+      "src": "pipeline/media/books-chatgpt-audiobooks.jpg"
     },
     {
-      "id": "books-webtoon-ai-budget",
+      "id": "books-frankfurt-translators",
       "type": "image",
-      "src": "pipeline/media/books-webtoon-ai-budget.jpg"
+      "src": "pipeline/media/books-frankfurt-translators.png"
     }
   ]
 }

@@ -112275,6 +112275,1418 @@
           "x": "저자들은 이번 결과를 탐색적이라고 규정했다. 생존자 편향 가능성도 짚었고 일반화할 수 있는지는 추가 연구로 판단해야 한다고 밝혔다."
         }
       ]
+    },
+    "design/design-meshy-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI 3D 멀티모달 모델 기업 Meshy가 Meshy Edit를 출시했다. 3D 모델에서 고른 부분만 텍스트 설명대로 바꾸고 나머지 형상은 그대로 두는 도구다. 가입자라면 누구나 쓸 수 있고, 자체 개발한 새 모델로 돌아간다. 편집 한 번에 약 일 분이 걸리고 20크레딧이 든다."
+        },
+        {
+          "t": "p",
+          "x": "그동안은 모델 전체를 다시 생성하거나 Blender 같은 소프트웨어에서 메시를 손으로 고쳐야 했고, 수정 하나에 몇 시간이 걸리기도 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+        },
+        {
+          "t": "p",
+          "x": "수정은 두 단계다. 고르고, 설명한다. Lasso는 화면에서 부위를 둘러 앞면과 옆면, 뒷면까지 아우르고, Brush는 경계를 다듬는다. 참고 이미지는 장당 최대 20 MB, 최대 다섯 장까지 넣는다. 편집할 때마다 새 모델이 생기고 원본은 그대로 남는다. 지금은 형상만 바뀐다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+        },
+        {
+          "t": "p",
+          "x": "새 모델은 다시 편집하거나 내려받거나 Bambu Studio 같은 슬라이서로 보낼 수 있다. Meshy Edit는 Meshy 6와 Meshy 7.1의 하이폴리 모델에서 쓸 수 있고, Meshy 7.1 Ultra 2K 모델도 포함된다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meshy는 최근 Series B 라운드에서 약 $400 million을 유치했고, 기업가치는 $1.5 billion으로 평가받았다."
+        }
+      ]
+    },
+    "design/design-brand-foundation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+        },
+        {
+          "t": "p",
+          "x": "Claude와 가드레일 몇 가지로 디자인 시스템을 만드는 법을 소개한다. 개발자가 인정하고 클라이언트가 실제로 출시할 수 있는 시스템이다."
+        },
+        {
+          "t": "p",
+          "x": "목요일 오후 5시다. 클라이언트 미팅은 내일 아침이다. 오후 내내 Claude에서 프롬프트를 거듭하며 대시보드를 다듬었는데, 오후 2시에는 근사해 보이던 화면이 이제는 남의 집처럼 낯설다. 결국 Figma를 열어 화면을 손으로 다시 만들고는 “조금 다듬었을 뿐”이라고 스스로를 달랜다. AI는 연습장이었을 뿐이다."
+        },
+        {
+          "t": "p",
+          "x": "필자가 보기에 이건 실력이 아니라 뼈대의 문제다. 탐색 단계에서 바이브 코딩(Vibe coding)이 주는 자유로움은 분명하다. AI-supported(AI 지원) 아이디에이션 연구에서도 AIGC가 확산적 사고 과정의 체감 정신 부담을 줄인다는 결과가 나왔다. 다만 같은 연구는 아이디어 발상과 개발을 구분한다."
+        }
+      ]
+    },
+    "design/design-a11y-gates": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+        },
+        {
+          "t": "p",
+          "x": "Claude나 GPT에 “제대로 된 접근성”을 갖춘 모달 대화상자를 만들어 달라고 하면 role=\"dialog\"와 aria-labelledby 속성은 붙어 나온다. 그런데 포커스 관리가 깨져 VoiceOver 사용자가 모달 안에 갇힌다는 건 뒤늦게야 알게 된다. 코드 생성은 런타임 동작이 아니라 문법적 정확성에 맞춰 최적화돼 있어서다."
+        },
+        {
+          "t": "p",
+          "x": "plugin87/ux-ui-agent-skills는 모달, 드롭다운, 탭, 캐러셀 등 프로덕션급 컴포넌트 패턴 52개와 객관적 검증 게이트 50개를 묶었다. 결과물이 WCAG 2.2 AA/AAA 요건을 어기면 빌드가 실패한다. 토큰은 W3C DTCG 사양을 따르고 프리미티브는 프레임워크를 가리지 않는다. 포커스 트랩과 키보드 내비게이션은 실행 가능한 테스트(axe-core + Playwright)로 검증한다."
+        },
+        {
+          "t": "p",
+          "x": "생성된 테스트 하나는 주니어 개발자가 리팩터링 중 onCloseAutoFocus를 지워 사용자층의 8%가 키보드 내비게이션을 쓸 수 없게 된 회귀를 잡아냈다. 카드 컴포넌트 23개를 container-query 패턴으로 옮기자 Lighthouse 성능 점수가 78에서 94로 올랐다."
+        },
+        {
+          "t": "p",
+          "x": "한계도 있다. 시각적 회귀 테스트가 없고, DTCG 설정에 2-3시간이 걸릴 수 있다. 한 클라이언트 프로젝트에 삼 주간 써 보니, 수동 QA가 놓친 접근성 회귀 14건을 빌드 게이트가 잡아냈다."
+        }
+      ]
+    },
+    "design/design-material-you-ship": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+          "cap": "디자인 파일의 카드와 실제 데이터를 넣은 브라우저의 카드는 같은 카드다."
+        },
+        {
+          "t": "p",
+          "x": "디자이너는 건축가가 돌을 이해하듯 코드를 이해해야 한다. 어떻게 깎는지가 아니라 무엇을 할 수 있는지를 알아야 한다. 이제 깎는 일은 AI가 한다."
+        },
+        {
+          "t": "p",
+          "x": "디자인 파일은 그림이다. 상태 하나, 너비 하나, 언어 하나를 디자이너가 직접 넣은 데이터로만 보여 준다. 제품은 그 밖의 모든 상태다. 긴 이름, 불러오지 못한 사진, 빈 목록, 사 초가 걸리는 요청, 키보드 사용자, 320픽셀 폰까지."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+          "cap": "디자인 파일이 한 번도 보여 주지 않은 상태는 여섯 가지다."
+        },
+        {
+          "t": "p",
+          "x": "버튼 하나를 코드로 131가지 변형까지 만들어 보니 ‘촉감 있는(tactile)’이라는 형용사가 엔지니어가 구현할 숫자로 바뀌었다. 필자의 제품 팀은 코드로 만든 프로토타입을 놓고 리뷰한다. 디자인 파일은 회차가 끝날 때마다 코드에서 다시 뽑아 거울처럼 쓴다."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+          "cap": "전과 후를 나란히 보면 무엇이 기준 산출물인지 보인다."
+        },
+        {
+          "t": "p",
+          "x": "“디자이너도 코딩해야 한다”는 말은 수명을 다했다. 코드는 AI가 쓴다. 코드를 읽는 AI 리뷰 도구도 있다. 한 벤치마크에서는 가장 뛰어난 도구가 실제 버그 122개 중 84개를 잡았다. 그래도 시스템을 맡은 엔지니어의 책임은 그대로다. 디자이너가 넘길 수 없는 것은 이해다. 320픽셀 화면, 가장 긴 실제 이름, 느린 네트워크와 키보드로 직접 돌려 보고 결과물을 판단해야 한다."
+        }
+      ]
+    },
+    "music/music-zoom-neurig": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+          "cap": "Zoom Neurig"
+        },
+        {
+          "t": "p",
+          "x": "NAM을 받아들인 대형 브랜드에 Zoom도 Neurig로 새로 이름을 올렸다. 터치스크린을 갖춘 저렴한 모델러인데, Zoom은 이를 “모든 것을 새롭게 정의할 차세대 기타 페달”이라고 부른다. 기본 지원하는 NAM A2 Lite는 TONE3000의 오픈소스 앰프 모델링 아키텍처로, 요즘 기타 업계를 휩쓰는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "Zoom은 이 기술이 “톤만이 아니라 앰프 자체를 재현한다”고 말한다. Marshall JTM 45와 1965 Fender Twin Reverb부터 Diezel Herbert, Mesa/Boogie Dual Rectifier까지 앰프 헤드 32종이 들어 있고, 오리지널 앰프 사운드도 여섯 가지 담았다. NAM을 통합한 덕에 앰프, 페달, 캐비닛을 불러오거나 시그널 체인 전체를 캡처할 수 있다. 700,000개가 넘는 NAM 캡처와 IR 라이브러리도 무료로 가져온다."
+        },
+        {
+          "t": "video",
+          "yt": "pN3mt-v4KiE"
+        },
+        {
+          "t": "p",
+          "x": "이펙트는 리버브, 딜레이, 모듈레이션에 비트크러셔, 로터리 스피커 시뮬레이션, 링 모듈레이터, 피치 시프터까지 갖췄고 익스프레션 페달용 이펙트만 17개다. 이펙트는 최대 14개까지 동시에 걸 수 있다. send/return, MIDI in/out, Bluetooth, 루퍼, 4.5시간 배터리도 들어갔다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+          "cap": "Zoom Neurig 앰프 모델러 (이미지: Zoom)"
+        },
+        {
+          "t": "p",
+          "x": "AI-driven(AI 기반) 톤 생성과 곡에서 기타 파트만 지우는 AI 스템 분리도 SessionZ Pedal 클라우드 서비스로 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "가격은 ¥47,800, 약 $300이다. 공식 US 가격이 나오기 전이라 대략 환산한 값이다."
+        }
+      ]
+    },
+    "music/music-rocketship-audience-map": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "스트리밍 플랫폼에는 매일 약 100,000곡의 신곡이 쏟아진다. 독립 아티스트에게는 힘겨운 싸움이다. 싱글 선정, 광고 구매, 프로모션 기획처럼 돈이 가장 많이 드는 결정도 대부분 짐작으로 내린다."
+        },
+        {
+          "t": "p",
+          "x": "Rocketship은 Maxwell Zotz(Verge Campus, MAX.Live)와 Billy Rodgers(Fanpage)가 함께 세웠다. 곡이 상업 발매되기 전에 잠재 청중을 찾아내는 최초의 AI-driven 플랫폼이라고 내세운다. 넉 달간 Beta를 돌리며 레이블, 퍼블리싱, 매니지먼트, 유통 분야 임원 100명 이상에게 피드백을 받았다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+          "cap": "Rocketship"
+        },
+        {
+          "t": "p",
+          "x": "Rocketship은 미발매 트랙을 오디오, 가사, 맥락에 걸친 80개 파라미터로 평가한 뒤 수십 년 음악사와 대조해 청취자 프로필을 찾는다. 모델은 Loeb & Loeb과 함께 개발해 특허를 출원했고, 250,000곡이 넘는 카탈로그 트랙으로 학습했다. 그다음 발매 시기와 예산에 맞춰 프로모션 전략을 짠다."
+        },
+        {
+          "t": "p",
+          "x": "신규 사용자라면 누구나 미발매 트랙 하나를 비용 없이 분석할 수 있다. AI-powered 대시보드 Mission Control에서는 프로모션 미션을 맞춤 설정하고, Rocketship Studio는 몇 분 만에 오디오를 세로형 영상 에셋으로 바꿔 준다."
+        },
+        {
+          "t": "p",
+          "x": "“취향이나 직감을 대신하지는 않는다. 혼자 짐작하지 않아도 된다는 뜻이다.” Zotz의 말이다."
+        }
+      ]
+    },
+    "music/music-neko-pocket-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+          "cap": "Neko Pocket Studio"
+        },
+        {
+          "t": "p",
+          "x": "Neko Engineering이 이번 주 Kickstarter에 Neko를 공개했다. 무선 연결, 앰프·페달 모델링, 녹음에 AI 도구를 묶은 주머니 크기 스튜디오다. 곡을 익히거나 기타 리프를 완성된 편곡으로 키우는 데 초점을 뒀다."
+        },
+        {
+          "t": "p",
+          "x": "Neko 안에는 무선 잭 두 개가 들어가 충전된다. 하나는 기타나 베이스에, 다른 하나는 앰프나 믹서에 꽂는다. NAM 톤으로 하는 사운드 처리와 멀티트랙 녹음은 Neko가 맡는다."
+        },
+        {
+          "t": "p",
+          "x": "AI 스템 분리, 곡에서 기타를 음소거하고 그 자리를 직접 연주하는 기능, 화면에 띄우는 audio-to-tab, 생성형 AI가 만드는 반주 트랙과 편곡도 더했다. Time Machine 기능은 녹음 버튼을 안 눌렀어도 떠올린 아이디어를 다시 들려준다. NAM과 연동돼 Tone3000 캡처 라이브러리도 쓸 수 있다."
+        },
+        {
+          "t": "video",
+          "yt": "keuagUavq90"
+        },
+        {
+          "t": "p",
+          "x": "Kickstarter는 첫 24시간 만에 $10,000를 모았고 목표액 $30,000을 넘겨 $260k 이상이 모였다. 리워드가 붙는 후원은 $449부터, 소매가는 $599다. 후원자 배송은 2027년 4월 예정이다."
+        }
+      ]
+    },
+    "music/music-midi-repa-paper": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+          "cap": "그림 1: MIDI-REPA 프레임워크. AMT 시스템이 추출한 기호 타깃이 가벼운 프로젝션 헤드와 코사인 유사도 정렬 손실로 중간 오디오 표현을 지도한다."
+        },
+        {
+          "t": "p",
+          "x": "최신 text-to-music 모델은 갈수록 모델 용량, 데이터, 연산을 키우는 데 기대지만, 음악 구조는 여전히 밀도 높은 오디오에서 직접 배운다. 멜로디, 리듬, 화성, 구조는 기호 형태로 간결하게 표현할 수 있는데도 그렇다."
+        },
+        {
+          "t": "p",
+          "x": "연구진이 소개하는 MIDI-REPA는 표현 정렬 프레임워크다. 자동 음악 채보(AMT)에서 MIDI 지도 신호를 얻어 flow-matching DiT의 중간 표현을 정렬한다. 2026 ICME Academic Text-To-Music Challenge의 122M 파라미터 FluxAudio-S 베이스라인으로 무엇을, 어디서, 언제 정렬할지 따져 봤다. 성능은 MuScriptor-derived(MuScriptor에서 추출한) 피아노 롤을 flow 궤적 전체에 걸쳐 초기 DiT 레이어와 정렬할 때 가장 좋았다."
+        },
+        {
+          "t": "p",
+          "x": "MIDI-REPA는 추가 학습 데이터나 기법 없이도 ATTM 객관 지표에서 경쟁력을 유지하고, RTX 3090 한 장이면 약 31시간 만에 학습이 끝난다. 기호 지도가 text-to-music 생성을 개선하는 간단하고 저렴한 학습 신호라는 게 연구진의 결론이다. 채보 파이프라인, JamendoMIDI, 학습 코드, 오디오 샘플도 공개한다."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+          "cap": "그림 2: 베이스라인 생성 궤적의 여러 타임스텝에서 외삽한 최종 출력."
+        }
+      ]
+    },
+    "movies/movies-nvidia-editors-day": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mike McCarthy는 San Francisco에서 열린 Nvidia의 “Editor’s Day”에 참석했다. RTX Spark 노트북·데스크톱 라인업 출시를 앞두고 회사가 마련한 행사로, AI와 새 하드웨어로 로컬 AI 처리를 어떻게 돌리는지 다룬 발표가 하루 종일 이어졌다."
+        },
+        {
+          "t": "p",
+          "x": "통합 메모리 덕분에 GPUs가 시스템 메모리를 최대 전부까지 쓸 수 있어, 돌릴 수 있는 AI 모델의 선택지가 넓어진다. Nvidia는 Adobe와 손잡고 클라우드에서 돌던 Creative Cloud 기능 일부를 로컬로 가져왔다. Premiere의 이미지 마스킹과 오디오 향상, Photoshop의 개체 제거 같은 기능이다. 클라우드와 로컬 처리 중 하나를 고르는 UI 옵션도 새로 생겼다."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+        },
+        {
+          "t": "p",
+          "x": "두 번째로 내민 것은 MCP로 묶은 에이전트형 AI다. SparkN1x는 ARM 프로세서를 CPU로 쓰고 Windows 11 for ARM에서 돌아간다. McCarthy가 로컬 Qwen3.8-27B 모델로 Hermes 하네스를 시험해 보니 MCP로 Blender에 붙지 못했고, ComfyUI 프롬프트에서 단어 하나 바꾸는 데 40분이 걸렸다. “에이전트형 AI를 처음 써 본 경험은 긍정적이지 않았다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia 계산으로는 RTX Spark를 쉬지 않고 돌리면 한 달에 $1,200 어치의 AI-token을 처리할 수 있다. 실사용 테스트 대부분에서 McCarthy의 Surface Ultra 노트북은 자신의 Core i7 데스크톱 워크스테이션과 비슷한 성능을 냈다."
+        }
+      ]
+    },
+    "movies/movies-gibney-musk-avatar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+          "cap": "2026년 9월 8일 Venice, Italy에서 열린 제83회 Venice International Film Festival(베네치아 국제영화제) 'Musk' 포토콜에 참석한 Alex Gibney"
+        },
+        {
+          "t": "p",
+          "x": "Alex Gibney가 Elon Musk를 그린 “Musk”에서 인공지능은 창작상의 선택이면서 경고하는 이야기이기도 하다. Gibney는 IndieWire의 “Screen Talk” 팟캐스트에서 Musk와 닿은 통로는 X가 유일했고, 제작진이 대면 인터뷰를 따내기는 불가능했을 거라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "그래서 제작진은 일부러 uncanny-valley(불쾌한 골짜기) 느낌이 나는 Musk 아바타를 AI로 만들고, 그의 공개 발언을 모두 엮어 시뮬레이션 “인터뷰”를 꾸렸다. Gibney는 “Elon이 실제로 한 말을 방대한 데이터베이스로 모았고, 영화에 쓴 녹음은 바로 그 녹음이다”라고 말했다. 시뮬레이션 속에 산다는 생각에 Musk가 집착한다는 데서 떠올린 아이디어다."
+        },
+        {
+          "t": "p",
+          "x": "스튜디오 MakeMake와 함께 “세트를 디자인했다. 그가 입을 옷을 정했다. 게이머 의자에 앉히기로 했다 … 그런 다음 몇 가지 AI 도구로 그 인물을 오디오에 맞춰 동기화했다. 오디오는 실제 음성이다.”"
+        },
+        {
+          "t": "p",
+          "x": "영화는 AI를 경계하는 시선도 놓지 않는다. Gibney는 DOGE 직원들이 U.S. 시민 데이터를 대량으로 쌓아 둔 일, 그리고 그런 개인 데이터로 AI를 학습시키는 것을 두고 Geoffrey Hinton이 품은 우려를 짚는다."
+        }
+      ]
+    },
+    "movies/movies-fall2-flawless-vfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Michael and Peter Spierig 형제가 연출한 'Fall 2: Deadpoint'는 서바이벌 스릴러의 무대를 TV 타워 하나에서 태국(Thailand)의 가상 산 Mount Kwan으로 옮겼다. 태국의 한 채석장 절벽 위, 지상 약 여섯 미터 높이에는 판자 구조물을 세웠다. Koala FX는 디지털 매트 페인팅으로 만든 풀 CG Mount Kwan과 2.5D 세트 확장, CG 환경까지 400개가 넘는 VFX 숏을 납품했다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "첫 'Fall'에서는 Scott Mann의 Flawless가 AI 도구 TrueSync로 일부 장면을 다시 더빙했다. 등급 분류를 맞추느라 F-bombs 몇 개를 바꿔야 했던 장면들이다. Koala FX 매니징 디렉터 Dasha Sherman은 “우리는 거의 그들의 테스트 플랫폼이 됐다”며 “Fall 2에서는 R&D 과정에 더 가까웠다”고 말했다. 작업은 주로 수백 개 숏의 와이어 제거였다. Flawless가 도구를 다듬는 사이 Koala FX는 피드백을 보탰다."
+        },
+        {
+          "t": "p",
+          "x": "VFX 슈퍼바이저 Menelaos Pampoukidis는 업체가 쌓아 온 파이프라인 경험 덕에 AI 도구를 실제 현장 조건에서 꼼꼼히 시험해 볼 수 있었다고 말한다. 플레이트의 조명 깜빡임과 그레인 제거, 마무리 단계의 숏별 부분 수정에도 실무 조언을 보탰다. 두 회사의 협업은 현재 Scott Mann 연출로 제작 중인 'Fall 3'에서도 이어질 예정이다."
+        }
+      ]
+    },
+    "movies/movies-duvernay-14th-asteria": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+          "cap": "64th New York Film Festival '14th' 기자회견에 나선 Ava DuVernay"
+        },
+        {
+          "t": "p",
+          "x": "'13th'로 New York Film Festival의 문을 연 지 10년 만에, Ava DuVernay는 '14th'로 같은 영화제의 막을 내린다. 그래도 “속편이라고 하지는 않겠다”는 게 그의 말이다. 처음엔 출생시민권을 다루려던 영화였지만, 지금 벌어지는 사건들을 배경 삼아 14th Amendment(수정헌법 제14조) 전체를 들여다보는 작품으로 커졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+          "cap": "'14th'에 등장한 Ava DuVernay와 역사학자 Dr. David Blight"
+        },
+        {
+          "t": "p",
+          "x": "제작팀은 Library of Congress부터 Arkansas Historical Society, 가족 앨범까지 뒤져 사진을 모았고, DuVernay는 이를 복원하려고 Asteria Film Co.와 손잡았다. 한 번도 디지털화된 적 없는 슬라이드도 있었다. 그는 “그중 일부는 정말 심하게 훼손돼 있었다”고 했다. “영화에 넣을 만큼 해상도를 끌어올리기가 사실상 어렵다”는 바로 그 지점에서 Asteria의 AI-powered 도구가 힘을 보탰다."
+        },
+        {
+          "t": "p",
+          "x": "복원 작업은 입체 기법으로 이어졌다. “먼저 복원을 하고, 그다음 로토스코프를 하고, 약간의 움직임을 위해 아주 조금 애니메이션을 넣는다. 그곳 아티스트들이 그 도구들로 사진에 생명을 불어넣었다.” 영화는 11월 27일 일부 극장에서 먼저 개봉하고, 12월 4일 Netflix에 공개된다."
+        }
+      ]
+    },
+    "games/games-roblox-audioscape": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Roblox가 AI 오디오 스타트업 Audioscape의 팀을 영입했다. 이 팀의 기술은 앞으로 플랫폼의 크리에이터 도구에 들어간다."
+        },
+        {
+          "t": "p",
+          "x": "Audioscape 창업자 Sean Varah는 이 소식을 알리며 Roblox 크리에이터 경험 전반에서 오디오와 음악을 아우르는 더 넓은 로드맵에 집중하겠다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "팀이 그동안 만든 것은 AI-powered 오디오 검색·탐색 도구다. 크리에이터가 이름이 아니라 실제 소리로 사운드를 찾게 돕는다."
+        },
+        {
+          "t": "p",
+          "x": "최근 Audioscape는 오디오 탐색, 사운드 디자인, 오디오 프로그래밍, 믹싱, 테스트까지 아우르는 AI Audio Agent도 개발했다. triple-A 오디오 제작의 여러 요소를 Roblox 크리에이터 가까이로 끌어오려는 도구다."
+        },
+        {
+          "t": "p",
+          "x": "“Roblox에 합류한다는 것은 이 기술이 플랫폼의 기본 기능이 되어, 매일 Roblox에서 무언가를 만드는 수백만 명의 크리에이터가 쓸 수 있게 된다는 뜻입니다. 저는 크리에이터 경험 전반에서 오디오와 음악 저작을 위한 총체적인 로드맵을 이끄는 데 집중할 것이며, 앞으로가 무척 기대됩니다.” Varah는 이렇게 말했다."
+        },
+        {
+          "t": "p",
+          "x": "팀은 처음부터 Roblox만을 위해 도구를 만들었고, 이번 합류로 그 기술이 플랫폼 크리에이터에게 곧바로 닿게 됐다."
+        },
+        {
+          "t": "p",
+          "x": "Varah는 Audioscape를 믿어 준 초기 후원자와 자문가, 투자자, 그리고 팀을 도운 Roblox 크리에이터에게도 고마움을 전했다."
+        }
+      ]
+    },
+    "games/games-scam-with-friends": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+          "cap": "10월 16일 오후 5시 기준 스팀 전 세계 최고 인기 게임 TOP 10 (자료출처: 스팀)"
+        },
+        {
+          "t": "p",
+          "x": "협동 시뮬레이션 신작 '스캠 위드 유어 프렌즈(Scam With Your Friends)'가 16일 스팀 앞서 해보기로 출시된 후 전 세계 최고 인기 게임 최상위권에 올랐다. 생성형 AI를 상대로 사기극을 벌인다는 설정과 협동 과정에서 발생하는 재미있는 상황이 맞물리며 게이머들의 이목을 끌었다."
+        },
+        {
+          "t": "p",
+          "x": "콜센터를 가장한 사기집단을 배경으로 한 협동게임으로, 최대 6인이 사무실 직원이 되어 정해진 근무 시간 안에 팀 전체의 일일 수익 할당량을 채워야 한다. 할당량 달성에 실패하면 상사의 가혹한 인사 평가가 내려오고, 일차가 지날수록 목표 금액이 상승한다."
+        },
+        {
+          "t": "p",
+          "x": "생성형 AI 고객을 상대로 한 실시간 통화와 해킹이 주를 이룬다. 걸려오는 전화를 받은 뒤 마이크에 직접 말하거나 텍스트를 입력해 AI 고객의 의심을 줄이고 기프트 카드 번호나 계좌 이체를 유도해야 한다. 통화로 주의를 끄는 동안 피해자의 PC에 원격 접속해 개인정보를 빼내는 방법도 있다."
+        },
+        {
+          "t": "video",
+          "yt": "e4BhBUryVFY"
+        },
+        {
+          "t": "p",
+          "x": "스팀 유저 평가는 '대체로 긍정적(705명 참여, 71% 긍정적)'이다. 정해진 대본 없이 즉흥적인 거짓말로 AI 고객을 속이는 과정과 일과 종료 후 통화 하이라이트를 함께 보며 진행되는 상사의 인사 평가가 포인트라 평가됐다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+          "cap": "스캠 위드 유어 프렌즈 스크린샷 (사진출처: 게임 스팀 페이지)"
+        },
+        {
+          "t": "p",
+          "x": "다만 불안정한 서버로 인한 잦은 응답 불가 현상과 음성 인식 오류, 프레임 저하 등 최적화가 문제로 지적됐다. 특히 한국어를 포함한 비영어권 언어에서 응답 지연이 심해 정상적인 진행이 어렵다고 언급됐다. AI 서버 유지비로 인한 조기 서비스 종료나 유료 구독제 전환에 대한 우려도 나왔다."
+        }
+      ]
+    },
+    "games/games-oblivion-claude-fpsfix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Elder Scrolls IV: Oblivion Remastered는 출시 이후로 CPU 병목, 들쭉날쭉한 프레임 타임, 이동 중 끊김에 시달렸다. Reddit 사용자 LTSharpe는 Ryzen 7 5800X 시스템을 RTX 2070 SUPER에서 Radeon RX 9070 XT로 업그레이드하고도 문제가 그대로이자 Claude Opus 5.5에 도움을 청했다. Claude Opus 5.5는 게임 코드에서 근본적인 비효율 몇 가지를 짚어낸 것으로 알려졌다."
+        },
+        {
+          "t": "p",
+          "x": "이어 약 2주 반 동안 AI-assisted 리버스 엔지니어링과 프로파일링, 최적화 작업이 이어졌다. 전문 개발 경력이 없는 LTSharpe는 Claude에게 지시해 엔진 수준 최적화 약 40개를 만들었고, 이를 오픈소스 모드 Oblivion Remastered Performance Fix로 묶었다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
+        },
+        {
+          "t": "p",
+          "x": "알려진 바로는 이 게임이 매 프레임 해와 달의 조명을 새로 구성했고 불필요한 메모리 할당을 되풀이했으며 DirectX 12 명령 준비도 대부분 한 스레드에 몰려 있었다. 모드는 멀티스레딩과 메모리 관리를 손보면서도 Nanite, Lumen 같은 시각 설정은 그대로 둔다고 한다."
+        },
+        {
+          "t": "video",
+          "yt": "K8WkCz6cuHk"
+        },
+        {
+          "t": "p",
+          "x": "4K 환경에서 FSR Performance와 Frame Generation을 켜고 Imperial City를 비행하며 측정하자 평균 FPS는 72에서 102로(+41%) 올랐고, 50 ms를 넘는 끊김은 회당 19.5회에서 4.8회로 줄었다. Cheydinhal에서는 64 FPS에서 91 FPS로(+43%) 뛰었다. 다만 결과는 주로 Ryzen 7 5800X/RX 9070 XT 단일 시스템에서 나왔다. v1.0.0 베타에는 소스 코드와 벤치마크 도구가 함께 들어 있다."
+        }
+      ]
+    },
+    "games/games-unity-aijam-busan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+          "cap": "유니티 AI 게임잼 포스터(사진제공: 유니티)"
+        },
+        {
+          "t": "p",
+          "x": "유니티와 한국게임산업협회가 '유니티 AI 게임잼' 참가자를 10월 12일부터 20일까지 모집한다고 밝혔다. 이번 행사는 국내 최대 게임쇼인 지스타 2026 개막에 앞서 11월 18일부터 19일까지 부산 벡스코에서 24시간 무박 일정으로 열릴 예정이다."
+        },
+        {
+          "t": "p",
+          "x": "참가 신청은 유니티 스퀘어에서 10월 20일까지 진행되며, 신청 규모에 따라 조기 마감될 수 있다. 전공이나 직무 경험에 관계없이 게임 개발과 창작에 관심 있는 누구나 지원할 수 있다. 유니티는 서류 심사를 거쳐 최종 참가자 55명을 선발할 계획이며, 팀은 현장에서 직접 구성된다."
+        },
+        {
+          "t": "p",
+          "x": "오픈AI(OpenAI)와 메쉬AI(Meshy.ai)가 공식 스폰서로 참여한다. 참가자들은 유니티 CLI(Unity CLI)와 코덱스(Codex) 플러그인 등 유니티의 AI 기능을 활용할 수 있다. 유니티는 참가자 전원에게 50달러(한화 약 6만 7,500원) 상당의 AI 도구 활용 크레딧을 지급하며, 오픈AI는 크레딧과 소속 엔지니어의 현장 멘토링을, 메쉬AI는 텍스트나 이미지만으로 3D 에셋을 생성할 수 있는 크레딧을 제공한다."
+        },
+        {
+          "t": "p",
+          "x": "수상팀에게는 부문에 따라 지스타 2026 현장의 유니티 부스 게임 전시 기회, 챗GPT 프로 1년 이용권, 유니티 글로벌 및 한국 공식 블로그 인터뷰 기회 등이 제공된다. 10월 27일에는 유니티 코리아 유튜브 라이브로 사전 웨비나가 열린다."
+        },
+        {
+          "t": "p",
+          "x": "송민석 유니티 코리아 대표이사는 \"AI는 아이디어를 게임으로 구현하는 속도를 높이고 창작자가 더 과감하고 다양한 시도를 할 수 있도록 돕는 든든한 파트너가 되고 있다\"고 말했다."
+        }
+      ]
+    },
+    "books/books-kyobo-flitto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-768x576.jpg",
+          "cap": "교보문고 광화문점에서 프랑스인 고객과 매장 직원이 플리토의 AI 통번역 솔루션 ‘보글 존(Vogl Zone)’ 미니 디스플레이를 이용해 대화하고 있다. (사진 제공: 플리토)"
+        },
+        {
+          "t": "p",
+          "x": "도서 분야 전문용어·작가명 사전 학습으로 번역 정확도 개선…자동 언어 감지 기능 지원"
+        },
+        {
+          "t": "p",
+          "x": "매장별 미니 디스플레이·태블릿 앱 활용…시범 운영 거쳐 정식 도입 추진"
+        },
+        {
+          "t": "p",
+          "x": "외국인 관광객의 방문이 늘면서 국내 오프라인 유통 매장에서도 다국어 고객 응대의 중요성이 커지고 있다. 특히 서점은 책의 제목과 저자, 장르 등 고유명사가 많아 일반적인 상품 안내보다 정확한 번역이 요구된다. AI 데이터 및 솔루션 전문기업 플리토가 교보문고 주요 매장에 AI 통번역 솔루션을 적용하며 도서·문화 분야로 사업 영역을 확장한다."
+        },
+        {
+          "t": "p",
+          "x": "플리토(대표 이정수)는 교보문고 광화문점과 강남점, 동대문점에 AI 기반 통번역 솔루션 ‘보글(Vogl)’을 공급하고 외국인 고객 응대를 위한 기술 실증(PoC)을 진행했다."
+        },
+        {
+          "t": "p",
+          "x": "이번 실증에서는 매장의 운영 환경과 고객 응대 방식에 따라 서로 다른 형태의 솔루션을 적용했다. 광화문점과 강남점에는 고객 상담에 특화된 미니 디스플레이 ‘보글 존(Vogl Zone)’을 설치하고, 동대문점에서는 태블릿에 보글 앱을 탑재해 직원이 이동하면서 외국인 고객을 응대할 수 있도록 했다."
+        },
+        {
+          "t": "p",
+          "x": "보글은 오프라인 매장에서 발생하는 음성 인식 오류와 번역의 부정확성을 줄이는 데 초점을 맞춘 AI 통번역 솔루션이다. 자동 언어 감지 기능을 통해 직원이 고객의 언어를 일일이 선택하지 않아도 다국어 상담을 진행할 수 있도록 지원한다."
+        },
+        {
+          "t": "p",
+          "x": "한강·베르나르 베르베르 등 작가명 학습…도서·문화 분야 번역 정확도 개선"
+        },
+        {
+          "t": "p",
+          "x": "플리토는 이번 교보문고 실증을 위해 서점에서 자주 사용되는 도서 분류명과 작가명 등을 사전에 학습시켰다. 자기계발과 판타지, 역사 등 장르별 용어는 물론 한강과 베르나르 베르베르 등 주요 작가의 이름을 반영해 고유명사 인식과 번역의 정확도를 높였다는 설명이다."
+        },
+        {
+          "t": "p",
+          "x": "이는 일반적인 상품 정보와 달리 작품명이나 작가명, 장르에 대한 이해가 필요한 서점의 특성을 고려한 것이다. 플리토는 높은 음성 인식률과 자동 언어 감지 기능이 현장 직원들의 외국인 고객 응대에 도움이 됐다고 설명했다. 다만 구체적인 인식률이나 번역 정확도 개선 수치는 공개하지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "이번 교보문고 적용은 플리토의 거치형 오프라인 AI 통번역 솔루션이 도서·문화 리테일 분야에 진출한 첫 사례다. 플리토는 이를 통해 다양한 상품과 문화 콘텐츠를 다루는 매장에서도 AI 통번역 기술을 활용할 수 있는 가능성을 확인했다."
+        },
+        {
+          "t": "p",
+          "x": "이정수 플리토 대표는 “핵심 상권을 찾는 글로벌 방문객이 다양해지는 가운데 교보문고와 언어 장벽 없는 오프라인 환경을 구축하게 되어 뜻깊다”며 “이번 협력은 단순 안내를 넘어 인간의 주관과 문화적 맥락이 집약된 영역으로 플리토의 AI 통번역 기술력을 확장한 주요 사례”라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "플리토는 이번 실증 결과를 바탕으로 교보문고 매장에 보글의 정식 도입을 추진할 계획이다. 아울러 창고형 매장과 패션·라이프스타일 스토어 등 유통 채널을 비롯해 호텔과 의료관광 등 전문적인 다국어 응대가 필요한 서비스 분야로 적용 범위를 확대할 방침이다."
+        }
+      ]
+    },
+    "books/books-naav-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp"
+        },
+        {
+          "t": "p",
+          "x": "많은 인도 독자에게 영어는 여전히 자국 문학 작품 앞을 가로막는 장벽이다. 역사학자이자 작가, Naav AI 공동 창업자인 Vikram Sampath는 AI로 이 벽을 허물려 한다. 작가의 목소리는 지키면서 책을 인도 언어로 읽게 하겠다는 구상이다."
+        },
+        {
+          "t": "p",
+          "x": "Naav AI는 “Navigating AI Across Vocabularies”의 약자로, 2025년 1월 설립됐다. 에이전트형 AI 프레임워크로 장편 콘텐츠를 번역하고 텍스트를 오디오와 비디오 등의 형식으로 바꾼다. 주요 기술 파트너는 Sarvam AI이고 Google과 OpenAI의 모델도 함께 쓴다. 출판 고객사로는 BluOne Ink가 있다."
+        },
+        {
+          "t": "p",
+          "x": "Sampath에 따르면 인도 언어로 옮긴 초벌 번역의 정확도는 대개 80%에서 85% 수준이다. 그래서 마이수루(Mysuru) 인도언어중앙연구소(Central Institute of Indian Languages) 전문가를 비롯한 언어 전문가들이 손을 본다. 400쪽 분량의 책도 이 도구로는 한 시간가량이면 번역되고, 사람의 검토까지 거쳐도 서너 주면 출간할 수 있는 번역본이 나온다. 기존 방식이라면 보통 300쪽 책 한 권에 여섯 달 정도 걸릴 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Naav AI는 인도 언어 11개에 독일어, 러시아어, 프랑스어, 스페인어, 이탈리아어를 더해 지원한다. 번역서에는 언어 전문가의 이름을 번역 보조자라는 뜻의 ‘Anuvad Sahayak’으로 올릴 수 있고, 저작권은 출판사가 갖는다. 오디오북 플랫폼 ZuNAAV-FM도 개발 중이다."
+        },
+        {
+          "t": "p",
+          "x": "“특정 언어로 독창적인 콘텐츠를 만드는 것이 아니다. 우리는 번역을 도울 뿐이다.” Sampath의 말이다."
+        }
+      ]
+    },
+    "books/books-chatgpt-audiobooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "PDF to MP3라는 새 도구는 PDFs, 보고서, eBooks를 내레이션 오디오로 바꿔 준다. OpenAI의 Codex 등 AI 어시스턴트와 연결되니, 문서를 이동 중에 귀로 들을 수 있다."
+        },
+        {
+          "t": "video",
+          "yt": "1qiH_SeDyyc"
+        },
+        {
+          "t": "p",
+          "x": "작업은 두 갈래다. 기존 OpenAI 또는 Codex 구독이 MCP 연결로 문서 처리를 맡고, 음성 내레이션은 OpenAI나 Google Gemini API가 만든다. 그래서 별도 API 키가 필요하고 비용이 더 들 수 있다. 샘플 오디오는 “Audible 수준은 아니지만 형편없지도 않다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/r7RS5joUHjwMs8ExzfdnRG.jpg"
+        },
+        {
+          "t": "p",
+          "x": "설정은 간단하다. 서비스의 MCP 통합으로 Codex 같은 지원 어시스턴트를 연결해 문서를 넣고, OpenAI나 Gemini 같은 텍스트 음성 변환(text-to-speech) 제공자를 정한 다음 서비스 플레이어에서 결과를 재생하면 된다. 필자는 전체 과정에 약 20분이 걸렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SHA9X5FANXyYEd8hgg8NBD.jpg"
+        },
+        {
+          "t": "p",
+          "x": "API 키로 과금 요청이 승인될 수 있으니 서비스가 인증 정보를 어떻게 다루는지, 업로드한 문서를 어떻게 보관하는지 확인하고 민감한 파일은 올리지 않는 편이 낫다. 표나 도표, 특이한 서식, 복잡한 이름은 자동 내레이션이 제대로 읽지 못할 수도 있다."
+        }
+      ]
+    },
+    "books/books-frankfurt-translators": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "AI는 개인의 하루 업무를 덜어 주면서도 그 직업의 앞날은 더 불안하게 느끼게 만들 수 있다. 이 긴장은 10월 7일 프랑크푸르트 도서전 올해 주빈국인 체코관에서 열린 세션의 연구 발표 두 건에서 드러났다."
+        },
+        {
+          "t": "p",
+          "x": "유럽문학번역가협회(CEATL)의 2026년 설문에는 1,785명이 응답했다. 77% 이상이 번역·출판 분야에서 생성형 AI의 발전을 부정적으로 봤고, 37%는 직업을 그만둘까 고민한 적이 있었다. 약 70%는 업무에 AI를 써 봤으며, 30% 가까이는 의뢰가 줄었고 그 원인이 AI라고 답했다."
+        },
+        {
+          "t": "p",
+          "x": "출판계 여러 직군에서 142건의 응답을 모은 체코의 HumanAId 설문은 좀 더 실용적인 그림을 보여 줬다. 열에 아홉 가까이가 AI를 쓰는 중요하거나 결정적인 이유로 시간 절약을 들었다. 마케팅·디자인 전문가는 도구를 더 적극적으로 썼고 편집자와 교정자는 더 조심스러웠다. “핵심 갈등은 AI 사용자와 비사용자 사이가 아니라 효율성과 창의성 사이에 있다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.55-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "별도 패널 “AI in Culture: ‘Truth or Fiction?’”에서 Ricardo Almeida는 AI가 출판에 끼친 영향을 “속도”로, Miha Kovač는 “양”으로 요약했다. Shimmr AI의 Nadim Sadek은 “진짜 과제는 발견 가능성”이라고 했다."
+        }
+      ]
+    },
+    "gadgets/gadgets-orangepi-o1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
+          "cap": "OrangePi O1: 포트를 넉넉히 갖춘 새 싱글보드 컴퓨터가 나왔다"
+        },
+        {
+          "t": "p",
+          "x": "OrangePi O1은 새로운 싱글보드 컴퓨터(SBC)다. AI-centric(AI 중심) 워크로드에서는 Raspberry Pi보다 뚜렷하게 앞설 수 있고, 일반 컴퓨팅용으로도 손색없다. 보드의 핵심은 Sophgo BM1688 SoC로, ARM Cortex-A53 CPU 코어 여덟 개에 RISC-V C906 코프로세서를 붙였다. 로컬 AI 가속은 내장 TPU가 맡으며, 호환 워크로드에서 최대 16 TOPS(INT8)를 낸다."
+        },
+        {
+          "t": "p",
+          "x": "메모리는 8 GB 또는 16 GB LPDDR4/LPDDR4X RAM이고, 최대 128 GB 용량의 eMMC 모듈을 옵션으로 더할 수 있다. 저장장치 확장성은 온보드 플래시에서 그치지 않는다. PCIe 3.0 NVMe SSDs용 M.2 슬롯, 전용 SATA 인터페이스, 표준 microSD 카드 슬롯까지 갖췄다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
+          "cap": "SBC로는 드물게 전용 SATA 커넥터를 갖췄다"
+        },
+        {
+          "t": "p",
+          "x": "90 x 70 mm 크기의 이 단독형 보드는 I/O 포트를 빠짐없이 갖춰, 캐리어 보드 없이 상자에서 꺼내자마자 데스크톱 PC로 쓸 수 있다. 물리 단자는 듀얼 Gigabit Ethernet 포트, USB 2.0 포트 두 개, USB 3.0 포트 두 개, 최대 4K 영상을 내보내는 HDMI 2.0 포트다. SBC답게 MIPI 커넥터, CAN 버스, RS485, 센서·액추에이터용 확장 헤더 같은 전용 인터페이스도 넣었다. 전원은 USB Type-C로 20 V를 받고, 무선 네트워킹도 된다. Orange Pi O1은 지금 구할 수 있는 물량이 많지 않다."
+        }
+      ]
+    },
+    "gadgets/gadgets-phonebot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "UCLA 연구진이 값싼 스마트폰에 감지와 연산을 맡기는 소형 오픈소스 휴머노이드 로봇 PhoneBot을 만들었다. 폰을 뺀 로봇 하드웨어 비용은 약 $400다. 키 483 mm, 무게 1.8 kg에 서보 모터 13개로 다리와 회전하는 몸통을 움직인다."
+        },
+        {
+          "t": "p",
+          "x": "PhoneBot은 전용 카메라나 모션 센서, 값비싼 온보드 컴퓨터를 두지 않고 폰에 기댄다. 폰 카메라로 사람을 추적하고, 내장 IMU는 로봇이 균형을 잡고 학습한 보행 동작을 해내도록 돕는다. 연구진은 Android 폰 네 대를 시험했는데, 2017년형 Honor 9와 약 $50~$80짜리 단말기 세 대가 들어갔다. 앱은 TensorFlow Lite로 보행 정책을 돌리고, 카메라는 사람 감지와 자세 추정을 맡는다."
+        },
+        {
+          "t": "p",
+          "x": "보행 제어기는 시뮬레이션에서 강화학습으로 훈련했다. 학습 샘플을 좌우로 뒤집어 관절 각도 대칭 오차를 0.254 라디안에서 0.003 라디안까지 낮췄다. 시연에서는 걷기, 엎드렸다가 일어나기, 발을 움직이지 않고 카메라를 사람 쪽으로 돌리기를 보여 줬다. 서보 출력이 낮고 평지에서만 훈련했으며 팔이 없다는 점은 아직 한계다. 연구 내용은 arXiv에 공개됐다."
+        }
+      ]
+    },
+    "gadgets/gadgets-nothing-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "믿을 만한 소식통에 따르면 Nothing은 ChatGPT 통합과 카메라를 갖춘 자체 AI 스마트 안경을 개발 중이며, 모델은 성격이 전혀 다른 두 가지다."
+        },
+        {
+          "t": "p",
+          "x": "WinFuture의 Roland Quandt는 Bluesky에서 Nothing이 새 스마트 안경 두 모델의 출시를 준비하고 있고, 둘은 완전히 다를 것 같다고 전했다."
+        },
+        {
+          "t": "p",
+          "x": "한 모델은 내장 카메라와 번역 같은 AI 기능을 갖춰 Ray-Ban Meta 라인업과 비슷할 전망이다. Android를 적극적으로 쓰는 Nothing이니 Android XR 흐름에 올라탈 법도 하지만, Quandt에 따르면 이 안경은 Gemini가 아니라 ChatGPT와 통합돼 그럴 가능성은 낮아 보인다. Nothing으로서는 새삼스러운 방향 전환도 아니다. 회사는 한동안 다른 제품에도 ChatGPT 통합을 넓혀 왔다."
+        },
+        {
+          "t": "p",
+          "x": "다른 스마트 안경은 훨씬 단순한 쪽을 택할 것으로 보인다."
+        },
+        {
+          "t": "p",
+          "x": "이 모델은 통화를 받고 폰의 음성 비서를 쓸 수 있는 헤드폰처럼 작동하지만, 카메라나 직접적인 AI 통합은 없다. 두 모델 모두 다른 스마트 안경에서도 흔한 변색 렌즈, 이른바 “transition” 렌즈를 제공한다고 알려졌다."
+        },
+        {
+          "t": "p",
+          "x": "앞선 보도는 Nothing 스마트 안경의 출시 시점을 2027년 중으로 짚었다. 이번 이중 전략은 확실히 흥미롭다. Nothing이 앞으로 AI 기기에 전력을 쏟을 것이라는 최근 보도를 생각하면 더 그렇다."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-zoom": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google은 Pixel 11 Pro에서 Pixel 10 Pro의 100x보다 늘어난 120x Pro Res 줌을 내놨다. 더 밝아진 망원 카메라에 생성형 AI를 더하면 더 먼 거리에서도 디테일을 더 많이 담을 수 있다는 게 Google의 주장이다. Android Authority는 일주일 동안 간판, 기념물, 야생동물, 사람을 찍으며 이 기능을 시험했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
+          "cap": "120x에서는 800년 된 델리(Delhi) 첨탑의 서예 문양 같은 디테일까지 보인다."
+        },
+        {
+          "t": "p",
+          "x": "멀리 있는 글자와 건축 조각은 읽힐 만큼 나왔지만, 디지털 샤프닝과 스무딩이 눈에 띄었고 질감은 그림 같았다. AI가 창유리에 없는 무늬를 지어낸 경우도 있었다. 어두운 곳에서는 작은 글씨가 전혀 알아볼 수 없는 글자로 뭉개졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
+          "cap": "120x AI-enhanced(AI 보정) 줌으로 찍은 호숫가의 검은 새."
+        },
+        {
+          "t": "p",
+          "x": "야생동물의 털과 깃털은 그럴듯했지만 불쾌한 골짜기에 가까웠다. 극단적인 줌에서는 Google의 처리가 빠진 디테일을 채워 넣는데, 그 결과물은 없던 디테일까지 만들어 낼 수 있는 근사치다. 화면에 사람이 감지되면 Pixel 11 Pro는 생성형 업스케일링을 아예 건너뛴다."
+        },
+        {
+          "t": "p",
+          "x": "정리하면 마케팅용 눈속임 이상이다. 먼 물체를 살필 때 쓸모가 있지만 장망원 렌즈를 대신하지는 못하니, 기대는 적당히 하는 편이 좋다."
+        }
+      ]
+    },
+    "science/science-riverlane-nvidia-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+        },
+        {
+          "t": "p",
+          "x": "양자 오류 정정에는 어떤 오류가 났는지 가려내는 디코더가 필요하다. 디코더는 하드웨어 측정값으로 정한 수치 설정, 곧 가중치에 기대어 작동한다. 그런데 큐비트 주파수가 바뀌고 결함이 생겼다 사라지며 게이트 성능도 달라지니, 가중치는 점점 낡아 다시 보정해야 한다."
+        },
+        {
+          "t": "p",
+          "x": "Riverlane은 수동 조정 없이 실험 데이터에서 곧바로 더 나은 디코더 설정을 학습하는 AI 기반(AI-based) 보정 루프를 개발했다. AI가 설정을 제안하면 NVIDIA H100 GPU에서 하드웨어 데이터로 시험해 보고, 논리 오류를 줄이는 설정을 먼저 고른다."
+        },
+        {
+          "t": "p",
+          "x": "GPUs에 맞게 고친 Riverlane의 Local Clustering Decoder를 쓰자 단일 CPU 코어에서 삼 분 걸리던 표면 부호(surface-code) 학습 주기가 2.8초로 줄었다. H100은 초당 사백만 개 넘는 신드롬을 디코딩하는데, CPU 코어 하나는 약 59,000개 수준이다."
+        },
+        {
+          "t": "p",
+          "x": "루프가 몇 시간이 아니라 몇 분 만에 끝나면 하루 한 번이 아니라 실험할 때마다 돌릴 수 있다. NVIDIA의 Sam Stanwyck는 “Riverlane은 AI로 오류 정정이 변화하는 양자 하드웨어를 따라가도록 돕고 있다”고 말했다."
+        }
+      ]
+    },
+    "science/science-chatbot-language-personality": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "중국과학기술대학(University of Science and Technology of China) 연구진은 ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5, Le Chat까지 챗봇 다섯 개에 Big Five Inventory-2 설문을 영어와 중국어로 언어당 30번씩 실시했다. Le Chat은 프랑스어로도 시험했다."
+        },
+        {
+          "t": "p",
+          "x": "같은 언어 안에서는 성격 프로필이 꽤 일관됐다. 모델들은 스스로를 협조적이고 믿음직하며 부정적 정서는 거의 없다고 묘사했다. 그런데 언어를 바꾸면 점수가 달라졌고, 달라지는 방향도 모델마다 제각각이었다. ChatGPT-4o의 개방성은 평균 영어 4.74, 중국어 4.03이었고 DeepSeek-V3는 4.38과 4.81이었다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+          "cap": "사람과 챗봇의 응답을 언어별로 비교한 다섯 가지 특성의 평균 점수."
+        },
+        {
+          "t": "p",
+          "x": "개발 국가로 설명되는 부분은 일부였고, 사람 기준 집단과 완전히 일치한 모델은 하나도 없었다. 점수는 감정이 아니라 설문 응답일 뿐이다. 챗봇을 설문 참여자 대신 쓰기가 위험한 이유다. 연구는 Royal Society Open Science에 실렸다."
+        }
+      ]
+    },
+    "science/science-satellite-reentry-drag": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+          "cap": "Cosmos-482, NEOWISE, Long March 4B 단의 예측 낙하 시각과 보고된 낙하 시각 비교."
+        },
+        {
+          "t": "p",
+          "x": "통제되지 않는 위성이나 로켓 단은 언제 재진입하느냐에 따라 떨어지는 곳이 달라진다. 시각이 일 분만 어긋나도 낙하 지점은 약 460 km 벌어질 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 지구 중력, 지구의 편평도, 대기 항력 같은 궤도 물리에 신경망을 결합했다. 신경망은 약 11년 치 추적 데이터와 우주 기상 예보로 물체마다 탄도 계수를 학습하는데, 공기가 물체를 얼마나 세게 감속시키는지 나타내는 값이다. 추정치는 하강하는 동안 세 시간마다 갱신된다. 불확실성 구간은 구성 요소 일부를 무작위로 끈 채 신경망을 100번 돌려 얻는다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+          "cap": "신경망이 탄도 계수를 예측하고 불확실성 구간을 산출하는 방식."
+        },
+        {
+          "t": "p",
+          "x": "Cosmos-482, NASA의 NEOWISE 망원경, Long March 4B 상단으로 사후 검증해 보니 보고된 재진입 시각은 매번 예측 구간 안에 들었다. 계수를 고정하면 구형이 아닌 두 물체의 예측이 31분, 36분 어긋나 구간을 벗어났다. 시험한 물체는 세 개뿐이고, 연구팀은 아직 궤도에 있는 물체로도 시도해 볼 계획이다. 연구는 Acta Astronautica에 실렸다."
+        }
+      ]
+    },
+    "science/science-missing-black-holes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+          "cap": "태양과 비슷한 별이 블랙홀 주위를 도는 모습을 그린 일러스트."
+        },
+        {
+          "t": "p",
+          "x": "우리은하에는 1000만 개 넘는 블랙홀이 생겨났지만 천문학자들이 찾아낸 건 70개뿐이다. U.K.(영국) 프로젝트 Black Hole Hunters는 자원봉사자를 모아 NASA의 TESS 망원경 자료에서 결정적 신호를 찾는다. 블랙홀이 동반성 앞을 지나면서 그 빛을 잠깐 증폭하는 현상이다."
+        },
+        {
+          "t": "p",
+          "x": "자동 알고리즘이 먼저 수백만 개의 별을 훑어 가장 뚜렷한 후보를 추린다. 하지만 인공지능은 어수선한 우주의 현실에 약하다. 항성 플레어나 자연적인 맥동에 알고리즘이 속아 거짓 양성이 나올 수 있다. 사람 자원봉사자가 중요한 까닭이다. 그래프 하나를 여러 사람에게 보내 개인의 실수가 평균으로 상쇄되게 한다."
+        },
+        {
+          "t": "p",
+          "x": "이 후보 목록이 있으면 천문학자들은 부족한 망원경 시간을 특정 별에 집중할 수 있다. 2021년 10월 Zooniverse에서 시작한 뒤로 프로젝트에는 자원봉사자 23,000명 가까이가 참여했고 분류는 1200만 건을 넘었다. 공동 책임자 Adam McMaster는 “수천 건의 새로운 발견이 나올 수 있는 만큼, 받을 수 있는 도움은 모두 필요하다”고 말했다."
+        }
+      ]
+    },
+    "politics/politics-newsom-ai-verification-order": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+          "cap": "Gavin Newsom 캘리포니아 주지사 [File: Godofredo A Vasquez/AP Photo]"
+        },
+        {
+          "t": "p",
+          "x": "1월에 마지막 임기를 마치는 Gavin Newsom 캘리포니아 주지사는 재임 중 마지막 행정명령 가운데 하나로 인공지능 모델의 독립 검증을 요구했다. 통제를 벗어나 피해를 일으킬 수 있는 AI 에이전트를 멈출 킬스위치를 만들 전문가 위원회도 꾸렸다."
+        },
+        {
+          "t": "p",
+          "x": "Newsom은 2024년 비슷한 요건을 담은 법안 SB 1047에 거부권을 행사하면서 이 법안이 “이 기술의 가능성을 꺾는 일”이 될 것이라고 말했다. 그러다 2025년 10월에는 대형 개발사가 특정 안전 사고를 공개하도록 한 수정 프런티어 AI 법안에 서명했다."
+        },
+        {
+          "t": "p",
+          "x": "Newsom은 이번 명령으로 안전 사고의 정의를 넓히고 킬스위치를 검토하며, 거부했던 법안의 다른 조치도 담으려 한다. 보도에 따르면 AI 기업들은 최근 몇 달 동안 내부 테스트와 실제 환경 테스트에서 안전 사고 수천 건을 겪었다."
+        },
+        {
+          "t": "p",
+          "x": "CAIDP의 Christabel Randolph는 이 명령이 SB 1047의 한 측면인 킬스위치만 담았고, 그마저 해당 법안의 사전(ex ante) 종료 의무보다 약하다고 말했다. DAIR의 Alex Hanna는 Newsom이 “과감한 계획 없이 관심을 기울이고 있음을 보여주고 있다”고 말했다. 주지사실은 “AI의 위험에 대응하는 데 Newsom 주지사보다 앞장선 주지사는 없었다”고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Newsom은 캘리포니아 비상서비스국(California Emergency Services Office)에 11월 15일까지 AI 규제 권고안을 보내라고 요청했다. 이를 이행할 방법을 논의하려고 특별 입법 회기를 소집할 수도 있는데, 임기가 끝나기 전이 될 수도 있다."
+        }
+      ]
+    },
+    "politics/politics-brazil-tse-meta-equal-treatment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+          "cap": "TSE의 Bellizze가 Meta에 Lula와 Flávio Bolsonaro 캠프 간 동등한 대우를 보장하라고 명령했다. (montagem/JuriNews)"
+        },
+        {
+          "t": "p",
+          "x": "고등선거법원(TSE)의 Marco Aurélio Bellizze 판사는 15일 목요일, Facebook·Instagram·WhatsApp을 운영하는 Meta에 Luiz Inácio Lula da Silva(PT)와 Flávio Bolsonaro(PL) 캠프를 동등하게 대우하도록 조치하라고 결정했다. 따르지 않으면 하루 R$500,000의 벌금을 물어야 한다."
+        },
+        {
+          "t": "p",
+          "x": "Lula 캠프는 게시물 배포가 제한됐다고 문제를 제기하며, Meta AI가 Flávio 관련 비슷한 콘텐츠는 허용하면서 PT에 우호적인 이미지 생성은 막았다고 주장했다."
+        },
+        {
+          "t": "p",
+          "x": "이번 결정으로 Meta는 배포를 불평등하게 줄이거나 추천을 제한하거나 검색 결과를 제한할 수 없다. 두 캠프에 같은 AI 이미지 생성 기준을 적용해야 하고, 정치·선거 관련 요청을 받아들이거나 거절하는 기준도 공개해야 한다."
+        },
+        {
+          "t": "p",
+          "x": "Bellizze는 2026년 10월 25일 결선 투표를 언급했다. AI 오류를 두고는 예비 검토에서 프롬프트 통제 도구가 “오류를 보였다”고 했지만, 이것이 의도된 기준이었거나 체계적으로 반복됐다는 증거는 없다고 밝혔다. Meta는 자사 AI 도구에서 후보자 이미지 생성을 일시적으로 제한했다고 밝혔다."
+        }
+      ]
+    },
+    "politics/politics-wesleyan-ai-ad-disclaimers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+          "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Wesleyan Media Project의 새 자료에 따르면 2026년 중간선거를 앞두고 정치 캠프와 단체들은 일부라도 AI 도구로 만든 광고에 $137 million(1억3,700만 달러) 넘게 썼다. 이 단체가 2024년 선거 주기에 확인한 같은 종류의 지출은 $50,000이 채 안 됐다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 올해 34개 주에서 AI로 만든 정치 광고 220건을 확인했다. 실제로는 더 많을 가능성이 높다. 정치 광고에 AI 사용 고지를 요구하는 주는 30곳뿐이고, 고지 문구를 넣은 광고는 27%에 그쳤다."
+        },
+        {
+          "t": "p",
+          "x": "확인된 광고의 81%와 지출의 88%가 공화당 후보와 단체 몫이었고, 민주당이 후원한 광고는 12%였다. 절반 가까이는 실제 정치인을 딥페이크로 그렸다."
+        },
+        {
+          "t": "p",
+          "x": "8월 뉴욕주 민주당은 공화당 주지사 후보 Bruce Blakeman 캠프가 AI 고지법을 어겼다며 주 선거관리위원회에 진정을 냈다. Blakeman 캠프는 풍자 광고에는 고지가 필요 없다고 주장한다."
+        }
+      ]
+    },
+    "politics/politics-china-ai-export-catalogue": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
+        },
+        {
+          "t": "p",
+          "x": "중국 상무부와 과학기술부가 대규모 언어 모델과 AI 에이전트부터 칩 설계, 컴퓨팅 클러스터까지 AI 기술 23개를 수출 통제 목록에 올리는 초안을 내놓았다. 전체 계획은 40개 항목을 다루며 의견은 11월 15일까지 받는다."
+        },
+        {
+          "t": "p",
+          "x": "Bloomberg 보도에 따르면 대형 모델은 매개변수가 최소 2조 개이거나 성능·안전성 등 시험에서 세계 상위 10위 안에 들면 가중치와 소스 코드 같은 핵심 부분이 규제 대상이 된다. 14나노미터 이하 공정이나 2.5D 또는 3D 적층 방식으로 만든 AI 칩의 설계 노하우도 제한된다."
+        },
+        {
+          "t": "p",
+          "x": "오픈소스(Open-source) 코드와 공개된 연구는 예외다. 중국 기업은 앱, 웹사이트, APIs로 해외 이용자에게 계속 서비스할 수 있다. 부처 대변인은 이 규정이 “오용과 남용을 막고” “AI가 인간의 통제 아래 있도록 하려는” 것이라며 특정 국가나 기업을 겨냥하지 않는다고 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "이미 시행된 임시 규정에 따라 기업은 이제 목록에 오른 품목을 수출하려면 먼저 등록해야 한다."
+        }
+      ]
+    },
+    "marketing/marketing-nationaltrust": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+          "cap": "만화 · AI-generated"
+        },
+        {
+          "t": "p",
+          "x": "National Trust는 자선단체의 승인 없이 AI-generated(AI 생성) 홍보 영상이 잇따라 올라오자 TikTok 광고를 모두 중단했다. 단체 설명으로는 TikTok Ads가 실수로 만든 광고였고 애초에 게시할 계획도 없었다."
+        },
+        {
+          "t": "p",
+          "x": "Trust는 LinkedIn 성명에서 조사하는 동안 TikTok 활동을 멈췄다고 밝혔다. 대변인은 Civil Society에 TikTok과 직접 협력해 경위를 파악하면서 추가 안전장치를 마련하는 중이라고 전했다."
+        },
+        {
+          "t": "p",
+          "x": "마케터들은 AI-made(AI로 만든) 영상이 Trust가 쌓아 온 정체성과 맞지 않았다고 평했다. Ocean의 Charlotte Anstee는 지역 소셜미디어 팀이 앞서 AI 사용 금지 방침을 전달받았다고 말했다. Pollard Media의 Alex Pollard는 이 단체에 방대한 이미지 아카이브가 있다는 점을 짚었다."
+        },
+        {
+          "t": "p",
+          "x": "Antler Social 공동 창업자 Harri Brown은 광고 집행 중 새로 생성된 소재를 자동으로 추가하는 설정만 꺼도 뜻밖의 AI 소재를 피할 수 있고, 이미 들어간 소재는 직접 지우면 된다고 말했다."
+        }
+      ]
+    },
+    "marketing/marketing-meta": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta가 Reels Trending Ads에 상시 표준 주제 15개를 마련했다. Reels Trending Ads는 Facebook과 Instagram에서 가장 많이 시청되고 문화적 관련성이 가장 높은 Reels 바로 뒤에 광고를 배치하는 형식이다. 새 카테고리에는 Home & Garden과 스페인어(Spanish-language) 콘텐츠도 들어갔다."
+        },
+        {
+          "t": "p",
+          "x": "Meta는 10월 16일 Brand Building Summit에서 이번 업데이트를 발표했다. 광고주는 연휴 시즌과 풋볼·농구 시즌 개막에 맞춘 시즌별 라인업도 고를 수 있다. 올해 안에는 맞춤 오디언스 제외 기능이 붙어 캠페인에서 지정한 맞춤 오디언스를 뺄 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Meta에 따르면 Reels Trending Ads를 포함한 캠페인은 대조군보다 행동 의향이 5퍼센트포인트 넘게 올랐고 비보조 브랜드 인지도도 5퍼센트포인트 더 높아졌다. 두 수치 모두 Meta 자체 집계다."
+        },
+        {
+          "t": "p",
+          "x": "Meta는 2025년 9월 이 형식을 전 세계 모든 광고주에게 열면서, AI로 가장 인기 있는 크리에이터 제작 Reels 바로 뒤에 광고를 배치한다고 밝혔다. TikTok의 Pulse 제품군과 비슷한 방식이다. 회사 설명으로는 Instagram 전체 이용 시간의 절반 이상이 Reels에서 나온다."
+        }
+      ]
+    },
+    "marketing/marketing-salesforce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Demandbase는 2026년 10월 15일 Salesforce가 아직 시범 운영 중인 아웃바운드 영업 에이전트 Hunter의 출시 데이터 파트너로 자사를 지정했다고 밝혔다. Hunter 사용자는 Salesforce 안에서 Demandbase의 참여, 인물, 계정, 구매 그룹, 의도 데이터를 \"Salesforce 내 데이터에 대해 추가 계약 없이\" 받는다."
+        },
+        {
+          "t": "p",
+          "x": "통합에 Demandbase MCP 서버를 쓰기 때문에 영업 담당자는 Agentforce 안에서 자연어로 Demandbase에 물어 관심도가 가장 높은 잠재 고객을 찾고 우선순위를 정할 수 있다. Salesforce 제품관리 VP Rohan Punamia는 \"영업팀은 눈에 보이는 신호에만 대응할 수 있다\"고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "보도자료는 \"Hunter는 현재 시범 단계이며 정식 출시는 올해 중 예정돼 있다\"고 밝혔지만 구체적인 달은 적지 않았다. Hunter의 가격과 데이터 범위, 독점 여부도 언급하지 않았다. \"추가 계약 없음\"이 곧 \"추가 비용 없음\"이라는 뜻도 아니다."
+        }
+      ]
+    },
+    "marketing/marketing-cheq": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
+          "cap": "Dado Ruvic/Reuters"
+        },
+        {
+          "t": "p",
+          "x": "다가오는 연말 쇼핑 시즌, 브랜드가 공략할 새로운 유형의 쇼핑객이 있다. AI 에이전트다."
+        },
+        {
+          "t": "p",
+          "x": "AI 쇼핑 에이전트를 검증하는 사이버보안 기업 Cheq는 Instinct와 Meta의 Muse 같은 소비자용 AI 에이전트가 출시된 뒤 45일 동안 에이전트 트래픽이 100x 급증했다고 밝혔다. Cheq CEO Guy Tytunovich는 에이전트가 아직 온라인 쇼핑객 가운데 작은 비중에 그치지만 소비자용 에이전트가 쉴 새 없이 쏟아지는 만큼 빠르게 늘고 있다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "모두가 반기지는 않는다. Amazon과 eBay는 광고 사업과 결제 경험에 대한 통제력을 더 쥐려고 에이전트를 막았다."
+        },
+        {
+          "t": "img",
+          "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
+          "cap": "미국(US) 성인이 AI로 쇼핑할 가능성을 보여주는 차트."
+        },
+        {
+          "t": "p",
+          "x": "소비자도 망설인다. Morning Consult 조사에 따르면 쇼핑객은 이제 인플루언서만큼 에이전트의 추천에도 흔들리지만 AI에 구매를 맡기는 데 거리낌 없는 사람은 적다. 이번 연말 시즌은 어떤 브랜드가 에이전트가 거부하기 힘든 방식으로 상품을 가장 잘 보여주는지를 가리는 첫 진짜 시험대다."
+        }
+      ]
+    },
+    "medicine/medicine-simbiosys-tumorsight-risk": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SimBioSys가 TumorSight Risk의 FDA 510(k) 허가 소식을 알렸다. 회사 설명으로는 유방암 재발 위험을 평가하는 세계 최초의 AI-powered, MRI-derived 예후 예측 도구다. 진료 중 늘 수집하는 유방 MRI와 병리, 임상 데이터를 분석해 오 년·십 년 시점의 개인별 예후를 내놓고, 이 결과는 수술 전에 받아볼 수 있다고 한다."
+        },
+        {
+          "t": "p",
+          "x": "대상은 HR-positive, HER2-negative Stage I–IIIA 유방암을 앓는 성인 여성이다. 클라우드 기반 플랫폼이 영에서 100까지의 점수를 매기고 고위험·중간 위험·저위험으로 나눈다. 추가 시술도, 조직 배송도, 전용 하드웨어도 필요 없다."
+        },
+        {
+          "t": "p",
+          "x": "회사는 ASCO 2026에서 발표된 검증 연구를 근거로 든다. Mayo Clinic, Emory University, Stanford Medicine, Mercy Medical Cedar Rapids 환자 2,129명을 분석한 이 연구에서 고위험군의 재발 위험은 저위험군의 3.3배였고, 점수가 10점 오를 때마다 상대 재발 위험이 22퍼센트씩 커졌다."
+        },
+        {
+          "t": "p",
+          "x": "추정 오 년 재발 위험은 2.2퍼센트(점수 0–10)에서 13.6퍼센트(58–100)까지 걸쳐 있었다. Mayo Clinic은 SimBioSys와 재정적 이해관계가 있다."
+        }
+      ]
+    },
+    "medicine/medicine-bitmate-ai-emr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "[의학신문·일간보사=오인규 기자] 의료정보 선도기업 비트컴퓨터(대표이사 조현정·전진옥)가 23일부터 25일까지 부산 벡스코(BEXCO)에서 열리는 'KIMES BUSAN 2026'에 참가해 AI 진료 에이전트 'BITMate(비트메이트) AI'를 중심으로 의원급·병원급 솔루션을 선보인다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414976_03.png",
+          "cap": "비트컴퓨터 클라우드 EMR 비트플러스에 탑재된 AI 진료 에이전트 BITMate AI (사진제공=비트컴퓨터)"
+        },
+        {
+          "t": "p",
+          "x": "BITMate AI는 전 출품 솔루션에 공통 탑재된다. 기존 EMR이 진료 뒤 기록을 입력하는 시스템에 가까웠다면, BITMate AI는 진료가 이뤄지는 순간부터 환자 정보 확인, 대화 인식, 기록 생성, 처방 흐름까지 실시간으로 연결하는 AI 진료 에이전트를 지향한다."
+        },
+        {
+          "t": "p",
+          "x": "주요 기능은 내원요약, 보이스차팅, 나만의 AI 에이전트다. 내원요약은 최근 내원기록을 AI가 자동 요약해 제공하고, 보이스차팅은 의사와 환자의 대화를 실시간으로 전사해 SOAP 형식의 기록 초안을 즉시 생성한다. 발화 내용은 평균 0.3초 이내에 화면에 반영되고 0.16초 간격으로 갱신된다."
+        },
+        {
+          "t": "p",
+          "x": "나만의 AI 에이전트는 의료진이 기록 형식을 고르거나 프롬프트를 직접 작성해 자신만의 기록 방식을 AI에 반영하게 한다. 국내 EMR 업계 최초로 고객에게 프롬프트 설정 권한을 개방한 것이다. 비트컴퓨터가 AWS와 협력해 개발 중인 한국 의료 특화 LLM 초기 버전이 탑재됐고, 모든 AI 처리는 국내 인프라에서 완결된다."
+        },
+        {
+          "t": "p",
+          "x": "병원급 HIS는 외래자동심사 기능을 함께 출품한다. 보험 청구 전 수작업을 시스템이 직접 수행해 전체 건수의 80%를 담당자 검토 없이 자동 완료한다."
+        },
+        {
+          "t": "p",
+          "x": "전진옥 대표는 “의료진이 키보드 대신 환자를 바라보며 진료에 전념할 수 있는 환경을 만드는 것이 목표”라고 말했다."
+        }
+      ]
+    },
+    "medicine/medicine-bmj-llm-trial-reporting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The BMJ에 실린 체계적 문헌고찰이 기존 보고 지침을 잣대로 의료 분야 대규모 언어 모델(LLM) 중재 임상시험이 얼마나 완전하게 보고됐는지 분석했다."
+        },
+        {
+          "t": "p",
+          "x": "데이터베이스와 임상시험 등록부 검색(2017년 1월 1일~2025년 12월 6일)으로 461건의 기록이 나왔다. 시험 보고서 68건, 프로토콜 15건, 등록 378건이다. 시험 보고서 대부분은 2024–25년에 나온 소규모 단일 기관 무작위 연구로, 주로 환자 교육과 관리 권고를 다뤘다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.bmj.com/content/bmj/395/bmj-2026-100855/F3.large.jpg",
+          "cap": "포함된 전체 임상시험(n=68)의 TRIPOD-LLM 항목별 보고 완전성."
+        },
+        {
+          "t": "p",
+          "x": "평균 보고 완전성은 낮은 편이었다. 시험 보고서는 TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59%, CHART 52%였고, 프로토콜은 SPIRIT 2025 51%, SPIRIT-AI 57%, 등록은 61%였다."
+        },
+        {
+          "t": "p",
+          "x": "빈칸이 큰 곳은 모델 식별과 버전 관리, 데이터 출처와 전처리, 프롬프트 개발, 입력·출력 처리, 프로토콜·데이터·코드 공개 여부였다. 위해 계획과 모니터링, 보고도 빠진 데가 많았다."
+        },
+        {
+          "t": "p",
+          "x": "보고서 대부분은 임상 질문과 핵심 결과를 파악하기엔 충분했다. 다만 LLM 중재를 어떻게 구성하고 제공하고 모니터링하고 분석했는지 되짚기엔 모자란 경우가 많았다."
+        }
+      ]
+    },
+    "medicine/medicine-llm-depression-diaries": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "우울증 변화를 꼼꼼히 따라가는 일은 임상 연구와 진료에 중요하다. 그런데 집중적인 종단 평가는 한계가 큰 자기보고 설문에 기댄다. npj Digital Medicine에 실린 이 연구는 대규모 언어 모델(LLMs)이 매일의 영상 일기를 보고 매긴 우울증 점수가 타당한지 검증했다."
+        },
+        {
+          "t": "p",
+          "x": "참가자 108명(45%는 정신건강 치료 중)이 임상 면담과 함께 14-21일간 우울증 설문과 영상 일기를 마쳤다. 일일 우울증 점수는 LLMs가 일기 전사문을 읽고 추정했다."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03388-6/MediaObjects/41746_2026_3388_Fig1_HTML.png",
+          "cap": "LLM-rated 우울증과 자기보고 우울증 비교, 개인 내(a)와 개인 간(b)."
+        },
+        {
+          "t": "p",
+          "x": "LLM 평가는 개인 내에서 자기보고와 수렴했고(r = .45) 여러 날을 평균해도 수렴했다(r = .61). 평균 평가는 면담으로 잰 증상 심각도와도 상관을 보였다(r = .53)."
+        },
+        {
+          "t": "p",
+          "x": "LLM 평가는 자기보고가 설명하는 몫을 넘어 일상 기능과 면담 평가 우울증을 예측했다. 자기보고가 놓치는 임상적으로 의미 있는 정보를 LLMs가 잡아낸다는 신호다."
+        }
+      ]
+    },
+    "design/design-kling4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
+        },
+        {
+          "t": "p",
+          "x": "PandaDaily에 따르면 Kuaishou의 Kling AI가 klingai.com에서 Kling 4.0을 정식 출시했다. 프리뷰로만 내놓던 영상 생성 모델을 이제 누구나 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "PandaDaily는 Kling 4.0이 클립 하나를 최대 30초 길이로 생성하고, 키프레임을 최대 10개까지 지원해 캐릭터 상태와 장면 전환, 서사 흐름까지 제어한다고 전했다. 작업 하나에 이미지 최대 10장, 영상 클립 다섯 개, 피사체 일곱 개를 레퍼런스로 함께 넣을 수 있고, 멀티숏을 이어 붙이면 시퀀스가 약 이 분 길이까지 늘어난다."
+        },
+        {
+          "t": "p",
+          "x": "이번 출시의 핵심은 오디오다. 듀얼 채널 스테레오와 립싱크를 중국어, 영어, 일본어, 한국어, 스페인어, 포르투갈어, 독일어, 프랑스어, 힌디어, 여러 중국 방언, 영어 억양 변형에 걸쳐 지원한다. 프롬프트 입력은 약 8,000 토큰까지 가능하다. 에이전트나 스크립트로 돌리는 제작 워크플로에 쓸 MCP와 명령줄 인터페이스 연동도 붙었다."
+        },
+        {
+          "t": "p",
+          "x": "4K 및 1080p 10-bit HDR 출력과 기업용 API는 이번 공개 출시에서 빠졌고 곧 나온다. Pexo는 Kling 4.0 Flash 변형이 9월 28일 최상위 연간 구독자를 대상으로 제한적 얼리 액세스를 시작했다고 전했다."
+        }
+      ]
+    },
+    "music/music-elevenlabs-instant-soundtracks": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "WtPiZ0ym13k"
+        },
+        {
+          "t": "p",
+          "x": "Instant Soundtracks는 한 번의 작업으로 어떤 영상에든 음악과 효과음을 입힌다."
+        },
+        {
+          "t": "p",
+          "x": "영상을 올리면 모델이 오리지널 음악을 붙이고, 효과음이 들어갈 순간을 찾아 각 효과음을 알맞은 타임스탬프에 놓는다."
+        },
+        {
+          "t": "p",
+          "x": "원본 오디오를 레퍼런스로 삼아 새 음악이 그 분위기를 따르게 할 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "이번 업데이트로 숏폼 콘텐츠의 타이밍이 좋아졌고 장면 사이 분위기 전환도 더 정확해졌다. Music Video Editor에서는 효과음이 별도 레이어로 뜨기 때문에 사운드트랙과 따로 듣고 손볼 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "ElevenCreative, ElevenMusic, ElevenAPI에서 오늘부터 쓸 수 있다."
+        }
+      ]
+    },
+    "movies/movies-artcraft-filmcraft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+          "cap": "ArtCraft의 FilmCraft는 Adobe Premiere 자리를 노리는 앱이다. 이미지 제공: ArtCraft"
+        },
+        {
+          "t": "p",
+          "x": "개발자 Brandon Thomas와 그가 이끄는 ArtCraft가 Adobe Creative Cloud 앱을 본뜬 무료 오픈소스 애플리케이션 일곱 개를 내놨다. Premiere Pro 대안인 FilmCraft와 After Effects용 EffectCraft도 그 안에 있다. Thomas 말로는 AI 코딩 모델의 도움을 받아 Rust로 짰고, 시작한 계기는 Adobe의 해지 위약금이었다. 코드는 Anthropic의 Claude Opus 5.5로 썼다고 한다. ArtCraft 스스로는 이 앱들을 알파 버전 소프트웨어로 분류한다."
+        },
+        {
+          "t": "video",
+          "yt": "ZGeOTtmIoK0"
+        },
+        {
+          "t": "p",
+          "x": "FilmCraft는 Source·Program 모니터, 멀티트랙 타임라인, 리플·롤·슬립·슬라이드 트림, 무제한 실행 취소를 갖췄다. 코덱도 FFmpeg에 기대지 않고 직접 짰다. Premiere Pro 프로젝트는 열리지 않아서, 두 프로그램 사이에서 타임라인을 옮기려면 Final Cut Pro 7 XML을 거쳐야 한다. 프로젝트 측 자체 평가로는 기능 범위가 약 86%, “실제 작업에 쓸 준비”는 약 56% 수준이다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
+          "cap": "FilmCraft의 Scopes와 Timeline. 이미지 제공: ArtCraft"
+        },
+        {
+          "t": "p",
+          "x": "EffectCraft에는 효과 306개와 익스프레션, 3D 카메라·조명이 들어 있다. 다만 .aep·.aepx 파일은 열지 못하고 After Effects 플러그인도 돌아가지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "FilmCraft의 기능은 모두 명령으로 짜여 있어 UI, 명령줄 도구, JSON 제어 채널, MCP 서버 어디서든 실행된다. README를 보면 스크린숏 속 트레일러와 그레이딩도 AI 에이전트가 앱을 직접 조작해 만들었다. 클린룸 개발이라는 주장은 따로 검증된 적이 없고, AI 모델이 코드를 얼마나 썼는지도 Thomas의 설명 말고는 근거가 없다. Adobe는 공개 입장을 내지 않았다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
+          "cap": "EffectCraft의 Graph editor와 이징을 적용한 키프레임. 이미지 제공: ArtCraft"
+        },
+        {
+          "t": "p",
+          "x": "Craft Apps는 전부 무료다. 이 글을 쓰는 지금 FilmCraft는 GitHub에서 스타 약 10,600개, 포크 4,200개를 받았다."
+        }
+      ]
+    },
+    "games/games-npctalk-gta5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI-powered 모딩 툴킷 NPCTalk가 Grand Theft Auto V에 대본 없는 실시간 대화를 들여왔다. 플레이어가 NPCs에게 직접 말을 걸면 원래 목소리를 AI로 복제한(AI-cloned) 음성으로 답이 돌아온다. Universal Modder가 만든 이 오픈소스 프로젝트는 모드를 지원하는 거의 모든 게임에 비슷한 기능을 넣으려 한다."
+        },
+        {
+          "t": "p",
+          "x": "마이크로 말을 걸면 캐릭터마다 성격과 주변 상황에 맞춘 답이 나온다. 애니메이션을 취하거나 음성 명령을 따르는 등 NPCs가 몸으로 반응하기도 한다."
+        },
+        {
+          "t": "p",
+          "x": "음성 인식은 NVIDIA의 Nemotron ASR, 대사 생성은 Cerebras에서 돌아가는 Qwen 3.8 27B 모델 몫이다. 음성 복제와 합성은 클라우드의 NVIDIA H100 GPU에서 Fish Audio Drama 3가 맡는다. 프로젝트 문서를 보면 푸시투토크(push-to-talk) 방식에서 플레이어가 말을 마치고 NPC가 입을 열기까지 약 1.15–2.2초가 걸린다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+          "cap": "NPCTalk 아키텍처. 이미지 출처: NPCTalk GitHub 저장소."
+        },
+        {
+          "t": "p",
+          "x": "NPCTalk는 Claude Code의 도움으로 개발됐고, 그 노하우는 재사용 가능한 AI-agent 스킬로 묶였다. 다만 게임마다 따로 통합 작업을 해야 하고, 시연도 아직 GTA V Legacy 싱글플레이 모드에서만 이뤄졌다. 툴킷은 MIT 라이선스로 GitHub에 올라와 있으며 무료로 즐길 수 있는 GTA V 모드는 다음 주에 나온다."
+        }
+      ]
+    },
+    "books/books-prize-author-check": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png"
+        },
+        {
+          "t": "p",
+          "x": "최근 국내 한 장편소설 공모전에서 최종심까지 오른 작품이 결국 수상 기회를 잃었다. 제출받은 문서의 작성 기록을 보니 이례적으로 짧은 시간에 완성됐고, 심사위원들이 직접 만난 작가는 줄거리와 구상 과정 등 기본적인 질문에도 제대로 답하지 못했다. AI 집필 의혹에 후보자는 부인했지만, 올해 공모전은 ‘수상작 없음’으로 마무리됐다. 국내 문학상에서 AI 논란이 수상작 선정에 직접 영향을 끼친 것으로 확인된 첫 사례다."
+        },
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863805.1.png"
+        },
+        {
+          "t": "p",
+          "x": "국내 문학상들의 대응은 제각각이다. 창비신인문학상은 공모 요강에 “AI 제작 작품은 응모할 수 없다”고 명시했다. 문학동네 어린이 문학상은 맞춤법 점검, 사실 확인과 자료 조사 등 창작을 보조하는 AI 사용은 허용하되, 활용했다면 서비스와 모델, 활용 범위를 응모 신청서에 기재하도록 했다. 필요하면 프롬프트와 초고, 창작 노트 등 자료를 요구할 수 있다. ‘SNU 초단편소설공모전’은 AI 활용을 전면 금지하고 ‘생성형 AI 활용 윤리 서약서’를 필수로 받는다."
+        },
+        {
+          "t": "p",
+          "x": "허준행 건국대 국어국문학과 교수는 “‘GPT킬러’ 같은 탐지기의 수치만으로 집필 주체를 확정해서는 곤란하다”며, 작품 완성도를 우선 평가하되 주요 작업 기록을 종합적으로 검토하는 방식을 제안했다."
+        },
+        {
+          "t": "p",
+          "x": "해외에서도 판단이 엇갈린다. 공쿠르 아카데미는 AI 집필 의혹이 제기된 텔리송 오렐리앵의 장편소설을 1차 후보 명단에서 제외했지만, 르노도상은 같은 작품을 2차 후보 명단에 포함시켰다. 영연방 단편소설상은 지역별 수상작 5편 가운데 3편에 제기된 의혹을 한 달간 조사한 끝에 AI가 사용되지 않았다고 판단해 결과를 유지했다."
+        },
+        {
+          "t": "p",
+          "x": "숭실대는 어떤 AI 도구를 썼는지와 프롬프트 과정을 함께 제출하게 하는 ‘AI·SW 창작 콘텐츠 공모전’을 열어, AI를 활용한 창작을 별도의 공모전에서 다루고 있다."
+        }
+      ]
+    },
+    "gadgets/gadgets-qwen-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+        },
+        {
+          "t": "p",
+          "x": "미국(U.S.)에서 스마트 안경 하면 Meta가 화제를 주도하지만, 중국에서는 단연 Alibaba다. 이 전자상거래 대기업은 벌써 여러 세대의 스마트 안경을 내놓았고, 최신 제품은 적어도 기술만 놓고 보면 Meta 제품과 격차를 꽤 벌리기 시작했다."
+        },
+        {
+          "t": "p",
+          "x": "Alibaba에 따르면 $490(3,499 RMB)짜리 Qwen Glasses N1에는 50메가픽셀 카메라 센서가 들어간다. 최신 Ray-Ban Meta(Gen 3)도 12메가픽셀 센서에 그친다. 배터리는 대기 시 25시간, 음악 재생 시 아홉 시간을 간다고 Alibaba는 내세운다. 최신 Ray-Ban 안경은 혼합 사용 기준으로 한 번 충전하면 최대 아홉 시간을 버틴다는 평가다."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
+          "cap": "최신 Ray-Ban 스마트 안경(사진)은 몇 가지 면에서 Alibaba 제품에 밀린다. © Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "N1에는 Meta에 없는 기능도 있다. 1.7mm짜리 작은 시선 추적 카메라 덕분에 안경의 AI는 사용자가 무엇을 보는지 정확히 알아채고, 홍채를 스캔해 Alipay 결제를 승인할 수도 있다고 한다. 브리지에 달린 센서로는 체온을 잰다. Gizmodo가 직접 시험해 보진 않았지만, 스펙만 보면 미국(U.S.)에서 살 수 있는 제품보다 한 단계 위다."
+        }
+      ]
+    },
+    "science/science-mit-crystal-text-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+        },
+        {
+          "t": "p",
+          "x": "대규모 언어 모델에 알맞은 소재를 물어봐도 아직은 답이 신통치 않다. 소재 대부분은 텍스트가 아니라 3D로 배열된 결정 구조이고, 문헌마저 인기 있는 몇몇 결정 계열에 쏠려 있다."
+        },
+        {
+          "t": "p",
+          "x": "MIT 연구진은 3D 원자 구조에 자연어 설명을 붙인 멀티모달 모델을 만들었다. 설명은 실험 논문과 제일원리 계산 데이터베이스에서 가져왔으며 조성·구조·물성·공정·잠재적 응용까지 다룬다. Nature Communications에 실린 논문에서 연구진은 이 모델이 텍스트만 쓰는 모델보다 나은 소재 설계를 찾아낸다고 밝혔다. 고체 리튬이온 배터리 전해질을 물었더니 상위 결과에 독립적으로 확인된 유망 후보가 들어 있었다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 대조 학습으로 구조와 텍스트를 정렬했다. AI가 생성한(AI-generated) 설명으로 학습한 버전은 기하 구조와 텍스트를 맞추는 법을 익혔지만, 논문 텍스트만 학습한 버전은 그러지 못했다. 물성을 묘사하는 자연어 질의를 주면 모델은 그에 맞는 결정을 찾아냈고 성능도 기준 모델보다 나았다."
+        },
+        {
+          "t": "p",
+          "x": "“구조는 재료과학 분야의 진정한 핵심입니다.” 이 모델을 AlphaFold에 견주는 Ju Li의 말이다."
+        }
+      ]
+    },
+    "politics/politics-anthropic-draft-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+          "cap": "2026년 9월 16일, 한 기기 화면에 Anthropic의 AI 앱 “Claude” 아이콘이 떠 있다. (Leon Neal/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "POLITICO는 소식통 세 명을 인용해 Anthropic 측이 프런티어 AI의 안전과 보안을 규율하는 법안 초안을 Capitol Hill 의원들에게 조용히 제안해 왔다고 보도했다."
+        },
+        {
+          "t": "p",
+          "x": "초안에는 정부가 첨단 모델 출시를 막을 수 있는 경우를 제한하고 일부 주의 AI 안전법을 대체하는 내용이 담겼다."
+        }
+      ]
+    },
+    "marketing/marketing-amazon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+        },
+        {
+          "t": "p",
+          "x": "업계 뉴스레터 ADOTAT의 10월 1일 분석에 따르면 Amazon은 unBoxed 2026에서 \"Amazon DSP\"라는 이름을 없앴지만 구매 엔진은 그대로 두고, 트레이더가 쓰던 제어 기능을 고급 설정 토글 뒤로 옮겼다. 칼럼 주장대로라면 이제 기본 경로에서는 Amazon의 AI 에이전트가 채널과 오디언스, 입찰가를 고르고 그 결과도 Amazon 자체 데이터로 평가한다. Amazon 측은 DSP의 프로그래매틱 기능을 DVA+ 고급 설정에서 지금도 쓸 수 있다는 입장이다."
+        },
+        {
+          "t": "p",
+          "x": "새 Amazon Ads Agent 아래에는 Sponsored Ads, DVA+, Full-Funnel Campaigns가 있다. 하루 $100부터 시작하는 Full-Funnel은 신규 고객(new-to-brand) 매출 같은 성과를 목표로 잡고, Amazon이 여러 형식에 예산을 나눈다. ADOTAT은 \"자격 요건에 따라 U.S. 광고주에게 실제로 열려 있는 것은 Full-Funnel Campaigns\"라며 \"트레이더가 운전대를 쥐게 해주는 기능은 아직 베타\"라고 썼다. DVA+는 US 비공개 베타였고 공개 베타는 10월 말로 예상됐다."
+        },
+        {
+          "t": "p",
+          "x": "칼럼은 \"기본값이 운명\"이라고 말한다. ADOTAT도 자사의 상업적 해석이 추론임을 인정한다. 무료 미리보기에는 Full-Funnel이 오디언스 선택을 막는다는 내용이 없다."
+        }
+      ]
+    },
+    "medicine/medicine-ai-auscultation-lvd": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Sato 연구팀은 일본의 전향적 다기관 연구로 좌심실 기능 이상을 찾는 인공지능 강화 청진법을 만들고 외부 검증까지 마쳤다. 결과는 NEJM AI 원저 논문으로 실렸다."
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
+          "cap": "연구 설계. 학습·내부 검증(n=2359)과 외부 검증(n=1000) 데이터셋."
+        },
+        {
+          "t": "p",
+          "x": "모델 학습과 내부 검증에는 일본 다기관 레지스트리에서 심장초음파 검사가 임상적으로 필요했던 성인 2,359명의 데이터를 썼다. 디지털 청진기로 청진 부위 네 곳의 심음과 단일 유도 ECG를 기록했고 좌심실 박출률(LVEF)은 심장초음파로 쟀다."
+        },
+        {
+          "t": "p",
+          "x": "최종 모델은 LVEF ≤40%를 각각 겨냥한 CNN-based 모델과 transformer-based 모델을 청진 부위 네 곳에 걸쳐 앙상블해 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "이 모델을 같은 기준값 그대로 일본 내 다른 병원 여섯 곳 환자 1,000명의 외부 데이터셋에 적용했다. 제외 대상을 빼고 964명을 분석했다."
+        }
+      ]
     }
   }
 }

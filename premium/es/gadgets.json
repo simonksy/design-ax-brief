@@ -8498,6 +8498,143 @@
           "x": "La nueva palabra de activación “Hey Gemini” también podría llegar a los smartphones."
         }
       ]
+    },
+    "gadgets/gadgets-orangepi-o1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
+          "cap": "OrangePi O1: llega un nuevo ordenador de placa única con numerosos puertos"
+        },
+        {
+          "t": "p",
+          "x": "La OrangePi O1 es un nuevo ordenador de placa única (SBC) que podría tener una clara ventaja sobre la Raspberry Pi en cargas de trabajo AI-centric (centradas en IA), al tiempo que sirve como una alternativa solvente para la informática general. La placa funciona con un SoC Sophgo BM1688, que combina ocho núcleos de CPU ARM Cortex-A53 con un coprocesador RISC-V C906. Una TPU integrada se encarga de la aceleración de IA local y ofrece hasta 16 TOPS (INT8) en cargas de trabajo compatibles."
+        },
+        {
+          "t": "p",
+          "x": "Las configuraciones de memoria incluyen 8 GB o 16 GB de RAM LPDDR4/LPDDR4X, complementadas con un módulo eMMC opcional de hasta 128 GB. Sin embargo, la capacidad de ampliar el almacenamiento va mucho más allá de la memoria flash integrada: la placa incluye una ranura M.2 para SSDs NVMe PCIe 3.0, una interfaz SATA dedicada y una ranura estándar para tarjetas microSD."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
+          "cap": "Algo poco habitual en una SBC: incluye un conector SATA dedicado"
+        },
+        {
+          "t": "p",
+          "x": "Con unas medidas de 90 x 70 mm, la placa autónoma reúne un conjunto completo de puertos de I/O, lo que le permite funcionar como un PC de escritorio nada más sacarla de la caja, sin necesidad de una placa portadora. La conectividad física incluye dos puertos Gigabit Ethernet, dos puertos USB 2.0, dos puertos USB 3.0 y un puerto HDMI 2.0 para salida de vídeo de hasta 4K. Fiel a sus raíces de SBC, también integra interfaces especializadas como conectores MIPI, bus CAN, RS485 y un conector de expansión para sensores y actuadores. La alimentación llega por USB Type-C a 20 V y admite redes inalámbricas. La disponibilidad de la Orange Pi O1 es por ahora limitada."
+        }
+      ]
+    },
+    "gadgets/gadgets-phonebot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de UCLA han desarrollado PhoneBot, un robot humanoide compacto de código abierto que reutiliza smartphones baratos para la percepción y el cálculo. Su hardware robótico cuesta aproximadamente $400, sin contar el teléfono. Mide 483 mm de alto, pesa 1.8 kg y usa 13 servomotores para controlar las piernas y el torso giratorio."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de cámaras dedicadas, sensores de movimiento y un costoso ordenador a bordo, PhoneBot se apoya en el teléfono: su cámara sigue a las personas y su IMU integrada ayuda al robot a mantener el equilibrio y ejecutar los movimientos de marcha aprendidos. Los investigadores probaron cuatro teléfonos Android, entre ellos un Honor 9 de 2017 y tres terminales de aproximadamente $50 a $80. La aplicación ejecuta las políticas de locomoción mediante TensorFlow Lite, mientras la cámara se encarga de la detección de personas y la estimación de la pose."
+        },
+        {
+          "t": "p",
+          "x": "El controlador de marcha se entrenó con aprendizaje por refuerzo en simulación; las muestras de entrenamiento reflejadas redujeron el error de simetría de los ángulos articulares de 0.254 a 0.003 radianes. Las demostraciones incluyeron caminar, levantarse desde una posición boca abajo y girar la cámara hacia las personas sin mover los pies. Los servos de baja potencia, el entrenamiento en terreno llano y la ausencia de brazos siguen siendo limitaciones. La investigación está publicada en arXiv."
+        }
+      ]
+    },
+    "gadgets/gadgets-nothing-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Una fuente fiable asegura que Nothing está desarrollando sus propias gafas inteligentes con IA, con integración de ChatGPT, cámara y dos modelos muy diferentes."
+        },
+        {
+          "t": "p",
+          "x": "Roland Quandt, de WinFuture, afirma en Bluesky que Nothing se prepara para lanzar dos nuevos modelos de gafas inteligentes, y que parecen muy distintos entre sí."
+        },
+        {
+          "t": "p",
+          "x": "Un par sería similar a la gama Ray-Ban Meta, con cámara integrada y funciones de IA como la traducción. Aunque Nothing, como gran usuaria de Android, podría parecer candidata a subirse al tren de Android XR, probablemente no sea así, ya que Quandt afirma que estas gafas integrarán ChatGPT en lugar de Gemini. No es un giro nuevo por parte de Nothing, ya que la empresa lleva tiempo integrando ChatGPT en sus otros productos."
+        },
+        {
+          "t": "p",
+          "x": "El otro par de gafas inteligentes, en cambio, apostaría por un enfoque mucho más sencillo."
+        },
+        {
+          "t": "p",
+          "x": "Funcionarían como unos auriculares capaces de atender llamadas e interactuar con el asistente de voz del teléfono, pero carecerían de cámara y de cualquier integración directa de IA. Se dice que ambos modelos ofrecerán lentes fotocromáticas, también conocidas como lentes “transition” y habituales en otras gafas inteligentes."
+        },
+        {
+          "t": "p",
+          "x": "Informaciones anteriores sobre los planes de Nothing en gafas inteligentes situaban el lanzamiento en algún momento de 2027. Esta doble estrategia resulta sin duda interesante, sobre todo porque un informe reciente sugería que Nothing apostará de lleno por los dispositivos de IA en adelante."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-zoom": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Con el Pixel 11 Pro, Google ofrece un zoom Pro Res de 120x, frente a los 100x del Pixel 10 Pro. Google afirma que su teleobjetivo más luminoso puede captar más detalle desde más lejos, siempre que se combine con IA generativa. Android Authority pasó una semana probándolo con letreros, monumentos, fauna y personas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
+          "cap": "A 120x se aprecian detalles del minarete de 800 años de Delhi, incluida su caligrafía."
+        },
+        {
+          "t": "p",
+          "x": "Las letras lejanas y las tallas arquitectónicas resultaron legibles, pero con un evidente enfoque digital, suavizado y un aspecto pictórico; la IA llegó a inventar un patrón en los cristales de una ventana que no existía. Con poca luz, el texto pequeño se convirtió en un completo galimatías."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
+          "cap": "Zoom 120x mejorado con IA (AI-enhanced) sobre un pájaro negro en un lago."
+        },
+        {
+          "t": "p",
+          "x": "En la fauna, el pelaje y las plumas parecían convincentes, pero rozaban el valle inquietante: con el zoom extremo, el procesamiento de Google rellena el detalle que falta, y el resultado es una aproximación que puede crear detalles inexistentes. El Pixel 11 Pro omite expresamente el reescalado generativo cuando detecta a una persona en el encuadre."
+        },
+        {
+          "t": "p",
+          "x": "Veredicto: es más que un truco de marketing y resulta útil para examinar objetos lejanos, pero no sustituye a un teleobjetivo largo; conviene moderar las expectativas."
+        }
+      ]
+    },
+    "gadgets/gadgets-ps5-local-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+          "cap": "(Crédito de imagen: Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "El usuario de Reddit u/AdIllustrious7246 publicó un fork de PS5LM, un port de llama.cpp para ejecutar LLMs de IA en local en PS5s con jailbreak, que funciona de forma nativa en la consola y usa su GPU para mover modelos más grandes como Qwen3.8-27B a 20 tokens por segundo."
+        },
+        {
+          "t": "p",
+          "x": "El port original del usuario de GitHub cobanov se ejecuta como payload en la CPU, lo que limita el acceso a la RAM a unos 6,25 GiB, porque ocupar más congelaría la pantalla de inicio. El fork, en cambio, usa PS5_Vulkan, un port del controlador gráfico RADV que permite que las instrucciones lleguen a la GPU de la PS5, normalmente bloqueada."
+        },
+        {
+          "t": "p",
+          "x": "Al ejecutarse de forma nativa en la GPU, puede usar hasta 11,4 GiB de RAM; modelos más pequeños como Gemma 4 E4B y Llama 3.2 3B alcanzan 61 y 124 tokens por segundo. Un panel muestra en tiempo real los tokens por segundo, el uso de GPU y CPU, el consumo, las temperaturas y el reparto de memoria entre el modelo y la caché KV, y la interfaz web de llama.cpp permite chatear con el LLM desde otros dispositivos locales en un navegador."
+        },
+        {
+          "t": "p",
+          "x": "Algunos comentaristas recordaron la crisis de GPU causada por la minería de criptomonedas, pero Tom's Hardware lo ve poco probable: la PS5 no tiene la GPU más rápida ni la mayor cantidad de RAM."
+        }
+      ]
     }
   }
 }

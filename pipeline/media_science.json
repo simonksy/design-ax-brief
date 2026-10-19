@@ -1,30 +1,31 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
+  "section": "science",
   "media": [
     {
-      "id": "science-claude-quantum-circuits",
+      "id": "science-mit-crystal-text-model",
       "type": "image",
-      "src": "pipeline/media/science-claude-quantum-circuits.png"
+      "src": "pipeline/media/science-mit-crystal-text-model.jpg"
     },
     {
-      "id": "science-fire-gene-regulation",
+      "id": "science-riverlane-nvidia-decoder",
       "type": "image",
-      "src": "pipeline/media/science-fire-gene-regulation.jpg"
+      "src": "pipeline/media/science-riverlane-nvidia-decoder.png"
     },
     {
-      "id": "science-bulk-metal-testing",
+      "id": "science-chatbot-language-personality",
       "type": "image",
-      "src": "pipeline/media/science-bulk-metal-testing.jpg"
+      "src": "pipeline/media/science-chatbot-language-personality.jpg"
     },
     {
-      "id": "science-agentxtract-food-physics",
+      "id": "science-satellite-reentry-drag",
       "type": "image",
-      "src": "pipeline/media/science-agentxtract-food-physics.jpg"
+      "src": "pipeline/media/science-satellite-reentry-drag.jpg"
     },
     {
-      "id": "science-studentsim-ai-tutoring",
+      "id": "science-missing-black-holes",
       "type": "image",
-      "src": "pipeline/media/science-studentsim-ai-tutoring.jpg"
+      "src": "pipeline/media/science-missing-black-holes.png"
     }
   ]
 }

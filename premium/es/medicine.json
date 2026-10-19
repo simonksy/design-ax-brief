@@ -1284,6 +1284,137 @@
           "x": "En el caso de ejemplo, el médico tratante no ordenó pruebas diagnósticas (US$0), ya que en la bronquiolitis no están indicadas las pruebas de rutina. Con la instrucción predeterminada, la AI ordenó un panel respiratorio viral y un ecocardiograma (US$454); la instrucción consciente del costo pidió un panel viral y una PCR de tosferina (US$292); la parsimoniosa pidió solo una prueba PCR de tosferina (US$35)."
         }
       ]
+    },
+    "medicine/medicine-simbiosys-tumorsight-risk": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "SimBioSys anunció la autorización 510(k) de la FDA para TumorSight Risk, que describe como la primera herramienta pronóstica del mundo AI-powered y MRI-derived para evaluar el riesgo de recidiva del cáncer de mama. El software analiza datos de MRI de mama, de patología y clínicos recogidos de forma rutinaria para generar un pronóstico individualizado a cinco y diez años que, según la empresa, puede estar disponible antes de la cirugía."
+        },
+        {
+          "t": "p",
+          "x": "Está indicado para mujeres adultas con cáncer de mama HR-positive, HER2-negative en Stage I–IIIA. La plataforma en la nube genera una puntuación de cero a 100 y una clasificación de riesgo alto, intermedio o bajo, sin requerir procedimientos adicionales, envío de tejido ni hardware especializado."
+        },
+        {
+          "t": "p",
+          "x": "Según la empresa, un estudio de validación con 2,129 pacientes de Mayo Clinic, Emory University, Stanford Medicine y Mercy Medical Cedar Rapids, presentado en ASCO 2026, halló que las pacientes de alto riesgo tenían un riesgo de recidiva 3.3 veces mayor que las de bajo riesgo, y que cada aumento de 10 puntos se asociaba con un aumento del 22 por ciento en el riesgo relativo de recidiva."
+        },
+        {
+          "t": "p",
+          "x": "El riesgo estimado de recidiva a cinco años osciló entre el 2.2 por ciento (puntuaciones 0–10) y el 13.6 por ciento (58–100). Mayo Clinic tiene un interés financiero con SimBioSys."
+        }
+      ]
+    },
+    "medicine/medicine-bitmate-ai-emr": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "[Uihak Sinmun·Ilgan Bosa, periodista Oh In-gyu] Bit Computer (consejeros delegados Cho Hyun-jung y Jeon Jin-ok), empresa líder en informática médica, participará en 'KIMES BUSAN 2026', que se celebra del 23 al 25 en BEXCO, en Busan, y presentará soluciones para clínicas y hospitales centradas en su agente clínico de AI 'BITMate AI'."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414976_03.png",
+          "cap": "BITMate AI, el agente clínico de AI integrado en BitPlus, la EMR en la nube de Bit Computer (foto: Bit Computer)"
+        },
+        {
+          "t": "p",
+          "x": "BITMate AI viene integrado en todas las soluciones expuestas. Si la EMR convencional se parecía más a un sistema para introducir registros después de la consulta, BITMate AI aspira a ser un agente clínico de AI que conecte en tiempo real, desde el momento de la atención, la consulta de datos del paciente, el reconocimiento de la conversación, la generación de registros y el flujo de prescripción."
+        },
+        {
+          "t": "p",
+          "x": "Sus funciones principales son el resumen de visitas, el registro por voz y el agente de AI propio. El resumen de visitas ofrece un resumen automático por AI de los registros de visitas recientes, y el registro por voz transcribe en tiempo real la conversación entre médico y paciente y genera al instante un borrador en formato SOAP. Lo dicho aparece en pantalla en menos de 0.3 segundos de media y se actualiza a intervalos de 0.16 segundos."
+        },
+        {
+          "t": "p",
+          "x": "El agente de AI propio permite que el personal médico elija un formato de registro o escriba sus propios prompts para que la AI refleje su manera de documentar. Es la primera vez en el sector de EMR de Corea que se abre a los clientes el permiso para configurar prompts. Incorpora una versión inicial de un LLM especializado en medicina coreana que Bit Computer desarrolla con AWS, y todo el procesamiento de AI se completa en infraestructura nacional."
+        },
+        {
+          "t": "p",
+          "x": "El HIS para hospitales se expondrá junto con una función de revisión automática de consultas externas. El sistema realiza por sí mismo el trabajo manual previo a la facturación al seguro y completa automáticamente el 80% de los casos sin revisión del responsable."
+        },
+        {
+          "t": "p",
+          "x": "El consejero delegado Jeon Jin-ok afirmó: “El objetivo es crear un entorno en el que el personal médico pueda centrarse en la consulta mirando al paciente en lugar del teclado”."
+        }
+      ]
+    },
+    "medicine/medicine-bmj-llm-trial-reporting": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Una revisión sistemática publicada en The BMJ caracterizó la exhaustividad de los informes de ensayos clínicos de intervenciones con modelos de lenguaje de gran tamaño (LLM) en medicina, a partir de guías de publicación establecidas."
+        },
+        {
+          "t": "p",
+          "x": "La búsqueda en bases de datos y registros de ensayos (del 1 de enero de 2017 al 6 de diciembre de 2025) arrojó 461 registros: 68 informes de ensayos, 15 protocolos y 378 inscripciones. Los informes de ensayos eran en su mayoría estudios aleatorizados pequeños y de un solo centro publicados en 2024–25, centrados sobre todo en educación dirigida a pacientes y recomendaciones de manejo."
+        },
+        {
+          "t": "img",
+          "src": "https://www.bmj.com/content/bmj/395/bmj-2026-100855/F3.large.jpg",
+          "cap": "Exhaustividad de los informes por ítem de TRIPOD-LLM en todos los ensayos clínicos incluidos (n=68)."
+        },
+        {
+          "t": "p",
+          "x": "La exhaustividad media fue modesta: TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59% y CHART 52% en los informes de ensayos; SPIRIT 2025 51% y SPIRIT-AI 57% en los protocolos; 61% en las inscripciones."
+        },
+        {
+          "t": "p",
+          "x": "Las principales carencias se referían a la identidad y el versionado del modelo, la procedencia y el preprocesamiento de los datos, el desarrollo de prompts, el manejo de entradas y salidas, y la disponibilidad del protocolo, los datos y el código. La planificación, la vigilancia y la notificación de daños solían estar incompletas."
+        },
+        {
+          "t": "p",
+          "x": "Los informes solían bastar para entender la pregunta clínica y los hallazgos principales, pero a menudo no permitían reconstruir cómo se configuró, aplicó, supervisó y analizó la intervención con LLM."
+        }
+      ]
+    },
+    "medicine/medicine-llm-depression-diaries": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Seguir de cerca los cambios en la depresión es importante para la investigación y la práctica clínicas, pero la evaluación longitudinal intensiva depende de encuestas de autoinforme con limitaciones importantes. Este estudio de npj Digital Medicine puso a prueba la validez de la depresión valorada por modelos de lenguaje de gran tamaño (LLMs) a partir de videodiarios diarios."
+        },
+        {
+          "t": "p",
+          "x": "108 participantes (45% en tratamiento de salud mental) completaron una entrevista clínica y 14-21 días de encuestas de depresión y videodiarios. Los LLMs estimaron puntuaciones diarias de depresión a partir de las transcripciones de los diarios."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03388-6/MediaObjects/41746_2026_3388_Fig1_HTML.png",
+          "cap": "Depresión LLM-rated frente a autoinformada, intrapersonal (a) e interpersonal (b)."
+        },
+        {
+          "t": "p",
+          "x": "Las valoraciones de los LLM convergieron con el autoinforme dentro de cada persona (r = .45) y al promediarlas a lo largo de los días (r = .61), y las valoraciones promediadas se correlacionaron con la gravedad de los síntomas valorada en la entrevista (r = .53)."
+        },
+        {
+          "t": "p",
+          "x": "Las valoraciones de los LLM predijeron el funcionamiento diario y la depresión valorada en la entrevista más allá de los autoinformes, lo que sugiere que los LLMs captan información clínicamente relevante que los autoinformes no detectan."
+        }
+      ]
+    },
+    "medicine/medicine-ai-fcp": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los grandes modelos de lenguaje pueden apoyar a los clínicos al facilitar la gestión de la información, pero su usabilidad en la práctica oncológica real sigue poco estudiada, escriben investigadores del Netherlands Cancer Institute en npj Digital Medicine."
+        },
+        {
+          "t": "p",
+          "x": "Evaluaron el desempeño en el flujo de trabajo de AI-based First Consultation Preparation (AI-FCP), que genera resúmenes estructurados a partir de documentación clínica no estructurada y que se creó junto con usuarios finales del Departamento de Oncología de Cabeza y Cuello, con el socio kaiko.ai."
+        },
+        {
+          "t": "p",
+          "x": "En un diseño prospectivo de un solo grupo antes-después, nueve clínicos completaron una línea de base individual y luego 33 consultas con AI-FCP. La usabilidad se evaluó con cuestionarios validados e instrumentos específicos del estudio."
+        },
+        {
+          "t": "p",
+          "x": "Tras AI-FCP, la carga de trabajo percibida global (NASA-TLX) fue un 28.9% menor que en la línea de base, con un ahorro medio de tiempo autodeclarado de 3.26 min por caso. La preparación tuvo éxito en el 84.9% de las consultas y el 63.6% de los resúmenes estaba completo."
+        },
+        {
+          "t": "p",
+          "x": "Los autores califican los hallazgos de exploratorios, señalan un posible sesgo de supervivencia y afirman que se necesita más investigación para determinar su generalización."
+        }
+      ]
     }
   }
 }

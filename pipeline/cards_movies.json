@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-artlist-arc",
+      "id": "movies-artcraft-filmcraft",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "38,000달러로 만든\nAI SF The Arc",
-      "body": "AI 크레딧 38,000달러로 만든 The Arc를 IndieWire는 혹평했다.",
-      "mini_headline": "38,000달러짜리 AI SF 시리즈",
+      "headline": "ArtCraft, 무료\n오픈소스 Adobe 대항마",
+      "body": "ArtCraft가 AI로 짠 FilmCraft·EffectCraft를 공개했다.",
+      "mini_headline": "ArtCraft의 무료 Adobe 대항마",
       "tool": "Movies",
-      "source": "IndieWire",
-      "url": "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/",
+      "source": "CineD",
+      "url": "https://www.cined.com/artcraft-releases-free-open-source-adobe-alternatives-filmcraft-for-premiere-pro-effectcraft-for-after-effects-written-in-rust-with-ai/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,181 +19,287 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
-            "cap": "'The Arc' (스크린숏/YouTube)"
+            "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+            "cap": "ArtCraft의 FilmCraft는 Adobe Premiere 자리를 노리는 앱이다. 이미지 제공: ArtCraft"
           },
           {
             "t": "p",
-            "x": "Artlist의 5부작 SF 미니시리즈 “The Arc”는 가학적인 미래 감옥 프로그램에 갇힌 아버지가 병든 아들을 위한 “치료제”를 얻으려고 역사 속 격렬한 전투에서 살아남아야 하는 이야기다. 감독 Darin Stewart와 프로듀서 Simone Ferretti는 Business Insider에 생성형 모델 덕분에 누구나 영화를 만들 수 있게 된다고 말했다."
+            "x": "개발자 Brandon Thomas와 그가 이끄는 ArtCraft가 Adobe Creative Cloud 앱을 본뜬 무료 오픈소스 애플리케이션 일곱 개를 내놨다. Premiere Pro 대안인 FilmCraft와 After Effects용 EffectCraft도 그 안에 있다. Thomas 말로는 AI 코딩 모델의 도움을 받아 Rust로 짰고, 시작한 계기는 Adobe의 해지 위약금이었다. 코드는 Anthropic의 Claude Opus 5.5로 썼다고 한다. ArtCraft 스스로는 이 앱들을 알파 버전 소프트웨어로 분류한다."
+          },
+          {
+            "t": "video",
+            "yt": "ZGeOTtmIoK0"
           },
           {
             "t": "p",
-            "x": "음악·효과음 라이브러리였던 Artlist는 AI 쪽으로 방향을 완전히 틀었다. 영상·이미지·텍스트 생성 요금제를 단계별로 제공하고, Veo, Seedance, Kling 같은 모델을 선보이는 작은 스트리밍 플랫폼도 운영한다."
+            "x": "FilmCraft는 Source·Program 모니터, 멀티트랙 타임라인, 리플·롤·슬립·슬라이드 트림, 무제한 실행 취소를 갖췄다. 코덱도 FFmpeg에 기대지 않고 직접 짰다. Premiere Pro 프로젝트는 열리지 않아서, 두 프로그램 사이에서 타임라인을 옮기려면 Final Cut Pro 7 XML을 거쳐야 한다. 프로젝트 측 자체 평가로는 기능 범위가 약 86%, “실제 작업에 쓸 준비”는 약 56% 수준이다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
+            "cap": "FilmCraft의 Scopes와 Timeline. 이미지 제공: ArtCraft"
           },
           {
             "t": "p",
-            "x": "IndieWire는 생성형 모델만으로 만든 작품은 “예술적 가치가 없다”고 본다. 팀이 대본을 얻으려고 Claude에 넣은 “10분짜리 구두 브레인 덤프”, 표정 없는 AI 배우, 프롬프트당 8초(Veo) 또는 30초(Seedance)라는 모델 한도가 그 근거다."
+            "x": "EffectCraft에는 효과 306개와 익스프레션, 3D 카메라·조명이 들어 있다. 다만 .aep·.aepx 파일은 열지 못하고 After Effects 플러그인도 돌아가지 않는다."
           },
           {
             "t": "p",
-            "x": "팀이 받은 AI 크레딧은 38,000달러로 편당 약 7,600달러다. API-pricing으로 따지면 83분 분량의 영상을 뽑을 수 있는 돈이고 Artlist의 AI Creator 요금제는 연 500달러다. 참여자 모두 하루 전액 일당을 받았지만, IndieWire는 더 적은 인원이 더 빨리 일하는 구조는 결국 엔터테인먼트 일을 숙련 없이도 하는 일로 만든다고 경고한다."
+            "x": "FilmCraft의 기능은 모두 명령으로 짜여 있어 UI, 명령줄 도구, JSON 제어 채널, MCP 서버 어디서든 실행된다. README를 보면 스크린숏 속 트레일러와 그레이딩도 AI 에이전트가 앱을 직접 조작해 만들었다. 클린룸 개발이라는 주장은 따로 검증된 적이 없고, AI 모델이 코드를 얼마나 썼는지도 Thomas의 설명 말고는 근거가 없다. Adobe는 공개 입장을 내지 않았다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
+            "cap": "EffectCraft의 Graph editor와 이징을 적용한 키프레임. 이미지 제공: ArtCraft"
+          },
+          {
+            "t": "p",
+            "x": "Craft Apps는 전부 무료다. 이 글을 쓰는 지금 FilmCraft는 GitHub에서 스타 약 10,600개, 포크 4,200개를 받았다."
           }
         ]
       },
-      "_lead_image": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Artlist's The Arc tests AI\nsci-fi on a $38,000 budget",
-          "body": "Artlist's AI sci-fi series The Arc was made with $38,000 in AI credits, and IndieWire finds it without artistic merit.",
-          "mini_headline": "AI sci-fi series for $38,000",
+          "headline": "ArtCraft releases free\nopen-source Adobe rivals",
+          "body": "ArtCraft released FilmCraft and EffectCraft, open-source Premiere Pro and After Effects rivals it says AI helped code.",
+          "mini_headline": "ArtCraft's free Adobe rivals",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
-                "cap": "'The Arc' (Screenshot/YouTube)"
+                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+                "cap": "ArtCraft’s FilmCraft is supposed to replace Adobe Premiere. Image credit: ArtCraft"
               },
               {
                 "t": "p",
-                "x": "Artlist's five-episode sci-fi miniseries \"The Arc\" follows a father trapped inside a sadistic future prison program who must survive wild historical battles to win a \"cure\" for his ailing son. Director Darin Stewart and producer Simone Ferretti told Business Insider that generative models democratize filmmaking."
+                "x": "Developer Brandon Thomas and his company ArtCraft have released seven free, open-source applications modeled on Adobe’s Creative Cloud apps, including FilmCraft as a Premiere Pro alternative and EffectCraft for After Effects. According to Thomas, the apps were written in Rust with the help of an AI coding model, and his motivation was Adobe’s cancellation fee. He says he used Anthropic’s Claude Opus 5.5 to write the code. ArtCraft labels them alpha software."
+              },
+              {
+                "t": "video",
+                "yt": "ZGeOTtmIoK0"
               },
               {
                 "t": "p",
-                "x": "Artlist, once a music and sound effects library, has pivoted completely into AI, offering tiered plans for generating video, images and text, plus a modest streaming platform showcasing models like Veo, Seedance and Kling."
+                "x": "FilmCraft offers Source and Program monitors, a multi-track timeline, ripple, roll, slip and slide trims and unlimited undo. Its codecs are written by the project itself, without FFmpeg. It cannot open Premiere Pro projects; timelines move between the two via Final Cut Pro 7 XML. The project rates it at about 86% feature breadth and about 56% “ready for real work.”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
+                "cap": "Scopes and Timeline in FilmCraft. Image credit: ArtCraft"
               },
               {
                 "t": "p",
-                "x": "IndieWire argues work done fully through generative models is \"without artistic merit,\" citing the team's \"10-minute verbal brain dump\" fed into Claude for a script, inexpressive AI actors, and model caps of eight seconds (Veo) or 30 seconds (Seedance) per prompt."
+                "x": "EffectCraft offers 306 effects, expressions, 3D cameras and lights, but cannot open .aep or .aepx files, and After Effects plugins do not run."
               },
               {
                 "t": "p",
-                "x": "The team got $38,000 in AI credits, about $7,600 per episode. By API-pricing math, that could generate 83 minutes of video; Artlist's AI Creator tier costs $500 a year. Everyone was paid a full day rate, but IndieWire warns fewer people working faster leads to the deskilling of entertainment."
+                "x": "Every function in FilmCraft is a command that can be triggered from the UI, a command-line tool, a JSON control channel or an MCP server, and the README says the trailer and grades in its screenshots were produced by an AI agent operating the app. The clean-room claim has not been independently verified, and how much of the code the AI model wrote rests on Thomas’s account. Adobe has not commented publicly."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
+                "cap": "Graph editor with eased keyframes in EffectCraft. Image credit: ArtCraft"
+              },
+              {
+                "t": "p",
+                "x": "All Craft Apps are free. At the time of writing, FilmCraft had around 10,600 stars and 4,200 forks on GitHub."
               }
             ]
           }
         },
         "ko": {
-          "headline": "38,000달러로 만든\nAI SF The Arc",
-          "body": "AI 크레딧 38,000달러로 만든 The Arc를 IndieWire는 혹평했다.",
-          "mini_headline": "38,000달러짜리 AI SF 시리즈",
+          "headline": "ArtCraft, 무료\n오픈소스 Adobe 대항마",
+          "body": "ArtCraft가 AI로 짠 FilmCraft·EffectCraft를 공개했다.",
+          "mini_headline": "ArtCraft의 무료 Adobe 대항마",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
-                "cap": "'The Arc' (스크린숏/YouTube)"
+                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+                "cap": "ArtCraft의 FilmCraft는 Adobe Premiere 자리를 노리는 앱이다. 이미지 제공: ArtCraft"
               },
               {
                 "t": "p",
-                "x": "Artlist의 5부작 SF 미니시리즈 “The Arc”는 가학적인 미래 감옥 프로그램에 갇힌 아버지가 병든 아들을 위한 “치료제”를 얻으려고 역사 속 격렬한 전투에서 살아남아야 하는 이야기다. 감독 Darin Stewart와 프로듀서 Simone Ferretti는 Business Insider에 생성형 모델 덕분에 누구나 영화를 만들 수 있게 된다고 말했다."
+                "x": "개발자 Brandon Thomas와 그가 이끄는 ArtCraft가 Adobe Creative Cloud 앱을 본뜬 무료 오픈소스 애플리케이션 일곱 개를 내놨다. Premiere Pro 대안인 FilmCraft와 After Effects용 EffectCraft도 그 안에 있다. Thomas 말로는 AI 코딩 모델의 도움을 받아 Rust로 짰고, 시작한 계기는 Adobe의 해지 위약금이었다. 코드는 Anthropic의 Claude Opus 5.5로 썼다고 한다. ArtCraft 스스로는 이 앱들을 알파 버전 소프트웨어로 분류한다."
+              },
+              {
+                "t": "video",
+                "yt": "ZGeOTtmIoK0"
               },
               {
                 "t": "p",
-                "x": "음악·효과음 라이브러리였던 Artlist는 AI 쪽으로 방향을 완전히 틀었다. 영상·이미지·텍스트 생성 요금제를 단계별로 제공하고, Veo, Seedance, Kling 같은 모델을 선보이는 작은 스트리밍 플랫폼도 운영한다."
+                "x": "FilmCraft는 Source·Program 모니터, 멀티트랙 타임라인, 리플·롤·슬립·슬라이드 트림, 무제한 실행 취소를 갖췄다. 코덱도 FFmpeg에 기대지 않고 직접 짰다. Premiere Pro 프로젝트는 열리지 않아서, 두 프로그램 사이에서 타임라인을 옮기려면 Final Cut Pro 7 XML을 거쳐야 한다. 프로젝트 측 자체 평가로는 기능 범위가 약 86%, “실제 작업에 쓸 준비”는 약 56% 수준이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
+                "cap": "FilmCraft의 Scopes와 Timeline. 이미지 제공: ArtCraft"
               },
               {
                 "t": "p",
-                "x": "IndieWire는 생성형 모델만으로 만든 작품은 “예술적 가치가 없다”고 본다. 팀이 대본을 얻으려고 Claude에 넣은 “10분짜리 구두 브레인 덤프”, 표정 없는 AI 배우, 프롬프트당 8초(Veo) 또는 30초(Seedance)라는 모델 한도가 그 근거다."
+                "x": "EffectCraft에는 효과 306개와 익스프레션, 3D 카메라·조명이 들어 있다. 다만 .aep·.aepx 파일은 열지 못하고 After Effects 플러그인도 돌아가지 않는다."
               },
               {
                 "t": "p",
-                "x": "팀이 받은 AI 크레딧은 38,000달러로 편당 약 7,600달러다. API-pricing으로 따지면 83분 분량의 영상을 뽑을 수 있는 돈이고 Artlist의 AI Creator 요금제는 연 500달러다. 참여자 모두 하루 전액 일당을 받았지만, IndieWire는 더 적은 인원이 더 빨리 일하는 구조는 결국 엔터테인먼트 일을 숙련 없이도 하는 일로 만든다고 경고한다."
+                "x": "FilmCraft의 기능은 모두 명령으로 짜여 있어 UI, 명령줄 도구, JSON 제어 채널, MCP 서버 어디서든 실행된다. README를 보면 스크린숏 속 트레일러와 그레이딩도 AI 에이전트가 앱을 직접 조작해 만들었다. 클린룸 개발이라는 주장은 따로 검증된 적이 없고, AI 모델이 코드를 얼마나 썼는지도 Thomas의 설명 말고는 근거가 없다. Adobe는 공개 입장을 내지 않았다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
+                "cap": "EffectCraft의 Graph editor와 이징을 적용한 키프레임. 이미지 제공: ArtCraft"
+              },
+              {
+                "t": "p",
+                "x": "Craft Apps는 전부 무료다. 이 글을 쓰는 지금 FilmCraft는 GitHub에서 스타 약 10,600개, 포크 4,200개를 받았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "38,000ドルの\nAI SF「The Arc」",
-          "body": "AIクレジット38,000ドルで作られたThe ArcをIndieWireは酷評した。",
-          "mini_headline": "38,000ドルのAI SFシリーズ",
+          "headline": "ArtCraftが無料の\nAdobe対抗OSSを公開",
+          "body": "ArtCraftがAIの助けで書いたFilmCraftとEffectCraftを公開した。",
+          "mini_headline": "ArtCraftの無料Adobe対抗ソフト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
-                "cap": "「The Arc」（スクリーンショット／YouTube）"
+                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+                "cap": "ArtCraftのFilmCraftはAdobe Premiereに代わるものとされる。画像提供:ArtCraft"
               },
               {
                 "t": "p",
-                "x": "Artlistの5話構成のSFミニシリーズ「The Arc」は、加虐的な未来の監獄プログラムに閉じ込められた父親が、病気の息子のための「治療薬」を得るため、歴史上の激しい戦いを生き延びなければならない物語だ。監督のDarin StewartとプロデューサーのSimone Ferrettiは、生成モデルが映画制作を民主化するとBusiness Insiderに語った。"
+                "x": "開発者のBrandon Thomasと彼の会社ArtCraftは、AdobeのCreative Cloudアプリを手本にした無料のオープンソースアプリ七つを公開した。Premiere Proの代替となるFilmCraftや、After Effects向けのEffectCraftも含まれる。Thomasによれば、アプリはAIコーディングモデルの助けを借りてRustで書かれ、動機はAdobeの解約金だったという。コードの記述にはAnthropicのClaude Opus 5.5を使ったと彼は話す。ArtCraftはこれらをアルファ版ソフトウェアと位置づけている。"
+              },
+              {
+                "t": "video",
+                "yt": "ZGeOTtmIoK0"
               },
               {
                 "t": "p",
-                "x": "かつて音楽・効果音ライブラリだったArtlistはAIへ全面的に転換し、動画・画像・テキスト生成の段階別プランに加え、Veo、Seedance、Klingなどのモデルを紹介する小規模なストリーミングプラットフォームも提供している。"
+                "x": "FilmCraftはSourceモニターとProgramモニター、マルチトラックのタイムライン、リップル・ロール・スリップ・スライドのトリム、無制限の取り消しを備える。コーデックはFFmpegを使わず、プロジェクト自身が書いた。Premiere Proのプロジェクトは開けず、両者の間のタイムライン移行はFinal Cut Pro 7 XMLで行う。プロジェクトは機能の幅を約86%、「実作業への準備度」を約56%と評価している。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
+                "cap": "FilmCraftのScopesとTimeline。画像提供:ArtCraft"
               },
               {
                 "t": "p",
-                "x": "IndieWireは、生成モデルだけで作られた作品は「芸術的価値がない」と論じる。根拠として、チームが脚本用にClaudeへ入力した「10分間の口頭ブレインダンプ」、表情に乏しいAI俳優、そしてプロンプトあたり8秒（Veo）または30秒（Seedance）というモデルの上限を挙げる。"
+                "x": "EffectCraftは306種のエフェクト、エクスプレッション、3D カメラとライトを備えるが、.aepや.aepxファイルは開けず、After Effectsのプラグインも動かない。"
               },
               {
                 "t": "p",
-                "x": "チームが得たAIクレジットは38,000ドルで、1話あたり約7,600ドルだ。API-pricingで計算すると83分の動画を生成できる額で、ArtlistのAI Creatorプランは年500ドルだ。全員に1日分の満額の日当が支払われたが、IndieWireは少人数でより速く働くことがエンターテインメントの脱スキル化につながると警告する。"
+                "x": "FilmCraftのすべての機能は、UI、コマンドラインツール、JSON制御チャネル、MCPサーバーのいずれからも実行できるコマンドになっている。READMEによると、スクリーンショットに写る予告編とグレーディングは、アプリを操作したAIエージェントが制作したものだ。クリーンルーム開発という主張は独自に検証されておらず、AIモデルがコードをどこまで書いたかはThomasの説明に依拠している。Adobeは公にコメントしていない。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
+                "cap": "EffectCraftのGraph editorと、イージングをかけたキーフレーム。画像提供:ArtCraft"
+              },
+              {
+                "t": "p",
+                "x": "Craft Appsはすべて無料だ。執筆時点で、FilmCraftはGitHubで約10,600のスターと4,200のフォークを集めていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "花38,000美元打造\nAI科幻剧The Arc",
-          "body": "The Arc用38,000美元AI额度制作，被IndieWire评为毫无艺术价值。",
-          "mini_headline": "38,000美元的AI科幻剧",
+          "headline": "ArtCraft发布免费\n开源Adobe替代品",
+          "body": "ArtCraft发布借助AI编写的开源软件FilmCraft与EffectCraft。",
+          "mini_headline": "ArtCraft的免费Adobe替代品",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
-                "cap": "《The Arc》（截图/YouTube）"
+                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+                "cap": "ArtCraft的FilmCraft旨在取代Adobe Premiere。图片来源:ArtCraft"
               },
               {
                 "t": "p",
-                "x": "Artlist的五集科幻迷你剧《The Arc》讲述一位父亲被困在残酷的未来监狱程序中，必须在激烈的历史战役中活下来，才能为患病的儿子赢得“治疗”。导演Darin Stewart和制片人Simone Ferretti对Business Insider表示，生成式模型让电影制作走向大众化。"
+                "x": "开发者Brandon Thomas和他的公司ArtCraft发布了七款免费开源应用,均以Adobe的Creative Cloud应用为蓝本,其中包括替代Premiere Pro的FilmCraft和对应After Effects的EffectCraft。据Thomas介绍,这些应用借助AI编程模型用Rust编写,起因是Adobe的解约费。他表示,代码是用Anthropic的Claude Opus 5.5编写的。ArtCraft将其标注为alpha版软件。"
+              },
+              {
+                "t": "video",
+                "yt": "ZGeOTtmIoK0"
               },
               {
                 "t": "p",
-                "x": "Artlist曾是音乐和音效素材库，如今已全面转向AI，提供视频、图像和文本生成的分级套餐，并运营一个展示Veo、Seedance和Kling等模型的小型流媒体平台。"
+                "x": "FilmCraft提供Source和Program监视器、多轨时间线、波纹、滚动、滑移和滑动修剪,以及无限次撤销。其编解码器由项目自行编写,不依赖FFmpeg。它无法打开Premiere Pro项目,两者之间的时间线需通过Final Cut Pro 7 XML转移。项目方自评功能广度约为86%,“可用于实际工作”的程度约为56%。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
+                "cap": "FilmCraft中的Scopes与Timeline。图片来源:ArtCraft"
               },
               {
                 "t": "p",
-                "x": "IndieWire认为，完全依靠生成式模型完成的作品“毫无艺术价值”，理由包括团队为写剧本向Claude输入的“10分钟口头头脑倾倒”、缺乏表现力的AI演员，以及每条提示词只能生成8秒（Veo）或30秒（Seedance）的模型上限。"
+                "x": "EffectCraft提供306种效果、表达式、3D 摄像机和灯光,但无法打开.aep或.aepx文件,After Effects插件也无法运行。"
               },
               {
                 "t": "p",
-                "x": "团队获得了38,000美元的AI额度，每集约7,600美元。按API-pricing计算，这笔额度可生成83分钟视频；Artlist的AI Creator套餐每年500美元。所有人都按全天日薪拿到报酬，但IndieWire警告，更少的人更快地工作，会导致娱乐业的去技能化。"
+                "x": "FilmCraft的每项功能都是一条命令,可从UI、命令行工具、JSON控制通道或MCP服务器触发。README称,截图中的预告片和调色均由操作该应用的AI智能体完成。其“净室”开发的说法尚未经独立核实,AI模型究竟写了多少代码也只能依据Thomas的说法。Adobe尚未公开置评。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
+                "cap": "EffectCraft中带缓动关键帧的Graph editor。图片来源:ArtCraft"
+              },
+              {
+                "t": "p",
+                "x": "所有Craft Apps均免费。截至发稿时,FilmCraft在GitHub上约有10,600颗星和4,200个分叉。"
               }
             ]
           }
         },
         "es": {
-          "headline": "The Arc: ciencia ficción IA\ncon un presupuesto de $38,000",
-          "body": "The Arc, serie de Artlist hecha con 38.000 dólares en créditos de IA, carece de mérito artístico según IndieWire.",
-          "mini_headline": "Serie de ciencia ficción con IA por $38,000",
+          "headline": "ArtCraft lanza rivales de Adobe\ngratuitos y de código abierto",
+          "body": "ArtCraft lanzó FilmCraft y EffectCraft, rivales abiertos de Premiere Pro y After Effects que dice haber escrito con AI.",
+          "mini_headline": "Las alternativas gratuitas de ArtCraft a Adobe",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
-                "cap": "'The Arc' (captura de pantalla/YouTube)"
+                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+                "cap": "FilmCraft, de ArtCraft, aspira a sustituir a Adobe Premiere. Crédito de imagen: ArtCraft"
               },
               {
                 "t": "p",
-                "x": "La miniserie de ciencia ficción de cinco episodios “The Arc”, de Artlist, sigue a un padre atrapado en un sádico programa penitenciario del futuro que debe sobrevivir a frenéticas batallas históricas para ganar una “cura” para su hijo enfermo. El director Darin Stewart y Simone Ferretti, a cargo de la producción, dijeron a Business Insider que los modelos generativos democratizan el cine."
+                "x": "El desarrollador Brandon Thomas y su empresa ArtCraft han lanzado siete aplicaciones gratuitas y de código abierto inspiradas en las apps de Creative Cloud de Adobe, entre ellas FilmCraft, alternativa a Premiere Pro, y EffectCraft, para After Effects. Según Thomas, las aplicaciones se escribieron en Rust con ayuda de un modelo de programación de AI, y su motivación fue la penalización por cancelación de Adobe. Afirma que usó Claude Opus 5.5, de Anthropic, para escribir el código. ArtCraft las califica como software en fase alfa."
+              },
+              {
+                "t": "video",
+                "yt": "ZGeOTtmIoK0"
               },
               {
                 "t": "p",
-                "x": "Artlist, antes una biblioteca de música y efectos de sonido, se ha volcado por completo en la IA: ofrece planes escalonados para generar video, imágenes y texto, además de una modesta plataforma de streaming que muestra modelos como Veo, Seedance y Kling."
+                "x": "FilmCraft ofrece monitores Source y Program, una línea de tiempo multipista, recortes de tipo ripple, roll, slip y slide, y deshacer ilimitado. Sus códecs los ha escrito el propio proyecto, sin FFmpeg. No puede abrir proyectos de Premiere Pro; las líneas de tiempo pasan de uno a otro mediante Final Cut Pro 7 XML. El proyecto calcula que cubre alrededor del 86% de las funciones y que está en torno a un 56% “listo para trabajo real”."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
+                "cap": "Scopes y Timeline en FilmCraft. Crédito de imagen: ArtCraft"
               },
               {
                 "t": "p",
-                "x": "IndieWire sostiene que una obra hecha íntegramente con modelos generativos carece de “mérito artístico”, y cita el “volcado verbal de ideas de 10 minutos” que el equipo introdujo en Claude para obtener un guion, unos actores de IA inexpresivos y los límites de los modelos de ocho segundos (Veo) o 30 segundos (Seedance) por prompt."
+                "x": "EffectCraft ofrece 306 efectos, expresiones, cámaras y luces 3D, pero no puede abrir archivos .aep ni .aepx, y los plugins de After Effects no funcionan."
               },
               {
                 "t": "p",
-                "x": "El equipo recibió 38.000 dólares en créditos de IA, unos 7.600 dólares por episodio. Según cálculos de API-pricing, eso alcanzaría para generar 83 minutos de video; el plan AI Creator de Artlist cuesta 500 dólares al año. Todos cobraron una tarifa diaria completa, pero IndieWire advierte que menos personas trabajando más rápido conduce a la descualificación del entretenimiento."
+                "x": "Cada función de FilmCraft es un comando que puede activarse desde la UI, una herramienta de línea de comandos, un canal de control JSON o un servidor MCP, y el README indica que el tráiler y las correcciones de color de sus capturas los produjo un agente de AI que manejaba la aplicación. La afirmación de que se desarrolló en sala limpia no se ha verificado de forma independiente, y cuánto código escribió el modelo de AI depende del relato de Thomas. Adobe no ha hecho comentarios públicos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
+                "cap": "Graph editor con keyframes suavizados en EffectCraft. Crédito de imagen: ArtCraft"
+              },
+              {
+                "t": "p",
+                "x": "Todas las Craft Apps son gratuitas. Al cierre de esta edición, FilmCraft tenía unas 10,600 estrellas y 4,200 forks en GitHub."
               }
             ]
           }
@@ -201,125 +307,197 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "38,000달러로 만든\nAI SF The Arc",
-          "body": "AI 크레딧 38,000달러로 만든 The Arc를 IndieWire는 혹평했다.",
-          "mini_headline": "38,000달러짜리 AI SF 시리즈",
+          "headline": "ArtCraft, 무료\n오픈소스 Adobe 대항마",
+          "body": "ArtCraft가 AI로 짠 FilmCraft·EffectCraft를 공개했다.",
+          "mini_headline": "ArtCraft의 무료 Adobe 대항마",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
-                "cap": "'The Arc' (스크린숏/YouTube)"
+                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+                "cap": "ArtCraft의 FilmCraft는 Adobe Premiere를 대체하려는 앱이다. 이미지 제공: ArtCraft"
               },
               {
                 "t": "p",
-                "x": "Artlist의 5부작 SF 미니시리즈 “The Arc”는 가학적인 미래 감옥 프로그램에 갇힌 아버지가 병든 아들을 위한 “치료제”를 얻으려고 역사 속 격렬한 전투에서 살아남아야 하는 이야기다. 감독 Darin Stewart와 프로듀서 Simone Ferretti는 Business Insider에 생성형 모델이 영화 제작을 민주화한다고 말했다."
+                "x": "개발자 Brandon Thomas와 그의 회사 ArtCraft가 Adobe의 Creative Cloud 앱을 본뜬 무료 오픈소스 애플리케이션 일곱 개를 공개했다. Premiere Pro 대안인 FilmCraft와 After Effects용 EffectCraft도 여기에 포함된다. Thomas에 따르면 이 앱들은 AI 코딩 모델의 도움을 받아 Rust로 작성했고, 계기는 Adobe의 해지 위약금이었다. 그는 코드 작성에 Anthropic의 Claude Opus 5.5를 썼다고 말한다. ArtCraft는 이 앱들을 알파 버전 소프트웨어로 분류한다."
+              },
+              {
+                "t": "video",
+                "yt": "ZGeOTtmIoK0"
               },
               {
                 "t": "p",
-                "x": "음악·효과음 라이브러리였던 Artlist는 AI로 완전히 방향을 틀었다. 영상·이미지·텍스트 생성 요금제를 단계별로 제공하고, Veo, Seedance, Kling 같은 모델을 소개하는 소박한 스트리밍 플랫폼도 운영한다."
+                "x": "FilmCraft는 Source·Program 모니터, 멀티트랙 타임라인, 리플·롤·슬립·슬라이드 트림, 무제한 실행 취소를 갖췄다. 코덱은 FFmpeg 없이 프로젝트가 직접 작성했다. Premiere Pro 프로젝트는 열 수 없고, 두 프로그램 사이의 타임라인 이동은 Final Cut Pro 7 XML로 한다. 프로젝트 측은 기능 범위를 약 86%, “실제 작업에 쓸 준비”를 약 56%로 평가한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
+                "cap": "FilmCraft의 Scopes와 Timeline. 이미지 제공: ArtCraft"
               },
               {
                 "t": "p",
-                "x": "IndieWire는 생성형 모델만으로 만든 작품은 “예술적 가치가 없다”고 본다. 근거로 팀이 대본을 얻으려고 Claude에 넣은 “10분짜리 구두 브레인 덤프”, 표정 없는 AI 배우, 프롬프트당 8초(Veo) 또는 30초(Seedance)라는 모델 한도를 든다."
+                "x": "EffectCraft는 효과 306개와 익스프레션, 3D 카메라와 조명을 제공하지만 .aep·.aepx 파일은 열지 못하고 After Effects 플러그인도 실행되지 않는다."
               },
               {
                 "t": "p",
-                "x": "팀이 받은 AI 크레딧은 38,000달러로 편당 약 7,600달러다. API-pricing 기준으로 계산하면 83분 분량의 영상을 만들 수 있는 금액이며, Artlist의 AI Creator 요금제는 연 500달러다. 참여자 모두 하루 전액 일당을 받았지만, IndieWire는 더 적은 인원이 더 빨리 일하는 구조가 엔터테인먼트의 탈숙련화로 이어진다고 경고한다."
+                "x": "FilmCraft의 모든 기능은 UI, 명령줄 도구, JSON 제어 채널, MCP 서버 어디서든 실행할 수 있는 명령이다. README에 따르면 스크린숏 속 트레일러와 그레이딩은 앱을 조작한 AI 에이전트가 만들었다. 클린룸 개발이라는 주장은 독립적으로 검증되지 않았고, AI 모델이 코드를 얼마나 작성했는지는 Thomas의 설명에 기댈 수밖에 없다. Adobe는 공개 입장을 내지 않았다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
+                "cap": "EffectCraft의 Graph editor와 이징을 적용한 키프레임. 이미지 제공: ArtCraft"
+              },
+              {
+                "t": "p",
+                "x": "Craft Apps는 모두 무료다. 이 글을 쓰는 시점에 FilmCraft는 GitHub에서 스타 약 10,600개, 포크 4,200개를 기록했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "38,000ドルの\nAI SF「The Arc」",
-          "body": "AIクレジット38,000ドルで作られたThe ArcをIndieWireは酷評した。",
-          "mini_headline": "38,000ドルのAI SFシリーズ",
+          "headline": "ArtCraftが無料の\nAdobe対抗OSSを公開",
+          "body": "ArtCraftがAIの助けで書いたFilmCraftとEffectCraftを公開した。",
+          "mini_headline": "ArtCraftの無料Adobe対抗ソフト",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
-                "cap": "「The Arc」（スクリーンショット／YouTube）"
+                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+                "cap": "ArtCraftのFilmCraftはAdobe Premiereに代わるものとされる。画像提供:ArtCraft"
               },
               {
                 "t": "p",
-                "x": "Artlistの5話構成のSFミニシリーズ「The Arc」は、加虐的な未来の監獄プログラムに閉じ込められた父親が、病気の息子のための「治療薬」を得るため、歴史上の激しい戦いを生き延びなければならない物語だ。監督のDarin StewartとプロデューサーのSimone Ferrettiは、生成モデルが映画制作を民主化するとBusiness Insiderに語った。"
+                "x": "開発者のBrandon Thomasと彼の会社ArtCraftは、AdobeのCreative Cloudアプリを手本にした無料のオープンソースアプリ七つを公開した。Premiere Proの代替となるFilmCraftや、After Effects向けのEffectCraftも含まれる。Thomasによれば、アプリはAIコーディングモデルの助けを借りてRustで書かれ、動機はAdobeの解約金だったという。コードの記述にはAnthropicのClaude Opus 5.5を使ったと彼は話す。ArtCraftはこれらをアルファ版ソフトウェアと位置づけている。"
+              },
+              {
+                "t": "video",
+                "yt": "ZGeOTtmIoK0"
               },
               {
                 "t": "p",
-                "x": "かつて音楽・効果音ライブラリだったArtlistはAIへ全面的に転換し、動画・画像・テキスト生成の段階別プランに加え、Veo、Seedance、Klingなどのモデルを紹介する小規模なストリーミングプラットフォームも提供している。"
+                "x": "FilmCraftはSourceモニターとProgramモニター、マルチトラックのタイムライン、リップル・ロール・スリップ・スライドのトリム、無制限の取り消しを備える。コーデックはFFmpegを使わず、プロジェクト自身が書いた。Premiere Proのプロジェクトは開けず、両者の間のタイムライン移行はFinal Cut Pro 7 XMLで行う。プロジェクトは機能の幅を約86%、「実作業への準備度」を約56%と評価している。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
+                "cap": "FilmCraftのScopesとTimeline。画像提供:ArtCraft"
               },
               {
                 "t": "p",
-                "x": "IndieWireは、生成モデルだけで作られた作品は「芸術的価値がない」と論じる。根拠として、チームが脚本用にClaudeへ入力した「10分間の口頭ブレインダンプ」、表情に乏しいAI俳優、そしてプロンプトあたり8秒（Veo）または30秒（Seedance）というモデルの上限を挙げる。"
+                "x": "EffectCraftは306種のエフェクト、エクスプレッション、3D カメラとライトを備えるが、.aepや.aepxファイルは開けず、After Effectsのプラグインも動かない。"
               },
               {
                 "t": "p",
-                "x": "チームが得たAIクレジットは38,000ドルで、1話あたり約7,600ドルだ。API-pricingで計算すると83分の動画を生成できる額で、ArtlistのAI Creatorプランは年500ドルだ。全員に1日分の満額の日当が支払われたが、IndieWireは少人数でより速く働くことがエンターテインメントの脱スキル化につながると警告する。"
+                "x": "FilmCraftのすべての機能は、UI、コマンドラインツール、JSON制御チャネル、MCPサーバーのいずれからも実行できるコマンドになっている。READMEによると、スクリーンショットに写る予告編とグレーディングは、アプリを操作したAIエージェントが制作したものだ。クリーンルーム開発という主張は独自に検証されておらず、AIモデルがコードをどこまで書いたかはThomasの説明に依拠している。Adobeは公にコメントしていない。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
+                "cap": "EffectCraftのGraph editorと、イージングをかけたキーフレーム。画像提供:ArtCraft"
+              },
+              {
+                "t": "p",
+                "x": "Craft Appsはすべて無料だ。執筆時点で、FilmCraftはGitHubで約10,600のスターと4,200のフォークを集めていた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "花38,000美元打造\nAI科幻剧The Arc",
-          "body": "The Arc用38,000美元AI额度制作，被IndieWire评为毫无艺术价值。",
-          "mini_headline": "38,000美元的AI科幻剧",
+          "headline": "ArtCraft发布免费\n开源Adobe替代品",
+          "body": "ArtCraft发布借助AI编写的开源软件FilmCraft与EffectCraft。",
+          "mini_headline": "ArtCraft的免费Adobe替代品",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
-                "cap": "《The Arc》（截图/YouTube）"
+                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+                "cap": "ArtCraft的FilmCraft旨在取代Adobe Premiere。图片来源:ArtCraft"
               },
               {
                 "t": "p",
-                "x": "Artlist的五集科幻迷你剧《The Arc》讲述一位父亲被困在残酷的未来监狱程序中，必须在激烈的历史战役中活下来，才能为患病的儿子赢得“治疗”。导演Darin Stewart和制片人Simone Ferretti对Business Insider表示，生成式模型让电影制作走向大众化。"
+                "x": "开发者Brandon Thomas和他的公司ArtCraft发布了七款免费开源应用,均以Adobe的Creative Cloud应用为蓝本,其中包括替代Premiere Pro的FilmCraft和对应After Effects的EffectCraft。据Thomas介绍,这些应用借助AI编程模型用Rust编写,起因是Adobe的解约费。他表示,代码是用Anthropic的Claude Opus 5.5编写的。ArtCraft将其标注为alpha版软件。"
+              },
+              {
+                "t": "video",
+                "yt": "ZGeOTtmIoK0"
               },
               {
                 "t": "p",
-                "x": "Artlist曾是音乐和音效素材库，如今已全面转向AI，提供视频、图像和文本生成的分级套餐，并运营一个展示Veo、Seedance和Kling等模型的小型流媒体平台。"
+                "x": "FilmCraft提供Source和Program监视器、多轨时间线、波纹、滚动、滑移和滑动修剪,以及无限次撤销。其编解码器由项目自行编写,不依赖FFmpeg。它无法打开Premiere Pro项目,两者之间的时间线需通过Final Cut Pro 7 XML转移。项目方自评功能广度约为86%,“可用于实际工作”的程度约为56%。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
+                "cap": "FilmCraft中的Scopes与Timeline。图片来源:ArtCraft"
               },
               {
                 "t": "p",
-                "x": "IndieWire认为，完全依靠生成式模型完成的作品“毫无艺术价值”，理由包括团队为写剧本向Claude输入的“10分钟口头头脑倾倒”、缺乏表现力的AI演员，以及每条提示词只能生成8秒（Veo）或30秒（Seedance）的模型上限。"
+                "x": "EffectCraft提供306种效果、表达式、3D 摄像机和灯光,但无法打开.aep或.aepx文件,After Effects插件也无法运行。"
               },
               {
                 "t": "p",
-                "x": "团队获得了38,000美元的AI额度，每集约7,600美元。按API-pricing计算，这笔额度可生成83分钟视频；Artlist的AI Creator套餐每年500美元。所有人都按全天日薪拿到报酬，但IndieWire警告，更少的人更快地工作，会导致娱乐业的去技能化。"
+                "x": "FilmCraft的每项功能都是一条命令,可从UI、命令行工具、JSON控制通道或MCP服务器触发。README称,截图中的预告片和调色均由操作该应用的AI智能体完成。其“净室”开发的说法尚未经独立核实,AI模型究竟写了多少代码也只能依据Thomas的说法。Adobe尚未公开置评。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
+                "cap": "EffectCraft中带缓动关键帧的Graph editor。图片来源:ArtCraft"
+              },
+              {
+                "t": "p",
+                "x": "所有Craft Apps均免费。截至发稿时,FilmCraft在GitHub上约有10,600颗星和4,200个分叉。"
               }
             ]
           }
         },
         "es": {
-          "headline": "The Arc: ciencia ficción IA\ncon un presupuesto de $38,000",
-          "body": "The Arc, serie de Artlist hecha con 38.000 dólares en créditos de IA, carece de mérito artístico según IndieWire.",
-          "mini_headline": "Serie de ciencia ficción con IA por $38,000",
+          "headline": "ArtCraft lanza rivales de Adobe\ngratuitos y de código abierto",
+          "body": "ArtCraft lanzó FilmCraft y EffectCraft, rivales abiertos de Premiere Pro y After Effects que dice haber escrito con AI.",
+          "mini_headline": "Las alternativas gratuitas de ArtCraft a Adobe",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
-                "cap": "'The Arc' (captura de pantalla/YouTube)"
+                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+                "cap": "FilmCraft, de ArtCraft, aspira a sustituir a Adobe Premiere. Crédito de imagen: ArtCraft"
               },
               {
                 "t": "p",
-                "x": "La miniserie de ciencia ficción de cinco episodios “The Arc”, de Artlist, sigue a un padre atrapado en un sádico programa penitenciario del futuro que debe sobrevivir a frenéticas batallas históricas para ganar una “cura” para su hijo enfermo. El director Darin Stewart y Simone Ferretti, a cargo de la producción, dijeron a Business Insider que los modelos generativos democratizan el cine."
+                "x": "El desarrollador Brandon Thomas y su empresa ArtCraft han lanzado siete aplicaciones gratuitas y de código abierto inspiradas en las apps de Creative Cloud de Adobe, entre ellas FilmCraft, alternativa a Premiere Pro, y EffectCraft, para After Effects. Según Thomas, las aplicaciones se escribieron en Rust con ayuda de un modelo de programación de AI, y su motivación fue la penalización por cancelación de Adobe. Afirma que usó Claude Opus 5.5, de Anthropic, para escribir el código. ArtCraft las califica como software en fase alfa."
+              },
+              {
+                "t": "video",
+                "yt": "ZGeOTtmIoK0"
               },
               {
                 "t": "p",
-                "x": "Artlist, antes una biblioteca de música y efectos de sonido, se ha volcado por completo en la IA: ofrece planes escalonados para generar video, imágenes y texto, además de una modesta plataforma de streaming que muestra modelos como Veo, Seedance y Kling."
+                "x": "FilmCraft ofrece monitores Source y Program, una línea de tiempo multipista, recortes de tipo ripple, roll, slip y slide, y deshacer ilimitado. Sus códecs los ha escrito el propio proyecto, sin FFmpeg. No puede abrir proyectos de Premiere Pro; las líneas de tiempo pasan de uno a otro mediante Final Cut Pro 7 XML. El proyecto calcula que cubre alrededor del 86% de las funciones y que está en torno a un 56% “listo para trabajo real”."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
+                "cap": "Scopes y Timeline en FilmCraft. Crédito de imagen: ArtCraft"
               },
               {
                 "t": "p",
-                "x": "IndieWire sostiene que una obra hecha íntegramente con modelos generativos carece de “mérito artístico”, y cita el “volcado verbal de ideas de 10 minutos” que el equipo introdujo en Claude para obtener un guion, unos actores de IA inexpresivos y los límites de los modelos de ocho segundos (Veo) o 30 segundos (Seedance) por prompt."
+                "x": "EffectCraft ofrece 306 efectos, expresiones, cámaras y luces 3D, pero no puede abrir archivos .aep ni .aepx, y los plugins de After Effects no funcionan."
               },
               {
                 "t": "p",
-                "x": "El equipo recibió 38.000 dólares en créditos de IA, unos 7.600 dólares por episodio. Según cálculos de API-pricing, eso alcanzaría para generar 83 minutos de video; el plan AI Creator de Artlist cuesta 500 dólares al año. Todos cobraron una tarifa diaria completa, pero IndieWire advierte que menos personas trabajando más rápido conduce a la descualificación del entretenimiento."
+                "x": "Cada función de FilmCraft es un comando que puede activarse desde la UI, una herramienta de línea de comandos, un canal de control JSON o un servidor MCP, y el README indica que el tráiler y las correcciones de color de sus capturas los produjo un agente de AI que manejaba la aplicación. La afirmación de que se desarrolló en sala limpia no se ha verificado de forma independiente, y cuánto código escribió el modelo de AI depende del relato de Thomas. Adobe no ha hecho comentarios públicos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
+                "cap": "Graph editor con keyframes suavizados en EffectCraft. Crédito de imagen: ArtCraft"
+              },
+              {
+                "t": "p",
+                "x": "Todas las Craft Apps son gratuitas. Al cierre de esta edición, FilmCraft tenía unas 10,600 estrellas y 4,200 forks en GitHub."
               }
             ]
           }
@@ -327,15 +505,15 @@
       }
     },
     {
-      "id": "movies-cottbus-woman-asleep",
+      "id": "movies-nvidia-editors-day",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Cottbus 경쟁 부문에\nAI 장편 영화 선정",
-      "body": "Cottbus 영화제가 AI 장편 A Woman Asleep을 경쟁작에 뽑았다.",
-      "mini_headline": "Cottbus, AI 장편 선정",
+      "headline": "Nvidia, 영상 편집에\nRTX Spark 제안",
+      "body": "Nvidia Editor's Day는 RTX Spark를 로컬 AI용으로 알렸다.",
+      "mini_headline": "편집자를 위한 RTX Spark",
       "tool": "Movies",
-      "source": "Screen Daily",
-      "url": "https://www.screendaily.com/news/filmfest-cottbus-selects-ai-generated-feature-a-woman-asleep-for-main-competition/5220948.article",
+      "source": "postPerspective",
+      "url": "https://postperspective.com/nvidias-editors-day-new-windows-based-rtx-spark-computers/",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -343,181 +521,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
-            "cap": "A Woman Asleep"
+            "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
           },
           {
             "t": "p",
-            "x": "아티스트이자 영화감독인 Vikki Bardot의 AI-generated 장편 A Woman Asleep이 11월 3~8일 열리는 독일 FilmFestival Cottbus 본선 경쟁 부문에 선정됐다. 기성 국제영화제 본선 경쟁에 오른 AI-generated 장편은 이번이 처음으로 알려졌다."
+            "x": "Mike McCarthy는 San Francisco에서 열린 Nvidia의 “Editor’s Day”에 참석했다. RTX Spark 노트북·데스크톱 라인업 출시를 앞두고 회사가 마련한 행사로, AI와 새 하드웨어로 로컬 AI 처리를 어떻게 돌리는지 다룬 발표가 하루 종일 이어졌다."
           },
           {
             "t": "p",
-            "x": "Bardot의 반자전적 각본으로 만든 이 영화는 숏 50,000개를 편집한 결과물이다. 숏은 모두 Bardot가 직접 학습·맞춤화한 AI 모델로 생성했다. 내레이션은 감독의 AI 음성 클론이 맡았고, 음악도 모두 AI로 생성했다."
+            "x": "통합 메모리 덕분에 GPUs가 시스템 메모리를 최대 전부까지 쓸 수 있어, 돌릴 수 있는 AI 모델의 선택지가 넓어진다. Nvidia는 Adobe와 손잡고 클라우드에서 돌던 Creative Cloud 기능 일부를 로컬로 가져왔다. Premiere의 이미지 마스킹과 오디오 향상, Photoshop의 개체 제거 같은 기능이다. 클라우드와 로컬 처리 중 하나를 고르는 UI 옵션도 새로 생겼다."
+          },
+          {
+            "t": "img",
+            "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
           },
           {
             "t": "p",
-            "x": "“점점 더 단절되고 기계처럼 변해 가는 사회를 비추려고 합성 이미지와 감정이 밋밋한 제 목소리의 AI 클론을 의도적으로 썼습니다.” Bardot의 말이다."
+            "x": "두 번째로 내민 것은 MCP로 묶은 에이전트형 AI다. SparkN1x는 ARM 프로세서를 CPU로 쓰고 Windows 11 for ARM에서 돌아간다. McCarthy가 로컬 Qwen3.8-27B 모델로 Hermes 하네스를 시험해 보니 MCP로 Blender에 붙지 못했고, ComfyUI 프롬프트에서 단어 하나 바꾸는 데 40분이 걸렸다. “에이전트형 AI를 처음 써 본 경험은 긍정적이지 않았다.”"
+          },
+          {
+            "t": "img",
+            "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
           },
           {
             "t": "p",
-            "x": "제작은 터키의 Spongeworthy Studio, 각본은 Alkan Avcıoğlu와 함께 썼다. 이달 말 Antalya Golden Orange에서 첫선을 보이며, 터키 배급사 Başka Sinema에 판매됐다. 영화제 집행위원장 Bernd Buder는 이 작품의 “분석적 예리함, 개인적 감성, 서사적 침착함”을 치켜세웠다."
+            "x": "Nvidia 계산으로는 RTX Spark를 쉬지 않고 돌리면 한 달에 $1,200 어치의 AI-token을 처리할 수 있다. 실사용 테스트 대부분에서 McCarthy의 Surface Ultra 노트북은 자신의 Core i7 데스크톱 워크스테이션과 비슷한 성능을 냈다."
           }
         ]
       },
-      "_lead_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Cottbus puts an AI feature\nin its main competition",
-          "body": "FilmFest Cottbus named Vikki Bardot's AI-generated feature A Woman Asleep among the 10 films in its main competition.",
-          "mini_headline": "Cottbus picks an AI feature",
+          "headline": "Nvidia pitches RTX Spark\nto video editors",
+          "body": "Nvidia's Editor's Day framed its new RTX Spark laptops and desktops as hardware for local AI processing in editing.",
+          "mini_headline": "RTX Spark for editors",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
-                "cap": "A Woman Asleep"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
               },
               {
                 "t": "p",
-                "x": "Artist and filmmaker Vikki Bardot's AI-generated feature A Woman Asleep has been selected in the main competition of Germany's FilmFestival Cottbus, which runs November 3-8. It is believed to be the first AI-generated feature selected for the main competition of an established international film festival."
+                "x": "Mike McCarthy attended Nvidia’s “Editor’s Day” in San Francisco, the company’s lead-up to the launch of its RTX Spark line of laptops and desktops — a day of presentations about AI and how the new hardware enables local AI processing."
               },
               {
                 "t": "p",
-                "x": "Based on Bardot's semi-autobiographical screenplay, the film is an edit of 50,000 shots, all generated through AI models trained and customised by Bardot. It is narrated by an AI voice clone of the director, and all its music is AI-generated."
+                "x": "Unified memory gives GPUs access to up to the entire system memory, opening up more AI model options. Nvidia has worked with Adobe to make some cloud-processed Creative Cloud functions available locally, including image masking and audio enhancement in Premiere and object removal in Photoshop, with new UI options to choose cloud or local processing."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
               },
               {
                 "t": "p",
-                "x": "“I intentionally used synthetic imagery and an emotionally flat AI clone of my own voice to reflect a society that is increasingly detached and becoming more machine-like,” Bardot said."
+                "x": "The second pitch is agentic AI via MCP. The SparkN1x’s CPU is an ARM processor, running Windows 11 for ARM. McCarthy tried the Hermes harness with the local Qwen3.8-27B model: it couldn’t connect to Blender via MCP, and changing one word in a ComfyUI prompt took 40 minutes. “My first attempts at using agentic AI have not been a positive experience.”"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
               },
               {
                 "t": "p",
-                "x": "It is produced by Turkey-based Spongeworthy Studio and co-written with Alkan Avcıoğlu. It premieres at Antalya Golden Orange later this month and has sold to Turkish distributor Başka Sinema. Festival director Bernd Buder praised its “analytical acuity, a personal touch, and narrative composure.”"
+                "x": "Nvidia calculates a fully busy RTX Spark could do $1,200 worth of AI-token processing per month. In most real-world tests, McCarthy’s Surface Ultra laptop is on par with his Core i7 desktop workstation."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Cottbus 경쟁 부문에\nAI 장편 영화 선정",
-          "body": "Cottbus 영화제가 AI 장편 A Woman Asleep을 경쟁작에 뽑았다.",
-          "mini_headline": "Cottbus, AI 장편 선정",
+          "headline": "Nvidia, 영상 편집에\nRTX Spark 제안",
+          "body": "Nvidia Editor's Day는 RTX Spark를 로컬 AI용으로 알렸다.",
+          "mini_headline": "편집자를 위한 RTX Spark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
-                "cap": "A Woman Asleep"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
               },
               {
                 "t": "p",
-                "x": "아티스트이자 영화감독인 Vikki Bardot의 AI-generated 장편 A Woman Asleep이 11월 3~8일 열리는 독일 FilmFestival Cottbus 본선 경쟁 부문에 선정됐다. 기성 국제영화제 본선 경쟁에 오른 AI-generated 장편은 이번이 처음으로 알려졌다."
+                "x": "Mike McCarthy는 San Francisco에서 열린 Nvidia의 “Editor’s Day”에 참석했다. RTX Spark 노트북·데스크톱 라인업 출시를 앞두고 회사가 마련한 행사로, AI와 새 하드웨어로 로컬 AI 처리를 어떻게 돌리는지 다룬 발표가 하루 종일 이어졌다."
               },
               {
                 "t": "p",
-                "x": "Bardot의 반자전적 각본으로 만든 이 영화는 숏 50,000개를 편집한 결과물이다. 숏은 모두 Bardot가 직접 학습·맞춤화한 AI 모델로 생성했다. 내레이션은 감독의 AI 음성 클론이 맡았고, 음악도 모두 AI로 생성했다."
+                "x": "통합 메모리 덕분에 GPUs가 시스템 메모리를 최대 전부까지 쓸 수 있어, 돌릴 수 있는 AI 모델의 선택지가 넓어진다. Nvidia는 Adobe와 손잡고 클라우드에서 돌던 Creative Cloud 기능 일부를 로컬로 가져왔다. Premiere의 이미지 마스킹과 오디오 향상, Photoshop의 개체 제거 같은 기능이다. 클라우드와 로컬 처리 중 하나를 고르는 UI 옵션도 새로 생겼다."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
               },
               {
                 "t": "p",
-                "x": "“점점 더 단절되고 기계처럼 변해 가는 사회를 비추려고 합성 이미지와 감정이 밋밋한 제 목소리의 AI 클론을 의도적으로 썼습니다.” Bardot의 말이다."
+                "x": "두 번째로 내민 것은 MCP로 묶은 에이전트형 AI다. SparkN1x는 ARM 프로세서를 CPU로 쓰고 Windows 11 for ARM에서 돌아간다. McCarthy가 로컬 Qwen3.8-27B 모델로 Hermes 하네스를 시험해 보니 MCP로 Blender에 붙지 못했고, ComfyUI 프롬프트에서 단어 하나 바꾸는 데 40분이 걸렸다. “에이전트형 AI를 처음 써 본 경험은 긍정적이지 않았다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
               },
               {
                 "t": "p",
-                "x": "제작은 터키의 Spongeworthy Studio, 각본은 Alkan Avcıoğlu와 함께 썼다. 이달 말 Antalya Golden Orange에서 첫선을 보이며, 터키 배급사 Başka Sinema에 판매됐다. 영화제 집행위원장 Bernd Buder는 이 작품의 “분석적 예리함, 개인적 감성, 서사적 침착함”을 치켜세웠다."
+                "x": "Nvidia 계산으로는 RTX Spark를 쉬지 않고 돌리면 한 달에 $1,200 어치의 AI-token을 처리할 수 있다. 실사용 테스트 대부분에서 McCarthy의 Surface Ultra 노트북은 자신의 Core i7 데스크톱 워크스테이션과 비슷한 성능을 냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Cottbus映画祭が\nAI長編をコンペ選出",
-          "body": "FilmFest CottbusがAI長編A Woman Asleepをコンペに選んだ。",
-          "mini_headline": "CottbusがAI長編を選出",
+          "headline": "Nvidia、映像編集者に\nRTX Sparkを売り込む",
+          "body": "NvidiaはEditor's DayでRTX SparkをローカルAI向けに打ち出した。",
+          "mini_headline": "編集者向けのRTX Spark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
-                "cap": "A Woman Asleep"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
               },
               {
                 "t": "p",
-                "x": "アーティストで映画監督のVikki BardotによるAI-generated長編A Woman Asleepが、11月3〜8日に開催されるドイツのFilmFestival Cottbusのメインコンペティションに選ばれた。定評ある国際映画祭のメインコンペに選ばれたAI-generated長編としては初とみられる。"
+                "x": "Mike McCarthyは、San Franciscoで開かれたNvidiaの「Editor’s Day」に参加した。ノートPCとデスクトップからなるRTX Sparkシリーズの発売に向けた同社のイベントで、AIと、新しいハードウェアがいかにローカルAI処理を可能にするかをめぐるプレゼンテーションが終日続いた。"
               },
               {
                 "t": "p",
-                "x": "Bardotの半自伝的な脚本に基づく本作は50,000ショットを編集したもので、すべてBardotが自ら学習・カスタマイズしたAIモデルで生成された。ナレーションは監督のAI音声クローンが担い、音楽もすべてAIで生成されている。"
+                "x": "ユニファイドメモリにより、GPUsは最大でシステムメモリ全体にアクセスでき、選べるAIモデルの幅が広がる。NvidiaはAdobeと協力し、クラウドで処理していたCreative Cloudの一部機能をローカルで使えるようにした。Premiereの画像マスキングと音声補正、Photoshopのオブジェクト削除などが対象で、クラウド処理とローカル処理を選べる新しいUIオプションも加わった。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
               },
               {
                 "t": "p",
-                "x": "「ますます切り離され、機械のようになっていく社会を映すため、合成映像と、感情の起伏がない私自身の声のAIクローンを意図的に使った」とBardotは語った。"
+                "x": "二つ目の売り込みは、MCPを介したエージェント型AIだ。SparkN1xのCPUはARMプロセッサーで、Windows 11 for ARMで動く。McCarthyはローカルのQwen3.8-27B モデルでHermesハーネスを試したが、MCP経由でBlenderに接続できず、ComfyUIのプロンプトの単語を一つ変えるのに40分かかった。「エージェント型AIを使う最初の試みは、好ましい体験ではなかった」"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
               },
               {
                 "t": "p",
-                "x": "製作はトルコを拠点とするSpongeworthy Studioで、脚本はAlkan Avcıoğluとの共同執筆だ。今月下旬にAntalya Golden Orangeで初上映され、トルコの配給会社Başka Sinemaに販売された。映画祭ディレクターのBernd Buderは、その「分析的な鋭さ、個人的な手触り、物語の落ち着き」を称えた。"
+                "x": "Nvidiaの試算では、フル稼働のRTX Sparkは月に$1,200相当のAI-token 処理をこなせる。実環境のテストの大半で、McCarthyのSurface Ultraノートは、彼のCore i7 デスクトップワークステーションと互角だった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI长片入围\nCottbus主竞赛",
-          "body": "FilmFest Cottbus将AI长片A Woman Asleep选入主竞赛单元。",
-          "mini_headline": "Cottbus选入AI长片",
+          "headline": "Nvidia向视频剪辑师\n推介RTX Spark",
+          "body": "Nvidia在Editor's Day上将RTX Spark定位为本地AI剪辑硬件。",
+          "mini_headline": "面向剪辑师的RTX Spark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
-                "cap": "A Woman Asleep"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
               },
               {
                 "t": "p",
-                "x": "艺术家兼电影人Vikki Bardot的AI-generated长片A Woman Asleep入选德国FilmFestival Cottbus主竞赛单元，该电影节于11月3日至8日举行。这被认为是首部入选知名国际电影节主竞赛单元的AI-generated长片。"
+                "x": "Mike McCarthy参加了Nvidia在San Francisco举办的“Editor’s Day”。这是该公司为RTX Spark系列笔记本和台式机发布所做的预热活动,一整天的演讲围绕AI以及新硬件如何实现本地AI处理展开。"
               },
               {
                 "t": "p",
-                "x": "影片改编自Bardot的半自传剧本，由50,000个镜头剪辑而成，所有镜头均由Bardot亲自训练和定制的AI模型生成。旁白由导演本人的AI声音克隆完成，全部配乐也由AI生成。"
+                "x": "统一内存让GPUs最多可以访问全部系统内存,从而可选用更多AI模型。Nvidia与Adobe合作,把部分原本在云端处理的Creative Cloud功能搬到本地,包括Premiere中的图像蒙版和音频增强,以及Photoshop中的对象移除,并新增了可选择云端或本地处理的UI选项。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
               },
               {
                 "t": "p",
-                "x": "Bardot表示：“我有意使用合成影像和情感平淡的本人声音AI克隆，来映照一个日益疏离、越来越像机器的社会。”"
+                "x": "第二个卖点是通过MCP实现的智能体AI。SparkN1x的CPU是ARM处理器,运行Windows 11 for ARM。McCarthy用本地Qwen3.8-27B 模型试用了Hermes框架:它无法通过MCP连接Blender,在ComfyUI提示词里改一个词花了40分钟。“我最初几次使用智能体AI的体验并不好。”"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
               },
               {
                 "t": "p",
-                "x": "影片由土耳其的Spongeworthy Studio制作，与Alkan Avcıoğlu共同编剧，将于本月晚些时候在Antalya Golden Orange首映，并已售予土耳其发行商Başka Sinema。电影节总监Bernd Buder称赞其“分析上的敏锐、个人化的触感和叙事上的从容”。"
+                "x": "Nvidia估算,满负荷运行的RTX Spark每月可完成价值$1,200的AI-token 处理。在大多数实际测试中,McCarthy的Surface Ultra笔记本与他的Core i7 台式工作站不相上下。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cottbus lleva un largometraje\nde IA a su competición oficial",
-          "body": "FilmFest Cottbus incluyó A Woman Asleep, largometraje AI-generated de Vikki Bardot, entre sus 10 filmes a concurso.",
-          "mini_headline": "Cottbus elige un largometraje de IA",
+          "headline": "Nvidia promociona RTX Spark\nentre los editores de video",
+          "body": "En su Editor's Day, Nvidia presentó sus nuevos portátiles y equipos de escritorio RTX Spark como hardware de AI local.",
+          "mini_headline": "RTX Spark para editores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
-                "cap": "A Woman Asleep"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
               },
               {
                 "t": "p",
-                "x": "El largometraje AI-generated A Woman Asleep, de la artista y cineasta Vikki Bardot, ha sido seleccionado para la competición principal del FilmFestival Cottbus de Alemania, que se celebra del 3 al 8 de noviembre. Se cree que es el primer largometraje AI-generated seleccionado para la competición principal de un festival internacional consolidado."
+                "x": "Mike McCarthy asistió al “Editor’s Day” de Nvidia en San Francisco, el evento previo al lanzamiento de su línea de portátiles y equipos de escritorio RTX Spark: una jornada de presentaciones sobre AI y sobre cómo el nuevo hardware permite el procesamiento local de AI."
               },
               {
                 "t": "p",
-                "x": "Basada en el guion semiautobiográfico de Bardot, la película es un montaje de 50.000 planos, todos generados con modelos de IA entrenados y personalizados por Bardot. La narra un clon de voz por IA de la directora, y toda su música está generada por IA."
+                "x": "La memoria unificada da a las GPUs acceso hasta a toda la memoria del sistema, lo que amplía las opciones de modelos de AI. Nvidia ha trabajado con Adobe para que algunas funciones de Creative Cloud que se procesaban en la nube estén disponibles en local, como el enmascarado de imagen y la mejora de audio en Premiere y la eliminación de objetos en Photoshop, con nuevas opciones de UI para elegir entre procesamiento en la nube o local."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
               },
               {
                 "t": "p",
-                "x": "“Usé intencionadamente imágenes sintéticas y un clon de IA emocionalmente plano de mi propia voz para reflejar una sociedad cada vez más desconectada y más parecida a una máquina”, dijo Bardot."
+                "x": "La segunda propuesta es la AI agéntica a través de MCP. La CPU del SparkN1x es un procesador ARM con Windows 11 for ARM. McCarthy probó el harness Hermes con el modelo local Qwen3.8-27B: no logró conectarse a Blender mediante MCP, y cambiar una palabra en un prompt de ComfyUI llevó 40 minutos. “Mis primeros intentos de usar AI agéntica no han sido una experiencia positiva”."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
               },
               {
                 "t": "p",
-                "x": "La produce Spongeworthy Studio, con sede en Turquía, y está coescrita con Alkan Avcıoğlu. Se estrena en el Antalya Golden Orange a finales de este mes y se ha vendido a la distribuidora turca Başka Sinema. El director del festival, Bernd Buder, elogió su “agudeza analítica, toque personal y serenidad narrativa”."
+                "x": "Nvidia calcula que un RTX Spark a pleno rendimiento podría realizar procesamiento AI-token por valor de $1,200 al mes. En la mayoría de las pruebas reales, el portátil Surface Ultra de McCarthy rinde a la par que su estación de trabajo de escritorio Core i7."
               }
             ]
           }
@@ -525,125 +743,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Cottbus 경쟁 부문에\nAI 장편 영화 선정",
-          "body": "Cottbus 영화제가 AI 장편 A Woman Asleep을 경쟁작에 뽑았다.",
-          "mini_headline": "Cottbus, AI 장편 선정",
+          "headline": "Nvidia, 영상 편집에\nRTX Spark 제안",
+          "body": "Nvidia Editor's Day는 RTX Spark를 로컬 AI용으로 알렸다.",
+          "mini_headline": "편집자를 위한 RTX Spark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
-                "cap": "A Woman Asleep"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
               },
               {
                 "t": "p",
-                "x": "아티스트이자 영화감독인 Vikki Bardot의 AI-generated 장편 A Woman Asleep이 11월 3~8일 열리는 독일 FilmFestival Cottbus 본선 경쟁 부문에 선정됐다. 기성 국제영화제 본선 경쟁 부문에 오른 첫 AI-generated 장편으로 알려졌다."
+                "x": "Mike McCarthy는 San Francisco에서 열린 Nvidia의 “Editor’s Day”에 참석했다. RTX Spark 노트북·데스크톱 라인업 출시를 앞두고 회사가 마련한 행사로, AI와 새 하드웨어가 로컬 AI 처리를 어떻게 가능하게 하는지를 다룬 발표가 하루 내내 이어졌다."
               },
               {
                 "t": "p",
-                "x": "Bardot의 반자전적 각본을 바탕으로 한 이 영화는 50,000개의 숏을 편집해 만들었고, 숏은 모두 Bardot가 직접 학습·맞춤화한 AI 모델로 생성했다. 내레이션은 감독의 AI 음성 클론이 맡았고, 음악도 모두 AI로 생성했다."
+                "x": "통합 메모리 덕분에 GPUs가 최대 시스템 메모리 전체를 쓸 수 있어 고를 수 있는 AI 모델의 폭이 넓어진다. Nvidia는 Adobe와 협력해 클라우드에서 처리하던 일부 Creative Cloud 기능을 로컬에서 쓸 수 있게 했다. Premiere의 이미지 마스킹과 오디오 향상, Photoshop의 개체 제거 등이 여기에 해당하며, 클라우드와 로컬 처리 중 하나를 고르는 새 UI 옵션도 생겼다."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
               },
               {
                 "t": "p",
-                "x": "“점점 더 단절되고 기계처럼 변해 가는 사회를 비추려고 합성 이미지와 감정이 밋밋한 제 목소리의 AI 클론을 의도적으로 썼습니다.” Bardot의 말이다."
+                "x": "두 번째 제안은 MCP를 통한 에이전트형 AI다. SparkN1x의 CPU는 ARM 프로세서이며 Windows 11 for ARM으로 돌아간다. McCarthy가 로컬 Qwen3.8-27B 모델로 Hermes 하네스를 시험해 보니 MCP로 Blender에 연결하지 못했고, ComfyUI 프롬프트의 단어 하나를 바꾸는 데 40분이 걸렸다. “에이전트형 AI를 처음 써 본 경험은 긍정적이지 않았다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
               },
               {
                 "t": "p",
-                "x": "제작은 터키의 Spongeworthy Studio가 맡았고 각본은 Alkan Avcıoğlu와 공동 집필했다. 이달 말 Antalya Golden Orange에서 첫선을 보이며, 터키 배급사 Başka Sinema에 판매됐다. 영화제 집행위원장 Bernd Buder는 이 작품의 “분석적 예리함, 개인적 감성, 서사적 침착함”을 높이 평가했다."
+                "x": "Nvidia는 RTX Spark를 쉬지 않고 돌리면 한 달에 $1,200 어치의 AI-token 처리를 할 수 있다고 계산한다. 실제 환경 테스트 대부분에서 McCarthy의 Surface Ultra 노트북은 그의 Core i7 데스크톱 워크스테이션과 대등했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Cottbus映画祭が\nAI長編をコンペ選出",
-          "body": "FilmFest CottbusがAI長編A Woman Asleepをコンペに選んだ。",
-          "mini_headline": "CottbusがAI長編を選出",
+          "headline": "Nvidia、映像編集者に\nRTX Sparkを売り込む",
+          "body": "NvidiaはEditor's DayでRTX SparkをローカルAI向けに打ち出した。",
+          "mini_headline": "編集者向けのRTX Spark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
-                "cap": "A Woman Asleep"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
               },
               {
                 "t": "p",
-                "x": "アーティストで映画監督のVikki BardotによるAI-generated長編A Woman Asleepが、11月3〜8日に開催されるドイツのFilmFestival Cottbusのメインコンペティションに選ばれた。定評ある国際映画祭のメインコンペに選ばれたAI-generated長編としては初とみられる。"
+                "x": "Mike McCarthyは、San Franciscoで開かれたNvidiaの「Editor’s Day」に参加した。ノートPCとデスクトップからなるRTX Sparkシリーズの発売に向けた同社のイベントで、AIと、新しいハードウェアがいかにローカルAI処理を可能にするかをめぐるプレゼンテーションが終日続いた。"
               },
               {
                 "t": "p",
-                "x": "Bardotの半自伝的な脚本に基づく本作は50,000ショットを編集したもので、すべてBardotが自ら学習・カスタマイズしたAIモデルで生成された。ナレーションは監督のAI音声クローンが担い、音楽もすべてAIで生成されている。"
+                "x": "ユニファイドメモリにより、GPUsは最大でシステムメモリ全体にアクセスでき、選べるAIモデルの幅が広がる。NvidiaはAdobeと協力し、クラウドで処理していたCreative Cloudの一部機能をローカルで使えるようにした。Premiereの画像マスキングと音声補正、Photoshopのオブジェクト削除などが対象で、クラウド処理とローカル処理を選べる新しいUIオプションも加わった。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
               },
               {
                 "t": "p",
-                "x": "「ますます切り離され、機械のようになっていく社会を映すため、合成映像と、感情の起伏がない私自身の声のAIクローンを意図的に使った」とBardotは語った。"
+                "x": "二つ目の売り込みは、MCPを介したエージェント型AIだ。SparkN1xのCPUはARMプロセッサーで、Windows 11 for ARMで動く。McCarthyはローカルのQwen3.8-27B モデルでHermesハーネスを試したが、MCP経由でBlenderに接続できず、ComfyUIのプロンプトの単語を一つ変えるのに40分かかった。「エージェント型AIを使う最初の試みは、好ましい体験ではなかった」"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
               },
               {
                 "t": "p",
-                "x": "製作はトルコを拠点とするSpongeworthy Studioで、脚本はAlkan Avcıoğluとの共同執筆だ。今月下旬にAntalya Golden Orangeで初上映され、トルコの配給会社Başka Sinemaに販売された。映画祭ディレクターのBernd Buderは、その「分析的な鋭さ、個人的な手触り、物語の落ち着き」を称えた。"
+                "x": "Nvidiaの試算では、フル稼働のRTX Sparkは月に$1,200相当のAI-token 処理をこなせる。実環境のテストの大半で、McCarthyのSurface Ultraノートは、彼のCore i7 デスクトップワークステーションと互角だった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI长片入围\nCottbus主竞赛",
-          "body": "FilmFest Cottbus将AI长片A Woman Asleep选入主竞赛单元。",
-          "mini_headline": "Cottbus选入AI长片",
+          "headline": "Nvidia向视频剪辑师\n推介RTX Spark",
+          "body": "Nvidia在Editor's Day上将RTX Spark定位为本地AI剪辑硬件。",
+          "mini_headline": "面向剪辑师的RTX Spark",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
-                "cap": "A Woman Asleep"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
               },
               {
                 "t": "p",
-                "x": "艺术家兼电影人Vikki Bardot的AI-generated长片A Woman Asleep入选德国FilmFestival Cottbus主竞赛单元，该电影节于11月3日至8日举行。这被认为是首部入选知名国际电影节主竞赛单元的AI-generated长片。"
+                "x": "Mike McCarthy参加了Nvidia在San Francisco举办的“Editor’s Day”。这是该公司为RTX Spark系列笔记本和台式机发布所做的预热活动,一整天的演讲围绕AI以及新硬件如何实现本地AI处理展开。"
               },
               {
                 "t": "p",
-                "x": "影片改编自Bardot的半自传剧本，由50,000个镜头剪辑而成，所有镜头均由Bardot亲自训练和定制的AI模型生成。旁白由导演本人的AI声音克隆完成，全部配乐也由AI生成。"
+                "x": "统一内存让GPUs最多可以访问全部系统内存,从而可选用更多AI模型。Nvidia与Adobe合作,把部分原本在云端处理的Creative Cloud功能搬到本地,包括Premiere中的图像蒙版和音频增强,以及Photoshop中的对象移除,并新增了可选择云端或本地处理的UI选项。"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
               },
               {
                 "t": "p",
-                "x": "Bardot表示：“我有意使用合成影像和情感平淡的本人声音AI克隆，来映照一个日益疏离、越来越像机器的社会。”"
+                "x": "第二个卖点是通过MCP实现的智能体AI。SparkN1x的CPU是ARM处理器,运行Windows 11 for ARM。McCarthy用本地Qwen3.8-27B 模型试用了Hermes框架:它无法通过MCP连接Blender,在ComfyUI提示词里改一个词花了40分钟。“我最初几次使用智能体AI的体验并不好。”"
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
               },
               {
                 "t": "p",
-                "x": "影片由土耳其的Spongeworthy Studio制作，与Alkan Avcıoğlu共同编剧，将于本月晚些时候在Antalya Golden Orange首映，并已售予土耳其发行商Başka Sinema。电影节总监Bernd Buder称赞其“分析上的敏锐、个人化的触感和叙事上的从容”。"
+                "x": "Nvidia估算,满负荷运行的RTX Spark每月可完成价值$1,200的AI-token 处理。在大多数实际测试中,McCarthy的Surface Ultra笔记本与他的Core i7 台式工作站不相上下。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cottbus lleva un largometraje\nde IA a su competición oficial",
-          "body": "FilmFest Cottbus incluyó A Woman Asleep, largometraje AI-generated de Vikki Bardot, entre sus 10 filmes a concurso.",
-          "mini_headline": "Cottbus elige un largometraje de IA",
+          "headline": "Nvidia promociona RTX Spark\nentre los editores de video",
+          "body": "En su Editor's Day, Nvidia presentó sus nuevos portátiles y equipos de escritorio RTX Spark como hardware de AI local.",
+          "mini_headline": "RTX Spark para editores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1120xAny/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
-                "cap": "A Woman Asleep"
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
               },
               {
                 "t": "p",
-                "x": "El largometraje AI-generated A Woman Asleep, de la artista y cineasta Vikki Bardot, ha sido seleccionado para la competición principal del FilmFestival Cottbus de Alemania, que se celebra del 3 al 8 de noviembre. Se cree que es el primer largometraje AI-generated seleccionado para la competición principal de un festival internacional consolidado."
+                "x": "Mike McCarthy asistió al “Editor’s Day” de Nvidia en San Francisco, el evento previo al lanzamiento de su línea de portátiles y equipos de escritorio RTX Spark: una jornada de presentaciones sobre AI y sobre cómo el nuevo hardware permite el procesamiento local de AI."
               },
               {
                 "t": "p",
-                "x": "Basada en el guion semiautobiográfico de Bardot, la película es un montaje de 50.000 planos, todos generados con modelos de IA entrenados y personalizados por Bardot. La narra un clon de voz por IA de la directora, y toda su música está generada por IA."
+                "x": "La memoria unificada da a las GPUs acceso hasta a toda la memoria del sistema, lo que amplía las opciones de modelos de AI. Nvidia ha trabajado con Adobe para que algunas funciones de Creative Cloud que se procesaban en la nube estén disponibles en local, como el enmascarado de imagen y la mejora de audio en Premiere y la eliminación de objetos en Photoshop, con nuevas opciones de UI para elegir entre procesamiento en la nube o local."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
               },
               {
                 "t": "p",
-                "x": "“Usé intencionadamente imágenes sintéticas y un clon de IA emocionalmente plano de mi propia voz para reflejar una sociedad cada vez más desconectada y más parecida a una máquina”, dijo Bardot."
+                "x": "La segunda propuesta es la AI agéntica a través de MCP. La CPU del SparkN1x es un procesador ARM con Windows 11 for ARM. McCarthy probó el harness Hermes con el modelo local Qwen3.8-27B: no logró conectarse a Blender mediante MCP, y cambiar una palabra en un prompt de ComfyUI llevó 40 minutos. “Mis primeros intentos de usar AI agéntica no han sido una experiencia positiva”."
+              },
+              {
+                "t": "img",
+                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
               },
               {
                 "t": "p",
-                "x": "La produce Spongeworthy Studio, con sede en Turquía, y está coescrita con Alkan Avcıoğlu. Se estrena en el Antalya Golden Orange a finales de este mes y se ha vendido a la distribuidora turca Başka Sinema. El director del festival, Bernd Buder, elogió su “agudeza analítica, toque personal y serenidad narrativa”."
+                "x": "Nvidia calcula que un RTX Spark a pleno rendimiento podría realizar procesamiento AI-token por valor de $1,200 al mes. En la mayoría de las pruebas reales, el portátil Surface Ultra de McCarthy rinde a la par que su estación de trabajo de escritorio Core i7."
               }
             ]
           }
@@ -651,251 +897,195 @@
       }
     },
     {
-      "id": "movies-claude-blender-blocking",
+      "id": "movies-gibney-musk-avatar",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude가 짜는\nBlender 숏 블로킹",
-      "body": "Claude가 Blender로 숏을 짜 AI 영상을 이끄는 워크플로가 공개됐다.",
-      "mini_headline": "Claude, Blender로 숏 블로킹",
+      "headline": "Alex Gibney,\n불발 Musk 인터뷰 재현",
+      "body": "Alex Gibney는 CGI 아바타로 못 한 Elon Musk 인터뷰를 재현했다.",
+      "mini_headline": "Gibney가 재현한 Musk 인터뷰",
       "tool": "Movies",
-      "source": "Curious Refuge (YouTube)",
-      "url": "https://www.youtube.com/watch?v=BExtQ740QgM",
+      "source": "IndieWire",
+      "url": "https://www.indiewire.com/features/podcast/alex-gibney-elon-musk-documentary-simulated-ai-interview-1235222409/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "BExtQ740QgM"
-          },
-          {
-            "t": "p",
-            "x": "Curious Refuge는 Albert Bozesan과 함께 AI 카메라 제어 워크플로를 소개한다. 텍스트 프롬프트에만 기대는 대신 3D로 숏부터 계획하고 그 애니메이션으로 AI 영상 생성을 이끄는 방식이다."
-          },
-          {
-            "t": "p",
-            "x": "Claude는 공식 Blender MCP 애드온으로 Blender에 붙어 지시대로 환경을 만들고 캐릭터 포즈를 잡고 카메라를 배치하고 애니메이션을 만든다."
-          },
-          {
             "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
-            "cap": "Blender MCP 애드온을 켠 화면"
+            "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+            "cap": "2026년 9월 8일 Venice, Italy에서 열린 제83회 Venice International Film Festival(베네치아 국제영화제) 'Musk' 포토콜에 참석한 Alex Gibney"
           },
           {
             "t": "p",
-            "x": "Albert가 만든 스타터 키트에는 프롬프트 템플릿, 카메라 가이드라인, Claude가 복제하고 포즈를 잡을 수 있는 리깅된 캐릭터, 환경 생성기, 720p 레퍼런스 렌더 설정이 들어 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
-            "cap": "Magnific으로 만든 환경 레퍼런스"
+            "x": "Alex Gibney가 Elon Musk를 그린 “Musk”에서 인공지능은 창작상의 선택이면서 경고하는 이야기이기도 하다. Gibney는 IndieWire의 “Screen Talk” 팟캐스트에서 Musk와 닿은 통로는 X가 유일했고, 제작진이 대면 인터뷰를 따내기는 불가능했을 거라고 말했다."
           },
           {
             "t": "p",
-            "x": "레퍼런스 이미지는 Magnific에서 만든다. 렌더링한 애니매틱과 이 이미지를 Seedance 2.5에 함께 올리면 최종 시네마틱 숏이 완성된다."
+            "x": "그래서 제작진은 일부러 uncanny-valley(불쾌한 골짜기) 느낌이 나는 Musk 아바타를 AI로 만들고, 그의 공개 발언을 모두 엮어 시뮬레이션 “인터뷰”를 꾸렸다. Gibney는 “Elon이 실제로 한 말을 방대한 데이터베이스로 모았고, 영화에 쓴 녹음은 바로 그 녹음이다”라고 말했다. 시뮬레이션 속에 산다는 생각에 Musk가 집착한다는 데서 떠올린 아이디어다."
+          },
+          {
+            "t": "p",
+            "x": "스튜디오 MakeMake와 함께 “세트를 디자인했다. 그가 입을 옷을 정했다. 게이머 의자에 앉히기로 했다 … 그런 다음 몇 가지 AI 도구로 그 인물을 오디오에 맞춰 동기화했다. 오디오는 실제 음성이다.”"
+          },
+          {
+            "t": "p",
+            "x": "영화는 AI를 경계하는 시선도 놓지 않는다. Gibney는 DOGE 직원들이 U.S. 시민 데이터를 대량으로 쌓아 둔 일, 그리고 그런 개인 데이터로 AI를 학습시키는 것을 두고 Geoffrey Hinton이 품은 우려를 짚는다."
           }
         ]
       },
-      "_lead_image": "https://i.ytimg.com/vi/BExtQ740QgM/maxresdefault.jpg",
-      "_video": "BExtQ740QgM",
       "text": {
         "en": {
-          "headline": "Claude drives Blender to\nblock shots for AI video",
-          "body": "Curious Refuge shows an AI camera-control workflow in which Claude drives Blender to block shots that guide AI video.",
-          "mini_headline": "Claude blocks shots in Blender",
+          "headline": "Alex Gibney simulates the\nMusk interview he never got",
+          "body": "For his documentary 'Musk', Alex Gibney used a CGI avatar to simulate the Elon Musk interview he could never get.",
+          "mini_headline": "Gibney's simulated Musk interview",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "BExtQ740QgM"
-              },
-              {
-                "t": "p",
-                "x": "Curious Refuge teams up with Albert Bozesan on an AI camera-control workflow: plan shots in 3D first, then use that animation to guide AI video generation instead of relying on text prompts alone."
-              },
-              {
-                "t": "p",
-                "x": "Claude connects to Blender through the official Blender MCP add-on, so it can build environments, pose characters, position cameras and create animations from instructions."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
-                "cap": "The Blender MCP add-on enabled"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+                "cap": "Alex Gibney at the 'Musk' photocall at The 83rd Venice International Film Festival on September 08, 2026 in Venice, Italy"
               },
               {
                 "t": "p",
-                "x": "Albert's starter kit supplies a prompt template, camera guidelines, a rigged character Claude can duplicate and pose, environment generators and a 720p reference render setup."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
-                "cap": "Environment reference generated in Magnific"
+                "x": "Artificial intelligence serves as both a creative choice and a cautionary tale in Alex Gibney’s Elon Musk portrait, “Musk.” On IndieWire’s “Screen Talk” podcast, Gibney said his sole contact with Musk was over X, and his team could never have secured a sit-down interview."
               },
               {
                 "t": "p",
-                "x": "Reference images come from Magnific; the rendered animatic is then uploaded with them to Seedance 2.5 to produce the final cinematic shot."
+                "x": "So the filmmakers used AI to construct an intentionally uncanny-valley avatar of Musk and to compile all his public remarks into a simulated “interview.” “We collected a massive database of stuff that Elon had actually said, and those recordings are the recordings that we actually use in the film,” Gibney said. The idea drew on Musk’s obsession with living in a simulation."
+              },
+              {
+                "t": "p",
+                "x": "Working with the studio MakeMake, “we designed a set. We decided what clothes he would wear. We decided to put him in a gamer chair … Then, we used some AI tools to sync that figure to the audio, which is real audio.”"
+              },
+              {
+                "t": "p",
+                "x": "The film also takes a cautionary position on AI: Gibney points to DOGE staff archiving a trove of U.S. citizen data, and Geoffrey Hinton’s concern about training an AI on that private data."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Claude가 짜는\nBlender 숏 블로킹",
-          "body": "Claude가 Blender로 숏을 짜 AI 영상을 이끄는 워크플로가 공개됐다.",
-          "mini_headline": "Claude, Blender로 숏 블로킹",
+          "headline": "Alex Gibney,\n불발 Musk 인터뷰 재현",
+          "body": "Alex Gibney는 CGI 아바타로 못 한 Elon Musk 인터뷰를 재현했다.",
+          "mini_headline": "Gibney가 재현한 Musk 인터뷰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "BExtQ740QgM"
-              },
-              {
-                "t": "p",
-                "x": "Curious Refuge는 Albert Bozesan과 함께 AI 카메라 제어 워크플로를 소개한다. 텍스트 프롬프트에만 기대는 대신 3D로 숏부터 계획하고 그 애니메이션으로 AI 영상 생성을 이끄는 방식이다."
-              },
-              {
-                "t": "p",
-                "x": "Claude는 공식 Blender MCP 애드온으로 Blender에 붙어 지시대로 환경을 만들고 캐릭터 포즈를 잡고 카메라를 배치하고 애니메이션을 만든다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
-                "cap": "Blender MCP 애드온을 켠 화면"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+                "cap": "2026년 9월 8일 Venice, Italy에서 열린 제83회 Venice International Film Festival(베네치아 국제영화제) 'Musk' 포토콜에 참석한 Alex Gibney"
               },
               {
                 "t": "p",
-                "x": "Albert가 만든 스타터 키트에는 프롬프트 템플릿, 카메라 가이드라인, Claude가 복제하고 포즈를 잡을 수 있는 리깅된 캐릭터, 환경 생성기, 720p 레퍼런스 렌더 설정이 들어 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
-                "cap": "Magnific으로 만든 환경 레퍼런스"
+                "x": "Alex Gibney가 Elon Musk를 그린 “Musk”에서 인공지능은 창작상의 선택이면서 경고하는 이야기이기도 하다. Gibney는 IndieWire의 “Screen Talk” 팟캐스트에서 Musk와 닿은 통로는 X가 유일했고, 제작진이 대면 인터뷰를 따내기는 불가능했을 거라고 말했다."
               },
               {
                 "t": "p",
-                "x": "레퍼런스 이미지는 Magnific에서 만든다. 렌더링한 애니매틱과 이 이미지를 Seedance 2.5에 함께 올리면 최종 시네마틱 숏이 완성된다."
+                "x": "그래서 제작진은 일부러 uncanny-valley(불쾌한 골짜기) 느낌이 나는 Musk 아바타를 AI로 만들고, 그의 공개 발언을 모두 엮어 시뮬레이션 “인터뷰”를 꾸렸다. Gibney는 “Elon이 실제로 한 말을 방대한 데이터베이스로 모았고, 영화에 쓴 녹음은 바로 그 녹음이다”라고 말했다. 시뮬레이션 속에 산다는 생각에 Musk가 집착한다는 데서 떠올린 아이디어다."
+              },
+              {
+                "t": "p",
+                "x": "스튜디오 MakeMake와 함께 “세트를 디자인했다. 그가 입을 옷을 정했다. 게이머 의자에 앉히기로 했다 … 그런 다음 몇 가지 AI 도구로 그 인물을 오디오에 맞춰 동기화했다. 오디오는 실제 음성이다.”"
+              },
+              {
+                "t": "p",
+                "x": "영화는 AI를 경계하는 시선도 놓지 않는다. Gibney는 DOGE 직원들이 U.S. 시민 데이터를 대량으로 쌓아 둔 일, 그리고 그런 개인 데이터로 AI를 학습시키는 것을 두고 Geoffrey Hinton이 품은 우려를 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claude×Blender\nAI動画のショットを設計",
-          "body": "ClaudeがBlenderを操り、AI動画を導くショットを組む手法が示された。",
-          "mini_headline": "ClaudeがBlenderでショット設計",
+          "headline": "Alex Gibney、\n幻のMusk取材を再現",
+          "body": "Alex GibneyはCGIアバターで叶わなかったElon Musk取材を再現した。",
+          "mini_headline": "Gibneyが再現したMusk取材",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "BExtQ740QgM"
-              },
-              {
-                "t": "p",
-                "x": "Curious RefugeはAlbert Bozesanと組み、AIカメラ制御のワークフローを紹介する。テキストプロンプトだけに頼らず、まず3Dでショットを計画し、そのアニメーションでAI動画生成を導く手法だ。"
-              },
-              {
-                "t": "p",
-                "x": "Claudeは公式のBlender MCPアドオンを通じてBlenderに接続し、指示に従って環境を構築し、キャラクターにポーズを付け、カメラを配置し、アニメーションを作成できる。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
-                "cap": "Blender MCPアドオンを有効化した状態"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+                "cap": "2026年9月8日、Venice, Italyで開かれた第83回Venice International Film Festival(ベネチア国際映画祭)の『Musk』フォトコールに臨むAlex Gibney"
               },
               {
                 "t": "p",
-                "x": "Albertのスターターキットには、プロンプトテンプレート、カメラのガイドライン、Claudeが複製してポーズを付けられるリグ付きキャラクター、環境ジェネレーター、720pのリファレンスレンダー設定が含まれる。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
-                "cap": "Magnificで生成した環境リファレンス"
+                "x": "Alex GibneyによるElon Muskの肖像「Musk」で、人工知能は創作上の選択であると同時に、警鐘の物語としても機能している。IndieWireのポッドキャスト「Screen Talk」でGibneyは、Muskとの唯一の接点はXだけで、制作チームが対面インタビューを取り付けることは到底できなかったと語った。"
               },
               {
                 "t": "p",
-                "x": "リファレンス画像はMagnificで作成する。レンダリングしたアニマティックをそれらと一緒にSeedance 2.5へアップロードし、最終的なシネマティックショットを生成する。"
+                "x": "そこで制作陣はAIを使い、あえてuncanny-valley(不気味の谷)を感じさせるMuskのアバターを作り、彼の公の発言をすべてまとめて、シミュレーションの「インタビュー」に仕立てた。「Elonが実際に語ったものの膨大なデータベースを集めた。映画で使っている録音は、まさにその録音だ」とGibneyは言う。この発想は、シミュレーションの中に生きているという考えへのMuskの執着に着想を得たものだ。"
+              },
+              {
+                "t": "p",
+                "x": "スタジオMakeMakeと組み、「セットをデザインした。彼が着る服を決めた。ゲーミングチェアに座らせることにした … それから、いくつかのAIツールを使ってその人物を音声に同期させた。音声は本物だ」"
+              },
+              {
+                "t": "p",
+                "x": "映画はAIに対して警戒的な立場も取る。GibneyはDOGEのスタッフがU.S. 市民のデータを大量に保存したことや、その個人データでAIを訓練することへのGeoffrey Hintonの懸念を指摘する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude用Blender\n为AI视频预排镜头",
-          "body": "一套AI运镜工作流让Claude操控Blender预排镜头，以引导AI视频。",
-          "mini_headline": "Claude在Blender中预排镜头",
+          "headline": "Alex Gibney模拟\n未能实现的Musk专访",
+          "body": "Alex Gibney在《Musk》中用CGI化身模拟了未能获得的Elon Musk采访。",
+          "mini_headline": "Gibney模拟的Musk采访",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "BExtQ740QgM"
-              },
-              {
-                "t": "p",
-                "x": "Curious Refuge与Albert Bozesan合作推出一套AI摄影机控制工作流：先在3D中规划镜头，再用这段动画引导AI视频生成，而不是只依赖文字提示词。"
-              },
-              {
-                "t": "p",
-                "x": "Claude通过官方的Blender MCP插件连接Blender，可以根据指令搭建场景、摆放角色姿势、布置摄影机并制作动画。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
-                "cap": "已启用的Blender MCP插件"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+                "cap": "2026年9月8日,Alex Gibney出席在Venice, Italy举行的第83届Venice International Film Festival(威尼斯国际电影节)《Musk》拍照活动"
               },
               {
                 "t": "p",
-                "x": "Albert的入门套件提供提示词模板、摄影机指南、可由Claude复制并摆姿势的绑定角色、环境生成器，以及720p参考渲染设置。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
-                "cap": "在Magnific中生成的环境参考图"
+                "x": "在Alex Gibney为Elon Musk创作的人物肖像片《Musk》中,人工智能既是一种创作选择,也是一则警示故事。Gibney在IndieWire的“Screen Talk”播客中表示,他与Musk唯一的接触是通过X,团队根本不可能争取到一次面对面的采访。"
               },
               {
                 "t": "p",
-                "x": "参考图来自Magnific；随后将渲染好的动态分镜与参考图一起上传到Seedance 2.5，生成最终的电影级镜头。"
+                "x": "于是,制作团队用AI打造了一个刻意带有uncanny-valley(恐怖谷)效果的Musk虚拟形象,并把他所有公开言论汇编成一场模拟“采访”。“我们收集了一个庞大的数据库,里面都是Elon真正说过的话,片中使用的正是这些录音。”Gibney说。这个创意源自Musk对“活在模拟世界中”的执念。"
+              },
+              {
+                "t": "p",
+                "x": "与工作室MakeMake合作时,“我们设计了布景,决定了他穿什么衣服,决定让他坐在电竞椅上……然后,我们用一些AI工具把这个形象与音频同步,而音频是真实的。”"
+              },
+              {
+                "t": "p",
+                "x": "影片也对AI持警示立场:Gibney提到DOGE工作人员存档了大量U.S. 公民数据,以及Geoffrey Hinton对用这些私人数据训练AI的担忧。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude maneja Blender para\nencuadrar tomas de video con IA",
-          "body": "Curious Refuge muestra cómo Claude maneja Blender para planificar tomas que luego guían el video generado con IA.",
-          "mini_headline": "Claude planifica tomas en Blender",
+          "headline": "Alex Gibney simula la entrevista\ncon Musk que nunca consiguió",
+          "body": "Para su documental 'Musk', Alex Gibney usó un avatar CGI para simular la entrevista con Elon Musk que nunca logró.",
+          "mini_headline": "La entrevista simulada de Gibney a Musk",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "BExtQ740QgM"
-              },
-              {
-                "t": "p",
-                "x": "Curious Refuge se une a Albert Bozesan en un flujo de trabajo de control de cámara con IA: primero se planifican las tomas en 3D y luego esa animación guía la generación de video con IA, en lugar de depender solo de prompts de texto."
-              },
-              {
-                "t": "p",
-                "x": "Claude se conecta a Blender mediante el complemento oficial Blender MCP, de modo que puede construir entornos, posar personajes, colocar cámaras y crear animaciones a partir de instrucciones."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
-                "cap": "El complemento Blender MCP activado"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+                "cap": "Alex Gibney en el photocall de 'Musk' en la 83.ª edición del Venice International Film Festival, el 8 de septiembre de 2026, en Venecia (Italia)"
               },
               {
                 "t": "p",
-                "x": "El kit de inicio de Albert incluye una plantilla de prompt, pautas de cámara, un personaje con rig que Claude puede duplicar y posar, generadores de entornos y una configuración de render de referencia a 720p."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
-                "cap": "Referencia de entorno generada en Magnific"
+                "x": "La inteligencia artificial es a la vez una decisión creativa y una advertencia en “Musk”, el retrato de Elon Musk firmado por Alex Gibney. En el pódcast “Screen Talk” de IndieWire, Gibney contó que su único contacto con Musk fue a través de X y que su equipo nunca habría conseguido una entrevista en persona."
               },
               {
                 "t": "p",
-                "x": "Las imágenes de referencia salen de Magnific; después, la animática renderizada se sube junto con ellas a Seedance 2.5 para producir la toma cinematográfica final."
+                "x": "Así que los cineastas usaron AI para construir un avatar de Musk deliberadamente situado en el valle inquietante y para reunir todas sus declaraciones públicas en una “entrevista” simulada. “Reunimos una enorme base de datos de cosas que Elon había dicho realmente, y esas grabaciones son las que usamos de verdad en la película”, dijo Gibney. La idea partía de la obsesión de Musk con la posibilidad de vivir en una simulación."
+              },
+              {
+                "t": "p",
+                "x": "Junto al estudio MakeMake, “diseñamos un decorado. Decidimos qué ropa llevaría. Decidimos sentarlo en una silla gamer … Después, usamos algunas herramientas de AI para sincronizar esa figura con el audio, que es audio real”."
+              },
+              {
+                "t": "p",
+                "x": "La película también adopta una postura de advertencia sobre la AI: Gibney señala que personal de DOGE archivó un gran volumen de datos de ciudadanos de U.S., y la preocupación de Geoffrey Hinton por entrenar una AI con esos datos privados."
               }
             ]
           }
@@ -903,161 +1093,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Claude가 짜는\nBlender 숏 블로킹",
-          "body": "Claude가 Blender로 숏을 짜 AI 영상을 이끄는 워크플로가 공개됐다.",
-          "mini_headline": "Claude, Blender로 숏 블로킹",
+          "headline": "Alex Gibney,\n불발 Musk 인터뷰 재현",
+          "body": "Alex Gibney는 CGI 아바타로 못 한 Elon Musk 인터뷰를 재현했다.",
+          "mini_headline": "Gibney가 재현한 Musk 인터뷰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "BExtQ740QgM"
-              },
-              {
-                "t": "p",
-                "x": "Curious Refuge는 Albert Bozesan과 함께 AI 카메라 제어 워크플로를 소개한다. 텍스트 프롬프트에만 기대지 않고, 먼저 3D로 숏을 계획한 뒤 그 애니메이션으로 AI 영상 생성을 이끄는 방식이다."
-              },
-              {
-                "t": "p",
-                "x": "Claude는 공식 Blender MCP 애드온으로 Blender에 연결돼, 지시에 따라 환경을 만들고 캐릭터 포즈를 잡고 카메라를 배치하고 애니메이션을 만든다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
-                "cap": "Blender MCP 애드온을 켠 화면"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+                "cap": "2026년 9월 8일 Venice, Italy에서 열린 제83회 Venice International Film Festival(베네치아 국제영화제) 'Musk' 포토콜에 참석한 Alex Gibney"
               },
               {
                 "t": "p",
-                "x": "Albert의 스타터 키트에는 프롬프트 템플릿, 카메라 가이드라인, Claude가 복제하고 포즈를 잡을 수 있는 리깅된 캐릭터, 환경 생성기, 720p 레퍼런스 렌더 설정이 들어 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
-                "cap": "Magnific으로 만든 환경 레퍼런스"
+                "x": "Alex Gibney가 Elon Musk를 그린 “Musk”에서 인공지능은 창작의 선택이자 경고의 이야기 역할을 한다. IndieWire의 “Screen Talk” 팟캐스트에서 Gibney는 Musk와의 유일한 접촉이 X를 통한 것이었고, 제작진이 대면 인터뷰를 따내기는 불가능했을 것이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "레퍼런스 이미지는 Magnific에서 만든다. 렌더링한 애니매틱을 이 이미지들과 함께 Seedance 2.5에 올리면 최종 시네마틱 숏이 나온다."
+                "x": "그래서 제작진은 AI로 일부러 uncanny-valley(불쾌한 골짜기) 느낌이 나는 Musk 아바타를 만들고, 그의 공개 발언을 모두 엮어 시뮬레이션 “인터뷰”를 구성했다. Gibney는 “Elon이 실제로 한 말을 방대한 데이터베이스로 모았고, 영화에 쓴 녹음은 바로 그 녹음이다”라고 말했다. 이 아이디어는 시뮬레이션 속에 살고 있다는 생각에 대한 Musk의 집착에서 착안했다."
+              },
+              {
+                "t": "p",
+                "x": "스튜디오 MakeMake와 함께 “세트를 디자인했다. 그가 입을 옷을 정했다. 게이머 의자에 앉히기로 했다 … 그런 다음 몇 가지 AI 도구로 그 인물을 오디오에 맞춰 동기화했다. 오디오는 실제 음성이다.”"
+              },
+              {
+                "t": "p",
+                "x": "영화는 AI에 대해 경계의 입장도 취한다. Gibney는 DOGE 직원들이 U.S. 시민 데이터를 대량으로 보관한 일과, 그 개인 데이터로 AI를 학습시키는 데 대한 Geoffrey Hinton의 우려를 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claude×Blender\nAI動画のショットを設計",
-          "body": "ClaudeがBlenderを操り、AI動画を導くショットを組む手法が示された。",
-          "mini_headline": "ClaudeがBlenderでショット設計",
+          "headline": "Alex Gibney、\n幻のMusk取材を再現",
+          "body": "Alex GibneyはCGIアバターで叶わなかったElon Musk取材を再現した。",
+          "mini_headline": "Gibneyが再現したMusk取材",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "BExtQ740QgM"
-              },
-              {
-                "t": "p",
-                "x": "Curious RefugeはAlbert Bozesanと組み、AIカメラ制御のワークフローを紹介する。テキストプロンプトだけに頼らず、まず3Dでショットを計画し、そのアニメーションでAI動画生成を導く手法だ。"
-              },
-              {
-                "t": "p",
-                "x": "Claudeは公式のBlender MCPアドオンを通じてBlenderに接続し、指示に従って環境を構築し、キャラクターにポーズを付け、カメラを配置し、アニメーションを作成できる。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
-                "cap": "Blender MCPアドオンを有効化した状態"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+                "cap": "2026年9月8日、Venice, Italyで開かれた第83回Venice International Film Festival(ベネチア国際映画祭)の『Musk』フォトコールに臨むAlex Gibney"
               },
               {
                 "t": "p",
-                "x": "Albertのスターターキットには、プロンプトテンプレート、カメラのガイドライン、Claudeが複製してポーズを付けられるリグ付きキャラクター、環境ジェネレーター、720pのリファレンスレンダー設定が含まれる。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
-                "cap": "Magnificで生成した環境リファレンス"
+                "x": "Alex GibneyによるElon Muskの肖像「Musk」で、人工知能は創作上の選択であると同時に、警鐘の物語としても機能している。IndieWireのポッドキャスト「Screen Talk」でGibneyは、Muskとの唯一の接点はXだけで、制作チームが対面インタビューを取り付けることは到底できなかったと語った。"
               },
               {
                 "t": "p",
-                "x": "リファレンス画像はMagnificで作成する。レンダリングしたアニマティックをそれらと一緒にSeedance 2.5へアップロードし、最終的なシネマティックショットを生成する。"
+                "x": "そこで制作陣はAIを使い、あえてuncanny-valley(不気味の谷)を感じさせるMuskのアバターを作り、彼の公の発言をすべてまとめて、シミュレーションの「インタビュー」に仕立てた。「Elonが実際に語ったものの膨大なデータベースを集めた。映画で使っている録音は、まさにその録音だ」とGibneyは言う。この発想は、シミュレーションの中に生きているという考えへのMuskの執着に着想を得たものだ。"
+              },
+              {
+                "t": "p",
+                "x": "スタジオMakeMakeと組み、「セットをデザインした。彼が着る服を決めた。ゲーミングチェアに座らせることにした … それから、いくつかのAIツールを使ってその人物を音声に同期させた。音声は本物だ」"
+              },
+              {
+                "t": "p",
+                "x": "映画はAIに対して警戒的な立場も取る。GibneyはDOGEのスタッフがU.S. 市民のデータを大量に保存したことや、その個人データでAIを訓練することへのGeoffrey Hintonの懸念を指摘する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude用Blender\n为AI视频预排镜头",
-          "body": "一套AI运镜工作流让Claude操控Blender预排镜头，以引导AI视频。",
-          "mini_headline": "Claude在Blender中预排镜头",
+          "headline": "Alex Gibney模拟\n未能实现的Musk专访",
+          "body": "Alex Gibney在《Musk》中用CGI化身模拟了未能获得的Elon Musk采访。",
+          "mini_headline": "Gibney模拟的Musk采访",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "BExtQ740QgM"
-              },
-              {
-                "t": "p",
-                "x": "Curious Refuge与Albert Bozesan合作推出一套AI摄影机控制工作流：先在3D中规划镜头，再用这段动画引导AI视频生成，而不是只依赖文字提示词。"
-              },
-              {
-                "t": "p",
-                "x": "Claude通过官方的Blender MCP插件连接Blender，可以根据指令搭建场景、摆放角色姿势、布置摄影机并制作动画。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
-                "cap": "已启用的Blender MCP插件"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+                "cap": "2026年9月8日,Alex Gibney出席在Venice, Italy举行的第83届Venice International Film Festival(威尼斯国际电影节)《Musk》拍照活动"
               },
               {
                 "t": "p",
-                "x": "Albert的入门套件提供提示词模板、摄影机指南、可由Claude复制并摆姿势的绑定角色、环境生成器，以及720p参考渲染设置。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
-                "cap": "在Magnific中生成的环境参考图"
+                "x": "在Alex Gibney为Elon Musk创作的人物肖像片《Musk》中,人工智能既是一种创作选择,也是一则警示故事。Gibney在IndieWire的“Screen Talk”播客中表示,他与Musk唯一的接触是通过X,团队根本不可能争取到一次面对面的采访。"
               },
               {
                 "t": "p",
-                "x": "参考图来自Magnific；随后将渲染好的动态分镜与参考图一起上传到Seedance 2.5，生成最终的电影级镜头。"
+                "x": "于是,制作团队用AI打造了一个刻意带有uncanny-valley(恐怖谷)效果的Musk虚拟形象,并把他所有公开言论汇编成一场模拟“采访”。“我们收集了一个庞大的数据库,里面都是Elon真正说过的话,片中使用的正是这些录音。”Gibney说。这个创意源自Musk对“活在模拟世界中”的执念。"
+              },
+              {
+                "t": "p",
+                "x": "与工作室MakeMake合作时,“我们设计了布景,决定了他穿什么衣服,决定让他坐在电竞椅上……然后,我们用一些AI工具把这个形象与音频同步,而音频是真实的。”"
+              },
+              {
+                "t": "p",
+                "x": "影片也对AI持警示立场:Gibney提到DOGE工作人员存档了大量U.S. 公民数据,以及Geoffrey Hinton对用这些私人数据训练AI的担忧。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude maneja Blender para\nencuadrar tomas de video con IA",
-          "body": "Curious Refuge muestra cómo Claude maneja Blender para planificar tomas que luego guían el video generado con IA.",
-          "mini_headline": "Claude planifica tomas en Blender",
+          "headline": "Alex Gibney simula la entrevista\ncon Musk que nunca consiguió",
+          "body": "Para su documental 'Musk', Alex Gibney usó un avatar CGI para simular la entrevista con Elon Musk que nunca logró.",
+          "mini_headline": "La entrevista simulada de Gibney a Musk",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "BExtQ740QgM"
-              },
-              {
-                "t": "p",
-                "x": "Curious Refuge se une a Albert Bozesan en un flujo de trabajo de control de cámara con IA: primero se planifican las tomas en 3D y luego esa animación guía la generación de video con IA, en lugar de depender solo de prompts de texto."
-              },
-              {
-                "t": "p",
-                "x": "Claude se conecta a Blender mediante el complemento oficial Blender MCP, de modo que puede construir entornos, posar personajes, colocar cámaras y crear animaciones a partir de instrucciones."
-              },
-              {
                 "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/08623924-d029-45f7-bded-1921a6d82722/02+-+Step1+-+Blender+MCP+add-on+enabled.jpg",
-                "cap": "El complemento Blender MCP activado"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+                "cap": "Alex Gibney en el photocall de 'Musk' en la 83.ª edición del Venice International Film Festival, el 8 de septiembre de 2026, en Venecia (Italia)"
               },
               {
                 "t": "p",
-                "x": "El kit de inicio de Albert incluye una plantilla de prompt, pautas de cámara, un personaje con rig que Claude puede duplicar y posar, generadores de entornos y una configuración de render de referencia a 720p."
-              },
-              {
-                "t": "img",
-                "src": "https://images.squarespace-cdn.com/content/v1/55bd7005e4b06da83f63b8d9/bf49bfda-4518-4d3e-8e4b-0753e96ba918/Screenshot+2026-10-14+at+11.29.06%E2%80%AFAM.png",
-                "cap": "Referencia de entorno generada en Magnific"
+                "x": "La inteligencia artificial es a la vez una decisión creativa y una advertencia en “Musk”, el retrato de Elon Musk firmado por Alex Gibney. En el pódcast “Screen Talk” de IndieWire, Gibney contó que su único contacto con Musk fue a través de X y que su equipo nunca habría conseguido una entrevista en persona."
               },
               {
                 "t": "p",
-                "x": "Las imágenes de referencia salen de Magnific; después, la animática renderizada se sube junto con ellas a Seedance 2.5 para producir la toma cinematográfica final."
+                "x": "Así que los cineastas usaron AI para construir un avatar de Musk deliberadamente situado en el valle inquietante y para reunir todas sus declaraciones públicas en una “entrevista” simulada. “Reunimos una enorme base de datos de cosas que Elon había dicho realmente, y esas grabaciones son las que usamos de verdad en la película”, dijo Gibney. La idea partía de la obsesión de Musk con la posibilidad de vivir en una simulación."
+              },
+              {
+                "t": "p",
+                "x": "Junto al estudio MakeMake, “diseñamos un decorado. Decidimos qué ropa llevaría. Decidimos sentarlo en una silla gamer … Después, usamos algunas herramientas de AI para sincronizar esa figura con el audio, que es audio real”."
+              },
+              {
+                "t": "p",
+                "x": "La película también adopta una postura de advertencia sobre la AI: Gibney señala que personal de DOGE archivó un gran volumen de datos de ciudadanos de U.S., y la preocupación de Geoffrey Hinton por entrenar una AI con esos datos privados."
               }
             ]
           }
@@ -1065,15 +1219,15 @@
       }
     },
     {
-      "id": "movies-ivybears",
+      "id": "movies-fall2-flawless-vfx",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "비타민 IvyBears\nAI-made 애니 변신",
-      "body": "IvyBears는 비타민에서 AI-assisted YouTube 히트작이 됐다.",
-      "mini_headline": "IvyBears, 장편으로",
+      "headline": "'Fall 2' VFX에서\nFlawless AI 시험",
+      "body": "Koala FX가 'Fall 2'에서 Flawless AI 와이어 제거를 검증했다.",
+      "mini_headline": "'Fall 2', Flawless AI 시험",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/",
+      "source": "befores & afters",
+      "url": "https://beforesandafters.com/2026/10/07/fall-2-reaches-new-heights-in-vfx/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1081,181 +1235,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
-            "cap": "IvyBears (Moontrail Animation Studios)"
+            "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
           },
           {
             "t": "p",
-            "x": "IvyBears 창업자 겸 CEO Kaan Haylaz 박사는 MIPJunior에서 “리버스 플라이휠 전략”을 소개했다. 편식으로 힘들어하던 아들을 도우려고 만든 IvyBears 비타민 구미가 먼저 나왔고, 엔터테인먼트 IP는 나중에 붙었다."
+            "x": "Michael and Peter Spierig 형제가 연출한 'Fall 2: Deadpoint'는 서바이벌 스릴러의 무대를 TV 타워 하나에서 태국(Thailand)의 가상 산 Mount Kwan으로 옮겼다. 태국의 한 채석장 절벽 위, 지상 약 여섯 미터 높이에는 판자 구조물을 세웠다. Koala FX는 디지털 매트 페인팅으로 만든 풀 CG Mount Kwan과 2.5D 세트 확장, CG 환경까지 400개가 넘는 VFX 숏을 납품했다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
           },
           {
             "t": "p",
-            "x": "Haylaz의 몰타 기반 Moontrail Animation Studios는 AI 도구를 쓰되 방향은 사람의 재능이 잡는다. 그는 “AI는 영화감독이 아니다. AI는 영화감독 손에 들린 도구다”라고 말했다. 정규직 20여 명인 작은 스튜디오지만 12분짜리 에피소드를 약 2주 만에 만든다."
+            "x": "첫 'Fall'에서는 Scott Mann의 Flawless가 AI 도구 TrueSync로 일부 장면을 다시 더빙했다. 등급 분류를 맞추느라 F-bombs 몇 개를 바꿔야 했던 장면들이다. Koala FX 매니징 디렉터 Dasha Sherman은 “우리는 거의 그들의 테스트 플랫폼이 됐다”며 “Fall 2에서는 R&D 과정에 더 가까웠다”고 말했다. 작업은 주로 수백 개 숏의 와이어 제거였다. Flawless가 도구를 다듬는 사이 Koala FX는 피드백을 보탰다."
           },
           {
             "t": "p",
-            "x": "그에 따르면 생성형 AI 작업은 프롬프트 입력보다 훨씬 손이 많이 간다. 한 에피소드 내내 캐릭터, 조명, 연기를 일관되게 유지하려면 “상당한 감독, 반복, 세부에 대한 주의”가 필요하다."
-          },
-          {
-            "t": "p",
-            "x": "올해 초 문을 연 IvyBears YouTube 채널은 구독자 770만 명 이상, 플랫폼 합산 조회수 7500만 회를 기록했다. Moontrail은 다른 시리즈(“The Dr Muppy Show”, “Banana Rainbow”)로 넓혀 가는 중이고 IvyBears 장편 애니메이션도 개발 중으로 연내 제작에 들어갈 예정이다."
+            "x": "VFX 슈퍼바이저 Menelaos Pampoukidis는 업체가 쌓아 온 파이프라인 경험 덕에 AI 도구를 실제 현장 조건에서 꼼꼼히 시험해 볼 수 있었다고 말한다. 플레이트의 조명 깜빡임과 그레인 제거, 마무리 단계의 숏별 부분 수정에도 실무 조언을 보탰다. 두 회사의 협업은 현재 Scott Mann 연출로 제작 중인 'Fall 3'에서도 이어질 예정이다."
           }
         ]
       },
-      "_lead_image": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "IvyBears turns a vitamin brand\ninto AI-made animation",
-          "body": "IvyBears grew from a gummy-vitamin brand into an AI-assisted YouTube hit, with an animated feature now in development.",
-          "mini_headline": "IvyBears goes long-form",
+          "headline": "'Fall 2' tests Flawless AI\nin a real VFX pipeline",
+          "body": "Koala FX stress-tested Flawless's AI wire-removal tool on 'Fall 2', feeding flicker and de-grain know-how back.",
+          "mini_headline": "'Fall 2' tests Flawless AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
-                "cap": "IvyBears (Moontrail Animation Studios)"
+                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
               },
               {
                 "t": "p",
-                "x": "At MIPJunior, IvyBears founder and CEO Dr. Kaan Haylaz presented his “reverse flywheel strategy”: the IvyBears vitamin gummies, created to help his son who was struggling with food, came first, and the entertainment IP followed."
+                "x": "'Fall 2: Deadpoint', directed by Michael and Peter Spierig, moves the survival-thriller from a single TV tower to Thailand's fictional Mount Kwan. Plank structures were built on a quarry wall in Thailand, around six metres above the ground, and Koala FX delivered more than 400 VFX shots, including a full CG Mount Kwan built from digital matte painting, 2.5D set extensions and CG environments."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Haylaz's Malta-based Moontrail Animation Studios uses AI tools guided by human talent. “AI is not the filmmaker. AI is a tool in the filmmaker's hands,” he said. The lean studio of around 20-plus full-time people produces 12-minute episodes in approximately two weeks."
+                "x": "On the first 'Fall', Scott Mann's Flawless used its AI tool TrueSync to redub some scenes where a few F-bombs needed to be changed for the film's classification. \"We've become almost a testing platform for them,\" says Koala FX managing director Dasha Sherman. \"On Fall 2, it was more like an R&D process.\" The work centred on wire removals across hundreds of shots, with Flawless trying to perfect the tool while Koala FX gave feedback."
               },
               {
                 "t": "p",
-                "x": "He says generative AI is far more than typing prompts: keeping characters, lighting and performances consistent across an episode demands “considerable supervision, iteration and attention to detail.”"
-              },
-              {
-                "t": "p",
-                "x": "Launched earlier this year, the IvyBears YouTube channel has more than 7.7M subscribers and 75 million views across platforms. Moontrail is expanding into other series (“The Dr Muppy Show,” “Banana Rainbow”), and an IvyBears animated feature is in development, with production expected to start before year-end."
+                "x": "VFX supervisor Menelaos Pampoukidis says the vendor's pipeline experience let the AI tools be stress-tested in real-world situations, offering hands-on advice on light flicker on plates, de-graining and spot-fixing shots for a final polish. The relationship is set to continue on 'Fall 3', now in production with Scott Mann directing."
               }
             ]
           }
         },
         "ko": {
-          "headline": "비타민 IvyBears\nAI-made 애니 변신",
-          "body": "IvyBears는 비타민에서 AI-assisted YouTube 히트작이 됐다.",
-          "mini_headline": "IvyBears, 장편으로",
+          "headline": "'Fall 2' VFX에서\nFlawless AI 시험",
+          "body": "Koala FX가 'Fall 2'에서 Flawless AI 와이어 제거를 검증했다.",
+          "mini_headline": "'Fall 2', Flawless AI 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
-                "cap": "IvyBears (Moontrail Animation Studios)"
+                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
               },
               {
                 "t": "p",
-                "x": "IvyBears 창업자 겸 CEO Kaan Haylaz 박사는 MIPJunior에서 “리버스 플라이휠 전략”을 소개했다. 편식으로 힘들어하던 아들을 도우려고 만든 IvyBears 비타민 구미가 먼저 나왔고, 엔터테인먼트 IP는 나중에 붙었다."
+                "x": "Michael and Peter Spierig 형제가 연출한 'Fall 2: Deadpoint'는 서바이벌 스릴러의 무대를 TV 타워 하나에서 태국(Thailand)의 가상 산 Mount Kwan으로 옮겼다. 태국의 한 채석장 절벽 위, 지상 약 여섯 미터 높이에는 판자 구조물을 세웠다. Koala FX는 디지털 매트 페인팅으로 만든 풀 CG Mount Kwan과 2.5D 세트 확장, CG 환경까지 400개가 넘는 VFX 숏을 납품했다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Haylaz의 몰타 기반 Moontrail Animation Studios는 AI 도구를 쓰되 방향은 사람의 재능이 잡는다. 그는 “AI는 영화감독이 아니다. AI는 영화감독 손에 들린 도구다”라고 말했다. 정규직 20여 명인 작은 스튜디오지만 12분짜리 에피소드를 약 2주 만에 만든다."
+                "x": "첫 'Fall'에서는 Scott Mann의 Flawless가 AI 도구 TrueSync로 일부 장면을 다시 더빙했다. 등급 분류를 맞추느라 F-bombs 몇 개를 바꿔야 했던 장면들이다. Koala FX 매니징 디렉터 Dasha Sherman은 “우리는 거의 그들의 테스트 플랫폼이 됐다”며 “Fall 2에서는 R&D 과정에 더 가까웠다”고 말했다. 작업은 주로 수백 개 숏의 와이어 제거였다. Flawless가 도구를 다듬는 사이 Koala FX는 피드백을 보탰다."
               },
               {
                 "t": "p",
-                "x": "그에 따르면 생성형 AI 작업은 프롬프트 입력보다 훨씬 손이 많이 간다. 한 에피소드 내내 캐릭터, 조명, 연기를 일관되게 유지하려면 “상당한 감독, 반복, 세부에 대한 주의”가 필요하다."
-              },
-              {
-                "t": "p",
-                "x": "올해 초 문을 연 IvyBears YouTube 채널은 구독자 770만 명 이상, 플랫폼 합산 조회수 7500만 회를 기록했다. Moontrail은 다른 시리즈(“The Dr Muppy Show”, “Banana Rainbow”)로 넓혀 가는 중이고 IvyBears 장편 애니메이션도 개발 중으로 연내 제작에 들어갈 예정이다."
+                "x": "VFX 슈퍼바이저 Menelaos Pampoukidis는 업체가 쌓아 온 파이프라인 경험 덕에 AI 도구를 실제 현장 조건에서 꼼꼼히 시험해 볼 수 있었다고 말한다. 플레이트의 조명 깜빡임과 그레인 제거, 마무리 단계의 숏별 부분 수정에도 실무 조언을 보탰다. 두 회사의 협업은 현재 Scott Mann 연출로 제작 중인 'Fall 3'에서도 이어질 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ビタミン発のIvyBears\nAI-madeアニメに",
-          "body": "IvyBearsはビタミンからAI-assistedのYouTubeヒットに成長した。",
-          "mini_headline": "IvyBears、長編へ",
+          "headline": "'Fall 2'のVFXで\nFlawless AIを検証",
+          "body": "Koala FXが'Fall 2'でFlawlessのAIワイヤー除去ツールを検証した。",
+          "mini_headline": "'Fall 2'でFlawless AIを検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
-                "cap": "IvyBears（Moontrail Animation Studios）"
+                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
               },
               {
                 "t": "p",
-                "x": "IvyBearsの創業者兼CEO、Kaan Haylaz博士はMIPJuniorで「リバース・フライホイール戦略」を披露した。食事に苦労していた息子を助けるために作ったIvyBearsのビタミングミが先にあり、エンターテインメントIPは後から生まれたという。"
+                "x": "Michael and Peter Spierig兄弟が監督した'Fall 2: Deadpoint'は、サバイバル・スリラーの舞台をひとつのTV塔からタイ(Thailand)の架空の山Mount Kwanへ移した。タイの採石場の岩壁、地上およそ六メートルの高さに板の構造物が組まれ、Koala FXはデジタル・マットペインティングで作ったフルCGのMount Kwan、2.5Dのセット拡張、CG環境を含む400以上のVFXショットを納品した。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
               },
               {
                 "t": "p",
-                "x": "HaylazのマルタのMoontrail Animation Studiosは、人間の才能が導くAIツールを使う。「AIは映画監督ではない。AIは映画監督の手にある道具だ」と彼は語った。フルタイム20人余りの少数精鋭のスタジオが、12分のエピソードを約2週間で制作する。"
+                "x": "1作目の'Fall'では、Scott MannのFlawlessがAIツールTrueSyncを使い、レーティング審査のためにF-bombsをいくつか差し替える必要があった場面を吹き替え直した。「私たちは彼らのテスト・プラットフォームのような存在になった」とKoala FXのマネージング・ディレクター、Dasha Shermanは語る。「Fall 2では、むしろR&Dのプロセスに近かった」。作業の中心は数百ショットに及ぶワイヤー除去で、Flawlessがツールを磨き上げる一方、Koala FXがフィードバックを返した。"
               },
               {
                 "t": "p",
-                "x": "彼によれば、生成AIはプロンプトを打ち込むだけのものではない。エピソード全体でキャラクター、照明、演技の一貫性を保つには「相当な監督、反復、細部への注意」が必要だという。"
-              },
-              {
-                "t": "p",
-                "x": "今年初めに開設されたIvyBearsのYouTubeチャンネルは、登録者数770万人超、各プラットフォーム合計で7500万回の再生を記録している。Moontrailは他のシリーズ（「The Dr Muppy Show」「Banana Rainbow」）にも展開しており、IvyBearsの長編アニメ映画も開発中で、年内に制作開始の見込みだ。"
+                "x": "VFXスーパーバイザーのMenelaos Pampoukidisによれば、同社のパイプライン経験によってAIツールを実際の現場状況で徹底的に試すことができた。プレートの光のちらつき、デグレイン、最終仕上げのためのショットごとの部分修正について、実践的な助言も行った。この関係は、Scott Mann監督のもとで現在製作中の'Fall 3'にも引き継がれる予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "维生素品牌IvyBears\n变身AI-made动画",
-          "body": "IvyBears从软糖维生素品牌成长为AI-assisted的YouTube爆款。",
-          "mini_headline": "IvyBears进军长篇",
+          "headline": "'Fall 2' VFX实战\n检验Flawless AI",
+          "body": "Koala FX在'Fall 2'中实测Flawless的AI去威亚工具并反馈经验。",
+          "mini_headline": "'Fall 2'检验Flawless AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
-                "cap": "IvyBears（Moontrail Animation Studios）"
+                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
               },
               {
                 "t": "p",
-                "x": "在MIPJunior上，IvyBears创始人兼CEO Kaan Haylaz博士介绍了他的“逆向飞轮战略”：先有为帮助饮食困难的儿子而研发的IvyBears维生素软糖，之后才有娱乐IP。"
+                "x": "由Michael and Peter Spierig兄弟执导的'Fall 2: Deadpoint'，把这部生存惊悚片的舞台从一座TV塔搬到了泰国(Thailand)虚构的Mount Kwan。剧组在泰国一处采石场岩壁上、离地约六米处搭建了木板结构，Koala FX交付了400多个VFX镜头，其中包括以数字绘景打造的全CG Mount Kwan、2.5D场景延展和CG环境。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Haylaz旗下位于马耳他的Moontrail Animation Studios使用由人类创作者主导的AI工具。他说：“AI不是电影人。AI是电影人手中的工具。”这家精简的工作室约有20多名全职员工，大约两周就能制作一集12分钟的节目。"
+                "x": "在第一部'Fall'中，Scott Mann的Flawless曾用其AI工具TrueSync为部分场景重新配音，这些场景为了影片分级需要改掉几处F-bombs。“我们几乎成了他们的测试平台，”Koala FX董事总经理Dasha Sherman说，“在Fall 2上，这更像是一个R&D过程。”工作重点是数百个镜头中的威亚擦除，Flawless不断完善工具，Koala FX则提供反馈。"
               },
               {
                 "t": "p",
-                "x": "他表示，生成式AI远不止输入提示词：要在一整集中保持角色、灯光和表演的一致，需要“大量的监督、反复迭代和对细节的关注”。"
-              },
-              {
-                "t": "p",
-                "x": "IvyBears的YouTube频道于今年早些时候上线，订阅者已超过770万，各平台总观看量达7500万次。Moontrail正拓展其他系列（《The Dr Muppy Show》《Banana Rainbow》），IvyBears动画长片也在开发中，预计年底前开拍。"
+                "x": "VFX总监Menelaos Pampoukidis表示，凭借这家公司的流程经验，AI工具得以在真实场景中接受压力测试，团队还就素材中的光线闪烁、去颗粒以及最终润色所需的逐镜头修补给出了实操建议。双方的合作将延续到由Scott Mann执导、目前正在制作中的'Fall 3'。"
               }
             ]
           }
         },
         "es": {
-          "headline": "IvyBears pasa de las vitaminas\na la animación AI-made",
-          "body": "IvyBears pasó de vitaminas masticables a éxito AI-assisted en YouTube, con un largometraje animado en desarrollo.",
-          "mini_headline": "IvyBears da el salto al formato largo",
+          "headline": "'Fall 2' pone a prueba la AI de\nFlawless en un pipeline de VFX",
+          "body": "Koala FX probó la AI de Flawless para borrar cables en 'Fall 2' y aportó know-how en flicker y de-grain.",
+          "mini_headline": "'Fall 2' pone a prueba la AI de Flawless",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
-                "cap": "IvyBears (Moontrail Animation Studios)"
+                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
               },
               {
                 "t": "p",
-                "x": "En MIPJunior, el fundador y CEO de IvyBears, el Dr. Kaan Haylaz, presentó su “estrategia de volante de inercia inversa”: primero llegaron las vitaminas masticables IvyBears, creadas para ayudar a su hijo, que tenía dificultades con la comida, y después la IP de entretenimiento."
+                "x": "'Fall 2: Deadpoint', dirigida por Michael and Peter Spierig, traslada el thriller de supervivencia de una sola torre de TV al ficticio Mount Kwan de Tailandia (Thailand). Se construyeron estructuras de tablones sobre la pared de una cantera en Tailandia, a unos seis metros del suelo, y Koala FX entregó más de 400 planos de VFX, entre ellos un Mount Kwan completamente en CG creado con matte painting digital, extensiones de set en 2.5D y entornos CG."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Moontrail Animation Studios, el estudio de Haylaz con sede en Malta, utiliza herramientas de IA guiadas por talento humano. “La IA no es el cineasta. La IA es una herramienta en manos del cineasta”, afirmó. Este estudio reducido, con algo más de 20 personas a tiempo completo, produce episodios de 12 minutos en aproximadamente dos semanas."
+                "x": "En la primera 'Fall', Flawless, la empresa de Scott Mann, usó su herramienta de AI TrueSync para redoblar algunas escenas en las que había que cambiar unos cuantos F-bombs por la clasificación de la película. «Nos hemos convertido casi en una plataforma de pruebas para ellos», dice Dasha Sherman, directora general de Koala FX. «En Fall 2 fue más bien un proceso de R&D». El trabajo se centró en el borrado de cables en cientos de planos, mientras Flawless intentaba perfeccionar la herramienta y Koala FX aportaba sus comentarios."
               },
               {
                 "t": "p",
-                "x": "Según él, la IA generativa es mucho más que escribir prompts: mantener la coherencia de personajes, iluminación e interpretaciones a lo largo de un episodio exige “considerable supervisión, iteración y atención al detalle”."
-              },
-              {
-                "t": "p",
-                "x": "Lanzado a principios de este año, el canal de YouTube de IvyBears supera los 7,7 millones de suscriptores y suma 75 millones de visualizaciones entre plataformas. Moontrail se expande con otras series (“The Dr Muppy Show”, “Banana Rainbow”) y prepara un largometraje animado de IvyBears, cuya producción debería comenzar antes de fin de año."
+                "x": "El supervisor de VFX Menelaos Pampoukidis explica que la experiencia del estudio en pipeline permitió poner a prueba las herramientas de AI en situaciones reales, con consejos prácticos sobre el parpadeo de luz en los plates, el de-graining y los retoques puntuales de planos para el pulido final. La relación continuará en 'Fall 3', ahora en producción con Scott Mann como director."
               }
             ]
           }
@@ -1263,125 +1409,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "비타민 IvyBears\nAI-made 애니 변신",
-          "body": "IvyBears는 비타민에서 AI-assisted YouTube 히트작이 됐다.",
-          "mini_headline": "IvyBears, 장편으로",
+          "headline": "'Fall 2' VFX에서\nFlawless AI 시험",
+          "body": "Koala FX가 'Fall 2'에서 Flawless AI 와이어 제거를 검증했다.",
+          "mini_headline": "'Fall 2', Flawless AI 시험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
-                "cap": "IvyBears (Moontrail Animation Studios)"
+                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
               },
               {
                 "t": "p",
-                "x": "IvyBears 창업자 겸 CEO Kaan Haylaz 박사는 MIPJunior에서 “리버스 플라이휠 전략”을 소개했다. 음식 때문에 힘들어하던 아들을 돕기 위해 만든 IvyBears 비타민 구미가 먼저였고, 엔터테인먼트 IP는 그 뒤에 따라왔다는 것이다."
+                "x": "Michael and Peter Spierig 형제가 연출한 'Fall 2: Deadpoint'는 서바이벌 스릴러의 무대를 TV 타워 하나에서 태국(Thailand)의 가상 산 Mount Kwan으로 옮겼다. 태국의 채석장 절벽 위, 지상 약 여섯 미터 높이에 판자 구조물을 세웠고, Koala FX는 디지털 매트 페인팅으로 만든 풀 CG Mount Kwan과 2.5D 세트 확장, CG 환경을 포함해 400개가 넘는 VFX 숏을 납품했다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Haylaz의 몰타 기반 Moontrail Animation Studios는 사람의 재능이 이끄는 AI 도구를 쓴다. 그는 “AI는 영화감독이 아니다. AI는 영화감독 손에 들린 도구다”라고 말했다. 정규직 20여 명 규모의 작은 스튜디오가 12분짜리 에피소드를 약 2주 만에 만든다."
+                "x": "첫 'Fall'에서는 Scott Mann의 Flawless가 AI 도구 TrueSync로 일부 장면을 다시 더빙했다. 영화 등급 분류에 맞추려면 F-bombs 몇 개를 바꿔야 했던 장면이다. Koala FX 매니징 디렉터 Dasha Sherman은 “우리는 거의 그들의 테스트 플랫폼이 됐다”며 “Fall 2에서는 R&D 과정에 더 가까웠다”고 말했다. 작업의 중심은 수백 개 숏에 걸친 와이어 제거였고, Flawless가 도구를 다듬는 동안 Koala FX가 피드백을 건넸다."
               },
               {
                 "t": "p",
-                "x": "그는 생성형 AI가 프롬프트 입력을 훨씬 넘어선다고 말한다. 한 에피소드 내내 캐릭터, 조명, 연기를 일관되게 유지하려면 “상당한 감독, 반복, 세부에 대한 주의”가 필요하다는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "올해 초 문을 연 IvyBears YouTube 채널은 구독자 770만 명 이상, 플랫폼 합산 조회수 7500만 회를 기록했다. Moontrail은 다른 시리즈(“The Dr Muppy Show”, “Banana Rainbow”)로 확장하고 있으며, IvyBears 장편 애니메이션도 개발 중으로 연내 제작에 들어갈 예정이다."
+                "x": "VFX 슈퍼바이저 Menelaos Pampoukidis는 이 업체의 파이프라인 경험 덕분에 AI 도구를 실제 현장 상황에서 철저히 시험할 수 있었다고 말한다. 플레이트의 조명 깜빡임, 그레인 제거, 최종 마무리를 위한 숏별 부분 수정에 관해 실무 조언도 더했다. 이 협업은 현재 Scott Mann 연출로 제작 중인 'Fall 3'에서도 이어질 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ビタミン発のIvyBears\nAI-madeアニメに",
-          "body": "IvyBearsはビタミンからAI-assistedのYouTubeヒットに成長した。",
-          "mini_headline": "IvyBears、長編へ",
+          "headline": "'Fall 2'のVFXで\nFlawless AIを検証",
+          "body": "Koala FXが'Fall 2'でFlawlessのAIワイヤー除去ツールを検証した。",
+          "mini_headline": "'Fall 2'でFlawless AIを検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
-                "cap": "IvyBears（Moontrail Animation Studios）"
+                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
               },
               {
                 "t": "p",
-                "x": "IvyBearsの創業者兼CEO、Kaan Haylaz博士はMIPJuniorで「リバース・フライホイール戦略」を披露した。食事に苦労していた息子を助けるために作ったIvyBearsのビタミングミが先にあり、エンターテインメントIPは後から生まれたという。"
+                "x": "Michael and Peter Spierig兄弟が監督した'Fall 2: Deadpoint'は、サバイバル・スリラーの舞台をひとつのTV塔からタイ(Thailand)の架空の山Mount Kwanへ移した。タイの採石場の岩壁、地上およそ六メートルの高さに板の構造物が組まれ、Koala FXはデジタル・マットペインティングで作ったフルCGのMount Kwan、2.5Dのセット拡張、CG環境を含む400以上のVFXショットを納品した。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
               },
               {
                 "t": "p",
-                "x": "HaylazのマルタのMoontrail Animation Studiosは、人間の才能が導くAIツールを使う。「AIは映画監督ではない。AIは映画監督の手にある道具だ」と彼は語った。フルタイム20人余りの少数精鋭のスタジオが、12分のエピソードを約2週間で制作する。"
+                "x": "1作目の'Fall'では、Scott MannのFlawlessがAIツールTrueSyncを使い、レーティング審査のためにF-bombsをいくつか差し替える必要があった場面を吹き替え直した。「私たちは彼らのテスト・プラットフォームのような存在になった」とKoala FXのマネージング・ディレクター、Dasha Shermanは語る。「Fall 2では、むしろR&Dのプロセスに近かった」。作業の中心は数百ショットに及ぶワイヤー除去で、Flawlessがツールを磨き上げる一方、Koala FXがフィードバックを返した。"
               },
               {
                 "t": "p",
-                "x": "彼によれば、生成AIはプロンプトを打ち込むだけのものではない。エピソード全体でキャラクター、照明、演技の一貫性を保つには「相当な監督、反復、細部への注意」が必要だという。"
-              },
-              {
-                "t": "p",
-                "x": "今年初めに開設されたIvyBearsのYouTubeチャンネルは、登録者数770万人超、各プラットフォーム合計で7500万回の再生を記録している。Moontrailは他のシリーズ（「The Dr Muppy Show」「Banana Rainbow」）にも展開しており、IvyBearsの長編アニメ映画も開発中で、年内に制作開始の見込みだ。"
+                "x": "VFXスーパーバイザーのMenelaos Pampoukidisによれば、同社のパイプライン経験によってAIツールを実際の現場状況で徹底的に試すことができた。プレートの光のちらつき、デグレイン、最終仕上げのためのショットごとの部分修正について、実践的な助言も行った。この関係は、Scott Mann監督のもとで現在製作中の'Fall 3'にも引き継がれる予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "维生素品牌IvyBears\n变身AI-made动画",
-          "body": "IvyBears从软糖维生素品牌成长为AI-assisted的YouTube爆款。",
-          "mini_headline": "IvyBears进军长篇",
+          "headline": "'Fall 2' VFX实战\n检验Flawless AI",
+          "body": "Koala FX在'Fall 2'中实测Flawless的AI去威亚工具并反馈经验。",
+          "mini_headline": "'Fall 2'检验Flawless AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
-                "cap": "IvyBears（Moontrail Animation Studios）"
+                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
               },
               {
                 "t": "p",
-                "x": "在MIPJunior上，IvyBears创始人兼CEO Kaan Haylaz博士介绍了他的“逆向飞轮战略”：先有为帮助饮食困难的儿子而研发的IvyBears维生素软糖，之后才有娱乐IP。"
+                "x": "由Michael and Peter Spierig兄弟执导的'Fall 2: Deadpoint'，把这部生存惊悚片的舞台从一座TV塔搬到了泰国(Thailand)虚构的Mount Kwan。剧组在泰国一处采石场岩壁上、离地约六米处搭建了木板结构，Koala FX交付了400多个VFX镜头，其中包括以数字绘景打造的全CG Mount Kwan、2.5D场景延展和CG环境。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Haylaz旗下位于马耳他的Moontrail Animation Studios使用由人类创作者主导的AI工具。他说：“AI不是电影人。AI是电影人手中的工具。”这家精简的工作室约有20多名全职员工，大约两周就能制作一集12分钟的节目。"
+                "x": "在第一部'Fall'中，Scott Mann的Flawless曾用其AI工具TrueSync为部分场景重新配音，这些场景为了影片分级需要改掉几处F-bombs。“我们几乎成了他们的测试平台，”Koala FX董事总经理Dasha Sherman说，“在Fall 2上，这更像是一个R&D过程。”工作重点是数百个镜头中的威亚擦除，Flawless不断完善工具，Koala FX则提供反馈。"
               },
               {
                 "t": "p",
-                "x": "他表示，生成式AI远不止输入提示词：要在一整集中保持角色、灯光和表演的一致，需要“大量的监督、反复迭代和对细节的关注”。"
-              },
-              {
-                "t": "p",
-                "x": "IvyBears的YouTube频道于今年早些时候上线，订阅者已超过770万，各平台总观看量达7500万次。Moontrail正拓展其他系列（《The Dr Muppy Show》《Banana Rainbow》），IvyBears动画长片也在开发中，预计年底前开拍。"
+                "x": "VFX总监Menelaos Pampoukidis表示，凭借这家公司的流程经验，AI工具得以在真实场景中接受压力测试，团队还就素材中的光线闪烁、去颗粒以及最终润色所需的逐镜头修补给出了实操建议。双方的合作将延续到由Scott Mann执导、目前正在制作中的'Fall 3'。"
               }
             ]
           }
         },
         "es": {
-          "headline": "IvyBears pasa de las vitaminas\na la animación AI-made",
-          "body": "IvyBears pasó de vitaminas masticables a éxito AI-assisted en YouTube, con un largometraje animado en desarrollo.",
-          "mini_headline": "IvyBears da el salto al formato largo",
+          "headline": "'Fall 2' pone a prueba la AI de\nFlawless en un pipeline de VFX",
+          "body": "Koala FX probó la AI de Flawless para borrar cables en 'Fall 2' y aportó know-how en flicker y de-grain.",
+          "mini_headline": "'Fall 2' pone a prueba la AI de Flawless",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=667&crop=1",
-                "cap": "IvyBears (Moontrail Animation Studios)"
+                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
               },
               {
                 "t": "p",
-                "x": "En MIPJunior, el fundador y CEO de IvyBears, el Dr. Kaan Haylaz, presentó su “estrategia de volante de inercia inversa”: primero llegaron las vitaminas masticables IvyBears, creadas para ayudar a su hijo, que tenía dificultades con la comida, y después la IP de entretenimiento."
+                "x": "'Fall 2: Deadpoint', dirigida por Michael and Peter Spierig, traslada el thriller de supervivencia de una sola torre de TV al ficticio Mount Kwan de Tailandia (Thailand). Se construyeron estructuras de tablones sobre la pared de una cantera en Tailandia, a unos seis metros del suelo, y Koala FX entregó más de 400 planos de VFX, entre ellos un Mount Kwan completamente en CG creado con matte painting digital, extensiones de set en 2.5D y entornos CG."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
               },
               {
                 "t": "p",
-                "x": "Moontrail Animation Studios, el estudio de Haylaz con sede en Malta, utiliza herramientas de IA guiadas por talento humano. “La IA no es el cineasta. La IA es una herramienta en manos del cineasta”, afirmó. Este estudio reducido, con algo más de 20 personas a tiempo completo, produce episodios de 12 minutos en aproximadamente dos semanas."
+                "x": "En la primera 'Fall', Flawless, la empresa de Scott Mann, usó su herramienta de AI TrueSync para redoblar algunas escenas en las que había que cambiar unos cuantos F-bombs por la clasificación de la película. «Nos hemos convertido casi en una plataforma de pruebas para ellos», dice Dasha Sherman, directora general de Koala FX. «En Fall 2 fue más bien un proceso de R&D». El trabajo se centró en el borrado de cables en cientos de planos, mientras Flawless intentaba perfeccionar la herramienta y Koala FX aportaba sus comentarios."
               },
               {
                 "t": "p",
-                "x": "Según él, la IA generativa es mucho más que escribir prompts: mantener la coherencia de personajes, iluminación e interpretaciones a lo largo de un episodio exige “considerable supervisión, iteración y atención al detalle”."
-              },
-              {
-                "t": "p",
-                "x": "Lanzado a principios de este año, el canal de YouTube de IvyBears supera los 7,7 millones de suscriptores y suma 75 millones de visualizaciones entre plataformas. Moontrail se expande con otras series (“The Dr Muppy Show”, “Banana Rainbow”) y prepara un largometraje animado de IvyBears, cuya producción debería comenzar antes de fin de año."
+                "x": "El supervisor de VFX Menelaos Pampoukidis explica que la experiencia del estudio en pipeline permitió poner a prueba las herramientas de AI en situaciones reales, con consejos prácticos sobre el parpadeo de luz en los plates, el de-graining y los retoques puntuales de planos para el pulido final. La relación continuará en 'Fall 3', ahora en producción con Scott Mann como director."
               }
             ]
           }
@@ -1389,15 +1531,15 @@
       }
     },
     {
-      "id": "movies-foundry-smartroto",
+      "id": "movies-duvernay-14th-asteria",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nuke에 AI 로토스코핑\n더한 SmartRoto",
-      "body": "SmartRoto는 Nuke에 AI 로토스코핑을 넣었고 테스트에선 4배 빨랐다.",
-      "mini_headline": "Nuke 속 AI 로토스코핑",
+      "headline": "DuVernay, AI로\n'14th' 기록사진 복원",
+      "body": "Ava DuVernay가 Asteria Film Co.의 AI로 사진을 되살렸다.",
+      "mini_headline": "Asteria AI, '14th' 복원",
       "tool": "Movies",
-      "source": "Animation Magazine",
-      "url": "https://www.animationmagazine.net/2026/10/tech-reviews-gaomon-pd1561-v2-foundry-smartroto-huion-kamvas-pro-24/",
+      "source": "IndieWire",
+      "url": "https://www.indiewire.com/features/interviews/ava-duvernay-interview-14th-not-sequel-nyff-1235221117/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1405,181 +1547,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
-            "cap": "Foundry SmartRoto"
+            "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+            "cap": "64th New York Film Festival '14th' 기자회견에 나선 Ava DuVernay"
           },
           {
             "t": "p",
-            "x": "Foundry의 SmartRoto는 프레임 단위로 이어지는 고된 로토스코핑 작업을 겨냥한 Nuke용 AI-assisted 애드온이다. Nuke의 기존 Roto 노드 안에 들어 있어서 스플라인 아티스트는 새로 익힐 게 거의 없다."
+            "x": "'13th'로 New York Film Festival의 문을 연 지 10년 만에, Ava DuVernay는 '14th'로 같은 영화제의 막을 내린다. 그래도 “속편이라고 하지는 않겠다”는 게 그의 말이다. 처음엔 출생시민권을 다루려던 영화였지만, 지금 벌어지는 사건들을 배경 삼아 14th Amendment(수정헌법 제14조) 전체를 들여다보는 작품으로 커졌다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+            "cap": "'14th'에 등장한 Ava DuVernay와 역사학자 Dr. David Blight"
           },
           {
             "t": "p",
-            "x": "SmartRoto는 평면 매트를 뽑지 않고 실제 벡터 스플라인을 다룬다. 입력 프레임 두어 개만으로 스플라인을 시퀀스 전체에 전파하고 변형한다. 그래서 삐져나온 머리카락 하나를 고칠 때도 숏을 다시 로토할 필요 없이 익숙한 포인트를 잡아 고치면 된다."
+            "x": "제작팀은 Library of Congress부터 Arkansas Historical Society, 가족 앨범까지 뒤져 사진을 모았고, DuVernay는 이를 복원하려고 Asteria Film Co.와 손잡았다. 한 번도 디지털화된 적 없는 슬라이드도 있었다. 그는 “그중 일부는 정말 심하게 훼손돼 있었다”고 했다. “영화에 넣을 만큼 해상도를 끌어올리기가 사실상 어렵다”는 바로 그 지점에서 Asteria의 AI-powered 도구가 힘을 보탰다."
           },
           {
             "t": "p",
-            "x": "워크플로는 비선형이다. 아무 위치로 이동해 셰이프에 키를 주면 도구가 보간한다. Resolve의 Magic Mask, Mocha Pro의 Matte Assist, Nuke의 CopyCat과 시간을 재 가며 비교해 본 테스트에서 리뷰어 Todd Sheridan Perry는 작업 속도가 “4배” 빨라졌다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "단점도 있다. Nuke 라이선스와 별도인 유료 애드온이고, Nuke 16.1 이상이 필요하며, 감독을 대신하지 못하는 보조 도구일 뿐이다. 리뷰는 Gaomon PD1561 V2와 Huion Kamvas Pro 24 펜 디스플레이도 다룬다."
+            "x": "복원 작업은 입체 기법으로 이어졌다. “먼저 복원을 하고, 그다음 로토스코프를 하고, 약간의 움직임을 위해 아주 조금 애니메이션을 넣는다. 그곳 아티스트들이 그 도구들로 사진에 생명을 불어넣었다.” 영화는 11월 27일 일부 극장에서 먼저 개봉하고, 12월 4일 Netflix에 공개된다."
           }
         ]
       },
-      "_lead_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Foundry SmartRoto puts AI\nrotoscoping inside Nuke",
-          "body": "Foundry's SmartRoto adds AI-assisted spline rotoscoping to Nuke, and a reviewer's own tests found it four times faster.",
-          "mini_headline": "AI rotoscoping in Nuke",
+          "headline": "DuVernay's '14th' restores\narchive photos with AI",
+          "body": "Ava DuVernay used Asteria Film Co.'s AI tools to restore degraded archival photos that could not reach film resolution.",
+          "mini_headline": "Asteria AI restores '14th'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
-                "cap": "Foundry SmartRoto"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+                "cap": "Ava DuVernay at the '14th' press conference, 64th New York Film Festival"
               },
               {
                 "t": "p",
-                "x": "Foundry's SmartRoto is an add-on for Nuke aimed at the frame-by-frame grind of rotoscoping. It is built directly into Nuke's existing Roto node, so the learning curve for spline artists is close to zero."
+                "x": "Ava DuVernay's '14th' closes the New York Film Festival a decade after '13th' opened it, but \"I wouldn't say it's a sequel,\" she says. Conceived as a film about birthright citizenship, it grew into a look at the whole 14th Amendment against current events."
+              },
+              {
+                "t": "img",
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+                "cap": "Ava DuVernay and historian Dr. David Blight in '14th'"
               },
               {
                 "t": "p",
-                "x": "Rather than outputting a flat matte, SmartRoto works with actual vector splines, propagating and deforming them across a sequence from just a couple of input frames, so fixing a stray hair means grabbing a familiar point rather than re-rotoing the shot."
+                "x": "DuVernay collaborated with Asteria Film Co. to help restore photos her team found in archives from the Library of Congress to the Arkansas Historical Society and family albums. \"Some of that stuff was really degraded,\" she said, with slides that had never been digitized. \"You can't really get it to be high resolution enough to put in a film,\" and that's where Asteria's AI-powered tools were of assistance."
               },
               {
                 "t": "p",
-                "x": "The workflow is nonlinear: jump anywhere, key a shape and let the tool interpolate. In timed tests against Resolve's Magic Mask, Mocha Pro's Matte Assist and Nuke's CopyCat, reviewer Todd Sheridan Perry found it sped things up “by a factor of 4.”"
-              },
-              {
-                "t": "p",
-                "x": "Caveats: it is a paid add-on separate from Nuke licenses, needs Nuke 16.1 or later, and is an assistant, not a replacement for supervision. The review also covers the Gaomon PD1561 V2 and Huion Kamvas Pro 24 pen displays."
+                "x": "The restoration work led to a stereoscopic technique: \"first you have to restore it, then you have to do rotoscope, and then just a little bit of animation for a little movement. And the artists there used those tools and brought it to life.\" Netflix releases the film in select theaters on November 27 and on Netflix on December 4."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Nuke에 AI 로토스코핑\n더한 SmartRoto",
-          "body": "SmartRoto는 Nuke에 AI 로토스코핑을 넣었고 테스트에선 4배 빨랐다.",
-          "mini_headline": "Nuke 속 AI 로토스코핑",
+          "headline": "DuVernay, AI로\n'14th' 기록사진 복원",
+          "body": "Ava DuVernay가 Asteria Film Co.의 AI로 사진을 되살렸다.",
+          "mini_headline": "Asteria AI, '14th' 복원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
-                "cap": "Foundry SmartRoto"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+                "cap": "64th New York Film Festival '14th' 기자회견에 나선 Ava DuVernay"
               },
               {
                 "t": "p",
-                "x": "Foundry의 SmartRoto는 프레임 단위로 이어지는 고된 로토스코핑 작업을 겨냥한 Nuke용 AI-assisted 애드온이다. Nuke의 기존 Roto 노드 안에 들어 있어서 스플라인 아티스트는 새로 익힐 게 거의 없다."
+                "x": "'13th'로 New York Film Festival의 문을 연 지 10년 만에, Ava DuVernay는 '14th'로 같은 영화제의 막을 내린다. 그래도 “속편이라고 하지는 않겠다”는 게 그의 말이다. 처음엔 출생시민권을 다루려던 영화였지만, 지금 벌어지는 사건들을 배경 삼아 14th Amendment(수정헌법 제14조) 전체를 들여다보는 작품으로 커졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+                "cap": "'14th'에 등장한 Ava DuVernay와 역사학자 Dr. David Blight"
               },
               {
                 "t": "p",
-                "x": "SmartRoto는 평면 매트를 뽑지 않고 실제 벡터 스플라인을 다룬다. 입력 프레임 두어 개만으로 스플라인을 시퀀스 전체에 전파하고 변형한다. 그래서 삐져나온 머리카락 하나를 고칠 때도 숏을 다시 로토할 필요 없이 익숙한 포인트를 잡아 고치면 된다."
+                "x": "제작팀은 Library of Congress부터 Arkansas Historical Society, 가족 앨범까지 뒤져 사진을 모았고, DuVernay는 이를 복원하려고 Asteria Film Co.와 손잡았다. 한 번도 디지털화된 적 없는 슬라이드도 있었다. 그는 “그중 일부는 정말 심하게 훼손돼 있었다”고 했다. “영화에 넣을 만큼 해상도를 끌어올리기가 사실상 어렵다”는 바로 그 지점에서 Asteria의 AI-powered 도구가 힘을 보탰다."
               },
               {
                 "t": "p",
-                "x": "워크플로는 비선형이다. 아무 위치로 이동해 셰이프에 키를 주면 도구가 보간한다. Resolve의 Magic Mask, Mocha Pro의 Matte Assist, Nuke의 CopyCat과 시간을 재 가며 비교해 본 테스트에서 리뷰어 Todd Sheridan Perry는 작업 속도가 “4배” 빨라졌다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "단점도 있다. Nuke 라이선스와 별도인 유료 애드온이고, Nuke 16.1 이상이 필요하며, 감독을 대신하지 못하는 보조 도구일 뿐이다. 리뷰는 Gaomon PD1561 V2와 Huion Kamvas Pro 24 펜 디스플레이도 다룬다."
+                "x": "복원 작업은 입체 기법으로 이어졌다. “먼저 복원을 하고, 그다음 로토스코프를 하고, 약간의 움직임을 위해 아주 조금 애니메이션을 넣는다. 그곳 아티스트들이 그 도구들로 사진에 생명을 불어넣었다.” 영화는 11월 27일 일부 극장에서 먼저 개봉하고, 12월 4일 Netflix에 공개된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SmartRotoが\nNukeにAIロトスコープ",
-          "body": "SmartRotoはNukeにAI支援のスプライン・ロトを加え、テストで4倍速かった。",
-          "mini_headline": "NukeでAIロトスコープ",
+          "headline": "DuVernay、AIで\n'14th'の記録写真を復元",
+          "body": "Ava DuVernayはAsteria Film Co.のAIで劣化した写真を復元した。",
+          "mini_headline": "Asteria AIが'14th'を復元",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
-                "cap": "Foundry SmartRoto"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+                "cap": "64th New York Film Festivalでの'14th'記者会見に臨むAva DuVernay"
               },
               {
                 "t": "p",
-                "x": "FoundryのSmartRotoは、コマ単位で続くロトスコープの地道な作業を対象としたNuke向けのAI-assistedアドオンだ。Nukeの既存のRotoノードに直接組み込まれているため、スプラインアーティストにとって学習コストはほぼゼロだ。"
+                "x": "Ava DuVernayの'14th'は、'13th'がNew York Film Festivalのオープニングを飾ってから10年後に、同映画祭のクロージングを務める。それでも本人は「続編とは言わない」と語る。出生地主義の市民権をめぐる映画として構想された本作は、現在の出来事を背景に14th Amendment(合衆国憲法修正第14条)全体を見つめる作品へと広がった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+                "cap": "'14th'のAva DuVernayと歴史家Dr. David Blight"
               },
               {
                 "t": "p",
-                "x": "SmartRotoは平面的なマットを出力するのではなく、実際のベクタースプラインを扱う。わずか数枚の入力フレームからスプラインをシーケンス全体に伝播・変形させるので、はみ出た髪の毛を直すときもショットをロトし直す必要はなく、見慣れたポイントをつかめばよい。"
+                "x": "DuVernayは、Library of CongressからArkansas Historical Society、家族のアルバムまで、チームがアーカイブで見つけた写真の復元のためにAsteria Film Co.と協力した。一度もデジタル化されていないスライドもあり、「中には本当にひどく劣化したものもあった」と彼女は言う。「映画に使えるほどの高解像度にはなかなかできない」。そこで力を発揮したのが、AsteriaのAI-poweredツールだった。"
               },
               {
                 "t": "p",
-                "x": "ワークフローはノンリニアだ。任意の位置に移動してシェイプにキーを打てば、ツールが補間する。ResolveのMagic Mask、Mocha ProのMatte Assist、NukeのCopyCatと時間を計って比較したテストで、レビュアーのTodd Sheridan Perryは作業が「4倍」速くなったと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "注意点として、Nukeのライセンスとは別の有料アドオンであり、Nuke 16.1以降が必要で、あくまで補助ツールであり監修の代わりにはならない。レビューではGaomon PD1561 V2とHuion Kamvas Pro 24のペンディスプレイも取り上げている。"
+                "x": "復元作業は立体視の手法へとつながった。「まず復元し、次にロトスコープを行い、少し動きをつけるためにほんの少しアニメーションを加える。そこのアーティストたちがそのツールを使い、写真に命を吹き込んだ」。Netflixは本作を11月27日に一部劇場で公開し、12月4日にNetflixで配信する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SmartRoto把AI转描\n带入Nuke",
-          "body": "SmartRoto为Nuke加入AI-assisted样条转描，评测中提速四倍。",
-          "mini_headline": "Nuke中的AI转描",
+          "headline": "DuVernay借AI\n修复'14th'档案照片",
+          "body": "Ava DuVernay借助Asteria Film Co.的AI修复了老旧档案照片。",
+          "mini_headline": "Asteria AI修复'14th'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
-                "cap": "Foundry SmartRoto"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+                "cap": "Ava DuVernay出席64th New York Film Festival的'14th'新闻发布会"
               },
               {
                 "t": "p",
-                "x": "Foundry的SmartRoto是一款Nuke插件，针对逐帧转描这项繁重工作。它直接内置于Nuke现有的Roto节点中，因此样条美术师几乎不需要学习成本。"
+                "x": "'13th'为New York Film Festival揭幕十年后，Ava DuVernay的'14th'将为该电影节闭幕，但她说：“我不会说这是续集。”这部影片最初构思为一部关于出生公民权的电影，后来扩展为结合当下时事、审视整个14th Amendment(第十四修正案)的作品。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+                "cap": "'14th'中的Ava DuVernay与历史学家Dr. David Blight"
               },
               {
                 "t": "p",
-                "x": "SmartRoto输出的不是平面遮罩，而是真正的矢量样条；只需几帧输入，它就能把样条传播到整个序列并随之变形。因此修正一缕散乱的头发时，只需抓取熟悉的控制点，而不必重新转描整个镜头。"
+                "x": "DuVernay与Asteria Film Co.合作，修复团队从Library of Congress到Arkansas Historical Society以及家庭相册等档案中找到的照片。其中有些幻灯片从未被数字化过。“有些东西真的损坏得很严重，”她说，“你很难把它的分辨率提高到足以放进电影里。”Asteria的AI-powered工具正是在这一环节派上了用场。"
               },
               {
                 "t": "p",
-                "x": "其工作流程是非线性的：跳到任意位置，为形状设置关键帧，交给工具插值即可。在与Resolve的Magic Mask、Mocha Pro的Matte Assist和Nuke的CopyCat进行的计时测试中，评测者Todd Sheridan Perry发现它让效率提升了“4倍”。"
-              },
-              {
-                "t": "p",
-                "x": "需要注意的是：它是独立于Nuke授权的付费插件，需要Nuke 16.1或更高版本，而且只是辅助工具，不能取代人工监督。该评测还涵盖了Gaomon PD1561 V2和Huion Kamvas Pro 24两款数位屏。"
+                "x": "修复工作还催生了一种立体技法：“先要修复，然后做转描，再加一点点动画，让画面稍微动起来。那里的艺术家们用这些工具让照片活了起来。”Netflix将于11月27日在部分影院上映该片，并于12月4日在Netflix上线。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Foundry SmartRoto lleva la IA\nal rotoscopiado en Nuke",
-          "body": "SmartRoto añade a Nuke rotoscopiado por splines AI-assisted que, según un crítico, es cuatro veces más rápido.",
-          "mini_headline": "Rotoscopiado con IA en Nuke",
+          "headline": "DuVernay restaura con AI fotos\nde archivo para '14th'",
+          "body": "Ava DuVernay usó la AI de Asteria Film Co. para restaurar fotos de archivo degradadas.",
+          "mini_headline": "La AI de Asteria restaura '14th'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
-                "cap": "Foundry SmartRoto"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+                "cap": "Ava DuVernay en la rueda de prensa de '14th', 64th New York Film Festival"
               },
               {
                 "t": "p",
-                "x": "SmartRoto, de Foundry, es un complemento para Nuke dirigido a la pesada tarea del rotoscopiado fotograma a fotograma. Está integrado directamente en el nodo Roto que ya existe en Nuke, así que la curva de aprendizaje para los artistas de splines es casi nula."
+                "x": "'14th', de Ava DuVernay, clausura el New York Film Festival una década después de que '13th' lo inaugurara, pero «yo no diría que es una secuela», afirma. Concebida como una película sobre la ciudadanía por nacimiento, se convirtió en una mirada a toda la 14th Amendment (Decimocuarta Enmienda) a la luz de la actualidad."
+              },
+              {
+                "t": "img",
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+                "cap": "Ava DuVernay y el historiador Dr. David Blight en '14th'"
               },
               {
                 "t": "p",
-                "x": "En lugar de generar un mate plano, SmartRoto trabaja con splines vectoriales reales, que propaga y deforma a lo largo de una secuencia a partir de solo un par de fotogramas de entrada; así, corregir un pelo suelto consiste en tomar un punto conocido en vez de volver a rotoscopiar el plano."
+                "x": "DuVernay colaboró con Asteria Film Co. para restaurar fotos que su equipo encontró en archivos que iban desde la Library of Congress hasta la Arkansas Historical Society y álbumes familiares. «Parte de ese material estaba muy degradado», dijo, con diapositivas que nunca se habían digitalizado. «No se puede conseguir una resolución lo bastante alta como para ponerlo en una película», y ahí es donde ayudaron las herramientas AI-powered de Asteria."
               },
               {
                 "t": "p",
-                "x": "El flujo de trabajo no es lineal: se salta a cualquier punto, se fija una forma con un fotograma clave y la herramienta interpola. En pruebas cronometradas frente a Magic Mask de Resolve, Matte Assist de Mocha Pro y CopyCat de Nuke, el crítico Todd Sheridan Perry comprobó que agilizaba el trabajo “por un factor de 4”."
-              },
-              {
-                "t": "p",
-                "x": "Advertencias: es un complemento de pago independiente de las licencias de Nuke, requiere Nuke 16.1 o posterior y es un asistente, no un sustituto de la supervisión. La reseña también analiza las pantallas de lápiz Gaomon PD1561 V2 y Huion Kamvas Pro 24."
+                "x": "El trabajo de restauración derivó en una técnica estereoscópica: «primero hay que restaurarla, luego hay que hacer rotoscopia y después solo un poquito de animación para darle algo de movimiento. Y los artistas de allí usaron esas herramientas y le dieron vida». Netflix estrenará la película en cines seleccionados el 27 de noviembre y en Netflix el 4 de diciembre."
               }
             ]
           }
@@ -1587,125 +1733,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Nuke에 AI 로토스코핑\n더한 SmartRoto",
-          "body": "SmartRoto는 Nuke에 AI 로토스코핑을 넣었고 테스트에선 4배 빨랐다.",
-          "mini_headline": "Nuke 속 AI 로토스코핑",
+          "headline": "DuVernay는 AI로\n'14th' 기록사진 복원",
+          "body": "Ava DuVernay는 Asteria Film Co.의 AI로 사진을 복원했다.",
+          "mini_headline": "Asteria AI, '14th' 복원",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
-                "cap": "Foundry SmartRoto"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+                "cap": "64th New York Film Festival '14th' 기자회견에 나선 Ava DuVernay"
               },
               {
                 "t": "p",
-                "x": "Foundry의 SmartRoto는 프레임 단위로 이어지는 고된 로토스코핑 작업을 겨냥한 Nuke용 AI-assisted 애드온이다. Nuke의 기존 Roto 노드에 바로 내장돼 있어 스플라인 아티스트가 새로 배울 것이 거의 없다."
+                "x": "Ava DuVernay의 '14th'는 '13th'가 New York Film Festival의 개막을 연 지 10년 만에 같은 영화제의 폐막을 장식한다. 하지만 그는 “속편이라고 하지는 않겠다”고 말한다. 출생시민권에 관한 영화로 구상됐던 작품은 현재의 사건들을 배경으로 14th Amendment(수정헌법 제14조) 전체를 들여다보는 영화로 커졌다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+                "cap": "'14th'에 등장한 Ava DuVernay와 역사학자 Dr. David Blight"
               },
               {
                 "t": "p",
-                "x": "SmartRoto는 평면 매트를 출력하는 대신 실제 벡터 스플라인으로 작업한다. 입력 프레임 두어 개만으로 스플라인을 시퀀스 전체에 전파하고 변형하므로, 삐져나온 머리카락 하나를 고칠 때도 숏을 다시 로토할 필요 없이 익숙한 포인트를 잡아 고치면 된다."
+                "x": "DuVernay는 Library of Congress에서 Arkansas Historical Society, 가족 앨범에 이르기까지 제작팀이 찾아낸 사진을 복원하려고 Asteria Film Co.와 협업했다. 한 번도 디지털화된 적 없는 슬라이드도 있었고, 그는 “그중 일부는 정말 심하게 훼손돼 있었다”고 했다. “영화에 넣을 만큼 해상도를 끌어올리기가 사실상 어렵다”는 그 지점에서 Asteria의 AI-powered 도구가 힘을 보탰다."
               },
               {
                 "t": "p",
-                "x": "워크플로는 비선형이다. 아무 위치로 이동해 셰이프에 키를 주면 도구가 보간한다. Resolve의 Magic Mask, Mocha Pro의 Matte Assist, Nuke의 CopyCat과 시간을 재며 비교한 테스트에서 리뷰어 Todd Sheridan Perry는 작업 속도가 “4배” 빨라졌다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "단점도 있다. Nuke 라이선스와 별도인 유료 애드온이고, Nuke 16.1 이상이 필요하며, 감독을 대신하지 않는 보조 도구다. 리뷰는 Gaomon PD1561 V2와 Huion Kamvas Pro 24 펜 디스플레이도 다룬다."
+                "x": "복원 작업은 입체 기법으로 이어졌다. “먼저 복원을 하고, 그다음 로토스코프를 하고, 약간의 움직임을 위해 아주 조금 애니메이션을 넣는다. 그곳 아티스트들이 그 도구들로 사진에 생명을 불어넣었다.” Netflix는 이 영화를 11월 27일 일부 극장에서 개봉하고 12월 4일 Netflix에 공개한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SmartRotoが\nNukeにAIロトスコープ",
-          "body": "SmartRotoはNukeにAI支援のスプライン・ロトを加え、テストで4倍速かった。",
-          "mini_headline": "NukeでAIロトスコープ",
+          "headline": "DuVernay、AIで\n'14th'の記録写真を復元",
+          "body": "Ava DuVernayはAsteria Film Co.のAIで劣化した写真を復元した。",
+          "mini_headline": "Asteria AIが'14th'を復元",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
-                "cap": "Foundry SmartRoto"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+                "cap": "64th New York Film Festivalでの'14th'記者会見に臨むAva DuVernay"
               },
               {
                 "t": "p",
-                "x": "FoundryのSmartRotoは、コマ単位で続くロトスコープの地道な作業を対象としたNuke向けのAI-assistedアドオンだ。Nukeの既存のRotoノードに直接組み込まれているため、スプラインアーティストにとって学習コストはほぼゼロだ。"
+                "x": "Ava DuVernayの'14th'は、'13th'がNew York Film Festivalのオープニングを飾ってから10年後に、同映画祭のクロージングを務める。それでも本人は「続編とは言わない」と語る。出生地主義の市民権をめぐる映画として構想された本作は、現在の出来事を背景に14th Amendment(合衆国憲法修正第14条)全体を見つめる作品へと広がった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+                "cap": "'14th'のAva DuVernayと歴史家Dr. David Blight"
               },
               {
                 "t": "p",
-                "x": "SmartRotoは平面的なマットを出力するのではなく、実際のベクタースプラインを扱う。わずか数枚の入力フレームからスプラインをシーケンス全体に伝播・変形させるので、はみ出た髪の毛を直すときもショットをロトし直す必要はなく、見慣れたポイントをつかめばよい。"
+                "x": "DuVernayは、Library of CongressからArkansas Historical Society、家族のアルバムまで、チームがアーカイブで見つけた写真の復元のためにAsteria Film Co.と協力した。一度もデジタル化されていないスライドもあり、「中には本当にひどく劣化したものもあった」と彼女は言う。「映画に使えるほどの高解像度にはなかなかできない」。そこで力を発揮したのが、AsteriaのAI-poweredツールだった。"
               },
               {
                 "t": "p",
-                "x": "ワークフローはノンリニアだ。任意の位置に移動してシェイプにキーを打てば、ツールが補間する。ResolveのMagic Mask、Mocha ProのMatte Assist、NukeのCopyCatと時間を計って比較したテストで、レビュアーのTodd Sheridan Perryは作業が「4倍」速くなったと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "注意点として、Nukeのライセンスとは別の有料アドオンであり、Nuke 16.1以降が必要で、あくまで補助ツールであり監修の代わりにはならない。レビューではGaomon PD1561 V2とHuion Kamvas Pro 24のペンディスプレイも取り上げている。"
+                "x": "復元作業は立体視の手法へとつながった。「まず復元し、次にロトスコープを行い、少し動きをつけるためにほんの少しアニメーションを加える。そこのアーティストたちがそのツールを使い、写真に命を吹き込んだ」。Netflixは本作を11月27日に一部劇場で公開し、12月4日にNetflixで配信する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "SmartRoto把AI转描\n带入Nuke",
-          "body": "SmartRoto为Nuke加入AI-assisted样条转描，评测中提速四倍。",
-          "mini_headline": "Nuke中的AI转描",
+          "headline": "DuVernay借AI\n修复'14th'档案照片",
+          "body": "Ava DuVernay借助Asteria Film Co.的AI修复了老旧档案照片。",
+          "mini_headline": "Asteria AI修复'14th'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
-                "cap": "Foundry SmartRoto"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+                "cap": "Ava DuVernay出席64th New York Film Festival的'14th'新闻发布会"
               },
               {
                 "t": "p",
-                "x": "Foundry的SmartRoto是一款Nuke插件，针对逐帧转描这项繁重工作。它直接内置于Nuke现有的Roto节点中，因此样条美术师几乎不需要学习成本。"
+                "x": "'13th'为New York Film Festival揭幕十年后，Ava DuVernay的'14th'将为该电影节闭幕，但她说：“我不会说这是续集。”这部影片最初构思为一部关于出生公民权的电影，后来扩展为结合当下时事、审视整个14th Amendment(第十四修正案)的作品。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+                "cap": "'14th'中的Ava DuVernay与历史学家Dr. David Blight"
               },
               {
                 "t": "p",
-                "x": "SmartRoto输出的不是平面遮罩，而是真正的矢量样条；只需几帧输入，它就能把样条传播到整个序列并随之变形。因此修正一缕散乱的头发时，只需抓取熟悉的控制点，而不必重新转描整个镜头。"
+                "x": "DuVernay与Asteria Film Co.合作，修复团队从Library of Congress到Arkansas Historical Society以及家庭相册等档案中找到的照片。其中有些幻灯片从未被数字化过。“有些东西真的损坏得很严重，”她说，“你很难把它的分辨率提高到足以放进电影里。”Asteria的AI-powered工具正是在这一环节派上了用场。"
               },
               {
                 "t": "p",
-                "x": "其工作流程是非线性的：跳到任意位置，为形状设置关键帧，交给工具插值即可。在与Resolve的Magic Mask、Mocha Pro的Matte Assist和Nuke的CopyCat进行的计时测试中，评测者Todd Sheridan Perry发现它让效率提升了“4倍”。"
-              },
-              {
-                "t": "p",
-                "x": "需要注意的是：它是独立于Nuke授权的付费插件，需要Nuke 16.1或更高版本，而且只是辅助工具，不能取代人工监督。该评测还涵盖了Gaomon PD1561 V2和Huion Kamvas Pro 24两款数位屏。"
+                "x": "修复工作还催生了一种立体技法：“先要修复，然后做转描，再加一点点动画，让画面稍微动起来。那里的艺术家们用这些工具让照片活了起来。”Netflix将于11月27日在部分影院上映该片，并于12月4日在Netflix上线。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Foundry SmartRoto lleva la IA\nal rotoscopiado en Nuke",
-          "body": "SmartRoto añade a Nuke rotoscopiado por splines AI-assisted que, según un crítico, es cuatro veces más rápido.",
-          "mini_headline": "Rotoscopiado con IA en Nuke",
+          "headline": "DuVernay restaura con AI fotos\nde archivo para '14th'",
+          "body": "Ava DuVernay usó la AI de Asteria Film Co. para restaurar fotos de archivo degradadas.",
+          "mini_headline": "La AI de Asteria restaura '14th'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Foundry-SmartRoto.jpg",
-                "cap": "Foundry SmartRoto"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+                "cap": "Ava DuVernay en la rueda de prensa de '14th', 64th New York Film Festival"
               },
               {
                 "t": "p",
-                "x": "SmartRoto, de Foundry, es un complemento para Nuke dirigido a la pesada tarea del rotoscopiado fotograma a fotograma. Está integrado directamente en el nodo Roto que ya existe en Nuke, así que la curva de aprendizaje para los artistas de splines es casi nula."
+                "x": "'14th', de Ava DuVernay, clausura el New York Film Festival una década después de que '13th' lo inaugurara, pero «yo no diría que es una secuela», afirma. Concebida como una película sobre la ciudadanía por nacimiento, se convirtió en una mirada a toda la 14th Amendment (Decimocuarta Enmienda) a la luz de la actualidad."
+              },
+              {
+                "t": "img",
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+                "cap": "Ava DuVernay y el historiador Dr. David Blight en '14th'"
               },
               {
                 "t": "p",
-                "x": "En lugar de generar un mate plano, SmartRoto trabaja con splines vectoriales reales, que propaga y deforma a lo largo de una secuencia a partir de solo un par de fotogramas de entrada; así, corregir un pelo suelto consiste en tomar un punto conocido en vez de volver a rotoscopiar el plano."
+                "x": "DuVernay colaboró con Asteria Film Co. para restaurar fotos que su equipo encontró en archivos que iban desde la Library of Congress hasta la Arkansas Historical Society y álbumes familiares. «Parte de ese material estaba muy degradado», dijo, con diapositivas que nunca se habían digitalizado. «No se puede conseguir una resolución lo bastante alta como para ponerlo en una película», y ahí es donde ayudaron las herramientas AI-powered de Asteria."
               },
               {
                 "t": "p",
-                "x": "El flujo de trabajo no es lineal: se salta a cualquier punto, se fija una forma con un fotograma clave y la herramienta interpola. En pruebas cronometradas frente a Magic Mask de Resolve, Matte Assist de Mocha Pro y CopyCat de Nuke, el crítico Todd Sheridan Perry comprobó que agilizaba el trabajo “por un factor de 4”."
-              },
-              {
-                "t": "p",
-                "x": "Advertencias: es un complemento de pago independiente de las licencias de Nuke, requiere Nuke 16.1 o posterior y es un asistente, no un sustituto de la supervisión. La reseña también analiza las pantallas de lápiz Gaomon PD1561 V2 y Huion Kamvas Pro 24."
+                "x": "El trabajo de restauración derivó en una técnica estereoscópica: «primero hay que restaurarla, luego hay que hacer rotoscopia y después solo un poquito de animación para darle algo de movimiento. Y los artistas de allí usaron esas herramientas y le dieron vida». Netflix estrenará la película en cines seleccionados el 27 de noviembre y en Netflix el 4 de diciembre."
               }
             ]
           }

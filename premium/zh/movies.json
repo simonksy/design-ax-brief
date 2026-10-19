@@ -6991,6 +6991,138 @@
           "x": "代码库目前的功能包括带自动检测的绿幕和蓝幕专用检查点、基于原生2048x2048主干网络、最高可达4K 的分辨率无关推理、面向Nuke、Fusion或Resolve的16位和32位线性EXR输入输出，以及跟踪标记自动清理。最新版本可在6–8GB VRAM及大多数M1+ Macs上运行。"
         }
       ]
+    },
+    "movies/movies-nvidia-editors-day": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mike McCarthy参加了Nvidia在San Francisco举办的“Editor’s Day”。这是该公司为RTX Spark系列笔记本和台式机发布所做的预热活动,一整天的演讲围绕AI以及新硬件如何实现本地AI处理展开。"
+        },
+        {
+          "t": "p",
+          "x": "统一内存让GPUs最多可以访问全部系统内存,从而可选用更多AI模型。Nvidia与Adobe合作,把部分原本在云端处理的Creative Cloud功能搬到本地,包括Premiere中的图像蒙版和音频增强,以及Photoshop中的对象移除,并新增了可选择云端或本地处理的UI选项。"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+        },
+        {
+          "t": "p",
+          "x": "第二个卖点是通过MCP实现的智能体AI。SparkN1x的CPU是ARM处理器,运行Windows 11 for ARM。McCarthy用本地Qwen3.8-27B 模型试用了Hermes框架:它无法通过MCP连接Blender,在ComfyUI提示词里改一个词花了40分钟。“我最初几次使用智能体AI的体验并不好。”"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia估算,满负荷运行的RTX Spark每月可完成价值$1,200的AI-token 处理。在大多数实际测试中,McCarthy的Surface Ultra笔记本与他的Core i7 台式工作站不相上下。"
+        }
+      ]
+    },
+    "movies/movies-gibney-musk-avatar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+          "cap": "2026年9月8日,Alex Gibney出席在Venice, Italy举行的第83届Venice International Film Festival(威尼斯国际电影节)《Musk》拍照活动"
+        },
+        {
+          "t": "p",
+          "x": "在Alex Gibney为Elon Musk创作的人物肖像片《Musk》中,人工智能既是一种创作选择,也是一则警示故事。Gibney在IndieWire的“Screen Talk”播客中表示,他与Musk唯一的接触是通过X,团队根本不可能争取到一次面对面的采访。"
+        },
+        {
+          "t": "p",
+          "x": "于是,制作团队用AI打造了一个刻意带有uncanny-valley(恐怖谷)效果的Musk虚拟形象,并把他所有公开言论汇编成一场模拟“采访”。“我们收集了一个庞大的数据库,里面都是Elon真正说过的话,片中使用的正是这些录音。”Gibney说。这个创意源自Musk对“活在模拟世界中”的执念。"
+        },
+        {
+          "t": "p",
+          "x": "与工作室MakeMake合作时,“我们设计了布景,决定了他穿什么衣服,决定让他坐在电竞椅上……然后,我们用一些AI工具把这个形象与音频同步,而音频是真实的。”"
+        },
+        {
+          "t": "p",
+          "x": "影片也对AI持警示立场:Gibney提到DOGE工作人员存档了大量U.S. 公民数据,以及Geoffrey Hinton对用这些私人数据训练AI的担忧。"
+        }
+      ]
+    },
+    "movies/movies-fall2-flawless-vfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+        },
+        {
+          "t": "p",
+          "x": "由Michael and Peter Spierig兄弟执导的'Fall 2: Deadpoint'，把这部生存惊悚片的舞台从一座TV塔搬到了泰国(Thailand)虚构的Mount Kwan。剧组在泰国一处采石场岩壁上、离地约六米处搭建了木板结构，Koala FX交付了400多个VFX镜头，其中包括以数字绘景打造的全CG Mount Kwan、2.5D场景延展和CG环境。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "在第一部'Fall'中，Scott Mann的Flawless曾用其AI工具TrueSync为部分场景重新配音，这些场景为了影片分级需要改掉几处F-bombs。“我们几乎成了他们的测试平台，”Koala FX董事总经理Dasha Sherman说，“在Fall 2上，这更像是一个R&D过程。”工作重点是数百个镜头中的威亚擦除，Flawless不断完善工具，Koala FX则提供反馈。"
+        },
+        {
+          "t": "p",
+          "x": "VFX总监Menelaos Pampoukidis表示，凭借这家公司的流程经验，AI工具得以在真实场景中接受压力测试，团队还就素材中的光线闪烁、去颗粒以及最终润色所需的逐镜头修补给出了实操建议。双方的合作将延续到由Scott Mann执导、目前正在制作中的'Fall 3'。"
+        }
+      ]
+    },
+    "movies/movies-duvernay-14th-asteria": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+          "cap": "Ava DuVernay出席64th New York Film Festival的'14th'新闻发布会"
+        },
+        {
+          "t": "p",
+          "x": "'13th'为New York Film Festival揭幕十年后，Ava DuVernay的'14th'将为该电影节闭幕，但她说：“我不会说这是续集。”这部影片最初构思为一部关于出生公民权的电影，后来扩展为结合当下时事、审视整个14th Amendment(第十四修正案)的作品。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+          "cap": "'14th'中的Ava DuVernay与历史学家Dr. David Blight"
+        },
+        {
+          "t": "p",
+          "x": "DuVernay与Asteria Film Co.合作，修复团队从Library of Congress到Arkansas Historical Society以及家庭相册等档案中找到的照片。其中有些幻灯片从未被数字化过。“有些东西真的损坏得很严重，”她说，“你很难把它的分辨率提高到足以放进电影里。”Asteria的AI-powered工具正是在这一环节派上了用场。"
+        },
+        {
+          "t": "p",
+          "x": "修复工作还催生了一种立体技法：“先要修复，然后做转描，再加一点点动画，让画面稍微动起来。那里的艺术家们用这些工具让照片活了起来。”Netflix将于11月27日在部分影院上映该片，并于12月4日在Netflix上线。"
+        }
+      ]
+    },
+    "movies/movies-artlist-arc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
+          "cap": "《The Arc》（截图/YouTube）"
+        },
+        {
+          "t": "p",
+          "x": "Artlist的五集科幻迷你剧《The Arc》讲述一位父亲被困在残酷的未来监狱程序中，必须在激烈的历史战役中活下来，才能为患病的儿子赢得“治疗”。导演Darin Stewart和制片人Simone Ferretti对Business Insider表示，生成式模型让电影制作走向大众化。"
+        },
+        {
+          "t": "p",
+          "x": "Artlist曾是音乐和音效素材库，如今已全面转向AI，提供视频、图像和文本生成的分级套餐，并运营一个展示Veo、Seedance和Kling等模型的小型流媒体平台。"
+        },
+        {
+          "t": "p",
+          "x": "IndieWire认为，完全依靠生成式模型完成的作品“毫无艺术价值”，理由包括团队为写剧本向Claude输入的“10分钟口头头脑倾倒”、缺乏表现力的AI演员，以及每条提示词只能生成8秒（Veo）或30秒（Seedance）的模型上限。"
+        },
+        {
+          "t": "p",
+          "x": "团队获得了38,000美元的AI额度，每集约7,600美元。按API-pricing计算，这笔额度可生成83分钟视频；Artlist的AI Creator套餐每年500美元。所有人都按全天日薪拿到报酬，但IndieWire警告，更少的人更快地工作，会导致娱乐业的去技能化。"
+        }
+      ]
     }
   }
 }

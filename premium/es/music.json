@@ -7093,6 +7093,156 @@
           "x": "El “VOCALOID7 Editor” saldrá a la venta el 11 de noviembre de 2026 por $129 antes de impuestos, mientras que la edición de actualización tiene un precio normal de $69."
         }
       ]
+    },
+    "music/music-zoom-neurig": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+          "cap": "Zoom Neurig"
+        },
+        {
+          "t": "p",
+          "x": "Zoom es la última gran marca en adoptar NAM con el Neurig, un modelador asequible con pantalla táctil que la empresa describe como “un pedal de guitarra de nueva generación que lo redefinirá todo”. Es compatible de forma nativa con NAM A2 Lite de TONE3000, la arquitectura de código abierto para modelar amplificadores que se está extendiendo por la industria de la guitarra."
+        },
+        {
+          "t": "p",
+          "x": "Según Zoom, la tecnología “reproduce el propio amplificador, no solo el tono”. Incluye 32 cabezales de amplificador, desde un Marshall JTM 45 y un 1965 Fender Twin Reverb hasta un Diezel Herbert y un Mesa/Boogie Dual Rectifier, además de seis sonidos de amplificador originales. La integración con NAM permite cargar amplificadores, pedales y gabinetes, capturar cadenas de señal completas e importar gratis más de 700.000 capturas NAM y bibliotecas de IR."
+        },
+        {
+          "t": "video",
+          "yt": "pN3mt-v4KiE"
+        },
+        {
+          "t": "p",
+          "x": "Los efectos incluyen reverberaciones, retardos y modulaciones, además de un bit crusher, un simulador de altavoz rotativo, un modulador en anillo y un pitch shifter, con 17 efectos pensados para pedal de expresión. Puede ejecutar hasta 14 efectos a la vez y suma send/return, MIDI in/out, Bluetooth, un looper y una batería de 4,5 horas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+          "cap": "Amplificador modelador Zoom Neurig (Imagen: Zoom)"
+        },
+        {
+          "t": "p",
+          "x": "También ofrece generación de tonos AI-driven (impulsada por IA) y separación de pistas por IA para eliminar las partes de guitarra de las canciones, a través del servicio en la nube SessionZ Pedal."
+        },
+        {
+          "t": "p",
+          "x": "El precio es de ¥47.800, unos $300: una conversión aproximada mientras se espera el precio oficial en EE. UU."
+        }
+      ]
+    },
+    "music/music-rocketship-audience-map": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Con unos 100.000 temas nuevos que llegan cada día a las plataformas de streaming, los artistas independientes lo tienen cuesta arriba. La mayoría toma sus decisiones más caras —elegir sencillos, comprar anuncios, planificar la promoción— basándose en conjeturas."
+        },
+        {
+          "t": "p",
+          "x": "Cofundada por Maxwell Zotz (Verge Campus, MAX.Live) y Billy Rodgers (Fanpage), Rocketship se presenta como la primera plataforma AI-driven (impulsada por IA) capaz de identificar el público potencial de una canción antes de su lanzamiento comercial. Llega tras cuatro meses en Beta con comentarios de más de 100 ejecutivos de sellos, editoriales, management y distribución."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+          "cap": "Rocketship"
+        },
+        {
+          "t": "p",
+          "x": "Rocketship evalúa un tema inédito según 80 parámetros de audio, letra y contexto, y lo compara con décadas de historia musical para identificar perfiles de oyentes. Sus modelos con patente en trámite, desarrollados junto a Loeb & Loeb, se entrenaron con más de 250.000 temas de catálogo. Después elabora una estrategia promocional ajustada a la ventana de lanzamiento y al presupuesto."
+        },
+        {
+          "t": "p",
+          "x": "Cada usuario nuevo puede analizar un tema inédito a costo cero. Mission Control, un panel AI-powered (con IA), personaliza las misiones promocionales, y Rocketship Studio convierte el audio en piezas de video vertical en minutos."
+        },
+        {
+          "t": "p",
+          "x": "“No reemplaza el gusto ni el instinto. Significa que no están adivinando solos”, dice Zotz."
+        }
+      ]
+    },
+    "music/music-neko-pocket-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+          "cap": "Neko Pocket Studio"
+        },
+        {
+          "t": "p",
+          "x": "Neko, de Neko Engineering, se lanzó esta semana en Kickstarter: un estudio de bolsillo que une conectividad inalámbrica, modelado de amplificadores y pedales y grabación con herramientas de IA. Se centra en aprender canciones y en convertir riffs de guitarra en arreglos completos."
+        },
+        {
+          "t": "p",
+          "x": "Dos conectores inalámbricos se guardan y se cargan dentro de Neko: uno se conecta a una guitarra o un bajo y el otro a un amplificador o una mesa de mezclas. Neko se encarga del procesamiento del sonido, con tonos NAM, y de la grabación multipista."
+        },
+        {
+          "t": "p",
+          "x": "Añade separación de pistas por IA, la posibilidad de silenciar la guitarra de un tema y tocar en su lugar, audio-to-tab en su pantalla, y pistas de acompañamiento y arreglos creados con IA generativa. La función Time Machine permite a los músicos volver a escuchar ideas aunque hayan olvidado pulsar grabar. La integración con NAM abre la biblioteca de capturas de Tone3000."
+        },
+        {
+          "t": "video",
+          "yt": "keuagUavq90"
+        },
+        {
+          "t": "p",
+          "x": "En las primeras 24 horas la campaña de Kickstarter reunió $10.000 en aportes; ya supera los $260k frente a un objetivo de $30.000. Los aportes con recompensa parten de $449 y el precio de venta es de $599. Los envíos a los patrocinadores están previstos para abril de 2027."
+        }
+      ]
+    },
+    "music/music-midi-repa-paper": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+          "cap": "Figura 1: marco MIDI-REPA. Los objetivos simbólicos extraídos por un sistema AMT supervisan las representaciones de audio intermedias mediante un cabezal de proyección ligero y una pérdida de alineación por similitud coseno."
+        },
+        {
+          "t": "p",
+          "x": "Los modelos text-to-music más avanzados dependen cada vez más de escalar la capacidad del modelo, los datos y el cómputo, aunque siguen aprendiendo la estructura musical directamente del audio denso. Sin embargo, la melodía, el ritmo, la armonía y la estructura pueden representarse de manera compacta en forma simbólica."
+        },
+        {
+          "t": "p",
+          "x": "Presentamos MIDI-REPA, un marco de alineación de representaciones que obtiene supervisión MIDI a partir de la transcripción musical automática (AMT) para alinear las representaciones intermedias de un DiT de flow-matching. Partiendo de la línea base FluxAudio-S de 122M parámetros del 2026 ICME Academic Text-To-Music Challenge, investigamos qué, dónde y cuándo alinear. Alinear un piano roll MuScriptor-derived (derivado de MuScriptor) con una capa temprana del DiT a lo largo de toda la trayectoria del flujo da los mejores resultados."
+        },
+        {
+          "t": "p",
+          "x": "Sin datos de entrenamiento ni técnicas adicionales, MIDI-REPA sigue siendo competitivo en las métricas objetivas de ATTM y puede entrenarse en una sola RTX 3090 en unas 31 horas. Nuestros resultados destacan la supervisión simbólica como una señal de aprendizaje sencilla y barata para mejorar la generación text-to-music. Publicamos nuestro pipeline de transcripción, JamendoMIDI, el código de entrenamiento y muestras de audio."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+          "cap": "Figura 2: salidas finales extrapoladas desde distintos pasos de tiempo a lo largo de la trayectoria de generación de referencia."
+        }
+      ]
+    },
+    "music/music-suno-korea-hit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "El mes pasado contamos el debate que surgió en Corea del Sur después de que una canción generada por IA (AI-generated) llamada ‘Forest of the Heart’ apareciera en la parte baja del Top 100 del servicio de streaming Melon."
+        },
+        {
+          "t": "p",
+          "x": "Ahora ha quedado ampliamente superada. ‘The Adult I Dreamed Of’, de un artista llamado Meomuru, alcanzó esta semana el tercer puesto de esa lista, tras un ascenso lento desde su lanzamiento en junio impulsado por su uso en publicaciones de redes sociales."
+        },
+        {
+          "t": "p",
+          "x": "The Straits Times recoge la noticia y señala que el artista escribió la letra del tema, pero generó la música con Suno, como también ocurrió con ‘Forest of the Heart’."
+        },
+        {
+          "t": "p",
+          "x": "Melon concentra el debate sobre el nuevo éxito, aunque la canción también deja huella en las listas de otros servicios. ‘The Adult I Dreamed Of’ ocupa el puesto 48 en la lista ‘Top Songs – South Korea’ de Spotify en el momento de escribir esto, pero el 10 en su último ranking diario Top 50."
+        },
+        {
+          "t": "p",
+          "x": "En YouTube le va aún mejor: ‘The Adult I Dreamed Of’ ocupa el segundo lugar en la última lista Weekly Top Songs de la plataforma para Corea del Sur, con 3,2 millones de visualizaciones semanales. En YouTube lleva una etiqueta ‘AI’ conforme a la política de etiquetado que YouTube Music acaba de anunciar."
+        }
+      ]
     }
   }
 }

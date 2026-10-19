@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-ai-fcp",
+      "id": "medicine-ai-auscultation-lvd",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 첫 종양 진료 전\n환자 기록을 정리한다",
-      "body": "종양 클리닉 현장에서 LLM이 첫 진료 전 비정형 문서를 구조화 요약으로 바꾼다.",
-      "mini_headline": "AI가 첫 종양 진료를 준비한다",
+      "headline": "AI가 디지털 청진기로\n약한 심장을 듣는다",
+      "body": "AI가 digital-stethoscope 심음에서 좌심실 기능 이상을 찾아냈다.",
+      "mini_headline": "AI 청진기로 약한 심장 선별",
       "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03396-6",
+      "source": "NEJM AI",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600258",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,175 +19,179 @@
         "blocks": [
           {
             "t": "p",
-            "x": "대규모 언어 모델이 정보 관리를 거들어 임상의를 도울 수는 있지만, 실제 종양 진료 현장에서 얼마나 쓸 만한지는 아직 연구가 부족하다고 네덜란드 암연구소(Netherlands Cancer Institute) 연구진이 npj Digital Medicine에 썼다."
+            "x": "Sato 연구팀은 일본의 전향적 다기관 연구로 좌심실 기능 이상을 찾는 인공지능 강화 청진법을 만들고 외부 검증까지 마쳤다. 결과는 NEJM AI 원저 논문으로 실렸다."
+          },
+          {
+            "t": "img",
+            "src": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
+            "cap": "연구 설계. 학습·내부 검증(n=2359)과 외부 검증(n=1000) 데이터셋."
           },
           {
             "t": "p",
-            "x": "연구진은 비정형 임상 문서로 구조화 요약을 만드는 AI-based First Consultation Preparation(AI-FCP)의 워크플로 성능을 평가했다. 도구는 두경부종양과(Department of Head and Neck Oncology)의 최종 사용자, 파트너 kaiko.ai와 함께 개발했다."
+            "x": "모델 학습과 내부 검증에는 일본 다기관 레지스트리에서 심장초음파 검사가 임상적으로 필요했던 성인 2,359명의 데이터를 썼다. 디지털 청진기로 청진 부위 네 곳의 심음과 단일 유도 ECG를 기록했고 좌심실 박출률(LVEF)은 심장초음파로 쟀다."
           },
           {
             "t": "p",
-            "x": "설계는 전향적 단일군 전후 비교였다. 임상의 아홉 명이 개인별 기준선 측정을 마친 뒤 AI-FCP로 33건의 진료를 진행했고, 사용성은 검증된 설문지와 연구 전용 도구로 평가했다."
+            "x": "최종 모델은 LVEF ≤40%를 각각 겨냥한 CNN-based 모델과 transformer-based 모델을 청진 부위 네 곳에 걸쳐 앙상블해 만들었다."
           },
           {
             "t": "p",
-            "x": "AI-FCP를 도입하자 전반적 체감 업무 부담(NASA-TLX)이 기준선보다 28.9% 낮아졌고, 자가 보고 기준으로 사례당 평균 3.26분이 절약됐다. 준비는 진료의 84.9%에서 성공했고 요약의 63.6%는 완전했다."
-          },
-          {
-            "t": "p",
-            "x": "저자들은 이번 결과를 탐색적이라고 규정했다. 생존자 편향 가능성도 짚었고 일반화할 수 있는지는 추가 연구로 판단해야 한다고 밝혔다."
+            "x": "이 모델을 같은 기준값 그대로 일본 내 다른 병원 여섯 곳 환자 1,000명의 외부 데이터셋에 적용했다. 제외 대상을 빼고 964명을 분석했다."
           }
         ]
       },
-      "_lead_image": "",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "AI drafts the case file\nbefore the first oncology visit",
-          "body": "In a real oncology clinic, an LLM turns unstructured clinical documents into structured summaries before first visits.",
-          "mini_headline": "AI preps first oncology visits",
+          "headline": "AI listens for a weak heart\nthrough a digital stethoscope",
+          "body": "AI reading digital-stethoscope heart sounds to spot left ventricular dysfunction was validated in multicenter cohorts.",
+          "mini_headline": "AI stethoscope screens for weak heart",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Large language models may support clinicians by facilitating information management, but their usability in real-world oncology practice remains understudied, write researchers at the Netherlands Cancer Institute in npj Digital Medicine."
+                "x": "An original article in NEJM AI by Sato and colleagues reports the development and external validation, in prospective multicenter studies in Japan, of artificial intelligence–enhanced auscultation to identify left ventricular dysfunction."
+              },
+              {
+                "t": "img",
+                "src": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
+                "cap": "Study design: training and internal validation (n=2359) and external validation (n=1000) datasets."
               },
               {
                 "t": "p",
-                "x": "They evaluated the workflow performance of AI-based First Consultation Preparation (AI-FCP), which generates structured summaries from unstructured clinical documentation and was co-created with end users in the Department of Head and Neck Oncology, with partner kaiko.ai."
+                "x": "The model was trained and internally validated on 2,359 adults with a clinical indication for echocardiography from a multicenter registry in Japan. Heart sounds from four auscultation sites and single-lead ECG data were recorded with a digital stethoscope, and left ventricular ejection fraction (LVEF) was measured by echocardiography."
               },
               {
                 "t": "p",
-                "x": "In a prospective single-group pre-post design, nine clinicians completed a person-level baseline, followed by 33 consultations with AI-FCP. Usability was evaluated using validated questionnaires and study-specific instruments."
+                "x": "A CNN-based model and a transformer-based model, each targeting LVEF ≤40%, were ensembled across the four auscultation sites into a final model."
               },
               {
                 "t": "p",
-                "x": "After AI-FCP, overall perceived workload (NASA-TLX) was 28.9% lower than baseline, with self-reported average time savings of 3.26 min per case. Preparation succeeded in 84.9% of consultations, and 63.6% of summaries were complete."
-              },
-              {
-                "t": "p",
-                "x": "The authors call the findings exploratory, note possible survivorship bias, and say further research is needed to determine generalizability."
+                "x": "The final model was then tested with the same threshold on an external dataset of 1,000 patients from six other hospitals in Japan; 964 were analyzed after exclusions."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 첫 종양 진료 전\n환자 기록을 정리한다",
-          "body": "종양 클리닉 현장에서 LLM이 첫 진료 전 비정형 문서를 구조화 요약으로 바꾼다.",
-          "mini_headline": "AI가 첫 종양 진료를 준비한다",
+          "headline": "AI가 디지털 청진기로\n약한 심장을 듣는다",
+          "body": "AI가 digital-stethoscope 심음에서 좌심실 기능 이상을 찾아냈다.",
+          "mini_headline": "AI 청진기로 약한 심장 선별",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "대규모 언어 모델이 정보 관리를 거들어 임상의를 도울 수는 있지만, 실제 종양 진료 현장에서 얼마나 쓸 만한지는 아직 연구가 부족하다고 네덜란드 암연구소(Netherlands Cancer Institute) 연구진이 npj Digital Medicine에 썼다."
+                "x": "Sato 연구팀은 일본의 전향적 다기관 연구로 좌심실 기능 이상을 찾는 인공지능 강화 청진법을 만들고 외부 검증까지 마쳤다. 결과는 NEJM AI 원저 논문으로 실렸다."
+              },
+              {
+                "t": "img",
+                "src": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
+                "cap": "연구 설계. 학습·내부 검증(n=2359)과 외부 검증(n=1000) 데이터셋."
               },
               {
                 "t": "p",
-                "x": "연구진은 비정형 임상 문서로 구조화 요약을 만드는 AI-based First Consultation Preparation(AI-FCP)의 워크플로 성능을 평가했다. 도구는 두경부종양과(Department of Head and Neck Oncology)의 최종 사용자, 파트너 kaiko.ai와 함께 개발했다."
+                "x": "모델 학습과 내부 검증에는 일본 다기관 레지스트리에서 심장초음파 검사가 임상적으로 필요했던 성인 2,359명의 데이터를 썼다. 디지털 청진기로 청진 부위 네 곳의 심음과 단일 유도 ECG를 기록했고 좌심실 박출률(LVEF)은 심장초음파로 쟀다."
               },
               {
                 "t": "p",
-                "x": "설계는 전향적 단일군 전후 비교였다. 임상의 아홉 명이 개인별 기준선 측정을 마친 뒤 AI-FCP로 33건의 진료를 진행했고, 사용성은 검증된 설문지와 연구 전용 도구로 평가했다."
+                "x": "최종 모델은 LVEF ≤40%를 각각 겨냥한 CNN-based 모델과 transformer-based 모델을 청진 부위 네 곳에 걸쳐 앙상블해 만들었다."
               },
               {
                 "t": "p",
-                "x": "AI-FCP를 도입하자 전반적 체감 업무 부담(NASA-TLX)이 기준선보다 28.9% 낮아졌고, 자가 보고 기준으로 사례당 평균 3.26분이 절약됐다. 준비는 진료의 84.9%에서 성공했고 요약의 63.6%는 완전했다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 이번 결과를 탐색적이라고 규정했다. 생존자 편향 가능성도 짚었고 일반화할 수 있는지는 추가 연구로 판단해야 한다고 밝혔다."
+                "x": "이 모델을 같은 기준값 그대로 일본 내 다른 병원 여섯 곳 환자 1,000명의 외부 데이터셋에 적용했다. 제외 대상을 빼고 964명을 분석했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "腫瘍科の初診前に\nAIが症例をまとめる",
-          "body": "実際の腫瘍科外来で、LLMが非構造化の診療文書を初診前に構造化要約へ変換する。",
-          "mini_headline": "AIが腫瘍科の初診を準備",
+          "headline": "AIがデジタル聴診器で\n弱った心臓を聞き分ける",
+          "body": "digital-stethoscopeの心音で左室機能障害を探すAIを多施設で検証した。",
+          "mini_headline": "AI聴診器が弱った心臓を拾う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "大規模言語モデルは情報管理を助けることで臨床医を支援しうるが、実際の腫瘍診療における使い勝手は十分に研究されていないと、オランダがん研究所(Netherlands Cancer Institute)の研究者らがnpj Digital Medicineに記している。"
+                "x": "NEJM AIに掲載されたSatoらの原著論文は、日本での前向き多施設研究において、左室機能障害を検出する人工知能強化聴診の開発と外部検証を報告した。"
+              },
+              {
+                "t": "img",
+                "src": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
+                "cap": "研究デザイン：学習・内部検証(n=2359)と外部検証(n=1000)のデータセット。"
               },
               {
                 "t": "p",
-                "x": "研究者らは、非構造化の臨床文書から構造化要約を生成するAI-based First Consultation Preparation(AI-FCP)のワークフロー性能を評価した。このツールは頭頸部腫瘍科(Department of Head and Neck Oncology)のエンドユーザー、そしてパートナーのkaiko.aiと共同で開発された。"
+                "x": "モデルは、日本の多施設レジストリから心エコー検査の臨床的適応がある成人2,359人のデータで学習と内部検証を行った。デジタル聴診器で四カ所の聴診部位の心音と単誘導ECGデータを記録し、左室駆出率(LVEF)は心エコーで測定した。"
               },
               {
                 "t": "p",
-                "x": "前向き単群前後比較デザインで、臨床医九人が個人単位のベースライン評価を終えた後、AI-FCPを用いて33件の診察を行った。使い勝手は検証済みの質問票と研究独自の評価手段で評価した。"
+                "x": "LVEF ≤40%をそれぞれ標的とするCNN-basedモデルとtransformer-basedモデルを、四つの聴診部位にわたってアンサンブルし、最終モデルとした。"
               },
               {
                 "t": "p",
-                "x": "AI-FCP導入後、全体的な主観的作業負荷(NASA-TLX)はベースラインより28.9%低く、自己申告による平均時間短縮は1件あたり3.26分だった。準備は診察の84.9%で成功し、要約の63.6%が完全だった。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは今回の結果を探索的なものと位置づけ、生存者バイアスの可能性を指摘したうえで、一般化可能性を見極めるにはさらなる研究が必要だとしている。"
+                "x": "最終モデルはその後、同じ閾値で日本の別の六病院の患者1,000人からなる外部データセットで検証され、除外後に964人が解析された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "首次肿瘤门诊前\nAI先整理好病例",
-          "body": "在真实肿瘤门诊中，LLM在首诊前将非结构化临床文档转为结构化摘要。",
-          "mini_headline": "AI为肿瘤首诊做准备",
+          "headline": "AI借数字听诊器\n听出衰弱的心脏",
+          "body": "AI读取digital-stethoscope心音识别左心室功能障碍，获多中心队列验证。",
+          "mini_headline": "AI听诊器筛查心脏衰弱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "荷兰癌症研究所(Netherlands Cancer Institute)的研究人员在npj Digital Medicine上撰文指出，大语言模型可通过协助信息管理来支持临床医生，但其在真实肿瘤诊疗中的可用性仍缺乏研究。"
+                "x": "Sato等人在NEJM AI发表的原创论文报告，研究团队在日本的前瞻性多中心研究中开发并外部验证了用于识别左心室功能障碍的人工智能增强听诊。"
+              },
+              {
+                "t": "img",
+                "src": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
+                "cap": "研究设计：训练与内部验证（n=2359）及外部验证（n=1000）数据集。"
               },
               {
                 "t": "p",
-                "x": "他们评估了AI-based First Consultation Preparation(AI-FCP)的工作流程表现。该工具可从非结构化临床文档生成结构化摘要，由头颈肿瘤科(Department of Head and Neck Oncology)的终端用户与合作伙伴kaiko.ai共同开发。"
+                "x": "模型基于日本一个多中心登记库中2,359名有超声心动图临床指征的成人完成训练和内部验证。研究用数字听诊器记录四个听诊部位的心音和单导联ECG数据，并通过超声心动图测量左心室射血分数（LVEF）。"
               },
               {
                 "t": "p",
-                "x": "研究采用前瞻性单组前后对照设计，九名临床医生先完成个人层面的基线评估，随后使用AI-FCP完成33次会诊。可用性通过经验证的问卷和研究专用工具进行评估。"
+                "x": "分别以LVEF ≤40%为目标的CNN-based模型和transformer-based模型，在四个听诊部位上集成为最终模型。"
               },
               {
                 "t": "p",
-                "x": "使用AI-FCP后，整体感知工作负荷(NASA-TLX)比基线低28.9%，自我报告的平均每例节省时间为3.26分钟。84.9%的会诊准备成功，63.6%的摘要内容完整。"
-              },
-              {
-                "t": "p",
-                "x": "作者称这些发现属于探索性结果，指出可能存在幸存者偏差，并表示需要进一步研究来确定其可推广性。"
+                "x": "随后，最终模型以相同阈值在日本另外六家医院1,000名患者的外部数据集上测试，排除后分析了964人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA redacta el expediente\nantes de la consulta oncológica",
-          "body": "En una clínica oncológica real, un LLM resume documentos clínicos no estructurados antes de la primera consulta.",
-          "mini_headline": "La IA prepara la primera consulta oncológica",
+          "headline": "La AI escucha un corazón débil\ncon un estetoscopio digital",
+          "body": "Se validó en cohortes multicéntricas una AI que detecta disfunción ventricular izquierda con un digital-stethoscope.",
+          "mini_headline": "Un estetoscopio con AI detecta corazones débiles",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los grandes modelos de lenguaje pueden apoyar a los clínicos al facilitar la gestión de la información, pero su usabilidad en la práctica oncológica real sigue poco estudiada, escriben investigadores del Netherlands Cancer Institute en npj Digital Medicine."
+                "x": "Un artículo original de Sato y colaboradores en NEJM AI describe el desarrollo y la validación externa, en estudios prospectivos multicéntricos en Japón, de la auscultación potenciada por inteligencia artificial para identificar la disfunción ventricular izquierda."
+              },
+              {
+                "t": "img",
+                "src": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
+                "cap": "Diseño del estudio: conjuntos de datos de entrenamiento y validación interna (n=2359) y de validación externa (n=1000)."
               },
               {
                 "t": "p",
-                "x": "Evaluaron el desempeño en el flujo de trabajo de AI-based First Consultation Preparation (AI-FCP), que genera resúmenes estructurados a partir de documentación clínica no estructurada y que se creó junto con usuarios finales del Departamento de Oncología de Cabeza y Cuello, con el socio kaiko.ai."
+                "x": "El modelo se entrenó y validó internamente con 2,359 adultos con indicación clínica de ecocardiografía procedentes de un registro multicéntrico de Japón. Con un estetoscopio digital se registraron los ruidos cardíacos de cuatro focos de auscultación y datos de ECG de una sola derivación, y la fracción de eyección del ventrículo izquierdo (LVEF) se midió por ecocardiografía."
               },
               {
                 "t": "p",
-                "x": "En un diseño prospectivo de un solo grupo antes-después, nueve clínicos completaron una línea de base individual y luego 33 consultas con AI-FCP. La usabilidad se evaluó con cuestionarios validados e instrumentos específicos del estudio."
+                "x": "Un modelo CNN-based y otro transformer-based, cada uno orientado a LVEF ≤40%, se combinaron en un ensamble a través de los cuatro focos de auscultación para formar el modelo final."
               },
               {
                 "t": "p",
-                "x": "Tras AI-FCP, la carga de trabajo percibida global (NASA-TLX) fue un 28.9% menor que en la línea de base, con un ahorro medio de tiempo autodeclarado de 3.26 min por caso. La preparación tuvo éxito en el 84.9% de las consultas y el 63.6% de los resúmenes estaba completo."
-              },
-              {
-                "t": "p",
-                "x": "Los autores califican los hallazgos de exploratorios, señalan un posible sesgo de supervivencia y afirman que se necesita más investigación para determinar su generalización."
+                "x": "Después, el modelo final se probó con el mismo umbral en un conjunto de datos externo de 1,000 pacientes de otros seis hospitales de Japón; tras las exclusiones se analizaron 964."
               }
             ]
           }
@@ -195,121 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 첫 종양 진료 전\n환자 기록을 정리한다",
-          "body": "실제 종양 클리닉에서 LLM이 첫 진료 전 비정형 문서를 구조화 요약으로 바꾼다.",
-          "mini_headline": "AI가 첫 종양 진료를 준비한다",
+          "headline": "AI가 디지털 청진기로\n약한 심장을 듣는다",
+          "body": "AI가 digital-stethoscope 심음으로 좌심실 기능 이상을 찾았다.",
+          "mini_headline": "AI 청진기로 약한 심장 선별",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "대규모 언어 모델은 정보 관리를 도와 임상의를 지원할 수 있지만, 실제 종양 진료 현장에서의 사용성은 아직 충분히 연구되지 않았다고 네덜란드 암연구소(Netherlands Cancer Institute) 연구진이 npj Digital Medicine에 썼다."
+                "x": "Sato 연구팀은 NEJM AI에 실은 원저 논문에서 일본의 전향적 다기관 연구를 통해 좌심실 기능 이상을 찾아내는 인공지능 강화 청진법을 개발하고 외부 검증한 결과를 보고했다."
+              },
+              {
+                "t": "img",
+                "src": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
+                "cap": "연구 설계: 학습 및 내부 검증(n=2359), 외부 검증(n=1000) 데이터셋."
               },
               {
                 "t": "p",
-                "x": "연구진은 비정형 임상 문서에서 구조화 요약을 생성하는 AI-based First Consultation Preparation(AI-FCP)의 워크플로 성능을 평가했다. 이 도구는 두경부종양과(Department of Head and Neck Oncology)의 최종 사용자, 파트너 kaiko.ai와 함께 만들었다."
+                "x": "모델은 일본 다기관 레지스트리에서 심장초음파 검사의 임상적 적응증이 있는 성인 2,359명의 데이터로 학습과 내부 검증을 거쳤다. 디지털 청진기로 네 곳의 청진 부위 심음과 단일 유도 ECG 데이터를 기록했고, 좌심실 박출률(LVEF)은 심장초음파로 측정했다."
               },
               {
                 "t": "p",
-                "x": "전향적 단일군 전후 비교 설계로 임상의 아홉 명이 개인 단위 기준선 측정을 마친 뒤 AI-FCP로 33건의 진료를 진행했다. 사용성은 검증된 설문지와 연구 전용 도구로 평가했다."
+                "x": "LVEF ≤40%를 각각 목표로 한 CNN-based 모델과 transformer-based 모델을 네 청진 부위에 걸쳐 앙상블해 최종 모델을 만들었다."
               },
               {
                 "t": "p",
-                "x": "AI-FCP 도입 후 전반적 체감 업무 부담(NASA-TLX)은 기준선보다 28.9% 낮았고, 자가 보고 기준 사례당 평균 3.26분을 절약했다. 준비는 진료의 84.9%에서 성공했고, 요약의 63.6%가 완전했다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 이번 결과를 탐색적이라고 규정하고 생존자 편향 가능성을 짚으며, 일반화 가능성을 판단하려면 추가 연구가 필요하다고 밝혔다."
+                "x": "이어 최종 모델을 같은 기준값으로 일본 내 다른 병원 여섯 곳의 환자 1,000명 외부 데이터셋에서 시험했고, 제외 대상을 뺀 964명을 분석했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "腫瘍科の初診前に\nAIが症例をまとめる",
-          "body": "実際の腫瘍科外来で、LLMが非構造化の診療文書を初診前に構造化要約へ変換する。",
-          "mini_headline": "AIが腫瘍科の初診を準備",
+          "headline": "AIがデジタル聴診器で\n弱った心臓を聞き分ける",
+          "body": "digital-stethoscopeの心音で左室機能障害を探すAIを多施設で検証した。",
+          "mini_headline": "AI聴診器が弱った心臓を拾う",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "大規模言語モデルは情報管理を助けることで臨床医を支援しうるが、実際の腫瘍診療における使い勝手は十分に研究されていないと、オランダがん研究所(Netherlands Cancer Institute)の研究者らがnpj Digital Medicineに記している。"
+                "x": "NEJM AIに掲載されたSatoらの原著論文は、日本での前向き多施設研究において、左室機能障害を検出する人工知能強化聴診の開発と外部検証を報告した。"
+              },
+              {
+                "t": "img",
+                "src": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
+                "cap": "研究デザイン：学習・内部検証(n=2359)と外部検証(n=1000)のデータセット。"
               },
               {
                 "t": "p",
-                "x": "研究者らは、非構造化の臨床文書から構造化要約を生成するAI-based First Consultation Preparation(AI-FCP)のワークフロー性能を評価した。このツールは頭頸部腫瘍科(Department of Head and Neck Oncology)のエンドユーザー、そしてパートナーのkaiko.aiと共同で開発された。"
+                "x": "モデルは、日本の多施設レジストリから心エコー検査の臨床的適応がある成人2,359人のデータで学習と内部検証を行った。デジタル聴診器で四カ所の聴診部位の心音と単誘導ECGデータを記録し、左室駆出率(LVEF)は心エコーで測定した。"
               },
               {
                 "t": "p",
-                "x": "前向き単群前後比較デザインで、臨床医九人が個人単位のベースライン評価を終えた後、AI-FCPを用いて33件の診察を行った。使い勝手は検証済みの質問票と研究独自の評価手段で評価した。"
+                "x": "LVEF ≤40%をそれぞれ標的とするCNN-basedモデルとtransformer-basedモデルを、四つの聴診部位にわたってアンサンブルし、最終モデルとした。"
               },
               {
                 "t": "p",
-                "x": "AI-FCP導入後、全体的な主観的作業負荷(NASA-TLX)はベースラインより28.9%低く、自己申告による平均時間短縮は1件あたり3.26分だった。準備は診察の84.9%で成功し、要約の63.6%が完全だった。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは今回の結果を探索的なものと位置づけ、生存者バイアスの可能性を指摘したうえで、一般化可能性を見極めるにはさらなる研究が必要だとしている。"
+                "x": "最終モデルはその後、同じ閾値で日本の別の六病院の患者1,000人からなる外部データセットで検証され、除外後に964人が解析された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "首次肿瘤门诊前\nAI先整理好病例",
-          "body": "在真实肿瘤门诊中，LLM在首诊前将非结构化临床文档转为结构化摘要。",
-          "mini_headline": "AI为肿瘤首诊做准备",
+          "headline": "AI借数字听诊器\n听出衰弱的心脏",
+          "body": "AI读取digital-stethoscope心音识别左心室功能障碍，获多中心队列验证。",
+          "mini_headline": "AI听诊器筛查心脏衰弱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "荷兰癌症研究所(Netherlands Cancer Institute)的研究人员在npj Digital Medicine上撰文指出，大语言模型可通过协助信息管理来支持临床医生，但其在真实肿瘤诊疗中的可用性仍缺乏研究。"
+                "x": "Sato等人在NEJM AI发表的原创论文报告，研究团队在日本的前瞻性多中心研究中开发并外部验证了用于识别左心室功能障碍的人工智能增强听诊。"
+              },
+              {
+                "t": "img",
+                "src": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
+                "cap": "研究设计：训练与内部验证（n=2359）及外部验证（n=1000）数据集。"
               },
               {
                 "t": "p",
-                "x": "他们评估了AI-based First Consultation Preparation(AI-FCP)的工作流程表现。该工具可从非结构化临床文档生成结构化摘要，由头颈肿瘤科(Department of Head and Neck Oncology)的终端用户与合作伙伴kaiko.ai共同开发。"
+                "x": "模型基于日本一个多中心登记库中2,359名有超声心动图临床指征的成人完成训练和内部验证。研究用数字听诊器记录四个听诊部位的心音和单导联ECG数据，并通过超声心动图测量左心室射血分数（LVEF）。"
               },
               {
                 "t": "p",
-                "x": "研究采用前瞻性单组前后对照设计，九名临床医生先完成个人层面的基线评估，随后使用AI-FCP完成33次会诊。可用性通过经验证的问卷和研究专用工具进行评估。"
+                "x": "分别以LVEF ≤40%为目标的CNN-based模型和transformer-based模型，在四个听诊部位上集成为最终模型。"
               },
               {
                 "t": "p",
-                "x": "使用AI-FCP后，整体感知工作负荷(NASA-TLX)比基线低28.9%，自我报告的平均每例节省时间为3.26分钟。84.9%的会诊准备成功，63.6%的摘要内容完整。"
-              },
-              {
-                "t": "p",
-                "x": "作者称这些发现属于探索性结果，指出可能存在幸存者偏差，并表示需要进一步研究来确定其可推广性。"
+                "x": "随后，最终模型以相同阈值在日本另外六家医院1,000名患者的外部数据集上测试，排除后分析了964人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA redacta el expediente\nantes de la consulta oncológica",
-          "body": "En una clínica oncológica real, un LLM resume documentos clínicos no estructurados antes de la primera consulta.",
-          "mini_headline": "La IA prepara la primera consulta oncológica",
+          "headline": "La AI escucha un corazón débil\ncon un estetoscopio digital",
+          "body": "Se validó en cohortes multicéntricas una AI que detecta disfunción ventricular izquierda con un digital-stethoscope.",
+          "mini_headline": "Un estetoscopio con AI detecta corazones débiles",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Los grandes modelos de lenguaje pueden apoyar a los clínicos al facilitar la gestión de la información, pero su usabilidad en la práctica oncológica real sigue poco estudiada, escriben investigadores del Netherlands Cancer Institute en npj Digital Medicine."
+                "x": "Un artículo original de Sato y colaboradores en NEJM AI describe el desarrollo y la validación externa, en estudios prospectivos multicéntricos en Japón, de la auscultación potenciada por inteligencia artificial para identificar la disfunción ventricular izquierda."
+              },
+              {
+                "t": "img",
+                "src": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
+                "cap": "Diseño del estudio: conjuntos de datos de entrenamiento y validación interna (n=2359) y de validación externa (n=1000)."
               },
               {
                 "t": "p",
-                "x": "Evaluaron el desempeño en el flujo de trabajo de AI-based First Consultation Preparation (AI-FCP), que genera resúmenes estructurados a partir de documentación clínica no estructurada y que se creó junto con usuarios finales del Departamento de Oncología de Cabeza y Cuello, con el socio kaiko.ai."
+                "x": "El modelo se entrenó y validó internamente con 2,359 adultos con indicación clínica de ecocardiografía procedentes de un registro multicéntrico de Japón. Con un estetoscopio digital se registraron los ruidos cardíacos de cuatro focos de auscultación y datos de ECG de una sola derivación, y la fracción de eyección del ventrículo izquierdo (LVEF) se midió por ecocardiografía."
               },
               {
                 "t": "p",
-                "x": "En un diseño prospectivo de un solo grupo antes-después, nueve clínicos completaron una línea de base individual y luego 33 consultas con AI-FCP. La usabilidad se evaluó con cuestionarios validados e instrumentos específicos del estudio."
+                "x": "Un modelo CNN-based y otro transformer-based, cada uno orientado a LVEF ≤40%, se combinaron en un ensamble a través de los cuatro focos de auscultación para formar el modelo final."
               },
               {
                 "t": "p",
-                "x": "Tras AI-FCP, la carga de trabajo percibida global (NASA-TLX) fue un 28.9% menor que en la línea de base, con un ahorro medio de tiempo autodeclarado de 3.26 min por caso. La preparación tuvo éxito en el 84.9% de las consultas y el 63.6% de los resúmenes estaba completo."
-              },
-              {
-                "t": "p",
-                "x": "Los autores califican los hallazgos de exploratorios, señalan un posible sesgo de supervivencia y afirman que se necesita más investigación para determinar su generalización."
+                "x": "Después, el modelo final se probó con el mismo umbral en un conjunto de datos externo de 1,000 pacientes de otros seis hospitales de Japón; tras las exclusiones se analizaron 964."
               }
             ]
           }
@@ -317,15 +325,15 @@
       }
     },
     {
-      "id": "medicine-osteoporosis-cxr",
+      "id": "medicine-simbiosys-tumorsight-risk",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "흉부 X선 사진으로\n골다공증도 선별한다",
-      "body": "X선·DXA 46,478쌍을 익힌 AI-OsRM이 흉부 X선에서 골다공증을 찾는다.",
-      "mini_headline": "흉부 X선으로 골다공증 선별",
+      "headline": "FDA, MRI-based\n유방암 재발 AI 허가",
+      "body": "FDA-cleared TumorSight Risk는 MRI로 유방암 재발을 본다.",
+      "mini_headline": "FDA, MRI 재발 위험 AI 허가",
       "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03333-7",
+      "source": "SimBioSys (PR Newswire)",
+      "url": "https://www.prnewswire.com/news-releases/simbiosys-secures-fda-clearance-for-tumorsight-risk-introducing-the-worlds-first-ai-powered-mri-derived-breast-cancer-recurrence-risk-assessment-302910055.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -333,151 +341,149 @@
         "blocks": [
           {
             "t": "p",
-            "x": "연구진이 흉부 X선 사진으로 골다공증과 골밀도(BMD) 저하를 예측하는 AI 모델 AI-OsRM을 개발해 npj Digital Medicine에 발표했다."
+            "x": "SimBioSys가 TumorSight Risk의 FDA 510(k) 허가 소식을 알렸다. 회사 설명으로는 유방암 재발 위험을 평가하는 세계 최초의 AI-powered, MRI-derived 예후 예측 도구다. 진료 중 늘 수집하는 유방 MRI와 병리, 임상 데이터를 분석해 오 년·십 년 시점의 개인별 예후를 내놓고, 이 결과는 수술 전에 받아볼 수 있다고 한다."
           },
           {
             "t": "p",
-            "x": "AI-OsRM 개발에는 한 3차 의뢰 병원이 2016년부터 2022년까지 모은 환자 26,757명의 흉부 X선·이중에너지 X선 흡수계측(DXA) 짝 검사 46,478건이 쓰였다. 구조는 마스크드 오토인코더로 사전학습한 ResNet-based 모델이다."
+            "x": "대상은 HR-positive, HER2-negative Stage I–IIIA 유방암을 앓는 성인 여성이다. 클라우드 기반 플랫폼이 영에서 100까지의 점수를 매기고 고위험·중간 위험·저위험으로 나눈다. 추가 시술도, 조직 배송도, 전용 하드웨어도 필요 없다."
           },
           {
             "t": "p",
-            "x": "외부 검증은 세 코호트에서 했다. 시기를 달리한 병원 코호트(SNUH; n = 6,391)와 건강검진 코호트 두 곳(HPC, n = 24,132; YSMC, n = 122,535)이다. AUROC는 SNUH에서 골다공증과 골밀도 저하 모두 0.88, HPC와 YSMC의 골다공증 예측에서는 각각 0.93과 0.92였다."
+            "x": "회사는 ASCO 2026에서 발표된 검증 연구를 근거로 든다. Mayo Clinic, Emory University, Stanford Medicine, Mercy Medical Cedar Rapids 환자 2,129명을 분석한 이 연구에서 고위험군의 재발 위험은 저위험군의 3.3배였고, 점수가 10점 오를 때마다 상대 재발 위험이 22퍼센트씩 커졌다."
           },
           {
             "t": "p",
-            "x": "시뮬레이션에서는 AI-OsRM으로 먼저 걸러내면 DXA 사용을 약 50% 줄이고도 골다공증 사례의 98-99%, 골밀도 저하 사례의 80-90%를 찾아냈다. DXA를 효율적으로 쓰게 하는 사전 선별 도구가 될 수 있다."
+            "x": "추정 오 년 재발 위험은 2.2퍼센트(점수 0–10)에서 13.6퍼센트(58–100)까지 걸쳐 있었다. Mayo Clinic은 SimBioSys와 재정적 이해관계가 있다."
           }
         ]
       },
-      "_lead_image": "",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Chest X-rays double as\nosteoporosis screens",
-          "body": "AI-OsRM, trained on 46,478 paired X-ray and DXA exams, predicts osteoporosis from routine chest radiographs.",
-          "mini_headline": "Osteoporosis screening on chest X-rays",
+          "headline": "FDA clears MRI-based AI for\nbreast cancer recurrence risk",
+          "body": "SimBioSys says FDA-cleared TumorSight Risk gauges breast cancer recurrence risk from MRI, pathology and clinical data.",
+          "mini_headline": "FDA clears MRI recurrence-risk AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Researchers developed an AI model, AI-OsRM, to predict osteoporosis and reduced bone mineral density (BMD) from chest radiographs, reports npj Digital Medicine."
+                "x": "SimBioSys announced FDA 510(k) clearance of TumorSight Risk, which it calls the world's first AI-powered, MRI-derived prognostic tool for assessing breast cancer recurrence risk. The software analyzes routinely collected breast MRI, pathology and clinical data to generate an individualized prognosis at five and ten years that, the company says, can be available before surgery."
               },
               {
                 "t": "p",
-                "x": "AI-OsRM was developed using 46,478 paired chest X-ray and dual-energy X-ray absorptiometry (DXA) examinations from 26,757 patients collected at a tertiary referral hospital between 2016 and 2022, using a ResNet-based architecture with masked autoencoder pretraining."
+                "x": "It is intended for adult women with HR-positive, HER2-negative Stage I–IIIA breast cancer. The cloud-based platform produces a score from zero to 100 and a high-, intermediate- or low-risk classification, requiring no additional procedure, tissue shipment or specialized hardware."
               },
               {
                 "t": "p",
-                "x": "External validation covered three cohorts: a temporally separated hospital cohort (SNUH; n = 6,391) and two health checkup cohorts (HPC, n = 24,132; YSMC, n = 122,535). AUROC was 0.88 in SNUH for both osteoporosis and reduced BMD, and 0.93 and 0.92 for osteoporosis in HPC and YSMC."
+                "x": "According to the company, a validation study of 2,129 patients from Mayo Clinic, Emory University, Stanford Medicine and Mercy Medical Cedar Rapids, presented at ASCO 2026, found high-risk patients had a 3.3-fold greater risk of recurrence than low-risk patients, and each 10-point score increase was associated with a 22 percent increase in relative recurrence risk."
               },
               {
                 "t": "p",
-                "x": "Simulations showed AI-OsRM prescreening could cut DXA use by about 50% while still detecting 98-99% of osteoporosis cases and 80-90% of reduced BMD cases, suggesting a prescreening tool to optimize DXA utilization."
+                "x": "Estimated five-year recurrence risk ranged from 2.2 percent (scores 0–10) to 13.6 percent (58–100). Mayo Clinic has a financial interest with SimBioSys."
               }
             ]
           }
         },
         "ko": {
-          "headline": "흉부 X선 사진으로\n골다공증도 선별한다",
-          "body": "X선·DXA 46,478쌍을 익힌 AI-OsRM이 흉부 X선에서 골다공증을 찾는다.",
-          "mini_headline": "흉부 X선으로 골다공증 선별",
+          "headline": "FDA, MRI-based\n유방암 재발 AI 허가",
+          "body": "FDA-cleared TumorSight Risk는 MRI로 유방암 재발을 본다.",
+          "mini_headline": "FDA, MRI 재발 위험 AI 허가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "연구진이 흉부 X선 사진으로 골다공증과 골밀도(BMD) 저하를 예측하는 AI 모델 AI-OsRM을 개발해 npj Digital Medicine에 발표했다."
+                "x": "SimBioSys가 TumorSight Risk의 FDA 510(k) 허가 소식을 알렸다. 회사 설명으로는 유방암 재발 위험을 평가하는 세계 최초의 AI-powered, MRI-derived 예후 예측 도구다. 진료 중 늘 수집하는 유방 MRI와 병리, 임상 데이터를 분석해 오 년·십 년 시점의 개인별 예후를 내놓고, 이 결과는 수술 전에 받아볼 수 있다고 한다."
               },
               {
                 "t": "p",
-                "x": "AI-OsRM 개발에는 한 3차 의뢰 병원이 2016년부터 2022년까지 모은 환자 26,757명의 흉부 X선·이중에너지 X선 흡수계측(DXA) 짝 검사 46,478건이 쓰였다. 구조는 마스크드 오토인코더로 사전학습한 ResNet-based 모델이다."
+                "x": "대상은 HR-positive, HER2-negative Stage I–IIIA 유방암을 앓는 성인 여성이다. 클라우드 기반 플랫폼이 영에서 100까지의 점수를 매기고 고위험·중간 위험·저위험으로 나눈다. 추가 시술도, 조직 배송도, 전용 하드웨어도 필요 없다."
               },
               {
                 "t": "p",
-                "x": "외부 검증은 세 코호트에서 했다. 시기를 달리한 병원 코호트(SNUH; n = 6,391)와 건강검진 코호트 두 곳(HPC, n = 24,132; YSMC, n = 122,535)이다. AUROC는 SNUH에서 골다공증과 골밀도 저하 모두 0.88, HPC와 YSMC의 골다공증 예측에서는 각각 0.93과 0.92였다."
+                "x": "회사는 ASCO 2026에서 발표된 검증 연구를 근거로 든다. Mayo Clinic, Emory University, Stanford Medicine, Mercy Medical Cedar Rapids 환자 2,129명을 분석한 이 연구에서 고위험군의 재발 위험은 저위험군의 3.3배였고, 점수가 10점 오를 때마다 상대 재발 위험이 22퍼센트씩 커졌다."
               },
               {
                 "t": "p",
-                "x": "시뮬레이션에서는 AI-OsRM으로 먼저 걸러내면 DXA 사용을 약 50% 줄이고도 골다공증 사례의 98-99%, 골밀도 저하 사례의 80-90%를 찾아냈다. DXA를 효율적으로 쓰게 하는 사전 선별 도구가 될 수 있다."
+                "x": "추정 오 년 재발 위험은 2.2퍼센트(점수 0–10)에서 13.6퍼센트(58–100)까지 걸쳐 있었다. Mayo Clinic은 SimBioSys와 재정적 이해관계가 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "胸部X線が骨粗鬆症の\n検診を兼ねる",
-          "body": "AI-OsRMはX線とDXAの対検査46,478件で学習し、胸部X線から骨粗鬆症を予測する。",
-          "mini_headline": "胸部X線で骨粗鬆症をスクリーニング",
+          "headline": "FDA、MRI-based\n乳がん再発AIを承認",
+          "body": "FDA-clearedのTumorSight RiskはMRIで乳がん再発リスクを測る。",
+          "mini_headline": "FDA、MRI再発リスクAIを承認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究者らは、胸部X線写真から骨粗鬆症と骨密度(BMD)低下を予測するAIモデルAI-OsRMを開発した。npj Digital Medicineが報じた。"
+                "x": "SimBioSysは、TumorSight RiskがFDAの510(k)クリアランスを取得したと発表した。同社はこれを、乳がん再発リスクを評価する世界初のAI-powered、MRI-derivedの予後予測ツールと位置づける。ソフトウェアは日常的に取得される乳房MRI、病理、臨床データを解析し、五年・十年時点の個別化された予後を算出する。同社によれば、この結果は手術前に得られるという。"
               },
               {
                 "t": "p",
-                "x": "AI-OsRMは、ある三次紹介病院で2016年から2022年に収集された患者26,757人分の胸部X線と二重エネルギーX線吸収測定法(DXA)の対検査46,478件を用いて開発された。マスク付きオートエンコーダーによる事前学習を施したResNet-based構造を採用している。"
+                "x": "対象はHR-positive、HER2-negativeのStage I–IIIA乳がんの成人女性である。クラウドベースのプラットフォームはゼロから100のスコアと高・中・低リスクの分類を示し、追加の処置や組織の輸送、専用ハードウェアを必要としない。"
               },
               {
                 "t": "p",
-                "x": "外部検証は三つのコホートで行われた。時期を分けた病院コホート(SNUH; n = 6,391)と、二つの健診コホート(HPC, n = 24,132; YSMC, n = 122,535)である。AUROCはSNUHで骨粗鬆症・骨密度低下ともに0.88、HPCとYSMCの骨粗鬆症ではそれぞれ0.93と0.92だった。"
+                "x": "同社によると、ASCO 2026で発表されたMayo Clinic、Emory University、Stanford Medicine、Mercy Medical Cedar Rapidsの患者2,129人による検証研究では、高リスク患者の再発リスクは低リスク患者の3.3倍で、スコアが10ポイント上がるごとに相対再発リスクが22パーセント上昇した。"
               },
               {
                 "t": "p",
-                "x": "シミュレーションでは、AI-OsRMによる事前スクリーニングでDXAの使用を約50%減らしつつ、骨粗鬆症症例の98-99%、骨密度低下症例の80-90%を検出できた。DXAの利用を最適化する事前スクリーニングツールになりうることを示唆している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "胸部X光片\n兼做骨质疏松筛查",
-          "body": "AI-OsRM基于46,478组X光与DXA配对检查训练，可从常规胸片预测骨质疏松。",
-          "mini_headline": "用胸部X光筛查骨质疏松",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "据npj Digital Medicine报道，研究人员开发了AI模型AI-OsRM，可根据胸部X光片预测骨质疏松和骨密度(BMD)降低。"
-              },
-              {
-                "t": "p",
-                "x": "AI-OsRM的开发使用了一家三级转诊医院在2016年至2022年间收集的26,757名患者的46,478组胸部X光与双能X线吸收测定(DXA)配对检查，采用经掩码自编码器预训练的ResNet-based架构。"
-              },
-              {
-                "t": "p",
-                "x": "外部验证涵盖三个队列：一个时间上独立的医院队列(SNUH; n = 6,391)和两个健康体检队列(HPC, n = 24,132; YSMC, n = 122,535)。在SNUH中，骨质疏松和骨密度降低的AUROC均为0.88；在HPC和YSMC中，骨质疏松的AUROC分别为0.93和0.92。"
-              },
-              {
-                "t": "p",
-                "x": "模拟显示，用AI-OsRM进行预筛查可将DXA使用量减少约50%，同时仍能检出98-99%的骨质疏松病例和80-90%的骨密度降低病例，表明其可作为优化DXA使用的预筛查工具。"
+                "x": "推定五年再発リスクは2.2パーセント(スコア0–10)から13.6パーセント(58–100)までだった。Mayo ClinicはSimBioSysと金銭的な利害関係を持つ。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La radiografía de tórax sirve\npara cribar la osteoporosis",
-          "body": "AI-OsRM, entrenado con 46,478 pares de radiografía y DXA, predice osteoporosis en radiografías de tórax rutinarias.",
-          "mini_headline": "Cribado de osteoporosis en radiografías de tórax",
+          "headline": "La FDA avala una AI MRI-based\npara riesgo de recaída mamaria",
+          "body": "SimBioSys dice que TumorSight Risk, FDA-cleared, mide el riesgo de recaída mamaria con MRI, patología y datos clínicos.",
+          "mini_headline": "La FDA avala una AI de riesgo con MRI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Investigadores desarrollaron un modelo de IA, AI-OsRM, para predecir la osteoporosis y la baja densidad mineral ósea (BMD) a partir de radiografías de tórax, informa npj Digital Medicine."
+                "x": "SimBioSys anunció la autorización 510(k) de la FDA para TumorSight Risk, que describe como la primera herramienta pronóstica del mundo AI-powered y MRI-derived para evaluar el riesgo de recidiva del cáncer de mama. El software analiza datos de MRI de mama, de patología y clínicos recogidos de forma rutinaria para generar un pronóstico individualizado a cinco y diez años que, según la empresa, puede estar disponible antes de la cirugía."
               },
               {
                 "t": "p",
-                "x": "AI-OsRM se desarrolló con 46,478 pares de exámenes de radiografía de tórax y absorciometría de rayos X de energía dual (DXA) de 26,757 pacientes, recogidos en un hospital de referencia de tercer nivel entre 2016 y 2022, con una arquitectura ResNet-based y preentrenamiento mediante autocodificador enmascarado."
+                "x": "Está indicado para mujeres adultas con cáncer de mama HR-positive, HER2-negative en Stage I–IIIA. La plataforma en la nube genera una puntuación de cero a 100 y una clasificación de riesgo alto, intermedio o bajo, sin requerir procedimientos adicionales, envío de tejido ni hardware especializado."
               },
               {
                 "t": "p",
-                "x": "La validación externa abarcó tres cohortes: una cohorte hospitalaria separada en el tiempo (SNUH; n = 6,391) y dos cohortes de chequeos de salud (HPC, n = 24,132; YSMC, n = 122,535). El AUROC fue de 0.88 en SNUH tanto para osteoporosis como para baja BMD, y de 0.93 y 0.92 para osteoporosis en HPC y YSMC."
+                "x": "Según la empresa, un estudio de validación con 2,129 pacientes de Mayo Clinic, Emory University, Stanford Medicine y Mercy Medical Cedar Rapids, presentado en ASCO 2026, halló que las pacientes de alto riesgo tenían un riesgo de recidiva 3.3 veces mayor que las de bajo riesgo, y que cada aumento de 10 puntos se asociaba con un aumento del 22 por ciento en el riesgo relativo de recidiva."
               },
               {
                 "t": "p",
-                "x": "Las simulaciones mostraron que el precribado con AI-OsRM podría reducir el uso de DXA en torno al 50% y aun así detectar el 98-99% de los casos de osteoporosis y el 80-90% de los casos de baja BMD, lo que apunta a una herramienta de precribado para optimizar el uso de DXA."
+                "x": "El riesgo estimado de recidiva a cinco años osciló entre el 2.2 por ciento (puntuaciones 0–10) y el 13.6 por ciento (58–100). Mayo Clinic tiene un interés financiero con SimBioSys."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "FDA批准MRI-based\n乳癌复发风险AI",
+          "body": "SimBioSys称TumorSight Risk以MRI、病理和临床数据评估乳癌复发风险。",
+          "mini_headline": "FDA批准MRI复发风险AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "SimBioSys宣布，TumorSight Risk获得FDA 510(k)许可，成为FDA-cleared（经FDA批准）产品。公司称，这是全球首个AI-powered（AI驱动）、MRI-derived（源自MRI）的乳腺癌复发风险预后评估工具。该软件分析常规采集的乳腺MRI、病理和临床数据，生成五年和十年的个体化预后结果；公司表示，结果可在手术前获得。"
+              },
+              {
+                "t": "p",
+                "x": "该工具适用于HR-positive（激素受体阳性）、HER2-negative（HER2阴性）的Stage I–IIIA期成年女性乳腺癌患者。这一云端平台给出零到100的评分，并划分为高、中、低风险等级，无需额外操作、组织寄送或专用硬件。"
+              },
+              {
+                "t": "p",
+                "x": "据公司介绍，一项在ASCO 2026上发表的验证研究纳入来自Mayo Clinic、Emory University、Stanford Medicine和Mercy Medical Cedar Rapids的2,129名患者，结果显示高风险患者的复发风险是低风险患者的3.3倍，评分每增加10分，相对复发风险上升百分之22。"
+              },
+              {
+                "t": "p",
+                "x": "估计的五年复发风险从百分之2.2（评分0–10）到百分之13.6（58–100）不等。Mayo Clinic与SimBioSys存在经济利益关系。"
               }
             ]
           }
@@ -485,105 +491,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "흉부 X선 사진으로\n골다공증도 선별한다",
-          "body": "X선·DXA 46,478쌍을 익힌 AI-OsRM이 흉부 X선으로 골다공증을 찾는다.",
-          "mini_headline": "흉부 X선으로 골다공증 선별",
+          "headline": "FDA, MRI-based\n유방암 재발 AI 허가",
+          "body": "FDA-cleared TumorSight Risk는 MRI로 유방암 재발을 본다.",
+          "mini_headline": "FDA, MRI 재발 위험 AI 허가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "연구진이 흉부 X선 사진으로 골다공증과 골밀도(BMD) 저하를 예측하는 AI 모델 AI-OsRM을 개발했다고 npj Digital Medicine이 전했다."
+                "x": "SimBioSys는 TumorSight Risk가 FDA 510(k) 허가를 받았다고 발표했다. 회사는 이 제품을 유방암 재발 위험을 평가하는 세계 최초의 AI-powered, MRI-derived 예후 예측 도구라고 소개한다. 소프트웨어는 일상적으로 수집하는 유방 MRI, 병리, 임상 데이터를 분석해 오 년과 십 년 시점의 개인별 예후를 산출하며, 회사는 이 결과를 수술 전에 받아볼 수 있다고 설명한다."
               },
               {
                 "t": "p",
-                "x": "AI-OsRM은 한 3차 의뢰 병원에서 2016년부터 2022년까지 모은 환자 26,757명의 흉부 X선·이중에너지 X선 흡수계측(DXA) 짝 검사 46,478건으로 개발했다. 마스크드 오토인코더 사전학습을 적용한 ResNet-based 구조를 썼다."
+                "x": "대상은 HR-positive, HER2-negative Stage I–IIIA 유방암을 앓는 성인 여성이다. 클라우드 기반 플랫폼은 영에서 100까지의 점수와 고위험·중간 위험·저위험 분류를 제시하며, 추가 시술이나 조직 배송, 전용 하드웨어가 필요 없다."
               },
               {
                 "t": "p",
-                "x": "외부 검증은 세 코호트에서 진행했다. 시기를 달리한 병원 코호트(SNUH; n = 6,391)와 건강검진 코호트 두 곳(HPC, n = 24,132; YSMC, n = 122,535)이다. AUROC는 SNUH에서 골다공증과 골밀도 저하 모두 0.88이었고, HPC와 YSMC의 골다공증 예측에서는 각각 0.93과 0.92였다."
+                "x": "회사에 따르면 ASCO 2026에서 발표된 Mayo Clinic, Emory University, Stanford Medicine, Mercy Medical Cedar Rapids 환자 2,129명 대상 검증 연구에서 고위험군의 재발 위험은 저위험군보다 3.3배 높았고, 점수가 10점 오를 때마다 상대 재발 위험이 22퍼센트 커졌다."
               },
               {
                 "t": "p",
-                "x": "시뮬레이션 결과 AI-OsRM으로 사전 선별하면 DXA 사용을 약 50% 줄이면서도 골다공증 사례의 98-99%, 골밀도 저하 사례의 80-90%를 찾아낼 수 있었다. DXA 활용을 최적화하는 사전 선별 도구로 쓸 수 있다는 의미다."
+                "x": "추정 오 년 재발 위험은 2.2퍼센트(점수 0–10)부터 13.6퍼센트(58–100)까지 분포했다. Mayo Clinic은 SimBioSys와 재정적 이해관계가 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "胸部X線が骨粗鬆症の\n検診を兼ねる",
-          "body": "AI-OsRMはX線とDXAの対検査46,478件で学習し、胸部X線から骨粗鬆症を予測する。",
-          "mini_headline": "胸部X線で骨粗鬆症をスクリーニング",
+          "headline": "FDA、MRI-based\n乳がん再発AIを承認",
+          "body": "FDA-clearedのTumorSight RiskはMRIで乳がん再発リスクを測る。",
+          "mini_headline": "FDA、MRI再発リスクAIを承認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "研究者らは、胸部X線写真から骨粗鬆症と骨密度(BMD)低下を予測するAIモデルAI-OsRMを開発した。npj Digital Medicineが報じた。"
+                "x": "SimBioSysは、TumorSight RiskがFDAの510(k)クリアランスを取得したと発表した。同社はこれを、乳がん再発リスクを評価する世界初のAI-powered、MRI-derivedの予後予測ツールと位置づける。ソフトウェアは日常的に取得される乳房MRI、病理、臨床データを解析し、五年・十年時点の個別化された予後を算出する。同社によれば、この結果は手術前に得られるという。"
               },
               {
                 "t": "p",
-                "x": "AI-OsRMは、ある三次紹介病院で2016年から2022年に収集された患者26,757人分の胸部X線と二重エネルギーX線吸収測定法(DXA)の対検査46,478件を用いて開発された。マスク付きオートエンコーダーによる事前学習を施したResNet-based構造を採用している。"
+                "x": "対象はHR-positive、HER2-negativeのStage I–IIIA乳がんの成人女性である。クラウドベースのプラットフォームはゼロから100のスコアと高・中・低リスクの分類を示し、追加の処置や組織の輸送、専用ハードウェアを必要としない。"
               },
               {
                 "t": "p",
-                "x": "外部検証は三つのコホートで行われた。時期を分けた病院コホート(SNUH; n = 6,391)と、二つの健診コホート(HPC, n = 24,132; YSMC, n = 122,535)である。AUROCはSNUHで骨粗鬆症・骨密度低下ともに0.88、HPCとYSMCの骨粗鬆症ではそれぞれ0.93と0.92だった。"
+                "x": "同社によると、ASCO 2026で発表されたMayo Clinic、Emory University、Stanford Medicine、Mercy Medical Cedar Rapidsの患者2,129人による検証研究では、高リスク患者の再発リスクは低リスク患者の3.3倍で、スコアが10ポイント上がるごとに相対再発リスクが22パーセント上昇した。"
               },
               {
                 "t": "p",
-                "x": "シミュレーションでは、AI-OsRMによる事前スクリーニングでDXAの使用を約50%減らしつつ、骨粗鬆症症例の98-99%、骨密度低下症例の80-90%を検出できた。DXAの利用を最適化する事前スクリーニングツールになりうることを示唆している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "胸部X光片\n兼做骨质疏松筛查",
-          "body": "AI-OsRM基于46,478组X光与DXA配对检查训练，可从常规胸片预测骨质疏松。",
-          "mini_headline": "用胸部X光筛查骨质疏松",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "据npj Digital Medicine报道，研究人员开发了AI模型AI-OsRM，可根据胸部X光片预测骨质疏松和骨密度(BMD)降低。"
-              },
-              {
-                "t": "p",
-                "x": "AI-OsRM的开发使用了一家三级转诊医院在2016年至2022年间收集的26,757名患者的46,478组胸部X光与双能X线吸收测定(DXA)配对检查，采用经掩码自编码器预训练的ResNet-based架构。"
-              },
-              {
-                "t": "p",
-                "x": "外部验证涵盖三个队列：一个时间上独立的医院队列(SNUH; n = 6,391)和两个健康体检队列(HPC, n = 24,132; YSMC, n = 122,535)。在SNUH中，骨质疏松和骨密度降低的AUROC均为0.88；在HPC和YSMC中，骨质疏松的AUROC分别为0.93和0.92。"
-              },
-              {
-                "t": "p",
-                "x": "模拟显示，用AI-OsRM进行预筛查可将DXA使用量减少约50%，同时仍能检出98-99%的骨质疏松病例和80-90%的骨密度降低病例，表明其可作为优化DXA使用的预筛查工具。"
+                "x": "推定五年再発リスクは2.2パーセント(スコア0–10)から13.6パーセント(58–100)までだった。Mayo ClinicはSimBioSysと金銭的な利害関係を持つ。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La radiografía de tórax sirve\npara cribar la osteoporosis",
-          "body": "AI-OsRM, entrenado con 46,478 pares de radiografía y DXA, predice osteoporosis en radiografías de tórax rutinarias.",
-          "mini_headline": "Cribado de osteoporosis en radiografías de tórax",
+          "headline": "La FDA avala una AI MRI-based\npara riesgo de recaída mamaria",
+          "body": "SimBioSys dice que TumorSight Risk, FDA-cleared, mide el riesgo de recaída mamaria con MRI, patología y datos clínicos.",
+          "mini_headline": "La FDA avala una AI de riesgo con MRI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Investigadores desarrollaron un modelo de IA, AI-OsRM, para predecir la osteoporosis y la baja densidad mineral ósea (BMD) a partir de radiografías de tórax, informa npj Digital Medicine."
+                "x": "SimBioSys anunció la autorización 510(k) de la FDA para TumorSight Risk, que describe como la primera herramienta pronóstica del mundo AI-powered y MRI-derived para evaluar el riesgo de recidiva del cáncer de mama. El software analiza datos de MRI de mama, de patología y clínicos recogidos de forma rutinaria para generar un pronóstico individualizado a cinco y diez años que, según la empresa, puede estar disponible antes de la cirugía."
               },
               {
                 "t": "p",
-                "x": "AI-OsRM se desarrolló con 46,478 pares de exámenes de radiografía de tórax y absorciometría de rayos X de energía dual (DXA) de 26,757 pacientes, recogidos en un hospital de referencia de tercer nivel entre 2016 y 2022, con una arquitectura ResNet-based y preentrenamiento mediante autocodificador enmascarado."
+                "x": "Está indicado para mujeres adultas con cáncer de mama HR-positive, HER2-negative en Stage I–IIIA. La plataforma en la nube genera una puntuación de cero a 100 y una clasificación de riesgo alto, intermedio o bajo, sin requerir procedimientos adicionales, envío de tejido ni hardware especializado."
               },
               {
                 "t": "p",
-                "x": "La validación externa abarcó tres cohortes: una cohorte hospitalaria separada en el tiempo (SNUH; n = 6,391) y dos cohortes de chequeos de salud (HPC, n = 24,132; YSMC, n = 122,535). El AUROC fue de 0.88 en SNUH tanto para osteoporosis como para baja BMD, y de 0.93 y 0.92 para osteoporosis en HPC y YSMC."
+                "x": "Según la empresa, un estudio de validación con 2,129 pacientes de Mayo Clinic, Emory University, Stanford Medicine y Mercy Medical Cedar Rapids, presentado en ASCO 2026, halló que las pacientes de alto riesgo tenían un riesgo de recidiva 3.3 veces mayor que las de bajo riesgo, y que cada aumento de 10 puntos se asociaba con un aumento del 22 por ciento en el riesgo relativo de recidiva."
               },
               {
                 "t": "p",
-                "x": "Las simulaciones mostraron que el precribado con AI-OsRM podría reducir el uso de DXA en torno al 50% y aun así detectar el 98-99% de los casos de osteoporosis y el 80-90% de los casos de baja BMD, lo que apunta a una herramienta de precribado para optimizar el uso de DXA."
+                "x": "El riesgo estimado de recidiva a cinco años osciló entre el 2.2 por ciento (puntuaciones 0–10) y el 13.6 por ciento (58–100). Mayo Clinic tiene un interés financiero con SimBioSys."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "FDA批准MRI-based\n乳癌复发风险AI",
+          "body": "SimBioSys称TumorSight Risk以MRI、病理和临床数据评估乳癌复发风险。",
+          "mini_headline": "FDA批准MRI复发风险AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "SimBioSys宣布，TumorSight Risk获得FDA 510(k)许可，成为FDA-cleared（经FDA批准）产品。公司称，这是全球首个AI-powered（AI驱动）、MRI-derived（源自MRI）的乳腺癌复发风险预后评估工具。该软件分析常规采集的乳腺MRI、病理和临床数据，生成五年和十年的个体化预后结果；公司表示，结果可在手术前获得。"
+              },
+              {
+                "t": "p",
+                "x": "该工具适用于HR-positive（激素受体阳性）、HER2-negative（HER2阴性）的Stage I–IIIA期成年女性乳腺癌患者。这一云端平台给出零到100的评分，并划分为高、中、低风险等级，无需额外操作、组织寄送或专用硬件。"
+              },
+              {
+                "t": "p",
+                "x": "据公司介绍，一项在ASCO 2026上发表的验证研究纳入来自Mayo Clinic、Emory University、Stanford Medicine和Mercy Medical Cedar Rapids的2,129名患者，结果显示高风险患者的复发风险是低风险患者的3.3倍，评分每增加10分，相对复发风险上升百分之22。"
+              },
+              {
+                "t": "p",
+                "x": "估计的五年复发风险从百分之2.2（评分0–10）到百分之13.6（58–100）不等。Mayo Clinic与SimBioSys存在经济利益关系。"
               }
             ]
           }
@@ -591,289 +597,15 @@
       }
     },
     {
-      "id": "medicine-agent-scope",
-      "source_lang": "en",
+      "id": "medicine-bitmate-ai-emr",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트를\n진료 업무 안에 묶어두기",
-      "body": "랜싯 저자들은 임상의 앱을 다루는 AI 에이전트를 업무 범위에 가둬야 한다고 본다.",
-      "mini_headline": "진료실 AI 에이전트의 범위 정하기",
+      "headline": "비트컴퓨터, 진료 대화를\n실시간 차트로 옮긴다",
+      "body": "비트컴퓨터가 진료 대화 인식부터 기록·처방까지 잇는 AI EMR을 선보인다.",
+      "mini_headline": "진료 대화가 곧 차트가 된다",
       "tool": "Medicine",
-      "source": "The Lancet Digital Health",
-      "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00146-9/fulltext",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "범용 AI 에이전트는 이제 사용자 컴퓨터의 파일과 애플리케이션을 직접 다룬다. Mahmud Omar, Eyal Klang, Girish N Nadkarni는 The Lancet Digital Health에서 ChatGPT Work, ChatGPT Codex, Claude Cowork, Claude Code 같은 제품이 이 기능을 소비자용 앱으로 가져왔다고 썼다."
-          },
-          {
-            "t": "p",
-            "x": "이런 에이전트는 임상의의 집 컴퓨터에서도, 병원 워크스테이션에서도 돌아간다. 컴퓨터 사용 기능을 쓰면 에이전트가 단계마다 화면을 캡처해 개발사 서버로 보낸다. 그래서 화면에 뜬 것은 무엇이든 보고 임상의의 로그인으로 움직인다. 추적 진료를 예약하던 에이전트가 옆 패널에 뜬 무관한 진단명까지 캡처할 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "애플리케이션을 조작할 권한이 있다고 업무마다 어떤 정보가 적절한지까지 정해지지는 않는다. 임상의가 스크린샷을 일일이 검토하리라 기대하기도 어렵다는 게 저자들의 주장이다."
-          },
-          {
-            "t": "p",
-            "x": "저자들은 IRBs의 단계별 구조를 본뜬 표준 기관 절차를 제안한다. 정렬·에이전트 안전 위원회 형태로 운영하는 방식이다. 승인할 때 업무, 접근 가능한 데이터, 도구, 수신자, 보존 기간을 명시하고 새 기능이 생기면 다시 검토한다. 에이전트의 접근 권한은 위임받은 업무에 비례해야 한다고 저자들은 본다."
-          }
-        ]
-      },
-      "_lead_image": "",
-      "_video": "",
-      "text": {
-        "en": {
-          "headline": "Keeping AI agents inside\nthe clinical task",
-          "body": "Lancet Digital Health authors argue desktop AI agents that can operate clinicians' apps must stay scoped to the task.",
-          "mini_headline": "Scoping AI agents in the clinic",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "General-purpose AI agents can now work through files and applications on a user's computer. Products such as ChatGPT Work, ChatGPT Codex, Claude Cowork, and Claude Code bring these abilities to consumer apps, write Mahmud Omar, Eyal Klang and Girish N Nadkarni in The Lancet Digital Health."
-              },
-              {
-                "t": "p",
-                "x": "Such agents could run on a clinician's home computer or a hospital workstation. With computer use, an agent captures the screen at each step and sends it to the developer's servers, so it sees whatever is displayed and acts with the clinician's login. An agent booking a follow-up could capture an unrelated diagnosis in a neighbouring panel."
-              },
-              {
-                "t": "p",
-                "x": "Permission to operate an application does not establish which information is appropriate for each task, the authors argue, and clinicians cannot be expected to review every screenshot."
-              },
-              {
-                "t": "p",
-                "x": "They propose a standard institutional process, modelled on the tiered structure of IRBs, run as an alignment and agentic safety board. Approval would specify the task, accessible data, tools, recipients and retention; new capabilities would trigger review. The agent's access should remain proportional to the work delegated."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 에이전트를\n진료 업무 안에 묶어두기",
-          "body": "랜싯 저자들은 임상의 앱을 다루는 AI 에이전트를 업무 범위에 가둬야 한다고 본다.",
-          "mini_headline": "진료실 AI 에이전트의 범위 정하기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "범용 AI 에이전트는 이제 사용자 컴퓨터의 파일과 애플리케이션을 직접 다룬다. Mahmud Omar, Eyal Klang, Girish N Nadkarni는 The Lancet Digital Health에서 ChatGPT Work, ChatGPT Codex, Claude Cowork, Claude Code 같은 제품이 이 기능을 소비자용 앱으로 가져왔다고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "이런 에이전트는 임상의의 집 컴퓨터에서도, 병원 워크스테이션에서도 돌아간다. 컴퓨터 사용 기능을 쓰면 에이전트가 단계마다 화면을 캡처해 개발사 서버로 보낸다. 그래서 화면에 뜬 것은 무엇이든 보고 임상의의 로그인으로 움직인다. 추적 진료를 예약하던 에이전트가 옆 패널에 뜬 무관한 진단명까지 캡처할 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "애플리케이션을 조작할 권한이 있다고 업무마다 어떤 정보가 적절한지까지 정해지지는 않는다. 임상의가 스크린샷을 일일이 검토하리라 기대하기도 어렵다는 게 저자들의 주장이다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 IRBs의 단계별 구조를 본뜬 표준 기관 절차를 제안한다. 정렬·에이전트 안전 위원회 형태로 운영하는 방식이다. 승인할 때 업무, 접근 가능한 데이터, 도구, 수신자, 보존 기간을 명시하고 새 기능이 생기면 다시 검토한다. 에이전트의 접근 권한은 위임받은 업무에 비례해야 한다고 저자들은 본다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIエージェントを\n診療業務の枠内に",
-          "body": "ランセット誌の著者らは、臨床医のアプリを操るAIエージェントを業務範囲に限るべきだと説く。",
-          "mini_headline": "診療現場のAIエージェントに範囲を",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "汎用AIエージェントは今や、ユーザーのコンピューター上のファイルやアプリケーションを操作できる。ChatGPT Work、ChatGPT Codex、Claude Cowork、Claude Codeといった製品がこうした機能を消費者向けアプリにもたらしていると、Mahmud Omar、Eyal Klang、Girish N NadkarniがThe Lancet Digital Healthに書いている。"
-              },
-              {
-                "t": "p",
-                "x": "こうしたエージェントは臨床医の自宅のコンピューターや病院のワークステーションで動きうる。コンピューター操作機能では、エージェントが各ステップで画面をキャプチャして開発元のサーバーに送るため、表示されているものは何でも見え、臨床医のログインで動作する。再診を予約するエージェントが、隣のパネルにある無関係な診断を取り込んでしまう可能性もある。"
-              },
-              {
-                "t": "p",
-                "x": "アプリケーションを操作する許可があっても、各タスクにどの情報が適切かが決まるわけではなく、臨床医にすべてのスクリーンショットの確認を期待することもできないと著者らは論じる。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、IRBsの階層構造をモデルにした標準的な機関手続きを、アラインメント・エージェント安全委員会として運用することを提案する。承認ではタスク、アクセス可能なデータ、ツール、受信者、保存期間を定め、新たな機能が加われば審査を行う。エージェントのアクセス権は委任された業務に見合ったものにとどめるべきだという。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "让AI智能体\n守在临床任务之内",
-          "body": "《柳叶刀-数字健康》作者认为，能操作临床医生应用的桌面AI智能体必须限定于任务范围。",
-          "mini_headline": "为临床AI智能体划定范围",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "通用AI智能体如今已能操作用户电脑上的文件和应用程序。Mahmud Omar、Eyal Klang和Girish N Nadkarni在The Lancet Digital Health上撰文指出，ChatGPT Work、ChatGPT Codex、Claude Cowork和Claude Code等产品已将这些能力带入消费级应用。"
-              },
-              {
-                "t": "p",
-                "x": "这类智能体可以运行在临床医生的家用电脑或医院工作站上。在计算机使用模式下，智能体每一步都会截取屏幕并发送到开发者的服务器，因此它能看到屏幕上显示的任何内容，并以临床医生的登录身份操作。一个预约复诊的智能体，可能会截取到相邻面板中无关的诊断信息。"
-              },
-              {
-                "t": "p",
-                "x": "作者认为，获得操作某个应用程序的权限，并不能确定每项任务适合使用哪些信息，而且也不能指望临床医生逐一审查每张截图。"
-              },
-              {
-                "t": "p",
-                "x": "他们提议建立一套参照IRBs分级结构的标准机构流程，以对齐与智能体安全委员会的形式运作。审批应明确任务、可访问的数据、工具、接收方和保存期限；新增能力将触发审查。智能体的访问权限应与所委派的工作相称。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Mantener a los agentes de IA\ndentro de la tarea clínica",
-          "body": "Autores en Lancet Digital Health sostienen que los agentes de IA que operan apps clínicas deben limitarse a la tarea.",
-          "mini_headline": "Acotar los agentes de IA en la clínica",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Los agentes de IA de propósito general ya pueden trabajar con archivos y aplicaciones en el equipo del usuario. Productos como ChatGPT Work, ChatGPT Codex, Claude Cowork y Claude Code llevan estas capacidades a apps de consumo, escriben Mahmud Omar, Eyal Klang y Girish N Nadkarni en The Lancet Digital Health."
-              },
-              {
-                "t": "p",
-                "x": "Estos agentes podrían ejecutarse en el equipo doméstico de un clínico o en una estación de trabajo hospitalaria. Con el control del equipo, el agente captura la pantalla en cada paso y la envía a los servidores del desarrollador, de modo que ve todo lo que se muestra y actúa con las credenciales del clínico. Un agente que agenda una cita de seguimiento podría capturar un diagnóstico no relacionado en un panel contiguo."
-              },
-              {
-                "t": "p",
-                "x": "El permiso para operar una aplicación no establece qué información es adecuada para cada tarea, sostienen los autores, y no cabe esperar que los clínicos revisen cada captura de pantalla."
-              },
-              {
-                "t": "p",
-                "x": "Proponen un proceso institucional estándar, inspirado en la estructura escalonada de los IRBs, que funcione como un comité de alineación y seguridad agéntica. La aprobación especificaría la tarea, los datos accesibles, las herramientas, los destinatarios y la conservación; las nuevas capacidades activarían una revisión. El acceso del agente debe seguir siendo proporcional al trabajo delegado."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 에이전트를\n진료 업무 안에 묶어두기",
-          "body": "랜싯 저자들은 임상의 앱을 다루는 AI 에이전트를 업무 범위에 묶어야 한다고 본다.",
-          "mini_headline": "진료실 AI 에이전트의 범위 정하기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "범용 AI 에이전트는 이제 사용자 컴퓨터의 파일과 애플리케이션을 직접 다룰 수 있다. ChatGPT Work, ChatGPT Codex, Claude Cowork, Claude Code 같은 제품이 이런 기능을 소비자용 앱에 들여왔다고 Mahmud Omar, Eyal Klang, Girish N Nadkarni가 The Lancet Digital Health에 썼다."
-              },
-              {
-                "t": "p",
-                "x": "이런 에이전트는 임상의의 집 컴퓨터나 병원 워크스테이션에서 돌아갈 수 있다. 컴퓨터 사용 기능을 쓰면 에이전트는 단계마다 화면을 캡처해 개발사 서버로 보내므로, 화면에 뜬 것은 무엇이든 보고 임상의의 로그인으로 움직인다. 추적 진료를 예약하던 에이전트가 옆 패널의 무관한 진단명까지 캡처할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "애플리케이션을 조작할 권한이 있다고 해서 업무마다 어떤 정보가 적절한지가 정해지는 것은 아니며, 임상의가 스크린샷을 일일이 검토하리라 기대할 수도 없다고 저자들은 주장한다."
-              },
-              {
-                "t": "p",
-                "x": "저자들은 IRBs의 단계별 구조를 본뜬 표준 기관 절차를 제안한다. 정렬·에이전트 안전 위원회 형태로 운영하는 방식이다. 승인 시 업무, 접근 가능한 데이터, 도구, 수신자, 보존 기간을 명시하고, 새 기능이 생기면 재검토를 거친다. 에이전트의 접근 권한은 위임받은 업무에 비례해야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIエージェントを\n診療業務の枠内に",
-          "body": "ランセット誌の著者らは、臨床医のアプリを操るAIエージェントを業務範囲に限るべきだと説く。",
-          "mini_headline": "診療現場のAIエージェントに範囲を",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "汎用AIエージェントは今や、ユーザーのコンピューター上のファイルやアプリケーションを操作できる。ChatGPT Work、ChatGPT Codex、Claude Cowork、Claude Codeといった製品がこうした機能を消費者向けアプリにもたらしていると、Mahmud Omar、Eyal Klang、Girish N NadkarniがThe Lancet Digital Healthに書いている。"
-              },
-              {
-                "t": "p",
-                "x": "こうしたエージェントは臨床医の自宅のコンピューターや病院のワークステーションで動きうる。コンピューター操作機能では、エージェントが各ステップで画面をキャプチャして開発元のサーバーに送るため、表示されているものは何でも見え、臨床医のログインで動作する。再診を予約するエージェントが、隣のパネルにある無関係な診断を取り込んでしまう可能性もある。"
-              },
-              {
-                "t": "p",
-                "x": "アプリケーションを操作する許可があっても、各タスクにどの情報が適切かが決まるわけではなく、臨床医にすべてのスクリーンショットの確認を期待することもできないと著者らは論じる。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、IRBsの階層構造をモデルにした標準的な機関手続きを、アラインメント・エージェント安全委員会として運用することを提案する。承認ではタスク、アクセス可能なデータ、ツール、受信者、保存期間を定め、新たな機能が加われば審査を行う。エージェントのアクセス権は委任された業務に見合ったものにとどめるべきだという。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "让AI智能体\n守在临床任务之内",
-          "body": "《柳叶刀-数字健康》作者认为，能操作临床医生应用的桌面AI智能体必须限定于任务范围。",
-          "mini_headline": "为临床AI智能体划定范围",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "通用AI智能体如今已能操作用户电脑上的文件和应用程序。Mahmud Omar、Eyal Klang和Girish N Nadkarni在The Lancet Digital Health上撰文指出，ChatGPT Work、ChatGPT Codex、Claude Cowork和Claude Code等产品已将这些能力带入消费级应用。"
-              },
-              {
-                "t": "p",
-                "x": "这类智能体可以运行在临床医生的家用电脑或医院工作站上。在计算机使用模式下，智能体每一步都会截取屏幕并发送到开发者的服务器，因此它能看到屏幕上显示的任何内容，并以临床医生的登录身份操作。一个预约复诊的智能体，可能会截取到相邻面板中无关的诊断信息。"
-              },
-              {
-                "t": "p",
-                "x": "作者认为，获得操作某个应用程序的权限，并不能确定每项任务适合使用哪些信息，而且也不能指望临床医生逐一审查每张截图。"
-              },
-              {
-                "t": "p",
-                "x": "他们提议建立一套参照IRBs分级结构的标准机构流程，以对齐与智能体安全委员会的形式运作。审批应明确任务、可访问的数据、工具、接收方和保存期限；新增能力将触发审查。智能体的访问权限应与所委派的工作相称。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Mantener a los agentes de IA\ndentro de la tarea clínica",
-          "body": "Autores en Lancet Digital Health sostienen que los agentes de IA que operan apps clínicas deben limitarse a la tarea.",
-          "mini_headline": "Acotar los agentes de IA en la clínica",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Los agentes de IA de propósito general ya pueden trabajar con archivos y aplicaciones en el equipo del usuario. Productos como ChatGPT Work, ChatGPT Codex, Claude Cowork y Claude Code llevan estas capacidades a apps de consumo, escriben Mahmud Omar, Eyal Klang y Girish N Nadkarni en The Lancet Digital Health."
-              },
-              {
-                "t": "p",
-                "x": "Estos agentes podrían ejecutarse en el equipo doméstico de un clínico o en una estación de trabajo hospitalaria. Con el control del equipo, el agente captura la pantalla en cada paso y la envía a los servidores del desarrollador, de modo que ve todo lo que se muestra y actúa con las credenciales del clínico. Un agente que agenda una cita de seguimiento podría capturar un diagnóstico no relacionado en un panel contiguo."
-              },
-              {
-                "t": "p",
-                "x": "El permiso para operar una aplicación no establece qué información es adecuada para cada tarea, sostienen los autores, y no cabe esperar que los clínicos revisen cada captura de pantalla."
-              },
-              {
-                "t": "p",
-                "x": "Proponen un proceso institucional estándar, inspirado en la estructura escalonada de los IRBs, que funcione como un comité de alineación y seguridad agéntica. La aprobación especificaría la tarea, los datos accesibles, las herramientas, los destinatarios y la conservación; las nuevas capacidades activarían una revisión. El acceso del agente debe seguir siendo proporcional al trabajo delegado."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "medicine-ai-wait-human",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "빠른 AI 답변이냐\n사람을 기다리느냐",
-      "body": "JAMA 조사가 미국 성인에게 빠른 AI 답과 사람 검토 중 무엇을 고를지 물었다.",
-      "mini_headline": "AI의 속도냐 사람의 검토냐",
-      "tool": "Medicine",
-      "source": "JAMA Network Open",
-      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.39048",
+      "source": "의학신문(일간보사)",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014062",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -881,151 +613,605 @@
         "blocks": [
           {
             "t": "p",
-            "x": "JAMA Network Open에 실린 단면 연구는 미국 성인 1,185명을 대상으로(2024년 6월 17일~7월 26일) 조사했다. 환자 포털 메시지에 빠른 AI 답변과 의료 전문가가 검토한 느린 답변 중 어느 쪽을 원하는지, 정신건강 지원의 AI 선택지는 어떻게 평가하는지 물었다."
+            "x": "[의학신문·일간보사=오인규 기자] 의료정보 선도기업 비트컴퓨터(대표이사 조현정·전진옥)가 23일부터 25일까지 부산 벡스코(BEXCO)에서 열리는 'KIMES BUSAN 2026'에 참가해 AI 진료 에이전트 'BITMate(비트메이트) AI'를 중심으로 의원급·병원급 솔루션을 선보인다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414976_03.png",
+            "cap": "비트컴퓨터 클라우드 EMR 비트플러스에 탑재된 AI 진료 에이전트 BITMate AI (사진제공=비트컴퓨터)"
           },
           {
             "t": "p",
-            "x": "일정 조율이나 처방 재발급 같은 행정 메시지라면 57.4%가 빠른 AI 답변을 골랐고, 일반 메시지에서는 그 비율이 50.6%였다. 의학적 메시지에서는 63.1%가 의료 전문가의 검토를 기다리겠다고 답했다."
+            "x": "BITMate AI는 전 출품 솔루션에 공통 탑재된다. 기존 EMR이 진료 뒤 기록을 입력하는 시스템에 가까웠다면, BITMate AI는 진료가 이뤄지는 순간부터 환자 정보 확인, 대화 인식, 기록 생성, 처방 흐름까지 실시간으로 연결하는 AI 진료 에이전트를 지향한다."
           },
           {
             "t": "p",
-            "x": "정신건강 지원에서는 3개월 뒤 만날 수 있는 인간 치료사가 63.9%로 가장 많은 지지를 받았다. 치료사가 모니터링하는 1개월 뒤 AI(50.2%), 즉시 쓸 수 있는 AI 단독(44.3%)이 뒤를 이었다."
+            "x": "주요 기능은 내원요약, 보이스차팅, 나만의 AI 에이전트다. 내원요약은 최근 내원기록을 AI가 자동 요약해 제공하고, 보이스차팅은 의사와 환자의 대화를 실시간으로 전사해 SOAP 형식의 기록 초안을 즉시 생성한다. 발화 내용은 평균 0.3초 이내에 화면에 반영되고 0.16초 간격으로 갱신된다."
           },
           {
             "t": "p",
-            "x": "결과는 출생 세대 등 여러 요인별로 나눠 분석했다. 저자들은 사람들이 의학적 질문이나 정신건강 지원보다 위험이 낮은 업무에서 빠른 AI를 더 쉽게 받아들인다고 봤다. 신속성과 사람의 검토 사이에서 고를 수 있는 선택지가 환자에게 도움이 될 수 있다는 결론이다."
+            "x": "나만의 AI 에이전트는 의료진이 기록 형식을 고르거나 프롬프트를 직접 작성해 자신만의 기록 방식을 AI에 반영하게 한다. 국내 EMR 업계 최초로 고객에게 프롬프트 설정 권한을 개방한 것이다. 비트컴퓨터가 AWS와 협력해 개발 중인 한국 의료 특화 LLM 초기 버전이 탑재됐고, 모든 AI 처리는 국내 인프라에서 완결된다."
+          },
+          {
+            "t": "p",
+            "x": "병원급 HIS는 외래자동심사 기능을 함께 출품한다. 보험 청구 전 수작업을 시스템이 직접 수행해 전체 건수의 80%를 담당자 검토 없이 자동 완료한다."
+          },
+          {
+            "t": "p",
+            "x": "전진옥 대표는 “의료진이 키보드 대신 환자를 바라보며 진료에 전념할 수 있는 환경을 만드는 것이 목표”라고 말했다."
           }
         ]
       },
-      "_lead_image": "",
-      "_video": "",
       "text": {
-        "en": {
-          "headline": "Fast AI answers versus\nwaiting for a human",
-          "body": "A JAMA Network Open survey asks US adults whether faster AI replies are worth skipping human review in portal messages.",
-          "mini_headline": "AI speed vs human review",
+        "ko": {
+          "headline": "비트컴퓨터, 진료 대화를\n실시간 차트로 옮긴다",
+          "body": "비트컴퓨터가 진료 대화 인식부터 기록·처방까지 잇는 AI EMR을 선보인다.",
+          "mini_headline": "진료 대화가 곧 차트가 된다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "A cross-sectional study in JAMA Network Open surveyed 1,185 US adults (June 17 to July 26, 2024) on whether they prefer faster AI responses or slower, health-professional-reviewed responses to patient portal messages, and how they weigh AI options for mental health support."
+                "x": "[의학신문·일간보사=오인규 기자] 의료정보 선도기업 비트컴퓨터(대표이사 조현정·전진옥)가 23일부터 25일까지 부산 벡스코(BEXCO)에서 열리는 'KIMES BUSAN 2026'에 참가해 AI 진료 에이전트 'BITMate(비트메이트) AI'를 중심으로 의원급·병원급 솔루션을 선보인다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414976_03.png",
+                "cap": "비트컴퓨터 클라우드 EMR 비트플러스에 탑재된 AI 진료 에이전트 BITMate AI (사진제공=비트컴퓨터)"
               },
               {
                 "t": "p",
-                "x": "For logistical messages such as scheduling and refills, 57.4% preferred a fast AI answer; for general messages, 50.6%. For medical messages, 63.1% preferred waiting for a health professional to review the response."
+                "x": "BITMate AI는 전 출품 솔루션에 공통 탑재된다. 기존 EMR이 진료 뒤 기록을 입력하는 시스템에 가까웠다면, BITMate AI는 진료가 이뤄지는 순간부터 환자 정보 확인, 대화 인식, 기록 생성, 처방 흐름까지 실시간으로 연결하는 AI 진료 에이전트를 지향한다."
               },
               {
                 "t": "p",
-                "x": "For mental health support, 63.9% most endorsed a human therapist available in 3 months, ahead of therapist-monitored AI in 1 month (50.2%) and AI alone available immediately (44.3%)."
+                "x": "주요 기능은 내원요약, 보이스차팅, 나만의 AI 에이전트다. 내원요약은 최근 내원기록을 AI가 자동 요약해 제공하고, 보이스차팅은 의사와 환자의 대화를 실시간으로 전사해 SOAP 형식의 기록 초안을 즉시 생성한다. 발화 내용은 평균 0.3초 이내에 화면에 반영되고 0.16초 간격으로 갱신된다."
               },
               {
                 "t": "p",
-                "x": "Results were stratified by birth generation and other factors. The authors conclude people are more open to faster AI for low-stakes tasks than for medical questions and mental health support, and that patients may benefit from options trading timeliness against human review."
+                "x": "나만의 AI 에이전트는 의료진이 기록 형식을 고르거나 프롬프트를 직접 작성해 자신만의 기록 방식을 AI에 반영하게 한다. 국내 EMR 업계 최초로 고객에게 프롬프트 설정 권한을 개방한 것이다. 비트컴퓨터가 AWS와 협력해 개발 중인 한국 의료 특화 LLM 초기 버전이 탑재됐고, 모든 AI 처리는 국내 인프라에서 완결된다."
+              },
+              {
+                "t": "p",
+                "x": "병원급 HIS는 외래자동심사 기능을 함께 출품한다. 보험 청구 전 수작업을 시스템이 직접 수행해 전체 건수의 80%를 담당자 검토 없이 자동 완료한다."
+              },
+              {
+                "t": "p",
+                "x": "전진옥 대표는 “의료진이 키보드 대신 환자를 바라보며 진료에 전념할 수 있는 환경을 만드는 것이 목표”라고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "빠른 AI 답변이냐\n사람을 기다리느냐",
-          "body": "JAMA 조사가 미국 성인에게 빠른 AI 답과 사람 검토 중 무엇을 고를지 물었다.",
-          "mini_headline": "AI의 속도냐 사람의 검토냐",
+        "en": {
+          "headline": "Bit Computer charts the visit\nconversation in real time",
+          "body": "Bit Computer will showcase an AI EMR that links consultation speech recognition to charting and prescribing.",
+          "mini_headline": "The consultation becomes the chart",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "JAMA Network Open에 실린 단면 연구는 미국 성인 1,185명을 대상으로(2024년 6월 17일~7월 26일) 조사했다. 환자 포털 메시지에 빠른 AI 답변과 의료 전문가가 검토한 느린 답변 중 어느 쪽을 원하는지, 정신건강 지원의 AI 선택지는 어떻게 평가하는지 물었다."
+                "x": "[Uihak Sinmun·Ilgan Bosa, reporter Oh In-gyu] Bit Computer (CEOs Cho Hyun-jung and Jeon Jin-ok), a leading medical informatics company, is taking part in 'KIMES BUSAN 2026', held from the 23rd to the 25th at BEXCO in Busan, where it will present clinic- and hospital-level solutions centered on its AI clinical agent 'BITMate AI'."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414976_03.png",
+                "cap": "BITMate AI, the AI clinical agent built into Bit Computer's cloud EMR BitPlus (Photo: Bit Computer)"
               },
               {
                 "t": "p",
-                "x": "일정 조율이나 처방 재발급 같은 행정 메시지라면 57.4%가 빠른 AI 답변을 골랐고, 일반 메시지에서는 그 비율이 50.6%였다. 의학적 메시지에서는 63.1%가 의료 전문가의 검토를 기다리겠다고 답했다."
+                "x": "BITMate AI is built into every solution on display. Where a conventional EMR was closer to a system for entering records after the visit, BITMate AI aims to be an AI clinical agent that links, in real time from the moment care begins, everything from checking patient information and recognizing the conversation to generating records and the prescribing flow."
               },
               {
                 "t": "p",
-                "x": "정신건강 지원에서는 3개월 뒤 만날 수 있는 인간 치료사가 63.9%로 가장 많은 지지를 받았다. 치료사가 모니터링하는 1개월 뒤 AI(50.2%), 즉시 쓸 수 있는 AI 단독(44.3%)이 뒤를 이었다."
+                "x": "Its main features are Visit Summary, Voice Charting and My AI Agent. Visit Summary uses AI to automatically summarize recent visit records, while Voice Charting transcribes the doctor–patient conversation in real time and instantly generates a draft record in SOAP format. Speech appears on screen within 0.3 seconds on average and is updated at 0.16-second intervals."
               },
               {
                 "t": "p",
-                "x": "결과는 출생 세대 등 여러 요인별로 나눠 분석했다. 저자들은 사람들이 의학적 질문이나 정신건강 지원보다 위험이 낮은 업무에서 빠른 AI를 더 쉽게 받아들인다고 봤다. 신속성과 사람의 검토 사이에서 고를 수 있는 선택지가 환자에게 도움이 될 수 있다는 결론이다."
+                "x": "My AI Agent lets clinicians choose a record format or write their own prompts so that the AI reflects their own way of documenting. It is the first time in the Korean EMR industry that prompt-setting rights have been opened to customers. It carries an early version of a Korea-specific medical LLM that Bit Computer is developing with AWS, and all AI processing is completed on domestic infrastructure."
+              },
+              {
+                "t": "p",
+                "x": "The hospital-level HIS will also be shown with an automated outpatient claims review feature. The system itself performs the manual work done before insurance claims, completing 80% of all cases automatically without staff review."
+              },
+              {
+                "t": "p",
+                "x": "CEO Jeon Jin-ok said, “Our goal is to create an environment where clinicians can focus on care, looking at the patient instead of the keyboard.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "速いAIの回答か\n人の確認を待つか",
-          "body": "JAMAの調査は、米国成人にポータルで速いAI回答と人の確認のどちらを選ぶかを尋ねた。",
-          "mini_headline": "AIの速さか、人の確認か",
+          "headline": "ビットコンピュータ、\n診療の会話を即カルテ化",
+          "body": "ビットコンピュータが診療の会話認識から記録・処方までつなぐAI EMRを披露する。",
+          "mini_headline": "診療の会話がそのままカルテに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "JAMA Network Openに掲載された横断研究は、米国成人1,185人(2024年6月17日〜7月26日)を対象に、患者ポータルのメッセージへの返信として速いAIの回答と、医療専門職が確認した遅い回答のどちらを好むか、またメンタルヘルス支援でAIの選択肢をどう評価するかを調べた。"
+                "x": "[医学新聞・日刊保社=オ・インギュ記者] 医療情報大手のビットコンピュータ(代表取締役チョ・ヒョンジョン、チョン・ジノク)は、23日から25日まで釜山BEXCOで開かれる「KIMES BUSAN 2026」に出展し、AI診療エージェント「BITMate AI」を中心に診療所向け・病院向けソリューションを披露する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414976_03.png",
+                "cap": "ビットコンピュータのクラウドEMR「ビットプラス」に搭載されたAI診療エージェントBITMate AI(写真提供=ビットコンピュータ)"
               },
               {
                 "t": "p",
-                "x": "予約調整や処方の再発行といった事務的なメッセージでは57.4%が速いAIの回答を好み、一般的なメッセージでは50.6%だった。医学的なメッセージでは63.1%が医療専門職による回答の確認を待つほうを選んだ。"
+                "x": "BITMate AIは全出展ソリューションに共通で搭載される。従来のEMRが診療後に記録を入力するシステムに近かったのに対し、BITMate AIは診療の瞬間から患者情報の確認、会話の認識、記録の生成、処方の流れまでをリアルタイムでつなぐAI診療エージェントを目指す。"
               },
               {
                 "t": "p",
-                "x": "メンタルヘルス支援では、63.9%が3か月後に利用できる人間のセラピストを最も支持し、セラピストが監督する1か月後のAI(50.2%)、すぐに使えるAI単独(44.3%)を上回った。"
+                "x": "主な機能は来院サマリー、ボイスチャーティング、マイAIエージェントだ。来院サマリーは直近の来院記録をAIが自動で要約し、ボイスチャーティングは医師と患者の会話をリアルタイムで文字起こしして、SOAP形式の記録草案を即座に生成する。発話内容は平均0.3秒以内に画面へ反映され、0.16秒間隔で更新される。"
               },
               {
                 "t": "p",
-                "x": "結果は出生世代などの要因別に層別化された。著者らは、人々は医学的な質問やメンタルヘルス支援よりも、リスクの低い作業で速いAIを受け入れやすく、迅速さと人による確認を引き換えにできる選択肢が患者の役に立ちうると結論づけている。"
+                "x": "マイAIエージェントでは、医療者が記録形式を選んだりプロンプトを自ら書いたりして、自分なりの記録スタイルをAIに反映できる。韓国のEMR業界で初めて、顧客にプロンプト設定権限を開放したものだ。ビットコンピュータがAWSと協力して開発中の韓国医療特化LLMの初期版を搭載し、すべてのAI処理は国内インフラで完結する。"
+              },
+              {
+                "t": "p",
+                "x": "病院向けHISは外来自動審査機能もあわせて出展する。保険請求前の手作業をシステムが直接行い、全件数の80%を担当者のレビューなしで自動完了する。"
+              },
+              {
+                "t": "p",
+                "x": "チョン・ジノク代表は「医療者がキーボードではなく患者を見ながら診療に専念できる環境をつくることが目標だ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "要AI的快速回复\n还是等人工审核",
-          "body": "JAMA Network Open调查询问美国成年人是否愿为更快的AI回复放弃人工审核。",
-          "mini_headline": "AI速度与人工审核之争",
+          "headline": "比特电脑把诊疗对话\n实时转成病历",
+          "body": "比特电脑将展示一款AI EMR，从识别诊疗对话一直贯通到记录与处方。",
+          "mini_headline": "诊疗对话即病历",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "JAMA Network Open发表的一项横断面研究调查了1,185名美国成年人(2024年6月17日至7月26日)，了解他们对患者门户消息更倾向于快速的AI回复，还是经医疗专业人员审核的较慢回复，以及他们如何看待心理健康支持中的AI选项。"
+                "x": "[医学新闻·日刊保社=记者Oh In-gyu] 医疗信息领军企业比特电脑（代表理事Cho Hyun-jung、Jeon Jin-ok）将参加23日至25日在釜山BEXCO举行的“KIMES BUSAN 2026”，以AI诊疗智能体“BITMate AI”为核心，展示面向诊所和医院的解决方案。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414976_03.png",
+                "cap": "比特电脑云端EMR BitPlus搭载的AI诊疗智能体BITMate AI（图片由比特电脑提供）"
               },
               {
                 "t": "p",
-                "x": "对于预约安排和续药等事务性消息，57.4%的人更愿意接受快速的AI回复；对于一般消息，这一比例为50.6%。对于医疗类消息，63.1%的人更愿意等待医疗专业人员审核回复。"
+                "x": "BITMate AI将统一搭载于所有参展解决方案。如果说传统EMR更接近于诊疗结束后录入记录的系统，那么BITMate AI的目标是成为一款AI诊疗智能体，从诊疗开始的那一刻起，实时贯通患者信息确认、对话识别、记录生成直至处方流程。"
               },
               {
                 "t": "p",
-                "x": "在心理健康支持方面，63.9%的人最认可3个月后可获得的人类治疗师，高于1个月后可用的治疗师监督AI(50.2%)和可立即使用的纯AI(44.3%)。"
+                "x": "主要功能包括就诊摘要、语音病历和专属AI智能体。就诊摘要由AI自动汇总近期就诊记录；语音病历实时转写医患对话，并即时生成SOAP格式的记录草稿。语音内容平均在0.3秒内显示在屏幕上，并以0.16秒的间隔更新。"
               },
               {
                 "t": "p",
-                "x": "研究结果按出生世代等因素进行了分层。作者总结称，与医疗问题和心理健康支持相比，人们在低风险任务上更愿意接受更快的AI；为患者提供在及时性与人工审核之间进行取舍的选项，可能对他们有益。"
+                "x": "专属AI智能体让医护人员选择记录格式或自行编写提示词，把自己的记录方式融入AI。这是韩国EMR行业首次向客户开放提示词设置权限。产品搭载了比特电脑与AWS合作开发中的韩国医疗专用LLM早期版本，所有AI处理均在韩国国内基础设施上完成。"
+              },
+              {
+                "t": "p",
+                "x": "医院级HIS还将一并展出门诊自动审核功能。系统直接完成保险申报前的人工作业，全部案件中80%无需负责人审核即可自动完成。"
+              },
+              {
+                "t": "p",
+                "x": "Jeon Jin-ok代表表示：“目标是营造一个让医护人员不必盯着键盘、而是看着患者专心诊疗的环境。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Respuestas rápidas de IA o\nesperar a un humano",
-          "body": "Un sondeo de JAMA Network Open pregunta a adultos de EE. UU. si una IA más rápida compensa omitir la revisión humana.",
-          "mini_headline": "Rapidez de la IA frente a revisión humana",
+          "headline": "Bit Computer lleva la consulta\na la historia en tiempo real",
+          "body": "Bit Computer presentará una AI EMR que conecta el reconocimiento de la consulta con el registro y la receta.",
+          "mini_headline": "La consulta se convierte en historia clínica",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Un estudio transversal publicado en JAMA Network Open encuestó a 1,185 adultos de EE. UU. (del 17 de junio al 26 de julio de 2024) sobre si preferían respuestas más rápidas de IA o respuestas más lentas revisadas por profesionales de la salud a los mensajes del portal del paciente, y cómo valoraban las opciones de IA para el apoyo en salud mental."
+                "x": "[Uihak Sinmun·Ilgan Bosa, periodista Oh In-gyu] Bit Computer (consejeros delegados Cho Hyun-jung y Jeon Jin-ok), empresa líder en informática médica, participará en 'KIMES BUSAN 2026', que se celebra del 23 al 25 en BEXCO, en Busan, y presentará soluciones para clínicas y hospitales centradas en su agente clínico de AI 'BITMate AI'."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414976_03.png",
+                "cap": "BITMate AI, el agente clínico de AI integrado en BitPlus, la EMR en la nube de Bit Computer (foto: Bit Computer)"
               },
               {
                 "t": "p",
-                "x": "En mensajes logísticos como citas y renovación de recetas, el 57.4% prefirió una respuesta rápida de IA; en mensajes generales, el 50.6%. En mensajes médicos, el 63.1% prefirió esperar a que un profesional de la salud revisara la respuesta."
+                "x": "BITMate AI viene integrado en todas las soluciones expuestas. Si la EMR convencional se parecía más a un sistema para introducir registros después de la consulta, BITMate AI aspira a ser un agente clínico de AI que conecte en tiempo real, desde el momento de la atención, la consulta de datos del paciente, el reconocimiento de la conversación, la generación de registros y el flujo de prescripción."
               },
               {
                 "t": "p",
-                "x": "Para el apoyo en salud mental, el 63.9% respaldó en mayor medida a un terapeuta humano disponible en 3 meses, por delante de la IA supervisada por un terapeuta en 1 mes (50.2%) y la IA sola disponible de inmediato (44.3%)."
+                "x": "Sus funciones principales son el resumen de visitas, el registro por voz y el agente de AI propio. El resumen de visitas ofrece un resumen automático por AI de los registros de visitas recientes, y el registro por voz transcribe en tiempo real la conversación entre médico y paciente y genera al instante un borrador en formato SOAP. Lo dicho aparece en pantalla en menos de 0.3 segundos de media y se actualiza a intervalos de 0.16 segundos."
               },
               {
                 "t": "p",
-                "x": "Los resultados se estratificaron por generación de nacimiento y otros factores. Los autores concluyen que las personas están más abiertas a una IA más rápida en tareas de bajo riesgo que en preguntas médicas y apoyo en salud mental, y que los pacientes podrían beneficiarse de opciones que equilibren la rapidez frente a la revisión humana."
+                "x": "El agente de AI propio permite que el personal médico elija un formato de registro o escriba sus propios prompts para que la AI refleje su manera de documentar. Es la primera vez en el sector de EMR de Corea que se abre a los clientes el permiso para configurar prompts. Incorpora una versión inicial de un LLM especializado en medicina coreana que Bit Computer desarrolla con AWS, y todo el procesamiento de AI se completa en infraestructura nacional."
+              },
+              {
+                "t": "p",
+                "x": "El HIS para hospitales se expondrá junto con una función de revisión automática de consultas externas. El sistema realiza por sí mismo el trabajo manual previo a la facturación al seguro y completa automáticamente el 80% de los casos sin revisión del responsable."
+              },
+              {
+                "t": "p",
+                "x": "El consejero delegado Jeon Jin-ok afirmó: “El objetivo es crear un entorno en el que el personal médico pueda centrarse en la consulta mirando al paciente en lugar del teclado”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "en": {
+          "headline": "Bit Computer charts the visit\nconversation in real time",
+          "body": "Bit Computer will showcase an AI EMR that links consultation speech recognition to charting and prescribing.",
+          "mini_headline": "The consultation becomes the chart",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[Uihak Sinmun·Ilgan Bosa, reporter Oh In-gyu] Bit Computer (CEOs Cho Hyun-jung and Jeon Jin-ok), a leading medical informatics company, is taking part in 'KIMES BUSAN 2026', held from the 23rd to the 25th at BEXCO in Busan, where it will present clinic- and hospital-level solutions centered on its AI clinical agent 'BITMate AI'."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414976_03.png",
+                "cap": "BITMate AI, the AI clinical agent built into Bit Computer's cloud EMR BitPlus (Photo: Bit Computer)"
+              },
+              {
+                "t": "p",
+                "x": "BITMate AI is built into every solution on display. Where a conventional EMR was closer to a system for entering records after the visit, BITMate AI aims to be an AI clinical agent that links, in real time from the moment care begins, everything from checking patient information and recognizing the conversation to generating records and the prescribing flow."
+              },
+              {
+                "t": "p",
+                "x": "Its main features are Visit Summary, Voice Charting and My AI Agent. Visit Summary uses AI to automatically summarize recent visit records, while Voice Charting transcribes the doctor–patient conversation in real time and instantly generates a draft record in SOAP format. Speech appears on screen within 0.3 seconds on average and is updated at 0.16-second intervals."
+              },
+              {
+                "t": "p",
+                "x": "My AI Agent lets clinicians choose a record format or write their own prompts so that the AI reflects their own way of documenting. It is the first time in the Korean EMR industry that prompt-setting rights have been opened to customers. It carries an early version of a Korea-specific medical LLM that Bit Computer is developing with AWS, and all AI processing is completed on domestic infrastructure."
+              },
+              {
+                "t": "p",
+                "x": "The hospital-level HIS will also be shown with an automated outpatient claims review feature. The system itself performs the manual work done before insurance claims, completing 80% of all cases automatically without staff review."
+              },
+              {
+                "t": "p",
+                "x": "CEO Jeon Jin-ok said, “Our goal is to create an environment where clinicians can focus on care, looking at the patient instead of the keyboard.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ビットコンピュータ、\n診療の会話を即カルテ化",
+          "body": "ビットコンピュータが診療の会話認識から記録・処方までつなぐAI EMRを披露する。",
+          "mini_headline": "診療の会話がそのままカルテに",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[医学新聞・日刊保社=オ・インギュ記者] 医療情報大手のビットコンピュータ(代表取締役チョ・ヒョンジョン、チョン・ジノク)は、23日から25日まで釜山BEXCOで開かれる「KIMES BUSAN 2026」に出展し、AI診療エージェント「BITMate AI」を中心に診療所向け・病院向けソリューションを披露する。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414976_03.png",
+                "cap": "ビットコンピュータのクラウドEMR「ビットプラス」に搭載されたAI診療エージェントBITMate AI(写真提供=ビットコンピュータ)"
+              },
+              {
+                "t": "p",
+                "x": "BITMate AIは全出展ソリューションに共通で搭載される。従来のEMRが診療後に記録を入力するシステムに近かったのに対し、BITMate AIは診療の瞬間から患者情報の確認、会話の認識、記録の生成、処方の流れまでをリアルタイムでつなぐAI診療エージェントを目指す。"
+              },
+              {
+                "t": "p",
+                "x": "主な機能は来院サマリー、ボイスチャーティング、マイAIエージェントだ。来院サマリーは直近の来院記録をAIが自動で要約し、ボイスチャーティングは医師と患者の会話をリアルタイムで文字起こしして、SOAP形式の記録草案を即座に生成する。発話内容は平均0.3秒以内に画面へ反映され、0.16秒間隔で更新される。"
+              },
+              {
+                "t": "p",
+                "x": "マイAIエージェントでは、医療者が記録形式を選んだりプロンプトを自ら書いたりして、自分なりの記録スタイルをAIに反映できる。韓国のEMR業界で初めて、顧客にプロンプト設定権限を開放したものだ。ビットコンピュータがAWSと協力して開発中の韓国医療特化LLMの初期版を搭載し、すべてのAI処理は国内インフラで完結する。"
+              },
+              {
+                "t": "p",
+                "x": "病院向けHISは外来自動審査機能もあわせて出展する。保険請求前の手作業をシステムが直接行い、全件数の80%を担当者のレビューなしで自動完了する。"
+              },
+              {
+                "t": "p",
+                "x": "チョン・ジノク代表は「医療者がキーボードではなく患者を見ながら診療に専念できる環境をつくることが目標だ」と述べた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "比特电脑把诊疗对话\n实时转成病历",
+          "body": "比特电脑将展示一款AI EMR，从识别诊疗对话一直贯通到记录与处方。",
+          "mini_headline": "诊疗对话即病历",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[医学新闻·日刊保社=记者Oh In-gyu] 医疗信息领军企业比特电脑（代表理事Cho Hyun-jung、Jeon Jin-ok）将参加23日至25日在釜山BEXCO举行的“KIMES BUSAN 2026”，以AI诊疗智能体“BITMate AI”为核心，展示面向诊所和医院的解决方案。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414976_03.png",
+                "cap": "比特电脑云端EMR BitPlus搭载的AI诊疗智能体BITMate AI（图片由比特电脑提供）"
+              },
+              {
+                "t": "p",
+                "x": "BITMate AI将统一搭载于所有参展解决方案。如果说传统EMR更接近于诊疗结束后录入记录的系统，那么BITMate AI的目标是成为一款AI诊疗智能体，从诊疗开始的那一刻起，实时贯通患者信息确认、对话识别、记录生成直至处方流程。"
+              },
+              {
+                "t": "p",
+                "x": "主要功能包括就诊摘要、语音病历和专属AI智能体。就诊摘要由AI自动汇总近期就诊记录；语音病历实时转写医患对话，并即时生成SOAP格式的记录草稿。语音内容平均在0.3秒内显示在屏幕上，并以0.16秒的间隔更新。"
+              },
+              {
+                "t": "p",
+                "x": "专属AI智能体让医护人员选择记录格式或自行编写提示词，把自己的记录方式融入AI。这是韩国EMR行业首次向客户开放提示词设置权限。产品搭载了比特电脑与AWS合作开发中的韩国医疗专用LLM早期版本，所有AI处理均在韩国国内基础设施上完成。"
+              },
+              {
+                "t": "p",
+                "x": "医院级HIS还将一并展出门诊自动审核功能。系统直接完成保险申报前的人工作业，全部案件中80%无需负责人审核即可自动完成。"
+              },
+              {
+                "t": "p",
+                "x": "Jeon Jin-ok代表表示：“目标是营造一个让医护人员不必盯着键盘、而是看着患者专心诊疗的环境。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Bit Computer lleva la consulta\na la historia en tiempo real",
+          "body": "Bit Computer presentará una AI EMR que conecta el reconocimiento de la consulta con el registro y la receta.",
+          "mini_headline": "La consulta se convierte en historia clínica",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "[Uihak Sinmun·Ilgan Bosa, periodista Oh In-gyu] Bit Computer (consejeros delegados Cho Hyun-jung y Jeon Jin-ok), empresa líder en informática médica, participará en 'KIMES BUSAN 2026', que se celebra del 23 al 25 en BEXCO, en Busan, y presentará soluciones para clínicas y hospitales centradas en su agente clínico de AI 'BITMate AI'."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414976_03.png",
+                "cap": "BITMate AI, el agente clínico de AI integrado en BitPlus, la EMR en la nube de Bit Computer (foto: Bit Computer)"
+              },
+              {
+                "t": "p",
+                "x": "BITMate AI viene integrado en todas las soluciones expuestas. Si la EMR convencional se parecía más a un sistema para introducir registros después de la consulta, BITMate AI aspira a ser un agente clínico de AI que conecte en tiempo real, desde el momento de la atención, la consulta de datos del paciente, el reconocimiento de la conversación, la generación de registros y el flujo de prescripción."
+              },
+              {
+                "t": "p",
+                "x": "Sus funciones principales son el resumen de visitas, el registro por voz y el agente de AI propio. El resumen de visitas ofrece un resumen automático por AI de los registros de visitas recientes, y el registro por voz transcribe en tiempo real la conversación entre médico y paciente y genera al instante un borrador en formato SOAP. Lo dicho aparece en pantalla en menos de 0.3 segundos de media y se actualiza a intervalos de 0.16 segundos."
+              },
+              {
+                "t": "p",
+                "x": "El agente de AI propio permite que el personal médico elija un formato de registro o escriba sus propios prompts para que la AI refleje su manera de documentar. Es la primera vez en el sector de EMR de Corea que se abre a los clientes el permiso para configurar prompts. Incorpora una versión inicial de un LLM especializado en medicina coreana que Bit Computer desarrolla con AWS, y todo el procesamiento de AI se completa en infraestructura nacional."
+              },
+              {
+                "t": "p",
+                "x": "El HIS para hospitales se expondrá junto con una función de revisión automática de consultas externas. El sistema realiza por sí mismo el trabajo manual previo a la facturación al seguro y completa automáticamente el 80% de los casos sin revisión del responsable."
+              },
+              {
+                "t": "p",
+                "x": "El consejero delegado Jeon Jin-ok afirmó: “El objetivo es crear un entorno en el que el personal médico pueda centrarse en la consulta mirando al paciente en lugar del teclado”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "medicine-bmj-llm-trial-reporting",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "LLM 임상시험,\n보고 충실도 평가받다",
+      "body": "BMJ 리뷰가 CONSORT-AI로 LLM 임상시험 보고가 얼마나 충실한지 따졌다.",
+      "mini_headline": "LLM 임상시험 보고 성적표",
+      "tool": "Medicine",
+      "source": "The BMJ",
+      "url": "https://www.bmj.com/lookup/doi/10.1136/bmj-2026-100855",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "The BMJ에 실린 체계적 문헌고찰이 기존 보고 지침을 잣대로 의료 분야 대규모 언어 모델(LLM) 중재 임상시험이 얼마나 완전하게 보고됐는지 분석했다."
+          },
+          {
+            "t": "p",
+            "x": "데이터베이스와 임상시험 등록부 검색(2017년 1월 1일~2025년 12월 6일)으로 461건의 기록이 나왔다. 시험 보고서 68건, 프로토콜 15건, 등록 378건이다. 시험 보고서 대부분은 2024–25년에 나온 소규모 단일 기관 무작위 연구로, 주로 환자 교육과 관리 권고를 다뤘다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.bmj.com/content/bmj/395/bmj-2026-100855/F3.large.jpg",
+            "cap": "포함된 전체 임상시험(n=68)의 TRIPOD-LLM 항목별 보고 완전성."
+          },
+          {
+            "t": "p",
+            "x": "평균 보고 완전성은 낮은 편이었다. 시험 보고서는 TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59%, CHART 52%였고, 프로토콜은 SPIRIT 2025 51%, SPIRIT-AI 57%, 등록은 61%였다."
+          },
+          {
+            "t": "p",
+            "x": "빈칸이 큰 곳은 모델 식별과 버전 관리, 데이터 출처와 전처리, 프롬프트 개발, 입력·출력 처리, 프로토콜·데이터·코드 공개 여부였다. 위해 계획과 모니터링, 보고도 빠진 데가 많았다."
+          },
+          {
+            "t": "p",
+            "x": "보고서 대부분은 임상 질문과 핵심 결과를 파악하기엔 충분했다. 다만 LLM 중재를 어떻게 구성하고 제공하고 모니터링하고 분석했는지 되짚기엔 모자란 경우가 많았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "LLM clinical trials, graded\non how fully they report",
+          "body": "A BMJ review grades LLM clinical trials against CONSORT-AI on how fully they report the model, prompts and outcomes.",
+          "mini_headline": "Grading how LLM trials report",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "A systematic review in The BMJ characterised the reporting completeness of clinical trials of large language model (LLM) interventions in medicine, using established reporting guidelines."
+              },
+              {
+                "t": "p",
+                "x": "Searches of databases and trial registries (1 January 2017 to 6 December 2025) yielded 461 records: 68 trial reports, 15 protocols and 378 registrations. Trial reports were mostly small sample, single site randomised studies published in 2024–25, primarily targeting patient facing education and management recommendations."
+              },
+              {
+                "t": "img",
+                "src": "https://www.bmj.com/content/bmj/395/bmj-2026-100855/F3.large.jpg",
+                "cap": "TRIPOD-LLM item level reporting completeness among all included clinical trials (n=68)."
+              },
+              {
+                "t": "p",
+                "x": "Mean reporting completeness was modest: TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59% and CHART 52% for trial reports; SPIRIT 2025 51% and SPIRIT-AI 57% for protocols; 61% for registrations."
+              },
+              {
+                "t": "p",
+                "x": "Main gaps involved model identity and versioning, data provenance and preprocessing, prompt development, input and output handling, and protocol, data and code availability. Harms planning, monitoring and reporting were often incomplete."
+              },
+              {
+                "t": "p",
+                "x": "Reports were often sufficient to understand the clinical question and headline findings, but frequently insufficient to reconstruct how the LLM intervention was configured, delivered, monitored and analysed."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "LLM 임상시험,\n보고 충실도 평가받다",
+          "body": "BMJ 리뷰가 CONSORT-AI로 LLM 임상시험 보고가 얼마나 충실한지 따졌다.",
+          "mini_headline": "LLM 임상시험 보고 성적표",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "The BMJ에 실린 체계적 문헌고찰이 기존 보고 지침을 잣대로 의료 분야 대규모 언어 모델(LLM) 중재 임상시험이 얼마나 완전하게 보고됐는지 분석했다."
+              },
+              {
+                "t": "p",
+                "x": "데이터베이스와 임상시험 등록부 검색(2017년 1월 1일~2025년 12월 6일)으로 461건의 기록이 나왔다. 시험 보고서 68건, 프로토콜 15건, 등록 378건이다. 시험 보고서 대부분은 2024–25년에 나온 소규모 단일 기관 무작위 연구로, 주로 환자 교육과 관리 권고를 다뤘다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.bmj.com/content/bmj/395/bmj-2026-100855/F3.large.jpg",
+                "cap": "포함된 전체 임상시험(n=68)의 TRIPOD-LLM 항목별 보고 완전성."
+              },
+              {
+                "t": "p",
+                "x": "평균 보고 완전성은 낮은 편이었다. 시험 보고서는 TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59%, CHART 52%였고, 프로토콜은 SPIRIT 2025 51%, SPIRIT-AI 57%, 등록은 61%였다."
+              },
+              {
+                "t": "p",
+                "x": "빈칸이 큰 곳은 모델 식별과 버전 관리, 데이터 출처와 전처리, 프롬프트 개발, 입력·출력 처리, 프로토콜·데이터·코드 공개 여부였다. 위해 계획과 모니터링, 보고도 빠진 데가 많았다."
+              },
+              {
+                "t": "p",
+                "x": "보고서 대부분은 임상 질문과 핵심 결과를 파악하기엔 충분했다. 다만 LLM 중재를 어떻게 구성하고 제공하고 모니터링하고 분석했는지 되짚기엔 모자란 경우가 많았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "LLM臨床試験、\n報告の充実度を採点",
+          "body": "BMJのレビューがCONSORT-AIでLLM臨床試験の報告の充実度を評価した。",
+          "mini_headline": "LLM試験の報告を採点",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "The BMJに掲載されたシステマティックレビューは、確立された報告ガイドラインを用いて、医療における大規模言語モデル(LLM)介入の臨床試験の報告の完全性を評価した。"
+              },
+              {
+                "t": "p",
+                "x": "データベースと試験登録の検索(2017年1月1日~2025年12月6日)で461件の記録が得られた。内訳は試験報告68件、プロトコル15件、登録378件である。試験報告の多くは2024–25年に発表された小規模・単施設のランダム化研究で、主に患者向けの教育や管理の推奨を対象としていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.bmj.com/content/bmj/395/bmj-2026-100855/F3.large.jpg",
+                "cap": "対象となった全臨床試験(n=68)におけるTRIPOD-LLMの項目別報告完全性。"
+              },
+              {
+                "t": "p",
+                "x": "平均の報告完全性は控えめだった。試験報告ではTRIPOD-LLM 40%、CONSORT 2025 44%、CONSORT-AI 59%、CHART 52%、プロトコルではSPIRIT 2025 51%、SPIRIT-AI 57%、登録では61%だった。"
+              },
+              {
+                "t": "p",
+                "x": "主な欠落は、モデルの特定とバージョン管理、データの出所と前処理、プロンプト開発、入出力の扱い、そしてプロトコル・データ・コードの公開に関するものだった。害の計画、モニタリング、報告も不完全なことが多かった。"
+              },
+              {
+                "t": "p",
+                "x": "報告は臨床的な問いと主要な結果を理解するには十分なことが多かったが、LLM介入がどのように設定、提供、監視、解析されたかを再構成するには不十分なことが少なくなかった。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "LLM临床试验\n按报告完整度打分",
+          "body": "一项BMJ综述以CONSORT-AI为标准，评估LLM临床试验报告的完整程度。",
+          "mini_headline": "为LLM试验报告打分",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "The BMJ发表的一项系统综述依据既有报告指南，描述了医学领域大语言模型（LLM）干预临床试验的报告完整性。"
+              },
+              {
+                "t": "p",
+                "x": "检索数据库和试验注册库（2017年1月1日至2025年12月6日）共获得461条记录：68份试验报告、15份方案和378项注册。试验报告大多为2024–25年发表的小样本、单中心随机研究，主要针对面向患者的教育和管理建议。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.bmj.com/content/bmj/395/bmj-2026-100855/F3.large.jpg",
+                "cap": "所有纳入临床试验（n=68）的TRIPOD-LLM逐项报告完整性。"
+              },
+              {
+                "t": "p",
+                "x": "平均报告完整性一般：试验报告的TRIPOD-LLM为40%、CONSORT 2025为44%、CONSORT-AI为59%、CHART为52%；方案的SPIRIT 2025为51%、SPIRIT-AI为57%；注册为61%。"
+              },
+              {
+                "t": "p",
+                "x": "主要缺口涉及模型身份与版本、数据来源与预处理、提示词开发、输入与输出处理，以及方案、数据和代码的可获得性。危害的规划、监测和报告也常常不完整。"
+              },
+              {
+                "t": "p",
+                "x": "这些报告通常足以让人理解临床问题和主要结果，但往往不足以重建LLM干预是如何配置、实施、监测和分析的。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ensayos clínicos con LLM,\nevaluados por cómo informan",
+          "body": "Una revisión de BMJ evalúa con CONSORT-AI cómo informan los ensayos con LLM del modelo, los prompts y los resultados.",
+          "mini_headline": "Cómo informan los ensayos con LLM",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Una revisión sistemática publicada en The BMJ caracterizó la exhaustividad de los informes de ensayos clínicos de intervenciones con modelos de lenguaje de gran tamaño (LLM) en medicina, a partir de guías de publicación establecidas."
+              },
+              {
+                "t": "p",
+                "x": "La búsqueda en bases de datos y registros de ensayos (del 1 de enero de 2017 al 6 de diciembre de 2025) arrojó 461 registros: 68 informes de ensayos, 15 protocolos y 378 inscripciones. Los informes de ensayos eran en su mayoría estudios aleatorizados pequeños y de un solo centro publicados en 2024–25, centrados sobre todo en educación dirigida a pacientes y recomendaciones de manejo."
+              },
+              {
+                "t": "img",
+                "src": "https://www.bmj.com/content/bmj/395/bmj-2026-100855/F3.large.jpg",
+                "cap": "Exhaustividad de los informes por ítem de TRIPOD-LLM en todos los ensayos clínicos incluidos (n=68)."
+              },
+              {
+                "t": "p",
+                "x": "La exhaustividad media fue modesta: TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59% y CHART 52% en los informes de ensayos; SPIRIT 2025 51% y SPIRIT-AI 57% en los protocolos; 61% en las inscripciones."
+              },
+              {
+                "t": "p",
+                "x": "Las principales carencias se referían a la identidad y el versionado del modelo, la procedencia y el preprocesamiento de los datos, el desarrollo de prompts, el manejo de entradas y salidas, y la disponibilidad del protocolo, los datos y el código. La planificación, la vigilancia y la notificación de daños solían estar incompletas."
+              },
+              {
+                "t": "p",
+                "x": "Los informes solían bastar para entender la pregunta clínica y los hallazgos principales, pero a menudo no permitían reconstruir cómo se configuró, aplicó, supervisó y analizó la intervención con LLM."
               }
             ]
           }
@@ -1033,105 +1219,463 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "빠른 AI 답변이냐\n사람을 기다리느냐",
-          "body": "JAMA 조사가 미국 성인에게 빠른 AI 답변과 사람 검토 중 선택을 물었다.",
-          "mini_headline": "AI의 속도냐 사람의 검토냐",
+          "headline": "LLM 임상시험,\n보고 충실도 평가받다",
+          "body": "BMJ 리뷰가 CONSORT-AI로 LLM 임상시험의 보고 충실도를 평가했다.",
+          "mini_headline": "LLM 임상시험 보고 성적표",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "JAMA Network Open에 실린 단면 연구는 미국 성인 1,185명을 대상으로(2024년 6월 17일~7월 26일) 환자 포털 메시지에 대해 빠른 AI 답변과 의료 전문가가 검토한 느린 답변 중 무엇을 선호하는지, 정신건강 지원에서 AI 선택지를 어떻게 평가하는지 조사했다."
+                "x": "The BMJ에 실린 체계적 문헌고찰은 기존 보고 지침을 활용해 의료 분야 대규모 언어 모델(LLM) 중재 임상시험의 보고 완전성을 분석했다."
               },
               {
                 "t": "p",
-                "x": "일정 조율이나 처방 재발급 같은 행정 메시지에서는 57.4%가 빠른 AI 답변을 선호했고, 일반 메시지에서는 50.6%였다. 의학적 메시지에서는 63.1%가 의료 전문가의 검토를 기다리는 쪽을 택했다."
+                "x": "데이터베이스와 임상시험 등록부 검색(2017년 1월 1일~2025년 12월 6일)으로 461건의 기록을 찾았다. 시험 보고서 68건, 프로토콜 15건, 등록 378건이다. 시험 보고서는 대부분 2024–25년에 발표된 소규모 단일 기관 무작위 연구였고, 주로 환자 대상 교육과 관리 권고를 겨냥했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.bmj.com/content/bmj/395/bmj-2026-100855/F3.large.jpg",
+                "cap": "포함된 전체 임상시험(n=68)의 TRIPOD-LLM 항목별 보고 완전성."
               },
               {
                 "t": "p",
-                "x": "정신건강 지원에서는 63.9%가 3개월 뒤 만날 수 있는 인간 치료사를 가장 지지했고, 치료사가 모니터링하는 1개월 뒤 AI(50.2%)와 즉시 쓸 수 있는 AI 단독(44.3%)이 뒤를 이었다."
+                "x": "평균 보고 완전성은 높지 않았다. 시험 보고서는 TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59%, CHART 52%였고, 프로토콜은 SPIRIT 2025 51%, SPIRIT-AI 57%, 등록은 61%였다."
               },
               {
                 "t": "p",
-                "x": "결과는 출생 세대 등 여러 요인별로 나눠 분석했다. 저자들은 사람들이 의학적 질문이나 정신건강 지원보다 위험이 낮은 업무에서 빠른 AI에 더 열려 있으며, 신속성과 사람의 검토를 맞바꿀 수 있는 선택지가 환자에게 도움이 될 수 있다고 결론지었다."
+                "x": "주요 공백은 모델 식별과 버전 관리, 데이터 출처와 전처리, 프롬프트 개발, 입력·출력 처리, 그리고 프로토콜·데이터·코드 공개 여부에 있었다. 위해 계획과 모니터링, 보고도 불완전한 경우가 많았다."
+              },
+              {
+                "t": "p",
+                "x": "보고서는 대체로 임상 질문과 핵심 결과를 이해하기에는 충분했지만, LLM 중재를 어떻게 구성하고 제공하고 모니터링하고 분석했는지 재구성하기에는 부족한 경우가 많았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "速いAIの回答か\n人の確認を待つか",
-          "body": "JAMAの調査は、米国成人にポータルで速いAI回答と人の確認のどちらを選ぶかを尋ねた。",
-          "mini_headline": "AIの速さか、人の確認か",
+          "headline": "LLM臨床試験、\n報告の充実度を採点",
+          "body": "BMJのレビューがCONSORT-AIでLLM臨床試験の報告の充実度を評価した。",
+          "mini_headline": "LLM試験の報告を採点",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "JAMA Network Openに掲載された横断研究は、米国成人1,185人(2024年6月17日〜7月26日)を対象に、患者ポータルのメッセージへの返信として速いAIの回答と、医療専門職が確認した遅い回答のどちらを好むか、またメンタルヘルス支援でAIの選択肢をどう評価するかを調べた。"
+                "x": "The BMJに掲載されたシステマティックレビューは、確立された報告ガイドラインを用いて、医療における大規模言語モデル(LLM)介入の臨床試験の報告の完全性を評価した。"
               },
               {
                 "t": "p",
-                "x": "予約調整や処方の再発行といった事務的なメッセージでは57.4%が速いAIの回答を好み、一般的なメッセージでは50.6%だった。医学的なメッセージでは63.1%が医療専門職による回答の確認を待つほうを選んだ。"
+                "x": "データベースと試験登録の検索(2017年1月1日~2025年12月6日)で461件の記録が得られた。内訳は試験報告68件、プロトコル15件、登録378件である。試験報告の多くは2024–25年に発表された小規模・単施設のランダム化研究で、主に患者向けの教育や管理の推奨を対象としていた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.bmj.com/content/bmj/395/bmj-2026-100855/F3.large.jpg",
+                "cap": "対象となった全臨床試験(n=68)におけるTRIPOD-LLMの項目別報告完全性。"
               },
               {
                 "t": "p",
-                "x": "メンタルヘルス支援では、63.9%が3か月後に利用できる人間のセラピストを最も支持し、セラピストが監督する1か月後のAI(50.2%)、すぐに使えるAI単独(44.3%)を上回った。"
+                "x": "平均の報告完全性は控えめだった。試験報告ではTRIPOD-LLM 40%、CONSORT 2025 44%、CONSORT-AI 59%、CHART 52%、プロトコルではSPIRIT 2025 51%、SPIRIT-AI 57%、登録では61%だった。"
               },
               {
                 "t": "p",
-                "x": "結果は出生世代などの要因別に層別化された。著者らは、人々は医学的な質問やメンタルヘルス支援よりも、リスクの低い作業で速いAIを受け入れやすく、迅速さと人による確認を引き換えにできる選択肢が患者の役に立ちうると結論づけている。"
+                "x": "主な欠落は、モデルの特定とバージョン管理、データの出所と前処理、プロンプト開発、入出力の扱い、そしてプロトコル・データ・コードの公開に関するものだった。害の計画、モニタリング、報告も不完全なことが多かった。"
+              },
+              {
+                "t": "p",
+                "x": "報告は臨床的な問いと主要な結果を理解するには十分なことが多かったが、LLM介入がどのように設定、提供、監視、解析されたかを再構成するには不十分なことが少なくなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "要AI的快速回复\n还是等人工审核",
-          "body": "JAMA Network Open调查询问美国成年人是否愿为更快的AI回复放弃人工审核。",
-          "mini_headline": "AI速度与人工审核之争",
+          "headline": "LLM临床试验\n按报告完整度打分",
+          "body": "一项BMJ综述以CONSORT-AI为标准，评估LLM临床试验报告的完整程度。",
+          "mini_headline": "为LLM试验报告打分",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "JAMA Network Open发表的一项横断面研究调查了1,185名美国成年人(2024年6月17日至7月26日)，了解他们对患者门户消息更倾向于快速的AI回复，还是经医疗专业人员审核的较慢回复，以及他们如何看待心理健康支持中的AI选项。"
+                "x": "The BMJ发表的一项系统综述依据既有报告指南，描述了医学领域大语言模型（LLM）干预临床试验的报告完整性。"
               },
               {
                 "t": "p",
-                "x": "对于预约安排和续药等事务性消息，57.4%的人更愿意接受快速的AI回复；对于一般消息，这一比例为50.6%。对于医疗类消息，63.1%的人更愿意等待医疗专业人员审核回复。"
+                "x": "检索数据库和试验注册库（2017年1月1日至2025年12月6日）共获得461条记录：68份试验报告、15份方案和378项注册。试验报告大多为2024–25年发表的小样本、单中心随机研究，主要针对面向患者的教育和管理建议。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.bmj.com/content/bmj/395/bmj-2026-100855/F3.large.jpg",
+                "cap": "所有纳入临床试验（n=68）的TRIPOD-LLM逐项报告完整性。"
               },
               {
                 "t": "p",
-                "x": "在心理健康支持方面，63.9%的人最认可3个月后可获得的人类治疗师，高于1个月后可用的治疗师监督AI(50.2%)和可立即使用的纯AI(44.3%)。"
+                "x": "平均报告完整性一般：试验报告的TRIPOD-LLM为40%、CONSORT 2025为44%、CONSORT-AI为59%、CHART为52%；方案的SPIRIT 2025为51%、SPIRIT-AI为57%；注册为61%。"
               },
               {
                 "t": "p",
-                "x": "研究结果按出生世代等因素进行了分层。作者总结称，与医疗问题和心理健康支持相比，人们在低风险任务上更愿意接受更快的AI；为患者提供在及时性与人工审核之间进行取舍的选项，可能对他们有益。"
+                "x": "主要缺口涉及模型身份与版本、数据来源与预处理、提示词开发、输入与输出处理，以及方案、数据和代码的可获得性。危害的规划、监测和报告也常常不完整。"
+              },
+              {
+                "t": "p",
+                "x": "这些报告通常足以让人理解临床问题和主要结果，但往往不足以重建LLM干预是如何配置、实施、监测和分析的。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Respuestas rápidas de IA o\nesperar a un humano",
-          "body": "Un sondeo de JAMA Network Open pregunta a adultos de EE. UU. si una IA más rápida compensa omitir la revisión humana.",
-          "mini_headline": "Rapidez de la IA frente a revisión humana",
+          "headline": "Ensayos clínicos con LLM,\nevaluados por cómo informan",
+          "body": "Una revisión de BMJ evalúa con CONSORT-AI cómo informan los ensayos con LLM del modelo, los prompts y los resultados.",
+          "mini_headline": "Cómo informan los ensayos con LLM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Un estudio transversal publicado en JAMA Network Open encuestó a 1,185 adultos de EE. UU. (del 17 de junio al 26 de julio de 2024) sobre si preferían respuestas más rápidas de IA o respuestas más lentas revisadas por profesionales de la salud a los mensajes del portal del paciente, y cómo valoraban las opciones de IA para el apoyo en salud mental."
+                "x": "Una revisión sistemática publicada en The BMJ caracterizó la exhaustividad de los informes de ensayos clínicos de intervenciones con modelos de lenguaje de gran tamaño (LLM) en medicina, a partir de guías de publicación establecidas."
               },
               {
                 "t": "p",
-                "x": "En mensajes logísticos como citas y renovación de recetas, el 57.4% prefirió una respuesta rápida de IA; en mensajes generales, el 50.6%. En mensajes médicos, el 63.1% prefirió esperar a que un profesional de la salud revisara la respuesta."
+                "x": "La búsqueda en bases de datos y registros de ensayos (del 1 de enero de 2017 al 6 de diciembre de 2025) arrojó 461 registros: 68 informes de ensayos, 15 protocolos y 378 inscripciones. Los informes de ensayos eran en su mayoría estudios aleatorizados pequeños y de un solo centro publicados en 2024–25, centrados sobre todo en educación dirigida a pacientes y recomendaciones de manejo."
+              },
+              {
+                "t": "img",
+                "src": "https://www.bmj.com/content/bmj/395/bmj-2026-100855/F3.large.jpg",
+                "cap": "Exhaustividad de los informes por ítem de TRIPOD-LLM en todos los ensayos clínicos incluidos (n=68)."
               },
               {
                 "t": "p",
-                "x": "Para el apoyo en salud mental, el 63.9% respaldó en mayor medida a un terapeuta humano disponible en 3 meses, por delante de la IA supervisada por un terapeuta en 1 mes (50.2%) y la IA sola disponible de inmediato (44.3%)."
+                "x": "La exhaustividad media fue modesta: TRIPOD-LLM 40%, CONSORT 2025 44%, CONSORT-AI 59% y CHART 52% en los informes de ensayos; SPIRIT 2025 51% y SPIRIT-AI 57% en los protocolos; 61% en las inscripciones."
               },
               {
                 "t": "p",
-                "x": "Los resultados se estratificaron por generación de nacimiento y otros factores. Los autores concluyen que las personas están más abiertas a una IA más rápida en tareas de bajo riesgo que en preguntas médicas y apoyo en salud mental, y que los pacientes podrían beneficiarse de opciones que equilibren la rapidez frente a la revisión humana."
+                "x": "Las principales carencias se referían a la identidad y el versionado del modelo, la procedencia y el preprocesamiento de los datos, el desarrollo de prompts, el manejo de entradas y salidas, y la disponibilidad del protocolo, los datos y el código. La planificación, la vigilancia y la notificación de daños solían estar incompletas."
+              },
+              {
+                "t": "p",
+                "x": "Los informes solían bastar para entender la pregunta clínica y los hallazgos principales, pero a menudo no permitían reconstruir cómo se configuró, aplicó, supervisó y analizó la intervención con LLM."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "medicine-llm-depression-diaries",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "LLMs가 짧은 영상일기로\n매일 우울증을 잰다",
+      "body": "LLMs가 설문 대신 참가자가 매일 남긴 짧은 영상일기로 우울증 심각도를 쟀다.",
+      "mini_headline": "LLMs가 일기 속 우울을 읽다",
+      "tool": "Medicine",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03388-6",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "우울증 변화를 꼼꼼히 따라가는 일은 임상 연구와 진료에 중요하다. 그런데 집중적인 종단 평가는 한계가 큰 자기보고 설문에 기댄다. npj Digital Medicine에 실린 이 연구는 대규모 언어 모델(LLMs)이 매일의 영상 일기를 보고 매긴 우울증 점수가 타당한지 검증했다."
+          },
+          {
+            "t": "p",
+            "x": "참가자 108명(45%는 정신건강 치료 중)이 임상 면담과 함께 14-21일간 우울증 설문과 영상 일기를 마쳤다. 일일 우울증 점수는 LLMs가 일기 전사문을 읽고 추정했다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03388-6/MediaObjects/41746_2026_3388_Fig1_HTML.png",
+            "cap": "LLM-rated 우울증과 자기보고 우울증 비교, 개인 내(a)와 개인 간(b)."
+          },
+          {
+            "t": "p",
+            "x": "LLM 평가는 개인 내에서 자기보고와 수렴했고(r = .45) 여러 날을 평균해도 수렴했다(r = .61). 평균 평가는 면담으로 잰 증상 심각도와도 상관을 보였다(r = .53)."
+          },
+          {
+            "t": "p",
+            "x": "LLM 평가는 자기보고가 설명하는 몫을 넘어 일상 기능과 면담 평가 우울증을 예측했다. 자기보고가 놓치는 임상적으로 의미 있는 정보를 LLMs가 잡아낸다는 신호다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "LLMs score depression from\nbrief daily video diaries",
+          "body": "LLMs scored depression severity from participants' brief daily video diaries, an alternative to repeated surveys.",
+          "mini_headline": "LLMs read depression in diaries",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Closely tracking changes in depression is important for clinical research and practice, but intensive longitudinal assessment relies on self-report surveys with major limitations. This npj Digital Medicine study tested the validity of depression rated by large language models (LLMs) from daily video diaries."
+              },
+              {
+                "t": "p",
+                "x": "108 participants (45% in mental health treatment) completed a clinical interview and 14-21 days of depression surveys and video diaries. Daily depression scores were estimated by LLMs from diary transcripts."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03388-6/MediaObjects/41746_2026_3388_Fig1_HTML.png",
+                "cap": "LLM-rated versus self-report depression, within-person (a) and between-person (b)."
+              },
+              {
+                "t": "p",
+                "x": "LLM ratings converged with self-report within-person (r = .45) and when averaged across days (r = .61), and averaged ratings correlated with interview-rated symptom severity (r = .53)."
+              },
+              {
+                "t": "p",
+                "x": "LLM ratings predicted daily functioning and interview-rated depression over and above self-reports, suggesting LLMs capture clinically relevant information that self-reports miss."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "LLMs가 짧은 영상일기로\n매일 우울증을 잰다",
+          "body": "LLMs가 설문 대신 참가자가 매일 남긴 짧은 영상일기로 우울증 심각도를 쟀다.",
+          "mini_headline": "LLMs가 일기 속 우울을 읽다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "우울증 변화를 꼼꼼히 따라가는 일은 임상 연구와 진료에 중요하다. 그런데 집중적인 종단 평가는 한계가 큰 자기보고 설문에 기댄다. npj Digital Medicine에 실린 이 연구는 대규모 언어 모델(LLMs)이 매일의 영상 일기를 보고 매긴 우울증 점수가 타당한지 검증했다."
+              },
+              {
+                "t": "p",
+                "x": "참가자 108명(45%는 정신건강 치료 중)이 임상 면담과 함께 14-21일간 우울증 설문과 영상 일기를 마쳤다. 일일 우울증 점수는 LLMs가 일기 전사문을 읽고 추정했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03388-6/MediaObjects/41746_2026_3388_Fig1_HTML.png",
+                "cap": "LLM-rated 우울증과 자기보고 우울증 비교, 개인 내(a)와 개인 간(b)."
+              },
+              {
+                "t": "p",
+                "x": "LLM 평가는 개인 내에서 자기보고와 수렴했고(r = .45) 여러 날을 평균해도 수렴했다(r = .61). 평균 평가는 면담으로 잰 증상 심각도와도 상관을 보였다(r = .53)."
+              },
+              {
+                "t": "p",
+                "x": "LLM 평가는 자기보고가 설명하는 몫을 넘어 일상 기능과 면담 평가 우울증을 예측했다. 자기보고가 놓치는 임상적으로 의미 있는 정보를 LLMs가 잡아낸다는 신호다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "LLMsが短い動画日記で\n日々のうつを採点",
+          "body": "LLMsが反復調査の代わりに、参加者の短い日々の動画日記からうつ病の重症度を評価した。",
+          "mini_headline": "LLMsが日記からうつを読む",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "うつ病の変化を細かく追うことは臨床研究と診療にとって重要だが、集中的な縦断評価は大きな限界を抱える自己報告式の調査に頼っている。このnpj Digital Medicineの研究は、大規模言語モデル(LLMs)が日々の動画日記から評価したうつ病の妥当性を検証した。"
+              },
+              {
+                "t": "p",
+                "x": "参加者108人(45%がメンタルヘルス治療中)が臨床面接と、14-21日間のうつ病調査および動画日記を完了した。日々のうつ病スコアは、LLMsが日記の文字起こしから推定した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03388-6/MediaObjects/41746_2026_3388_Fig1_HTML.png",
+                "cap": "LLM-ratedのうつ病と自己報告のうつ病の比較。個人内(a)と個人間(b)。"
+              },
+              {
+                "t": "p",
+                "x": "LLMの評価は個人内で自己報告と収束し(r = .45)、日をまたいで平均した場合にも収束した(r = .61)。平均した評価は面接で評価した症状の重症度と相関した(r = .53)。"
+              },
+              {
+                "t": "p",
+                "x": "LLMの評価は自己報告を上回って日常機能と面接評価のうつ病を予測しており、LLMsが自己報告では見落とされる臨床的に重要な情報を捉えていることを示唆する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "LLMs借每日短视频日记\n为抑郁打分",
+          "body": "LLMs根据参与者每天的简短视频日记评估抑郁严重程度，可替代反复问卷。",
+          "mini_headline": "LLMs从日记读出抑郁",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "密切追踪抑郁变化对临床研究和实践都很重要，但密集的纵向评估依赖局限明显的自我报告问卷。这项npj Digital Medicine研究检验了大语言模型（LLMs）根据每日视频日记评定抑郁的效度。"
+              },
+              {
+                "t": "p",
+                "x": "108名参与者（45%正在接受心理健康治疗）完成了一次临床访谈，以及为期14-21天的抑郁问卷和视频日记。每日抑郁评分由LLMs根据日记转录文本估算。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03388-6/MediaObjects/41746_2026_3388_Fig1_HTML.png",
+                "cap": "LLM-rated抑郁与自我报告抑郁的比较：个体内（a）与个体间（b）。"
+              },
+              {
+                "t": "p",
+                "x": "LLM评分在个体内与自我报告一致（r = .45），按天平均后同样一致（r = .61），平均评分还与访谈评定的症状严重程度相关（r = .53）。"
+              },
+              {
+                "t": "p",
+                "x": "在自我报告之外，LLM评分还能额外预测日常功能和访谈评定的抑郁，表明LLMs捕捉到了自我报告遗漏的临床相关信息。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los LLMs puntúan la depresión\ncon breves videodiarios",
+          "body": "Los LLMs puntuaron la gravedad de la depresión con breves videodiarios diarios, una alternativa a encuestas repetidas.",
+          "mini_headline": "Los LLMs leen la depresión en diarios",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Seguir de cerca los cambios en la depresión es importante para la investigación y la práctica clínicas, pero la evaluación longitudinal intensiva depende de encuestas de autoinforme con limitaciones importantes. Este estudio de npj Digital Medicine puso a prueba la validez de la depresión valorada por modelos de lenguaje de gran tamaño (LLMs) a partir de videodiarios diarios."
+              },
+              {
+                "t": "p",
+                "x": "108 participantes (45% en tratamiento de salud mental) completaron una entrevista clínica y 14-21 días de encuestas de depresión y videodiarios. Los LLMs estimaron puntuaciones diarias de depresión a partir de las transcripciones de los diarios."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03388-6/MediaObjects/41746_2026_3388_Fig1_HTML.png",
+                "cap": "Depresión LLM-rated frente a autoinformada, intrapersonal (a) e interpersonal (b)."
+              },
+              {
+                "t": "p",
+                "x": "Las valoraciones de los LLM convergieron con el autoinforme dentro de cada persona (r = .45) y al promediarlas a lo largo de los días (r = .61), y las valoraciones promediadas se correlacionaron con la gravedad de los síntomas valorada en la entrevista (r = .53)."
+              },
+              {
+                "t": "p",
+                "x": "Las valoraciones de los LLM predijeron el funcionamiento diario y la depresión valorada en la entrevista más allá de los autoinformes, lo que sugiere que los LLMs captan información clínicamente relevante que los autoinformes no detectan."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "LLMs가 짧은 영상일기로\n매일 우울증을 잰다",
+          "body": "LLMs가 설문 대신 참가자의 짧은 매일 영상일기로 우울증 심각도를 평가했다.",
+          "mini_headline": "LLMs가 일기 속 우울을 읽다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "우울증 변화를 면밀히 추적하는 일은 임상 연구와 진료에 중요하지만, 집중적인 종단 평가는 한계가 큰 자기보고 설문에 기대고 있다. 이 npj Digital Medicine 연구는 대규모 언어 모델(LLMs)이 매일의 영상 일기로 평가한 우울증의 타당도를 검증했다."
+              },
+              {
+                "t": "p",
+                "x": "참가자 108명(45%는 정신건강 치료 중)이 임상 면담과 함께 14-21일간 우울증 설문과 영상 일기를 마쳤다. 일일 우울증 점수는 LLMs가 일기 전사문을 바탕으로 추정했다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03388-6/MediaObjects/41746_2026_3388_Fig1_HTML.png",
+                "cap": "LLM-rated 우울증과 자기보고 우울증 비교, 개인 내(a)와 개인 간(b)."
+              },
+              {
+                "t": "p",
+                "x": "LLM 평가는 개인 내에서 자기보고와 수렴했고(r = .45), 여러 날을 평균했을 때도 수렴했으며(r = .61), 평균 평가는 면담으로 평가한 증상 심각도와 상관을 보였다(r = .53)."
+              },
+              {
+                "t": "p",
+                "x": "LLM 평가는 자기보고 이상으로 일상 기능과 면담 평가 우울증을 예측했다. LLMs가 자기보고로는 놓치는 임상적으로 의미 있는 정보를 포착한다는 점을 시사한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "LLMsが短い動画日記で\n日々のうつを採点",
+          "body": "LLMsが反復調査の代わりに、参加者の短い日々の動画日記からうつ病の重症度を評価した。",
+          "mini_headline": "LLMsが日記からうつを読む",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "うつ病の変化を細かく追うことは臨床研究と診療にとって重要だが、集中的な縦断評価は大きな限界を抱える自己報告式の調査に頼っている。このnpj Digital Medicineの研究は、大規模言語モデル(LLMs)が日々の動画日記から評価したうつ病の妥当性を検証した。"
+              },
+              {
+                "t": "p",
+                "x": "参加者108人(45%がメンタルヘルス治療中)が臨床面接と、14-21日間のうつ病調査および動画日記を完了した。日々のうつ病スコアは、LLMsが日記の文字起こしから推定した。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03388-6/MediaObjects/41746_2026_3388_Fig1_HTML.png",
+                "cap": "LLM-ratedのうつ病と自己報告のうつ病の比較。個人内(a)と個人間(b)。"
+              },
+              {
+                "t": "p",
+                "x": "LLMの評価は個人内で自己報告と収束し(r = .45)、日をまたいで平均した場合にも収束した(r = .61)。平均した評価は面接で評価した症状の重症度と相関した(r = .53)。"
+              },
+              {
+                "t": "p",
+                "x": "LLMの評価は自己報告を上回って日常機能と面接評価のうつ病を予測しており、LLMsが自己報告では見落とされる臨床的に重要な情報を捉えていることを示唆する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "LLMs借每日短视频日记\n为抑郁打分",
+          "body": "LLMs根据参与者每天的简短视频日记评估抑郁严重程度，可替代反复问卷。",
+          "mini_headline": "LLMs从日记读出抑郁",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "密切追踪抑郁变化对临床研究和实践都很重要，但密集的纵向评估依赖局限明显的自我报告问卷。这项npj Digital Medicine研究检验了大语言模型（LLMs）根据每日视频日记评定抑郁的效度。"
+              },
+              {
+                "t": "p",
+                "x": "108名参与者（45%正在接受心理健康治疗）完成了一次临床访谈，以及为期14-21天的抑郁问卷和视频日记。每日抑郁评分由LLMs根据日记转录文本估算。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03388-6/MediaObjects/41746_2026_3388_Fig1_HTML.png",
+                "cap": "LLM-rated抑郁与自我报告抑郁的比较：个体内（a）与个体间（b）。"
+              },
+              {
+                "t": "p",
+                "x": "LLM评分在个体内与自我报告一致（r = .45），按天平均后同样一致（r = .61），平均评分还与访谈评定的症状严重程度相关（r = .53）。"
+              },
+              {
+                "t": "p",
+                "x": "在自我报告之外，LLM评分还能额外预测日常功能和访谈评定的抑郁，表明LLMs捕捉到了自我报告遗漏的临床相关信息。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Los LLMs puntúan la depresión\ncon breves videodiarios",
+          "body": "Los LLMs puntuaron la gravedad de la depresión con breves videodiarios diarios, una alternativa a encuestas repetidas.",
+          "mini_headline": "Los LLMs leen la depresión en diarios",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Seguir de cerca los cambios en la depresión es importante para la investigación y la práctica clínicas, pero la evaluación longitudinal intensiva depende de encuestas de autoinforme con limitaciones importantes. Este estudio de npj Digital Medicine puso a prueba la validez de la depresión valorada por modelos de lenguaje de gran tamaño (LLMs) a partir de videodiarios diarios."
+              },
+              {
+                "t": "p",
+                "x": "108 participantes (45% en tratamiento de salud mental) completaron una entrevista clínica y 14-21 días de encuestas de depresión y videodiarios. Los LLMs estimaron puntuaciones diarias de depresión a partir de las transcripciones de los diarios."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41746-026-03388-6/MediaObjects/41746_2026_3388_Fig1_HTML.png",
+                "cap": "Depresión LLM-rated frente a autoinformada, intrapersonal (a) e interpersonal (b)."
+              },
+              {
+                "t": "p",
+                "x": "Las valoraciones de los LLM convergieron con el autoinforme dentro de cada persona (r = .45) y al promediarlas a lo largo de los días (r = .61), y las valoraciones promediadas se correlacionaron con la gravedad de los síntomas valorada en la entrevista (r = .53)."
+              },
+              {
+                "t": "p",
+                "x": "Las valoraciones de los LLM predijeron el funcionamiento diario y la depresión valorada en la entrevista más allá de los autoinformes, lo que sugiere que los LLMs captan información clínicamente relevante que los autoinformes no detectan."
               }
             ]
           }
