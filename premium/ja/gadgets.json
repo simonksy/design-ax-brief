@@ -8049,6 +8049,143 @@
           "x": "新しいホットワード「Hey Gemini」はスマートフォンにも広がる可能性がある。"
         }
       ]
+    },
+    "gadgets/gadgets-orangepi-o1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
+          "cap": "OrangePi O1:多数のポートを備えた新しいシングルボードコンピューターが登場"
+        },
+        {
+          "t": "p",
+          "x": "OrangePi O1は新しいシングルボードコンピューター(SBC)で、AI-centric(AI中心)のワークロードではRaspberry Piに対して明確な優位を持ち得る一方、汎用コンピューティング向けの有力な代替にもなる。ボードを動かすのはSophgo BM1688 SoCで、ARM Cortex-A53 CPUコア八つとRISC-V C906コプロセッサーを組み合わせている。内蔵TPUがローカルのAI処理を担い、対応ワークロードで最大16 TOPS(INT8)を発揮する。"
+        },
+        {
+          "t": "p",
+          "x": "メモリーは8 GB または16 GB のLPDDR4/LPDDR4X RAMで、最大128 GB のeMMCモジュールをオプションで追加できる。ただしストレージの拡張性はオンボードのフラッシュにとどまらない。PCIe 3.0 NVMe SSDs用のM.2スロット、専用のSATAインターフェース、標準的なmicroSDカードスロットを備えている。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
+          "cap": "SBCとしては珍しく、専用のSATAコネクターを搭載"
+        },
+        {
+          "t": "p",
+          "x": "90 x 70 mm のスタンドアロンボードは一通りのI/Oポートを備え、キャリアボードなしで箱から出してすぐデスクトップPCとして使える。物理的な接続端子はデュアルGigabit Ethernetポート、USB 2.0ポート二つ、USB 3.0ポート二つ、そして最大4K の映像出力に対応するHDMI 2.0ポートだ。SBCらしく、MIPIコネクター、CANバス、RS485、センサーやアクチュエーター用の拡張ヘッダーといった専用インターフェースも統合している。電源はUSB Type-Cから20 V で供給され、ワイヤレスネットワークにも対応する。Orange Pi O1の入手性は現時点では限られている。"
+        }
+      ]
+    },
+    "gadgets/gadgets-phonebot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "UCLAの研究者が、安価なスマートフォンをセンシングと計算に再利用する小型のオープンソース人型ロボットPhoneBotを開発した。ロボットのハードウェアはスマートフォンを除いて約$400だ。身長483 mm、重さ1.8 kgで、13個のサーボモーターで脚と回転する胴体を制御する。"
+        },
+        {
+          "t": "p",
+          "x": "PhoneBotは専用カメラやモーションセンサー、高価なオンボードコンピューターの代わりにスマートフォンに頼る。カメラが人を追跡し、内蔵IMUがバランスの維持と学習済みの歩行動作の実行を支える。研究チームは、2017年のHonor 9と約$50〜$80の端末三台を含むAndroidスマートフォン四台をテストした。アプリはTensorFlow Liteで歩行ポリシーを実行し、カメラが人物検出と姿勢推定を担う。"
+        },
+        {
+          "t": "p",
+          "x": "歩行コントローラーはシミュレーション内の強化学習で訓練した。左右反転した学習サンプルにより、関節角度の対称性誤差は0.254 ラジアンから0.003 ラジアンに減った。デモでは歩行、うつ伏せからの起き上がり、足を動かさずにカメラを人に向ける動作を披露した。低出力のサーボ、平地のみでの訓練、腕がない点は依然として課題だ。研究はarXivで公開されている。"
+        }
+      ]
+    },
+    "gadgets/gadgets-nothing-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "信頼できる情報筋によると、NothingはChatGPT連携とカメラを備えた独自のAIスマートグラスを開発しており、まったく異なる二つのモデルがあるという。"
+        },
+        {
+          "t": "p",
+          "x": "WinFutureのRoland QuandtはBlueskyで、Nothingがスマートグラスの新モデル二機種の発売を準備しており、両者は大きく異なるようだと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "一方のモデルはRay-Ban Metaシリーズに近く、カメラを内蔵し、翻訳などのAI機能を備える。Androidに熱心なNothingならAndroid XRの流れに乗りそうに思えるが、QuandtによればGeminiではなくChatGPTとの連携を備えるというから、そうではなさそうだ。ただ、これはNothingにとって新たな方針転換ではない。同社はしばらく前から他の製品でもChatGPT連携を進めてきた。"
+        },
+        {
+          "t": "p",
+          "x": "一方、もう一つのスマートグラスははるかにシンプルな方向性を取るという。"
+        },
+        {
+          "t": "p",
+          "x": "こちらは通話に応答したりスマートフォンの音声アシスタントを操作したりできるヘッドホンのように機能するが、カメラや直接的なAI連携は備えない。両モデルとも、他のスマートグラスでもよく見られる、いわゆる“transition”レンズと呼ばれる調光レンズを採用するとされる。"
+        },
+        {
+          "t": "p",
+          "x": "Nothingのスマートグラスをめぐる以前の報道では、発売時期は2027年中とされていた。今回の二本立て戦略は確かに興味深い。Nothingが今後AIデバイスに全面的に注力するという最近の報道を踏まえればなおさらだ。"
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-zoom": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GoogleはPixel 11 Proで、Pixel 10 Proの100xから引き上げた120xのPro Resズームを提供する。Googleは、明るくなった望遠カメラが生成AIと組み合わさることで、より遠くからより多くのディテールを捉えられると主張する。Android Authorityは一週間かけて、看板、建造物、野生動物、人物で試した。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
+          "cap": "120xでは、Delhi（デリー）にある築800年のミナレットのカリグラフィーなどのディテールが見える。"
+        },
+        {
+          "t": "p",
+          "x": "遠くの文字や建築の彫刻は読み取れる程度に写ったが、デジタルのシャープ処理や平滑化が目立ち、絵画のような質感になった。AIは窓ガラスに存在しない模様まで作り出した。暗い場所では、小さな文字はまったく判読できない文字列になった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
+          "cap": "湖にいる黒い鳥を120x AI-enhanced ズームで撮影。"
+        },
+        {
+          "t": "p",
+          "x": "野生動物では毛や羽根はもっともらしく見えたが、不気味の谷に寄っていた。極端なズームではGoogleの処理が欠けたディテールを補うため、結果は存在しないディテールを生み出しうる近似にすぎない。Pixel 11 Proは、フレーム内に人物を検出すると生成アップスケーリングを明示的に行わない。"
+        },
+        {
+          "t": "p",
+          "x": "結論：マーケティング上のギミック以上のもので、遠くの物を確かめるには便利だが、長い望遠レンズの代わりにはならない。期待はほどほどにしておきたい。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ps5-local-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+          "cap": "(画像出典：Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "Redditユーザーのu/AdIllustrious7246が、脱獄したPS5sでAI LLMsをローカル実行するllama.cppの移植版PS5LMのフォークを公開した。コンソール上でネイティブに動作し、GPUを使ってQwen3.8-27B などの大きなモデルを毎秒20トークンで動かす。"
+        },
+        {
+          "t": "p",
+          "x": "GitHubユーザーcobanovによる元の移植版はCPU上のペイロードとして動き、それ以上確保するとホーム画面がフリーズするため、RAMの利用は約6.25 GiBに制限される。フォークは代わりにRADVグラフィックスドライバーの移植版であるPS5_Vulkanを使い、通常はロックされているPS5のGPUに命令を届ける。"
+        },
+        {
+          "t": "p",
+          "x": "GPU上でネイティブに動くため最大11.4 GiBのRAMを使え、Gemma 4 E4BやLlama 3.2 3B などの小型モデルは毎秒61トークン、124トークンに達する。ダッシュボードには毎秒トークン数、GPUとCPUの使用率、消費電力、温度、モデルとKVキャッシュのメモリ配分がリアルタイムで表示され、llama.cppのWeb UIを使えば他のローカル機器のブラウザからLLMとチャットできる。"
+        },
+        {
+          "t": "p",
+          "x": "コメント欄では暗号資産マイニングによるGPU不足を思い出す声もあったが、Tom's Hardwareはその可能性は低いとみる。PS5のGPUは最速でもなく、RAMも最大ではないからだ。"
+        }
+      ]
     }
   }
 }

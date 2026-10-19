@@ -1474,6 +1474,126 @@
           "x": "Meta says content owners can still manage access with robots.txt, but neither updated terms mention it. Site owners can block Meta-ExternalAgent, its AI training crawler, while allowing Meta-WebIndexer."
         }
       ]
+    },
+    "marketing/marketing-nationaltrust": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+          "cap": "Cartoon · AI-generated"
+        },
+        {
+          "t": "p",
+          "x": "The National Trust has suspended all advertising on TikTok after a run of AI-generated promotional videos appeared without the charity's approval. According to the charity, the adverts were created in error by TikTok Ads and were never meant to go live."
+        },
+        {
+          "t": "p",
+          "x": "In a statement on LinkedIn, the Trust said it had paused its TikTok activity while it investigated. A spokesperson told Civil Society it was working directly with TikTok to understand the incident and put extra safeguards in place."
+        },
+        {
+          "t": "p",
+          "x": "Marketers said the AI-made videos sat awkwardly beside the Trust's established identity. Charlotte Anstee of Ocean said local social media teams had previously been told there was an AI ban. Alex Pollard of Pollard Media noted the charity's extensive image archive."
+        },
+        {
+          "t": "p",
+          "x": "Harri Brown, co-founder of Antler Social, said advertisers can avoid unexpected AI assets by disabling the setting that automatically adds newly generated material during delivery, and remove any already inserted manually."
+        }
+      ]
+    },
+    "marketing/marketing-meta": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta now offers 15 always-on standard topics in Reels Trending Ads, the format that places an ad immediately after the most-watched and most culturally relevant Reels on Facebook and Instagram. New categories include Home & Garden and Spanish-language content."
+        },
+        {
+          "t": "p",
+          "x": "Meta announced the update at its Brand Building Summit on 16 October. Advertisers can also choose seasonal lineups built around the holidays and the start of the football and basketball seasons. Custom audience exclusions arrive later this year, letting a campaign leave chosen custom audiences out."
+        },
+        {
+          "t": "p",
+          "x": "Meta says campaigns that included Reels Trending Ads increased action intent by more than 5 percentage points against control groups, with an incremental 5 percentage point lift in unaided brand awareness. Both figures are Meta's own."
+        },
+        {
+          "t": "p",
+          "x": "Meta opened the format to all advertisers globally in September 2025, saying it uses AI to place ads directly after top-trending, creator-generated Reels. The approach is close to TikTok's Pulse family. Reels make up more than half of all time spent on Instagram, according to the company."
+        }
+      ]
+    },
+    "marketing/marketing-salesforce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Demandbase said on October 15, 2026, that Salesforce has named it a launch data partner for Hunter, the outbound sales agent Salesforce is still piloting. Hunter users get Demandbase engagement, person, account, buying group and intent data inside Salesforce \"with no additional contracts required for the data within Salesforce.\""
+        },
+        {
+          "t": "p",
+          "x": "The integration uses the Demandbase MCP server, so sales reps can prompt Demandbase in natural language within Agentforce to identify and prioritize the most engaged prospects. \"Sales teams can only act on the signals they can see,\" said Salesforce VP of Product Management Rohan Punamia."
+        },
+        {
+          "t": "p",
+          "x": "\"Hunter is currently in pilot, with general availability planned later this year,\" the release says, with no month given. It gives no price for Hunter, no data scope, and no statement on exclusivity. \"No additional contracts\" is also not the same as \"no additional cost.\""
+        }
+      ]
+    },
+    "marketing/marketing-cheq": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
+          "cap": "Dado Ruvic/Reuters"
+        },
+        {
+          "t": "p",
+          "x": "This coming holiday season, brands will have a new type of shopper to court: AI agents."
+        },
+        {
+          "t": "p",
+          "x": "Cheq, a cybersecurity company that verifies AI shopping agents, says it recorded a 100x surge in agentic traffic over a 45-day period following the release of consumer AI agents like Instinct and Meta's Muse. While agents still make up a small fraction of online shoppers, they're growing quickly, especially among a constant drumbeat of consumer agent releases, Cheq CEO Guy Tytunovich said."
+        },
+        {
+          "t": "p",
+          "x": "But not everyone is on board: Amazon and eBay have blocked agents to reinforce control over their ads businesses and checkout experiences."
+        },
+        {
+          "t": "img",
+          "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
+          "cap": "A chart showing how likely US adults are to use AI to shop."
+        },
+        {
+          "t": "p",
+          "x": "Consumers are hesitant, too. Shoppers are now as likely to be swayed by an agent's recommendation as by an influencer, Morning Consult finds, but few are comfortable letting AI make purchases on their behalf. This holiday season will be the first true test of which brands are best at displaying their wares in ways that agents find irresistible."
+        }
+      ]
+    },
+    "marketing/marketing-meta-terms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+          "cap": "Image Credits: picture alliance / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Meta recently updated its commercial terms of use, declaring that the company can “use any content from [a business account’s] domains, web pages, or URLs to provide, develop, improve, research, train, and maintain the integrity of” Meta products and services."
+        },
+        {
+          "t": "p",
+          "x": "According to legal experts interviewed by Nieman Lab, this looked like a “remarkable provision” that could give Meta permission to scrape the website of any publisher with a Meta business account and use the content to train the company’s AI models. (While Meta defeated a high-profile lawsuit over alleged copyright infringement last year, other cases against AI companies, including Meta, continue.)"
+        },
+        {
+          "t": "p",
+          "x": "However, a Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web. And now, The Verge reports that the provision has been removed."
+        },
+        {
+          "t": "p",
+          "x": "“We’ve heard you and want to clarify: the crawling terms we consolidated only applied to our ads and business products, and we’ve clarified that in the terms themselves,” the company said in a statement. “It does not change how Meta uses web crawlers.”"
+        }
+      ]
     }
   }
 }

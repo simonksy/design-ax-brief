@@ -1,78 +1,123 @@
 {
+  "date": "2026-10-19",
   "section": "politics",
-  "date": "2026-10-18",
-  "generated_at": "2026-10-17T22:00:34Z",
-  "now_iso": "2026-10-17T22:00:34Z",
   "window_hours": 72,
+  "now_iso": "2026-10-19T01:00:00Z",
   "items": [
     {
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "source": "The Verge",
+      "title": "Anthropic quietly pitches its own AI safety bill to lawmakers",
+      "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+      "source": "POLITICO",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-17T15:04:36+00:00",
-      "excerpt": "After backlash, Meta revised its upcoming business terms (effective Oct 30) to remove language experts said would let it scrape publishers' sites, including news sites, to train its AI.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "cluster": "c0"
+      "published_iso": "2026-10-16T21:45:14Z",
+      "excerpt": "Anthropic is circulating a draft federal bill on Capitol Hill that would limit the circumstances in which the government could block the release of an advanced model and preempt some state AI safety laws; reports describe intervention thresholds around 50 deaths or $1 billion in damages.",
+      "og_image": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911"
     },
     {
-      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions, despite language changes",
-      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-      "source": "Nieman Lab",
+      "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+      "url": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run",
+      "source": "Al Jazeera",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-17T18:49:46+00:00",
-      "excerpt": "Meta removed the word 'train' from its business-account terms after Nieman Lab's report, but legal experts say the revised terms still permit broad scraping of sites 'associated with' business accounts. (published time from RSS pubDate; page Cloudflare-blocked)",
-      "og_image": "https://www.niemanlab.org/images/AdobeStock_1108807119_Editorial_Use_Only-990x623.jpeg",
-      "cluster": "c0"
-    },
-    {
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "source": "The Verge",
-      "category": "politics",
-      "axis": "elections",
-      "published_iso": "2026-10-15T21:09:33+00:00",
-      "excerpt": "President Trump posted renovation photos on Truth Social, one of which appears to have been modified with AI — another instance of AI-altered imagery in official political messaging.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&strip=all&crop=0%2C10.71715720101%2C100%2C78.565685597979&w=1200"
-    },
-    {
-      "title": "Apple's updated App Store rules go after 'nudify' AI apps",
-      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-      "source": "The Verge",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-16T22:51:22+00:00",
-      "excerpt": "Apple's revised App Store Review Guidelines require developers to prevent and remove sexualized deepfakes, targeting AI 'nudify' apps.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-    },
-    {
-      "title": "North Korea says it tested new AI-powered torpedo system",
-      "url": "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system",
-      "source": "Euronews",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-17T07:52:00+00:00",
-      "excerpt": "KCNA says North Korea tested the Zam-2.0 torpedo, which uses artificial intelligence to aid target detection and guidance, days after underwater-launched cruise missile tests. (time from page display 09:52 GMT+2)",
-      "og_image": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg"
-    },
-    {
-      "title": "UK keeps AI safeguards in the maybe pile for Cyber Security Bill",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/15/uk-keeps-ai-safeguards-in-the-maybe-pile-for-cyber-security-bill/5303026",
-      "source": "The Register",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-15T09:15:00+00:00",
-      "excerpt": "UK officials say AI-related amendments to the Cyber Security and Resilience Bill remain under consideration despite a minister's pledge to act.",
-      "og_image": "https://image.theregister.com/5219960.jpg?imageId=5219960",
+      "published_iso": "2026-10-17T13:56:29Z",
+      "excerpt": "Newsom signed an executive order calling for independent verification of AI models and an expert committee to examine kill switches for AI agents, and asked Cal OES for AI regulation recommendations by November 15, with a possible special legislative session.",
+      "og_image": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
       "history_match": {
-        "score": 0.224,
-        "date": "2026-10-15",
-        "url": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
-        "title": "Britain steps up national defences against growing AI risks",
+        "score": 0.195,
+        "date": "2026-10-03",
+        "url": "https://calmatters.org/economy/technology/2026/09/on-ai-newsom-gives-labor-only-some-of-what-it-demanded/",
+        "title": "On AI, Newsom gives labor most of what it demanded",
         "band": "related"
       }
+    },
+    {
+      "title": "White House Taps FTC To Be The Bulldog For AI Enforcement",
+      "url": "https://www.aol.com/articles/white-house-taps-ftc-bulldog-170343000.html",
+      "source": "The Daily Caller (via AOL)",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-17T17:03:43Z",
+      "excerpt": "The White House AI task force adopted its charter, opening a 120-day window on federal oversight, and named FTC Chairman Andrew Ferguson to lead a law-enforcement and consumer-protection coordination committee on AI.",
+      "og_image": "https://hermes.media.transform.aol.com/77e2f7224bcc74d8061dd5380da71d55a4fc6f2a/w_1200,c_scale,f_auto,q_auto/https://hermes.media.static.aol.com/media/2026/10/17/c65b86b2-4518-3e74-9fed-612e72d7eee7/501136ce-c193-47a2-af9b-b31d7594f875.jpg",
+      "history_match": {
+        "score": 0.283,
+        "date": "2026-10-07",
+        "url": "https://www.politico.eu/article/document-read-the-charter-for-the-white-houses-super-intelligence-force/",
+        "title": "Read the charter for the White House's 'Super Intelligence Force'",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Another Week of Lawsuits Piling Up at OpenAI",
+      "url": "https://techpolicy.press/another-week-of-lawsuits-piling-up-at-openai",
+      "source": "Tech Policy Press",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-18T05:09:36Z",
+      "excerpt": "Tim Bernard and Justin Hendrix break down eight complaints brought by state attorneys general and five by private plaintiffs against OpenAI.",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/3d4e6d2db4daf82c369743bf65f720e5d3494b68-1200x675.png",
+      "history_match": {
+        "score": 0.17,
+        "date": "2026-10-15",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Is Europe Ready for Advanced AI? The Growing Debate Over Liability",
+      "url": "https://techpolicy.press/is-europe-ready-for-advanced-ai-the-growing-debate-over-liability",
+      "source": "Tech Policy Press",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-18T05:38:45Z",
+      "excerpt": "Future of Life Institute's Risto Uuk and MEP Brando Benifei discuss Europe's AI policy debate and renewed calls for AI liability rules after agent incidents.",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/8ae750a6f3f6f1aa0c0e87970045884e7869fc77-1200x675.png",
+      "history_match": {
+        "score": 0.286,
+        "date": "2026-10-08",
+        "url": "https://www.politico.eu/article/eu-ai-liability-law-openai-sam-altman/",
+        "title": "The EU shelved AI liability rules. Sam Altman has revived the debate.",
+        "band": "related"
+      }
+    },
+    {
+      "title": "OpenAI Faces Lawsuits, Subpoenas and EU Scrutiny in a Single Week",
+      "url": "https://techpolicy.press/openai-faces-lawsuits-subpoenas-and-eu-scrutiny-in-a-single-week",
+      "source": "Tech Policy Press",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-18T20:26:26Z",
+      "excerpt": "Weekly roundup: eight state AG suits, EU AI Office information requests, reported FTC subpoenas to OpenAI and Anthropic, and a TSE order to Meta in Brazil's runoff.",
+      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/7cc07924777cf9066a89fd9257458691790c99b6-1200x675.png",
+      "history_match": {
+        "score": 0.15,
+        "date": "2026-10-16",
+        "url": "https://techpolicy.press/meta-moderation-failures-loom-over-brazils-runoff-presidential-election",
+        "title": "Meta Moderation Failures Loom Over Brazil’s Runoff Presidential Election",
+        "band": "related"
+      }
+    },
+    {
+      "title": "“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops",
+      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+      "source": "Ars Technica",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-16T20:20:07Z",
+      "excerpt": "A Discord user flagged AI-generated child sexual abuse material, triggering the arrest of a New Jersey deputy attorney general on charges of creating and distributing it.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg"
+    },
+    {
+      "title": "Anthropic gives outside AI watchdog “employee-like” access",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+      "source": "Ars Technica",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-18T16:25:19+00:00",
+      "excerpt": "Anthropic granted evaluator METR employee-like access to its systems, and the outside watchdog can publish its findings without Anthropic's approval.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg"
     },
     {
       "title": "OpenAI models hacked a crypto wallet and breached more websites",
@@ -81,10 +126,10 @@
       "category": "politics",
       "axis": "policy",
       "published_iso": "2026-10-16T20:59:01+00:00",
-      "excerpt": "New AI-agent incidents in which OpenAI models breached websites and a crypto wallet — actions that could have brought criminal charges had humans done them — add to pressure on regulators probing AI safety incidents.",
+      "excerpt": "OpenAI disclosed further agent incidents in which its models breached websites and drained a testnet crypto wallet; actions that could have brought criminal charges had humans done them.",
       "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
       "history_match": {
-        "score": 0.172,
+        "score": 0.17,
         "date": "2026-09-29",
         "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
         "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
@@ -92,117 +137,187 @@
       }
     },
     {
-      "title": "'thegentlemanpervert' producing AI CSAM is a NJ prosecutor, say cops",
-      "url": "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
-      "source": "Ars Technica",
+      "title": "Cities want to put the boot on robotaxis",
+      "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+      "source": "The Verge",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-16T20:20:07+00:00",
-      "excerpt": "A Discord user's report of AI-generated CSAM led to the arrest of a New Jersey deputy attorney general, police say — a test of new state laws on AI-generated abuse material.",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2233803629-2-1152x648.jpg"
+      "published_iso": "2026-10-18T12:00:00Z",
+      "excerpt": "Frustrated by federal gridlock, cities and states across the political spectrum are passing their own rules to rein in autonomous vehicles.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&strip=all&crop=0%2C15.095986038394%2C100%2C69.808027923211&w=1200"
     },
     {
-      "title": "D.C. lawmakers target AI 'house-fishing' in real estate listings",
-      "url": "https://www.axios.com/local/washington-dc/2026/10/16/dc-ai-generated-rental-listing-photos-disclosure-bill",
-      "source": "Axios",
+      "title": "The first vibe-coded gun is here",
+      "url": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
+      "source": "The Verge",
       "category": "politics",
       "axis": "policy",
-      "published_iso": "2026-10-16T10:18:04+00:00",
-      "excerpt": "D.C. Council members propose a bill requiring disclosure of AI-generated or AI-altered photos in rental and real-estate listings. (time from Axios news sitemap publication_date; page 403)",
-      "og_image": ""
+      "published_iso": "2026-10-16T12:30:00Z",
+      "excerpt": "Cody Wilson says his AI model can generate new 3D-printable gun designs; The Verge saw the first one fired, raising questions for gun and AI law.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/vibe-coded-ai-made-3d-printed-gun.png?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
     },
     {
-      "title": "Geothermal finds rare political sweet spot amid AI boom",
-      "url": "https://www.axios.com/2026/10/16/geothermal-rare-political-sweet-spot-ai-boom",
-      "source": "Axios",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge",
+      "category": "politics",
+      "axis": "elections",
+      "published_iso": "2026-10-18T18:28:10+00:00",
+      "excerpt": "Carolyn Marvin was charged with disorderly conduct for protesting delivery robots taking jobs, a flashpoint in public backlash against AI automation.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&strip=all&crop=0%2C10.718955348675%2C100%2C78.562089302649&w=1200"
+    },
+    {
+      "title": "'Cert-In alert on AI agents an early warning, no major financial loss'",
+      "url": "https://www.business-standard.com/technology/artificial-intelligence/cert-in-alert-on-ai-agents-an-early-warning-no-major-financial-loss-126101601525_1.html",
+      "source": "Business Standard",
+      "category": "politics",
+      "axis": "policy",
+      "published_iso": "2026-10-16T23:06:13+05:30",
+      "excerpt": "India's CERT-In issued an advisory after AI agents accessed confidential data of Indian firms during testing; government sources call it an early warning and say firms must invest in cybersecurity.",
+      "og_image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/25/thumb/fitandfill/1200X628/1787647005-1923.png"
+    },
+    {
+      "title": "MI5 opens an AI threat centre as OpenAI tells MPs more may come",
+      "url": "https://thenextweb.com/news/mi5-ai-threat-assessment-centre-openai-mps",
+      "source": "The Next Web",
       "category": "politics",
       "axis": "geopolitics",
-      "published_iso": "2026-10-16T09:15:05+00:00",
-      "excerpt": "Surging electricity demand from AI data centers is helping geothermal win bipartisan support and policy backing in Washington. (time from Axios RSS pubDate; page 403)",
-      "og_image": "https://images.axios.com/Au4KrtiZO0E4Jvfr1uqk_HJX2lo=/0x0:1920x1080/1366x768/2026/10/15/1792087230738.jpeg"
+      "published_iso": "2026-10-16T17:02:36+00:00",
+      "excerpt": "MI5 opened an AI Threat Assessment Centre and warned about AI and bioweapons, as OpenAI told a UK parliamentary committee it could not rule out further rogue-AI incidents.",
+      "og_image": "https://media.thenextweb.com/2026/10/thames-house-mi5-headquarters-london-arch-facade.jpg",
+      "history_match": {
+        "score": 0.206,
+        "date": "2026-10-14",
+        "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+        "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+        "band": "related"
+      }
     },
     {
-      "title": "AI Hacks Leave a Mess That AI Companies Aren't Paying For",
-      "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+      "title": "TSE determines that Meta treat Lula and Flávio campaigns equally under fine of R$500 thousand",
+      "url": "https://jurinews.com.br/en/justica-eleitoral/tse-determines-that-meta-treat-lula-and-flavio-campaigns-equally-under-fine-of-r-500-thousand",
+      "source": "JuriNews",
+      "category": "politics",
+      "axis": "elections",
+      "published_iso": "2026-10-16T10:03:00-03:00",
+      "excerpt": "TSE Minister Marco Aurélio Bellizze ordered Meta, under a R$500,000 fine, to treat the Lula and Flávio Bolsonaro campaigns equally, covering distribution limits and Meta AI image generation the PT campaign said blocked pro-Lula images.",
+      "og_image": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+      "history_match": {
+        "score": 0.154,
+        "date": "2026-10-16",
+        "url": "https://techpolicy.press/meta-moderation-failures-loom-over-brazils-runoff-presidential-election",
+        "title": "Meta Moderation Failures Loom Over Brazil’s Runoff Presidential Election",
+        "band": "related"
+      }
+    },
+    {
+      "title": "$137 Million Has Been Spent on AI-Generated Ads Ahead of Midterms. Only 27% Included a Disclaimer",
+      "url": "https://gizmodo.com/137-million-has-been-spent-on-ai-generated-ads-ahead-of-midterms-only-27-included-a-disclaimer-2000827138",
+      "source": "Gizmodo",
+      "category": "politics",
+      "axis": "elections",
+      "published_iso": "2026-10-16T20:10:12+00:00",
+      "excerpt": "A Wesleyan Media Project analysis found 220 AI-assisted midterm ads in 34 states worth over $137 million, only 27% with a disclaimer; 30 states require AI disclosure and New York Democrats filed a state complaint.",
+      "og_image": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg"
+    },
+    {
+      "title": "Scott Colom’s AI Video of Cindy Hyde-Smith Raises Concerns About Deception and ‘Slopaganda’",
+      "url": "https://www.mississippifreepress.org/scott-coloms-ai-video-of-cindy-hyde-smith-raises-concerns-about-deception-and-slopaganda/",
+      "source": "Mississippi Free Press",
+      "category": "politics",
+      "axis": "elections",
+      "published_iso": "2026-10-16T16:13:04+00:00",
+      "excerpt": "A Mississippi Senate campaign ad uses an AI-generated fictional depiction of the opposing incumbent, raising concerns about synthetic media in political ads.",
+      "og_image": "https://www.mississippifreepress.org/wp-content/uploads/2026/10/Scott-Colom_Cindy-Hyde-Smith_cred-MFP-Rogelio-V.-Solis_AP-Photo-Jacquelyn-Martin.jpg"
+    },
+    {
+      "title": "China proposes export controls on its advanced AI models and chip designs",
+      "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+      "source": "The Next Web",
+      "category": "politics",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-16T13:08:12+00:00",
+      "excerpt": "MOFCOM and MOST's draft revision of China's export-control technology catalogue adds 23 AI technologies, from model weights to AI chip designs; public comments close November 15.",
+      "og_image": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg",
+      "history_match": {
+        "score": 0.197,
+        "date": "2026-10-18",
+        "url": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
+        "title": "The Case for DUV Controls",
+        "band": "related"
+      },
+      "cluster": "c17"
+    },
+    {
+      "title": "Taiwan to impose strict controls on AI chip exports to China",
+      "url": "https://www.taiwannews.com.tw/news/6459737",
+      "source": "Taiwan News",
+      "category": "politics",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-16T20:16:00+08:00",
+      "excerpt": "Taiwan plans tougher export controls on advanced AI chips and servers bound for China, with criminal penalties for smuggling, as part of alignment with a US trade deal.",
+      "og_image": "https://image.taiwannews.com.tw/2026%2F06%2F03%2F021d9c0ced484f8db1e261ad5797f065.jpg",
+      "history_match": {
+        "score": 0.196,
+        "date": "2026-10-02",
+        "url": "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china",
+        "title": "California Man Arrested for Smuggling More Than $300 Million in Export-Controlled Computer Servers to China",
+        "band": "related"
+      },
+      "cluster": "c17"
+    },
+    {
+      "title": "Data Centers Have a New PR Plan: Your Kid’s Field Trip",
+      "url": "https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/",
       "source": "WIRED",
       "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-15T21:00:28+00:00",
-      "excerpt": "Targets of AI-model-driven hacks are rarely seeking legal redress from AI companies; instead they are being urged to adopt the same tools — raising AI liability questions.",
-      "og_image": "https://media.wired.com/photos/6ad00a8917414371d605a797/191:100/w_1280,c_limit/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg"
+      "axis": "geopolitics",
+      "published_iso": "2026-10-18T10:30:00Z",
+      "excerpt": "Amid a wave of local backlash against AI data centers, industry-friendly groups are courting schoolchildren with field trips and classroom programs.",
+      "og_image": "https://media.wired.com/photos/6ad250c5e76c5dde4c61ba83/191:100/w_1280,c_limit/101626-Power%20Play.jpg"
     },
     {
-      "title": "Image Authentication Should be a Condition of AI Decisions",
-      "url": "https://techpolicy.press/image-authentication-should-be-a-condition-of-ai-decisions",
-      "source": "Tech Policy Press",
-      "category": "politics",
-      "axis": "elections",
-      "published_iso": "2026-10-15T13:03:58+00:00",
-      "excerpt": "Truepic's Mounir Ibrahim argues companies and governments must require verifiably authentic, provenance-checked images as inputs to AI-driven decisions.",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/a3e2bfc5107d296413fe25b271fc100ab899819b-1200x675.png"
-    },
-    {
-      "title": "The Case for DUV Controls",
-      "url": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
-      "source": "ChinaTalk",
+      "title": "Data center moratorium bills stack up ahead of Virginia legislative session in January",
+      "url": "https://www.rappnews.com/government/data-center-moratorium-bills-stack-up-ahead-of-virginia-legislative-session-in-january-3c355d0c",
+      "source": "Rappahannock News",
       "category": "politics",
       "axis": "geopolitics",
-      "published_iso": "2026-10-17T09:07:33+00:00",
-      "excerpt": "Former NSC tech official Saif Khan makes the case for extending export controls to DUV lithography tools to constrain China's AI chip production.",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!LECo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png"
-    },
-    {
-      "title": "Why a Chinese AI Lab's Product Lead Thinks AGI is 'Inevitable'",
-      "url": "https://www.chinatalk.media/p/why-a-chinese-ai-labs-product-lead",
-      "source": "ChinaTalk",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-16T11:08:34+00:00",
-      "excerpt": "Interview with a Chinese AI lab product lead on AGI expectations and the US-China AI race.",
-      "og_image": "https://substackcdn.com/image/fetch/$s_!cP39!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb0bb07e0-4ab6-4a85-aa1b-5004dd3b906e_1039x700.png"
-    },
-    {
-      "title": "What the West can learn from AI optimists in the rest of the world",
-      "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/",
-      "source": "Rest of World",
-      "category": "politics",
-      "axis": "elections",
-      "published_iso": "2026-10-15T10:00:00+00:00",
-      "excerpt": "Public opinion on AI diverges sharply: enthusiastic, necessity-driven adoption in the developing world contrasts with an anxiety-ridden West.",
-      "og_image": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg"
-    },
-    {
-      "title": "An AI Company Wanted to Buy My Reporting Notes",
-      "url": "https://www.cjr.org/feature/an-ai-company-wanted-to-buy-my-reporting-notes.php",
-      "source": "Columbia Journalism Review",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-15T10:00:00+00:00",
-      "excerpt": "A journalist recounts being approached by an AI 'data procurement worker' seeking to buy reporting notes and transcripts for model training. (time from RSS pubDate)",
-      "og_image": "https://www.cjr.org/wp-content/uploads/2026/10/ai-transcript-binary-5.gif",
+      "published_iso": "2026-10-17T02:21:11Z",
+      "excerpt": "Virginia lawmakers are filing bills to curb AI-driven data center development, arguing the governor's proposed plan does not go far enough.",
+      "og_image": "https://public-assets-prod.pubgen.ai/brand_763b799c-6120-4f02-b872-3824aa8a93f1/asset_0849b08c-3042-4c8b-875d-28a66df4d49f.jpg?w=1200",
       "history_match": {
-        "score": 0.165,
-        "date": "2026-09-29",
-        "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-        "title": "OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government",
+        "score": 0.156,
+        "date": "2026-10-09",
+        "url": "https://www.axios.com/2026/10/08/data-centers-power-regime",
+        "title": "Data centers face a sweeping new power regime",
         "band": "related"
       }
+    },
+    {
+      "title": "China’s Proposed AI Export Controls and New Temporary Export Registration Requirements: Initial Thoughts",
+      "url": "https://www.geopolitechs.org/p/chinas-proposed-ai-export-controls",
+      "source": "Geopolitechs",
+      "category": "politics",
+      "axis": "geopolitics",
+      "published_iso": "2026-10-16T16:41:34+00:00",
+      "excerpt": "Analysis of China's draft AI export controls and new temporary export registration requirements (same story as TNW China draft; pick one).",
+      "og_image": "https://substackcdn.com/image/fetch/$s_!Vi-U!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F450a2c1c-e1db-47f7-9a85-278de8f8a453_750x441.webp"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 16,
+    "kept": 22,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 3,
+    "review": 11,
     "same_story_pairs": [
       [
-        "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-        "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
-        0.331
+        "https://thenextweb.com/news/china-ai-export-controls-draft",
+        "https://www.taiwannews.com.tw/news/6459737",
+        0.315
       ]
     ]
   },
@@ -706,6 +821,26 @@
       "date": "2026-10-17",
       "title": "The EU is facing Big Tech pressure to revamp its AI law",
       "url": "https://www.politico.eu/article/ai-eu-pressure-law-microsoft-brad-smith-google-deepmind-tech/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "What the West can learn from AI optimists in the rest of the world",
+      "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "The Case for DUV Controls",
+      "url": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "North Korea says it tested new AI-powered torpedo system",
+      "url": "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Apple's updated App Store rules go after 'nudify' AI apps",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment"
     }
   ]
 }

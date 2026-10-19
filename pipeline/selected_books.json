@@ -1,79 +1,63 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "books",
   "picks": [
     {
-      "url": "https://janefriedman.com/us-copyright-office-starts-to-question-authors-about-potentially-ai-generated-work/",
-      "title": "US Copyright Office starts to question authors about potentially AI-generated work",
-      "source": "Jane Friedman",
+      "url": "https://www.donga.com/news/Culture/article/all/20261018/134863199/2",
+      "title": "“이 소설, 당신이 썼나요” AI 시대 맞은 문학상, ‘작가 검증’ 나섰다",
+      "source": "동아일보",
       "category": "books",
-      "published_iso": "2026-10-07T16:00:00+00:00",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png",
-      "excerpt": "Humans are checking every manuscript and, in some instances, the Copyright Office sends a follow-up email asking the author to clarify their use of AI.",
-      "source_lang": "en",
+      "published_iso": "2026-10-19T04:30:00+09:00",
+      "og_image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png",
+      "excerpt": "국내 한 장편소설 공모전 최종심 작품이 작가의 실제 집필 과정 검증에서 의문이 제기돼 수상 기회를 잃는 등, 문학상들이 AI 시대를 맞아 심사에 '작가 검증' 절차를 도입하고 있다.",
+      "source_lang": "ko",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "A concrete procedural change: the US Copyright Office is checking manuscripts by hand and emailing authors to clarify their AI use, which changes how authors file registrations."
+      "rationale": "A new concrete event: a Korean novel-contest finalist lost the prize after failing a check of the author's writing process, and Korean literary prizes are adding author-verification steps to judging."
     },
     {
-      "url": "https://www.donga.com/news/It/article/all/20261017/134859201/1",
-      "title": "“AI 때문에 내 책 안 팔리면 저작권 침해?”…美 연구진 반론",
-      "source": "동아일보",
+      "url": "https://www.venturesquare.net/1119763/",
+      "title": "플리토, 교보문고 광화문·강남·동대문점에 AI 통번역 ‘보글’ 적용…외국인 고객 응대 실증",
+      "source": "벤처스퀘어",
       "category": "books",
-      "published_iso": "2026-10-17T20:57:57+09:00",
-      "og_image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/17/134859202.1.jpg",
-      "excerpt": "UC버클리 파멜라 새뮤얼슨 교수 연구진이 사이언스에 낸 논문에서, AI가 인간 작가의 책 시장을 잠식한다는 '시장 희석' 이론은 실제 피해 입증이 어렵고 저작권 원칙과 충돌한다며 소송보다 입법으로 풀어야 한다고 지적했다.",
+      "published_iso": "2026-10-14T10:27:20+09:00",
+      "og_image": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-696x522.jpg",
+      "excerpt": "플리토가 교보문고 3개 매장에 도서 분류명·작가명을 사전 학습한 AI 통번역 '보글'을 공급해 외국인 고객 응대 실증을 진행했다. 정식 도입을 추진 중이다.",
       "source_lang": "ko",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "A new Science paper by Pamela Samuelson's team challenges the 'market dilution' theory at the centre of the authors' AI copyright suits, and argues that legislation, not litigation, should settle it."
+      "rationale": "A real in-store deployment: Kyobo's three flagship bookstores ran Flitto's AI interpreter, pre-trained on book categories and author names, for foreign customers, and a full rollout is being pursued."
     },
     {
-      "url": "https://feedback.sudowrite.com/changelog/introducing-worldbuilding-images",
-      "title": "Introducing Worldbuilding Images",
-      "source": "Sudowrite",
+      "url": "https://analyticsindiamag.com/ai-features/can-naav-ai-break-englishs-hold-on-indian-literature-vikram-sampath-thinks-so",
+      "title": "Can Naav AI Break English's Hold on Indian Literature? Vikram Sampath Thinks So",
+      "source": "Analytics India Magazine",
       "category": "books",
-      "published_iso": "2026-10-07T19:34:34.549Z",
-      "og_image": "https://66f2e7f2298c40d9d4eb17c1.featurebase-attachments.com/c/static/01a1174c-0a23-7e8f-bac2-0885c12e2750/dionnxabcc.png",
-      "excerpt": "Sudowrite adds Worldbuilding Images, generating AI visuals for locations, objects and other Story Bible worldbuilding elements, following last week's Character Portraits for novelists' casts.",
+      "published_iso": "2026-10-15T11:32:36+00:00",
+      "og_image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp",
+      "excerpt": "Naav AI translates books across Indian and foreign languages with AI, then has human experts refine the output to preserve the author's voice and cultural context.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "A new product release in a novelist's tool: Story Bible can now generate images of locations and objects, not just characters, so writers can do visual worldbuilding without leaving the tool."
+      "rationale": "A new book-translation service built on a concrete workflow: AI produces the first draft and human experts refine it, aimed at moving Indian-language literature across languages."
     },
     {
-      "url": "https://www.news1.kr/it-science/internet-platform/6320039",
-      "title": "웹툰·웹소설을 AI 애니로…카카오픽코마 '탈웹툰' 승부수",
-      "source": "뉴스1",
+      "url": "https://www.tomsguide.com/ai/turn-your-pdfs-into-audiobooks-with-chatgpt-heres-the-simple-trick",
+      "title": "Turn your PDFs into audiobooks with ChatGPT — here's the simple trick",
+      "source": "Tom's Guide",
       "category": "books",
-      "published_iso": "2026-10-14T17:01:52+09:00",
-      "og_image": "https://i3n.news1.kr/system/photos/2026/10/14/8158907/high.jpg",
-      "excerpt": "카카오픽코마가 웹툰·웹소설 원작을 AI 애니메이션으로 제작하는 '탈웹툰' 전략에 나섰다. AI로 영상화 비용과 기간을 줄여 IP를 확장하려는 시도.",
-      "source_lang": "ko",
+      "published_iso": "2026-10-14T04:45:00Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg",
+      "excerpt": "A new tool connects ChatGPT with AI-generated narration to turn documents and books into listenable audio.",
+      "source_lang": "en",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "A new company strategy: Kakao Piccoma will use AI to turn webtoon and web-novel IP into animation, cutting the cost and time of adaptation."
+      "rationale": "The most hands-on pick: a new tool pairs ChatGPT with AI narration so readers can turn documents and books into audio themselves."
     },
-    {
-      "url": "https://en.sedaily.com/culture/2026/10/15/culture-minister-pledges-ai-support-for-webtoon-creators",
-      "title": "Culture Minister Pledges AI Support for Webtoon Creators",
-      "source": "Seoul Economic Daily",
-      "category": "books",
-      "published_iso": "2026-10-15T10:45:01+09:00",
-      "og_image": "https://wimg.sedaily.com/news/cms/2026/10/15/news-p.v1.20261015.3e465163d1504eafb0c06a53cb70804d_P1.jpg",
-      "excerpt": "South Korea's culture ministry pledged AI support for webtoon creators, with 32.7 billion won allocated in the 2027 budget proposal.",
-      "source_lang": "en",
-      "tool": "Books",
-      "accent": "#eb367f",
-      "motif": "swatch",
-      "rationale": "A concrete government commitment: 32.7 billion won in Korea's 2027 budget proposal for AI support to webtoon creators."
-    }
-  ],
-  "alternates": [
     {
       "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-programs-explore-ais-impact-on-translation-and-the-future-of-publishing/",
       "title": "Frankfurter Buchmesse 2026: Programs Explore AI's Impact on Translation, and the Future of Publishing",
@@ -81,39 +65,55 @@
       "category": "books",
       "published_iso": "2026-10-16T12:50:20+00:00",
       "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png",
-      "excerpt": "With AI a major topic of conversation at this year's fair, research presented in Czechia's Frankfurt pavilion examined how publishing professionals use AI—and why literary translators remain concerned about their livelihoods.",
+      "excerpt": "Research presented in Czechia's Frankfurt pavilion examined how publishing professionals use AI — and why literary translators remain concerned about its effects on their livelihoods.",
       "source_lang": "en",
-      "rationale": "First backup if a pick is swapped. It belongs to the saturated Frankfurt and translation thread (ENLIT 10-11, Nippon 10-15) and was passed over on 10-17."
+      "tool": "Books",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "rationale": "New research presented in the Czech pavilion at Frankfurt, with data on how publishing professionals use AI and why literary translators are worried. It is distinct from the ENLIT funding-network story of 10-11."
+    }
+  ],
+  "alternates": [
+    {
+      "url": "https://goodereader.com/blog/e-book-news/how-to-listen-to-kindle-books-with-castreader",
+      "title": "How to Listen to Kindle Books With CastReader",
+      "source": "Good e-Reader",
+      "category": "books",
+      "published_iso": "2026-10-07T16:49:55+00:00",
+      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/07124918/Kindle_Listening_Routes.png",
+      "excerpt": "A guide to CastReader, which reads Kindle Cloud Reader books aloud with cloud AI voices and offers an 'AI Explain' reading-assistant feature for unfamiliar passages.",
+      "source_lang": "en",
+      "rationale": "Backup if a pick is swapped. It is a how-to guide and 12 days old."
     }
   ],
   "dedup": {
     "checks": {
-      "https://janefriedman.com/us-copyright-office-starts-to-question-authors-about-potentially-ai-generated-work/": {
+      "https://www.donga.com/news/Culture/article/all/20261018/134863199/2": {
         "verdict": "new",
-        "nearest": "https://www.thebookseller.com/news/intellectual-property-office-registers-uks-first-human-authored-certification-mark",
+        "nearest": "https://www.thebookseller.com/news/caine-prize-initiates-human-centred-process-after-zimbabwean-winner-accused-of-ai-use",
         "new_action": ""
       },
-      "https://www.donga.com/news/It/article/all/20261017/134859201/1": {
+      "https://www.venturesquare.net/1119763/": {
         "verdict": "new",
-        "nearest": "https://janefriedman.com/openai-seeks-to-exclude-book-market-study-citing-funding-ties-to-authors-law-firm/",
+        "nearest": "https://www.joongang.co.kr/article/25469854",
         "new_action": ""
       },
-      "https://feedback.sudowrite.com/changelog/introducing-worldbuilding-images": {
-        "verdict": "follow-up",
-        "nearest": "https://feedback.sudowrite.com/changelog/introducing-character-portraits",
-        "new_action": "New feature release: Worldbuilding Images, which generates images for Story Bible locations, objects and worldbuilding elements. It is a separate launch from the Character Portraits feature published 09-28."
-      },
-      "https://www.news1.kr/it-science/internet-platform/6320039": {
+      "https://analyticsindiamag.com/ai-features/can-naav-ai-break-englishs-hold-on-indian-literature-vikram-sampath-thinks-so": {
         "verdict": "new",
-        "nearest": "https://eu.36kr.com/en/p/4003039857055617",
+        "nearest": "https://www.donga.com/news/It/article/all/20261008/134807824/1",
         "new_action": ""
       },
-      "https://en.sedaily.com/culture/2026/10/15/culture-minister-pledges-ai-support-for-webtoon-creators": {
+      "https://www.tomsguide.com/ai/turn-your-pdfs-into-audiobooks-with-chatgpt-heres-the-simple-trick": {
         "verdict": "new",
-        "nearest": "https://www.hankyung.com/article/202610139344i",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/101375-de-marque-to-offer-ai-audiobook-capabilities-via-elevenlabs.html",
+        "new_action": ""
+      },
+      "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-programs-explore-ais-impact-on-translation-and-the-future-of-publishing/": {
+        "verdict": "new",
+        "nearest": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-enlit-network-provides-support-for-european-literary-translation-and-translators/",
         "new_action": ""
       }
     },
-    "note": "The follow-up rule was applied strictly. DROPPED. dpa on Gruffalo/Scheffler: the illustrator only says he 'intends' or is considering legal action. Nothing has been filed, so it is a development in the 09-14 story with no new concrete event. Orélien: already removed by story_dedup (Bookseller 09-24, Guardian 09-26). Jane Friedman 'About that Wired article' and Lit Hub 'Why are publishers suing...': commentary on Wired 10-10. Lit Hub 'Is It or Isn't It': commentary on the Caine Prize accusation (Bookseller 10-13). Bookseller on SoA's unchanged position and PW on writers groups backing the charter: a reaction to and re-reporting of the ethical AI charter (Bookseller 10-15). Yonhap on Anthropic using 21 Korean books: the same revelation as sedaily 10-16 ('Anthropic illegally downloaded Han Kang books'), with extra reporting only. Yonhap AI Dotbogi on used bookshops: an explainer on the saturated used-book buying thread (09-26, 10-12, 10-15). Good e-Reader on Audible features: the same launch as TechCrunch 10-02. KPI News on webtoon reader reactions: analysis built on Naver's AI character chat (inews24 09-26). LOWER SCORE, not picked: Scholarly Kitchen guest post (opinion), Hankyung interview with Mirae-N's CEO (corporate profile), ANN on the Japan actors union (voice acting, weak fit for books), Publishing Perspectives Frankfurt research (kept as the alternate). Outlets: 5 distinct, one each. No duplicate URLs."
+    "note": "DROPPED. Seoul Economic Daily 'AI Copyright Bills Stall as Google Buys Up Korean Books': part of the saturated thread on Korean books bought for AI training and copyright (joongang 10-12 and 10-15, sedaily 10-16 and 10-17, yna 10-17). Google 'negotiating' and bills that are still stalled are not a new filing or deal. Bookseller on SoA's unchanged position: a reaction to the ethical AI charter (Bookseller 10-15), with no new release. Lit Hub 'Why are publishers suing...': an essay on the publishers-adopting-AI story (Wired 10-10), and it was already dropped on 10-18. Not picked for a weak fit with books or AI being incidental: ANN on the Japan actors union (voice acting, not books), and WIRED's Maka (a kids' video platform where AI slop is only the backdrop). Lower score: Scholarly Kitchen guest post (opinion; related to the 09-25 peer-review post), PW 'Three Views of Innovation' (10-08, older and part of the saturated Frankfurt thread), Good e-Reader CastReader guide (kept as the alternate). The Donga prize story is a new concrete event, a Korean contest finalist losing the prize after author verification, not a follow-up on Caine or Orélien. Outlets: 5 distinct, one each. No duplicate URLs. Translation spans research, retail and a startup service, three different angles."
   }
 }

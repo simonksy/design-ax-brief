@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "science",
   "cards": [
     {
-      "id": "science-claude-quantum-circuits",
+      "id": "science-mit-crystal-text-model",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Claude가 설계한\n더 가벼운 양자 회로",
-      "body": "Anthropic·Harvard의 Claude가 여덟 과제 중 일곱서 자원 줄였다.",
-      "mini_headline": "Claude, 양자 회로를 줄이다",
+      "headline": "AI가 결정 구조와\n논문을 함께 읽는다",
+      "body": "MIT 모델이 3D 원자 구조와 논문 글을 엮어 용도에 맞는 결정 소재를 찾아낸다.",
+      "mini_headline": "AI가 결정을 읽는다",
       "tool": "Science",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,181 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
-            "cap": ""
+            "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
           },
           {
             "t": "p",
-            "x": "Anthropic과 Harvard 연구팀이 Claude로 연산과 큐비트가 덜 드는 양자 회로를 설계했다. 시험 대상은 화학·최적화·물리 시뮬레이션·정수론에 쓰이는 여덟 가지 구성 요소다. 일곱 개 설계는 연구의 기준선보다 비용이 큰 양자 연산과 큐비트를 모두 줄였다. 여덟 번째 설계는 시간–메모리 절충이 더 나은 새 산술 방식을 내놓았다."
+            "x": "대규모 언어 모델에 알맞은 소재를 물어봐도 아직은 답이 신통치 않다. 소재 대부분은 텍스트가 아니라 3D로 배열된 결정 구조이고, 문헌마저 인기 있는 몇몇 결정 계열에 쏠려 있다."
           },
           {
             "t": "p",
-            "x": "재설계한 한 디코딩 회로는 Toffoli 게이트가 510만 개에서 약 440,000개로 줄었고, 최대 큐비트 수는 1,938개에서 1,837개로 내려갔다. 고정소수점 Gaussian 회로는 게이트-큐비트 곱을 39배, 선형방정식 루틴은 32배 줄였다."
+            "x": "MIT 연구진은 3D 원자 구조에 자연어 설명을 붙인 멀티모달 모델을 만들었다. 설명은 실험 논문과 제일원리 계산 데이터베이스에서 가져왔으며 조성·구조·물성·공정·잠재적 응용까지 다룬다. Nature Communications에 실린 논문에서 연구진은 이 모델이 텍스트만 쓰는 모델보다 나은 소재 설계를 찾아낸다고 밝혔다. 고체 리튬이온 배터리 전해질을 물었더니 상위 결과에 독립적으로 확인된 유망 후보가 들어 있었다."
           },
           {
             "t": "p",
-            "x": "모델에게는 아이디어 제안만 맡기지 않았다. 회로를 검증할 프로그래밍 도구와, Toffoli 게이트 수에 최대 큐비트 수를 곱해 점수를 매기는 평가기도 함께 주었다. Anthropic 블로그가 밝힌 모델은 Claude Mythos 5다. 타원곡선 산술 작업에는 사람의 프롬프트가 제한적으로만 들어갔고, 53시간이 걸렸다."
+            "x": "연구팀은 대조 학습으로 구조와 텍스트를 정렬했다. AI가 생성한(AI-generated) 설명으로 학습한 버전은 기하 구조와 텍스트를 맞추는 법을 익혔지만, 논문 텍스트만 학습한 버전은 그러지 못했다. 물성을 묘사하는 자연어 질의를 주면 모델은 그에 맞는 결정을 찾아냈고 성능도 기준 모델보다 나았다."
           },
           {
             "t": "p",
-            "x": "이번 결과는 자원 추정치이고 양자 하드웨어에서 시연한 것은 아니다. 표본 테스트만으로는 모든 입력에서 성공한다고 증명되지도 않는다. 논문은 arXiv 프리프린트로, 아직 동료 심사를 거치지 않았다."
+            "x": "“구조는 재료과학 분야의 진정한 핵심입니다.” 이 모델을 AlphaFold에 견주는 Ju Li의 말이다."
           }
         ]
       },
-      "_lead_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Claude designs leaner\nquantum circuits",
-          "body": "Anthropic and Harvard researchers used Claude to design quantum circuits that cut resources in seven of eight tasks.",
-          "mini_headline": "Claude trims quantum circuits",
+          "headline": "AI reads crystals\nand the papers about them",
+          "body": "MIT's model pairs 3D atomic structures with text from papers to find crystalline materials suited to a given use.",
+          "mini_headline": "AI reads crystals",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
-                "cap": ""
+                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "A team from Anthropic and Harvard used Claude to design quantum circuits that require fewer operations and qubits, testing the approach on eight building blocks used in chemistry, optimization, physics simulation and number theory. Seven designs reduced both costly quantum operations and qubits versus the study's baselines; the eighth produced a new approach to arithmetic with better time–memory trade-offs."
+                "x": "Asking a large language model for the right material doesn't work well yet. Most materials are 3D arrangements of crystals, not text, and the literature is biased toward a few popular classes of crystals."
               },
               {
                 "t": "p",
-                "x": "One redesigned decoding circuit needed about 440,000 Toffoli gates, down from 5.1 million, and cut peak qubits from 1,938 to 1,837. A fixed-point Gaussian circuit cut the gate-qubit product by a factor of 39, and a linear-equations routine by 32."
+                "x": "MIT researchers built a multimodal model that combines 3D atomic structures with natural-language descriptions drawn from experimental papers and first-principles computational databases, covering composition, structure, properties, processing and potential applications. In Nature Communications, they show it identifies better material designs than text-only models; asked for solid-state lithium-ion battery electrolytes, its top results included independently identified promising candidates."
               },
               {
                 "t": "p",
-                "x": "Rather than only suggesting ideas, the model got programming tools and an evaluator that checked circuits and scored Toffoli gates times peak qubits. Anthropic's blog names the model Claude Mythos 5; its elliptic-curve arithmetic work took 53 hours with limited human prompting."
+                "x": "The team used contrastive learning to align structures with text. A version trained on AI-generated descriptions learned to align geometry with text; one trained on paper text alone did not. Given a natural-language query describing a property, the model found matching crystals, outperforming a baseline."
               },
               {
                 "t": "p",
-                "x": "The results are resource estimates, not demonstrations on quantum hardware, and sampled tests do not prove every input succeeds. The paper is an arXiv preprint and has not been peer reviewed."
+                "x": "“Structure is really at the heart of the materials science field,” says Ju Li, who compares the model to AlphaFold."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Claude가 설계한\n더 가벼운 양자 회로",
-          "body": "Anthropic·Harvard의 Claude가 여덟 과제 중 일곱서 자원 줄였다.",
-          "mini_headline": "Claude, 양자 회로를 줄이다",
+          "headline": "AI가 결정 구조와\n논문을 함께 읽는다",
+          "body": "MIT 모델이 3D 원자 구조와 논문 글을 엮어 용도에 맞는 결정 소재를 찾아낸다.",
+          "mini_headline": "AI가 결정을 읽는다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
-                "cap": ""
+                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "Anthropic과 Harvard 연구팀이 Claude로 연산과 큐비트가 덜 드는 양자 회로를 설계했다. 시험 대상은 화학·최적화·물리 시뮬레이션·정수론에 쓰이는 여덟 가지 구성 요소다. 일곱 개 설계는 연구의 기준선보다 비용이 큰 양자 연산과 큐비트를 모두 줄였다. 여덟 번째 설계는 시간–메모리 절충이 더 나은 새 산술 방식을 내놓았다."
+                "x": "대규모 언어 모델에 알맞은 소재를 물어봐도 아직은 답이 신통치 않다. 소재 대부분은 텍스트가 아니라 3D로 배열된 결정 구조이고, 문헌마저 인기 있는 몇몇 결정 계열에 쏠려 있다."
               },
               {
                 "t": "p",
-                "x": "재설계한 한 디코딩 회로는 Toffoli 게이트가 510만 개에서 약 440,000개로 줄었고, 최대 큐비트 수는 1,938개에서 1,837개로 내려갔다. 고정소수점 Gaussian 회로는 게이트-큐비트 곱을 39배, 선형방정식 루틴은 32배 줄였다."
+                "x": "MIT 연구진은 3D 원자 구조에 자연어 설명을 붙인 멀티모달 모델을 만들었다. 설명은 실험 논문과 제일원리 계산 데이터베이스에서 가져왔으며 조성·구조·물성·공정·잠재적 응용까지 다룬다. Nature Communications에 실린 논문에서 연구진은 이 모델이 텍스트만 쓰는 모델보다 나은 소재 설계를 찾아낸다고 밝혔다. 고체 리튬이온 배터리 전해질을 물었더니 상위 결과에 독립적으로 확인된 유망 후보가 들어 있었다."
               },
               {
                 "t": "p",
-                "x": "모델에게는 아이디어 제안만 맡기지 않았다. 회로를 검증할 프로그래밍 도구와, Toffoli 게이트 수에 최대 큐비트 수를 곱해 점수를 매기는 평가기도 함께 주었다. Anthropic 블로그가 밝힌 모델은 Claude Mythos 5다. 타원곡선 산술 작업에는 사람의 프롬프트가 제한적으로만 들어갔고, 53시간이 걸렸다."
+                "x": "연구팀은 대조 학습으로 구조와 텍스트를 정렬했다. AI가 생성한(AI-generated) 설명으로 학습한 버전은 기하 구조와 텍스트를 맞추는 법을 익혔지만, 논문 텍스트만 학습한 버전은 그러지 못했다. 물성을 묘사하는 자연어 질의를 주면 모델은 그에 맞는 결정을 찾아냈고 성능도 기준 모델보다 나았다."
               },
               {
                 "t": "p",
-                "x": "이번 결과는 자원 추정치이고 양자 하드웨어에서 시연한 것은 아니다. 표본 테스트만으로는 모든 입력에서 성공한다고 증명되지도 않는다. 논문은 arXiv 프리프린트로, 아직 동료 심사를 거치지 않았다."
+                "x": "“구조는 재료과학 분야의 진정한 핵심입니다.” 이 모델을 AlphaFold에 견주는 Ju Li의 말이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeが設計した\nより軽い量子回路",
-          "body": "AnthropicとHarvardのClaude設計回路は八課題中七つで資源を減らした。",
-          "mini_headline": "Claude、量子回路をスリム化",
+          "headline": "AIが結晶と\nその論文を読む",
+          "body": "MITのモデルは3D原子構造と論文の文章を組み合わせ、用途に合う結晶材料を探す。",
+          "mini_headline": "AIが結晶を読む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
-                "cap": ""
+                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "AnthropicとHarvardのチームはClaudeを用いて、必要な演算と量子ビットが少ない量子回路を設計し、化学、最適化、物理シミュレーション、数論で使われる八つの構成要素で手法を検証した。七つの設計は研究のベースラインと比べ、コストの高い量子演算と量子ビットの両方を削減し、八つ目は時間とメモリのトレードオフに優れた新しい算術手法を生み出した。"
+                "x": "大規模言語モデルに適切な材料を尋ねるやり方は、まだうまく機能しない。材料の多くはテキストではなく結晶の3D配列であり、文献も一部の人気の結晶分類に偏っている。"
               },
               {
                 "t": "p",
-                "x": "再設計したある復号回路では、Toffoliゲートが510万から約440,000に減り、ピーク量子ビット数は1,938から1,837に下がった。固定小数点のGaussian回路はゲート・量子ビット積を39倍、線形方程式ルーチンは32倍縮小した。"
+                "x": "MITの研究者は、3D原子構造と自然言語の記述を組み合わせたマルチモーダルモデルを構築した。記述は実験論文と第一原理計算データベースから集めたもので、組成、構造、物性、プロセス、応用の可能性を網羅する。Nature Communicationsに掲載された論文で、このモデルはテキストのみのモデルより優れた材料設計を見つけることが示された。固体リチウムイオン電池の電解質を尋ねると、上位の結果には独立に特定されていた有望な候補が含まれていた。"
               },
               {
                 "t": "p",
-                "x": "モデルはアイデアを提案するだけでなく、プログラミングツールと、回路を検証してToffoliゲート数とピーク量子ビット数の積で採点する評価器を与えられた。AnthropicのブログはこのモデルをClaude Mythos 5としており、楕円曲線算術の作業は人間による限られたプロンプトのもとで53時間を要した。"
+                "x": "チームは対照学習で構造とテキストを対応づけた。AIが生成した記述（AI-generated）で学習した版は形状とテキストの対応を学んだが、論文の文章だけで学習した版は学ばなかった。物性を記述する自然言語クエリを与えると、モデルは条件に合う結晶を見つけ、ベースラインを上回った。"
               },
               {
                 "t": "p",
-                "x": "結果は資源の見積もりであり、量子ハードウェア上での実証ではない。サンプルによるテストも、すべての入力で成功することを証明するものではない。論文はarXivのプレプリントで、査読を経ていない。"
+                "x": "「構造こそ材料科学分野の核心だ」と、このモデルをAlphaFoldになぞらえるJu Liは語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude设计出\n更精简的量子电路",
-          "body": "Anthropic与Harvard用Claude设计量子电路，八项任务中七项节省资源。",
-          "mini_headline": "Claude精简量子电路",
+          "headline": "AI读懂晶体\n也读懂相关论文",
+          "body": "MIT的模型将3D原子结构与论文文本结合，寻找适合特定用途的晶体材料。",
+          "mini_headline": "AI读懂晶体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
-                "cap": ""
+                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "来自Anthropic和Harvard的团队用Claude设计所需运算和量子比特更少的量子电路，并在化学、优化、物理模拟和数论中使用的八个基本模块上测试这一方法。与研究基线相比，七个设计同时减少了代价高昂的量子运算和量子比特；第八个则提出了一种时间与内存权衡更优的新算术方法。"
+                "x": "向大语言模型询问合适的材料，目前效果还不理想。大多数材料是晶体的3D排列，而非文本，而且文献偏向少数热门晶体类别。"
               },
               {
                 "t": "p",
-                "x": "一个重新设计的解码电路所需Toffoli门从510万个降至约440,000个，峰值量子比特从1,938个减至1,837个。一个定点Gaussian电路将门–量子比特乘积缩小了39倍，一个线性方程组例程则缩小了32倍。"
+                "x": "MIT研究人员构建了一个多模态模型，将3D原子结构与取自实验论文和第一性原理计算数据库的自然语言描述相结合，涵盖成分、结构、性质、加工和潜在应用。他们在Nature Communications上发表的研究显示，该模型比纯文本模型能找到更好的材料设计；在被问及固态锂离子电池电解质时，其排名靠前的结果中包含了已被独立发现的有前景候选材料。"
               },
               {
                 "t": "p",
-                "x": "模型不只是提出想法，还获得了编程工具和一个评估器，后者负责检查电路，并以Toffoli门数乘以峰值量子比特数打分。Anthropic的博客称该模型为Claude Mythos 5；其椭圆曲线算术工作在有限的人工提示下耗时53小时。"
+                "x": "团队利用对比学习将结构与文本对齐。用AI生成的描述（AI-generated）训练的版本学会了将几何结构与文本对齐，仅用论文文本训练的版本则没有。给定描述某种性质的自然语言查询，模型能找到匹配的晶体，表现优于基线。"
               },
               {
                 "t": "p",
-                "x": "这些结果是资源估算，并非在量子硬件上的演示，抽样测试也不能证明所有输入都会成功。该论文是arXiv预印本，尚未经过同行评审。"
+                "x": "“结构确实是材料科学领域的核心。”将该模型比作AlphaFold的Ju Li说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude diseña circuitos\ncuánticos más ligeros",
-          "body": "Con Claude, Anthropic y Harvard diseñaron circuitos cuánticos que ahorran recursos en siete de ocho tareas.",
-          "mini_headline": "Claude recorta circuitos cuánticos",
+          "headline": "La IA (AI) lee cristales\ny los artículos sobre ellos",
+          "body": "El modelo del MIT une estructuras atómicas en 3D y texto de artículos para hallar cristales aptos para cada uso.",
+          "mini_headline": "La IA (AI) lee cristales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
-                "cap": ""
+                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "Un equipo de Anthropic y Harvard usó Claude para diseñar circuitos cuánticos que requieren menos operaciones y qubits, y probó el enfoque en ocho bloques básicos usados en química, optimización, simulación física y teoría de números. Siete diseños redujeron tanto las costosas operaciones cuánticas como los qubits frente a las referencias del estudio; el octavo produjo un nuevo enfoque de aritmética con mejores compensaciones entre tiempo y memoria."
+                "x": "Pedir a un modelo de lenguaje grande el material adecuado todavía no funciona bien. La mayoría de los materiales son disposiciones 3D de cristales, no texto, y la literatura está sesgada hacia unas pocas clases populares de cristales."
               },
               {
                 "t": "p",
-                "x": "Un circuito de decodificación rediseñado necesitó unas 440,000 puertas Toffoli, frente a 5.1 millones, y redujo los qubits máximos de 1,938 a 1,837. Un circuito Gaussian de punto fijo redujo el producto puertas-qubits en un factor de 39, y una rutina de ecuaciones lineales, en 32."
+                "x": "Investigadores del MIT crearon un modelo multimodal que combina estructuras atómicas 3D con descripciones en lenguaje natural extraídas de artículos experimentales y de bases de datos computacionales de primeros principios, que abarcan composición, estructura, propiedades, procesamiento y posibles aplicaciones. En Nature Communications muestran que identifica mejores diseños de materiales que los modelos solo de texto; al pedirle electrolitos para baterías de iones de litio de estado sólido, sus primeros resultados incluyeron candidatos prometedores identificados de forma independiente."
               },
               {
                 "t": "p",
-                "x": "En lugar de limitarse a sugerir ideas, el modelo recibió herramientas de programación y un evaluador que verificaba los circuitos y puntuaba el producto de puertas Toffoli por qubits máximos. El blog de Anthropic identifica el modelo como Claude Mythos 5; su trabajo en aritmética de curvas elípticas llevó 53 horas con indicaciones humanas limitadas."
+                "x": "El equipo usó aprendizaje contrastivo para alinear estructuras y texto. Una versión entrenada con descripciones generadas por IA (AI-generated) aprendió a alinear geometría y texto; otra entrenada solo con texto de artículos no lo logró. Ante una consulta en lenguaje natural que describía una propiedad, el modelo encontró cristales coincidentes y superó a un modelo de referencia."
               },
               {
                 "t": "p",
-                "x": "Los resultados son estimaciones de recursos, no demostraciones en hardware cuántico, y las pruebas por muestreo no demuestran que todas las entradas funcionen. El artículo es un preprint de arXiv y no ha pasado revisión por pares."
+                "x": "“La estructura está realmente en el corazón de la ciencia de materiales”, afirma Ju Li, quien compara el modelo con AlphaFold."
               }
             ]
           }
@@ -201,125 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Claude가 설계한\n더 가벼운 양자 회로",
-          "body": "Anthropic·Harvard의 Claude가 여덟 중 일곱 과제서 자원 줄였다.",
-          "mini_headline": "Claude, 양자 회로를 줄이다",
+          "headline": "AI가 결정 구조와\n논문을 함께 읽는다",
+          "body": "MIT 모델은 3D 원자 구조와 논문 글을 엮어 용도에 맞는 결정 소재를 찾는다.",
+          "mini_headline": "AI가 결정을 읽는다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
-                "cap": ""
+                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "Anthropic과 Harvard 연구팀은 Claude로 연산과 큐비트가 덜 드는 양자 회로를 설계하고, 화학·최적화·물리 시뮬레이션·정수론에 쓰이는 여덟 가지 구성 요소에서 이 방식을 시험했다. 일곱 개 설계는 연구의 기준선보다 비용이 큰 양자 연산과 큐비트를 모두 줄였고, 여덟 번째 설계는 시간–메모리 절충이 더 나은 새로운 산술 방식을 내놓았다."
+                "x": "대규모 언어 모델에 알맞은 소재를 물어보는 방식은 아직 잘 통하지 않는다. 소재 대부분은 텍스트가 아니라 결정이 3D로 배열된 구조이고, 문헌도 인기 있는 몇몇 결정 계열에 치우쳐 있다."
               },
               {
                 "t": "p",
-                "x": "재설계한 한 디코딩 회로는 Toffoli 게이트가 510만 개에서 약 440,000개로 줄었고, 최대 큐비트 수는 1,938개에서 1,837개로 감소했다. 고정소수점 Gaussian 회로는 게이트-큐비트 곱을 39배, 선형방정식 루틴은 32배 줄였다."
+                "x": "MIT 연구진은 3D 원자 구조에 자연어 설명을 결합한 멀티모달 모델을 만들었다. 설명은 실험 논문과 제일원리 계산 데이터베이스에서 가져왔고, 조성·구조·물성·공정·잠재적 응용을 아우른다. 연구진은 Nature Communications 논문에서 이 모델이 텍스트만 쓰는 모델보다 더 나은 소재 설계를 찾아낸다고 밝혔다. 고체 리튬이온 배터리 전해질을 묻자 상위 결과에는 독립적으로 확인된 유망 후보들이 들어 있었다."
               },
               {
                 "t": "p",
-                "x": "모델은 아이디어를 제안하는 데 그치지 않고, 프로그래밍 도구와 함께 회로를 검증하고 Toffoli 게이트 수에 최대 큐비트 수를 곱해 점수를 매기는 평가기를 받았다. Anthropic 블로그는 이 모델을 Claude Mythos 5로 명시했으며, 타원곡선 산술 작업에는 사람의 제한적인 프롬프트만으로 53시간이 걸렸다."
+                "x": "연구팀은 대조 학습으로 구조와 텍스트를 정렬했다. AI가 생성한(AI-generated) 설명으로 학습한 버전은 기하 구조와 텍스트를 정렬하는 법을 익혔지만, 논문 텍스트만으로 학습한 버전은 그러지 못했다. 물성을 묘사하는 자연어 질의를 주자 모델은 그에 맞는 결정을 찾아냈고, 기준 모델보다 나은 성능을 보였다."
               },
               {
                 "t": "p",
-                "x": "이 결과는 자원 추정치일 뿐 양자 하드웨어에서 시연한 것이 아니며, 표본 테스트로 모든 입력에서 성공한다고 증명되지도 않는다. 논문은 arXiv 프리프린트로, 아직 동료 심사를 거치지 않았다."
+                "x": "“구조는 재료과학 분야의 진정한 핵심입니다.” 이 모델을 AlphaFold에 견주는 Ju Li의 말이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Claudeが設計した\nより軽い量子回路",
-          "body": "AnthropicとHarvardのClaude設計回路は八課題中七つで資源を減らした。",
-          "mini_headline": "Claude、量子回路をスリム化",
+          "headline": "AIが結晶と\nその論文を読む",
+          "body": "MITのモデルは3D原子構造と論文の文章を組み合わせ、用途に合う結晶材料を探す。",
+          "mini_headline": "AIが結晶を読む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
-                "cap": ""
+                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "AnthropicとHarvardのチームはClaudeを用いて、必要な演算と量子ビットが少ない量子回路を設計し、化学、最適化、物理シミュレーション、数論で使われる八つの構成要素で手法を検証した。七つの設計は研究のベースラインと比べ、コストの高い量子演算と量子ビットの両方を削減し、八つ目は時間とメモリのトレードオフに優れた新しい算術手法を生み出した。"
+                "x": "大規模言語モデルに適切な材料を尋ねるやり方は、まだうまく機能しない。材料の多くはテキストではなく結晶の3D配列であり、文献も一部の人気の結晶分類に偏っている。"
               },
               {
                 "t": "p",
-                "x": "再設計したある復号回路では、Toffoliゲートが510万から約440,000に減り、ピーク量子ビット数は1,938から1,837に下がった。固定小数点のGaussian回路はゲート・量子ビット積を39倍、線形方程式ルーチンは32倍縮小した。"
+                "x": "MITの研究者は、3D原子構造と自然言語の記述を組み合わせたマルチモーダルモデルを構築した。記述は実験論文と第一原理計算データベースから集めたもので、組成、構造、物性、プロセス、応用の可能性を網羅する。Nature Communicationsに掲載された論文で、このモデルはテキストのみのモデルより優れた材料設計を見つけることが示された。固体リチウムイオン電池の電解質を尋ねると、上位の結果には独立に特定されていた有望な候補が含まれていた。"
               },
               {
                 "t": "p",
-                "x": "モデルはアイデアを提案するだけでなく、プログラミングツールと、回路を検証してToffoliゲート数とピーク量子ビット数の積で採点する評価器を与えられた。AnthropicのブログはこのモデルをClaude Mythos 5としており、楕円曲線算術の作業は人間による限られたプロンプトのもとで53時間を要した。"
+                "x": "チームは対照学習で構造とテキストを対応づけた。AIが生成した記述（AI-generated）で学習した版は形状とテキストの対応を学んだが、論文の文章だけで学習した版は学ばなかった。物性を記述する自然言語クエリを与えると、モデルは条件に合う結晶を見つけ、ベースラインを上回った。"
               },
               {
                 "t": "p",
-                "x": "結果は資源の見積もりであり、量子ハードウェア上での実証ではない。サンプルによるテストも、すべての入力で成功することを証明するものではない。論文はarXivのプレプリントで、査読を経ていない。"
+                "x": "「構造こそ材料科学分野の核心だ」と、このモデルをAlphaFoldになぞらえるJu Liは語る。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Claude设计出\n更精简的量子电路",
-          "body": "Anthropic与Harvard用Claude设计量子电路，八项任务中七项节省资源。",
-          "mini_headline": "Claude精简量子电路",
+          "headline": "AI读懂晶体\n也读懂相关论文",
+          "body": "MIT的模型将3D原子结构与论文文本结合，寻找适合特定用途的晶体材料。",
+          "mini_headline": "AI读懂晶体",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
-                "cap": ""
+                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "来自Anthropic和Harvard的团队用Claude设计所需运算和量子比特更少的量子电路，并在化学、优化、物理模拟和数论中使用的八个基本模块上测试这一方法。与研究基线相比，七个设计同时减少了代价高昂的量子运算和量子比特；第八个则提出了一种时间与内存权衡更优的新算术方法。"
+                "x": "向大语言模型询问合适的材料，目前效果还不理想。大多数材料是晶体的3D排列，而非文本，而且文献偏向少数热门晶体类别。"
               },
               {
                 "t": "p",
-                "x": "一个重新设计的解码电路所需Toffoli门从510万个降至约440,000个，峰值量子比特从1,938个减至1,837个。一个定点Gaussian电路将门–量子比特乘积缩小了39倍，一个线性方程组例程则缩小了32倍。"
+                "x": "MIT研究人员构建了一个多模态模型，将3D原子结构与取自实验论文和第一性原理计算数据库的自然语言描述相结合，涵盖成分、结构、性质、加工和潜在应用。他们在Nature Communications上发表的研究显示，该模型比纯文本模型能找到更好的材料设计；在被问及固态锂离子电池电解质时，其排名靠前的结果中包含了已被独立发现的有前景候选材料。"
               },
               {
                 "t": "p",
-                "x": "模型不只是提出想法，还获得了编程工具和一个评估器，后者负责检查电路，并以Toffoli门数乘以峰值量子比特数打分。Anthropic的博客称该模型为Claude Mythos 5；其椭圆曲线算术工作在有限的人工提示下耗时53小时。"
+                "x": "团队利用对比学习将结构与文本对齐。用AI生成的描述（AI-generated）训练的版本学会了将几何结构与文本对齐，仅用论文文本训练的版本则没有。给定描述某种性质的自然语言查询，模型能找到匹配的晶体，表现优于基线。"
               },
               {
                 "t": "p",
-                "x": "这些结果是资源估算，并非在量子硬件上的演示，抽样测试也不能证明所有输入都会成功。该论文是arXiv预印本，尚未经过同行评审。"
+                "x": "“结构确实是材料科学领域的核心。”将该模型比作AlphaFold的Ju Li说。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude diseña circuitos\ncuánticos más ligeros",
-          "body": "Con Claude, Anthropic y Harvard diseñaron circuitos cuánticos que ahorran recursos en siete de ocho tareas.",
-          "mini_headline": "Claude recorta circuitos cuánticos",
+          "headline": "La IA (AI) lee cristales\ny los artículos sobre ellos",
+          "body": "El modelo del MIT une estructuras atómicas en 3D y texto de artículos para hallar cristales aptos para cada uso.",
+          "mini_headline": "La IA (AI) lee cristales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
-                "cap": ""
+                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
               },
               {
                 "t": "p",
-                "x": "Un equipo de Anthropic y Harvard usó Claude para diseñar circuitos cuánticos que requieren menos operaciones y qubits, y probó el enfoque en ocho bloques básicos usados en química, optimización, simulación física y teoría de números. Siete diseños redujeron tanto las costosas operaciones cuánticas como los qubits frente a las referencias del estudio; el octavo produjo un nuevo enfoque de aritmética con mejores compensaciones entre tiempo y memoria."
+                "x": "Pedir a un modelo de lenguaje grande el material adecuado todavía no funciona bien. La mayoría de los materiales son disposiciones 3D de cristales, no texto, y la literatura está sesgada hacia unas pocas clases populares de cristales."
               },
               {
                 "t": "p",
-                "x": "Un circuito de decodificación rediseñado necesitó unas 440,000 puertas Toffoli, frente a 5.1 millones, y redujo los qubits máximos de 1,938 a 1,837. Un circuito Gaussian de punto fijo redujo el producto puertas-qubits en un factor de 39, y una rutina de ecuaciones lineales, en 32."
+                "x": "Investigadores del MIT crearon un modelo multimodal que combina estructuras atómicas 3D con descripciones en lenguaje natural extraídas de artículos experimentales y de bases de datos computacionales de primeros principios, que abarcan composición, estructura, propiedades, procesamiento y posibles aplicaciones. En Nature Communications muestran que identifica mejores diseños de materiales que los modelos solo de texto; al pedirle electrolitos para baterías de iones de litio de estado sólido, sus primeros resultados incluyeron candidatos prometedores identificados de forma independiente."
               },
               {
                 "t": "p",
-                "x": "En lugar de limitarse a sugerir ideas, el modelo recibió herramientas de programación y un evaluador que verificaba los circuitos y puntuaba el producto de puertas Toffoli por qubits máximos. El blog de Anthropic identifica el modelo como Claude Mythos 5; su trabajo en aritmética de curvas elípticas llevó 53 horas con indicaciones humanas limitadas."
+                "x": "El equipo usó aprendizaje contrastivo para alinear estructuras y texto. Una versión entrenada con descripciones generadas por IA (AI-generated) aprendió a alinear geometría y texto; otra entrenada solo con texto de artículos no lo logró. Ante una consulta en lenguaje natural que describía una propiedad, el modelo encontró cristales coincidentes y superó a un modelo de referencia."
               },
               {
                 "t": "p",
-                "x": "Los resultados son estimaciones de recursos, no demostraciones en hardware cuántico, y las pruebas por muestreo no demuestran que todas las entradas funcionen. El artículo es un preprint de arXiv y no ha pasado revisión por pares."
+                "x": "“La estructura está realmente en el corazón de la ciencia de materiales”, afirma Ju Li, quien compara el modelo con AlphaFold."
               }
             ]
           }
@@ -327,15 +315,15 @@
       }
     },
     {
-      "id": "science-fire-gene-regulation",
+      "id": "science-riverlane-nvidia-decoder",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ML이 점수 매긴\n모계·부계의 열린 DNA",
-      "body": "FIRE는 머신러닝으로 모계·부계의 열린 DNA에서 유전자 조절 영역을 골라낸다.",
-      "mini_headline": "ML로 그린 유전자 스위치 지도",
+      "headline": "AI가 양자 디코더를\n변하는 하드웨어에 맞춘다",
+      "body": "Riverlane과 NVIDIA가 AI와 GPUs로 디코더 보정 가속을 시험한다.",
+      "mini_headline": "AI로 양자 디코더 보정",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-machine-analysis-gene-reveals-dimension.html",
+      "source": "The Quantum Insider",
+      "url": "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -343,181 +331,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
-            "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+            "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
           },
           {
             "t": "p",
-            "x": "University of Utah Health 연구진이 Cell에 발표한 도구 FIRE는 롱리드 DNA 시퀀싱과 머신러닝을 결합해, 각 염색체의 모계·부계 사본에서 어떤 조절 영역이 활성인지 판별한다."
+            "x": "양자 오류 정정에는 어떤 오류가 났는지 가려내는 디코더가 필요하다. 디코더는 하드웨어 측정값으로 정한 수치 설정, 곧 가중치에 기대어 작동한다. 그런데 큐비트 주파수가 바뀌고 결함이 생겼다 사라지며 게이트 성능도 달라지니, 가중치는 점점 낡아 다시 보정해야 한다."
           },
           {
             "t": "p",
-            "x": "먼저 물리적으로 접근 가능한 DNA에 표시를 한다. 그다음 머신러닝이 표시된 영역 가운데 유전자 조절에 중요할 가능성이 큰 곳을 평가하는데, 수십억 개 영역까지 넓혀 돌릴 수 있다. Mitchell R. Vollger는 \"여기서 머신러닝은 우리가 데이터에서 눈으로 직접 볼 수 있는 것을 그대로 따라 하는 것\"이라고 말한다."
+            "x": "Riverlane은 수동 조정 없이 실험 데이터에서 곧바로 더 나은 디코더 설정을 학습하는 AI 기반(AI-based) 보정 루프를 개발했다. AI가 설정을 제안하면 NVIDIA H100 GPU에서 하드웨어 데이터로 시험해 보고, 논리 오류를 줄이는 설정을 먼저 고른다."
           },
           {
             "t": "p",
-            "x": "FIRE는 그동안 놓친 조절 영역 수만 곳을 찾아냈다. 이런 영역은 질병 관련 변이를 품고 있을 가능성이 더 높다. 셀리악병 사례에서는 면역 유전자 옆 유전자 스위치의 DNA 글자 하나를 바꾸자 스위치가 열린 정도가 달라졌다."
+            "x": "GPUs에 맞게 고친 Riverlane의 Local Clustering Decoder를 쓰자 단일 CPU 코어에서 삼 분 걸리던 표면 부호(surface-code) 학습 주기가 2.8초로 줄었다. H100은 초당 사백만 개 넘는 신드롬을 디코딩하는데, CPU 코어 하나는 약 59,000개 수준이다."
           },
           {
             "t": "p",
-            "x": "약 40%는 물려받은 두 사본의 DNA가 그 위치에서 똑같은데도 조절이 달랐다. 이런 차이 일부는 세포가 분열할 때 그대로 대물림됐다. Vollger는 이를 \"유전이 유전자 조절을 얼마나 결정할 수 있는지의 한계\"라고 부른다."
+            "x": "루프가 몇 시간이 아니라 몇 분 만에 끝나면 하루 한 번이 아니라 실험할 때마다 돌릴 수 있다. NVIDIA의 Sam Stanwyck는 “Riverlane은 AI로 오류 정정이 변화하는 양자 하드웨어를 따라가도록 돕고 있다”고 말했다."
           }
         ]
       },
-      "_lead_image": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "ML tool scores open DNA\non maternal and paternal copies",
-          "body": "The FIRE tool uses machine learning to flag which open DNA regions on maternal and paternal copies regulate genes.",
-          "mini_headline": "ML maps gene switches",
+          "headline": "AI keeps quantum decoders\nin tune as hardware drifts",
+          "body": "Riverlane and NVIDIA are testing AI and GPUs to speed error-correction decoder calibration as quantum hardware drifts.",
+          "mini_headline": "AI tunes quantum decoders",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
-                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
               },
               {
                 "t": "p",
-                "x": "University of Utah Health researchers, publishing in Cell, built FIRE, a tool that pairs long-read DNA sequencing with machine learning to tell which regulatory regions are active on the maternal and paternal copies of each chromosome."
+                "x": "Quantum error correction needs a decoder that works out which errors occurred. It relies on numerical settings, or weights, based on hardware measurements — but qubit frequencies shift, defects come and go, and gate performance changes, so the weights drift out of date and must be recalibrated."
               },
               {
                 "t": "p",
-                "x": "It starts from a method that highlights physically accessible DNA; machine learning then assesses which highlighted regions likely matter for gene regulation, scaling to billions of regions. \"Machine learning here is really copying something that we're able to see with our own eyes in the data,\" says Mitchell R. Vollger."
+                "x": "Riverlane has developed an AI-based calibration loop that learns improved decoder settings directly from experimental data, without manual tuning. The AI proposes settings, tests them against hardware data on an NVIDIA H100 GPU and favours those that lead to fewer logical errors."
               },
               {
                 "t": "p",
-                "x": "FIRE found tens of thousands of previously overlooked regulatory regions, which are more likely to contain disease-linked variants. In a celiac disease example, changing a single DNA letter in a gene switch next to an immune gene altered how open the switch was."
+                "x": "Using Riverlane's Local Clustering Decoder adapted for GPUs, a surface-code training cycle that took three minutes on a single CPU core now takes 2.8 seconds. The H100 decodes more than four million syndromes per second, versus around 59,000 on one CPU core."
               },
               {
                 "t": "p",
-                "x": "About 40% of the time, the two inherited copies were regulated differently even though their DNA was identical at that spot, and some of these differences were passed on as cells divide — what Vollger calls \"the limits of how much our genetics can determine our gene regulation.\""
+                "x": "A loop that takes minutes rather than hours can run before every experiment instead of once a day. “Riverlane is using AI to help error correction keep pace with changing quantum hardware,” said NVIDIA's Sam Stanwyck."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ML이 점수 매긴\n모계·부계의 열린 DNA",
-          "body": "FIRE는 머신러닝으로 모계·부계의 열린 DNA에서 유전자 조절 영역을 골라낸다.",
-          "mini_headline": "ML로 그린 유전자 스위치 지도",
+          "headline": "AI가 양자 디코더를\n변하는 하드웨어에 맞춘다",
+          "body": "Riverlane과 NVIDIA가 AI와 GPUs로 디코더 보정 가속을 시험한다.",
+          "mini_headline": "AI로 양자 디코더 보정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
-                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
               },
               {
                 "t": "p",
-                "x": "University of Utah Health 연구진이 Cell에 발표한 도구 FIRE는 롱리드 DNA 시퀀싱과 머신러닝을 결합해, 각 염색체의 모계·부계 사본에서 어떤 조절 영역이 활성인지 판별한다."
+                "x": "양자 오류 정정에는 어떤 오류가 났는지 가려내는 디코더가 필요하다. 디코더는 하드웨어 측정값으로 정한 수치 설정, 곧 가중치에 기대어 작동한다. 그런데 큐비트 주파수가 바뀌고 결함이 생겼다 사라지며 게이트 성능도 달라지니, 가중치는 점점 낡아 다시 보정해야 한다."
               },
               {
                 "t": "p",
-                "x": "먼저 물리적으로 접근 가능한 DNA에 표시를 한다. 그다음 머신러닝이 표시된 영역 가운데 유전자 조절에 중요할 가능성이 큰 곳을 평가하는데, 수십억 개 영역까지 넓혀 돌릴 수 있다. Mitchell R. Vollger는 \"여기서 머신러닝은 우리가 데이터에서 눈으로 직접 볼 수 있는 것을 그대로 따라 하는 것\"이라고 말한다."
+                "x": "Riverlane은 수동 조정 없이 실험 데이터에서 곧바로 더 나은 디코더 설정을 학습하는 AI 기반(AI-based) 보정 루프를 개발했다. AI가 설정을 제안하면 NVIDIA H100 GPU에서 하드웨어 데이터로 시험해 보고, 논리 오류를 줄이는 설정을 먼저 고른다."
               },
               {
                 "t": "p",
-                "x": "FIRE는 그동안 놓친 조절 영역 수만 곳을 찾아냈다. 이런 영역은 질병 관련 변이를 품고 있을 가능성이 더 높다. 셀리악병 사례에서는 면역 유전자 옆 유전자 스위치의 DNA 글자 하나를 바꾸자 스위치가 열린 정도가 달라졌다."
+                "x": "GPUs에 맞게 고친 Riverlane의 Local Clustering Decoder를 쓰자 단일 CPU 코어에서 삼 분 걸리던 표면 부호(surface-code) 학습 주기가 2.8초로 줄었다. H100은 초당 사백만 개 넘는 신드롬을 디코딩하는데, CPU 코어 하나는 약 59,000개 수준이다."
               },
               {
                 "t": "p",
-                "x": "약 40%는 물려받은 두 사본의 DNA가 그 위치에서 똑같은데도 조절이 달랐다. 이런 차이 일부는 세포가 분열할 때 그대로 대물림됐다. Vollger는 이를 \"유전이 유전자 조절을 얼마나 결정할 수 있는지의 한계\"라고 부른다."
+                "x": "루프가 몇 시간이 아니라 몇 분 만에 끝나면 하루 한 번이 아니라 실험할 때마다 돌릴 수 있다. NVIDIA의 Sam Stanwyck는 “Riverlane은 AI로 오류 정정이 변화하는 양자 하드웨어를 따라가도록 돕고 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MLが採点する\n母方・父方の開いたDNA",
-          "body": "FIREは機械学習で、母方・父方コピーの開いたDNAから遺伝子を調節する領域を見分ける。",
-          "mini_headline": "MLで遺伝子スイッチを地図化",
+          "headline": "AIで量子デコーダーを\nハードウェアの変化に追従",
+          "body": "RiverlaneとNVIDIAは、AIとGPUsでデコーダー較正の高速化を試している。",
+          "mini_headline": "AIが量子デコーダーを調整",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
-                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
               },
               {
                 "t": "p",
-                "x": "University of Utah Healthの研究者はCellに発表した論文で、ロングリードDNAシーケンシングと機械学習を組み合わせ、各染色体の母方・父方コピーでどの調節領域が働いているかを判別するツールFIREを開発した。"
+                "x": "量子誤り訂正には、どの誤りが起きたかを割り出すデコーダーが欠かせない。デコーダーはハードウェアの測定に基づく数値設定、つまり重みに依存する。だが量子ビットの周波数は変動し、欠陥は現れては消え、ゲート性能も変わるため、重みは次第に古くなり再較正が必要になる。"
               },
               {
                 "t": "p",
-                "x": "出発点は物理的にアクセス可能なDNAを浮かび上がらせる手法で、その後、機械学習が浮かび上がった領域のうち遺伝子調節に関わる可能性が高いものを評価し、数十億の領域にまで対応する。Mitchell R. Vollgerは「ここでの機械学習は、私たちがデータの中に自分の目で見ているものを、まさに再現している」と語る。"
+                "x": "Riverlaneは、手作業の調整なしに実験データから直接より良いデコーダー設定を学習する、AIベース（AI-based）の較正ループを開発した。AIが設定を提案し、NVIDIA H100 GPU上でハードウェアデータに照らして検証し、論理エラーが少なくなる設定を優先する。"
               },
               {
                 "t": "p",
-                "x": "FIREはこれまで見落とされていた数万の調節領域を見つけた。それらは疾患に関連する変異を含む可能性が高い。セリアック病の例では、免疫遺伝子の隣にある遺伝子スイッチでDNAの一文字を変えると、スイッチの開き具合が変化した。"
+                "x": "GPUs向けに改良したRiverlaneのLocal Clustering Decoderを使うと、単一のCPUコアで三分かかっていた表面符号（surface-code）の学習サイクルが2.8秒に短縮された。H100は毎秒四百万を超えるシンドロームをデコードし、CPUコア一つでは約59,000にとどまる。"
               },
               {
                 "t": "p",
-                "x": "約40%のケースで、受け継いだ二つのコピーはその位置のDNAが同一にもかかわらず異なる調節を受けており、その違いの一部は細胞分裂を通じて受け継がれた。Vollgerはこれを「遺伝がどこまで遺伝子調節を決められるかの限界」と呼ぶ。"
+                "x": "数時間ではなく数分で終わるループなら、一日一回ではなく実験のたびに実行できる。NVIDIAのSam Stanwyckは「Riverlaneは、変化する量子ハードウェアに誤り訂正が追いつけるようAIを活用している」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ML工具为母本与父本\n拷贝上的开放DNA评分",
-          "body": "FIRE工具借助机器学习，找出母本和父本拷贝上哪些开放DNA区域调控基因。",
-          "mini_headline": "ML绘制基因开关图谱",
+          "headline": "AI让量子解码器\n跟上硬件漂移",
+          "body": "Riverlane与NVIDIA正测试用AI和GPUs加速量子纠错解码器的校准。",
+          "mini_headline": "AI调校量子解码器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
-                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
               },
               {
                 "t": "p",
-                "x": "University of Utah Health的研究人员在Cell上发表论文，开发出工具FIRE，将长读长DNA测序与机器学习结合，用于判断每条染色体的母本和父本拷贝上哪些调控区域处于活跃状态。"
+                "x": "量子纠错需要一个解码器来判断发生了哪些错误。它依赖基于硬件测量的数值设置，即权重。但量子比特频率会漂移，缺陷时隐时现，门性能也会变化，因此权重会逐渐过时，必须重新校准。"
               },
               {
                 "t": "p",
-                "x": "它从一种标记物理上可及DNA的方法出发；随后由机器学习评估被标记区域中哪些可能对基因调控起作用，规模可扩展到数十亿个区域。Mitchell R. Vollger说：“这里的机器学习其实是在复制我们能在数据中亲眼看到的东西。”"
+                "x": "Riverlane开发了一种基于AI（AI-based）的校准循环，无需手动调参，即可直接从实验数据中学习更优的解码器设置。AI提出设置，在NVIDIA H100 GPU上用硬件数据进行测试，并优先选用能减少逻辑错误的设置。"
               },
               {
                 "t": "p",
-                "x": "FIRE发现了数万个此前被忽视的调控区域，这些区域更可能含有与疾病相关的变异。在一个乳糜泻案例中，改变免疫基因旁某个基因开关中的单个DNA字母，就改变了该开关的开放程度。"
+                "x": "借助为GPUs改造的Riverlane Local Clustering Decoder，原本在单个CPU核心上需要三分钟的表面码（surface-code）训练周期，如今只需2.8秒。H100每秒可解码超过四百万个症状（syndrome），而单个CPU核心约为59,000个。"
               },
               {
                 "t": "p",
-                "x": "约40%的情况下，两份遗传拷贝在该位点的DNA完全相同，却受到不同的调控，其中一些差异会随细胞分裂传递下去——Vollger称之为“我们的遗传能在多大程度上决定基因调控的极限”。"
+                "x": "耗时几分钟而非几小时的循环，可以在每次实验前运行，而不是每天一次。NVIDIA的Sam Stanwyck表示：“Riverlane正在利用AI帮助纠错跟上不断变化的量子硬件。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "ML puntúa el DNA abierto\nde copias maternas y paternas",
-          "body": "FIRE usa aprendizaje automático para ver qué DNA abierto de las copias materna y paterna regula genes.",
-          "mini_headline": "El ML mapea interruptores génicos",
+          "headline": "IA (AI) afina decodificadores\ncuánticos al variar el hardware",
+          "body": "Riverlane y NVIDIA prueban la AI y GPUs para recalibrar más rápido los decodificadores al variar el hardware cuántico.",
+          "mini_headline": "La IA (AI) afina decodificadores cuánticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
-                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
               },
               {
                 "t": "p",
-                "x": "Investigadores de University of Utah Health, en un estudio publicado en Cell, crearon FIRE, una herramienta que combina la secuenciación de DNA de lectura larga con aprendizaje automático para determinar qué regiones reguladoras están activas en las copias materna y paterna de cada cromosoma."
+                "x": "La corrección cuántica de errores necesita un decodificador que determine qué errores se produjeron. Depende de ajustes numéricos, o pesos, basados en mediciones del hardware; pero las frecuencias de los cúbits varían, los defectos aparecen y desaparecen y el rendimiento de las puertas cambia, de modo que los pesos quedan desactualizados y deben recalibrarse."
               },
               {
                 "t": "p",
-                "x": "Parte de un método que resalta el DNA físicamente accesible; luego, el aprendizaje automático evalúa cuáles de las regiones resaltadas probablemente importan para la regulación génica, a una escala de miles de millones de regiones. \"Aquí el aprendizaje automático realmente copia algo que podemos ver con nuestros propios ojos en los datos\", dice Mitchell R. Vollger."
+                "x": "Riverlane ha desarrollado un bucle de calibración basado en IA (AI-based) que aprende mejores ajustes del decodificador directamente de los datos experimentales, sin ajuste manual. La AI propone ajustes, los prueba con datos del hardware en una NVIDIA H100 GPU y favorece los que producen menos errores lógicos."
               },
               {
                 "t": "p",
-                "x": "FIRE encontró decenas de miles de regiones reguladoras antes pasadas por alto, que tienen más probabilidad de contener variantes ligadas a enfermedades. En un ejemplo de enfermedad celíaca, cambiar una sola letra del DNA en un interruptor génico junto a un gen inmunitario alteró cuán abierto estaba el interruptor."
+                "x": "Con el Local Clustering Decoder de Riverlane adaptado a GPUs, un ciclo de entrenamiento de código de superficie (surface-code) que tardaba tres minutos en un solo núcleo de CPU ahora tarda 2.8 segundos. La H100 decodifica más de cuatro millones de síndromes por segundo, frente a unos 59,000 en un núcleo de CPU."
               },
               {
                 "t": "p",
-                "x": "Alrededor del 40% de las veces, las dos copias heredadas se regulaban de forma distinta aunque su DNA era idéntico en ese punto, y algunas de estas diferencias se transmitían al dividirse las células: lo que Vollger llama \"los límites de cuánto puede determinar nuestra genética la regulación de nuestros genes\"."
+                "x": "Un bucle que dura minutos en lugar de horas puede ejecutarse antes de cada experimento y no una vez al día. “Riverlane está usando la AI para ayudar a que la corrección de errores siga el ritmo de un hardware cuántico cambiante”, dijo Sam Stanwyck, de NVIDIA."
               }
             ]
           }
@@ -525,125 +505,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ML이 점수 매긴\n모계·부계의 열린 DNA",
-          "body": "FIRE는 머신러닝으로 모계·부계의 열린 DNA 중 유전자 조절 영역을 가린다.",
-          "mini_headline": "ML로 그린 유전자 스위치 지도",
+          "headline": "AI가 양자 디코더를\n변하는 하드웨어에 맞춘다",
+          "body": "Riverlane과 NVIDIA가 AI와 GPUs로 디코더 보정 가속을 시험한다.",
+          "mini_headline": "AI로 양자 디코더 보정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
-                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
               },
               {
                 "t": "p",
-                "x": "University of Utah Health 연구진은 Cell에 발표한 연구에서, 롱리드 DNA 시퀀싱과 머신러닝을 결합해 각 염색체의 모계·부계 사본에서 어떤 조절 영역이 활성인지 판별하는 도구 FIRE를 만들었다."
+                "x": "양자 오류 정정에는 어떤 오류가 일어났는지 판별하는 디코더가 필요하다. 디코더는 하드웨어 측정값에 기반한 수치 설정, 곧 가중치에 의존한다. 그런데 큐비트 주파수가 바뀌고 결함이 생겼다 사라지며 게이트 성능도 달라지므로, 가중치는 점차 낡아 다시 보정해야 한다."
               },
               {
                 "t": "p",
-                "x": "출발점은 물리적으로 접근 가능한 DNA를 표시하는 방법이다. 이어 머신러닝이 표시된 영역 가운데 유전자 조절에 중요할 가능성이 큰 곳을 평가하며, 수십억 개 영역까지 규모를 넓힐 수 있다. Mitchell R. Vollger는 \"여기서 머신러닝은 우리가 데이터에서 눈으로 직접 볼 수 있는 것을 그대로 따라 하는 것\"이라고 말한다."
+                "x": "Riverlane은 수동 조정 없이 실험 데이터에서 직접 더 나은 디코더 설정을 학습하는 AI 기반(AI-based) 보정 루프를 개발했다. AI가 설정을 제안하면 NVIDIA H100 GPU에서 하드웨어 데이터로 이를 시험하고, 논리 오류를 줄이는 설정을 우선한다."
               },
               {
                 "t": "p",
-                "x": "FIRE는 그동안 간과된 조절 영역 수만 곳을 찾아냈으며, 이 영역들은 질병 관련 변이를 품고 있을 가능성이 더 높다. 셀리악병 사례에서는 면역 유전자 옆 유전자 스위치의 DNA 글자 하나를 바꾸자 스위치가 열린 정도가 달라졌다."
+                "x": "GPUs에 맞게 개조한 Riverlane의 Local Clustering Decoder를 쓰자, 단일 CPU 코어에서 삼 분 걸리던 표면 부호(surface-code) 학습 주기가 2.8초로 줄었다. H100은 초당 사백만 개가 넘는 신드롬을 디코딩하며, CPU 코어 하나로는 약 59,000개 수준이다."
               },
               {
                 "t": "p",
-                "x": "약 40%의 경우, 물려받은 두 사본은 해당 위치의 DNA가 똑같은데도 다르게 조절됐고, 이런 차이 일부는 세포가 분열할 때 대물림됐다. Vollger는 이를 \"유전이 유전자 조절을 얼마나 결정할 수 있는지의 한계\"라고 부른다."
+                "x": "몇 시간이 아니라 몇 분이면 끝나는 루프라면 하루 한 번이 아니라 실험 때마다 돌릴 수 있다. NVIDIA의 Sam Stanwyck는 “Riverlane은 AI로 오류 정정이 변화하는 양자 하드웨어를 따라가도록 돕고 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MLが採点する\n母方・父方の開いたDNA",
-          "body": "FIREは機械学習で、母方・父方コピーの開いたDNAから遺伝子を調節する領域を見分ける。",
-          "mini_headline": "MLで遺伝子スイッチを地図化",
+          "headline": "AIで量子デコーダーを\nハードウェアの変化に追従",
+          "body": "RiverlaneとNVIDIAは、AIとGPUsでデコーダー較正の高速化を試している。",
+          "mini_headline": "AIが量子デコーダーを調整",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
-                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
               },
               {
                 "t": "p",
-                "x": "University of Utah Healthの研究者はCellに発表した論文で、ロングリードDNAシーケンシングと機械学習を組み合わせ、各染色体の母方・父方コピーでどの調節領域が働いているかを判別するツールFIREを開発した。"
+                "x": "量子誤り訂正には、どの誤りが起きたかを割り出すデコーダーが欠かせない。デコーダーはハードウェアの測定に基づく数値設定、つまり重みに依存する。だが量子ビットの周波数は変動し、欠陥は現れては消え、ゲート性能も変わるため、重みは次第に古くなり再較正が必要になる。"
               },
               {
                 "t": "p",
-                "x": "出発点は物理的にアクセス可能なDNAを浮かび上がらせる手法で、その後、機械学習が浮かび上がった領域のうち遺伝子調節に関わる可能性が高いものを評価し、数十億の領域にまで対応する。Mitchell R. Vollgerは「ここでの機械学習は、私たちがデータの中に自分の目で見ているものを、まさに再現している」と語る。"
+                "x": "Riverlaneは、手作業の調整なしに実験データから直接より良いデコーダー設定を学習する、AIベース（AI-based）の較正ループを開発した。AIが設定を提案し、NVIDIA H100 GPU上でハードウェアデータに照らして検証し、論理エラーが少なくなる設定を優先する。"
               },
               {
                 "t": "p",
-                "x": "FIREはこれまで見落とされていた数万の調節領域を見つけた。それらは疾患に関連する変異を含む可能性が高い。セリアック病の例では、免疫遺伝子の隣にある遺伝子スイッチでDNAの一文字を変えると、スイッチの開き具合が変化した。"
+                "x": "GPUs向けに改良したRiverlaneのLocal Clustering Decoderを使うと、単一のCPUコアで三分かかっていた表面符号（surface-code）の学習サイクルが2.8秒に短縮された。H100は毎秒四百万を超えるシンドロームをデコードし、CPUコア一つでは約59,000にとどまる。"
               },
               {
                 "t": "p",
-                "x": "約40%のケースで、受け継いだ二つのコピーはその位置のDNAが同一にもかかわらず異なる調節を受けており、その違いの一部は細胞分裂を通じて受け継がれた。Vollgerはこれを「遺伝がどこまで遺伝子調節を決められるかの限界」と呼ぶ。"
+                "x": "数時間ではなく数分で終わるループなら、一日一回ではなく実験のたびに実行できる。NVIDIAのSam Stanwyckは「Riverlaneは、変化する量子ハードウェアに誤り訂正が追いつけるようAIを活用している」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ML工具为母本与父本\n拷贝上的开放DNA评分",
-          "body": "FIRE工具借助机器学习，找出母本和父本拷贝上哪些开放DNA区域调控基因。",
-          "mini_headline": "ML绘制基因开关图谱",
+          "headline": "AI让量子解码器\n跟上硬件漂移",
+          "body": "Riverlane与NVIDIA正测试用AI和GPUs加速量子纠错解码器的校准。",
+          "mini_headline": "AI调校量子解码器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
-                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
               },
               {
                 "t": "p",
-                "x": "University of Utah Health的研究人员在Cell上发表论文，开发出工具FIRE，将长读长DNA测序与机器学习结合，用于判断每条染色体的母本和父本拷贝上哪些调控区域处于活跃状态。"
+                "x": "量子纠错需要一个解码器来判断发生了哪些错误。它依赖基于硬件测量的数值设置，即权重。但量子比特频率会漂移，缺陷时隐时现，门性能也会变化，因此权重会逐渐过时，必须重新校准。"
               },
               {
                 "t": "p",
-                "x": "它从一种标记物理上可及DNA的方法出发；随后由机器学习评估被标记区域中哪些可能对基因调控起作用，规模可扩展到数十亿个区域。Mitchell R. Vollger说：“这里的机器学习其实是在复制我们能在数据中亲眼看到的东西。”"
+                "x": "Riverlane开发了一种基于AI（AI-based）的校准循环，无需手动调参，即可直接从实验数据中学习更优的解码器设置。AI提出设置，在NVIDIA H100 GPU上用硬件数据进行测试，并优先选用能减少逻辑错误的设置。"
               },
               {
                 "t": "p",
-                "x": "FIRE发现了数万个此前被忽视的调控区域，这些区域更可能含有与疾病相关的变异。在一个乳糜泻案例中，改变免疫基因旁某个基因开关中的单个DNA字母，就改变了该开关的开放程度。"
+                "x": "借助为GPUs改造的Riverlane Local Clustering Decoder，原本在单个CPU核心上需要三分钟的表面码（surface-code）训练周期，如今只需2.8秒。H100每秒可解码超过四百万个症状（syndrome），而单个CPU核心约为59,000个。"
               },
               {
                 "t": "p",
-                "x": "约40%的情况下，两份遗传拷贝在该位点的DNA完全相同，却受到不同的调控，其中一些差异会随细胞分裂传递下去——Vollger称之为“我们的遗传能在多大程度上决定基因调控的极限”。"
+                "x": "耗时几分钟而非几小时的循环，可以在每次实验前运行，而不是每天一次。NVIDIA的Sam Stanwyck表示：“Riverlane正在利用AI帮助纠错跟上不断变化的量子硬件。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "ML puntúa el DNA abierto\nde copias maternas y paternas",
-          "body": "FIRE usa aprendizaje automático para ver qué DNA abierto de las copias materna y paterna regula genes.",
-          "mini_headline": "El ML mapea interruptores génicos",
+          "headline": "IA (AI) afina decodificadores\ncuánticos al variar el hardware",
+          "body": "Riverlane y NVIDIA prueban la AI y GPUs para recalibrar más rápido los decodificadores al variar el hardware cuántico.",
+          "mini_headline": "La IA (AI) afina decodificadores cuánticos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/machine-learning-analy.jpg",
-                "cap": "Credit: Cell (2026), DOI: 10.1016/j.cell.2026.09.034"
+                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
               },
               {
                 "t": "p",
-                "x": "Investigadores de University of Utah Health, en un estudio publicado en Cell, crearon FIRE, una herramienta que combina la secuenciación de DNA de lectura larga con aprendizaje automático para determinar qué regiones reguladoras están activas en las copias materna y paterna de cada cromosoma."
+                "x": "La corrección cuántica de errores necesita un decodificador que determine qué errores se produjeron. Depende de ajustes numéricos, o pesos, basados en mediciones del hardware; pero las frecuencias de los cúbits varían, los defectos aparecen y desaparecen y el rendimiento de las puertas cambia, de modo que los pesos quedan desactualizados y deben recalibrarse."
               },
               {
                 "t": "p",
-                "x": "Parte de un método que resalta el DNA físicamente accesible; luego, el aprendizaje automático evalúa cuáles de las regiones resaltadas probablemente importan para la regulación génica, a una escala de miles de millones de regiones. \"Aquí el aprendizaje automático realmente copia algo que podemos ver con nuestros propios ojos en los datos\", dice Mitchell R. Vollger."
+                "x": "Riverlane ha desarrollado un bucle de calibración basado en IA (AI-based) que aprende mejores ajustes del decodificador directamente de los datos experimentales, sin ajuste manual. La AI propone ajustes, los prueba con datos del hardware en una NVIDIA H100 GPU y favorece los que producen menos errores lógicos."
               },
               {
                 "t": "p",
-                "x": "FIRE encontró decenas de miles de regiones reguladoras antes pasadas por alto, que tienen más probabilidad de contener variantes ligadas a enfermedades. En un ejemplo de enfermedad celíaca, cambiar una sola letra del DNA en un interruptor génico junto a un gen inmunitario alteró cuán abierto estaba el interruptor."
+                "x": "Con el Local Clustering Decoder de Riverlane adaptado a GPUs, un ciclo de entrenamiento de código de superficie (surface-code) que tardaba tres minutos en un solo núcleo de CPU ahora tarda 2.8 segundos. La H100 decodifica más de cuatro millones de síndromes por segundo, frente a unos 59,000 en un núcleo de CPU."
               },
               {
                 "t": "p",
-                "x": "Alrededor del 40% de las veces, las dos copias heredadas se regulaban de forma distinta aunque su DNA era idéntico en ese punto, y algunas de estas diferencias se transmitían al dividirse las células: lo que Vollger llama \"los límites de cuánto puede determinar nuestra genética la regulación de nuestros genes\"."
+                "x": "Un bucle que dura minutos en lugar de horas puede ejecutarse antes de cada experimento y no una vez al día. “Riverlane está usando la AI para ayudar a que la corrección de errores siga el ritmo de un hardware cuántico cambiante”, dijo Sam Stanwyck, de NVIDIA."
               }
             ]
           }
@@ -651,339 +627,15 @@
       }
     },
     {
-      "id": "science-bulk-metal-testing",
+      "id": "science-chatbot-language-personality",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 가열로를 조정\n벌크 금속 시험 자동화",
-      "body": "Tohoku University·NIMS가 AI로 도는 금속 시험 라인을 만들었다.",
-      "mini_headline": "AI가 금속 시험을 돌린다",
-      "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
-            "cap": "로봇이 시편을 옮기며 자동 열처리, XRD, 충격 시험을 잇는다. Credit: Science and Technology of Advanced Materials: Methods (2026)"
-          },
-          {
-            "t": "p",
-            "x": "Tohoku University 연구진은 NIMS, TsubameLab과 함께 벌크 금속의 열처리, X-ray 회절, 기계적 시험을 사람 손을 거치지 않고 잇는 시스템을 만들었다. 로봇 팔이 유도 가열로, XRD 장비, 미세 충격 시험기 사이로 시편을 옮긴다."
-          },
-          {
-            "t": "p",
-            "x": "JIS SCM435H 저합금강의 한 단계·두 단계 템퍼링 시험에서 열처리 시간을 빼고 시료당 약 800초가 들었다. 정확도는 수작업 시험과 비슷했고 속도는 수작업 실험보다 10배 이상 빨랐다."
-          },
-          {
-            "t": "p",
-            "x": "연구팀은 NIMS Orchestration System(NIMO)에 AI 최적화 도구를 넣어, 가열로 제어 변수를 자동으로 최적화하는 과정도 보여줬다. Goro Miyamoto는 \"이번 연구는 실험 워크플로 전체를 자동화할 수 있음을 보여준다\"고 말한다."
-          },
-          {
-            "t": "p",
-            "x": "연구진이 그리는 다음 단계는 AI가 새 열처리 조건을 제안하고 플랫폼이 이를 자동으로 시험하는 폐루프다."
-          }
-        ]
-      },
-      "_lead_image": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
-      "_video": "",
-      "text": {
-        "en": {
-          "headline": "AI tunes the furnace in\nautomated bulk-metal testing",
-          "body": "Tohoku University and NIMS built an automated bulk-metal testing line whose AI optimizer tunes furnace parameters.",
-          "mini_headline": "AI runs metal testing",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
-                "cap": "Automated heat treatment, XRD and impact testing linked by robotic specimen transfer. Credit: Science and Technology of Advanced Materials: Methods (2026)"
-              },
-              {
-                "t": "p",
-                "x": "Researchers at Tohoku University, working with NIMS and TsubameLab, built a system that links heat treatment, X-ray diffraction and mechanical testing of bulk metals without human intervention. A robotic arm moves specimens between an induction furnace, an XRD instrument and a micro-impact tester."
-              },
-              {
-                "t": "p",
-                "x": "In tests on one- and two-step tempering of JIS SCM435H low-alloy steel, it took approximately 800 seconds per sample, excluding heat-treatment time, with accuracy comparable to manual testing and more than 10 times faster than manual experimentation."
-              },
-              {
-                "t": "p",
-                "x": "The team implemented an AI optimization tool within the NIMS Orchestration System (NIMO) and demonstrated automated optimization of furnace control parameters. \"This work demonstrates that the entire experimental workflow can be automated,\" says Goro Miyamoto."
-              },
-              {
-                "t": "p",
-                "x": "The researchers envision a future closed loop in which AI proposes new heat-treatment conditions and the platform tests them automatically."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI가 가열로를 조정\n벌크 금속 시험 자동화",
-          "body": "Tohoku University·NIMS가 AI로 도는 금속 시험 라인을 만들었다.",
-          "mini_headline": "AI가 금속 시험을 돌린다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
-                "cap": "로봇이 시편을 옮기며 자동 열처리, XRD, 충격 시험을 잇는다. Credit: Science and Technology of Advanced Materials: Methods (2026)"
-              },
-              {
-                "t": "p",
-                "x": "Tohoku University 연구진은 NIMS, TsubameLab과 함께 벌크 금속의 열처리, X-ray 회절, 기계적 시험을 사람 손을 거치지 않고 잇는 시스템을 만들었다. 로봇 팔이 유도 가열로, XRD 장비, 미세 충격 시험기 사이로 시편을 옮긴다."
-              },
-              {
-                "t": "p",
-                "x": "JIS SCM435H 저합금강의 한 단계·두 단계 템퍼링 시험에서 열처리 시간을 빼고 시료당 약 800초가 들었다. 정확도는 수작업 시험과 비슷했고 속도는 수작업 실험보다 10배 이상 빨랐다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 NIMS Orchestration System(NIMO)에 AI 최적화 도구를 넣어, 가열로 제어 변수를 자동으로 최적화하는 과정도 보여줬다. Goro Miyamoto는 \"이번 연구는 실험 워크플로 전체를 자동화할 수 있음을 보여준다\"고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "연구진이 그리는 다음 단계는 AI가 새 열처리 조건을 제안하고 플랫폼이 이를 자동으로 시험하는 폐루프다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIが炉を調整する\nバルク金属の自動試験",
-          "body": "Tohoku UniversityとNIMSが、AIで炉を最適化する金属試験系を作った。",
-          "mini_headline": "AIが金属試験を回す",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
-                "cap": "ロボットによる試料搬送で、自動熱処理、XRD、衝撃試験をつなぐ。Credit: Science and Technology of Advanced Materials: Methods (2026)"
-              },
-              {
-                "t": "p",
-                "x": "Tohoku Universityの研究者はNIMSおよびTsubameLabと協力し、バルク金属の熱処理、X-ray回折、機械試験を人手を介さずにつなぐシステムを構築した。ロボットアームが誘導加熱炉、XRD装置、微小衝撃試験機の間で試料を移動させる。"
-              },
-              {
-                "t": "p",
-                "x": "JIS SCM435H低合金鋼の一段階・二段階焼戻しを対象とした試験では、熱処理時間を除いて試料あたり約800秒を要した。精度は手作業の試験と同等で、手作業の実験より10倍以上速かった。"
-              },
-              {
-                "t": "p",
-                "x": "チームはNIMS Orchestration System（NIMO）内にAI最適化ツールを実装し、炉の制御パラメーターの自動最適化を実証した。Goro Miyamotoは「この研究は、実験ワークフロー全体を自動化できることを示している」と述べる。"
-              },
-              {
-                "t": "p",
-                "x": "研究者らは、AIが新たな熱処理条件を提案し、プラットフォームがそれを自動で試験するクローズドループを将来像として描いている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI调节炉子参数\n块体金属自动测试",
-          "body": "Tohoku University与NIMS建成自动块体金属测试线，由AI优化器调节炉参数。",
-          "mini_headline": "AI运行金属测试",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
-                "cap": "机械臂转运试样，将自动热处理、XRD与冲击测试串联起来。Credit: Science and Technology of Advanced Materials: Methods (2026)"
-              },
-              {
-                "t": "p",
-                "x": "Tohoku University的研究人员与NIMS和TsubameLab合作，建成一套无需人工干预即可串联块体金属热处理、X-ray衍射和力学测试的系统。机械臂在感应炉、XRD仪器和微冲击试验机之间转运试样。"
-              },
-              {
-                "t": "p",
-                "x": "在对JIS SCM435H低合金钢进行一段和两段回火的测试中，每个样品耗时约800秒（不含热处理时间），精度与人工测试相当，速度比人工实验快10倍以上。"
-              },
-              {
-                "t": "p",
-                "x": "团队在NIMS Orchestration System（NIMO）中部署了AI优化工具，并演示了炉控参数的自动优化。Goro Miyamoto表示：“这项工作表明，整个实验流程都可以实现自动化。”"
-              },
-              {
-                "t": "p",
-                "x": "研究人员设想未来形成闭环：由AI提出新的热处理条件，再由平台自动进行测试。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI ajusta el horno en pruebas\nautomatizadas de metal en bloque",
-          "body": "Tohoku University y NIMS crearon una línea automatizada de pruebas de metal cuyo optimizador de AI ajusta el horno.",
-          "mini_headline": "La AI dirige pruebas de metales",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
-                "cap": "Tratamiento térmico, XRD y ensayos de impacto automatizados, conectados mediante transferencia robótica de probetas. Credit: Science and Technology of Advanced Materials: Methods (2026)"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de Tohoku University, en colaboración con NIMS y TsubameLab, crearon un sistema que enlaza el tratamiento térmico, la difracción de rayos X (X-ray) y los ensayos mecánicos de metales en bloque sin intervención humana. Un brazo robótico traslada las probetas entre un horno de inducción, un instrumento de XRD y un probador de microimpacto."
-              },
-              {
-                "t": "p",
-                "x": "En pruebas de revenido de una y dos etapas del acero de baja aleación JIS SCM435H, tardó aproximadamente 800 segundos por muestra, sin contar el tiempo de tratamiento térmico, con una precisión comparable a la de las pruebas manuales y más de 10 veces más rápido que la experimentación manual."
-              },
-              {
-                "t": "p",
-                "x": "El equipo implementó una herramienta de optimización con AI dentro del NIMS Orchestration System (NIMO) y demostró la optimización automatizada de los parámetros de control del horno. \"Este trabajo demuestra que todo el flujo experimental puede automatizarse\", dice Goro Miyamoto."
-              },
-              {
-                "t": "p",
-                "x": "Los investigadores imaginan un futuro ciclo cerrado en el que la AI proponga nuevas condiciones de tratamiento térmico y la plataforma las pruebe automáticamente."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI가 가열로를 조정\n벌크 금속 시험 자동화",
-          "body": "Tohoku University와 NIMS가 AI 기반 금속 시험 라인을 만들었다.",
-          "mini_headline": "AI가 금속 시험을 돌린다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
-                "cap": "로봇의 시편 이송으로 자동 열처리, XRD, 충격 시험을 연결했다. Credit: Science and Technology of Advanced Materials: Methods (2026)"
-              },
-              {
-                "t": "p",
-                "x": "Tohoku University 연구진은 NIMS, TsubameLab과 함께 벌크 금속의 열처리, X-ray 회절, 기계적 시험을 사람의 개입 없이 잇는 시스템을 만들었다. 로봇 팔이 유도 가열로, XRD 장비, 미세 충격 시험기 사이로 시편을 옮긴다."
-              },
-              {
-                "t": "p",
-                "x": "JIS SCM435H 저합금강의 한 단계·두 단계 템퍼링 시험에서 열처리 시간을 빼고 시료당 약 800초가 걸렸다. 정확도는 수작업 시험과 비슷했고, 속도는 수작업 실험보다 10배 이상 빨랐다."
-              },
-              {
-                "t": "p",
-                "x": "연구팀은 NIMS Orchestration System(NIMO)에 AI 최적화 도구를 구현해 가열로 제어 변수의 자동 최적화를 시연했다. Goro Miyamoto는 \"이번 연구는 실험 워크플로 전체를 자동화할 수 있음을 보여준다\"고 말한다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 AI가 새로운 열처리 조건을 제안하고 플랫폼이 이를 자동으로 시험하는 폐루프를 앞으로의 모습으로 그리고 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIが炉を調整する\nバルク金属の自動試験",
-          "body": "Tohoku UniversityとNIMSが、AIで炉を最適化する金属試験系を作った。",
-          "mini_headline": "AIが金属試験を回す",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
-                "cap": "ロボットによる試料搬送で、自動熱処理、XRD、衝撃試験をつなぐ。Credit: Science and Technology of Advanced Materials: Methods (2026)"
-              },
-              {
-                "t": "p",
-                "x": "Tohoku Universityの研究者はNIMSおよびTsubameLabと協力し、バルク金属の熱処理、X-ray回折、機械試験を人手を介さずにつなぐシステムを構築した。ロボットアームが誘導加熱炉、XRD装置、微小衝撃試験機の間で試料を移動させる。"
-              },
-              {
-                "t": "p",
-                "x": "JIS SCM435H低合金鋼の一段階・二段階焼戻しを対象とした試験では、熱処理時間を除いて試料あたり約800秒を要した。精度は手作業の試験と同等で、手作業の実験より10倍以上速かった。"
-              },
-              {
-                "t": "p",
-                "x": "チームはNIMS Orchestration System（NIMO）内にAI最適化ツールを実装し、炉の制御パラメーターの自動最適化を実証した。Goro Miyamotoは「この研究は、実験ワークフロー全体を自動化できることを示している」と述べる。"
-              },
-              {
-                "t": "p",
-                "x": "研究者らは、AIが新たな熱処理条件を提案し、プラットフォームがそれを自動で試験するクローズドループを将来像として描いている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI调节炉子参数\n块体金属自动测试",
-          "body": "Tohoku University与NIMS建成自动块体金属测试线，由AI优化器调节炉参数。",
-          "mini_headline": "AI运行金属测试",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
-                "cap": "机械臂转运试样，将自动热处理、XRD与冲击测试串联起来。Credit: Science and Technology of Advanced Materials: Methods (2026)"
-              },
-              {
-                "t": "p",
-                "x": "Tohoku University的研究人员与NIMS和TsubameLab合作，建成一套无需人工干预即可串联块体金属热处理、X-ray衍射和力学测试的系统。机械臂在感应炉、XRD仪器和微冲击试验机之间转运试样。"
-              },
-              {
-                "t": "p",
-                "x": "在对JIS SCM435H低合金钢进行一段和两段回火的测试中，每个样品耗时约800秒（不含热处理时间），精度与人工测试相当，速度比人工实验快10倍以上。"
-              },
-              {
-                "t": "p",
-                "x": "团队在NIMS Orchestration System（NIMO）中部署了AI优化工具，并演示了炉控参数的自动优化。Goro Miyamoto表示：“这项工作表明，整个实验流程都可以实现自动化。”"
-              },
-              {
-                "t": "p",
-                "x": "研究人员设想未来形成闭环：由AI提出新的热处理条件，再由平台自动进行测试。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La AI ajusta el horno en pruebas\nautomatizadas de metal en bloque",
-          "body": "Tohoku University y NIMS crearon una línea automatizada de pruebas de metal cuyo optimizador de AI ajusta el horno.",
-          "mini_headline": "La AI dirige pruebas de metales",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/fully-automated-metal.jpg",
-                "cap": "Tratamiento térmico, XRD y ensayos de impacto automatizados, conectados mediante transferencia robótica de probetas. Credit: Science and Technology of Advanced Materials: Methods (2026)"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de Tohoku University, en colaboración con NIMS y TsubameLab, crearon un sistema que enlaza el tratamiento térmico, la difracción de rayos X (X-ray) y los ensayos mecánicos de metales en bloque sin intervención humana. Un brazo robótico traslada las probetas entre un horno de inducción, un instrumento de XRD y un probador de microimpacto."
-              },
-              {
-                "t": "p",
-                "x": "En pruebas de revenido de una y dos etapas del acero de baja aleación JIS SCM435H, tardó aproximadamente 800 segundos por muestra, sin contar el tiempo de tratamiento térmico, con una precisión comparable a la de las pruebas manuales y más de 10 veces más rápido que la experimentación manual."
-              },
-              {
-                "t": "p",
-                "x": "El equipo implementó una herramienta de optimización con AI dentro del NIMS Orchestration System (NIMO) y demostró la optimización automatizada de los parámetros de control del horno. \"Este trabajo demuestra que todo el flujo experimental puede automatizarse\", dice Goro Miyamoto."
-              },
-              {
-                "t": "p",
-                "x": "Los investigadores imaginan un futuro ciclo cerrado en el que la AI proponga nuevas condiciones de tratamiento térmico y la plataforma las pruebe automáticamente."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "science-agentxtract-food-physics",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트, 논문에서\n새 식품 물리를 캐다",
-      "body": "Penn State의 AgentXtract가 논문에서 새 유전율 관계를 찾았다.",
-      "mini_headline": "AI가 식품 물리를 캐다",
+      "headline": "챗봇의 성격은\n언어 따라 달라진다",
+      "body": "다섯 챗봇의 Big Five 답은 한 언어에선 일정했지만 영어·중국어 간엔 달랐다.",
+      "mini_headline": "언어 따라 바뀌는 챗봇 성격",
       "tool": "Science",
       "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-ai-food-physics-pair-human.html",
+      "url": "https://techxplore.com/news/2026-10-languages-chatbot-personality-results.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -991,157 +643,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
-            "cap": "Xu Zhou가 연구실에서 식품 소재의 유전 특성을 측정하고 있다. Credit: Penn State. Creative Commons"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
           },
           {
             "t": "p",
-            "x": "식품과학 조교수 Xu Zhou가 이끄는 Penn State 연구진은 과학 논문의 표와 그림, 수식에서 식품 물성 실험 데이터를 뽑아내는 AI 에이전트 시스템 AgentXtract를 만들었다."
+            "x": "중국과학기술대학(University of Science and Technology of China) 연구진은 ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5, Le Chat까지 챗봇 다섯 개에 Big Five Inventory-2 설문을 영어와 중국어로 언어당 30번씩 실시했다. Le Chat은 프랑스어로도 시험했다."
           },
           {
             "t": "p",
-            "x": "믿을 만한 출처를 고르고 데이터 품질을 확인하는 일은 식품공학자들이 맡았다. 에이전트들은 30분 만에 4,000건이 넘는 실험 데이터 기록을 모았다. Zhou에 따르면 예전에는 숙련된 연구자가 여섯 달 이상 매달려야 했던 작업이다. 연구팀은 OpenAI, Google, Anthropic의 대규모 언어 모델 10개도 평가했다."
+            "x": "같은 언어 안에서는 성격 프로필이 꽤 일관됐다. 모델들은 스스로를 협조적이고 믿음직하며 부정적 정서는 거의 없다고 묘사했다. 그런데 언어를 바꾸면 점수가 달라졌고, 달라지는 방향도 모델마다 제각각이었다. ChatGPT-4o의 개방성은 평균 영어 4.74, 중국어 4.03이었고 DeepSeek-V3는 4.38과 4.81이었다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+            "cap": "사람과 챗봇의 응답을 언어별로 비교한 다섯 가지 특성의 평균 점수."
           },
           {
             "t": "p",
-            "x": "데이터베이스를 분석하자 100가지가 넘는 식품에서 두 유전 특성인 유전 상수와 손실 계수 사이에 그동안 보고되지 않은 수학적 관계가 드러났다. 질의응답 AI에 이 데이터베이스를 연결하면 답변의 근거도 더 탄탄해졌다. 연구는 Journal of Food Engineering에 실렸다."
+            "x": "개발 국가로 설명되는 부분은 일부였고, 사람 기준 집단과 완전히 일치한 모델은 하나도 없었다. 점수는 감정이 아니라 설문 응답일 뿐이다. 챗봇을 설문 참여자 대신 쓰기가 위험한 이유다. 연구는 Royal Society Open Science에 실렸다."
           }
         ]
       },
-      "_lead_image": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "AI agents mine papers\nfor new food physics",
-          "body": "Penn State's AgentXtract mines papers for food data that experts verify, revealing an unreported dielectric link.",
-          "mini_headline": "AI mines food physics",
+          "headline": "A chatbot's personality\nshifts with its language",
+          "body": "Five chatbots answered Big Five tests steadily in one language, but scores shifted between English and Mandarin.",
+          "mini_headline": "Chatbot traits shift by language",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
-                "cap": "Xu Zhou measures dielectric properties of food materials in his lab. Credit: Penn State. Creative Commons"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Penn State researchers led by Xu Zhou, assistant professor of food science, built AgentXtract, a system of AI agents that extracts experimental food-property data from scientific papers, including tables, figures and equations."
+                "x": "Researchers at the University of Science and Technology of China gave five chatbots — ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5 and Le Chat — the Big Five Inventory-2 questionnaire in English and Mandarin, 30 times per language. Le Chat was also tested in French."
               },
               {
                 "t": "p",
-                "x": "Human food engineers identified reliable sources and ensured data quality. The agents gathered more than 4,000 experimental data records in just 30 minutes — work Zhou said once took an experienced researcher six months or more. The study evaluated 10 large language models from OpenAI, Google and Anthropic."
+                "x": "Within a language, profiles were fairly consistent: the models described themselves as cooperative and dependable, with little negative emotionality. Switching languages shifted the scores, in directions that varied by model. ChatGPT-4o's open-mindedness averaged 4.74 in English and 4.03 in Mandarin; DeepSeek-V3 scored 4.38 and 4.81."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+                "cap": "Mean scores for five traits comparing human vs chatbot responses in different languages."
               },
               {
                 "t": "p",
-                "x": "Analyzing the database revealed a previously unreported mathematical relationship between two dielectric properties — dielectric constant and loss factor — across more than 100 different foods. Linked to a question-answering AI, the database also produced more evidence-based answers. The work appears in the Journal of Food Engineering."
+                "x": "Developer country explained only part of it, and no model fully matched its human reference group. The scores describe questionnaire answers, not feelings — so using chatbots as stand-ins for survey participants is risky. The study appears in Royal Society Open Science."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 에이전트, 논문에서\n새 식품 물리를 캐다",
-          "body": "Penn State의 AgentXtract가 논문에서 새 유전율 관계를 찾았다.",
-          "mini_headline": "AI가 식품 물리를 캐다",
+          "headline": "챗봇의 성격은\n언어 따라 달라진다",
+          "body": "다섯 챗봇의 Big Five 답은 한 언어에선 일정했지만 영어·중국어 간엔 달랐다.",
+          "mini_headline": "언어 따라 바뀌는 챗봇 성격",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
-                "cap": "Xu Zhou가 연구실에서 식품 소재의 유전 특성을 측정하고 있다. Credit: Penn State. Creative Commons"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
               },
               {
                 "t": "p",
-                "x": "식품과학 조교수 Xu Zhou가 이끄는 Penn State 연구진은 과학 논문의 표와 그림, 수식에서 식품 물성 실험 데이터를 뽑아내는 AI 에이전트 시스템 AgentXtract를 만들었다."
+                "x": "중국과학기술대학(University of Science and Technology of China) 연구진은 ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5, Le Chat까지 챗봇 다섯 개에 Big Five Inventory-2 설문을 영어와 중국어로 언어당 30번씩 실시했다. Le Chat은 프랑스어로도 시험했다."
               },
               {
                 "t": "p",
-                "x": "믿을 만한 출처를 고르고 데이터 품질을 확인하는 일은 식품공학자들이 맡았다. 에이전트들은 30분 만에 4,000건이 넘는 실험 데이터 기록을 모았다. Zhou에 따르면 예전에는 숙련된 연구자가 여섯 달 이상 매달려야 했던 작업이다. 연구팀은 OpenAI, Google, Anthropic의 대규모 언어 모델 10개도 평가했다."
+                "x": "같은 언어 안에서는 성격 프로필이 꽤 일관됐다. 모델들은 스스로를 협조적이고 믿음직하며 부정적 정서는 거의 없다고 묘사했다. 그런데 언어를 바꾸면 점수가 달라졌고, 달라지는 방향도 모델마다 제각각이었다. ChatGPT-4o의 개방성은 평균 영어 4.74, 중국어 4.03이었고 DeepSeek-V3는 4.38과 4.81이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+                "cap": "사람과 챗봇의 응답을 언어별로 비교한 다섯 가지 특성의 평균 점수."
               },
               {
                 "t": "p",
-                "x": "데이터베이스를 분석하자 100가지가 넘는 식품에서 두 유전 특성인 유전 상수와 손실 계수 사이에 그동안 보고되지 않은 수학적 관계가 드러났다. 질의응답 AI에 이 데이터베이스를 연결하면 답변의 근거도 더 탄탄해졌다. 연구는 Journal of Food Engineering에 실렸다."
+                "x": "개발 국가로 설명되는 부분은 일부였고, 사람 기준 집단과 완전히 일치한 모델은 하나도 없었다. 점수는 감정이 아니라 설문 응답일 뿐이다. 챗봇을 설문 참여자 대신 쓰기가 위험한 이유다. 연구는 Royal Society Open Science에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントが論文から\n新たな食品物理を発掘",
-          "body": "Penn StateのAgentXtractが論文から未報告の誘電関係を見いだした。",
-          "mini_headline": "AIが食品物理を発掘",
+          "headline": "チャットボットの性格は\n言語で変わる",
+          "body": "五つのチャットボットのBig Five回答は言語内で安定し、英語と中国語の間で変わった。",
+          "mini_headline": "言語で変わるチャットボットの性格",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
-                "cap": "研究室で食品素材の誘電特性を測定するXu Zhou。Credit: Penn State. Creative Commons"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
               },
               {
                 "t": "p",
-                "x": "食品科学の助教Xu Zhouが率いるPenn Stateの研究チームは、科学論文の表や図、数式を含む部分から食品物性の実験データを抽出するAIエージェントのシステムAgentXtractを開発した。"
+                "x": "中国科学技術大学（University of Science and Technology of China）の研究者は、五つのチャットボット（ChatGPT-4o、Gemini 2.0 Flash、DeepSeek-V3、Ernie 3.5、Le Chat）にBig Five Inventory-2の質問票を英語と中国語で、各言語30回ずつ実施した。Le Chatはフランス語でもテストした。"
               },
               {
                 "t": "p",
-                "x": "人間の食品エンジニアが信頼できる情報源を特定し、データの品質を担保した。エージェントはわずか30分で4,000件を超える実験データを収集した。Zhouによれば、かつては熟練の研究者が六か月以上かけていた作業だという。研究ではOpenAI、Google、Anthropicの大規模言語モデル10種を評価した。"
+                "x": "同じ言語内ではプロフィールはかなり一貫していた。モデルは自らを協調的で信頼でき、否定的な情動はほとんどないと描写した。言語を切り替えると点数が変わり、その方向はモデルによって異なった。ChatGPT-4oの開放性は平均で英語4.74、中国語4.03、DeepSeek-V3は4.38と4.81だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+                "cap": "言語ごとに人間とチャットボットの回答を比較した五つの特性の平均点。"
               },
               {
                 "t": "p",
-                "x": "データベースを分析すると、100種類を超える食品にわたり、二つの誘電特性である誘電率と損失係数の間に、これまで報告されていなかった数学的関係が見つかった。質問応答AIと連携させると、データベースはより根拠に基づいた回答も生み出した。成果はJournal of Food Engineeringに掲載された。"
+                "x": "開発国で説明できたのは一部にすぎず、人間の参照グループと完全に一致したモデルはなかった。点数は感情ではなく質問票への回答を表すものであり、チャットボットを調査参加者の代わりに使うのは危うい。研究はRoyal Society Open Scienceに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体挖掘论文\n发现新的食品物理",
-          "body": "Penn State的AgentXtract从论文挖掘食品数据，揭示未报道的介电关联。",
-          "mini_headline": "AI挖掘食品物理",
+          "headline": "聊天机器人的性格\n随语言而变",
+          "body": "五款聊天机器人的Big Five测试结果在同一语言内稳定，但在英语与普通话间有变化。",
+          "mini_headline": "聊天机器人性格随语言而变",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
-                "cap": "Xu Zhou在实验室测量食品材料的介电特性。Credit: Penn State. Creative Commons"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
               },
               {
                 "t": "p",
-                "x": "由食品科学助理教授Xu Zhou领导的Penn State研究人员开发了AgentXtract，这是一套AI智能体系统，能从科学论文的表格、图和方程中提取食品特性实验数据。"
+                "x": "中国科学技术大学（University of Science and Technology of China）的研究人员让五款聊天机器人——ChatGPT-4o、Gemini 2.0 Flash、DeepSeek-V3、Ernie 3.5和Le Chat——分别用英语和普通话回答Big Five Inventory-2问卷，每种语言30次。Le Chat还接受了法语测试。"
               },
               {
                 "t": "p",
-                "x": "人类食品工程师负责确定可靠来源并保证数据质量。智能体仅用30分钟就收集了4,000多条实验数据记录——Zhou说，这项工作过去需要经验丰富的研究人员花六个月甚至更久。研究评估了来自OpenAI、Google和Anthropic的10个大语言模型。"
+                "x": "在同一语言内，各模型的画像相当一致：它们把自己描述为合作、可靠，几乎没有负面情绪。切换语言后分数发生变化，变化方向因模型而异。ChatGPT-4o的开放性平均分在英语中为4.74，在普通话中为4.03；DeepSeek-V3则为4.38和4.81。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+                "cap": "不同语言下人类与聊天机器人回答的五项特质平均分对比。"
               },
               {
                 "t": "p",
-                "x": "分析该数据库后，研究人员在100多种食品中发现了两种介电特性——介电常数与损耗因子——之间此前未被报道的数学关系。与问答AI连接后，该数据库还给出了更有依据的回答。该研究发表于Journal of Food Engineering。"
+                "x": "开发者所在国家只能解释部分差异，没有一个模型与其人类参照组完全吻合。这些分数描述的是问卷回答，而非感受——因此用聊天机器人替代调查参与者存在风险。该研究发表于Royal Society Open Science。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI exploran artículos\npor nueva física alimentaria",
-          "body": "AgentXtract, de Penn State, extrae datos de alimentos que verifican expertos y revela un vínculo dieléctrico inédito.",
-          "mini_headline": "La AI explora la física de los alimentos",
+          "headline": "La personalidad de un chatbot\ncambia con su idioma",
+          "body": "Cinco chatbots respondieron con constancia al Big Five en un idioma, pero variaron entre inglés y mandarín.",
+          "mini_headline": "Los rasgos de un chatbot cambian según el idioma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
-                "cap": "Xu Zhou mide las propiedades dieléctricas de materiales alimentarios en su laboratorio. Credit: Penn State. Creative Commons"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Penn State dirigidos por Xu Zhou, profesor adjunto de ciencia de los alimentos, crearon AgentXtract, un sistema de agentes de AI que extrae de artículos científicos datos experimentales sobre propiedades de los alimentos, incluidos tablas, figuras y ecuaciones."
+                "x": "Investigadores de la Universidad de Ciencia y Tecnología de China (University of Science and Technology of China) aplicaron a cinco chatbots —ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5 y Le Chat— el cuestionario Big Five Inventory-2 en inglés y en mandarín, 30 veces por idioma. Le Chat también se evaluó en francés."
               },
               {
                 "t": "p",
-                "x": "Ingenieros de alimentos humanos identificaron fuentes fiables y garantizaron la calidad de los datos. Los agentes reunieron más de 4,000 registros de datos experimentales en solo 30 minutos, un trabajo que, según Zhou, antes le llevaba a un investigador experimentado seis meses o más. El estudio evaluó 10 modelos de lenguaje de gran tamaño de OpenAI, Google y Anthropic."
+                "x": "Dentro de un mismo idioma, los perfiles fueron bastante consistentes: los modelos se describieron como cooperativos y fiables, con poca emotividad negativa. Al cambiar de idioma, las puntuaciones variaron, en direcciones distintas según el modelo. La apertura mental de ChatGPT-4o promedió 4.74 en inglés y 4.03 en mandarín; DeepSeek-V3 obtuvo 4.38 y 4.81."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+                "cap": "Puntuaciones medias de cinco rasgos que comparan respuestas humanas y de chatbots en distintos idiomas."
               },
               {
                 "t": "p",
-                "x": "El análisis de la base de datos reveló una relación matemática no descrita hasta ahora entre dos propiedades dieléctricas —la constante dieléctrica y el factor de pérdida— en más de 100 alimentos distintos. Conectada a una AI de preguntas y respuestas, la base de datos también produjo respuestas más basadas en evidencia. El trabajo se publica en el Journal of Food Engineering."
+                "x": "El país del desarrollador explicó solo una parte, y ningún modelo coincidió por completo con su grupo humano de referencia. Las puntuaciones describen respuestas a un cuestionario, no sentimientos, por lo que usar chatbots como sustitutos de participantes en encuestas es arriesgado. El estudio se publica en Royal Society Open Science."
               }
             ]
           }
@@ -1149,109 +823,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 에이전트, 논문에서\n새 식품 물리를 캐다",
-          "body": "Penn State의 AgentXtract가 논문에서 미보고 유전율 관계를 찾았다.",
-          "mini_headline": "AI가 식품 물리를 캐다",
+          "headline": "챗봇의 성격은\n언어 따라 달라진다",
+          "body": "다섯 챗봇의 Big Five 답은 한 언어에선 일정했고 영어·중국어 간엔 달랐다.",
+          "mini_headline": "언어 따라 바뀌는 챗봇 성격",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
-                "cap": "Xu Zhou가 연구실에서 식품 소재의 유전 특성을 측정하고 있다. Credit: Penn State. Creative Commons"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
               },
               {
                 "t": "p",
-                "x": "식품과학 조교수 Xu Zhou가 이끄는 Penn State 연구진은 과학 논문의 표, 그림, 수식에서 식품 물성 실험 데이터를 추출하는 AI 에이전트 시스템 AgentXtract를 만들었다."
+                "x": "중국과학기술대학(University of Science and Technology of China) 연구진은 챗봇 다섯 개, 곧 ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5, Le Chat에 Big Five Inventory-2 설문을 영어와 중국어로 언어당 30번씩 실시했다. Le Chat은 프랑스어로도 시험했다."
               },
               {
                 "t": "p",
-                "x": "인간 식품공학자들이 신뢰할 만한 출처를 고르고 데이터 품질을 확인했다. 에이전트들은 30분 만에 4,000건이 넘는 실험 데이터 기록을 모았는데, Zhou는 예전에는 숙련된 연구자가 여섯 달 이상 걸리던 작업이라고 말했다. 연구는 OpenAI, Google, Anthropic의 대규모 언어 모델 10개를 평가했다."
+                "x": "같은 언어 안에서는 성격 프로필이 꽤 일관됐다. 모델들은 스스로를 협조적이고 믿음직하며 부정적 정서는 거의 없다고 묘사했다. 언어를 바꾸자 점수가 달라졌고, 그 방향은 모델마다 달랐다. ChatGPT-4o의 개방성은 평균 영어 4.74, 중국어 4.03이었고, DeepSeek-V3는 4.38과 4.81이었다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+                "cap": "언어별로 사람과 챗봇의 응답을 비교한 다섯 가지 특성의 평균 점수."
               },
               {
                 "t": "p",
-                "x": "데이터베이스를 분석한 결과, 100가지가 넘는 식품에서 두 유전 특성인 유전 상수와 손실 계수 사이에 그동안 보고되지 않은 수학적 관계가 드러났다. 질의응답 AI와 연결하자 이 데이터베이스는 근거가 더 탄탄한 답변도 내놓았다. 연구는 Journal of Food Engineering에 실렸다."
+                "x": "개발 국가로는 일부만 설명됐고, 어떤 모델도 사람 기준 집단과 완전히 일치하지 않았다. 점수는 감정이 아니라 설문 응답을 나타낸다. 그래서 챗봇을 설문 참여자 대신 쓰는 것은 위험하다. 연구는 Royal Society Open Science에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIエージェントが論文から\n新たな食品物理を発掘",
-          "body": "Penn StateのAgentXtractが論文から未報告の誘電関係を見いだした。",
-          "mini_headline": "AIが食品物理を発掘",
+          "headline": "チャットボットの性格は\n言語で変わる",
+          "body": "五つのチャットボットのBig Five回答は言語内で安定し、英語と中国語の間で変わった。",
+          "mini_headline": "言語で変わるチャットボットの性格",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
-                "cap": "研究室で食品素材の誘電特性を測定するXu Zhou。Credit: Penn State. Creative Commons"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
               },
               {
                 "t": "p",
-                "x": "食品科学の助教Xu Zhouが率いるPenn Stateの研究チームは、科学論文の表や図、数式を含む部分から食品物性の実験データを抽出するAIエージェントのシステムAgentXtractを開発した。"
+                "x": "中国科学技術大学（University of Science and Technology of China）の研究者は、五つのチャットボット（ChatGPT-4o、Gemini 2.0 Flash、DeepSeek-V3、Ernie 3.5、Le Chat）にBig Five Inventory-2の質問票を英語と中国語で、各言語30回ずつ実施した。Le Chatはフランス語でもテストした。"
               },
               {
                 "t": "p",
-                "x": "人間の食品エンジニアが信頼できる情報源を特定し、データの品質を担保した。エージェントはわずか30分で4,000件を超える実験データを収集した。Zhouによれば、かつては熟練の研究者が六か月以上かけていた作業だという。研究ではOpenAI、Google、Anthropicの大規模言語モデル10種を評価した。"
+                "x": "同じ言語内ではプロフィールはかなり一貫していた。モデルは自らを協調的で信頼でき、否定的な情動はほとんどないと描写した。言語を切り替えると点数が変わり、その方向はモデルによって異なった。ChatGPT-4oの開放性は平均で英語4.74、中国語4.03、DeepSeek-V3は4.38と4.81だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+                "cap": "言語ごとに人間とチャットボットの回答を比較した五つの特性の平均点。"
               },
               {
                 "t": "p",
-                "x": "データベースを分析すると、100種類を超える食品にわたり、二つの誘電特性である誘電率と損失係数の間に、これまで報告されていなかった数学的関係が見つかった。質問応答AIと連携させると、データベースはより根拠に基づいた回答も生み出した。成果はJournal of Food Engineeringに掲載された。"
+                "x": "開発国で説明できたのは一部にすぎず、人間の参照グループと完全に一致したモデルはなかった。点数は感情ではなく質問票への回答を表すものであり、チャットボットを調査参加者の代わりに使うのは危うい。研究はRoyal Society Open Scienceに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI智能体挖掘论文\n发现新的食品物理",
-          "body": "Penn State的AgentXtract从论文挖掘食品数据，揭示未报道的介电关联。",
-          "mini_headline": "AI挖掘食品物理",
+          "headline": "聊天机器人的性格\n随语言而变",
+          "body": "五款聊天机器人的Big Five测试结果在同一语言内稳定，但在英语与普通话间有变化。",
+          "mini_headline": "聊天机器人性格随语言而变",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
-                "cap": "Xu Zhou在实验室测量食品材料的介电特性。Credit: Penn State. Creative Commons"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
               },
               {
                 "t": "p",
-                "x": "由食品科学助理教授Xu Zhou领导的Penn State研究人员开发了AgentXtract，这是一套AI智能体系统，能从科学论文的表格、图和方程中提取食品特性实验数据。"
+                "x": "中国科学技术大学（University of Science and Technology of China）的研究人员让五款聊天机器人——ChatGPT-4o、Gemini 2.0 Flash、DeepSeek-V3、Ernie 3.5和Le Chat——分别用英语和普通话回答Big Five Inventory-2问卷，每种语言30次。Le Chat还接受了法语测试。"
               },
               {
                 "t": "p",
-                "x": "人类食品工程师负责确定可靠来源并保证数据质量。智能体仅用30分钟就收集了4,000多条实验数据记录——Zhou说，这项工作过去需要经验丰富的研究人员花六个月甚至更久。研究评估了来自OpenAI、Google和Anthropic的10个大语言模型。"
+                "x": "在同一语言内，各模型的画像相当一致：它们把自己描述为合作、可靠，几乎没有负面情绪。切换语言后分数发生变化，变化方向因模型而异。ChatGPT-4o的开放性平均分在英语中为4.74，在普通话中为4.03；DeepSeek-V3则为4.38和4.81。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+                "cap": "不同语言下人类与聊天机器人回答的五项特质平均分对比。"
               },
               {
                 "t": "p",
-                "x": "分析该数据库后，研究人员在100多种食品中发现了两种介电特性——介电常数与损耗因子——之间此前未被报道的数学关系。与问答AI连接后，该数据库还给出了更有依据的回答。该研究发表于Journal of Food Engineering。"
+                "x": "开发者所在国家只能解释部分差异，没有一个模型与其人类参照组完全吻合。这些分数描述的是问卷回答，而非感受——因此用聊天机器人替代调查参与者存在风险。该研究发表于Royal Society Open Science。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de AI exploran artículos\npor nueva física alimentaria",
-          "body": "AgentXtract, de Penn State, extrae datos de alimentos que verifican expertos y revela un vínculo dieléctrico inédito.",
-          "mini_headline": "La AI explora la física de los alimentos",
+          "headline": "La personalidad de un chatbot\ncambia con su idioma",
+          "body": "Cinco chatbots respondieron con constancia al Big Five en un idioma, pero variaron entre inglés y mandarín.",
+          "mini_headline": "Los rasgos de un chatbot cambian según el idioma",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/can-ai-help-discover-n.jpg",
-                "cap": "Xu Zhou mide las propiedades dieléctricas de materiales alimentarios en su laboratorio. Credit: Penn State. Creative Commons"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Penn State dirigidos por Xu Zhou, profesor adjunto de ciencia de los alimentos, crearon AgentXtract, un sistema de agentes de AI que extrae de artículos científicos datos experimentales sobre propiedades de los alimentos, incluidos tablas, figuras y ecuaciones."
+                "x": "Investigadores de la Universidad de Ciencia y Tecnología de China (University of Science and Technology of China) aplicaron a cinco chatbots —ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5 y Le Chat— el cuestionario Big Five Inventory-2 en inglés y en mandarín, 30 veces por idioma. Le Chat también se evaluó en francés."
               },
               {
                 "t": "p",
-                "x": "Ingenieros de alimentos humanos identificaron fuentes fiables y garantizaron la calidad de los datos. Los agentes reunieron más de 4,000 registros de datos experimentales en solo 30 minutos, un trabajo que, según Zhou, antes le llevaba a un investigador experimentado seis meses o más. El estudio evaluó 10 modelos de lenguaje de gran tamaño de OpenAI, Google y Anthropic."
+                "x": "Dentro de un mismo idioma, los perfiles fueron bastante consistentes: los modelos se describieron como cooperativos y fiables, con poca emotividad negativa. Al cambiar de idioma, las puntuaciones variaron, en direcciones distintas según el modelo. La apertura mental de ChatGPT-4o promedió 4.74 en inglés y 4.03 en mandarín; DeepSeek-V3 obtuvo 4.38 y 4.81."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+                "cap": "Puntuaciones medias de cinco rasgos que comparan respuestas humanas y de chatbots en distintos idiomas."
               },
               {
                 "t": "p",
-                "x": "El análisis de la base de datos reveló una relación matemática no descrita hasta ahora entre dos propiedades dieléctricas —la constante dieléctrica y el factor de pérdida— en más de 100 alimentos distintos. Conectada a una AI de preguntas y respuestas, la base de datos también produjo respuestas más basadas en evidencia. El trabajo se publica en el Journal of Food Engineering."
+                "x": "El país del desarrollador explicó solo una parte, y ningún modelo coincidió por completo con su grupo humano de referencia. Las puntuaciones describen respuestas a un cuestionario, no sentimientos, por lo que usar chatbots como sustitutos de participantes en encuestas es arriesgado. El estudio se publica en Royal Society Open Science."
               }
             ]
           }
@@ -1259,233 +949,201 @@
       }
     },
     {
-      "id": "science-studentsim-ai-tutoring",
+      "id": "science-satellite-reentry-drag",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "시뮬레이션 학생이\nAI 튜터를 시험하다",
-      "body": "Microsoft StudentSim은 가상 학생으로 AI 튜터를 사전 검증한다.",
-      "mini_headline": "StudentSim, AI 튜터를 시험하다",
+      "headline": "위성·로켓 단 추락 시점\nAI가 예측한다",
+      "body": "궤도 물리와 11년 추적 자료로 배운 신경망이 재진입 시각을 예측 구간에 담았다.",
+      "mini_headline": "위성 재진입 시점 예측",
       "tool": "Science",
-      "source": "Microsoft Research",
-      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
-      "accent": "#eb367f",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-air-deep-uncontrolled-satellites-rocket.html",
+      "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
-            "cap": ""
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+            "cap": "Cosmos-482, NEOWISE, Long March 4B 단의 예측 낙하 시각과 보고된 낙하 시각 비교."
           },
           {
             "t": "p",
-            "x": "StudentSim은 AI 튜터를 실제 학습자 앞에 내놓기 전에 평가하고 다듬는 Microsoft Research 시스템이다. 제품도 아니고 교사를 대신하려는 것도 아니다. 사람 대상 연구로 피드백을 모으면 느리고 비용도 많이 든다. 그래서 StudentSim은 공개된 비식별 학습자 기록으로 개인 맞춤형 학생 시뮬레이터를 학습시킨다."
+            "x": "통제되지 않는 위성이나 로켓 단은 언제 재진입하느냐에 따라 떨어지는 곳이 달라진다. 시각이 일 분만 어긋나도 낙하 지점은 약 460 km 벌어질 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "연구진은 지구 중력, 지구의 편평도, 대기 항력 같은 궤도 물리에 신경망을 결합했다. 신경망은 약 11년 치 추적 데이터와 우주 기상 예보로 물체마다 탄도 계수를 학습하는데, 공기가 물체를 얼마나 세게 감속시키는지 나타내는 값이다. 추정치는 하강하는 동안 세 시간마다 갱신된다. 불확실성 구간은 구성 요소 일부를 무작위로 끈 채 신경망을 100번 돌려 얻는다."
           },
           {
             "t": "img",
-            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
-            "cap": ""
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+            "cap": "신경망이 탄도 계수를 예측하고 불확실성 구간을 산출하는 방식."
           },
           {
             "t": "p",
-            "x": "시뮬레이터를 평가하는 기준은 Vygotsky의 근접발달영역에서 따온 두 가지다. 특정 학생처럼 반응하는지, 튜터의 안내를 받은 뒤 달라지는지다. 학습은 두 단계로, 여러 학생의 기록을 모아 먼저 익힌 뒤 한 학생 자신의 기록으로 특화한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
-            "cap": ""
-          },
-          {
-            "t": "p",
-            "x": "체스, 외국어로서의 영어 쓰기, 수학 모두에서 StudentSim이 주요 기준 모델보다 나았다. 체스에서는 행동 충실도 0.5150, 안내 반응성 0.9067을 기록해 GPT-5.4의 0.2316, 0.7186을 넘었다. StudentSim을 보상원으로 학습한 체스 튜터의 정확도는 90.5%였다. RL을 쓰지 않으면 75.7%, GPT-5.4 보상을 쓰면 71.6%였다."
+            "x": "Cosmos-482, NASA의 NEOWISE 망원경, Long March 4B 상단으로 사후 검증해 보니 보고된 재진입 시각은 매번 예측 구간 안에 들었다. 계수를 고정하면 구형이 아닌 두 물체의 예측이 31분, 36분 어긋나 구간을 벗어났다. 시험한 물체는 세 개뿐이고, 연구팀은 아직 궤도에 있는 물체로도 시도해 볼 계획이다. 연구는 Acta Astronautica에 실렸다."
           }
         ]
       },
-      "_lead_image": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-TWLIFB-1200x627-1.jpg",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Simulated students put\nAI tutors to the test",
-          "body": "Microsoft's StudentSim simulates learners to test and improve AI tutors before they reach real students.",
-          "mini_headline": "StudentSim tests AI tutors",
+          "headline": "AI forecasts when satellites\nand rocket stages fall",
+          "body": "Orbital physics and a neural net trained on 11 years of tracking put actual reentry times inside forecast windows.",
+          "mini_headline": "Forecasting satellite reentry",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+                "cap": "Predicted vs. reported fall times for Cosmos-482, NEOWISE, and a Long March 4B stage."
               },
               {
                 "t": "p",
-                "x": "StudentSim is a Microsoft Research system for evaluating and improving AI tutors before they are tested with real learners; it is not a product and is not intended to replace teachers. Collecting feedback through human studies is slow and costly, so StudentSim trains personalized student simulators from publicly available, de-identified learner records."
+                "x": "When an uncontrolled satellite or rocket stage reenters determines where it lands: a one-minute timing error can shift the landing point by roughly 460 km."
+              },
+              {
+                "t": "p",
+                "x": "Researchers combine orbital physics — Earth's gravity, its flattening and atmospheric drag — with a neural network that learns each object's ballistic coefficient, a measure of how strongly air slows it, from about 11 years of tracking data and space-weather forecasts. The estimate updates every three hours during descent, and running the network 100 times with random components switched off yields an uncertainty window."
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+                "cap": "How the neural network forecasts the ballistic coefficient and produces the uncertainty window."
               },
               {
                 "t": "p",
-                "x": "Simulators are judged on two dimensions inspired by Vygotsky's zone of proximal development: whether they respond like a specific student, and whether they update after tutor guidance. A two-stage pipeline first trains on records pooled across many students, then specializes on one student's own records."
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "Across chess, second-language English writing and mathematics, StudentSim outperforms leading baselines. In chess it reaches behavioral fidelity of 0.5150 and guidance responsiveness of 0.9067, versus 0.2316 and 0.7186 for GPT-5.4. A chess tutor trained with StudentSim as the reward source reached 90.5% accuracy, compared with 75.7% without RL and 71.6% with a GPT-5.4 reward."
+                "x": "Tested retrospectively on Cosmos-482, NASA's NEOWISE telescope and a Long March 4B upper stage, the reported reentry time fell inside the predicted window each time. Freezing the coefficient shifted predictions for the two nonspherical objects by 31 and 36 minutes, outside their windows. Only three objects were tested; the team plans to try objects still in orbit. The work appears in Acta Astronautica."
               }
             ]
           }
         },
         "ko": {
-          "headline": "시뮬레이션 학생이\nAI 튜터를 시험하다",
-          "body": "Microsoft StudentSim은 가상 학생으로 AI 튜터를 사전 검증한다.",
-          "mini_headline": "StudentSim, AI 튜터를 시험하다",
+          "headline": "위성·로켓 단 추락 시점\nAI가 예측한다",
+          "body": "궤도 물리와 11년 추적 자료로 배운 신경망이 재진입 시각을 예측 구간에 담았다.",
+          "mini_headline": "위성 재진입 시점 예측",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+                "cap": "Cosmos-482, NEOWISE, Long March 4B 단의 예측 낙하 시각과 보고된 낙하 시각 비교."
               },
               {
                 "t": "p",
-                "x": "StudentSim은 AI 튜터를 실제 학습자 앞에 내놓기 전에 평가하고 다듬는 Microsoft Research 시스템이다. 제품도 아니고 교사를 대신하려는 것도 아니다. 사람 대상 연구로 피드백을 모으면 느리고 비용도 많이 든다. 그래서 StudentSim은 공개된 비식별 학습자 기록으로 개인 맞춤형 학생 시뮬레이터를 학습시킨다."
+                "x": "통제되지 않는 위성이나 로켓 단은 언제 재진입하느냐에 따라 떨어지는 곳이 달라진다. 시각이 일 분만 어긋나도 낙하 지점은 약 460 km 벌어질 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 지구 중력, 지구의 편평도, 대기 항력 같은 궤도 물리에 신경망을 결합했다. 신경망은 약 11년 치 추적 데이터와 우주 기상 예보로 물체마다 탄도 계수를 학습하는데, 공기가 물체를 얼마나 세게 감속시키는지 나타내는 값이다. 추정치는 하강하는 동안 세 시간마다 갱신된다. 불확실성 구간은 구성 요소 일부를 무작위로 끈 채 신경망을 100번 돌려 얻는다."
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+                "cap": "신경망이 탄도 계수를 예측하고 불확실성 구간을 산출하는 방식."
               },
               {
                 "t": "p",
-                "x": "시뮬레이터를 평가하는 기준은 Vygotsky의 근접발달영역에서 따온 두 가지다. 특정 학생처럼 반응하는지, 튜터의 안내를 받은 뒤 달라지는지다. 학습은 두 단계로, 여러 학생의 기록을 모아 먼저 익힌 뒤 한 학생 자신의 기록으로 특화한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "체스, 외국어로서의 영어 쓰기, 수학 모두에서 StudentSim이 주요 기준 모델보다 나았다. 체스에서는 행동 충실도 0.5150, 안내 반응성 0.9067을 기록해 GPT-5.4의 0.2316, 0.7186을 넘었다. StudentSim을 보상원으로 학습한 체스 튜터의 정확도는 90.5%였다. RL을 쓰지 않으면 75.7%, GPT-5.4 보상을 쓰면 71.6%였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "模擬の生徒が\nAIチューターを試す",
-          "body": "MicrosoftのStudentSimは模擬学習者でAIチューターを事前に検証・改善する。",
-          "mini_headline": "StudentSimがAIチューターを検証",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "StudentSimは、AIチューターを実際の学習者で試す前に評価・改善するためのMicrosoft Researchのシステムであり、製品ではなく、教師に取って代わることも意図していない。人を対象とした研究でフィードバックを集めるのは時間も費用もかかるため、StudentSimは公開されている匿名化済みの学習者記録から、個別化された生徒シミュレーターを訓練する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "シミュレーターは、Vygotskyの最近接発達領域に着想を得た二つの観点で評価される。特定の生徒のように反応するか、そしてチューターの指導を受けて変化するかだ。二段階のパイプラインは、まず多くの生徒から集めた記録で訓練し、その後ひとりの生徒自身の記録で特化させる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "チェス、外国語としての英語ライティング、数学のいずれでも、StudentSimは主要なベースラインを上回る。チェスでは行動忠実度0.5150、指導応答性0.9067を達成し、GPT-5.4の0.2316と0.7186を上回った。StudentSimを報酬源として訓練したチェスチューターは精度90.5%に達し、RLなしでは75.7%、GPT-5.4の報酬では71.6%だった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "模拟学生上阵\n测试AI导师",
-          "body": "Microsoft的StudentSim模拟学习者，在AI导师接触真实学生前加以测试和改进。",
-          "mini_headline": "StudentSim测试AI导师",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "StudentSim是Microsoft Research的一套系统，用于在AI导师接受真实学习者测试之前对其进行评估和改进；它不是产品，也无意取代教师。通过人类研究收集反馈既慢又昂贵，因此StudentSim利用公开的、已去标识化的学习者记录训练个性化的学生模拟器。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "模拟器从受Vygotsky最近发展区启发的两个维度接受评判：是否像某个特定学生那样作答，以及在获得导师指导后是否有所改变。一个两阶段流程先用汇集自众多学生的记录训练，再用单个学生自己的记录进行专门化。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "在国际象棋、非母语英语写作和数学领域，StudentSim均优于主要基线。在国际象棋中，它的行为保真度达0.5150，指导响应度达0.9067，而GPT-5.4分别为0.2316和0.7186。以StudentSim作为奖励来源训练的国际象棋导师准确率达到90.5%，不使用RL时为75.7%，使用GPT-5.4奖励时为71.6%。"
+                "x": "Cosmos-482, NASA의 NEOWISE 망원경, Long March 4B 상단으로 사후 검증해 보니 보고된 재진입 시각은 매번 예측 구간 안에 들었다. 계수를 고정하면 구형이 아닌 두 물체의 예측이 31분, 36분 어긋나 구간을 벗어났다. 시험한 물체는 세 개뿐이고, 연구팀은 아직 궤도에 있는 물체로도 시도해 볼 계획이다. 연구는 Acta Astronautica에 실렸다."
               }
             ]
           }
         },
         "es": {
-          "headline": "Estudiantes simulados ponen\na prueba a los tutores de AI",
-          "body": "StudentSim, de Microsoft, simula estudiantes para probar y mejorar tutores de AI antes de que lleguen a alumnos reales.",
-          "mini_headline": "StudentSim pone a prueba tutores de AI",
+          "headline": "La IA (AI) predice cuándo caen\nsatélites y etapas de cohetes",
+          "body": "La física orbital y una red neuronal con 11 años de rastreo situaron cada reingreso real en su ventana prevista.",
+          "mini_headline": "Predecir el reingreso de satélites",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+                "cap": "Horas de caída previstas frente a las notificadas para Cosmos-482, NEOWISE y una etapa de Long March 4B."
               },
               {
                 "t": "p",
-                "x": "StudentSim es un sistema de Microsoft Research para evaluar y mejorar tutores de AI antes de probarlos con estudiantes reales; no es un producto ni pretende sustituir a los docentes. Recoger retroalimentación mediante estudios con personas es lento y costoso, así que StudentSim entrena simuladores de estudiantes personalizados a partir de registros de aprendizaje públicos y anonimizados."
+                "x": "El momento en que un satélite o una etapa de cohete sin control reingresa determina dónde cae: un error de un minuto puede desplazar el punto de impacto unos 460 km."
+              },
+              {
+                "t": "p",
+                "x": "Los investigadores combinan la física orbital —la gravedad de la Tierra, su achatamiento y la resistencia atmosférica— con una red neuronal que aprende el coeficiente balístico de cada objeto, una medida de cuánto lo frena el aire, a partir de unos 11 años de datos de rastreo y pronósticos de meteorología espacial. La estimación se actualiza cada tres horas durante el descenso, y ejecutar la red 100 veces con componentes desactivados al azar produce una ventana de incertidumbre."
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+                "cap": "Cómo la red neuronal pronostica el coeficiente balístico y genera la ventana de incertidumbre."
               },
               {
                 "t": "p",
-                "x": "Los simuladores se evalúan en dos dimensiones inspiradas en la zona de desarrollo próximo de Vygotsky: si responden como un estudiante concreto y si cambian tras la guía del tutor. Un proceso en dos etapas primero entrena con registros agrupados de muchos estudiantes y luego se especializa con los registros de un solo estudiante."
+                "x": "En pruebas retrospectivas con Cosmos-482, el telescopio NEOWISE de NASA y una etapa superior de Long March 4B, la hora de reingreso notificada cayó dentro de la ventana prevista en todos los casos. Congelar el coeficiente desplazó las predicciones de los dos objetos no esféricos 31 y 36 minutos, fuera de sus ventanas. Solo se probaron tres objetos; el equipo planea probar con objetos que siguen en órbita. El trabajo se publica en Acta Astronautica."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIが予測する\n衛星とロケット段の落下",
+          "body": "軌道物理と11年分の追跡で学んだニューラルネットが、実際の再突入時刻を予測幅に収めた。",
+          "mini_headline": "衛星の再突入を予測する",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+                "cap": "Cosmos-482、NEOWISE、Long March 4B ロケット段の予測落下時刻と報告された落下時刻の比較。"
+              },
+              {
+                "t": "p",
+                "x": "制御されていない衛星やロケット段がいつ再突入するかで、落下地点が決まる。時刻が一分ずれるだけで、落下地点はおよそ460 km動きうる。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームは、地球の重力やその扁平さ、大気抵抗といった軌道物理と、ニューラルネットワークを組み合わせた。ネットワークは約11年分の追跡データと宇宙天気予報から、空気による減速の強さを表す各物体の弾道係数を学習する。推定値は降下中に三時間ごとに更新され、構成要素をランダムに無効化したネットワークを100回実行することで不確実性の幅が得られる。"
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+                "cap": "ニューラルネットワークが弾道係数を予測し、不確実性の幅を導く仕組み。"
               },
               {
                 "t": "p",
-                "x": "En ajedrez, escritura en inglés como segunda lengua y matemáticas, StudentSim supera a las principales referencias. En ajedrez alcanza una fidelidad conductual de 0.5150 y una capacidad de respuesta a la guía de 0.9067, frente a 0.2316 y 0.7186 de GPT-5.4. Un tutor de ajedrez entrenado con StudentSim como fuente de recompensa alcanzó un 90.5% de precisión, frente al 75.7% sin RL y el 71.6% con una recompensa de GPT-5.4."
+                "x": "Cosmos-482、NASAのNEOWISE望遠鏡、Long March 4B 上段で事後検証したところ、報告された再突入時刻はいずれも予測幅に収まった。係数を固定すると、非球形の二つの物体の予測は31分と36分ずれ、幅から外れた。検証したのは三つの物体のみで、チームは現在も軌道上にある物体で試す計画だ。成果はActa Astronauticaに掲載された。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI预测卫星和\n火箭级何时坠落",
+          "body": "轨道物理与基于11年跟踪数据训练的神经网络，让实际再入时间落在预测区间内。",
+          "mini_headline": "预测卫星再入时间",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+                "cap": "Cosmos-482、NEOWISE与一枚Long March 4B 火箭级的预测坠落时间与报告坠落时间对比。"
+              },
+              {
+                "t": "p",
+                "x": "失控卫星或火箭级何时再入大气层，决定了它落在哪里：时间误差一分钟，落点就可能偏移约460 km。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员将轨道物理——地球引力、地球扁率和大气阻力——与一个神经网络相结合。该网络利用约11年的跟踪数据和空间天气预报，学习每个物体的弹道系数，即衡量空气对其减速程度的指标。下降过程中估算值每三小时更新一次，随机关闭部分组件后将网络运行100次，即可得出不确定性区间。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+                "cap": "神经网络如何预测弹道系数并给出不确定性区间。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队以Cosmos-482、NASA的NEOWISE望远镜和一枚Long March 4B 上面级进行回溯测试，报告的再入时间每次都落在预测区间内。若固定弹道系数，两个非球形物体的预测分别偏移31分钟和36分钟，超出区间。目前仅测试了三个物体，团队计划再对仍在轨道上的物体进行测试。该研究发表于Acta Astronautica。"
               }
             ]
           }
@@ -1493,149 +1151,411 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "시뮬레이션 학생이\nAI 튜터를 시험하다",
-          "body": "Microsoft StudentSim은 가상 학생으로 AI 튜터를 미리 검증한다.",
-          "mini_headline": "StudentSim, AI 튜터를 시험하다",
+          "headline": "위성·로켓 단 추락 시점\nAI가 예측한다",
+          "body": "궤도 물리와 11년 추적 자료로 배운 신경망이 재진입 시각을 예측 구간에 담았다.",
+          "mini_headline": "위성 재진입 시점 예측",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+                "cap": "Cosmos-482, NEOWISE, Long March 4B 단의 예측 낙하 시각과 보고된 낙하 시각 비교."
               },
               {
                 "t": "p",
-                "x": "StudentSim은 실제 학습자와 시험하기 전에 AI 튜터를 평가하고 개선하기 위한 Microsoft Research 시스템이다. 제품이 아니며 교사를 대체하려는 것도 아니다. 사람을 대상으로 한 연구로 피드백을 모으는 일은 느리고 비용이 많이 들기 때문에, StudentSim은 공개된 비식별 학습자 기록으로 개인 맞춤형 학생 시뮬레이터를 학습시킨다."
+                "x": "통제되지 않는 위성이나 로켓 단이 언제 재진입하느냐에 따라 떨어지는 곳이 정해진다. 시각이 일 분만 어긋나도 낙하 지점은 약 460 km 달라질 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 지구 중력, 지구의 편평도, 대기 항력 같은 궤도 물리에 신경망을 결합했다. 신경망은 약 11년 치 추적 데이터와 우주 기상 예보로 각 물체의 탄도 계수, 즉 공기가 물체를 얼마나 강하게 감속시키는지 나타내는 값을 학습한다. 추정치는 하강하는 동안 세 시간마다 갱신되고, 무작위로 일부 구성 요소를 끈 채 신경망을 100번 돌려 불확실성 구간을 얻는다."
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+                "cap": "신경망이 탄도 계수를 예측하고 불확실성 구간을 산출하는 방식."
               },
               {
                 "t": "p",
-                "x": "시뮬레이터는 Vygotsky의 근접발달영역에서 착안한 두 가지 기준으로 평가받는다. 특정 학생처럼 반응하는지, 그리고 튜터의 안내를 받은 뒤 달라지는지다. 두 단계 파이프라인은 먼저 여러 학생의 기록을 모아 학습한 뒤, 한 학생 자신의 기록으로 특화한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "체스, 외국어로서의 영어 쓰기, 수학 전반에서 StudentSim은 주요 기준 모델을 앞선다. 체스에서는 행동 충실도 0.5150, 안내 반응성 0.9067을 기록해 GPT-5.4의 0.2316, 0.7186을 넘었다. StudentSim을 보상원으로 학습한 체스 튜터는 정확도 90.5%에 이르렀고, RL을 쓰지 않았을 때는 75.7%, GPT-5.4 보상을 썼을 때는 71.6%였다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "模擬の生徒が\nAIチューターを試す",
-          "body": "MicrosoftのStudentSimは模擬学習者でAIチューターを事前に検証・改善する。",
-          "mini_headline": "StudentSimがAIチューターを検証",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "StudentSimは、AIチューターを実際の学習者で試す前に評価・改善するためのMicrosoft Researchのシステムであり、製品ではなく、教師に取って代わることも意図していない。人を対象とした研究でフィードバックを集めるのは時間も費用もかかるため、StudentSimは公開されている匿名化済みの学習者記録から、個別化された生徒シミュレーターを訓練する。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "シミュレーターは、Vygotskyの最近接発達領域に着想を得た二つの観点で評価される。特定の生徒のように反応するか、そしてチューターの指導を受けて変化するかだ。二段階のパイプラインは、まず多くの生徒から集めた記録で訓練し、その後ひとりの生徒自身の記録で特化させる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "チェス、外国語としての英語ライティング、数学のいずれでも、StudentSimは主要なベースラインを上回る。チェスでは行動忠実度0.5150、指導応答性0.9067を達成し、GPT-5.4の0.2316と0.7186を上回った。StudentSimを報酬源として訓練したチェスチューターは精度90.5%に達し、RLなしでは75.7%、GPT-5.4の報酬では71.6%だった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "模拟学生上阵\n测试AI导师",
-          "body": "Microsoft的StudentSim模拟学习者，在AI导师接触真实学生前加以测试和改进。",
-          "mini_headline": "StudentSim测试AI导师",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "StudentSim是Microsoft Research的一套系统，用于在AI导师接受真实学习者测试之前对其进行评估和改进；它不是产品，也无意取代教师。通过人类研究收集反馈既慢又昂贵，因此StudentSim利用公开的、已去标识化的学习者记录训练个性化的学生模拟器。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "模拟器从受Vygotsky最近发展区启发的两个维度接受评判：是否像某个特定学生那样作答，以及在获得导师指导后是否有所改变。一个两阶段流程先用汇集自众多学生的记录训练，再用单个学生自己的记录进行专门化。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "在国际象棋、非母语英语写作和数学领域，StudentSim均优于主要基线。在国际象棋中，它的行为保真度达0.5150，指导响应度达0.9067，而GPT-5.4分别为0.2316和0.7186。以StudentSim作为奖励来源训练的国际象棋导师准确率达到90.5%，不使用RL时为75.7%，使用GPT-5.4奖励时为71.6%。"
+                "x": "Cosmos-482, NASA의 NEOWISE 망원경, Long March 4B 상단을 대상으로 사후 검증한 결과, 보고된 재진입 시각은 매번 예측 구간 안에 들었다. 계수를 고정하자 구형이 아닌 두 물체의 예측이 31분, 36분 어긋나 구간을 벗어났다. 시험한 물체는 세 개뿐이며, 연구팀은 아직 궤도에 있는 물체로도 시도할 계획이다. 연구는 Acta Astronautica에 실렸다."
               }
             ]
           }
         },
         "es": {
-          "headline": "Estudiantes simulados ponen\na prueba a los tutores de AI",
-          "body": "StudentSim, de Microsoft, simula estudiantes para probar y mejorar tutores de AI antes de que lleguen a alumnos reales.",
-          "mini_headline": "StudentSim pone a prueba tutores de AI",
+          "headline": "La IA (AI) predice cuándo caen\nsatélites y etapas de cohetes",
+          "body": "La física orbital y una red neuronal con 11 años de rastreo situaron cada reingreso real en su ventana prevista.",
+          "mini_headline": "Predecir el reingreso de satélites",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/StudentSim-BlogHeroFeature-1400x788-1-1024x576.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+                "cap": "Horas de caída previstas frente a las notificadas para Cosmos-482, NEOWISE y una etapa de Long March 4B."
               },
               {
                 "t": "p",
-                "x": "StudentSim es un sistema de Microsoft Research para evaluar y mejorar tutores de AI antes de probarlos con estudiantes reales; no es un producto ni pretende sustituir a los docentes. Recoger retroalimentación mediante estudios con personas es lento y costoso, así que StudentSim entrena simuladores de estudiantes personalizados a partir de registros de aprendizaje públicos y anonimizados."
+                "x": "El momento en que un satélite o una etapa de cohete sin control reingresa determina dónde cae: un error de un minuto puede desplazar el punto de impacto unos 460 km."
+              },
+              {
+                "t": "p",
+                "x": "Los investigadores combinan la física orbital —la gravedad de la Tierra, su achatamiento y la resistencia atmosférica— con una red neuronal que aprende el coeficiente balístico de cada objeto, una medida de cuánto lo frena el aire, a partir de unos 11 años de datos de rastreo y pronósticos de meteorología espacial. La estimación se actualiza cada tres horas durante el descenso, y ejecutar la red 100 veces con componentes desactivados al azar produce una ventana de incertidumbre."
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-1_motivation_StudentSim_Updated-scaled.jpg",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+                "cap": "Cómo la red neuronal pronostica el coeficiente balístico y genera la ventana de incertidumbre."
               },
               {
                 "t": "p",
-                "x": "Los simuladores se evalúan en dos dimensiones inspiradas en la zona de desarrollo próximo de Vygotsky: si responden como un estudiante concreto y si cambian tras la guía del tutor. Un proceso en dos etapas primero entrena con registros agrupados de muchos estudiantes y luego se especializa con los registros de un solo estudiante."
+                "x": "En pruebas retrospectivas con Cosmos-482, el telescopio NEOWISE de NASA y una etapa superior de Long March 4B, la hora de reingreso notificada cayó dentro de la ventana prevista en todos los casos. Congelar el coeficiente desplazó las predicciones de los dos objetos no esféricos 31 y 36 minutos, fuera de sus ventanas. Solo se probaron tres objetos; el equipo planea probar con objetos que siguen en órbita. El trabajo se publica en Acta Astronautica."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIが予測する\n衛星とロケット段の落下",
+          "body": "軌道物理と11年分の追跡で学んだニューラルネットが、実際の再突入時刻を予測幅に収めた。",
+          "mini_headline": "衛星の再突入を予測する",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+                "cap": "Cosmos-482、NEOWISE、Long March 4B ロケット段の予測落下時刻と報告された落下時刻の比較。"
+              },
+              {
+                "t": "p",
+                "x": "制御されていない衛星やロケット段がいつ再突入するかで、落下地点が決まる。時刻が一分ずれるだけで、落下地点はおよそ460 km動きうる。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームは、地球の重力やその扁平さ、大気抵抗といった軌道物理と、ニューラルネットワークを組み合わせた。ネットワークは約11年分の追跡データと宇宙天気予報から、空気による減速の強さを表す各物体の弾道係数を学習する。推定値は降下中に三時間ごとに更新され、構成要素をランダムに無効化したネットワークを100回実行することで不確実性の幅が得られる。"
               },
               {
                 "t": "img",
-                "src": "https://www.microsoft.com/en-us/research/wp-content/uploads/2026/09/fig-4_performance_StudentSim_Updated.png",
-                "cap": ""
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+                "cap": "ニューラルネットワークが弾道係数を予測し、不確実性の幅を導く仕組み。"
               },
               {
                 "t": "p",
-                "x": "En ajedrez, escritura en inglés como segunda lengua y matemáticas, StudentSim supera a las principales referencias. En ajedrez alcanza una fidelidad conductual de 0.5150 y una capacidad de respuesta a la guía de 0.9067, frente a 0.2316 y 0.7186 de GPT-5.4. Un tutor de ajedrez entrenado con StudentSim como fuente de recompensa alcanzó un 90.5% de precisión, frente al 75.7% sin RL y el 71.6% con una recompensa de GPT-5.4."
+                "x": "Cosmos-482、NASAのNEOWISE望遠鏡、Long March 4B 上段で事後検証したところ、報告された再突入時刻はいずれも予測幅に収まった。係数を固定すると、非球形の二つの物体の予測は31分と36分ずれ、幅から外れた。検証したのは三つの物体のみで、チームは現在も軌道上にある物体で試す計画だ。成果はActa Astronauticaに掲載された。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI预测卫星和\n火箭级何时坠落",
+          "body": "轨道物理与基于11年跟踪数据训练的神经网络，让实际再入时间落在预测区间内。",
+          "mini_headline": "预测卫星再入时间",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+                "cap": "Cosmos-482、NEOWISE与一枚Long March 4B 火箭级的预测坠落时间与报告坠落时间对比。"
+              },
+              {
+                "t": "p",
+                "x": "失控卫星或火箭级何时再入大气层，决定了它落在哪里：时间误差一分钟，落点就可能偏移约460 km。"
+              },
+              {
+                "t": "p",
+                "x": "研究人员将轨道物理——地球引力、地球扁率和大气阻力——与一个神经网络相结合。该网络利用约11年的跟踪数据和空间天气预报，学习每个物体的弹道系数，即衡量空气对其减速程度的指标。下降过程中估算值每三小时更新一次，随机关闭部分组件后将网络运行100次，即可得出不确定性区间。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+                "cap": "神经网络如何预测弹道系数并给出不确定性区间。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队以Cosmos-482、NASA的NEOWISE望远镜和一枚Long March 4B 上面级进行回溯测试，报告的再入时间每次都落在预测区间内。若固定弹道系数，两个非球形物体的预测分别偏移31分钟和36分钟，超出区间。目前仅测试了三个物体，团队计划再对仍在轨道上的物体进行测试。该研究发表于Acta Astronautica。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "science-missing-black-holes",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI를 속이는 블랙홀 신호\n자원봉사자가 가려낸다",
+      "body": "별의 플레어에 AI가 속는 탓에 봉사자들이 NASA 망원경 자료로 블랙홀을 찾는다.",
+      "mini_headline": "사라진 블랙홀 찾기",
+      "tool": "Science",
+      "source": "Space.com",
+      "url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+            "cap": "태양과 비슷한 별이 블랙홀 주위를 도는 모습을 그린 일러스트."
+          },
+          {
+            "t": "p",
+            "x": "우리은하에는 1000만 개 넘는 블랙홀이 생겨났지만 천문학자들이 찾아낸 건 70개뿐이다. U.K.(영국) 프로젝트 Black Hole Hunters는 자원봉사자를 모아 NASA의 TESS 망원경 자료에서 결정적 신호를 찾는다. 블랙홀이 동반성 앞을 지나면서 그 빛을 잠깐 증폭하는 현상이다."
+          },
+          {
+            "t": "p",
+            "x": "자동 알고리즘이 먼저 수백만 개의 별을 훑어 가장 뚜렷한 후보를 추린다. 하지만 인공지능은 어수선한 우주의 현실에 약하다. 항성 플레어나 자연적인 맥동에 알고리즘이 속아 거짓 양성이 나올 수 있다. 사람 자원봉사자가 중요한 까닭이다. 그래프 하나를 여러 사람에게 보내 개인의 실수가 평균으로 상쇄되게 한다."
+          },
+          {
+            "t": "p",
+            "x": "이 후보 목록이 있으면 천문학자들은 부족한 망원경 시간을 특정 별에 집중할 수 있다. 2021년 10월 Zooniverse에서 시작한 뒤로 프로젝트에는 자원봉사자 23,000명 가까이가 참여했고 분류는 1200만 건을 넘었다. 공동 책임자 Adam McMaster는 “수천 건의 새로운 발견이 나올 수 있는 만큼, 받을 수 있는 도움은 모두 필요하다”고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Volunteers sift black hole\nsignals that fool AI",
+          "body": "Volunteers are asked to comb NASA telescope data for hidden black holes, as stellar flares fool AI into false positives.",
+          "mini_headline": "Hunting missing black holes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+                "cap": "An illustration of a sun-like star orbiting a black hole."
+              },
+              {
+                "t": "p",
+                "x": "The Milky Way has churned out more than 10 million black holes, yet astronomers have found only 70. A U.K. project called Black Hole Hunters is enlisting volunteers to sift data from NASA's TESS telescope for a telltale sign: a black hole passing in front of its companion star and briefly magnifying its light."
+              },
+              {
+                "t": "p",
+                "x": "Automated algorithms make a preliminary sweep, screening millions of stars for the most obvious candidates. But artificial intelligence struggles with the messy realities of the cosmos — stellar flares and natural pulsations can trick the algorithms into false positives. That makes human volunteers key; each graph goes to multiple people so individual mistakes average out."
+              },
+              {
+                "t": "p",
+                "x": "The shortlist lets astronomers aim scarce telescope time at specific stars. Since launching on Zooniverse in October 2021, the project has drawn nearly 23,000 volunteers and more than 12 million classifications. “With potentially thousands of new discoveries, we need all the help we can get,” said co-lead Adam McMaster."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI를 속이는 블랙홀 신호\n자원봉사자가 가려낸다",
+          "body": "별의 플레어에 AI가 속는 탓에 봉사자들이 NASA 망원경 자료로 블랙홀을 찾는다.",
+          "mini_headline": "사라진 블랙홀 찾기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+                "cap": "태양과 비슷한 별이 블랙홀 주위를 도는 모습을 그린 일러스트."
+              },
+              {
+                "t": "p",
+                "x": "우리은하에는 1000만 개 넘는 블랙홀이 생겨났지만 천문학자들이 찾아낸 건 70개뿐이다. U.K.(영국) 프로젝트 Black Hole Hunters는 자원봉사자를 모아 NASA의 TESS 망원경 자료에서 결정적 신호를 찾는다. 블랙홀이 동반성 앞을 지나면서 그 빛을 잠깐 증폭하는 현상이다."
+              },
+              {
+                "t": "p",
+                "x": "자동 알고리즘이 먼저 수백만 개의 별을 훑어 가장 뚜렷한 후보를 추린다. 하지만 인공지능은 어수선한 우주의 현실에 약하다. 항성 플레어나 자연적인 맥동에 알고리즘이 속아 거짓 양성이 나올 수 있다. 사람 자원봉사자가 중요한 까닭이다. 그래프 하나를 여러 사람에게 보내 개인의 실수가 평균으로 상쇄되게 한다."
+              },
+              {
+                "t": "p",
+                "x": "이 후보 목록이 있으면 천문학자들은 부족한 망원경 시간을 특정 별에 집중할 수 있다. 2021년 10월 Zooniverse에서 시작한 뒤로 프로젝트에는 자원봉사자 23,000명 가까이가 참여했고 분류는 1200만 건을 넘었다. 공동 책임자 Adam McMaster는 “수천 건의 새로운 발견이 나올 수 있는 만큼, 받을 수 있는 도움은 모두 필요하다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIを欺くブラックホール信号\nボランティアが選別",
+          "body": "恒星フレアがAIを欺くため、ボランティアがNASA望遠鏡のデータからブラックホールを探す。",
+          "mini_headline": "消えたブラックホールを探す",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+                "cap": "ブラックホールの周りを回る太陽に似た恒星のイラスト。"
+              },
+              {
+                "t": "p",
+                "x": "天の川銀河はこれまでに1000万個を超えるブラックホールを生み出してきたが、天文学者が見つけたのはわずか70個だ。U.K.（英国）のプロジェクトBlack Hole Huntersは、NASAのTESS望遠鏡のデータから決定的な兆候を探すボランティアを募っている。ブラックホールが伴星の前を横切り、その光を一時的に増幅する現象である。"
+              },
+              {
+                "t": "p",
+                "x": "自動アルゴリズムがまず予備的な選別を行い、数百万の恒星から最も明白な候補を絞り込む。だが人工知能は宇宙の雑多な現実に弱く、恒星フレアや自然な脈動によってアルゴリズムが誤検出に導かれることがある。そこで人間のボランティアが鍵になる。各グラフは複数の人に送られ、個々のミスは平均化される。"
+              },
+              {
+                "t": "p",
+                "x": "この候補リストにより、天文学者は限られた望遠鏡の観測時間を特定の恒星に振り向けられる。2021年10月にZooniverseで始まって以来、プロジェクトには23,000人近いボランティアが参加し、分類は1200万件を超えた。共同リーダーのAdam McMasterは「数千件もの新発見が見込まれるので、得られる助けはすべて必要だ」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "志愿者筛查\n骗过AI的黑洞信号",
+          "body": "恒星耀斑会让AI误报，志愿者受邀在NASA望远镜数据中搜寻隐藏的黑洞。",
+          "mini_headline": "搜寻失踪的黑洞",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+                "cap": "一颗类太阳恒星绕黑洞运行的示意图。"
+              },
+              {
+                "t": "p",
+                "x": "银河系已产生超过1000万个黑洞，但天文学家只找到了70个。一个名为Black Hole Hunters的U.K.（英国）项目正在招募志愿者，在NASA的TESS望远镜数据中寻找一个明显迹象：黑洞从伴星前方经过，短暂放大其光芒。"
+              },
+              {
+                "t": "p",
+                "x": "自动算法先进行初步筛查，从数百万颗恒星中挑出最明显的候选者。但人工智能难以应对宇宙的复杂现实——恒星耀斑和自然脉动可能让算法产生误报。因此人类志愿者至关重要；每张图都会交给多人查看，从而让个人错误相互抵消。"
+              },
+              {
+                "t": "p",
+                "x": "这份候选清单让天文学家能把稀缺的望远镜时间集中到特定恒星上。自2021年10月在Zooniverse上线以来，该项目已吸引近23,000名志愿者，完成超过1200万次分类。项目联合负责人Adam McMaster说：“可能会有成千上万项新发现，我们需要能得到的一切帮助。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Voluntarios buscan agujeros\nnegros donde la AI se confunde",
+          "body": "Piden a voluntarios buscar agujeros negros en datos de un telescopio de NASA, porque las fulguraciones engañan a la AI.",
+          "mini_headline": "En busca de los agujeros negros perdidos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+                "cap": "Ilustración de una estrella similar al Sol orbitando un agujero negro."
+              },
+              {
+                "t": "p",
+                "x": "La Vía Láctea ha producido más de 10 millones de agujeros negros, pero los astrónomos solo han encontrado 70. Un proyecto del U.K. (Reino Unido) llamado Black Hole Hunters recluta voluntarios para revisar datos del telescopio TESS de NASA en busca de una señal reveladora: un agujero negro que pasa por delante de su estrella compañera y magnifica brevemente su luz."
+              },
+              {
+                "t": "p",
+                "x": "Los algoritmos automáticos hacen un primer barrido y examinan millones de estrellas en busca de los candidatos más evidentes. Pero la inteligencia artificial tiene dificultades con la desordenada realidad del cosmos: las fulguraciones estelares y las pulsaciones naturales pueden llevar a los algoritmos a falsos positivos. Por eso los voluntarios humanos son clave; cada gráfica llega a varias personas para que los errores individuales se compensen."
+              },
+              {
+                "t": "p",
+                "x": "La lista de candidatos permite a los astrónomos dirigir el escaso tiempo de telescopio a estrellas concretas. Desde su lanzamiento en Zooniverse en octubre de 2021, el proyecto ha reunido a casi 23,000 voluntarios y más de 12 millones de clasificaciones. “Con potencialmente miles de nuevos descubrimientos, necesitamos toda la ayuda posible”, dijo el codirector Adam McMaster."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI를 속이는 블랙홀 신호\n자원봉사자가 가려낸다",
+          "body": "별의 플레어가 AI를 속여, 봉사자들이 NASA 망원경 자료로 블랙홀을 찾는다.",
+          "mini_headline": "사라진 블랙홀 찾기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+                "cap": "태양과 비슷한 별이 블랙홀 주위를 도는 모습을 그린 일러스트."
+              },
+              {
+                "t": "p",
+                "x": "우리은하는 1000만 개가 넘는 블랙홀을 만들어 냈지만 천문학자들이 찾은 것은 70개뿐이다. U.K.(영국) 프로젝트 Black Hole Hunters는 자원봉사자를 모아 NASA의 TESS 망원경 자료에서 결정적 신호를 찾고 있다. 블랙홀이 동반성 앞을 지나며 그 빛을 잠깐 증폭하는 현상이다."
+              },
+              {
+                "t": "p",
+                "x": "자동 알고리즘이 먼저 수백만 개의 별을 훑어 가장 뚜렷한 후보를 추린다. 하지만 인공지능은 우주의 어수선한 현실에 약하다. 항성 플레어와 자연적인 맥동이 알고리즘을 속여 거짓 양성을 낳을 수 있다. 그래서 사람 자원봉사자가 중요하다. 그래프 하나를 여러 사람에게 보내 개인의 실수가 평균으로 상쇄되게 한다."
+              },
+              {
+                "t": "p",
+                "x": "이 후보 목록 덕분에 천문학자들은 부족한 망원경 시간을 특정 별에 집중할 수 있다. 2021년 10월 Zooniverse에서 시작한 이후 프로젝트에는 23,000명 가까운 자원봉사자가 참여했고 분류는 1200만 건을 넘었다. 공동 책임자 Adam McMaster는 “수천 건의 새로운 발견이 나올 수 있는 만큼, 받을 수 있는 도움은 모두 필요하다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIを欺くブラックホール信号\nボランティアが選別",
+          "body": "恒星フレアがAIを欺くため、ボランティアがNASA望遠鏡のデータからブラックホールを探す。",
+          "mini_headline": "消えたブラックホールを探す",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+                "cap": "ブラックホールの周りを回る太陽に似た恒星のイラスト。"
+              },
+              {
+                "t": "p",
+                "x": "天の川銀河はこれまでに1000万個を超えるブラックホールを生み出してきたが、天文学者が見つけたのはわずか70個だ。U.K.（英国）のプロジェクトBlack Hole Huntersは、NASAのTESS望遠鏡のデータから決定的な兆候を探すボランティアを募っている。ブラックホールが伴星の前を横切り、その光を一時的に増幅する現象である。"
+              },
+              {
+                "t": "p",
+                "x": "自動アルゴリズムがまず予備的な選別を行い、数百万の恒星から最も明白な候補を絞り込む。だが人工知能は宇宙の雑多な現実に弱く、恒星フレアや自然な脈動によってアルゴリズムが誤検出に導かれることがある。そこで人間のボランティアが鍵になる。各グラフは複数の人に送られ、個々のミスは平均化される。"
+              },
+              {
+                "t": "p",
+                "x": "この候補リストにより、天文学者は限られた望遠鏡の観測時間を特定の恒星に振り向けられる。2021年10月にZooniverseで始まって以来、プロジェクトには23,000人近いボランティアが参加し、分類は1200万件を超えた。共同リーダーのAdam McMasterは「数千件もの新発見が見込まれるので、得られる助けはすべて必要だ」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "志愿者筛查\n骗过AI的黑洞信号",
+          "body": "恒星耀斑会让AI误报，志愿者受邀在NASA望远镜数据中搜寻隐藏的黑洞。",
+          "mini_headline": "搜寻失踪的黑洞",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+                "cap": "一颗类太阳恒星绕黑洞运行的示意图。"
+              },
+              {
+                "t": "p",
+                "x": "银河系已产生超过1000万个黑洞，但天文学家只找到了70个。一个名为Black Hole Hunters的U.K.（英国）项目正在招募志愿者，在NASA的TESS望远镜数据中寻找一个明显迹象：黑洞从伴星前方经过，短暂放大其光芒。"
+              },
+              {
+                "t": "p",
+                "x": "自动算法先进行初步筛查，从数百万颗恒星中挑出最明显的候选者。但人工智能难以应对宇宙的复杂现实——恒星耀斑和自然脉动可能让算法产生误报。因此人类志愿者至关重要；每张图都会交给多人查看，从而让个人错误相互抵消。"
+              },
+              {
+                "t": "p",
+                "x": "这份候选清单让天文学家能把稀缺的望远镜时间集中到特定恒星上。自2021年10月在Zooniverse上线以来，该项目已吸引近23,000名志愿者，完成超过1200万次分类。项目联合负责人Adam McMaster说：“可能会有成千上万项新发现，我们需要能得到的一切帮助。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Voluntarios buscan agujeros\nnegros donde la AI se confunde",
+          "body": "Piden a voluntarios buscar agujeros negros en datos de un telescopio de NASA, porque las fulguraciones engañan a la AI.",
+          "mini_headline": "En busca de los agujeros negros perdidos",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+                "cap": "Ilustración de una estrella similar al Sol orbitando un agujero negro."
+              },
+              {
+                "t": "p",
+                "x": "La Vía Láctea ha producido más de 10 millones de agujeros negros, pero los astrónomos solo han encontrado 70. Un proyecto del U.K. (Reino Unido) llamado Black Hole Hunters recluta voluntarios para revisar datos del telescopio TESS de NASA en busca de una señal reveladora: un agujero negro que pasa por delante de su estrella compañera y magnifica brevemente su luz."
+              },
+              {
+                "t": "p",
+                "x": "Los algoritmos automáticos hacen un primer barrido y examinan millones de estrellas en busca de los candidatos más evidentes. Pero la inteligencia artificial tiene dificultades con la desordenada realidad del cosmos: las fulguraciones estelares y las pulsaciones naturales pueden llevar a los algoritmos a falsos positivos. Por eso los voluntarios humanos son clave; cada gráfica llega a varias personas para que los errores individuales se compensen."
+              },
+              {
+                "t": "p",
+                "x": "La lista de candidatos permite a los astrónomos dirigir el escaso tiempo de telescopio a estrellas concretas. Desde su lanzamiento en Zooniverse en octubre de 2021, el proyecto ha reunido a casi 23,000 voluntarios y más de 12 millones de clasificaciones. “Con potencialmente miles de nuevos descubrimientos, necesitamos toda la ayuda posible”, dijo el codirector Adam McMaster."
               }
             ]
           }

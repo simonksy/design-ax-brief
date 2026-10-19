@@ -6855,6 +6855,156 @@
           "x": "“VOCALOID7 Editor”将于2026年11月11日发售，税前售价$129，升级版常规售价为$69。"
         }
       ]
+    },
+    "music/music-zoom-neurig": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+          "cap": "Zoom Neurig"
+        },
+        {
+          "t": "p",
+          "x": "Zoom 凭借 Neurig 成为最新一家拥抱 NAM 的知名品牌。这是一款配备触摸屏、价格亲民的模拟器，Zoom 称之为“将重新定义一切的新一代吉他效果器”。它原生支持 TONE3000 的 NAM A2 Lite，这一开源音箱建模架构正席卷吉他行业。"
+        },
+        {
+          "t": "p",
+          "x": "Zoom 表示，这项技术“重现的是音箱本身，而不只是音色”。设备内置 32 款音箱头，从 Marshall JTM 45、1965 Fender Twin Reverb 到 Diezel Herbert 和 Mesa/Boogie Dual Rectifier，另有六种原创音箱音色。借助 NAM 集成，用户可以加载音箱、效果器和箱体，捕捉完整信号链，并免费导入超过 700,000 个 NAM 捕捉和 IR 库。"
+        },
+        {
+          "t": "video",
+          "yt": "pN3mt-v4KiE"
+        },
+        {
+          "t": "p",
+          "x": "效果包括混响、延迟和调制，以及比特破碎、旋转扬声器模拟、环形调制器和移调器，其中 17 种效果专为表情踏板设计。它最多可同时运行 14 种效果，并配备 send/return、MIDI in/out、Bluetooth、乐句循环器和 4.5 小时续航电池。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+          "cap": "Zoom Neurig 音箱模拟器（图片来源：Zoom）"
+        },
+        {
+          "t": "p",
+          "x": "它还具备 AI-driven 音色生成，以及可从曲目中去除吉他声部的 AI 音轨分离，可通过 SessionZ Pedal 云服务使用。"
+        },
+        {
+          "t": "p",
+          "x": "售价为 ¥47,800，约合 $300——这是在等待美国官方定价期间的粗略换算。"
+        }
+      ]
+    },
+    "music/music-rocketship-audience-map": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "据估计，每天有 100,000 首新曲涌入流媒体平台，独立音乐人面临一场艰难的战斗。大多数人在挑选单曲、购买广告、策划宣传这些最花钱的决定上，都靠猜测。"
+        },
+        {
+          "t": "p",
+          "x": "Rocketship 由 Maxwell Zotz（Verge Campus、MAX.Live）和 Billy Rodgers（Fanpage）联合创立，号称首个能在歌曲正式商业发行前识别其潜在受众的 AI-driven 平台。此前它经历了四个月的 Beta 测试，收集了 100 多位唱片公司、版权发行、经纪管理和分销高管的反馈。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+          "cap": "Rocketship"
+        },
+        {
+          "t": "p",
+          "x": "Rocketship 从音频、歌词和语境三方面的 80 项参数评估未发行曲目，并与数十年的音乐史比对，识别听众画像。其与 Loeb & Loeb 合作开发、正在申请专利的模型，基于超过 250,000 首曲库曲目训练。随后，它会根据发行时间窗口和预算制定宣传策略。"
+        },
+        {
+          "t": "p",
+          "x": "每位新用户都可以零成本分析一首未发行曲目。AI-powered 仪表板 Mission Control 可定制宣传任务，Rocketship Studio 则能在几分钟内把音频变成竖版视频素材。"
+        },
+        {
+          "t": "p",
+          "x": "“它不会取代品味或直觉，而是让他们不必独自猜测。”Zotz 说。"
+        }
+      ]
+    },
+    "music/music-neko-pocket-studio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+          "cap": "Neko Pocket Studio"
+        },
+        {
+          "t": "p",
+          "x": "Neko Engineering 推出的 Neko 本周在 Kickstarter 上线：这是一台口袋大小的工作室，将无线连接、音箱与效果器建模和录音功能与 AI 工具结合在一起。它的重点是帮助用户学歌，并把吉他 riff 发展成完整的编曲。"
+        },
+        {
+          "t": "p",
+          "x": "Neko 内部收纳两个无线插头并为其充电，一个插入吉他或贝斯，另一个插入音箱或调音台。Neko 负责声音处理（采用 NAM 音色）和多轨录音。"
+        },
+        {
+          "t": "p",
+          "x": "它还加入了 AI 音轨分离、将曲目中的吉他静音并由自己接替演奏的功能、在屏幕上显示的 audio-to-tab（音频转谱），以及通过生成式 AI 制作的伴奏音轨和编曲。Time Machine 功能即使在忘记按下录音键时，也能让音乐人回听自己的灵感。与 NAM 的结合还开放了 Tone3000 的捕捉库。"
+        },
+        {
+          "t": "video",
+          "yt": "keuagUavq90"
+        },
+        {
+          "t": "p",
+          "x": "Kickstarter 项目在头 24 小时内获得 $10,000 的认筹；目前已筹得超过 $260k 的资金，目标为 $30,000。含回报的认筹起价 $449，零售价 $599。计划于 2027 年 4 月向支持者发货。"
+        }
+      ]
+    },
+    "music/music-midi-repa-paper": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+          "cap": "图1：MIDI-REPA 框架。由 AMT 系统提取的符号目标，通过轻量投影头和余弦相似度对齐损失，监督中间音频表示。"
+        },
+        {
+          "t": "p",
+          "x": "最先进的 text-to-music 模型越来越依赖扩大模型容量、数据和算力，却仍直接从密集的音频中学习音乐结构。然而，旋律、节奏、和声与结构都可以用符号形式紧凑地表示。"
+        },
+        {
+          "t": "p",
+          "x": "我们提出 MIDI-REPA，这是一种表示对齐框架，从自动音乐转录（AMT）中获取 MIDI 监督信号，用以对齐 flow-matching DiT 的中间表示。我们以 2026 ICME Academic Text-To-Music Challenge 中 122M 参数的 FluxAudio-S 基线为基础，研究对齐什么、在哪里对齐以及何时对齐。在整个流轨迹中将 MuScriptor-derived 钢琴卷帘与早期 DiT 层对齐，效果最好。"
+        },
+        {
+          "t": "p",
+          "x": "在不增加训练数据或技巧的情况下，MIDI-REPA 在 ATTM 客观指标上仍具竞争力，并且只需一块 RTX 3090 约 31 小时即可完成训练。结果表明，符号监督是改进 text-to-music 生成的一种简单而低成本的学习信号。我们公开了转录流程、JamendoMIDI、训练代码和音频样本。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+          "cap": "图2：沿基线生成轨迹，从不同时间步外推出的最终输出。"
+        }
+      ]
+    },
+    "music/music-suno-korea-hit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "上个月我们报道过，一首名为《心之森》的AI-generated歌曲进入流媒体服务Melon的Top 100榜单靠后位置，在韩国引发争论。"
+        },
+        {
+          "t": "p",
+          "x": "如今它已被远远超越。艺人Meomuru的《我梦想中的大人》本周登上该榜第三名。这首歌自6月发行以来，借助在社交媒体帖子中的使用缓慢攀升。"
+        },
+        {
+          "t": "p",
+          "x": "据The Straits Times报道，这位艺人亲自创作了歌词，但音乐是用Suno生成的，《心之森》也是如此。"
+        },
+        {
+          "t": "p",
+          "x": "新热门歌曲引发的争论集中在Melon，但它在其他平台的榜单上同样有影响力。截至撰稿时，《我梦想中的大人》在Spotify的“Top Songs – South Korea”榜单上排名第48位，但在其最新的每日Top 50排名中位列第10。"
+        },
+        {
+          "t": "p",
+          "x": "它在YouTube上表现更好：《我梦想中的大人》在该平台最新的韩国Weekly Top Songs榜单中排名第二，周播放量达320万次。在YouTube上，根据YouTube Music刚刚公布的标注政策，这首歌带有“AI”标签。"
+        }
+      ]
     }
   }
 }

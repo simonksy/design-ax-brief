@@ -1,25 +1,31 @@
 {
- "date": "2026-10-18",
- "media": [
-  {
-   "id": "politics-apple-nudify",
-   "type": "image",
-   "src": "pipeline/media/politics-apple-nudify.jpg"
-  },
-  {
-   "id": "politics-nk-ai-torpedo",
-   "type": "image",
-   "src": "pipeline/media/politics-nk-ai-torpedo.jpg"
-  },
-  {
-   "id": "politics-duv-controls",
-   "type": "image",
-   "src": "pipeline/media/politics-duv-controls.jpg"
-  },
-  {
-   "id": "politics-ai-optimists",
-   "type": "image",
-   "src": "pipeline/media/politics-ai-optimists.jpg"
-  }
- ]
+  "date": "2026-10-19",
+  "section": "politics",
+  "media": [
+    {
+      "id": "politics-anthropic-draft-bill",
+      "type": "image",
+      "src": "pipeline/media/politics-anthropic-draft-bill.jpg"
+    },
+    {
+      "id": "politics-newsom-ai-verification-order",
+      "type": "image",
+      "src": "pipeline/media/politics-newsom-ai-verification-order.jpg"
+    },
+    {
+      "id": "politics-brazil-tse-meta-equal-treatment",
+      "type": "image",
+      "src": "pipeline/media/politics-brazil-tse-meta-equal-treatment.jpg"
+    },
+    {
+      "id": "politics-wesleyan-ai-ad-disclaimers",
+      "type": "image",
+      "src": "pipeline/media/politics-wesleyan-ai-ad-disclaimers.jpg"
+    },
+    {
+      "id": "politics-china-ai-export-catalogue",
+      "type": "image",
+      "src": "pipeline/media/politics-china-ai-export-catalogue.jpg"
+    }
+  ]
 }

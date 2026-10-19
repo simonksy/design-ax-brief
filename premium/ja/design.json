@@ -8648,6 +8648,169 @@
           "cap": "Extract designsでcode layerの画面を編集可能なFigmaフレームに変換する。"
         }
       ]
+    },
+    "design/design-meshy-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI 3Dマルチモーダルモデル企業のMeshyは、3Dモデルの選択部分だけをテキストの指示で変更し、残りの形状には手を加えないツール「Meshy Edit」を公開した。登録ユーザー全員が利用でき、自社開発の新モデルで動作する。編集ごとに約一分かかり、20クレジットを消費する。"
+        },
+        {
+          "t": "p",
+          "x": "これまではモデル全体を作り直すか、Blenderなどのソフトでメッシュを手作業で編集する必要があり、変更ひとつに何時間もかかることもあった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+        },
+        {
+          "t": "p",
+          "x": "変更は「選ぶ」「説明する」の二段階で行う。Lassoで画面上の部位を囲むと前面・側面・背面までカバーでき、Brushで境界を整える。参照画像は一枚20 MBまでのものを最大五枚追加できる。編集のたびに新しいモデルが生成され、元のモデルは残る。現時点で変更できるのは形状のみだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+        },
+        {
+          "t": "p",
+          "x": "新しいモデルは再編集、ダウンロード、あるいはBambu Studioなどのスライサーへの送信ができる。Meshy EditはMeshy 6とMeshy 7.1のハイポリモデルに対応し、Meshy 7.1 Ultra 2K モデルも対象となる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meshyは最近、Series Bラウンドで評価額$1.5 billionのもと、約$400 millionを調達した。"
+        }
+      ]
+    },
+    "design/design-brand-foundation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+        },
+        {
+          "t": "p",
+          "x": "Claudeといくつかのガードレールを使い、開発者が一目置き、クライアントが実際にリリースできるデザインシステムを構築する方法を紹介する。"
+        },
+        {
+          "t": "p",
+          "x": "木曜日の午後5時。クライアントとの打ち合わせは翌朝だ。午後をずっとClaudeの中で過ごし、プロンプトを重ねてダッシュボードを作ってきたが、午後2時には見事に見えたその画面が、今では他人の家のように見える。そこでFigmaを開き、画面を手作業で作り直して、「少し詰めただけ」と自分に言い聞かせる。AIはスケッチパッドにすぎなかった。"
+        },
+        {
+          "t": "p",
+          "x": "筆者は、これはスキルの失敗ではなく足場の失敗だと論じる。Vibe coding(バイブコーディング)は探索段階では確かに解放感をもたらし、AI-supported(AI支援)のアイデア創出に関する研究でも、AIGCが発散的思考における主観的な精神的負荷を下げることが示されている。ただし同じ研究は、アイデア創出と開発を区別している。"
+        }
+      ]
+    },
+    "design/design-a11y-gates": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+        },
+        {
+          "t": "p",
+          "x": "ClaudeやGPTに「適切なアクセシビリティ」を備えたモーダルダイアログを作らせると、role=\"dialog\"やaria-labelledby属性は付いてくる。だが、フォーカス管理が壊れているせいでVoiceOverユーザーがモーダル内に閉じ込められることに、後から気づく。コード生成が最適化するのは構文上の正しさであって、実行時の振る舞いではない。"
+        },
+        {
+          "t": "p",
+          "x": "plugin87/ux-ui-agent-skillsは、モーダル、ドロップダウン、タブ、カルーセルなど本番品質のコンポーネントパターン52種と、出力がWCAG 2.2 AA/AAAの要件に違反するとビルドを失敗させる客観的な検証ゲート50個をまとめたものだ。トークンはW3C DTCG仕様に準拠し、プリミティブはフレームワークに依存しない。実行可能なテスト(axe-core + Playwright)がフォーカストラップとキーボード操作を検証する。"
+        },
+        {
+          "t": "p",
+          "x": "生成されたテストのひとつは、ジュニア開発者がリファクタリング中にonCloseAutoFocusを削除し、ユーザーの8%でキーボード操作が壊れた回帰を検出した。カードコンポーネント23個をcontainer-queryパターンに移行すると、Lighthouseのパフォーマンスは78から94に上がった。"
+        },
+        {
+          "t": "p",
+          "x": "制約もある。ビジュアル回帰テストはなく、DTCGのセットアップには2-3時間かかることがある。あるクライアント案件で三週間使ったところ、ビルドゲートは手動QAが見逃したアクセシビリティの回帰を14件検出した。"
+        }
+      ]
+    },
+    "design/design-material-you-ship": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+          "cap": "デザインファイル上の同じカードと、実データを入れたブラウザ上のカード。"
+        },
+        {
+          "t": "p",
+          "x": "デザイナーは、建築家が石を理解するようにコードを理解すべきだ。切り方ではなく、何ができるかを知ることだ。今や切る作業はAIが担う。"
+        },
+        {
+          "t": "p",
+          "x": "デザインファイルは図面にすぎない。ひとつの状態を、ひとつの幅で、ひとつの言語で、デザイナーが入力したデータで示すだけだ。製品とは、それ以外のあらゆる状態である。長い名前、読み込みに失敗した写真、空のリスト、四秒かかるリクエスト、キーボードで操作するユーザー、320ピクセルのスマートフォン。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+          "cap": "デザインファイルが一度も示さなかった六つの状態。"
+        },
+        {
+          "t": "p",
+          "x": "ひとつのボタンを131通りのバリエーションでコードとして作ってみると、「触感のある(tactile)」という形容詞が、エンジニアが実装できる数値に変わった。筆者のプロダクトチームでは、レビューの対象はコードによるプロトタイプであり、デザインファイルは毎回の検討後にコードから再生成され、鏡として使われる。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+          "cap": "ビフォーとアフター：どの成果物が信頼できる唯一の情報源か。"
+        },
+        {
+          "t": "p",
+          "x": "「デザイナーもコードを書くべき」という議論は終わった。コードはAIが書くからだ。AIレビューツールはコードを読みもする。あるベンチマークでは、最も優れたツールが実際のバグ122件のうち84件を検出した。それでも、システムを所有するエンジニアが責任を負うことに変わりはない。デザイナーが委ねられないのは理解である。320ピクセルの画面で、最も長い実在の名前を使い、遅いネットワークとキーボードで動かして、出力を判断することだ。"
+        }
+      ]
+    },
+    "design/design-figma-systems": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Figma CEOのDylan Fieldは、AIでコーディングのコストが下がり、チームは「出すために作る(build to ship)」だけでなく「考えるために作る(build to think)」ようになったと語る。Figmaはその両方をフルスタックのクリエイティブキャンバスに取り込みたい考えだ。"
+        },
+        {
+          "t": "p",
+          "x": "Code layersが全プランでオープンベータに移行した。デザインから変換したもの、アップロードしたもの、MCP経由で持ち込んだもの、GitHubから読み込んだもの、Chrome拡張機能でキャプチャしたものなど、コードに裏打ちされたプロトタイプをキャンバス上で試せる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Figmaキャンバス上のPickup AppのプレビューとそのApp.tsxソースコード。"
+        },
+        {
+          "t": "p",
+          "x": "デザインシステムは公開ライブラリにガイドラインを持たせ、エージェントが既存のパターンに従うようにできるほか、GitHubリポジトリやnpmパッケージから取り込んだコードソースも持てるようになった。Figmaは変更と依存関係を追跡するシステムマップと、説明の欠落やインタラクティブな状態の不足といった抜けを見つけるシステムチェックもプレビュー公開している。ガイドライン(オープンベータ)とコードソース(クローズドベータ)はすべての有料プランで提供される。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "デザインシステムのダッシュボードがライブラリとコードを可視化し、コンポーネントやトークンの問題を示す。"
+        },
+        {
+          "t": "p",
+          "x": "Markdownのコンテキストをネイティブに置く場であるSpecsは、粗いアイデアを詳細な仕様に落とし込み、FigmaのMCPサーバー経由でコーディングエージェントに渡せる。すべての有料プランでベータとして公開される。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "GitHubを使って技術仕様を書くよう求めるプロンプトと、その結果の仕様。"
+        },
+        {
+          "t": "p",
+          "x": "12か月でダウンロード数が6倍に伸びたPayloadがFigmaに加わり、Figmaエージェントは一般提供となり、MCPにはOpenCode、Dia、JetBrainsのJunie、Meta Museなど20の新たなパートナー連携が加わった。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
+          "cap": "Payload CMSのイベント一覧と、それが支えるイベントのウェブページ。"
+        }
+      ]
     }
   }
 }

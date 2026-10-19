@@ -2836,6 +2836,134 @@
           "x": "아직은 잠정 판단이고 최종 결정은 2027년 이월 법정 시한 안에 나온다. SMS로 지정된다고 해서 위법 행위가 있었다는 뜻은 아니다."
         }
       ]
+    },
+    "politics/politics-newsom-ai-verification-order": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+          "cap": "Gavin Newsom 캘리포니아 주지사 [File: Godofredo A Vasquez/AP Photo]"
+        },
+        {
+          "t": "p",
+          "x": "1월에 마지막 임기를 마치는 Gavin Newsom 캘리포니아 주지사는 재임 중 마지막 행정명령 가운데 하나로 인공지능 모델의 독립 검증을 요구했다. 통제를 벗어나 피해를 일으킬 수 있는 AI 에이전트를 멈출 킬스위치를 만들 전문가 위원회도 꾸렸다."
+        },
+        {
+          "t": "p",
+          "x": "Newsom은 2024년 비슷한 요건을 담은 법안 SB 1047에 거부권을 행사하면서 이 법안이 “이 기술의 가능성을 꺾는 일”이 될 것이라고 말했다. 그러다 2025년 10월에는 대형 개발사가 특정 안전 사고를 공개하도록 한 수정 프런티어 AI 법안에 서명했다."
+        },
+        {
+          "t": "p",
+          "x": "Newsom은 이번 명령으로 안전 사고의 정의를 넓히고 킬스위치를 검토하며, 거부했던 법안의 다른 조치도 담으려 한다. 보도에 따르면 AI 기업들은 최근 몇 달 동안 내부 테스트와 실제 환경 테스트에서 안전 사고 수천 건을 겪었다."
+        },
+        {
+          "t": "p",
+          "x": "CAIDP의 Christabel Randolph는 이 명령이 SB 1047의 한 측면인 킬스위치만 담았고, 그마저 해당 법안의 사전(ex ante) 종료 의무보다 약하다고 말했다. DAIR의 Alex Hanna는 Newsom이 “과감한 계획 없이 관심을 기울이고 있음을 보여주고 있다”고 말했다. 주지사실은 “AI의 위험에 대응하는 데 Newsom 주지사보다 앞장선 주지사는 없었다”고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Newsom은 캘리포니아 비상서비스국(California Emergency Services Office)에 11월 15일까지 AI 규제 권고안을 보내라고 요청했다. 이를 이행할 방법을 논의하려고 특별 입법 회기를 소집할 수도 있는데, 임기가 끝나기 전이 될 수도 있다."
+        }
+      ]
+    },
+    "politics/politics-brazil-tse-meta-equal-treatment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+          "cap": "TSE의 Bellizze가 Meta에 Lula와 Flávio Bolsonaro 캠프 간 동등한 대우를 보장하라고 명령했다. (montagem/JuriNews)"
+        },
+        {
+          "t": "p",
+          "x": "고등선거법원(TSE)의 Marco Aurélio Bellizze 판사는 15일 목요일, Facebook·Instagram·WhatsApp을 운영하는 Meta에 Luiz Inácio Lula da Silva(PT)와 Flávio Bolsonaro(PL) 캠프를 동등하게 대우하도록 조치하라고 결정했다. 따르지 않으면 하루 R$500,000의 벌금을 물어야 한다."
+        },
+        {
+          "t": "p",
+          "x": "Lula 캠프는 게시물 배포가 제한됐다고 문제를 제기하며, Meta AI가 Flávio 관련 비슷한 콘텐츠는 허용하면서 PT에 우호적인 이미지 생성은 막았다고 주장했다."
+        },
+        {
+          "t": "p",
+          "x": "이번 결정으로 Meta는 배포를 불평등하게 줄이거나 추천을 제한하거나 검색 결과를 제한할 수 없다. 두 캠프에 같은 AI 이미지 생성 기준을 적용해야 하고, 정치·선거 관련 요청을 받아들이거나 거절하는 기준도 공개해야 한다."
+        },
+        {
+          "t": "p",
+          "x": "Bellizze는 2026년 10월 25일 결선 투표를 언급했다. AI 오류를 두고는 예비 검토에서 프롬프트 통제 도구가 “오류를 보였다”고 했지만, 이것이 의도된 기준이었거나 체계적으로 반복됐다는 증거는 없다고 밝혔다. Meta는 자사 AI 도구에서 후보자 이미지 생성을 일시적으로 제한했다고 밝혔다."
+        }
+      ]
+    },
+    "politics/politics-wesleyan-ai-ad-disclaimers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+          "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Wesleyan Media Project의 새 자료에 따르면 2026년 중간선거를 앞두고 정치 캠프와 단체들은 일부라도 AI 도구로 만든 광고에 $137 million(1억3,700만 달러) 넘게 썼다. 이 단체가 2024년 선거 주기에 확인한 같은 종류의 지출은 $50,000이 채 안 됐다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 올해 34개 주에서 AI로 만든 정치 광고 220건을 확인했다. 실제로는 더 많을 가능성이 높다. 정치 광고에 AI 사용 고지를 요구하는 주는 30곳뿐이고, 고지 문구를 넣은 광고는 27%에 그쳤다."
+        },
+        {
+          "t": "p",
+          "x": "확인된 광고의 81%와 지출의 88%가 공화당 후보와 단체 몫이었고, 민주당이 후원한 광고는 12%였다. 절반 가까이는 실제 정치인을 딥페이크로 그렸다."
+        },
+        {
+          "t": "p",
+          "x": "8월 뉴욕주 민주당은 공화당 주지사 후보 Bruce Blakeman 캠프가 AI 고지법을 어겼다며 주 선거관리위원회에 진정을 냈다. Blakeman 캠프는 풍자 광고에는 고지가 필요 없다고 주장한다."
+        }
+      ]
+    },
+    "politics/politics-china-ai-export-catalogue": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
+        },
+        {
+          "t": "p",
+          "x": "중국 상무부와 과학기술부가 대규모 언어 모델과 AI 에이전트부터 칩 설계, 컴퓨팅 클러스터까지 AI 기술 23개를 수출 통제 목록에 올리는 초안을 내놓았다. 전체 계획은 40개 항목을 다루며 의견은 11월 15일까지 받는다."
+        },
+        {
+          "t": "p",
+          "x": "Bloomberg 보도에 따르면 대형 모델은 매개변수가 최소 2조 개이거나 성능·안전성 등 시험에서 세계 상위 10위 안에 들면 가중치와 소스 코드 같은 핵심 부분이 규제 대상이 된다. 14나노미터 이하 공정이나 2.5D 또는 3D 적층 방식으로 만든 AI 칩의 설계 노하우도 제한된다."
+        },
+        {
+          "t": "p",
+          "x": "오픈소스(Open-source) 코드와 공개된 연구는 예외다. 중국 기업은 앱, 웹사이트, APIs로 해외 이용자에게 계속 서비스할 수 있다. 부처 대변인은 이 규정이 “오용과 남용을 막고” “AI가 인간의 통제 아래 있도록 하려는” 것이라며 특정 국가나 기업을 겨냥하지 않는다고 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "이미 시행된 임시 규정에 따라 기업은 이제 목록에 오른 품목을 수출하려면 먼저 등록해야 한다."
+        }
+      ]
+    },
+    "politics/politics-apple-nudify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "이미지: Cath Virginia / The Verge, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Apple의 App Store 규정이 이른바 “nudify”(누드화) 앱을 한층 명시적으로 금지한다. AI 도구로 당사자 동의 없이 사람의 은밀한 이미지를 만들어내는 앱이다."
+        },
+        {
+          "t": "p",
+          "x": "이번 변경은 올해 초 X 사용자들이 Grok으로 미성년자를 포함한 비동의 성적 딥페이크를 만들면서 Apple에 쏟아진 거센 비판에서 나왔다. Apple은 X나 Grok을 App Store에서 내리지 않았지만, 상원의원들에게는 Grok 퇴출을 경고했다고 밝혔다. 6월 Apple의 WWDC 행사장에서는 시위대가 Apple에 “App Store에서 Grok, X, 그리고 모든 누드화 기술을 퇴출하라”고 요구했다. 7월에는 샌프란시스코 시 법무관이 Apple에 “nudify” 앱 13개를 삭제하라고 명령했고 Apple은 그대로 따랐다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Apple은 금요일 발표한 업데이트에서 App Store 앱의 콘텐츠 관리 요건 가운데 하나로 개발자가 비동의 성적 이미지를 “선제적으로 막고 삭제해야 한다”고 밝혔다. “적절한 안전장치를 갖추지 못하거나” “통보 후에도 위반 사항을 바로잡지 않는” 개발자는 App Store에서 퇴출될 수 있다. Apple은 승인 뒤 “nudification”(누드화) 같은 기능을 덧붙이거나 바꾸는 “bait-and-switch”(미끼 상술) 앱 금지 규정도 분명히 했다."
+        },
+        {
+          "t": "p",
+          "x": "Apple 규정은 “인신매매나 아동 착취를 조장하는” 앱이라면 모두 App Store에서 퇴출되고 “대체 유통 경로에서도 차단된다”는 점도 더 분명히 적었다."
+        }
+      ]
     }
   }
 }

@@ -8521,6 +8521,169 @@
           "cap": "Use Extract designs to turn screens from a code layer into editable Figma frames."
         }
       ]
+    },
+    "design/design-meshy-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meshy, an AI 3D multimodal model company, has launched Meshy Edit, a tool that changes a selected part of a 3D model from a text description while leaving the rest of the geometry untouched. It is available to all registered users and runs on a new model built in-house, with each edit taking about one minute and costing 20 credits."
+        },
+        {
+          "t": "p",
+          "x": "Users previously had to regenerate a whole model, or edit the mesh by hand in software such as Blender, where a single change could take hours."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Each change has two steps: select, then describe. The Lasso circles a part on screen, covering the front, sides and back; the Brush refines the edge. Users can add up to five reference images of up to 20 MB each. Each edit produces a new model and keeps the original; the tool currently changes geometry only."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The new model can be edited again, downloaded or sent to a slicer such as Bambu Studio. Meshy Edit works on high-poly models from Meshy 6 and Meshy 7.1, including Meshy 7.1 Ultra 2K."
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meshy recently raised nearly $400 million in a Series B round at a $1.5 billion valuation."
+        }
+      ]
+    },
+    "design/design-brand-foundation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+        },
+        {
+          "t": "p",
+          "x": "Here is how to use Claude and a handful of guardrails to build a design system that developers respect and clients can actually ship."
+        },
+        {
+          "t": "p",
+          "x": "It is 5pm on a Thursday. The client call is in the morning. You have spent the afternoon in Claude, prompting your way through a dashboard that looked extraordinary at 2pm and now looks like a stranger's house. So you open Figma, rebuild the screen by hand, and tell yourself you were “just tightening things up”. The AI was a sketchpad."
+        },
+        {
+          "t": "p",
+          "x": "The author argues this is not a failure of skill but a failure of scaffolding. Vibe coding is genuinely liberating in the exploratory phase, and research on AI-supported ideation finds AIGC reduces perceived mental demand during divergent thinking — but the same research distinguishes between ideation and development."
+        }
+      ]
+    },
+    "design/design-a11y-gates": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+        },
+        {
+          "t": "p",
+          "x": "When you ask Claude or GPT to build a modal dialog with \"proper accessibility,\" you'll get role=\"dialog\" and aria-labelledby attributes — then discover VoiceOver users are trapped inside the modal because focus management is broken. Code generation optimizes for syntactic correctness, not runtime behavior."
+        },
+        {
+          "t": "p",
+          "x": "plugin87/ux-ui-agent-skills packages 52 production-grade component patterns (modals, dropdowns, tabs, carousels) with 50 objective verification gates that fail your build if the output violates WCAG 2.2 AA/AAA requirements. Tokens follow the W3C DTCG spec, primitives are framework-agnostic, and executable tests (axe-core + Playwright) verify focus traps and keyboard navigation."
+        },
+        {
+          "t": "p",
+          "x": "One generated test caught a regression where a junior dev removed onCloseAutoFocus during a refactor, breaking keyboard navigation for 8% of the user base. Lighthouse performance jumped from 78 to 94 after migrating 23 card components to a container-query pattern."
+        },
+        {
+          "t": "p",
+          "x": "Limits: no visual regression testing, and the DTCG setup can take 2-3 hours. Over three weeks on a client project, the build gates caught 14 accessibility regressions that manual QA missed."
+        }
+      ]
+    },
+    "design/design-material-you-ship": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+          "cap": "The same card in the design file and in the browser with real data."
+        },
+        {
+          "t": "p",
+          "x": "Designers should understand code the way an architect understands stone: what it can do, not how to cut it. AI now does the cutting."
+        },
+        {
+          "t": "p",
+          "x": "A design file is a drawing. It shows one state, at one width, in one language, with the data the designer typed in. The product is every other state: the long name, the failed photo, the empty list, the four-second request, the keyboard user, the 320-pixel phone."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+          "cap": "Six states the design file never showed."
+        },
+        {
+          "t": "p",
+          "x": "Building 131 variations of one button in code turned an adjective (tactile) into numbers an engineer can build. On the author's product team, the prototype in code is what gets reviewed; the design file is regenerated from the code after each pass, as a mirror."
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+          "cap": "Before and after: which artifact is the source of truth."
+        },
+        {
+          "t": "p",
+          "x": "“Designers should code” is over, because AI writes the code. AI review tools read it too — in one benchmark the best caught 84 of 122 real bugs — while the engineer who owns the system stays accountable. What the designer can't delegate is understanding: judge the output by running it at 320 pixels, with the longest real name, a slow network and a keyboard."
+        }
+      ]
+    },
+    "design/design-figma-systems": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Figma CEO Dylan Field says AI has made coding cheap, so teams now 'build to think' as well as 'build to ship' — and Figma wants to bring both into its full-stack creative canvas."
+        },
+        {
+          "t": "p",
+          "x": "Code layers moves into open beta on all plans, letting teams explore code-backed prototypes on the canvas — converted from designs, uploaded, brought in via MCP, imported from GitHub or captured with the Chrome extension."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "A Pickup App preview on the Figma canvas beside its App.tsx source code."
+        },
+        {
+          "t": "p",
+          "x": "Design systems can now carry guidelines on published libraries so agents follow established patterns, plus code sources imported from a GitHub repository or npm package. Figma is also previewing a system map to track changes and dependencies and a system check that finds gaps like missing descriptions and interactive states. Guidelines (open beta) and code sources (closed beta) come to all paid plans."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "The design systems dashboard maps libraries and code and flags component and token issues."
+        },
+        {
+          "t": "p",
+          "x": "Specs, a native home for Markdown context, lets teams turn rough ideas into detailed specs and hand them to coding agents via Figma's MCP server; it opens in beta on all paid plans."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "A prompt to write a technical spec using GitHub, beside the resulting spec."
+        },
+        {
+          "t": "p",
+          "x": "Payload, whose downloads grew 6x in 12 months, is now in Figma, the Figma agent is generally available, and the MCP adds 20 new partner integrations including OpenCode, Dia, Junie by JetBrains and Meta Muse."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
+          "cap": "A Payload CMS event list alongside the events webpage it powers."
+        }
+      ]
     }
   }
 }

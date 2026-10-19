@@ -2836,6 +2836,134 @@
           "x": "The findings are provisional, with a final decision due by the February 2027 statutory deadline. SMS designation does not assume wrongdoing."
         }
       ]
+    },
+    "politics/politics-newsom-ai-verification-order": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+          "cap": "California Gov Gavin Newsom [File: Godofredo A Vasquez/AP Photo]"
+        },
+        {
+          "t": "p",
+          "x": "In his last few executive orders as California governor, Gavin Newsom, whose final term ends in January, issued one asking for independent verification of artificial intelligence models and set up an expert committee to create kill switches for AI agents that could go rogue and cause harm."
+        },
+        {
+          "t": "p",
+          "x": "In 2024, Newsom vetoed a bill, SB 1047, with similar requirements, saying at the time it would amount to “thwarting the promise of this technology”. He later signed a redrafted frontier AI bill into law in October 2025 that asks large developers to disclose certain safety incidents."
+        },
+        {
+          "t": "p",
+          "x": "Under the order he wants to expand the definition of safety incidents, explore a kill switch and include other measures from the vetoed bill. AI companies have reportedly had thousands of safety incidents in internal and real-world tests in recent months."
+        },
+        {
+          "t": "p",
+          "x": "CAIDP's Christabel Randolph said the order only includes one aspect of SB 1047 – the kill switch – which is weaker than that bill's ex ante termination obligation. DAIR's Alex Hanna said Newsom “is showing he is attentive without planning anything drastic”. The governor's office said “No governor has been more out-front on addressing the risks of AI than Governor Newsom.”"
+        },
+        {
+          "t": "p",
+          "x": "Newsom has asked the California Emergency Services Office to send recommendations on AI regulation by November 15 and could convene a special legislative session to discuss how to implement them, possibly before his term ends."
+        }
+      ]
+    },
+    "politics/politics-brazil-tse-meta-equal-treatment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+          "cap": "Bellizze, from TSE, orders Meta to ensure isonomy between Lula and Flávio Bolsonaro campaigns. (montagem/JuriNews)"
+        },
+        {
+          "t": "p",
+          "x": "Superior Electoral Court (TSE) Minister Marco Aurélio Bellizze determined on Thursday (15) that Meta, the company responsible for Facebook, Instagram and WhatsApp, adopt measures to ensure equal treatment of the campaigns of Luiz Inácio Lula da Silva (PT) and Flávio Bolsonaro (PL), under a daily fine of R$500,000 for non-compliance."
+        },
+        {
+          "t": "p",
+          "x": "Lula's campaign had complained of restrictions on the distribution of its posts, and said Meta AI prevented the creation of images favorable to the PT while allowing similar content related to Flávio."
+        },
+        {
+          "t": "p",
+          "x": "Under the decision, Meta may not unequally reduce distribution, limit recommendations or restrict search results. It must apply the same AI image-generation criteria to both campaigns and disclose the parameters it uses to accept or refuse political-electoral requests."
+        },
+        {
+          "t": "p",
+          "x": "Bellizze cited the second round on October 25, 2026. On the AI failures, he said the prompt control tool “showed failure” in a preliminary examination, but there is no evidence it was a deliberate criterion or repeated systematically. Meta said it temporarily restricted image generation of candidates by its AI tool."
+        }
+      ]
+    },
+    "politics/politics-wesleyan-ai-ad-disclaimers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+          "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Political campaigns and groups have spent more than $137 million airing ads created at least partly with AI tools ahead of the 2026 midterm elections, according to new data from the Wesleyan Media Project. In the 2024 cycle, the group identified less than $50,000 in such spending."
+        },
+        {
+          "t": "p",
+          "x": "The researchers identified 220 political ads across 34 states created with AI this year; the actual number is likely higher, and only 30 states require AI disclosures for political ads. Just 27% of the ads included a disclaimer."
+        },
+        {
+          "t": "p",
+          "x": "Republican candidates and groups accounted for 81% of the identified ads and 88% of the spending; Democrats sponsored 12% of the ads. Nearly half feature deepfake depictions of real politicians."
+        },
+        {
+          "t": "p",
+          "x": "In August, the New York State Democratic Party filed a complaint with the state's Board of Elections accusing Republican gubernatorial candidate Bruce Blakeman's campaign of violating an AI disclosure law; his campaign argues satirical ads do not require disclosures."
+        }
+      ]
+    },
+    "politics/politics-china-ai-export-catalogue": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
+        },
+        {
+          "t": "p",
+          "x": "China's commerce and science ministries have put out a draft proposal to add 23 AI technologies, from large language models and AI agents to chip designs and computing clusters, to the country's export control list. The plan covers 40 items in total, and the public can comment until 15 November."
+        },
+        {
+          "t": "p",
+          "x": "For large models, the curbs would cover weights, source code and other core parts of models with at least 2 trillion parameters, or that rank in the world's top 10 on tests such as performance and safety, Bloomberg reported. The draft would also limit design know-how for AI chips made at 14 nanometres or below, or built by 2.5D or 3D stacking."
+        },
+        {
+          "t": "p",
+          "x": "Open-source code and published research would be exempt, and Chinese firms could keep serving users abroad through apps, websites and APIs. A ministry spokesperson said the rules aim to “prevent misuse and abuse” and “ensure that AI remains under human control,” adding the plan does not target any country or firm."
+        },
+        {
+          "t": "p",
+          "x": "Firms must now register before exporting any listed item, under a temporary rule that has already taken effect."
+        }
+      ]
+    },
+    "politics/politics-apple-nudify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "Image: Cath Virginia / The Verge, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Apple’s App Store rules now more explicitly ban so-called “nudify” apps that generate intimate images of people without their consent using AI tools."
+        },
+        {
+          "t": "p",
+          "x": "The rule changes follow significant criticism toward Apple after X users used Grok earlier this year to make nonconsensual, sexualized deepfakes, including minors. Apple didn’t pull X or Grok from the App Store, though it told senators that it threatened to yank Grok. At Apple’s WWDC event in June, protestors also called on Apple to “remove Grok, X, and all nudify technology from the App Store,” and in July, a San Francisco city attorney ordered Apple to remove 13 “nudify” apps, which it said it did."
+        },
+        {
+          "t": "p",
+          "x": "As part of updates announced Friday, Apple says that developers “must proactively prevent and remove” nonconsensual, sexual images as part of its content moderation requirements for App Store apps. Developers who “fail to implement adequate safeguards” or “don’t remedy violations after notice” may be removed from the App Store. Apple also clarified a rule that bars “bait-and-switch” apps, or apps that add or change features, including “nudification,” after they have been approved."
+        },
+        {
+          "t": "p",
+          "x": "Apple’s rules also more clearly spell out that any apps that “facilitate human trafficking or the exploitation of children” will be pulled from the App Store and “blocked from alternative distribution.”"
+        }
+      ]
     }
   }
 }

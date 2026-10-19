@@ -7855,6 +7855,127 @@
           "x": "Las enzimas aún no se han probado en ensayos clínicos con personas. Los resultados se detallan en dos artículos publicados en Nature."
         }
       ]
+    },
+    "science/science-riverlane-nvidia-decoder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+        },
+        {
+          "t": "p",
+          "x": "La corrección cuántica de errores necesita un decodificador que determine qué errores se produjeron. Depende de ajustes numéricos, o pesos, basados en mediciones del hardware; pero las frecuencias de los cúbits varían, los defectos aparecen y desaparecen y el rendimiento de las puertas cambia, de modo que los pesos quedan desactualizados y deben recalibrarse."
+        },
+        {
+          "t": "p",
+          "x": "Riverlane ha desarrollado un bucle de calibración basado en IA (AI-based) que aprende mejores ajustes del decodificador directamente de los datos experimentales, sin ajuste manual. La AI propone ajustes, los prueba con datos del hardware en una NVIDIA H100 GPU y favorece los que producen menos errores lógicos."
+        },
+        {
+          "t": "p",
+          "x": "Con el Local Clustering Decoder de Riverlane adaptado a GPUs, un ciclo de entrenamiento de código de superficie (surface-code) que tardaba tres minutos en un solo núcleo de CPU ahora tarda 2.8 segundos. La H100 decodifica más de cuatro millones de síndromes por segundo, frente a unos 59,000 en un núcleo de CPU."
+        },
+        {
+          "t": "p",
+          "x": "Un bucle que dura minutos en lugar de horas puede ejecutarse antes de cada experimento y no una vez al día. “Riverlane está usando la AI para ayudar a que la corrección de errores siga el ritmo de un hardware cuántico cambiante”, dijo Sam Stanwyck, de NVIDIA."
+        }
+      ]
+    },
+    "science/science-chatbot-language-personality": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la Universidad de Ciencia y Tecnología de China (University of Science and Technology of China) aplicaron a cinco chatbots —ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5 y Le Chat— el cuestionario Big Five Inventory-2 en inglés y en mandarín, 30 veces por idioma. Le Chat también se evaluó en francés."
+        },
+        {
+          "t": "p",
+          "x": "Dentro de un mismo idioma, los perfiles fueron bastante consistentes: los modelos se describieron como cooperativos y fiables, con poca emotividad negativa. Al cambiar de idioma, las puntuaciones variaron, en direcciones distintas según el modelo. La apertura mental de ChatGPT-4o promedió 4.74 en inglés y 4.03 en mandarín; DeepSeek-V3 obtuvo 4.38 y 4.81."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
+          "cap": "Puntuaciones medias de cinco rasgos que comparan respuestas humanas y de chatbots en distintos idiomas."
+        },
+        {
+          "t": "p",
+          "x": "El país del desarrollador explicó solo una parte, y ningún modelo coincidió por completo con su grupo humano de referencia. Las puntuaciones describen respuestas a un cuestionario, no sentimientos, por lo que usar chatbots como sustitutos de participantes en encuestas es arriesgado. El estudio se publica en Royal Society Open Science."
+        }
+      ]
+    },
+    "science/science-satellite-reentry-drag": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
+          "cap": "Horas de caída previstas frente a las notificadas para Cosmos-482, NEOWISE y una etapa de Long March 4B."
+        },
+        {
+          "t": "p",
+          "x": "El momento en que un satélite o una etapa de cohete sin control reingresa determina dónde cae: un error de un minuto puede desplazar el punto de impacto unos 460 km."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores combinan la física orbital —la gravedad de la Tierra, su achatamiento y la resistencia atmosférica— con una red neuronal que aprende el coeficiente balístico de cada objeto, una medida de cuánto lo frena el aire, a partir de unos 11 años de datos de rastreo y pronósticos de meteorología espacial. La estimación se actualiza cada tres horas durante el descenso, y ejecutar la red 100 veces con componentes desactivados al azar produce una ventana de incertidumbre."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
+          "cap": "Cómo la red neuronal pronostica el coeficiente balístico y genera la ventana de incertidumbre."
+        },
+        {
+          "t": "p",
+          "x": "En pruebas retrospectivas con Cosmos-482, el telescopio NEOWISE de NASA y una etapa superior de Long March 4B, la hora de reingreso notificada cayó dentro de la ventana prevista en todos los casos. Congelar el coeficiente desplazó las predicciones de los dos objetos no esféricos 31 y 36 minutos, fuera de sus ventanas. Solo se probaron tres objetos; el equipo planea probar con objetos que siguen en órbita. El trabajo se publica en Acta Astronautica."
+        }
+      ]
+    },
+    "science/science-missing-black-holes": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
+          "cap": "Ilustración de una estrella similar al Sol orbitando un agujero negro."
+        },
+        {
+          "t": "p",
+          "x": "La Vía Láctea ha producido más de 10 millones de agujeros negros, pero los astrónomos solo han encontrado 70. Un proyecto del U.K. (Reino Unido) llamado Black Hole Hunters recluta voluntarios para revisar datos del telescopio TESS de NASA en busca de una señal reveladora: un agujero negro que pasa por delante de su estrella compañera y magnifica brevemente su luz."
+        },
+        {
+          "t": "p",
+          "x": "Los algoritmos automáticos hacen un primer barrido y examinan millones de estrellas en busca de los candidatos más evidentes. Pero la inteligencia artificial tiene dificultades con la desordenada realidad del cosmos: las fulguraciones estelares y las pulsaciones naturales pueden llevar a los algoritmos a falsos positivos. Por eso los voluntarios humanos son clave; cada gráfica llega a varias personas para que los errores individuales se compensen."
+        },
+        {
+          "t": "p",
+          "x": "La lista de candidatos permite a los astrónomos dirigir el escaso tiempo de telescopio a estrellas concretas. Desde su lanzamiento en Zooniverse en octubre de 2021, el proyecto ha reunido a casi 23,000 voluntarios y más de 12 millones de clasificaciones. “Con potencialmente miles de nuevos descubrimientos, necesitamos toda la ayuda posible”, dijo el codirector Adam McMaster."
+        }
+      ]
+    },
+    "science/science-claude-quantum-circuits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-4.08.43-AM.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de Anthropic y Harvard usó Claude para diseñar circuitos cuánticos que requieren menos operaciones y qubits, y probó el enfoque en ocho bloques básicos usados en química, optimización, simulación física y teoría de números. Siete diseños redujeron tanto las costosas operaciones cuánticas como los qubits frente a las referencias del estudio; el octavo produjo un nuevo enfoque de aritmética con mejores compensaciones entre tiempo y memoria."
+        },
+        {
+          "t": "p",
+          "x": "Un circuito de decodificación rediseñado necesitó unas 440,000 puertas Toffoli, frente a 5.1 millones, y redujo los qubits máximos de 1,938 a 1,837. Un circuito Gaussian de punto fijo redujo el producto puertas-qubits en un factor de 39, y una rutina de ecuaciones lineales, en 32."
+        },
+        {
+          "t": "p",
+          "x": "En lugar de limitarse a sugerir ideas, el modelo recibió herramientas de programación y un evaluador que verificaba los circuitos y puntuaba el producto de puertas Toffoli por qubits máximos. El blog de Anthropic identifica el modelo como Claude Mythos 5; su trabajo en aritmética de curvas elípticas llevó 53 horas con indicaciones humanas limitadas."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados son estimaciones de recursos, no demostraciones en hardware cuántico, y las pruebas por muestreo no demuestran que todas las entradas funcionen. El artículo es un preprint de arXiv y no ha pasado revisión por pares."
+        }
+      ]
     }
   }
 }

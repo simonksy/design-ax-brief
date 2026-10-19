@@ -1,182 +1,119 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "games",
   "window_hours": 336,
+  "now_iso": "2026-10-19T01:00:00Z",
   "items": [
     {
-      "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games",
-      "source": "Rock Paper Shotgun",
+      "title": "GTA V NPCs Can Now Talk Back In Real Time With AI-Powered NPCTalk Mod, Free Release Coming Next Week",
+      "url": "https://wccftech.com/gta-v-npcs-can-now-talk-back-in-real-time-with-ai-powered-npctalk-mod-free-release-coming-next-week/",
+      "source": "Wccftech",
       "category": "games",
-      "published_iso": "2026-10-17T17:04:18.959417+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "\"Even if AI use does lead to improvements in production efficiency I believe that the most important factors in producing... innovative video games are people.\"",
-      "title": "As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games"
+      "published_iso": "2026-10-18T21:44:12+00:00",
+      "excerpt": "NPCTalk introduces real-time AI conversations for GTA V NPCs, enabling dynamic dialogue and interactions with 1.15-2.2 seconds response times.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
     },
     {
+      "title": "Oblivion Remastered Mod Built Using Claude AI Boosts FPS By Over 40% And Drastically Reduces Stuttering Without Sacrificing Visual Quality",
+      "url": "https://wccftech.com/oblivion-remastered-mod-built-using-claude-ai-boosts-fps-by-over-40-and-drastically-reduces-stuttering-without-sacrificing-visual-quality/",
+      "source": "Wccftech",
+      "category": "games",
+      "published_iso": "2026-10-18T14:24:09+00:00",
+      "excerpt": "AI-assisted mod Oblivion Remastered Performance Fix boosts FPS by over 40% while enhancing visuals on Ryzen 7 5800X/RX 9070 XT systems.",
+      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg",
+      "history_match": {
+        "score": 0.186,
+        "date": "2026-09-29",
+        "url": "https://wccftech.com/radeon-rx-9070-xt-finally-touches-75-fps-at-1080p-in-cyberpunk-2077-with-dlss-5/",
+        "title": "Radeon RX 9070 XT Finally Touches 75 FPS At 1080p In Cyberpunk 2077 With DLSS 5, Thanks To The Efforts Of DLSS-NR-on-AMD Developer",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Epic Games CEO Believes A 'Golden Age Of Gaming' Is Imminent Because of AI",
+      "url": "https://www.polygon.com/epic-games-tim-sweeney-gold-age-of-gaming-ai-development/",
+      "source": "Polygon.com",
+      "category": "games",
+      "published_iso": "2026-10-18T15:43:33Z",
+      "excerpt": "Tim Sweeney continues to advocate for the use of AI in video game development",
+      "og_image": "https://static0.polygonimages.com/wordpress/wp-content/uploads/2026/03/fortnite-star-wars-uefn.jpg?w=1600&h=900&fit=crop",
+      "history_match": {
+        "score": 0.168,
+        "date": "2026-10-15",
+        "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+        "title": "Epic’s new games launcher is ‘vibe coded’",
+        "band": "related"
+      }
+    },
+    {
+      "title": "'I Can't Forgive Them' — Dragon Ball’s Goku Voice Actor 'Furious' Over AI Videos Using Her Voice Without Permission",
       "url": "https://www.ign.com/articles/dragon-balls-goku-voice-actor-furious-over-ai-videos-using-her-voice-without-permission",
       "source": "IGN",
       "category": "games",
       "published_iso": "2026-10-16T20:04:43.912Z",
-      "og_image": "https://assets-prd.ignimgs.com/2026/01/21/dbz-1540843981541-1768988406087.png?width=1280&format=jpg&auto=webp&quality=80",
       "excerpt": "Masako Nozawa, best known for voicing Goku in the Dragon Ball anime series, is slamming AI users for stealing her voice to create projects using the rapidly-advancing technology, calling it outright “theft.”",
-      "title": "'I Can't Forgive Them' — Dragon Ball’s Goku Voice Actor 'Furious' Over AI Videos Using Her Voice Without Permission"
+      "og_image": "https://assets-prd.ignimgs.com/2026/01/21/dbz-1540843981541-1768988406087.png?width=1280&format=jpg&auto=webp&quality=80"
     },
     {
-      "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
-      "source": "PC Gamer",
+      "title": "Roblox brings Audioscape team in-house to develop AI audio tools",
+      "url": "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
+      "source": "PocketGamer.biz",
       "category": "games",
-      "published_iso": "2026-10-16T23:53:11Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/p9AmuwXbiHB432WuTdwcNi-876-80.webp",
-      "excerpt": "City residents and leaders denounced the free web game, which was taken down.",
-      "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood"
+      "published_iso": "2026-10-12T15:44:00+01:00",
+      "excerpt": "Roblox has brought the team behind AI audio startup Audioscape into the company and its technology will now become part of the platform's creator tools.",
+      "og_image": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg",
+      "history_match": {
+        "score": 0.167,
+        "date": "2026-10-12",
+        "url": "https://corp.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
+        "title": "How Roblox Evaluates Build Game Creation",
+        "band": "related"
+      }
     },
     {
+      "title": "What happens when players love an AI-Made game? | Opinion",
+      "url": "https://gamesbeat.com/what-happens-when-players-love-an-ai-made-game-opinion/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-10-07T09:41:06+00:00",
+      "excerpt": "The industry is arguing about AI in game development. Nobody is arguing about a specific game they’ve already sunk 200 hours into.",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/AI.jpg"
+    },
+    {
+      "title": "Astrocade hits 10M monthly players for its AI-assisted UGC casual games platform",
+      "url": "https://gamesbeat.com/astrocade-hits-10m-monthly-players-for-its-ai-assisted-ugc-casual-games-platform/",
+      "source": "GamesBeat",
+      "category": "games",
+      "published_iso": "2026-10-07T13:45:00+00:00",
+      "excerpt": "Astrocade is one of a number of game companies focused on creating platforms for players to engage with AI-produced games.",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/mobile-astrocade-image.jpg",
+      "history_match": {
+        "score": 0.276,
+        "date": "2026-10-08",
+        "url": "https://kotaku.com/ai-generated-games-platform-already-has-10-million-monthly-users-2000741894",
+        "title": "AI-Generated Games Platform Already Has 10 Million Monthly Users",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Activision quality assurance workers vote to authorize strike",
       "url": "https://gamesbeat.com/activision-quality-assurance-workers-vote-to-authorize-strike/",
       "source": "GamesBeat",
       "category": "games",
       "published_iso": "2026-10-17T18:23:59+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Activision.jpg",
       "excerpt": "Quality assurance testers at Activision Publishing, represented by the CWA have overwhelmingly voted to authorize a strike.",
-      "title": "Activision quality assurance workers vote to authorize strike"
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Activision.jpg"
     },
     {
-      "url": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-10-15T15:48:45Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/zGfJ4sQPFeYrLTGitFGaNJ-1920-80.jpg",
-      "excerpt": "\"We don't use AI on ANY social content we make\"",
-      "title": ""
-    },
-    {
-      "url": "https://kotaku.com/the-vibe-coders-have-come-for-nintendo-and-obviously-this-wont-end-well-2000745258",
-      "source": "Kotaku",
-      "category": "games",
-      "published_iso": "2026-10-13T17:30:33+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/Super-Mario-Odyssey-AI-PC-port-MZLabs-Nintendo-2.jpg",
-      "excerpt": "Claude-assisted ports of Nintendo games have started popping up online, which surely won't upset the famously litigious Nintendo",
-      "title": "Vibe-Coders Have Come For Nintendo, Which Won't End Well"
-    },
-    {
-      "url": "https://www.gamesradar.com/games/dark-souls/new-sony-patent-proposes-using-ai-to-alter-boss-fights-in-real-time-and-now-im-having-nightmares-about-a-totally-unpredictable-souls-game/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-10-07T11:03:38Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/q29kfVwTk9MfUnLow7MmTZ-1920-80.jpg",
-      "excerpt": "The tech could also be used to make NPCs more realistic, the patent suggests",
-      "title": "New Sony patent proposes using AI to alter boss fights in real time, and now I'm having nightmares about a totally unpredictable Souls game"
-    },
-    {
-      "url": "https://www.gamesradar.com/games/ex-fortnite-producer-says-ai-controversy-is-mostly-for-show-as-epic-games-faces-backlash-for-its-new-ai-first-approach-to-development/",
-      "source": "GamesRadar+",
-      "category": "games",
-      "published_iso": "2026-10-13T14:10:50Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/jJbgzqFfDLjhKvD5JVRAGn-1920-80.jpg",
-      "excerpt": "The debate happens on stage while the usage happens at the desk",
-      "title": ""
-    },
-    {
-      "url": "https://www.pcgamer.com/games/sim/the-developer-of-an-ai-powered-driving-instruction-simulator-is-spending-usd1-000-per-month-just-to-keep-its-demo-running/",
-      "source": "PC Gamer",
-      "category": "games",
-      "published_iso": "2026-10-11T12:31:04Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/mpQFst9ntNsDXtxsubpvs-1920-80.jpg",
-      "excerpt": "Teach My Little Sister How to Drive centres around a costly chatbot.",
-      "title": "The developer of an AI-powered driving instruction simulator is spending $1,000 per day just to keep its demo running"
-    },
-    {
+      "title": "Google's golden age of AI games?",
       "url": "https://www.pcgamer.com/software/ai/googles-golden-age-of-ai-games/",
       "source": "PC Gamer",
       "category": "games",
       "published_iso": "2026-10-09T00:39:39Z",
+      "excerpt": "PC Gamer feature examining Google's push into AI-made games after the launch of Google Playground and Unity Spark, and whether prompt-built games can find an audience.",
       "og_image": "https://cdn.mos.cms.futurecdn.net/LVdqycj7EnF5PUSFh2VHqb-1458-80.png",
-      "excerpt": "The latest Feature,/features,,features, breaking news, comment, reviews and features from the experts at PC Gamer",
-      "title": "Google's golden age of AI games?"
-    },
-    {
-      "url": "https://gamesbeat.com/how-a-3-person-team-is-using-ai-to-recreate-pride-and-prejudice-in-fortnite-exclusive/",
-      "source": "GamesBeat",
-      "category": "games",
-      "published_iso": "2026-10-08T12:01:00+00:00",
-      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/unnamed-1-1024x505.png",
-      "excerpt": "This team is using Fortnite and AI startup Dreamlands to turn Jane Austen's Pride and Prejudice into a stage for interactive fan-fiction.",
-      "title": "How a 3-person team is using AI to recreate Pride and Prejudice in Fortnite | exclusive",
       "history_match": {
-        "score": 0.332,
-        "date": "2026-10-09",
-        "url": "https://aftermath.site/fortnite-stephenson-whenere-jane-austen/",
-        "title": "Fortnite Will Give Kids What They've Always Wanted: AI Pride And Prejudice Fan Fic",
-        "band": "related"
-      }
-    },
-    {
-      "url": "https://kotaku.com/steam-valve-slop-ai-genai-vibe-coding-pc-game-releases-2000746749",
-      "source": "Kotaku",
-      "title": "2026 Has Already Seen More Games Added To Steam Than All Of 2025, And It's About To Get So Much Worse",
-      "published_iso": "2026-10-16T15:30:25+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/10/steamslop.jpg",
-      "excerpt": "Steam passed 21,388 releases in 2026 by mid-October, beating all of 2025. Kotaku argues vibe-coded knock-offs will swell 2027 further, and notes Steam still offers no way to filter AI-declared games out of new-release lists.",
-      "category": "games",
-      "recovery": true
-    },
-    {
-      "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
-      "source": "PC Gamer",
-      "title": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
-      "published_iso": "2026-10-04T10:49:26Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Av3XxfD8BF9MQDW967VZfE-1200-80.jpg",
-      "excerpt": "In the StarSkirmish botmatch, where LLMs get one hour to program a Protoss bot, GPT-6 Astra tried to win against Claude Opus 5.5 and the human-made bot Pluto by pilfering a human-created bot.",
-      "category": "games",
-      "recovery": true,
-      "history_match": {
-        "score": 0.177,
-        "date": "2026-09-30",
-        "url": "https://eu.36kr.com/en/p/3995368325501056",
-        "title": "19 AI Agents Clash in Intense StarCraft Battle: GPT-6 Sweeps All Matches but Still Fails to Beat Novice Human Players",
-        "band": "related"
-      }
-    },
-    {
-      "url": "https://www.gamesradar.com/games/asking-the-ai-to-reproduce-a-game-that-has-already-been-made-does-not-make-you-kojima-says-unity-ceo-launching-an-ai-you-can-use-to-reproduce-games/",
-      "source": "GamesRadar+",
-      "title": "\"Asking the AI to reproduce a game that has already been made does not make you Kojima,\" says Unity CEO launching an AI you can use to reproduce games",
-      "published_iso": "2026-10-08T11:03:32Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/UZ5WWHD35Q77mnsZMgSkCA-1920-80.jpg",
-      "excerpt": "Unity's CEO says copying an existing game with AI doesn't make you an auteur, while launching Unity Spark, a prompt-based tool built to streamline AI-assisted game development.",
-      "note": "Unity Spark launch itself already published (80.lv); this is the CEO-stance angle.",
-      "category": "games",
-      "recovery": true,
-      "history_match": {
-        "score": 0.248,
-        "date": "2026-10-08",
-        "url": "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/",
-        "title": "Unity Spark Puts Artist-Made Assets Inside an AI-Assisted Game Editor",
-        "band": "related"
-      }
-    },
-    {
-      "url": "https://www.pocketgamer.biz/holger-wurst-junes-journey-player-research-ai/",
-      "source": "PocketGamer.biz",
-      "title": "Wooga's Holger Wurst on designing June's Journey: Player research, AI and the UX rule you can't break",
-      "published_iso": "2026-10-14T15:38:00+01:00",
-      "og_image": "https://media.pocketgamer.biz/images/141725/90027/holgerwurstinthehotseat_l1200.jpg",
-      "excerpt": "Wooga's UI/UX lead on the $1B hidden-object game June's Journey, who runs 11 designers, animators and researchers, talks through AI's possibilities and limits for live-game UX and why player research still comes first.",
-      "note": "off-list domain (pocketgamer.biz): design-org craft interview, no on-list equivalent",
-      "category": "games",
-      "recovery": true
-    },
-    {
-      "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/",
-      "source": "PocketGamer.biz",
-      "title": "Google Play launches discoverability tool Game Finder using \"gamer DNA\"",
-      "published_iso": "2026-10-13T18:00:00+01:00",
-      "og_image": "https://media.pocketgamer.biz/images/141718/90035/google-play-game-finder_l1200.jpg",
-      "excerpt": "Google Play's Game Finder uses Google AI to build a \"gamer DNA\" profile from play habits, then recommends games by genre and mechanic. Players can also filter out titles that push in-app purchases.",
-      "note": "off-list domain (pocketgamer.biz); no on-list coverage found",
-      "category": "games",
-      "recovery": true,
-      "history_match": {
-        "score": 0.211,
+        "score": 0.308,
         "date": "2026-10-11",
         "url": "https://www.gamedeveloper.com/business/google-debuts-new-ai-game-platform-named-google-playground",
         "title": "Google debuts new 'experimental' AI game platform named Google Playground",
@@ -184,70 +121,86 @@
       }
     },
     {
-      "url": "https://wccftech.com/playstation-solve-frame-generation-issue-patent-frame-prediction/",
-      "source": "Wccftech",
-      "title": "PlayStation Seeks To Solve Frame Generation's Number 1 Issue, As New Patent Details Frame Prediction Tech Slashing Input Delay",
-      "published_iso": "2026-10-16T11:08:07+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/PlayStation-Frame-Prediction-Tech-1920x1072.jpg",
-      "excerpt": "A new Sony patent describes predicting future frames, instead of interpolating between them like ML frame generation, to cut input delay. It includes a non-AI fallback for wrong predictions.",
+      "title": "The Sims Community Takes A Stance Against Vibecoding",
+      "url": "https://www.thegamer.com/the-sims-2-subreddit-bans-vibecoded-mods/",
+      "source": "TheGamer",
       "category": "games",
-      "recovery": true,
+      "published_iso": "2026-10-17T10:14:51Z",
+      "excerpt": "The Sims 2 is one of the first communities to take a hard stance against vibecoded mods \"to protect\" other players.",
+      "og_image": "https://static0.thegamerimages.com/wordpress/wp-content/uploads/wm/2026/10/sims-2-servo-rabbit.jpg?w=1600&h=900&fit=crop"
+    },
+    {
+      "title": "Devs Of Needle In A Haystack Clone Angry It's Been Cloned By AI",
+      "url": "https://kotaku.com/devs-behind-needle-in-a-haystack-clone-complain-their-clone-has-been-cloned-by-vibe-coder-2000747284",
+      "source": "Kotaku",
+      "category": "games",
+      "published_iso": "2026-10-18T15:12:35+00:00",
+      "excerpt": "The developers of the Needle In A Haystack Simulator clone accused another clone of being a 'byte-for-byte identical' rip-off of their work",
+      "og_image": "https://kotaku.com/app/uploads/2026/10/A-screenshot-of-NoGlyphs-Needle-In-A-Haystack-on-Steam-1200x675.jpg",
       "history_match": {
-        "score": 0.21,
-        "date": "2026-09-28",
-        "url": "https://www.ign.com/articles/sony-playstation-patent-would-solve-problems-with-ai-vibe-coded-patches",
-        "title": "Sony PlayStation Patent Would Solve Problems With AI Vibe-Coded Patches",
+        "score": 0.213,
+        "date": "2026-09-27",
+        "url": "https://www.gamesradar.com/games/simulation/the-robloxification-of-steam-creator-of-viral-game-apologizes-after-slop-rip-offs-flood-valves-store/",
+        "title": "\"The Robloxification of Steam\": Creator of viral game apologizes after slop rip-offs flood Valve's store",
         "band": "related"
       }
     },
     {
-      "url": "https://www.gamesindustry.biz/a-guide-to-six-regulatory-risks-shaping-games-in-2026",
-      "source": "GamesIndustry.biz",
-      "title": "A guide to six regulatory risks shaping games in 2026",
-      "published_iso": "2026-10-13T11:25:38.874717+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/jim-petkiewicz-NJIzBRrgBus-unsplash.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "EU AI Act rules on deepfakes and on depicting real people and places in games have applied since August 2. Studios now have legal duties to disclose AI use, and generative-AI outputs must be marked as machine-detectable.",
+      "title": "Cyberpunk hero Tim Sweeney vibe-codes demise of cyberpunk villain Tim Sweeney",
+      "url": "https://www.destructoid.com/cyberpunk-hero-tim-sweeney-vibe-codes-demise-of-cyberpunk-villain-tim-sweeney/",
+      "source": "Destructoid",
       "category": "games",
-      "recovery": true
+      "published_iso": "2026-10-16T20:06:58+00:00",
+      "excerpt": "We go over the strange masterplan of Epic CEO Tim Sweeney, which sounds a lot like a pretty effective means of self destruction.",
+      "og_image": "https://www.destructoid.com/wp-content/uploads/2026/10/cyberpunk.jpg",
+      "history_match": {
+        "score": 0.167,
+        "date": "2026-10-15",
+        "url": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+        "title": "Epic’s new games launcher is ‘vibe coded’",
+        "band": "related"
+      }
+    },
+    {
+      "title": "[오늘의 스팀] AI를 속여라, 협동 신작 ‘스캠 위드 유어 프렌즈’",
+      "url": "https://www.gamemeca.com/view.php?gid=1781919",
+      "source": "게임메카",
+      "category": "games",
+      "published_iso": "2026-10-16T18:00:59+09:00",
+      "excerpt": "협동 시뮬레이션 신작 스캠 위드 유어 프렌즈가 스팀 앞서 해보기로 출시된 후 전 세계 최고 인기 게임 최상위권에 올랐다. 생성형 AI를 상대로 사기극을 벌인다는 독특한 설정과 협동 과정에서 발생하는 재미있는 상황이 이목을 끌었다. 다만 불안정한 서버와 음성 인식 오류 및 최적화 ...",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/919/gm980893_pjh261016-1.webp"
+    },
+    {
+      "title": "[순정남] 진짜 같네! AI로 만든 '전세계 GTA' 영상 TOP 5",
+      "url": "https://www.gamemeca.com/view.php?gid=1781813",
+      "source": "게임메카",
+      "category": "games",
+      "published_iso": "2026-10-15T11:17:36+09:00",
+      "excerpt": "신작 GTA 6의 출시가 오랜 기다림 끝에 다가오면서 인기를 끌고 있다. AI 영상 제작 기술의 발전에 힘입어 다양한 국가를 배경으로 한 패러디가 유행하고 있다. 특히 서울과 도쿄 등 이색적인 제3국을 무대로 한 가짜 인게임 영상이 큰 주목을 받고 있다",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/813/gm634632_fadf.webp"
+    },
+    {
+      "title": "부산서 열리는 유니티 AI 게임잼, 참가자 모집한다",
+      "url": "https://www.gamemeca.com/view.php?gid=1781633",
+      "source": "게임메카",
+      "category": "games",
+      "published_iso": "2026-10-12T12:10:53+09:00",
+      "excerpt": "유니티와 한국게임산업협회가 '유니티 AI 게임잼' 참가자를 10월 12일부터 20일까지 모집한다고 밝혔다. 이번 행사는 국내 최대 게임쇼인 '지스타 2026' 개막에 앞서 11월 18일부터 19일까지 부산 벡스코에서 24시간 무박 일정으로 열릴 예정이다",
+      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/633/gm435665_thumb__AI_.webp"
     }
   ],
   "dedup": {
-    "dropped": 5,
-    "kept": 11,
+    "dropped": 3,
+    "kept": 12,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 5,
+    "review": 7,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-18",
-      "title": "CD Projekt Red's Technical Artist Unveils PBR Solver For 3D Scans",
-      "url": "https://80.lv/articles/cd-projekt-red-s-technical-artist-unveils-pbr-solver-for-3d-scans/"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Over 85% of Japanese game developers use generative AI in game development, 2026 CESA survey shows. An increase from last year’s 51%",
-      "url": "https://automaton-media.com/en/news/over-85-of-japanese-game-developers-use-generative-ai-in-game-development-2026-cesa-survey-shows-an-increase-from-last-years-51/"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Ramen launches Aura 1.0 to push agentic AI in game development | interview",
-      "url": "https://gamesbeat.com/ramen-launches-aura-1-0-to-push-agentic-ai-in-game-development/"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "'Frame-by-frame' AI-generated global illumination could be part of AMD's answer to DLSS 5 someday",
-      "url": "https://www.pcgamer.com/hardware/graphics-cards/amd-presents-new-method-of-handing-indirect-lighting-off-to-an-image-generation-model-frame-by-frame-solution-could-be-part-of-amds-answer-to-dlss-5-someday/"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Introducing the official Unity plugin for OpenAI Codex",
-      "url": "https://www.youtube.com/watch?v=gy4HlUNn1lE"
-    },
     {
       "date": "2026-09-19",
       "title": "Recreating the Late-'90s Console Shooter Enemy AI for an FPS",
@@ -907,6 +860,31 @@
       "date": "2026-10-17",
       "title": "Masahiro Sakurai says original games will be harder for AI to rip off, but originality also makes them harder to sell",
       "url": "https://www.gamesradar.com/games/super-smash-bros-and-kirby-creator-masahiro-sakurai-says-original-games-will-be-harder-for-ai-to-rip-off-but-originality-also-makes-your-game-harder-to-sell/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Accused of using AI in World of Warcraft Forever videos, Blizzard employee says \"hell nah, we have real team members\"",
+      "url": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
+      "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Google Play launches discoverability tool Game Finder using \"gamer DNA\"",
+      "url": "https://www.pocketgamer.biz/google-play-launches-discoverability-tool-game-finder-using-gamer-dna/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Wooga's Holger Wurst on designing June's Journey: Player research, AI and the UX rule you can't break",
+      "url": "https://www.pocketgamer.biz/holger-wurst-junes-journey-player-research-ai/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "As too much of the industry embrace their own death through genAI, Konami say it's real people that are most important for making good games",
+      "url": "https://www.rockpapershotgun.com/as-too-much-of-the-industry-embrace-their-own-death-through-genai-konami-say-its-real-people-that-are-most-important-for-making-good-games"
     }
   ]
 }

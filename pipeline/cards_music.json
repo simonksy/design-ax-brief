@@ -1,217 +1,215 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "music",
   "cards": [
     {
-      "id": "music-suno-korea-hit",
+      "id": "music-elevenlabs-instant-soundtracks",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Suno로 만든 노래\n한국서 또 히트",
-      "body": "Suno 곡 '내가 꿈꾸던 어른'이 '마음의 숲'에 이어 국내에서도 히트했다.",
-      "mini_headline": "Suno 곡, 한국서 두 번째 히트",
+      "headline": "ElevenLabs가\n영상에 음악·효과음 입혀",
+      "body": "Instant Soundtracks는 영상에 음악과 편집 가능한 효과음을 입힌다.",
+      "mini_headline": "ElevenLabs, 영상 자동 작곡",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/10/15/suno-made-track-the-adult-i-dreamed-of-is-a-hit-in-south-korea/",
+      "source": "ElevenLabs (YouTube)",
+      "url": "https://www.youtube.com/watch?v=WtPiZ0ym13k",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
+            "t": "video",
+            "yt": "WtPiZ0ym13k"
           },
           {
             "t": "p",
-            "x": "지난달 AI-generated 곡 ‘마음의 숲’이 스트리밍 서비스 Melon의 Top 100 차트 하위권에 오르자 한국에서 논쟁이 일었다고 전한 바 있다."
+            "x": "Instant Soundtracks는 한 번의 작업으로 어떤 영상에든 음악과 효과음을 입힌다."
           },
           {
             "t": "p",
-            "x": "그 기록이 이번에 큰 차이로 깨졌다. Meomuru라는 아티스트의 ‘내가 꿈꾸던 어른’이 이번 주 같은 차트 3위에 올랐다. 6월 발매 이후 소셜미디어 게시물에 쓰이며 조금씩 순위를 끌어올렸다."
+            "x": "영상을 올리면 모델이 오리지널 음악을 붙이고, 효과음이 들어갈 순간을 찾아 각 효과음을 알맞은 타임스탬프에 놓는다."
           },
           {
             "t": "p",
-            "x": "The Straits Times에 따르면 이 아티스트는 가사를 직접 쓰고 음악은 Suno로 생성했다. ‘마음의 숲’도 마찬가지였다."
+            "x": "원본 오디오를 레퍼런스로 삼아 새 음악이 그 분위기를 따르게 할 수도 있다."
           },
           {
             "t": "p",
-            "x": "논쟁은 주로 Melon을 두고 벌어지지만 이 곡은 다른 서비스 차트에도 올라 있다. ‘내가 꿈꾸던 어른’은 이 글을 쓰는 시점 Spotify의 ‘Top Songs – South Korea’ 차트 48위인데 최신 일간 Top 50 순위에서는 10위다."
+            "x": "이번 업데이트로 숏폼 콘텐츠의 타이밍이 좋아졌고 장면 사이 분위기 전환도 더 정확해졌다. Music Video Editor에서는 효과음이 별도 레이어로 뜨기 때문에 사운드트랙과 따로 듣고 손볼 수 있다."
           },
           {
             "t": "p",
-            "x": "YouTube 성적은 더 좋다. ‘내가 꿈꾸던 어른’은 YouTube의 최신 한국 Weekly Top Songs 차트에서 주간 조회수 320만 회로 2위다. YouTube에서는 YouTube Music이 막 발표한 라벨링 정책에 따라 ‘AI’ 태그가 붙었다."
+            "x": "ElevenCreative, ElevenMusic, ElevenAPI에서 오늘부터 쓸 수 있다."
           }
         ]
       },
-      "_lead_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Another Suno-made song\nbecomes a hit in South Korea",
-          "body": "Suno-made 'The Adult I Dreamed Of' is a streaming hit in Korea, after 'Forest of the Heart' reached Melon's Top 100.",
-          "mini_headline": "Second Suno hit in Korea",
+          "headline": "ElevenLabs scores your video\nwith music and sound effects",
+          "body": "Upload a video and Instant Soundtracks scores it with original music and adds sound effects as editable layers.",
+          "mini_headline": "ElevenLabs auto-scores video",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
+                "t": "video",
+                "yt": "WtPiZ0ym13k"
               },
               {
                 "t": "p",
-                "x": "Last month we wrote about a debate breaking out in South Korea after an AI-generated song called ‘Forest of the Heart’ appeared in the lower reaches of streaming service Melon’s Top 100 chart."
+                "x": "Instant Soundtracks lets you elevate any video with music and sound effects, in one pass."
               },
               {
                 "t": "p",
-                "x": "Well, now it’s been surpassed by some distance. ‘The Adult I Dreamed Of’ by an artist called Meomuru took the number three spot in that chart this week, after a slow-burn rise since its June release fuelled by its use in social-media posts."
+                "x": "Upload your footage and the model scores it with original music, then watches for moments that call for an effect and places each one at the right timestamp."
               },
               {
                 "t": "p",
-                "x": "The Straits Times has the story, noting that the artist wrote the lyrics for the track but generated the music on Suno – as was the case for ‘Forest of the Heart’ too."
+                "x": "You can also use the original audio as a reference, so the new score matches its character."
               },
               {
                 "t": "p",
-                "x": "Melon is the focus for the debate around the new hit, although it is making an impact on the charts of other services too. ‘The Adult I Dreamed Of’ is 48th on Spotify’s ‘Top Songs – South Korea’ chart at the time of writing, but 10th in its latest daily Top 50 rankings."
+                "x": "Today's update also brings better timing for short-form content, as well as more accurate mood switching across scenes. In the Music Video Editor, sound effects appear as separate layers, so you can review and adjust them independently of the soundtrack."
               },
               {
                 "t": "p",
-                "x": "It’s doing even better on YouTube: ‘The Adult I Dreamed Of’ is in second place in that platform’s latest Weekly Top Songs chart for South Korea, with 3.2m weekly views. On YouTube, it carries an ‘AI’ tag under YouTube Music’s just-announced labelling policy."
+                "x": "Available today in ElevenCreative, ElevenMusic, and ElevenAPI."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Suno로 만든 노래\n한국서 또 히트",
-          "body": "Suno 곡 '내가 꿈꾸던 어른'이 '마음의 숲'에 이어 국내에서도 히트했다.",
-          "mini_headline": "Suno 곡, 한국서 두 번째 히트",
+          "headline": "ElevenLabs가\n영상에 음악·효과음 입혀",
+          "body": "Instant Soundtracks는 영상에 음악과 편집 가능한 효과음을 입힌다.",
+          "mini_headline": "ElevenLabs, 영상 자동 작곡",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
+                "t": "video",
+                "yt": "WtPiZ0ym13k"
               },
               {
                 "t": "p",
-                "x": "지난달 AI-generated 곡 ‘마음의 숲’이 스트리밍 서비스 Melon의 Top 100 차트 하위권에 오르자 한국에서 논쟁이 일었다고 전한 바 있다."
+                "x": "Instant Soundtracks는 한 번의 작업으로 어떤 영상에든 음악과 효과음을 입힌다."
               },
               {
                 "t": "p",
-                "x": "그 기록이 이번에 큰 차이로 깨졌다. Meomuru라는 아티스트의 ‘내가 꿈꾸던 어른’이 이번 주 같은 차트 3위에 올랐다. 6월 발매 이후 소셜미디어 게시물에 쓰이며 조금씩 순위를 끌어올렸다."
+                "x": "영상을 올리면 모델이 오리지널 음악을 붙이고, 효과음이 들어갈 순간을 찾아 각 효과음을 알맞은 타임스탬프에 놓는다."
               },
               {
                 "t": "p",
-                "x": "The Straits Times에 따르면 이 아티스트는 가사를 직접 쓰고 음악은 Suno로 생성했다. ‘마음의 숲’도 마찬가지였다."
+                "x": "원본 오디오를 레퍼런스로 삼아 새 음악이 그 분위기를 따르게 할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "논쟁은 주로 Melon을 두고 벌어지지만 이 곡은 다른 서비스 차트에도 올라 있다. ‘내가 꿈꾸던 어른’은 이 글을 쓰는 시점 Spotify의 ‘Top Songs – South Korea’ 차트 48위인데 최신 일간 Top 50 순위에서는 10위다."
+                "x": "이번 업데이트로 숏폼 콘텐츠의 타이밍이 좋아졌고 장면 사이 분위기 전환도 더 정확해졌다. Music Video Editor에서는 효과음이 별도 레이어로 뜨기 때문에 사운드트랙과 따로 듣고 손볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "YouTube 성적은 더 좋다. ‘내가 꿈꾸던 어른’은 YouTube의 최신 한국 Weekly Top Songs 차트에서 주간 조회수 320만 회로 2위다. YouTube에서는 YouTube Music이 막 발표한 라벨링 정책에 따라 ‘AI’ 태그가 붙었다."
+                "x": "ElevenCreative, ElevenMusic, ElevenAPI에서 오늘부터 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Suno製の楽曲が\n韓国でまたヒット",
-          "body": "Suno製の「私が夢見た大人」が「心の森」に続き、韓国でストリーミングヒットとなった。",
-          "mini_headline": "韓国で2例目のSunoヒット",
+          "headline": "ElevenLabs、動画に\n音楽と効果音を自動付与",
+          "body": "Instant Soundtracksは動画にオリジナル音楽と編集可能な効果音を付ける。",
+          "mini_headline": "ElevenLabsが動画を自動スコアリング",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
+                "t": "video",
+                "yt": "WtPiZ0ym13k"
               },
               {
                 "t": "p",
-                "x": "先月、AI-generatedの楽曲「心の森」がストリーミングサービスMelonのTop 100チャート下位に入り、韓国で議論が起きたと伝えた。"
+                "x": "Instant Soundtracksは、あらゆる動画に音楽と効果音を一度に加えられる機能だ。"
               },
               {
                 "t": "p",
-                "x": "今回はそれを大きく上回った。Meomuruというアーティストの「私が夢見た大人」が今週、同チャートで3位に入った。6月のリリース以降、SNS投稿での使用を追い風にじわじわと順位を上げてきた。"
+                "x": "映像をアップロードすると、モデルがオリジナル音楽で曲を付け、さらに効果音が必要な場面を見つけて、それぞれを適切なタイムスタンプに配置する。"
               },
               {
                 "t": "p",
-                "x": "The Straits Timesによると、このアーティストは歌詞を自ら書き、音楽はSunoで生成した。「心の森」も同様だった。"
+                "x": "元の音声をリファレンスとして使い、新しい音楽をその雰囲気に合わせることもできる。"
               },
               {
                 "t": "p",
-                "x": "新たなヒット曲をめぐる議論の中心はMelonだが、他のサービスのチャートでも存在感を示している。「私が夢見た大人」は執筆時点でSpotifyの「Top Songs – South Korea」チャートで48位だが、最新の日次Top 50ランキングでは10位だ。"
+                "x": "今回のアップデートでは、ショート動画でのタイミングが改善され、シーン間のムード切り替えもより正確になった。Music Video Editorでは効果音が別レイヤーとして表示され、サウンドトラックとは独立して確認・調整できる。"
               },
               {
                 "t": "p",
-                "x": "YouTubeではさらに好調だ。「私が夢見た大人」は同プラットフォームの韓国向け最新Weekly Top Songsチャートで2位につけ、週間再生回数は320万回に達した。YouTube上では、YouTube Musicが発表したばかりのラベリング方針に基づき「AI」タグが付いている。"
+                "x": "ElevenCreative、ElevenMusic、ElevenAPIで本日から利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "又一首Suno歌曲\n在韩国走红",
-          "body": "Suno制作的《我梦想中的大人》继《心之森》之后，在韩国成为流媒体热门歌曲。",
-          "mini_headline": "Suno在韩国再出热门曲",
+          "headline": "ElevenLabs为视频\n自动配乐配音效",
+          "body": "Instant Soundtracks为上传的视频配上原创音乐，并以可编辑图层添加音效。",
+          "mini_headline": "ElevenLabs自动为视频配乐",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
+                "t": "video",
+                "yt": "WtPiZ0ym13k"
               },
               {
                 "t": "p",
-                "x": "上个月我们报道过，一首名为《心之森》的AI-generated歌曲进入流媒体服务Melon的Top 100榜单靠后位置，在韩国引发争论。"
+                "x": "Instant Soundtracks 可一次性为任何视频加上音乐和音效。"
               },
               {
                 "t": "p",
-                "x": "如今它已被远远超越。艺人Meomuru的《我梦想中的大人》本周登上该榜第三名。这首歌自6月发行以来，借助在社交媒体帖子中的使用缓慢攀升。"
+                "x": "上传素材后，模型会用原创音乐为其配乐，并识别需要音效的时刻，把每个音效放到正确的时间点。"
               },
               {
                 "t": "p",
-                "x": "据The Straits Times报道，这位艺人亲自创作了歌词，但音乐是用Suno生成的，《心之森》也是如此。"
+                "x": "也可以把原始音频作为参考，让新配乐与其风格相符。"
               },
               {
                 "t": "p",
-                "x": "新热门歌曲引发的争论集中在Melon，但它在其他平台的榜单上同样有影响力。截至撰稿时，《我梦想中的大人》在Spotify的“Top Songs – South Korea”榜单上排名第48位，但在其最新的每日Top 50排名中位列第10。"
+                "x": "此次更新还改进了短视频内容的节奏把握，场景之间的情绪切换也更准确。在 Music Video Editor 中，音效以独立图层呈现，可与配乐分开检查和调整。"
               },
               {
                 "t": "p",
-                "x": "它在YouTube上表现更好：《我梦想中的大人》在该平台最新的韩国Weekly Top Songs榜单中排名第二，周播放量达320万次。在YouTube上，根据YouTube Music刚刚公布的标注政策，这首歌带有“AI”标签。"
+                "x": "即日起可在 ElevenCreative、ElevenMusic 和 ElevenAPI 中使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Otra canción hecha con Suno\nes un éxito en Corea del Sur",
-          "body": "'The Adult I Dreamed Of', creada con Suno, es un éxito de streaming en Corea tras 'Forest of the Heart'.",
-          "mini_headline": "Segundo éxito de Suno en Corea",
+          "headline": "ElevenLabs pone banda sonora\na tu video con música y efectos",
+          "body": "Al subir un video, Instant Soundtracks crea música original y añade efectos de sonido como capas editables.",
+          "mini_headline": "ElevenLabs musicaliza videos",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
+                "t": "video",
+                "yt": "WtPiZ0ym13k"
               },
               {
                 "t": "p",
-                "x": "El mes pasado contamos el debate que surgió en Corea del Sur después de que una canción generada por IA (AI-generated) llamada ‘Forest of the Heart’ apareciera en la parte baja del Top 100 del servicio de streaming Melon."
+                "x": "Instant Soundtracks permite enriquecer cualquier video con música y efectos de sonido en una sola pasada."
               },
               {
                 "t": "p",
-                "x": "Ahora ha quedado ampliamente superada. ‘The Adult I Dreamed Of’, de un artista llamado Meomuru, alcanzó esta semana el tercer puesto de esa lista, tras un ascenso lento desde su lanzamiento en junio impulsado por su uso en publicaciones de redes sociales."
+                "x": "Al subir el material, el modelo lo musicaliza con música original y luego detecta los momentos que piden un efecto y coloca cada uno en la marca de tiempo correcta."
               },
               {
                 "t": "p",
-                "x": "The Straits Times recoge la noticia y señala que el artista escribió la letra del tema, pero generó la música con Suno, como también ocurrió con ‘Forest of the Heart’."
+                "x": "También se puede usar el audio original como referencia para que la nueva música mantenga su carácter."
               },
               {
                 "t": "p",
-                "x": "Melon concentra el debate sobre el nuevo éxito, aunque la canción también deja huella en las listas de otros servicios. ‘The Adult I Dreamed Of’ ocupa el puesto 48 en la lista ‘Top Songs – South Korea’ de Spotify en el momento de escribir esto, pero el 10 en su último ranking diario Top 50."
+                "x": "La actualización de hoy mejora además la sincronización en contenido de formato corto y hace más precisos los cambios de ambiente entre escenas. En el Music Video Editor, los efectos de sonido aparecen como capas separadas, de modo que pueden revisarse y ajustarse con independencia de la banda sonora."
               },
               {
                 "t": "p",
-                "x": "En YouTube le va aún mejor: ‘The Adult I Dreamed Of’ ocupa el segundo lugar en la última lista Weekly Top Songs de la plataforma para Corea del Sur, con 3,2 millones de visualizaciones semanales. En YouTube lleva una etiqueta ‘AI’ conforme a la política de etiquetado que YouTube Music acaba de anunciar."
+                "x": "Disponible desde hoy en ElevenCreative, ElevenMusic y ElevenAPI."
               }
             ]
           }
@@ -219,137 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Suno로 만든 노래\n한국서 또 히트",
-          "body": "Suno 곡 '내가 꿈꾸던 어른'이 '마음의 숲'에 이어 국내서 히트했다.",
-          "mini_headline": "Suno 곡, 한국서 두 번째 히트",
+          "headline": "ElevenLabs가\n영상에 음악·효과음 입혀",
+          "body": "Instant Soundtracks는 영상에 음악과 편집 가능한 효과음을 입힌다.",
+          "mini_headline": "ElevenLabs, 영상 자동 작곡",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
+                "t": "video",
+                "yt": "WtPiZ0ym13k"
               },
               {
                 "t": "p",
-                "x": "지난달 우리는 AI-generated 곡 ‘마음의 숲’이 스트리밍 서비스 Melon의 Top 100 차트 하위권에 오르며 한국에서 논쟁이 일었다고 전했다."
+                "x": "Instant Soundtracks는 한 번의 작업으로 어떤 영상에든 음악과 효과음을 입힌다."
               },
               {
                 "t": "p",
-                "x": "이제 그 기록은 큰 차이로 넘어섰다. Meomuru라는 아티스트의 ‘내가 꿈꾸던 어른’이 이번 주 같은 차트 3위에 올랐다. 6월 발매 이후 소셜미디어 게시물에 쓰이며 서서히 순위를 끌어올린 결과다."
+                "x": "영상을 올리면 모델이 오리지널 음악으로 곡을 붙이고, 효과음이 필요한 순간을 찾아 각 효과음을 알맞은 타임스탬프에 배치한다."
               },
               {
                 "t": "p",
-                "x": "The Straits Times에 따르면 이 아티스트는 가사를 직접 쓰고 음악은 Suno로 생성했다. ‘마음의 숲’도 마찬가지였다."
+                "x": "원본 오디오를 레퍼런스로 삼아 새 음악이 그 분위기를 따르게 할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "새 히트곡을 둘러싼 논쟁의 중심은 Melon이지만, 다른 서비스 차트에서도 존재감을 보이고 있다. ‘내가 꿈꾸던 어른’은 이 글을 쓰는 시점 Spotify의 ‘Top Songs – South Korea’ 차트 48위지만, 최신 일간 Top 50 순위에서는 10위다."
+                "x": "이번 업데이트로 숏폼 콘텐츠의 타이밍이 나아졌고, 장면 사이 분위기 전환도 더 정확해졌다. Music Video Editor에서는 효과음이 별도 레이어로 나타나 사운드트랙과 따로 검토하고 조정할 수 있다."
               },
               {
                 "t": "p",
-                "x": "YouTube에서는 성적이 더 좋다. ‘내가 꿈꾸던 어른’은 YouTube의 최신 한국 Weekly Top Songs 차트에서 주간 조회수 320만 회로 2위다. YouTube에서는 YouTube Music이 막 발표한 라벨링 정책에 따라 ‘AI’ 태그가 붙어 있다."
+                "x": "ElevenCreative, ElevenMusic, ElevenAPI에서 오늘부터 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Suno製の楽曲が\n韓国でまたヒット",
-          "body": "Suno製の「私が夢見た大人」が「心の森」に続き、韓国でストリーミングヒットとなった。",
-          "mini_headline": "韓国で2例目のSunoヒット",
+          "headline": "ElevenLabs、動画に\n音楽と効果音を自動付与",
+          "body": "Instant Soundtracksは動画にオリジナル音楽と編集可能な効果音を付ける。",
+          "mini_headline": "ElevenLabsが動画を自動スコアリング",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
+                "t": "video",
+                "yt": "WtPiZ0ym13k"
               },
               {
                 "t": "p",
-                "x": "先月、AI-generatedの楽曲「心の森」がストリーミングサービスMelonのTop 100チャート下位に入り、韓国で議論が起きたと伝えた。"
+                "x": "Instant Soundtracksは、あらゆる動画に音楽と効果音を一度に加えられる機能だ。"
               },
               {
                 "t": "p",
-                "x": "今回はそれを大きく上回った。Meomuruというアーティストの「私が夢見た大人」が今週、同チャートで3位に入った。6月のリリース以降、SNS投稿での使用を追い風にじわじわと順位を上げてきた。"
+                "x": "映像をアップロードすると、モデルがオリジナル音楽で曲を付け、さらに効果音が必要な場面を見つけて、それぞれを適切なタイムスタンプに配置する。"
               },
               {
                 "t": "p",
-                "x": "The Straits Timesによると、このアーティストは歌詞を自ら書き、音楽はSunoで生成した。「心の森」も同様だった。"
+                "x": "元の音声をリファレンスとして使い、新しい音楽をその雰囲気に合わせることもできる。"
               },
               {
                 "t": "p",
-                "x": "新たなヒット曲をめぐる議論の中心はMelonだが、他のサービスのチャートでも存在感を示している。「私が夢見た大人」は執筆時点でSpotifyの「Top Songs – South Korea」チャートで48位だが、最新の日次Top 50ランキングでは10位だ。"
+                "x": "今回のアップデートでは、ショート動画でのタイミングが改善され、シーン間のムード切り替えもより正確になった。Music Video Editorでは効果音が別レイヤーとして表示され、サウンドトラックとは独立して確認・調整できる。"
               },
               {
                 "t": "p",
-                "x": "YouTubeではさらに好調だ。「私が夢見た大人」は同プラットフォームの韓国向け最新Weekly Top Songsチャートで2位につけ、週間再生回数は320万回に達した。YouTube上では、YouTube Musicが発表したばかりのラベリング方針に基づき「AI」タグが付いている。"
+                "x": "ElevenCreative、ElevenMusic、ElevenAPIで本日から利用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "又一首Suno歌曲\n在韩国走红",
-          "body": "Suno制作的《我梦想中的大人》继《心之森》之后，在韩国成为流媒体热门歌曲。",
-          "mini_headline": "Suno在韩国再出热门曲",
+          "headline": "ElevenLabs为视频\n自动配乐配音效",
+          "body": "Instant Soundtracks为上传的视频配上原创音乐，并以可编辑图层添加音效。",
+          "mini_headline": "ElevenLabs自动为视频配乐",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
+                "t": "video",
+                "yt": "WtPiZ0ym13k"
               },
               {
                 "t": "p",
-                "x": "上个月我们报道过，一首名为《心之森》的AI-generated歌曲进入流媒体服务Melon的Top 100榜单靠后位置，在韩国引发争论。"
+                "x": "Instant Soundtracks 可一次性为任何视频加上音乐和音效。"
               },
               {
                 "t": "p",
-                "x": "如今它已被远远超越。艺人Meomuru的《我梦想中的大人》本周登上该榜第三名。这首歌自6月发行以来，借助在社交媒体帖子中的使用缓慢攀升。"
+                "x": "上传素材后，模型会用原创音乐为其配乐，并识别需要音效的时刻，把每个音效放到正确的时间点。"
               },
               {
                 "t": "p",
-                "x": "据The Straits Times报道，这位艺人亲自创作了歌词，但音乐是用Suno生成的，《心之森》也是如此。"
+                "x": "也可以把原始音频作为参考，让新配乐与其风格相符。"
               },
               {
                 "t": "p",
-                "x": "新热门歌曲引发的争论集中在Melon，但它在其他平台的榜单上同样有影响力。截至撰稿时，《我梦想中的大人》在Spotify的“Top Songs – South Korea”榜单上排名第48位，但在其最新的每日Top 50排名中位列第10。"
+                "x": "此次更新还改进了短视频内容的节奏把握，场景之间的情绪切换也更准确。在 Music Video Editor 中，音效以独立图层呈现，可与配乐分开检查和调整。"
               },
               {
                 "t": "p",
-                "x": "它在YouTube上表现更好：《我梦想中的大人》在该平台最新的韩国Weekly Top Songs榜单中排名第二，周播放量达320万次。在YouTube上，根据YouTube Music刚刚公布的标注政策，这首歌带有“AI”标签。"
+                "x": "即日起可在 ElevenCreative、ElevenMusic 和 ElevenAPI 中使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Otra canción hecha con Suno\nes un éxito en Corea del Sur",
-          "body": "'The Adult I Dreamed Of', creada con Suno, es un éxito de streaming en Corea tras 'Forest of the Heart'.",
-          "mini_headline": "Segundo éxito de Suno en Corea",
+          "headline": "ElevenLabs pone banda sonora\na tu video con música y efectos",
+          "body": "Al subir un video, Instant Soundtracks crea música original y añade efectos de sonido como capas editables.",
+          "mini_headline": "ElevenLabs musicaliza videos",
           "full": {
             "mode": "full",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1"
+                "t": "video",
+                "yt": "WtPiZ0ym13k"
               },
               {
                 "t": "p",
-                "x": "El mes pasado contamos el debate que surgió en Corea del Sur después de que una canción generada por IA (AI-generated) llamada ‘Forest of the Heart’ apareciera en la parte baja del Top 100 del servicio de streaming Melon."
+                "x": "Instant Soundtracks permite enriquecer cualquier video con música y efectos de sonido en una sola pasada."
               },
               {
                 "t": "p",
-                "x": "Ahora ha quedado ampliamente superada. ‘The Adult I Dreamed Of’, de un artista llamado Meomuru, alcanzó esta semana el tercer puesto de esa lista, tras un ascenso lento desde su lanzamiento en junio impulsado por su uso en publicaciones de redes sociales."
+                "x": "Al subir el material, el modelo lo musicaliza con música original y luego detecta los momentos que piden un efecto y coloca cada uno en la marca de tiempo correcta."
               },
               {
                 "t": "p",
-                "x": "The Straits Times recoge la noticia y señala que el artista escribió la letra del tema, pero generó la música con Suno, como también ocurrió con ‘Forest of the Heart’."
+                "x": "También se puede usar el audio original como referencia para que la nueva música mantenga su carácter."
               },
               {
                 "t": "p",
-                "x": "Melon concentra el debate sobre el nuevo éxito, aunque la canción también deja huella en las listas de otros servicios. ‘The Adult I Dreamed Of’ ocupa el puesto 48 en la lista ‘Top Songs – South Korea’ de Spotify en el momento de escribir esto, pero el 10 en su último ranking diario Top 50."
+                "x": "La actualización de hoy mejora además la sincronización en contenido de formato corto y hace más precisos los cambios de ambiente entre escenas. En el Music Video Editor, los efectos de sonido aparecen como capas separadas, de modo que pueden revisarse y ajustarse con independencia de la banda sonora."
               },
               {
                 "t": "p",
-                "x": "En YouTube le va aún mejor: ‘The Adult I Dreamed Of’ ocupa el segundo lugar en la última lista Weekly Top Songs de la plataforma para Corea del Sur, con 3,2 millones de visualizaciones semanales. En YouTube lleva una etiqueta ‘AI’ conforme a la política de etiquetado que YouTube Music acaba de anunciar."
+                "x": "Disponible desde hoy en ElevenCreative, ElevenMusic y ElevenAPI."
               }
             ]
           }
@@ -357,215 +355,273 @@
       }
     },
     {
-      "id": "music-difro2",
+      "id": "music-zoom-neurig",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Initial Audio\nDifro 2 무료 공개",
-      "body": "무료 AI MIDI 멜로디 생성기 Difro 2가 모델을 처음부터 재학습했다.",
-      "mini_headline": "Difro 2, AI 모델 재학습",
+      "headline": "약 $300 Neurig\nNAM·스템 분리 지원",
+      "body": "Zoom Neurig은 NAM 캡처와 AI 스템 분리를 지원하는 앰프 모델러다.",
+      "mini_headline": "Zoom Neurig, 약 $300 NAM 모델러",
       "tool": "Music",
-      "source": "INITIAL AUDIO (YouTube)",
-      "url": "https://www.youtube.com/watch?v=DY5QI4idlRU",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/gear/amp-modeler-pedals/zoom-neurig",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+            "cap": "Zoom Neurig"
+          },
+          {
+            "t": "p",
+            "x": "NAM을 받아들인 대형 브랜드에 Zoom도 Neurig로 새로 이름을 올렸다. 터치스크린을 갖춘 저렴한 모델러인데, Zoom은 이를 “모든 것을 새롭게 정의할 차세대 기타 페달”이라고 부른다. 기본 지원하는 NAM A2 Lite는 TONE3000의 오픈소스 앰프 모델링 아키텍처로, 요즘 기타 업계를 휩쓰는 중이다."
+          },
+          {
+            "t": "p",
+            "x": "Zoom은 이 기술이 “톤만이 아니라 앰프 자체를 재현한다”고 말한다. Marshall JTM 45와 1965 Fender Twin Reverb부터 Diezel Herbert, Mesa/Boogie Dual Rectifier까지 앰프 헤드 32종이 들어 있고, 오리지널 앰프 사운드도 여섯 가지 담았다. NAM을 통합한 덕에 앰프, 페달, 캐비닛을 불러오거나 시그널 체인 전체를 캡처할 수 있다. 700,000개가 넘는 NAM 캡처와 IR 라이브러리도 무료로 가져온다."
+          },
+          {
             "t": "video",
-            "yt": "DY5QI4idlRU"
+            "yt": "pN3mt-v4KiE"
           },
           {
             "t": "p",
-            "x": "Initial Audio가 Difro 2를 무료로 내려받을 수 있게 공개하며 자사 역대 가장 강력한 AI MIDI 생성기라고 소개했다."
+            "x": "이펙트는 리버브, 딜레이, 모듈레이션에 비트크러셔, 로터리 스피커 시뮬레이션, 링 모듈레이터, 피치 시프터까지 갖췄고 익스프레션 페달용 이펙트만 17개다. 이펙트는 최대 14개까지 동시에 걸 수 있다. send/return, MIDI in/out, Bluetooth, 루퍼, 4.5시간 배터리도 들어갔다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+            "cap": "Zoom Neurig 앰프 모델러 (이미지: Zoom)"
           },
           {
             "t": "p",
-            "x": "회사는 AI 모델을 처음부터 다시 학습시켰고, 그 덕에 품질과 음악성, 창의성이 크게 나아졌다고 밝혔다."
+            "x": "AI-driven(AI 기반) 톤 생성과 곡에서 기타 파트만 지우는 AI 스템 분리도 SessionZ Pedal 클라우드 서비스로 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "Difro 2는 기존 MIDI 멜로디를 받아 원곡의 분위기와 개성, 음악적 DNA는 살린 채 새 아이디어로 풀어낸다."
-          },
-          {
-            "t": "p",
-            "x": "달라진 점은 이렇다. 완전히 재학습한 AI 모델, 크게 개선된 MIDI 생성 품질, 원래 멜로디의 DNA를 더 잘 보존하는 능력, 더 음악적이고 일관된 결과, 기존 MIDI 아이디어에서 끝없이 뽑아내는 새 변주다."
-          },
-          {
-            "t": "p",
-            "x": "14분 분량의 첫인상 영상에서 Initial Audio는 Difro 2로 멜로디를 실시간 생성하며 성능을 시험한다."
+            "x": "가격은 ¥47,800, 약 $300이다. 공식 US 가격이 나오기 전이라 대략 환산한 값이다."
           }
         ]
       },
-      "_lead_image": "https://i.ytimg.com/vi/DY5QI4idlRU/maxresdefault.jpg",
-      "_video": "DY5QI4idlRU",
       "text": {
         "en": {
-          "headline": "Initial Audio releases\nfree AI melody tool Difro 2",
-          "body": "Difro 2, Initial Audio's free AI MIDI melody generator, returns with a model retrained from the ground up.",
-          "mini_headline": "Difro 2 retrains its AI",
+          "headline": "Zoom's ~$300 Neurig brings NAM\ncaptures and stem separation",
+          "body": "Zoom's ¥47,800 (about $300) touchscreen amp modeler supports Neural Amp Modeler captures and AI stem separation.",
+          "mini_headline": "Zoom Neurig: ~$300 NAM modeler",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+                "cap": "Zoom Neurig"
+              },
+              {
+                "t": "p",
+                "x": "Zoom is the latest big-name brand to embrace NAM with the Neurig, an affordable touchscreen-equipped modeler it calls “a next-generation guitar pedal that will redefine everything.” It natively supports NAM A2 Lite from TONE3000, the open-source amp modeling architecture sweeping through the guitar industry."
+              },
+              {
+                "t": "p",
+                "x": "Zoom says the tech “reproduces the amplifier itself, not just the tone.” There are 32 amp heads built in, from a Marshall JTM 45 and 1965 Fender Twin Reverb to a Diezel Herbert and Mesa/Boogie Dual Rectifier, plus six original amp sounds. NAM integration lets users load amps, pedals and cabinets, capture full signal chains, and import over 700,000 NAM capture and IR libraries for free."
+              },
+              {
                 "t": "video",
-                "yt": "DY5QI4idlRU"
+                "yt": "pN3mt-v4KiE"
               },
               {
                 "t": "p",
-                "x": "Initial Audio has released Difro 2, which it calls its most powerful AI MIDI generator yet, as a free download."
+                "x": "Effects include reverbs, delays and modulations plus a bit crusher, rotary speaker sim, ring modulator and pitch shifter, with 17 effects tailored for an expression pedal. It runs up to 14 effects simultaneously and adds send/return, MIDI in/out, Bluetooth, a looper and a 4.5-hour battery."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+                "cap": "Zoom Neurig amp modeler (Image credit: Zoom)"
               },
               {
                 "t": "p",
-                "x": "The company says it completely retrained the AI model from the ground up, delivering a massive leap in quality, musicality and creativity."
+                "x": "It also features AI-driven tone generation and AI stem separation for removing guitar parts from tracks, accessible via the SessionZ Pedal cloud service."
               },
               {
                 "t": "p",
-                "x": "Difro 2 takes your existing MIDI melodies and reimagines them into fresh new ideas while preserving the original vibe, character and musical DNA."
-              },
-              {
-                "t": "p",
-                "x": "What’s new: a completely retrained AI model, dramatically improved MIDI generation quality, better preservation of the original melody’s DNA, more musical and coherent results, and endless new variations from existing MIDI ideas."
-              },
-              {
-                "t": "p",
-                "x": "In the 14-minute first-look video, Initial Audio puts Difro 2 to the test, generating melodies live."
+                "x": "The price is ¥47,800, approximately $300 – a rough conversion while we wait for an official US price."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Initial Audio\nDifro 2 무료 공개",
-          "body": "무료 AI MIDI 멜로디 생성기 Difro 2가 모델을 처음부터 재학습했다.",
-          "mini_headline": "Difro 2, AI 모델 재학습",
+          "headline": "약 $300 Neurig\nNAM·스템 분리 지원",
+          "body": "Zoom Neurig은 NAM 캡처와 AI 스템 분리를 지원하는 앰프 모델러다.",
+          "mini_headline": "Zoom Neurig, 약 $300 NAM 모델러",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+                "cap": "Zoom Neurig"
+              },
+              {
+                "t": "p",
+                "x": "NAM을 받아들인 대형 브랜드에 Zoom도 Neurig로 새로 이름을 올렸다. 터치스크린을 갖춘 저렴한 모델러인데, Zoom은 이를 “모든 것을 새롭게 정의할 차세대 기타 페달”이라고 부른다. 기본 지원하는 NAM A2 Lite는 TONE3000의 오픈소스 앰프 모델링 아키텍처로, 요즘 기타 업계를 휩쓰는 중이다."
+              },
+              {
+                "t": "p",
+                "x": "Zoom은 이 기술이 “톤만이 아니라 앰프 자체를 재현한다”고 말한다. Marshall JTM 45와 1965 Fender Twin Reverb부터 Diezel Herbert, Mesa/Boogie Dual Rectifier까지 앰프 헤드 32종이 들어 있고, 오리지널 앰프 사운드도 여섯 가지 담았다. NAM을 통합한 덕에 앰프, 페달, 캐비닛을 불러오거나 시그널 체인 전체를 캡처할 수 있다. 700,000개가 넘는 NAM 캡처와 IR 라이브러리도 무료로 가져온다."
+              },
+              {
                 "t": "video",
-                "yt": "DY5QI4idlRU"
+                "yt": "pN3mt-v4KiE"
               },
               {
                 "t": "p",
-                "x": "Initial Audio가 Difro 2를 무료로 내려받을 수 있게 공개하며 자사 역대 가장 강력한 AI MIDI 생성기라고 소개했다."
+                "x": "이펙트는 리버브, 딜레이, 모듈레이션에 비트크러셔, 로터리 스피커 시뮬레이션, 링 모듈레이터, 피치 시프터까지 갖췄고 익스프레션 페달용 이펙트만 17개다. 이펙트는 최대 14개까지 동시에 걸 수 있다. send/return, MIDI in/out, Bluetooth, 루퍼, 4.5시간 배터리도 들어갔다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+                "cap": "Zoom Neurig 앰프 모델러 (이미지: Zoom)"
               },
               {
                 "t": "p",
-                "x": "회사는 AI 모델을 처음부터 다시 학습시켰고, 그 덕에 품질과 음악성, 창의성이 크게 나아졌다고 밝혔다."
+                "x": "AI-driven(AI 기반) 톤 생성과 곡에서 기타 파트만 지우는 AI 스템 분리도 SessionZ Pedal 클라우드 서비스로 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Difro 2는 기존 MIDI 멜로디를 받아 원곡의 분위기와 개성, 음악적 DNA는 살린 채 새 아이디어로 풀어낸다."
-              },
-              {
-                "t": "p",
-                "x": "달라진 점은 이렇다. 완전히 재학습한 AI 모델, 크게 개선된 MIDI 생성 품질, 원래 멜로디의 DNA를 더 잘 보존하는 능력, 더 음악적이고 일관된 결과, 기존 MIDI 아이디어에서 끝없이 뽑아내는 새 변주다."
-              },
-              {
-                "t": "p",
-                "x": "14분 분량의 첫인상 영상에서 Initial Audio는 Difro 2로 멜로디를 실시간 생성하며 성능을 시험한다."
+                "x": "가격은 ¥47,800, 약 $300이다. 공식 US 가격이 나오기 전이라 대략 환산한 값이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Initial Audio\nDifro 2を無料公開",
-          "body": "無料のAI MIDIメロディ生成ツールDifro 2が、モデルを一から再学習して登場した。",
-          "mini_headline": "Difro 2がAIを再学習",
+          "headline": "約$300のNeurig\nNAMとステム分離対応",
+          "body": "ZoomのNeurigは、NAMキャプチャーとAIステム分離に対応するアンプモデラーだ。",
+          "mini_headline": "Zoom Neurig：約$300のNAMモデラー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+                "cap": "Zoom Neurig"
+              },
+              {
+                "t": "p",
+                "x": "Zoomは、Neurigによって NAM を取り入れた最新の大手ブランドとなった。Neurigはタッチスクリーンを備えた手頃なモデラーで、同社は「すべてを再定義する次世代ギターペダル」と呼ぶ。ギター業界を席巻するオープンソースのアンプモデリング・アーキテクチャ、TONE3000のNAM A2 Liteをネイティブでサポートする。"
+              },
+              {
+                "t": "p",
+                "x": "Zoomによれば、この技術は「トーンだけでなく、アンプそのものを再現する」。Marshall JTM 45や1965 Fender Twin ReverbからDiezel Herbert、Mesa/Boogie Dual Rectifierまで32種類のアンプヘッドを内蔵し、オリジナルのアンプサウンドも6種類備える。NAM統合により、アンプ、ペダル、キャビネットの読み込みやシグナルチェーン全体のキャプチャーが可能で、700,000を超えるNAMキャプチャーとIRライブラリを無料でインポートできる。"
+              },
+              {
                 "t": "video",
-                "yt": "DY5QI4idlRU"
+                "yt": "pN3mt-v4KiE"
               },
               {
                 "t": "p",
-                "x": "Initial Audioは、同社史上最も強力なAI MIDIジェネレーターとうたうDifro 2を無料ダウンロードで公開した。"
+                "x": "エフェクトはリバーブ、ディレイ、モジュレーションに加え、ビットクラッシャー、ロータリースピーカー・シミュレーター、リングモジュレーター、ピッチシフターをそろえ、エクスプレッションペダル向けのエフェクトが17種類ある。最大14個のエフェクトを同時に使え、send/return、MIDI in/out、Bluetooth、ルーパー、4.5時間駆動のバッテリーも備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+                "cap": "Zoom Neurigアンプモデラー（画像：Zoom）"
               },
               {
                 "t": "p",
-                "x": "同社によると、AIモデルを一から完全に再学習させたことで、品質、音楽性、創造性が大きく飛躍したという。"
+                "x": "AI-drivenのトーン生成や、曲からギターパートを取り除くAIステム分離も搭載し、SessionZ Pedalクラウドサービスから利用できる。"
               },
               {
                 "t": "p",
-                "x": "Difro 2は既存のMIDIメロディを読み込み、元の雰囲気や個性、音楽的なDNAを保ちながら新しいアイデアへと生まれ変わらせる。"
-              },
-              {
-                "t": "p",
-                "x": "新機能は、完全に再学習したAIモデル、大幅に向上したMIDI生成品質、元のメロディのDNAをより忠実に保つ能力、より音楽的で一貫性のある結果、そして既存のMIDIアイデアから生まれる無限のバリエーションだ。"
-              },
-              {
-                "t": "p",
-                "x": "14分のファーストルック動画で、Initial AudioはDifro 2を実際に試し、メロディをライブで生成している。"
+                "x": "価格は¥47,800で、約$300だ。米国での公式価格が出るまでの大まかな換算である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Initial Audio\n免费发布Difro 2",
-          "body": "免费AI MIDI旋律生成器Difro 2回归，其模型已从零开始重新训练。",
-          "mini_headline": "Difro 2重新训练AI",
+          "headline": "约$300的Neurig\n支持NAM与音轨分离",
+          "body": "Zoom的Neurig是支持NAM捕捉与AI音轨分离的触屏音箱模拟器。",
+          "mini_headline": "Zoom Neurig：约$300的NAM模拟器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+                "cap": "Zoom Neurig"
+              },
+              {
+                "t": "p",
+                "x": "Zoom 凭借 Neurig 成为最新一家拥抱 NAM 的知名品牌。这是一款配备触摸屏、价格亲民的模拟器，Zoom 称之为“将重新定义一切的新一代吉他效果器”。它原生支持 TONE3000 的 NAM A2 Lite，这一开源音箱建模架构正席卷吉他行业。"
+              },
+              {
+                "t": "p",
+                "x": "Zoom 表示，这项技术“重现的是音箱本身，而不只是音色”。设备内置 32 款音箱头，从 Marshall JTM 45、1965 Fender Twin Reverb 到 Diezel Herbert 和 Mesa/Boogie Dual Rectifier，另有六种原创音箱音色。借助 NAM 集成，用户可以加载音箱、效果器和箱体，捕捉完整信号链，并免费导入超过 700,000 个 NAM 捕捉和 IR 库。"
+              },
+              {
                 "t": "video",
-                "yt": "DY5QI4idlRU"
+                "yt": "pN3mt-v4KiE"
               },
               {
                 "t": "p",
-                "x": "Initial Audio发布了Difro 2，称其为公司迄今最强大的AI MIDI生成器，并提供免费下载。"
+                "x": "效果包括混响、延迟和调制，以及比特破碎、旋转扬声器模拟、环形调制器和移调器，其中 17 种效果专为表情踏板设计。它最多可同时运行 14 种效果，并配备 send/return、MIDI in/out、Bluetooth、乐句循环器和 4.5 小时续航电池。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+                "cap": "Zoom Neurig 音箱模拟器（图片来源：Zoom）"
               },
               {
                 "t": "p",
-                "x": "该公司表示，他们从零开始彻底重新训练了AI模型，在质量、音乐性和创造力上实现了巨大飞跃。"
+                "x": "它还具备 AI-driven 音色生成，以及可从曲目中去除吉他声部的 AI 音轨分离，可通过 SessionZ Pedal 云服务使用。"
               },
               {
                 "t": "p",
-                "x": "Difro 2会读取你现有的MIDI旋律，在保留原有氛围、特色和音乐DNA的同时，将其重新构想为全新的创意。"
-              },
-              {
-                "t": "p",
-                "x": "新内容包括：彻底重新训练的AI模型、显著提升的MIDI生成质量、更好地保留原旋律的DNA、更具音乐性且更连贯的结果，以及从现有MIDI创意中衍生出的无尽新变奏。"
-              },
-              {
-                "t": "p",
-                "x": "在14分钟的首发体验视频中，Initial Audio对Difro 2进行了实测，现场生成旋律。"
+                "x": "售价为 ¥47,800，约合 $300——这是在等待美国官方定价期间的粗略换算。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Initial Audio lanza Difro 2,\nherramienta gratuita de IA",
-          "body": "Difro 2, el generador gratuito de melodías MIDI con IA de Initial Audio, vuelve con un modelo reentrenado desde cero.",
-          "mini_headline": "Difro 2 reentrena su IA",
+          "headline": "Zoom Neurig: unos $300, con NAM\ny separación de pistas por IA",
+          "body": "El modelador táctil de Zoom, de ¥47.800 (unos $300), admite capturas NAM y separación de pistas por IA.",
+          "mini_headline": "Zoom Neurig: modelador NAM de unos $300",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+                "cap": "Zoom Neurig"
+              },
+              {
+                "t": "p",
+                "x": "Zoom es la última gran marca en adoptar NAM con el Neurig, un modelador asequible con pantalla táctil que la empresa describe como “un pedal de guitarra de nueva generación que lo redefinirá todo”. Es compatible de forma nativa con NAM A2 Lite de TONE3000, la arquitectura de código abierto para modelar amplificadores que se está extendiendo por la industria de la guitarra."
+              },
+              {
+                "t": "p",
+                "x": "Según Zoom, la tecnología “reproduce el propio amplificador, no solo el tono”. Incluye 32 cabezales de amplificador, desde un Marshall JTM 45 y un 1965 Fender Twin Reverb hasta un Diezel Herbert y un Mesa/Boogie Dual Rectifier, además de seis sonidos de amplificador originales. La integración con NAM permite cargar amplificadores, pedales y gabinetes, capturar cadenas de señal completas e importar gratis más de 700.000 capturas NAM y bibliotecas de IR."
+              },
+              {
                 "t": "video",
-                "yt": "DY5QI4idlRU"
+                "yt": "pN3mt-v4KiE"
               },
               {
                 "t": "p",
-                "x": "Initial Audio ha lanzado Difro 2, que presenta como su generador MIDI con IA más potente hasta la fecha, como descarga gratuita."
+                "x": "Los efectos incluyen reverberaciones, retardos y modulaciones, además de un bit crusher, un simulador de altavoz rotativo, un modulador en anillo y un pitch shifter, con 17 efectos pensados para pedal de expresión. Puede ejecutar hasta 14 efectos a la vez y suma send/return, MIDI in/out, Bluetooth, un looper y una batería de 4,5 horas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+                "cap": "Amplificador modelador Zoom Neurig (Imagen: Zoom)"
               },
               {
                 "t": "p",
-                "x": "La compañía afirma que reentrenó por completo el modelo de IA desde cero, lo que supone un gran salto en calidad, musicalidad y creatividad."
+                "x": "También ofrece generación de tonos AI-driven (impulsada por IA) y separación de pistas por IA para eliminar las partes de guitarra de las canciones, a través del servicio en la nube SessionZ Pedal."
               },
               {
                 "t": "p",
-                "x": "Difro 2 toma tus melodías MIDI existentes y las reinterpreta como ideas nuevas, conservando el ambiente, el carácter y el ADN musical originales."
-              },
-              {
-                "t": "p",
-                "x": "Novedades: un modelo de IA reentrenado por completo, una calidad de generación MIDI muy superior, mejor conservación del ADN de la melodía original, resultados más musicales y coherentes, y variaciones nuevas sin fin a partir de ideas MIDI existentes."
-              },
-              {
-                "t": "p",
-                "x": "En el vídeo de primera impresión de 14 minutos, Initial Audio pone a prueba Difro 2 generando melodías en directo."
+                "x": "El precio es de ¥47.800, unos $300: una conversión aproximada mientras se espera el precio oficial en EE. UU."
               }
             ]
           }
@@ -573,137 +629,177 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Initial Audio\nDifro 2 무료 공개",
-          "body": "무료 AI MIDI 멜로디 생성기 Difro 2가 모델을 처음부터 재학습했다.",
-          "mini_headline": "Difro 2, AI 모델 재학습",
+          "headline": "약 $300 Neurig\nNAM·스템 분리 지원",
+          "body": "Zoom Neurig은 NAM 캡처와 AI 스템 분리를 지원하는 앰프 모델러다.",
+          "mini_headline": "Zoom Neurig: 약 $300 NAM 모델러",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+                "cap": "Zoom Neurig"
+              },
+              {
+                "t": "p",
+                "x": "Zoom이 Neurig로 NAM을 받아들인 최신 대형 브랜드가 됐다. 터치스크린을 갖춘 저렴한 모델러로, Zoom은 이를 “모든 것을 새롭게 정의할 차세대 기타 페달”이라고 부른다. 기타 업계를 휩쓸고 있는 오픈소스 앰프 모델링 아키텍처인 TONE3000의 NAM A2 Lite를 기본 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "Zoom은 이 기술이 “톤만이 아니라 앰프 자체를 재현한다”고 말한다. Marshall JTM 45와 1965 Fender Twin Reverb부터 Diezel Herbert, Mesa/Boogie Dual Rectifier까지 32종의 앰프 헤드를 내장했고, 오리지널 앰프 사운드 여섯 가지도 담았다. NAM 통합으로 앰프, 페달, 캐비닛을 불러오고 전체 시그널 체인을 캡처할 수 있으며, 700,000개가 넘는 NAM 캡처와 IR 라이브러리를 무료로 가져올 수 있다."
+              },
+              {
                 "t": "video",
-                "yt": "DY5QI4idlRU"
+                "yt": "pN3mt-v4KiE"
               },
               {
                 "t": "p",
-                "x": "Initial Audio가 자사 역대 가장 강력한 AI MIDI 생성기라고 소개한 Difro 2를 무료 다운로드로 공개했다."
+                "x": "이펙트로는 리버브, 딜레이, 모듈레이션에 더해 비트크러셔, 로터리 스피커 시뮬레이션, 링 모듈레이터, 피치 시프터가 있고, 익스프레션 페달에 맞춘 이펙트가 17개다. 최대 14개 이펙트를 동시에 쓸 수 있으며 send/return, MIDI in/out, Bluetooth, 루퍼, 4.5시간 배터리도 갖췄다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+                "cap": "Zoom Neurig 앰프 모델러 (이미지: Zoom)"
               },
               {
                 "t": "p",
-                "x": "회사는 AI 모델을 처음부터 완전히 다시 학습시켜 품질, 음악성, 창의성이 크게 도약했다고 밝혔다."
+                "x": "AI-driven(AI 기반) 톤 생성과 곡에서 기타 파트를 지우는 AI 스템 분리 기능도 갖췄으며, SessionZ Pedal 클라우드 서비스로 이용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Difro 2는 기존 MIDI 멜로디를 받아 원곡의 분위기와 개성, 음악적 DNA는 살리면서 새로운 아이디어로 재해석한다."
-              },
-              {
-                "t": "p",
-                "x": "새로워진 점은 완전히 재학습한 AI 모델, 크게 개선된 MIDI 생성 품질, 원래 멜로디의 DNA를 더 잘 보존하는 능력, 더 음악적이고 일관된 결과, 기존 MIDI 아이디어에서 끝없이 뽑아내는 새 변주다."
-              },
-              {
-                "t": "p",
-                "x": "14분 분량의 첫인상 영상에서 Initial Audio는 Difro 2로 멜로디를 실시간 생성하며 성능을 시험한다."
+                "x": "가격은 ¥47,800, 약 $300이다. 공식 US 가격이 나오기 전까지의 대략적인 환산이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Initial Audio\nDifro 2を無料公開",
-          "body": "無料のAI MIDIメロディ生成ツールDifro 2が、モデルを一から再学習して登場した。",
-          "mini_headline": "Difro 2がAIを再学習",
+          "headline": "約$300のNeurig\nNAMとステム分離対応",
+          "body": "ZoomのNeurigは、NAMキャプチャーとAIステム分離に対応するアンプモデラーだ。",
+          "mini_headline": "Zoom Neurig：約$300のNAMモデラー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+                "cap": "Zoom Neurig"
+              },
+              {
+                "t": "p",
+                "x": "Zoomは、Neurigによって NAM を取り入れた最新の大手ブランドとなった。Neurigはタッチスクリーンを備えた手頃なモデラーで、同社は「すべてを再定義する次世代ギターペダル」と呼ぶ。ギター業界を席巻するオープンソースのアンプモデリング・アーキテクチャ、TONE3000のNAM A2 Liteをネイティブでサポートする。"
+              },
+              {
+                "t": "p",
+                "x": "Zoomによれば、この技術は「トーンだけでなく、アンプそのものを再現する」。Marshall JTM 45や1965 Fender Twin ReverbからDiezel Herbert、Mesa/Boogie Dual Rectifierまで32種類のアンプヘッドを内蔵し、オリジナルのアンプサウンドも6種類備える。NAM統合により、アンプ、ペダル、キャビネットの読み込みやシグナルチェーン全体のキャプチャーが可能で、700,000を超えるNAMキャプチャーとIRライブラリを無料でインポートできる。"
+              },
+              {
                 "t": "video",
-                "yt": "DY5QI4idlRU"
+                "yt": "pN3mt-v4KiE"
               },
               {
                 "t": "p",
-                "x": "Initial Audioは、同社史上最も強力なAI MIDIジェネレーターとうたうDifro 2を無料ダウンロードで公開した。"
+                "x": "エフェクトはリバーブ、ディレイ、モジュレーションに加え、ビットクラッシャー、ロータリースピーカー・シミュレーター、リングモジュレーター、ピッチシフターをそろえ、エクスプレッションペダル向けのエフェクトが17種類ある。最大14個のエフェクトを同時に使え、send/return、MIDI in/out、Bluetooth、ルーパー、4.5時間駆動のバッテリーも備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+                "cap": "Zoom Neurigアンプモデラー（画像：Zoom）"
               },
               {
                 "t": "p",
-                "x": "同社によると、AIモデルを一から完全に再学習させたことで、品質、音楽性、創造性が大きく飛躍したという。"
+                "x": "AI-drivenのトーン生成や、曲からギターパートを取り除くAIステム分離も搭載し、SessionZ Pedalクラウドサービスから利用できる。"
               },
               {
                 "t": "p",
-                "x": "Difro 2は既存のMIDIメロディを読み込み、元の雰囲気や個性、音楽的なDNAを保ちながら新しいアイデアへと生まれ変わらせる。"
-              },
-              {
-                "t": "p",
-                "x": "新機能は、完全に再学習したAIモデル、大幅に向上したMIDI生成品質、元のメロディのDNAをより忠実に保つ能力、より音楽的で一貫性のある結果、そして既存のMIDIアイデアから生まれる無限のバリエーションだ。"
-              },
-              {
-                "t": "p",
-                "x": "14分のファーストルック動画で、Initial AudioはDifro 2を実際に試し、メロディをライブで生成している。"
+                "x": "価格は¥47,800で、約$300だ。米国での公式価格が出るまでの大まかな換算である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Initial Audio\n免费发布Difro 2",
-          "body": "免费AI MIDI旋律生成器Difro 2回归，其模型已从零开始重新训练。",
-          "mini_headline": "Difro 2重新训练AI",
+          "headline": "约$300的Neurig\n支持NAM与音轨分离",
+          "body": "Zoom的Neurig是支持NAM捕捉与AI音轨分离的触屏音箱模拟器。",
+          "mini_headline": "Zoom Neurig：约$300的NAM模拟器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+                "cap": "Zoom Neurig"
+              },
+              {
+                "t": "p",
+                "x": "Zoom 凭借 Neurig 成为最新一家拥抱 NAM 的知名品牌。这是一款配备触摸屏、价格亲民的模拟器，Zoom 称之为“将重新定义一切的新一代吉他效果器”。它原生支持 TONE3000 的 NAM A2 Lite，这一开源音箱建模架构正席卷吉他行业。"
+              },
+              {
+                "t": "p",
+                "x": "Zoom 表示，这项技术“重现的是音箱本身，而不只是音色”。设备内置 32 款音箱头，从 Marshall JTM 45、1965 Fender Twin Reverb 到 Diezel Herbert 和 Mesa/Boogie Dual Rectifier，另有六种原创音箱音色。借助 NAM 集成，用户可以加载音箱、效果器和箱体，捕捉完整信号链，并免费导入超过 700,000 个 NAM 捕捉和 IR 库。"
+              },
+              {
                 "t": "video",
-                "yt": "DY5QI4idlRU"
+                "yt": "pN3mt-v4KiE"
               },
               {
                 "t": "p",
-                "x": "Initial Audio发布了Difro 2，称其为公司迄今最强大的AI MIDI生成器，并提供免费下载。"
+                "x": "效果包括混响、延迟和调制，以及比特破碎、旋转扬声器模拟、环形调制器和移调器，其中 17 种效果专为表情踏板设计。它最多可同时运行 14 种效果，并配备 send/return、MIDI in/out、Bluetooth、乐句循环器和 4.5 小时续航电池。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+                "cap": "Zoom Neurig 音箱模拟器（图片来源：Zoom）"
               },
               {
                 "t": "p",
-                "x": "该公司表示，他们从零开始彻底重新训练了AI模型，在质量、音乐性和创造力上实现了巨大飞跃。"
+                "x": "它还具备 AI-driven 音色生成，以及可从曲目中去除吉他声部的 AI 音轨分离，可通过 SessionZ Pedal 云服务使用。"
               },
               {
                 "t": "p",
-                "x": "Difro 2会读取你现有的MIDI旋律，在保留原有氛围、特色和音乐DNA的同时，将其重新构想为全新的创意。"
-              },
-              {
-                "t": "p",
-                "x": "新内容包括：彻底重新训练的AI模型、显著提升的MIDI生成质量、更好地保留原旋律的DNA、更具音乐性且更连贯的结果，以及从现有MIDI创意中衍生出的无尽新变奏。"
-              },
-              {
-                "t": "p",
-                "x": "在14分钟的首发体验视频中，Initial Audio对Difro 2进行了实测，现场生成旋律。"
+                "x": "售价为 ¥47,800，约合 $300——这是在等待美国官方定价期间的粗略换算。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Initial Audio lanza Difro 2,\nherramienta gratuita de IA",
-          "body": "Difro 2, el generador gratuito de melodías MIDI con IA de Initial Audio, vuelve con un modelo reentrenado desde cero.",
-          "mini_headline": "Difro 2 reentrena su IA",
+          "headline": "Zoom Neurig: unos $300, con NAM\ny separación de pistas por IA",
+          "body": "El modelador táctil de Zoom, de ¥47.800 (unos $300), admite capturas NAM y separación de pistas por IA.",
+          "mini_headline": "Zoom Neurig: modelador NAM de unos $300",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+                "cap": "Zoom Neurig"
+              },
+              {
+                "t": "p",
+                "x": "Zoom es la última gran marca en adoptar NAM con el Neurig, un modelador asequible con pantalla táctil que la empresa describe como “un pedal de guitarra de nueva generación que lo redefinirá todo”. Es compatible de forma nativa con NAM A2 Lite de TONE3000, la arquitectura de código abierto para modelar amplificadores que se está extendiendo por la industria de la guitarra."
+              },
+              {
+                "t": "p",
+                "x": "Según Zoom, la tecnología “reproduce el propio amplificador, no solo el tono”. Incluye 32 cabezales de amplificador, desde un Marshall JTM 45 y un 1965 Fender Twin Reverb hasta un Diezel Herbert y un Mesa/Boogie Dual Rectifier, además de seis sonidos de amplificador originales. La integración con NAM permite cargar amplificadores, pedales y gabinetes, capturar cadenas de señal completas e importar gratis más de 700.000 capturas NAM y bibliotecas de IR."
+              },
+              {
                 "t": "video",
-                "yt": "DY5QI4idlRU"
+                "yt": "pN3mt-v4KiE"
               },
               {
                 "t": "p",
-                "x": "Initial Audio ha lanzado Difro 2, que presenta como su generador MIDI con IA más potente hasta la fecha, como descarga gratuita."
+                "x": "Los efectos incluyen reverberaciones, retardos y modulaciones, además de un bit crusher, un simulador de altavoz rotativo, un modulador en anillo y un pitch shifter, con 17 efectos pensados para pedal de expresión. Puede ejecutar hasta 14 efectos a la vez y suma send/return, MIDI in/out, Bluetooth, un looper y una batería de 4,5 horas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
+                "cap": "Amplificador modelador Zoom Neurig (Imagen: Zoom)"
               },
               {
                 "t": "p",
-                "x": "La compañía afirma que reentrenó por completo el modelo de IA desde cero, lo que supone un gran salto en calidad, musicalidad y creatividad."
+                "x": "También ofrece generación de tonos AI-driven (impulsada por IA) y separación de pistas por IA para eliminar las partes de guitarra de las canciones, a través del servicio en la nube SessionZ Pedal."
               },
               {
                 "t": "p",
-                "x": "Difro 2 toma tus melodías MIDI existentes y las reinterpreta como ideas nuevas, conservando el ambiente, el carácter y el ADN musical originales."
-              },
-              {
-                "t": "p",
-                "x": "Novedades: un modelo de IA reentrenado por completo, una calidad de generación MIDI muy superior, mejor conservación del ADN de la melodía original, resultados más musicales y coherentes, y variaciones nuevas sin fin a partir de ideas MIDI existentes."
-              },
-              {
-                "t": "p",
-                "x": "En el vídeo de primera impresión de 14 minutos, Initial Audio pone a prueba Difro 2 generando melodías en directo."
+                "x": "El precio es de ¥47.800, unos $300: una conversión aproximada mientras se espera el precio oficial en EE. UU."
               }
             ]
           }
@@ -711,15 +807,377 @@
       }
     },
     {
-      "id": "music-helix-stadium-stems",
+      "id": "music-rocketship-audience-map",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Helix 1.4 업데이트\n스템 분리 기능 추가",
-      "body": "Helix Stadium 1.4가 새 앰프·이펙트와 스템 분리 기능을 더했다.",
-      "mini_headline": "Helix, 스템 분리 지원",
+      "headline": "Rocketship이\n발매 전 청취자 찾는다",
+      "body": "Rocketship은 AI로 미발매 곡의 청중을 찾고 첫 분석은 무료다.",
+      "mini_headline": "Rocketship, 발매 전 청취자 분석",
       "tool": "Music",
-      "source": "Gearnews",
-      "url": "https://www.gearnews.com/line-6-releases-helix-stadium-guitar/",
+      "source": "Hypebot",
+      "url": "https://www.hypebot.com/rocketship-maps-a-songs-listeners-before-release-for-free/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "p",
+            "x": "스트리밍 플랫폼에는 매일 약 100,000곡의 신곡이 쏟아진다. 독립 아티스트에게는 힘겨운 싸움이다. 싱글 선정, 광고 구매, 프로모션 기획처럼 돈이 가장 많이 드는 결정도 대부분 짐작으로 내린다."
+          },
+          {
+            "t": "p",
+            "x": "Rocketship은 Maxwell Zotz(Verge Campus, MAX.Live)와 Billy Rodgers(Fanpage)가 함께 세웠다. 곡이 상업 발매되기 전에 잠재 청중을 찾아내는 최초의 AI-driven 플랫폼이라고 내세운다. 넉 달간 Beta를 돌리며 레이블, 퍼블리싱, 매니지먼트, 유통 분야 임원 100명 이상에게 피드백을 받았다."
+          },
+          {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+            "cap": "Rocketship"
+          },
+          {
+            "t": "p",
+            "x": "Rocketship은 미발매 트랙을 오디오, 가사, 맥락에 걸친 80개 파라미터로 평가한 뒤 수십 년 음악사와 대조해 청취자 프로필을 찾는다. 모델은 Loeb & Loeb과 함께 개발해 특허를 출원했고, 250,000곡이 넘는 카탈로그 트랙으로 학습했다. 그다음 발매 시기와 예산에 맞춰 프로모션 전략을 짠다."
+          },
+          {
+            "t": "p",
+            "x": "신규 사용자라면 누구나 미발매 트랙 하나를 비용 없이 분석할 수 있다. AI-powered 대시보드 Mission Control에서는 프로모션 미션을 맞춤 설정하고, Rocketship Studio는 몇 분 만에 오디오를 세로형 영상 에셋으로 바꿔 준다."
+          },
+          {
+            "t": "p",
+            "x": "“취향이나 직감을 대신하지는 않는다. 혼자 짐작하지 않아도 된다는 뜻이다.” Zotz의 말이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Rocketship maps a song's\nlisteners before release",
+          "body": "Rocketship uses AI to find an unreleased song's audience, and indie artists get their first analysis free.",
+          "mini_headline": "Rocketship maps listeners",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "With an estimated 100,000 new tracks flooding streaming platforms every day, independent artists face an uphill battle. Most make their most expensive decisions — selecting singles, buying ads, planning promo — based on guesswork."
+              },
+              {
+                "t": "p",
+                "x": "Co-founded by Maxwell Zotz (Verge Campus, MAX.Live) and Billy Rodgers (Fanpage), Rocketship is billed as the first AI-driven platform capable of identifying a song's potential audience before it is ever commercially released. It follows four months in Beta with feedback from 100+ label, publishing, management, and distribution executives."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+                "cap": "Rocketship"
+              },
+              {
+                "t": "p",
+                "x": "Rocketship evaluates an unreleased track across 80 audio, lyrical, and contextual parameters, matching it against decades of music history to identify listener profiles. Its patent-pending models, developed alongside Loeb & Loeb, were trained on over 250,000 catalog tracks. It then builds a promotional strategy calibrated to the release window and budget."
+              },
+              {
+                "t": "p",
+                "x": "Every new user can run one unreleased track at zero cost. Mission Control, an AI-powered dashboard, customizes promotional missions, and Rocketship Studio turns audio into vertical video assets in minutes."
+              },
+              {
+                "t": "p",
+                "x": "“It doesn’t replace taste or instinct. It means they’re not guessing alone,” says Zotz."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Rocketship이\n발매 전 청취자 찾는다",
+          "body": "Rocketship은 AI로 미발매 곡의 청중을 찾고 첫 분석은 무료다.",
+          "mini_headline": "Rocketship, 발매 전 청취자 분석",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "스트리밍 플랫폼에는 매일 약 100,000곡의 신곡이 쏟아진다. 독립 아티스트에게는 힘겨운 싸움이다. 싱글 선정, 광고 구매, 프로모션 기획처럼 돈이 가장 많이 드는 결정도 대부분 짐작으로 내린다."
+              },
+              {
+                "t": "p",
+                "x": "Rocketship은 Maxwell Zotz(Verge Campus, MAX.Live)와 Billy Rodgers(Fanpage)가 함께 세웠다. 곡이 상업 발매되기 전에 잠재 청중을 찾아내는 최초의 AI-driven 플랫폼이라고 내세운다. 넉 달간 Beta를 돌리며 레이블, 퍼블리싱, 매니지먼트, 유통 분야 임원 100명 이상에게 피드백을 받았다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+                "cap": "Rocketship"
+              },
+              {
+                "t": "p",
+                "x": "Rocketship은 미발매 트랙을 오디오, 가사, 맥락에 걸친 80개 파라미터로 평가한 뒤 수십 년 음악사와 대조해 청취자 프로필을 찾는다. 모델은 Loeb & Loeb과 함께 개발해 특허를 출원했고, 250,000곡이 넘는 카탈로그 트랙으로 학습했다. 그다음 발매 시기와 예산에 맞춰 프로모션 전략을 짠다."
+              },
+              {
+                "t": "p",
+                "x": "신규 사용자라면 누구나 미발매 트랙 하나를 비용 없이 분석할 수 있다. AI-powered 대시보드 Mission Control에서는 프로모션 미션을 맞춤 설정하고, Rocketship Studio는 몇 분 만에 오디오를 세로형 영상 에셋으로 바꿔 준다."
+              },
+              {
+                "t": "p",
+                "x": "“취향이나 직감을 대신하지는 않는다. 혼자 짐작하지 않아도 된다는 뜻이다.” Zotz의 말이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Rocketshipが\n発売前の曲のリスナー分析",
+          "body": "RocketshipはAIで未発表曲の聴き手を探し、インディーの初回分析は無料だ。",
+          "mini_headline": "Rocketshipがリスナーを可視化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "推定100,000曲の新曲が毎日ストリーミングプラットフォームに押し寄せるなか、インディペンデントのアーティストは厳しい戦いを強いられている。多くは、シングルの選定、広告の購入、プロモーションの計画といった最も費用のかかる判断を、当て推量で下している。"
+              },
+              {
+                "t": "p",
+                "x": "Maxwell Zotz（Verge Campus、MAX.Live）とBilly Rodgers（Fanpage）が共同で創業したRocketshipは、楽曲が商業リリースされる前に潜在的なオーディエンスを特定できる初のAI-drivenプラットフォームをうたう。レーベル、出版、マネジメント、ディストリビューションの幹部100人以上からフィードバックを得た4か月間のBetaを経ての登場だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+                "cap": "Rocketship"
+              },
+              {
+                "t": "p",
+                "x": "Rocketshipは未発表トラックをオーディオ、歌詞、文脈にわたる80のパラメーターで評価し、数十年分の音楽史と照合してリスナー像を割り出す。Loeb & Loebと共同開発した特許出願中のモデルは、250,000曲を超えるカタログ楽曲で学習した。そのうえでリリース時期と予算に合わせたプロモーション戦略を組み立てる。"
+              },
+              {
+                "t": "p",
+                "x": "新規ユーザーは誰でも、未発表トラック1曲を費用ゼロで分析できる。AI-poweredダッシュボードのMission Controlがプロモーションのミッションをカスタマイズし、Rocketship Studioは音声を数分で縦型動画素材に変える。"
+              },
+              {
+                "t": "p",
+                "x": "「センスや直感の代わりになるわけではない。ひとりで当て推量をしなくて済むということだ」とZotzは語る。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Rocketship在发行前\n描绘歌曲听众画像",
+          "body": "Rocketship用AI为未发行歌曲寻找听众，独立音乐人的首次分析免费。",
+          "mini_headline": "Rocketship绘制听众画像",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "据估计，每天有 100,000 首新曲涌入流媒体平台，独立音乐人面临一场艰难的战斗。大多数人在挑选单曲、购买广告、策划宣传这些最花钱的决定上，都靠猜测。"
+              },
+              {
+                "t": "p",
+                "x": "Rocketship 由 Maxwell Zotz（Verge Campus、MAX.Live）和 Billy Rodgers（Fanpage）联合创立，号称首个能在歌曲正式商业发行前识别其潜在受众的 AI-driven 平台。此前它经历了四个月的 Beta 测试，收集了 100 多位唱片公司、版权发行、经纪管理和分销高管的反馈。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+                "cap": "Rocketship"
+              },
+              {
+                "t": "p",
+                "x": "Rocketship 从音频、歌词和语境三方面的 80 项参数评估未发行曲目，并与数十年的音乐史比对，识别听众画像。其与 Loeb & Loeb 合作开发、正在申请专利的模型，基于超过 250,000 首曲库曲目训练。随后，它会根据发行时间窗口和预算制定宣传策略。"
+              },
+              {
+                "t": "p",
+                "x": "每位新用户都可以零成本分析一首未发行曲目。AI-powered 仪表板 Mission Control 可定制宣传任务，Rocketship Studio 则能在几分钟内把音频变成竖版视频素材。"
+              },
+              {
+                "t": "p",
+                "x": "“它不会取代品味或直觉，而是让他们不必独自猜测。”Zotz 说。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Rocketship mapea a los oyentes\nde una canción antes de salir",
+          "body": "Rocketship usa IA para hallar el público de una canción inédita, y el primer análisis es gratis para artistas indie.",
+          "mini_headline": "Rocketship mapea oyentes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Con unos 100.000 temas nuevos que llegan cada día a las plataformas de streaming, los artistas independientes lo tienen cuesta arriba. La mayoría toma sus decisiones más caras —elegir sencillos, comprar anuncios, planificar la promoción— basándose en conjeturas."
+              },
+              {
+                "t": "p",
+                "x": "Cofundada por Maxwell Zotz (Verge Campus, MAX.Live) y Billy Rodgers (Fanpage), Rocketship se presenta como la primera plataforma AI-driven (impulsada por IA) capaz de identificar el público potencial de una canción antes de su lanzamiento comercial. Llega tras cuatro meses en Beta con comentarios de más de 100 ejecutivos de sellos, editoriales, management y distribución."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+                "cap": "Rocketship"
+              },
+              {
+                "t": "p",
+                "x": "Rocketship evalúa un tema inédito según 80 parámetros de audio, letra y contexto, y lo compara con décadas de historia musical para identificar perfiles de oyentes. Sus modelos con patente en trámite, desarrollados junto a Loeb & Loeb, se entrenaron con más de 250.000 temas de catálogo. Después elabora una estrategia promocional ajustada a la ventana de lanzamiento y al presupuesto."
+              },
+              {
+                "t": "p",
+                "x": "Cada usuario nuevo puede analizar un tema inédito a costo cero. Mission Control, un panel AI-powered (con IA), personaliza las misiones promocionales, y Rocketship Studio convierte el audio en piezas de video vertical en minutos."
+              },
+              {
+                "t": "p",
+                "x": "“No reemplaza el gusto ni el instinto. Significa que no están adivinando solos”, dice Zotz."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Rocketship이\n발매 전 청취자 찾는다",
+          "body": "Rocketship은 AI로 미발매 곡의 청중을 찾고 첫 분석은 무료다.",
+          "mini_headline": "Rocketship, 발매 전 청취자 분석",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "매일 약 100,000곡의 신곡이 스트리밍 플랫폼에 쏟아지는 가운데, 독립 아티스트는 힘겨운 싸움을 하고 있다. 대부분은 싱글 선정, 광고 구매, 프로모션 기획처럼 가장 돈이 많이 드는 결정을 짐작에 기대어 내린다."
+              },
+              {
+                "t": "p",
+                "x": "Maxwell Zotz(Verge Campus, MAX.Live)와 Billy Rodgers(Fanpage)가 공동 창업한 Rocketship은 곡이 상업적으로 발매되기 전에 잠재 청중을 찾아낼 수 있는 최초의 AI-driven 플랫폼을 내세운다. 레이블, 퍼블리싱, 매니지먼트, 유통 분야 임원 100명 이상의 피드백을 받은 넉 달간의 Beta를 거쳐 나왔다."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+                "cap": "Rocketship"
+              },
+              {
+                "t": "p",
+                "x": "Rocketship은 미발매 트랙을 오디오, 가사, 맥락에 걸친 80개 파라미터로 평가하고, 수십 년의 음악사와 대조해 청취자 프로필을 찾아낸다. Loeb & Loeb과 함께 개발한 특허 출원 중인 모델은 250,000곡이 넘는 카탈로그 트랙으로 학습했다. 이어 발매 시기와 예산에 맞춘 프로모션 전략을 짠다."
+              },
+              {
+                "t": "p",
+                "x": "모든 신규 사용자는 미발매 트랙 하나를 비용 없이 분석할 수 있다. AI-powered 대시보드인 Mission Control은 프로모션 미션을 맞춤 설정하고, Rocketship Studio는 오디오를 몇 분 만에 세로형 영상 에셋으로 바꾼다."
+              },
+              {
+                "t": "p",
+                "x": "“취향이나 직감을 대신하지는 않는다. 혼자 짐작하지 않아도 된다는 뜻이다.” Zotz의 말이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Rocketshipが\n発売前の曲のリスナー分析",
+          "body": "RocketshipはAIで未発表曲の聴き手を探し、インディーの初回分析は無料だ。",
+          "mini_headline": "Rocketshipがリスナーを可視化",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "推定100,000曲の新曲が毎日ストリーミングプラットフォームに押し寄せるなか、インディペンデントのアーティストは厳しい戦いを強いられている。多くは、シングルの選定、広告の購入、プロモーションの計画といった最も費用のかかる判断を、当て推量で下している。"
+              },
+              {
+                "t": "p",
+                "x": "Maxwell Zotz（Verge Campus、MAX.Live）とBilly Rodgers（Fanpage）が共同で創業したRocketshipは、楽曲が商業リリースされる前に潜在的なオーディエンスを特定できる初のAI-drivenプラットフォームをうたう。レーベル、出版、マネジメント、ディストリビューションの幹部100人以上からフィードバックを得た4か月間のBetaを経ての登場だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+                "cap": "Rocketship"
+              },
+              {
+                "t": "p",
+                "x": "Rocketshipは未発表トラックをオーディオ、歌詞、文脈にわたる80のパラメーターで評価し、数十年分の音楽史と照合してリスナー像を割り出す。Loeb & Loebと共同開発した特許出願中のモデルは、250,000曲を超えるカタログ楽曲で学習した。そのうえでリリース時期と予算に合わせたプロモーション戦略を組み立てる。"
+              },
+              {
+                "t": "p",
+                "x": "新規ユーザーは誰でも、未発表トラック1曲を費用ゼロで分析できる。AI-poweredダッシュボードのMission Controlがプロモーションのミッションをカスタマイズし、Rocketship Studioは音声を数分で縦型動画素材に変える。"
+              },
+              {
+                "t": "p",
+                "x": "「センスや直感の代わりになるわけではない。ひとりで当て推量をしなくて済むということだ」とZotzは語る。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Rocketship在发行前\n描绘歌曲听众画像",
+          "body": "Rocketship用AI为未发行歌曲寻找听众，独立音乐人的首次分析免费。",
+          "mini_headline": "Rocketship绘制听众画像",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "据估计，每天有 100,000 首新曲涌入流媒体平台，独立音乐人面临一场艰难的战斗。大多数人在挑选单曲、购买广告、策划宣传这些最花钱的决定上，都靠猜测。"
+              },
+              {
+                "t": "p",
+                "x": "Rocketship 由 Maxwell Zotz（Verge Campus、MAX.Live）和 Billy Rodgers（Fanpage）联合创立，号称首个能在歌曲正式商业发行前识别其潜在受众的 AI-driven 平台。此前它经历了四个月的 Beta 测试，收集了 100 多位唱片公司、版权发行、经纪管理和分销高管的反馈。"
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+                "cap": "Rocketship"
+              },
+              {
+                "t": "p",
+                "x": "Rocketship 从音频、歌词和语境三方面的 80 项参数评估未发行曲目，并与数十年的音乐史比对，识别听众画像。其与 Loeb & Loeb 合作开发、正在申请专利的模型，基于超过 250,000 首曲库曲目训练。随后，它会根据发行时间窗口和预算制定宣传策略。"
+              },
+              {
+                "t": "p",
+                "x": "每位新用户都可以零成本分析一首未发行曲目。AI-powered 仪表板 Mission Control 可定制宣传任务，Rocketship Studio 则能在几分钟内把音频变成竖版视频素材。"
+              },
+              {
+                "t": "p",
+                "x": "“它不会取代品味或直觉，而是让他们不必独自猜测。”Zotz 说。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Rocketship mapea a los oyentes\nde una canción antes de salir",
+          "body": "Rocketship usa IA para hallar el público de una canción inédita, y el primer análisis es gratis para artistas indie.",
+          "mini_headline": "Rocketship mapea oyentes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "p",
+                "x": "Con unos 100.000 temas nuevos que llegan cada día a las plataformas de streaming, los artistas independientes lo tienen cuesta arriba. La mayoría toma sus decisiones más caras —elegir sencillos, comprar anuncios, planificar la promoción— basándose en conjeturas."
+              },
+              {
+                "t": "p",
+                "x": "Cofundada por Maxwell Zotz (Verge Campus, MAX.Live) y Billy Rodgers (Fanpage), Rocketship se presenta como la primera plataforma AI-driven (impulsada por IA) capaz de identificar el público potencial de una canción antes de su lanzamiento comercial. Llega tras cuatro meses en Beta con comentarios de más de 100 ejecutivos de sellos, editoriales, management y distribución."
+              },
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
+                "cap": "Rocketship"
+              },
+              {
+                "t": "p",
+                "x": "Rocketship evalúa un tema inédito según 80 parámetros de audio, letra y contexto, y lo compara con décadas de historia musical para identificar perfiles de oyentes. Sus modelos con patente en trámite, desarrollados junto a Loeb & Loeb, se entrenaron con más de 250.000 temas de catálogo. Después elabora una estrategia promocional ajustada a la ventana de lanzamiento y al presupuesto."
+              },
+              {
+                "t": "p",
+                "x": "Cada usuario nuevo puede analizar un tema inédito a costo cero. Mission Control, un panel AI-powered (con IA), personaliza las misiones promocionales, y Rocketship Studio convierte el audio en piezas de video vertical en minutos."
+              },
+              {
+                "t": "p",
+                "x": "“No reemplaza el gusto ni el instinto. Significa que no están adivinando solos”, dice Zotz."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "music-neko-pocket-studio",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "NAM·스템 분리를\n주머니에 담은 Neko",
+      "body": "Neko 포켓 스튜디오는 NAM 톤, 녹음, 스템 분리, GenAI를 담았다.",
+      "mini_headline": "Neko 포켓 기타 스튜디오",
+      "tool": "Music",
+      "source": "Guitar World",
+      "url": "https://www.guitarworld.com/gear/studio-recording-equipment/neko-engineering-neko-pocket-studio",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -727,199 +1185,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
+            "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+            "cap": "Neko Pocket Studio"
           },
           {
             "t": "p",
-            "x": "Line 6 Helix Stadium의 새 펌웨어 업데이트에는 눈길을 끄는 앰프와 이펙트, 스템 분리 기능이 새로 들어갔다."
+            "x": "Neko Engineering이 이번 주 Kickstarter에 Neko를 공개했다. 무선 연결, 앰프·페달 모델링, 녹음에 AI 도구를 묶은 주머니 크기 스튜디오다. 곡을 익히거나 기타 리프를 완성된 편곡으로 키우는 데 초점을 뒀다."
           },
           {
             "t": "p",
-            "x": "펌웨어 업데이트 1.4(“The Eras Update”)는 무료이며, 서로 다른 6개 앰프에서 가져온 Agoura 앰프 채널 설정 14개를 더해 Agoura 채널은 모두 67개로 늘었다. 새로 추가된 것은 Marshall Plexi Superlead의 여러 버전을 모델링한 Brit SL100, Granophyre 6L6 기반의 Omega Granophyre, Line 6 Litigator의 최신 진화형인 Prosecutor다."
+            "x": "Neko 안에는 무선 잭 두 개가 들어가 충전된다. 하나는 기타나 베이스에, 다른 하나는 앰프나 믹서에 꽂는다. NAM 톤으로 하는 사운드 처리와 멀티트랙 녹음은 Neko가 맡는다."
+          },
+          {
+            "t": "p",
+            "x": "AI 스템 분리, 곡에서 기타를 음소거하고 그 자리를 직접 연주하는 기능, 화면에 띄우는 audio-to-tab, 생성형 AI가 만드는 반주 트랙과 편곡도 더했다. Time Machine 기능은 녹음 버튼을 안 눌렀어도 떠올린 아이디어를 다시 들려준다. NAM과 연동돼 Tone3000 캡처 라이브러리도 쓸 수 있다."
           },
           {
             "t": "video",
-            "yt": "StAMPE_XF1M"
+            "yt": "keuagUavq90"
           },
           {
             "t": "p",
-            "x": "새로운 디스토션·모듈레이션 이펙트 6종과 기존 Agoura 앰프 모델 개선도 들어갔고 USB로 연결하면 Helix Stadium 앱에서 편집할 수 있다. Yamaha의 Music Connect를 쓰면 오디오 파일을 Helix Stadium의 Showcase 엔진으로 불러와 드럼, 베이스, 기타, 보컬, 그 외의 다섯 개 파일로 분리할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "업데이트는 Line 6 Account를 이용해 Wi-Fi로 설치하거나, Helix Stadium 앱에서 USB로 직접 설치하면 된다."
+            "x": "Kickstarter는 첫 24시간 만에 $10,000를 모았고 목표액 $30,000을 넘겨 $260k 이상이 모였다. 리워드가 붙는 후원은 $449부터, 소매가는 $599다. 후원자 배송은 2027년 4월 예정이다."
           }
         ]
       },
-      "_lead_image": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg",
-      "_video": "StAMPE_XF1M",
       "text": {
         "en": {
-          "headline": "Line 6 Helix Stadium 1.4\nadds stem separation",
-          "body": "Helix Stadium firmware 1.4 adds new amps and effects plus stem separation that splits audio into five stems.",
-          "mini_headline": "Helix gets stem separation",
+          "headline": "Neko Pocket Studio puts NAM\nand stem splits in your pocket",
+          "body": "Neko's wireless pocket studio combines NAM tones, recording, stem separation, GenAI features and audio-to-tab.",
+          "mini_headline": "Neko's pocket guitar studio",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+                "cap": "Neko Pocket Studio"
               },
               {
                 "t": "p",
-                "x": "The new firmware update for the Line 6 Helix Stadium includes a range of tasty new amps and effects, as well as a new stem separation feature."
+                "x": "The Neko, from Neko Engineering, launched on Kickstarter this week: a pocket-sized studio that marries wireless connectivity, amp and pedal modeling and recording with AI tools. The focus is on learning songs and turning guitar riffs into fully-formed arrangements."
               },
               {
                 "t": "p",
-                "x": "Firmware Update 1.4 (“The Eras Update”) is free and brings 14 Agoura amp channel settings derived from six different amps, for a total of 67 Agoura channels. New options include the Brit SL100, modeled on versions of the Marshall Plexi Superlead, the Omega Granophyre, based on the Granophyre 6L6, and the Prosecutor, the latest evolution of the Line 6 Litigator."
+                "x": "Two wireless jacks live and charge inside Neko, one plugging into a guitar or bass, the other into an amp or mixer. Neko handles sound processing, with NAM tones, and multi-track recording."
+              },
+              {
+                "t": "p",
+                "x": "It adds AI stem separation, the ability to mute the guitar in a track and play in its place, audio-to-tab shown on its display, and backing tracks and arrangements built through generative AI. A Time Machine feature lets musicians listen back to ideas even if they forgot to hit record. The NAM tie-in opens the Tone3000 library of captures."
               },
               {
                 "t": "video",
-                "yt": "StAMPE_XF1M"
+                "yt": "keuagUavq90"
               },
               {
                 "t": "p",
-                "x": "There are also six new distortion and modulation effects, enhancements for current Agoura amp models, and you can edit with the Helix Stadium app when connected via USB. With the help of Yamaha’s Music Connect, you can now import an audio file into the Helix Stadium’s Showcase engine and split it into five separate files: drums, bass, guitar, vocals, and other."
-              },
-              {
-                "t": "p",
-                "x": "The update installs via Wi-Fi using a Line 6 Account or manually via USB with the Helix Stadium app."
+                "x": "Within the first 24 hours the Kickstarter had $10,000 of pledges; over $260k has been raised against a $30,000 goal. Pledges with rewards start at $449; retail price is $599. Shipping to backers is planned for April 2027."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Helix 1.4 업데이트\n스템 분리 기능 추가",
-          "body": "Helix Stadium 1.4가 새 앰프·이펙트와 스템 분리 기능을 더했다.",
-          "mini_headline": "Helix, 스템 분리 지원",
+          "headline": "NAM·스템 분리를\n주머니에 담은 Neko",
+          "body": "Neko 포켓 스튜디오는 NAM 톤, 녹음, 스템 분리, GenAI를 담았다.",
+          "mini_headline": "Neko 포켓 기타 스튜디오",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+                "cap": "Neko Pocket Studio"
               },
               {
                 "t": "p",
-                "x": "Line 6 Helix Stadium의 새 펌웨어 업데이트에는 눈길을 끄는 앰프와 이펙트, 스템 분리 기능이 새로 들어갔다."
+                "x": "Neko Engineering이 이번 주 Kickstarter에 Neko를 공개했다. 무선 연결, 앰프·페달 모델링, 녹음에 AI 도구를 묶은 주머니 크기 스튜디오다. 곡을 익히거나 기타 리프를 완성된 편곡으로 키우는 데 초점을 뒀다."
               },
               {
                 "t": "p",
-                "x": "펌웨어 업데이트 1.4(“The Eras Update”)는 무료이며, 서로 다른 6개 앰프에서 가져온 Agoura 앰프 채널 설정 14개를 더해 Agoura 채널은 모두 67개로 늘었다. 새로 추가된 것은 Marshall Plexi Superlead의 여러 버전을 모델링한 Brit SL100, Granophyre 6L6 기반의 Omega Granophyre, Line 6 Litigator의 최신 진화형인 Prosecutor다."
+                "x": "Neko 안에는 무선 잭 두 개가 들어가 충전된다. 하나는 기타나 베이스에, 다른 하나는 앰프나 믹서에 꽂는다. NAM 톤으로 하는 사운드 처리와 멀티트랙 녹음은 Neko가 맡는다."
+              },
+              {
+                "t": "p",
+                "x": "AI 스템 분리, 곡에서 기타를 음소거하고 그 자리를 직접 연주하는 기능, 화면에 띄우는 audio-to-tab, 생성형 AI가 만드는 반주 트랙과 편곡도 더했다. Time Machine 기능은 녹음 버튼을 안 눌렀어도 떠올린 아이디어를 다시 들려준다. NAM과 연동돼 Tone3000 캡처 라이브러리도 쓸 수 있다."
               },
               {
                 "t": "video",
-                "yt": "StAMPE_XF1M"
+                "yt": "keuagUavq90"
               },
               {
                 "t": "p",
-                "x": "새로운 디스토션·모듈레이션 이펙트 6종과 기존 Agoura 앰프 모델 개선도 들어갔고 USB로 연결하면 Helix Stadium 앱에서 편집할 수 있다. Yamaha의 Music Connect를 쓰면 오디오 파일을 Helix Stadium의 Showcase 엔진으로 불러와 드럼, 베이스, 기타, 보컬, 그 외의 다섯 개 파일로 분리할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "업데이트는 Line 6 Account를 이용해 Wi-Fi로 설치하거나, Helix Stadium 앱에서 USB로 직접 설치하면 된다."
+                "x": "Kickstarter는 첫 24시간 만에 $10,000를 모았고 목표액 $30,000을 넘겨 $260k 이상이 모였다. 리워드가 붙는 후원은 $449부터, 소매가는 $599다. 후원자 배송은 2027년 4월 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Helix Stadium\n1.4でステム分離に対応",
-          "body": "Helix Stadium 1.4は新アンプやエフェクトとステム分離を追加した。",
-          "mini_headline": "Helixがステム分離に対応",
+          "headline": "NAMとステム分離を\nポケットに収めたNeko",
+          "body": "Nekoの無線ポケットスタジオは、NAMトーン、録音、ステム分離、GenAIを備える。",
+          "mini_headline": "Nekoのポケット型ギタースタジオ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+                "cap": "Neko Pocket Studio"
               },
               {
                 "t": "p",
-                "x": "Line 6 Helix Stadiumの新しいファームウェアアップデートには、魅力的な新アンプやエフェクトに加え、新たなステム分離機能が含まれる。"
+                "x": "Neko EngineeringのNekoが今週Kickstarterで始動した。ワイヤレス接続、アンプとペダルのモデリング、録音をAIツールと組み合わせたポケットサイズのスタジオだ。主眼は曲の習得と、ギターリフを完成したアレンジへと仕上げることにある。"
               },
               {
                 "t": "p",
-                "x": "ファームウェアアップデート1.4（“The Eras Update”）は無料で、6種類のアンプに由来する14のAgouraアンプチャンネル設定を追加し、Agouraチャンネルは合計67になる。新たな選択肢には、Marshall Plexi Superleadの各バージョンをモデルにしたBrit SL100、Granophyre 6L6をベースにしたOmega Granophyre、そしてLine 6 Litigatorの最新進化形であるProsecutorがある。"
+                "x": "Nekoの内部には2つのワイヤレスジャックが収まり、そこで充電される。1つはギターやベースに、もう1つはアンプやミキサーに挿す。Nekoは、NAMトーンによる音作りとマルチトラック録音を担う。"
+              },
+              {
+                "t": "p",
+                "x": "さらに、AIステム分離、曲のギターをミュートして代わりに自分で弾く機能、ディスプレイに表示されるaudio-to-tab、生成AIで作るバッキングトラックやアレンジも加わる。Time Machine機能を使えば、録音ボタンを押し忘れてもアイデアを聴き返せる。NAMとの連携により、Tone3000のキャプチャーライブラリも利用できる。"
               },
               {
                 "t": "video",
-                "yt": "StAMPE_XF1M"
+                "yt": "keuagUavq90"
               },
               {
                 "t": "p",
-                "x": "さらに6種類の新しいディストーションとモジュレーションのエフェクト、既存のAgouraアンプモデルの強化が加わり、USB接続時にはHelix Stadiumアプリで編集できる。YamahaのMusic Connectにより、オーディオファイルをHelix StadiumのShowcaseエンジンに読み込み、ドラム、ベース、ギター、ボーカル、その他の5つのファイルに分離できるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "アップデートは、Line 6 Accountを使ったWi-Fi経由、またはHelix Stadiumアプリを使ったUSB経由の手動でインストールできる。"
+                "x": "Kickstarterでは最初の24時間で$10,000の支援が集まり、目標の$30,000に対して$260k 超が集まっている。リターン付きの支援は$449からで、小売価格は$599だ。支援者への発送は2027年4月を予定している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Helix Stadium\n1.4新增分轨分离",
-          "body": "Helix Stadium固件1.4新增放大器和效果器，并可将音频分离为五条分轨。",
-          "mini_headline": "Helix新增分轨分离",
+          "headline": "Neko把NAM与音轨分离\n装进口袋",
+          "body": "Neko无线口袋工作室集NAM音色、录音、音轨分离与GenAI功能于一身。",
+          "mini_headline": "Neko口袋吉他工作室",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+                "cap": "Neko Pocket Studio"
               },
               {
                 "t": "p",
-                "x": "Line 6 Helix Stadium的新固件更新带来了一系列诱人的新放大器和效果器，以及全新的分轨分离功能。"
+                "x": "Neko Engineering 推出的 Neko 本周在 Kickstarter 上线：这是一台口袋大小的工作室，将无线连接、音箱与效果器建模和录音功能与 AI 工具结合在一起。它的重点是帮助用户学歌，并把吉他 riff 发展成完整的编曲。"
               },
               {
                 "t": "p",
-                "x": "固件更新1.4（“The Eras Update”）免费提供，新增14个Agoura放大器通道设置，源自六款不同的放大器，使Agoura通道总数达到67个。新选项包括以Marshall Plexi Superlead多个版本为原型的Brit SL100、基于Granophyre 6L6的Omega Granophyre，以及Line 6 Litigator的最新进化版Prosecutor。"
+                "x": "Neko 内部收纳两个无线插头并为其充电，一个插入吉他或贝斯，另一个插入音箱或调音台。Neko 负责声音处理（采用 NAM 音色）和多轨录音。"
+              },
+              {
+                "t": "p",
+                "x": "它还加入了 AI 音轨分离、将曲目中的吉他静音并由自己接替演奏的功能、在屏幕上显示的 audio-to-tab（音频转谱），以及通过生成式 AI 制作的伴奏音轨和编曲。Time Machine 功能即使在忘记按下录音键时，也能让音乐人回听自己的灵感。与 NAM 的结合还开放了 Tone3000 的捕捉库。"
               },
               {
                 "t": "video",
-                "yt": "StAMPE_XF1M"
+                "yt": "keuagUavq90"
               },
               {
                 "t": "p",
-                "x": "此外还有六款新的失真和调制效果器、对现有Agoura放大器型号的增强，并且通过USB连接时可以用Helix Stadium应用进行编辑。借助Yamaha的Music Connect，现在可以将音频文件导入Helix Stadium的Showcase引擎，并拆分为鼓、贝斯、吉他、人声和其他五个独立文件。"
-              },
-              {
-                "t": "p",
-                "x": "更新可通过Line 6 Account经Wi-Fi安装，也可以使用Helix Stadium应用通过USB手动安装。"
+                "x": "Kickstarter 项目在头 24 小时内获得 $10,000 的认筹；目前已筹得超过 $260k 的资金，目标为 $30,000。含回报的认筹起价 $449，零售价 $599。计划于 2027 年 4 月向支持者发货。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Line 6 Helix Stadium 1.4\nañade separación de stems",
-          "body": "El firmware 1.4 de Helix Stadium añade nuevos amplificadores y efectos, además de separar el audio en cinco stems.",
-          "mini_headline": "Helix suma separación de stems",
+          "headline": "Neko Pocket Studio lleva NAM y\nseparación de stems al bolsillo",
+          "body": "El estudio de bolsillo inalámbrico de Neko combina tonos NAM, grabación, separación de pistas, GenAI y audio-to-tab.",
+          "mini_headline": "El estudio de bolsillo de Neko",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+                "cap": "Neko Pocket Studio"
               },
               {
                 "t": "p",
-                "x": "La nueva actualización de firmware del Line 6 Helix Stadium incluye una serie de atractivos amplificadores y efectos nuevos, además de una nueva función de separación de stems."
+                "x": "Neko, de Neko Engineering, se lanzó esta semana en Kickstarter: un estudio de bolsillo que une conectividad inalámbrica, modelado de amplificadores y pedales y grabación con herramientas de IA. Se centra en aprender canciones y en convertir riffs de guitarra en arreglos completos."
               },
               {
                 "t": "p",
-                "x": "La actualización de firmware 1.4 (“The Eras Update”) es gratuita y aporta 14 ajustes de canal de amplificador Agoura derivados de seis amplificadores distintos, hasta un total de 67 canales Agoura. Entre las nuevas opciones figuran el Brit SL100, modelado a partir de versiones del Marshall Plexi Superlead; el Omega Granophyre, basado en el Granophyre 6L6, y el Prosecutor, la última evolución del Line 6 Litigator."
+                "x": "Dos conectores inalámbricos se guardan y se cargan dentro de Neko: uno se conecta a una guitarra o un bajo y el otro a un amplificador o una mesa de mezclas. Neko se encarga del procesamiento del sonido, con tonos NAM, y de la grabación multipista."
+              },
+              {
+                "t": "p",
+                "x": "Añade separación de pistas por IA, la posibilidad de silenciar la guitarra de un tema y tocar en su lugar, audio-to-tab en su pantalla, y pistas de acompañamiento y arreglos creados con IA generativa. La función Time Machine permite a los músicos volver a escuchar ideas aunque hayan olvidado pulsar grabar. La integración con NAM abre la biblioteca de capturas de Tone3000."
               },
               {
                 "t": "video",
-                "yt": "StAMPE_XF1M"
+                "yt": "keuagUavq90"
               },
               {
                 "t": "p",
-                "x": "También hay seis nuevos efectos de distorsión y modulación, mejoras para los modelos de amplificador Agoura actuales, y es posible editar con la app Helix Stadium al conectarlo por USB. Con la ayuda de Music Connect de Yamaha, ahora se puede importar un archivo de audio al motor Showcase del Helix Stadium y dividirlo en cinco archivos independientes: batería, bajo, guitarra, voz y otros."
-              },
-              {
-                "t": "p",
-                "x": "La actualización se instala por Wi-Fi con una Line 6 Account o manualmente por USB con la app Helix Stadium."
+                "x": "En las primeras 24 horas la campaña de Kickstarter reunió $10.000 en aportes; ya supera los $260k frente a un objetivo de $30.000. Los aportes con recompensa parten de $449 y el precio de venta es de $599. Los envíos a los patrocinadores están previstos para abril de 2027."
               }
             ]
           }
@@ -927,137 +1389,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Helix 1.4 업데이트\n스템 분리 기능 추가",
-          "body": "Helix Stadium 1.4가 새 앰프·이펙트와 스템 분리 기능을 더했다.",
-          "mini_headline": "Helix, 스템 분리 지원",
+          "headline": "NAM·스템 분리를\n주머니에 담은 Neko",
+          "body": "Neko 포켓 스튜디오는 NAM 톤, 녹음, 스템 분리, GenAI를 담았다.",
+          "mini_headline": "Neko 포켓 기타 스튜디오",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+                "cap": "Neko Pocket Studio"
               },
               {
                 "t": "p",
-                "x": "Line 6 Helix Stadium의 새 펌웨어 업데이트에는 매력적인 새 앰프와 이펙트, 그리고 새로운 스템 분리 기능이 담겼다."
+                "x": "Neko Engineering의 Neko가 이번 주 Kickstarter에서 공개됐다. 무선 연결, 앰프·페달 모델링, 녹음을 AI 도구와 결합한 주머니 크기의 스튜디오다. 곡을 익히고 기타 리프를 완성된 편곡으로 발전시키는 데 초점을 맞췄다."
               },
               {
                 "t": "p",
-                "x": "펌웨어 업데이트 1.4(“The Eras Update”)는 무료이며, 서로 다른 6개 앰프에서 가져온 Agoura 앰프 채널 설정 14개를 더해 Agoura 채널이 모두 67개가 된다. 새 옵션으로는 Marshall Plexi Superlead의 여러 버전을 모델링한 Brit SL100, Granophyre 6L6 기반의 Omega Granophyre, Line 6 Litigator의 최신 진화형인 Prosecutor가 있다."
+                "x": "Neko 안에는 무선 잭 두 개가 들어 있고 그 안에서 충전된다. 하나는 기타나 베이스에, 다른 하나는 앰프나 믹서에 꽂는다. Neko는 NAM 톤을 활용한 사운드 처리와 멀티트랙 녹음을 맡는다."
+              },
+              {
+                "t": "p",
+                "x": "AI 스템 분리, 곡에서 기타를 음소거하고 그 자리를 직접 연주하는 기능, 디스플레이에 표시되는 audio-to-tab, 생성형 AI로 만드는 반주 트랙과 편곡도 더했다. Time Machine 기능은 녹음 버튼을 누르지 않았더라도 떠올린 아이디어를 다시 들려준다. NAM 연동으로 Tone3000 캡처 라이브러리도 쓸 수 있다."
               },
               {
                 "t": "video",
-                "yt": "StAMPE_XF1M"
+                "yt": "keuagUavq90"
               },
               {
                 "t": "p",
-                "x": "새로운 디스토션·모듈레이션 이펙트 6종과 기존 Agoura 앰프 모델 개선도 포함됐고, USB로 연결하면 Helix Stadium 앱에서 편집할 수 있다. Yamaha의 Music Connect 덕분에 이제 오디오 파일을 Helix Stadium의 Showcase 엔진으로 불러와 드럼, 베이스, 기타, 보컬, 그 외의 다섯 개 파일로 분리할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "업데이트는 Line 6 Account를 이용해 Wi-Fi로 설치하거나, Helix Stadium 앱을 통해 USB로 직접 설치할 수 있다."
+                "x": "Kickstarter는 첫 24시간 만에 $10,000의 후원을 모았고, 목표액 $30,000을 넘어 $260k 이상이 모였다. 리워드가 포함된 후원은 $449부터이며 소매가는 $599다. 후원자 배송은 2027년 4월로 예정돼 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Helix Stadium\n1.4でステム分離に対応",
-          "body": "Helix Stadium 1.4は新アンプやエフェクトとステム分離を追加した。",
-          "mini_headline": "Helixがステム分離に対応",
+          "headline": "NAMとステム分離を\nポケットに収めたNeko",
+          "body": "Nekoの無線ポケットスタジオは、NAMトーン、録音、ステム分離、GenAIを備える。",
+          "mini_headline": "Nekoのポケット型ギタースタジオ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+                "cap": "Neko Pocket Studio"
               },
               {
                 "t": "p",
-                "x": "Line 6 Helix Stadiumの新しいファームウェアアップデートには、魅力的な新アンプやエフェクトに加え、新たなステム分離機能が含まれる。"
+                "x": "Neko EngineeringのNekoが今週Kickstarterで始動した。ワイヤレス接続、アンプとペダルのモデリング、録音をAIツールと組み合わせたポケットサイズのスタジオだ。主眼は曲の習得と、ギターリフを完成したアレンジへと仕上げることにある。"
               },
               {
                 "t": "p",
-                "x": "ファームウェアアップデート1.4（“The Eras Update”）は無料で、6種類のアンプに由来する14のAgouraアンプチャンネル設定を追加し、Agouraチャンネルは合計67になる。新たな選択肢には、Marshall Plexi Superleadの各バージョンをモデルにしたBrit SL100、Granophyre 6L6をベースにしたOmega Granophyre、そしてLine 6 Litigatorの最新進化形であるProsecutorがある。"
+                "x": "Nekoの内部には2つのワイヤレスジャックが収まり、そこで充電される。1つはギターやベースに、もう1つはアンプやミキサーに挿す。Nekoは、NAMトーンによる音作りとマルチトラック録音を担う。"
+              },
+              {
+                "t": "p",
+                "x": "さらに、AIステム分離、曲のギターをミュートして代わりに自分で弾く機能、ディスプレイに表示されるaudio-to-tab、生成AIで作るバッキングトラックやアレンジも加わる。Time Machine機能を使えば、録音ボタンを押し忘れてもアイデアを聴き返せる。NAMとの連携により、Tone3000のキャプチャーライブラリも利用できる。"
               },
               {
                 "t": "video",
-                "yt": "StAMPE_XF1M"
+                "yt": "keuagUavq90"
               },
               {
                 "t": "p",
-                "x": "さらに6種類の新しいディストーションとモジュレーションのエフェクト、既存のAgouraアンプモデルの強化が加わり、USB接続時にはHelix Stadiumアプリで編集できる。YamahaのMusic Connectにより、オーディオファイルをHelix StadiumのShowcaseエンジンに読み込み、ドラム、ベース、ギター、ボーカル、その他の5つのファイルに分離できるようになった。"
-              },
-              {
-                "t": "p",
-                "x": "アップデートは、Line 6 Accountを使ったWi-Fi経由、またはHelix Stadiumアプリを使ったUSB経由の手動でインストールできる。"
+                "x": "Kickstarterでは最初の24時間で$10,000の支援が集まり、目標の$30,000に対して$260k 超が集まっている。リターン付きの支援は$449からで、小売価格は$599だ。支援者への発送は2027年4月を予定している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Helix Stadium\n1.4新增分轨分离",
-          "body": "Helix Stadium固件1.4新增放大器和效果器，并可将音频分离为五条分轨。",
-          "mini_headline": "Helix新增分轨分离",
+          "headline": "Neko把NAM与音轨分离\n装进口袋",
+          "body": "Neko无线口袋工作室集NAM音色、录音、音轨分离与GenAI功能于一身。",
+          "mini_headline": "Neko口袋吉他工作室",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+                "cap": "Neko Pocket Studio"
               },
               {
                 "t": "p",
-                "x": "Line 6 Helix Stadium的新固件更新带来了一系列诱人的新放大器和效果器，以及全新的分轨分离功能。"
+                "x": "Neko Engineering 推出的 Neko 本周在 Kickstarter 上线：这是一台口袋大小的工作室，将无线连接、音箱与效果器建模和录音功能与 AI 工具结合在一起。它的重点是帮助用户学歌，并把吉他 riff 发展成完整的编曲。"
               },
               {
                 "t": "p",
-                "x": "固件更新1.4（“The Eras Update”）免费提供，新增14个Agoura放大器通道设置，源自六款不同的放大器，使Agoura通道总数达到67个。新选项包括以Marshall Plexi Superlead多个版本为原型的Brit SL100、基于Granophyre 6L6的Omega Granophyre，以及Line 6 Litigator的最新进化版Prosecutor。"
+                "x": "Neko 内部收纳两个无线插头并为其充电，一个插入吉他或贝斯，另一个插入音箱或调音台。Neko 负责声音处理（采用 NAM 音色）和多轨录音。"
+              },
+              {
+                "t": "p",
+                "x": "它还加入了 AI 音轨分离、将曲目中的吉他静音并由自己接替演奏的功能、在屏幕上显示的 audio-to-tab（音频转谱），以及通过生成式 AI 制作的伴奏音轨和编曲。Time Machine 功能即使在忘记按下录音键时，也能让音乐人回听自己的灵感。与 NAM 的结合还开放了 Tone3000 的捕捉库。"
               },
               {
                 "t": "video",
-                "yt": "StAMPE_XF1M"
+                "yt": "keuagUavq90"
               },
               {
                 "t": "p",
-                "x": "此外还有六款新的失真和调制效果器、对现有Agoura放大器型号的增强，并且通过USB连接时可以用Helix Stadium应用进行编辑。借助Yamaha的Music Connect，现在可以将音频文件导入Helix Stadium的Showcase引擎，并拆分为鼓、贝斯、吉他、人声和其他五个独立文件。"
-              },
-              {
-                "t": "p",
-                "x": "更新可通过Line 6 Account经Wi-Fi安装，也可以使用Helix Stadium应用通过USB手动安装。"
+                "x": "Kickstarter 项目在头 24 小时内获得 $10,000 的认筹；目前已筹得超过 $260k 的资金，目标为 $30,000。含回报的认筹起价 $449，零售价 $599。计划于 2027 年 4 月向支持者发货。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Line 6 Helix Stadium 1.4\nañade separación de stems",
-          "body": "El firmware 1.4 de Helix Stadium añade nuevos amplificadores y efectos, además de separar el audio en cinco stems.",
-          "mini_headline": "Helix suma separación de stems",
+          "headline": "Neko Pocket Studio lleva NAM y\nseparación de stems al bolsillo",
+          "body": "El estudio de bolsillo inalámbrico de Neko combina tonos NAM, grabación, separación de pistas, GenAI y audio-to-tab.",
+          "mini_headline": "El estudio de bolsillo de Neko",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg"
+                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+                "cap": "Neko Pocket Studio"
               },
               {
                 "t": "p",
-                "x": "La nueva actualización de firmware del Line 6 Helix Stadium incluye una serie de atractivos amplificadores y efectos nuevos, además de una nueva función de separación de stems."
+                "x": "Neko, de Neko Engineering, se lanzó esta semana en Kickstarter: un estudio de bolsillo que une conectividad inalámbrica, modelado de amplificadores y pedales y grabación con herramientas de IA. Se centra en aprender canciones y en convertir riffs de guitarra en arreglos completos."
               },
               {
                 "t": "p",
-                "x": "La actualización de firmware 1.4 (“The Eras Update”) es gratuita y aporta 14 ajustes de canal de amplificador Agoura derivados de seis amplificadores distintos, hasta un total de 67 canales Agoura. Entre las nuevas opciones figuran el Brit SL100, modelado a partir de versiones del Marshall Plexi Superlead; el Omega Granophyre, basado en el Granophyre 6L6, y el Prosecutor, la última evolución del Line 6 Litigator."
+                "x": "Dos conectores inalámbricos se guardan y se cargan dentro de Neko: uno se conecta a una guitarra o un bajo y el otro a un amplificador o una mesa de mezclas. Neko se encarga del procesamiento del sonido, con tonos NAM, y de la grabación multipista."
+              },
+              {
+                "t": "p",
+                "x": "Añade separación de pistas por IA, la posibilidad de silenciar la guitarra de un tema y tocar en su lugar, audio-to-tab en su pantalla, y pistas de acompañamiento y arreglos creados con IA generativa. La función Time Machine permite a los músicos volver a escuchar ideas aunque hayan olvidado pulsar grabar. La integración con NAM abre la biblioteca de capturas de Tone3000."
               },
               {
                 "t": "video",
-                "yt": "StAMPE_XF1M"
+                "yt": "keuagUavq90"
               },
               {
                 "t": "p",
-                "x": "También hay seis nuevos efectos de distorsión y modulación, mejoras para los modelos de amplificador Agoura actuales, y es posible editar con la app Helix Stadium al conectarlo por USB. Con la ayuda de Music Connect de Yamaha, ahora se puede importar un archivo de audio al motor Showcase del Helix Stadium y dividirlo en cinco archivos independientes: batería, bajo, guitarra, voz y otros."
-              },
-              {
-                "t": "p",
-                "x": "La actualización se instala por Wi-Fi con una Line 6 Account o manualmente por USB con la app Helix Stadium."
+                "x": "En las primeras 24 horas la campaña de Kickstarter reunió $10.000 en aportes; ya supera los $260k frente a un objetivo de $30.000. Los aportes con recompensa parten de $449 y el precio de venta es de $599. Los envíos a los patrocinadores están previstos para abril de 2027."
               }
             ]
           }
@@ -1065,581 +1531,201 @@
       }
     },
     {
-      "id": "music-bpb-ai-plugins",
+      "id": "music-midi-repa-paper",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "저품질 AI-built\n플러그인 거르는 BPB",
-      "body": "BPB는 저품질 AI-built 플러그인을 뉴스에서 걸러 왔다고 밝혔다.",
-      "mini_headline": "BPB, AI-built 플러그인 선별",
-      "tool": "Music",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
-          },
-          {
-            "t": "p",
-            "x": "요즘 플러그인 업계는 크게 달라졌다. 매일 나오는 플러그인이 너무 많아 따라가기 벅차고 평균 품질은 크게 떨어졌다."
-          },
-          {
-            "t": "p",
-            "x": "AI 도구가 코딩 속도를 끌어올리고, 코드를 몰라도 소프트웨어를 만들 수 있게 해 주는 것이 큰 원인이다. 품질 문제로 번지기도 하지만 이런 “vibe-coded” 도구 중 일부는 사용자들에게 꽤 좋은 반응을 얻는다."
-          },
-          {
-            "t": "p",
-            "x": "한편에는 텍스트 프롬프트로 음악이나 오디오를 생성하는 AI 도구다. 반대쪽 끝에는 하드웨어 장비, 특히 가상 기타 앰프를 모델링하는 데 쓰이는 머신러닝이 있는데, 대체로 압도적인 호평을 받는다."
-          },
-          {
-            "t": "p",
-            "x": "나는 BPB 뉴스 섹션에 실리는 소프트웨어를 철저히 걸러 왔고, 이른바 “AI slop”을 막으려 최선을 다했다. 하지만 물량은 계속 늘고 있고, 어딘가에는 선을 그어야 한다."
-          },
-          {
-            "t": "p",
-            "x": "설문은 짧다. 10월 20일 화요일까지 답해 주기 바란다. 결과는 이후 공유하고, 그에 맞춰 BPB가 갈 방향을 정하겠다. — Tomislav Zlatic"
-          }
-        ]
-      },
-      "_lead_image": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg",
-      "_video": "",
-      "text": {
-        "en": {
-          "headline": "Bedroom Producers Blog filters\nlow-quality AI-built plugins",
-          "body": "BPB has been filtering low-quality AI-built plugins out of its news, citing a flood that has lowered average quality.",
-          "mini_headline": "BPB filters AI-built plugins",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
-              },
-              {
-                "t": "p",
-                "x": "I’ve noticed a huge shift in the plugin industry recently. The sheer number of plugins released daily has made it hard to keep up, and the average quality has dropped drastically."
-              },
-              {
-                "t": "p",
-                "x": "A lot of it comes down to the fact that AI tools are now being used to speed up coding or even allow users to create software without understanding the code underneath. This leads to potential quality issues, although some of these “vibe-coded” tools are extremely well received by users."
-              },
-              {
-                "t": "p",
-                "x": "Another aspect is AI tools that generate music or audio from text prompts. On the other end of the spectrum, there’s machine learning used to model hardware gear, especially virtual guitar amps, which typically receive overwhelming praise."
-              },
-              {
-                "t": "p",
-                "x": "I’ve been heavily filtering the software that makes it into BPB’s news section, doing my best to keep the so-called “AI slop” out. But the volume keeps growing, and the line has to be drawn somewhere."
-              },
-              {
-                "t": "p",
-                "x": "The poll is short. Please answer by Tuesday, October 20th. I will then share the results and use them to figure out the right way forward for BPB. — Tomislav Zlatic"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "저품질 AI-built\n플러그인 거르는 BPB",
-          "body": "BPB는 저품질 AI-built 플러그인을 뉴스에서 걸러 왔다고 밝혔다.",
-          "mini_headline": "BPB, AI-built 플러그인 선별",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
-              },
-              {
-                "t": "p",
-                "x": "요즘 플러그인 업계는 크게 달라졌다. 매일 나오는 플러그인이 너무 많아 따라가기 벅차고 평균 품질은 크게 떨어졌다."
-              },
-              {
-                "t": "p",
-                "x": "AI 도구가 코딩 속도를 끌어올리고, 코드를 몰라도 소프트웨어를 만들 수 있게 해 주는 것이 큰 원인이다. 품질 문제로 번지기도 하지만 이런 “vibe-coded” 도구 중 일부는 사용자들에게 꽤 좋은 반응을 얻는다."
-              },
-              {
-                "t": "p",
-                "x": "한편에는 텍스트 프롬프트로 음악이나 오디오를 생성하는 AI 도구다. 반대쪽 끝에는 하드웨어 장비, 특히 가상 기타 앰프를 모델링하는 데 쓰이는 머신러닝이 있는데, 대체로 압도적인 호평을 받는다."
-              },
-              {
-                "t": "p",
-                "x": "나는 BPB 뉴스 섹션에 실리는 소프트웨어를 철저히 걸러 왔고, 이른바 “AI slop”을 막으려 최선을 다했다. 하지만 물량은 계속 늘고 있고, 어딘가에는 선을 그어야 한다."
-              },
-              {
-                "t": "p",
-                "x": "설문은 짧다. 10월 20일 화요일까지 답해 주기 바란다. 결과는 이후 공유하고, 그에 맞춰 BPB가 갈 방향을 정하겠다. — Tomislav Zlatic"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "低品質なAI-built\nプラグインを除外",
-          "body": "BPBは粗製乱造を理由に、低品質なAI-builtプラグインをニュースから外してきた。",
-          "mini_headline": "BPBがAI-builtプラグインを選別",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
-              },
-              {
-                "t": "p",
-                "x": "最近、プラグイン業界で大きな変化が起きていると感じる。毎日リリースされるプラグインの数があまりに多く追いきれなくなり、平均的な品質も大きく落ちた。"
-              },
-              {
-                "t": "p",
-                "x": "その大きな要因は、AIツールがコーディングの高速化に使われたり、内部のコードを理解していないユーザーでもソフトウェアを作れるようになったりしていることだ。これは品質上の問題につながりうるが、こうした“vibe-coded”ツールの中にはユーザーから非常に好評なものもある。"
-              },
-              {
-                "t": "p",
-                "x": "もう一つの側面は、テキストプロンプトから音楽やオーディオを生成するAIツールだ。その対極には、ハードウェア機材、特にバーチャルギターアンプのモデリングに使われる機械学習があり、こちらは概して圧倒的な称賛を受けている。"
-              },
-              {
-                "t": "p",
-                "x": "私はBPBのニュース欄に載るソフトウェアを厳しく選別し、いわゆる“AI slop”を締め出すよう最善を尽くしてきた。だが量は増え続けており、どこかで線を引かなければならない。"
-              },
-              {
-                "t": "p",
-                "x": "アンケートは短い。10月20日（火）までに回答してほしい。その後結果を共有し、BPBの進むべき方向を見極めるために活用する。— Tomislav Zlatic"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "BPB过滤低质量\nAI-built插件",
-          "body": "BPB以插件泛滥拉低平均质量为由，一直在新闻中过滤低质量的AI-built插件。",
-          "mini_headline": "BPB过滤AI-built插件",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
-              },
-              {
-                "t": "p",
-                "x": "我注意到最近插件行业发生了巨大变化。每天发布的插件数量多到难以跟上，平均质量也大幅下降。"
-              },
-              {
-                "t": "p",
-                "x": "这在很大程度上是因为，AI工具如今被用来加快编码速度，甚至让用户在不理解底层代码的情况下也能开发软件。这可能带来质量问题，不过其中一些“vibe-coded”工具也极受用户欢迎。"
-              },
-              {
-                "t": "p",
-                "x": "另一方面是根据文本提示生成音乐或音频的AI工具。而在光谱的另一端，是用于为硬件设备建模的机器学习，尤其是虚拟吉他放大器，这类产品通常广受好评。"
-              },
-              {
-                "t": "p",
-                "x": "我一直在严格筛选进入BPB新闻栏目的软件，尽力把所谓的“AI slop”挡在门外。但数量还在不断增长，总得在某处划清界限。"
-              },
-              {
-                "t": "p",
-                "x": "这份调查很简短。请在10月20日（星期二）前作答。之后我会公布结果，并据此确定BPB正确的前进方向。—— Tomislav Zlatic"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Bedroom Producers Blog filtra\nplugins AI-built de baja calidad",
-          "body": "BPB filtra de sus noticias los plugins AI-built de baja calidad, ante una avalancha que ha rebajado la calidad media.",
-          "mini_headline": "BPB filtra plugins AI-built",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
-              },
-              {
-                "t": "p",
-                "x": "He notado un gran cambio en la industria de los plugins últimamente. La enorme cantidad de plugins que se lanzan cada día hace difícil seguirles el ritmo, y la calidad media ha caído drásticamente."
-              },
-              {
-                "t": "p",
-                "x": "Buena parte se debe a que ahora se usan herramientas de IA para acelerar la programación o incluso para que los usuarios creen software sin entender el código subyacente. Esto puede generar problemas de calidad, aunque algunas de estas herramientas “vibe-coded” tienen una acogida excelente entre los usuarios."
-              },
-              {
-                "t": "p",
-                "x": "Otro aspecto son las herramientas de IA que generan música o audio a partir de prompts de texto. En el extremo opuesto está el aprendizaje automático usado para modelar equipos de hardware, sobre todo amplificadores virtuales de guitarra, que suelen recibir elogios abrumadores."
-              },
-              {
-                "t": "p",
-                "x": "He estado filtrando con rigor el software que llega a la sección de noticias de BPB, haciendo todo lo posible por mantener fuera el llamado “AI slop”. Pero el volumen no deja de crecer, y en algún punto hay que trazar la línea."
-              },
-              {
-                "t": "p",
-                "x": "La encuesta es breve. Respondan antes del martes 20 de octubre, por favor. Después compartiré los resultados y los usaré para decidir el rumbo adecuado de BPB. — Tomislav Zlatic"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "저품질 AI-built\n플러그인 거르는 BPB",
-          "body": "BPB는 저품질 AI-built 플러그인을 뉴스에서 걸러 왔다고 밝혔다.",
-          "mini_headline": "BPB, AI-built 플러그인 선별",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
-              },
-              {
-                "t": "p",
-                "x": "최근 플러그인 업계에 큰 변화가 생겼다. 매일 쏟아지는 플러그인이 너무 많아 따라가기 어려워졌고, 평균 품질은 크게 떨어졌다."
-              },
-              {
-                "t": "p",
-                "x": "그 원인의 상당 부분은 이제 AI 도구가 코딩 속도를 높이는 데 쓰이거나, 사용자가 밑바탕의 코드를 이해하지 못해도 소프트웨어를 만들 수 있게 해 준다는 데 있다. 이는 품질 문제로 이어질 수 있지만, 이런 “vibe-coded” 도구 중 일부는 사용자들에게 매우 좋은 반응을 얻고 있다."
-              },
-              {
-                "t": "p",
-                "x": "또 다른 측면은 텍스트 프롬프트로 음악이나 오디오를 생성하는 AI 도구다. 반대편 끝에는 하드웨어 장비, 특히 가상 기타 앰프를 모델링하는 데 쓰이는 머신러닝이 있는데, 대체로 압도적인 호평을 받는다."
-              },
-              {
-                "t": "p",
-                "x": "나는 BPB 뉴스 섹션에 실리는 소프트웨어를 철저히 걸러 왔고, 이른바 “AI slop”을 막으려 최선을 다했다. 하지만 물량은 계속 늘고 있고, 어딘가에는 선을 그어야 한다."
-              },
-              {
-                "t": "p",
-                "x": "설문은 짧다. 10월 20일 화요일까지 답해 주기 바란다. 이후 결과를 공유하고, 이를 바탕으로 BPB가 나아갈 올바른 방향을 정하겠다. — Tomislav Zlatic"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "低品質なAI-built\nプラグインを除外",
-          "body": "BPBは粗製乱造を理由に、低品質なAI-builtプラグインをニュースから外してきた。",
-          "mini_headline": "BPBがAI-builtプラグインを選別",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
-              },
-              {
-                "t": "p",
-                "x": "最近、プラグイン業界で大きな変化が起きていると感じる。毎日リリースされるプラグインの数があまりに多く追いきれなくなり、平均的な品質も大きく落ちた。"
-              },
-              {
-                "t": "p",
-                "x": "その大きな要因は、AIツールがコーディングの高速化に使われたり、内部のコードを理解していないユーザーでもソフトウェアを作れるようになったりしていることだ。これは品質上の問題につながりうるが、こうした“vibe-coded”ツールの中にはユーザーから非常に好評なものもある。"
-              },
-              {
-                "t": "p",
-                "x": "もう一つの側面は、テキストプロンプトから音楽やオーディオを生成するAIツールだ。その対極には、ハードウェア機材、特にバーチャルギターアンプのモデリングに使われる機械学習があり、こちらは概して圧倒的な称賛を受けている。"
-              },
-              {
-                "t": "p",
-                "x": "私はBPBのニュース欄に載るソフトウェアを厳しく選別し、いわゆる“AI slop”を締め出すよう最善を尽くしてきた。だが量は増え続けており、どこかで線を引かなければならない。"
-              },
-              {
-                "t": "p",
-                "x": "アンケートは短い。10月20日（火）までに回答してほしい。その後結果を共有し、BPBの進むべき方向を見極めるために活用する。— Tomislav Zlatic"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "BPB过滤低质量\nAI-built插件",
-          "body": "BPB以插件泛滥拉低平均质量为由，一直在新闻中过滤低质量的AI-built插件。",
-          "mini_headline": "BPB过滤AI-built插件",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
-              },
-              {
-                "t": "p",
-                "x": "我注意到最近插件行业发生了巨大变化。每天发布的插件数量多到难以跟上，平均质量也大幅下降。"
-              },
-              {
-                "t": "p",
-                "x": "这在很大程度上是因为，AI工具如今被用来加快编码速度，甚至让用户在不理解底层代码的情况下也能开发软件。这可能带来质量问题，不过其中一些“vibe-coded”工具也极受用户欢迎。"
-              },
-              {
-                "t": "p",
-                "x": "另一方面是根据文本提示生成音乐或音频的AI工具。而在光谱的另一端，是用于为硬件设备建模的机器学习，尤其是虚拟吉他放大器，这类产品通常广受好评。"
-              },
-              {
-                "t": "p",
-                "x": "我一直在严格筛选进入BPB新闻栏目的软件，尽力把所谓的“AI slop”挡在门外。但数量还在不断增长，总得在某处划清界限。"
-              },
-              {
-                "t": "p",
-                "x": "这份调查很简短。请在10月20日（星期二）前作答。之后我会公布结果，并据此确定BPB正确的前进方向。—— Tomislav Zlatic"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Bedroom Producers Blog filtra\nplugins AI-built de baja calidad",
-          "body": "BPB filtra de sus noticias los plugins AI-built de baja calidad, ante una avalancha que ha rebajado la calidad media.",
-          "mini_headline": "BPB filtra plugins AI-built",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg"
-              },
-              {
-                "t": "p",
-                "x": "He notado un gran cambio en la industria de los plugins últimamente. La enorme cantidad de plugins que se lanzan cada día hace difícil seguirles el ritmo, y la calidad media ha caído drásticamente."
-              },
-              {
-                "t": "p",
-                "x": "Buena parte se debe a que ahora se usan herramientas de IA para acelerar la programación o incluso para que los usuarios creen software sin entender el código subyacente. Esto puede generar problemas de calidad, aunque algunas de estas herramientas “vibe-coded” tienen una acogida excelente entre los usuarios."
-              },
-              {
-                "t": "p",
-                "x": "Otro aspecto son las herramientas de IA que generan música o audio a partir de prompts de texto. En el extremo opuesto está el aprendizaje automático usado para modelar equipos de hardware, sobre todo amplificadores virtuales de guitarra, que suelen recibir elogios abrumadores."
-              },
-              {
-                "t": "p",
-                "x": "He estado filtrando con rigor el software que llega a la sección de noticias de BPB, haciendo todo lo posible por mantener fuera el llamado “AI slop”. Pero el volumen no deja de crecer, y en algún punto hay que trazar la línea."
-              },
-              {
-                "t": "p",
-                "x": "La encuesta es breve. Respondan antes del martes 20 de octubre, por favor. Después compartiré los resultados y los usaré para decidir el rumbo adecuado de BPB. — Tomislav Zlatic"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "music-gugak-vocalset",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI용 첫 공개\n국악 가창 데이터셋",
-      "body": "Gugak-VocalSet은 전문가 20명의 국악 가창 24.5시간을 담았다.",
-      "mini_headline": "국악 가창 공개 데이터셋",
+      "headline": "MIDI-REPA는\nMIDI로 음악 구조 학습",
+      "body": "MIDI-REPA는 자동 채보한 MIDI로 음악 생성 모델에 구조를 가르친다.",
+      "mini_headline": "MIDI로 음악 생성 AI 학습",
       "tool": "Music",
       "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.15350",
+      "url": "https://arxiv.org/abs/2610.20967",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
-            "t": "p",
-            "x": "Gugak-VocalSet은 성악 표현의 구조화된 음높이 윤곽 체계인 시김새(sigimsae)에 촘촘히 주석을 단 데이터셋으로, 국악 가창을 다룬 공개 오디오 데이터셋은 이것이 처음이다."
+            "t": "img",
+            "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+            "cap": "그림 1: MIDI-REPA 프레임워크. AMT 시스템이 추출한 기호 타깃이 가벼운 프로젝션 헤드와 코사인 유사도 정렬 손실로 중간 오디오 표현을 지도한다."
           },
           {
             "t": "p",
-            "x": "국립국악원(National Gugak Center)이 선별한 대표 레퍼토리 305곡에 걸친 24.5시간 분량의 무반주 독창 녹음이 들어 있다. 전문 가창자 20명이 조성과 템포를 고정한 스튜디오에서 불렀다."
+            "x": "최신 text-to-music 모델은 갈수록 모델 용량, 데이터, 연산을 키우는 데 기대지만, 음악 구조는 여전히 밀도 높은 오디오에서 직접 배운다. 멜로디, 리듬, 화성, 구조는 기호 형태로 간결하게 표현할 수 있는데도 그렇다."
+          },
+          {
+            "t": "p",
+            "x": "연구진이 소개하는 MIDI-REPA는 표현 정렬 프레임워크다. 자동 음악 채보(AMT)에서 MIDI 지도 신호를 얻어 flow-matching DiT의 중간 표현을 정렬한다. 2026 ICME Academic Text-To-Music Challenge의 122M 파라미터 FluxAudio-S 베이스라인으로 무엇을, 어디서, 언제 정렬할지 따져 봤다. 성능은 MuScriptor-derived(MuScriptor에서 추출한) 피아노 롤을 flow 궤적 전체에 걸쳐 초기 DiT 레이어와 정렬할 때 가장 좋았다."
+          },
+          {
+            "t": "p",
+            "x": "MIDI-REPA는 추가 학습 데이터나 기법 없이도 ATTM 객관 지표에서 경쟁력을 유지하고, RTX 3090 한 장이면 약 31시간 만에 학습이 끝난다. 기호 지도가 text-to-music 생성을 개선하는 간단하고 저렴한 학습 신호라는 게 연구진의 결론이다. 채보 파이프라인, JamendoMIDI, 학습 코드, 오디오 샘플도 공개한다."
           },
           {
             "t": "img",
-            "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
-            "cap": "Gugak-VocalSet의 장르 계층. 숫자는 범주별 곡 수를 나타낸다."
-          },
-          {
-            "t": "p",
-            "x": "장르, 가사, 분위기·음색 태그 외에도 통합 시김새 온톨로지와 약 68,000개 구간(다중 레이블 포함 71,700건)의 시김새 주석을 제공한다. 주석 작업은 전문 주석자 14명이 맡았다."
-          },
-          {
-            "t": "img",
-            "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
-            "cap": "주석 예시: 정악(위)과 민속악(아래)."
-          },
-          {
-            "t": "p",
-            "x": "기준선 실험에서 도메인 지식을 반영한 F0 표현은 범용 음악 파운데이션 모델의 고정(frozen) 프로빙과 대등했고 분류에서는 오히려 앞섰다."
+            "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+            "cap": "그림 2: 베이스라인 생성 궤적의 여러 타임스텝에서 외삽한 최종 출력."
           }
         ]
       },
-      "_lead_image": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "First open dataset of Korean\ntraditional singing for AI",
-          "body": "Gugak-VocalSet offers 24.5 hours of Korean traditional singing by 20 professionals, with sigimsae ornament annotations.",
-          "mini_headline": "Open dataset for gugak singing",
+          "headline": "MIDI-REPA teaches music models\nstructure through MIDI",
+          "body": "MIDI-REPA aligns text-to-music models with MIDI from automatic transcription to learn musical structure.",
+          "mini_headline": "MIDI guides text-to-music AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Gugak-VocalSet is the first publicly available audio dataset for Korean traditional singing with dense annotations of sigimsae, a structured pitch contour system of vocal expressions."
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+                "cap": "Figure 1: MIDI-REPA framework. Symbolic targets extracted by an AMT system supervise intermediate audio representations through a lightweight projection head and cosine-similarity alignment loss."
               },
               {
                 "t": "p",
-                "x": "It contains 24.5 hours of unaccompanied solo vocal recordings across 305 tracks of representative repertoire curated by the National Gugak Center, performed by 20 professional singers in a controlled studio environment with fixed key and tempo."
+                "x": "State-of-the-art text-to-music models increasingly rely on scaling model capacity, data, and compute, while still learning musical structure directly from dense audio. Yet melody, rhythm, harmony, and structure can be represented compactly in symbolic form."
+              },
+              {
+                "t": "p",
+                "x": "We introduce MIDI-REPA, a representation-alignment framework that derives MIDI supervision from automatic music transcription (AMT) to align intermediate representations of a flow-matching DiT. Building on the 122M-parameter FluxAudio-S baseline from the 2026 ICME Academic Text-To-Music Challenge, we investigate what, where, and when to align. Aligning a MuScriptor-derived piano roll with an early DiT layer throughout the full flow trajectory performs the best."
+              },
+              {
+                "t": "p",
+                "x": "Without additional training data or techniques, MIDI-REPA remains competitive on the ATTM objective metrics while remaining trainable on a single RTX 3090 in about 31 hours. Our results highlight symbolic supervision as a simple and inexpensive learning signal for improving text-to-music generation. We release our transcription pipeline, JamendoMIDI, training code, and audio samples."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
-                "cap": "Genre hierarchy of Gugak-VocalSet. Numbers show track counts per category."
-              },
-              {
-                "t": "p",
-                "x": "Beyond genre, lyrics and mood/timbre tags, it provides a unified sigimsae ontology and about 68,000 segments (71,700 instances including multi-label) of sigimsae annotations, labeled by 14 expert annotators."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
-                "cap": "Annotation examples: jeongak (top) and minsogak (bottom)."
-              },
-              {
-                "t": "p",
-                "x": "Baseline experiments show domain-informed F0 representations remain competitive with, and on classification surpass, frozen probing of a general-purpose music foundation model."
+                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+                "cap": "Figure 2: Extrapolated final outputs from different timesteps along the baseline generation trajectory."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI용 첫 공개\n국악 가창 데이터셋",
-          "body": "Gugak-VocalSet은 전문가 20명의 국악 가창 24.5시간을 담았다.",
-          "mini_headline": "국악 가창 공개 데이터셋",
+          "headline": "MIDI-REPA는\nMIDI로 음악 구조 학습",
+          "body": "MIDI-REPA는 자동 채보한 MIDI로 음악 생성 모델에 구조를 가르친다.",
+          "mini_headline": "MIDI로 음악 생성 AI 학습",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Gugak-VocalSet은 성악 표현의 구조화된 음높이 윤곽 체계인 시김새(sigimsae)에 촘촘히 주석을 단 데이터셋으로, 국악 가창을 다룬 공개 오디오 데이터셋은 이것이 처음이다."
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+                "cap": "그림 1: MIDI-REPA 프레임워크. AMT 시스템이 추출한 기호 타깃이 가벼운 프로젝션 헤드와 코사인 유사도 정렬 손실로 중간 오디오 표현을 지도한다."
               },
               {
                 "t": "p",
-                "x": "국립국악원(National Gugak Center)이 선별한 대표 레퍼토리 305곡에 걸친 24.5시간 분량의 무반주 독창 녹음이 들어 있다. 전문 가창자 20명이 조성과 템포를 고정한 스튜디오에서 불렀다."
+                "x": "최신 text-to-music 모델은 갈수록 모델 용량, 데이터, 연산을 키우는 데 기대지만, 음악 구조는 여전히 밀도 높은 오디오에서 직접 배운다. 멜로디, 리듬, 화성, 구조는 기호 형태로 간결하게 표현할 수 있는데도 그렇다."
+              },
+              {
+                "t": "p",
+                "x": "연구진이 소개하는 MIDI-REPA는 표현 정렬 프레임워크다. 자동 음악 채보(AMT)에서 MIDI 지도 신호를 얻어 flow-matching DiT의 중간 표현을 정렬한다. 2026 ICME Academic Text-To-Music Challenge의 122M 파라미터 FluxAudio-S 베이스라인으로 무엇을, 어디서, 언제 정렬할지 따져 봤다. 성능은 MuScriptor-derived(MuScriptor에서 추출한) 피아노 롤을 flow 궤적 전체에 걸쳐 초기 DiT 레이어와 정렬할 때 가장 좋았다."
+              },
+              {
+                "t": "p",
+                "x": "MIDI-REPA는 추가 학습 데이터나 기법 없이도 ATTM 객관 지표에서 경쟁력을 유지하고, RTX 3090 한 장이면 약 31시간 만에 학습이 끝난다. 기호 지도가 text-to-music 생성을 개선하는 간단하고 저렴한 학습 신호라는 게 연구진의 결론이다. 채보 파이프라인, JamendoMIDI, 학습 코드, 오디오 샘플도 공개한다."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
-                "cap": "Gugak-VocalSet의 장르 계층. 숫자는 범주별 곡 수를 나타낸다."
-              },
-              {
-                "t": "p",
-                "x": "장르, 가사, 분위기·음색 태그 외에도 통합 시김새 온톨로지와 약 68,000개 구간(다중 레이블 포함 71,700건)의 시김새 주석을 제공한다. 주석 작업은 전문 주석자 14명이 맡았다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
-                "cap": "주석 예시: 정악(위)과 민속악(아래)."
-              },
-              {
-                "t": "p",
-                "x": "기준선 실험에서 도메인 지식을 반영한 F0 표현은 범용 음악 파운데이션 모델의 고정(frozen) 프로빙과 대등했고 분류에서는 오히려 앞섰다."
+                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+                "cap": "그림 2: 베이스라인 생성 궤적의 여러 타임스텝에서 외삽한 최종 출력."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国伝統歌唱の\nAI向け初の公開データ",
-          "body": "Gugak-VocalSetは、プロ歌手20人による韓国伝統歌唱24.5時間を収録した。",
-          "mini_headline": "国楽歌唱の公開データセット",
+          "headline": "MIDI-REPAは\nMIDIで音楽構造を学ぶ",
+          "body": "MIDI-REPAは自動採譜のMIDIで音楽生成モデルに構造を学ばせる。",
+          "mini_headline": "MIDIが音楽生成AIを導く",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Gugak-VocalSetは、声楽表現における構造化された音高輪郭の体系「シギムセ（sigimsae）」に密な注釈を付けた、韓国伝統歌唱のための初の一般公開音声データセットである。"
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+                "cap": "図1：MIDI-REPAのフレームワーク。AMTシステムが抽出した記号的ターゲットが、軽量な射影ヘッドとコサイン類似度による整合損失を通じて、中間のオーディオ表現を教師する。"
               },
               {
                 "t": "p",
-                "x": "国立国楽院（National Gugak Center）が選定した代表的レパートリー305曲にわたる、計24.5時間の無伴奏ソロ歌唱録音を収録する。歌唱は20人のプロ歌手が、キーとテンポを固定した管理されたスタジオ環境で行った。"
+                "x": "最先端のtext-to-musicモデルは、モデル容量、データ、計算資源の拡大にますます頼る一方で、音楽構造は依然として密なオーディオから直接学習している。しかし、メロディ、リズム、和声、構造は記号形式でコンパクトに表現できる。"
+              },
+              {
+                "t": "p",
+                "x": "MIDI-REPAは、自動採譜（AMT）からMIDIの教師信号を導き、flow-matching DiTの中間表現を整合させる表現アライメントの枠組みだ。2026 ICME Academic Text-To-Music Challengeの122M パラメーターのFluxAudio-Sベースラインをもとに、何を、どこで、いつ整合させるかを検証した。MuScriptor-derivedのピアノロールを、フローの全軌跡を通じて初期のDiT層と整合させる方法が最も良い結果を出した。"
+              },
+              {
+                "t": "p",
+                "x": "MIDI-REPAは追加の学習データや手法なしでATTMの客観指標で競争力を保ちつつ、RTX 3090を1枚使い約31時間で学習できる。結果は、記号的な教師がtext-to-music生成を改善する、シンプルで安価な学習信号であることを示す。採譜パイプライン、JamendoMIDI、学習コード、オーディオサンプルを公開する。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
-                "cap": "Gugak-VocalSetのジャンル階層。数字はカテゴリーごとの曲数を示す。"
-              },
-              {
-                "t": "p",
-                "x": "ジャンル、歌詞、ムード・音色タグに加え、統一されたシギムセのオントロジーと、約68,000区間（マルチラベルを含め71,700件）のシギムセ注釈を提供する。注釈は14人の専門アノテーターが付けた。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
-                "cap": "注釈の例：正楽（上）と民俗楽（下）。"
-              },
-              {
-                "t": "p",
-                "x": "ベースライン実験では、ドメイン知識を取り入れたF0表現が、汎用音楽基盤モデルのフローズン・プロービングと互角の性能を保ち、分類ではそれを上回った。"
+                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+                "cap": "図2：ベースライン生成軌跡の各タイムステップから外挿した最終出力。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "首个面向AI的开放\n韩国传统歌唱数据集",
-          "body": "Gugak-VocalSet收录20位专业歌手的24.5小时韩国传统声乐及其装饰音标注。",
-          "mini_headline": "国乐演唱开放数据集",
+          "headline": "MIDI-REPA借MIDI\n教音乐模型学结构",
+          "body": "MIDI-REPA用自动转录的MIDI对齐文本生成音乐模型，以学习音乐结构。",
+          "mini_headline": "MIDI引导文本生成音乐AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Gugak-VocalSet是首个公开的韩国传统歌唱音频数据集，对sigimsae（一种描述声乐表现的结构化音高轮廓体系）进行了密集标注。"
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+                "cap": "图1：MIDI-REPA 框架。由 AMT 系统提取的符号目标，通过轻量投影头和余弦相似度对齐损失，监督中间音频表示。"
               },
               {
                 "t": "p",
-                "x": "它包含24.5小时的无伴奏独唱录音，涵盖由国立国乐院（National Gugak Center）精选的305首代表性曲目，由20位专业歌手在固定调性与速度的受控录音室环境中演唱。"
+                "x": "最先进的 text-to-music 模型越来越依赖扩大模型容量、数据和算力，却仍直接从密集的音频中学习音乐结构。然而，旋律、节奏、和声与结构都可以用符号形式紧凑地表示。"
+              },
+              {
+                "t": "p",
+                "x": "我们提出 MIDI-REPA，这是一种表示对齐框架，从自动音乐转录（AMT）中获取 MIDI 监督信号，用以对齐 flow-matching DiT 的中间表示。我们以 2026 ICME Academic Text-To-Music Challenge 中 122M 参数的 FluxAudio-S 基线为基础，研究对齐什么、在哪里对齐以及何时对齐。在整个流轨迹中将 MuScriptor-derived 钢琴卷帘与早期 DiT 层对齐，效果最好。"
+              },
+              {
+                "t": "p",
+                "x": "在不增加训练数据或技巧的情况下，MIDI-REPA 在 ATTM 客观指标上仍具竞争力，并且只需一块 RTX 3090 约 31 小时即可完成训练。结果表明，符号监督是改进 text-to-music 生成的一种简单而低成本的学习信号。我们公开了转录流程、JamendoMIDI、训练代码和音频样本。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
-                "cap": "Gugak-VocalSet的流派层级。数字表示各类别的曲目数。"
-              },
-              {
-                "t": "p",
-                "x": "除流派、歌词和情绪/音色标签外，它还提供统一的sigimsae本体，以及约68,000个片段（含多标签共71,700个实例）的sigimsae标注，由14位专家标注员完成。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
-                "cap": "标注示例：正乐（上）与民俗乐（下）。"
-              },
-              {
-                "t": "p",
-                "x": "基线实验表明，融入领域知识的F0表征与通用音乐基础模型的冻结探测相比仍具竞争力，在分类任务上更是超越了后者。"
+                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+                "cap": "图2：沿基线生成轨迹，从不同时间步外推出的最终输出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Primer dataset abierto de canto\ntradicional coreano para IA",
-          "body": "Gugak-VocalSet reúne 24,5 horas de canto tradicional coreano de 20 profesionales, con anotaciones de sigimsae.",
-          "mini_headline": "Dataset abierto de canto gugak",
+          "headline": "MIDI-REPA enseña estructura\na modelos musicales vía MIDI",
+          "body": "MIDI-REPA alinea modelos text-to-music con MIDI de transcripción automática para aprender estructura musical.",
+          "mini_headline": "MIDI guía la IA de texto a música",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Gugak-VocalSet es el primer conjunto de datos de audio públicamente disponible de canto tradicional coreano con anotaciones densas de sigimsae, un sistema estructurado de contornos de altura para las expresiones vocales."
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+                "cap": "Figura 1: marco MIDI-REPA. Los objetivos simbólicos extraídos por un sistema AMT supervisan las representaciones de audio intermedias mediante un cabezal de proyección ligero y una pérdida de alineación por similitud coseno."
               },
               {
                 "t": "p",
-                "x": "Contiene 24,5 horas de grabaciones vocales solistas sin acompañamiento en 305 pistas de repertorio representativo seleccionado por el National Gugak Center, interpretadas por 20 cantantes profesionales en un estudio controlado con tonalidad y tempo fijos."
+                "x": "Los modelos text-to-music más avanzados dependen cada vez más de escalar la capacidad del modelo, los datos y el cómputo, aunque siguen aprendiendo la estructura musical directamente del audio denso. Sin embargo, la melodía, el ritmo, la armonía y la estructura pueden representarse de manera compacta en forma simbólica."
+              },
+              {
+                "t": "p",
+                "x": "Presentamos MIDI-REPA, un marco de alineación de representaciones que obtiene supervisión MIDI a partir de la transcripción musical automática (AMT) para alinear las representaciones intermedias de un DiT de flow-matching. Partiendo de la línea base FluxAudio-S de 122M parámetros del 2026 ICME Academic Text-To-Music Challenge, investigamos qué, dónde y cuándo alinear. Alinear un piano roll MuScriptor-derived (derivado de MuScriptor) con una capa temprana del DiT a lo largo de toda la trayectoria del flujo da los mejores resultados."
+              },
+              {
+                "t": "p",
+                "x": "Sin datos de entrenamiento ni técnicas adicionales, MIDI-REPA sigue siendo competitivo en las métricas objetivas de ATTM y puede entrenarse en una sola RTX 3090 en unas 31 horas. Nuestros resultados destacan la supervisión simbólica como una señal de aprendizaje sencilla y barata para mejorar la generación text-to-music. Publicamos nuestro pipeline de transcripción, JamendoMIDI, el código de entrenamiento y muestras de audio."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
-                "cap": "Jerarquía de géneros de Gugak-VocalSet. Los números indican la cantidad de pistas por categoría."
-              },
-              {
-                "t": "p",
-                "x": "Además de etiquetas de género, letra y estado de ánimo/timbre, ofrece una ontología unificada de sigimsae y unos 68.000 segmentos (71.700 instancias, incluidas las multietiqueta) de anotaciones de sigimsae, elaboradas por 14 anotadores expertos."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
-                "cap": "Ejemplos de anotación: jeongak (arriba) y minsogak (abajo)."
-              },
-              {
-                "t": "p",
-                "x": "Los experimentos de referencia muestran que las representaciones de F0 basadas en conocimiento del dominio siguen siendo competitivas frente al sondeo congelado de un modelo fundacional de música de propósito general, y lo superan en clasificación."
+                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+                "cap": "Figura 2: salidas finales extrapoladas desde distintos pasos de tiempo a lo largo de la trayectoria de generación de referencia."
               }
             ]
           }
@@ -1647,145 +1733,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI용 첫 공개\n국악 가창 데이터셋",
-          "body": "Gugak-VocalSet은 전문가 20명의 국악 가창 24.5시간을 담았다.",
-          "mini_headline": "국악 가창 공개 데이터셋",
+          "headline": "MIDI-REPA는\nMIDI로 음악 구조 학습",
+          "body": "MIDI-REPA는 자동 채보한 MIDI로 음악 생성 모델에 구조를 가르친다.",
+          "mini_headline": "MIDI로 음악 생성 AI 학습",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Gugak-VocalSet은 성악 표현의 구조화된 음높이 윤곽 체계인 시김새(sigimsae)에 촘촘한 주석을 단, 국악 가창을 위한 최초의 공개 오디오 데이터셋이다."
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+                "cap": "그림 1: MIDI-REPA 프레임워크. AMT 시스템이 추출한 기호 타깃이 가벼운 프로젝션 헤드와 코사인 유사도 정렬 손실을 통해 중간 오디오 표현을 지도한다."
               },
               {
                 "t": "p",
-                "x": "국립국악원(National Gugak Center)이 선별한 대표 레퍼토리 305곡에 걸친 24.5시간 분량의 무반주 독창 녹음을 담았으며, 전문 가창자 20명이 조성과 템포를 고정한 통제된 스튜디오 환경에서 불렀다."
+                "x": "최신 text-to-music 모델은 모델 용량, 데이터, 연산을 키우는 데 점점 더 의존하면서도 여전히 밀도 높은 오디오에서 음악 구조를 직접 배운다. 그러나 멜로디, 리듬, 화성, 구조는 기호 형태로 간결하게 표현할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "연구진은 자동 음악 채보(AMT)에서 MIDI 지도 신호를 얻어 flow-matching DiT의 중간 표현을 정렬하는 표현 정렬 프레임워크 MIDI-REPA를 소개한다. 2026 ICME Academic Text-To-Music Challenge의 122M 파라미터 FluxAudio-S 베이스라인을 바탕으로 무엇을, 어디서, 언제 정렬할지 살폈다. MuScriptor-derived(MuScriptor에서 추출한) 피아노 롤을 전체 flow 궤적에 걸쳐 초기 DiT 레이어와 정렬할 때 성능이 가장 좋았다."
+              },
+              {
+                "t": "p",
+                "x": "MIDI-REPA는 추가 학습 데이터나 기법 없이도 ATTM 객관 지표에서 경쟁력을 유지하며, RTX 3090 한 장으로 약 31시간이면 학습할 수 있다. 결과는 기호 지도가 text-to-music 생성을 개선하는 간단하고 저렴한 학습 신호임을 보여준다. 연구진은 채보 파이프라인, JamendoMIDI, 학습 코드, 오디오 샘플을 공개한다."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
-                "cap": "Gugak-VocalSet의 장르 계층. 숫자는 범주별 곡 수를 나타낸다."
-              },
-              {
-                "t": "p",
-                "x": "장르, 가사, 분위기·음색 태그 외에도 통합 시김새 온톨로지와 약 68,000개 구간(다중 레이블 포함 71,700건)의 시김새 주석을 제공하며, 주석은 전문 주석자 14명이 달았다."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
-                "cap": "주석 예시: 정악(위)과 민속악(아래)."
-              },
-              {
-                "t": "p",
-                "x": "기준선 실험 결과, 도메인 지식을 반영한 F0 표현은 범용 음악 파운데이션 모델의 고정(frozen) 프로빙과 대등한 경쟁력을 유지했고, 분류에서는 이를 앞섰다."
+                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+                "cap": "그림 2: 베이스라인 생성 궤적의 여러 타임스텝에서 외삽한 최종 출력."
               }
             ]
           }
         },
         "ja": {
-          "headline": "韓国伝統歌唱の\nAI向け初の公開データ",
-          "body": "Gugak-VocalSetは、プロ歌手20人による韓国伝統歌唱24.5時間を収録した。",
-          "mini_headline": "国楽歌唱の公開データセット",
+          "headline": "MIDI-REPAは\nMIDIで音楽構造を学ぶ",
+          "body": "MIDI-REPAは自動採譜のMIDIで音楽生成モデルに構造を学ばせる。",
+          "mini_headline": "MIDIが音楽生成AIを導く",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Gugak-VocalSetは、声楽表現における構造化された音高輪郭の体系「シギムセ（sigimsae）」に密な注釈を付けた、韓国伝統歌唱のための初の一般公開音声データセットである。"
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+                "cap": "図1：MIDI-REPAのフレームワーク。AMTシステムが抽出した記号的ターゲットが、軽量な射影ヘッドとコサイン類似度による整合損失を通じて、中間のオーディオ表現を教師する。"
               },
               {
                 "t": "p",
-                "x": "国立国楽院（National Gugak Center）が選定した代表的レパートリー305曲にわたる、計24.5時間の無伴奏ソロ歌唱録音を収録する。歌唱は20人のプロ歌手が、キーとテンポを固定した管理されたスタジオ環境で行った。"
+                "x": "最先端のtext-to-musicモデルは、モデル容量、データ、計算資源の拡大にますます頼る一方で、音楽構造は依然として密なオーディオから直接学習している。しかし、メロディ、リズム、和声、構造は記号形式でコンパクトに表現できる。"
+              },
+              {
+                "t": "p",
+                "x": "MIDI-REPAは、自動採譜（AMT）からMIDIの教師信号を導き、flow-matching DiTの中間表現を整合させる表現アライメントの枠組みだ。2026 ICME Academic Text-To-Music Challengeの122M パラメーターのFluxAudio-Sベースラインをもとに、何を、どこで、いつ整合させるかを検証した。MuScriptor-derivedのピアノロールを、フローの全軌跡を通じて初期のDiT層と整合させる方法が最も良い結果を出した。"
+              },
+              {
+                "t": "p",
+                "x": "MIDI-REPAは追加の学習データや手法なしでATTMの客観指標で競争力を保ちつつ、RTX 3090を1枚使い約31時間で学習できる。結果は、記号的な教師がtext-to-music生成を改善する、シンプルで安価な学習信号であることを示す。採譜パイプライン、JamendoMIDI、学習コード、オーディオサンプルを公開する。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
-                "cap": "Gugak-VocalSetのジャンル階層。数字はカテゴリーごとの曲数を示す。"
-              },
-              {
-                "t": "p",
-                "x": "ジャンル、歌詞、ムード・音色タグに加え、統一されたシギムセのオントロジーと、約68,000区間（マルチラベルを含め71,700件）のシギムセ注釈を提供する。注釈は14人の専門アノテーターが付けた。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
-                "cap": "注釈の例：正楽（上）と民俗楽（下）。"
-              },
-              {
-                "t": "p",
-                "x": "ベースライン実験では、ドメイン知識を取り入れたF0表現が、汎用音楽基盤モデルのフローズン・プロービングと互角の性能を保ち、分類ではそれを上回った。"
+                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+                "cap": "図2：ベースライン生成軌跡の各タイムステップから外挿した最終出力。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "首个面向AI的开放\n韩国传统歌唱数据集",
-          "body": "Gugak-VocalSet收录20位专业歌手的24.5小时韩国传统声乐及其装饰音标注。",
-          "mini_headline": "国乐演唱开放数据集",
+          "headline": "MIDI-REPA借MIDI\n教音乐模型学结构",
+          "body": "MIDI-REPA用自动转录的MIDI对齐文本生成音乐模型，以学习音乐结构。",
+          "mini_headline": "MIDI引导文本生成音乐AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Gugak-VocalSet是首个公开的韩国传统歌唱音频数据集，对sigimsae（一种描述声乐表现的结构化音高轮廓体系）进行了密集标注。"
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+                "cap": "图1：MIDI-REPA 框架。由 AMT 系统提取的符号目标，通过轻量投影头和余弦相似度对齐损失，监督中间音频表示。"
               },
               {
                 "t": "p",
-                "x": "它包含24.5小时的无伴奏独唱录音，涵盖由国立国乐院（National Gugak Center）精选的305首代表性曲目，由20位专业歌手在固定调性与速度的受控录音室环境中演唱。"
+                "x": "最先进的 text-to-music 模型越来越依赖扩大模型容量、数据和算力，却仍直接从密集的音频中学习音乐结构。然而，旋律、节奏、和声与结构都可以用符号形式紧凑地表示。"
+              },
+              {
+                "t": "p",
+                "x": "我们提出 MIDI-REPA，这是一种表示对齐框架，从自动音乐转录（AMT）中获取 MIDI 监督信号，用以对齐 flow-matching DiT 的中间表示。我们以 2026 ICME Academic Text-To-Music Challenge 中 122M 参数的 FluxAudio-S 基线为基础，研究对齐什么、在哪里对齐以及何时对齐。在整个流轨迹中将 MuScriptor-derived 钢琴卷帘与早期 DiT 层对齐，效果最好。"
+              },
+              {
+                "t": "p",
+                "x": "在不增加训练数据或技巧的情况下，MIDI-REPA 在 ATTM 客观指标上仍具竞争力，并且只需一块 RTX 3090 约 31 小时即可完成训练。结果表明，符号监督是改进 text-to-music 生成的一种简单而低成本的学习信号。我们公开了转录流程、JamendoMIDI、训练代码和音频样本。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
-                "cap": "Gugak-VocalSet的流派层级。数字表示各类别的曲目数。"
-              },
-              {
-                "t": "p",
-                "x": "除流派、歌词和情绪/音色标签外，它还提供统一的sigimsae本体，以及约68,000个片段（含多标签共71,700个实例）的sigimsae标注，由14位专家标注员完成。"
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
-                "cap": "标注示例：正乐（上）与民俗乐（下）。"
-              },
-              {
-                "t": "p",
-                "x": "基线实验表明，融入领域知识的F0表征与通用音乐基础模型的冻结探测相比仍具竞争力，在分类任务上更是超越了后者。"
+                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+                "cap": "图2：沿基线生成轨迹，从不同时间步外推出的最终输出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Primer dataset abierto de canto\ntradicional coreano para IA",
-          "body": "Gugak-VocalSet reúne 24,5 horas de canto tradicional coreano de 20 profesionales, con anotaciones de sigimsae.",
-          "mini_headline": "Dataset abierto de canto gugak",
+          "headline": "MIDI-REPA enseña estructura\na modelos musicales vía MIDI",
+          "body": "MIDI-REPA alinea modelos text-to-music con MIDI de transcripción automática para aprender estructura musical.",
+          "mini_headline": "MIDI guía la IA de texto a música",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
-                "t": "p",
-                "x": "Gugak-VocalSet es el primer conjunto de datos de audio públicamente disponible de canto tradicional coreano con anotaciones densas de sigimsae, un sistema estructurado de contornos de altura para las expresiones vocales."
+                "t": "img",
+                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
+                "cap": "Figura 1: marco MIDI-REPA. Los objetivos simbólicos extraídos por un sistema AMT supervisan las representaciones de audio intermedias mediante un cabezal de proyección ligero y una pérdida de alineación por similitud coseno."
               },
               {
                 "t": "p",
-                "x": "Contiene 24,5 horas de grabaciones vocales solistas sin acompañamiento en 305 pistas de repertorio representativo seleccionado por el National Gugak Center, interpretadas por 20 cantantes profesionales en un estudio controlado con tonalidad y tempo fijos."
+                "x": "Los modelos text-to-music más avanzados dependen cada vez más de escalar la capacidad del modelo, los datos y el cómputo, aunque siguen aprendiendo la estructura musical directamente del audio denso. Sin embargo, la melodía, el ritmo, la armonía y la estructura pueden representarse de manera compacta en forma simbólica."
+              },
+              {
+                "t": "p",
+                "x": "Presentamos MIDI-REPA, un marco de alineación de representaciones que obtiene supervisión MIDI a partir de la transcripción musical automática (AMT) para alinear las representaciones intermedias de un DiT de flow-matching. Partiendo de la línea base FluxAudio-S de 122M parámetros del 2026 ICME Academic Text-To-Music Challenge, investigamos qué, dónde y cuándo alinear. Alinear un piano roll MuScriptor-derived (derivado de MuScriptor) con una capa temprana del DiT a lo largo de toda la trayectoria del flujo da los mejores resultados."
+              },
+              {
+                "t": "p",
+                "x": "Sin datos de entrenamiento ni técnicas adicionales, MIDI-REPA sigue siendo competitivo en las métricas objetivas de ATTM y puede entrenarse en una sola RTX 3090 en unas 31 horas. Nuestros resultados destacan la supervisión simbólica como una señal de aprendizaje sencilla y barata para mejorar la generación text-to-music. Publicamos nuestro pipeline de transcripción, JamendoMIDI, el código de entrenamiento y muestras de audio."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/GugakGenre.png",
-                "cap": "Jerarquía de géneros de Gugak-VocalSet. Los números indican la cantidad de pistas por categoría."
-              },
-              {
-                "t": "p",
-                "x": "Además de etiquetas de género, letra y estado de ánimo/timbre, ofrece una ontología unificada de sigimsae y unos 68.000 segmentos (71.700 instancias, incluidas las multietiqueta) de anotaciones de sigimsae, elaboradas por 14 anotadores expertos."
-              },
-              {
-                "t": "img",
-                "src": "https://arxiv.org/html/2610.15350v1/figures/AnnotationExam.png",
-                "cap": "Ejemplos de anotación: jeongak (arriba) y minsogak (abajo)."
-              },
-              {
-                "t": "p",
-                "x": "Los experimentos de referencia muestran que las representaciones de F0 basadas en conocimiento del dominio siguen siendo competitivas frente al sondeo congelado de un modelo fundacional de música de propósito general, y lo superan en clasificación."
+                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
+                "cap": "Figura 2: salidas finales extrapoladas desde distintos pasos de tiempo a lo largo de la trayectoria de generación de referencia."
               }
             ]
           }

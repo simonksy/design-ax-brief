@@ -1,92 +1,116 @@
 {
- "date": "2026-10-18",
+ "date": "2026-10-19",
  "section": "politics",
  "picks": [
   {
-   "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-   "title": "Apple's updated App Store rules go after 'nudify' AI apps",
-   "source": "The Verge",
+   "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+   "title": "Anthropic quietly pitches its own AI safety bill to lawmakers",
+   "source": "POLITICO",
    "category": "politics",
    "axis": "policy",
-   "published_iso": "2026-10-16T22:51:22+00:00",
-   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-   "excerpt": "Apple's revised App Store Review Guidelines require developers to prevent and remove sexualized deepfakes, targeting AI 'nudify' apps.",
+   "published_iso": "2026-10-16T21:45:14Z",
+   "og_image": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+   "excerpt": "Anthropic is circulating a draft federal bill on Capitol Hill that would limit the circumstances in which the government could block the release of an advanced model and preempt some state AI safety laws; reports describe intervention thresholds around 50 deaths or $1 billion in damages.",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#3b6bff",
    "motif": "cube",
-   "rationale": "A new platform rule, published as revised App Store Review Guidelines, puts concrete obligations on any developer shipping generative-image features. It is a different event from the 10-03 EU nudify ban and the 10-05 Minnesota ruling. Copy should cite the guideline text, which is the primary document. Check this does not clash with a gadgets pick."
+   "rationale": "New draft federal legislation from a frontier lab. It sets when the government could block a model release and would preempt some state laws, so it bears directly on anyone shipping models. This is a distinct event from the 10-13 House agent-liability proposal. The thresholds come from reports of the draft, so attribute them to POLITICO's reporting and the draft text, and do not present the draft as a filed bill."
   },
   {
-   "url": "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system",
-   "title": "North Korea says it tested new AI-powered torpedo system",
-   "source": "Euronews",
+   "url": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run",
+   "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+   "source": "Al Jazeera",
    "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-17T07:52:00+00:00",
-   "og_image": "https://images.euronews.com/articles/stories/09/95/64/32/1536x864_cmsv2_c38dcdde-c5f7-5df7-9dbb-57df9f4356d7-9956432.jpg",
-   "excerpt": "KCNA says North Korea tested the Zam-2.0 torpedo, which uses artificial intelligence to aid target detection and guidance, days after underwater-launched cruise missile tests. (time from page display 09:52 GMT+2)",
+   "axis": "policy",
+   "published_iso": "2026-10-17T13:56:29Z",
+   "og_image": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+   "excerpt": "Newsom signed an executive order calling for independent verification of AI models and an expert committee to examine kill switches for AI agents, and asked Cal OES for AI regulation recommendations by November 15, with a possible special legislative session.",
+   "source_lang": "en",
+   "tool": "Politics",
+   "accent": "#0070f3",
+   "motif": "cube",
+   "rationale": "A new state executive order requiring independent model verification and a committee on kill switches for AI agents, with a November 15 deadline for recommendations. Write it neutrally: report what the order requires and leave out the 2028 campaign angle in the headline."
+  },
+  {
+   "url": "https://jurinews.com.br/en/justica-eleitoral/tse-determines-that-meta-treat-lula-and-flavio-campaigns-equally-under-fine-of-r-500-thousand",
+   "title": "TSE determines that Meta treat Lula and Flávio campaigns equally under fine of R$500 thousand",
+   "source": "JuriNews",
+   "category": "politics",
+   "axis": "elections",
+   "published_iso": "2026-10-16T10:03:00-03:00",
+   "og_image": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+   "excerpt": "TSE Minister Marco Aurélio Bellizze ordered Meta, under a R$500,000 fine, to treat the Lula and Flávio Bolsonaro campaigns equally, covering distribution limits and Meta AI image generation the PT campaign said blocked pro-Lula images.",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#7928ca",
    "motif": "cube",
-   "rationale": "A new state announcement of an AI-guided weapons test, on the geopolitics axis. The AI capability is entirely North Korea's claim, so attribute it to KCNA and do not present it as verified."
+   "rationale": "A new electoral-court ruling that covers Meta AI image generation in Brazil's runoff. Keep it neutral between the campaigns: the claim that pro-Lula images were blocked is the PT campaign's, so attribute it to the PT, and report the order and the fine as decided."
   },
   {
-   "url": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
-   "title": "The Case for DUV Controls",
-   "source": "ChinaTalk",
+   "url": "https://gizmodo.com/137-million-has-been-spent-on-ai-generated-ads-ahead-of-midterms-only-27-included-a-disclaimer-2000827138",
+   "title": "$137 Million Has Been Spent on AI-Generated Ads Ahead of Midterms. Only 27% Included a Disclaimer",
+   "source": "Gizmodo",
    "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-17T09:07:33+00:00",
-   "og_image": "https://substackcdn.com/image/fetch/$s_!LECo!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff01310f4-d446-4bf7-9782-043fb7641f2e_691x444.png",
-   "excerpt": "Former NSC tech official Saif Khan makes the case for extending export controls to DUV lithography tools to constrain China's AI chip production.",
+   "axis": "elections",
+   "published_iso": "2026-10-16T20:10:12+00:00",
+   "og_image": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+   "excerpt": "A Wesleyan Media Project analysis found 220 AI-assisted midterm ads in 34 states worth over $137 million, only 27% with a disclaimer; 30 states require AI disclosure and New York Democrats filed a state complaint.",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#2ec5c5",
    "motif": "cube",
-   "rationale": "A former NSC official proposes extending chip export controls to DUV lithography, which would affect AI compute supply. It is not commentary on a story we already published. Present it as Khan's argued proposal and attribute it to him, not as a government decision."
+   "rationale": "New Wesleyan Media Project data on how often AI-generated campaign ads carry a disclosure, measured against 30 state disclosure laws. It is a different story from the 10-16 Axios piece on AI-safety campaign money. Attribute the figures to Wesleyan, report the NY complaint as filed by the named party, and leave out horse-race framing."
   },
   {
-   "url": "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/",
-   "title": "What the West can learn from AI optimists in the rest of the world",
-   "source": "Rest of World",
+   "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
+   "title": "China proposes export controls on its advanced AI models and chip designs",
+   "source": "The Next Web",
    "category": "politics",
-   "axis": "elections",
-   "published_iso": "2026-10-15T10:00:00+00:00",
-   "og_image": "https://restofworld.org/wp-content/uploads/2026/10/illo_tech_optimism_final.jpg",
-   "excerpt": "Public opinion on AI diverges sharply: enthusiastic, necessity-driven adoption in the developing world contrasts with an anxiety-ridden West.",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-16T13:08:12+00:00",
+   "og_image": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg",
+   "excerpt": "MOFCOM and MOST's draft revision of China's export-control technology catalogue adds 23 AI technologies, from model weights to AI chip designs; public comments close November 15.",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#ff5a4d",
    "motif": "cube",
-   "rationale": "Replacement pick. It covers the public-opinion axis, which had no other pick today: Rest of World compares how attitudes to AI differ between the developing world and the West. This is analysis, not a decision, so the copy should present it as Rest of World's reading of survey and field evidence, attribute it, and stay neutral. It does not repeat the 10-13 US 'chatbot refuseniks' survey card or the 10-17 Rest of World open-weight models card."
+   "rationale": "An official MOFCOM/MOST draft catalogue that would put model weights and AI chip designs under export control, with public comments open until November 15. This is the news report of the draft; the Geopolitechs analysis of the same draft was dropped. The draft is the primary document, so cite it."
   }
  ],
- "alternates": [],
+ "alternates": [
+  "https://www.taiwannews.com.tw/news/6459737",
+  "https://www.business-standard.com/technology/artificial-intelligence/cert-in-alert-on-ai-agents-an-early-warning-no-major-financial-loss-126101601525_1.html",
+  "https://www.rappnews.com/government/data-center-moratorium-bills-stack-up-ahead-of-virginia-legislative-session-in-january-3c355d0c"
+ ],
  "dedup": {
   "checks": {
-   "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment": {
+   "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654": {
     "verdict": "new",
-    "nearest": "https://zdnet.co.kr/view/?no=20261002190003",
+    "nearest": "https://www.ciodive.com/news/house-proposal-clarify-liability-rules-ai-agents/832794/",
     "new_action": ""
    },
-   "https://www.euronews.com/2026/10/17/north-korea-says-it-tested-new-ai-powered-torpedo-system": {
+   "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run": {
+    "verdict": "follow-up",
+    "nearest": "https://calmatters.org/economy/technology/2026/09/on-ai-newsom-gives-labor-only-some-of-what-it-demanded/",
+    "new_action": "Newsom signed a new executive order requiring independent verification of AI models, creating an expert committee on AI-agent kill switches, and asking Cal OES for recommendations by Nov 15. The 10-03 card covered his bill signings and vetoes."
+   },
+   "https://jurinews.com.br/en/justica-eleitoral/tse-determines-that-meta-treat-lula-and-flavio-campaigns-equally-under-fine-of-r-500-thousand": {
+    "verdict": "follow-up",
+    "nearest": "https://techpolicy.press/meta-moderation-failures-loom-over-brazils-runoff-presidential-election",
+    "new_action": "TSE Minister Bellizze issued a ruling ordering Meta to treat both campaigns equally, including in Meta AI image generation, under a R$500,000 fine. The 10-16 card was analysis written before any ruling."
+   },
+   "https://gizmodo.com/137-million-has-been-spent-on-ai-generated-ads-ahead-of-midterms-only-27-included-a-disclaimer-2000827138": {
     "verdict": "new",
-    "nearest": "https://en.yna.co.kr/view/AEN20261012006500315",
+    "nearest": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
     "new_action": ""
    },
-   "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls": {
+   "https://thenextweb.com/news/china-ai-export-controls-draft": {
     "verdict": "new",
-    "nearest": "https://cset.georgetown.edu/article/tracking-ai-chips-what-does-it-cost/",
-    "new_action": ""
-   },
-   "https://restofworld.org/2026/west-ai-anxiety-optimism-innovation/": {
-    "verdict": "new",
-    "nearest": "https://www.theregister.com/ai-and-ml/2026/10/12/chatbot-refuseniks-edge-out-users-in-the-us-and-theyre-not-for-turning/5302690",
+    "nearest": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
     "new_action": ""
    }
   },
-  "note": "Swap 10-18 (second re-curation): removed Axios 'D.C. lawmakers target AI house-fishing in real estate listings' and its dedup entry. Every fetch method got a 403, and the story is not in RSS, not in Wayback and not covered by any other outlet, so it is unverifiable. The replacement is CJR 'An AI Company Wanted to Buy My Reporting Notes'. Its history_match (related, 0.165) is the 9-29 WIRED OpenAI-pause card, which is a different story about rogue agents. The closest published item by content is the 10-07 Yonhap card on Japanese publishers objecting to used books being bulk-sold for US AI training. That is the same theme (sourcing AI training data) but a different event, different actors and a different country, so it is not the same story. The CJR piece is also distinct from today's Meta terms-of-service scraping items (cluster c0, assigned to marketing): Meta's terms are a platform contract change, while CJR is a data buyer approaching an individual reporter. Borderline note: CJR is a feature with no decision or filing. It is kept because it is the only remaining candidate that passes the delete-AI test, is neutral, is verifiable (RSS pubDate) and is not a running-story repeat. Every other remaining candidate was rejected: Verge Trump AI-edited photo (an opinion column, partisan-framing risk); Register UK Cyber Security Bill (excluded, same-story repeat of the 10-15 GOV.UK card); Ars OpenAI crypto-wallet hacks (more incidents in the 9-29 rogue-agent running story, no new official action); Ars NJ prosecutor AI CSAM (excluded, individual criminal case); Axios geothermal (fails the delete-AI test, and Axios returns 403); WIRED 'AI hacks leave a mess' (liability analysis on the same running story); Tech Policy Press image-authentication op-ed (vendor-authored opinion); ChinaTalk Chinese lab product-lead interview (interview with no event, and it would be a second ChinaTalk card); Meta terms items from The Verge and Nieman Lab (assigned to marketing). Diversity: 5 distinct outlets (The Verge, CJR, Euronews, ChinaTalk, Rest of World). Axes: policy x2, geopolitics x2, public opinion x1. Each pick has a distinct palette accent; the CJR card takes #0070f3, which the removed Axios card freed up. Cross-section check: Apple App Store guidelines could also appear in gadgets, and CJR should be checked against marketing's Meta-scraping pick and against books. | Orchestrator: CJR replacement dropped after review (practice report, no decision/filing — below the politics bar); politics ships 4."
+  "note": "Politics 10-19, curator chose the picks (the user deferred). Within-pool duplicates: the Geopolitechs analysis of China's draft AI export controls was dropped because TNW covers the same draft. The Taiwan News chip-export item shares cluster c17, but it is a separate Taiwanese decision; it is kept as the first alternate and was left out only to spread the axes. Dropped as commentary or roundups: all three Tech Policy Press items (the OpenAI lawsuits roundup repeats the 10-15 eight-state suit; the EU liability interview repeats the 10-08 Politico EU card; the weekly roundup). Dropped as same-story or near-repeat: the Daily Caller/AOL piece on the White House task force charter and FTC (the charter was published 10-07 via Politico EU; the Ferguson role is extra detail, and the source is partisan when a primary document is available); TNW MI5 AI threat centre (overlaps the 10-15 GOV.UK 'Britain steps up national defences against growing AI risks' card and the 10-14 WIRED MPs card); Ars OpenAI crypto-wallet hacks (more incidents in the 9-29 rogue-agent running story, no new official action). Dropped as weak fits: Philly delivery-robot arrest, vibe-coded gun, WIRED data-center PR, Ars NJ prosecutor AI CSAM (individual criminal case), Ars Anthropic/METR access (a corporate governance arrangement, not a policy decision), Verge robotaxi city laws (fails the AI-is-the-driver test: these are AV traffic rules), Mississippi Free Press AI ad (a single campaign ad; the Gizmodo/Wesleyan data card covers that axis better). Alternates: Taiwan chip export controls, India CERT-In advisory, Virginia data-center moratorium bills. Diversity: 5 distinct outlets (POLITICO, Al Jazeera, JuriNews, Gizmodo, TNW). Axes: policy x2, elections x2, geopolitics x1. Each pick has a distinct palette accent. Cross-section: no obvious overlap with marketing, though the Gizmodo AI-ads item touches political advertising, so check that marketing did not pick it."
  }
 }

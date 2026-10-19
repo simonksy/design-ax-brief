@@ -1,130 +1,158 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "movies",
-  "generated_at": "2026-10-17T22:00:34Z",
-  "now_iso": "2026-10-17T22:00:34Z",
   "window_hours": 336,
-  "count": 18,
+  "now_iso": "2026-10-19T01:00:00Z",
   "items": [
     {
-      "title": "Can AI Make a Sci-Fi Series for $38,000? Artlist's 'The Arc' Puts It to the Test",
-      "url": "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/",
-      "source": "IndieWire",
-      "published_iso": "2026-10-16T22:35:10+00:00",
-      "excerpt": "Artlist's AI-made sci-fi series 'The Arc' tests whether generative tools can deliver a watchable series on a $38,000 budget.",
-      "og_image": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=650",
+      "title": "How Asian Directors Wrap Kling AI Into Their Workflows",
+      "url": "https://deadline.com/2026/10/worm-train-asian-directors-wrap-kling-ai-busan-1237155797/",
+      "source": "Deadline",
       "category": "movies",
+      "published_iso": "2026-10-14T10:28:20Z",
+      "excerpt": "Partner Content: 'Worm Train' from writer-director Sung-Soo Kim launched at the Asian Contents & Film Market during the 31st Busan Int'l Film Festival",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/10/LinkedIn-1-Kling-AI-Photo-1500.jpg?w=1024",
       "history_match": {
-        "score": 0.223,
-        "date": "2026-10-12",
-        "url": "https://variety.com/2026/film/markets-festivals/sci-fi-thriller-overstake-generative-ai-rebuild-busan-market-1236907993/",
-        "title": "Sci-Fi Thriller ‘Overstake’ Gets Generative AI Rebuild, Boarded by Cappu Films at Busan Market (EXCLUSIVE)",
+        "score": 0.297,
+        "date": "2026-10-15",
+        "url": "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
+        "title": "Busan's Asian Contents & Film Market evolves with added focus on AI and microdramas",
         "band": "related"
+      }
+    },
+    {
+      "title": "AI Tools Bring Efficiencies But Have Limitations, Says Weta CTO Kimball Thurston: “Tech Companies Should Collaborate More With Creatives”",
+      "url": "https://deadline.com/2026/10/netflix-ai-weta-fx-kimball-thurston-run-to-the-west-1237153889/",
+      "source": "Deadline",
+      "category": "movies",
+      "published_iso": "2026-10-10T10:04:57Z",
+      "excerpt": "Thurston, Korean filmmaker Kang Yun-sung & Netflix’s Sung Q Lee discussed the advantages and limitations of using AI tools in production workflows",
+      "og_image": "https://deadline.com/wp-content/uploads/2026/10/AI-PANEL.jpg?w=1024",
+      "history_match": {
+        "score": 0.24,
+        "date": "2026-10-15",
+        "url": "https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/",
+        "title": "AI Can Cut Film Budgets by Up to 40%, Says 'The Outlaws' Director Kang Yoon-sung, as Netflix Reveals Use on 300 Titles: 'A Human Touch Is Absolutely Essential'",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Netflix Has Used AI on About 300 Titles, but “Human Touch Is Critical,” Exec Says in Busan",
+      "url": "https://www.hollywoodreporter.com/business/business-news/netflix-ai-300-titles-busan-film-fest-1236727138/",
+      "source": "The Hollywood Reporter",
+      "category": "movies",
+      "published_iso": "2026-10-11T05:12:50Z",
+      "excerpt": "Netflix’s Asia-Pacific production head Sung Q Lee, ‘The Outlaws’ director Kang Yun-sung and Wētā FX's Kimball Thurston discussed creative possibilities, production savings and the limits of AI at the streamer’s Creative Asia event in Busan.",
+      "og_image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/AI-in-Filmmaking_2.jpg?w=1296&h=730&crop=1",
+      "history_match": {
+        "score": 0.457,
+        "date": "2026-10-15",
+        "url": "https://variety.com/2026/tv/festivals/netflix-ai-300-titles-kang-yoon-sung-40-percent-budget-busan-1236907359/",
+        "title": "AI Can Cut Film Budgets by Up to 40%, Says 'The Outlaws' Director Kang Yoon-sung, as Netflix Reveals Use on 300 Titles: 'A Human Touch Is Absolutely Essential'",
+        "band": "likely-repeat"
       }
     },
     {
       "title": "Alex Gibney on How a CGI Avatar Helped Simulate the Elon Musk Interview He Could Never Get",
       "url": "https://www.indiewire.com/features/podcast/alex-gibney-elon-musk-documentary-simulated-ai-interview-1235222409/",
       "source": "IndieWire",
-      "published_iso": "2026-10-16T17:00:00+00:00",
-      "excerpt": "Alex Gibney explains using an AI/CGI avatar to simulate an Elon Musk interview in his documentary 'Musk' — using artificial intelligence to critique it.",
+      "category": "movies",
+      "published_iso": "2026-10-16T17:00:00Z",
+      "excerpt": "Alex Gibney talks about using artificial intelligence to critique it for his Elon Musk documentary, 'Musk,' on IndieWire's 'Screen Talk' podcast.",
       "og_image": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
-      "category": "movies"
-    },
-    {
-      "title": "'IvyBears' Hits Cannes After YouTube Breakout, Spawns Animated Feature Project",
-      "url": "https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/",
-      "source": "Variety",
-      "published_iso": "2026-10-13T09:16:52+00:00",
-      "excerpt": "IvyBears goes brand-to-content with a series and an animated feature project, in a 'reverse flywheel' approach powered by AI and artists alike.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/1-e1791806192911.png?w=1000&h=563&crop=1",
-      "category": "movies"
-    },
-    {
-      "title": "Open to AI: Hollywood Is Embracing Artificial Intelligence Tools Despite Doomsday Fears",
-      "url": "https://variety.com/2026/digital/features/ai-hollywood-embraces-artificial-intelligence-1236909213/",
-      "source": "Variety",
-      "published_iso": "2026-10-13T15:00:00+00:00",
-      "excerpt": "Despite doomsday fears, Hollywood productions are slowly adopting AI tools across the pipeline — a Variety feature on why.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/AI-Placeholder-Directors-Hollywood-Production.jpg?crop=0px%2C484px%2C1500px%2C843px&resize=1000%2C563",
-      "category": "movies"
-    },
-    {
-      "title": "Fan Bingbing Says Young Chinese Audiences 'Aren't Being Fed Very Well' as AI Microdramas Boom",
-      "url": "https://variety.com/2026/film/festivals/fan-bingbing-ai-microdramas-park-chan-wook-busan-1236906307/",
-      "source": "Variety",
-      "published_iso": "2026-10-09T03:24:57+00:00",
-      "excerpt": "At Busan, Fan Bingbing questioned the value of the booming AI-generated microdrama format for Chinese audiences.",
-      "og_image": "https://variety.com/wp-content/uploads/2026/10/Fan-Bingbing-Busan.jpg?w=1000&h=563&crop=1",
-      "category": "movies"
-    },
-    {
-      "title": "How Asian Directors Wrap Kling AI Into Their Workflows (Partner Content)",
-      "url": "https://deadline.com/2026/10/worm-train-asian-directors-wrap-kling-ai-busan-1237155797/",
-      "source": "Deadline",
-      "published_iso": "2026-10-14T10:28:20+00:00",
-      "excerpt": "Partner content: Kim Sung-soo's Kling AI-made 'Worm Train' launched at ACFM Busan; Asian directors describe how they fold Kling into production. NOTE: sponsored.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/10/LinkedIn-1-Kling-AI-Photo-1500.jpg?w=1024",
-      "category": "movies",
       "history_match": {
-        "score": 0.267,
+        "score": 0.173,
+        "date": "2026-09-28",
+        "url": "https://deadline.com/2026/09/musk-producer-atwater-magnific-ai-zurich-summit-1237114419/",
+        "title": "'Musk' Producer, Atwater-Magnific Exec & 'Gods Don't Give Gifts' Director Talk AI: \"It's Important To Get In The Driver's Seat\" — Zurich Summit",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Antonio Banderas to star in AI-enabled historical drama about conquest of Aztec empire",
+      "url": "https://www.screendaily.com/news/antonio-banderas-to-star-in-ai-enabled-historical-drama-about-conquest-of-aztec-empire/5221357.article",
+      "source": "Screen Daily",
+      "category": "movies",
+      "published_iso": "2026-10-12T14:00:00Z",
+      "excerpt": "'Cortés' is now shooting in Paris and will move to Spain.",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/0/0/1489700_antoniobanderascortes_70626_crop.jpeg",
+      "history_match": {
+        "score": 0.373,
         "date": "2026-10-13",
-        "url": "https://deadline.com/2026/10/ai-filmmaking-kling-ai-kim-sung-soo-mbc-busan-1237154243/",
-        "title": "AI Productions Require Traditional Skills To Be Cinematic, Say Filmmakers On Kling AI Panel: “You Need Experts To Prevent Everything Looking The Same”",
+        "url": "https://variety.com/2026/film/news/antonio-banderas-ai-powered-feature-cortes-utopai-studios-1236908962/",
+        "title": "Antonio Banderas to Star in AI-Powered Feature ‘Cortes’ From Utopai Studios",
         "band": "related"
       }
     },
     {
-      "title": "BBC's Kate Phillips On AI, YouTube & 'Blue Planet III'",
-      "url": "https://deadline.com/2026/10/bbc-kate-phillips-on-ai-youtube-blue-planet-iii-1237155480/",
-      "source": "Deadline",
-      "published_iso": "2026-10-13T10:56:08+00:00",
-      "excerpt": "BBC content chief Kate Phillips says the broadcaster will never 'lie to the audience' over AI, following the DG's AI 'Doctor Who' comment at MIPCOM.",
-      "og_image": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
-      "category": "movies",
-      "history_match": {
-        "score": 0.166,
-        "date": "2026-10-03",
-        "url": "https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/",
-        "title": "BBC Boss Matt Brittin Says He Was Sent A 'Doctor Who' Episode Entirely Generated By AI",
-        "band": "related"
-      }
-    },
-    {
-      "title": "FilmFest Cottbus selects AI-generated feature 'A Woman Asleep' for main competition",
-      "url": "https://www.screendaily.com/news/filmfest-cottbus-selects-ai-generated-feature-a-woman-asleep-for-main-competition/5220948.article",
+      "title": "Danny Boyle says he would use AI again despite ‘Ink’ criticism: “It’s a no-brainer”",
+      "url": "https://www.screendaily.com/news/danny-boyle-says-he-would-use-ai-again-despite-ink-criticism-its-a-no-brainer/5221381.article",
       "source": "Screen Daily",
-      "published_iso": "2026-10-16T09:16:00+00:00",
-      "excerpt": "Vikki Bardot's AI-generated feature 'A Woman Asleep' is one of 10 films in FilmFest Cottbus' main competition — a festival-selection milestone for AI features.",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/6/6/7/1488667_awomanasleepstills2_665445_crop.jpg",
       "category": "movies",
+      "published_iso": "2026-10-13T08:38:00Z",
+      "excerpt": "\"I wouldn't replace actors with it unless I had a very specific use,\" he told Screen.",
+      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/7/4/4/1489744_emc_3876_8raa5tlg_20261012084503_935470_crop.jpeg",
       "history_match": {
-        "score": 0.288,
-        "date": "2026-09-26",
-        "url": "https://variety.com/2026/film/festivals/turkish-baska-sinema-ai-generated-a-woman-asleep-1236871817/",
-        "title": "Turkish Distributor Baska Sinema Boards AI-Generated Feature 'A Woman Asleep' for Theatrical Release",
+        "score": 0.206,
+        "date": "2026-10-10",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/danny-boyle-explains-ink-ai-thatcher-murdoch-obsession-1236726086/",
+        "title": "Danny Boyle Shares Why He Used AI for Maggie Thatcher in ‘Ink’ – Without Asking Her Estate and His Love for ‘Obsession’ and ‘Backrooms’",
         "band": "related"
       }
     },
     {
-      "title": "My Screen Life: Taiwanese producer Patrick Mao Huang on spotting new talent and embracing AI",
-      "url": "https://www.screendaily.com/features/my-screen-life-taiwanese-producer-patrick-mao-huang-on-spotting-new-talent-and-embracing-ai/5221306.article",
-      "source": "Screen Daily",
-      "published_iso": "2026-10-12T00:01:00+00:00",
-      "excerpt": "Taiwanese producer Patrick Mao Huang on the transformational impact of AI on storytelling and production.",
-      "og_image": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/5/8/7/1489587_patrickmaohuanginhisoffice1_536722_crop.jpg",
-      "category": "movies"
+      "title": "An AI-Generated Trailer Won the Inaugural $2.5 Million Future Vision XPRIZE — and Its Director Hopes It’ll Change Minds About AI",
+      "url": "https://variety.com/2026/biz/news/an-ai-generated-trailer-the-gifted-future-vision-xprize-1236907106/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-10-09T22:29:25Z",
+      "excerpt": "“Jeff Synthesized\" took home the $2.5 million “Future Vision XPRIZE” last month with the AI-generated proof-of-concept trailer for “The Gifted.”",
+      "og_image": "https://variety.com/wp-content/uploads/2026/10/BZ8_0888.jpg?w=1000&h=563&crop=1",
+      "history_match": {
+        "score": 0.412,
+        "date": "2026-09-30",
+        "url": "https://deadline.com/2026/09/the-gifted-ai-future-vision-xprize-range-media-google-1237116088/",
+        "title": "'The Gifted' Wins Inaugural Future Vision XPRIZE",
+        "band": "likely-repeat"
+      }
+    },
+    {
+      "title": "Brad Bird’s ‘Ray Gunn,’ ‘Toy Story 5’ and Roger Deakins Lead View Conference Lineup as AI Debate Takes Center Stage",
+      "url": "https://variety.com/2026/global/global/view-conference-2026-brad-bird-roger-deakins-ai-debate-1236905539/",
+      "source": "Variety",
+      "category": "movies",
+      "published_iso": "2026-10-09T11:27:49Z",
+      "excerpt": "Brad Bird, Roger Deakins and 'Toy Story 5,' 'The Odyssey' and 'Spider-Man: Brand New Day' teams head to Turin Oct. 12-16 for the 27th View Conference.",
+      "og_image": "https://variety.com/wp-content/uploads/2026/06/Ray-Gunn.jpg?w=1000&h=563&crop=1"
+    },
+    {
+      "title": "Nvidia’s Editor’s Day: New Windows-Based RTX Spark Computers",
+      "url": "https://postperspective.com/nvidias-editors-day-new-windows-based-rtx-spark-computers/",
+      "source": "postPerspective",
+      "category": "movies",
+      "published_iso": "2026-10-15T16:58:14Z",
+      "excerpt": "By Mike McCarthy  Last week, I had the opportunity to attend Nvidia’s “Editor’s Day” in San Francisco, which was the company’s lead-up to the launch of its RTX Spark line of laptops and desktops. It was a day of presentations about AI, how the new hardware enables local AI processing and the benefit",
+      "og_image": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+    },
+    {
+      "title": "Adobe RTX Spark: Photoshop, Premiere, Frame.io",
+      "url": "https://www.redsharknews.com/adobe-nvidia-rtx-spark-frame-io-photoshop-premiere",
+      "source": "RedShark News",
+      "category": "movies",
+      "published_iso": "2026-10-16T05:51:33Z",
+      "excerpt": "Adobe and NVIDIA bring RTX Spark optimization to Frame.io and Substance 3D, with claimed 2x gains in Photoshop and Premiere.",
+      "og_image": "https://www.redsharknews.com/hubfs/adobe%20nvidia%20Light%20leaks.jpg"
     },
     {
       "title": "Adobe and NVIDIA Expand Collaboration to Further Optimize Agentic Creation With Its Flagship Tools",
       "url": "https://nofilmschool.com/adobe-nvidia-partnership-expansion",
       "source": "No Film School",
-      "published_iso": "2026-10-16T19:30:03+00:00",
-      "excerpt": "Adobe and NVIDIA add RTX Spark optimizations for agentic creation in Photoshop, Premiere, Frame.io and Substance 3D.",
-      "og_image": "https://nofilmschool.com/media-library/image.webp?id=68452943&width=1200&height=600&coordinates=144%2C0%2C144%2C0",
       "category": "movies",
+      "published_iso": "2026-10-16T19:30:03Z",
+      "excerpt": "Adobe and NVIDIA continue to double down on AI with new optimizations for agentic creation in Adobe’s flagship tools, including Photoshop, Premiere, Substance 3D, and more.",
+      "og_image": "https://nofilmschool.com/media-library/image.webp?id=68452943&width=1200&height=600&coordinates=144%2C0%2C144%2C0",
       "history_match": {
-        "score": 0.219,
+        "score": 0.226,
         "date": "2026-09-25",
         "url": "https://nofilmschool.com/adobe-in-gemini",
         "title": "Adobe Expands Its AI Integrations to Gemini, Plus Further Powers Up With Claude",
@@ -132,129 +160,66 @@
       }
     },
     {
-      "title": "Tech Reviews: Gaomon PD1561 V2, Foundry SmartRoto, Huion Kamvas Pro 24",
-      "url": "https://www.animationmagazine.net/2026/10/tech-reviews-gaomon-pd1561-v2-foundry-smartroto-huion-kamvas-pro-24/",
-      "source": "Animation Magazine",
-      "published_iso": "2026-10-16T22:00:06+00:00",
-      "excerpt": "Monthly animation/VFX tech review covering Foundry's AI-assisted SmartRoto Nuke add-on for rotoscoping alongside two pen displays.",
-      "og_image": "https://www.animationmagazine.net/wordpress/wp-content/uploads/Gaomon-PD1561-V2.jpg",
-      "category": "movies"
+      "title": "ArtCraft Releases Free Open-Source Adobe Alternatives – FilmCraft for Premiere Pro, EffectCraft for After Effects, Written in Rust With AI",
+      "url": "https://www.cined.com/artcraft-releases-free-open-source-adobe-alternatives-filmcraft-for-premiere-pro-effectcraft-for-after-effects-written-in-rust-with-ai/",
+      "source": "CineD",
+      "category": "movies",
+      "published_iso": "2026-10-12T09:36:45Z",
+      "excerpt": "ArtCraft releases free open-source Adobe alternatives built with AI, with FilmCraft for Premiere Pro.",
+      "og_image": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg"
     },
     {
       "title": "Hollywood Animation Directors On Distribution, Sequels, And AI",
       "url": "https://www.cartoonbrew.com/events/view-conference-joel-crawford-januel-mercado-mckenna-harris-tyree-dillihay-267957.html",
       "source": "Cartoon Brew",
-      "published_iso": "2026-10-15T09:54:47+00:00",
-      "excerpt": "At View Conference, directors of 'GOAT,' 'Forgotten Island' and 'Toy Story 5' discussed the box office, original storytelling and, unavoidably, AI.",
-      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Directors.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Nvidia's Editor's Day: New Windows-Based RTX Spark Computers",
-      "url": "https://postperspective.com/nvidias-editors-day-new-windows-based-rtx-spark-computers/",
-      "source": "postPerspective",
-      "published_iso": "2026-10-15T16:58:14+00:00",
-      "excerpt": "Mike McCarthy reports from Nvidia's Editor's Day on how RTX Spark hardware enables local on-device AI processing for post-production editors.",
-      "og_image": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "Give your stories more ways to take shape with Canvas in Flow Studio",
-      "url": "https://beforesandafters.com/2026/10/14/give-your-stories-more-ways-to-take-shape-with-canvas-in-flow-studio/",
-      "source": "befores & afters",
-      "published_iso": "2026-10-14T10:08:52+00:00",
-      "excerpt": "Autodesk Flow Studio's Canvas gives access to leading AI models to create and refine characters, worlds and shots (sponsored post).",
-      "og_image": "https://beforesandafters.com/wp-content/uploads/2026/10/1920x1080_me_flow-studio_phase-2_meta_3d-editor-and-canvas_try-free_V2.jpg",
       "category": "movies",
-      "history_match": {
-        "score": 0.168,
-        "date": "2026-09-27",
-        "url": "https://www.creativebloq.com/art/animation/how-a-studio-created-an-impossible-animated-symphony-using-autodesks-ai-driven-mocap-tech",
-        "title": "How a studio created an \"impossible\" animated symphony using Autodesk",
-        "band": "related"
-      }
+      "published_iso": "2026-10-15T13:54:47Z",
+      "excerpt": "At View, directors of 'GOAT,' 'Forgotten Island,' and Toy Story 5' discussed the state of the box office, original storytelling, and, unavoidably, AI.",
+      "og_image": "https://www.cartoonbrew.com/wp-content/uploads/2026/10/View-Directors.jpg"
     },
     {
-      "title": "The tech backlash is now in theaters",
-      "url": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "source": "The Verge",
-      "published_iso": "2026-10-15T21:39:52+00:00",
-      "excerpt": "With 'Artificial', 'Musk', 'The Social Reckoning' and 'You Can See Everything', studios are finally making critical films about Big Tech and AI's heavyweights.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&strip=all&crop=0%2C15.21666481007%2C100%2C69.56667037986&w=1200",
-      "category": "movies"
-    },
-    {
-      "title": "Here's how Hollywood is Directing Their AI Films",
-      "url": "https://www.youtube.com/watch?v=BExtQ740QgM",
-      "source": "Curious Refuge (YouTube)",
-      "published_iso": "2026-10-16T11:53:17-07:00",
-      "excerpt": "Curious Refuge and Albert Bozesan show an AI camera-control workflow: Claude drives Blender to block shots that guide AI video generation.",
-      "og_image": "https://i.ytimg.com/vi/BExtQ740QgM/maxresdefault.jpg",
+      "title": "How to use Google's SynthID AI detection website",
+      "url": "https://www.engadget.com/2286802/how-to-use-google-ai-detection-website-synthid/",
+      "source": "Engadget",
       "category": "movies",
-      "history_match": {
-        "score": 0.213,
-        "date": "2026-10-03",
-        "url": "https://www.youtube.com/watch?v=0yv0r5UyzCY",
-        "title": "AI Sound Design Is Here... But Is It Any Good?",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Accounting for the New Economics of VFX",
-      "url": "https://vfxvoice.com/accounting-for-the-new-economics-of-vfx/",
-      "source": "VFX Voice",
-      "published_iso": "2026-10-06T15:56:11+00:00",
-      "excerpt": "Tax incentives, remote pipelines and AI efficiencies are reshaping how VFX work gets bid, staffed and delivered.",
-      "og_image": "https://vfxvoice.com/wp-content/uploads/2026/09/PIX-12-2.jpg",
-      "category": "movies"
-    },
-    {
-      "title": "RevThink's Revolve Accelerator Explores What Clients Value in the Age of AI",
-      "url": "https://motionographer.com/news/revthink-revolve-accelerator-ai-creative-business/",
-      "source": "Motionographer",
-      "published_iso": "2026-10-07T14:03:58+00:00",
-      "excerpt": "RevThink's six-week program for motion-design studio owners explores how AI changes what creative clients value.",
-      "og_image": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/revthink-revolve-accelerator-2026.png?fit=1200%2C425&quality=80&ssl=1",
-      "category": "movies"
+      "published_iso": "2026-10-18T23:30:00Z",
+      "excerpt": "It's a simple way to check whether an image has been created or manipulated, with a few caveats.",
+      "og_image": "https://www.engadget.com/img/gallery/how-to-use-googles-synthid-ai-detection-website/l-intro-1791998472.jpg"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 18,
+    "kept": 16,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [],
-    "review": 7,
+    "dropped": [
+      {
+        "url": "https://deadline.com/2026/10/bbc-staff-concerns-matt-brittin-ai-doctor-who-1237149848/",
+        "title": "BBC Staff Concerned About Matt Brittin Praise For AI 'Doctor Who'",
+        "match": {
+          "score": 0.501,
+          "date": "2026-10-03",
+          "url": "https://deadline.com/2026/09/doctor-who-ai-episode-bbc-matt-brittin-pretty-good-1237116025/",
+          "title": "BBC Boss Matt Brittin Says He Was Sent A 'Doctor Who' Episode Entirely Generated By AI"
+        }
+      },
+      {
+        "url": "https://variety.com/2026/tv/news/nicolas-cage-ai-waiver-amazon-spider-noir-1236907564/",
+        "title": "Nicolas Cage Says He’s ‘Probably Not’ Working With Amazon Again After Refusing to Sign AI Waiver for ‘Spider-Noir,’ Teases Joining ‘True Detective’",
+        "match": {
+          "score": 0.729,
+          "date": "2026-10-11",
+          "url": "https://deadline.com/2026/10/nicolas-cage-new-york-comic-con-spider-noir-true-detective-1237154069/",
+          "title": "Nicolas Cage Didn't Sign AI Waiver For 'Spider-Noir' & \"Probably\" Won't Work Again With \"AI-Friendly\" Amazon"
+        }
+      }
+    ],
+    "review": 8,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-18",
-      "title": "Adobe Unveils Photoshop Elements and Premiere Elements 2027 With New AI-Powered Capabilities",
-      "url": "https://nofilmschool.com/adobe-premiere-elements-2027"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "The Old & New Hollywood Guard Wielding AI’s Might",
-      "url": "https://variety.com/2026/film/news/ai-hollywood-particle-6-higgsfield-innovative-runway-1236865085/"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "‘About a Hero,’ AI-Generated Docu-Mystery Featuring Synthetic Werner Herzog, Debuts Trailer — Watch",
-      "url": "https://www.indiewire.com/news/trailers/about-a-hero-ai-generated-werner-herzog-trailer-documentary-1235217264/"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "This Cinematic AI Film Workflow Changes Everything",
-      "url": "https://www.youtube.com/watch?v=WKO-YgMQhLI"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Runway is now in Adobe",
-      "url": "https://www.youtube.com/watch?v=gkuRNUkYbJA"
-    },
     {
       "date": "2026-09-19",
       "title": "Tilly Norwood Malfunctions During Piers Morgan Interview: “Seems I Had A Little Hiccup”",
@@ -909,6 +874,31 @@
       "date": "2026-10-17",
       "title": "CorridorKey 2.0 just works...",
       "url": "https://www.youtube.com/watch?v=godomkRXBLE"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "'IvyBears' Hits Cannes After YouTube Breakout, Spawns Animated Feature Project",
+      "url": "https://variety.com/2026/tv/global/ivybears-series-feature-animation-ai-mipcom-moontrail-1236908753/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Tech Reviews: Gaomon PD1561 V2, Foundry SmartRoto, Huion Kamvas Pro 24",
+      "url": "https://www.animationmagazine.net/2026/10/tech-reviews-gaomon-pd1561-v2-foundry-smartroto-huion-kamvas-pro-24/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Can AI Make a Sci-Fi Series for $38,000? Artlist's 'The Arc' Puts It to the Test",
+      "url": "https://www.indiewire.com/features/craft/artlist-the-arc-tests-if-ai-can-make-sci-fi-series-1235222447/"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "FilmFest Cottbus selects AI-generated feature 'A Woman Asleep' for main competition",
+      "url": "https://www.screendaily.com/news/filmfest-cottbus-selects-ai-generated-feature-a-woman-asleep-for-main-competition/5220948.article"
+    },
+    {
+      "date": "2026-10-18",
+      "title": "Here's how Hollywood is Directing Their AI Films",
+      "url": "https://www.youtube.com/watch?v=BExtQ740QgM"
     }
   ]
 }

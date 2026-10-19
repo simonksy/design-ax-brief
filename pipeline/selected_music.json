@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "music",
   "picks": [
     {
-      "url": "https://musically.com/2026/10/15/suno-made-track-the-adult-i-dreamed-of-is-a-hit-in-south-korea/",
-      "source": "Music Ally",
-      "title": "Suno-made track 'The Adult I Dreamed Of' is a hit in South Korea",
+      "url": "https://www.youtube.com/watch?v=WtPiZ0ym13k",
+      "source": "ElevenLabs (YouTube)",
+      "title": "Introducing Instant Soundtracks",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "A second Suno-generated song is now a streaming hit in South Korea, a month after 'Forest of the Heart' entered Melon's Top 100. That makes AI chart success in Korea a pattern rather than a one-off.",
-      "published_iso": "2026-10-15T12:30:00+00:00",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-15T112855.400.png?fit=2000%2C1500&ssl=1",
-      "excerpt": "A Suno-generated song, 'The Adult I Dreamed Of', has become a streaming hit in South Korea, following last month's debate after the AI track 'Forest of the Heart' entered Melon's Top 100."
+      "rationale": "This is a new ElevenLabs release: upload a video and it writes an original score and places SFX as separate, editable timeline layers, across ElevenCreative, ElevenMusic and the API. It changes how sound for video gets roughed in.",
+      "published_iso": "2026-10-15T12:01:07-07:00",
+      "og_image": "https://i.ytimg.com/vi/WtPiZ0ym13k/maxresdefault.jpg",
+      "excerpt": "ElevenLabs launched Instant Soundtracks in ElevenCreative, ElevenMusic and the API: upload a video and the model scores it with original music, then detects moments that need sound effects and places them on the timeline as separately editable layers; existing audio can be used as a reference for genre, tempo or instrumentation."
     },
     {
-      "url": "https://www.youtube.com/watch?v=DY5QI4idlRU",
-      "source": "INITIAL AUDIO (YouTube)",
-      "title": "Initial Audio Difro 2: free AI MIDI melody generator, retrained from scratch",
+      "url": "https://www.guitarworld.com/gear/amp-modeler-pedals/zoom-neurig",
+      "source": "Guitar World",
+      "title": "Zoom Neurig: a $300 touchscreen amp modeler with NAM capture support and AI stem separation",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Difro 2 is a new major version with a model retrained from the ground up, and it stays free. Producers can put it straight into a DAW workflow.",
-      "published_iso": "2026-10-16T15:12:03-07:00",
-      "og_image": "https://i.ytimg.com/vi/DY5QI4idlRU/maxresdefault.jpg",
-      "excerpt": "Initial Audio launches Difro 2, a free AI MIDI melody generator with a model retrained from the ground up, shown in a first-look demo."
+      "rationale": "Zoom is bringing Neural Amp Modeler profiles and on-device AI stem separation to a $300 multi-effects unit. That puts ML-based tone capture into budget hardware.",
+      "published_iso": "2026-10-12T14:58:56Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
+      "excerpt": "Is this affordable do-it-all multi-effects from Zoom about to shake up the modeler market?"
     },
     {
-      "url": "https://www.gearnews.com/line-6-releases-helix-stadium-guitar/",
-      "source": "Gearnews",
-      "title": "Line 6 Helix Stadium 1.4 adds on-board stem separation",
-      "tool": "Music",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "Firmware 1.4 puts ML stem separation inside a mainstream guitar processor, so players can isolate parts of a backing track on the unit itself.",
-      "published_iso": "2026-10-14T11:31:22+02:00",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2025/10/Helix_Update_13_Teaser.jpg",
-      "excerpt": "Line 6 Helix Stadium firmware 1.4 adds new amps and effects plus an on-board stem separation feature that lets guitarists isolate parts of backing tracks."
-    },
-    {
-      "url": "https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/",
-      "source": "Bedroom Producers Blog",
-      "title": "BPB starts filtering low-quality AI-built plugins from its news, opens reader poll",
+      "url": "https://www.hypebot.com/rocketship-maps-a-songs-listeners-before-release-for-free/",
+      "source": "Hypebot",
+      "title": "Rocketship maps a song's likely listeners before release, for free",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "A major plugin news outlet is changing its editorial policy because of the flood of AI-coded plugins. Developers who rely on BPB coverage will feel that directly.",
-      "published_iso": "2026-10-17T12:00:00+00:00",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/10/aipoll.jpg",
-      "excerpt": "BPB says the flood of plugins built with AI coding tools has lowered average quality and it is now filtering low-quality AI-generated software from its news; a reader poll on AI in music software runs to Oct 20."
+      "rationale": "A newly launched free tool uses AI to identify a track's target audience before release. Indie artists get pre-release targeting data they could not get before without a label.",
+      "published_iso": "2026-10-15T13:39:06.000Z",
+      "og_image": "https://images.unsplash.com/photo-1593697725250-6a184f4e9ed0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxzb25nd3JpdGVyfGVufDB8fHx8MTc5MTkxMDAyMHww&ixlib=rb-4.1.0&q=80&w=2000",
+      "excerpt": "Rocketship gives indie artists major-label level data, using AI to identify target audiences for songs before release or spending a dime."
     },
     {
-      "url": "https://arxiv.org/abs/2610.15350",
+      "url": "https://www.guitarworld.com/gear/studio-recording-equipment/neko-engineering-neko-pocket-studio",
+      "source": "Guitar World",
+      "title": "Neko Pocket Studio: a pocket wireless guitar workstation with NAM tones, stem separation and audio-to-tab",
+      "tool": "Music",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "rationale": "A new device packs NAM playback, recording, stem separation, generative AI features and audio-to-tab transcription into one portable unit for practice and tracking.",
+      "published_iso": "2026-10-16T17:10:40Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
+      "excerpt": "The Neko packs NAM tones, recording, stem separation, GenAI features, wireless connectivity, and audio-to-tab features into one tiny powerhouse"
+    },
+    {
+      "url": "https://arxiv.org/abs/2610.20967",
       "source": "arXiv",
-      "title": "Gugak-VocalSet: the first public dataset of Korean traditional singing for music AI",
+      "title": "MIDI-REPA: aligning text-to-music models with symbolic MIDI structure",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "This is the first open dataset of Korean traditional vocals: 24.5 hours from 20 National Gugak Center singers, with sigimsae ornament annotations. It fills a gap for non-Western singing synthesis and transcription.",
-      "published_iso": "2026-10-11T05:14:13Z",
+      "rationale": "This paper aligns text-to-music audio models with MIDI derived from automatic transcription, a cheaper route to better melody, rhythm and harmony than scaling compute. It was held in reserve on 10-18.",
+      "published_iso": "2026-10-14T21:42:50Z",
       "og_image": "",
-      "excerpt": "Gugak-VocalSet: the first public dataset of Korean traditional singing (24.5h, 305 tracks, 20 professional singers via the National Gugak Center) with dense sigimsae pitch-ornament annotations for music AI."
+      "excerpt": "State-of-the-art text-to-music models increasingly rely on scaling model capacity, data, and compute, while still learning musical structure directly from dense audio. Yet melody, rhythm, harmony, and structure can be represented compactly in symbolic form. We introduce MIDI-REPA, a representation-alignment framework that derives MIDI supervision from automatic music transcript"
     }
   ],
   "dedup": {
     "checks": {
-      "https://musically.com/2026/10/15/suno-made-track-the-adult-i-dreamed-of-is-a-hit-in-south-korea/": {
+      "https://www.youtube.com/watch?v=WtPiZ0ym13k": {
         "verdict": "new",
-        "nearest": "https://isplus.com/article/view/isp202610020003",
+        "nearest": "https://www.youtube.com/watch?v=vGukGg7Q2_g",
         "new_action": ""
       },
-      "https://www.youtube.com/watch?v=DY5QI4idlRU": {
+      "https://www.guitarworld.com/gear/amp-modeler-pedals/zoom-neurig": {
         "verdict": "new",
-        "nearest": "https://bedroomproducersblog.com/2026/09/29/abyzor-genesis-midi/",
+        "nearest": "https://www.gearnews.com/melofty-axom-max-audio-processor-guitar/",
         "new_action": ""
       },
-      "https://www.gearnews.com/line-6-releases-helix-stadium-guitar/": {
+      "https://www.hypebot.com/rocketship-maps-a-songs-listeners-before-release-for-free/": {
         "verdict": "new",
-        "nearest": "https://synthanatomy.com/2026/09/akai-impc-pro-2-ios-macos-update-3-0-brings-auv3-plugin-support-stem-separation-and-more.html",
+        "nearest": "https://musically.com/2026/10/07/humanculture-bags-first-clients-for-its-predictive-intelligence-tech/",
         "new_action": ""
       },
-      "https://bedroomproducersblog.com/2026/10/17/ai-in-music-software-poll/": {
+      "https://www.guitarworld.com/gear/studio-recording-equipment/neko-engineering-neko-pocket-studio": {
         "verdict": "new",
-        "nearest": "https://www.attackmagazine.com/features/long-read/whos-buying-all-these-vibe-coded-plugins/",
+        "nearest": "https://www.youtube.com/shorts/JYs3lzKOruI",
         "new_action": ""
       },
-      "https://arxiv.org/abs/2610.15350": {
+      "https://arxiv.org/abs/2610.20967": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "DIFRO 2 RE-JUDGED: verdict is now 'new'. The 30-day history_digest (09-18 to 10-17) has no Difro or Initial Audio card. The closest match, BPB ABYZOR Genesis (09-30, score 0.159), is a different product from a different developer, and only the category (free AI MIDI generation) overlaps. The original Difro v1 card ran on 2026-09-13, before the 30-day window. Even against that card, Difro 2 is a distinct release: a new major version with a model retrained from scratch. DROPPED: (1) Music Ally Deezer/Playhead: the Deezer AI exclusion was published 10-14 (MBW), and Playhead signal chains on 09-19 (BPB), so it repeats both. (2) ZigZag Suno Speech video: a likely repeat of The Verge Suno Speech card from 10-03. (3) Bob Doyle ACE Studio: a sponsored video. (4) DMN GasLab $1M pre-seed: pure funding news. (5) Music Ally ICMP on Australian AI rules: a reaction in the running Australian AI-copyright story (ARIA card 10-07), with no new government decision. It was also held back on 10-17. (6) Billboard A$AP Rocky and Olivia Rodrigo: celebrity opinions with no new event, and Rodrigo is from 10-07. (7) DMN copyright op-ed: commentary. (8) DMN Furnace Fest AI merch: thin AI angle. RESERVES: arXiv MIDI-REPA and the arXiv joint discrete/continuous song generation paper. Only one arXiv pick is used, to keep the mix news-heavy. Diversity: 5 outlets, one card each, with a distinct palette accent per card. ENRICHMENT FLAGS: the Gearnews og_image path is dated 2025/10 (Helix_Update_13), so confirm that the article is the 2026-10-14 firmware 1.4 release and that stem separation is the feature it describes. The BPB Oct 20 poll deadline is time-sensitive, so check it is still accurate."
+    "note": "SIGNAL-CHAIN CHECK: Zoom Neurig and Neko Pocket Studio were each compared with the 09-27 Melofty Axom Max card and the 10-18 Line 6 Helix Stadium 1.4 card. Both are different products from different makers. Neither uses prompt-built signal chains: their AI angle is NAM capture plus stem separation (and audio-to-tab for Neko), so they are distinct releases. ElevenLabs Instant Soundtracks is a new product launch, not the 09-24 ElevenLabs MCP card or the 09-28 Studio 4.0 card. Rocketship's launch was mentioned only inside the Music Ally 10-14 roundup, which story_dedup removed because it matched the Raye card. Rocketship itself has never run as a card. DROPPED: (1) Music Ally Deezer/Playhead: the Deezer AI exclusion ran 10-14 (MBW) and Playhead effects chains ran 09-19 (BPB), so it repeats both. (2) Music Ally ICMP on Australian AI rules: a reaction in the running Australian AI-copyright story (ARIA card 10-07), with no new government decision. (3) Billboard A$AP Rocky and Olivia Rodrigo stances, and Creative Bloq's Rodrigo video allegations: celebrity opinion or rumour with no new release. (4) Billboard Kid Rock Suno interview: an artist interview about Suno use, with no new release (nearest is the 10-06 Suno albums card). (5) DMN 'Can we sue' op-ed: commentary. (6) DMN Furnace Fest AI merch: thin AI angle. (7) Gearnews 'humanity of instruments': an opinion piece in the vibe-coded-plugin running story (Attack 10-17, BPB 10-18). RESERVE: arXiv joint discrete/continuous song generation paper, plus the MIRA paper. DIVERSITY: 4 outlets, with Guitar World at the cap of 2. Every card has a distinct accent. ENRICHMENT FLAGS: confirm the Neurig price ($300) and NAM support in the article body. The Hypebot og_image is a generic Unsplash photo, so ax-media should source an in-article image."
   }
 }

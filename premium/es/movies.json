@@ -7386,6 +7386,138 @@
           "x": "Entre las funciones actuales del repositorio figuran checkpoints dedicados para pantalla verde y azul con detección automática, inferencia independiente de la resolución hasta 4K sobre un backbone nativo de 2048x2048, entrada y salida EXR lineal de 16- y 32-bit para Nuke, Fusion o Resolve, y limpieza automática de marcadores de seguimiento. La versión más reciente funciona con 6–8GB de VRAM y en la mayoría de los M1+ Macs."
         }
       ]
+    },
+    "movies/movies-nvidia-editors-day": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mike McCarthy asistió al “Editor’s Day” de Nvidia en San Francisco, el evento previo al lanzamiento de su línea de portátiles y equipos de escritorio RTX Spark: una jornada de presentaciones sobre AI y sobre cómo el nuevo hardware permite el procesamiento local de AI."
+        },
+        {
+          "t": "p",
+          "x": "La memoria unificada da a las GPUs acceso hasta a toda la memoria del sistema, lo que amplía las opciones de modelos de AI. Nvidia ha trabajado con Adobe para que algunas funciones de Creative Cloud que se procesaban en la nube estén disponibles en local, como el enmascarado de imagen y la mejora de audio en Premiere y la eliminación de objetos en Photoshop, con nuevas opciones de UI para elegir entre procesamiento en la nube o local."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La segunda propuesta es la AI agéntica a través de MCP. La CPU del SparkN1x es un procesador ARM con Windows 11 for ARM. McCarthy probó el harness Hermes con el modelo local Qwen3.8-27B: no logró conectarse a Blender mediante MCP, y cambiar una palabra en un prompt de ComfyUI llevó 40 minutos. “Mis primeros intentos de usar AI agéntica no han sido una experiencia positiva”."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia calcula que un RTX Spark a pleno rendimiento podría realizar procesamiento AI-token por valor de $1,200 al mes. En la mayoría de las pruebas reales, el portátil Surface Ultra de McCarthy rinde a la par que su estación de trabajo de escritorio Core i7."
+        }
+      ]
+    },
+    "movies/movies-gibney-musk-avatar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+          "cap": "Alex Gibney en el photocall de 'Musk' en la 83.ª edición del Venice International Film Festival, el 8 de septiembre de 2026, en Venecia (Italia)"
+        },
+        {
+          "t": "p",
+          "x": "La inteligencia artificial es a la vez una decisión creativa y una advertencia en “Musk”, el retrato de Elon Musk firmado por Alex Gibney. En el pódcast “Screen Talk” de IndieWire, Gibney contó que su único contacto con Musk fue a través de X y que su equipo nunca habría conseguido una entrevista en persona."
+        },
+        {
+          "t": "p",
+          "x": "Así que los cineastas usaron AI para construir un avatar de Musk deliberadamente situado en el valle inquietante y para reunir todas sus declaraciones públicas en una “entrevista” simulada. “Reunimos una enorme base de datos de cosas que Elon había dicho realmente, y esas grabaciones son las que usamos de verdad en la película”, dijo Gibney. La idea partía de la obsesión de Musk con la posibilidad de vivir en una simulación."
+        },
+        {
+          "t": "p",
+          "x": "Junto al estudio MakeMake, “diseñamos un decorado. Decidimos qué ropa llevaría. Decidimos sentarlo en una silla gamer … Después, usamos algunas herramientas de AI para sincronizar esa figura con el audio, que es audio real”."
+        },
+        {
+          "t": "p",
+          "x": "La película también adopta una postura de advertencia sobre la AI: Gibney señala que personal de DOGE archivó un gran volumen de datos de ciudadanos de U.S., y la preocupación de Geoffrey Hinton por entrenar una AI con esos datos privados."
+        }
+      ]
+    },
+    "movies/movies-fall2-flawless-vfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+        },
+        {
+          "t": "p",
+          "x": "'Fall 2: Deadpoint', dirigida por Michael and Peter Spierig, traslada el thriller de supervivencia de una sola torre de TV al ficticio Mount Kwan de Tailandia (Thailand). Se construyeron estructuras de tablones sobre la pared de una cantera en Tailandia, a unos seis metros del suelo, y Koala FX entregó más de 400 planos de VFX, entre ellos un Mount Kwan completamente en CG creado con matte painting digital, extensiones de set en 2.5D y entornos CG."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "En la primera 'Fall', Flawless, la empresa de Scott Mann, usó su herramienta de AI TrueSync para redoblar algunas escenas en las que había que cambiar unos cuantos F-bombs por la clasificación de la película. «Nos hemos convertido casi en una plataforma de pruebas para ellos», dice Dasha Sherman, directora general de Koala FX. «En Fall 2 fue más bien un proceso de R&D». El trabajo se centró en el borrado de cables en cientos de planos, mientras Flawless intentaba perfeccionar la herramienta y Koala FX aportaba sus comentarios."
+        },
+        {
+          "t": "p",
+          "x": "El supervisor de VFX Menelaos Pampoukidis explica que la experiencia del estudio en pipeline permitió poner a prueba las herramientas de AI en situaciones reales, con consejos prácticos sobre el parpadeo de luz en los plates, el de-graining y los retoques puntuales de planos para el pulido final. La relación continuará en 'Fall 3', ahora en producción con Scott Mann como director."
+        }
+      ]
+    },
+    "movies/movies-duvernay-14th-asteria": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+          "cap": "Ava DuVernay en la rueda de prensa de '14th', 64th New York Film Festival"
+        },
+        {
+          "t": "p",
+          "x": "'14th', de Ava DuVernay, clausura el New York Film Festival una década después de que '13th' lo inaugurara, pero «yo no diría que es una secuela», afirma. Concebida como una película sobre la ciudadanía por nacimiento, se convirtió en una mirada a toda la 14th Amendment (Decimocuarta Enmienda) a la luz de la actualidad."
+        },
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+          "cap": "Ava DuVernay y el historiador Dr. David Blight en '14th'"
+        },
+        {
+          "t": "p",
+          "x": "DuVernay colaboró con Asteria Film Co. para restaurar fotos que su equipo encontró en archivos que iban desde la Library of Congress hasta la Arkansas Historical Society y álbumes familiares. «Parte de ese material estaba muy degradado», dijo, con diapositivas que nunca se habían digitalizado. «No se puede conseguir una resolución lo bastante alta como para ponerlo en una película», y ahí es donde ayudaron las herramientas AI-powered de Asteria."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo de restauración derivó en una técnica estereoscópica: «primero hay que restaurarla, luego hay que hacer rotoscopia y después solo un poquito de animación para darle algo de movimiento. Y los artistas de allí usaron esas herramientas y le dieron vida». Netflix estrenará la película en cines seleccionados el 27 de noviembre y en Netflix el 4 de diciembre."
+        }
+      ]
+    },
+    "movies/movies-artlist-arc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
+          "cap": "'The Arc' (captura de pantalla/YouTube)"
+        },
+        {
+          "t": "p",
+          "x": "La miniserie de ciencia ficción de cinco episodios “The Arc”, de Artlist, sigue a un padre atrapado en un sádico programa penitenciario del futuro que debe sobrevivir a frenéticas batallas históricas para ganar una “cura” para su hijo enfermo. El director Darin Stewart y Simone Ferretti, a cargo de la producción, dijeron a Business Insider que los modelos generativos democratizan el cine."
+        },
+        {
+          "t": "p",
+          "x": "Artlist, antes una biblioteca de música y efectos de sonido, se ha volcado por completo en la IA: ofrece planes escalonados para generar video, imágenes y texto, además de una modesta plataforma de streaming que muestra modelos como Veo, Seedance y Kling."
+        },
+        {
+          "t": "p",
+          "x": "IndieWire sostiene que una obra hecha íntegramente con modelos generativos carece de “mérito artístico”, y cita el “volcado verbal de ideas de 10 minutos” que el equipo introdujo en Claude para obtener un guion, unos actores de IA inexpresivos y los límites de los modelos de ocho segundos (Veo) o 30 segundos (Seedance) por prompt."
+        },
+        {
+          "t": "p",
+          "x": "El equipo recibió 38.000 dólares en créditos de IA, unos 7.600 dólares por episodio. Según cálculos de API-pricing, eso alcanzaría para generar 83 minutos de video; el plan AI Creator de Artlist cuesta 500 dólares al año. Todos cobraron una tarifa diaria completa, pero IndieWire advierte que menos personas trabajando más rápido conduce a la descualificación del entretenimiento."
+        }
+      ]
     }
   }
 }

@@ -7414,6 +7414,166 @@
           "x": "“你可以免费使用BRUTAL，包括用于商业游戏，”Hall说，“没有版税。”只需署名即可。“如果工具是公开的...你就有选择。”"
         }
       ]
+    },
+    "games/games-roblox-audioscape": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Roblox已将AI音频初创公司Audioscape的团队纳入公司，其技术将成为平台创作者工具的一部分。"
+        },
+        {
+          "t": "p",
+          "x": "Audioscape创始人Sean Varah宣布了这一消息，并表示将专注于为Roblox整个创作者体验制定更广泛的音频与音乐路线图。"
+        },
+        {
+          "t": "p",
+          "x": "该团队开发了AI-powered音频搜索与发现工具，帮助创作者依据声音的实际听感而不只是名称来查找音效。"
+        },
+        {
+          "t": "p",
+          "x": "Audioscape近期开发了AI Audio Agent，覆盖音频发现、声音设计、音频编程、混音和测试。该工具旨在让Roblox创作者更接近triple-A级音频制作的部分环节。"
+        },
+        {
+          "t": "p",
+          "x": "“加入Roblox意味着这项技术将成为平台的原生组成部分，供每天在Roblox上创作的数百万创作者使用。我将专注于推动创作者体验中音频与音乐创作的整体路线图，对未来充满期待。”Varah说。"
+        },
+        {
+          "t": "p",
+          "x": "该团队的工具原本就是为Roblox原生打造，此次加入将把这项技术直接带给平台的创作者。"
+        },
+        {
+          "t": "p",
+          "x": "Varah还感谢了支持Audioscape的早期支持者、顾问和投资者，以及曾帮助团队的Roblox创作者。"
+        }
+      ]
+    },
+    "games/games-scam-with-friends": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+          "cap": "截至10月16日下午5点的Steam全球最热门游戏TOP 10（资料来源：Steam）"
+        },
+        {
+          "t": "p",
+          "x": "合作模拟新作《Scam With Your Friends》于16日以Steam抢先体验形式推出后，跻身全球最热门游戏榜前列。以生成式AI为对象实施诈骗的设定，加上合作过程中产生的有趣状况，吸引了玩家的关注。"
+        },
+        {
+          "t": "p",
+          "x": "这是一款以伪装成呼叫中心的诈骗团伙为背景的合作游戏，最多6名玩家扮演办公室职员，须在规定的工作时间内完成全队的每日收益指标。若未完成指标，上司会给出严厉的考核评价，且随着天数推进，目标金额会不断提高。"
+        },
+        {
+          "t": "p",
+          "x": "游戏的核心是与生成式AI客户进行实时通话和黑客入侵。接起来电后，玩家需直接对着麦克风说话或输入文字，打消AI客户的疑虑，诱导对方提供礼品卡号码或进行转账。也可以在通话分散对方注意力时，远程接入受害者的PC窃取个人信息。"
+        },
+        {
+          "t": "video",
+          "yt": "e4BhBUryVFY"
+        },
+        {
+          "t": "p",
+          "x": "Steam用户评价为“多半好评（705人参与，71%好评）”。玩家认为，无固定剧本、凭即兴谎言骗过AI客户的过程，以及每天工作结束后一起观看通话精彩片段并由上司进行考核评价的环节，是游戏的看点。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+          "cap": "Scam With Your Friends截图（图片来源：游戏Steam页面）"
+        },
+        {
+          "t": "p",
+          "x": "不过，服务器不稳定导致的频繁无响应、语音识别错误和掉帧等优化问题也被指出。尤其是包括韩语在内的非英语语言响应延迟严重，难以正常进行游戏。也有人担心AI服务器维护成本可能导致提前停服或转为付费订阅制。"
+        }
+      ]
+    },
+    "games/games-oblivion-claude-fpsfix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Elder Scrolls IV: Oblivion Remastered自发售以来一直受CPU瓶颈、帧时间不稳定和移动卡顿困扰。Reddit用户LTSharpe从RTX 2070 SUPER升级到Radeon RX 9070 XT后，其Ryzen 7 5800X系统依然表现不佳，于是求助于Claude Opus 5.5；据报道，后者在游戏代码中发现了几处根本性的低效问题。"
+        },
+        {
+          "t": "p",
+          "x": "随后是约两周半的AI-assisted逆向工程、性能分析与优化。尽管没有专业开发背景，LTSharpe指导Claude完成了约40项引擎级优化，并打包成名为Oblivion Remastered Performance Fix的开源模组。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
+        },
+        {
+          "t": "p",
+          "x": "据报道，游戏每一帧都在重建太阳和月亮的光照，存在冗余的内存分配，DirectX 12命令准备也大多局限于单个线程。该模组改进了多线程和内存管理，据称同时保留了Nanite、Lumen等画面设置。"
+        },
+        {
+          "t": "video",
+          "yt": "K8WkCz6cuHk"
+        },
+        {
+          "t": "p",
+          "x": "在4K 分辨率、开启FSR Performance和Frame Generation的Imperial City飞行测试中，平均FPS从72升至102（+41%），每轮超过50 ms的卡顿从19.5次降至4.8次。Cheydinhal从64 FPS升至91 FPS（+43%）。测试结果主要来自一台Ryzen 7 5800X/RX 9070 XT系统，v1.0.0测试版附带源代码和基准测试工具。"
+        }
+      ]
+    },
+    "games/games-unity-aijam-busan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+          "cap": "Unity AI游戏Jam海报（图片提供：Unity）"
+        },
+        {
+          "t": "p",
+          "x": "Unity与韩国游戏产业协会宣布，将于10月12日至20日招募“Unity AI游戏Jam”参赛者。活动将在韩国最大游戏展G-STAR 2026开幕前，于11月18日至19日在釜山BEXCO以24小时通宵形式举行。"
+        },
+        {
+          "t": "p",
+          "x": "报名通过Unity Square进行，截至10月20日，视报名情况可能提前截止。无论专业或工作经历，凡对游戏开发和创作感兴趣者均可报名。Unity计划经书面审核选出最终55名参赛者，团队将在现场组建。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI和Meshy.ai作为官方赞助商参与。参赛者可使用Unity CLI、Codex插件等Unity的AI功能。Unity将向全体参赛者发放价值50美元（约合6万7,500韩元）的AI工具使用额度，OpenAI提供额度及其工程师的现场指导，Meshy.ai则提供仅凭文字或图片即可生成3D素材的额度。"
+        },
+        {
+          "t": "p",
+          "x": "获奖团队将根据所获奖项，获得在G-STAR 2026现场Unity展位展出游戏的机会、ChatGPT Pro 1年使用权，以及在Unity全球和韩国官方博客接受采访的机会等。10月27日还将通过Unity Korea的YouTube直播举行赛前网络研讨会。"
+        },
+        {
+          "t": "p",
+          "x": "Unity Korea代表理事宋珉锡表示：“AI正成为可靠的伙伴，它加快了把创意变成游戏的速度，帮助创作者进行更大胆、更多样的尝试。”"
+        }
+      ]
+    },
+    "games/games-konami": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+          "cap": "图片来源：Rock Paper Shotgun / Konami"
+        },
+        {
+          "t": "p",
+          "x": "据Dengeki Online发现、Automaton翻译，Konami Digital Entertainment总裁Hideki Hayakawa在公司最新的综合报告中，谈到了他对AI技术快速发展的看法。"
+        },
+        {
+          "t": "p",
+          "x": "Hayakawa不认同生成式AI会让游戏开发变得更容易的普遍看法，认为它不会带来重大改变，因为“通用游戏引擎的进步和UGC（用户生成内容）的普及已经降低了进入门槛”。"
+        },
+        {
+          "t": "p",
+          "x": "“即使使用AI确实能提高制作效率，我认为制作有趣且创新的电子游戏最重要的因素是人和创作者。”他补充说，不同背景的开发者协作所产生的“某种化学反应”是“无法轻易取代的”。"
+        },
+        {
+          "t": "p",
+          "x": "Konami并没有弃用这项技术。他说：“Konami提供系统性的支持，让创作者能够掌握新技术、恰当评估其可能带来的风险，并将其安全地应用于游戏开发。”"
+        }
+      ]
     }
   }
 }

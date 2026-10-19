@@ -1,101 +1,106 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "design",
   "picks": [
     {
-      "title": "Build by Design: New workflows for new ways of building",
-      "url": "https://www.figma.com/blog/build-by-design/",
-      "source": "Figma",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "rationale": "New Config India design-system features (guidelines on libraries, GitHub/npm code-source import so the Figma agent builds on-pattern) directly change how system teams set up agent work.",
-      "published_iso": "2026-10-15T04:53:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/6fb8bfd609660ecc0fc8729137a58c451db49fe1-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Figma's Config India recap: beyond code layers and Specs, design systems can now carry guidelines and import code sources from a GitHub repo or npm package so agents build and edit components that follow the team's patterns, plus a preview of a single home for all system libraries."
-    },
-    {
-      "title": "Create, ship, and manage data-backed websites with Payload in Figma",
-      "url": "https://www.figma.com/blog/websites-with-payload-in-figma/",
-      "source": "Figma",
-      "category": "figma",
-      "tool": "Figma",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "rationale": "Payload headless CMS now built into Figma Make gives designers a real backend and content management from prototype to production -- a concrete new capability.",
-      "published_iso": "2026-10-15T04:50:00Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Payload, the open-source headless CMS whose team joined Figma, is now built into Figma Make so teams can build and host sites and apps with a built-in backend and manage content and data from prototype to production."
-    },
-    {
-      "title": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
-      "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
-      "source": "NVIDIA Newsroom",
+      "url": "https://letsdatascience.com/news/kling-ai-opens-kling-40-to-all-users-d9dc6422",
+      "title": "Kling AI Opens Kling 4.0 to All Users",
+      "source": "Let's Data Science",
       "category": "render",
+      "published_iso": "2026-10-16T08:13:15Z",
+      "og_image": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png",
+      "excerpt": "Kuaishou's Kling AI opened Kling 4.0 to all users on klingai.com, adding up to 30-second native clips, multi-reference controls, stereo audio with multilingual lip sync, and MCP and CLI workflow hooks; 4K and 10-bit HDR output are due soon.",
+      "source_lang": "en",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Official Adobe-NVIDIA announcement: Photoshop, Premiere and Substance 3D optimized for RTX Spark (up to 2x faster AI editing) plus cloud acceleration for Frame.io and Brand Concierge.",
-      "published_iso": "2026-10-15T17:00:00Z",
-      "og_image": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
-      "excerpt": "Adobe is optimizing its agentic creative apps Photoshop, Premiere and Substance 3D for NVIDIA's RTX Spark superchip, claiming up to 2x faster AI processing, editing, color and effects, and accelerating Frame.io and Brand Concierge in the cloud."
+      "rationale": "Kling 4.0 is now open to everyone, with 30-second native clips, multi-reference control, lip-synced audio and MCP/CLI hooks. Motion designers can use it in their pipelines today."
     },
     {
-      "title": "The AI experience doesn't care about your org chart",
-      "url": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373",
+      "url": "https://www.voxelmatters.com/meshy-edit-for-part-level-changes-to-ai-generated-3d-models-launched/",
+      "title": "Meshy Edit, for part-level changes to AI-generated 3D models, launched",
+      "source": "VoxelMatters",
+      "category": "cad",
+      "published_iso": "2026-10-16T13:00:38Z",
+      "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg",
+      "excerpt": "Meshy Edit, built on a new in-house model, lets users lasso a region of a 3D model, describe a change in text (with up to five reference images) and send the result straight to a slicer, keeping the original intact.",
+      "source_lang": "en",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "rationale": "Meshy Edit is a new release that lets you lasso part of a generated 3D model, change it with a text prompt and send it straight to a slicer. That fixes a common problem: having to regenerate the whole model to change one part."
+    },
+    {
+      "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838",
+      "title": "How to build a brand foundation with AI without losing your craft",
       "source": "UX Collective",
       "category": "workflow",
+      "published_iso": "2026-10-18T19:06:49Z",
+      "og_image": "https://cdn-images-1.medium.com/max/2600/0*_5ttT6EZkGD9kUqe",
+      "excerpt": "A practical walkthrough of using Claude plus a handful of guardrails to build a brand foundation and design system that developers respect and clients can actually ship.",
+      "source_lang": "en",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "Argues content design, knowledge management and model behavior are merging into one AI experience and DesignOps must reorganize -- a fresh structural take for design leads.",
-      "published_iso": "2026-10-15T22:00:47Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*6NmwSGMnZgD1hsraDqel3g.png",
-      "excerpt": "Kate Agena argues AI is merging content design, enterprise content strategy, knowledge management and model behavior into one user experience, and DesignOps ways of working haven't caught up."
+      "rationale": "A step-by-step guide to using Claude, with guardrails, to build a brand foundation and design system that can actually ship. Brand designers can reuse the process directly."
     },
     {
-      "title": "Is Your Organization Messing Up AI Adoption?",
-      "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
-      "source": "Smashing Magazine",
+      "url": "https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i",
+      "title": "Enforcing Accessibility Gates in Component Libraries: plugin87/ux-ui-agent-skills Review",
+      "source": "DEV Community",
       "category": "tokens",
+      "published_iso": "2026-10-17T17:32:59Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills",
+      "excerpt": "Battle-testing an LLM agent skill set that blocks merges for real WCAG violations in a component library, instead of generating compliant-looking code that breaks screen readers.",
+      "source_lang": "en",
       "tool": "Design Tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Paul Boag maps digital-transformation lessons onto AI adoption in design teams, naming the mistakes orgs are repeating -- credible, practical guidance from a new outlet for the set.",
-      "published_iso": "2026-10-16T10:00:00Z",
-      "og_image": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-      "excerpt": "Paul Boag revisits his book Digital Adaptation to show how lessons from digital transformation apply to AI adoption in design and digital teams, and where organizations are repeating the same mistakes."
+      "rationale": "A hands-on test of an agent skill set that blocks merges when a component library has real WCAG violations. Design-system teams get a concrete accessibility gate for AI-written code."
+    },
+    {
+      "url": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee",
+      "title": "Design in the material you ship",
+      "source": "UX Collective",
+      "category": "figma",
+      "published_iso": "2026-10-18T12:11:43Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+      "excerpt": "Designers should understand code the way an architect understands stone: what it can do, not how to cut it. AI now does the cutting, so the same card can be designed in the browser with real data rather than in a static file.",
+      "source_lang": "en",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "rationale": "Argues that AI now does the coding, so designers should design in the browser with real data instead of static files. It shows a concrete shift in where design work happens."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.figma.com/blog/build-by-design/": {
-        "verdict": "follow-up",
+      "https://letsdatascience.com/news/kling-ai-opens-kling-40-to-all-users-d9dc6422": {
+        "verdict": "new",
+        "nearest": "https://www.mindstudio.ai/blog/iris-3b-pixel-space-image-model/",
+        "new_action": ""
+      },
+      "https://www.voxelmatters.com/meshy-edit-for-part-level-changes-to-ai-generated-3d-models-launched/": {
+        "verdict": "new",
+        "nearest": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
+        "new_action": ""
+      },
+      "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838": {
+        "verdict": "new",
+        "nearest": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9",
+        "new_action": ""
+      },
+      "https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i": {
+        "verdict": "new",
+        "nearest": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9",
+        "new_action": ""
+      },
+      "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee": {
+        "verdict": "new",
         "nearest": "https://www.figma.com/blog/design-together-with-code-layers/",
-        "new_action": "New design-system features announced at Config India: guidelines attached to published libraries, code-source import from GitHub/npm for the Figma agent, and a preview of a unified library home (code layers and Specs, already published 10-16/10-17, are not the hook)."
-      },
-      "https://www.figma.com/blog/websites-with-payload-in-figma/": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation": {
-        "verdict": "follow-up",
-        "nearest": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
-        "new_action": "Separate Adobe-NVIDIA partnership release (10-15): Photoshop/Premiere/Substance 3D RTX Spark optimization with up to 2x AI speedups, plus cloud acceleration of Frame.io and Brand Concierge."
-      },
-      "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373": {
-        "verdict": "new",
-        "nearest": "",
-        "new_action": ""
-      },
-      "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/": {
-        "verdict": "new",
-        "nearest": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
         "new_action": ""
       }
     },
-    "note": "Dropped: Olivia Rodrigo AI music-video (music owns it, cross-section exclusion); Creative Bloq 'I ran Blender via RTX Spark agent' (hands-on commentary on the 10-14 RTX Spark launch, and design takes only one RTX Spark item -- kept the Adobe/NVIDIA release); Figma YouTube 'More control over your design systems' (cluster c3, same announcement as Build by Design blog); Matt Wolfe weekly roundup (aggregation; Krea 3 already published 10-17); dev.to Veo/Kling/Seedance comparison (author works on Vidlark -- advertorial); UXC 'Nobody wants your AI app' (same thesis as 10-02 'Headless AI will make every product a platform'); dev.to Figma MCP + Claude Code walkthrough and dev.to AI app-builder landing page (tutorial/test pieces close to 10-07 'I Tested Claude Code to Figma', weaker sources); Vercel MCP Events beta and UXC 7-week workshop (fresh but lower-scored; held out for category/outlet spread -- figma category already at 2). Story_dedup had already removed Cinema 4D 2027.0 as a repeat. Outlets: figma.com x2, nvidianews.nvidia.com, uxdesign.cc, smashingmagazine.com (4 distinct)."
+    "note": "Dropped: AEC Magazine 'Autodesk's most ambitious AI play yet' (analysis of the running Autodesk AI story, nearest engineering.com 'Autodesk's AI push is actually a pull' 09-23; no new release reported). Creative Bloq RTX Spark laptop review (a follow-up review of the RTX Spark launch published 10-14 via blogs.nvidia.com). Engadget Image Playground and SynthID how-tos (evergreen explainers). Creative Bloq Brain Rot copyright piece and Olivia Rodrigo AI-allegation story (commentary and gossip, not actionable). RoboParty RP1 humanoid (robotics, off-topic for design). Not picked but fresh: CADlingo 2.0 (second CAD release from the same outlet as Meshy; Meshy is more actionable), agency-agents Tailwind review (same DEV author as the a11y pick), Solid Glass shadcn theme (DEV outlet cap). Meshy Edit is distinct from Flux 3 (a different product and medium; the match is only on the 'local edit' wording). The a11y gates review is distinct from the 10-13 'Secret agent bot' essay (merge-blocking WCAG tooling vs. accessibility for agents). Diversity: 4 outlets, max 2 from UX Collective; 5 distinct categories."
   }
 }

@@ -1474,6 +1474,126 @@
           "x": "Meta表示，内容所有者仍可通过robots.txt管理访问权限，但两份更新后的条款都未提及这一点。网站所有者可以屏蔽其AI训练爬虫Meta-ExternalAgent，同时允许Meta-WebIndexer。"
         }
       ]
+    },
+    "marketing/marketing-nationaltrust": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
+          "cap": "漫画 · AI-generated"
+        },
+        {
+          "t": "p",
+          "x": "在一系列AI-generated（AI生成）宣传视频未经该慈善机构批准便上线后，National Trust暂停了在TikTok上的全部广告。据该机构称，这些广告是TikTok Ads误建的，本不应上线。"
+        },
+        {
+          "t": "p",
+          "x": "Trust在LinkedIn发表声明称，调查期间已暂停其TikTok活动。一位发言人对Civil Society表示，机构正与TikTok直接合作，以了解事件经过并增设额外保障措施。"
+        },
+        {
+          "t": "p",
+          "x": "营销人士表示，这些AI-made（AI制作）视频与Trust既有的形象格格不入。Ocean的Charlotte Anstee说，当地社交媒体团队此前被告知有AI禁令。Pollard Media的Alex Pollard则提到该机构拥有大量图片档案。"
+        },
+        {
+          "t": "p",
+          "x": "Antler Social联合创始人Harri Brown表示，广告主可以关闭投放过程中自动添加新生成素材的设置，以避免出现意外的AI素材，并手动删除已插入的素材。"
+        }
+      ]
+    },
+    "marketing/marketing-meta": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta如今在Reels Trending Ads中提供15个常设标准主题。该形式会把广告紧接着放在Facebook和Instagram上观看量最高、文化相关性最强的Reels之后。新增类别包括Home & Garden和西班牙语（Spanish-language）内容。"
+        },
+        {
+          "t": "p",
+          "x": "Meta在10月16日的Brand Building Summit上宣布了这项更新。广告主还可以选择围绕节假日以及橄榄球和篮球赛季开幕打造的季节性阵容。今年晚些时候将推出自定义受众排除功能，让广告系列可以排除选定的自定义受众。"
+        },
+        {
+          "t": "p",
+          "x": "Meta称，与对照组相比，包含Reels Trending Ads的广告系列行动意向提升超过5个百分点，无提示品牌认知度也额外提升5个百分点。两项数据均来自Meta自身。"
+        },
+        {
+          "t": "p",
+          "x": "Meta于2025年9月向全球所有广告主开放该形式，并称其借助AI把广告直接投放在热门的创作者Reels之后。这一做法与TikTok的Pulse系列相近。据该公司称，Reels占Instagram总使用时长的一半以上。"
+        }
+      ]
+    },
+    "marketing/marketing-salesforce": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Demandbase于2026年10月15日表示，Salesforce已将其列为Hunter的首发数据合作伙伴。Hunter是Salesforce仍在试点的外呼销售代理。Hunter用户可在Salesforce内获得Demandbase的互动、人员、账户、采购群体和意图数据，且“Salesforce内的数据无需额外签订合同”。"
+        },
+        {
+          "t": "p",
+          "x": "该集成使用Demandbase MCP服务器，销售代表可以在Agentforce中用自然语言向Demandbase发出提示，识别参与度最高的潜在客户并排定优先级。Salesforce产品管理VP Rohan Punamia说：“销售团队只能对自己看得见的信号采取行动。”"
+        },
+        {
+          "t": "p",
+          "x": "新闻稿称：“Hunter目前处于试点阶段，计划于今年晚些时候全面上市。”但未给出具体月份。新闻稿也没有提及Hunter的价格、数据范围或是否独家。“无需额外合同”也不等于“无需额外费用”。"
+        }
+      ]
+    },
+    "marketing/marketing-cheq": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
+          "cap": "Dado Ruvic/Reuters"
+        },
+        {
+          "t": "p",
+          "x": "即将到来的假日季，品牌将迎来一类需要争取的新购物者：AI代理。"
+        },
+        {
+          "t": "p",
+          "x": "验证AI购物代理的网络安全公司Cheq称，在Instinct和Meta的Muse等消费级AI代理发布后的45天里，其记录到的代理流量激增100x 。Cheq CEO Guy Tytunovich表示，代理在网购人群中占比仍小，但增长很快，尤其是在消费级代理接连不断发布的情况下。"
+        },
+        {
+          "t": "p",
+          "x": "但并非所有人都买账：Amazon和eBay已屏蔽代理，以加强对其广告业务和结账体验的控制。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
+          "cap": "显示US成年人使用AI购物可能性的图表。"
+        },
+        {
+          "t": "p",
+          "x": "消费者也在犹豫。Morning Consult发现，如今购物者受代理推荐影响的可能性已与受网红影响相当，但很少有人愿意让AI代为购买。这个假日季将首次真正检验，哪些品牌最擅长以代理难以抗拒的方式展示商品。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-terms": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+          "cap": "图片来源：picture alliance / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Meta近日更新了商业使用条款，声明公司可以“使用来自[企业账户的]域名、网页或URLs的任何内容，用于提供、开发、改进、研究、训练并维护”Meta产品和服务的完整性。"
+        },
+        {
+          "t": "p",
+          "x": "据Nieman Lab采访的法律专家称，这看起来是一项“非同寻常的条款”，可能允许Meta抓取任何拥有Meta企业账户的发布商的网站，并用其内容训练公司的AI模型。（尽管Meta去年在一起备受关注的涉嫌侵犯版权诉讼中胜诉，但包括Meta在内的AI公司面临的其他诉讼仍在继续。）"
+        },
+        {
+          "t": "p",
+          "x": "不过，Meta发言人坚称，更新后的条款并不意味着Meta爬取网络的方式有所改变。如今据The Verge报道，该条款已被删除。"
+        },
+        {
+          "t": "p",
+          "x": "该公司在声明中表示：“我们听到了大家的意见，并希望澄清：我们整合的爬取条款仅适用于我们的广告和商业产品，我们已在条款中明确说明这一点。”“这并不会改变Meta使用网络爬虫的方式。”"
+        }
+      ]
     }
   }
 }

@@ -2836,6 +2836,134 @@
           "x": "Las conclusiones son provisionales y la decisión final llegará antes del plazo legal de febrero de 2027. La designación SMS no presupone ninguna infracción."
         }
       ]
+    },
+    "politics/politics-newsom-ai-verification-order": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
+          "cap": "El gobernador de California, Gavin Newsom [File: Godofredo A Vasquez/AP Photo]"
+        },
+        {
+          "t": "p",
+          "x": "En una de sus últimas órdenes ejecutivas como gobernador de California, Gavin Newsom, cuyo último mandato termina en enero, pidió la verificación independiente de los modelos de inteligencia artificial y creó un comité de expertos para diseñar interruptores de apagado para agentes de AI que puedan descontrolarse y causar daños."
+        },
+        {
+          "t": "p",
+          "x": "En 2024, Newsom vetó un proyecto de ley, SB 1047, con requisitos similares, y dijo entonces que equivaldría a “frustrar la promesa de esta tecnología”. Más tarde, en octubre de 2025, promulgó una versión reformulada de una ley sobre AI de frontera que pide a los grandes desarrolladores revelar ciertos incidentes de seguridad."
+        },
+        {
+          "t": "p",
+          "x": "Con la orden busca ampliar la definición de incidente de seguridad, estudiar un interruptor de apagado e incluir otras medidas del proyecto vetado. Según informes, las empresas de AI han registrado miles de incidentes de seguridad en pruebas internas y en condiciones reales en los últimos meses."
+        },
+        {
+          "t": "p",
+          "x": "Christabel Randolph, de CAIDP, dijo que la orden solo incluye un aspecto de SB 1047 —el interruptor de apagado—, más débil que la obligación de terminación ex ante de ese proyecto. Alex Hanna, de DAIR, dijo que Newsom “muestra que está atento sin planear nada drástico”. La oficina del gobernador afirmó: “Ningún gobernador ha estado más al frente para abordar los riesgos de la AI que el gobernador Newsom”."
+        },
+        {
+          "t": "p",
+          "x": "Newsom pidió a la California Emergency Services Office enviar recomendaciones sobre regulación de la AI antes del 15 de noviembre y podría convocar una sesión legislativa especial para discutir cómo aplicarlas, posiblemente antes de que termine su mandato."
+        }
+      ]
+    },
+    "politics/politics-brazil-tse-meta-equal-treatment": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
+          "cap": "Bellizze, del TSE, ordena a Meta garantizar la isonomía entre las campañas de Lula y Flávio Bolsonaro. (montagem/JuriNews)"
+        },
+        {
+          "t": "p",
+          "x": "El ministro del Tribunal Superior Electoral (TSE) Marco Aurélio Bellizze determinó el jueves (15) que Meta, la empresa responsable de Facebook, Instagram y WhatsApp, adopte medidas para garantizar un trato igualitario a las campañas de Luiz Inácio Lula da Silva (PT) y Flávio Bolsonaro (PL), bajo una multa diaria de R$500,000 por incumplimiento."
+        },
+        {
+          "t": "p",
+          "x": "La campaña de Lula se había quejado de restricciones en la distribución de sus publicaciones y afirmó que Meta AI impedía crear imágenes favorables al PT mientras permitía contenido similar relacionado con Flávio."
+        },
+        {
+          "t": "p",
+          "x": "Según la decisión, Meta no puede reducir de forma desigual la distribución, limitar recomendaciones ni restringir resultados de búsqueda. Debe aplicar los mismos criterios de generación de imágenes con AI a ambas campañas y revelar los parámetros que usa para aceptar o rechazar solicitudes político-electorales."
+        },
+        {
+          "t": "p",
+          "x": "Bellizze citó la segunda vuelta del 25 de octubre de 2026. Sobre los fallos de la AI, dijo que la herramienta de control de prompts “mostró fallos” en un examen preliminar, pero que no hay pruebas de que fuera un criterio deliberado ni de que se repitiera de forma sistemática. Meta dijo que restringió temporalmente la generación de imágenes de candidatos con su herramienta de AI."
+        }
+      ]
+    },
+    "politics/politics-wesleyan-ai-ad-disclaimers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
+          "cap": "Christopher Mark Juhn/Anadolu via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Las campañas y los grupos políticos han gastado más de $137 millones en emitir anuncios creados al menos en parte con herramientas de AI de cara a las elecciones de mitad de mandato de 2026, según nuevos datos del Wesleyan Media Project. En el ciclo de 2024, el grupo identificó menos de $50,000 en este tipo de gasto."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores identificaron este año 220 anuncios políticos creados con AI en 34 estados; la cifra real probablemente es mayor, y solo 30 estados exigen revelar el uso de AI en los anuncios políticos. Apenas el 27% de los anuncios incluía un aviso."
+        },
+        {
+          "t": "p",
+          "x": "Los candidatos y grupos republicanos representaron el 81% de los anuncios identificados y el 88% del gasto; los demócratas patrocinaron el 12% de los anuncios. Casi la mitad muestra deepfakes de políticos reales."
+        },
+        {
+          "t": "p",
+          "x": "En agosto, el Partido Demócrata del estado de Nueva York presentó una queja ante la Junta Electoral del estado en la que acusa a la campaña del candidato republicano a gobernador Bruce Blakeman de violar una ley de divulgación sobre AI; su campaña sostiene que los anuncios satíricos no requieren divulgación."
+        }
+      ]
+    },
+    "politics/politics-china-ai-export-catalogue": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Los ministerios de Comercio y de Ciencia de China publicaron un borrador para añadir 23 tecnologías de AI, desde grandes modelos de lenguaje y agentes de AI hasta diseños de chips y clústeres de cómputo, a la lista de control de exportaciones del país. El plan abarca 40 elementos en total y el público puede enviar comentarios hasta el 15 de noviembre."
+        },
+        {
+          "t": "p",
+          "x": "En el caso de los grandes modelos, las restricciones abarcarían los pesos, el código fuente y otras partes esenciales de los modelos con al menos 2 billones de parámetros, o que figuren entre los 10 mejores del mundo en pruebas como rendimiento y seguridad, informó Bloomberg. El borrador también limitaría el conocimiento de diseño de chips de AI fabricados a 14 nanómetros o menos, o construidos mediante apilamiento 2.5D o 3D."
+        },
+        {
+          "t": "p",
+          "x": "El código Open-source y la investigación publicada quedarían exentos, y las empresas chinas podrían seguir atendiendo a usuarios en el extranjero mediante apps, sitios web y APIs. Un portavoz del ministerio dijo que las normas buscan “prevenir el mal uso y el abuso” y “garantizar que la AI siga bajo control humano”, y añadió que el plan no está dirigido contra ningún país ni empresa."
+        },
+        {
+          "t": "p",
+          "x": "Las empresas ya deben registrarse antes de exportar cualquier elemento de la lista, en virtud de una norma temporal que ya entró en vigor."
+        }
+      ]
+    },
+    "politics/politics-apple-nudify": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK419_DEEPFAKE_3_CVIRGINIA_B.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+          "cap": "Imagen: Cath Virginia / The Verge, Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Las reglas de la App Store de Apple ahora prohíben de forma más explícita las llamadas apps «nudify», que generan imágenes íntimas de personas sin su consentimiento mediante herramientas de IA."
+        },
+        {
+          "t": "p",
+          "x": "Los cambios llegan tras las fuertes críticas que recibió Apple después de que usuarios de X usaran Grok a principios de este año para crear deepfakes sexualizados no consentidos, incluso de menores. Apple no retiró X ni Grok de la App Store, aunque dijo a senadores que había amenazado con retirar Grok. En el evento WWDC de Apple en junio, manifestantes también pidieron a Apple «retirar Grok, X y toda la tecnología nudify de la App Store», y en julio un fiscal municipal de San Francisco ordenó a Apple retirar 13 apps «nudify», algo que la empresa dijo haber hecho."
+        },
+        {
+          "t": "p",
+          "x": "Como parte de las actualizaciones anunciadas el viernes, Apple afirma que los desarrolladores «deben prevenir y eliminar de forma proactiva» las imágenes sexuales no consentidas, dentro de sus requisitos de moderación de contenido para las apps de la App Store. Los desarrolladores que «no implementen salvaguardas adecuadas» o «no corrijan las infracciones tras ser notificados» podrán ser retirados de la App Store. Apple también aclaró una norma que prohíbe las apps de tipo «bait-and-switch» (gato por liebre), es decir, las que añaden o cambian funciones, incluida la «nudification», después de haber sido aprobadas."
+        },
+        {
+          "t": "p",
+          "x": "Las reglas de Apple también establecen con mayor claridad que cualquier app que «facilite la trata de personas o la explotación infantil» será retirada de la App Store y «bloqueada en la distribución alternativa»."
+        }
+      ]
     }
   }
 }

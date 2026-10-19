@@ -8454,6 +8454,143 @@
           "x": "The new “Hey Gemini” hotword could also make its way to smartphones."
         }
       ]
+    },
+    "gadgets/gadgets-orangepi-o1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
+          "cap": "OrangePi O1: New single-board computer launches with numerous ports"
+        },
+        {
+          "t": "p",
+          "x": "The OrangePi O1 is a new single-board computer (SBC) that could hold a distinct edge over the Raspberry Pi in AI-centric workloads while serving as a capable alternative for general computing. Powering the board is a Sophgo BM1688 SoC, which pairs eight ARM Cortex-A53 CPU cores with a RISC-V C906 co-processor. An integrated TPU handles local AI acceleration, delivering up to 16 TOPS (INT8) for compatible workloads."
+        },
+        {
+          "t": "p",
+          "x": "Memory configurations include 8 GB or 16 GB of LPDDR4/LPDDR4X RAM, complemented by an optional eMMC module with up to 128 GB of capacity. However, storage expandability goes far beyond onboard flash: the board features an M.2 slot for PCIe 3.0 NVMe SSDs, a dedicated SATA interface, and a standard microSD card slot."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
+          "cap": "An uncommon feature for an SBC: A dedicated SATA connector is included"
+        },
+        {
+          "t": "p",
+          "x": "Measuring 90 x 70 mm, the standalone board packs a complete set of I/O ports, allowing it to function as a desktop PC straight out of the box without requiring a carrier board. Physical connectivity includes dual Gigabit Ethernet ports, two USB 2.0 ports, two USB 3.0 ports, and an HDMI 2.0 port for video output up to 4K. True to its SBC roots, it also integrates specialized interfaces like MIPI connectors, CAN bus, RS485, and an expansion header for sensors and actuators. Power is supplied via USB Type-C at 20 V, and wireless networking is supported. Availability for the Orange Pi O1 currently remains limited."
+        }
+      ]
+    },
+    "gadgets/gadgets-phonebot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Researchers at UCLA have developed PhoneBot, a compact open-source humanoid robot that reuses cheap smartphones for sensing and computing. Its robotic hardware costs approximately $400, excluding the phone. It stands 483 mm tall, weighs 1.8 kg and uses 13 servo motors to control its legs and rotating torso."
+        },
+        {
+          "t": "p",
+          "x": "Instead of dedicated cameras, motion sensors and an expensive onboard computer, PhoneBot relies on the phone: its camera tracks people, and its built-in IMU helps the robot balance and execute learned walking movements. The researchers tested four Android phones, including a 2017 Honor 9 and three handsets costing approximately $50 to $80. The app runs locomotion policies through TensorFlow Lite, with the camera handling person detection and pose estimation."
+        },
+        {
+          "t": "p",
+          "x": "The walking controller was trained with reinforcement learning in simulation; mirrored training samples cut joint-angle symmetry error from 0.254 to 0.003 radians. Demos included walking, recovering from a face-down position and turning the camera toward people without moving its feet. Low-powered servos, flat-ground training and no arms remain limits. The research is on arXiv."
+        }
+      ]
+    },
+    "gadgets/gadgets-nothing-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "A reliable source says that Nothing is building out its own AI smart glasses that feature ChatGPT integration, a camera, and two very different models."
+        },
+        {
+          "t": "p",
+          "x": "WinFuture's Roland Quandt says on Bluesky that Nothing is preparing to launch two new smart glasses models, and they sound wildly different."
+        },
+        {
+          "t": "p",
+          "x": "One pair would be similar to the Ray-Ban Meta lineup with a built-in camera and AI features such as translation. While Nothing as an avid Android user might seem like one to hop on the Android XR train, it sounds like that's probably not the case given Quandt says these are bringing integration with ChatGPT rather than Gemini. That's not a new pivot on Nothing's part, though, as the company has been building out ChatGPT integration for a while in its other products."
+        },
+        {
+          "t": "p",
+          "x": "The other pair of smart glasses, though, would take a much simpler approach."
+        },
+        {
+          "t": "p",
+          "x": "These would work as a pair of headphones with the ability to take calls and interact with your phone's voice assistant, but they'd lack a camera or any direct AI integrations. Both models are said to offer photochromic lenses, otherwise known as “transition” lenses and commonly found on other smart glasses."
+        },
+        {
+          "t": "p",
+          "x": "Prior reporting on Nothing's efforts to build smart glasses pinned a release date sometime in 2027. The dual strategy here is certainly interesting, especially given a recent report that suggested Nothing would go all-in on AI devices going forward."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-zoom": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "With the Pixel 11 Pro, Google offers 120x Pro Res zoom, up from 100x on the Pixel 10 Pro. Google claims its brighter telephoto camera can capture more detail from farther away – when combined with generative AI. Android Authority spent a week testing it on signboards, monuments, wildlife and people."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
+          "cap": "At 120x, details on Delhi's 800-year-old minaret, including its calligraphy, become visible."
+        },
+        {
+          "t": "p",
+          "x": "Distant lettering and architectural carvings came out readable, but with obvious digital sharpening, smoothing and a painterly look; the AI even dreamed up a pattern on window panes that didn't exist. In dim light, small text turned into absolute gibberish."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
+          "cap": "120x AI-enhanced zoom on a black bird at a lake."
+        },
+        {
+          "t": "p",
+          "x": "On wildlife, fur and feathers looked convincing but veered toward the uncanny valley: at extreme zoom Google's processing fills in missing detail, and the result is an approximation that can create details that do not exist. The Pixel 11 Pro explicitly skips generative upscaling when it detects a human in the frame."
+        },
+        {
+          "t": "p",
+          "x": "Verdict: more than a marketing gimmick and handy for inspecting distant objects, but not a substitute for a long telephoto lens – keep your expectations in check."
+        }
+      ]
+    },
+    "gadgets/gadgets-ps5-local-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+          "cap": "(Image credit: Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "Reddit user u/AdIllustrious7246 posted a fork of PS5LM, a llama.cpp port for running AI LLMs locally on jailbroken PS5s, that runs natively on the console and uses its GPU to run bigger models such as Qwen3.8-27B at 20 tokens per second."
+        },
+        {
+          "t": "p",
+          "x": "GitHub user cobanov's original port runs as a payload on the CPU, which limits RAM access to about 6.25 GiB because holding more would freeze the home screen. The fork instead uses PS5_Vulkan, a port of the RADV graphics driver that lets instructions reach the normally locked-down PS5 GPU."
+        },
+        {
+          "t": "p",
+          "x": "Running natively on the GPU, it can use up to 11.4 GiB of RAM; smaller models like Gemma 4 E4B and Llama 3.2 3B hit 61 and 124 tokens per second. A dashboard shows live tokens per second, GPU and CPU use, power draw, temperatures and the memory split between model and KV cache, and llama.cpp's web UI lets users chat with the LLM from other local devices in a browser."
+        },
+        {
+          "t": "p",
+          "x": "Commenters recalled the crypto-mining GPU crisis, but Tom's Hardware calls that unlikely: the PS5 doesn't have the fastest GPU or the most RAM."
+        }
+      ]
     }
   }
 }

@@ -7541,6 +7541,166 @@
           "x": "\"Puedes usar BRUTAL gratis, incluso en juegos comerciales\", dice Hall. \"No hay regalías\". Solo se exige la atribución. \"Si las herramientas son públicas... tienes opciones\"."
         }
       ]
+    },
+    "games/games-roblox-audioscape": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Roblox ha incorporado a la empresa al equipo detrás de Audioscape, startup de audio con AI, y su tecnología pasará a formar parte de las herramientas para creadores de la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Sean Varah, fundador de Audioscape, anunció el movimiento y dijo que se centrará en desarrollar una hoja de ruta más amplia para el audio y la música en toda la experiencia de creadores de Roblox."
+        },
+        {
+          "t": "p",
+          "x": "El equipo ha desarrollado herramientas AI-powered de búsqueda y descubrimiento de audio que ayudan a los creadores a encontrar sonidos según cómo suenan realmente, y no solo por su nombre."
+        },
+        {
+          "t": "p",
+          "x": "Recientemente, Audioscape desarrolló un AI Audio Agent que abarca el descubrimiento de audio, el diseño de sonido, la programación de audio, la mezcla y las pruebas. La herramienta busca acercar a los creadores de Roblox aspectos de la producción de audio triple-A."
+        },
+        {
+          "t": "p",
+          "x": "“Unirse a Roblox significa que esta tecnología pasará a ser una parte nativa de la plataforma, disponible para los millones de creadores que construyen en Roblox cada día. Me centraré en impulsar una hoja de ruta integral para la creación de audio y música en toda la experiencia de creadores, y no podría estar más entusiasmado con lo que viene”, dijo Varah."
+        },
+        {
+          "t": "p",
+          "x": "El equipo creó sus herramientas de forma nativa para Roblox, y el movimiento llevará la tecnología directamente a los creadores de la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Varah también agradeció a los primeros simpatizantes, asesores e inversores que respaldaron a Audioscape, así como a los creadores de Roblox que ayudaron al equipo."
+        }
+      ]
+    },
+    "games/games-scam-with-friends": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
+          "cap": "TOP 10 de los juegos más populares de Steam en todo el mundo a las 5 p. m. del 16 de octubre (Fuente: Steam)"
+        },
+        {
+          "t": "p",
+          "x": "El nuevo juego cooperativo de simulación 'Scam With Your Friends' se lanzó en acceso anticipado en Steam el día 16 y escaló a lo más alto de la lista mundial de juegos más populares. Su premisa de montar estafas a una AI generativa y las situaciones divertidas que surgen durante el juego en equipo captaron la atención de los jugadores."
+        },
+        {
+          "t": "p",
+          "x": "Es un juego cooperativo ambientado en una banda de estafadores que se hace pasar por un centro de llamadas: hasta 6 jugadores asumen el papel de empleados de oficina y deben cumplir la cuota diaria de ingresos de todo el equipo dentro de un horario laboral fijo. Si no alcanzan la cuota, el jefe emite una dura evaluación de desempeño, y el monto objetivo sube a medida que pasan los días."
+        },
+        {
+          "t": "p",
+          "x": "El núcleo del juego son las llamadas en tiempo real con clientes de AI generativa y el hackeo. Tras contestar una llamada entrante, hay que hablar directamente al micrófono o escribir texto para reducir las sospechas del cliente de AI y llevarlo a dar números de tarjetas de regalo o a hacer transferencias bancarias. También es posible conectarse de forma remota al PC de la víctima para robar sus datos personales mientras la llamada la mantiene distraída."
+        },
+        {
+          "t": "video",
+          "yt": "e4BhBUryVFY"
+        },
+        {
+          "t": "p",
+          "x": "La valoración de los usuarios de Steam es 'Mayormente positiva' (705 reseñas, 71% positivas). Se destacaron como puntos fuertes engañar a los clientes de AI con mentiras improvisadas, sin un guion fijo, y la evaluación de desempeño del jefe al final de cada jornada mientras se ven juntos los mejores momentos de las llamadas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
+          "cap": "Captura de pantalla de Scam With Your Friends (Fuente de la imagen: página del juego en Steam)"
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, se señalaron problemas de optimización, como frecuentes fallos de respuesta por servidores inestables, errores de reconocimiento de voz y caídas de fotogramas. En particular, se mencionó que en idiomas distintos del inglés, incluido el coreano, los retrasos de respuesta son tan graves que dificultan jugar con normalidad. También surgió preocupación por un cierre prematuro del servicio o un paso a un modelo de suscripción de pago debido al costo de mantener los servidores de AI."
+        }
+      ]
+    },
+    "games/games-oblivion-claude-fpsfix": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The Elder Scrolls IV: Oblivion Remastered arrastra desde su lanzamiento cuellos de botella de CPU, tiempos de fotograma irregulares y tirones al desplazarse. El usuario de Reddit LTSharpe, cuyo equipo con Ryzen 7 5800X seguía teniendo problemas tras pasar de una RTX 2070 SUPER a una Radeon RX 9070 XT, recurrió a Claude Opus 5.5, que, según se informa, identificó varias ineficiencias fundamentales en el código del juego."
+        },
+        {
+          "t": "p",
+          "x": "Siguieron unas dos semanas y media de ingeniería inversa, perfilado y optimización asistidos por IA (AI-assisted). Sin experiencia profesional en desarrollo, LTSharpe dirigió a Claude para producir unas 40 optimizaciones a nivel de motor, empaquetadas en un mod de código abierto llamado Oblivion Remastered Performance Fix."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Según se informa, el juego reconstruía la iluminación del sol y la luna en cada fotograma, con asignaciones de memoria redundantes y la preparación de comandos de DirectX 12 confinada en gran medida a un solo hilo. El mod mejora el multihilo y la gestión de memoria y, según se informa, conserva Nanite, Lumen y otros ajustes visuales."
+        },
+        {
+          "t": "video",
+          "yt": "K8WkCz6cuHk"
+        },
+        {
+          "t": "p",
+          "x": "En un recorrido aéreo por Imperial City a 4K con FSR Performance y Frame Generation, los FPS medios subieron de 72 a 102 (+41%) y los tirones de más de 50 ms bajaron de 19.5 a 4.8 por recorrido. Cheydinhal pasó de 64 a 91 FPS (+43%). Los resultados proceden principalmente de un único sistema Ryzen 7 5800X/RX 9070 XT, y la beta v1.0.0 incluye el código fuente y herramientas de benchmarking."
+        }
+      ]
+    },
+    "games/games-unity-aijam-busan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
+          "cap": "Póster de la Unity AI Game Jam (Imagen cedida por Unity)"
+        },
+        {
+          "t": "p",
+          "x": "Unity y la Asociación de la Industria del Juego de Corea anunciaron que reclutarán participantes para la 'Unity AI Game Jam' del 12 al 20 de octubre. El evento se celebrará del 18 al 19 de noviembre en BEXCO, en Busan, en una jornada continua de 24 horas, antes de la apertura de G-STAR 2026, la mayor feria de videojuegos del país."
+        },
+        {
+          "t": "p",
+          "x": "Las inscripciones están abiertas en Unity Square hasta el 20 de octubre y podrían cerrarse antes según la demanda. Puede inscribirse cualquier persona interesada en el desarrollo y la creación de juegos, sin importar su formación o experiencia laboral. Unity prevé seleccionar a 55 participantes finales tras una revisión de solicitudes, y los equipos se formarán en el lugar."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI y Meshy.ai participan como patrocinadores oficiales. Los participantes podrán usar las funciones de AI de Unity, como Unity CLI y el plugin de Codex. Unity entregará a cada participante créditos para herramientas de AI por valor de 50 dólares (unos 67,500 wones), OpenAI ofrecerá créditos y mentoría presencial de sus ingenieros, y Meshy.ai aportará créditos para generar recursos 3D solo a partir de texto o imágenes."
+        },
+        {
+          "t": "p",
+          "x": "Según la categoría, los equipos ganadores tendrán la oportunidad de exhibir su juego en el stand de Unity en G-STAR 2026, una suscripción de 1 año a ChatGPT Pro y entrevistas en los blogs oficiales global y coreano de Unity. El 27 de octubre se celebrará un seminario web previo en directo en el canal de YouTube de Unity Korea."
+        },
+        {
+          "t": "p",
+          "x": "Song Min-seok, director ejecutivo de Unity Korea, afirmó: “La AI se está convirtiendo en un socio sólido que acelera la conversión de ideas en juegos y ayuda a los creadores a hacer intentos más audaces y diversos”."
+        }
+      ]
+    },
+    "games/games-konami": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/silent-hill-2-remake-review-6.jpg?width=1600&quality=85&format=jpg&auto=webp",
+          "cap": "Imagen: Rock Paper Shotgun / Konami"
+        },
+        {
+          "t": "p",
+          "x": "Según detectó Dengeki Online y tradujo Automaton, el presidente de Konami Digital Entertainment, Hideki Hayakawa, compartió su opinión sobre el rápido desarrollo de la tecnología de IA en el último informe integrado de la compañía."
+        },
+        {
+          "t": "p",
+          "x": "Hayakawa contradice la creencia generalizada de que la IA generativa facilitará el desarrollo de videojuegos y afirma que no supondrá un cambio significativo porque \"las barreras de entrada ya se han reducido gracias a los avances de los motores de juego genéricos y la difusión del UGC (contenido generado por los usuarios)\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Aunque el uso de la IA mejore la eficiencia de producción, creo que los factores más importantes para crear videojuegos entretenidos e innovadores son las personas y los creadores\". Esa \"especie de reacción química\" que surge cuando trabajan juntos desarrolladores de perfiles diversos \"no es algo que pueda sustituirse fácilmente\", añadió."
+        },
+        {
+          "t": "p",
+          "x": "Konami no renuncia a la tecnología: \"Konami ofrece un apoyo sistemático para que los creadores comprendan las nuevas tecnologías, evalúen adecuadamente los riesgos que puedan conllevar y las apliquen de forma segura al desarrollo de juegos\", afirmó."
+        }
+      ]
     }
   }
 }

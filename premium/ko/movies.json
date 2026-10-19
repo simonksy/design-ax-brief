@@ -12660,6 +12660,138 @@
           "x": "지금 저장소에 올라온 기능은 자동 감지를 갖춘 그린스크린·블루스크린 전용 체크포인트, 네이티브 2048x2048 백본에서 최대 4K 해상도까지 해상도와 무관하게 돌아가는 추론, Nuke·Fusion·Resolve용 16비트·32비트 선형 EXR 입출력, 트래킹 마커 자동 정리다. 최신 빌드는 6–8GB VRAM과 대부분의 M1+ Macs에서 돌아간다."
         }
       ]
+    },
+    "movies/movies-nvidia-editors-day": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mike McCarthy는 San Francisco에서 열린 Nvidia의 “Editor’s Day”에 참석했다. RTX Spark 노트북·데스크톱 라인업 출시를 앞두고 회사가 마련한 행사로, AI와 새 하드웨어로 로컬 AI 처리를 어떻게 돌리는지 다룬 발표가 하루 종일 이어졌다."
+        },
+        {
+          "t": "p",
+          "x": "통합 메모리 덕분에 GPUs가 시스템 메모리를 최대 전부까지 쓸 수 있어, 돌릴 수 있는 AI 모델의 선택지가 넓어진다. Nvidia는 Adobe와 손잡고 클라우드에서 돌던 Creative Cloud 기능 일부를 로컬로 가져왔다. Premiere의 이미지 마스킹과 오디오 향상, Photoshop의 개체 제거 같은 기능이다. 클라우드와 로컬 처리 중 하나를 고르는 UI 옵션도 새로 생겼다."
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+        },
+        {
+          "t": "p",
+          "x": "두 번째로 내민 것은 MCP로 묶은 에이전트형 AI다. SparkN1x는 ARM 프로세서를 CPU로 쓰고 Windows 11 for ARM에서 돌아간다. McCarthy가 로컬 Qwen3.8-27B 모델로 Hermes 하네스를 시험해 보니 MCP로 Blender에 붙지 못했고, ComfyUI 프롬프트에서 단어 하나 바꾸는 데 40분이 걸렸다. “에이전트형 AI를 처음 써 본 경험은 긍정적이지 않았다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nvidia 계산으로는 RTX Spark를 쉬지 않고 돌리면 한 달에 $1,200 어치의 AI-token을 처리할 수 있다. 실사용 테스트 대부분에서 McCarthy의 Surface Ultra 노트북은 자신의 Core i7 데스크톱 워크스테이션과 비슷한 성능을 냈다."
+        }
+      ]
+    },
+    "movies/movies-gibney-musk-avatar": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
+          "cap": "2026년 9월 8일 Venice, Italy에서 열린 제83회 Venice International Film Festival(베네치아 국제영화제) 'Musk' 포토콜에 참석한 Alex Gibney"
+        },
+        {
+          "t": "p",
+          "x": "Alex Gibney가 Elon Musk를 그린 “Musk”에서 인공지능은 창작상의 선택이면서 경고하는 이야기이기도 하다. Gibney는 IndieWire의 “Screen Talk” 팟캐스트에서 Musk와 닿은 통로는 X가 유일했고, 제작진이 대면 인터뷰를 따내기는 불가능했을 거라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "그래서 제작진은 일부러 uncanny-valley(불쾌한 골짜기) 느낌이 나는 Musk 아바타를 AI로 만들고, 그의 공개 발언을 모두 엮어 시뮬레이션 “인터뷰”를 꾸렸다. Gibney는 “Elon이 실제로 한 말을 방대한 데이터베이스로 모았고, 영화에 쓴 녹음은 바로 그 녹음이다”라고 말했다. 시뮬레이션 속에 산다는 생각에 Musk가 집착한다는 데서 떠올린 아이디어다."
+        },
+        {
+          "t": "p",
+          "x": "스튜디오 MakeMake와 함께 “세트를 디자인했다. 그가 입을 옷을 정했다. 게이머 의자에 앉히기로 했다 … 그런 다음 몇 가지 AI 도구로 그 인물을 오디오에 맞춰 동기화했다. 오디오는 실제 음성이다.”"
+        },
+        {
+          "t": "p",
+          "x": "영화는 AI를 경계하는 시선도 놓지 않는다. Gibney는 DOGE 직원들이 U.S. 시민 데이터를 대량으로 쌓아 둔 일, 그리고 그런 개인 데이터로 AI를 학습시키는 것을 두고 Geoffrey Hinton이 품은 우려를 짚는다."
+        }
+      ]
+    },
+    "movies/movies-fall2-flawless-vfx": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Michael and Peter Spierig 형제가 연출한 'Fall 2: Deadpoint'는 서바이벌 스릴러의 무대를 TV 타워 하나에서 태국(Thailand)의 가상 산 Mount Kwan으로 옮겼다. 태국의 한 채석장 절벽 위, 지상 약 여섯 미터 높이에는 판자 구조물을 세웠다. Koala FX는 디지털 매트 페인팅으로 만든 풀 CG Mount Kwan과 2.5D 세트 확장, CG 환경까지 400개가 넘는 VFX 숏을 납품했다."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "첫 'Fall'에서는 Scott Mann의 Flawless가 AI 도구 TrueSync로 일부 장면을 다시 더빙했다. 등급 분류를 맞추느라 F-bombs 몇 개를 바꿔야 했던 장면들이다. Koala FX 매니징 디렉터 Dasha Sherman은 “우리는 거의 그들의 테스트 플랫폼이 됐다”며 “Fall 2에서는 R&D 과정에 더 가까웠다”고 말했다. 작업은 주로 수백 개 숏의 와이어 제거였다. Flawless가 도구를 다듬는 사이 Koala FX는 피드백을 보탰다."
+        },
+        {
+          "t": "p",
+          "x": "VFX 슈퍼바이저 Menelaos Pampoukidis는 업체가 쌓아 온 파이프라인 경험 덕에 AI 도구를 실제 현장 조건에서 꼼꼼히 시험해 볼 수 있었다고 말한다. 플레이트의 조명 깜빡임과 그레인 제거, 마무리 단계의 숏별 부분 수정에도 실무 조언을 보탰다. 두 회사의 협업은 현재 Scott Mann 연출로 제작 중인 'Fall 3'에서도 이어질 예정이다."
+        }
+      ]
+    },
+    "movies/movies-duvernay-14th-asteria": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
+          "cap": "64th New York Film Festival '14th' 기자회견에 나선 Ava DuVernay"
+        },
+        {
+          "t": "p",
+          "x": "'13th'로 New York Film Festival의 문을 연 지 10년 만에, Ava DuVernay는 '14th'로 같은 영화제의 막을 내린다. 그래도 “속편이라고 하지는 않겠다”는 게 그의 말이다. 처음엔 출생시민권을 다루려던 영화였지만, 지금 벌어지는 사건들을 배경 삼아 14th Amendment(수정헌법 제14조) 전체를 들여다보는 작품으로 커졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
+          "cap": "'14th'에 등장한 Ava DuVernay와 역사학자 Dr. David Blight"
+        },
+        {
+          "t": "p",
+          "x": "제작팀은 Library of Congress부터 Arkansas Historical Society, 가족 앨범까지 뒤져 사진을 모았고, DuVernay는 이를 복원하려고 Asteria Film Co.와 손잡았다. 한 번도 디지털화된 적 없는 슬라이드도 있었다. 그는 “그중 일부는 정말 심하게 훼손돼 있었다”고 했다. “영화에 넣을 만큼 해상도를 끌어올리기가 사실상 어렵다”는 바로 그 지점에서 Asteria의 AI-powered 도구가 힘을 보탰다."
+        },
+        {
+          "t": "p",
+          "x": "복원 작업은 입체 기법으로 이어졌다. “먼저 복원을 하고, 그다음 로토스코프를 하고, 약간의 움직임을 위해 아주 조금 애니메이션을 넣는다. 그곳 아티스트들이 그 도구들로 사진에 생명을 불어넣었다.” 영화는 11월 27일 일부 극장에서 먼저 개봉하고, 12월 4일 Netflix에 공개된다."
+        }
+      ]
+    },
+    "movies/movies-artlist-arc": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/maxresdefault.jpg?w=1280&h=720&crop=1",
+          "cap": "'The Arc' (스크린숏/YouTube)"
+        },
+        {
+          "t": "p",
+          "x": "Artlist의 5부작 SF 미니시리즈 “The Arc”는 가학적인 미래 감옥 프로그램에 갇힌 아버지가 병든 아들을 위한 “치료제”를 얻으려고 역사 속 격렬한 전투에서 살아남아야 하는 이야기다. 감독 Darin Stewart와 프로듀서 Simone Ferretti는 Business Insider에 생성형 모델 덕분에 누구나 영화를 만들 수 있게 된다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "음악·효과음 라이브러리였던 Artlist는 AI 쪽으로 방향을 완전히 틀었다. 영상·이미지·텍스트 생성 요금제를 단계별로 제공하고, Veo, Seedance, Kling 같은 모델을 선보이는 작은 스트리밍 플랫폼도 운영한다."
+        },
+        {
+          "t": "p",
+          "x": "IndieWire는 생성형 모델만으로 만든 작품은 “예술적 가치가 없다”고 본다. 팀이 대본을 얻으려고 Claude에 넣은 “10분짜리 구두 브레인 덤프”, 표정 없는 AI 배우, 프롬프트당 8초(Veo) 또는 30초(Seedance)라는 모델 한도가 그 근거다."
+        },
+        {
+          "t": "p",
+          "x": "팀이 받은 AI 크레딧은 38,000달러로 편당 약 7,600달러다. API-pricing으로 따지면 83분 분량의 영상을 뽑을 수 있는 돈이고 Artlist의 AI Creator 요금제는 연 500달러다. 참여자 모두 하루 전액 일당을 받았지만, IndieWire는 더 적은 인원이 더 빨리 일하는 구조는 결국 엔터테인먼트 일을 숙련 없이도 하는 일로 만든다고 경고한다."
+        }
+      ]
     }
   }
 }

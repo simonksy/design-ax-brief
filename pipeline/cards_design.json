@@ -1,1045 +1,17 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "section": "design",
   "cards": [
     {
-      "id": "design-figma-systems",
+      "id": "design-kling4",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Figma 디자인 시스템\n에이전트가 패턴을 배운다",
-      "body": "Figma 디자인 시스템이 GitHub·npm 코드와 지침으로 에이전트를 이끈다.",
-      "mini_headline": "Figma 시스템이 에이전트 안내",
-      "tool": "Figma",
-      "source": "Figma",
-      "url": "https://www.figma.com/blog/build-by-design/",
-      "accent": "#0070f3",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "Figma CEO Dylan Field는 AI 덕분에 코딩 비용이 낮아져 이제 팀이 '출시하려고 만드는(build to ship)' 것뿐 아니라 '생각하려고 만드는(build to think)' 단계까지 간다고 말한다. Figma는 두 가지를 모두 풀스택 크리에이티브 캔버스 안에 담으려 한다."
-          },
-          {
-            "t": "p",
-            "x": "Code layers가 모든 플랜에서 오픈 베타로 전환됐다. 팀은 디자인에서 변환하든 업로드하든, MCP로 가져오든 GitHub에서 불러오든, Chrome 확장 프로그램으로 캡처하든 코드 기반 프로토타입을 캔버스에서 바로 살펴본다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-            "cap": "Figma 캔버스에 띄운 Pickup App 미리보기와 App.tsx 소스 코드."
-          },
-          {
-            "t": "p",
-            "x": "이제 디자인 시스템은 게시된 라이브러리에 가이드라인을 담아 에이전트가 정해진 패턴을 따르게 한다. GitHub 저장소나 npm 패키지의 코드 소스도 함께 담긴다. 변경 사항과 의존 관계를 추적하는 시스템 맵, 누락된 설명이나 인터랙티브 상태 같은 빈틈을 찾아내는 시스템 체크도 미리 공개됐다. 가이드라인(오픈 베타)과 코드 소스(클로즈드 베타)는 모든 유료 플랜에 제공된다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-            "cap": "디자인 시스템 대시보드가 라이브러리와 코드를 한눈에 보여주고 컴포넌트·토큰 문제를 짚어준다."
-          },
-          {
-            "t": "p",
-            "x": "Markdown 맥락을 담는 네이티브 공간인 Specs는 거친 아이디어를 상세한 스펙으로 다듬은 뒤 Figma의 MCP 서버로 코딩 에이전트에 넘긴다. 모든 유료 플랜에서 베타로 열린다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-            "cap": "GitHub를 참고해 기술 스펙을 쓰라는 프롬프트와 그렇게 나온 스펙."
-          },
-          {
-            "t": "p",
-            "x": "12개월 새 다운로드가 6배 늘어난 Payload가 Figma에 합류했다. Figma 에이전트는 정식 출시됐고, MCP에는 OpenCode, Dia, JetBrains의 Junie, Meta Muse를 비롯해 20개 신규 파트너 연동이 붙었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
-            "cap": "Payload CMS 이벤트 목록, 그리고 이 목록으로 돌아가는 이벤트 웹페이지."
-          }
-        ]
-      },
-      "_lead_image": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-      "_video": "",
-      "text": {
-        "en": {
-          "headline": "Figma design systems now\nteach agents your patterns",
-          "body": "Figma design systems can now carry guidelines and import code from GitHub or npm, so agents build on-pattern.",
-          "mini_headline": "Figma systems guide agents",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Figma CEO Dylan Field says AI has made coding cheap, so teams now 'build to think' as well as 'build to ship' — and Figma wants to bring both into its full-stack creative canvas."
-              },
-              {
-                "t": "p",
-                "x": "Code layers moves into open beta on all plans, letting teams explore code-backed prototypes on the canvas — converted from designs, uploaded, brought in via MCP, imported from GitHub or captured with the Chrome extension."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "A Pickup App preview on the Figma canvas beside its App.tsx source code."
-              },
-              {
-                "t": "p",
-                "x": "Design systems can now carry guidelines on published libraries so agents follow established patterns, plus code sources imported from a GitHub repository or npm package. Figma is also previewing a system map to track changes and dependencies and a system check that finds gaps like missing descriptions and interactive states. Guidelines (open beta) and code sources (closed beta) come to all paid plans."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "The design systems dashboard maps libraries and code and flags component and token issues."
-              },
-              {
-                "t": "p",
-                "x": "Specs, a native home for Markdown context, lets teams turn rough ideas into detailed specs and hand them to coding agents via Figma's MCP server; it opens in beta on all paid plans."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "A prompt to write a technical spec using GitHub, beside the resulting spec."
-              },
-              {
-                "t": "p",
-                "x": "Payload, whose downloads grew 6x in 12 months, is now in Figma, the Figma agent is generally available, and the MCP adds 20 new partner integrations including OpenCode, Dia, Junie by JetBrains and Meta Muse."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
-                "cap": "A Payload CMS event list alongside the events webpage it powers."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Figma 디자인 시스템\n에이전트가 패턴을 배운다",
-          "body": "Figma 디자인 시스템이 GitHub·npm 코드와 지침으로 에이전트를 이끈다.",
-          "mini_headline": "Figma 시스템이 에이전트 안내",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Figma CEO Dylan Field는 AI 덕분에 코딩 비용이 낮아져 이제 팀이 '출시하려고 만드는(build to ship)' 것뿐 아니라 '생각하려고 만드는(build to think)' 단계까지 간다고 말한다. Figma는 두 가지를 모두 풀스택 크리에이티브 캔버스 안에 담으려 한다."
-              },
-              {
-                "t": "p",
-                "x": "Code layers가 모든 플랜에서 오픈 베타로 전환됐다. 팀은 디자인에서 변환하든 업로드하든, MCP로 가져오든 GitHub에서 불러오든, Chrome 확장 프로그램으로 캡처하든 코드 기반 프로토타입을 캔버스에서 바로 살펴본다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Figma 캔버스에 띄운 Pickup App 미리보기와 App.tsx 소스 코드."
-              },
-              {
-                "t": "p",
-                "x": "이제 디자인 시스템은 게시된 라이브러리에 가이드라인을 담아 에이전트가 정해진 패턴을 따르게 한다. GitHub 저장소나 npm 패키지의 코드 소스도 함께 담긴다. 변경 사항과 의존 관계를 추적하는 시스템 맵, 누락된 설명이나 인터랙티브 상태 같은 빈틈을 찾아내는 시스템 체크도 미리 공개됐다. 가이드라인(오픈 베타)과 코드 소스(클로즈드 베타)는 모든 유료 플랜에 제공된다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "디자인 시스템 대시보드가 라이브러리와 코드를 한눈에 보여주고 컴포넌트·토큰 문제를 짚어준다."
-              },
-              {
-                "t": "p",
-                "x": "Markdown 맥락을 담는 네이티브 공간인 Specs는 거친 아이디어를 상세한 스펙으로 다듬은 뒤 Figma의 MCP 서버로 코딩 에이전트에 넘긴다. 모든 유료 플랜에서 베타로 열린다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "GitHub를 참고해 기술 스펙을 쓰라는 프롬프트와 그렇게 나온 스펙."
-              },
-              {
-                "t": "p",
-                "x": "12개월 새 다운로드가 6배 늘어난 Payload가 Figma에 합류했다. Figma 에이전트는 정식 출시됐고, MCP에는 OpenCode, Dia, JetBrains의 Junie, Meta Muse를 비롯해 20개 신규 파트너 연동이 붙었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
-                "cap": "Payload CMS 이벤트 목록, 그리고 이 목록으로 돌아가는 이벤트 웹페이지."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Figmaのデザインシステム\nエージェントに型を教える",
-          "body": "Figmaのデザインシステムが指針とGitHub・npmのコードでエージェントを導く。",
-          "mini_headline": "Figmaシステムがエージェントを導く",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Figma CEOのDylan Fieldは、AIでコーディングのコストが下がり、チームは「出すために作る(build to ship)」だけでなく「考えるために作る(build to think)」ようになったと語る。Figmaはその両方をフルスタックのクリエイティブキャンバスに取り込みたい考えだ。"
-              },
-              {
-                "t": "p",
-                "x": "Code layersが全プランでオープンベータに移行した。デザインから変換したもの、アップロードしたもの、MCP経由で持ち込んだもの、GitHubから読み込んだもの、Chrome拡張機能でキャプチャしたものなど、コードに裏打ちされたプロトタイプをキャンバス上で試せる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Figmaキャンバス上のPickup AppのプレビューとそのApp.tsxソースコード。"
-              },
-              {
-                "t": "p",
-                "x": "デザインシステムは公開ライブラリにガイドラインを持たせ、エージェントが既存のパターンに従うようにできるほか、GitHubリポジトリやnpmパッケージから取り込んだコードソースも持てるようになった。Figmaは変更と依存関係を追跡するシステムマップと、説明の欠落やインタラクティブな状態の不足といった抜けを見つけるシステムチェックもプレビュー公開している。ガイドライン(オープンベータ)とコードソース(クローズドベータ)はすべての有料プランで提供される。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "デザインシステムのダッシュボードがライブラリとコードを可視化し、コンポーネントやトークンの問題を示す。"
-              },
-              {
-                "t": "p",
-                "x": "Markdownのコンテキストをネイティブに置く場であるSpecsは、粗いアイデアを詳細な仕様に落とし込み、FigmaのMCPサーバー経由でコーディングエージェントに渡せる。すべての有料プランでベータとして公開される。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "GitHubを使って技術仕様を書くよう求めるプロンプトと、その結果の仕様。"
-              },
-              {
-                "t": "p",
-                "x": "12か月でダウンロード数が6倍に伸びたPayloadがFigmaに加わり、Figmaエージェントは一般提供となり、MCPにはOpenCode、Dia、JetBrainsのJunie、Meta Museなど20の新たなパートナー連携が加わった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
-                "cap": "Payload CMSのイベント一覧と、それが支えるイベントのウェブページ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Figma设计系统\n教智能体遵循你的模式",
-          "body": "Figma设计系统现可承载规范并从GitHub或npm导入代码，让智能体按模式构建。",
-          "mini_headline": "Figma系统引导智能体",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Figma CEO Dylan Field表示，AI让编程变得廉价，团队如今不仅“为发布而构建（build to ship）”，也“为思考而构建（build to think）”，而Figma希望把两者都纳入其全栈创意画布。"
-              },
-              {
-                "t": "p",
-                "x": "Code layers在所有方案中进入公开测试，团队可在画布上探索由代码支撑的原型——可由设计转换、上传、通过MCP导入、从GitHub导入，或用Chrome扩展捕获。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Figma画布上的Pickup App预览，旁边是其App.tsx源代码。"
-              },
-              {
-                "t": "p",
-                "x": "设计系统现在可以在已发布的库中附带规范，让智能体遵循既定模式，还可加入从GitHub仓库或npm包导入的代码源。Figma还在预览两项功能：用于追踪变更与依赖关系的系统地图，以及找出缺失描述、交互状态等空白的系统检查。规范（公开测试）和代码源（封闭测试）将面向所有付费方案推出。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "设计系统仪表盘梳理库与代码，并标出组件和令牌问题。"
-              },
-              {
-                "t": "p",
-                "x": "Specs是承载Markdown上下文的原生空间，团队可将粗略想法整理成详细规格，再通过Figma的MCP服务器交给编程智能体；它以测试版形式向所有付费方案开放。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "一条借助GitHub撰写技术规格的提示，旁边是生成的规格。"
-              },
-              {
-                "t": "p",
-                "x": "12个月内下载量增长6倍的Payload现已进入Figma，Figma智能体已全面上线，MCP新增20项合作伙伴集成，包括OpenCode、Dia、JetBrains的Junie和Meta Muse。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
-                "cap": "Payload CMS活动列表，以及由它驱动的活动网页。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los sistemas de diseño de Figma\nenseñan tus patrones a agentes",
-          "body": "Los sistemas de diseño de Figma admiten pautas e importan código de GitHub o npm para que los agentes sigan el patrón.",
-          "mini_headline": "Los sistemas de Figma guían a los agentes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Dylan Field, CEO de Figma, afirma que la IA ha abaratado la programación, de modo que los equipos ahora 'construyen para pensar' además de 'construir para lanzar', y Figma quiere reunir ambas cosas en su lienzo creativo full-stack."
-              },
-              {
-                "t": "p",
-                "x": "Code layers pasa a beta abierta en todos los planes y permite explorar en el lienzo prototipos respaldados por código: convertidos desde diseños, subidos, incorporados vía MCP, importados desde GitHub o capturados con la extensión de Chrome."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Vista previa de Pickup App en el lienzo de Figma junto a su código fuente App.tsx."
-              },
-              {
-                "t": "p",
-                "x": "Los sistemas de diseño ya pueden incluir pautas en las bibliotecas publicadas para que los agentes sigan los patrones establecidos, además de fuentes de código importadas desde un repositorio de GitHub o un paquete de npm. Figma también presenta en vista previa un mapa del sistema para seguir cambios y dependencias, y una revisión del sistema que detecta carencias como descripciones o estados interactivos que faltan. Las pautas (beta abierta) y las fuentes de código (beta cerrada) llegan a todos los planes de pago."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "El panel de sistemas de diseño mapea bibliotecas y código y señala problemas de componentes y tokens."
-              },
-              {
-                "t": "p",
-                "x": "Specs, un espacio nativo para contexto en Markdown, permite convertir ideas iniciales en especificaciones detalladas y entregarlas a agentes de programación mediante el servidor MCP de Figma; se abre en beta en todos los planes de pago."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Una instrucción para redactar una especificación técnica con GitHub, junto a la especificación resultante."
-              },
-              {
-                "t": "p",
-                "x": "Payload, cuyas descargas se multiplicaron por 6 en 12 meses, ya está en Figma; el agente de Figma está disponible de forma general, y el MCP suma 20 nuevas integraciones de socios, entre ellas OpenCode, Dia, Junie de JetBrains y Meta Muse."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
-                "cap": "Una lista de eventos de Payload CMS junto a la página web de eventos que impulsa."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Figma 디자인 시스템\n에이전트가 패턴을 배운다",
-          "body": "Figma 디자인 시스템이 GitHub·npm 코드와 지침으로 에이전트를 이끈다.",
-          "mini_headline": "Figma 시스템이 에이전트 안내",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Figma CEO Dylan Field는 AI 덕분에 코딩 비용이 낮아져 이제 팀이 '출시하려고 만드는(build to ship)' 것뿐 아니라 '생각하려고 만드는(build to think)' 단계까지 간다고 말한다. Figma는 이 둘을 풀스택 크리에이티브 캔버스로 모두 가져오려 한다."
-              },
-              {
-                "t": "p",
-                "x": "Code layers가 모든 플랜에서 오픈 베타로 전환됐다. 팀은 디자인에서 변환하거나, 업로드하거나, MCP로 가져오거나, GitHub에서 불러오거나, Chrome 확장 프로그램으로 캡처한 코드 기반 프로토타입을 캔버스에서 탐색할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Figma 캔버스에 띄운 Pickup App 미리보기와 App.tsx 소스 코드."
-              },
-              {
-                "t": "p",
-                "x": "이제 디자인 시스템은 게시된 라이브러리에 가이드라인을 담아 에이전트가 정해진 패턴을 따르게 하고, GitHub 저장소나 npm 패키지에서 가져온 코드 소스도 담을 수 있다. Figma는 변경 사항과 의존 관계를 추적하는 시스템 맵, 누락된 설명이나 인터랙티브 상태 같은 빈틈을 찾는 시스템 체크도 미리 선보인다. 가이드라인(오픈 베타)과 코드 소스(클로즈드 베타)는 모든 유료 플랜에 제공된다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "디자인 시스템 대시보드가 라이브러리와 코드를 한눈에 보여주고 컴포넌트·토큰 문제를 짚어준다."
-              },
-              {
-                "t": "p",
-                "x": "Markdown 맥락을 담는 네이티브 공간인 Specs는 거친 아이디어를 상세한 스펙으로 다듬어 Figma의 MCP 서버를 통해 코딩 에이전트에 넘기게 해준다. 모든 유료 플랜에서 베타로 열린다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "GitHub를 활용해 기술 스펙을 작성하라는 프롬프트와 그 결과 스펙."
-              },
-              {
-                "t": "p",
-                "x": "12개월 새 다운로드가 6배 늘어난 Payload가 Figma에 들어왔고, Figma 에이전트는 정식 출시됐으며, MCP에는 OpenCode, Dia, JetBrains의 Junie, Meta Muse를 포함한 20개 신규 파트너 연동이 추가됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
-                "cap": "Payload CMS 이벤트 목록과 이를 바탕으로 돌아가는 이벤트 웹페이지."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Figmaのデザインシステム\nエージェントに型を教える",
-          "body": "Figmaのデザインシステムが指針とGitHub・npmのコードでエージェントを導く。",
-          "mini_headline": "Figmaシステムがエージェントを導く",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Figma CEOのDylan Fieldは、AIでコーディングのコストが下がり、チームは「出すために作る(build to ship)」だけでなく「考えるために作る(build to think)」ようになったと語る。Figmaはその両方をフルスタックのクリエイティブキャンバスに取り込みたい考えだ。"
-              },
-              {
-                "t": "p",
-                "x": "Code layersが全プランでオープンベータに移行した。デザインから変換したもの、アップロードしたもの、MCP経由で持ち込んだもの、GitHubから読み込んだもの、Chrome拡張機能でキャプチャしたものなど、コードに裏打ちされたプロトタイプをキャンバス上で試せる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Figmaキャンバス上のPickup AppのプレビューとそのApp.tsxソースコード。"
-              },
-              {
-                "t": "p",
-                "x": "デザインシステムは公開ライブラリにガイドラインを持たせ、エージェントが既存のパターンに従うようにできるほか、GitHubリポジトリやnpmパッケージから取り込んだコードソースも持てるようになった。Figmaは変更と依存関係を追跡するシステムマップと、説明の欠落やインタラクティブな状態の不足といった抜けを見つけるシステムチェックもプレビュー公開している。ガイドライン(オープンベータ)とコードソース(クローズドベータ)はすべての有料プランで提供される。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "デザインシステムのダッシュボードがライブラリとコードを可視化し、コンポーネントやトークンの問題を示す。"
-              },
-              {
-                "t": "p",
-                "x": "Markdownのコンテキストをネイティブに置く場であるSpecsは、粗いアイデアを詳細な仕様に落とし込み、FigmaのMCPサーバー経由でコーディングエージェントに渡せる。すべての有料プランでベータとして公開される。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "GitHubを使って技術仕様を書くよう求めるプロンプトと、その結果の仕様。"
-              },
-              {
-                "t": "p",
-                "x": "12か月でダウンロード数が6倍に伸びたPayloadがFigmaに加わり、Figmaエージェントは一般提供となり、MCPにはOpenCode、Dia、JetBrainsのJunie、Meta Museなど20の新たなパートナー連携が加わった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
-                "cap": "Payload CMSのイベント一覧と、それが支えるイベントのウェブページ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Figma设计系统\n教智能体遵循你的模式",
-          "body": "Figma设计系统现可承载规范并从GitHub或npm导入代码，让智能体按模式构建。",
-          "mini_headline": "Figma系统引导智能体",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Figma CEO Dylan Field表示，AI让编程变得廉价，团队如今不仅“为发布而构建（build to ship）”，也“为思考而构建（build to think）”，而Figma希望把两者都纳入其全栈创意画布。"
-              },
-              {
-                "t": "p",
-                "x": "Code layers在所有方案中进入公开测试，团队可在画布上探索由代码支撑的原型——可由设计转换、上传、通过MCP导入、从GitHub导入，或用Chrome扩展捕获。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Figma画布上的Pickup App预览，旁边是其App.tsx源代码。"
-              },
-              {
-                "t": "p",
-                "x": "设计系统现在可以在已发布的库中附带规范，让智能体遵循既定模式，还可加入从GitHub仓库或npm包导入的代码源。Figma还在预览两项功能：用于追踪变更与依赖关系的系统地图，以及找出缺失描述、交互状态等空白的系统检查。规范（公开测试）和代码源（封闭测试）将面向所有付费方案推出。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "设计系统仪表盘梳理库与代码，并标出组件和令牌问题。"
-              },
-              {
-                "t": "p",
-                "x": "Specs是承载Markdown上下文的原生空间，团队可将粗略想法整理成详细规格，再通过Figma的MCP服务器交给编程智能体；它以测试版形式向所有付费方案开放。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "一条借助GitHub撰写技术规格的提示，旁边是生成的规格。"
-              },
-              {
-                "t": "p",
-                "x": "12个月内下载量增长6倍的Payload现已进入Figma，Figma智能体已全面上线，MCP新增20项合作伙伴集成，包括OpenCode、Dia、JetBrains的Junie和Meta Muse。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
-                "cap": "Payload CMS活动列表，以及由它驱动的活动网页。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Los sistemas de diseño de Figma\nenseñan tus patrones a agentes",
-          "body": "Los sistemas de diseño de Figma admiten pautas e importan código de GitHub o npm para que los agentes sigan el patrón.",
-          "mini_headline": "Los sistemas de Figma guían a los agentes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Dylan Field, CEO de Figma, afirma que la IA ha abaratado la programación, de modo que los equipos ahora 'construyen para pensar' además de 'construir para lanzar', y Figma quiere reunir ambas cosas en su lienzo creativo full-stack."
-              },
-              {
-                "t": "p",
-                "x": "Code layers pasa a beta abierta en todos los planes y permite explorar en el lienzo prototipos respaldados por código: convertidos desde diseños, subidos, incorporados vía MCP, importados desde GitHub o capturados con la extensión de Chrome."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Vista previa de Pickup App en el lienzo de Figma junto a su código fuente App.tsx."
-              },
-              {
-                "t": "p",
-                "x": "Los sistemas de diseño ya pueden incluir pautas en las bibliotecas publicadas para que los agentes sigan los patrones establecidos, además de fuentes de código importadas desde un repositorio de GitHub o un paquete de npm. Figma también presenta en vista previa un mapa del sistema para seguir cambios y dependencias, y una revisión del sistema que detecta carencias como descripciones o estados interactivos que faltan. Las pautas (beta abierta) y las fuentes de código (beta cerrada) llegan a todos los planes de pago."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "El panel de sistemas de diseño mapea bibliotecas y código y señala problemas de componentes y tokens."
-              },
-              {
-                "t": "p",
-                "x": "Specs, un espacio nativo para contexto en Markdown, permite convertir ideas iniciales en especificaciones detalladas y entregarlas a agentes de programación mediante el servidor MCP de Figma; se abre en beta en todos los planes de pago."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Una instrucción para redactar una especificación técnica con GitHub, junto a la especificación resultante."
-              },
-              {
-                "t": "p",
-                "x": "Payload, cuyas descargas se multiplicaron por 6 en 12 meses, ya está en Figma; el agente de Figma está disponible de forma general, y el MCP suma 20 nuevas integraciones de socios, entre ellas OpenCode, Dia, Junie de JetBrains y Meta Muse."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
-                "cap": "Una lista de eventos de Payload CMS junto a la página web de eventos que impulsa."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-figma-payload",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Payload CMS가\nFigma Make 안으로",
-      "body": "오픈소스 CMS Payload가 Figma Make에 내장돼 백엔드를 더한다.",
-      "mini_headline": "Figma Make 속 Payload CMS",
-      "tool": "Figma",
-      "source": "Figma",
-      "url": "https://www.figma.com/blog/websites-with-payload-in-figma/",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-            "cap": "Make에서 Payload로 만들기(미리보기 모드)."
-          },
-          {
-            "t": "p",
-            "x": "Payload는 Figma에 합류한 팀이 만든 오픈소스 헤드리스 CMS로, 이제 Figma Make에 내장됐다. 지난 12개월 동안 다운로드가 6배 늘어 NPM에서 가장 빠르게 크는 오픈소스 CMS가 됐다."
-          },
-          {
-            "t": "p",
-            "x": "이제 Make에서 프롬프트로 앱을 만들면 데이터베이스, 파일 저장소, 사용자 로그인, 관리자 패널도 함께 갖춰진다. 디자이너는 실제 콘텐츠로 프롬프트를 쓰고, 마케터는 관리자 패널에서 콘텐츠를 고치며, 개발자는 Payload 프레임워크로 앱을 맞춤 설정한다. 권한은 역할별로 세밀하게 나뉜다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-            "cap": "Make에서 Payload로 만들기(CMS 모드)."
-          },
-          {
-            "t": "p",
-            "x": "콘텐츠, 미디어, 권한, 워크플로, 버전 관리, APIs, 관리자 패널은 Payload가 맡고 호스팅은 Figma가 한다. IBM의 디자이너 Noah Trevino는 화면과 필드 목록을 Figma에 넘겼고, 팀이 바로 고칠 수 있는 실제로 돌아가는 초안을 받았다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
-            "cap": "CSV 업로드(데모용 이름)."
-          },
-          {
-            "t": "p",
-            "x": "게시된 사이트 주소에 /admin을 붙이면 편집 패널이 열린다. 팀은 여기서 프롬프트를 쓰거나 티켓을 올리지 않고도 글을 만들고, 미디어를 바꾸고, 버전을 검토하고, 게시한다. API 키도 이제 별도의 Supabase 프로젝트 대신 Make 설정에 안전하게 보관된다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
-            "cap": "CMS에서 콘텐츠를 업데이트하는 모습."
-          },
-          {
-            "t": "p",
-            "x": "Payload는 모든 플랜에서 쓸 수 있고 앞으로 몇 주에 걸쳐 차례로 배포된다. Payload 기반 Make 프로젝트 호스팅은 무료 베타로 제공되고, 가격은 나중에 발표된다."
-          }
-        ]
-      },
-      "_lead_image": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-      "_video": "",
-      "text": {
-        "en": {
-          "headline": "Payload CMS arrives\ninside Figma Make",
-          "body": "Payload, the open-source headless CMS, is now built into Figma Make, adding a backend from prototype to production.",
-          "mini_headline": "Payload CMS in Figma Make",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Build with Payload in Make (preview mode)."
-              },
-              {
-                "t": "p",
-                "x": "Payload, the open-source headless CMS whose team joined Figma, is now built into Figma Make. In the past 12 months its downloads grew 6x, making it the fastest growing open source CMS on NPM."
-              },
-              {
-                "t": "p",
-                "x": "Prompting an app in Make now also sets up a database, file storage, user login and an admin panel. Designers prompt with real content, marketers update it through the admin panel, and developers customize the app with Payload's framework, with granular permissions for each role."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Build with Payload in Make (CMS mode)."
-              },
-              {
-                "t": "p",
-                "x": "Payload powers content, media, permissions, workflows, versioning, APIs and the admin panel, and Figma hosts it. At IBM, designer Noah Trevino gave Figma his screens and field list and got a working draft his team could update themselves."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "CSV upload (demo names)."
-              },
-              {
-                "t": "p",
-                "x": "An editing panel, reached by adding /admin to a published site, lets teams create articles, swap media, review versions and publish without prompting or filing a ticket. API keys can now be stored securely in Make's settings instead of a separate Supabase project."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Updating content in the CMS."
-              },
-              {
-                "t": "p",
-                "x": "Payload is available on all plans, rolling out over the coming weeks; hosting for Payload-backed Make projects is in free beta, with pricing to be announced."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Payload CMS가\nFigma Make 안으로",
-          "body": "오픈소스 CMS Payload가 Figma Make에 내장돼 백엔드를 더한다.",
-          "mini_headline": "Figma Make 속 Payload CMS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Make에서 Payload로 만들기(미리보기 모드)."
-              },
-              {
-                "t": "p",
-                "x": "Payload는 Figma에 합류한 팀이 만든 오픈소스 헤드리스 CMS로, 이제 Figma Make에 내장됐다. 지난 12개월 동안 다운로드가 6배 늘어 NPM에서 가장 빠르게 크는 오픈소스 CMS가 됐다."
-              },
-              {
-                "t": "p",
-                "x": "이제 Make에서 프롬프트로 앱을 만들면 데이터베이스, 파일 저장소, 사용자 로그인, 관리자 패널도 함께 갖춰진다. 디자이너는 실제 콘텐츠로 프롬프트를 쓰고, 마케터는 관리자 패널에서 콘텐츠를 고치며, 개발자는 Payload 프레임워크로 앱을 맞춤 설정한다. 권한은 역할별로 세밀하게 나뉜다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Make에서 Payload로 만들기(CMS 모드)."
-              },
-              {
-                "t": "p",
-                "x": "콘텐츠, 미디어, 권한, 워크플로, 버전 관리, APIs, 관리자 패널은 Payload가 맡고 호스팅은 Figma가 한다. IBM의 디자이너 Noah Trevino는 화면과 필드 목록을 Figma에 넘겼고, 팀이 바로 고칠 수 있는 실제로 돌아가는 초안을 받았다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "CSV 업로드(데모용 이름)."
-              },
-              {
-                "t": "p",
-                "x": "게시된 사이트 주소에 /admin을 붙이면 편집 패널이 열린다. 팀은 여기서 프롬프트를 쓰거나 티켓을 올리지 않고도 글을 만들고, 미디어를 바꾸고, 버전을 검토하고, 게시한다. API 키도 이제 별도의 Supabase 프로젝트 대신 Make 설정에 안전하게 보관된다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "CMS에서 콘텐츠를 업데이트하는 모습."
-              },
-              {
-                "t": "p",
-                "x": "Payload는 모든 플랜에서 쓸 수 있고 앞으로 몇 주에 걸쳐 차례로 배포된다. Payload 기반 Make 프로젝트 호스팅은 무료 베타로 제공되고, 가격은 나중에 발표된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Payload CMSが\nFigma Makeに登場",
-          "body": "オープンソースCMSのPayloadがFigma Makeに内蔵され、バックエンドを担う。",
-          "mini_headline": "Figma MakeにPayload CMS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "MakeでPayloadを使って構築(プレビューモード)。"
-              },
-              {
-                "t": "p",
-                "x": "Figmaに合流したチームによるオープンソースのヘッドレスCMS、PayloadがFigma Makeに組み込まれた。過去12か月でダウンロード数は6倍に伸び、NPMで最も急成長しているオープンソースCMSとなった。"
-              },
-              {
-                "t": "p",
-                "x": "Makeでプロンプトからアプリを作ると、データベース、ファイルストレージ、ユーザーログイン、管理パネルも用意されるようになった。デザイナーは実際のコンテンツでプロンプトを書き、マーケターは管理パネルから更新し、開発者はPayloadのフレームワークでアプリをカスタマイズする。役割ごとにきめ細かな権限も設定できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "MakeでPayloadを使って構築(CMSモード)。"
-              },
-              {
-                "t": "p",
-                "x": "コンテンツ、メディア、権限、ワークフロー、バージョン管理、APIs、管理パネルをPayloadが担い、ホスティングはFigmaが行う。IBMのデザイナーNoah Trevinoは画面とフィールド一覧をFigmaに渡し、チームが自ら更新できる動くドラフトを手にした。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "CSVアップロード(デモ用の名前)。"
-              },
-              {
-                "t": "p",
-                "x": "公開サイトのURLに/adminを付けると開く編集パネルでは、プロンプトもチケット起票もなしに記事の作成、メディアの差し替え、バージョンの確認、公開ができる。APIキーも別のSupabaseプロジェクトではなく、Makeの設定に安全に保存できるようになった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "CMSでコンテンツを更新する。"
-              },
-              {
-                "t": "p",
-                "x": "Payloadは全プランで利用でき、今後数週間かけて順次展開される。Payloadを使うMakeプロジェクトのホスティングは無料ベータで、料金は後日発表される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Payload CMS\n登陆Figma Make",
-          "body": "开源无头CMS Payload现已内置于Figma Make，补上从原型到生产的后端。",
-          "mini_headline": "Payload CMS进驻Figma Make",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "在Make中用Payload构建（预览模式）。"
-              },
-              {
-                "t": "p",
-                "x": "Payload是一款开源无头CMS，其团队已加入Figma，现在它已内置于Figma Make。过去12个月里，其下载量增长6倍，成为NPM上增长最快的开源CMS。"
-              },
-              {
-                "t": "p",
-                "x": "如今在Make中用提示词生成应用时，还会同时配置数据库、文件存储、用户登录和管理面板。设计师用真实内容编写提示，营销人员通过管理面板更新内容，开发者则用Payload的框架定制应用，每个角色都有细粒度权限。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "在Make中用Payload构建（CMS模式）。"
-              },
-              {
-                "t": "p",
-                "x": "Payload负责内容、媒体、权限、工作流、版本管理、APIs和管理面板，Figma负责托管。在IBM，设计师Noah Trevino把自己的界面和字段列表交给Figma，得到了一份团队可以自行更新的可用草稿。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "CSV上传（演示用名称）。"
-              },
-              {
-                "t": "p",
-                "x": "在已发布网站地址后加上/admin即可打开编辑面板，团队无需写提示或提交工单，就能创建文章、替换媒体、查看版本并发布。API密钥现在也可安全存放在Make的设置中，而不必另建Supabase项目。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "在CMS中更新内容。"
-              },
-              {
-                "t": "p",
-                "x": "Payload面向所有方案开放，将在未来几周内陆续推出；基于Payload的Make项目托管目前为免费测试，价格将另行公布。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Payload CMS llega\nal interior de Figma Make",
-          "body": "Payload, el CMS headless de código abierto, se integra en Figma Make y aporta un backend del prototipo a la producción.",
-          "mini_headline": "Payload CMS en Figma Make",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Crear con Payload en Make (modo de vista previa)."
-              },
-              {
-                "t": "p",
-                "x": "Payload, el CMS headless de código abierto cuyo equipo se unió a Figma, ya está integrado en Figma Make. En los últimos 12 meses sus descargas se multiplicaron por 6, lo que lo convierte en el CMS de código abierto de más rápido crecimiento en NPM."
-              },
-              {
-                "t": "p",
-                "x": "Al crear una app con un prompt en Make ahora también se configuran una base de datos, almacenamiento de archivos, inicio de sesión de usuarios y un panel de administración. Los diseñadores escriben prompts con contenido real, los especialistas en marketing lo actualizan desde el panel de administración y los desarrolladores personalizan la app con el framework de Payload, con permisos detallados para cada rol."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Crear con Payload en Make (modo CMS)."
-              },
-              {
-                "t": "p",
-                "x": "Payload gestiona contenido, medios, permisos, flujos de trabajo, control de versiones, APIs y el panel de administración, y Figma lo aloja. En IBM, el diseñador Noah Trevino le dio a Figma sus pantallas y su lista de campos y obtuvo un borrador funcional que su equipo podía actualizar por sí mismo."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Carga de CSV (nombres de demostración)."
-              },
-              {
-                "t": "p",
-                "x": "Un panel de edición, al que se accede añadiendo /admin a un sitio publicado, permite crear artículos, cambiar medios, revisar versiones y publicar sin escribir prompts ni abrir un ticket. Las claves de API ahora pueden guardarse de forma segura en la configuración de Make en lugar de en un proyecto aparte de Supabase."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Actualización de contenido en el CMS."
-              },
-              {
-                "t": "p",
-                "x": "Payload está disponible en todos los planes y se desplegará en las próximas semanas; el alojamiento de proyectos de Make con Payload está en beta gratuita y su precio se anunciará más adelante."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Payload CMS가\nFigma Make 안으로",
-          "body": "오픈소스 CMS Payload가 Figma Make에 내장돼 백엔드를 더한다.",
-          "mini_headline": "Figma Make 속 Payload CMS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Make에서 Payload로 만들기(미리보기 모드)."
-              },
-              {
-                "t": "p",
-                "x": "Figma에 합류한 팀이 만든 오픈소스 헤드리스 CMS인 Payload가 이제 Figma Make에 내장됐다. 지난 12개월 동안 다운로드가 6배 늘며 NPM에서 가장 빠르게 성장하는 오픈소스 CMS가 됐다."
-              },
-              {
-                "t": "p",
-                "x": "이제 Make에서 프롬프트로 앱을 만들면 데이터베이스, 파일 저장소, 사용자 로그인, 관리자 패널도 함께 구성된다. 디자이너는 실제 콘텐츠로 프롬프트를 쓰고, 마케터는 관리자 패널에서 콘텐츠를 고치며, 개발자는 Payload 프레임워크로 앱을 맞춤 설정한다. 역할마다 세분화된 권한이 주어진다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Make에서 Payload로 만들기(CMS 모드)."
-              },
-              {
-                "t": "p",
-                "x": "콘텐츠, 미디어, 권한, 워크플로, 버전 관리, APIs, 관리자 패널은 Payload가 맡고 호스팅은 Figma가 한다. IBM의 디자이너 Noah Trevino는 화면과 필드 목록을 Figma에 넘기고, 팀이 직접 수정할 수 있는 작동하는 초안을 받았다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "CSV 업로드(데모용 이름)."
-              },
-              {
-                "t": "p",
-                "x": "게시된 사이트 주소에 /admin을 붙이면 열리는 편집 패널에서 팀은 프롬프트를 쓰거나 티켓을 올리지 않고도 글을 만들고, 미디어를 바꾸고, 버전을 검토하고, 게시할 수 있다. API 키도 이제 별도의 Supabase 프로젝트 대신 Make 설정에 안전하게 저장할 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "CMS에서 콘텐츠를 업데이트하는 모습."
-              },
-              {
-                "t": "p",
-                "x": "Payload는 모든 플랜에서 쓸 수 있으며 앞으로 몇 주에 걸쳐 순차 배포된다. Payload 기반 Make 프로젝트 호스팅은 무료 베타로 제공되며 가격은 추후 발표된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Payload CMSが\nFigma Makeに登場",
-          "body": "オープンソースCMSのPayloadがFigma Makeに内蔵され、バックエンドを担う。",
-          "mini_headline": "Figma MakeにPayload CMS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "MakeでPayloadを使って構築(プレビューモード)。"
-              },
-              {
-                "t": "p",
-                "x": "Figmaに合流したチームによるオープンソースのヘッドレスCMS、PayloadがFigma Makeに組み込まれた。過去12か月でダウンロード数は6倍に伸び、NPMで最も急成長しているオープンソースCMSとなった。"
-              },
-              {
-                "t": "p",
-                "x": "Makeでプロンプトからアプリを作ると、データベース、ファイルストレージ、ユーザーログイン、管理パネルも用意されるようになった。デザイナーは実際のコンテンツでプロンプトを書き、マーケターは管理パネルから更新し、開発者はPayloadのフレームワークでアプリをカスタマイズする。役割ごとにきめ細かな権限も設定できる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "MakeでPayloadを使って構築(CMSモード)。"
-              },
-              {
-                "t": "p",
-                "x": "コンテンツ、メディア、権限、ワークフロー、バージョン管理、APIs、管理パネルをPayloadが担い、ホスティングはFigmaが行う。IBMのデザイナーNoah Trevinoは画面とフィールド一覧をFigmaに渡し、チームが自ら更新できる動くドラフトを手にした。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "CSVアップロード(デモ用の名前)。"
-              },
-              {
-                "t": "p",
-                "x": "公開サイトのURLに/adminを付けると開く編集パネルでは、プロンプトもチケット起票もなしに記事の作成、メディアの差し替え、バージョンの確認、公開ができる。APIキーも別のSupabaseプロジェクトではなく、Makeの設定に安全に保存できるようになった。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "CMSでコンテンツを更新する。"
-              },
-              {
-                "t": "p",
-                "x": "Payloadは全プランで利用でき、今後数週間かけて順次展開される。Payloadを使うMakeプロジェクトのホスティングは無料ベータで、料金は後日発表される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Payload CMS\n登陆Figma Make",
-          "body": "开源无头CMS Payload现已内置于Figma Make，补上从原型到生产的后端。",
-          "mini_headline": "Payload CMS进驻Figma Make",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "在Make中用Payload构建（预览模式）。"
-              },
-              {
-                "t": "p",
-                "x": "Payload是一款开源无头CMS，其团队已加入Figma，现在它已内置于Figma Make。过去12个月里，其下载量增长6倍，成为NPM上增长最快的开源CMS。"
-              },
-              {
-                "t": "p",
-                "x": "如今在Make中用提示词生成应用时，还会同时配置数据库、文件存储、用户登录和管理面板。设计师用真实内容编写提示，营销人员通过管理面板更新内容，开发者则用Payload的框架定制应用，每个角色都有细粒度权限。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "在Make中用Payload构建（CMS模式）。"
-              },
-              {
-                "t": "p",
-                "x": "Payload负责内容、媒体、权限、工作流、版本管理、APIs和管理面板，Figma负责托管。在IBM，设计师Noah Trevino把自己的界面和字段列表交给Figma，得到了一份团队可以自行更新的可用草稿。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "CSV上传（演示用名称）。"
-              },
-              {
-                "t": "p",
-                "x": "在已发布网站地址后加上/admin即可打开编辑面板，团队无需写提示或提交工单，就能创建文章、替换媒体、查看版本并发布。API密钥现在也可安全存放在Make的设置中，而不必另建Supabase项目。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "在CMS中更新内容。"
-              },
-              {
-                "t": "p",
-                "x": "Payload面向所有方案开放，将在未来几周内陆续推出；基于Payload的Make项目托管目前为免费测试，价格将另行公布。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Payload CMS llega\nal interior de Figma Make",
-          "body": "Payload, el CMS headless de código abierto, se integra en Figma Make y aporta un backend del prototipo a la producción.",
-          "mini_headline": "Payload CMS en Figma Make",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/e2f3fa38dc26a6eb00e472ed04855ecfc34f1e64-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Crear con Payload en Make (modo de vista previa)."
-              },
-              {
-                "t": "p",
-                "x": "Payload, el CMS headless de código abierto cuyo equipo se unió a Figma, ya está integrado en Figma Make. En los últimos 12 meses sus descargas se multiplicaron por 6, lo que lo convierte en el CMS de código abierto de más rápido crecimiento en NPM."
-              },
-              {
-                "t": "p",
-                "x": "Al crear una app con un prompt en Make ahora también se configuran una base de datos, almacenamiento de archivos, inicio de sesión de usuarios y un panel de administración. Los diseñadores escriben prompts con contenido real, los especialistas en marketing lo actualizan desde el panel de administración y los desarrolladores personalizan la app con el framework de Payload, con permisos detallados para cada rol."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/9c3a88d4da51d249581da0d87ee3a9bf38b4b215-3840x2160.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Crear con Payload en Make (modo CMS)."
-              },
-              {
-                "t": "p",
-                "x": "Payload gestiona contenido, medios, permisos, flujos de trabajo, control de versiones, APIs y el panel de administración, y Figma lo aloja. En IBM, el diseñador Noah Trevino le dio a Figma sus pantallas y su lista de campos y obtuvo un borrador funcional que su equipo podía actualizar por sí mismo."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f13b7536ec174620ec43305f29b98f58312281f6-7680x4320.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Carga de CSV (nombres de demostración)."
-              },
-              {
-                "t": "p",
-                "x": "Un panel de edición, al que se accede añadiendo /admin a un sitio publicado, permite crear artículos, cambiar medios, revisar versiones y publicar sin escribir prompts ni abrir un ticket. Las claves de API ahora pueden guardarse de forma segura en la configuración de Make en lugar de en un proyecto aparte de Supabase."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.sanity.io/images/599r6htc/regionalized/ea3f6c5938fcdf9fcbee350da6a7e34c03a1ff83-1920x1080.png?w=1200&q=75&fit=max&auto=format",
-                "cap": "Actualización de contenido en el CMS."
-              },
-              {
-                "t": "p",
-                "x": "Payload está disponible en todos los planes y se desplegará en las próximas semanas; el alojamiento de proyectos de Make con Payload está en beta gratuita y su precio se anunciará más adelante."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-adobe-nvidia",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Adobe 주요 앱\nRTX Spark에 최적화",
-      "body": "Adobe는 RTX Spark 최적화로 AI 처리가 최대 2배 빨라진다고 밝혔다.",
-      "mini_headline": "RTX Spark 맞춤 Adobe 앱",
+      "headline": "Kling 4.0 전면공개\n30초 네이티브 클립",
+      "body": "Kuaishou가 30초 클립을 만드는 Kling 4.0을 모두에게 열었다.",
+      "mini_headline": "Kling 4.0 전면 공개",
       "tool": "KeyShot",
-      "source": "NVIDIA Newsroom",
-      "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
+      "source": "Let's Data Science",
+      "url": "https://letsdatascience.com/news/kling-ai-opens-kling-40-to-all-users-d9dc6422",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1047,205 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
-            "cap": "Adobe와 NVIDIA가 협력을 넓힌다."
+            "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
           },
           {
             "t": "p",
-            "x": "Adobe와 NVIDIA는 3월에 발표한 전략적 파트너십을 넓혀 Photoshop, Premiere, Substance 3D, Frame.io, Brand Concierge를 함께 최적화한다고 발표했다."
+            "x": "PandaDaily에 따르면 Kuaishou의 Kling AI가 klingai.com에서 Kling 4.0을 정식 출시했다. 프리뷰로만 내놓던 영상 생성 모델을 이제 누구나 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "Photoshop, Premiere, Substance 3D는 10월 16일 출시되는 NVIDIA RTX Spark 슈퍼칩에 맞춰 최적화 중이며, AI 처리·편집·색 보정·이펙트가 최대 2배 빨라진다. Adobe는 Photoshop을 GPU 가속(GPU-accelerated) 합성 중심으로 다시 설계했다. Premiere의 Enhance Speech와 Object Mask 같은 기능도 빨라지고, Substance 3D Painter에서는 RTX Spark가 가장 무거운 텍스처링 단계를 가속한다."
+            "x": "PandaDaily는 Kling 4.0이 클립 하나를 최대 30초 길이로 생성하고, 키프레임을 최대 10개까지 지원해 캐릭터 상태와 장면 전환, 서사 흐름까지 제어한다고 전했다. 작업 하나에 이미지 최대 10장, 영상 클립 다섯 개, 피사체 일곱 개를 레퍼런스로 함께 넣을 수 있고, 멀티숏을 이어 붙이면 시퀀스가 약 이 분 길이까지 늘어난다."
           },
           {
             "t": "p",
-            "x": "“RTX Spark를 기반으로 최적화된 Adobe 도구는 최대 2배 빠른 성능으로 이 새로운 워크플로를 가속한다”고 NVIDIA 로컬 AI 부문 부사장 Jason Paul은 말했다."
+            "x": "이번 출시의 핵심은 오디오다. 듀얼 채널 스테레오와 립싱크를 중국어, 영어, 일본어, 한국어, 스페인어, 포르투갈어, 독일어, 프랑스어, 힌디어, 여러 중국 방언, 영어 억양 변형에 걸쳐 지원한다. 프롬프트 입력은 약 8,000 토큰까지 가능하다. 에이전트나 스크립트로 돌리는 제작 워크플로에 쓸 MCP와 명령줄 인터페이스 연동도 붙었다."
           },
           {
             "t": "p",
-            "x": "Frame.io는 이제 미디어 처리에 NVDEC, TensorRT, CUDA를 쓴다. 초기 결과를 보면 임베딩 생성이 약 5배 빨라졌고, P95 지연 시간은 4-5배 개선됐고, 검색 프록시는 약 80% 작아졌다."
-          },
-          {
-            "t": "p",
-            "x": "Brand Concierge는 NVIDIA Nemotron 오픈 모델로 최적화돼 올해 안에 기업용으로 나올 예정이다. NVIDIA도 이를 NVIDIA.com에 쓰기로 했다. 두 회사는 11월 10-12일 열리는 Adobe MAX에서 더 많은 내용을 공개한다."
+            "x": "4K 및 1080p 10-bit HDR 출력과 기업용 API는 이번 공개 출시에서 빠졌고 곧 나온다. Pexo는 Kling 4.0 Flash 변형이 9월 28일 최상위 연간 구독자를 대상으로 제한적 얼리 액세스를 시작했다고 전했다."
           }
         ]
       },
-      "_lead_image": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Adobe tunes Photoshop and\nPremiere for RTX Spark",
-          "body": "Adobe is optimizing Photoshop, Premiere and Substance 3D for NVIDIA's RTX Spark, claiming up to 2x faster AI processing.",
-          "mini_headline": "Adobe apps tuned for RTX Spark",
+          "headline": "Kling 4.0 opens to everyone\nwith 30-second native clips",
+          "body": "Kuaishou opened Kling 4.0 to all users, adding up to 30-second clips, multi-reference control and lip-synced audio.",
+          "mini_headline": "Kling 4.0 opens to all",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
-                "cap": "Adobe and NVIDIA expand their collaboration."
+                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
               },
               {
                 "t": "p",
-                "x": "Adobe and NVIDIA announced an expanded partnership to optimize Photoshop, Premiere, Substance 3D, Frame.io and Brand Concierge, building on the strategic partnership announced in March."
+                "x": "Kuaishou's Kling AI has made Kling 4.0 generally available on klingai.com, opening a video-generation model previously offered through preview access, according to PandaDaily."
               },
               {
                 "t": "p",
-                "x": "Photoshop, Premiere and Substance 3D are being optimized for the NVIDIA RTX Spark superchip, launching Oct. 16, delivering up to 2x faster AI processing, editing, color and effects. Adobe rearchitected Photoshop around GPU-accelerated compositing; Premiere features like Enhance Speech and Object Mask gain speed, and RTX Spark speeds the heaviest texturing steps in Substance 3D Painter."
+                "x": "PandaDaily reports that Kling 4.0 can generate a single clip up to 30 seconds long and supports as many as 10 keyframes for controlling character state, scene transitions, and narrative beats. A job can combine up to 10 images, five video clips, and seven subjects as references, and multi-shot continuation is designed to extend a sequence toward roughly two minutes."
               },
               {
                 "t": "p",
-                "x": "“Powered by RTX Spark, Adobe’s optimized tools deliver up to 2x faster performance to accelerate these new workflows,” said Jason Paul, vice president, local AI, NVIDIA."
+                "x": "Audio arrives as a core part of the release: dual-channel stereo and lip sync across Chinese, English, Japanese, Korean, Spanish, Portuguese, German, French, Hindi, several Chinese dialects, and English accent variants. Prompt inputs can reach about 8,000 tokens. The rollout also adds MCP and command-line interface hooks for agentic or scripted production workflows."
               },
               {
                 "t": "p",
-                "x": "Frame.io now uses NVDEC, TensorRT and CUDA for media processing, with early results showing about 5x faster embedding generation, 4-5x better P95 latency and an approximately 80% smaller search proxy."
-              },
-              {
-                "t": "p",
-                "x": "Brand Concierge is optimized with NVIDIA Nemotron open models, available to enterprises later this year, and NVIDIA selected it for NVIDIA.com. Both will showcase more at Adobe MAX, Nov. 10-12."
+                "x": "4K and 1080p 10-bit HDR output, as well as an enterprise API, are still due soon rather than part of the completed public rollout. Pexo reports that a Kling 4.0 Flash variant entered limited early access on September 28 for top-tier annual subscribers."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Adobe 주요 앱\nRTX Spark에 최적화",
-          "body": "Adobe는 RTX Spark 최적화로 AI 처리가 최대 2배 빨라진다고 밝혔다.",
-          "mini_headline": "RTX Spark 맞춤 Adobe 앱",
+          "headline": "Kling 4.0 전면공개\n30초 네이티브 클립",
+          "body": "Kuaishou가 30초 클립을 만드는 Kling 4.0을 모두에게 열었다.",
+          "mini_headline": "Kling 4.0 전면 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
-                "cap": "Adobe와 NVIDIA가 협력을 넓힌다."
+                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
               },
               {
                 "t": "p",
-                "x": "Adobe와 NVIDIA는 3월에 발표한 전략적 파트너십을 넓혀 Photoshop, Premiere, Substance 3D, Frame.io, Brand Concierge를 함께 최적화한다고 발표했다."
+                "x": "PandaDaily에 따르면 Kuaishou의 Kling AI가 klingai.com에서 Kling 4.0을 정식 출시했다. 프리뷰로만 내놓던 영상 생성 모델을 이제 누구나 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "Photoshop, Premiere, Substance 3D는 10월 16일 출시되는 NVIDIA RTX Spark 슈퍼칩에 맞춰 최적화 중이며, AI 처리·편집·색 보정·이펙트가 최대 2배 빨라진다. Adobe는 Photoshop을 GPU 가속(GPU-accelerated) 합성 중심으로 다시 설계했다. Premiere의 Enhance Speech와 Object Mask 같은 기능도 빨라지고, Substance 3D Painter에서는 RTX Spark가 가장 무거운 텍스처링 단계를 가속한다."
+                "x": "PandaDaily는 Kling 4.0이 클립 하나를 최대 30초 길이로 생성하고, 키프레임을 최대 10개까지 지원해 캐릭터 상태와 장면 전환, 서사 흐름까지 제어한다고 전했다. 작업 하나에 이미지 최대 10장, 영상 클립 다섯 개, 피사체 일곱 개를 레퍼런스로 함께 넣을 수 있고, 멀티숏을 이어 붙이면 시퀀스가 약 이 분 길이까지 늘어난다."
               },
               {
                 "t": "p",
-                "x": "“RTX Spark를 기반으로 최적화된 Adobe 도구는 최대 2배 빠른 성능으로 이 새로운 워크플로를 가속한다”고 NVIDIA 로컬 AI 부문 부사장 Jason Paul은 말했다."
+                "x": "이번 출시의 핵심은 오디오다. 듀얼 채널 스테레오와 립싱크를 중국어, 영어, 일본어, 한국어, 스페인어, 포르투갈어, 독일어, 프랑스어, 힌디어, 여러 중국 방언, 영어 억양 변형에 걸쳐 지원한다. 프롬프트 입력은 약 8,000 토큰까지 가능하다. 에이전트나 스크립트로 돌리는 제작 워크플로에 쓸 MCP와 명령줄 인터페이스 연동도 붙었다."
               },
               {
                 "t": "p",
-                "x": "Frame.io는 이제 미디어 처리에 NVDEC, TensorRT, CUDA를 쓴다. 초기 결과를 보면 임베딩 생성이 약 5배 빨라졌고, P95 지연 시간은 4-5배 개선됐고, 검색 프록시는 약 80% 작아졌다."
-              },
-              {
-                "t": "p",
-                "x": "Brand Concierge는 NVIDIA Nemotron 오픈 모델로 최적화돼 올해 안에 기업용으로 나올 예정이다. NVIDIA도 이를 NVIDIA.com에 쓰기로 했다. 두 회사는 11월 10-12일 열리는 Adobe MAX에서 더 많은 내용을 공개한다."
+                "x": "4K 및 1080p 10-bit HDR 출력과 기업용 API는 이번 공개 출시에서 빠졌고 곧 나온다. Pexo는 Kling 4.0 Flash 변형이 9월 28일 최상위 연간 구독자를 대상으로 제한적 얼리 액세스를 시작했다고 전했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Adobe主要アプリ\nRTX Sparkに最適化",
-          "body": "AdobeはRTX Spark向け最適化でAI処理が最大2倍速くなるとした。",
-          "mini_headline": "RTX Spark向けAdobeアプリ",
+          "headline": "Kling 4.0が一般公開\nネイティブ30秒クリップ",
+          "body": "KuaishouがKling 4.0を全面開放し、30秒クリップと音声同期に対応した。",
+          "mini_headline": "Kling 4.0が一般公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
-                "cap": "AdobeとNVIDIAが協業を拡大。"
+                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
               },
               {
                 "t": "p",
-                "x": "AdobeとNVIDIAは、3月に発表した戦略的パートナーシップを土台に、Photoshop、Premiere、Substance 3D、Frame.io、Brand Conciergeを最適化する協業の拡大を発表した。"
+                "x": "PandaDailyによると、KuaishouのKling AIはklingai.comでKling 4.0を一般公開した。これまでプレビューアクセスで提供してきた動画生成モデルを、誰でも使えるようにしたものだ。"
               },
               {
                 "t": "p",
-                "x": "Photoshop、Premiere、Substance 3Dは10月16日に発売されるNVIDIA RTX Sparkスーパーチップ向けに最適化が進められており、AI処理、編集、カラー、エフェクトが最大2倍速くなる。AdobeはPhotoshopをGPU-accelerated(GPUで高速化した)コンポジットを軸に再設計し、PremiereのEnhance SpeechやObject Maskといった機能も高速化する。RTX SparkはSubstance 3D Painterで最も重いテクスチャリング工程を速める。"
+                "x": "PandaDailyによれば、Kling 4.0は単一のクリップで最大30秒を生成でき、キャラクターの状態やシーン転換、物語の展開を制御するキーフレームを最大10個まで扱える。ジョブごとに最大10枚の画像、五本の動画クリップ、七つの被写体を参照として組み合わせられ、マルチショットの継続生成によってシーケンスを約二分まで延ばせる設計だ。"
               },
               {
                 "t": "p",
-                "x": "「RTX Sparkを搭載し、最適化されたAdobeのツールは最大2倍の性能を発揮し、こうした新しいワークフローを加速する」と、NVIDIAのローカルAI担当バイスプレジデントJason Paulは述べた。"
+                "x": "音声はこのリリースの中核をなす。デュアルチャンネルのステレオとリップシンクは、中国語、英語、日本語、韓国語、スペイン語、ポルトガル語、ドイツ語、フランス語、ヒンディー語、複数の中国語方言、英語のアクセント違いに対応する。プロンプト入力は約8,000トークンまで可能だ。エージェント型やスクリプトによる制作ワークフロー向けに、MCPとコマンドラインインターフェースとの連携も加わった。"
               },
               {
                 "t": "p",
-                "x": "Frame.ioはメディア処理にNVDEC、TensorRT、CUDAを使うようになり、初期結果ではエンベディング生成が約5倍速く、P95レイテンシが4-5倍改善し、検索用プロキシは約80%小さくなった。"
-              },
-              {
-                "t": "p",
-                "x": "Brand ConciergeはNVIDIA Nemotronのオープンモデルで最適化され、年内に企業向けに提供される予定で、NVIDIAはこれをNVIDIA.comに採用した。両社は11月10-12日のAdobe MAXでさらに披露する。"
+                "x": "4K と1080p 10-bit HDRの出力、そして企業向けAPIは、今回の一般公開には含まれず、近く提供される予定だ。Pexoによると、Kling 4.0 Flashという派生版が9月28日、最上位の年間サブスクライバー向けに限定的なアーリーアクセスを開始した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Adobe旗下应用\n针对RTX Spark优化",
-          "body": "Adobe为RTX Spark优化Photoshop等应用，称AI处理最多提速2倍。",
-          "mini_headline": "Adobe应用适配RTX Spark",
+          "headline": "Kling 4.0全面开放\n原生生成30秒片段",
+          "body": "Kuaishou向全体用户开放Kling 4.0，支持30秒片段、多参考控制与口型同步。",
+          "mini_headline": "Kling 4.0全面开放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
-                "cap": "Adobe与NVIDIA扩大合作。"
+                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
               },
               {
                 "t": "p",
-                "x": "Adobe与NVIDIA宣布扩大合作，在3月宣布的战略合作基础上，优化Photoshop、Premiere、Substance 3D、Frame.io和Brand Concierge。"
+                "x": "据PandaDaily报道，Kuaishou旗下的Kling AI已在klingai.com上正式推出Kling 4.0，此前这款视频生成模型仅通过预览渠道提供。"
               },
               {
                 "t": "p",
-                "x": "Photoshop、Premiere和Substance 3D正针对10月16日推出的NVIDIA RTX Spark超级芯片进行优化，AI处理、编辑、调色和特效速度最多提升2倍。Adobe围绕GPU-accelerated（GPU加速）合成重构了Photoshop；Premiere的Enhance Speech和Object Mask等功能也会提速，RTX Spark还加快了Substance 3D Painter中最繁重的纹理绘制步骤。"
+                "x": "PandaDaily报道称，Kling 4.0单个片段最长可生成30秒，最多支持10个关键帧，用于控制角色状态、场景转换和叙事节奏。一次任务最多可组合10张图片、五段视频和七个主体作为参考，多镜头续写功能则可将一段序列延伸至约两分钟。"
               },
               {
                 "t": "p",
-                "x": "“依托RTX Spark，经过优化的Adobe工具可带来最多2倍的性能提升，加速这些新的工作流程。”NVIDIA本地AI副总裁Jason Paul表示。"
+                "x": "音频是此次发布的核心部分：双声道立体声和口型同步覆盖中文、英语、日语、韩语、西班牙语、葡萄牙语、德语、法语、印地语、多种中国方言以及英语口音变体。提示词输入最多约8,000个token。此次推出还增加了MCP和命令行界面接口，便于智能体式或脚本化的制作流程。"
               },
               {
                 "t": "p",
-                "x": "Frame.io现已在媒体处理中使用NVDEC、TensorRT和CUDA，初步结果显示，嵌入生成速度提升约5倍，P95延迟改善4-5倍，搜索代理缩小约80%。"
-              },
-              {
-                "t": "p",
-                "x": "Brand Concierge借助NVIDIA Nemotron开放模型完成优化，将于今年晚些时候面向企业提供，NVIDIA也已选择将其用于NVIDIA.com。双方将在11月10-12日的Adobe MAX上展示更多内容。"
+                "x": "4K 和1080p 10-bit HDR输出以及企业版API仍属“即将推出”，并不在已完成的公开发布之列。据Pexo报道，Kling 4.0 Flash版本已于9月28日面向最高档年度订阅用户开启有限的抢先体验。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Adobe ajusta Photoshop y\nPremiere para RTX Spark",
-          "body": "Adobe optimiza Photoshop, Premiere y Substance 3D para RTX Spark de NVIDIA y promete IA hasta 2x más rápida.",
-          "mini_headline": "Apps de Adobe ajustadas para RTX Spark",
+          "headline": "Kling 4.0 se abre a todos\ncon clips nativos de 30 segundos",
+          "body": "Kuaishou abrió Kling 4.0 a todos, con clips de hasta 30 segundos, control multirreferencia y audio sincronizado.",
+          "mini_headline": "Kling 4.0 abre a todos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
-                "cap": "Adobe y NVIDIA amplían su colaboración."
+                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
               },
               {
                 "t": "p",
-                "x": "Adobe y NVIDIA anunciaron una alianza ampliada para optimizar Photoshop, Premiere, Substance 3D, Frame.io y Brand Concierge, sobre la base de la alianza estratégica anunciada en marzo."
+                "x": "Kling AI, de Kuaishou, lanzó Kling 4.0 de forma general en klingai.com, con lo que abre un modelo de generación de video que antes solo se ofrecía en acceso preliminar, según PandaDaily."
               },
               {
                 "t": "p",
-                "x": "Photoshop, Premiere y Substance 3D se están optimizando para el superchip NVIDIA RTX Spark, que sale a la venta el 16 de octubre, con procesamiento de IA, edición, color y efectos hasta 2x más rápidos. Adobe rediseñó Photoshop en torno a la composición acelerada por GPU (GPU-accelerated); funciones de Premiere como Enhance Speech y Object Mask ganan velocidad, y RTX Spark acelera los pasos de texturizado más pesados de Substance 3D Painter."
+                "x": "PandaDaily informa que Kling 4.0 puede generar un solo clip de hasta 30 segundos y admite hasta 10 fotogramas clave para controlar el estado de los personajes, las transiciones de escena y los momentos narrativos. Una tarea puede combinar como referencia hasta 10 imágenes, cinco clips de video y siete sujetos, y la continuación multitoma está diseñada para extender una secuencia hasta unos dos minutos."
               },
               {
                 "t": "p",
-                "x": "“Impulsadas por RTX Spark, las herramientas optimizadas de Adobe ofrecen un rendimiento hasta 2x más rápido para acelerar estos nuevos flujos de trabajo”, dijo Jason Paul, vicepresidente de IA local de NVIDIA."
+                "x": "El audio es una parte central del lanzamiento: estéreo de doble canal y sincronización labial en chino, inglés, japonés, coreano, español, portugués, alemán, francés, hindi, varios dialectos chinos y variantes de acento inglés. Las indicaciones pueden alcanzar unos 8,000 tokens. El despliegue también añade conexiones MCP y de interfaz de línea de comandos para flujos de producción agénticos o automatizados con scripts."
               },
               {
                 "t": "p",
-                "x": "Frame.io ahora usa NVDEC, TensorRT y CUDA para el procesamiento de medios, y los primeros resultados muestran una generación de embeddings unas 5x más rápida, una latencia P95 entre 4-5x mejor y un proxy de búsqueda aproximadamente un 80% más pequeño."
-              },
-              {
-                "t": "p",
-                "x": "Brand Concierge está optimizado con los modelos abiertos NVIDIA Nemotron, estará disponible para empresas más adelante este año, y NVIDIA lo eligió para NVIDIA.com. Ambas mostrarán más novedades en Adobe MAX, del 10 al 12 de noviembre."
+                "x": "La salida en 4K y en 1080p 10-bit HDR, así como una API empresarial, todavía están por llegar y no forman parte del despliegue público completado. Pexo informa que una variante Kling 4.0 Flash entró en acceso anticipado limitado el 28 de septiembre para los suscriptores anuales del nivel más alto."
               }
             ]
           }
@@ -1253,141 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Adobe 주요 앱\nRTX Spark에 최적화",
-          "body": "Adobe는 RTX Spark 최적화로 AI 처리가 최대 2배 빨라진다고 밝혔다.",
-          "mini_headline": "RTX Spark 맞춤 Adobe 앱",
+          "headline": "Kling 4.0 전면공개\n30초 네이티브 클립",
+          "body": "Kuaishou가 30초 클립을 지원하는 Kling 4.0을 모두에게 열었다.",
+          "mini_headline": "Kling 4.0 전면 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
-                "cap": "Adobe와 NVIDIA가 협력을 넓힌다."
+                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
               },
               {
                 "t": "p",
-                "x": "Adobe와 NVIDIA는 3월에 발표한 전략적 파트너십을 바탕으로 Photoshop, Premiere, Substance 3D, Frame.io, Brand Concierge를 최적화하는 확대 협력을 발표했다."
+                "x": "PandaDaily에 따르면 Kuaishou의 Kling AI가 klingai.com에서 Kling 4.0을 정식 출시했다. 그동안 프리뷰 형태로만 제공하던 영상 생성 모델을 누구나 쓸 수 있게 열었다."
               },
               {
                 "t": "p",
-                "x": "Photoshop, Premiere, Substance 3D는 10월 16일 출시되는 NVIDIA RTX Spark 슈퍼칩에 맞춰 최적화되고 있으며, AI 처리·편집·색 보정·이펙트가 최대 2배 빨라진다. Adobe는 Photoshop을 GPU 가속(GPU-accelerated) 합성 중심으로 재설계했고, Premiere의 Enhance Speech와 Object Mask 같은 기능도 빨라지며, RTX Spark는 Substance 3D Painter에서 가장 무거운 텍스처링 단계를 가속한다."
+                "x": "PandaDaily는 Kling 4.0이 클립 하나를 최대 30초 길이로 생성하고, 키프레임을 최대 10개까지 지원해 캐릭터 상태와 장면 전환, 서사 흐름을 제어할 수 있다고 전했다. 작업 하나에 이미지 최대 10장, 영상 클립 다섯 개, 피사체 일곱 개를 레퍼런스로 함께 쓸 수 있고, 멀티숏 이어 붙이기로 시퀀스를 약 이 분 길이까지 늘리도록 설계했다."
               },
               {
                 "t": "p",
-                "x": "“RTX Spark를 기반으로 최적화된 Adobe 도구는 최대 2배 빠른 성능으로 이 새로운 워크플로를 가속한다”고 NVIDIA 로컬 AI 부문 부사장 Jason Paul은 말했다."
+                "x": "오디오는 이번 출시의 핵심이다. 듀얼 채널 스테레오와 립싱크를 중국어, 영어, 일본어, 한국어, 스페인어, 포르투갈어, 독일어, 프랑스어, 힌디어, 여러 중국 방언, 영어 억양 변형에 걸쳐 지원한다. 프롬프트 입력은 약 8,000 토큰까지 가능하다. 에이전트 방식이나 스크립트 기반 제작 워크플로를 위한 MCP와 명령줄 인터페이스 연동도 추가했다."
               },
               {
                 "t": "p",
-                "x": "Frame.io는 이제 미디어 처리에 NVDEC, TensorRT, CUDA를 쓴다. 초기 결과에 따르면 임베딩 생성은 약 5배 빨라졌고, P95 지연 시간은 4-5배 개선됐으며, 검색 프록시는 약 80% 작아졌다."
-              },
-              {
-                "t": "p",
-                "x": "Brand Concierge는 NVIDIA Nemotron 오픈 모델로 최적화돼 올해 안에 기업에 제공될 예정이며, NVIDIA는 이를 NVIDIA.com에 쓰기로 했다. 두 회사는 11월 10-12일 열리는 Adobe MAX에서 더 많은 내용을 선보인다."
+                "x": "4K 및 1080p 10-bit HDR 출력과 기업용 API는 이번 공개 출시에 들어가지 않았고 곧 나올 예정이다. Pexo는 Kling 4.0 Flash 변형이 9월 28일 최상위 연간 구독자를 대상으로 제한적 얼리 액세스를 시작했다고 전했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Adobe主要アプリ\nRTX Sparkに最適化",
-          "body": "AdobeはRTX Spark向け最適化でAI処理が最大2倍速くなるとした。",
-          "mini_headline": "RTX Spark向けAdobeアプリ",
+          "headline": "Kling 4.0が一般公開\nネイティブ30秒クリップ",
+          "body": "KuaishouがKling 4.0を全面開放し、30秒クリップと音声同期に対応した。",
+          "mini_headline": "Kling 4.0が一般公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
-                "cap": "AdobeとNVIDIAが協業を拡大。"
+                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
               },
               {
                 "t": "p",
-                "x": "AdobeとNVIDIAは、3月に発表した戦略的パートナーシップを土台に、Photoshop、Premiere、Substance 3D、Frame.io、Brand Conciergeを最適化する協業の拡大を発表した。"
+                "x": "PandaDailyによると、KuaishouのKling AIはklingai.comでKling 4.0を一般公開した。これまでプレビューアクセスで提供してきた動画生成モデルを、誰でも使えるようにしたものだ。"
               },
               {
                 "t": "p",
-                "x": "Photoshop、Premiere、Substance 3Dは10月16日に発売されるNVIDIA RTX Sparkスーパーチップ向けに最適化が進められており、AI処理、編集、カラー、エフェクトが最大2倍速くなる。AdobeはPhotoshopをGPU-accelerated(GPUで高速化した)コンポジットを軸に再設計し、PremiereのEnhance SpeechやObject Maskといった機能も高速化する。RTX SparkはSubstance 3D Painterで最も重いテクスチャリング工程を速める。"
+                "x": "PandaDailyによれば、Kling 4.0は単一のクリップで最大30秒を生成でき、キャラクターの状態やシーン転換、物語の展開を制御するキーフレームを最大10個まで扱える。ジョブごとに最大10枚の画像、五本の動画クリップ、七つの被写体を参照として組み合わせられ、マルチショットの継続生成によってシーケンスを約二分まで延ばせる設計だ。"
               },
               {
                 "t": "p",
-                "x": "「RTX Sparkを搭載し、最適化されたAdobeのツールは最大2倍の性能を発揮し、こうした新しいワークフローを加速する」と、NVIDIAのローカルAI担当バイスプレジデントJason Paulは述べた。"
+                "x": "音声はこのリリースの中核をなす。デュアルチャンネルのステレオとリップシンクは、中国語、英語、日本語、韓国語、スペイン語、ポルトガル語、ドイツ語、フランス語、ヒンディー語、複数の中国語方言、英語のアクセント違いに対応する。プロンプト入力は約8,000トークンまで可能だ。エージェント型やスクリプトによる制作ワークフロー向けに、MCPとコマンドラインインターフェースとの連携も加わった。"
               },
               {
                 "t": "p",
-                "x": "Frame.ioはメディア処理にNVDEC、TensorRT、CUDAを使うようになり、初期結果ではエンベディング生成が約5倍速く、P95レイテンシが4-5倍改善し、検索用プロキシは約80%小さくなった。"
-              },
-              {
-                "t": "p",
-                "x": "Brand ConciergeはNVIDIA Nemotronのオープンモデルで最適化され、年内に企業向けに提供される予定で、NVIDIAはこれをNVIDIA.comに採用した。両社は11月10-12日のAdobe MAXでさらに披露する。"
+                "x": "4K と1080p 10-bit HDRの出力、そして企業向けAPIは、今回の一般公開には含まれず、近く提供される予定だ。Pexoによると、Kling 4.0 Flashという派生版が9月28日、最上位の年間サブスクライバー向けに限定的なアーリーアクセスを開始した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Adobe旗下应用\n针对RTX Spark优化",
-          "body": "Adobe为RTX Spark优化Photoshop等应用，称AI处理最多提速2倍。",
-          "mini_headline": "Adobe应用适配RTX Spark",
+          "headline": "Kling 4.0全面开放\n原生生成30秒片段",
+          "body": "Kuaishou向全体用户开放Kling 4.0，支持30秒片段、多参考控制与口型同步。",
+          "mini_headline": "Kling 4.0全面开放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
-                "cap": "Adobe与NVIDIA扩大合作。"
+                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
               },
               {
                 "t": "p",
-                "x": "Adobe与NVIDIA宣布扩大合作，在3月宣布的战略合作基础上，优化Photoshop、Premiere、Substance 3D、Frame.io和Brand Concierge。"
+                "x": "据PandaDaily报道，Kuaishou旗下的Kling AI已在klingai.com上正式推出Kling 4.0，此前这款视频生成模型仅通过预览渠道提供。"
               },
               {
                 "t": "p",
-                "x": "Photoshop、Premiere和Substance 3D正针对10月16日推出的NVIDIA RTX Spark超级芯片进行优化，AI处理、编辑、调色和特效速度最多提升2倍。Adobe围绕GPU-accelerated（GPU加速）合成重构了Photoshop；Premiere的Enhance Speech和Object Mask等功能也会提速，RTX Spark还加快了Substance 3D Painter中最繁重的纹理绘制步骤。"
+                "x": "PandaDaily报道称，Kling 4.0单个片段最长可生成30秒，最多支持10个关键帧，用于控制角色状态、场景转换和叙事节奏。一次任务最多可组合10张图片、五段视频和七个主体作为参考，多镜头续写功能则可将一段序列延伸至约两分钟。"
               },
               {
                 "t": "p",
-                "x": "“依托RTX Spark，经过优化的Adobe工具可带来最多2倍的性能提升，加速这些新的工作流程。”NVIDIA本地AI副总裁Jason Paul表示。"
+                "x": "音频是此次发布的核心部分：双声道立体声和口型同步覆盖中文、英语、日语、韩语、西班牙语、葡萄牙语、德语、法语、印地语、多种中国方言以及英语口音变体。提示词输入最多约8,000个token。此次推出还增加了MCP和命令行界面接口，便于智能体式或脚本化的制作流程。"
               },
               {
                 "t": "p",
-                "x": "Frame.io现已在媒体处理中使用NVDEC、TensorRT和CUDA，初步结果显示，嵌入生成速度提升约5倍，P95延迟改善4-5倍，搜索代理缩小约80%。"
-              },
-              {
-                "t": "p",
-                "x": "Brand Concierge借助NVIDIA Nemotron开放模型完成优化，将于今年晚些时候面向企业提供，NVIDIA也已选择将其用于NVIDIA.com。双方将在11月10-12日的Adobe MAX上展示更多内容。"
+                "x": "4K 和1080p 10-bit HDR输出以及企业版API仍属“即将推出”，并不在已完成的公开发布之列。据Pexo报道，Kling 4.0 Flash版本已于9月28日面向最高档年度订阅用户开启有限的抢先体验。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Adobe ajusta Photoshop y\nPremiere para RTX Spark",
-          "body": "Adobe optimiza Photoshop, Premiere y Substance 3D para RTX Spark de NVIDIA y promete IA hasta 2x más rápida.",
-          "mini_headline": "Apps de Adobe ajustadas para RTX Spark",
+          "headline": "Kling 4.0 se abre a todos\ncon clips nativos de 30 segundos",
+          "body": "Kuaishou abrió Kling 4.0 a todos, con clips de hasta 30 segundos, control multirreferencia y audio sincronizado.",
+          "mini_headline": "Kling 4.0 abre a todos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_e30ad072-7cc9-43cd-8488-653fe16935c5-prv.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5",
-                "cap": "Adobe y NVIDIA amplían su colaboración."
+                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
               },
               {
                 "t": "p",
-                "x": "Adobe y NVIDIA anunciaron una alianza ampliada para optimizar Photoshop, Premiere, Substance 3D, Frame.io y Brand Concierge, sobre la base de la alianza estratégica anunciada en marzo."
+                "x": "Kling AI, de Kuaishou, lanzó Kling 4.0 de forma general en klingai.com, con lo que abre un modelo de generación de video que antes solo se ofrecía en acceso preliminar, según PandaDaily."
               },
               {
                 "t": "p",
-                "x": "Photoshop, Premiere y Substance 3D se están optimizando para el superchip NVIDIA RTX Spark, que sale a la venta el 16 de octubre, con procesamiento de IA, edición, color y efectos hasta 2x más rápidos. Adobe rediseñó Photoshop en torno a la composición acelerada por GPU (GPU-accelerated); funciones de Premiere como Enhance Speech y Object Mask ganan velocidad, y RTX Spark acelera los pasos de texturizado más pesados de Substance 3D Painter."
+                "x": "PandaDaily informa que Kling 4.0 puede generar un solo clip de hasta 30 segundos y admite hasta 10 fotogramas clave para controlar el estado de los personajes, las transiciones de escena y los momentos narrativos. Una tarea puede combinar como referencia hasta 10 imágenes, cinco clips de video y siete sujetos, y la continuación multitoma está diseñada para extender una secuencia hasta unos dos minutos."
               },
               {
                 "t": "p",
-                "x": "“Impulsadas por RTX Spark, las herramientas optimizadas de Adobe ofrecen un rendimiento hasta 2x más rápido para acelerar estos nuevos flujos de trabajo”, dijo Jason Paul, vicepresidente de IA local de NVIDIA."
+                "x": "El audio es una parte central del lanzamiento: estéreo de doble canal y sincronización labial en chino, inglés, japonés, coreano, español, portugués, alemán, francés, hindi, varios dialectos chinos y variantes de acento inglés. Las indicaciones pueden alcanzar unos 8,000 tokens. El despliegue también añade conexiones MCP y de interfaz de línea de comandos para flujos de producción agénticos o automatizados con scripts."
               },
               {
                 "t": "p",
-                "x": "Frame.io ahora usa NVDEC, TensorRT y CUDA para el procesamiento de medios, y los primeros resultados muestran una generación de embeddings unas 5x más rápida, una latencia P95 entre 4-5x mejor y un proxy de búsqueda aproximadamente un 80% más pequeño."
-              },
-              {
-                "t": "p",
-                "x": "Brand Concierge está optimizado con los modelos abiertos NVIDIA Nemotron, estará disponible para empresas más adelante este año, y NVIDIA lo eligió para NVIDIA.com. Ambas mostrarán más novedades en Adobe MAX, del 10 al 12 de noviembre."
+                "x": "La salida en 4K y en 1080p 10-bit HDR, así como una API empresarial, todavía están por llegar y no forman parte del despliegue público completado. Pexo informa que una variante Kling 4.0 Flash entró en acceso anticipado limitado el 28 de septiembre para los suscriptores anuales del nivel más alto."
               }
             ]
           }
@@ -1395,15 +315,487 @@
       }
     },
     {
-      "id": "design-uxc-org-chart",
+      "id": "design-meshy-edit",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 경험은\n조직도를 외면한다",
-      "body": "Kate Agena는 AI가 여러 분야를 묶지만 일하는 방식은 뒤처졌다고 본다.",
-      "mini_headline": "AI는 조직도를 외면한다",
+      "headline": "Meshy Edit로\n3D 모델 일부만 수정",
+      "body": "Meshy Edit는 3D 모델 일부를 골라 텍스트로 고치고 슬라이서로 보낸다.",
+      "mini_headline": "Meshy Edit, 3D 부분 수정",
+      "tool": "Text-to-CAD",
+      "source": "VoxelMatters",
+      "url": "https://www.voxelmatters.com/meshy-edit-for-part-level-changes-to-ai-generated-3d-models-launched/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+          },
+          {
+            "t": "p",
+            "x": "AI 3D 멀티모달 모델 기업 Meshy가 Meshy Edit를 출시했다. 3D 모델에서 고른 부분만 텍스트 설명대로 바꾸고 나머지 형상은 그대로 두는 도구다. 가입자라면 누구나 쓸 수 있고, 자체 개발한 새 모델로 돌아간다. 편집 한 번에 약 일 분이 걸리고 20크레딧이 든다."
+          },
+          {
+            "t": "p",
+            "x": "그동안은 모델 전체를 다시 생성하거나 Blender 같은 소프트웨어에서 메시를 손으로 고쳐야 했고, 수정 하나에 몇 시간이 걸리기도 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+          },
+          {
+            "t": "p",
+            "x": "수정은 두 단계다. 고르고, 설명한다. Lasso는 화면에서 부위를 둘러 앞면과 옆면, 뒷면까지 아우르고, Brush는 경계를 다듬는다. 참고 이미지는 장당 최대 20 MB, 최대 다섯 장까지 넣는다. 편집할 때마다 새 모델이 생기고 원본은 그대로 남는다. 지금은 형상만 바뀐다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+          },
+          {
+            "t": "p",
+            "x": "새 모델은 다시 편집하거나 내려받거나 Bambu Studio 같은 슬라이서로 보낼 수 있다. Meshy Edit는 Meshy 6와 Meshy 7.1의 하이폴리 모델에서 쓸 수 있고, Meshy 7.1 Ultra 2K 모델도 포함된다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Meshy는 최근 Series B 라운드에서 약 $400 million을 유치했고, 기업가치는 $1.5 billion으로 평가받았다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Meshy Edit changes one part\nof a generated 3D model",
+          "body": "Meshy Edit lets users lasso a region of a 3D model, describe a change in text and send the result to a slicer.",
+          "mini_headline": "Meshy Edit for 3D parts",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meshy, an AI 3D multimodal model company, has launched Meshy Edit, a tool that changes a selected part of a 3D model from a text description while leaving the rest of the geometry untouched. It is available to all registered users and runs on a new model built in-house, with each edit taking about one minute and costing 20 credits."
+              },
+              {
+                "t": "p",
+                "x": "Users previously had to regenerate a whole model, or edit the mesh by hand in software such as Blender, where a single change could take hours."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Each change has two steps: select, then describe. The Lasso circles a part on screen, covering the front, sides and back; the Brush refines the edge. Users can add up to five reference images of up to 20 MB each. Each edit produces a new model and keeps the original; the tool currently changes geometry only."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+              },
+              {
+                "t": "p",
+                "x": "The new model can be edited again, downloaded or sent to a slicer such as Bambu Studio. Meshy Edit works on high-poly models from Meshy 6 and Meshy 7.1, including Meshy 7.1 Ultra 2K."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meshy recently raised nearly $400 million in a Series B round at a $1.5 billion valuation."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Meshy Edit로\n3D 모델 일부만 수정",
+          "body": "Meshy Edit는 3D 모델 일부를 골라 텍스트로 고치고 슬라이서로 보낸다.",
+          "mini_headline": "Meshy Edit, 3D 부분 수정",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI 3D 멀티모달 모델 기업 Meshy가 Meshy Edit를 출시했다. 3D 모델에서 고른 부분만 텍스트 설명대로 바꾸고 나머지 형상은 그대로 두는 도구다. 가입자라면 누구나 쓸 수 있고, 자체 개발한 새 모델로 돌아간다. 편집 한 번에 약 일 분이 걸리고 20크레딧이 든다."
+              },
+              {
+                "t": "p",
+                "x": "그동안은 모델 전체를 다시 생성하거나 Blender 같은 소프트웨어에서 메시를 손으로 고쳐야 했고, 수정 하나에 몇 시간이 걸리기도 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+              },
+              {
+                "t": "p",
+                "x": "수정은 두 단계다. 고르고, 설명한다. Lasso는 화면에서 부위를 둘러 앞면과 옆면, 뒷면까지 아우르고, Brush는 경계를 다듬는다. 참고 이미지는 장당 최대 20 MB, 최대 다섯 장까지 넣는다. 편집할 때마다 새 모델이 생기고 원본은 그대로 남는다. 지금은 형상만 바뀐다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+              },
+              {
+                "t": "p",
+                "x": "새 모델은 다시 편집하거나 내려받거나 Bambu Studio 같은 슬라이서로 보낼 수 있다. Meshy Edit는 Meshy 6와 Meshy 7.1의 하이폴리 모델에서 쓸 수 있고, Meshy 7.1 Ultra 2K 모델도 포함된다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meshy는 최근 Series B 라운드에서 약 $400 million을 유치했고, 기업가치는 $1.5 billion으로 평가받았다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Meshy Editで\n3Dモデルの一部を修正",
+          "body": "Meshy Editでは3Dモデルの一部を選び、テキストで直してスライサーへ送れる。",
+          "mini_headline": "Meshy Editで3D部分編集",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI 3Dマルチモーダルモデル企業のMeshyは、3Dモデルの選択部分だけをテキストの指示で変更し、残りの形状には手を加えないツール「Meshy Edit」を公開した。登録ユーザー全員が利用でき、自社開発の新モデルで動作する。編集ごとに約一分かかり、20クレジットを消費する。"
+              },
+              {
+                "t": "p",
+                "x": "これまではモデル全体を作り直すか、Blenderなどのソフトでメッシュを手作業で編集する必要があり、変更ひとつに何時間もかかることもあった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+              },
+              {
+                "t": "p",
+                "x": "変更は「選ぶ」「説明する」の二段階で行う。Lassoで画面上の部位を囲むと前面・側面・背面までカバーでき、Brushで境界を整える。参照画像は一枚20 MBまでのものを最大五枚追加できる。編集のたびに新しいモデルが生成され、元のモデルは残る。現時点で変更できるのは形状のみだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+              },
+              {
+                "t": "p",
+                "x": "新しいモデルは再編集、ダウンロード、あるいはBambu Studioなどのスライサーへの送信ができる。Meshy EditはMeshy 6とMeshy 7.1のハイポリモデルに対応し、Meshy 7.1 Ultra 2K モデルも対象となる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meshyは最近、Series Bラウンドで評価額$1.5 billionのもと、約$400 millionを調達した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Meshy Edit\n只改生成3D模型的局部",
+          "body": "Meshy Edit可圈选3D模型局部，用文字描述修改后发送至切片软件。",
+          "mini_headline": "Meshy Edit改3D局部",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI 3D多模态模型公司Meshy推出Meshy Edit，这款工具可根据文字描述修改3D模型中选定的部分，其余几何结构保持不变。所有注册用户均可使用，它运行在自研的新模型上，每次编辑约需一分钟，消耗20积分。"
+              },
+              {
+                "t": "p",
+                "x": "此前，用户只能重新生成整个模型，或在Blender等软件中手动编辑网格，一处改动可能就要耗费数小时。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+              },
+              {
+                "t": "p",
+                "x": "每次修改分为两步：先选择，再描述。Lasso可在屏幕上圈出某个部位，覆盖正面、侧面和背面；Brush则用于细化边缘。用户最多可添加五张参考图，每张不超过20 MB。每次编辑都会生成新模型并保留原模型；该工具目前只能修改几何形状。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+              },
+              {
+                "t": "p",
+                "x": "新模型可以再次编辑、下载，或发送到Bambu Studio等切片软件。Meshy Edit适用于Meshy 6和Meshy 7.1生成的高面数模型，包括Meshy 7.1 Ultra 2K 模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meshy近期在Series B轮融资中筹集近$400 million，估值达$1.5 billion。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Meshy Edit cambia una parte\nde un modelo 3D generado",
+          "body": "Meshy Edit permite rodear una zona de un modelo 3D, describir el cambio en texto y enviarlo a un laminador.",
+          "mini_headline": "Meshy Edit para partes 3D",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meshy, empresa de modelos multimodales de AI 3D, lanzó Meshy Edit, una herramienta que modifica una parte seleccionada de un modelo 3D a partir de una descripción en texto sin tocar el resto de la geometría. Está disponible para todos los usuarios registrados y funciona con un nuevo modelo desarrollado internamente; cada edición tarda alrededor de un minuto y cuesta 20 créditos."
+              },
+              {
+                "t": "p",
+                "x": "Antes, los usuarios tenían que regenerar todo el modelo o editar la malla a mano en programas como Blender, donde un solo cambio podía llevar horas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Cada cambio tiene dos pasos: seleccionar y luego describir. Lasso rodea una parte en pantalla y abarca el frente, los lados y la parte trasera; Brush afina el borde. Se pueden añadir hasta cinco imágenes de referencia de hasta 20 MB cada una. Cada edición produce un nuevo modelo y conserva el original; por ahora la herramienta solo modifica la geometría."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El nuevo modelo puede editarse otra vez, descargarse o enviarse a un laminador como Bambu Studio. Meshy Edit funciona con modelos de alta poligonización de Meshy 6 y Meshy 7.1, incluido Meshy 7.1 Ultra 2K."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meshy recaudó hace poco casi $400 millones en una ronda Series B con una valoración de $1.5 mil millones."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Meshy Edit로\n3D 모델 일부만 수정",
+          "body": "Meshy Edit는 3D 모델 일부를 골라 텍스트로 고치고 슬라이서로 보낸다.",
+          "mini_headline": "Meshy Edit, 3D 부분 수정",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI 3D 멀티모달 모델 기업 Meshy가 Meshy Edit를 출시했다. 3D 모델에서 고른 부분만 텍스트 설명대로 바꾸고 나머지 형상은 그대로 두는 도구다. 가입한 모든 사용자가 쓸 수 있고, 자체 개발한 새 모델로 작동한다. 편집 한 번에 약 일 분이 걸리고 20크레딧이 든다."
+              },
+              {
+                "t": "p",
+                "x": "지금까지는 모델 전체를 다시 생성하거나 Blender 같은 소프트웨어에서 메시를 손으로 고쳐야 했고, 수정 하나에 몇 시간이 걸리기도 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+              },
+              {
+                "t": "p",
+                "x": "수정은 두 단계로 이뤄진다. 먼저 고르고, 다음에 설명한다. Lasso는 화면에서 부위를 둘러 앞면과 옆면, 뒷면까지 아우르고, Brush는 경계를 다듬는다. 참고 이미지는 장당 최대 20 MB까지, 최대 다섯 장을 넣을 수 있다. 편집할 때마다 새 모델이 생기고 원본은 그대로 남는다. 현재는 형상만 바꿀 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+              },
+              {
+                "t": "p",
+                "x": "새 모델은 다시 편집하거나 내려받거나 Bambu Studio 같은 슬라이서로 보낼 수 있다. Meshy Edit는 Meshy 6와 Meshy 7.1의 하이폴리 모델에서 작동하며, 대상에는 Meshy 7.1 Ultra 2K 모델도 들어간다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meshy는 최근 Series B 라운드에서 기업가치 $1.5 billion을 인정받으며 약 $400 million을 유치했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Meshy Editで\n3Dモデルの一部を修正",
+          "body": "Meshy Editでは3Dモデルの一部を選び、テキストで直してスライサーへ送れる。",
+          "mini_headline": "Meshy Editで3D部分編集",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI 3Dマルチモーダルモデル企業のMeshyは、3Dモデルの選択部分だけをテキストの指示で変更し、残りの形状には手を加えないツール「Meshy Edit」を公開した。登録ユーザー全員が利用でき、自社開発の新モデルで動作する。編集ごとに約一分かかり、20クレジットを消費する。"
+              },
+              {
+                "t": "p",
+                "x": "これまではモデル全体を作り直すか、Blenderなどのソフトでメッシュを手作業で編集する必要があり、変更ひとつに何時間もかかることもあった。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+              },
+              {
+                "t": "p",
+                "x": "変更は「選ぶ」「説明する」の二段階で行う。Lassoで画面上の部位を囲むと前面・側面・背面までカバーでき、Brushで境界を整える。参照画像は一枚20 MBまでのものを最大五枚追加できる。編集のたびに新しいモデルが生成され、元のモデルは残る。現時点で変更できるのは形状のみだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+              },
+              {
+                "t": "p",
+                "x": "新しいモデルは再編集、ダウンロード、あるいはBambu Studioなどのスライサーへの送信ができる。Meshy EditはMeshy 6とMeshy 7.1のハイポリモデルに対応し、Meshy 7.1 Ultra 2K モデルも対象となる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meshyは最近、Series Bラウンドで評価額$1.5 billionのもと、約$400 millionを調達した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Meshy Edit\n只改生成3D模型的局部",
+          "body": "Meshy Edit可圈选3D模型局部，用文字描述修改后发送至切片软件。",
+          "mini_headline": "Meshy Edit改3D局部",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AI 3D多模态模型公司Meshy推出Meshy Edit，这款工具可根据文字描述修改3D模型中选定的部分，其余几何结构保持不变。所有注册用户均可使用，它运行在自研的新模型上，每次编辑约需一分钟，消耗20积分。"
+              },
+              {
+                "t": "p",
+                "x": "此前，用户只能重新生成整个模型，或在Blender等软件中手动编辑网格，一处改动可能就要耗费数小时。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+              },
+              {
+                "t": "p",
+                "x": "每次修改分为两步：先选择，再描述。Lasso可在屏幕上圈出某个部位，覆盖正面、侧面和背面；Brush则用于细化边缘。用户最多可添加五张参考图，每张不超过20 MB。每次编辑都会生成新模型并保留原模型；该工具目前只能修改几何形状。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+              },
+              {
+                "t": "p",
+                "x": "新模型可以再次编辑、下载，或发送到Bambu Studio等切片软件。Meshy Edit适用于Meshy 6和Meshy 7.1生成的高面数模型，包括Meshy 7.1 Ultra 2K 模型。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meshy近期在Series B轮融资中筹集近$400 million，估值达$1.5 billion。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Meshy Edit cambia una parte\nde un modelo 3D generado",
+          "body": "Meshy Edit permite rodear una zona de un modelo 3D, describir el cambio en texto y enviarlo a un laminador.",
+          "mini_headline": "Meshy Edit para partes 3D",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meshy, empresa de modelos multimodales de AI 3D, lanzó Meshy Edit, una herramienta que modifica una parte seleccionada de un modelo 3D a partir de una descripción en texto sin tocar el resto de la geometría. Está disponible para todos los usuarios registrados y funciona con un nuevo modelo desarrollado internamente; cada edición tarda alrededor de un minuto y cuesta 20 créditos."
+              },
+              {
+                "t": "p",
+                "x": "Antes, los usuarios tenían que regenerar todo el modelo o editar la malla a mano en programas como Blender, donde un solo cambio podía llevar horas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Cada cambio tiene dos pasos: seleccionar y luego describir. Lasso rodea una parte en pantalla y abarca el frente, los lados y la parte trasera; Brush afina el borde. Se pueden añadir hasta cinco imágenes de referencia de hasta 20 MB cada una. Cada edición produce un nuevo modelo y conserva el original; por ahora la herramienta solo modifica la geometría."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El nuevo modelo puede editarse otra vez, descargarse o enviarse a un laminador como Bambu Studio. Meshy Edit funciona con modelos de alta poligonización de Meshy 6 y Meshy 7.1, incluido Meshy 7.1 Ultra 2K."
+              },
+              {
+                "t": "img",
+                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Meshy recaudó hace poco casi $400 millones en una ronda Series B con una valoración de $1.5 mil millones."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-brand-foundation",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI로 짓는 브랜드 기반\n장인 정신은 그대로",
+      "body": "Claude와 가드레일로 브랜드 기반과 디자인 시스템을 짓는 법을 다룬다.",
+      "mini_headline": "AI로 짓는 브랜드 기반",
       "tool": "AI Workflow",
       "source": "UX Collective",
-      "url": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373",
+      "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -1411,407 +803,255 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
-            "cap": "하나로 묶인 조직도: ‘사용자는 하나의 경험을 본다’."
+            "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
           },
           {
             "t": "p",
-            "x": "Kate Agena는 AI가 콘텐츠 디자인, 기업 콘텐츠 전략, 지식 관리, 모델 행동을 같은 사용자 경험 안으로 끌어들이는데 정작 우리가 일하는 방식은 아직 따라가지 못했다고 주장한다. 그가 드는 예는 이렇다. AI 어시스턴트가 재무 담당자에게 승인된 청구서가 지급 준비를 마쳤다고 알리지만, 실제로는 지급이 막혀 있다. 원인은 여러 팀에 흩어져 있을 수 있지만 사용자가 겪는 건 망가진 경험 하나다."
+            "x": "Claude와 가드레일 몇 가지로 디자인 시스템을 만드는 법을 소개한다. 개발자가 인정하고 클라이언트가 실제로 출시할 수 있는 시스템이다."
           },
           {
             "t": "p",
-            "x": "그는 Nielsen Norman Group의 Sarah Gibbons가 정리한 “AI 디자인”의 네 가지 의미를 빌려 온다. 콘텐츠 디자이너는 점점 문장보다 시스템을 설계하게 되고, 택소노미, 온톨로지, 지식 그래프 같은 의미 구조도 함께 만들어야 한다고 그는 짚는다. “전문화는 타당합니다. 우려되는 건 분리입니다.”"
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
-            "cap": "정적 UI, 생성형 UI, 대화와 에이전트는 네 분야가 떠받치는 공통의 이해 위에 서 있다."
+            "x": "목요일 오후 5시다. 클라이언트 미팅은 내일 아침이다. 오후 내내 Claude에서 프롬프트를 거듭하며 대시보드를 다듬었는데, 오후 2시에는 근사해 보이던 화면이 이제는 남의 집처럼 낯설다. 결국 Figma를 열어 화면을 손으로 다시 만들고는 “조금 다듬었을 뿐”이라고 스스로를 달랜다. AI는 연습장이었을 뿐이다."
           },
           {
             "t": "p",
-            "x": "그는 더 통합된 운영 모델을 주문한다. 용어를 함께 관리하는 거버넌스, AI 행동에 반영되는 콘텐츠 패턴, 지식이 바뀔 때 의존 관계를 알려 주는 워크플로, 원천 팀까지 되돌아가는 피드백 루프다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
-            "cap": "개념 하나가 바뀌면 의미 모델, UI 콘텐츠, 문서, AI 행동, 에이전트 동작, 평가까지 파급된다."
-          },
-          {
-            "t": "p",
-            "x": "평가가 경험을 지키는 방법의 하나로 자리 잡아 간다고 그는 쓴다. “경험은 우리의 조직도를 신경 쓰지 않습니다. 이제는 점점 더 조직도가 경험을 신경 써야 합니다.”"
+            "x": "필자가 보기에 이건 실력이 아니라 뼈대의 문제다. 탐색 단계에서 바이브 코딩(Vibe coding)이 주는 자유로움은 분명하다. AI-supported(AI 지원) 아이디에이션 연구에서도 AIGC가 확산적 사고 과정의 체감 정신 부담을 줄인다는 결과가 나왔다. 다만 같은 연구는 아이디어 발상과 개발을 구분한다."
           }
         ]
       },
-      "_lead_image": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "The AI experience ignores\nyour org chart",
-          "body": "Kate Agena argues AI fuses content design, knowledge management and model behavior, but ways of working lag behind.",
-          "mini_headline": "AI ignores your org chart",
+          "headline": "Building a brand foundation\nwith AI, craft intact",
+          "body": "A walkthrough uses Claude and a few guardrails to build a brand foundation and design system clients can ship.",
+          "mini_headline": "AI brand foundations",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
-                "cap": "An org chart circled as one: ‘the user sees one experience’."
+                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
               },
               {
                 "t": "p",
-                "x": "Kate Agena argues that AI is bringing content design, enterprise content strategy, knowledge management and model behavior into the same user experience — and our ways of working haven’t caught up. Her example: an AI assistant tells a finance manager an approved invoice is ready for payment, when it is actually blocked. The causes may be owned by different teams, but to the user it’s one broken experience."
+                "x": "Here is how to use Claude and a handful of guardrails to build a design system that developers respect and clients can actually ship."
               },
               {
                 "t": "p",
-                "x": "Drawing on Sarah Gibbons’s four meanings of “AI design” at Nielsen Norman Group, she notes content designers increasingly design systems rather than sentences, and should help shape semantic architecture: taxonomies, ontologies and knowledge graphs. “Specialization makes sense. Separation is where I get concerned.”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
-                "cap": "Static UI, generated UI, conversations and agents rest on a shared understanding held up by four disciplines."
+                "x": "It is 5pm on a Thursday. The client call is in the morning. You have spent the afternoon in Claude, prompting your way through a dashboard that looked extraordinary at 2pm and now looks like a stranger's house. So you open Figma, rebuild the screen by hand, and tell yourself you were “just tightening things up”. The AI was a sketchpad."
               },
               {
                 "t": "p",
-                "x": "She calls for a more integrated operating model: shared governance of terminology, content patterns that inform AI behavior, workflows that flag dependencies when knowledge changes, and feedback loops back to source teams."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
-                "cap": "A concept change ripples across semantic model, UI content, documentation, AI behavior, agent actions and evaluation."
-              },
-              {
-                "t": "p",
-                "x": "Evaluation, she writes, is becoming one of the ways we maintain the experience. “The experience doesn’t care about our org chart. Increasingly, our org chart has to care about the experience.”"
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIの体験は\n組織図を気にしない",
-          "body": "Kate AgenaはAIがコンテンツと知識とモデルを束ねても働き方は遅れていると説く。",
-          "mini_headline": "AIは組織図を気にしない",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
-                "cap": "一つの円で囲まれた組織図:『ユーザーが見るのは一つの体験』。"
-              },
-              {
-                "t": "p",
-                "x": "Kate Agenaは、AIがコンテンツデザイン、エンタープライズのコンテンツ戦略、ナレッジマネジメント、モデルの振る舞いを同じユーザー体験に持ち込んでいるのに、私たちの働き方は追いついていないと論じる。例として、AIアシスタントが財務マネージャーに承認済みの請求書は支払い準備ができていると伝えるが、実際には止まっているケースを挙げる。原因はそれぞれ別のチームの担当かもしれないが、ユーザーにとっては一つの壊れた体験だ。"
-              },
-              {
-                "t": "p",
-                "x": "Nielsen Norman GroupのSarah Gibbonsが示した「AIデザイン」の四つの意味を踏まえ、コンテンツデザイナーは文章よりもシステムを設計するようになっており、タクソノミー、オントロジー、ナレッジグラフといったセマンティックアーキテクチャの形成に関わるべきだと指摘する。「専門化は理にかなう。懸念するのは分断だ」"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
-                "cap": "静的UI、生成UI、会話、エージェントは、四つの専門分野が支える共通の理解の上に成り立つ。"
-              },
-              {
-                "t": "p",
-                "x": "彼女はより統合された運営モデルを求める。用語の共同ガバナンス、AIの振る舞いに反映されるコンテンツパターン、知識が変わったときに依存関係を知らせるワークフロー、元のチームへ戻るフィードバックループだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
-                "cap": "一つの概念の変更が、セマンティックモデル、UIコンテンツ、ドキュメント、AIの振る舞い、エージェントの動作、評価へと波及する。"
-              },
-              {
-                "t": "p",
-                "x": "評価は体験を維持する方法の一つになりつつある、と彼女は書く。「体験は私たちの組織図など気にしない。むしろ組織図の側が体験を気にかけなければならなくなっている」"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI体验\n不在乎你的组织架构",
-          "body": "Kate Agena认为AI把内容设计、知识管理和模型行为融为一体，但工作方式滞后。",
-          "mini_headline": "AI不在乎组织架构",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
-                "cap": "被圈成一体的组织架构图：‘用户看到的是同一种体验’。"
-              },
-              {
-                "t": "p",
-                "x": "Kate Agena认为，AI正把内容设计、企业内容战略、知识管理和模型行为带入同一种用户体验，而我们的工作方式还没有跟上。她举例说，AI助手告诉一位财务经理，一张已获批准的发票可以付款了，但实际上它被冻结了。原因可能分属不同团队，但对用户来说，这是同一个出了问题的体验。"
-              },
-              {
-                "t": "p",
-                "x": "她借用Nielsen Norman Group的Sarah Gibbons对“AI设计”四种含义的梳理指出，内容设计师越来越多地在设计系统而非句子，应参与塑造语义架构：分类体系、本体和知识图谱。“专业化合情合理，让我担忧的是割裂。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
-                "cap": "静态UI、生成式UI、对话和智能体都建立在四个学科共同支撑的共识之上。"
-              },
-              {
-                "t": "p",
-                "x": "她呼吁建立更一体化的运营模式：共同治理术语，用内容模式指导AI行为，在知识变化时标记依赖关系的工作流，以及回流到源头团队的反馈闭环。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
-                "cap": "一个概念的变化会波及语义模型、UI内容、文档、AI行为、智能体操作和评估。"
-              },
-              {
-                "t": "p",
-                "x": "她写道，评估正成为我们维护体验的方式之一。“体验并不在乎我们的组织架构。我们的组织架构越来越需要在乎体验。”"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La experiencia de IA ignora\ntu organigrama",
-          "body": "Kate Agena afirma que la IA une contenido, conocimiento y comportamiento del modelo, pero el trabajo va a la zaga.",
-          "mini_headline": "La IA ignora tu organigrama",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
-                "cap": "Un organigrama rodeado como un todo: ‘el usuario ve una sola experiencia’."
-              },
-              {
-                "t": "p",
-                "x": "Kate Agena sostiene que la IA está reuniendo el diseño de contenido, la estrategia de contenido empresarial, la gestión del conocimiento y el comportamiento del modelo en una misma experiencia de usuario, y que nuestras formas de trabajar no se han puesto al día. Su ejemplo: un asistente de IA le dice a un responsable de finanzas que una factura aprobada está lista para el pago, cuando en realidad está bloqueada. Las causas pueden depender de equipos distintos, pero para el usuario es una única experiencia rota."
-              },
-              {
-                "t": "p",
-                "x": "Partiendo de los cuatro significados de “diseño de IA” que propone Sarah Gibbons en Nielsen Norman Group, señala que los diseñadores de contenido diseñan cada vez más sistemas en lugar de frases y deberían ayudar a dar forma a la arquitectura semántica: taxonomías, ontologías y grafos de conocimiento. “La especialización tiene sentido. Lo que me preocupa es la separación”."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
-                "cap": "La UI estática, la UI generada, las conversaciones y los agentes se apoyan en un entendimiento común sostenido por cuatro disciplinas."
-              },
-              {
-                "t": "p",
-                "x": "Pide un modelo operativo más integrado: gobernanza compartida de la terminología, patrones de contenido que orienten el comportamiento de la IA, flujos de trabajo que señalen dependencias cuando cambia el conocimiento y circuitos de retroalimentación hacia los equipos de origen."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
-                "cap": "Un cambio de concepto repercute en el modelo semántico, el contenido de la UI, la documentación, el comportamiento de la IA, las acciones de los agentes y la evaluación."
-              },
-              {
-                "t": "p",
-                "x": "La evaluación, escribe, se está convirtiendo en una de las formas de mantener la experiencia. “A la experiencia no le importa nuestro organigrama. Cada vez más, a nuestro organigrama tiene que importarle la experiencia”."
+                "x": "The author argues this is not a failure of skill but a failure of scaffolding. Vibe coding is genuinely liberating in the exploratory phase, and research on AI-supported ideation finds AIGC reduces perceived mental demand during divergent thinking — but the same research distinguishes between ideation and development."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 경험은\n조직도를 외면한다",
-          "body": "Kate Agena는 AI가 여러 분야를 묶지만 일하는 방식은 뒤처졌다고 본다.",
-          "mini_headline": "AI는 조직도를 외면한다",
+          "headline": "AI로 짓는 브랜드 기반\n장인 정신은 그대로",
+          "body": "Claude와 가드레일로 브랜드 기반과 디자인 시스템을 짓는 법을 다룬다.",
+          "mini_headline": "AI로 짓는 브랜드 기반",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
-                "cap": "하나로 묶인 조직도: ‘사용자는 하나의 경험을 본다’."
+                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
               },
               {
                 "t": "p",
-                "x": "Kate Agena는 AI가 콘텐츠 디자인, 기업 콘텐츠 전략, 지식 관리, 모델 행동을 같은 사용자 경험 안으로 끌어들이는데 정작 우리가 일하는 방식은 아직 따라가지 못했다고 주장한다. 그가 드는 예는 이렇다. AI 어시스턴트가 재무 담당자에게 승인된 청구서가 지급 준비를 마쳤다고 알리지만, 실제로는 지급이 막혀 있다. 원인은 여러 팀에 흩어져 있을 수 있지만 사용자가 겪는 건 망가진 경험 하나다."
+                "x": "Claude와 가드레일 몇 가지로 디자인 시스템을 만드는 법을 소개한다. 개발자가 인정하고 클라이언트가 실제로 출시할 수 있는 시스템이다."
               },
               {
                 "t": "p",
-                "x": "그는 Nielsen Norman Group의 Sarah Gibbons가 정리한 “AI 디자인”의 네 가지 의미를 빌려 온다. 콘텐츠 디자이너는 점점 문장보다 시스템을 설계하게 되고, 택소노미, 온톨로지, 지식 그래프 같은 의미 구조도 함께 만들어야 한다고 그는 짚는다. “전문화는 타당합니다. 우려되는 건 분리입니다.”"
+                "x": "목요일 오후 5시다. 클라이언트 미팅은 내일 아침이다. 오후 내내 Claude에서 프롬프트를 거듭하며 대시보드를 다듬었는데, 오후 2시에는 근사해 보이던 화면이 이제는 남의 집처럼 낯설다. 결국 Figma를 열어 화면을 손으로 다시 만들고는 “조금 다듬었을 뿐”이라고 스스로를 달랜다. AI는 연습장이었을 뿐이다."
               },
+              {
+                "t": "p",
+                "x": "필자가 보기에 이건 실력이 아니라 뼈대의 문제다. 탐색 단계에서 바이브 코딩(Vibe coding)이 주는 자유로움은 분명하다. AI-supported(AI 지원) 아이디에이션 연구에서도 AIGC가 확산적 사고 과정의 체감 정신 부담을 줄인다는 결과가 나왔다. 다만 같은 연구는 아이디어 발상과 개발을 구분한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIで築くブランド基盤\n職人技はそのままに",
+          "body": "Claudeと少数のガードレールで、ブランド基盤とデザインシステムを築く手順を示す。",
+          "mini_headline": "AIで築くブランド基盤",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
-                "cap": "정적 UI, 생성형 UI, 대화와 에이전트는 네 분야가 떠받치는 공통의 이해 위에 서 있다."
+                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
               },
               {
                 "t": "p",
-                "x": "그는 더 통합된 운영 모델을 주문한다. 용어를 함께 관리하는 거버넌스, AI 행동에 반영되는 콘텐츠 패턴, 지식이 바뀔 때 의존 관계를 알려 주는 워크플로, 원천 팀까지 되돌아가는 피드백 루프다."
+                "x": "Claudeといくつかのガードレールを使い、開発者が一目置き、クライアントが実際にリリースできるデザインシステムを構築する方法を紹介する。"
               },
+              {
+                "t": "p",
+                "x": "木曜日の午後5時。クライアントとの打ち合わせは翌朝だ。午後をずっとClaudeの中で過ごし、プロンプトを重ねてダッシュボードを作ってきたが、午後2時には見事に見えたその画面が、今では他人の家のように見える。そこでFigmaを開き、画面を手作業で作り直して、「少し詰めただけ」と自分に言い聞かせる。AIはスケッチパッドにすぎなかった。"
+              },
+              {
+                "t": "p",
+                "x": "筆者は、これはスキルの失敗ではなく足場の失敗だと論じる。Vibe coding(バイブコーディング)は探索段階では確かに解放感をもたらし、AI-supported(AI支援)のアイデア創出に関する研究でも、AIGCが発散的思考における主観的な精神的負荷を下げることが示されている。ただし同じ研究は、アイデア創出と開発を区別している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "用AI打造品牌基础\n匠心不减",
+          "body": "一篇实操指南借助Claude和几条护栏，搭建客户能直接上线的品牌基础与设计系统。",
+          "mini_headline": "AI打造品牌基础",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
-                "cap": "개념 하나가 바뀌면 의미 모델, UI 콘텐츠, 문서, AI 행동, 에이전트 동작, 평가까지 파급된다."
+                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
               },
               {
                 "t": "p",
-                "x": "평가가 경험을 지키는 방법의 하나로 자리 잡아 간다고 그는 쓴다. “경험은 우리의 조직도를 신경 쓰지 않습니다. 이제는 점점 더 조직도가 경험을 신경 써야 합니다.”"
+                "x": "本文介绍如何借助Claude和几条护栏，搭建一套开发者认可、客户真正能上线的设计系统。"
+              },
+              {
+                "t": "p",
+                "x": "周四下午5点。客户会议在明天上午。你一下午都泡在Claude里，靠提示词一步步做出一个仪表盘：下午2点时它看起来惊艳无比，现在却像陌生人的房子。于是你打开Figma，手动重做这个界面，并告诉自己只是在“稍微收紧一下细节”。AI只是一块草稿板。"
+              },
+              {
+                "t": "p",
+                "x": "作者认为，这不是能力的失败，而是脚手架的失败。Vibe coding（氛围编程）在探索阶段确实令人解放，关于AI-supported（AI辅助）构思的研究也发现，AIGC能降低发散思维过程中的主观心理负荷——但同一项研究也区分了构思与开发。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una base de marca con AI,\nsin perder el oficio",
+          "body": "Una guía usa Claude y algunas salvaguardas para crear una base de marca y un sistema de diseño listos para lanzar.",
+          "mini_headline": "Bases de marca con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+              },
+              {
+                "t": "p",
+                "x": "Así se usan Claude y unas cuantas salvaguardas para construir un sistema de diseño que los desarrolladores respeten y que los clientes realmente puedan lanzar."
+              },
+              {
+                "t": "p",
+                "x": "Son las 5pm de un jueves. La llamada con el cliente es por la mañana. Has pasado la tarde en Claude, avanzando a base de prompts en un panel que a las 2pm se veía extraordinario y ahora parece la casa de un desconocido. Así que abres Figma, reconstruyes la pantalla a mano y te dices que solo estabas “ajustando detalles”. La AI fue un cuaderno de bocetos."
+              },
+              {
+                "t": "p",
+                "x": "El autor sostiene que no es un fallo de habilidad, sino de andamiaje. El llamado Vibe coding resulta liberador en la fase exploratoria, y una investigación sobre ideación AI-supported (asistida por AI) concluye que la AIGC reduce la exigencia mental percibida durante el pensamiento divergente; pero esa misma investigación distingue entre ideación y desarrollo."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "AIの体験は\n組織図を気にしない",
-          "body": "Kate AgenaはAIがコンテンツと知識とモデルを束ねても働き方は遅れていると説く。",
-          "mini_headline": "AIは組織図を気にしない",
+        "ko": {
+          "headline": "AI로 브랜드 기반 구축\n장인 정신은 그대로",
+          "body": "Claude와 가드레일로 브랜드 기반과 디자인 시스템을 짓는 법을 짚는다.",
+          "mini_headline": "AI로 짓는 브랜드 기반",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
-                "cap": "一つの円で囲まれた組織図:『ユーザーが見るのは一つの体験』。"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
               },
               {
                 "t": "p",
-                "x": "Kate Agenaは、AIがコンテンツデザイン、エンタープライズのコンテンツ戦略、ナレッジマネジメント、モデルの振る舞いを同じユーザー体験に持ち込んでいるのに、私たちの働き方は追いついていないと論じる。例として、AIアシスタントが財務マネージャーに承認済みの請求書は支払い準備ができていると伝えるが、実際には止まっているケースを挙げる。原因はそれぞれ別のチームの担当かもしれないが、ユーザーにとっては一つの壊れた体験だ。"
+                "x": "Claude와 몇 가지 가드레일로 개발자가 인정하고 클라이언트가 실제로 출시할 수 있는 디자인 시스템을 만드는 방법을 소개한다."
               },
               {
                 "t": "p",
-                "x": "Nielsen Norman GroupのSarah Gibbonsが示した「AIデザイン」の四つの意味を踏まえ、コンテンツデザイナーは文章よりもシステムを設計するようになっており、タクソノミー、オントロジー、ナレッジグラフといったセマンティックアーキテクチャの形成に関わるべきだと指摘する。「専門化は理にかなう。懸念するのは分断だ」"
+                "x": "목요일 오후 5시다. 클라이언트 미팅은 내일 아침이다. 오후 내내 Claude에서 프롬프트를 거듭하며 대시보드를 다듬었는데, 오후 2시에는 근사해 보이던 화면이 이제는 남의 집처럼 낯설다. 그래서 Figma를 열어 화면을 손으로 다시 만들고는 “조금 다듬었을 뿐”이라고 스스로를 달랜다. AI는 연습장이었을 뿐이다."
               },
+              {
+                "t": "p",
+                "x": "필자는 이것이 실력의 문제가 아니라 뼈대의 문제라고 본다. 바이브 코딩(Vibe coding)은 탐색 단계에서 분명 자유로움을 준다. AI-supported(AI 지원) 아이디에이션 연구에서도 AIGC가 확산적 사고 과정의 체감 정신 부담을 줄인다는 결과가 나왔다. 다만 같은 연구는 아이디어 발상과 개발을 구분한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIで築くブランド基盤\n職人技はそのままに",
+          "body": "Claudeと少数のガードレールで、ブランド基盤とデザインシステムを築く手順を示す。",
+          "mini_headline": "AIで築くブランド基盤",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
-                "cap": "静的UI、生成UI、会話、エージェントは、四つの専門分野が支える共通の理解の上に成り立つ。"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
               },
               {
                 "t": "p",
-                "x": "彼女はより統合された運営モデルを求める。用語の共同ガバナンス、AIの振る舞いに反映されるコンテンツパターン、知識が変わったときに依存関係を知らせるワークフロー、元のチームへ戻るフィードバックループだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
-                "cap": "一つの概念の変更が、セマンティックモデル、UIコンテンツ、ドキュメント、AIの振る舞い、エージェントの動作、評価へと波及する。"
+                "x": "Claudeといくつかのガードレールを使い、開発者が一目置き、クライアントが実際にリリースできるデザインシステムを構築する方法を紹介する。"
               },
               {
                 "t": "p",
-                "x": "評価は体験を維持する方法の一つになりつつある、と彼女は書く。「体験は私たちの組織図など気にしない。むしろ組織図の側が体験を気にかけなければならなくなっている」"
+                "x": "木曜日の午後5時。クライアントとの打ち合わせは翌朝だ。午後をずっとClaudeの中で過ごし、プロンプトを重ねてダッシュボードを作ってきたが、午後2時には見事に見えたその画面が、今では他人の家のように見える。そこでFigmaを開き、画面を手作業で作り直して、「少し詰めただけ」と自分に言い聞かせる。AIはスケッチパッドにすぎなかった。"
+              },
+              {
+                "t": "p",
+                "x": "筆者は、これはスキルの失敗ではなく足場の失敗だと論じる。Vibe coding(バイブコーディング)は探索段階では確かに解放感をもたらし、AI-supported(AI支援)のアイデア創出に関する研究でも、AIGCが発散的思考における主観的な精神的負荷を下げることが示されている。ただし同じ研究は、アイデア創出と開発を区別している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI体验\n不在乎你的组织架构",
-          "body": "Kate Agena认为AI把内容设计、知识管理和模型行为融为一体，但工作方式滞后。",
-          "mini_headline": "AI不在乎组织架构",
+          "headline": "用AI打造品牌基础\n匠心不减",
+          "body": "一篇实操指南借助Claude和几条护栏，搭建客户能直接上线的品牌基础与设计系统。",
+          "mini_headline": "AI打造品牌基础",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
-                "cap": "被圈成一体的组织架构图：‘用户看到的是同一种体验’。"
+                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
               },
               {
                 "t": "p",
-                "x": "Kate Agena认为，AI正把内容设计、企业内容战略、知识管理和模型行为带入同一种用户体验，而我们的工作方式还没有跟上。她举例说，AI助手告诉一位财务经理，一张已获批准的发票可以付款了，但实际上它被冻结了。原因可能分属不同团队，但对用户来说，这是同一个出了问题的体验。"
+                "x": "本文介绍如何借助Claude和几条护栏，搭建一套开发者认可、客户真正能上线的设计系统。"
               },
               {
                 "t": "p",
-                "x": "她借用Nielsen Norman Group的Sarah Gibbons对“AI设计”四种含义的梳理指出，内容设计师越来越多地在设计系统而非句子，应参与塑造语义架构：分类体系、本体和知识图谱。“专业化合情合理，让我担忧的是割裂。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
-                "cap": "静态UI、生成式UI、对话和智能体都建立在四个学科共同支撑的共识之上。"
+                "x": "周四下午5点。客户会议在明天上午。你一下午都泡在Claude里，靠提示词一步步做出一个仪表盘：下午2点时它看起来惊艳无比，现在却像陌生人的房子。于是你打开Figma，手动重做这个界面，并告诉自己只是在“稍微收紧一下细节”。AI只是一块草稿板。"
               },
               {
                 "t": "p",
-                "x": "她呼吁建立更一体化的运营模式：共同治理术语，用内容模式指导AI行为，在知识变化时标记依赖关系的工作流，以及回流到源头团队的反馈闭环。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
-                "cap": "一个概念的变化会波及语义模型、UI内容、文档、AI行为、智能体操作和评估。"
-              },
-              {
-                "t": "p",
-                "x": "她写道，评估正成为我们维护体验的方式之一。“体验并不在乎我们的组织架构。我们的组织架构越来越需要在乎体验。”"
+                "x": "作者认为，这不是能力的失败，而是脚手架的失败。Vibe coding（氛围编程）在探索阶段确实令人解放，关于AI-supported（AI辅助）构思的研究也发现，AIGC能降低发散思维过程中的主观心理负荷——但同一项研究也区分了构思与开发。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La experiencia de IA ignora\ntu organigrama",
-          "body": "Kate Agena afirma que la IA une contenido, conocimiento y comportamiento del modelo, pero el trabajo va a la zaga.",
-          "mini_headline": "La IA ignora tu organigrama",
+          "headline": "Una base de marca con AI,\nsin perder el oficio",
+          "body": "Una guía usa Claude y algunas salvaguardas para crear una base de marca y un sistema de diseño listos para lanzar.",
+          "mini_headline": "Bases de marca con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
-                "cap": "Un organigrama rodeado como un todo: ‘el usuario ve una sola experiencia’."
+                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
               },
               {
                 "t": "p",
-                "x": "Kate Agena sostiene que la IA está reuniendo el diseño de contenido, la estrategia de contenido empresarial, la gestión del conocimiento y el comportamiento del modelo en una misma experiencia de usuario, y que nuestras formas de trabajar no se han puesto al día. Su ejemplo: un asistente de IA le dice a un responsable de finanzas que una factura aprobada está lista para el pago, cuando en realidad está bloqueada. Las causas pueden depender de equipos distintos, pero para el usuario es una única experiencia rota."
+                "x": "Así se usan Claude y unas cuantas salvaguardas para construir un sistema de diseño que los desarrolladores respeten y que los clientes realmente puedan lanzar."
               },
               {
                 "t": "p",
-                "x": "Partiendo de los cuatro significados de “diseño de IA” que propone Sarah Gibbons en Nielsen Norman Group, señala que los diseñadores de contenido diseñan cada vez más sistemas en lugar de frases y deberían ayudar a dar forma a la arquitectura semántica: taxonomías, ontologías y grafos de conocimiento. “La especialización tiene sentido. Lo que me preocupa es la separación”."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
-                "cap": "La UI estática, la UI generada, las conversaciones y los agentes se apoyan en un entendimiento común sostenido por cuatro disciplinas."
+                "x": "Son las 5pm de un jueves. La llamada con el cliente es por la mañana. Has pasado la tarde en Claude, avanzando a base de prompts en un panel que a las 2pm se veía extraordinario y ahora parece la casa de un desconocido. Así que abres Figma, reconstruyes la pantalla a mano y te dices que solo estabas “ajustando detalles”. La AI fue un cuaderno de bocetos."
               },
               {
                 "t": "p",
-                "x": "Pide un modelo operativo más integrado: gobernanza compartida de la terminología, patrones de contenido que orienten el comportamiento de la IA, flujos de trabajo que señalen dependencias cuando cambia el conocimiento y circuitos de retroalimentación hacia los equipos de origen."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
-                "cap": "Un cambio de concepto repercute en el modelo semántico, el contenido de la UI, la documentación, el comportamiento de la IA, las acciones de los agentes y la evaluación."
-              },
-              {
-                "t": "p",
-                "x": "La evaluación, escribe, se está convirtiendo en una de las formas de mantener la experiencia. “A la experiencia no le importa nuestro organigrama. Cada vez más, a nuestro organigrama tiene que importarle la experiencia”."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 경험은\n조직도를 외면한다",
-          "body": "Kate Agena는 AI가 여러 분야를 묶지만 일하는 방식은 뒤처졌다고 본다.",
-          "mini_headline": "AI는 조직도를 외면한다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*6NmwSGMnZgD1hsraDqel3g.png",
-                "cap": "하나로 묶인 조직도: ‘사용자는 하나의 경험을 본다’."
-              },
-              {
-                "t": "p",
-                "x": "Kate Agena는 AI가 콘텐츠 디자인, 기업 콘텐츠 전략, 지식 관리, 모델 행동을 같은 사용자 경험 안으로 끌어들이고 있지만 우리의 일하는 방식은 아직 따라가지 못했다고 주장한다. 그가 드는 예는 이렇다. AI 어시스턴트가 재무 담당자에게 승인된 청구서가 지급 준비를 마쳤다고 알리지만, 실제로는 지급이 막혀 있다. 원인은 서로 다른 팀의 몫일 수 있어도 사용자에게는 하나의 망가진 경험이다."
-              },
-              {
-                "t": "p",
-                "x": "그는 Nielsen Norman Group의 Sarah Gibbons가 정리한 “AI 디자인”의 네 가지 의미를 바탕으로, 콘텐츠 디자이너가 점점 문장보다 시스템을 설계하게 되며 택소노미, 온톨로지, 지식 그래프 같은 의미 구조를 함께 만들어야 한다고 짚는다. “전문화는 타당합니다. 우려되는 건 분리입니다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*b8FYioloi7X5w7p7dPFYew.png",
-                "cap": "정적 UI, 생성형 UI, 대화와 에이전트는 네 분야가 떠받치는 공통의 이해 위에 서 있다."
-              },
-              {
-                "t": "p",
-                "x": "그는 더 통합된 운영 모델을 요구한다. 용어를 함께 관리하는 거버넌스, AI 행동에 반영되는 콘텐츠 패턴, 지식이 바뀔 때 의존 관계를 알려 주는 워크플로, 그리고 원천 팀으로 돌아가는 피드백 루프다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/v2/resize:fit:1024/1*eMYw487vedKPVzj_2s4ucA.png",
-                "cap": "개념 하나가 바뀌면 의미 모델, UI 콘텐츠, 문서, AI 행동, 에이전트 동작, 평가까지 파급된다."
-              },
-              {
-                "t": "p",
-                "x": "그는 평가가 경험을 유지하는 방법 가운데 하나가 되고 있다고 쓴다. “경험은 우리의 조직도를 신경 쓰지 않습니다. 이제는 점점 더 조직도가 경험을 신경 써야 합니다.”"
+                "x": "El autor sostiene que no es un fallo de habilidad, sino de andamiaje. El llamado Vibe coding resulta liberador en la fase exploratoria, y una investigación sobre ideación AI-supported (asistida por AI) concluye que la AIGC reduce la exigencia mental percibida durante el pensamiento divergente; pero esa misma investigación distingue entre ideación y desarrollo."
               }
             ]
           }
@@ -1819,15 +1059,15 @@
       }
     },
     {
-      "id": "design-smashing-ai-adoption",
+      "id": "design-a11y-gates",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "우리 조직은 AI 도입을\n망치고 있나",
-      "body": "조직이 AI를 기술 문제로 보며 디지털 전환의 실수를 되풀이한다는 지적이다.",
-      "mini_headline": "AI 도입을 망치는 조직",
+      "headline": "WCAG 위반 시 머지를\n막는 에이전트 스킬",
+      "body": "ux-ui-agent-skills는 실제 WCAG 위반이 있으면 머지를 막는다.",
+      "mini_headline": "AI 접근성 게이트",
       "tool": "Design Tokens",
-      "source": "Smashing Magazine",
-      "url": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+      "source": "DEV Community",
+      "url": "https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1835,211 +1075,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-            "cap": "당신의 조직은 AI 도입을 망치고 있는가?"
+            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
           },
           {
             "t": "p",
-            "x": "Paul Boag는 2014년 Smashing에서 낸 책 Digital Adaptation을 다시 꺼낸다. 조직들이 AI를 두고 디지털 전환 때의 실수를 되풀이한다는 것이 그의 주장이다. 그때나 지금이나 가장 큰 실수는 이 일을 기술 과제로 보는 것이다. IT 부서는 Copilot Studio 라이선스를 나눠 주고 일반 교육을 얹은 뒤 할 일을 마쳤다고 여긴다."
+            "x": "Claude나 GPT에 “제대로 된 접근성”을 갖춘 모달 대화상자를 만들어 달라고 하면 role=\"dialog\"와 aria-labelledby 속성은 붙어 나온다. 그런데 포커스 관리가 깨져 VoiceOver 사용자가 모달 안에 갇힌다는 건 뒤늦게야 알게 된다. 코드 생성은 런타임 동작이 아니라 문법적 정확성에 맞춰 최적화돼 있어서다."
           },
           {
             "t": "p",
-            "x": "직원은 AI로 개인이 얻는 게 적고 일자리도 걱정한다. 그러니 조직이 동기를 줘야 한다. 싫어하는 업무부터 공략하거나 승진, 급여, 근무 시간 단축 같은 인센티브를 걸고, 직무별 교육과 시간을 내줘야 한다. 열성적인 사람부터 시작해 사회적 증거가 힘을 쓰게 두라는 게 그의 제안이다."
+            "x": "plugin87/ux-ui-agent-skills는 모달, 드롭다운, 탭, 캐러셀 등 프로덕션급 컴포넌트 패턴 52개와 객관적 검증 게이트 50개를 묶었다. 결과물이 WCAG 2.2 AA/AAA 요건을 어기면 빌드가 실패한다. 토큰은 W3C DTCG 사양을 따르고 프리미티브는 프레임워크를 가리지 않는다. 포커스 트랩과 키보드 내비게이션은 실행 가능한 테스트(axe-core + Playwright)로 검증한다."
           },
           {
             "t": "p",
-            "x": "실패해도 안전해야 한다. AI를 도입하라는 지시를 받았다가 몇 주 뒤 토큰을 너무 많이 썼다고 질책받은 직원들 이야기가 그에게 들려온다. 거버넌스는 gov.uk의 디자인 원칙처럼 짧은 원칙 모음이어야 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
-            "cap": "GOV.UK의 디자인 원칙."
+            "x": "생성된 테스트 하나는 주니어 개발자가 리팩터링 중 onCloseAutoFocus를 지워 사용자층의 8%가 키보드 내비게이션을 쓸 수 없게 된 회귀를 잡아냈다. 카드 컴포넌트 23개를 container-query 패턴으로 옮기자 Lighthouse 성능 점수가 78에서 94로 올랐다."
           },
           {
             "t": "p",
-            "x": "IT가 도구 하나로 묶어두면 팀이 멈춘다. 그가 함께 일하는 한 UX 팀은 Copilot이 리서치 저장소를 구현하지 못해 발이 묶였다. 이런 상황은 섀도 AI도 부추긴다. AI 도입은 디지털 전환과 마찬가지로 사람, 문화, 변화 관리의 문제다."
+            "x": "한계도 있다. 시각적 회귀 테스트가 없고, DTCG 설정에 2-3시간이 걸릴 수 있다. 한 클라이언트 프로젝트에 삼 주간 써 보니, 수동 QA가 놓친 접근성 회귀 14건을 빌드 게이트가 잡아냈다."
           }
         ]
       },
-      "_lead_image": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-      "_video": "",
       "text": {
         "en": {
-          "headline": "Is your organization\nmessing up AI adoption",
-          "body": "Paul Boag argues organizations adopting AI repeat digital transformation's mistakes by treating it as a tech problem.",
-          "mini_headline": "Messing up AI adoption",
+          "headline": "An agent skill set that blocks\nmerges on WCAG failures",
+          "body": "A review tests ux-ui-agent-skills, which blocks merges for real WCAG violations in a component library.",
+          "mini_headline": "AI accessibility gates",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-                "cap": "Is Your Organization Messing Up AI Adoption?"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
               },
               {
                 "t": "p",
-                "x": "Paul Boag revisits his 2014 Smashing book Digital Adaptation and argues organizations are repeating digital transformation’s mistakes with AI. The biggest one, then and now, is treating it as a technological challenge: IT rolls out Copilot Studio licenses, adds generic training and considers the job done."
+                "x": "When you ask Claude or GPT to build a modal dialog with \"proper accessibility,\" you'll get role=\"dialog\" and aria-labelledby attributes — then discover VoiceOver users are trapped inside the modal because focus management is broken. Code generation optimizes for syntactic correctness, not runtime behavior."
               },
               {
                 "t": "p",
-                "x": "Staff gain little from AI personally and fear for their jobs, so organizations must motivate them — by targeting tasks they hate, or with incentives in progression, pay or shorter hours — and give them role-specific training and time. He suggests starting with enthusiasts and letting social proof do the heavy lifting."
+                "x": "plugin87/ux-ui-agent-skills packages 52 production-grade component patterns (modals, dropdowns, tabs, carousels) with 50 objective verification gates that fail your build if the output violates WCAG 2.2 AA/AAA requirements. Tokens follow the W3C DTCG spec, primitives are framework-agnostic, and executable tests (axe-core + Playwright) verify focus traps and keyboard navigation."
               },
               {
                 "t": "p",
-                "x": "It must also be safe to fail: he hears of staff reprimanded for using too many tokens weeks after being told to adopt AI. Governance should be a short set of principles, like gov.uk’s design principles."
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
-                "cap": "Design Principles from GOV.UK."
+                "x": "One generated test caught a regression where a junior dev removed onCloseAutoFocus during a refactor, breaking keyboard navigation for 8% of the user base. Lighthouse performance jumped from 78 to 94 after migrating 23 card components to a container-query pattern."
               },
               {
                 "t": "p",
-                "x": "Locking IT down to one tool stalls teams — a UX team he works with is stuck because Copilot can’t deliver its research repository — and drives shadow AI. AI adoption, like digital transformation, is about people, culture and change management."
+                "x": "Limits: no visual regression testing, and the DTCG setup can take 2-3 hours. Over three weeks on a client project, the build gates caught 14 accessibility regressions that manual QA missed."
               }
             ]
           }
         },
         "ko": {
-          "headline": "우리 조직은 AI 도입을\n망치고 있나",
-          "body": "조직이 AI를 기술 문제로 보며 디지털 전환의 실수를 되풀이한다는 지적이다.",
-          "mini_headline": "AI 도입을 망치는 조직",
+          "headline": "WCAG 위반 시 머지를\n막는 에이전트 스킬",
+          "body": "ux-ui-agent-skills는 실제 WCAG 위반이 있으면 머지를 막는다.",
+          "mini_headline": "AI 접근성 게이트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-                "cap": "당신의 조직은 AI 도입을 망치고 있는가?"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
               },
               {
                 "t": "p",
-                "x": "Paul Boag는 2014년 Smashing에서 낸 책 Digital Adaptation을 다시 꺼낸다. 조직들이 AI를 두고 디지털 전환 때의 실수를 되풀이한다는 것이 그의 주장이다. 그때나 지금이나 가장 큰 실수는 이 일을 기술 과제로 보는 것이다. IT 부서는 Copilot Studio 라이선스를 나눠 주고 일반 교육을 얹은 뒤 할 일을 마쳤다고 여긴다."
+                "x": "Claude나 GPT에 “제대로 된 접근성”을 갖춘 모달 대화상자를 만들어 달라고 하면 role=\"dialog\"와 aria-labelledby 속성은 붙어 나온다. 그런데 포커스 관리가 깨져 VoiceOver 사용자가 모달 안에 갇힌다는 건 뒤늦게야 알게 된다. 코드 생성은 런타임 동작이 아니라 문법적 정확성에 맞춰 최적화돼 있어서다."
               },
               {
                 "t": "p",
-                "x": "직원은 AI로 개인이 얻는 게 적고 일자리도 걱정한다. 그러니 조직이 동기를 줘야 한다. 싫어하는 업무부터 공략하거나 승진, 급여, 근무 시간 단축 같은 인센티브를 걸고, 직무별 교육과 시간을 내줘야 한다. 열성적인 사람부터 시작해 사회적 증거가 힘을 쓰게 두라는 게 그의 제안이다."
+                "x": "plugin87/ux-ui-agent-skills는 모달, 드롭다운, 탭, 캐러셀 등 프로덕션급 컴포넌트 패턴 52개와 객관적 검증 게이트 50개를 묶었다. 결과물이 WCAG 2.2 AA/AAA 요건을 어기면 빌드가 실패한다. 토큰은 W3C DTCG 사양을 따르고 프리미티브는 프레임워크를 가리지 않는다. 포커스 트랩과 키보드 내비게이션은 실행 가능한 테스트(axe-core + Playwright)로 검증한다."
               },
               {
                 "t": "p",
-                "x": "실패해도 안전해야 한다. AI를 도입하라는 지시를 받았다가 몇 주 뒤 토큰을 너무 많이 썼다고 질책받은 직원들 이야기가 그에게 들려온다. 거버넌스는 gov.uk의 디자인 원칙처럼 짧은 원칙 모음이어야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
-                "cap": "GOV.UK의 디자인 원칙."
+                "x": "생성된 테스트 하나는 주니어 개발자가 리팩터링 중 onCloseAutoFocus를 지워 사용자층의 8%가 키보드 내비게이션을 쓸 수 없게 된 회귀를 잡아냈다. 카드 컴포넌트 23개를 container-query 패턴으로 옮기자 Lighthouse 성능 점수가 78에서 94로 올랐다."
               },
               {
                 "t": "p",
-                "x": "IT가 도구 하나로 묶어두면 팀이 멈춘다. 그가 함께 일하는 한 UX 팀은 Copilot이 리서치 저장소를 구현하지 못해 발이 묶였다. 이런 상황은 섀도 AI도 부추긴다. AI 도입은 디지털 전환과 마찬가지로 사람, 문화, 변화 관리의 문제다."
+                "x": "한계도 있다. 시각적 회귀 테스트가 없고, DTCG 설정에 2-3시간이 걸릴 수 있다. 한 클라이언트 프로젝트에 삼 주간 써 보니, 수동 QA가 놓친 접근성 회귀 14건을 빌드 게이트가 잡아냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "あなたの組織は\nAI導入をしくじっていないか",
-          "body": "Paul Boagは組織がAIを技術の問題と捉え、デジタル変革の失敗を繰り返すと説く。",
-          "mini_headline": "AI導入をしくじる組織",
+          "headline": "WCAG違反でマージを\n止めるエージェントスキル",
+          "body": "レビューによると、ux-ui-agent-skillsはWCAG違反でマージを止める。",
+          "mini_headline": "AIアクセシビリティゲート",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-                "cap": "あなたの組織はAI導入をしくじっていないか?"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
               },
               {
                 "t": "p",
-                "x": "Paul Boagは、2014年にSmashingから出した著書Digital Adaptationを振り返り、組織がAIでデジタル変革と同じ過ちを繰り返していると論じる。当時も今も最大の過ちは、それを技術的な課題として扱うことだ。IT部門がCopilot Studioのライセンスを配り、汎用的な研修を加えて、それで終わりとしてしまう。"
+                "x": "ClaudeやGPTに「適切なアクセシビリティ」を備えたモーダルダイアログを作らせると、role=\"dialog\"やaria-labelledby属性は付いてくる。だが、フォーカス管理が壊れているせいでVoiceOverユーザーがモーダル内に閉じ込められることに、後から気づく。コード生成が最適化するのは構文上の正しさであって、実行時の振る舞いではない。"
               },
               {
                 "t": "p",
-                "x": "社員はAIから個人的に得るものが少なく、仕事を失うことを恐れている。だから組織は、嫌がられている作業を狙う、あるいは昇進や給与、労働時間の短縮といったインセンティブを用意することで動機づけ、職務に応じた研修と時間を与えなければならない。彼は熱心な人たちから始め、社会的証明に大きな役割を担わせることを勧める。"
+                "x": "plugin87/ux-ui-agent-skillsは、モーダル、ドロップダウン、タブ、カルーセルなど本番品質のコンポーネントパターン52種と、出力がWCAG 2.2 AA/AAAの要件に違反するとビルドを失敗させる客観的な検証ゲート50個をまとめたものだ。トークンはW3C DTCG仕様に準拠し、プリミティブはフレームワークに依存しない。実行可能なテスト(axe-core + Playwright)がフォーカストラップとキーボード操作を検証する。"
               },
               {
                 "t": "p",
-                "x": "失敗しても安全でなければならない。AIを導入するよう言われた数週間後に、トークンを使いすぎたと叱責された社員の話も耳にするという。ガバナンスはgov.ukのデザイン原則のような短い原則の集まりであるべきだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
-                "cap": "GOV.UKのデザイン原則。"
+                "x": "生成されたテストのひとつは、ジュニア開発者がリファクタリング中にonCloseAutoFocusを削除し、ユーザーの8%でキーボード操作が壊れた回帰を検出した。カードコンポーネント23個をcontainer-queryパターンに移行すると、Lighthouseのパフォーマンスは78から94に上がった。"
               },
               {
                 "t": "p",
-                "x": "IT部門がツールを一つに絞るとチームは行き詰まる。彼が関わるあるUXチームは、Copilotではリサーチリポジトリを実現できず立ち往生している。それはシャドーAIも招く。AI導入はデジタル変革と同じく、人、文化、変化のマネジメントの問題だ。"
+                "x": "制約もある。ビジュアル回帰テストはなく、DTCGのセットアップには2-3時間かかることがある。あるクライアント案件で三週間使ったところ、ビルドゲートは手動QAが見逃したアクセシビリティの回帰を14件検出した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "你的组织\n是否搞砸了AI落地",
-          "body": "Paul Boag认为，组织把AI视为技术问题，正在重蹈数字化转型的覆辙。",
-          "mini_headline": "搞砸AI落地的组织",
+          "headline": "这套智能体技能\n遇WCAG违规就拦合并",
+          "body": "评测显示，ux-ui-agent-skills会在组件库出现WCAG违规时阻止合并。",
+          "mini_headline": "AI无障碍门禁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-                "cap": "你的组织是否正在搞砸AI落地？"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
               },
               {
                 "t": "p",
-                "x": "Paul Boag重提他2014年在Smashing出版的著作Digital Adaptation，认为各组织正在AI上重蹈数字化转型的覆辙。无论当年还是现在，最大的错误都是把它当成技术挑战：IT部门发放Copilot Studio许可证，加上一些通用培训，就认为大功告成。"
+                "x": "当你让Claude或GPT做一个“具备完善无障碍”的模态对话框时，你会得到role=\"dialog\"和aria-labelledby属性——随后才发现，由于焦点管理失效，VoiceOver用户被困在模态框里。代码生成优化的是语法正确性，而不是运行时行为。"
               },
               {
                 "t": "p",
-                "x": "员工个人从AI中获益甚少，还担心饭碗不保，因此组织必须激励他们——从他们讨厌的任务入手，或在晋升、薪酬、缩短工时方面给予激励——并提供针对岗位的培训和时间。他建议从热衷者开始，让社会认同发挥主要作用。"
+                "x": "plugin87/ux-ui-agent-skills打包了52个生产级组件模式（模态框、下拉菜单、标签页、轮播），以及50个客观验证门禁，一旦输出违反WCAG 2.2 AA/AAA要求，构建就会失败。令牌遵循W3C DTCG规范，基础组件与框架无关，可执行测试（axe-core + Playwright）会验证焦点陷阱和键盘导航。"
               },
               {
                 "t": "p",
-                "x": "失败也必须是安全的：他听说有员工在被要求采用AI几周后，又因使用太多token而受到训斥。治理应是一套简短的原则，就像gov.uk的设计原则。"
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
-                "cap": "GOV.UK的设计原则。"
+                "x": "其中一个生成的测试捕捉到一次回归：一名初级开发者在重构时删除了onCloseAutoFocus，导致8%的用户键盘导航失效。把23个卡片组件迁移到container-query模式后，Lighthouse性能分从78升至94。"
               },
               {
                 "t": "p",
-                "x": "IT部门把工具锁定为一种会让团队停滞——与他合作的一个UX团队就因Copilot无法实现其研究资料库而陷入困境——还会催生影子AI。与数字化转型一样，AI落地关乎人、文化和变革管理。"
+                "x": "局限在于：没有视觉回归测试，DTCG配置可能需要2-3小时。在一个客户项目中使用三周后，构建门禁拦下了人工QA遗漏的14个无障碍回归问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cómo tu organización puede\nestar fallando al adoptar IA",
-          "body": "Paul Boag cree que las empresas repiten con la IA los errores de la transformación digital al verla como algo técnico.",
-          "mini_headline": "Errores al adoptar la IA",
+          "headline": "Skills de agente que bloquean\nfusiones si falla WCAG",
+          "body": "Una reseña prueba ux-ui-agent-skills, que bloquea fusiones ante violaciones reales de WCAG en componentes.",
+          "mini_headline": "Puertas de accesibilidad con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-                "cap": "¿Tu organización está estropeando la adopción de la IA?"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
               },
               {
                 "t": "p",
-                "x": "Paul Boag retoma su libro de 2014 para Smashing, Digital Adaptation, y sostiene que las organizaciones están repitiendo con la IA los errores de la transformación digital. El mayor, entonces y ahora, es tratarla como un reto tecnológico: el departamento de IT distribuye licencias de Copilot Studio, añade una formación genérica y da el trabajo por terminado."
+                "x": "Si le pides a Claude o a GPT que construya un diálogo modal con \"accesibilidad adecuada\", obtendrás atributos role=\"dialog\" y aria-labelledby, y luego descubrirás que los usuarios de VoiceOver quedan atrapados dentro del modal porque la gestión del foco falla. La generación de código optimiza la corrección sintáctica, no el comportamiento en tiempo de ejecución."
               },
               {
                 "t": "p",
-                "x": "El personal obtiene poco beneficio personal de la IA y teme por su empleo, así que las organizaciones deben motivarlo —abordando tareas que detesta o con incentivos en ascensos, salario o jornadas más cortas— y darle formación específica para cada puesto y tiempo. Propone empezar por los entusiastas y dejar que la prueba social haga el trabajo pesado."
+                "x": "plugin87/ux-ui-agent-skills reúne 52 patrones de componentes de nivel de producción (modales, menús desplegables, pestañas, carruseles) con 50 puertas de verificación objetivas que hacen fallar la compilación si el resultado incumple los requisitos de WCAG 2.2 AA/AAA. Los tokens siguen la especificación W3C DTCG, las primitivas son independientes del framework y las pruebas ejecutables (axe-core + Playwright) verifican las trampas de foco y la navegación por teclado."
               },
               {
                 "t": "p",
-                "x": "También debe ser seguro equivocarse: sabe de empleados reprendidos por usar demasiados tokens semanas después de que se les pidiera adoptar la IA. La gobernanza debería ser un breve conjunto de principios, como los principios de diseño de gov.uk."
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
-                "cap": "Principios de diseño de GOV.UK."
+                "x": "Una prueba generada detectó una regresión en la que un desarrollador junior eliminó onCloseAutoFocus durante una refactorización, lo que rompió la navegación por teclado para el 8% de los usuarios. El rendimiento en Lighthouse pasó de 78 a 94 tras migrar 23 componentes de tarjeta a un patrón container-query."
               },
               {
                 "t": "p",
-                "x": "Limitar el departamento de IT a una sola herramienta paraliza a los equipos —un equipo de UX con el que trabaja está bloqueado porque Copilot no puede ofrecer su repositorio de investigación— y alimenta la IA en la sombra. La adopción de la IA, como la transformación digital, depende de las personas, la cultura y la gestión del cambio."
+                "x": "Limitaciones: no hay pruebas de regresión visual y la configuración de DTCG puede llevar 2-3 horas. Durante tres semanas en un proyecto para un cliente, las puertas de compilación detectaron 14 regresiones de accesibilidad que el QA manual pasó por alto."
               }
             ]
           }
@@ -2047,145 +1249,543 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "우리 조직은 AI 도입을\n망치고 있나",
-          "body": "조직이 AI를 기술 문제로 보며 디지털 전환의 실수를 되풀이한다는 지적이다.",
-          "mini_headline": "AI 도입을 망치는 조직",
+          "headline": "WCAG 위반 시 머지를\n막는 에이전트 스킬",
+          "body": "ux-ui-agent-skills는 실제 WCAG 위반이 있으면 머지를 막는다.",
+          "mini_headline": "AI 접근성 게이트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-                "cap": "당신의 조직은 AI 도입을 망치고 있는가?"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
               },
               {
                 "t": "p",
-                "x": "Paul Boag는 2014년 Smashing에서 낸 책 Digital Adaptation을 다시 꺼내며, 조직들이 AI에서 디지털 전환의 실수를 되풀이하고 있다고 주장한다. 그때도 지금도 가장 큰 실수는 이를 기술적 과제로 여기는 것이다. IT 부서가 Copilot Studio 라이선스를 배포하고 일반적인 교육을 덧붙인 뒤 할 일을 다 했다고 여긴다."
+                "x": "Claude나 GPT에 “제대로 된 접근성”을 갖춘 모달 대화상자를 만들어 달라고 하면 role=\"dialog\"와 aria-labelledby 속성은 붙어 나온다. 그런데 포커스 관리가 깨져 VoiceOver 사용자가 모달 안에 갇힌다는 사실을 뒤늦게 알게 된다. 코드 생성은 런타임 동작이 아니라 문법적 정확성을 기준으로 최적화하기 때문이다."
               },
               {
                 "t": "p",
-                "x": "직원들은 AI에서 개인적으로 얻는 것이 적고 일자리를 걱정하므로, 조직은 그들에게 동기를 부여해야 한다. 싫어하는 업무부터 겨냥하거나 승진, 급여, 근무 시간 단축 같은 인센티브를 주고, 직무별 교육과 시간을 제공해야 한다. 그는 열성적인 사람들부터 시작해 사회적 증거가 큰 몫을 하게 두라고 제안한다."
+                "x": "plugin87/ux-ui-agent-skills는 모달, 드롭다운, 탭, 캐러셀 등 프로덕션급 컴포넌트 패턴 52개와 객관적 검증 게이트 50개를 묶었다. 결과물이 WCAG 2.2 AA/AAA 요건을 어기면 빌드가 실패한다. 토큰은 W3C DTCG 사양을 따르고, 프리미티브는 프레임워크에 얽매이지 않으며, 실행 가능한 테스트(axe-core + Playwright)가 포커스 트랩과 키보드 내비게이션을 검증한다."
               },
               {
                 "t": "p",
-                "x": "실패해도 안전해야 한다. 그는 AI를 도입하라는 지시를 받고 몇 주 뒤 토큰을 너무 많이 썼다고 질책받은 직원들의 이야기를 듣는다. 거버넌스는 gov.uk의 디자인 원칙처럼 짧은 원칙 모음이어야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
-                "cap": "GOV.UK의 디자인 원칙."
+                "x": "생성된 테스트 하나는 주니어 개발자가 리팩터링 중 onCloseAutoFocus를 지워 사용자층의 8%가 키보드 내비게이션을 쓸 수 없게 된 회귀를 잡아냈다. 카드 컴포넌트 23개를 container-query 패턴으로 옮긴 뒤 Lighthouse 성능 점수는 78에서 94로 올랐다."
               },
               {
                 "t": "p",
-                "x": "IT가 도구 하나로 묶어두면 팀이 멈춘다. 그가 함께 일하는 한 UX 팀은 Copilot이 리서치 저장소를 구현하지 못해 발이 묶였다. 이는 섀도 AI도 부추긴다. AI 도입은 디지털 전환과 마찬가지로 사람, 문화, 변화 관리의 문제다."
+                "x": "한계도 있다. 시각적 회귀 테스트가 없고, DTCG 설정에 2-3시간이 걸릴 수 있다. 한 클라이언트 프로젝트에서 삼 주 동안 써 보니 빌드 게이트가 수동 QA가 놓친 접근성 회귀 14건을 잡아냈다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "あなたの組織は\nAI導入をしくじっていないか",
-          "body": "Paul Boagは組織がAIを技術の問題と捉え、デジタル変革の失敗を繰り返すと説く。",
-          "mini_headline": "AI導入をしくじる組織",
+          "headline": "WCAG違反でマージを\n止めるエージェントスキル",
+          "body": "レビューによると、ux-ui-agent-skillsはWCAG違反でマージを止める。",
+          "mini_headline": "AIアクセシビリティゲート",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-                "cap": "あなたの組織はAI導入をしくじっていないか?"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
               },
               {
                 "t": "p",
-                "x": "Paul Boagは、2014年にSmashingから出した著書Digital Adaptationを振り返り、組織がAIでデジタル変革と同じ過ちを繰り返していると論じる。当時も今も最大の過ちは、それを技術的な課題として扱うことだ。IT部門がCopilot Studioのライセンスを配り、汎用的な研修を加えて、それで終わりとしてしまう。"
+                "x": "ClaudeやGPTに「適切なアクセシビリティ」を備えたモーダルダイアログを作らせると、role=\"dialog\"やaria-labelledby属性は付いてくる。だが、フォーカス管理が壊れているせいでVoiceOverユーザーがモーダル内に閉じ込められることに、後から気づく。コード生成が最適化するのは構文上の正しさであって、実行時の振る舞いではない。"
               },
               {
                 "t": "p",
-                "x": "社員はAIから個人的に得るものが少なく、仕事を失うことを恐れている。だから組織は、嫌がられている作業を狙う、あるいは昇進や給与、労働時間の短縮といったインセンティブを用意することで動機づけ、職務に応じた研修と時間を与えなければならない。彼は熱心な人たちから始め、社会的証明に大きな役割を担わせることを勧める。"
+                "x": "plugin87/ux-ui-agent-skillsは、モーダル、ドロップダウン、タブ、カルーセルなど本番品質のコンポーネントパターン52種と、出力がWCAG 2.2 AA/AAAの要件に違反するとビルドを失敗させる客観的な検証ゲート50個をまとめたものだ。トークンはW3C DTCG仕様に準拠し、プリミティブはフレームワークに依存しない。実行可能なテスト(axe-core + Playwright)がフォーカストラップとキーボード操作を検証する。"
               },
               {
                 "t": "p",
-                "x": "失敗しても安全でなければならない。AIを導入するよう言われた数週間後に、トークンを使いすぎたと叱責された社員の話も耳にするという。ガバナンスはgov.ukのデザイン原則のような短い原則の集まりであるべきだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
-                "cap": "GOV.UKのデザイン原則。"
+                "x": "生成されたテストのひとつは、ジュニア開発者がリファクタリング中にonCloseAutoFocusを削除し、ユーザーの8%でキーボード操作が壊れた回帰を検出した。カードコンポーネント23個をcontainer-queryパターンに移行すると、Lighthouseのパフォーマンスは78から94に上がった。"
               },
               {
                 "t": "p",
-                "x": "IT部門がツールを一つに絞るとチームは行き詰まる。彼が関わるあるUXチームは、Copilotではリサーチリポジトリを実現できず立ち往生している。それはシャドーAIも招く。AI導入はデジタル変革と同じく、人、文化、変化のマネジメントの問題だ。"
+                "x": "制約もある。ビジュアル回帰テストはなく、DTCGのセットアップには2-3時間かかることがある。あるクライアント案件で三週間使ったところ、ビルドゲートは手動QAが見逃したアクセシビリティの回帰を14件検出した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "你的组织\n是否搞砸了AI落地",
-          "body": "Paul Boag认为，组织把AI视为技术问题，正在重蹈数字化转型的覆辙。",
-          "mini_headline": "搞砸AI落地的组织",
+          "headline": "这套智能体技能\n遇WCAG违规就拦合并",
+          "body": "评测显示，ux-ui-agent-skills会在组件库出现WCAG违规时阻止合并。",
+          "mini_headline": "AI无障碍门禁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-                "cap": "你的组织是否正在搞砸AI落地？"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
               },
               {
                 "t": "p",
-                "x": "Paul Boag重提他2014年在Smashing出版的著作Digital Adaptation，认为各组织正在AI上重蹈数字化转型的覆辙。无论当年还是现在，最大的错误都是把它当成技术挑战：IT部门发放Copilot Studio许可证，加上一些通用培训，就认为大功告成。"
+                "x": "当你让Claude或GPT做一个“具备完善无障碍”的模态对话框时，你会得到role=\"dialog\"和aria-labelledby属性——随后才发现，由于焦点管理失效，VoiceOver用户被困在模态框里。代码生成优化的是语法正确性，而不是运行时行为。"
               },
               {
                 "t": "p",
-                "x": "员工个人从AI中获益甚少，还担心饭碗不保，因此组织必须激励他们——从他们讨厌的任务入手，或在晋升、薪酬、缩短工时方面给予激励——并提供针对岗位的培训和时间。他建议从热衷者开始，让社会认同发挥主要作用。"
+                "x": "plugin87/ux-ui-agent-skills打包了52个生产级组件模式（模态框、下拉菜单、标签页、轮播），以及50个客观验证门禁，一旦输出违反WCAG 2.2 AA/AAA要求，构建就会失败。令牌遵循W3C DTCG规范，基础组件与框架无关，可执行测试（axe-core + Playwright）会验证焦点陷阱和键盘导航。"
               },
               {
                 "t": "p",
-                "x": "失败也必须是安全的：他听说有员工在被要求采用AI几周后，又因使用太多token而受到训斥。治理应是一套简短的原则，就像gov.uk的设计原则。"
-              },
-              {
-                "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
-                "cap": "GOV.UK的设计原则。"
+                "x": "其中一个生成的测试捕捉到一次回归：一名初级开发者在重构时删除了onCloseAutoFocus，导致8%的用户键盘导航失效。把23个卡片组件迁移到container-query模式后，Lighthouse性能分从78升至94。"
               },
               {
                 "t": "p",
-                "x": "IT部门把工具锁定为一种会让团队停滞——与他合作的一个UX团队就因Copilot无法实现其研究资料库而陷入困境——还会催生影子AI。与数字化转型一样，AI落地关乎人、文化和变革管理。"
+                "x": "局限在于：没有视觉回归测试，DTCG配置可能需要2-3小时。在一个客户项目中使用三周后，构建门禁拦下了人工QA遗漏的14个无障碍回归问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cómo tu organización puede\nestar fallando al adoptar IA",
-          "body": "Paul Boag cree que las empresas repiten con la IA los errores de la transformación digital al verla como algo técnico.",
-          "mini_headline": "Errores al adoptar la IA",
+          "headline": "Skills de agente que bloquean\nfusiones si falla WCAG",
+          "body": "Una reseña prueba ux-ui-agent-skills, que bloquea fusiones ante violaciones reales de WCAG en componentes.",
+          "mini_headline": "Puertas de accesibilidad con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/is-your-organization-messing-up-ai-adoption.jpg",
-                "cap": "¿Tu organización está estropeando la adopción de la IA?"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
               },
               {
                 "t": "p",
-                "x": "Paul Boag retoma su libro de 2014 para Smashing, Digital Adaptation, y sostiene que las organizaciones están repitiendo con la IA los errores de la transformación digital. El mayor, entonces y ahora, es tratarla como un reto tecnológico: el departamento de IT distribuye licencias de Copilot Studio, añade una formación genérica y da el trabajo por terminado."
+                "x": "Si le pides a Claude o a GPT que construya un diálogo modal con \"accesibilidad adecuada\", obtendrás atributos role=\"dialog\" y aria-labelledby, y luego descubrirás que los usuarios de VoiceOver quedan atrapados dentro del modal porque la gestión del foco falla. La generación de código optimiza la corrección sintáctica, no el comportamiento en tiempo de ejecución."
               },
               {
                 "t": "p",
-                "x": "El personal obtiene poco beneficio personal de la IA y teme por su empleo, así que las organizaciones deben motivarlo —abordando tareas que detesta o con incentivos en ascensos, salario o jornadas más cortas— y darle formación específica para cada puesto y tiempo. Propone empezar por los entusiastas y dejar que la prueba social haga el trabajo pesado."
+                "x": "plugin87/ux-ui-agent-skills reúne 52 patrones de componentes de nivel de producción (modales, menús desplegables, pestañas, carruseles) con 50 puertas de verificación objetivas que hacen fallar la compilación si el resultado incumple los requisitos de WCAG 2.2 AA/AAA. Los tokens siguen la especificación W3C DTCG, las primitivas son independientes del framework y las pruebas ejecutables (axe-core + Playwright) verifican las trampas de foco y la navegación por teclado."
               },
               {
                 "t": "p",
-                "x": "También debe ser seguro equivocarse: sabe de empleados reprendidos por usar demasiados tokens semanas después de que se les pidiera adoptar la IA. La gobernanza debería ser un breve conjunto de principios, como los principios de diseño de gov.uk."
+                "x": "Una prueba generada detectó una regresión en la que un desarrollador junior eliminó onCloseAutoFocus durante una refactorización, lo que rompió la navegación por teclado para el 8% de los usuarios. El rendimiento en Lighthouse pasó de 78 a 94 tras migrar 23 componentes de tarjeta a un patrón container-query."
+              },
+              {
+                "t": "p",
+                "x": "Limitaciones: no hay pruebas de regresión visual y la configuración de DTCG puede llevar 2-3 horas. Durante tres semanas en un proyecto para un cliente, las puertas de compilación detectaron 14 regresiones de accesibilidad que el QA manual pasó por alto."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-material-you-ship",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "브라우저에서 디자인하라\n출시할 재료 그대로",
+      "body": "AI가 코드를 쓰니 디자이너는 실제 데이터를 넣고 브라우저에서 디자인한다.",
+      "mini_headline": "출시할 재료로 디자인하기",
+      "tool": "Figma",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+            "cap": "디자인 파일의 카드와 실제 데이터를 넣은 브라우저의 카드는 같은 카드다."
+          },
+          {
+            "t": "p",
+            "x": "디자이너는 건축가가 돌을 이해하듯 코드를 이해해야 한다. 어떻게 깎는지가 아니라 무엇을 할 수 있는지를 알아야 한다. 이제 깎는 일은 AI가 한다."
+          },
+          {
+            "t": "p",
+            "x": "디자인 파일은 그림이다. 상태 하나, 너비 하나, 언어 하나를 디자이너가 직접 넣은 데이터로만 보여 준다. 제품은 그 밖의 모든 상태다. 긴 이름, 불러오지 못한 사진, 빈 목록, 사 초가 걸리는 요청, 키보드 사용자, 320픽셀 폰까지."
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+            "cap": "디자인 파일이 한 번도 보여 주지 않은 상태는 여섯 가지다."
+          },
+          {
+            "t": "p",
+            "x": "버튼 하나를 코드로 131가지 변형까지 만들어 보니 ‘촉감 있는(tactile)’이라는 형용사가 엔지니어가 구현할 숫자로 바뀌었다. 필자의 제품 팀은 코드로 만든 프로토타입을 놓고 리뷰한다. 디자인 파일은 회차가 끝날 때마다 코드에서 다시 뽑아 거울처럼 쓴다."
+          },
+          {
+            "t": "img",
+            "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+            "cap": "전과 후를 나란히 보면 무엇이 기준 산출물인지 보인다."
+          },
+          {
+            "t": "p",
+            "x": "“디자이너도 코딩해야 한다”는 말은 수명을 다했다. 코드는 AI가 쓴다. 코드를 읽는 AI 리뷰 도구도 있다. 한 벤치마크에서는 가장 뛰어난 도구가 실제 버그 122개 중 84개를 잡았다. 그래도 시스템을 맡은 엔지니어의 책임은 그대로다. 디자이너가 넘길 수 없는 것은 이해다. 320픽셀 화면, 가장 긴 실제 이름, 느린 네트워크와 키보드로 직접 돌려 보고 결과물을 판단해야 한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Design in the browser,\nin the material you ship",
+          "body": "With AI now writing the code, designers can design in the browser with real data rather than in a static file.",
+          "mini_headline": "Design in what you ship",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+                "cap": "The same card in the design file and in the browser with real data."
+              },
+              {
+                "t": "p",
+                "x": "Designers should understand code the way an architect understands stone: what it can do, not how to cut it. AI now does the cutting."
+              },
+              {
+                "t": "p",
+                "x": "A design file is a drawing. It shows one state, at one width, in one language, with the data the designer typed in. The product is every other state: the long name, the failed photo, the empty list, the four-second request, the keyboard user, the 320-pixel phone."
               },
               {
                 "t": "img",
-                "src": "https://files.smashing.media/articles/is-your-organization-messing-up-ai-adoption/design-principle-tumblr.jpg",
-                "cap": "Principios de diseño de GOV.UK."
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+                "cap": "Six states the design file never showed."
               },
               {
                 "t": "p",
-                "x": "Limitar el departamento de IT a una sola herramienta paraliza a los equipos —un equipo de UX con el que trabaja está bloqueado porque Copilot no puede ofrecer su repositorio de investigación— y alimenta la IA en la sombra. La adopción de la IA, como la transformación digital, depende de las personas, la cultura y la gestión del cambio."
+                "x": "Building 131 variations of one button in code turned an adjective (tactile) into numbers an engineer can build. On the author's product team, the prototype in code is what gets reviewed; the design file is regenerated from the code after each pass, as a mirror."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+                "cap": "Before and after: which artifact is the source of truth."
+              },
+              {
+                "t": "p",
+                "x": "“Designers should code” is over, because AI writes the code. AI review tools read it too — in one benchmark the best caught 84 of 122 real bugs — while the engineer who owns the system stays accountable. What the designer can't delegate is understanding: judge the output by running it at 320 pixels, with the longest real name, a slow network and a keyboard."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "브라우저에서 디자인하라\n출시할 재료 그대로",
+          "body": "AI가 코드를 쓰니 디자이너는 실제 데이터를 넣고 브라우저에서 디자인한다.",
+          "mini_headline": "출시할 재료로 디자인하기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+                "cap": "디자인 파일의 카드와 실제 데이터를 넣은 브라우저의 카드는 같은 카드다."
+              },
+              {
+                "t": "p",
+                "x": "디자이너는 건축가가 돌을 이해하듯 코드를 이해해야 한다. 어떻게 깎는지가 아니라 무엇을 할 수 있는지를 알아야 한다. 이제 깎는 일은 AI가 한다."
+              },
+              {
+                "t": "p",
+                "x": "디자인 파일은 그림이다. 상태 하나, 너비 하나, 언어 하나를 디자이너가 직접 넣은 데이터로만 보여 준다. 제품은 그 밖의 모든 상태다. 긴 이름, 불러오지 못한 사진, 빈 목록, 사 초가 걸리는 요청, 키보드 사용자, 320픽셀 폰까지."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+                "cap": "디자인 파일이 한 번도 보여 주지 않은 상태는 여섯 가지다."
+              },
+              {
+                "t": "p",
+                "x": "버튼 하나를 코드로 131가지 변형까지 만들어 보니 ‘촉감 있는(tactile)’이라는 형용사가 엔지니어가 구현할 숫자로 바뀌었다. 필자의 제품 팀은 코드로 만든 프로토타입을 놓고 리뷰한다. 디자인 파일은 회차가 끝날 때마다 코드에서 다시 뽑아 거울처럼 쓴다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+                "cap": "전과 후를 나란히 보면 무엇이 기준 산출물인지 보인다."
+              },
+              {
+                "t": "p",
+                "x": "“디자이너도 코딩해야 한다”는 말은 수명을 다했다. 코드는 AI가 쓴다. 코드를 읽는 AI 리뷰 도구도 있다. 한 벤치마크에서는 가장 뛰어난 도구가 실제 버그 122개 중 84개를 잡았다. 그래도 시스템을 맡은 엔지니어의 책임은 그대로다. 디자이너가 넘길 수 없는 것은 이해다. 320픽셀 화면, 가장 긴 실제 이름, 느린 네트워크와 키보드로 직접 돌려 보고 결과물을 판단해야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ブラウザでデザインする\n出荷する素材そのもので",
+          "body": "AIがコードを書く今、デザイナーは静的ファイルでなく実データでブラウザ上で設計できる。",
+          "mini_headline": "出荷する素材でデザイン",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+                "cap": "デザインファイル上の同じカードと、実データを入れたブラウザ上のカード。"
+              },
+              {
+                "t": "p",
+                "x": "デザイナーは、建築家が石を理解するようにコードを理解すべきだ。切り方ではなく、何ができるかを知ることだ。今や切る作業はAIが担う。"
+              },
+              {
+                "t": "p",
+                "x": "デザインファイルは図面にすぎない。ひとつの状態を、ひとつの幅で、ひとつの言語で、デザイナーが入力したデータで示すだけだ。製品とは、それ以外のあらゆる状態である。長い名前、読み込みに失敗した写真、空のリスト、四秒かかるリクエスト、キーボードで操作するユーザー、320ピクセルのスマートフォン。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+                "cap": "デザインファイルが一度も示さなかった六つの状態。"
+              },
+              {
+                "t": "p",
+                "x": "ひとつのボタンを131通りのバリエーションでコードとして作ってみると、「触感のある(tactile)」という形容詞が、エンジニアが実装できる数値に変わった。筆者のプロダクトチームでは、レビューの対象はコードによるプロトタイプであり、デザインファイルは毎回の検討後にコードから再生成され、鏡として使われる。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+                "cap": "ビフォーとアフター：どの成果物が信頼できる唯一の情報源か。"
+              },
+              {
+                "t": "p",
+                "x": "「デザイナーもコードを書くべき」という議論は終わった。コードはAIが書くからだ。AIレビューツールはコードを読みもする。あるベンチマークでは、最も優れたツールが実際のバグ122件のうち84件を検出した。それでも、システムを所有するエンジニアが責任を負うことに変わりはない。デザイナーが委ねられないのは理解である。320ピクセルの画面で、最も長い実在の名前を使い、遅いネットワークとキーボードで動かして、出力を判断することだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "在浏览器里做设计\n用的就是交付材料",
+          "body": "AI已能写代码，设计师可以用真实数据在浏览器里设计，而非在静态文件中。",
+          "mini_headline": "用交付材料做设计",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+                "cap": "同一张卡片：设计文件中的样子，与在浏览器中填入真实数据后的样子。"
+              },
+              {
+                "t": "p",
+                "x": "设计师应当像建筑师理解石材那样理解代码：了解它能做什么，而不是如何切割它。如今，切割的工作由AI来做。"
+              },
+              {
+                "t": "p",
+                "x": "设计文件只是一张图。它只呈现一种状态、一种宽度、一种语言，以及设计师自己输入的数据。而产品是其余所有状态：过长的名字、加载失败的照片、空列表、耗时四秒的请求、使用键盘的用户、320像素宽的手机。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+                "cap": "设计文件从未展示过的六种状态。"
+              },
+              {
+                "t": "p",
+                "x": "用代码为同一个按钮做出131种变体，把一个形容词（tactile，有触感）变成了工程师可以实现的数字。在作者所在的产品团队，评审的是代码原型；每轮评审后，设计文件都会从代码重新生成，作为一面镜子。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+                "cap": "前后对比：哪种产物才是唯一可信来源。"
+              },
+              {
+                "t": "p",
+                "x": "“设计师应该写代码”的说法已经过时，因为代码由AI来写。AI评审工具也会读代码——在一项基准测试中，表现最好的工具发现了122个真实漏洞中的84个——而负责该系统的工程师依然要承担责任。设计师无法委托出去的是理解：要在320像素宽度下、用最长的真实名字、在慢速网络和键盘操作下运行产出，以此来评判它。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Diseñar en el navegador,\ncon el material que se lanza",
+          "body": "Como la AI escribe el código, el diseñador puede trabajar en el navegador con datos reales, no en un archivo estático.",
+          "mini_headline": "Diseñar con lo que se lanza",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+                "cap": "La misma tarjeta en el archivo de diseño y en el navegador con datos reales."
+              },
+              {
+                "t": "p",
+                "x": "Los diseñadores deberían entender el código como un arquitecto entiende la piedra: qué puede hacer, no cómo cortarla. Ahora el corte lo hace la AI."
+              },
+              {
+                "t": "p",
+                "x": "Un archivo de diseño es un dibujo. Muestra un estado, en un ancho, en un idioma, con los datos que el diseñador escribió. El producto es todos los demás estados: el nombre largo, la foto que no carga, la lista vacía, la solicitud de cuatro segundos, el usuario de teclado, el teléfono de 320 píxeles."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+                "cap": "Seis estados que el archivo de diseño nunca mostró."
+              },
+              {
+                "t": "p",
+                "x": "Construir 131 variaciones de un botón en código convirtió un adjetivo (táctil) en números que un ingeniero puede construir. En el equipo de producto del autor, lo que se revisa es el prototipo en código; el archivo de diseño se regenera a partir del código después de cada pasada, como un espejo."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+                "cap": "Antes y después: qué artefacto es la fuente de verdad."
+              },
+              {
+                "t": "p",
+                "x": "“Los diseñadores deberían programar” es una idea superada, porque la AI escribe el código. Las herramientas de revisión con AI también lo leen —en una prueba comparativa, la mejor detectó 84 de 122 errores reales—, mientras que el ingeniero responsable del sistema sigue rindiendo cuentas. Lo que el diseñador no puede delegar es la comprensión: juzgar el resultado ejecutándolo a 320 píxeles, con el nombre real más largo, una red lenta y un teclado."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "브라우저에서 디자인하라\n출시할 재료 그대로",
+          "body": "AI가 코드를 쓰니 디자이너는 실제 데이터로 브라우저에서 디자인할 수 있다.",
+          "mini_headline": "출시할 재료로 디자인하기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+                "cap": "디자인 파일 속 카드와 실제 데이터를 넣은 브라우저 속 카드는 같은 카드다."
+              },
+              {
+                "t": "p",
+                "x": "디자이너는 건축가가 돌을 이해하듯 코드를 이해해야 한다. 어떻게 깎는지가 아니라 무엇을 할 수 있는지를 알아야 한다. 이제 깎는 일은 AI가 한다."
+              },
+              {
+                "t": "p",
+                "x": "디자인 파일은 그림이다. 하나의 상태를, 하나의 너비로, 하나의 언어로, 디자이너가 직접 입력한 데이터로 보여 줄 뿐이다. 제품은 그 밖의 모든 상태다. 긴 이름, 불러오지 못한 사진, 빈 목록, 사 초가 걸리는 요청, 키보드 사용자, 320픽셀 폰이 그렇다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+                "cap": "디자인 파일이 한 번도 보여 주지 않은 상태는 여섯 가지다."
+              },
+              {
+                "t": "p",
+                "x": "버튼 하나를 코드로 131가지 변형으로 만들어 보니, ‘촉감 있는(tactile)’이라는 형용사가 엔지니어가 구현할 수 있는 숫자로 바뀌었다. 필자의 제품 팀에서는 코드로 만든 프로토타입을 리뷰하고, 디자인 파일은 매 회차가 끝날 때마다 코드에서 다시 생성해 거울처럼 쓴다."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+                "cap": "전과 후를 보면 어떤 산출물이 기준인지 드러난다."
+              },
+              {
+                "t": "p",
+                "x": "“디자이너도 코딩해야 한다”는 말은 끝났다. 코드는 AI가 쓰기 때문이다. AI 리뷰 도구는 코드를 읽기도 한다. 한 벤치마크에서는 가장 뛰어난 도구가 실제 버그 122개 중 84개를 잡았다. 그래도 시스템을 맡은 엔지니어의 책임은 그대로다. 디자이너가 넘길 수 없는 것은 이해다. 320픽셀 화면에서, 가장 긴 실제 이름으로, 느린 네트워크와 키보드로 직접 돌려 보며 결과물을 판단해야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ブラウザでデザインする\n出荷する素材そのもので",
+          "body": "AIがコードを書く今、デザイナーは静的ファイルでなく実データでブラウザ上で設計できる。",
+          "mini_headline": "出荷する素材でデザイン",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+                "cap": "デザインファイル上の同じカードと、実データを入れたブラウザ上のカード。"
+              },
+              {
+                "t": "p",
+                "x": "デザイナーは、建築家が石を理解するようにコードを理解すべきだ。切り方ではなく、何ができるかを知ることだ。今や切る作業はAIが担う。"
+              },
+              {
+                "t": "p",
+                "x": "デザインファイルは図面にすぎない。ひとつの状態を、ひとつの幅で、ひとつの言語で、デザイナーが入力したデータで示すだけだ。製品とは、それ以外のあらゆる状態である。長い名前、読み込みに失敗した写真、空のリスト、四秒かかるリクエスト、キーボードで操作するユーザー、320ピクセルのスマートフォン。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+                "cap": "デザインファイルが一度も示さなかった六つの状態。"
+              },
+              {
+                "t": "p",
+                "x": "ひとつのボタンを131通りのバリエーションでコードとして作ってみると、「触感のある(tactile)」という形容詞が、エンジニアが実装できる数値に変わった。筆者のプロダクトチームでは、レビューの対象はコードによるプロトタイプであり、デザインファイルは毎回の検討後にコードから再生成され、鏡として使われる。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+                "cap": "ビフォーとアフター：どの成果物が信頼できる唯一の情報源か。"
+              },
+              {
+                "t": "p",
+                "x": "「デザイナーもコードを書くべき」という議論は終わった。コードはAIが書くからだ。AIレビューツールはコードを読みもする。あるベンチマークでは、最も優れたツールが実際のバグ122件のうち84件を検出した。それでも、システムを所有するエンジニアが責任を負うことに変わりはない。デザイナーが委ねられないのは理解である。320ピクセルの画面で、最も長い実在の名前を使い、遅いネットワークとキーボードで動かして、出力を判断することだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "在浏览器里做设计\n用的就是交付材料",
+          "body": "AI已能写代码，设计师可以用真实数据在浏览器里设计，而非在静态文件中。",
+          "mini_headline": "用交付材料做设计",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+                "cap": "同一张卡片：设计文件中的样子，与在浏览器中填入真实数据后的样子。"
+              },
+              {
+                "t": "p",
+                "x": "设计师应当像建筑师理解石材那样理解代码：了解它能做什么，而不是如何切割它。如今，切割的工作由AI来做。"
+              },
+              {
+                "t": "p",
+                "x": "设计文件只是一张图。它只呈现一种状态、一种宽度、一种语言，以及设计师自己输入的数据。而产品是其余所有状态：过长的名字、加载失败的照片、空列表、耗时四秒的请求、使用键盘的用户、320像素宽的手机。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+                "cap": "设计文件从未展示过的六种状态。"
+              },
+              {
+                "t": "p",
+                "x": "用代码为同一个按钮做出131种变体，把一个形容词（tactile，有触感）变成了工程师可以实现的数字。在作者所在的产品团队，评审的是代码原型；每轮评审后，设计文件都会从代码重新生成，作为一面镜子。"
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+                "cap": "前后对比：哪种产物才是唯一可信来源。"
+              },
+              {
+                "t": "p",
+                "x": "“设计师应该写代码”的说法已经过时，因为代码由AI来写。AI评审工具也会读代码——在一项基准测试中，表现最好的工具发现了122个真实漏洞中的84个——而负责该系统的工程师依然要承担责任。设计师无法委托出去的是理解：要在320像素宽度下、用最长的真实名字、在慢速网络和键盘操作下运行产出，以此来评判它。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Diseñar en el navegador,\ncon el material que se lanza",
+          "body": "Como la AI escribe el código, el diseñador puede trabajar en el navegador con datos reales, no en un archivo estático.",
+          "mini_headline": "Diseñar con lo que se lanza",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+                "cap": "La misma tarjeta en el archivo de diseño y en el navegador con datos reales."
+              },
+              {
+                "t": "p",
+                "x": "Los diseñadores deberían entender el código como un arquitecto entiende la piedra: qué puede hacer, no cómo cortarla. Ahora el corte lo hace la AI."
+              },
+              {
+                "t": "p",
+                "x": "Un archivo de diseño es un dibujo. Muestra un estado, en un ancho, en un idioma, con los datos que el diseñador escribió. El producto es todos los demás estados: el nombre largo, la foto que no carga, la lista vacía, la solicitud de cuatro segundos, el usuario de teclado, el teléfono de 320 píxeles."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+                "cap": "Seis estados que el archivo de diseño nunca mostró."
+              },
+              {
+                "t": "p",
+                "x": "Construir 131 variaciones de un botón en código convirtió un adjetivo (táctil) en números que un ingeniero puede construir. En el equipo de producto del autor, lo que se revisa es el prototipo en código; el archivo de diseño se regenera a partir del código después de cada pasada, como un espejo."
+              },
+              {
+                "t": "img",
+                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+                "cap": "Antes y después: qué artefacto es la fuente de verdad."
+              },
+              {
+                "t": "p",
+                "x": "“Los diseñadores deberían programar” es una idea superada, porque la AI escribe el código. Las herramientas de revisión con AI también lo leen —en una prueba comparativa, la mejor detectó 84 de 122 errores reales—, mientras que el ingeniero responsable del sistema sigue rindiendo cuentas. Lo que el diseñador no puede delegar es la comprensión: juzgar el resultado ejecutándolo a 320 píxeles, con el nombre real más largo, una red lenta y un teclado."
               }
             ]
           }

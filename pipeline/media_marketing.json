@@ -1,7 +1,31 @@
-{"date":"2026-10-18","media":[
-{"id":"marketing-meta-terms","type":"image","src":"pipeline/media/marketing-meta-terms.jpg"},
-{"id":"marketing-chatgpt-tracking","type":"image","src":"pipeline/media/marketing-chatgpt-tracking.jpg"},
-{"id":"marketing-videoamp-agents","type":"image","src":"pipeline/media/marketing-videoamp-agents.jpg"},
-{"id":"marketing-google-ads-learning","type":"video","src":"pipeline/media/marketing-google-ads-learning.mp4","poster":"pipeline/media/marketing-google-ads-learning.jpg"},
-{"id":"marketing-fender-marshall","type":"image","src":"pipeline/media/marketing-fender-marshall.jpg"}
-]}
+{
+  "date": "2026-10-19",
+  "section": "marketing",
+  "media": [
+    {
+      "id": "marketing-amazon",
+      "type": "image",
+      "src": "pipeline/media/marketing-amazon.jpg"
+    },
+    {
+      "id": "marketing-nationaltrust",
+      "type": "image",
+      "src": "pipeline/media/marketing-nationaltrust.jpg"
+    },
+    {
+      "id": "marketing-meta",
+      "type": "image",
+      "src": "pipeline/media/marketing-meta.jpg"
+    },
+    {
+      "id": "marketing-salesforce",
+      "type": "image",
+      "src": "pipeline/media/marketing-salesforce.jpg"
+    },
+    {
+      "id": "marketing-cheq",
+      "type": "image",
+      "src": "pipeline/media/marketing-cheq.jpg"
+    }
+  ]
+}

@@ -7710,6 +7710,143 @@
           "x": "新的“Hey Gemini”唤醒词也可能登陆智能手机。"
         }
       ]
+    },
+    "gadgets/gadgets-orangepi-o1": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
+          "cap": "OrangePi O1:配备众多接口的新款单板电脑发布"
+        },
+        {
+          "t": "p",
+          "x": "OrangePi O1是一款新型单板电脑(SBC)，在AI-centric(以AI为中心)的工作负载上可能明显胜过Raspberry Pi，同时也是通用计算的可靠替代品。驱动这块板子的是Sophgo BM1688 SoC，它将八个ARM Cortex-A53 CPU核心与一颗RISC-V C906协处理器相结合。集成的TPU负责本地AI加速，在兼容的工作负载下最高可提供16 TOPS(INT8)算力。"
+        },
+        {
+          "t": "p",
+          "x": "内存可选8 GB 或16 GB 的LPDDR4/LPDDR4X RAM，另可选配容量最高128 GB 的eMMC模块。不过，存储扩展能力远不止板载闪存：板上设有支持PCIe 3.0 NVMe SSDs的M.2插槽、专用SATA接口，以及标准microSD卡槽。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
+          "cap": "SBC中少见的配置：板上设有专用SATA接口"
+        },
+        {
+          "t": "p",
+          "x": "这块独立主板尺寸为90 x 70 mm，配齐全套I/O接口，无需载板即可开箱作为台式PC使用。物理接口包括双Gigabit Ethernet网口、两个USB 2.0接口、两个USB 3.0接口，以及一个最高支持4K 视频输出的HDMI 2.0接口。秉承SBC的本色，它还集成了MIPI接口、CAN总线、RS485以及用于传感器和执行器的扩展排针等专用接口。供电通过USB Type-C以20 V 输入，并支持无线网络。Orange Pi O1目前供货仍然有限。"
+        }
+      ]
+    },
+    "gadgets/gadgets-phonebot": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "UCLA的研究人员开发了PhoneBot，这是一款小型开源人形机器人，利用廉价智能手机完成感知和计算。不含手机，其机器人硬件成本约为$400。它身高483 mm，重1.8 kg，用13个舵机控制双腿和可旋转的躯干。"
+        },
+        {
+          "t": "p",
+          "x": "PhoneBot不依赖专用摄像头、运动传感器和昂贵的板载计算机，而是依靠手机：手机摄像头追踪人，内置IMU帮助机器人保持平衡并执行学到的行走动作。研究人员测试了四款Android手机，包括一部2017年的Honor 9和三款售价约$50至$80的手机。应用通过TensorFlow Lite运行运动策略，摄像头负责人体检测和姿态估计。"
+        },
+        {
+          "t": "p",
+          "x": "行走控制器在仿真中通过强化学习训练；镜像训练样本将关节角度对称误差从0.254 弧度降至0.003 弧度。演示内容包括行走、从俯卧姿势起身，以及在双脚不动的情况下将摄像头转向人。低功率舵机、仅在平地上训练以及没有手臂仍是局限。该研究已发布在arXiv上。"
+        }
+      ]
+    },
+    "gadgets/gadgets-nothing-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "一位可靠消息人士称，Nothing正在打造自己的AI智能眼镜，具备ChatGPT集成和摄像头，并有两款截然不同的型号。"
+        },
+        {
+          "t": "p",
+          "x": "WinFuture的Roland Quandt在Bluesky上表示，Nothing正准备推出两款新的智能眼镜，而且两者听起来差异很大。"
+        },
+        {
+          "t": "p",
+          "x": "其中一款将与Ray-Ban Meta系列类似，内置摄像头并具备翻译等AI功能。作为Android的忠实用户，Nothing看似会搭上Android XR的快车，但Quandt称这款眼镜集成的是ChatGPT而非Gemini，因此情况可能并非如此。不过，这对Nothing来说并非新的转向，该公司一段时间以来一直在其他产品中推进ChatGPT集成。"
+        },
+        {
+          "t": "p",
+          "x": "而另一款智能眼镜则会采取简单得多的思路。"
+        },
+        {
+          "t": "p",
+          "x": "它将像一副耳机那样工作，可以接听电话、与手机的语音助手交互，但没有摄像头，也没有任何直接的AI集成。据称两款都将提供光致变色镜片，也就是常说的“transition”镜片，这在其他智能眼镜上也很常见。"
+        },
+        {
+          "t": "p",
+          "x": "此前有关Nothing打造智能眼镜的报道将发布时间定在2027年的某个时候。这种双线策略确实耐人寻味，尤其是最近有报道称Nothing今后将全力押注AI设备。"
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel-zoom": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Google在Pixel 11 Pro上提供120x Pro Res变焦，高于Pixel 10 Pro的100x。Google称，其更亮的长焦摄像头与生成式AI结合后，可以从更远处捕捉更多细节。Android Authority花了一周时间，用招牌、古迹、野生动物和人物对其进行了测试。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
+          "cap": "在120x下，Delhi（德里）一座有800年历史的宣礼塔上的书法等细节清晰可见。"
+        },
+        {
+          "t": "p",
+          "x": "远处的文字和建筑雕刻清晰可读，但数码锐化和涂抹痕迹明显，画面带有油画感；AI甚至在窗玻璃上凭空生成了并不存在的图案。在昏暗光线下，小字则完全变成了乱码。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
+          "cap": "用120x AI-enhanced 变焦拍摄的湖边黑鸟。"
+        },
+        {
+          "t": "p",
+          "x": "拍摄野生动物时，毛发和羽毛看起来很逼真，却滑向了恐怖谷：在极端变焦下，Google的处理会补全缺失的细节，结果只是一种近似，可能会产生并不存在的细节。Pixel 11 Pro在检测到画面中有人时，会明确跳过生成式放大。"
+        },
+        {
+          "t": "p",
+          "x": "结论：它不只是营销噱头，用来查看远处物体很方便，但无法取代长焦镜头——期望值还是要放低一些。"
+        }
+      ]
+    },
+    "gadgets/gadgets-ps5-local-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/p6RKS3uArE9EvG6rNBgPYb-970-80.jpg",
+          "cap": "（图片来源：Tom's Hardware）"
+        },
+        {
+          "t": "p",
+          "x": "Reddit用户u/AdIllustrious7246发布了PS5LM的一个分支。PS5LM是在越狱PS5s上本地运行AI LLMs的llama.cpp移植版，而这个分支可在主机上原生运行，并调用GPU以每秒20个token的速度运行Qwen3.8-27B 等更大的模型。"
+        },
+        {
+          "t": "p",
+          "x": "GitHub用户cobanov的原版移植以payload形式在CPU上运行，由于占用更多内存会导致主界面卡死，RAM访问被限制在约6.25 GiB。该分支则使用PS5_Vulkan——RADV图形驱动的移植版，让指令能够到达通常处于锁定状态的PS5 GPU。"
+        },
+        {
+          "t": "p",
+          "x": "在GPU上原生运行时，它最多可使用11.4 GiB RAM；Gemma 4 E4B和Llama 3.2 3B 等较小模型分别达到每秒61和124个token。仪表盘实时显示每秒token数、GPU和CPU占用、功耗、温度以及模型与KV缓存之间的内存分配，用户还可通过llama.cpp的Web UI在其他本地设备的浏览器中与LLM对话。"
+        },
+        {
+          "t": "p",
+          "x": "评论者想起了加密货币挖矿引发的GPU短缺，但Tom's Hardware认为这不太可能：PS5的GPU既不是最快的，内存也不是最多的。"
+        }
+      ]
     }
   }
 }

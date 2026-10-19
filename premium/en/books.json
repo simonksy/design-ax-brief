@@ -7015,6 +7015,171 @@
           "x": "The Guild also says “every publisher should adopt a written AI policy,” and that no publisher should cancel a contract over AI use unless the author violated a signed contract or policy that clearly prohibits it. It “opposes any requirement that authors use technologies that track or log their writing process,” though it supports writers who choose to use them if accused."
         }
       ]
+    },
+    "books/books-kyobo-flitto": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-768x576.jpg",
+          "cap": "A French customer and a store employee talk using the mini display of Flitto’s AI interpretation and translation solution ‘Vogl Zone’ at Kyobo Book Centre’s Gwanghwamun store. (Photo: Flitto)"
+        },
+        {
+          "t": "p",
+          "x": "Translation accuracy improved by pre-training on book-industry terms and author names…automatic language detection supported"
+        },
+        {
+          "t": "p",
+          "x": "Mini displays and a tablet app used by store…formal adoption planned after a pilot run"
+        },
+        {
+          "t": "p",
+          "x": "As more foreign tourists visit, multilingual customer service is becoming more important in Korea’s offline retail stores. Bookstores in particular require more accurate translation than general product guidance because they deal with many proper nouns such as book titles, authors and genres. Flitto, a company specializing in AI data and solutions, is expanding its business into the book and culture sector by applying its AI interpretation and translation solution at major Kyobo Book Centre stores."
+        },
+        {
+          "t": "p",
+          "x": "Flitto (CEO Lee Jung-soo) supplied its AI-based interpretation and translation solution ‘Vogl’ to Kyobo Book Centre’s Gwanghwamun, Gangnam and Dongdaemun stores and ran a proof of concept (PoC) for serving foreign customers."
+        },
+        {
+          "t": "p",
+          "x": "In this pilot, different forms of the solution were applied depending on each store’s operating environment and customer service style. The Gwanghwamun and Gangnam stores installed ‘Vogl Zone,’ a mini display specialized for customer consultation, while the Dongdaemun store loaded the Vogl app on tablets so staff could serve foreign customers while moving around."
+        },
+        {
+          "t": "p",
+          "x": "Vogl is an AI interpretation and translation solution focused on reducing the speech recognition errors and translation inaccuracies that occur in offline stores. Its automatic language detection lets staff hold multilingual consultations without having to select each customer’s language manually."
+        },
+        {
+          "t": "p",
+          "x": "Trained on author names such as Han Kang and Bernard Werber…translation accuracy improved for books and culture"
+        },
+        {
+          "t": "p",
+          "x": "For the Kyobo Book Centre pilot, Flitto pre-trained the system on book category names and author names frequently used in bookstores. The company said it improved the recognition and translation accuracy of proper nouns by reflecting not only genre terms such as self-help, fantasy and history, but also the names of major authors such as Han Kang and Bernard Werber."
+        },
+        {
+          "t": "p",
+          "x": "This reflects the nature of bookstores, which, unlike general product information, require an understanding of titles, author names and genres. Flitto said the high speech recognition rate and automatic language detection helped on-site staff serve foreign customers. However, it did not disclose specific recognition rates or figures on improvements in translation accuracy."
+        },
+        {
+          "t": "p",
+          "x": "The Kyobo Book Centre deployment is the first case of Flitto’s stationary offline AI interpretation and translation solution entering book and culture retail. Through it, Flitto confirmed the potential for using AI interpretation and translation technology in stores that handle a wide range of products and cultural content."
+        },
+        {
+          "t": "p",
+          "x": "“As global visitors to key commercial districts become more diverse, it is meaningful to build an offline environment without language barriers together with Kyobo Book Centre,” said Flitto CEO Lee Jung-soo. “This collaboration is a key case of extending Flitto’s AI interpretation and translation technology beyond simple guidance into an area where human subjectivity and cultural context are concentrated.”"
+        },
+        {
+          "t": "p",
+          "x": "Based on the pilot results, Flitto plans to pursue the formal adoption of Vogl at Kyobo Book Centre stores. It also intends to expand its application to retail channels such as warehouse stores and fashion and lifestyle stores, as well as service sectors that require specialized multilingual support, such as hotels and medical tourism."
+        }
+      ]
+    },
+    "books/books-naav-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp"
+        },
+        {
+          "t": "p",
+          "x": "English remains a barrier between many Indian readers and the country’s literary works. Vikram Sampath, historian, author and co-founder of Naav AI, wants to use AI to change that by making books available in Indian languages without losing the author’s voice."
+        },
+        {
+          "t": "p",
+          "x": "Founded in January 2025, Naav AI, short for “Navigating AI Across Vocabularies”, uses agentic AI frameworks to translate long-form content and convert text into formats including audio and video. Sarvam AI is its primary technology partner, and it also uses models from Google and OpenAI. Its publishing clients include BluOne Ink."
+        },
+        {
+          "t": "p",
+          "x": "Sampath says initial translations into Indian languages are typically 80% to 85% accurate, so language experts, including specialists from the Central Institute of Indian Languages in Mysuru, refine them. The tool can translate a 400-page book in about an hour; with human review, the full workflow produces a publish-ready translation in three to four weeks. A typical 300-page book could otherwise take around six months."
+        },
+        {
+          "t": "p",
+          "x": "Naav AI supports 11 Indian languages, plus German, Russian, French, Spanish and Italian. Translated books can carry the language specialist’s name as an ‘Anuvad Sahayak’, or translation assistant, and the publisher retains the copyright. ZuNAAV-FM is being developed as an audiobook platform."
+        },
+        {
+          "t": "p",
+          "x": "“We are not creating original content in a particular language. We only help with translation,” Sampath says."
+        }
+      ]
+    },
+    "books/books-chatgpt-audiobooks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A new tool called PDF to MP3 turns PDFs, reports and eBooks into narrated audio. It connects with AI assistants, including OpenAI’s Codex, so you can turn documents into something you can listen to on the go."
+        },
+        {
+          "t": "video",
+          "yt": "1qiH_SeDyyc"
+        },
+        {
+          "t": "p",
+          "x": "The workflow has two parts: an existing OpenAI or Codex subscription handles document processing through an MCP connection, while an OpenAI or Google Gemini API generates the spoken narration. That means a separate API key, and it may cost extra. The sample audio is “not Audible quality, but it’s also not terrible.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/r7RS5joUHjwMs8ExzfdnRG.jpg"
+        },
+        {
+          "t": "p",
+          "x": "To set it up, connect a supported assistant such as Codex via the service’s MCP integration, provide a document, configure a text-to-speech provider such as OpenAI or Gemini, then play the result in the service’s player. The whole process took the writer about 20 minutes."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/SHA9X5FANXyYEd8hgg8NBD.jpg"
+        },
+        {
+          "t": "p",
+          "x": "API keys can authorize billable requests, so review how the service handles credentials and stores uploaded documents, and avoid uploading sensitive files. Tables, diagrams, unusual formatting and complicated names can also challenge automated narration."
+        }
+      ]
+    },
+    "books/books-frankfurt-translators": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "AI can make an individual’s working day easier while making the future of their profession feel less secure. That tension emerged from two research presentations at the Frankfurt Book Fair, at a session held on October 7 in the pavilion of Czechia, this year’s Guest of Honor."
+        },
+        {
+          "t": "p",
+          "x": "The 2026 survey by the European Council of Literary Translators’ Associations (CEATL) reached 1,785 respondents. More than 77% expressed a negative outlook on generative AI’s development in translation and publishing, and 37% had considered leaving the profession. Roughly 70% had used AI in their work, and nearly 30% reported fewer assignments, which they attributed to AI."
+        },
+        {
+          "t": "p",
+          "x": "The Czech HumanAId survey, with 142 responses across publishing roles, offered a more pragmatic picture. Nearly nine in ten considered saving time a relevant or decisive motivation for using AI. Marketing and design professionals used the tools more intensively; editors and proofreaders were more cautious. “The central conflict is not between AI users and non-users, but rather between efficiency and creativity.”"
+        },
+        {
+          "t": "img",
+          "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.55-AM.png"
+        },
+        {
+          "t": "p",
+          "x": "At a separate panel, “AI in Culture: ‘Truth or Fiction?’”, Ricardo Almeida’s word for AI’s impact on publishing was “speed,” and Miha Kovač’s was “quantity.” “The challenge really is discoverability,” said Shimmr AI’s Nadim Sadek."
+        }
+      ]
+    },
+    "books/books-copyright-office-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The US Copyright Office has started to question authors about potentially AI-generated work."
+        },
+        {
+          "t": "p",
+          "x": "Humans are checking every manuscript and, in some instances, the Copyright Office sends a follow-up email asking the author to clarify their use of AI."
+        },
+        {
+          "t": "p",
+          "x": "The full report is a premium article for paid subscribers of Jane Friedman's newsletter."
+        }
+      ]
     }
   }
 }

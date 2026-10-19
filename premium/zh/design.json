@@ -8262,6 +8262,169 @@
           "cap": "用Extract designs把code layer中的画面转为可编辑的Figma框架。"
         }
       ]
+    },
+    "design/design-meshy-edit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI 3D多模态模型公司Meshy推出Meshy Edit，这款工具可根据文字描述修改3D模型中选定的部分，其余几何结构保持不变。所有注册用户均可使用，它运行在自研的新模型上，每次编辑约需一分钟，消耗20积分。"
+        },
+        {
+          "t": "p",
+          "x": "此前，用户只能重新生成整个模型，或在Blender等软件中手动编辑网格，一处改动可能就要耗费数小时。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
+        },
+        {
+          "t": "p",
+          "x": "每次修改分为两步：先选择，再描述。Lasso可在屏幕上圈出某个部位，覆盖正面、侧面和背面；Brush则用于细化边缘。用户最多可添加五张参考图，每张不超过20 MB。每次编辑都会生成新模型并保留原模型；该工具目前只能修改几何形状。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
+        },
+        {
+          "t": "p",
+          "x": "新模型可以再次编辑、下载，或发送到Bambu Studio等切片软件。Meshy Edit适用于Meshy 6和Meshy 7.1生成的高面数模型，包括Meshy 7.1 Ultra 2K 模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Meshy近期在Series B轮融资中筹集近$400 million，估值达$1.5 billion。"
+        }
+      ]
+    },
+    "design/design-brand-foundation": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+        },
+        {
+          "t": "p",
+          "x": "本文介绍如何借助Claude和几条护栏，搭建一套开发者认可、客户真正能上线的设计系统。"
+        },
+        {
+          "t": "p",
+          "x": "周四下午5点。客户会议在明天上午。你一下午都泡在Claude里，靠提示词一步步做出一个仪表盘：下午2点时它看起来惊艳无比，现在却像陌生人的房子。于是你打开Figma，手动重做这个界面，并告诉自己只是在“稍微收紧一下细节”。AI只是一块草稿板。"
+        },
+        {
+          "t": "p",
+          "x": "作者认为，这不是能力的失败，而是脚手架的失败。Vibe coding（氛围编程）在探索阶段确实令人解放，关于AI-supported（AI辅助）构思的研究也发现，AIGC能降低发散思维过程中的主观心理负荷——但同一项研究也区分了构思与开发。"
+        }
+      ]
+    },
+    "design/design-a11y-gates": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+        },
+        {
+          "t": "p",
+          "x": "当你让Claude或GPT做一个“具备完善无障碍”的模态对话框时，你会得到role=\"dialog\"和aria-labelledby属性——随后才发现，由于焦点管理失效，VoiceOver用户被困在模态框里。代码生成优化的是语法正确性，而不是运行时行为。"
+        },
+        {
+          "t": "p",
+          "x": "plugin87/ux-ui-agent-skills打包了52个生产级组件模式（模态框、下拉菜单、标签页、轮播），以及50个客观验证门禁，一旦输出违反WCAG 2.2 AA/AAA要求，构建就会失败。令牌遵循W3C DTCG规范，基础组件与框架无关，可执行测试（axe-core + Playwright）会验证焦点陷阱和键盘导航。"
+        },
+        {
+          "t": "p",
+          "x": "其中一个生成的测试捕捉到一次回归：一名初级开发者在重构时删除了onCloseAutoFocus，导致8%的用户键盘导航失效。把23个卡片组件迁移到container-query模式后，Lighthouse性能分从78升至94。"
+        },
+        {
+          "t": "p",
+          "x": "局限在于：没有视觉回归测试，DTCG配置可能需要2-3小时。在一个客户项目中使用三周后，构建门禁拦下了人工QA遗漏的14个无障碍回归问题。"
+        }
+      ]
+    },
+    "design/design-material-you-ship": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
+          "cap": "同一张卡片：设计文件中的样子，与在浏览器中填入真实数据后的样子。"
+        },
+        {
+          "t": "p",
+          "x": "设计师应当像建筑师理解石材那样理解代码：了解它能做什么，而不是如何切割它。如今，切割的工作由AI来做。"
+        },
+        {
+          "t": "p",
+          "x": "设计文件只是一张图。它只呈现一种状态、一种宽度、一种语言，以及设计师自己输入的数据。而产品是其余所有状态：过长的名字、加载失败的照片、空列表、耗时四秒的请求、使用键盘的用户、320像素宽的手机。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
+          "cap": "设计文件从未展示过的六种状态。"
+        },
+        {
+          "t": "p",
+          "x": "用代码为同一个按钮做出131种变体，把一个形容词（tactile，有触感）变成了工程师可以实现的数字。在作者所在的产品团队，评审的是代码原型；每轮评审后，设计文件都会从代码重新生成，作为一面镜子。"
+        },
+        {
+          "t": "img",
+          "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
+          "cap": "前后对比：哪种产物才是唯一可信来源。"
+        },
+        {
+          "t": "p",
+          "x": "“设计师应该写代码”的说法已经过时，因为代码由AI来写。AI评审工具也会读代码——在一项基准测试中，表现最好的工具发现了122个真实漏洞中的84个——而负责该系统的工程师依然要承担责任。设计师无法委托出去的是理解：要在320像素宽度下、用最长的真实名字、在慢速网络和键盘操作下运行产出，以此来评判它。"
+        }
+      ]
+    },
+    "design/design-figma-systems": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Figma CEO Dylan Field表示，AI让编程变得廉价，团队如今不仅“为发布而构建（build to ship）”，也“为思考而构建（build to think）”，而Figma希望把两者都纳入其全栈创意画布。"
+        },
+        {
+          "t": "p",
+          "x": "Code layers在所有方案中进入公开测试，团队可在画布上探索由代码支撑的原型——可由设计转换、上传、通过MCP导入、从GitHub导入，或用Chrome扩展捕获。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/f2d5828083c2cd8625f94bae8fb2e4fbb80f49f1-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "Figma画布上的Pickup App预览，旁边是其App.tsx源代码。"
+        },
+        {
+          "t": "p",
+          "x": "设计系统现在可以在已发布的库中附带规范，让智能体遵循既定模式，还可加入从GitHub仓库或npm包导入的代码源。Figma还在预览两项功能：用于追踪变更与依赖关系的系统地图，以及找出缺失描述、交互状态等空白的系统检查。规范（公开测试）和代码源（封闭测试）将面向所有付费方案推出。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c1bcc963667b08978d3ea52dbf135f2a2e38ce73-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "设计系统仪表盘梳理库与代码，并标出组件和令牌问题。"
+        },
+        {
+          "t": "p",
+          "x": "Specs是承载Markdown上下文的原生空间，团队可将粗略想法整理成详细规格，再通过Figma的MCP服务器交给编程智能体；它以测试版形式向所有付费方案开放。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/bbbca76b8e9aa644e38e72e1eb45083513d3e8a4-3840x2160.png?w=1200&q=75&fit=max&auto=format",
+          "cap": "一条借助GitHub撰写技术规格的提示，旁边是生成的规格。"
+        },
+        {
+          "t": "p",
+          "x": "12个月内下载量增长6倍的Payload现已进入Figma，Figma智能体已全面上线，MCP新增20项合作伙伴集成，包括OpenCode、Dia、JetBrains的Junie和Meta Muse。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/101f20fb4b348f46cd79dd1811421ba8d26886a5-3840x2160.jpg?w=1200&q=75&fit=max&auto=format",
+          "cap": "Payload CMS活动列表，以及由它驱动的活动网页。"
+        }
+      ]
     }
   }
 }
