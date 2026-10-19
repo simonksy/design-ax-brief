@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "issue": "기타 장비에 들어온 스템 분리",
+    "date": "2026.10.19",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "Helix에서 Zoom Neurig, Neko까지 이틀 새 기타 장비 셋이 AI 스템 분리를 기본 기능으로 넣었다.",
+    "sources": [
+      "https://www.gearnews.com/line-6-releases-helix-stadium-guitar/",
+      "https://www.guitarworld.com/gear/amp-modeler-pedals/zoom-neurig",
+      "https://www.guitarworld.com/gear/studio-recording-equipment/neko-engineering-neko-pocket-studio"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "3건 · 음악 · 10.18~10.19",
+      "thread": [
+        {
+          "d": "10.18",
+          "t": "Helix 1.4",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.19",
+          "t": "Zoom Neurig",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.19",
+          "t": "Neko 포켓",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "스템 분리가 앱을 떠나 앰프 모델러와 포켓 장비의 기본 기능이 됐다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "스템 분리, 이제 페달보드 위에",
+      "body": "한 건이면 업데이트 소식이다. 이틀 새 세 장비가 같은 기능을 넣자, 스템 분리가 기타 장비의 기본값이 되는 게 보인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "Helix 1.4가 먼저 열었다",
+      "body": "Helix Stadium 1.4는 새 앰프·이펙트와 함께 스템 분리 기능을 더했다.",
+      "foot": "2026.10.18",
+      "_src": "https://www.gearnews.com/line-6-releases-helix-stadium-guitar/",
+      "_id": "music-helix-stadium-stems",
+      "video": "pipeline/media/music-helix-stadium-stems.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "약 $300 Neurig도 뒤따라",
+      "body": "이튿날 Zoom Neurig이 나왔다. NAM 캡처와 AI 스템 분리를 지원하는 앰프 모델러다.",
+      "foot": "2026.10.19",
+      "_src": "https://www.guitarworld.com/gear/amp-modeler-pedals/zoom-neurig",
+      "_id": "music-zoom-neurig",
+      "media": "pipeline/media/music-zoom-neurig.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "이제 주머니 속으로",
+      "body": "같은 날 Neko 포켓 스튜디오는 NAM 톤, 녹음, 스템 분리, GenAI를 한 기기에 담았다.",
+      "foot": "2026.10.19",
+      "_src": "https://www.guitarworld.com/gear/studio-recording-equipment/neko-engineering-neko-pocket-studio",
+      "_id": "music-neko-pocket-studio",
+      "video": "pipeline/media/music-neko-pocket-studio.mp4"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}

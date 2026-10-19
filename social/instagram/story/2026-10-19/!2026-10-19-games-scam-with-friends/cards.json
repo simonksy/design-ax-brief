@@ -1,0 +1,80 @@
+{
+ "meta": {
+  "issue": "AI 고객을 속이는 협동 게임, 스팀 최상위권",
+  "date": "2026.10.19",
+  "section": "GAMES",
+  "accent": "#2ec5c5",
+  "note": "트레일러가 8초라 영상은 두 장(0·4초). 나머지는 stat.",
+  "sources": [
+   "게임메카 — [오늘의 스팀] AI를 속여라, 협동 신작 '스캠 위드 유어 프렌즈' (2026.10.16)"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "video": "pipeline/media/games-scam-with-friends.mp4",
+   "start": 0,
+   "dur": 4,
+   "eyebrow": "AI × 게임 · 2026.10.19",
+   "headline": "AI 고객을 속이는 게임, 스팀 최상위권",
+   "body": "'스캠 위드 유어 프렌즈'가 16일 스팀 앞서 해보기로 나오자 전 세계 최고 인기 게임 최상위권에 올랐다.",
+   "foot": "밀어서 보기 →",
+   "n": 1
+  },
+  {
+   "kind": "photo",
+   "video": "pipeline/media/games-scam-with-friends.mp4",
+   "start": 4,
+   "dur": 4,
+   "eyebrow": "어떤 게임인가",
+   "headline": "최대 6명이 사기 콜센터 직원",
+   "body": "근무 시간 안에 팀의 일일 수익 할당량을 채워야 한다. 날이 갈수록 목표 금액이 오른다.",
+   "foot": "2026.10.19",
+   "n": 2
+  },
+  {
+   "kind": "stat",
+   "stat_top": "생성형 AI 고객",
+   "stat_arrow": "대본 없이 통화로",
+   "stat_bottom": "기프트 카드 번호",
+   "stat_strike": false,
+   "eyebrow": "무엇을 하나",
+   "headline": "즉흥 거짓말로 AI를 속인다",
+   "body": "마이크로 말하거나 글을 쳐서 AI 고객의 의심을 누그러뜨린다. 통화하는 사이 피해자 PC에 원격 접속하기도 한다.",
+   "foot": "2026.10.19",
+   "n": 3
+  },
+  {
+   "kind": "stat",
+   "stat_top": "705명",
+   "stat_arrow": "참여한 평가 중",
+   "stat_bottom": "71% 긍정",
+   "stat_strike": false,
+   "eyebrow": "반응은",
+   "headline": "스팀 평가 '대체로 긍정적'",
+   "body": "일과가 끝나면 통화 하이라이트를 보며 상사가 인사 평가를 한다. 이 대목이 재미로 꼽혔다.",
+   "foot": "2026.10.19",
+   "n": 4
+  },
+  {
+   "kind": "stat",
+   "stat_top": "한국어",
+   "stat_arrow": "비영어권에선",
+   "stat_bottom": "응답 지연",
+   "stat_strike": false,
+   "eyebrow": "짚을 대목",
+   "headline": "AI 서버가 약점이다",
+   "body": "서버 불안정, 음성 인식 오류, 프레임 저하가 지적됐다. 서버 유지비 탓에 조기 종료나 유료 구독 전환을 걱정하는 목소리도 있다.",
+   "foot": "2026.10.19",
+   "n": 5
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

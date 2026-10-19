@@ -283,8 +283,11 @@ def network_clip(out_dir, mh):
 
 def asset(rel):
     """미디어는 저장소 경로를 그대로 쓴다. 절대 file:// 로 넘겨 HTML을 어디에
-    써도 경로가 풀리게 한다."""
-    return "file://" + os.path.join(ROOT, rel)
+    써도 경로가 풀리게 한다. 저장소에 없으면 회차 폴더 기준으로 본다(src/ 대체 이미지)."""
+    p = os.path.join(ROOT, rel)
+    if not os.path.exists(p) and os.path.exists(os.path.join(POST, rel)):
+        p = os.path.join(POST, rel)
+    return "file://" + p
 
 
 def esc(s):

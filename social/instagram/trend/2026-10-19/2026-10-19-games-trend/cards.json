@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "다 나온 게임, AI가 다시 손본다",
+    "date": "2026.10.19",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "나흘 사이 버그 수정, NPC 대화, 프레임 개선이 차례로 AI 몫이 되면서 출시가 끝난 게임의 손질이 AI로 넘어가고 있다.",
+    "sources": [
+      "https://www.gamesradar.com/games/rpg/after-8-years-ultima-creator-says-his-mmo-shroud-of-the-avatar-finally-has-zero-bugs-thanks-to-ai/",
+      "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "https://wccftech.com/gta-v-npcs-can-now-talk-back-in-real-time-with-ai-powered-npctalk-mod-free-release-coming-next-week/",
+      "https://wccftech.com/oblivion-remastered-mod-built-using-claude-ai-boosts-fps-by-over-40-and-drastically-reduces-stuttering-without-sacrificing-visual-quality/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 게임 · 10.16~10.19",
+      "thread": [
+        {
+          "d": "10.16",
+          "t": "버그 정리",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.16",
+          "t": "NPC 모델",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.19",
+          "t": "NPC 대화",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.19",
+          "t": "FPS 40%",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "버그·NPC·성능, 출시 뒤 손질을 AI가 맡기 시작했다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "출시는 끝났고, 손질은 AI가 한다",
+      "body": "한 건씩 보면 모드 소식 하나지만, 모으면 버그·NPC·성능까지 옛 게임을 고치는 일이 AI로 옮겨 간다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "Garriott, AI로 버그 정리",
+      "body": "Richard Garriott는 AI가 Shroud of the Avatar 버그를 한 시간 안에 고쳐 사람도 덜 든다고 했다.",
+      "foot": "2026.10.16",
+      "_src": "https://www.gamesradar.com/games/rpg/after-8-years-ultima-creator-says-his-mmo-shroud-of-the-avatar-finally-has-zero-bugs-thanks-to-ai/",
+      "_id": "games-shroud-zero-bugs",
+      "media": "pipeline/media/games-shroud-zero-bugs.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "Skyrim NPC에 4GB 모델",
+      "body": "NVIDIA의 4GB Nemotron 3.5 Bolt가 Oct. 23 대본 없는 AI NPC 모드 SkyrimNET에 실린다.",
+      "foot": "2026.10.16",
+      "_src": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/",
+      "_id": "games-nemotron-bolt-skyrimnet",
+      "media": "pipeline/media/games-nemotron-bolt-skyrimnet.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "GTA V NPC가 말대꾸한다",
+      "body": "무료 NPCTalk 모드로 GTA V NPC가 1.15-2.2초 만에 AI로 실시간 대답한다. 다음 주 배포된다.",
+      "foot": "2026.10.19",
+      "_src": "https://wccftech.com/gta-v-npcs-can-now-talk-back-in-real-time-with-ai-powered-npctalk-mod-free-release-coming-next-week/",
+      "_id": "games-npctalk-gta5",
+      "media": "pipeline/media/games-npctalk-gta5.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "Claude로 만든 Oblivion 모드",
+      "body": "Claude로 만든 Performance Fix가 Oblivion Remastered FPS를 40% 넘게 올리고 끊김을 크게 줄였다.",
+      "foot": "2026.10.19",
+      "_src": "https://wccftech.com/oblivion-remastered-mod-built-using-claude-ai-boosts-fps-by-over-40-and-drastically-reduces-stuttering-without-sacrificing-visual-quality/",
+      "_id": "games-oblivion-claude-fpsfix",
+      "video": "pipeline/media/games-oblivion-claude-fpsfix.mp4"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

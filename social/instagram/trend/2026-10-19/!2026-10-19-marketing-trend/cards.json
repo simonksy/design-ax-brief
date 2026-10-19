@@ -1,0 +1,106 @@
+{
+ "meta": {
+  "issue": "에이전트가 장을 보기 시작했다",
+  "date": "2026.10.19",
+  "section": "MARKETING",
+  "accent": "#ff8a3d",
+  "note": "상품 개방·통합 장바구니·결제 급증 발언·트래픽 집계가 나흘 새 따로 나왔다. 인과는 주장하지 않는다.",
+  "sources": [
+   "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+   "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+   "https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/",
+   "https://www.semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season"
+  ]
+ },
+ "cards": [
+  {
+   "n": 1,
+   "kind": "thread",
+   "thread_badge": "이슈 트렌드",
+   "thread_cap": "4건 · 마케팅 · 10.13~10.16",
+   "thread": [
+    {
+     "d": "10.13",
+     "t": "상품 개방",
+     "c": "#ff8a3d",
+     "s": "MARKETING"
+    },
+    {
+     "d": "10.15",
+     "t": "통합 장바구니",
+     "c": "#ff8a3d",
+     "s": "MARKETING"
+    },
+    {
+     "d": "10.15",
+     "t": "결제 급증",
+     "c": "#ff8a3d",
+     "s": "MARKETING"
+    },
+    {
+     "d": "10.16",
+     "t": "트래픽 100배",
+     "c": "#ff8a3d",
+     "s": "MARKETING"
+    }
+   ],
+   "thread_note": "상품·장바구니·결제 문이 잇따라 열렸고, 에이전트 트래픽도 급증했다는 집계가 나왔다",
+   "eyebrow": "흐름 · 마케팅",
+   "headline": "AI 에이전트가 장을 보기 시작했다",
+   "body": "상품 개방, 통합 장바구니, 결제 급증 발언이 나흘 새 따로 나왔다. 같은 주에 에이전트 트래픽 집계도 나왔다.",
+   "foot": "밀어서 보기 →"
+  },
+  {
+   "n": 2,
+   "kind": "photo",
+   "eyebrow": "2026.10.13",
+   "headline": "Shopify, 카탈로그 개방",
+   "body": "Shopify가 더 많은 AI 에이전트에 10억 개 넘는 상품 목록을 열었다. 이용자가 에이전트를 설정해 대신 산다.",
+   "foot": "2026.10.13",
+   "_src": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+   "_id": "marketing-shopify-catalog-ai-agents",
+   "media": "src/alt-2-0.jpg"
+  },
+  {
+   "n": 3,
+   "kind": "photo",
+   "eyebrow": "2026.10.15",
+   "headline": "여러 매장을 한 장바구니에",
+   "body": "Google Universal Cart가 미국 Search·Gemini 앱에 왔다. 여러 매장 상품을 담고 가격이 내리면 알린다.",
+   "foot": "2026.10.15",
+   "_src": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+   "_id": "marketing-google-universal-cart",
+   "media": "pipeline/media/marketing-google-universal-cart.png"
+  },
+  {
+   "n": 4,
+   "kind": "photo",
+   "eyebrow": "2026.10.15",
+   "headline": "Stripe, 9월부터 급증",
+   "body": "Stripe 사장 John Collison은 팟캐스트에서 9월부터 에이전트 거래가 급증했다고 말했다. 수치는 밝히지 않았다.",
+   "foot": "2026.10.15",
+   "_src": "https://www.paymentsdive.com/news/stripe-agentic-commerce-revs-up/833109/",
+   "_id": "marketing-stripe-agentic-commerce",
+   "media": "pipeline/media/marketing-stripe-agentic-commerce.jpg"
+  },
+  {
+   "n": 5,
+   "kind": "photo",
+   "eyebrow": "2026.10.16",
+   "headline": "45일간 트래픽 100배",
+   "body": "보안업체 Cheq는 소비자용 AI 에이전트 출시 뒤 45일간 에이전트 트래픽이 100배 늘었다고 집계했다.",
+   "foot": "2026.10.16",
+   "_src": "https://www.semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season",
+   "_id": "marketing-cheq",
+   "media": "pipeline/media/marketing-cheq.jpg"
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

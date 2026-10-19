@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "issue": "AI 경쟁, 칩과 수출 통제로 번진다",
+    "date": "2026.10.19",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "중국 오픈 모델의 한계가 칩이라는 진단에서 미국 쪽 DUV 통제론, 중국의 AI 기술 수출 통제 초안으로 이어지는 흐름.",
+    "sources": [
+      "https://restofworld.org/2026/china-open-weight-models/",
+      "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
+      "https://thenextweb.com/news/china-ai-export-controls-draft"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "3건 · 정책 · 10.17~10.19",
+      "thread": [
+        {
+          "d": "10.17",
+          "t": "오픈 모델",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.18",
+          "t": "DUV 통제론",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.19",
+          "t": "중국 통제안",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "칩이 병목이라는 진단 뒤로, 양쪽에서 통제 카드가 나온다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "AI 경쟁의 전선은 칩과 수출 통제",
+      "body": "모델 평가, 장비 통제론, 중국의 통제 초안은 따로 보면 별개 소식이지만 이어 보면 같은 기술 경쟁으로 읽힌다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "중국 오픈 모델, 남은 한계는 칩",
+      "body": "Rest of World 패널은 중국 오픈웨이트 모델이 성능·비용에서 서구를 앞서지만 칩이 한계라고 봤다.",
+      "foot": "2026.10.17",
+      "_src": "https://restofworld.org/2026/china-open-weight-models/",
+      "_id": "politics-china-open-weight",
+      "media": "src/alt-2-0.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "그 칩을 겨냥한 DUV 통제론",
+      "body": "전 NSC 관리 Saif Khan은 DUV 장비 수출을 막으면 중국 AI 칩 생산을 묶어 둘 수 있다고 주장한다.",
+      "foot": "2026.10.18",
+      "_src": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
+      "_id": "politics-duv-controls",
+      "media": "pipeline/media/politics-duv-controls.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "중국도 AI 기술 수출 통제 초안",
+      "body": "중국 초안은 모델 가중치부터 AI 칩 설계까지 AI 기술 23개를 수출 통제 대상으로 올린다.",
+      "foot": "2026.10.19",
+      "_src": "https://thenextweb.com/news/china-ai-export-controls-draft",
+      "_id": "politics-china-ai-export-catalogue",
+      "media": "pipeline/media/politics-china-ai-export-catalogue.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}

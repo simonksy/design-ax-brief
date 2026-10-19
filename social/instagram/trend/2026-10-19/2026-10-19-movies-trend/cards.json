@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "VFX 잡일에 들어온 AI",
+    "date": "2026.10.19",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "재조명·키잉·로토·와이어 제거까지, 나흘 동안 VFX 후반 공정의 반복 작업마다 AI 도구가 하나씩 붙었다.",
+    "sources": [
+      "https://nofilmschool.com/maxon-fall-2026-ecosystem-release",
+      "https://www.youtube.com/watch?v=godomkRXBLE",
+      "https://www.animationmagazine.net/2026/10/tech-reviews-gaomon-pd1561-v2-foundry-smartroto-huion-kamvas-pro-24/",
+      "https://beforesandafters.com/2026/10/07/fall-2-reaches-new-heights-in-vfx/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 10.16~10.19",
+      "thread": [
+        {
+          "d": "10.16",
+          "t": "사후 재조명",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.17",
+          "t": "AI 키잉",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.18",
+          "t": "AI 로토",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.19",
+          "t": "와이어 제거",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "키잉·로토·재조명·와이어 제거, 후반 잡일마다 AI가 붙는다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI는 VFX 잡일부터 가져간다",
+      "body": "한 건씩 보면 신기능 소식이다. 나란히 놓으면 컴포지터의 반복 공정이 차례로 AI 도구로 넘어가는 게 보인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "조명은 촬영 뒤에 다시 친다",
+      "body": "Maxon의 Red Giant Scene Light는 AI 깊이로 실사와 CG를 사후에 재조명한다.",
+      "foot": "2026.10.16",
+      "_src": "https://nofilmschool.com/maxon-fall-2026-ecosystem-release",
+      "_id": "movies-maxon-fall",
+      "media": "src/alt-2-0.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "그린스크린 키잉도 AI로",
+      "body": "Corridor Crew가 오픈소스 AI 그린스크린 키어 CorridorKey 2.0의 45초 티저를 공개했다.",
+      "foot": "2026.10.17",
+      "_src": "https://www.youtube.com/watch?v=godomkRXBLE",
+      "_id": "movies-corridorkey2",
+      "media": "src/alt-2-0.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "Nuke 안의 로토, 4배 빨라졌다",
+      "body": "Foundry SmartRoto는 Nuke에 AI 로토스코핑을 넣었고, 리뷰어 테스트에선 4배 빨랐다.",
+      "foot": "2026.10.18",
+      "_src": "https://www.animationmagazine.net/2026/10/tech-reviews-gaomon-pd1561-v2-foundry-smartroto-huion-kamvas-pro-24/",
+      "_id": "movies-foundry-smartroto",
+      "media": "pipeline/media/movies-foundry-smartroto.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "실제 장편에서 와이어를 지운다",
+      "body": "Koala FX가 'Fall 2' 파이프라인에서 Flawless의 AI 와이어 제거 도구를 직접 검증했다.",
+      "foot": "2026.10.19",
+      "_src": "https://beforesandafters.com/2026/10/07/fall-2-reaches-new-heights-in-vfx/",
+      "_id": "movies-fall2-flawless-vfx",
+      "media": "pipeline/media/movies-fall2-flawless-vfx.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
