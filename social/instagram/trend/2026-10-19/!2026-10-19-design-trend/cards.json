@@ -1,0 +1,124 @@
+{
+ "meta": {
+  "issue": "AI보다 늦은 건 일하는 방식",
+  "date": "2026.10.19",
+  "section": "DESIGN",
+  "accent": "#0070f3",
+  "note": "AI 이후 일하는 방식을 다시 묻는 글 다섯 편(10.12~10.18). 묶음은 우리 해석이라 '이어졌다'로만 쓴다.",
+  "sources": [
+   "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd",
+   "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e3882630",
+   "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373",
+   "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+   "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee"
+  ]
+ },
+ "cards": [
+  {
+   "n": 1,
+   "kind": "thread",
+   "thread_badge": "이슈 트렌드",
+   "thread_cap": "5건 · 디자인 · 10.12~10.18",
+   "thread": [
+    {
+     "d": "10.12",
+     "t": "허리 공정",
+     "c": "#0070f3",
+     "s": "DESIGN"
+    },
+    {
+     "d": "10.15",
+     "t": "결과 책임",
+     "c": "#0070f3",
+     "s": "DESIGN"
+    },
+    {
+     "d": "10.15",
+     "t": "조직도",
+     "c": "#0070f3",
+     "s": "DESIGN"
+    },
+    {
+     "d": "10.16",
+     "t": "도입 실수",
+     "c": "#0070f3",
+     "s": "DESIGN"
+    },
+    {
+     "d": "10.18",
+     "t": "작업 재료",
+     "c": "#0070f3",
+     "s": "DESIGN"
+    }
+   ],
+   "thread_note": "공정의 모양부터 책임·조직·재료까지, AI 이후 일하는 방식을 다시 묻는 글이 이어졌다",
+   "eyebrow": "흐름 · 디자인",
+   "headline": "AI보다 늦은 건 일하는 방식",
+   "body": "한 편만 보면 의견 하나다. 일주일 새 다섯 편이 공정·책임·조직·재료를 차례로 짚었다.",
+   "foot": "밀어서 보기 →"
+  },
+  {
+   "n": 2,
+   "kind": "photo",
+   "eyebrow": "2026.10.12",
+   "headline": "디자인 허리가 줄어든다",
+   "body": "Anamol Rajbhandari는 AI가 디자인 프로세스의 중간을 비우고 모래시계 모양만 남긴다고 썼다.",
+   "foot": "2026.10.12",
+   "_src": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd",
+   "_id": "design-hourglass-middle",
+   "media": "src/alt-2-0.jpg"
+  },
+  {
+   "n": 3,
+   "kind": "photo",
+   "eyebrow": "2026.10.15",
+   "headline": "남은 사람은 결과를 책임진다",
+   "body": "Patrick Neeman은 루프에 사람만 두면 부족하고, 에이전트의 권한 범위를 정한 쪽이 결과를 책임져야 한다고 봤다.",
+   "foot": "2026.10.15",
+   "_src": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e3882630",
+   "_id": "design-human-in-loop",
+   "media": "pipeline/media/design-human-in-loop.png"
+  },
+  {
+   "n": 4,
+   "kind": "photo",
+   "eyebrow": "2026.10.15",
+   "headline": "AI는 조직도를 가로지른다",
+   "body": "Kate Agena는 AI가 콘텐츠 디자인·지식 관리·모델 동작을 한 경험으로 묶지만 일하는 방식은 못 따라왔다고 봤다.",
+   "foot": "2026.10.15",
+   "_src": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373",
+   "_id": "design-uxc-org-chart",
+   "media": "pipeline/media/design-uxc-org-chart.jpg"
+  },
+  {
+   "n": 5,
+   "kind": "photo",
+   "eyebrow": "2026.10.16",
+   "headline": "기술 문제로 보면 또 실패",
+   "body": "Paul Boag는 조직이 AI를 기술 과제로만 접근해 디지털 전환기의 실수를 되풀이한다고 지적했다.",
+   "foot": "2026.10.16",
+   "_src": "https://smashingmagazine.com/2026/10/is-your-organization-messing-up-ai-adoption/",
+   "_id": "design-smashing-ai-adoption",
+   "media": "pipeline/media/design-smashing-ai-adoption.jpg"
+  },
+  {
+   "n": 6,
+   "kind": "photo",
+   "eyebrow": "2026.10.18",
+   "headline": "출시 재료로 디자인한다",
+   "body": "Jon Sabutis는 AI가 코드를 짜는 만큼 디자이너가 코드를 재료로 이해하고 실제 데이터로 확인해야 한다고 썼다.",
+   "foot": "2026.10.18",
+   "_src": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee",
+   "_id": "design-material-you-ship",
+   "media": "pipeline/media/design-material-you-ship.png"
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 7
+  }
+ ]
+}
