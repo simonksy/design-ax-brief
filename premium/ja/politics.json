@@ -2964,6 +2964,115 @@
           "x": "Appleの規約はさらに、「人身売買や児童搾取を助長する」アプリはすべてApp Storeから削除され、「代替配信からもブロックされる」ことをより明確に定めている。"
         }
       ]
+    },
+    "politics/politics-taiwan-server-exports": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
+          "cap": "台北の中正紀念公園(Chiang Kai-shek Memorial Park)(画像: Jowi Morales/Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "台湾は米国(U.S.)の貿易禁止措置に歩調を合わせ、輸出管理品目にAIサーバーと最新チップを加える。Bloombergによると、規制が発効すれば密輸者は対外貿易法(Foreign Trade Act)に基づき刑事訴追され、最長五年の懲役および/または約$92,500の罰金が科される。"
+        },
+        {
+          "t": "p",
+          "x": "「相互貿易協定(Agreement on Reciprocal Trade)でかなりの約束をしたため、今後、管理品目に関する措置の一部は米国のものに対応することになる」と、龔明鑫(Kung Ming-hsin)経済部長は述べた。この協定により、台湾製品に対する米国(U.S.)の関税は15%に引き下げられた。"
+        },
+        {
+          "t": "p",
+          "x": "今回の動きは、Super Microの社員三人が$2.5 billion相当のAIサーバーを密輸したとして米国(U.S.)で起訴された事件と、台湾当局がSuper Microの台北オフィスを捜索し九人の起訴につながった件に続くものだ。新たな規制が施行されるまで、台湾は中国へのAIチップ輸出を犯罪として扱っておらず、違反者は他の法律で起訴するしかない。"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Hardwareは、この措置はワシントンを喜ばせる可能性が高い一方、昨年HuaweiとSMICへの規制をめぐって台北を非難した北京を刺激しかねないと指摘する。"
+        }
+      ]
+    },
+    "politics/politics-uk-ai-sovereignty-letter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "政府の最上位の独立した科学技術諮問機関である科学技術会議(Council for Science and Technology、CST)は2026年7月、AI担当大臣(Minister for AI)にAI主権に関する助言の書簡を送った。書簡は10月19日に公表された。"
+        },
+        {
+          "t": "p",
+          "x": "CSTはAI主権を、UKが選んだ成果を実現し、経済的・公共的価値を獲得し、圧力下でもレジリエンスを維持できるだけの十分な主体性を、AIバリューチェーン全体で持つことと定義する。意図的かつ緊急の行動がなければ、UKは「技術を形づくれる国ではなく、高付加価値のAI顧客」になる恐れがあると警告している。"
+        },
+        {
+          "t": "p",
+          "x": "書簡は4つの提言を示す。AIエコシステムのマップに基づくUK AI Sovereignty Plan(UK AI主権計画)を策定し、公益のための迅速なパイロットの選定に使うこと。単一の責任者を置く明確なガバナンスを整えること。スキル、データ、公共の信頼に今すぐ投資すること。そして、選ばれたUKの能力を育てつつ、先進的なAIモデルへの信頼できるアクセスを維持すること。これには、公益のための主権的な基盤モデルを求めるAlan Turing Instituteの提案の検討も含まれる。"
+        }
+      ]
+    },
+    "politics/politics-greece-daedalus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ギリシャは、国内に導入されたものとして史上最も強力なスーパーコンピューターDaedalusを稼働させた。€58.9 millionが投じられ、公開データによれば世界31位のこのシステムは、海外の計算資源への依存を減らすため、アッティカ地方のラヴリオ(Lavrio)で開所した。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
+          "cap": "スーパーコンピューター — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+        },
+        {
+          "t": "p",
+          "x": "85.69 petaflopsの性能により、大学や企業、公的機関はギリシャ国内のインフラでAIモデルを学習させることができ、機微なデータの国内処理も可能になる。欧州のエクサスケール(exascale)システムに対抗するための設計ではない。"
+        },
+        {
+          "t": "p",
+          "x": "液冷式のNvidia Grace Hopper GH200を基盤とし、アテネ国立工科大学が管理する旧発電所に設置され、GRNETが運用する。資金は復興・強靱化ファシリティ(Recovery and Resilience Facility)とEuroHPCから拠出される。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
+          "cap": "スーパーコンピューター — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+        },
+        {
+          "t": "p",
+          "x": "Pharos AI Factoryを通じた企業向けサービスの拡大は2027年3月から予定され、スタートアップと中小企業(SMEs)はEUの国家補助の上限内で無料で利用できる見込みだ。"
+        }
+      ]
+    },
+    "politics/politics-disney-characterai-363": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
+          "cap": "Disneyのロゴ。"
+        },
+        {
+          "t": "p",
+          "x": "裁判所への提出書類によると、Character.AIの破産は、Disneyが元CEOのカランディープ・アナンド(Karandeep Anand)を含む社員の大半を雇用し、技術の大半を取得する可能性を得て、法的責任を回避できる取引の重要な要素だった。申し立て書によると、Disneyは同スタートアップの「減少する現金準備と重大な訴訟・規制リスク」を理由に、取引を破産手続きを通じて「完全に成立」させることを求めた。Disneyはコメントを控えた。"
+        },
+        {
+          "t": "p",
+          "x": "Disneyは9月、$5.5 millionと返金可能な保証金$2 millionを支払った。10月12日のChapter 11申請後、DisneyはCharacter.AIのコードとツールの多くについて、永続的・全世界的・非独占的なライセンスの確保を目指す。ライセンスは競売にかけられ、Disneyが落札した場合は$12.5 millionのクロージング支払いを行う。"
+        },
+        {
+          "t": "p",
+          "x": "「363 Free and Clear Order」の草案は、この取引が合併ではなく、法的請求を含むあらゆる責任はCharacter.AIが引き続き負うと明記する見通しだ。同社を調査している州は、いかなる破産計画にも異議を申し立てる権利を留保するとしている。"
+        }
+      ]
+    },
+    "politics/politics-anthropic-draft-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+          "cap": "2026年9月16日、端末に表示されたAnthropicのAIアプリ「Claude」のアイコン。(Leon Neal/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "POLITICOが関係者3人の話として報じたところによると、Anthropicの担当者は、フロンティアAIの安全性とセキュリティを規制する法案の草案をCapitol Hillの議員らにひそかに売り込んできた。"
+        },
+        {
+          "t": "p",
+          "x": "草案は、政府が先進的なモデルの公開を阻止できる状況を限定し、一部の州のAI安全法に優先する内容だ。"
+        }
+      ]
     }
   }
 }

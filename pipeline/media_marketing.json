@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-19",
-  "section": "marketing",
-  "media": [
-    {
-      "id": "marketing-amazon",
-      "type": "image",
-      "src": "pipeline/media/marketing-amazon.jpg"
-    },
-    {
-      "id": "marketing-nationaltrust",
-      "type": "image",
-      "src": "pipeline/media/marketing-nationaltrust.jpg"
-    },
-    {
-      "id": "marketing-meta",
-      "type": "image",
-      "src": "pipeline/media/marketing-meta.jpg"
-    },
-    {
-      "id": "marketing-salesforce",
-      "type": "image",
-      "src": "pipeline/media/marketing-salesforce.jpg"
-    },
-    {
-      "id": "marketing-cheq",
-      "type": "image",
-      "src": "pipeline/media/marketing-cheq.jpg"
-    }
-  ]
-}
+{"media": [
+  {"id": "marketing-meta-genrecs", "type": "image", "src": "pipeline/media/marketing-meta-genrecs.png"},
+  {"id": "marketing-monday-harmony", "type": "image", "src": "pipeline/media/marketing-monday-harmony.jpg"},
+  {"id": "marketing-minerva-cdp", "type": "image", "src": "pipeline/media/marketing-minerva-cdp.jpg"},
+  {"id": "marketing-basis-survey", "type": "image", "src": "pipeline/media/marketing-basis-survey.jpg"},
+  {"id": "marketing-lendi", "type": "svg"}
+]}

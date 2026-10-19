@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "music",
   "picks": [
     {
-      "url": "https://www.youtube.com/watch?v=WtPiZ0ym13k",
-      "source": "ElevenLabs (YouTube)",
-      "title": "Introducing Instant Soundtracks",
+      "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+      "source": "The Verge",
+      "title": "Vibe coding is turning the music gear world upside down",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "This is a new ElevenLabs release: upload a video and it writes an original score and places SFX as separate, editable timeline layers, across ElevenCreative, ElevenMusic and the API. It changes how sound for video gets roughed in.",
-      "published_iso": "2026-10-15T12:01:07-07:00",
-      "og_image": "https://i.ytimg.com/vi/WtPiZ0ym13k/maxresdefault.jpg",
-      "excerpt": "ElevenLabs launched Instant Soundtracks in ElevenCreative, ElevenMusic and the API: upload a video and the model scores it with original music, then detects moments that need sound effects and places them on the timeline as separately editable layers; existing audio can be used as a reference for genre, tempo or instrumentation."
+      "rationale": "LLM coding assistants are letting ordinary users write custom firmware and hacks for synths, samplers and grooveboxes. That changes who gets to reshape hardware instruments. The angle is hardware hacking, not the vibe-coded plugin market covered on 10-17.",
+      "published_iso": "2026-10-19T12:30:00Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "LLM coding assistants have triggered an explosion of user-built custom firmware and hacks for synths, samplers and grooveboxes, changing who gets to reshape music hardware."
     },
     {
-      "url": "https://www.guitarworld.com/gear/amp-modeler-pedals/zoom-neurig",
-      "source": "Guitar World",
-      "title": "Zoom Neurig: a $300 touchscreen amp modeler with NAM capture support and AI stem separation",
+      "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-expectations-ai-debunk-1235644671/",
+      "source": "Rolling Stone",
+      "title": "Artists Behind Olivia Rodrigo 'Expectations' Music Video Debunk AI Accusations",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Zoom is bringing Neural Amp Modeler profiles and on-device AI stem separation to a $300 multi-effects unit. That puts ML-based tone capture into budget hardware.",
-      "published_iso": "2026-10-12T14:58:56Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
-      "excerpt": "Is this affordable do-it-all multi-effects from Zoom about to shake up the modeler market?"
+      "rationale": "A graphic designer released behind-the-scenes process footage (2D/3D animation, analog treatments) to answer claims the video was AI-made. Publishing process as proof of human work is a direct lesson for visual creatives.",
+      "published_iso": "2026-10-19T17:06:04Z",
+      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+      "excerpt": "Graphic designer Jack Harrison and Rodrigo's official fan account released behind-the-scenes footage of the 2D/3D animation and analog treatments to rebut claims the video was AI-generated."
     },
     {
-      "url": "https://www.hypebot.com/rocketship-maps-a-songs-listeners-before-release-for-free/",
-      "source": "Hypebot",
-      "title": "Rocketship maps a song's likely listeners before release, for free",
+      "url": "https://www.musicbusinessworldwide.com/sony-and-universal-ask-court-to-force-suno-investor-lightspeed-to-testify-about-the-legal-risk-of-training-data/",
+      "source": "Music Business Worldwide",
+      "title": "Sony and Universal ask court to force Suno investor Lightspeed to testify about the 'legal risk of training data'",
       "tool": "Music",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "A newly launched free tool uses AI to identify a track's target audience before release. Indie artists get pre-release targeting data they could not get before without a label.",
-      "published_iso": "2026-10-15T13:39:06.000Z",
-      "og_image": "https://images.unsplash.com/photo-1593697725250-6a184f4e9ed0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxzb25nd3JpdGVyfGVufDB8fHx8MTc5MTkxMDAyMHww&ixlib=rb-4.1.0&q=80&w=2000",
-      "excerpt": "Rocketship gives indie artists major-label level data, using AI to identify target audiences for songs before release or spending a dime."
+      "rationale": "This is a new court filing (Oct 13, Boston federal court) in the labels' Suno case. It pushes discovery onto a VC investor's own assessment of the risk in Suno's training data, which raises the stakes for anyone funding generative music models.",
+      "published_iso": "2026-10-19T10:37:19Z",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+      "excerpt": "In a Boston federal court filing on October 13, Sony and Universal opposed Suno investor Lightspeed's motion to quash their subpoena seeking testimony on the 'legal risk of training data'."
     },
     {
-      "url": "https://www.guitarworld.com/gear/studio-recording-equipment/neko-engineering-neko-pocket-studio",
-      "source": "Guitar World",
-      "title": "Neko Pocket Studio: a pocket wireless guitar workstation with NAM tones, stem separation and audio-to-tab",
+      "url": "https://completemusicupdate.com/the-three-big-debates-around-music-and-generative-ai/",
+      "source": "CMU (Complete Music Update)",
+      "title": "The three big debates around music and generative AI",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "A new device packs NAM playback, recording, stem separation, generative AI features and audio-to-tab transcription into one portable unit for practice and tracking.",
-      "published_iso": "2026-10-16T17:10:40Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
-      "excerpt": "The Neko packs NAM tones, recording, stem separation, GenAI features, wireless connectivity, and audio-to-tab features into one tiny powerhouse"
+      "rationale": "CMU organises the generative-music fight into three debates: training consent, licensing and output. It is a useful map of where the industry argument stands, written ahead of its Un-Convention panel.",
+      "published_iso": "2026-10-19T17:05:25Z",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png",
+      "excerpt": "Generative AI models that output music pose many questions for the industry; CMU organises them into three big debates ahead of an Un-Convention panel on music and AI."
     },
     {
-      "url": "https://arxiv.org/abs/2610.20967",
+      "url": "https://arxiv.org/abs/2610.22535",
       "source": "arXiv",
-      "title": "MIDI-REPA: aligning text-to-music models with symbolic MIDI structure",
+      "title": "D-Composer: Language Modeling for Simultaneous Drum Transcription and Sound Event Decomposition",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "This paper aligns text-to-music audio models with MIDI derived from automatic transcription, a cheaper route to better melody, rhythm and harmony than scaling compute. It was held in reserve on 10-18.",
-      "published_iso": "2026-10-14T21:42:50Z",
-      "og_image": "",
-      "excerpt": "State-of-the-art text-to-music models increasingly rely on scaling model capacity, data, and compute, while still learning musical structure directly from dense audio. Yet melody, rhythm, harmony, and structure can be represented compactly in symbolic form. We introduce MIDI-REPA, a representation-alignment framework that derives MIDI supervision from automatic music transcript"
+      "rationale": "This model transcribes a drum part and splits it back into its one-shot samples in a single pass. That points to tools that can rebuild a kit and its pattern from any recorded beat.",
+      "published_iso": "2026-10-15T18:31:13Z",
+      "og_image": null,
+      "excerpt": "D-Composer uses language modelling to transcribe drum beats while decomposing them into their constituent one-shot sound events, building on drum analysis-by-synthesis models."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.youtube.com/watch?v=WtPiZ0ym13k": {
+      "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware": {
         "verdict": "new",
-        "nearest": "https://www.youtube.com/watch?v=vGukGg7Q2_g",
+        "nearest": "https://www.attackmagazine.com/features/long-read/whos-buying-all-these-vibe-coded-plugins/",
         "new_action": ""
       },
-      "https://www.guitarworld.com/gear/amp-modeler-pedals/zoom-neurig": {
+      "https://www.rollingstone.com/music/music-news/olivia-rodrigo-expectations-ai-debunk-1235644671/": {
         "verdict": "new",
-        "nearest": "https://www.gearnews.com/melofty-axom-max-audio-processor-guitar/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.hypebot.com/rocketship-maps-a-songs-listeners-before-release-for-free/": {
+      "https://www.musicbusinessworldwide.com/sony-and-universal-ask-court-to-force-suno-investor-lightspeed-to-testify-about-the-legal-risk-of-training-data/": {
+        "verdict": "follow-up",
+        "nearest": "https://www.billboard.com/pro/umg-sony-demand-distrokid-admit-suno-song-uploads/",
+        "new_action": "New Oct 13 filing in Boston federal court opposing Lightspeed's motion to quash the labels' subpoena for testimony on Suno's training-data legal risk"
+      },
+      "https://completemusicupdate.com/the-three-big-debates-around-music-and-generative-ai/": {
         "verdict": "new",
-        "nearest": "https://musically.com/2026/10/07/humanculture-bags-first-clients-for-its-predictive-intelligence-tech/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.guitarworld.com/gear/studio-recording-equipment/neko-engineering-neko-pocket-studio": {
-        "verdict": "new",
-        "nearest": "https://www.youtube.com/shorts/JYs3lzKOruI",
-        "new_action": ""
-      },
-      "https://arxiv.org/abs/2610.20967": {
+      "https://arxiv.org/abs/2610.22535": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "SIGNAL-CHAIN CHECK: Zoom Neurig and Neko Pocket Studio were each compared with the 09-27 Melofty Axom Max card and the 10-18 Line 6 Helix Stadium 1.4 card. Both are different products from different makers. Neither uses prompt-built signal chains: their AI angle is NAM capture plus stem separation (and audio-to-tab for Neko), so they are distinct releases. ElevenLabs Instant Soundtracks is a new product launch, not the 09-24 ElevenLabs MCP card or the 09-28 Studio 4.0 card. Rocketship's launch was mentioned only inside the Music Ally 10-14 roundup, which story_dedup removed because it matched the Raye card. Rocketship itself has never run as a card. DROPPED: (1) Music Ally Deezer/Playhead: the Deezer AI exclusion ran 10-14 (MBW) and Playhead effects chains ran 09-19 (BPB), so it repeats both. (2) Music Ally ICMP on Australian AI rules: a reaction in the running Australian AI-copyright story (ARIA card 10-07), with no new government decision. (3) Billboard A$AP Rocky and Olivia Rodrigo stances, and Creative Bloq's Rodrigo video allegations: celebrity opinion or rumour with no new release. (4) Billboard Kid Rock Suno interview: an artist interview about Suno use, with no new release (nearest is the 10-06 Suno albums card). (5) DMN 'Can we sue' op-ed: commentary. (6) DMN Furnace Fest AI merch: thin AI angle. (7) Gearnews 'humanity of instruments': an opinion piece in the vibe-coded-plugin running story (Attack 10-17, BPB 10-18). RESERVE: arXiv joint discrete/continuous song generation paper, plus the MIRA paper. DIVERSITY: 4 outlets, with Guitar World at the cap of 2. Every card has a distinct accent. ENRICHMENT FLAGS: confirm the Neurig price ($300) and NAM support in the article body. The Hypebot og_image is a generic Unsplash photo, so ax-media should source an in-article image."
+    "note": "Dropped as repeats: the MBW Deezer 'kill switch' explainer and the Music Ally Deezer/Playhead roundup (both the same story as the 10-14 MBW piece on Deezer letting users block AI music). Gearnews 'humanity of instruments' dropped as more commentary on the vibe-coded plugin story already covered (Attack 10-17, BPB 10-18). Olivia Rodrigo AI-stance gossip (10-07) dropped as stale and low value. Apple acquires Samplab dropped under the orchestrator's no-M&A rule. Lower-ranked fresh items held in reserve: ICMP on Australia's AI rules (a reaction to ARIA testimony published 10-07), A$AP Rocky quote, Music Ally general AI-jobs studies, arXiv HookTheory harmonization, arXiv MUB benchmark. Diversity: 5 picks from 5 different outlets."
   }
 }

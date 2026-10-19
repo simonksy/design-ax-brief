@@ -1,29 +1,31 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "medicine",
   "media": [
     {
-      "id": "medicine-ai-auscultation-lvd",
+      "id": "medicine-aitialvsd-fda-2026",
       "type": "image",
-      "src": "pipeline/media/medicine-ai-auscultation-lvd.jpg"
+      "src": "pipeline/media/medicine-aitialvsd-fda-2026.jpg"
     },
     {
-      "id": "medicine-simbiosys-tumorsight-risk",
-      "type": "svg"
-    },
-    {
-      "id": "medicine-bitmate-ai-emr",
+      "id": "medicine-ai-infocare-previsit-summaries",
       "type": "image",
-      "src": "pipeline/media/medicine-bitmate-ai-emr.png"
+      "src": "pipeline/media/medicine-ai-infocare-previsit-summaries.jpg"
     },
     {
-      "id": "medicine-bmj-llm-trial-reporting",
-      "type": "svg"
-    },
-    {
-      "id": "medicine-llm-depression-diaries",
+      "id": "medicine-hpi-radiology-workforce-ai",
       "type": "image",
-      "src": "pipeline/media/medicine-llm-depression-diaries.png"
+      "src": "pipeline/media/medicine-hpi-radiology-workforce-ai.jpg"
+    },
+    {
+      "id": "medicine-oud-rey-ehr-harmonization",
+      "type": "image",
+      "src": "pipeline/media/medicine-oud-rey-ehr-harmonization.jpg"
+    },
+    {
+      "id": "medicine-lunit-sitc2026-io-response",
+      "type": "image",
+      "src": "pipeline/media/medicine-lunit-sitc2026-io-response.jpg"
     }
   ]
 }

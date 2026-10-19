@@ -7537,6 +7537,141 @@
           "x": "这些结果是资源估算，并非在量子硬件上的演示，抽样测试也不能证明所有输入都会成功。该论文是arXiv预印本，尚未经过同行评审。"
         }
       ]
+    },
+    "science/science-racedrone-1020": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "一架由AI驱动的无人机以快于部分世界顶尖人类飞手的速度完成了锦标赛赛道。在Oct. 14（10月14日）发表于Science Robotics的研究中，Delft University of Technology的Micro Air Vehicles Lab研究人员介绍了MonoRace。它仅凭单个前置摄像头、一个惯性测量单元和一台微型机载计算机飞行。"
+        },
+        {
+          "t": "p",
+          "x": "MonoRace赢得了2025 Abu Dhabi Autonomous Racing League无人机竞速赛，击败了所有对手自主团队，成绩也快于三位前人类世界冠军。它在没有GPS、动作捕捉、立体摄像头或预载地图的情况下，用16.56秒飞完绕11个门的两圈，速度约达63 mph（102 km/h）。"
+        },
+        {
+          "t": "p",
+          "x": "神经网络识别赛门，估算这架966克无人机的位置，并以每秒500次的频率发送电机指令。它在快速物理模拟器中通过强化学习训练而成。合著者Guido de Croon说：“它确实是从零开始学会飞行的。”训练中改变了重量、阻力、传感器噪声和螺旋桨状况，使网络能够控制不同的无人机。"
+        },
+        {
+          "t": "p",
+          "x": "De Croon表示，MonoRace可以成为人类飞手的训练工具，“有点像强大的国际象棋程序也启发了下棋的人。”"
+        }
+      ]
+    },
+    "science/science-kaist-photoflow": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+          "cap": "定制光催化剂、自动化连续流平台与N-methyl pyrrole 化合物库。Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "由Yoonsu Park教授领导的KAIST团队搭建了一个无人合成平台，集成了分配原料的机器人、自动泵、在细管中进行的可见光照射（连续流）以及在线分析设备。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+          "cap": "自动化有机合成系统。Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "该平台利用定制光催化剂，将呋喃中的氧原子替换为氮原子，把呋喃转化为药物研发中常用的骨架N-methyl pyrrole（N-甲基吡咯）。团队将其应用于包括复杂天然产物在内的20多种呋喃类化合物，并演示了可支持放大生产的连续制备。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+          "cap": "合成流程示意图。Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Park表示：“能多快、多可靠地合成设计好的分子，将决定未来药物研发的速度。”该研究发表于JACS Au。"
+        }
+      ]
+    },
+    "science/science-portbooks-soton": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+          "cap": "用档案文件训练AI。Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "University of Southampton的历史学家利用AI，转录了藏于Kew的National Archives的约100,000页手写港口簿册，这些是自1565年起记录的英国航运档案。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+          "cap": "正由AI转录的手写文件。Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "基于这些AI-read记录，团队建成了一个涵盖1500s末至mid-1700s商船航运的数据库和交互式地图，囊括数十万次航行、3,000多个港口以及交易的货物。首席研究员Craig Lambert表示：“如果没有AI提取和整理数据，这项工作要花上好几年。”不过成果仍需人工核对。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+          "cap": "交互式地图截图。Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "欧洲(Europe)占据主导：1696–97年，欧洲约占英格兰(England)海外贸易记录总值的80%。记录最频繁的商品是煤，其次是麦芽、小麦、铁、羊毛和葡萄酒。记录的海上地点以西南部(South West)最多，其次是东南部(Southeast)和苏格兰(Scotland)。"
+        }
+      ]
+    },
+    "science/science-brainrot-tamu": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+          "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+        },
+        {
+          "t": "p",
+          "x": "Texas A&M的Zhengzhong Tu领导的研究人员发现，用低质量、博眼球内容训练的大语言模型会出现“脑腐”（brain rot），这与此类内容在人类身上关联的注意力和记忆力下降相呼应。"
+        },
+        {
+          "t": "p",
+          "x": "他们从2010年一百万条公开Twitter帖子的数据集中构建“垃圾”数据，依据高互动、篇幅短和耸动风格筛选帖子。GPT-4o mini完成初步标注，研究生抽查了样本。四个模型在垃圾数据与对照数据的混合上接受训练：Llama3 8B Instruct、Qwen2.5 7B Instruct、Qwen2.5 0.5B Instruct和Qwen3 4B Instruct。"
+        },
+        {
+          "t": "p",
+          "x": "主要影响包括推理和记忆能力减弱、倾向于跳过推理步骤，以及伦理防护被削弱。用更高质量的数据重新训练也未能完全恢复性能。"
+        },
+        {
+          "t": "p",
+          "x": "作者警告存在一种反馈循环：用垃圾数据训练的模型会产出更多垃圾，并呼吁提高训练数据的透明度。该研究在San Francisco举行的COLM 2026上发表。"
+        }
+      ]
+    },
+    "science/science-mit-crystal-text-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+        },
+        {
+          "t": "p",
+          "x": "向大语言模型询问合适的材料，目前效果还不理想。大多数材料是晶体的3D排列，而非文本，而且文献偏向少数热门晶体类别。"
+        },
+        {
+          "t": "p",
+          "x": "MIT研究人员构建了一个多模态模型，将3D原子结构与取自实验论文和第一性原理计算数据库的自然语言描述相结合，涵盖成分、结构、性质、加工和潜在应用。他们在Nature Communications上发表的研究显示，该模型比纯文本模型能找到更好的材料设计；在被问及固态锂离子电池电解质时，其排名靠前的结果中包含了已被独立发现的有前景候选材料。"
+        },
+        {
+          "t": "p",
+          "x": "团队利用对比学习将结构与文本对齐。用AI生成的描述（AI-generated）训练的版本学会了将几何结构与文本对齐，仅用论文文本训练的版本则没有。给定描述某种性质的自然语言查询，模型能找到匹配的晶体，表现优于基线。"
+        },
+        {
+          "t": "p",
+          "x": "“结构确实是材料科学领域的核心。”将该模型比作AlphaFold的Ju Li说。"
+        }
+      ]
     }
   }
 }

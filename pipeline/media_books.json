@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-19",
-  "section": "books",
-  "media": [
-    {
-      "id": "books-prize-author-check",
-      "type": "image",
-      "src": "pipeline/media/books-prize-author-check.png"
-    },
-    {
-      "id": "books-kyobo-flitto",
-      "type": "image",
-      "src": "pipeline/media/books-kyobo-flitto.jpg"
-    },
-    {
-      "id": "books-naav-ai",
-      "type": "image",
-      "src": "pipeline/media/books-naav-ai.jpg"
-    },
-    {
-      "id": "books-chatgpt-audiobooks",
-      "type": "image",
-      "src": "pipeline/media/books-chatgpt-audiobooks.jpg"
-    },
-    {
-      "id": "books-frankfurt-translators",
-      "type": "image",
-      "src": "pipeline/media/books-frankfurt-translators.png"
-    }
-  ]
-}
+{"media": [
+ {"id":"books-payauthors-pirate-check","type":"image","src":"pipeline/media/books-payauthors-pirate-check.png"},
+ {"id":"books-fish-audio-drama3","type":"image","src":"pipeline/media/books-fish-audio-drama3.jpg"},
+ {"id":"books-google-kr-publishers","type":"image","src":"pipeline/media/books-google-kr-publishers.jpg"},
+ {"id":"books-jason-jones-ai-novel","type":"image","src":"pipeline/media/books-jason-jones-ai-novel.png"},
+ {"id":"books-scholarly-ai-evidence","type":"image","src":"pipeline/media/books-scholarly-ai-evidence.jpg"}
+]}

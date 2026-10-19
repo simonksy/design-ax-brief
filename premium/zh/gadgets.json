@@ -7847,6 +7847,135 @@
           "x": "评论者想起了加密货币挖矿引发的GPU短缺，但Tom's Hardware认为这不太可能：PS5的GPU既不是最快的，内存也不是最多的。"
         }
       ]
+    },
+    "gadgets/gadgets-ai-dumb-smart-tv": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+          "cap": "Image Credits: Google"
+        },
+        {
+          "t": "p",
+          "x": "开发者和vibe coders正在分享“vibe-code”智能TVs的方法：删除赞助广告、加快启动器速度、重新设计主屏幕，以及关闭自动内容识别（ACR）等追踪功能。"
+        },
+        {
+          "t": "p",
+          "x": "“cleanyourtv”的作者Gathin T.让Claude Code通过Wi-Fi从他父母的TV上删除了25个Xiaomi软件包，并打造了新的启动器。两天内就有几千人照做。此方法无需root，还可恢复出厂设置。"
+        },
+        {
+          "t": "p",
+          "x": "Muzzammil Yasin Sabuwala开发的“dumbtv”已在Fire TV、Sony、TCL、Philips、Hisense、Xiaomi和Shield上测试过。用户只需让AI代理指向该GitHub仓库即可。也有人像Ryan Doyle那样，直接让Claude Code破解自己TV的型号列表。"
+        },
+        {
+          "t": "p",
+          "x": "效果参差不齐：有些提示词遭到拒绝，代理可能禁用重要软件包，还有一位用户称自己的Android TV变砖了。若被广泛采用，这可能威胁智能电视广告行业。"
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel11-magic-capture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Pixel 11的Magic Capture利用Gemini模型分析约400帧视频画面，并将最佳画面保存为照片。它最长可录制两分钟，总会给出五张照片，并将视频上传云端进行增强处理。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "在阴天的Phoenix Zoo，它精准捕捉到一只咆哮的美洲豹和一只构图出色的草原犬鼠。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "在光线昏暗的演唱会上从较远处拍摄时，它令人失望。在基础版Pixel 11上，Magic Capture使用10.8MP长焦镜头时变焦上限为4x，以1080p 30fps录制并裁切画面，照片模糊且噪点多。"
+        },
+        {
+          "t": "p",
+          "x": "它在光线充足、使用主摄时效果最佳。拍演唱会的话，评测者建议选择配备48MP潜望式长焦镜头的Pixel 11 Pro或Pro XL。"
+        }
+      ]
+    },
+    "gadgets/gadgets-homeview-robot-arm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Apple刚刚发布了期待已久的智能家居显示屏HomeView，售价$299。不过，这款产品已开发了相当长的时间，一直因更智能的Siri开发屡屡延误而受阻。"
+        },
+        {
+          "t": "p",
+          "x": "产品上市后，一些顾客担心：如果把HomeView放在多人围坐的桌子上，就得自己动手挪动它。据Power On通讯报道，Apple可能很快就会拿出解决方案。"
+        },
+        {
+          "t": "p",
+          "x": "据Bloomberg的Mark Gurman称，一款代号J595的升级版HomeView计划于2027年或2028年发布。它外观与现款HomeView相似，但屏幕约9英寸（从7英寸增大），并配有电动机械臂，可让显示屏完整旋转360度。它的设计是通过语音识别判断说话者，并转向此人。"
+        },
+        {
+          "t": "p",
+          "x": "它不会取代HomeView，而是作为产品线中的高端型号。因此，别指望它也是$299的价位。"
+        }
+      ]
+    },
+    "gadgets/gadgets-repair-robot-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "AI数据实验室HUMXN将补贴水管、电气、HVAC、风管清洁和地毯清洁服务，房主只要允许配备“可穿戴采集技术”的技工在家中作业，就能免费获得这些服务。"
+        },
+        {
+          "t": "p",
+          "x": "“机器人需要理解熟练的人如何与物理世界互动，”创始人Thomas Unise说。实验室环境难以捕捉自然动作，因此这些影像涵盖不同的住宅、设备、问题和技工，从诊断、选择工具到确认完工全程记录。"
+        },
+        {
+          "t": "p",
+          "x": "服务人员照常获得报酬。该计划将在Minneapolis、Chicago和Miami启动，选中它们是因为气候各不相同。Tom's Hardware认为，在Meta、Nvidia和OpenAI等实验室被指拿走数据之后，为训练数据付费令人耳目一新。"
+        }
+      ]
+    },
+    "gadgets/gadgets-qwen-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在U.S.，智能眼镜的话题由Meta主导；而在中国，焦点则是阿里巴巴(Alibaba)。这家电商巨头已推出多代智能眼镜，其最新款至少在技术层面上，正开始与Meta的同类产品拉开明显差距。"
+        },
+        {
+          "t": "p",
+          "x": "据Alibaba介绍，售价$490(3,499 RMB)的Qwen Glasses N1配备50-megapixel 摄像头传感器，而即便是最新的Ray-Ban Meta(Gen 3)也只有12-megapixel 传感器。Alibaba还宣称其待机续航25小时、音乐播放九小时；最新款Ray-Ban眼镜在混合使用下单次充电最长续航为九小时。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
+          "cap": "最新款Ray-Ban智能眼镜(图)在几个方面落后于Alibaba的产品。© Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "N1还加入了Meta没有的功能：一枚仅1.7mm 的微型眼动追踪摄像头，让眼镜的AI能准确理解你正在看什么，据报道还能扫描虹膜以确认Alipay付款。镜梁上的传感器可追踪体温。Gizmodo尚未测试这款眼镜，但从纸面参数看，它比U.S.市场现有产品高出一筹。"
+        }
+      ]
     }
   }
 }

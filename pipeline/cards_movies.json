@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-artcraft-filmcraft",
+      "id": "movies-premiere-enhance-stems",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ArtCraft, 무료\n오픈소스 Adobe 대항마",
-      "body": "ArtCraft가 AI로 짠 FilmCraft·EffectCraft를 공개했다.",
-      "mini_headline": "ArtCraft의 무료 Adobe 대항마",
+      "headline": "Premiere 베타,\n타임라인서 대사 분리",
+      "body": "Premiere 베타 Enhance Audio가 타임라인에서 대사 스템을 나눈다.",
+      "mini_headline": "Premiere, 대사 스템 분리",
       "tool": "Movies",
-      "source": "CineD",
-      "url": "https://www.cined.com/artcraft-releases-free-open-source-adobe-alternatives-filmcraft-for-premiere-pro-effectcraft-for-after-effects-written-in-rust-with-ai/",
+      "source": "ProVideo Coalition",
+      "url": "https://www.provideocoalition.com/stem-separation-moves-into-the-edit-what-enhance-audio-changes-for-dialogue-workflows-in-premiere-beta/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -19,287 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
-            "cap": "ArtCraft의 FilmCraft는 Adobe Premiere 자리를 노리는 앱이다. 이미지 제공: ArtCraft"
+            "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
           },
           {
             "t": "p",
-            "x": "개발자 Brandon Thomas와 그가 이끄는 ArtCraft가 Adobe Creative Cloud 앱을 본뜬 무료 오픈소스 애플리케이션 일곱 개를 내놨다. Premiere Pro 대안인 FilmCraft와 After Effects용 EffectCraft도 그 안에 있다. Thomas 말로는 AI 코딩 모델의 도움을 받아 Rust로 짰고, 시작한 계기는 Adobe의 해지 위약금이었다. 코드는 Anthropic의 Claude Opus 5.5로 썼다고 한다. ArtCraft 스스로는 이 앱들을 알파 버전 소프트웨어로 분류한다."
-          },
-          {
-            "t": "video",
-            "yt": "ZGeOTtmIoK0"
+            "x": "현장 오디오가 고르게 들어오는 일은 드물다. 공간이 다른 곳에서 녹음한 라발리에와 붐 마이크, 수시로 바뀌는 환경음, 장면에 섞여 버린 배경 음악까지. Premiere 베타의 Enhance Audio는 대사·음악·환경음·효과음·잔향을 한 번에 갈라내고 편집자는 타임라인 안에서 그 하나하나를 조절한다."
           },
           {
             "t": "p",
-            "x": "FilmCraft는 Source·Program 모니터, 멀티트랙 타임라인, 리플·롤·슬립·슬라이드 트림, 무제한 실행 취소를 갖췄다. 코덱도 FFmpeg에 기대지 않고 직접 짰다. Premiere Pro 프로젝트는 열리지 않아서, 두 프로그램 사이에서 타임라인을 옮기려면 Final Cut Pro 7 XML을 거쳐야 한다. 프로젝트 측 자체 평가로는 기능 범위가 약 86%, “실제 작업에 쓸 준비”는 약 56% 수준이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
-            "cap": "FilmCraft의 Scopes와 Timeline. 이미지 제공: ArtCraft"
+            "x": "대사에는 따로 볼륨과 Enhancement 강도, 목소리에서만 공간감을 걷어 내는 Reverb 조절이 붙는다. 음악·환경음·효과음에는 각각 볼륨과 음소거가 달린다. 소스 분리는 기기 안에서 돈다. 음성 향상에는 완전히 로컬에서 처리하는 Enhance Speech V1이나, Firefly를 거쳐 클라우드에서 처리하는 Adobe 최고 품질 음성 모델 V2를 쓴다."
           },
           {
             "t": "p",
-            "x": "EffectCraft에는 효과 306개와 익스프레션, 3D 카메라·조명이 들어 있다. 다만 .aep·.aepx 파일은 열지 못하고 After Effects 플러그인도 돌아가지 않는다."
+            "x": "향상 처리마다 앞뒤로 다섯 초씩 핸들이 붙는다. 그래서 컷·페이드·트림을 해도 다시 렌더링할 일이 없다. 핸들 너머로 늘리면 새로 늘어난 구간만 처리하는데, V2는 이때 분당 생성 크레딧이 두 개 들고 V1은 비용이 없다."
           },
           {
             "t": "p",
-            "x": "FilmCraft의 기능은 모두 명령으로 짜여 있어 UI, 명령줄 도구, JSON 제어 채널, MCP 서버 어디서든 실행된다. README를 보면 스크린숏 속 트레일러와 그레이딩도 AI 에이전트가 앱을 직접 조작해 만들었다. 클린룸 개발이라는 주장은 따로 검증된 적이 없고, AI 모델이 코드를 얼마나 썼는지도 Thomas의 설명 말고는 근거가 없다. Adobe는 공개 입장을 내지 않았다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
-            "cap": "EffectCraft의 Graph editor와 이징을 적용한 키프레임. 이미지 제공: ArtCraft"
-          },
-          {
-            "t": "p",
-            "x": "Craft Apps는 전부 무료다. 이 글을 쓰는 지금 FilmCraft는 GitHub에서 스타 약 10,600개, 포크 4,200개를 받았다."
+            "x": "Split to Clips를 쓰면 대사·음악·환경음·효과음이 각기 다른 클립으로 타임라인에 올라가 턴오버에 바로 쓸 수 있다. 다만 필자는 분리가 믹스를 끝내 주지는 않는다고 짚는다. 분리는 믹스의 끝이 아니라 시작이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ArtCraft releases free\nopen-source Adobe rivals",
-          "body": "ArtCraft released FilmCraft and EffectCraft, open-source Premiere Pro and After Effects rivals it says AI helped code.",
-          "mini_headline": "ArtCraft's free Adobe rivals",
+          "headline": "Premiere beta splits dialogue\nstems inside the timeline",
+          "body": "Premiere's beta Enhance Audio splits speech, music, ambience and effects into stems in the timeline, cutting handoffs before the mix.",
+          "mini_headline": "Premiere splits dialogue stems",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
-                "cap": "ArtCraft’s FilmCraft is supposed to replace Adobe Premiere. Image credit: ArtCraft"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
               },
               {
                 "t": "p",
-                "x": "Developer Brandon Thomas and his company ArtCraft have released seven free, open-source applications modeled on Adobe’s Creative Cloud apps, including FilmCraft as a Premiere Pro alternative and EffectCraft for After Effects. According to Thomas, the apps were written in Rust with the help of an AI coding model, and his motivation was Adobe’s cancellation fee. He says he used Anthropic’s Claude Opus 5.5 to write the code. ArtCraft labels them alpha software."
-              },
-              {
-                "t": "video",
-                "yt": "ZGeOTtmIoK0"
+                "x": "Location audio often arrives uneven: lavs and booms from different rooms, shifting ambience, a music bed baked into a scene. Enhance Audio, in the Premiere beta, separates speech, music, ambience, sound effects and reverb in a single pass and gives the editor a control for each, in the timeline."
               },
               {
                 "t": "p",
-                "x": "FilmCraft offers Source and Program monitors, a multi-track timeline, ripple, roll, slip and slide trims and unlimited undo. Its codecs are written by the project itself, without FFmpeg. It cannot open Premiere Pro projects; timelines move between the two via Final Cut Pro 7 XML. The project rates it at about 86% feature breadth and about 56% “ready for real work.”"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
-                "cap": "Scopes and Timeline in FilmCraft. Image credit: ArtCraft"
+                "x": "Dialogue gets its own volume, an Enhancement amount and a Reverb control that takes the room off the voice only; music, ambience and effects each get a volume and a mute. Source separation runs on-device. Voice enhancement uses Enhance Speech V1, fully local, or V2, Adobe's highest-quality voice model, in the cloud through Firefly."
               },
               {
                 "t": "p",
-                "x": "EffectCraft offers 306 effects, expressions, 3D cameras and lights, but cannot open .aep or .aepx files, and After Effects plugins do not run."
+                "x": "Each enhancement carries five seconds of handles per side, and cuts, fades and trims no longer trigger a re-render. Extending past the handles processes only the new section; on V2 that draws two generative credits per minute, while V1 costs nothing."
               },
               {
                 "t": "p",
-                "x": "Every function in FilmCraft is a command that can be triggered from the UI, a command-line tool, a JSON control channel or an MCP server, and the README says the trailer and grades in its screenshots were produced by an AI agent operating the app. The clean-room claim has not been independently verified, and how much of the code the AI model wrote rests on Thomas’s account. Adobe has not commented publicly."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
-                "cap": "Graph editor with eased keyframes in EffectCraft. Image credit: ArtCraft"
-              },
-              {
-                "t": "p",
-                "x": "All Craft Apps are free. At the time of writing, FilmCraft had around 10,600 stars and 4,200 forks on GitHub."
+                "x": "Split to Clips places speech, music, ambience and effects on the timeline as separate clips for turnover. The author's caveat: separation does not finish a mix. Treat it as the start of the mix, not the end."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ArtCraft, 무료\n오픈소스 Adobe 대항마",
-          "body": "ArtCraft가 AI로 짠 FilmCraft·EffectCraft를 공개했다.",
-          "mini_headline": "ArtCraft의 무료 Adobe 대항마",
+          "headline": "Premiere 베타,\n타임라인서 대사 분리",
+          "body": "Premiere 베타 Enhance Audio가 타임라인에서 대사 스템을 나눈다.",
+          "mini_headline": "Premiere, 대사 스템 분리",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
-                "cap": "ArtCraft의 FilmCraft는 Adobe Premiere 자리를 노리는 앱이다. 이미지 제공: ArtCraft"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
               },
               {
                 "t": "p",
-                "x": "개발자 Brandon Thomas와 그가 이끄는 ArtCraft가 Adobe Creative Cloud 앱을 본뜬 무료 오픈소스 애플리케이션 일곱 개를 내놨다. Premiere Pro 대안인 FilmCraft와 After Effects용 EffectCraft도 그 안에 있다. Thomas 말로는 AI 코딩 모델의 도움을 받아 Rust로 짰고, 시작한 계기는 Adobe의 해지 위약금이었다. 코드는 Anthropic의 Claude Opus 5.5로 썼다고 한다. ArtCraft 스스로는 이 앱들을 알파 버전 소프트웨어로 분류한다."
-              },
-              {
-                "t": "video",
-                "yt": "ZGeOTtmIoK0"
+                "x": "현장 오디오가 고르게 들어오는 일은 드물다. 공간이 다른 곳에서 녹음한 라발리에와 붐 마이크, 수시로 바뀌는 환경음, 장면에 섞여 버린 배경 음악까지. Premiere 베타의 Enhance Audio는 대사·음악·환경음·효과음·잔향을 한 번에 갈라내고 편집자는 타임라인 안에서 그 하나하나를 조절한다."
               },
               {
                 "t": "p",
-                "x": "FilmCraft는 Source·Program 모니터, 멀티트랙 타임라인, 리플·롤·슬립·슬라이드 트림, 무제한 실행 취소를 갖췄다. 코덱도 FFmpeg에 기대지 않고 직접 짰다. Premiere Pro 프로젝트는 열리지 않아서, 두 프로그램 사이에서 타임라인을 옮기려면 Final Cut Pro 7 XML을 거쳐야 한다. 프로젝트 측 자체 평가로는 기능 범위가 약 86%, “실제 작업에 쓸 준비”는 약 56% 수준이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
-                "cap": "FilmCraft의 Scopes와 Timeline. 이미지 제공: ArtCraft"
+                "x": "대사에는 따로 볼륨과 Enhancement 강도, 목소리에서만 공간감을 걷어 내는 Reverb 조절이 붙는다. 음악·환경음·효과음에는 각각 볼륨과 음소거가 달린다. 소스 분리는 기기 안에서 돈다. 음성 향상에는 완전히 로컬에서 처리하는 Enhance Speech V1이나, Firefly를 거쳐 클라우드에서 처리하는 Adobe 최고 품질 음성 모델 V2를 쓴다."
               },
               {
                 "t": "p",
-                "x": "EffectCraft에는 효과 306개와 익스프레션, 3D 카메라·조명이 들어 있다. 다만 .aep·.aepx 파일은 열지 못하고 After Effects 플러그인도 돌아가지 않는다."
+                "x": "향상 처리마다 앞뒤로 다섯 초씩 핸들이 붙는다. 그래서 컷·페이드·트림을 해도 다시 렌더링할 일이 없다. 핸들 너머로 늘리면 새로 늘어난 구간만 처리하는데, V2는 이때 분당 생성 크레딧이 두 개 들고 V1은 비용이 없다."
               },
               {
                 "t": "p",
-                "x": "FilmCraft의 기능은 모두 명령으로 짜여 있어 UI, 명령줄 도구, JSON 제어 채널, MCP 서버 어디서든 실행된다. README를 보면 스크린숏 속 트레일러와 그레이딩도 AI 에이전트가 앱을 직접 조작해 만들었다. 클린룸 개발이라는 주장은 따로 검증된 적이 없고, AI 모델이 코드를 얼마나 썼는지도 Thomas의 설명 말고는 근거가 없다. Adobe는 공개 입장을 내지 않았다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
-                "cap": "EffectCraft의 Graph editor와 이징을 적용한 키프레임. 이미지 제공: ArtCraft"
-              },
-              {
-                "t": "p",
-                "x": "Craft Apps는 전부 무료다. 이 글을 쓰는 지금 FilmCraft는 GitHub에서 스타 약 10,600개, 포크 4,200개를 받았다."
+                "x": "Split to Clips를 쓰면 대사·음악·환경음·효과음이 각기 다른 클립으로 타임라인에 올라가 턴오버에 바로 쓸 수 있다. 다만 필자는 분리가 믹스를 끝내 주지는 않는다고 짚는다. 분리는 믹스의 끝이 아니라 시작이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ArtCraftが無料の\nAdobe対抗OSSを公開",
-          "body": "ArtCraftがAIの助けで書いたFilmCraftとEffectCraftを公開した。",
-          "mini_headline": "ArtCraftの無料Adobe対抗ソフト",
+          "headline": "Premiereベータ版\nタイムラインで台詞分離",
+          "body": "PremiereベータのEnhance Audioが、台詞や音楽、効果音をステムに分ける。",
+          "mini_headline": "Premiereが台詞ステムを分離",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
-                "cap": "ArtCraftのFilmCraftはAdobe Premiereに代わるものとされる。画像提供:ArtCraft"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
               },
               {
                 "t": "p",
-                "x": "開発者のBrandon Thomasと彼の会社ArtCraftは、AdobeのCreative Cloudアプリを手本にした無料のオープンソースアプリ七つを公開した。Premiere Proの代替となるFilmCraftや、After Effects向けのEffectCraftも含まれる。Thomasによれば、アプリはAIコーディングモデルの助けを借りてRustで書かれ、動機はAdobeの解約金だったという。コードの記述にはAnthropicのClaude Opus 5.5を使ったと彼は話す。ArtCraftはこれらをアルファ版ソフトウェアと位置づけている。"
-              },
-              {
-                "t": "video",
-                "yt": "ZGeOTtmIoK0"
+                "x": "ロケ音声は不揃いで届くことが多い。別々の部屋で収録したピンマイクとブームマイク、移り変わる環境音、シーンに焼き込まれた音楽などだ。PremiereベータのEnhance Audioは、台詞、音楽、環境音、効果音、残響を一度の処理で分離し、それぞれのコントロールをタイムライン上で編集者に渡す。"
               },
               {
                 "t": "p",
-                "x": "FilmCraftはSourceモニターとProgramモニター、マルチトラックのタイムライン、リップル・ロール・スリップ・スライドのトリム、無制限の取り消しを備える。コーデックはFFmpegを使わず、プロジェクト自身が書いた。Premiere Proのプロジェクトは開けず、両者の間のタイムライン移行はFinal Cut Pro 7 XMLで行う。プロジェクトは機能の幅を約86%、「実作業への準備度」を約56%と評価している。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
-                "cap": "FilmCraftのScopesとTimeline。画像提供:ArtCraft"
+                "x": "台詞には専用の音量、Enhancementの量、声からだけ部屋の響きを取り除くReverbコントロールが付く。音楽、環境音、効果音にはそれぞれ音量とミュートがある。ソース分離はデバイス上で動く。音声強化には、完全にローカルで動くEnhance Speech V1か、Firefly経由のクラウドで動くAdobe最高品質の音声モデルV2を使う。"
               },
               {
                 "t": "p",
-                "x": "EffectCraftは306種のエフェクト、エクスプレッション、3D カメラとライトを備えるが、.aepや.aepxファイルは開けず、After Effectsのプラグインも動かない。"
+                "x": "各強化処理には前後それぞれ五秒のハンドルが付き、カット、フェード、トリムで再レンダリングが走らなくなった。ハンドルを越えて延ばすと新しい区間だけを処理する。V2ではその際に毎分二つの生成クレジットを消費し、V1は無料だ。"
               },
               {
                 "t": "p",
-                "x": "FilmCraftのすべての機能は、UI、コマンドラインツール、JSON制御チャネル、MCPサーバーのいずれからも実行できるコマンドになっている。READMEによると、スクリーンショットに写る予告編とグレーディングは、アプリを操作したAIエージェントが制作したものだ。クリーンルーム開発という主張は独自に検証されておらず、AIモデルがコードをどこまで書いたかはThomasの説明に依拠している。Adobeは公にコメントしていない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
-                "cap": "EffectCraftのGraph editorと、イージングをかけたキーフレーム。画像提供:ArtCraft"
-              },
-              {
-                "t": "p",
-                "x": "Craft Appsはすべて無料だ。執筆時点で、FilmCraftはGitHubで約10,600のスターと4,200のフォークを集めていた。"
+                "x": "Split to Clipsは、台詞、音楽、環境音、効果音を別々のクリップとしてタイムラインに並べ、ターンオーバーに使えるようにする。筆者の注意点は、分離でミックスが仕上がるわけではないということだ。ミックスの終わりではなく、始まりとして扱うべきである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ArtCraft发布免费\n开源Adobe替代品",
-          "body": "ArtCraft发布借助AI编写的开源软件FilmCraft与EffectCraft。",
-          "mini_headline": "ArtCraft的免费Adobe替代品",
+          "headline": "Premiere测试版\n时间线内拆分对白",
+          "body": "Premiere测试版的Enhance Audio可在时间线中把对白、音乐等拆成分轨。",
+          "mini_headline": "Premiere拆分对白分轨",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
-                "cap": "ArtCraft的FilmCraft旨在取代Adobe Premiere。图片来源:ArtCraft"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
               },
               {
                 "t": "p",
-                "x": "开发者Brandon Thomas和他的公司ArtCraft发布了七款免费开源应用,均以Adobe的Creative Cloud应用为蓝本,其中包括替代Premiere Pro的FilmCraft和对应After Effects的EffectCraft。据Thomas介绍,这些应用借助AI编程模型用Rust编写,起因是Adobe的解约费。他表示,代码是用Anthropic的Claude Opus 5.5编写的。ArtCraft将其标注为alpha版软件。"
-              },
-              {
-                "t": "video",
-                "yt": "ZGeOTtmIoK0"
+                "x": "外景录音常常参差不齐：不同房间里的领夹麦和枪麦、不断变化的环境声、混进场景里的背景音乐。Premiere测试版中的Enhance Audio可一次性分离对白、音乐、环境声、音效和混响，并在时间线上为剪辑师提供逐项控制。"
               },
               {
                 "t": "p",
-                "x": "FilmCraft提供Source和Program监视器、多轨时间线、波纹、滚动、滑移和滑动修剪,以及无限次撤销。其编解码器由项目自行编写,不依赖FFmpeg。它无法打开Premiere Pro项目,两者之间的时间线需通过Final Cut Pro 7 XML转移。项目方自评功能广度约为86%,“可用于实际工作”的程度约为56%。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
-                "cap": "FilmCraft中的Scopes与Timeline。图片来源:ArtCraft"
+                "x": "对白有独立的音量、Enhancement强度，以及只去除人声房间感的Reverb控制；音乐、环境声和音效则各有音量和静音。音源分离在设备端运行。人声增强可选完全本地运行的Enhance Speech V1，或通过Firefly在云端运行的V2，即Adobe质量最高的人声模型。"
               },
               {
                 "t": "p",
-                "x": "EffectCraft提供306种效果、表达式、3D 摄像机和灯光,但无法打开.aep或.aepx文件,After Effects插件也无法运行。"
+                "x": "每次增强两侧各带五秒手柄，剪切、淡入淡出和修剪不再触发重新渲染。延伸超出手柄时只处理新增部分；使用V2时每分钟消耗两个生成积分，V1则不收费。"
               },
               {
                 "t": "p",
-                "x": "FilmCraft的每项功能都是一条命令,可从UI、命令行工具、JSON控制通道或MCP服务器触发。README称,截图中的预告片和调色均由操作该应用的AI智能体完成。其“净室”开发的说法尚未经独立核实,AI模型究竟写了多少代码也只能依据Thomas的说法。Adobe尚未公开置评。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
-                "cap": "EffectCraft中带缓动关键帧的Graph editor。图片来源:ArtCraft"
-              },
-              {
-                "t": "p",
-                "x": "所有Craft Apps均免费。截至发稿时,FilmCraft在GitHub上约有10,600颗星和4,200个分叉。"
+                "x": "Split to Clips会把对白、音乐、环境声和音效作为独立片段放到时间线上，便于交接。作者提醒：分离并不能完成混音。应把它当作混音的开始，而不是终点。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ArtCraft lanza rivales de Adobe\ngratuitos y de código abierto",
-          "body": "ArtCraft lanzó FilmCraft y EffectCraft, rivales abiertos de Premiere Pro y After Effects que dice haber escrito con AI.",
-          "mini_headline": "Las alternativas gratuitas de ArtCraft a Adobe",
+          "headline": "La beta de Premiere separa\nstems de diálogo en el timeline",
+          "body": "Enhance Audio, en la beta de Premiere, separa voz, música, ambiente y efectos en stems en el timeline.",
+          "mini_headline": "Premiere separa stems de diálogo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
-                "cap": "FilmCraft, de ArtCraft, aspira a sustituir a Adobe Premiere. Crédito de imagen: ArtCraft"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
               },
               {
                 "t": "p",
-                "x": "El desarrollador Brandon Thomas y su empresa ArtCraft han lanzado siete aplicaciones gratuitas y de código abierto inspiradas en las apps de Creative Cloud de Adobe, entre ellas FilmCraft, alternativa a Premiere Pro, y EffectCraft, para After Effects. Según Thomas, las aplicaciones se escribieron en Rust con ayuda de un modelo de programación de AI, y su motivación fue la penalización por cancelación de Adobe. Afirma que usó Claude Opus 5.5, de Anthropic, para escribir el código. ArtCraft las califica como software en fase alfa."
-              },
-              {
-                "t": "video",
-                "yt": "ZGeOTtmIoK0"
+                "x": "El audio de rodaje suele llegar desigual: lavalieres y micrófonos de pértiga de salas distintas, ambiente cambiante, una música de fondo incrustada en la escena. Enhance Audio, en la beta de Premiere, separa voz, música, ambiente, efectos de sonido y reverberación en una sola pasada y da al editor un control para cada uno, en el timeline."
               },
               {
                 "t": "p",
-                "x": "FilmCraft ofrece monitores Source y Program, una línea de tiempo multipista, recortes de tipo ripple, roll, slip y slide, y deshacer ilimitado. Sus códecs los ha escrito el propio proyecto, sin FFmpeg. No puede abrir proyectos de Premiere Pro; las líneas de tiempo pasan de uno a otro mediante Final Cut Pro 7 XML. El proyecto calcula que cubre alrededor del 86% de las funciones y que está en torno a un 56% “listo para trabajo real”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
-                "cap": "Scopes y Timeline en FilmCraft. Crédito de imagen: ArtCraft"
+                "x": "El diálogo tiene su propio volumen, una cantidad de Enhancement y un control de Reverb que quita la sala solo de la voz; música, ambiente y efectos tienen cada uno volumen y silencio. La separación de fuentes se ejecuta en el dispositivo. La mejora de voz usa Enhance Speech V1, totalmente local, o V2, el modelo de voz de mayor calidad de Adobe, en la nube a través de Firefly."
               },
               {
                 "t": "p",
-                "x": "EffectCraft ofrece 306 efectos, expresiones, cámaras y luces 3D, pero no puede abrir archivos .aep ni .aepx, y los plugins de After Effects no funcionan."
+                "x": "Cada mejora lleva cinco segundos de margen por lado, y los cortes, fundidos y recortes ya no obligan a volver a renderizar. Al extender más allá del margen solo se procesa la parte nueva; en V2 eso consume dos créditos generativos por minuto, mientras que V1 no cuesta nada."
               },
               {
                 "t": "p",
-                "x": "Cada función de FilmCraft es un comando que puede activarse desde la UI, una herramienta de línea de comandos, un canal de control JSON o un servidor MCP, y el README indica que el tráiler y las correcciones de color de sus capturas los produjo un agente de AI que manejaba la aplicación. La afirmación de que se desarrolló en sala limpia no se ha verificado de forma independiente, y cuánto código escribió el modelo de AI depende del relato de Thomas. Adobe no ha hecho comentarios públicos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
-                "cap": "Graph editor con keyframes suavizados en EffectCraft. Crédito de imagen: ArtCraft"
-              },
-              {
-                "t": "p",
-                "x": "Todas las Craft Apps son gratuitas. Al cierre de esta edición, FilmCraft tenía unas 10,600 estrellas y 4,200 forks en GitHub."
+                "x": "Split to Clips coloca voz, música, ambiente y efectos en el timeline como clips separados para la entrega. La advertencia del autor: la separación no termina una mezcla. Hay que tratarla como el inicio de la mezcla, no como el final."
               }
             ]
           }
@@ -307,197 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ArtCraft, 무료\n오픈소스 Adobe 대항마",
-          "body": "ArtCraft가 AI로 짠 FilmCraft·EffectCraft를 공개했다.",
-          "mini_headline": "ArtCraft의 무료 Adobe 대항마",
+          "headline": "Premiere 베타,\n타임라인서 대사 분리",
+          "body": "Premiere 베타 Enhance Audio가 타임라인에서 대사 스템을 나눈다.",
+          "mini_headline": "Premiere, 대사 스템 분리",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
-                "cap": "ArtCraft의 FilmCraft는 Adobe Premiere를 대체하려는 앱이다. 이미지 제공: ArtCraft"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
               },
               {
                 "t": "p",
-                "x": "개발자 Brandon Thomas와 그의 회사 ArtCraft가 Adobe의 Creative Cloud 앱을 본뜬 무료 오픈소스 애플리케이션 일곱 개를 공개했다. Premiere Pro 대안인 FilmCraft와 After Effects용 EffectCraft도 여기에 포함된다. Thomas에 따르면 이 앱들은 AI 코딩 모델의 도움을 받아 Rust로 작성했고, 계기는 Adobe의 해지 위약금이었다. 그는 코드 작성에 Anthropic의 Claude Opus 5.5를 썼다고 말한다. ArtCraft는 이 앱들을 알파 버전 소프트웨어로 분류한다."
-              },
-              {
-                "t": "video",
-                "yt": "ZGeOTtmIoK0"
+                "x": "현장 오디오는 고르지 않게 들어오기 일쑤다. 서로 다른 공간에서 녹음한 라발리에와 붐 마이크, 계속 바뀌는 환경음, 장면에 섞여 버린 배경 음악이 그렇다. Premiere 베타의 Enhance Audio는 대사, 음악, 환경음, 효과음, 잔향을 한 번에 분리하고, 편집자가 타임라인 안에서 각각을 조절할 수 있게 한다."
               },
               {
                 "t": "p",
-                "x": "FilmCraft는 Source·Program 모니터, 멀티트랙 타임라인, 리플·롤·슬립·슬라이드 트림, 무제한 실행 취소를 갖췄다. 코덱은 FFmpeg 없이 프로젝트가 직접 작성했다. Premiere Pro 프로젝트는 열 수 없고, 두 프로그램 사이의 타임라인 이동은 Final Cut Pro 7 XML로 한다. 프로젝트 측은 기능 범위를 약 86%, “실제 작업에 쓸 준비”를 약 56%로 평가한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
-                "cap": "FilmCraft의 Scopes와 Timeline. 이미지 제공: ArtCraft"
+                "x": "대사에는 별도의 볼륨, Enhancement 강도, 그리고 목소리에서만 공간감을 걷어 내는 Reverb 조절이 붙는다. 음악, 환경음, 효과음에는 각각 볼륨과 음소거가 있다. 소스 분리는 기기에서 실행된다. 음성 향상은 완전히 로컬에서 도는 Enhance Speech V1, 또는 Firefly를 거쳐 클라우드에서 도는 Adobe 최고 품질의 음성 모델 V2를 쓴다."
               },
               {
                 "t": "p",
-                "x": "EffectCraft는 효과 306개와 익스프레션, 3D 카메라와 조명을 제공하지만 .aep·.aepx 파일은 열지 못하고 After Effects 플러그인도 실행되지 않는다."
+                "x": "향상 처리마다 앞뒤로 다섯 초씩 핸들이 붙어, 컷·페이드·트림을 해도 다시 렌더링하지 않는다. 핸들을 넘겨 늘리면 새로 늘어난 구간만 처리한다. V2에서는 이때 분당 생성 크레딧 두 개가 들고, V1은 비용이 없다."
               },
               {
                 "t": "p",
-                "x": "FilmCraft의 모든 기능은 UI, 명령줄 도구, JSON 제어 채널, MCP 서버 어디서든 실행할 수 있는 명령이다. README에 따르면 스크린숏 속 트레일러와 그레이딩은 앱을 조작한 AI 에이전트가 만들었다. 클린룸 개발이라는 주장은 독립적으로 검증되지 않았고, AI 모델이 코드를 얼마나 작성했는지는 Thomas의 설명에 기댈 수밖에 없다. Adobe는 공개 입장을 내지 않았다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
-                "cap": "EffectCraft의 Graph editor와 이징을 적용한 키프레임. 이미지 제공: ArtCraft"
-              },
-              {
-                "t": "p",
-                "x": "Craft Apps는 모두 무료다. 이 글을 쓰는 시점에 FilmCraft는 GitHub에서 스타 약 10,600개, 포크 4,200개를 기록했다."
+                "x": "Split to Clips는 대사, 음악, 환경음, 효과음을 별도 클립으로 타임라인에 올려 턴오버에 쓰게 한다. 필자는 분리가 믹스를 끝내 주지는 않는다고 짚는다. 믹스의 끝이 아니라 시작으로 봐야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ArtCraftが無料の\nAdobe対抗OSSを公開",
-          "body": "ArtCraftがAIの助けで書いたFilmCraftとEffectCraftを公開した。",
-          "mini_headline": "ArtCraftの無料Adobe対抗ソフト",
+          "headline": "Premiereベータ版\nタイムラインで台詞分離",
+          "body": "PremiereベータのEnhance Audioが、台詞や音楽、効果音をステムに分ける。",
+          "mini_headline": "Premiereが台詞ステムを分離",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
-                "cap": "ArtCraftのFilmCraftはAdobe Premiereに代わるものとされる。画像提供:ArtCraft"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
               },
               {
                 "t": "p",
-                "x": "開発者のBrandon Thomasと彼の会社ArtCraftは、AdobeのCreative Cloudアプリを手本にした無料のオープンソースアプリ七つを公開した。Premiere Proの代替となるFilmCraftや、After Effects向けのEffectCraftも含まれる。Thomasによれば、アプリはAIコーディングモデルの助けを借りてRustで書かれ、動機はAdobeの解約金だったという。コードの記述にはAnthropicのClaude Opus 5.5を使ったと彼は話す。ArtCraftはこれらをアルファ版ソフトウェアと位置づけている。"
-              },
-              {
-                "t": "video",
-                "yt": "ZGeOTtmIoK0"
+                "x": "ロケ音声は不揃いで届くことが多い。別々の部屋で収録したピンマイクとブームマイク、移り変わる環境音、シーンに焼き込まれた音楽などだ。PremiereベータのEnhance Audioは、台詞、音楽、環境音、効果音、残響を一度の処理で分離し、それぞれのコントロールをタイムライン上で編集者に渡す。"
               },
               {
                 "t": "p",
-                "x": "FilmCraftはSourceモニターとProgramモニター、マルチトラックのタイムライン、リップル・ロール・スリップ・スライドのトリム、無制限の取り消しを備える。コーデックはFFmpegを使わず、プロジェクト自身が書いた。Premiere Proのプロジェクトは開けず、両者の間のタイムライン移行はFinal Cut Pro 7 XMLで行う。プロジェクトは機能の幅を約86%、「実作業への準備度」を約56%と評価している。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
-                "cap": "FilmCraftのScopesとTimeline。画像提供:ArtCraft"
+                "x": "台詞には専用の音量、Enhancementの量、声からだけ部屋の響きを取り除くReverbコントロールが付く。音楽、環境音、効果音にはそれぞれ音量とミュートがある。ソース分離はデバイス上で動く。音声強化には、完全にローカルで動くEnhance Speech V1か、Firefly経由のクラウドで動くAdobe最高品質の音声モデルV2を使う。"
               },
               {
                 "t": "p",
-                "x": "EffectCraftは306種のエフェクト、エクスプレッション、3D カメラとライトを備えるが、.aepや.aepxファイルは開けず、After Effectsのプラグインも動かない。"
+                "x": "各強化処理には前後それぞれ五秒のハンドルが付き、カット、フェード、トリムで再レンダリングが走らなくなった。ハンドルを越えて延ばすと新しい区間だけを処理する。V2ではその際に毎分二つの生成クレジットを消費し、V1は無料だ。"
               },
               {
                 "t": "p",
-                "x": "FilmCraftのすべての機能は、UI、コマンドラインツール、JSON制御チャネル、MCPサーバーのいずれからも実行できるコマンドになっている。READMEによると、スクリーンショットに写る予告編とグレーディングは、アプリを操作したAIエージェントが制作したものだ。クリーンルーム開発という主張は独自に検証されておらず、AIモデルがコードをどこまで書いたかはThomasの説明に依拠している。Adobeは公にコメントしていない。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
-                "cap": "EffectCraftのGraph editorと、イージングをかけたキーフレーム。画像提供:ArtCraft"
-              },
-              {
-                "t": "p",
-                "x": "Craft Appsはすべて無料だ。執筆時点で、FilmCraftはGitHubで約10,600のスターと4,200のフォークを集めていた。"
+                "x": "Split to Clipsは、台詞、音楽、環境音、効果音を別々のクリップとしてタイムラインに並べ、ターンオーバーに使えるようにする。筆者の注意点は、分離でミックスが仕上がるわけではないということだ。ミックスの終わりではなく、始まりとして扱うべきである。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ArtCraft发布免费\n开源Adobe替代品",
-          "body": "ArtCraft发布借助AI编写的开源软件FilmCraft与EffectCraft。",
-          "mini_headline": "ArtCraft的免费Adobe替代品",
+          "headline": "Premiere测试版\n时间线内拆分对白",
+          "body": "Premiere测试版的Enhance Audio可在时间线中把对白、音乐等拆成分轨。",
+          "mini_headline": "Premiere拆分对白分轨",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
-                "cap": "ArtCraft的FilmCraft旨在取代Adobe Premiere。图片来源:ArtCraft"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
               },
               {
                 "t": "p",
-                "x": "开发者Brandon Thomas和他的公司ArtCraft发布了七款免费开源应用,均以Adobe的Creative Cloud应用为蓝本,其中包括替代Premiere Pro的FilmCraft和对应After Effects的EffectCraft。据Thomas介绍,这些应用借助AI编程模型用Rust编写,起因是Adobe的解约费。他表示,代码是用Anthropic的Claude Opus 5.5编写的。ArtCraft将其标注为alpha版软件。"
-              },
-              {
-                "t": "video",
-                "yt": "ZGeOTtmIoK0"
+                "x": "外景录音常常参差不齐：不同房间里的领夹麦和枪麦、不断变化的环境声、混进场景里的背景音乐。Premiere测试版中的Enhance Audio可一次性分离对白、音乐、环境声、音效和混响，并在时间线上为剪辑师提供逐项控制。"
               },
               {
                 "t": "p",
-                "x": "FilmCraft提供Source和Program监视器、多轨时间线、波纹、滚动、滑移和滑动修剪,以及无限次撤销。其编解码器由项目自行编写,不依赖FFmpeg。它无法打开Premiere Pro项目,两者之间的时间线需通过Final Cut Pro 7 XML转移。项目方自评功能广度约为86%,“可用于实际工作”的程度约为56%。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
-                "cap": "FilmCraft中的Scopes与Timeline。图片来源:ArtCraft"
+                "x": "对白有独立的音量、Enhancement强度，以及只去除人声房间感的Reverb控制；音乐、环境声和音效则各有音量和静音。音源分离在设备端运行。人声增强可选完全本地运行的Enhance Speech V1，或通过Firefly在云端运行的V2，即Adobe质量最高的人声模型。"
               },
               {
                 "t": "p",
-                "x": "EffectCraft提供306种效果、表达式、3D 摄像机和灯光,但无法打开.aep或.aepx文件,After Effects插件也无法运行。"
+                "x": "每次增强两侧各带五秒手柄，剪切、淡入淡出和修剪不再触发重新渲染。延伸超出手柄时只处理新增部分；使用V2时每分钟消耗两个生成积分，V1则不收费。"
               },
               {
                 "t": "p",
-                "x": "FilmCraft的每项功能都是一条命令,可从UI、命令行工具、JSON控制通道或MCP服务器触发。README称,截图中的预告片和调色均由操作该应用的AI智能体完成。其“净室”开发的说法尚未经独立核实,AI模型究竟写了多少代码也只能依据Thomas的说法。Adobe尚未公开置评。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
-                "cap": "EffectCraft中带缓动关键帧的Graph editor。图片来源:ArtCraft"
-              },
-              {
-                "t": "p",
-                "x": "所有Craft Apps均免费。截至发稿时,FilmCraft在GitHub上约有10,600颗星和4,200个分叉。"
+                "x": "Split to Clips会把对白、音乐、环境声和音效作为独立片段放到时间线上，便于交接。作者提醒：分离并不能完成混音。应把它当作混音的开始，而不是终点。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ArtCraft lanza rivales de Adobe\ngratuitos y de código abierto",
-          "body": "ArtCraft lanzó FilmCraft y EffectCraft, rivales abiertos de Premiere Pro y After Effects que dice haber escrito con AI.",
-          "mini_headline": "Las alternativas gratuitas de ArtCraft a Adobe",
+          "headline": "La beta de Premiere separa\nstems de diálogo en el timeline",
+          "body": "Enhance Audio, en la beta de Premiere, separa voz, música, ambiente y efectos en stems en el timeline.",
+          "mini_headline": "Premiere separa stems de diálogo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
-                "cap": "FilmCraft, de ArtCraft, aspira a sustituir a Adobe Premiere. Crédito de imagen: ArtCraft"
+                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
               },
               {
                 "t": "p",
-                "x": "El desarrollador Brandon Thomas y su empresa ArtCraft han lanzado siete aplicaciones gratuitas y de código abierto inspiradas en las apps de Creative Cloud de Adobe, entre ellas FilmCraft, alternativa a Premiere Pro, y EffectCraft, para After Effects. Según Thomas, las aplicaciones se escribieron en Rust con ayuda de un modelo de programación de AI, y su motivación fue la penalización por cancelación de Adobe. Afirma que usó Claude Opus 5.5, de Anthropic, para escribir el código. ArtCraft las califica como software en fase alfa."
-              },
-              {
-                "t": "video",
-                "yt": "ZGeOTtmIoK0"
+                "x": "El audio de rodaje suele llegar desigual: lavalieres y micrófonos de pértiga de salas distintas, ambiente cambiante, una música de fondo incrustada en la escena. Enhance Audio, en la beta de Premiere, separa voz, música, ambiente, efectos de sonido y reverberación en una sola pasada y da al editor un control para cada uno, en el timeline."
               },
               {
                 "t": "p",
-                "x": "FilmCraft ofrece monitores Source y Program, una línea de tiempo multipista, recortes de tipo ripple, roll, slip y slide, y deshacer ilimitado. Sus códecs los ha escrito el propio proyecto, sin FFmpeg. No puede abrir proyectos de Premiere Pro; las líneas de tiempo pasan de uno a otro mediante Final Cut Pro 7 XML. El proyecto calcula que cubre alrededor del 86% de las funciones y que está en torno a un 56% “listo para trabajo real”."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
-                "cap": "Scopes y Timeline en FilmCraft. Crédito de imagen: ArtCraft"
+                "x": "El diálogo tiene su propio volumen, una cantidad de Enhancement y un control de Reverb que quita la sala solo de la voz; música, ambiente y efectos tienen cada uno volumen y silencio. La separación de fuentes se ejecuta en el dispositivo. La mejora de voz usa Enhance Speech V1, totalmente local, o V2, el modelo de voz de mayor calidad de Adobe, en la nube a través de Firefly."
               },
               {
                 "t": "p",
-                "x": "EffectCraft ofrece 306 efectos, expresiones, cámaras y luces 3D, pero no puede abrir archivos .aep ni .aepx, y los plugins de After Effects no funcionan."
+                "x": "Cada mejora lleva cinco segundos de margen por lado, y los cortes, fundidos y recortes ya no obligan a volver a renderizar. Al extender más allá del margen solo se procesa la parte nueva; en V2 eso consume dos créditos generativos por minuto, mientras que V1 no cuesta nada."
               },
               {
                 "t": "p",
-                "x": "Cada función de FilmCraft es un comando que puede activarse desde la UI, una herramienta de línea de comandos, un canal de control JSON o un servidor MCP, y el README indica que el tráiler y las correcciones de color de sus capturas los produjo un agente de AI que manejaba la aplicación. La afirmación de que se desarrolló en sala limpia no se ha verificado de forma independiente, y cuánto código escribió el modelo de AI depende del relato de Thomas. Adobe no ha hecho comentarios públicos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
-                "cap": "Graph editor con keyframes suavizados en EffectCraft. Crédito de imagen: ArtCraft"
-              },
-              {
-                "t": "p",
-                "x": "Todas las Craft Apps son gratuitas. Al cierre de esta edición, FilmCraft tenía unas 10,600 estrellas y 4,200 forks en GitHub."
+                "x": "Split to Clips coloca voz, música, ambiente y efectos en el timeline como clips separados para la entrega. La advertencia del autor: la separación no termina una mezcla. Hay que tratarla como el inicio de la mezcla, no como el final."
               }
             ]
           }
@@ -505,237 +315,267 @@
       }
     },
     {
-      "id": "movies-nvidia-editors-day",
+      "id": "movies-sora-startup-handoff",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Nvidia, 영상 편집에\nRTX Spark 제안",
-      "body": "Nvidia Editor's Day는 RTX Spark를 로컬 AI용으로 알렸다.",
-      "mini_headline": "편집자를 위한 RTX Spark",
+      "headline": "OpenAI, Sora를\n영화 스타트업에 넘기나",
+      "body": "OpenAI가 접은 Sora를 영화 도구 스타트업에 넘기려 협상 중이라는 보도다.",
+      "mini_headline": "Sora, 영화 스타트업에 갈 수도",
       "tool": "Movies",
-      "source": "postPerspective",
-      "url": "https://postperspective.com/nvidias-editors-day-new-windows-based-rtx-spark-computers/",
+      "source": "DigitalToday",
+      "url": "https://www.digitaltoday.co.kr/en/view/113477/openai-sora-may-return-as-ai-for-filmmakers",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+            "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
+            "cap": "OpenAI의 AI 동영상 앱 Sora. [사진: OpenAI]"
           },
           {
             "t": "p",
-            "x": "Mike McCarthy는 San Francisco에서 열린 Nvidia의 “Editor’s Day”에 참석했다. RTX Spark 노트북·데스크톱 라인업 출시를 앞두고 회사가 마련한 행사로, AI와 새 하드웨어로 로컬 AI 처리를 어떻게 돌리는지 다룬 발표가 하루 종일 이어졌다."
+            "x": "OpenAI가 보류해 둔 동영상 생성 AI Sora를 한 스타트업에 넘기려고 협상 중이라고 The Information이 현지시간 12일(Oct. 12) 보도했다."
           },
           {
             "t": "p",
-            "x": "통합 메모리 덕분에 GPUs가 시스템 메모리를 최대 전부까지 쓸 수 있어, 돌릴 수 있는 AI 모델의 선택지가 넓어진다. Nvidia는 Adobe와 손잡고 클라우드에서 돌던 Creative Cloud 기능 일부를 로컬로 가져왔다. Premiere의 이미지 마스킹과 오디오 향상, Photoshop의 개체 제거 같은 기능이다. 클라우드와 로컬 처리 중 하나를 고르는 UI 옵션도 새로 생겼다."
-          },
-          {
-            "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+            "x": "보도에 따르면 협상 상대는 영화 제작자용 AI 동영상 기술을 만드는 스타트업으로, Sora 활용 방안을 OpenAI와 논의하고 있다. Sora를 넘겨받아 손본 다음 그 위에 소프트웨어나 서비스를 얹어 팔겠다는 계획이다."
           },
           {
             "t": "p",
-            "x": "두 번째로 내민 것은 MCP로 묶은 에이전트형 AI다. SparkN1x는 ARM 프로세서를 CPU로 쓰고 Windows 11 for ARM에서 돌아간다. McCarthy가 로컬 Qwen3.8-27B 모델로 Hermes 하네스를 시험해 보니 MCP로 Blender에 붙지 못했고, ComfyUI 프롬프트에서 단어 하나 바꾸는 데 40분이 걸렸다. “에이전트형 AI를 처음 써 본 경험은 긍정적이지 않았다.”"
-          },
-          {
-            "t": "img",
-            "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+            "x": "이 스타트업은 몇 달 전 할리우드(Hollywood) 거물 Jeffrey Katzenberg와 Sora 연구를 이끈 Bill Peebles, Dropbox 최고재무책임자 출신 Sujay Jaswa가 함께 세웠다. 회사 이름은 알려지지 않았다."
           },
           {
             "t": "p",
-            "x": "Nvidia 계산으로는 RTX Spark를 쉬지 않고 돌리면 한 달에 $1,200 어치의 AI-token을 처리할 수 있다. 실사용 테스트 대부분에서 McCarthy의 Surface Ultra 노트북은 자신의 Core i7 데스크톱 워크스테이션과 비슷한 성능을 냈다."
+            "x": "Sora 가중치, 즉 모델이 질문에 어떻게 답할지 정하는 매개변수 값까지 스타트업에 넘어갈지는 분명하지 않다."
+          },
+          {
+            "t": "p",
+            "x": "The Information은 협상 내용을 잘 아는 소식통을 인용해, 합의가 이뤄지면 스타트업이 Sora를 크게 뜯어고칠 만큼 깊은 접근 권한을 얻는다고 전했다. Peebles가 Sora 개발을 이끌며 모델 구조와 학습 방법을 이미 꿰고 있으니 가중치까지 넘겨도 이상할 게 없다는 분석도 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "거래가 성사되면 OpenAI 몫으로 스타트업 지분이 돌아간다. 규모는 확인되지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "OpenAI는 올해 초 사업을 조정하면서 Sora 모델과 오디오 기반 앱을 접었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nvidia pitches RTX Spark\nto video editors",
-          "body": "Nvidia's Editor's Day framed its new RTX Spark laptops and desktops as hardware for local AI processing in editing.",
-          "mini_headline": "RTX Spark for editors",
+          "headline": "OpenAI may hand Sora\nto a filmmaker startup",
+          "body": "OpenAI is reportedly negotiating to transfer its discontinued Sora video model to a startup building filmmaker tools.",
+          "mini_headline": "Sora may go to a film startup",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
+                "cap": "OpenAI's AI video app Sora. [Photo: OpenAI]"
               },
               {
                 "t": "p",
-                "x": "Mike McCarthy attended Nvidia’s “Editor’s Day” in San Francisco, the company’s lead-up to the launch of its RTX Spark line of laptops and desktops — a day of presentations about AI and how the new hardware enables local AI processing."
+                "x": "OpenAI is negotiating to hand over its shelved video-generation AI, Sora, to a startup, The Information reported on Oct. 12 local time."
               },
               {
                 "t": "p",
-                "x": "Unified memory gives GPUs access to up to the entire system memory, opening up more AI model options. Nvidia has worked with Adobe to make some cloud-processed Creative Cloud functions available locally, including image masking and audio enhancement in Premiere and object removal in Photoshop, with new UI options to choose cloud or local processing."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+                "x": "The report said a startup developing AI video technology for filmmakers is in talks with OpenAI to use Sora. The startup plans to take over Sora, improve it and sell software or services based on it."
               },
               {
                 "t": "p",
-                "x": "The second pitch is agentic AI via MCP. The SparkN1x’s CPU is an ARM processor, running Windows 11 for ARM. McCarthy tried the Hermes harness with the local Qwen3.8-27B model: it couldn’t connect to Blender via MCP, and changing one word in a ComfyUI prompt took 40 minutes. “My first attempts at using agentic AI have not been a positive experience.”"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+                "x": "The startup in talks with OpenAI was founded months ago by Hollywood heavyweight Jeffrey Katzenberg, Bill Peebles, who led Sora research, and Sujay Jaswa, a former chief financial officer at Dropbox. Its name is not known."
               },
               {
                 "t": "p",
-                "x": "Nvidia calculates a fully busy RTX Spark could do $1,200 worth of AI-token processing per month. In most real-world tests, McCarthy’s Surface Ultra laptop is on par with his Core i7 desktop workstation."
+                "x": "It is unclear whether the startup would also receive Sora weights, the parameter values that determine how a model answers questions."
+              },
+              {
+                "t": "p",
+                "x": "If a deal is reached, the startup would get deep access rights sufficient to significantly modify Sora, The Information reported, citing a source familiar with the talks. The Information said it would not be strange to also share the weights, since Peebles led Sora's development and already knows the model architecture and training method."
+              },
+              {
+                "t": "p",
+                "x": "If the deal is completed, OpenAI would receive an equity stake in the startup. The size of the stake has not been confirmed."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI halted the Sora model and an audio-based app earlier this year as part of a business adjustment."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Nvidia, 영상 편집에\nRTX Spark 제안",
-          "body": "Nvidia Editor's Day는 RTX Spark를 로컬 AI용으로 알렸다.",
-          "mini_headline": "편집자를 위한 RTX Spark",
+          "headline": "OpenAI, Sora를\n영화 스타트업에 넘기나",
+          "body": "OpenAI가 접은 Sora를 영화 도구 스타트업에 넘기려 협상 중이라는 보도다.",
+          "mini_headline": "Sora, 영화 스타트업에 갈 수도",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
+                "cap": "OpenAI의 AI 동영상 앱 Sora. [사진: OpenAI]"
               },
               {
                 "t": "p",
-                "x": "Mike McCarthy는 San Francisco에서 열린 Nvidia의 “Editor’s Day”에 참석했다. RTX Spark 노트북·데스크톱 라인업 출시를 앞두고 회사가 마련한 행사로, AI와 새 하드웨어로 로컬 AI 처리를 어떻게 돌리는지 다룬 발표가 하루 종일 이어졌다."
+                "x": "OpenAI가 보류해 둔 동영상 생성 AI Sora를 한 스타트업에 넘기려고 협상 중이라고 The Information이 현지시간 12일(Oct. 12) 보도했다."
               },
               {
                 "t": "p",
-                "x": "통합 메모리 덕분에 GPUs가 시스템 메모리를 최대 전부까지 쓸 수 있어, 돌릴 수 있는 AI 모델의 선택지가 넓어진다. Nvidia는 Adobe와 손잡고 클라우드에서 돌던 Creative Cloud 기능 일부를 로컬로 가져왔다. Premiere의 이미지 마스킹과 오디오 향상, Photoshop의 개체 제거 같은 기능이다. 클라우드와 로컬 처리 중 하나를 고르는 UI 옵션도 새로 생겼다."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+                "x": "보도에 따르면 협상 상대는 영화 제작자용 AI 동영상 기술을 만드는 스타트업으로, Sora 활용 방안을 OpenAI와 논의하고 있다. Sora를 넘겨받아 손본 다음 그 위에 소프트웨어나 서비스를 얹어 팔겠다는 계획이다."
               },
               {
                 "t": "p",
-                "x": "두 번째로 내민 것은 MCP로 묶은 에이전트형 AI다. SparkN1x는 ARM 프로세서를 CPU로 쓰고 Windows 11 for ARM에서 돌아간다. McCarthy가 로컬 Qwen3.8-27B 모델로 Hermes 하네스를 시험해 보니 MCP로 Blender에 붙지 못했고, ComfyUI 프롬프트에서 단어 하나 바꾸는 데 40분이 걸렸다. “에이전트형 AI를 처음 써 본 경험은 긍정적이지 않았다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+                "x": "이 스타트업은 몇 달 전 할리우드(Hollywood) 거물 Jeffrey Katzenberg와 Sora 연구를 이끈 Bill Peebles, Dropbox 최고재무책임자 출신 Sujay Jaswa가 함께 세웠다. 회사 이름은 알려지지 않았다."
               },
               {
                 "t": "p",
-                "x": "Nvidia 계산으로는 RTX Spark를 쉬지 않고 돌리면 한 달에 $1,200 어치의 AI-token을 처리할 수 있다. 실사용 테스트 대부분에서 McCarthy의 Surface Ultra 노트북은 자신의 Core i7 데스크톱 워크스테이션과 비슷한 성능을 냈다."
+                "x": "Sora 가중치, 즉 모델이 질문에 어떻게 답할지 정하는 매개변수 값까지 스타트업에 넘어갈지는 분명하지 않다."
+              },
+              {
+                "t": "p",
+                "x": "The Information은 협상 내용을 잘 아는 소식통을 인용해, 합의가 이뤄지면 스타트업이 Sora를 크게 뜯어고칠 만큼 깊은 접근 권한을 얻는다고 전했다. Peebles가 Sora 개발을 이끌며 모델 구조와 학습 방법을 이미 꿰고 있으니 가중치까지 넘겨도 이상할 게 없다는 분석도 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "거래가 성사되면 OpenAI 몫으로 스타트업 지분이 돌아간다. 규모는 확인되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI는 올해 초 사업을 조정하면서 Sora 모델과 오디오 기반 앱을 접었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nvidia、映像編集者に\nRTX Sparkを売り込む",
-          "body": "NvidiaはEditor's DayでRTX SparkをローカルAI向けに打ち出した。",
-          "mini_headline": "編集者向けのRTX Spark",
+          "headline": "OpenAI、Soraを\n映画系新興企業へ譲渡か",
+          "body": "OpenAIが終了したSoraを映画ツールの新興企業に譲る交渉中と報じられた。",
+          "mini_headline": "Soraが映画系新興企業へ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
+                "cap": "OpenAIのAI動画アプリSora。[写真：OpenAI]"
               },
               {
                 "t": "p",
-                "x": "Mike McCarthyは、San Franciscoで開かれたNvidiaの「Editor’s Day」に参加した。ノートPCとデスクトップからなるRTX Sparkシリーズの発売に向けた同社のイベントで、AIと、新しいハードウェアがいかにローカルAI処理を可能にするかをめぐるプレゼンテーションが終日続いた。"
+                "x": "OpenAIが棚上げした動画生成AI「Sora」をスタートアップに引き渡す交渉を進めていると、The Informationが現地時間12日（Oct. 12）に報じた。"
               },
               {
                 "t": "p",
-                "x": "ユニファイドメモリにより、GPUsは最大でシステムメモリ全体にアクセスでき、選べるAIモデルの幅が広がる。NvidiaはAdobeと協力し、クラウドで処理していたCreative Cloudの一部機能をローカルで使えるようにした。Premiereの画像マスキングと音声補正、Photoshopのオブジェクト削除などが対象で、クラウド処理とローカル処理を選べる新しいUIオプションも加わった。"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+                "x": "報道によると、映画制作者向けのAI動画技術を開発するスタートアップが、Soraの利用をめぐってOpenAIと協議している。このスタートアップはSoraを引き継いで改良し、それを基にしたソフトウェアやサービスを販売する計画だ。"
               },
               {
                 "t": "p",
-                "x": "二つ目の売り込みは、MCPを介したエージェント型AIだ。SparkN1xのCPUはARMプロセッサーで、Windows 11 for ARMで動く。McCarthyはローカルのQwen3.8-27B モデルでHermesハーネスを試したが、MCP経由でBlenderに接続できず、ComfyUIのプロンプトの単語を一つ変えるのに40分かかった。「エージェント型AIを使う最初の試みは、好ましい体験ではなかった」"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+                "x": "OpenAIと交渉中のスタートアップは、ハリウッド（Hollywood）の大物Jeffrey Katzenberg、Sora研究を率いたBill Peebles、Dropboxの元最高財務責任者Sujay Jaswaが数か月前に設立した。社名は明らかになっていない。"
               },
               {
                 "t": "p",
-                "x": "Nvidiaの試算では、フル稼働のRTX Sparkは月に$1,200相当のAI-token 処理をこなせる。実環境のテストの大半で、McCarthyのSurface Ultraノートは、彼のCore i7 デスクトップワークステーションと互角だった。"
+                "x": "モデルが質問にどう答えるかを決めるパラメーター値であるSoraの重みまで、スタートアップが受け取るかどうかは不明だ。"
+              },
+              {
+                "t": "p",
+                "x": "協議に詳しい関係者の話としてThe Informationが報じたところでは、合意に至ればスタートアップはSoraを大幅に改変できるだけの深いアクセス権を得る。The Informationは、PeeblesがSoraの開発を率い、モデルの構造と学習方法をすでに把握していることから、重みを共有しても不思議ではないとした。"
+              },
+              {
+                "t": "p",
+                "x": "取引が成立すれば、OpenAIはスタートアップの株式を受け取る。その規模は確認されていない。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIは今年初め、事業調整の一環としてSoraモデルと音声ベースのアプリを停止した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nvidia向视频剪辑师\n推介RTX Spark",
-          "body": "Nvidia在Editor's Day上将RTX Spark定位为本地AI剪辑硬件。",
-          "mini_headline": "面向剪辑师的RTX Spark",
+          "headline": "OpenAI或将Sora\n交给电影初创公司",
+          "body": "据报道，OpenAI正洽谈将已停用的Sora视频模型转给一家电影工具初创公司。",
+          "mini_headline": "Sora或归电影初创公司",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
+                "cap": "OpenAI的AI视频应用Sora。[图片：OpenAI]"
               },
               {
                 "t": "p",
-                "x": "Mike McCarthy参加了Nvidia在San Francisco举办的“Editor’s Day”。这是该公司为RTX Spark系列笔记本和台式机发布所做的预热活动,一整天的演讲围绕AI以及新硬件如何实现本地AI处理展开。"
+                "x": "据The Information当地时间12日（Oct. 12）报道，OpenAI正在洽谈将其已搁置的视频生成AI Sora交给一家初创公司。"
               },
               {
                 "t": "p",
-                "x": "统一内存让GPUs最多可以访问全部系统内存,从而可选用更多AI模型。Nvidia与Adobe合作,把部分原本在云端处理的Creative Cloud功能搬到本地,包括Premiere中的图像蒙版和音频增强,以及Photoshop中的对象移除,并新增了可选择云端或本地处理的UI选项。"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+                "x": "报道称，一家为电影人开发AI视频技术的初创公司正与OpenAI商谈使用Sora。该公司计划接手Sora并加以改进，再销售基于它的软件或服务。"
               },
               {
                 "t": "p",
-                "x": "第二个卖点是通过MCP实现的智能体AI。SparkN1x的CPU是ARM处理器,运行Windows 11 for ARM。McCarthy用本地Qwen3.8-27B 模型试用了Hermes框架:它无法通过MCP连接Blender,在ComfyUI提示词里改一个词花了40分钟。“我最初几次使用智能体AI的体验并不好。”"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+                "x": "与OpenAI洽谈的这家初创公司由好莱坞（Hollywood）重量级人物Jeffrey Katzenberg、曾领导Sora研究的Bill Peebles，以及Dropbox前首席财务官Sujay Jaswa于数月前创立，公司名称尚不清楚。"
               },
               {
                 "t": "p",
-                "x": "Nvidia估算,满负荷运行的RTX Spark每月可完成价值$1,200的AI-token 处理。在大多数实际测试中,McCarthy的Surface Ultra笔记本与他的Core i7 台式工作站不相上下。"
+                "x": "目前尚不清楚该公司是否还会获得Sora的权重，即决定模型如何回答问题的参数值。"
+              },
+              {
+                "t": "p",
+                "x": "The Information援引知情人士的话称，若达成协议，该公司将获得足以大幅修改Sora的深度访问权限。The Information表示，由于Peebles曾领导Sora开发，已了解模型架构和训练方法，一并共享权重也不奇怪。"
+              },
+              {
+                "t": "p",
+                "x": "若交易完成，OpenAI将获得该初创公司的股权，具体比例尚未确认。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI今年早些时候作为业务调整的一部分，停用了Sora模型和一款基于音频的应用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nvidia promociona RTX Spark\nentre los editores de video",
-          "body": "En su Editor's Day, Nvidia presentó sus nuevos portátiles y equipos de escritorio RTX Spark como hardware de AI local.",
-          "mini_headline": "RTX Spark para editores",
+          "headline": "OpenAI podría ceder Sora\na una startup de cine",
+          "body": "Según informes, OpenAI negocia ceder su modelo de video Sora, ya retirado, a una startup de herramientas para cine.",
+          "mini_headline": "Sora podría pasar a una startup de cine",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
+                "cap": "Sora, la app de video con AI de OpenAI. [Foto: OpenAI]"
               },
               {
                 "t": "p",
-                "x": "Mike McCarthy asistió al “Editor’s Day” de Nvidia en San Francisco, el evento previo al lanzamiento de su línea de portátiles y equipos de escritorio RTX Spark: una jornada de presentaciones sobre AI y sobre cómo el nuevo hardware permite el procesamiento local de AI."
+                "x": "OpenAI negocia ceder a una startup Sora, su AI de generación de video que dejó de lado, informó The Information el 12 de octubre (Oct. 12), hora local."
               },
               {
                 "t": "p",
-                "x": "La memoria unificada da a las GPUs acceso hasta a toda la memoria del sistema, lo que amplía las opciones de modelos de AI. Nvidia ha trabajado con Adobe para que algunas funciones de Creative Cloud que se procesaban en la nube estén disponibles en local, como el enmascarado de imagen y la mejora de audio en Premiere y la eliminación de objetos en Photoshop, con nuevas opciones de UI para elegir entre procesamiento en la nube o local."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+                "x": "Según el informe, una startup que desarrolla tecnología de video con AI para cineastas está en conversaciones con OpenAI para usar Sora. La startup planea hacerse cargo de Sora, mejorarlo y vender software o servicios basados en él."
               },
               {
                 "t": "p",
-                "x": "La segunda propuesta es la AI agéntica a través de MCP. La CPU del SparkN1x es un procesador ARM con Windows 11 for ARM. McCarthy probó el harness Hermes con el modelo local Qwen3.8-27B: no logró conectarse a Blender mediante MCP, y cambiar una palabra en un prompt de ComfyUI llevó 40 minutos. “Mis primeros intentos de usar AI agéntica no han sido una experiencia positiva”."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+                "x": "La startup que negocia con OpenAI fue fundada hace unos meses por el peso pesado de Hollywood Jeffrey Katzenberg; Bill Peebles, que dirigió la investigación de Sora, y Sujay Jaswa, exdirector financiero de Dropbox. Su nombre no se conoce."
               },
               {
                 "t": "p",
-                "x": "Nvidia calcula que un RTX Spark a pleno rendimiento podría realizar procesamiento AI-token por valor de $1,200 al mes. En la mayoría de las pruebas reales, el portátil Surface Ultra de McCarthy rinde a la par que su estación de trabajo de escritorio Core i7."
+                "x": "No está claro si la startup recibiría también los pesos de Sora, los valores de los parámetros que determinan cómo responde un modelo a las preguntas."
+              },
+              {
+                "t": "p",
+                "x": "Si se alcanza un acuerdo, la startup obtendría derechos de acceso lo bastante profundos como para modificar Sora de forma significativa, informó The Information citando a una fuente conocedora de las conversaciones. The Information señaló que no sería extraño compartir también los pesos, ya que Peebles dirigió el desarrollo de Sora y ya conoce la arquitectura del modelo y su método de entrenamiento."
+              },
+              {
+                "t": "p",
+                "x": "Si el acuerdo se completa, OpenAI recibiría una participación en la startup. El tamaño de esa participación no se ha confirmado."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI detuvo el modelo Sora y una app basada en audio a principios de este año como parte de un ajuste de su negocio."
               }
             ]
           }
@@ -743,153 +583,173 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Nvidia, 영상 편집에\nRTX Spark 제안",
-          "body": "Nvidia Editor's Day는 RTX Spark를 로컬 AI용으로 알렸다.",
-          "mini_headline": "편집자를 위한 RTX Spark",
+          "headline": "OpenAI, Sora를\n영화 스타트업에 넘기나",
+          "body": "OpenAI가 중단한 Sora를 영화 도구 스타트업에 넘기는 협상 중이라고 한다.",
+          "mini_headline": "Sora, 영화 스타트업에 갈 수도",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
+                "cap": "OpenAI의 AI 동영상 앱 Sora. [사진: OpenAI]"
               },
               {
                 "t": "p",
-                "x": "Mike McCarthy는 San Francisco에서 열린 Nvidia의 “Editor’s Day”에 참석했다. RTX Spark 노트북·데스크톱 라인업 출시를 앞두고 회사가 마련한 행사로, AI와 새 하드웨어가 로컬 AI 처리를 어떻게 가능하게 하는지를 다룬 발표가 하루 내내 이어졌다."
+                "x": "OpenAI가 보류한 동영상 생성 AI Sora를 한 스타트업에 넘기는 협상을 벌이고 있다고 The Information이 현지시간 12일(Oct. 12) 보도했다."
               },
               {
                 "t": "p",
-                "x": "통합 메모리 덕분에 GPUs가 최대 시스템 메모리 전체를 쓸 수 있어 고를 수 있는 AI 모델의 폭이 넓어진다. Nvidia는 Adobe와 협력해 클라우드에서 처리하던 일부 Creative Cloud 기능을 로컬에서 쓸 수 있게 했다. Premiere의 이미지 마스킹과 오디오 향상, Photoshop의 개체 제거 등이 여기에 해당하며, 클라우드와 로컬 처리 중 하나를 고르는 새 UI 옵션도 생겼다."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+                "x": "보도에 따르면 영화 제작자를 위한 AI 동영상 기술을 개발하는 스타트업이 Sora 활용을 두고 OpenAI와 협상 중이다. 이 스타트업은 Sora를 넘겨받아 개선한 뒤 이를 바탕으로 소프트웨어나 서비스를 판매할 계획이다."
               },
               {
                 "t": "p",
-                "x": "두 번째 제안은 MCP를 통한 에이전트형 AI다. SparkN1x의 CPU는 ARM 프로세서이며 Windows 11 for ARM으로 돌아간다. McCarthy가 로컬 Qwen3.8-27B 모델로 Hermes 하네스를 시험해 보니 MCP로 Blender에 연결하지 못했고, ComfyUI 프롬프트의 단어 하나를 바꾸는 데 40분이 걸렸다. “에이전트형 AI를 처음 써 본 경험은 긍정적이지 않았다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+                "x": "OpenAI와 협상 중인 스타트업은 할리우드(Hollywood) 거물 Jeffrey Katzenberg, Sora 연구를 이끈 Bill Peebles, Dropbox 최고재무책임자 출신 Sujay Jaswa가 몇 달 전 세웠다. 회사 이름은 알려지지 않았다."
               },
               {
                 "t": "p",
-                "x": "Nvidia는 RTX Spark를 쉬지 않고 돌리면 한 달에 $1,200 어치의 AI-token 처리를 할 수 있다고 계산한다. 실제 환경 테스트 대부분에서 McCarthy의 Surface Ultra 노트북은 그의 Core i7 데스크톱 워크스테이션과 대등했다."
+                "x": "모델이 질문에 어떻게 답할지를 결정하는 매개변수 값인 Sora 가중치까지 스타트업이 넘겨받을지는 분명하지 않다."
+              },
+              {
+                "t": "p",
+                "x": "협상 내용을 잘 아는 소식통을 인용한 The Information 보도에 따르면, 합의가 이뤄지면 스타트업은 Sora를 크게 고칠 수 있을 만큼 깊은 접근 권한을 얻는다. The Information은 Peebles가 Sora 개발을 이끌어 모델 구조와 학습 방법을 이미 알고 있는 만큼 가중치를 함께 넘겨도 이상하지 않다고 전했다."
+              },
+              {
+                "t": "p",
+                "x": "거래가 성사되면 OpenAI는 스타트업 지분을 받는다. 지분 규모는 확인되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI는 올해 초 사업 조정의 일환으로 Sora 모델과 오디오 기반 앱을 중단했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nvidia、映像編集者に\nRTX Sparkを売り込む",
-          "body": "NvidiaはEditor's DayでRTX SparkをローカルAI向けに打ち出した。",
-          "mini_headline": "編集者向けのRTX Spark",
+          "headline": "OpenAI、Soraを\n映画系新興企業へ譲渡か",
+          "body": "OpenAIが終了したSoraを映画ツールの新興企業に譲る交渉中と報じられた。",
+          "mini_headline": "Soraが映画系新興企業へ",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
+                "cap": "OpenAIのAI動画アプリSora。[写真：OpenAI]"
               },
               {
                 "t": "p",
-                "x": "Mike McCarthyは、San Franciscoで開かれたNvidiaの「Editor’s Day」に参加した。ノートPCとデスクトップからなるRTX Sparkシリーズの発売に向けた同社のイベントで、AIと、新しいハードウェアがいかにローカルAI処理を可能にするかをめぐるプレゼンテーションが終日続いた。"
+                "x": "OpenAIが棚上げした動画生成AI「Sora」をスタートアップに引き渡す交渉を進めていると、The Informationが現地時間12日（Oct. 12）に報じた。"
               },
               {
                 "t": "p",
-                "x": "ユニファイドメモリにより、GPUsは最大でシステムメモリ全体にアクセスでき、選べるAIモデルの幅が広がる。NvidiaはAdobeと協力し、クラウドで処理していたCreative Cloudの一部機能をローカルで使えるようにした。Premiereの画像マスキングと音声補正、Photoshopのオブジェクト削除などが対象で、クラウド処理とローカル処理を選べる新しいUIオプションも加わった。"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+                "x": "報道によると、映画制作者向けのAI動画技術を開発するスタートアップが、Soraの利用をめぐってOpenAIと協議している。このスタートアップはSoraを引き継いで改良し、それを基にしたソフトウェアやサービスを販売する計画だ。"
               },
               {
                 "t": "p",
-                "x": "二つ目の売り込みは、MCPを介したエージェント型AIだ。SparkN1xのCPUはARMプロセッサーで、Windows 11 for ARMで動く。McCarthyはローカルのQwen3.8-27B モデルでHermesハーネスを試したが、MCP経由でBlenderに接続できず、ComfyUIのプロンプトの単語を一つ変えるのに40分かかった。「エージェント型AIを使う最初の試みは、好ましい体験ではなかった」"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+                "x": "OpenAIと交渉中のスタートアップは、ハリウッド（Hollywood）の大物Jeffrey Katzenberg、Sora研究を率いたBill Peebles、Dropboxの元最高財務責任者Sujay Jaswaが数か月前に設立した。社名は明らかになっていない。"
               },
               {
                 "t": "p",
-                "x": "Nvidiaの試算では、フル稼働のRTX Sparkは月に$1,200相当のAI-token 処理をこなせる。実環境のテストの大半で、McCarthyのSurface Ultraノートは、彼のCore i7 デスクトップワークステーションと互角だった。"
+                "x": "モデルが質問にどう答えるかを決めるパラメーター値であるSoraの重みまで、スタートアップが受け取るかどうかは不明だ。"
+              },
+              {
+                "t": "p",
+                "x": "協議に詳しい関係者の話としてThe Informationが報じたところでは、合意に至ればスタートアップはSoraを大幅に改変できるだけの深いアクセス権を得る。The Informationは、PeeblesがSoraの開発を率い、モデルの構造と学習方法をすでに把握していることから、重みを共有しても不思議ではないとした。"
+              },
+              {
+                "t": "p",
+                "x": "取引が成立すれば、OpenAIはスタートアップの株式を受け取る。その規模は確認されていない。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIは今年初め、事業調整の一環としてSoraモデルと音声ベースのアプリを停止した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nvidia向视频剪辑师\n推介RTX Spark",
-          "body": "Nvidia在Editor's Day上将RTX Spark定位为本地AI剪辑硬件。",
-          "mini_headline": "面向剪辑师的RTX Spark",
+          "headline": "OpenAI或将Sora\n交给电影初创公司",
+          "body": "据报道，OpenAI正洽谈将已停用的Sora视频模型转给一家电影工具初创公司。",
+          "mini_headline": "Sora或归电影初创公司",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
+                "cap": "OpenAI的AI视频应用Sora。[图片：OpenAI]"
               },
               {
                 "t": "p",
-                "x": "Mike McCarthy参加了Nvidia在San Francisco举办的“Editor’s Day”。这是该公司为RTX Spark系列笔记本和台式机发布所做的预热活动,一整天的演讲围绕AI以及新硬件如何实现本地AI处理展开。"
+                "x": "据The Information当地时间12日（Oct. 12）报道，OpenAI正在洽谈将其已搁置的视频生成AI Sora交给一家初创公司。"
               },
               {
                 "t": "p",
-                "x": "统一内存让GPUs最多可以访问全部系统内存,从而可选用更多AI模型。Nvidia与Adobe合作,把部分原本在云端处理的Creative Cloud功能搬到本地,包括Premiere中的图像蒙版和音频增强,以及Photoshop中的对象移除,并新增了可选择云端或本地处理的UI选项。"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+                "x": "报道称，一家为电影人开发AI视频技术的初创公司正与OpenAI商谈使用Sora。该公司计划接手Sora并加以改进，再销售基于它的软件或服务。"
               },
               {
                 "t": "p",
-                "x": "第二个卖点是通过MCP实现的智能体AI。SparkN1x的CPU是ARM处理器,运行Windows 11 for ARM。McCarthy用本地Qwen3.8-27B 模型试用了Hermes框架:它无法通过MCP连接Blender,在ComfyUI提示词里改一个词花了40分钟。“我最初几次使用智能体AI的体验并不好。”"
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+                "x": "与OpenAI洽谈的这家初创公司由好莱坞（Hollywood）重量级人物Jeffrey Katzenberg、曾领导Sora研究的Bill Peebles，以及Dropbox前首席财务官Sujay Jaswa于数月前创立，公司名称尚不清楚。"
               },
               {
                 "t": "p",
-                "x": "Nvidia估算,满负荷运行的RTX Spark每月可完成价值$1,200的AI-token 处理。在大多数实际测试中,McCarthy的Surface Ultra笔记本与他的Core i7 台式工作站不相上下。"
+                "x": "目前尚不清楚该公司是否还会获得Sora的权重，即决定模型如何回答问题的参数值。"
+              },
+              {
+                "t": "p",
+                "x": "The Information援引知情人士的话称，若达成协议，该公司将获得足以大幅修改Sora的深度访问权限。The Information表示，由于Peebles曾领导Sora开发，已了解模型架构和训练方法，一并共享权重也不奇怪。"
+              },
+              {
+                "t": "p",
+                "x": "若交易完成，OpenAI将获得该初创公司的股权，具体比例尚未确认。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI今年早些时候作为业务调整的一部分，停用了Sora模型和一款基于音频的应用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nvidia promociona RTX Spark\nentre los editores de video",
-          "body": "En su Editor's Day, Nvidia presentó sus nuevos portátiles y equipos de escritorio RTX Spark como hardware de AI local.",
-          "mini_headline": "RTX Spark para editores",
+          "headline": "OpenAI podría ceder Sora\na una startup de cine",
+          "body": "Según informes, OpenAI negocia ceder su modelo de video Sora, ya retirado, a una startup de herramientas para cine.",
+          "mini_headline": "Sora podría pasar a una startup de cine",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Nvidia-Spark-laptop.jpg"
+                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
+                "cap": "Sora, la app de video con AI de OpenAI. [Foto: OpenAI]"
               },
               {
                 "t": "p",
-                "x": "Mike McCarthy asistió al “Editor’s Day” de Nvidia en San Francisco, el evento previo al lanzamiento de su línea de portátiles y equipos de escritorio RTX Spark: una jornada de presentaciones sobre AI y sobre cómo el nuevo hardware permite el procesamiento local de AI."
+                "x": "OpenAI negocia ceder a una startup Sora, su AI de generación de video que dejó de lado, informó The Information el 12 de octubre (Oct. 12), hora local."
               },
               {
                 "t": "p",
-                "x": "La memoria unificada da a las GPUs acceso hasta a toda la memoria del sistema, lo que amplía las opciones de modelos de AI. Nvidia ha trabajado con Adobe para que algunas funciones de Creative Cloud que se procesaban en la nube estén disponibles en local, como el enmascarado de imagen y la mejora de audio en Premiere y la eliminación de objetos en Photoshop, con nuevas opciones de UI para elegir entre procesamiento en la nube o local."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/LocalAgents.jpg"
+                "x": "Según el informe, una startup que desarrolla tecnología de video con AI para cineastas está en conversaciones con OpenAI para usar Sora. La startup planea hacerse cargo de Sora, mejorarlo y vender software o servicios basados en él."
               },
               {
                 "t": "p",
-                "x": "La segunda propuesta es la AI agéntica a través de MCP. La CPU del SparkN1x es un procesador ARM con Windows 11 for ARM. McCarthy probó el harness Hermes con el modelo local Qwen3.8-27B: no logró conectarse a Blender mediante MCP, y cambiar una palabra en un prompt de ComfyUI llevó 40 minutos. “Mis primeros intentos de usar AI agéntica no han sido una experiencia positiva”."
-              },
-              {
-                "t": "img",
-                "src": "https://postperspective.com/wp-content/uploads/2026/10/Hermes.jpg"
+                "x": "La startup que negocia con OpenAI fue fundada hace unos meses por el peso pesado de Hollywood Jeffrey Katzenberg; Bill Peebles, que dirigió la investigación de Sora, y Sujay Jaswa, exdirector financiero de Dropbox. Su nombre no se conoce."
               },
               {
                 "t": "p",
-                "x": "Nvidia calcula que un RTX Spark a pleno rendimiento podría realizar procesamiento AI-token por valor de $1,200 al mes. En la mayoría de las pruebas reales, el portátil Surface Ultra de McCarthy rinde a la par que su estación de trabajo de escritorio Core i7."
+                "x": "No está claro si la startup recibiría también los pesos de Sora, los valores de los parámetros que determinan cómo responde un modelo a las preguntas."
+              },
+              {
+                "t": "p",
+                "x": "Si se alcanza un acuerdo, la startup obtendría derechos de acceso lo bastante profundos como para modificar Sora de forma significativa, informó The Information citando a una fuente conocedora de las conversaciones. The Information señaló que no sería extraño compartir también los pesos, ya que Peebles dirigió el desarrollo de Sora y ya conoce la arquitectura del modelo y su método de entrenamiento."
+              },
+              {
+                "t": "p",
+                "x": "Si el acuerdo se completa, OpenAI recibiría una participación en la startup. El tamaño de esa participación no se ha confirmado."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI detuvo el modelo Sora y una app basada en audio a principios de este año como parte de un ajuste de su negocio."
               }
             ]
           }
@@ -897,321 +757,401 @@
       }
     },
     {
-      "id": "movies-gibney-musk-avatar",
-      "source_lang": "en",
+      "id": "movies-lotte-kaica-run",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Alex Gibney,\n불발 Musk 인터뷰 재현",
-      "body": "Alex Gibney는 CGI 아바타로 못 한 Elon Musk 인터뷰를 재현했다.",
-      "mini_headline": "Gibney가 재현한 Musk 인터뷰",
+      "headline": "롯데시네마, AI 영화\n18편 3천원 상영",
+      "body": "롯데시네마가 87개국 출품작 중 고른 AI 영화 18편을 3천원에 단독 상영한다.",
+      "mini_headline": "AI 영화 극장 개봉",
       "tool": "Movies",
-      "source": "IndieWire",
-      "url": "https://www.indiewire.com/features/podcast/alex-gibney-elon-musk-documentary-simulated-ai-interview-1235222409/",
+      "source": "맥스무비",
+      "url": "https://www.maxmovie.com/news/articleView.html?idxno=502436",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
-            "cap": "2026년 9월 8일 Venice, Italy에서 열린 제83회 Venice International Film Festival(베네치아 국제영화제) 'Musk' 포토콜에 참석한 Alex Gibney"
+            "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
+            "cap": "사진=롯데컬처웍스"
           },
           {
             "t": "p",
-            "x": "Alex Gibney가 Elon Musk를 그린 “Musk”에서 인공지능은 창작상의 선택이면서 경고하는 이야기이기도 하다. Gibney는 IndieWire의 “Screen Talk” 팟캐스트에서 Musk와 닿은 통로는 X가 유일했고, 제작진이 대면 인터뷰를 따내기는 불가능했을 거라고 말했다."
+            "x": "롯데시네마가 인공지능(AI)과 영화의 만남을 극장에서 선보인다. 경기도와 경기콘텐츠진흥원이 주최한 ‘2026 대한민국 AI 콘텐츠 어워즈(K-AICA)’의 본선 진출작과 수상작 18편을 국내 극장 단독으로 상영한다."
           },
           {
             "t": "p",
-            "x": "그래서 제작진은 일부러 uncanny-valley(불쾌한 골짜기) 느낌이 나는 Musk 아바타를 AI로 만들고, 그의 공개 발언을 모두 엮어 시뮬레이션 “인터뷰”를 꾸렸다. Gibney는 “Elon이 실제로 한 말을 방대한 데이터베이스로 모았고, 영화에 쓴 녹음은 바로 그 녹음이다”라고 말했다. 시뮬레이션 속에 산다는 생각에 Musk가 집착한다는 데서 떠올린 아이디어다."
+            "x": "이번 특별전은 오는 28일까지 롯데시네마 수도권 31개 지점에서 진행된다. 전 세계 87개국에서 출품된 1528편 가운데 선정된 작품들을 대형 스크린과 극장 사운드로 감상할 기회다. 관람료는 3000원이며, 예매는 롯데시네마 공식 홈페이지와 모바일 앱에서 가능하다."
           },
           {
             "t": "p",
-            "x": "스튜디오 MakeMake와 함께 “세트를 디자인했다. 그가 입을 옷을 정했다. 게이머 의자에 앉히기로 했다 … 그런 다음 몇 가지 AI 도구로 그 인물을 오디오에 맞춰 동기화했다. 오디오는 실제 음성이다.”"
+            "x": "상영작은 중·단편 부문 수상작 9편을 포함해 총 18편이다. 관객들이 작품을 편리하게 감상할 수 있도록 5개 파트로 구성했으며, 각 파트는 2~5편씩 약 90분 분량으로 편성됐다."
           },
           {
             "t": "p",
-            "x": "영화는 AI를 경계하는 시선도 놓지 않는다. Gibney는 DOGE 직원들이 U.S. 시민 데이터를 대량으로 쌓아 둔 일, 그리고 그런 개인 데이터로 AI를 학습시키는 것을 두고 Geoffrey Hinton이 품은 우려를 짚는다."
+            "x": "장권호 감독의 중편 ‘로이 온 더 로드’는 AI를 활용한 영화적 상상력의 확장을 보여주며, 로버트 고데트 감독의 단편 ‘엄마 눈에만 예쁜 얼굴’은 애니메이션과 실사를 교차시키며 색다른 시공간을 구현한다."
+          },
+          {
+            "t": "p",
+            "x": "상영관은 경기 지역 20곳과 서울 지역 11곳이다. 수원, 동탄, 판교, 부천, 용인 등 경기 주요 지역과 건대입구, 김포공항, 영등포, 용산, 월드타워 등 서울 주요 지점에서 관람할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "16일 롯데시네마 관계자는 “창작자들의 새로운 도전과 상상력이 담긴 작품을 극장에서 소개하게 돼 의미가 크다”며 “앞으로도 미래형 콘텐츠를 극장과 연결해 차별화된 문화 경험을 제공하겠다”고 밝혔다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Alex Gibney simulates the\nMusk interview he never got",
-          "body": "For his documentary 'Musk', Alex Gibney used a CGI avatar to simulate the Elon Musk interview he could never get.",
-          "mini_headline": "Gibney's simulated Musk interview",
+        "ko": {
+          "headline": "롯데시네마, AI 영화\n18편 3천원 상영",
+          "body": "롯데시네마가 87개국 출품작 중 고른 AI 영화 18편을 3천원에 단독 상영한다.",
+          "mini_headline": "AI 영화 극장 개봉",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
-                "cap": "Alex Gibney at the 'Musk' photocall at The 83rd Venice International Film Festival on September 08, 2026 in Venice, Italy"
+                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
+                "cap": "사진=롯데컬처웍스"
               },
               {
                 "t": "p",
-                "x": "Artificial intelligence serves as both a creative choice and a cautionary tale in Alex Gibney’s Elon Musk portrait, “Musk.” On IndieWire’s “Screen Talk” podcast, Gibney said his sole contact with Musk was over X, and his team could never have secured a sit-down interview."
+                "x": "롯데시네마가 인공지능(AI)과 영화의 만남을 극장에서 선보인다. 경기도와 경기콘텐츠진흥원이 주최한 ‘2026 대한민국 AI 콘텐츠 어워즈(K-AICA)’의 본선 진출작과 수상작 18편을 국내 극장 단독으로 상영한다."
               },
               {
                 "t": "p",
-                "x": "So the filmmakers used AI to construct an intentionally uncanny-valley avatar of Musk and to compile all his public remarks into a simulated “interview.” “We collected a massive database of stuff that Elon had actually said, and those recordings are the recordings that we actually use in the film,” Gibney said. The idea drew on Musk’s obsession with living in a simulation."
+                "x": "이번 특별전은 오는 28일까지 롯데시네마 수도권 31개 지점에서 진행된다. 전 세계 87개국에서 출품된 1528편 가운데 선정된 작품들을 대형 스크린과 극장 사운드로 감상할 기회다. 관람료는 3000원이며, 예매는 롯데시네마 공식 홈페이지와 모바일 앱에서 가능하다."
               },
               {
                 "t": "p",
-                "x": "Working with the studio MakeMake, “we designed a set. We decided what clothes he would wear. We decided to put him in a gamer chair … Then, we used some AI tools to sync that figure to the audio, which is real audio.”"
+                "x": "상영작은 중·단편 부문 수상작 9편을 포함해 총 18편이다. 관객들이 작품을 편리하게 감상할 수 있도록 5개 파트로 구성했으며, 각 파트는 2~5편씩 약 90분 분량으로 편성됐다."
               },
               {
                 "t": "p",
-                "x": "The film also takes a cautionary position on AI: Gibney points to DOGE staff archiving a trove of U.S. citizen data, and Geoffrey Hinton’s concern about training an AI on that private data."
+                "x": "장권호 감독의 중편 ‘로이 온 더 로드’는 AI를 활용한 영화적 상상력의 확장을 보여주며, 로버트 고데트 감독의 단편 ‘엄마 눈에만 예쁜 얼굴’은 애니메이션과 실사를 교차시키며 색다른 시공간을 구현한다."
+              },
+              {
+                "t": "p",
+                "x": "상영관은 경기 지역 20곳과 서울 지역 11곳이다. 수원, 동탄, 판교, 부천, 용인 등 경기 주요 지역과 건대입구, 김포공항, 영등포, 용산, 월드타워 등 서울 주요 지점에서 관람할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "16일 롯데시네마 관계자는 “창작자들의 새로운 도전과 상상력이 담긴 작품을 극장에서 소개하게 돼 의미가 크다”며 “앞으로도 미래형 콘텐츠를 극장과 연결해 차별화된 문화 경험을 제공하겠다”고 밝혔다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Alex Gibney,\n불발 Musk 인터뷰 재현",
-          "body": "Alex Gibney는 CGI 아바타로 못 한 Elon Musk 인터뷰를 재현했다.",
-          "mini_headline": "Gibney가 재현한 Musk 인터뷰",
+        "en": {
+          "headline": "Lotte Cinema screens 18 AI\nfilms for 3000 won (3천원)",
+          "body": "Lotte Cinema is screening 18 AI films, chosen from entries from 87 countries, exclusively for 3000 won (3천원).",
+          "mini_headline": "AI films hit theaters",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
-                "cap": "2026년 9월 8일 Venice, Italy에서 열린 제83회 Venice International Film Festival(베네치아 국제영화제) 'Musk' 포토콜에 참석한 Alex Gibney"
+                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
+                "cap": "Photo: Lotte Cultureworks"
               },
               {
                 "t": "p",
-                "x": "Alex Gibney가 Elon Musk를 그린 “Musk”에서 인공지능은 창작상의 선택이면서 경고하는 이야기이기도 하다. Gibney는 IndieWire의 “Screen Talk” 팟캐스트에서 Musk와 닿은 통로는 X가 유일했고, 제작진이 대면 인터뷰를 따내기는 불가능했을 거라고 말했다."
+                "x": "Lotte Cinema is bringing artificial intelligence (AI) and film together in theaters. It will screen 18 finalists and winners from the ‘2026 Korea AI Content Awards (K-AICA)’, hosted by Gyeonggi Province and the Gyeonggi Content Agency, exclusively among domestic theaters."
               },
               {
                 "t": "p",
-                "x": "그래서 제작진은 일부러 uncanny-valley(불쾌한 골짜기) 느낌이 나는 Musk 아바타를 AI로 만들고, 그의 공개 발언을 모두 엮어 시뮬레이션 “인터뷰”를 꾸렸다. Gibney는 “Elon이 실제로 한 말을 방대한 데이터베이스로 모았고, 영화에 쓴 녹음은 바로 그 녹음이다”라고 말했다. 시뮬레이션 속에 산다는 생각에 Musk가 집착한다는 데서 떠올린 아이디어다."
+                "x": "The special program runs through the 28th at 31 Lotte Cinema locations in the Seoul metropolitan area. It is a chance to see works selected from 1528 entries submitted from 87 countries on a big screen with theater sound. Tickets cost 3000 won, and bookings can be made on Lotte Cinema's official website and mobile app."
               },
               {
                 "t": "p",
-                "x": "스튜디오 MakeMake와 함께 “세트를 디자인했다. 그가 입을 옷을 정했다. 게이머 의자에 앉히기로 했다 … 그런 다음 몇 가지 AI 도구로 그 인물을 오디오에 맞춰 동기화했다. 오디오는 실제 음성이다.”"
+                "x": "The lineup totals 18 films, including 9 winners in the medium-length and short categories. To make viewing convenient, the films are organized into 5 parts, each with 2 to 5 films running about 90 minutes."
               },
               {
                 "t": "p",
-                "x": "영화는 AI를 경계하는 시선도 놓지 않는다. Gibney는 DOGE 직원들이 U.S. 시민 데이터를 대량으로 쌓아 둔 일, 그리고 그런 개인 데이터로 AI를 학습시키는 것을 두고 Geoffrey Hinton이 품은 우려를 짚는다."
+                "x": "Director Jang Kwon-ho's medium-length film ‘Roy on the Road’ shows how AI can extend cinematic imagination, while director Robert Godet's short ‘A Face Pretty Only to Mom’ crosses animation and live action to create an unusual time and space."
+              },
+              {
+                "t": "p",
+                "x": "The films screen at 20 locations in Gyeonggi and 11 in Seoul. Audiences can see them in major Gyeonggi areas such as Suwon, Dongtan, Pangyo, Bucheon and Yongin, and at major Seoul locations such as Konkuk University Entrance, Gimpo Airport, Yeongdeungpo, Yongsan and World Tower."
+              },
+              {
+                "t": "p",
+                "x": "A Lotte Cinema official said on the 16th, “It is very meaningful to introduce in theaters works that carry creators' new challenges and imagination,” adding, “We will continue to connect future-oriented content with theaters to offer a distinctive cultural experience.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Alex Gibney、\n幻のMusk取材を再現",
-          "body": "Alex GibneyはCGIアバターで叶わなかったElon Musk取材を再現した。",
-          "mini_headline": "Gibneyが再現したMusk取材",
+          "headline": "ロッテシネマ、AI映画\n18本を3000ウォンで",
+          "body": "ロッテシネマが87か国の応募作中のAI映画18本を3000ウォン（3천원）で単独上映する。",
+          "mini_headline": "AI映画が劇場公開",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
-                "cap": "2026年9月8日、Venice, Italyで開かれた第83回Venice International Film Festival(ベネチア国際映画祭)の『Musk』フォトコールに臨むAlex Gibney"
+                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
+                "cap": "写真＝ロッテカルチャーワークス"
               },
               {
                 "t": "p",
-                "x": "Alex GibneyによるElon Muskの肖像「Musk」で、人工知能は創作上の選択であると同時に、警鐘の物語としても機能している。IndieWireのポッドキャスト「Screen Talk」でGibneyは、Muskとの唯一の接点はXだけで、制作チームが対面インタビューを取り付けることは到底できなかったと語った。"
+                "x": "ロッテシネマが人工知能（AI）と映画の出会いを劇場で披露する。京畿道と京畿コンテンツ振興院が主催した「2026 大韓民国AIコンテンツアワーズ（K-AICA）」の本選進出作と受賞作18本を、国内の劇場で単独上映する。"
               },
               {
                 "t": "p",
-                "x": "そこで制作陣はAIを使い、あえてuncanny-valley(不気味の谷)を感じさせるMuskのアバターを作り、彼の公の発言をすべてまとめて、シミュレーションの「インタビュー」に仕立てた。「Elonが実際に語ったものの膨大なデータベースを集めた。映画で使っている録音は、まさにその録音だ」とGibneyは言う。この発想は、シミュレーションの中に生きているという考えへのMuskの執着に着想を得たものだ。"
+                "x": "今回の特別展は28日まで、ロッテシネマの首都圏31館で開かれる。世界87か国から応募された1528本の中から選ばれた作品を、大型スクリーンと劇場の音響で鑑賞できる機会だ。料金は3000ウォンで、予約はロッテシネマの公式サイトとモバイルアプリで受け付ける。"
               },
               {
                 "t": "p",
-                "x": "スタジオMakeMakeと組み、「セットをデザインした。彼が着る服を決めた。ゲーミングチェアに座らせることにした … それから、いくつかのAIツールを使ってその人物を音声に同期させた。音声は本物だ」"
+                "x": "上映作は中・短編部門の受賞作9本を含む計18本だ。観客が鑑賞しやすいよう5つのパートに分け、各パートは2〜5本ずつ約90分の構成とした。"
               },
               {
                 "t": "p",
-                "x": "映画はAIに対して警戒的な立場も取る。GibneyはDOGEのスタッフがU.S. 市民のデータを大量に保存したことや、その個人データでAIを訓練することへのGeoffrey Hintonの懸念を指摘する。"
+                "x": "チャン・グォノ監督の中編『ロイ・オン・ザ・ロード』はAIを使った映画的想像力の広がりを示し、ロバート・ゴデット監督の短編『ママの目にだけかわいい顔』はアニメーションと実写を交差させて一風変わった時空間を描き出す。"
+              },
+              {
+                "t": "p",
+                "x": "上映館は京畿地域20館とソウル地域11館だ。水原、東灘、板橋、富川、龍仁など京畿の主要地域と、建大入口、金浦空港、永登浦、龍山、ワールドタワーなどソウルの主要館で観覧できる。"
+              },
+              {
+                "t": "p",
+                "x": "ロッテシネマ関係者は16日、「創作者たちの新たな挑戦と想像力が込められた作品を劇場で紹介できることは意義が大きい」とし、「今後も未来型コンテンツを劇場とつなぎ、差別化された文化体験を提供していく」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Alex Gibney模拟\n未能实现的Musk专访",
-          "body": "Alex Gibney在《Musk》中用CGI化身模拟了未能获得的Elon Musk采访。",
-          "mini_headline": "Gibney模拟的Musk采访",
+          "headline": "乐天影院以3000韩元\n放映18部AI电影",
+          "body": "乐天影院将以3000韩元（3천원）独家放映从87国参赛作品中选出的18部AI电影。",
+          "mini_headline": "AI电影登上大银幕",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
-                "cap": "2026年9月8日,Alex Gibney出席在Venice, Italy举行的第83届Venice International Film Festival(威尼斯国际电影节)《Musk》拍照活动"
+                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
+                "cap": "图片＝乐天文化（Lotte Cultureworks）"
               },
               {
                 "t": "p",
-                "x": "在Alex Gibney为Elon Musk创作的人物肖像片《Musk》中,人工智能既是一种创作选择,也是一则警示故事。Gibney在IndieWire的“Screen Talk”播客中表示,他与Musk唯一的接触是通过X,团队根本不可能争取到一次面对面的采访。"
+                "x": "乐天影院将在影院呈现人工智能（AI）与电影的相遇。由京畿道和京畿内容振兴院主办的“2026 大韩民国AI内容大奖（K-AICA）”决赛入围作品及获奖作品共18部，将在韩国国内影院中独家放映。"
               },
               {
                 "t": "p",
-                "x": "于是,制作团队用AI打造了一个刻意带有uncanny-valley(恐怖谷)效果的Musk虚拟形象,并把他所有公开言论汇编成一场模拟“采访”。“我们收集了一个庞大的数据库,里面都是Elon真正说过的话,片中使用的正是这些录音。”Gibney说。这个创意源自Musk对“活在模拟世界中”的执念。"
+                "x": "此次特别展映将持续到28日，在乐天影院首都圈31家影院举行。观众可借此机会通过大银幕和影院音响，观看从全球87个国家提交的1528部作品中选出的作品。票价为3000韩元，可通过乐天影院官网和手机应用预订。"
               },
               {
                 "t": "p",
-                "x": "与工作室MakeMake合作时,“我们设计了布景,决定了他穿什么衣服,决定让他坐在电竞椅上……然后,我们用一些AI工具把这个形象与音频同步,而音频是真实的。”"
+                "x": "放映作品共18部，其中包括中短片单元获奖作品9部。为方便观众观看，作品分为5个单元，每个单元编排2~5部，时长约90分钟。"
               },
               {
                 "t": "p",
-                "x": "影片也对AI持警示立场:Gibney提到DOGE工作人员存档了大量U.S. 公民数据,以及Geoffrey Hinton对用这些私人数据训练AI的担忧。"
+                "x": "张权浩导演的中片《路上的罗伊》展示了借助AI拓展的电影想象力；罗伯特·戈德特导演的短片《只在妈妈眼里漂亮的脸》则交织动画与实拍，呈现别样的时空。"
+              },
+              {
+                "t": "p",
+                "x": "放映影院包括京畿地区20家和首尔地区11家，观众可在水原、东滩、板桥、富川、龙仁等京畿主要地区，以及建大入口、金浦机场、永登浦、龙山、世界塔等首尔主要影院观看。"
+              },
+              {
+                "t": "p",
+                "x": "乐天影院相关人士16日表示：“能在影院介绍承载创作者新挑战与想象力的作品，意义重大。”并称：“今后也将把未来型内容与影院相连，提供差异化的文化体验。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Alex Gibney simula la entrevista\ncon Musk que nunca consiguió",
-          "body": "Para su documental 'Musk', Alex Gibney usó un avatar CGI para simular la entrevista con Elon Musk que nunca logró.",
-          "mini_headline": "La entrevista simulada de Gibney a Musk",
+          "headline": "Lotte Cinema proyecta 18\npelículas de AI por 3000 wones",
+          "body": "Lotte Cinema proyecta en exclusiva 18 películas de AI elegidas entre obras de 87 países por 3000 wones (3천원).",
+          "mini_headline": "Películas de AI llegan al cine",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
-                "cap": "Alex Gibney en el photocall de 'Musk' en la 83.ª edición del Venice International Film Festival, el 8 de septiembre de 2026, en Venecia (Italia)"
+                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
+                "cap": "Foto: Lotte Cultureworks"
               },
               {
                 "t": "p",
-                "x": "La inteligencia artificial es a la vez una decisión creativa y una advertencia en “Musk”, el retrato de Elon Musk firmado por Alex Gibney. En el pódcast “Screen Talk” de IndieWire, Gibney contó que su único contacto con Musk fue a través de X y que su equipo nunca habría conseguido una entrevista en persona."
+                "x": "Lotte Cinema lleva a sus salas el encuentro entre la inteligencia artificial (AI) y el cine. Proyectará en exclusiva, entre los cines del país, 18 obras finalistas y premiadas de los ‘2026 Korea AI Content Awards (K-AICA)’, organizados por la provincia de Gyeonggi y la Agencia de Contenidos de Gyeonggi."
               },
               {
                 "t": "p",
-                "x": "Así que los cineastas usaron AI para construir un avatar de Musk deliberadamente situado en el valle inquietante y para reunir todas sus declaraciones públicas en una “entrevista” simulada. “Reunimos una enorme base de datos de cosas que Elon había dicho realmente, y esas grabaciones son las que usamos de verdad en la película”, dijo Gibney. La idea partía de la obsesión de Musk con la posibilidad de vivir en una simulación."
+                "x": "La muestra especial se celebra hasta el día 28 en 31 cines de Lotte Cinema del área metropolitana de Seúl. Es una oportunidad para ver en pantalla grande y con sonido de cine obras seleccionadas entre 1528 presentadas desde 87 países. La entrada cuesta 3000 wones y las reservas pueden hacerse en el sitio web oficial y la app móvil de Lotte Cinema."
               },
               {
                 "t": "p",
-                "x": "Junto al estudio MakeMake, “diseñamos un decorado. Decidimos qué ropa llevaría. Decidimos sentarlo en una silla gamer … Después, usamos algunas herramientas de AI para sincronizar esa figura con el audio, que es audio real”."
+                "x": "La programación suma 18 obras, incluidas 9 premiadas en las categorías de mediometraje y cortometraje. Para facilitar la visualización, se organizaron en 5 partes, cada una con 2 a 5 obras y unos 90 minutos de duración."
               },
               {
                 "t": "p",
-                "x": "La película también adopta una postura de advertencia sobre la AI: Gibney señala que personal de DOGE archivó un gran volumen de datos de ciudadanos de U.S., y la preocupación de Geoffrey Hinton por entrenar una AI con esos datos privados."
+                "x": "El mediometraje ‘Roy on the Road’, del director Jang Kwon-ho, muestra cómo la AI amplía la imaginación cinematográfica, y el cortometraje ‘Una cara bonita solo a los ojos de mamá’, del director Robert Godet, cruza animación e imagen real para crear un espacio-tiempo singular."
+              },
+              {
+                "t": "p",
+                "x": "Las salas son 20 en Gyeonggi y 11 en Seúl. Pueden verse en zonas clave de Gyeonggi como Suwon, Dongtan, Pangyo, Bucheon y Yongin, y en cines principales de Seúl como Konkuk University Entrance, Gimpo Airport, Yeongdeungpo, Yongsan y World Tower."
+              },
+              {
+                "t": "p",
+                "x": "Un responsable de Lotte Cinema dijo el día 16: “Es muy significativo presentar en el cine obras que reflejan los nuevos desafíos y la imaginación de los creadores”, y añadió: “Seguiremos conectando contenidos del futuro con las salas para ofrecer una experiencia cultural diferenciada”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Alex Gibney,\n불발 Musk 인터뷰 재현",
-          "body": "Alex Gibney는 CGI 아바타로 못 한 Elon Musk 인터뷰를 재현했다.",
-          "mini_headline": "Gibney가 재현한 Musk 인터뷰",
+        "en": {
+          "headline": "Lotte Cinema screens 18 AI\nfilms for 3000 won (3천원)",
+          "body": "Lotte Cinema is screening 18 AI films, chosen from entries from 87 countries, exclusively for 3000 won (3천원).",
+          "mini_headline": "AI films hit theaters",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
-                "cap": "2026년 9월 8일 Venice, Italy에서 열린 제83회 Venice International Film Festival(베네치아 국제영화제) 'Musk' 포토콜에 참석한 Alex Gibney"
+                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
+                "cap": "Photo: Lotte Cultureworks"
               },
               {
                 "t": "p",
-                "x": "Alex Gibney가 Elon Musk를 그린 “Musk”에서 인공지능은 창작의 선택이자 경고의 이야기 역할을 한다. IndieWire의 “Screen Talk” 팟캐스트에서 Gibney는 Musk와의 유일한 접촉이 X를 통한 것이었고, 제작진이 대면 인터뷰를 따내기는 불가능했을 것이라고 말했다."
+                "x": "Lotte Cinema is bringing artificial intelligence (AI) and film together in theaters. It will screen 18 finalists and winners from the ‘2026 Korea AI Content Awards (K-AICA)’, hosted by Gyeonggi Province and the Gyeonggi Content Agency, exclusively among domestic theaters."
               },
               {
                 "t": "p",
-                "x": "그래서 제작진은 AI로 일부러 uncanny-valley(불쾌한 골짜기) 느낌이 나는 Musk 아바타를 만들고, 그의 공개 발언을 모두 엮어 시뮬레이션 “인터뷰”를 구성했다. Gibney는 “Elon이 실제로 한 말을 방대한 데이터베이스로 모았고, 영화에 쓴 녹음은 바로 그 녹음이다”라고 말했다. 이 아이디어는 시뮬레이션 속에 살고 있다는 생각에 대한 Musk의 집착에서 착안했다."
+                "x": "The special program runs through the 28th at 31 Lotte Cinema locations in the Seoul metropolitan area. It is a chance to see works selected from 1528 entries submitted from 87 countries on a big screen with theater sound. Tickets cost 3000 won, and bookings can be made on Lotte Cinema's official website and mobile app."
               },
               {
                 "t": "p",
-                "x": "스튜디오 MakeMake와 함께 “세트를 디자인했다. 그가 입을 옷을 정했다. 게이머 의자에 앉히기로 했다 … 그런 다음 몇 가지 AI 도구로 그 인물을 오디오에 맞춰 동기화했다. 오디오는 실제 음성이다.”"
+                "x": "The lineup totals 18 films, including 9 winners in the medium-length and short categories. To make viewing convenient, the films are organized into 5 parts, each with 2 to 5 films running about 90 minutes."
               },
               {
                 "t": "p",
-                "x": "영화는 AI에 대해 경계의 입장도 취한다. Gibney는 DOGE 직원들이 U.S. 시민 데이터를 대량으로 보관한 일과, 그 개인 데이터로 AI를 학습시키는 데 대한 Geoffrey Hinton의 우려를 짚는다."
+                "x": "Director Jang Kwon-ho's medium-length film ‘Roy on the Road’ shows how AI can extend cinematic imagination, while director Robert Godet's short ‘A Face Pretty Only to Mom’ crosses animation and live action to create an unusual time and space."
+              },
+              {
+                "t": "p",
+                "x": "The films screen at 20 locations in Gyeonggi and 11 in Seoul. Audiences can see them in major Gyeonggi areas such as Suwon, Dongtan, Pangyo, Bucheon and Yongin, and at major Seoul locations such as Konkuk University Entrance, Gimpo Airport, Yeongdeungpo, Yongsan and World Tower."
+              },
+              {
+                "t": "p",
+                "x": "A Lotte Cinema official said on the 16th, “It is very meaningful to introduce in theaters works that carry creators' new challenges and imagination,” adding, “We will continue to connect future-oriented content with theaters to offer a distinctive cultural experience.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Alex Gibney、\n幻のMusk取材を再現",
-          "body": "Alex GibneyはCGIアバターで叶わなかったElon Musk取材を再現した。",
-          "mini_headline": "Gibneyが再現したMusk取材",
+          "headline": "ロッテシネマ、AI映画\n18本を3000ウォンで",
+          "body": "ロッテシネマが87か国の応募作中のAI映画18本を3000ウォン（3천원）で単独上映する。",
+          "mini_headline": "AI映画が劇場公開",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
-                "cap": "2026年9月8日、Venice, Italyで開かれた第83回Venice International Film Festival(ベネチア国際映画祭)の『Musk』フォトコールに臨むAlex Gibney"
+                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
+                "cap": "写真＝ロッテカルチャーワークス"
               },
               {
                 "t": "p",
-                "x": "Alex GibneyによるElon Muskの肖像「Musk」で、人工知能は創作上の選択であると同時に、警鐘の物語としても機能している。IndieWireのポッドキャスト「Screen Talk」でGibneyは、Muskとの唯一の接点はXだけで、制作チームが対面インタビューを取り付けることは到底できなかったと語った。"
+                "x": "ロッテシネマが人工知能（AI）と映画の出会いを劇場で披露する。京畿道と京畿コンテンツ振興院が主催した「2026 大韓民国AIコンテンツアワーズ（K-AICA）」の本選進出作と受賞作18本を、国内の劇場で単独上映する。"
               },
               {
                 "t": "p",
-                "x": "そこで制作陣はAIを使い、あえてuncanny-valley(不気味の谷)を感じさせるMuskのアバターを作り、彼の公の発言をすべてまとめて、シミュレーションの「インタビュー」に仕立てた。「Elonが実際に語ったものの膨大なデータベースを集めた。映画で使っている録音は、まさにその録音だ」とGibneyは言う。この発想は、シミュレーションの中に生きているという考えへのMuskの執着に着想を得たものだ。"
+                "x": "今回の特別展は28日まで、ロッテシネマの首都圏31館で開かれる。世界87か国から応募された1528本の中から選ばれた作品を、大型スクリーンと劇場の音響で鑑賞できる機会だ。料金は3000ウォンで、予約はロッテシネマの公式サイトとモバイルアプリで受け付ける。"
               },
               {
                 "t": "p",
-                "x": "スタジオMakeMakeと組み、「セットをデザインした。彼が着る服を決めた。ゲーミングチェアに座らせることにした … それから、いくつかのAIツールを使ってその人物を音声に同期させた。音声は本物だ」"
+                "x": "上映作は中・短編部門の受賞作9本を含む計18本だ。観客が鑑賞しやすいよう5つのパートに分け、各パートは2〜5本ずつ約90分の構成とした。"
               },
               {
                 "t": "p",
-                "x": "映画はAIに対して警戒的な立場も取る。GibneyはDOGEのスタッフがU.S. 市民のデータを大量に保存したことや、その個人データでAIを訓練することへのGeoffrey Hintonの懸念を指摘する。"
+                "x": "チャン・グォノ監督の中編『ロイ・オン・ザ・ロード』はAIを使った映画的想像力の広がりを示し、ロバート・ゴデット監督の短編『ママの目にだけかわいい顔』はアニメーションと実写を交差させて一風変わった時空間を描き出す。"
+              },
+              {
+                "t": "p",
+                "x": "上映館は京畿地域20館とソウル地域11館だ。水原、東灘、板橋、富川、龍仁など京畿の主要地域と、建大入口、金浦空港、永登浦、龍山、ワールドタワーなどソウルの主要館で観覧できる。"
+              },
+              {
+                "t": "p",
+                "x": "ロッテシネマ関係者は16日、「創作者たちの新たな挑戦と想像力が込められた作品を劇場で紹介できることは意義が大きい」とし、「今後も未来型コンテンツを劇場とつなぎ、差別化された文化体験を提供していく」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Alex Gibney模拟\n未能实现的Musk专访",
-          "body": "Alex Gibney在《Musk》中用CGI化身模拟了未能获得的Elon Musk采访。",
-          "mini_headline": "Gibney模拟的Musk采访",
+          "headline": "乐天影院以3000韩元\n放映18部AI电影",
+          "body": "乐天影院将以3000韩元（3천원）独家放映从87国参赛作品中选出的18部AI电影。",
+          "mini_headline": "AI电影登上大银幕",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
-                "cap": "2026年9月8日,Alex Gibney出席在Venice, Italy举行的第83届Venice International Film Festival(威尼斯国际电影节)《Musk》拍照活动"
+                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
+                "cap": "图片＝乐天文化（Lotte Cultureworks）"
               },
               {
                 "t": "p",
-                "x": "在Alex Gibney为Elon Musk创作的人物肖像片《Musk》中,人工智能既是一种创作选择,也是一则警示故事。Gibney在IndieWire的“Screen Talk”播客中表示,他与Musk唯一的接触是通过X,团队根本不可能争取到一次面对面的采访。"
+                "x": "乐天影院将在影院呈现人工智能（AI）与电影的相遇。由京畿道和京畿内容振兴院主办的“2026 大韩民国AI内容大奖（K-AICA）”决赛入围作品及获奖作品共18部，将在韩国国内影院中独家放映。"
               },
               {
                 "t": "p",
-                "x": "于是,制作团队用AI打造了一个刻意带有uncanny-valley(恐怖谷)效果的Musk虚拟形象,并把他所有公开言论汇编成一场模拟“采访”。“我们收集了一个庞大的数据库,里面都是Elon真正说过的话,片中使用的正是这些录音。”Gibney说。这个创意源自Musk对“活在模拟世界中”的执念。"
+                "x": "此次特别展映将持续到28日，在乐天影院首都圈31家影院举行。观众可借此机会通过大银幕和影院音响，观看从全球87个国家提交的1528部作品中选出的作品。票价为3000韩元，可通过乐天影院官网和手机应用预订。"
               },
               {
                 "t": "p",
-                "x": "与工作室MakeMake合作时,“我们设计了布景,决定了他穿什么衣服,决定让他坐在电竞椅上……然后,我们用一些AI工具把这个形象与音频同步,而音频是真实的。”"
+                "x": "放映作品共18部，其中包括中短片单元获奖作品9部。为方便观众观看，作品分为5个单元，每个单元编排2~5部，时长约90分钟。"
               },
               {
                 "t": "p",
-                "x": "影片也对AI持警示立场:Gibney提到DOGE工作人员存档了大量U.S. 公民数据,以及Geoffrey Hinton对用这些私人数据训练AI的担忧。"
+                "x": "张权浩导演的中片《路上的罗伊》展示了借助AI拓展的电影想象力；罗伯特·戈德特导演的短片《只在妈妈眼里漂亮的脸》则交织动画与实拍，呈现别样的时空。"
+              },
+              {
+                "t": "p",
+                "x": "放映影院包括京畿地区20家和首尔地区11家，观众可在水原、东滩、板桥、富川、龙仁等京畿主要地区，以及建大入口、金浦机场、永登浦、龙山、世界塔等首尔主要影院观看。"
+              },
+              {
+                "t": "p",
+                "x": "乐天影院相关人士16日表示：“能在影院介绍承载创作者新挑战与想象力的作品，意义重大。”并称：“今后也将把未来型内容与影院相连，提供差异化的文化体验。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Alex Gibney simula la entrevista\ncon Musk que nunca consiguió",
-          "body": "Para su documental 'Musk', Alex Gibney usó un avatar CGI para simular la entrevista con Elon Musk que nunca logró.",
-          "mini_headline": "La entrevista simulada de Gibney a Musk",
+          "headline": "Lotte Cinema proyecta 18\npelículas de AI por 3000 wones",
+          "body": "Lotte Cinema proyecta en exclusiva 18 películas de AI elegidas entre obras de 87 países por 3000 wones (3천원).",
+          "mini_headline": "Películas de AI llegan al cine",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/P118CKSV.jpg?w=650",
-                "cap": "Alex Gibney en el photocall de 'Musk' en la 83.ª edición del Venice International Film Festival, el 8 de septiembre de 2026, en Venecia (Italia)"
+                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
+                "cap": "Foto: Lotte Cultureworks"
               },
               {
                 "t": "p",
-                "x": "La inteligencia artificial es a la vez una decisión creativa y una advertencia en “Musk”, el retrato de Elon Musk firmado por Alex Gibney. En el pódcast “Screen Talk” de IndieWire, Gibney contó que su único contacto con Musk fue a través de X y que su equipo nunca habría conseguido una entrevista en persona."
+                "x": "Lotte Cinema lleva a sus salas el encuentro entre la inteligencia artificial (AI) y el cine. Proyectará en exclusiva, entre los cines del país, 18 obras finalistas y premiadas de los ‘2026 Korea AI Content Awards (K-AICA)’, organizados por la provincia de Gyeonggi y la Agencia de Contenidos de Gyeonggi."
               },
               {
                 "t": "p",
-                "x": "Así que los cineastas usaron AI para construir un avatar de Musk deliberadamente situado en el valle inquietante y para reunir todas sus declaraciones públicas en una “entrevista” simulada. “Reunimos una enorme base de datos de cosas que Elon había dicho realmente, y esas grabaciones son las que usamos de verdad en la película”, dijo Gibney. La idea partía de la obsesión de Musk con la posibilidad de vivir en una simulación."
+                "x": "La muestra especial se celebra hasta el día 28 en 31 cines de Lotte Cinema del área metropolitana de Seúl. Es una oportunidad para ver en pantalla grande y con sonido de cine obras seleccionadas entre 1528 presentadas desde 87 países. La entrada cuesta 3000 wones y las reservas pueden hacerse en el sitio web oficial y la app móvil de Lotte Cinema."
               },
               {
                 "t": "p",
-                "x": "Junto al estudio MakeMake, “diseñamos un decorado. Decidimos qué ropa llevaría. Decidimos sentarlo en una silla gamer … Después, usamos algunas herramientas de AI para sincronizar esa figura con el audio, que es audio real”."
+                "x": "La programación suma 18 obras, incluidas 9 premiadas en las categorías de mediometraje y cortometraje. Para facilitar la visualización, se organizaron en 5 partes, cada una con 2 a 5 obras y unos 90 minutos de duración."
               },
               {
                 "t": "p",
-                "x": "La película también adopta una postura de advertencia sobre la AI: Gibney señala que personal de DOGE archivó un gran volumen de datos de ciudadanos de U.S., y la preocupación de Geoffrey Hinton por entrenar una AI con esos datos privados."
+                "x": "El mediometraje ‘Roy on the Road’, del director Jang Kwon-ho, muestra cómo la AI amplía la imaginación cinematográfica, y el cortometraje ‘Una cara bonita solo a los ojos de mamá’, del director Robert Godet, cruza animación e imagen real para crear un espacio-tiempo singular."
+              },
+              {
+                "t": "p",
+                "x": "Las salas son 20 en Gyeonggi y 11 en Seúl. Pueden verse en zonas clave de Gyeonggi como Suwon, Dongtan, Pangyo, Bucheon y Yongin, y en cines principales de Seúl como Konkuk University Entrance, Gimpo Airport, Yeongdeungpo, Yongsan y World Tower."
+              },
+              {
+                "t": "p",
+                "x": "Un responsable de Lotte Cinema dijo el día 16: “Es muy significativo presentar en el cine obras que reflejan los nuevos desafíos y la imaginación de los creadores”, y añadió: “Seguiremos conectando contenidos del futuro con las salas para ofrecer una experiencia cultural diferenciada”."
               }
             ]
           }
@@ -1219,15 +1159,15 @@
       }
     },
     {
-      "id": "movies-fall2-flawless-vfx",
-      "source_lang": "en",
+      "id": "movies-tapnow-arena-seoul",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "'Fall 2' VFX에서\nFlawless AI 시험",
-      "body": "Koala FX가 'Fall 2'에서 Flawless AI 와이어 제거를 검증했다.",
-      "mini_headline": "'Fall 2', Flawless AI 시험",
+      "headline": "32시간 만에 AI로\n찍는 단편영화",
+      "body": "TapNow 서울 대회 팀들이 32시간 만에 AI로 3~8분 영화를 만들었다.",
+      "mini_headline": "게임하듯 찍는 AI 영화",
       "tool": "Movies",
-      "source": "befores & afters",
-      "url": "https://beforesandafters.com/2026/10/07/fall-2-reaches-new-heights-in-vfx/",
+      "source": "중앙일보",
+      "url": "https://www.joongang.co.kr/article/25471126",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1235,295 +1175,405 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
+            "cap": "‘아레나 피크 아시아’에서 동상을 받은 한국 AI 단편 ‘서푼’의 한 장면. 사진 야호"
           },
           {
             "t": "p",
-            "x": "Michael and Peter Spierig 형제가 연출한 'Fall 2: Deadpoint'는 서바이벌 스릴러의 무대를 TV 타워 하나에서 태국(Thailand)의 가상 산 Mount Kwan으로 옮겼다. 태국의 한 채석장 절벽 위, 지상 약 여섯 미터 높이에는 판자 구조물을 세웠다. Koala FX는 디지털 매트 페인팅으로 만든 풀 CG Mount Kwan과 2.5D 세트 확장, CG 환경까지 400개가 넘는 VFX 숏을 납품했다."
+            "x": "17일 오후 7시경 서울 서초구의 한 빌딩에서 홍콩 기반 AI 창작 플랫폼 탭나우가 주최한 AI 영화 제작 대회 ‘아레나 피크 아시아’ 서울 대회가 끝났다. 참가 팀들은 전날부터 32시간에 걸쳐 탭나우를 80% 이상 활용해 3~8분 길이 AI 영화를 만들었다."
+          },
+          {
+            "t": "p",
+            "x": "총상금 8만달러(약 1억원)를 웃돈 경연은 기획부터 촬영, 편집, 음악, 사운드, 더빙, VFX까지 컴퓨터 한 대로 처리하는 ‘책상머리 제작’이었다. 공모로 뽑힌 한·중·일 160개팀(최대 3인)이 동시에 대회를 치렀고, 서울 행사는 중앙대 첨단영상대학원과 서울국제초단편영화제가 공동주관했다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
+            "cap": "참가자들이 각자 가져온 장비. 사진 서울국제초단편영화제"
           },
           {
             "t": "p",
-            "x": "첫 'Fall'에서는 Scott Mann의 Flawless가 AI 도구 TrueSync로 일부 장면을 다시 더빙했다. 등급 분류를 맞추느라 F-bombs 몇 개를 바꿔야 했던 장면들이다. Koala FX 매니징 디렉터 Dasha Sherman은 “우리는 거의 그들의 테스트 플랫폼이 됐다”며 “Fall 2에서는 R&D 과정에 더 가까웠다”고 말했다. 작업은 주로 수백 개 숏의 와이어 제거였다. Flawless가 도구를 다듬는 사이 Koala FX는 피드백을 보탰다."
+            "x": "16일 오전 11시 주제가 제시되자 다수 참가자가 챗GPT·클로드 등에 줄거리와 장르를 물었고, 콘티 분석도 AI에 맡기는 경우가 많았다. 시나리오를 쓰면서 캐릭터 디자인과 음악을 뽑고, 영상 생성과 편집을 동시에 하는 식으로 기존 공정을 따르지 않는 모습도 보였다."
+          },
+          {
+            "t": "img",
+            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
+            "cap": "32시간 AI 영화 제작에 참가한 40개 한국 팀. 사진 서울국제초단편영화제"
           },
           {
             "t": "p",
-            "x": "VFX 슈퍼바이저 Menelaos Pampoukidis는 업체가 쌓아 온 파이프라인 경험 덕에 AI 도구를 실제 현장 조건에서 꼼꼼히 시험해 볼 수 있었다고 말한다. 플레이트의 조명 깜빡임과 그레인 제거, 마무리 단계의 숏별 부분 수정에도 실무 조언을 보탰다. 두 회사의 협업은 현재 Scott Mann 연출로 제작 중인 'Fall 3'에서도 이어질 예정이다."
+            "x": "18일 시상식에서는 AI 스터디로 만난 동호인들이 만든 단편 ‘서푼’이 한국팀 중 유일하게 3개국 본상(동상)을 받았다. 심사위원 민규동 감독은 “영화 만들기가 게임처럼 스포츠화 될 수도 있겠다는 생각이 들었다”고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "'Fall 2' tests Flawless AI\nin a real VFX pipeline",
-          "body": "Koala FX stress-tested Flawless's AI wire-removal tool on 'Fall 2', feeding flicker and de-grain know-how back.",
-          "mini_headline": "'Fall 2' tests Flawless AI",
+        "ko": {
+          "headline": "32시간 만에 AI로\n찍는 단편영화",
+          "body": "TapNow 서울 대회 팀들이 32시간 만에 AI로 3~8분 영화를 만들었다.",
+          "mini_headline": "게임하듯 찍는 AI 영화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
+                "cap": "‘아레나 피크 아시아’에서 동상을 받은 한국 AI 단편 ‘서푼’의 한 장면. 사진 야호"
               },
               {
                 "t": "p",
-                "x": "'Fall 2: Deadpoint', directed by Michael and Peter Spierig, moves the survival-thriller from a single TV tower to Thailand's fictional Mount Kwan. Plank structures were built on a quarry wall in Thailand, around six metres above the ground, and Koala FX delivered more than 400 VFX shots, including a full CG Mount Kwan built from digital matte painting, 2.5D set extensions and CG environments."
+                "x": "17일 오후 7시경 서울 서초구의 한 빌딩에서 홍콩 기반 AI 창작 플랫폼 탭나우가 주최한 AI 영화 제작 대회 ‘아레나 피크 아시아’ 서울 대회가 끝났다. 참가 팀들은 전날부터 32시간에 걸쳐 탭나우를 80% 이상 활용해 3~8분 길이 AI 영화를 만들었다."
+              },
+              {
+                "t": "p",
+                "x": "총상금 8만달러(약 1억원)를 웃돈 경연은 기획부터 촬영, 편집, 음악, 사운드, 더빙, VFX까지 컴퓨터 한 대로 처리하는 ‘책상머리 제작’이었다. 공모로 뽑힌 한·중·일 160개팀(최대 3인)이 동시에 대회를 치렀고, 서울 행사는 중앙대 첨단영상대학원과 서울국제초단편영화제가 공동주관했다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
+                "cap": "참가자들이 각자 가져온 장비. 사진 서울국제초단편영화제"
               },
               {
                 "t": "p",
-                "x": "On the first 'Fall', Scott Mann's Flawless used its AI tool TrueSync to redub some scenes where a few F-bombs needed to be changed for the film's classification. \"We've become almost a testing platform for them,\" says Koala FX managing director Dasha Sherman. \"On Fall 2, it was more like an R&D process.\" The work centred on wire removals across hundreds of shots, with Flawless trying to perfect the tool while Koala FX gave feedback."
+                "x": "16일 오전 11시 주제가 제시되자 다수 참가자가 챗GPT·클로드 등에 줄거리와 장르를 물었고, 콘티 분석도 AI에 맡기는 경우가 많았다. 시나리오를 쓰면서 캐릭터 디자인과 음악을 뽑고, 영상 생성과 편집을 동시에 하는 식으로 기존 공정을 따르지 않는 모습도 보였다."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
+                "cap": "32시간 AI 영화 제작에 참가한 40개 한국 팀. 사진 서울국제초단편영화제"
               },
               {
                 "t": "p",
-                "x": "VFX supervisor Menelaos Pampoukidis says the vendor's pipeline experience let the AI tools be stress-tested in real-world situations, offering hands-on advice on light flicker on plates, de-graining and spot-fixing shots for a final polish. The relationship is set to continue on 'Fall 3', now in production with Scott Mann directing."
+                "x": "18일 시상식에서는 AI 스터디로 만난 동호인들이 만든 단편 ‘서푼’이 한국팀 중 유일하게 3개국 본상(동상)을 받았다. 심사위원 민규동 감독은 “영화 만들기가 게임처럼 스포츠화 될 수도 있겠다는 생각이 들었다”고 말했다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "'Fall 2' VFX에서\nFlawless AI 시험",
-          "body": "Koala FX가 'Fall 2'에서 Flawless AI 와이어 제거를 검증했다.",
-          "mini_headline": "'Fall 2', Flawless AI 시험",
+        "en": {
+          "headline": "AI short films made\nin just 32 hours",
+          "body": "Teams at TapNow's Seoul contest used AI to make films of 3 to 8 minutes in 32 hours.",
+          "mini_headline": "AI filmmaking played like a game",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
+                "cap": "A scene from ‘Seopun’, a Korean AI short that won a bronze prize at ‘Arena Peak Asia’. Photo: Yaho"
               },
               {
                 "t": "p",
-                "x": "Michael and Peter Spierig 형제가 연출한 'Fall 2: Deadpoint'는 서바이벌 스릴러의 무대를 TV 타워 하나에서 태국(Thailand)의 가상 산 Mount Kwan으로 옮겼다. 태국의 한 채석장 절벽 위, 지상 약 여섯 미터 높이에는 판자 구조물을 세웠다. Koala FX는 디지털 매트 페인팅으로 만든 풀 CG Mount Kwan과 2.5D 세트 확장, CG 환경까지 400개가 넘는 VFX 숏을 납품했다."
+                "x": "Around 7 p.m. on the 17th, the Seoul round of ‘Arena Peak Asia’, an AI filmmaking contest hosted by Hong Kong-based AI creation platform TapNow, ended in a building in Seocho-gu, Seoul. Over 32 hours starting the previous day, teams made AI films 3 to 8 minutes long, using TapNow for more than 80% of the work."
+              },
+              {
+                "t": "p",
+                "x": "The contest, with total prize money of more than 80,000 dollars (8만달러, about 1억원), was ‘desk-bound production’: planning, shooting, editing, music, sound, dubbing and VFX all handled on a single computer. A total of 160 teams (up to 3 people each) from Korea, China and Japan, selected through an open call, competed at the same time, and the Seoul event was co-organized by the Chung-Ang University Graduate School of Advanced Imaging Science and the Seoul International Extreme-Short Image & Film Festival."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
+                "cap": "Equipment the participants brought themselves. Photo: Seoul International Extreme-Short Image & Film Festival"
               },
               {
                 "t": "p",
-                "x": "첫 'Fall'에서는 Scott Mann의 Flawless가 AI 도구 TrueSync로 일부 장면을 다시 더빙했다. 등급 분류를 맞추느라 F-bombs 몇 개를 바꿔야 했던 장면들이다. Koala FX 매니징 디렉터 Dasha Sherman은 “우리는 거의 그들의 테스트 플랫폼이 됐다”며 “Fall 2에서는 R&D 과정에 더 가까웠다”고 말했다. 작업은 주로 수백 개 숏의 와이어 제거였다. Flawless가 도구를 다듬는 사이 Koala FX는 피드백을 보탰다."
+                "x": "When the theme was announced at 11 a.m. on the 16th, many participants asked ChatGPT, Claude and others for plots and genres, and many also left storyboard analysis to AI. Some broke from the conventional workflow, generating character designs and music while writing the script, and producing and editing video at the same time."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
+                "cap": "The 40 Korean teams that took part in the 32-hour AI filmmaking contest. Photo: Seoul International Extreme-Short Image & Film Festival"
               },
               {
                 "t": "p",
-                "x": "VFX 슈퍼바이저 Menelaos Pampoukidis는 업체가 쌓아 온 파이프라인 경험 덕에 AI 도구를 실제 현장 조건에서 꼼꼼히 시험해 볼 수 있었다고 말한다. 플레이트의 조명 깜빡임과 그레인 제거, 마무리 단계의 숏별 부분 수정에도 실무 조언을 보탰다. 두 회사의 협업은 현재 Scott Mann 연출로 제작 중인 'Fall 3'에서도 이어질 예정이다."
+                "x": "At the awards ceremony on the 18th, ‘Seopun’, a short made by hobbyists who met through an AI study group, was the only film by a Korean team to win a main prize (bronze) across the 3 countries. Juror and director Min Kyu-dong said, “It made me think filmmaking could become a sport, like a game.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "'Fall 2'のVFXで\nFlawless AIを検証",
-          "body": "Koala FXが'Fall 2'でFlawlessのAIワイヤー除去ツールを検証した。",
-          "mini_headline": "'Fall 2'でFlawless AIを検証",
+          "headline": "32時間でAIを使い\n短編映画を制作",
+          "body": "TapNowソウル大会の各チームが、32時間でAIを使い3〜8分の映画を作った。",
+          "mini_headline": "ゲーム感覚で撮るAI映画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
+                "cap": "「アリーナ・ピーク・アジア」で銅賞を受けた韓国のAI短編『ソプン』の一場面。写真：ヤホ"
               },
               {
                 "t": "p",
-                "x": "Michael and Peter Spierig兄弟が監督した'Fall 2: Deadpoint'は、サバイバル・スリラーの舞台をひとつのTV塔からタイ(Thailand)の架空の山Mount Kwanへ移した。タイの採石場の岩壁、地上およそ六メートルの高さに板の構造物が組まれ、Koala FXはデジタル・マットペインティングで作ったフルCGのMount Kwan、2.5Dのセット拡張、CG環境を含む400以上のVFXショットを納品した。"
+                "x": "17日午後7時ごろ、ソウル・瑞草区のビルで、香港拠点のAI創作プラットフォームTapNowが主催したAI映画制作大会「アリーナ・ピーク・アジア」のソウル大会が終わった。参加チームは前日から32時間かけ、TapNowを80%以上活用して3〜8分のAI映画を作った。"
+              },
+              {
+                "t": "p",
+                "x": "総賞金8万ドル（8만달러、약 1억원）を上回るこの競技は、企画から撮影、編集、音楽、サウンド、吹き替え、VFXまでをパソコン1台でこなす「机上制作」だった。公募で選ばれた日中韓160チーム（最大3人）が同時に大会に臨み、ソウル会場は中央大学先端映像大学院とソウル国際超短編映画祭が共同主管した。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
+                "cap": "参加者がそれぞれ持ち込んだ機材。写真：ソウル国際超短編映画祭"
               },
               {
                 "t": "p",
-                "x": "1作目の'Fall'では、Scott MannのFlawlessがAIツールTrueSyncを使い、レーティング審査のためにF-bombsをいくつか差し替える必要があった場面を吹き替え直した。「私たちは彼らのテスト・プラットフォームのような存在になった」とKoala FXのマネージング・ディレクター、Dasha Shermanは語る。「Fall 2では、むしろR&Dのプロセスに近かった」。作業の中心は数百ショットに及ぶワイヤー除去で、Flawlessがツールを磨き上げる一方、Koala FXがフィードバックを返した。"
+                "x": "16日午前11時にテーマが発表されると、多くの参加者がChatGPTやClaudeなどにあらすじやジャンルを尋ね、絵コンテの分析もAIに任せるケースが多かった。シナリオを書きながらキャラクターデザインと音楽を生成し、映像生成と編集を同時に進めるなど、従来の工程に従わない姿も見られた。"
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
+                "cap": "32時間のAI映画制作に参加した韓国40チーム。写真：ソウル国際超短編映画祭"
               },
               {
                 "t": "p",
-                "x": "VFXスーパーバイザーのMenelaos Pampoukidisによれば、同社のパイプライン経験によってAIツールを実際の現場状況で徹底的に試すことができた。プレートの光のちらつき、デグレイン、最終仕上げのためのショットごとの部分修正について、実践的な助言も行った。この関係は、Scott Mann監督のもとで現在製作中の'Fall 3'にも引き継がれる予定だ。"
+                "x": "18日の授賞式では、AIの勉強会で知り合った愛好家たちが作った短編『ソプン』が、韓国チームで唯一、3か国の本賞（銅賞）を受けた。審査員のミン・ギュドン監督は「映画づくりがゲームのようにスポーツ化するかもしれないと思った」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "'Fall 2' VFX实战\n检验Flawless AI",
-          "body": "Koala FX在'Fall 2'中实测Flawless的AI去威亚工具并反馈经验。",
-          "mini_headline": "'Fall 2'检验Flawless AI",
+          "headline": "32小时内用AI\n拍成短片",
+          "body": "TapNow首尔赛的参赛队伍在32小时内用AI制作了3~8分钟的影片。",
+          "mini_headline": "像打游戏一样拍AI电影",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
+                "cap": "在“Arena Peak Asia”获得铜奖的韩国AI短片《三文钱》的一个画面。图片：Yaho"
               },
               {
                 "t": "p",
-                "x": "由Michael and Peter Spierig兄弟执导的'Fall 2: Deadpoint'，把这部生存惊悚片的舞台从一座TV塔搬到了泰国(Thailand)虚构的Mount Kwan。剧组在泰国一处采石场岩壁上、离地约六米处搭建了木板结构，Koala FX交付了400多个VFX镜头，其中包括以数字绘景打造的全CG Mount Kwan、2.5D场景延展和CG环境。"
+                "x": "17日晚7时许，由总部位于香港的AI创作平台TapNow主办的AI电影制作大赛“Arena Peak Asia”首尔赛在首尔瑞草区一栋大楼内落幕。参赛队伍从前一天起用32小时，以TapNow完成80%以上的工作，制作出时长3~8分钟的AI电影。"
+              },
+              {
+                "t": "p",
+                "x": "这场总奖金超过8万美元（8만달러，약 1억원）的比赛，是一场从策划到拍摄、剪辑、音乐、音效、配音乃至VFX都在一台电脑上完成的“桌面制作”。经公开征集选出的中日韩160支队伍（每队最多3人）同时参赛，首尔赛由中央大学尖端影像研究生院与首尔国际超短片电影节共同承办。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
+                "cap": "参赛者各自带来的设备。图片：首尔国际超短片电影节"
               },
               {
                 "t": "p",
-                "x": "在第一部'Fall'中，Scott Mann的Flawless曾用其AI工具TrueSync为部分场景重新配音，这些场景为了影片分级需要改掉几处F-bombs。“我们几乎成了他们的测试平台，”Koala FX董事总经理Dasha Sherman说，“在Fall 2上，这更像是一个R&D过程。”工作重点是数百个镜头中的威亚擦除，Flawless不断完善工具，Koala FX则提供反馈。"
+                "x": "16日上午11时主题公布后，许多参赛者向ChatGPT、Claude等询问剧情和类型，也有不少人把分镜分析交给AI。有人一边写剧本一边生成角色设计和音乐，同时进行视频生成与剪辑，并不遵循传统流程。"
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
+                "cap": "参加32小时AI电影制作的40支韩国队伍。图片：首尔国际超短片电影节"
               },
               {
                 "t": "p",
-                "x": "VFX总监Menelaos Pampoukidis表示，凭借这家公司的流程经验，AI工具得以在真实场景中接受压力测试，团队还就素材中的光线闪烁、去颗粒以及最终润色所需的逐镜头修补给出了实操建议。双方的合作将延续到由Scott Mann执导、目前正在制作中的'Fall 3'。"
+                "x": "在18日的颁奖典礼上，由在AI学习小组中结识的爱好者们制作的短片《三文钱》，成为韩国队伍中唯一获得3国正式奖项（铜奖）的作品。评委闵奎东导演说：“我觉得拍电影也许会像游戏一样变成一项运动。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "'Fall 2' pone a prueba la AI de\nFlawless en un pipeline de VFX",
-          "body": "Koala FX probó la AI de Flawless para borrar cables en 'Fall 2' y aportó know-how en flicker y de-grain.",
-          "mini_headline": "'Fall 2' pone a prueba la AI de Flawless",
+          "headline": "Cortos hechos con AI\nen solo 32 horas",
+          "body": "Equipos del certamen de TapNow en Seúl hicieron con AI películas de 3 a 8 minutos en solo 32 horas.",
+          "mini_headline": "Cine con AI, como un videojuego",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
+                "cap": "Escena de ‘Seopun’, corto coreano hecho con AI que ganó el bronce en ‘Arena Peak Asia’. Foto: Yaho"
               },
               {
                 "t": "p",
-                "x": "'Fall 2: Deadpoint', dirigida por Michael and Peter Spierig, traslada el thriller de supervivencia de una sola torre de TV al ficticio Mount Kwan de Tailandia (Thailand). Se construyeron estructuras de tablones sobre la pared de una cantera en Tailandia, a unos seis metros del suelo, y Koala FX entregó más de 400 planos de VFX, entre ellos un Mount Kwan completamente en CG creado con matte painting digital, extensiones de set en 2.5D y entornos CG."
+                "x": "Hacia las 7 de la tarde del día 17 terminó, en un edificio del distrito de Seocho, en Seúl, la ronda de Seúl de ‘Arena Peak Asia’, un concurso de cine con AI organizado por TapNow, plataforma de creación con AI con sede en Hong Kong. Durante 32 horas desde el día anterior, los equipos hicieron películas de AI de 3 a 8 minutos usando TapNow en más del 80% del trabajo."
+              },
+              {
+                "t": "p",
+                "x": "El certamen, con premios totales de más de 80.000 dólares (8만달러, unos 약 1억원), fue una ‘producción de escritorio’: planificación, rodaje, montaje, música, sonido, doblaje y VFX con un solo equipo informático. Un total de 160 equipos de Corea, China y Japón (de hasta 3 personas), elegidos por convocatoria, compitieron a la vez; el evento de Seúl lo coorganizaron la Escuela de Posgrado de Imagen Avanzada de la Universidad Chung-Ang y el Festival Internacional de Cortos Ultracortos de Seúl."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
+                "cap": "Equipos que trajo cada participante. Foto: Festival Internacional de Cortos Ultracortos de Seúl"
               },
               {
                 "t": "p",
-                "x": "En la primera 'Fall', Flawless, la empresa de Scott Mann, usó su herramienta de AI TrueSync para redoblar algunas escenas en las que había que cambiar unos cuantos F-bombs por la clasificación de la película. «Nos hemos convertido casi en una plataforma de pruebas para ellos», dice Dasha Sherman, directora general de Koala FX. «En Fall 2 fue más bien un proceso de R&D». El trabajo se centró en el borrado de cables en cientos de planos, mientras Flawless intentaba perfeccionar la herramienta y Koala FX aportaba sus comentarios."
+                "x": "Cuando se anunció el tema a las 11 de la mañana del día 16, muchos participantes preguntaron a ChatGPT, Claude y otros por la trama y el género, y muchos también dejaron en manos de la AI el análisis del guion gráfico. Algunos no siguieron el proceso tradicional: generaban diseños de personajes y música mientras escribían el guion, y creaban y editaban video al mismo tiempo."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
+                "cap": "Los 40 equipos coreanos que participaron en la producción de cine con AI en 32 horas. Foto: Festival Internacional de Cortos Ultracortos de Seúl"
               },
               {
                 "t": "p",
-                "x": "El supervisor de VFX Menelaos Pampoukidis explica que la experiencia del estudio en pipeline permitió poner a prueba las herramientas de AI en situaciones reales, con consejos prácticos sobre el parpadeo de luz en los plates, el de-graining y los retoques puntuales de planos para el pulido final. La relación continuará en 'Fall 3', ahora en producción con Scott Mann como director."
+                "x": "En la ceremonia de premios del día 18, ‘Seopun’, un corto hecho por aficionados que se conocieron en un grupo de estudio de AI, fue el único de los equipos coreanos en ganar un premio principal (bronce) entre los 3 países. El director Min Kyu-dong, miembro del jurado, dijo: “Pensé que hacer cine podría convertirse en un deporte, como un videojuego”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "'Fall 2' VFX에서\nFlawless AI 시험",
-          "body": "Koala FX가 'Fall 2'에서 Flawless AI 와이어 제거를 검증했다.",
-          "mini_headline": "'Fall 2', Flawless AI 시험",
+        "en": {
+          "headline": "AI short films made\nin just 32 hours",
+          "body": "Teams at TapNow's Seoul contest used AI to make films of 3 to 8 minutes in 32 hours.",
+          "mini_headline": "AI filmmaking played like a game",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
+                "cap": "A scene from ‘Seopun’, a Korean AI short that won a bronze prize at ‘Arena Peak Asia’. Photo: Yaho"
               },
               {
                 "t": "p",
-                "x": "Michael and Peter Spierig 형제가 연출한 'Fall 2: Deadpoint'는 서바이벌 스릴러의 무대를 TV 타워 하나에서 태국(Thailand)의 가상 산 Mount Kwan으로 옮겼다. 태국의 채석장 절벽 위, 지상 약 여섯 미터 높이에 판자 구조물을 세웠고, Koala FX는 디지털 매트 페인팅으로 만든 풀 CG Mount Kwan과 2.5D 세트 확장, CG 환경을 포함해 400개가 넘는 VFX 숏을 납품했다."
+                "x": "Around 7 p.m. on the 17th, the Seoul round of ‘Arena Peak Asia’, an AI filmmaking contest hosted by Hong Kong-based AI creation platform TapNow, ended in a building in Seocho-gu, Seoul. Over 32 hours starting the previous day, teams made AI films 3 to 8 minutes long, using TapNow for more than 80% of the work."
+              },
+              {
+                "t": "p",
+                "x": "The contest, with total prize money of more than 80,000 dollars (8만달러, about 1억원), was ‘desk-bound production’: planning, shooting, editing, music, sound, dubbing and VFX all handled on a single computer. A total of 160 teams (up to 3 people each) from Korea, China and Japan, selected through an open call, competed at the same time, and the Seoul event was co-organized by the Chung-Ang University Graduate School of Advanced Imaging Science and the Seoul International Extreme-Short Image & Film Festival."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
+                "cap": "Equipment the participants brought themselves. Photo: Seoul International Extreme-Short Image & Film Festival"
               },
               {
                 "t": "p",
-                "x": "첫 'Fall'에서는 Scott Mann의 Flawless가 AI 도구 TrueSync로 일부 장면을 다시 더빙했다. 영화 등급 분류에 맞추려면 F-bombs 몇 개를 바꿔야 했던 장면이다. Koala FX 매니징 디렉터 Dasha Sherman은 “우리는 거의 그들의 테스트 플랫폼이 됐다”며 “Fall 2에서는 R&D 과정에 더 가까웠다”고 말했다. 작업의 중심은 수백 개 숏에 걸친 와이어 제거였고, Flawless가 도구를 다듬는 동안 Koala FX가 피드백을 건넸다."
+                "x": "When the theme was announced at 11 a.m. on the 16th, many participants asked ChatGPT, Claude and others for plots and genres, and many also left storyboard analysis to AI. Some broke from the conventional workflow, generating character designs and music while writing the script, and producing and editing video at the same time."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
+                "cap": "The 40 Korean teams that took part in the 32-hour AI filmmaking contest. Photo: Seoul International Extreme-Short Image & Film Festival"
               },
               {
                 "t": "p",
-                "x": "VFX 슈퍼바이저 Menelaos Pampoukidis는 이 업체의 파이프라인 경험 덕분에 AI 도구를 실제 현장 상황에서 철저히 시험할 수 있었다고 말한다. 플레이트의 조명 깜빡임, 그레인 제거, 최종 마무리를 위한 숏별 부분 수정에 관해 실무 조언도 더했다. 이 협업은 현재 Scott Mann 연출로 제작 중인 'Fall 3'에서도 이어질 예정이다."
+                "x": "At the awards ceremony on the 18th, ‘Seopun’, a short made by hobbyists who met through an AI study group, was the only film by a Korean team to win a main prize (bronze) across the 3 countries. Juror and director Min Kyu-dong said, “It made me think filmmaking could become a sport, like a game.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "'Fall 2'のVFXで\nFlawless AIを検証",
-          "body": "Koala FXが'Fall 2'でFlawlessのAIワイヤー除去ツールを検証した。",
-          "mini_headline": "'Fall 2'でFlawless AIを検証",
+          "headline": "32時間でAIを使い\n短編映画を制作",
+          "body": "TapNowソウル大会の各チームが、32時間でAIを使い3〜8分の映画を作った。",
+          "mini_headline": "ゲーム感覚で撮るAI映画",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
+                "cap": "「アリーナ・ピーク・アジア」で銅賞を受けた韓国のAI短編『ソプン』の一場面。写真：ヤホ"
               },
               {
                 "t": "p",
-                "x": "Michael and Peter Spierig兄弟が監督した'Fall 2: Deadpoint'は、サバイバル・スリラーの舞台をひとつのTV塔からタイ(Thailand)の架空の山Mount Kwanへ移した。タイの採石場の岩壁、地上およそ六メートルの高さに板の構造物が組まれ、Koala FXはデジタル・マットペインティングで作ったフルCGのMount Kwan、2.5Dのセット拡張、CG環境を含む400以上のVFXショットを納品した。"
+                "x": "17日午後7時ごろ、ソウル・瑞草区のビルで、香港拠点のAI創作プラットフォームTapNowが主催したAI映画制作大会「アリーナ・ピーク・アジア」のソウル大会が終わった。参加チームは前日から32時間かけ、TapNowを80%以上活用して3〜8分のAI映画を作った。"
+              },
+              {
+                "t": "p",
+                "x": "総賞金8万ドル（8만달러、약 1억원）を上回るこの競技は、企画から撮影、編集、音楽、サウンド、吹き替え、VFXまでをパソコン1台でこなす「机上制作」だった。公募で選ばれた日中韓160チーム（最大3人）が同時に大会に臨み、ソウル会場は中央大学先端映像大学院とソウル国際超短編映画祭が共同主管した。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
+                "cap": "参加者がそれぞれ持ち込んだ機材。写真：ソウル国際超短編映画祭"
               },
               {
                 "t": "p",
-                "x": "1作目の'Fall'では、Scott MannのFlawlessがAIツールTrueSyncを使い、レーティング審査のためにF-bombsをいくつか差し替える必要があった場面を吹き替え直した。「私たちは彼らのテスト・プラットフォームのような存在になった」とKoala FXのマネージング・ディレクター、Dasha Shermanは語る。「Fall 2では、むしろR&Dのプロセスに近かった」。作業の中心は数百ショットに及ぶワイヤー除去で、Flawlessがツールを磨き上げる一方、Koala FXがフィードバックを返した。"
+                "x": "16日午前11時にテーマが発表されると、多くの参加者がChatGPTやClaudeなどにあらすじやジャンルを尋ね、絵コンテの分析もAIに任せるケースが多かった。シナリオを書きながらキャラクターデザインと音楽を生成し、映像生成と編集を同時に進めるなど、従来の工程に従わない姿も見られた。"
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
+                "cap": "32時間のAI映画制作に参加した韓国40チーム。写真：ソウル国際超短編映画祭"
               },
               {
                 "t": "p",
-                "x": "VFXスーパーバイザーのMenelaos Pampoukidisによれば、同社のパイプライン経験によってAIツールを実際の現場状況で徹底的に試すことができた。プレートの光のちらつき、デグレイン、最終仕上げのためのショットごとの部分修正について、実践的な助言も行った。この関係は、Scott Mann監督のもとで現在製作中の'Fall 3'にも引き継がれる予定だ。"
+                "x": "18日の授賞式では、AIの勉強会で知り合った愛好家たちが作った短編『ソプン』が、韓国チームで唯一、3か国の本賞（銅賞）を受けた。審査員のミン・ギュドン監督は「映画づくりがゲームのようにスポーツ化するかもしれないと思った」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "'Fall 2' VFX实战\n检验Flawless AI",
-          "body": "Koala FX在'Fall 2'中实测Flawless的AI去威亚工具并反馈经验。",
-          "mini_headline": "'Fall 2'检验Flawless AI",
+          "headline": "32小时内用AI\n拍成短片",
+          "body": "TapNow首尔赛的参赛队伍在32小时内用AI制作了3~8分钟的影片。",
+          "mini_headline": "像打游戏一样拍AI电影",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
+                "cap": "在“Arena Peak Asia”获得铜奖的韩国AI短片《三文钱》的一个画面。图片：Yaho"
               },
               {
                 "t": "p",
-                "x": "由Michael and Peter Spierig兄弟执导的'Fall 2: Deadpoint'，把这部生存惊悚片的舞台从一座TV塔搬到了泰国(Thailand)虚构的Mount Kwan。剧组在泰国一处采石场岩壁上、离地约六米处搭建了木板结构，Koala FX交付了400多个VFX镜头，其中包括以数字绘景打造的全CG Mount Kwan、2.5D场景延展和CG环境。"
+                "x": "17日晚7时许，由总部位于香港的AI创作平台TapNow主办的AI电影制作大赛“Arena Peak Asia”首尔赛在首尔瑞草区一栋大楼内落幕。参赛队伍从前一天起用32小时，以TapNow完成80%以上的工作，制作出时长3~8分钟的AI电影。"
+              },
+              {
+                "t": "p",
+                "x": "这场总奖金超过8万美元（8만달러，약 1억원）的比赛，是一场从策划到拍摄、剪辑、音乐、音效、配音乃至VFX都在一台电脑上完成的“桌面制作”。经公开征集选出的中日韩160支队伍（每队最多3人）同时参赛，首尔赛由中央大学尖端影像研究生院与首尔国际超短片电影节共同承办。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
+                "cap": "参赛者各自带来的设备。图片：首尔国际超短片电影节"
               },
               {
                 "t": "p",
-                "x": "在第一部'Fall'中，Scott Mann的Flawless曾用其AI工具TrueSync为部分场景重新配音，这些场景为了影片分级需要改掉几处F-bombs。“我们几乎成了他们的测试平台，”Koala FX董事总经理Dasha Sherman说，“在Fall 2上，这更像是一个R&D过程。”工作重点是数百个镜头中的威亚擦除，Flawless不断完善工具，Koala FX则提供反馈。"
+                "x": "16日上午11时主题公布后，许多参赛者向ChatGPT、Claude等询问剧情和类型，也有不少人把分镜分析交给AI。有人一边写剧本一边生成角色设计和音乐，同时进行视频生成与剪辑，并不遵循传统流程。"
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
+                "cap": "参加32小时AI电影制作的40支韩国队伍。图片：首尔国际超短片电影节"
               },
               {
                 "t": "p",
-                "x": "VFX总监Menelaos Pampoukidis表示，凭借这家公司的流程经验，AI工具得以在真实场景中接受压力测试，团队还就素材中的光线闪烁、去颗粒以及最终润色所需的逐镜头修补给出了实操建议。双方的合作将延续到由Scott Mann执导、目前正在制作中的'Fall 3'。"
+                "x": "在18日的颁奖典礼上，由在AI学习小组中结识的爱好者们制作的短片《三文钱》，成为韩国队伍中唯一获得3国正式奖项（铜奖）的作品。评委闵奎东导演说：“我觉得拍电影也许会像游戏一样变成一项运动。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "'Fall 2' pone a prueba la AI de\nFlawless en un pipeline de VFX",
-          "body": "Koala FX probó la AI de Flawless para borrar cables en 'Fall 2' y aportó know-how en flicker y de-grain.",
-          "mini_headline": "'Fall 2' pone a prueba la AI de Flawless",
+          "headline": "Cortos hechos con AI\nen solo 32 horas",
+          "body": "Equipos del certamen de TapNow en Seúl hicieron con AI películas de 3 a 8 minutos en solo 32 horas.",
+          "mini_headline": "Cine con AI, como un videojuego",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://beforesandafters.com/wp-content/uploads/2026/10/IMG_6316.jpg"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
+                "cap": "Escena de ‘Seopun’, corto coreano hecho con AI que ganó el bronce en ‘Arena Peak Asia’. Foto: Yaho"
               },
               {
                 "t": "p",
-                "x": "'Fall 2: Deadpoint', dirigida por Michael and Peter Spierig, traslada el thriller de supervivencia de una sola torre de TV al ficticio Mount Kwan de Tailandia (Thailand). Se construyeron estructuras de tablones sobre la pared de una cantera en Tailandia, a unos seis metros del suelo, y Koala FX entregó más de 400 planos de VFX, entre ellos un Mount Kwan completamente en CG creado con matte painting digital, extensiones de set en 2.5D y entornos CG."
+                "x": "Hacia las 7 de la tarde del día 17 terminó, en un edificio del distrito de Seocho, en Seúl, la ronda de Seúl de ‘Arena Peak Asia’, un concurso de cine con AI organizado por TapNow, plataforma de creación con AI con sede en Hong Kong. Durante 32 horas desde el día anterior, los equipos hicieron películas de AI de 3 a 8 minutos usando TapNow en más del 80% del trabajo."
+              },
+              {
+                "t": "p",
+                "x": "El certamen, con premios totales de más de 80.000 dólares (8만달러, unos 약 1억원), fue una ‘producción de escritorio’: planificación, rodaje, montaje, música, sonido, doblaje y VFX con un solo equipo informático. Un total de 160 equipos de Corea, China y Japón (de hasta 3 personas), elegidos por convocatoria, compitieron a la vez; el evento de Seúl lo coorganizaron la Escuela de Posgrado de Imagen Avanzada de la Universidad Chung-Ang y el Festival Internacional de Cortos Ultracortos de Seúl."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/beforesandafters.com/wp-content/uploads/2026/10/IMG_6317.jpg?w=1280&ssl=1"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
+                "cap": "Equipos que trajo cada participante. Foto: Festival Internacional de Cortos Ultracortos de Seúl"
               },
               {
                 "t": "p",
-                "x": "En la primera 'Fall', Flawless, la empresa de Scott Mann, usó su herramienta de AI TrueSync para redoblar algunas escenas en las que había que cambiar unos cuantos F-bombs por la clasificación de la película. «Nos hemos convertido casi en una plataforma de pruebas para ellos», dice Dasha Sherman, directora general de Koala FX. «En Fall 2 fue más bien un proceso de R&D». El trabajo se centró en el borrado de cables en cientos de planos, mientras Flawless intentaba perfeccionar la herramienta y Koala FX aportaba sus comentarios."
+                "x": "Cuando se anunció el tema a las 11 de la mañana del día 16, muchos participantes preguntaron a ChatGPT, Claude y otros por la trama y el género, y muchos también dejaron en manos de la AI el análisis del guion gráfico. Algunos no siguieron el proceso tradicional: generaban diseños de personajes y música mientras escribían el guion, y creaban y editaban video al mismo tiempo."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
+                "cap": "Los 40 equipos coreanos que participaron en la producción de cine con AI en 32 horas. Foto: Festival Internacional de Cortos Ultracortos de Seúl"
               },
               {
                 "t": "p",
-                "x": "El supervisor de VFX Menelaos Pampoukidis explica que la experiencia del estudio en pipeline permitió poner a prueba las herramientas de AI en situaciones reales, con consejos prácticos sobre el parpadeo de luz en los plates, el de-graining y los retoques puntuales de planos para el pulido final. La relación continuará en 'Fall 3', ahora en producción con Scott Mann como director."
+                "x": "En la ceremonia de premios del día 18, ‘Seopun’, un corto hecho por aficionados que se conocieron en un grupo de estudio de AI, fue el único de los equipos coreanos en ganar un premio principal (bronce) entre los 3 países. El director Min Kyu-dong, miembro del jurado, dijo: “Pensé que hacer cine podría convertirse en un deporte, como un videojuego”."
               }
             ]
           }
@@ -1531,201 +1581,267 @@
       }
     },
     {
-      "id": "movies-duvernay-14th-asteria",
+      "id": "movies-bbc-ai-honesty",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "DuVernay, AI로\n'14th' 기록사진 복원",
-      "body": "Ava DuVernay가 Asteria Film Co.의 AI로 사진을 되살렸다.",
-      "mini_headline": "Asteria AI, '14th' 복원",
+      "headline": "BBC “AI 사용,\n시청자 속이지 않겠다”",
+      "body": "BBC Kate Phillips는 MIPCOM서 AI 사용을 속이지 않겠다 했다.",
+      "mini_headline": "BBC의 AI 정직 약속",
       "tool": "Movies",
-      "source": "IndieWire",
-      "url": "https://www.indiewire.com/features/interviews/ava-duvernay-interview-14th-not-sequel-nyff-1235221117/",
+      "source": "Deadline",
+      "url": "https://deadline.com/2026/10/bbc-kate-phillips-on-ai-youtube-blue-planet-iii-1237155480/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
-            "cap": "64th New York Film Festival '14th' 기자회견에 나선 Ava DuVernay"
+            "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
+            "cap": "BBC 콘텐츠 책임자 Kate Phillips"
           },
           {
             "t": "p",
-            "x": "'13th'로 New York Film Festival의 문을 연 지 10년 만에, Ava DuVernay는 '14th'로 같은 영화제의 막을 내린다. 그래도 “속편이라고 하지는 않겠다”는 게 그의 말이다. 처음엔 출생시민권을 다루려던 영화였지만, 지금 벌어지는 사건들을 배경 삼아 14th Amendment(수정헌법 제14조) 전체를 들여다보는 작품으로 커졌다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
-            "cap": "'14th'에 등장한 Ava DuVernay와 역사학자 Dr. David Blight"
+            "x": "BBC 콘텐츠 책임자 Kate Phillips는 오늘 BBC가 인공지능 사용을 두고 시청자에게 결코 거짓말하지 않겠다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "제작팀은 Library of Congress부터 Arkansas Historical Society, 가족 앨범까지 뒤져 사진을 모았고, DuVernay는 이를 복원하려고 Asteria Film Co.와 손잡았다. 한 번도 디지털화된 적 없는 슬라이드도 있었다. 그는 “그중 일부는 정말 심하게 훼손돼 있었다”고 했다. “영화에 넣을 만큼 해상도를 끌어올리기가 사실상 어렵다”는 바로 그 지점에서 Asteria의 AI-powered 도구가 힘을 보탰다."
+            "x": "Phillips는 “AI는 이제 TV 제작의 일부”이고 “리서치와 편집 도구”로 쓰인다고 짚었다. 그러면서도 Blue Planet III 같은 대형 프로그램의 화면에 보이는 부분에는 AI를 결코 쓰지 않겠다고 못 박았다. MIPCOM 청중 앞에서 Blue Planet III 예고편을 틀던 자리였다."
           },
           {
             "t": "p",
-            "x": "복원 작업은 입체 기법으로 이어졌다. “먼저 복원을 하고, 그다음 로토스코프를 하고, 약간의 움직임을 위해 아주 조금 애니메이션을 넣는다. 그곳 아티스트들이 그 도구들로 사진에 생명을 불어넣었다.” 영화는 11월 27일 일부 극장에서 먼저 개봉하고, 12월 4일 Netflix에 공개된다."
+            "x": "Phillips는 칸(Cannes)에서 “그런 데 AI를 쓰면 시청자에게 거짓말을 하는 셈이고, 우리는 절대 그렇게 할 수 없다”고 했다."
+          },
+          {
+            "t": "p",
+            "x": "보름 전에는 상사인 DG Matt Brittin이 AI-generated Doctor Who 에피소드를 받아 봤다며 “꽤 괜찮다”고 평했다. AI가 일자리와 창의성에 미칠 영향을 걱정하는 BBC 내부 일부는 이 일에 반발했다."
+          },
+          {
+            "t": "p",
+            "x": "Phillips는 오늘 감정을 실어, BBC는 알고리즘에 기대지 않고 지금까지 해 온 방식대로 프로그램을 계속 발주하겠다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "BBC는 여러 채널을 여는 등 YouTube와 협력을 넓히는 중이다. 바로 전날에는 YouTube Europe 대표 Pedro Pina가 플랫폼은 “콘텐츠 제작에 투자하지 않는다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "Phillips는 “최근 누가 알고리즘에 대해, 알고리즘을 기준으로 발주하겠느냐고 물었는데, 아주 분명히 ‘절대 아니다’라고 말하고 싶다”고 했다. 그러고는 “배급 방식이 바뀐다고 해서 우리의 창작 목표가 바뀐 것은 아니다. 사람들은 훌륭한 콘텐츠를 원한다. YouTube는 발주처가 아니라 플랫폼이다. 알고리즘을 기준으로 발주한다면 말 그대로 창작의 껍데기만 남은 것”이라고 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "DuVernay's '14th' restores\narchive photos with AI",
-          "body": "Ava DuVernay used Asteria Film Co.'s AI tools to restore degraded archival photos that could not reach film resolution.",
-          "mini_headline": "Asteria AI restores '14th'",
+          "headline": "BBC won't lie to audiences\nabout its AI use",
+          "body": "At MIPCOM, BBC content chief Kate Phillips said the broadcaster would never lie to its audience about using AI.",
+          "mini_headline": "BBC's AI honesty pledge",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
-                "cap": "Ava DuVernay at the '14th' press conference, 64th New York Film Festival"
+                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
+                "cap": "BBC content boss Kate Phillips"
               },
               {
                 "t": "p",
-                "x": "Ava DuVernay's '14th' closes the New York Film Festival a decade after '13th' opened it, but \"I wouldn't say it's a sequel,\" she says. Conceived as a film about birthright citizenship, it grew into a look at the whole 14th Amendment against current events."
-              },
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
-                "cap": "Ava DuVernay and historian Dr. David Blight in '14th'"
+                "x": "The BBC will never lie to viewers about its use of artificial intelligence, content boss Kate Phillips said today."
               },
               {
                 "t": "p",
-                "x": "DuVernay collaborated with Asteria Film Co. to help restore photos her team found in archives from the Library of Congress to the Arkansas Historical Society and family albums. \"Some of that stuff was really degraded,\" she said, with slides that had never been digitized. \"You can't really get it to be high resolution enough to put in a film,\" and that's where Asteria's AI-powered tools were of assistance."
+                "x": "Phillips noted that “AI is part of TV production now” as a “research and edit tool” but said the corporation will never use AI on huge shows like Blue Planet III in terms of what you see on screen. She was speaking as the MIPCOM audience was shown a trailer of Blue Planet III."
               },
               {
                 "t": "p",
-                "x": "The restoration work led to a stereoscopic technique: \"first you have to restore it, then you have to do rotoscope, and then just a little bit of animation for a little movement. And the artists there used those tools and brought it to life.\" Netflix releases the film in select theaters on November 27 and on Netflix on December 4."
+                "x": "“We would never use AI on something that because you are lying to the audience and we can never do that,” Phillips said in Cannes."
+              },
+              {
+                "t": "p",
+                "x": "Her comments came a fortnight after her boss, DG Matt Brittin, said he had been sent an AI-generated episode of Doctor Who, which he called “pretty good.” This has got some people’s backs up at the BBC, who fear for AI’s impact on jobs and creativity."
+              },
+              {
+                "t": "p",
+                "x": "Phillips delivered an emotional statement today about how the BBC will continue commissioning shows the way it always has, rather than relying on algorithms."
+              },
+              {
+                "t": "p",
+                "x": "Her comments came as the BBC works more closely with YouTube including launching numerous channels and a day after YouTube Europe boss Pedro Pina said the platform is “not invested in producing content.”"
+              },
+              {
+                "t": "p",
+                "x": "“Someone asked me recently about algorithms and whether I’d commission based on algorithms and I’d like to say very clearly, ‘Absolutely not’,” said Phillips. “Just because the distribution mechanism is changing it doesn’t mean that our creative goals have changed. People want great content. YouTube is not a commissioner, it’s a platform. If you commission based on algorithms you are literally a creative carcass.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "DuVernay, AI로\n'14th' 기록사진 복원",
-          "body": "Ava DuVernay가 Asteria Film Co.의 AI로 사진을 되살렸다.",
-          "mini_headline": "Asteria AI, '14th' 복원",
+          "headline": "BBC “AI 사용,\n시청자 속이지 않겠다”",
+          "body": "BBC Kate Phillips는 MIPCOM서 AI 사용을 속이지 않겠다 했다.",
+          "mini_headline": "BBC의 AI 정직 약속",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
-                "cap": "64th New York Film Festival '14th' 기자회견에 나선 Ava DuVernay"
+                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
+                "cap": "BBC 콘텐츠 책임자 Kate Phillips"
               },
               {
                 "t": "p",
-                "x": "'13th'로 New York Film Festival의 문을 연 지 10년 만에, Ava DuVernay는 '14th'로 같은 영화제의 막을 내린다. 그래도 “속편이라고 하지는 않겠다”는 게 그의 말이다. 처음엔 출생시민권을 다루려던 영화였지만, 지금 벌어지는 사건들을 배경 삼아 14th Amendment(수정헌법 제14조) 전체를 들여다보는 작품으로 커졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
-                "cap": "'14th'에 등장한 Ava DuVernay와 역사학자 Dr. David Blight"
+                "x": "BBC 콘텐츠 책임자 Kate Phillips는 오늘 BBC가 인공지능 사용을 두고 시청자에게 결코 거짓말하지 않겠다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "제작팀은 Library of Congress부터 Arkansas Historical Society, 가족 앨범까지 뒤져 사진을 모았고, DuVernay는 이를 복원하려고 Asteria Film Co.와 손잡았다. 한 번도 디지털화된 적 없는 슬라이드도 있었다. 그는 “그중 일부는 정말 심하게 훼손돼 있었다”고 했다. “영화에 넣을 만큼 해상도를 끌어올리기가 사실상 어렵다”는 바로 그 지점에서 Asteria의 AI-powered 도구가 힘을 보탰다."
+                "x": "Phillips는 “AI는 이제 TV 제작의 일부”이고 “리서치와 편집 도구”로 쓰인다고 짚었다. 그러면서도 Blue Planet III 같은 대형 프로그램의 화면에 보이는 부분에는 AI를 결코 쓰지 않겠다고 못 박았다. MIPCOM 청중 앞에서 Blue Planet III 예고편을 틀던 자리였다."
               },
               {
                 "t": "p",
-                "x": "복원 작업은 입체 기법으로 이어졌다. “먼저 복원을 하고, 그다음 로토스코프를 하고, 약간의 움직임을 위해 아주 조금 애니메이션을 넣는다. 그곳 아티스트들이 그 도구들로 사진에 생명을 불어넣었다.” 영화는 11월 27일 일부 극장에서 먼저 개봉하고, 12월 4일 Netflix에 공개된다."
+                "x": "Phillips는 칸(Cannes)에서 “그런 데 AI를 쓰면 시청자에게 거짓말을 하는 셈이고, 우리는 절대 그렇게 할 수 없다”고 했다."
+              },
+              {
+                "t": "p",
+                "x": "보름 전에는 상사인 DG Matt Brittin이 AI-generated Doctor Who 에피소드를 받아 봤다며 “꽤 괜찮다”고 평했다. AI가 일자리와 창의성에 미칠 영향을 걱정하는 BBC 내부 일부는 이 일에 반발했다."
+              },
+              {
+                "t": "p",
+                "x": "Phillips는 오늘 감정을 실어, BBC는 알고리즘에 기대지 않고 지금까지 해 온 방식대로 프로그램을 계속 발주하겠다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "BBC는 여러 채널을 여는 등 YouTube와 협력을 넓히는 중이다. 바로 전날에는 YouTube Europe 대표 Pedro Pina가 플랫폼은 “콘텐츠 제작에 투자하지 않는다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Phillips는 “최근 누가 알고리즘에 대해, 알고리즘을 기준으로 발주하겠느냐고 물었는데, 아주 분명히 ‘절대 아니다’라고 말하고 싶다”고 했다. 그러고는 “배급 방식이 바뀐다고 해서 우리의 창작 목표가 바뀐 것은 아니다. 사람들은 훌륭한 콘텐츠를 원한다. YouTube는 발주처가 아니라 플랫폼이다. 알고리즘을 기준으로 발주한다면 말 그대로 창작의 껍데기만 남은 것”이라고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DuVernay、AIで\n'14th'の記録写真を復元",
-          "body": "Ava DuVernayはAsteria Film Co.のAIで劣化した写真を復元した。",
-          "mini_headline": "Asteria AIが'14th'を復元",
+          "headline": "BBC、AI利用で\n視聴者を欺かず",
+          "body": "BBCのKate PhillipsはMIPCOMで、AI利用で視聴者を欺かないと述べた。",
+          "mini_headline": "BBCのAI誠実宣言",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
-                "cap": "64th New York Film Festivalでの'14th'記者会見に臨むAva DuVernay"
+                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
+                "cap": "BBCコンテンツ責任者のKate Phillips"
               },
               {
                 "t": "p",
-                "x": "Ava DuVernayの'14th'は、'13th'がNew York Film Festivalのオープニングを飾ってから10年後に、同映画祭のクロージングを務める。それでも本人は「続編とは言わない」と語る。出生地主義の市民権をめぐる映画として構想された本作は、現在の出来事を背景に14th Amendment(合衆国憲法修正第14条)全体を見つめる作品へと広がった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
-                "cap": "'14th'のAva DuVernayと歴史家Dr. David Blight"
+                "x": "BBCは人工知能の利用について視聴者に決してうそをつかないと、コンテンツ責任者のKate Phillipsが本日述べた。"
               },
               {
                 "t": "p",
-                "x": "DuVernayは、Library of CongressからArkansas Historical Society、家族のアルバムまで、チームがアーカイブで見つけた写真の復元のためにAsteria Film Co.と協力した。一度もデジタル化されていないスライドもあり、「中には本当にひどく劣化したものもあった」と彼女は言う。「映画に使えるほどの高解像度にはなかなかできない」。そこで力を発揮したのが、AsteriaのAI-poweredツールだった。"
+                "x": "Phillipsは「AIは今やTV制作の一部」であり「リサーチと編集のツール」だと指摘しつつ、Blue Planet IIIのような大型番組では、画面に映るものに関して決してAIを使わないと語った。MIPCOMの聴衆にBlue Planet IIIの予告編が上映される中での発言だった。"
               },
               {
                 "t": "p",
-                "x": "復元作業は立体視の手法へとつながった。「まず復元し、次にロトスコープを行い、少し動きをつけるためにほんの少しアニメーションを加える。そこのアーティストたちがそのツールを使い、写真に命を吹き込んだ」。Netflixは本作を11月27日に一部劇場で公開し、12月4日にNetflixで配信する。"
+                "x": "「そうしたものにAIを使えば視聴者にうそをつくことになり、それは決してできない」と、PhillipsはCannes（カンヌ）で述べた。"
+              },
+              {
+                "t": "p",
+                "x": "この発言は、上司であるDGのMatt Brittinが、AI-generatedのDoctor Whoのエピソードを送られ「かなり良い」と評してから二週間後に出た。これにはAIが雇用と創造性に及ぼす影響を懸念するBBC内部の一部が反発している。"
+              },
+              {
+                "t": "p",
+                "x": "Phillipsは本日、BBCはアルゴリズムに頼るのではなく、これまで通りのやり方で番組の発注を続けると、感情のこもった声明を述べた。"
+              },
+              {
+                "t": "p",
+                "x": "この発言は、BBCが多数のチャンネル開設を含めYouTubeとの連携を深める中、YouTube Europe責任者のPedro Pinaが同プラットフォームは「コンテンツ制作に投資していない」と述べた翌日に出た。"
+              },
+              {
+                "t": "p",
+                "x": "「最近、アルゴリズムについて、アルゴリズムに基づいて発注するかと聞かれたが、はっきり言いたい。『絶対にない』」とPhillipsは述べた。「配信の仕組みが変わっているからといって、私たちの創作上の目標が変わったわけではない。人々は優れたコンテンツを求めている。YouTubeは発注者ではなく、プラットフォームだ。アルゴリズムに基づいて発注するなら、文字通り創造性の抜け殻だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DuVernay借AI\n修复'14th'档案照片",
-          "body": "Ava DuVernay借助Asteria Film Co.的AI修复了老旧档案照片。",
-          "mini_headline": "Asteria AI修复'14th'",
+          "headline": "BBC：不会就AI使用\n欺骗观众",
+          "body": "BBC的Kate Phillips在MIPCOM上表示，该台绝不会就使用AI欺骗观众。",
+          "mini_headline": "BBC的AI诚信承诺",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
-                "cap": "Ava DuVernay出席64th New York Film Festival的'14th'新闻发布会"
+                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
+                "cap": "BBC内容主管Kate Phillips"
               },
               {
                 "t": "p",
-                "x": "'13th'为New York Film Festival揭幕十年后，Ava DuVernay的'14th'将为该电影节闭幕，但她说：“我不会说这是续集。”这部影片最初构思为一部关于出生公民权的电影，后来扩展为结合当下时事、审视整个14th Amendment(第十四修正案)的作品。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
-                "cap": "'14th'中的Ava DuVernay与历史学家Dr. David Blight"
+                "x": "BBC内容主管Kate Phillips今天表示，BBC绝不会在人工智能的使用上对观众撒谎。"
               },
               {
                 "t": "p",
-                "x": "DuVernay与Asteria Film Co.合作，修复团队从Library of Congress到Arkansas Historical Society以及家庭相册等档案中找到的照片。其中有些幻灯片从未被数字化过。“有些东西真的损坏得很严重，”她说，“你很难把它的分辨率提高到足以放进电影里。”Asteria的AI-powered工具正是在这一环节派上了用场。"
+                "x": "Phillips指出，“AI如今已是TV制作的一部分”，是一种“调研和剪辑工具”，但她表示，在Blue Planet III这样的大型节目中，就屏幕上呈现的内容而言，BBC绝不会使用AI。她发言时，MIPCOM的观众正在观看Blue Planet III的预告片。"
               },
               {
                 "t": "p",
-                "x": "修复工作还催生了一种立体技法：“先要修复，然后做转描，再加一点点动画，让画面稍微动起来。那里的艺术家们用这些工具让照片活了起来。”Netflix将于11月27日在部分影院上映该片，并于12月4日在Netflix上线。"
+                "x": "Phillips在戛纳（Cannes）说：“我们绝不会在那样的东西上使用AI，因为那是在对观众撒谎，我们绝不能这样做。”"
+              },
+              {
+                "t": "p",
+                "x": "就在她发言的两周前，她的上司、DG Matt Brittin表示，有人给他发来一集AI-generated的Doctor Who，他称其“相当不错”。此事引起BBC内部一些人的不满，他们担心AI对工作岗位和创造力的影响。"
+              },
+              {
+                "t": "p",
+                "x": "Phillips今天发表了一番动情的讲话，表示BBC将继续沿用一贯的方式委约节目，而不是依赖算法。"
+              },
+              {
+                "t": "p",
+                "x": "她发表上述言论之际，BBC正与YouTube加强合作，包括开设多个频道；就在前一天，YouTube Europe负责人Pedro Pina称该平台“并不投资于内容制作”。"
+              },
+              {
+                "t": "p",
+                "x": "“最近有人问我关于算法的问题，问我是否会依据算法来委约节目，我想非常明确地说：‘绝对不会’，”Phillips说，“分发机制在变，并不意味着我们的创作目标变了。人们想要优质内容。YouTube不是委约方，而是一个平台。如果你依据算法委约，你就真的成了一具创意的空壳。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "DuVernay restaura con AI fotos\nde archivo para '14th'",
-          "body": "Ava DuVernay usó la AI de Asteria Film Co. para restaurar fotos de archivo degradadas.",
-          "mini_headline": "La AI de Asteria restaura '14th'",
+          "headline": "La BBC no mentirá al público\nsobre su uso de AI",
+          "body": "En MIPCOM, Kate Phillips, jefa de contenidos de la BBC, dijo que nunca mentirá al público sobre el uso de AI.",
+          "mini_headline": "La promesa de honestidad de la BBC sobre la AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
-                "cap": "Ava DuVernay en la rueda de prensa de '14th', 64th New York Film Festival"
+                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
+                "cap": "Kate Phillips, jefa de contenidos de la BBC"
               },
               {
                 "t": "p",
-                "x": "'14th', de Ava DuVernay, clausura el New York Film Festival una década después de que '13th' lo inaugurara, pero «yo no diría que es una secuela», afirma. Concebida como una película sobre la ciudadanía por nacimiento, se convirtió en una mirada a toda la 14th Amendment (Decimocuarta Enmienda) a la luz de la actualidad."
-              },
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
-                "cap": "Ava DuVernay y el historiador Dr. David Blight en '14th'"
+                "x": "La BBC nunca mentirá a los espectadores sobre su uso de la inteligencia artificial, afirmó hoy su jefa de contenidos, Kate Phillips."
               },
               {
                 "t": "p",
-                "x": "DuVernay colaboró con Asteria Film Co. para restaurar fotos que su equipo encontró en archivos que iban desde la Library of Congress hasta la Arkansas Historical Society y álbumes familiares. «Parte de ese material estaba muy degradado», dijo, con diapositivas que nunca se habían digitalizado. «No se puede conseguir una resolución lo bastante alta como para ponerlo en una película», y ahí es donde ayudaron las herramientas AI-powered de Asteria."
+                "x": "Phillips señaló que “la AI ya forma parte de la producción de TV” como “herramienta de investigación y edición”, pero dijo que la corporación nunca usará AI en grandes programas como Blue Planet III en lo que se ve en pantalla. Habló mientras al público de MIPCOM se le mostraba un tráiler de Blue Planet III."
               },
               {
                 "t": "p",
-                "x": "El trabajo de restauración derivó en una técnica estereoscópica: «primero hay que restaurarla, luego hay que hacer rotoscopia y después solo un poquito de animación para darle algo de movimiento. Y los artistas de allí usaron esas herramientas y le dieron vida». Netflix estrenará la película en cines seleccionados el 27 de noviembre y en Netflix el 4 de diciembre."
+                "x": "“Nunca usaríamos AI en algo así, porque estaríamos mintiendo al público y eso no podemos hacerlo nunca”, dijo Phillips en Cannes."
+              },
+              {
+                "t": "p",
+                "x": "Sus declaraciones llegaron dos semanas después de que su jefe, el DG Matt Brittin, dijera que le habían enviado un episodio de Doctor Who generado con AI (AI-generated), que calificó de “bastante bueno”. Eso ha molestado a algunas personas en la BBC, que temen el impacto de la AI en el empleo y la creatividad."
+              },
+              {
+                "t": "p",
+                "x": "Phillips pronunció hoy una declaración emotiva sobre cómo la BBC seguirá encargando programas como siempre lo ha hecho, en lugar de depender de algoritmos."
+              },
+              {
+                "t": "p",
+                "x": "Sus palabras llegan mientras la BBC trabaja más estrechamente con YouTube, incluido el lanzamiento de numerosos canales, y un día después de que el jefe de YouTube Europe, Pedro Pina, dijera que la plataforma “no está invirtiendo en producir contenido”."
+              },
+              {
+                "t": "p",
+                "x": "“Hace poco alguien me preguntó por los algoritmos y si encargaría programas basándome en ellos, y quiero decirlo con total claridad: ‘En absoluto’”, dijo Phillips. “Que el mecanismo de distribución esté cambiando no significa que nuestros objetivos creativos hayan cambiado. La gente quiere gran contenido. YouTube no encarga contenidos, es una plataforma. Si encargas basándote en algoritmos, eres literalmente un cadáver creativo”."
               }
             ]
           }
@@ -1733,129 +1849,173 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "DuVernay는 AI로\n'14th' 기록사진 복원",
-          "body": "Ava DuVernay는 Asteria Film Co.의 AI로 사진을 복원했다.",
-          "mini_headline": "Asteria AI, '14th' 복원",
+          "headline": "BBC “AI 사용,\n시청자 속이지 않겠다”",
+          "body": "BBC Kate Phillips는 MIPCOM서 AI 사용을 속이지 않겠다 했다.",
+          "mini_headline": "BBC의 AI 정직 약속",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
-                "cap": "64th New York Film Festival '14th' 기자회견에 나선 Ava DuVernay"
+                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
+                "cap": "BBC 콘텐츠 책임자 Kate Phillips"
               },
               {
                 "t": "p",
-                "x": "Ava DuVernay의 '14th'는 '13th'가 New York Film Festival의 개막을 연 지 10년 만에 같은 영화제의 폐막을 장식한다. 하지만 그는 “속편이라고 하지는 않겠다”고 말한다. 출생시민권에 관한 영화로 구상됐던 작품은 현재의 사건들을 배경으로 14th Amendment(수정헌법 제14조) 전체를 들여다보는 영화로 커졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
-                "cap": "'14th'에 등장한 Ava DuVernay와 역사학자 Dr. David Blight"
+                "x": "BBC는 인공지능 사용에 관해 시청자에게 결코 거짓말하지 않겠다고 콘텐츠 책임자 Kate Phillips가 오늘 밝혔다."
               },
               {
                 "t": "p",
-                "x": "DuVernay는 Library of Congress에서 Arkansas Historical Society, 가족 앨범에 이르기까지 제작팀이 찾아낸 사진을 복원하려고 Asteria Film Co.와 협업했다. 한 번도 디지털화된 적 없는 슬라이드도 있었고, 그는 “그중 일부는 정말 심하게 훼손돼 있었다”고 했다. “영화에 넣을 만큼 해상도를 끌어올리기가 사실상 어렵다”는 그 지점에서 Asteria의 AI-powered 도구가 힘을 보탰다."
+                "x": "Phillips는 “AI는 이제 TV 제작의 일부”이며 “리서치와 편집 도구”로 쓰인다고 짚으면서도, Blue Planet III 같은 대형 프로그램에서 화면에 보이는 부분에는 결코 AI를 쓰지 않겠다고 말했다. 이 발언은 MIPCOM 청중에게 Blue Planet III 예고편이 상영되던 자리에서 나왔다."
               },
               {
                 "t": "p",
-                "x": "복원 작업은 입체 기법으로 이어졌다. “먼저 복원을 하고, 그다음 로토스코프를 하고, 약간의 움직임을 위해 아주 조금 애니메이션을 넣는다. 그곳 아티스트들이 그 도구들로 사진에 생명을 불어넣었다.” Netflix는 이 영화를 11월 27일 일부 극장에서 개봉하고 12월 4일 Netflix에 공개한다."
+                "x": "Phillips는 칸(Cannes)에서 “그런 데 AI를 쓰면 시청자에게 거짓말을 하는 셈이고, 우리는 절대 그렇게 할 수 없다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "그의 발언은 상사인 DG Matt Brittin이 AI-generated Doctor Who 에피소드를 받아 봤다며 “꽤 괜찮다”고 평한 지 보름 만에 나왔다. 이 일로 AI가 일자리와 창의성에 미칠 영향을 우려하는 BBC 내부 일부가 반발했다."
+              },
+              {
+                "t": "p",
+                "x": "Phillips는 오늘 BBC가 알고리즘에 기대지 않고 지금까지 해 온 방식대로 프로그램을 계속 발주하겠다는 감정 어린 발언을 했다."
+              },
+              {
+                "t": "p",
+                "x": "이 발언은 BBC가 여러 채널을 여는 등 YouTube와 협력을 넓히는 가운데, YouTube Europe 대표 Pedro Pina가 플랫폼은 “콘텐츠 제작에 투자하지 않는다”고 말한 다음 날 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "Phillips는 “최근 누가 알고리즘에 대해, 알고리즘을 기준으로 발주하겠느냐고 물었는데, 아주 분명히 ‘절대 아니다’라고 말하고 싶다”고 했다. 이어 “배급 방식이 바뀐다고 해서 우리의 창작 목표가 바뀐 것은 아니다. 사람들은 훌륭한 콘텐츠를 원한다. YouTube는 발주처가 아니라 플랫폼이다. 알고리즘을 기준으로 발주한다면 말 그대로 창작의 껍데기만 남은 것”이라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "DuVernay、AIで\n'14th'の記録写真を復元",
-          "body": "Ava DuVernayはAsteria Film Co.のAIで劣化した写真を復元した。",
-          "mini_headline": "Asteria AIが'14th'を復元",
+          "headline": "BBC、AI利用で\n視聴者を欺かず",
+          "body": "BBCのKate PhillipsはMIPCOMで、AI利用で視聴者を欺かないと述べた。",
+          "mini_headline": "BBCのAI誠実宣言",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
-                "cap": "64th New York Film Festivalでの'14th'記者会見に臨むAva DuVernay"
+                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
+                "cap": "BBCコンテンツ責任者のKate Phillips"
               },
               {
                 "t": "p",
-                "x": "Ava DuVernayの'14th'は、'13th'がNew York Film Festivalのオープニングを飾ってから10年後に、同映画祭のクロージングを務める。それでも本人は「続編とは言わない」と語る。出生地主義の市民権をめぐる映画として構想された本作は、現在の出来事を背景に14th Amendment(合衆国憲法修正第14条)全体を見つめる作品へと広がった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
-                "cap": "'14th'のAva DuVernayと歴史家Dr. David Blight"
+                "x": "BBCは人工知能の利用について視聴者に決してうそをつかないと、コンテンツ責任者のKate Phillipsが本日述べた。"
               },
               {
                 "t": "p",
-                "x": "DuVernayは、Library of CongressからArkansas Historical Society、家族のアルバムまで、チームがアーカイブで見つけた写真の復元のためにAsteria Film Co.と協力した。一度もデジタル化されていないスライドもあり、「中には本当にひどく劣化したものもあった」と彼女は言う。「映画に使えるほどの高解像度にはなかなかできない」。そこで力を発揮したのが、AsteriaのAI-poweredツールだった。"
+                "x": "Phillipsは「AIは今やTV制作の一部」であり「リサーチと編集のツール」だと指摘しつつ、Blue Planet IIIのような大型番組では、画面に映るものに関して決してAIを使わないと語った。MIPCOMの聴衆にBlue Planet IIIの予告編が上映される中での発言だった。"
               },
               {
                 "t": "p",
-                "x": "復元作業は立体視の手法へとつながった。「まず復元し、次にロトスコープを行い、少し動きをつけるためにほんの少しアニメーションを加える。そこのアーティストたちがそのツールを使い、写真に命を吹き込んだ」。Netflixは本作を11月27日に一部劇場で公開し、12月4日にNetflixで配信する。"
+                "x": "「そうしたものにAIを使えば視聴者にうそをつくことになり、それは決してできない」と、PhillipsはCannes（カンヌ）で述べた。"
+              },
+              {
+                "t": "p",
+                "x": "この発言は、上司であるDGのMatt Brittinが、AI-generatedのDoctor Whoのエピソードを送られ「かなり良い」と評してから二週間後に出た。これにはAIが雇用と創造性に及ぼす影響を懸念するBBC内部の一部が反発している。"
+              },
+              {
+                "t": "p",
+                "x": "Phillipsは本日、BBCはアルゴリズムに頼るのではなく、これまで通りのやり方で番組の発注を続けると、感情のこもった声明を述べた。"
+              },
+              {
+                "t": "p",
+                "x": "この発言は、BBCが多数のチャンネル開設を含めYouTubeとの連携を深める中、YouTube Europe責任者のPedro Pinaが同プラットフォームは「コンテンツ制作に投資していない」と述べた翌日に出た。"
+              },
+              {
+                "t": "p",
+                "x": "「最近、アルゴリズムについて、アルゴリズムに基づいて発注するかと聞かれたが、はっきり言いたい。『絶対にない』」とPhillipsは述べた。「配信の仕組みが変わっているからといって、私たちの創作上の目標が変わったわけではない。人々は優れたコンテンツを求めている。YouTubeは発注者ではなく、プラットフォームだ。アルゴリズムに基づいて発注するなら、文字通り創造性の抜け殻だ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "DuVernay借AI\n修复'14th'档案照片",
-          "body": "Ava DuVernay借助Asteria Film Co.的AI修复了老旧档案照片。",
-          "mini_headline": "Asteria AI修复'14th'",
+          "headline": "BBC：不会就AI使用\n欺骗观众",
+          "body": "BBC的Kate Phillips在MIPCOM上表示，该台绝不会就使用AI欺骗观众。",
+          "mini_headline": "BBC的AI诚信承诺",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
-                "cap": "Ava DuVernay出席64th New York Film Festival的'14th'新闻发布会"
+                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
+                "cap": "BBC内容主管Kate Phillips"
               },
               {
                 "t": "p",
-                "x": "'13th'为New York Film Festival揭幕十年后，Ava DuVernay的'14th'将为该电影节闭幕，但她说：“我不会说这是续集。”这部影片最初构思为一部关于出生公民权的电影，后来扩展为结合当下时事、审视整个14th Amendment(第十四修正案)的作品。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
-                "cap": "'14th'中的Ava DuVernay与历史学家Dr. David Blight"
+                "x": "BBC内容主管Kate Phillips今天表示，BBC绝不会在人工智能的使用上对观众撒谎。"
               },
               {
                 "t": "p",
-                "x": "DuVernay与Asteria Film Co.合作，修复团队从Library of Congress到Arkansas Historical Society以及家庭相册等档案中找到的照片。其中有些幻灯片从未被数字化过。“有些东西真的损坏得很严重，”她说，“你很难把它的分辨率提高到足以放进电影里。”Asteria的AI-powered工具正是在这一环节派上了用场。"
+                "x": "Phillips指出，“AI如今已是TV制作的一部分”，是一种“调研和剪辑工具”，但她表示，在Blue Planet III这样的大型节目中，就屏幕上呈现的内容而言，BBC绝不会使用AI。她发言时，MIPCOM的观众正在观看Blue Planet III的预告片。"
               },
               {
                 "t": "p",
-                "x": "修复工作还催生了一种立体技法：“先要修复，然后做转描，再加一点点动画，让画面稍微动起来。那里的艺术家们用这些工具让照片活了起来。”Netflix将于11月27日在部分影院上映该片，并于12月4日在Netflix上线。"
+                "x": "Phillips在戛纳（Cannes）说：“我们绝不会在那样的东西上使用AI，因为那是在对观众撒谎，我们绝不能这样做。”"
+              },
+              {
+                "t": "p",
+                "x": "就在她发言的两周前，她的上司、DG Matt Brittin表示，有人给他发来一集AI-generated的Doctor Who，他称其“相当不错”。此事引起BBC内部一些人的不满，他们担心AI对工作岗位和创造力的影响。"
+              },
+              {
+                "t": "p",
+                "x": "Phillips今天发表了一番动情的讲话，表示BBC将继续沿用一贯的方式委约节目，而不是依赖算法。"
+              },
+              {
+                "t": "p",
+                "x": "她发表上述言论之际，BBC正与YouTube加强合作，包括开设多个频道；就在前一天，YouTube Europe负责人Pedro Pina称该平台“并不投资于内容制作”。"
+              },
+              {
+                "t": "p",
+                "x": "“最近有人问我关于算法的问题，问我是否会依据算法来委约节目，我想非常明确地说：‘绝对不会’，”Phillips说，“分发机制在变，并不意味着我们的创作目标变了。人们想要优质内容。YouTube不是委约方，而是一个平台。如果你依据算法委约，你就真的成了一具创意的空壳。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "DuVernay restaura con AI fotos\nde archivo para '14th'",
-          "body": "Ava DuVernay usó la AI de Asteria Film Co. para restaurar fotos de archivo degradadas.",
-          "mini_headline": "La AI de Asteria restaura '14th'",
+          "headline": "La BBC no mentirá al público\nsobre su uso de AI",
+          "body": "En MIPCOM, Kate Phillips, jefa de contenidos de la BBC, dijo que nunca mentirá al público sobre el uso de AI.",
+          "mini_headline": "La promesa de honestidad de la BBC sobre la AI",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-2299397235.jpg?w=650",
-                "cap": "Ava DuVernay en la rueda de prensa de '14th', 64th New York Film Festival"
+                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
+                "cap": "Kate Phillips, jefa de contenidos de la BBC"
               },
               {
                 "t": "p",
-                "x": "'14th', de Ava DuVernay, clausura el New York Film Festival una década después de que '13th' lo inaugurara, pero «yo no diría que es una secuela», afirma. Concebida como una película sobre la ciudadanía por nacimiento, se convirtió en una mirada a toda la 14th Amendment (Decimocuarta Enmienda) a la luz de la actualidad."
-              },
-              {
-                "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/14th-Film-Still-2.jpg?w=650",
-                "cap": "Ava DuVernay y el historiador Dr. David Blight en '14th'"
+                "x": "La BBC nunca mentirá a los espectadores sobre su uso de la inteligencia artificial, afirmó hoy su jefa de contenidos, Kate Phillips."
               },
               {
                 "t": "p",
-                "x": "DuVernay colaboró con Asteria Film Co. para restaurar fotos que su equipo encontró en archivos que iban desde la Library of Congress hasta la Arkansas Historical Society y álbumes familiares. «Parte de ese material estaba muy degradado», dijo, con diapositivas que nunca se habían digitalizado. «No se puede conseguir una resolución lo bastante alta como para ponerlo en una película», y ahí es donde ayudaron las herramientas AI-powered de Asteria."
+                "x": "Phillips señaló que “la AI ya forma parte de la producción de TV” como “herramienta de investigación y edición”, pero dijo que la corporación nunca usará AI en grandes programas como Blue Planet III en lo que se ve en pantalla. Habló mientras al público de MIPCOM se le mostraba un tráiler de Blue Planet III."
               },
               {
                 "t": "p",
-                "x": "El trabajo de restauración derivó en una técnica estereoscópica: «primero hay que restaurarla, luego hay que hacer rotoscopia y después solo un poquito de animación para darle algo de movimiento. Y los artistas de allí usaron esas herramientas y le dieron vida». Netflix estrenará la película en cines seleccionados el 27 de noviembre y en Netflix el 4 de diciembre."
+                "x": "“Nunca usaríamos AI en algo así, porque estaríamos mintiendo al público y eso no podemos hacerlo nunca”, dijo Phillips en Cannes."
+              },
+              {
+                "t": "p",
+                "x": "Sus declaraciones llegaron dos semanas después de que su jefe, el DG Matt Brittin, dijera que le habían enviado un episodio de Doctor Who generado con AI (AI-generated), que calificó de “bastante bueno”. Eso ha molestado a algunas personas en la BBC, que temen el impacto de la AI en el empleo y la creatividad."
+              },
+              {
+                "t": "p",
+                "x": "Phillips pronunció hoy una declaración emotiva sobre cómo la BBC seguirá encargando programas como siempre lo ha hecho, en lugar de depender de algoritmos."
+              },
+              {
+                "t": "p",
+                "x": "Sus palabras llegan mientras la BBC trabaja más estrechamente con YouTube, incluido el lanzamiento de numerosos canales, y un día después de que el jefe de YouTube Europe, Pedro Pina, dijera que la plataforma “no está invirtiendo en producir contenido”."
+              },
+              {
+                "t": "p",
+                "x": "“Hace poco alguien me preguntó por los algoritmos y si encargaría programas basándome en ellos, y quiero decirlo con total claridad: ‘En absoluto’”, dijo Phillips. “Que el mecanismo de distribución esté cambiando no significa que nuestros objetivos creativos hayan cambiado. La gente quiere gran contenido. YouTube no encarga contenidos, es una plataforma. Si encargas basándote en algoritmos, eres literalmente un cadáver creativo”."
               }
             ]
           }

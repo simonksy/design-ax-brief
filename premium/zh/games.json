@@ -7574,6 +7574,131 @@
           "x": "Konami并没有弃用这项技术。他说：“Konami提供系统性的支持，让创作者能够掌握新技术、恰当评估其可能带来的风险，并将其安全地应用于游戏开发。”"
         }
       ]
+    },
+    "games/games-steam-noai-filter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "Valve面向独立游戏和试玩版的活动Steam Next Fest已经开幕，粗制滥造的游戏似乎比往常更多——不少作品的美术像是随手用ChatGPT提示词生成的，或者干脆就是用AI生成的AI-made游戏。"
+        },
+        {
+          "t": "p",
+          "x": "在Steam的subreddit上，用户ScalesGhost希望能更好地控制Discovery Queue：“我希望能过滤掉所有含有AI-Generated内容的游戏（毕竟steam已经要求披露这一点），我还想排除某些标签。”"
+        },
+        {
+          "t": "p",
+          "x": "Steam已有一套完善的标签系统，但Valve在5月削减了用户自定义标签；要实现这样的过滤器，Valve必须把“AI”加为标签。其他用户抱怨AI“毁了Next Fest”，希望Steam实行更严格的提交准则。"
+        },
+        {
+          "t": "p",
+          "x": "Valve长期对内容筛选采取放任态度，依靠算法埋没劣质游戏。与此同时，AI在游戏开发中持续扩散：Epic为追求“AI-first”方向推迟了旗下Star Wars射击游戏，据报道Capcom正在REX项目中使用AI来改进RE Engine。"
+        }
+      ]
+    },
+    "games/games-finals-ai-commentary": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "eA9_Q6d2H-g"
+        },
+        {
+          "t": "p",
+          "x": "Arc Raiders的前作正借助AI的力量引入动态解说。The Finals是Embark Studios在推出其大型撤离射击游戏之前发行的多人FPS，如今将通过游戏内实况解说实时点名玩家。"
+        },
+        {
+          "t": "p",
+          "x": "团队在一段短视频中公布了这一功能。简单来说，玩The Finals时听到的两位解说Scott和June，会在有人打出精彩操作时喊出对方的昵称。也就是说，你听到的不再只是“这是一记漂亮的爆头”，而是“[Player]刚刚打出一记漂亮的爆头”。"
+        },
+        {
+          "t": "p",
+          "x": "起初，这类播报的触发场景会相对较少，方便开发者测试这项技术。The Finals音频总监Carl Strandberg解释说：“范围收窄，意味着我们可以把关他实际说的内容。”“确保它听起来不错，而且像我们都熟悉和喜爱的那个Scotty。”"
+        },
+        {
+          "t": "p",
+          "x": "这一切都由AI驱动，因为这个声音本质上是在执行自动文本转语音（text-to-speech）功能。解说本身早已使用这项技术，几年前粉丝得知此事时，Embark曾遭到一些批评。"
+        },
+        {
+          "t": "p",
+          "x": "该功能将随10月20日的Prime Time更新上线。"
+        }
+      ]
+    },
+    "games/games-ukie-ai-mark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "UKIE与律师事务所Sheridans合作推出AI Compliance and Accreditation Service，帮助UK工作室合法、负责任地使用AI。该服务分为四个步骤，最终授予UKIE Certification Mark，工作室可在项目推介和融资中借此证明自身合规并已尽职调查。"
+        },
+        {
+          "t": "p",
+          "x": "UKIE CEO Nick Poole表示，大多数会员每天都在试用这些工具，“但大家普遍担心的是，如何弄清法律和商业风险所在，并证明自己已经认真对待这些风险。”"
+        },
+        {
+          "t": "p",
+          "x": "Sheridans合伙人Anna Poulter-Jones表示，由于围绕AI的法律和公共政策不断变化，该服务也包括审查工作室的现有政策。"
+        },
+        {
+          "t": "p",
+          "x": "AI合规检查加制定新AI政策的费用，UKIE会员通常为£1,500–£2,000，非会员为£2,000–£2,500。审查现有政策并持续进行合规检查，会员费用为£500–£750，非会员为£750–£1,000。"
+        }
+      ]
+    },
+    "games/games-japan-union-ai-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Japan Actors Union（日本演员工会）发布了关于AI生成（AI-generated）语音使用的新准则，其中包括禁止复制已故演员的声音，除非其生前曾予以授权。据Automaton报道，此举旨在保护一个暴露在生成式AI剥削之下的行业。"
+        },
+        {
+          "t": "p",
+          "x": "准则涵盖四点：在包括训练在内的生成式AI流程“每个阶段”都必须获得同意；AI复制品被视为新的表演，因此应支付版税或报酬；AI驱动（AI-powered）的翻译必须保持原作的“艺术完整性”，并需获得许可才能在海外使用；使用已故演员的作品还需征得其家属和经纪公司的许可，并支付版税。"
+        },
+        {
+          "t": "p",
+          "x": "工会表示，将推动把这些准则变为全行业规则，并敦促政府为‘声音权’立法。这些准则并非法律，对AI公司不具约束力。"
+        }
+      ]
+    },
+    "games/games-npctalk-gta5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+        },
+        {
+          "t": "p",
+          "x": "一款名为NPCTalk的AI-powered模组工具包，为Grand Theft Auto V带来了无脚本的实时对话：玩家可以直接与NPCs交谈，并听到以AI克隆（AI-cloned）的原声作出的回应。该开源项目由Universal Modder开发，目标是为几乎所有可加装模组的游戏带来类似功能。"
+        },
+        {
+          "t": "p",
+          "x": "玩家通过麦克风说话，即可得到契合语境的回复，反映每个角色的性格和所处环境。NPCs还能做出肢体反应，执行动画或听从语音指令。"
+        },
+        {
+          "t": "p",
+          "x": "语音识别由NVIDIA的Nemotron ASR负责，对话生成由运行在Cerebras上的Qwen 3.8 27B 完成，语音克隆与语音合成则由Fish Audio Drama 3在云端NVIDIA H100 GPU上处理。项目文档显示，使用push-to-talk时，从玩家说完一句话到NPC开口约需1.15–2.2秒。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+          "cap": "NPCTalk架构。图片来源：NPCTalk GitHub仓库。"
+        },
+        {
+          "t": "p",
+          "x": "NPCTalk在Claude Code的协助下开发，其经验被封装为可复用的AI-agent技能。每款游戏仍需单独集成，目前仅在GTA V Legacy的单人模式中展示过。该工具包以MIT许可证发布在GitHub上；可免费游玩的GTA V模组将于下周推出。"
+        }
+      ]
     }
   }
 }

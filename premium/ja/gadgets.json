@@ -8186,6 +8186,135 @@
           "x": "コメント欄では暗号資産マイニングによるGPU不足を思い出す声もあったが、Tom's Hardwareはその可能性は低いとみる。PS5のGPUは最速でもなく、RAMも最大ではないからだ。"
         }
       ]
+    },
+    "gadgets/gadgets-ai-dumb-smart-tv": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+          "cap": "Image Credits: Google"
+        },
+        {
+          "t": "p",
+          "x": "開発者やvibe codersが、スマートTVsを「vibe-code」する方法を共有している。スポンサー広告の削除、ランチャーの高速化、ホーム画面の再設計、自動コンテンツ認識(ACR)などのトラッキングの無効化だ。"
+        },
+        {
+          "t": "p",
+          "x": "「cleanyourtv」の作者Gathin T.は、Claude Codeを使って両親のTVからWi-Fi経由でXiaomiのパッケージ25個を削除し、新しいランチャーを作らせた。二日のうちに数千人が同じことを試した。rootは不要で、工場出荷時の状態に戻すこともできる。"
+        },
+        {
+          "t": "p",
+          "x": "Muzzammil Yasin Sabuwalaによる「dumbtv」は、Fire TV、Sony、TCL、Philips、Hisense、Xiaomi、Shieldで動作が確認されている。ユーザーはAIエージェントにGitHubのリポジトリを示すだけでいい。Ryan Doyleのように、自分のTVのリスティングをハックするようClaude Codeに頼んだだけの人もいる。"
+        },
+        {
+          "t": "p",
+          "x": "結果はまちまちだ。プロンプトが拒否されることもあり、エージェントが重要なパッケージを無効にしてしまう恐れもある。あるユーザーはAndroid TVを文鎮化させたという。広く普及すれば、スマートTVの広告業界を脅かしかねない。"
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel11-magic-capture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Pixel 11のMagic Captureは、Geminiモデルで約400の動画フレームを解析し、最良のものを写真として保存する。録画は最長2分で、常に5枚の写真を返し、補正のために映像をクラウドへ送る。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "曇りの日のPhoenix Zooでは、うなるジャガーと構図の整ったプレーリードッグを見事に捉えた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "薄暗いライブ会場の後方からでは期待外れだった。無印のPixel 11では、Magic Captureは10.8MPの望遠でズームが4xまでに制限され、1080p・30fpsで録画し、フレームをクロップするため、ぼやけてノイズの多い写真になった。"
+        },
+        {
+          "t": "p",
+          "x": "最も力を発揮するのは、明るい環境でメインカメラを使うときだ。ライブ用には、48MPのペリスコープ望遠を備えたPixel 11 ProかPro XLをレビュアーは勧めている。"
+        }
+      ]
+    },
+    "gadgets/gadgets-homeview-robot-arm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Appleは待望のスマートホームディスプレイ「HomeView」を発表し、価格は$299だ。ただ、この製品はかなり前から開発が続いており、より賢いSiriの開発が遅れ続けたことで足止めされていた。"
+        },
+        {
+          "t": "p",
+          "x": "発売を受けて、複数の人が囲むテーブルに置いた場合、HomeViewを自分で動かさなければならない点を懸念する顧客も出ている。Power Onニュースレターによれば、Appleが解決策を出すまでそう長くはかからないかもしれない。"
+        },
+        {
+          "t": "p",
+          "x": "BloombergのMark Gurmanによると、コードネームJ595の強化版HomeViewが2027年か2028年の発売に向けて計画されている。見た目は現行のHomeViewに似ているが、画面は約9インチ(7インチから拡大)となり、ディスプレイを360度回転させる電動ロボットアームを備える。音声認識で話している人を特定し、その人のほうへ向くよう設計されている。"
+        },
+        {
+          "t": "p",
+          "x": "これはHomeViewを置き換えるものではなく、ラインアップの上位モデルとなる。そのため、同じ$299の価格は期待しないほうがいい。"
+        }
+      ]
+    },
+    "gadgets/gadgets-repair-robot-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "AIデータラボのHUMXNは、配管、電気、HVAC、エアダクト清掃、カーペット清掃の費用を補助する。住宅所有者は、「ウェアラブル・キャプチャー技術」を身につけた技術者が自宅で作業することを認める代わりに、無料で作業を受けられる。"
+        },
+        {
+          "t": "p",
+          "x": "「ロボットは、熟練した人が物理世界とどう関わっているかを理解する必要がある」と創業者のThomas Uniseは語る。実験室では自然な動きを捉えにくいため、映像はさまざまな住宅、設備、問題、技術者にわたり、診断から道具選び、作業完了の確認までを収める。"
+        },
+        {
+          "t": "p",
+          "x": "サービス業者には引き続き報酬が支払われる。プログラムは、気候の異なるMinneapolis、Chicago、Miamiで始まる。Tom's Hardwareは、Meta、Nvidia、OpenAIなどのラボがデータを持ち去ったと非難されてきた中で、訓練データに対価を払うのは新鮮だと評している。"
+        }
+      ]
+    },
+    "gadgets/gadgets-qwen-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+        },
+        {
+          "t": "p",
+          "x": "U.S.（米国）ではスマートグラスの話題をMetaが独占しているが、中国ではAlibabaが主役だ。このEC大手はすでに複数世代のスマートグラスを手がけており、最新モデルは少なくとも技術面で、Metaの製品との差を大きく広げ始めている。"
+        },
+        {
+          "t": "p",
+          "x": "Alibabaによると、$490（3,499 RMB）のQwen Glasses N1は50メガピクセルのカメラセンサーを搭載する。最新のRay-Ban Meta（Gen 3）でさえ12メガピクセルのセンサーにとどまる。Alibabaは待機時25時間、音楽再生時九時間のバッテリー持続もうたう。最新のRay-Ban製品は、混合利用で一回の充電あたり最大九時間とされる。"
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
+          "cap": "最新のRay-Banスマートグラス（写真）は、いくつかの点でAlibaba製品に後れを取る。© Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "N1にはMetaにない機能もある。1.7mm の小さな視線追跡カメラにより、グラスのAIはユーザーが何を見ているかを正確に把握し、虹彩をスキャンしてAlipayの決済を承認することもできるという。ブリッジ部のセンサーは体温を計測する。Gizmodoは実機を試していないが、仕様上はU.S.（米国）で手に入る製品より一段上だ。"
+        }
+      ]
     }
   }
 }

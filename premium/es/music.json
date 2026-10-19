@@ -7243,6 +7243,130 @@
           "x": "En YouTube le va aún mejor: ‘The Adult I Dreamed Of’ ocupa el segundo lugar en la última lista Weekly Top Songs de la plataforma para Corea del Sur, con 3,2 millones de visualizaciones semanales. En YouTube lleva una etiqueta ‘AI’ conforme a la política de etiquetado que YouTube Music acaba de anunciar."
         }
       ]
+    },
+    "music/music-rodrigo-expectations-debunk": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+          "cap": "Olivia Rodrigo actúa en Daisy Chain Fields, en el Great Park de Irvine, California, el sábado 29 de agosto"
+        },
+        {
+          "t": "p",
+          "x": "Olivia Rodrigo publicó un video para el remix de \"Expectations\" con Chappell Roan, y algunos espectadores sospecharon que se había usado AI. Después, uno de los diseñadores del equipo artístico y la cuenta oficial de fans de Rodrigo mostraron material del detrás de cámaras con animaciones 2D y 3D dibujadas a mano, tratamientos analógicos y, al parecer, nada de AI."
+        },
+        {
+          "t": "p",
+          "x": "Las acusaciones se centraron en una escena cerca del minuto tres, en la que logos retro y animaciones de Rodrigo y Roan atraviesan el encuadre; los espectadores señalaron incoherencias en los dedos de las cantantes."
+        },
+        {
+          "t": "p",
+          "x": "El video de @LiviesHQ reúne bocetos y grabaciones de animación 3D. Jack Harrison dirigió el tratamiento analógico detrás del aspecto retro y lo-fi del video: el equipo creó las animaciones en software 2D y 3D, las reprodujo en un PC con Windows Vista y filmó la pantalla con una cámara de alta resolución."
+        },
+        {
+          "t": "p",
+          "x": "A principios de este mes, Rodrigo dijo a The Hollywood Reporter que \"nunca\" usaría AI en su música. \"Absolutamente no. Es una línea roja\", afirmó."
+        }
+      ]
+    },
+    "music/music-suno-lightspeed-subpoena": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+          "cap": "Crédito: Zulfugar Graphics/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music Group y Sony Music Entertainment quieren que Lightspeed Venture Partners, inversor principal de la Series B de Suno, entregue documentos y testifique. En un escrito presentado el martes 13 de octubre ante un tribunal federal de Boston, se opusieron a la moción de Lightspeed para anular su citación. Los temas incluyen el \"riesgo legal de los datos de entrenamiento\" tratado en un documento que Lightspeed ya entregó, y los riesgos que este enumera de \"regulación sobre los datos de entrenamiento y/o demandas de las discográficas\"."
+        },
+        {
+          "t": "p",
+          "x": "Lightspeed lideró la Series B de $125 million de Suno en mayo de 2024, tiene un puesto en el consejo y volvió a invertir en las rondas Series C y Series D. Entregó 152 documentos el año pasado, pero rechazó la nueva citación del 24 de agosto y pidió anularla por considerarla extemporánea, acumulativa y gravosa."
+        },
+        {
+          "t": "p",
+          "x": "Las discográficas sostienen que los archivos son relevantes para la defensa de uso legítimo de Suno y para determinar la intencionalidad: \"Una empresa que capta capital les cuenta a sus inversores, con franqueza y en detalle... qué riesgos, incluidos los legales, enfrenta\". Piden los documentos en un plazo de siete días y una declaración 14 días después, con los temas reducidos de 20 a 16. Lightspeed puede responder hasta el 20 de octubre."
+        }
+      ]
+    },
+    "music/music-cmu-three-debates": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png"
+        },
+        {
+          "t": "p",
+          "x": "Antes de un panel de Un-Convention en Manchester con Chris Cooke, de CMU, CMU ordena las numerosas preguntas sobre música y AI en tres grandes debates."
+        },
+        {
+          "t": "p",
+          "x": "Primer debate: las obligaciones de las empresas de AI. Muchas entrenaron modelos sin permiso, amparándose en excepciones de TDM o en el fair use de US; la industria musical está unida en contra, con demandas contra Suno, Udio, Anthropic y OpenAI. Las sentencias dispares en US y las indemnizaciones de hasta $150,000 por obra infringida de forma deliberada empujan a algunas empresas de AI hacia las licencias."
+        },
+        {
+          "t": "p",
+          "x": "Segundo debate: las obligaciones de discográficas y editoriales. Sus acuerdos de AI están protegidos por NDAs; las majors dicen que no necesitan el consentimiento individual de artistas o autores para el entrenamiento y no planean compartir los ingresos de AI con los músicos de sesión, mientras que algunos independientes ofrecerán opciones de opt-in u opt-out."
+        },
+        {
+          "t": "p",
+          "x": "Tercer debate: qué hacer con la música de AI. Deezer afirma que recibe más de 90,000 temas generados íntegramente por AI (AI-generated) al día, más del 50% de las subidas. El consenso apuesta por tratar la música asistida por AI (AI-assisted) como la música humana y restringir los temas generados íntegramente por AI, pero nadie ha dicho dónde está el límite."
+        }
+      ]
+    },
+    "music/music-dcomposer-drums": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig1_v2.png",
+          "cap": "Figura 1: D-Composer convierte el audio de batería en un flujo de tokens que codifica el tiempo de inicio, la clase y el audio aislado de todos los eventos sonoros, lo que en la práctica transforma cualquier grabación de batería en un piano roll tocable."
+        },
+        {
+          "t": "p",
+          "x": "Los ritmos de batería suelen producirse como arreglos de one-shots repetidos. Los modelos de análisis por síntesis (AbS) de batería usan esa premisa para la transcripción, la separación de fuentes y la extracción de one-shots, pero los enfoques líderes tienen dificultades con una amplia gama de timbres, como los kits electrónicos, dependen de datos de entrenamiento emparejados de alta calidad y no modelan la variación dentro de un mismo arreglo, como varios sonidos de bombo."
+        },
+        {
+          "t": "p",
+          "x": "D-Composer, de Patrick O'Reilly, Saumya Pailwan, Annie Chu, Jason Smith y Bryan Pardo (ISMIR 2026), es un marco autorregresivo de modelado de lenguaje que descompone grabaciones de batería en eventos sonoros etiquetados y sus tiempos de inicio."
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig2.png",
+          "cap": "Figura 2: Entrenamiento del sistema D-Composer propuesto, incluida la preparación de datos y el formato de los objetivos."
+        },
+        {
+          "t": "p",
+          "x": "En transcripción de batería y extracción de one-shots, rinde de forma comparable o superior a un sistema AbS de vanguardia y a líneas base específicas de cada tarea, al tiempo que generaliza a más timbres. Con abundantes datos sintéticos y tokens acústicos compactos, según los autores, el modelado de lenguaje ofrece una receta sencilla para unificar la transcripción y la descomposición de eventos sonoros."
+        }
+      ]
+    },
+    "music/music-elevenlabs-instant-soundtracks": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "WtPiZ0ym13k"
+        },
+        {
+          "t": "p",
+          "x": "Instant Soundtracks permite enriquecer cualquier video con música y efectos de sonido en una sola pasada."
+        },
+        {
+          "t": "p",
+          "x": "Al subir el material, el modelo lo musicaliza con música original y luego detecta los momentos que piden un efecto y coloca cada uno en la marca de tiempo correcta."
+        },
+        {
+          "t": "p",
+          "x": "También se puede usar el audio original como referencia para que la nueva música mantenga su carácter."
+        },
+        {
+          "t": "p",
+          "x": "La actualización de hoy mejora además la sincronización en contenido de formato corto y hace más precisos los cambios de ambiente entre escenas. En el Music Video Editor, los efectos de sonido aparecen como capas separadas, de modo que pueden revisarse y ajustarse con independencia de la banda sonora."
+        },
+        {
+          "t": "p",
+          "x": "Disponible desde hoy en ElevenCreative, ElevenMusic y ElevenAPI."
+        }
+      ]
     }
   }
 }

@@ -2964,6 +2964,115 @@
           "x": "Apple的规则还更清楚地写明，任何“为人口贩卖或儿童剥削提供便利”的应用都将被移出App Store，并“禁止通过其他渠道分发”。"
         }
       ]
+    },
+    "politics/politics-taiwan-server-exports": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
+          "cap": "台北中正纪念公园(Chiang Kai-shek Memorial Park)（图片来源：Jowi Morales/Tom's Hardware）"
+        },
+        {
+          "t": "p",
+          "x": "台湾正扩大出口管制清单，将AI服务器和最新芯片纳入其中，以配合美国(U.S.)的贸易禁令。据Bloomberg报道，管制生效后，走私者将依《对外贸易法》(Foreign Trade Act)被追究刑事责任，最高可判五年徒刑及/或约$92,500罚款。"
+        },
+        {
+          "t": "p",
+          "x": "经济部长龚明鑫(Kung Ming-hsin)表示：“今后，我们对管制品项的部分措施将与美方对应，因为我们在《对等贸易协定》(Agreement on Reciprocal Trade)中作出了相当多的承诺。”该协定将美国(U.S.)对台湾商品的关税降至15%。"
+        },
+        {
+          "t": "p",
+          "x": "此前，美国(U.S.)一宗案件指控三名Super Micro员工走私价值$2.5 billion的AI服务器；台湾也搜查了Super Micro台北办公室，最终九人被起诉。在新管制生效前，台湾并不将向中国出口AI芯片视为犯罪，违规者只能依其他法律起诉。"
+        },
+        {
+          "t": "p",
+          "x": "Tom's Hardware认为，此举可能令华盛顿满意，但也可能激怒北京；去年北京曾因台湾对Huawei和SMIC的限制而谴责台北。"
+        }
+      ]
+    },
+    "politics/politics-uk-ai-sovereignty-letter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "2026年7月，政府最高级别的独立科技咨询机构科学技术委员会(Council for Science and Technology，CST)致函AI大臣(Minister for AI)，就AI主权提出建议；该信函于10月19日公布。"
+        },
+        {
+          "t": "p",
+          "x": "CST将AI主权定义为：在整个AI价值链上拥有足够的自主能力，以实现UK选定的目标、获取经济和公共价值，并在压力下保持韧性。它警告称，若不采取审慎而紧迫的行动，UK可能沦为“高价值的AI客户，而不是能够塑造这项技术的国家”。"
+        },
+        {
+          "t": "p",
+          "x": "信函提出4项建议：基于AI生态系统图谱制定UK AI Sovereignty Plan（UK AI主权计划），用于挑选快速推进的公共利益试点项目；建立由单一责任主体负责的清晰治理架构；立即投资于技能、数据和公众信任；在建设选定的UK能力的同时，保持对领先AI模型的可信访问，包括考虑Alan Turing Institute提出的公共利益主权基础模型方案。"
+        }
+      ]
+    },
+    "politics/politics-greece-daedalus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "希腊启用了该国有史以来最强大的超级计算机Daedalus。该系统耗资€58.9 million，据现有数据全球排名第31，在阿提卡的拉夫里奥(Lavrio)揭幕，旨在减少对海外算力的依赖。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
+          "cap": "超级计算机 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+        },
+        {
+          "t": "p",
+          "x": "凭借85.69 petaflops的算力，大学、企业和公共机构可在希腊境内的基础设施上训练AI模型，包括在国内处理敏感数据。它的设计目标并非与欧洲的百亿亿次(exascale)系统竞争。"
+        },
+        {
+          "t": "p",
+          "x": "该系统基于采用液冷的Nvidia Grace Hopper GH200，安置在雅典国立技术大学管理的一座前发电站内，由GRNET运营。资金来自复苏与韧性基金(Recovery and Resilience Facility)和EuroHPC。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
+          "cap": "超级计算机 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+        },
+        {
+          "t": "p",
+          "x": "计划从2027年3月起通过Pharos AI Factory向企业提供更广泛的服务；初创企业和中小企业(SMEs)预计可在EU国家援助限额内免费使用。"
+        }
+      ]
+    },
+    "politics/politics-disney-characterai-363": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
+          "cap": "Disney标志。"
+        },
+        {
+          "t": "p",
+          "x": "法庭文件显示，Character.AI破产是一项交易的关键环节：该交易让Disney得以聘用其大部分员工（包括前CEO Karandeep Anand），并可能收购其大部分技术，同时规避其法律责任。一份动议称，Disney以这家初创公司“现金储备不断减少，且面临重大诉讼和监管风险”为由，要求交易通过破产程序“全面完成”。Disney拒绝置评。"
+        },
+        {
+          "t": "p",
+          "x": "Disney于9月支付了$5.5 million，外加$2 million可退还押金。在10月12日申请Chapter 11后，Disney希望获得Character.AI大部分代码和工具的永久、全球、非独家授权；该授权将进行拍卖，若Disney胜出，将支付$12.5 million的成交款。"
+        },
+        {
+          "t": "p",
+          "x": "一份“363 Free and Clear Order”草案将写明，该交易并非合并，Character.AI仍须承担包括法律索赔在内的一切责任。正在调查该公司的各州表示，保留对任何破产计划提出质疑的权利。"
+        }
+      ]
+    },
+    "politics/politics-anthropic-draft-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+          "cap": "2026年9月16日，一台设备上显示着Anthropic旗下AI应用“Claude”的图标。（Leon Neal/Getty Images）"
+        },
+        {
+          "t": "p",
+          "x": "据POLITICO援引三名知情人士报道，Anthropic代表一直在悄悄向Capitol Hill议员推介一份监管前沿AI安全与安保的法案草案。"
+        },
+        {
+          "t": "p",
+          "x": "该草案将限制政府可阻止先进模型发布的情形，并优先于部分州的AI安全法。"
+        }
+      ]
     }
   }
 }

@@ -12419,6 +12419,141 @@
           "x": "이번 결과는 자원 추정치이고 양자 하드웨어에서 시연한 것은 아니다. 표본 테스트만으로는 모든 입력에서 성공한다고 증명되지도 않는다. 논문은 arXiv 프리프린트로, 아직 동료 심사를 거치지 않았다."
         }
       ]
+    },
+    "science/science-racedrone-1020": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AI가 조종하는 드론이 챔피언십 레이스 코스를 세계 정상급 인간 드론 조종사 몇몇보다 빨리 돌았다. Delft University of Technology의 Micro Air Vehicles Lab 연구진이 Oct. 14(10월 14일) Science Robotics에 낸 연구에서 소개한 MonoRace다. 전방 카메라 하나와 관성측정장치, 작은 온보드 컴퓨터만 달고 난다."
+        },
+        {
+          "t": "p",
+          "x": "MonoRace는 2025 Abu Dhabi Autonomous Racing League 드론 레이스에서 우승했다. 다른 자율 팀을 모두 꺾었고 전직 인간 세계챔피언 세 명보다도 빨랐다. GPS, 모션 캡처, 스테레오 카메라, 사전 입력 지도 없이 게이트 11개를 도는 코스 두 바퀴를 16.56초에 끝냈다. 속도는 약 63 mph(102 km/h)까지 올라갔다."
+        },
+        {
+          "t": "p",
+          "x": "신경망이 게이트를 찾고 966그램짜리 드론의 위치를 추정해 모터에 초당 500회 명령을 보낸다. 신경망은 빠른 물리 시뮬레이터 안에서 강화학습으로 훈련됐다. 공동저자 Guido de Croon은 “말 그대로 처음부터 나는 법을 배운다”고 말했다. 훈련 중에는 무게, 항력, 센서 노이즈, 프로펠러 상태를 계속 바꿨다. 덕분에 신경망은 여러 드론을 다룰 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "De Croon은 MonoRace를 인간 조종사의 훈련 도구로도 쓸 수 있다고 본다. “강력한 체스 프로그램이 체스 두는 사람들에게 영감을 준 것과 조금 비슷하다”는 설명이다."
+        }
+      ]
+    },
+    "science/science-kaist-photoflow": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+          "cap": "맞춤형 광촉매, 자동화 연속 흐름 플랫폼, N-methyl pyrrole 라이브러리. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "KAIST Yoonsu Park 교수 연구팀이 사람 없이 돌아가는 합성 플랫폼을 만들었다. 원료를 나눠 담는 로봇과 자동 펌프, 가는 관 안에서 가시광을 쬐는 장치(연속 흐름), 인라인 분석 장비를 한데 엮었다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+          "cap": "자동화 유기 합성 시스템. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "맞춤형 광촉매가 퓨란의 산소 원자를 질소로 바꾸면 신약 개발에 쓰이는 골격인 N-methyl pyrrole(N-메틸피롤)이 된다. 연구팀은 복잡한 천연물을 포함해 20종이 넘는 퓨란 기반 화합물에 이 방법을 썼고, 규모를 키울 때 필요한 연속 생산도 보여 줬다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+          "cap": "합성 공정 모식도. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Park 교수는 “설계한 분자를 얼마나 빠르고 안정적으로 합성할 수 있느냐가 앞으로 신약 개발의 속도를 좌우할 것”이라고 말했다. 논문은 JACS Au에 실렸다."
+        }
+      ]
+    },
+    "science/science-portbooks-soton": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+          "cap": "아카이브 문서로 학습하는 AI. Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "University of Southampton 역사학자들이 Kew의 National Archives에 있는 손글씨 항구 장부 약 100,000쪽을 AI로 전사했다. 1565년부터 쌓인 영국 항해 기록이다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+          "cap": "AI가 전사하고 있는 손글씨 문서. Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "AI-read 기록으로 1500s 후반부터 mid-1700s까지 상선 운항을 담은 데이터베이스와 인터랙티브 지도가 나왔다. 항해 수십만 건과 3,000곳이 넘는 항구, 거래된 상품까지 담겼다. 연구 책임자 Craig Lambert는 “AI가 데이터를 추출하고 정리하지 않았다면 몇 년이 걸렸을 것”이라고 말했다. 그래도 결과물은 사람이 일일이 검토해야 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+          "cap": "인터랙티브 지도 화면. Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "유럽(Europe)이 압도적이었다. 1696–97년 잉글랜드(England) 해외 무역의 기록 가액 가운데 약 80%를 차지했다. 가장 자주 기록된 상품은 석탄이었고 맥아, 밀, 철, 양모, 와인이 뒤를 이었다. 해상 지점은 남서부(South West)에서 가장 많이 기록됐고 남동부(Southeast), 스코틀랜드(Scotland) 순이었다."
+        }
+      ]
+    },
+    "science/science-brainrot-tamu": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+          "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+        },
+        {
+          "t": "p",
+          "x": "Texas A&M의 Zhengzhong Tu가 이끄는 연구진에 따르면 자극적이고 질 낮은 콘텐츠로 학습한 대규모 언어 모델은 ‘뇌 썩음(brain rot)’을 겪는다. 사람에게서 그런 콘텐츠가 주의력과 기억력 저하와 연관되는 것과 닮은꼴이다."
+        },
+        {
+          "t": "p",
+          "x": "‘정크’ 데이터는 2010년 공개 Twitter 게시물 백만 건 데이터셋에서 뽑았다. 참여도가 높고 짧으며 문체가 선정적인 게시물이 대상이었다. 1차 라벨링은 GPT-4o mini가 맡았고 대학원생들이 표본을 검토했다. 학습 대상은 Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct, Qwen3 4B Instruct 네 모델로, 정크 데이터와 대조 데이터를 섞어 학습시켰다."
+        },
+        {
+          "t": "p",
+          "x": "가장 크게 나타난 변화는 추론력과 기억력 약화, 추론 단계 건너뛰기, 윤리적 안전장치 약화였다. 질 좋은 데이터로 다시 학습시켜도 성능은 끝내 다 돌아오지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 정크로 배운 모델이 정크를 더 쏟아내는 악순환을 경고하며 학습 데이터의 투명성을 요구했다. 연구 결과는 San Francisco에서 열린 COLM 2026에서 발표됐다."
+        }
+      ]
+    },
+    "science/science-mit-crystal-text-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+        },
+        {
+          "t": "p",
+          "x": "대규모 언어 모델에 알맞은 소재를 물어봐도 아직은 답이 신통치 않다. 소재 대부분은 텍스트가 아니라 3D로 배열된 결정 구조이고, 문헌마저 인기 있는 몇몇 결정 계열에 쏠려 있다."
+        },
+        {
+          "t": "p",
+          "x": "MIT 연구진은 3D 원자 구조에 자연어 설명을 붙인 멀티모달 모델을 만들었다. 설명은 실험 논문과 제일원리 계산 데이터베이스에서 가져왔으며 조성·구조·물성·공정·잠재적 응용까지 다룬다. Nature Communications에 실린 논문에서 연구진은 이 모델이 텍스트만 쓰는 모델보다 나은 소재 설계를 찾아낸다고 밝혔다. 고체 리튬이온 배터리 전해질을 물었더니 상위 결과에 독립적으로 확인된 유망 후보가 들어 있었다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 대조 학습으로 구조와 텍스트를 정렬했다. AI가 생성한(AI-generated) 설명으로 학습한 버전은 기하 구조와 텍스트를 맞추는 법을 익혔지만, 논문 텍스트만 학습한 버전은 그러지 못했다. 물성을 묘사하는 자연어 질의를 주면 모델은 그에 맞는 결정을 찾아냈고 성능도 기준 모델보다 나았다."
+        },
+        {
+          "t": "p",
+          "x": "“구조는 재료과학 분야의 진정한 핵심입니다.” 이 모델을 AlphaFold에 견주는 Ju Li의 말이다."
+        }
+      ]
     }
   }
 }

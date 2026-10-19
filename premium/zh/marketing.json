@@ -1594,6 +1594,114 @@
           "x": "该公司在声明中表示：“我们听到了大家的意见，并希望澄清：我们整合的爬取条款仅适用于我们的广告和商业产品，我们已在条款中明确说明这一点。”“这并不会改变Meta使用网络爬虫的方式。”"
         }
       ]
+    },
+    "marketing/marketing-monday-harmony": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+          "cap": "monday.com的Harmony AI外呼代理把优质线索转给销售代表，一家汽车中介称成交因此增长9%"
+        },
+        {
+          "t": "p",
+          "x": "monday.com于2026年10月19日开始销售Harmony。这是一款语音AI平台，其代理为中型及大型企业拨打和接听销售电话，筛选线索，并把有希望的线索实时转交给人工销售代表。"
+        },
+        {
+          "t": "p",
+          "x": "这些代理基于从OneAI收购的语音技术和一组自研的、面向特定任务的小型LLMs运行，拨号和CRM write-back构建在Twilio之上。公司称从音频输入到音频输出的延迟约为200ms，并称“接通率最高可达70%”，但未给出基准或方法。"
+        },
+        {
+          "t": "p",
+          "x": "唯一具名的客户、UK中介Bright Car Finance表示，代理会立即跟进每位获批申请人，对约一半的对话完成资格筛选，将其中80%转交给顾问，并在不到一年内使成交量增长9%。PPC Land指出，尚不清楚这是相对增幅还是百分点。"
+        },
+        {
+          "t": "p",
+          "x": "Harmony已在美国（US）、英国（UK）、澳大利亚和新加坡上线。价格、错误率和独立测试结果均未公布。"
+        }
+      ]
+    },
+    "marketing/marketing-minerva-cdp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Minerva CEO Jackson Engles承认，即便公司已融资$20 million，要在覆盖270 million消费者的身份图谱上为营销人员打造AI智能体，其赖以起家的数据恐怕也算不上持久的护城河。他的对策是保持专注：“营销人员不应只是用Claude，再随便导入一些数据。”"
+        },
+        {
+          "t": "p",
+          "x": "品牌把CRM、数据仓库和其他数据源接入Minerva，由基于OpenAI打造的“智能体数据工程师”完成映射。随后，智能体把数据整合为每位客户的单一视图，并用Minerva的“B2B2C身份图谱”加以丰富。据Engles介绍，Ramp利用工作身份与个人身份的关联扩大直邮投放，三个月内MQL率提升约80%；Wander在Meta相似受众上的ROAS是广泛定向的3.4x。"
+        },
+        {
+          "t": "p",
+          "x": "第二个智能体“智能体数据科学家”将能根据自然语言请求构建预测模型。Minerva内部把这一层称为智能体CDP，但对外并不这样宣传：客户“想要的是CDP带来的结果”。"
+        }
+      ]
+    },
+    "marketing/marketing-basis-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+          "cap": "ChatGPT 74.5%，Claude 72.3%：营销人分用多种AI工具，天平几乎持平"
+        },
+        {
+          "t": "p",
+          "x": "Basis第四份年度报告《AI and the Future of Marketing》于2026年7月16日至8月14日调查了184名营销和广告从业者。ChatGPT使用率从88.6%降至74.5%，Claude则从17.9%升至72.3%；Copilot为55.4%，Gemini为47.8%。"
+        },
+        {
+          "t": "p",
+          "x": "每天使用AI的比例从33.6%升至61.4%。运行AI智能体的组织比例从20.0%升至51.1%，主要用于报告与分析（72.3%）和活动简报（56.4%）；媒介购买是最少交给智能体的工作，仅为18.1%。"
+        },
+        {
+          "t": "p",
+          "x": "只有6.5%以明确的指标和基准衡量AI ROI；23.4%凭经验判断。PPC Land指出，样本量小、招募方式未公开，而且Basis本身就在销售其结论所推荐的统一平台。"
+        }
+      ]
+    },
+    "marketing/marketing-lendi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "衡量聊天机器人如何影响品牌发现，在很大程度上仍是一个谜。但澳大利亚房贷与房产销售公司Lendi Group增长业务GM Michael McCash说：“无法衡量的东西，就无法改进。”"
+        },
+        {
+          "t": "p",
+          "x": "McCash为Lendi每年超过$10 million的付费媒体投放搭建了内部多触点归因模型，并引入Mutinex做MMM，结果显示免费电视的投放权重偏低。Lendi也是Mutinex的AI Visibility工具的试点客户，该工具对LLMs进行大规模提示并分析品牌如何出现；Lendi还用Tracksuit和Askable做品牌追踪和调研。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT和Gemini等聊天机器人内的广告还没有成为主要的ROI来源：CPMs和获客成本都太高。Lendi确实看到的是，用户先用LLMs做功课，带着更多信息进入漏斗更深处，因此它目前把AI投入放在衡量上，而不是聊天机器人广告。"
+        }
+      ]
+    },
+    "marketing/marketing-amazon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+        },
+        {
+          "t": "p",
+          "x": "据行业通讯ADOTAT在10月1日发布的分析，Amazon在unBoxed 2026上停用了“Amazon DSP”这一名称，但保留了购买引擎，并把交易员使用的控制项移到了高级设置开关之后。该专栏认为，Amazon的AI代理如今在默认路径中选择渠道、受众和出价，再用Amazon自己的数据评估结果。Amazon表示，DSP的程序化功能仍可在DVA+高级设置中使用。"
+        },
+        {
+          "t": "p",
+          "x": "新的Amazon Ads Agent旗下包括Sponsored Ads、DVA+和Full-Funnel Campaigns。Full-Funnel每日$100起，由Amazon围绕new-to-brand销售等成果在各类形式之间分配预算。ADOTAT写道：“视资格而定，真正向U.S.广告主上线的是Full-Funnel Campaigns。”“让交易员手握方向盘的功能仍处于测试阶段。”DVA+当时在US处于封闭测试，公开测试预计在10月下旬推出。"
+        },
+        {
+          "t": "p",
+          "x": "该专栏写道：“默认即命运。”ADOTAT将其商业解读标注为推断，其免费预览也并未说Full-Funnel会阻止受众选择。"
+        }
+      ]
     }
   }
 }

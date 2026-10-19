@@ -7005,6 +7005,130 @@
           "x": "它在YouTube上表现更好：《我梦想中的大人》在该平台最新的韩国Weekly Top Songs榜单中排名第二，周播放量达320万次。在YouTube上，根据YouTube Music刚刚公布的标注政策，这首歌带有“AI”标签。"
         }
       ]
+    },
+    "music/music-rodrigo-expectations-debunk": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+          "cap": "8月29日周六，Olivia Rodrigo在California州Irvine的Great Park举行的Daisy Chain Fields上演出"
+        },
+        {
+          "t": "p",
+          "x": "Olivia Rodrigo发布了Chappell Roan参与的《Expectations》混音版音乐视频，部分观众怀疑其中用了AI。随后，美术团队的一位设计师和Rodrigo的官方粉丝账号公开了幕后花絮，展示手绘的2D和3D动画以及模拟处理过程，看起来并未使用AI。"
+        },
+        {
+          "t": "p",
+          "x": "质疑集中在三分钟左右的一个场景：复古标志和Rodrigo、Roan的动画在画面中飞过，观众指出两位歌手的手指前后不一致。"
+        },
+        {
+          "t": "p",
+          "x": "@LiviesHQ的视频汇集了手绘草稿和3D动画录屏。Jack Harrison主导了赋予视频复古低保真质感的模拟处理：团队先用2D和3D软件制作动画，再在一台Windows Vista PC上播放，并用高分辨率相机翻拍屏幕。"
+        },
+        {
+          "t": "p",
+          "x": "Rodrigo本月早些时候对The Hollywood Reporter表示，她“绝不”会在音乐中使用AI。她说：“绝对不会。这是我的底线。”"
+        }
+      ]
+    },
+    "music/music-suno-lightspeed-subpoena": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+          "cap": "图片来源：Zulfugar Graphics/Shutterstock"
+        },
+        {
+          "t": "p",
+          "x": "Universal Music Group和Sony Music Entertainment希望Suno的Series B领投方Lightspeed Venture Partners提交文件并出庭作证。10月13日星期二，两家公司向Boston联邦法院提交文件，反对Lightspeed撤销传票的动议。作证议题包括Lightspeed已提交文件中讨论的“训练数据的法律风险”，以及其中列出的“围绕训练数据的监管和/或唱片公司诉讼”风险。"
+        },
+        {
+          "t": "p",
+          "x": "Lightspeed于2024年5月领投了Suno规模$125 million的Series B，拥有董事会席位，并在Series C和Series D轮再度投资。它去年提交了152份文件，但拒绝了8月24日的新传票，并以不合时宜、内容重复且负担过重为由申请撤销。"
+        },
+        {
+          "t": "p",
+          "x": "唱片公司认为，这些文件关系到Suno的合理使用抗辩以及是否构成故意：“一家融资中的公司会坦率而详细地告诉投资者……它面临哪些风险，包括法律风险。”它们要求七天内提交文件，并在14天后进行证词录取，议题已从20项缩减至16项。Lightspeed可在10月20日前答复。"
+        }
+      ]
+    },
+    "music/music-cmu-three-debates": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png"
+        },
+        {
+          "t": "p",
+          "x": "在Manchester举行、CMU的Chris Cooke参与的Un-Convention座谈会之前，CMU把音乐与AI的诸多问题归纳为三大争论。"
+        },
+        {
+          "t": "p",
+          "x": "争论一：AI公司的义务。许多公司援引TDM例外或US的合理使用原则，未经许可训练模型；音乐行业一致反对，已对Suno、Udio、Anthropic和OpenAI提起诉讼。US判决结果不一，加上每部被故意侵权作品最高$150,000的赔偿，正推动部分AI公司转向授权。"
+        },
+        {
+          "t": "p",
+          "x": "争论二：唱片公司和版权公司的义务。它们的AI协议藏在NDAs之后；大型唱片公司称训练无需个别艺人或词曲作者同意，也不打算与录音乐手分享AI收入，而一些独立公司将提供选择加入或退出机制。"
+        },
+        {
+          "t": "p",
+          "x": "争论三：如何对待AI音乐。Deezer称每天收到超过90,000首完全由AI生成（AI-generated）的曲目，占上传量的50%以上。普遍共识是将AI辅助（AI-assisted）音乐视同人类音乐，并限制完全AI生成的曲目，但没有人说明界线该划在哪里。"
+        }
+      ]
+    },
+    "music/music-dcomposer-drums": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig1_v2.png",
+          "cap": "图1：D-Composer将鼓音频映射为一串标记，编码所有声音事件的起始时间、类别和分离音频，实际上能把任何鼓录音变成可演奏的钢琴卷帘。"
+        },
+        {
+          "t": "p",
+          "x": "鼓点常由重复的单发音色编排而成。鼓的合成式分析（AbS）模型借助这一假设进行转录、音源分离和单发提取，但主流方法难以应对电子鼓组等多种音色，依赖高质量的配对训练数据，也无法刻画同一编排中的变化，例如多种底鼓音色。"
+        },
+        {
+          "t": "p",
+          "x": "D-Composer由Patrick O'Reilly、Saumya Pailwan、Annie Chu、Jason Smith和Bryan Pardo提出（ISMIR 2026），是一个自回归语言建模框架，可将鼓录音分解为带标签的声音事件及其起始时间。"
+        },
+        {
+          "t": "img",
+          "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig2.png",
+          "cap": "图2：所提D-Composer系统的训练流程，包括数据准备和目标格式化。"
+        },
+        {
+          "t": "p",
+          "x": "在鼓转录和单发提取上，它的表现与最先进的AbS系统及特定任务基线相当或更好，同时能泛化到更多音色。作者表示，借助充足的合成数据和紧凑的声学标记，语言建模为统一转录与声音事件分解提供了一条简单路径。"
+        }
+      ]
+    },
+    "music/music-elevenlabs-instant-soundtracks": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "WtPiZ0ym13k"
+        },
+        {
+          "t": "p",
+          "x": "Instant Soundtracks 可一次性为任何视频加上音乐和音效。"
+        },
+        {
+          "t": "p",
+          "x": "上传素材后，模型会用原创音乐为其配乐，并识别需要音效的时刻，把每个音效放到正确的时间点。"
+        },
+        {
+          "t": "p",
+          "x": "也可以把原始音频作为参考，让新配乐与其风格相符。"
+        },
+        {
+          "t": "p",
+          "x": "此次更新还改进了短视频内容的节奏把握，场景之间的情绪切换也更准确。在 Music Video Editor 中，音效以独立图层呈现，可与配乐分开检查和调整。"
+        },
+        {
+          "t": "p",
+          "x": "即日起可在 ElevenCreative、ElevenMusic 和 ElevenAPI 中使用。"
+        }
+      ]
     }
   }
 }

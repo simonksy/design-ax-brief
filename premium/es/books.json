@@ -6946,6 +6946,139 @@
           "x": "El informe completo es un artículo premium para los suscriptores de pago del boletín de Jane Friedman."
         }
       ]
+    },
+    "books/books-fish-audio-drama3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Fish Audio anunció el 13 de octubre Drama 3, un nuevo modelo de texto a voz. Los creadores pueden dirigir la interpretación con lenguaje corriente, generar escenas con varios hablantes y reparar un segmento elegido del audio sintetizado sin regenerar la interpretación que lo rodea."
+        },
+        {
+          "t": "p",
+          "x": "La función principal es la edición más pequeña: cambiar una sola palabra conservando la voz, el tono y el ritmo a ambos lados. El cofundador y científico jefe Shijia Liao explica que el modelo usa el sonido a ambos lados de la palabra editada para que el reemplazo encaje. “La IA de voz se ha vuelto muy buena generando habla. El siguiente paso es dirigir una interpretación”, dijo la CEO Rissa Cao."
+        },
+        {
+          "t": "p",
+          "x": "Las indicaciones, los sonidos y las pausas van entre corchetes o en etiquetas emparejadas, y la función Auto Tag sugiere indicaciones iniciales. Drama 3 mantiene voces distintas para cada personaje en guiones largos y ofrece control de pronunciación a nivel de fonema en inglés, chino, japonés y coreano, entre otros."
+        },
+        {
+          "t": "p",
+          "x": "Todavía es una versión preliminar (API id drama-3-preview), y el anuncio no incluye ninguna evaluación independiente de las correcciones de una sola palabra. Fish Audio declara más de 15 millones de usuarios y 21 millones de dólares de ARR."
+        }
+      ]
+    },
+    "books/books-google-kr-publishers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "En plena polémica por la revelación de que Anthropic compró una gran cantidad de libros a un distribuidor coreano, se supo que Google también negocia desde el primer semestre de este año con grandes editoriales coreanas la compra de libros para entrenar IA. Fuentes del sector afirmaron que ya hay contratos cerrados y que entre las firmantes figura una editorial académica especializada. Google Korea no respondió."
+        },
+        {
+          "t": "p",
+          "x": "El problema es que no existe base legal para regular la venta de contenidos para entrenar IA sin el consentimiento de los titulares de derechos. A las pequeñas editoriales coreanas les cuesta negociar en igualdad con las grandes tecnológicas globales, y preocupa que la ‘indemnización de 3000 dólares (435만 원) por libro’ de Anthropic se perciba como una tarifa, aunque no es un pago por el entrenamiento de IA."
+        },
+        {
+          "t": "img",
+          "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
+          "cap": "Proyectos de ley sobre entrenamiento de IA y derechos de autor pendientes en la Asamblea Nacional"
+        },
+        {
+          "t": "p",
+          "x": "También preocupa que las empresas coreanas de IA pierdan competitividad por el coste de comprar contenidos. En la Asamblea Nacional hay varias propuestas de reforma de la Ley Básica de IA que exigen revelar el origen de los datos de entrenamiento de la IA generativa y fijan un procedimiento de verificación para los titulares de derechos, pero siguen pendientes."
+        }
+      ]
+    },
+    "books/books-jason-jones-ai-novel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "En 2019, la autora Margaret Stohl recibió un manuscrito de Jason Jones, cocreador de Halo y Destiny; ambos habían trabajado juntos en Bungie. Era una historia oral de un levantamiento ficticio de la IA, narrada por unos 100 personajes en 40 países."
+        },
+        {
+          "t": "p",
+          "x": "Fundaron Stone Kite, un “estudio de construcción de mundos” con 22 empleados en plantilla y más de 250 colaboradores, para desarrollar el universo en distintos formatos. Hace poco publicó el primer capítulo de una novela gráfica en cuatro partes, One Zero One, y ahora un capítulo de An Oral History of Humanity’s Final Invention, de Jones. Según la respuesta, podrían llegar películas y videojuegos."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "El fragmento sigue a un equipo de airsoft de Moscú que acepta jugar como el equipo de un oligarca y descubre que sus rivales son máquinas que imitan voces y se niegan a reconocer los impactos. Stohl lo eligió por lo premonitorio que resulta: “Las trampas, el acoso, el peor espejo de la humanidad que empieza a asomar ahora en parte de ese comportamiento agéntico”."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
+        }
+      ]
+    },
+    "books/books-scholarly-ai-evidence": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sarah Hands, COO de PA EDitorial, sostiene que, tras una fuerte inversión en herramientas de IA, las editoriales afrontan ahora una fase más importante: aprender lo que les está enseñando la adopción temprana. A veces, escribe, la adopción de la IA parece ir más rápido que nuestra capacidad de evaluar lo que logra."
+        },
+        {
+          "t": "p",
+          "x": "La adopción puede volverse competitiva en lugar de basarse en la evidencia; el éxito se mide de forma demasiado estrecha por la velocidad; y las consecuencias más amplias son difíciles de ver. La respuesta no es frenar la adopción, sino aprender de ella, lo que incluye compartir en todo el sector los resultados nulos, no concluyentes y negativos."
+        },
+        {
+          "t": "p",
+          "x": "Advierte del sesgo de automatización: el riesgo no es que la IA tome una decisión equivocada, sino que los editores tiendan menos a cuestionarla. Una alerta generada por IA (AI-generated) es una señal que requiere interpretación, no una conclusión."
+        },
+        {
+          "t": "p",
+          "x": "Cita un informe de Organization Science de 2026 según el cual los envíos aumentaron un 42% desde el lanzamiento de ChatGPT, y pregunta: “¿Cómo sabremos si la IA mejoró las cosas?”. Sin medidas acordadas, la adopción seguirá adelantándose a la evidencia."
+        }
+      ]
+    },
+    "books/books-prize-author-check": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png"
+        },
+        {
+          "t": "p",
+          "x": "Una obra que llegó a la ronda final de un reciente concurso de novela en Corea acabó perdiendo la opción al premio. El historial de edición del documento entregado mostró que se había completado en un tiempo inusualmente corto, y el autor, al reunirse en persona con el jurado, no pudo responder bien ni siquiera a preguntas básicas sobre la trama y el proceso de concepción. El candidato negó haber escrito con AI, pero el concurso de este año terminó «sin obra ganadora». Es el primer caso confirmado en que una polémica por la IA influyó directamente en la elección del ganador de un premio literario coreano."
+        },
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863805.1.png"
+        },
+        {
+          "t": "p",
+          "x": "Las respuestas de los premios literarios coreanos varían. El Premio Changbi a Nuevos Escritores establece en sus bases que «no se pueden presentar obras producidas con IA». El Premio Munhakdongne de Literatura Infantil permite el uso de IA como apoyo a la creación, por ejemplo para revisar la ortografía, verificar datos e investigar, pero quien la haya usado debe indicar en la solicitud el servicio, el modelo y el alcance del uso. Si es necesario, se pueden pedir materiales como prompts, borradores y notas de creación. El «Concurso de Microrrelatos SNU» prohíbe por completo el uso de IA y exige un «compromiso ético sobre el uso de IA generativa»."
+        },
+        {
+          "t": "p",
+          "x": "Heo Jun-haeng, profesor de Lengua y Literatura Coreanas de la Universidad Konkuk, afirmó que «no conviene determinar quién escribió una obra solo con las cifras de detectores como “GPT Killer”» y propuso evaluar primero la calidad de la obra y revisar de forma integral los principales registros de trabajo."
+        },
+        {
+          "t": "p",
+          "x": "En el extranjero, los criterios también difieren. La Académie Goncourt excluyó de su lista de la ronda 1 una novela de Aurélien Télisson sobre la que pesaban sospechas de escritura con IA, mientras que el Premio Renaudot incluyó la misma obra en su lista de la ronda 2. El Commonwealth Short Story Prize investigó durante un mes las sospechas sobre 3 de sus 5 ganadores regionales, concluyó que no se había usado IA y mantuvo los resultados."
+        },
+        {
+          "t": "p",
+          "x": "La Universidad Soongsil organiza el «Concurso de Contenidos Creativos AI·SW», que pide entregar qué herramientas de IA se usaron junto con el proceso de prompts, y trata así la creación con IA en un concurso aparte."
+        }
+      ]
     }
   }
 }

@@ -1,96 +1,112 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "medicine",
+  "user_selection": null,
   "picks": [
     {
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600258",
-      "title": "Artificial Intelligence-Enhanced Auscultation to Identify Left Ventricular Dysfunction - Development and External Validation in Prospective Multicenter Cohorts",
-      "source": "NEJM AI",
+      "rank": 1,
       "tool": "Medicine",
+      "category": "medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "rationale": "A digital-stethoscope AI that finds left ventricular dysfunction at the point of care, validated externally in prospective multicenter patient cohorts. It is a screening tool any clinic with a stethoscope could use.",
-      "published_iso": "2026-10-15T14:01:36Z",
-      "og_image": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
-      "excerpt": "NEJM AI original article: an AI model on digital-stethoscope heart sounds detects left ventricular dysfunction at the point of care, developed and externally validated in prospective multicenter patient cohorts - a screening route for asymptomatic LVD where early treatment improves outcomes. (Online date via Crossref.)"
+      "title": "메디컬에이아이, 심전도 기반 심부전 진단 보조 AI 'AiTiALVSD' 美 FDA 허가 획득",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014060",
+      "source": "의학신문",
+      "published_iso": "2026-10-16T08:34:25+09:00",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
+      "excerpt": "메디컬에이아이의 심전도 기반 좌심실 수축기능부전(심부전) 진단 보조 소프트웨어 'AiTiALVSD'가 미국 FDA 허가를 받았다.",
+      "lang": "ko",
+      "rationale": "A concrete FDA clearance for an ECG-based heart-failure detection SaMD, so it reaches regulators and clinicians directly. The full URL (idxno=3014060) does not appear in the history."
     },
     {
-      "url": "https://www.prnewswire.com/news-releases/simbiosys-secures-fda-clearance-for-tumorsight-risk-introducing-the-worlds-first-ai-powered-mri-derived-breast-cancer-recurrence-risk-assessment-302910055.html",
-      "title": "SimBioSys Secures FDA Clearance for TumorSight Risk, the first AI-powered, MRI-derived breast cancer recurrence risk assessment",
-      "source": "SimBioSys (PR Newswire)",
+      "rank": 2,
       "tool": "Medicine",
+      "category": "medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "A new FDA clearance for AI that estimates breast cancer recurrence risk from the pre-surgery MRI. That is a regulator decision affecting how oncologists plan treatment.",
-      "published_iso": "2026-10-15T12:25:00Z",
-      "og_image": "https://mmx.prnewswire.com/media/MS1636036/SimBioSys-Logo.jpg?id=OA3021365&p=facebook",
-      "excerpt": "FDA cleared SimBioSys's TumorSight Risk, AI software that estimates breast cancer recurrence risk from a patient's pre-surgery MRI. Off-list source: covered by ABC News / Diagnostic Imaging but not by any reachable allowed-domain outlet."
+      "title": "Effect of Previsit AI-Generated Document Summaries on Consultation Time and Patient-Physician Communication: The AI-INFOCARE Randomized Controlled Trial",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600136",
+      "source": "NEJM AI",
+      "published_iso": "2026-10-15T14:00:52Z",
+      "og_image": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
+      "excerpt": "A randomized trial tested whether AI-generated, quality-checked lay-language summaries of patients' medical documents, given before the visit, change consultation time and patient-physician communication.",
+      "lang": "en",
+      "rationale": "An RCT on giving patients AI lay-language summaries before the visit, with consultation time and communication as outcomes. It is a different study and intervention from the 10-11 LLM pre-consultation trial and the 10-18 oncology usability study."
     },
     {
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014062",
-      "title": "AI Native EMR 시대 여는 'BITMate AI' 선보인다",
-      "source": "의학신문(일간보사)",
+      "rank": 3,
       "tool": "Medicine",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "rationale": "A Korean EMR vendor is launching an AI charting agent for clinics and hospitals that covers visit summaries, voice charting and the prescription flow. It changes documentation at the point of care.",
-      "published_iso": "2026-10-19T05:50:00+09:00",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414975_5946.jpg",
-      "excerpt": "비트컴퓨터가 KIMES BUSAN 2026에서 AI 진료 에이전트 'BITMate AI'를 선보인다. 내원요약·보이스차팅·맞춤 AI 에이전트로 진료 중 대화 인식부터 기록 생성, 처방 흐름까지 실시간으로 잇는 의원·병원용 EMR이다."
-    },
-    {
-      "url": "https://www.bmj.com/lookup/doi/10.1136/bmj-2026-100855",
-      "title": "Reporting completeness of clinical trials evaluating large language model interventions in medicine: systematic review",
-      "source": "The BMJ",
-      "tool": "Medicine",
+      "category": "medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "A BMJ systematic review checks how fully LLM clinical trials report their model, prompts and outcomes against CONSORT-AI. Anyone reading or running these trials can use it as an evidence-quality check.",
-      "published_iso": "2026-10-13T10:35:14Z",
-      "og_image": "https://www.bmj.com/sites/default/files/highwire/bmj/395/8498.cover-source.jpg",
-      "excerpt": "BMJ systematic review and meta-research study grading clinical trials of LLM interventions in medicine against established reporting guidelines (CONSORT-AI etc.), finding how completely they describe the model, prompts, and patient outcomes."
+      "title": "HPI: Evidence contradicts broad claims about AI, radiology workforce",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15837225/hpi-evidence-contradicts-broad-claims-about-ai-radiology-workforce",
+      "source": "AuntMinnie",
+      "published_iso": "2026-10-13T12:00:00Z",
+      "og_image": null,
+      "excerpt": "The ACR's Harvey L. Neiman Health Policy Institute says claims that AI has reduced the need for radiologists are contradicted by rising imaging volumes, projected 17-27% demand growth by 2055 and climbing radiologist workloads.",
+      "lang": "en",
+      "rationale": "An ACR Neiman Health Policy Institute analysis that pushes back on the claim that AI replaces radiologists, a workforce question that matters to clinicians and health systems. Nothing comparable has been published."
     },
     {
-      "url": "https://www.nature.com/articles/s41746-026-03388-6",
-      "title": "Large language models for depression assessment from brief daily diaries",
-      "source": "npj Digital Medicine",
+      "rank": 4,
       "tool": "Medicine",
+      "category": "medicine",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "title": "A generalizable deep learning model for predicting opioid use disorder using language modeling for cross-EHR data harmonization",
+      "url": "https://www.nature.com/articles/s41746-026-03392-w",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-10-19T00:00:00Z",
+      "og_image": null,
+      "excerpt": "OUD-REY is a deep learning model that uses longitudinal EHR data from the All of Us program, harmonized across record systems with language modeling, to predict a patient's one-year risk of opioid use disorder.",
+      "lang": "en",
+      "rationale": "OUD-REY predicts one-year opioid use disorder risk from All of Us EHR data harmonized across record systems. It targets a specific disease, is new research, and has nothing in common with the 10-13 data-privacy match beyond wording."
+    },
+    {
+      "rank": 5,
+      "tool": "Medicine",
+      "category": "medicine",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "LLMs score depression severity from patients' short free-text diaries, offering an alternative to repeated questionnaires for tracking patients over time.",
-      "published_iso": "2026-10-17T12:06:00Z",
-      "og_image": "",
-      "excerpt": "npj Digital Medicine study scoring depression severity from patients' brief free-text daily diaries with LLMs, as an alternative to repeated self-report questionnaires for intensive longitudinal tracking in clinical research and practice."
+      "title": "루닛, 난소암·방광암 AI 연구 발표…면역항암 치료반응 탐색",
+      "url": "https://www.dailypharm.com/user/news/343389",
+      "source": "데일리팜",
+      "published_iso": "2026-10-14T10:13:26+09:00",
+      "og_image": "https://vod.dailypharm.com/new_dailypharm/news/thumbnail/2026/10/14/5676f108-eb91-4918-8543-274a7d963ad4.png",
+      "excerpt": "루닛이 SITC 2026에서 AI 바이오마커 플랫폼 루닛 스코프로 난소암(랩콥 공동)과 방광암의 면역항암 치료 반응을 탐색한 연구초록 2편을 발표한다.",
+      "lang": "ko",
+      "rationale": "Lunit's SITC 2026 abstracts on predicting immunotherapy response in ovarian and bladder cancer with Lunit SCOPE. These are specific cancers with a treatment-response angle, Lunit has not appeared in the 30-day history, and the pick adds a fifth outlet."
     }
   ],
   "dedup": {
     "checks": {
-      "https://ai.nejm.org/doi/full/10.1056/AIoa2600258": {
+      "https://www.bosa.co.kr/news/articleView.html?idxno=3014060": {
         "verdict": "new",
-        "nearest": "https://ai.nejm.org/doi/full/10.1056/AIoa2600270",
+        "nearest": "https://ai.nejm.org/doi/full/10.1056/AIoa2600258",
         "new_action": ""
       },
-      "https://www.prnewswire.com/news-releases/simbiosys-secures-fda-clearance-for-tumorsight-risk-introducing-the-worlds-first-ai-powered-mri-derived-breast-cancer-recurrence-risk-assessment-302910055.html": {
-        "verdict": "new",
-        "nearest": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
-        "new_action": ""
-      },
-      "https://www.bosa.co.kr/news/articleView.html?idxno=3014062": {
-        "verdict": "new",
-        "nearest": "https://www.healthcaredive.com/news/teladoc-unveils-remote-monitoring-ambient-ai-features/832328/",
-        "new_action": ""
-      },
-      "https://www.bmj.com/lookup/doi/10.1136/bmj-2026-100855": {
+      "https://ai.nejm.org/doi/full/10.1056/AIoa2600136": {
         "verdict": "new",
         "nearest": "https://www.nature.com/articles/s41746-026-03232-x",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s41746-026-03388-6": {
+      "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15837225/hpi-evidence-contradicts-broad-claims-about-ai-radiology-workforce": {
         "verdict": "new",
-        "nearest": "https://www.docdocdoc.co.kr/news/articleView.html?idxno=3043448",
+        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/widespread-ai-adoption-private-practice-produces-measurable-efficiency-gains",
+        "new_action": ""
+      },
+      "https://www.nature.com/articles/s41746-026-03392-w": {
+        "verdict": "new",
+        "nearest": "https://www.healthcaredive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831902/",
+        "new_action": ""
+      },
+      "https://www.dailypharm.com/user/news/343389": {
+        "verdict": "new",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped as repeats of published stories: Radiology Business prostate MRI (the Radboud AI-vs-radiologists study, same as the AuntMinnie card on 10-14); Radiology Business Everlywell/Clairity $249 DTC (same launch as the AuntMinnie card on 10-08); STAT 'AI sandboxes' (the same state-regulation lobbying story as STAT 10-15 'Lobbyists and trade groups fight to shape how states regulate medical AI', with no new decision). Dropped as out of scope or weak: LivsMed surgical robot (bosa idxno=3014168; AI is a one-line research plan, so the story stands without AI). Not picked (fresh, but ranked lower): AI-INFOCARE RCT (a different study, but its angle of AI pre-visit summaries is too close to the 10-18 NKI first-consultation card for back-to-back days); BMJ HCI language/context accuracy (a third bmj.com item would add little diversity); Communications Health bias scoping review; BMJ Open adolescent mental-health apps; JAMA Psychiatry and JAMA Health Forum viewpoints (commentary; the youth one is from 10-09); Endpoints panel and MedCity agentic piece (commentary); oculomics narrative review; NEJM AI medulloblastoma case study; docdocdoc clinical-trial AI agent trend piece. Outlets: NEJM AI, PR Newswire, bosa.co.kr, BMJ, Nature (5 distinct). No pathogen/biosecurity items in the pool. The bosa pick is idxno=3014062, compared on the full URL against the 10-14 bosa card (idxno=3013809), so it is distinct."
+    "note": "Dropped: (1) BMJ Utah/Nolla AI prescriptions is the running Utah health-AI sandbox story (10-07 Healthcare Dive pilots, 10-15 STAT lobbyists) with no new decision of its own that can be verified from the excerpt. (2) STAT 'AI sandboxes' is a newsletter on the same state-sandbox regulation story as the 10-15 STAT lobbyists card. (3) STAT Clairity direct-to-patient covers the same company/access story as the 10-08 AuntMinnie Clairity/Everlywell card. (4) Radiology Business on adapting adult AI to pediatric patients appears to cover the same research as the 10-14 Nature BME neonatal continual-learning study. (5) Communications Medicine EpiSemoLLM overlaps the 10-09 and 10-14 epilepsy-LLM cards, per orchestrator. (6) Medigate Coreline AVIEW CAC Doctornet: same company and same Japan expansion as the published 10-10 Coreline Japan certification; max one per company. Not picked on merit: NEJM AI medulloblastoma case study (single case, no image), SAIL year-in-review perspective, TrajOnco (would make a second npj card), AuntMinnie turnaround times (would make a second AuntMinnie card; Oct 8), MedCity agentic commentary, JLK patent, bosa US-regulation advice column, Soonchunhyang regional care plan. Diversity: 5 distinct outlets, at most one per outlet."
   }
 }

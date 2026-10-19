@@ -8100,6 +8100,131 @@
           "x": "Konami isn't swearing off the technology: \"Konami provides systematic support so that creators can get a grasp of new technologies, properly assess the risks they may bring, and safely apply them to game development,\" he said."
         }
       ]
+    },
+    "games/games-steam-noai-filter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "Steam Next Fest, Valve's festival for indie games and demos, has started, and it seems to include more low-effort games than usual — many with art that looks like it came from a quick ChatGPT prompt, or that were flat-out generated with AI."
+        },
+        {
+          "t": "p",
+          "x": "On the Steam subreddit, user ScalesGhost asked for more control over the Discovery Queue: “I would like the ability to filter out all games that have AI-Generated content in them (after all, steam already requires you to disclose it), and also I'd like to exclude certain tags.”"
+        },
+        {
+          "t": "p",
+          "x": "Steam already has a robust tagging system, but Valve cut down user-defined tags in May; for such a filter to exist, Valve would have to add 'AI' as a tag. Other users complained that AI has “ruined Next Fest” and hoped Steam would implement stricter submission guidelines."
+        },
+        {
+          "t": "p",
+          "x": "Valve has long taken a laissez-faire approach to curation, relying on the algorithm to bury shovelware. Meanwhile AI in game development keeps spreading: Epic delayed its Star Wars shooter to pursue an “AI-first” direction, and Capcom is reportedly using AI in its REX program to improve the RE Engine."
+        }
+      ]
+    },
+    "games/games-finals-ai-commentary": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "eA9_Q6d2H-g"
+        },
+        {
+          "t": "p",
+          "x": "The predecessor to Arc Raiders is bringing in some dynamic commentary through the power of AI. The Finals, the multiplayer FPS Embark Studios released before its mammoth extraction shooter, is introducing a way to recognize players in real time through in-game play-by-play."
+        },
+        {
+          "t": "p",
+          "x": "The team revealed the feature in a short video. Essentially, Scott and June, the two voices you hear while playing The Finals, will start mentioning people's nicknames whenever they do something cool. So, instead of just hearing, “And that's a good headshot,” you'll get, “[Player] just scored a good headshot.”"
+        },
+        {
+          "t": "p",
+          "x": "Initially, the list of ways you'll hear this will be relatively short, to help the devs test the technology. “Keeping it narrow means we can curate what he actually says,” explains Carl Strandberg, audio director on The Finals. “Make sure it sounds good, and like the Scotty we all know and love.”"
+        },
+        {
+          "t": "p",
+          "x": "This is all powered through AI, since the voice is essentially performing an automatic text-to-speech function. The commentary already uses this technology, and Embark took some flak when the fanbase learned about that a few years ago."
+        },
+        {
+          "t": "p",
+          "x": "It arrives in the Prime Time update on October 20."
+        }
+      ]
+    },
+    "games/games-ukie-ai-mark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "UKIE has partnered with law firm Sheridans on an AI Compliance and Accreditation Service to help UK studios use AI lawfully and responsibly. Its four-step process culminates in the UKIE Certification Mark, which studios can use to demonstrate compliance and due diligence in pitches and funding rounds."
+        },
+        {
+          "t": "p",
+          "x": "UKIE CEO Nick Poole said most members are experimenting with these tools daily, “but there is a common concern about understanding where the legal and commercial risks sit and being able to demonstrate that they have taken those risks seriously.”"
+        },
+        {
+          "t": "p",
+          "x": "Sheridans partner Anna Poulter-Jones said the service includes reviews of existing studio policies, since laws and public policy around AI keep shifting."
+        },
+        {
+          "t": "p",
+          "x": "An AI compliance check plus a new AI policy typically costs £1,500–£2,000 for UKIE members and £2,000–£2,500 for non-members. A review of an existing policy with ongoing compliance checks costs £500–£750 for members and £750–£1,000 for non-members."
+        }
+      ]
+    },
+    "games/games-japan-union-ai-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "The Japan Actors Union has issued new guidelines on AI-generated voice use, including a ban on replicating the voices of dead actors unless they authorised it during their lifetime. Per Automaton, the aim is to protect an industry exposed to exploitation by generative AI."
+        },
+        {
+          "t": "p",
+          "x": "The guidelines cover four points: consent must be granted at “every stage” of the generative AI process, including training; AI replications count as new performances, so royalties or compensation are owed; AI-powered translations must keep the “artistic integrity” of the original and need permission for overseas use; and use of a deceased actor's work also requires permission from their family and agency, plus royalties."
+        },
+        {
+          "t": "p",
+          "x": "The union says it will push to make the guidelines industry-wide rules and urge the government to legislate ‘voice rights’. The guidelines are not laws and are not binding on AI companies."
+        }
+      ]
+    },
+    "games/games-npctalk-gta5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A new AI-powered modding toolkit called NPCTalk is bringing unscripted, real-time conversations to Grand Theft Auto V, letting players speak directly with NPCs and hear responses in their original, AI-cloned voices. Developed by Universal Modder, the open-source project aims to bring similar functionality to virtually any moddable game."
+        },
+        {
+          "t": "p",
+          "x": "Players speak through their microphone and get contextually appropriate replies reflecting each character's personality and surroundings. NPCs can also react physically, performing animations or following spoken commands."
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA's Nemotron ASR handles speech recognition, Qwen 3.8 27B running through Cerebras generates dialogue, and Fish Audio Drama 3 handles voice cloning and speech synthesis on a cloud-based NVIDIA H100 GPU. The project's documentation reports roughly 1.15–2.2 seconds between the player finishing a sentence and the NPC speaking with push-to-talk."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+          "cap": "The NPCTalk architecture. Image source: NPCTalk GitHub repo."
+        },
+        {
+          "t": "p",
+          "x": "NPCTalk was developed with the assistance of Claude Code, and its knowledge is packaged as reusable AI-agent skills. Each game still needs its own integration, and it has only been shown in GTA V Legacy's single-player mode. The toolkit is on GitHub under the MIT license; a free, playable GTA V mod is due next week."
+        }
+      ]
     }
   }
 }

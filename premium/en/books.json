@@ -7180,6 +7180,139 @@
           "x": "The full report is a premium article for paid subscribers of Jane Friedman's newsletter."
         }
       ]
+    },
+    "books/books-fish-audio-drama3": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Fish Audio announced Drama 3, a new text-to-speech model, on October 13. Creators can direct delivery in ordinary language, generate multi-speaker scenes, and repair a selected segment of synthesized audio without regenerating the surrounding performance."
+        },
+        {
+          "t": "p",
+          "x": "The headline feature is the smallest edit: changing a single word while preserving the voice, mood and rhythm on either side. Co-founder and chief scientist Shijia Liao says the model uses the sound on both sides of an edited word to make the replacement fit. “Voice AI has gotten very good at generating speech. The next step is directing a performance,” said CEO Rissa Cao."
+        },
+        {
+          "t": "p",
+          "x": "Directions, sounds and pauses go in square brackets or paired tags, and an Auto Tag feature suggests initial directions. Drama 3 keeps distinct character voices across long scripts and offers phoneme-level pronunciation control in English, Chinese, Japanese and Korean, among others."
+        },
+        {
+          "t": "p",
+          "x": "It is still a preview (API id drama-3-preview), and the release offers no independent evaluation of single-word repairs. Fish Audio reports more than 15 million users and $21 million in ARR."
+        }
+      ]
+    },
+    "books/books-google-kr-publishers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
+        },
+        {
+          "t": "p",
+          "x": "Amid controversy over revelations that Anthropic bought large numbers of books from a Korean book distributor, Google has also been negotiating since the first half of this year with major Korean publishers to buy books for AI training. Industry sources said some contracts have actually been completed, reportedly including one with an academic publisher. Google Korea did not respond."
+        },
+        {
+          "t": "p",
+          "x": "The problem is that there is no legal basis to regulate the sale of content for AI training without copyright holders’ consent. Small Korean publishers can hardly negotiate on equal terms with global Big Tech, and there are concerns that Anthropic’s ‘$3000 (435만 원) per book in damages’ could be read as a price tag even though it is not payment for AI training."
+        },
+        {
+          "t": "img",
+          "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
+          "cap": "AI training and copyright bills pending in the National Assembly"
+        },
+        {
+          "t": "p",
+          "x": "There are also concerns that Korean AI companies could lose competitiveness under the cost of buying content. Several amendments to the AI Basic Act that would require disclosure of the sources of generative AI training data and a verification process for copyright holders have been proposed in the National Assembly but remain pending."
+        }
+      ]
+    },
+    "books/books-jason-jones-ai-novel": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "In 2019, author Margaret Stohl was handed a manuscript by Jason Jones, co-creator of Halo and Destiny; the two had worked together at Bungie. It was an oral history of a fictional AI uprising, told by around 100 characters across 40 countries."
+        },
+        {
+          "t": "p",
+          "x": "They formed Stone Kite, a “worldbuilding studio” with 22 in-house staff and more than 250 contributors, to develop the universe across formats. It recently released the first chapter of a four-part graphic novel, One Zero One, and now a chapter of Jones’ An Oral History of Humanity’s Final Invention. Movies and games may follow depending on feedback."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "The excerpt follows a Moscow airsoft crew who agree to play an oligarch’s team — and discover their opponents are machines that imitate voices and refuse to call their hits. Stohl chose it for how prescient it feels: “The cheating, the bullying, the worst mirror of humanity that you see starting to come out with some of that agentic behavior right now.”"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
+        }
+      ]
+    },
+    "books/books-scholarly-ai-evidence": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sarah Hands, COO at PA EDitorial, argues that after heavy investment in AI tools, publishers now face a more important phase: learning what early adoption is teaching them. At times, she writes, AI adoption seems to outpace our ability to evaluate what it achieves."
+        },
+        {
+          "t": "p",
+          "x": "Adoption can become competitive rather than evidence-led; success is measured too narrowly by speed; and wider consequences are hard to see. The answer isn’t to slow adoption but to learn from it — including sharing null, inconclusive and negative results across the industry."
+        },
+        {
+          "t": "p",
+          "x": "She warns of automation bias: the risk isn’t that AI makes the wrong decision, but that editors become less likely to question it. An AI-generated flag is a signal requiring interpretation, not a finding."
+        },
+        {
+          "t": "p",
+          "x": "Citing a 2026 Organization Science report that submissions rose 42% since ChatGPT’s release, she asks: “How will we know whether AI made things better?” Without agreed measures, adoption will keep outrunning the evidence."
+        }
+      ]
+    },
+    "books/books-prize-author-check": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png"
+        },
+        {
+          "t": "p",
+          "x": "A work that reached the final round of a recent Korean novel competition ultimately lost its chance at the prize. The editing history of the submitted document showed it had been completed in an unusually short time, and when the judges met the author in person, the author could not properly answer even basic questions about the plot and how the work was conceived. The candidate denied writing it with AI, but this year’s competition ended with ‘no winner.’ It is the first confirmed case in which an AI controversy directly affected the selection of a winner at a Korean literary prize."
+        },
+        {
+          "t": "img",
+          "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863805.1.png"
+        },
+        {
+          "t": "p",
+          "x": "Korean literary prizes are responding in different ways. The Changbi New Writers Award states in its guidelines that “works produced by AI cannot be submitted.” The Munhakdongne Children’s Literature Award allows AI use that supports writing, such as spell-checking, fact-checking and research, but entrants who used it must list the service, the model and the scope of use on the application form. If needed, organizers can request materials such as prompts, drafts and writing notes. The ‘SNU Flash Fiction Contest’ bans AI use entirely and requires a ‘pledge on the ethical use of generative AI.’"
+        },
+        {
+          "t": "p",
+          "x": "Heo Jun-haeng, a professor of Korean language and literature at Konkuk University, said “it is problematic to determine who wrote a work based only on the scores of detectors such as ‘GPT Killer,’” and proposed evaluating the quality of the work first while reviewing key work records as a whole."
+        },
+        {
+          "t": "p",
+          "x": "Judgments are split abroad as well. The Académie Goncourt dropped a novel by Aurélien Télisson, which faced allegations of AI writing, from its round-1 list, but the Prix Renaudot included the same work on its round-2 list. The Commonwealth Short Story Prize investigated allegations against 3 of its 5 regional winners for a month, concluded that AI had not been used, and kept the results."
+        },
+        {
+          "t": "p",
+          "x": "Soongsil University runs a separate competition for AI-assisted creative work, the ‘AI·SW Creative Content Contest,’ which requires entrants to submit which AI tools they used along with their prompting process."
+        }
+      ]
     }
   }
 }

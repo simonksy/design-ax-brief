@@ -1415,6 +1415,125 @@
           "x": "The authors call the findings exploratory, note possible survivorship bias, and say further research is needed to determine generalizability."
         }
       ]
+    },
+    "medicine/medicine-ai-infocare-previsit-summaries": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Limited health literacy, clinical jargon and time-constrained consultations often impair patients' understanding of medical findings. The AI-INFOCARE trial tested whether AI-generated, quality-checked lay-language summaries provided before consultations improve communication."
+        },
+        {
+          "t": "p",
+          "x": "In a single-center trial in an outpatient neurosurgical setting, 300 adults were randomly assigned 1:1 to standard care with or without a quality-checked AI layperson summary of their medical findings (Simply Onno) before the visit. The primary end point was patient-reported quality of physician-patient interaction (FAPI)."
+        },
+        {
+          "t": "p",
+          "x": "The mean FAPI score was higher with the summaries (4.42 vs. 4.25; P=0.005), driven by shared decision-making, with no difference in perceived empathy. Patient-rated autonomy support was higher, while physicians rated their own autonomy support slightly lower. Median consultation time was 25 versus 33 minutes, an approximate 21% relative reduction."
+        },
+        {
+          "t": "p",
+          "x": "The authors say the findings support further evaluation of patient-facing document translation, but effects on clinical outcomes and clinician workload need confirmation before routine adoption."
+        }
+      ]
+    },
+    "medicine/medicine-hpi-radiology-workforce-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Recently published comments about the radiology workforce may be misleading, according to an editorial in the Journal of the American College of Radiology led by Elizabeth Rula, PhD, executive director of the ACR's Harvey L. Neiman Health Policy Institute (HPI)."
+        },
+        {
+          "t": "p",
+          "x": "The comments, by Harvard's David Cutler, PhD, and Lev Klarnet in JAMA Health Forum, suggested that a decrease in medical imaging has \"allowed the U.S. to meet the need for imaging without an increase in radiologists.\" The HPI team says this \"ignores a decade of evidence\" and relies on decade-old data."
+        },
+        {
+          "t": "p",
+          "x": "HPI cites research projecting U.S. imaging use will grow 17% to 27% by 2055, Medicare data showing significant CT and MRI volume increases between 2016 and 2024, and imaging RVUs per beneficiary at their highest level in 2021, up 13% since 2005. Inflation-adjusted radiologist reimbursement fell 48.3% between 2005 and 2025 even as workload grew."
+        },
+        {
+          "t": "p",
+          "x": "The editorial recalls Geoffrey Hinton's 2016 prediction that deep learning would outperform radiologists, which he has since walked back, and warns that downplaying challenges of AI in imaging could have a similar ripple effect and hurt patient access to imaging."
+        }
+      ]
+    },
+    "medicine/medicine-oud-rey-ehr-harmonization": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Opioid use disorder (OUD) remains a major U.S. public health crisis. The authors developed OUD-REY (OUD Risk Evaluator at 1 Year), a deep learning model that uses longitudinal EHR data from the All of Us research program to predict one-year OUD risk for patients with an opioid prescription."
+        },
+        {
+          "t": "p",
+          "x": "A pretrained language model lets OUD-REY accommodate thousands of unseen, out-of-vocabulary clinical features in a patient's record history, harmonizing data across EHR systems. On internal validation it achieved an AUROC of 91.2% and AUPRC of 77.0%."
+        },
+        {
+          "t": "p",
+          "x": "On external validation, it scored an AUROC of 86.4% on a temporally separated All of Us dataset and 85.5% on roughly 6 million Veterans Affairs patients spanning 20 years. Fairness auditing showed the model was generally fair across gender, race and ethnicity."
+        }
+      ]
+    },
+    "medicine/medicine-lunit-sitc2026-io-response": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/14/457e2433-46b3-4edf-ade2-b25144fa397d.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Lunit said on the 14th that it will present 2 research abstracts using its AI biomarker platform Lunit SCOPE at the Society for Immunotherapy of Cancer meeting (SITC 2026), to be held November 4 to 8 in Phoenix, Arizona, in the U.S."
+        },
+        {
+          "t": "p",
+          "x": "With diagnostics and clinical trial services company Labcorp, it carried out an ovarian cancer study using AI-based spatial profiling. The study compared histological immune characteristics between homologous recombination deficient (HRD) and homologous recombination proficient (HRP) tumors."
+        },
+        {
+          "t": "p",
+          "x": "With global contract research organization (CRO) CellCarta, it conducted a joint study of patients with muscle-invasive bladder cancer. It analyzed how the immune spatial structure within tumors and the proximity between tumor cells and T cells relate to response to preoperative immunotherapy."
+        },
+        {
+          "t": "p",
+          "x": "Since first presenting research results at SITC in 2021, Lunit will have presented studies for 6 consecutive years through this year. This year it expanded the cancer types studied to ovarian and bladder cancer. It continues its collaboration with CellCarta, with which it also presented joint research at last year's SITC, while starting new joint research with Labcorp."
+        },
+        {
+          "t": "p",
+          "x": "SITC is a society in the immuno-oncology field founded in 1984. At its annual meeting, experts from academia, industry and regulatory agencies discuss immuno-oncology research results and treatment trends."
+        },
+        {
+          "t": "p",
+          "x": "\"The widening scope of collaboration with global companies is evidence that Lunit's standing in the immuno-oncology market has risen accordingly,\" said Lunit CEO Brandon Suh. \"Academic results are an important asset that can lead to business, and the company continues to lay the groundwork for Lunit SCOPE to be widely used in real-world clinical settings.\""
+        }
+      ]
+    },
+    "medicine/medicine-ai-auscultation-lvd": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "An original article in NEJM AI by Sato and colleagues reports the development and external validation, in prospective multicenter studies in Japan, of artificial intelligence–enhanced auscultation to identify left ventricular dysfunction."
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
+          "cap": "Study design: training and internal validation (n=2359) and external validation (n=1000) datasets."
+        },
+        {
+          "t": "p",
+          "x": "The model was trained and internally validated on 2,359 adults with a clinical indication for echocardiography from a multicenter registry in Japan. Heart sounds from four auscultation sites and single-lead ECG data were recorded with a digital stethoscope, and left ventricular ejection fraction (LVEF) was measured by echocardiography."
+        },
+        {
+          "t": "p",
+          "x": "A CNN-based model and a transformer-based model, each targeting LVEF ≤40%, were ensembled across the four auscultation sites into a final model."
+        },
+        {
+          "t": "p",
+          "x": "The final model was then tested with the same threshold on an external dataset of 1,000 patients from six other hospitals in Japan; 964 were analyzed after exclusions."
+        }
+      ]
     }
   }
 }

@@ -8226,6 +8226,141 @@
           "x": "The results are resource estimates, not demonstrations on quantum hardware, and sampled tests do not prove every input succeeds. The paper is an arXiv preprint and has not been peer reviewed."
         }
       ]
+    },
+    "science/science-racedrone-1020": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A drone powered by AI has completed a championship race course faster than some of the world's best human drone pilots. In a study published Oct. 14 in Science Robotics, researchers at Delft University of Technology's Micro Air Vehicles Lab describe MonoRace, which flies using only a single forward-facing camera, an inertial measurement unit and a tiny onboard computer."
+        },
+        {
+          "t": "p",
+          "x": "MonoRace won the 2025 Abu Dhabi Autonomous Racing League drone race, beating every rival autonomous team and posting faster times than three former human world champions. It completed two laps around 11 gates in 16.56 seconds, reaching about 63 mph (102 km/h), without GPS, motion capture, stereo cameras or a preloaded map."
+        },
+        {
+          "t": "p",
+          "x": "A neural network spots gates, estimates the 966-gram drone's position and sends motor commands 500 times per second. It was trained with reinforcement learning in a fast physics simulator. “It actually learns to fly from scratch,” said co-author Guido de Croon. Training varied weight, drag, sensor noise and propeller condition so the network can control different drones."
+        },
+        {
+          "t": "p",
+          "x": "De Croon said MonoRace could become a training tool for human pilots, “a bit like powerful chess programs have also inspired humans playing the game.”"
+        }
+      ]
+    },
+    "science/science-kaist-photoflow": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+          "cap": "Tailored photocatalysts, the automated continuous-flow platform and the N-methyl pyrrole library. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "A KAIST team led by Professor Yoonsu Park has built an unmanned synthesis platform that combines a robot dispensing raw materials, automated pumps, visible-light irradiation in a narrow tube (continuous flow) and inline analytical equipment."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+          "cap": "The automated organic synthesis system. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Using tailored photocatalysts, the platform converts furans into N-methyl pyrroles, a scaffold used in drug development, by swapping the furan's oxygen atom for nitrogen. The team applied it to more than 20 furan-based compounds, including complex natural products, and demonstrated continuous production that could support scale-up."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+          "cap": "Schematic of the synthesis process. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "“How quickly and reliably designed molecules can be synthesized will determine the speed of future drug development,” Park said. The work appears in JACS Au."
+        }
+      ]
+    },
+    "science/science-portbooks-soton": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+          "cap": "AI training on archive documents. Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "University of Southampton historians used AI to transcribe roughly 100,000 pages of handwritten port books held at the National Archives in Kew, records of British voyages kept from 1565 onward."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+          "cap": "A handwritten document being transcribed by AI. Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "The result is a database and interactive map of merchant shipping from the late 1500s to the mid-1700s, covering hundreds of thousands of voyages, more than 3,000 ports and the goods traded. “Without AI extracting and organizing the data, this would have taken years,” said lead researcher Craig Lambert; the output still needed manual checking."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+          "cap": "Screenshot of the interactive map. Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "Europe dominated: in 1696–97 it made up about 80% of the recorded value of England's overseas trade. Coal was the most frequently recorded commodity, followed by malt, wheat, iron, wool and wine. The South West had the most recorded maritime locations, ahead of the Southeast and Scotland."
+        }
+      ]
+    },
+    "science/science-brainrot-tamu": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+          "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+        },
+        {
+          "t": "p",
+          "x": "Researchers led by Zhengzhong Tu at Texas A&M found that large language models trained on low-quality, attention-grabbing content develop “brain rot,” echoing the attention and memory declines linked to such content in people."
+        },
+        {
+          "t": "p",
+          "x": "They built “junk” data from a 2010 dataset of one million public Twitter posts, flagging posts by high engagement, short length and sensational style. GPT-4o mini did the initial labeling and graduate students checked a sample. Four models were trained on mixes of junk and control data: Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct and Qwen3 4B Instruct."
+        },
+        {
+          "t": "p",
+          "x": "The main effects were weaker reasoning and memory, a tendency to skip reasoning steps and weakened ethical safeguards. Retraining on higher-quality data did not fully restore performance."
+        },
+        {
+          "t": "p",
+          "x": "The authors warn of a feedback loop in which models trained on junk produce more junk, and call for transparency about training data. The work was presented at COLM 2026 in San Francisco."
+        }
+      ]
+    },
+    "science/science-mit-crystal-text-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Asking a large language model for the right material doesn't work well yet. Most materials are 3D arrangements of crystals, not text, and the literature is biased toward a few popular classes of crystals."
+        },
+        {
+          "t": "p",
+          "x": "MIT researchers built a multimodal model that combines 3D atomic structures with natural-language descriptions drawn from experimental papers and first-principles computational databases, covering composition, structure, properties, processing and potential applications. In Nature Communications, they show it identifies better material designs than text-only models; asked for solid-state lithium-ion battery electrolytes, its top results included independently identified promising candidates."
+        },
+        {
+          "t": "p",
+          "x": "The team used contrastive learning to align structures with text. A version trained on AI-generated descriptions learned to align geometry with text; one trained on paper text alone did not. Given a natural-language query describing a property, the model found matching crystals, outperforming a baseline."
+        },
+        {
+          "t": "p",
+          "x": "“Structure is really at the heart of the materials science field,” says Ju Li, who compares the model to AlphaFold."
+        }
+      ]
     }
   }
 }

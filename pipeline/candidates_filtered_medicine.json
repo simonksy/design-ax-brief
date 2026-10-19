@@ -1,98 +1,37 @@
 {
-  "date": "2026-10-19",
   "section": "medicine",
+  "generated_at": "2026-10-19T22:04:04Z",
+  "now_iso": "2026-10-19T22:04:04Z",
   "window_hours": 336,
-  "now_iso": "2026-10-19T01:00:00Z",
   "items": [
     {
-      "title": "Oculomics using artificial intelligence derived retinal biomarkers for cardiovascular health",
-      "url": "https://www.nature.com/articles/s44325-026-00157-y",
-      "source": "npj Cardiovascular Health",
+      "title": "AI prescriptions: App to issue drugs without doctors' oversight in the US",
+      "url": "http://www.bmj.com/content/395/bmj-2026-101186.short?rss=1",
+      "source": "The BMJ",
+      "published_iso": "2026-10-19T09:16:19-07:00",
+      "excerpt": "Utah has become the first US state to allow artificial intelligence to issue new prescriptions, and will soon let Nolla Health's app do so without any initial medical involvement.",
+      "og_image": "https://www.bmj.com/sites/default/files/highwire/bmj/395/8498.cover-source.jpg",
+      "lang": "en",
       "category": "medicine",
-      "published_iso": "2026-10-15T19:28:00Z",
-      "excerpt": "Narrative review of how AI models reading retinal images (vascular morphology, OCT structure/perfusion, retinal age) link retinal biomarkers to cardiovascular risk factors, subclinical disease and clinical events - the oculomics case for eye-based cardiac screening.",
-      "og_image": ""
-    },
-    {
-      "title": "A scoping review of bias in large AI models for medicine and healthcare",
-      "url": "https://www.nature.com/articles/s44528-026-00041-2",
-      "source": "Communications Health (Nature)",
-      "category": "medicine",
-      "published_iso": "2026-10-17T06:02:00Z",
-      "excerpt": "Scoping review mapping where medical bias shows up in large AI models such as LLMs used in medicine - by demographic group, task and evaluation method - and the gaps in how clinical studies measure and mitigate it.",
-      "og_image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs44528-026-00041-2/MediaObjects/44528_2026_41_Fig1_HTML.png"
-    },
-    {
-      "title": "Large language models for depression assessment from brief daily diaries",
-      "url": "https://www.nature.com/articles/s41746-026-03388-6",
-      "source": "npj Digital Medicine",
-      "category": "medicine",
-      "published_iso": "2026-10-17T12:06:00Z",
-      "excerpt": "npj Digital Medicine study scoring depression severity from patients' brief free-text daily diaries with LLMs, as an alternative to repeated self-report questionnaires for intensive longitudinal tracking in clinical research and practice.",
-      "og_image": ""
-    },
-    {
-      "title": "Artificial Intelligence-Enhanced Auscultation to Identify Left Ventricular Dysfunction - Development and External Validation in Prospective Multicenter Cohorts",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600258",
-      "source": "NEJM AI",
-      "category": "medicine",
-      "published_iso": "2026-10-15T14:01:36Z",
-      "excerpt": "NEJM AI original article: an AI model on digital-stethoscope heart sounds detects left ventricular dysfunction at the point of care, developed and externally validated in prospective multicenter patient cohorts - a screening route for asymptomatic LVD where early treatment improves outcomes. (Online date via Crossref.)",
-      "og_image": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg"
-    },
-    {
-      "title": "AI-Assisted Molecular Review Refines SMO Inhibitor Candidacy in SHH Medulloblastoma",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2600997",
-      "source": "NEJM AI",
-      "category": "medicine",
-      "published_iso": "2026-10-16T14:00:33Z",
-      "excerpt": "NEJM AI case study: an AI-assisted molecular tumor review changed which patients with SHH-subtype medulloblastoma were judged candidates for SMO-inhibitor therapy - AI in oncology treatment selection. (Online date via Crossref.)",
-      "og_image": ""
-    },
-    {
-      "title": "Effect of Previsit AI-Generated Document Summaries on Consultation Time and Patient-Physician Communication - The AI-INFOCARE Randomized Controlled Trial",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600136",
-      "source": "NEJM AI",
-      "category": "medicine",
-      "published_iso": "2026-10-15T14:00:52Z",
-      "excerpt": "NEJM AI randomized trial (AI-INFOCARE) testing whether AI-generated summaries of patients' prior documents, prepared before the visit, shorten consultation time and change patient-physician communication. Note: close angle to the 10-18 NKI AI-FCP card. (Online date via Crossref.)",
-      "og_image": "",
       "history_match": {
-        "score": 0.187,
-        "date": "2026-10-18",
-        "url": "https://www.nature.com/articles/s41746-026-03396-6",
-        "title": "AI-supported first consultation preparation in oncology: a real-world clinical usability study",
+        "score": 0.248,
+        "date": "2026-10-07",
+        "url": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
+        "title": "Utah approves slew of health AI pilots for drug management, women's health",
         "band": "related"
       }
     },
     {
-      "title": "The Need to Clarify Regulation of Mental Health Artificial Intelligence",
-      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/10.1001/jamapsychiatry.2026.3226",
-      "source": "JAMA Psychiatry",
+      "title": "Effect of Previsit AI-Generated Document Summaries on Consultation Time and Patient-Physician Communication: The AI-INFOCARE Randomized Controlled Trial",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600136",
+      "source": "NEJM AI",
+      "published_iso": "2026-10-15T14:00:52Z",
+      "excerpt": "A randomized trial tested whether AI-generated, quality-checked lay-language summaries of patients' medical documents, given before the visit, change consultation time and patient-physician communication.",
+      "og_image": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
+      "lang": "en",
       "category": "medicine",
-      "published_iso": "2026-10-14T15:00:38Z",
-      "excerpt": "JAMA Psychiatry Viewpoint on the potential dangers of mental health AI agents and therapy chatbots, and why regulators need to clarify how these tools are overseen. (Online date via Crossref created; RSS stamps issue date.)",
-      "og_image": "https://cdn.jamanetwork.com/images/logos/Psychiatry.png"
-    },
-    {
-      "title": "Regulating AI Design to Prevent Youth Mental Health Harms",
-      "url": "https://jamanetwork.com/journals/jama-health-forum/fullarticle/10.1001/jamahealthforum.2026.3119",
-      "source": "JAMA Health Forum",
-      "category": "medicine",
-      "published_iso": "2026-10-09T15:30:24Z",
-      "excerpt": "JAMA Health Forum Viewpoint on poor mental health outcomes among youths who use AI chatbots, the AI safety design failures behind them, and design-level regulation to prevent harm. (Online date via Crossref.)",
-      "og_image": "https://cdn.jamanetwork.com/images/logos/JAMA%20Health%20Forum.png"
-    },
-    {
-      "title": "Reporting completeness of clinical trials evaluating large language model interventions in medicine: systematic review",
-      "url": "https://www.bmj.com/lookup/doi/10.1136/bmj-2026-100855",
-      "source": "The BMJ",
-      "category": "medicine",
-      "published_iso": "2026-10-13T10:35:14Z",
-      "excerpt": "BMJ systematic review and meta-research study grading clinical trials of LLM interventions in medicine against established reporting guidelines (CONSORT-AI etc.), finding how completely they describe the model, prompts, and patient outcomes.",
-      "og_image": "https://www.bmj.com/sites/default/files/highwire/bmj/395/8498.cover-source.jpg",
       "history_match": {
-        "score": 0.16,
+        "score": 0.187,
         "date": "2026-10-11",
         "url": "https://www.nature.com/articles/s41746-026-03232-x",
         "title": "Standardized pre-consultation by a large language model agent vs ophthalmology residents: a randomized clinical trial",
@@ -100,49 +39,124 @@
       }
     },
     {
-      "title": "How much do language and context affect the accuracy of AI health advice?",
-      "url": "https://informatics.bmj.com/content/33/1/e102056",
-      "source": "BMJ Health & Care Informatics",
-      "category": "medicine",
-      "published_iso": "2026-10-13T11:15:20Z",
-      "excerpt": "BMJ Health & Care Informatics study measuring how LLM health-advice accuracy varies across languages, health topics and question context - a patient-safety and equity check on chatbots people use for medical advice.",
-      "og_image": "https://informatics.bmj.com/content/bmjhci/33/1/e102056/F1.medium.gif"
+      "title": "AI-Assisted Molecular Review Refines SMO Inhibitor Candidacy in SHH Medulloblastoma",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2600997",
+      "source": "NEJM AI",
+      "published_iso": "2026-10-16T14:00:33Z",
+      "excerpt": "NEJM AI case study (Buxbaum, Siegal et al.) in which an AI-assisted review of a patient's molecular profile refined whether an SHH-subtype medulloblastoma was a candidate for SMO-inhibitor therapy.",
+      "og_image": null,
+      "lang": "en",
+      "category": "medicine"
     },
     {
-      "title": "Artificial intelligence-enabled mental health applications for adolescents: a scoping review of safety, effectiveness and evidence",
-      "url": "https://bmjopen.bmj.com/content/16/10/e125586",
-      "source": "BMJ Open",
-      "category": "medicine",
-      "published_iso": "2026-10-12T17:25:46Z",
-      "excerpt": "BMJ Open scoping review mapping AI-enabled mental health apps for adolescents and separating the evidence on clinical effectiveness from the evidence on safety. (Online date via Crossref.)",
-      "og_image": ""
+      "title": "Clinical AI in 2025-2026: Six Themes from the SAIL Year in Review",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIp2600817",
+      "source": "NEJM AI",
+      "published_iso": "2026-10-16T14:00:33Z",
+      "excerpt": "A NEJM AI perspective distilling six themes from the Symposium on AI for Learning Health Systems (SAIL) review of clinical AI deployment and evaluation over the past year.",
+      "og_image": null,
+      "lang": "en",
+      "category": "medicine"
     },
     {
-      "title": "AI matches radiologists at prostate cancer detection via MRI",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/ai-matches-radiologists-prostate-cancer-detection-mri",
-      "source": "Radiology Business",
+      "title": "A generalizable deep learning model for predicting opioid use disorder using language modeling for cross-EHR data harmonization",
+      "url": "https://www.nature.com/articles/s41746-026-03392-w",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-10-19T00:00:00Z",
+      "excerpt": "OUD-REY is a deep learning model that uses longitudinal EHR data from the All of Us program, harmonized across record systems with language modeling, to predict a patient's one-year risk of opioid use disorder.",
+      "og_image": null,
+      "lang": "en",
       "category": "medicine",
-      "published_iso": "2026-10-13T21:22:53Z",
-      "excerpt": "Radboud University-led research finds AI performs on par with radiologists at detecting clinically significant prostate cancer on MRI across diverse patient datasets, pitched as a way to automate parts of the MRI pathway amid workforce shortages. Check vs 10-14 SCARLET-1 card.",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-10/screenshot_2026-10-13_at_4.11.49_pm.png?h=4537d35d&itok=8AYKsJno",
       "history_match": {
-        "score": 0.47,
-        "date": "2026-10-14",
-        "url": "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri",
-        "title": "AI on par with radiologists for finding prostate cancer on MRI",
-        "band": "likely-repeat"
+        "score": 0.157,
+        "date": "2026-10-13",
+        "url": "https://www.healthcaredive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831902/",
+        "title": "Data privacy concerns could hold patients back from using AI",
+        "band": "related"
       }
     },
     {
-      "title": "Health and wellness company begins selling mammography AI directly to consumers for $249",
-      "url": "https://radiologybusiness.com/topics/artificial-intelligence/health-and-wellness-company-begins-selling-mammography-ai-directly-consumers-249",
-      "source": "Radiology Business",
+      "title": "TrajOnco: a multi-agent framework for temporal reasoning over longitudinal EHR for multi-cancer early detection",
+      "url": "https://www.nature.com/articles/s41746-026-03377-9",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-10-15T00:00:00Z",
+      "excerpt": "TrajOnco is a training-free multi-agent LLM framework that reasons over patients' longitudinal electronic health records to estimate risk across multiple cancers for earlier detection.",
+      "og_image": null,
+      "lang": "en",
       "category": "medicine",
-      "published_iso": "2026-10-09T06:45:07Z",
-      "excerpt": "Everlywell rolled out FDA-authorized Clairity Breast nationwide: women upload a routine screening mammogram and pay $249 for an AI-predicted five-year breast cancer risk - a direct-to-consumer route for imaging AI.",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-08/istock-1064277246.jpg?h=02f03110&itok=F0ATHP30",
       "history_match": {
-        "score": 0.345,
+        "score": 0.256,
+        "date": "2026-10-09",
+        "url": "https://www.nature.com/articles/s41746-026-03346-2",
+        "title": "Early epilepsy detection from electronic health records with large language models",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Researchers develop way of adapting adult radiology AI models to pediatric population",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/researchers-develop-way-adapting-adult-radiology-ai-models-pediatric-population",
+      "source": "Radiology Business",
+      "published_iso": "2026-10-14T08:34:30+00:00",
+      "excerpt": "Only about 17% of FDA-authorized AI medical devices are labeled for children; researchers describe a method to adapt adult radiology AI models for pediatric patients.",
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2018-07/istock-851956258_super.jpg?itok=Jgc1Xe-I",
+      "lang": "en",
+      "category": "medicine"
+    },
+    {
+      "title": "AI leads to lower turnaround times for high-volume imaging",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15836861/ai-leads-to-lower-turnaround-times-for-highvolume-imaging",
+      "source": "AuntMinnie",
+      "published_iso": "2026-10-08T12:22:00Z",
+      "excerpt": "Multi-vendor AI implementation in radiology cut report turnaround times by up to 26% for trauma imaging, but infrastructure latency decided whether AI results reached radiologists in time to influence decisions.",
+      "og_image": null,
+      "lang": "en",
+      "category": "medicine",
+      "history_match": {
+        "score": 0.169,
+        "date": "2026-10-15",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yw5e9pnrzo",
+        "title": "Bradford skin cancer waiting times cut by new AI technology",
+        "band": "related"
+      }
+    },
+    {
+      "title": "HPI: Evidence contradicts broad claims about AI, radiology workforce",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15837225/hpi-evidence-contradicts-broad-claims-about-ai-radiology-workforce",
+      "source": "AuntMinnie",
+      "published_iso": "2026-10-13T12:00:00Z",
+      "excerpt": "The ACR's Harvey L. Neiman Health Policy Institute says claims that AI has reduced the need for radiologists are contradicted by rising imaging volumes, projected 17-27% demand growth by 2055 and climbing radiologist workloads.",
+      "og_image": null,
+      "lang": "en",
+      "category": "medicine"
+    },
+    {
+      "title": "'AI sandboxes' are all the rage. Advocates scramble to control their future",
+      "url": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/",
+      "source": "STAT",
+      "published_iso": "2026-10-15T13:14:37+00:00",
+      "excerpt": "STAT's Health Tech newsletter on the groups vying to shape the rules for state health-AI regulatory sandboxes like Utah's, which let AI tools operate under relaxed oversight.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2024/02/AdobeStock_540774532-1024x576.jpeg",
+      "lang": "en",
+      "category": "medicine",
+      "history_match": {
+        "score": 0.191,
+        "date": "2026-10-07",
+        "url": "https://www.healthcaredive.com/news/utah-approves-health-ai-pilots-drug-management-womens-health/832318/",
+        "title": "Utah approves slew of health AI pilots for drug management, women's health",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Why this startup is taking its AI to predict breast cancer risk directly to patients",
+      "url": "https://www.statnews.com/2026/10/08/why-clairity-took-breast-cancer-risk-prediction-ai-directly-to-patients/",
+      "source": "STAT",
+      "published_iso": "2026-10-08T08:30:00+00:00",
+      "excerpt": "Rather than wait for doctors and insurers, Clairity is selling its mammogram-based breast cancer risk prediction AI directly to patients.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_295013946-1024x576.jpeg",
+      "lang": "en",
+      "category": "medicine",
+      "history_match": {
+        "score": 0.35,
         "date": "2026-10-08",
         "url": "https://www.auntminnie.com/clinical-news/womens-imaging/news/15836407/clairity-expands-access-to-ai-breast-cancer-risk-tool-via-everlywell",
         "title": "Clairity expands access to AI breast cancer risk tool via Everlywell",
@@ -150,92 +164,102 @@
       }
     },
     {
-      "title": "SimBioSys Secures FDA Clearance for TumorSight Risk, the first AI-powered, MRI-derived breast cancer recurrence risk assessment",
-      "url": "https://www.prnewswire.com/news-releases/simbiosys-secures-fda-clearance-for-tumorsight-risk-introducing-the-worlds-first-ai-powered-mri-derived-breast-cancer-recurrence-risk-assessment-302910055.html",
-      "source": "SimBioSys (PR Newswire)",
-      "category": "medicine",
-      "published_iso": "2026-10-15T12:25:00Z",
-      "excerpt": "FDA cleared SimBioSys's TumorSight Risk, AI software that estimates breast cancer recurrence risk from a patient's pre-surgery MRI. Off-list source: covered by ABC News / Diagnostic Imaging but not by any reachable allowed-domain outlet.",
-      "og_image": "https://mmx.prnewswire.com/media/MS1636036/SimBioSys-Logo.jpg?id=OA3021365&p=facebook",
-      "history_match": {
-        "score": 0.234,
-        "date": "2026-10-07",
-        "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15836632/airs-medical-inc-airs-medical-secures-fda-clearance-for-mri-software",
-        "title": "AIRS Medical secures FDA clearance for MRI software",
-        "band": "related"
-      }
-    },
-    {
-      "title": "'AI sandboxes' are all the rage. Advocates scramble to control their future",
-      "url": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/",
-      "source": "STAT",
-      "category": "medicine",
-      "published_iso": "2026-10-15T13:14:37Z",
-      "excerpt": "STAT Health Tech: as states set up regulatory 'AI sandboxes' for health AI pilots, trade groups, physician organizations and patient advocates are vying to shape the rules that would govern them.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2024/02/AdobeStock_540774532-1024x576.jpeg",
-      "history_match": {
-        "score": 0.218,
-        "date": "2026-10-15",
-        "url": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
-        "title": "Lobbyists and trade groups fight to shape how states regulate medical AI",
-        "band": "related"
-      }
-    },
-    {
-      "title": "AI will force doctors to focus on clinical reasoning, experts say",
-      "url": "https://endpoints.news/ai-will-force-doctors-to-focus-on-clinical-reasoning-experts-say/",
-      "source": "Endpoints News",
-      "category": "medicine",
-      "published_iso": "2026-10-15T13:00:35Z",
-      "excerpt": "At an Endpoints News panel, UCI Health's Pandita and Beth Israel's Rodman debated how tools like OpenEvidence are reshaping doctor skills, shifting training toward clinical reasoning over recall.",
-      "og_image": "https://endpoints.news/wp-content/uploads/2026/02/AI-health-tech-artificial-intelligence-shutterstock-1.jpg"
-    },
-    {
       "title": "Why Agentic AI Works in Hospitals When You Strip It Down",
       "url": "https://medcitynews.com/2026/10/why-agentic-ai-works-in-hospitals-when-you-strip-it-down/",
       "source": "MedCity News",
-      "category": "medicine",
-      "published_iso": "2026-10-14T13:30:00Z",
-      "excerpt": "Hospitals running many simultaneous AI pilots to automate processes and free staff time; this piece argues agentic AI succeeds in hospital operations only when scoped down to narrow, well-defined tasks.",
-      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg"
+      "published_iso": "2026-10-14T13:30:00+00:00",
+      "excerpt": "Hospitals running many simultaneous AI-agent pilots hit 'pilot sprawl', losing track of which agents are still in use; the piece argues for narrow, stripped-down agent deployments.",
+      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2026/07/agentic-AI.jpg",
+      "lang": "en",
+      "category": "medicine"
     },
     {
-      "title": "AI Native EMR 시대 여는 'BITMate AI' 선보인다",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014062",
-      "source": "의학신문(일간보사)",
+      "title": "코어라인소프트, 日 최대 원격판독망에 'AVIEW CAC' 공급…실사용 기반 확대",
+      "url": "https://www.medigatenews.com/news/2141242729",
+      "source": "메디게이트뉴스",
+      "published_iso": "2026-10-13T06:48:00Z",
+      "excerpt": "코어라인소프트가 일본 원격영상진단 기업 닥터넷과 계약해, 닥터넷에 의뢰되는 흉부 CT에서 관상동맥석회화를 AVIEW CAC로 자동 정량화하고 결과를 원격판독에 연계한다.",
+      "og_image": "https://medigatenews.com/file/news/533252",
+      "lang": "ko",
       "category": "medicine",
-      "published_iso": "2026-10-19T05:50:00+09:00",
-      "excerpt": "비트컴퓨터가 KIMES BUSAN 2026에서 AI 진료 에이전트 'BITMate AI'를 선보인다. 내원요약·보이스차팅·맞춤 AI 에이전트로 진료 중 대화 인식부터 기록 생성, 처방 흐름까지 실시간으로 잇는 의원·병원용 EMR이다.",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014062_414975_5946.jpg"
+      "history_match": {
+        "score": 0.171,
+        "date": "2026-10-10",
+        "url": "https://www.dailypharm.com/user/news/343098",
+        "title": "코어라인소프트, 일본 학회 인증…영상진단 가산수가 기반 확보",
+        "band": "related"
+      }
     },
     {
-      "title": "\"90도 다관절 원천 기술로 다빈치 넘을 것…'디지털 서저리' 새 기준 세운다\"",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014168",
-      "source": "의학신문(일간보사)",
-      "category": "medicine",
-      "published_iso": "2026-10-19T05:50:00+09:00",
-      "excerpt": "리브스메드가 다관절 수술기구와 모듈형 수술로봇 '스타크'로 다빈치에 도전하며, 외과의 수술 데이터를 학습시킨 'AI 자율 수술' 연구를 국내 대학들과 진행 중이라고 밝혔다. AI 언급은 연구 계획 한 줄 수준이라 약한 후보.",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014168_415079_919.png"
+      "title": "제이엘케이, '의료영상·임상 텍스트 통합 LLM' 특허 확보",
+      "url": "https://www.medigatenews.com/news/3281874911",
+      "source": "메디게이트뉴스",
+      "published_iso": "2026-10-19T17:18:00Z",
+      "excerpt": "제이엘케이가 EMR·EHR 텍스트와 PACS 영상을 병변 위치 정보 중심으로 통합해 토큰 비용을 줄이는 멀티모달 LLM 기반 임상 운영 시스템 특허를 확보했다.",
+      "og_image": "https://medigatenews.com/file/news/534694",
+      "lang": "ko",
+      "category": "medicine"
     },
     {
-      "title": "임상시험도 'AI 에이전트' 시대…통합 플랫폼 경쟁 본격화",
-      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043660",
-      "source": "청년의사",
-      "category": "medicine",
-      "published_iso": "2026-10-16T06:45:54+09:00",
-      "excerpt": "임상시험에서 AI가 EDC·CTMS 단위 자동화를 넘어 시험기관 선정, 환자 등록, 데이터 검토, 규제 대응을 하나의 흐름으로 묶는 AI 에이전트 플랫폼 경쟁이 본격화하고 있다.",
-      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202610/3043660_3047511_137_v150.jpg"
+      "title": "루닛, 난소암·방광암 AI 연구 발표…면역항암 치료반응 탐색",
+      "url": "https://www.dailypharm.com/user/news/343389",
+      "source": "데일리팜",
+      "published_iso": "2026-10-14T10:13:26+09:00",
+      "excerpt": "루닛이 SITC 2026에서 AI 바이오마커 플랫폼 루닛 스코프로 난소암(랩콥 공동)과 방광암의 면역항암 치료 반응을 탐색한 연구초록 2편을 발표한다.",
+      "og_image": "https://vod.dailypharm.com/new_dailypharm/news/thumbnail/2026/10/14/5676f108-eb91-4918-8543-274a7d963ad4.png",
+      "lang": "ko",
+      "category": "medicine"
+    },
+    {
+      "title": "Epilepsy domain adapted large language models enhance epileptogenic zone prediction from seizure semiology",
+      "url": "https://www.nature.com/articles/s43856-026-01883-1",
+      "source": "Communications Medicine",
+      "published_iso": "2026-10-19T00:00:00Z",
+      "excerpt": "EpiSemoLLM, a domain-adapted language model externally validated across cohorts, localizes epileptogenic zones from seizure semiology comparably to or better than epileptologists.",
+      "og_image": null,
+      "lang": "en",
+      "category": "medicine"
+    },
+    {
+      "title": "AI 의료기기 美 규제 대응, 변경관리·허가 지원 강화해야",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014295",
+      "source": "의학신문",
+      "published_iso": "2026-10-20T05:55:00+09:00",
+      "excerpt": "미국의 AI 의료기기 전 주기 관리 기준(변경관리계획 등) 정비에 대응해 국내 기업의 변경관리·허가 전략 수립을 지원해야 한다는 제언이 나왔다.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014295_415213_4620.png",
+      "lang": "ko",
+      "category": "medicine"
+    },
+    {
+      "title": "순천향대천안병원, AI기반 '지역 완결형 의료전달체계' 구축 본격화",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014270",
+      "source": "의학신문",
+      "published_iso": "2026-10-19T13:44:27+09:00",
+      "excerpt": "순천향대천안병원이 AI·디지털 기술로 가정, 지역 공공의료기관, 상급병원을 연결하는 지역 완결형 의료전달체계 구축에 나섰다.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014270_415188_4341.jpg",
+      "lang": "ko",
+      "category": "medicine"
+    },
+    {
+      "title": "메디컬에이아이, 심전도 기반 심부전 진단 보조 AI 'AiTiALVSD' 美 FDA 허가 획득",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014060",
+      "source": "의학신문",
+      "published_iso": "2026-10-16T08:34:25+09:00",
+      "excerpt": "메디컬에이아이의 심전도 기반 좌심실 수축기능부전(심부전) 진단 보조 소프트웨어 'AiTiALVSD'가 미국 FDA 허가를 받았다.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
+      "lang": "ko",
+      "category": "medicine"
     }
   ],
   "dedup": {
     "dropped": 3,
-    "kept": 17,
+    "kept": 16,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 6,
+    "review": 8,
     "same_story_pairs": []
   },
   "history_digest": [
@@ -533,6 +557,31 @@
       "date": "2026-10-18",
       "title": "Keeping artificial intelligence agents within the clinical task",
       "url": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00146-9/fulltext"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Artificial Intelligence-Enhanced Auscultation to Identify Left Ventricular Dysfunction - Development and External Validation in Prospective Multicenter Cohorts",
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600258"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Reporting completeness of clinical trials evaluating large language model interventions in medicine: systematic review",
+      "url": "https://www.bmj.com/lookup/doi/10.1136/bmj-2026-100855"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "AI Native EMR 시대 여는 'BITMate AI' 선보인다",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014062"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Large language models for depression assessment from brief daily diaries",
+      "url": "https://www.nature.com/articles/s41746-026-03388-6"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "SimBioSys Secures FDA Clearance for TumorSight Risk, the first AI-powered, MRI-derived breast cancer recurrence risk assessment",
+      "url": "https://www.prnewswire.com/news-releases/simbiosys-secures-fda-clearance-for-tumorsight-risk-introducing-the-worlds-first-ai-powered-mri-derived-breast-cancer-recurrence-risk-assessment-302910055.html"
     }
   ]
 }

@@ -8684,6 +8684,144 @@
           "cap": "A Payload CMS event list alongside the events webpage it powers."
         }
       ]
+    },
+    "design/design-flux3-max-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+        },
+        {
+          "t": "p",
+          "x": "fal announced FLUX 3 Max on October 19, 2026, a video generation model post-trained by fal Research in collaboration with Black Forest Labs on the FLUX 3 foundation model. It became available the same day through fal’s inference platform."
+        },
+        {
+          "t": "p",
+          "x": "fal Research continued training FLUX 3 to improve visual fidelity, motion coherence and prompt adherence, and optimized inference and serving on fal’s own engine. BFL CEO Robin Rombach said FLUX 3 was built as a foundation for others to build on."
+        },
+        {
+          "t": "p",
+          "x": "fal reports a 1,139 Elo rating in preliminary Artificial Analysis Video Arena image-to-video evaluations, a 50-point gain over the original FLUX 3 (1,089). Its benchmark generated a 10-second video in 10.95 seconds — which fal calls 22 times faster than Seedance 2.5 at the same Elo and 11.5 times faster than FLUX 3. The product page lists a different figure: 12.45 seconds for a 10-second 720p video."
+        },
+        {
+          "t": "p",
+          "x": "Artificial Analysis’s own leaderboard lists FLUX 3 Max at 1,138 Elo, second behind MiniMax H3 at 1,140."
+        },
+        {
+          "t": "p",
+          "x": "The API offers text-to-video and image-to-video endpoints at 720p. Launch pricing is $0.0425 per second, 75 percent off the $0.17 list price, until November 7, 2026."
+        }
+      ]
+    },
+    "design/design-cg-roundup-1018": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "sAsuw-nt-GM"
+        },
+        {
+          "t": "p",
+          "x": "CG Channel’s weekly round-up of smaller CG software updates leads with Maxon’s Autograph 2027.0 and Red Giant 2027.0."
+        },
+        {
+          "t": "p",
+          "x": "Autograph, the USD-based motion graphics, VFX and compositing software Maxon made free earlier this year, gets its biggest update since: a new MCP Server connects it to external AI tools like Claude or ChatGPT. Other additions include new Tile modifier modes, improved vertical text and Japanese typography, copy-and-paste of cameras, lights and primitives from Cinema 4D 2027.0, and Adobe Fonts support."
+        },
+        {
+          "t": "p",
+          "x": "Red Giant, Maxon’s effects plugin suite, gets an AI-assisted relighting system: Scene Light relights shots in After Effects using AI-generated depth and normal maps. Chromatic Displacement is now supported in Autograph. Full Red Giant subscriptions cost $85/month or $639/year."
+        },
+        {
+          "t": "p",
+          "x": "In ComfyUI, NVIDIA’s RTX video effects now run as custom nodes locally on a user’s GPU: RTX Video Super Resolution upscales video up to 4x or 8,192px, Frame Generation raises frame rates 2–16x, and an HDR node converts SDR to BT.2020 HDR. The nodes need an NVIDIA RTX GPU (RTX 40 Series or better for frame generation) and are Apache 2.0-licensed."
+        }
+      ]
+    },
+    "design/design-wunderui-agentic-ds": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Design systems were built for humans who read docs. Now much UI is written by AI coding agents, which need explicit rules, real components and a design language they can’t improvise around — that’s why the author built WunderUI."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
+        },
+        {
+          "t": "p",
+          "x": "Asked for a billing dashboard, agents tend to guess: off-palette hex colors, tables built from divs, transition-all on everything, nonexistent props, hand-picked dark mode."
+        },
+        {
+          "t": "p",
+          "x": "WunderUI pairs a Figma design system with a React library (Tailwind CSS v4 on Base UI) from one source of truth: 205 components, tokens for color, radius, density and motion, plus a DESIGN.md and design.json agents can fetch and an MCP server."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
+        },
+        {
+          "t": "p",
+          "x": "The DESIGN.md is a set of short, testable rules — never hardcode colors, theme by overriding tokens, motion from tokens only — with a task table mapping needs to components. Agent-UI components (AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError) are in the Pro plan."
+        },
+        {
+          "t": "p",
+          "x": "There are 12 agent skills, four free, such as token-check and motion-audit. 77 components are free under MIT; the other 128 and all skills come with paid yearly Core and Pro plans."
+        }
+      ]
+    },
+    "design/design-ai-photo-false-memory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+          "cap": "Images used in an MIT Media Lab experiment on AI-edited photos and memory. | MIT Media Lab"
+        },
+        {
+          "t": "p",
+          "x": "AI-edited photographs and videos create false memories and make people even more confident about the wrong version of an event, according to an MIT Media Lab experiment reported by The Washington Post."
+        },
+        {
+          "t": "p",
+          "x": "Professor Pattie Maes and colleagues showed participants 24 ordinary photographs — a wedding, a city street, a race. After a break, some saw the originals again while others saw AI-altered versions. Those who saw altered versions were more likely to misremember details, and more confident in their wrong answers. “I think of all this as very dangerous, basically,” Maes said."
+        },
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+          "cap": "Images used in an MIT Media Lab experiment on AI-edited photos and memory. | MIT Media Lab"
+        },
+        {
+          "t": "p",
+          "x": "In the paper, published at CHI 2025, 200 participants were split into four groups of 50: originals, AI-edited images, five-second AI videos of the originals, and AI videos of the edited images. All three AI groups formed more false memories than the control; the edited-image video group produced 2.05 times as many, with 1.19 times the confidence."
+        },
+        {
+          "t": "p",
+          "x": "Wharton’s Gideon Nave worries less about AI taking over than humans “starting to decay,” fearing a world where “thinking becomes optional.”"
+        }
+      ]
+    },
+    "design/design-kling4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
+        },
+        {
+          "t": "p",
+          "x": "Kuaishou's Kling AI has made Kling 4.0 generally available on klingai.com, opening a video-generation model previously offered through preview access, according to PandaDaily."
+        },
+        {
+          "t": "p",
+          "x": "PandaDaily reports that Kling 4.0 can generate a single clip up to 30 seconds long and supports as many as 10 keyframes for controlling character state, scene transitions, and narrative beats. A job can combine up to 10 images, five video clips, and seven subjects as references, and multi-shot continuation is designed to extend a sequence toward roughly two minutes."
+        },
+        {
+          "t": "p",
+          "x": "Audio arrives as a core part of the release: dual-channel stereo and lip sync across Chinese, English, Japanese, Korean, Spanish, Portuguese, German, French, Hindi, several Chinese dialects, and English accent variants. Prompt inputs can reach about 8,000 tokens. The rollout also adds MCP and command-line interface hooks for agentic or scripted production workflows."
+        },
+        {
+          "t": "p",
+          "x": "4K and 1080p 10-bit HDR output, as well as an enterprise API, are still due soon rather than part of the completed public rollout. Pexo reports that a Kling 4.0 Flash variant entered limited early access on September 28 for top-tier annual subscribers."
+        }
+      ]
     }
   }
 }

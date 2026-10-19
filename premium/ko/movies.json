@@ -12792,6 +12792,191 @@
           "x": "팀이 받은 AI 크레딧은 38,000달러로 편당 약 7,600달러다. API-pricing으로 따지면 83분 분량의 영상을 뽑을 수 있는 돈이고 Artlist의 AI Creator 요금제는 연 500달러다. 참여자 모두 하루 전액 일당을 받았지만, IndieWire는 더 적은 인원이 더 빨리 일하는 구조는 결국 엔터테인먼트 일을 숙련 없이도 하는 일로 만든다고 경고한다."
         }
       ]
+    },
+    "movies/movies-sora-startup-handoff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
+          "cap": "OpenAI의 AI 동영상 앱 Sora. [사진: OpenAI]"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 보류해 둔 동영상 생성 AI Sora를 한 스타트업에 넘기려고 협상 중이라고 The Information이 현지시간 12일(Oct. 12) 보도했다."
+        },
+        {
+          "t": "p",
+          "x": "보도에 따르면 협상 상대는 영화 제작자용 AI 동영상 기술을 만드는 스타트업으로, Sora 활용 방안을 OpenAI와 논의하고 있다. Sora를 넘겨받아 손본 다음 그 위에 소프트웨어나 서비스를 얹어 팔겠다는 계획이다."
+        },
+        {
+          "t": "p",
+          "x": "이 스타트업은 몇 달 전 할리우드(Hollywood) 거물 Jeffrey Katzenberg와 Sora 연구를 이끈 Bill Peebles, Dropbox 최고재무책임자 출신 Sujay Jaswa가 함께 세웠다. 회사 이름은 알려지지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Sora 가중치, 즉 모델이 질문에 어떻게 답할지 정하는 매개변수 값까지 스타트업에 넘어갈지는 분명하지 않다."
+        },
+        {
+          "t": "p",
+          "x": "The Information은 협상 내용을 잘 아는 소식통을 인용해, 합의가 이뤄지면 스타트업이 Sora를 크게 뜯어고칠 만큼 깊은 접근 권한을 얻는다고 전했다. Peebles가 Sora 개발을 이끌며 모델 구조와 학습 방법을 이미 꿰고 있으니 가중치까지 넘겨도 이상할 게 없다는 분석도 덧붙였다."
+        },
+        {
+          "t": "p",
+          "x": "거래가 성사되면 OpenAI 몫으로 스타트업 지분이 돌아간다. 규모는 확인되지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI는 올해 초 사업을 조정하면서 Sora 모델과 오디오 기반 앱을 접었다."
+        }
+      ]
+    },
+    "movies/movies-lotte-kaica-run": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
+          "cap": "사진=롯데컬처웍스"
+        },
+        {
+          "t": "p",
+          "x": "롯데시네마가 인공지능(AI)과 영화의 만남을 극장에서 선보인다. 경기도와 경기콘텐츠진흥원이 주최한 ‘2026 대한민국 AI 콘텐츠 어워즈(K-AICA)’의 본선 진출작과 수상작 18편을 국내 극장 단독으로 상영한다."
+        },
+        {
+          "t": "p",
+          "x": "이번 특별전은 오는 28일까지 롯데시네마 수도권 31개 지점에서 진행된다. 전 세계 87개국에서 출품된 1528편 가운데 선정된 작품들을 대형 스크린과 극장 사운드로 감상할 기회다. 관람료는 3000원이며, 예매는 롯데시네마 공식 홈페이지와 모바일 앱에서 가능하다."
+        },
+        {
+          "t": "p",
+          "x": "상영작은 중·단편 부문 수상작 9편을 포함해 총 18편이다. 관객들이 작품을 편리하게 감상할 수 있도록 5개 파트로 구성했으며, 각 파트는 2~5편씩 약 90분 분량으로 편성됐다."
+        },
+        {
+          "t": "p",
+          "x": "장권호 감독의 중편 ‘로이 온 더 로드’는 AI를 활용한 영화적 상상력의 확장을 보여주며, 로버트 고데트 감독의 단편 ‘엄마 눈에만 예쁜 얼굴’은 애니메이션과 실사를 교차시키며 색다른 시공간을 구현한다."
+        },
+        {
+          "t": "p",
+          "x": "상영관은 경기 지역 20곳과 서울 지역 11곳이다. 수원, 동탄, 판교, 부천, 용인 등 경기 주요 지역과 건대입구, 김포공항, 영등포, 용산, 월드타워 등 서울 주요 지점에서 관람할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "16일 롯데시네마 관계자는 “창작자들의 새로운 도전과 상상력이 담긴 작품을 극장에서 소개하게 돼 의미가 크다”며 “앞으로도 미래형 콘텐츠를 극장과 연결해 차별화된 문화 경험을 제공하겠다”고 밝혔다."
+        }
+      ]
+    },
+    "movies/movies-tapnow-arena-seoul": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
+          "cap": "‘아레나 피크 아시아’에서 동상을 받은 한국 AI 단편 ‘서푼’의 한 장면. 사진 야호"
+        },
+        {
+          "t": "p",
+          "x": "17일 오후 7시경 서울 서초구의 한 빌딩에서 홍콩 기반 AI 창작 플랫폼 탭나우가 주최한 AI 영화 제작 대회 ‘아레나 피크 아시아’ 서울 대회가 끝났다. 참가 팀들은 전날부터 32시간에 걸쳐 탭나우를 80% 이상 활용해 3~8분 길이 AI 영화를 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "총상금 8만달러(약 1억원)를 웃돈 경연은 기획부터 촬영, 편집, 음악, 사운드, 더빙, VFX까지 컴퓨터 한 대로 처리하는 ‘책상머리 제작’이었다. 공모로 뽑힌 한·중·일 160개팀(최대 3인)이 동시에 대회를 치렀고, 서울 행사는 중앙대 첨단영상대학원과 서울국제초단편영화제가 공동주관했다."
+        },
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
+          "cap": "참가자들이 각자 가져온 장비. 사진 서울국제초단편영화제"
+        },
+        {
+          "t": "p",
+          "x": "16일 오전 11시 주제가 제시되자 다수 참가자가 챗GPT·클로드 등에 줄거리와 장르를 물었고, 콘티 분석도 AI에 맡기는 경우가 많았다. 시나리오를 쓰면서 캐릭터 디자인과 음악을 뽑고, 영상 생성과 편집을 동시에 하는 식으로 기존 공정을 따르지 않는 모습도 보였다."
+        },
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
+          "cap": "32시간 AI 영화 제작에 참가한 40개 한국 팀. 사진 서울국제초단편영화제"
+        },
+        {
+          "t": "p",
+          "x": "18일 시상식에서는 AI 스터디로 만난 동호인들이 만든 단편 ‘서푼’이 한국팀 중 유일하게 3개국 본상(동상)을 받았다. 심사위원 민규동 감독은 “영화 만들기가 게임처럼 스포츠화 될 수도 있겠다는 생각이 들었다”고 말했다."
+        }
+      ]
+    },
+    "movies/movies-bbc-ai-honesty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
+          "cap": "BBC 콘텐츠 책임자 Kate Phillips"
+        },
+        {
+          "t": "p",
+          "x": "BBC 콘텐츠 책임자 Kate Phillips는 오늘 BBC가 인공지능 사용을 두고 시청자에게 결코 거짓말하지 않겠다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "Phillips는 “AI는 이제 TV 제작의 일부”이고 “리서치와 편집 도구”로 쓰인다고 짚었다. 그러면서도 Blue Planet III 같은 대형 프로그램의 화면에 보이는 부분에는 AI를 결코 쓰지 않겠다고 못 박았다. MIPCOM 청중 앞에서 Blue Planet III 예고편을 틀던 자리였다."
+        },
+        {
+          "t": "p",
+          "x": "Phillips는 칸(Cannes)에서 “그런 데 AI를 쓰면 시청자에게 거짓말을 하는 셈이고, 우리는 절대 그렇게 할 수 없다”고 했다."
+        },
+        {
+          "t": "p",
+          "x": "보름 전에는 상사인 DG Matt Brittin이 AI-generated Doctor Who 에피소드를 받아 봤다며 “꽤 괜찮다”고 평했다. AI가 일자리와 창의성에 미칠 영향을 걱정하는 BBC 내부 일부는 이 일에 반발했다."
+        },
+        {
+          "t": "p",
+          "x": "Phillips는 오늘 감정을 실어, BBC는 알고리즘에 기대지 않고 지금까지 해 온 방식대로 프로그램을 계속 발주하겠다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "BBC는 여러 채널을 여는 등 YouTube와 협력을 넓히는 중이다. 바로 전날에는 YouTube Europe 대표 Pedro Pina가 플랫폼은 “콘텐츠 제작에 투자하지 않는다”고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Phillips는 “최근 누가 알고리즘에 대해, 알고리즘을 기준으로 발주하겠느냐고 물었는데, 아주 분명히 ‘절대 아니다’라고 말하고 싶다”고 했다. 그러고는 “배급 방식이 바뀐다고 해서 우리의 창작 목표가 바뀐 것은 아니다. 사람들은 훌륭한 콘텐츠를 원한다. YouTube는 발주처가 아니라 플랫폼이다. 알고리즘을 기준으로 발주한다면 말 그대로 창작의 껍데기만 남은 것”이라고 덧붙였다."
+        }
+      ]
+    },
+    "movies/movies-artcraft-filmcraft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+          "cap": "ArtCraft의 FilmCraft는 Adobe Premiere 자리를 노리는 앱이다. 이미지 제공: ArtCraft"
+        },
+        {
+          "t": "p",
+          "x": "개발자 Brandon Thomas와 그가 이끄는 ArtCraft가 Adobe Creative Cloud 앱을 본뜬 무료 오픈소스 애플리케이션 일곱 개를 내놨다. Premiere Pro 대안인 FilmCraft와 After Effects용 EffectCraft도 그 안에 있다. Thomas 말로는 AI 코딩 모델의 도움을 받아 Rust로 짰고, 시작한 계기는 Adobe의 해지 위약금이었다. 코드는 Anthropic의 Claude Opus 5.5로 썼다고 한다. ArtCraft 스스로는 이 앱들을 알파 버전 소프트웨어로 분류한다."
+        },
+        {
+          "t": "video",
+          "yt": "ZGeOTtmIoK0"
+        },
+        {
+          "t": "p",
+          "x": "FilmCraft는 Source·Program 모니터, 멀티트랙 타임라인, 리플·롤·슬립·슬라이드 트림, 무제한 실행 취소를 갖췄다. 코덱도 FFmpeg에 기대지 않고 직접 짰다. Premiere Pro 프로젝트는 열리지 않아서, 두 프로그램 사이에서 타임라인을 옮기려면 Final Cut Pro 7 XML을 거쳐야 한다. 프로젝트 측 자체 평가로는 기능 범위가 약 86%, “실제 작업에 쓸 준비”는 약 56% 수준이다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
+          "cap": "FilmCraft의 Scopes와 Timeline. 이미지 제공: ArtCraft"
+        },
+        {
+          "t": "p",
+          "x": "EffectCraft에는 효과 306개와 익스프레션, 3D 카메라·조명이 들어 있다. 다만 .aep·.aepx 파일은 열지 못하고 After Effects 플러그인도 돌아가지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "FilmCraft의 기능은 모두 명령으로 짜여 있어 UI, 명령줄 도구, JSON 제어 채널, MCP 서버 어디서든 실행된다. README를 보면 스크린숏 속 트레일러와 그레이딩도 AI 에이전트가 앱을 직접 조작해 만들었다. 클린룸 개발이라는 주장은 따로 검증된 적이 없고, AI 모델이 코드를 얼마나 썼는지도 Thomas의 설명 말고는 근거가 없다. Adobe는 공개 입장을 내지 않았다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
+          "cap": "EffectCraft의 Graph editor와 이징을 적용한 키프레임. 이미지 제공: ArtCraft"
+        },
+        {
+          "t": "p",
+          "x": "Craft Apps는 전부 무료다. 이 글을 쓰는 지금 FilmCraft는 GitHub에서 스타 약 10,600개, 포크 4,200개를 받았다."
+        }
+      ]
     }
   }
 }

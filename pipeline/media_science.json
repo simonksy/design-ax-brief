@@ -1,31 +1,31 @@
 {
-  "date": "2026-10-19",
   "section": "science",
   "media": [
     {
-      "id": "science-mit-crystal-text-model",
-      "type": "image",
-      "src": "pipeline/media/science-mit-crystal-text-model.jpg"
+      "id": "science-claude-island",
+      "type": "video",
+      "src": "pipeline/media/science-claude-island.mp4",
+      "poster": "pipeline/media/science-claude-island.jpg"
     },
     {
-      "id": "science-riverlane-nvidia-decoder",
+      "id": "science-racedrone-1020",
       "type": "image",
-      "src": "pipeline/media/science-riverlane-nvidia-decoder.png"
+      "src": "pipeline/media/science-racedrone-1020.jpg"
     },
     {
-      "id": "science-chatbot-language-personality",
+      "id": "science-kaist-photoflow",
       "type": "image",
-      "src": "pipeline/media/science-chatbot-language-personality.jpg"
+      "src": "pipeline/media/science-kaist-photoflow.jpg"
     },
     {
-      "id": "science-satellite-reentry-drag",
+      "id": "science-portbooks-soton",
       "type": "image",
-      "src": "pipeline/media/science-satellite-reentry-drag.jpg"
+      "src": "pipeline/media/science-portbooks-soton.jpg"
     },
     {
-      "id": "science-missing-black-holes",
+      "id": "science-brainrot-tamu",
       "type": "image",
-      "src": "pipeline/media/science-missing-black-holes.png"
+      "src": "pipeline/media/science-brainrot-tamu.jpg"
     }
   ]
 }

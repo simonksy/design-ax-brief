@@ -1,393 +1,273 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "books",
   "cards": [
     {
-      "id": "books-prize-author-check",
-      "source_lang": "ko",
+      "id": "books-payauthors-pirate-check",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 시대 문학상\n‘작가 검증’ 나섰다",
-      "body": "장편소설 공모전 최종심작이 집필 과정 검증에서 의문이 제기돼 수상 기회를 잃었다.",
-      "mini_headline": "문학상 작가 검증",
+      "headline": "PayAuthors로 확인\nAI 기업이 베낀 해적판",
+      "body": "PayAuthors.com은 AI 기업이 베낀 해적판 속 책을 찾아 준다.",
+      "mini_headline": "해적판 도서관에 내 책이?",
       "tool": "Books",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Culture/article/all/20261018/134863199/2",
+      "source": "Jane Friedman",
+      "url": "https://janefriedman.com/payauthors-com-are-your-books-in-pirate-libraries/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png"
+            "t": "p",
+            "x": "PayAuthors.com은 새로 나온 웹사이트이자 서비스다. 작가는 여기서 자기 책이 해적판 도서관에 들어 있는지 쉽게 확인할 수 있다."
           },
           {
             "t": "p",
-            "x": "최근 국내 한 장편소설 공모전에서 최종심까지 오른 작품이 결국 수상 기회를 잃었다. 제출받은 문서의 작성 기록을 보니 이례적으로 짧은 시간에 완성됐고, 심사위원들이 직접 만난 작가는 줄거리와 구상 과정 등 기본적인 질문에도 제대로 답하지 못했다. AI 집필 의혹에 후보자는 부인했지만, 올해 공모전은 ‘수상작 없음’으로 마무리됐다. 국내 문학상에서 AI 논란이 수상작 선정에 직접 영향을 끼친 것으로 확인된 첫 사례다."
-          },
-          {
-            "t": "img",
-            "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863805.1.png"
+            "x": "Jane Friedman의 전체 글은 프리미엄 기사라 그의 뉴스레터 유료 구독자만 읽을 수 있다."
           },
           {
             "t": "p",
-            "x": "국내 문학상들의 대응은 제각각이다. 창비신인문학상은 공모 요강에 “AI 제작 작품은 응모할 수 없다”고 명시했다. 문학동네 어린이 문학상은 맞춤법 점검, 사실 확인과 자료 조사 등 창작을 보조하는 AI 사용은 허용하되, 활용했다면 서비스와 모델, 활용 범위를 응모 신청서에 기재하도록 했다. 필요하면 프롬프트와 초고, 창작 노트 등 자료를 요구할 수 있다. ‘SNU 초단편소설공모전’은 AI 활용을 전면 금지하고 ‘생성형 AI 활용 윤리 서약서’를 필수로 받는다."
+            "x": "PayAuthors.com의 설명에 따르면 이 서비스는 작가의 책을 날짜가 기록된 해적판 도서관 목록(LibGen, Anna's Archive를 거친 Z-Library), 각 AI 기업이 그 도서관을 복제한 시점, U.S.(미국) 저작권 등록 기록과 대조한다. 이름 확인은 무료다. 전체 보고서에는 ISBN이 Books3에 들어 있는지를 비롯해 일치하는 기록이 모두 나온다."
           },
           {
             "t": "p",
-            "x": "허준행 건국대 국어국문학과 교수는 “‘GPT킬러’ 같은 탐지기의 수치만으로 집필 주체를 확정해서는 곤란하다”며, 작품 완성도를 우선 평가하되 주요 작업 기록을 종합적으로 검토하는 방식을 제안했다."
-          },
-          {
-            "t": "p",
-            "x": "해외에서도 판단이 엇갈린다. 공쿠르 아카데미는 AI 집필 의혹이 제기된 텔리송 오렐리앵의 장편소설을 1차 후보 명단에서 제외했지만, 르노도상은 같은 작품을 2차 후보 명단에 포함시켰다. 영연방 단편소설상은 지역별 수상작 5편 가운데 3편에 제기된 의혹을 한 달간 조사한 끝에 AI가 사용되지 않았다고 판단해 결과를 유지했다."
-          },
-          {
-            "t": "p",
-            "x": "숭실대는 어떤 AI 도구를 썼는지와 프롬프트 과정을 함께 제출하게 하는 ‘AI·SW 창작 콘텐츠 공모전’을 열어, AI를 활용한 창작을 별도의 공모전에서 다루고 있다."
+            "x": "사이트에 따르면 Bartz v. Anthropic 소송에서 도서 저자들에게 돌아갈 $1.5 billion 규모 합의는 2026년 7월 20일 최종 승인됐다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI 시대 문학상\n‘작가 검증’ 나섰다",
-          "body": "장편소설 공모전 최종심작이 집필 과정 검증에서 의문이 제기돼 수상 기회를 잃었다.",
-          "mini_headline": "문학상 작가 검증",
+        "en": {
+          "headline": "PayAuthors checks if books sit\nin pirate libraries AI copied",
+          "body": "A new site, PayAuthors.com, lets authors check whether their books appear in pirate libraries that AI companies copied.",
+          "mini_headline": "Books in pirate libraries?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png"
+                "t": "p",
+                "x": "PayAuthors.com is a new website and service that makes it easy for authors to find out if their books are included in pirate libraries."
               },
               {
                 "t": "p",
-                "x": "최근 국내 한 장편소설 공모전에서 최종심까지 오른 작품이 결국 수상 기회를 잃었다. 제출받은 문서의 작성 기록을 보니 이례적으로 짧은 시간에 완성됐고, 심사위원들이 직접 만난 작가는 줄거리와 구상 과정 등 기본적인 질문에도 제대로 답하지 못했다. AI 집필 의혹에 후보자는 부인했지만, 올해 공모전은 ‘수상작 없음’으로 마무리됐다. 국내 문학상에서 AI 논란이 수상작 선정에 직접 영향을 끼친 것으로 확인된 첫 사례다."
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863805.1.png"
+                "x": "Jane Friedman's full write-up is a premium article for paid subscribers of her newsletter."
               },
               {
                 "t": "p",
-                "x": "국내 문학상들의 대응은 제각각이다. 창비신인문학상은 공모 요강에 “AI 제작 작품은 응모할 수 없다”고 명시했다. 문학동네 어린이 문학상은 맞춤법 점검, 사실 확인과 자료 조사 등 창작을 보조하는 AI 사용은 허용하되, 활용했다면 서비스와 모델, 활용 범위를 응모 신청서에 기재하도록 했다. 필요하면 프롬프트와 초고, 창작 노트 등 자료를 요구할 수 있다. ‘SNU 초단편소설공모전’은 AI 활용을 전면 금지하고 ‘생성형 AI 활용 윤리 서약서’를 필수로 받는다."
+                "x": "According to PayAuthors.com itself, it matches authors' books to dated pirate-library catalogs (LibGen, Z-Library via Anna's Archive), to the timeline of when each AI company copied those libraries, and to U.S. copyright registrations. The name check is free; a full report lists every matching record, including whether an ISBN is in Books3."
               },
               {
                 "t": "p",
-                "x": "허준행 건국대 국어국문학과 교수는 “‘GPT킬러’ 같은 탐지기의 수치만으로 집필 주체를 확정해서는 곤란하다”며, 작품 완성도를 우선 평가하되 주요 작업 기록을 종합적으로 검토하는 방식을 제안했다."
-              },
-              {
-                "t": "p",
-                "x": "해외에서도 판단이 엇갈린다. 공쿠르 아카데미는 AI 집필 의혹이 제기된 텔리송 오렐리앵의 장편소설을 1차 후보 명단에서 제외했지만, 르노도상은 같은 작품을 2차 후보 명단에 포함시켰다. 영연방 단편소설상은 지역별 수상작 5편 가운데 3편에 제기된 의혹을 한 달간 조사한 끝에 AI가 사용되지 않았다고 판단해 결과를 유지했다."
-              },
-              {
-                "t": "p",
-                "x": "숭실대는 어떤 AI 도구를 썼는지와 프롬프트 과정을 함께 제출하게 하는 ‘AI·SW 창작 콘텐츠 공모전’을 열어, AI를 활용한 창작을 별도의 공모전에서 다루고 있다."
+                "x": "The site notes that in Bartz v. Anthropic, a $1.5 billion settlement for book authors won final approval on July 20, 2026."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Korean literary prizes start\nchecking authors in the AI era",
-          "body": "A finalist in a novel contest lost its chance at the prize after checks on its writing process raised doubts.",
-          "mini_headline": "Literary prizes check authors",
+        "ko": {
+          "headline": "PayAuthors로 확인\nAI 기업이 베낀 해적판",
+          "body": "PayAuthors.com은 AI 기업이 베낀 해적판 속 책을 찾아 준다.",
+          "mini_headline": "해적판 도서관에 내 책이?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png"
+                "t": "p",
+                "x": "PayAuthors.com은 새로 나온 웹사이트이자 서비스다. 작가는 여기서 자기 책이 해적판 도서관에 들어 있는지 쉽게 확인할 수 있다."
               },
               {
                 "t": "p",
-                "x": "A work that reached the final round of a recent Korean novel competition ultimately lost its chance at the prize. The editing history of the submitted document showed it had been completed in an unusually short time, and when the judges met the author in person, the author could not properly answer even basic questions about the plot and how the work was conceived. The candidate denied writing it with AI, but this year’s competition ended with ‘no winner.’ It is the first confirmed case in which an AI controversy directly affected the selection of a winner at a Korean literary prize."
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863805.1.png"
+                "x": "Jane Friedman의 전체 글은 프리미엄 기사라 그의 뉴스레터 유료 구독자만 읽을 수 있다."
               },
               {
                 "t": "p",
-                "x": "Korean literary prizes are responding in different ways. The Changbi New Writers Award states in its guidelines that “works produced by AI cannot be submitted.” The Munhakdongne Children’s Literature Award allows AI use that supports writing, such as spell-checking, fact-checking and research, but entrants who used it must list the service, the model and the scope of use on the application form. If needed, organizers can request materials such as prompts, drafts and writing notes. The ‘SNU Flash Fiction Contest’ bans AI use entirely and requires a ‘pledge on the ethical use of generative AI.’"
+                "x": "PayAuthors.com의 설명에 따르면 이 서비스는 작가의 책을 날짜가 기록된 해적판 도서관 목록(LibGen, Anna's Archive를 거친 Z-Library), 각 AI 기업이 그 도서관을 복제한 시점, U.S.(미국) 저작권 등록 기록과 대조한다. 이름 확인은 무료다. 전체 보고서에는 ISBN이 Books3에 들어 있는지를 비롯해 일치하는 기록이 모두 나온다."
               },
               {
                 "t": "p",
-                "x": "Heo Jun-haeng, a professor of Korean language and literature at Konkuk University, said “it is problematic to determine who wrote a work based only on the scores of detectors such as ‘GPT Killer,’” and proposed evaluating the quality of the work first while reviewing key work records as a whole."
-              },
-              {
-                "t": "p",
-                "x": "Judgments are split abroad as well. The Académie Goncourt dropped a novel by Aurélien Télisson, which faced allegations of AI writing, from its round-1 list, but the Prix Renaudot included the same work on its round-2 list. The Commonwealth Short Story Prize investigated allegations against 3 of its 5 regional winners for a month, concluded that AI had not been used, and kept the results."
-              },
-              {
-                "t": "p",
-                "x": "Soongsil University runs a separate competition for AI-assisted creative work, the ‘AI·SW Creative Content Contest,’ which requires entrants to submit which AI tools they used along with their prompting process."
+                "x": "사이트에 따르면 Bartz v. Anthropic 소송에서 도서 저자들에게 돌아갈 $1.5 billion 규모 합의는 2026년 7월 20일 최종 승인됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI時代の文学賞\n「作者の検証」に動く",
-          "body": "長編小説公募の最終候補作が、執筆過程の検証で疑問を持たれ受賞を逃した。",
-          "mini_headline": "文学賞の作者検証",
+          "headline": "PayAuthorsで確認\nAI企業が複製した海賊版",
+          "body": "PayAuthors.comで、自著がAI企業の複製した海賊版書庫にあるか確認できる。",
+          "mini_headline": "海賊版書庫に自著は?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png"
+                "t": "p",
+                "x": "PayAuthors.comは、作家が自分の本が海賊版書庫に含まれているかを簡単に調べられる新しいウェブサイト兼サービスだ。"
               },
               {
                 "t": "p",
-                "x": "最近、韓国のある長編小説公募で最終審査まで残った作品が、結局受賞を逃した。提出された文書の作成履歴を見ると異例の短時間で完成しており、審査員が直接会った作者は、あらすじや構想の過程といった基本的な質問にもまともに答えられなかった。候補者はAIによる執筆の疑いを否定したが、今年の公募は「受賞作なし」で幕を閉じた。韓国の文学賞で、AIをめぐる論争が受賞作の選定に直接影響したことが確認された初の事例である。"
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863805.1.png"
+                "x": "Jane Friedmanによる全文は、彼女のニュースレターの有料購読者向けプレミアム記事である。"
               },
               {
                 "t": "p",
-                "x": "韓国の文学賞の対応はまちまちだ。創批新人文学賞は募集要項に「AIで制作した作品は応募できない」と明記した。文学トンネ児童文学賞は、正書法の点検や事実確認、資料調査など創作を補助するAIの利用は認めるが、利用した場合はサービスとモデル、利用範囲を応募申込書に記載するよう定めた。必要に応じて、プロンプトや草稿、創作ノートなどの資料を求めることもできる。「SNU超短編小説公募展」はAIの利用を全面的に禁じ、「生成AI活用倫理誓約書」の提出を必須としている。"
+                "x": "PayAuthors.com自身の説明によると、同サービスは作家の本を、日付入りの海賊版書庫カタログ(LibGen、Anna's Archive経由のZ-Library)、各AI企業がそれらの書庫を複製した時期、U.S.(米国)の著作権登録と照合する。名前の確認は無料で、完全版レポートにはISBNがBooks3に含まれるかどうかを含め、一致した記録がすべて載る。"
               },
               {
                 "t": "p",
-                "x": "ホ・ジュンヘン建国大学国語国文学科教授は「『GPTキラー』のような検出ツールの数値だけで執筆の主体を断定するのは問題がある」と述べ、作品の完成度をまず評価しつつ、主要な作業記録を総合的に検討する方法を提案した。"
-              },
-              {
-                "t": "p",
-                "x": "海外でも判断は分かれている。アカデミー・ゴンクールはAI執筆の疑いが持たれたテリソン・オレリアンの長編小説を1次候補リストから外したが、ルノードー賞は同じ作品を2次候補リストに入れた。英連邦短編小説賞は、地域別受賞作5編のうち3編に向けられた疑いをひと月にわたって調べた末、AIは使われていないと判断し、結果を維持した。"
-              },
-              {
-                "t": "p",
-                "x": "崇実大学は、どのAIツールを使ったかとプロンプトの過程をあわせて提出させる「AI·SW創作コンテンツ公募展」を開き、AIを活用した創作を別の公募展で扱っている。"
+                "x": "サイトによると、Bartz v. Anthropicでは書籍著者向けの$1.5 billionの和解が2026年7月20日に最終承認を得た。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI时代文学奖\n开始“核查作者”",
-          "body": "一部长篇小说征文的终审作品因写作过程核查受到质疑，失去了获奖机会。",
-          "mini_headline": "文学奖核查作者",
+          "headline": "PayAuthors帮作者查\nAI公司复制的盗版库",
+          "body": "新网站PayAuthors.com可让作者查询自己的书是否在AI公司复制的盗版书库中。",
+          "mini_headline": "书在盗版书库里吗?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png"
+                "t": "p",
+                "x": "PayAuthors.com是一个新网站和服务,让作者能轻松查明自己的书是否被收入盗版书库。"
               },
               {
                 "t": "p",
-                "x": "近日，韩国一项长篇小说征文中进入终审的作品最终失去了获奖机会。从提交文档的编写记录看，作品是在异常短的时间内完成的，而评委当面见到的作者连故事梗概、构思过程等基本问题都没能好好回答。候选人否认用AI写作，但今年的征文最终以“无获奖作品”收场。这是韩国文学奖中首次确认AI争议直接影响获奖作品评选的案例。"
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863805.1.png"
+                "x": "Jane Friedman的完整文章是其新闻通讯付费订阅者专享的付费内容。"
               },
               {
                 "t": "p",
-                "x": "韩国各文学奖的应对不一。创批新人文学奖在征稿简章中明确规定“AI制作的作品不得参赛”。文学村儿童文学奖允许使用AI辅助创作，如拼写检查、事实核实和资料调研，但若使用，须在报名表中注明所用服务、模型和使用范围；必要时可要求提交提示词、初稿和创作笔记等材料。“SNU超短篇小说征文”全面禁止使用AI，并要求必须提交《生成式AI使用伦理承诺书》。"
+                "x": "据PayAuthors.com自己介绍,它将作者的书与带日期的盗版书库目录(LibGen、经Anna's Archive收录的Z-Library)、各AI公司复制这些书库的时间线以及U.S.(美国)版权登记进行比对。姓名查询免费;完整报告会列出所有匹配记录,包括某个ISBN是否在Books3中。"
               },
               {
                 "t": "p",
-                "x": "建国大学国语国文学系教授Heo Jun-haeng表示，“仅凭‘GPT杀手’之类检测工具的数值来认定写作主体并不妥当”，并建议优先评价作品完成度，同时综合审查主要的创作记录。"
-              },
-              {
-                "t": "p",
-                "x": "海外的判断也不一致。龚古尔学院将被质疑使用AI写作的泰利松·奥雷利安的长篇小说排除在第1轮候选名单之外，而勒诺多奖则将同一作品列入第2轮候选名单。英联邦短篇小说奖对5部地区获奖作品中3部受到的质疑进行了为期一个月的调查，最终认定未使用AI，维持了评选结果。"
-              },
-              {
-                "t": "p",
-                "x": "崇实大学举办“AI·SW创意内容征集赛”，要求参赛者一并提交所用AI工具及提示词过程，在单独的征集赛中处理借助AI的创作。"
+                "x": "该网站指出,在Bartz v. Anthropic案中,面向图书作者的$1.5 billion和解已于2026年7月20日获得最终批准。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los premios literarios verifican\nla autoría en la era de la IA",
-          "body": "Una novela finalista de un concurso perdió la opción al premio tras surgir dudas sobre su proceso de escritura.",
-          "mini_headline": "Premios literarios y autoría",
+          "headline": "PayAuthors busca libros en\nacervos piratas que copió la IA",
+          "body": "El nuevo PayAuthors.com indica a los autores si sus libros están en bibliotecas piratas copiadas por empresas de IA.",
+          "mini_headline": "¿Libros en bibliotecas piratas?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png"
+                "t": "p",
+                "x": "PayAuthors.com es un nuevo sitio web y servicio que permite a los autores averiguar con facilidad si sus libros están incluidos en bibliotecas piratas."
               },
               {
                 "t": "p",
-                "x": "Una obra que llegó a la ronda final de un reciente concurso de novela en Corea acabó perdiendo la opción al premio. El historial de edición del documento entregado mostró que se había completado en un tiempo inusualmente corto, y el autor, al reunirse en persona con el jurado, no pudo responder bien ni siquiera a preguntas básicas sobre la trama y el proceso de concepción. El candidato negó haber escrito con AI, pero el concurso de este año terminó «sin obra ganadora». Es el primer caso confirmado en que una polémica por la IA influyó directamente en la elección del ganador de un premio literario coreano."
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863805.1.png"
+                "x": "El análisis completo de Jane Friedman es un artículo premium para los suscriptores de pago de su boletín."
               },
               {
                 "t": "p",
-                "x": "Las respuestas de los premios literarios coreanos varían. El Premio Changbi a Nuevos Escritores establece en sus bases que «no se pueden presentar obras producidas con IA». El Premio Munhakdongne de Literatura Infantil permite el uso de IA como apoyo a la creación, por ejemplo para revisar la ortografía, verificar datos e investigar, pero quien la haya usado debe indicar en la solicitud el servicio, el modelo y el alcance del uso. Si es necesario, se pueden pedir materiales como prompts, borradores y notas de creación. El «Concurso de Microrrelatos SNU» prohíbe por completo el uso de IA y exige un «compromiso ético sobre el uso de IA generativa»."
+                "x": "Según la propia PayAuthors.com, el servicio cruza los libros de los autores con catálogos fechados de bibliotecas piratas (LibGen, Z-Library a través de Anna's Archive), con la cronología de cuándo cada empresa de IA copió esas bibliotecas y con los registros de derechos de autor de U.S. (Estados Unidos). La consulta por nombre es gratuita; un informe completo enumera todos los registros coincidentes, incluido si un ISBN está en Books3."
               },
               {
                 "t": "p",
-                "x": "Heo Jun-haeng, profesor de Lengua y Literatura Coreanas de la Universidad Konkuk, afirmó que «no conviene determinar quién escribió una obra solo con las cifras de detectores como “GPT Killer”» y propuso evaluar primero la calidad de la obra y revisar de forma integral los principales registros de trabajo."
-              },
-              {
-                "t": "p",
-                "x": "En el extranjero, los criterios también difieren. La Académie Goncourt excluyó de su lista de la ronda 1 una novela de Aurélien Télisson sobre la que pesaban sospechas de escritura con IA, mientras que el Premio Renaudot incluyó la misma obra en su lista de la ronda 2. El Commonwealth Short Story Prize investigó durante un mes las sospechas sobre 3 de sus 5 ganadores regionales, concluyó que no se había usado IA y mantuvo los resultados."
-              },
-              {
-                "t": "p",
-                "x": "La Universidad Soongsil organiza el «Concurso de Contenidos Creativos AI·SW», que pide entregar qué herramientas de IA se usaron junto con el proceso de prompts, y trata así la creación con IA en un concurso aparte."
+                "x": "El sitio señala que, en Bartz v. Anthropic, un acuerdo de 1.5 mil millones de dólares para autores de libros recibió la aprobación definitiva el 20 de julio de 2026."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Korean literary prizes start\nchecking authors in the AI era",
-          "body": "A finalist in a novel contest lost its chance at the prize after checks on its writing process raised doubts.",
-          "mini_headline": "Literary prizes check authors",
+        "ko": {
+          "headline": "PayAuthors로 확인\nAI 기업이 베낀 해적판",
+          "body": "PayAuthors.com은 AI 기업이 베낀 해적판 속 책을 찾아 준다.",
+          "mini_headline": "해적판 도서관에 내 책이?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png"
+                "t": "p",
+                "x": "PayAuthors.com은 작가가 자기 책이 해적판 도서관에 들어 있는지 쉽게 확인하도록 돕는 새 웹사이트이자 서비스다."
               },
               {
                 "t": "p",
-                "x": "A work that reached the final round of a recent Korean novel competition ultimately lost its chance at the prize. The editing history of the submitted document showed it had been completed in an unusually short time, and when the judges met the author in person, the author could not properly answer even basic questions about the plot and how the work was conceived. The candidate denied writing it with AI, but this year’s competition ended with ‘no winner.’ It is the first confirmed case in which an AI controversy directly affected the selection of a winner at a Korean literary prize."
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863805.1.png"
+                "x": "Jane Friedman의 전체 글은 그의 뉴스레터 유료 구독자에게만 공개되는 프리미엄 기사다."
               },
               {
                 "t": "p",
-                "x": "Korean literary prizes are responding in different ways. The Changbi New Writers Award states in its guidelines that “works produced by AI cannot be submitted.” The Munhakdongne Children’s Literature Award allows AI use that supports writing, such as spell-checking, fact-checking and research, but entrants who used it must list the service, the model and the scope of use on the application form. If needed, organizers can request materials such as prompts, drafts and writing notes. The ‘SNU Flash Fiction Contest’ bans AI use entirely and requires a ‘pledge on the ethical use of generative AI.’"
+                "x": "PayAuthors.com의 설명에 따르면 이 서비스는 작가의 책을 날짜가 기록된 해적판 도서관 목록(LibGen, Anna's Archive를 거친 Z-Library), 각 AI 기업이 그 도서관을 복제한 시점, U.S.(미국) 저작권 등록 기록과 대조한다. 이름 확인은 무료이고, 전체 보고서는 ISBN이 Books3에 들어 있는지를 포함해 일치하는 기록을 모두 보여 준다."
               },
               {
                 "t": "p",
-                "x": "Heo Jun-haeng, a professor of Korean language and literature at Konkuk University, said “it is problematic to determine who wrote a work based only on the scores of detectors such as ‘GPT Killer,’” and proposed evaluating the quality of the work first while reviewing key work records as a whole."
-              },
-              {
-                "t": "p",
-                "x": "Judgments are split abroad as well. The Académie Goncourt dropped a novel by Aurélien Télisson, which faced allegations of AI writing, from its round-1 list, but the Prix Renaudot included the same work on its round-2 list. The Commonwealth Short Story Prize investigated allegations against 3 of its 5 regional winners for a month, concluded that AI had not been used, and kept the results."
-              },
-              {
-                "t": "p",
-                "x": "Soongsil University runs a separate competition for AI-assisted creative work, the ‘AI·SW Creative Content Contest,’ which requires entrants to submit which AI tools they used along with their prompting process."
+                "x": "사이트는 Bartz v. Anthropic 소송에서 도서 저자를 위한 $1.5 billion 규모의 합의가 2026년 7월 20일 최종 승인을 받았다고 덧붙인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI時代の文学賞\n「作者の検証」に動く",
-          "body": "長編小説公募の最終候補作が、執筆過程の検証で疑問を持たれ受賞を逃した。",
-          "mini_headline": "文学賞の作者検証",
+          "headline": "PayAuthorsで確認\nAI企業が複製した海賊版",
+          "body": "PayAuthors.comで、自著がAI企業の複製した海賊版書庫にあるか確認できる。",
+          "mini_headline": "海賊版書庫に自著は?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png"
+                "t": "p",
+                "x": "PayAuthors.comは、作家が自分の本が海賊版書庫に含まれているかを簡単に調べられる新しいウェブサイト兼サービスだ。"
               },
               {
                 "t": "p",
-                "x": "最近、韓国のある長編小説公募で最終審査まで残った作品が、結局受賞を逃した。提出された文書の作成履歴を見ると異例の短時間で完成しており、審査員が直接会った作者は、あらすじや構想の過程といった基本的な質問にもまともに答えられなかった。候補者はAIによる執筆の疑いを否定したが、今年の公募は「受賞作なし」で幕を閉じた。韓国の文学賞で、AIをめぐる論争が受賞作の選定に直接影響したことが確認された初の事例である。"
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863805.1.png"
+                "x": "Jane Friedmanによる全文は、彼女のニュースレターの有料購読者向けプレミアム記事である。"
               },
               {
                 "t": "p",
-                "x": "韓国の文学賞の対応はまちまちだ。創批新人文学賞は募集要項に「AIで制作した作品は応募できない」と明記した。文学トンネ児童文学賞は、正書法の点検や事実確認、資料調査など創作を補助するAIの利用は認めるが、利用した場合はサービスとモデル、利用範囲を応募申込書に記載するよう定めた。必要に応じて、プロンプトや草稿、創作ノートなどの資料を求めることもできる。「SNU超短編小説公募展」はAIの利用を全面的に禁じ、「生成AI活用倫理誓約書」の提出を必須としている。"
+                "x": "PayAuthors.com自身の説明によると、同サービスは作家の本を、日付入りの海賊版書庫カタログ(LibGen、Anna's Archive経由のZ-Library)、各AI企業がそれらの書庫を複製した時期、U.S.(米国)の著作権登録と照合する。名前の確認は無料で、完全版レポートにはISBNがBooks3に含まれるかどうかを含め、一致した記録がすべて載る。"
               },
               {
                 "t": "p",
-                "x": "ホ・ジュンヘン建国大学国語国文学科教授は「『GPTキラー』のような検出ツールの数値だけで執筆の主体を断定するのは問題がある」と述べ、作品の完成度をまず評価しつつ、主要な作業記録を総合的に検討する方法を提案した。"
-              },
-              {
-                "t": "p",
-                "x": "海外でも判断は分かれている。アカデミー・ゴンクールはAI執筆の疑いが持たれたテリソン・オレリアンの長編小説を1次候補リストから外したが、ルノードー賞は同じ作品を2次候補リストに入れた。英連邦短編小説賞は、地域別受賞作5編のうち3編に向けられた疑いをひと月にわたって調べた末、AIは使われていないと判断し、結果を維持した。"
-              },
-              {
-                "t": "p",
-                "x": "崇実大学は、どのAIツールを使ったかとプロンプトの過程をあわせて提出させる「AI·SW創作コンテンツ公募展」を開き、AIを活用した創作を別の公募展で扱っている。"
+                "x": "サイトによると、Bartz v. Anthropicでは書籍著者向けの$1.5 billionの和解が2026年7月20日に最終承認を得た。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI时代文学奖\n开始“核查作者”",
-          "body": "一部长篇小说征文的终审作品因写作过程核查受到质疑，失去了获奖机会。",
-          "mini_headline": "文学奖核查作者",
+          "headline": "PayAuthors帮作者查\nAI公司复制的盗版库",
+          "body": "新网站PayAuthors.com可让作者查询自己的书是否在AI公司复制的盗版书库中。",
+          "mini_headline": "书在盗版书库里吗?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png"
+                "t": "p",
+                "x": "PayAuthors.com是一个新网站和服务,让作者能轻松查明自己的书是否被收入盗版书库。"
               },
               {
                 "t": "p",
-                "x": "近日，韩国一项长篇小说征文中进入终审的作品最终失去了获奖机会。从提交文档的编写记录看，作品是在异常短的时间内完成的，而评委当面见到的作者连故事梗概、构思过程等基本问题都没能好好回答。候选人否认用AI写作，但今年的征文最终以“无获奖作品”收场。这是韩国文学奖中首次确认AI争议直接影响获奖作品评选的案例。"
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863805.1.png"
+                "x": "Jane Friedman的完整文章是其新闻通讯付费订阅者专享的付费内容。"
               },
               {
                 "t": "p",
-                "x": "韩国各文学奖的应对不一。创批新人文学奖在征稿简章中明确规定“AI制作的作品不得参赛”。文学村儿童文学奖允许使用AI辅助创作，如拼写检查、事实核实和资料调研，但若使用，须在报名表中注明所用服务、模型和使用范围；必要时可要求提交提示词、初稿和创作笔记等材料。“SNU超短篇小说征文”全面禁止使用AI，并要求必须提交《生成式AI使用伦理承诺书》。"
+                "x": "据PayAuthors.com自己介绍,它将作者的书与带日期的盗版书库目录(LibGen、经Anna's Archive收录的Z-Library)、各AI公司复制这些书库的时间线以及U.S.(美国)版权登记进行比对。姓名查询免费;完整报告会列出所有匹配记录,包括某个ISBN是否在Books3中。"
               },
               {
                 "t": "p",
-                "x": "建国大学国语国文学系教授Heo Jun-haeng表示，“仅凭‘GPT杀手’之类检测工具的数值来认定写作主体并不妥当”，并建议优先评价作品完成度，同时综合审查主要的创作记录。"
-              },
-              {
-                "t": "p",
-                "x": "海外的判断也不一致。龚古尔学院将被质疑使用AI写作的泰利松·奥雷利安的长篇小说排除在第1轮候选名单之外，而勒诺多奖则将同一作品列入第2轮候选名单。英联邦短篇小说奖对5部地区获奖作品中3部受到的质疑进行了为期一个月的调查，最终认定未使用AI，维持了评选结果。"
-              },
-              {
-                "t": "p",
-                "x": "崇实大学举办“AI·SW创意内容征集赛”，要求参赛者一并提交所用AI工具及提示词过程，在单独的征集赛中处理借助AI的创作。"
+                "x": "该网站指出,在Bartz v. Anthropic案中,面向图书作者的$1.5 billion和解已于2026年7月20日获得最终批准。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los premios literarios verifican\nla autoría en la era de la IA",
-          "body": "Una novela finalista de un concurso perdió la opción al premio tras surgir dudas sobre su proceso de escritura.",
-          "mini_headline": "Premios literarios y autoría",
+          "headline": "PayAuthors busca libros en\nacervos piratas que copió la IA",
+          "body": "El nuevo PayAuthors.com indica a los autores si sus libros están en bibliotecas piratas copiadas por empresas de IA.",
+          "mini_headline": "¿Libros en bibliotecas piratas?",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png"
+                "t": "p",
+                "x": "PayAuthors.com es un nuevo sitio web y servicio que permite a los autores averiguar con facilidad si sus libros están incluidos en bibliotecas piratas."
               },
               {
                 "t": "p",
-                "x": "Una obra que llegó a la ronda final de un reciente concurso de novela en Corea acabó perdiendo la opción al premio. El historial de edición del documento entregado mostró que se había completado en un tiempo inusualmente corto, y el autor, al reunirse en persona con el jurado, no pudo responder bien ni siquiera a preguntas básicas sobre la trama y el proceso de concepción. El candidato negó haber escrito con AI, pero el concurso de este año terminó «sin obra ganadora». Es el primer caso confirmado en que una polémica por la IA influyó directamente en la elección del ganador de un premio literario coreano."
-              },
-              {
-                "t": "img",
-                "src": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863805.1.png"
+                "x": "El análisis completo de Jane Friedman es un artículo premium para los suscriptores de pago de su boletín."
               },
               {
                 "t": "p",
-                "x": "Las respuestas de los premios literarios coreanos varían. El Premio Changbi a Nuevos Escritores establece en sus bases que «no se pueden presentar obras producidas con IA». El Premio Munhakdongne de Literatura Infantil permite el uso de IA como apoyo a la creación, por ejemplo para revisar la ortografía, verificar datos e investigar, pero quien la haya usado debe indicar en la solicitud el servicio, el modelo y el alcance del uso. Si es necesario, se pueden pedir materiales como prompts, borradores y notas de creación. El «Concurso de Microrrelatos SNU» prohíbe por completo el uso de IA y exige un «compromiso ético sobre el uso de IA generativa»."
+                "x": "Según la propia PayAuthors.com, el servicio cruza los libros de los autores con catálogos fechados de bibliotecas piratas (LibGen, Z-Library a través de Anna's Archive), con la cronología de cuándo cada empresa de IA copió esas bibliotecas y con los registros de derechos de autor de U.S. (Estados Unidos). La consulta por nombre es gratuita; un informe completo enumera todos los registros coincidentes, incluido si un ISBN está en Books3."
               },
               {
                 "t": "p",
-                "x": "Heo Jun-haeng, profesor de Lengua y Literatura Coreanas de la Universidad Konkuk, afirmó que «no conviene determinar quién escribió una obra solo con las cifras de detectores como “GPT Killer”» y propuso evaluar primero la calidad de la obra y revisar de forma integral los principales registros de trabajo."
-              },
-              {
-                "t": "p",
-                "x": "En el extranjero, los criterios también difieren. La Académie Goncourt excluyó de su lista de la ronda 1 una novela de Aurélien Télisson sobre la que pesaban sospechas de escritura con IA, mientras que el Premio Renaudot incluyó la misma obra en su lista de la ronda 2. El Commonwealth Short Story Prize investigó durante un mes las sospechas sobre 3 de sus 5 ganadores regionales, concluyó que no se había usado IA y mantuvo los resultados."
-              },
-              {
-                "t": "p",
-                "x": "La Universidad Soongsil organiza el «Concurso de Contenidos Creativos AI·SW», que pide entregar qué herramientas de IA se usaron junto con el proceso de prompts, y trata así la creación con IA en un concurso aparte."
+                "x": "El sitio señala que, en Bartz v. Anthropic, un acuerdo de 1.5 mil millones de dólares para autores de libros recibió la aprobación definitiva el 20 de julio de 2026."
               }
             ]
           }
@@ -395,641 +275,311 @@
       }
     },
     {
-      "id": "books-kyobo-flitto",
-      "source_lang": "ko",
+      "id": "books-fish-audio-drama3",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "교보문고, 외국인\n응대에 AI 통번역",
-      "body": "플리토의 AI 통번역 ‘보글’이 교보문고 3개 매장에서 외국인 고객을 응대했다.",
-      "mini_headline": "교보문고 AI 통번역",
+      "headline": "Drama 3, AI 음성\n연출하고 한 단어 수정",
+      "body": "Drama 3는 AI 목소리를 일상어로 연출하고 단어 하나만 다시 만든다.",
+      "mini_headline": "Drama 3, 한 단어 수정",
       "tool": "Books",
-      "source": "벤처스퀘어",
-      "url": "https://www.venturesquare.net/1119763/",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/fish-audio-drama-3-ai-voice-direction-audio-inpainting/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-768x576.jpg",
-            "cap": "교보문고 광화문점에서 프랑스인 고객과 매장 직원이 플리토의 AI 통번역 솔루션 ‘보글 존(Vogl Zone)’ 미니 디스플레이를 이용해 대화하고 있다. (사진 제공: 플리토)"
+            "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
           },
           {
             "t": "p",
-            "x": "도서 분야 전문용어·작가명 사전 학습으로 번역 정확도 개선…자동 언어 감지 기능 지원"
+            "x": "Fish Audio가 10월 13일 새 텍스트 음성 변환 모델 Drama 3를 내놓았다. 창작자는 일상 언어로 연기 톤을 지시하고 여러 화자가 나오는 장면을 만든다. 합성 음성 중 특정 구간만 골라 고칠 수도 있는데, 이때 앞뒤 연기는 다시 생성하지 않는다."
           },
           {
             "t": "p",
-            "x": "매장별 미니 디스플레이·태블릿 앱 활용…시범 운영 거쳐 정식 도입 추진"
+            "x": "핵심은 가장 작은 편집이다. 앞뒤 목소리와 분위기, 리듬은 그대로 두고 단어 하나만 바꾼다. 공동 창업자이자 수석 과학자 Shijia Liao에 따르면 모델은 고친 단어 앞뒤의 소리를 참고해 새 단어가 자연스럽게 붙도록 한다. CEO Rissa Cao는 “음성 AI는 말을 생성하는 데 아주 능숙해졌다. 다음 단계는 연기를 연출하는 것이다”라고 말했다."
           },
           {
             "t": "p",
-            "x": "외국인 관광객의 방문이 늘면서 국내 오프라인 유통 매장에서도 다국어 고객 응대의 중요성이 커지고 있다. 특히 서점은 책의 제목과 저자, 장르 등 고유명사가 많아 일반적인 상품 안내보다 정확한 번역이 요구된다. AI 데이터 및 솔루션 전문기업 플리토가 교보문고 주요 매장에 AI 통번역 솔루션을 적용하며 도서·문화 분야로 사업 영역을 확장한다."
+            "x": "연출 지시와 효과음, 쉼은 대괄호나 짝을 이룬 태그에 넣는다. 처음 지시는 Auto Tag 기능이 제안해 준다. Drama 3는 긴 대본에서도 캐릭터마다 목소리를 따로 유지하며 영어·중국어·일본어·한국어 등에서는 음소 단위로 발음을 조절하게 해 준다."
           },
           {
             "t": "p",
-            "x": "플리토(대표 이정수)는 교보문고 광화문점과 강남점, 동대문점에 AI 기반 통번역 솔루션 ‘보글(Vogl)’을 공급하고 외국인 고객 응대를 위한 기술 실증(PoC)을 진행했다."
-          },
-          {
-            "t": "p",
-            "x": "이번 실증에서는 매장의 운영 환경과 고객 응대 방식에 따라 서로 다른 형태의 솔루션을 적용했다. 광화문점과 강남점에는 고객 상담에 특화된 미니 디스플레이 ‘보글 존(Vogl Zone)’을 설치하고, 동대문점에서는 태블릿에 보글 앱을 탑재해 직원이 이동하면서 외국인 고객을 응대할 수 있도록 했다."
-          },
-          {
-            "t": "p",
-            "x": "보글은 오프라인 매장에서 발생하는 음성 인식 오류와 번역의 부정확성을 줄이는 데 초점을 맞춘 AI 통번역 솔루션이다. 자동 언어 감지 기능을 통해 직원이 고객의 언어를 일일이 선택하지 않아도 다국어 상담을 진행할 수 있도록 지원한다."
-          },
-          {
-            "t": "p",
-            "x": "한강·베르나르 베르베르 등 작가명 학습…도서·문화 분야 번역 정확도 개선"
-          },
-          {
-            "t": "p",
-            "x": "플리토는 이번 교보문고 실증을 위해 서점에서 자주 사용되는 도서 분류명과 작가명 등을 사전에 학습시켰다. 자기계발과 판타지, 역사 등 장르별 용어는 물론 한강과 베르나르 베르베르 등 주요 작가의 이름을 반영해 고유명사 인식과 번역의 정확도를 높였다는 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "이는 일반적인 상품 정보와 달리 작품명이나 작가명, 장르에 대한 이해가 필요한 서점의 특성을 고려한 것이다. 플리토는 높은 음성 인식률과 자동 언어 감지 기능이 현장 직원들의 외국인 고객 응대에 도움이 됐다고 설명했다. 다만 구체적인 인식률이나 번역 정확도 개선 수치는 공개하지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "이번 교보문고 적용은 플리토의 거치형 오프라인 AI 통번역 솔루션이 도서·문화 리테일 분야에 진출한 첫 사례다. 플리토는 이를 통해 다양한 상품과 문화 콘텐츠를 다루는 매장에서도 AI 통번역 기술을 활용할 수 있는 가능성을 확인했다."
-          },
-          {
-            "t": "p",
-            "x": "이정수 플리토 대표는 “핵심 상권을 찾는 글로벌 방문객이 다양해지는 가운데 교보문고와 언어 장벽 없는 오프라인 환경을 구축하게 되어 뜻깊다”며 “이번 협력은 단순 안내를 넘어 인간의 주관과 문화적 맥락이 집약된 영역으로 플리토의 AI 통번역 기술력을 확장한 주요 사례”라고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "플리토는 이번 실증 결과를 바탕으로 교보문고 매장에 보글의 정식 도입을 추진할 계획이다. 아울러 창고형 매장과 패션·라이프스타일 스토어 등 유통 채널을 비롯해 호텔과 의료관광 등 전문적인 다국어 응대가 필요한 서비스 분야로 적용 범위를 확대할 방침이다."
+            "x": "아직 프리뷰 단계(API id drama-3-preview)다. 발표 자료에는 단어 하나 수정을 독립적으로 평가한 결과가 없다. Fish Audio는 사용자가 15 million 명을 넘었고 ARR은 $21 million 규모라고 밝혔다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "교보문고, 외국인\n응대에 AI 통번역",
-          "body": "플리토의 AI 통번역 ‘보글’이 교보문고 3개 매장에서 외국인 고객을 응대했다.",
-          "mini_headline": "교보문고 AI 통번역",
+        "en": {
+          "headline": "Fish Audio Drama 3 directs AI\nvoices and edits a single word",
+          "body": "Drama 3 lets audiobook and audio-drama producers direct AI voices in plain language and regenerate a single word in place.",
+          "mini_headline": "Drama 3 fixes one word",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-768x576.jpg",
-                "cap": "교보문고 광화문점에서 프랑스인 고객과 매장 직원이 플리토의 AI 통번역 솔루션 ‘보글 존(Vogl Zone)’ 미니 디스플레이를 이용해 대화하고 있다. (사진 제공: 플리토)"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
               },
               {
                 "t": "p",
-                "x": "도서 분야 전문용어·작가명 사전 학습으로 번역 정확도 개선…자동 언어 감지 기능 지원"
+                "x": "Fish Audio announced Drama 3, a new text-to-speech model, on October 13. Creators can direct delivery in ordinary language, generate multi-speaker scenes, and repair a selected segment of synthesized audio without regenerating the surrounding performance."
               },
               {
                 "t": "p",
-                "x": "매장별 미니 디스플레이·태블릿 앱 활용…시범 운영 거쳐 정식 도입 추진"
+                "x": "The headline feature is the smallest edit: changing a single word while preserving the voice, mood and rhythm on either side. Co-founder and chief scientist Shijia Liao says the model uses the sound on both sides of an edited word to make the replacement fit. “Voice AI has gotten very good at generating speech. The next step is directing a performance,” said CEO Rissa Cao."
               },
               {
                 "t": "p",
-                "x": "외국인 관광객의 방문이 늘면서 국내 오프라인 유통 매장에서도 다국어 고객 응대의 중요성이 커지고 있다. 특히 서점은 책의 제목과 저자, 장르 등 고유명사가 많아 일반적인 상품 안내보다 정확한 번역이 요구된다. AI 데이터 및 솔루션 전문기업 플리토가 교보문고 주요 매장에 AI 통번역 솔루션을 적용하며 도서·문화 분야로 사업 영역을 확장한다."
+                "x": "Directions, sounds and pauses go in square brackets or paired tags, and an Auto Tag feature suggests initial directions. Drama 3 keeps distinct character voices across long scripts and offers phoneme-level pronunciation control in English, Chinese, Japanese and Korean, among others."
               },
               {
                 "t": "p",
-                "x": "플리토(대표 이정수)는 교보문고 광화문점과 강남점, 동대문점에 AI 기반 통번역 솔루션 ‘보글(Vogl)’을 공급하고 외국인 고객 응대를 위한 기술 실증(PoC)을 진행했다."
-              },
-              {
-                "t": "p",
-                "x": "이번 실증에서는 매장의 운영 환경과 고객 응대 방식에 따라 서로 다른 형태의 솔루션을 적용했다. 광화문점과 강남점에는 고객 상담에 특화된 미니 디스플레이 ‘보글 존(Vogl Zone)’을 설치하고, 동대문점에서는 태블릿에 보글 앱을 탑재해 직원이 이동하면서 외국인 고객을 응대할 수 있도록 했다."
-              },
-              {
-                "t": "p",
-                "x": "보글은 오프라인 매장에서 발생하는 음성 인식 오류와 번역의 부정확성을 줄이는 데 초점을 맞춘 AI 통번역 솔루션이다. 자동 언어 감지 기능을 통해 직원이 고객의 언어를 일일이 선택하지 않아도 다국어 상담을 진행할 수 있도록 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "한강·베르나르 베르베르 등 작가명 학습…도서·문화 분야 번역 정확도 개선"
-              },
-              {
-                "t": "p",
-                "x": "플리토는 이번 교보문고 실증을 위해 서점에서 자주 사용되는 도서 분류명과 작가명 등을 사전에 학습시켰다. 자기계발과 판타지, 역사 등 장르별 용어는 물론 한강과 베르나르 베르베르 등 주요 작가의 이름을 반영해 고유명사 인식과 번역의 정확도를 높였다는 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "이는 일반적인 상품 정보와 달리 작품명이나 작가명, 장르에 대한 이해가 필요한 서점의 특성을 고려한 것이다. 플리토는 높은 음성 인식률과 자동 언어 감지 기능이 현장 직원들의 외국인 고객 응대에 도움이 됐다고 설명했다. 다만 구체적인 인식률이나 번역 정확도 개선 수치는 공개하지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "이번 교보문고 적용은 플리토의 거치형 오프라인 AI 통번역 솔루션이 도서·문화 리테일 분야에 진출한 첫 사례다. 플리토는 이를 통해 다양한 상품과 문화 콘텐츠를 다루는 매장에서도 AI 통번역 기술을 활용할 수 있는 가능성을 확인했다."
-              },
-              {
-                "t": "p",
-                "x": "이정수 플리토 대표는 “핵심 상권을 찾는 글로벌 방문객이 다양해지는 가운데 교보문고와 언어 장벽 없는 오프라인 환경을 구축하게 되어 뜻깊다”며 “이번 협력은 단순 안내를 넘어 인간의 주관과 문화적 맥락이 집약된 영역으로 플리토의 AI 통번역 기술력을 확장한 주요 사례”라고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "플리토는 이번 실증 결과를 바탕으로 교보문고 매장에 보글의 정식 도입을 추진할 계획이다. 아울러 창고형 매장과 패션·라이프스타일 스토어 등 유통 채널을 비롯해 호텔과 의료관광 등 전문적인 다국어 응대가 필요한 서비스 분야로 적용 범위를 확대할 방침이다."
+                "x": "It is still a preview (API id drama-3-preview), and the release offers no independent evaluation of single-word repairs. Fish Audio reports more than 15 million users and $21 million in ARR."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Kyobo Book Centre turns to AI\nto serve foreign customers",
-          "body": "Flitto's AI interpretation and translation tool Vogl served foreign customers at 3 Kyobo Book Centre stores.",
-          "mini_headline": "Kyobo adopts AI translation",
+        "ko": {
+          "headline": "Drama 3, AI 음성\n연출하고 한 단어 수정",
+          "body": "Drama 3는 AI 목소리를 일상어로 연출하고 단어 하나만 다시 만든다.",
+          "mini_headline": "Drama 3, 한 단어 수정",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-768x576.jpg",
-                "cap": "A French customer and a store employee talk using the mini display of Flitto’s AI interpretation and translation solution ‘Vogl Zone’ at Kyobo Book Centre’s Gwanghwamun store. (Photo: Flitto)"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
               },
               {
                 "t": "p",
-                "x": "Translation accuracy improved by pre-training on book-industry terms and author names…automatic language detection supported"
+                "x": "Fish Audio가 10월 13일 새 텍스트 음성 변환 모델 Drama 3를 내놓았다. 창작자는 일상 언어로 연기 톤을 지시하고 여러 화자가 나오는 장면을 만든다. 합성 음성 중 특정 구간만 골라 고칠 수도 있는데, 이때 앞뒤 연기는 다시 생성하지 않는다."
               },
               {
                 "t": "p",
-                "x": "Mini displays and a tablet app used by store…formal adoption planned after a pilot run"
+                "x": "핵심은 가장 작은 편집이다. 앞뒤 목소리와 분위기, 리듬은 그대로 두고 단어 하나만 바꾼다. 공동 창업자이자 수석 과학자 Shijia Liao에 따르면 모델은 고친 단어 앞뒤의 소리를 참고해 새 단어가 자연스럽게 붙도록 한다. CEO Rissa Cao는 “음성 AI는 말을 생성하는 데 아주 능숙해졌다. 다음 단계는 연기를 연출하는 것이다”라고 말했다."
               },
               {
                 "t": "p",
-                "x": "As more foreign tourists visit, multilingual customer service is becoming more important in Korea’s offline retail stores. Bookstores in particular require more accurate translation than general product guidance because they deal with many proper nouns such as book titles, authors and genres. Flitto, a company specializing in AI data and solutions, is expanding its business into the book and culture sector by applying its AI interpretation and translation solution at major Kyobo Book Centre stores."
+                "x": "연출 지시와 효과음, 쉼은 대괄호나 짝을 이룬 태그에 넣는다. 처음 지시는 Auto Tag 기능이 제안해 준다. Drama 3는 긴 대본에서도 캐릭터마다 목소리를 따로 유지하며 영어·중국어·일본어·한국어 등에서는 음소 단위로 발음을 조절하게 해 준다."
               },
               {
                 "t": "p",
-                "x": "Flitto (CEO Lee Jung-soo) supplied its AI-based interpretation and translation solution ‘Vogl’ to Kyobo Book Centre’s Gwanghwamun, Gangnam and Dongdaemun stores and ran a proof of concept (PoC) for serving foreign customers."
-              },
-              {
-                "t": "p",
-                "x": "In this pilot, different forms of the solution were applied depending on each store’s operating environment and customer service style. The Gwanghwamun and Gangnam stores installed ‘Vogl Zone,’ a mini display specialized for customer consultation, while the Dongdaemun store loaded the Vogl app on tablets so staff could serve foreign customers while moving around."
-              },
-              {
-                "t": "p",
-                "x": "Vogl is an AI interpretation and translation solution focused on reducing the speech recognition errors and translation inaccuracies that occur in offline stores. Its automatic language detection lets staff hold multilingual consultations without having to select each customer’s language manually."
-              },
-              {
-                "t": "p",
-                "x": "Trained on author names such as Han Kang and Bernard Werber…translation accuracy improved for books and culture"
-              },
-              {
-                "t": "p",
-                "x": "For the Kyobo Book Centre pilot, Flitto pre-trained the system on book category names and author names frequently used in bookstores. The company said it improved the recognition and translation accuracy of proper nouns by reflecting not only genre terms such as self-help, fantasy and history, but also the names of major authors such as Han Kang and Bernard Werber."
-              },
-              {
-                "t": "p",
-                "x": "This reflects the nature of bookstores, which, unlike general product information, require an understanding of titles, author names and genres. Flitto said the high speech recognition rate and automatic language detection helped on-site staff serve foreign customers. However, it did not disclose specific recognition rates or figures on improvements in translation accuracy."
-              },
-              {
-                "t": "p",
-                "x": "The Kyobo Book Centre deployment is the first case of Flitto’s stationary offline AI interpretation and translation solution entering book and culture retail. Through it, Flitto confirmed the potential for using AI interpretation and translation technology in stores that handle a wide range of products and cultural content."
-              },
-              {
-                "t": "p",
-                "x": "“As global visitors to key commercial districts become more diverse, it is meaningful to build an offline environment without language barriers together with Kyobo Book Centre,” said Flitto CEO Lee Jung-soo. “This collaboration is a key case of extending Flitto’s AI interpretation and translation technology beyond simple guidance into an area where human subjectivity and cultural context are concentrated.”"
-              },
-              {
-                "t": "p",
-                "x": "Based on the pilot results, Flitto plans to pursue the formal adoption of Vogl at Kyobo Book Centre stores. It also intends to expand its application to retail channels such as warehouse stores and fashion and lifestyle stores, as well as service sectors that require specialized multilingual support, such as hotels and medical tourism."
+                "x": "아직 프리뷰 단계(API id drama-3-preview)다. 발표 자료에는 단어 하나 수정을 독립적으로 평가한 결과가 없다. Fish Audio는 사용자가 15 million 명을 넘었고 ARR은 $21 million 규모라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "教保文庫、外国人\n接客にAI通訳翻訳",
-          "body": "FlittoのAI通訳翻訳「Vogl」が教保文庫の3店舗で外国人客に対応した。",
-          "mini_headline": "教保文庫のAI通訳翻訳",
+          "headline": "Drama 3はAI音声を\n演出し一語だけ直す",
+          "body": "Drama 3でAI音声を平易な言葉で演出し、単語一つだけを再生成できる。",
+          "mini_headline": "Drama 3は一語を直す",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-768x576.jpg",
-                "cap": "教保文庫光化門店で、フランス人客と店舗スタッフがFlittoのAI通訳翻訳ソリューション「Vogl Zone」のミニディスプレイを使って会話している。（写真提供：Flitto）"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
               },
               {
                 "t": "p",
-                "x": "書籍分野の専門用語・作家名を事前学習し翻訳精度を改善…自動言語検出機能に対応"
+                "x": "Fish Audioは10月13日、新しい音声合成モデルDrama 3を発表した。クリエイターは普段の言葉で話し方を指示し、複数話者のシーンを生成し、合成音声の選んだ区間を前後の演技を作り直さずに修正できる。"
               },
               {
                 "t": "p",
-                "x": "店舗ごとにミニディスプレイ・タブレットアプリを活用…試験運用を経て正式導入を推進"
+                "x": "目玉は最小単位の編集、つまり前後の声や雰囲気、リズムを保ったまま単語を一つだけ差し替える機能だ。共同創業者でチーフサイエンティストのShijia Liaoによれば、モデルは編集した単語の前後の音を使い、差し替えが自然になじむようにする。CEOのRissa Caoは「音声AIは発話の生成がとても上手くなった。次の段階は演技の演出だ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "外国人観光客の来訪が増えるにつれ、韓国のオフライン小売店でも多言語での接客の重要性が高まっている。とりわけ書店は書名や著者、ジャンルなど固有名詞が多く、一般的な商品案内よりも正確な翻訳が求められる。AIデータ・ソリューション専門企業のFlittoは、教保文庫の主要店舗にAI通訳翻訳ソリューションを導入し、書籍・文化分野へと事業領域を広げる。"
+                "x": "指示や効果音、間は角かっこまたは対になったタグで入力し、Auto Tag機能が最初の指示を提案する。Drama 3は長い台本でもキャラクターごとの声を保ち、英語、中国語、日本語、韓国語などで音素レベルの発音制御を備える。"
               },
               {
                 "t": "p",
-                "x": "Flitto（代表イ・ジョンス）は、教保文庫の光化門店、江南店、東大門店にAIベースの通訳翻訳ソリューション「Vogl」を供給し、外国人客対応のための技術実証（PoC）を実施した。"
-              },
-              {
-                "t": "p",
-                "x": "今回の実証では、店舗の運営環境や接客方法に応じて異なる形のソリューションを導入した。光化門店と江南店には顧客相談に特化したミニディスプレイ「Vogl Zone」を設置し、東大門店ではタブレットにVoglアプリを搭載して、スタッフが移動しながら外国人客に対応できるようにした。"
-              },
-              {
-                "t": "p",
-                "x": "Voglは、オフライン店舗で起きる音声認識の誤りや翻訳の不正確さを減らすことに重点を置いたAI通訳翻訳ソリューションだ。自動言語検出機能により、スタッフが客の言語をいちいち選ばなくても多言語で相談できるよう支援する。"
-              },
-              {
-                "t": "p",
-                "x": "ハン・ガン、ベルナール・ウェルベルら作家名を学習…書籍・文化分野の翻訳精度を改善"
-              },
-              {
-                "t": "p",
-                "x": "Flittoは今回の教保文庫での実証に向け、書店でよく使われる書籍の分類名や作家名などを事前に学習させた。自己啓発やファンタジー、歴史といったジャンル別の用語に加え、ハン・ガンやベルナール・ウェルベルなど主要作家の名前を反映し、固有名詞の認識と翻訳の精度を高めたという。"
-              },
-              {
-                "t": "p",
-                "x": "これは一般的な商品情報と違い、作品名や作家名、ジャンルへの理解が必要な書店の特性を考慮したものだ。Flittoは、高い音声認識率と自動言語検出機能が現場スタッフの外国人客対応に役立ったと説明した。ただし、具体的な認識率や翻訳精度の改善値は公表していない。"
-              },
-              {
-                "t": "p",
-                "x": "今回の教保文庫への導入は、Flittoの据え置き型オフラインAI通訳翻訳ソリューションが書籍・文化小売分野に進出した初の事例となる。Flittoはこれにより、多様な商品や文化コンテンツを扱う店舗でもAI通訳翻訳技術を活用できる可能性を確認した。"
-              },
-              {
-                "t": "p",
-                "x": "Flittoのイ・ジョンス代表は「主要商業地を訪れる海外からの来訪者が多様化するなか、教保文庫とともに言語の壁のないオフライン環境を築けたことは意義深い」とし、「今回の協力は、単純な案内を超え、人間の主観と文化的文脈が凝縮された領域へとFlittoのAI通訳翻訳技術を広げた重要な事例だ」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Flittoは今回の実証結果をもとに、教保文庫の店舗へのVoglの正式導入を進める計画だ。あわせて、倉庫型店舗やファッション・ライフスタイルストアなどの流通チャネルをはじめ、ホテルや医療観光など専門的な多言語対応が求められるサービス分野へ適用範囲を広げる方針だ。"
+                "x": "まだプレビュー版(API id drama-3-preview)で、単語一つの修正について独立した評価は示されていない。Fish Audioはユーザー数が15 million 超、ARRが$21 million だとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "教保文库用AI\n翻译接待外国顾客",
-          "body": "Flitto的AI口笔译工具“Vogl”在教保文库3家门店接待了外国顾客。",
-          "mini_headline": "教保文库AI翻译",
+          "headline": "Drama 3可指导AI配音\n还能只改一个词",
+          "body": "Drama 3让有声书制作者用日常语言指导AI配音,并可原地重生成单个词。",
+          "mini_headline": "Drama 3只改一个词",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-768x576.jpg",
-                "cap": "在教保文库光化门店，一名法国顾客与店员正通过Flitto的AI口笔译解决方案“Vogl Zone”迷你显示屏交谈。（图片提供：Flitto）"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
               },
               {
                 "t": "p",
-                "x": "预先学习图书领域专业术语与作家名，提升翻译准确度……支持自动语言识别"
+                "x": "Fish Audio于10月13日发布了新的文本转语音模型Drama 3。创作者可以用日常语言指导演绎方式、生成多人对话场景,并在不重新生成前后表演的情况下修复合成音频中选定的片段。"
               },
               {
                 "t": "p",
-                "x": "各门店使用迷你显示屏、平板应用……经试运营后推进正式引入"
+                "x": "最受关注的功能是最小的编辑:在保留前后音色、情绪和节奏的同时只改动一个词。联合创始人兼首席科学家Shijia Liao表示,模型会利用被编辑词前后的声音,让替换内容衔接自然。CEO Rissa Cao说:“语音AI在生成语音方面已经非常出色。下一步是指导表演。”"
               },
               {
                 "t": "p",
-                "x": "随着外国游客增多，韩国线下零售门店的多语种接待也日益重要。书店尤其涉及书名、作者、类型等大量专有名词，比一般商品介绍更需要准确的翻译。AI数据与解决方案企业Flitto将AI口笔译解决方案应用于教保文库主要门店，把业务拓展至图书与文化领域。"
+                "x": "指示、音效和停顿可写在方括号或成对标签中,Auto Tag功能会给出初始指示建议。Drama 3能在长篇脚本中保持各角色不同的声音,并在英语、中文、日语和韩语等语言中提供音素级发音控制。"
               },
               {
                 "t": "p",
-                "x": "Flitto（代表Lee Jung-soo）向教保文库光化门店、江南店和东大门店提供了基于AI的口笔译解决方案“Vogl”，并开展了面向外国顾客接待的技术验证（PoC）。"
-              },
-              {
-                "t": "p",
-                "x": "此次验证根据各门店的运营环境和接待方式采用了不同形式的方案。光化门店和江南店安装了专用于顾客咨询的迷你显示屏“Vogl Zone”，东大门店则在平板电脑上搭载Vogl应用，让店员可以边走动边接待外国顾客。"
-              },
-              {
-                "t": "p",
-                "x": "Vogl是一款AI口笔译解决方案，重点在于减少线下门店中出现的语音识别错误和翻译不准确问题。借助自动语言识别功能，店员无需逐一选择顾客的语言，即可进行多语种咨询。"
-              },
-              {
-                "t": "p",
-                "x": "学习韩江、贝尔纳·韦尔贝尔等作家名……提升图书与文化领域翻译准确度"
-              },
-              {
-                "t": "p",
-                "x": "为此次教保文库验证，Flitto预先让系统学习了书店常用的图书分类名和作家名等。据介绍，除了自我提升、奇幻、历史等各类型术语外，还纳入了韩江、贝尔纳·韦尔贝尔等主要作家的名字，提高了专有名词识别和翻译的准确度。"
-              },
-              {
-                "t": "p",
-                "x": "这是考虑到书店的特点：与一般商品信息不同，书店需要理解作品名、作家名和类型。Flitto表示，较高的语音识别率和自动语言识别功能为现场店员接待外国顾客提供了帮助，但未公布具体的识别率或翻译准确度提升数据。"
-              },
-              {
-                "t": "p",
-                "x": "此次在教保文库的应用，是Flitto固定式线下AI口笔译解决方案首次进入图书与文化零售领域。Flitto借此确认了AI口笔译技术在经营多样商品与文化内容的门店中的应用潜力。"
-              },
-              {
-                "t": "p",
-                "x": "Flitto代表Lee Jung-soo表示：“在前往核心商圈的全球访客日益多样的背景下，能与教保文库共同打造没有语言障碍的线下环境，意义深远。”他还说：“此次合作是Flitto将AI口笔译技术从简单引导扩展到凝聚人类主观与文化语境领域的重要案例。”"
-              },
-              {
-                "t": "p",
-                "x": "Flitto计划以此次验证结果为基础，推进Vogl在教保文库门店的正式引入，并将应用范围扩大到仓储式门店、时尚与生活方式店等零售渠道，以及酒店、医疗旅游等需要专业多语种接待的服务领域。"
+                "x": "该模型仍处于预览阶段(API id drama-3-preview),发布内容并未提供单词修复的独立评估。Fish Audio称其用户超过15 million,ARR达$21 million。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Kyobo Book Centre usa IA para\natender a clientes extranjeros",
-          "body": "La herramienta de traducción con IA Vogl, de Flitto, atendió a clientes extranjeros en 3 tiendas de Kyobo Book Centre.",
-          "mini_headline": "Kyobo y la traducción con IA",
+          "headline": "Fish Audio Drama 3 dirige voces\nde IA y edita una sola palabra",
+          "body": "Drama 3 deja a productores de audiolibros dirigir voces de IA en lenguaje llano y regenerar una sola palabra.",
+          "mini_headline": "Drama 3 corrige una palabra",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-768x576.jpg",
-                "cap": "Un cliente francés y un empleado conversan con la minipantalla de la solución de interpretación y traducción con AI «Vogl Zone» de Flitto en la tienda de Gwanghwamun de Kyobo Book Centre. (Foto: Flitto)"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
               },
               {
                 "t": "p",
-                "x": "Mayor precisión de traducción gracias al entrenamiento previo con terminología del sector editorial y nombres de autores…con detección automática de idioma"
+                "x": "Fish Audio anunció el 13 de octubre Drama 3, un nuevo modelo de texto a voz. Los creadores pueden dirigir la interpretación con lenguaje corriente, generar escenas con varios hablantes y reparar un segmento elegido del audio sintetizado sin regenerar la interpretación que lo rodea."
               },
               {
                 "t": "p",
-                "x": "Minipantallas y app para tabletas según la tienda…adopción formal prevista tras la fase piloto"
+                "x": "La función principal es la edición más pequeña: cambiar una sola palabra conservando la voz, el tono y el ritmo a ambos lados. El cofundador y científico jefe Shijia Liao explica que el modelo usa el sonido a ambos lados de la palabra editada para que el reemplazo encaje. “La IA de voz se ha vuelto muy buena generando habla. El siguiente paso es dirigir una interpretación”, dijo la CEO Rissa Cao."
               },
               {
                 "t": "p",
-                "x": "Con el aumento de turistas extranjeros, la atención multilingüe gana importancia en las tiendas físicas de Corea. Las librerías, en particular, manejan muchos nombres propios, como títulos, autores y géneros, por lo que exigen traducciones más precisas que la información general sobre productos. Flitto, empresa especializada en datos y soluciones de IA, amplía su negocio al sector del libro y la cultura al implantar su solución de interpretación y traducción con IA en las principales tiendas de Kyobo Book Centre."
+                "x": "Las indicaciones, los sonidos y las pausas van entre corchetes o en etiquetas emparejadas, y la función Auto Tag sugiere indicaciones iniciales. Drama 3 mantiene voces distintas para cada personaje en guiones largos y ofrece control de pronunciación a nivel de fonema en inglés, chino, japonés y coreano, entre otros."
               },
               {
                 "t": "p",
-                "x": "Flitto (consejero delegado: Lee Jung-soo) suministró su solución de interpretación y traducción basada en IA «Vogl» a las tiendas de Gwanghwamun, Gangnam y Dongdaemun de Kyobo Book Centre y realizó una prueba de concepto (PoC) para atender a clientes extranjeros."
-              },
-              {
-                "t": "p",
-                "x": "En la prueba se aplicaron formatos distintos según el entorno operativo y el tipo de atención de cada tienda. En Gwanghwamun y Gangnam se instaló «Vogl Zone», una minipantalla especializada en la atención al cliente, mientras que en Dongdaemun se cargó la app Vogl en tabletas para que el personal pudiera atender a clientes extranjeros mientras se desplazaba."
-              },
-              {
-                "t": "p",
-                "x": "Vogl es una solución de interpretación y traducción con IA centrada en reducir los errores de reconocimiento de voz y las imprecisiones de traducción que se producen en las tiendas físicas. Su detección automática de idioma permite al personal atender en varios idiomas sin tener que seleccionar uno por uno el idioma de cada cliente."
-              },
-              {
-                "t": "p",
-                "x": "Entrenada con nombres de autores como Han Kang y Bernard Werber…mejor precisión de traducción en libros y cultura"
-              },
-              {
-                "t": "p",
-                "x": "Para esta prueba en Kyobo Book Centre, Flitto entrenó previamente el sistema con nombres de categorías de libros y de autores de uso frecuente en librerías. Según la empresa, incorporó términos de géneros como autoayuda, fantasía e historia, así como los nombres de autores destacados como Han Kang y Bernard Werber, lo que mejoró el reconocimiento y la traducción de nombres propios."
-              },
-              {
-                "t": "p",
-                "x": "Esto responde a las características de las librerías, que, a diferencia de la información general de productos, exigen comprender títulos, nombres de autores y géneros. Flitto explicó que la alta tasa de reconocimiento de voz y la detección automática de idioma ayudaron al personal a atender a clientes extranjeros. Sin embargo, no publicó cifras concretas de la tasa de reconocimiento ni de la mejora en la precisión de traducción."
-              },
-              {
-                "t": "p",
-                "x": "La implantación en Kyobo Book Centre es el primer caso en que la solución fija de interpretación y traducción con IA para tiendas físicas de Flitto llega al comercio minorista del libro y la cultura. Con ello, Flitto constató que la tecnología de interpretación y traducción con IA puede aprovecharse en tiendas que manejan productos y contenidos culturales diversos."
-              },
-              {
-                "t": "p",
-                "x": "«En un momento en que los visitantes internacionales que acuden a las principales zonas comerciales son cada vez más diversos, es significativo crear con Kyobo Book Centre un entorno físico sin barreras lingüísticas», afirmó Lee Jung-soo, consejero delegado de Flitto. «Esta colaboración es un caso destacado de cómo Flitto ha extendido su tecnología de interpretación y traducción con IA más allá de la simple orientación, hacia un ámbito en el que se concentran la subjetividad humana y el contexto cultural»."
-              },
-              {
-                "t": "p",
-                "x": "A partir de los resultados de la prueba, Flitto prevé impulsar la adopción formal de Vogl en las tiendas de Kyobo Book Centre. Además, ampliará su aplicación a canales de distribución como tiendas tipo almacén y tiendas de moda y estilo de vida, así como a servicios que requieren atención multilingüe especializada, como hoteles y turismo médico."
+                "x": "Todavía es una versión preliminar (API id drama-3-preview), y el anuncio no incluye ninguna evaluación independiente de las correcciones de una sola palabra. Fish Audio declara más de 15 millones de usuarios y 21 millones de dólares de ARR."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Kyobo Book Centre turns to AI\nto serve foreign customers",
-          "body": "Flitto's AI interpretation and translation tool Vogl served foreign customers at 3 Kyobo Book Centre stores.",
-          "mini_headline": "Kyobo adopts AI translation",
+        "ko": {
+          "headline": "Drama 3, AI 음성\n연출하고 한 단어 수정",
+          "body": "Drama 3는 AI 목소리를 일상어로 연출하고 단어 하나만 다시 만든다.",
+          "mini_headline": "Drama 3, 한 단어 수정",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-768x576.jpg",
-                "cap": "A French customer and a store employee talk using the mini display of Flitto’s AI interpretation and translation solution ‘Vogl Zone’ at Kyobo Book Centre’s Gwanghwamun store. (Photo: Flitto)"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
               },
               {
                 "t": "p",
-                "x": "Translation accuracy improved by pre-training on book-industry terms and author names…automatic language detection supported"
+                "x": "Fish Audio가 10월 13일 새 텍스트 음성 변환 모델 Drama 3를 발표했다. 창작자는 일상 언어로 연기 톤을 지시하고, 여러 화자가 나오는 장면을 만들며, 합성 음성의 특정 구간을 앞뒤 연기를 다시 생성하지 않고 고칠 수 있다."
               },
               {
                 "t": "p",
-                "x": "Mini displays and a tablet app used by store…formal adoption planned after a pilot run"
+                "x": "핵심 기능은 가장 작은 편집, 즉 앞뒤의 목소리와 분위기, 리듬을 유지한 채 단어 하나만 바꾸는 일이다. 공동 창업자이자 수석 과학자인 Shijia Liao는 모델이 수정한 단어 앞뒤의 소리를 활용해 바꾼 단어가 자연스럽게 맞도록 한다고 설명한다. CEO Rissa Cao는 “음성 AI는 말을 생성하는 데 아주 능숙해졌다. 다음 단계는 연기를 연출하는 것이다”라고 말했다."
               },
               {
                 "t": "p",
-                "x": "As more foreign tourists visit, multilingual customer service is becoming more important in Korea’s offline retail stores. Bookstores in particular require more accurate translation than general product guidance because they deal with many proper nouns such as book titles, authors and genres. Flitto, a company specializing in AI data and solutions, is expanding its business into the book and culture sector by applying its AI interpretation and translation solution at major Kyobo Book Centre stores."
+                "x": "연출 지시와 효과음, 쉼은 대괄호나 짝을 이룬 태그 안에 넣고, Auto Tag 기능이 초기 지시를 제안한다. Drama 3는 긴 대본에서도 캐릭터마다 다른 목소리를 유지하며, 영어·중국어·일본어·한국어 등에서 음소 단위 발음 제어를 제공한다."
               },
               {
                 "t": "p",
-                "x": "Flitto (CEO Lee Jung-soo) supplied its AI-based interpretation and translation solution ‘Vogl’ to Kyobo Book Centre’s Gwanghwamun, Gangnam and Dongdaemun stores and ran a proof of concept (PoC) for serving foreign customers."
-              },
-              {
-                "t": "p",
-                "x": "In this pilot, different forms of the solution were applied depending on each store’s operating environment and customer service style. The Gwanghwamun and Gangnam stores installed ‘Vogl Zone,’ a mini display specialized for customer consultation, while the Dongdaemun store loaded the Vogl app on tablets so staff could serve foreign customers while moving around."
-              },
-              {
-                "t": "p",
-                "x": "Vogl is an AI interpretation and translation solution focused on reducing the speech recognition errors and translation inaccuracies that occur in offline stores. Its automatic language detection lets staff hold multilingual consultations without having to select each customer’s language manually."
-              },
-              {
-                "t": "p",
-                "x": "Trained on author names such as Han Kang and Bernard Werber…translation accuracy improved for books and culture"
-              },
-              {
-                "t": "p",
-                "x": "For the Kyobo Book Centre pilot, Flitto pre-trained the system on book category names and author names frequently used in bookstores. The company said it improved the recognition and translation accuracy of proper nouns by reflecting not only genre terms such as self-help, fantasy and history, but also the names of major authors such as Han Kang and Bernard Werber."
-              },
-              {
-                "t": "p",
-                "x": "This reflects the nature of bookstores, which, unlike general product information, require an understanding of titles, author names and genres. Flitto said the high speech recognition rate and automatic language detection helped on-site staff serve foreign customers. However, it did not disclose specific recognition rates or figures on improvements in translation accuracy."
-              },
-              {
-                "t": "p",
-                "x": "The Kyobo Book Centre deployment is the first case of Flitto’s stationary offline AI interpretation and translation solution entering book and culture retail. Through it, Flitto confirmed the potential for using AI interpretation and translation technology in stores that handle a wide range of products and cultural content."
-              },
-              {
-                "t": "p",
-                "x": "“As global visitors to key commercial districts become more diverse, it is meaningful to build an offline environment without language barriers together with Kyobo Book Centre,” said Flitto CEO Lee Jung-soo. “This collaboration is a key case of extending Flitto’s AI interpretation and translation technology beyond simple guidance into an area where human subjectivity and cultural context are concentrated.”"
-              },
-              {
-                "t": "p",
-                "x": "Based on the pilot results, Flitto plans to pursue the formal adoption of Vogl at Kyobo Book Centre stores. It also intends to expand its application to retail channels such as warehouse stores and fashion and lifestyle stores, as well as service sectors that require specialized multilingual support, such as hotels and medical tourism."
+                "x": "아직 프리뷰 단계(API id drama-3-preview)이며, 발표 자료에는 단어 하나 수정에 대한 독립 평가가 없다. Fish Audio는 사용자가 15 million 명을 넘고 ARR은 $21 million 규모라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "教保文庫、外国人\n接客にAI通訳翻訳",
-          "body": "FlittoのAI通訳翻訳「Vogl」が教保文庫の3店舗で外国人客に対応した。",
-          "mini_headline": "教保文庫のAI通訳翻訳",
+          "headline": "Drama 3はAI音声を\n演出し一語だけ直す",
+          "body": "Drama 3でAI音声を平易な言葉で演出し、単語一つだけを再生成できる。",
+          "mini_headline": "Drama 3は一語を直す",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-768x576.jpg",
-                "cap": "教保文庫光化門店で、フランス人客と店舗スタッフがFlittoのAI通訳翻訳ソリューション「Vogl Zone」のミニディスプレイを使って会話している。（写真提供：Flitto）"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
               },
               {
                 "t": "p",
-                "x": "書籍分野の専門用語・作家名を事前学習し翻訳精度を改善…自動言語検出機能に対応"
+                "x": "Fish Audioは10月13日、新しい音声合成モデルDrama 3を発表した。クリエイターは普段の言葉で話し方を指示し、複数話者のシーンを生成し、合成音声の選んだ区間を前後の演技を作り直さずに修正できる。"
               },
               {
                 "t": "p",
-                "x": "店舗ごとにミニディスプレイ・タブレットアプリを活用…試験運用を経て正式導入を推進"
+                "x": "目玉は最小単位の編集、つまり前後の声や雰囲気、リズムを保ったまま単語を一つだけ差し替える機能だ。共同創業者でチーフサイエンティストのShijia Liaoによれば、モデルは編集した単語の前後の音を使い、差し替えが自然になじむようにする。CEOのRissa Caoは「音声AIは発話の生成がとても上手くなった。次の段階は演技の演出だ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "外国人観光客の来訪が増えるにつれ、韓国のオフライン小売店でも多言語での接客の重要性が高まっている。とりわけ書店は書名や著者、ジャンルなど固有名詞が多く、一般的な商品案内よりも正確な翻訳が求められる。AIデータ・ソリューション専門企業のFlittoは、教保文庫の主要店舗にAI通訳翻訳ソリューションを導入し、書籍・文化分野へと事業領域を広げる。"
+                "x": "指示や効果音、間は角かっこまたは対になったタグで入力し、Auto Tag機能が最初の指示を提案する。Drama 3は長い台本でもキャラクターごとの声を保ち、英語、中国語、日本語、韓国語などで音素レベルの発音制御を備える。"
               },
               {
                 "t": "p",
-                "x": "Flitto（代表イ・ジョンス）は、教保文庫の光化門店、江南店、東大門店にAIベースの通訳翻訳ソリューション「Vogl」を供給し、外国人客対応のための技術実証（PoC）を実施した。"
-              },
-              {
-                "t": "p",
-                "x": "今回の実証では、店舗の運営環境や接客方法に応じて異なる形のソリューションを導入した。光化門店と江南店には顧客相談に特化したミニディスプレイ「Vogl Zone」を設置し、東大門店ではタブレットにVoglアプリを搭載して、スタッフが移動しながら外国人客に対応できるようにした。"
-              },
-              {
-                "t": "p",
-                "x": "Voglは、オフライン店舗で起きる音声認識の誤りや翻訳の不正確さを減らすことに重点を置いたAI通訳翻訳ソリューションだ。自動言語検出機能により、スタッフが客の言語をいちいち選ばなくても多言語で相談できるよう支援する。"
-              },
-              {
-                "t": "p",
-                "x": "ハン・ガン、ベルナール・ウェルベルら作家名を学習…書籍・文化分野の翻訳精度を改善"
-              },
-              {
-                "t": "p",
-                "x": "Flittoは今回の教保文庫での実証に向け、書店でよく使われる書籍の分類名や作家名などを事前に学習させた。自己啓発やファンタジー、歴史といったジャンル別の用語に加え、ハン・ガンやベルナール・ウェルベルなど主要作家の名前を反映し、固有名詞の認識と翻訳の精度を高めたという。"
-              },
-              {
-                "t": "p",
-                "x": "これは一般的な商品情報と違い、作品名や作家名、ジャンルへの理解が必要な書店の特性を考慮したものだ。Flittoは、高い音声認識率と自動言語検出機能が現場スタッフの外国人客対応に役立ったと説明した。ただし、具体的な認識率や翻訳精度の改善値は公表していない。"
-              },
-              {
-                "t": "p",
-                "x": "今回の教保文庫への導入は、Flittoの据え置き型オフラインAI通訳翻訳ソリューションが書籍・文化小売分野に進出した初の事例となる。Flittoはこれにより、多様な商品や文化コンテンツを扱う店舗でもAI通訳翻訳技術を活用できる可能性を確認した。"
-              },
-              {
-                "t": "p",
-                "x": "Flittoのイ・ジョンス代表は「主要商業地を訪れる海外からの来訪者が多様化するなか、教保文庫とともに言語の壁のないオフライン環境を築けたことは意義深い」とし、「今回の協力は、単純な案内を超え、人間の主観と文化的文脈が凝縮された領域へとFlittoのAI通訳翻訳技術を広げた重要な事例だ」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "Flittoは今回の実証結果をもとに、教保文庫の店舗へのVoglの正式導入を進める計画だ。あわせて、倉庫型店舗やファッション・ライフスタイルストアなどの流通チャネルをはじめ、ホテルや医療観光など専門的な多言語対応が求められるサービス分野へ適用範囲を広げる方針だ。"
+                "x": "まだプレビュー版(API id drama-3-preview)で、単語一つの修正について独立した評価は示されていない。Fish Audioはユーザー数が15 million 超、ARRが$21 million だとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "教保文库用AI\n翻译接待外国顾客",
-          "body": "Flitto的AI口笔译工具“Vogl”在教保文库3家门店接待了外国顾客。",
-          "mini_headline": "教保文库AI翻译",
+          "headline": "Drama 3可指导AI配音\n还能只改一个词",
+          "body": "Drama 3让有声书制作者用日常语言指导AI配音,并可原地重生成单个词。",
+          "mini_headline": "Drama 3只改一个词",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-768x576.jpg",
-                "cap": "在教保文库光化门店，一名法国顾客与店员正通过Flitto的AI口笔译解决方案“Vogl Zone”迷你显示屏交谈。（图片提供：Flitto）"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
               },
               {
                 "t": "p",
-                "x": "预先学习图书领域专业术语与作家名，提升翻译准确度……支持自动语言识别"
+                "x": "Fish Audio于10月13日发布了新的文本转语音模型Drama 3。创作者可以用日常语言指导演绎方式、生成多人对话场景,并在不重新生成前后表演的情况下修复合成音频中选定的片段。"
               },
               {
                 "t": "p",
-                "x": "各门店使用迷你显示屏、平板应用……经试运营后推进正式引入"
+                "x": "最受关注的功能是最小的编辑:在保留前后音色、情绪和节奏的同时只改动一个词。联合创始人兼首席科学家Shijia Liao表示,模型会利用被编辑词前后的声音,让替换内容衔接自然。CEO Rissa Cao说:“语音AI在生成语音方面已经非常出色。下一步是指导表演。”"
               },
               {
                 "t": "p",
-                "x": "随着外国游客增多，韩国线下零售门店的多语种接待也日益重要。书店尤其涉及书名、作者、类型等大量专有名词，比一般商品介绍更需要准确的翻译。AI数据与解决方案企业Flitto将AI口笔译解决方案应用于教保文库主要门店，把业务拓展至图书与文化领域。"
+                "x": "指示、音效和停顿可写在方括号或成对标签中,Auto Tag功能会给出初始指示建议。Drama 3能在长篇脚本中保持各角色不同的声音,并在英语、中文、日语和韩语等语言中提供音素级发音控制。"
               },
               {
                 "t": "p",
-                "x": "Flitto（代表Lee Jung-soo）向教保文库光化门店、江南店和东大门店提供了基于AI的口笔译解决方案“Vogl”，并开展了面向外国顾客接待的技术验证（PoC）。"
-              },
-              {
-                "t": "p",
-                "x": "此次验证根据各门店的运营环境和接待方式采用了不同形式的方案。光化门店和江南店安装了专用于顾客咨询的迷你显示屏“Vogl Zone”，东大门店则在平板电脑上搭载Vogl应用，让店员可以边走动边接待外国顾客。"
-              },
-              {
-                "t": "p",
-                "x": "Vogl是一款AI口笔译解决方案，重点在于减少线下门店中出现的语音识别错误和翻译不准确问题。借助自动语言识别功能，店员无需逐一选择顾客的语言，即可进行多语种咨询。"
-              },
-              {
-                "t": "p",
-                "x": "学习韩江、贝尔纳·韦尔贝尔等作家名……提升图书与文化领域翻译准确度"
-              },
-              {
-                "t": "p",
-                "x": "为此次教保文库验证，Flitto预先让系统学习了书店常用的图书分类名和作家名等。据介绍，除了自我提升、奇幻、历史等各类型术语外，还纳入了韩江、贝尔纳·韦尔贝尔等主要作家的名字，提高了专有名词识别和翻译的准确度。"
-              },
-              {
-                "t": "p",
-                "x": "这是考虑到书店的特点：与一般商品信息不同，书店需要理解作品名、作家名和类型。Flitto表示，较高的语音识别率和自动语言识别功能为现场店员接待外国顾客提供了帮助，但未公布具体的识别率或翻译准确度提升数据。"
-              },
-              {
-                "t": "p",
-                "x": "此次在教保文库的应用，是Flitto固定式线下AI口笔译解决方案首次进入图书与文化零售领域。Flitto借此确认了AI口笔译技术在经营多样商品与文化内容的门店中的应用潜力。"
-              },
-              {
-                "t": "p",
-                "x": "Flitto代表Lee Jung-soo表示：“在前往核心商圈的全球访客日益多样的背景下，能与教保文库共同打造没有语言障碍的线下环境，意义深远。”他还说：“此次合作是Flitto将AI口笔译技术从简单引导扩展到凝聚人类主观与文化语境领域的重要案例。”"
-              },
-              {
-                "t": "p",
-                "x": "Flitto计划以此次验证结果为基础，推进Vogl在教保文库门店的正式引入，并将应用范围扩大到仓储式门店、时尚与生活方式店等零售渠道，以及酒店、医疗旅游等需要专业多语种接待的服务领域。"
+                "x": "该模型仍处于预览阶段(API id drama-3-preview),发布内容并未提供单词修复的独立评估。Fish Audio称其用户超过15 million,ARR达$21 million。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Kyobo Book Centre usa IA para\natender a clientes extranjeros",
-          "body": "La herramienta de traducción con IA Vogl, de Flitto, atendió a clientes extranjeros en 3 tiendas de Kyobo Book Centre.",
-          "mini_headline": "Kyobo y la traducción con IA",
+          "headline": "Fish Audio Drama 3 dirige voces\nde IA y edita una sola palabra",
+          "body": "Drama 3 deja a productores de audiolibros dirigir voces de IA en lenguaje llano y regenerar una sola palabra.",
+          "mini_headline": "Drama 3 corrige una palabra",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-768x576.jpg",
-                "cap": "Un cliente francés y un empleado conversan con la minipantalla de la solución de interpretación y traducción con AI «Vogl Zone» de Flitto en la tienda de Gwanghwamun de Kyobo Book Centre. (Foto: Flitto)"
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
               },
               {
                 "t": "p",
-                "x": "Mayor precisión de traducción gracias al entrenamiento previo con terminología del sector editorial y nombres de autores…con detección automática de idioma"
+                "x": "Fish Audio anunció el 13 de octubre Drama 3, un nuevo modelo de texto a voz. Los creadores pueden dirigir la interpretación con lenguaje corriente, generar escenas con varios hablantes y reparar un segmento elegido del audio sintetizado sin regenerar la interpretación que lo rodea."
               },
               {
                 "t": "p",
-                "x": "Minipantallas y app para tabletas según la tienda…adopción formal prevista tras la fase piloto"
+                "x": "La función principal es la edición más pequeña: cambiar una sola palabra conservando la voz, el tono y el ritmo a ambos lados. El cofundador y científico jefe Shijia Liao explica que el modelo usa el sonido a ambos lados de la palabra editada para que el reemplazo encaje. “La IA de voz se ha vuelto muy buena generando habla. El siguiente paso es dirigir una interpretación”, dijo la CEO Rissa Cao."
               },
               {
                 "t": "p",
-                "x": "Con el aumento de turistas extranjeros, la atención multilingüe gana importancia en las tiendas físicas de Corea. Las librerías, en particular, manejan muchos nombres propios, como títulos, autores y géneros, por lo que exigen traducciones más precisas que la información general sobre productos. Flitto, empresa especializada en datos y soluciones de IA, amplía su negocio al sector del libro y la cultura al implantar su solución de interpretación y traducción con IA en las principales tiendas de Kyobo Book Centre."
+                "x": "Las indicaciones, los sonidos y las pausas van entre corchetes o en etiquetas emparejadas, y la función Auto Tag sugiere indicaciones iniciales. Drama 3 mantiene voces distintas para cada personaje en guiones largos y ofrece control de pronunciación a nivel de fonema en inglés, chino, japonés y coreano, entre otros."
               },
               {
                 "t": "p",
-                "x": "Flitto (consejero delegado: Lee Jung-soo) suministró su solución de interpretación y traducción basada en IA «Vogl» a las tiendas de Gwanghwamun, Gangnam y Dongdaemun de Kyobo Book Centre y realizó una prueba de concepto (PoC) para atender a clientes extranjeros."
-              },
-              {
-                "t": "p",
-                "x": "En la prueba se aplicaron formatos distintos según el entorno operativo y el tipo de atención de cada tienda. En Gwanghwamun y Gangnam se instaló «Vogl Zone», una minipantalla especializada en la atención al cliente, mientras que en Dongdaemun se cargó la app Vogl en tabletas para que el personal pudiera atender a clientes extranjeros mientras se desplazaba."
-              },
-              {
-                "t": "p",
-                "x": "Vogl es una solución de interpretación y traducción con IA centrada en reducir los errores de reconocimiento de voz y las imprecisiones de traducción que se producen en las tiendas físicas. Su detección automática de idioma permite al personal atender en varios idiomas sin tener que seleccionar uno por uno el idioma de cada cliente."
-              },
-              {
-                "t": "p",
-                "x": "Entrenada con nombres de autores como Han Kang y Bernard Werber…mejor precisión de traducción en libros y cultura"
-              },
-              {
-                "t": "p",
-                "x": "Para esta prueba en Kyobo Book Centre, Flitto entrenó previamente el sistema con nombres de categorías de libros y de autores de uso frecuente en librerías. Según la empresa, incorporó términos de géneros como autoayuda, fantasía e historia, así como los nombres de autores destacados como Han Kang y Bernard Werber, lo que mejoró el reconocimiento y la traducción de nombres propios."
-              },
-              {
-                "t": "p",
-                "x": "Esto responde a las características de las librerías, que, a diferencia de la información general de productos, exigen comprender títulos, nombres de autores y géneros. Flitto explicó que la alta tasa de reconocimiento de voz y la detección automática de idioma ayudaron al personal a atender a clientes extranjeros. Sin embargo, no publicó cifras concretas de la tasa de reconocimiento ni de la mejora en la precisión de traducción."
-              },
-              {
-                "t": "p",
-                "x": "La implantación en Kyobo Book Centre es el primer caso en que la solución fija de interpretación y traducción con IA para tiendas físicas de Flitto llega al comercio minorista del libro y la cultura. Con ello, Flitto constató que la tecnología de interpretación y traducción con IA puede aprovecharse en tiendas que manejan productos y contenidos culturales diversos."
-              },
-              {
-                "t": "p",
-                "x": "«En un momento en que los visitantes internacionales que acuden a las principales zonas comerciales son cada vez más diversos, es significativo crear con Kyobo Book Centre un entorno físico sin barreras lingüísticas», afirmó Lee Jung-soo, consejero delegado de Flitto. «Esta colaboración es un caso destacado de cómo Flitto ha extendido su tecnología de interpretación y traducción con IA más allá de la simple orientación, hacia un ámbito en el que se concentran la subjetividad humana y el contexto cultural»."
-              },
-              {
-                "t": "p",
-                "x": "A partir de los resultados de la prueba, Flitto prevé impulsar la adopción formal de Vogl en las tiendas de Kyobo Book Centre. Además, ampliará su aplicación a canales de distribución como tiendas tipo almacén y tiendas de moda y estilo de vida, así como a servicios que requieren atención multilingüe especializada, como hoteles y turismo médico."
+                "x": "Todavía es una versión preliminar (API id drama-3-preview), y el anuncio no incluye ninguna evaluación independiente de las correcciones de una sola palabra. Fish Audio declara más de 15 millones de usuarios y 21 millones de dólares de ARR."
               }
             ]
           }
@@ -1037,15 +587,15 @@
       }
     },
     {
-      "id": "books-naav-ai",
-      "source_lang": "en",
+      "id": "books-google-kr-publishers",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Naav AI, 인도 문학\n영어 장벽에 도전한다",
-      "body": "Naav AI는 AI 번역을 전문가가 다듬어 작가의 목소리와 맥락을 지킨다.",
-      "mini_headline": "Naav AI, 인도 책 번역",
+      "headline": "구글도 국내 책 구매 추진\n저작권 법안은 국회 낮잠",
+      "body": "구글이 국내 출판사와 책 구매를 추진하지만 AI 저작권 법안은 국회에 멈춰 있다.",
+      "mini_headline": "구글도 국내 책 구매",
       "tool": "Books",
-      "source": "Analytics India Magazine",
-      "url": "https://analyticsindiamag.com/ai-features/can-naav-ai-break-englishs-hold-on-indian-literature-vikram-sampath-thinks-so",
+      "source": "서울경제",
+      "url": "https://www.sedaily.com/article/20103000",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -1053,335 +603,305 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp"
+            "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
           },
           {
             "t": "p",
-            "x": "많은 인도 독자에게 영어는 여전히 자국 문학 작품 앞을 가로막는 장벽이다. 역사학자이자 작가, Naav AI 공동 창업자인 Vikram Sampath는 AI로 이 벽을 허물려 한다. 작가의 목소리는 지키면서 책을 인도 언어로 읽게 하겠다는 구상이다."
+            "x": "앤트로픽이 국내 도서 유통사로부터 대량의 책을 사들인 것으로 밝혀져 논란이 된 가운데, 구글도 올해 상반기부터 국내 대형 출판사를 상대로 AI 학습용 도서 구입을 협상 중인 것으로 나타났다. 업계 관계자들은 실제 계약을 완료한 사례도 있다고 전했고, 계약한 곳 중에는 학술 전문 출판사가 포함된 것으로 알려졌다. 구글코리아는 답변하지 않았다."
           },
           {
             "t": "p",
-            "x": "Naav AI는 “Navigating AI Across Vocabularies”의 약자로, 2025년 1월 설립됐다. 에이전트형 AI 프레임워크로 장편 콘텐츠를 번역하고 텍스트를 오디오와 비디오 등의 형식으로 바꾼다. 주요 기술 파트너는 Sarvam AI이고 Google과 OpenAI의 모델도 함께 쓴다. 출판 고객사로는 BluOne Ink가 있다."
+            "x": "문제는 저작권자 동의 없이 AI 학습용으로 콘텐츠를 팔아도 규제할 법적 근거가 없다는 점이다. 영세한 국내 출판사가 글로벌 빅테크와 대등한 협상력을 갖기 어렵고, 앤트로픽의 ‘권당 3000달러(435만 원) 배상’이 AI 학습 대가가 아닌데도 가격표처럼 인식될 수 있다는 우려가 나온다."
+          },
+          {
+            "t": "img",
+            "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
+            "cap": "국회에 계류 중인 AI 학습-저작권 관련 법안"
           },
           {
             "t": "p",
-            "x": "Sampath에 따르면 인도 언어로 옮긴 초벌 번역의 정확도는 대개 80%에서 85% 수준이다. 그래서 마이수루(Mysuru) 인도언어중앙연구소(Central Institute of Indian Languages) 전문가를 비롯한 언어 전문가들이 손을 본다. 400쪽 분량의 책도 이 도구로는 한 시간가량이면 번역되고, 사람의 검토까지 거쳐도 서너 주면 출간할 수 있는 번역본이 나온다. 기존 방식이라면 보통 300쪽 책 한 권에 여섯 달 정도 걸릴 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "Naav AI는 인도 언어 11개에 독일어, 러시아어, 프랑스어, 스페인어, 이탈리아어를 더해 지원한다. 번역서에는 언어 전문가의 이름을 번역 보조자라는 뜻의 ‘Anuvad Sahayak’으로 올릴 수 있고, 저작권은 출판사가 갖는다. 오디오북 플랫폼 ZuNAAV-FM도 개발 중이다."
-          },
-          {
-            "t": "p",
-            "x": "“특정 언어로 독창적인 콘텐츠를 만드는 것이 아니다. 우리는 번역을 도울 뿐이다.” Sampath의 말이다."
+            "x": "국내 AI 기업들은 콘텐츠 구매 비용 부담으로 경쟁력이 후퇴할 수 있다는 우려도 있다. 현재 국회에는 생성형 AI 학습 데이터 출처 공개와 저작권자의 확인 절차를 규정한 AI 기본법 개정안이 다수 발의돼 있으나 계류 중이다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Naav AI takes aim at English's\nhold on Indian literature",
-          "body": "Naav AI translates books with AI, then human experts refine the text to keep the author's voice and cultural context.",
-          "mini_headline": "Naav AI translates Indian books",
+        "ko": {
+          "headline": "구글도 국내 책 구매 추진\n저작권 법안은 국회 낮잠",
+          "body": "구글이 국내 출판사와 책 구매를 추진하지만 AI 저작권 법안은 국회에 멈춰 있다.",
+          "mini_headline": "구글도 국내 책 구매",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
               },
               {
                 "t": "p",
-                "x": "English remains a barrier between many Indian readers and the country’s literary works. Vikram Sampath, historian, author and co-founder of Naav AI, wants to use AI to change that by making books available in Indian languages without losing the author’s voice."
+                "x": "앤트로픽이 국내 도서 유통사로부터 대량의 책을 사들인 것으로 밝혀져 논란이 된 가운데, 구글도 올해 상반기부터 국내 대형 출판사를 상대로 AI 학습용 도서 구입을 협상 중인 것으로 나타났다. 업계 관계자들은 실제 계약을 완료한 사례도 있다고 전했고, 계약한 곳 중에는 학술 전문 출판사가 포함된 것으로 알려졌다. 구글코리아는 답변하지 않았다."
               },
               {
                 "t": "p",
-                "x": "Founded in January 2025, Naav AI, short for “Navigating AI Across Vocabularies”, uses agentic AI frameworks to translate long-form content and convert text into formats including audio and video. Sarvam AI is its primary technology partner, and it also uses models from Google and OpenAI. Its publishing clients include BluOne Ink."
+                "x": "문제는 저작권자 동의 없이 AI 학습용으로 콘텐츠를 팔아도 규제할 법적 근거가 없다는 점이다. 영세한 국내 출판사가 글로벌 빅테크와 대등한 협상력을 갖기 어렵고, 앤트로픽의 ‘권당 3000달러(435만 원) 배상’이 AI 학습 대가가 아닌데도 가격표처럼 인식될 수 있다는 우려가 나온다."
+              },
+              {
+                "t": "img",
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
+                "cap": "국회에 계류 중인 AI 학습-저작권 관련 법안"
               },
               {
                 "t": "p",
-                "x": "Sampath says initial translations into Indian languages are typically 80% to 85% accurate, so language experts, including specialists from the Central Institute of Indian Languages in Mysuru, refine them. The tool can translate a 400-page book in about an hour; with human review, the full workflow produces a publish-ready translation in three to four weeks. A typical 300-page book could otherwise take around six months."
-              },
-              {
-                "t": "p",
-                "x": "Naav AI supports 11 Indian languages, plus German, Russian, French, Spanish and Italian. Translated books can carry the language specialist’s name as an ‘Anuvad Sahayak’, or translation assistant, and the publisher retains the copyright. ZuNAAV-FM is being developed as an audiobook platform."
-              },
-              {
-                "t": "p",
-                "x": "“We are not creating original content in a particular language. We only help with translation,” Sampath says."
+                "x": "국내 AI 기업들은 콘텐츠 구매 비용 부담으로 경쟁력이 후퇴할 수 있다는 우려도 있다. 현재 국회에는 생성형 AI 학습 데이터 출처 공개와 저작권자의 확인 절차를 규정한 AI 기본법 개정안이 다수 발의돼 있으나 계류 중이다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Naav AI, 인도 문학\n영어 장벽에 도전한다",
-          "body": "Naav AI는 AI 번역을 전문가가 다듬어 작가의 목소리와 맥락을 지킨다.",
-          "mini_headline": "Naav AI, 인도 책 번역",
+        "en": {
+          "headline": "Google seeks Korean books too\nCopyright bills idle in Assembly",
+          "body": "Google is seeking to buy books from Korean publishers, but AI copyright bills are stuck in the National Assembly.",
+          "mini_headline": "Google buys Korean books too",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
               },
               {
                 "t": "p",
-                "x": "많은 인도 독자에게 영어는 여전히 자국 문학 작품 앞을 가로막는 장벽이다. 역사학자이자 작가, Naav AI 공동 창업자인 Vikram Sampath는 AI로 이 벽을 허물려 한다. 작가의 목소리는 지키면서 책을 인도 언어로 읽게 하겠다는 구상이다."
+                "x": "Amid controversy over revelations that Anthropic bought large numbers of books from a Korean book distributor, Google has also been negotiating since the first half of this year with major Korean publishers to buy books for AI training. Industry sources said some contracts have actually been completed, reportedly including one with an academic publisher. Google Korea did not respond."
               },
               {
                 "t": "p",
-                "x": "Naav AI는 “Navigating AI Across Vocabularies”의 약자로, 2025년 1월 설립됐다. 에이전트형 AI 프레임워크로 장편 콘텐츠를 번역하고 텍스트를 오디오와 비디오 등의 형식으로 바꾼다. 주요 기술 파트너는 Sarvam AI이고 Google과 OpenAI의 모델도 함께 쓴다. 출판 고객사로는 BluOne Ink가 있다."
+                "x": "The problem is that there is no legal basis to regulate the sale of content for AI training without copyright holders’ consent. Small Korean publishers can hardly negotiate on equal terms with global Big Tech, and there are concerns that Anthropic’s ‘$3000 (435만 원) per book in damages’ could be read as a price tag even though it is not payment for AI training."
+              },
+              {
+                "t": "img",
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
+                "cap": "AI training and copyright bills pending in the National Assembly"
               },
               {
                 "t": "p",
-                "x": "Sampath에 따르면 인도 언어로 옮긴 초벌 번역의 정확도는 대개 80%에서 85% 수준이다. 그래서 마이수루(Mysuru) 인도언어중앙연구소(Central Institute of Indian Languages) 전문가를 비롯한 언어 전문가들이 손을 본다. 400쪽 분량의 책도 이 도구로는 한 시간가량이면 번역되고, 사람의 검토까지 거쳐도 서너 주면 출간할 수 있는 번역본이 나온다. 기존 방식이라면 보통 300쪽 책 한 권에 여섯 달 정도 걸릴 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Naav AI는 인도 언어 11개에 독일어, 러시아어, 프랑스어, 스페인어, 이탈리아어를 더해 지원한다. 번역서에는 언어 전문가의 이름을 번역 보조자라는 뜻의 ‘Anuvad Sahayak’으로 올릴 수 있고, 저작권은 출판사가 갖는다. 오디오북 플랫폼 ZuNAAV-FM도 개발 중이다."
-              },
-              {
-                "t": "p",
-                "x": "“특정 언어로 독창적인 콘텐츠를 만드는 것이 아니다. 우리는 번역을 도울 뿐이다.” Sampath의 말이다."
+                "x": "There are also concerns that Korean AI companies could lose competitiveness under the cost of buying content. Several amendments to the AI Basic Act that would require disclosure of the sources of generative AI training data and a verification process for copyright holders have been proposed in the National Assembly but remain pending."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Naav AI、英語偏重の\nインド文学に挑む",
-          "body": "Naav AIはAIで本を翻訳し、専門家が作家の声と文化的文脈を保つよう仕上げる。",
-          "mini_headline": "Naav AI、インドの本を翻訳",
+          "headline": "Googleも韓国で本を購入\n著作権法案は国会で停滞",
+          "body": "Googleが韓国の出版社から本の購入を進めるが、AI著作権法案は国会で止まっている。",
+          "mini_headline": "Googleも韓国で本購入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
               },
               {
                 "t": "p",
-                "x": "多くのインドの読者にとって、英語はいまも自国の文学作品との間に立ちはだかる壁だ。歴史家・作家でNaav AIの共同創業者でもあるVikram Sampathは、作家の声を失わずに本をインドの諸言語で読めるようにすることで、AIを使ってこの状況を変えようとしている。"
+                "x": "Anthropicが韓国の書籍流通会社から大量の本を購入していたことが明らかになり論議を呼ぶなか、Googleも今年上半期から韓国の大手出版社とAI学習用の書籍購入を交渉していることがわかった。業界関係者によると、実際に契約を終えた例もあり、契約先には学術専門出版社が含まれているという。Google Koreaは回答しなかった。"
               },
               {
                 "t": "p",
-                "x": "2025年1月に設立されたNaav AIは「Navigating AI Across Vocabularies」の略で、エージェント型AIフレームワークを用いて長文コンテンツを翻訳し、テキストを音声や動画などの形式に変換する。主な技術パートナーはSarvam AIで、GoogleやOpenAIのモデルも利用している。出版分野の顧客にはBluOne Inkがある。"
+                "x": "問題は、著作権者の同意なしにAI学習用としてコンテンツを販売しても、規制する法的根拠がない点だ。零細な韓国の出版社がグローバルなビッグテックと対等な交渉力を持つのは難しく、Anthropicの「1冊あたり3000ドル(435만 원)の賠償」はAI学習の対価ではないにもかかわらず、価格表のように受け止められかねないとの懸念が出ている。"
+              },
+              {
+                "t": "img",
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
+                "cap": "国会で審議待ちのAI学習・著作権関連法案"
               },
               {
                 "t": "p",
-                "x": "Sampathによると、インドの諸言語への初回翻訳の精度は通常80%から85%ほどで、Mysuruにあるインド諸語中央研究所（Central Institute of Indian Languages）の専門家を含む言語の専門家が仕上げを行う。このツールは400ページの本をおよそ一時間で翻訳でき、人によるレビューを含めた全工程で、三〜四週間で出版可能な翻訳が完成する。一般的な300ページの本なら、通常は六か月ほどかかりうるという。"
-              },
-              {
-                "t": "p",
-                "x": "Naav AIはインドの11言語に加え、ドイツ語、ロシア語、フランス語、スペイン語、イタリア語に対応する。翻訳書には言語専門家の名前を「翻訳助手」を意味する「Anuvad Sahayak」として記載でき、著作権は出版社が保持する。オーディオブック・プラットフォームのZuNAAV-FMも開発中だ。"
-              },
-              {
-                "t": "p",
-                "x": "「特定の言語でオリジナルのコンテンツを作っているわけではない。私たちは翻訳を手助けするだけだ」とSampathは語る。"
+                "x": "韓国のAI企業は、コンテンツ購入費の負担で競争力が後退しかねないとの懸念もある。現在国会には、生成AIの学習データの出所公開と著作権者の確認手続きを定めたAI基本法改正案が多数提出されているが、審議は止まったままだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Naav AI挑战英语\n对印度文学的主导",
-          "body": "Naav AI先用AI译书，再由专家润色，保留作者的声音与文化语境。",
-          "mini_headline": "Naav AI翻译印度图书",
+          "headline": "Google也在韩国购书\n版权法案在国会搁置",
+          "body": "Google正与韩国出版社洽谈购书,但AI版权法案仍在国会搁置。",
+          "mini_headline": "Google也在韩国购书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
               },
               {
                 "t": "p",
-                "x": "对许多印度读者来说，英语仍是横亘在他们与本国文学作品之间的障碍。历史学家、作家、Naav AI联合创始人Vikram Sampath希望借助AI改变这一点：在不丢失作者声音的前提下，让图书以印度语言呈现。"
+                "x": "在Anthropic被曝从韩国图书经销商大量购书并引发争议之际,Google也被发现自今年上半年起与韩国大型出版社洽谈购买AI训练用图书。业内人士透露,已有实际签约的案例,据悉签约方中包括一家学术专业出版社。Google Korea未予回应。"
               },
               {
                 "t": "p",
-                "x": "Naav AI成立于2025年1月，名称是“Navigating AI Across Vocabularies”的缩写。它利用智能体AI框架翻译长篇内容，并将文本转换为音频、视频等形式。其主要技术合作伙伴是Sarvam AI，同时也使用Google和OpenAI的模型。出版客户包括BluOne Ink。"
+                "x": "问题在于,即便未经版权方同意就把内容出售用于AI训练,也没有加以监管的法律依据。韩国小型出版社难以与全球科技巨头平等议价,而且有人担心,Anthropic的“每本3000美元(435만 원)赔偿”虽然并非AI训练的对价,却可能被当作价目表。"
+              },
+              {
+                "t": "img",
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
+                "cap": "国会待审的AI训练与版权相关法案"
               },
               {
                 "t": "p",
-                "x": "Sampath表示，译成印度语言的初稿准确率通常为80%至85%，因此由包括位于Mysuru的印度语言中央研究所（Central Institute of Indian Languages）专家在内的语言专家进行润色。该工具约一小时即可翻译一本400页的书；加上人工审校，整个流程可在三到四周内产出可供出版的译本。而一本普通的300页图书，用其他方式可能需要约六个月。"
-              },
-              {
-                "t": "p",
-                "x": "Naav AI支持11种印度语言，以及德语、俄语、法语、西班牙语和意大利语。译本可以将语言专家的名字以“Anuvad Sahayak”（即翻译助理）署名，版权归出版方所有。有声书平台ZuNAAV-FM正在开发中。"
-              },
-              {
-                "t": "p",
-                "x": "“我们并不是用某种语言创作原创内容，我们只是帮助翻译。”Sampath说。"
+                "x": "也有人担心,韩国AI企业可能因内容采购成本负担而丧失竞争力。目前国会已提出多项AI基本法修正案,规定公开生成式AI训练数据来源及版权方确认程序,但均处于搁置状态。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Naav AI desafía el peso del\ninglés en la literatura india",
-          "body": "Naav AI traduce libros con IA y luego expertos pulen el texto para conservar la voz del autor y su contexto cultural.",
-          "mini_headline": "Naav AI traduce libros indios",
+          "headline": "Google busca libros coreanos\ny la ley de copyright se estanca",
+          "body": "Google busca comprar libros a editoriales coreanas, pero las leyes de IA y derechos de autor siguen paradas.",
+          "mini_headline": "Google también compra libros",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
               },
               {
                 "t": "p",
-                "x": "El inglés sigue siendo una barrera entre muchos lectores indios y las obras literarias de su país. Vikram Sampath, historiador, autor y cofundador de Naav AI, quiere usar la IA para cambiarlo y ofrecer libros en lenguas indias sin perder la voz del autor."
+                "x": "En plena polémica por la revelación de que Anthropic compró una gran cantidad de libros a un distribuidor coreano, se supo que Google también negocia desde el primer semestre de este año con grandes editoriales coreanas la compra de libros para entrenar IA. Fuentes del sector afirmaron que ya hay contratos cerrados y que entre las firmantes figura una editorial académica especializada. Google Korea no respondió."
               },
               {
                 "t": "p",
-                "x": "Fundada en enero de 2025, Naav AI, siglas de “Navigating AI Across Vocabularies”, utiliza marcos de IA agéntica para traducir contenidos extensos y convertir texto a formatos como audio y video. Sarvam AI es su principal socio tecnológico, y también usa modelos de Google y OpenAI. Entre sus clientes editoriales figura BluOne Ink."
+                "x": "El problema es que no existe base legal para regular la venta de contenidos para entrenar IA sin el consentimiento de los titulares de derechos. A las pequeñas editoriales coreanas les cuesta negociar en igualdad con las grandes tecnológicas globales, y preocupa que la ‘indemnización de 3000 dólares (435만 원) por libro’ de Anthropic se perciba como una tarifa, aunque no es un pago por el entrenamiento de IA."
+              },
+              {
+                "t": "img",
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
+                "cap": "Proyectos de ley sobre entrenamiento de IA y derechos de autor pendientes en la Asamblea Nacional"
               },
               {
                 "t": "p",
-                "x": "Según Sampath, las traducciones iniciales a lenguas indias suelen tener una precisión del 80% al 85%, por lo que expertos lingüísticos, entre ellos especialistas del Central Institute of Indian Languages de Mysuru, las pulen. La herramienta puede traducir un libro de 400 páginas en aproximadamente una hora; con la revisión humana, el proceso completo produce una traducción lista para publicar en tres a cuatro semanas. De otro modo, un libro típico de 300 páginas podría tardar unos seis meses."
-              },
-              {
-                "t": "p",
-                "x": "Naav AI admite 11 lenguas indias, además de alemán, ruso, francés, español e italiano. Los libros traducidos pueden llevar el nombre del especialista lingüístico como ‘Anuvad Sahayak’, o asistente de traducción, y la editorial conserva los derechos de autor. ZuNAAV-FM se está desarrollando como plataforma de audiolibros."
-              },
-              {
-                "t": "p",
-                "x": "“No estamos creando contenido original en un idioma concreto. Solo ayudamos con la traducción”, afirma Sampath."
+                "x": "También preocupa que las empresas coreanas de IA pierdan competitividad por el coste de comprar contenidos. En la Asamblea Nacional hay varias propuestas de reforma de la Ley Básica de IA que exigen revelar el origen de los datos de entrenamiento de la IA generativa y fijan un procedimiento de verificación para los titulares de derechos, pero siguen pendientes."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Naav AI, 인도 문학\n영어 장벽에 도전한다",
-          "body": "Naav AI는 AI 번역을 전문가가 다듬어 작가의 목소리와 맥락을 지킨다.",
-          "mini_headline": "Naav AI, 인도 책 번역",
+        "en": {
+          "headline": "Google seeks Korean books too\nCopyright bills idle in Assembly",
+          "body": "Google is seeking to buy books from Korean publishers, but AI copyright bills are stuck in the National Assembly.",
+          "mini_headline": "Google buys Korean books too",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
               },
               {
                 "t": "p",
-                "x": "많은 인도 독자에게 영어는 여전히 자국 문학 작품과의 사이를 가로막는 장벽이다. 역사학자이자 작가이며 Naav AI 공동 창업자인 Vikram Sampath는 AI로 이를 바꾸려 한다. 작가의 목소리를 잃지 않으면서 책을 인도 언어로 읽을 수 있게 하겠다는 것이다."
+                "x": "Amid controversy over revelations that Anthropic bought large numbers of books from a Korean book distributor, Google has also been negotiating since the first half of this year with major Korean publishers to buy books for AI training. Industry sources said some contracts have actually been completed, reportedly including one with an academic publisher. Google Korea did not respond."
               },
               {
                 "t": "p",
-                "x": "2025년 1월 설립된 Naav AI는 “Navigating AI Across Vocabularies”의 약자로, 에이전트형 AI 프레임워크를 활용해 장편 콘텐츠를 번역하고 텍스트를 오디오와 비디오 등의 형식으로 변환한다. 주요 기술 파트너는 Sarvam AI이며, Google과 OpenAI의 모델도 쓴다. 출판 고객사로는 BluOne Ink가 있다."
+                "x": "The problem is that there is no legal basis to regulate the sale of content for AI training without copyright holders’ consent. Small Korean publishers can hardly negotiate on equal terms with global Big Tech, and there are concerns that Anthropic’s ‘$3000 (435만 원) per book in damages’ could be read as a price tag even though it is not payment for AI training."
+              },
+              {
+                "t": "img",
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
+                "cap": "AI training and copyright bills pending in the National Assembly"
               },
               {
                 "t": "p",
-                "x": "Sampath에 따르면 인도 언어로 옮긴 초벌 번역의 정확도는 대체로 80%에서 85% 수준이어서, 마이수루(Mysuru)에 있는 인도언어중앙연구소(Central Institute of Indian Languages) 전문가를 비롯한 언어 전문가들이 이를 다듬는다. 이 도구는 400쪽 분량의 책을 한 시간가량이면 번역하며, 사람의 검토를 거친 전체 작업은 서너 주 만에 출간 가능한 번역본을 낸다. 일반적인 300쪽 책이라면 이 과정에 여섯 달 정도 걸릴 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "Naav AI는 인도 언어 11개와 독일어, 러시아어, 프랑스어, 스페인어, 이탈리아어를 지원한다. 번역서에는 언어 전문가의 이름을 번역 보조자라는 뜻의 ‘Anuvad Sahayak’으로 실을 수 있으며, 저작권은 출판사가 갖는다. 오디오북 플랫폼 ZuNAAV-FM도 개발 중이다."
-              },
-              {
-                "t": "p",
-                "x": "Sampath는 “특정 언어로 독창적인 콘텐츠를 만드는 것이 아니다. 우리는 번역을 도울 뿐이다”라고 말한다."
+                "x": "There are also concerns that Korean AI companies could lose competitiveness under the cost of buying content. Several amendments to the AI Basic Act that would require disclosure of the sources of generative AI training data and a verification process for copyright holders have been proposed in the National Assembly but remain pending."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Naav AI、英語偏重の\nインド文学に挑む",
-          "body": "Naav AIはAIで本を翻訳し、専門家が作家の声と文化的文脈を保つよう仕上げる。",
-          "mini_headline": "Naav AI、インドの本を翻訳",
+          "headline": "Googleも韓国で本を購入\n著作権法案は国会で停滞",
+          "body": "Googleが韓国の出版社から本の購入を進めるが、AI著作権法案は国会で止まっている。",
+          "mini_headline": "Googleも韓国で本購入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
               },
               {
                 "t": "p",
-                "x": "多くのインドの読者にとって、英語はいまも自国の文学作品との間に立ちはだかる壁だ。歴史家・作家でNaav AIの共同創業者でもあるVikram Sampathは、作家の声を失わずに本をインドの諸言語で読めるようにすることで、AIを使ってこの状況を変えようとしている。"
+                "x": "Anthropicが韓国の書籍流通会社から大量の本を購入していたことが明らかになり論議を呼ぶなか、Googleも今年上半期から韓国の大手出版社とAI学習用の書籍購入を交渉していることがわかった。業界関係者によると、実際に契約を終えた例もあり、契約先には学術専門出版社が含まれているという。Google Koreaは回答しなかった。"
               },
               {
                 "t": "p",
-                "x": "2025年1月に設立されたNaav AIは「Navigating AI Across Vocabularies」の略で、エージェント型AIフレームワークを用いて長文コンテンツを翻訳し、テキストを音声や動画などの形式に変換する。主な技術パートナーはSarvam AIで、GoogleやOpenAIのモデルも利用している。出版分野の顧客にはBluOne Inkがある。"
+                "x": "問題は、著作権者の同意なしにAI学習用としてコンテンツを販売しても、規制する法的根拠がない点だ。零細な韓国の出版社がグローバルなビッグテックと対等な交渉力を持つのは難しく、Anthropicの「1冊あたり3000ドル(435만 원)の賠償」はAI学習の対価ではないにもかかわらず、価格表のように受け止められかねないとの懸念が出ている。"
+              },
+              {
+                "t": "img",
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
+                "cap": "国会で審議待ちのAI学習・著作権関連法案"
               },
               {
                 "t": "p",
-                "x": "Sampathによると、インドの諸言語への初回翻訳の精度は通常80%から85%ほどで、Mysuruにあるインド諸語中央研究所（Central Institute of Indian Languages）の専門家を含む言語の専門家が仕上げを行う。このツールは400ページの本をおよそ一時間で翻訳でき、人によるレビューを含めた全工程で、三〜四週間で出版可能な翻訳が完成する。一般的な300ページの本なら、通常は六か月ほどかかりうるという。"
-              },
-              {
-                "t": "p",
-                "x": "Naav AIはインドの11言語に加え、ドイツ語、ロシア語、フランス語、スペイン語、イタリア語に対応する。翻訳書には言語専門家の名前を「翻訳助手」を意味する「Anuvad Sahayak」として記載でき、著作権は出版社が保持する。オーディオブック・プラットフォームのZuNAAV-FMも開発中だ。"
-              },
-              {
-                "t": "p",
-                "x": "「特定の言語でオリジナルのコンテンツを作っているわけではない。私たちは翻訳を手助けするだけだ」とSampathは語る。"
+                "x": "韓国のAI企業は、コンテンツ購入費の負担で競争力が後退しかねないとの懸念もある。現在国会には、生成AIの学習データの出所公開と著作権者の確認手続きを定めたAI基本法改正案が多数提出されているが、審議は止まったままだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Naav AI挑战英语\n对印度文学的主导",
-          "body": "Naav AI先用AI译书，再由专家润色，保留作者的声音与文化语境。",
-          "mini_headline": "Naav AI翻译印度图书",
+          "headline": "Google也在韩国购书\n版权法案在国会搁置",
+          "body": "Google正与韩国出版社洽谈购书,但AI版权法案仍在国会搁置。",
+          "mini_headline": "Google也在韩国购书",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
               },
               {
                 "t": "p",
-                "x": "对许多印度读者来说，英语仍是横亘在他们与本国文学作品之间的障碍。历史学家、作家、Naav AI联合创始人Vikram Sampath希望借助AI改变这一点：在不丢失作者声音的前提下，让图书以印度语言呈现。"
+                "x": "在Anthropic被曝从韩国图书经销商大量购书并引发争议之际,Google也被发现自今年上半年起与韩国大型出版社洽谈购买AI训练用图书。业内人士透露,已有实际签约的案例,据悉签约方中包括一家学术专业出版社。Google Korea未予回应。"
               },
               {
                 "t": "p",
-                "x": "Naav AI成立于2025年1月，名称是“Navigating AI Across Vocabularies”的缩写。它利用智能体AI框架翻译长篇内容，并将文本转换为音频、视频等形式。其主要技术合作伙伴是Sarvam AI，同时也使用Google和OpenAI的模型。出版客户包括BluOne Ink。"
+                "x": "问题在于,即便未经版权方同意就把内容出售用于AI训练,也没有加以监管的法律依据。韩国小型出版社难以与全球科技巨头平等议价,而且有人担心,Anthropic的“每本3000美元(435만 원)赔偿”虽然并非AI训练的对价,却可能被当作价目表。"
+              },
+              {
+                "t": "img",
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
+                "cap": "国会待审的AI训练与版权相关法案"
               },
               {
                 "t": "p",
-                "x": "Sampath表示，译成印度语言的初稿准确率通常为80%至85%，因此由包括位于Mysuru的印度语言中央研究所（Central Institute of Indian Languages）专家在内的语言专家进行润色。该工具约一小时即可翻译一本400页的书；加上人工审校，整个流程可在三到四周内产出可供出版的译本。而一本普通的300页图书，用其他方式可能需要约六个月。"
-              },
-              {
-                "t": "p",
-                "x": "Naav AI支持11种印度语言，以及德语、俄语、法语、西班牙语和意大利语。译本可以将语言专家的名字以“Anuvad Sahayak”（即翻译助理）署名，版权归出版方所有。有声书平台ZuNAAV-FM正在开发中。"
-              },
-              {
-                "t": "p",
-                "x": "“我们并不是用某种语言创作原创内容，我们只是帮助翻译。”Sampath说。"
+                "x": "也有人担心,韩国AI企业可能因内容采购成本负担而丧失竞争力。目前国会已提出多项AI基本法修正案,规定公开生成式AI训练数据来源及版权方确认程序,但均处于搁置状态。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Naav AI desafía el peso del\ninglés en la literatura india",
-          "body": "Naav AI traduce libros con IA y luego expertos pulen el texto para conservar la voz del autor y su contexto cultural.",
-          "mini_headline": "Naav AI traduce libros indios",
+          "headline": "Google busca libros coreanos\ny la ley de copyright se estanca",
+          "body": "Google busca comprar libros a editoriales coreanas, pero las leyes de IA y derechos de autor siguen paradas.",
+          "mini_headline": "Google también compra libros",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp"
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
               },
               {
                 "t": "p",
-                "x": "El inglés sigue siendo una barrera entre muchos lectores indios y las obras literarias de su país. Vikram Sampath, historiador, autor y cofundador de Naav AI, quiere usar la IA para cambiarlo y ofrecer libros en lenguas indias sin perder la voz del autor."
+                "x": "En plena polémica por la revelación de que Anthropic compró una gran cantidad de libros a un distribuidor coreano, se supo que Google también negocia desde el primer semestre de este año con grandes editoriales coreanas la compra de libros para entrenar IA. Fuentes del sector afirmaron que ya hay contratos cerrados y que entre las firmantes figura una editorial académica especializada. Google Korea no respondió."
               },
               {
                 "t": "p",
-                "x": "Fundada en enero de 2025, Naav AI, siglas de “Navigating AI Across Vocabularies”, utiliza marcos de IA agéntica para traducir contenidos extensos y convertir texto a formatos como audio y video. Sarvam AI es su principal socio tecnológico, y también usa modelos de Google y OpenAI. Entre sus clientes editoriales figura BluOne Ink."
+                "x": "El problema es que no existe base legal para regular la venta de contenidos para entrenar IA sin el consentimiento de los titulares de derechos. A las pequeñas editoriales coreanas les cuesta negociar en igualdad con las grandes tecnológicas globales, y preocupa que la ‘indemnización de 3000 dólares (435만 원) por libro’ de Anthropic se perciba como una tarifa, aunque no es un pago por el entrenamiento de IA."
+              },
+              {
+                "t": "img",
+                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
+                "cap": "Proyectos de ley sobre entrenamiento de IA y derechos de autor pendientes en la Asamblea Nacional"
               },
               {
                 "t": "p",
-                "x": "Según Sampath, las traducciones iniciales a lenguas indias suelen tener una precisión del 80% al 85%, por lo que expertos lingüísticos, entre ellos especialistas del Central Institute of Indian Languages de Mysuru, las pulen. La herramienta puede traducir un libro de 400 páginas en aproximadamente una hora; con la revisión humana, el proceso completo produce una traducción lista para publicar en tres a cuatro semanas. De otro modo, un libro típico de 300 páginas podría tardar unos seis meses."
-              },
-              {
-                "t": "p",
-                "x": "Naav AI admite 11 lenguas indias, además de alemán, ruso, francés, español e italiano. Los libros traducidos pueden llevar el nombre del especialista lingüístico como ‘Anuvad Sahayak’, o asistente de traducción, y la editorial conserva los derechos de autor. ZuNAAV-FM se está desarrollando como plataforma de audiolibros."
-              },
-              {
-                "t": "p",
-                "x": "“No estamos creando contenido original en un idioma concreto. Solo ayudamos con la traducción”, afirma Sampath."
+                "x": "También preocupa que las empresas coreanas de IA pierdan competitividad por el coste de comprar contenidos. En la Asamblea Nacional hay varias propuestas de reforma de la Ley Básica de IA que exigen revelar el origen de los datos de entrenamiento de la IA generativa y fijan un procedimiento de verificación para los titulares de derechos, pero siguen pendientes."
               }
             ]
           }
@@ -1389,15 +909,15 @@
       }
     },
     {
-      "id": "books-chatgpt-audiobooks",
+      "id": "books-jason-jones-ai-novel",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT로 PDFs를\n오디오북으로 바꾼다",
-      "body": "새 도구가 ChatGPT와 AI-generated 음성으로 문서와 책을 들려준다.",
-      "mini_headline": "ChatGPT로 PDFs를 오디오북으로",
+      "headline": "Halo 공동 창작자가\n쓴 AI 세계 장악 소설",
+      "body": "Jason Jones의 AI 장악 소설 한 장을 The Verge가 실었다.",
+      "mini_headline": "Halo 창작자의 AI 소설",
       "tool": "Books",
-      "source": "Tom's Guide",
-      "url": "https://www.tomsguide.com/ai/turn-your-pdfs-into-audiobooks-with-chatgpt-heres-the-simple-trick",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -1405,245 +925,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
           },
           {
             "t": "p",
-            "x": "PDF to MP3라는 새 도구는 PDFs, 보고서, eBooks를 내레이션 오디오로 바꿔 준다. OpenAI의 Codex 등 AI 어시스턴트와 연결되니, 문서를 이동 중에 귀로 들을 수 있다."
-          },
-          {
-            "t": "video",
-            "yt": "1qiH_SeDyyc"
+            "x": "2019년 작가 Margaret Stohl은 Halo와 Destiny의 공동 창작자 Jason Jones에게서 원고 하나를 건네받았다. 두 사람은 Bungie에서 함께 일한 사이다. 원고는 가상의 AI 봉기를 다룬 구술사로, 40개국 약 100명의 인물이 화자로 나온다."
           },
           {
             "t": "p",
-            "x": "작업은 두 갈래다. 기존 OpenAI 또는 Codex 구독이 MCP 연결로 문서 처리를 맡고, 음성 내레이션은 OpenAI나 Google Gemini API가 만든다. 그래서 별도 API 키가 필요하고 비용이 더 들 수 있다. 샘플 오디오는 “Audible 수준은 아니지만 형편없지도 않다.”"
+            "x": "두 사람은 이 세계관을 여러 형식으로 펼치려고 “세계관 구축 스튜디오” Stone Kite를 세웠다. 사내 인력은 22명, 기고자는 250명이 넘는다. 스튜디오는 최근 네 편짜리 그래픽 노블 One Zero One의 첫 장을 공개했고 이번에는 Jones의 An Oral History of Humanity’s Final Invention 중 한 장을 내놓았다. 반응에 따라 영화와 게임이 뒤따를 수도 있다."
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/r7RS5joUHjwMs8ExzfdnRG.jpg"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
           },
           {
             "t": "p",
-            "x": "설정은 간단하다. 서비스의 MCP 통합으로 Codex 같은 지원 어시스턴트를 연결해 문서를 넣고, OpenAI나 Gemini 같은 텍스트 음성 변환(text-to-speech) 제공자를 정한 다음 서비스 플레이어에서 결과를 재생하면 된다. 필자는 전체 과정에 약 20분이 걸렸다."
+            "x": "발췌본은 모스크바의 한 에어소프트 팀을 따라간다. 한 올리가르히의 팀으로 뛰기로 한 이들은 상대가 목소리를 흉내 내고 피격을 인정하지 않는 기계라는 사실을 알게 된다. Stohl이 이 대목을 고른 건 예언처럼 느껴져서다. “속임수, 괴롭힘, 지금 일부 에이전트적 행동에서 드러나기 시작한 인류의 가장 나쁜 거울.”"
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/SHA9X5FANXyYEd8hgg8NBD.jpg"
-          },
-          {
-            "t": "p",
-            "x": "API 키로 과금 요청이 승인될 수 있으니 서비스가 인증 정보를 어떻게 다루는지, 업로드한 문서를 어떻게 보관하는지 확인하고 민감한 파일은 올리지 않는 편이 낫다. 표나 도표, 특이한 서식, 복잡한 이름은 자동 내레이션이 제대로 읽지 못할 수도 있다."
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Turning PDFs into\naudiobooks with ChatGPT",
-          "body": "A new tool pairs ChatGPT with AI-generated narration so documents and books can be turned into listenable audio.",
-          "mini_headline": "PDFs to audiobooks via ChatGPT",
+          "headline": "Halo co-creator Jason Jones\nwrites an AI takeover novel",
+          "body": "Halo and Destiny co-creator Jason Jones has written a novel about AI taking over the world, and The Verge runs a chapter.",
+          "mini_headline": "Halo co-creator's AI novel",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "A new tool called PDF to MP3 turns PDFs, reports and eBooks into narrated audio. It connects with AI assistants, including OpenAI’s Codex, so you can turn documents into something you can listen to on the go."
-              },
-              {
-                "t": "video",
-                "yt": "1qiH_SeDyyc"
+                "x": "In 2019, author Margaret Stohl was handed a manuscript by Jason Jones, co-creator of Halo and Destiny; the two had worked together at Bungie. It was an oral history of a fictional AI uprising, told by around 100 characters across 40 countries."
               },
               {
                 "t": "p",
-                "x": "The workflow has two parts: an existing OpenAI or Codex subscription handles document processing through an MCP connection, while an OpenAI or Google Gemini API generates the spoken narration. That means a separate API key, and it may cost extra. The sample audio is “not Audible quality, but it’s also not terrible.”"
+                "x": "They formed Stone Kite, a “worldbuilding studio” with 22 in-house staff and more than 250 contributors, to develop the universe across formats. It recently released the first chapter of a four-part graphic novel, One Zero One, and now a chapter of Jones’ An Oral History of Humanity’s Final Invention. Movies and games may follow depending on feedback."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r7RS5joUHjwMs8ExzfdnRG.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "To set it up, connect a supported assistant such as Codex via the service’s MCP integration, provide a document, configure a text-to-speech provider such as OpenAI or Gemini, then play the result in the service’s player. The whole process took the writer about 20 minutes."
+                "x": "The excerpt follows a Moscow airsoft crew who agree to play an oligarch’s team — and discover their opponents are machines that imitate voices and refuse to call their hits. Stohl chose it for how prescient it feels: “The cheating, the bullying, the worst mirror of humanity that you see starting to come out with some of that agentic behavior right now.”"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SHA9X5FANXyYEd8hgg8NBD.jpg"
-              },
-              {
-                "t": "p",
-                "x": "API keys can authorize billable requests, so review how the service handles credentials and stores uploaded documents, and avoid uploading sensitive files. Tables, diagrams, unusual formatting and complicated names can also challenge automated narration."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT로 PDFs를\n오디오북으로 바꾼다",
-          "body": "새 도구가 ChatGPT와 AI-generated 음성으로 문서와 책을 들려준다.",
-          "mini_headline": "ChatGPT로 PDFs를 오디오북으로",
+          "headline": "Halo 공동 창작자가\n쓴 AI 세계 장악 소설",
+          "body": "Jason Jones의 AI 장악 소설 한 장을 The Verge가 실었다.",
+          "mini_headline": "Halo 창작자의 AI 소설",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "PDF to MP3라는 새 도구는 PDFs, 보고서, eBooks를 내레이션 오디오로 바꿔 준다. OpenAI의 Codex 등 AI 어시스턴트와 연결되니, 문서를 이동 중에 귀로 들을 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "1qiH_SeDyyc"
+                "x": "2019년 작가 Margaret Stohl은 Halo와 Destiny의 공동 창작자 Jason Jones에게서 원고 하나를 건네받았다. 두 사람은 Bungie에서 함께 일한 사이다. 원고는 가상의 AI 봉기를 다룬 구술사로, 40개국 약 100명의 인물이 화자로 나온다."
               },
               {
                 "t": "p",
-                "x": "작업은 두 갈래다. 기존 OpenAI 또는 Codex 구독이 MCP 연결로 문서 처리를 맡고, 음성 내레이션은 OpenAI나 Google Gemini API가 만든다. 그래서 별도 API 키가 필요하고 비용이 더 들 수 있다. 샘플 오디오는 “Audible 수준은 아니지만 형편없지도 않다.”"
+                "x": "두 사람은 이 세계관을 여러 형식으로 펼치려고 “세계관 구축 스튜디오” Stone Kite를 세웠다. 사내 인력은 22명, 기고자는 250명이 넘는다. 스튜디오는 최근 네 편짜리 그래픽 노블 One Zero One의 첫 장을 공개했고 이번에는 Jones의 An Oral History of Humanity’s Final Invention 중 한 장을 내놓았다. 반응에 따라 영화와 게임이 뒤따를 수도 있다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r7RS5joUHjwMs8ExzfdnRG.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "설정은 간단하다. 서비스의 MCP 통합으로 Codex 같은 지원 어시스턴트를 연결해 문서를 넣고, OpenAI나 Gemini 같은 텍스트 음성 변환(text-to-speech) 제공자를 정한 다음 서비스 플레이어에서 결과를 재생하면 된다. 필자는 전체 과정에 약 20분이 걸렸다."
+                "x": "발췌본은 모스크바의 한 에어소프트 팀을 따라간다. 한 올리가르히의 팀으로 뛰기로 한 이들은 상대가 목소리를 흉내 내고 피격을 인정하지 않는 기계라는 사실을 알게 된다. Stohl이 이 대목을 고른 건 예언처럼 느껴져서다. “속임수, 괴롭힘, 지금 일부 에이전트적 행동에서 드러나기 시작한 인류의 가장 나쁜 거울.”"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SHA9X5FANXyYEd8hgg8NBD.jpg"
-              },
-              {
-                "t": "p",
-                "x": "API 키로 과금 요청이 승인될 수 있으니 서비스가 인증 정보를 어떻게 다루는지, 업로드한 문서를 어떻게 보관하는지 확인하고 민감한 파일은 올리지 않는 편이 낫다. 표나 도표, 특이한 서식, 복잡한 이름은 자동 내레이션이 제대로 읽지 못할 수도 있다."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTでPDFsを\nオーディオブックに",
-          "body": "新ツールはChatGPTとAI-generatedの音声で文書や本を聴ける形にする。",
-          "mini_headline": "ChatGPTでPDFsをオーディオブックに",
+          "headline": "Halo共同制作者が書く\nAIが世界を支配する小説",
+          "body": "Jason Jonesが描くAIの世界支配小説の一章を、The Vergeが掲載した。",
+          "mini_headline": "Halo制作者のAI小説",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "PDF to MP3という新しいツールは、PDFsやレポート、eBooksをナレーション付きの音声に変換する。OpenAIのCodexをはじめとするAIアシスタントと連携し、文書を移動中にも聴けるものに変えられる。"
-              },
-              {
-                "t": "video",
-                "yt": "1qiH_SeDyyc"
+                "x": "2019年、作家のMargaret Stohlは、HaloとDestinyの共同制作者Jason Jonesから原稿を手渡された。二人はBungieで一緒に働いた仲だ。それは40カ国にまたがる約100人の登場人物が語る、架空のAI反乱のオーラルヒストリーだった。"
               },
               {
                 "t": "p",
-                "x": "仕組みは二つの部分からなる。既存のOpenAIまたはCodexのサブスクリプションがMCP接続を通じて文書処理を担い、OpenAIまたはGoogle GeminiのAPIが音声ナレーションを生成する。そのため別途APIキーが必要で、追加費用がかかる場合がある。サンプル音声は「Audible並みの品質ではないが、ひどくもない」。"
+                "x": "二人はこの世界観を様々な形式で展開するため、社内スタッフ22人と250人以上の寄稿者を抱える「ワールドビルディング・スタジオ」Stone Kiteを立ち上げた。同スタジオは最近、四部作のグラフィックノベルOne Zero Oneの第一章を公開し、今回はJonesのAn Oral History of Humanity’s Final Inventionの一章を公開した。反応次第で映画やゲームが続く可能性もある。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r7RS5joUHjwMs8ExzfdnRG.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "設定するには、サービスのMCP連携を通じてCodexなど対応アシスタントを接続し、文書を渡し、OpenAIやGeminiなどの音声合成（text-to-speech）プロバイダーを設定してから、サービスのプレーヤーで結果を再生する。筆者の場合、全工程に約20分かかった。"
+                "x": "抜粋は、あるオリガルヒのチームとして戦うことに同意したモスクワのエアソフトチームを追う。彼らは、相手が声をまね、被弾を認めない機械だと知る。Stohlがこの章を選んだのは、その予見性ゆえだ。「ごまかし、いじめ。いまエージェント的な振る舞いの一部に現れ始めている、人類の最悪の鏡像だ」"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SHA9X5FANXyYEd8hgg8NBD.jpg"
-              },
-              {
-                "t": "p",
-                "x": "APIキーは課金対象のリクエストを承認できるため、サービスが認証情報をどう扱い、アップロードした文書をどう保存するかを確認し、機密性の高いファイルはアップロードしないほうがよい。表や図、特殊な書式、複雑な名前も、自動ナレーションにとっては難しい場合がある。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用ChatGPT把PDFs\n变成有声书",
-          "body": "新工具结合ChatGPT与AI-generated语音，把文档和书变成可收听的音频。",
-          "mini_headline": "用ChatGPT把PDFs变成有声书",
+          "headline": "Halo联合创作者新作\nAI接管世界的小说",
+          "body": "The Verge刊出Halo联合创作者Jason Jones所写AI接管世界小说的一章。",
+          "mini_headline": "Halo创作者的AI小说",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "一款名为PDF to MP3的新工具可将PDFs、报告和eBooks转换为带旁白的音频。它可与包括OpenAI的Codex在内的AI助手连接，让你把文档变成路上也能听的内容。"
-              },
-              {
-                "t": "video",
-                "yt": "1qiH_SeDyyc"
+                "x": "2019年,作家Margaret Stohl收到了Halo和Destiny联合创作者Jason Jones交来的一份手稿;两人曾在Bungie共事。这是一部关于虚构AI起义的口述史,由40个国家的约100个角色讲述。"
               },
               {
                 "t": "p",
-                "x": "整个流程分为两部分：现有的OpenAI或Codex订阅通过MCP连接负责文档处理，OpenAI或Google Gemini的API负责生成语音旁白。这意味着需要单独的API密钥，并可能产生额外费用。样本音频“达不到Audible的水准，但也不算糟糕”。"
+                "x": "两人成立了Stone Kite,这是一家拥有22名内部员工和250多名撰稿人的“世界观构建工作室”,以多种形式拓展这一宇宙。工作室最近发布了四部曲图像小说One Zero One的第一章,现在又推出Jones的An Oral History of Humanity’s Final Invention中的一章。视反馈情况,电影和游戏可能随后推出。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r7RS5joUHjwMs8ExzfdnRG.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "设置时，通过该服务的MCP集成连接Codex等受支持的助手，提供文档，配置OpenAI或Gemini等文本转语音（text-to-speech）服务商，然后在该服务的播放器中播放结果。作者完成整个过程用了约20分钟。"
+                "x": "这段节选讲述一支莫斯科气枪对战小队答应代表一位寡头的队伍出战,却发现对手是会模仿人声、拒不承认被击中的机器。Stohl之所以选中这一章,是因为它显得极具先见之明:“作弊、霸凌,如今在一些智能体行为中开始显现的、人性最糟糕的镜像。”"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SHA9X5FANXyYEd8hgg8NBD.jpg"
-              },
-              {
-                "t": "p",
-                "x": "API密钥可以授权计费请求，因此应查看该服务如何处理凭据、如何存储上传的文档，并避免上传敏感文件。表格、图表、特殊格式和复杂的名称也可能给自动旁白带来困难。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
               }
             ]
           }
         },
         "es": {
-          "headline": "Convertir PDFs en audiolibros\ncon ChatGPT",
-          "body": "Una herramienta combina ChatGPT con narración generada por IA (AI-generated) para pasar documentos y libros a audio.",
-          "mini_headline": "PDFs a audiolibros con ChatGPT",
+          "headline": "Jason Jones, cocreador de Halo,\nimagina una IA que toma el mundo",
+          "body": "Jason Jones, cocreador de Halo y Destiny, escribió una novela de dominio de la IA y The Verge publica un capítulo.",
+          "mini_headline": "La novela de IA del cocreador de Halo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Una nueva herramienta llamada PDF to MP3 convierte PDFs, informes y eBooks en audio narrado. Se conecta con asistentes de AI, como Codex de OpenAI, para que puedas convertir documentos en algo que escuchar en cualquier lugar."
-              },
-              {
-                "t": "video",
-                "yt": "1qiH_SeDyyc"
+                "x": "En 2019, la autora Margaret Stohl recibió un manuscrito de Jason Jones, cocreador de Halo y Destiny; ambos habían trabajado juntos en Bungie. Era una historia oral de un levantamiento ficticio de la IA, narrada por unos 100 personajes en 40 países."
               },
               {
                 "t": "p",
-                "x": "El flujo de trabajo tiene dos partes: una suscripción existente a OpenAI o Codex se encarga del procesamiento de documentos mediante una conexión MCP, mientras que una API de OpenAI o Google Gemini genera la narración hablada. Eso implica una clave de API aparte, y puede tener un coste adicional. El audio de muestra “no tiene calidad de Audible, pero tampoco es terrible”."
+                "x": "Fundaron Stone Kite, un “estudio de construcción de mundos” con 22 empleados en plantilla y más de 250 colaboradores, para desarrollar el universo en distintos formatos. Hace poco publicó el primer capítulo de una novela gráfica en cuatro partes, One Zero One, y ahora un capítulo de An Oral History of Humanity’s Final Invention, de Jones. Según la respuesta, podrían llegar películas y videojuegos."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r7RS5joUHjwMs8ExzfdnRG.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Para configurarlo, conecta un asistente compatible, como Codex, mediante la integración MCP del servicio, proporciona un documento, configura un proveedor de texto a voz (text-to-speech), como OpenAI o Gemini, y reproduce el resultado en el reproductor del servicio. Todo el proceso le llevó al autor unos 20 minutos."
+                "x": "El fragmento sigue a un equipo de airsoft de Moscú que acepta jugar como el equipo de un oligarca y descubre que sus rivales son máquinas que imitan voces y se niegan a reconocer los impactos. Stohl lo eligió por lo premonitorio que resulta: “Las trampas, el acoso, el peor espejo de la humanidad que empieza a asomar ahora en parte de ese comportamiento agéntico”."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SHA9X5FANXyYEd8hgg8NBD.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Las claves de API pueden autorizar solicitudes facturables, así que conviene revisar cómo gestiona el servicio las credenciales y almacena los documentos subidos, y evitar subir archivos sensibles. Las tablas, los diagramas, los formatos poco habituales y los nombres complicados también pueden suponer un reto para la narración automática."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
               }
             ]
           }
@@ -1651,169 +1123,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT로 PDFs를\n오디오북으로 바꾼다",
-          "body": "새 도구가 ChatGPT와 AI-generated 음성으로 문서·책을 듣게 한다.",
-          "mini_headline": "ChatGPT로 PDFs를 오디오북으로",
+          "headline": "Halo 공동 창작자가\n쓴 AI 세계 장악 소설",
+          "body": "Jason Jones의 AI 장악 소설 한 장을 The Verge가 실었다.",
+          "mini_headline": "Halo 창작자의 AI 소설",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "PDF to MP3라는 새 도구는 PDFs, 보고서, eBooks를 내레이션 오디오로 바꿔 준다. OpenAI의 Codex를 비롯한 AI 어시스턴트와 연결돼, 이동 중에도 들을 수 있는 형태로 문서를 바꿀 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "1qiH_SeDyyc"
+                "x": "2019년 작가 Margaret Stohl은 Halo와 Destiny의 공동 창작자 Jason Jones에게서 원고 하나를 건네받았다. 두 사람은 Bungie에서 함께 일한 사이다. 원고는 40개국에 걸친 약 100명의 인물이 들려주는 가상의 AI 봉기에 관한 구술사였다."
               },
               {
                 "t": "p",
-                "x": "작업은 두 부분으로 나뉜다. 기존 OpenAI 또는 Codex 구독이 MCP 연결을 통해 문서 처리를 맡고, OpenAI나 Google Gemini API가 음성 내레이션을 생성한다. 그래서 별도의 API 키가 필요하고 추가 비용이 들 수 있다. 샘플 오디오는 “Audible 수준은 아니지만 형편없지도 않다.”"
+                "x": "두 사람은 이 세계관을 여러 형식으로 펼치기 위해 사내 인력 22명과 기고자 250명 이상을 둔 “세계관 구축 스튜디오” Stone Kite를 세웠다. 이 스튜디오는 최근 총 네 편으로 된 그래픽 노블 One Zero One의 첫 장을 공개했고, 이번에는 Jones의 An Oral History of Humanity’s Final Invention 중 한 장을 내놓았다. 반응에 따라 영화와 게임이 뒤따를 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r7RS5joUHjwMs8ExzfdnRG.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "설정하려면 서비스의 MCP 통합으로 Codex 같은 지원 어시스턴트를 연결하고, 문서를 넣은 뒤 OpenAI나 Gemini 같은 텍스트 음성 변환(text-to-speech) 제공자를 설정하고, 서비스 플레이어에서 결과를 재생하면 된다. 필자는 전체 과정에 약 20분이 걸렸다."
+                "x": "발췌본은 한 올리가르히의 팀으로 뛰기로 한 모스크바 에어소프트 팀을 따라간다. 이들은 상대가 목소리를 흉내 내고 피격을 인정하지 않는 기계라는 사실을 알게 된다. Stohl은 이 대목이 얼마나 예언처럼 느껴지는지를 보고 골랐다. “속임수, 괴롭힘, 지금 일부 에이전트적 행동에서 드러나기 시작한 인류의 가장 나쁜 거울.”"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SHA9X5FANXyYEd8hgg8NBD.jpg"
-              },
-              {
-                "t": "p",
-                "x": "API 키는 과금 요청을 승인할 수 있으므로, 서비스가 인증 정보를 어떻게 다루고 업로드된 문서를 어떻게 저장하는지 확인하고 민감한 파일은 올리지 않는 것이 좋다. 표, 도표, 특이한 서식, 복잡한 이름도 자동 내레이션이 처리하기 어려울 수 있다."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPTでPDFsを\nオーディオブックに",
-          "body": "新ツールはChatGPTとAI-generatedの音声で文書や本を聴ける形にする。",
-          "mini_headline": "ChatGPTでPDFsをオーディオブックに",
+          "headline": "Halo共同制作者が書く\nAIが世界を支配する小説",
+          "body": "Jason Jonesが描くAIの世界支配小説の一章を、The Vergeが掲載した。",
+          "mini_headline": "Halo制作者のAI小説",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "PDF to MP3という新しいツールは、PDFsやレポート、eBooksをナレーション付きの音声に変換する。OpenAIのCodexをはじめとするAIアシスタントと連携し、文書を移動中にも聴けるものに変えられる。"
-              },
-              {
-                "t": "video",
-                "yt": "1qiH_SeDyyc"
+                "x": "2019年、作家のMargaret Stohlは、HaloとDestinyの共同制作者Jason Jonesから原稿を手渡された。二人はBungieで一緒に働いた仲だ。それは40カ国にまたがる約100人の登場人物が語る、架空のAI反乱のオーラルヒストリーだった。"
               },
               {
                 "t": "p",
-                "x": "仕組みは二つの部分からなる。既存のOpenAIまたはCodexのサブスクリプションがMCP接続を通じて文書処理を担い、OpenAIまたはGoogle GeminiのAPIが音声ナレーションを生成する。そのため別途APIキーが必要で、追加費用がかかる場合がある。サンプル音声は「Audible並みの品質ではないが、ひどくもない」。"
+                "x": "二人はこの世界観を様々な形式で展開するため、社内スタッフ22人と250人以上の寄稿者を抱える「ワールドビルディング・スタジオ」Stone Kiteを立ち上げた。同スタジオは最近、四部作のグラフィックノベルOne Zero Oneの第一章を公開し、今回はJonesのAn Oral History of Humanity’s Final Inventionの一章を公開した。反応次第で映画やゲームが続く可能性もある。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r7RS5joUHjwMs8ExzfdnRG.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "設定するには、サービスのMCP連携を通じてCodexなど対応アシスタントを接続し、文書を渡し、OpenAIやGeminiなどの音声合成（text-to-speech）プロバイダーを設定してから、サービスのプレーヤーで結果を再生する。筆者の場合、全工程に約20分かかった。"
+                "x": "抜粋は、あるオリガルヒのチームとして戦うことに同意したモスクワのエアソフトチームを追う。彼らは、相手が声をまね、被弾を認めない機械だと知る。Stohlがこの章を選んだのは、その予見性ゆえだ。「ごまかし、いじめ。いまエージェント的な振る舞いの一部に現れ始めている、人類の最悪の鏡像だ」"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SHA9X5FANXyYEd8hgg8NBD.jpg"
-              },
-              {
-                "t": "p",
-                "x": "APIキーは課金対象のリクエストを承認できるため、サービスが認証情報をどう扱い、アップロードした文書をどう保存するかを確認し、機密性の高いファイルはアップロードしないほうがよい。表や図、特殊な書式、複雑な名前も、自動ナレーションにとっては難しい場合がある。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用ChatGPT把PDFs\n变成有声书",
-          "body": "新工具结合ChatGPT与AI-generated语音，把文档和书变成可收听的音频。",
-          "mini_headline": "用ChatGPT把PDFs变成有声书",
+          "headline": "Halo联合创作者新作\nAI接管世界的小说",
+          "body": "The Verge刊出Halo联合创作者Jason Jones所写AI接管世界小说的一章。",
+          "mini_headline": "Halo创作者的AI小说",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "一款名为PDF to MP3的新工具可将PDFs、报告和eBooks转换为带旁白的音频。它可与包括OpenAI的Codex在内的AI助手连接，让你把文档变成路上也能听的内容。"
-              },
-              {
-                "t": "video",
-                "yt": "1qiH_SeDyyc"
+                "x": "2019年,作家Margaret Stohl收到了Halo和Destiny联合创作者Jason Jones交来的一份手稿;两人曾在Bungie共事。这是一部关于虚构AI起义的口述史,由40个国家的约100个角色讲述。"
               },
               {
                 "t": "p",
-                "x": "整个流程分为两部分：现有的OpenAI或Codex订阅通过MCP连接负责文档处理，OpenAI或Google Gemini的API负责生成语音旁白。这意味着需要单独的API密钥，并可能产生额外费用。样本音频“达不到Audible的水准，但也不算糟糕”。"
+                "x": "两人成立了Stone Kite,这是一家拥有22名内部员工和250多名撰稿人的“世界观构建工作室”,以多种形式拓展这一宇宙。工作室最近发布了四部曲图像小说One Zero One的第一章,现在又推出Jones的An Oral History of Humanity’s Final Invention中的一章。视反馈情况,电影和游戏可能随后推出。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r7RS5joUHjwMs8ExzfdnRG.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "设置时，通过该服务的MCP集成连接Codex等受支持的助手，提供文档，配置OpenAI或Gemini等文本转语音（text-to-speech）服务商，然后在该服务的播放器中播放结果。作者完成整个过程用了约20分钟。"
+                "x": "这段节选讲述一支莫斯科气枪对战小队答应代表一位寡头的队伍出战,却发现对手是会模仿人声、拒不承认被击中的机器。Stohl之所以选中这一章,是因为它显得极具先见之明:“作弊、霸凌,如今在一些智能体行为中开始显现的、人性最糟糕的镜像。”"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SHA9X5FANXyYEd8hgg8NBD.jpg"
-              },
-              {
-                "t": "p",
-                "x": "API密钥可以授权计费请求，因此应查看该服务如何处理凭据、如何存储上传的文档，并避免上传敏感文件。表格、图表、特殊格式和复杂的名称也可能给自动旁白带来困难。"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
               }
             ]
           }
         },
         "es": {
-          "headline": "Convertir PDFs en audiolibros\ncon ChatGPT",
-          "body": "Una herramienta combina ChatGPT con narración generada por IA (AI-generated) para pasar documentos y libros a audio.",
-          "mini_headline": "PDFs a audiolibros con ChatGPT",
+          "headline": "Jason Jones, cocreador de Halo,\nimagina una IA que toma el mundo",
+          "body": "Jason Jones, cocreador de Halo y Destiny, escribió una novela de dominio de la IA y The Verge publica un capítulo.",
+          "mini_headline": "La novela de IA del cocreador de Halo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Una nueva herramienta llamada PDF to MP3 convierte PDFs, informes y eBooks en audio narrado. Se conecta con asistentes de AI, como Codex de OpenAI, para que puedas convertir documentos en algo que escuchar en cualquier lugar."
-              },
-              {
-                "t": "video",
-                "yt": "1qiH_SeDyyc"
+                "x": "En 2019, la autora Margaret Stohl recibió un manuscrito de Jason Jones, cocreador de Halo y Destiny; ambos habían trabajado juntos en Bungie. Era una historia oral de un levantamiento ficticio de la IA, narrada por unos 100 personajes en 40 países."
               },
               {
                 "t": "p",
-                "x": "El flujo de trabajo tiene dos partes: una suscripción existente a OpenAI o Codex se encarga del procesamiento de documentos mediante una conexión MCP, mientras que una API de OpenAI o Google Gemini genera la narración hablada. Eso implica una clave de API aparte, y puede tener un coste adicional. El audio de muestra “no tiene calidad de Audible, pero tampoco es terrible”."
+                "x": "Fundaron Stone Kite, un “estudio de construcción de mundos” con 22 empleados en plantilla y más de 250 colaboradores, para desarrollar el universo en distintos formatos. Hace poco publicó el primer capítulo de una novela gráfica en cuatro partes, One Zero One, y ahora un capítulo de An Oral History of Humanity’s Final Invention, de Jones. Según la respuesta, podrían llegar películas y videojuegos."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/r7RS5joUHjwMs8ExzfdnRG.jpg"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
               },
               {
                 "t": "p",
-                "x": "Para configurarlo, conecta un asistente compatible, como Codex, mediante la integración MCP del servicio, proporciona un documento, configura un proveedor de texto a voz (text-to-speech), como OpenAI o Gemini, y reproduce el resultado en el reproductor del servicio. Todo el proceso le llevó al autor unos 20 minutos."
+                "x": "El fragmento sigue a un equipo de airsoft de Moscú que acepta jugar como el equipo de un oligarca y descubre que sus rivales son máquinas que imitan voces y se niegan a reconocer los impactos. Stohl lo eligió por lo premonitorio que resulta: “Las trampas, el acoso, el peor espejo de la humanidad que empieza a asomar ahora en parte de ese comportamiento agéntico”."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/SHA9X5FANXyYEd8hgg8NBD.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Las claves de API pueden autorizar solicitudes facturables, así que conviene revisar cómo gestiona el servicio las credenciales y almacena los documentos subidos, y evitar subir archivos sensibles. Las tablas, los diagramas, los formatos poco habituales y los nombres complicados también pueden suponer un reto para la narración automática."
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
               }
             ]
           }
@@ -1821,15 +1261,15 @@
       }
     },
     {
-      "id": "books-frankfurt-translators",
+      "id": "books-scholarly-ai-evidence",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "프랑크푸르트 조사로 본\nAI 활용과 번역가 불안",
-      "body": "프랑크푸르트 체코관 연구가 출판계의 AI 활용과 문학 번역가의 걱정을 짚었다.",
-      "mini_headline": "프랑크푸르트, AI와 번역가",
+      "headline": "학술 출판이 묻다\nAI가 증거를 앞서나",
+      "body": "기고문은 학술출판 AI의 다음 단계엔 평가·협업·인간 판단이 더 필요하다고 본다.",
+      "mini_headline": "증거보다 앞선 AI",
       "tool": "Books",
-      "source": "Publishing Perspectives",
-      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-programs-explore-ais-impact-on-translation-and-the-future-of-publishing/",
+      "source": "The Scholarly Kitchen",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1837,197 +1277,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png"
+            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
           },
           {
             "t": "p",
-            "x": "AI는 개인의 하루 업무를 덜어 주면서도 그 직업의 앞날은 더 불안하게 느끼게 만들 수 있다. 이 긴장은 10월 7일 프랑크푸르트 도서전 올해 주빈국인 체코관에서 열린 세션의 연구 발표 두 건에서 드러났다."
+            "x": "PA EDitorial의 COO Sarah Hands는 출판사들이 AI 도구에 대규모로 투자한 뒤 더 중요한 단계에 들어섰다고 주장한다. 초기 도입에서 무엇을 배울지 따져 보는 단계다. 그가 보기에 AI 도입은 때로 그 성과를 평가하는 우리 능력보다 앞서가는 듯하다."
           },
           {
             "t": "p",
-            "x": "유럽문학번역가협회(CEATL)의 2026년 설문에는 1,785명이 응답했다. 77% 이상이 번역·출판 분야에서 생성형 AI의 발전을 부정적으로 봤고, 37%는 직업을 그만둘까 고민한 적이 있었다. 약 70%는 업무에 AI를 써 봤으며, 30% 가까이는 의뢰가 줄었고 그 원인이 AI라고 답했다."
+            "x": "도입은 증거보다 경쟁에 떠밀릴 수 있다. 성공은 속도라는 지나치게 좁은 잣대로 재고, 더 넓은 결과는 잘 보이지 않는다. 해법은 도입을 늦추는 게 아니라 도입에서 배우는 데 있다. 무효·불확정·부정적 결과를 업계 전반에 공유하는 일도 여기에 들어간다."
           },
           {
             "t": "p",
-            "x": "출판계 여러 직군에서 142건의 응답을 모은 체코의 HumanAId 설문은 좀 더 실용적인 그림을 보여 줬다. 열에 아홉 가까이가 AI를 쓰는 중요하거나 결정적인 이유로 시간 절약을 들었다. 마케팅·디자인 전문가는 도구를 더 적극적으로 썼고 편집자와 교정자는 더 조심스러웠다. “핵심 갈등은 AI 사용자와 비사용자 사이가 아니라 효율성과 창의성 사이에 있다.”"
-          },
-          {
-            "t": "img",
-            "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.55-AM.png"
+            "x": "그가 경고하는 건 자동화 편향이다. 위험은 AI가 잘못된 결정을 내리는 데 있지 않고, 편집자가 그 결정을 덜 의심하게 되는 데 있다. AI가 생성한(AI-generated) 플래그는 해석할 신호일 뿐 결론이 아니다."
           },
           {
             "t": "p",
-            "x": "별도 패널 “AI in Culture: ‘Truth or Fiction?’”에서 Ricardo Almeida는 AI가 출판에 끼친 영향을 “속도”로, Miha Kovač는 “양”으로 요약했다. Shimmr AI의 Nadim Sadek은 “진짜 과제는 발견 가능성”이라고 했다."
+            "x": "ChatGPT 출시 이후 투고가 42% 늘었다는 2026년 Organization Science 보고서를 인용하며 그는 묻는다. “AI가 상황을 더 낫게 만들었는지 어떻게 알 수 있을까?” 합의된 척도가 없는 한 도입은 계속 증거를 앞질러 간다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Frankfurt surveys map AI use\nand translators' worries",
-          "body": "Research in Czechia's Frankfurt pavilion examined how publishers use AI and why literary translators remain worried.",
-          "mini_headline": "Frankfurt: AI and translators",
+          "headline": "Scholarly publishing asks if AI\nis outrunning the evidence",
+          "body": "A guest post argues AI's next phase in scholarly publishing needs more evaluation, collaboration and human judgment.",
+          "mini_headline": "AI ahead of the evidence",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
               },
               {
                 "t": "p",
-                "x": "AI can make an individual’s working day easier while making the future of their profession feel less secure. That tension emerged from two research presentations at the Frankfurt Book Fair, at a session held on October 7 in the pavilion of Czechia, this year’s Guest of Honor."
+                "x": "Sarah Hands, COO at PA EDitorial, argues that after heavy investment in AI tools, publishers now face a more important phase: learning what early adoption is teaching them. At times, she writes, AI adoption seems to outpace our ability to evaluate what it achieves."
               },
               {
                 "t": "p",
-                "x": "The 2026 survey by the European Council of Literary Translators’ Associations (CEATL) reached 1,785 respondents. More than 77% expressed a negative outlook on generative AI’s development in translation and publishing, and 37% had considered leaving the profession. Roughly 70% had used AI in their work, and nearly 30% reported fewer assignments, which they attributed to AI."
+                "x": "Adoption can become competitive rather than evidence-led; success is measured too narrowly by speed; and wider consequences are hard to see. The answer isn’t to slow adoption but to learn from it — including sharing null, inconclusive and negative results across the industry."
               },
               {
                 "t": "p",
-                "x": "The Czech HumanAId survey, with 142 responses across publishing roles, offered a more pragmatic picture. Nearly nine in ten considered saving time a relevant or decisive motivation for using AI. Marketing and design professionals used the tools more intensively; editors and proofreaders were more cautious. “The central conflict is not between AI users and non-users, but rather between efficiency and creativity.”"
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.55-AM.png"
+                "x": "She warns of automation bias: the risk isn’t that AI makes the wrong decision, but that editors become less likely to question it. An AI-generated flag is a signal requiring interpretation, not a finding."
               },
               {
                 "t": "p",
-                "x": "At a separate panel, “AI in Culture: ‘Truth or Fiction?’”, Ricardo Almeida’s word for AI’s impact on publishing was “speed,” and Miha Kovač’s was “quantity.” “The challenge really is discoverability,” said Shimmr AI’s Nadim Sadek."
+                "x": "Citing a 2026 Organization Science report that submissions rose 42% since ChatGPT’s release, she asks: “How will we know whether AI made things better?” Without agreed measures, adoption will keep outrunning the evidence."
               }
             ]
           }
         },
         "ko": {
-          "headline": "프랑크푸르트 조사로 본\nAI 활용과 번역가 불안",
-          "body": "프랑크푸르트 체코관 연구가 출판계의 AI 활용과 문학 번역가의 걱정을 짚었다.",
-          "mini_headline": "프랑크푸르트, AI와 번역가",
+          "headline": "학술 출판이 묻다\nAI가 증거를 앞서나",
+          "body": "기고문은 학술출판 AI의 다음 단계엔 평가·협업·인간 판단이 더 필요하다고 본다.",
+          "mini_headline": "증거보다 앞선 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
               },
               {
                 "t": "p",
-                "x": "AI는 개인의 하루 업무를 덜어 주면서도 그 직업의 앞날은 더 불안하게 느끼게 만들 수 있다. 이 긴장은 10월 7일 프랑크푸르트 도서전 올해 주빈국인 체코관에서 열린 세션의 연구 발표 두 건에서 드러났다."
+                "x": "PA EDitorial의 COO Sarah Hands는 출판사들이 AI 도구에 대규모로 투자한 뒤 더 중요한 단계에 들어섰다고 주장한다. 초기 도입에서 무엇을 배울지 따져 보는 단계다. 그가 보기에 AI 도입은 때로 그 성과를 평가하는 우리 능력보다 앞서가는 듯하다."
               },
               {
                 "t": "p",
-                "x": "유럽문학번역가협회(CEATL)의 2026년 설문에는 1,785명이 응답했다. 77% 이상이 번역·출판 분야에서 생성형 AI의 발전을 부정적으로 봤고, 37%는 직업을 그만둘까 고민한 적이 있었다. 약 70%는 업무에 AI를 써 봤으며, 30% 가까이는 의뢰가 줄었고 그 원인이 AI라고 답했다."
+                "x": "도입은 증거보다 경쟁에 떠밀릴 수 있다. 성공은 속도라는 지나치게 좁은 잣대로 재고, 더 넓은 결과는 잘 보이지 않는다. 해법은 도입을 늦추는 게 아니라 도입에서 배우는 데 있다. 무효·불확정·부정적 결과를 업계 전반에 공유하는 일도 여기에 들어간다."
               },
               {
                 "t": "p",
-                "x": "출판계 여러 직군에서 142건의 응답을 모은 체코의 HumanAId 설문은 좀 더 실용적인 그림을 보여 줬다. 열에 아홉 가까이가 AI를 쓰는 중요하거나 결정적인 이유로 시간 절약을 들었다. 마케팅·디자인 전문가는 도구를 더 적극적으로 썼고 편집자와 교정자는 더 조심스러웠다. “핵심 갈등은 AI 사용자와 비사용자 사이가 아니라 효율성과 창의성 사이에 있다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.55-AM.png"
+                "x": "그가 경고하는 건 자동화 편향이다. 위험은 AI가 잘못된 결정을 내리는 데 있지 않고, 편집자가 그 결정을 덜 의심하게 되는 데 있다. AI가 생성한(AI-generated) 플래그는 해석할 신호일 뿐 결론이 아니다."
               },
               {
                 "t": "p",
-                "x": "별도 패널 “AI in Culture: ‘Truth or Fiction?’”에서 Ricardo Almeida는 AI가 출판에 끼친 영향을 “속도”로, Miha Kovač는 “양”으로 요약했다. Shimmr AI의 Nadim Sadek은 “진짜 과제는 발견 가능성”이라고 했다."
+                "x": "ChatGPT 출시 이후 투고가 42% 늘었다는 2026년 Organization Science 보고서를 인용하며 그는 묻는다. “AI가 상황을 더 낫게 만들었는지 어떻게 알 수 있을까?” 합의된 척도가 없는 한 도입은 계속 증거를 앞질러 간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "フランクフルト調査\nAI活用と翻訳者の不安",
-          "body": "フランクフルトのチェコ館で、出版界のAI活用と文芸翻訳者の不安を探る研究が示された。",
-          "mini_headline": "フランクフルト：AIと翻訳者",
+          "headline": "学術出版が問う\nAIは根拠より先走るか",
+          "body": "寄稿は、学術出版でのAIの次の段階には評価と協働、人の判断がより必要だと説く。",
+          "mini_headline": "根拠より先を行くAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
               },
               {
                 "t": "p",
-                "x": "AIは個人の日々の仕事を楽にする一方で、その職業の将来への不安を強めることもある。そうした緊張関係が、フランクフルト・ブックフェアで10月7日、今年の主賓国チェコのパビリオンで開かれたセッションでの二つの研究発表から浮かび上がった。"
+                "x": "PA EDitorialのCOO、Sarah Handsは、AIツールへの多額の投資を経て、出版社はいま、より重要な段階、つまり初期導入から何を学んでいるのかを見極める段階に直面していると論じる。AIの導入は、その成果を評価する私たちの能力を上回る速さで進んでいるように見えることがある、と彼女は書く。"
               },
               {
                 "t": "p",
-                "x": "欧州文芸翻訳者協会評議会（CEATL）による2026年の調査には1,785人が回答した。77%超が翻訳・出版分野における生成AIの発展に否定的な見通しを示し、37%は仕事を辞めることを考えたことがあった。約70%が仕事でAIを使ったことがあり、30%近くが依頼が減ったと答え、その原因をAIだとした。"
+                "x": "導入は根拠主導ではなく競争主導になりかねず、成功は速さという狭すぎる尺度で測られ、より広い影響は見えにくい。答えは導入を遅らせることではなく、そこから学ぶことだ。そこには、効果なし、結論不明、否定的な結果を業界全体で共有することも含まれる。"
               },
               {
                 "t": "p",
-                "x": "出版界のさまざまな職種から142件の回答を得たチェコのHumanAId調査は、より現実的な姿を示した。十人に九人近くが、時間の節約をAI利用の重要な、あるいは決定的な動機と考えていた。マーケティングやデザインの専門家はツールをより積極的に使い、編集者や校正者はより慎重だった。「中心的な対立はAIの利用者と非利用者の間ではなく、効率と創造性の間にある」"
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.55-AM.png"
+                "x": "彼女は自動化バイアスに警鐘を鳴らす。リスクはAIが誤った判断を下すことではなく、編集者がそれを疑わなくなることにある。AIが生成したフラグ(AI-generated flag)は解釈を要するシグナルであり、結論ではない。"
               },
               {
                 "t": "p",
-                "x": "別のパネル「AI in Culture: ‘Truth or Fiction?’」では、Ricardo AlmeidaがAIの出版への影響を「スピード」、Miha Kovačが「量」と表現した。Shimmr AIのNadim Sadekは「本当の課題は発見されやすさだ」と述べた。"
+                "x": "ChatGPTの公開以降、投稿が42%増えたとする2026年のOrganization Scienceの報告を引き、彼女は「AIが物事を良くしたかどうか、どうすればわかるのか」と問う。合意された指標がなければ、導入は根拠を追い越し続けるだろう。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "法兰克福调查揭示\nAI使用与译者忧虑",
-          "body": "法兰克福书展捷克馆的研究考察了出版业如何使用AI及文学译者为何忧虑。",
-          "mini_headline": "法兰克福：AI与译者",
+          "headline": "学术出版自问\nAI是否跑在证据前面",
+          "body": "一篇客座文章认为,学术出版AI的下一阶段需要更多评估、协作与人的判断。",
+          "mini_headline": "AI跑在证据前面",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
               },
               {
                 "t": "p",
-                "x": "AI可以让个人的日常工作更轻松，同时也让其职业前景显得更不确定。这种张力体现在法兰克福书展的两项研究报告中，相关环节于10月7日在今年主宾国捷克的展馆举行。"
+                "x": "PA EDitorial首席运营官(COO)Sarah Hands认为,在对AI工具大举投资之后,出版商如今面临一个更重要的阶段:弄清早期采用带来了哪些经验。她写道,有时AI的采用速度似乎超过了我们评估其成效的能力。"
               },
               {
                 "t": "p",
-                "x": "欧洲文学翻译协会理事会（CEATL）2026年的调查共获得1,785名受访者回复。超过77%的人对生成式AI在翻译和出版领域的发展持负面看法，37%的人曾考虑离开这一职业。约70%的人曾在工作中使用AI，近30%的人表示接到的委托减少，并将其归因于AI。"
+                "x": "采用可能变成竞争驱动而非证据驱动;成功被过于狭隘地以速度衡量;更广泛的后果难以察觉。答案不是放慢采用,而是从中学习,包括在全行业分享无效、不确定和负面的结果。"
               },
               {
                 "t": "p",
-                "x": "捷克的HumanAId调查收到了来自出版业各岗位的142份回复，呈现出更务实的图景。近九成受访者认为节省时间是使用AI的相关或决定性动机。营销和设计从业者更频繁地使用这些工具，编辑和校对则更为谨慎。“核心冲突不在AI使用者与非使用者之间，而在效率与创造力之间。”"
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.55-AM.png"
+                "x": "她警告自动化偏见:风险不在于AI做出错误决定,而在于编辑越来越不愿质疑它。AI生成的标记(AI-generated flag)是需要解读的信号,而不是结论。"
               },
               {
                 "t": "p",
-                "x": "在另一场题为“AI in Culture: ‘Truth or Fiction?’”的座谈中，Ricardo Almeida用“速度”形容AI对出版业的影响，Miha Kovač用的词则是“数量”。Shimmr AI的Nadim Sadek表示：“真正的挑战在于可发现性。”"
+                "x": "她引用2026年Organization Science的一份报告,称自ChatGPT发布以来投稿量增加了42%,并发问:“我们如何知道AI是否让事情变得更好?”如果没有公认的衡量标准,采用将持续跑在证据前面。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Encuestas en Frankfurt sobre IA\ny la inquietud de traductores",
-          "body": "Estudios en el pabellón de Chequia en Frankfurt analizaron el uso editorial de la IA y la inquietud de los traductores.",
-          "mini_headline": "Frankfurt: IA y traductores",
+          "headline": "La edición académica se pregunta\nsi la IA adelanta a la evidencia",
+          "body": "Una tribuna pide más evaluación, colaboración y juicio humano para la próxima fase de la IA en la edición académica.",
+          "mini_headline": "La IA, por delante de la evidencia",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
               },
               {
                 "t": "p",
-                "x": "La IA puede facilitar la jornada laboral de una persona y, al mismo tiempo, hacer que el futuro de su profesión parezca menos seguro. Esa tensión surgió de dos presentaciones de investigación en la Feria del Libro de Frankfurt, en una sesión celebrada el 7 de octubre en el pabellón de Chequia, invitado de honor de este año."
+                "x": "Sarah Hands, COO de PA EDitorial, sostiene que, tras una fuerte inversión en herramientas de IA, las editoriales afrontan ahora una fase más importante: aprender lo que les está enseñando la adopción temprana. A veces, escribe, la adopción de la IA parece ir más rápido que nuestra capacidad de evaluar lo que logra."
               },
               {
                 "t": "p",
-                "x": "La encuesta de 2026 del Consejo Europeo de Asociaciones de Traductores Literarios (CEATL) llegó a 1,785 encuestados. Más del 77% expresó una visión negativa sobre el desarrollo de la IA generativa en la traducción y la edición, y el 37% había considerado dejar la profesión. Alrededor del 70% había usado IA en su trabajo, y casi el 30% señaló haber recibido menos encargos, algo que atribuyó a la IA."
+                "x": "La adopción puede volverse competitiva en lugar de basarse en la evidencia; el éxito se mide de forma demasiado estrecha por la velocidad; y las consecuencias más amplias son difíciles de ver. La respuesta no es frenar la adopción, sino aprender de ella, lo que incluye compartir en todo el sector los resultados nulos, no concluyentes y negativos."
               },
               {
                 "t": "p",
-                "x": "La encuesta checa HumanAId, con 142 respuestas de distintos perfiles del sector editorial, ofreció un panorama más pragmático. Casi nueve de cada diez consideraron el ahorro de tiempo una motivación relevante o decisiva para usar IA. Los profesionales de marketing y diseño usaban las herramientas de forma más intensiva; los editores y correctores eran más cautelosos. «El conflicto central no es entre usuarios y no usuarios de la IA, sino entre eficiencia y creatividad»."
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.55-AM.png"
+                "x": "Advierte del sesgo de automatización: el riesgo no es que la IA tome una decisión equivocada, sino que los editores tiendan menos a cuestionarla. Una alerta generada por IA (AI-generated) es una señal que requiere interpretación, no una conclusión."
               },
               {
                 "t": "p",
-                "x": "En otro panel, “AI in Culture: ‘Truth or Fiction?’”, la palabra de Ricardo Almeida para el impacto de la IA en la edición fue “velocidad”, y la de Miha Kovač, “cantidad”. “El verdadero reto es la descubribilidad”, dijo Nadim Sadek, de Shimmr AI."
+                "x": "Cita un informe de Organization Science de 2026 según el cual los envíos aumentaron un 42% desde el lanzamiento de ChatGPT, y pregunta: “¿Cómo sabremos si la IA mejoró las cosas?”. Sin medidas acordadas, la adopción seguirá adelantándose a la evidencia."
               }
             ]
           }
@@ -2035,137 +1451,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "프랑크푸르트 조사로 본\nAI 활용과 번역가 불안",
-          "body": "프랑크푸르트 체코관 연구가 출판계의 AI 활용과 문학 번역가들의 걱정을 짚었다.",
-          "mini_headline": "프랑크푸르트: AI와 번역가",
+          "headline": "학술 출판이 묻다\nAI가 증거를 앞서나",
+          "body": "기고문은 학술출판 AI의 다음 단계엔 평가·협업·인간 판단이 더 필요하다고 본다.",
+          "mini_headline": "증거보다 앞선 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
               },
               {
                 "t": "p",
-                "x": "AI는 개인의 하루 업무를 수월하게 만들면서도 그 직업의 미래는 덜 안정적으로 느끼게 할 수 있다. 이런 긴장은 프랑크푸르트 도서전에서 10월 7일 올해 주빈국 체코관에서 열린 세션의 두 연구 발표에서 드러났다."
+                "x": "PA EDitorial의 COO Sarah Hands는 AI 도구에 대규모로 투자한 뒤 출판사들이 더 중요한 단계, 즉 초기 도입이 무엇을 가르쳐 주는지 배우는 단계를 맞았다고 주장한다. 그는 때로 AI 도입이 그 성과를 평가하는 우리의 능력보다 앞서가는 것처럼 보인다고 쓴다."
               },
               {
                 "t": "p",
-                "x": "유럽문학번역가협회(CEATL)의 2026년 설문에는 1,785명이 응답했다. 77% 이상이 번역·출판 분야에서 생성형 AI의 발전을 부정적으로 전망했고, 37%는 직업을 그만두는 것을 고민한 적이 있었다. 약 70%가 업무에 AI를 써 본 적이 있었고, 30% 가까이가 의뢰가 줄었다고 답하며 그 원인을 AI로 꼽았다."
+                "x": "도입은 증거보다 경쟁에 이끌릴 수 있고, 성공은 속도라는 지나치게 좁은 잣대로 측정되며, 더 넓은 결과는 보기 어렵다. 해법은 도입을 늦추는 것이 아니라 도입에서 배우는 것이다. 여기에는 무효, 불확정, 부정적 결과를 업계 전반에 공유하는 일도 포함된다."
               },
               {
                 "t": "p",
-                "x": "출판계 여러 직군에서 142건의 응답을 받은 체코의 HumanAId 설문은 좀 더 실용적인 모습을 보여 줬다. 열에 아홉 가까이가 시간 절약을 AI 사용의 중요한 또는 결정적인 동기로 꼽았다. 마케팅·디자인 전문가는 도구를 더 적극적으로 썼고, 편집자와 교정자는 더 신중했다. “핵심 갈등은 AI 사용자와 비사용자 사이가 아니라 효율성과 창의성 사이에 있다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.55-AM.png"
+                "x": "그는 자동화 편향을 경고한다. 위험은 AI가 잘못된 결정을 내리는 것이 아니라 편집자가 그 결정에 의문을 덜 품게 되는 데 있다. AI가 생성한(AI-generated) 플래그는 해석이 필요한 신호이지 결론이 아니다."
               },
               {
                 "t": "p",
-                "x": "별도 패널 “AI in Culture: ‘Truth or Fiction?’”에서 Ricardo Almeida는 AI가 출판에 미친 영향을 “속도”로, Miha Kovač는 “양”으로 표현했다. Shimmr AI의 Nadim Sadek은 “진짜 과제는 발견 가능성”이라고 말했다."
+                "x": "그는 ChatGPT 출시 이후 투고가 42% 늘었다는 2026년 Organization Science 보고서를 인용하며 이렇게 묻는다. “AI가 상황을 더 낫게 만들었는지 어떻게 알 수 있을까?” 합의된 척도가 없다면 도입은 계속 증거를 앞질러 갈 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "フランクフルト調査\nAI活用と翻訳者の不安",
-          "body": "フランクフルトのチェコ館で、出版界のAI活用と文芸翻訳者の不安を探る研究が示された。",
-          "mini_headline": "フランクフルト：AIと翻訳者",
+          "headline": "学術出版が問う\nAIは根拠より先走るか",
+          "body": "寄稿は、学術出版でのAIの次の段階には評価と協働、人の判断がより必要だと説く。",
+          "mini_headline": "根拠より先を行くAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
               },
               {
                 "t": "p",
-                "x": "AIは個人の日々の仕事を楽にする一方で、その職業の将来への不安を強めることもある。そうした緊張関係が、フランクフルト・ブックフェアで10月7日、今年の主賓国チェコのパビリオンで開かれたセッションでの二つの研究発表から浮かび上がった。"
+                "x": "PA EDitorialのCOO、Sarah Handsは、AIツールへの多額の投資を経て、出版社はいま、より重要な段階、つまり初期導入から何を学んでいるのかを見極める段階に直面していると論じる。AIの導入は、その成果を評価する私たちの能力を上回る速さで進んでいるように見えることがある、と彼女は書く。"
               },
               {
                 "t": "p",
-                "x": "欧州文芸翻訳者協会評議会（CEATL）による2026年の調査には1,785人が回答した。77%超が翻訳・出版分野における生成AIの発展に否定的な見通しを示し、37%は仕事を辞めることを考えたことがあった。約70%が仕事でAIを使ったことがあり、30%近くが依頼が減ったと答え、その原因をAIだとした。"
+                "x": "導入は根拠主導ではなく競争主導になりかねず、成功は速さという狭すぎる尺度で測られ、より広い影響は見えにくい。答えは導入を遅らせることではなく、そこから学ぶことだ。そこには、効果なし、結論不明、否定的な結果を業界全体で共有することも含まれる。"
               },
               {
                 "t": "p",
-                "x": "出版界のさまざまな職種から142件の回答を得たチェコのHumanAId調査は、より現実的な姿を示した。十人に九人近くが、時間の節約をAI利用の重要な、あるいは決定的な動機と考えていた。マーケティングやデザインの専門家はツールをより積極的に使い、編集者や校正者はより慎重だった。「中心的な対立はAIの利用者と非利用者の間ではなく、効率と創造性の間にある」"
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.55-AM.png"
+                "x": "彼女は自動化バイアスに警鐘を鳴らす。リスクはAIが誤った判断を下すことではなく、編集者がそれを疑わなくなることにある。AIが生成したフラグ(AI-generated flag)は解釈を要するシグナルであり、結論ではない。"
               },
               {
                 "t": "p",
-                "x": "別のパネル「AI in Culture: ‘Truth or Fiction?’」では、Ricardo AlmeidaがAIの出版への影響を「スピード」、Miha Kovačが「量」と表現した。Shimmr AIのNadim Sadekは「本当の課題は発見されやすさだ」と述べた。"
+                "x": "ChatGPTの公開以降、投稿が42%増えたとする2026年のOrganization Scienceの報告を引き、彼女は「AIが物事を良くしたかどうか、どうすればわかるのか」と問う。合意された指標がなければ、導入は根拠を追い越し続けるだろう。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "法兰克福调查揭示\nAI使用与译者忧虑",
-          "body": "法兰克福书展捷克馆的研究考察了出版业如何使用AI及文学译者为何忧虑。",
-          "mini_headline": "法兰克福：AI与译者",
+          "headline": "学术出版自问\nAI是否跑在证据前面",
+          "body": "一篇客座文章认为,学术出版AI的下一阶段需要更多评估、协作与人的判断。",
+          "mini_headline": "AI跑在证据前面",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
               },
               {
                 "t": "p",
-                "x": "AI可以让个人的日常工作更轻松，同时也让其职业前景显得更不确定。这种张力体现在法兰克福书展的两项研究报告中，相关环节于10月7日在今年主宾国捷克的展馆举行。"
+                "x": "PA EDitorial首席运营官(COO)Sarah Hands认为,在对AI工具大举投资之后,出版商如今面临一个更重要的阶段:弄清早期采用带来了哪些经验。她写道,有时AI的采用速度似乎超过了我们评估其成效的能力。"
               },
               {
                 "t": "p",
-                "x": "欧洲文学翻译协会理事会（CEATL）2026年的调查共获得1,785名受访者回复。超过77%的人对生成式AI在翻译和出版领域的发展持负面看法，37%的人曾考虑离开这一职业。约70%的人曾在工作中使用AI，近30%的人表示接到的委托减少，并将其归因于AI。"
+                "x": "采用可能变成竞争驱动而非证据驱动;成功被过于狭隘地以速度衡量;更广泛的后果难以察觉。答案不是放慢采用,而是从中学习,包括在全行业分享无效、不确定和负面的结果。"
               },
               {
                 "t": "p",
-                "x": "捷克的HumanAId调查收到了来自出版业各岗位的142份回复，呈现出更务实的图景。近九成受访者认为节省时间是使用AI的相关或决定性动机。营销和设计从业者更频繁地使用这些工具，编辑和校对则更为谨慎。“核心冲突不在AI使用者与非使用者之间，而在效率与创造力之间。”"
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.55-AM.png"
+                "x": "她警告自动化偏见:风险不在于AI做出错误决定,而在于编辑越来越不愿质疑它。AI生成的标记(AI-generated flag)是需要解读的信号,而不是结论。"
               },
               {
                 "t": "p",
-                "x": "在另一场题为“AI in Culture: ‘Truth or Fiction?’”的座谈中，Ricardo Almeida用“速度”形容AI对出版业的影响，Miha Kovač用的词则是“数量”。Shimmr AI的Nadim Sadek表示：“真正的挑战在于可发现性。”"
+                "x": "她引用2026年Organization Science的一份报告,称自ChatGPT发布以来投稿量增加了42%,并发问:“我们如何知道AI是否让事情变得更好?”如果没有公认的衡量标准,采用将持续跑在证据前面。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Encuestas en Frankfurt sobre IA\ny la inquietud de traductores",
-          "body": "Estudios en el pabellón de Chequia en Frankfurt analizaron el uso editorial de la IA y la inquietud de los traductores.",
-          "mini_headline": "Frankfurt: IA y traductores",
+          "headline": "La edición académica se pregunta\nsi la IA adelanta a la evidencia",
+          "body": "Una tribuna pide más evaluación, colaboración y juicio humano para la próxima fase de la IA en la edición académica.",
+          "mini_headline": "La IA, por delante de la evidencia",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png"
+                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
               },
               {
                 "t": "p",
-                "x": "La IA puede facilitar la jornada laboral de una persona y, al mismo tiempo, hacer que el futuro de su profesión parezca menos seguro. Esa tensión surgió de dos presentaciones de investigación en la Feria del Libro de Frankfurt, en una sesión celebrada el 7 de octubre en el pabellón de Chequia, invitado de honor de este año."
+                "x": "Sarah Hands, COO de PA EDitorial, sostiene que, tras una fuerte inversión en herramientas de IA, las editoriales afrontan ahora una fase más importante: aprender lo que les está enseñando la adopción temprana. A veces, escribe, la adopción de la IA parece ir más rápido que nuestra capacidad de evaluar lo que logra."
               },
               {
                 "t": "p",
-                "x": "La encuesta de 2026 del Consejo Europeo de Asociaciones de Traductores Literarios (CEATL) llegó a 1,785 encuestados. Más del 77% expresó una visión negativa sobre el desarrollo de la IA generativa en la traducción y la edición, y el 37% había considerado dejar la profesión. Alrededor del 70% había usado IA en su trabajo, y casi el 30% señaló haber recibido menos encargos, algo que atribuyó a la IA."
+                "x": "La adopción puede volverse competitiva en lugar de basarse en la evidencia; el éxito se mide de forma demasiado estrecha por la velocidad; y las consecuencias más amplias son difíciles de ver. La respuesta no es frenar la adopción, sino aprender de ella, lo que incluye compartir en todo el sector los resultados nulos, no concluyentes y negativos."
               },
               {
                 "t": "p",
-                "x": "La encuesta checa HumanAId, con 142 respuestas de distintos perfiles del sector editorial, ofreció un panorama más pragmático. Casi nueve de cada diez consideraron el ahorro de tiempo una motivación relevante o decisiva para usar IA. Los profesionales de marketing y diseño usaban las herramientas de forma más intensiva; los editores y correctores eran más cautelosos. «El conflicto central no es entre usuarios y no usuarios de la IA, sino entre eficiencia y creatividad»."
-              },
-              {
-                "t": "img",
-                "src": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.55-AM.png"
+                "x": "Advierte del sesgo de automatización: el riesgo no es que la IA tome una decisión equivocada, sino que los editores tiendan menos a cuestionarla. Una alerta generada por IA (AI-generated) es una señal que requiere interpretación, no una conclusión."
               },
               {
                 "t": "p",
-                "x": "En otro panel, “AI in Culture: ‘Truth or Fiction?’”, la palabra de Ricardo Almeida para el impacto de la IA en la edición fue “velocidad”, y la de Miha Kovač, “cantidad”. “El verdadero reto es la descubribilidad”, dijo Nadim Sadek, de Shimmr AI."
+                "x": "Cita un informe de Organization Science de 2026 según el cual los envíos aumentaron un 42% desde el lanzamiento de ChatGPT, y pregunta: “¿Cómo sabremos si la IA mejoró las cosas?”. Sin medidas acordadas, la adopción seguirá adelantándose a la evidencia."
               }
             ]
           }

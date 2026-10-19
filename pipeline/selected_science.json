@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "science",
   "picks": [
     {
-      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-      "title": "Giving AI a 'crystal clear' view of the materials world",
-      "source": "MIT News",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "source": "MIT Technology Review",
       "category": "science",
-      "published_iso": "2026-10-18T04:00:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg",
-      "excerpt": "MIT researchers built an AI model that pairs 3D atomic structures with natural-language descriptions from papers and databases to identify optimal crystalline materials for target applications.",
+      "published_iso": "2026-10-19T05:08:05-04:00",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+      "excerpt": "In various tests, solo AI agents invented versions of basketball and “the floor is lava.” But were they truly playing?",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Materials slot and the freshest item from a top outlet: a model that ties 3D crystal structures to text from the literature so it can rank materials for a given application."
+      "rationale": "AI behavior slot from a top outlet: left alone with no task, solo agents made up games. That raises a real question about how we define play, and it is a different setup from the 9-22 survival-simulation card."
     },
     {
-      "url": "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
-      "title": "Riverlane and NVIDIA use AI to speed up quantum decoder calibration",
-      "source": "The Quantum Insider",
+      "url": "https://www.livescience.com/technology/robotics/the-worlds-fastest-ai-powered-racing-drone-outflies-the-best-human-drone-pilots",
+      "title": "World's fastest AI-powered racing drone outflies the best human pilots",
+      "source": "Live Science",
       "category": "science",
-      "published_iso": "2026-10-15T09:30:59Z",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png",
-      "excerpt": "Riverlane and NVIDIA are testing AI and GPU acceleration to speed up quantum error-correction decoder calibration as quantum hardware behaviour drifts.",
+      "published_iso": "2026-10-19T16:40:15Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg",
+      "excerpt": "An AI-operated drone learned to fly from scratch and navigated a race course at speeds over 60 mph, using a single camera.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Quantum slot: AI recalibrates error-correction decoders as the hardware drifts. This is a different project from the 10-18 Claude circuit card and the 9-27 Meridian card."
+      "rationale": "Robotics slot: a drone that taught itself to fly with a single camera now beats champion human pilots at over 60 mph. It is a clear, concrete benchmark result."
     },
     {
-      "url": "https://techxplore.com/news/2026-10-languages-chatbot-personality-results.html",
-      "title": "Switching languages can change a chatbot's personality test results",
-      "source": "Tech Xplore",
+      "url": "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html",
+      "title": "'24/7 unmanned synthesis platform' uses robots and light to produce drug candidates",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-18T10:40:01-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg",
-      "excerpt": "USTC researchers gave five chatbots Big Five personality questionnaires in English and Mandarin (one also in French); answers held steady within a language but trait scores shifted in model-specific directions when the language changed.",
+      "published_iso": "2026-10-19T12:00:12-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+      "excerpt": "KAIST chemists paired robotic reagent dispensing with visible-light continuous-flow reactors and inline analytics to convert furans into N-methyl pyrroles, a common drug scaffold. The unattended platform worked on more than 20 compounds and scaled up production.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Psychology slot and the newest item in the pool: Big Five scores for five chatbots stay stable within one language but shift when the language changes, which matters for anyone using LLMs in survey or psychometric research."
+      "rationale": "Chemistry and autonomous-lab slot: an unattended robotic photochemistry platform ran on more than 20 compounds and scaled up. It targets a general drug scaffold, not a specific disease, so it belongs in science rather than medicine."
     },
     {
-      "url": "https://phys.org/news/2026-10-air-deep-uncontrolled-satellites-rocket.html",
-      "title": "Forecasting air drag with deep learning helps predict when uncontrolled satellites and rocket stages fall to Earth",
+      "url": "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html",
+      "title": "AI reads centuries-old handwriting to reveal Britain's vast historic shipping trade",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-16T10:40:12-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
-      "excerpt": "A hybrid of Newtonian orbital mechanics and a neural network that learns how an object's ballistic coefficient changes over time, trained on 11 years of tracking data, kept reentry predictions within their uncertainty windows.",
+      "published_iso": "2026-10-19T12:40:08-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+      "excerpt": "University of Southampton researchers used AI to transcribe about 100,000 pages of handwritten port records, building a database of hundreds of thousands of British voyages from the late 1500s to the mid-1700s.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Space-physics slot: a model that pairs orbital mechanics with a neural network, trained on 11 years of tracking data, keeps reentry forecasts for debris inside their uncertainty windows."
+      "rationale": "History slot: handwriting recognition turned 100,000 pages of port records into a database of British voyages from the 1500s to the 1700s. It is a different project from the 10-03 Napoleon-letter card."
     },
     {
-      "url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
-      "title": "Astronomers want your help finding 'missing' black holes in the Milky Way",
-      "source": "Space.com",
+      "url": "https://techxplore.com/news/2026-10-llms-frivolous-online-content-brain.html",
+      "title": "When LLMs are trained on frivolous online content, they can get brain rot like humans do",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-10-18T12:00:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
-      "excerpt": "A citizen-science project asks volunteers to comb NASA telescope data for hidden black holes, because AI classifiers struggle with stellar flares and pulsations in the light curves.",
+      "published_iso": "2026-10-19T13:40:09-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+      "excerpt": "Texas A&M researchers trained four LLMs on low-quality, attention-grabbing Twitter posts and saw weaker reasoning and memory, more skipped reasoning steps and looser ethical responses. Retraining on higher-quality data did not fully restore performance.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "Astronomy slot: a new citizen-science project launched because AI classifiers miss black-hole signals hidden among stellar flares and pulsations. It shows where people still beat the model."
+      "rationale": "AI-cognition slot: a controlled experiment showed that junk training data weakens model reasoning, and the damage did not fully go away after retraining. The finding matters for anyone thinking about data quality."
     }
   ],
   "dedup": {
     "checks": {
-      "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018": {
+      "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-electronic-ai-materials.html",
+        "nearest": "https://www.livescience.com/technology/artificial-intelligence/ai-agents-resorted-to-crime-and-self-destruction-to-survive-in-a-simulated-world-but-does-this-mean-they-would-do-the-same-in-the-real-world",
         "new_action": ""
       },
-      "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/": {
+      "https://www.livescience.com/technology/robotics/the-worlds-fastest-ai-powered-racing-drone-outflies-the-best-human-drone-pilots": {
         "verdict": "new",
-        "nearest": "https://thequantuminsider.com/2026/09/24/qc-design-meridian-lower-error-rates-quantum-computing/",
+        "nearest": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-languages-chatbot-personality-results.html": {
+      "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html",
+        "nearest": "https://www.eurekalert.org/news-releases/1145149",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-air-deep-uncontrolled-satellites-rocket.html": {
+      "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html": {
         "verdict": "new",
-        "nearest": "https://www.universetoday.com/articles/stanford-engineers-teach-spacecraft-to-dream-their-way-to-the-space-station",
+        "nearest": "https://www.livescience.com/technology/artificial-intelligence/a-kind-of-rosetta-stone-ai-decodes-217-year-old-secret-letter-ordered-by-napoleon",
         "new_action": ""
       },
-      "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way": {
+      "https://techxplore.com/news/2026-10-llms-frivolous-online-content-brain.html": {
         "verdict": "new",
-        "nearest": "https://www.scientificamerican.com/article/amateur-astronomer-harnesses-ai-to-find-a-possible-hidden-exoplanet/",
+        "nearest": "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html",
         "new_action": ""
       }
     },
-    "note": "Pool 20. Dropped as repeats: Phys.org Caltech tipping-point neural operator (likely-repeat, same study as 10-16 EurekAlert 1147991); ScienceDaily AI-consciousness (same study as 10-03 techxplore); ScienceDaily CO2-to-fuel (same study as 10-09 EurekAlert 1146653); Live Science 'AI about to go rogue' (same study as 10-09 techxplore simple math formula); SciAm Claude CRISPR-like DNA pattern (same Anthropic biology discovery as the 9-25 phys.org card, no new release). Cipher check: Nature 'History's long-secret codes are being cracked by amateurs using AI' is a trend feature about cryptographers being flooded with AI-assisted solutions. It overlaps the 10-03 Live Science Napoleon-letter decoding card and reports no new decipherment of its own. nature.com is also an excluded domain in sources.json, so it was dropped. Safety skips: Google Research VERID autonomous wet labs (tripped the safety classifier in the 10-17 run, not reused); DeepMind Antigravity antimicrobial peptide search (treatment framing, but it is biosecurity-adjacent, has no og_image and is too close to the classifier line; no organism-enhancement content in any pick). Skipped on score or scope: Tech Xplore LLM double standard (close to the 10-10 cognition card, and Tech Xplore already holds a slot); Tech Xplore AI agents' artificial language (outlet cap, ranked lower); Quantum Insider FirstQFM (second quantum item from the same outlet); GEN Danaher-Nvidia (industry partnership); SciAm Navier-Stokes (commentary on an earlier claim); Dong-A Science KAIST drug synthesis and iNaturalist fake mantis (outlet not in the science allowed_domains; KAIST also sits on the drug-discovery boundary with medicine). No clinical items picked. Outlets: MIT News, The Quantum Insider, Tech Xplore, Phys.org, Space.com (5 distinct, 1 each). No shared URLs; accents distinct."
+    "note": "Dropped as repeats of published stories: MIT News S2S weather (same story as phys.org 10-15 card), Google Earth AI geospatial agents (same Earth AI line as the 10-07 card), Live Science rogue-AI formula (same as techxplore 10-09), ScienceDaily AI consciousness (same as techxplore 10-03), ScienceDaily CO2-to-fuel (same as eurekalert 10-09), SciAm Claude CRISPR-like DNA (Anthropic's biology discovery, already published 09-25 via phys.org; no new release, and bio-adjacent). Held back as uncertain: Quanta quasi-Riemann AI proof. It is tagged 'related' to the Live Science 10-02 Riemann/Claude card and may be the same result, and I could not verify that without a fetch. Dropped on scope: GEN Danaher-Nvidia (business partnership), KAIST smartphone stress and the Curtin chatbot mental-health framework (health-leaning and weak). Ranked below the picks: MIT TR Cammarata interview (commentary on a blog post, and TR already has a pick), Google wet-lab agents (overlaps the autonomous-lab slot taken by the KAIST synthesis platform), Science News math-human essay (commentary in an AI-math run already covered heavily). Outlets: TR 1, Live Science 1, Phys.org 2, Tech Xplore 1."
   }
 }

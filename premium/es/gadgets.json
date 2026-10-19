@@ -8635,6 +8635,135 @@
           "x": "Algunos comentaristas recordaron la crisis de GPU causada por la minería de criptomonedas, pero Tom's Hardware lo ve poco probable: la PS5 no tiene la GPU más rápida ni la mayor cantidad de RAM."
         }
       ]
+    },
+    "gadgets/gadgets-ai-dumb-smart-tv": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+          "cap": "Image Credits: Google"
+        },
+        {
+          "t": "p",
+          "x": "Desarrolladores y vibe coders comparten formas de hacer \"vibe-code\" en smart TVs: eliminar anuncios patrocinados, acelerar los launchers, rediseñar las pantallas de inicio y desactivar el rastreo, como el reconocimiento automático de contenido (ACR)."
+        },
+        {
+          "t": "p",
+          "x": "Gathin T., creador de \"cleanyourtv\", hizo que Claude Code eliminara 25 paquetes de Xiaomi de la TV de sus padres por Wi-Fi y creara un nuevo launcher. Unos pocos miles de personas lo repitieron en dos días. No requiere root y se puede restablecer a los valores de fábrica."
+        },
+        {
+          "t": "p",
+          "x": "\"dumbtv\", de Muzzammil Yasin Sabuwala, se ha probado en Fire TV, Sony, TCL, Philips, Hisense, Xiaomi y Shield. Los usuarios solo tienen que dirigir su agente de AI al repositorio de GitHub. Otros, como Ryan Doyle, simplemente pidieron a Claude Code que hackeara el listado de su TV."
+        },
+        {
+          "t": "p",
+          "x": "Los resultados varían: algunas instrucciones fueron rechazadas, los agentes pueden desactivar paquetes importantes y un usuario dijo que dejó inservible un Android TV. Una adopción amplia podría amenazar a la industria publicitaria de las smart TV."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel11-magic-capture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Magic Capture en el Pixel 11 usa modelos Gemini para analizar unos 400 fotogramas de video y guardar los mejores como fotos. Graba hasta dos minutos, siempre devuelve cinco fotos y envía las imágenes a la nube para mejorarlas."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "En el Phoenix Zoo, en un día nublado, captó a la perfección a un jaguar gruñendo y a un perrito de las praderas bien encuadrado."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "En un concierto con poca luz y desde más atrás, decepcionó. En el Pixel 11 básico, Magic Capture limita el zoom a 4x en el teleobjetivo de 10.8MP, graba en 1080p a 30fps y recorta los fotogramas, lo que deja tomas borrosas y con grano."
+        },
+        {
+          "t": "p",
+          "x": "Funciona mejor con la cámara principal y buena luz. Para conciertos, el autor recomienda el Pixel 11 Pro o el Pro XL, con su teleobjetivo periscópico de 48MP."
+        }
+      ]
+    },
+    "gadgets/gadgets-homeview-robot-arm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Apple acaba de anunciar su esperada pantalla para el hogar inteligente, HomeView, que cuesta $299. Dicho esto, el producto llevaba bastante tiempo en desarrollo, frenado por todos los retrasos en el desarrollo de un Siri más inteligente."
+        },
+        {
+          "t": "p",
+          "x": "Ahora que está a la venta, a algunos clientes les preocupa tener que mover el HomeView ellos mismos si está en una mesa rodeada de varias personas. Según el boletín Power On, puede que Apple no tarde mucho en tener una solución."
+        },
+        {
+          "t": "p",
+          "x": "Según Mark Gurman, de Bloomberg, un HomeView mejorado, con el nombre en clave J595, está previsto para 2027 o 2028. Se parece al HomeView actual, pero tiene una pantalla de unas 9 pulgadas (frente a 7) y un brazo robótico motorizado que permite girar la pantalla 360 grados completos. Mediante reconocimiento de voz, está diseñado para identificar quién habla y girarse hacia esa persona."
+        },
+        {
+          "t": "p",
+          "x": "No sustituirá al HomeView, sino que será un modelo de gama más alta dentro de la línea. Así que no conviene esperar el mismo precio de $299."
+        }
+      ]
+    },
+    "gadgets/gadgets-repair-robot-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "El laboratorio de datos de AI HUMXN subvencionará fontanería, electricidad, HVAC, limpieza de conductos de aire y limpieza de alfombras, de modo que los propietarios reciben el servicio gratis a cambio de dejar trabajar en sus casas a técnicos con \"tecnología de captura portátil\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Los robots necesitan entender cómo interactúan las personas cualificadas con el mundo físico\", dijo el fundador, Thomas Unise. En un laboratorio cuesta captar el movimiento natural, así que las grabaciones abarcan distintos hogares, equipos, problemas y técnicos, desde el diagnóstico hasta la elección de herramientas y la comprobación de que el trabajo está terminado."
+        },
+        {
+          "t": "p",
+          "x": "Los profesionales del servicio siguen cobrando. El programa arranca en Minneapolis, Chicago y Miami, elegidas por sus climas distintos. Tom's Hardware considera refrescante que se pague por los datos de entrenamiento, después de que laboratorios como Meta, Nvidia y OpenAI fueran acusados de apropiarse de datos."
+        }
+      ]
+    },
+    "gadgets/gadgets-qwen-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mientras Meta domina la conversación sobre gafas inteligentes en Estados Unidos (U.S.), en China todo gira en torno a Alibaba. El gigante del comercio electrónico ya tiene varias generaciones de gafas inteligentes, y su modelo más reciente empieza a sacar una ventaja considerable a los de Meta, al menos en lo tecnológico."
+        },
+        {
+          "t": "p",
+          "x": "Según Alibaba, las Qwen Glasses N1, de $490 (3,499 RMB), incorporan un sensor de cámara de 50 megapíxeles. Incluso las Ray-Ban Meta más recientes (Gen 3) solo tienen un sensor de 12 megapíxeles. Alibaba también promete 25 horas de batería en reposo y nueve horas de reproducción de música; las gafas Ray-Ban más recientes ofrecen un máximo de nueve horas con una sola carga en uso mixto."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
+          "cap": "Las gafas inteligentes Ray-Ban más recientes (en la imagen) se quedan atrás frente a las de Alibaba en varios aspectos. © Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "Las N1 también añaden funciones que Meta no tiene: una diminuta cámara de seguimiento ocular de 1.7mm permite que la IA de las gafas entienda exactamente qué estás mirando y, según se informa, puede escanear el iris para confirmar pagos con Alipay. Un sensor en el puente registra la temperatura. Gizmodo no ha probado las gafas, pero sobre el papel están un paso por encima de lo que se vende en Estados Unidos (U.S.)."
+        }
+      ]
     }
   }
 }

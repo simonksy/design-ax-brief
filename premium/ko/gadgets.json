@@ -13856,6 +13856,135 @@
           "x": "댓글에는 암호화폐 채굴 때 벌어진 GPU 품귀를 떠올리는 반응도 있었다. Tom's Hardware는 그럴 가능성이 낮다고 본다. PS5의 GPU는 가장 빠르지도 않고, RAM이 가장 많지도 않다."
         }
       ]
+    },
+    "gadgets/gadgets-ai-dumb-smart-tv": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+          "cap": "Image Credits: Google"
+        },
+        {
+          "t": "p",
+          "x": "개발자와 vibe coders가 스마트 TVs를 \"vibe-code\"하는 방법을 공유한다. 스폰서 광고 제거, 런처 속도 개선, 홈 화면 재디자인, 자동 콘텐츠 인식(ACR) 같은 추적 기능 끄기까지 다양하다."
+        },
+        {
+          "t": "p",
+          "x": "\"cleanyourtv\" 제작자 Gathin T.는 Claude Code로 부모님 TV에서 Wi-Fi로 Xiaomi 패키지 25개를 지우고 새 런처를 만들었다. 이틀 만에 수천 명이 따라 했다. root 권한은 필요 없다. 공장 초기화하면 원래대로 돌아간다."
+        },
+        {
+          "t": "p",
+          "x": "Muzzammil Yasin Sabuwala가 만든 \"dumbtv\"는 Fire TV, Sony, TCL, Philips, Hisense, Xiaomi, Shield에서 테스트를 마쳤다. AI 에이전트에 GitHub 저장소만 알려 주면 된다. Ryan Doyle처럼 Claude Code에 자기 TV 리스팅을 해킹해 달라고 부탁만 한 사람도 있다."
+        },
+        {
+          "t": "p",
+          "x": "결과는 제각각이다. 어떤 프롬프트는 거부당했다. 에이전트가 중요한 패키지를 꺼 버릴 위험도 있고 Android TV가 벽돌이 됐다는 사용자도 나왔다. 이런 방식이 널리 퍼지면 스마트 TV 광고 산업이 흔들릴 수 있다."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel11-magic-capture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Pixel 11의 Magic Capture는 Gemini 모델로 약 400개의 영상 프레임을 분석해 가장 좋은 장면을 사진으로 저장한다. 녹화는 최대 2분, 결과는 늘 사진 5장이다. 보정할 때는 영상을 클라우드로 보낸다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "흐린 날 Phoenix Zoo에서는 으르렁대는 재규어와 구도 좋은 프레리도그를 정확히 잡아냈다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "어두운 공연장 뒤쪽에선 실망스러웠다. 기본형 Pixel 11의 Magic Capture는 10.8MP 망원 카메라 줌을 4x로 묶고 1080p 30fps로 녹화한다. 여기서 프레임을 잘라내니 사진이 흐릿하고 노이즈투성이였다."
+        },
+        {
+          "t": "p",
+          "x": "조명이 좋고 메인 카메라로 찍을 때 결과가 가장 좋다. 공연장에 들고 갈 거라면 리뷰어는 48MP 잠망경 망원이 달린 Pixel 11 Pro나 Pro XL을 권한다."
+        }
+      ]
+    },
+    "gadgets/gadgets-homeview-robot-arm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Apple이 오래 기다려 온 스마트 홈 디스플레이 HomeView를 $299에 발표했다. 개발 기간이 꽤 길었는데, 더 똑똑한 Siri가 계속 늦어진 탓에 발목이 잡혔다."
+        },
+        {
+          "t": "p",
+          "x": "제품이 나오자 걱정하는 고객도 생겼다. 여러 사람이 둘러앉은 테이블에 HomeView를 두면 직접 이리저리 옮겨야 한다는 점 때문이다. Power On 뉴스레터에 따르면 Apple의 해법은 머지않아 나올 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Bloomberg의 Mark Gurman에 따르면 코드명 J595인 성능 강화형 HomeView는 2027년 또는 2028년 출시가 목표다. 생김새는 지금 HomeView와 비슷하다. 다만 화면이 약 9인치(7인치에서 확대)로 커지고 디스플레이를 360도 완전히 돌리는 전동 로봇 팔이 붙는다. 음성 인식으로 말하는 사람을 알아보고 그쪽으로 돌아서게 설계됐다."
+        },
+        {
+          "t": "p",
+          "x": "HomeView를 대체하는 게 아니라 라인업 위쪽에 서는 상위 모델이다. 같은 $299 가격대는 기대하지 않는 편이 좋다."
+        }
+      ]
+    },
+    "gadgets/gadgets-repair-robot-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "AI 데이터 연구소 HUMXN은 배관, 전기, HVAC, 에어덕트 청소, 카펫 청소 비용을 대 준다. 조건은 \"착용형 촬영 기술(wearable capture technology)\"을 갖춘 기술자가 집에서 일하도록 허락하는 것. 그러면 집주인은 이 작업을 공짜로 받는다."
+        },
+        {
+          "t": "p",
+          "x": "\"로봇은 숙련된 사람이 물리적 세계와 어떻게 상호작용하는지 이해해야 한다\"고 창업자 Thomas Unise는 말했다. 실험실에서는 자연스러운 움직임을 담기 어렵다. 그래서 영상은 제각기 다른 집과 장비, 문제, 기술자를 아우르며 진단에서 도구 선택, 작업 완료 확인까지 전 과정을 담는다."
+        },
+        {
+          "t": "p",
+          "x": "서비스 전문가의 보수는 그대로다. 프로그램은 기후가 제각각인 Minneapolis, Chicago, Miami에서 시작한다. Tom's Hardware는 Meta, Nvidia, OpenAI 같은 연구소가 데이터를 가져갔다는 비판을 받아 온 터라 학습 데이터에 값을 치르는 방식이 신선하다고 평했다."
+        }
+      ]
+    },
+    "gadgets/gadgets-qwen-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+        },
+        {
+          "t": "p",
+          "x": "미국(U.S.)에서 스마트 안경 하면 Meta가 화제를 주도하지만, 중국에서는 단연 Alibaba다. 이 전자상거래 대기업은 벌써 여러 세대의 스마트 안경을 내놓았고, 최신 제품은 적어도 기술만 놓고 보면 Meta 제품과 격차를 꽤 벌리기 시작했다."
+        },
+        {
+          "t": "p",
+          "x": "Alibaba에 따르면 $490(3,499 RMB)짜리 Qwen Glasses N1에는 50메가픽셀 카메라 센서가 들어간다. 최신 Ray-Ban Meta(Gen 3)도 12메가픽셀 센서에 그친다. 배터리는 대기 시 25시간, 음악 재생 시 아홉 시간을 간다고 Alibaba는 내세운다. 최신 Ray-Ban 안경은 혼합 사용 기준으로 한 번 충전하면 최대 아홉 시간을 버틴다는 평가다."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
+          "cap": "최신 Ray-Ban 스마트 안경(사진)은 몇 가지 면에서 Alibaba 제품에 밀린다. © Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "N1에는 Meta에 없는 기능도 있다. 1.7mm짜리 작은 시선 추적 카메라 덕분에 안경의 AI는 사용자가 무엇을 보는지 정확히 알아채고, 홍채를 스캔해 Alipay 결제를 승인할 수도 있다고 한다. 브리지에 달린 센서로는 체온을 잰다. Gizmodo가 직접 시험해 보진 않았지만, 스펙만 보면 미국(U.S.)에서 살 수 있는 제품보다 한 단계 위다."
+        }
+      ]
     }
   }
 }

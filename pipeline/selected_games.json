@@ -1,96 +1,108 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "games",
+  "generated_by": "curator",
+  "selection_mode": "curator (user deferred)",
   "picks": [
     {
-      "title": "GTA V NPCs Can Now Talk Back In Real Time With AI-Powered NPCTalk Mod, Free Release Coming Next Week",
-      "url": "https://wccftech.com/gta-v-npcs-can-now-talk-back-in-real-time-with-ai-powered-npctalk-mod-free-release-coming-next-week/",
-      "source": "Wccftech",
+      "rank": 1,
       "tool": "Games",
+      "category": "games",
       "accent": "#7928ca",
       "motif": "cube",
-      "rationale": "A new free mod adds real-time AI voice conversations to GTA V NPCs with 1.15-2.2 second response times, a concrete, measurable benchmark for conversational NPC design.",
-      "published_iso": "2026-10-18T21:44:12+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg",
-      "excerpt": "NPCTalk introduces real-time AI conversations for GTA V NPCs, enabling dynamic dialogue and interactions with 1.15-2.2 seconds response times."
+      "title": "Ludo.ai brings AI game asset creation into the developer terminal with new CLI",
+      "url": "https://gamesbeat.com/ludo-ai-brings-ai-game-asset-creation-into-the-developer-terminal-with-new-cli/",
+      "source": "GamesBeat",
+      "published_iso": "2026-10-19T18:40:12+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg",
+      "excerpt": "Ludo.ai released the Ludo CLI, letting developers and coding agents such as Claude Code generate sprites, animations, images, 3D models, video and audio for games directly from the terminal; it is available on Pro and Studio plans.",
+      "rationale": "Concrete new tool release: agent-callable CLI for sprites, animation, 3D and audio, directly changes how game artists and devs generate assets."
     },
     {
-      "title": "Roblox brings Audioscape team in-house to develop AI audio tools",
-      "url": "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
-      "source": "PocketGamer.biz",
+      "rank": 2,
       "tool": "Games",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "rationale": "Roblox is folding Audioscape's AI audio technology into its creator tools, which brings generative sound and music to the platform's creator toolchain.",
-      "published_iso": "2026-10-12T15:44:00+01:00",
-      "og_image": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg",
-      "excerpt": "Roblox has brought the team behind AI audio startup Audioscape into the company and its technology will now become part of the platform's creator tools."
-    },
-    {
-      "title": "[오늘의 스팀] AI를 속여라, 협동 신작 '스캠 위드 유어 프렌즈'",
-      "url": "https://www.gamemeca.com/view.php?gid=1781919",
-      "source": "게임메카",
-      "tool": "Games",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "rationale": "A co-op game built around conning a generative-AI character hit the top of Steam's global charts in early access. It is a live case of AI as the core mechanic, and its server and voice-recognition failures are lessons for designers.",
-      "published_iso": "2026-10-16T18:00:59+09:00",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/919/gm980893_pjh261016-1.webp",
-      "excerpt": "협동 시뮬레이션 신작 스캠 위드 유어 프렌즈가 스팀 앞서 해보기로 출시된 후 전 세계 최고 인기 게임 최상위권에 올랐다. 생성형 AI를 상대로 사기극을 벌인다는 독특한 설정과 협동 과정에서 발생하는 재미있는 상황이 이목을 끌었다. 다만 불안정한 서버와 음성 인식 오류 및 최적화 ..."
-    },
-    {
-      "title": "Oblivion Remastered Mod Built Using Claude AI Boosts FPS By Over 40% And Drastically Reduces Stuttering Without Sacrificing Visual Quality",
-      "url": "https://wccftech.com/oblivion-remastered-mod-built-using-claude-ai-boosts-fps-by-over-40-and-drastically-reduces-stuttering-without-sacrificing-visual-quality/",
-      "source": "Wccftech",
-      "tool": "Games",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "rationale": "A newly released mod built with Claude claims over 40% more FPS and less stutter in Oblivion Remastered. It is a measurable AI-assisted optimisation result, unlike the earlier ports and reuploads that drew slop complaints.",
-      "published_iso": "2026-10-18T14:24:09+00:00",
-      "og_image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg",
-      "excerpt": "AI-assisted mod Oblivion Remastered Performance Fix boosts FPS by over 40% while enhancing visuals on Ryzen 7 5800X/RX 9070 XT systems."
-    },
-    {
-      "title": "부산서 열리는 유니티 AI 게임잼, 참가자 모집한다",
-      "url": "https://www.gamemeca.com/view.php?gid=1781633",
-      "source": "게임메카",
-      "tool": "Games",
+      "category": "games",
       "accent": "#eb367f",
       "motif": "cube",
-      "rationale": "Unity and the Korea Game Industry Association are recruiting for a 24-hour AI game jam at BEXCO before G-STAR 2026. Sign-ups close October 20, so Korean developers can act on it right away.",
-      "published_iso": "2026-10-12T12:10:53+09:00",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/781/633/gm435665_thumb__AI_.webp",
-      "excerpt": "유니티와 한국게임산업협회가 '유니티 AI 게임잼' 참가자를 10월 12일부터 20일까지 모집한다고 밝혔다. 이번 행사는 국내 최대 게임쇼인 '지스타 2026' 개막에 앞서 11월 18일부터 19일까지 부산 벡스코에서 24시간 무박 일정으로 열릴 예정이다"
+      "title": "Steam Fans Are Begging for a No-AI Filter as Steam Next Fest Is Filled With Slop",
+      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "source": "IGN",
+      "published_iso": "2026-10-19T21:38:26.736Z",
+      "og_image": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80",
+      "excerpt": "Steam Next Fest opened with more than 8,000 demos, and players are calling on Valve to add a filter that hides games disclosing generative AI as low-effort AI-made entries flood the event.",
+      "rationale": "Fresh platform-level event (October Next Fest, 8,000+ demos) shaping discoverability and AI-disclosure stakes for every Steam developer."
+    },
+    {
+      "rank": 3,
+      "tool": "Games",
+      "category": "games",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "title": "The Finals adding real-time AI commentary in new update that'll call out people's usernames",
+      "url": "https://www.gamesradar.com/games/fps/the-finals-adding-real-time-ai-commentary-in-new-update-thatll-call-out-peoples-usernames-a-feature-the-devs-will-almost-certainly-regret/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-10-19T14:32:24Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/BxSNdTtp49qBPgDGDAabSQ-1920-80.jpg",
+      "excerpt": "Embark Studios is rolling out real-time AI commentary in The Finals: announcers Scott and June will now call out individual players' usernames during play-by-play when they make big plays.",
+      "rationale": "Shipping in-game AI feature in a live AAA shooter: real-time personalized announcer audio, a concrete design reference for AI dialogue."
+    },
+    {
+      "rank": 4,
+      "tool": "Games",
+      "category": "games",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "title": "UKIE partners with Sheridans on AI Compliance and Accreditation Service to guide UK studios in using AI lawfully and responsibly",
+      "url": "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly",
+      "source": "GamesIndustry.biz",
+      "published_iso": "2026-10-19T08:00:00+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "UK trade body Ukie and law firm Sheridans launched an AI Compliance and Accreditation Service: a four-step process that ends in an AI Certification Mark studios can show in pitches and funding rounds.",
+      "rationale": "New industry-body service launch with a certification mark studios can use in pitches; practical compliance path, not commentary."
+    },
+    {
+      "rank": 5,
+      "tool": "Games",
+      "category": "games",
+      "accent": "#ff5a4d",
+      "motif": "cube",
+      "title": "Japanese acting union fights back against AI-generated voice use, proposing strict new guidelines, especially regarding the use of a deceased actor's voice",
+      "url": "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai",
+      "source": "Eurogamer",
+      "published_iso": "2026-10-19T15:12:17.824350+00:00",
+      "og_image": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+      "excerpt": "Japanese actors are trying to control the spread of AI-generated voices by establishing strict rules around use and total bans on imitating dead people.",
+      "rationale": "New union guideline proposal (incl. ban on deceased-actor voice imitation) that affects voice pipelines for Japanese game production."
     }
   ],
   "dedup": {
     "checks": {
-      "https://wccftech.com/gta-v-npcs-can-now-talk-back-in-real-time-with-ai-powered-npctalk-mod-free-release-coming-next-week/": {
+      "https://gamesbeat.com/ludo-ai-brings-ai-game-asset-creation-into-the-developer-terminal-with-new-cli/": {
         "verdict": "new",
-        "nearest": "https://forums.unrealengine.com/t/community-tutorial-building-conversational-ai-npcs-in-unreal-engine-5-with-codex-and-gpt-6-astra/2834834",
+        "nearest": "https://gamesbeat.com/playgama-launches-a-suite-of-tools-that-lets-ai-agents-analyze-refine-and-update-games-on-their-own/",
         "new_action": ""
       },
-      "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/": {
+      "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop": {
         "verdict": "new",
-        "nearest": "https://corp.roblox.com/newsroom/2026/10/how-roblox-evaluates-build-game-creation",
+        "nearest": "https://www.gamesradar.com/games/simulation/the-robloxification-of-steam-creator-of-viral-game-apologizes-after-slop-rip-offs-flood-valves-store/",
         "new_action": ""
       },
-      "https://www.gamemeca.com/view.php?gid=1781919": {
+      "https://www.gamesradar.com/games/fps/the-finals-adding-real-time-ai-commentary-in-new-update-thatll-call-out-peoples-usernames-a-feature-the-devs-will-almost-certainly-regret/": {
         "verdict": "new",
-        "nearest": "https://www.gamemeca.com/view.php?gid=1781573",
+        "nearest": "",
         "new_action": ""
       },
-      "https://wccftech.com/oblivion-remastered-mod-built-using-claude-ai-boosts-fps-by-over-40-and-drastically-reduces-stuttering-without-sacrificing-visual-quality/": {
+      "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly": {
         "verdict": "new",
-        "nearest": "https://wccftech.com/radeon-rx-9070-xt-finally-touches-75-fps-at-1080p-in-cyberpunk-2077-with-dlss-5/",
+        "nearest": "",
         "new_action": ""
       },
-      "https://www.gamemeca.com/view.php?gid=1781633": {
+      "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai": {
         "verdict": "new",
-        "nearest": "https://80.lv/articles/unity-spark-puts-artist-made-assets-inside-an-ai-assisted-game-editor/",
+        "nearest": "https://automaton-media.com/en/news/voice-actor-kenjiro-tsudas-lawsuit-over-ai-voice-cloning-dismissed-but-ruling-sets-important-precedent-for-protecting-seiyuu-voices-in-japan/",
         "new_action": ""
       }
     },
-    "note": "Pool of 15. Full-URL check of the gamemeca gid items: 1781919 and 1781633 are not in history (published gamemeca items were 1781560 and 1781573). DROPPED: (a) Polygon 'golden age of gaming' (Sweeney) and (b) Destructoid Sweeney vibe-codes. Both are commentary on Epic's AI-first and vibe-coded launcher push (published 10-13 GI.biz, 10-15 Verge) and the theme is saturated. (c) PC Gamer 'Google's golden age of AI games?' is a feature on Google Playground (published 10-11) with no new release, and its excerpt was written from the title only; it was also dropped 10-18. (d) GamesBeat Astrocade 10M players is the same story as Kotaku 10-08. (e) Kotaku Needle In A Haystack clone-of-clone is a follow-up in the running Needle In A Haystack slop rip-off story (GamesRadar 09-27) with no new release or decision. (f) GamesBeat 'players love an AI-made game' is an opinion piece. (g) GamesBeat Activision QA strike is labour news with no AI angle. (h) IGN Goku voice actor is anime voice acting, not games; it was dropped 10-18 on the same ground. (i) TheGamer Sims 2 subreddit vibecoded-mod ban was held back because the vibe-coded mod backlash is saturated (Eurogamer 10-05, RPS 10-05, decomp.dev 10-16). (j) GameMeca AI-made GTA parody video top 5 is a listicle about AI video, not game development. The Oblivion pick carries a 'related' history_match to the Wccftech DLSS-on-AMD story, which is a different project (a DLSS port vs a Claude-built engine performance fix). Outlets: Wccftech 2, GameMeca 2, PocketGamer.biz 1 (3 distinct; both caps at 2)."
+    "note": "Pool 17. History_match 'related' tags reviewed: IGN Next Fest filter is a new October event (distinct from 09-27 GamesRadar rip-off apology); Eurogamer union guidelines are a new proposal, distinct from the 10-01 Tsuda lawsuit ruling. Dropped: RPS Needle In A Haystack code-theft claim (likely continuation of the 09-27 viral-game rip-off running story; also overlaps the clone/extortion theme); GamesRadar Melty launcher (third GamesRadar card would breach outlet cap; nearest 10-15 Epic launcher is unrelated); Kenney vs Sweeney and Xbox Stirrup posts (social-media spat/commentary, exec noise); GI.biz AI-laws state of play (analysis); Inworld Inference (serving infra, 6 days old, AI-business adjacent); Digital Sun ReVamp playtest and Inven extortion story (same anti-clone theme as 10-17 Kotaku demo-pulled story, weaker as standalone); Inven 'game deconstruction' and GameMeca vibe-coding/reverse-engineering features (analysis, overlaps 10-14 Xbox Labs / decomp coverage); Krafton hiring (HR noise). Full-URL checks for inven ?news=322288/322278 and gamemeca ?gid=1782007/1781785/1781689 found no exact match in history, but none were picked. Diversity: 5 distinct outlets, all category 'games' with distinct palette accents."
   }
 }

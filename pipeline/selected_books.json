@@ -1,119 +1,106 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "books",
   "picks": [
     {
-      "url": "https://www.donga.com/news/Culture/article/all/20261018/134863199/2",
-      "title": "“이 소설, 당신이 썼나요” AI 시대 맞은 문학상, ‘작가 검증’ 나섰다",
-      "source": "동아일보",
+      "url": "https://janefriedman.com/payauthors-com-are-your-books-in-pirate-libraries/",
+      "title": "PayAuthors.com: Are your books in pirate libraries?",
+      "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-10-19T04:30:00+09:00",
-      "og_image": "https://dimg.donga.com/wps/NEWS/IMAGE/2026/10/18/134863803.1.png",
-      "excerpt": "국내 한 장편소설 공모전 최종심 작품이 작가의 실제 집필 과정 검증에서 의문이 제기돼 수상 기회를 잃는 등, 문학상들이 AI 시대를 맞아 심사에 '작가 검증' 절차를 도입하고 있다.",
-      "source_lang": "ko",
+      "published_iso": "2026-10-14T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png",
+      "excerpt": "PayAuthors.com is a new website and service that lets authors check whether their books appear in pirate libraries used to train AI models.",
+      "source_lang": "en",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "A new concrete event: a Korean novel-contest finalist lost the prize after failing a check of the author's writing process, and Korean literary prizes are adding author-verification steps to judging."
+      "rationale": "A new service authors can use right away: PayAuthors.com checks whether a book sits in the pirate libraries used for AI training."
     },
     {
-      "url": "https://www.venturesquare.net/1119763/",
-      "title": "플리토, 교보문고 광화문·강남·동대문점에 AI 통번역 ‘보글’ 적용…외국인 고객 응대 실증",
-      "source": "벤처스퀘어",
+      "url": "https://www.unite.ai/fish-audio-drama-3-ai-voice-direction-audio-inpainting/",
+      "title": "Fish Audio Launches Drama 3 to Direct AI Voices and Edit a Single Word",
+      "source": "Unite.AI",
       "category": "books",
-      "published_iso": "2026-10-14T10:27:20+09:00",
-      "og_image": "https://www.venturesquare.net/wp-content/uploads/2026/10/PULITO-696x522.jpg",
-      "excerpt": "플리토가 교보문고 3개 매장에 도서 분류명·작가명을 사전 학습한 AI 통번역 '보글'을 공급해 외국인 고객 응대 실증을 진행했다. 정식 도입을 추진 중이다.",
-      "source_lang": "ko",
+      "published_iso": "2026-10-13T09:15:43-04:00",
+      "og_image": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg",
+      "excerpt": "Fish Audio's Drama 3 TTS lets producers direct AI voice performances in plain language and re-record a single mis-stressed word, pitched at audiobook and audio-drama production.",
+      "source_lang": "en",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "A real in-store deployment: Kyobo's three flagship bookstores ran Flitto's AI interpreter, pre-trained on book categories and author names, for foreign customers, and a full rollout is being pursued."
+      "rationale": "A new product release for audiobook makers: Drama 3 takes voice direction in plain language and can re-record a single word, so producers don't have to regenerate the whole take."
     },
     {
-      "url": "https://analyticsindiamag.com/ai-features/can-naav-ai-break-englishs-hold-on-indian-literature-vikram-sampath-thinks-so",
-      "title": "Can Naav AI Break English's Hold on Indian Literature? Vikram Sampath Thinks So",
-      "source": "Analytics India Magazine",
+      "url": "https://www.sedaily.com/article/20103000",
+      "title": "[단독] 구글도 韓 책 구매한다는데…AI 학습 저작권 강화 법안 ‘낮잠’",
+      "source": "서울경제",
       "category": "books",
-      "published_iso": "2026-10-15T11:32:36+00:00",
-      "og_image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1792064025704-y8zz4d.webp",
-      "excerpt": "Naav AI translates books across Indian and foreign languages with AI, then has human experts refine the output to preserve the author's voice and cultural context.",
-      "source_lang": "en",
+      "published_iso": "2026-10-18T18:07:02+09:00",
+      "og_image": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_Z1.png",
+      "excerpt": "앤트로픽에 이어 구글도 국내 출판사를 상대로 도서 구매 계약을 추진하는 것으로 나타났지만, AI 학습 저작권을 강화하는 법안은 국회에서 멈춰 있다.",
+      "source_lang": "ko",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "A new book-translation service built on a concrete workflow: AI produces the first draft and human experts refine it, aimed at moving Indian-language literature across languages."
+      "rationale": "A new actor in the AI book-buying story: Google is now pursuing purchase contracts with Korean publishers, following Anthropic, while the bill to tighten AI-training copyright has stalled."
     },
     {
-      "url": "https://www.tomsguide.com/ai/turn-your-pdfs-into-audiobooks-with-chatgpt-heres-the-simple-trick",
-      "title": "Turn your PDFs into audiobooks with ChatGPT — here's the simple trick",
-      "source": "Tom's Guide",
+      "url": "https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny",
+      "title": "Halo's co-creator wrote a novel about AI taking over the world",
+      "source": "The Verge",
       "category": "books",
-      "published_iso": "2026-10-14T04:45:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Lc4aNtyUMgTZz4LGirzmUA-2560-80.jpg",
-      "excerpt": "A new tool connects ChatGPT with AI-generated narration to turn documents and books into listenable audio.",
+      "published_iso": "2026-10-14T14:00:00+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&crop=0,3.1759359873555,100,93.648128025289",
+      "excerpt": "Bungie co-founder Jason Jones has written a novel about AI taking over the world; The Verge runs an excerpt chapter.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "The most hands-on pick: a new tool pairs ChatGPT with AI narration so readers can turn documents and books into audio themselves."
+      "rationale": "A new book announcement: Bungie co-founder Jason Jones's AI-takeover novel debuts with an excerpt chapter. It is a cultural angle that differs from the tooling and copyright picks."
     },
     {
-      "url": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-programs-explore-ais-impact-on-translation-and-the-future-of-publishing/",
-      "title": "Frankfurter Buchmesse 2026: Programs Explore AI's Impact on Translation, and the Future of Publishing",
-      "source": "Publishing Perspectives",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/",
+      "title": "Guest Post – Artificial Intelligence in Scholarly Publishing: Are We Moving Faster Than the Evidence?",
+      "source": "The Scholarly Kitchen",
       "category": "books",
-      "published_iso": "2026-10-16T12:50:20+00:00",
-      "og_image": "https://publishingperspectives.com/wp-content/uploads/2026/10/Screen-Shot-2026-10-16-at-8.31.06-AM.png",
-      "excerpt": "Research presented in Czechia's Frankfurt pavilion examined how publishing professionals use AI — and why literary translators remain concerned about its effects on their livelihoods.",
+      "published_iso": "2026-10-14T09:30:19+00:00",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg",
+      "excerpt": "A guest post argues the next phase of AI adoption in scholarly publishing workflows needs more evaluation, collaboration and human judgment.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "New research presented in the Czech pavilion at Frankfurt, with data on how publishing professionals use AI and why literary translators are worried. It is distinct from the ENLIT funding-network story of 10-11."
-    }
-  ],
-  "alternates": [
-    {
-      "url": "https://goodereader.com/blog/e-book-news/how-to-listen-to-kindle-books-with-castreader",
-      "title": "How to Listen to Kindle Books With CastReader",
-      "source": "Good e-Reader",
-      "category": "books",
-      "published_iso": "2026-10-07T16:49:55+00:00",
-      "og_image": "https://media.goodereader.com/blog/uploads/images/2026/10/07124918/Kindle_Listening_Routes.png",
-      "excerpt": "A guide to CastReader, which reads Kindle Cloud Reader books aloud with cloud AI voices and offers an 'AI Explain' reading-assistant feature for unfamiliar passages.",
-      "source_lang": "en",
-      "rationale": "Backup if a pick is swapped. It is a how-to guide and 12 days old."
+      "rationale": "Covers the scholarly-publishing side: it asks for evidence before AI goes further into editorial workflows. It is a different article and argument from the 10-16 agentic-consumption post."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.donga.com/news/Culture/article/all/20261018/134863199/2": {
+      "https://janefriedman.com/payauthors-com-are-your-books-in-pirate-libraries/": {
         "verdict": "new",
-        "nearest": "https://www.thebookseller.com/news/caine-prize-initiates-human-centred-process-after-zimbabwean-winner-accused-of-ai-use",
+        "nearest": "https://www.marketplace.org/story/2026/09/30/will-ai-take-over-the-audiobook-industry",
         "new_action": ""
       },
-      "https://www.venturesquare.net/1119763/": {
+      "https://www.unite.ai/fish-audio-drama-3-ai-voice-direction-audio-inpainting/": {
         "verdict": "new",
+        "nearest": "https://www.provideocoalition.com/audiobooks-with-multiple-voices-for-dialog-using-human-actors-or-cloned-with-elevenlabs/",
+        "new_action": ""
+      },
+      "https://www.sedaily.com/article/20103000": {
+        "verdict": "follow-up",
         "nearest": "https://www.joongang.co.kr/article/25469854",
+        "new_action": "Google (a new buyer, after Anthropic) is pursuing book-purchase contracts with Korean publishers; reported exclusively along with the stalled AI-training copyright bill"
+      },
+      "https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny": {
+        "verdict": "new",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/comics/article/101260-novvel-co-pioneers-producing-graphic-novels-with-ai-assistance.html",
         "new_action": ""
       },
-      "https://analyticsindiamag.com/ai-features/can-naav-ai-break-englishs-hold-on-indian-literature-vikram-sampath-thinks-so": {
+      "https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/": {
         "verdict": "new",
-        "nearest": "https://www.donga.com/news/It/article/all/20261008/134807824/1",
-        "new_action": ""
-      },
-      "https://www.tomsguide.com/ai/turn-your-pdfs-into-audiobooks-with-chatgpt-heres-the-simple-trick": {
-        "verdict": "new",
-        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/audio-books/article/101375-de-marque-to-offer-ai-audiobook-capabilities-via-elevenlabs.html",
-        "new_action": ""
-      },
-      "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-programs-explore-ais-impact-on-translation-and-the-future-of-publishing/": {
-        "verdict": "new",
-        "nearest": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-enlit-network-provides-support-for-european-literary-translation-and-translators/",
+        "nearest": "https://scholarlykitchen.sspnet.org/2026/10/15/guest-post-the-evolution-of-eras-agentic-discovery-makes-way-for-agentic-consumption/",
         "new_action": ""
       }
     },
-    "note": "DROPPED. Seoul Economic Daily 'AI Copyright Bills Stall as Google Buys Up Korean Books': part of the saturated thread on Korean books bought for AI training and copyright (joongang 10-12 and 10-15, sedaily 10-16 and 10-17, yna 10-17). Google 'negotiating' and bills that are still stalled are not a new filing or deal. Bookseller on SoA's unchanged position: a reaction to the ethical AI charter (Bookseller 10-15), with no new release. Lit Hub 'Why are publishers suing...': an essay on the publishers-adopting-AI story (Wired 10-10), and it was already dropped on 10-18. Not picked for a weak fit with books or AI being incidental: ANN on the Japan actors union (voice acting, not books), and WIRED's Maka (a kids' video platform where AI slop is only the backdrop). Lower score: Scholarly Kitchen guest post (opinion; related to the 09-25 peer-review post), PW 'Three Views of Innovation' (10-08, older and part of the saturated Frankfurt thread), Good e-Reader CastReader guide (kept as the alternate). The Donga prize story is a new concrete event, a Korean contest finalist losing the prize after author verification, not a follow-up on Caine or Orélien. Outlets: 5 distinct, one each. No duplicate URLs. Translation spans research, retail and a startup service, three different angles."
+    "note": "Dropped: CBC Orelien 'abandons effort to document novel's origins' (running story; accusation published 09-24 Bookseller and Goncourt removal 09-26 Guardian; this is a status update in the same scandal, not a new ruling or release); Book Riot podcast and Jane Friedman 'About that Wired article' (commentary on Wired piece published 10-10); SoA 'position unchanged' (reaction to the ethical AI charter published 10-15); Toniebox FBF (likely-repeat of Tonies FBF 10-10); Korea JoongAng 'Project Panama' (more reporting on the Anthropic book-sourcing story already covered 10-14/10-15/10-16); Yonhap used-bookstore feature (rehash of 09-26/10-12 used-book coverage); Hankyung Frankfurt audiobook recap (covered by 10-09 to 10-11 FBF Audible/Spotify cards); Observer Black writers essay (first-person commentary on the Caine Prize story published 10-13 and the Pangram bias card from 10-08); Lit Hub essay (opinion revisiting the publishers-use-AI theme). Diversity: 5 distinct outlets, max 1 per outlet."
   }
 }

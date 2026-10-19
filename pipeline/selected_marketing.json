@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "marketing",
   "picks": [
     {
-      "url": "https://ppc.land/amazons-100-a-day-full-funnel-campaigns-hand-targeting-to-ai-adotat-says/",
-      "title": "Amazon's $100-a-day Full-Funnel campaigns hand targeting to AI, ADOTAT says",
-      "source": "PPC Land",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
+      "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
+      "source": "Engineering at Meta",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "Amazon Ads now hands targeting to AI by default in a live US campaign type, while the DSP-control version stays in beta. That changes how media buyers set up Amazon campaigns tomorrow.",
-      "published_iso": "2026-10-18T20:38:32.000Z",
-      "og_image": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg",
-      "excerpt": "Full-Funnel Campaigns are live for US advertisers while DVA+, which keeps the DSP controls, sat in closed beta. ADOTAT asks who grades results Amazon optimized."
+      "rationale": "Meta's ad recommender now represents each ad as codes derived from multimodal embeddings instead of a per-item ID, so new and low-engagement ads borrow signal from similar ones. Meta reports a 0.35% conversion lift, which changes how quickly fresh creative can reach delivery.",
+      "published_iso": "2026-10-19T16:00:47+00:00",
+      "og_image": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-Hero.png",
+      "excerpt": "Meta's generative recommenders now represent each ad, product or page as a short sequence of discrete codes derived from multimodal embeddings instead of a per-item ID, so new and low-engagement ads borrow signal from similar items. Paired with GEM and the Adaptive Ranking Model, Meta says it lifted advertiser conversions 0.35% across surfaces."
     },
     {
-      "url": "https://tomorrowspublisher.today/news/national-trust-pulls-tiktok-ads-after-platform-s-ai-publishes-unauthorised-video-68149cb63312/index.html",
-      "title": "National Trust pulls TikTok ads after platform's AI publishes unauthorised videos",
-      "source": "Tomorrow's Publisher",
+      "url": "https://ppc.land/monday-coms-harmony-voice-ai-lifted-car-brokers-deals-9-client-says/",
+      "title": "monday.com's Harmony voice AI lifted car broker's deals 9%, client says",
+      "source": "PPC Land",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "A major UK advertiser suspended TikTok spend after the platform's AI made and ran promo videos it never approved. It is a concrete brand-safety failure of auto-generated creative.",
-      "published_iso": "2026-10-18T01:00:51+00:00",
-      "og_image": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
-      "excerpt": "The charity has suspended its TikTok advertising while it investigates how AI-generated promotional material went live without approval."
+      "rationale": "A client reports concrete numbers for a voice-AI sales agent (9% more deals, 70% contact rate, ~200ms replies) running live in four markets. It is sales automation with real results.",
+      "published_iso": "2026-10-19T20:18:34Z",
+      "og_image": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+      "excerpt": "Sales call agents reply in about 200ms on task-specific models and run on Twilio in four markets. What sits behind the 70% contact rate, and what stays hidden?"
     },
     {
-      "url": "https://www.thekeyword.co/news/meta-reels-trending-ads-topics",
-      "title": "Meta Adds 15 Always-On Topics to Reels Trending Ads",
-      "source": "The Keyword",
+      "url": "https://www.adexchanger.com/ai/ai-startup-minerva-built-an-agentic-cdp-but-dont-call-it-that/",
+      "title": "AI Startup Minerva Built An Agentic CDP, But Don't Call It That",
+      "source": "AdExchanger",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "New targeting options for Meta's AI-placed format, which runs an ad straight after a trending creator Reel. Buyers get 15 standing topics to choose from.",
-      "published_iso": "2026-10-16T12:00:00Z",
-      "og_image": null,
-      "excerpt": "Meta now offers 15 always-on standard topics in Reels Trending Ads, the format that uses AI to place an ad immediately after top-trending creator Reels."
+      "rationale": "AI agents take over the customer-data work behind targeting and audience building, turning scattered first-party data into segments marketers can use. It shows where CDPs are heading.",
+      "published_iso": "2026-10-19T05:00:38+00:00",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-dragon-comic-kevvo-detail.jpg",
+      "excerpt": "Minerva wants to turn fragmented customer data into something marketers can use, with AI agents doing the work behind the scenes."
     },
     {
-      "url": "https://ppc.land/salesforces-hunter-agent-gets-demandbase-intent-data-with-no-extra-contract/",
-      "title": "Salesforce's Hunter agent gets Demandbase intent data with no extra contract",
+      "url": "https://ppc.land/chatgpt-drops-to-74-5-of-marketers-as-claude-climbs-to-72-3-basis-finds/",
+      "title": "ChatGPT drops to 74.5% of marketers as Claude climbs to 72.3%, Basis finds",
       "source": "PPC Land",
       "tool": "Marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "Salesforce's AI sales agent now gets B2B intent and buying-group data built in. This is a new sales-automation capability, not a funding or M&A story.",
-      "published_iso": "2026-10-18T19:45:57.000Z",
-      "og_image": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg",
-      "excerpt": "Sales Cloud teams get buying group, intent and engagement signals inside Hunter's pilot. No price, GA date or data limits are given. What does the deal cover?"
+      "rationale": "Basis's survey of ad marketers finds 51.1% now run agents but only 6.5% measure AI returns against benchmarks, and Claude has nearly caught ChatGPT. Useful for teams sizing up their own AI stack.",
+      "published_iso": "2026-10-19T18:47:08Z",
+      "og_image": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+      "excerpt": "Only 6.5% of 184 surveyed marketers measure AI returns against benchmarks, yet 51.1% now run agents. What happens when automation outruns the proof it works?"
     },
     {
-      "url": "https://www.semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season",
-      "title": "Ecommerce confronts AI shopping agents ahead of holiday season",
-      "source": "Semafor",
+      "url": "https://www.adexchanger.com/measurement/how-australian-home-lender-lendi-measures-the-invisible-work-of-ai/",
+      "title": "How Australian Home Lender Lendi Measures The Invisible Work Of AI",
+      "source": "AdExchanger",
       "tool": "Marketing",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "Cheq's figure of a 100x jump in agentic shopping traffic before the holidays tells retailers how much of their buyer traffic may soon be agents rather than people.",
-      "published_iso": "2026-10-16T17:02:02Z",
-      "og_image": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?rect=0,284,4000,2100&w=1200&h=630&q=75&auto=format",
-      "excerpt": "Cheq, a cybersecurity company that verifies AI shopping agents, says it recorded a 100x surge in agentic traffic."
+      "rationale": "A brand-side example of measuring how chatbots drive customer discovery and acquisition. Measurement and attribution in AI channels is still mostly unsolved.",
+      "published_iso": "2026-10-19T16:03:46+00:00",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/03/canthaveitbothways.jpeg",
+      "excerpt": "Most brands and businesses are trying to figure out how to improve their metrics when it comes to AI – and also what those metrics even are. Problem is, measuring how chatbots shape brand discovery is mostly still a mystery. But “you can’t improve what you can’t measure,” said Michael McCash, GM of "
     }
   ],
   "dedup": {
     "checks": {
-      "https://ppc.land/amazons-100-a-day-full-funnel-campaigns-hand-targeting-to-ai-adotat-says/": {
+      "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/google-optimises-its-own-revenue-advertisers-have-to-optimise-theirs/",
+        "nearest": "https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/",
         "new_action": ""
       },
-      "https://tomorrowspublisher.today/news/national-trust-pulls-tiktok-ads-after-platform-s-ai-publishes-unauthorised-video-68149cb63312/index.html": {
+      "https://ppc.land/monday-coms-harmony-voice-ai-lifted-car-brokers-deals-9-client-says/": {
         "verdict": "new",
-        "nearest": "https://newsroom.tiktok.com/en-us/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes",
+        "nearest": "https://www.customerexperiencedive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832301/",
         "new_action": ""
       },
-      "https://www.thekeyword.co/news/meta-reels-trending-ads-topics": {
+      "https://www.adexchanger.com/ai/ai-startup-minerva-built-an-agentic-cdp-but-dont-call-it-that/": {
         "verdict": "new",
-        "nearest": "https://www.marketingdive.com/news/meta-introduces-new-ai-powered-tools-at-advertising-week/832517/",
+        "nearest": "https://www.adexchanger.com/ai/videoamp-bets-on-ai-to-connect-ad-planning-and-measurement/",
         "new_action": ""
       },
-      "https://ppc.land/salesforces-hunter-agent-gets-demandbase-intent-data-with-no-extra-contract/": {
+      "https://ppc.land/chatgpt-drops-to-74-5-of-marketers-as-claude-climbs-to-72-3-basis-finds/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/salesforce-trains-its-koa-model-on-27-years-of-crm-workflow-simulations/",
+        "nearest": "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/",
         "new_action": ""
       },
-      "https://www.semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season": {
+      "https://www.adexchanger.com/measurement/how-australian-home-lender-lendi-measures-the-invisible-work-of-ai/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/metas-muse-accounts-for-72-of-ai-agent-requests-human-finds/",
+        "nearest": "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/",
         "new_action": ""
       }
     },
-    "note": "Dropped as repeats of published stories: Google Universal Cart/Meta browsing (PPC Land, same as TechCrunch 10-16 and ppc.land Meta product browsing 10-16); Google AI Mode Personal Intelligence ads (The Keyword, same as Search Engine Land 10-17); Gizmodo ChatGPT ad targeting (rewrite of 404 Media 10-17, headline-only excerpt); Amex agent purchase framework (Digital Commerce 360, same as TechCrunch 10-14); AdExchanger 10-16 roundup (its UTM/ChatGPT item is the same story as SEJ 'ChatGPT Traffic Drop Appears To Be A Tracking Problem' 10-18, and a roundup is not a single story). Cluster c6: kept Tomorrow's Publisher, dropped The Cool Down duplicate. Dropped as out of scope: The Verge sites blocking AI agents (crawler/access infrastructure, not ad buying or selling; also close to mk.co.kr 10-12 Naver/Amazon lockout); TikTok Shop UK automated ad tool (story still stands without AI, so it fails the AI test); OpenAI Itau (bank customer genAI, not ads or sales). Not picked: NY Post AI-ad trust survey (lower credibility, and close in theme to tf.co.kr 10-12 consumers rejecting AI ads); Semafor taken instead. Outlets: PPC Land x2, Tomorrow's Publisher, The Keyword, Semafor."
+    "note": "Swap 1 (cross-section clash): the TechCrunch smart-TV AI piece went to gadgets, replaced by AdExchanger's Minerva agentic CDP piece. No history_match, no cluster, nearest is AdExchanger VideoAmp 10-18 (different company and product). Swap 2: dropped Axios 'AI attack-ad nightmare' because it repeats the Wesleyan Media Project data that politics published on 10-19 (Gizmodo). Its replacement, Marketing Dive's Kantar media-mix piece, was then rejected by enrichment: it is a general media-mix story and AI is one paragraph, so it fails the marketing _note test. Swap 3 (recovery pool): added Engineering at Meta's GenRecs tokenization post. It is a new ad-ranking technique (semantic ID codes from multimodal embeddings that help cold-start ads) with its own reported 0.35% conversion lift. Its history_match is PPC Land's GEM 18.9% story (10-15), which is a different model and result, and it is also distinct from the 10-13 Meta inference-capacity post, so it is new rather than a follow-up. Rejected the other recovery candidate, PYMNTS TikTok/Shoplazza: Buy Direct and the AI Shopping Assistant were already out, so the only new part is a commerce-partner deal (partnership/business news), it is close to TikTok's 10-07 advertiser AI update, and the outlet is off-list. Dropped as repeats of published stories: SER Google ads in AI Mode with Personal Intelligence (same as Search Engine Land 10-17); SER ChatGPT Ads visual formats (same as Search Engine Land 10-17); SEJ Meta crawl clause (same as TechCrunch 10-18 and SEJ 10-17); TV Technology Fox AdStudio live/linear (same as Adweek 10-16); Social Media Today Meta Muse use cases (running story, no new release). Dropped as out of scope under the marketing _note: Verge and MIT Tech Review on sites blocking AI agents (both dropped; crawler/access infrastructure, consistent with 10-19); SER AI Mode source preferences and DeepSeek search API (no paid placement); SEJ made-up concept cited by AI search (GEO/SEO); Digiday Verge audience team; HubSpot AI-first blog; Salesforce personal agents/contact center (service, not sales); Google Blog Gemini stylist (promo); PPC Land Meta 14-agent router (internal data engineering). Advertorial: AdExchanger 'Inside the Stack' Amazon Ads (sponsored). Outlets: PPC Land x2, AdExchanger x2, Engineering at Meta (3 distinct, cap of 2 per outlet respected)."
   }
 }

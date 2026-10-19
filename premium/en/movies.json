@@ -7933,6 +7933,191 @@
           "x": "The team got $38,000 in AI credits, about $7,600 per episode. By API-pricing math, that could generate 83 minutes of video; Artlist's AI Creator tier costs $500 a year. Everyone was paid a full day rate, but IndieWire warns fewer people working faster leads to the deskilling of entertainment."
         }
       ]
+    },
+    "movies/movies-sora-startup-handoff": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
+          "cap": "OpenAI's AI video app Sora. [Photo: OpenAI]"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI is negotiating to hand over its shelved video-generation AI, Sora, to a startup, The Information reported on Oct. 12 local time."
+        },
+        {
+          "t": "p",
+          "x": "The report said a startup developing AI video technology for filmmakers is in talks with OpenAI to use Sora. The startup plans to take over Sora, improve it and sell software or services based on it."
+        },
+        {
+          "t": "p",
+          "x": "The startup in talks with OpenAI was founded months ago by Hollywood heavyweight Jeffrey Katzenberg, Bill Peebles, who led Sora research, and Sujay Jaswa, a former chief financial officer at Dropbox. Its name is not known."
+        },
+        {
+          "t": "p",
+          "x": "It is unclear whether the startup would also receive Sora weights, the parameter values that determine how a model answers questions."
+        },
+        {
+          "t": "p",
+          "x": "If a deal is reached, the startup would get deep access rights sufficient to significantly modify Sora, The Information reported, citing a source familiar with the talks. The Information said it would not be strange to also share the weights, since Peebles led Sora's development and already knows the model architecture and training method."
+        },
+        {
+          "t": "p",
+          "x": "If the deal is completed, OpenAI would receive an equity stake in the startup. The size of the stake has not been confirmed."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI halted the Sora model and an audio-based app earlier this year as part of a business adjustment."
+        }
+      ]
+    },
+    "movies/movies-lotte-kaica-run": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
+          "cap": "Photo: Lotte Cultureworks"
+        },
+        {
+          "t": "p",
+          "x": "Lotte Cinema is bringing artificial intelligence (AI) and film together in theaters. It will screen 18 finalists and winners from the ‘2026 Korea AI Content Awards (K-AICA)’, hosted by Gyeonggi Province and the Gyeonggi Content Agency, exclusively among domestic theaters."
+        },
+        {
+          "t": "p",
+          "x": "The special program runs through the 28th at 31 Lotte Cinema locations in the Seoul metropolitan area. It is a chance to see works selected from 1528 entries submitted from 87 countries on a big screen with theater sound. Tickets cost 3000 won, and bookings can be made on Lotte Cinema's official website and mobile app."
+        },
+        {
+          "t": "p",
+          "x": "The lineup totals 18 films, including 9 winners in the medium-length and short categories. To make viewing convenient, the films are organized into 5 parts, each with 2 to 5 films running about 90 minutes."
+        },
+        {
+          "t": "p",
+          "x": "Director Jang Kwon-ho's medium-length film ‘Roy on the Road’ shows how AI can extend cinematic imagination, while director Robert Godet's short ‘A Face Pretty Only to Mom’ crosses animation and live action to create an unusual time and space."
+        },
+        {
+          "t": "p",
+          "x": "The films screen at 20 locations in Gyeonggi and 11 in Seoul. Audiences can see them in major Gyeonggi areas such as Suwon, Dongtan, Pangyo, Bucheon and Yongin, and at major Seoul locations such as Konkuk University Entrance, Gimpo Airport, Yeongdeungpo, Yongsan and World Tower."
+        },
+        {
+          "t": "p",
+          "x": "A Lotte Cinema official said on the 16th, “It is very meaningful to introduce in theaters works that carry creators' new challenges and imagination,” adding, “We will continue to connect future-oriented content with theaters to offer a distinctive cultural experience.”"
+        }
+      ]
+    },
+    "movies/movies-tapnow-arena-seoul": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
+          "cap": "A scene from ‘Seopun’, a Korean AI short that won a bronze prize at ‘Arena Peak Asia’. Photo: Yaho"
+        },
+        {
+          "t": "p",
+          "x": "Around 7 p.m. on the 17th, the Seoul round of ‘Arena Peak Asia’, an AI filmmaking contest hosted by Hong Kong-based AI creation platform TapNow, ended in a building in Seocho-gu, Seoul. Over 32 hours starting the previous day, teams made AI films 3 to 8 minutes long, using TapNow for more than 80% of the work."
+        },
+        {
+          "t": "p",
+          "x": "The contest, with total prize money of more than 80,000 dollars (8만달러, about 1억원), was ‘desk-bound production’: planning, shooting, editing, music, sound, dubbing and VFX all handled on a single computer. A total of 160 teams (up to 3 people each) from Korea, China and Japan, selected through an open call, competed at the same time, and the Seoul event was co-organized by the Chung-Ang University Graduate School of Advanced Imaging Science and the Seoul International Extreme-Short Image & Film Festival."
+        },
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
+          "cap": "Equipment the participants brought themselves. Photo: Seoul International Extreme-Short Image & Film Festival"
+        },
+        {
+          "t": "p",
+          "x": "When the theme was announced at 11 a.m. on the 16th, many participants asked ChatGPT, Claude and others for plots and genres, and many also left storyboard analysis to AI. Some broke from the conventional workflow, generating character designs and music while writing the script, and producing and editing video at the same time."
+        },
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
+          "cap": "The 40 Korean teams that took part in the 32-hour AI filmmaking contest. Photo: Seoul International Extreme-Short Image & Film Festival"
+        },
+        {
+          "t": "p",
+          "x": "At the awards ceremony on the 18th, ‘Seopun’, a short made by hobbyists who met through an AI study group, was the only film by a Korean team to win a main prize (bronze) across the 3 countries. Juror and director Min Kyu-dong said, “It made me think filmmaking could become a sport, like a game.”"
+        }
+      ]
+    },
+    "movies/movies-bbc-ai-honesty": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
+          "cap": "BBC content boss Kate Phillips"
+        },
+        {
+          "t": "p",
+          "x": "The BBC will never lie to viewers about its use of artificial intelligence, content boss Kate Phillips said today."
+        },
+        {
+          "t": "p",
+          "x": "Phillips noted that “AI is part of TV production now” as a “research and edit tool” but said the corporation will never use AI on huge shows like Blue Planet III in terms of what you see on screen. She was speaking as the MIPCOM audience was shown a trailer of Blue Planet III."
+        },
+        {
+          "t": "p",
+          "x": "“We would never use AI on something that because you are lying to the audience and we can never do that,” Phillips said in Cannes."
+        },
+        {
+          "t": "p",
+          "x": "Her comments came a fortnight after her boss, DG Matt Brittin, said he had been sent an AI-generated episode of Doctor Who, which he called “pretty good.” This has got some people’s backs up at the BBC, who fear for AI’s impact on jobs and creativity."
+        },
+        {
+          "t": "p",
+          "x": "Phillips delivered an emotional statement today about how the BBC will continue commissioning shows the way it always has, rather than relying on algorithms."
+        },
+        {
+          "t": "p",
+          "x": "Her comments came as the BBC works more closely with YouTube including launching numerous channels and a day after YouTube Europe boss Pedro Pina said the platform is “not invested in producing content.”"
+        },
+        {
+          "t": "p",
+          "x": "“Someone asked me recently about algorithms and whether I’d commission based on algorithms and I’d like to say very clearly, ‘Absolutely not’,” said Phillips. “Just because the distribution mechanism is changing it doesn’t mean that our creative goals have changed. People want great content. YouTube is not a commissioner, it’s a platform. If you commission based on algorithms you are literally a creative carcass.”"
+        }
+      ]
+    },
+    "movies/movies-artcraft-filmcraft": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/filmcraft-hero-featured.jpg",
+          "cap": "ArtCraft’s FilmCraft is supposed to replace Adobe Premiere. Image credit: ArtCraft"
+        },
+        {
+          "t": "p",
+          "x": "Developer Brandon Thomas and his company ArtCraft have released seven free, open-source applications modeled on Adobe’s Creative Cloud apps, including FilmCraft as a Premiere Pro alternative and EffectCraft for After Effects. According to Thomas, the apps were written in Rust with the help of an AI coding model, and his motivation was Adobe’s cancellation fee. He says he used Anthropic’s Claude Opus 5.5 to write the code. ArtCraft labels them alpha software."
+        },
+        {
+          "t": "video",
+          "yt": "ZGeOTtmIoK0"
+        },
+        {
+          "t": "p",
+          "x": "FilmCraft offers Source and Program monitors, a multi-track timeline, ripple, roll, slip and slide trims and unlimited undo. Its codecs are written by the project itself, without FFmpeg. It cannot open Premiere Pro projects; timelines move between the two via Final Cut Pro 7 XML. The project rates it at about 86% feature breadth and about 56% “ready for real work.”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/Artcraft-Filmcraft-color-900x506.jpg",
+          "cap": "Scopes and Timeline in FilmCraft. Image credit: ArtCraft"
+        },
+        {
+          "t": "p",
+          "x": "EffectCraft offers 306 effects, expressions, 3D cameras and lights, but cannot open .aep or .aepx files, and After Effects plugins do not run."
+        },
+        {
+          "t": "p",
+          "x": "Every function in FilmCraft is a command that can be triggered from the UI, a command-line tool, a JSON control channel or an MCP server, and the README says the trailer and grades in its screenshots were produced by an AI agent operating the app. The clean-room claim has not been independently verified, and how much of the code the AI model wrote rests on Thomas’s account. Adobe has not commented publicly."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/effectcraft-graph-editor-900x506.jpg",
+          "cap": "Graph editor with eased keyframes in EffectCraft. Image credit: ArtCraft"
+        },
+        {
+          "t": "p",
+          "x": "All Craft Apps are free. At the time of writing, FilmCraft had around 10,600 stars and 4,200 forks on GitHub."
+        }
+      ]
     }
   }
 }

@@ -2964,6 +2964,115 @@
           "x": "Las reglas de Apple también establecen con mayor claridad que cualquier app que «facilite la trata de personas o la explotación infantil» será retirada de la App Store y «bloqueada en la distribución alternativa»."
         }
       ]
+    },
+    "politics/politics-taiwan-server-exports": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
+          "cap": "Parque Conmemorativo Chiang Kai-shek en Taipéi (Imagen: Jowi Morales/Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "Taiwán amplía su lista de exportaciones controladas para incluir servidores de IA y los chips más recientes, en línea con las prohibiciones comerciales de Estados Unidos (U.S.). Según Bloomberg, cuando entren en vigor los controles, los contrabandistas serán acusados penalmente en virtud de la Ley de Comercio Exterior (Foreign Trade Act), que prevé hasta cinco años de prisión y/o una multa de alrededor de $92,500."
+        },
+        {
+          "t": "p",
+          "x": "“En adelante, algunas de nuestras medidas sobre artículos controlados se corresponderán con las estadounidenses, porque hemos asumido bastantes compromisos en el Acuerdo de Comercio Recíproco (Agreement on Reciprocal Trade)”, dijo el ministro de Asuntos Económicos, Kung Ming-hsin. Ese acuerdo redujo al 15% los aranceles de EE. UU. (U.S.) a los productos taiwaneses."
+        },
+        {
+          "t": "p",
+          "x": "La medida llega tras un caso en EE. UU. (U.S.) que acusa a tres empleados de Super Micro de contrabandear servidores de IA por 2.5 mil millones de dólares ($2.5 billion), y un registro taiwanés de las oficinas de Super Micro en Taipéi que derivó en nueve acusaciones. Hasta que se aprueben los nuevos controles, Taiwán no considera delito exportar chips de IA a China, por lo que los infractores deben ser acusados en virtud de otras leyes."
+        },
+        {
+          "t": "p",
+          "x": "Tom's Hardware señala que la medida probablemente agradaría a Washington, pero podría provocar a Pekín, que el año pasado condenó a Taipéi por sus restricciones a Huawei y SMIC."
+        }
+      ]
+    },
+    "politics/politics-uk-ai-sovereignty-letter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En julio de 2026, el Council for Science and Technology (CST), el máximo órgano asesor independiente del Gobierno en ciencia y tecnología, escribió al ministro de IA (Minister for AI) con recomendaciones sobre soberanía en IA; la carta se publicó el 19 de octubre."
+        },
+        {
+          "t": "p",
+          "x": "El CST define la soberanía en IA como contar con suficiente capacidad de acción a lo largo de la cadena de valor de la IA para lograr los resultados que elija el Reino Unido (UK), captar valor económico y público y mantener la resiliencia bajo presión. Advierte que, sin una acción deliberada y urgente, el país corre el riesgo de convertirse en “un cliente de IA de alto valor, en lugar de un país capaz de moldear la tecnología”."
+        },
+        {
+          "t": "p",
+          "x": "Formula 4 recomendaciones: elaborar un UK AI Sovereignty Plan basado en un mapa del ecosistema de IA, que sirva para elegir pilotos rápidos de interés público; establecer una gobernanza clara con un único responsable; invertir ya en habilidades, datos y confianza pública; y mantener un acceso fiable a los modelos de IA punteros mientras se desarrolla capacidad propia seleccionada, lo que incluye estudiar la propuesta del Alan Turing Institute de un modelo base soberano de interés público."
+        }
+      ]
+    },
+    "politics/politics-greece-daedalus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Grecia ha puesto en marcha Daedalus, el supercomputador más potente jamás instalado en el país. Con una inversión de €58.9 millones y, según los datos disponibles, en el puesto 31 del mundo, el sistema se inauguró en Lavrio (Ática) para reducir la dependencia de la computación extranjera."
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
+          "cap": "Supercomputador — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+        },
+        {
+          "t": "p",
+          "x": "Con 85.69 petaflops, permite a universidades, empresas y organismos públicos entrenar modelos de IA en infraestructura situada en Grecia, incluido el procesamiento de datos sensibles dentro del país. No está diseñado para rivalizar con los sistemas de exaescala de Europa."
+        },
+        {
+          "t": "p",
+          "x": "Basado en Nvidia Grace Hopper GH200 con refrigeración líquida, se ubica en una antigua central eléctrica gestionada por la Universidad Técnica Nacional de Atenas y lo opera GRNET. La financiación procede del Mecanismo de Recuperación y Resiliencia y de EuroHPC."
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
+          "cap": "Supercomputador — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+        },
+        {
+          "t": "p",
+          "x": "Está previsto ampliar el servicio a empresas a través de Pharos AI Factory a partir de marzo de 2027; se espera que las start-ups y las pymes (SMEs) tengan acceso gratuito dentro de los límites de ayudas de Estado de la UE (EU)."
+        }
+      ]
+    },
+    "politics/politics-disney-characterai-363": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
+          "cap": "Un logotipo de Disney."
+        },
+        {
+          "t": "p",
+          "x": "Documentos judiciales indican que la quiebra de Character.AI fue una pieza clave de un acuerdo que permitió a Disney contratar a la mayor parte de su plantilla, incluido su ex CEO Karandeep Anand, adquirir potencialmente la mayor parte de su tecnología y evitar sus responsabilidades legales. Una moción señala que Disney exigió que el acuerdo se “consumara por completo” mediante la quiebra, citando la “reserva de efectivo cada vez menor y los importantes riesgos regulatorios y de litigio” de la startup. Disney declinó hacer comentarios."
+        },
+        {
+          "t": "p",
+          "x": "En septiembre, Disney pagó $5.5 millones más un depósito reembolsable de $2 millones. Tras la solicitud del Chapter 11 del 12 de octubre, Disney aspira a obtener una licencia perpetua, mundial y no exclusiva sobre gran parte del código y las herramientas de Character.AI; la licencia se subastará, con un pago de cierre de $12.5 millones si Disney gana."
+        },
+        {
+          "t": "p",
+          "x": "Un borrador de “363 Free and Clear Order” establecería que el acuerdo no es una fusión y que Character.AI sigue siendo responsable de cualquier pasivo, incluidas las reclamaciones legales. Los estados que investigan a la empresa afirman que se reservan el derecho de impugnar cualquier plan de quiebra."
+        }
+      ]
+    },
+    "politics/politics-anthropic-draft-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+          "cap": "El ícono de la app de AI de Anthropic, “Claude”, aparece en un dispositivo el 16 de septiembre de 2026. (Leon Neal/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Representantes de Anthropic han presentado discretamente a legisladores de Capitol Hill un borrador de ley para regular la seguridad y la protección de la AI de frontera, informó POLITICO citando a tres personas."
+        },
+        {
+          "t": "p",
+          "x": "La propuesta limitaría las circunstancias en que el gobierno podría bloquear el lanzamiento de un modelo avanzado y primaría sobre algunas leyes estatales de seguridad de la AI."
+        }
+      ]
     }
   }
 }

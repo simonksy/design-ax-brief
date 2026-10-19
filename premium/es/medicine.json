@@ -1415,6 +1415,125 @@
           "x": "Los autores califican los hallazgos de exploratorios, señalan un posible sesgo de supervivencia y afirman que se necesita más investigación para determinar su generalización."
         }
       ]
+    },
+    "medicine/medicine-ai-infocare-previsit-summaries": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "La alfabetización sanitaria limitada, la jerga clínica y las consultas con poco tiempo suelen dificultar que los pacientes comprendan sus hallazgos médicos. El ensayo AI-INFOCARE evaluó si resúmenes en lenguaje sencillo generados por AI (AI-generated) y con control de calidad, entregados antes de la consulta, mejoran la comunicación."
+        },
+        {
+          "t": "p",
+          "x": "En un ensayo unicéntrico en consultas externas de neurocirugía, 300 adultos fueron asignados aleatoriamente 1:1 a atención estándar con o sin un resumen para legos de sus hallazgos médicos generado por AI y con control de calidad (Simply Onno) antes de la visita. El criterio de valoración principal fue la calidad de la interacción médico-paciente comunicada por el paciente (FAPI)."
+        },
+        {
+          "t": "p",
+          "x": "La puntuación media de FAPI fue mayor con los resúmenes (4.42 frente a 4.25; P=0.005), impulsada por la toma de decisiones compartida, sin diferencias en la empatía percibida. El apoyo a la autonomía valorado por los pacientes fue mayor, mientras que los médicos calificaron su propio apoyo a la autonomía como algo menor. La mediana de duración de la consulta fue de 25 frente a 33 minutos, una reducción relativa aproximada del 21%."
+        },
+        {
+          "t": "p",
+          "x": "Los autores afirman que los resultados respaldan seguir evaluando la traducción de documentos dirigidos a pacientes, pero que sus efectos sobre los resultados clínicos y la carga de trabajo de los médicos deben confirmarse antes de una adopción rutinaria."
+        }
+      ]
+    },
+    "medicine/medicine-hpi-radiology-workforce-ai": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los comentarios publicados recientemente sobre la fuerza laboral en radiología podrían ser engañosos, según un editorial en el Journal of the American College of Radiology dirigido por Elizabeth Rula, PhD, directora ejecutiva del Harvey L. Neiman Health Policy Institute (HPI) del ACR."
+        },
+        {
+          "t": "p",
+          "x": "Los comentarios, de David Cutler, PhD, de Harvard, y Lev Klarnet en JAMA Health Forum, sugerían que una disminución de la imagen médica ha \"permitido a EE. UU. (U.S.) cubrir la necesidad de imagen sin aumentar el número de radiólogos\". El equipo del HPI afirma que esto \"ignora una década de evidencia\" y se apoya en datos de hace una década."
+        },
+        {
+          "t": "p",
+          "x": "El HPI cita investigaciones que proyectan que el uso de imagen en EE. UU. (U.S.) crecerá entre un 17% y un 27% para 2055, datos de Medicare que muestran aumentos significativos del volumen de CT y MRI entre 2016 y 2024, y unas RVUs de imagen por beneficiario en su nivel más alto en 2021, un 13% más que en 2005. La remuneración de los radiólogos ajustada por inflación cayó un 48.3% entre 2005 y 2025, aun cuando la carga de trabajo aumentó."
+        },
+        {
+          "t": "p",
+          "x": "El editorial recuerda la predicción de Geoffrey Hinton en 2016 de que el aprendizaje profundo superaría a los radiólogos, de la que después se retractó, y advierte que restar importancia a los desafíos de la AI en imagen podría tener un efecto dominó similar y perjudicar el acceso de los pacientes a la imagen."
+        }
+      ]
+    },
+    "medicine/medicine-oud-rey-ehr-harmonization": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El trastorno por uso de opioides (OUD) sigue siendo una grave crisis de salud pública en EE. UU. (U.S.). Los autores desarrollaron OUD-REY (OUD Risk Evaluator at 1 Year), un modelo de aprendizaje profundo que usa datos longitudinales de EHR del programa de investigación All of Us para predecir el riesgo de OUD a un año en pacientes con una receta de opioides."
+        },
+        {
+          "t": "p",
+          "x": "Un modelo de lenguaje preentrenado permite a OUD-REY incorporar miles de variables clínicas no vistas y fuera de vocabulario (out-of-vocabulary) del historial del paciente, armonizando los datos entre sistemas de EHR. En la validación interna alcanzó un AUROC del 91.2% y un AUPRC del 77.0%."
+        },
+        {
+          "t": "p",
+          "x": "En la validación externa obtuvo un AUROC del 86.4% en un conjunto de datos de All of Us separado en el tiempo y del 85.5% en unos 6 millones de pacientes de Veterans Affairs a lo largo de 20 años. La auditoría de equidad mostró que el modelo era en general equitativo en cuanto a género, raza y etnia."
+        }
+      ]
+    },
+    "medicine/medicine-lunit-sitc2026-io-response": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/14/457e2433-46b3-4edf-ade2-b25144fa397d.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Lunit anunció el día 14 que presentará 2 resúmenes de investigación con su plataforma de biomarcadores de AI Lunit SCOPE en el congreso de la Sociedad para la Inmunoterapia del Cáncer (SITC 2026), que se celebrará del 4 al 8 de noviembre en Phoenix, Arizona (EE. UU.)."
+        },
+        {
+          "t": "p",
+          "x": "Con Labcorp, empresa de servicios de diagnóstico y ensayos clínicos, llevó a cabo un estudio sobre cáncer de ovario basado en perfilado espacial con AI. El estudio comparó las características inmunitarias histológicas entre tumores con deficiencia de recombinación homóloga (HRD) y con recombinación homóloga competente (HRP)."
+        },
+        {
+          "t": "p",
+          "x": "Con CellCarta, organización de investigación por contrato (CRO) global, realizó un estudio conjunto en pacientes con cáncer de vejiga músculo-invasivo. Analizó cómo se relacionan la estructura espacial inmunitaria dentro del tumor y la proximidad entre el tumor y las células T con la respuesta a la inmunoterapia preoperatoria."
+        },
+        {
+          "t": "p",
+          "x": "Desde que presentó por primera vez resultados en SITC en 2021, Lunit suma este año 6 años consecutivos presentando investigaciones. Este año amplió los tipos de cáncer estudiados al de ovario y al de vejiga. Mantiene la colaboración con CellCarta, con la que ya presentó una investigación conjunta en la SITC del año pasado, y ha iniciado una nueva investigación conjunta con Labcorp."
+        },
+        {
+          "t": "p",
+          "x": "SITC es una sociedad del ámbito de la inmunooncología fundada en 1984. En su reunión anual, expertos del mundo académico, la industria y los organismos reguladores debaten los resultados de la investigación en inmunooncología y las tendencias de tratamiento."
+        },
+        {
+          "t": "p",
+          "x": "El consejero delegado de Lunit, Brandon Suh, afirmó: \"Que el alcance de la colaboración con empresas globales se esté ampliando de este modo demuestra que la posición de Lunit en el mercado de la inmunooncología ha crecido en la misma medida\". Y añadió: \"Los logros académicos son un activo importante que puede traducirse en negocio, y la empresa sigue sentando las bases para que Lunit SCOPE se utilice ampliamente en la práctica clínica real\"."
+        }
+      ]
+    },
+    "medicine/medicine-ai-auscultation-lvd": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Un artículo original de Sato y colaboradores en NEJM AI describe el desarrollo y la validación externa, en estudios prospectivos multicéntricos en Japón, de la auscultación potenciada por inteligencia artificial para identificar la disfunción ventricular izquierda."
+        },
+        {
+          "t": "img",
+          "src": "https://ai.nejm.org/cms/asset/1a04c67f-b677-4095-b02f-7ef0d8b4b0d3/aioa2600258_f1.jpg",
+          "cap": "Diseño del estudio: conjuntos de datos de entrenamiento y validación interna (n=2359) y de validación externa (n=1000)."
+        },
+        {
+          "t": "p",
+          "x": "El modelo se entrenó y validó internamente con 2,359 adultos con indicación clínica de ecocardiografía procedentes de un registro multicéntrico de Japón. Con un estetoscopio digital se registraron los ruidos cardíacos de cuatro focos de auscultación y datos de ECG de una sola derivación, y la fracción de eyección del ventrículo izquierdo (LVEF) se midió por ecocardiografía."
+        },
+        {
+          "t": "p",
+          "x": "Un modelo CNN-based y otro transformer-based, cada uno orientado a LVEF ≤40%, se combinaron en un ensamble a través de los cuatro focos de auscultación para formar el modelo final."
+        },
+        {
+          "t": "p",
+          "x": "Después, el modelo final se probó con el mismo umbral en un conjunto de datos externo de 1,000 pacientes de otros seis hospitales de Japón; tras las exclusiones se analizaron 964."
+        }
+      ]
     }
   }
 }

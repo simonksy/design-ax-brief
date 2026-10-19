@@ -1,116 +1,115 @@
 {
- "date": "2026-10-19",
+ "date": "2026-10-20",
  "section": "politics",
  "picks": [
   {
-   "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
-   "title": "Anthropic quietly pitches its own AI safety bill to lawmakers",
-   "source": "POLITICO",
+   "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+   "title": "First harmonised standard supporting the AI Act published in the Official Journal",
+   "source": "European Commission (Shaping Europe's digital future)",
    "category": "politics",
    "axis": "policy",
-   "published_iso": "2026-10-16T21:45:14Z",
-   "og_image": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
-   "excerpt": "Anthropic is circulating a draft federal bill on Capitol Hill that would limit the circumstances in which the government could block the release of an advanced model and preempt some state AI safety laws; reports describe intervention thresholds around 50 deaths or $1 billion in damages.",
+   "published_iso": "2026-10-19T09:37:54+02:00",
+   "og_image": null,
+   "excerpt": "The European Commission published the reference to the first harmonised standard supporting AI Act implementation in the Official Journal of the EU, a milestone ahead of the application of high-risk AI system requirements; further harmonised standards are expected to follow.",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#3b6bff",
    "motif": "cube",
-   "rationale": "New draft federal legislation from a frontier lab. It sets when the government could block a model release and would preempt some state laws, so it bears directly on anyone shipping models. This is a distinct event from the 10-13 House agent-liability proposal. The thresholds come from reports of the draft, so attribute them to POLITICO's reporting and the draft text, and do not present the draft as a filed bill."
+   "rationale": "Primary EU document: the first harmonised standard referenced in the Official Journal gives builders of high-risk AI systems a presumption of conformity under the AI Act, which makes it the most practical compliance news of the day. It is a distinct event from the 10-15 AI Office incident-enforcement card. No og:image, so media needs an in-article or EU asset."
   },
   {
-   "url": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run",
-   "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
-   "source": "Al Jazeera",
+   "url": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
+   "title": "Taiwan targets illicit AI server exports to China with five-year prison terms",
+   "source": "Tom's Hardware",
    "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-17T13:56:29Z",
-   "og_image": "https://www.aljazeera.com/wp-content/uploads/2025/11/AP25309178500980-1762319702.jpg?resize=1200%2C675",
-   "excerpt": "Newsom signed an executive order calling for independent verification of AI models and an expert committee to examine kill switches for AI agents, and asked Cal OES for AI regulation recommendations by November 15, with a possible special legislative session.",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-17T12:20:00Z",
+   "og_image": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e-1920-80.png",
+   "excerpt": "Taiwan is moving to criminalize unauthorized exports of AI servers and chips to China with up to five years in prison, following a US tariff deal and a Super Micro smuggling raid, which could make it easier to charge AI chip smugglers.",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#0070f3",
    "motif": "cube",
-   "rationale": "A new state executive order requiring independent model verification and a committee on kill switches for AI agents, with a November 15 deadline for recommendations. Write it neutrally: report what the order requires and leave out the 2028 campaign angle in the headline."
+   "rationale": "A new Taiwanese government move on AI-chip and server export controls, separate from the 10-02 US DOJ smuggling arrest and the 10-19 China draft catalogue. The domain is off-list (an exception because no allowed outlet covered it), and the measure is not confirmed as a proposal or as cabinet-approved, so the copy must call it a move or proposal unless enrichment confirms approval."
   },
   {
-   "url": "https://jurinews.com.br/en/justica-eleitoral/tse-determines-that-meta-treat-lula-and-flavio-campaigns-equally-under-fine-of-r-500-thousand",
-   "title": "TSE determines that Meta treat Lula and Flávio campaigns equally under fine of R$500 thousand",
-   "source": "JuriNews",
+   "url": "https://www.gov.uk/government/publications/ai-sovereignty-preserving-uk-agency-in-an-ai-enabled-world",
+   "title": "AI sovereignty: preserving UK agency in an AI-enabled world",
+   "source": "GOV.UK",
    "category": "politics",
-   "axis": "elections",
-   "published_iso": "2026-10-16T10:03:00-03:00",
-   "og_image": "https://jurinews.com.br/storage/uploads/featured-image-cropped-1792154748.jpg",
-   "excerpt": "TSE Minister Marco Aurélio Bellizze ordered Meta, under a R$500,000 fine, to treat the Lula and Flávio Bolsonaro campaigns equally, covering distribution limits and Meta AI image generation the PT campaign said blocked pro-Lula images.",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-19T10:30:05+01:00",
+   "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
+   "excerpt": "A published advisory letter to the UK Minister for AI sets out how the UK can build the capability to make strategic choices about current and future AI technology, framed as preserving national agency.",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#7928ca",
    "motif": "cube",
-   "rationale": "A new electoral-court ruling that covers Meta AI image generation in Brazil's runoff. Keep it neutral between the campaigns: the claim that pro-Lula images were blocked is the PT campaign's, so attribute it to the PT, and report the order and the fine as decided."
+   "rationale": "An official UK government publication on sovereign AI capability. It is a different event from the 10-15 GOV.UK AI-risk defences card. Describe it as an advisory letter to the minister, not as adopted policy. The og:image is the generic gov.uk banner."
   },
   {
-   "url": "https://gizmodo.com/137-million-has-been-spent-on-ai-generated-ads-ahead-of-midterms-only-27-included-a-disclaimer-2000827138",
-   "title": "$137 Million Has Been Spent on AI-Generated Ads Ahead of Midterms. Only 27% Included a Disclaimer",
-   "source": "Gizmodo",
+   "url": "https://www.euronews.com/2026/10/19/daedalus-greece-unveils-new-supercomputer-as-it-eyes-role-in-europes-ai-race",
+   "title": "Daedalus: Greece unveils new supercomputer as it eyes role in Europe's AI race",
+   "source": "Euronews",
    "category": "politics",
-   "axis": "elections",
-   "published_iso": "2026-10-16T20:10:12+00:00",
-   "og_image": "https://gizmodo.com/app/uploads/2025/12/voting_machine-1200x675.jpg",
-   "excerpt": "A Wesleyan Media Project analysis found 220 AI-assisted midterm ads in 34 states worth over $137 million, only 27% with a disclaimer; 30 states require AI disclosure and New York Democrats filed a state complaint.",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-19T13:44:00+02:00",
+   "og_image": "https://images.euronews.com/articles/stories/09/95/79/25/1536x864_cmsv2_de5b0eff-1c79-5da3-a42b-bfbbdb93c4e7-9957925.jpg",
+   "excerpt": "Greece inaugurated Daedalus, a €58.9 million, 85.69-petaflop supercomputer in Lavrio ranked 31st worldwide, letting researchers and businesses train AI models on data kept within the country.",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#2ec5c5",
    "motif": "cube",
-   "rationale": "New Wesleyan Media Project data on how often AI-generated campaign ads carry a disclosure, measured against 30 state disclosure laws. It is a different story from the 10-16 Axios piece on AI-safety campaign money. Attribute the figures to Wesleyan, report the NY complaint as filed by the named party, and leave out horse-race framing."
+   "rationale": "A concrete sovereign-AI compute launch by a government: Greece inaugurated the machine, with figures for cost, petaflops and ranking, so researchers and businesses can train models on data kept in the country. It brings in a European national-strategy angle not covered in the 30-day history."
   },
   {
-   "url": "https://thenextweb.com/news/china-ai-export-controls-draft",
-   "title": "China proposes export controls on its advanced AI models and chip designs",
-   "source": "The Next Web",
+   "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+   "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+   "source": "Ars Technica (WIRED)",
    "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-16T13:08:12+00:00",
-   "og_image": "https://media.thenextweb.com/2026/10/ai-processor-chip-gold-pins-circuit-board.jpg",
-   "excerpt": "MOFCOM and MOST's draft revision of China's export-control technology catalogue adds 23 AI technologies, from model weights to AI chip designs; public comments close November 15.",
+   "axis": "policy",
+   "published_iso": "2026-10-19T14:45:43+00:00",
+   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
+   "excerpt": "Court filings in Character.AI's Chapter 11 case show Disney required the deal be consummated through bankruptcy, seeking a perpetual license via a '363 free and clear' order while Character.AI retains liability for chatbot child-safety lawsuits.",
    "source_lang": "en",
    "tool": "Politics",
-   "accent": "#ff5a4d",
+   "accent": "#eb367f",
    "motif": "cube",
-   "rationale": "An official MOFCOM/MOST draft catalogue that would put model weights and AI chip designs under export control, with public comments open until November 15. This is the news report of the draft; the Geopolitechs analysis of the same draft was dropped. The draft is the primary document, so cite it."
+   "rationale": "A follow-up backed by new court filings. Character.AI's Chapter 11 filings show the structure: Disney would get a perpetual license through a '363 free and clear' sale order while the chatbot child-safety liability stays with Character.AI. That bears on AI liability law, and the card is about litigation, not M&A. Attribute the 'get out of lawsuits' framing to WIRED's reading of the filings."
   }
  ],
  "alternates": [
-  "https://www.taiwannews.com.tw/news/6459737",
-  "https://www.business-standard.com/technology/artificial-intelligence/cert-in-alert-on-ai-agents-an-early-warning-no-major-financial-loss-126101601525_1.html",
-  "https://www.rappnews.com/government/data-center-moratorium-bills-stack-up-ahead-of-virginia-legislative-session-in-january-3c355d0c"
+  "https://www.euronews.com/2026/10/19/nvidia-ceo-jensen-huang-warns-germany-is-falling-behind-in-ai-race",
+  "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824"
  ],
  "dedup": {
   "checks": {
-   "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654": {
+   "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal": {
     "verdict": "new",
-    "nearest": "https://www.ciodive.com/news/house-proposal-clarify-liability-rules-ai-agents/832794/",
+    "nearest": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
     "new_action": ""
    },
-   "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run": {
+   "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid": {
+    "verdict": "new",
+    "nearest": "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china",
+    "new_action": ""
+   },
+   "https://www.gov.uk/government/publications/ai-sovereignty-preserving-uk-agency-in-an-ai-enabled-world": {
+    "verdict": "new",
+    "nearest": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+    "new_action": ""
+   },
+   "https://www.euronews.com/2026/10/19/daedalus-greece-unveils-new-supercomputer-as-it-eyes-role-in-europes-ai-race": {
+    "verdict": "new",
+    "nearest": "",
+    "new_action": ""
+   },
+   "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/": {
     "verdict": "follow-up",
-    "nearest": "https://calmatters.org/economy/technology/2026/09/on-ai-newsom-gives-labor-only-some-of-what-it-demanded/",
-    "new_action": "Newsom signed a new executive order requiring independent verification of AI models, creating an expert committee on AI-agent kill switches, and asking Cal OES for recommendations by Nov 15. The 10-03 card covered his bill signings and vetoes."
-   },
-   "https://jurinews.com.br/en/justica-eleitoral/tse-determines-that-meta-treat-lula-and-flavio-campaigns-equally-under-fine-of-r-500-thousand": {
-    "verdict": "follow-up",
-    "nearest": "https://techpolicy.press/meta-moderation-failures-loom-over-brazils-runoff-presidential-election",
-    "new_action": "TSE Minister Bellizze issued a ruling ordering Meta to treat both campaigns equally, including in Meta AI image generation, under a R$500,000 fine. The 10-16 card was analysis written before any ruling."
-   },
-   "https://gizmodo.com/137-million-has-been-spent-on-ai-generated-ads-ahead-of-midterms-only-27-included-a-disclaimer-2000827138": {
-    "verdict": "new",
-    "nearest": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
-    "new_action": ""
-   },
-   "https://thenextweb.com/news/china-ai-export-controls-draft": {
-    "verdict": "new",
-    "nearest": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
-    "new_action": ""
+    "nearest": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+    "new_action": "New court filings in Character.AI's Chapter 11 case show Disney required the deal to go through bankruptcy, with a '363 free and clear' sale order giving Disney a perpetual license while Character.AI keeps the chatbot child-safety lawsuit liability. The 10-15 card covered the NY AG's user-data concerns about the bankruptcy."
    }
   },
-  "note": "Politics 10-19, curator chose the picks (the user deferred). Within-pool duplicates: the Geopolitechs analysis of China's draft AI export controls was dropped because TNW covers the same draft. The Taiwan News chip-export item shares cluster c17, but it is a separate Taiwanese decision; it is kept as the first alternate and was left out only to spread the axes. Dropped as commentary or roundups: all three Tech Policy Press items (the OpenAI lawsuits roundup repeats the 10-15 eight-state suit; the EU liability interview repeats the 10-08 Politico EU card; the weekly roundup). Dropped as same-story or near-repeat: the Daily Caller/AOL piece on the White House task force charter and FTC (the charter was published 10-07 via Politico EU; the Ferguson role is extra detail, and the source is partisan when a primary document is available); TNW MI5 AI threat centre (overlaps the 10-15 GOV.UK 'Britain steps up national defences against growing AI risks' card and the 10-14 WIRED MPs card); Ars OpenAI crypto-wallet hacks (more incidents in the 9-29 rogue-agent running story, no new official action). Dropped as weak fits: Philly delivery-robot arrest, vibe-coded gun, WIRED data-center PR, Ars NJ prosecutor AI CSAM (individual criminal case), Ars Anthropic/METR access (a corporate governance arrangement, not a policy decision), Verge robotaxi city laws (fails the AI-is-the-driver test: these are AV traffic rules), Mississippi Free Press AI ad (a single campaign ad; the Gizmodo/Wesleyan data card covers that axis better). Alternates: Taiwan chip export controls, India CERT-In advisory, Virginia data-center moratorium bills. Diversity: 5 distinct outlets (POLITICO, Al Jazeera, JuriNews, Gizmodo, TNW). Axes: policy x2, elections x2, geopolitics x1. Each pick has a distinct palette accent. Cross-section: no obvious overlap with marketing, though the Gizmodo AI-ads item touches political advertising, so check that marketing did not pick it."
+  "note": "Politics 10-20, curator chose the picks (the user deferred). Dropped as the same running story: Axios 'AI attack-ad nightmare'. It covers the same topic as the 10-19 Gizmodo/Wesleyan card (undisclosed AI campaign ads, the state disclosure-law tally) and adds Axios's own ad review but no new decision, ruling or filing. Dropped as commentary, analysis or roundups on published events: Lawfare on EU AI Act incident reporting (analysis of the 10-15 AI Office/Hugging Face story); Tech Policy Press EU liability podcast (repeats the 10-08 Politico EU card); Tech Policy Press OpenAI weekly roundup (recaps the 10-15 eight-state suit and the AI Office requests); IAPP 'preparing for AI incidents' (commentary); Verge Pritzker Decoder interview (no new action). Dropped on neutrality: Verge 'Democrats think cracking down on AI could give them an edge' (party and campaign-advantage framing). Dropped as weak fits: Ars Anthropic outside-watchdog access (a voluntary corporate arrangement; the same Anthropic/METR item was dropped 10-19); Rest of World AI agents in developing nations (a feature); POLITICO EU French supermarket cyberattack (the piece itself says the story is not about AI, so it fails the delete-AI test). Alternates: Euronews Merz-Nvidia AI pact (the pact had not been unveiled at publication, and the article is mostly Huang's commentary); Register Microsoft dropping its UK supercomputer (a corporate decision, with grid policy as a secondary angle). The Disney/Character.AI story also ran on wired.com; only the Ars copy is used. Diversity: 5 distinct outlets (EC, Tom's Hardware, GOV.UK, Euronews, Ars Technica). Axes: policy x2, geopolitics x3, elections x0 (the only elections candidates were a duplicate and a partisan-framed piece). Each pick has a distinct palette accent. Cross-section: Tom's Hardware Taiwan exports could also appear in gadgets, so check before roll."
  }
 }

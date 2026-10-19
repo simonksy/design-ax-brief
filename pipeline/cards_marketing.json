@@ -1,167 +1,311 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-amazon",
+      "id": "marketing-meta-genrecs",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ADOTAT: Amazon\n광고 타기팅, AI가 기본",
-      "body": "ADOTAT은 Amazon Full-Funnel이 타기팅을 AI에 맡긴다고 본다.",
-      "mini_headline": "Amazon, AI에 광고 타기팅 맡겨",
+      "headline": "Meta, 광고마다\n콘텐츠 기반 토큰",
+      "body": "Meta는 광고를 의미 토큰으로 바꾸고 GEM과 함께 전환을 0.35% 올렸다.",
+      "mini_headline": "Meta, 광고 표현을 다시 짜다",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/amazons-100-a-day-full-funnel-campaigns-hand-targeting-to-ai-adotat-says/",
+      "source": "Engineering at Meta",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "Meta의 Generative Recommenders(GenRecs)는 광고 시스템을 모든 광고 후보에 점수를 매기던 방식에서 LLM 아키텍처로 광고 콘텐츠와 사용자 선호를 함께 추론하는 방식으로 바꾼다. 바탕에는 GenRecs Tokenization이 있다. 항목마다 전용 ID를 붙이지 않고 광고·상품·페이지·픽셀을 하나하나 안정된 의미 어휘의 토큰으로 나타낸다."
+          },
+          {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+            "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "업계 뉴스레터 ADOTAT의 10월 1일 분석에 따르면 Amazon은 unBoxed 2026에서 \"Amazon DSP\"라는 이름을 없앴지만 구매 엔진은 그대로 두고, 트레이더가 쓰던 제어 기능을 고급 설정 토글 뒤로 옮겼다. 칼럼 주장대로라면 이제 기본 경로에서는 Amazon의 AI 에이전트가 채널과 오디언스, 입찰가를 고르고 그 결과도 Amazon 자체 데이터로 평가한다. Amazon 측은 DSP의 프로그래매틱 기능을 DVA+ 고급 설정에서 지금도 쓸 수 있다는 입장이다."
+            "x": "사전 학습된 멀티모달 모델이 항목의 텍스트와 이미지를 읽어 임베딩으로 만든다. 토크나이저는 여기에 참여 데이터로 학습한 표현을 결합하고 그 결과를 짧은 이산 토큰 시퀀스로 양자화한다. 파이프라인은 인코딩 후 임베딩을 하위 공간으로 쪼개 각 공간을 코드북 항목에 대응시킨다. 비슷한 항목끼리 토큰을 나눠 쓰니 새 트레일 러닝화도 모델이 지난 시즌 제품에서 배운 것을 물려받는다."
+          },
+          {
+            "t": "img",
+            "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "새 Amazon Ads Agent 아래에는 Sponsored Ads, DVA+, Full-Funnel Campaigns가 있다. 하루 $100부터 시작하는 Full-Funnel은 신규 고객(new-to-brand) 매출 같은 성과를 목표로 잡고, Amazon이 여러 형식에 예산을 나눈다. ADOTAT은 \"자격 요건에 따라 U.S. 광고주에게 실제로 열려 있는 것은 Full-Funnel Campaigns\"라며 \"트레이더가 운전대를 쥐게 해주는 기능은 아직 베타\"라고 썼다. DVA+는 US 비공개 베타였고 공개 베타는 10월 말로 예상됐다."
+            "x": "토크나이저 여덟 개 버전을 거치는 동안 내재 지표(클러스터 순도, 분포 균형, 코드북 활용도)와 CTR 예측 정확도 사이에 강한 상관관계가 나타났다."
+          },
+          {
+            "t": "img",
+            "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "칼럼은 \"기본값이 운명\"이라고 말한다. ADOTAT도 자사의 상업적 해석이 추론임을 인정한다. 무료 미리보기에는 Full-Funnel이 오디언스 선택을 막는다는 내용이 없다."
+            "x": "노출이 적은 롱테일 광고의 예측이 나아지면 모든 광고의 학습 데이터도 좋아진다. 플라이휠이 스스로 돌아가는 셈이다."
+          },
+          {
+            "t": "img",
+            "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
+            "cap": ""
+          },
+          {
+            "t": "p",
+            "x": "Meta의 GEM, Adaptive Ranking Model과 함께 쓴 GenRecs Tokenization은 여러 지면에서 전환을 +0.35% 끌어올렸다(Meta 내부 데이터, 2026년 2월). 다음으로는 토큰화 적용 범위를 넓히고 텍스트·이미지·오디오·비디오를 아우르는 공유 토큰 공간을 만들 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ADOTAT: Amazon hands ad\ntargeting to AI by default",
-          "body": "ADOTAT: Amazon's $100-a-day Full-Funnel campaigns hand targeting to AI, while DVA+'s DSP controls sat in closed beta.",
-          "mini_headline": "Amazon lets AI target ads",
+          "headline": "Meta gives each ad tokens\nbuilt from its content",
+          "body": "Meta now encodes each ad as semantic tokens from multimodal embeddings; paired with GEM, it reports a 0.35% conversion lift.",
+          "mini_headline": "Meta recodes its ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta's Generative Recommenders (GenRecs) shift its ads system from scoring every ad candidate to using LLM architecture to reason about ad content and user preferences together. The foundation is GenRecs Tokenization: instead of a dedicated ID for every item, each ad, product, page or pixel is represented by tokens from a stable semantic vocabulary."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Amazon retired the \"Amazon DSP\" name at unBoxed 2026 but kept the buying engine, moving the controls traders use behind an advanced-settings toggle, according to an October 1 analysis by the trade newsletter ADOTAT. The column argues Amazon's AI agent now chooses channels, audiences and bids in its default path, then grades the results with Amazon's own data. Amazon says the DSP's programmatic capabilities remain available within DVA+ advanced settings."
+                "x": "Pre-trained multimodal models read an item's text and images into an embedding; the tokenizer combines that with engagement-learned representations and quantizes the result into a short sequence of discrete tokens. The pipeline encodes, decomposes the embedding into subspaces, and maps each to a codebook entry. Similar items share tokens, so a new trail shoe inherits what the model learned from last season's."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Under the new Amazon Ads Agent umbrella sit Sponsored Ads, DVA+ and Full-Funnel Campaigns. In Full-Funnel, which starts at $100 a day, Amazon allocates the budget across formats toward outcomes such as new-to-brand sales. \"The thing that is actually live for U.S. advertisers, subject to eligibility, is Full-Funnel Campaigns,\" ADOTAT wrote. \"The thing that keeps the trader's hands on the wheel is the thing still in beta.\" DVA+ was in US closed beta, with open beta expected in late October."
+                "x": "Across eight tokenizer versions, intrinsic measures (cluster purity, distribution balance, codebook utilization) correlated strongly with CTR prediction accuracy."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "\"Defaults are destiny,\" the column states. ADOTAT labels its commercial reading as inference, and its free preview does not say Full-Funnel blocks audience selection."
+                "x": "Better predictions for low-impression tail ads also improve training data for all ads, a self-reinforcing flywheel."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Paired with Meta's GEM and Adaptive Ranking Model, GenRecs Tokenization delivered a +0.35% lift in conversions across surfaces (Meta internal data, February 2026). Next: wider tokenization coverage and a shared token space across text, image, audio and video."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ADOTAT: Amazon\n광고 타기팅, AI가 기본",
-          "body": "ADOTAT은 Amazon Full-Funnel이 타기팅을 AI에 맡긴다고 본다.",
-          "mini_headline": "Amazon, AI에 광고 타기팅 맡겨",
+          "headline": "Meta, 광고마다\n콘텐츠 기반 토큰",
+          "body": "Meta는 광고를 의미 토큰으로 바꾸고 GEM과 함께 전환을 0.35% 올렸다.",
+          "mini_headline": "Meta, 광고 표현을 다시 짜다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta의 Generative Recommenders(GenRecs)는 광고 시스템을 모든 광고 후보에 점수를 매기던 방식에서 LLM 아키텍처로 광고 콘텐츠와 사용자 선호를 함께 추론하는 방식으로 바꾼다. 바탕에는 GenRecs Tokenization이 있다. 항목마다 전용 ID를 붙이지 않고 광고·상품·페이지·픽셀을 하나하나 안정된 의미 어휘의 토큰으로 나타낸다."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "업계 뉴스레터 ADOTAT의 10월 1일 분석에 따르면 Amazon은 unBoxed 2026에서 \"Amazon DSP\"라는 이름을 없앴지만 구매 엔진은 그대로 두고, 트레이더가 쓰던 제어 기능을 고급 설정 토글 뒤로 옮겼다. 칼럼 주장대로라면 이제 기본 경로에서는 Amazon의 AI 에이전트가 채널과 오디언스, 입찰가를 고르고 그 결과도 Amazon 자체 데이터로 평가한다. Amazon 측은 DSP의 프로그래매틱 기능을 DVA+ 고급 설정에서 지금도 쓸 수 있다는 입장이다."
+                "x": "사전 학습된 멀티모달 모델이 항목의 텍스트와 이미지를 읽어 임베딩으로 만든다. 토크나이저는 여기에 참여 데이터로 학습한 표현을 결합하고 그 결과를 짧은 이산 토큰 시퀀스로 양자화한다. 파이프라인은 인코딩 후 임베딩을 하위 공간으로 쪼개 각 공간을 코드북 항목에 대응시킨다. 비슷한 항목끼리 토큰을 나눠 쓰니 새 트레일 러닝화도 모델이 지난 시즌 제품에서 배운 것을 물려받는다."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "새 Amazon Ads Agent 아래에는 Sponsored Ads, DVA+, Full-Funnel Campaigns가 있다. 하루 $100부터 시작하는 Full-Funnel은 신규 고객(new-to-brand) 매출 같은 성과를 목표로 잡고, Amazon이 여러 형식에 예산을 나눈다. ADOTAT은 \"자격 요건에 따라 U.S. 광고주에게 실제로 열려 있는 것은 Full-Funnel Campaigns\"라며 \"트레이더가 운전대를 쥐게 해주는 기능은 아직 베타\"라고 썼다. DVA+는 US 비공개 베타였고 공개 베타는 10월 말로 예상됐다."
+                "x": "토크나이저 여덟 개 버전을 거치는 동안 내재 지표(클러스터 순도, 분포 균형, 코드북 활용도)와 CTR 예측 정확도 사이에 강한 상관관계가 나타났다."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "칼럼은 \"기본값이 운명\"이라고 말한다. ADOTAT도 자사의 상업적 해석이 추론임을 인정한다. 무료 미리보기에는 Full-Funnel이 오디언스 선택을 막는다는 내용이 없다."
+                "x": "노출이 적은 롱테일 광고의 예측이 나아지면 모든 광고의 학습 데이터도 좋아진다. 플라이휠이 스스로 돌아가는 셈이다."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Meta의 GEM, Adaptive Ranking Model과 함께 쓴 GenRecs Tokenization은 여러 지면에서 전환을 +0.35% 끌어올렸다(Meta 내부 데이터, 2026년 2월). 다음으로는 토큰화 적용 범위를 넓히고 텍스트·이미지·오디오·비디오를 아우르는 공유 토큰 공간을 만들 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ADOTAT: Amazon\n標準で配信先をAIに委ねる",
-          "body": "ADOTATは、AmazonのFull-FunnelがターゲティングをAIに任せると見る。",
-          "mini_headline": "AmazonがAIに広告ターゲティング",
+          "headline": "Meta、広告ごとに\n中身由来のトークン",
+          "body": "Metaは広告を意味トークンで表し、GEM併用でコンバージョン0.35%増を報告した。",
+          "mini_headline": "Metaが広告を再符号化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "MetaのGenerative Recommenders(GenRecs)は、広告システムを、すべての広告候補にスコアを付ける方式から、LLMアーキテクチャで広告の内容とユーザーの好みをまとめて推論する方式へ移す。基盤となるのはGenRecs Tokenizationだ。アイテムごとに専用のIDを割り当てる代わりに、広告、商品、ページ、ピクセルのそれぞれを、安定した意味語彙のトークンで表現する。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "業界ニュースレターADOTATの10月1日付の分析によると、AmazonはunBoxed 2026で「Amazon DSP」の名称を廃止したが、買い付けエンジンは残し、トレーダーが使う操作機能を詳細設定のトグルの奥に移した。コラムは、AmazonのAIエージェントが既定の経路でチャネル、オーディエンス、入札額を選び、その結果をAmazon自身のデータで評価するようになったと論じる。Amazonは、DSPのプログラマティック機能はDVA+の詳細設定内で引き続き利用できるとしている。"
+                "x": "事前学習済みのマルチモーダルモデルがアイテムのテキストと画像を読み込み、埋め込みに変換する。トークナイザーはこれをエンゲージメントから学習した表現と組み合わせ、結果を短い離散トークン列に量子化する。パイプラインはエンコードし、埋め込みを部分空間に分解して、それぞれをコードブックの項目に対応づける。似たアイテムはトークンを共有するため、新しいトレイルシューズは、モデルが前シーズンの靴から学んだことを引き継ぐ。"
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "新たなAmazon Ads Agentの傘下には、Sponsored Ads、DVA+、Full-Funnel Campaignsが並ぶ。1日$100から始まるFull-Funnelでは、Amazonがnew-to-brand売上などの成果に向けて複数のフォーマットに予算を配分する。ADOTATは「資格要件を条件に、U.S.の広告主に実際に提供されているのはFull-Funnel Campaignsだ」とし、「トレーダーがハンドルを握り続けられる機能は、まだベータ版だ」と書いた。DVA+はUSでクローズドベータの段階にあり、オープンベータは10月下旬の見込みだった。"
+                "x": "八つのトークナイザー版を通じて、内在的指標(クラスター純度、分布バランス、コードブック利用率)はCTR予測精度と強く相関した。"
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "コラムは「デフォルトが運命を決める」と述べる。ADOTATは自らの商業的な読みを推論と位置づけており、無料プレビューにはFull-Funnelがオーディエンス選択を妨げるとの記述はない。"
+                "x": "インプレッションの少ないテール広告の予測が改善すると、全広告の学習データも良くなる。自己強化型のフライホイールである。"
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "MetaのGEMおよびAdaptive Ranking Modelと組み合わせたGenRecs Tokenizationは、各面でコンバージョンを+0.35%押し上げた(Meta社内データ、2026年2月)。次の段階は、トークン化の対象範囲の拡大と、テキスト・画像・音声・動画をまたぐ共有トークン空間である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ADOTAT: Amazon\n默认交由AI定向广告",
-          "body": "ADOTAT称，Amazon每日$100起的Full-Funnel广告将定向交给AI。",
-          "mini_headline": "Amazon让AI定向广告",
+          "headline": "Meta为每条广告\n按内容生成令牌",
+          "body": "Meta用多模态嵌入将每条广告编码为语义令牌，配合GEM后报告转化提升0.35%。",
+          "mini_headline": "Meta重编广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta的Generative Recommenders（GenRecs）让广告系统从为每个候选广告打分，转向用LLM架构同时推理广告内容与用户偏好。其基础是GenRecs Tokenization：不再为每个条目分配专属ID，而是用来自稳定语义词表的令牌来表示每条广告、每件商品、每个页面或像素。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "据行业通讯ADOTAT在10月1日发布的分析，Amazon在unBoxed 2026上停用了“Amazon DSP”这一名称，但保留了购买引擎，并把交易员使用的控制项移到了高级设置开关之后。该专栏认为，Amazon的AI代理如今在默认路径中选择渠道、受众和出价，再用Amazon自己的数据评估结果。Amazon表示，DSP的程序化功能仍可在DVA+高级设置中使用。"
+                "x": "预训练多模态模型读取条目的文本和图像，生成嵌入；令牌化器把它与从互动中学到的表征结合，再量化为一小串离散令牌。流水线先编码，再把嵌入分解为若干子空间，并把每个子空间映射到码本条目。相似条目共享令牌，因此一双新的越野跑鞋能继承模型从上一季鞋款中学到的东西。"
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "新的Amazon Ads Agent旗下包括Sponsored Ads、DVA+和Full-Funnel Campaigns。Full-Funnel每日$100起，由Amazon围绕new-to-brand销售等成果在各类形式之间分配预算。ADOTAT写道：“视资格而定，真正向U.S.广告主上线的是Full-Funnel Campaigns。”“让交易员手握方向盘的功能仍处于测试阶段。”DVA+当时在US处于封闭测试，公开测试预计在10月下旬推出。"
+                "x": "在八个令牌化器版本中，内在指标（聚类纯度、分布均衡度、码本利用率）与CTR预测准确度高度相关。"
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "该专栏写道：“默认即命运。”ADOTAT将其商业解读标注为推断，其免费预览也并未说Full-Funnel会阻止受众选择。"
+                "x": "低曝光长尾广告的预测改善后，所有广告的训练数据也随之改善，形成自我强化的飞轮。"
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "与Meta的GEM和Adaptive Ranking Model搭配后，GenRecs Tokenization在各个版面带来+0.35%的转化提升（Meta内部数据，2026年2月）。下一步是扩大令牌化覆盖范围，并建立横跨文本、图像、音频和视频的共享令牌空间。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ADOTAT: Amazon cede a la IA\nla segmentación por defecto",
-          "body": "ADOTAT: las campañas Full-Funnel dan la segmentación a la IA; los controles DSP de DVA+ seguían en beta cerrada.",
-          "mini_headline": "Amazon deja a la IA segmentar anuncios",
+          "headline": "Meta asigna a cada anuncio\ntokens según su contenido",
+          "body": "Meta codifica cada anuncio en tokens semánticos y, junto con GEM, reporta un alza de 0.35% en conversiones.",
+          "mini_headline": "Meta recodifica sus anuncios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Generative Recommenders (GenRecs) de Meta cambia su sistema de anuncios: en lugar de puntuar cada anuncio candidato, usa una arquitectura LLM para razonar a la vez sobre el contenido de los anuncios y las preferencias de los usuarios. La base es GenRecs Tokenization: en vez de un ID dedicado para cada elemento, cada anuncio, producto, página o píxel se representa con tokens de un vocabulario semántico estable."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Amazon retiró el nombre \"Amazon DSP\" en unBoxed 2026, pero conservó el motor de compra y trasladó los controles que usan los traders detrás de un interruptor de configuración avanzada, según un análisis del 1 de octubre del boletín del sector ADOTAT. La columna sostiene que el agente de IA de Amazon elige ahora canales, audiencias y pujas en su ruta predeterminada y luego evalúa los resultados con los datos propios de Amazon. Amazon afirma que las capacidades programáticas del DSP siguen disponibles en la configuración avanzada de DVA+."
+                "x": "Modelos multimodales preentrenados leen el texto y las imágenes de un elemento y los convierten en un embedding; el tokenizador lo combina con representaciones aprendidas de la interacción y cuantiza el resultado en una secuencia corta de tokens discretos. El pipeline codifica, descompone el embedding en subespacios y asigna cada uno a una entrada del codebook. Los elementos similares comparten tokens, así que una nueva zapatilla de trail hereda lo que el modelo aprendió de la de la temporada pasada."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Bajo el nuevo paraguas de Amazon Ads Agent se agrupan Sponsored Ads, DVA+ y Full-Funnel Campaigns. En Full-Funnel, que parte de $100 al día, Amazon reparte el presupuesto entre formatos en función de resultados como las ventas new-to-brand. \"Lo que de verdad está activo para los anunciantes de U.S. (EE. UU.), sujeto a elegibilidad, son las Full-Funnel Campaigns\", escribió ADOTAT. \"Lo que mantiene las manos del trader en el volante es lo que sigue en beta\". DVA+ estaba en beta cerrada en US, con una beta abierta prevista para finales de octubre."
+                "x": "En ocho versiones del tokenizador, las medidas intrínsecas (pureza de clústeres, equilibrio de la distribución, uso del codebook) se correlacionaron fuertemente con la precisión de predicción del CTR."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "\"Los valores predeterminados son el destino\", afirma la columna. ADOTAT presenta su lectura comercial como una inferencia, y su vista previa gratuita no dice que Full-Funnel bloquee la selección de audiencias."
+                "x": "Mejores predicciones para los anuncios de cola con pocas impresiones también mejoran los datos de entrenamiento de todos los anuncios, en un volante que se refuerza a sí mismo."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Combinada con GEM y Adaptive Ranking Model de Meta, GenRecs Tokenization logró un aumento de +0.35% en conversiones en todas las superficies (datos internos de Meta, febrero de 2026). Próximos pasos: ampliar la cobertura de la tokenización y crear un espacio de tokens compartido para texto, imagen, audio y video."
               }
             ]
           }
@@ -169,105 +313,201 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ADOTAT: Amazon\n광고 타기팅, AI가 기본",
-          "body": "ADOTAT은 Amazon Full-Funnel이 타기팅을 AI에 맡긴다고 본다.",
-          "mini_headline": "Amazon, AI에 광고 타기팅 맡겨",
+          "headline": "Meta, 광고마다\n콘텐츠 기반 토큰",
+          "body": "Meta는 광고를 의미 토큰으로 바꿔 GEM과 전환 0.35% 상승을 보고했다.",
+          "mini_headline": "Meta, 광고 표현을 다시 짜다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta의 Generative Recommenders(GenRecs)는 광고 시스템을 모든 광고 후보에 점수를 매기는 방식에서, LLM 아키텍처로 광고 콘텐츠와 사용자 선호를 함께 추론하는 방식으로 옮긴다. 그 토대는 GenRecs Tokenization이다. 항목마다 전용 ID를 두는 대신, 광고·상품·페이지·픽셀 하나하나를 안정적인 의미 어휘에서 나온 토큰으로 표현한다."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "업계 뉴스레터 ADOTAT의 10월 1일 분석에 따르면 Amazon은 unBoxed 2026에서 \"Amazon DSP\"라는 이름을 없앴지만 구매 엔진은 그대로 두고, 트레이더가 쓰던 제어 기능을 고급 설정 토글 뒤로 옮겼다. 칼럼은 이제 Amazon의 AI 에이전트가 기본 경로에서 채널과 오디언스, 입찰가를 고르고 그 결과를 Amazon 자체 데이터로 평가한다고 주장한다. Amazon은 DSP의 프로그래매틱 기능을 DVA+ 고급 설정에서 여전히 쓸 수 있다고 밝혔다."
+                "x": "사전 학습된 멀티모달 모델이 항목의 텍스트와 이미지를 읽어 임베딩으로 만든다. 토크나이저는 여기에 참여 데이터로 학습한 표현을 결합하고, 그 결과를 짧은 이산 토큰 시퀀스로 양자화한다. 파이프라인은 인코딩한 뒤 임베딩을 하위 공간으로 분해하고, 각 공간을 코드북 항목에 대응시킨다. 비슷한 항목은 토큰을 공유하므로, 새 트레일 러닝화는 모델이 지난 시즌 제품에서 배운 것을 물려받는다."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "새 Amazon Ads Agent 아래에는 Sponsored Ads, DVA+, Full-Funnel Campaigns가 있다. 하루 $100부터 시작하는 Full-Funnel에서는 Amazon이 신규 고객(new-to-brand) 매출 같은 성과를 목표로 여러 형식에 예산을 배분한다. ADOTAT은 \"자격 요건에 따라 U.S. 광고주에게 실제로 열려 있는 것은 Full-Funnel Campaigns\"라며 \"트레이더가 운전대를 쥐게 해주는 기능은 아직 베타\"라고 썼다. DVA+는 US 비공개 베타 상태였고, 공개 베타는 10월 말로 예상됐다."
+                "x": "토크나이저 여덟 개 버전에 걸쳐 내재 지표(클러스터 순도, 분포 균형, 코드북 활용도)는 CTR 예측 정확도와 강한 상관관계를 보였다."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "칼럼은 \"기본값이 운명\"이라고 말한다. ADOTAT은 자사의 상업적 해석이 추론이라고 밝히고 있으며, 무료 미리보기에는 Full-Funnel이 오디언스 선택을 막는다는 내용이 없다."
+                "x": "노출이 적은 롱테일 광고의 예측이 나아지면 모든 광고의 학습 데이터도 좋아진다. 스스로 강화되는 플라이휠이다."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Meta의 GEM, Adaptive Ranking Model과 함께 쓴 GenRecs Tokenization은 여러 지면에서 전환을 +0.35% 끌어올렸다(Meta 내부 데이터, 2026년 2월). 다음 단계는 토큰화 적용 범위를 넓히고 텍스트·이미지·오디오·비디오를 아우르는 공유 토큰 공간을 만드는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ADOTAT: Amazon\n標準で配信先をAIに委ねる",
-          "body": "ADOTATは、AmazonのFull-FunnelがターゲティングをAIに任せると見る。",
-          "mini_headline": "AmazonがAIに広告ターゲティング",
+          "headline": "Meta、広告ごとに\n中身由来のトークン",
+          "body": "Metaは広告を意味トークンで表し、GEM併用でコンバージョン0.35%増を報告した。",
+          "mini_headline": "Metaが広告を再符号化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "MetaのGenerative Recommenders(GenRecs)は、広告システムを、すべての広告候補にスコアを付ける方式から、LLMアーキテクチャで広告の内容とユーザーの好みをまとめて推論する方式へ移す。基盤となるのはGenRecs Tokenizationだ。アイテムごとに専用のIDを割り当てる代わりに、広告、商品、ページ、ピクセルのそれぞれを、安定した意味語彙のトークンで表現する。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "業界ニュースレターADOTATの10月1日付の分析によると、AmazonはunBoxed 2026で「Amazon DSP」の名称を廃止したが、買い付けエンジンは残し、トレーダーが使う操作機能を詳細設定のトグルの奥に移した。コラムは、AmazonのAIエージェントが既定の経路でチャネル、オーディエンス、入札額を選び、その結果をAmazon自身のデータで評価するようになったと論じる。Amazonは、DSPのプログラマティック機能はDVA+の詳細設定内で引き続き利用できるとしている。"
+                "x": "事前学習済みのマルチモーダルモデルがアイテムのテキストと画像を読み込み、埋め込みに変換する。トークナイザーはこれをエンゲージメントから学習した表現と組み合わせ、結果を短い離散トークン列に量子化する。パイプラインはエンコードし、埋め込みを部分空間に分解して、それぞれをコードブックの項目に対応づける。似たアイテムはトークンを共有するため、新しいトレイルシューズは、モデルが前シーズンの靴から学んだことを引き継ぐ。"
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "新たなAmazon Ads Agentの傘下には、Sponsored Ads、DVA+、Full-Funnel Campaignsが並ぶ。1日$100から始まるFull-Funnelでは、Amazonがnew-to-brand売上などの成果に向けて複数のフォーマットに予算を配分する。ADOTATは「資格要件を条件に、U.S.の広告主に実際に提供されているのはFull-Funnel Campaignsだ」とし、「トレーダーがハンドルを握り続けられる機能は、まだベータ版だ」と書いた。DVA+はUSでクローズドベータの段階にあり、オープンベータは10月下旬の見込みだった。"
+                "x": "八つのトークナイザー版を通じて、内在的指標(クラスター純度、分布バランス、コードブック利用率)はCTR予測精度と強く相関した。"
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "コラムは「デフォルトが運命を決める」と述べる。ADOTATは自らの商業的な読みを推論と位置づけており、無料プレビューにはFull-Funnelがオーディエンス選択を妨げるとの記述はない。"
+                "x": "インプレッションの少ないテール広告の予測が改善すると、全広告の学習データも良くなる。自己強化型のフライホイールである。"
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "MetaのGEMおよびAdaptive Ranking Modelと組み合わせたGenRecs Tokenizationは、各面でコンバージョンを+0.35%押し上げた(Meta社内データ、2026年2月)。次の段階は、トークン化の対象範囲の拡大と、テキスト・画像・音声・動画をまたぐ共有トークン空間である。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ADOTAT: Amazon\n默认交由AI定向广告",
-          "body": "ADOTAT称，Amazon每日$100起的Full-Funnel广告将定向交给AI。",
-          "mini_headline": "Amazon让AI定向广告",
+          "headline": "Meta为每条广告\n按内容生成令牌",
+          "body": "Meta用多模态嵌入将每条广告编码为语义令牌，配合GEM后报告转化提升0.35%。",
+          "mini_headline": "Meta重编广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Meta的Generative Recommenders（GenRecs）让广告系统从为每个候选广告打分，转向用LLM架构同时推理广告内容与用户偏好。其基础是GenRecs Tokenization：不再为每个条目分配专属ID，而是用来自稳定语义词表的令牌来表示每条广告、每件商品、每个页面或像素。"
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "据行业通讯ADOTAT在10月1日发布的分析，Amazon在unBoxed 2026上停用了“Amazon DSP”这一名称，但保留了购买引擎，并把交易员使用的控制项移到了高级设置开关之后。该专栏认为，Amazon的AI代理如今在默认路径中选择渠道、受众和出价，再用Amazon自己的数据评估结果。Amazon表示，DSP的程序化功能仍可在DVA+高级设置中使用。"
+                "x": "预训练多模态模型读取条目的文本和图像，生成嵌入；令牌化器把它与从互动中学到的表征结合，再量化为一小串离散令牌。流水线先编码，再把嵌入分解为若干子空间，并把每个子空间映射到码本条目。相似条目共享令牌，因此一双新的越野跑鞋能继承模型从上一季鞋款中学到的东西。"
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "新的Amazon Ads Agent旗下包括Sponsored Ads、DVA+和Full-Funnel Campaigns。Full-Funnel每日$100起，由Amazon围绕new-to-brand销售等成果在各类形式之间分配预算。ADOTAT写道：“视资格而定，真正向U.S.广告主上线的是Full-Funnel Campaigns。”“让交易员手握方向盘的功能仍处于测试阶段。”DVA+当时在US处于封闭测试，公开测试预计在10月下旬推出。"
+                "x": "在八个令牌化器版本中，内在指标（聚类纯度、分布均衡度、码本利用率）与CTR预测准确度高度相关。"
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "该专栏写道：“默认即命运。”ADOTAT将其商业解读标注为推断，其免费预览也并未说Full-Funnel会阻止受众选择。"
+                "x": "低曝光长尾广告的预测改善后，所有广告的训练数据也随之改善，形成自我强化的飞轮。"
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "与Meta的GEM和Adaptive Ranking Model搭配后，GenRecs Tokenization在各个版面带来+0.35%的转化提升（Meta内部数据，2026年2月）。下一步是扩大令牌化覆盖范围，并建立横跨文本、图像、音频和视频的共享令牌空间。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ADOTAT: Amazon cede a la IA\nla segmentación por defecto",
-          "body": "ADOTAT: las campañas Full-Funnel dan la segmentación a la IA; los controles DSP de DVA+ seguían en beta cerrada.",
-          "mini_headline": "Amazon deja a la IA segmentar anuncios",
+          "headline": "Meta asigna a cada anuncio\ntokens según su contenido",
+          "body": "Meta codifica cada anuncio en tokens semánticos y, junto con GEM, reporta un alza de 0.35% en conversiones.",
+          "mini_headline": "Meta recodifica sus anuncios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Generative Recommenders (GenRecs) de Meta cambia su sistema de anuncios: en lugar de puntuar cada anuncio candidato, usa una arquitectura LLM para razonar a la vez sobre el contenido de los anuncios y las preferencias de los usuarios. La base es GenRecs Tokenization: en vez de un ID dedicado para cada elemento, cada anuncio, producto, página o píxel se representa con tokens de un vocabulario semántico estable."
+              },
+              {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Amazon retiró el nombre \"Amazon DSP\" en unBoxed 2026, pero conservó el motor de compra y trasladó los controles que usan los traders detrás de un interruptor de configuración avanzada, según un análisis del 1 de octubre del boletín del sector ADOTAT. La columna sostiene que el agente de IA de Amazon elige ahora canales, audiencias y pujas en su ruta predeterminada y luego evalúa los resultados con los datos propios de Amazon. Amazon afirma que las capacidades programáticas del DSP siguen disponibles en la configuración avanzada de DVA+."
+                "x": "Modelos multimodales preentrenados leen el texto y las imágenes de un elemento y los convierten en un embedding; el tokenizador lo combina con representaciones aprendidas de la interacción y cuantiza el resultado en una secuencia corta de tokens discretos. El pipeline codifica, descompone el embedding en subespacios y asigna cada uno a una entrada del codebook. Los elementos similares comparten tokens, así que una nueva zapatilla de trail hereda lo que el modelo aprendió de la de la temporada pasada."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Bajo el nuevo paraguas de Amazon Ads Agent se agrupan Sponsored Ads, DVA+ y Full-Funnel Campaigns. En Full-Funnel, que parte de $100 al día, Amazon reparte el presupuesto entre formatos en función de resultados como las ventas new-to-brand. \"Lo que de verdad está activo para los anunciantes de U.S. (EE. UU.), sujeto a elegibilidad, son las Full-Funnel Campaigns\", escribió ADOTAT. \"Lo que mantiene las manos del trader en el volante es lo que sigue en beta\". DVA+ estaba en beta cerrada en US, con una beta abierta prevista para finales de octubre."
+                "x": "En ocho versiones del tokenizador, las medidas intrínsecas (pureza de clústeres, equilibrio de la distribución, uso del codebook) se correlacionaron fuertemente con la precisión de predicción del CTR."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "\"Los valores predeterminados son el destino\", afirma la columna. ADOTAT presenta su lectura comercial como una inferencia, y su vista previa gratuita no dice que Full-Funnel bloquee la selección de audiencias."
+                "x": "Mejores predicciones para los anuncios de cola con pocas impresiones también mejoran los datos de entrenamiento de todos los anuncios, en un volante que se refuerza a sí mismo."
+              },
+              {
+                "t": "img",
+                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
+                "cap": ""
+              },
+              {
+                "t": "p",
+                "x": "Combinada con GEM y Adaptive Ranking Model de Meta, GenRecs Tokenization logró un aumento de +0.35% en conversiones en todas las superficies (datos internos de Meta, febrero de 2026). Próximos pasos: ampliar la cobertura de la tokenización y crear un espacio de tokens compartido para texto, imagen, audio y video."
               }
             ]
           }
@@ -275,15 +515,15 @@
       }
     },
     {
-      "id": "marketing-nationaltrust",
+      "id": "marketing-monday-harmony",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "National Trust\nTikTok 광고 중단",
-      "body": "National Trust가 미승인 AI 영상 탓에 TikTok 광고를 멈췄다.",
-      "mini_headline": "National Trust, TikTok 광고 멈춤",
+      "headline": "monday.com 음성\nAI로 차 계약 9% 늘려",
+      "body": "monday.com Harmony는 약 200ms에 답해 UK 거래를 9% 늘렸다.",
+      "mini_headline": "음성 AI로 거래 9% 증가",
       "tool": "Marketing",
-      "source": "Tomorrow's Publisher",
-      "url": "https://tomorrowspublisher.today/news/national-trust-pulls-tiktok-ads-after-platform-s-ai-publishes-unauthorised-video-68149cb63312/index.html",
+      "source": "PPC Land",
+      "url": "https://ppc.land/monday-coms-harmony-voice-ai-lifted-car-brokers-deals-9-client-says/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -291,179 +531,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
-            "cap": "만화 · AI-generated"
+            "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+            "cap": "monday.com의 Harmony AI 발신 에이전트는 유망 리드를 영업 담당자에게 넘긴다. 한 자동차 중개사는 덕분에 거래가 9% 늘었다고 말한다"
           },
           {
             "t": "p",
-            "x": "National Trust는 자선단체의 승인 없이 AI-generated(AI 생성) 홍보 영상이 잇따라 올라오자 TikTok 광고를 모두 중단했다. 단체 설명으로는 TikTok Ads가 실수로 만든 광고였고 애초에 게시할 계획도 없었다."
+            "x": "monday.com은 2026년 10월 19일 Harmony 판매를 시작했다. 중견·대기업용 음성 AI 플랫폼으로, 에이전트가 영업 전화를 걸고 받으며 리드를 선별해 유망한 리드를 실시간으로 사람 영업 담당자에게 넘긴다."
           },
           {
             "t": "p",
-            "x": "Trust는 LinkedIn 성명에서 조사하는 동안 TikTok 활동을 멈췄다고 밝혔다. 대변인은 Civil Society에 TikTok과 직접 협력해 경위를 파악하면서 추가 안전장치를 마련하는 중이라고 전했다."
+            "x": "에이전트는 OneAI에서 인수한 음성 기술과 직접 만든 작업별 소형 LLMs 묶음으로 돌아간다. 전화 연결과 CRM write-back은 Twilio 위에 올렸다. 회사는 음성 입력부터 음성 출력까지 지연 시간이 약 200ms이고 “최대 70%의 연결률”을 낸다고 주장한다. 다만 기준치나 측정 방법은 밝히지 않았다."
           },
           {
             "t": "p",
-            "x": "마케터들은 AI-made(AI로 만든) 영상이 Trust가 쌓아 온 정체성과 맞지 않았다고 평했다. Ocean의 Charlotte Anstee는 지역 소셜미디어 팀이 앞서 AI 사용 금지 방침을 전달받았다고 말했다. Pollard Media의 Alex Pollard는 이 단체에 방대한 이미지 아카이브가 있다는 점을 짚었다."
+            "x": "이름이 공개된 고객은 UK 중개사 Bright Car Finance 하나다. 이 회사는 에이전트가 승인된 모든 신청자에게 바로 후속 연락을 하고 대화의 약 절반을 선별해 그중 80%를 상담사에게 넘기며, 한 해도 안 돼 성사 거래를 9% 늘렸다고 말한다. PPC Land는 이 수치가 상대 증가율인지 퍼센트포인트인지 분명하지 않다고 지적한다."
           },
           {
             "t": "p",
-            "x": "Antler Social 공동 창업자 Harri Brown은 광고 집행 중 새로 생성된 소재를 자동으로 추가하는 설정만 꺼도 뜻밖의 AI 소재를 피할 수 있고, 이미 들어간 소재는 직접 지우면 된다고 말했다."
+            "x": "Harmony는 미국(US), 영국(UK), 호주, 싱가포르에서 쓸 수 있다. 가격·오류율·독립 검증 결과는 공개하지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "National Trust pulls\nTikTok ads over AI videos",
-          "body": "The National Trust suspended TikTok ads after the platform's AI published promotional videos it never approved.",
-          "mini_headline": "National Trust pauses TikTok",
+          "headline": "monday.com voice AI lifts\ncar broker deals 9%",
+          "body": "monday.com says its Harmony voice agents reply in about 200ms; one UK car finance broker says its deals rose 9%.",
+          "mini_headline": "Voice AI lifts deals 9%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
-                "cap": "Cartoon · AI-generated"
+                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+                "cap": "monday.com’s Harmony AI caller hands warm leads to reps, which one car broker says lifted deals 9%"
               },
               {
                 "t": "p",
-                "x": "The National Trust has suspended all advertising on TikTok after a run of AI-generated promotional videos appeared without the charity's approval. According to the charity, the adverts were created in error by TikTok Ads and were never meant to go live."
+                "x": "monday.com began selling Harmony on October 19, 2026: a voice AI platform whose agents place and answer sales calls for mid-market and enterprise companies, qualify leads and hand the promising ones live to human reps."
               },
               {
                 "t": "p",
-                "x": "In a statement on LinkedIn, the Trust said it had paused its TikTok activity while it investigated. A spokesperson told Civil Society it was working directly with TikTok to understand the incident and put extra safeguards in place."
+                "x": "The agents run on voice technology acquired from OneAI and a set of proprietary, task-specific small LLMs, with dialing and CRM write-back built on Twilio. The company claims about 200ms audio-in to audio-out latency and “a contact rate of up to 70%,” without a baseline or method."
               },
               {
                 "t": "p",
-                "x": "Marketers said the AI-made videos sat awkwardly beside the Trust's established identity. Charlotte Anstee of Ocean said local social media teams had previously been told there was an AI ban. Alex Pollard of Pollard Media noted the charity's extensive image archive."
+                "x": "The only named customer, UK broker Bright Car Finance, says the agent follows up every approved applicant at once, qualifies about half its conversations, hands 80% of those to advisers and drove a 9% rise in deals closed in less than a year. PPC Land notes it is unclear whether that is relative or percentage points."
               },
               {
                 "t": "p",
-                "x": "Harri Brown, co-founder of Antler Social, said advertisers can avoid unexpected AI assets by disabling the setting that automatically adds newly generated material during delivery, and remove any already inserted manually."
+                "x": "Harmony is available in the US, UK, Australia and Singapore. No pricing, error rates or independent testing were published."
               }
             ]
           }
         },
         "ko": {
-          "headline": "National Trust\nTikTok 광고 중단",
-          "body": "National Trust가 미승인 AI 영상 탓에 TikTok 광고를 멈췄다.",
-          "mini_headline": "National Trust, TikTok 광고 멈춤",
+          "headline": "monday.com 음성\nAI로 차 계약 9% 늘려",
+          "body": "monday.com Harmony는 약 200ms에 답해 UK 거래를 9% 늘렸다.",
+          "mini_headline": "음성 AI로 거래 9% 증가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
-                "cap": "만화 · AI-generated"
+                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+                "cap": "monday.com의 Harmony AI 발신 에이전트는 유망 리드를 영업 담당자에게 넘긴다. 한 자동차 중개사는 덕분에 거래가 9% 늘었다고 말한다"
               },
               {
                 "t": "p",
-                "x": "National Trust는 자선단체의 승인 없이 AI-generated(AI 생성) 홍보 영상이 잇따라 올라오자 TikTok 광고를 모두 중단했다. 단체 설명으로는 TikTok Ads가 실수로 만든 광고였고 애초에 게시할 계획도 없었다."
+                "x": "monday.com은 2026년 10월 19일 Harmony 판매를 시작했다. 중견·대기업용 음성 AI 플랫폼으로, 에이전트가 영업 전화를 걸고 받으며 리드를 선별해 유망한 리드를 실시간으로 사람 영업 담당자에게 넘긴다."
               },
               {
                 "t": "p",
-                "x": "Trust는 LinkedIn 성명에서 조사하는 동안 TikTok 활동을 멈췄다고 밝혔다. 대변인은 Civil Society에 TikTok과 직접 협력해 경위를 파악하면서 추가 안전장치를 마련하는 중이라고 전했다."
+                "x": "에이전트는 OneAI에서 인수한 음성 기술과 직접 만든 작업별 소형 LLMs 묶음으로 돌아간다. 전화 연결과 CRM write-back은 Twilio 위에 올렸다. 회사는 음성 입력부터 음성 출력까지 지연 시간이 약 200ms이고 “최대 70%의 연결률”을 낸다고 주장한다. 다만 기준치나 측정 방법은 밝히지 않았다."
               },
               {
                 "t": "p",
-                "x": "마케터들은 AI-made(AI로 만든) 영상이 Trust가 쌓아 온 정체성과 맞지 않았다고 평했다. Ocean의 Charlotte Anstee는 지역 소셜미디어 팀이 앞서 AI 사용 금지 방침을 전달받았다고 말했다. Pollard Media의 Alex Pollard는 이 단체에 방대한 이미지 아카이브가 있다는 점을 짚었다."
+                "x": "이름이 공개된 고객은 UK 중개사 Bright Car Finance 하나다. 이 회사는 에이전트가 승인된 모든 신청자에게 바로 후속 연락을 하고 대화의 약 절반을 선별해 그중 80%를 상담사에게 넘기며, 한 해도 안 돼 성사 거래를 9% 늘렸다고 말한다. PPC Land는 이 수치가 상대 증가율인지 퍼센트포인트인지 분명하지 않다고 지적한다."
               },
               {
                 "t": "p",
-                "x": "Antler Social 공동 창업자 Harri Brown은 광고 집행 중 새로 생성된 소재를 자동으로 추가하는 설정만 꺼도 뜻밖의 AI 소재를 피할 수 있고, 이미 들어간 소재는 직접 지우면 된다고 말했다."
+                "x": "Harmony는 미국(US), 영국(UK), 호주, 싱가포르에서 쓸 수 있다. 가격·오류율·독립 검증 결과는 공개하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "National Trust\nTikTok広告を停止",
-          "body": "National TrustはTikTokのAIが未承認動画を出したため広告を停止した。",
-          "mini_headline": "National TrustがTikTokを停止",
+          "headline": "monday.com音声AI\n車ローン仲介の成約9%増",
+          "body": "monday.comのHarmonyは約200msで応答し、UKの仲介は成約9%増という。",
+          "mini_headline": "音声AIで成約9%増",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
-                "cap": "漫画 · AI-generated"
+                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+                "cap": "monday.comのHarmony AIコーラーは有望なリードを担当者に引き継ぐ。ある車仲介業者はこれで成約が9%増えたという"
               },
               {
                 "t": "p",
-                "x": "National Trustは、団体の承認なしにAI-generated（AI生成）の宣伝動画が相次いで公開されたことを受け、TikTokでの広告をすべて停止した。団体によると、これらの広告はTikTok Adsが誤って作成したもので、公開される予定はなかった。"
+                "x": "monday.comは2026年10月19日、Harmonyの販売を始めた。中堅・大企業向けに、エージェントが営業電話をかけたり受けたりし、リードを選別して有望なものをその場で人間の担当者に引き継ぐ音声AIプラットフォームである。"
               },
               {
                 "t": "p",
-                "x": "TrustはLinkedInでの声明で、調査のあいだTikTokでの活動を停止したと述べた。広報担当者はCivil Societyに対し、TikTokと直接連携して事態を把握し、追加の安全策を講じていると語った。"
+                "x": "エージェントはOneAIから取得した音声技術と、タスク別に作られた独自の小型LLMs群で動き、発信とCRM write-backはTwilio上に構築されている。同社は音声入力から音声出力まで約200msの遅延と「最大70%の接続率」をうたうが、比較基準や手法は示していない。"
               },
               {
                 "t": "p",
-                "x": "マーケターらは、AI-made（AIで作られた）動画がTrustの確立されたイメージと噛み合っていなかったと指摘した。OceanのCharlotte Ansteeは、地域のソーシャルメディア担当チームが以前AI禁止を伝えられていたと述べた。Pollard MediaのAlex Pollardは、団体が膨大な画像アーカイブを持つ点に触れた。"
+                "x": "名前が明かされた唯一の顧客であるUKの仲介業者Bright Car Financeによると、エージェントは承認済みの申込者全員に即座にフォローし、会話の約半分を選別し、そのうち80%をアドバイザーに引き継ぎ、一年足らずで成約件数を9%伸ばした。PPC Landは、これが相対値なのかパーセントポイントなのかは不明だと指摘する。"
               },
               {
                 "t": "p",
-                "x": "Antler Socialの共同創業者Harri Brownは、配信中に新たに生成された素材を自動で追加する設定を無効にすれば想定外のAI素材を避けられ、すでに挿入されたものは手動で削除できると述べた。"
+                "x": "Harmonyは米国(US)、英国(UK)、オーストラリア、シンガポールで利用できる。価格、エラー率、独立した検証結果は公表されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "National Trust\n暂停TikTok广告",
-          "body": "National Trust因TikTok的AI发布未经批准的宣传视频而暂停广告。",
-          "mini_headline": "National Trust暂停TikTok",
+          "headline": "monday.com语音AI\n助车贷中介成交增9%",
+          "body": "monday.com称Harmony约200ms即回应，一家UK车贷中介称成交增长9%。",
+          "mini_headline": "语音AI助成交增9%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
-                "cap": "漫画 · AI-generated"
+                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+                "cap": "monday.com的Harmony AI外呼代理把优质线索转给销售代表，一家汽车中介称成交因此增长9%"
               },
               {
                 "t": "p",
-                "x": "在一系列AI-generated（AI生成）宣传视频未经该慈善机构批准便上线后，National Trust暂停了在TikTok上的全部广告。据该机构称，这些广告是TikTok Ads误建的，本不应上线。"
+                "x": "monday.com于2026年10月19日开始销售Harmony。这是一款语音AI平台，其代理为中型及大型企业拨打和接听销售电话，筛选线索，并把有希望的线索实时转交给人工销售代表。"
               },
               {
                 "t": "p",
-                "x": "Trust在LinkedIn发表声明称，调查期间已暂停其TikTok活动。一位发言人对Civil Society表示，机构正与TikTok直接合作，以了解事件经过并增设额外保障措施。"
+                "x": "这些代理基于从OneAI收购的语音技术和一组自研的、面向特定任务的小型LLMs运行，拨号和CRM write-back构建在Twilio之上。公司称从音频输入到音频输出的延迟约为200ms，并称“接通率最高可达70%”，但未给出基准或方法。"
               },
               {
                 "t": "p",
-                "x": "营销人士表示，这些AI-made（AI制作）视频与Trust既有的形象格格不入。Ocean的Charlotte Anstee说，当地社交媒体团队此前被告知有AI禁令。Pollard Media的Alex Pollard则提到该机构拥有大量图片档案。"
+                "x": "唯一具名的客户、UK中介Bright Car Finance表示，代理会立即跟进每位获批申请人，对约一半的对话完成资格筛选，将其中80%转交给顾问，并在不到一年内使成交量增长9%。PPC Land指出，尚不清楚这是相对增幅还是百分点。"
               },
               {
                 "t": "p",
-                "x": "Antler Social联合创始人Harri Brown表示，广告主可以关闭投放过程中自动添加新生成素材的设置，以避免出现意外的AI素材，并手动删除已插入的素材。"
+                "x": "Harmony已在美国（US）、英国（UK）、澳大利亚和新加坡上线。价格、错误率和独立测试结果均未公布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "National Trust suspende sus\nanuncios en TikTok por la IA",
-          "body": "El National Trust suspendió sus anuncios en TikTok cuando la IA de la plataforma publicó vídeos que no aprobó.",
-          "mini_headline": "National Trust pausa TikTok",
+          "headline": "monday.com: su AI de voz sube\n9% los cierres de un bróker",
+          "body": "monday.com dice que sus agentes Harmony responden en unos 200ms; un bróker de UK afirma que sus tratos subieron 9%.",
+          "mini_headline": "La AI de voz sube 9% los tratos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
-                "cap": "Caricatura · AI-generated"
+                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+                "cap": "El agente de llamadas Harmony AI de monday.com pasa los leads prometedores a los comerciales; un bróker de autos dice que sus tratos subieron 9%"
               },
               {
                 "t": "p",
-                "x": "El National Trust ha suspendido toda su publicidad en TikTok después de que aparecieran varios vídeos promocionales AI-generated (generados por IA) sin la aprobación de la organización benéfica. Según la entidad, TikTok Ads creó los anuncios por error y nunca debieron publicarse."
+                "x": "monday.com empezó a vender Harmony el 19 de octubre de 2026: una plataforma de AI de voz cuyos agentes hacen y atienden llamadas de ventas para empresas medianas y grandes, califican leads y transfieren en vivo los más prometedores a comerciales humanos."
               },
               {
                 "t": "p",
-                "x": "En un comunicado en LinkedIn, el Trust indicó que había pausado su actividad en TikTok mientras investigaba. Un portavoz dijo a Civil Society que trabajaba directamente con TikTok para entender el incidente y establecer salvaguardas adicionales."
+                "x": "Los agentes funcionan con tecnología de voz adquirida a OneAI y un conjunto de LLMs pequeños, propios y específicos por tarea, con la marcación y el write-back al CRM construidos sobre Twilio. La empresa afirma una latencia de unos 200ms de audio de entrada a audio de salida y “una tasa de contacto de hasta 70%”, sin línea de base ni método."
               },
               {
                 "t": "p",
-                "x": "Varios profesionales del marketing señalaron que los vídeos AI-made (hechos con IA) encajaban mal con la identidad consolidada del Trust. Charlotte Anstee, de Ocean, dijo que a los equipos locales de redes sociales se les había comunicado antes que existía una prohibición de la IA. Alex Pollard, de Pollard Media, destacó el amplio archivo de imágenes de la organización."
+                "x": "El único cliente identificado, el bróker de UK Bright Car Finance, dice que el agente contacta de inmediato a cada solicitante aprobado, califica cerca de la mitad de sus conversaciones, pasa el 80% de ellas a asesores y logró un aumento del 9% en los tratos cerrados en menos de un año. PPC Land señala que no está claro si se trata de una cifra relativa o de puntos porcentuales."
               },
               {
                 "t": "p",
-                "x": "Harri Brown, cofundador de Antler Social, afirmó que los anunciantes pueden evitar recursos de IA inesperados desactivando el ajuste que añade automáticamente material recién generado durante la emisión, y eliminar manualmente los que ya se hayan insertado."
+                "x": "Harmony está disponible en US, UK, Australia y Singapur. No se publicaron precios, tasas de error ni pruebas independientes."
               }
             ]
           }
@@ -471,125 +711,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "National Trust\nTikTok 광고 중단",
-          "body": "National Trust가 미승인 AI 영상 탓에 TikTok 광고를 멈췄다.",
-          "mini_headline": "National Trust, TikTok 광고 멈춤",
+          "headline": "monday.com 음성\nAI로 차 계약 9% 늘려",
+          "body": "monday.com Harmony는 약 200ms로 답해 UK 거래 9% 늘렸다.",
+          "mini_headline": "음성 AI로 거래 9% 증가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
-                "cap": "만화 · AI-generated"
+                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+                "cap": "monday.com의 Harmony AI 발신 에이전트는 유망 리드를 영업 담당자에게 넘긴다. 한 자동차 중개사는 이를 통해 거래가 9% 늘었다고 말한다"
               },
               {
                 "t": "p",
-                "x": "National Trust는 자선단체의 승인 없이 AI-generated(AI 생성) 홍보 영상이 잇따라 올라오자 TikTok 광고를 모두 중단했다. 단체 설명에 따르면 이 광고는 TikTok Ads가 실수로 만든 것이며 게시될 예정도 없었다."
+                "x": "monday.com은 2026년 10월 19일 Harmony 판매를 시작했다. 중견·대기업을 위해 에이전트가 영업 전화를 걸고 받으며, 리드를 선별하고 유망한 리드를 실시간으로 사람 영업 담당자에게 넘기는 음성 AI 플랫폼이다."
               },
               {
                 "t": "p",
-                "x": "Trust는 LinkedIn 성명에서 조사하는 동안 TikTok 활동을 멈췄다고 밝혔다. 대변인은 Civil Society에 TikTok과 직접 협력해 사건 경위를 파악하고 추가 안전장치를 마련하고 있다고 말했다."
+                "x": "에이전트는 OneAI에서 인수한 음성 기술과 자체 개발한 작업별 소형 LLMs 묶음으로 작동하며, 전화 연결과 CRM write-back은 Twilio 위에 구축했다. 회사는 음성 입력부터 음성 출력까지 지연 시간이 약 200ms이고 “최대 70%의 연결률”을 낸다고 주장하지만, 기준치나 측정 방법은 밝히지 않았다."
               },
               {
                 "t": "p",
-                "x": "마케터들은 AI-made(AI로 만든) 영상이 Trust의 확립된 정체성과 어울리지 않았다고 평했다. Ocean의 Charlotte Anstee는 지역 소셜미디어 팀이 앞서 AI 사용 금지 방침을 전달받았다고 말했다. Pollard Media의 Alex Pollard는 이 단체가 방대한 이미지 아카이브를 갖고 있다는 점을 짚었다."
+                "x": "이름이 공개된 유일한 고객인 UK 중개사 Bright Car Finance는 에이전트가 승인된 모든 신청자에게 즉시 후속 연락을 하고, 대화의 약 절반을 선별해 그중 80%를 상담사에게 넘기며, 한 해도 안 돼 성사 거래를 9% 늘렸다고 말한다. PPC Land는 이것이 상대 증가율인지 퍼센트포인트인지 불분명하다고 지적한다."
               },
               {
                 "t": "p",
-                "x": "Antler Social 공동 창업자 Harri Brown은 광고 집행 중 새로 생성된 소재를 자동으로 추가하는 설정을 끄면 예상치 못한 AI 소재를 피할 수 있고, 이미 들어간 소재는 직접 지우면 된다고 말했다."
+                "x": "Harmony는 미국(US), 영국(UK), 호주, 싱가포르에서 쓸 수 있다. 가격, 오류율, 독립 검증 결과는 공개되지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "National Trust\nTikTok広告を停止",
-          "body": "National TrustはTikTokのAIが未承認動画を出したため広告を停止した。",
-          "mini_headline": "National TrustがTikTokを停止",
+          "headline": "monday.com音声AI\n車ローン仲介の成約9%増",
+          "body": "monday.comのHarmonyは約200msで応答し、UKの仲介は成約9%増という。",
+          "mini_headline": "音声AIで成約9%増",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
-                "cap": "漫画 · AI-generated"
+                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+                "cap": "monday.comのHarmony AIコーラーは有望なリードを担当者に引き継ぐ。ある車仲介業者はこれで成約が9%増えたという"
               },
               {
                 "t": "p",
-                "x": "National Trustは、団体の承認なしにAI-generated（AI生成）の宣伝動画が相次いで公開されたことを受け、TikTokでの広告をすべて停止した。団体によると、これらの広告はTikTok Adsが誤って作成したもので、公開される予定はなかった。"
+                "x": "monday.comは2026年10月19日、Harmonyの販売を始めた。中堅・大企業向けに、エージェントが営業電話をかけたり受けたりし、リードを選別して有望なものをその場で人間の担当者に引き継ぐ音声AIプラットフォームである。"
               },
               {
                 "t": "p",
-                "x": "TrustはLinkedInでの声明で、調査のあいだTikTokでの活動を停止したと述べた。広報担当者はCivil Societyに対し、TikTokと直接連携して事態を把握し、追加の安全策を講じていると語った。"
+                "x": "エージェントはOneAIから取得した音声技術と、タスク別に作られた独自の小型LLMs群で動き、発信とCRM write-backはTwilio上に構築されている。同社は音声入力から音声出力まで約200msの遅延と「最大70%の接続率」をうたうが、比較基準や手法は示していない。"
               },
               {
                 "t": "p",
-                "x": "マーケターらは、AI-made（AIで作られた）動画がTrustの確立されたイメージと噛み合っていなかったと指摘した。OceanのCharlotte Ansteeは、地域のソーシャルメディア担当チームが以前AI禁止を伝えられていたと述べた。Pollard MediaのAlex Pollardは、団体が膨大な画像アーカイブを持つ点に触れた。"
+                "x": "名前が明かされた唯一の顧客であるUKの仲介業者Bright Car Financeによると、エージェントは承認済みの申込者全員に即座にフォローし、会話の約半分を選別し、そのうち80%をアドバイザーに引き継ぎ、一年足らずで成約件数を9%伸ばした。PPC Landは、これが相対値なのかパーセントポイントなのかは不明だと指摘する。"
               },
               {
                 "t": "p",
-                "x": "Antler Socialの共同創業者Harri Brownは、配信中に新たに生成された素材を自動で追加する設定を無効にすれば想定外のAI素材を避けられ、すでに挿入されたものは手動で削除できると述べた。"
+                "x": "Harmonyは米国(US)、英国(UK)、オーストラリア、シンガポールで利用できる。価格、エラー率、独立した検証結果は公表されていない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "National Trust\n暂停TikTok广告",
-          "body": "National Trust因TikTok的AI发布未经批准的宣传视频而暂停广告。",
-          "mini_headline": "National Trust暂停TikTok",
+          "headline": "monday.com语音AI\n助车贷中介成交增9%",
+          "body": "monday.com称Harmony约200ms即回应，一家UK车贷中介称成交增长9%。",
+          "mini_headline": "语音AI助成交增9%",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
-                "cap": "漫画 · AI-generated"
+                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+                "cap": "monday.com的Harmony AI外呼代理把优质线索转给销售代表，一家汽车中介称成交因此增长9%"
               },
               {
                 "t": "p",
-                "x": "在一系列AI-generated（AI生成）宣传视频未经该慈善机构批准便上线后，National Trust暂停了在TikTok上的全部广告。据该机构称，这些广告是TikTok Ads误建的，本不应上线。"
+                "x": "monday.com于2026年10月19日开始销售Harmony。这是一款语音AI平台，其代理为中型及大型企业拨打和接听销售电话，筛选线索，并把有希望的线索实时转交给人工销售代表。"
               },
               {
                 "t": "p",
-                "x": "Trust在LinkedIn发表声明称，调查期间已暂停其TikTok活动。一位发言人对Civil Society表示，机构正与TikTok直接合作，以了解事件经过并增设额外保障措施。"
+                "x": "这些代理基于从OneAI收购的语音技术和一组自研的、面向特定任务的小型LLMs运行，拨号和CRM write-back构建在Twilio之上。公司称从音频输入到音频输出的延迟约为200ms，并称“接通率最高可达70%”，但未给出基准或方法。"
               },
               {
                 "t": "p",
-                "x": "营销人士表示，这些AI-made（AI制作）视频与Trust既有的形象格格不入。Ocean的Charlotte Anstee说，当地社交媒体团队此前被告知有AI禁令。Pollard Media的Alex Pollard则提到该机构拥有大量图片档案。"
+                "x": "唯一具名的客户、UK中介Bright Car Finance表示，代理会立即跟进每位获批申请人，对约一半的对话完成资格筛选，将其中80%转交给顾问，并在不到一年内使成交量增长9%。PPC Land指出，尚不清楚这是相对增幅还是百分点。"
               },
               {
                 "t": "p",
-                "x": "Antler Social联合创始人Harri Brown表示，广告主可以关闭投放过程中自动添加新生成素材的设置，以避免出现意外的AI素材，并手动删除已插入的素材。"
+                "x": "Harmony已在美国（US）、英国（UK）、澳大利亚和新加坡上线。价格、错误率和独立测试结果均未公布。"
               }
             ]
           }
         },
         "es": {
-          "headline": "National Trust suspende sus\nanuncios en TikTok por la IA",
-          "body": "El National Trust suspendió sus anuncios en TikTok cuando la IA de la plataforma publicó vídeos que no aprobó.",
-          "mini_headline": "National Trust pausa TikTok",
+          "headline": "monday.com: su AI de voz sube\n9% los cierres de un bróker",
+          "body": "monday.com dice que sus agentes Harmony responden en unos 200ms; un bróker de UK afirma que sus tratos subieron 9%.",
+          "mini_headline": "La AI de voz sube 9% los tratos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://tomorrowspublisher.today/assets/img/wire/e57082a15381e40b93c9.jpg",
-                "cap": "Caricatura · AI-generated"
+                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+                "cap": "El agente de llamadas Harmony AI de monday.com pasa los leads prometedores a los comerciales; un bróker de autos dice que sus tratos subieron 9%"
               },
               {
                 "t": "p",
-                "x": "El National Trust ha suspendido toda su publicidad en TikTok después de que aparecieran varios vídeos promocionales AI-generated (generados por IA) sin la aprobación de la organización benéfica. Según la entidad, TikTok Ads creó los anuncios por error y nunca debieron publicarse."
+                "x": "monday.com empezó a vender Harmony el 19 de octubre de 2026: una plataforma de AI de voz cuyos agentes hacen y atienden llamadas de ventas para empresas medianas y grandes, califican leads y transfieren en vivo los más prometedores a comerciales humanos."
               },
               {
                 "t": "p",
-                "x": "En un comunicado en LinkedIn, el Trust indicó que había pausado su actividad en TikTok mientras investigaba. Un portavoz dijo a Civil Society que trabajaba directamente con TikTok para entender el incidente y establecer salvaguardas adicionales."
+                "x": "Los agentes funcionan con tecnología de voz adquirida a OneAI y un conjunto de LLMs pequeños, propios y específicos por tarea, con la marcación y el write-back al CRM construidos sobre Twilio. La empresa afirma una latencia de unos 200ms de audio de entrada a audio de salida y “una tasa de contacto de hasta 70%”, sin línea de base ni método."
               },
               {
                 "t": "p",
-                "x": "Varios profesionales del marketing señalaron que los vídeos AI-made (hechos con IA) encajaban mal con la identidad consolidada del Trust. Charlotte Anstee, de Ocean, dijo que a los equipos locales de redes sociales se les había comunicado antes que existía una prohibición de la IA. Alex Pollard, de Pollard Media, destacó el amplio archivo de imágenes de la organización."
+                "x": "El único cliente identificado, el bróker de UK Bright Car Finance, dice que el agente contacta de inmediato a cada solicitante aprobado, califica cerca de la mitad de sus conversaciones, pasa el 80% de ellas a asesores y logró un aumento del 9% en los tratos cerrados en menos de un año. PPC Land señala que no está claro si se trata de una cifra relativa o de puntos porcentuales."
               },
               {
                 "t": "p",
-                "x": "Harri Brown, cofundador de Antler Social, afirmó que los anunciantes pueden evitar recursos de IA inesperados desactivando el ajuste que añade automáticamente material recién generado durante la emisión, y eliminar manualmente los que ya se hayan insertado."
+                "x": "Harmony está disponible en US, UK, Australia y Singapur. No se publicaron precios, tasas de error ni pruebas independientes."
               }
             ]
           }
@@ -597,165 +837,171 @@
       }
     },
     {
-      "id": "marketing-meta",
+      "id": "marketing-minerva-cdp",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Meta 상시 주제 15개\nReels 트렌딩 광고에",
-      "body": "Meta가 AI 기반 Reels Trending Ads에 주제 15개를 더했다.",
-      "mini_headline": "Meta, Reels Trending Ads 확대",
+      "headline": "Minerva, 이름 없는\n에이전트 CDP를 짓다",
+      "body": "Minerva는 AI 에이전트로 데이터를 270M-consumer 그래프에 묶는다.",
+      "mini_headline": "Minerva의 에이전트 CDP",
       "tool": "Marketing",
-      "source": "The Keyword",
-      "url": "https://www.thekeyword.co/news/meta-reels-trending-ads-topics",
+      "source": "AdExchanger",
+      "url": "https://www.adexchanger.com/ai/ai-startup-minerva-built-an-agentic-cdp-but-dont-call-it-that/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "Meta가 Reels Trending Ads에 상시 표준 주제 15개를 마련했다. Reels Trending Ads는 Facebook과 Instagram에서 가장 많이 시청되고 문화적 관련성이 가장 높은 Reels 바로 뒤에 광고를 배치하는 형식이다. 새 카테고리에는 Home & Garden과 스페인어(Spanish-language) 콘텐츠도 들어갔다."
+            "t": "img",
+            "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "Meta는 10월 16일 Brand Building Summit에서 이번 업데이트를 발표했다. 광고주는 연휴 시즌과 풋볼·농구 시즌 개막에 맞춘 시즌별 라인업도 고를 수 있다. 올해 안에는 맞춤 오디언스 제외 기능이 붙어 캠페인에서 지정한 맞춤 오디언스를 뺄 수 있다."
+            "x": "Minerva CEO Jackson Engles는 소비자 270 million명 규모의 아이덴티티 그래프 위에 마케터용 AI 에이전트를 만들려고 $20 million을 유치했다. 그래도 스타트업의 토대인 데이터가 오래가는 해자는 아닐 거라고 인정한다. 그래서 그는 범위를 좁게 가져간다. “마케터가 그냥 Claude를 쓰면서 아무 데이터나 가져와서는 안 됩니다.”"
           },
           {
             "t": "p",
-            "x": "Meta에 따르면 Reels Trending Ads를 포함한 캠페인은 대조군보다 행동 의향이 5퍼센트포인트 넘게 올랐고 비보조 브랜드 인지도도 5퍼센트포인트 더 높아졌다. 두 수치 모두 Meta 자체 집계다."
+            "x": "브랜드가 CRM, 데이터 웨어하우스 등 여러 소스를 Minerva에 연결하면, OpenAI로 만든 “에이전틱 데이터 엔지니어”가 이를 매핑한다. 그다음 에이전트들이 데이터를 고객별 단일 뷰로 합치고 Minerva의 “B2B2C 아이덴티티 그래프”로 보강한다. Engles에 따르면 Ramp는 업무용-개인용 연결을 써서 다이렉트 메일을 늘렸고 석 달 만에 MQL 비율을 약 80% 끌어올렸다. Wander는 Meta 유사 타깃에서 광범위 타기팅 대비 3.4x ROAS를 거뒀다."
           },
           {
             "t": "p",
-            "x": "Meta는 2025년 9월 이 형식을 전 세계 모든 광고주에게 열면서, AI로 가장 인기 있는 크리에이터 제작 Reels 바로 뒤에 광고를 배치한다고 밝혔다. TikTok의 Pulse 제품군과 비슷한 방식이다. 회사 설명으로는 Instagram 전체 이용 시간의 절반 이상이 Reels에서 나온다."
+            "x": "두 번째 에이전트 “에이전틱 데이터 사이언티스트”가 붙으면 일상 언어로 요청만 해도 예측 모델이 나온다. Minerva는 안에서 이 계층을 에이전틱 CDP라 부르지만 밖에 그렇게 내세우지는 않는다. 고객은 “CDP가 내는 결과를 원한다”는 설명이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta adds 15 standing topics\nto Reels Trending Ads",
-          "body": "Meta now offers 15 always-on topics in Reels Trending Ads, which uses AI to place ads after top-trending creator Reels.",
-          "mini_headline": "Meta widens Reels Trending Ads",
+          "headline": "Minerva builds an agentic CDP\nbut won't call it one",
+          "body": "Startup Minerva uses AI agents to unify brands' fragmented customer data with its 270M-consumer identity graph.",
+          "mini_headline": "Minerva's agentic CDP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta now offers 15 always-on standard topics in Reels Trending Ads, the format that places an ad immediately after the most-watched and most culturally relevant Reels on Facebook and Instagram. New categories include Home & Garden and Spanish-language content."
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Meta announced the update at its Brand Building Summit on 16 October. Advertisers can also choose seasonal lineups built around the holidays and the start of the football and basketball seasons. Custom audience exclusions arrive later this year, letting a campaign leave chosen custom audiences out."
+                "x": "Minerva CEO Jackson Engles admits the data his startup is built on probably isn’t a durable moat, even after raising $20 million to build AI agents for marketers on an identity graph of 270 million consumers. His answer is to stay narrow: “Marketers shouldn’t just be using Claude and bringing in random data.”"
               },
               {
                 "t": "p",
-                "x": "Meta says campaigns that included Reels Trending Ads increased action intent by more than 5 percentage points against control groups, with an incremental 5 percentage point lift in unaided brand awareness. Both figures are Meta's own."
+                "x": "A brand plugs its CRM, warehouse and other sources into Minerva, where an “agentic data engineer” built with OpenAI maps them. Agents then unify the data into one view per customer and enrich it from Minerva’s “B2B2C identity graph.” Ramp used the work-to-personal link to extend direct mail and lifted its MQL rate around 80% in three months; Wander saw 3.4x ROAS on Meta lookalikes versus broad targeting, per Engles."
               },
               {
                 "t": "p",
-                "x": "Meta opened the format to all advertisers globally in September 2025, saying it uses AI to place ads directly after top-trending, creator-generated Reels. The approach is close to TikTok's Pulse family. Reels make up more than half of all time spent on Instagram, according to the company."
+                "x": "A second agent, an “agentic data scientist,” would build predictive models from plain-language requests. Minerva calls the layer an agentic CDP internally but doesn’t market it that way: customers “want the outcome of a CDP.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta 상시 주제 15개\nReels 트렌딩 광고에",
-          "body": "Meta가 AI 기반 Reels Trending Ads에 주제 15개를 더했다.",
-          "mini_headline": "Meta, Reels Trending Ads 확대",
+          "headline": "Minerva, 이름 없는\n에이전트 CDP를 짓다",
+          "body": "Minerva는 AI 에이전트로 데이터를 270M-consumer 그래프에 묶는다.",
+          "mini_headline": "Minerva의 에이전트 CDP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta가 Reels Trending Ads에 상시 표준 주제 15개를 마련했다. Reels Trending Ads는 Facebook과 Instagram에서 가장 많이 시청되고 문화적 관련성이 가장 높은 Reels 바로 뒤에 광고를 배치하는 형식이다. 새 카테고리에는 Home & Garden과 스페인어(Spanish-language) 콘텐츠도 들어갔다."
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Meta는 10월 16일 Brand Building Summit에서 이번 업데이트를 발표했다. 광고주는 연휴 시즌과 풋볼·농구 시즌 개막에 맞춘 시즌별 라인업도 고를 수 있다. 올해 안에는 맞춤 오디언스 제외 기능이 붙어 캠페인에서 지정한 맞춤 오디언스를 뺄 수 있다."
+                "x": "Minerva CEO Jackson Engles는 소비자 270 million명 규모의 아이덴티티 그래프 위에 마케터용 AI 에이전트를 만들려고 $20 million을 유치했다. 그래도 스타트업의 토대인 데이터가 오래가는 해자는 아닐 거라고 인정한다. 그래서 그는 범위를 좁게 가져간다. “마케터가 그냥 Claude를 쓰면서 아무 데이터나 가져와서는 안 됩니다.”"
               },
               {
                 "t": "p",
-                "x": "Meta에 따르면 Reels Trending Ads를 포함한 캠페인은 대조군보다 행동 의향이 5퍼센트포인트 넘게 올랐고 비보조 브랜드 인지도도 5퍼센트포인트 더 높아졌다. 두 수치 모두 Meta 자체 집계다."
+                "x": "브랜드가 CRM, 데이터 웨어하우스 등 여러 소스를 Minerva에 연결하면, OpenAI로 만든 “에이전틱 데이터 엔지니어”가 이를 매핑한다. 그다음 에이전트들이 데이터를 고객별 단일 뷰로 합치고 Minerva의 “B2B2C 아이덴티티 그래프”로 보강한다. Engles에 따르면 Ramp는 업무용-개인용 연결을 써서 다이렉트 메일을 늘렸고 석 달 만에 MQL 비율을 약 80% 끌어올렸다. Wander는 Meta 유사 타깃에서 광범위 타기팅 대비 3.4x ROAS를 거뒀다."
               },
               {
                 "t": "p",
-                "x": "Meta는 2025년 9월 이 형식을 전 세계 모든 광고주에게 열면서, AI로 가장 인기 있는 크리에이터 제작 Reels 바로 뒤에 광고를 배치한다고 밝혔다. TikTok의 Pulse 제품군과 비슷한 방식이다. 회사 설명으로는 Instagram 전체 이용 시간의 절반 이상이 Reels에서 나온다."
+                "x": "두 번째 에이전트 “에이전틱 데이터 사이언티스트”가 붙으면 일상 언어로 요청만 해도 예측 모델이 나온다. Minerva는 안에서 이 계층을 에이전틱 CDP라 부르지만 밖에 그렇게 내세우지는 않는다. 고객은 “CDP가 내는 결과를 원한다”는 설명이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、常設テーマ15種\nReelsトレンド広告に",
-          "body": "MetaはAIで配置するReels Trending Adsに常設テーマ15種を用意した。",
-          "mini_headline": "MetaがReels Trending Adsを拡充",
+          "headline": "Minerva、名乗らない\nエージェント型CDP",
+          "body": "MinervaはAIエージェントで顧客データを270M-consumerのグラフに統合する。",
+          "mini_headline": "Minervaのエージェント型CDP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MetaはReels Trending Adsで、常時利用できる標準テーマ15種の提供を始めた。FacebookとInstagramで最も視聴され、文化的な関連性が最も高いReelsの直後に広告を配置するフォーマットだ。新たなカテゴリーにはHome & Gardenやスペイン語（Spanish-language）コンテンツが含まれる。"
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Metaは10月16日のBrand Building Summitでこの更新を発表した。広告主は、ホリデーシーズンやフットボール、バスケットボールのシーズン開幕に合わせた季節限定のラインナップも選べる。年内にはカスタムオーディエンスの除外機能が加わり、キャンペーンから指定したカスタムオーディエンスを外せるようになる。"
+                "x": "MinervaのCEO Jackson Englesは、270 million人の消費者を収めるアイデンティティグラフ上にマーケター向けAIエージェントを構築するため$20 millionを調達したが、自社の土台であるデータはおそらく持続的な堀にはならないと認める。彼の答えは領域を絞ることだ。「マーケターはClaudeを使って適当なデータを持ち込むだけではいけない」"
               },
               {
                 "t": "p",
-                "x": "Metaによると、Reels Trending Adsを含むキャンペーンは対照群と比べて行動意向が5パーセントポイント超高まり、非助成ブランド認知も5パーセントポイント上積みされた。いずれもMeta自身の数字である。"
+                "x": "ブランドがCRMやデータウェアハウスなどのソースをMinervaにつなぐと、OpenAIで構築した「エージェント型データエンジニア」がそれらをマッピングする。続いてエージェントがデータを顧客ごとの単一ビューに統合し、Minervaの「B2B2Cアイデンティティグラフ」で拡充する。Englesによると、Rampは仕事と個人の連携を使ってダイレクトメールを拡大し、三か月でMQL率を約80%高めた。WanderはMetaの類似オーディエンスで、広いターゲティングと比べて3.4xのROASを得た。"
               },
               {
                 "t": "p",
-                "x": "Metaは2025年9月にこのフォーマットを世界中のすべての広告主に開放し、AIを使ってトレンド上位のクリエイター制作Reelsの直後に広告を配置すると説明していた。この手法はTikTokのPulseシリーズに近い。同社によると、ReelsはInstagramの総利用時間の半分以上を占める。"
+                "x": "二つ目のエージェント「エージェント型データサイエンティスト」は、平易な言葉での依頼から予測モデルを構築する予定だ。Minervaは社内でこの層をエージェント型CDPと呼ぶが、そうは売り出していない。顧客は「CDPがもたらす成果を求めている」からだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta新增15个常设主题\n用于Reels趋势广告",
-          "body": "Meta为借助AI投放的Reels Trending Ads新增15个常设主题。",
-          "mini_headline": "Meta扩展Reels Trending Ads",
+          "headline": "Minerva做智能体CDP\n却不愿这样命名",
+          "body": "初创公司Minerva用AI智能体将客户数据与270M-consumer身份图谱打通。",
+          "mini_headline": "Minerva的智能体CDP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta如今在Reels Trending Ads中提供15个常设标准主题。该形式会把广告紧接着放在Facebook和Instagram上观看量最高、文化相关性最强的Reels之后。新增类别包括Home & Garden和西班牙语（Spanish-language）内容。"
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Meta在10月16日的Brand Building Summit上宣布了这项更新。广告主还可以选择围绕节假日以及橄榄球和篮球赛季开幕打造的季节性阵容。今年晚些时候将推出自定义受众排除功能，让广告系列可以排除选定的自定义受众。"
+                "x": "Minerva CEO Jackson Engles承认，即便公司已融资$20 million，要在覆盖270 million消费者的身份图谱上为营销人员打造AI智能体，其赖以起家的数据恐怕也算不上持久的护城河。他的对策是保持专注：“营销人员不应只是用Claude，再随便导入一些数据。”"
               },
               {
                 "t": "p",
-                "x": "Meta称，与对照组相比，包含Reels Trending Ads的广告系列行动意向提升超过5个百分点，无提示品牌认知度也额外提升5个百分点。两项数据均来自Meta自身。"
+                "x": "品牌把CRM、数据仓库和其他数据源接入Minerva，由基于OpenAI打造的“智能体数据工程师”完成映射。随后，智能体把数据整合为每位客户的单一视图，并用Minerva的“B2B2C身份图谱”加以丰富。据Engles介绍，Ramp利用工作身份与个人身份的关联扩大直邮投放，三个月内MQL率提升约80%；Wander在Meta相似受众上的ROAS是广泛定向的3.4x。"
               },
               {
                 "t": "p",
-                "x": "Meta于2025年9月向全球所有广告主开放该形式，并称其借助AI把广告直接投放在热门的创作者Reels之后。这一做法与TikTok的Pulse系列相近。据该公司称，Reels占Instagram总使用时长的一半以上。"
+                "x": "第二个智能体“智能体数据科学家”将能根据自然语言请求构建预测模型。Minerva内部把这一层称为智能体CDP，但对外并不这样宣传：客户“想要的是CDP带来的结果”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta suma 15 temas fijos\na Reels Trending Ads",
-          "body": "Meta ofrece 15 temas permanentes en Reels Trending Ads, que usa IA para situar anuncios tras los Reels más populares.",
-          "mini_headline": "Meta amplía Reels Trending Ads",
+          "headline": "Minerva crea un CDP agéntico\npero no lo llama así",
+          "body": "La startup Minerva usa agentes AI para unificar datos dispersos de clientes con su grafo de identidad 270M-consumer.",
+          "mini_headline": "El CDP agéntico de Minerva",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta ofrece ahora 15 temas estándar permanentes en Reels Trending Ads, el formato que coloca un anuncio justo después de los Reels más vistos y con mayor relevancia cultural en Facebook e Instagram. Entre las nuevas categorías figuran Home & Garden y el contenido en español."
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Meta anunció la novedad en su Brand Building Summit el 16 de octubre. Los anunciantes también pueden elegir alineaciones de temporada en torno a las fiestas y al inicio de las temporadas de fútbol americano y baloncesto. Más adelante este año llegarán las exclusiones de audiencias personalizadas, que permitirán dejar fuera de una campaña las audiencias personalizadas elegidas."
+                "x": "El CEO de Minerva, Jackson Engles, admite que los datos sobre los que se construye su startup probablemente no son una ventaja duradera, incluso tras recaudar $20 million para crear agentes de AI para marketers sobre un grafo de identidad de 270 million consumidores. Su respuesta es mantenerse enfocado: “Los marketers no deberían limitarse a usar Claude y traer datos al azar”."
               },
               {
                 "t": "p",
-                "x": "Según Meta, las campañas que incluyeron Reels Trending Ads elevaron la intención de acción en más de 5 puntos porcentuales frente a los grupos de control, con un aumento incremental de 5 puntos porcentuales en el reconocimiento de marca espontáneo. Ambas cifras son de la propia Meta."
+                "x": "Una marca conecta su CRM, su almacén de datos y otras fuentes a Minerva, donde un “ingeniero de datos agéntico” creado con OpenAI las mapea. Luego, los agentes unifican los datos en una vista por cliente y los enriquecen con el “grafo de identidad B2B2C” de Minerva. Ramp usó el vínculo entre lo laboral y lo personal para ampliar su correo directo y elevó su tasa de MQL alrededor de 80% en tres meses; Wander obtuvo un ROAS de 3.4x en lookalikes de Meta frente a la segmentación amplia, según Engles."
               },
               {
                 "t": "p",
-                "x": "Meta abrió el formato a todos los anunciantes del mundo en septiembre de 2025 y explicó que usa IA para colocar anuncios justo después de los Reels de creadores con más tendencia. El enfoque se parece a la familia Pulse de TikTok. Según la compañía, los Reels suponen más de la mitad del tiempo total que se pasa en Instagram."
+                "x": "Un segundo agente, un “científico de datos agéntico”, crearía modelos predictivos a partir de peticiones en lenguaje sencillo. Minerva llama internamente a esta capa CDP agéntico, pero no la comercializa así: los clientes “quieren el resultado de un CDP”."
               }
             ]
           }
@@ -763,105 +1009,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta 상시 주제 15개\nReels 트렌딩 광고에",
-          "body": "Meta가 AI 기반 Reels Trending Ads에 주제 15개를 더했다.",
-          "mini_headline": "Meta, Reels Trending Ads 확대",
+          "headline": "Minerva, 이름 없는\n에이전트 CDP를 짓다",
+          "body": "Minerva는 AI 에이전트로 데이터를 270M-consumer 그래프에 묶는다.",
+          "mini_headline": "Minerva의 에이전트 CDP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta가 Reels Trending Ads에 상시 운영되는 표준 주제 15개를 마련했다. Reels Trending Ads는 Facebook과 Instagram에서 가장 많이 시청되고 문화적 관련성이 가장 높은 Reels 바로 뒤에 광고를 배치하는 형식이다. 새 카테고리에는 Home & Garden과 스페인어(Spanish-language) 콘텐츠가 포함된다."
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Meta는 10월 16일 Brand Building Summit에서 이번 업데이트를 발표했다. 광고주는 연휴 시즌과 풋볼·농구 시즌 개막에 맞춘 시즌별 라인업도 고를 수 있다. 올해 안에 맞춤 오디언스 제외 기능이 추가돼, 캠페인에서 지정한 맞춤 오디언스를 뺄 수 있게 된다."
+                "x": "Minerva CEO Jackson Engles는 소비자 270 million명 규모의 아이덴티티 그래프 위에 마케터용 AI 에이전트를 만들려고 $20 million을 유치했지만, 스타트업의 토대인 데이터가 오래가는 해자는 아닐 것이라고 인정한다. 그의 답은 범위를 좁게 유지하는 것이다. “마케터가 그냥 Claude를 쓰면서 아무 데이터나 가져와서는 안 됩니다.”"
               },
               {
                 "t": "p",
-                "x": "Meta에 따르면 Reels Trending Ads를 포함한 캠페인은 대조군 대비 행동 의향이 5퍼센트포인트 넘게 올랐고, 비보조 브랜드 인지도도 5퍼센트포인트 추가 상승했다. 두 수치 모두 Meta 자체 집계다."
+                "x": "브랜드가 CRM, 데이터 웨어하우스 등 여러 소스를 Minerva에 연결하면, OpenAI로 만든 “에이전틱 데이터 엔지니어”가 이를 매핑한다. 이어 에이전트들이 데이터를 고객별 단일 뷰로 통합하고 Minerva의 “B2B2C 아이덴티티 그래프”로 보강한다. Engles에 따르면 Ramp는 업무용-개인용 연결을 활용해 다이렉트 메일을 확대했고 석 달 만에 MQL 비율을 약 80% 끌어올렸다. Wander는 Meta 유사 타깃에서 광범위 타기팅 대비 3.4x ROAS를 기록했다."
               },
               {
                 "t": "p",
-                "x": "Meta는 2025년 9월 이 형식을 전 세계 모든 광고주에게 열면서, AI를 활용해 가장 인기 있는 크리에이터 제작 Reels 바로 뒤에 광고를 배치한다고 밝혔다. 이 방식은 TikTok의 Pulse 제품군과 비슷하다. 회사에 따르면 Reels는 Instagram 전체 이용 시간의 절반 이상을 차지한다."
+                "x": "두 번째 에이전트인 “에이전틱 데이터 사이언티스트”는 일상 언어 요청만으로 예측 모델을 만들게 된다. Minerva는 내부적으로 이 계층을 에이전틱 CDP라 부르지만 그렇게 마케팅하지는 않는다. 고객은 “CDP가 내는 결과를 원한다”는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、常設テーマ15種\nReelsトレンド広告に",
-          "body": "MetaはAIで配置するReels Trending Adsに常設テーマ15種を用意した。",
-          "mini_headline": "MetaがReels Trending Adsを拡充",
+          "headline": "Minerva、名乗らない\nエージェント型CDP",
+          "body": "MinervaはAIエージェントで顧客データを270M-consumerのグラフに統合する。",
+          "mini_headline": "Minervaのエージェント型CDP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "MetaはReels Trending Adsで、常時利用できる標準テーマ15種の提供を始めた。FacebookとInstagramで最も視聴され、文化的な関連性が最も高いReelsの直後に広告を配置するフォーマットだ。新たなカテゴリーにはHome & Gardenやスペイン語（Spanish-language）コンテンツが含まれる。"
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Metaは10月16日のBrand Building Summitでこの更新を発表した。広告主は、ホリデーシーズンやフットボール、バスケットボールのシーズン開幕に合わせた季節限定のラインナップも選べる。年内にはカスタムオーディエンスの除外機能が加わり、キャンペーンから指定したカスタムオーディエンスを外せるようになる。"
+                "x": "MinervaのCEO Jackson Englesは、270 million人の消費者を収めるアイデンティティグラフ上にマーケター向けAIエージェントを構築するため$20 millionを調達したが、自社の土台であるデータはおそらく持続的な堀にはならないと認める。彼の答えは領域を絞ることだ。「マーケターはClaudeを使って適当なデータを持ち込むだけではいけない」"
               },
               {
                 "t": "p",
-                "x": "Metaによると、Reels Trending Adsを含むキャンペーンは対照群と比べて行動意向が5パーセントポイント超高まり、非助成ブランド認知も5パーセントポイント上積みされた。いずれもMeta自身の数字である。"
+                "x": "ブランドがCRMやデータウェアハウスなどのソースをMinervaにつなぐと、OpenAIで構築した「エージェント型データエンジニア」がそれらをマッピングする。続いてエージェントがデータを顧客ごとの単一ビューに統合し、Minervaの「B2B2Cアイデンティティグラフ」で拡充する。Englesによると、Rampは仕事と個人の連携を使ってダイレクトメールを拡大し、三か月でMQL率を約80%高めた。WanderはMetaの類似オーディエンスで、広いターゲティングと比べて3.4xのROASを得た。"
               },
               {
                 "t": "p",
-                "x": "Metaは2025年9月にこのフォーマットを世界中のすべての広告主に開放し、AIを使ってトレンド上位のクリエイター制作Reelsの直後に広告を配置すると説明していた。この手法はTikTokのPulseシリーズに近い。同社によると、ReelsはInstagramの総利用時間の半分以上を占める。"
+                "x": "二つ目のエージェント「エージェント型データサイエンティスト」は、平易な言葉での依頼から予測モデルを構築する予定だ。Minervaは社内でこの層をエージェント型CDPと呼ぶが、そうは売り出していない。顧客は「CDPがもたらす成果を求めている」からだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta新增15个常设主题\n用于Reels趋势广告",
-          "body": "Meta为借助AI投放的Reels Trending Ads新增15个常设主题。",
-          "mini_headline": "Meta扩展Reels Trending Ads",
+          "headline": "Minerva做智能体CDP\n却不愿这样命名",
+          "body": "初创公司Minerva用AI智能体将客户数据与270M-consumer身份图谱打通。",
+          "mini_headline": "Minerva的智能体CDP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta如今在Reels Trending Ads中提供15个常设标准主题。该形式会把广告紧接着放在Facebook和Instagram上观看量最高、文化相关性最强的Reels之后。新增类别包括Home & Garden和西班牙语（Spanish-language）内容。"
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Meta在10月16日的Brand Building Summit上宣布了这项更新。广告主还可以选择围绕节假日以及橄榄球和篮球赛季开幕打造的季节性阵容。今年晚些时候将推出自定义受众排除功能，让广告系列可以排除选定的自定义受众。"
+                "x": "Minerva CEO Jackson Engles承认，即便公司已融资$20 million，要在覆盖270 million消费者的身份图谱上为营销人员打造AI智能体，其赖以起家的数据恐怕也算不上持久的护城河。他的对策是保持专注：“营销人员不应只是用Claude，再随便导入一些数据。”"
               },
               {
                 "t": "p",
-                "x": "Meta称，与对照组相比，包含Reels Trending Ads的广告系列行动意向提升超过5个百分点，无提示品牌认知度也额外提升5个百分点。两项数据均来自Meta自身。"
+                "x": "品牌把CRM、数据仓库和其他数据源接入Minerva，由基于OpenAI打造的“智能体数据工程师”完成映射。随后，智能体把数据整合为每位客户的单一视图，并用Minerva的“B2B2C身份图谱”加以丰富。据Engles介绍，Ramp利用工作身份与个人身份的关联扩大直邮投放，三个月内MQL率提升约80%；Wander在Meta相似受众上的ROAS是广泛定向的3.4x。"
               },
               {
                 "t": "p",
-                "x": "Meta于2025年9月向全球所有广告主开放该形式，并称其借助AI把广告直接投放在热门的创作者Reels之后。这一做法与TikTok的Pulse系列相近。据该公司称，Reels占Instagram总使用时长的一半以上。"
+                "x": "第二个智能体“智能体数据科学家”将能根据自然语言请求构建预测模型。Minerva内部把这一层称为智能体CDP，但对外并不这样宣传：客户“想要的是CDP带来的结果”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta suma 15 temas fijos\na Reels Trending Ads",
-          "body": "Meta ofrece 15 temas permanentes en Reels Trending Ads, que usa IA para situar anuncios tras los Reels más populares.",
-          "mini_headline": "Meta amplía Reels Trending Ads",
+          "headline": "Minerva crea un CDP agéntico\npero no lo llama así",
+          "body": "La startup Minerva usa agentes AI para unificar datos dispersos de clientes con su grafo de identidad 270M-consumer.",
+          "mini_headline": "El CDP agéntico de Minerva",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Meta ofrece ahora 15 temas estándar permanentes en Reels Trending Ads, el formato que coloca un anuncio justo después de los Reels más vistos y con mayor relevancia cultural en Facebook e Instagram. Entre las nuevas categorías figuran Home & Garden y el contenido en español."
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "Meta anunció la novedad en su Brand Building Summit el 16 de octubre. Los anunciantes también pueden elegir alineaciones de temporada en torno a las fiestas y al inicio de las temporadas de fútbol americano y baloncesto. Más adelante este año llegarán las exclusiones de audiencias personalizadas, que permitirán dejar fuera de una campaña las audiencias personalizadas elegidas."
+                "x": "El CEO de Minerva, Jackson Engles, admite que los datos sobre los que se construye su startup probablemente no son una ventaja duradera, incluso tras recaudar $20 million para crear agentes de AI para marketers sobre un grafo de identidad de 270 million consumidores. Su respuesta es mantenerse enfocado: “Los marketers no deberían limitarse a usar Claude y traer datos al azar”."
               },
               {
                 "t": "p",
-                "x": "Según Meta, las campañas que incluyeron Reels Trending Ads elevaron la intención de acción en más de 5 puntos porcentuales frente a los grupos de control, con un aumento incremental de 5 puntos porcentuales en el reconocimiento de marca espontáneo. Ambas cifras son de la propia Meta."
+                "x": "Una marca conecta su CRM, su almacén de datos y otras fuentes a Minerva, donde un “ingeniero de datos agéntico” creado con OpenAI las mapea. Luego, los agentes unifican los datos en una vista por cliente y los enriquecen con el “grafo de identidad B2B2C” de Minerva. Ramp usó el vínculo entre lo laboral y lo personal para ampliar su correo directo y elevó su tasa de MQL alrededor de 80% en tres meses; Wander obtuvo un ROAS de 3.4x en lookalikes de Meta frente a la segmentación amplia, según Engles."
               },
               {
                 "t": "p",
-                "x": "Meta abrió el formato a todos los anunciantes del mundo en septiembre de 2025 y explicó que usa IA para colocar anuncios justo después de los Reels de creadores con más tendencia. El enfoque se parece a la familia Pulse de TikTok. Según la compañía, los Reels suponen más de la mitad del tiempo total que se pasa en Instagram."
+                "x": "Un segundo agente, un “científico de datos agéntico”, crearía modelos predictivos a partir de peticiones en lenguaje sencillo. Minerva llama internamente a esta capa CDP agéntico, pero no la comercializa así: los clientes “quieren el resultado de un CDP”."
               }
             ]
           }
@@ -869,15 +1119,15 @@
       }
     },
     {
-      "id": "marketing-salesforce",
+      "id": "marketing-basis-survey",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Hunter 에이전트에\nDemandbase 데이터",
-      "body": "Sales Cloud 팀은 Demandbase 신호를 받지만 GA는 미정이다.",
-      "mini_headline": "Hunter, 의도 데이터 확보",
+      "headline": "광고인 사이 Claude\nChatGPT 턱밑까지",
+      "body": "Basis 조사 184명 중 51.1%가 AI 에이전트를 쓰나 6.5%만 측정한다.",
+      "mini_headline": "Claude, ChatGPT 턱밑까지",
       "tool": "Marketing",
       "source": "PPC Land",
-      "url": "https://ppc.land/salesforces-hunter-agent-gets-demandbase-intent-data-with-no-extra-contract/",
+      "url": "https://ppc.land/chatgpt-drops-to-74-5-of-marketers-as-claude-climbs-to-72-3-basis-finds/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -885,149 +1135,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
+            "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+            "cap": "ChatGPT 74.5%, Claude 72.3%. 마케터들이 AI 도구를 나눠 쓰니 저울이 거의 수평이다"
           },
           {
             "t": "p",
-            "x": "Demandbase는 2026년 10월 15일 Salesforce가 아직 시범 운영 중인 아웃바운드 영업 에이전트 Hunter의 출시 데이터 파트너로 자사를 지정했다고 밝혔다. Hunter 사용자는 Salesforce 안에서 Demandbase의 참여, 인물, 계정, 구매 그룹, 의도 데이터를 \"Salesforce 내 데이터에 대해 추가 계약 없이\" 받는다."
+            "x": "Basis의 네 번째 연례 “AI and the Future of Marketing” 보고서는 2026년 7월 16일부터 8월 14일까지 마케팅·광고 실무자 184명을 조사했다. ChatGPT 사용률은 88.6%에서 74.5%로 떨어졌고 Claude는 17.9%에서 72.3%로 올랐다. Copilot은 55.4%, Gemini는 47.8%다."
           },
           {
             "t": "p",
-            "x": "통합에 Demandbase MCP 서버를 쓰기 때문에 영업 담당자는 Agentforce 안에서 자연어로 Demandbase에 물어 관심도가 가장 높은 잠재 고객을 찾고 우선순위를 정할 수 있다. Salesforce 제품관리 VP Rohan Punamia는 \"영업팀은 눈에 보이는 신호에만 대응할 수 있다\"고 말했다."
+            "x": "매일 AI를 쓰는 비율은 33.6%에서 61.4%로 늘었다. AI 에이전트를 운영하는 조직도 20.0%에서 51.1%로 올랐다. 주로 보고·분석(72.3%)과 캠페인 브리프(56.4%)에 쓰고, 가장 덜 맡기는 일은 미디어 바잉(18.1%)이다."
           },
           {
             "t": "p",
-            "x": "보도자료는 \"Hunter는 현재 시범 단계이며 정식 출시는 올해 중 예정돼 있다\"고 밝혔지만 구체적인 달은 적지 않았다. Hunter의 가격과 데이터 범위, 독점 여부도 언급하지 않았다. \"추가 계약 없음\"이 곧 \"추가 비용 없음\"이라는 뜻도 아니다."
+            "x": "정해진 지표와 벤치마크로 AI ROI를 측정하는 곳은 6.5%뿐이다. 23.4%는 일화 수준에서 잰다. PPC Land는 표본이 작고 모집 방식도 공개되지 않았다고 짚는다. Basis가 결론에서 권하는 통합 플랫폼을 직접 판다는 점도 걸린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Salesforce's Hunter agent\ngets Demandbase intent data",
-          "body": "Sales Cloud teams piloting Hunter get Demandbase buying-group and intent signals, with no price or GA date yet.",
-          "mini_headline": "Hunter gets intent data",
+          "headline": "Claude nears ChatGPT\namong ad marketers",
+          "body": "Basis found 51.1% of 184 marketers' organizations now run AI agents, but only 6.5% measure AI returns against benchmarks.",
+          "mini_headline": "Claude nears ChatGPT",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
+                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+                "cap": "ChatGPT at 74.5%, Claude at 72.3%: a balance scale nearly level as marketers split their AI tools"
               },
               {
                 "t": "p",
-                "x": "Demandbase said on October 15, 2026, that Salesforce has named it a launch data partner for Hunter, the outbound sales agent Salesforce is still piloting. Hunter users get Demandbase engagement, person, account, buying group and intent data inside Salesforce \"with no additional contracts required for the data within Salesforce.\""
+                "x": "Basis’s fourth annual “AI and the Future of Marketing” report surveyed 184 marketing and advertising professionals from July 16 to August 14, 2026. ChatGPT use fell to 74.5% from 88.6%, while Claude rose to 72.3% from 17.9%; Copilot is at 55.4% and Gemini at 47.8%."
               },
               {
                 "t": "p",
-                "x": "The integration uses the Demandbase MCP server, so sales reps can prompt Demandbase in natural language within Agentforce to identify and prioritize the most engaged prospects. \"Sales teams can only act on the signals they can see,\" said Salesforce VP of Product Management Rohan Punamia."
+                "x": "Daily AI use reached 61.4%, up from 33.6%. The share of organizations running AI agents rose from 20.0% to 51.1%, mostly for reporting and analytics (72.3%) and campaign briefs (56.4%); media buying is the least delegated at 18.1%."
               },
               {
                 "t": "p",
-                "x": "\"Hunter is currently in pilot, with general availability planned later this year,\" the release says, with no month given. It gives no price for Hunter, no data scope, and no statement on exclusivity. \"No additional contracts\" is also not the same as \"no additional cost.\""
+                "x": "Only 6.5% measure AI ROI with defined metrics and benchmarks; 23.4% measure it anecdotally. PPC Land notes the small sample, undisclosed recruitment, and that Basis sells the unified platform its conclusions recommend."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Hunter 에이전트에\nDemandbase 데이터",
-          "body": "Sales Cloud 팀은 Demandbase 신호를 받지만 GA는 미정이다.",
-          "mini_headline": "Hunter, 의도 데이터 확보",
+          "headline": "광고인 사이 Claude\nChatGPT 턱밑까지",
+          "body": "Basis 조사 184명 중 51.1%가 AI 에이전트를 쓰나 6.5%만 측정한다.",
+          "mini_headline": "Claude, ChatGPT 턱밑까지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
+                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+                "cap": "ChatGPT 74.5%, Claude 72.3%. 마케터들이 AI 도구를 나눠 쓰니 저울이 거의 수평이다"
               },
               {
                 "t": "p",
-                "x": "Demandbase는 2026년 10월 15일 Salesforce가 아직 시범 운영 중인 아웃바운드 영업 에이전트 Hunter의 출시 데이터 파트너로 자사를 지정했다고 밝혔다. Hunter 사용자는 Salesforce 안에서 Demandbase의 참여, 인물, 계정, 구매 그룹, 의도 데이터를 \"Salesforce 내 데이터에 대해 추가 계약 없이\" 받는다."
+                "x": "Basis의 네 번째 연례 “AI and the Future of Marketing” 보고서는 2026년 7월 16일부터 8월 14일까지 마케팅·광고 실무자 184명을 조사했다. ChatGPT 사용률은 88.6%에서 74.5%로 떨어졌고 Claude는 17.9%에서 72.3%로 올랐다. Copilot은 55.4%, Gemini는 47.8%다."
               },
               {
                 "t": "p",
-                "x": "통합에 Demandbase MCP 서버를 쓰기 때문에 영업 담당자는 Agentforce 안에서 자연어로 Demandbase에 물어 관심도가 가장 높은 잠재 고객을 찾고 우선순위를 정할 수 있다. Salesforce 제품관리 VP Rohan Punamia는 \"영업팀은 눈에 보이는 신호에만 대응할 수 있다\"고 말했다."
+                "x": "매일 AI를 쓰는 비율은 33.6%에서 61.4%로 늘었다. AI 에이전트를 운영하는 조직도 20.0%에서 51.1%로 올랐다. 주로 보고·분석(72.3%)과 캠페인 브리프(56.4%)에 쓰고, 가장 덜 맡기는 일은 미디어 바잉(18.1%)이다."
               },
               {
                 "t": "p",
-                "x": "보도자료는 \"Hunter는 현재 시범 단계이며 정식 출시는 올해 중 예정돼 있다\"고 밝혔지만 구체적인 달은 적지 않았다. Hunter의 가격과 데이터 범위, 독점 여부도 언급하지 않았다. \"추가 계약 없음\"이 곧 \"추가 비용 없음\"이라는 뜻도 아니다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Hunter代理接入\nDemandbase意图数据",
-          "body": "试点Hunter的Sales Cloud团队获得Demandbase意图信号，GA未定。",
-          "mini_headline": "Hunter获得意图数据",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Demandbase于2026年10月15日表示，Salesforce已将其列为Hunter的首发数据合作伙伴。Hunter是Salesforce仍在试点的外呼销售代理。Hunter用户可在Salesforce内获得Demandbase的互动、人员、账户、采购群体和意图数据，且“Salesforce内的数据无需额外签订合同”。"
-              },
-              {
-                "t": "p",
-                "x": "该集成使用Demandbase MCP服务器，销售代表可以在Agentforce中用自然语言向Demandbase发出提示，识别参与度最高的潜在客户并排定优先级。Salesforce产品管理VP Rohan Punamia说：“销售团队只能对自己看得见的信号采取行动。”"
-              },
-              {
-                "t": "p",
-                "x": "新闻稿称：“Hunter目前处于试点阶段，计划于今年晚些时候全面上市。”但未给出具体月份。新闻稿也没有提及Hunter的价格、数据范围或是否独家。“无需额外合同”也不等于“无需额外费用”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El agente Hunter de Salesforce\nrecibe datos de Demandbase",
-          "body": "Los equipos de Sales Cloud que prueban Hunter reciben señales de intención de Demandbase, sin precio ni fecha de GA.",
-          "mini_headline": "Hunter recibe datos de intención",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Demandbase anunció el 15 de octubre de 2026 que Salesforce la ha designado socio de datos de lanzamiento de Hunter, el agente de ventas outbound que Salesforce aún tiene en fase piloto. Los usuarios de Hunter obtienen datos de interacción, personas, cuentas, grupos de compra e intención de Demandbase dentro de Salesforce \"sin contratos adicionales necesarios para los datos dentro de Salesforce\"."
-              },
-              {
-                "t": "p",
-                "x": "La integración usa el servidor MCP de Demandbase, de modo que los comerciales pueden dar instrucciones a Demandbase en lenguaje natural dentro de Agentforce para identificar y priorizar a los prospectos más implicados. \"Los equipos de ventas solo pueden actuar sobre las señales que ven\", dijo Rohan Punamia, VP de Gestión de Producto de Salesforce."
-              },
-              {
-                "t": "p",
-                "x": "\"Hunter está actualmente en fase piloto, con disponibilidad general prevista para más adelante este año\", indica el comunicado, sin precisar el mes. No da precio para Hunter, ni alcance de los datos, ni aclara si hay exclusividad. Además, \"sin contratos adicionales\" no equivale a \"sin coste adicional\"."
+                "x": "정해진 지표와 벤치마크로 AI ROI를 측정하는 곳은 6.5%뿐이다. 23.4%는 일화 수준에서 잰다. PPC Land는 표본이 작고 모집 방식도 공개되지 않았다고 짚는다. Basis가 결론에서 권하는 통합 플랫폼을 직접 판다는 점도 걸린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Hunterに意図データ\nDemandbaseが提供",
-          "body": "HunterにDemandbaseの購買・意図データが入るが、価格とGA時期は未定だ。",
-          "mini_headline": "Hunterに意図データ",
+          "headline": "広告業界でClaudeが\nChatGPTに肉薄",
+          "body": "Basis調査で184人中51.1%がAIエージェントを使うが、基準測定は6.5%だ。",
+          "mini_headline": "ClaudeがChatGPTに肉薄",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
+                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+                "cap": "ChatGPTは74.5%、Claudeは72.3%。マーケターがAIツールを使い分け、天秤はほぼ水平だ"
               },
               {
                 "t": "p",
-                "x": "Demandbaseは2026年10月15日、Salesforceがまだパイロット段階にあるアウトバウンド営業エージェントHunterのローンチデータパートナーに同社を選んだと発表した。Hunterの利用者は、Salesforce内でDemandbaseのエンゲージメント、個人、アカウント、購買グループ、インテントのデータを「Salesforce内のデータについて追加契約は不要」で利用できる。"
+                "x": "Basisの四回目となる年次報告書「AI and the Future of Marketing」は、2026年7月16日から8月14日にかけて、マーケティング・広告の専門家184人を調査した。ChatGPTの利用率は88.6%から74.5%に下がり、Claudeは17.9%から72.3%に上がった。Copilotは55.4%、Geminiは47.8%である。"
               },
               {
                 "t": "p",
-                "x": "この統合はDemandbase MCPサーバーを使うため、営業担当者はAgentforce内で自然言語によりDemandbaseに指示し、最も関心の高い見込み客を特定して優先順位を付けられる。Salesforceのプロダクトマネジメント担当VPであるRohan Punamiaは「営業チームが行動できるのは、見えているシグナルに対してだけだ」と述べた。"
+                "x": "AIを毎日使う人は33.6%から61.4%に増えた。AIエージェントを運用する組織の割合は20.0%から51.1%に上昇し、主な用途はレポーティングと分析(72.3%)、キャンペーンブリーフ(56.4%)だ。最も任されていないのはメディアバイイングで、18.1%にとどまる。"
               },
               {
                 "t": "p",
-                "x": "リリースは「Hunterは現在パイロット中で、一般提供（GA）は今年後半を予定している」としているが、月は示していない。Hunterの価格、データの範囲、独占性についての説明もない。また「追加契約不要」は「追加費用なし」と同じではない。"
+                "x": "定義した指標とベンチマークでAI ROIを測っているのは6.5%にすぎず、23.4%は経験的に測っている。PPC Landは、サンプルが小さいこと、回答者の募集方法が非公開であること、そしてBasisが結論で推奨する統合プラットフォームを自ら販売していることを指摘する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "广告营销人中Claude\n直追ChatGPT",
+          "body": "Basis调查184人发现，51.1%的组织已用AI智能体，仅6.5%按基准衡量AI回报。",
+          "mini_headline": "Claude逼近ChatGPT",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+                "cap": "ChatGPT 74.5%，Claude 72.3%：营销人分用多种AI工具，天平几乎持平"
+              },
+              {
+                "t": "p",
+                "x": "Basis第四份年度报告《AI and the Future of Marketing》于2026年7月16日至8月14日调查了184名营销和广告从业者。ChatGPT使用率从88.6%降至74.5%，Claude则从17.9%升至72.3%；Copilot为55.4%，Gemini为47.8%。"
+              },
+              {
+                "t": "p",
+                "x": "每天使用AI的比例从33.6%升至61.4%。运行AI智能体的组织比例从20.0%升至51.1%，主要用于报告与分析（72.3%）和活动简报（56.4%）；媒介购买是最少交给智能体的工作，仅为18.1%。"
+              },
+              {
+                "t": "p",
+                "x": "只有6.5%以明确的指标和基准衡量AI ROI；23.4%凭经验判断。PPC Land指出，样本量小、招募方式未公开，而且Basis本身就在销售其结论所推荐的统一平台。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Claude se acerca a ChatGPT\nentre los publicistas",
+          "body": "Según Basis, el 51.1% de 184 marketers ya usa agentes de AI, pero solo el 6.5% mide su retorno con referencias.",
+          "mini_headline": "Claude se acerca a ChatGPT",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+                "cap": "ChatGPT con 74.5% y Claude con 72.3%: una balanza casi nivelada mientras los marketers reparten sus herramientas de AI"
+              },
+              {
+                "t": "p",
+                "x": "El cuarto informe anual “AI and the Future of Marketing” de Basis encuestó a 184 profesionales de marketing y publicidad del 16 de julio al 14 de agosto de 2026. El uso de ChatGPT cayó a 74.5% desde 88.6%, mientras que Claude subió a 72.3% desde 17.9%; Copilot está en 55.4% y Gemini en 47.8%."
+              },
+              {
+                "t": "p",
+                "x": "El uso diario de AI llegó a 61.4%, frente a 33.6%. La proporción de organizaciones que usan agentes de AI pasó de 20.0% a 51.1%, sobre todo para informes y analítica (72.3%) y briefs de campaña (56.4%); la compra de medios es la tarea menos delegada, con 18.1%."
+              },
+              {
+                "t": "p",
+                "x": "Solo el 6.5% mide el ROI de la AI con métricas y benchmarks definidos; el 23.4% lo mide de forma anecdótica. PPC Land señala la muestra pequeña, el reclutamiento no divulgado y que Basis vende la plataforma unificada que recomiendan sus conclusiones."
               }
             ]
           }
@@ -1035,105 +1291,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Hunter 에이전트에\nDemandbase 데이터",
-          "body": "Sales Cloud 팀은 Demandbase 신호를 받지만 GA는 미정이다.",
-          "mini_headline": "Hunter, 의도 데이터 확보",
+          "headline": "광고인 사이 Claude\nChatGPT 턱밑까지",
+          "body": "Basis 조사 184명 중 51.1%가 AI 에이전트를 쓰나 6.5%만 측정한다.",
+          "mini_headline": "Claude, ChatGPT 턱밑까지",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
+                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+                "cap": "ChatGPT 74.5%, Claude 72.3%. 마케터들이 AI 도구를 나눠 쓰면서 저울이 거의 수평을 이룬다"
               },
               {
                 "t": "p",
-                "x": "Demandbase는 2026년 10월 15일, Salesforce가 아직 시범 운영 중인 아웃바운드 영업 에이전트 Hunter의 출시 데이터 파트너로 자사를 지정했다고 밝혔다. Hunter 사용자는 Salesforce 안에서 Demandbase의 참여, 인물, 계정, 구매 그룹, 의도 데이터를 \"Salesforce 내 데이터에 대해 추가 계약 없이\" 받는다."
+                "x": "Basis의 네 번째 연례 “AI and the Future of Marketing” 보고서는 2026년 7월 16일부터 8월 14일까지 마케팅·광고 실무자 184명을 조사했다. ChatGPT 사용률은 88.6%에서 74.5%로 떨어졌고, Claude는 17.9%에서 72.3%로 올랐다. Copilot은 55.4%, Gemini는 47.8%다."
               },
               {
                 "t": "p",
-                "x": "이 통합은 Demandbase MCP 서버를 쓰기 때문에 영업 담당자는 Agentforce 안에서 자연어로 Demandbase에 질문해 관심도가 가장 높은 잠재 고객을 찾고 우선순위를 정할 수 있다. Salesforce 제품관리 VP Rohan Punamia는 \"영업팀은 눈에 보이는 신호에만 대응할 수 있다\"고 말했다."
+                "x": "매일 AI를 쓰는 비율은 33.6%에서 61.4%로 늘었다. AI 에이전트를 운영하는 조직 비율은 20.0%에서 51.1%로 올랐고, 주로 보고·분석(72.3%)과 캠페인 브리프(56.4%)에 쓴다. 가장 덜 맡기는 일은 미디어 바잉으로 18.1%다."
               },
               {
                 "t": "p",
-                "x": "보도자료는 \"Hunter는 현재 시범 단계이며 정식 출시는 올해 중 예정돼 있다\"고 밝혔지만 구체적인 달은 적지 않았다. Hunter의 가격, 데이터 범위, 독점 여부에 대한 언급도 없다. \"추가 계약 없음\"이 \"추가 비용 없음\"과 같은 뜻도 아니다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Hunter代理接入\nDemandbase意图数据",
-          "body": "试点Hunter的Sales Cloud团队获得Demandbase意图信号，GA未定。",
-          "mini_headline": "Hunter获得意图数据",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Demandbase于2026年10月15日表示，Salesforce已将其列为Hunter的首发数据合作伙伴。Hunter是Salesforce仍在试点的外呼销售代理。Hunter用户可在Salesforce内获得Demandbase的互动、人员、账户、采购群体和意图数据，且“Salesforce内的数据无需额外签订合同”。"
-              },
-              {
-                "t": "p",
-                "x": "该集成使用Demandbase MCP服务器，销售代表可以在Agentforce中用自然语言向Demandbase发出提示，识别参与度最高的潜在客户并排定优先级。Salesforce产品管理VP Rohan Punamia说：“销售团队只能对自己看得见的信号采取行动。”"
-              },
-              {
-                "t": "p",
-                "x": "新闻稿称：“Hunter目前处于试点阶段，计划于今年晚些时候全面上市。”但未给出具体月份。新闻稿也没有提及Hunter的价格、数据范围或是否独家。“无需额外合同”也不等于“无需额外费用”。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El agente Hunter de Salesforce\nrecibe datos de Demandbase",
-          "body": "Los equipos de Sales Cloud que prueban Hunter reciben señales de intención de Demandbase, sin precio ni fecha de GA.",
-          "mini_headline": "Hunter recibe datos de intención",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Demandbase anunció el 15 de octubre de 2026 que Salesforce la ha designado socio de datos de lanzamiento de Hunter, el agente de ventas outbound que Salesforce aún tiene en fase piloto. Los usuarios de Hunter obtienen datos de interacción, personas, cuentas, grupos de compra e intención de Demandbase dentro de Salesforce \"sin contratos adicionales necesarios para los datos dentro de Salesforce\"."
-              },
-              {
-                "t": "p",
-                "x": "La integración usa el servidor MCP de Demandbase, de modo que los comerciales pueden dar instrucciones a Demandbase en lenguaje natural dentro de Agentforce para identificar y priorizar a los prospectos más implicados. \"Los equipos de ventas solo pueden actuar sobre las señales que ven\", dijo Rohan Punamia, VP de Gestión de Producto de Salesforce."
-              },
-              {
-                "t": "p",
-                "x": "\"Hunter está actualmente en fase piloto, con disponibilidad general prevista para más adelante este año\", indica el comunicado, sin precisar el mes. No da precio para Hunter, ni alcance de los datos, ni aclara si hay exclusividad. Además, \"sin contratos adicionales\" no equivale a \"sin coste adicional\"."
+                "x": "정해진 지표와 벤치마크로 AI ROI를 측정하는 곳은 6.5%뿐이고, 23.4%는 일화적으로 측정한다. PPC Land는 표본이 작고 모집 방식이 공개되지 않았으며, Basis가 결론에서 권하는 통합 플랫폼을 직접 판매한다는 점을 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Hunterに意図データ\nDemandbaseが提供",
-          "body": "HunterにDemandbaseの購買・意図データが入るが、価格とGA時期は未定だ。",
-          "mini_headline": "Hunterに意図データ",
+          "headline": "広告業界でClaudeが\nChatGPTに肉薄",
+          "body": "Basis調査で184人中51.1%がAIエージェントを使うが、基準測定は6.5%だ。",
+          "mini_headline": "ClaudeがChatGPTに肉薄",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/salesforce-hunter-demandbase-intent-data-no-contract-pointer-hound.jpg"
+                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+                "cap": "ChatGPTは74.5%、Claudeは72.3%。マーケターがAIツールを使い分け、天秤はほぼ水平だ"
               },
               {
                 "t": "p",
-                "x": "Demandbaseは2026年10月15日、Salesforceがまだパイロット段階にあるアウトバウンド営業エージェントHunterのローンチデータパートナーに同社を選んだと発表した。Hunterの利用者は、Salesforce内でDemandbaseのエンゲージメント、個人、アカウント、購買グループ、インテントのデータを「Salesforce内のデータについて追加契約は不要」で利用できる。"
+                "x": "Basisの四回目となる年次報告書「AI and the Future of Marketing」は、2026年7月16日から8月14日にかけて、マーケティング・広告の専門家184人を調査した。ChatGPTの利用率は88.6%から74.5%に下がり、Claudeは17.9%から72.3%に上がった。Copilotは55.4%、Geminiは47.8%である。"
               },
               {
                 "t": "p",
-                "x": "この統合はDemandbase MCPサーバーを使うため、営業担当者はAgentforce内で自然言語によりDemandbaseに指示し、最も関心の高い見込み客を特定して優先順位を付けられる。Salesforceのプロダクトマネジメント担当VPであるRohan Punamiaは「営業チームが行動できるのは、見えているシグナルに対してだけだ」と述べた。"
+                "x": "AIを毎日使う人は33.6%から61.4%に増えた。AIエージェントを運用する組織の割合は20.0%から51.1%に上昇し、主な用途はレポーティングと分析(72.3%)、キャンペーンブリーフ(56.4%)だ。最も任されていないのはメディアバイイングで、18.1%にとどまる。"
               },
               {
                 "t": "p",
-                "x": "リリースは「Hunterは現在パイロット中で、一般提供（GA）は今年後半を予定している」としているが、月は示していない。Hunterの価格、データの範囲、独占性についての説明もない。また「追加契約不要」は「追加費用なし」と同じではない。"
+                "x": "定義した指標とベンチマークでAI ROIを測っているのは6.5%にすぎず、23.4%は経験的に測っている。PPC Landは、サンプルが小さいこと、回答者の募集方法が非公開であること、そしてBasisが結論で推奨する統合プラットフォームを自ら販売していることを指摘する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "广告营销人中Claude\n直追ChatGPT",
+          "body": "Basis调查184人发现，51.1%的组织已用AI智能体，仅6.5%按基准衡量AI回报。",
+          "mini_headline": "Claude逼近ChatGPT",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+                "cap": "ChatGPT 74.5%，Claude 72.3%：营销人分用多种AI工具，天平几乎持平"
+              },
+              {
+                "t": "p",
+                "x": "Basis第四份年度报告《AI and the Future of Marketing》于2026年7月16日至8月14日调查了184名营销和广告从业者。ChatGPT使用率从88.6%降至74.5%，Claude则从17.9%升至72.3%；Copilot为55.4%，Gemini为47.8%。"
+              },
+              {
+                "t": "p",
+                "x": "每天使用AI的比例从33.6%升至61.4%。运行AI智能体的组织比例从20.0%升至51.1%，主要用于报告与分析（72.3%）和活动简报（56.4%）；媒介购买是最少交给智能体的工作，仅为18.1%。"
+              },
+              {
+                "t": "p",
+                "x": "只有6.5%以明确的指标和基准衡量AI ROI；23.4%凭经验判断。PPC Land指出，样本量小、招募方式未公开，而且Basis本身就在销售其结论所推荐的统一平台。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Claude se acerca a ChatGPT\nentre los publicistas",
+          "body": "Según Basis, el 51.1% de 184 marketers ya usa agentes de AI, pero solo el 6.5% mide su retorno con referencias.",
+          "mini_headline": "Claude se acerca a ChatGPT",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+                "cap": "ChatGPT con 74.5% y Claude con 72.3%: una balanza casi nivelada mientras los marketers reparten sus herramientas de AI"
+              },
+              {
+                "t": "p",
+                "x": "El cuarto informe anual “AI and the Future of Marketing” de Basis encuestó a 184 profesionales de marketing y publicidad del 16 de julio al 14 de agosto de 2026. El uso de ChatGPT cayó a 74.5% desde 88.6%, mientras que Claude subió a 72.3% desde 17.9%; Copilot está en 55.4% y Gemini en 47.8%."
+              },
+              {
+                "t": "p",
+                "x": "El uso diario de AI llegó a 61.4%, frente a 33.6%. La proporción de organizaciones que usan agentes de AI pasó de 20.0% a 51.1%, sobre todo para informes y analítica (72.3%) y briefs de campaña (56.4%); la compra de medios es la tarea menos delegada, con 18.1%."
+              },
+              {
+                "t": "p",
+                "x": "Solo el 6.5% mide el ROI de la AI con métricas y benchmarks definidos; el 23.4% lo mide de forma anecdótica. PPC Land señala la muestra pequeña, el reclutamiento no divulgado y que Basis vende la plataforma unificada que recomiendan sus conclusiones."
               }
             ]
           }
@@ -1141,225 +1401,171 @@
       }
     },
     {
-      "id": "marketing-cheq",
+      "id": "marketing-lendi",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "연휴 이커머스, AI\n쇼핑 에이전트 대비",
-      "body": "Cheq에 따르면 45일간 AI 에이전트 트래픽이 100x 급증했다.",
-      "mini_headline": "쇼핑 에이전트 급증",
+      "headline": "Lendi가 재는\nAI의 보이지 않는 일",
+      "body": "Lendi는 챗봇의 브랜드 발견 영향을 재되 챗봇 광고엔 아직 돈을 아낀다.",
+      "mini_headline": "Lendi, AI의 일을 재다",
       "tool": "Marketing",
-      "source": "Semafor",
-      "url": "https://www.semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season",
+      "source": "AdExchanger",
+      "url": "https://www.adexchanger.com/measurement/how-australian-home-lender-lendi-measures-the-invisible-work-of-ai/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
-            "cap": "Dado Ruvic/Reuters"
+            "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+            "cap": ""
           },
           {
             "t": "p",
-            "x": "다가오는 연말 쇼핑 시즌, 브랜드가 공략할 새로운 유형의 쇼핑객이 있다. AI 에이전트다."
+            "x": "챗봇이 브랜드 발견에 어떤 영향을 주는지 재는 일은 아직 대부분 미지의 영역이다. 그래도 호주의 주택담보대출·부동산 매매 기업 Lendi Group의 성장 총괄 GM Michael McCash는 “측정할 수 없는 것은 개선할 수 없다”고 말한다."
           },
           {
             "t": "p",
-            "x": "AI 쇼핑 에이전트를 검증하는 사이버보안 기업 Cheq는 Instinct와 Meta의 Muse 같은 소비자용 AI 에이전트가 출시된 뒤 45일 동안 에이전트 트래픽이 100x 급증했다고 밝혔다. Cheq CEO Guy Tytunovich는 에이전트가 아직 온라인 쇼핑객 가운데 작은 비중에 그치지만 소비자용 에이전트가 쉴 새 없이 쏟아지는 만큼 빠르게 늘고 있다고 말했다."
+            "x": "McCash는 연간 $10 million이 넘는 Lendi의 유료 미디어용으로 사내 멀티터치 어트리뷰션 모델을 만들고 MMM에는 Mutinex를 들였다. MMM을 돌려 보니 무료 지상파 TV 비중이 너무 낮았다. Mutinex의 AI Visibility 도구는 LLMs에 프롬프트를 대량으로 넣어 브랜드가 어떻게 노출되는지 분석하는데, Lendi는 이 도구의 파일럿 고객이기도 하다. 브랜드 추적과 설문에는 Tracksuit와 Askable을 쓴다."
           },
           {
             "t": "p",
-            "x": "모두가 반기지는 않는다. Amazon과 eBay는 광고 사업과 결제 경험에 대한 통제력을 더 쥐려고 에이전트를 막았다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
-            "cap": "미국(US) 성인이 AI로 쇼핑할 가능성을 보여주는 차트."
-          },
-          {
-            "t": "p",
-            "x": "소비자도 망설인다. Morning Consult 조사에 따르면 쇼핑객은 이제 인플루언서만큼 에이전트의 추천에도 흔들리지만 AI에 구매를 맡기는 데 거리낌 없는 사람은 적다. 이번 연말 시즌은 어떤 브랜드가 에이전트가 거부하기 힘든 방식으로 상품을 가장 잘 보여주는지를 가리는 첫 진짜 시험대다."
+            "x": "ChatGPT, Gemini 같은 챗봇 안의 광고는 아직 ROI에 크게 기여하지 못했다. CPMs와 고객 획득 비용이 너무 높아서다. 대신 Lendi가 눈여겨보는 건 LLMs로 조사를 마치고 더 많은 정보를 갖춘 채 퍼널 아래쪽까지 내려온 고객이다. 지금 AI 투자를 챗봇 광고보다 측정에 쓰는 이유다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ecommerce braces for AI\nshopping agents this holiday",
-          "body": "Cheq, which verifies AI shopping agents, says agentic traffic surged 100x in 45 days after new consumer agents launched.",
-          "mini_headline": "Shopping agents surge",
+          "headline": "How Lendi measures\nthe invisible work of AI",
+          "body": "Australian home lender Lendi is measuring how chatbots shape brand discovery, and finds chatbot ads not yet worth much spend.",
+          "mini_headline": "Lendi measures AI's work",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
-                "cap": "Dado Ruvic/Reuters"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "This coming holiday season, brands will have a new type of shopper to court: AI agents."
+                "x": "Measuring how chatbots shape brand discovery is mostly still a mystery. But “you can’t improve what you can’t measure,” said Michael McCash, GM of growth at Australian home loan and property sales company Lendi Group."
               },
               {
                 "t": "p",
-                "x": "Cheq, a cybersecurity company that verifies AI shopping agents, says it recorded a 100x surge in agentic traffic over a 45-day period following the release of consumer AI agents like Instinct and Meta's Muse. While agents still make up a small fraction of online shoppers, they're growing quickly, especially among a constant drumbeat of consumer agent releases, Cheq CEO Guy Tytunovich said."
+                "x": "McCash built an in-house multi-touch attribution model for Lendi’s more than $10 million in annual paid media and brought in Mutinex for MMM, which showed free-to-air TV was underweighted. Lendi is also a pilot customer of Mutinex’s AI Visibility tool, which mass-prompts LLMs and analyzes how brands surface, and uses Tracksuit and Askable for brand tracking and surveys."
               },
               {
                 "t": "p",
-                "x": "But not everyone is on board: Amazon and eBay have blocked agents to reinforce control over their ads businesses and checkout experiences."
-              },
-              {
-                "t": "img",
-                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
-                "cap": "A chart showing how likely US adults are to use AI to shop."
-              },
-              {
-                "t": "p",
-                "x": "Consumers are hesitant, too. Shoppers are now as likely to be swayed by an agent's recommendation as by an influencer, Morning Consult finds, but few are comfortable letting AI make purchases on their behalf. This holiday season will be the first true test of which brands are best at displaying their wares in ways that agents find irresistible."
+                "x": "Ads inside chatbots such as ChatGPT and Gemini haven’t been major ROI contributors yet: CPMs and acquisition rates are too high. What Lendi does see is a more informed customer arriving further down the funnel after researching with LLMs, so for now its AI investment goes to measurement rather than chatbot ads."
               }
             ]
           }
         },
         "ko": {
-          "headline": "연휴 이커머스, AI\n쇼핑 에이전트 대비",
-          "body": "Cheq에 따르면 45일간 AI 에이전트 트래픽이 100x 급증했다.",
-          "mini_headline": "쇼핑 에이전트 급증",
+          "headline": "Lendi가 재는\nAI의 보이지 않는 일",
+          "body": "Lendi는 챗봇의 브랜드 발견 영향을 재되 챗봇 광고엔 아직 돈을 아낀다.",
+          "mini_headline": "Lendi, AI의 일을 재다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
-                "cap": "Dado Ruvic/Reuters"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "다가오는 연말 쇼핑 시즌, 브랜드가 공략할 새로운 유형의 쇼핑객이 있다. AI 에이전트다."
+                "x": "챗봇이 브랜드 발견에 어떤 영향을 주는지 재는 일은 아직 대부분 미지의 영역이다. 그래도 호주의 주택담보대출·부동산 매매 기업 Lendi Group의 성장 총괄 GM Michael McCash는 “측정할 수 없는 것은 개선할 수 없다”고 말한다."
               },
               {
                 "t": "p",
-                "x": "AI 쇼핑 에이전트를 검증하는 사이버보안 기업 Cheq는 Instinct와 Meta의 Muse 같은 소비자용 AI 에이전트가 출시된 뒤 45일 동안 에이전트 트래픽이 100x 급증했다고 밝혔다. Cheq CEO Guy Tytunovich는 에이전트가 아직 온라인 쇼핑객 가운데 작은 비중에 그치지만 소비자용 에이전트가 쉴 새 없이 쏟아지는 만큼 빠르게 늘고 있다고 말했다."
+                "x": "McCash는 연간 $10 million이 넘는 Lendi의 유료 미디어용으로 사내 멀티터치 어트리뷰션 모델을 만들고 MMM에는 Mutinex를 들였다. MMM을 돌려 보니 무료 지상파 TV 비중이 너무 낮았다. Mutinex의 AI Visibility 도구는 LLMs에 프롬프트를 대량으로 넣어 브랜드가 어떻게 노출되는지 분석하는데, Lendi는 이 도구의 파일럿 고객이기도 하다. 브랜드 추적과 설문에는 Tracksuit와 Askable을 쓴다."
               },
               {
                 "t": "p",
-                "x": "모두가 반기지는 않는다. Amazon과 eBay는 광고 사업과 결제 경험에 대한 통제력을 더 쥐려고 에이전트를 막았다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
-                "cap": "미국(US) 성인이 AI로 쇼핑할 가능성을 보여주는 차트."
-              },
-              {
-                "t": "p",
-                "x": "소비자도 망설인다. Morning Consult 조사에 따르면 쇼핑객은 이제 인플루언서만큼 에이전트의 추천에도 흔들리지만 AI에 구매를 맡기는 데 거리낌 없는 사람은 적다. 이번 연말 시즌은 어떤 브랜드가 에이전트가 거부하기 힘든 방식으로 상품을 가장 잘 보여주는지를 가리는 첫 진짜 시험대다."
+                "x": "ChatGPT, Gemini 같은 챗봇 안의 광고는 아직 ROI에 크게 기여하지 못했다. CPMs와 고객 획득 비용이 너무 높아서다. 대신 Lendi가 눈여겨보는 건 LLMs로 조사를 마치고 더 많은 정보를 갖춘 채 퍼널 아래쪽까지 내려온 고객이다. 지금 AI 투자를 챗봇 광고보다 측정에 쓰는 이유다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EC業界、年末商戦で\nAI購買エージェントに備え",
-          "body": "Cheqによると、AIエージェントのトラフィックが45日で100x 急増した。",
-          "mini_headline": "ショッピングエージェントが急増",
+          "headline": "Lendiが測る\nAIの見えない仕事",
+          "body": "豪Lendiはチャットボットのブランド発見への影響を測り、その広告はまだ割高と見る。",
+          "mini_headline": "LendiがAIの働きを測る",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
-                "cap": "Dado Ruvic/Reuters"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "今年のホリデーシーズン、ブランドには新たに口説くべき買い手が現れる。AIエージェントだ。"
+                "x": "チャットボットがブランド発見にどう影響するかの測定は、まだほとんど謎に包まれている。それでも「測れないものは改善できない」と、オーストラリアの住宅ローン・不動産販売会社Lendi Groupでグロース担当GMを務めるMichael McCashは語った。"
               },
               {
                 "t": "p",
-                "x": "AIショッピングエージェントを検証するサイバーセキュリティ企業Cheqによると、InstinctやMetaのMuseといった消費者向けAIエージェントの公開後、45日間でエージェント経由のトラフィックが100x に急増した。CheqのCEO、Guy Tytunovichは、エージェントはまだオンライン買い物客のごく一部にすぎないが、消費者向けエージェントの公開が絶え間なく続くなかで急速に増えていると述べた。"
+                "x": "McCashは、年間$10 millionを超えるLendiの有料メディア向けに社内でマルチタッチアトリビューションモデルを構築し、MMMにはMutinexを導入した。その結果、無料の地上波TVへの配分が少なすぎると分かった。Lendiは、LLMsに大量のプロンプトを投げてブランドの表れ方を分析するMutinexのAI Visibilityツールのパイロット顧客でもあり、ブランド追跡と調査にはTracksuitとAskableを使う。"
               },
               {
                 "t": "p",
-                "x": "ただし、誰もが歓迎しているわけではない。AmazonとeBayは、広告事業と購入手続きの体験に対する支配を強めるため、エージェントをブロックしている。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
-                "cap": "USの成人がAIで買い物をする可能性を示すグラフ。"
-              },
-              {
-                "t": "p",
-                "x": "消費者もためらっている。Morning Consultの調査では、買い物客はいまやインフルエンサーと同じくらいエージェントの推薦に左右されるが、AIに代わりに購入させることに抵抗がない人は少ない。今年のホリデーシーズンは、エージェントが抗えない形で商品を見せるのが最もうまいブランドはどこかを見極める、初の本格的な試金石となる。"
+                "x": "ChatGPTやGeminiなどのチャットボット内広告は、まだROIへの大きな貢献源になっていない。CPMsも獲得単価も高すぎるからだ。Lendiが実際に目にしているのは、LLMsで下調べを済ませ、より多くの知識を持ってファネルの下の方まで進んできた顧客である。そのため当面、AIへの投資はチャットボット広告ではなく測定に向けている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "电商备战假日季\n迎接AI购物代理",
-          "body": "Cheq称，消费级AI代理推出后45天内，代理流量激增100x 。",
-          "mini_headline": "购物代理激增",
+          "headline": "Lendi如何衡量\nAI看不见的作用",
+          "body": "澳洲房贷公司Lendi衡量聊天机器人如何影响品牌发现，并认为聊天机器人广告尚不值得多投。",
+          "mini_headline": "Lendi衡量AI的作用",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
-                "cap": "Dado Ruvic/Reuters"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "即将到来的假日季，品牌将迎来一类需要争取的新购物者：AI代理。"
+                "x": "衡量聊天机器人如何影响品牌发现，在很大程度上仍是一个谜。但澳大利亚房贷与房产销售公司Lendi Group增长业务GM Michael McCash说：“无法衡量的东西，就无法改进。”"
               },
               {
                 "t": "p",
-                "x": "验证AI购物代理的网络安全公司Cheq称，在Instinct和Meta的Muse等消费级AI代理发布后的45天里，其记录到的代理流量激增100x 。Cheq CEO Guy Tytunovich表示，代理在网购人群中占比仍小，但增长很快，尤其是在消费级代理接连不断发布的情况下。"
+                "x": "McCash为Lendi每年超过$10 million的付费媒体投放搭建了内部多触点归因模型，并引入Mutinex做MMM，结果显示免费电视的投放权重偏低。Lendi也是Mutinex的AI Visibility工具的试点客户，该工具对LLMs进行大规模提示并分析品牌如何出现；Lendi还用Tracksuit和Askable做品牌追踪和调研。"
               },
               {
                 "t": "p",
-                "x": "但并非所有人都买账：Amazon和eBay已屏蔽代理，以加强对其广告业务和结账体验的控制。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
-                "cap": "显示US成年人使用AI购物可能性的图表。"
-              },
-              {
-                "t": "p",
-                "x": "消费者也在犹豫。Morning Consult发现，如今购物者受代理推荐影响的可能性已与受网红影响相当，但很少有人愿意让AI代为购买。这个假日季将首次真正检验，哪些品牌最擅长以代理难以抗拒的方式展示商品。"
+                "x": "ChatGPT和Gemini等聊天机器人内的广告还没有成为主要的ROI来源：CPMs和获客成本都太高。Lendi确实看到的是，用户先用LLMs做功课，带着更多信息进入漏斗更深处，因此它目前把AI投入放在衡量上，而不是聊天机器人广告。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El ecommerce se prepara para\nagentes de IA en las fiestas",
-          "body": "Cheq, que verifica agentes de compra con IA, registró un aumento de 100x en el tráfico de agentes en 45 días.",
-          "mini_headline": "Auge de los agentes de compra",
+          "headline": "Cómo mide Lendi\nel trabajo invisible de la AI",
+          "body": "La hipotecaria Lendi mide cómo los chatbots moldean el descubrimiento de marcas y aún ve poco rentables sus anuncios.",
+          "mini_headline": "Lendi mide el trabajo de la AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
-                "cap": "Dado Ruvic/Reuters"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "En esta temporada de fiestas, las marcas tendrán que cortejar a un nuevo tipo de comprador: los agentes de IA."
+                "x": "Medir cómo los chatbots influyen en el descubrimiento de marcas sigue siendo en gran parte un misterio. Pero “no puedes mejorar lo que no puedes medir”, dijo Michael McCash, GM de crecimiento de Lendi Group, empresa australiana de préstamos hipotecarios y venta de propiedades."
               },
               {
                 "t": "p",
-                "x": "Cheq, una empresa de ciberseguridad que verifica agentes de compra con IA, afirma que registró un aumento de 100x en el tráfico de agentes durante un periodo de 45 días tras el lanzamiento de agentes de IA para consumidores como Instinct y Muse, de Meta. Aunque los agentes todavía representan una pequeña fracción de los compradores en línea, crecen con rapidez, sobre todo ante el constante goteo de lanzamientos de agentes para consumidores, dijo el CEO de Cheq, Guy Tytunovich."
+                "x": "McCash creó un modelo interno de atribución multitáctil para los más de $10 million anuales que Lendi invierte en medios pagados e incorporó a Mutinex para el MMM, que mostró que la TV abierta estaba infraponderada. Lendi también es cliente piloto de AI Visibility, la herramienta de Mutinex que lanza prompts masivos a LLMs y analiza cómo aparecen las marcas, y usa Tracksuit y Askable para seguimiento de marca y encuestas."
               },
               {
                 "t": "p",
-                "x": "Pero no todos están de acuerdo: Amazon y eBay han bloqueado a los agentes para reforzar el control sobre sus negocios publicitarios y sus experiencias de pago."
-              },
-              {
-                "t": "img",
-                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
-                "cap": "Gráfico que muestra la probabilidad de que los adultos de EE. UU. usen IA para comprar."
-              },
-              {
-                "t": "p",
-                "x": "Los consumidores también dudan. Según Morning Consult, los compradores ya se dejan influir tanto por la recomendación de un agente como por la de un influencer, pero pocos se sienten cómodos dejando que la IA compre en su nombre. Esta temporada de fiestas será la primera prueba real de qué marcas saben presentar mejor sus productos de forma que a los agentes les resulten irresistibles."
+                "x": "Los anuncios dentro de chatbots como ChatGPT y Gemini aún no han contribuido mucho al ROI: los CPMs y las tasas de adquisición son demasiado altos. Lo que Lendi sí ve es un cliente más informado que llega más abajo en el embudo tras investigar con LLMs, así que por ahora su inversión en AI va a la medición y no a los anuncios en chatbots."
               }
             ]
           }
@@ -1367,145 +1573,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "연휴 이커머스, AI\n쇼핑 에이전트 대비",
-          "body": "Cheq에 따르면 45일간 AI 에이전트 트래픽이 100x 급증했다.",
-          "mini_headline": "쇼핑 에이전트 급증",
+          "headline": "Lendi가 재는\nAI의 보이지 않는 일",
+          "body": "Lendi는 챗봇의 브랜드 발견 영향을 재고, 챗봇 광고엔 아직 돈을 아낀다.",
+          "mini_headline": "Lendi, AI의 일을 재다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
-                "cap": "Dado Ruvic/Reuters"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "다가오는 연말 쇼핑 시즌, 브랜드는 새로운 유형의 쇼핑객인 AI 에이전트를 공략해야 한다."
+                "x": "챗봇이 브랜드 발견에 어떤 영향을 주는지 측정하는 일은 아직 대부분 미지의 영역이다. 하지만 호주의 주택담보대출·부동산 매매 기업 Lendi Group의 성장 총괄 GM Michael McCash는 “측정할 수 없는 것은 개선할 수 없다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "AI 쇼핑 에이전트를 검증하는 사이버보안 기업 Cheq는 Instinct와 Meta의 Muse 같은 소비자용 AI 에이전트가 출시된 뒤 45일 동안 에이전트 트래픽이 100x 급증했다고 밝혔다. Cheq CEO Guy Tytunovich는 에이전트가 아직 온라인 쇼핑객 가운데 작은 비중에 그치지만, 소비자용 에이전트가 끊임없이 쏟아지면서 빠르게 늘고 있다고 말했다."
+                "x": "McCash는 연간 $10 million이 넘는 Lendi의 유료 미디어를 위해 사내 멀티터치 어트리뷰션 모델을 만들었고, MMM을 위해 Mutinex를 도입했다. MMM 결과 무료 지상파 TV 비중이 너무 낮았다는 사실이 드러났다. Lendi는 LLMs에 대량으로 프롬프트를 넣어 브랜드가 어떻게 노출되는지 분석하는 Mutinex의 AI Visibility 도구의 파일럿 고객이기도 하며, 브랜드 추적과 설문에는 Tracksuit와 Askable을 쓴다."
               },
               {
                 "t": "p",
-                "x": "하지만 모두가 반기는 것은 아니다. Amazon과 eBay는 광고 사업과 결제 경험에 대한 통제력을 강화하려고 에이전트를 차단했다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
-                "cap": "미국(US) 성인이 AI로 쇼핑할 가능성을 보여주는 차트."
-              },
-              {
-                "t": "p",
-                "x": "소비자도 망설이고 있다. Morning Consult 조사에 따르면 쇼핑객은 이제 인플루언서만큼 에이전트의 추천에도 흔들리지만, AI에 구매를 맡기는 데 거리낌 없는 사람은 적다. 이번 연말 시즌은 어떤 브랜드가 에이전트가 거부하기 힘든 방식으로 상품을 가장 잘 보여주는지를 가리는 첫 진짜 시험대가 될 것이다."
+                "x": "ChatGPT, Gemini 같은 챗봇 안의 광고는 아직 ROI에 크게 기여하지 못했다. CPMs와 고객 획득 비용이 너무 높기 때문이다. 대신 Lendi는 LLMs로 조사를 마친 뒤 더 많은 정보를 갖추고 퍼널 아래쪽까지 내려온 고객을 보고 있다. 그래서 지금은 AI 투자를 챗봇 광고보다 측정에 쓴다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EC業界、年末商戦で\nAI購買エージェントに備え",
-          "body": "Cheqによると、AIエージェントのトラフィックが45日で100x 急増した。",
-          "mini_headline": "ショッピングエージェントが急増",
+          "headline": "Lendiが測る\nAIの見えない仕事",
+          "body": "豪Lendiはチャットボットのブランド発見への影響を測り、その広告はまだ割高と見る。",
+          "mini_headline": "LendiがAIの働きを測る",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
-                "cap": "Dado Ruvic/Reuters"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "今年のホリデーシーズン、ブランドには新たに口説くべき買い手が現れる。AIエージェントだ。"
+                "x": "チャットボットがブランド発見にどう影響するかの測定は、まだほとんど謎に包まれている。それでも「測れないものは改善できない」と、オーストラリアの住宅ローン・不動産販売会社Lendi Groupでグロース担当GMを務めるMichael McCashは語った。"
               },
               {
                 "t": "p",
-                "x": "AIショッピングエージェントを検証するサイバーセキュリティ企業Cheqによると、InstinctやMetaのMuseといった消費者向けAIエージェントの公開後、45日間でエージェント経由のトラフィックが100x に急増した。CheqのCEO、Guy Tytunovichは、エージェントはまだオンライン買い物客のごく一部にすぎないが、消費者向けエージェントの公開が絶え間なく続くなかで急速に増えていると述べた。"
+                "x": "McCashは、年間$10 millionを超えるLendiの有料メディア向けに社内でマルチタッチアトリビューションモデルを構築し、MMMにはMutinexを導入した。その結果、無料の地上波TVへの配分が少なすぎると分かった。Lendiは、LLMsに大量のプロンプトを投げてブランドの表れ方を分析するMutinexのAI Visibilityツールのパイロット顧客でもあり、ブランド追跡と調査にはTracksuitとAskableを使う。"
               },
               {
                 "t": "p",
-                "x": "ただし、誰もが歓迎しているわけではない。AmazonとeBayは、広告事業と購入手続きの体験に対する支配を強めるため、エージェントをブロックしている。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
-                "cap": "USの成人がAIで買い物をする可能性を示すグラフ。"
-              },
-              {
-                "t": "p",
-                "x": "消費者もためらっている。Morning Consultの調査では、買い物客はいまやインフルエンサーと同じくらいエージェントの推薦に左右されるが、AIに代わりに購入させることに抵抗がない人は少ない。今年のホリデーシーズンは、エージェントが抗えない形で商品を見せるのが最もうまいブランドはどこかを見極める、初の本格的な試金石となる。"
+                "x": "ChatGPTやGeminiなどのチャットボット内広告は、まだROIへの大きな貢献源になっていない。CPMsも獲得単価も高すぎるからだ。Lendiが実際に目にしているのは、LLMsで下調べを済ませ、より多くの知識を持ってファネルの下の方まで進んできた顧客である。そのため当面、AIへの投資はチャットボット広告ではなく測定に向けている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "电商备战假日季\n迎接AI购物代理",
-          "body": "Cheq称，消费级AI代理推出后45天内，代理流量激增100x 。",
-          "mini_headline": "购物代理激增",
+          "headline": "Lendi如何衡量\nAI看不见的作用",
+          "body": "澳洲房贷公司Lendi衡量聊天机器人如何影响品牌发现，并认为聊天机器人广告尚不值得多投。",
+          "mini_headline": "Lendi衡量AI的作用",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
-                "cap": "Dado Ruvic/Reuters"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "即将到来的假日季，品牌将迎来一类需要争取的新购物者：AI代理。"
+                "x": "衡量聊天机器人如何影响品牌发现，在很大程度上仍是一个谜。但澳大利亚房贷与房产销售公司Lendi Group增长业务GM Michael McCash说：“无法衡量的东西，就无法改进。”"
               },
               {
                 "t": "p",
-                "x": "验证AI购物代理的网络安全公司Cheq称，在Instinct和Meta的Muse等消费级AI代理发布后的45天里，其记录到的代理流量激增100x 。Cheq CEO Guy Tytunovich表示，代理在网购人群中占比仍小，但增长很快，尤其是在消费级代理接连不断发布的情况下。"
+                "x": "McCash为Lendi每年超过$10 million的付费媒体投放搭建了内部多触点归因模型，并引入Mutinex做MMM，结果显示免费电视的投放权重偏低。Lendi也是Mutinex的AI Visibility工具的试点客户，该工具对LLMs进行大规模提示并分析品牌如何出现；Lendi还用Tracksuit和Askable做品牌追踪和调研。"
               },
               {
                 "t": "p",
-                "x": "但并非所有人都买账：Amazon和eBay已屏蔽代理，以加强对其广告业务和结账体验的控制。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
-                "cap": "显示US成年人使用AI购物可能性的图表。"
-              },
-              {
-                "t": "p",
-                "x": "消费者也在犹豫。Morning Consult发现，如今购物者受代理推荐影响的可能性已与受网红影响相当，但很少有人愿意让AI代为购买。这个假日季将首次真正检验，哪些品牌最擅长以代理难以抗拒的方式展示商品。"
+                "x": "ChatGPT和Gemini等聊天机器人内的广告还没有成为主要的ROI来源：CPMs和获客成本都太高。Lendi确实看到的是，用户先用LLMs做功课，带着更多信息进入漏斗更深处，因此它目前把AI投入放在衡量上，而不是聊天机器人广告。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El ecommerce se prepara para\nagentes de IA en las fiestas",
-          "body": "Cheq, que verifica agentes de compra con IA, registró un aumento de 100x en el tráfico de agentes en 45 días.",
-          "mini_headline": "Auge de los agentes de compra",
+          "headline": "Cómo mide Lendi\nel trabajo invisible de la AI",
+          "body": "La hipotecaria Lendi mide cómo los chatbots moldean el descubrimiento de marcas y aún ve poco rentables sus anuncios.",
+          "mini_headline": "Lendi mide el trabajo de la AI",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.semafor.com/364382a70d4b08c6f639650207407de0c5dde3e7-4000x2668.jpg?w=740&q=75&auto=format&h=493",
-                "cap": "Dado Ruvic/Reuters"
+                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+                "cap": ""
               },
               {
                 "t": "p",
-                "x": "En esta temporada de fiestas, las marcas tendrán que cortejar a un nuevo tipo de comprador: los agentes de IA."
+                "x": "Medir cómo los chatbots influyen en el descubrimiento de marcas sigue siendo en gran parte un misterio. Pero “no puedes mejorar lo que no puedes medir”, dijo Michael McCash, GM de crecimiento de Lendi Group, empresa australiana de préstamos hipotecarios y venta de propiedades."
               },
               {
                 "t": "p",
-                "x": "Cheq, una empresa de ciberseguridad que verifica agentes de compra con IA, afirma que registró un aumento de 100x en el tráfico de agentes durante un periodo de 45 días tras el lanzamiento de agentes de IA para consumidores como Instinct y Muse, de Meta. Aunque los agentes todavía representan una pequeña fracción de los compradores en línea, crecen con rapidez, sobre todo ante el constante goteo de lanzamientos de agentes para consumidores, dijo el CEO de Cheq, Guy Tytunovich."
+                "x": "McCash creó un modelo interno de atribución multitáctil para los más de $10 million anuales que Lendi invierte en medios pagados e incorporó a Mutinex para el MMM, que mostró que la TV abierta estaba infraponderada. Lendi también es cliente piloto de AI Visibility, la herramienta de Mutinex que lanza prompts masivos a LLMs y analiza cómo aparecen las marcas, y usa Tracksuit y Askable para seguimiento de marca y encuestas."
               },
               {
                 "t": "p",
-                "x": "Pero no todos están de acuerdo: Amazon y eBay han bloqueado a los agentes para reforzar el control sobre sus negocios publicitarios y sus experiencias de pago."
-              },
-              {
-                "t": "img",
-                "src": "https://img.semafor.com/fdb7cd1dc29e1e459c2473a8057fab2473196524-2100x1756.png?w=740&q=75&auto=format&h=618",
-                "cap": "Gráfico que muestra la probabilidad de que los adultos de EE. UU. usen IA para comprar."
-              },
-              {
-                "t": "p",
-                "x": "Los consumidores también dudan. Según Morning Consult, los compradores ya se dejan influir tanto por la recomendación de un agente como por la de un influencer, pero pocos se sienten cómodos dejando que la IA compre en su nombre. Esta temporada de fiestas será la primera prueba real de qué marcas saben presentar mejor sus productos de forma que a los agentes les resulten irresistibles."
+                "x": "Los anuncios dentro de chatbots como ChatGPT y Gemini aún no han contribuido mucho al ROI: los CPMs y las tasas de adquisición son demasiado altos. Lo que Lendi sí ve es un cliente más informado que llega más abajo en el embudo tras investigar con LLMs, así que por ahora su inversión en AI va a la medición y no a los anuncios en chatbots."
               }
             ]
           }
