@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "진료실 AI 에이전트, 누가 고삐를 쥐나",
+    "date": "2026.10.19",
+    "section": "MEDICINE",
+    "accent": "#00897b",
+    "note": "자율 임상 AI 규칙을 두고 로비 단체, AMA, 랜싯 저자, 환자 조사가 차례로 감독의 범위를 따져 묻는 흐름.",
+    "sources": [
+      "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
+      "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+      "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00146-9/fulltext",
+      "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.39048"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 의료 · 10.15~10.18",
+      "thread": [
+        {
+          "d": "10.15",
+          "t": "로비 각축",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.16",
+          "t": "AMA 틀",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.18",
+          "t": "업무 범위",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        },
+        {
+          "d": "10.18",
+          "t": "환자 선택",
+          "c": "#00897b",
+          "s": "MEDICINE"
+        }
+      ],
+      "thread_note": "규제가 빈 사이, 진료 AI의 감독 범위를 누가 정할지 다툰다",
+      "eyebrow": "흐름 · 의료",
+      "headline": "AI 에이전트의 고삐, 누가 쥐나",
+      "body": "한 건씩 보면 지침 하나, 논평 하나다. 이어 보면 로비 단체·AMA·학계·환자가 같은 감독 문제를 묻는다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.15",
+      "headline": "로비 단체가 먼저 판을 깔다",
+      "body": "AMA·Anthropic이 낀 FSMB 패널이 의사 감독이 적은 자율 임상 AI 지침을 쓰기 시작했다.",
+      "foot": "2026.10.15",
+      "_src": "https://www.statnews.com/2026/10/14/lobbyists-trade-groups-ama-push-autonomous-clinical-ai-regulations/",
+      "_id": "medicine-state-ai-lobbying",
+      "media": "src/alt-2-0.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "AMA, 에이전트 틀을 내다",
+      "body": "연방 AI 규제가 사실상 비어 있는 가운데 AMA가 의료 AI 에이전트 거버넌스 틀을 냈다.",
+      "foot": "2026.10.16",
+      "_src": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+      "_id": "medicine-ama-agentic",
+      "media": "src/alt-3-0.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "랜싯: 업무 범위에 가둬라",
+      "body": "랜싯 저자들은 임상의 앱을 다루는 AI 에이전트를 정해진 진료 업무 범위에 묶어야 한다고 본다.",
+      "foot": "2026.10.18",
+      "_src": "https://www.thelancet.com/journals/landig/article/PIIS2589-7500(26)00146-9/fulltext",
+      "_id": "medicine-agent-scope",
+      "media": "src/alt-2-0.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "환자는 속도와 검토를 잰다",
+      "body": "JAMA 조사는 미국 성인에게 빠른 AI 답과 사람 검토를 기다리는 것 중 무엇을 고를지 물었다.",
+      "foot": "2026.10.18",
+      "_src": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/10.1001/jamanetworkopen.2026.39048",
+      "_id": "medicine-ai-wait-human",
+      "media": "src/alt-3-0.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

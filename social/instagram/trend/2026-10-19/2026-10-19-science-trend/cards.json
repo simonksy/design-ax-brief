@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "단계마다 AI가 붙는 소재 개발",
+    "date": "2026.10.19",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "고철 배합, 구조 설계, 시험 자동화, 문헌 탐색까지 나흘 사이 소재 개발의 각 단계에 AI가 들어선 흐름.",
+    "sources": [
+      "https://phys.org/news/2026-10-ai-scrap-impurities-ingredients-stronger.html",
+      "https://techxplore.com/news/2026-10-electronic-ai-materials.html",
+      "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html",
+      "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 과학 · 10.16~10.19",
+      "thread": [
+        {
+          "d": "10.16",
+          "t": "고철 합금",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.17",
+          "t": "MatterGen",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.18",
+          "t": "금속 시험",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.19",
+          "t": "결정+논문",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "배합·설계·시험·문헌 탐색, 소재 개발 단계마다 AI가 들어선다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "AI가 소재 연구 전 과정에 들어왔다",
+      "body": "한 건씩 보면 각각의 연구다. 나흘을 꿰면 배합, 설계, 시험, 문헌까지 소재 개발 단계마다 AI가 붙었다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.16",
+      "headline": "고철 불순물을 합금 원소로",
+      "body": "출발점은 배합. Max Planck ML은 고철 불순물을 합금 원소로 써서 재생 철 비용을 약 8% 줄인다.",
+      "foot": "2026.10.16",
+      "_src": "https://phys.org/news/2026-10-ai-scrap-impurities-ingredients-stronger.html",
+      "_id": "science-scrap-iron",
+      "media": "pipeline/media/science-scrap-iron.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "전자 구조까지 그리는 MatterGen",
+      "body": "다음은 설계. 도쿄 연구진이 MatterGen을 확장해 결정 구조와 전자 구조를 함께 만들게 했다.",
+      "foot": "2026.10.17",
+      "_src": "https://techxplore.com/news/2026-10-electronic-ai-materials.html",
+      "_id": "science-materials",
+      "media": "pipeline/media/science-materials.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "AI가 가열로를 조정한다",
+      "body": "설계 뒤엔 검증. Tohoku University·NIMS가 AI가 가열로를 조정하는 벌크 금속 시험 라인을 만들었다.",
+      "foot": "2026.10.18",
+      "_src": "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html",
+      "_id": "science-bulk-metal-testing",
+      "media": "pipeline/media/science-bulk-metal-testing.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "결정 구조와 논문을 함께 읽다",
+      "body": "이제 문헌까지. MIT 모델이 3D 원자 구조와 논문 글을 엮어 용도에 맞는 결정 소재를 찾아낸다.",
+      "foot": "2026.10.19",
+      "_src": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "_id": "science-mit-crystal-text-model",
+      "media": "src/alt-5-0.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
