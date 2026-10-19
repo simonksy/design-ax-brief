@@ -1,106 +1,107 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "design",
+  "user_selection": null,
   "picks": [
     {
-      "url": "https://letsdatascience.com/news/kling-ai-opens-kling-40-to-all-users-d9dc6422",
-      "title": "Kling AI Opens Kling 4.0 to All Users",
-      "source": "Let's Data Science",
-      "category": "render",
-      "published_iso": "2026-10-16T08:13:15Z",
-      "og_image": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png",
-      "excerpt": "Kuaishou's Kling AI opened Kling 4.0 to all users on klingai.com, adding up to 30-second native clips, multi-reference controls, stereo audio with multilingual lip sync, and MCP and CLI workflow hooks; 4K and 10-bit HDR output are due soon.",
-      "source_lang": "en",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "Kling 4.0 is now open to everyone, with 30-second native clips, multi-reference control, lip-synced audio and MCP/CLI hooks. Motion designers can use it in their pipelines today."
-    },
-    {
-      "url": "https://www.voxelmatters.com/meshy-edit-for-part-level-changes-to-ai-generated-3d-models-launched/",
-      "title": "Meshy Edit, for part-level changes to AI-generated 3D models, launched",
-      "source": "VoxelMatters",
-      "category": "cad",
-      "published_iso": "2026-10-16T13:00:38Z",
-      "og_image": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg",
-      "excerpt": "Meshy Edit, built on a new in-house model, lets users lasso a region of a 3D model, describe a change in text (with up to five reference images) and send the result straight to a slicer, keeping the original intact.",
-      "source_lang": "en",
-      "tool": "Text-to-CAD",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "rationale": "Meshy Edit is a new release that lets you lasso part of a generated 3D model, change it with a text prompt and send it straight to a slicer. That fixes a common problem: having to regenerate the whole model to change one part."
-    },
-    {
-      "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838",
-      "title": "How to build a brand foundation with AI without losing your craft",
-      "source": "UX Collective",
+      "rank": 1,
+      "title": "How to shape your slides and videos with Gemini Notebook",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+      "source": "Google Blog",
       "category": "workflow",
-      "published_iso": "2026-10-18T19:06:49Z",
-      "og_image": "https://cdn-images-1.medium.com/max/2600/0*_5ttT6EZkGD9kUqe",
-      "excerpt": "A practical walkthrough of using Claude plus a handful of guardrails to build a brand foundation and design system that developers respect and clients can actually ship.",
-      "source_lang": "en",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "rationale": "A step-by-step guide to using Claude, with guardrails, to build a brand foundation and design system that can actually ship. Brand designers can reuse the process directly."
+      "published_iso": "2026-10-19T17:00:00+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+      "excerpt": "Gemini Notebook is giving users more creative control over generated Slide Decks and Video Overviews, letting them co-create and steer the visual output rather than accept a one-shot result.",
+      "rationale": "First-party feature release that lets designers steer generated decks and video overviews instead of taking a one-shot result, so it is directly actionable for presentation work."
     },
     {
-      "url": "https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i",
-      "title": "Enforcing Accessibility Gates in Component Libraries: plugin87/ux-ui-agent-skills Review",
+      "rank": 2,
+      "title": "Fal Debuts FLUX 3 Max Video Model Post-Trained With Black Forest Labs",
+      "url": "https://www.unite.ai/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs/",
+      "source": "Unite.AI",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "published_iso": "2026-10-19T16:14:13-04:00",
+      "og_image": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg",
+      "excerpt": "fal announced FLUX 3 Max on October 19, a video generation model post-trained by fal Research with Black Forest Labs on the FLUX 3 foundation model, available the same day via fal's API for image-to-video work.",
+      "rationale": "New image-to-video model on the FLUX 3 base, available via API the same day. This is a separate release from the FLUX 3 Image launch on 10-03."
+    },
+    {
+      "rank": 3,
+      "title": "New CG software you may have missed: 18 October 2026",
+      "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-18-october-2026/",
+      "source": "CG Channel",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "published_iso": "2026-10-19T04:30:00+00:00",
+      "og_image": null,
+      "excerpt": "Weekly roundup: NVIDIA's RTX video upscaling, frame generation and SDR-to-HDR now run locally as ComfyUI custom nodes (plus Krea 3, FLUX 3 Klein, Nano Banana 2.1 support); Maxon's Autograph adds an MCP server to drive it from Claude or ChatGPT, and Red Giant 2027 adds AI depth/normal-map relighting in After Effects.",
+      "rationale": "Concrete tool updates for motion and CG designers: an MCP server for Autograph, AI relighting in Red Giant 2027, and RTX nodes for ComfyUI. Copy should lead with these and leave out the Krea 3 and FLUX 3 Klein mentions, which were already published."
+    },
+    {
+      "rank": 4,
+      "title": "Introducing WunderUI - the agentic design system",
+      "url": "https://dev.to/wunderui/introducing-wunderui-the-agentic-design-system-1oag",
       "source": "DEV Community",
       "category": "tokens",
-      "published_iso": "2026-10-17T17:32:59Z",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills",
-      "excerpt": "Battle-testing an LLM agent skill set that blocks merges for real WCAG violations in a component library, instead of generating compliant-looking code that breaks screen readers.",
-      "source_lang": "en",
       "tool": "Design Tokens",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "A hands-on test of an agent skill set that blocks merges when a component library has real WCAG violations. Design-system teams get a concrete accessibility gate for AI-written code."
+      "published_iso": "2026-10-19T20:36:58+00:00",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8a4kv2sjwxm4r5it0tn3.png",
+      "excerpt": "Design systems were built for humans who read docs, but much UI is now written by AI coding agents; WunderUI is pitched as a design system structured for agents to consume directly.",
+      "rationale": "A new design system built for AI coding agents to read, which fills the tokens/design-system slot. It is a product launch, not the 10-08 study of whether design systems change what agents write."
     },
     {
-      "url": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee",
-      "title": "Design in the material you ship",
-      "source": "UX Collective",
-      "category": "figma",
-      "published_iso": "2026-10-18T12:11:43Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*lWh48fMxFr6rcnextAR_dQ.png",
-      "excerpt": "Designers should understand code the way an architect understands stone: what it can do, not how to cut it. AI now does the cutting, so the same card can be designed in the browser with real data rather than in a static file.",
-      "source_lang": "en",
-      "tool": "Figma",
-      "accent": "#0070f3",
+      "rank": 5,
+      "title": "AI-Edited Photos Can Lead People to Form False Memories",
+      "url": "https://petapixel.com/2026/10/19/ai-edited-photos-can-lead-people-to-form-fake-memories/",
+      "source": "PetaPixel",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#3b6bff",
       "motif": "frame",
-      "rationale": "Argues that AI now does the coding, so designers should design in the browser with real data instead of static files. It shows a concrete shift in where design work happens."
+      "published_iso": "2026-10-19T12:41:31+00:00",
+      "og_image": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories.jpg",
+      "excerpt": "New research finds AI-edited photographs and videos create false memories and make people more confident in the wrong version of events, a warning for image-makers using generative edits.",
+      "rationale": "New research with an ethics angle for anyone shipping generative image edits. It comes from a fifth outlet and is not covered in history."
     }
   ],
   "dedup": {
     "checks": {
-      "https://letsdatascience.com/news/kling-ai-opens-kling-40-to-all-users-d9dc6422": {
+      "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/": {
         "verdict": "new",
-        "nearest": "https://www.mindstudio.ai/blog/iris-3b-pixel-space-image-model/",
+        "nearest": "https://lovable.dev/blog/ai-models-and-tools-in-lovable",
         "new_action": ""
       },
-      "https://www.voxelmatters.com/meshy-edit-for-part-level-changes-to-ai-generated-3d-models-launched/": {
+      "https://www.unite.ai/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs/": {
         "verdict": "new",
         "nearest": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
         "new_action": ""
       },
-      "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838": {
+      "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-18-october-2026/": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/how-to-de-slopify-your-designs-4c40c57c1dc9",
+        "nearest": "https://www.krea.ai/blog/introducing-krea-3",
         "new_action": ""
       },
-      "https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i": {
+      "https://dev.to/wunderui/introducing-wunderui-the-agentic-design-system-1oag": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/secret-agent-bot-accessibility-matters-for-the-agents-even-if-you-cant-see-them-2f53a5670ec9",
+        "nearest": "https://dev.to/jablonowski/does-a-design-system-change-what-a-coding-agent-writes-280d",
         "new_action": ""
       },
-      "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee": {
+      "https://petapixel.com/2026/10/19/ai-edited-photos-can-lead-people-to-form-fake-memories/": {
         "verdict": "new",
-        "nearest": "https://www.figma.com/blog/design-together-with-code-layers/",
+        "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped: AEC Magazine 'Autodesk's most ambitious AI play yet' (analysis of the running Autodesk AI story, nearest engineering.com 'Autodesk's AI push is actually a pull' 09-23; no new release reported). Creative Bloq RTX Spark laptop review (a follow-up review of the RTX Spark launch published 10-14 via blogs.nvidia.com). Engadget Image Playground and SynthID how-tos (evergreen explainers). Creative Bloq Brain Rot copyright piece and Olivia Rodrigo AI-allegation story (commentary and gossip, not actionable). RoboParty RP1 humanoid (robotics, off-topic for design). Not picked but fresh: CADlingo 2.0 (second CAD release from the same outlet as Meshy; Meshy is more actionable), agency-agents Tailwind review (same DEV author as the a11y pick), Solid Glass shadcn theme (DEV outlet cap). Meshy Edit is distinct from Flux 3 (a different product and medium; the match is only on the 'local edit' wording). The a11y gates review is distinct from the 10-13 'Secret agent bot' essay (merge-blocking WCAG tooling vs. accessibility for agents). Diversity: 4 outlets, max 2 from UX Collective; 5 distinct categories."
+    "note": "Pool 19, no clusters. Dropped as follow-ups on published stories: the NVIDIA agentic-security/Frame.io post (repeats the 10-18 Adobe+NVIDIA collaboration) and the UX Collective 'Beyond the Canvas' Config India recap (Figma Build by Design, 10-18). Not picked because of the diversity cap or low score: VAST EdenLive (would be a third render card; game-render focus), the OpenAI 'Aurora' Arena sighting (unconfirmed rumor), and the Claude->Figma->React DEV tutorial (repeats earlier Claude-to-Figma tutorials from 10-07 and 10-13). Also not picked: Creative Bloq commentary pieces (Kiwibank mascot, Brain Rot copyright, Olivia Rodrigo video), UX Collective essays (attention, AI sets us free), the AWN curriculum essay, the Renova build log, the Thomson Reuters appeal (legal story, better suited to politics) and the Vergecast episode. Final 5: five distinct outlets; categories workflow x2, render x2, tokens x1; the second card in each shared category got a palette accent."
   }
 }

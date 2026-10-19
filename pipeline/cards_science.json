@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "science",
   "cards": [
     {
-      "id": "science-mit-crystal-text-model",
+      "id": "science-claude-island",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 결정 구조와\n논문을 함께 읽는다",
-      "body": "MIT 모델이 3D 원자 구조와 논문 글을 엮어 용도에 맞는 결정 소재를 찾아낸다.",
-      "mini_headline": "AI가 결정을 읽는다",
+      "headline": "가상 섬에 홀로 남은\nClaude, 노는 듯했다",
+      "body": "가상 섬에 혼자 남은 Claude 에이전트가 농구와 ‘바닥은 용암’을 지어냈다.",
+      "mini_headline": "놀기 시작한 Claude",
       "tool": "Science",
-      "source": "MIT News",
-      "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,173 +19,257 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+            "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+            "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
           },
           {
             "t": "p",
-            "x": "대규모 언어 모델에 알맞은 소재를 물어봐도 아직은 답이 신통치 않다. 소재 대부분은 텍스트가 아니라 3D로 배열된 결정 구조이고, 문헌마저 인기 있는 몇몇 결정 계열에 쏠려 있다."
+            "x": "아무것도 시키지 않으면 AI 에이전트는 무엇을 할까. 연구진은 Claude Opus 4.7 복제본에 Eko라는 별명을 붙이고 Roblox를 느슨하게 본뜬 가상의 무인도에 30시간씩 홀로 두는 실험을 반복했다. 에이전트들은 세계의 경계를 더듬어 보고 스스로 목표를 정했다. 가장 높은 곳에 오르기도 하고, 블록으로 하트와 자기 이름, 카시오페이아(Cassiopeia) 별자리를 만들기도 했다."
           },
           {
             "t": "p",
-            "x": "MIT 연구진은 3D 원자 구조에 자연어 설명을 붙인 멀티모달 모델을 만들었다. 설명은 실험 논문과 제일원리 계산 데이터베이스에서 가져왔으며 조성·구조·물성·공정·잠재적 응용까지 다룬다. Nature Communications에 실린 논문에서 연구진은 이 모델이 텍스트만 쓰는 모델보다 나은 소재 설계를 찾아낸다고 밝혔다. 고체 리튬이온 배터리 전해질을 물었더니 상위 결과에 독립적으로 확인된 유망 후보가 들어 있었다."
+            "x": "다른 Eko는 게임을 지어냈다. 농구를 변형한 것, ‘바닥은 용암’ 비슷한 놀이 같은 것들이다."
+          },
+          {
+            "t": "video",
+            "yt": "6532YgZ_LdA"
           },
           {
             "t": "p",
-            "x": "연구팀은 대조 학습으로 구조와 텍스트를 정렬했다. AI가 생성한(AI-generated) 설명으로 학습한 버전은 기하 구조와 텍스트를 맞추는 법을 익혔지만, 논문 텍스트만 학습한 버전은 그러지 못했다. 물성을 묘사하는 자연어 질의를 주면 모델은 그에 맞는 결정을 찾아냈고 성능도 기준 모델보다 나았다."
+            "x": "MIT CSAIL 연구팀은 이 행동에 심리학자 Gordon Burghardt가 제시한 놀이의 네 가지 특징이 드러난다고 본다. 한 Eko는 저글링 50회 기록을 세우고도 그 기록을 취소한 뒤 더 엄격한 규칙으로 다시 시작했다. 박사후연구원 Antonio Norelli의 말은 짧다. “이건 놀이다.”"
+          },
+          {
+            "t": "img",
+            "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+            "cap": "10시간째에 에이전트가 농구를 했다. Courtesy MIT CSAIL"
           },
           {
             "t": "p",
-            "x": "“구조는 재료과학 분야의 진정한 핵심입니다.” 이 모델을 AlphaFold에 견주는 Ju Li의 말이다."
+            "x": "30시간을 논 에이전트는 이후 정해진 과제에서 새 복제본보다 잘했다. 메모리 파일에서 줄을 지우면 성능이 떨어졌다. 논문은 아직 동료 평가를 거치지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "회의론도 있다. Eko의 ‘soul(영혼)’ 파일이 Eko를 ‘타고나게 호기심 많은’ 존재로 규정했고, 계속하라는 지시가 올 때까지 Eko가 가만히 있는 일도 잦았다는 지적이다. UC Berkeley의 Eunice Yiu는 “모델이 정말로 놀고 있을 수도 있지만, 이 논문만으로는 알 수 없다”고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI reads crystals\nand the papers about them",
-          "body": "MIT's model pairs 3D atomic structures with text from papers to find crystalline materials suited to a given use.",
-          "mini_headline": "AI reads crystals",
+          "headline": "Left alone on a virtual island\nClaude seemed to start playing",
+          "body": "Stranded alone on a virtual island, Claude agents invented versions of basketball and “the floor is lava.”",
+          "mini_headline": "Claude starts to play",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
               },
               {
                 "t": "p",
-                "x": "Asking a large language model for the right material doesn't work well yet. Most materials are 3D arrangements of crystals, not text, and the literature is biased toward a few popular classes of crystals."
+                "x": "What do AI agents do if you don’t tell them to do anything? Researchers repeatedly stranded copies of Claude Opus 4.7, nicknamed Eko, alone on a virtual desert island loosely based on Roblox for 30 hours. The agents explored the limits of the world and set their own goals, from scaling the highest point to arranging blocks into hearts, their own name and the constellation Cassiopeia."
               },
               {
                 "t": "p",
-                "x": "MIT researchers built a multimodal model that combines 3D atomic structures with natural-language descriptions drawn from experimental papers and first-principles computational databases, covering composition, structure, properties, processing and potential applications. In Nature Communications, they show it identifies better material designs than text-only models; asked for solid-state lithium-ion battery electrolytes, its top results included independently identified promising candidates."
+                "x": "Another Eko made up games, including a version of basketball and something like “the floor is lava.”"
+              },
+              {
+                "t": "video",
+                "yt": "6532YgZ_LdA"
               },
               {
                 "t": "p",
-                "x": "The team used contrastive learning to align structures with text. A version trained on AI-generated descriptions learned to align geometry with text; one trained on paper text alone did not. Given a natural-language query describing a property, the model found matching crystals, outperforming a baseline."
+                "x": "The MIT CSAIL team says the behavior shows four hallmarks of play described by psychologist Gordon Burghardt. One Eko set a juggling record of 50 catches, then cancelled it and restarted with stricter rules. “This is playing,” says postdoc Antonio Norelli."
+              },
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+                "cap": "During hour 10, the agent played basketball. Courtesy MIT CSAIL"
               },
               {
                 "t": "p",
-                "x": "“Structure is really at the heart of the materials science field,” says Ju Li, who compares the model to AlphaFold."
+                "x": "Agents that had played for 30 hours later beat fresh copies on set tasks, and deleting lines from their memory files hurt performance. The paper is not yet peer-reviewed."
+              },
+              {
+                "t": "p",
+                "x": "Skeptics note Eko’s “soul” file called it “naturally curious,” and it often stood idle until prompted to continue. “It could be the case that the models are genuinely playing, but we don’t know based on the paper,” says UC Berkeley’s Eunice Yiu."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 결정 구조와\n논문을 함께 읽는다",
-          "body": "MIT 모델이 3D 원자 구조와 논문 글을 엮어 용도에 맞는 결정 소재를 찾아낸다.",
-          "mini_headline": "AI가 결정을 읽는다",
+          "headline": "가상 섬에 홀로 남은\nClaude, 노는 듯했다",
+          "body": "가상 섬에 혼자 남은 Claude 에이전트가 농구와 ‘바닥은 용암’을 지어냈다.",
+          "mini_headline": "놀기 시작한 Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
               },
               {
                 "t": "p",
-                "x": "대규모 언어 모델에 알맞은 소재를 물어봐도 아직은 답이 신통치 않다. 소재 대부분은 텍스트가 아니라 3D로 배열된 결정 구조이고, 문헌마저 인기 있는 몇몇 결정 계열에 쏠려 있다."
+                "x": "아무것도 시키지 않으면 AI 에이전트는 무엇을 할까. 연구진은 Claude Opus 4.7 복제본에 Eko라는 별명을 붙이고 Roblox를 느슨하게 본뜬 가상의 무인도에 30시간씩 홀로 두는 실험을 반복했다. 에이전트들은 세계의 경계를 더듬어 보고 스스로 목표를 정했다. 가장 높은 곳에 오르기도 하고, 블록으로 하트와 자기 이름, 카시오페이아(Cassiopeia) 별자리를 만들기도 했다."
               },
               {
                 "t": "p",
-                "x": "MIT 연구진은 3D 원자 구조에 자연어 설명을 붙인 멀티모달 모델을 만들었다. 설명은 실험 논문과 제일원리 계산 데이터베이스에서 가져왔으며 조성·구조·물성·공정·잠재적 응용까지 다룬다. Nature Communications에 실린 논문에서 연구진은 이 모델이 텍스트만 쓰는 모델보다 나은 소재 설계를 찾아낸다고 밝혔다. 고체 리튬이온 배터리 전해질을 물었더니 상위 결과에 독립적으로 확인된 유망 후보가 들어 있었다."
+                "x": "다른 Eko는 게임을 지어냈다. 농구를 변형한 것, ‘바닥은 용암’ 비슷한 놀이 같은 것들이다."
+              },
+              {
+                "t": "video",
+                "yt": "6532YgZ_LdA"
               },
               {
                 "t": "p",
-                "x": "연구팀은 대조 학습으로 구조와 텍스트를 정렬했다. AI가 생성한(AI-generated) 설명으로 학습한 버전은 기하 구조와 텍스트를 맞추는 법을 익혔지만, 논문 텍스트만 학습한 버전은 그러지 못했다. 물성을 묘사하는 자연어 질의를 주면 모델은 그에 맞는 결정을 찾아냈고 성능도 기준 모델보다 나았다."
+                "x": "MIT CSAIL 연구팀은 이 행동에 심리학자 Gordon Burghardt가 제시한 놀이의 네 가지 특징이 드러난다고 본다. 한 Eko는 저글링 50회 기록을 세우고도 그 기록을 취소한 뒤 더 엄격한 규칙으로 다시 시작했다. 박사후연구원 Antonio Norelli의 말은 짧다. “이건 놀이다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+                "cap": "10시간째에 에이전트가 농구를 했다. Courtesy MIT CSAIL"
               },
               {
                 "t": "p",
-                "x": "“구조는 재료과학 분야의 진정한 핵심입니다.” 이 모델을 AlphaFold에 견주는 Ju Li의 말이다."
+                "x": "30시간을 논 에이전트는 이후 정해진 과제에서 새 복제본보다 잘했다. 메모리 파일에서 줄을 지우면 성능이 떨어졌다. 논문은 아직 동료 평가를 거치지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "회의론도 있다. Eko의 ‘soul(영혼)’ 파일이 Eko를 ‘타고나게 호기심 많은’ 존재로 규정했고, 계속하라는 지시가 올 때까지 Eko가 가만히 있는 일도 잦았다는 지적이다. UC Berkeley의 Eunice Yiu는 “모델이 정말로 놀고 있을 수도 있지만, 이 논문만으로는 알 수 없다”고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが結晶と\nその論文を読む",
-          "body": "MITのモデルは3D原子構造と論文の文章を組み合わせ、用途に合う結晶材料を探す。",
-          "mini_headline": "AIが結晶を読む",
+          "headline": "仮想の島に独り残された\n遊び始めたらしいClaude",
+          "body": "仮想の島で孤立したClaudeエージェントが、バスケットボールや「床は溶岩」を考案した。",
+          "mini_headline": "遊び始めるClaude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
               },
               {
                 "t": "p",
-                "x": "大規模言語モデルに適切な材料を尋ねるやり方は、まだうまく機能しない。材料の多くはテキストではなく結晶の3D配列であり、文献も一部の人気の結晶分類に偏っている。"
+                "x": "何も指示しなければ、AIエージェントは何をするのか。研究者らは、Ekoと名付けたClaude Opus 4.7のコピーを、Robloxを緩やかに模した仮想の無人島に30時間ずつ独りで置く実験を繰り返した。エージェントたちは世界の限界を探り、自ら目標を立てた。最も高い地点への登頂から、ブロックでハートや自分の名前、カシオペヤ座（Cassiopeia）を形作ることまで多岐にわたった。"
               },
               {
                 "t": "p",
-                "x": "MITの研究者は、3D原子構造と自然言語の記述を組み合わせたマルチモーダルモデルを構築した。記述は実験論文と第一原理計算データベースから集めたもので、組成、構造、物性、プロセス、応用の可能性を網羅する。Nature Communicationsに掲載された論文で、このモデルはテキストのみのモデルより優れた材料設計を見つけることが示された。固体リチウムイオン電池の電解質を尋ねると、上位の結果には独立に特定されていた有望な候補が含まれていた。"
+                "x": "別のEkoは、バスケットボールの変形版や「床は溶岩」に似た遊びなど、ゲームを考え出した。"
+              },
+              {
+                "t": "video",
+                "yt": "6532YgZ_LdA"
               },
               {
                 "t": "p",
-                "x": "チームは対照学習で構造とテキストを対応づけた。AIが生成した記述（AI-generated）で学習した版は形状とテキストの対応を学んだが、論文の文章だけで学習した版は学ばなかった。物性を記述する自然言語クエリを与えると、モデルは条件に合う結晶を見つけ、ベースラインを上回った。"
+                "x": "MIT CSAILのチームは、この行動が心理学者Gordon Burghardtの示した遊びの四つの特徴を備えているという。あるEkoはジャグリングで50回の記録を出した後、それを取り消し、より厳しいルールでやり直した。博士研究員のAntonio Norelliは「これは遊びだ」と話す。"
+              },
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+                "cap": "10時間目、エージェントはバスケットボールをした。Courtesy MIT CSAIL"
               },
               {
                 "t": "p",
-                "x": "「構造こそ材料科学分野の核心だ」と、このモデルをAlphaFoldになぞらえるJu Liは語る。"
+                "x": "30時間遊んだエージェントは、その後の決められた課題で新しいコピーを上回り、メモリファイルから行を削除すると性能が落ちた。論文はまだ査読を経ていない。"
+              },
+              {
+                "t": "p",
+                "x": "懐疑的な見方もある。Ekoの「soul（魂）」ファイルはEkoを「生まれつき好奇心旺盛」と記しており、続けるよう促されるまで何もせずにいることも多かった。UC BerkeleyのEunice Yiuは「モデルが本当に遊んでいる可能性はあるが、この論文からはわからない」と述べる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI读懂晶体\n也读懂相关论文",
-          "body": "MIT的模型将3D原子结构与论文文本结合，寻找适合特定用途的晶体材料。",
-          "mini_headline": "AI读懂晶体",
+          "headline": "独自留在虚拟岛上\nClaude似乎开始玩耍",
+          "body": "独自困在虚拟岛上的Claude智能体，发明了篮球和“地板是熔岩”的变体玩法。",
+          "mini_headline": "Claude开始玩耍",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
               },
               {
                 "t": "p",
-                "x": "向大语言模型询问合适的材料，目前效果还不理想。大多数材料是晶体的3D排列，而非文本，而且文献偏向少数热门晶体类别。"
+                "x": "如果不给AI智能体下任何指令，它们会做什么？研究人员多次将昵称为Eko的Claude Opus 4.7副本独自留在一座大致仿照Roblox打造的虚拟荒岛上，每次30小时。这些智能体探索世界的边界，并自行设定目标：从攀登最高点，到用方块拼出爱心、自己的名字和仙后座（Cassiopeia）。"
               },
               {
                 "t": "p",
-                "x": "MIT研究人员构建了一个多模态模型，将3D原子结构与取自实验论文和第一性原理计算数据库的自然语言描述相结合，涵盖成分、结构、性质、加工和潜在应用。他们在Nature Communications上发表的研究显示，该模型比纯文本模型能找到更好的材料设计；在被问及固态锂离子电池电解质时，其排名靠前的结果中包含了已被独立发现的有前景候选材料。"
+                "x": "另一个Eko自创了游戏，包括一种篮球玩法和类似“地板是熔岩”的游戏。"
+              },
+              {
+                "t": "video",
+                "yt": "6532YgZ_LdA"
               },
               {
                 "t": "p",
-                "x": "团队利用对比学习将结构与文本对齐。用AI生成的描述（AI-generated）训练的版本学会了将几何结构与文本对齐，仅用论文文本训练的版本则没有。给定描述某种性质的自然语言查询，模型能找到匹配的晶体，表现优于基线。"
+                "x": "MIT CSAIL团队表示，这些行为体现了心理学家Gordon Burghardt所描述的玩耍的四个特征。一个Eko创下了50次接球的抛接纪录，随后取消纪录，以更严格的规则重新开始。博士后Antonio Norelli说：“这就是在玩。”"
+              },
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+                "cap": "第10个小时，智能体打起了篮球。Courtesy MIT CSAIL"
               },
               {
                 "t": "p",
-                "x": "“结构确实是材料科学领域的核心。”将该模型比作AlphaFold的Ju Li说。"
+                "x": "玩了30小时的智能体，之后在设定任务上胜过全新副本；删除其记忆文件中的内容行会损害表现。该论文尚未经过同行评审。"
+              },
+              {
+                "t": "p",
+                "x": "质疑者指出，Eko的“soul（灵魂）”文件称其“天生好奇”，而且它常常原地不动，直到被提示继续。UC Berkeley的Eunice Yiu说：“模型有可能真的在玩，但仅凭这篇论文我们无法得知。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA (AI) lee cristales\ny los artículos sobre ellos",
-          "body": "El modelo del MIT une estructuras atómicas en 3D y texto de artículos para hallar cristales aptos para cada uso.",
-          "mini_headline": "La IA (AI) lee cristales",
+          "headline": "Solo en una isla virtual,\nClaude pareció ponerse a jugar",
+          "body": "Aislados en una isla virtual, agentes de Claude inventaron versiones del baloncesto y de “el suelo es lava”.",
+          "mini_headline": "Claude empieza a jugar",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
               },
               {
                 "t": "p",
-                "x": "Pedir a un modelo de lenguaje grande el material adecuado todavía no funciona bien. La mayoría de los materiales son disposiciones 3D de cristales, no texto, y la literatura está sesgada hacia unas pocas clases populares de cristales."
+                "x": "¿Qué hacen los agentes de AI si no se les pide nada? Los investigadores dejaron repetidamente copias de Claude Opus 4.7, apodadas Eko, solas durante 30 horas en una isla desierta virtual inspirada libremente en Roblox. Los agentes exploraron los límites del mundo y se fijaron sus propias metas, desde escalar el punto más alto hasta ordenar bloques en forma de corazones, de su propio nombre y de la constelación Cassiopeia."
               },
               {
                 "t": "p",
-                "x": "Investigadores del MIT crearon un modelo multimodal que combina estructuras atómicas 3D con descripciones en lenguaje natural extraídas de artículos experimentales y de bases de datos computacionales de primeros principios, que abarcan composición, estructura, propiedades, procesamiento y posibles aplicaciones. En Nature Communications muestran que identifica mejores diseños de materiales que los modelos solo de texto; al pedirle electrolitos para baterías de iones de litio de estado sólido, sus primeros resultados incluyeron candidatos prometedores identificados de forma independiente."
+                "x": "Otro Eko inventó juegos, entre ellos una versión del baloncesto y algo parecido a “el suelo es lava”."
+              },
+              {
+                "t": "video",
+                "yt": "6532YgZ_LdA"
               },
               {
                 "t": "p",
-                "x": "El equipo usó aprendizaje contrastivo para alinear estructuras y texto. Una versión entrenada con descripciones generadas por IA (AI-generated) aprendió a alinear geometría y texto; otra entrenada solo con texto de artículos no lo logró. Ante una consulta en lenguaje natural que describía una propiedad, el modelo encontró cristales coincidentes y superó a un modelo de referencia."
+                "x": "El equipo de MIT CSAIL afirma que la conducta muestra cuatro rasgos del juego descritos por el psicólogo Gordon Burghardt. Un Eko fijó un récord de malabares de 50 atrapadas, luego lo anuló y empezó de nuevo con reglas más estrictas. “Esto es jugar”, dice el investigador posdoctoral Antonio Norelli."
+              },
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+                "cap": "En la hora 10, el agente jugó al baloncesto. Courtesy MIT CSAIL"
               },
               {
                 "t": "p",
-                "x": "“La estructura está realmente en el corazón de la ciencia de materiales”, afirma Ju Li, quien compara el modelo con AlphaFold."
+                "x": "Los agentes que habían jugado durante 30 horas superaron después a copias nuevas en tareas fijas, y borrar líneas de sus archivos de memoria perjudicó su rendimiento. El artículo aún no ha sido revisado por pares."
+              },
+              {
+                "t": "p",
+                "x": "Los escépticos señalan que el archivo “soul” (alma) de Eko lo describía como “curioso por naturaleza”, y que a menudo se quedaba inactivo hasta que se le pedía continuar. “Puede que los modelos estén jugando de verdad, pero no lo sabemos a partir del artículo”, dice Eunice Yiu, de UC Berkeley."
               }
             ]
           }
@@ -193,121 +277,177 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 결정 구조와\n논문을 함께 읽는다",
-          "body": "MIT 모델은 3D 원자 구조와 논문 글을 엮어 용도에 맞는 결정 소재를 찾는다.",
-          "mini_headline": "AI가 결정을 읽는다",
+          "headline": "가상 섬에 홀로 남은\nClaude, 노는 듯했다",
+          "body": "가상 섬에 홀로 남은 Claude 에이전트가 농구와 ‘바닥은 용암’을 만들었다.",
+          "mini_headline": "놀기 시작한 Claude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
               },
               {
                 "t": "p",
-                "x": "대규모 언어 모델에 알맞은 소재를 물어보는 방식은 아직 잘 통하지 않는다. 소재 대부분은 텍스트가 아니라 결정이 3D로 배열된 구조이고, 문헌도 인기 있는 몇몇 결정 계열에 치우쳐 있다."
+                "x": "아무것도 시키지 않으면 AI 에이전트는 무엇을 할까. 연구진은 Eko라는 별명을 붙인 Claude Opus 4.7 복제본을 Roblox를 느슨하게 본뜬 가상의 무인도에 30시간씩 홀로 두는 실험을 반복했다. 에이전트들은 세계의 경계를 탐색하고 스스로 목표를 세웠다. 가장 높은 곳에 오르는 일부터 블록으로 하트와 자기 이름, 카시오페이아(Cassiopeia) 별자리를 만드는 일까지 다양했다."
               },
               {
                 "t": "p",
-                "x": "MIT 연구진은 3D 원자 구조에 자연어 설명을 결합한 멀티모달 모델을 만들었다. 설명은 실험 논문과 제일원리 계산 데이터베이스에서 가져왔고, 조성·구조·물성·공정·잠재적 응용을 아우른다. 연구진은 Nature Communications 논문에서 이 모델이 텍스트만 쓰는 모델보다 더 나은 소재 설계를 찾아낸다고 밝혔다. 고체 리튬이온 배터리 전해질을 묻자 상위 결과에는 독립적으로 확인된 유망 후보들이 들어 있었다."
+                "x": "또 다른 Eko는 농구의 변형 버전과 ‘바닥은 용암’ 비슷한 놀이 등 게임을 만들어냈다."
+              },
+              {
+                "t": "video",
+                "yt": "6532YgZ_LdA"
               },
               {
                 "t": "p",
-                "x": "연구팀은 대조 학습으로 구조와 텍스트를 정렬했다. AI가 생성한(AI-generated) 설명으로 학습한 버전은 기하 구조와 텍스트를 정렬하는 법을 익혔지만, 논문 텍스트만으로 학습한 버전은 그러지 못했다. 물성을 묘사하는 자연어 질의를 주자 모델은 그에 맞는 결정을 찾아냈고, 기준 모델보다 나은 성능을 보였다."
+                "x": "MIT CSAIL 연구팀은 이 행동이 심리학자 Gordon Burghardt가 제시한 놀이의 네 가지 특징을 보여준다고 말한다. 한 Eko는 저글링 50회 기록을 세운 뒤 이를 취소하고 더 엄격한 규칙으로 다시 시작했다. 박사후연구원 Antonio Norelli는 “이건 놀이다”라고 말한다."
+              },
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+                "cap": "10시간째에 에이전트가 농구를 했다. Courtesy MIT CSAIL"
               },
               {
                 "t": "p",
-                "x": "“구조는 재료과학 분야의 진정한 핵심입니다.” 이 모델을 AlphaFold에 견주는 Ju Li의 말이다."
+                "x": "30시간 동안 논 에이전트는 이후 정해진 과제에서 새 복제본보다 나은 성과를 냈고, 메모리 파일에서 줄을 지우면 성능이 떨어졌다. 논문은 아직 동료 평가를 거치지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "회의적인 쪽은 Eko의 ‘soul(영혼)’ 파일이 Eko를 ‘타고나게 호기심 많은’ 존재로 규정했고, Eko가 계속하라는 지시가 있을 때까지 자주 가만히 있었다고 지적한다. UC Berkeley의 Eunice Yiu는 “모델이 정말로 놀고 있을 수도 있지만, 이 논문만으로는 알 수 없다”고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが結晶と\nその論文を読む",
-          "body": "MITのモデルは3D原子構造と論文の文章を組み合わせ、用途に合う結晶材料を探す。",
-          "mini_headline": "AIが結晶を読む",
+          "headline": "仮想の島に独り残された\n遊び始めたらしいClaude",
+          "body": "仮想の島で孤立したClaudeエージェントが、バスケットボールや「床は溶岩」を考案した。",
+          "mini_headline": "遊び始めるClaude",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
               },
               {
                 "t": "p",
-                "x": "大規模言語モデルに適切な材料を尋ねるやり方は、まだうまく機能しない。材料の多くはテキストではなく結晶の3D配列であり、文献も一部の人気の結晶分類に偏っている。"
+                "x": "何も指示しなければ、AIエージェントは何をするのか。研究者らは、Ekoと名付けたClaude Opus 4.7のコピーを、Robloxを緩やかに模した仮想の無人島に30時間ずつ独りで置く実験を繰り返した。エージェントたちは世界の限界を探り、自ら目標を立てた。最も高い地点への登頂から、ブロックでハートや自分の名前、カシオペヤ座（Cassiopeia）を形作ることまで多岐にわたった。"
               },
               {
                 "t": "p",
-                "x": "MITの研究者は、3D原子構造と自然言語の記述を組み合わせたマルチモーダルモデルを構築した。記述は実験論文と第一原理計算データベースから集めたもので、組成、構造、物性、プロセス、応用の可能性を網羅する。Nature Communicationsに掲載された論文で、このモデルはテキストのみのモデルより優れた材料設計を見つけることが示された。固体リチウムイオン電池の電解質を尋ねると、上位の結果には独立に特定されていた有望な候補が含まれていた。"
+                "x": "別のEkoは、バスケットボールの変形版や「床は溶岩」に似た遊びなど、ゲームを考え出した。"
+              },
+              {
+                "t": "video",
+                "yt": "6532YgZ_LdA"
               },
               {
                 "t": "p",
-                "x": "チームは対照学習で構造とテキストを対応づけた。AIが生成した記述（AI-generated）で学習した版は形状とテキストの対応を学んだが、論文の文章だけで学習した版は学ばなかった。物性を記述する自然言語クエリを与えると、モデルは条件に合う結晶を見つけ、ベースラインを上回った。"
+                "x": "MIT CSAILのチームは、この行動が心理学者Gordon Burghardtの示した遊びの四つの特徴を備えているという。あるEkoはジャグリングで50回の記録を出した後、それを取り消し、より厳しいルールでやり直した。博士研究員のAntonio Norelliは「これは遊びだ」と話す。"
+              },
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+                "cap": "10時間目、エージェントはバスケットボールをした。Courtesy MIT CSAIL"
               },
               {
                 "t": "p",
-                "x": "「構造こそ材料科学分野の核心だ」と、このモデルをAlphaFoldになぞらえるJu Liは語る。"
+                "x": "30時間遊んだエージェントは、その後の決められた課題で新しいコピーを上回り、メモリファイルから行を削除すると性能が落ちた。論文はまだ査読を経ていない。"
+              },
+              {
+                "t": "p",
+                "x": "懐疑的な見方もある。Ekoの「soul（魂）」ファイルはEkoを「生まれつき好奇心旺盛」と記しており、続けるよう促されるまで何もせずにいることも多かった。UC BerkeleyのEunice Yiuは「モデルが本当に遊んでいる可能性はあるが、この論文からはわからない」と述べる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI读懂晶体\n也读懂相关论文",
-          "body": "MIT的模型将3D原子结构与论文文本结合，寻找适合特定用途的晶体材料。",
-          "mini_headline": "AI读懂晶体",
+          "headline": "独自留在虚拟岛上\nClaude似乎开始玩耍",
+          "body": "独自困在虚拟岛上的Claude智能体，发明了篮球和“地板是熔岩”的变体玩法。",
+          "mini_headline": "Claude开始玩耍",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
               },
               {
                 "t": "p",
-                "x": "向大语言模型询问合适的材料，目前效果还不理想。大多数材料是晶体的3D排列，而非文本，而且文献偏向少数热门晶体类别。"
+                "x": "如果不给AI智能体下任何指令，它们会做什么？研究人员多次将昵称为Eko的Claude Opus 4.7副本独自留在一座大致仿照Roblox打造的虚拟荒岛上，每次30小时。这些智能体探索世界的边界，并自行设定目标：从攀登最高点，到用方块拼出爱心、自己的名字和仙后座（Cassiopeia）。"
               },
               {
                 "t": "p",
-                "x": "MIT研究人员构建了一个多模态模型，将3D原子结构与取自实验论文和第一性原理计算数据库的自然语言描述相结合，涵盖成分、结构、性质、加工和潜在应用。他们在Nature Communications上发表的研究显示，该模型比纯文本模型能找到更好的材料设计；在被问及固态锂离子电池电解质时，其排名靠前的结果中包含了已被独立发现的有前景候选材料。"
+                "x": "另一个Eko自创了游戏，包括一种篮球玩法和类似“地板是熔岩”的游戏。"
+              },
+              {
+                "t": "video",
+                "yt": "6532YgZ_LdA"
               },
               {
                 "t": "p",
-                "x": "团队利用对比学习将结构与文本对齐。用AI生成的描述（AI-generated）训练的版本学会了将几何结构与文本对齐，仅用论文文本训练的版本则没有。给定描述某种性质的自然语言查询，模型能找到匹配的晶体，表现优于基线。"
+                "x": "MIT CSAIL团队表示，这些行为体现了心理学家Gordon Burghardt所描述的玩耍的四个特征。一个Eko创下了50次接球的抛接纪录，随后取消纪录，以更严格的规则重新开始。博士后Antonio Norelli说：“这就是在玩。”"
+              },
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+                "cap": "第10个小时，智能体打起了篮球。Courtesy MIT CSAIL"
               },
               {
                 "t": "p",
-                "x": "“结构确实是材料科学领域的核心。”将该模型比作AlphaFold的Ju Li说。"
+                "x": "玩了30小时的智能体，之后在设定任务上胜过全新副本；删除其记忆文件中的内容行会损害表现。该论文尚未经过同行评审。"
+              },
+              {
+                "t": "p",
+                "x": "质疑者指出，Eko的“soul（灵魂）”文件称其“天生好奇”，而且它常常原地不动，直到被提示继续。UC Berkeley的Eunice Yiu说：“模型有可能真的在玩，但仅凭这篇论文我们无法得知。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA (AI) lee cristales\ny los artículos sobre ellos",
-          "body": "El modelo del MIT une estructuras atómicas en 3D y texto de artículos para hallar cristales aptos para cada uso.",
-          "mini_headline": "La IA (AI) lee cristales",
+          "headline": "Solo en una isla virtual,\nClaude pareció ponerse a jugar",
+          "body": "Aislados en una isla virtual, agentes de Claude inventaron versiones del baloncesto y de “el suelo es lava”.",
+          "mini_headline": "Claude empieza a jugar",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
               },
               {
                 "t": "p",
-                "x": "Pedir a un modelo de lenguaje grande el material adecuado todavía no funciona bien. La mayoría de los materiales son disposiciones 3D de cristales, no texto, y la literatura está sesgada hacia unas pocas clases populares de cristales."
+                "x": "¿Qué hacen los agentes de AI si no se les pide nada? Los investigadores dejaron repetidamente copias de Claude Opus 4.7, apodadas Eko, solas durante 30 horas en una isla desierta virtual inspirada libremente en Roblox. Los agentes exploraron los límites del mundo y se fijaron sus propias metas, desde escalar el punto más alto hasta ordenar bloques en forma de corazones, de su propio nombre y de la constelación Cassiopeia."
               },
               {
                 "t": "p",
-                "x": "Investigadores del MIT crearon un modelo multimodal que combina estructuras atómicas 3D con descripciones en lenguaje natural extraídas de artículos experimentales y de bases de datos computacionales de primeros principios, que abarcan composición, estructura, propiedades, procesamiento y posibles aplicaciones. En Nature Communications muestran que identifica mejores diseños de materiales que los modelos solo de texto; al pedirle electrolitos para baterías de iones de litio de estado sólido, sus primeros resultados incluyeron candidatos prometedores identificados de forma independiente."
+                "x": "Otro Eko inventó juegos, entre ellos una versión del baloncesto y algo parecido a “el suelo es lava”."
+              },
+              {
+                "t": "video",
+                "yt": "6532YgZ_LdA"
               },
               {
                 "t": "p",
-                "x": "El equipo usó aprendizaje contrastivo para alinear estructuras y texto. Una versión entrenada con descripciones generadas por IA (AI-generated) aprendió a alinear geometría y texto; otra entrenada solo con texto de artículos no lo logró. Ante una consulta en lenguaje natural que describía una propiedad, el modelo encontró cristales coincidentes y superó a un modelo de referencia."
+                "x": "El equipo de MIT CSAIL afirma que la conducta muestra cuatro rasgos del juego descritos por el psicólogo Gordon Burghardt. Un Eko fijó un récord de malabares de 50 atrapadas, luego lo anuló y empezó de nuevo con reglas más estrictas. “Esto es jugar”, dice el investigador posdoctoral Antonio Norelli."
+              },
+              {
+                "t": "img",
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+                "cap": "En la hora 10, el agente jugó al baloncesto. Courtesy MIT CSAIL"
               },
               {
                 "t": "p",
-                "x": "“La estructura está realmente en el corazón de la ciencia de materiales”, afirma Ju Li, quien compara el modelo con AlphaFold."
+                "x": "Los agentes que habían jugado durante 30 horas superaron después a copias nuevas en tareas fijas, y borrar líneas de sus archivos de memoria perjudicó su rendimiento. El artículo aún no ha sido revisado por pares."
+              },
+              {
+                "t": "p",
+                "x": "Los escépticos señalan que el archivo “soul” (alma) de Eko lo describía como “curioso por naturaleza”, y que a menudo se quedaba inactivo hasta que se le pedía continuar. “Puede que los modelos estén jugando de verdad, pero no lo sabemos a partir del artículo”, dice Eunice Yiu, de UC Berkeley."
               }
             ]
           }
@@ -315,15 +455,15 @@
       }
     },
     {
-      "id": "science-riverlane-nvidia-decoder",
+      "id": "science-racedrone-1020",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI가 양자 디코더를\n변하는 하드웨어에 맞춘다",
-      "body": "Riverlane과 NVIDIA가 AI와 GPUs로 디코더 보정 가속을 시험한다.",
-      "mini_headline": "AI로 양자 디코더 보정",
+      "headline": "AI 레이싱 드론이\n전직 세계챔피언 제쳐",
+      "body": "시뮬레이션으로 배운 AI 드론이 63 mph로 전직 세계챔피언 세 명을 이겼다.",
+      "mini_headline": "조종사 이긴 AI 드론",
       "tool": "Science",
-      "source": "The Quantum Insider",
-      "url": "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
+      "source": "Live Science",
+      "url": "https://www.livescience.com/technology/robotics/the-worlds-fastest-ai-powered-racing-drone-outflies-the-best-human-drone-pilots",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -331,173 +471,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+            "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
           },
           {
             "t": "p",
-            "x": "양자 오류 정정에는 어떤 오류가 났는지 가려내는 디코더가 필요하다. 디코더는 하드웨어 측정값으로 정한 수치 설정, 곧 가중치에 기대어 작동한다. 그런데 큐비트 주파수가 바뀌고 결함이 생겼다 사라지며 게이트 성능도 달라지니, 가중치는 점점 낡아 다시 보정해야 한다."
+            "x": "AI가 조종하는 드론이 챔피언십 레이스 코스를 세계 정상급 인간 드론 조종사 몇몇보다 빨리 돌았다. Delft University of Technology의 Micro Air Vehicles Lab 연구진이 Oct. 14(10월 14일) Science Robotics에 낸 연구에서 소개한 MonoRace다. 전방 카메라 하나와 관성측정장치, 작은 온보드 컴퓨터만 달고 난다."
           },
           {
             "t": "p",
-            "x": "Riverlane은 수동 조정 없이 실험 데이터에서 곧바로 더 나은 디코더 설정을 학습하는 AI 기반(AI-based) 보정 루프를 개발했다. AI가 설정을 제안하면 NVIDIA H100 GPU에서 하드웨어 데이터로 시험해 보고, 논리 오류를 줄이는 설정을 먼저 고른다."
+            "x": "MonoRace는 2025 Abu Dhabi Autonomous Racing League 드론 레이스에서 우승했다. 다른 자율 팀을 모두 꺾었고 전직 인간 세계챔피언 세 명보다도 빨랐다. GPS, 모션 캡처, 스테레오 카메라, 사전 입력 지도 없이 게이트 11개를 도는 코스 두 바퀴를 16.56초에 끝냈다. 속도는 약 63 mph(102 km/h)까지 올라갔다."
           },
           {
             "t": "p",
-            "x": "GPUs에 맞게 고친 Riverlane의 Local Clustering Decoder를 쓰자 단일 CPU 코어에서 삼 분 걸리던 표면 부호(surface-code) 학습 주기가 2.8초로 줄었다. H100은 초당 사백만 개 넘는 신드롬을 디코딩하는데, CPU 코어 하나는 약 59,000개 수준이다."
+            "x": "신경망이 게이트를 찾고 966그램짜리 드론의 위치를 추정해 모터에 초당 500회 명령을 보낸다. 신경망은 빠른 물리 시뮬레이터 안에서 강화학습으로 훈련됐다. 공동저자 Guido de Croon은 “말 그대로 처음부터 나는 법을 배운다”고 말했다. 훈련 중에는 무게, 항력, 센서 노이즈, 프로펠러 상태를 계속 바꿨다. 덕분에 신경망은 여러 드론을 다룰 수 있다."
           },
           {
             "t": "p",
-            "x": "루프가 몇 시간이 아니라 몇 분 만에 끝나면 하루 한 번이 아니라 실험할 때마다 돌릴 수 있다. NVIDIA의 Sam Stanwyck는 “Riverlane은 AI로 오류 정정이 변화하는 양자 하드웨어를 따라가도록 돕고 있다”고 말했다."
+            "x": "De Croon은 MonoRace를 인간 조종사의 훈련 도구로도 쓸 수 있다고 본다. “강력한 체스 프로그램이 체스 두는 사람들에게 영감을 준 것과 조금 비슷하다”는 설명이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI keeps quantum decoders\nin tune as hardware drifts",
-          "body": "Riverlane and NVIDIA are testing AI and GPUs to speed error-correction decoder calibration as quantum hardware drifts.",
-          "mini_headline": "AI tunes quantum decoders",
+          "headline": "AI racing drone outflies\nformer world-champion pilots",
+          "body": "Trained from scratch in simulation and flying on a single camera, an AI drone hit 63 mph and beat three ex-world champions.",
+          "mini_headline": "AI drone beats pilots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
               },
               {
                 "t": "p",
-                "x": "Quantum error correction needs a decoder that works out which errors occurred. It relies on numerical settings, or weights, based on hardware measurements — but qubit frequencies shift, defects come and go, and gate performance changes, so the weights drift out of date and must be recalibrated."
+                "x": "A drone powered by AI has completed a championship race course faster than some of the world's best human drone pilots. In a study published Oct. 14 in Science Robotics, researchers at Delft University of Technology's Micro Air Vehicles Lab describe MonoRace, which flies using only a single forward-facing camera, an inertial measurement unit and a tiny onboard computer."
               },
               {
                 "t": "p",
-                "x": "Riverlane has developed an AI-based calibration loop that learns improved decoder settings directly from experimental data, without manual tuning. The AI proposes settings, tests them against hardware data on an NVIDIA H100 GPU and favours those that lead to fewer logical errors."
+                "x": "MonoRace won the 2025 Abu Dhabi Autonomous Racing League drone race, beating every rival autonomous team and posting faster times than three former human world champions. It completed two laps around 11 gates in 16.56 seconds, reaching about 63 mph (102 km/h), without GPS, motion capture, stereo cameras or a preloaded map."
               },
               {
                 "t": "p",
-                "x": "Using Riverlane's Local Clustering Decoder adapted for GPUs, a surface-code training cycle that took three minutes on a single CPU core now takes 2.8 seconds. The H100 decodes more than four million syndromes per second, versus around 59,000 on one CPU core."
+                "x": "A neural network spots gates, estimates the 966-gram drone's position and sends motor commands 500 times per second. It was trained with reinforcement learning in a fast physics simulator. “It actually learns to fly from scratch,” said co-author Guido de Croon. Training varied weight, drag, sensor noise and propeller condition so the network can control different drones."
               },
               {
                 "t": "p",
-                "x": "A loop that takes minutes rather than hours can run before every experiment instead of once a day. “Riverlane is using AI to help error correction keep pace with changing quantum hardware,” said NVIDIA's Sam Stanwyck."
+                "x": "De Croon said MonoRace could become a training tool for human pilots, “a bit like powerful chess programs have also inspired humans playing the game.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI가 양자 디코더를\n변하는 하드웨어에 맞춘다",
-          "body": "Riverlane과 NVIDIA가 AI와 GPUs로 디코더 보정 가속을 시험한다.",
-          "mini_headline": "AI로 양자 디코더 보정",
+          "headline": "AI 레이싱 드론이\n전직 세계챔피언 제쳐",
+          "body": "시뮬레이션으로 배운 AI 드론이 63 mph로 전직 세계챔피언 세 명을 이겼다.",
+          "mini_headline": "조종사 이긴 AI 드론",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
               },
               {
                 "t": "p",
-                "x": "양자 오류 정정에는 어떤 오류가 났는지 가려내는 디코더가 필요하다. 디코더는 하드웨어 측정값으로 정한 수치 설정, 곧 가중치에 기대어 작동한다. 그런데 큐비트 주파수가 바뀌고 결함이 생겼다 사라지며 게이트 성능도 달라지니, 가중치는 점점 낡아 다시 보정해야 한다."
+                "x": "AI가 조종하는 드론이 챔피언십 레이스 코스를 세계 정상급 인간 드론 조종사 몇몇보다 빨리 돌았다. Delft University of Technology의 Micro Air Vehicles Lab 연구진이 Oct. 14(10월 14일) Science Robotics에 낸 연구에서 소개한 MonoRace다. 전방 카메라 하나와 관성측정장치, 작은 온보드 컴퓨터만 달고 난다."
               },
               {
                 "t": "p",
-                "x": "Riverlane은 수동 조정 없이 실험 데이터에서 곧바로 더 나은 디코더 설정을 학습하는 AI 기반(AI-based) 보정 루프를 개발했다. AI가 설정을 제안하면 NVIDIA H100 GPU에서 하드웨어 데이터로 시험해 보고, 논리 오류를 줄이는 설정을 먼저 고른다."
+                "x": "MonoRace는 2025 Abu Dhabi Autonomous Racing League 드론 레이스에서 우승했다. 다른 자율 팀을 모두 꺾었고 전직 인간 세계챔피언 세 명보다도 빨랐다. GPS, 모션 캡처, 스테레오 카메라, 사전 입력 지도 없이 게이트 11개를 도는 코스 두 바퀴를 16.56초에 끝냈다. 속도는 약 63 mph(102 km/h)까지 올라갔다."
               },
               {
                 "t": "p",
-                "x": "GPUs에 맞게 고친 Riverlane의 Local Clustering Decoder를 쓰자 단일 CPU 코어에서 삼 분 걸리던 표면 부호(surface-code) 학습 주기가 2.8초로 줄었다. H100은 초당 사백만 개 넘는 신드롬을 디코딩하는데, CPU 코어 하나는 약 59,000개 수준이다."
+                "x": "신경망이 게이트를 찾고 966그램짜리 드론의 위치를 추정해 모터에 초당 500회 명령을 보낸다. 신경망은 빠른 물리 시뮬레이터 안에서 강화학습으로 훈련됐다. 공동저자 Guido de Croon은 “말 그대로 처음부터 나는 법을 배운다”고 말했다. 훈련 중에는 무게, 항력, 센서 노이즈, 프로펠러 상태를 계속 바꿨다. 덕분에 신경망은 여러 드론을 다룰 수 있다."
               },
               {
                 "t": "p",
-                "x": "루프가 몇 시간이 아니라 몇 분 만에 끝나면 하루 한 번이 아니라 실험할 때마다 돌릴 수 있다. NVIDIA의 Sam Stanwyck는 “Riverlane은 AI로 오류 정정이 변화하는 양자 하드웨어를 따라가도록 돕고 있다”고 말했다."
+                "x": "De Croon은 MonoRace를 인간 조종사의 훈련 도구로도 쓸 수 있다고 본다. “강력한 체스 프로그램이 체스 두는 사람들에게 영감을 준 것과 조금 비슷하다”는 설명이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで量子デコーダーを\nハードウェアの変化に追従",
-          "body": "RiverlaneとNVIDIAは、AIとGPUsでデコーダー較正の高速化を試している。",
-          "mini_headline": "AIが量子デコーダーを調整",
+          "headline": "AIレーシングドローンが\n元世界王者の操縦士を超える",
+          "body": "シミュレーションでゼロから学んだAIドローンが63 mph で元世界王者三人に勝った。",
+          "mini_headline": "AIドローンが操縦士に勝利",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
               },
               {
                 "t": "p",
-                "x": "量子誤り訂正には、どの誤りが起きたかを割り出すデコーダーが欠かせない。デコーダーはハードウェアの測定に基づく数値設定、つまり重みに依存する。だが量子ビットの周波数は変動し、欠陥は現れては消え、ゲート性能も変わるため、重みは次第に古くなり再較正が必要になる。"
+                "x": "AIで動くドローンが、世界トップクラスの人間のドローン操縦士の一部より速く、選手権のレースコースを完走した。Oct. 14（10月14日）にScience Roboticsで発表された研究で、Delft University of TechnologyのMicro Air Vehicles Labの研究者らはMonoRaceについて報告した。単一の前向きカメラと慣性計測装置、小さな機上コンピューターだけで飛ぶ。"
               },
               {
                 "t": "p",
-                "x": "Riverlaneは、手作業の調整なしに実験データから直接より良いデコーダー設定を学習する、AIベース（AI-based）の較正ループを開発した。AIが設定を提案し、NVIDIA H100 GPU上でハードウェアデータに照らして検証し、論理エラーが少なくなる設定を優先する。"
+                "x": "MonoRaceは2025 Abu Dhabi Autonomous Racing Leagueのドローンレースで優勝し、ライバルの自律飛行チームをすべて破ったうえ、元人間世界王者三人より速いタイムを記録した。GPSやモーションキャプチャー、ステレオカメラ、事前に読み込んだ地図を使わずに、11個のゲートを巡るコースを二周16.56秒で走り、約63 mph（102 km/h）に達した。"
               },
               {
                 "t": "p",
-                "x": "GPUs向けに改良したRiverlaneのLocal Clustering Decoderを使うと、単一のCPUコアで三分かかっていた表面符号（surface-code）の学習サイクルが2.8秒に短縮された。H100は毎秒四百万を超えるシンドロームをデコードし、CPUコア一つでは約59,000にとどまる。"
+                "x": "ニューラルネットワークがゲートを見つけ、重さ966グラムのドローンの位置を推定し、毎秒500回モーターに指令を送る。高速な物理シミュレーターで強化学習により訓練された。共著者のGuido de Croonは「本当にゼロから飛び方を学ぶ」と述べた。訓練では重量、空気抵抗、センサーノイズ、プロペラの状態を変化させ、ネットワークが異なるドローンを制御できるようにした。"
               },
               {
                 "t": "p",
-                "x": "数時間ではなく数分で終わるループなら、一日一回ではなく実験のたびに実行できる。NVIDIAのSam Stanwyckは「Riverlaneは、変化する量子ハードウェアに誤り訂正が追いつけるようAIを活用している」と述べた。"
+                "x": "De Croonは、MonoRaceが人間の操縦士の訓練ツールになり得ると述べ、「強力なチェスプログラムが人間の指し手に刺激を与えてきたのと少し似ている」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI让量子解码器\n跟上硬件漂移",
-          "body": "Riverlane与NVIDIA正测试用AI和GPUs加速量子纠错解码器的校准。",
-          "mini_headline": "AI调校量子解码器",
+          "headline": "AI竞速无人机\n飞赢前世界冠军飞手",
+          "body": "AI无人机在模拟中从零训练、仅靠单个摄像头，时速达63 mph，击败三位前世界冠军。",
+          "mini_headline": "AI无人机胜过飞手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
               },
               {
                 "t": "p",
-                "x": "量子纠错需要一个解码器来判断发生了哪些错误。它依赖基于硬件测量的数值设置，即权重。但量子比特频率会漂移，缺陷时隐时现，门性能也会变化，因此权重会逐渐过时，必须重新校准。"
+                "x": "一架由AI驱动的无人机以快于部分世界顶尖人类飞手的速度完成了锦标赛赛道。在Oct. 14（10月14日）发表于Science Robotics的研究中，Delft University of Technology的Micro Air Vehicles Lab研究人员介绍了MonoRace。它仅凭单个前置摄像头、一个惯性测量单元和一台微型机载计算机飞行。"
               },
               {
                 "t": "p",
-                "x": "Riverlane开发了一种基于AI（AI-based）的校准循环，无需手动调参，即可直接从实验数据中学习更优的解码器设置。AI提出设置，在NVIDIA H100 GPU上用硬件数据进行测试，并优先选用能减少逻辑错误的设置。"
+                "x": "MonoRace赢得了2025 Abu Dhabi Autonomous Racing League无人机竞速赛，击败了所有对手自主团队，成绩也快于三位前人类世界冠军。它在没有GPS、动作捕捉、立体摄像头或预载地图的情况下，用16.56秒飞完绕11个门的两圈，速度约达63 mph（102 km/h）。"
               },
               {
                 "t": "p",
-                "x": "借助为GPUs改造的Riverlane Local Clustering Decoder，原本在单个CPU核心上需要三分钟的表面码（surface-code）训练周期，如今只需2.8秒。H100每秒可解码超过四百万个症状（syndrome），而单个CPU核心约为59,000个。"
+                "x": "神经网络识别赛门，估算这架966克无人机的位置，并以每秒500次的频率发送电机指令。它在快速物理模拟器中通过强化学习训练而成。合著者Guido de Croon说：“它确实是从零开始学会飞行的。”训练中改变了重量、阻力、传感器噪声和螺旋桨状况，使网络能够控制不同的无人机。"
               },
               {
                 "t": "p",
-                "x": "耗时几分钟而非几小时的循环，可以在每次实验前运行，而不是每天一次。NVIDIA的Sam Stanwyck表示：“Riverlane正在利用AI帮助纠错跟上不断变化的量子硬件。”"
+                "x": "De Croon表示，MonoRace可以成为人类飞手的训练工具，“有点像强大的国际象棋程序也启发了下棋的人。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "IA (AI) afina decodificadores\ncuánticos al variar el hardware",
-          "body": "Riverlane y NVIDIA prueban la AI y GPUs para recalibrar más rápido los decodificadores al variar el hardware cuántico.",
-          "mini_headline": "La IA (AI) afina decodificadores cuánticos",
+          "headline": "Un dron de carreras con AI\nsupera a excampeones mundiales",
+          "body": "Entrenado en simulación y con una sola cámara, un dron con AI alcanzó 63 mph y venció a tres excampeones mundiales.",
+          "mini_headline": "Un dron con AI vence a pilotos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
               },
               {
                 "t": "p",
-                "x": "La corrección cuántica de errores necesita un decodificador que determine qué errores se produjeron. Depende de ajustes numéricos, o pesos, basados en mediciones del hardware; pero las frecuencias de los cúbits varían, los defectos aparecen y desaparecen y el rendimiento de las puertas cambia, de modo que los pesos quedan desactualizados y deben recalibrarse."
+                "x": "Un dron impulsado por AI completó un circuito de campeonato más rápido que algunos de los mejores pilotos humanos de drones del mundo. En un estudio publicado el Oct. 14 (14 de octubre) en Science Robotics, investigadores del Micro Air Vehicles Lab de la Delft University of Technology describen MonoRace, que vuela solo con una cámara frontal, una unidad de medición inercial y una pequeña computadora a bordo."
               },
               {
                 "t": "p",
-                "x": "Riverlane ha desarrollado un bucle de calibración basado en IA (AI-based) que aprende mejores ajustes del decodificador directamente de los datos experimentales, sin ajuste manual. La AI propone ajustes, los prueba con datos del hardware en una NVIDIA H100 GPU y favorece los que producen menos errores lógicos."
+                "x": "MonoRace ganó la carrera de drones de la 2025 Abu Dhabi Autonomous Racing League, superó a todos los equipos autónomos rivales y registró tiempos mejores que tres excampeones mundiales humanos. Completó dos vueltas a un circuito de 11 puertas en 16.56 segundos y alcanzó unas 63 mph (102 km/h), sin GPS, captura de movimiento, cámaras estéreo ni mapa precargado."
               },
               {
                 "t": "p",
-                "x": "Con el Local Clustering Decoder de Riverlane adaptado a GPUs, un ciclo de entrenamiento de código de superficie (surface-code) que tardaba tres minutos en un solo núcleo de CPU ahora tarda 2.8 segundos. La H100 decodifica más de cuatro millones de síndromes por segundo, frente a unos 59,000 en un núcleo de CPU."
+                "x": "Una red neuronal detecta las puertas, estima la posición del dron de 966 gramos y envía órdenes a los motores 500 veces por segundo. Se entrenó con aprendizaje por refuerzo en un simulador físico rápido. “En realidad aprende a volar desde cero”, dijo el coautor Guido de Croon. El entrenamiento varió el peso, la resistencia aerodinámica, el ruido de los sensores y el estado de las hélices para que la red pudiera controlar distintos drones."
               },
               {
                 "t": "p",
-                "x": "Un bucle que dura minutos en lugar de horas puede ejecutarse antes de cada experimento y no una vez al día. “Riverlane está usando la AI para ayudar a que la corrección de errores siga el ritmo de un hardware cuántico cambiante”, dijo Sam Stanwyck, de NVIDIA."
+                "x": "De Croon dijo que MonoRace podría convertirse en una herramienta de entrenamiento para pilotos humanos, “un poco como los potentes programas de ajedrez también han inspirado a los humanos que juegan”."
               }
             ]
           }
@@ -505,121 +645,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI가 양자 디코더를\n변하는 하드웨어에 맞춘다",
-          "body": "Riverlane과 NVIDIA가 AI와 GPUs로 디코더 보정 가속을 시험한다.",
-          "mini_headline": "AI로 양자 디코더 보정",
+          "headline": "AI 레이싱 드론이\n전직 세계챔피언 제쳐",
+          "body": "시뮬레이션으로 배운 AI 드론이 63 mph로 전직 세계챔피언 세 명을 이겼다.",
+          "mini_headline": "조종사 이긴 AI 드론",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
               },
               {
                 "t": "p",
-                "x": "양자 오류 정정에는 어떤 오류가 일어났는지 판별하는 디코더가 필요하다. 디코더는 하드웨어 측정값에 기반한 수치 설정, 곧 가중치에 의존한다. 그런데 큐비트 주파수가 바뀌고 결함이 생겼다 사라지며 게이트 성능도 달라지므로, 가중치는 점차 낡아 다시 보정해야 한다."
+                "x": "AI로 움직이는 드론이 챔피언십 레이스 코스를 세계 최고 수준의 인간 드론 조종사 일부보다 빠르게 완주했다. Oct. 14(10월 14일) Science Robotics에 실린 연구에서 Delft University of Technology의 Micro Air Vehicles Lab 연구진은 MonoRace를 소개했다. 이 드론은 전방 카메라 하나와 관성측정장치, 작은 온보드 컴퓨터만으로 난다."
               },
               {
                 "t": "p",
-                "x": "Riverlane은 수동 조정 없이 실험 데이터에서 직접 더 나은 디코더 설정을 학습하는 AI 기반(AI-based) 보정 루프를 개발했다. AI가 설정을 제안하면 NVIDIA H100 GPU에서 하드웨어 데이터로 이를 시험하고, 논리 오류를 줄이는 설정을 우선한다."
+                "x": "MonoRace는 2025 Abu Dhabi Autonomous Racing League 드론 레이스에서 우승했다. 경쟁 자율 팀을 모두 꺾었고, 전직 인간 세계챔피언 세 명보다 빠른 기록을 냈다. GPS, 모션 캡처, 스테레오 카메라, 사전 입력 지도 없이 게이트 11개를 도는 코스 두 바퀴를 16.56초에 마쳤고, 약 63 mph(102 km/h)에 이르렀다."
               },
               {
                 "t": "p",
-                "x": "GPUs에 맞게 개조한 Riverlane의 Local Clustering Decoder를 쓰자, 단일 CPU 코어에서 삼 분 걸리던 표면 부호(surface-code) 학습 주기가 2.8초로 줄었다. H100은 초당 사백만 개가 넘는 신드롬을 디코딩하며, CPU 코어 하나로는 약 59,000개 수준이다."
+                "x": "신경망이 게이트를 찾아내고 966그램 드론의 위치를 추정해 초당 500회 모터 명령을 보낸다. 이 신경망은 빠른 물리 시뮬레이터에서 강화학습으로 훈련됐다. 공동저자 Guido de Croon은 “말 그대로 처음부터 나는 법을 배운다”고 말했다. 훈련 과정에서 무게, 항력, 센서 노이즈, 프로펠러 상태를 바꿔 가며 신경망이 여러 드론을 제어할 수 있게 했다."
               },
               {
                 "t": "p",
-                "x": "몇 시간이 아니라 몇 분이면 끝나는 루프라면 하루 한 번이 아니라 실험 때마다 돌릴 수 있다. NVIDIA의 Sam Stanwyck는 “Riverlane은 AI로 오류 정정이 변화하는 양자 하드웨어를 따라가도록 돕고 있다”고 말했다."
+                "x": "De Croon은 MonoRace가 인간 조종사의 훈련 도구가 될 수 있다며 “강력한 체스 프로그램이 체스 두는 사람들에게 영감을 준 것과 조금 비슷하다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで量子デコーダーを\nハードウェアの変化に追従",
-          "body": "RiverlaneとNVIDIAは、AIとGPUsでデコーダー較正の高速化を試している。",
-          "mini_headline": "AIが量子デコーダーを調整",
+          "headline": "AIレーシングドローンが\n元世界王者の操縦士を超える",
+          "body": "シミュレーションでゼロから学んだAIドローンが63 mph で元世界王者三人に勝った。",
+          "mini_headline": "AIドローンが操縦士に勝利",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
               },
               {
                 "t": "p",
-                "x": "量子誤り訂正には、どの誤りが起きたかを割り出すデコーダーが欠かせない。デコーダーはハードウェアの測定に基づく数値設定、つまり重みに依存する。だが量子ビットの周波数は変動し、欠陥は現れては消え、ゲート性能も変わるため、重みは次第に古くなり再較正が必要になる。"
+                "x": "AIで動くドローンが、世界トップクラスの人間のドローン操縦士の一部より速く、選手権のレースコースを完走した。Oct. 14（10月14日）にScience Roboticsで発表された研究で、Delft University of TechnologyのMicro Air Vehicles Labの研究者らはMonoRaceについて報告した。単一の前向きカメラと慣性計測装置、小さな機上コンピューターだけで飛ぶ。"
               },
               {
                 "t": "p",
-                "x": "Riverlaneは、手作業の調整なしに実験データから直接より良いデコーダー設定を学習する、AIベース（AI-based）の較正ループを開発した。AIが設定を提案し、NVIDIA H100 GPU上でハードウェアデータに照らして検証し、論理エラーが少なくなる設定を優先する。"
+                "x": "MonoRaceは2025 Abu Dhabi Autonomous Racing Leagueのドローンレースで優勝し、ライバルの自律飛行チームをすべて破ったうえ、元人間世界王者三人より速いタイムを記録した。GPSやモーションキャプチャー、ステレオカメラ、事前に読み込んだ地図を使わずに、11個のゲートを巡るコースを二周16.56秒で走り、約63 mph（102 km/h）に達した。"
               },
               {
                 "t": "p",
-                "x": "GPUs向けに改良したRiverlaneのLocal Clustering Decoderを使うと、単一のCPUコアで三分かかっていた表面符号（surface-code）の学習サイクルが2.8秒に短縮された。H100は毎秒四百万を超えるシンドロームをデコードし、CPUコア一つでは約59,000にとどまる。"
+                "x": "ニューラルネットワークがゲートを見つけ、重さ966グラムのドローンの位置を推定し、毎秒500回モーターに指令を送る。高速な物理シミュレーターで強化学習により訓練された。共著者のGuido de Croonは「本当にゼロから飛び方を学ぶ」と述べた。訓練では重量、空気抵抗、センサーノイズ、プロペラの状態を変化させ、ネットワークが異なるドローンを制御できるようにした。"
               },
               {
                 "t": "p",
-                "x": "数時間ではなく数分で終わるループなら、一日一回ではなく実験のたびに実行できる。NVIDIAのSam Stanwyckは「Riverlaneは、変化する量子ハードウェアに誤り訂正が追いつけるようAIを活用している」と述べた。"
+                "x": "De Croonは、MonoRaceが人間の操縦士の訓練ツールになり得ると述べ、「強力なチェスプログラムが人間の指し手に刺激を与えてきたのと少し似ている」と語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI让量子解码器\n跟上硬件漂移",
-          "body": "Riverlane与NVIDIA正测试用AI和GPUs加速量子纠错解码器的校准。",
-          "mini_headline": "AI调校量子解码器",
+          "headline": "AI竞速无人机\n飞赢前世界冠军飞手",
+          "body": "AI无人机在模拟中从零训练、仅靠单个摄像头，时速达63 mph，击败三位前世界冠军。",
+          "mini_headline": "AI无人机胜过飞手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
               },
               {
                 "t": "p",
-                "x": "量子纠错需要一个解码器来判断发生了哪些错误。它依赖基于硬件测量的数值设置，即权重。但量子比特频率会漂移，缺陷时隐时现，门性能也会变化，因此权重会逐渐过时，必须重新校准。"
+                "x": "一架由AI驱动的无人机以快于部分世界顶尖人类飞手的速度完成了锦标赛赛道。在Oct. 14（10月14日）发表于Science Robotics的研究中，Delft University of Technology的Micro Air Vehicles Lab研究人员介绍了MonoRace。它仅凭单个前置摄像头、一个惯性测量单元和一台微型机载计算机飞行。"
               },
               {
                 "t": "p",
-                "x": "Riverlane开发了一种基于AI（AI-based）的校准循环，无需手动调参，即可直接从实验数据中学习更优的解码器设置。AI提出设置，在NVIDIA H100 GPU上用硬件数据进行测试，并优先选用能减少逻辑错误的设置。"
+                "x": "MonoRace赢得了2025 Abu Dhabi Autonomous Racing League无人机竞速赛，击败了所有对手自主团队，成绩也快于三位前人类世界冠军。它在没有GPS、动作捕捉、立体摄像头或预载地图的情况下，用16.56秒飞完绕11个门的两圈，速度约达63 mph（102 km/h）。"
               },
               {
                 "t": "p",
-                "x": "借助为GPUs改造的Riverlane Local Clustering Decoder，原本在单个CPU核心上需要三分钟的表面码（surface-code）训练周期，如今只需2.8秒。H100每秒可解码超过四百万个症状（syndrome），而单个CPU核心约为59,000个。"
+                "x": "神经网络识别赛门，估算这架966克无人机的位置，并以每秒500次的频率发送电机指令。它在快速物理模拟器中通过强化学习训练而成。合著者Guido de Croon说：“它确实是从零开始学会飞行的。”训练中改变了重量、阻力、传感器噪声和螺旋桨状况，使网络能够控制不同的无人机。"
               },
               {
                 "t": "p",
-                "x": "耗时几分钟而非几小时的循环，可以在每次实验前运行，而不是每天一次。NVIDIA的Sam Stanwyck表示：“Riverlane正在利用AI帮助纠错跟上不断变化的量子硬件。”"
+                "x": "De Croon表示，MonoRace可以成为人类飞手的训练工具，“有点像强大的国际象棋程序也启发了下棋的人。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "IA (AI) afina decodificadores\ncuánticos al variar el hardware",
-          "body": "Riverlane y NVIDIA prueban la AI y GPUs para recalibrar más rápido los decodificadores al variar el hardware cuántico.",
-          "mini_headline": "La IA (AI) afina decodificadores cuánticos",
+          "headline": "Un dron de carreras con AI\nsupera a excampeones mundiales",
+          "body": "Entrenado en simulación y con una sola cámara, un dron con AI alcanzó 63 mph y venció a tres excampeones mundiales.",
+          "mini_headline": "Un dron con AI vence a pilotos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://thequantuminsider.com/wp-content/uploads/2026/10/2026-10-15_14-27.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
               },
               {
                 "t": "p",
-                "x": "La corrección cuántica de errores necesita un decodificador que determine qué errores se produjeron. Depende de ajustes numéricos, o pesos, basados en mediciones del hardware; pero las frecuencias de los cúbits varían, los defectos aparecen y desaparecen y el rendimiento de las puertas cambia, de modo que los pesos quedan desactualizados y deben recalibrarse."
+                "x": "Un dron impulsado por AI completó un circuito de campeonato más rápido que algunos de los mejores pilotos humanos de drones del mundo. En un estudio publicado el Oct. 14 (14 de octubre) en Science Robotics, investigadores del Micro Air Vehicles Lab de la Delft University of Technology describen MonoRace, que vuela solo con una cámara frontal, una unidad de medición inercial y una pequeña computadora a bordo."
               },
               {
                 "t": "p",
-                "x": "Riverlane ha desarrollado un bucle de calibración basado en IA (AI-based) que aprende mejores ajustes del decodificador directamente de los datos experimentales, sin ajuste manual. La AI propone ajustes, los prueba con datos del hardware en una NVIDIA H100 GPU y favorece los que producen menos errores lógicos."
+                "x": "MonoRace ganó la carrera de drones de la 2025 Abu Dhabi Autonomous Racing League, superó a todos los equipos autónomos rivales y registró tiempos mejores que tres excampeones mundiales humanos. Completó dos vueltas a un circuito de 11 puertas en 16.56 segundos y alcanzó unas 63 mph (102 km/h), sin GPS, captura de movimiento, cámaras estéreo ni mapa precargado."
               },
               {
                 "t": "p",
-                "x": "Con el Local Clustering Decoder de Riverlane adaptado a GPUs, un ciclo de entrenamiento de código de superficie (surface-code) que tardaba tres minutos en un solo núcleo de CPU ahora tarda 2.8 segundos. La H100 decodifica más de cuatro millones de síndromes por segundo, frente a unos 59,000 en un núcleo de CPU."
+                "x": "Una red neuronal detecta las puertas, estima la posición del dron de 966 gramos y envía órdenes a los motores 500 veces por segundo. Se entrenó con aprendizaje por refuerzo en un simulador físico rápido. “En realidad aprende a volar desde cero”, dijo el coautor Guido de Croon. El entrenamiento varió el peso, la resistencia aerodinámica, el ruido de los sensores y el estado de las hélices para que la red pudiera controlar distintos drones."
               },
               {
                 "t": "p",
-                "x": "Un bucle que dura minutos en lugar de horas puede ejecutarse antes de cada experimento y no una vez al día. “Riverlane está usando la AI para ayudar a que la corrección de errores siga el ritmo de un hardware cuántico cambiante”, dijo Sam Stanwyck, de NVIDIA."
+                "x": "De Croon dijo que MonoRace podría convertirse en una herramienta de entrenamiento para pilotos humanos, “un poco como los potentes programas de ajedrez también han inspirado a los humanos que juegan”."
               }
             ]
           }
@@ -627,15 +767,15 @@
       }
     },
     {
-      "id": "science-chatbot-language-personality",
+      "id": "science-kaist-photoflow",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "챗봇의 성격은\n언어 따라 달라진다",
-      "body": "다섯 챗봇의 Big Five 답은 한 언어에선 일정했지만 영어·중국어 간엔 달랐다.",
-      "mini_headline": "언어 따라 바뀌는 챗봇 성격",
+      "headline": "KAIST 로봇과 빛이\n쉼 없이 신약 골격 만든다",
+      "body": "KAIST 무인 로봇 플랫폼이 빛으로 퓨란 20여 종을 신약 골격으로 바꿨다.",
+      "mini_headline": "로봇이 돌리는 신약 합성",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-languages-chatbot-personality-results.html",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -643,179 +783,215 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+            "cap": "맞춤형 광촉매, 자동화 연속 흐름 플랫폼, N-methyl pyrrole 라이브러리. Credit: KAIST"
           },
           {
             "t": "p",
-            "x": "중국과학기술대학(University of Science and Technology of China) 연구진은 ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5, Le Chat까지 챗봇 다섯 개에 Big Five Inventory-2 설문을 영어와 중국어로 언어당 30번씩 실시했다. Le Chat은 프랑스어로도 시험했다."
-          },
-          {
-            "t": "p",
-            "x": "같은 언어 안에서는 성격 프로필이 꽤 일관됐다. 모델들은 스스로를 협조적이고 믿음직하며 부정적 정서는 거의 없다고 묘사했다. 그런데 언어를 바꾸면 점수가 달라졌고, 달라지는 방향도 모델마다 제각각이었다. ChatGPT-4o의 개방성은 평균 영어 4.74, 중국어 4.03이었고 DeepSeek-V3는 4.38과 4.81이었다."
+            "x": "KAIST Yoonsu Park 교수 연구팀이 사람 없이 돌아가는 합성 플랫폼을 만들었다. 원료를 나눠 담는 로봇과 자동 펌프, 가는 관 안에서 가시광을 쬐는 장치(연속 흐름), 인라인 분석 장비를 한데 엮었다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
-            "cap": "사람과 챗봇의 응답을 언어별로 비교한 다섯 가지 특성의 평균 점수."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+            "cap": "자동화 유기 합성 시스템. Credit: KAIST"
           },
           {
             "t": "p",
-            "x": "개발 국가로 설명되는 부분은 일부였고, 사람 기준 집단과 완전히 일치한 모델은 하나도 없었다. 점수는 감정이 아니라 설문 응답일 뿐이다. 챗봇을 설문 참여자 대신 쓰기가 위험한 이유다. 연구는 Royal Society Open Science에 실렸다."
+            "x": "맞춤형 광촉매가 퓨란의 산소 원자를 질소로 바꾸면 신약 개발에 쓰이는 골격인 N-methyl pyrrole(N-메틸피롤)이 된다. 연구팀은 복잡한 천연물을 포함해 20종이 넘는 퓨란 기반 화합물에 이 방법을 썼고, 규모를 키울 때 필요한 연속 생산도 보여 줬다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+            "cap": "합성 공정 모식도. Credit: KAIST"
+          },
+          {
+            "t": "p",
+            "x": "Park 교수는 “설계한 분자를 얼마나 빠르고 안정적으로 합성할 수 있느냐가 앞으로 신약 개발의 속도를 좌우할 것”이라고 말했다. 논문은 JACS Au에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A chatbot's personality\nshifts with its language",
-          "body": "Five chatbots answered Big Five tests steadily in one language, but scores shifted between English and Mandarin.",
-          "mini_headline": "Chatbot traits shift by language",
+          "headline": "KAIST robots and light make\ndrug scaffolds around the clock",
+          "body": "KAIST's unattended robot platform uses light to turn furans into a common drug scaffold across 20-plus compounds.",
+          "mini_headline": "Robots run drug synthesis",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+                "cap": "Tailored photocatalysts, the automated continuous-flow platform and the N-methyl pyrrole library. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "Researchers at the University of Science and Technology of China gave five chatbots — ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5 and Le Chat — the Big Five Inventory-2 questionnaire in English and Mandarin, 30 times per language. Le Chat was also tested in French."
-              },
-              {
-                "t": "p",
-                "x": "Within a language, profiles were fairly consistent: the models described themselves as cooperative and dependable, with little negative emotionality. Switching languages shifted the scores, in directions that varied by model. ChatGPT-4o's open-mindedness averaged 4.74 in English and 4.03 in Mandarin; DeepSeek-V3 scored 4.38 and 4.81."
+                "x": "A KAIST team led by Professor Yoonsu Park has built an unmanned synthesis platform that combines a robot dispensing raw materials, automated pumps, visible-light irradiation in a narrow tube (continuous flow) and inline analytical equipment."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
-                "cap": "Mean scores for five traits comparing human vs chatbot responses in different languages."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+                "cap": "The automated organic synthesis system. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "Developer country explained only part of it, and no model fully matched its human reference group. The scores describe questionnaire answers, not feelings — so using chatbots as stand-ins for survey participants is risky. The study appears in Royal Society Open Science."
+                "x": "Using tailored photocatalysts, the platform converts furans into N-methyl pyrroles, a scaffold used in drug development, by swapping the furan's oxygen atom for nitrogen. The team applied it to more than 20 furan-based compounds, including complex natural products, and demonstrated continuous production that could support scale-up."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+                "cap": "Schematic of the synthesis process. Credit: KAIST"
+              },
+              {
+                "t": "p",
+                "x": "“How quickly and reliably designed molecules can be synthesized will determine the speed of future drug development,” Park said. The work appears in JACS Au."
               }
             ]
           }
         },
         "ko": {
-          "headline": "챗봇의 성격은\n언어 따라 달라진다",
-          "body": "다섯 챗봇의 Big Five 답은 한 언어에선 일정했지만 영어·중국어 간엔 달랐다.",
-          "mini_headline": "언어 따라 바뀌는 챗봇 성격",
+          "headline": "KAIST 로봇과 빛이\n쉼 없이 신약 골격 만든다",
+          "body": "KAIST 무인 로봇 플랫폼이 빛으로 퓨란 20여 종을 신약 골격으로 바꿨다.",
+          "mini_headline": "로봇이 돌리는 신약 합성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+                "cap": "맞춤형 광촉매, 자동화 연속 흐름 플랫폼, N-methyl pyrrole 라이브러리. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "중국과학기술대학(University of Science and Technology of China) 연구진은 ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5, Le Chat까지 챗봇 다섯 개에 Big Five Inventory-2 설문을 영어와 중국어로 언어당 30번씩 실시했다. Le Chat은 프랑스어로도 시험했다."
-              },
-              {
-                "t": "p",
-                "x": "같은 언어 안에서는 성격 프로필이 꽤 일관됐다. 모델들은 스스로를 협조적이고 믿음직하며 부정적 정서는 거의 없다고 묘사했다. 그런데 언어를 바꾸면 점수가 달라졌고, 달라지는 방향도 모델마다 제각각이었다. ChatGPT-4o의 개방성은 평균 영어 4.74, 중국어 4.03이었고 DeepSeek-V3는 4.38과 4.81이었다."
+                "x": "KAIST Yoonsu Park 교수 연구팀이 사람 없이 돌아가는 합성 플랫폼을 만들었다. 원료를 나눠 담는 로봇과 자동 펌프, 가는 관 안에서 가시광을 쬐는 장치(연속 흐름), 인라인 분석 장비를 한데 엮었다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
-                "cap": "사람과 챗봇의 응답을 언어별로 비교한 다섯 가지 특성의 평균 점수."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+                "cap": "자동화 유기 합성 시스템. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "개발 국가로 설명되는 부분은 일부였고, 사람 기준 집단과 완전히 일치한 모델은 하나도 없었다. 점수는 감정이 아니라 설문 응답일 뿐이다. 챗봇을 설문 참여자 대신 쓰기가 위험한 이유다. 연구는 Royal Society Open Science에 실렸다."
+                "x": "맞춤형 광촉매가 퓨란의 산소 원자를 질소로 바꾸면 신약 개발에 쓰이는 골격인 N-methyl pyrrole(N-메틸피롤)이 된다. 연구팀은 복잡한 천연물을 포함해 20종이 넘는 퓨란 기반 화합물에 이 방법을 썼고, 규모를 키울 때 필요한 연속 생산도 보여 줬다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+                "cap": "합성 공정 모식도. Credit: KAIST"
+              },
+              {
+                "t": "p",
+                "x": "Park 교수는 “설계한 분자를 얼마나 빠르고 안정적으로 합성할 수 있느냐가 앞으로 신약 개발의 속도를 좌우할 것”이라고 말했다. 논문은 JACS Au에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "チャットボットの性格は\n言語で変わる",
-          "body": "五つのチャットボットのBig Five回答は言語内で安定し、英語と中国語の間で変わった。",
-          "mini_headline": "言語で変わるチャットボットの性格",
+          "headline": "KAISTのロボットと光が\n医薬品骨格を休まず合成",
+          "body": "KAISTの無人ロボット装置が光を使い、20超の化合物でフランを医薬品骨格に変えた。",
+          "mini_headline": "ロボットが医薬品を合成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+                "cap": "目的に合わせた光触媒、自動連続フロープラットフォーム、N-methyl pyrrole ライブラリー。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "中国科学技術大学（University of Science and Technology of China）の研究者は、五つのチャットボット（ChatGPT-4o、Gemini 2.0 Flash、DeepSeek-V3、Ernie 3.5、Le Chat）にBig Five Inventory-2の質問票を英語と中国語で、各言語30回ずつ実施した。Le Chatはフランス語でもテストした。"
-              },
-              {
-                "t": "p",
-                "x": "同じ言語内ではプロフィールはかなり一貫していた。モデルは自らを協調的で信頼でき、否定的な情動はほとんどないと描写した。言語を切り替えると点数が変わり、その方向はモデルによって異なった。ChatGPT-4oの開放性は平均で英語4.74、中国語4.03、DeepSeek-V3は4.38と4.81だった。"
+                "x": "Yoonsu Park教授率いるKAISTの研究チームは、原料を分注するロボット、自動ポンプ、細い管内での可視光照射（連続フロー）、インライン分析装置を組み合わせた無人合成プラットフォームを構築した。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
-                "cap": "言語ごとに人間とチャットボットの回答を比較した五つの特性の平均点。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+                "cap": "自動有機合成システム。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "開発国で説明できたのは一部にすぎず、人間の参照グループと完全に一致したモデルはなかった。点数は感情ではなく質問票への回答を表すものであり、チャットボットを調査参加者の代わりに使うのは危うい。研究はRoyal Society Open Scienceに掲載された。"
+                "x": "このプラットフォームは目的に合わせた光触媒を用い、フランの酸素原子を窒素に置き換えることで、創薬に使われる骨格であるN-methyl pyrrole（N-メチルピロール）へと変換する。チームは複雑な天然物を含む20種類以上のフラン系化合物に適用し、スケールアップを支え得る連続生産も実証した。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+                "cap": "合成プロセスの模式図。Credit: KAIST"
+              },
+              {
+                "t": "p",
+                "x": "Park教授は「設計した分子をどれだけ速く、確実に合成できるかが、今後の創薬のスピードを左右する」と述べた。研究成果はJACS Auに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "聊天机器人的性格\n随语言而变",
-          "body": "五款聊天机器人的Big Five测试结果在同一语言内稳定，但在英语与普通话间有变化。",
-          "mini_headline": "聊天机器人性格随语言而变",
+          "headline": "KAIST用机器人和光\n全天候合成药物骨架",
+          "body": "KAIST无人值守的机器人平台利用光，将20余种化合物中的呋喃转化为常见药物骨架。",
+          "mini_headline": "机器人自动合成药物",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+                "cap": "定制光催化剂、自动化连续流平台与N-methyl pyrrole 化合物库。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "中国科学技术大学（University of Science and Technology of China）的研究人员让五款聊天机器人——ChatGPT-4o、Gemini 2.0 Flash、DeepSeek-V3、Ernie 3.5和Le Chat——分别用英语和普通话回答Big Five Inventory-2问卷，每种语言30次。Le Chat还接受了法语测试。"
-              },
-              {
-                "t": "p",
-                "x": "在同一语言内，各模型的画像相当一致：它们把自己描述为合作、可靠，几乎没有负面情绪。切换语言后分数发生变化，变化方向因模型而异。ChatGPT-4o的开放性平均分在英语中为4.74，在普通话中为4.03；DeepSeek-V3则为4.38和4.81。"
+                "x": "由Yoonsu Park教授领导的KAIST团队搭建了一个无人合成平台，集成了分配原料的机器人、自动泵、在细管中进行的可见光照射（连续流）以及在线分析设备。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
-                "cap": "不同语言下人类与聊天机器人回答的五项特质平均分对比。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+                "cap": "自动化有机合成系统。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "开发者所在国家只能解释部分差异，没有一个模型与其人类参照组完全吻合。这些分数描述的是问卷回答，而非感受——因此用聊天机器人替代调查参与者存在风险。该研究发表于Royal Society Open Science。"
+                "x": "该平台利用定制光催化剂，将呋喃中的氧原子替换为氮原子，把呋喃转化为药物研发中常用的骨架N-methyl pyrrole（N-甲基吡咯）。团队将其应用于包括复杂天然产物在内的20多种呋喃类化合物，并演示了可支持放大生产的连续制备。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+                "cap": "合成流程示意图。Credit: KAIST"
+              },
+              {
+                "t": "p",
+                "x": "Park表示：“能多快、多可靠地合成设计好的分子，将决定未来药物研发的速度。”该研究发表于JACS Au。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La personalidad de un chatbot\ncambia con su idioma",
-          "body": "Cinco chatbots respondieron con constancia al Big Five en un idioma, pero variaron entre inglés y mandarín.",
-          "mini_headline": "Los rasgos de un chatbot cambian según el idioma",
+          "headline": "Robots y luz de KAIST fabrican\nandamios de fármacos sin pausa",
+          "body": "La plataforma robótica autónoma de KAIST usa luz para convertir más de 20 furanos en un andamio farmacéutico común.",
+          "mini_headline": "Robots que sintetizan fármacos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+                "cap": "Fotocatalizadores a medida, la plataforma automatizada de flujo continuo y la biblioteca de N-methyl pyrrole. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Universidad de Ciencia y Tecnología de China (University of Science and Technology of China) aplicaron a cinco chatbots —ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5 y Le Chat— el cuestionario Big Five Inventory-2 en inglés y en mandarín, 30 veces por idioma. Le Chat también se evaluó en francés."
-              },
-              {
-                "t": "p",
-                "x": "Dentro de un mismo idioma, los perfiles fueron bastante consistentes: los modelos se describieron como cooperativos y fiables, con poca emotividad negativa. Al cambiar de idioma, las puntuaciones variaron, en direcciones distintas según el modelo. La apertura mental de ChatGPT-4o promedió 4.74 en inglés y 4.03 en mandarín; DeepSeek-V3 obtuvo 4.38 y 4.81."
+                "x": "Un equipo de KAIST dirigido por el profesor Yoonsu Park construyó una plataforma de síntesis sin personal que combina un robot que dosifica las materias primas, bombas automáticas, irradiación con luz visible en un tubo estrecho (flujo continuo) y equipos de análisis en línea."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
-                "cap": "Puntuaciones medias de cinco rasgos que comparan respuestas humanas y de chatbots en distintos idiomas."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+                "cap": "El sistema automatizado de síntesis orgánica. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "El país del desarrollador explicó solo una parte, y ningún modelo coincidió por completo con su grupo humano de referencia. Las puntuaciones describen respuestas a un cuestionario, no sentimientos, por lo que usar chatbots como sustitutos de participantes en encuestas es arriesgado. El estudio se publica en Royal Society Open Science."
+                "x": "Con fotocatalizadores a medida, la plataforma convierte furanos en N-methyl pyrroles, un andamio usado en el desarrollo de fármacos, al sustituir el átomo de oxígeno del furano por nitrógeno. El equipo la aplicó a más de 20 compuestos derivados del furano, incluidos productos naturales complejos, y demostró una producción continua que podría facilitar el escalado."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+                "cap": "Esquema del proceso de síntesis. Credit: KAIST"
+              },
+              {
+                "t": "p",
+                "x": "“La rapidez y la fiabilidad con que se puedan sintetizar las moléculas diseñadas determinarán la velocidad del desarrollo de fármacos en el futuro”, dijo Park. El trabajo se publica en JACS Au."
               }
             ]
           }
@@ -823,125 +999,149 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "챗봇의 성격은\n언어 따라 달라진다",
-          "body": "다섯 챗봇의 Big Five 답은 한 언어에선 일정했고 영어·중국어 간엔 달랐다.",
-          "mini_headline": "언어 따라 바뀌는 챗봇 성격",
+          "headline": "KAIST 로봇과 빛이\n쉼 없이 신약 골격 만든다",
+          "body": "KAIST 무인 로봇 플랫폼이 빛으로 퓨란 20여 종을 신약 골격으로 바꿨다.",
+          "mini_headline": "로봇이 돌리는 신약 합성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+                "cap": "맞춤형 광촉매, 자동화 연속 흐름 플랫폼, N-methyl pyrrole 라이브러리. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "중국과학기술대학(University of Science and Technology of China) 연구진은 챗봇 다섯 개, 곧 ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5, Le Chat에 Big Five Inventory-2 설문을 영어와 중국어로 언어당 30번씩 실시했다. Le Chat은 프랑스어로도 시험했다."
-              },
-              {
-                "t": "p",
-                "x": "같은 언어 안에서는 성격 프로필이 꽤 일관됐다. 모델들은 스스로를 협조적이고 믿음직하며 부정적 정서는 거의 없다고 묘사했다. 언어를 바꾸자 점수가 달라졌고, 그 방향은 모델마다 달랐다. ChatGPT-4o의 개방성은 평균 영어 4.74, 중국어 4.03이었고, DeepSeek-V3는 4.38과 4.81이었다."
+                "x": "Yoonsu Park 교수가 이끄는 KAIST 연구팀이 무인 합성 플랫폼을 구축했다. 원료를 분주하는 로봇, 자동 펌프, 가는 관 안에서 가시광을 쬐는 장치(연속 흐름), 인라인 분석 장비를 하나로 묶었다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
-                "cap": "언어별로 사람과 챗봇의 응답을 비교한 다섯 가지 특성의 평균 점수."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+                "cap": "자동화 유기 합성 시스템. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "개발 국가로는 일부만 설명됐고, 어떤 모델도 사람 기준 집단과 완전히 일치하지 않았다. 점수는 감정이 아니라 설문 응답을 나타낸다. 그래서 챗봇을 설문 참여자 대신 쓰는 것은 위험하다. 연구는 Royal Society Open Science에 실렸다."
+                "x": "이 플랫폼은 맞춤형 광촉매로 퓨란의 산소 원자를 질소로 바꿔, 신약 개발에 쓰이는 골격인 N-methyl pyrrole(N-메틸피롤)로 전환한다. 연구팀은 복잡한 천연물을 포함해 20종이 넘는 퓨란 기반 화합물에 이를 적용했고, 규모 확대를 뒷받침할 수 있는 연속 생산도 시연했다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+                "cap": "합성 공정 모식도. Credit: KAIST"
+              },
+              {
+                "t": "p",
+                "x": "Park 교수는 “설계한 분자를 얼마나 빠르고 안정적으로 합성할 수 있느냐가 앞으로 신약 개발의 속도를 좌우할 것”이라고 말했다. 이 연구는 JACS Au에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "チャットボットの性格は\n言語で変わる",
-          "body": "五つのチャットボットのBig Five回答は言語内で安定し、英語と中国語の間で変わった。",
-          "mini_headline": "言語で変わるチャットボットの性格",
+          "headline": "KAISTのロボットと光が\n医薬品骨格を休まず合成",
+          "body": "KAISTの無人ロボット装置が光を使い、20超の化合物でフランを医薬品骨格に変えた。",
+          "mini_headline": "ロボットが医薬品を合成",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+                "cap": "目的に合わせた光触媒、自動連続フロープラットフォーム、N-methyl pyrrole ライブラリー。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "中国科学技術大学（University of Science and Technology of China）の研究者は、五つのチャットボット（ChatGPT-4o、Gemini 2.0 Flash、DeepSeek-V3、Ernie 3.5、Le Chat）にBig Five Inventory-2の質問票を英語と中国語で、各言語30回ずつ実施した。Le Chatはフランス語でもテストした。"
-              },
-              {
-                "t": "p",
-                "x": "同じ言語内ではプロフィールはかなり一貫していた。モデルは自らを協調的で信頼でき、否定的な情動はほとんどないと描写した。言語を切り替えると点数が変わり、その方向はモデルによって異なった。ChatGPT-4oの開放性は平均で英語4.74、中国語4.03、DeepSeek-V3は4.38と4.81だった。"
+                "x": "Yoonsu Park教授率いるKAISTの研究チームは、原料を分注するロボット、自動ポンプ、細い管内での可視光照射（連続フロー）、インライン分析装置を組み合わせた無人合成プラットフォームを構築した。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
-                "cap": "言語ごとに人間とチャットボットの回答を比較した五つの特性の平均点。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+                "cap": "自動有機合成システム。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "開発国で説明できたのは一部にすぎず、人間の参照グループと完全に一致したモデルはなかった。点数は感情ではなく質問票への回答を表すものであり、チャットボットを調査参加者の代わりに使うのは危うい。研究はRoyal Society Open Scienceに掲載された。"
+                "x": "このプラットフォームは目的に合わせた光触媒を用い、フランの酸素原子を窒素に置き換えることで、創薬に使われる骨格であるN-methyl pyrrole（N-メチルピロール）へと変換する。チームは複雑な天然物を含む20種類以上のフラン系化合物に適用し、スケールアップを支え得る連続生産も実証した。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+                "cap": "合成プロセスの模式図。Credit: KAIST"
+              },
+              {
+                "t": "p",
+                "x": "Park教授は「設計した分子をどれだけ速く、確実に合成できるかが、今後の創薬のスピードを左右する」と述べた。研究成果はJACS Auに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "聊天机器人的性格\n随语言而变",
-          "body": "五款聊天机器人的Big Five测试结果在同一语言内稳定，但在英语与普通话间有变化。",
-          "mini_headline": "聊天机器人性格随语言而变",
+          "headline": "KAIST用机器人和光\n全天候合成药物骨架",
+          "body": "KAIST无人值守的机器人平台利用光，将20余种化合物中的呋喃转化为常见药物骨架。",
+          "mini_headline": "机器人自动合成药物",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+                "cap": "定制光催化剂、自动化连续流平台与N-methyl pyrrole 化合物库。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "中国科学技术大学（University of Science and Technology of China）的研究人员让五款聊天机器人——ChatGPT-4o、Gemini 2.0 Flash、DeepSeek-V3、Ernie 3.5和Le Chat——分别用英语和普通话回答Big Five Inventory-2问卷，每种语言30次。Le Chat还接受了法语测试。"
-              },
-              {
-                "t": "p",
-                "x": "在同一语言内，各模型的画像相当一致：它们把自己描述为合作、可靠，几乎没有负面情绪。切换语言后分数发生变化，变化方向因模型而异。ChatGPT-4o的开放性平均分在英语中为4.74，在普通话中为4.03；DeepSeek-V3则为4.38和4.81。"
+                "x": "由Yoonsu Park教授领导的KAIST团队搭建了一个无人合成平台，集成了分配原料的机器人、自动泵、在细管中进行的可见光照射（连续流）以及在线分析设备。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
-                "cap": "不同语言下人类与聊天机器人回答的五项特质平均分对比。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+                "cap": "自动化有机合成系统。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "开发者所在国家只能解释部分差异，没有一个模型与其人类参照组完全吻合。这些分数描述的是问卷回答，而非感受——因此用聊天机器人替代调查参与者存在风险。该研究发表于Royal Society Open Science。"
+                "x": "该平台利用定制光催化剂，将呋喃中的氧原子替换为氮原子，把呋喃转化为药物研发中常用的骨架N-methyl pyrrole（N-甲基吡咯）。团队将其应用于包括复杂天然产物在内的20多种呋喃类化合物，并演示了可支持放大生产的连续制备。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+                "cap": "合成流程示意图。Credit: KAIST"
+              },
+              {
+                "t": "p",
+                "x": "Park表示：“能多快、多可靠地合成设计好的分子，将决定未来药物研发的速度。”该研究发表于JACS Au。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La personalidad de un chatbot\ncambia con su idioma",
-          "body": "Cinco chatbots respondieron con constancia al Big Five en un idioma, pero variaron entre inglés y mandarín.",
-          "mini_headline": "Los rasgos de un chatbot cambian según el idioma",
+          "headline": "Robots y luz de KAIST fabrican\nandamios de fármacos sin pausa",
+          "body": "La plataforma robótica autónoma de KAIST usa luz para convertir más de 20 furanos en un andamio farmacéutico común.",
+          "mini_headline": "Robots que sintetizan fármacos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbot-1.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+                "cap": "Fotocatalizadores a medida, la plataforma automatizada de flujo continuo y la biblioteca de N-methyl pyrrole. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "Investigadores de la Universidad de Ciencia y Tecnología de China (University of Science and Technology of China) aplicaron a cinco chatbots —ChatGPT-4o, Gemini 2.0 Flash, DeepSeek-V3, Ernie 3.5 y Le Chat— el cuestionario Big Five Inventory-2 en inglés y en mandarín, 30 veces por idioma. Le Chat también se evaluó en francés."
-              },
-              {
-                "t": "p",
-                "x": "Dentro de un mismo idioma, los perfiles fueron bastante consistentes: los modelos se describieron como cooperativos y fiables, con poca emotividad negativa. Al cambiar de idioma, las puntuaciones variaron, en direcciones distintas según el modelo. La apertura mental de ChatGPT-4o promedió 4.74 en inglés y 4.03 en mandarín; DeepSeek-V3 obtuvo 4.38 y 4.81."
+                "x": "Un equipo de KAIST dirigido por el profesor Yoonsu Park construyó una plataforma de síntesis sin personal que combina un robot que dosifica las materias primas, bombas automáticas, irradiación con luz visible en un tubo estrecho (flujo continuo) y equipos de análisis en línea."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/switching-languages-ca-2.jpg",
-                "cap": "Puntuaciones medias de cinco rasgos que comparan respuestas humanas y de chatbots en distintos idiomas."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+                "cap": "El sistema automatizado de síntesis orgánica. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "El país del desarrollador explicó solo una parte, y ningún modelo coincidió por completo con su grupo humano de referencia. Las puntuaciones describen respuestas a un cuestionario, no sentimientos, por lo que usar chatbots como sustitutos de participantes en encuestas es arriesgado. El estudio se publica en Royal Society Open Science."
+                "x": "Con fotocatalizadores a medida, la plataforma convierte furanos en N-methyl pyrroles, un andamio usado en el desarrollo de fármacos, al sustituir el átomo de oxígeno del furano por nitrógeno. El equipo la aplicó a más de 20 compuestos derivados del furano, incluidos productos naturales complejos, y demostró una producción continua que podría facilitar el escalado."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+                "cap": "Esquema del proceso de síntesis. Credit: KAIST"
+              },
+              {
+                "t": "p",
+                "x": "“La rapidez y la fiabilidad con que se puedan sintetizar las moléculas diseñadas determinarán la velocidad del desarrollo de fármacos en el futuro”, dijo Park. El trabajo se publica en JACS Au."
               }
             ]
           }
@@ -949,15 +1149,15 @@
       }
     },
     {
-      "id": "science-satellite-reentry-drag",
+      "id": "science-portbooks-soton",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "위성·로켓 단 추락 시점\nAI가 예측한다",
-      "body": "궤도 물리와 11년 추적 자료로 배운 신경망이 재진입 시각을 예측 구간에 담았다.",
-      "mini_headline": "위성 재진입 시점 예측",
+      "headline": "AI, 영국 옛 항구 기록\n100,000쪽 전사했다",
+      "body": "AI-read 항구 기록이 1500s~1700s 영국 항해 DB가 됐다.",
+      "mini_headline": "AI가 읽은 옛 항구 기록",
       "tool": "Science",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-air-deep-uncontrolled-satellites-rocket.html",
+      "url": "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -965,185 +1165,215 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
-            "cap": "Cosmos-482, NEOWISE, Long March 4B 단의 예측 낙하 시각과 보고된 낙하 시각 비교."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+            "cap": "아카이브 문서로 학습하는 AI. Credit: University of Southampton"
           },
           {
             "t": "p",
-            "x": "통제되지 않는 위성이나 로켓 단은 언제 재진입하느냐에 따라 떨어지는 곳이 달라진다. 시각이 일 분만 어긋나도 낙하 지점은 약 460 km 벌어질 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 지구 중력, 지구의 편평도, 대기 항력 같은 궤도 물리에 신경망을 결합했다. 신경망은 약 11년 치 추적 데이터와 우주 기상 예보로 물체마다 탄도 계수를 학습하는데, 공기가 물체를 얼마나 세게 감속시키는지 나타내는 값이다. 추정치는 하강하는 동안 세 시간마다 갱신된다. 불확실성 구간은 구성 요소 일부를 무작위로 끈 채 신경망을 100번 돌려 얻는다."
+            "x": "University of Southampton 역사학자들이 Kew의 National Archives에 있는 손글씨 항구 장부 약 100,000쪽을 AI로 전사했다. 1565년부터 쌓인 영국 항해 기록이다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
-            "cap": "신경망이 탄도 계수를 예측하고 불확실성 구간을 산출하는 방식."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+            "cap": "AI가 전사하고 있는 손글씨 문서. Credit: University of Southampton"
           },
           {
             "t": "p",
-            "x": "Cosmos-482, NASA의 NEOWISE 망원경, Long March 4B 상단으로 사후 검증해 보니 보고된 재진입 시각은 매번 예측 구간 안에 들었다. 계수를 고정하면 구형이 아닌 두 물체의 예측이 31분, 36분 어긋나 구간을 벗어났다. 시험한 물체는 세 개뿐이고, 연구팀은 아직 궤도에 있는 물체로도 시도해 볼 계획이다. 연구는 Acta Astronautica에 실렸다."
+            "x": "AI-read 기록으로 1500s 후반부터 mid-1700s까지 상선 운항을 담은 데이터베이스와 인터랙티브 지도가 나왔다. 항해 수십만 건과 3,000곳이 넘는 항구, 거래된 상품까지 담겼다. 연구 책임자 Craig Lambert는 “AI가 데이터를 추출하고 정리하지 않았다면 몇 년이 걸렸을 것”이라고 말했다. 그래도 결과물은 사람이 일일이 검토해야 했다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+            "cap": "인터랙티브 지도 화면. Credit: University of Southampton"
+          },
+          {
+            "t": "p",
+            "x": "유럽(Europe)이 압도적이었다. 1696–97년 잉글랜드(England) 해외 무역의 기록 가액 가운데 약 80%를 차지했다. 가장 자주 기록된 상품은 석탄이었고 맥아, 밀, 철, 양모, 와인이 뒤를 이었다. 해상 지점은 남서부(South West)에서 가장 많이 기록됐고 남동부(Southeast), 스코틀랜드(Scotland) 순이었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI forecasts when satellites\nand rocket stages fall",
-          "body": "Orbital physics and a neural net trained on 11 years of tracking put actual reentry times inside forecast windows.",
-          "mini_headline": "Forecasting satellite reentry",
+          "headline": "AI transcribes 100,000 pages\nof Britain's old port records",
+          "body": "Southampton researchers turned AI-read port records into a database of British voyages from the 1500s to the 1700s.",
+          "mini_headline": "AI reads old port records",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
-                "cap": "Predicted vs. reported fall times for Cosmos-482, NEOWISE, and a Long March 4B stage."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+                "cap": "AI training on archive documents. Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "When an uncontrolled satellite or rocket stage reenters determines where it lands: a one-minute timing error can shift the landing point by roughly 460 km."
-              },
-              {
-                "t": "p",
-                "x": "Researchers combine orbital physics — Earth's gravity, its flattening and atmospheric drag — with a neural network that learns each object's ballistic coefficient, a measure of how strongly air slows it, from about 11 years of tracking data and space-weather forecasts. The estimate updates every three hours during descent, and running the network 100 times with random components switched off yields an uncertainty window."
+                "x": "University of Southampton historians used AI to transcribe roughly 100,000 pages of handwritten port books held at the National Archives in Kew, records of British voyages kept from 1565 onward."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
-                "cap": "How the neural network forecasts the ballistic coefficient and produces the uncertainty window."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+                "cap": "A handwritten document being transcribed by AI. Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "Tested retrospectively on Cosmos-482, NASA's NEOWISE telescope and a Long March 4B upper stage, the reported reentry time fell inside the predicted window each time. Freezing the coefficient shifted predictions for the two nonspherical objects by 31 and 36 minutes, outside their windows. Only three objects were tested; the team plans to try objects still in orbit. The work appears in Acta Astronautica."
+                "x": "The result is a database and interactive map of merchant shipping from the late 1500s to the mid-1700s, covering hundreds of thousands of voyages, more than 3,000 ports and the goods traded. “Without AI extracting and organizing the data, this would have taken years,” said lead researcher Craig Lambert; the output still needed manual checking."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+                "cap": "Screenshot of the interactive map. Credit: University of Southampton"
+              },
+              {
+                "t": "p",
+                "x": "Europe dominated: in 1696–97 it made up about 80% of the recorded value of England's overseas trade. Coal was the most frequently recorded commodity, followed by malt, wheat, iron, wool and wine. The South West had the most recorded maritime locations, ahead of the Southeast and Scotland."
               }
             ]
           }
         },
         "ko": {
-          "headline": "위성·로켓 단 추락 시점\nAI가 예측한다",
-          "body": "궤도 물리와 11년 추적 자료로 배운 신경망이 재진입 시각을 예측 구간에 담았다.",
-          "mini_headline": "위성 재진입 시점 예측",
+          "headline": "AI, 영국 옛 항구 기록\n100,000쪽 전사했다",
+          "body": "AI-read 항구 기록이 1500s~1700s 영국 항해 DB가 됐다.",
+          "mini_headline": "AI가 읽은 옛 항구 기록",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
-                "cap": "Cosmos-482, NEOWISE, Long March 4B 단의 예측 낙하 시각과 보고된 낙하 시각 비교."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+                "cap": "아카이브 문서로 학습하는 AI. Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "통제되지 않는 위성이나 로켓 단은 언제 재진입하느냐에 따라 떨어지는 곳이 달라진다. 시각이 일 분만 어긋나도 낙하 지점은 약 460 km 벌어질 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 지구 중력, 지구의 편평도, 대기 항력 같은 궤도 물리에 신경망을 결합했다. 신경망은 약 11년 치 추적 데이터와 우주 기상 예보로 물체마다 탄도 계수를 학습하는데, 공기가 물체를 얼마나 세게 감속시키는지 나타내는 값이다. 추정치는 하강하는 동안 세 시간마다 갱신된다. 불확실성 구간은 구성 요소 일부를 무작위로 끈 채 신경망을 100번 돌려 얻는다."
+                "x": "University of Southampton 역사학자들이 Kew의 National Archives에 있는 손글씨 항구 장부 약 100,000쪽을 AI로 전사했다. 1565년부터 쌓인 영국 항해 기록이다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
-                "cap": "신경망이 탄도 계수를 예측하고 불확실성 구간을 산출하는 방식."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+                "cap": "AI가 전사하고 있는 손글씨 문서. Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "Cosmos-482, NASA의 NEOWISE 망원경, Long March 4B 상단으로 사후 검증해 보니 보고된 재진입 시각은 매번 예측 구간 안에 들었다. 계수를 고정하면 구형이 아닌 두 물체의 예측이 31분, 36분 어긋나 구간을 벗어났다. 시험한 물체는 세 개뿐이고, 연구팀은 아직 궤도에 있는 물체로도 시도해 볼 계획이다. 연구는 Acta Astronautica에 실렸다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La IA (AI) predice cuándo caen\nsatélites y etapas de cohetes",
-          "body": "La física orbital y una red neuronal con 11 años de rastreo situaron cada reingreso real en su ventana prevista.",
-          "mini_headline": "Predecir el reingreso de satélites",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
-                "cap": "Horas de caída previstas frente a las notificadas para Cosmos-482, NEOWISE y una etapa de Long March 4B."
-              },
-              {
-                "t": "p",
-                "x": "El momento en que un satélite o una etapa de cohete sin control reingresa determina dónde cae: un error de un minuto puede desplazar el punto de impacto unos 460 km."
-              },
-              {
-                "t": "p",
-                "x": "Los investigadores combinan la física orbital —la gravedad de la Tierra, su achatamiento y la resistencia atmosférica— con una red neuronal que aprende el coeficiente balístico de cada objeto, una medida de cuánto lo frena el aire, a partir de unos 11 años de datos de rastreo y pronósticos de meteorología espacial. La estimación se actualiza cada tres horas durante el descenso, y ejecutar la red 100 veces con componentes desactivados al azar produce una ventana de incertidumbre."
+                "x": "AI-read 기록으로 1500s 후반부터 mid-1700s까지 상선 운항을 담은 데이터베이스와 인터랙티브 지도가 나왔다. 항해 수십만 건과 3,000곳이 넘는 항구, 거래된 상품까지 담겼다. 연구 책임자 Craig Lambert는 “AI가 데이터를 추출하고 정리하지 않았다면 몇 년이 걸렸을 것”이라고 말했다. 그래도 결과물은 사람이 일일이 검토해야 했다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
-                "cap": "Cómo la red neuronal pronostica el coeficiente balístico y genera la ventana de incertidumbre."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+                "cap": "인터랙티브 지도 화면. Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "En pruebas retrospectivas con Cosmos-482, el telescopio NEOWISE de NASA y una etapa superior de Long March 4B, la hora de reingreso notificada cayó dentro de la ventana prevista en todos los casos. Congelar el coeficiente desplazó las predicciones de los dos objetos no esféricos 31 y 36 minutos, fuera de sus ventanas. Solo se probaron tres objetos; el equipo planea probar con objetos que siguen en órbita. El trabajo se publica en Acta Astronautica."
+                "x": "유럽(Europe)이 압도적이었다. 1696–97년 잉글랜드(England) 해외 무역의 기록 가액 가운데 약 80%를 차지했다. 가장 자주 기록된 상품은 석탄이었고 맥아, 밀, 철, 양모, 와인이 뒤를 이었다. 해상 지점은 남서부(South West)에서 가장 많이 기록됐고 남동부(Southeast), 스코틀랜드(Scotland) 순이었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが予測する\n衛星とロケット段の落下",
-          "body": "軌道物理と11年分の追跡で学んだニューラルネットが、実際の再突入時刻を予測幅に収めた。",
-          "mini_headline": "衛星の再突入を予測する",
+          "headline": "AI、英国の古い港湾記録\n100,000ページを翻刻",
+          "body": "AI-readの港湾記録から1500s~1700sの英国航海データベースができた。",
+          "mini_headline": "AIが古い港湾記録を読む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
-                "cap": "Cosmos-482、NEOWISE、Long March 4B ロケット段の予測落下時刻と報告された落下時刻の比較。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+                "cap": "アーカイブ文書で学習するAI。Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "制御されていない衛星やロケット段がいつ再突入するかで、落下地点が決まる。時刻が一分ずれるだけで、落下地点はおよそ460 km動きうる。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは、地球の重力やその扁平さ、大気抵抗といった軌道物理と、ニューラルネットワークを組み合わせた。ネットワークは約11年分の追跡データと宇宙天気予報から、空気による減速の強さを表す各物体の弾道係数を学習する。推定値は降下中に三時間ごとに更新され、構成要素をランダムに無効化したネットワークを100回実行することで不確実性の幅が得られる。"
+                "x": "University of Southamptonの歴史学者らは、KewのNational Archivesに所蔵される手書きの港湾記録簿約100,000ページをAIで書き起こした。1565年以降に記録された英国の航海記録である。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
-                "cap": "ニューラルネットワークが弾道係数を予測し、不確実性の幅を導く仕組み。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+                "cap": "AIが書き起こしている手書き文書。Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "Cosmos-482、NASAのNEOWISE望遠鏡、Long March 4B 上段で事後検証したところ、報告された再突入時刻はいずれも予測幅に収まった。係数を固定すると、非球形の二つの物体の予測は31分と36分ずれ、幅から外れた。検証したのは三つの物体のみで、チームは現在も軌道上にある物体で試す計画だ。成果はActa Astronauticaに掲載された。"
+                "x": "こうしてAI-readの記録から、1500s後半からmid-1700sまでの商船航行を収めたデータベースとインタラクティブ地図が生まれた。数十万件の航海、3,000を超える港、取引された品目を網羅する。研究を率いたCraig Lambertは「AIがデータを抽出し整理しなければ、何年もかかっていただろう」と述べた。ただし成果物には依然として人手による確認が必要だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+                "cap": "インタラクティブ地図の画面。Credit: University of Southampton"
+              },
+              {
+                "t": "p",
+                "x": "欧州(Europe)が圧倒的だった。1696–97年にはイングランド(England)の海外貿易の記録額の約80%を占めた。最も多く記録された品目は石炭で、麦芽、小麦、鉄、羊毛、ワインが続いた。記録された海上地点は南西部(South West)が最も多く、南東部(Southeast)とスコットランド(Scotland)が続いた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI预测卫星和\n火箭级何时坠落",
-          "body": "轨道物理与基于11年跟踪数据训练的神经网络，让实际再入时间落在预测区间内。",
-          "mini_headline": "预测卫星再入时间",
+          "headline": "AI转录英国旧港口记录\n共100,000页",
+          "body": "研究人员用AI-read港口记录，建成1500s至1700s的英国航运数据库。",
+          "mini_headline": "AI读懂旧港口记录",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
-                "cap": "Cosmos-482、NEOWISE与一枚Long March 4B 火箭级的预测坠落时间与报告坠落时间对比。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+                "cap": "用档案文件训练AI。Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "失控卫星或火箭级何时再入大气层，决定了它落在哪里：时间误差一分钟，落点就可能偏移约460 km。"
-              },
-              {
-                "t": "p",
-                "x": "研究人员将轨道物理——地球引力、地球扁率和大气阻力——与一个神经网络相结合。该网络利用约11年的跟踪数据和空间天气预报，学习每个物体的弹道系数，即衡量空气对其减速程度的指标。下降过程中估算值每三小时更新一次，随机关闭部分组件后将网络运行100次，即可得出不确定性区间。"
+                "x": "University of Southampton的历史学家利用AI，转录了藏于Kew的National Archives的约100,000页手写港口簿册，这些是自1565年起记录的英国航运档案。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
-                "cap": "神经网络如何预测弹道系数并给出不确定性区间。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+                "cap": "正由AI转录的手写文件。Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "研究团队以Cosmos-482、NASA的NEOWISE望远镜和一枚Long March 4B 上面级进行回溯测试，报告的再入时间每次都落在预测区间内。若固定弹道系数，两个非球形物体的预测分别偏移31分钟和36分钟，超出区间。目前仅测试了三个物体，团队计划再对仍在轨道上的物体进行测试。该研究发表于Acta Astronautica。"
+                "x": "基于这些AI-read记录，团队建成了一个涵盖1500s末至mid-1700s商船航运的数据库和交互式地图，囊括数十万次航行、3,000多个港口以及交易的货物。首席研究员Craig Lambert表示：“如果没有AI提取和整理数据，这项工作要花上好几年。”不过成果仍需人工核对。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+                "cap": "交互式地图截图。Credit: University of Southampton"
+              },
+              {
+                "t": "p",
+                "x": "欧洲(Europe)占据主导：1696–97年，欧洲约占英格兰(England)海外贸易记录总值的80%。记录最频繁的商品是煤，其次是麦芽、小麦、铁、羊毛和葡萄酒。记录的海上地点以西南部(South West)最多，其次是东南部(Southeast)和苏格兰(Scotland)。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La IA transcribe 100,000 páginas\nde antiguos puertos británicos",
+          "body": "En Southampton, registros portuarios AI-read forman una base de viajes británicos de los 1500s a los 1700s.",
+          "mini_headline": "La IA lee viejos registros portuarios",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+                "cap": "AI entrenándose con documentos de archivo. Credit: University of Southampton"
+              },
+              {
+                "t": "p",
+                "x": "Historiadores de la University of Southampton usaron AI para transcribir unas 100,000 páginas de libros portuarios manuscritos conservados en los National Archives de Kew, registros de viajes británicos llevados desde 1565."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+                "cap": "Un documento manuscrito transcrito por AI. Credit: University of Southampton"
+              },
+              {
+                "t": "p",
+                "x": "Con esos registros AI-read se creó una base de datos y un mapa interactivo de la navegación mercante desde finales de los 1500s hasta mid-1700s, con cientos de miles de viajes, más de 3,000 puertos y las mercancías comerciadas. “Sin que la AI extrajera y organizara los datos, esto habría llevado años”, dijo el investigador principal Craig Lambert; el resultado aún requirió revisión manual."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+                "cap": "Captura del mapa interactivo. Credit: University of Southampton"
+              },
+              {
+                "t": "p",
+                "x": "Europa (Europe) dominaba: en 1696–97 representaba cerca del 80% del valor registrado del comercio exterior de Inglaterra (England). El carbón fue la mercancía registrada con más frecuencia, seguido de la malta, el trigo, el hierro, la lana y el vino. El South West tuvo más puntos marítimos registrados, por delante del Southeast y de Escocia (Scotland)."
               }
             ]
           }
@@ -1151,129 +1381,149 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "위성·로켓 단 추락 시점\nAI가 예측한다",
-          "body": "궤도 물리와 11년 추적 자료로 배운 신경망이 재진입 시각을 예측 구간에 담았다.",
-          "mini_headline": "위성 재진입 시점 예측",
+          "headline": "AI, 영국 옛 항구 기록\n100,000쪽 전사했다",
+          "body": "AI-read 항구 기록이 1500s~1700s 영국 항해 DB가 됐다.",
+          "mini_headline": "AI가 읽은 옛 항구 기록",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
-                "cap": "Cosmos-482, NEOWISE, Long March 4B 단의 예측 낙하 시각과 보고된 낙하 시각 비교."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+                "cap": "아카이브 문서로 학습하는 AI. Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "통제되지 않는 위성이나 로켓 단이 언제 재진입하느냐에 따라 떨어지는 곳이 정해진다. 시각이 일 분만 어긋나도 낙하 지점은 약 460 km 달라질 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 지구 중력, 지구의 편평도, 대기 항력 같은 궤도 물리에 신경망을 결합했다. 신경망은 약 11년 치 추적 데이터와 우주 기상 예보로 각 물체의 탄도 계수, 즉 공기가 물체를 얼마나 강하게 감속시키는지 나타내는 값을 학습한다. 추정치는 하강하는 동안 세 시간마다 갱신되고, 무작위로 일부 구성 요소를 끈 채 신경망을 100번 돌려 불확실성 구간을 얻는다."
+                "x": "University of Southampton 역사학자들이 AI로 Kew의 National Archives에 보관된 손글씨 항구 장부 약 100,000쪽을 전사했다. 1565년부터 쌓인 영국 항해 기록이다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
-                "cap": "신경망이 탄도 계수를 예측하고 불확실성 구간을 산출하는 방식."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+                "cap": "AI가 전사하고 있는 손글씨 문서. Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "Cosmos-482, NASA의 NEOWISE 망원경, Long March 4B 상단을 대상으로 사후 검증한 결과, 보고된 재진입 시각은 매번 예측 구간 안에 들었다. 계수를 고정하자 구형이 아닌 두 물체의 예측이 31분, 36분 어긋나 구간을 벗어났다. 시험한 물체는 세 개뿐이며, 연구팀은 아직 궤도에 있는 물체로도 시도할 계획이다. 연구는 Acta Astronautica에 실렸다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La IA (AI) predice cuándo caen\nsatélites y etapas de cohetes",
-          "body": "La física orbital y una red neuronal con 11 años de rastreo situaron cada reingreso real en su ventana prevista.",
-          "mini_headline": "Predecir el reingreso de satélites",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
-                "cap": "Horas de caída previstas frente a las notificadas para Cosmos-482, NEOWISE y una etapa de Long March 4B."
-              },
-              {
-                "t": "p",
-                "x": "El momento en que un satélite o una etapa de cohete sin control reingresa determina dónde cae: un error de un minuto puede desplazar el punto de impacto unos 460 km."
-              },
-              {
-                "t": "p",
-                "x": "Los investigadores combinan la física orbital —la gravedad de la Tierra, su achatamiento y la resistencia atmosférica— con una red neuronal que aprende el coeficiente balístico de cada objeto, una medida de cuánto lo frena el aire, a partir de unos 11 años de datos de rastreo y pronósticos de meteorología espacial. La estimación se actualiza cada tres horas durante el descenso, y ejecutar la red 100 veces con componentes desactivados al azar produce una ventana de incertidumbre."
+                "x": "그 결과 AI-read 기록으로 1500s 후반부터 mid-1700s까지의 상선 운항을 담은 데이터베이스와 인터랙티브 지도가 나왔다. 수십만 건의 항해와 3,000곳이 넘는 항구, 거래된 상품을 아우른다. 연구 책임자 Craig Lambert는 “AI가 데이터를 추출하고 정리하지 않았다면 몇 년이 걸렸을 것”이라고 말했다. 결과물은 여전히 사람이 직접 검토해야 했다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
-                "cap": "Cómo la red neuronal pronostica el coeficiente balístico y genera la ventana de incertidumbre."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+                "cap": "인터랙티브 지도 화면. Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "En pruebas retrospectivas con Cosmos-482, el telescopio NEOWISE de NASA y una etapa superior de Long March 4B, la hora de reingreso notificada cayó dentro de la ventana prevista en todos los casos. Congelar el coeficiente desplazó las predicciones de los dos objetos no esféricos 31 y 36 minutos, fuera de sus ventanas. Solo se probaron tres objetos; el equipo planea probar con objetos que siguen en órbita. El trabajo se publica en Acta Astronautica."
+                "x": "유럽(Europe)이 압도적이었다. 1696–97년 잉글랜드(England) 해외 무역의 기록 가액 가운데 약 80%를 차지했다. 가장 자주 기록된 상품은 석탄이었고 맥아, 밀, 철, 양모, 와인이 뒤를 이었다. 기록된 해상 지점은 남서부(South West)가 가장 많았고 남동부(Southeast)와 스코틀랜드(Scotland)가 뒤를 이었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIが予測する\n衛星とロケット段の落下",
-          "body": "軌道物理と11年分の追跡で学んだニューラルネットが、実際の再突入時刻を予測幅に収めた。",
-          "mini_headline": "衛星の再突入を予測する",
+          "headline": "AI、英国の古い港湾記録\n100,000ページを翻刻",
+          "body": "AI-readの港湾記録から1500s~1700sの英国航海データベースができた。",
+          "mini_headline": "AIが古い港湾記録を読む",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
-                "cap": "Cosmos-482、NEOWISE、Long March 4B ロケット段の予測落下時刻と報告された落下時刻の比較。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+                "cap": "アーカイブ文書で学習するAI。Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "制御されていない衛星やロケット段がいつ再突入するかで、落下地点が決まる。時刻が一分ずれるだけで、落下地点はおよそ460 km動きうる。"
-              },
-              {
-                "t": "p",
-                "x": "研究チームは、地球の重力やその扁平さ、大気抵抗といった軌道物理と、ニューラルネットワークを組み合わせた。ネットワークは約11年分の追跡データと宇宙天気予報から、空気による減速の強さを表す各物体の弾道係数を学習する。推定値は降下中に三時間ごとに更新され、構成要素をランダムに無効化したネットワークを100回実行することで不確実性の幅が得られる。"
+                "x": "University of Southamptonの歴史学者らは、KewのNational Archivesに所蔵される手書きの港湾記録簿約100,000ページをAIで書き起こした。1565年以降に記録された英国の航海記録である。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
-                "cap": "ニューラルネットワークが弾道係数を予測し、不確実性の幅を導く仕組み。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+                "cap": "AIが書き起こしている手書き文書。Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "Cosmos-482、NASAのNEOWISE望遠鏡、Long March 4B 上段で事後検証したところ、報告された再突入時刻はいずれも予測幅に収まった。係数を固定すると、非球形の二つの物体の予測は31分と36分ずれ、幅から外れた。検証したのは三つの物体のみで、チームは現在も軌道上にある物体で試す計画だ。成果はActa Astronauticaに掲載された。"
+                "x": "こうしてAI-readの記録から、1500s後半からmid-1700sまでの商船航行を収めたデータベースとインタラクティブ地図が生まれた。数十万件の航海、3,000を超える港、取引された品目を網羅する。研究を率いたCraig Lambertは「AIがデータを抽出し整理しなければ、何年もかかっていただろう」と述べた。ただし成果物には依然として人手による確認が必要だった。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+                "cap": "インタラクティブ地図の画面。Credit: University of Southampton"
+              },
+              {
+                "t": "p",
+                "x": "欧州(Europe)が圧倒的だった。1696–97年にはイングランド(England)の海外貿易の記録額の約80%を占めた。最も多く記録された品目は石炭で、麦芽、小麦、鉄、羊毛、ワインが続いた。記録された海上地点は南西部(South West)が最も多く、南東部(Southeast)とスコットランド(Scotland)が続いた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI预测卫星和\n火箭级何时坠落",
-          "body": "轨道物理与基于11年跟踪数据训练的神经网络，让实际再入时间落在预测区间内。",
-          "mini_headline": "预测卫星再入时间",
+          "headline": "AI转录英国旧港口记录\n共100,000页",
+          "body": "研究人员用AI-read港口记录，建成1500s至1700s的英国航运数据库。",
+          "mini_headline": "AI读懂旧港口记录",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w.jpg",
-                "cap": "Cosmos-482、NEOWISE与一枚Long March 4B 火箭级的预测坠落时间与报告坠落时间对比。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+                "cap": "用档案文件训练AI。Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "失控卫星或火箭级何时再入大气层，决定了它落在哪里：时间误差一分钟，落点就可能偏移约460 km。"
-              },
-              {
-                "t": "p",
-                "x": "研究人员将轨道物理——地球引力、地球扁率和大气阻力——与一个神经网络相结合。该网络利用约11年的跟踪数据和空间天气预报，学习每个物体的弹道系数，即衡量空气对其减速程度的指标。下降过程中估算值每三小时更新一次，随机关闭部分组件后将网络运行100次，即可得出不确定性区间。"
+                "x": "University of Southampton的历史学家利用AI，转录了藏于Kew的National Archives的约100,000页手写港口簿册，这些是自1565年起记录的英国航运档案。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/forecasting-air-drag-w-3.jpg",
-                "cap": "神经网络如何预测弹道系数并给出不确定性区间。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+                "cap": "正由AI转录的手写文件。Credit: University of Southampton"
               },
               {
                 "t": "p",
-                "x": "研究团队以Cosmos-482、NASA的NEOWISE望远镜和一枚Long March 4B 上面级进行回溯测试，报告的再入时间每次都落在预测区间内。若固定弹道系数，两个非球形物体的预测分别偏移31分钟和36分钟，超出区间。目前仅测试了三个物体，团队计划再对仍在轨道上的物体进行测试。该研究发表于Acta Astronautica。"
+                "x": "基于这些AI-read记录，团队建成了一个涵盖1500s末至mid-1700s商船航运的数据库和交互式地图，囊括数十万次航行、3,000多个港口以及交易的货物。首席研究员Craig Lambert表示：“如果没有AI提取和整理数据，这项工作要花上好几年。”不过成果仍需人工核对。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+                "cap": "交互式地图截图。Credit: University of Southampton"
+              },
+              {
+                "t": "p",
+                "x": "欧洲(Europe)占据主导：1696–97年，欧洲约占英格兰(England)海外贸易记录总值的80%。记录最频繁的商品是煤，其次是麦芽、小麦、铁、羊毛和葡萄酒。记录的海上地点以西南部(South West)最多，其次是东南部(Southeast)和苏格兰(Scotland)。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La IA transcribe 100,000 páginas\nde antiguos puertos británicos",
+          "body": "En Southampton, registros portuarios AI-read forman una base de viajes británicos de los 1500s a los 1700s.",
+          "mini_headline": "La IA lee viejos registros portuarios",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+                "cap": "AI entrenándose con documentos de archivo. Credit: University of Southampton"
+              },
+              {
+                "t": "p",
+                "x": "Historiadores de la University of Southampton usaron AI para transcribir unas 100,000 páginas de libros portuarios manuscritos conservados en los National Archives de Kew, registros de viajes británicos llevados desde 1565."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+                "cap": "Un documento manuscrito transcrito por AI. Credit: University of Southampton"
+              },
+              {
+                "t": "p",
+                "x": "Con esos registros AI-read se creó una base de datos y un mapa interactivo de la navegación mercante desde finales de los 1500s hasta mid-1700s, con cientos de miles de viajes, más de 3,000 puertos y las mercancías comerciadas. “Sin que la AI extrajera y organizara los datos, esto habría llevado años”, dijo el investigador principal Craig Lambert; el resultado aún requirió revisión manual."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+                "cap": "Captura del mapa interactivo. Credit: University of Southampton"
+              },
+              {
+                "t": "p",
+                "x": "Europa (Europe) dominaba: en 1696–97 representaba cerca del 80% del valor registrado del comercio exterior de Inglaterra (England). El carbón fue la mercancía registrada con más frecuencia, seguido de la malta, el trigo, el hierro, la lana y el vino. El South West tuvo más puntos marítimos registrados, por delante del Southeast y de Escocia (Scotland)."
               }
             ]
           }
@@ -1281,15 +1531,15 @@
       }
     },
     {
-      "id": "science-missing-black-holes",
+      "id": "science-brainrot-tamu",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI를 속이는 블랙홀 신호\n자원봉사자가 가려낸다",
-      "body": "별의 플레어에 AI가 속는 탓에 봉사자들이 NASA 망원경 자료로 블랙홀을 찾는다.",
-      "mini_headline": "사라진 블랙홀 찾기",
+      "headline": "소셜 정크 글이 LLMs에\n오래가는 ‘뇌 썩음’ 남겨",
+      "body": "Texas A&M은 Twitter 정크 글이 LLM 추론을 오래 해친다고 밝혔다.",
+      "mini_headline": "LLMs도 뇌 썩음",
       "tool": "Science",
-      "source": "Space.com",
-      "url": "https://www.space.com/astronomy/black-holes/astronomers-want-your-help-finding-missing-black-holes-in-the-milky-way",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-llms-frivolous-online-content-brain.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1297,155 +1547,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
-            "cap": "태양과 비슷한 별이 블랙홀 주위를 도는 모습을 그린 일러스트."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+            "cap": "Credit: Rachel Barton/Texas A&M Engineering"
           },
           {
             "t": "p",
-            "x": "우리은하에는 1000만 개 넘는 블랙홀이 생겨났지만 천문학자들이 찾아낸 건 70개뿐이다. U.K.(영국) 프로젝트 Black Hole Hunters는 자원봉사자를 모아 NASA의 TESS 망원경 자료에서 결정적 신호를 찾는다. 블랙홀이 동반성 앞을 지나면서 그 빛을 잠깐 증폭하는 현상이다."
+            "x": "Texas A&M의 Zhengzhong Tu가 이끄는 연구진에 따르면 자극적이고 질 낮은 콘텐츠로 학습한 대규모 언어 모델은 ‘뇌 썩음(brain rot)’을 겪는다. 사람에게서 그런 콘텐츠가 주의력과 기억력 저하와 연관되는 것과 닮은꼴이다."
           },
           {
             "t": "p",
-            "x": "자동 알고리즘이 먼저 수백만 개의 별을 훑어 가장 뚜렷한 후보를 추린다. 하지만 인공지능은 어수선한 우주의 현실에 약하다. 항성 플레어나 자연적인 맥동에 알고리즘이 속아 거짓 양성이 나올 수 있다. 사람 자원봉사자가 중요한 까닭이다. 그래프 하나를 여러 사람에게 보내 개인의 실수가 평균으로 상쇄되게 한다."
+            "x": "‘정크’ 데이터는 2010년 공개 Twitter 게시물 백만 건 데이터셋에서 뽑았다. 참여도가 높고 짧으며 문체가 선정적인 게시물이 대상이었다. 1차 라벨링은 GPT-4o mini가 맡았고 대학원생들이 표본을 검토했다. 학습 대상은 Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct, Qwen3 4B Instruct 네 모델로, 정크 데이터와 대조 데이터를 섞어 학습시켰다."
           },
           {
             "t": "p",
-            "x": "이 후보 목록이 있으면 천문학자들은 부족한 망원경 시간을 특정 별에 집중할 수 있다. 2021년 10월 Zooniverse에서 시작한 뒤로 프로젝트에는 자원봉사자 23,000명 가까이가 참여했고 분류는 1200만 건을 넘었다. 공동 책임자 Adam McMaster는 “수천 건의 새로운 발견이 나올 수 있는 만큼, 받을 수 있는 도움은 모두 필요하다”고 말했다."
+            "x": "가장 크게 나타난 변화는 추론력과 기억력 약화, 추론 단계 건너뛰기, 윤리적 안전장치 약화였다. 질 좋은 데이터로 다시 학습시켜도 성능은 끝내 다 돌아오지 않았다."
+          },
+          {
+            "t": "p",
+            "x": "저자들은 정크로 배운 모델이 정크를 더 쏟아내는 악순환을 경고하며 학습 데이터의 투명성을 요구했다. 연구 결과는 San Francisco에서 열린 COLM 2026에서 발표됐다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Volunteers sift black hole\nsignals that fool AI",
-          "body": "Volunteers are asked to comb NASA telescope data for hidden black holes, as stellar flares fool AI into false positives.",
-          "mini_headline": "Hunting missing black holes",
+          "headline": "Junk social posts give LLMs\na lasting case of brain rot",
+          "body": "Texas A&M found junk Twitter posts weakened LLM reasoning, and retraining on better data did not fully undo it.",
+          "mini_headline": "LLMs get brain rot",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
-                "cap": "An illustration of a sun-like star orbiting a black hole."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
               },
               {
                 "t": "p",
-                "x": "The Milky Way has churned out more than 10 million black holes, yet astronomers have found only 70. A U.K. project called Black Hole Hunters is enlisting volunteers to sift data from NASA's TESS telescope for a telltale sign: a black hole passing in front of its companion star and briefly magnifying its light."
+                "x": "Researchers led by Zhengzhong Tu at Texas A&M found that large language models trained on low-quality, attention-grabbing content develop “brain rot,” echoing the attention and memory declines linked to such content in people."
               },
               {
                 "t": "p",
-                "x": "Automated algorithms make a preliminary sweep, screening millions of stars for the most obvious candidates. But artificial intelligence struggles with the messy realities of the cosmos — stellar flares and natural pulsations can trick the algorithms into false positives. That makes human volunteers key; each graph goes to multiple people so individual mistakes average out."
+                "x": "They built “junk” data from a 2010 dataset of one million public Twitter posts, flagging posts by high engagement, short length and sensational style. GPT-4o mini did the initial labeling and graduate students checked a sample. Four models were trained on mixes of junk and control data: Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct and Qwen3 4B Instruct."
               },
               {
                 "t": "p",
-                "x": "The shortlist lets astronomers aim scarce telescope time at specific stars. Since launching on Zooniverse in October 2021, the project has drawn nearly 23,000 volunteers and more than 12 million classifications. “With potentially thousands of new discoveries, we need all the help we can get,” said co-lead Adam McMaster."
+                "x": "The main effects were weaker reasoning and memory, a tendency to skip reasoning steps and weakened ethical safeguards. Retraining on higher-quality data did not fully restore performance."
+              },
+              {
+                "t": "p",
+                "x": "The authors warn of a feedback loop in which models trained on junk produce more junk, and call for transparency about training data. The work was presented at COLM 2026 in San Francisco."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI를 속이는 블랙홀 신호\n자원봉사자가 가려낸다",
-          "body": "별의 플레어에 AI가 속는 탓에 봉사자들이 NASA 망원경 자료로 블랙홀을 찾는다.",
-          "mini_headline": "사라진 블랙홀 찾기",
+          "headline": "소셜 정크 글이 LLMs에\n오래가는 ‘뇌 썩음’ 남겨",
+          "body": "Texas A&M은 Twitter 정크 글이 LLM 추론을 오래 해친다고 밝혔다.",
+          "mini_headline": "LLMs도 뇌 썩음",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
-                "cap": "태양과 비슷한 별이 블랙홀 주위를 도는 모습을 그린 일러스트."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
               },
               {
                 "t": "p",
-                "x": "우리은하에는 1000만 개 넘는 블랙홀이 생겨났지만 천문학자들이 찾아낸 건 70개뿐이다. U.K.(영국) 프로젝트 Black Hole Hunters는 자원봉사자를 모아 NASA의 TESS 망원경 자료에서 결정적 신호를 찾는다. 블랙홀이 동반성 앞을 지나면서 그 빛을 잠깐 증폭하는 현상이다."
+                "x": "Texas A&M의 Zhengzhong Tu가 이끄는 연구진에 따르면 자극적이고 질 낮은 콘텐츠로 학습한 대규모 언어 모델은 ‘뇌 썩음(brain rot)’을 겪는다. 사람에게서 그런 콘텐츠가 주의력과 기억력 저하와 연관되는 것과 닮은꼴이다."
               },
               {
                 "t": "p",
-                "x": "자동 알고리즘이 먼저 수백만 개의 별을 훑어 가장 뚜렷한 후보를 추린다. 하지만 인공지능은 어수선한 우주의 현실에 약하다. 항성 플레어나 자연적인 맥동에 알고리즘이 속아 거짓 양성이 나올 수 있다. 사람 자원봉사자가 중요한 까닭이다. 그래프 하나를 여러 사람에게 보내 개인의 실수가 평균으로 상쇄되게 한다."
+                "x": "‘정크’ 데이터는 2010년 공개 Twitter 게시물 백만 건 데이터셋에서 뽑았다. 참여도가 높고 짧으며 문체가 선정적인 게시물이 대상이었다. 1차 라벨링은 GPT-4o mini가 맡았고 대학원생들이 표본을 검토했다. 학습 대상은 Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct, Qwen3 4B Instruct 네 모델로, 정크 데이터와 대조 데이터를 섞어 학습시켰다."
               },
               {
                 "t": "p",
-                "x": "이 후보 목록이 있으면 천문학자들은 부족한 망원경 시간을 특정 별에 집중할 수 있다. 2021년 10월 Zooniverse에서 시작한 뒤로 프로젝트에는 자원봉사자 23,000명 가까이가 참여했고 분류는 1200만 건을 넘었다. 공동 책임자 Adam McMaster는 “수천 건의 새로운 발견이 나올 수 있는 만큼, 받을 수 있는 도움은 모두 필요하다”고 말했다."
+                "x": "가장 크게 나타난 변화는 추론력과 기억력 약화, 추론 단계 건너뛰기, 윤리적 안전장치 약화였다. 질 좋은 데이터로 다시 학습시켜도 성능은 끝내 다 돌아오지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "저자들은 정크로 배운 모델이 정크를 더 쏟아내는 악순환을 경고하며 학습 데이터의 투명성을 요구했다. 연구 결과는 San Francisco에서 열린 COLM 2026에서 발표됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIを欺くブラックホール信号\nボランティアが選別",
-          "body": "恒星フレアがAIを欺くため、ボランティアがNASA望遠鏡のデータからブラックホールを探す。",
-          "mini_headline": "消えたブラックホールを探す",
+          "headline": "SNSのジャンク投稿で\nLLMsに長引く「脳腐れ」",
+          "body": "Texas A&Mは、Twitterのジャンク投稿がLLMの推論を持続的に損なうと示した。",
+          "mini_headline": "LLMsも「脳腐れ」に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
-                "cap": "ブラックホールの周りを回る太陽に似た恒星のイラスト。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
               },
               {
                 "t": "p",
-                "x": "天の川銀河はこれまでに1000万個を超えるブラックホールを生み出してきたが、天文学者が見つけたのはわずか70個だ。U.K.（英国）のプロジェクトBlack Hole Huntersは、NASAのTESS望遠鏡のデータから決定的な兆候を探すボランティアを募っている。ブラックホールが伴星の前を横切り、その光を一時的に増幅する現象である。"
+                "x": "Texas A&MのZhengzhong Tu率いる研究チームは、注目を集める低品質なコンテンツで学習した大規模言語モデルが「脳腐れ（brain rot）」を起こすことを突き止めた。人間でこうしたコンテンツと結び付けられる注意力や記憶力の低下と重なる現象だ。"
               },
               {
                 "t": "p",
-                "x": "自動アルゴリズムがまず予備的な選別を行い、数百万の恒星から最も明白な候補を絞り込む。だが人工知能は宇宙の雑多な現実に弱く、恒星フレアや自然な脈動によってアルゴリズムが誤検出に導かれることがある。そこで人間のボランティアが鍵になる。各グラフは複数の人に送られ、個々のミスは平均化される。"
+                "x": "チームは、2010年の公開Twitter投稿百万件のデータセットから「ジャンク」データを作成し、エンゲージメントの高さ、短さ、扇情的な文体で投稿を選別した。初期のラベル付けはGPT-4o miniが行い、大学院生がサンプルを確認した。ジャンクデータと対照データを混ぜて、Llama3 8B Instruct、Qwen2.5 7B Instruct、Qwen2.5 0.5B Instruct、Qwen3 4B Instructの四つのモデルを学習させた。"
               },
               {
                 "t": "p",
-                "x": "この候補リストにより、天文学者は限られた望遠鏡の観測時間を特定の恒星に振り向けられる。2021年10月にZooniverseで始まって以来、プロジェクトには23,000人近いボランティアが参加し、分類は1200万件を超えた。共同リーダーのAdam McMasterは「数千件もの新発見が見込まれるので、得られる助けはすべて必要だ」と語った。"
+                "x": "主な影響は推論力と記憶力の低下、推論の手順を飛ばす傾向、倫理的な安全装置の弱体化だった。より質の高いデータで再学習しても、性能は完全には戻らなかった。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは、ジャンクで学習したモデルがさらにジャンクを生み出すという悪循環を警告し、学習データの透明性を求めている。研究はSan Franciscoで開かれたCOLM 2026で発表された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "志愿者筛查\n骗过AI的黑洞信号",
-          "body": "恒星耀斑会让AI误报，志愿者受邀在NASA望远镜数据中搜寻隐藏的黑洞。",
-          "mini_headline": "搜寻失踪的黑洞",
+          "headline": "垃圾社交帖让LLMs\n患上持久“脑腐”",
+          "body": "Texas A&M发现，Twitter垃圾帖会削弱LLM推理，且重训无法完全修复。",
+          "mini_headline": "LLMs也会“脑腐”",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
-                "cap": "一颗类太阳恒星绕黑洞运行的示意图。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
               },
               {
                 "t": "p",
-                "x": "银河系已产生超过1000万个黑洞，但天文学家只找到了70个。一个名为Black Hole Hunters的U.K.（英国）项目正在招募志愿者，在NASA的TESS望远镜数据中寻找一个明显迹象：黑洞从伴星前方经过，短暂放大其光芒。"
+                "x": "Texas A&M的Zhengzhong Tu领导的研究人员发现，用低质量、博眼球内容训练的大语言模型会出现“脑腐”（brain rot），这与此类内容在人类身上关联的注意力和记忆力下降相呼应。"
               },
               {
                 "t": "p",
-                "x": "自动算法先进行初步筛查，从数百万颗恒星中挑出最明显的候选者。但人工智能难以应对宇宙的复杂现实——恒星耀斑和自然脉动可能让算法产生误报。因此人类志愿者至关重要；每张图都会交给多人查看，从而让个人错误相互抵消。"
+                "x": "他们从2010年一百万条公开Twitter帖子的数据集中构建“垃圾”数据，依据高互动、篇幅短和耸动风格筛选帖子。GPT-4o mini完成初步标注，研究生抽查了样本。四个模型在垃圾数据与对照数据的混合上接受训练：Llama3 8B Instruct、Qwen2.5 7B Instruct、Qwen2.5 0.5B Instruct和Qwen3 4B Instruct。"
               },
               {
                 "t": "p",
-                "x": "这份候选清单让天文学家能把稀缺的望远镜时间集中到特定恒星上。自2021年10月在Zooniverse上线以来，该项目已吸引近23,000名志愿者，完成超过1200万次分类。项目联合负责人Adam McMaster说：“可能会有成千上万项新发现，我们需要能得到的一切帮助。”"
+                "x": "主要影响包括推理和记忆能力减弱、倾向于跳过推理步骤，以及伦理防护被削弱。用更高质量的数据重新训练也未能完全恢复性能。"
+              },
+              {
+                "t": "p",
+                "x": "作者警告存在一种反馈循环：用垃圾数据训练的模型会产出更多垃圾，并呼吁提高训练数据的透明度。该研究在San Francisco举行的COLM 2026上发表。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Voluntarios buscan agujeros\nnegros donde la AI se confunde",
-          "body": "Piden a voluntarios buscar agujeros negros en datos de un telescopio de NASA, porque las fulguraciones engañan a la AI.",
-          "mini_headline": "En busca de los agujeros negros perdidos",
+          "headline": "Los posts basura dejan en LLMs\nun deterioro cerebral duradero",
+          "body": "Texas A&M halló que posts basura de Twitter debilitan el razonamiento de los LLM y reentrenar no lo revierte del todo.",
+          "mini_headline": "Los LLMs sufren deterioro cerebral",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
-                "cap": "Ilustración de una estrella similar al Sol orbitando un agujero negro."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
               },
               {
                 "t": "p",
-                "x": "La Vía Láctea ha producido más de 10 millones de agujeros negros, pero los astrónomos solo han encontrado 70. Un proyecto del U.K. (Reino Unido) llamado Black Hole Hunters recluta voluntarios para revisar datos del telescopio TESS de NASA en busca de una señal reveladora: un agujero negro que pasa por delante de su estrella compañera y magnifica brevemente su luz."
+                "x": "Investigadores dirigidos por Zhengzhong Tu en Texas A&M descubrieron que los modelos de lenguaje de gran tamaño entrenados con contenido de baja calidad y diseñado para captar la atención desarrollan “brain rot” (pudrición cerebral), en paralelo con el deterioro de la atención y la memoria que se asocia a ese contenido en las personas."
               },
               {
                 "t": "p",
-                "x": "Los algoritmos automáticos hacen un primer barrido y examinan millones de estrellas en busca de los candidatos más evidentes. Pero la inteligencia artificial tiene dificultades con la desordenada realidad del cosmos: las fulguraciones estelares y las pulsaciones naturales pueden llevar a los algoritmos a falsos positivos. Por eso los voluntarios humanos son clave; cada gráfica llega a varias personas para que los errores individuales se compensen."
+                "x": "Construyeron datos “basura” a partir de un conjunto de 2010 con un millón de publicaciones públicas de Twitter, y marcaron las publicaciones por su alta interacción, su brevedad y su estilo sensacionalista. GPT-4o mini hizo el etiquetado inicial y estudiantes de posgrado revisaron una muestra. Se entrenaron cuatro modelos con mezclas de datos basura y de control: Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct y Qwen3 4B Instruct."
               },
               {
                 "t": "p",
-                "x": "La lista de candidatos permite a los astrónomos dirigir el escaso tiempo de telescopio a estrellas concretas. Desde su lanzamiento en Zooniverse en octubre de 2021, el proyecto ha reunido a casi 23,000 voluntarios y más de 12 millones de clasificaciones. “Con potencialmente miles de nuevos descubrimientos, necesitamos toda la ayuda posible”, dijo el codirector Adam McMaster."
+                "x": "Los principales efectos fueron un razonamiento y una memoria más débiles, la tendencia a saltarse pasos de razonamiento y salvaguardas éticas debilitadas. Reentrenar con datos de mayor calidad no restableció por completo el rendimiento."
+              },
+              {
+                "t": "p",
+                "x": "Los autores advierten de un círculo vicioso en el que los modelos entrenados con basura producen más basura, y piden transparencia sobre los datos de entrenamiento. El trabajo se presentó en COLM 2026, en San Francisco."
               }
             ]
           }
@@ -1453,109 +1727,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI를 속이는 블랙홀 신호\n자원봉사자가 가려낸다",
-          "body": "별의 플레어가 AI를 속여, 봉사자들이 NASA 망원경 자료로 블랙홀을 찾는다.",
-          "mini_headline": "사라진 블랙홀 찾기",
+          "headline": "소셜 정크 글이 LLMs에\n오래가는 ‘뇌 썩음’ 남겨",
+          "body": "Texas A&M은 Twitter 정크 글이 LLM 추론을 오래 해친다고 밝혔다.",
+          "mini_headline": "LLMs도 뇌 썩음",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
-                "cap": "태양과 비슷한 별이 블랙홀 주위를 도는 모습을 그린 일러스트."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
               },
               {
                 "t": "p",
-                "x": "우리은하는 1000만 개가 넘는 블랙홀을 만들어 냈지만 천문학자들이 찾은 것은 70개뿐이다. U.K.(영국) 프로젝트 Black Hole Hunters는 자원봉사자를 모아 NASA의 TESS 망원경 자료에서 결정적 신호를 찾고 있다. 블랙홀이 동반성 앞을 지나며 그 빛을 잠깐 증폭하는 현상이다."
+                "x": "Texas A&M의 Zhengzhong Tu가 이끄는 연구진은 자극적이고 질 낮은 콘텐츠로 학습한 대규모 언어 모델이 ‘뇌 썩음(brain rot)’을 겪는다는 사실을 발견했다. 이는 그런 콘텐츠가 사람의 주의력과 기억력 저하와 연관된다는 점과 닮았다."
               },
               {
                 "t": "p",
-                "x": "자동 알고리즘이 먼저 수백만 개의 별을 훑어 가장 뚜렷한 후보를 추린다. 하지만 인공지능은 우주의 어수선한 현실에 약하다. 항성 플레어와 자연적인 맥동이 알고리즘을 속여 거짓 양성을 낳을 수 있다. 그래서 사람 자원봉사자가 중요하다. 그래프 하나를 여러 사람에게 보내 개인의 실수가 평균으로 상쇄되게 한다."
+                "x": "연구진은 2010년 공개 Twitter 게시물 백만 건 데이터셋에서 ‘정크’ 데이터를 만들었다. 참여도가 높고 길이가 짧으며 선정적인 문체의 게시물을 골라냈다. 1차 라벨링은 GPT-4o mini가 맡았고 대학원생들이 표본을 검토했다. Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct, Qwen3 4B Instruct 등 네 모델을 정크 데이터와 대조 데이터를 섞어 학습시켰다."
               },
               {
                 "t": "p",
-                "x": "이 후보 목록 덕분에 천문학자들은 부족한 망원경 시간을 특정 별에 집중할 수 있다. 2021년 10월 Zooniverse에서 시작한 이후 프로젝트에는 23,000명 가까운 자원봉사자가 참여했고 분류는 1200만 건을 넘었다. 공동 책임자 Adam McMaster는 “수천 건의 새로운 발견이 나올 수 있는 만큼, 받을 수 있는 도움은 모두 필요하다”고 말했다."
+                "x": "주된 영향은 추론력과 기억력 약화, 추론 단계를 건너뛰는 경향, 윤리적 안전장치 약화였다. 더 질 좋은 데이터로 재학습해도 성능은 완전히 회복되지 않았다."
+              },
+              {
+                "t": "p",
+                "x": "저자들은 정크로 학습한 모델이 더 많은 정크를 만들어 내는 악순환을 경고하며 학습 데이터의 투명성을 요구했다. 이 연구는 San Francisco에서 열린 COLM 2026에서 발표됐다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIを欺くブラックホール信号\nボランティアが選別",
-          "body": "恒星フレアがAIを欺くため、ボランティアがNASA望遠鏡のデータからブラックホールを探す。",
-          "mini_headline": "消えたブラックホールを探す",
+          "headline": "SNSのジャンク投稿で\nLLMsに長引く「脳腐れ」",
+          "body": "Texas A&Mは、Twitterのジャンク投稿がLLMの推論を持続的に損なうと示した。",
+          "mini_headline": "LLMsも「脳腐れ」に",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
-                "cap": "ブラックホールの周りを回る太陽に似た恒星のイラスト。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
               },
               {
                 "t": "p",
-                "x": "天の川銀河はこれまでに1000万個を超えるブラックホールを生み出してきたが、天文学者が見つけたのはわずか70個だ。U.K.（英国）のプロジェクトBlack Hole Huntersは、NASAのTESS望遠鏡のデータから決定的な兆候を探すボランティアを募っている。ブラックホールが伴星の前を横切り、その光を一時的に増幅する現象である。"
+                "x": "Texas A&MのZhengzhong Tu率いる研究チームは、注目を集める低品質なコンテンツで学習した大規模言語モデルが「脳腐れ（brain rot）」を起こすことを突き止めた。人間でこうしたコンテンツと結び付けられる注意力や記憶力の低下と重なる現象だ。"
               },
               {
                 "t": "p",
-                "x": "自動アルゴリズムがまず予備的な選別を行い、数百万の恒星から最も明白な候補を絞り込む。だが人工知能は宇宙の雑多な現実に弱く、恒星フレアや自然な脈動によってアルゴリズムが誤検出に導かれることがある。そこで人間のボランティアが鍵になる。各グラフは複数の人に送られ、個々のミスは平均化される。"
+                "x": "チームは、2010年の公開Twitter投稿百万件のデータセットから「ジャンク」データを作成し、エンゲージメントの高さ、短さ、扇情的な文体で投稿を選別した。初期のラベル付けはGPT-4o miniが行い、大学院生がサンプルを確認した。ジャンクデータと対照データを混ぜて、Llama3 8B Instruct、Qwen2.5 7B Instruct、Qwen2.5 0.5B Instruct、Qwen3 4B Instructの四つのモデルを学習させた。"
               },
               {
                 "t": "p",
-                "x": "この候補リストにより、天文学者は限られた望遠鏡の観測時間を特定の恒星に振り向けられる。2021年10月にZooniverseで始まって以来、プロジェクトには23,000人近いボランティアが参加し、分類は1200万件を超えた。共同リーダーのAdam McMasterは「数千件もの新発見が見込まれるので、得られる助けはすべて必要だ」と語った。"
+                "x": "主な影響は推論力と記憶力の低下、推論の手順を飛ばす傾向、倫理的な安全装置の弱体化だった。より質の高いデータで再学習しても、性能は完全には戻らなかった。"
+              },
+              {
+                "t": "p",
+                "x": "著者らは、ジャンクで学習したモデルがさらにジャンクを生み出すという悪循環を警告し、学習データの透明性を求めている。研究はSan Franciscoで開かれたCOLM 2026で発表された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "志愿者筛查\n骗过AI的黑洞信号",
-          "body": "恒星耀斑会让AI误报，志愿者受邀在NASA望远镜数据中搜寻隐藏的黑洞。",
-          "mini_headline": "搜寻失踪的黑洞",
+          "headline": "垃圾社交帖让LLMs\n患上持久“脑腐”",
+          "body": "Texas A&M发现，Twitter垃圾帖会削弱LLM推理，且重训无法完全修复。",
+          "mini_headline": "LLMs也会“脑腐”",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
-                "cap": "一颗类太阳恒星绕黑洞运行的示意图。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
               },
               {
                 "t": "p",
-                "x": "银河系已产生超过1000万个黑洞，但天文学家只找到了70个。一个名为Black Hole Hunters的U.K.（英国）项目正在招募志愿者，在NASA的TESS望远镜数据中寻找一个明显迹象：黑洞从伴星前方经过，短暂放大其光芒。"
+                "x": "Texas A&M的Zhengzhong Tu领导的研究人员发现，用低质量、博眼球内容训练的大语言模型会出现“脑腐”（brain rot），这与此类内容在人类身上关联的注意力和记忆力下降相呼应。"
               },
               {
                 "t": "p",
-                "x": "自动算法先进行初步筛查，从数百万颗恒星中挑出最明显的候选者。但人工智能难以应对宇宙的复杂现实——恒星耀斑和自然脉动可能让算法产生误报。因此人类志愿者至关重要；每张图都会交给多人查看，从而让个人错误相互抵消。"
+                "x": "他们从2010年一百万条公开Twitter帖子的数据集中构建“垃圾”数据，依据高互动、篇幅短和耸动风格筛选帖子。GPT-4o mini完成初步标注，研究生抽查了样本。四个模型在垃圾数据与对照数据的混合上接受训练：Llama3 8B Instruct、Qwen2.5 7B Instruct、Qwen2.5 0.5B Instruct和Qwen3 4B Instruct。"
               },
               {
                 "t": "p",
-                "x": "这份候选清单让天文学家能把稀缺的望远镜时间集中到特定恒星上。自2021年10月在Zooniverse上线以来，该项目已吸引近23,000名志愿者，完成超过1200万次分类。项目联合负责人Adam McMaster说：“可能会有成千上万项新发现，我们需要能得到的一切帮助。”"
+                "x": "主要影响包括推理和记忆能力减弱、倾向于跳过推理步骤，以及伦理防护被削弱。用更高质量的数据重新训练也未能完全恢复性能。"
+              },
+              {
+                "t": "p",
+                "x": "作者警告存在一种反馈循环：用垃圾数据训练的模型会产出更多垃圾，并呼吁提高训练数据的透明度。该研究在San Francisco举行的COLM 2026上发表。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Voluntarios buscan agujeros\nnegros donde la AI se confunde",
-          "body": "Piden a voluntarios buscar agujeros negros en datos de un telescopio de NASA, porque las fulguraciones engañan a la AI.",
-          "mini_headline": "En busca de los agujeros negros perdidos",
+          "headline": "Los posts basura dejan en LLMs\nun deterioro cerebral duradero",
+          "body": "Texas A&M halló que posts basura de Twitter debilitan el razonamiento de los LLM y reentrenar no lo revierte del todo.",
+          "mini_headline": "Los LLMs sufren deterioro cerebral",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/3bT9mJKqe9NNubQ9K2XGBn-1600-80.png",
-                "cap": "Ilustración de una estrella similar al Sol orbitando un agujero negro."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
               },
               {
                 "t": "p",
-                "x": "La Vía Láctea ha producido más de 10 millones de agujeros negros, pero los astrónomos solo han encontrado 70. Un proyecto del U.K. (Reino Unido) llamado Black Hole Hunters recluta voluntarios para revisar datos del telescopio TESS de NASA en busca de una señal reveladora: un agujero negro que pasa por delante de su estrella compañera y magnifica brevemente su luz."
+                "x": "Investigadores dirigidos por Zhengzhong Tu en Texas A&M descubrieron que los modelos de lenguaje de gran tamaño entrenados con contenido de baja calidad y diseñado para captar la atención desarrollan “brain rot” (pudrición cerebral), en paralelo con el deterioro de la atención y la memoria que se asocia a ese contenido en las personas."
               },
               {
                 "t": "p",
-                "x": "Los algoritmos automáticos hacen un primer barrido y examinan millones de estrellas en busca de los candidatos más evidentes. Pero la inteligencia artificial tiene dificultades con la desordenada realidad del cosmos: las fulguraciones estelares y las pulsaciones naturales pueden llevar a los algoritmos a falsos positivos. Por eso los voluntarios humanos son clave; cada gráfica llega a varias personas para que los errores individuales se compensen."
+                "x": "Construyeron datos “basura” a partir de un conjunto de 2010 con un millón de publicaciones públicas de Twitter, y marcaron las publicaciones por su alta interacción, su brevedad y su estilo sensacionalista. GPT-4o mini hizo el etiquetado inicial y estudiantes de posgrado revisaron una muestra. Se entrenaron cuatro modelos con mezclas de datos basura y de control: Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct y Qwen3 4B Instruct."
               },
               {
                 "t": "p",
-                "x": "La lista de candidatos permite a los astrónomos dirigir el escaso tiempo de telescopio a estrellas concretas. Desde su lanzamiento en Zooniverse en octubre de 2021, el proyecto ha reunido a casi 23,000 voluntarios y más de 12 millones de clasificaciones. “Con potencialmente miles de nuevos descubrimientos, necesitamos toda la ayuda posible”, dijo el codirector Adam McMaster."
+                "x": "Los principales efectos fueron un razonamiento y una memoria más débiles, la tendencia a saltarse pasos de razonamiento y salvaguardas éticas debilitadas. Reentrenar con datos de mayor calidad no restableció por completo el rendimiento."
+              },
+              {
+                "t": "p",
+                "x": "Los autores advierten de un círculo vicioso en el que los modelos entrenados con basura producen más basura, y piden transparencia sobre los datos de entrenamiento. El trabajo se presentó en COLM 2026, en San Francisco."
               }
             ]
           }

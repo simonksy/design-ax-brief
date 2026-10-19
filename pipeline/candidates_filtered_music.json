@@ -1,19 +1,91 @@
 {
-  "date": "2026-10-19",
   "section": "music",
+  "generated_at": "2026-10-19T22:04:04Z",
+  "now_iso": "2026-10-19T22:04:04Z",
   "window_hours": 336,
-  "now_iso": "2026-10-19T01:00:00Z",
   "items": [
+    {
+      "title": "The three big debates around music and generative AI",
+      "url": "https://completemusicupdate.com/the-three-big-debates-around-music-and-generative-ai/",
+      "source": "CMU (Complete Music Update)",
+      "category": "music",
+      "published_iso": "2026-10-19T17:05:25Z",
+      "excerpt": "Generative AI models that output music pose many questions for the industry; CMU organises them into three big debates ahead of an Un-Convention panel on music and AI.",
+      "og_image": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png",
+      "lang": "en"
+    },
+    {
+      "title": "Sony and Universal ask court to force Suno investor Lightspeed to testify about the 'legal risk of training data'",
+      "url": "https://www.musicbusinessworldwide.com/sony-and-universal-ask-court-to-force-suno-investor-lightspeed-to-testify-about-the-legal-risk-of-training-data/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-10-19T10:37:19Z",
+      "excerpt": "In a Boston federal court filing on October 13, Sony and Universal opposed Suno investor Lightspeed's motion to quash their subpoena seeking testimony on the 'legal risk of training data'.",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+      "lang": "en",
+      "history_match": {
+        "score": 0.153,
+        "date": "2026-10-17",
+        "url": "https://www.billboard.com/pro/umg-sony-demand-distrokid-admit-suno-song-uploads/",
+        "title": "UMG & Sony Demand DistroKid Tell How Many AI Songs It Uploads From Suno: 'Staggering Scale'",
+        "band": "related"
+      }
+    },
+    {
+      "title": "90,000 synthetic tracks a day: Why Deezer is handing users the ultimate AI 'kill switch'",
+      "url": "https://www.musicbusinessworldwide.com/90000-synthetic-tracks-a-day-why-deezer-is-handing-users-the-ultimate-ai-kill-switch/",
+      "source": "Music Business Worldwide",
+      "category": "music",
+      "published_iso": "2026-10-19T10:21:55Z",
+      "excerpt": "An MBW explainer on why Deezer, citing around 90,000 synthetic tracks uploaded per day, is giving listeners a 'kill switch' to exclude AI-generated music.",
+      "og_image": "https://www.musicbusinessworldwide.com/files/2026/10/explains-1-1.jpg",
+      "lang": "en",
+      "history_match": {
+        "score": 0.217,
+        "date": "2026-10-14",
+        "url": "https://www.musicbusinessworldwide.com/deezer-to-let-users-block-ai-generated-music-from-search-results/",
+        "title": "Deezer to let users block AI-generated music from search results",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Is The Humanity of Instruments Under Threat from AI?",
+      "url": "https://www.gearnews.com/humanity-instruments-ai-threat-synths/",
+      "source": "Gearnews",
+      "category": "music",
+      "published_iso": "2026-10-18T16:00:00Z",
+      "excerpt": "With a surge of vibe-coded instrument plugins flooding the market, Gearnews asks whether instrument design risks losing its most important feature - human character and intent.",
+      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/10/AI-Human.jpg",
+      "lang": "en",
+      "history_match": {
+        "score": 0.171,
+        "date": "2026-10-17",
+        "url": "https://www.attackmagazine.com/features/long-read/whos-buying-all-these-vibe-coded-plugins/",
+        "title": "Who's Buying All These Vibe-Coded Plugins?",
+        "band": "related"
+      }
+    },
+    {
+      "title": "New studies explore AI expectations, jobs impact and gender gap",
+      "url": "https://musically.com/2026/10/19/new-studies-explore-ai-expectations-jobs-impact-and-gender-gap/",
+      "source": "Music Ally",
+      "category": "music",
+      "published_iso": "2026-10-19T11:30:00Z",
+      "excerpt": "Music Ally rounds up several new studies on how AI will affect jobs, expectations and the gender gap in AI use - context beyond the AI-music debates for music-industry workers.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-19T122259.425.png?fit=2000%2C1500&ssl=1",
+      "lang": "en"
+    },
     {
       "title": "Deezer lets users hide AI music; Playhead generates signal chains for producers",
       "url": "https://musically.com/2026/10/13/deezer-lets-users-hide-ai-music-playhead-generates-signal-chains-for-producers/",
       "source": "Music Ally",
       "category": "music",
-      "published_iso": "2026-10-13T12:30:00+00:00",
-      "excerpt": "Deezer has been notably open about sharing information on the impact of AI-generated music on its platform, and has announced that it will allow users to “fully exclude” AI-generated music from their listening.",
+      "published_iso": "2026-10-13T12:30:00Z",
+      "excerpt": "Alongside Deezer's option to fully exclude AI-generated music, Music Ally covers Playhead, an AI tool that generates plugin signal chains for producers.",
       "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-13T131614.548.png?fit=2000%2C1500&ssl=1",
+      "lang": "en",
       "history_match": {
-        "score": 0.336,
+        "score": 0.289,
         "date": "2026-10-14",
         "url": "https://www.musicbusinessworldwide.com/deezer-to-let-users-block-ai-generated-music-from-search-results/",
         "title": "Deezer to let users block AI-generated music from search results",
@@ -25,97 +97,50 @@
       "url": "https://musically.com/2026/10/16/publishing-body-icmp-blasts-potential-ai-rules-in-australia/",
       "source": "Music Ally",
       "category": "music",
-      "published_iso": "2026-10-16T12:30:00+00:00",
-      "excerpt": "Australia’s government is currently devising its future policies on AI, training and copyright. We recently reported on labels body ARIA’s boss Annabelle Herd’s testimony at a select-committee hearing as part of that process.",
-      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-16T125745.140.png?fit=2000%2C1500&ssl=1"
+      "published_iso": "2026-10-16T12:30:00Z",
+      "excerpt": "Global publishing body ICMP criticised potential rules in Australia's developing AI, training and copyright policy, following labels body ARIA's select-committee testimony.",
+      "og_image": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/news-stories-images-4x3-2026-10-16T125745.140.png?fit=2000%2C1500&ssl=1",
+      "lang": "en"
     },
     {
-      "title": "A$AP Rocky Has a Very Diplomatic Stance on AI in Music: ‘Who Am I to Say What’s Standard’",
+      "title": "Artists Behind Olivia Rodrigo 'Expectations' Music Video Debunk AI Accusations",
+      "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-expectations-ai-debunk-1235644671/",
+      "source": "Rolling Stone",
+      "category": "music",
+      "published_iso": "2026-10-19T17:06:04Z",
+      "excerpt": "Graphic designer Jack Harrison and Rodrigo's official fan account released behind-the-scenes footage of the 2D/3D animation and analog treatments to rebut claims the video was AI-generated.",
+      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+      "lang": "en"
+    },
+    {
+      "title": "A$AP Rocky Has a Very Diplomatic Stance on AI in Music: 'Who Am I to Say What's Standard'",
       "url": "https://www.billboard.com/music/rb-hip-hop/asap-rocky-ai-music-thoughts-1236361239/",
       "source": "Billboard",
       "category": "music",
-      "published_iso": "2026-10-15T16:34:49+00:00",
-      "excerpt": "A$AP Rocky revealed his thoughts on the growing use of AI in music.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2273665922-e1792076449724.jpg?w=1024"
+      "published_iso": "2026-10-15T16:34:49Z",
+      "excerpt": "A$AP Rocky revealed his thoughts on the growing use of AI in music, taking a diplomatic line: 'Who am I to say what's standard.'",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2273665922-e1792076449724.jpg?w=1024",
+      "lang": "en"
     },
     {
-      "title": "Kid Rock Shares Why Eminem Switched Songs on His Faith-Based Album – And Whether They Talk Politics Together",
-      "url": "https://www.billboard.com/music/music-news/kid-rock-halfway-2-jesus-interview-1236360949/",
-      "source": "Billboard",
-      "category": "music",
-      "published_iso": "2026-10-15T13:00:00+00:00",
-      "excerpt": "Kid Rock says he recorded his gospel album Halfway 2 Jesus with Nashville session players and the AI program Suno, used mostly to craft full choir arrangements and some orchestrations - 'without (AI) writing the song.'",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/10/2194766028-e1792015513646.jpg?w=1024",
-      "history_match": {
-        "score": 0.163,
-        "date": "2026-10-06",
-        "url": "https://www.youtube.com/watch?v=MdxaU0l3FzI",
-        "title": "Suno now lets creators publish full albums",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Olivia Rodrigo Clarifies AI Stance Following ‘Invasive’ Tech Investor Dating Rumors: ‘Absolutely No’",
+      "title": "Olivia Rodrigo Clarifies AI Stance Following 'Invasive' Tech Investor Dating Rumors",
       "url": "https://www.billboard.com/music/music-news/olivia-rodrigo-ai-stance-tech-investor-dating-rumors-1236356013/",
       "source": "Billboard",
       "category": "music",
-      "published_iso": "2026-10-07T16:30:57+00:00",
+      "published_iso": "2026-10-07T16:30:57Z",
       "excerpt": "Olivia Rodrigo clarified her stance on AI and addressed rumors she was dating an AI tech investor.",
-      "og_image": "https://www.billboard.com/wp-content/uploads/2026/04/P104S4UN-e1781880973570.jpg?w=1024"
+      "og_image": "https://www.billboard.com/wp-content/uploads/2026/04/P104S4UN-e1781880973570.jpg?w=1024",
+      "lang": "en"
     },
     {
-      "title": "Furnace Fest Sold Sticker Covered Kid Rock Merch for $50",
-      "url": "https://www.digitalmusicnews.com/2026/10/12/furnace-fest-mug-kid-rock-merch/",
-      "source": "Digital Music News",
+      "title": "Vibe coding is turning the music gear world upside down",
+      "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
+      "source": "The Verge",
       "category": "music",
-      "published_iso": "2026-10-12T12:48:57+00:00",
-      "excerpt": "Furnace Fest 2026, the first edition under new ownership, baffled attendees with AI-designed merch - including sticker-covered Kid Rock shirts sold for $50 - alongside Fyre Festival-style meals.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/furnace-fest-merch-disaster.png"
-    },
-    {
-      "title": "Can We Sue Our Way to AI Control?",
-      "url": "https://www.digitalmusicnews.com/2026/10/13/can-we-sue-our-way-to-ai-control/",
-      "source": "Digital Music News",
-      "category": "music",
-      "published_iso": "2026-10-13T18:15:41+00:00",
-      "excerpt": "Copyright must evolve to protect music creators from AI misuse; lawsuits alone can't secure a fair, sustainable future for artists.",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/The-AI-battle-rages-on-but-will-the-legal-battle-lead-to-a-business-worth-pursuing.png"
-    },
-    {
-      "title": "MIDI-REPA: Improving Text-to-Music Generation with Symbolic Representation Alignment",
-      "url": "https://arxiv.org/abs/2610.20967",
-      "source": "arXiv",
-      "category": "music",
-      "published_iso": "2026-10-14T21:42:50Z",
-      "excerpt": "State-of-the-art text-to-music models increasingly rely on scaling model capacity, data, and compute, while still learning musical structure directly from dense audio. Yet melody, rhythm, harmony, and structure can be represented compactly in symbolic form. We introduce MIDI-REPA, a representation-alignment framework that derives MIDI supervision from automatic music transcript",
-      "og_image": ""
-    },
-    {
-      "title": "MIRA: A Musical Intent Refinement Agent for Aligning Text-to-Music Generation with User Intent",
-      "url": "https://arxiv.org/abs/2610.10355",
-      "source": "arXiv",
-      "category": "music",
-      "published_iso": "2026-10-07T16:29:46Z",
-      "excerpt": "Text-to-music systems produce increasingly convincing audio, yet evaluation reveals little about whether the result matches user intent. A global text-audio relevance score can overlook the implicit intent in underspecified prompts and mask failures in specific requirements, such as instrumentation, structure, rhythm, or mood progression. To bridge this gap, we formulate text-t",
-      "og_image": ""
-    },
-    {
-      "title": "High-Fidelity Song Generation with Joint Discrete and Continuous Modeling",
-      "url": "https://arxiv.org/abs/2610.15802",
-      "source": "arXiv",
-      "category": "music",
-      "published_iso": "2026-10-11T17:44:28Z",
-      "excerpt": "Generating a full song from lyrics and a style description requires long-range musical planning without sacrificing vocal and instrumental detail. Low-rate discrete semantic tokens make this tractable, but quantization constrains the information available to acoustic rendering, while separately optimized stages prevent downstream generation objectives from shaping the planner. ",
-      "og_image": ""
-    },
-    {
-      "title": "Is The Humanity of Instruments Under Threat from AI?",
-      "url": "https://www.gearnews.com/humanity-instruments-ai-threat-synths/",
-      "source": "Gearnews",
-      "category": "music",
-      "published_iso": "2026-10-18T18:00:00+02:00",
-      "excerpt": "The surge in vibe-coded instrument plugins has been overwhelming, but do we risk losing the most important feature, humanity?",
-      "og_image": "https://cdn.gearnews.com/wp-content/uploads/2026/10/AI-Human.jpg",
+      "published_iso": "2026-10-19T12:30:00Z",
+      "excerpt": "LLM coding assistants have triggered an explosion of user-built custom firmware and hacks for synths, samplers and grooveboxes, changing who gets to reshape music hardware.",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "lang": "en",
       "history_match": {
         "score": 0.177,
         "date": "2026-10-17",
@@ -125,120 +150,65 @@
       }
     },
     {
-      "title": "Rocketship Maps A Song's Listeners Before Release For Free",
-      "url": "https://www.hypebot.com/rocketship-maps-a-songs-listeners-before-release-for-free/",
-      "source": "Hypebot",
+      "title": "Apple acquires AI startup that lets musicians rework recorded music",
+      "url": "https://9to5mac.com/2026/10/19/apple-strikes-deal-with-ai-startup-that-lets-musicians-rework-recorded-music/",
+      "source": "9to5Mac",
       "category": "music",
-      "published_iso": "2026-10-15T13:39:06.000Z",
-      "excerpt": "Rocketship gives indie artists major-label level data, using AI to identify target audiences for songs before release or spending a dime.",
-      "og_image": "https://images.unsplash.com/photo-1593697725250-6a184f4e9ed0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMTc3M3wwfDF8c2VhcmNofDE4fHxzb25nd3JpdGVyfGVufDB8fHx8MTc5MTkxMDAyMHww&ixlib=rb-4.1.0&q=80&w=2000"
+      "published_iso": "2026-10-19T19:53:05Z",
+      "excerpt": "Apple has acquired Samplab, a Swiss startup that described itself as offering 'music production for the age of AI' with tools that let musicians rework recorded music; AppleInsider frames the deal as a boost for Logic Pro.",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/samplab.jpg?quality=82&strip=all&resize=1200,628",
+      "lang": "en"
     },
     {
-      "title": "Introducing Instant Soundtracks",
-      "url": "https://www.youtube.com/watch?v=WtPiZ0ym13k",
-      "source": "ElevenLabs (YouTube)",
+      "title": "From Individual Songs to Music Corpora: Evaluating Explainable Harmonic Decision-Making on HookTheory",
+      "url": "https://arxiv.org/abs/2610.22416",
+      "source": "arXiv",
       "category": "music",
-      "published_iso": "2026-10-15T12:01:07-07:00",
-      "excerpt": "ElevenLabs launched Instant Soundtracks in ElevenCreative, ElevenMusic and the API: upload a video and the model scores it with original music, then detects moments that need sound effects and places them on the timeline as separately editable layers; existing audio can be used as a reference for genre, tempo or instrumentation.",
-      "og_image": "https://i.ytimg.com/vi/WtPiZ0ym13k/maxresdefault.jpg",
+      "published_iso": "2026-10-14T23:42:28Z",
+      "excerpt": "Researchers test whether an explainable harmonic decision model built for individual songs generalises to the HookTheory corpus, a step toward transparent automatic melody harmonization tools.",
+      "og_image": null,
+      "lang": "en"
+    },
+    {
+      "title": "D-Composer: Language Modeling for Simultaneous Drum Transcription and Sound Event Decomposition",
+      "url": "https://arxiv.org/abs/2610.22535",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-15T18:31:13Z",
+      "excerpt": "D-Composer uses language modelling to transcribe drum beats while decomposing them into their constituent one-shot sound events, building on drum analysis-by-synthesis models.",
+      "og_image": null,
+      "lang": "en"
+    },
+    {
+      "title": "MUB: An Identity-Masked Benchmark for Music Understanding in Multimodal Language Models",
+      "url": "https://arxiv.org/abs/2610.22989",
+      "source": "arXiv",
+      "category": "music",
+      "published_iso": "2026-10-16T06:14:31Z",
+      "excerpt": "MUB is a 500-track identity-masked benchmark that tests whether multimodal language models genuinely hear music rather than recovering answers from metadata or external tools.",
+      "og_image": null,
+      "lang": "en",
       "history_match": {
-        "score": 0.154,
-        "date": "2026-09-24",
-        "url": "https://www.youtube.com/watch?v=vGukGg7Q2_g",
-        "title": "Introducing voice, music, image, and video generation in the ElevenLabs MCP",
+        "score": 0.159,
+        "date": "2026-09-20",
+        "url": "https://www.hypebot.com/why-ai-workflows-need-music-understanding-and-search/",
+        "title": "Why AI Workflows Need Music Understanding and Search",
         "band": "related"
       }
-    },
-    {
-      "title": "“A next-generation guitar pedal that will redefine everything”: Zoom embraces NAM and AI stem separation with a $300 touchscreen amp modeler, the Neurig",
-      "url": "https://www.guitarworld.com/gear/amp-modeler-pedals/zoom-neurig",
-      "source": "Guitar World",
-      "category": "music",
-      "published_iso": "2026-10-12T14:58:56Z",
-      "excerpt": "Is this affordable do-it-all multi-effects from Zoom about to shake up the modeler market?",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
-      "history_match": {
-        "score": 0.155,
-        "date": "2026-09-27",
-        "url": "https://www.gearnews.com/melofty-axom-max-audio-processor-guitar/",
-        "title": "Melofty Axom Max: an AI Rig Assistant builds guitar signal chains from a text or voice prompt",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Neko Engineering unveils the NAM-compatible wireless studio tool that fits in your pocket – could this AI-equipped guitar workstation transform practice and recording?",
-      "url": "https://www.guitarworld.com/gear/studio-recording-equipment/neko-engineering-neko-pocket-studio",
-      "source": "Guitar World",
-      "category": "music",
-      "published_iso": "2026-10-16T17:10:40Z",
-      "excerpt": "The Neko packs NAM tones, recording, stem separation, GenAI features, wireless connectivity, and audio-to-tab features into one tiny powerhouse",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
-      "history_match": {
-        "score": 0.173,
-        "date": "2026-09-30",
-        "url": "https://www.youtube.com/shorts/JYs3lzKOruI",
-        "title": "Suno Studio demo: record your voice and turn it into any instrument",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Olivia Rodrigo accused of using AI in expectations music video",
-      "url": "https://www.creativebloq.com/news/olivia-rodrigos-expectations-music-video-hit-with-ai-allegations",
-      "source": "Creative Bloq",
-      "category": "music",
-      "published_iso": "2026-10-17T08:00:00Z",
-      "excerpt": "Not to alarm you, but Chappell Roan appears to be missing an arm…",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/JBNodSdzrJq6SmUC8ahYmG-1920-80.jpg"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 17,
+    "kept": 15,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [
-      {
-        "url": "https://musically.com/2026/10/14/today-in-music-ai-news-raye-gets-botted-umg-senior-ai-role-characterai-bankruptcy-rocketship-launches/",
-        "title": "Today in Music AI news: Raye gets botted; UMG senior AI role; Character•AI bankruptcy; Rocketship launches",
-        "match": {
-          "score": 0.507,
-          "date": "2026-10-15",
-          "url": "https://www.musicbusinessworldwide.com/raye-says-scalpers-used-ai-bots-to-create-hundreds-of-thousands-of-fake-registrations-as-1-8m-sign-up-for-5000-royal-albert-hall-seats/",
-          "title": "Raye says ticket scalpers used AI bots to create 'hundreds of thousands of fake registrations' as 1.8M sign up for 5,000 Royal Albert Hall seats"
-        }
-      }
-    ],
+    "dropped": [],
     "review": 6,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-19",
-      "title": "Playhead builds custom effects chains from your sound descriptions",
-      "url": "https://bedroomproducersblog.com/2026/09/18/playhead-custom-effects/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Two Legs, Five Arms is a FREE generative drum machine for macOS",
-      "url": "https://bedroomproducersblog.com/2026/09/18/two-legs-five-arms/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "BandLab’s mastering capabilities just got an upgrade – here’s what’s new",
-      "url": "https://musictech.com/news/music/bandlabs-mastering-capabilities-just-got-an-upgrade-heres-whats-new/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "Sound designers and SFX libraries launch Professional Sound Alliance to fight AI scraping",
-      "url": "https://www.musicbusinessworldwide.com/sound-designers-and-sfx-libraries-launch-professional-sound-alliance-to-fight-ai-scraping-now-sound-will-have-protection-of-our-own/"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "New Mac App, HarmonyKeen, Writes Harmony Parts To Your MIDI Melodies Using Music Theory, Not AI",
-      "url": "https://www.synthtopia.com/content/2026/09/15/new-mac-app-harmonykeen-writes-harmony-parts-to-your-midi-melodies-using-music-theory-not-ai/"
-    },
     {
       "date": "2026-09-20",
       "title": "DistroKid’s $2 billion valuation based on it being a pipeline for AI slop and copyright infringement, says Universal",
@@ -878,6 +848,31 @@
       "date": "2026-10-18",
       "title": "Initial Audio Difro 2: free AI MIDI melody generator, retrained from scratch",
       "url": "https://www.youtube.com/watch?v=DY5QI4idlRU"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "MIDI-REPA: aligning text-to-music models with symbolic MIDI structure",
+      "url": "https://arxiv.org/abs/2610.20967"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Zoom Neurig: a $300 touchscreen amp modeler with NAM capture support and AI stem separation",
+      "url": "https://www.guitarworld.com/gear/amp-modeler-pedals/zoom-neurig"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Neko Pocket Studio: a pocket wireless guitar workstation with NAM tones, stem separation and audio-to-tab",
+      "url": "https://www.guitarworld.com/gear/studio-recording-equipment/neko-engineering-neko-pocket-studio"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Rocketship maps a song's likely listeners before release, for free",
+      "url": "https://www.hypebot.com/rocketship-maps-a-songs-listeners-before-release-for-free/"
+    },
+    {
+      "date": "2026-10-19",
+      "title": "Introducing Instant Soundtracks",
+      "url": "https://www.youtube.com/watch?v=WtPiZ0ym13k"
     }
   ]
 }

@@ -8425,6 +8425,144 @@
           "cap": "Payload CMS活动列表，以及由它驱动的活动网页。"
         }
       ]
+    },
+    "design/design-flux3-max-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+        },
+        {
+          "t": "p",
+          "x": "fal于2026年10月19日发布FLUX 3 Max。这是fal Research与Black Forest Labs合作、在FLUX 3基础模型上进行后训练的视频生成模型，当天即通过fal的推理平台上线。"
+        },
+        {
+          "t": "p",
+          "x": "fal Research对FLUX 3进行了持续训练，以提升视觉保真度、运动连贯性和提示词遵循度，并在fal自有引擎上优化了推理与服务。BFL CEO Robin Rombach表示，FLUX 3本就是作为供他人在其上构建的基础而打造的。"
+        },
+        {
+          "t": "p",
+          "x": "fal称，在Artificial Analysis Video Arena的初步image-to-video评测中，该模型获得1,139 Elo，比原版FLUX 3（1,089）高出50分。其基准测试用10.95秒生成了一段10秒视频——fal称这比同等Elo的Seedance 2.5快22倍，比FLUX 3快11.5倍。产品页面给出的数字则不同：生成一段10秒720p视频需12.45秒。"
+        },
+        {
+          "t": "p",
+          "x": "Artificial Analysis自己的排行榜显示FLUX 3 Max为1,138 Elo，位列第二，仅次于1,140的MiniMax H3。"
+        },
+        {
+          "t": "p",
+          "x": "API提供720p的text-to-video和image-to-video端点。首发价格为每秒$0.0425，比$0.17的标价便宜百分之75，优惠期至2026年11月7日。"
+        }
+      ]
+    },
+    "design/design-cg-roundup-1018": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "sAsuw-nt-GM"
+        },
+        {
+          "t": "p",
+          "x": "CG Channel每周汇总小型CG软件更新的round-up，本期以Maxon的Autograph 2027.0和Red Giant 2027.0领衔。"
+        },
+        {
+          "t": "p",
+          "x": "Autograph是Maxon今年早些时候免费开放的USD-based（基于USD）动态图形、VFX与合成软件，此次迎来此后最大的一次更新：新的MCP Server可将其与Claude或ChatGPT等外部AI工具连接。其他新增内容包括新的Tile修改器模式、改进的竖排文字与日文排版、从Cinema 4D 2027.0复制粘贴摄像机、灯光和基本体，以及Adobe Fonts支持。"
+        },
+        {
+          "t": "p",
+          "x": "Maxon的特效插件套件Red Giant加入了AI-assisted重新布光系统：Scene Light利用AI-generated深度图和法线图，在After Effects中为镜头重新布光。Chromatic Displacement现已支持Autograph。Red Giant完整订阅价格为$85/month或$639/year。"
+        },
+        {
+          "t": "p",
+          "x": "在ComfyUI中，NVIDIA的RTX视频特效现以自定义节点形式在用户GPU上本地运行：RTX Video Super Resolution可将视频放大至最高4x或8,192px，Frame Generation可将帧率提升2–16x，HDR节点则把SDR转换为BT.2020 HDR。这些节点需要NVIDIA RTX GPU（帧生成需RTX 40 Series或更高），采用Apache 2.0-licensed（Apache 2.0许可）。"
+        }
+      ]
+    },
+    "design/design-wunderui-agentic-ds": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "设计系统原本是为阅读文档的人类打造的。如今大量UI由AI编程智能体编写，它们需要明确的规则、真实的组件，以及无法随意发挥的设计语言——这正是作者打造WunderUI的原因。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
+        },
+        {
+          "t": "p",
+          "x": "让智能体做一个账单仪表盘，它们往往会靠猜：超出调色板的hex颜色、用div拼出的表格、处处都是transition-all、不存在的props、随手挑选的深色模式。"
+        },
+        {
+          "t": "p",
+          "x": "WunderUI以单一可信来源，将Figma设计系统与React组件库（基于Base UI的Tailwind CSS v4）配套提供：205个组件，涵盖颜色、圆角、密度和动效的令牌，外加智能体可直接获取的DESIGN.md和design.json，以及一个MCP服务器。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
+        },
+        {
+          "t": "p",
+          "x": "DESIGN.md是一组简短、可测试的规则——绝不硬编码颜色、通过覆盖令牌来设定主题、动效只取自令牌——并附有一张将需求对应到组件的任务表。Agent-UI组件（AgentStatus、RunTimeline、ApprovalCard、CostMeter、RunError）包含在Pro方案中。"
+        },
+        {
+          "t": "p",
+          "x": "共有12项智能体技能，其中token-check和motion-audit等四项免费。77个组件以MIT许可免费提供；其余128个组件和全部技能需购买按年付费的Core和Pro方案。"
+        }
+      ]
+    },
+    "design/design-ai-photo-false-memory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+          "cap": "MIT Media Lab关于AI-edited照片与记忆的实验所用图像。 | MIT Media Lab"
+        },
+        {
+          "t": "p",
+          "x": "据The Washington Post报道的一项MIT Media Lab实验，AI-edited照片和视频会制造虚假记忆，并让人对事件的错误版本更加确信。"
+        },
+        {
+          "t": "p",
+          "x": "Pattie Maes教授及同事向参与者展示了24张普通照片——婚礼、城市街道、赛跑。休息之后，一部分人再次看到原图，另一部分人看到的是AI-altered版本。看到改动版本的人更容易记错细节，对错误答案也更有把握。Maes说：“我基本上认为这一切都非常危险。”"
+        },
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+          "cap": "MIT Media Lab关于AI-edited照片与记忆的实验所用图像。 | MIT Media Lab"
+        },
+        {
+          "t": "p",
+          "x": "在发表于CHI 2025的论文中，200名参与者被分为四组，每组50人：原图组、AI-edited图像组、由原图生成的five-second AI视频组，以及由编辑后图像生成的AI视频组。三个AI组产生的虚假记忆都多于对照组；编辑图像视频组的虚假记忆是对照组的2.05倍，确信程度为1.19倍。"
+        },
+        {
+          "t": "p",
+          "x": "Wharton的Gideon Nave担心的与其说是AI接管一切，不如说是人类“开始退化”，他忧虑一个“思考变得可有可无”的世界。"
+        }
+      ]
+    },
+    "design/design-kling4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
+        },
+        {
+          "t": "p",
+          "x": "据PandaDaily报道，Kuaishou旗下的Kling AI已在klingai.com上正式推出Kling 4.0，此前这款视频生成模型仅通过预览渠道提供。"
+        },
+        {
+          "t": "p",
+          "x": "PandaDaily报道称，Kling 4.0单个片段最长可生成30秒，最多支持10个关键帧，用于控制角色状态、场景转换和叙事节奏。一次任务最多可组合10张图片、五段视频和七个主体作为参考，多镜头续写功能则可将一段序列延伸至约两分钟。"
+        },
+        {
+          "t": "p",
+          "x": "音频是此次发布的核心部分：双声道立体声和口型同步覆盖中文、英语、日语、韩语、西班牙语、葡萄牙语、德语、法语、印地语、多种中国方言以及英语口音变体。提示词输入最多约8,000个token。此次推出还增加了MCP和命令行界面接口，便于智能体式或脚本化的制作流程。"
+        },
+        {
+          "t": "p",
+          "x": "4K 和1080p 10-bit HDR输出以及企业版API仍属“即将推出”，并不在已完成的公开发布之列。据Pexo报道，Kling 4.0 Flash版本已于9月28日面向最高档年度订阅用户开启有限的抢先体验。"
+        }
+      ]
     }
   }
 }

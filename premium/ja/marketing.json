@@ -1594,6 +1594,114 @@
           "x": "同社は声明で「皆さまの声を受け止め、明確にしたい。統合したクロール関連の条項は広告およびビジネス製品にのみ適用されるものであり、そのことを規約自体でも明確にした」と述べ、「これはMetaによるウェブクローラーの使い方を変えるものではない」とした。"
         }
       ]
+    },
+    "marketing/marketing-monday-harmony": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+          "cap": "monday.comのHarmony AIコーラーは有望なリードを担当者に引き継ぐ。ある車仲介業者はこれで成約が9%増えたという"
+        },
+        {
+          "t": "p",
+          "x": "monday.comは2026年10月19日、Harmonyの販売を始めた。中堅・大企業向けに、エージェントが営業電話をかけたり受けたりし、リードを選別して有望なものをその場で人間の担当者に引き継ぐ音声AIプラットフォームである。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントはOneAIから取得した音声技術と、タスク別に作られた独自の小型LLMs群で動き、発信とCRM write-backはTwilio上に構築されている。同社は音声入力から音声出力まで約200msの遅延と「最大70%の接続率」をうたうが、比較基準や手法は示していない。"
+        },
+        {
+          "t": "p",
+          "x": "名前が明かされた唯一の顧客であるUKの仲介業者Bright Car Financeによると、エージェントは承認済みの申込者全員に即座にフォローし、会話の約半分を選別し、そのうち80%をアドバイザーに引き継ぎ、一年足らずで成約件数を9%伸ばした。PPC Landは、これが相対値なのかパーセントポイントなのかは不明だと指摘する。"
+        },
+        {
+          "t": "p",
+          "x": "Harmonyは米国(US)、英国(UK)、オーストラリア、シンガポールで利用できる。価格、エラー率、独立した検証結果は公表されていない。"
+        }
+      ]
+    },
+    "marketing/marketing-minerva-cdp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "MinervaのCEO Jackson Englesは、270 million人の消費者を収めるアイデンティティグラフ上にマーケター向けAIエージェントを構築するため$20 millionを調達したが、自社の土台であるデータはおそらく持続的な堀にはならないと認める。彼の答えは領域を絞ることだ。「マーケターはClaudeを使って適当なデータを持ち込むだけではいけない」"
+        },
+        {
+          "t": "p",
+          "x": "ブランドがCRMやデータウェアハウスなどのソースをMinervaにつなぐと、OpenAIで構築した「エージェント型データエンジニア」がそれらをマッピングする。続いてエージェントがデータを顧客ごとの単一ビューに統合し、Minervaの「B2B2Cアイデンティティグラフ」で拡充する。Englesによると、Rampは仕事と個人の連携を使ってダイレクトメールを拡大し、三か月でMQL率を約80%高めた。WanderはMetaの類似オーディエンスで、広いターゲティングと比べて3.4xのROASを得た。"
+        },
+        {
+          "t": "p",
+          "x": "二つ目のエージェント「エージェント型データサイエンティスト」は、平易な言葉での依頼から予測モデルを構築する予定だ。Minervaは社内でこの層をエージェント型CDPと呼ぶが、そうは売り出していない。顧客は「CDPがもたらす成果を求めている」からだ。"
+        }
+      ]
+    },
+    "marketing/marketing-basis-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+          "cap": "ChatGPTは74.5%、Claudeは72.3%。マーケターがAIツールを使い分け、天秤はほぼ水平だ"
+        },
+        {
+          "t": "p",
+          "x": "Basisの四回目となる年次報告書「AI and the Future of Marketing」は、2026年7月16日から8月14日にかけて、マーケティング・広告の専門家184人を調査した。ChatGPTの利用率は88.6%から74.5%に下がり、Claudeは17.9%から72.3%に上がった。Copilotは55.4%、Geminiは47.8%である。"
+        },
+        {
+          "t": "p",
+          "x": "AIを毎日使う人は33.6%から61.4%に増えた。AIエージェントを運用する組織の割合は20.0%から51.1%に上昇し、主な用途はレポーティングと分析(72.3%)、キャンペーンブリーフ(56.4%)だ。最も任されていないのはメディアバイイングで、18.1%にとどまる。"
+        },
+        {
+          "t": "p",
+          "x": "定義した指標とベンチマークでAI ROIを測っているのは6.5%にすぎず、23.4%は経験的に測っている。PPC Landは、サンプルが小さいこと、回答者の募集方法が非公開であること、そしてBasisが結論で推奨する統合プラットフォームを自ら販売していることを指摘する。"
+        }
+      ]
+    },
+    "marketing/marketing-lendi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "チャットボットがブランド発見にどう影響するかの測定は、まだほとんど謎に包まれている。それでも「測れないものは改善できない」と、オーストラリアの住宅ローン・不動産販売会社Lendi Groupでグロース担当GMを務めるMichael McCashは語った。"
+        },
+        {
+          "t": "p",
+          "x": "McCashは、年間$10 millionを超えるLendiの有料メディア向けに社内でマルチタッチアトリビューションモデルを構築し、MMMにはMutinexを導入した。その結果、無料の地上波TVへの配分が少なすぎると分かった。Lendiは、LLMsに大量のプロンプトを投げてブランドの表れ方を分析するMutinexのAI Visibilityツールのパイロット顧客でもあり、ブランド追跡と調査にはTracksuitとAskableを使う。"
+        },
+        {
+          "t": "p",
+          "x": "ChatGPTやGeminiなどのチャットボット内広告は、まだROIへの大きな貢献源になっていない。CPMsも獲得単価も高すぎるからだ。Lendiが実際に目にしているのは、LLMsで下調べを済ませ、より多くの知識を持ってファネルの下の方まで進んできた顧客である。そのため当面、AIへの投資はチャットボット広告ではなく測定に向けている。"
+        }
+      ]
+    },
+    "marketing/marketing-amazon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+        },
+        {
+          "t": "p",
+          "x": "業界ニュースレターADOTATの10月1日付の分析によると、AmazonはunBoxed 2026で「Amazon DSP」の名称を廃止したが、買い付けエンジンは残し、トレーダーが使う操作機能を詳細設定のトグルの奥に移した。コラムは、AmazonのAIエージェントが既定の経路でチャネル、オーディエンス、入札額を選び、その結果をAmazon自身のデータで評価するようになったと論じる。Amazonは、DSPのプログラマティック機能はDVA+の詳細設定内で引き続き利用できるとしている。"
+        },
+        {
+          "t": "p",
+          "x": "新たなAmazon Ads Agentの傘下には、Sponsored Ads、DVA+、Full-Funnel Campaignsが並ぶ。1日$100から始まるFull-Funnelでは、Amazonがnew-to-brand売上などの成果に向けて複数のフォーマットに予算を配分する。ADOTATは「資格要件を条件に、U.S.の広告主に実際に提供されているのはFull-Funnel Campaignsだ」とし、「トレーダーがハンドルを握り続けられる機能は、まだベータ版だ」と書いた。DVA+はUSでクローズドベータの段階にあり、オープンベータは10月下旬の見込みだった。"
+        },
+        {
+          "t": "p",
+          "x": "コラムは「デフォルトが運命を決める」と述べる。ADOTATは自らの商業的な読みを推論と位置づけており、無料プレビューにはFull-Funnelがオーディエンス選択を妨げるとの記述はない。"
+        }
+      ]
     }
   }
 }

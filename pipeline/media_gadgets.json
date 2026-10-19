@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-19",
-  "section": "gadgets",
-  "media": [
-    {
-      "id": "gadgets-qwen-glasses",
-      "type": "image",
-      "src": "pipeline/media/gadgets-qwen-glasses.jpg"
-    },
-    {
-      "id": "gadgets-orangepi-o1",
-      "type": "image",
-      "src": "pipeline/media/gadgets-orangepi-o1.jpg"
-    },
-    {
-      "id": "gadgets-phonebot",
-      "type": "image",
-      "src": "pipeline/media/gadgets-phonebot.png"
-    },
-    {
-      "id": "gadgets-nothing-glasses",
-      "type": "image",
-      "src": "pipeline/media/gadgets-nothing-glasses.jpg"
-    },
-    {
-      "id": "gadgets-pixel-zoom",
-      "type": "image",
-      "src": "pipeline/media/gadgets-pixel-zoom.jpg"
-    }
-  ]
-}
+{"media": [
+  {"id": "gadgets-even-g2-review", "type": "image", "src": "pipeline/media/gadgets-even-g2-review.jpg"},
+  {"id": "gadgets-ai-dumb-smart-tv", "type": "image", "src": "pipeline/media/gadgets-ai-dumb-smart-tv.jpg"},
+  {"id": "gadgets-pixel11-magic-capture", "type": "image", "src": "pipeline/media/gadgets-pixel11-magic-capture.jpg"},
+  {"id": "gadgets-homeview-robot-arm", "type": "image", "src": "pipeline/media/gadgets-homeview-robot-arm.jpg"},
+  {"id": "gadgets-repair-robot-data", "type": "image", "src": "pipeline/media/gadgets-repair-robot-data.jpg"}
+]}

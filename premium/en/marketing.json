@@ -1594,6 +1594,114 @@
           "x": "“We’ve heard you and want to clarify: the crawling terms we consolidated only applied to our ads and business products, and we’ve clarified that in the terms themselves,” the company said in a statement. “It does not change how Meta uses web crawlers.”"
         }
       ]
+    },
+    "marketing/marketing-monday-harmony": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+          "cap": "monday.com’s Harmony AI caller hands warm leads to reps, which one car broker says lifted deals 9%"
+        },
+        {
+          "t": "p",
+          "x": "monday.com began selling Harmony on October 19, 2026: a voice AI platform whose agents place and answer sales calls for mid-market and enterprise companies, qualify leads and hand the promising ones live to human reps."
+        },
+        {
+          "t": "p",
+          "x": "The agents run on voice technology acquired from OneAI and a set of proprietary, task-specific small LLMs, with dialing and CRM write-back built on Twilio. The company claims about 200ms audio-in to audio-out latency and “a contact rate of up to 70%,” without a baseline or method."
+        },
+        {
+          "t": "p",
+          "x": "The only named customer, UK broker Bright Car Finance, says the agent follows up every approved applicant at once, qualifies about half its conversations, hands 80% of those to advisers and drove a 9% rise in deals closed in less than a year. PPC Land notes it is unclear whether that is relative or percentage points."
+        },
+        {
+          "t": "p",
+          "x": "Harmony is available in the US, UK, Australia and Singapore. No pricing, error rates or independent testing were published."
+        }
+      ]
+    },
+    "marketing/marketing-minerva-cdp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Minerva CEO Jackson Engles admits the data his startup is built on probably isn’t a durable moat, even after raising $20 million to build AI agents for marketers on an identity graph of 270 million consumers. His answer is to stay narrow: “Marketers shouldn’t just be using Claude and bringing in random data.”"
+        },
+        {
+          "t": "p",
+          "x": "A brand plugs its CRM, warehouse and other sources into Minerva, where an “agentic data engineer” built with OpenAI maps them. Agents then unify the data into one view per customer and enrich it from Minerva’s “B2B2C identity graph.” Ramp used the work-to-personal link to extend direct mail and lifted its MQL rate around 80% in three months; Wander saw 3.4x ROAS on Meta lookalikes versus broad targeting, per Engles."
+        },
+        {
+          "t": "p",
+          "x": "A second agent, an “agentic data scientist,” would build predictive models from plain-language requests. Minerva calls the layer an agentic CDP internally but doesn’t market it that way: customers “want the outcome of a CDP.”"
+        }
+      ]
+    },
+    "marketing/marketing-basis-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+          "cap": "ChatGPT at 74.5%, Claude at 72.3%: a balance scale nearly level as marketers split their AI tools"
+        },
+        {
+          "t": "p",
+          "x": "Basis’s fourth annual “AI and the Future of Marketing” report surveyed 184 marketing and advertising professionals from July 16 to August 14, 2026. ChatGPT use fell to 74.5% from 88.6%, while Claude rose to 72.3% from 17.9%; Copilot is at 55.4% and Gemini at 47.8%."
+        },
+        {
+          "t": "p",
+          "x": "Daily AI use reached 61.4%, up from 33.6%. The share of organizations running AI agents rose from 20.0% to 51.1%, mostly for reporting and analytics (72.3%) and campaign briefs (56.4%); media buying is the least delegated at 18.1%."
+        },
+        {
+          "t": "p",
+          "x": "Only 6.5% measure AI ROI with defined metrics and benchmarks; 23.4% measure it anecdotally. PPC Land notes the small sample, undisclosed recruitment, and that Basis sells the unified platform its conclusions recommend."
+        }
+      ]
+    },
+    "marketing/marketing-lendi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Measuring how chatbots shape brand discovery is mostly still a mystery. But “you can’t improve what you can’t measure,” said Michael McCash, GM of growth at Australian home loan and property sales company Lendi Group."
+        },
+        {
+          "t": "p",
+          "x": "McCash built an in-house multi-touch attribution model for Lendi’s more than $10 million in annual paid media and brought in Mutinex for MMM, which showed free-to-air TV was underweighted. Lendi is also a pilot customer of Mutinex’s AI Visibility tool, which mass-prompts LLMs and analyzes how brands surface, and uses Tracksuit and Askable for brand tracking and surveys."
+        },
+        {
+          "t": "p",
+          "x": "Ads inside chatbots such as ChatGPT and Gemini haven’t been major ROI contributors yet: CPMs and acquisition rates are too high. What Lendi does see is a more informed customer arriving further down the funnel after researching with LLMs, so for now its AI investment goes to measurement rather than chatbot ads."
+        }
+      ]
+    },
+    "marketing/marketing-amazon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon retired the \"Amazon DSP\" name at unBoxed 2026 but kept the buying engine, moving the controls traders use behind an advanced-settings toggle, according to an October 1 analysis by the trade newsletter ADOTAT. The column argues Amazon's AI agent now chooses channels, audiences and bids in its default path, then grades the results with Amazon's own data. Amazon says the DSP's programmatic capabilities remain available within DVA+ advanced settings."
+        },
+        {
+          "t": "p",
+          "x": "Under the new Amazon Ads Agent umbrella sit Sponsored Ads, DVA+ and Full-Funnel Campaigns. In Full-Funnel, which starts at $100 a day, Amazon allocates the budget across formats toward outcomes such as new-to-brand sales. \"The thing that is actually live for U.S. advertisers, subject to eligibility, is Full-Funnel Campaigns,\" ADOTAT wrote. \"The thing that keeps the trader's hands on the wheel is the thing still in beta.\" DVA+ was in US closed beta, with open beta expected in late October."
+        },
+        {
+          "t": "p",
+          "x": "\"Defaults are destiny,\" the column states. ADOTAT labels its commercial reading as inference, and its free preview does not say Full-Funnel blocks audience selection."
+        }
+      ]
     }
   }
 }

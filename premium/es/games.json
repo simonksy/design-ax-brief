@@ -7701,6 +7701,131 @@
           "x": "Konami no renuncia a la tecnología: \"Konami ofrece un apoyo sistemático para que los creadores comprendan las nuevas tecnologías, evalúen adecuadamente los riesgos que puedan conllevar y las apliquen de forma segura al desarrollo de juegos\", afirmó."
         }
       ]
+    },
+    "games/games-steam-noai-filter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "Steam Next Fest, el festival de Valve para juegos independientes y demos, ya comenzó, y parece incluir más juegos de bajo esfuerzo de lo habitual: muchos con arte que parece salido de un prompt rápido de ChatGPT, o directamente juegos AI-made, generados con IA."
+        },
+        {
+          "t": "p",
+          "x": "En el subreddit de Steam, el usuario ScalesGhost pidió más control sobre la Discovery Queue: “Me gustaría poder filtrar todos los juegos que tengan contenido AI-Generated (al fin y al cabo, steam ya exige declararlo), y también me gustaría excluir ciertas etiquetas.”"
+        },
+        {
+          "t": "p",
+          "x": "Steam ya tiene un sólido sistema de etiquetas, pero Valve recortó las etiquetas definidas por los usuarios en mayo; para que exista un filtro así, Valve tendría que añadir 'AI' como etiqueta. Otros usuarios se quejaron de que la IA ha “arruinado Next Fest” y esperan que Steam aplique normas de envío más estrictas."
+        },
+        {
+          "t": "p",
+          "x": "Valve lleva tiempo con un enfoque de laissez-faire en la curación y confía en el algoritmo para enterrar el shovelware. Mientras tanto, la IA sigue extendiéndose en el desarrollo de juegos: Epic retrasó su shooter de Star Wars para seguir una dirección “AI-first”, y Capcom estaría usando IA en su programa REX para mejorar el RE Engine."
+        }
+      ]
+    },
+    "games/games-finals-ai-commentary": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "eA9_Q6d2H-g"
+        },
+        {
+          "t": "p",
+          "x": "El predecesor de Arc Raiders incorpora comentarios dinámicos gracias a la IA. The Finals, el FPS multijugador que Embark Studios lanzó antes de su enorme extraction shooter, introduce una forma de reconocer a los jugadores en tiempo real mediante la narración dentro del juego."
+        },
+        {
+          "t": "p",
+          "x": "El equipo presentó la función en un breve video. Básicamente, Scott y June, las dos voces que se escuchan al jugar a The Finals, empezarán a mencionar los apodos de los jugadores cada vez que hagan algo destacado. Así, en lugar de oír solo “Y ese es un buen headshot”, se oirá “[Player] acaba de conseguir un buen headshot”."
+        },
+        {
+          "t": "p",
+          "x": "Al principio, la lista de situaciones en las que se oirá será relativamente corta, para ayudar a los desarrolladores a probar la tecnología. “Mantenerlo acotado nos permite cuidar lo que realmente dice”, explica Carl Strandberg, director de audio de The Finals. “Asegurarnos de que suene bien y como el Scotty que todos conocemos y queremos”."
+        },
+        {
+          "t": "p",
+          "x": "Todo funciona con IA, ya que la voz realiza básicamente una función automática de texto a voz (text-to-speech). Los comentarios ya usan esta tecnología, y Embark recibió críticas cuando los fans lo supieron hace unos años."
+        },
+        {
+          "t": "p",
+          "x": "Llega con la actualización Prime Time el 20 de octubre."
+        }
+      ]
+    },
+    "games/games-ukie-ai-mark": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "UKIE se ha asociado con el bufete Sheridans en un AI Compliance and Accreditation Service para ayudar a los estudios del UK a usar la IA de forma legal y responsable. Su proceso de cuatro pasos culmina en el UKIE Certification Mark, que los estudios pueden usar para demostrar cumplimiento y diligencia debida en presentaciones y rondas de financiación."
+        },
+        {
+          "t": "p",
+          "x": "El CEO de UKIE, Nick Poole, dijo que la mayoría de los miembros experimentan a diario con estas herramientas, “pero existe una preocupación común por entender dónde están los riesgos legales y comerciales y poder demostrar que se han tomado en serio esos riesgos”."
+        },
+        {
+          "t": "p",
+          "x": "Anna Poulter-Jones, socia de Sheridans, dijo que el servicio incluye revisiones de las políticas existentes de los estudios, ya que las leyes y las políticas públicas sobre IA siguen cambiando."
+        },
+        {
+          "t": "p",
+          "x": "Una revisión de cumplimiento en IA junto con una nueva política de IA cuesta normalmente £1,500–£2,000 para los miembros de UKIE y £2,000–£2,500 para los no miembros. La revisión de una política existente con controles de cumplimiento continuos cuesta £500–£750 para miembros y £750–£1,000 para no miembros."
+        }
+      ]
+    },
+    "games/games-japan-union-ai-voice": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "La Japan Actors Union ha publicado nuevas pautas sobre el uso de voces generadas por IA (AI-generated), que incluyen la prohibición de replicar las voces de actores fallecidos salvo que lo autorizaran en vida. Según Automaton, el objetivo es proteger a una industria expuesta a la explotación por parte de la IA generativa."
+        },
+        {
+          "t": "p",
+          "x": "Las pautas abarcan cuatro puntos: el consentimiento debe otorgarse en “cada etapa” del proceso de IA generativa, incluido el entrenamiento; las réplicas con IA cuentan como nuevas interpretaciones, por lo que se deben regalías o compensación; las traducciones con IA (AI-powered) deben mantener la “integridad artística” del original y requieren permiso para su uso en el extranjero; y el uso de la obra de un actor fallecido también exige el permiso de su familia y su agencia, además de regalías."
+        },
+        {
+          "t": "p",
+          "x": "El sindicato afirma que impulsará que las pautas se conviertan en normas para toda la industria e instará al gobierno a legislar los ‘derechos de voz’. Las pautas no son leyes y no obligan a las empresas de IA."
+        }
+      ]
+    },
+    "games/games-npctalk-gta5": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo kit de herramientas de modding impulsado por IA (AI-powered), llamado NPCTalk, lleva conversaciones sin guion y en tiempo real a Grand Theft Auto V: los jugadores pueden hablar directamente con los NPCs y escuchar sus respuestas con sus voces originales clonadas por IA (AI-cloned). Desarrollado por Universal Modder, el proyecto de código abierto busca llevar funciones similares a prácticamente cualquier juego que admita mods."
+        },
+        {
+          "t": "p",
+          "x": "Los jugadores hablan por el micrófono y reciben respuestas acordes al contexto, que reflejan la personalidad y el entorno de cada personaje. Los NPCs también pueden reaccionar físicamente, ejecutando animaciones o siguiendo órdenes habladas."
+        },
+        {
+          "t": "p",
+          "x": "Nemotron ASR de NVIDIA se encarga del reconocimiento de voz, Qwen 3.8 27B, ejecutado a través de Cerebras, genera el diálogo, y Fish Audio Drama 3 realiza la clonación de voz y la síntesis del habla en una NVIDIA H100 GPU en la nube. La documentación del proyecto indica unos 1.15–2.2 segundos entre que el jugador termina una frase y el NPC empieza a hablar con push-to-talk."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
+          "cap": "La arquitectura de NPCTalk. Fuente de la imagen: repositorio de NPCTalk en GitHub."
+        },
+        {
+          "t": "p",
+          "x": "NPCTalk se desarrolló con la ayuda de Claude Code, y su conocimiento está empaquetado como habilidades reutilizables para agentes de IA (AI-agent). Cada juego sigue necesitando su propia integración, y por ahora solo se ha mostrado en el modo de un jugador de GTA V Legacy. El kit está en GitHub con licencia MIT; un mod gratuito y jugable para GTA V llegará la próxima semana."
+        }
+      ]
     }
   }
 }

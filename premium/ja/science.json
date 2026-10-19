@@ -8411,6 +8411,141 @@
           "x": "結果は資源の見積もりであり、量子ハードウェア上での実証ではない。サンプルによるテストも、すべての入力で成功することを証明するものではない。論文はarXivのプレプリントで、査読を経ていない。"
         }
       ]
+    },
+    "science/science-racedrone-1020": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "AIで動くドローンが、世界トップクラスの人間のドローン操縦士の一部より速く、選手権のレースコースを完走した。Oct. 14（10月14日）にScience Roboticsで発表された研究で、Delft University of TechnologyのMicro Air Vehicles Labの研究者らはMonoRaceについて報告した。単一の前向きカメラと慣性計測装置、小さな機上コンピューターだけで飛ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "MonoRaceは2025 Abu Dhabi Autonomous Racing Leagueのドローンレースで優勝し、ライバルの自律飛行チームをすべて破ったうえ、元人間世界王者三人より速いタイムを記録した。GPSやモーションキャプチャー、ステレオカメラ、事前に読み込んだ地図を使わずに、11個のゲートを巡るコースを二周16.56秒で走り、約63 mph（102 km/h）に達した。"
+        },
+        {
+          "t": "p",
+          "x": "ニューラルネットワークがゲートを見つけ、重さ966グラムのドローンの位置を推定し、毎秒500回モーターに指令を送る。高速な物理シミュレーターで強化学習により訓練された。共著者のGuido de Croonは「本当にゼロから飛び方を学ぶ」と述べた。訓練では重量、空気抵抗、センサーノイズ、プロペラの状態を変化させ、ネットワークが異なるドローンを制御できるようにした。"
+        },
+        {
+          "t": "p",
+          "x": "De Croonは、MonoRaceが人間の操縦士の訓練ツールになり得ると述べ、「強力なチェスプログラムが人間の指し手に刺激を与えてきたのと少し似ている」と語った。"
+        }
+      ]
+    },
+    "science/science-kaist-photoflow": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+          "cap": "目的に合わせた光触媒、自動連続フロープラットフォーム、N-methyl pyrrole ライブラリー。Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Yoonsu Park教授率いるKAISTの研究チームは、原料を分注するロボット、自動ポンプ、細い管内での可視光照射（連続フロー）、インライン分析装置を組み合わせた無人合成プラットフォームを構築した。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+          "cap": "自動有機合成システム。Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "このプラットフォームは目的に合わせた光触媒を用い、フランの酸素原子を窒素に置き換えることで、創薬に使われる骨格であるN-methyl pyrrole（N-メチルピロール）へと変換する。チームは複雑な天然物を含む20種類以上のフラン系化合物に適用し、スケールアップを支え得る連続生産も実証した。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+          "cap": "合成プロセスの模式図。Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Park教授は「設計した分子をどれだけ速く、確実に合成できるかが、今後の創薬のスピードを左右する」と述べた。研究成果はJACS Auに掲載された。"
+        }
+      ]
+    },
+    "science/science-portbooks-soton": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+          "cap": "アーカイブ文書で学習するAI。Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "University of Southamptonの歴史学者らは、KewのNational Archivesに所蔵される手書きの港湾記録簿約100,000ページをAIで書き起こした。1565年以降に記録された英国の航海記録である。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+          "cap": "AIが書き起こしている手書き文書。Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "こうしてAI-readの記録から、1500s後半からmid-1700sまでの商船航行を収めたデータベースとインタラクティブ地図が生まれた。数十万件の航海、3,000を超える港、取引された品目を網羅する。研究を率いたCraig Lambertは「AIがデータを抽出し整理しなければ、何年もかかっていただろう」と述べた。ただし成果物には依然として人手による確認が必要だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+          "cap": "インタラクティブ地図の画面。Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "欧州(Europe)が圧倒的だった。1696–97年にはイングランド(England)の海外貿易の記録額の約80%を占めた。最も多く記録された品目は石炭で、麦芽、小麦、鉄、羊毛、ワインが続いた。記録された海上地点は南西部(South West)が最も多く、南東部(Southeast)とスコットランド(Scotland)が続いた。"
+        }
+      ]
+    },
+    "science/science-brainrot-tamu": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+          "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+        },
+        {
+          "t": "p",
+          "x": "Texas A&MのZhengzhong Tu率いる研究チームは、注目を集める低品質なコンテンツで学習した大規模言語モデルが「脳腐れ（brain rot）」を起こすことを突き止めた。人間でこうしたコンテンツと結び付けられる注意力や記憶力の低下と重なる現象だ。"
+        },
+        {
+          "t": "p",
+          "x": "チームは、2010年の公開Twitter投稿百万件のデータセットから「ジャンク」データを作成し、エンゲージメントの高さ、短さ、扇情的な文体で投稿を選別した。初期のラベル付けはGPT-4o miniが行い、大学院生がサンプルを確認した。ジャンクデータと対照データを混ぜて、Llama3 8B Instruct、Qwen2.5 7B Instruct、Qwen2.5 0.5B Instruct、Qwen3 4B Instructの四つのモデルを学習させた。"
+        },
+        {
+          "t": "p",
+          "x": "主な影響は推論力と記憶力の低下、推論の手順を飛ばす傾向、倫理的な安全装置の弱体化だった。より質の高いデータで再学習しても、性能は完全には戻らなかった。"
+        },
+        {
+          "t": "p",
+          "x": "著者らは、ジャンクで学習したモデルがさらにジャンクを生み出すという悪循環を警告し、学習データの透明性を求めている。研究はSan Franciscoで開かれたCOLM 2026で発表された。"
+        }
+      ]
+    },
+    "science/science-mit-crystal-text-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+        },
+        {
+          "t": "p",
+          "x": "大規模言語モデルに適切な材料を尋ねるやり方は、まだうまく機能しない。材料の多くはテキストではなく結晶の3D配列であり、文献も一部の人気の結晶分類に偏っている。"
+        },
+        {
+          "t": "p",
+          "x": "MITの研究者は、3D原子構造と自然言語の記述を組み合わせたマルチモーダルモデルを構築した。記述は実験論文と第一原理計算データベースから集めたもので、組成、構造、物性、プロセス、応用の可能性を網羅する。Nature Communicationsに掲載された論文で、このモデルはテキストのみのモデルより優れた材料設計を見つけることが示された。固体リチウムイオン電池の電解質を尋ねると、上位の結果には独立に特定されていた有望な候補が含まれていた。"
+        },
+        {
+          "t": "p",
+          "x": "チームは対照学習で構造とテキストを対応づけた。AIが生成した記述（AI-generated）で学習した版は形状とテキストの対応を学んだが、論文の文章だけで学習した版は学ばなかった。物性を記述する自然言語クエリを与えると、モデルは条件に合う結晶を見つけ、ベースラインを上回った。"
+        },
+        {
+          "t": "p",
+          "x": "「構造こそ材料科学分野の核心だ」と、このモデルをAlphaFoldになぞらえるJu Liは語る。"
+        }
+      ]
     }
   }
 }

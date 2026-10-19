@@ -8521,6 +8521,144 @@
           "cap": "Una lista de eventos de Payload CMS junto a la página web de eventos que impulsa."
         }
       ]
+    },
+    "design/design-flux3-max-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+        },
+        {
+          "t": "p",
+          "x": "fal anunció el 19 de octubre de 2026 FLUX 3 Max, un modelo de generación de video que fal Research posentrenó en colaboración con Black Forest Labs a partir del modelo fundacional FLUX 3. Quedó disponible ese mismo día en la plataforma de inferencia de fal."
+        },
+        {
+          "t": "p",
+          "x": "fal Research siguió entrenando FLUX 3 para mejorar la fidelidad visual, la coherencia del movimiento y la adherencia a las instrucciones, y optimizó la inferencia y el servicio en el motor propio de fal. Robin Rombach, CEO de BFL, dijo que FLUX 3 se creó como una base sobre la que otros pudieran construir."
+        },
+        {
+          "t": "p",
+          "x": "fal informa una puntuación Elo de 1,139 en evaluaciones preliminares image-to-video de Artificial Analysis Video Arena, 50 puntos más que el FLUX 3 original (1,089). En su prueba generó un video de 10 segundos en 10.95 segundos, lo que según fal es 22 veces más rápido que Seedance 2.5 con el mismo Elo y 11.5 veces más rápido que FLUX 3. La página del producto indica otra cifra: 12.45 segundos para un video de 10 segundos en 720p."
+        },
+        {
+          "t": "p",
+          "x": "La clasificación de la propia Artificial Analysis sitúa a FLUX 3 Max con 1,138 Elo, en segundo lugar detrás de MiniMax H3, con 1,140."
+        },
+        {
+          "t": "p",
+          "x": "La API ofrece endpoints text-to-video e image-to-video en 720p. El precio de lanzamiento es de $0.0425 por segundo, 75 por ciento menos que el precio de lista de $0.17, hasta el 7 de noviembre de 2026."
+        }
+      ]
+    },
+    "design/design-cg-roundup-1018": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "sAsuw-nt-GM"
+        },
+        {
+          "t": "p",
+          "x": "El round-up semanal de CG Channel sobre actualizaciones menores de software CG arranca con Autograph 2027.0 y Red Giant 2027.0 de Maxon."
+        },
+        {
+          "t": "p",
+          "x": "Autograph, el software USD-based (basado en USD) de motion graphics, VFX y composición que Maxon liberó gratis a principios de año, recibe su mayor actualización desde entonces: un nuevo MCP Server lo conecta con herramientas de AI externas como Claude o ChatGPT. Otras novedades son nuevos modos del modificador Tile, mejoras en el texto vertical y la tipografía japonesa, copiar y pegar cámaras, luces y primitivas desde Cinema 4D 2027.0, y compatibilidad con Adobe Fonts."
+        },
+        {
+          "t": "p",
+          "x": "Red Giant, el conjunto de plugins de efectos de Maxon, incorpora un sistema de reiluminación AI-assisted: Scene Light vuelve a iluminar planos en After Effects con mapas de profundidad y de normales AI-generated. Chromatic Displacement ya es compatible con Autograph. La suscripción completa a Red Giant cuesta $85/month o $639/year."
+        },
+        {
+          "t": "p",
+          "x": "En ComfyUI, los efectos de video RTX de NVIDIA funcionan ahora como nodos personalizados de forma local en la GPU del usuario: RTX Video Super Resolution escala el video hasta 4x u 8,192px, Frame Generation multiplica la tasa de fotogramas por 2–16x y un nodo HDR convierte SDR a BT.2020 HDR. Los nodos requieren una NVIDIA RTX GPU (RTX 40 Series o superior para la generación de fotogramas) y son Apache 2.0-licensed (licencia Apache 2.0)."
+        }
+      ]
+    },
+    "design/design-wunderui-agentic-ds": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los sistemas de diseño se crearon para personas que leen documentación. Hoy buena parte de la UI la escriben agentes de programación con IA (AI), que necesitan reglas explícitas, componentes reales y un lenguaje de diseño que no puedan improvisar; por eso el autor creó WunderUI."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
+        },
+        {
+          "t": "p",
+          "x": "Si se les pide un panel de facturación, los agentes tienden a adivinar: colores hex fuera de la paleta, tablas hechas con div, transition-all en todo, props inexistentes, modo oscuro elegido a mano."
+        },
+        {
+          "t": "p",
+          "x": "WunderUI combina un sistema de diseño en Figma con una biblioteca de React (Tailwind CSS v4 sobre Base UI) a partir de una única fuente de verdad: 205 componentes, tokens de color, radio, densidad y movimiento, además de un DESIGN.md y un design.json que los agentes pueden consultar, y un servidor MCP."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
+        },
+        {
+          "t": "p",
+          "x": "El DESIGN.md es un conjunto de reglas breves y comprobables —nunca fijar colores en el código, aplicar temas sobrescribiendo tokens, movimiento solo desde tokens— con una tabla de tareas que relaciona necesidades con componentes. Los componentes Agent-UI (AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError) están en el plan Pro."
+        },
+        {
+          "t": "p",
+          "x": "Hay 12 habilidades para agentes, cuatro de ellas gratuitas, como token-check y motion-audit. 77 componentes son gratuitos bajo licencia MIT; los otros 128 y todas las habilidades se incluyen en los planes anuales de pago Core y Pro."
+        }
+      ]
+    },
+    "design/design-ai-photo-false-memory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+          "cap": "Imágenes usadas en un experimento del MIT Media Lab sobre fotos AI-edited y memoria. | MIT Media Lab"
+        },
+        {
+          "t": "p",
+          "x": "Las fotografías y los videos AI-edited crean recuerdos falsos y hacen que las personas confíen aún más en la versión equivocada de un hecho, según un experimento del MIT Media Lab publicado por The Washington Post."
+        },
+        {
+          "t": "p",
+          "x": "La profesora Pattie Maes y sus colegas mostraron a los participantes 24 fotografías corrientes: una boda, una calle de ciudad, una carrera. Tras una pausa, algunos volvieron a ver los originales y otros vieron versiones AI-altered. Quienes vieron las versiones alteradas tendieron más a recordar mal los detalles y se mostraron más seguros de sus respuestas erróneas. “Considero todo esto muy peligroso, básicamente”, dijo Maes."
+        },
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+          "cap": "Imágenes usadas en un experimento del MIT Media Lab sobre fotos AI-edited y memoria. | MIT Media Lab"
+        },
+        {
+          "t": "p",
+          "x": "En el artículo, presentado en CHI 2025, 200 participantes se dividieron en cuatro grupos de 50: originales, imágenes AI-edited, videos de AI de cinco segundos a partir de los originales y videos de AI de las imágenes editadas. Los tres grupos de AI formaron más recuerdos falsos que el grupo de control; el grupo de video de imágenes editadas produjo 2.05 veces más, con 1.19 veces la confianza."
+        },
+        {
+          "t": "p",
+          "x": "Gideon Nave, de Wharton, se preocupa menos por que la AI tome el control que por que los humanos “empiecen a deteriorarse”, y teme un mundo en el que “pensar se vuelva opcional”."
+        }
+      ]
+    },
+    "design/design-kling4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
+        },
+        {
+          "t": "p",
+          "x": "Kling AI, de Kuaishou, lanzó Kling 4.0 de forma general en klingai.com, con lo que abre un modelo de generación de video que antes solo se ofrecía en acceso preliminar, según PandaDaily."
+        },
+        {
+          "t": "p",
+          "x": "PandaDaily informa que Kling 4.0 puede generar un solo clip de hasta 30 segundos y admite hasta 10 fotogramas clave para controlar el estado de los personajes, las transiciones de escena y los momentos narrativos. Una tarea puede combinar como referencia hasta 10 imágenes, cinco clips de video y siete sujetos, y la continuación multitoma está diseñada para extender una secuencia hasta unos dos minutos."
+        },
+        {
+          "t": "p",
+          "x": "El audio es una parte central del lanzamiento: estéreo de doble canal y sincronización labial en chino, inglés, japonés, coreano, español, portugués, alemán, francés, hindi, varios dialectos chinos y variantes de acento inglés. Las indicaciones pueden alcanzar unos 8,000 tokens. El despliegue también añade conexiones MCP y de interfaz de línea de comandos para flujos de producción agénticos o automatizados con scripts."
+        },
+        {
+          "t": "p",
+          "x": "La salida en 4K y en 1080p 10-bit HDR, así como una API empresarial, todavía están por llegar y no forman parte del despliegue público completado. Pexo informa que una variante Kling 4.0 Flash entró en acceso anticipado limitado el 28 de septiembre para los suscriptores anuales del nivel más alto."
+        }
+      ]
     }
   }
 }

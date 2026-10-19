@@ -7976,6 +7976,141 @@
           "x": "Los resultados son estimaciones de recursos, no demostraciones en hardware cuántico, y las pruebas por muestreo no demuestran que todas las entradas funcionen. El artículo es un preprint de arXiv y no ha pasado revisión por pares."
         }
       ]
+    },
+    "science/science-racedrone-1020": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un dron impulsado por AI completó un circuito de campeonato más rápido que algunos de los mejores pilotos humanos de drones del mundo. En un estudio publicado el Oct. 14 (14 de octubre) en Science Robotics, investigadores del Micro Air Vehicles Lab de la Delft University of Technology describen MonoRace, que vuela solo con una cámara frontal, una unidad de medición inercial y una pequeña computadora a bordo."
+        },
+        {
+          "t": "p",
+          "x": "MonoRace ganó la carrera de drones de la 2025 Abu Dhabi Autonomous Racing League, superó a todos los equipos autónomos rivales y registró tiempos mejores que tres excampeones mundiales humanos. Completó dos vueltas a un circuito de 11 puertas en 16.56 segundos y alcanzó unas 63 mph (102 km/h), sin GPS, captura de movimiento, cámaras estéreo ni mapa precargado."
+        },
+        {
+          "t": "p",
+          "x": "Una red neuronal detecta las puertas, estima la posición del dron de 966 gramos y envía órdenes a los motores 500 veces por segundo. Se entrenó con aprendizaje por refuerzo en un simulador físico rápido. “En realidad aprende a volar desde cero”, dijo el coautor Guido de Croon. El entrenamiento varió el peso, la resistencia aerodinámica, el ruido de los sensores y el estado de las hélices para que la red pudiera controlar distintos drones."
+        },
+        {
+          "t": "p",
+          "x": "De Croon dijo que MonoRace podría convertirse en una herramienta de entrenamiento para pilotos humanos, “un poco como los potentes programas de ajedrez también han inspirado a los humanos que juegan”."
+        }
+      ]
+    },
+    "science/science-kaist-photoflow": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
+          "cap": "Fotocatalizadores a medida, la plataforma automatizada de flujo continuo y la biblioteca de N-methyl pyrrole. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Un equipo de KAIST dirigido por el profesor Yoonsu Park construyó una plataforma de síntesis sin personal que combina un robot que dosifica las materias primas, bombas automáticas, irradiación con luz visible en un tubo estrecho (flujo continuo) y equipos de análisis en línea."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
+          "cap": "El sistema automatizado de síntesis orgánica. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Con fotocatalizadores a medida, la plataforma convierte furanos en N-methyl pyrroles, un andamio usado en el desarrollo de fármacos, al sustituir el átomo de oxígeno del furano por nitrógeno. El equipo la aplicó a más de 20 compuestos derivados del furano, incluidos productos naturales complejos, y demostró una producción continua que podría facilitar el escalado."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
+          "cap": "Esquema del proceso de síntesis. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "“La rapidez y la fiabilidad con que se puedan sintetizar las moléculas diseñadas determinarán la velocidad del desarrollo de fármacos en el futuro”, dijo Park. El trabajo se publica en JACS Au."
+        }
+      ]
+    },
+    "science/science-portbooks-soton": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
+          "cap": "AI entrenándose con documentos de archivo. Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "Historiadores de la University of Southampton usaron AI para transcribir unas 100,000 páginas de libros portuarios manuscritos conservados en los National Archives de Kew, registros de viajes británicos llevados desde 1565."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
+          "cap": "Un documento manuscrito transcrito por AI. Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "Con esos registros AI-read se creó una base de datos y un mapa interactivo de la navegación mercante desde finales de los 1500s hasta mid-1700s, con cientos de miles de viajes, más de 3,000 puertos y las mercancías comerciadas. “Sin que la AI extrajera y organizara los datos, esto habría llevado años”, dijo el investigador principal Craig Lambert; el resultado aún requirió revisión manual."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
+          "cap": "Captura del mapa interactivo. Credit: University of Southampton"
+        },
+        {
+          "t": "p",
+          "x": "Europa (Europe) dominaba: en 1696–97 representaba cerca del 80% del valor registrado del comercio exterior de Inglaterra (England). El carbón fue la mercancía registrada con más frecuencia, seguido de la malta, el trigo, el hierro, la lana y el vino. El South West tuvo más puntos marítimos registrados, por delante del Southeast y de Escocia (Scotland)."
+        }
+      ]
+    },
+    "science/science-brainrot-tamu": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
+          "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores dirigidos por Zhengzhong Tu en Texas A&M descubrieron que los modelos de lenguaje de gran tamaño entrenados con contenido de baja calidad y diseñado para captar la atención desarrollan “brain rot” (pudrición cerebral), en paralelo con el deterioro de la atención y la memoria que se asocia a ese contenido en las personas."
+        },
+        {
+          "t": "p",
+          "x": "Construyeron datos “basura” a partir de un conjunto de 2010 con un millón de publicaciones públicas de Twitter, y marcaron las publicaciones por su alta interacción, su brevedad y su estilo sensacionalista. GPT-4o mini hizo el etiquetado inicial y estudiantes de posgrado revisaron una muestra. Se entrenaron cuatro modelos con mezclas de datos basura y de control: Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct y Qwen3 4B Instruct."
+        },
+        {
+          "t": "p",
+          "x": "Los principales efectos fueron un razonamiento y una memoria más débiles, la tendencia a saltarse pasos de razonamiento y salvaguardas éticas debilitadas. Reentrenar con datos de mayor calidad no restableció por completo el rendimiento."
+        },
+        {
+          "t": "p",
+          "x": "Los autores advierten de un círculo vicioso en el que los modelos entrenados con basura producen más basura, y piden transparencia sobre los datos de entrenamiento. El trabajo se presentó en COLM 2026, en San Francisco."
+        }
+      ]
+    },
+    "science/science-mit-crystal-text-model": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202610/MIT-Synthetic-Narratives-01-press.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Pedir a un modelo de lenguaje grande el material adecuado todavía no funciona bien. La mayoría de los materiales son disposiciones 3D de cristales, no texto, y la literatura está sesgada hacia unas pocas clases populares de cristales."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores del MIT crearon un modelo multimodal que combina estructuras atómicas 3D con descripciones en lenguaje natural extraídas de artículos experimentales y de bases de datos computacionales de primeros principios, que abarcan composición, estructura, propiedades, procesamiento y posibles aplicaciones. En Nature Communications muestran que identifica mejores diseños de materiales que los modelos solo de texto; al pedirle electrolitos para baterías de iones de litio de estado sólido, sus primeros resultados incluyeron candidatos prometedores identificados de forma independiente."
+        },
+        {
+          "t": "p",
+          "x": "El equipo usó aprendizaje contrastivo para alinear estructuras y texto. Una versión entrenada con descripciones generadas por IA (AI-generated) aprendió a alinear geometría y texto; otra entrenada solo con texto de artículos no lo logró. Ante una consulta en lenguaje natural que describía una propiedad, el modelo encontró cristales coincidentes y superó a un modelo de referencia."
+        },
+        {
+          "t": "p",
+          "x": "“La estructura está realmente en el corazón de la ciencia de materiales”, afirma Ju Li, quien compara el modelo con AlphaFold."
+        }
+      ]
     }
   }
 }

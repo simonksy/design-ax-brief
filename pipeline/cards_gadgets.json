@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-qwen-glasses",
+      "id": "gadgets-even-g2-review",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Qwen 안경 N1,\n스펙은 Meta 앞서",
-      "body": "Qwen Glasses N1은 배터리와 카메라 스펙에서 Meta를 앞선다.",
-      "mini_headline": "Qwen Glasses N1, Meta 앞서",
+      "headline": "Even G2 리뷰\n똑똑한 안경, 어색한 조작",
+      "body": "Engadget은 G2에 6.9/10을 줬다. 가볍지만 조작이 어렵다는 평이다.",
+      "mini_headline": "Even G2, 어색한 조작",
       "tool": "Gadgets",
-      "source": "Gizmodo",
-      "url": "https://gizmodo.com/alibaba-qwen-glasses-n1-2000825793",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,179 +19,251 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+            "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
+            "cap": "Daniel Cooper for Engadget"
           },
           {
             "t": "p",
-            "x": "미국(U.S.)에서 스마트 안경 하면 Meta가 화제를 주도하지만, 중국에서는 단연 Alibaba다. 이 전자상거래 대기업은 벌써 여러 세대의 스마트 안경을 내놓았고, 최신 제품은 적어도 기술만 놓고 보면 Meta 제품과 격차를 꽤 벌리기 시작했다."
-          },
-          {
-            "t": "p",
-            "x": "Alibaba에 따르면 $490(3,499 RMB)짜리 Qwen Glasses N1에는 50메가픽셀 카메라 센서가 들어간다. 최신 Ray-Ban Meta(Gen 3)도 12메가픽셀 센서에 그친다. 배터리는 대기 시 25시간, 음악 재생 시 아홉 시간을 간다고 Alibaba는 내세운다. 최신 Ray-Ban 안경은 혼합 사용 기준으로 한 번 충전하면 최대 아홉 시간을 버틴다는 평가다."
+            "x": "Engadget은 Even Realities G2에 6.9/10점을 줬다. 카메라가 없는 이 안경은 알림, 헤드라인, 길 안내, 번역, 텔레프롬프터, AI 어시스턴트를 시야에 띄운다. 기본 모델은 $599이고 도수 렌즈를 넣으면 $159에서 $349를 더 내야 한다."
           },
           {
             "t": "img",
-            "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
-            "cap": "최신 Ray-Ban 스마트 안경(사진)은 몇 가지 면에서 Alibaba 제품에 밀린다. © Raymond Wong / Gizmodo"
+            "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
           },
           {
             "t": "p",
-            "x": "N1에는 Meta에 없는 기능도 있다. 1.7mm짜리 작은 시선 추적 카메라 덕분에 안경의 AI는 사용자가 무엇을 보는지 정확히 알아채고, 홍채를 스캔해 Alipay 결제를 승인할 수도 있다고 한다. 브리지에 달린 센서로는 체온을 잰다. Gizmodo가 직접 시험해 보진 않았지만, 스펙만 보면 미국(U.S.)에서 살 수 있는 제품보다 한 단계 위다."
+            "x": "G2는 더 가벼워졌고 디스플레이도 선명해졌다(640 x 350). 시야각 27.5도, 주사율 60Hz, 밝기 1,200 nits에 마이크 네 개, IP65 등급까지 갖췄다. 안경다리 끝에는 터치패드를 새로 넣었다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+          },
+          {
+            "t": "p",
+            "x": "따로 파는 $249 R1 스마트 링은 리모컨 겸 건강 지표 추적기다. 작은 터치패드는 스와이프, 탭, 누르기만 알아듣는데 탭과 스와이프마저 자주 잘못 읽었다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+          },
+          {
+            "t": "p",
+            "x": "제대로 작동하면 스크롤은 미래 같다. Translation은 똑똑하고 Navigation은 편리하며 AI도 충분히 빠르다. 다만 Conversate 회의 노트는 결론을 잘 끌어내지 못한다. 리뷰어는 여전히 단종된 G1 쪽을 더 좋아한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Alibaba's Qwen Glasses N1\nout-spec Meta on paper",
-          "body": "Alibaba's Qwen Glasses N1 make bold battery-life claims and carry a camera sensor that beats Meta's glasses on paper.",
-          "mini_headline": "Qwen Glasses N1\nout-spec Meta",
+          "headline": "Even Realities G2 review:\nsmart glasses, awkward controls",
+          "body": "Engadget gives Even Realities' G2 a 6.9/10: light and snappy, but its growing feature set is too hard to control.",
+          "mini_headline": "Even G2 glasses,\nawkward controls",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
+                "cap": "Daniel Cooper for Engadget"
               },
               {
                 "t": "p",
-                "x": "While Meta dominates the conversation about smart glasses in the U.S., in China, it's all about Alibaba. The e-commerce giant now has multiple generations of smart glasses, and its newest pair is starting to put some serious distance between it and Meta's counterparts, at least technologically speaking."
-              },
-              {
-                "t": "p",
-                "x": "The $490 (3,499 RMB) Qwen Glasses N1 come with a 50-megapixel camera sensor, according to Alibaba. Even the newest Ray-Ban Meta (Gen 3) only have a 12-megapixel sensor. Alibaba also claims 25 hours of battery on standby and nine hours for music playback; the most recent Ray-Ban glasses are rated for a maximum of nine hours on a single charge with mixed use."
+                "x": "Engadget rates the Even Realities G2 6.9/10. The camera-free glasses project notifications, headlines, directions, translation, a teleprompter and an AI assistant into your view. The base model is $599; prescription lenses add $159 to $349."
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
-                "cap": "The newest Ray-Ban smart glasses (pictured) fall behind Alibaba's in a few ways. © Raymond Wong / Gizmodo"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
               },
               {
                 "t": "p",
-                "x": "The N1 also add features Meta doesn't have: a tiny 1.7mm eye-tracking camera lets the glasses' AI understand exactly what you're looking at, and can reportedly scan your iris to confirm Alipay payments. A sensor on the bridge tracks your temperature. Gizmodo hasn't tested the glasses, but on paper, they're a step above what's available in the U.S."
+                "x": "The G2 is lighter, with sharper displays (640 x 350), a 27.5-degree field of view, a 60Hz refresh rate, 1,200 nits, four mics and an IP65 rating. New touchpads sit on the temple tips."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+              },
+              {
+                "t": "p",
+                "x": "The optional $249 R1 smart ring acts as a remote and tracks health stats, but its tiny touchpad only reads swipes, taps and presses, and taps and swipes were often misread."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+              },
+              {
+                "t": "p",
+                "x": "When it works, scrolling feels like the future: Translation is smart, Navigation is handy and the AI is fast enough, though the Conversate meeting notes struggle to draw conclusions. The reviewer still prefers the discontinued G1."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Qwen 안경 N1,\n스펙은 Meta 앞서",
-          "body": "Qwen Glasses N1은 배터리와 카메라 스펙에서 Meta를 앞선다.",
-          "mini_headline": "Qwen Glasses N1, Meta 앞서",
+          "headline": "Even G2 리뷰\n똑똑한 안경, 어색한 조작",
+          "body": "Engadget은 G2에 6.9/10을 줬다. 가볍지만 조작이 어렵다는 평이다.",
+          "mini_headline": "Even G2, 어색한 조작",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
+                "cap": "Daniel Cooper for Engadget"
               },
               {
                 "t": "p",
-                "x": "미국(U.S.)에서 스마트 안경 하면 Meta가 화제를 주도하지만, 중국에서는 단연 Alibaba다. 이 전자상거래 대기업은 벌써 여러 세대의 스마트 안경을 내놓았고, 최신 제품은 적어도 기술만 놓고 보면 Meta 제품과 격차를 꽤 벌리기 시작했다."
-              },
-              {
-                "t": "p",
-                "x": "Alibaba에 따르면 $490(3,499 RMB)짜리 Qwen Glasses N1에는 50메가픽셀 카메라 센서가 들어간다. 최신 Ray-Ban Meta(Gen 3)도 12메가픽셀 센서에 그친다. 배터리는 대기 시 25시간, 음악 재생 시 아홉 시간을 간다고 Alibaba는 내세운다. 최신 Ray-Ban 안경은 혼합 사용 기준으로 한 번 충전하면 최대 아홉 시간을 버틴다는 평가다."
+                "x": "Engadget은 Even Realities G2에 6.9/10점을 줬다. 카메라가 없는 이 안경은 알림, 헤드라인, 길 안내, 번역, 텔레프롬프터, AI 어시스턴트를 시야에 띄운다. 기본 모델은 $599이고 도수 렌즈를 넣으면 $159에서 $349를 더 내야 한다."
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
-                "cap": "최신 Ray-Ban 스마트 안경(사진)은 몇 가지 면에서 Alibaba 제품에 밀린다. © Raymond Wong / Gizmodo"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
               },
               {
                 "t": "p",
-                "x": "N1에는 Meta에 없는 기능도 있다. 1.7mm짜리 작은 시선 추적 카메라 덕분에 안경의 AI는 사용자가 무엇을 보는지 정확히 알아채고, 홍채를 스캔해 Alipay 결제를 승인할 수도 있다고 한다. 브리지에 달린 센서로는 체온을 잰다. Gizmodo가 직접 시험해 보진 않았지만, 스펙만 보면 미국(U.S.)에서 살 수 있는 제품보다 한 단계 위다."
+                "x": "G2는 더 가벼워졌고 디스플레이도 선명해졌다(640 x 350). 시야각 27.5도, 주사율 60Hz, 밝기 1,200 nits에 마이크 네 개, IP65 등급까지 갖췄다. 안경다리 끝에는 터치패드를 새로 넣었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+              },
+              {
+                "t": "p",
+                "x": "따로 파는 $249 R1 스마트 링은 리모컨 겸 건강 지표 추적기다. 작은 터치패드는 스와이프, 탭, 누르기만 알아듣는데 탭과 스와이프마저 자주 잘못 읽었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+              },
+              {
+                "t": "p",
+                "x": "제대로 작동하면 스크롤은 미래 같다. Translation은 똑똑하고 Navigation은 편리하며 AI도 충분히 빠르다. 다만 Conversate 회의 노트는 결론을 잘 끌어내지 못한다. 리뷰어는 여전히 단종된 G1 쪽을 더 좋아한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Qwenグラス N1、\n仕様上はMetaを凌ぐ",
-          "body": "AlibabaのQwen Glasses N1は電池とカメラの仕様でMetaを上回る。",
-          "mini_headline": "Qwen Glasses N1がMeta超え",
+          "headline": "Even G2レビュー\n賢い眼鏡、ぎこちない操作",
+          "body": "EngadgetはG2を6.9/10と評価し、軽快だが操作が難しいとした。",
+          "mini_headline": "Even G2、ぎこちない操作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
+                "cap": "Daniel Cooper for Engadget"
               },
               {
                 "t": "p",
-                "x": "U.S.（米国）ではスマートグラスの話題をMetaが独占しているが、中国ではAlibabaが主役だ。このEC大手はすでに複数世代のスマートグラスを手がけており、最新モデルは少なくとも技術面で、Metaの製品との差を大きく広げ始めている。"
-              },
-              {
-                "t": "p",
-                "x": "Alibabaによると、$490（3,499 RMB）のQwen Glasses N1は50メガピクセルのカメラセンサーを搭載する。最新のRay-Ban Meta（Gen 3）でさえ12メガピクセルのセンサーにとどまる。Alibabaは待機時25時間、音楽再生時九時間のバッテリー持続もうたう。最新のRay-Ban製品は、混合利用で一回の充電あたり最大九時間とされる。"
+                "x": "EngadgetはEven Realities G2を6.9/10と評価した。カメラを持たないこの眼鏡は、通知、ヘッドライン、道案内、翻訳、テレプロンプター、AIアシスタントを視界に映し出す。ベースモデルは$599で、度付きレンズには$159から$349が追加でかかる。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
-                "cap": "最新のRay-Banスマートグラス（写真）は、いくつかの点でAlibaba製品に後れを取る。© Raymond Wong / Gizmodo"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
               },
               {
                 "t": "p",
-                "x": "N1にはMetaにない機能もある。1.7mm の小さな視線追跡カメラにより、グラスのAIはユーザーが何を見ているかを正確に把握し、虹彩をスキャンしてAlipayの決済を承認することもできるという。ブリッジ部のセンサーは体温を計測する。Gizmodoは実機を試していないが、仕様上はU.S.（米国）で手に入る製品より一段上だ。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Las Qwen Glasses N1 de Alibaba\nsuperan a Meta sobre el papel",
-          "body": "Las Qwen Glasses N1 de Alibaba prometen gran autonomía y una cámara que supera, sobre el papel, a las de Meta.",
-          "mini_headline": "Las Qwen Glasses N1 superan a Meta",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Mientras Meta domina la conversación sobre gafas inteligentes en Estados Unidos (U.S.), en China todo gira en torno a Alibaba. El gigante del comercio electrónico ya tiene varias generaciones de gafas inteligentes, y su modelo más reciente empieza a sacar una ventaja considerable a los de Meta, al menos en lo tecnológico."
-              },
-              {
-                "t": "p",
-                "x": "Según Alibaba, las Qwen Glasses N1, de $490 (3,499 RMB), incorporan un sensor de cámara de 50 megapíxeles. Incluso las Ray-Ban Meta más recientes (Gen 3) solo tienen un sensor de 12 megapíxeles. Alibaba también promete 25 horas de batería en reposo y nueve horas de reproducción de música; las gafas Ray-Ban más recientes ofrecen un máximo de nueve horas con una sola carga en uso mixto."
+                "x": "G2はより軽くなり、ディスプレイはより鮮明(640 x 350)だ。視野角27.5度、リフレッシュレート60Hz、1,200 nits、四つのマイク、IP65等級を備える。テンプルの先端には新しいタッチパッドが付いた。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
-                "cap": "Las gafas inteligentes Ray-Ban más recientes (en la imagen) se quedan atrás frente a las de Alibaba en varios aspectos. © Raymond Wong / Gizmodo"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
               },
               {
                 "t": "p",
-                "x": "Las N1 también añaden funciones que Meta no tiene: una diminuta cámara de seguimiento ocular de 1.7mm permite que la IA de las gafas entienda exactamente qué estás mirando y, según se informa, puede escanear el iris para confirmar pagos con Alipay. Un sensor en el puente registra la temperatura. Gizmodo no ha probado las gafas, pero sobre el papel están un paso por encima de lo que se vende en Estados Unidos (U.S.)."
+                "x": "オプションの$249のR1スマートリングはリモコンとして機能し、健康データも記録する。だが小さなタッチパッドが読み取れるのはスワイプ、タップ、押し込みだけで、タップとスワイプはしばしば誤認識された。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+              },
+              {
+                "t": "p",
+                "x": "うまく動けば、スクロールは未来のように感じられる。Translationは賢く、Navigationは便利で、AIも十分に速い。ただしConversateの会議メモは結論を導き出すのに苦労する。レビュアーは今も販売終了したG1のほうを好む。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "阿里Qwen眼镜N1\n纸面参数胜过Meta",
-          "body": "阿里巴巴Qwen Glasses N1续航宣称亮眼，摄像头传感器纸面上胜过Meta眼镜。",
-          "mini_headline": "Qwen Glasses N1 纸面胜过 Meta",
+          "headline": "Even G2评测\n智能眼镜，操控别扭",
+          "body": "Engadget给G2打出6.9/10，称其轻快但功能渐多、操控太难。",
+          "mini_headline": "Even G2：操控别扭",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
+                "cap": "Daniel Cooper for Engadget"
               },
               {
                 "t": "p",
-                "x": "在U.S.，智能眼镜的话题由Meta主导；而在中国，焦点则是阿里巴巴(Alibaba)。这家电商巨头已推出多代智能眼镜，其最新款至少在技术层面上，正开始与Meta的同类产品拉开明显差距。"
-              },
-              {
-                "t": "p",
-                "x": "据Alibaba介绍，售价$490(3,499 RMB)的Qwen Glasses N1配备50-megapixel 摄像头传感器，而即便是最新的Ray-Ban Meta(Gen 3)也只有12-megapixel 传感器。Alibaba还宣称其待机续航25小时、音乐播放九小时；最新款Ray-Ban眼镜在混合使用下单次充电最长续航为九小时。"
+                "x": "Engadget给Even Realities G2打出6.9/10。这款不带摄像头的眼镜可将通知、新闻标题、导航、翻译、提词器和AI助手投射到视野中。基础款售价$599；处方镜片另加$159至$349。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
-                "cap": "最新款Ray-Ban智能眼镜(图)在几个方面落后于Alibaba的产品。© Raymond Wong / Gizmodo"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
               },
               {
                 "t": "p",
-                "x": "N1还加入了Meta没有的功能：一枚仅1.7mm 的微型眼动追踪摄像头，让眼镜的AI能准确理解你正在看什么，据报道还能扫描虹膜以确认Alipay付款。镜梁上的传感器可追踪体温。Gizmodo尚未测试这款眼镜，但从纸面参数看，它比U.S.市场现有产品高出一筹。"
+                "x": "G2更轻，显示屏更清晰（640 x 350），视场角27.5度，刷新率60Hz，亮度1,200 nits，配备四个麦克风，并达到IP65防护等级。镜腿末端新增了触控板。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+              },
+              {
+                "t": "p",
+                "x": "可选配的$249 R1智能戒指可充当遥控器并追踪健康数据，但其小小的触控板只能识别滑动、轻点和按压，而且轻点和滑动常被误读。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+              },
+              {
+                "t": "p",
+                "x": "正常工作时，滚动浏览颇有未来感：Translation很聪明，Navigation很实用，AI也足够快，但Conversate会议笔记难以得出结论。评测者仍更喜欢已停产的G1。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Reseña de Even Realities G2:\ngafas listas, mandos torpes",
+          "body": "Engadget da un 6.9/10 a las G2 de Even Realities: ligeras y ágiles, pero difíciles de controlar.",
+          "mini_headline": "Even G2: mandos torpes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
+                "cap": "Daniel Cooper for Engadget"
+              },
+              {
+                "t": "p",
+                "x": "Engadget califica las Even Realities G2 con un 6.9/10. Estas gafas sin cámara proyectan en el campo de visión notificaciones, titulares, indicaciones de ruta, traducción, un teleprompter y un asistente de AI. El modelo básico cuesta $599; las lentes graduadas suman de $159 a $349."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Las G2 son más ligeras, con pantallas más nítidas (640 x 350), un campo de visión de 27.5 grados, una frecuencia de actualización de 60Hz, 1,200 nits, cuatro micrófonos y certificación IP65. Los nuevos paneles táctiles están en las puntas de las patillas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El anillo inteligente opcional R1, de $249, funciona como mando y registra datos de salud, pero su diminuto panel táctil solo reconoce deslizamientos, toques y pulsaciones, y a menudo interpretaba mal toques y deslizamientos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Cuando funciona, desplazarse se siente como el futuro: Translation es inteligente, Navigation resulta práctica y la AI es lo bastante rápida, aunque las notas de reuniones de Conversate tienen problemas para sacar conclusiones. El autor de la reseña sigue prefiriendo las G1, ya descatalogadas."
               }
             ]
           }
@@ -199,125 +271,173 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Qwen 안경 N1,\n스펙은 Meta 앞서",
-          "body": "Qwen Glasses N1은 배터리와 카메라 스펙에서 Meta를 앞선다.",
-          "mini_headline": "Qwen Glasses N1, Meta 앞서",
+          "headline": "Even G2 리뷰\n똑똑한 안경, 어색한 조작",
+          "body": "Engadget은 G2에 6.9/10을 주며 가볍지만 조작이 어렵다고 봤다.",
+          "mini_headline": "Even G2, 어색한 조작",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
+                "cap": "Daniel Cooper for Engadget"
               },
               {
                 "t": "p",
-                "x": "미국(U.S.)에서는 스마트 안경 하면 Meta가 화제를 주도하지만, 중국에서는 단연 Alibaba다. 이 전자상거래 대기업은 이미 여러 세대의 스마트 안경을 내놓았고, 최신 제품은 적어도 기술 면에서 Meta 제품과 격차를 꽤 벌리기 시작했다."
-              },
-              {
-                "t": "p",
-                "x": "Alibaba에 따르면 $490(3,499 RMB)인 Qwen Glasses N1에는 50메가픽셀 카메라 센서가 들어간다. 최신 Ray-Ban Meta(Gen 3)조차 12메가픽셀 센서에 그친다. Alibaba는 대기 시 25시간, 음악 재생 시 아홉 시간의 배터리 수명도 내세운다. 최신 Ray-Ban 안경은 혼합 사용 기준 한 번 충전에 최대 아홉 시간으로 평가된다."
+                "x": "Engadget은 Even Realities G2에 6.9/10점을 줬다. 카메라가 없는 이 안경은 알림, 헤드라인, 길 안내, 번역, 텔레프롬프터, AI 어시스턴트를 시야에 띄운다. 기본 모델은 $599이고, 도수 렌즈를 넣으면 $159에서 $349가 추가된다."
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
-                "cap": "최신 Ray-Ban 스마트 안경(사진)은 몇 가지 면에서 Alibaba 제품에 뒤처진다. © Raymond Wong / Gizmodo"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
               },
               {
                 "t": "p",
-                "x": "N1에는 Meta에 없는 기능도 있다. 1.7mm 크기의 작은 시선 추적 카메라 덕분에 안경의 AI가 사용자가 무엇을 보고 있는지 정확히 파악하며, 홍채를 스캔해 Alipay 결제를 승인할 수도 있다고 한다. 브리지에 달린 센서는 체온을 추적한다. Gizmodo는 이 안경을 직접 시험하지 않았지만, 스펙상으로는 미국(U.S.)에서 구할 수 있는 제품보다 한 단계 위다."
+                "x": "G2는 더 가벼워졌고 디스플레이도 더 선명하다(640 x 350). 시야각 27.5도, 주사율 60Hz, 밝기 1,200 nits, 마이크 네 개, IP65 등급을 갖췄다. 안경다리 끝에는 새 터치패드가 들어갔다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+              },
+              {
+                "t": "p",
+                "x": "별도로 파는 $249 R1 스마트 링은 리모컨 역할을 하고 건강 지표도 추적한다. 하지만 작은 터치패드는 스와이프, 탭, 누르기만 인식하며, 탭과 스와이프를 자주 잘못 읽었다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+              },
+              {
+                "t": "p",
+                "x": "제대로 작동할 때 스크롤은 미래처럼 느껴진다. Translation은 똑똑하고 Navigation은 편리하며 AI도 충분히 빠르다. 다만 Conversate 회의 노트는 결론을 잘 끌어내지 못한다. 리뷰어는 여전히 단종된 G1을 더 좋아한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Qwenグラス N1、\n仕様上はMetaを凌ぐ",
-          "body": "AlibabaのQwen Glasses N1は電池とカメラの仕様でMetaを上回る。",
-          "mini_headline": "Qwen Glasses N1がMeta超え",
+          "headline": "Even G2レビュー\n賢い眼鏡、ぎこちない操作",
+          "body": "EngadgetはG2を6.9/10と評価し、軽快だが操作が難しいとした。",
+          "mini_headline": "Even G2、ぎこちない操作",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
+                "cap": "Daniel Cooper for Engadget"
               },
               {
                 "t": "p",
-                "x": "U.S.（米国）ではスマートグラスの話題をMetaが独占しているが、中国ではAlibabaが主役だ。このEC大手はすでに複数世代のスマートグラスを手がけており、最新モデルは少なくとも技術面で、Metaの製品との差を大きく広げ始めている。"
-              },
-              {
-                "t": "p",
-                "x": "Alibabaによると、$490（3,499 RMB）のQwen Glasses N1は50メガピクセルのカメラセンサーを搭載する。最新のRay-Ban Meta（Gen 3）でさえ12メガピクセルのセンサーにとどまる。Alibabaは待機時25時間、音楽再生時九時間のバッテリー持続もうたう。最新のRay-Ban製品は、混合利用で一回の充電あたり最大九時間とされる。"
+                "x": "EngadgetはEven Realities G2を6.9/10と評価した。カメラを持たないこの眼鏡は、通知、ヘッドライン、道案内、翻訳、テレプロンプター、AIアシスタントを視界に映し出す。ベースモデルは$599で、度付きレンズには$159から$349が追加でかかる。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
-                "cap": "最新のRay-Banスマートグラス（写真）は、いくつかの点でAlibaba製品に後れを取る。© Raymond Wong / Gizmodo"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
               },
               {
                 "t": "p",
-                "x": "N1にはMetaにない機能もある。1.7mm の小さな視線追跡カメラにより、グラスのAIはユーザーが何を見ているかを正確に把握し、虹彩をスキャンしてAlipayの決済を承認することもできるという。ブリッジ部のセンサーは体温を計測する。Gizmodoは実機を試していないが、仕様上はU.S.（米国）で手に入る製品より一段上だ。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Las Qwen Glasses N1 de Alibaba\nsuperan a Meta sobre el papel",
-          "body": "Las Qwen Glasses N1 de Alibaba prometen gran autonomía y una cámara que supera, sobre el papel, a las de Meta.",
-          "mini_headline": "Las Qwen Glasses N1 superan a Meta",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Mientras Meta domina la conversación sobre gafas inteligentes en Estados Unidos (U.S.), en China todo gira en torno a Alibaba. El gigante del comercio electrónico ya tiene varias generaciones de gafas inteligentes, y su modelo más reciente empieza a sacar una ventaja considerable a los de Meta, al menos en lo tecnológico."
-              },
-              {
-                "t": "p",
-                "x": "Según Alibaba, las Qwen Glasses N1, de $490 (3,499 RMB), incorporan un sensor de cámara de 50 megapíxeles. Incluso las Ray-Ban Meta más recientes (Gen 3) solo tienen un sensor de 12 megapíxeles. Alibaba también promete 25 horas de batería en reposo y nueve horas de reproducción de música; las gafas Ray-Ban más recientes ofrecen un máximo de nueve horas con una sola carga en uso mixto."
+                "x": "G2はより軽くなり、ディスプレイはより鮮明(640 x 350)だ。視野角27.5度、リフレッシュレート60Hz、1,200 nits、四つのマイク、IP65等級を備える。テンプルの先端には新しいタッチパッドが付いた。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
-                "cap": "Las gafas inteligentes Ray-Ban más recientes (en la imagen) se quedan atrás frente a las de Alibaba en varios aspectos. © Raymond Wong / Gizmodo"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
               },
               {
                 "t": "p",
-                "x": "Las N1 también añaden funciones que Meta no tiene: una diminuta cámara de seguimiento ocular de 1.7mm permite que la IA de las gafas entienda exactamente qué estás mirando y, según se informa, puede escanear el iris para confirmar pagos con Alipay. Un sensor en el puente registra la temperatura. Gizmodo no ha probado las gafas, pero sobre el papel están un paso por encima de lo que se vende en Estados Unidos (U.S.)."
+                "x": "オプションの$249のR1スマートリングはリモコンとして機能し、健康データも記録する。だが小さなタッチパッドが読み取れるのはスワイプ、タップ、押し込みだけで、タップとスワイプはしばしば誤認識された。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+              },
+              {
+                "t": "p",
+                "x": "うまく動けば、スクロールは未来のように感じられる。Translationは賢く、Navigationは便利で、AIも十分に速い。ただしConversateの会議メモは結論を導き出すのに苦労する。レビュアーは今も販売終了したG1のほうを好む。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "阿里Qwen眼镜N1\n纸面参数胜过Meta",
-          "body": "阿里巴巴Qwen Glasses N1续航宣称亮眼，摄像头传感器纸面上胜过Meta眼镜。",
-          "mini_headline": "Qwen Glasses N1 纸面胜过 Meta",
+          "headline": "Even G2评测\n智能眼镜，操控别扭",
+          "body": "Engadget给G2打出6.9/10，称其轻快但功能渐多、操控太难。",
+          "mini_headline": "Even G2：操控别扭",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
+                "cap": "Daniel Cooper for Engadget"
               },
               {
                 "t": "p",
-                "x": "在U.S.，智能眼镜的话题由Meta主导；而在中国，焦点则是阿里巴巴(Alibaba)。这家电商巨头已推出多代智能眼镜，其最新款至少在技术层面上，正开始与Meta的同类产品拉开明显差距。"
-              },
-              {
-                "t": "p",
-                "x": "据Alibaba介绍，售价$490(3,499 RMB)的Qwen Glasses N1配备50-megapixel 摄像头传感器，而即便是最新的Ray-Ban Meta(Gen 3)也只有12-megapixel 传感器。Alibaba还宣称其待机续航25小时、音乐播放九小时；最新款Ray-Ban眼镜在混合使用下单次充电最长续航为九小时。"
+                "x": "Engadget给Even Realities G2打出6.9/10。这款不带摄像头的眼镜可将通知、新闻标题、导航、翻译、提词器和AI助手投射到视野中。基础款售价$599；处方镜片另加$159至$349。"
               },
               {
                 "t": "img",
-                "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
-                "cap": "最新款Ray-Ban智能眼镜(图)在几个方面落后于Alibaba的产品。© Raymond Wong / Gizmodo"
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
               },
               {
                 "t": "p",
-                "x": "N1还加入了Meta没有的功能：一枚仅1.7mm 的微型眼动追踪摄像头，让眼镜的AI能准确理解你正在看什么，据报道还能扫描虹膜以确认Alipay付款。镜梁上的传感器可追踪体温。Gizmodo尚未测试这款眼镜，但从纸面参数看，它比U.S.市场现有产品高出一筹。"
+                "x": "G2更轻，显示屏更清晰（640 x 350），视场角27.5度，刷新率60Hz，亮度1,200 nits，配备四个麦克风，并达到IP65防护等级。镜腿末端新增了触控板。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+              },
+              {
+                "t": "p",
+                "x": "可选配的$249 R1智能戒指可充当遥控器并追踪健康数据，但其小小的触控板只能识别滑动、轻点和按压，而且轻点和滑动常被误读。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+              },
+              {
+                "t": "p",
+                "x": "正常工作时，滚动浏览颇有未来感：Translation很聪明，Navigation很实用，AI也足够快，但Conversate会议笔记难以得出结论。评测者仍更喜欢已停产的G1。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Reseña de Even Realities G2:\ngafas listas, mandos torpes",
+          "body": "Engadget da un 6.9/10 a las G2 de Even Realities: ligeras y ágiles, pero difíciles de controlar.",
+          "mini_headline": "Even G2: mandos torpes",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
+                "cap": "Daniel Cooper for Engadget"
+              },
+              {
+                "t": "p",
+                "x": "Engadget califica las Even Realities G2 con un 6.9/10. Estas gafas sin cámara proyectan en el campo de visión notificaciones, titulares, indicaciones de ruta, traducción, un teleprompter y un asistente de AI. El modelo básico cuesta $599; las lentes graduadas suman de $159 a $349."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Las G2 son más ligeras, con pantallas más nítidas (640 x 350), un campo de visión de 27.5 grados, una frecuencia de actualización de 60Hz, 1,200 nits, cuatro micrófonos y certificación IP65. Los nuevos paneles táctiles están en las puntas de las patillas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+              },
+              {
+                "t": "p",
+                "x": "El anillo inteligente opcional R1, de $249, funciona como mando y registra datos de salud, pero su diminuto panel táctil solo reconoce deslizamientos, toques y pulsaciones, y a menudo interpretaba mal toques y deslizamientos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Cuando funciona, desplazarse se siente como el futuro: Translation es inteligente, Navigation resulta práctica y la AI es lo bastante rápida, aunque las notas de reuniones de Conversate tienen problemas para sacar conclusiones. El autor de la reseña sigue prefiriendo las G1, ya descatalogadas."
               }
             ]
           }
@@ -325,201 +445,195 @@
       }
     },
     {
-      "id": "gadgets-orangepi-o1",
+      "id": "gadgets-ai-dumb-smart-tv",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "OrangePi O1\n싱글보드에 16 TOPS",
-      "body": "OrangePi O1이 16 TOPS로 Raspberry Pi에 맞선다.",
-      "mini_headline": "OrangePi O1, 16 TOPS 달성",
+      "headline": "AI로 스마트 TVs를\n다시 바보로 만든다",
+      "body": "광고·추적에 지친 일부 스마트 TV 사용자가 AI 에이전트로 선탑재 앱을 지운다.",
+      "mini_headline": "AI 에이전트로 스마트 TV를 다시 단순하게",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/With-16-TOPS-NVMe-support-and-SATA-the-new-OrangePi-O1-makes-the-Raspberry-Pi-look-dated.1424829.0.html",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
-            "cap": "OrangePi O1: 포트를 넉넉히 갖춘 새 싱글보드 컴퓨터가 나왔다"
+            "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+            "cap": "Image Credits: Google"
           },
           {
             "t": "p",
-            "x": "OrangePi O1은 새로운 싱글보드 컴퓨터(SBC)다. AI-centric(AI 중심) 워크로드에서는 Raspberry Pi보다 뚜렷하게 앞설 수 있고, 일반 컴퓨팅용으로도 손색없다. 보드의 핵심은 Sophgo BM1688 SoC로, ARM Cortex-A53 CPU 코어 여덟 개에 RISC-V C906 코프로세서를 붙였다. 로컬 AI 가속은 내장 TPU가 맡으며, 호환 워크로드에서 최대 16 TOPS(INT8)를 낸다."
+            "x": "개발자와 vibe coders가 스마트 TVs를 \"vibe-code\"하는 방법을 공유한다. 스폰서 광고 제거, 런처 속도 개선, 홈 화면 재디자인, 자동 콘텐츠 인식(ACR) 같은 추적 기능 끄기까지 다양하다."
           },
           {
             "t": "p",
-            "x": "메모리는 8 GB 또는 16 GB LPDDR4/LPDDR4X RAM이고, 최대 128 GB 용량의 eMMC 모듈을 옵션으로 더할 수 있다. 저장장치 확장성은 온보드 플래시에서 그치지 않는다. PCIe 3.0 NVMe SSDs용 M.2 슬롯, 전용 SATA 인터페이스, 표준 microSD 카드 슬롯까지 갖췄다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
-            "cap": "SBC로는 드물게 전용 SATA 커넥터를 갖췄다"
+            "x": "\"cleanyourtv\" 제작자 Gathin T.는 Claude Code로 부모님 TV에서 Wi-Fi로 Xiaomi 패키지 25개를 지우고 새 런처를 만들었다. 이틀 만에 수천 명이 따라 했다. root 권한은 필요 없다. 공장 초기화하면 원래대로 돌아간다."
           },
           {
             "t": "p",
-            "x": "90 x 70 mm 크기의 이 단독형 보드는 I/O 포트를 빠짐없이 갖춰, 캐리어 보드 없이 상자에서 꺼내자마자 데스크톱 PC로 쓸 수 있다. 물리 단자는 듀얼 Gigabit Ethernet 포트, USB 2.0 포트 두 개, USB 3.0 포트 두 개, 최대 4K 영상을 내보내는 HDMI 2.0 포트다. SBC답게 MIPI 커넥터, CAN 버스, RS485, 센서·액추에이터용 확장 헤더 같은 전용 인터페이스도 넣었다. 전원은 USB Type-C로 20 V를 받고, 무선 네트워킹도 된다. Orange Pi O1은 지금 구할 수 있는 물량이 많지 않다."
+            "x": "Muzzammil Yasin Sabuwala가 만든 \"dumbtv\"는 Fire TV, Sony, TCL, Philips, Hisense, Xiaomi, Shield에서 테스트를 마쳤다. AI 에이전트에 GitHub 저장소만 알려 주면 된다. Ryan Doyle처럼 Claude Code에 자기 TV 리스팅을 해킹해 달라고 부탁만 한 사람도 있다."
+          },
+          {
+            "t": "p",
+            "x": "결과는 제각각이다. 어떤 프롬프트는 거부당했다. 에이전트가 중요한 패키지를 꺼 버릴 위험도 있고 Android TV가 벽돌이 됐다는 사용자도 나왔다. 이런 방식이 널리 퍼지면 스마트 TV 광고 산업이 흔들릴 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "OrangePi O1 brings 16 TOPS\nto a single-board computer",
-          "body": "The OrangePi O1 pairs 16 TOPS of AI acceleration with NVMe and SATA, taking on the Raspberry Pi for edge AI workloads.",
-          "mini_headline": "OrangePi O1\nhits 16 TOPS",
+          "headline": "People are using AI to make\nsmart TVs dumb again",
+          "body": "Fed up with ads, tracking and sluggish menus, some smart TV owners are using AI agents to strip out bloatware.",
+          "mini_headline": "AI agents make\nsmart TVs dumb again",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
-                "cap": "OrangePi O1: New single-board computer launches with numerous ports"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+                "cap": "Image Credits: Google"
               },
               {
                 "t": "p",
-                "x": "The OrangePi O1 is a new single-board computer (SBC) that could hold a distinct edge over the Raspberry Pi in AI-centric workloads while serving as a capable alternative for general computing. Powering the board is a Sophgo BM1688 SoC, which pairs eight ARM Cortex-A53 CPU cores with a RISC-V C906 co-processor. An integrated TPU handles local AI acceleration, delivering up to 16 TOPS (INT8) for compatible workloads."
+                "x": "Developers and vibe coders are sharing ways to \"vibe-code\" smart TVs: removing sponsored ads, speeding up launchers, redesigning home screens and disabling tracking such as automatic content recognition (ACR)."
               },
               {
                 "t": "p",
-                "x": "Memory configurations include 8 GB or 16 GB of LPDDR4/LPDDR4X RAM, complemented by an optional eMMC module with up to 128 GB of capacity. However, storage expandability goes far beyond onboard flash: the board features an M.2 slot for PCIe 3.0 NVMe SSDs, a dedicated SATA interface, and a standard microSD card slot."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
-                "cap": "An uncommon feature for an SBC: A dedicated SATA connector is included"
+                "x": "\"cleanyourtv\" creator Gathin T. had Claude Code remove 25 Xiaomi packages from his parents' TV over Wi-Fi and build a new launcher. A few thousand people repeated it within two days. It needs no root and can be reset to factory defaults."
               },
               {
                 "t": "p",
-                "x": "Measuring 90 x 70 mm, the standalone board packs a complete set of I/O ports, allowing it to function as a desktop PC straight out of the box without requiring a carrier board. Physical connectivity includes dual Gigabit Ethernet ports, two USB 2.0 ports, two USB 3.0 ports, and an HDMI 2.0 port for video output up to 4K. True to its SBC roots, it also integrates specialized interfaces like MIPI connectors, CAN bus, RS485, and an expansion header for sensors and actuators. Power is supplied via USB Type-C at 20 V, and wireless networking is supported. Availability for the Orange Pi O1 currently remains limited."
+                "x": "\"dumbtv\", by Muzzammil Yasin Sabuwala, has been tested on Fire TV, Sony, TCL, Philips, Hisense, Xiaomi and Shield. Users just point their AI agent at the GitHub repo. Others, like Ryan Doyle, simply asked Claude Code to hack their TV's listing."
+              },
+              {
+                "t": "p",
+                "x": "Results vary: some prompts were refused, agents can disable important packages, and one user said they bricked an Android TV. Wide adoption could threaten the smart TV ad industry."
               }
             ]
           }
         },
         "ko": {
-          "headline": "OrangePi O1\n싱글보드에 16 TOPS",
-          "body": "OrangePi O1이 16 TOPS로 Raspberry Pi에 맞선다.",
-          "mini_headline": "OrangePi O1, 16 TOPS 달성",
+          "headline": "AI로 스마트 TVs를\n다시 바보로 만든다",
+          "body": "광고·추적에 지친 일부 스마트 TV 사용자가 AI 에이전트로 선탑재 앱을 지운다.",
+          "mini_headline": "AI 에이전트로 스마트 TV를 다시 단순하게",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
-                "cap": "OrangePi O1: 포트를 넉넉히 갖춘 새 싱글보드 컴퓨터가 나왔다"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+                "cap": "Image Credits: Google"
               },
               {
                 "t": "p",
-                "x": "OrangePi O1은 새로운 싱글보드 컴퓨터(SBC)다. AI-centric(AI 중심) 워크로드에서는 Raspberry Pi보다 뚜렷하게 앞설 수 있고, 일반 컴퓨팅용으로도 손색없다. 보드의 핵심은 Sophgo BM1688 SoC로, ARM Cortex-A53 CPU 코어 여덟 개에 RISC-V C906 코프로세서를 붙였다. 로컬 AI 가속은 내장 TPU가 맡으며, 호환 워크로드에서 최대 16 TOPS(INT8)를 낸다."
+                "x": "개발자와 vibe coders가 스마트 TVs를 \"vibe-code\"하는 방법을 공유한다. 스폰서 광고 제거, 런처 속도 개선, 홈 화면 재디자인, 자동 콘텐츠 인식(ACR) 같은 추적 기능 끄기까지 다양하다."
               },
               {
                 "t": "p",
-                "x": "메모리는 8 GB 또는 16 GB LPDDR4/LPDDR4X RAM이고, 최대 128 GB 용량의 eMMC 모듈을 옵션으로 더할 수 있다. 저장장치 확장성은 온보드 플래시에서 그치지 않는다. PCIe 3.0 NVMe SSDs용 M.2 슬롯, 전용 SATA 인터페이스, 표준 microSD 카드 슬롯까지 갖췄다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
-                "cap": "SBC로는 드물게 전용 SATA 커넥터를 갖췄다"
+                "x": "\"cleanyourtv\" 제작자 Gathin T.는 Claude Code로 부모님 TV에서 Wi-Fi로 Xiaomi 패키지 25개를 지우고 새 런처를 만들었다. 이틀 만에 수천 명이 따라 했다. root 권한은 필요 없다. 공장 초기화하면 원래대로 돌아간다."
               },
               {
                 "t": "p",
-                "x": "90 x 70 mm 크기의 이 단독형 보드는 I/O 포트를 빠짐없이 갖춰, 캐리어 보드 없이 상자에서 꺼내자마자 데스크톱 PC로 쓸 수 있다. 물리 단자는 듀얼 Gigabit Ethernet 포트, USB 2.0 포트 두 개, USB 3.0 포트 두 개, 최대 4K 영상을 내보내는 HDMI 2.0 포트다. SBC답게 MIPI 커넥터, CAN 버스, RS485, 센서·액추에이터용 확장 헤더 같은 전용 인터페이스도 넣었다. 전원은 USB Type-C로 20 V를 받고, 무선 네트워킹도 된다. Orange Pi O1은 지금 구할 수 있는 물량이 많지 않다."
+                "x": "Muzzammil Yasin Sabuwala가 만든 \"dumbtv\"는 Fire TV, Sony, TCL, Philips, Hisense, Xiaomi, Shield에서 테스트를 마쳤다. AI 에이전트에 GitHub 저장소만 알려 주면 된다. Ryan Doyle처럼 Claude Code에 자기 TV 리스팅을 해킹해 달라고 부탁만 한 사람도 있다."
+              },
+              {
+                "t": "p",
+                "x": "결과는 제각각이다. 어떤 프롬프트는 거부당했다. 에이전트가 중요한 패키지를 꺼 버릴 위험도 있고 Android TV가 벽돌이 됐다는 사용자도 나왔다. 이런 방식이 널리 퍼지면 스마트 TV 광고 산업이 흔들릴 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OrangePi O1\n16 TOPSのSBC",
-          "body": "OrangePi O1は16 TOPSのAI性能でRaspberry Piに挑む。",
-          "mini_headline": "OrangePi O1、16 TOPSに到達",
+          "headline": "AIでスマートTVsを\n再び「おバカ」に",
+          "body": "広告や追跡に嫌気が差し、AIエージェントで不要アプリを消すスマートTV利用者がいる。",
+          "mini_headline": "AIエージェントでスマートTVを再び単純に",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
-                "cap": "OrangePi O1:多数のポートを備えた新しいシングルボードコンピューターが登場"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+                "cap": "Image Credits: Google"
               },
               {
                 "t": "p",
-                "x": "OrangePi O1は新しいシングルボードコンピューター(SBC)で、AI-centric(AI中心)のワークロードではRaspberry Piに対して明確な優位を持ち得る一方、汎用コンピューティング向けの有力な代替にもなる。ボードを動かすのはSophgo BM1688 SoCで、ARM Cortex-A53 CPUコア八つとRISC-V C906コプロセッサーを組み合わせている。内蔵TPUがローカルのAI処理を担い、対応ワークロードで最大16 TOPS(INT8)を発揮する。"
+                "x": "開発者やvibe codersが、スマートTVsを「vibe-code」する方法を共有している。スポンサー広告の削除、ランチャーの高速化、ホーム画面の再設計、自動コンテンツ認識(ACR)などのトラッキングの無効化だ。"
               },
               {
                 "t": "p",
-                "x": "メモリーは8 GB または16 GB のLPDDR4/LPDDR4X RAMで、最大128 GB のeMMCモジュールをオプションで追加できる。ただしストレージの拡張性はオンボードのフラッシュにとどまらない。PCIe 3.0 NVMe SSDs用のM.2スロット、専用のSATAインターフェース、標準的なmicroSDカードスロットを備えている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
-                "cap": "SBCとしては珍しく、専用のSATAコネクターを搭載"
+                "x": "「cleanyourtv」の作者Gathin T.は、Claude Codeを使って両親のTVからWi-Fi経由でXiaomiのパッケージ25個を削除し、新しいランチャーを作らせた。二日のうちに数千人が同じことを試した。rootは不要で、工場出荷時の状態に戻すこともできる。"
               },
               {
                 "t": "p",
-                "x": "90 x 70 mm のスタンドアロンボードは一通りのI/Oポートを備え、キャリアボードなしで箱から出してすぐデスクトップPCとして使える。物理的な接続端子はデュアルGigabit Ethernetポート、USB 2.0ポート二つ、USB 3.0ポート二つ、そして最大4K の映像出力に対応するHDMI 2.0ポートだ。SBCらしく、MIPIコネクター、CANバス、RS485、センサーやアクチュエーター用の拡張ヘッダーといった専用インターフェースも統合している。電源はUSB Type-Cから20 V で供給され、ワイヤレスネットワークにも対応する。Orange Pi O1の入手性は現時点では限られている。"
+                "x": "Muzzammil Yasin Sabuwalaによる「dumbtv」は、Fire TV、Sony、TCL、Philips、Hisense、Xiaomi、Shieldで動作が確認されている。ユーザーはAIエージェントにGitHubのリポジトリを示すだけでいい。Ryan Doyleのように、自分のTVのリスティングをハックするようClaude Codeに頼んだだけの人もいる。"
+              },
+              {
+                "t": "p",
+                "x": "結果はまちまちだ。プロンプトが拒否されることもあり、エージェントが重要なパッケージを無効にしてしまう恐れもある。あるユーザーはAndroid TVを文鎮化させたという。広く普及すれば、スマートTVの広告業界を脅かしかねない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OrangePi O1\n单板电脑达16 TOPS",
-          "body": "OrangePi O1以16 TOPS算力在边缘AI上挑战Raspberry Pi。",
-          "mini_headline": "OrangePi O1 达16 TOPS",
+          "headline": "有人用AI让智能TVs\n重新变“笨”",
+          "body": "不满广告、追踪和卡顿菜单，一些智能TV用户用AI代理删除预装软件。",
+          "mini_headline": "AI代理让智能电视重回“笨”",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
-                "cap": "OrangePi O1:配备众多接口的新款单板电脑发布"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+                "cap": "Image Credits: Google"
               },
               {
                 "t": "p",
-                "x": "OrangePi O1是一款新型单板电脑(SBC)，在AI-centric(以AI为中心)的工作负载上可能明显胜过Raspberry Pi，同时也是通用计算的可靠替代品。驱动这块板子的是Sophgo BM1688 SoC，它将八个ARM Cortex-A53 CPU核心与一颗RISC-V C906协处理器相结合。集成的TPU负责本地AI加速，在兼容的工作负载下最高可提供16 TOPS(INT8)算力。"
+                "x": "开发者和vibe coders正在分享“vibe-code”智能TVs的方法：删除赞助广告、加快启动器速度、重新设计主屏幕，以及关闭自动内容识别（ACR）等追踪功能。"
               },
               {
                 "t": "p",
-                "x": "内存可选8 GB 或16 GB 的LPDDR4/LPDDR4X RAM，另可选配容量最高128 GB 的eMMC模块。不过，存储扩展能力远不止板载闪存：板上设有支持PCIe 3.0 NVMe SSDs的M.2插槽、专用SATA接口，以及标准microSD卡槽。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
-                "cap": "SBC中少见的配置：板上设有专用SATA接口"
+                "x": "“cleanyourtv”的作者Gathin T.让Claude Code通过Wi-Fi从他父母的TV上删除了25个Xiaomi软件包，并打造了新的启动器。两天内就有几千人照做。此方法无需root，还可恢复出厂设置。"
               },
               {
                 "t": "p",
-                "x": "这块独立主板尺寸为90 x 70 mm，配齐全套I/O接口，无需载板即可开箱作为台式PC使用。物理接口包括双Gigabit Ethernet网口、两个USB 2.0接口、两个USB 3.0接口，以及一个最高支持4K 视频输出的HDMI 2.0接口。秉承SBC的本色，它还集成了MIPI接口、CAN总线、RS485以及用于传感器和执行器的扩展排针等专用接口。供电通过USB Type-C以20 V 输入，并支持无线网络。Orange Pi O1目前供货仍然有限。"
+                "x": "Muzzammil Yasin Sabuwala开发的“dumbtv”已在Fire TV、Sony、TCL、Philips、Hisense、Xiaomi和Shield上测试过。用户只需让AI代理指向该GitHub仓库即可。也有人像Ryan Doyle那样，直接让Claude Code破解自己TV的型号列表。"
+              },
+              {
+                "t": "p",
+                "x": "效果参差不齐：有些提示词遭到拒绝，代理可能禁用重要软件包，还有一位用户称自己的Android TV变砖了。若被广泛采用，这可能威胁智能电视广告行业。"
               }
             ]
           }
         },
         "es": {
-          "headline": "OrangePi O1 lleva 16 TOPS\na un ordenador de placa única",
-          "body": "La OrangePi O1 suma 16 TOPS de aceleración de IA a NVMe y SATA y reta a la Raspberry Pi en IA en el borde.",
-          "mini_headline": "OrangePi O1 alcanza 16 TOPS",
+          "headline": "Usan AI para que las smart TVs\nvuelvan a ser tontas",
+          "body": "Hartos de anuncios, rastreo y menús lentos, algunos dueños de smart TV usan agentes de AI para quitar el bloatware.",
+          "mini_headline": "Agentes de AI vuelven tontas las smart TVs",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
-                "cap": "OrangePi O1: llega un nuevo ordenador de placa única con numerosos puertos"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+                "cap": "Image Credits: Google"
               },
               {
                 "t": "p",
-                "x": "La OrangePi O1 es un nuevo ordenador de placa única (SBC) que podría tener una clara ventaja sobre la Raspberry Pi en cargas de trabajo AI-centric (centradas en IA), al tiempo que sirve como una alternativa solvente para la informática general. La placa funciona con un SoC Sophgo BM1688, que combina ocho núcleos de CPU ARM Cortex-A53 con un coprocesador RISC-V C906. Una TPU integrada se encarga de la aceleración de IA local y ofrece hasta 16 TOPS (INT8) en cargas de trabajo compatibles."
+                "x": "Desarrolladores y vibe coders comparten formas de hacer \"vibe-code\" en smart TVs: eliminar anuncios patrocinados, acelerar los launchers, rediseñar las pantallas de inicio y desactivar el rastreo, como el reconocimiento automático de contenido (ACR)."
               },
               {
                 "t": "p",
-                "x": "Las configuraciones de memoria incluyen 8 GB o 16 GB de RAM LPDDR4/LPDDR4X, complementadas con un módulo eMMC opcional de hasta 128 GB. Sin embargo, la capacidad de ampliar el almacenamiento va mucho más allá de la memoria flash integrada: la placa incluye una ranura M.2 para SSDs NVMe PCIe 3.0, una interfaz SATA dedicada y una ranura estándar para tarjetas microSD."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
-                "cap": "Algo poco habitual en una SBC: incluye un conector SATA dedicado"
+                "x": "Gathin T., creador de \"cleanyourtv\", hizo que Claude Code eliminara 25 paquetes de Xiaomi de la TV de sus padres por Wi-Fi y creara un nuevo launcher. Unos pocos miles de personas lo repitieron en dos días. No requiere root y se puede restablecer a los valores de fábrica."
               },
               {
                 "t": "p",
-                "x": "Con unas medidas de 90 x 70 mm, la placa autónoma reúne un conjunto completo de puertos de I/O, lo que le permite funcionar como un PC de escritorio nada más sacarla de la caja, sin necesidad de una placa portadora. La conectividad física incluye dos puertos Gigabit Ethernet, dos puertos USB 2.0, dos puertos USB 3.0 y un puerto HDMI 2.0 para salida de vídeo de hasta 4K. Fiel a sus raíces de SBC, también integra interfaces especializadas como conectores MIPI, bus CAN, RS485 y un conector de expansión para sensores y actuadores. La alimentación llega por USB Type-C a 20 V y admite redes inalámbricas. La disponibilidad de la Orange Pi O1 es por ahora limitada."
+                "x": "\"dumbtv\", de Muzzammil Yasin Sabuwala, se ha probado en Fire TV, Sony, TCL, Philips, Hisense, Xiaomi y Shield. Los usuarios solo tienen que dirigir su agente de AI al repositorio de GitHub. Otros, como Ryan Doyle, simplemente pidieron a Claude Code que hackeara el listado de su TV."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados varían: algunas instrucciones fueron rechazadas, los agentes pueden desactivar paquetes importantes y un usuario dijo que dejó inservible un Android TV. Una adopción amplia podría amenazar a la industria publicitaria de las smart TV."
               }
             ]
           }
@@ -527,129 +641,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "OrangePi O1\n싱글보드에 16 TOPS",
-          "body": "OrangePi O1이 16 TOPS로 Raspberry Pi에 맞선다.",
-          "mini_headline": "OrangePi O1, 16 TOPS 달성",
+          "headline": "AI로 스마트 TVs를\n다시 바보로 만든다",
+          "body": "광고·추적에 지친 일부 스마트 TV 사용자가 AI 에이전트로 선탑재 앱을 지운다.",
+          "mini_headline": "AI 에이전트로 스마트 TV를 다시 단순하게",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
-                "cap": "OrangePi O1: 포트를 넉넉히 갖춘 새 싱글보드 컴퓨터가 출시됐다"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+                "cap": "Image Credits: Google"
               },
               {
                 "t": "p",
-                "x": "OrangePi O1은 새로운 싱글보드 컴퓨터(SBC)로, AI-centric(AI 중심) 워크로드에서 Raspberry Pi보다 뚜렷한 우위를 점할 수 있으면서 일반 컴퓨팅용으로도 손색없는 대안이다. 보드의 핵심은 Sophgo BM1688 SoC로, ARM Cortex-A53 CPU 코어 여덟 개와 RISC-V C906 코프로세서를 결합했다. 내장 TPU가 로컬 AI 가속을 맡아, 호환 워크로드에서 최대 16 TOPS(INT8)를 낸다."
+                "x": "개발자와 vibe coders가 스마트 TVs를 \"vibe-code\"하는 방법을 공유하고 있다. 스폰서 광고를 없애고, 런처 속도를 높이고, 홈 화면을 새로 디자인하고, 자동 콘텐츠 인식(ACR) 같은 추적 기능을 끄는 식이다."
               },
               {
                 "t": "p",
-                "x": "메모리는 8 GB 또는 16 GB LPDDR4/LPDDR4X RAM으로 구성되며, 최대 128 GB 용량의 eMMC 모듈을 선택해 더할 수 있다. 저장장치 확장성은 온보드 플래시를 훨씬 넘어선다. 보드에는 PCIe 3.0 NVMe SSDs용 M.2 슬롯과 전용 SATA 인터페이스, 표준 microSD 카드 슬롯이 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
-                "cap": "SBC로서는 드문 구성으로, 전용 SATA 커넥터를 갖췄다"
+                "x": "\"cleanyourtv\" 제작자 Gathin T.는 Claude Code로 부모님 TV에서 Wi-Fi를 통해 Xiaomi 패키지 25개를 지우고 새 런처를 만들었다. 이틀 만에 수천 명이 이를 따라 했다. root 권한이 필요 없고 공장 초기화로 되돌릴 수 있다."
               },
               {
                 "t": "p",
-                "x": "90 x 70 mm 크기의 이 단독형 보드는 I/O 포트를 빠짐없이 갖춰, 캐리어 보드 없이도 상자에서 꺼내자마자 데스크톱 PC로 쓸 수 있다. 물리적 연결 단자로는 듀얼 Gigabit Ethernet 포트, USB 2.0 포트 두 개, USB 3.0 포트 두 개, 최대 4K 영상 출력을 지원하는 HDMI 2.0 포트가 있다. SBC 본연의 성격대로 MIPI 커넥터, CAN 버스, RS485, 센서와 액추에이터용 확장 헤더 같은 전용 인터페이스도 통합했다. 전원은 USB Type-C로 20 V를 공급받으며, 무선 네트워킹도 지원한다. Orange Pi O1은 현재 구할 수 있는 물량이 제한적이다."
+                "x": "Muzzammil Yasin Sabuwala가 만든 \"dumbtv\"는 Fire TV, Sony, TCL, Philips, Hisense, Xiaomi, Shield에서 테스트를 마쳤다. 사용자는 AI 에이전트에 GitHub 저장소를 알려 주기만 하면 된다. Ryan Doyle처럼 Claude Code에 자기 TV의 리스팅을 해킹해 달라고 요청하기만 한 사람도 있다."
+              },
+              {
+                "t": "p",
+                "x": "결과는 제각각이다. 일부 프롬프트는 거부됐고, 에이전트가 중요한 패키지를 비활성화할 수도 있으며, 한 사용자는 Android TV가 벽돌이 됐다고 말했다. 널리 퍼지면 스마트 TV 광고 산업을 위협할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "OrangePi O1\n16 TOPSのSBC",
-          "body": "OrangePi O1は16 TOPSのAI性能でRaspberry Piに挑む。",
-          "mini_headline": "OrangePi O1、16 TOPSに到達",
+          "headline": "AIでスマートTVsを\n再び「おバカ」に",
+          "body": "広告や追跡に嫌気が差し、AIエージェントで不要アプリを消すスマートTV利用者がいる。",
+          "mini_headline": "AIエージェントでスマートTVを再び単純に",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
-                "cap": "OrangePi O1:多数のポートを備えた新しいシングルボードコンピューターが登場"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+                "cap": "Image Credits: Google"
               },
               {
                 "t": "p",
-                "x": "OrangePi O1は新しいシングルボードコンピューター(SBC)で、AI-centric(AI中心)のワークロードではRaspberry Piに対して明確な優位を持ち得る一方、汎用コンピューティング向けの有力な代替にもなる。ボードを動かすのはSophgo BM1688 SoCで、ARM Cortex-A53 CPUコア八つとRISC-V C906コプロセッサーを組み合わせている。内蔵TPUがローカルのAI処理を担い、対応ワークロードで最大16 TOPS(INT8)を発揮する。"
+                "x": "開発者やvibe codersが、スマートTVsを「vibe-code」する方法を共有している。スポンサー広告の削除、ランチャーの高速化、ホーム画面の再設計、自動コンテンツ認識(ACR)などのトラッキングの無効化だ。"
               },
               {
                 "t": "p",
-                "x": "メモリーは8 GB または16 GB のLPDDR4/LPDDR4X RAMで、最大128 GB のeMMCモジュールをオプションで追加できる。ただしストレージの拡張性はオンボードのフラッシュにとどまらない。PCIe 3.0 NVMe SSDs用のM.2スロット、専用のSATAインターフェース、標準的なmicroSDカードスロットを備えている。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
-                "cap": "SBCとしては珍しく、専用のSATAコネクターを搭載"
+                "x": "「cleanyourtv」の作者Gathin T.は、Claude Codeを使って両親のTVからWi-Fi経由でXiaomiのパッケージ25個を削除し、新しいランチャーを作らせた。二日のうちに数千人が同じことを試した。rootは不要で、工場出荷時の状態に戻すこともできる。"
               },
               {
                 "t": "p",
-                "x": "90 x 70 mm のスタンドアロンボードは一通りのI/Oポートを備え、キャリアボードなしで箱から出してすぐデスクトップPCとして使える。物理的な接続端子はデュアルGigabit Ethernetポート、USB 2.0ポート二つ、USB 3.0ポート二つ、そして最大4K の映像出力に対応するHDMI 2.0ポートだ。SBCらしく、MIPIコネクター、CANバス、RS485、センサーやアクチュエーター用の拡張ヘッダーといった専用インターフェースも統合している。電源はUSB Type-Cから20 V で供給され、ワイヤレスネットワークにも対応する。Orange Pi O1の入手性は現時点では限られている。"
+                "x": "Muzzammil Yasin Sabuwalaによる「dumbtv」は、Fire TV、Sony、TCL、Philips、Hisense、Xiaomi、Shieldで動作が確認されている。ユーザーはAIエージェントにGitHubのリポジトリを示すだけでいい。Ryan Doyleのように、自分のTVのリスティングをハックするようClaude Codeに頼んだだけの人もいる。"
+              },
+              {
+                "t": "p",
+                "x": "結果はまちまちだ。プロンプトが拒否されることもあり、エージェントが重要なパッケージを無効にしてしまう恐れもある。あるユーザーはAndroid TVを文鎮化させたという。広く普及すれば、スマートTVの広告業界を脅かしかねない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "OrangePi O1\n单板电脑达16 TOPS",
-          "body": "OrangePi O1以16 TOPS算力在边缘AI上挑战Raspberry Pi。",
-          "mini_headline": "OrangePi O1 达16 TOPS",
+          "headline": "有人用AI让智能TVs\n重新变“笨”",
+          "body": "不满广告、追踪和卡顿菜单，一些智能TV用户用AI代理删除预装软件。",
+          "mini_headline": "AI代理让智能电视重回“笨”",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
-                "cap": "OrangePi O1:配备众多接口的新款单板电脑发布"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+                "cap": "Image Credits: Google"
               },
               {
                 "t": "p",
-                "x": "OrangePi O1是一款新型单板电脑(SBC)，在AI-centric(以AI为中心)的工作负载上可能明显胜过Raspberry Pi，同时也是通用计算的可靠替代品。驱动这块板子的是Sophgo BM1688 SoC，它将八个ARM Cortex-A53 CPU核心与一颗RISC-V C906协处理器相结合。集成的TPU负责本地AI加速，在兼容的工作负载下最高可提供16 TOPS(INT8)算力。"
+                "x": "开发者和vibe coders正在分享“vibe-code”智能TVs的方法：删除赞助广告、加快启动器速度、重新设计主屏幕，以及关闭自动内容识别（ACR）等追踪功能。"
               },
               {
                 "t": "p",
-                "x": "内存可选8 GB 或16 GB 的LPDDR4/LPDDR4X RAM，另可选配容量最高128 GB 的eMMC模块。不过，存储扩展能力远不止板载闪存：板上设有支持PCIe 3.0 NVMe SSDs的M.2插槽、专用SATA接口，以及标准microSD卡槽。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
-                "cap": "SBC中少见的配置：板上设有专用SATA接口"
+                "x": "“cleanyourtv”的作者Gathin T.让Claude Code通过Wi-Fi从他父母的TV上删除了25个Xiaomi软件包，并打造了新的启动器。两天内就有几千人照做。此方法无需root，还可恢复出厂设置。"
               },
               {
                 "t": "p",
-                "x": "这块独立主板尺寸为90 x 70 mm，配齐全套I/O接口，无需载板即可开箱作为台式PC使用。物理接口包括双Gigabit Ethernet网口、两个USB 2.0接口、两个USB 3.0接口，以及一个最高支持4K 视频输出的HDMI 2.0接口。秉承SBC的本色，它还集成了MIPI接口、CAN总线、RS485以及用于传感器和执行器的扩展排针等专用接口。供电通过USB Type-C以20 V 输入，并支持无线网络。Orange Pi O1目前供货仍然有限。"
+                "x": "Muzzammil Yasin Sabuwala开发的“dumbtv”已在Fire TV、Sony、TCL、Philips、Hisense、Xiaomi和Shield上测试过。用户只需让AI代理指向该GitHub仓库即可。也有人像Ryan Doyle那样，直接让Claude Code破解自己TV的型号列表。"
+              },
+              {
+                "t": "p",
+                "x": "效果参差不齐：有些提示词遭到拒绝，代理可能禁用重要软件包，还有一位用户称自己的Android TV变砖了。若被广泛采用，这可能威胁智能电视广告行业。"
               }
             ]
           }
         },
         "es": {
-          "headline": "OrangePi O1 lleva 16 TOPS\na un ordenador de placa única",
-          "body": "La OrangePi O1 suma 16 TOPS de aceleración de IA a NVMe y SATA y reta a la Raspberry Pi en IA en el borde.",
-          "mini_headline": "OrangePi O1 alcanza 16 TOPS",
+          "headline": "Usan AI para que las smart TVs\nvuelvan a ser tontas",
+          "body": "Hartos de anuncios, rastreo y menús lentos, algunos dueños de smart TV usan agentes de AI para quitar el bloatware.",
+          "mini_headline": "Agentes de AI vuelven tontas las smart TVs",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/1/6/csm_orangepio1teaser_584ae4d465.jpg",
-                "cap": "OrangePi O1: llega un nuevo ordenador de placa única con numerosos puertos"
+                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+                "cap": "Image Credits: Google"
               },
               {
                 "t": "p",
-                "x": "La OrangePi O1 es un nuevo ordenador de placa única (SBC) que podría tener una clara ventaja sobre la Raspberry Pi en cargas de trabajo AI-centric (centradas en IA), al tiempo que sirve como una alternativa solvente para la informática general. La placa funciona con un SoC Sophgo BM1688, que combina ocho núcleos de CPU ARM Cortex-A53 con un coprocesador RISC-V C906. Una TPU integrada se encarga de la aceleración de IA local y ofrece hasta 16 TOPS (INT8) en cargas de trabajo compatibles."
+                "x": "Desarrolladores y vibe coders comparten formas de hacer \"vibe-code\" en smart TVs: eliminar anuncios patrocinados, acelerar los launchers, rediseñar las pantallas de inicio y desactivar el rastreo, como el reconocimiento automático de contenido (ACR)."
               },
               {
                 "t": "p",
-                "x": "Las configuraciones de memoria incluyen 8 GB o 16 GB de RAM LPDDR4/LPDDR4X, complementadas con un módulo eMMC opcional de hasta 128 GB. Sin embargo, la capacidad de ampliar el almacenamiento va mucho más allá de la memoria flash integrada: la placa incluye una ranura M.2 para SSDs NVMe PCIe 3.0, una interfaz SATA dedicada y una ranura estándar para tarjetas microSD."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/_processed_/0/2/csm_orangepio1anschluesse_9de72f9135.jpg",
-                "cap": "Algo poco habitual en una SBC: incluye un conector SATA dedicado"
+                "x": "Gathin T., creador de \"cleanyourtv\", hizo que Claude Code eliminara 25 paquetes de Xiaomi de la TV de sus padres por Wi-Fi y creara un nuevo launcher. Unos pocos miles de personas lo repitieron en dos días. No requiere root y se puede restablecer a los valores de fábrica."
               },
               {
                 "t": "p",
-                "x": "Con unas medidas de 90 x 70 mm, la placa autónoma reúne un conjunto completo de puertos de I/O, lo que le permite funcionar como un PC de escritorio nada más sacarla de la caja, sin necesidad de una placa portadora. La conectividad física incluye dos puertos Gigabit Ethernet, dos puertos USB 2.0, dos puertos USB 3.0 y un puerto HDMI 2.0 para salida de vídeo de hasta 4K. Fiel a sus raíces de SBC, también integra interfaces especializadas como conectores MIPI, bus CAN, RS485 y un conector de expansión para sensores y actuadores. La alimentación llega por USB Type-C a 20 V y admite redes inalámbricas. La disponibilidad de la Orange Pi O1 es por ahora limitada."
+                "x": "\"dumbtv\", de Muzzammil Yasin Sabuwala, se ha probado en Fire TV, Sony, TCL, Philips, Hisense, Xiaomi y Shield. Los usuarios solo tienen que dirigir su agente de AI al repositorio de GitHub. Otros, como Ryan Doyle, simplemente pidieron a Claude Code que hackeara el listado de su TV."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados varían: algunas instrucciones fueron rechazadas, los agentes pueden desactivar paquetes importantes y un usuario dijo que dejó inservible un Android TV. Una adopción amplia podría amenazar a la industria publicitaria de las smart TV."
               }
             ]
           }
@@ -657,15 +767,15 @@
       }
     },
     {
-      "id": "gadgets-phonebot",
+      "id": "gadgets-pixel11-magic-capture",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UCLA $400 로봇은\n$50 Android폰으로",
-      "body": "UCLA의 오픈소스 PhoneBot은 센서 대신 스마트폰으로 걷고 사람을 쫓는다.",
-      "mini_headline": "폰을 두뇌로 쓰는 $400 로봇",
+      "headline": "Magic Capture\n공연장에선 아쉽다",
+      "body": "Pixel 11의 AI Magic Capture, 공연 테스트에선 조건을 탔다.",
+      "mini_headline": "Magic Capture, 공연장에선 아쉽다",
       "tool": "Gadgets",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/pixel-11-magic-capture-hands-on-camera-test-3718898/",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -673,493 +783,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+            "cap": "Brady Snyder / Android Authority"
           },
           {
             "t": "p",
-            "x": "UCLA 연구진이 값싼 스마트폰에 감지와 연산을 맡기는 소형 오픈소스 휴머노이드 로봇 PhoneBot을 만들었다. 폰을 뺀 로봇 하드웨어 비용은 약 $400다. 키 483 mm, 무게 1.8 kg에 서보 모터 13개로 다리와 회전하는 몸통을 움직인다."
+            "x": "Pixel 11의 Magic Capture는 Gemini 모델로 약 400개의 영상 프레임을 분석해 가장 좋은 장면을 사진으로 저장한다. 녹화는 최대 2분, 결과는 늘 사진 5장이다. 보정할 때는 영상을 클라우드로 보낸다."
           },
-          {
-            "t": "p",
-            "x": "PhoneBot은 전용 카메라나 모션 센서, 값비싼 온보드 컴퓨터를 두지 않고 폰에 기댄다. 폰 카메라로 사람을 추적하고, 내장 IMU는 로봇이 균형을 잡고 학습한 보행 동작을 해내도록 돕는다. 연구진은 Android 폰 네 대를 시험했는데, 2017년형 Honor 9와 약 $50~$80짜리 단말기 세 대가 들어갔다. 앱은 TensorFlow Lite로 보행 정책을 돌리고, 카메라는 사람 감지와 자세 추정을 맡는다."
-          },
-          {
-            "t": "p",
-            "x": "보행 제어기는 시뮬레이션에서 강화학습으로 훈련했다. 학습 샘플을 좌우로 뒤집어 관절 각도 대칭 오차를 0.254 라디안에서 0.003 라디안까지 낮췄다. 시연에서는 걷기, 엎드렸다가 일어나기, 발을 움직이지 않고 카메라를 사람 쪽으로 돌리기를 보여 줬다. 서보 출력이 낮고 평지에서만 훈련했으며 팔이 없다는 점은 아직 한계다. 연구 내용은 arXiv에 공개됐다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "UCLA's $400 humanoid runs\non a $50 Android phone",
-          "body": "UCLA's open-source PhoneBot uses a smartphone instead of dedicated sensors to walk, track people and get back up.",
-          "mini_headline": "A $400 robot\nwith a phone brain",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
-              },
-              {
-                "t": "p",
-                "x": "Researchers at UCLA have developed PhoneBot, a compact open-source humanoid robot that reuses cheap smartphones for sensing and computing. Its robotic hardware costs approximately $400, excluding the phone. It stands 483 mm tall, weighs 1.8 kg and uses 13 servo motors to control its legs and rotating torso."
-              },
-              {
-                "t": "p",
-                "x": "Instead of dedicated cameras, motion sensors and an expensive onboard computer, PhoneBot relies on the phone: its camera tracks people, and its built-in IMU helps the robot balance and execute learned walking movements. The researchers tested four Android phones, including a 2017 Honor 9 and three handsets costing approximately $50 to $80. The app runs locomotion policies through TensorFlow Lite, with the camera handling person detection and pose estimation."
-              },
-              {
-                "t": "p",
-                "x": "The walking controller was trained with reinforcement learning in simulation; mirrored training samples cut joint-angle symmetry error from 0.254 to 0.003 radians. Demos included walking, recovering from a face-down position and turning the camera toward people without moving its feet. Low-powered servos, flat-ground training and no arms remain limits. The research is on arXiv."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "UCLA $400 로봇은\n$50 Android폰으로",
-          "body": "UCLA의 오픈소스 PhoneBot은 센서 대신 스마트폰으로 걷고 사람을 쫓는다.",
-          "mini_headline": "폰을 두뇌로 쓰는 $400 로봇",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
-              },
-              {
-                "t": "p",
-                "x": "UCLA 연구진이 값싼 스마트폰에 감지와 연산을 맡기는 소형 오픈소스 휴머노이드 로봇 PhoneBot을 만들었다. 폰을 뺀 로봇 하드웨어 비용은 약 $400다. 키 483 mm, 무게 1.8 kg에 서보 모터 13개로 다리와 회전하는 몸통을 움직인다."
-              },
-              {
-                "t": "p",
-                "x": "PhoneBot은 전용 카메라나 모션 센서, 값비싼 온보드 컴퓨터를 두지 않고 폰에 기댄다. 폰 카메라로 사람을 추적하고, 내장 IMU는 로봇이 균형을 잡고 학습한 보행 동작을 해내도록 돕는다. 연구진은 Android 폰 네 대를 시험했는데, 2017년형 Honor 9와 약 $50~$80짜리 단말기 세 대가 들어갔다. 앱은 TensorFlow Lite로 보행 정책을 돌리고, 카메라는 사람 감지와 자세 추정을 맡는다."
-              },
-              {
-                "t": "p",
-                "x": "보행 제어기는 시뮬레이션에서 강화학습으로 훈련했다. 학습 샘플을 좌우로 뒤집어 관절 각도 대칭 오차를 0.254 라디안에서 0.003 라디안까지 낮췄다. 시연에서는 걷기, 엎드렸다가 일어나기, 발을 움직이지 않고 카메라를 사람 쪽으로 돌리기를 보여 줬다. 서보 출력이 낮고 평지에서만 훈련했으며 팔이 없다는 점은 아직 한계다. 연구 내용은 arXiv에 공개됐다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "UCLAの$400人型ロボ\n$50のAndroidで動く",
-          "body": "UCLAのオープンソースPhoneBotは、専用センサーの代わりにスマホで歩き人を追う。",
-          "mini_headline": "スマホが頭脳の$400ロボット",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
-              },
-              {
-                "t": "p",
-                "x": "UCLAの研究者が、安価なスマートフォンをセンシングと計算に再利用する小型のオープンソース人型ロボットPhoneBotを開発した。ロボットのハードウェアはスマートフォンを除いて約$400だ。身長483 mm、重さ1.8 kgで、13個のサーボモーターで脚と回転する胴体を制御する。"
-              },
-              {
-                "t": "p",
-                "x": "PhoneBotは専用カメラやモーションセンサー、高価なオンボードコンピューターの代わりにスマートフォンに頼る。カメラが人を追跡し、内蔵IMUがバランスの維持と学習済みの歩行動作の実行を支える。研究チームは、2017年のHonor 9と約$50〜$80の端末三台を含むAndroidスマートフォン四台をテストした。アプリはTensorFlow Liteで歩行ポリシーを実行し、カメラが人物検出と姿勢推定を担う。"
-              },
-              {
-                "t": "p",
-                "x": "歩行コントローラーはシミュレーション内の強化学習で訓練した。左右反転した学習サンプルにより、関節角度の対称性誤差は0.254 ラジアンから0.003 ラジアンに減った。デモでは歩行、うつ伏せからの起き上がり、足を動かさずにカメラを人に向ける動作を披露した。低出力のサーボ、平地のみでの訓練、腕がない点は依然として課題だ。研究はarXivで公開されている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "UCLA $400人形机器人\n跑在$50 Android上",
-          "body": "UCLA的开源PhoneBot用智能手机代替专用传感器，能行走、追踪人并自行起身。",
-          "mini_headline": "以手机为大脑的$400机器人",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
-              },
-              {
-                "t": "p",
-                "x": "UCLA的研究人员开发了PhoneBot，这是一款小型开源人形机器人，利用廉价智能手机完成感知和计算。不含手机，其机器人硬件成本约为$400。它身高483 mm，重1.8 kg，用13个舵机控制双腿和可旋转的躯干。"
-              },
-              {
-                "t": "p",
-                "x": "PhoneBot不依赖专用摄像头、运动传感器和昂贵的板载计算机，而是依靠手机：手机摄像头追踪人，内置IMU帮助机器人保持平衡并执行学到的行走动作。研究人员测试了四款Android手机，包括一部2017年的Honor 9和三款售价约$50至$80的手机。应用通过TensorFlow Lite运行运动策略，摄像头负责人体检测和姿态估计。"
-              },
-              {
-                "t": "p",
-                "x": "行走控制器在仿真中通过强化学习训练；镜像训练样本将关节角度对称误差从0.254 弧度降至0.003 弧度。演示内容包括行走、从俯卧姿势起身，以及在双脚不动的情况下将摄像头转向人。低功率舵机、仅在平地上训练以及没有手臂仍是局限。该研究已发布在arXiv上。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El humanoide de $400 de UCLA\nfunciona con un Android de $50",
-          "body": "El PhoneBot de UCLA, de código abierto, usa un móvil en vez de sensores para caminar, seguir personas y levantarse.",
-          "mini_headline": "Un robot de $400 con un móvil como cerebro",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de UCLA han desarrollado PhoneBot, un robot humanoide compacto de código abierto que reutiliza smartphones baratos para la percepción y el cálculo. Su hardware robótico cuesta aproximadamente $400, sin contar el teléfono. Mide 483 mm de alto, pesa 1.8 kg y usa 13 servomotores para controlar las piernas y el torso giratorio."
-              },
-              {
-                "t": "p",
-                "x": "En lugar de cámaras dedicadas, sensores de movimiento y un costoso ordenador a bordo, PhoneBot se apoya en el teléfono: su cámara sigue a las personas y su IMU integrada ayuda al robot a mantener el equilibrio y ejecutar los movimientos de marcha aprendidos. Los investigadores probaron cuatro teléfonos Android, entre ellos un Honor 9 de 2017 y tres terminales de aproximadamente $50 a $80. La aplicación ejecuta las políticas de locomoción mediante TensorFlow Lite, mientras la cámara se encarga de la detección de personas y la estimación de la pose."
-              },
-              {
-                "t": "p",
-                "x": "El controlador de marcha se entrenó con aprendizaje por refuerzo en simulación; las muestras de entrenamiento reflejadas redujeron el error de simetría de los ángulos articulares de 0.254 a 0.003 radianes. Las demostraciones incluyeron caminar, levantarse desde una posición boca abajo y girar la cámara hacia las personas sin mover los pies. Los servos de baja potencia, el entrenamiento en terreno llano y la ausencia de brazos siguen siendo limitaciones. La investigación está publicada en arXiv."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "UCLA $400 로봇은\n$50 Android폰으로",
-          "body": "UCLA의 오픈소스 PhoneBot은 센서 대신 스마트폰으로 걷고 사람을 쫓는다.",
-          "mini_headline": "폰을 두뇌로 쓰는 $400 로봇",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
-              },
-              {
-                "t": "p",
-                "x": "UCLA 연구진이 값싼 스마트폰을 감지와 연산에 재활용하는 소형 오픈소스 휴머노이드 로봇 PhoneBot을 개발했다. 로봇 하드웨어 비용은 폰을 빼고 약 $400다. 키 483 mm, 무게 1.8 kg이며, 서보 모터 13개로 다리와 회전하는 몸통을 제어한다."
-              },
-              {
-                "t": "p",
-                "x": "PhoneBot은 전용 카메라나 모션 센서, 값비싼 온보드 컴퓨터 대신 폰에 의존한다. 폰 카메라가 사람을 추적하고, 내장 IMU가 로봇의 균형과 학습된 보행 동작 실행을 돕는다. 연구진은 2017년형 Honor 9와 약 $50~$80짜리 단말기 세 대를 포함해 Android 폰 네 대를 시험했다. 앱은 TensorFlow Lite로 보행 정책을 실행하고, 카메라는 사람 감지와 자세 추정을 맡는다."
-              },
-              {
-                "t": "p",
-                "x": "보행 제어기는 시뮬레이션에서 강화학습으로 훈련했다. 좌우 반전한 학습 샘플로 관절 각도 대칭 오차를 0.254 라디안에서 0.003 라디안으로 줄였다. 시연에서는 걷기, 엎드린 자세에서 일어나기, 발을 움직이지 않고 카메라를 사람 쪽으로 돌리기를 선보였다. 저출력 서보, 평지에서만 한 훈련, 팔이 없다는 점은 여전히 한계다. 연구 내용은 arXiv에 공개돼 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "UCLAの$400人型ロボ\n$50のAndroidで動く",
-          "body": "UCLAのオープンソースPhoneBotは、専用センサーの代わりにスマホで歩き人を追う。",
-          "mini_headline": "スマホが頭脳の$400ロボット",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
-              },
-              {
-                "t": "p",
-                "x": "UCLAの研究者が、安価なスマートフォンをセンシングと計算に再利用する小型のオープンソース人型ロボットPhoneBotを開発した。ロボットのハードウェアはスマートフォンを除いて約$400だ。身長483 mm、重さ1.8 kgで、13個のサーボモーターで脚と回転する胴体を制御する。"
-              },
-              {
-                "t": "p",
-                "x": "PhoneBotは専用カメラやモーションセンサー、高価なオンボードコンピューターの代わりにスマートフォンに頼る。カメラが人を追跡し、内蔵IMUがバランスの維持と学習済みの歩行動作の実行を支える。研究チームは、2017年のHonor 9と約$50〜$80の端末三台を含むAndroidスマートフォン四台をテストした。アプリはTensorFlow Liteで歩行ポリシーを実行し、カメラが人物検出と姿勢推定を担う。"
-              },
-              {
-                "t": "p",
-                "x": "歩行コントローラーはシミュレーション内の強化学習で訓練した。左右反転した学習サンプルにより、関節角度の対称性誤差は0.254 ラジアンから0.003 ラジアンに減った。デモでは歩行、うつ伏せからの起き上がり、足を動かさずにカメラを人に向ける動作を披露した。低出力のサーボ、平地のみでの訓練、腕がない点は依然として課題だ。研究はarXivで公開されている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "UCLA $400人形机器人\n跑在$50 Android上",
-          "body": "UCLA的开源PhoneBot用智能手机代替专用传感器，能行走、追踪人并自行起身。",
-          "mini_headline": "以手机为大脑的$400机器人",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
-              },
-              {
-                "t": "p",
-                "x": "UCLA的研究人员开发了PhoneBot，这是一款小型开源人形机器人，利用廉价智能手机完成感知和计算。不含手机，其机器人硬件成本约为$400。它身高483 mm，重1.8 kg，用13个舵机控制双腿和可旋转的躯干。"
-              },
-              {
-                "t": "p",
-                "x": "PhoneBot不依赖专用摄像头、运动传感器和昂贵的板载计算机，而是依靠手机：手机摄像头追踪人，内置IMU帮助机器人保持平衡并执行学到的行走动作。研究人员测试了四款Android手机，包括一部2017年的Honor 9和三款售价约$50至$80的手机。应用通过TensorFlow Lite运行运动策略，摄像头负责人体检测和姿态估计。"
-              },
-              {
-                "t": "p",
-                "x": "行走控制器在仿真中通过强化学习训练；镜像训练样本将关节角度对称误差从0.254 弧度降至0.003 弧度。演示内容包括行走、从俯卧姿势起身，以及在双脚不动的情况下将摄像头转向人。低功率舵机、仅在平地上训练以及没有手臂仍是局限。该研究已发布在arXiv上。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El humanoide de $400 de UCLA\nfunciona con un Android de $50",
-          "body": "El PhoneBot de UCLA, de código abierto, usa un móvil en vez de sensores para caminar, seguir personas y levantarse.",
-          "mini_headline": "Un robot de $400 con un móvil como cerebro",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png"
-              },
-              {
-                "t": "p",
-                "x": "Investigadores de UCLA han desarrollado PhoneBot, un robot humanoide compacto de código abierto que reutiliza smartphones baratos para la percepción y el cálculo. Su hardware robótico cuesta aproximadamente $400, sin contar el teléfono. Mide 483 mm de alto, pesa 1.8 kg y usa 13 servomotores para controlar las piernas y el torso giratorio."
-              },
-              {
-                "t": "p",
-                "x": "En lugar de cámaras dedicadas, sensores de movimiento y un costoso ordenador a bordo, PhoneBot se apoya en el teléfono: su cámara sigue a las personas y su IMU integrada ayuda al robot a mantener el equilibrio y ejecutar los movimientos de marcha aprendidos. Los investigadores probaron cuatro teléfonos Android, entre ellos un Honor 9 de 2017 y tres terminales de aproximadamente $50 a $80. La aplicación ejecuta las políticas de locomoción mediante TensorFlow Lite, mientras la cámara se encarga de la detección de personas y la estimación de la pose."
-              },
-              {
-                "t": "p",
-                "x": "El controlador de marcha se entrenó con aprendizaje por refuerzo en simulación; las muestras de entrenamiento reflejadas redujeron el error de simetría de los ángulos articulares de 0.254 a 0.003 radianes. Las demostraciones incluyeron caminar, levantarse desde una posición boca abajo y girar la cámara hacia las personas sin mover los pies. Los servos de baja potencia, el entrenamiento en terreno llano y la ausencia de brazos siguen siendo limitaciones. La investigación está publicada en arXiv."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-nothing-glasses",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Nothing 스마트 안경\n두 종류 준비 중이란 보도",
-      "body": "Nothing이 ChatGPT·카메라 안경과 AI 거의 없는 안경을 만든다고 한다.",
-      "mini_headline": "Nothing 안경 출시설",
-      "tool": "Gadgets",
-      "source": "9to5Google",
-      "url": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "full": {
-        "mode": "full",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+            "cap": "Brady Snyder / Android Authority"
           },
           {
             "t": "p",
-            "x": "믿을 만한 소식통에 따르면 Nothing은 ChatGPT 통합과 카메라를 갖춘 자체 AI 스마트 안경을 개발 중이며, 모델은 성격이 전혀 다른 두 가지다."
+            "x": "흐린 날 Phoenix Zoo에서는 으르렁대는 재규어와 구도 좋은 프레리도그를 정확히 잡아냈다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+            "cap": "Brady Snyder / Android Authority"
           },
           {
             "t": "p",
-            "x": "WinFuture의 Roland Quandt는 Bluesky에서 Nothing이 새 스마트 안경 두 모델의 출시를 준비하고 있고, 둘은 완전히 다를 것 같다고 전했다."
+            "x": "어두운 공연장 뒤쪽에선 실망스러웠다. 기본형 Pixel 11의 Magic Capture는 10.8MP 망원 카메라 줌을 4x로 묶고 1080p 30fps로 녹화한다. 여기서 프레임을 잘라내니 사진이 흐릿하고 노이즈투성이였다."
           },
           {
             "t": "p",
-            "x": "한 모델은 내장 카메라와 번역 같은 AI 기능을 갖춰 Ray-Ban Meta 라인업과 비슷할 전망이다. Android를 적극적으로 쓰는 Nothing이니 Android XR 흐름에 올라탈 법도 하지만, Quandt에 따르면 이 안경은 Gemini가 아니라 ChatGPT와 통합돼 그럴 가능성은 낮아 보인다. Nothing으로서는 새삼스러운 방향 전환도 아니다. 회사는 한동안 다른 제품에도 ChatGPT 통합을 넓혀 왔다."
-          },
-          {
-            "t": "p",
-            "x": "다른 스마트 안경은 훨씬 단순한 쪽을 택할 것으로 보인다."
-          },
-          {
-            "t": "p",
-            "x": "이 모델은 통화를 받고 폰의 음성 비서를 쓸 수 있는 헤드폰처럼 작동하지만, 카메라나 직접적인 AI 통합은 없다. 두 모델 모두 다른 스마트 안경에서도 흔한 변색 렌즈, 이른바 “transition” 렌즈를 제공한다고 알려졌다."
-          },
-          {
-            "t": "p",
-            "x": "앞선 보도는 Nothing 스마트 안경의 출시 시점을 2027년 중으로 짚었다. 이번 이중 전략은 확실히 흥미롭다. Nothing이 앞으로 AI 기기에 전력을 쏟을 것이라는 최근 보도를 생각하면 더 그렇다."
+            "x": "조명이 좋고 메인 카메라로 찍을 때 결과가 가장 좋다. 공연장에 들고 갈 거라면 리뷰어는 48MP 잠망경 망원이 달린 Pixel 11 Pro나 Pro XL을 권한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nothing reportedly plans\ntwo pairs of smart glasses",
-          "body": "Nothing is reportedly building two pairs of glasses: one with ChatGPT and a camera, one with barely any AI.",
-          "mini_headline": "Nothing glasses\nreportedly coming",
+          "headline": "Pixel 11's Magic Capture\nfalls short at concerts",
+          "body": "A concert test of the Pixel 11's Magic Capture shows the AI camera feature works well only under certain conditions.",
+          "mini_headline": "Magic Capture\nmisses at concerts",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "A reliable source says that Nothing is building out its own AI smart glasses that feature ChatGPT integration, a camera, and two very different models."
+                "x": "Magic Capture on the Pixel 11 uses Gemini models to analyze roughly 400 video frames and save the best as photos. It records up to two minutes, always returns five photos, and sends footage to the cloud for enhancement."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "WinFuture's Roland Quandt says on Bluesky that Nothing is preparing to launch two new smart glasses models, and they sound wildly different."
+                "x": "At the Phoenix Zoo on an overcast day it nailed a growling jaguar and a well-framed prairie dog."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "One pair would be similar to the Ray-Ban Meta lineup with a built-in camera and AI features such as translation. While Nothing as an avid Android user might seem like one to hop on the Android XR train, it sounds like that's probably not the case given Quandt says these are bringing integration with ChatGPT rather than Gemini. That's not a new pivot on Nothing's part, though, as the company has been building out ChatGPT integration for a while in its other products."
+                "x": "At a dim concert from further back it disappointed. On the base Pixel 11, Magic Capture caps zoom at 4x on the 10.8MP telephoto, records 1080p at 30fps and crops frames, leaving blurry, grainy shots."
               },
               {
                 "t": "p",
-                "x": "The other pair of smart glasses, though, would take a much simpler approach."
-              },
-              {
-                "t": "p",
-                "x": "These would work as a pair of headphones with the ability to take calls and interact with your phone's voice assistant, but they'd lack a camera or any direct AI integrations. Both models are said to offer photochromic lenses, otherwise known as “transition” lenses and commonly found on other smart glasses."
-              },
-              {
-                "t": "p",
-                "x": "Prior reporting on Nothing's efforts to build smart glasses pinned a release date sometime in 2027. The dual strategy here is certainly interesting, especially given a recent report that suggested Nothing would go all-in on AI devices going forward."
+                "x": "It works best with the main camera in good light. For concerts, the reviewer suggests the Pixel 11 Pro or Pro XL with their 48MP periscope telephoto."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Nothing 스마트 안경\n두 종류 준비 중이란 보도",
-          "body": "Nothing이 ChatGPT·카메라 안경과 AI 거의 없는 안경을 만든다고 한다.",
-          "mini_headline": "Nothing 안경 출시설",
+          "headline": "Magic Capture\n공연장에선 아쉽다",
+          "body": "Pixel 11의 AI Magic Capture, 공연 테스트에선 조건을 탔다.",
+          "mini_headline": "Magic Capture, 공연장에선 아쉽다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "믿을 만한 소식통에 따르면 Nothing은 ChatGPT 통합과 카메라를 갖춘 자체 AI 스마트 안경을 개발 중이며, 모델은 성격이 전혀 다른 두 가지다."
+                "x": "Pixel 11의 Magic Capture는 Gemini 모델로 약 400개의 영상 프레임을 분석해 가장 좋은 장면을 사진으로 저장한다. 녹화는 최대 2분, 결과는 늘 사진 5장이다. 보정할 때는 영상을 클라우드로 보낸다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "WinFuture의 Roland Quandt는 Bluesky에서 Nothing이 새 스마트 안경 두 모델의 출시를 준비하고 있고, 둘은 완전히 다를 것 같다고 전했다."
+                "x": "흐린 날 Phoenix Zoo에서는 으르렁대는 재규어와 구도 좋은 프레리도그를 정확히 잡아냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "한 모델은 내장 카메라와 번역 같은 AI 기능을 갖춰 Ray-Ban Meta 라인업과 비슷할 전망이다. Android를 적극적으로 쓰는 Nothing이니 Android XR 흐름에 올라탈 법도 하지만, Quandt에 따르면 이 안경은 Gemini가 아니라 ChatGPT와 통합돼 그럴 가능성은 낮아 보인다. Nothing으로서는 새삼스러운 방향 전환도 아니다. 회사는 한동안 다른 제품에도 ChatGPT 통합을 넓혀 왔다."
+                "x": "어두운 공연장 뒤쪽에선 실망스러웠다. 기본형 Pixel 11의 Magic Capture는 10.8MP 망원 카메라 줌을 4x로 묶고 1080p 30fps로 녹화한다. 여기서 프레임을 잘라내니 사진이 흐릿하고 노이즈투성이였다."
               },
               {
                 "t": "p",
-                "x": "다른 스마트 안경은 훨씬 단순한 쪽을 택할 것으로 보인다."
-              },
-              {
-                "t": "p",
-                "x": "이 모델은 통화를 받고 폰의 음성 비서를 쓸 수 있는 헤드폰처럼 작동하지만, 카메라나 직접적인 AI 통합은 없다. 두 모델 모두 다른 스마트 안경에서도 흔한 변색 렌즈, 이른바 “transition” 렌즈를 제공한다고 알려졌다."
-              },
-              {
-                "t": "p",
-                "x": "앞선 보도는 Nothing 스마트 안경의 출시 시점을 2027년 중으로 짚었다. 이번 이중 전략은 확실히 흥미롭다. Nothing이 앞으로 AI 기기에 전력을 쏟을 것이라는 최근 보도를 생각하면 더 그렇다."
+                "x": "조명이 좋고 메인 카메라로 찍을 때 결과가 가장 좋다. 공연장에 들고 갈 거라면 리뷰어는 48MP 잠망경 망원이 달린 Pixel 11 Pro나 Pro XL을 권한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nothing、\nスマートグラス二種を計画か",
-          "body": "NothingはChatGPTとカメラを載せた眼鏡と、AIのほぼない眼鏡を開発中だという。",
-          "mini_headline": "Nothingのグラス、登場か",
+          "headline": "Magic Capture\nライブでは力不足",
+          "body": "ライブでの試用でPixel 11のAI機能Magic Captureは条件次第だった。",
+          "mini_headline": "Magic Capture、ライブでは力不足",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "信頼できる情報筋によると、NothingはChatGPT連携とカメラを備えた独自のAIスマートグラスを開発しており、まったく異なる二つのモデルがあるという。"
+                "x": "Pixel 11のMagic Captureは、Geminiモデルで約400の動画フレームを解析し、最良のものを写真として保存する。録画は最長2分で、常に5枚の写真を返し、補正のために映像をクラウドへ送る。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "WinFutureのRoland QuandtはBlueskyで、Nothingがスマートグラスの新モデル二機種の発売を準備しており、両者は大きく異なるようだと述べた。"
+                "x": "曇りの日のPhoenix Zooでは、うなるジャガーと構図の整ったプレーリードッグを見事に捉えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "一方のモデルはRay-Ban Metaシリーズに近く、カメラを内蔵し、翻訳などのAI機能を備える。Androidに熱心なNothingならAndroid XRの流れに乗りそうに思えるが、QuandtによればGeminiではなくChatGPTとの連携を備えるというから、そうではなさそうだ。ただ、これはNothingにとって新たな方針転換ではない。同社はしばらく前から他の製品でもChatGPT連携を進めてきた。"
+                "x": "薄暗いライブ会場の後方からでは期待外れだった。無印のPixel 11では、Magic Captureは10.8MPの望遠でズームが4xまでに制限され、1080p・30fpsで録画し、フレームをクロップするため、ぼやけてノイズの多い写真になった。"
               },
               {
                 "t": "p",
-                "x": "一方、もう一つのスマートグラスははるかにシンプルな方向性を取るという。"
-              },
-              {
-                "t": "p",
-                "x": "こちらは通話に応答したりスマートフォンの音声アシスタントを操作したりできるヘッドホンのように機能するが、カメラや直接的なAI連携は備えない。両モデルとも、他のスマートグラスでもよく見られる、いわゆる“transition”レンズと呼ばれる調光レンズを採用するとされる。"
-              },
-              {
-                "t": "p",
-                "x": "Nothingのスマートグラスをめぐる以前の報道では、発売時期は2027年中とされていた。今回の二本立て戦略は確かに興味深い。Nothingが今後AIデバイスに全面的に注力するという最近の報道を踏まえればなおさらだ。"
+                "x": "最も力を発揮するのは、明るい環境でメインカメラを使うときだ。ライブ用には、48MPのペリスコープ望遠を備えたPixel 11 ProかPro XLをレビュアーは勧めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nothing据传计划\n推出两款智能眼镜",
-          "body": "据报道，Nothing正打造两款眼镜：一款带ChatGPT和摄像头，一款几乎没有AI。",
-          "mini_headline": "Nothing眼镜据传将至",
+          "headline": "Magic Capture\n演唱会上表现不佳",
+          "body": "演唱会实测显示，Pixel 11的AI功能Magic Capture只在特定条件下好用。",
+          "mini_headline": "Magic Capture：演唱会上失手",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "一位可靠消息人士称，Nothing正在打造自己的AI智能眼镜，具备ChatGPT集成和摄像头，并有两款截然不同的型号。"
+                "x": "Pixel 11的Magic Capture利用Gemini模型分析约400帧视频画面，并将最佳画面保存为照片。它最长可录制两分钟，总会给出五张照片，并将视频上传云端进行增强处理。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "WinFuture的Roland Quandt在Bluesky上表示，Nothing正准备推出两款新的智能眼镜，而且两者听起来差异很大。"
+                "x": "在阴天的Phoenix Zoo，它精准捕捉到一只咆哮的美洲豹和一只构图出色的草原犬鼠。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "其中一款将与Ray-Ban Meta系列类似，内置摄像头并具备翻译等AI功能。作为Android的忠实用户，Nothing看似会搭上Android XR的快车，但Quandt称这款眼镜集成的是ChatGPT而非Gemini，因此情况可能并非如此。不过，这对Nothing来说并非新的转向，该公司一段时间以来一直在其他产品中推进ChatGPT集成。"
+                "x": "在光线昏暗的演唱会上从较远处拍摄时，它令人失望。在基础版Pixel 11上，Magic Capture使用10.8MP长焦镜头时变焦上限为4x，以1080p 30fps录制并裁切画面，照片模糊且噪点多。"
               },
               {
                 "t": "p",
-                "x": "而另一款智能眼镜则会采取简单得多的思路。"
-              },
-              {
-                "t": "p",
-                "x": "它将像一副耳机那样工作，可以接听电话、与手机的语音助手交互，但没有摄像头，也没有任何直接的AI集成。据称两款都将提供光致变色镜片，也就是常说的“transition”镜片，这在其他智能眼镜上也很常见。"
-              },
-              {
-                "t": "p",
-                "x": "此前有关Nothing打造智能眼镜的报道将发布时间定在2027年的某个时候。这种双线策略确实耐人寻味，尤其是最近有报道称Nothing今后将全力押注AI设备。"
+                "x": "它在光线充足、使用主摄时效果最佳。拍演唱会的话，评测者建议选择配备48MP潜望式长焦镜头的Pixel 11 Pro或Pro XL。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nothing prepararía dos pares\nde gafas inteligentes",
-          "body": "Nothing estaría desarrollando dos pares de gafas: unas con ChatGPT y cámara, y otras casi sin IA.",
-          "mini_headline": "Llegarían unas gafas de Nothing",
+          "headline": "Magic Capture del Pixel 11\nse queda corto en conciertos",
+          "body": "En un concierto, el Magic Capture del Pixel 11 demuestra que esta función de AI solo rinde en ciertas condiciones.",
+          "mini_headline": "Magic Capture falla en conciertos",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Una fuente fiable asegura que Nothing está desarrollando sus propias gafas inteligentes con IA, con integración de ChatGPT, cámara y dos modelos muy diferentes."
+                "x": "Magic Capture en el Pixel 11 usa modelos Gemini para analizar unos 400 fotogramas de video y guardar los mejores como fotos. Graba hasta dos minutos, siempre devuelve cinco fotos y envía las imágenes a la nube para mejorarlas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Roland Quandt, de WinFuture, afirma en Bluesky que Nothing se prepara para lanzar dos nuevos modelos de gafas inteligentes, y que parecen muy distintos entre sí."
+                "x": "En el Phoenix Zoo, en un día nublado, captó a la perfección a un jaguar gruñendo y a un perrito de las praderas bien encuadrado."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Un par sería similar a la gama Ray-Ban Meta, con cámara integrada y funciones de IA como la traducción. Aunque Nothing, como gran usuaria de Android, podría parecer candidata a subirse al tren de Android XR, probablemente no sea así, ya que Quandt afirma que estas gafas integrarán ChatGPT en lugar de Gemini. No es un giro nuevo por parte de Nothing, ya que la empresa lleva tiempo integrando ChatGPT en sus otros productos."
+                "x": "En un concierto con poca luz y desde más atrás, decepcionó. En el Pixel 11 básico, Magic Capture limita el zoom a 4x en el teleobjetivo de 10.8MP, graba en 1080p a 30fps y recorta los fotogramas, lo que deja tomas borrosas y con grano."
               },
               {
                 "t": "p",
-                "x": "El otro par de gafas inteligentes, en cambio, apostaría por un enfoque mucho más sencillo."
-              },
-              {
-                "t": "p",
-                "x": "Funcionarían como unos auriculares capaces de atender llamadas e interactuar con el asistente de voz del teléfono, pero carecerían de cámara y de cualquier integración directa de IA. Se dice que ambos modelos ofrecerán lentes fotocromáticas, también conocidas como lentes “transition” y habituales en otras gafas inteligentes."
-              },
-              {
-                "t": "p",
-                "x": "Informaciones anteriores sobre los planes de Nothing en gafas inteligentes situaban el lanzamiento en algún momento de 2027. Esta doble estrategia resulta sin duda interesante, sobre todo porque un informe reciente sugería que Nothing apostará de lleno por los dispositivos de IA en adelante."
+                "x": "Funciona mejor con la cámara principal y buena luz. Para conciertos, el autor recomienda el Pixel 11 Pro o el Pro XL, con su teleobjetivo periscópico de 48MP."
               }
             ]
           }
@@ -1167,153 +1023,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Nothing 스마트 안경\n두 종류 준비 중이란 보도",
-          "body": "Nothing이 ChatGPT·카메라 안경과 AI 거의 없는 안경을 만든다고 한다.",
-          "mini_headline": "Nothing 안경 출시설",
+          "headline": "Magic Capture\n공연장에선 아쉽다",
+          "body": "공연 테스트에서 Pixel 11의 AI Magic Capture는 조건을 탔다.",
+          "mini_headline": "Magic Capture, 공연장에선 아쉽다",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "믿을 만한 소식통에 따르면 Nothing은 ChatGPT 통합과 카메라를 갖춘 자체 AI 스마트 안경을, 성격이 전혀 다른 두 가지 모델로 개발하고 있다."
+                "x": "Pixel 11의 Magic Capture는 Gemini 모델로 약 400개의 영상 프레임을 분석해 가장 좋은 장면을 사진으로 저장한다. 최대 2분까지 녹화하고, 언제나 사진 5장을 내놓으며, 보정을 위해 영상을 클라우드로 보낸다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "WinFuture의 Roland Quandt는 Bluesky에서 Nothing이 새 스마트 안경 모델 두 가지의 출시를 준비 중이며, 둘은 완전히 다를 것으로 보인다고 밝혔다."
+                "x": "흐린 날 Phoenix Zoo에서는 으르렁대는 재규어와 구도가 잘 잡힌 프레리도그를 정확히 담아냈다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "한 모델은 내장 카메라와 번역 같은 AI 기능을 갖춰 Ray-Ban Meta 라인업과 비슷할 전망이다. Android를 적극적으로 쓰는 Nothing이라면 Android XR 흐름에 올라탈 것처럼 보이지만, Quandt에 따르면 이 안경은 Gemini가 아닌 ChatGPT와 통합되므로 그렇지는 않은 듯하다. 다만 Nothing으로서는 새로운 방향 전환이 아니다. 회사는 한동안 다른 제품에도 ChatGPT 통합을 넓혀 왔다."
+                "x": "어두운 공연장 뒤쪽에서는 실망스러웠다. 기본형 Pixel 11에서 Magic Capture는 10.8MP 망원 카메라의 줌을 4x로 제한하고, 1080p 30fps로 녹화하며 프레임을 잘라내 흐릿하고 노이즈 낀 사진을 남겼다."
               },
               {
                 "t": "p",
-                "x": "반면 다른 스마트 안경은 훨씬 단순한 방식을 택할 것으로 보인다."
-              },
-              {
-                "t": "p",
-                "x": "이 모델은 통화를 받고 폰의 음성 비서와 상호작용할 수 있는 헤드폰처럼 작동하지만, 카메라나 직접적인 AI 통합은 빠진다. 두 모델 모두 다른 스마트 안경에서도 흔히 볼 수 있는, 이른바 “transition” 렌즈로 불리는 변색 렌즈를 제공할 것으로 알려졌다."
-              },
-              {
-                "t": "p",
-                "x": "앞선 보도는 Nothing의 스마트 안경 출시 시점을 2027년 중으로 짚었다. 이번 이중 전략은 분명 흥미롭다. 특히 Nothing이 앞으로 AI 기기에 전력을 쏟을 것이라는 최근 보도를 감안하면 더욱 그렇다."
+                "x": "좋은 조명에서 메인 카메라로 쓸 때 가장 잘 작동한다. 공연용으로 리뷰어는 48MP 잠망경 망원을 갖춘 Pixel 11 Pro나 Pro XL을 권한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Nothing、\nスマートグラス二種を計画か",
-          "body": "NothingはChatGPTとカメラを載せた眼鏡と、AIのほぼない眼鏡を開発中だという。",
-          "mini_headline": "Nothingのグラス、登場か",
+          "headline": "Magic Capture\nライブでは力不足",
+          "body": "ライブでの試用でPixel 11のAI機能Magic Captureは条件次第だった。",
+          "mini_headline": "Magic Capture、ライブでは力不足",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "信頼できる情報筋によると、NothingはChatGPT連携とカメラを備えた独自のAIスマートグラスを開発しており、まったく異なる二つのモデルがあるという。"
+                "x": "Pixel 11のMagic Captureは、Geminiモデルで約400の動画フレームを解析し、最良のものを写真として保存する。録画は最長2分で、常に5枚の写真を返し、補正のために映像をクラウドへ送る。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "WinFutureのRoland QuandtはBlueskyで、Nothingがスマートグラスの新モデル二機種の発売を準備しており、両者は大きく異なるようだと述べた。"
+                "x": "曇りの日のPhoenix Zooでは、うなるジャガーと構図の整ったプレーリードッグを見事に捉えた。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "一方のモデルはRay-Ban Metaシリーズに近く、カメラを内蔵し、翻訳などのAI機能を備える。Androidに熱心なNothingならAndroid XRの流れに乗りそうに思えるが、QuandtによればGeminiではなくChatGPTとの連携を備えるというから、そうではなさそうだ。ただ、これはNothingにとって新たな方針転換ではない。同社はしばらく前から他の製品でもChatGPT連携を進めてきた。"
+                "x": "薄暗いライブ会場の後方からでは期待外れだった。無印のPixel 11では、Magic Captureは10.8MPの望遠でズームが4xまでに制限され、1080p・30fpsで録画し、フレームをクロップするため、ぼやけてノイズの多い写真になった。"
               },
               {
                 "t": "p",
-                "x": "一方、もう一つのスマートグラスははるかにシンプルな方向性を取るという。"
-              },
-              {
-                "t": "p",
-                "x": "こちらは通話に応答したりスマートフォンの音声アシスタントを操作したりできるヘッドホンのように機能するが、カメラや直接的なAI連携は備えない。両モデルとも、他のスマートグラスでもよく見られる、いわゆる“transition”レンズと呼ばれる調光レンズを採用するとされる。"
-              },
-              {
-                "t": "p",
-                "x": "Nothingのスマートグラスをめぐる以前の報道では、発売時期は2027年中とされていた。今回の二本立て戦略は確かに興味深い。Nothingが今後AIデバイスに全面的に注力するという最近の報道を踏まえればなおさらだ。"
+                "x": "最も力を発揮するのは、明るい環境でメインカメラを使うときだ。ライブ用には、48MPのペリスコープ望遠を備えたPixel 11 ProかPro XLをレビュアーは勧めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Nothing据传计划\n推出两款智能眼镜",
-          "body": "据报道，Nothing正打造两款眼镜：一款带ChatGPT和摄像头，一款几乎没有AI。",
-          "mini_headline": "Nothing眼镜据传将至",
+          "headline": "Magic Capture\n演唱会上表现不佳",
+          "body": "演唱会实测显示，Pixel 11的AI功能Magic Capture只在特定条件下好用。",
+          "mini_headline": "Magic Capture：演唱会上失手",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "一位可靠消息人士称，Nothing正在打造自己的AI智能眼镜，具备ChatGPT集成和摄像头，并有两款截然不同的型号。"
+                "x": "Pixel 11的Magic Capture利用Gemini模型分析约400帧视频画面，并将最佳画面保存为照片。它最长可录制两分钟，总会给出五张照片，并将视频上传云端进行增强处理。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "WinFuture的Roland Quandt在Bluesky上表示，Nothing正准备推出两款新的智能眼镜，而且两者听起来差异很大。"
+                "x": "在阴天的Phoenix Zoo，它精准捕捉到一只咆哮的美洲豹和一只构图出色的草原犬鼠。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "其中一款将与Ray-Ban Meta系列类似，内置摄像头并具备翻译等AI功能。作为Android的忠实用户，Nothing看似会搭上Android XR的快车，但Quandt称这款眼镜集成的是ChatGPT而非Gemini，因此情况可能并非如此。不过，这对Nothing来说并非新的转向，该公司一段时间以来一直在其他产品中推进ChatGPT集成。"
+                "x": "在光线昏暗的演唱会上从较远处拍摄时，它令人失望。在基础版Pixel 11上，Magic Capture使用10.8MP长焦镜头时变焦上限为4x，以1080p 30fps录制并裁切画面，照片模糊且噪点多。"
               },
               {
                 "t": "p",
-                "x": "而另一款智能眼镜则会采取简单得多的思路。"
-              },
-              {
-                "t": "p",
-                "x": "它将像一副耳机那样工作，可以接听电话、与手机的语音助手交互，但没有摄像头，也没有任何直接的AI集成。据称两款都将提供光致变色镜片，也就是常说的“transition”镜片，这在其他智能眼镜上也很常见。"
-              },
-              {
-                "t": "p",
-                "x": "此前有关Nothing打造智能眼镜的报道将发布时间定在2027年的某个时候。这种双线策略确实耐人寻味，尤其是最近有报道称Nothing今后将全力押注AI设备。"
+                "x": "它在光线充足、使用主摄时效果最佳。拍演唱会的话，评测者建议选择配备48MP潜望式长焦镜头的Pixel 11 Pro或Pro XL。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Nothing prepararía dos pares\nde gafas inteligentes",
-          "body": "Nothing estaría desarrollando dos pares de gafas: unas con ChatGPT y cámara, y otras casi sin IA.",
-          "mini_headline": "Llegarían unas gafas de Nothing",
+          "headline": "Magic Capture del Pixel 11\nse queda corto en conciertos",
+          "body": "En un concierto, el Magic Capture del Pixel 11 demuestra que esta función de AI solo rinde en ciertas condiciones.",
+          "mini_headline": "Magic Capture falla en conciertos",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&w=1600"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Una fuente fiable asegura que Nothing está desarrollando sus propias gafas inteligentes con IA, con integración de ChatGPT, cámara y dos modelos muy diferentes."
+                "x": "Magic Capture en el Pixel 11 usa modelos Gemini para analizar unos 400 fotogramas de video y guardar los mejores como fotos. Graba hasta dos minutos, siempre devuelve cinco fotos y envía las imágenes a la nube para mejorarlas."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Roland Quandt, de WinFuture, afirma en Bluesky que Nothing se prepara para lanzar dos nuevos modelos de gafas inteligentes, y que parecen muy distintos entre sí."
+                "x": "En el Phoenix Zoo, en un día nublado, captó a la perfección a un jaguar gruñendo y a un perrito de las praderas bien encuadrado."
+              },
+              {
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+                "cap": "Brady Snyder / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Un par sería similar a la gama Ray-Ban Meta, con cámara integrada y funciones de IA como la traducción. Aunque Nothing, como gran usuaria de Android, podría parecer candidata a subirse al tren de Android XR, probablemente no sea así, ya que Quandt afirma que estas gafas integrarán ChatGPT en lugar de Gemini. No es un giro nuevo por parte de Nothing, ya que la empresa lleva tiempo integrando ChatGPT en sus otros productos."
+                "x": "En un concierto con poca luz y desde más atrás, decepcionó. En el Pixel 11 básico, Magic Capture limita el zoom a 4x en el teleobjetivo de 10.8MP, graba en 1080p a 30fps y recorta los fotogramas, lo que deja tomas borrosas y con grano."
               },
               {
                 "t": "p",
-                "x": "El otro par de gafas inteligentes, en cambio, apostaría por un enfoque mucho más sencillo."
-              },
-              {
-                "t": "p",
-                "x": "Funcionarían como unos auriculares capaces de atender llamadas e interactuar con el asistente de voz del teléfono, pero carecerían de cámara y de cualquier integración directa de IA. Se dice que ambos modelos ofrecerán lentes fotocromáticas, también conocidas como lentes “transition” y habituales en otras gafas inteligentes."
-              },
-              {
-                "t": "p",
-                "x": "Informaciones anteriores sobre los planes de Nothing en gafas inteligentes situaban el lanzamiento en algún momento de 2027. Esta doble estrategia resulta sin duda interesante, sobre todo porque un informe reciente sugería que Nothing apostará de lleno por los dispositivos de IA en adelante."
+                "x": "Funciona mejor con la cámara principal y buena luz. Para conciertos, el autor recomienda el Pixel 11 Pro o el Pro XL, con su teleobjetivo periscópico de 48MP."
               }
             ]
           }
@@ -1321,15 +1189,15 @@
       }
     },
     {
-      "id": "gadgets-pixel-zoom",
+      "id": "gadgets-homeview-robot-arm",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Pixel 11 Pro의\n120x 생성형 AI 줌",
-      "body": "Pixel 11 Pro는 밝은 망원과 생성형 AI로 120x 줌을 구현한다.",
-      "mini_headline": "Pixel의 120x AI 줌",
+      "headline": "차기 HomeView에\n내년 로봇 팔 달리나",
+      "body": "$299 HomeView의 후속작이 이르면 내년 로봇 팔을 달 전망이다.",
+      "mini_headline": "차기 HomeView, 로봇 팔 달까",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/the-pixel-11-pros-120x-zoom-3721738/",
+      "source": "9to5Mac",
+      "url": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -1337,233 +1205,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
           },
           {
             "t": "p",
-            "x": "Google은 Pixel 11 Pro에서 Pixel 10 Pro의 100x보다 늘어난 120x Pro Res 줌을 내놨다. 더 밝아진 망원 카메라에 생성형 AI를 더하면 더 먼 거리에서도 디테일을 더 많이 담을 수 있다는 게 Google의 주장이다. Android Authority는 일주일 동안 간판, 기념물, 야생동물, 사람을 찍으며 이 기능을 시험했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
-            "cap": "120x에서는 800년 된 델리(Delhi) 첨탑의 서예 문양 같은 디테일까지 보인다."
+            "x": "Apple이 오래 기다려 온 스마트 홈 디스플레이 HomeView를 $299에 발표했다. 개발 기간이 꽤 길었는데, 더 똑똑한 Siri가 계속 늦어진 탓에 발목이 잡혔다."
           },
           {
             "t": "p",
-            "x": "멀리 있는 글자와 건축 조각은 읽힐 만큼 나왔지만, 디지털 샤프닝과 스무딩이 눈에 띄었고 질감은 그림 같았다. AI가 창유리에 없는 무늬를 지어낸 경우도 있었다. 어두운 곳에서는 작은 글씨가 전혀 알아볼 수 없는 글자로 뭉개졌다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
-            "cap": "120x AI-enhanced(AI 보정) 줌으로 찍은 호숫가의 검은 새."
+            "x": "제품이 나오자 걱정하는 고객도 생겼다. 여러 사람이 둘러앉은 테이블에 HomeView를 두면 직접 이리저리 옮겨야 한다는 점 때문이다. Power On 뉴스레터에 따르면 Apple의 해법은 머지않아 나올 수도 있다."
           },
           {
             "t": "p",
-            "x": "야생동물의 털과 깃털은 그럴듯했지만 불쾌한 골짜기에 가까웠다. 극단적인 줌에서는 Google의 처리가 빠진 디테일을 채워 넣는데, 그 결과물은 없던 디테일까지 만들어 낼 수 있는 근사치다. 화면에 사람이 감지되면 Pixel 11 Pro는 생성형 업스케일링을 아예 건너뛴다."
+            "x": "Bloomberg의 Mark Gurman에 따르면 코드명 J595인 성능 강화형 HomeView는 2027년 또는 2028년 출시가 목표다. 생김새는 지금 HomeView와 비슷하다. 다만 화면이 약 9인치(7인치에서 확대)로 커지고 디스플레이를 360도 완전히 돌리는 전동 로봇 팔이 붙는다. 음성 인식으로 말하는 사람을 알아보고 그쪽으로 돌아서게 설계됐다."
           },
           {
             "t": "p",
-            "x": "정리하면 마케팅용 눈속임 이상이다. 먼 물체를 살필 때 쓸모가 있지만 장망원 렌즈를 대신하지는 못하니, 기대는 적당히 하는 편이 좋다."
+            "x": "HomeView를 대체하는 게 아니라 라인업 위쪽에 서는 상위 모델이다. 같은 $299 가격대는 기대하지 않는 편이 좋다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pixel 11 Pro's 120x zoom\nleans on generative AI",
-          "body": "Pixel 11 Pro's Pro Res Zoom reaches 120x by pairing a brighter telephoto camera with generative AI that rebuilds detail.",
-          "mini_headline": "Pixel's 120x\nAI zoom",
+          "headline": "Apple's next HomeView may add\na robotic arm next year",
+          "body": "A report says Apple's next HomeView could arrive as soon as next year with a robotic arm, after the $299 original.",
+          "mini_headline": "Next HomeView may\nget a robotic arm",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "With the Pixel 11 Pro, Google offers 120x Pro Res zoom, up from 100x on the Pixel 10 Pro. Google claims its brighter telephoto camera can capture more detail from farther away – when combined with generative AI. Android Authority spent a week testing it on signboards, monuments, wildlife and people."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
-                "cap": "At 120x, details on Delhi's 800-year-old minaret, including its calligraphy, become visible."
+                "x": "Apple just announced its long awaited smart home display: HomeView, and it's available for $299. That said, the product has been in development for quite some time, being held back by all of the delays with developing a smarter Siri."
               },
               {
                 "t": "p",
-                "x": "Distant lettering and architectural carvings came out readable, but with obvious digital sharpening, smoothing and a painterly look; the AI even dreamed up a pattern on window panes that didn't exist. In dim light, small text turned into absolute gibberish."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
-                "cap": "120x AI-enhanced zoom on a black bird at a lake."
+                "x": "Now that it's on the market, some customers have had concern about the fact that you have to move the HomeView around yourself if its on a table with multiple people surrounding it. According to the Power On newsletter, it might not be too long before Apple has a solution."
               },
               {
                 "t": "p",
-                "x": "On wildlife, fur and feathers looked convincing but veered toward the uncanny valley: at extreme zoom Google's processing fills in missing detail, and the result is an approximation that can create details that do not exist. The Pixel 11 Pro explicitly skips generative upscaling when it detects a human in the frame."
+                "x": "According to Bloomberg's Mark Gurman, a souped-up HomeView, code-named J595, is planned for release in 2027 or 2028. It looks like the current HomeView but has a roughly 9-inch screen (up from 7 inches) and a motorized robotic arm that lets the display swivel a full 360 degrees. Using voice recognition, it is designed to identify who's speaking and turn toward that person."
               },
               {
                 "t": "p",
-                "x": "Verdict: more than a marketing gimmick and handy for inspecting distant objects, but not a substitute for a long telephoto lens – keep your expectations in check."
+                "x": "This won't replace the HomeView, and will instead serve as a higher end model in the lineup. So, don't expect it at the same $299 price point."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Pixel 11 Pro의\n120x 생성형 AI 줌",
-          "body": "Pixel 11 Pro는 밝은 망원과 생성형 AI로 120x 줌을 구현한다.",
-          "mini_headline": "Pixel의 120x AI 줌",
+          "headline": "차기 HomeView에\n내년 로봇 팔 달리나",
+          "body": "$299 HomeView의 후속작이 이르면 내년 로봇 팔을 달 전망이다.",
+          "mini_headline": "차기 HomeView, 로봇 팔 달까",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Google은 Pixel 11 Pro에서 Pixel 10 Pro의 100x보다 늘어난 120x Pro Res 줌을 내놨다. 더 밝아진 망원 카메라에 생성형 AI를 더하면 더 먼 거리에서도 디테일을 더 많이 담을 수 있다는 게 Google의 주장이다. Android Authority는 일주일 동안 간판, 기념물, 야생동물, 사람을 찍으며 이 기능을 시험했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
-                "cap": "120x에서는 800년 된 델리(Delhi) 첨탑의 서예 문양 같은 디테일까지 보인다."
+                "x": "Apple이 오래 기다려 온 스마트 홈 디스플레이 HomeView를 $299에 발표했다. 개발 기간이 꽤 길었는데, 더 똑똑한 Siri가 계속 늦어진 탓에 발목이 잡혔다."
               },
               {
                 "t": "p",
-                "x": "멀리 있는 글자와 건축 조각은 읽힐 만큼 나왔지만, 디지털 샤프닝과 스무딩이 눈에 띄었고 질감은 그림 같았다. AI가 창유리에 없는 무늬를 지어낸 경우도 있었다. 어두운 곳에서는 작은 글씨가 전혀 알아볼 수 없는 글자로 뭉개졌다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
-                "cap": "120x AI-enhanced(AI 보정) 줌으로 찍은 호숫가의 검은 새."
+                "x": "제품이 나오자 걱정하는 고객도 생겼다. 여러 사람이 둘러앉은 테이블에 HomeView를 두면 직접 이리저리 옮겨야 한다는 점 때문이다. Power On 뉴스레터에 따르면 Apple의 해법은 머지않아 나올 수도 있다."
               },
               {
                 "t": "p",
-                "x": "야생동물의 털과 깃털은 그럴듯했지만 불쾌한 골짜기에 가까웠다. 극단적인 줌에서는 Google의 처리가 빠진 디테일을 채워 넣는데, 그 결과물은 없던 디테일까지 만들어 낼 수 있는 근사치다. 화면에 사람이 감지되면 Pixel 11 Pro는 생성형 업스케일링을 아예 건너뛴다."
+                "x": "Bloomberg의 Mark Gurman에 따르면 코드명 J595인 성능 강화형 HomeView는 2027년 또는 2028년 출시가 목표다. 생김새는 지금 HomeView와 비슷하다. 다만 화면이 약 9인치(7인치에서 확대)로 커지고 디스플레이를 360도 완전히 돌리는 전동 로봇 팔이 붙는다. 음성 인식으로 말하는 사람을 알아보고 그쪽으로 돌아서게 설계됐다."
               },
               {
                 "t": "p",
-                "x": "정리하면 마케팅용 눈속임 이상이다. 먼 물체를 살필 때 쓸모가 있지만 장망원 렌즈를 대신하지는 못하니, 기대는 적당히 하는 편이 좋다."
+                "x": "HomeView를 대체하는 게 아니라 라인업 위쪽에 서는 상위 모델이다. 같은 $299 가격대는 기대하지 않는 편이 좋다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pixel 11 Proの\n120x 生成AIズーム",
-          "body": "Pixel 11 ProのPro Res Zoomは望遠と生成AIで120xに達する。",
-          "mini_headline": "Pixelの120x AIズーム",
+          "headline": "次期HomeView、\n来年ロボットアーム搭載か",
+          "body": "$299の初代に続くApple次期HomeViewは来年にもロボットアームを備えるという。",
+          "mini_headline": "次期HomeViewにロボットアームか",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "GoogleはPixel 11 Proで、Pixel 10 Proの100xから引き上げた120xのPro Resズームを提供する。Googleは、明るくなった望遠カメラが生成AIと組み合わさることで、より遠くからより多くのディテールを捉えられると主張する。Android Authorityは一週間かけて、看板、建造物、野生動物、人物で試した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
-                "cap": "120xでは、Delhi（デリー）にある築800年のミナレットのカリグラフィーなどのディテールが見える。"
+                "x": "Appleは待望のスマートホームディスプレイ「HomeView」を発表し、価格は$299だ。ただ、この製品はかなり前から開発が続いており、より賢いSiriの開発が遅れ続けたことで足止めされていた。"
               },
               {
                 "t": "p",
-                "x": "遠くの文字や建築の彫刻は読み取れる程度に写ったが、デジタルのシャープ処理や平滑化が目立ち、絵画のような質感になった。AIは窓ガラスに存在しない模様まで作り出した。暗い場所では、小さな文字はまったく判読できない文字列になった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
-                "cap": "湖にいる黒い鳥を120x AI-enhanced ズームで撮影。"
+                "x": "発売を受けて、複数の人が囲むテーブルに置いた場合、HomeViewを自分で動かさなければならない点を懸念する顧客も出ている。Power Onニュースレターによれば、Appleが解決策を出すまでそう長くはかからないかもしれない。"
               },
               {
                 "t": "p",
-                "x": "野生動物では毛や羽根はもっともらしく見えたが、不気味の谷に寄っていた。極端なズームではGoogleの処理が欠けたディテールを補うため、結果は存在しないディテールを生み出しうる近似にすぎない。Pixel 11 Proは、フレーム内に人物を検出すると生成アップスケーリングを明示的に行わない。"
+                "x": "BloombergのMark Gurmanによると、コードネームJ595の強化版HomeViewが2027年か2028年の発売に向けて計画されている。見た目は現行のHomeViewに似ているが、画面は約9インチ(7インチから拡大)となり、ディスプレイを360度回転させる電動ロボットアームを備える。音声認識で話している人を特定し、その人のほうへ向くよう設計されている。"
               },
               {
                 "t": "p",
-                "x": "結論：マーケティング上のギミック以上のもので、遠くの物を確かめるには便利だが、長い望遠レンズの代わりにはならない。期待はほどほどにしておきたい。"
+                "x": "これはHomeViewを置き換えるものではなく、ラインアップの上位モデルとなる。そのため、同じ$299の価格は期待しないほうがいい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pixel 11 Pro的\n120x 变焦靠生成式AI",
-          "body": "Pixel 11 Pro的Pro Res Zoom以更亮的长焦结合生成式AI实现120x。",
-          "mini_headline": "Pixel的120x AI变焦",
+          "headline": "下一代HomeView\n明年或加装机械臂",
+          "body": "报道称，继$299的初代之后，Apple下一代HomeView最早明年将配备机械臂。",
+          "mini_headline": "下一代HomeView或配机械臂",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Google在Pixel 11 Pro上提供120x Pro Res变焦，高于Pixel 10 Pro的100x。Google称，其更亮的长焦摄像头与生成式AI结合后，可以从更远处捕捉更多细节。Android Authority花了一周时间，用招牌、古迹、野生动物和人物对其进行了测试。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
-                "cap": "在120x下，Delhi（德里）一座有800年历史的宣礼塔上的书法等细节清晰可见。"
+                "x": "Apple刚刚发布了期待已久的智能家居显示屏HomeView，售价$299。不过，这款产品已开发了相当长的时间，一直因更智能的Siri开发屡屡延误而受阻。"
               },
               {
                 "t": "p",
-                "x": "远处的文字和建筑雕刻清晰可读，但数码锐化和涂抹痕迹明显，画面带有油画感；AI甚至在窗玻璃上凭空生成了并不存在的图案。在昏暗光线下，小字则完全变成了乱码。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
-                "cap": "用120x AI-enhanced 变焦拍摄的湖边黑鸟。"
+                "x": "产品上市后，一些顾客担心：如果把HomeView放在多人围坐的桌子上，就得自己动手挪动它。据Power On通讯报道，Apple可能很快就会拿出解决方案。"
               },
               {
                 "t": "p",
-                "x": "拍摄野生动物时，毛发和羽毛看起来很逼真，却滑向了恐怖谷：在极端变焦下，Google的处理会补全缺失的细节，结果只是一种近似，可能会产生并不存在的细节。Pixel 11 Pro在检测到画面中有人时，会明确跳过生成式放大。"
+                "x": "据Bloomberg的Mark Gurman称，一款代号J595的升级版HomeView计划于2027年或2028年发布。它外观与现款HomeView相似，但屏幕约9英寸（从7英寸增大），并配有电动机械臂，可让显示屏完整旋转360度。它的设计是通过语音识别判断说话者，并转向此人。"
               },
               {
                 "t": "p",
-                "x": "结论：它不只是营销噱头，用来查看远处物体很方便，但无法取代长焦镜头——期望值还是要放低一些。"
+                "x": "它不会取代HomeView，而是作为产品线中的高端型号。因此，别指望它也是$299的价位。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El zoom 120x del Pixel 11 Pro\nse apoya en la IA generativa",
-          "body": "El Pro Res Zoom del Pixel 11 Pro llega a 120x con un teleobjetivo más luminoso y IA generativa que recrea el detalle.",
-          "mini_headline": "El zoom con IA de 120x del Pixel",
+          "headline": "El próximo HomeView de Apple\npodría sumar un brazo robótico",
+          "body": "Según un informe, el sucesor del HomeView de $299 de Apple podría llegar el año próximo con un brazo robótico.",
+          "mini_headline": "El próximo HomeView, con brazo robótico",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Con el Pixel 11 Pro, Google ofrece un zoom Pro Res de 120x, frente a los 100x del Pixel 10 Pro. Google afirma que su teleobjetivo más luminoso puede captar más detalle desde más lejos, siempre que se combine con IA generativa. Android Authority pasó una semana probándolo con letreros, monumentos, fauna y personas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
-                "cap": "A 120x se aprecian detalles del minarete de 800 años de Delhi, incluida su caligrafía."
+                "x": "Apple acaba de anunciar su esperada pantalla para el hogar inteligente, HomeView, que cuesta $299. Dicho esto, el producto llevaba bastante tiempo en desarrollo, frenado por todos los retrasos en el desarrollo de un Siri más inteligente."
               },
               {
                 "t": "p",
-                "x": "Las letras lejanas y las tallas arquitectónicas resultaron legibles, pero con un evidente enfoque digital, suavizado y un aspecto pictórico; la IA llegó a inventar un patrón en los cristales de una ventana que no existía. Con poca luz, el texto pequeño se convirtió en un completo galimatías."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
-                "cap": "Zoom 120x mejorado con IA (AI-enhanced) sobre un pájaro negro en un lago."
+                "x": "Ahora que está a la venta, a algunos clientes les preocupa tener que mover el HomeView ellos mismos si está en una mesa rodeada de varias personas. Según el boletín Power On, puede que Apple no tarde mucho en tener una solución."
               },
               {
                 "t": "p",
-                "x": "En la fauna, el pelaje y las plumas parecían convincentes, pero rozaban el valle inquietante: con el zoom extremo, el procesamiento de Google rellena el detalle que falta, y el resultado es una aproximación que puede crear detalles inexistentes. El Pixel 11 Pro omite expresamente el reescalado generativo cuando detecta a una persona en el encuadre."
+                "x": "Según Mark Gurman, de Bloomberg, un HomeView mejorado, con el nombre en clave J595, está previsto para 2027 o 2028. Se parece al HomeView actual, pero tiene una pantalla de unas 9 pulgadas (frente a 7) y un brazo robótico motorizado que permite girar la pantalla 360 grados completos. Mediante reconocimiento de voz, está diseñado para identificar quién habla y girarse hacia esa persona."
               },
               {
                 "t": "p",
-                "x": "Veredicto: es más que un truco de marketing y resulta útil para examinar objetos lejanos, pero no sustituye a un teleobjetivo largo; conviene moderar las expectativas."
+                "x": "No sustituirá al HomeView, sino que será un modelo de gama más alta dentro de la línea. Así que no conviene esperar el mismo precio de $299."
               }
             ]
           }
@@ -1571,161 +1379,393 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Pixel 11 Pro의\n120x 생성형 AI 줌",
-          "body": "Pixel 11 Pro는 밝은 망원과 생성형 AI로 120x 줌을 구현한다.",
-          "mini_headline": "Pixel의 120x AI 줌",
+          "headline": "차기 HomeView에\n내년 로봇 팔 달리나",
+          "body": "$299 HomeView의 후속작이 이르면 내년 로봇 팔을 달 전망이다.",
+          "mini_headline": "차기 HomeView, 로봇 팔 달까",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Google은 Pixel 11 Pro에서 Pixel 10 Pro의 100x보다 늘어난 120x Pro Res 줌을 제공한다. Google은 더 밝아진 망원 카메라가 생성형 AI와 결합하면 더 먼 거리에서 더 많은 디테일을 담을 수 있다고 주장한다. Android Authority는 일주일 동안 간판, 기념물, 야생동물, 사람을 대상으로 이 기능을 시험했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
-                "cap": "120x에서는 800년 된 델리(Delhi) 첨탑의 서예 문양 같은 디테일까지 보인다."
+                "x": "Apple이 오래 기다려 온 스마트 홈 디스플레이 HomeView를 발표했고, 가격은 $299다. 다만 이 제품은 꽤 오랫동안 개발돼 왔으며, 더 똑똑한 Siri 개발이 계속 늦어지면서 발목이 잡혀 있었다."
               },
               {
                 "t": "p",
-                "x": "멀리 있는 글자와 건축 조각은 읽을 수 있을 만큼 나왔지만, 디지털 샤프닝과 스무딩이 뚜렷하고 그림 같은 질감이 났다. AI는 창유리에 있지도 않은 무늬를 지어내기도 했다. 어두운 곳에서는 작은 글씨가 전혀 알아볼 수 없는 글자로 변했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
-                "cap": "120x AI-enhanced(AI 보정) 줌으로 찍은 호숫가의 검은 새."
+                "x": "제품이 시장에 나오자, 여러 사람이 둘러싼 테이블에 HomeView를 두면 직접 이리저리 옮겨야 한다는 점을 걱정하는 고객도 생겼다. Power On 뉴스레터에 따르면 Apple이 해법을 내놓기까지 그리 오래 걸리지 않을 수도 있다."
               },
               {
                 "t": "p",
-                "x": "야생동물의 털과 깃털은 그럴듯해 보였지만 불쾌한 골짜기 쪽으로 기울었다. 극단적인 줌에서는 Google의 처리가 빠진 디테일을 채워 넣는데, 그 결과는 존재하지 않는 디테일을 만들어 낼 수 있는 근사치다. Pixel 11 Pro는 화면에 사람이 감지되면 생성형 업스케일링을 명시적으로 건너뛴다."
+                "x": "Bloomberg의 Mark Gurman에 따르면, 코드명 J595인 성능 강화형 HomeView가 2027년 또는 2028년 출시를 목표로 한다. 외형은 현재 HomeView와 비슷하지만 화면이 약 9인치(7인치에서 확대)로 커지고, 디스플레이를 360도 완전히 돌릴 수 있는 전동 로봇 팔을 갖춘다. 음성 인식으로 말하는 사람을 알아보고 그쪽으로 돌아서도록 설계됐다."
               },
               {
                 "t": "p",
-                "x": "결론: 마케팅용 눈속임 이상이며 먼 물체를 살펴볼 때 쓸모 있지만, 장망원 렌즈를 대신하지는 못한다. 기대치는 적당히 두는 편이 좋다."
+                "x": "이 제품은 HomeView를 대체하지 않고, 라인업의 상위 모델 역할을 맡는다. 따라서 같은 $299 가격대는 기대하지 않는 편이 좋다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Pixel 11 Proの\n120x 生成AIズーム",
-          "body": "Pixel 11 ProのPro Res Zoomは望遠と生成AIで120xに達する。",
-          "mini_headline": "Pixelの120x AIズーム",
+          "headline": "次期HomeView、\n来年ロボットアーム搭載か",
+          "body": "$299の初代に続くApple次期HomeViewは来年にもロボットアームを備えるという。",
+          "mini_headline": "次期HomeViewにロボットアームか",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "GoogleはPixel 11 Proで、Pixel 10 Proの100xから引き上げた120xのPro Resズームを提供する。Googleは、明るくなった望遠カメラが生成AIと組み合わさることで、より遠くからより多くのディテールを捉えられると主張する。Android Authorityは一週間かけて、看板、建造物、野生動物、人物で試した。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
-                "cap": "120xでは、Delhi（デリー）にある築800年のミナレットのカリグラフィーなどのディテールが見える。"
+                "x": "Appleは待望のスマートホームディスプレイ「HomeView」を発表し、価格は$299だ。ただ、この製品はかなり前から開発が続いており、より賢いSiriの開発が遅れ続けたことで足止めされていた。"
               },
               {
                 "t": "p",
-                "x": "遠くの文字や建築の彫刻は読み取れる程度に写ったが、デジタルのシャープ処理や平滑化が目立ち、絵画のような質感になった。AIは窓ガラスに存在しない模様まで作り出した。暗い場所では、小さな文字はまったく判読できない文字列になった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
-                "cap": "湖にいる黒い鳥を120x AI-enhanced ズームで撮影。"
+                "x": "発売を受けて、複数の人が囲むテーブルに置いた場合、HomeViewを自分で動かさなければならない点を懸念する顧客も出ている。Power Onニュースレターによれば、Appleが解決策を出すまでそう長くはかからないかもしれない。"
               },
               {
                 "t": "p",
-                "x": "野生動物では毛や羽根はもっともらしく見えたが、不気味の谷に寄っていた。極端なズームではGoogleの処理が欠けたディテールを補うため、結果は存在しないディテールを生み出しうる近似にすぎない。Pixel 11 Proは、フレーム内に人物を検出すると生成アップスケーリングを明示的に行わない。"
+                "x": "BloombergのMark Gurmanによると、コードネームJ595の強化版HomeViewが2027年か2028年の発売に向けて計画されている。見た目は現行のHomeViewに似ているが、画面は約9インチ(7インチから拡大)となり、ディスプレイを360度回転させる電動ロボットアームを備える。音声認識で話している人を特定し、その人のほうへ向くよう設計されている。"
               },
               {
                 "t": "p",
-                "x": "結論：マーケティング上のギミック以上のもので、遠くの物を確かめるには便利だが、長い望遠レンズの代わりにはならない。期待はほどほどにしておきたい。"
+                "x": "これはHomeViewを置き換えるものではなく、ラインアップの上位モデルとなる。そのため、同じ$299の価格は期待しないほうがいい。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Pixel 11 Pro的\n120x 变焦靠生成式AI",
-          "body": "Pixel 11 Pro的Pro Res Zoom以更亮的长焦结合生成式AI实现120x。",
-          "mini_headline": "Pixel的120x AI变焦",
+          "headline": "下一代HomeView\n明年或加装机械臂",
+          "body": "报道称，继$299的初代之后，Apple下一代HomeView最早明年将配备机械臂。",
+          "mini_headline": "下一代HomeView或配机械臂",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Google在Pixel 11 Pro上提供120x Pro Res变焦，高于Pixel 10 Pro的100x。Google称，其更亮的长焦摄像头与生成式AI结合后，可以从更远处捕捉更多细节。Android Authority花了一周时间，用招牌、古迹、野生动物和人物对其进行了测试。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
-                "cap": "在120x下，Delhi（德里）一座有800年历史的宣礼塔上的书法等细节清晰可见。"
+                "x": "Apple刚刚发布了期待已久的智能家居显示屏HomeView，售价$299。不过，这款产品已开发了相当长的时间，一直因更智能的Siri开发屡屡延误而受阻。"
               },
               {
                 "t": "p",
-                "x": "远处的文字和建筑雕刻清晰可读，但数码锐化和涂抹痕迹明显，画面带有油画感；AI甚至在窗玻璃上凭空生成了并不存在的图案。在昏暗光线下，小字则完全变成了乱码。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
-                "cap": "用120x AI-enhanced 变焦拍摄的湖边黑鸟。"
+                "x": "产品上市后，一些顾客担心：如果把HomeView放在多人围坐的桌子上，就得自己动手挪动它。据Power On通讯报道，Apple可能很快就会拿出解决方案。"
               },
               {
                 "t": "p",
-                "x": "拍摄野生动物时，毛发和羽毛看起来很逼真，却滑向了恐怖谷：在极端变焦下，Google的处理会补全缺失的细节，结果只是一种近似，可能会产生并不存在的细节。Pixel 11 Pro在检测到画面中有人时，会明确跳过生成式放大。"
+                "x": "据Bloomberg的Mark Gurman称，一款代号J595的升级版HomeView计划于2027年或2028年发布。它外观与现款HomeView相似，但屏幕约9英寸（从7英寸增大），并配有电动机械臂，可让显示屏完整旋转360度。它的设计是通过语音识别判断说话者，并转向此人。"
               },
               {
                 "t": "p",
-                "x": "结论：它不只是营销噱头，用来查看远处物体很方便，但无法取代长焦镜头——期望值还是要放低一些。"
+                "x": "它不会取代HomeView，而是作为产品线中的高端型号。因此，别指望它也是$299的价位。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El zoom 120x del Pixel 11 Pro\nse apoya en la IA generativa",
-          "body": "El Pro Res Zoom del Pixel 11 Pro llega a 120x con un teleobjetivo más luminoso y IA generativa que recrea el detalle.",
-          "mini_headline": "El zoom con IA de 120x del Pixel",
+          "headline": "El próximo HomeView de Apple\npodría sumar un brazo robótico",
+          "body": "Según un informe, el sucesor del HomeView de $299 de Apple podría llegar el año próximo con un brazo robótico.",
+          "mini_headline": "El próximo HomeView, con brazo robótico",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg"
+                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
               },
               {
                 "t": "p",
-                "x": "Con el Pixel 11 Pro, Google ofrece un zoom Pro Res de 120x, frente a los 100x del Pixel 10 Pro. Google afirma que su teleobjetivo más luminoso puede captar más detalle desde más lejos, siempre que se combine con IA generativa. Android Authority pasó una semana probándolo con letreros, monumentos, fauna y personas."
+                "x": "Apple acaba de anunciar su esperada pantalla para el hogar inteligente, HomeView, que cuesta $299. Dicho esto, el producto llevaba bastante tiempo en desarrollo, frenado por todos los retrasos en el desarrollo de un Siri más inteligente."
               },
+              {
+                "t": "p",
+                "x": "Ahora que está a la venta, a algunos clientes les preocupa tener que mover el HomeView ellos mismos si está en una mesa rodeada de varias personas. Según el boletín Power On, puede que Apple no tarde mucho en tener una solución."
+              },
+              {
+                "t": "p",
+                "x": "Según Mark Gurman, de Bloomberg, un HomeView mejorado, con el nombre en clave J595, está previsto para 2027 o 2028. Se parece al HomeView actual, pero tiene una pantalla de unas 9 pulgadas (frente a 7) y un brazo robótico motorizado que permite girar la pantalla 360 grados completos. Mediante reconocimiento de voz, está diseñado para identificar quién habla y girarse hacia esa persona."
+              },
+              {
+                "t": "p",
+                "x": "No sustituirá al HomeView, sino que será un modelo de gama más alta dentro de la línea. Así que no conviene esperar el mismo precio de $299."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-repair-robot-data",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 연구소, 무료 수리로\n로봇 학습 데이터 확보",
+      "body": "AI 연구소 HUMXN은 배관·HVAC 수리비를 내주고 작업을 로봇용으로 찍는다.",
+      "mini_headline": "로봇을 가르치는 무료 수리",
+      "tool": "Gadgets",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+          },
+          {
+            "t": "p",
+            "x": "AI 데이터 연구소 HUMXN은 배관, 전기, HVAC, 에어덕트 청소, 카펫 청소 비용을 대 준다. 조건은 \"착용형 촬영 기술(wearable capture technology)\"을 갖춘 기술자가 집에서 일하도록 허락하는 것. 그러면 집주인은 이 작업을 공짜로 받는다."
+          },
+          {
+            "t": "p",
+            "x": "\"로봇은 숙련된 사람이 물리적 세계와 어떻게 상호작용하는지 이해해야 한다\"고 창업자 Thomas Unise는 말했다. 실험실에서는 자연스러운 움직임을 담기 어렵다. 그래서 영상은 제각기 다른 집과 장비, 문제, 기술자를 아우르며 진단에서 도구 선택, 작업 완료 확인까지 전 과정을 담는다."
+          },
+          {
+            "t": "p",
+            "x": "서비스 전문가의 보수는 그대로다. 프로그램은 기후가 제각각인 Minneapolis, Chicago, Miami에서 시작한다. Tom's Hardware는 Meta, Nvidia, OpenAI 같은 연구소가 데이터를 가져갔다는 비판을 받아 온 터라 학습 데이터에 값을 치르는 방식이 신선하다고 평했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "AI lab trades free home repairs\nfor robot training data",
+          "body": "In three cities, AI lab HUMXN covers plumbing and HVAC repairs so technicians' wearable capture gear can record the work for robots.",
+          "mini_headline": "Free repairs that\ntrain robots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Qutub-Minar-120x-zoom-scaled.jpg",
-                "cap": "A 120x se aprecian detalles del minarete de 800 años de Delhi, incluida su caligrafía."
+                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
               },
               {
                 "t": "p",
-                "x": "Las letras lejanas y las tallas arquitectónicas resultaron legibles, pero con un evidente enfoque digital, suavizado y un aspecto pictórico; la IA llegó a inventar un patrón en los cristales de una ventana que no existía. Con poca luz, el texto pequeño se convirtió en un completo galimatías."
+                "x": "AI data lab HUMXN will subsidize plumbing, electrical, HVAC, air-duct cleaning and carpet cleaning, so homeowners get the work free in exchange for letting technicians with \"wearable capture technology\" work in their homes."
               },
+              {
+                "t": "p",
+                "x": "\"Robots need to understand how skilled people interact with the physical world,\" founder Thomas Unise said. Lab settings struggle to capture natural movement, so the footage spans different homes, equipment, problems and technicians, from diagnosis to tool choice to checking the job is done."
+              },
+              {
+                "t": "p",
+                "x": "Service pros still get paid. The program launches in Minneapolis, Chicago and Miami, picked for their different climates. Tom's Hardware calls paying for training data refreshing after labs like Meta, Nvidia and OpenAI were accused of taking data."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI 연구소, 무료 수리로\n로봇 학습 데이터 확보",
+          "body": "AI 연구소 HUMXN은 배관·HVAC 수리비를 내주고 작업을 로봇용으로 찍는다.",
+          "mini_headline": "로봇을 가르치는 무료 수리",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Black-Bird-120x-AI-zoom-scaled.jpg",
-                "cap": "Zoom 120x mejorado con IA (AI-enhanced) sobre un pájaro negro en un lago."
+                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
               },
               {
                 "t": "p",
-                "x": "En la fauna, el pelaje y las plumas parecían convincentes, pero rozaban el valle inquietante: con el zoom extremo, el procesamiento de Google rellena el detalle que falta, y el resultado es una aproximación que puede crear detalles inexistentes. El Pixel 11 Pro omite expresamente el reescalado generativo cuando detecta a una persona en el encuadre."
+                "x": "AI 데이터 연구소 HUMXN은 배관, 전기, HVAC, 에어덕트 청소, 카펫 청소 비용을 대 준다. 조건은 \"착용형 촬영 기술(wearable capture technology)\"을 갖춘 기술자가 집에서 일하도록 허락하는 것. 그러면 집주인은 이 작업을 공짜로 받는다."
               },
               {
                 "t": "p",
-                "x": "Veredicto: es más que un truco de marketing y resulta útil para examinar objetos lejanos, pero no sustituye a un teleobjetivo largo; conviene moderar las expectativas."
+                "x": "\"로봇은 숙련된 사람이 물리적 세계와 어떻게 상호작용하는지 이해해야 한다\"고 창업자 Thomas Unise는 말했다. 실험실에서는 자연스러운 움직임을 담기 어렵다. 그래서 영상은 제각기 다른 집과 장비, 문제, 기술자를 아우르며 진단에서 도구 선택, 작업 완료 확인까지 전 과정을 담는다."
+              },
+              {
+                "t": "p",
+                "x": "서비스 전문가의 보수는 그대로다. 프로그램은 기후가 제각각인 Minneapolis, Chicago, Miami에서 시작한다. Tom's Hardware는 Meta, Nvidia, OpenAI 같은 연구소가 데이터를 가져갔다는 비판을 받아 온 터라 학습 데이터에 값을 치르는 방식이 신선하다고 평했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIラボが無料修理で\nロボット学習データ収集",
+          "body": "AIラボHUMXNは三都市で配管やHVACの修理費を負担し、作業をロボット用に記録する。",
+          "mini_headline": "ロボットを鍛える無料修理",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+              },
+              {
+                "t": "p",
+                "x": "AIデータラボのHUMXNは、配管、電気、HVAC、エアダクト清掃、カーペット清掃の費用を補助する。住宅所有者は、「ウェアラブル・キャプチャー技術」を身につけた技術者が自宅で作業することを認める代わりに、無料で作業を受けられる。"
+              },
+              {
+                "t": "p",
+                "x": "「ロボットは、熟練した人が物理世界とどう関わっているかを理解する必要がある」と創業者のThomas Uniseは語る。実験室では自然な動きを捉えにくいため、映像はさまざまな住宅、設備、問題、技術者にわたり、診断から道具選び、作業完了の確認までを収める。"
+              },
+              {
+                "t": "p",
+                "x": "サービス業者には引き続き報酬が支払われる。プログラムは、気候の異なるMinneapolis、Chicago、Miamiで始まる。Tom's Hardwareは、Meta、Nvidia、OpenAIなどのラボがデータを持ち去ったと非難されてきた中で、訓練データに対価を払うのは新鮮だと評している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI实验室用免费维修\n换机器人训练数据",
+          "body": "在三座城市，AI实验室HUMXN承担水管和HVAC维修费，让技工穿戴设备为机器人记录作业。",
+          "mini_headline": "训练机器人的免费维修",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+              },
+              {
+                "t": "p",
+                "x": "AI数据实验室HUMXN将补贴水管、电气、HVAC、风管清洁和地毯清洁服务，房主只要允许配备“可穿戴采集技术”的技工在家中作业，就能免费获得这些服务。"
+              },
+              {
+                "t": "p",
+                "x": "“机器人需要理解熟练的人如何与物理世界互动，”创始人Thomas Unise说。实验室环境难以捕捉自然动作，因此这些影像涵盖不同的住宅、设备、问题和技工，从诊断、选择工具到确认完工全程记录。"
+              },
+              {
+                "t": "p",
+                "x": "服务人员照常获得报酬。该计划将在Minneapolis、Chicago和Miami启动，选中它们是因为气候各不相同。Tom's Hardware认为，在Meta、Nvidia和OpenAI等实验室被指拿走数据之后，为训练数据付费令人耳目一新。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Reparaciones gratis a cambio\nde datos para entrenar robots",
+          "body": "En tres ciudades, el laboratorio de AI HUMXN paga reparaciones de fontanería y HVAC para grabarlas para robots.",
+          "mini_headline": "Reparaciones gratis que entrenan robots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+              },
+              {
+                "t": "p",
+                "x": "El laboratorio de datos de AI HUMXN subvencionará fontanería, electricidad, HVAC, limpieza de conductos de aire y limpieza de alfombras, de modo que los propietarios reciben el servicio gratis a cambio de dejar trabajar en sus casas a técnicos con \"tecnología de captura portátil\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Los robots necesitan entender cómo interactúan las personas cualificadas con el mundo físico\", dijo el fundador, Thomas Unise. En un laboratorio cuesta captar el movimiento natural, así que las grabaciones abarcan distintos hogares, equipos, problemas y técnicos, desde el diagnóstico hasta la elección de herramientas y la comprobación de que el trabajo está terminado."
+              },
+              {
+                "t": "p",
+                "x": "Los profesionales del servicio siguen cobrando. El programa arranca en Minneapolis, Chicago y Miami, elegidas por sus climas distintos. Tom's Hardware considera refrescante que se pague por los datos de entrenamiento, después de que laboratorios como Meta, Nvidia y OpenAI fueran acusados de apropiarse de datos."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "AI 연구소, 무료 수리로\n로봇 학습 데이터 확보",
+          "body": "AI 연구소 HUMXN은 배관·HVAC 수리비를 내주고 작업을 로봇용으로 찍는다.",
+          "mini_headline": "로봇을 가르치는 무료 수리",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+              },
+              {
+                "t": "p",
+                "x": "AI 데이터 연구소 HUMXN은 배관, 전기, HVAC, 에어덕트 청소, 카펫 청소 비용을 지원한다. 집주인은 \"착용형 촬영 기술(wearable capture technology)\"을 갖춘 기술자가 집에서 일하도록 허락하는 대가로 이 작업을 무료로 받는다."
+              },
+              {
+                "t": "p",
+                "x": "\"로봇은 숙련된 사람이 물리적 세계와 어떻게 상호작용하는지 이해해야 한다\"고 창업자 Thomas Unise는 말했다. 실험실 환경에서는 자연스러운 움직임을 담기 어렵기 때문에, 영상은 서로 다른 집과 장비, 문제, 기술자를 아우르며 진단부터 도구 선택, 작업 완료 확인까지 담는다."
+              },
+              {
+                "t": "p",
+                "x": "서비스 전문가는 그대로 보수를 받는다. 프로그램은 기후가 서로 다른 Minneapolis, Chicago, Miami에서 시작한다. Tom's Hardware는 Meta, Nvidia, OpenAI 같은 연구소가 데이터를 가져갔다는 비판을 받아 온 만큼, 학습 데이터에 돈을 내는 방식이 신선하다고 평했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIラボが無料修理で\nロボット学習データ収集",
+          "body": "AIラボHUMXNは三都市で配管やHVACの修理費を負担し、作業をロボット用に記録する。",
+          "mini_headline": "ロボットを鍛える無料修理",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+              },
+              {
+                "t": "p",
+                "x": "AIデータラボのHUMXNは、配管、電気、HVAC、エアダクト清掃、カーペット清掃の費用を補助する。住宅所有者は、「ウェアラブル・キャプチャー技術」を身につけた技術者が自宅で作業することを認める代わりに、無料で作業を受けられる。"
+              },
+              {
+                "t": "p",
+                "x": "「ロボットは、熟練した人が物理世界とどう関わっているかを理解する必要がある」と創業者のThomas Uniseは語る。実験室では自然な動きを捉えにくいため、映像はさまざまな住宅、設備、問題、技術者にわたり、診断から道具選び、作業完了の確認までを収める。"
+              },
+              {
+                "t": "p",
+                "x": "サービス業者には引き続き報酬が支払われる。プログラムは、気候の異なるMinneapolis、Chicago、Miamiで始まる。Tom's Hardwareは、Meta、Nvidia、OpenAIなどのラボがデータを持ち去ったと非難されてきた中で、訓練データに対価を払うのは新鮮だと評している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI实验室用免费维修\n换机器人训练数据",
+          "body": "在三座城市，AI实验室HUMXN承担水管和HVAC维修费，让技工穿戴设备为机器人记录作业。",
+          "mini_headline": "训练机器人的免费维修",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+              },
+              {
+                "t": "p",
+                "x": "AI数据实验室HUMXN将补贴水管、电气、HVAC、风管清洁和地毯清洁服务，房主只要允许配备“可穿戴采集技术”的技工在家中作业，就能免费获得这些服务。"
+              },
+              {
+                "t": "p",
+                "x": "“机器人需要理解熟练的人如何与物理世界互动，”创始人Thomas Unise说。实验室环境难以捕捉自然动作，因此这些影像涵盖不同的住宅、设备、问题和技工，从诊断、选择工具到确认完工全程记录。"
+              },
+              {
+                "t": "p",
+                "x": "服务人员照常获得报酬。该计划将在Minneapolis、Chicago和Miami启动，选中它们是因为气候各不相同。Tom's Hardware认为，在Meta、Nvidia和OpenAI等实验室被指拿走数据之后，为训练数据付费令人耳目一新。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Reparaciones gratis a cambio\nde datos para entrenar robots",
+          "body": "En tres ciudades, el laboratorio de AI HUMXN paga reparaciones de fontanería y HVAC para grabarlas para robots.",
+          "mini_headline": "Reparaciones gratis que entrenan robots",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+              },
+              {
+                "t": "p",
+                "x": "El laboratorio de datos de AI HUMXN subvencionará fontanería, electricidad, HVAC, limpieza de conductos de aire y limpieza de alfombras, de modo que los propietarios reciben el servicio gratis a cambio de dejar trabajar en sus casas a técnicos con \"tecnología de captura portátil\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Los robots necesitan entender cómo interactúan las personas cualificadas con el mundo físico\", dijo el fundador, Thomas Unise. En un laboratorio cuesta captar el movimiento natural, así que las grabaciones abarcan distintos hogares, equipos, problemas y técnicos, desde el diagnóstico hasta la elección de herramientas y la comprobación de que el trabajo está terminado."
+              },
+              {
+                "t": "p",
+                "x": "Los profesionales del servicio siguen cobrando. El programa arranca en Minneapolis, Chicago y Miami, elegidas por sus climas distintos. Tom's Hardware considera refrescante que se pague por los datos de entrenamiento, después de que laboratorios como Meta, Nvidia y OpenAI fueran acusados de apropiarse de datos."
               }
             ]
           }

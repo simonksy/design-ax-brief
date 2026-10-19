@@ -1,50 +1,36 @@
 {
+  "date": "2026-10-20",
   "section": "marketing",
-  "generated_at": "2026-10-17T22:00:34Z",
-  "now_iso": "2026-10-17T22:00:34Z",
+  "now_iso": "2026-10-19T23:20:00Z",
   "window_hours": 72,
-  "recovery": true,
+  "mode": "recovery-pass-1",
   "items": [
     {
-      "title": "49% of marketers plan to deprioritize SEO, Typeface survey finds",
-      "url": "https://ppc.land/49-of-marketers-plan-to-deprioritize-seo-typeface-survey-finds/",
-      "source": "PPC Land",
-      "published_iso": "2026-10-15T22:17:25+02:00",
-      "excerpt": "Typeface survey of 500+ US/UK marketing leaders: 49% plan to deprioritize SEO, 62% say brands trade content quality for AI citations, and many run AEO tactics they consider overhyped. Budget shift toward AI-answer visibility; vendor-run survey.",
-      "og_image": "https://ppc.land/content/images/2026/10/typeface-survey-49-percent-marketers-deprioritize-seo-ad-men-magnifying-glass.jpg",
-      "category": "marketing"
+      "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
+      "source": "Engineering at Meta",
+      "category": "marketing",
+      "published_iso": "2026-10-19T16:00:47+00:00",
+      "excerpt": "Meta's generative recommenders now represent each ad, product or page as a short sequence of discrete codes derived from multimodal embeddings instead of a per-item ID, so new and low-engagement ads borrow signal from similar items. Paired with GEM and the Adaptive Ranking Model, Meta says it lifted advertiser conversions 0.35% across surfaces.",
+      "og_image": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-Hero.png",
+      "lang": "en",
+      "off_list_note": "engineering.fb.com is Meta first-party (about.fb.com is allowed). Distinct from the 10-15 GEM 18.9% story and the 10-13 inference-capacity post."
     },
     {
-      "title": "Brands turn to content series and Jimi Hendrix to improve AI search performance",
-      "url": "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/",
-      "source": "Digiday",
-      "published_iso": "2026-10-15T04:01:00+00:00",
-      "excerpt": "Fender and Marshall are funding branded content series and site overhauls partly to give the models behind ChatGPT and other chatbots more to work with, as brands shift spend toward AI-search visibility.",
-      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/03/video-search-ai-digiday.jpg",
-      "category": "marketing"
-    },
-    {
-      "title": "Tottenham Hotspur Launches Ask Spurs on Agentforce",
-      "url": "https://www.salesforce.com/news/press-releases/2026/10/15/tottenham-hotspur-becomes-agentic-enterprise-with-agentforce/",
-      "source": "Salesforce",
-      "published_iso": "2026-10-15T07:00:00+00:00",
-      "excerpt": "Tottenham unified 4.6M fan accounts across 10+ systems on Salesforce and launched Ask Spurs, an Agentforce AI agent with an 86% engagement rate, spanning ticketing, stadium events and commercial operations. CRM/sales AI. Primary source, but a vendor press release.",
-      "og_image": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/10/789_0826_T05_Tottenham-Hotspur-and-Salesforce-Deepen-Partnership_b_v1_081826.png",
-      "category": "marketing"
-    },
-    {
-      "title": "Google Ads lets PMax advertisers set Search partner spend to 0%, Marvin says",
-      "url": "https://ppc.land/google-ads-lets-pmax-advertisers-set-search-partner-spend-to-0-marvin-says/",
-      "source": "PPC Land",
-      "published_iso": "2026-10-17T21:12:40+02:00",
-      "excerpt": "Google Ads Liaison Ginny Marvin says Performance Max channel caps now allow 0% Search-partner spend via the API, while the help page still says coming soon. Gives advertisers more control over Google's AI-run campaign type. Note: the AI angle is indirect.",
-      "og_image": "https://ppc.land/content/images/2026/10/google-ads-pmax-search-partners-zero-percent-capped-whiskey-tumbler.jpg",
-      "category": "marketing"
+      "title": "TikTok Turns to Shoplazza to Power Agentic Commerce Offering",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/tiktok-turns-to-shoplazza-to-power-agentic-commerce-offering/",
+      "source": "PYMNTS",
+      "category": "marketing",
+      "published_iso": "2026-10-19T13:59:14+00:00",
+      "excerpt": "Shoplazza is TikTok's commerce and payment partner for Buy Direct, which lets shoppers buy from brands inside TikTok over the Universal Commerce Protocol with the brand as merchant of record, and for the AI Shopping Assistant, which answers product questions from merchant page data. The pitch to merchants is a shorter path from content and ads to purchase.",
+      "og_image": "https://www.pymnts.com/wp-content/uploads/2026/10/TikTok-Shoplazza-agentic-AI.png?quality=82",
+      "lang": "en",
+      "off_list_note": "Off-list (pymnts.com): no allowed-domain outlet covered it. Weaker pick: Buy Direct and Shopping Assistant came out earlier; the new part is the Shoplazza partnership. TikTok's 10-07 advertiser AI update is already in the ledger."
     }
   ],
   "dedup": {
-    "dropped": 3,
-    "kept": 4,
+    "dropped": 0,
+    "kept": 2,
     "against_days": 5
   }
 }

@@ -1594,6 +1594,114 @@
           "x": "회사는 성명에서 “여러분의 의견을 들었고 분명히 하고자 한다. 우리가 통합한 크롤링 조항은 광고 및 비즈니스 제품에만 적용되며, 이를 약관 자체에 명확히 밝혔다”며 “이는 Meta가 웹 크롤러를 사용하는 방식을 바꾸지 않는다”고 밝혔다."
         }
       ]
+    },
+    "marketing/marketing-monday-harmony": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+          "cap": "monday.com의 Harmony AI 발신 에이전트는 유망 리드를 영업 담당자에게 넘긴다. 한 자동차 중개사는 덕분에 거래가 9% 늘었다고 말한다"
+        },
+        {
+          "t": "p",
+          "x": "monday.com은 2026년 10월 19일 Harmony 판매를 시작했다. 중견·대기업용 음성 AI 플랫폼으로, 에이전트가 영업 전화를 걸고 받으며 리드를 선별해 유망한 리드를 실시간으로 사람 영업 담당자에게 넘긴다."
+        },
+        {
+          "t": "p",
+          "x": "에이전트는 OneAI에서 인수한 음성 기술과 직접 만든 작업별 소형 LLMs 묶음으로 돌아간다. 전화 연결과 CRM write-back은 Twilio 위에 올렸다. 회사는 음성 입력부터 음성 출력까지 지연 시간이 약 200ms이고 “최대 70%의 연결률”을 낸다고 주장한다. 다만 기준치나 측정 방법은 밝히지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "이름이 공개된 고객은 UK 중개사 Bright Car Finance 하나다. 이 회사는 에이전트가 승인된 모든 신청자에게 바로 후속 연락을 하고 대화의 약 절반을 선별해 그중 80%를 상담사에게 넘기며, 한 해도 안 돼 성사 거래를 9% 늘렸다고 말한다. PPC Land는 이 수치가 상대 증가율인지 퍼센트포인트인지 분명하지 않다고 지적한다."
+        },
+        {
+          "t": "p",
+          "x": "Harmony는 미국(US), 영국(UK), 호주, 싱가포르에서 쓸 수 있다. 가격·오류율·독립 검증 결과는 공개하지 않았다."
+        }
+      ]
+    },
+    "marketing/marketing-minerva-cdp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Minerva CEO Jackson Engles는 소비자 270 million명 규모의 아이덴티티 그래프 위에 마케터용 AI 에이전트를 만들려고 $20 million을 유치했다. 그래도 스타트업의 토대인 데이터가 오래가는 해자는 아닐 거라고 인정한다. 그래서 그는 범위를 좁게 가져간다. “마케터가 그냥 Claude를 쓰면서 아무 데이터나 가져와서는 안 됩니다.”"
+        },
+        {
+          "t": "p",
+          "x": "브랜드가 CRM, 데이터 웨어하우스 등 여러 소스를 Minerva에 연결하면, OpenAI로 만든 “에이전틱 데이터 엔지니어”가 이를 매핑한다. 그다음 에이전트들이 데이터를 고객별 단일 뷰로 합치고 Minerva의 “B2B2C 아이덴티티 그래프”로 보강한다. Engles에 따르면 Ramp는 업무용-개인용 연결을 써서 다이렉트 메일을 늘렸고 석 달 만에 MQL 비율을 약 80% 끌어올렸다. Wander는 Meta 유사 타깃에서 광범위 타기팅 대비 3.4x ROAS를 거뒀다."
+        },
+        {
+          "t": "p",
+          "x": "두 번째 에이전트 “에이전틱 데이터 사이언티스트”가 붙으면 일상 언어로 요청만 해도 예측 모델이 나온다. Minerva는 안에서 이 계층을 에이전틱 CDP라 부르지만 밖에 그렇게 내세우지는 않는다. 고객은 “CDP가 내는 결과를 원한다”는 설명이다."
+        }
+      ]
+    },
+    "marketing/marketing-basis-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+          "cap": "ChatGPT 74.5%, Claude 72.3%. 마케터들이 AI 도구를 나눠 쓰니 저울이 거의 수평이다"
+        },
+        {
+          "t": "p",
+          "x": "Basis의 네 번째 연례 “AI and the Future of Marketing” 보고서는 2026년 7월 16일부터 8월 14일까지 마케팅·광고 실무자 184명을 조사했다. ChatGPT 사용률은 88.6%에서 74.5%로 떨어졌고 Claude는 17.9%에서 72.3%로 올랐다. Copilot은 55.4%, Gemini는 47.8%다."
+        },
+        {
+          "t": "p",
+          "x": "매일 AI를 쓰는 비율은 33.6%에서 61.4%로 늘었다. AI 에이전트를 운영하는 조직도 20.0%에서 51.1%로 올랐다. 주로 보고·분석(72.3%)과 캠페인 브리프(56.4%)에 쓰고, 가장 덜 맡기는 일은 미디어 바잉(18.1%)이다."
+        },
+        {
+          "t": "p",
+          "x": "정해진 지표와 벤치마크로 AI ROI를 측정하는 곳은 6.5%뿐이다. 23.4%는 일화 수준에서 잰다. PPC Land는 표본이 작고 모집 방식도 공개되지 않았다고 짚는다. Basis가 결론에서 권하는 통합 플랫폼을 직접 판다는 점도 걸린다."
+        }
+      ]
+    },
+    "marketing/marketing-lendi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "챗봇이 브랜드 발견에 어떤 영향을 주는지 재는 일은 아직 대부분 미지의 영역이다. 그래도 호주의 주택담보대출·부동산 매매 기업 Lendi Group의 성장 총괄 GM Michael McCash는 “측정할 수 없는 것은 개선할 수 없다”고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "McCash는 연간 $10 million이 넘는 Lendi의 유료 미디어용으로 사내 멀티터치 어트리뷰션 모델을 만들고 MMM에는 Mutinex를 들였다. MMM을 돌려 보니 무료 지상파 TV 비중이 너무 낮았다. Mutinex의 AI Visibility 도구는 LLMs에 프롬프트를 대량으로 넣어 브랜드가 어떻게 노출되는지 분석하는데, Lendi는 이 도구의 파일럿 고객이기도 하다. 브랜드 추적과 설문에는 Tracksuit와 Askable을 쓴다."
+        },
+        {
+          "t": "p",
+          "x": "ChatGPT, Gemini 같은 챗봇 안의 광고는 아직 ROI에 크게 기여하지 못했다. CPMs와 고객 획득 비용이 너무 높아서다. 대신 Lendi가 눈여겨보는 건 LLMs로 조사를 마치고 더 많은 정보를 갖춘 채 퍼널 아래쪽까지 내려온 고객이다. 지금 AI 투자를 챗봇 광고보다 측정에 쓰는 이유다."
+        }
+      ]
+    },
+    "marketing/marketing-amazon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+        },
+        {
+          "t": "p",
+          "x": "업계 뉴스레터 ADOTAT의 10월 1일 분석에 따르면 Amazon은 unBoxed 2026에서 \"Amazon DSP\"라는 이름을 없앴지만 구매 엔진은 그대로 두고, 트레이더가 쓰던 제어 기능을 고급 설정 토글 뒤로 옮겼다. 칼럼 주장대로라면 이제 기본 경로에서는 Amazon의 AI 에이전트가 채널과 오디언스, 입찰가를 고르고 그 결과도 Amazon 자체 데이터로 평가한다. Amazon 측은 DSP의 프로그래매틱 기능을 DVA+ 고급 설정에서 지금도 쓸 수 있다는 입장이다."
+        },
+        {
+          "t": "p",
+          "x": "새 Amazon Ads Agent 아래에는 Sponsored Ads, DVA+, Full-Funnel Campaigns가 있다. 하루 $100부터 시작하는 Full-Funnel은 신규 고객(new-to-brand) 매출 같은 성과를 목표로 잡고, Amazon이 여러 형식에 예산을 나눈다. ADOTAT은 \"자격 요건에 따라 U.S. 광고주에게 실제로 열려 있는 것은 Full-Funnel Campaigns\"라며 \"트레이더가 운전대를 쥐게 해주는 기능은 아직 베타\"라고 썼다. DVA+는 US 비공개 베타였고 공개 베타는 10월 말로 예상됐다."
+        },
+        {
+          "t": "p",
+          "x": "칼럼은 \"기본값이 운명\"이라고 말한다. ADOTAT도 자사의 상업적 해석이 추론임을 인정한다. 무료 미리보기에는 Full-Funnel이 오디언스 선택을 막는다는 내용이 없다."
+        }
+      ]
     }
   }
 }

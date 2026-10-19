@@ -1594,6 +1594,114 @@
           "x": "“Los hemos escuchado y queremos aclararlo: los términos de rastreo que consolidamos solo se aplicaban a nuestros productos publicitarios y comerciales, y lo hemos aclarado en los propios términos”, dijo la empresa en un comunicado. “No cambia la forma en que Meta usa los rastreadores web”."
         }
       ]
+    },
+    "marketing/marketing-monday-harmony": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
+          "cap": "El agente de llamadas Harmony AI de monday.com pasa los leads prometedores a los comerciales; un bróker de autos dice que sus tratos subieron 9%"
+        },
+        {
+          "t": "p",
+          "x": "monday.com empezó a vender Harmony el 19 de octubre de 2026: una plataforma de AI de voz cuyos agentes hacen y atienden llamadas de ventas para empresas medianas y grandes, califican leads y transfieren en vivo los más prometedores a comerciales humanos."
+        },
+        {
+          "t": "p",
+          "x": "Los agentes funcionan con tecnología de voz adquirida a OneAI y un conjunto de LLMs pequeños, propios y específicos por tarea, con la marcación y el write-back al CRM construidos sobre Twilio. La empresa afirma una latencia de unos 200ms de audio de entrada a audio de salida y “una tasa de contacto de hasta 70%”, sin línea de base ni método."
+        },
+        {
+          "t": "p",
+          "x": "El único cliente identificado, el bróker de UK Bright Car Finance, dice que el agente contacta de inmediato a cada solicitante aprobado, califica cerca de la mitad de sus conversaciones, pasa el 80% de ellas a asesores y logró un aumento del 9% en los tratos cerrados en menos de un año. PPC Land señala que no está claro si se trata de una cifra relativa o de puntos porcentuales."
+        },
+        {
+          "t": "p",
+          "x": "Harmony está disponible en US, UK, Australia y Singapur. No se publicaron precios, tasas de error ni pruebas independientes."
+        }
+      ]
+    },
+    "marketing/marketing-minerva-cdp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "El CEO de Minerva, Jackson Engles, admite que los datos sobre los que se construye su startup probablemente no son una ventaja duradera, incluso tras recaudar $20 million para crear agentes de AI para marketers sobre un grafo de identidad de 270 million consumidores. Su respuesta es mantenerse enfocado: “Los marketers no deberían limitarse a usar Claude y traer datos al azar”."
+        },
+        {
+          "t": "p",
+          "x": "Una marca conecta su CRM, su almacén de datos y otras fuentes a Minerva, donde un “ingeniero de datos agéntico” creado con OpenAI las mapea. Luego, los agentes unifican los datos en una vista por cliente y los enriquecen con el “grafo de identidad B2B2C” de Minerva. Ramp usó el vínculo entre lo laboral y lo personal para ampliar su correo directo y elevó su tasa de MQL alrededor de 80% en tres meses; Wander obtuvo un ROAS de 3.4x en lookalikes de Meta frente a la segmentación amplia, según Engles."
+        },
+        {
+          "t": "p",
+          "x": "Un segundo agente, un “científico de datos agéntico”, crearía modelos predictivos a partir de peticiones en lenguaje sencillo. Minerva llama internamente a esta capa CDP agéntico, pero no la comercializa así: los clientes “quieren el resultado de un CDP”."
+        }
+      ]
+    },
+    "marketing/marketing-basis-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
+          "cap": "ChatGPT con 74.5% y Claude con 72.3%: una balanza casi nivelada mientras los marketers reparten sus herramientas de AI"
+        },
+        {
+          "t": "p",
+          "x": "El cuarto informe anual “AI and the Future of Marketing” de Basis encuestó a 184 profesionales de marketing y publicidad del 16 de julio al 14 de agosto de 2026. El uso de ChatGPT cayó a 74.5% desde 88.6%, mientras que Claude subió a 72.3% desde 17.9%; Copilot está en 55.4% y Gemini en 47.8%."
+        },
+        {
+          "t": "p",
+          "x": "El uso diario de AI llegó a 61.4%, frente a 33.6%. La proporción de organizaciones que usan agentes de AI pasó de 20.0% a 51.1%, sobre todo para informes y analítica (72.3%) y briefs de campaña (56.4%); la compra de medios es la tarea menos delegada, con 18.1%."
+        },
+        {
+          "t": "p",
+          "x": "Solo el 6.5% mide el ROI de la AI con métricas y benchmarks definidos; el 23.4% lo mide de forma anecdótica. PPC Land señala la muestra pequeña, el reclutamiento no divulgado y que Basis vende la plataforma unificada que recomiendan sus conclusiones."
+        }
+      ]
+    },
+    "marketing/marketing-lendi": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Medir cómo los chatbots influyen en el descubrimiento de marcas sigue siendo en gran parte un misterio. Pero “no puedes mejorar lo que no puedes medir”, dijo Michael McCash, GM de crecimiento de Lendi Group, empresa australiana de préstamos hipotecarios y venta de propiedades."
+        },
+        {
+          "t": "p",
+          "x": "McCash creó un modelo interno de atribución multitáctil para los más de $10 million anuales que Lendi invierte en medios pagados e incorporó a Mutinex para el MMM, que mostró que la TV abierta estaba infraponderada. Lendi también es cliente piloto de AI Visibility, la herramienta de Mutinex que lanza prompts masivos a LLMs y analiza cómo aparecen las marcas, y usa Tracksuit y Askable para seguimiento de marca y encuestas."
+        },
+        {
+          "t": "p",
+          "x": "Los anuncios dentro de chatbots como ChatGPT y Gemini aún no han contribuido mucho al ROI: los CPMs y las tasas de adquisición son demasiado altos. Lo que Lendi sí ve es un cliente más informado que llega más abajo en el embudo tras investigar con LLMs, así que por ahora su inversión en AI va a la medición y no a los anuncios en chatbots."
+        }
+      ]
+    },
+    "marketing/marketing-amazon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/amazon-full-funnel-campaigns-ai-default-dsp-toggle-giant-button-console.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Amazon retiró el nombre \"Amazon DSP\" en unBoxed 2026, pero conservó el motor de compra y trasladó los controles que usan los traders detrás de un interruptor de configuración avanzada, según un análisis del 1 de octubre del boletín del sector ADOTAT. La columna sostiene que el agente de IA de Amazon elige ahora canales, audiencias y pujas en su ruta predeterminada y luego evalúa los resultados con los datos propios de Amazon. Amazon afirma que las capacidades programáticas del DSP siguen disponibles en la configuración avanzada de DVA+."
+        },
+        {
+          "t": "p",
+          "x": "Bajo el nuevo paraguas de Amazon Ads Agent se agrupan Sponsored Ads, DVA+ y Full-Funnel Campaigns. En Full-Funnel, que parte de $100 al día, Amazon reparte el presupuesto entre formatos en función de resultados como las ventas new-to-brand. \"Lo que de verdad está activo para los anunciantes de U.S. (EE. UU.), sujeto a elegibilidad, son las Full-Funnel Campaigns\", escribió ADOTAT. \"Lo que mantiene las manos del trader en el volante es lo que sigue en beta\". DVA+ estaba en beta cerrada en US, con una beta abierta prevista para finales de octubre."
+        },
+        {
+          "t": "p",
+          "x": "\"Los valores predeterminados son el destino\", afirma la columna. ADOTAT presenta su lectura comercial como una inferencia, y su vista previa gratuita no dice que Full-Funnel bloquee la selección de audiencias."
+        }
+      ]
     }
   }
 }

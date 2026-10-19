@@ -2964,6 +2964,115 @@
           "x": "Apple’s rules also more clearly spell out that any apps that “facilitate human trafficking or the exploitation of children” will be pulled from the App Store and “blocked from alternative distribution.”"
         }
       ]
+    },
+    "politics/politics-taiwan-server-exports": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
+          "cap": "Chiang Kai-shek Memorial Park in Taipei (Image credit: Jowi Morales/Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "Taiwan is expanding its list of controlled exports to include AI servers and the latest chips to align with U.S. trade bans. Bloomberg reports that once the controls take effect, smugglers will be criminally charged under the Foreign Trade Act, which carries up to five years in prison and/or a fine of around $92,500."
+        },
+        {
+          "t": "p",
+          "x": "“Going forward, some of our measures on controlled items will correspond to American ones because we have made quite some commitments in the Agreement on Reciprocal Trade,” said Minister of Economic Affairs Kung Ming-hsin. That deal cut U.S. tariffs on Taiwanese goods to 15%."
+        },
+        {
+          "t": "p",
+          "x": "The move follows a U.S. case accusing three Super Micro employees of smuggling $2.5 billion in AI servers, and a Taiwanese raid on Super Micro's Taipei offices that led to nine indictments. Until the new controls are enacted, Taiwan does not treat AI chip exports to China as a crime, so violators must be charged under other laws."
+        },
+        {
+          "t": "p",
+          "x": "Tom's Hardware says the measure would likely please Washington but could provoke Beijing, which condemned Taipei over its Huawei and SMIC restrictions last year."
+        }
+      ]
+    },
+    "politics/politics-uk-ai-sovereignty-letter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In July 2026 the Council for Science and Technology (CST), the government's top-level independent science and technology advisory body, wrote to the Minister for AI with advice on AI sovereignty; the letter was published on 19 October."
+        },
+        {
+          "t": "p",
+          "x": "CST defines AI sovereignty as having sufficient agency across the AI value chain to deliver the UK's chosen outcomes, capture economic and public value, and maintain resilience under duress. It warns that without deliberate and urgent action the UK risks becoming “a high-value AI customer, rather than a country able to shape the technology.”"
+        },
+        {
+          "t": "p",
+          "x": "It makes 4 recommendations: develop a UK AI Sovereignty Plan based on a map of the AI ecosystem, used to pick rapid public-interest pilots; set up clear governance with a single accountable owner; invest now in skills, data and public trust; and maintain trusted access to leading AI models while building selected UK capability, including considering the Alan Turing Institute's proposal for a public-interest sovereign base model."
+        }
+      ]
+    },
+    "politics/politics-greece-daedalus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Greece has launched Daedalus, the most powerful supercomputer ever installed in the country. Backed by €58.9 million and, according to available data, ranked 31st worldwide, the system was inaugurated in Lavrio (Attica) to reduce reliance on overseas computing."
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
+          "cap": "Supercomputer — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+        },
+        {
+          "t": "p",
+          "x": "With 85.69 petaflops, it lets universities, businesses and public bodies train AI models on infrastructure in Greece, including processing sensitive data within the country. It is not designed to rival Europe's exascale systems."
+        },
+        {
+          "t": "p",
+          "x": "Built on Nvidia Grace Hopper GH200 with liquid cooling, it sits in a former power station run by the National Technical University of Athens and is operated by GRNET. Funding comes from the Recovery and Resilience Facility and EuroHPC."
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
+          "cap": "Supercomputer — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+        },
+        {
+          "t": "p",
+          "x": "Broader service to businesses via Pharos AI Factory is planned from March 2027; start-ups and SMEs are expected to get free access within EU state aid limits."
+        }
+      ]
+    },
+    "politics/politics-disney-characterai-363": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
+          "cap": "A Disney logo."
+        },
+        {
+          "t": "p",
+          "x": "Court filings indicate Character.AI's bankruptcy was a key part of a deal letting Disney hire most of its staff, including former CEO Karandeep Anand, potentially acquire most of its technology, and avoid its legal liabilities. A motion says Disney required the deal be “fully consummated” through bankruptcy, citing the startup's “diminishing cash reserve and significant litigation and regulatory risks.” Disney declined to comment."
+        },
+        {
+          "t": "p",
+          "x": "In September Disney paid $5.5 million plus a $2 million refundable deposit. After the October 12 Chapter 11 filing, Disney hopes to secure a perpetual, worldwide, nonexclusive license to much of Character.AI's code and tools; the license will be auctioned, with a $12.5 million closing payment if Disney wins."
+        },
+        {
+          "t": "p",
+          "x": "A draft “363 Free and Clear Order” would state the deal is not a merger and that Character.AI remains responsible for any liability, including legal claims. States investigating the company say they reserve the right to challenge any bankruptcy plan."
+        }
+      ]
+    },
+    "politics/politics-anthropic-draft-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+          "cap": "The icon for Anthropic's AI app \"Claude\" is displayed on a device on Sept. 16, 2026. (Leon Neal/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Anthropic representatives have quietly pitched Capitol Hill lawmakers on a draft bill to regulate frontier AI safety and security, POLITICO reported, citing three people."
+        },
+        {
+          "t": "p",
+          "x": "The draft proposal would limit the circumstances in which the government could block the release of an advanced model and preempt some state AI safety laws."
+        }
+      ]
     }
   }
 }

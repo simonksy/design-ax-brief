@@ -14646,6 +14646,144 @@
           "cap": "Payload CMS 이벤트 목록, 그리고 이 목록으로 돌아가는 이벤트 웹페이지."
         }
       ]
+    },
+    "design/design-flux3-max-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+        },
+        {
+          "t": "p",
+          "x": "fal이 2026년 10월 19일 영상 생성 모델 FLUX 3 Max를 내놨다. fal Research가 Black Forest Labs와 함께 FLUX 3 파운데이션 모델을 후속 학습해 만들었고, 발표 당일부터 fal 추론 플랫폼에서 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "fal Research는 시각 충실도와 움직임 일관성, 프롬프트 준수도를 끌어올리려고 FLUX 3를 더 학습시켰다. 추론과 서빙은 fal 자체 엔진에 맞춰 최적화했다. BFL CEO Robin Rombach는 FLUX 3를 남들이 그 위에 무언가를 쌓아 올릴 수 있는 토대로 만들었다고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "fal은 Artificial Analysis Video Arena의 예비 image-to-video 평가에서 Elo 1,139점을 받아 원래 FLUX 3(1,089)보다 50점 높았다고 밝혔다. 자체 벤치마크에선 10초 영상을 10.95초 만에 뽑았다. fal의 설명으로는 Elo가 같은 Seedance 2.5보다 22배, FLUX 3보다 11.5배 빠르다. 다만 제품 페이지에는 10초 720p 영상 기준 12.45초로, 수치가 다르게 적혀 있다."
+        },
+        {
+          "t": "p",
+          "x": "Artificial Analysis 자체 리더보드에서 FLUX 3 Max는 Elo 1,138점으로, 1,140점인 MiniMax H3에 이어 두 번째다."
+        },
+        {
+          "t": "p",
+          "x": "API로는 720p text-to-video와 image-to-video 엔드포인트를 쓸 수 있다. 출시 기념가는 초당 $0.0425로 정가 $0.17보다 75퍼센트 싸며, 2026년 11월 7일까지 적용된다."
+        }
+      ]
+    },
+    "design/design-cg-roundup-1018": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "sAsuw-nt-GM"
+        },
+        {
+          "t": "p",
+          "x": "CG Channel은 매주 소규모 CG 소프트웨어 업데이트를 모아 round-up으로 전한다. 이번 첫 소식은 Maxon의 Autograph 2027.0과 Red Giant 2027.0이다."
+        },
+        {
+          "t": "p",
+          "x": "Autograph는 Maxon이 올해 초 무료로 푼 USD-based(USD 기반) 모션 그래픽·VFX·합성 소프트웨어다. 이번 업데이트는 무료화 이후 가장 크다. 새 MCP Server로 Claude나 ChatGPT 같은 외부 AI 도구와 이어진다. 그 밖에 Tile 모디파이어 모드가 새로 생겼고 세로쓰기와 일본어 타이포그래피가 좋아졌다. Cinema 4D 2027.0의 카메라·조명·프리미티브를 복사해 붙여 넣을 수 있고, Adobe Fonts도 지원한다."
+        },
+        {
+          "t": "p",
+          "x": "Maxon의 이펙트 플러그인 모음 Red Giant에는 AI-assisted 리라이팅 시스템이 들어갔다. Scene Light가 AI-generated 뎁스 맵과 노멀 맵을 써서 After Effects 안에서 샷 조명을 새로 입힌다. Chromatic Displacement는 이제 Autograph에서도 돌아간다. Red Giant 전체 구독료는 $85/month 또는 $639/year다."
+        },
+        {
+          "t": "p",
+          "x": "ComfyUI에는 NVIDIA의 RTX 비디오 효과가 커스텀 노드로 들어왔다. 사용자 GPU에서 로컬로 돈다. RTX Video Super Resolution은 영상을 최대 4x 또는 8,192px까지 업스케일한다. Frame Generation은 프레임 레이트를 2–16x 올리고, HDR 노드는 SDR을 BT.2020 HDR로 바꿔 준다. 노드를 돌리려면 NVIDIA RTX GPU(프레임 생성은 RTX 40 Series 이상)가 있어야 하며, 라이선스는 Apache 2.0-licensed(Apache 2.0)다."
+        }
+      ]
+    },
+    "design/design-wunderui-agentic-ds": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "디자인 시스템은 원래 문서를 읽는 사람을 위한 것이었다. 그런데 이제 UI의 상당 부분은 AI 코딩 에이전트가 쓴다. 에이전트에겐 분명한 규칙과 실제 컴포넌트, 마음대로 벗어날 수 없는 디자인 언어가 필요하다. 저자가 WunderUI를 만든 까닭이다."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
+        },
+        {
+          "t": "p",
+          "x": "청구 대시보드를 만들어 달라고 하면 에이전트는 빈칸을 추측으로 메우기 십상이다. 팔레트에 없는 hex 색상, div로 짠 표, 요소마다 붙은 transition-all, 있지도 않은 props, 아무렇게나 고른 다크 모드 같은 것들이다."
+        },
+        {
+          "t": "p",
+          "x": "WunderUI는 Figma 디자인 시스템과 React 라이브러리(Base UI 위의 Tailwind CSS v4)를 한 원천에서 같이 내준다. 컴포넌트 205개, 색상·라운드·밀도·모션 토큰, 에이전트가 불러 쓰는 DESIGN.md와 design.json, MCP 서버까지 갖췄다."
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
+        },
+        {
+          "t": "p",
+          "x": "DESIGN.md는 짧고 검증할 수 있는 규칙을 모은 문서다. 색상은 하드코딩하지 않는다, 테마는 토큰을 덮어써서 바꾼다, 모션은 토큰으로만 준다 같은 식이다. 해야 할 작업과 컴포넌트를 짝지은 표도 들어 있다. Agent-UI 컴포넌트(AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError)는 Pro 플랜에 포함된다."
+        },
+        {
+          "t": "p",
+          "x": "에이전트 스킬은 12개로, 그중 token-check와 motion-audit 등 네 개는 무료다. 컴포넌트 77개는 MIT 라이선스로 무료이고, 나머지 128개와 스킬 전부는 연간 유료 플랜인 Core·Pro에 들어간다."
+        }
+      ]
+    },
+    "design/design-ai-photo-false-memory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+          "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
+        },
+        {
+          "t": "p",
+          "x": "The Washington Post가 보도한 MIT Media Lab 실험에 따르면, AI-edited 사진과 영상은 거짓 기억을 심을 뿐 아니라 사람들이 사건을 틀린 모습 그대로 더 확신하게 만든다."
+        },
+        {
+          "t": "p",
+          "x": "Pattie Maes 교수 연구진은 참가자에게 결혼식, 도시 거리, 경주 같은 평범한 사진 24장을 보여 줬다. 잠깐 쉬게 한 뒤 일부에게는 원본을 다시, 나머지에게는 AI-altered 버전을 보여 줬다. 변형본을 본 사람들은 세부를 잘못 기억할 가능성이 더 컸고 틀린 답에도 더 확신을 보였다. Maes는 “기본적으로 이 모든 게 매우 위험하다고 본다”고 말했다."
+        },
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+          "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
+        },
+        {
+          "t": "p",
+          "x": "CHI 2025에 실린 논문에서는 참가자 200명을 50명씩 네 그룹으로 나눴다. 각 그룹이 본 것은 원본, AI-edited 이미지, 원본을 다섯 초 분량으로 만든 AI 영상, 편집 이미지로 만든 AI 영상이다. AI를 거친 세 그룹은 모두 대조군보다 거짓 기억이 많았다. 편집 이미지 영상 그룹은 거짓 기억이 2.05배 많았고 확신도 1.19배 높았다."
+        },
+        {
+          "t": "p",
+          "x": "Wharton의 Gideon Nave는 AI가 주도권을 쥐는 일보다 인간이 “쇠퇴하기 시작하는” 일을 더 걱정한다. 그가 우려하는 건 “생각이 선택 사항이 되는” 세상이다."
+        }
+      ]
+    },
+    "design/design-kling4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
+        },
+        {
+          "t": "p",
+          "x": "PandaDaily에 따르면 Kuaishou의 Kling AI가 klingai.com에서 Kling 4.0을 정식 출시했다. 프리뷰로만 내놓던 영상 생성 모델을 이제 누구나 쓸 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "PandaDaily는 Kling 4.0이 클립 하나를 최대 30초 길이로 생성하고, 키프레임을 최대 10개까지 지원해 캐릭터 상태와 장면 전환, 서사 흐름까지 제어한다고 전했다. 작업 하나에 이미지 최대 10장, 영상 클립 다섯 개, 피사체 일곱 개를 레퍼런스로 함께 넣을 수 있고, 멀티숏을 이어 붙이면 시퀀스가 약 이 분 길이까지 늘어난다."
+        },
+        {
+          "t": "p",
+          "x": "이번 출시의 핵심은 오디오다. 듀얼 채널 스테레오와 립싱크를 중국어, 영어, 일본어, 한국어, 스페인어, 포르투갈어, 독일어, 프랑스어, 힌디어, 여러 중국 방언, 영어 억양 변형에 걸쳐 지원한다. 프롬프트 입력은 약 8,000 토큰까지 가능하다. 에이전트나 스크립트로 돌리는 제작 워크플로에 쓸 MCP와 명령줄 인터페이스 연동도 붙었다."
+        },
+        {
+          "t": "p",
+          "x": "4K 및 1080p 10-bit HDR 출력과 기업용 API는 이번 공개 출시에서 빠졌고 곧 나온다. Pexo는 Kling 4.0 Flash 변형이 9월 28일 최상위 연간 구독자를 대상으로 제한적 얼리 액세스를 시작했다고 전했다."
+        }
+      ]
     }
   }
 }

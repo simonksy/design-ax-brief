@@ -8811,6 +8811,144 @@
           "cap": "Payload CMSのイベント一覧と、それが支えるイベントのウェブページ。"
         }
       ]
+    },
+    "design/design-flux3-max-video": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+        },
+        {
+          "t": "p",
+          "x": "falは2026年10月19日、動画生成モデルFLUX 3 Maxを発表した。fal ResearchがBlack Forest Labsと協力し、FLUX 3基盤モデルを後学習したもので、同日からfalの推論プラットフォームで利用可能になった。"
+        },
+        {
+          "t": "p",
+          "x": "fal ResearchはFLUX 3の学習を続けて視覚的忠実度、動きの一貫性、プロンプトへの追従性を高め、fal独自のエンジン上で推論とサービングを最適化した。BFLのCEOであるRobin Rombachは、FLUX 3は他者がその上に構築するための基盤として作られたと述べた。"
+        },
+        {
+          "t": "p",
+          "x": "falによると、Artificial Analysis Video Arenaの暫定的なimage-to-video評価でElo 1,139を記録し、元のFLUX 3（1,089）から50ポイント向上した。同社のベンチマークでは10秒の動画を10.95秒で生成し、falはこれを同じEloのSeedance 2.5より22倍、FLUX 3より11.5倍速いとしている。製品ページには、10秒の720p 動画で12.45秒という別の数値が記載されている。"
+        },
+        {
+          "t": "p",
+          "x": "Artificial Analysis自身のリーダーボードでは、FLUX 3 MaxはElo 1,138で、1,140のMiniMax H3に次ぐ二番手だ。"
+        },
+        {
+          "t": "p",
+          "x": "APIは720p のtext-to-videoとimage-to-videoのエンドポイントを提供する。ローンチ価格は毎秒$0.0425で、定価$0.17から75パーセント引きとなり、2026年11月7日まで適用される。"
+        }
+      ]
+    },
+    "design/design-cg-roundup-1018": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "sAsuw-nt-GM"
+        },
+        {
+          "t": "p",
+          "x": "CG Channelが小規模なCGソフトウェアのアップデートをまとめる週刊round-upは、MaxonのAutograph 2027.0とRed Giant 2027.0が筆頭だ。"
+        },
+        {
+          "t": "p",
+          "x": "Autographは、Maxonが今年初めに無料化したUSD-based（USDベース）のモーショングラフィックス・VFX・コンポジットソフトで、それ以来最大のアップデートとなる。新しいMCP Serverにより、ClaudeやChatGPTといった外部のAIツールと接続できる。ほかにも新しいTileモディファイアのモード、縦書きと日本語組版の改善、Cinema 4D 2027.0からのカメラ・ライト・プリミティブのコピー＆ペースト、Adobe Fontsへの対応が加わった。"
+        },
+        {
+          "t": "p",
+          "x": "Maxonのエフェクトプラグイン群Red Giantには、AI-assistedのリライティング機能が入った。Scene Lightは、AI-generatedの深度マップと法線マップを使ってAfter Effects上でショットのライティングをやり直す。Chromatic DisplacementはAutographでも使えるようになった。Red Giantのフルサブスクリプションは$85/monthまたは$639/yearだ。"
+        },
+        {
+          "t": "p",
+          "x": "ComfyUIでは、NVIDIAのRTXビデオエフェクトがユーザーのGPU上でローカルに動くカスタムノードになった。RTX Video Super Resolutionは動画を最大4xまたは8,192pxまでアップスケールし、Frame Generationはフレームレートを2–16xに高め、HDRノードはSDRをBT.2020 HDRに変換する。ノードの利用にはNVIDIA RTX GPU（フレーム生成にはRTX 40 Series以上）が必要で、ライセンスはApache 2.0-licensed（Apache 2.0）である。"
+        }
+      ]
+    },
+    "design/design-wunderui-agentic-ds": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "デザインシステムは、ドキュメントを読む人間のために作られてきた。いまやUIの多くはAIコーディングエージェントが書いており、エージェントには明確なルール、実際のコンポーネント、勝手にアレンジできないデザイン言語が必要だ。著者がWunderUIを作った理由はそこにある。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
+        },
+        {
+          "t": "p",
+          "x": "請求ダッシュボードを頼むと、エージェントは推測で埋めがちだ。パレット外のhexカラー、divで組んだテーブル、あらゆる要素へのtransition-all、存在しないprops、適当に選んだダークモードなどである。"
+        },
+        {
+          "t": "p",
+          "x": "WunderUIは、FigmaのデザインシステムとReactライブラリ（Base UI上のTailwind CSS v4）を単一の情報源から提供する。205のコンポーネント、色・角丸・密度・モーションのトークンに加え、エージェントが取得できるDESIGN.mdとdesign.json、そしてMCPサーバーを備える。"
+        },
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
+        },
+        {
+          "t": "p",
+          "x": "DESIGN.mdは短くテスト可能なルールの集まりだ。色をハードコードしない、トークンの上書きでテーマを変える、モーションはトークンのみから、といった内容に加え、必要な作業とコンポーネントを対応づけるタスク表もある。Agent-UIコンポーネント（AgentStatus、RunTimeline、ApprovalCard、CostMeter、RunError）はProプランに含まれる。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントスキルは12個あり、token-checkやmotion-auditなど四つは無料だ。77のコンポーネントはMITライセンスで無料で、残る128個とすべてのスキルは有料の年額CoreプランとProプランで提供される。"
+        }
+      ]
+    },
+    "design/design-ai-photo-false-memory": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+          "cap": "AI-editedの写真と記憶に関するMIT Media Labの実験で使われた画像。 | MIT Media Lab"
+        },
+        {
+          "t": "p",
+          "x": "The Washington Postが報じたMIT Media Labの実験によると、AI-editedの写真や動画は偽の記憶を生み、出来事の誤ったバージョンへの確信をさらに強める。"
+        },
+        {
+          "t": "p",
+          "x": "Pattie Maes教授らは、結婚式、街の通り、レースといったありふれた写真24枚を参加者に見せた。休憩の後、一部は元の写真を再び見て、残りはAI-alteredの版を見た。改変版を見た人は細部を誤って記憶しやすく、誤った答えへの確信も強かった。Maesは「基本的に、これはすべて非常に危険だと考えている」と述べた。"
+        },
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+          "cap": "AI-editedの写真と記憶に関するMIT Media Labの実験で使われた画像。 | MIT Media Lab"
+        },
+        {
+          "t": "p",
+          "x": "CHI 2025で発表された論文では、参加者200人を50人ずつ四つのグループに分けた。元の写真、AI-editedの画像、元の写真から作った数秒（five-second）のAI動画、編集画像から作ったAI動画である。AIの三グループはいずれも対照群より偽の記憶が多く、編集画像の動画グループは2.05倍の偽の記憶を、1.19倍の確信とともに示した。"
+        },
+        {
+          "t": "p",
+          "x": "WhartonのGideon Naveは、AIに支配されることよりも人間が「衰え始める」ことを懸念し、「考えることが任意になる」世界を危ぶむ。"
+        }
+      ]
+    },
+    "design/design-kling4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
+        },
+        {
+          "t": "p",
+          "x": "PandaDailyによると、KuaishouのKling AIはklingai.comでKling 4.0を一般公開した。これまでプレビューアクセスで提供してきた動画生成モデルを、誰でも使えるようにしたものだ。"
+        },
+        {
+          "t": "p",
+          "x": "PandaDailyによれば、Kling 4.0は単一のクリップで最大30秒を生成でき、キャラクターの状態やシーン転換、物語の展開を制御するキーフレームを最大10個まで扱える。ジョブごとに最大10枚の画像、五本の動画クリップ、七つの被写体を参照として組み合わせられ、マルチショットの継続生成によってシーケンスを約二分まで延ばせる設計だ。"
+        },
+        {
+          "t": "p",
+          "x": "音声はこのリリースの中核をなす。デュアルチャンネルのステレオとリップシンクは、中国語、英語、日本語、韓国語、スペイン語、ポルトガル語、ドイツ語、フランス語、ヒンディー語、複数の中国語方言、英語のアクセント違いに対応する。プロンプト入力は約8,000トークンまで可能だ。エージェント型やスクリプトによる制作ワークフロー向けに、MCPとコマンドラインインターフェースとの連携も加わった。"
+        },
+        {
+          "t": "p",
+          "x": "4K と1080p 10-bit HDRの出力、そして企業向けAPIは、今回の一般公開には含まれず、近く提供される予定だ。Pexoによると、Kling 4.0 Flashという派生版が9月28日、最上位の年間サブスクライバー向けに限定的なアーリーアクセスを開始した。"
+        }
+      ]
     }
   }
 }

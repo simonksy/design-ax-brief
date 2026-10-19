@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "games",
   "cards": [
     {
-      "id": "games-npctalk-gta5",
+      "id": "games-ludo-cli",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "GTA V NPCs와 대화\nNPCTalk AI 모드",
-      "body": "무료 NPCTalk로 GTA V NPCs가 1.15-2.2초 만에 AI로 답한다.",
-      "mini_headline": "GTA V NPCs와 AI 대화",
+      "headline": "Ludo.ai, 게임 에셋\n터미널에서 만든다",
+      "body": "Ludo.ai CLI로 Claude Code가 스프라이트·3D·오디오를 만든다.",
+      "mini_headline": "Ludo.ai 에셋 CLI",
       "tool": "Games",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/gta-v-npcs-can-now-talk-back-in-real-time-with-ai-powered-npctalk-mod-free-release-coming-next-week/",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/ludo-ai-brings-ai-game-asset-creation-into-the-developer-terminal-with-new-cli/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,203 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
           },
           {
             "t": "p",
-            "x": "AI-powered 모딩 툴킷 NPCTalk가 Grand Theft Auto V에 대본 없는 실시간 대화를 들여왔다. 플레이어가 NPCs에게 직접 말을 걸면 원래 목소리를 AI로 복제한(AI-cloned) 음성으로 답이 돌아온다. Universal Modder가 만든 이 오픈소스 프로젝트는 모드를 지원하는 거의 모든 게임에 비슷한 기능을 넣으려 한다."
+            "x": "Ludo.ai가 Ludo CLI를 내놓았다. 브라우저를 열지 않고도 명령줄에서 Ludo.ai의 AI 게임 에셋 제작 도구를 바로 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "마이크로 말을 걸면 캐릭터마다 성격과 주변 상황에 맞춘 답이 나온다. 애니메이션을 취하거나 음성 명령을 따르는 등 NPCs가 몸으로 반응하기도 한다."
+            "x": "1인 개발자와 소규모 스튜디오, Claude Code 같은 코딩 에이전트가 터미널에서 스프라이트, 애니메이션, 이미지, 3D 모델, 영상, 오디오를 만들면 에셋은 곧장 디스크에 저장된다."
           },
           {
             "t": "p",
-            "x": "음성 인식은 NVIDIA의 Nemotron ASR, 대사 생성은 Cerebras에서 돌아가는 Qwen 3.8 27B 모델 몫이다. 음성 복제와 합성은 클라우드의 NVIDIA H100 GPU에서 Fish Audio Drama 3가 맡는다. 프로젝트 문서를 보면 푸시투토크(push-to-talk) 방식에서 플레이어가 말을 마치고 NPC가 입을 열기까지 약 1.15–2.2초가 걸린다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
-            "cap": "NPCTalk 아키텍처. 이미지 출처: NPCTalk GitHub 저장소."
+            "x": "CLI는 올해 초 선보인 Ludo의 REST API와 Model Context Protocol(MCP) 연동 위에 만들어졌다. 코딩 에이전트는 전체 도구 명세를 불러오지 않고 필요한 Ludo 명령만 그때그때 호출한다. 로컬 파일도 생성 워크플로에 바로 넘길 수 있다."
           },
           {
             "t": "p",
-            "x": "NPCTalk는 Claude Code의 도움으로 개발됐고, 그 노하우는 재사용 가능한 AI-agent 스킬로 묶였다. 다만 게임마다 따로 통합 작업을 해야 하고, 시연도 아직 GTA V Legacy 싱글플레이 모드에서만 이뤄졌다. 툴킷은 MIT 라이선스로 GitHub에 올라와 있으며 무료로 즐길 수 있는 GTA V 모드는 다음 주에 나온다."
+            "x": "“CLI 덕분에 개발자나 함께 일하는 코딩 에이전트가 작업 흐름을 끊지 않고 필요한 순간에 에셋을 만들 수 있다.” Ludo.ai 공동창업자이자 CTO인 Jorge Gomes의 말이다."
+          },
+          {
+            "t": "p",
+            "x": "스크립트와 자동화 파이프라인도 지원하고 프로젝트별 설정과 생성 기록을 남겨 일관성을 지킨다. CLI는 Pro와 Studio 요금제에서 쓸 수 있으며 npm으로 설치하거나 npx로 실행한다. Ludo는 CLI, MCP 서버, REST API, Unity 플러그인을 다루는 Developers 섹션(ludo.ai/developers)도 열었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "GTA V NPCs now talk back\nwith the NPCTalk AI mod",
-          "body": "The free NPCTalk mod, due next week, gives GTA V NPCs real-time AI conversations with 1.15-2.2 second replies.",
-          "mini_headline": "GTA V NPCs talk back",
+          "headline": "Ludo.ai brings game asset\ncreation to the terminal",
+          "body": "Ludo.ai's new CLI lets coding agents like Claude Code generate sprites, 3D models and audio from the terminal.",
+          "mini_headline": "Ludo.ai asset CLI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
               },
               {
                 "t": "p",
-                "x": "A new AI-powered modding toolkit called NPCTalk is bringing unscripted, real-time conversations to Grand Theft Auto V, letting players speak directly with NPCs and hear responses in their original, AI-cloned voices. Developed by Universal Modder, the open-source project aims to bring similar functionality to virtually any moddable game."
+                "x": "Ludo.ai has released the Ludo CLI, giving developers direct access to its AI game asset creation tools from the command line, without needing a browser."
               },
               {
                 "t": "p",
-                "x": "Players speak through their microphone and get contextually appropriate replies reflecting each character's personality and surroundings. NPCs can also react physically, performing animations or following spoken commands."
+                "x": "Solo developers, small studios and coding agents such as Claude Code can generate sprites, animations, images, 3D models, video and audio directly from the terminal, with assets saved straight to disk."
               },
               {
                 "t": "p",
-                "x": "NVIDIA's Nemotron ASR handles speech recognition, Qwen 3.8 27B running through Cerebras generates dialogue, and Fish Audio Drama 3 handles voice cloning and speech synthesis on a cloud-based NVIDIA H100 GPU. The project's documentation reports roughly 1.15–2.2 seconds between the player finishing a sentence and the NPC speaking with push-to-talk."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
-                "cap": "The NPCTalk architecture. Image source: NPCTalk GitHub repo."
+                "x": "The CLI builds on Ludo's REST API and Model Context Protocol (MCP) integrations introduced earlier this year. Coding agents can call individual Ludo commands as needed rather than loading full tool specifications, and local files can be passed directly into generation workflows."
               },
               {
                 "t": "p",
-                "x": "NPCTalk was developed with the assistance of Claude Code, and its knowledge is packaged as reusable AI-agent skills. Each game still needs its own integration, and it has only been shown in GTA V Legacy's single-player mode. The toolkit is on GitHub under the MIT license; a free, playable GTA V mod is due next week."
+                "x": "“The CLI means developers, or the coding agents working alongside them, can generate assets exactly when they need them without interrupting their workflow,” said Jorge Gomes, co-founder and CTO at Ludo.ai."
+              },
+              {
+                "t": "p",
+                "x": "It also supports scripts and automated pipelines, with project-specific settings and generation histories for consistency. The CLI is available on Pro and Studio plans and can be installed via npm or run with npx. Ludo has also launched a Developers section at ludo.ai/developers covering the CLI, MCP server, REST API and Unity plugin."
               }
             ]
           }
         },
         "ko": {
-          "headline": "GTA V NPCs와 대화\nNPCTalk AI 모드",
-          "body": "무료 NPCTalk로 GTA V NPCs가 1.15-2.2초 만에 AI로 답한다.",
-          "mini_headline": "GTA V NPCs와 AI 대화",
+          "headline": "Ludo.ai, 게임 에셋\n터미널에서 만든다",
+          "body": "Ludo.ai CLI로 Claude Code가 스프라이트·3D·오디오를 만든다.",
+          "mini_headline": "Ludo.ai 에셋 CLI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
               },
               {
                 "t": "p",
-                "x": "AI-powered 모딩 툴킷 NPCTalk가 Grand Theft Auto V에 대본 없는 실시간 대화를 들여왔다. 플레이어가 NPCs에게 직접 말을 걸면 원래 목소리를 AI로 복제한(AI-cloned) 음성으로 답이 돌아온다. Universal Modder가 만든 이 오픈소스 프로젝트는 모드를 지원하는 거의 모든 게임에 비슷한 기능을 넣으려 한다."
+                "x": "Ludo.ai가 Ludo CLI를 내놓았다. 브라우저를 열지 않고도 명령줄에서 Ludo.ai의 AI 게임 에셋 제작 도구를 바로 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "마이크로 말을 걸면 캐릭터마다 성격과 주변 상황에 맞춘 답이 나온다. 애니메이션을 취하거나 음성 명령을 따르는 등 NPCs가 몸으로 반응하기도 한다."
+                "x": "1인 개발자와 소규모 스튜디오, Claude Code 같은 코딩 에이전트가 터미널에서 스프라이트, 애니메이션, 이미지, 3D 모델, 영상, 오디오를 만들면 에셋은 곧장 디스크에 저장된다."
               },
               {
                 "t": "p",
-                "x": "음성 인식은 NVIDIA의 Nemotron ASR, 대사 생성은 Cerebras에서 돌아가는 Qwen 3.8 27B 모델 몫이다. 음성 복제와 합성은 클라우드의 NVIDIA H100 GPU에서 Fish Audio Drama 3가 맡는다. 프로젝트 문서를 보면 푸시투토크(push-to-talk) 방식에서 플레이어가 말을 마치고 NPC가 입을 열기까지 약 1.15–2.2초가 걸린다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
-                "cap": "NPCTalk 아키텍처. 이미지 출처: NPCTalk GitHub 저장소."
+                "x": "CLI는 올해 초 선보인 Ludo의 REST API와 Model Context Protocol(MCP) 연동 위에 만들어졌다. 코딩 에이전트는 전체 도구 명세를 불러오지 않고 필요한 Ludo 명령만 그때그때 호출한다. 로컬 파일도 생성 워크플로에 바로 넘길 수 있다."
               },
               {
                 "t": "p",
-                "x": "NPCTalk는 Claude Code의 도움으로 개발됐고, 그 노하우는 재사용 가능한 AI-agent 스킬로 묶였다. 다만 게임마다 따로 통합 작업을 해야 하고, 시연도 아직 GTA V Legacy 싱글플레이 모드에서만 이뤄졌다. 툴킷은 MIT 라이선스로 GitHub에 올라와 있으며 무료로 즐길 수 있는 GTA V 모드는 다음 주에 나온다."
+                "x": "“CLI 덕분에 개발자나 함께 일하는 코딩 에이전트가 작업 흐름을 끊지 않고 필요한 순간에 에셋을 만들 수 있다.” Ludo.ai 공동창업자이자 CTO인 Jorge Gomes의 말이다."
+              },
+              {
+                "t": "p",
+                "x": "스크립트와 자동화 파이프라인도 지원하고 프로젝트별 설정과 생성 기록을 남겨 일관성을 지킨다. CLI는 Pro와 Studio 요금제에서 쓸 수 있으며 npm으로 설치하거나 npx로 실행한다. Ludo는 CLI, MCP 서버, REST API, Unity 플러그인을 다루는 Developers 섹션(ludo.ai/developers)도 열었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GTA V NPCsが話す\nNPCTalk AI MOD",
-          "body": "無料のNPCTalkにより、GTA V NPCsが1.15-2.2秒でAI応答を返す。",
-          "mini_headline": "GTA V NPCsが話す",
+          "headline": "ゲーム素材の生成を\nLudo.aiがターミナルに",
+          "body": "Ludo.aiのCLIで、Claude Codeがスプライトや3D、音声を生成できる。",
+          "mini_headline": "Ludo.aiの素材CLI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
               },
               {
                 "t": "p",
-                "x": "AI-poweredのMODツールキット「NPCTalk」が、Grand Theft Auto Vに台本のないリアルタイム会話をもたらす。プレイヤーはNPCsに直接話しかけ、本来の声をAIで複製した（AI-cloned）音声で返答を聞ける。Universal Modderが開発したこのオープンソースプロジェクトは、MODに対応するほぼすべてのゲームで同様の機能を実現することを目指す。"
+                "x": "Ludo.aiはLudo CLIを公開した。開発者はブラウザを使わず、コマンドラインから同社のAIゲーム素材制作ツールを直接利用できる。"
               },
               {
                 "t": "p",
-                "x": "プレイヤーがマイクで話しかけると、各キャラクターの性格や周囲の状況を反映した、文脈に沿った返答が返ってくる。NPCsはアニメーションを再生したり、音声による指示に従ったりと、体の動きで反応することもできる。"
+                "x": "個人開発者や小規模スタジオ、Claude Codeなどのコーディングエージェントは、スプライト、アニメーション、画像、3Dモデル、動画、音声をターミナルから直接生成でき、素材はそのままディスクに保存される。"
               },
               {
                 "t": "p",
-                "x": "音声認識はNVIDIAのNemotron ASR、台詞の生成はCerebras上で動くQwen 3.8 27B 、音声の複製と合成はFish Audio Drama 3が担い、クラウド上のNVIDIA H100 GPUで処理される。プロジェクトのドキュメントによると、push-to-talk使用時、プレイヤーが話し終えてからNPCが話し出すまでの時間は約1.15–2.2秒だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
-                "cap": "NPCTalkのアーキテクチャ。画像出典：NPCTalk GitHubリポジトリ。"
+                "x": "CLIは、今年初めに導入されたLudoのREST APIとModel Context Protocol（MCP）連携を土台にしている。コーディングエージェントはツール仕様全体を読み込まず、必要に応じて個別のLudoコマンドを呼び出せる。ローカルファイルを生成ワークフローに直接渡すこともできる。"
               },
               {
                 "t": "p",
-                "x": "NPCTalkはClaude Codeの支援を受けて開発され、その知見は再利用可能なAI-agentスキルとしてまとめられている。ゲームごとに個別の統合作業は依然として必要で、これまでに披露されたのはGTA V Legacyのシングルプレイモードのみだ。ツールキットはMITライセンスでGitHubに公開されており、無料でプレイできるGTA V用MODは来週公開される予定だ。"
+                "x": "「CLIによって、開発者や彼らと並んで働くコーディングエージェントは、ワークフローを中断せずに必要なときに素材を生成できる」と、Ludo.aiの共同創業者兼CTOであるJorge Gomesは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "スクリプトや自動化パイプラインにも対応し、一貫性を保つためのプロジェクト別設定と生成履歴を備える。CLIはProおよびStudioプランで利用でき、npmでインストールするかnpxで実行できる。Ludoはludo.ai/developersに、CLI、MCPサーバー、REST API、Unityプラグインをまとめた Developersセクションも開設した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GTA V NPCs开口对话\nNPCTalk AI模组",
-          "body": "免费模组NPCTalk让GTA V NPCs用AI实时对话，延迟1.15-2.2秒。",
-          "mini_headline": "GTA V NPCs开口说话",
+          "headline": "Ludo.ai把游戏素材\n生成搬进终端",
+          "body": "Ludo.ai推出CLI，Claude Code等代理可在终端生成精灵图、3D模型和音频。",
+          "mini_headline": "Ludo.ai素材CLI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
               },
               {
                 "t": "p",
-                "x": "一款名为NPCTalk的AI-powered模组工具包，为Grand Theft Auto V带来了无脚本的实时对话：玩家可以直接与NPCs交谈，并听到以AI克隆（AI-cloned）的原声作出的回应。该开源项目由Universal Modder开发，目标是为几乎所有可加装模组的游戏带来类似功能。"
+                "x": "Ludo.ai发布了Ludo CLI，开发者无需浏览器，即可在命令行中直接使用其AI游戏素材创作工具。"
               },
               {
                 "t": "p",
-                "x": "玩家通过麦克风说话，即可得到契合语境的回复，反映每个角色的性格和所处环境。NPCs还能做出肢体反应，执行动画或听从语音指令。"
+                "x": "独立开发者、小型工作室以及Claude Code等编程代理，可以直接在终端生成精灵图、动画、图像、3D模型、视频和音频，素材会直接保存到磁盘。"
               },
               {
                 "t": "p",
-                "x": "语音识别由NVIDIA的Nemotron ASR负责，对话生成由运行在Cerebras上的Qwen 3.8 27B 完成，语音克隆与语音合成则由Fish Audio Drama 3在云端NVIDIA H100 GPU上处理。项目文档显示，使用push-to-talk时，从玩家说完一句话到NPC开口约需1.15–2.2秒。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
-                "cap": "NPCTalk架构。图片来源：NPCTalk GitHub仓库。"
+                "x": "该CLI建立在Ludo今年早些时候推出的REST API和Model Context Protocol（MCP）集成之上。编程代理可按需调用单个Ludo命令，而无需加载完整的工具规范；本地文件也可以直接传入生成工作流。"
               },
               {
                 "t": "p",
-                "x": "NPCTalk在Claude Code的协助下开发，其经验被封装为可复用的AI-agent技能。每款游戏仍需单独集成，目前仅在GTA V Legacy的单人模式中展示过。该工具包以MIT许可证发布在GitHub上；可免费游玩的GTA V模组将于下周推出。"
+                "x": "“有了CLI，开发者或与他们协同工作的编程代理，可以在需要时随时生成素材，而不必打断工作流程。”Ludo.ai联合创始人兼CTO Jorge Gomes表示。"
+              },
+              {
+                "t": "p",
+                "x": "它还支持脚本和自动化流水线，并提供项目专属设置和生成历史以保持一致性。CLI面向Pro和Studio套餐开放，可通过npm安装或用npx运行。Ludo还在ludo.ai/developers上线了Developers专区，涵盖CLI、MCP服务器、REST API和Unity插件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los NPCs de GTA V ya responden\ncon el mod AI NPCTalk",
-          "body": "El mod gratuito NPCTalk, que sale la próxima semana, da a los NPCs de GTA V respuestas de AI en 1.15-2.2 segundos.",
-          "mini_headline": "Los NPCs de GTA V responden",
+          "headline": "Ludo.ai lleva la creación de\nassets de juego a la terminal",
+          "body": "La nueva CLI de Ludo.ai permite a agentes como Claude Code generar sprites, modelos 3D y audio desde la terminal.",
+          "mini_headline": "CLI de assets de Ludo.ai",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Un nuevo kit de herramientas de modding impulsado por IA (AI-powered), llamado NPCTalk, lleva conversaciones sin guion y en tiempo real a Grand Theft Auto V: los jugadores pueden hablar directamente con los NPCs y escuchar sus respuestas con sus voces originales clonadas por IA (AI-cloned). Desarrollado por Universal Modder, el proyecto de código abierto busca llevar funciones similares a prácticamente cualquier juego que admita mods."
+                "x": "Ludo.ai ha lanzado Ludo CLI, que ofrece a los desarrolladores acceso directo desde la línea de comandos a sus herramientas de IA para crear assets de juego, sin necesidad de navegador."
               },
               {
                 "t": "p",
-                "x": "Los jugadores hablan por el micrófono y reciben respuestas acordes al contexto, que reflejan la personalidad y el entorno de cada personaje. Los NPCs también pueden reaccionar físicamente, ejecutando animaciones o siguiendo órdenes habladas."
+                "x": "Desarrolladores independientes, estudios pequeños y agentes de programación como Claude Code pueden generar sprites, animaciones, imágenes, modelos 3D, video y audio directamente desde la terminal, y los assets se guardan directamente en disco."
               },
               {
                 "t": "p",
-                "x": "Nemotron ASR de NVIDIA se encarga del reconocimiento de voz, Qwen 3.8 27B, ejecutado a través de Cerebras, genera el diálogo, y Fish Audio Drama 3 realiza la clonación de voz y la síntesis del habla en una NVIDIA H100 GPU en la nube. La documentación del proyecto indica unos 1.15–2.2 segundos entre que el jugador termina una frase y el NPC empieza a hablar con push-to-talk."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
-                "cap": "La arquitectura de NPCTalk. Fuente de la imagen: repositorio de NPCTalk en GitHub."
+                "x": "La CLI se basa en la REST API de Ludo y en las integraciones con Model Context Protocol (MCP) presentadas a principios de este año. Los agentes de programación pueden invocar comandos individuales de Ludo según los necesiten, en lugar de cargar especificaciones completas de herramientas, y es posible pasar archivos locales directamente a los flujos de generación."
               },
               {
                 "t": "p",
-                "x": "NPCTalk se desarrolló con la ayuda de Claude Code, y su conocimiento está empaquetado como habilidades reutilizables para agentes de IA (AI-agent). Cada juego sigue necesitando su propia integración, y por ahora solo se ha mostrado en el modo de un jugador de GTA V Legacy. El kit está en GitHub con licencia MIT; un mod gratuito y jugable para GTA V llegará la próxima semana."
+                "x": "“La CLI significa que los desarrolladores, o los agentes de programación que trabajan a su lado, pueden generar assets justo cuando los necesitan sin interrumpir su flujo de trabajo”, afirmó Jorge Gomes, cofundador y CTO de Ludo.ai."
+              },
+              {
+                "t": "p",
+                "x": "También admite scripts y pipelines automatizados, con ajustes específicos por proyecto e historiales de generación para mantener la coherencia. La CLI está disponible en los planes Pro y Studio y puede instalarse con npm o ejecutarse con npx. Ludo también ha abierto una sección Developers en ludo.ai/developers que cubre la CLI, el servidor MCP, la REST API y el plugin de Unity."
               }
             ]
           }
@@ -223,141 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "GTA V NPCs와 대화\nNPCTalk AI 모드",
-          "body": "무료 NPCTalk로 GTA V NPCs가 1.15-2.2초에 AI로 답한다.",
-          "mini_headline": "GTA V NPCs와 AI 대화",
+          "headline": "Ludo.ai, 게임 에셋\n터미널에서 만든다",
+          "body": "Ludo.ai CLI로 Claude Code가 스프라이트·3D·오디오를 만든다.",
+          "mini_headline": "Ludo.ai 에셋 CLI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
               },
               {
                 "t": "p",
-                "x": "AI-powered 모딩 툴킷 NPCTalk가 Grand Theft Auto V에 대본 없는 실시간 대화를 들여왔다. 플레이어는 NPCs와 직접 말을 주고받고, 원래 목소리를 AI로 복제한(AI-cloned) 음성으로 답을 듣는다. Universal Modder가 개발한 이 오픈소스 프로젝트는 모드를 지원하는 거의 모든 게임에 비슷한 기능을 넣는 것을 목표로 한다."
+                "x": "Ludo.ai가 Ludo CLI를 내놓았다. 개발자는 브라우저 없이 명령줄에서 Ludo.ai의 AI 게임 에셋 제작 도구를 바로 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "플레이어가 마이크로 말을 걸면 각 캐릭터의 성격과 주변 상황을 반영해 맥락에 맞는 답이 돌아온다. NPCs는 애니메이션을 취하거나 음성 명령을 따르는 등 몸으로 반응하기도 한다."
+                "x": "1인 개발자와 소규모 스튜디오, Claude Code 같은 코딩 에이전트는 터미널에서 스프라이트, 애니메이션, 이미지, 3D 모델, 영상, 오디오를 바로 만들 수 있고, 에셋은 곧장 디스크에 저장된다."
               },
               {
                 "t": "p",
-                "x": "음성 인식은 NVIDIA의 Nemotron ASR이, 대사 생성은 Cerebras에서 구동되는 Qwen 3.8 27B 모델이 맡는다. 음성 복제와 음성 합성은 클라우드 기반 NVIDIA H100 GPU에서 Fish Audio Drama 3가 처리한다. 프로젝트 문서에 따르면 푸시투토크(push-to-talk) 방식에서 플레이어가 말을 마친 뒤 NPC가 말하기까지 약 1.15–2.2초가 걸린다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
-                "cap": "NPCTalk 아키텍처. 이미지 출처: NPCTalk GitHub 저장소."
+                "x": "CLI는 올해 초 선보인 Ludo의 REST API와 Model Context Protocol(MCP) 연동을 바탕으로 한다. 코딩 에이전트는 전체 도구 명세를 불러오지 않고 필요할 때마다 개별 Ludo 명령을 호출할 수 있으며, 로컬 파일을 생성 워크플로에 바로 넘길 수도 있다."
               },
               {
                 "t": "p",
-                "x": "NPCTalk는 Claude Code의 도움을 받아 개발됐고, 그 노하우는 재사용 가능한 AI-agent 스킬로 묶였다. 게임마다 별도 통합 작업이 여전히 필요하며, 지금까지는 GTA V Legacy의 싱글플레이 모드에서만 시연됐다. 툴킷은 MIT 라이선스로 GitHub에 공개돼 있고, 무료로 플레이할 수 있는 GTA V 모드는 다음 주에 나온다."
+                "x": "“CLI 덕분에 개발자나 함께 일하는 코딩 에이전트가 작업 흐름을 끊지 않고 필요한 순간에 에셋을 만들 수 있다.” Ludo.ai 공동창업자이자 CTO인 Jorge Gomes의 말이다."
+              },
+              {
+                "t": "p",
+                "x": "스크립트와 자동화 파이프라인도 지원하며, 일관성을 위해 프로젝트별 설정과 생성 기록을 남긴다. CLI는 Pro와 Studio 요금제에서 쓸 수 있고 npm으로 설치하거나 npx로 실행한다. Ludo는 CLI, MCP 서버, REST API, Unity 플러그인을 다루는 Developers 섹션(ludo.ai/developers)도 열었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GTA V NPCsが話す\nNPCTalk AI MOD",
-          "body": "無料のNPCTalkにより、GTA V NPCsが1.15-2.2秒でAI応答を返す。",
-          "mini_headline": "GTA V NPCsが話す",
+          "headline": "ゲーム素材の生成を\nLudo.aiがターミナルに",
+          "body": "Ludo.aiのCLIで、Claude Codeがスプライトや3D、音声を生成できる。",
+          "mini_headline": "Ludo.aiの素材CLI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
               },
               {
                 "t": "p",
-                "x": "AI-poweredのMODツールキット「NPCTalk」が、Grand Theft Auto Vに台本のないリアルタイム会話をもたらす。プレイヤーはNPCsに直接話しかけ、本来の声をAIで複製した（AI-cloned）音声で返答を聞ける。Universal Modderが開発したこのオープンソースプロジェクトは、MODに対応するほぼすべてのゲームで同様の機能を実現することを目指す。"
+                "x": "Ludo.aiはLudo CLIを公開した。開発者はブラウザを使わず、コマンドラインから同社のAIゲーム素材制作ツールを直接利用できる。"
               },
               {
                 "t": "p",
-                "x": "プレイヤーがマイクで話しかけると、各キャラクターの性格や周囲の状況を反映した、文脈に沿った返答が返ってくる。NPCsはアニメーションを再生したり、音声による指示に従ったりと、体の動きで反応することもできる。"
+                "x": "個人開発者や小規模スタジオ、Claude Codeなどのコーディングエージェントは、スプライト、アニメーション、画像、3Dモデル、動画、音声をターミナルから直接生成でき、素材はそのままディスクに保存される。"
               },
               {
                 "t": "p",
-                "x": "音声認識はNVIDIAのNemotron ASR、台詞の生成はCerebras上で動くQwen 3.8 27B 、音声の複製と合成はFish Audio Drama 3が担い、クラウド上のNVIDIA H100 GPUで処理される。プロジェクトのドキュメントによると、push-to-talk使用時、プレイヤーが話し終えてからNPCが話し出すまでの時間は約1.15–2.2秒だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
-                "cap": "NPCTalkのアーキテクチャ。画像出典：NPCTalk GitHubリポジトリ。"
+                "x": "CLIは、今年初めに導入されたLudoのREST APIとModel Context Protocol（MCP）連携を土台にしている。コーディングエージェントはツール仕様全体を読み込まず、必要に応じて個別のLudoコマンドを呼び出せる。ローカルファイルを生成ワークフローに直接渡すこともできる。"
               },
               {
                 "t": "p",
-                "x": "NPCTalkはClaude Codeの支援を受けて開発され、その知見は再利用可能なAI-agentスキルとしてまとめられている。ゲームごとに個別の統合作業は依然として必要で、これまでに披露されたのはGTA V Legacyのシングルプレイモードのみだ。ツールキットはMITライセンスでGitHubに公開されており、無料でプレイできるGTA V用MODは来週公開される予定だ。"
+                "x": "「CLIによって、開発者や彼らと並んで働くコーディングエージェントは、ワークフローを中断せずに必要なときに素材を生成できる」と、Ludo.aiの共同創業者兼CTOであるJorge Gomesは述べた。"
+              },
+              {
+                "t": "p",
+                "x": "スクリプトや自動化パイプラインにも対応し、一貫性を保つためのプロジェクト別設定と生成履歴を備える。CLIはProおよびStudioプランで利用でき、npmでインストールするかnpxで実行できる。Ludoはludo.ai/developersに、CLI、MCPサーバー、REST API、Unityプラグインをまとめた Developersセクションも開設した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "GTA V NPCs开口对话\nNPCTalk AI模组",
-          "body": "免费模组NPCTalk让GTA V NPCs用AI实时对话，延迟1.15-2.2秒。",
-          "mini_headline": "GTA V NPCs开口说话",
+          "headline": "Ludo.ai把游戏素材\n生成搬进终端",
+          "body": "Ludo.ai推出CLI，Claude Code等代理可在终端生成精灵图、3D模型和音频。",
+          "mini_headline": "Ludo.ai素材CLI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
               },
               {
                 "t": "p",
-                "x": "一款名为NPCTalk的AI-powered模组工具包，为Grand Theft Auto V带来了无脚本的实时对话：玩家可以直接与NPCs交谈，并听到以AI克隆（AI-cloned）的原声作出的回应。该开源项目由Universal Modder开发，目标是为几乎所有可加装模组的游戏带来类似功能。"
+                "x": "Ludo.ai发布了Ludo CLI，开发者无需浏览器，即可在命令行中直接使用其AI游戏素材创作工具。"
               },
               {
                 "t": "p",
-                "x": "玩家通过麦克风说话，即可得到契合语境的回复，反映每个角色的性格和所处环境。NPCs还能做出肢体反应，执行动画或听从语音指令。"
+                "x": "独立开发者、小型工作室以及Claude Code等编程代理，可以直接在终端生成精灵图、动画、图像、3D模型、视频和音频，素材会直接保存到磁盘。"
               },
               {
                 "t": "p",
-                "x": "语音识别由NVIDIA的Nemotron ASR负责，对话生成由运行在Cerebras上的Qwen 3.8 27B 完成，语音克隆与语音合成则由Fish Audio Drama 3在云端NVIDIA H100 GPU上处理。项目文档显示，使用push-to-talk时，从玩家说完一句话到NPC开口约需1.15–2.2秒。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
-                "cap": "NPCTalk架构。图片来源：NPCTalk GitHub仓库。"
+                "x": "该CLI建立在Ludo今年早些时候推出的REST API和Model Context Protocol（MCP）集成之上。编程代理可按需调用单个Ludo命令，而无需加载完整的工具规范；本地文件也可以直接传入生成工作流。"
               },
               {
                 "t": "p",
-                "x": "NPCTalk在Claude Code的协助下开发，其经验被封装为可复用的AI-agent技能。每款游戏仍需单独集成，目前仅在GTA V Legacy的单人模式中展示过。该工具包以MIT许可证发布在GitHub上；可免费游玩的GTA V模组将于下周推出。"
+                "x": "“有了CLI，开发者或与他们协同工作的编程代理，可以在需要时随时生成素材，而不必打断工作流程。”Ludo.ai联合创始人兼CTO Jorge Gomes表示。"
+              },
+              {
+                "t": "p",
+                "x": "它还支持脚本和自动化流水线，并提供项目专属设置和生成历史以保持一致性。CLI面向Pro和Studio套餐开放，可通过npm安装或用npx运行。Ludo还在ludo.ai/developers上线了Developers专区，涵盖CLI、MCP服务器、REST API和Unity插件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los NPCs de GTA V ya responden\ncon el mod AI NPCTalk",
-          "body": "El mod gratuito NPCTalk, que sale la próxima semana, da a los NPCs de GTA V respuestas de AI en 1.15-2.2 segundos.",
-          "mini_headline": "Los NPCs de GTA V responden",
+          "headline": "Ludo.ai lleva la creación de\nassets de juego a la terminal",
+          "body": "La nueva CLI de Ludo.ai permite a agentes como Claude Code generar sprites, modelos 3D y audio desde la terminal.",
+          "mini_headline": "CLI de assets de Ludo.ai",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-17.jpg"
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Un nuevo kit de herramientas de modding impulsado por IA (AI-powered), llamado NPCTalk, lleva conversaciones sin guion y en tiempo real a Grand Theft Auto V: los jugadores pueden hablar directamente con los NPCs y escuchar sus respuestas con sus voces originales clonadas por IA (AI-cloned). Desarrollado por Universal Modder, el proyecto de código abierto busca llevar funciones similares a prácticamente cualquier juego que admita mods."
+                "x": "Ludo.ai ha lanzado Ludo CLI, que ofrece a los desarrolladores acceso directo desde la línea de comandos a sus herramientas de IA para crear assets de juego, sin necesidad de navegador."
               },
               {
                 "t": "p",
-                "x": "Los jugadores hablan por el micrófono y reciben respuestas acordes al contexto, que reflejan la personalidad y el entorno de cada personaje. Los NPCs también pueden reaccionar físicamente, ejecutando animaciones o siguiendo órdenes habladas."
+                "x": "Desarrolladores independientes, estudios pequeños y agentes de programación como Claude Code pueden generar sprites, animaciones, imágenes, modelos 3D, video y audio directamente desde la terminal, y los assets se guardan directamente en disco."
               },
               {
                 "t": "p",
-                "x": "Nemotron ASR de NVIDIA se encarga del reconocimiento de voz, Qwen 3.8 27B, ejecutado a través de Cerebras, genera el diálogo, y Fish Audio Drama 3 realiza la clonación de voz y la síntesis del habla en una NVIDIA H100 GPU en la nube. La documentación del proyecto indica unos 1.15–2.2 segundos entre que el jugador termina una frase y el NPC empieza a hablar con push-to-talk."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/architecture-scaled.jpg",
-                "cap": "La arquitectura de NPCTalk. Fuente de la imagen: repositorio de NPCTalk en GitHub."
+                "x": "La CLI se basa en la REST API de Ludo y en las integraciones con Model Context Protocol (MCP) presentadas a principios de este año. Los agentes de programación pueden invocar comandos individuales de Ludo según los necesiten, en lugar de cargar especificaciones completas de herramientas, y es posible pasar archivos locales directamente a los flujos de generación."
               },
               {
                 "t": "p",
-                "x": "NPCTalk se desarrolló con la ayuda de Claude Code, y su conocimiento está empaquetado como habilidades reutilizables para agentes de IA (AI-agent). Cada juego sigue necesitando su propia integración, y por ahora solo se ha mostrado en el modo de un jugador de GTA V Legacy. El kit está en GitHub con licencia MIT; un mod gratuito y jugable para GTA V llegará la próxima semana."
+                "x": "“La CLI significa que los desarrolladores, o los agentes de programación que trabajan a su lado, pueden generar assets justo cuando los necesitan sin interrumpir su flujo de trabajo”, afirmó Jorge Gomes, cofundador y CTO de Ludo.ai."
+              },
+              {
+                "t": "p",
+                "x": "También admite scripts y pipelines automatizados, con ajustes específicos por proyecto e historiales de generación para mantener la coherencia. La CLI está disponible en los planes Pro y Studio y puede instalarse con npm o ejecutarse con npx. Ludo también ha abierto una sección Developers en ludo.ai/developers que cubre la CLI, el servidor MCP, la REST API y el plugin de Unity."
               }
             ]
           }
@@ -365,1291 +355,15 @@
       }
     },
     {
-      "id": "games-roblox-audioscape",
+      "id": "games-steam-noai-filter",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Roblox가 AI 오디오\nAudioscape 영입",
-      "body": "Roblox가 AI 오디오 팀 Audioscape를 데려와 창작 도구에 넣는다.",
-      "mini_headline": "Roblox, Audioscape 영입",
+      "headline": "슬롭 찬 Next Fest\nno-AI 필터 요구 나와",
+      "body": "Next Fest에 AI-made 데모가 쏟아지자 이용자들이 필터를 요구했다.",
+      "mini_headline": "Steam no-AI 필터 요구",
       "tool": "Games",
-      "source": "PocketGamer.biz",
-      "url": "https://www.pocketgamer.biz/roblox-brings-audioscape-team-in-house-to-develop-ai-audio-tools/",
-      "accent": "#0070f3",
-      "motif": "cube",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Roblox가 AI 오디오 스타트업 Audioscape의 팀을 영입했다. 이 팀의 기술은 앞으로 플랫폼의 크리에이터 도구에 들어간다."
-          },
-          {
-            "t": "p",
-            "x": "Audioscape 창업자 Sean Varah는 이 소식을 알리며 Roblox 크리에이터 경험 전반에서 오디오와 음악을 아우르는 더 넓은 로드맵에 집중하겠다고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "팀이 그동안 만든 것은 AI-powered 오디오 검색·탐색 도구다. 크리에이터가 이름이 아니라 실제 소리로 사운드를 찾게 돕는다."
-          },
-          {
-            "t": "p",
-            "x": "최근 Audioscape는 오디오 탐색, 사운드 디자인, 오디오 프로그래밍, 믹싱, 테스트까지 아우르는 AI Audio Agent도 개발했다. triple-A 오디오 제작의 여러 요소를 Roblox 크리에이터 가까이로 끌어오려는 도구다."
-          },
-          {
-            "t": "p",
-            "x": "“Roblox에 합류한다는 것은 이 기술이 플랫폼의 기본 기능이 되어, 매일 Roblox에서 무언가를 만드는 수백만 명의 크리에이터가 쓸 수 있게 된다는 뜻입니다. 저는 크리에이터 경험 전반에서 오디오와 음악 저작을 위한 총체적인 로드맵을 이끄는 데 집중할 것이며, 앞으로가 무척 기대됩니다.” Varah는 이렇게 말했다."
-          },
-          {
-            "t": "p",
-            "x": "팀은 처음부터 Roblox만을 위해 도구를 만들었고, 이번 합류로 그 기술이 플랫폼 크리에이터에게 곧바로 닿게 됐다."
-          },
-          {
-            "t": "p",
-            "x": "Varah는 Audioscape를 믿어 준 초기 후원자와 자문가, 투자자, 그리고 팀을 도운 Roblox 크리에이터에게도 고마움을 전했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Roblox brings Audioscape\nin-house for AI audio tools",
-          "body": "Roblox brought in the Audioscape AI audio team, whose technology will now join the platform's creator tools.",
-          "mini_headline": "Roblox adds Audioscape",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Roblox has brought the team behind AI audio startup Audioscape into the company and its technology will now become part of the platform's creator tools."
-              },
-              {
-                "t": "p",
-                "x": "Audioscape founder Sean Varah announced the move, saying he would focus on developing a broader roadmap for audio and music across Roblox’s creator experience."
-              },
-              {
-                "t": "p",
-                "x": "The team has developed AI-powered audio search and discovery tools that help creators find sounds based on how they actually sound, rather than just by name."
-              },
-              {
-                "t": "p",
-                "x": "Recently, Audioscape developed an AI Audio Agent that covers audio discovery, sound design, audio programming, mixing and testing. The tool aims to bring aspects of triple-A audio production closer to Roblox creators."
-              },
-              {
-                "t": "p",
-                "x": "“Joining Roblox means this technology will become a native part of the platform, available to the millions of creators who build on Roblox every day. I'll be focused on driving a holistic roadmap for audio and music authoring across the Creator experience and I couldn't be more energised about what's ahead,” Varah said."
-              },
-              {
-                "t": "p",
-                "x": "The team built its tools natively for Roblox, and the move will bring the technology directly to the platform’s creators."
-              },
-              {
-                "t": "p",
-                "x": "Varah also thanked early supporters, advisers and investors who backed Audioscape, as well as the Roblox creators who helped the team."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Roblox가 AI 오디오\nAudioscape 영입",
-          "body": "Roblox가 AI 오디오 팀 Audioscape를 데려와 창작 도구에 넣는다.",
-          "mini_headline": "Roblox, Audioscape 영입",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Roblox가 AI 오디오 스타트업 Audioscape의 팀을 영입했다. 이 팀의 기술은 앞으로 플랫폼의 크리에이터 도구에 들어간다."
-              },
-              {
-                "t": "p",
-                "x": "Audioscape 창업자 Sean Varah는 이 소식을 알리며 Roblox 크리에이터 경험 전반에서 오디오와 음악을 아우르는 더 넓은 로드맵에 집중하겠다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "팀이 그동안 만든 것은 AI-powered 오디오 검색·탐색 도구다. 크리에이터가 이름이 아니라 실제 소리로 사운드를 찾게 돕는다."
-              },
-              {
-                "t": "p",
-                "x": "최근 Audioscape는 오디오 탐색, 사운드 디자인, 오디오 프로그래밍, 믹싱, 테스트까지 아우르는 AI Audio Agent도 개발했다. triple-A 오디오 제작의 여러 요소를 Roblox 크리에이터 가까이로 끌어오려는 도구다."
-              },
-              {
-                "t": "p",
-                "x": "“Roblox에 합류한다는 것은 이 기술이 플랫폼의 기본 기능이 되어, 매일 Roblox에서 무언가를 만드는 수백만 명의 크리에이터가 쓸 수 있게 된다는 뜻입니다. 저는 크리에이터 경험 전반에서 오디오와 음악 저작을 위한 총체적인 로드맵을 이끄는 데 집중할 것이며, 앞으로가 무척 기대됩니다.” Varah는 이렇게 말했다."
-              },
-              {
-                "t": "p",
-                "x": "팀은 처음부터 Roblox만을 위해 도구를 만들었고, 이번 합류로 그 기술이 플랫폼 크리에이터에게 곧바로 닿게 됐다."
-              },
-              {
-                "t": "p",
-                "x": "Varah는 Audioscape를 믿어 준 초기 후원자와 자문가, 투자자, 그리고 팀을 도운 Roblox 크리에이터에게도 고마움을 전했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Roblox、AIオーディオ\nAudioscapeを社内に",
-          "body": "RobloxがAI音響チームAudioscapeを迎え、技術を制作ツールに統合する。",
-          "mini_headline": "RobloxがAudioscapeを迎え入れ",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Robloxは、AIオーディオのスタートアップAudioscapeのチームを社内に迎え入れた。同社の技術は今後、プラットフォームのクリエイターツールの一部となる。"
-              },
-              {
-                "t": "p",
-                "x": "Audioscape創業者のSean Varahがこの移籍を発表し、Robloxのクリエイター体験全体にわたるオーディオと音楽の、より広いロードマップの策定に注力すると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "同チームは、名前だけでなく実際の音の響きをもとにクリエイターがサウンドを探せる、AI-poweredのオーディオ検索・発見ツールを開発してきた。"
-              },
-              {
-                "t": "p",
-                "x": "Audioscapeは最近、オーディオの発見、サウンドデザイン、オーディオプログラミング、ミキシング、テストまでを担うAI Audio Agentを開発した。このツールは、triple-A級のオーディオ制作の要素をRobloxのクリエイターにより身近なものにすることを目指す。"
-              },
-              {
-                "t": "p",
-                "x": "「Robloxに加わるということは、この技術がプラットフォームにネイティブに組み込まれ、毎日Robloxで制作する何百万人ものクリエイターが使えるようになるということだ。私はクリエイター体験全体でオーディオと音楽の制作に関する包括的なロードマップを推進することに注力する。この先が本当に楽しみだ」とVarahは語った。"
-              },
-              {
-                "t": "p",
-                "x": "チームはRoblox向けにネイティブでツールを構築しており、今回の移籍によりその技術がプラットフォームのクリエイターに直接届くことになる。"
-              },
-              {
-                "t": "p",
-                "x": "Varahはまた、Audioscapeを支えた初期の支援者、アドバイザー、投資家、そしてチームを助けたRobloxのクリエイターにも感謝を述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Roblox将AI音频团队\nAudioscape收入麾下",
-          "body": "Roblox吸纳AI音频团队Audioscape，其技术将并入平台创作者工具。",
-          "mini_headline": "Roblox吸纳Audioscape",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Roblox已将AI音频初创公司Audioscape的团队纳入公司，其技术将成为平台创作者工具的一部分。"
-              },
-              {
-                "t": "p",
-                "x": "Audioscape创始人Sean Varah宣布了这一消息，并表示将专注于为Roblox整个创作者体验制定更广泛的音频与音乐路线图。"
-              },
-              {
-                "t": "p",
-                "x": "该团队开发了AI-powered音频搜索与发现工具，帮助创作者依据声音的实际听感而不只是名称来查找音效。"
-              },
-              {
-                "t": "p",
-                "x": "Audioscape近期开发了AI Audio Agent，覆盖音频发现、声音设计、音频编程、混音和测试。该工具旨在让Roblox创作者更接近triple-A级音频制作的部分环节。"
-              },
-              {
-                "t": "p",
-                "x": "“加入Roblox意味着这项技术将成为平台的原生组成部分，供每天在Roblox上创作的数百万创作者使用。我将专注于推动创作者体验中音频与音乐创作的整体路线图，对未来充满期待。”Varah说。"
-              },
-              {
-                "t": "p",
-                "x": "该团队的工具原本就是为Roblox原生打造，此次加入将把这项技术直接带给平台的创作者。"
-              },
-              {
-                "t": "p",
-                "x": "Varah还感谢了支持Audioscape的早期支持者、顾问和投资者，以及曾帮助团队的Roblox创作者。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Roblox incorpora a Audioscape\ny su tecnología de audio AI",
-          "body": "Roblox incorporó al equipo de audio AI de Audioscape, cuya tecnología se sumará a las herramientas para creadores.",
-          "mini_headline": "Roblox incorpora Audioscape",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Roblox ha incorporado a la empresa al equipo detrás de Audioscape, startup de audio con AI, y su tecnología pasará a formar parte de las herramientas para creadores de la plataforma."
-              },
-              {
-                "t": "p",
-                "x": "Sean Varah, fundador de Audioscape, anunció el movimiento y dijo que se centrará en desarrollar una hoja de ruta más amplia para el audio y la música en toda la experiencia de creadores de Roblox."
-              },
-              {
-                "t": "p",
-                "x": "El equipo ha desarrollado herramientas AI-powered de búsqueda y descubrimiento de audio que ayudan a los creadores a encontrar sonidos según cómo suenan realmente, y no solo por su nombre."
-              },
-              {
-                "t": "p",
-                "x": "Recientemente, Audioscape desarrolló un AI Audio Agent que abarca el descubrimiento de audio, el diseño de sonido, la programación de audio, la mezcla y las pruebas. La herramienta busca acercar a los creadores de Roblox aspectos de la producción de audio triple-A."
-              },
-              {
-                "t": "p",
-                "x": "“Unirse a Roblox significa que esta tecnología pasará a ser una parte nativa de la plataforma, disponible para los millones de creadores que construyen en Roblox cada día. Me centraré en impulsar una hoja de ruta integral para la creación de audio y música en toda la experiencia de creadores, y no podría estar más entusiasmado con lo que viene”, dijo Varah."
-              },
-              {
-                "t": "p",
-                "x": "El equipo creó sus herramientas de forma nativa para Roblox, y el movimiento llevará la tecnología directamente a los creadores de la plataforma."
-              },
-              {
-                "t": "p",
-                "x": "Varah también agradeció a los primeros simpatizantes, asesores e inversores que respaldaron a Audioscape, así como a los creadores de Roblox que ayudaron al equipo."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Roblox가 AI 오디오\nAudioscape 영입",
-          "body": "Roblox가 AI 오디오 팀 Audioscape를 영입해 창작 도구에 넣는다.",
-          "mini_headline": "Roblox, Audioscape 영입",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Roblox가 AI 오디오 스타트업 Audioscape의 팀을 회사로 영입했으며, 이 팀의 기술은 앞으로 플랫폼의 크리에이터 도구에 포함된다."
-              },
-              {
-                "t": "p",
-                "x": "Audioscape 창업자 Sean Varah는 이 소식을 전하며, Roblox 크리에이터 경험 전반에서 오디오와 음악을 위한 더 넓은 로드맵 개발에 집중하겠다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "이 팀은 이름만이 아니라 실제 소리를 기준으로 크리에이터가 사운드를 찾도록 돕는 AI-powered 오디오 검색·탐색 도구를 개발해 왔다."
-              },
-              {
-                "t": "p",
-                "x": "최근 Audioscape는 오디오 탐색, 사운드 디자인, 오디오 프로그래밍, 믹싱, 테스트를 아우르는 AI Audio Agent를 개발했다. 이 도구는 triple-A 오디오 제작의 여러 요소를 Roblox 크리에이터에게 더 가까이 가져가는 것을 목표로 한다."
-              },
-              {
-                "t": "p",
-                "x": "“Roblox에 합류한다는 것은 이 기술이 플랫폼의 기본 기능이 되어, 매일 Roblox에서 무언가를 만드는 수백만 명의 크리에이터가 쓸 수 있게 된다는 뜻입니다. 저는 크리에이터 경험 전반에서 오디오와 음악 저작을 위한 총체적인 로드맵을 이끄는 데 집중할 것이며, 앞으로가 무척 기대됩니다.” Varah는 이렇게 말했다."
-              },
-              {
-                "t": "p",
-                "x": "팀은 처음부터 Roblox 전용으로 도구를 만들었고, 이번 합류로 이 기술이 플랫폼 크리에이터에게 직접 전달된다."
-              },
-              {
-                "t": "p",
-                "x": "Varah는 Audioscape를 지지해 준 초기 후원자, 자문가, 투자자와 팀을 도와준 Roblox 크리에이터에게도 감사를 전했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Roblox、AIオーディオ\nAudioscapeを社内に",
-          "body": "RobloxがAI音響チームAudioscapeを迎え、技術を制作ツールに統合する。",
-          "mini_headline": "RobloxがAudioscapeを迎え入れ",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Robloxは、AIオーディオのスタートアップAudioscapeのチームを社内に迎え入れた。同社の技術は今後、プラットフォームのクリエイターツールの一部となる。"
-              },
-              {
-                "t": "p",
-                "x": "Audioscape創業者のSean Varahがこの移籍を発表し、Robloxのクリエイター体験全体にわたるオーディオと音楽の、より広いロードマップの策定に注力すると述べた。"
-              },
-              {
-                "t": "p",
-                "x": "同チームは、名前だけでなく実際の音の響きをもとにクリエイターがサウンドを探せる、AI-poweredのオーディオ検索・発見ツールを開発してきた。"
-              },
-              {
-                "t": "p",
-                "x": "Audioscapeは最近、オーディオの発見、サウンドデザイン、オーディオプログラミング、ミキシング、テストまでを担うAI Audio Agentを開発した。このツールは、triple-A級のオーディオ制作の要素をRobloxのクリエイターにより身近なものにすることを目指す。"
-              },
-              {
-                "t": "p",
-                "x": "「Robloxに加わるということは、この技術がプラットフォームにネイティブに組み込まれ、毎日Robloxで制作する何百万人ものクリエイターが使えるようになるということだ。私はクリエイター体験全体でオーディオと音楽の制作に関する包括的なロードマップを推進することに注力する。この先が本当に楽しみだ」とVarahは語った。"
-              },
-              {
-                "t": "p",
-                "x": "チームはRoblox向けにネイティブでツールを構築しており、今回の移籍によりその技術がプラットフォームのクリエイターに直接届くことになる。"
-              },
-              {
-                "t": "p",
-                "x": "Varahはまた、Audioscapeを支えた初期の支援者、アドバイザー、投資家、そしてチームを助けたRobloxのクリエイターにも感謝を述べた。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Roblox将AI音频团队\nAudioscape收入麾下",
-          "body": "Roblox吸纳AI音频团队Audioscape，其技术将并入平台创作者工具。",
-          "mini_headline": "Roblox吸纳Audioscape",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Roblox已将AI音频初创公司Audioscape的团队纳入公司，其技术将成为平台创作者工具的一部分。"
-              },
-              {
-                "t": "p",
-                "x": "Audioscape创始人Sean Varah宣布了这一消息，并表示将专注于为Roblox整个创作者体验制定更广泛的音频与音乐路线图。"
-              },
-              {
-                "t": "p",
-                "x": "该团队开发了AI-powered音频搜索与发现工具，帮助创作者依据声音的实际听感而不只是名称来查找音效。"
-              },
-              {
-                "t": "p",
-                "x": "Audioscape近期开发了AI Audio Agent，覆盖音频发现、声音设计、音频编程、混音和测试。该工具旨在让Roblox创作者更接近triple-A级音频制作的部分环节。"
-              },
-              {
-                "t": "p",
-                "x": "“加入Roblox意味着这项技术将成为平台的原生组成部分，供每天在Roblox上创作的数百万创作者使用。我将专注于推动创作者体验中音频与音乐创作的整体路线图，对未来充满期待。”Varah说。"
-              },
-              {
-                "t": "p",
-                "x": "该团队的工具原本就是为Roblox原生打造，此次加入将把这项技术直接带给平台的创作者。"
-              },
-              {
-                "t": "p",
-                "x": "Varah还感谢了支持Audioscape的早期支持者、顾问和投资者，以及曾帮助团队的Roblox创作者。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Roblox incorpora a Audioscape\ny su tecnología de audio AI",
-          "body": "Roblox incorporó al equipo de audio AI de Audioscape, cuya tecnología se sumará a las herramientas para creadores.",
-          "mini_headline": "Roblox incorpora Audioscape",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://media.pocketgamer.biz/images/141695/90026/audioscape-roblox_l1200.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Roblox ha incorporado a la empresa al equipo detrás de Audioscape, startup de audio con AI, y su tecnología pasará a formar parte de las herramientas para creadores de la plataforma."
-              },
-              {
-                "t": "p",
-                "x": "Sean Varah, fundador de Audioscape, anunció el movimiento y dijo que se centrará en desarrollar una hoja de ruta más amplia para el audio y la música en toda la experiencia de creadores de Roblox."
-              },
-              {
-                "t": "p",
-                "x": "El equipo ha desarrollado herramientas AI-powered de búsqueda y descubrimiento de audio que ayudan a los creadores a encontrar sonidos según cómo suenan realmente, y no solo por su nombre."
-              },
-              {
-                "t": "p",
-                "x": "Recientemente, Audioscape desarrolló un AI Audio Agent que abarca el descubrimiento de audio, el diseño de sonido, la programación de audio, la mezcla y las pruebas. La herramienta busca acercar a los creadores de Roblox aspectos de la producción de audio triple-A."
-              },
-              {
-                "t": "p",
-                "x": "“Unirse a Roblox significa que esta tecnología pasará a ser una parte nativa de la plataforma, disponible para los millones de creadores que construyen en Roblox cada día. Me centraré en impulsar una hoja de ruta integral para la creación de audio y música en toda la experiencia de creadores, y no podría estar más entusiasmado con lo que viene”, dijo Varah."
-              },
-              {
-                "t": "p",
-                "x": "El equipo creó sus herramientas de forma nativa para Roblox, y el movimiento llevará la tecnología directamente a los creadores de la plataforma."
-              },
-              {
-                "t": "p",
-                "x": "Varah también agradeció a los primeros simpatizantes, asesores e inversores que respaldaron a Audioscape, así como a los creadores de Roblox que ayudaron al equipo."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "games-scam-with-friends",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "AI를 속이는 협동 신작\n스팀 인기 최상위권",
-      "body": "생성형 AI를 속이는 협동 신작이 스팀 앞서 해보기로 인기 최상위권에 올랐다.",
-      "mini_headline": "AI 속이는 협동작",
-      "tool": "Games",
-      "source": "게임메카",
-      "url": "https://www.gamemeca.com/view.php?gid=1781919",
-      "accent": "#f5a623",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
-            "cap": "10월 16일 오후 5시 기준 스팀 전 세계 최고 인기 게임 TOP 10 (자료출처: 스팀)"
-          },
-          {
-            "t": "p",
-            "x": "협동 시뮬레이션 신작 '스캠 위드 유어 프렌즈(Scam With Your Friends)'가 16일 스팀 앞서 해보기로 출시된 후 전 세계 최고 인기 게임 최상위권에 올랐다. 생성형 AI를 상대로 사기극을 벌인다는 설정과 협동 과정에서 발생하는 재미있는 상황이 맞물리며 게이머들의 이목을 끌었다."
-          },
-          {
-            "t": "p",
-            "x": "콜센터를 가장한 사기집단을 배경으로 한 협동게임으로, 최대 6인이 사무실 직원이 되어 정해진 근무 시간 안에 팀 전체의 일일 수익 할당량을 채워야 한다. 할당량 달성에 실패하면 상사의 가혹한 인사 평가가 내려오고, 일차가 지날수록 목표 금액이 상승한다."
-          },
-          {
-            "t": "p",
-            "x": "생성형 AI 고객을 상대로 한 실시간 통화와 해킹이 주를 이룬다. 걸려오는 전화를 받은 뒤 마이크에 직접 말하거나 텍스트를 입력해 AI 고객의 의심을 줄이고 기프트 카드 번호나 계좌 이체를 유도해야 한다. 통화로 주의를 끄는 동안 피해자의 PC에 원격 접속해 개인정보를 빼내는 방법도 있다."
-          },
-          {
-            "t": "video",
-            "yt": "e4BhBUryVFY"
-          },
-          {
-            "t": "p",
-            "x": "스팀 유저 평가는 '대체로 긍정적(705명 참여, 71% 긍정적)'이다. 정해진 대본 없이 즉흥적인 거짓말로 AI 고객을 속이는 과정과 일과 종료 후 통화 하이라이트를 함께 보며 진행되는 상사의 인사 평가가 포인트라 평가됐다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
-            "cap": "스캠 위드 유어 프렌즈 스크린샷 (사진출처: 게임 스팀 페이지)"
-          },
-          {
-            "t": "p",
-            "x": "다만 불안정한 서버로 인한 잦은 응답 불가 현상과 음성 인식 오류, 프레임 저하 등 최적화가 문제로 지적됐다. 특히 한국어를 포함한 비영어권 언어에서 응답 지연이 심해 정상적인 진행이 어렵다고 언급됐다. AI 서버 유지비로 인한 조기 서비스 종료나 유료 구독제 전환에 대한 우려도 나왔다."
-          }
-        ]
-      },
-      "text": {
-        "ko": {
-          "headline": "AI를 속이는 협동 신작\n스팀 인기 최상위권",
-          "body": "생성형 AI를 속이는 협동 신작이 스팀 앞서 해보기로 인기 최상위권에 올랐다.",
-          "mini_headline": "AI 속이는 협동작",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
-                "cap": "10월 16일 오후 5시 기준 스팀 전 세계 최고 인기 게임 TOP 10 (자료출처: 스팀)"
-              },
-              {
-                "t": "p",
-                "x": "협동 시뮬레이션 신작 '스캠 위드 유어 프렌즈(Scam With Your Friends)'가 16일 스팀 앞서 해보기로 출시된 후 전 세계 최고 인기 게임 최상위권에 올랐다. 생성형 AI를 상대로 사기극을 벌인다는 설정과 협동 과정에서 발생하는 재미있는 상황이 맞물리며 게이머들의 이목을 끌었다."
-              },
-              {
-                "t": "p",
-                "x": "콜센터를 가장한 사기집단을 배경으로 한 협동게임으로, 최대 6인이 사무실 직원이 되어 정해진 근무 시간 안에 팀 전체의 일일 수익 할당량을 채워야 한다. 할당량 달성에 실패하면 상사의 가혹한 인사 평가가 내려오고, 일차가 지날수록 목표 금액이 상승한다."
-              },
-              {
-                "t": "p",
-                "x": "생성형 AI 고객을 상대로 한 실시간 통화와 해킹이 주를 이룬다. 걸려오는 전화를 받은 뒤 마이크에 직접 말하거나 텍스트를 입력해 AI 고객의 의심을 줄이고 기프트 카드 번호나 계좌 이체를 유도해야 한다. 통화로 주의를 끄는 동안 피해자의 PC에 원격 접속해 개인정보를 빼내는 방법도 있다."
-              },
-              {
-                "t": "video",
-                "yt": "e4BhBUryVFY"
-              },
-              {
-                "t": "p",
-                "x": "스팀 유저 평가는 '대체로 긍정적(705명 참여, 71% 긍정적)'이다. 정해진 대본 없이 즉흥적인 거짓말로 AI 고객을 속이는 과정과 일과 종료 후 통화 하이라이트를 함께 보며 진행되는 상사의 인사 평가가 포인트라 평가됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
-                "cap": "스캠 위드 유어 프렌즈 스크린샷 (사진출처: 게임 스팀 페이지)"
-              },
-              {
-                "t": "p",
-                "x": "다만 불안정한 서버로 인한 잦은 응답 불가 현상과 음성 인식 오류, 프레임 저하 등 최적화가 문제로 지적됐다. 특히 한국어를 포함한 비영어권 언어에서 응답 지연이 심해 정상적인 진행이 어렵다고 언급됐다. AI 서버 유지비로 인한 조기 서비스 종료나 유료 구독제 전환에 대한 우려도 나왔다."
-              }
-            ]
-          }
-        },
-        "en": {
-          "headline": "New co-op game about fooling AI\nclimbs to top of Steam charts",
-          "body": "A new co-op game about fooling generative AI hit the top of Steam's popularity ranks in early access.",
-          "mini_headline": "Co-op game that fools AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
-                "cap": "Steam's global TOP 10 most popular games as of 5 p.m. on October 16 (Source: Steam)"
-              },
-              {
-                "t": "p",
-                "x": "The new co-op simulation game 'Scam With Your Friends' launched in Steam early access on the 16th and climbed to the top of the global most popular games chart. Its premise of running scams on generative AI, combined with the funny situations that arise during co-op play, caught gamers' attention."
-              },
-              {
-                "t": "p",
-                "x": "Set in a scam ring posing as a call center, the co-op game puts up to 6 players in the role of office staff who must meet the whole team's daily revenue quota within set working hours. Missing the quota brings a harsh performance review from the boss, and the target amount rises as the days go by."
-              },
-              {
-                "t": "p",
-                "x": "Gameplay centers on real-time calls with generative AI customers and hacking. After picking up an incoming call, players must speak directly into a microphone or type text to ease the AI customer's suspicion and get them to hand over gift card numbers or make bank transfers. Players can also remotely access the victim's PC to steal personal information while the call keeps them distracted."
-              },
-              {
-                "t": "video",
-                "yt": "e4BhBUryVFY"
-              },
-              {
-                "t": "p",
-                "x": "Steam user reviews are 'Mostly Positive' (705 reviews, 71% positive). Reviewers singled out tricking AI customers with improvised lies and no set script, and the boss's performance review at the end of each workday, held while watching call highlights together."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
-                "cap": "Scam With Your Friends screenshot (Image source: the game's Steam page)"
-              },
-              {
-                "t": "p",
-                "x": "However, players pointed to optimization problems, including frequent unresponsiveness caused by unstable servers, voice recognition errors and frame drops. In particular, response delays in non-English languages, including Korean, were said to be severe enough to make normal play difficult. Some also raised concerns about an early shutdown or a switch to a paid subscription because of AI server costs."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIをだます協力新作\nSteam人気で最上位",
-          "body": "生成AIをだます協力新作が、Steamの早期アクセスで人気最上位に入った。",
-          "mini_headline": "AIをだます協力ゲーム",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
-                "cap": "10月16日午後5時時点のSteam全世界人気ゲームTOP 10（出典：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "協力シミュレーションの新作『スキャム・ウィズ・ユア・フレンズ（Scam With Your Friends）』が16日にSteamで早期アクセス配信を開始し、全世界の人気ゲームで最上位に入った。生成AIを相手に詐欺を仕掛けるという設定と、協力プレイ中に起こる愉快な状況がかみ合い、ゲーマーの注目を集めた。"
-              },
-              {
-                "t": "p",
-                "x": "コールセンターを装った詐欺グループを舞台にした協力ゲームで、最大6人がオフィスの社員となり、決められた勤務時間内にチーム全体の1日の収益ノルマを達成しなければならない。ノルマを達成できなければ上司から厳しい人事評価が下され、日数が進むほど目標金額は上がっていく。"
-              },
-              {
-                "t": "p",
-                "x": "中心となるのは生成AIの顧客を相手にしたリアルタイム通話とハッキングだ。かかってきた電話に出たら、マイクで直接話すかテキストを入力してAI顧客の疑いを和らげ、ギフトカードの番号や口座振込を引き出す必要がある。通話で注意を引いている間に被害者のPCへリモート接続し、個人情報を抜き取る方法もある。"
-              },
-              {
-                "t": "video",
-                "yt": "e4BhBUryVFY"
-              },
-              {
-                "t": "p",
-                "x": "Steamのユーザー評価は「やや好評（705件、71%が好評）」だ。決まった台本なしにその場の嘘でAI顧客をだます過程や、1日の終わりに通話のハイライトを一緒に見ながら行われる上司の人事評価が見どころだと評価された。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
-                "cap": "スキャム・ウィズ・ユア・フレンズのスクリーンショット（画像出典：ゲームのSteamページ）"
-              },
-              {
-                "t": "p",
-                "x": "ただし、不安定なサーバーによる頻繁な無応答、音声認識の誤り、フレームレート低下など最適化の問題が指摘された。特に韓国語を含む英語以外の言語では応答の遅れがひどく、正常なプレイが難しいとの声もあった。AIサーバーの維持費による早期のサービス終了や、有料サブスクリプションへの移行を懸念する声も上がった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "欺骗AI的合作新作\n登上Steam热门前列",
-          "body": "一款欺骗生成式AI的合作新作以Steam抢先体验推出后跻身热门榜前列。",
-          "mini_headline": "欺骗AI的合作游戏",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
-                "cap": "截至10月16日下午5点的Steam全球最热门游戏TOP 10（资料来源：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "合作模拟新作《Scam With Your Friends》于16日以Steam抢先体验形式推出后，跻身全球最热门游戏榜前列。以生成式AI为对象实施诈骗的设定，加上合作过程中产生的有趣状况，吸引了玩家的关注。"
-              },
-              {
-                "t": "p",
-                "x": "这是一款以伪装成呼叫中心的诈骗团伙为背景的合作游戏，最多6名玩家扮演办公室职员，须在规定的工作时间内完成全队的每日收益指标。若未完成指标，上司会给出严厉的考核评价，且随着天数推进，目标金额会不断提高。"
-              },
-              {
-                "t": "p",
-                "x": "游戏的核心是与生成式AI客户进行实时通话和黑客入侵。接起来电后，玩家需直接对着麦克风说话或输入文字，打消AI客户的疑虑，诱导对方提供礼品卡号码或进行转账。也可以在通话分散对方注意力时，远程接入受害者的PC窃取个人信息。"
-              },
-              {
-                "t": "video",
-                "yt": "e4BhBUryVFY"
-              },
-              {
-                "t": "p",
-                "x": "Steam用户评价为“多半好评（705人参与，71%好评）”。玩家认为，无固定剧本、凭即兴谎言骗过AI客户的过程，以及每天工作结束后一起观看通话精彩片段并由上司进行考核评价的环节，是游戏的看点。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
-                "cap": "Scam With Your Friends截图（图片来源：游戏Steam页面）"
-              },
-              {
-                "t": "p",
-                "x": "不过，服务器不稳定导致的频繁无响应、语音识别错误和掉帧等优化问题也被指出。尤其是包括韩语在内的非英语语言响应延迟严重，难以正常进行游戏。也有人担心AI服务器维护成本可能导致提前停服或转为付费订阅制。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un juego para engañar a la AI\nen equipo, en lo alto de Steam",
-          "body": "Un nuevo juego cooperativo sobre engañar a la AI generativa llegó a lo más alto de Steam en acceso anticipado.",
-          "mini_headline": "Cooperativo para engañar a la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
-                "cap": "TOP 10 de los juegos más populares de Steam en todo el mundo a las 5 p. m. del 16 de octubre (Fuente: Steam)"
-              },
-              {
-                "t": "p",
-                "x": "El nuevo juego cooperativo de simulación 'Scam With Your Friends' se lanzó en acceso anticipado en Steam el día 16 y escaló a lo más alto de la lista mundial de juegos más populares. Su premisa de montar estafas a una AI generativa y las situaciones divertidas que surgen durante el juego en equipo captaron la atención de los jugadores."
-              },
-              {
-                "t": "p",
-                "x": "Es un juego cooperativo ambientado en una banda de estafadores que se hace pasar por un centro de llamadas: hasta 6 jugadores asumen el papel de empleados de oficina y deben cumplir la cuota diaria de ingresos de todo el equipo dentro de un horario laboral fijo. Si no alcanzan la cuota, el jefe emite una dura evaluación de desempeño, y el monto objetivo sube a medida que pasan los días."
-              },
-              {
-                "t": "p",
-                "x": "El núcleo del juego son las llamadas en tiempo real con clientes de AI generativa y el hackeo. Tras contestar una llamada entrante, hay que hablar directamente al micrófono o escribir texto para reducir las sospechas del cliente de AI y llevarlo a dar números de tarjetas de regalo o a hacer transferencias bancarias. También es posible conectarse de forma remota al PC de la víctima para robar sus datos personales mientras la llamada la mantiene distraída."
-              },
-              {
-                "t": "video",
-                "yt": "e4BhBUryVFY"
-              },
-              {
-                "t": "p",
-                "x": "La valoración de los usuarios de Steam es 'Mayormente positiva' (705 reseñas, 71% positivas). Se destacaron como puntos fuertes engañar a los clientes de AI con mentiras improvisadas, sin un guion fijo, y la evaluación de desempeño del jefe al final de cada jornada mientras se ven juntos los mejores momentos de las llamadas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
-                "cap": "Captura de pantalla de Scam With Your Friends (Fuente de la imagen: página del juego en Steam)"
-              },
-              {
-                "t": "p",
-                "x": "Sin embargo, se señalaron problemas de optimización, como frecuentes fallos de respuesta por servidores inestables, errores de reconocimiento de voz y caídas de fotogramas. En particular, se mencionó que en idiomas distintos del inglés, incluido el coreano, los retrasos de respuesta son tan graves que dificultan jugar con normalidad. También surgió preocupación por un cierre prematuro del servicio o un paso a un modelo de suscripción de pago debido al costo de mantener los servidores de AI."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "en": {
-          "headline": "New co-op game about fooling AI\nclimbs to top of Steam charts",
-          "body": "A new co-op game about fooling generative AI hit the top of Steam's popularity ranks in early access.",
-          "mini_headline": "Co-op game that fools AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
-                "cap": "Steam's global TOP 10 most popular games as of 5 p.m. on October 16 (Source: Steam)"
-              },
-              {
-                "t": "p",
-                "x": "The new co-op simulation game 'Scam With Your Friends' launched in Steam early access on the 16th and climbed to the top of the global most popular games chart. Its premise of running scams on generative AI, combined with the funny situations that arise during co-op play, caught gamers' attention."
-              },
-              {
-                "t": "p",
-                "x": "Set in a scam ring posing as a call center, the co-op game puts up to 6 players in the role of office staff who must meet the whole team's daily revenue quota within set working hours. Missing the quota brings a harsh performance review from the boss, and the target amount rises as the days go by."
-              },
-              {
-                "t": "p",
-                "x": "Gameplay centers on real-time calls with generative AI customers and hacking. After picking up an incoming call, players must speak directly into a microphone or type text to ease the AI customer's suspicion and get them to hand over gift card numbers or make bank transfers. Players can also remotely access the victim's PC to steal personal information while the call keeps them distracted."
-              },
-              {
-                "t": "video",
-                "yt": "e4BhBUryVFY"
-              },
-              {
-                "t": "p",
-                "x": "Steam user reviews are 'Mostly Positive' (705 reviews, 71% positive). Reviewers singled out tricking AI customers with improvised lies and no set script, and the boss's performance review at the end of each workday, held while watching call highlights together."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
-                "cap": "Scam With Your Friends screenshot (Image source: the game's Steam page)"
-              },
-              {
-                "t": "p",
-                "x": "However, players pointed to optimization problems, including frequent unresponsiveness caused by unstable servers, voice recognition errors and frame drops. In particular, response delays in non-English languages, including Korean, were said to be severe enough to make normal play difficult. Some also raised concerns about an early shutdown or a switch to a paid subscription because of AI server costs."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AIをだます協力新作\nSteam人気で最上位",
-          "body": "生成AIをだます協力新作が、Steamの早期アクセスで人気最上位に入った。",
-          "mini_headline": "AIをだます協力ゲーム",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
-                "cap": "10月16日午後5時時点のSteam全世界人気ゲームTOP 10（出典：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "協力シミュレーションの新作『スキャム・ウィズ・ユア・フレンズ（Scam With Your Friends）』が16日にSteamで早期アクセス配信を開始し、全世界の人気ゲームで最上位に入った。生成AIを相手に詐欺を仕掛けるという設定と、協力プレイ中に起こる愉快な状況がかみ合い、ゲーマーの注目を集めた。"
-              },
-              {
-                "t": "p",
-                "x": "コールセンターを装った詐欺グループを舞台にした協力ゲームで、最大6人がオフィスの社員となり、決められた勤務時間内にチーム全体の1日の収益ノルマを達成しなければならない。ノルマを達成できなければ上司から厳しい人事評価が下され、日数が進むほど目標金額は上がっていく。"
-              },
-              {
-                "t": "p",
-                "x": "中心となるのは生成AIの顧客を相手にしたリアルタイム通話とハッキングだ。かかってきた電話に出たら、マイクで直接話すかテキストを入力してAI顧客の疑いを和らげ、ギフトカードの番号や口座振込を引き出す必要がある。通話で注意を引いている間に被害者のPCへリモート接続し、個人情報を抜き取る方法もある。"
-              },
-              {
-                "t": "video",
-                "yt": "e4BhBUryVFY"
-              },
-              {
-                "t": "p",
-                "x": "Steamのユーザー評価は「やや好評（705件、71%が好評）」だ。決まった台本なしにその場の嘘でAI顧客をだます過程や、1日の終わりに通話のハイライトを一緒に見ながら行われる上司の人事評価が見どころだと評価された。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
-                "cap": "スキャム・ウィズ・ユア・フレンズのスクリーンショット（画像出典：ゲームのSteamページ）"
-              },
-              {
-                "t": "p",
-                "x": "ただし、不安定なサーバーによる頻繁な無応答、音声認識の誤り、フレームレート低下など最適化の問題が指摘された。特に韓国語を含む英語以外の言語では応答の遅れがひどく、正常なプレイが難しいとの声もあった。AIサーバーの維持費による早期のサービス終了や、有料サブスクリプションへの移行を懸念する声も上がった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "欺骗AI的合作新作\n登上Steam热门前列",
-          "body": "一款欺骗生成式AI的合作新作以Steam抢先体验推出后跻身热门榜前列。",
-          "mini_headline": "欺骗AI的合作游戏",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
-                "cap": "截至10月16日下午5点的Steam全球最热门游戏TOP 10（资料来源：Steam）"
-              },
-              {
-                "t": "p",
-                "x": "合作模拟新作《Scam With Your Friends》于16日以Steam抢先体验形式推出后，跻身全球最热门游戏榜前列。以生成式AI为对象实施诈骗的设定，加上合作过程中产生的有趣状况，吸引了玩家的关注。"
-              },
-              {
-                "t": "p",
-                "x": "这是一款以伪装成呼叫中心的诈骗团伙为背景的合作游戏，最多6名玩家扮演办公室职员，须在规定的工作时间内完成全队的每日收益指标。若未完成指标，上司会给出严厉的考核评价，且随着天数推进，目标金额会不断提高。"
-              },
-              {
-                "t": "p",
-                "x": "游戏的核心是与生成式AI客户进行实时通话和黑客入侵。接起来电后，玩家需直接对着麦克风说话或输入文字，打消AI客户的疑虑，诱导对方提供礼品卡号码或进行转账。也可以在通话分散对方注意力时，远程接入受害者的PC窃取个人信息。"
-              },
-              {
-                "t": "video",
-                "yt": "e4BhBUryVFY"
-              },
-              {
-                "t": "p",
-                "x": "Steam用户评价为“多半好评（705人参与，71%好评）”。玩家认为，无固定剧本、凭即兴谎言骗过AI客户的过程，以及每天工作结束后一起观看通话精彩片段并由上司进行考核评价的环节，是游戏的看点。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
-                "cap": "Scam With Your Friends截图（图片来源：游戏Steam页面）"
-              },
-              {
-                "t": "p",
-                "x": "不过，服务器不稳定导致的频繁无响应、语音识别错误和掉帧等优化问题也被指出。尤其是包括韩语在内的非英语语言响应延迟严重，难以正常进行游戏。也有人担心AI服务器维护成本可能导致提前停服或转为付费订阅制。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Un juego para engañar a la AI\nen equipo, en lo alto de Steam",
-          "body": "Un nuevo juego cooperativo sobre engañar a la AI generativa llegó a lo más alto de Steam en acceso anticipado.",
-          "mini_headline": "Cooperativo para engañar a la AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/876/20261016172202.jpg",
-                "cap": "TOP 10 de los juegos más populares de Steam en todo el mundo a las 5 p. m. del 16 de octubre (Fuente: Steam)"
-              },
-              {
-                "t": "p",
-                "x": "El nuevo juego cooperativo de simulación 'Scam With Your Friends' se lanzó en acceso anticipado en Steam el día 16 y escaló a lo más alto de la lista mundial de juegos más populares. Su premisa de montar estafas a una AI generativa y las situaciones divertidas que surgen durante el juego en equipo captaron la atención de los jugadores."
-              },
-              {
-                "t": "p",
-                "x": "Es un juego cooperativo ambientado en una banda de estafadores que se hace pasar por un centro de llamadas: hasta 6 jugadores asumen el papel de empleados de oficina y deben cumplir la cuota diaria de ingresos de todo el equipo dentro de un horario laboral fijo. Si no alcanzan la cuota, el jefe emite una dura evaluación de desempeño, y el monto objetivo sube a medida que pasan los días."
-              },
-              {
-                "t": "p",
-                "x": "El núcleo del juego son las llamadas en tiempo real con clientes de AI generativa y el hackeo. Tras contestar una llamada entrante, hay que hablar directamente al micrófono o escribir texto para reducir las sospechas del cliente de AI y llevarlo a dar números de tarjetas de regalo o a hacer transferencias bancarias. También es posible conectarse de forma remota al PC de la víctima para robar sus datos personales mientras la llamada la mantiene distraída."
-              },
-              {
-                "t": "video",
-                "yt": "e4BhBUryVFY"
-              },
-              {
-                "t": "p",
-                "x": "La valoración de los usuarios de Steam es 'Mayormente positiva' (705 reseñas, 71% positivas). Se destacaron como puntos fuertes engañar a los clientes de AI con mentiras improvisadas, sin un guion fijo, y la evaluación de desempeño del jefe al final de cada jornada mientras se ven juntos los mejores momentos de las llamadas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/874/20261016172201.jpg",
-                "cap": "Captura de pantalla de Scam With Your Friends (Fuente de la imagen: página del juego en Steam)"
-              },
-              {
-                "t": "p",
-                "x": "Sin embargo, se señalaron problemas de optimización, como frecuentes fallos de respuesta por servidores inestables, errores de reconocimiento de voz y caídas de fotogramas. En particular, se mencionó que en idiomas distintos del inglés, incluido el coreano, los retrasos de respuesta son tan graves que dificultan jugar con normalidad. También surgió preocupación por un cierre prematuro del servicio o un paso a un modelo de suscripción de pago debido al costo de mantener los servidores de AI."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "games-oblivion-claude-fpsfix",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Oblivion FPS\n40%↑ Claude 모드",
-      "body": "Claude-built 모드가 Oblivion FPS를 40% 넘게 끌어올렸다.",
-      "mini_headline": "Claude 모드로 Oblivion FPS 상승",
-      "tool": "Games",
-      "source": "Wccftech",
-      "url": "https://wccftech.com/oblivion-remastered-mod-built-using-claude-ai-boosts-fps-by-over-40-and-drastically-reduces-stuttering-without-sacrificing-visual-quality/",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
-          },
-          {
-            "t": "p",
-            "x": "The Elder Scrolls IV: Oblivion Remastered는 출시 이후로 CPU 병목, 들쭉날쭉한 프레임 타임, 이동 중 끊김에 시달렸다. Reddit 사용자 LTSharpe는 Ryzen 7 5800X 시스템을 RTX 2070 SUPER에서 Radeon RX 9070 XT로 업그레이드하고도 문제가 그대로이자 Claude Opus 5.5에 도움을 청했다. Claude Opus 5.5는 게임 코드에서 근본적인 비효율 몇 가지를 짚어낸 것으로 알려졌다."
-          },
-          {
-            "t": "p",
-            "x": "이어 약 2주 반 동안 AI-assisted 리버스 엔지니어링과 프로파일링, 최적화 작업이 이어졌다. 전문 개발 경력이 없는 LTSharpe는 Claude에게 지시해 엔진 수준 최적화 약 40개를 만들었고, 이를 오픈소스 모드 Oblivion Remastered Performance Fix로 묶었다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
-          },
-          {
-            "t": "p",
-            "x": "알려진 바로는 이 게임이 매 프레임 해와 달의 조명을 새로 구성했고 불필요한 메모리 할당을 되풀이했으며 DirectX 12 명령 준비도 대부분 한 스레드에 몰려 있었다. 모드는 멀티스레딩과 메모리 관리를 손보면서도 Nanite, Lumen 같은 시각 설정은 그대로 둔다고 한다."
-          },
-          {
-            "t": "video",
-            "yt": "K8WkCz6cuHk"
-          },
-          {
-            "t": "p",
-            "x": "4K 환경에서 FSR Performance와 Frame Generation을 켜고 Imperial City를 비행하며 측정하자 평균 FPS는 72에서 102로(+41%) 올랐고, 50 ms를 넘는 끊김은 회당 19.5회에서 4.8회로 줄었다. Cheydinhal에서는 64 FPS에서 91 FPS로(+43%) 뛰었다. 다만 결과는 주로 Ryzen 7 5800X/RX 9070 XT 단일 시스템에서 나왔다. v1.0.0 베타에는 소스 코드와 벤치마크 도구가 함께 들어 있다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Claude-built Oblivion mod\nlifts FPS by over 40%",
-          "body": "Oblivion Remastered Performance Fix, built with Claude, raises FPS over 40% and sharply cuts stuttering.",
-          "mini_headline": "Claude mod lifts Oblivion FPS",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The Elder Scrolls IV: Oblivion Remastered has struggled with CPU bottlenecks, inconsistent frame times and traversal stuttering since launch. Reddit user LTSharpe, whose Ryzen 7 5800X system still struggled after upgrading from an RTX 2070 SUPER to a Radeon RX 9070 XT, turned to Claude Opus 5.5, which reportedly identified several fundamental inefficiencies in the game's code."
-              },
-              {
-                "t": "p",
-                "x": "Roughly two and a half weeks of AI-assisted reverse engineering, profiling and optimization followed. Despite no professional development background, LTSharpe directed Claude to produce approximately 40 engine-level optimizations, packaged into an open-source mod called Oblivion Remastered Performance Fix."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The game was reportedly rebuilding its sun and moon lighting every frame, with redundant memory allocations and DirectX 12 command preparation largely confined to a single thread. The mod uses better multithreading and memory management while reportedly preserving Nanite, Lumen and other visual settings."
-              },
-              {
-                "t": "video",
-                "yt": "K8WkCz6cuHk"
-              },
-              {
-                "t": "p",
-                "x": "In an Imperial City flythrough at 4K with FSR Performance and Frame Generation, average FPS rose from 72 to 102 (+41%) and hitches over 50 ms fell from 19.5 to 4.8 per run. Cheydinhal went from 64 to 91 FPS (+43%). Results come primarily from a single Ryzen 7 5800X/RX 9070 XT system, and the v1.0.0 beta ships with source code and benchmarking tools."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Oblivion FPS\n40%↑ Claude 모드",
-          "body": "Claude-built 모드가 Oblivion FPS를 40% 넘게 끌어올렸다.",
-          "mini_headline": "Claude 모드로 Oblivion FPS 상승",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The Elder Scrolls IV: Oblivion Remastered는 출시 이후로 CPU 병목, 들쭉날쭉한 프레임 타임, 이동 중 끊김에 시달렸다. Reddit 사용자 LTSharpe는 Ryzen 7 5800X 시스템을 RTX 2070 SUPER에서 Radeon RX 9070 XT로 업그레이드하고도 문제가 그대로이자 Claude Opus 5.5에 도움을 청했다. Claude Opus 5.5는 게임 코드에서 근본적인 비효율 몇 가지를 짚어낸 것으로 알려졌다."
-              },
-              {
-                "t": "p",
-                "x": "이어 약 2주 반 동안 AI-assisted 리버스 엔지니어링과 프로파일링, 최적화 작업이 이어졌다. 전문 개발 경력이 없는 LTSharpe는 Claude에게 지시해 엔진 수준 최적화 약 40개를 만들었고, 이를 오픈소스 모드 Oblivion Remastered Performance Fix로 묶었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
-              },
-              {
-                "t": "p",
-                "x": "알려진 바로는 이 게임이 매 프레임 해와 달의 조명을 새로 구성했고 불필요한 메모리 할당을 되풀이했으며 DirectX 12 명령 준비도 대부분 한 스레드에 몰려 있었다. 모드는 멀티스레딩과 메모리 관리를 손보면서도 Nanite, Lumen 같은 시각 설정은 그대로 둔다고 한다."
-              },
-              {
-                "t": "video",
-                "yt": "K8WkCz6cuHk"
-              },
-              {
-                "t": "p",
-                "x": "4K 환경에서 FSR Performance와 Frame Generation을 켜고 Imperial City를 비행하며 측정하자 평균 FPS는 72에서 102로(+41%) 올랐고, 50 ms를 넘는 끊김은 회당 19.5회에서 4.8회로 줄었다. Cheydinhal에서는 64 FPS에서 91 FPS로(+43%) 뛰었다. 다만 결과는 주로 Ryzen 7 5800X/RX 9070 XT 단일 시스템에서 나왔다. v1.0.0 베타에는 소스 코드와 벤치마크 도구가 함께 들어 있다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Mod Claude-built para Oblivion\nsube los FPS más de un 40%",
-          "body": "Oblivion Remastered Performance Fix, creado con Claude, sube los FPS más de un 40% y reduce mucho los tirones.",
-          "mini_headline": "Mod de Claude acelera Oblivion",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The Elder Scrolls IV: Oblivion Remastered arrastra desde su lanzamiento cuellos de botella de CPU, tiempos de fotograma irregulares y tirones al desplazarse. El usuario de Reddit LTSharpe, cuyo equipo con Ryzen 7 5800X seguía teniendo problemas tras pasar de una RTX 2070 SUPER a una Radeon RX 9070 XT, recurrió a Claude Opus 5.5, que, según se informa, identificó varias ineficiencias fundamentales en el código del juego."
-              },
-              {
-                "t": "p",
-                "x": "Siguieron unas dos semanas y media de ingeniería inversa, perfilado y optimización asistidos por IA (AI-assisted). Sin experiencia profesional en desarrollo, LTSharpe dirigió a Claude para producir unas 40 optimizaciones a nivel de motor, empaquetadas en un mod de código abierto llamado Oblivion Remastered Performance Fix."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Según se informa, el juego reconstruía la iluminación del sol y la luna en cada fotograma, con asignaciones de memoria redundantes y la preparación de comandos de DirectX 12 confinada en gran medida a un solo hilo. El mod mejora el multihilo y la gestión de memoria y, según se informa, conserva Nanite, Lumen y otros ajustes visuales."
-              },
-              {
-                "t": "video",
-                "yt": "K8WkCz6cuHk"
-              },
-              {
-                "t": "p",
-                "x": "En un recorrido aéreo por Imperial City a 4K con FSR Performance y Frame Generation, los FPS medios subieron de 72 a 102 (+41%) y los tirones de más de 50 ms bajaron de 19.5 a 4.8 por recorrido. Cheydinhal pasó de 64 a 91 FPS (+43%). Los resultados proceden principalmente de un único sistema Ryzen 7 5800X/RX 9070 XT, y la beta v1.0.0 incluye el código fuente y herramientas de benchmarking."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Oblivion改造MOD\nFPS 40%超向上",
-          "body": "Claude-builtのMODでOblivionのFPSが40%以上向上した。",
-          "mini_headline": "Claude製MODでOblivion高速化",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The Elder Scrolls IV: Oblivion Remastered は発売以来、CPUのボトルネック、不安定なフレームタイム、移動時のスタッターに悩まされてきた。RedditユーザーのLTSharpeは、RTX 2070 SUPERからRadeon RX 9070 XTへ乗り換えた後もRyzen 7 5800Xのシステムで問題が続いたため、Claude Opus 5.5に頼った。Claude Opus 5.5はゲームのコードにいくつかの根本的な非効率を見つけたとされる。"
-              },
-              {
-                "t": "p",
-                "x": "その後、約2週間半にわたるAI-assistedのリバースエンジニアリング、プロファイリング、最適化が続いた。プロの開発経験がないLTSharpeはClaudeに指示して約40のエンジンレベルの最適化を作らせ、オープンソースMOD「Oblivion Remastered Performance Fix」としてまとめた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
-              },
-              {
-                "t": "p",
-                "x": "同作は毎フレーム太陽と月のライティングを再構築しており、冗長なメモリ割り当てが発生し、DirectX 12のコマンド準備もほぼ単一スレッドに限られていたという。MODはマルチスレッド処理とメモリ管理を改善しつつ、NaniteやLumenなどのビジュアル設定は維持しているとされる。"
-              },
-              {
-                "t": "video",
-                "yt": "K8WkCz6cuHk"
-              },
-              {
-                "t": "p",
-                "x": "4K 環境でFSR PerformanceとFrame Generationを有効にしたImperial Cityのフライスルーでは、平均FPSが72から102へ（+41%）上がり、50 msを超えるヒッチは1回あたり19.5回から4.8回に減った。Cheydinhalでは64 FPSから91 FPSへ（+43%）向上した。結果は主にRyzen 7 5800X/RX 9070 XTの単一システムによるもので、v1.0.0ベータにはソースコードとベンチマークツールが付属する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Oblivion模组\nFPS提升逾40%",
-          "body": "Claude-built模组让Oblivion的FPS提升逾40%，卡顿明显减少。",
-          "mini_headline": "Claude模组提升Oblivion帧率",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The Elder Scrolls IV: Oblivion Remastered自发售以来一直受CPU瓶颈、帧时间不稳定和移动卡顿困扰。Reddit用户LTSharpe从RTX 2070 SUPER升级到Radeon RX 9070 XT后，其Ryzen 7 5800X系统依然表现不佳，于是求助于Claude Opus 5.5；据报道，后者在游戏代码中发现了几处根本性的低效问题。"
-              },
-              {
-                "t": "p",
-                "x": "随后是约两周半的AI-assisted逆向工程、性能分析与优化。尽管没有专业开发背景，LTSharpe指导Claude完成了约40项引擎级优化，并打包成名为Oblivion Remastered Performance Fix的开源模组。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
-              },
-              {
-                "t": "p",
-                "x": "据报道，游戏每一帧都在重建太阳和月亮的光照，存在冗余的内存分配，DirectX 12命令准备也大多局限于单个线程。该模组改进了多线程和内存管理，据称同时保留了Nanite、Lumen等画面设置。"
-              },
-              {
-                "t": "video",
-                "yt": "K8WkCz6cuHk"
-              },
-              {
-                "t": "p",
-                "x": "在4K 分辨率、开启FSR Performance和Frame Generation的Imperial City飞行测试中，平均FPS从72升至102（+41%），每轮超过50 ms的卡顿从19.5次降至4.8次。Cheydinhal从64 FPS升至91 FPS（+43%）。测试结果主要来自一台Ryzen 7 5800X/RX 9070 XT系统，v1.0.0测试版附带源代码和基准测试工具。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Oblivion FPS\n40%↑ Claude 모드",
-          "body": "Claude-built 모드가 Oblivion FPS를 40% 넘게 끌어올렸다.",
-          "mini_headline": "Claude 모드로 Oblivion FPS 상승",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The Elder Scrolls IV: Oblivion Remastered는 출시 이후 CPU 병목, 들쭉날쭉한 프레임 타임, 이동 중 끊김에 시달려 왔다. Reddit 사용자 LTSharpe는 RTX 2070 SUPER에서 Radeon RX 9070 XT로 업그레이드한 뒤에도 Ryzen 7 5800X 시스템에서 문제가 이어지자 Claude Opus 5.5를 찾았고, Claude Opus 5.5는 게임 코드에서 몇 가지 근본적인 비효율을 찾아낸 것으로 알려졌다."
-              },
-              {
-                "t": "p",
-                "x": "이후 약 2주 반 동안 AI-assisted 리버스 엔지니어링, 프로파일링, 최적화 작업이 이어졌다. 전문 개발 경력이 없는 LTSharpe는 Claude에게 지시해 엔진 수준 최적화 약 40개를 만들었고, 이를 오픈소스 모드 Oblivion Remastered Performance Fix로 묶었다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
-              },
-              {
-                "t": "p",
-                "x": "알려진 바에 따르면 이 게임은 매 프레임 해와 달의 조명을 다시 구성하고 있었고, 불필요한 메모리 할당이 반복됐으며 DirectX 12 명령 준비도 대부분 단일 스레드에 몰려 있었다. 모드는 멀티스레딩과 메모리 관리를 개선하면서도 Nanite, Lumen 등 시각 설정은 그대로 유지하는 것으로 전해졌다."
-              },
-              {
-                "t": "video",
-                "yt": "K8WkCz6cuHk"
-              },
-              {
-                "t": "p",
-                "x": "4K 환경에서 FSR Performance와 Frame Generation을 켜고 Imperial City를 비행하며 측정한 결과, 평균 FPS는 72에서 102로(+41%) 올랐고 50 ms를 넘는 끊김은 회당 19.5회에서 4.8회로 줄었다. Cheydinhal에서는 64 FPS에서 91 FPS로(+43%) 올랐다. 결과는 주로 Ryzen 7 5800X/RX 9070 XT 단일 시스템에서 나왔으며, v1.0.0 베타는 소스 코드와 벤치마크 도구를 함께 제공한다."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Mod Claude-built para Oblivion\nsube los FPS más de un 40%",
-          "body": "Oblivion Remastered Performance Fix, creado con Claude, sube los FPS más de un 40% y reduce mucho los tirones.",
-          "mini_headline": "Mod de Claude acelera Oblivion",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The Elder Scrolls IV: Oblivion Remastered arrastra desde su lanzamiento cuellos de botella de CPU, tiempos de fotograma irregulares y tirones al desplazarse. El usuario de Reddit LTSharpe, cuyo equipo con Ryzen 7 5800X seguía teniendo problemas tras pasar de una RTX 2070 SUPER a una Radeon RX 9070 XT, recurrió a Claude Opus 5.5, que, según se informa, identificó varias ineficiencias fundamentales en el código del juego."
-              },
-              {
-                "t": "p",
-                "x": "Siguieron unas dos semanas y media de ingeniería inversa, perfilado y optimización asistidos por IA (AI-assisted). Sin experiencia profesional en desarrollo, LTSharpe dirigió a Claude para producir unas 40 optimizaciones a nivel de motor, empaquetadas en un mod de código abierto llamado Oblivion Remastered Performance Fix."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Según se informa, el juego reconstruía la iluminación del sol y la luna en cada fotograma, con asignaciones de memoria redundantes y la preparación de comandos de DirectX 12 confinada en gran medida a un solo hilo. El mod mejora el multihilo y la gestión de memoria y, según se informa, conserva Nanite, Lumen y otros ajustes visuales."
-              },
-              {
-                "t": "video",
-                "yt": "K8WkCz6cuHk"
-              },
-              {
-                "t": "p",
-                "x": "En un recorrido aéreo por Imperial City a 4K con FSR Performance y Frame Generation, los FPS medios subieron de 72 a 102 (+41%) y los tirones de más de 50 ms bajaron de 19.5 a 4.8 por recorrido. Cheydinhal pasó de 64 a 91 FPS (+43%). Los resultados proceden principalmente de un único sistema Ryzen 7 5800X/RX 9070 XT, y la beta v1.0.0 incluye el código fuente y herramientas de benchmarking."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Oblivion改造MOD\nFPS 40%超向上",
-          "body": "Claude-builtのMODでOblivionのFPSが40%以上向上した。",
-          "mini_headline": "Claude製MODでOblivion高速化",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The Elder Scrolls IV: Oblivion Remastered は発売以来、CPUのボトルネック、不安定なフレームタイム、移動時のスタッターに悩まされてきた。RedditユーザーのLTSharpeは、RTX 2070 SUPERからRadeon RX 9070 XTへ乗り換えた後もRyzen 7 5800Xのシステムで問題が続いたため、Claude Opus 5.5に頼った。Claude Opus 5.5はゲームのコードにいくつかの根本的な非効率を見つけたとされる。"
-              },
-              {
-                "t": "p",
-                "x": "その後、約2週間半にわたるAI-assistedのリバースエンジニアリング、プロファイリング、最適化が続いた。プロの開発経験がないLTSharpeはClaudeに指示して約40のエンジンレベルの最適化を作らせ、オープンソースMOD「Oblivion Remastered Performance Fix」としてまとめた。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
-              },
-              {
-                "t": "p",
-                "x": "同作は毎フレーム太陽と月のライティングを再構築しており、冗長なメモリ割り当てが発生し、DirectX 12のコマンド準備もほぼ単一スレッドに限られていたという。MODはマルチスレッド処理とメモリ管理を改善しつつ、NaniteやLumenなどのビジュアル設定は維持しているとされる。"
-              },
-              {
-                "t": "video",
-                "yt": "K8WkCz6cuHk"
-              },
-              {
-                "t": "p",
-                "x": "4K 環境でFSR PerformanceとFrame Generationを有効にしたImperial Cityのフライスルーでは、平均FPSが72から102へ（+41%）上がり、50 msを超えるヒッチは1回あたり19.5回から4.8回に減った。Cheydinhalでは64 FPSから91 FPSへ（+43%）向上した。結果は主にRyzen 7 5800X/RX 9070 XTの単一システムによるもので、v1.0.0ベータにはソースコードとベンチマークツールが付属する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Oblivion模组\nFPS提升逾40%",
-          "body": "Claude-built模组让Oblivion的FPS提升逾40%，卡顿明显减少。",
-          "mini_headline": "Claude模组提升Oblivion帧率",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Feature-Image-15.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The Elder Scrolls IV: Oblivion Remastered自发售以来一直受CPU瓶颈、帧时间不稳定和移动卡顿困扰。Reddit用户LTSharpe从RTX 2070 SUPER升级到Radeon RX 9070 XT后，其Ryzen 7 5800X系统依然表现不佳，于是求助于Claude Opus 5.5；据报道，后者在游戏代码中发现了几处根本性的低效问题。"
-              },
-              {
-                "t": "p",
-                "x": "随后是约两周半的AI-assisted逆向工程、性能分析与优化。尽管没有专业开发背景，LTSharpe指导Claude完成了约40项引擎级优化，并打包成名为Oblivion Remastered Performance Fix的开源模组。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.wccftech.com/wp-content/uploads/2026/10/ORPF.jpg"
-              },
-              {
-                "t": "p",
-                "x": "据报道，游戏每一帧都在重建太阳和月亮的光照，存在冗余的内存分配，DirectX 12命令准备也大多局限于单个线程。该模组改进了多线程和内存管理，据称同时保留了Nanite、Lumen等画面设置。"
-              },
-              {
-                "t": "video",
-                "yt": "K8WkCz6cuHk"
-              },
-              {
-                "t": "p",
-                "x": "在4K 分辨率、开启FSR Performance和Frame Generation的Imperial City飞行测试中，平均FPS从72升至102（+41%），每轮超过50 ms的卡顿从19.5次降至4.8次。Cheydinhal从64 FPS升至91 FPS（+43%）。测试结果主要来自一台Ryzen 7 5800X/RX 9070 XT系统，v1.0.0测试版附带源代码和基准测试工具。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "games-unity-aijam-busan",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "유니티 AI 게임잼\n부산서 참가자 모집",
-      "body": "유니티와 게임산업협회가 지스타 전 24시간 AI 게임잼 참가자를 20일까지 모집한다.",
-      "mini_headline": "부산 유니티 AI 잼",
-      "tool": "Games",
-      "source": "게임메카",
-      "url": "https://www.gamemeca.com/view.php?gid=1781633",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -1657,345 +371,1231 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
-            "cap": "유니티 AI 게임잼 포스터(사진제공: 유니티)"
+            "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
           },
           {
             "t": "p",
-            "x": "유니티와 한국게임산업협회가 '유니티 AI 게임잼' 참가자를 10월 12일부터 20일까지 모집한다고 밝혔다. 이번 행사는 국내 최대 게임쇼인 지스타 2026 개막에 앞서 11월 18일부터 19일까지 부산 벡스코에서 24시간 무박 일정으로 열릴 예정이다."
+            "x": "Valve의 인디 게임·데모 축제 Steam Next Fest가 막을 올렸다. 올해는 성의 없는 게임이 평소보다 많아 보인다. ChatGPT에 대충 프롬프트를 넣어 뽑은 듯한 아트를 쓴 게임도, 아예 AI로 만든 AI-made 게임도 적지 않다."
           },
           {
             "t": "p",
-            "x": "참가 신청은 유니티 스퀘어에서 10월 20일까지 진행되며, 신청 규모에 따라 조기 마감될 수 있다. 전공이나 직무 경험에 관계없이 게임 개발과 창작에 관심 있는 누구나 지원할 수 있다. 유니티는 서류 심사를 거쳐 최종 참가자 55명을 선발할 계획이며, 팀은 현장에서 직접 구성된다."
+            "x": "Steam 서브레딧 이용자 ScalesGhost는 Discovery Queue를 더 세밀하게 조정하게 해 달라고 썼다. “AI-Generated 콘텐츠가 들어간 게임을 모두 걸러 내는 기능이 있었으면 한다(어차피 steam은 이미 이를 공개하도록 요구한다). 특정 태그도 제외하고 싶다.”"
           },
           {
             "t": "p",
-            "x": "오픈AI(OpenAI)와 메쉬AI(Meshy.ai)가 공식 스폰서로 참여한다. 참가자들은 유니티 CLI(Unity CLI)와 코덱스(Codex) 플러그인 등 유니티의 AI 기능을 활용할 수 있다. 유니티는 참가자 전원에게 50달러(한화 약 6만 7,500원) 상당의 AI 도구 활용 크레딧을 지급하며, 오픈AI는 크레딧과 소속 엔지니어의 현장 멘토링을, 메쉬AI는 텍스트나 이미지만으로 3D 에셋을 생성할 수 있는 크레딧을 제공한다."
+            "x": "Steam의 태그 체계는 이미 탄탄하지만 Valve는 5월에 이용자 정의 태그를 줄였다. 이런 필터가 생기려면 Valve가 'AI'를 태그로 넣어야 한다. AI가 “Next Fest를 망쳤다”며 Steam이 등록 지침을 더 엄격하게 바꾸길 바라는 이용자도 있었다."
           },
           {
             "t": "p",
-            "x": "수상팀에게는 부문에 따라 지스타 2026 현장의 유니티 부스 게임 전시 기회, 챗GPT 프로 1년 이용권, 유니티 글로벌 및 한국 공식 블로그 인터뷰 기회 등이 제공된다. 10월 27일에는 유니티 코리아 유튜브 라이브로 사전 웨비나가 열린다."
-          },
-          {
-            "t": "p",
-            "x": "송민석 유니티 코리아 대표이사는 \"AI는 아이디어를 게임으로 구현하는 속도를 높이고 창작자가 더 과감하고 다양한 시도를 할 수 있도록 돕는 든든한 파트너가 되고 있다\"고 말했다."
+            "x": "Valve는 오랫동안 큐레이션에 손을 놓은 채 알고리즘이 저품질 게임을 묻어 주길 기다려 왔다. 그사이 게임 개발에서 AI는 계속 퍼지는 중이다. Epic은 “AI-first” 방향을 좇으려고 Star Wars 슈터 출시를 미뤘고, Capcom은 RE Engine을 개선하려고 REX 프로그램에서 AI를 쓰는 것으로 알려졌다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "유니티 AI 게임잼\n부산서 참가자 모집",
-          "body": "유니티와 게임산업협회가 지스타 전 24시간 AI 게임잼 참가자를 20일까지 모집한다.",
-          "mini_headline": "부산 유니티 AI 잼",
+        "en": {
+          "headline": "Players want a no-AI filter\nas Next Fest fills with slop",
+          "body": "As Steam Next Fest fills with AI-made demos, players are asking Valve for a filter hiding games that disclose generative AI.",
+          "mini_headline": "Steam no-AI filter call",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
-                "cap": "유니티 AI 게임잼 포스터(사진제공: 유니티)"
+                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "유니티와 한국게임산업협회가 '유니티 AI 게임잼' 참가자를 10월 12일부터 20일까지 모집한다고 밝혔다. 이번 행사는 국내 최대 게임쇼인 지스타 2026 개막에 앞서 11월 18일부터 19일까지 부산 벡스코에서 24시간 무박 일정으로 열릴 예정이다."
+                "x": "Steam Next Fest, Valve's festival for indie games and demos, has started, and it seems to include more low-effort games than usual — many with art that looks like it came from a quick ChatGPT prompt, or that were flat-out generated with AI."
               },
               {
                 "t": "p",
-                "x": "참가 신청은 유니티 스퀘어에서 10월 20일까지 진행되며, 신청 규모에 따라 조기 마감될 수 있다. 전공이나 직무 경험에 관계없이 게임 개발과 창작에 관심 있는 누구나 지원할 수 있다. 유니티는 서류 심사를 거쳐 최종 참가자 55명을 선발할 계획이며, 팀은 현장에서 직접 구성된다."
+                "x": "On the Steam subreddit, user ScalesGhost asked for more control over the Discovery Queue: “I would like the ability to filter out all games that have AI-Generated content in them (after all, steam already requires you to disclose it), and also I'd like to exclude certain tags.”"
               },
               {
                 "t": "p",
-                "x": "오픈AI(OpenAI)와 메쉬AI(Meshy.ai)가 공식 스폰서로 참여한다. 참가자들은 유니티 CLI(Unity CLI)와 코덱스(Codex) 플러그인 등 유니티의 AI 기능을 활용할 수 있다. 유니티는 참가자 전원에게 50달러(한화 약 6만 7,500원) 상당의 AI 도구 활용 크레딧을 지급하며, 오픈AI는 크레딧과 소속 엔지니어의 현장 멘토링을, 메쉬AI는 텍스트나 이미지만으로 3D 에셋을 생성할 수 있는 크레딧을 제공한다."
+                "x": "Steam already has a robust tagging system, but Valve cut down user-defined tags in May; for such a filter to exist, Valve would have to add 'AI' as a tag. Other users complained that AI has “ruined Next Fest” and hoped Steam would implement stricter submission guidelines."
               },
               {
                 "t": "p",
-                "x": "수상팀에게는 부문에 따라 지스타 2026 현장의 유니티 부스 게임 전시 기회, 챗GPT 프로 1년 이용권, 유니티 글로벌 및 한국 공식 블로그 인터뷰 기회 등이 제공된다. 10월 27일에는 유니티 코리아 유튜브 라이브로 사전 웨비나가 열린다."
-              },
-              {
-                "t": "p",
-                "x": "송민석 유니티 코리아 대표이사는 \"AI는 아이디어를 게임으로 구현하는 속도를 높이고 창작자가 더 과감하고 다양한 시도를 할 수 있도록 돕는 든든한 파트너가 되고 있다\"고 말했다."
+                "x": "Valve has long taken a laissez-faire approach to curation, relying on the algorithm to bury shovelware. Meanwhile AI in game development keeps spreading: Epic delayed its Star Wars shooter to pursue an “AI-first” direction, and Capcom is reportedly using AI in its REX program to improve the RE Engine."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Unity AI game jam in Busan\nopens call for participants",
-          "body": "Unity and Korea's game industry association seek entrants by the 20th for a 24-hour AI game jam before G-STAR.",
-          "mini_headline": "Unity AI jam in Busan",
+        "ko": {
+          "headline": "슬롭 찬 Next Fest\nno-AI 필터 요구 나와",
+          "body": "Next Fest에 AI-made 데모가 쏟아지자 이용자들이 필터를 요구했다.",
+          "mini_headline": "Steam no-AI 필터 요구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
-                "cap": "Unity AI Game Jam poster (Image courtesy of Unity)"
+                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity and the Korea Association of Game Industry announced that they will recruit participants for the 'Unity AI Game Jam' from October 12 to 20. The event will be held as a 24-hour overnight session at BEXCO in Busan from November 18 to 19, ahead of the opening of G-STAR 2026, Korea's largest game show."
+                "x": "Valve의 인디 게임·데모 축제 Steam Next Fest가 막을 올렸다. 올해는 성의 없는 게임이 평소보다 많아 보인다. ChatGPT에 대충 프롬프트를 넣어 뽑은 듯한 아트를 쓴 게임도, 아예 AI로 만든 AI-made 게임도 적지 않다."
               },
               {
                 "t": "p",
-                "x": "Applications are open on Unity Square until October 20 and may close early depending on demand. Anyone interested in game development and creation can apply, regardless of major or work experience. Unity plans to select 55 final participants through a document review, and teams will be formed on site."
+                "x": "Steam 서브레딧 이용자 ScalesGhost는 Discovery Queue를 더 세밀하게 조정하게 해 달라고 썼다. “AI-Generated 콘텐츠가 들어간 게임을 모두 걸러 내는 기능이 있었으면 한다(어차피 steam은 이미 이를 공개하도록 요구한다). 특정 태그도 제외하고 싶다.”"
               },
               {
                 "t": "p",
-                "x": "OpenAI and Meshy.ai are taking part as official sponsors. Participants can use Unity's AI features, including Unity CLI and the Codex plugin. Unity will give every participant AI tool credits worth $50 (about 67,500 won), OpenAI will provide credits and on-site mentoring from its engineers, and Meshy.ai will provide credits for generating 3D assets from text or images alone."
+                "x": "Steam의 태그 체계는 이미 탄탄하지만 Valve는 5월에 이용자 정의 태그를 줄였다. 이런 필터가 생기려면 Valve가 'AI'를 태그로 넣어야 한다. AI가 “Next Fest를 망쳤다”며 Steam이 등록 지침을 더 엄격하게 바꾸길 바라는 이용자도 있었다."
               },
               {
                 "t": "p",
-                "x": "Depending on the category, winning teams will receive a chance to exhibit their game at Unity's booth at G-STAR 2026, a 1-year ChatGPT Pro subscription, and interview opportunities on Unity's global and Korean official blogs. A pre-event webinar will be held on October 27 via a Unity Korea YouTube live stream."
-              },
-              {
-                "t": "p",
-                "x": "Song Min-seok, CEO of Unity Korea, said, “AI is becoming a reliable partner that speeds up turning ideas into games and helps creators make bolder and more diverse attempts.”"
+                "x": "Valve는 오랫동안 큐레이션에 손을 놓은 채 알고리즘이 저품질 게임을 묻어 주길 기다려 왔다. 그사이 게임 개발에서 AI는 계속 퍼지는 중이다. Epic은 “AI-first” 방향을 좇으려고 Star Wars 슈터 출시를 미뤘고, Capcom은 RE Engine을 개선하려고 REX 프로그램에서 AI를 쓰는 것으로 알려졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unity AIゲームジャム\n釜山で参加者募集",
-          "body": "Unityとゲーム産業協会がG-STAR前の24時間AIゲームジャム参加者を20日まで募る。",
-          "mini_headline": "釜山でUnity AIジャム",
+          "headline": "Next Festに粗製乱造\nno-AIフィルター要望",
+          "body": "AI-madeデモが溢れ、プレイヤーがValveにフィルターを求めている。",
+          "mini_headline": "Steam no-AIフィルター要望",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
-                "cap": "Unity AIゲームジャムのポスター（写真提供：Unity）"
+                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unityと韓国ゲーム産業協会は、「Unity AIゲームジャム」の参加者を10月12日から20日まで募集すると発表した。イベントは、韓国最大のゲームショーであるG-STAR 2026の開幕に先立ち、11月18日から19日まで釜山のBEXCOで24時間の徹夜日程で開かれる予定だ。"
+                "x": "Valveのインディーゲームとデモの祭典Steam Next Festが始まった。今回は手抜きのゲームがいつもより多いようだ。ChatGPTに手早くプロンプトを入れて作ったようなアートのものや、丸ごとAIで生成されたAI-madeのゲームも多い。"
               },
               {
                 "t": "p",
-                "x": "参加申し込みはUnity Squareで10月20日まで受け付け、応募状況によっては早期に締め切られる場合がある。専攻や職務経験を問わず、ゲーム開発や創作に関心があれば誰でも応募できる。Unityは書類審査を経て最終参加者55人を選ぶ予定で、チームは現地で組まれる。"
+                "x": "Steamのサブレディットでは、ユーザーScalesGhostがDiscovery Queueをもっと細かく制御したいと求めた。「AI-Generatedコンテンツを含むゲームをすべて除外できる機能が欲しい(そもそもsteamは開示を義務づけている)。特定のタグも除外したい」"
               },
               {
                 "t": "p",
-                "x": "OpenAIとMeshy.aiが公式スポンサーとして参加する。参加者はUnity CLIやCodexプラグインなど、UnityのAI機能を活用できる。Unityは参加者全員に50ドル（約6万7,500ウォン）相当のAIツール用クレジットを支給し、OpenAIはクレジットと所属エンジニアによる現地メンタリングを、Meshy.aiはテキストや画像だけで3Dアセットを生成できるクレジットを提供する。"
+                "x": "Steamにはすでに強力なタグ機能があるが、Valveは5月にユーザー定義タグを削減した。こうしたフィルターを実現するには、Valveが「AI」をタグとして追加する必要がある。ほかのユーザーはAIが「Next Festを台無しにした」と不満を述べ、Steamがより厳しい登録ガイドラインを導入することを望んだ。"
               },
               {
                 "t": "p",
-                "x": "受賞チームには部門に応じて、G-STAR 2026会場のUnityブースでのゲーム展示の機会、ChatGPT Proの1年間利用権、Unityのグローバルおよび韓国公式ブログでのインタビューの機会などが与えられる。10月27日にはUnity KoreaのYouTubeライブで事前ウェビナーが開かれる。"
-              },
-              {
-                "t": "p",
-                "x": "Unity Koreaのソン・ミンソク代表取締役は「AIは、アイデアをゲームとして形にするスピードを高め、クリエイターがより大胆で多様な挑戦をできるよう支える心強いパートナーになりつつある」と述べた。"
+                "x": "Valveは長くキュレーションに自由放任の姿勢をとり、低品質なゲームはアルゴリズムで埋もれさせてきた。一方でゲーム開発へのAIの浸透は続いている。Epicは「AI-first」の方針を進めるためStar Warsのシューターを延期し、CapcomはRE Engineを改良するREXプログラムでAIを使っていると報じられている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unity AI游戏Jam\n釜山招募参赛者",
-          "body": "Unity与游戏产业协会招募G-STAR前的24小时AI游戏Jam参赛者，截至20日。",
-          "mini_headline": "釜山Unity AI游戏Jam",
+          "headline": "Next Fest劣作泛滥\n玩家要求no-AI过滤",
+          "body": "Steam Next Fest涌现大量AI-made试玩版，玩家要求Valve提供过滤器。",
+          "mini_headline": "Steam no-AI过滤呼声",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
-                "cap": "Unity AI游戏Jam海报（图片提供：Unity）"
+                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity与韩国游戏产业协会宣布，将于10月12日至20日招募“Unity AI游戏Jam”参赛者。活动将在韩国最大游戏展G-STAR 2026开幕前，于11月18日至19日在釜山BEXCO以24小时通宵形式举行。"
+                "x": "Valve面向独立游戏和试玩版的活动Steam Next Fest已经开幕，粗制滥造的游戏似乎比往常更多——不少作品的美术像是随手用ChatGPT提示词生成的，或者干脆就是用AI生成的AI-made游戏。"
               },
               {
                 "t": "p",
-                "x": "报名通过Unity Square进行，截至10月20日，视报名情况可能提前截止。无论专业或工作经历，凡对游戏开发和创作感兴趣者均可报名。Unity计划经书面审核选出最终55名参赛者，团队将在现场组建。"
+                "x": "在Steam的subreddit上，用户ScalesGhost希望能更好地控制Discovery Queue：“我希望能过滤掉所有含有AI-Generated内容的游戏（毕竟steam已经要求披露这一点），我还想排除某些标签。”"
               },
               {
                 "t": "p",
-                "x": "OpenAI和Meshy.ai作为官方赞助商参与。参赛者可使用Unity CLI、Codex插件等Unity的AI功能。Unity将向全体参赛者发放价值50美元（约合6万7,500韩元）的AI工具使用额度，OpenAI提供额度及其工程师的现场指导，Meshy.ai则提供仅凭文字或图片即可生成3D素材的额度。"
+                "x": "Steam已有一套完善的标签系统，但Valve在5月削减了用户自定义标签；要实现这样的过滤器，Valve必须把“AI”加为标签。其他用户抱怨AI“毁了Next Fest”，希望Steam实行更严格的提交准则。"
               },
               {
                 "t": "p",
-                "x": "获奖团队将根据所获奖项，获得在G-STAR 2026现场Unity展位展出游戏的机会、ChatGPT Pro 1年使用权，以及在Unity全球和韩国官方博客接受采访的机会等。10月27日还将通过Unity Korea的YouTube直播举行赛前网络研讨会。"
-              },
-              {
-                "t": "p",
-                "x": "Unity Korea代表理事宋珉锡表示：“AI正成为可靠的伙伴，它加快了把创意变成游戏的速度，帮助创作者进行更大胆、更多样的尝试。”"
+                "x": "Valve长期对内容筛选采取放任态度，依靠算法埋没劣质游戏。与此同时，AI在游戏开发中持续扩散：Epic为追求“AI-first”方向推迟了旗下Star Wars射击游戏，据报道Capcom正在REX项目中使用AI来改进RE Engine。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Game jam de AI de Unity\nbusca participantes en Busan",
-          "body": "Unity y la asociación del sector abren hasta el 20 la inscripción a una game jam de AI de 24 horas previa a G-STAR.",
-          "mini_headline": "Game jam de AI de Unity en Busan",
+          "headline": "Jugadores piden un filtro no-AI\nante el slop en Next Fest",
+          "body": "Con Next Fest lleno de demos AI-made, los jugadores piden a Valve un filtro que oculte juegos con IA generativa.",
+          "mini_headline": "Piden filtro no-AI en Steam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
-                "cap": "Póster de la Unity AI Game Jam (Imagen cedida por Unity)"
+                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity y la Asociación de la Industria del Juego de Corea anunciaron que reclutarán participantes para la 'Unity AI Game Jam' del 12 al 20 de octubre. El evento se celebrará del 18 al 19 de noviembre en BEXCO, en Busan, en una jornada continua de 24 horas, antes de la apertura de G-STAR 2026, la mayor feria de videojuegos del país."
+                "x": "Steam Next Fest, el festival de Valve para juegos independientes y demos, ya comenzó, y parece incluir más juegos de bajo esfuerzo de lo habitual: muchos con arte que parece salido de un prompt rápido de ChatGPT, o directamente juegos AI-made, generados con IA."
               },
               {
                 "t": "p",
-                "x": "Las inscripciones están abiertas en Unity Square hasta el 20 de octubre y podrían cerrarse antes según la demanda. Puede inscribirse cualquier persona interesada en el desarrollo y la creación de juegos, sin importar su formación o experiencia laboral. Unity prevé seleccionar a 55 participantes finales tras una revisión de solicitudes, y los equipos se formarán en el lugar."
+                "x": "En el subreddit de Steam, el usuario ScalesGhost pidió más control sobre la Discovery Queue: “Me gustaría poder filtrar todos los juegos que tengan contenido AI-Generated (al fin y al cabo, steam ya exige declararlo), y también me gustaría excluir ciertas etiquetas.”"
               },
               {
                 "t": "p",
-                "x": "OpenAI y Meshy.ai participan como patrocinadores oficiales. Los participantes podrán usar las funciones de AI de Unity, como Unity CLI y el plugin de Codex. Unity entregará a cada participante créditos para herramientas de AI por valor de 50 dólares (unos 67,500 wones), OpenAI ofrecerá créditos y mentoría presencial de sus ingenieros, y Meshy.ai aportará créditos para generar recursos 3D solo a partir de texto o imágenes."
+                "x": "Steam ya tiene un sólido sistema de etiquetas, pero Valve recortó las etiquetas definidas por los usuarios en mayo; para que exista un filtro así, Valve tendría que añadir 'AI' como etiqueta. Otros usuarios se quejaron de que la IA ha “arruinado Next Fest” y esperan que Steam aplique normas de envío más estrictas."
               },
               {
                 "t": "p",
-                "x": "Según la categoría, los equipos ganadores tendrán la oportunidad de exhibir su juego en el stand de Unity en G-STAR 2026, una suscripción de 1 año a ChatGPT Pro y entrevistas en los blogs oficiales global y coreano de Unity. El 27 de octubre se celebrará un seminario web previo en directo en el canal de YouTube de Unity Korea."
-              },
-              {
-                "t": "p",
-                "x": "Song Min-seok, director ejecutivo de Unity Korea, afirmó: “La AI se está convirtiendo en un socio sólido que acelera la conversión de ideas en juegos y ayuda a los creadores a hacer intentos más audaces y diversos”."
+                "x": "Valve lleva tiempo con un enfoque de laissez-faire en la curación y confía en el algoritmo para enterrar el shovelware. Mientras tanto, la IA sigue extendiéndose en el desarrollo de juegos: Epic retrasó su shooter de Star Wars para seguir una dirección “AI-first”, y Capcom estaría usando IA en su programa REX para mejorar el RE Engine."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Unity AI game jam in Busan\nopens call for participants",
-          "body": "Unity and Korea's game industry association seek entrants by the 20th for a 24-hour AI game jam before G-STAR.",
-          "mini_headline": "Unity AI jam in Busan",
+        "ko": {
+          "headline": "슬롭 찬 Next Fest\nno-AI 필터 요구 나와",
+          "body": "Next Fest에 AI-made 데모가 쏟아지자 이용자들이 필터를 요구했다.",
+          "mini_headline": "Steam no-AI 필터 요구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
-                "cap": "Unity AI Game Jam poster (Image courtesy of Unity)"
+                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity and the Korea Association of Game Industry announced that they will recruit participants for the 'Unity AI Game Jam' from October 12 to 20. The event will be held as a 24-hour overnight session at BEXCO in Busan from November 18 to 19, ahead of the opening of G-STAR 2026, Korea's largest game show."
+                "x": "Valve의 인디 게임·데모 축제인 Steam Next Fest가 시작됐다. 올해는 성의 없는 게임이 평소보다 많아 보인다. ChatGPT에 대충 프롬프트를 넣어 뽑은 듯한 아트를 쓰거나, 아예 AI로 생성한 AI-made 게임이 적지 않다."
               },
               {
                 "t": "p",
-                "x": "Applications are open on Unity Square until October 20 and may close early depending on demand. Anyone interested in game development and creation can apply, regardless of major or work experience. Unity plans to select 55 final participants through a document review, and teams will be formed on site."
+                "x": "Steam 서브레딧에서 이용자 ScalesGhost는 Discovery Queue를 더 세밀하게 조정하게 해 달라고 했다. “AI-Generated 콘텐츠가 들어간 게임을 모두 걸러 내는 기능이 있었으면 한다(어차피 steam은 이미 이를 공개하도록 요구한다). 특정 태그도 제외하고 싶다.”"
               },
               {
                 "t": "p",
-                "x": "OpenAI and Meshy.ai are taking part as official sponsors. Participants can use Unity's AI features, including Unity CLI and the Codex plugin. Unity will give every participant AI tool credits worth $50 (about 67,500 won), OpenAI will provide credits and on-site mentoring from its engineers, and Meshy.ai will provide credits for generating 3D assets from text or images alone."
+                "x": "Steam에는 이미 탄탄한 태그 체계가 있지만, Valve는 5월에 이용자 정의 태그를 줄였다. 이런 필터가 생기려면 Valve가 'AI'를 태그로 추가해야 한다. 다른 이용자들은 AI가 “Next Fest를 망쳤다”고 불평하며 Steam이 더 엄격한 등록 지침을 도입하길 바랐다."
               },
               {
                 "t": "p",
-                "x": "Depending on the category, winning teams will receive a chance to exhibit their game at Unity's booth at G-STAR 2026, a 1-year ChatGPT Pro subscription, and interview opportunities on Unity's global and Korean official blogs. A pre-event webinar will be held on October 27 via a Unity Korea YouTube live stream."
-              },
-              {
-                "t": "p",
-                "x": "Song Min-seok, CEO of Unity Korea, said, “AI is becoming a reliable partner that speeds up turning ideas into games and helps creators make bolder and more diverse attempts.”"
+                "x": "Valve는 오랫동안 큐레이션에 방임적인 태도를 취하며 알고리즘이 저품질 게임을 묻어 주길 기대해 왔다. 그사이 게임 개발에서 AI는 계속 퍼지고 있다. Epic은 “AI-first” 방향을 추구하려고 Star Wars 슈터 출시를 미뤘고, Capcom은 RE Engine 개선을 위해 REX 프로그램에서 AI를 쓰는 것으로 알려졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unity AIゲームジャム\n釜山で参加者募集",
-          "body": "Unityとゲーム産業協会がG-STAR前の24時間AIゲームジャム参加者を20日まで募る。",
-          "mini_headline": "釜山でUnity AIジャム",
+          "headline": "Next Festに粗製乱造\nno-AIフィルター要望",
+          "body": "AI-madeデモが溢れ、プレイヤーがValveにフィルターを求めている。",
+          "mini_headline": "Steam no-AIフィルター要望",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
-                "cap": "Unity AIゲームジャムのポスター（写真提供：Unity）"
+                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unityと韓国ゲーム産業協会は、「Unity AIゲームジャム」の参加者を10月12日から20日まで募集すると発表した。イベントは、韓国最大のゲームショーであるG-STAR 2026の開幕に先立ち、11月18日から19日まで釜山のBEXCOで24時間の徹夜日程で開かれる予定だ。"
+                "x": "Valveのインディーゲームとデモの祭典Steam Next Festが始まった。今回は手抜きのゲームがいつもより多いようだ。ChatGPTに手早くプロンプトを入れて作ったようなアートのものや、丸ごとAIで生成されたAI-madeのゲームも多い。"
               },
               {
                 "t": "p",
-                "x": "参加申し込みはUnity Squareで10月20日まで受け付け、応募状況によっては早期に締め切られる場合がある。専攻や職務経験を問わず、ゲーム開発や創作に関心があれば誰でも応募できる。Unityは書類審査を経て最終参加者55人を選ぶ予定で、チームは現地で組まれる。"
+                "x": "Steamのサブレディットでは、ユーザーScalesGhostがDiscovery Queueをもっと細かく制御したいと求めた。「AI-Generatedコンテンツを含むゲームをすべて除外できる機能が欲しい(そもそもsteamは開示を義務づけている)。特定のタグも除外したい」"
               },
               {
                 "t": "p",
-                "x": "OpenAIとMeshy.aiが公式スポンサーとして参加する。参加者はUnity CLIやCodexプラグインなど、UnityのAI機能を活用できる。Unityは参加者全員に50ドル（約6万7,500ウォン）相当のAIツール用クレジットを支給し、OpenAIはクレジットと所属エンジニアによる現地メンタリングを、Meshy.aiはテキストや画像だけで3Dアセットを生成できるクレジットを提供する。"
+                "x": "Steamにはすでに強力なタグ機能があるが、Valveは5月にユーザー定義タグを削減した。こうしたフィルターを実現するには、Valveが「AI」をタグとして追加する必要がある。ほかのユーザーはAIが「Next Festを台無しにした」と不満を述べ、Steamがより厳しい登録ガイドラインを導入することを望んだ。"
               },
               {
                 "t": "p",
-                "x": "受賞チームには部門に応じて、G-STAR 2026会場のUnityブースでのゲーム展示の機会、ChatGPT Proの1年間利用権、Unityのグローバルおよび韓国公式ブログでのインタビューの機会などが与えられる。10月27日にはUnity KoreaのYouTubeライブで事前ウェビナーが開かれる。"
-              },
-              {
-                "t": "p",
-                "x": "Unity Koreaのソン・ミンソク代表取締役は「AIは、アイデアをゲームとして形にするスピードを高め、クリエイターがより大胆で多様な挑戦をできるよう支える心強いパートナーになりつつある」と述べた。"
+                "x": "Valveは長くキュレーションに自由放任の姿勢をとり、低品質なゲームはアルゴリズムで埋もれさせてきた。一方でゲーム開発へのAIの浸透は続いている。Epicは「AI-first」の方針を進めるためStar Warsのシューターを延期し、CapcomはRE Engineを改良するREXプログラムでAIを使っていると報じられている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unity AI游戏Jam\n釜山招募参赛者",
-          "body": "Unity与游戏产业协会招募G-STAR前的24小时AI游戏Jam参赛者，截至20日。",
-          "mini_headline": "釜山Unity AI游戏Jam",
+          "headline": "Next Fest劣作泛滥\n玩家要求no-AI过滤",
+          "body": "Steam Next Fest涌现大量AI-made试玩版，玩家要求Valve提供过滤器。",
+          "mini_headline": "Steam no-AI过滤呼声",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
-                "cap": "Unity AI游戏Jam海报（图片提供：Unity）"
+                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity与韩国游戏产业协会宣布，将于10月12日至20日招募“Unity AI游戏Jam”参赛者。活动将在韩国最大游戏展G-STAR 2026开幕前，于11月18日至19日在釜山BEXCO以24小时通宵形式举行。"
+                "x": "Valve面向独立游戏和试玩版的活动Steam Next Fest已经开幕，粗制滥造的游戏似乎比往常更多——不少作品的美术像是随手用ChatGPT提示词生成的，或者干脆就是用AI生成的AI-made游戏。"
               },
               {
                 "t": "p",
-                "x": "报名通过Unity Square进行，截至10月20日，视报名情况可能提前截止。无论专业或工作经历，凡对游戏开发和创作感兴趣者均可报名。Unity计划经书面审核选出最终55名参赛者，团队将在现场组建。"
+                "x": "在Steam的subreddit上，用户ScalesGhost希望能更好地控制Discovery Queue：“我希望能过滤掉所有含有AI-Generated内容的游戏（毕竟steam已经要求披露这一点），我还想排除某些标签。”"
               },
               {
                 "t": "p",
-                "x": "OpenAI和Meshy.ai作为官方赞助商参与。参赛者可使用Unity CLI、Codex插件等Unity的AI功能。Unity将向全体参赛者发放价值50美元（约合6万7,500韩元）的AI工具使用额度，OpenAI提供额度及其工程师的现场指导，Meshy.ai则提供仅凭文字或图片即可生成3D素材的额度。"
+                "x": "Steam已有一套完善的标签系统，但Valve在5月削减了用户自定义标签；要实现这样的过滤器，Valve必须把“AI”加为标签。其他用户抱怨AI“毁了Next Fest”，希望Steam实行更严格的提交准则。"
               },
               {
                 "t": "p",
-                "x": "获奖团队将根据所获奖项，获得在G-STAR 2026现场Unity展位展出游戏的机会、ChatGPT Pro 1年使用权，以及在Unity全球和韩国官方博客接受采访的机会等。10月27日还将通过Unity Korea的YouTube直播举行赛前网络研讨会。"
-              },
-              {
-                "t": "p",
-                "x": "Unity Korea代表理事宋珉锡表示：“AI正成为可靠的伙伴，它加快了把创意变成游戏的速度，帮助创作者进行更大胆、更多样的尝试。”"
+                "x": "Valve长期对内容筛选采取放任态度，依靠算法埋没劣质游戏。与此同时，AI在游戏开发中持续扩散：Epic为追求“AI-first”方向推迟了旗下Star Wars射击游戏，据报道Capcom正在REX项目中使用AI来改进RE Engine。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Game jam de AI de Unity\nbusca participantes en Busan",
-          "body": "Unity y la asociación del sector abren hasta el 20 la inscripción a una game jam de AI de 24 horas previa a G-STAR.",
-          "mini_headline": "Game jam de AI de Unity en Busan",
+          "headline": "Jugadores piden un filtro no-AI\nante el slop en Next Fest",
+          "body": "Con Next Fest lleno de demos AI-made, los jugadores piden a Valve un filtro que oculte juegos con IA generativa.",
+          "mini_headline": "Piden filtro no-AI en Steam",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.gamemeca.com/data_center/344/370/20261012114424.jpg",
-                "cap": "Póster de la Unity AI Game Jam (Imagen cedida por Unity)"
+                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Unity y la Asociación de la Industria del Juego de Corea anunciaron que reclutarán participantes para la 'Unity AI Game Jam' del 12 al 20 de octubre. El evento se celebrará del 18 al 19 de noviembre en BEXCO, en Busan, en una jornada continua de 24 horas, antes de la apertura de G-STAR 2026, la mayor feria de videojuegos del país."
+                "x": "Steam Next Fest, el festival de Valve para juegos independientes y demos, ya comenzó, y parece incluir más juegos de bajo esfuerzo de lo habitual: muchos con arte que parece salido de un prompt rápido de ChatGPT, o directamente juegos AI-made, generados con IA."
               },
               {
                 "t": "p",
-                "x": "Las inscripciones están abiertas en Unity Square hasta el 20 de octubre y podrían cerrarse antes según la demanda. Puede inscribirse cualquier persona interesada en el desarrollo y la creación de juegos, sin importar su formación o experiencia laboral. Unity prevé seleccionar a 55 participantes finales tras una revisión de solicitudes, y los equipos se formarán en el lugar."
+                "x": "En el subreddit de Steam, el usuario ScalesGhost pidió más control sobre la Discovery Queue: “Me gustaría poder filtrar todos los juegos que tengan contenido AI-Generated (al fin y al cabo, steam ya exige declararlo), y también me gustaría excluir ciertas etiquetas.”"
               },
               {
                 "t": "p",
-                "x": "OpenAI y Meshy.ai participan como patrocinadores oficiales. Los participantes podrán usar las funciones de AI de Unity, como Unity CLI y el plugin de Codex. Unity entregará a cada participante créditos para herramientas de AI por valor de 50 dólares (unos 67,500 wones), OpenAI ofrecerá créditos y mentoría presencial de sus ingenieros, y Meshy.ai aportará créditos para generar recursos 3D solo a partir de texto o imágenes."
+                "x": "Steam ya tiene un sólido sistema de etiquetas, pero Valve recortó las etiquetas definidas por los usuarios en mayo; para que exista un filtro así, Valve tendría que añadir 'AI' como etiqueta. Otros usuarios se quejaron de que la IA ha “arruinado Next Fest” y esperan que Steam aplique normas de envío más estrictas."
               },
               {
                 "t": "p",
-                "x": "Según la categoría, los equipos ganadores tendrán la oportunidad de exhibir su juego en el stand de Unity en G-STAR 2026, una suscripción de 1 año a ChatGPT Pro y entrevistas en los blogs oficiales global y coreano de Unity. El 27 de octubre se celebrará un seminario web previo en directo en el canal de YouTube de Unity Korea."
+                "x": "Valve lleva tiempo con un enfoque de laissez-faire en la curación y confía en el algoritmo para enterrar el shovelware. Mientras tanto, la IA sigue extendiéndose en el desarrollo de juegos: Epic retrasó su shooter de Star Wars para seguir una dirección “AI-first”, y Capcom estaría usando IA en su programa REX para mejorar el RE Engine."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "games-finals-ai-commentary",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "The Finals에\n닉네임 부르는 AI 해설",
+      "body": "The Finals 해설 Scott과 June이 AI로 플레이어 이름을 부른다.",
+      "mini_headline": "The Finals AI 아나운서",
+      "tool": "Games",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/fps/the-finals-adding-real-time-ai-commentary-in-new-update-thatll-call-out-peoples-usernames-a-feature-the-devs-will-almost-certainly-regret/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "eA9_Q6d2H-g"
+          },
+          {
+            "t": "p",
+            "x": "Arc Raiders의 전작이 AI를 빌려 중계를 한층 역동적으로 바꾼다. Embark Studios가 대형 익스트랙션 슈터보다 먼저 내놓은 멀티플레이 FPS The Finals에서는 게임 속 실황 중계가 플레이어를 실시간으로 알아본다."
+          },
+          {
+            "t": "p",
+            "x": "개발팀은 짧은 영상으로 기능을 공개했다. The Finals를 하면 들리는 두 목소리 Scott과 June이 누군가 멋진 플레이를 할 때마다 그 닉네임을 부르기 시작한다. 그냥 “좋은 헤드샷이네요”가 아니라 “[Player]가 멋진 헤드샷을 기록했습니다”라는 말을 듣게 된다."
+          },
+          {
+            "t": "p",
+            "x": "처음에는 개발진이 기술을 시험해 볼 수 있게 이런 멘트를 비교적 드물게 내보낸다. The Finals 오디오 디렉터 Carl Strandberg는 “범위를 좁게 유지하면 그가 실제로 하는 말을 다듬을 수 있다”며 “제대로 들리는지, 우리 모두가 알고 사랑하는 그 Scotty답게 들리는지 확인할 수 있다”고 설명했다."
+          },
+          {
+            "t": "p",
+            "x": "목소리 자체가 사실상 자동 텍스트 음성 변환(text-to-speech)이라서 이 모든 게 AI로 돌아간다. 중계에는 이미 이 기술이 쓰이고 있다. 몇 년 전 팬들이 이를 알아챘을 때 Embark는 비판을 받았다."
+          },
+          {
+            "t": "p",
+            "x": "기능은 10월 20일 Prime Time 업데이트에 들어간다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "The Finals adds AI commentary\nthat calls out usernames",
+          "body": "Embark is adding real-time AI commentary to The Finals, with announcers Scott and June naming players after big plays.",
+          "mini_headline": "The Finals AI announcers",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eA9_Q6d2H-g"
               },
               {
                 "t": "p",
-                "x": "Song Min-seok, director ejecutivo de Unity Korea, afirmó: “La AI se está convirtiendo en un socio sólido que acelera la conversión de ideas en juegos y ayuda a los creadores a hacer intentos más audaces y diversos”."
+                "x": "The predecessor to Arc Raiders is bringing in some dynamic commentary through the power of AI. The Finals, the multiplayer FPS Embark Studios released before its mammoth extraction shooter, is introducing a way to recognize players in real time through in-game play-by-play."
+              },
+              {
+                "t": "p",
+                "x": "The team revealed the feature in a short video. Essentially, Scott and June, the two voices you hear while playing The Finals, will start mentioning people's nicknames whenever they do something cool. So, instead of just hearing, “And that's a good headshot,” you'll get, “[Player] just scored a good headshot.”"
+              },
+              {
+                "t": "p",
+                "x": "Initially, the list of ways you'll hear this will be relatively short, to help the devs test the technology. “Keeping it narrow means we can curate what he actually says,” explains Carl Strandberg, audio director on The Finals. “Make sure it sounds good, and like the Scotty we all know and love.”"
+              },
+              {
+                "t": "p",
+                "x": "This is all powered through AI, since the voice is essentially performing an automatic text-to-speech function. The commentary already uses this technology, and Embark took some flak when the fanbase learned about that a few years ago."
+              },
+              {
+                "t": "p",
+                "x": "It arrives in the Prime Time update on October 20."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "The Finals에\n닉네임 부르는 AI 해설",
+          "body": "The Finals 해설 Scott과 June이 AI로 플레이어 이름을 부른다.",
+          "mini_headline": "The Finals AI 아나운서",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eA9_Q6d2H-g"
+              },
+              {
+                "t": "p",
+                "x": "Arc Raiders의 전작이 AI를 빌려 중계를 한층 역동적으로 바꾼다. Embark Studios가 대형 익스트랙션 슈터보다 먼저 내놓은 멀티플레이 FPS The Finals에서는 게임 속 실황 중계가 플레이어를 실시간으로 알아본다."
+              },
+              {
+                "t": "p",
+                "x": "개발팀은 짧은 영상으로 기능을 공개했다. The Finals를 하면 들리는 두 목소리 Scott과 June이 누군가 멋진 플레이를 할 때마다 그 닉네임을 부르기 시작한다. 그냥 “좋은 헤드샷이네요”가 아니라 “[Player]가 멋진 헤드샷을 기록했습니다”라는 말을 듣게 된다."
+              },
+              {
+                "t": "p",
+                "x": "처음에는 개발진이 기술을 시험해 볼 수 있게 이런 멘트를 비교적 드물게 내보낸다. The Finals 오디오 디렉터 Carl Strandberg는 “범위를 좁게 유지하면 그가 실제로 하는 말을 다듬을 수 있다”며 “제대로 들리는지, 우리 모두가 알고 사랑하는 그 Scotty답게 들리는지 확인할 수 있다”고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "목소리 자체가 사실상 자동 텍스트 음성 변환(text-to-speech)이라서 이 모든 게 AI로 돌아간다. 중계에는 이미 이 기술이 쓰이고 있다. 몇 년 전 팬들이 이를 알아챘을 때 Embark는 비판을 받았다."
+              },
+              {
+                "t": "p",
+                "x": "기능은 10월 20일 Prime Time 업데이트에 들어간다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "The Finalsに\nユーザー名を呼ぶAI実況",
+          "body": "The Finalsの実況役ScottとJuneが、AIで活躍したプレイヤーの名を呼ぶ。",
+          "mini_headline": "The FinalsのAI実況",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eA9_Q6d2H-g"
+              },
+              {
+                "t": "p",
+                "x": "Arc Raidersの前身となる作品が、AIの力でダイナミックな実況を取り入れる。Embark Studiosが大型エクストラクションシューターより先にリリースしたマルチプレイFPSのThe Finalsは、ゲーム内の実況でプレイヤーをリアルタイムに取り上げる仕組みを導入する。"
+              },
+              {
+                "t": "p",
+                "x": "チームは短い動画でこの機能を公開した。The Finalsのプレイ中に聞こえる二人の声、ScottとJuneが、誰かが見事なプレイをするたびにそのニックネームを口にするようになる。つまり「今のはいいヘッドショットだ」と聞こえる代わりに、「[Player]がいいヘッドショットを決めた」と聞こえるわけだ。"
+              },
+              {
+                "t": "p",
+                "x": "当初は開発陣が技術をテストできるよう、こうした実況が流れる場面は比較的限られる。The FinalsのオーディオディレクターであるCarl Strandbergは「範囲を絞れば、彼が実際に話す内容を吟味できる」と説明する。「ちゃんと良く聞こえるか、みんながよく知って愛しているScottyらしく聞こえるかを確かめられる」"
+              },
+              {
+                "t": "p",
+                "x": "音声は実質的に自動のテキスト読み上げ（text-to-speech）機能を担っているため、これはすべてAIで動いている。実況にはすでにこの技術が使われており、数年前にファンがそれを知った際、Embarkは批判を浴びた。"
+              },
+              {
+                "t": "p",
+                "x": "10月20日のPrime Timeアップデートで実装される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "The Finals新增\n喊玩家名字的AI解说",
+          "body": "The Finals加入实时AI解说，Scott和June会在高光时刻喊出玩家名字。",
+          "mini_headline": "The Finals AI解说员",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eA9_Q6d2H-g"
+              },
+              {
+                "t": "p",
+                "x": "Arc Raiders的前作正借助AI的力量引入动态解说。The Finals是Embark Studios在推出其大型撤离射击游戏之前发行的多人FPS，如今将通过游戏内实况解说实时点名玩家。"
+              },
+              {
+                "t": "p",
+                "x": "团队在一段短视频中公布了这一功能。简单来说，玩The Finals时听到的两位解说Scott和June，会在有人打出精彩操作时喊出对方的昵称。也就是说，你听到的不再只是“这是一记漂亮的爆头”，而是“[Player]刚刚打出一记漂亮的爆头”。"
+              },
+              {
+                "t": "p",
+                "x": "起初，这类播报的触发场景会相对较少，方便开发者测试这项技术。The Finals音频总监Carl Strandberg解释说：“范围收窄，意味着我们可以把关他实际说的内容。”“确保它听起来不错，而且像我们都熟悉和喜爱的那个Scotty。”"
+              },
+              {
+                "t": "p",
+                "x": "这一切都由AI驱动，因为这个声音本质上是在执行自动文本转语音（text-to-speech）功能。解说本身早已使用这项技术，几年前粉丝得知此事时，Embark曾遭到一些批评。"
+              },
+              {
+                "t": "p",
+                "x": "该功能将随10月20日的Prime Time更新上线。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "The Finals suma comentarios\ncon IA que nombran a jugadores",
+          "body": "Embark añade a The Finals comentarios con IA en tiempo real: Scott y June nombrarán a los jugadores.",
+          "mini_headline": "Locutores con IA en The Finals",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eA9_Q6d2H-g"
+              },
+              {
+                "t": "p",
+                "x": "El predecesor de Arc Raiders incorpora comentarios dinámicos gracias a la IA. The Finals, el FPS multijugador que Embark Studios lanzó antes de su enorme extraction shooter, introduce una forma de reconocer a los jugadores en tiempo real mediante la narración dentro del juego."
+              },
+              {
+                "t": "p",
+                "x": "El equipo presentó la función en un breve video. Básicamente, Scott y June, las dos voces que se escuchan al jugar a The Finals, empezarán a mencionar los apodos de los jugadores cada vez que hagan algo destacado. Así, en lugar de oír solo “Y ese es un buen headshot”, se oirá “[Player] acaba de conseguir un buen headshot”."
+              },
+              {
+                "t": "p",
+                "x": "Al principio, la lista de situaciones en las que se oirá será relativamente corta, para ayudar a los desarrolladores a probar la tecnología. “Mantenerlo acotado nos permite cuidar lo que realmente dice”, explica Carl Strandberg, director de audio de The Finals. “Asegurarnos de que suene bien y como el Scotty que todos conocemos y queremos”."
+              },
+              {
+                "t": "p",
+                "x": "Todo funciona con IA, ya que la voz realiza básicamente una función automática de texto a voz (text-to-speech). Los comentarios ya usan esta tecnología, y Embark recibió críticas cuando los fans lo supieron hace unos años."
+              },
+              {
+                "t": "p",
+                "x": "Llega con la actualización Prime Time el 20 de octubre."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "The Finals에\n닉네임 부르는 AI 해설",
+          "body": "The Finals 해설 Scott과 June이 AI로 플레이어 이름을 부른다.",
+          "mini_headline": "The Finals AI 아나운서",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eA9_Q6d2H-g"
+              },
+              {
+                "t": "p",
+                "x": "Arc Raiders의 전작이 AI의 힘을 빌려 역동적인 중계를 도입한다. Embark Studios가 대형 익스트랙션 슈터에 앞서 내놓은 멀티플레이 FPS The Finals는 게임 속 실황 중계로 플레이어를 실시간으로 알아보는 방식을 선보인다."
+              },
+              {
+                "t": "p",
+                "x": "개발팀은 짧은 영상으로 이 기능을 공개했다. The Finals를 하며 듣는 두 목소리 Scott과 June이 누군가 멋진 플레이를 할 때마다 그 닉네임을 언급하기 시작한다. 그저 “좋은 헤드샷이네요”가 아니라 “[Player]가 멋진 헤드샷을 기록했습니다”라는 말을 듣게 되는 셈이다."
+              },
+              {
+                "t": "p",
+                "x": "처음에는 개발진이 기술을 시험할 수 있도록 이런 멘트가 나오는 경우를 비교적 적게 둔다. The Finals 오디오 디렉터 Carl Strandberg는 “범위를 좁게 유지하면 그가 실제로 하는 말을 다듬을 수 있다”며 “제대로 들리는지, 우리 모두가 알고 사랑하는 그 Scotty답게 들리는지 확인할 수 있다”고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "목소리가 사실상 자동 텍스트 음성 변환(text-to-speech) 기능을 수행하기 때문에 이 모든 것은 AI로 구동된다. 중계에는 이미 이 기술이 쓰이고 있으며, 몇 년 전 팬들이 이를 알았을 때 Embark는 비판을 받았다."
+              },
+              {
+                "t": "p",
+                "x": "이 기능은 10월 20일 Prime Time 업데이트로 들어온다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "The Finalsに\nユーザー名を呼ぶAI実況",
+          "body": "The Finalsの実況役ScottとJuneが、AIで活躍したプレイヤーの名を呼ぶ。",
+          "mini_headline": "The FinalsのAI実況",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eA9_Q6d2H-g"
+              },
+              {
+                "t": "p",
+                "x": "Arc Raidersの前身となる作品が、AIの力でダイナミックな実況を取り入れる。Embark Studiosが大型エクストラクションシューターより先にリリースしたマルチプレイFPSのThe Finalsは、ゲーム内の実況でプレイヤーをリアルタイムに取り上げる仕組みを導入する。"
+              },
+              {
+                "t": "p",
+                "x": "チームは短い動画でこの機能を公開した。The Finalsのプレイ中に聞こえる二人の声、ScottとJuneが、誰かが見事なプレイをするたびにそのニックネームを口にするようになる。つまり「今のはいいヘッドショットだ」と聞こえる代わりに、「[Player]がいいヘッドショットを決めた」と聞こえるわけだ。"
+              },
+              {
+                "t": "p",
+                "x": "当初は開発陣が技術をテストできるよう、こうした実況が流れる場面は比較的限られる。The FinalsのオーディオディレクターであるCarl Strandbergは「範囲を絞れば、彼が実際に話す内容を吟味できる」と説明する。「ちゃんと良く聞こえるか、みんながよく知って愛しているScottyらしく聞こえるかを確かめられる」"
+              },
+              {
+                "t": "p",
+                "x": "音声は実質的に自動のテキスト読み上げ（text-to-speech）機能を担っているため、これはすべてAIで動いている。実況にはすでにこの技術が使われており、数年前にファンがそれを知った際、Embarkは批判を浴びた。"
+              },
+              {
+                "t": "p",
+                "x": "10月20日のPrime Timeアップデートで実装される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "The Finals新增\n喊玩家名字的AI解说",
+          "body": "The Finals加入实时AI解说，Scott和June会在高光时刻喊出玩家名字。",
+          "mini_headline": "The Finals AI解说员",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eA9_Q6d2H-g"
+              },
+              {
+                "t": "p",
+                "x": "Arc Raiders的前作正借助AI的力量引入动态解说。The Finals是Embark Studios在推出其大型撤离射击游戏之前发行的多人FPS，如今将通过游戏内实况解说实时点名玩家。"
+              },
+              {
+                "t": "p",
+                "x": "团队在一段短视频中公布了这一功能。简单来说，玩The Finals时听到的两位解说Scott和June，会在有人打出精彩操作时喊出对方的昵称。也就是说，你听到的不再只是“这是一记漂亮的爆头”，而是“[Player]刚刚打出一记漂亮的爆头”。"
+              },
+              {
+                "t": "p",
+                "x": "起初，这类播报的触发场景会相对较少，方便开发者测试这项技术。The Finals音频总监Carl Strandberg解释说：“范围收窄，意味着我们可以把关他实际说的内容。”“确保它听起来不错，而且像我们都熟悉和喜爱的那个Scotty。”"
+              },
+              {
+                "t": "p",
+                "x": "这一切都由AI驱动，因为这个声音本质上是在执行自动文本转语音（text-to-speech）功能。解说本身早已使用这项技术，几年前粉丝得知此事时，Embark曾遭到一些批评。"
+              },
+              {
+                "t": "p",
+                "x": "该功能将随10月20日的Prime Time更新上线。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "The Finals suma comentarios\ncon IA que nombran a jugadores",
+          "body": "Embark añade a The Finals comentarios con IA en tiempo real: Scott y June nombrarán a los jugadores.",
+          "mini_headline": "Locutores con IA en The Finals",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "eA9_Q6d2H-g"
+              },
+              {
+                "t": "p",
+                "x": "El predecesor de Arc Raiders incorpora comentarios dinámicos gracias a la IA. The Finals, el FPS multijugador que Embark Studios lanzó antes de su enorme extraction shooter, introduce una forma de reconocer a los jugadores en tiempo real mediante la narración dentro del juego."
+              },
+              {
+                "t": "p",
+                "x": "El equipo presentó la función en un breve video. Básicamente, Scott y June, las dos voces que se escuchan al jugar a The Finals, empezarán a mencionar los apodos de los jugadores cada vez que hagan algo destacado. Así, en lugar de oír solo “Y ese es un buen headshot”, se oirá “[Player] acaba de conseguir un buen headshot”."
+              },
+              {
+                "t": "p",
+                "x": "Al principio, la lista de situaciones en las que se oirá será relativamente corta, para ayudar a los desarrolladores a probar la tecnología. “Mantenerlo acotado nos permite cuidar lo que realmente dice”, explica Carl Strandberg, director de audio de The Finals. “Asegurarnos de que suene bien y como el Scotty que todos conocemos y queremos”."
+              },
+              {
+                "t": "p",
+                "x": "Todo funciona con IA, ya que la voz realiza básicamente una función automática de texto a voz (text-to-speech). Los comentarios ya usan esta tecnología, y Embark recibió críticas cuando los fans lo supieron hace unos años."
+              },
+              {
+                "t": "p",
+                "x": "Llega con la actualización Prime Time el 20 de octubre."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "games-ukie-ai-mark",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Ukie·Sheridans\nUK 스튜디오 AI 마크",
+      "body": "Ukie와 Sheridans가 인증 마크로 끝나는 네 단계 AI 심사를 내놨다.",
+      "mini_headline": "Ukie AI 인증 마크",
+      "tool": "Games",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly",
+      "accent": "#f5a623",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+          },
+          {
+            "t": "p",
+            "x": "UKIE가 로펌 Sheridans와 함께 AI Compliance and Accreditation Service를 선보였다. UK 스튜디오가 AI를 합법적이고 책임 있게 쓰도록 돕는 서비스다. 네 단계 절차를 마치면 UKIE Certification Mark를 받는데, 스튜디오는 이를 피칭과 투자 유치에서 규정 준수와 실사를 입증하는 근거로 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "UKIE CEO Nick Poole은 회원사 대부분이 이런 도구를 매일 실험한다면서 “그러나 법적·상업적 위험이 어디에 있는지 파악하고, 그 위험을 진지하게 다뤘음을 입증하는 일에 대해서는 공통된 우려가 있다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "Sheridans 파트너 Anna Poulter-Jones는 AI 관련 법과 공공 정책이 계속 바뀌는 만큼 스튜디오의 기존 정책 검토도 서비스에 넣었다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "AI 규정 준수 점검과 새 AI 정책 수립에는 보통 UKIE 회원사 £1,500–£2,000, 비회원사 £2,000–£2,500가 든다. 기존 정책 검토와 상시 규정 준수 점검은 회원사 £500–£750, 비회원사 £750–£1,000이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Ukie and Sheridans launch\nan AI mark for UK studios",
+          "body": "Ukie and Sheridans launched a four-step AI compliance service ending in a certification mark for studio pitches.",
+          "mini_headline": "Ukie AI certification mark",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "UKIE has partnered with law firm Sheridans on an AI Compliance and Accreditation Service to help UK studios use AI lawfully and responsibly. Its four-step process culminates in the UKIE Certification Mark, which studios can use to demonstrate compliance and due diligence in pitches and funding rounds."
+              },
+              {
+                "t": "p",
+                "x": "UKIE CEO Nick Poole said most members are experimenting with these tools daily, “but there is a common concern about understanding where the legal and commercial risks sit and being able to demonstrate that they have taken those risks seriously.”"
+              },
+              {
+                "t": "p",
+                "x": "Sheridans partner Anna Poulter-Jones said the service includes reviews of existing studio policies, since laws and public policy around AI keep shifting."
+              },
+              {
+                "t": "p",
+                "x": "An AI compliance check plus a new AI policy typically costs £1,500–£2,000 for UKIE members and £2,000–£2,500 for non-members. A review of an existing policy with ongoing compliance checks costs £500–£750 for members and £750–£1,000 for non-members."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Ukie·Sheridans\nUK 스튜디오 AI 마크",
+          "body": "Ukie와 Sheridans가 인증 마크로 끝나는 네 단계 AI 심사를 내놨다.",
+          "mini_headline": "Ukie AI 인증 마크",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "UKIE가 로펌 Sheridans와 함께 AI Compliance and Accreditation Service를 선보였다. UK 스튜디오가 AI를 합법적이고 책임 있게 쓰도록 돕는 서비스다. 네 단계 절차를 마치면 UKIE Certification Mark를 받는데, 스튜디오는 이를 피칭과 투자 유치에서 규정 준수와 실사를 입증하는 근거로 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "UKIE CEO Nick Poole은 회원사 대부분이 이런 도구를 매일 실험한다면서 “그러나 법적·상업적 위험이 어디에 있는지 파악하고, 그 위험을 진지하게 다뤘음을 입증하는 일에 대해서는 공통된 우려가 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Sheridans 파트너 Anna Poulter-Jones는 AI 관련 법과 공공 정책이 계속 바뀌는 만큼 스튜디오의 기존 정책 검토도 서비스에 넣었다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "AI 규정 준수 점검과 새 AI 정책 수립에는 보통 UKIE 회원사 £1,500–£2,000, 비회원사 £2,000–£2,500가 든다. 기존 정책 검토와 상시 규정 준수 점검은 회원사 £500–£750, 비회원사 £750–£1,000이다."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ukie与Sheridans\n推出UK工作室AI认证标志",
+          "body": "Ukie与Sheridans推出四步AI合规服务，最终颁发用于项目推介的认证标志。",
+          "mini_headline": "Ukie AI认证标志",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "UKIE与律师事务所Sheridans合作推出AI Compliance and Accreditation Service，帮助UK工作室合法、负责任地使用AI。该服务分为四个步骤，最终授予UKIE Certification Mark，工作室可在项目推介和融资中借此证明自身合规并已尽职调查。"
+              },
+              {
+                "t": "p",
+                "x": "UKIE CEO Nick Poole表示，大多数会员每天都在试用这些工具，“但大家普遍担心的是，如何弄清法律和商业风险所在，并证明自己已经认真对待这些风险。”"
+              },
+              {
+                "t": "p",
+                "x": "Sheridans合伙人Anna Poulter-Jones表示，由于围绕AI的法律和公共政策不断变化，该服务也包括审查工作室的现有政策。"
+              },
+              {
+                "t": "p",
+                "x": "AI合规检查加制定新AI政策的费用，UKIE会员通常为£1,500–£2,000，非会员为£2,000–£2,500。审查现有政策并持续进行合规检查，会员费用为£500–£750，非会员为£750–£1,000。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ukie y Sheridans lanzan un\nsello de IA para estudios UK",
+          "body": "Ukie y Sheridans lanzaron un servicio de cumplimiento de IA en cuatro pasos que culmina en un sello de certificación.",
+          "mini_headline": "Sello de certificación IA de Ukie",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "UKIE se ha asociado con el bufete Sheridans en un AI Compliance and Accreditation Service para ayudar a los estudios del UK a usar la IA de forma legal y responsable. Su proceso de cuatro pasos culmina en el UKIE Certification Mark, que los estudios pueden usar para demostrar cumplimiento y diligencia debida en presentaciones y rondas de financiación."
+              },
+              {
+                "t": "p",
+                "x": "El CEO de UKIE, Nick Poole, dijo que la mayoría de los miembros experimentan a diario con estas herramientas, “pero existe una preocupación común por entender dónde están los riesgos legales y comerciales y poder demostrar que se han tomado en serio esos riesgos”."
+              },
+              {
+                "t": "p",
+                "x": "Anna Poulter-Jones, socia de Sheridans, dijo que el servicio incluye revisiones de las políticas existentes de los estudios, ya que las leyes y las políticas públicas sobre IA siguen cambiando."
+              },
+              {
+                "t": "p",
+                "x": "Una revisión de cumplimiento en IA junto con una nueva política de IA cuesta normalmente £1,500–£2,000 para los miembros de UKIE y £2,000–£2,500 para los no miembros. La revisión de una política existente con controles de cumplimiento continuos cuesta £500–£750 para miembros y £750–£1,000 para no miembros."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "UkieとSheridans\n英国スタジオ向けAIマーク",
+          "body": "UkieとSheridansが認証マーク付きの四段階AI審査サービスを始めた。",
+          "mini_headline": "Ukie AI認証マーク",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "UKIEは法律事務所Sheridansと組み、英国のスタジオがAIを合法かつ責任をもって使えるよう支援するAI Compliance and Accreditation Serviceを立ち上げた。四段階のプロセスの最後にUKIE Certification Markが与えられ、スタジオはピッチや資金調達ラウンドでコンプライアンスとデューデリジェンスを示すのに使える。"
+              },
+              {
+                "t": "p",
+                "x": "UKIE CEOのNick Pooleは、会員の多くが日々こうしたツールを試していると述べ、「しかし、法的・商業的リスクがどこにあるのかを理解し、そのリスクを真剣に受け止めたことを示せるかという共通の懸念がある」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "SheridansのパートナーAnna Poulter-Jonesは、AIをめぐる法律や公共政策が変わり続けているため、このサービスにはスタジオの既存ポリシーの見直しも含まれると説明した。"
+              },
+              {
+                "t": "p",
+                "x": "AIコンプライアンスチェックと新しいAIポリシーの作成は、通常UKIE会員で£1,500–£2,000、非会員で£2,000–£2,500。既存ポリシーの見直しと継続的なコンプライアンスチェックは、会員で£500–£750、非会員で£750–£1,000である。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Ukie·Sheridans\nUK 스튜디오 AI 마크",
+          "body": "Ukie와 Sheridans가 인증 마크로 끝나는 네 단계 AI 심사를 내놨다.",
+          "mini_headline": "Ukie AI 인증 마크",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "UKIE가 로펌 Sheridans와 손잡고 UK 스튜디오가 AI를 합법적이고 책임 있게 쓰도록 돕는 AI Compliance and Accreditation Service를 선보였다. 네 단계 절차의 끝에는 UKIE Certification Mark가 있으며, 스튜디오는 이를 피칭과 투자 유치에서 규정 준수와 실사를 입증하는 데 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "UKIE CEO Nick Poole은 대부분의 회원사가 매일 이런 도구를 실험하고 있다며 “그러나 법적·상업적 위험이 어디에 있는지 파악하고, 그 위험을 진지하게 다뤘음을 입증하는 일에 대해서는 공통된 우려가 있다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Sheridans 파트너 Anna Poulter-Jones는 AI를 둘러싼 법과 공공 정책이 계속 바뀌는 만큼 이 서비스에 스튜디오의 기존 정책 검토도 포함된다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "AI 규정 준수 점검과 새 AI 정책 수립 비용은 보통 UKIE 회원사 £1,500–£2,000, 비회원사 £2,000–£2,500이다. 기존 정책 검토와 지속적인 규정 준수 점검은 회원사 £500–£750, 비회원사 £750–£1,000이다."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Ukie与Sheridans\n推出UK工作室AI认证标志",
+          "body": "Ukie与Sheridans推出四步AI合规服务，最终颁发用于项目推介的认证标志。",
+          "mini_headline": "Ukie AI认证标志",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "UKIE与律师事务所Sheridans合作推出AI Compliance and Accreditation Service，帮助UK工作室合法、负责任地使用AI。该服务分为四个步骤，最终授予UKIE Certification Mark，工作室可在项目推介和融资中借此证明自身合规并已尽职调查。"
+              },
+              {
+                "t": "p",
+                "x": "UKIE CEO Nick Poole表示，大多数会员每天都在试用这些工具，“但大家普遍担心的是，如何弄清法律和商业风险所在，并证明自己已经认真对待这些风险。”"
+              },
+              {
+                "t": "p",
+                "x": "Sheridans合伙人Anna Poulter-Jones表示，由于围绕AI的法律和公共政策不断变化，该服务也包括审查工作室的现有政策。"
+              },
+              {
+                "t": "p",
+                "x": "AI合规检查加制定新AI政策的费用，UKIE会员通常为£1,500–£2,000，非会员为£2,000–£2,500。审查现有政策并持续进行合规检查，会员费用为£500–£750，非会员为£750–£1,000。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Ukie y Sheridans lanzan un\nsello de IA para estudios UK",
+          "body": "Ukie y Sheridans lanzaron un servicio de cumplimiento de IA en cuatro pasos que culmina en un sello de certificación.",
+          "mini_headline": "Sello de certificación IA de Ukie",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "UKIE se ha asociado con el bufete Sheridans en un AI Compliance and Accreditation Service para ayudar a los estudios del UK a usar la IA de forma legal y responsable. Su proceso de cuatro pasos culmina en el UKIE Certification Mark, que los estudios pueden usar para demostrar cumplimiento y diligencia debida en presentaciones y rondas de financiación."
+              },
+              {
+                "t": "p",
+                "x": "El CEO de UKIE, Nick Poole, dijo que la mayoría de los miembros experimentan a diario con estas herramientas, “pero existe una preocupación común por entender dónde están los riesgos legales y comerciales y poder demostrar que se han tomado en serio esos riesgos”."
+              },
+              {
+                "t": "p",
+                "x": "Anna Poulter-Jones, socia de Sheridans, dijo que el servicio incluye revisiones de las políticas existentes de los estudios, ya que las leyes y las políticas públicas sobre IA siguen cambiando."
+              },
+              {
+                "t": "p",
+                "x": "Una revisión de cumplimiento en IA junto con una nueva política de IA cuesta normalmente £1,500–£2,000 para los miembros de UKIE y £2,000–£2,500 para los no miembros. La revisión de una política existente con controles de cumplimiento continuos cuesta £500–£750 para miembros y £750–£1,000 para no miembros."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "UkieとSheridans\n英国スタジオ向けAIマーク",
+          "body": "UkieとSheridansが認証マーク付きの四段階AI審査サービスを始めた。",
+          "mini_headline": "Ukie AI認証マーク",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "UKIEは法律事務所Sheridansと組み、英国のスタジオがAIを合法かつ責任をもって使えるよう支援するAI Compliance and Accreditation Serviceを立ち上げた。四段階のプロセスの最後にUKIE Certification Markが与えられ、スタジオはピッチや資金調達ラウンドでコンプライアンスとデューデリジェンスを示すのに使える。"
+              },
+              {
+                "t": "p",
+                "x": "UKIE CEOのNick Pooleは、会員の多くが日々こうしたツールを試していると述べ、「しかし、法的・商業的リスクがどこにあるのかを理解し、そのリスクを真剣に受け止めたことを示せるかという共通の懸念がある」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "SheridansのパートナーAnna Poulter-Jonesは、AIをめぐる法律や公共政策が変わり続けているため、このサービスにはスタジオの既存ポリシーの見直しも含まれると説明した。"
+              },
+              {
+                "t": "p",
+                "x": "AIコンプライアンスチェックと新しいAIポリシーの作成は、通常UKIE会員で£1,500–£2,000、非会員で£2,000–£2,500。既存ポリシーの見直しと継続的なコンプライアンスチェックは、会員で£500–£750、非会員で£750–£1,000である。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "games-japan-union-ai-voice",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "일본 배우들, AI 음성\n엄격한 지침 마련",
+      "body": "일본 배우 노조가 AI 음성 지침을 내고 생전 동의 없는 고인 복제를 금했다.",
+      "mini_headline": "일본 노조 AI 음성 규칙",
+      "tool": "Games",
+      "source": "Eurogamer",
+      "url": "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai",
+      "accent": "#ff5a4d",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+          },
+          {
+            "t": "p",
+            "x": "Japan Actors Union(일본 배우 노조)이 AI 생성(AI-generated) 음성 사용 지침을 새로 내놓았다. 생전에 허락하지 않았다면 세상을 떠난 배우의 목소리를 복제할 수 없다는 조항도 들어갔다. Automaton에 따르면 생성형 AI의 착취에 노출된 업계를 지키려는 조치다."
+          },
+          {
+            "t": "p",
+            "x": "지침은 네 가지다. 학습을 비롯한 생성형 AI 과정의 “모든 단계”에서 동의를 받아야 한다. AI 복제물은 새로운 연기로 보고 로열티나 보상을 줘야 한다. AI 기반(AI-powered) 번역은 원작의 “예술적 완결성”을 지켜야 하고 해외에서 쓰려면 허락을 받아야 한다. 세상을 떠난 배우의 작품을 쓸 때도 유족과 소속사의 허락을 받고 로열티를 내야 한다."
+          },
+          {
+            "t": "p",
+            "x": "노조는 지침을 업계 전반의 규칙으로 굳히고 정부에 ‘목소리 권리’ 입법을 요구하겠다고 밝혔다. 다만 지침은 법이 아니어서 AI 기업을 구속하지 못한다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Japanese actors set strict\nguidelines on AI voices",
+          "body": "The Japan Actors Union issued non-binding AI voice guidelines, banning clones of dead actors unless they consented in life.",
+          "mini_headline": "Japan union AI voice rules",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "The Japan Actors Union has issued new guidelines on AI-generated voice use, including a ban on replicating the voices of dead actors unless they authorised it during their lifetime. Per Automaton, the aim is to protect an industry exposed to exploitation by generative AI."
+              },
+              {
+                "t": "p",
+                "x": "The guidelines cover four points: consent must be granted at “every stage” of the generative AI process, including training; AI replications count as new performances, so royalties or compensation are owed; AI-powered translations must keep the “artistic integrity” of the original and need permission for overseas use; and use of a deceased actor's work also requires permission from their family and agency, plus royalties."
+              },
+              {
+                "t": "p",
+                "x": "The union says it will push to make the guidelines industry-wide rules and urge the government to legislate ‘voice rights’. The guidelines are not laws and are not binding on AI companies."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "일본 배우들, AI 음성\n엄격한 지침 마련",
+          "body": "일본 배우 노조가 AI 음성 지침을 내고 생전 동의 없는 고인 복제를 금했다.",
+          "mini_headline": "일본 노조 AI 음성 규칙",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "Japan Actors Union(일본 배우 노조)이 AI 생성(AI-generated) 음성 사용 지침을 새로 내놓았다. 생전에 허락하지 않았다면 세상을 떠난 배우의 목소리를 복제할 수 없다는 조항도 들어갔다. Automaton에 따르면 생성형 AI의 착취에 노출된 업계를 지키려는 조치다."
+              },
+              {
+                "t": "p",
+                "x": "지침은 네 가지다. 학습을 비롯한 생성형 AI 과정의 “모든 단계”에서 동의를 받아야 한다. AI 복제물은 새로운 연기로 보고 로열티나 보상을 줘야 한다. AI 기반(AI-powered) 번역은 원작의 “예술적 완결성”을 지켜야 하고 해외에서 쓰려면 허락을 받아야 한다. 세상을 떠난 배우의 작품을 쓸 때도 유족과 소속사의 허락을 받고 로열티를 내야 한다."
+              },
+              {
+                "t": "p",
+                "x": "노조는 지침을 업계 전반의 규칙으로 굳히고 정부에 ‘목소리 권리’ 입법을 요구하겠다고 밝혔다. 다만 지침은 법이 아니어서 AI 기업을 구속하지 못한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "日本の俳優団体、\nAI音声に厳格指針",
+          "body": "日本俳優連合が拘束力のないAI音声指針を公表し、生前の同意なき故人の複製を禁じた。",
+          "mini_headline": "日本の労組、AI音声ルール",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "日本俳優連合（Japan Actors Union）は、AI生成（AI-generated）音声の利用に関する新たなガイドラインを発表した。生前に本人が許可していない限り、亡くなった俳優の声の複製を禁じる内容も含まれる。Automatonによると、生成AIによる搾取にさらされている業界を守るのが狙いだ。"
+              },
+              {
+                "t": "p",
+                "x": "ガイドラインは四つの点を定めている。学習を含む生成AIプロセスの「あらゆる段階」で同意を得なければならない。AIによる複製は新たな演技とみなされるため、ロイヤルティや報酬が支払われるべきだ。AIを使った（AI-powered）翻訳は原作の「芸術的完全性」を保たなければならず、海外での利用には許可が必要だ。亡くなった俳優の作品を使う場合も、遺族と所属事務所の許可に加え、ロイヤルティが必要となる。"
+              },
+              {
+                "t": "p",
+                "x": "同団体は、このガイドラインを業界全体のルールにするよう働きかけ、政府に「声の権利」の法制化を求めていくとしている。ガイドラインは法律ではなく、AI企業を拘束するものではない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "日本演员工会\n出台严格AI语音准则",
+          "body": "日本演员工会发布不具约束力的AI语音准则，禁止未经生前同意克隆已故演员声音。",
+          "mini_headline": "日本工会AI语音规则",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "Japan Actors Union（日本演员工会）发布了关于AI生成（AI-generated）语音使用的新准则，其中包括禁止复制已故演员的声音，除非其生前曾予以授权。据Automaton报道，此举旨在保护一个暴露在生成式AI剥削之下的行业。"
+              },
+              {
+                "t": "p",
+                "x": "准则涵盖四点：在包括训练在内的生成式AI流程“每个阶段”都必须获得同意；AI复制品被视为新的表演，因此应支付版税或报酬；AI驱动（AI-powered）的翻译必须保持原作的“艺术完整性”，并需获得许可才能在海外使用；使用已故演员的作品还需征得其家属和经纪公司的许可，并支付版税。"
+              },
+              {
+                "t": "p",
+                "x": "工会表示，将推动把这些准则变为全行业规则，并敦促政府为‘声音权’立法。这些准则并非法律，对AI公司不具约束力。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Actores japoneses fijan reglas\nestrictas sobre voces con IA",
+          "body": "La Japan Actors Union fijó pautas no vinculantes sobre voces con IA que vetan clonar a actores fallecidos sin permiso.",
+          "mini_headline": "Reglas de voz con IA en Japón",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "La Japan Actors Union ha publicado nuevas pautas sobre el uso de voces generadas por IA (AI-generated), que incluyen la prohibición de replicar las voces de actores fallecidos salvo que lo autorizaran en vida. Según Automaton, el objetivo es proteger a una industria expuesta a la explotación por parte de la IA generativa."
+              },
+              {
+                "t": "p",
+                "x": "Las pautas abarcan cuatro puntos: el consentimiento debe otorgarse en “cada etapa” del proceso de IA generativa, incluido el entrenamiento; las réplicas con IA cuentan como nuevas interpretaciones, por lo que se deben regalías o compensación; las traducciones con IA (AI-powered) deben mantener la “integridad artística” del original y requieren permiso para su uso en el extranjero; y el uso de la obra de un actor fallecido también exige el permiso de su familia y su agencia, además de regalías."
+              },
+              {
+                "t": "p",
+                "x": "El sindicato afirma que impulsará que las pautas se conviertan en normas para toda la industria e instará al gobierno a legislar los ‘derechos de voz’. Las pautas no son leyes y no obligan a las empresas de IA."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "일본 배우들, AI 음성\n엄격한 지침 마련",
+          "body": "일본 배우 노조가 AI 음성 지침을 내고 생전 동의 없는 고인 복제를 금했다.",
+          "mini_headline": "일본 노조 AI 음성 규칙",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "Japan Actors Union(일본 배우 노조)이 AI 생성(AI-generated) 음성 사용에 관한 새 지침을 내놓았다. 여기에는 생전에 허락하지 않은 한 세상을 떠난 배우의 목소리를 복제하지 못하게 하는 조항도 들어 있다. Automaton에 따르면 생성형 AI의 착취에 노출된 업계를 보호하려는 취지다."
+              },
+              {
+                "t": "p",
+                "x": "지침은 네 가지를 다룬다. 학습을 포함해 생성형 AI 과정의 “모든 단계”에서 동의를 받아야 한다. AI 복제물은 새로운 연기로 보므로 로열티나 보상을 지급해야 한다. AI 기반(AI-powered) 번역은 원작의 “예술적 완결성”을 지켜야 하며 해외에서 쓰려면 허락이 필요하다. 세상을 떠난 배우의 작품을 쓸 때도 유족과 소속사의 허락을 받고 로열티를 지급해야 한다."
+              },
+              {
+                "t": "p",
+                "x": "노조는 이 지침을 업계 전반의 규칙으로 만들고 정부에 ‘목소리 권리’ 입법을 촉구하겠다고 밝혔다. 지침은 법이 아니며 AI 기업에 구속력도 없다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "日本の俳優団体、\nAI音声に厳格指針",
+          "body": "日本俳優連合が拘束力のないAI音声指針を公表し、生前の同意なき故人の複製を禁じた。",
+          "mini_headline": "日本の労組、AI音声ルール",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "日本俳優連合（Japan Actors Union）は、AI生成（AI-generated）音声の利用に関する新たなガイドラインを発表した。生前に本人が許可していない限り、亡くなった俳優の声の複製を禁じる内容も含まれる。Automatonによると、生成AIによる搾取にさらされている業界を守るのが狙いだ。"
+              },
+              {
+                "t": "p",
+                "x": "ガイドラインは四つの点を定めている。学習を含む生成AIプロセスの「あらゆる段階」で同意を得なければならない。AIによる複製は新たな演技とみなされるため、ロイヤルティや報酬が支払われるべきだ。AIを使った（AI-powered）翻訳は原作の「芸術的完全性」を保たなければならず、海外での利用には許可が必要だ。亡くなった俳優の作品を使う場合も、遺族と所属事務所の許可に加え、ロイヤルティが必要となる。"
+              },
+              {
+                "t": "p",
+                "x": "同団体は、このガイドラインを業界全体のルールにするよう働きかけ、政府に「声の権利」の法制化を求めていくとしている。ガイドラインは法律ではなく、AI企業を拘束するものではない。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "日本演员工会\n出台严格AI语音准则",
+          "body": "日本演员工会发布不具约束力的AI语音准则，禁止未经生前同意克隆已故演员声音。",
+          "mini_headline": "日本工会AI语音规则",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "Japan Actors Union（日本演员工会）发布了关于AI生成（AI-generated）语音使用的新准则，其中包括禁止复制已故演员的声音，除非其生前曾予以授权。据Automaton报道，此举旨在保护一个暴露在生成式AI剥削之下的行业。"
+              },
+              {
+                "t": "p",
+                "x": "准则涵盖四点：在包括训练在内的生成式AI流程“每个阶段”都必须获得同意；AI复制品被视为新的表演，因此应支付版税或报酬；AI驱动（AI-powered）的翻译必须保持原作的“艺术完整性”，并需获得许可才能在海外使用；使用已故演员的作品还需征得其家属和经纪公司的许可，并支付版税。"
+              },
+              {
+                "t": "p",
+                "x": "工会表示，将推动把这些准则变为全行业规则，并敦促政府为‘声音权’立法。这些准则并非法律，对AI公司不具约束力。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Actores japoneses fijan reglas\nestrictas sobre voces con IA",
+          "body": "La Japan Actors Union fijó pautas no vinculantes sobre voces con IA que vetan clonar a actores fallecidos sin permiso.",
+          "mini_headline": "Reglas de voz con IA en Japón",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+              },
+              {
+                "t": "p",
+                "x": "La Japan Actors Union ha publicado nuevas pautas sobre el uso de voces generadas por IA (AI-generated), que incluyen la prohibición de replicar las voces de actores fallecidos salvo que lo autorizaran en vida. Según Automaton, el objetivo es proteger a una industria expuesta a la explotación por parte de la IA generativa."
+              },
+              {
+                "t": "p",
+                "x": "Las pautas abarcan cuatro puntos: el consentimiento debe otorgarse en “cada etapa” del proceso de IA generativa, incluido el entrenamiento; las réplicas con IA cuentan como nuevas interpretaciones, por lo que se deben regalías o compensación; las traducciones con IA (AI-powered) deben mantener la “integridad artística” del original y requieren permiso para su uso en el extranjero; y el uso de la obra de un actor fallecido también exige el permiso de su familia y su agencia, además de regalías."
+              },
+              {
+                "t": "p",
+                "x": "El sindicato afirma que impulsará que las pautas se conviertan en normas para toda la industria e instará al gobierno a legislar los ‘derechos de voz’. Las pautas no son leyes y no obligan a las empresas de IA."
               }
             ]
           }

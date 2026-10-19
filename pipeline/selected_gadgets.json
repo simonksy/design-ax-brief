@@ -1,136 +1,96 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "gadgets",
   "picks": [
     {
-      "url": "https://gizmodo.com/alibaba-qwen-glasses-n1-2000825793",
-      "title": "China’s Smart Glasses Are Once Again Making Meta Look Silly",
-      "source": "Gizmodo",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T14:50:16+00:00",
-      "og_image": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1--1200x675.jpg",
-      "excerpt": "Alibaba's Qwen Glasses N1 smart glasses make lofty claims about battery life and have a camera sensor that crushes Meta on paper.",
-      "source_lang": "en",
+      "title": "Even Realities G2 review: Smart glasses, stupid controls",
+      "url": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/",
+      "source": "Engadget",
+      "published_iso": "2026-10-19T11:30:00+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/l-intro-1792155926.jpg",
+      "excerpt": "Even Realities makes one of the best smart glasses on the market, but controlling its growing feature set is harder than it should be.",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Alibaba's Qwen Glasses N1 is a new AI-glasses launch built around its own Qwen model, and on paper its camera and battery beat Meta's. It is a new competitor in the busiest AI-wearable category."
+      "rationale": "Fresh hands-on review of a leading display-glasses product; the controls critique is a concrete interaction-design lesson for AI wearables."
     },
     {
-      "url": "https://www.notebookcheck.net/With-16-TOPS-NVMe-support-and-SATA-the-new-OrangePi-O1-makes-the-Raspberry-Pi-look-dated.1424829.0.html",
-      "title": "With 16 TOPS, NVMe support, and SATA, the new OrangePi O1 makes the Raspberry Pi look dated",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-15T07:08:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/orangepio1teaser.jpg",
-      "excerpt": "Boasting 16 TOPS of hardware AI acceleration and extensive connectivity, the OrangePi O1 single-board computer looks set to give the Raspberry Pi serious competition for edge AI workloads.",
-      "source_lang": "en",
+      "title": "People are using AI to make their smart TVs dumb again",
+      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "TechCrunch",
+      "published_iso": "2026-10-19T16:13:22+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
+      "excerpt": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "The OrangePi O1 is a new single-board computer with a 16 TOPS NPU and NVMe/SATA storage, aimed at edge-AI work. It is cheap hardware a maker or prototyper can build local-AI projects on now."
+      "rationale": "Novel user-side trend: AI agents used to strip ads and bloat from TV interfaces, a direct signal about how people push back on smart-device UX."
     },
     {
-      "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
-      "title": "UCLA researchers built a $400 humanoid robot around cheap phone technology",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-10-18T20:20:00Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/NrNz34KY7yBu3XmCiyowEg-1920-80.png",
-      "excerpt": "This open-source humanoid robot walks, tracks people, and gets back up using inexpensive hardware and a smartphone instead of dedicated sensors",
-      "source_lang": "en",
+      "title": "I thought the Pixel 11's Magic Capture would be perfect for concerts. I was wrong",
+      "url": "https://www.androidauthority.com/pixel-11-magic-capture-hands-on-camera-test-3718898/",
+      "source": "Android Authority",
+      "published_iso": "2026-10-19T09:00:28+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+      "excerpt": "Magic Capture is great, but only under certain circumstances.",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "UCLA's open-source PhoneBot uses a $50 Android phone as the brain and eyes of a $400 humanoid that walks, tracks people and gets back up on its own. It brings embodied AI down to maker budgets."
+      "rationale": "Real-world test of a Pixel 11 AI camera feature that has not been covered before, showing where it works and where it breaks."
     },
     {
-      "url": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
-      "title": "Nothing reportedly launching two pairs of smart glasses, one with barely any AI",
-      "source": "9to5Google",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T14:05:00+00:00",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/03/nothing-phone-4a-pro-21.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "A reliable source says that Nothing is building out its own AI smart glasses that feature ChatGPT integration, a camera,...",
-      "source_lang": "en",
-      "tool": "Gadgets",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "rationale": "A report says Nothing is building two pairs of glasses: one with ChatGPT integration and a camera, and one with almost no AI. That split is a useful product-design signal about how much AI a wearable should carry. Copy must make clear this is a report, not a launch."
-    },
-    {
-      "url": "https://www.androidauthority.com/the-pixel-11-pros-120x-zoom-3721738/",
-      "title": "The Pixel 11 Pro’s 120x zoom is ridiculous, but is it actually useful?",
-      "source": "Android Authority",
-      "category": "gadgets",
-      "published_iso": "2026-10-18T11:00:46+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/09/google-pixel-11-pro-review-hero-photo-2-scaled.jpg",
-      "excerpt": "The Pixel 11 Pro pushes Pro Res Zoom to 120x, up from 100x on the Pixel 10 Pro, combining a brighter telephoto camera with generative AI to reconstruct detail. Android Authority tests whether it is actually useful.",
-      "source_lang": "en",
+      "title": "Apple's next HomeView could debut as soon as next year with a robotic arm: report",
+      "url": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
+      "source": "9to5Mac",
+      "published_iso": "2026-10-18T14:17:21+00:00",
+      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&resize=1200,628",
+      "excerpt": "Apple just announced its long awaited smart home display: HomeView, and it's available for $299. That said, the product has...",
       "tool": "Gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "rationale": "A field test of Pixel 11 Pro's 120x Pro Res Zoom, where generative AI rebuilds detail that the optics never captured. It shows when AI-reconstructed photos can be trusted, which matters to anyone shooting reference images on a phone."
-    }
-  ],
-  "alternates": [
-    {
-      "url": "https://www.etnews.com/20261016000332",
-      "title": "사람과 무술 대결하는 로봇…공중제비에 발차기까지",
-      "source": "전자신문 (etnews)",
-      "category": "gadgets",
-      "published_iso": "2026-10-18T22:30:00+09:00",
-      "og_image": "https://img.etnews.com/news/article/2026/10/16/news-p.v1.20261016.443947f342d341f4a59c1c2a33d53f74_P1.jpg",
-      "excerpt": "중국 로봇 스타트업 애지봇은 자사 휴머노이드 로봇 'A3'가 액션 배우들과 함께 쿵푸 동작을 선보이는 영상을 공개했습니다.",
-      "source_lang": "ko",
-      "tool": "Gadgets",
-      "accent": "#eb367f",
-      "motif": "headset",
-      "rationale": "AgiBot's A3 kung-fu humanoid video. It is new, but it would be a second humanoid card next to the UCLA PhoneBot. First alternate."
+      "rationale": "New report on a different, future product (a robotic-arm HomeView successor), not a rehash of the 10-14 launch; the only HomeView item kept."
     },
     {
-      "url": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
-      "title": "Apple's next HomeView could debut as soon as next year with a robotic arm: report",
-      "source": "9to5Mac",
-      "category": "gadgets",
-      "published_iso": "2026-10-18T14:17:21+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Apple just announced its long awaited smart home display: HomeView, and it's available for $299.",
-      "source_lang": "en",
+      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+      "source": "Tom's Hardware",
+      "published_iso": "2026-10-17T13:21:20Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png",
+      "excerpt": "Is AI coming for blue-collar jobs, too?",
       "tool": "Gadgets",
-      "accent": "#3b6bff",
+      "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "A rumor about a future robotic-arm HomeView. It sits close to the HomeView launch card from 10-14 (nearest: arstechnica HomeView). Second alternate only; it needs a new dedup check if it is swapped in."
+      "rationale": "Unusual robotics data-collection program using wearable sensors on tradespeople; adds a robotics angle for category spread."
     }
   ],
   "dedup": {
     "checks": {
-      "https://gizmodo.com/alibaba-qwen-glasses-n1-2000825793": {
+      "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/": {
         "verdict": "new",
-        "nearest": "https://www.androidauthority.com/meta-smart-glasses-muse-agent-leak-3714611/",
+        "nearest": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/With-16-TOPS-NVMe-support-and-SATA-the-new-OrangePi-O1-makes-the-Raspberry-Pi-look-dated.1424829.0.html": {
+      "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/": {
         "verdict": "new",
-        "nearest": "https://www.xda-developers.com/a-29mb-ai-model-is-the-most-useful-thing-ive-run-on-my-raspberry-pi-5/",
+        "nearest": "https://gizmodo.com/alibaba-qwen-glasses-n1-2000825793",
         "new_action": ""
       },
-      "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers": {
+      "https://www.androidauthority.com/pixel-11-magic-capture-hands-on-camera-test-3718898/": {
         "verdict": "new",
-        "nearest": "https://www.notebookcheck.net/Humanoid-robot-rental-prices-crater-as-dedicated-exchanges-appear.1421009.0.html",
+        "nearest": "https://www.androidauthority.com/the-pixel-11-pros-120x-zoom-3721738/",
         "new_action": ""
       },
-      "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/": {
+      "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/": {
         "verdict": "new",
-        "nearest": "https://www.engadget.com/2275621/apple-is-reportedly-building-a-smart-home-camera-that-wont-record-video-footage-of-you-or-anyone-else/",
+        "nearest": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
         "new_action": ""
       },
-      "https://www.androidauthority.com/the-pixel-11-pros-120x-zoom-3721738/": {
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning": {
         "verdict": "new",
-        "nearest": "https://www.androidauthority.com/pixel-10-proactive-assistance-beta-3712714/",
+        "nearest": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
         "new_action": ""
       }
     },
-    "note": "Five distinct outlets (Gizmodo, Notebookcheck, TechRadar, 9to5Google, Android Authority), no repeated URL, at most one per cluster. DROPPED as already published: Ars 'Ray-Ban Meta bug records audio' (same story as the 10-14 Android Authority 'glasses listening without being asked (Updated)'). Tom's Guide camera-free Ray-Ban Meta hands-on (hands-on of the Ray-Ban Meta Audio launch, published 10-05 via UploadVR). Both Surface Laptop Ultra reviews, cluster c4, Ars and WIRED (reviews of the 10-08 TechCrunch Microsoft Nvidia-chip PC launch, with no new release). Apple TV 4K (9to5Mac) and MacRumors older Apple TV 4K Siri AI, cluster c8, plus 9to5Mac HomePod mini 2: all from the Oct 13 Apple event, which was covered 10-14 by the Ars HomeView card, and yesterday's curator treated those as covered; the older-Apple-TV item also continues the 10-06 tvOS 27.2 code story. Engadget Alexa Tablet 12 Pro review (review of the 10-09 Alexa tablets launch). Tom's Guide iOS 27 smart home explainer (rehash of the 09-27 Verge Apple Intelligence home camera and 09-27 Siri cards). Google Home Gemini-fixes update (minor fix in the 10-02 Gemini-for-Home thread). XDA Gemini desktop app (software, not a device, and it follows the 09-20 XDA Gemini Windows card). NOT PICKED: Narwal vacuum (AI incidental), XREAL 1 Pro Plus (yesterday's enrichment found AI incidental), Rogbid glasses (low-credibility budget launch), Engadget Alexa always-listening explainer (evergreen), Panos Panay talk (commentary), Tom's Hardware AI-lab free repairs (robot-training data business, not a device), etnews humanoid guideline (policy, better suited to politics). Alternates: etnews AgiBot A3 and the 9to5Mac HomeView robotic-arm rumor."
+    "note": "Dropped as already published: 9to5Google Bee AI recorders (same launch as TechCrunch 10-16); ZDNET Alexa tablets (same launch as Engadget 10-09); Samsung Android XR glasses leak (pre-unveil leak, superseded by CNET 'Samsung Smart Glasses Unveiled' 10-14); CNET HomeView hands-on (more reporting on the 10-14 HomeView launch, and only one HomeView item allowed; kept the robotic-arm successor report instead). Held back, not duplicates: WIRED Surface Laptop Ultra review (likely a review of the 10-08 Microsoft AI PC launch, so left out to be safe); XREAL 1 Pro+ (second glasses card, category spread); Apple HomePod mini Siri confirmation (second Apple home card); Google Home update (minor bug-fix release); etnews 4m humanoid, Doosan Robotics (business plans under review), Klleon AI station attendant (lower actionability, robotics slot already filled). Outlets: 5 different outlets, 1 card each."
   }
 }

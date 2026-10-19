@@ -1,31 +1,11 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "music",
   "media": [
-    {
-      "id": "music-elevenlabs-instant-soundtracks",
-      "type": "video",
-      "src": "pipeline/media/music-elevenlabs-instant-soundtracks.mp4",
-      "poster": "pipeline/media/music-elevenlabs-instant-soundtracks.jpg"
-    },
-    {
-      "id": "music-zoom-neurig",
-      "type": "image",
-      "src": "pipeline/media/music-zoom-neurig.jpg"
-    },
-    {
-      "id": "music-rocketship-audience-map",
-      "type": "svg"
-    },
-    {
-      "id": "music-neko-pocket-studio",
-      "type": "video",
-      "src": "pipeline/media/music-neko-pocket-studio.mp4",
-      "poster": "pipeline/media/music-neko-pocket-studio.jpg"
-    },
-    {
-      "id": "music-midi-repa-paper",
-      "type": "svg"
-    }
+    {"id": "music-gear-firmware-vibe", "type": "video", "src": "pipeline/media/music-gear-firmware-vibe.mp4", "poster": "pipeline/media/music-gear-firmware-vibe.jpg"},
+    {"id": "music-rodrigo-expectations-debunk", "type": "video", "src": "pipeline/media/music-rodrigo-expectations-debunk.mp4", "poster": "pipeline/media/music-rodrigo-expectations-debunk.jpg"},
+    {"id": "music-suno-lightspeed-subpoena", "type": "image", "src": "pipeline/media/music-suno-lightspeed-subpoena.jpg"},
+    {"id": "music-cmu-three-debates", "type": "image", "src": "pipeline/media/music-cmu-three-debates.png"},
+    {"id": "music-dcomposer-drums", "type": "image", "src": "pipeline/media/music-dcomposer-drums.png"}
   ]
 }

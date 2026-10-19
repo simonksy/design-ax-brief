@@ -1,31 +1,11 @@
 {
-  "date": "2026-10-19",
-  "section": "politics",
-  "media": [
-    {
-      "id": "politics-anthropic-draft-bill",
-      "type": "image",
-      "src": "pipeline/media/politics-anthropic-draft-bill.jpg"
-    },
-    {
-      "id": "politics-newsom-ai-verification-order",
-      "type": "image",
-      "src": "pipeline/media/politics-newsom-ai-verification-order.jpg"
-    },
-    {
-      "id": "politics-brazil-tse-meta-equal-treatment",
-      "type": "image",
-      "src": "pipeline/media/politics-brazil-tse-meta-equal-treatment.jpg"
-    },
-    {
-      "id": "politics-wesleyan-ai-ad-disclaimers",
-      "type": "image",
-      "src": "pipeline/media/politics-wesleyan-ai-ad-disclaimers.jpg"
-    },
-    {
-      "id": "politics-china-ai-export-catalogue",
-      "type": "image",
-      "src": "pipeline/media/politics-china-ai-export-catalogue.jpg"
-    }
-  ]
+ "date": "2026-10-20",
+ "section": "politics",
+ "media": [
+  {"id": "politics-aiact-harmonised-std", "type": "image", "src": "pipeline/media/politics-aiact-harmonised-std.jpg"},
+  {"id": "politics-taiwan-server-exports", "type": "image", "src": "pipeline/media/politics-taiwan-server-exports.jpg"},
+  {"id": "politics-uk-ai-sovereignty-letter", "type": "image", "src": "pipeline/media/politics-uk-ai-sovereignty-letter.png"},
+  {"id": "politics-greece-daedalus", "type": "image", "src": "pipeline/media/politics-greece-daedalus.jpg"},
+  {"id": "politics-disney-characterai-363", "type": "image", "src": "pipeline/media/politics-disney-characterai-363.jpg"}
+ ]
 }

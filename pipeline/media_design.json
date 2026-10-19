@@ -1,31 +1,9 @@
 {
-  "date": "2026-10-19",
-  "section": "design",
   "media": [
-    {
-      "id": "design-kling4",
-      "type": "image",
-      "src": "pipeline/media/design-kling4.jpg"
-    },
-    {
-      "id": "design-meshy-edit",
-      "type": "image",
-      "src": "pipeline/media/design-meshy-edit.jpg"
-    },
-    {
-      "id": "design-brand-foundation",
-      "type": "image",
-      "src": "pipeline/media/design-brand-foundation.jpg"
-    },
-    {
-      "id": "design-a11y-gates",
-      "type": "image",
-      "src": "pipeline/media/design-a11y-gates.png"
-    },
-    {
-      "id": "design-material-you-ship",
-      "type": "image",
-      "src": "pipeline/media/design-material-you-ship.png"
-    }
+    {"id": "design-gemini-notebook-cocreate", "type": "video", "src": "pipeline/media/design-gemini-notebook-cocreate.mp4", "poster": "pipeline/media/design-gemini-notebook-cocreate.jpg"},
+    {"id": "design-flux3-max-video", "type": "image", "src": "pipeline/media/design-flux3-max-video.jpg"},
+    {"id": "design-cg-roundup-1018", "type": "video", "src": "pipeline/media/design-cg-roundup-1018.mp4", "poster": "pipeline/media/design-cg-roundup-1018.jpg"},
+    {"id": "design-wunderui-agentic-ds", "type": "image", "src": "pipeline/media/design-wunderui-agentic-ds.png"},
+    {"id": "design-ai-photo-false-memory", "type": "image", "src": "pipeline/media/design-ai-photo-false-memory.jpg"}
   ]
 }

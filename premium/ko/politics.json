@@ -2964,6 +2964,115 @@
           "x": "Apple 규정은 “인신매매나 아동 착취를 조장하는” 앱이라면 모두 App Store에서 퇴출되고 “대체 유통 경로에서도 차단된다”는 점도 더 분명히 적었다."
         }
       ]
+    },
+    "politics/politics-taiwan-server-exports": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
+          "cap": "타이베이 중정기념공원(Chiang Kai-shek Memorial Park) (이미지 제공: Jowi Morales/Tom's Hardware)"
+        },
+        {
+          "t": "p",
+          "x": "대만이 미국(U.S.)의 무역 금지 조치에 발맞춰 AI 서버와 최신 칩을 수출 통제 품목에 넣는다. Bloomberg에 따르면 통제가 시행되면 밀수범은 대외무역법(Foreign Trade Act)으로 형사 처벌을 받고, 최대 다섯 해의 징역 및/또는 약 $92,500의 벌금에 처해질 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "“앞으로 통제 품목에 대한 일부 조치는 미국 조치와 맞춰질 것이다. 상호무역협정(Agreement on Reciprocal Trade)에서 상당한 약속을 했기 때문이다.” 쿵밍신(Kung Ming-hsin) 경제부 장관의 말이다. 이 협정으로 대만산 제품에 붙는 미국(U.S.) 관세는 15%로 낮아졌다."
+        },
+        {
+          "t": "p",
+          "x": "미국(U.S.)에서는 Super Micro 직원 세 명이 $2.5 billion 규모의 AI 서버를 밀수한 혐의로 기소됐고, 대만 당국은 Super Micro 타이베이 사무소를 압수수색해 아홉 명을 기소했다. 이번 조치는 그 뒤에 나왔다. 새 통제가 시행되기 전까지 대만에서 중국으로 AI 칩을 수출하는 건 범죄가 아니어서, 위반자는 다른 법으로 기소해야 한다."
+        },
+        {
+          "t": "p",
+          "x": "Tom's Hardware는 이 조치가 워싱턴은 만족시키겠지만, 지난해 대만의 Huawei·SMIC 제재를 두고 타이베이를 비난한 베이징은 자극할 수 있다고 봤다."
+        }
+      ]
+    },
+    "politics/politics-uk-ai-sovereignty-letter": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "정부 최고위 독립 과학기술 자문기구인 과학기술위원회(Council for Science and Technology, CST)가 2026년 7월 AI 장관(Minister for AI)에게 AI 주권에 관한 조언을 담아 보낸 서한이 10월 19일 공개됐다."
+        },
+        {
+          "t": "p",
+          "x": "CST가 정의하는 AI 주권은 UK가 선택한 성과를 달성하고 경제적·공공적 가치를 확보하며 압박 속에서도 회복력을 유지할 만큼, AI 가치사슬 전반에서 충분한 주도권을 갖는 것이다. CST는 신중하고 시급한 조치가 없으면 UK가 “기술을 만들어 갈 수 있는 나라가 아니라, 고부가가치 AI 고객”이 될 위험이 있다고 경고한다."
+        },
+        {
+          "t": "p",
+          "x": "서한의 권고는 4가지다. AI 생태계 지도를 바탕으로 UK AI Sovereignty Plan(UK AI 주권 계획)을 세워 공익을 위한 신속한 시범사업을 고를 것, 단일한 책임 주체를 둔 명확한 거버넌스를 마련할 것, 기술 역량·데이터·공공 신뢰에 지금 투자할 것, 선택된 UK 역량을 키우면서 선도 AI 모델에 대한 신뢰할 수 있는 접근을 유지할 것이다. 공익적 주권 기반 모델을 만들자는 Alan Turing Institute의 제안을 검토하는 일도 여기에 들어간다."
+        }
+      ]
+    },
+    "politics/politics-greece-daedalus": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "그리스가 자국에 설치된 슈퍼컴퓨터 중 가장 강력한 Daedalus를 가동했다. €58.9 million이 들어갔고 공개된 자료로는 세계 31위다. 해외 컴퓨팅 의존도를 낮추려고 아티카의 라브리오(Lavrio)에 문을 열었다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
+          "cap": "슈퍼컴퓨터 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+        },
+        {
+          "t": "p",
+          "x": "85.69 petaflops 성능의 Daedalus 덕분에 대학과 기업, 공공기관은 민감한 데이터를 국내에서 처리하는 일을 포함해 그리스 안의 인프라에서 AI 모델을 학습시킬 수 있다. 다만 유럽의 엑사스케일(exascale) 시스템과 경쟁하려고 만든 것은 아니다."
+        },
+        {
+          "t": "p",
+          "x": "액체 냉각 방식의 Nvidia Grace Hopper GH200 기반이며, 아테네 국립공과대학교가 관리하는 옛 발전소에 들어섰다. 운영은 GRNET이 맡고, 자금은 회복·복원력 기금(Recovery and Resilience Facility)과 EuroHPC에서 나온다."
+        },
+        {
+          "t": "img",
+          "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
+          "cap": "슈퍼컴퓨터 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+        },
+        {
+          "t": "p",
+          "x": "Pharos AI Factory를 통해 기업 대상 서비스를 넓히는 일은 2027년 3월부터 계획돼 있다. 스타트업과 중소기업(SMEs)은 EU 국가보조 한도 안에서 무료로 쓸 수 있을 전망이다."
+        }
+      ]
+    },
+    "politics/politics-disney-characterai-363": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
+          "cap": "Disney 로고."
+        },
+        {
+          "t": "p",
+          "x": "법원 서류를 보면 Character.AI의 파산은 한 거래의 핵심이었다. Disney가 전 CEO 카란딥 아난드(Karandeep Anand)를 비롯한 직원 대부분을 채용하고 기술 대부분을 인수할 길을 열면서도, 법적 책임은 피할 수 있게 한 거래다. 한 신청서에 따르면 Disney는 이 스타트업의 “줄어드는 현금 보유고와 상당한 소송·규제 위험”을 들어 거래를 파산 절차로 “완전히 완결”해야 한다고 요구했다. Disney는 논평을 거부했다."
+        },
+        {
+          "t": "p",
+          "x": "Disney는 9월 $5.5 million과 환불 가능한 보증금 $2 million을 냈다. 10월 12일 Chapter 11 신청 이후에는 Character.AI의 코드와 도구 상당 부분에 대한 영구적·전 세계적·비독점 라이선스를 노린다. 라이선스는 경매에 부쳐지고, Disney가 낙찰받으면 종결 대금 $12.5 million을 낸다."
+        },
+        {
+          "t": "p",
+          "x": "“363 Free and Clear Order” 초안에는 이번 거래가 합병이 아니며 법적 청구를 비롯한 모든 책임이 Character.AI에 남는다는 내용이 담길 예정이다. 이 회사를 조사 중인 주(州)들은 어떤 파산 계획에든 이의를 제기할 권리를 유보한다고 밝혔다."
+        }
+      ]
+    },
+    "politics/politics-anthropic-draft-bill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.politico.com/2d/ce/148fe8604ce7a4ebef0911cc1f68/https-delivery-gettyimages.com/downloads/2295566911",
+          "cap": "2026년 9월 16일, 한 기기 화면에 Anthropic의 AI 앱 “Claude” 아이콘이 떠 있다. (Leon Neal/Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "POLITICO는 소식통 세 명을 인용해 Anthropic 측이 프런티어 AI의 안전과 보안을 규율하는 법안 초안을 Capitol Hill 의원들에게 조용히 제안해 왔다고 보도했다."
+        },
+        {
+          "t": "p",
+          "x": "초안에는 정부가 첨단 모델 출시를 막을 수 있는 경우를 제한하고 일부 주의 AI 안전법을 대체하는 내용이 담겼다."
+        }
+      ]
     }
   }
 }

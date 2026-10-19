@@ -1,215 +1,191 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "music",
   "cards": [
     {
-      "id": "music-elevenlabs-instant-soundtracks",
+      "id": "music-gear-firmware-vibe",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ElevenLabs가\n영상에 음악·효과음 입혀",
-      "body": "Instant Soundtracks는 영상에 음악과 편집 가능한 효과음을 입힌다.",
-      "mini_headline": "ElevenLabs, 영상 자동 작곡",
+      "headline": "바이브 코딩, 신스\n펌웨어를 연주자 손에",
+      "body": "LLM 코딩 도우미 덕에 취미 해커들이 신스와 샘플러용 펌웨어를 직접 만든다.",
+      "mini_headline": "연주자가 고치는 신스 펌웨어",
       "tool": "Music",
-      "source": "ElevenLabs (YouTube)",
-      "url": "https://www.youtube.com/watch?v=WtPiZ0ym13k",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/gadgets/1013493/vibe-coding-ai-music-gear-hacking-custom-firmware",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "WtPiZ0ym13k"
+            "t": "p",
+            "x": "하드웨어 신스와 샘플러, 그루브박스용 커스텀 펌웨어가 폭발적으로 늘었다. 거의 전부 갈수록 정교해지는 바이브 코딩 도구 덕분이다. Korg Volca에 벨로시티 감도를 더하는 일처럼 예전에는 몇 주에서 몇 달 걸리던 작업을 이제 취미 개발자들이 며칠 만에 해낸다."
+          },
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
           },
           {
             "t": "p",
-            "x": "Instant Soundtracks는 한 번의 작업으로 어떤 영상에든 음악과 효과음을 입힌다."
+            "x": "Elektron의 Model:Cycles, Digitone, Octatrack, Digitakt는 Claude의 도움으로 새 기능을 얻었다. Roland, Ableton, Akai, Novation, Arturia, Zoom 장비용 커스텀 펌웨어도 최근 한 달여 사이 새로 나왔다. 선두는 M-Vave의 $70짜리 DX7 복제품 FM-1로, 이제 펌웨어만 수십 종이다. Felucca, Sloop, x0x 같은 인기 펌웨어는 Claude를 기여자로 올리거나 AI를 썼다고 밝힌다."
           },
           {
             "t": "p",
-            "x": "영상을 올리면 모델이 오리지널 음악을 붙이고, 효과음이 들어갈 순간을 찾아 각 효과음을 알맞은 타임스탬프에 놓는다."
+            "x": "Roman Rusinov는 2012년형 Zoom MS-70CDR 페달을 NAM 캡처를 돌리는 앰프 모델러로 바꿨다. 그는 \"하드웨어를 가졌다면 그걸로 원하는 건 무엇이든 할 수 있어야 한다\"고 말했다. 18nelli는 Claude Code로 Modded Cycles를 시작했다. 여섯 트랙 USB 오디오로 출발한 이 작업은 커뮤니티 프로젝트로 커졌다."
           },
           {
             "t": "p",
-            "x": "원본 오디오를 레퍼런스로 삼아 새 음악이 그 분위기를 따르게 할 수도 있다."
-          },
-          {
-            "t": "p",
-            "x": "이번 업데이트로 숏폼 콘텐츠의 타이밍이 좋아졌고 장면 사이 분위기 전환도 더 정확해졌다. Music Video Editor에서는 효과음이 별도 레이어로 뜨기 때문에 사운드트랙과 따로 듣고 손볼 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "ElevenCreative, ElevenMusic, ElevenAPI에서 오늘부터 쓸 수 있다."
+            "x": "다만 이런 펌웨어는 공식판보다 검증이 덜 됐다. Elektron은 개조가 기기를 벽돌로 만들 수 있다고 경고하며 포럼에서 커스텀 펌웨어 링크를 금지했다. 반대로 M-Vave는 개발 키트와 플래싱 도구를 갖춘 오픈소스 펌웨어 FM1 Open을 발표했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ElevenLabs scores your video\nwith music and sound effects",
-          "body": "Upload a video and Instant Soundtracks scores it with original music and adds sound effects as editable layers.",
-          "mini_headline": "ElevenLabs auto-scores video",
+          "headline": "Vibe coding hands synth\nfirmware to its players",
+          "body": "LLM coding assistants are letting hobbyist hackers write custom firmware and hacks for their synths and samplers.",
+          "mini_headline": "Players rewrite synth firmware",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "WtPiZ0ym13k"
+                "t": "p",
+                "x": "Custom firmware for hardware synths, samplers and grooveboxes has exploded, and almost all of it was made possible by increasingly sophisticated vibe-coding tools. Work that once took weeks or months, like adding velocity sensitivity to a Korg Volca, now takes hobbyists days."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Instant Soundtracks lets you elevate any video with music and sound effects, in one pass."
+                "x": "Elektron's Model:Cycles, Digitone, Octatrack and Digitakt have gained new capabilities with Claude's help, and gear from Roland, Ableton, Akai, Novation, Arturia and Zoom has seen new custom firmware in the last month or so. Leading the charge is M-Vave's $70 FM-1 DX7 clone, which now has dozens of firmwares; popular ones such as Felucca, Sloop and x0x list Claude as a contributor or disclose AI use."
               },
               {
                 "t": "p",
-                "x": "Upload your footage and the model scores it with original music, then watches for moments that call for an effect and places each one at the right timestamp."
+                "x": "Roman Rusinov turned a 2012 Zoom MS-70CDR pedal into an amp modeler running NAM captures. \"If you own the hardware, you should be able to do whatever you want with it,\" he said. 18nelli started Modded Cycles with Claude Code, beginning with six-track USB audio, and it grew into a community project."
               },
               {
                 "t": "p",
-                "x": "You can also use the original audio as a reference, so the new score matches its character."
-              },
-              {
-                "t": "p",
-                "x": "Today's update also brings better timing for short-form content, as well as more accurate mood switching across scenes. In the Music Video Editor, sound effects appear as separate layers, so you can review and adjust them independently of the soundtrack."
-              },
-              {
-                "t": "p",
-                "x": "Available today in ElevenCreative, ElevenMusic, and ElevenAPI."
+                "x": "The firmwares are less tested than official ones. Elektron banned links to custom firmware from its forums, warning mods could brick machines, while M-Vave announced FM1 Open, an open-source firmware with a dev kit and flashing tool."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ElevenLabs가\n영상에 음악·효과음 입혀",
-          "body": "Instant Soundtracks는 영상에 음악과 편집 가능한 효과음을 입힌다.",
-          "mini_headline": "ElevenLabs, 영상 자동 작곡",
+          "headline": "바이브 코딩, 신스\n펌웨어를 연주자 손에",
+          "body": "LLM 코딩 도우미 덕에 취미 해커들이 신스와 샘플러용 펌웨어를 직접 만든다.",
+          "mini_headline": "연주자가 고치는 신스 펌웨어",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "WtPiZ0ym13k"
+                "t": "p",
+                "x": "하드웨어 신스와 샘플러, 그루브박스용 커스텀 펌웨어가 폭발적으로 늘었다. 거의 전부 갈수록 정교해지는 바이브 코딩 도구 덕분이다. Korg Volca에 벨로시티 감도를 더하는 일처럼 예전에는 몇 주에서 몇 달 걸리던 작업을 이제 취미 개발자들이 며칠 만에 해낸다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Instant Soundtracks는 한 번의 작업으로 어떤 영상에든 음악과 효과음을 입힌다."
+                "x": "Elektron의 Model:Cycles, Digitone, Octatrack, Digitakt는 Claude의 도움으로 새 기능을 얻었다. Roland, Ableton, Akai, Novation, Arturia, Zoom 장비용 커스텀 펌웨어도 최근 한 달여 사이 새로 나왔다. 선두는 M-Vave의 $70짜리 DX7 복제품 FM-1로, 이제 펌웨어만 수십 종이다. Felucca, Sloop, x0x 같은 인기 펌웨어는 Claude를 기여자로 올리거나 AI를 썼다고 밝힌다."
               },
               {
                 "t": "p",
-                "x": "영상을 올리면 모델이 오리지널 음악을 붙이고, 효과음이 들어갈 순간을 찾아 각 효과음을 알맞은 타임스탬프에 놓는다."
+                "x": "Roman Rusinov는 2012년형 Zoom MS-70CDR 페달을 NAM 캡처를 돌리는 앰프 모델러로 바꿨다. 그는 \"하드웨어를 가졌다면 그걸로 원하는 건 무엇이든 할 수 있어야 한다\"고 말했다. 18nelli는 Claude Code로 Modded Cycles를 시작했다. 여섯 트랙 USB 오디오로 출발한 이 작업은 커뮤니티 프로젝트로 커졌다."
               },
               {
                 "t": "p",
-                "x": "원본 오디오를 레퍼런스로 삼아 새 음악이 그 분위기를 따르게 할 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "이번 업데이트로 숏폼 콘텐츠의 타이밍이 좋아졌고 장면 사이 분위기 전환도 더 정확해졌다. Music Video Editor에서는 효과음이 별도 레이어로 뜨기 때문에 사운드트랙과 따로 듣고 손볼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "ElevenCreative, ElevenMusic, ElevenAPI에서 오늘부터 쓸 수 있다."
+                "x": "다만 이런 펌웨어는 공식판보다 검증이 덜 됐다. Elektron은 개조가 기기를 벽돌로 만들 수 있다고 경고하며 포럼에서 커스텀 펌웨어 링크를 금지했다. 반대로 M-Vave는 개발 키트와 플래싱 도구를 갖춘 오픈소스 펌웨어 FM1 Open을 발표했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ElevenLabs、動画に\n音楽と効果音を自動付与",
-          "body": "Instant Soundtracksは動画にオリジナル音楽と編集可能な効果音を付ける。",
-          "mini_headline": "ElevenLabsが動画を自動スコアリング",
+          "headline": "バイブコーディングが\nファームを奏者の手に",
+          "body": "LLMのコーディング支援で、趣味のハッカーがシンセやサンプラーの独自ファームを作る。",
+          "mini_headline": "奏者がシンセのファームを書き換え",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "WtPiZ0ym13k"
+                "t": "p",
+                "x": "ハードウェアのシンセ、サンプラー、グルーブボックス向けのカスタムファームウェアが爆発的に増えており、そのほぼすべてが高度化を続けるバイブコーディングツールによって可能になった。Korg Volcaにベロシティ感度を加えるといった、かつて数週間から数か月かかった作業が、今では趣味の開発者なら数日で済む。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Instant Soundtracksは、あらゆる動画に音楽と効果音を一度に加えられる機能だ。"
+                "x": "ElektronのModel:Cycles、Digitone、Octatrack、DigitaktはClaudeの助けで新機能を得た。Roland、Ableton、Akai、Novation、Arturia、Zoomの機材にも、ここひと月ほどで新しいカスタムファームウェアが登場している。先頭を走るのはM-Vaveの$70のDX7クローンFM-1で、今やファームウェアは数十種類に上る。Felucca、Sloop、x0xなどの人気ファームはClaudeを貢献者に挙げるか、AIの使用を明かしている。"
               },
               {
                 "t": "p",
-                "x": "映像をアップロードすると、モデルがオリジナル音楽で曲を付け、さらに効果音が必要な場面を見つけて、それぞれを適切なタイムスタンプに配置する。"
+                "x": "Roman Rusinovは2012年製のZoom MS-70CDRペダルを、NAMキャプチャーを動かすアンプモデラーに変えた。「ハードウェアを所有しているなら、それで何でも好きなことができるべきだ」と彼は語った。18nelliはClaude CodeでModded Cyclesを始めた。六トラックのUSBオーディオから出発し、やがてコミュニティプロジェクトに育った。"
               },
               {
                 "t": "p",
-                "x": "元の音声をリファレンスとして使い、新しい音楽をその雰囲気に合わせることもできる。"
-              },
-              {
-                "t": "p",
-                "x": "今回のアップデートでは、ショート動画でのタイミングが改善され、シーン間のムード切り替えもより正確になった。Music Video Editorでは効果音が別レイヤーとして表示され、サウンドトラックとは独立して確認・調整できる。"
-              },
-              {
-                "t": "p",
-                "x": "ElevenCreative、ElevenMusic、ElevenAPIで本日から利用できる。"
+                "x": "これらのファームウェアは公式版ほどテストされていない。Elektronは改造で機器が文鎮化しかねないと警告し、フォーラムでカスタムファームウェアへのリンクを禁止した。一方M-Vaveは、開発キットと書き込みツールを備えたオープンソースのファームウェアFM1 Openを発表した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ElevenLabs为视频\n自动配乐配音效",
-          "body": "Instant Soundtracks为上传的视频配上原创音乐，并以可编辑图层添加音效。",
-          "mini_headline": "ElevenLabs自动为视频配乐",
+          "headline": "氛围编程把合成器\n固件交到玩家手中",
+          "body": "LLM编程助手让业余黑客为自己的合成器和采样器编写定制固件与改装。",
+          "mini_headline": "玩家改写合成器固件",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "WtPiZ0ym13k"
+                "t": "p",
+                "x": "硬件合成器、采样器和律动机的定制固件呈爆发式增长，几乎全部得益于日益成熟的氛围编程工具。过去要花数周乃至数月的工作，比如给Korg Volca加入力度感应，如今业余爱好者几天就能完成。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Instant Soundtracks 可一次性为任何视频加上音乐和音效。"
+                "x": "Elektron的Model:Cycles、Digitone、Octatrack和Digitakt借助Claude获得了新功能；过去一个月左右，Roland、Ableton、Akai、Novation、Arturia和Zoom的设备也出现了新的定制固件。领头的是M-Vave售价$70的DX7复刻机FM-1，它如今已有数十款固件；Felucca、Sloop和x0x等热门固件将Claude列为贡献者或披露了AI的使用。"
               },
               {
                 "t": "p",
-                "x": "上传素材后，模型会用原创音乐为其配乐，并识别需要音效的时刻，把每个音效放到正确的时间点。"
+                "x": "Roman Rusinov把一台2012年的Zoom MS-70CDR效果器改造成运行NAM捕获的音箱模拟器。他说：“既然你拥有这台硬件，就应该能随心所欲地使用它。”18nelli用Claude Code发起了Modded Cycles，最初是六轨USB音频，后来发展成社区项目。"
               },
               {
                 "t": "p",
-                "x": "也可以把原始音频作为参考，让新配乐与其风格相符。"
-              },
-              {
-                "t": "p",
-                "x": "此次更新还改进了短视频内容的节奏把握，场景之间的情绪切换也更准确。在 Music Video Editor 中，音效以独立图层呈现，可与配乐分开检查和调整。"
-              },
-              {
-                "t": "p",
-                "x": "即日起可在 ElevenCreative、ElevenMusic 和 ElevenAPI 中使用。"
+                "x": "这些固件的测试程度不如官方固件。Elektron在论坛上禁止发布定制固件链接，警告改装可能让设备变砖；M-Vave则发布了FM1 Open，这是一款附带开发套件和刷机工具的开源固件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ElevenLabs pone banda sonora\na tu video con música y efectos",
-          "body": "Al subir un video, Instant Soundtracks crea música original y añade efectos de sonido como capas editables.",
-          "mini_headline": "ElevenLabs musicaliza videos",
+          "headline": "El vibe coding da a los músicos\nel firmware de su sintetizador",
+          "body": "Los asistentes de código con LLM permiten a aficionados crear firmware y hacks para sus sintetizadores y samplers.",
+          "mini_headline": "Los músicos reescriben el firmware",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "WtPiZ0ym13k"
+                "t": "p",
+                "x": "El firmware personalizado para sintetizadores, samplers y grooveboxes de hardware se ha disparado, y casi todo ha sido posible gracias a herramientas de vibe coding cada vez más sofisticadas. Trabajos que antes llevaban semanas o meses, como añadir sensibilidad a la velocidad a un Korg Volca, ahora les llevan días a los aficionados."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Instant Soundtracks permite enriquecer cualquier video con música y efectos de sonido en una sola pasada."
+                "x": "Los Model:Cycles, Digitone, Octatrack y Digitakt de Elektron han ganado nuevas funciones con ayuda de Claude, y equipos de Roland, Ableton, Akai, Novation, Arturia y Zoom han recibido nuevo firmware personalizado en el último mes, aproximadamente. A la cabeza está el FM-1 de M-Vave, un clon del DX7 de $70 que ya cuenta con decenas de firmwares; algunos populares, como Felucca, Sloop y x0x, citan a Claude como colaborador o declaran el uso de AI."
               },
               {
                 "t": "p",
-                "x": "Al subir el material, el modelo lo musicaliza con música original y luego detecta los momentos que piden un efecto y coloca cada uno en la marca de tiempo correcta."
+                "x": "Roman Rusinov convirtió un pedal Zoom MS-70CDR de 2012 en un modelador de amplificador que ejecuta capturas de NAM. \"Si eres dueño del hardware, deberías poder hacer con él lo que quieras\", dijo. 18nelli inició Modded Cycles con Claude Code, empezando por audio USB de seis pistas, y el proyecto creció hasta volverse comunitario."
               },
               {
                 "t": "p",
-                "x": "También se puede usar el audio original como referencia para que la nueva música mantenga su carácter."
-              },
-              {
-                "t": "p",
-                "x": "La actualización de hoy mejora además la sincronización en contenido de formato corto y hace más precisos los cambios de ambiente entre escenas. En el Music Video Editor, los efectos de sonido aparecen como capas separadas, de modo que pueden revisarse y ajustarse con independencia de la banda sonora."
-              },
-              {
-                "t": "p",
-                "x": "Disponible desde hoy en ElevenCreative, ElevenMusic y ElevenAPI."
+                "x": "Estos firmwares están menos probados que los oficiales. Elektron prohibió en sus foros los enlaces a firmware personalizado y advirtió que las modificaciones podían inutilizar las máquinas, mientras que M-Vave anunció FM1 Open, un firmware de código abierto con kit de desarrollo y herramienta de flasheo."
               }
             ]
           }
@@ -217,137 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ElevenLabs가\n영상에 음악·효과음 입혀",
-          "body": "Instant Soundtracks는 영상에 음악과 편집 가능한 효과음을 입힌다.",
-          "mini_headline": "ElevenLabs, 영상 자동 작곡",
+          "headline": "바이브 코딩, 신스\n펌웨어를 연주자 손에",
+          "body": "LLM 코딩 도우미 덕에 취미 해커들이 신스와 샘플러용 펌웨어를 직접 만든다.",
+          "mini_headline": "연주자가 고치는 신스 펌웨어",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "WtPiZ0ym13k"
+                "t": "p",
+                "x": "하드웨어 신스와 샘플러, 그루브박스용 커스텀 펌웨어가 폭발적으로 늘었고, 그 거의 전부가 갈수록 정교해지는 바이브 코딩 도구 덕분에 가능해졌다. Korg Volca에 벨로시티 감도를 더하는 일처럼 예전에는 몇 주에서 몇 달 걸리던 작업을 이제 취미 개발자들이 며칠 만에 해낸다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Instant Soundtracks는 한 번의 작업으로 어떤 영상에든 음악과 효과음을 입힌다."
+                "x": "Elektron의 Model:Cycles, Digitone, Octatrack, Digitakt는 Claude의 도움으로 새 기능을 얻었고, Roland, Ableton, Akai, Novation, Arturia, Zoom 장비에도 최근 한 달여 사이 새 커스텀 펌웨어가 나왔다. 선두는 M-Vave의 $70짜리 DX7 복제품 FM-1로, 이제 펌웨어만 수십 종이다. Felucca, Sloop, x0x 같은 인기 펌웨어는 Claude를 기여자로 올리거나 AI 사용을 밝힌다."
               },
               {
                 "t": "p",
-                "x": "영상을 올리면 모델이 오리지널 음악으로 곡을 붙이고, 효과음이 필요한 순간을 찾아 각 효과음을 알맞은 타임스탬프에 배치한다."
+                "x": "Roman Rusinov는 2012년형 Zoom MS-70CDR 페달을 NAM 캡처를 돌리는 앰프 모델러로 바꿨다. 그는 \"하드웨어를 가졌다면 그걸로 원하는 건 무엇이든 할 수 있어야 한다\"고 말했다. 18nelli는 Claude Code로 Modded Cycles를 시작했다. 처음은 여섯 트랙 USB 오디오였고, 이후 커뮤니티 프로젝트로 커졌다."
               },
               {
                 "t": "p",
-                "x": "원본 오디오를 레퍼런스로 삼아 새 음악이 그 분위기를 따르게 할 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "이번 업데이트로 숏폼 콘텐츠의 타이밍이 나아졌고, 장면 사이 분위기 전환도 더 정확해졌다. Music Video Editor에서는 효과음이 별도 레이어로 나타나 사운드트랙과 따로 검토하고 조정할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "ElevenCreative, ElevenMusic, ElevenAPI에서 오늘부터 쓸 수 있다."
+                "x": "이런 펌웨어는 공식 펌웨어보다 검증이 덜 됐다. Elektron은 개조가 기기를 벽돌로 만들 수 있다고 경고하며 포럼에서 커스텀 펌웨어 링크를 금지했고, M-Vave는 개발 키트와 플래싱 도구를 갖춘 오픈소스 펌웨어 FM1 Open을 발표했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ElevenLabs、動画に\n音楽と効果音を自動付与",
-          "body": "Instant Soundtracksは動画にオリジナル音楽と編集可能な効果音を付ける。",
-          "mini_headline": "ElevenLabsが動画を自動スコアリング",
+          "headline": "バイブコーディングが\nファームを奏者の手に",
+          "body": "LLMのコーディング支援で、趣味のハッカーがシンセやサンプラーの独自ファームを作る。",
+          "mini_headline": "奏者がシンセのファームを書き換え",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "WtPiZ0ym13k"
+                "t": "p",
+                "x": "ハードウェアのシンセ、サンプラー、グルーブボックス向けのカスタムファームウェアが爆発的に増えており、そのほぼすべてが高度化を続けるバイブコーディングツールによって可能になった。Korg Volcaにベロシティ感度を加えるといった、かつて数週間から数か月かかった作業が、今では趣味の開発者なら数日で済む。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Instant Soundtracksは、あらゆる動画に音楽と効果音を一度に加えられる機能だ。"
+                "x": "ElektronのModel:Cycles、Digitone、Octatrack、DigitaktはClaudeの助けで新機能を得た。Roland、Ableton、Akai、Novation、Arturia、Zoomの機材にも、ここひと月ほどで新しいカスタムファームウェアが登場している。先頭を走るのはM-Vaveの$70のDX7クローンFM-1で、今やファームウェアは数十種類に上る。Felucca、Sloop、x0xなどの人気ファームはClaudeを貢献者に挙げるか、AIの使用を明かしている。"
               },
               {
                 "t": "p",
-                "x": "映像をアップロードすると、モデルがオリジナル音楽で曲を付け、さらに効果音が必要な場面を見つけて、それぞれを適切なタイムスタンプに配置する。"
+                "x": "Roman Rusinovは2012年製のZoom MS-70CDRペダルを、NAMキャプチャーを動かすアンプモデラーに変えた。「ハードウェアを所有しているなら、それで何でも好きなことができるべきだ」と彼は語った。18nelliはClaude CodeでModded Cyclesを始めた。六トラックのUSBオーディオから出発し、やがてコミュニティプロジェクトに育った。"
               },
               {
                 "t": "p",
-                "x": "元の音声をリファレンスとして使い、新しい音楽をその雰囲気に合わせることもできる。"
-              },
-              {
-                "t": "p",
-                "x": "今回のアップデートでは、ショート動画でのタイミングが改善され、シーン間のムード切り替えもより正確になった。Music Video Editorでは効果音が別レイヤーとして表示され、サウンドトラックとは独立して確認・調整できる。"
-              },
-              {
-                "t": "p",
-                "x": "ElevenCreative、ElevenMusic、ElevenAPIで本日から利用できる。"
+                "x": "これらのファームウェアは公式版ほどテストされていない。Elektronは改造で機器が文鎮化しかねないと警告し、フォーラムでカスタムファームウェアへのリンクを禁止した。一方M-Vaveは、開発キットと書き込みツールを備えたオープンソースのファームウェアFM1 Openを発表した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ElevenLabs为视频\n自动配乐配音效",
-          "body": "Instant Soundtracks为上传的视频配上原创音乐，并以可编辑图层添加音效。",
-          "mini_headline": "ElevenLabs自动为视频配乐",
+          "headline": "氛围编程把合成器\n固件交到玩家手中",
+          "body": "LLM编程助手让业余黑客为自己的合成器和采样器编写定制固件与改装。",
+          "mini_headline": "玩家改写合成器固件",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "WtPiZ0ym13k"
+                "t": "p",
+                "x": "硬件合成器、采样器和律动机的定制固件呈爆发式增长，几乎全部得益于日益成熟的氛围编程工具。过去要花数周乃至数月的工作，比如给Korg Volca加入力度感应，如今业余爱好者几天就能完成。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Instant Soundtracks 可一次性为任何视频加上音乐和音效。"
+                "x": "Elektron的Model:Cycles、Digitone、Octatrack和Digitakt借助Claude获得了新功能；过去一个月左右，Roland、Ableton、Akai、Novation、Arturia和Zoom的设备也出现了新的定制固件。领头的是M-Vave售价$70的DX7复刻机FM-1，它如今已有数十款固件；Felucca、Sloop和x0x等热门固件将Claude列为贡献者或披露了AI的使用。"
               },
               {
                 "t": "p",
-                "x": "上传素材后，模型会用原创音乐为其配乐，并识别需要音效的时刻，把每个音效放到正确的时间点。"
+                "x": "Roman Rusinov把一台2012年的Zoom MS-70CDR效果器改造成运行NAM捕获的音箱模拟器。他说：“既然你拥有这台硬件，就应该能随心所欲地使用它。”18nelli用Claude Code发起了Modded Cycles，最初是六轨USB音频，后来发展成社区项目。"
               },
               {
                 "t": "p",
-                "x": "也可以把原始音频作为参考，让新配乐与其风格相符。"
-              },
-              {
-                "t": "p",
-                "x": "此次更新还改进了短视频内容的节奏把握，场景之间的情绪切换也更准确。在 Music Video Editor 中，音效以独立图层呈现，可与配乐分开检查和调整。"
-              },
-              {
-                "t": "p",
-                "x": "即日起可在 ElevenCreative、ElevenMusic 和 ElevenAPI 中使用。"
+                "x": "这些固件的测试程度不如官方固件。Elektron在论坛上禁止发布定制固件链接，警告改装可能让设备变砖；M-Vave则发布了FM1 Open，这是一款附带开发套件和刷机工具的开源固件。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ElevenLabs pone banda sonora\na tu video con música y efectos",
-          "body": "Al subir un video, Instant Soundtracks crea música original y añade efectos de sonido como capas editables.",
-          "mini_headline": "ElevenLabs musicaliza videos",
+          "headline": "El vibe coding da a los músicos\nel firmware de su sintetizador",
+          "body": "Los asistentes de código con LLM permiten a aficionados crear firmware y hacks para sus sintetizadores y samplers.",
+          "mini_headline": "Los músicos reescriben el firmware",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "WtPiZ0ym13k"
+                "t": "p",
+                "x": "El firmware personalizado para sintetizadores, samplers y grooveboxes de hardware se ha disparado, y casi todo ha sido posible gracias a herramientas de vibe coding cada vez más sofisticadas. Trabajos que antes llevaban semanas o meses, como añadir sensibilidad a la velocidad a un Korg Volca, ahora les llevan días a los aficionados."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
               },
               {
                 "t": "p",
-                "x": "Instant Soundtracks permite enriquecer cualquier video con música y efectos de sonido en una sola pasada."
+                "x": "Los Model:Cycles, Digitone, Octatrack y Digitakt de Elektron han ganado nuevas funciones con ayuda de Claude, y equipos de Roland, Ableton, Akai, Novation, Arturia y Zoom han recibido nuevo firmware personalizado en el último mes, aproximadamente. A la cabeza está el FM-1 de M-Vave, un clon del DX7 de $70 que ya cuenta con decenas de firmwares; algunos populares, como Felucca, Sloop y x0x, citan a Claude como colaborador o declaran el uso de AI."
               },
               {
                 "t": "p",
-                "x": "Al subir el material, el modelo lo musicaliza con música original y luego detecta los momentos que piden un efecto y coloca cada uno en la marca de tiempo correcta."
+                "x": "Roman Rusinov convirtió un pedal Zoom MS-70CDR de 2012 en un modelador de amplificador que ejecuta capturas de NAM. \"Si eres dueño del hardware, deberías poder hacer con él lo que quieras\", dijo. 18nelli inició Modded Cycles con Claude Code, empezando por audio USB de seis pistas, y el proyecto creció hasta volverse comunitario."
               },
               {
                 "t": "p",
-                "x": "También se puede usar el audio original como referencia para que la nueva música mantenga su carácter."
-              },
-              {
-                "t": "p",
-                "x": "La actualización de hoy mejora además la sincronización en contenido de formato corto y hace más precisos los cambios de ambiente entre escenas. En el Music Video Editor, los efectos de sonido aparecen como capas separadas, de modo que pueden revisarse y ajustarse con independencia de la banda sonora."
-              },
-              {
-                "t": "p",
-                "x": "Disponible desde hoy en ElevenCreative, ElevenMusic y ElevenAPI."
+                "x": "Estos firmwares están menos probados que los oficiales. Elektron prohibió en sus foros los enlaces a firmware personalizado y advirtió que las modificaciones podían inutilizar las máquinas, mientras que M-Vave anunció FM1 Open, un firmware de código abierto con kit de desarrollo y herramienta de flasheo."
               }
             ]
           }
@@ -355,15 +315,15 @@
       }
     },
     {
-      "id": "music-zoom-neurig",
+      "id": "music-rodrigo-expectations-debunk",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "약 $300 Neurig\nNAM·스템 분리 지원",
-      "body": "Zoom Neurig은 NAM 캡처와 AI 스템 분리를 지원하는 앰프 모델러다.",
-      "mini_headline": "Zoom Neurig, 약 $300 NAM 모델러",
+      "headline": "Olivia Rodrigo\nAI 의혹, 과정으로 반박",
+      "body": "아트팀과 Rodrigo 팬 계정이 2D/3D 작업 영상으로 AI 의혹을 반박했다.",
+      "mini_headline": "작업 영상으로 AI 의혹 반박",
       "tool": "Music",
-      "source": "Guitar World",
-      "url": "https://www.guitarworld.com/gear/amp-modeler-pedals/zoom-neurig",
+      "source": "Rolling Stone",
+      "url": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-expectations-ai-debunk-1235644671/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -371,257 +331,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
-            "cap": "Zoom Neurig"
+            "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+            "cap": "8월 29일 토요일 Irvine, California의 Great Park에서 열린 Daisy Chain Fields에서 공연하는 Olivia Rodrigo"
           },
           {
             "t": "p",
-            "x": "NAM을 받아들인 대형 브랜드에 Zoom도 Neurig로 새로 이름을 올렸다. 터치스크린을 갖춘 저렴한 모델러인데, Zoom은 이를 “모든 것을 새롭게 정의할 차세대 기타 페달”이라고 부른다. 기본 지원하는 NAM A2 Lite는 TONE3000의 오픈소스 앰프 모델링 아키텍처로, 요즘 기타 업계를 휩쓰는 중이다."
+            "x": "Olivia Rodrigo가 Chappell Roan이 참여한 \"Expectations\" 리믹스의 뮤직비디오를 공개하자 일부 시청자가 AI를 썼다고 의심했다. 그러자 아트팀 디자이너 한 명과 Rodrigo의 공식 팬 계정이 손으로 그린 2D와 3D 애니메이션, 아날로그 처리 과정을 담은 비하인드 영상을 공개했다. AI를 쓰지는 않은 것으로 보인다."
           },
           {
             "t": "p",
-            "x": "Zoom은 이 기술이 “톤만이 아니라 앰프 자체를 재현한다”고 말한다. Marshall JTM 45와 1965 Fender Twin Reverb부터 Diezel Herbert, Mesa/Boogie Dual Rectifier까지 앰프 헤드 32종이 들어 있고, 오리지널 앰프 사운드도 여섯 가지 담았다. NAM을 통합한 덕에 앰프, 페달, 캐비닛을 불러오거나 시그널 체인 전체를 캡처할 수 있다. 700,000개가 넘는 NAM 캡처와 IR 라이브러리도 무료로 가져온다."
-          },
-          {
-            "t": "video",
-            "yt": "pN3mt-v4KiE"
+            "x": "의혹은 3분 무렵의 장면에 집중됐다. 레트로 로고와 Rodrigo, Roan의 애니메이션이 화면을 가로지르는 대목인데, 시청자들은 두 가수의 손가락이 어색하다고 짚었다."
           },
           {
             "t": "p",
-            "x": "이펙트는 리버브, 딜레이, 모듈레이션에 비트크러셔, 로터리 스피커 시뮬레이션, 링 모듈레이터, 피치 시프터까지 갖췄고 익스프레션 페달용 이펙트만 17개다. 이펙트는 최대 14개까지 동시에 걸 수 있다. send/return, MIDI in/out, Bluetooth, 루퍼, 4.5시간 배터리도 들어갔다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
-            "cap": "Zoom Neurig 앰프 모델러 (이미지: Zoom)"
+            "x": "@LiviesHQ 영상은 드로잉 시안과 3D 애니메이션 녹화본을 모았다. 레트로한 로파이 질감은 Jack Harrison이 이끈 아날로그 처리에서 나왔다. 팀은 2D와 3D 소프트웨어로 애니메이션을 만들어 Windows Vista PC에서 재생하고 그 화면을 고해상도 카메라로 찍었다."
           },
           {
             "t": "p",
-            "x": "AI-driven(AI 기반) 톤 생성과 곡에서 기타 파트만 지우는 AI 스템 분리도 SessionZ Pedal 클라우드 서비스로 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "가격은 ¥47,800, 약 $300이다. 공식 US 가격이 나오기 전이라 대략 환산한 값이다."
+            "x": "Rodrigo는 이달 초 The Hollywood Reporter에 음악에 AI를 \"절대\" 쓰지 않겠다고 말했다. 그는 \"절대 안 된다. 그 부분은 확고하다\"고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Zoom's ~$300 Neurig brings NAM\ncaptures and stem separation",
-          "body": "Zoom's ¥47,800 (about $300) touchscreen amp modeler supports Neural Amp Modeler captures and AI stem separation.",
-          "mini_headline": "Zoom Neurig: ~$300 NAM modeler",
+          "headline": "Olivia Rodrigo video team\nanswers AI claims with process",
+          "body": "The art team and Rodrigo's official fan account shared behind-the-scenes 2D/3D and analog footage to rebut AI claims.",
+          "mini_headline": "Process footage rebuts AI claims",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
-                "cap": "Zoom Neurig"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+                "cap": "Olivia Rodrigo performing during Daisy Chain Fields at the Great Park in Irvine, California, on Saturday, Aug. 29"
               },
               {
                 "t": "p",
-                "x": "Zoom is the latest big-name brand to embrace NAM with the Neurig, an affordable touchscreen-equipped modeler it calls “a next-generation guitar pedal that will redefine everything.” It natively supports NAM A2 Lite from TONE3000, the open-source amp modeling architecture sweeping through the guitar industry."
+                "x": "Olivia Rodrigo released a video for the Chappell Roan-assisted remix of \"Expectations,\" and some viewers suspected AI was involved. One of the art team's designers and Rodrigo's official fan account then showed behind-the-scenes footage of hand-drawn 2D and 3D animations, analog treatments and seemingly no AI."
               },
               {
                 "t": "p",
-                "x": "Zoom says the tech “reproduces the amplifier itself, not just the tone.” There are 32 amp heads built in, from a Marshall JTM 45 and 1965 Fender Twin Reverb to a Diezel Herbert and Mesa/Boogie Dual Rectifier, plus six original amp sounds. NAM integration lets users load amps, pedals and cabinets, capture full signal chains, and import over 700,000 NAM capture and IR libraries for free."
-              },
-              {
-                "t": "video",
-                "yt": "pN3mt-v4KiE"
+                "x": "The accusations centred on a scene around the three-minute mark, where retro logos and animations of Rodrigo and Roan fly through the frame; viewers pointed to inconsistencies in the singers' fingers."
               },
               {
                 "t": "p",
-                "x": "Effects include reverbs, delays and modulations plus a bit crusher, rotary speaker sim, ring modulator and pitch shifter, with 17 effects tailored for an expression pedal. It runs up to 14 effects simultaneously and adds send/return, MIDI in/out, Bluetooth, a looper and a 4.5-hour battery."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
-                "cap": "Zoom Neurig amp modeler (Image credit: Zoom)"
+                "x": "The @LiviesHQ video compiles drawing drafts and 3D animation recordings. Jack Harrison led the analog treatment behind the video's retro, lo-fi look: the team made the animations in 2D and 3D software, played them on a Windows Vista PC and filmed the screen with a hi-res camera."
               },
               {
                 "t": "p",
-                "x": "It also features AI-driven tone generation and AI stem separation for removing guitar parts from tracks, accessible via the SessionZ Pedal cloud service."
-              },
-              {
-                "t": "p",
-                "x": "The price is ¥47,800, approximately $300 – a rough conversion while we wait for an official US price."
+                "x": "Earlier this month Rodrigo told The Hollywood Reporter she would \"never\" use AI in her music. \"Absolutely no. Hard line on that,\" she said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "약 $300 Neurig\nNAM·스템 분리 지원",
-          "body": "Zoom Neurig은 NAM 캡처와 AI 스템 분리를 지원하는 앰프 모델러다.",
-          "mini_headline": "Zoom Neurig, 약 $300 NAM 모델러",
+          "headline": "Olivia Rodrigo\nAI 의혹, 과정으로 반박",
+          "body": "아트팀과 Rodrigo 팬 계정이 2D/3D 작업 영상으로 AI 의혹을 반박했다.",
+          "mini_headline": "작업 영상으로 AI 의혹 반박",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
-                "cap": "Zoom Neurig"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+                "cap": "8월 29일 토요일 Irvine, California의 Great Park에서 열린 Daisy Chain Fields에서 공연하는 Olivia Rodrigo"
               },
               {
                 "t": "p",
-                "x": "NAM을 받아들인 대형 브랜드에 Zoom도 Neurig로 새로 이름을 올렸다. 터치스크린을 갖춘 저렴한 모델러인데, Zoom은 이를 “모든 것을 새롭게 정의할 차세대 기타 페달”이라고 부른다. 기본 지원하는 NAM A2 Lite는 TONE3000의 오픈소스 앰프 모델링 아키텍처로, 요즘 기타 업계를 휩쓰는 중이다."
+                "x": "Olivia Rodrigo가 Chappell Roan이 참여한 \"Expectations\" 리믹스의 뮤직비디오를 공개하자 일부 시청자가 AI를 썼다고 의심했다. 그러자 아트팀 디자이너 한 명과 Rodrigo의 공식 팬 계정이 손으로 그린 2D와 3D 애니메이션, 아날로그 처리 과정을 담은 비하인드 영상을 공개했다. AI를 쓰지는 않은 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "Zoom은 이 기술이 “톤만이 아니라 앰프 자체를 재현한다”고 말한다. Marshall JTM 45와 1965 Fender Twin Reverb부터 Diezel Herbert, Mesa/Boogie Dual Rectifier까지 앰프 헤드 32종이 들어 있고, 오리지널 앰프 사운드도 여섯 가지 담았다. NAM을 통합한 덕에 앰프, 페달, 캐비닛을 불러오거나 시그널 체인 전체를 캡처할 수 있다. 700,000개가 넘는 NAM 캡처와 IR 라이브러리도 무료로 가져온다."
-              },
-              {
-                "t": "video",
-                "yt": "pN3mt-v4KiE"
+                "x": "의혹은 3분 무렵의 장면에 집중됐다. 레트로 로고와 Rodrigo, Roan의 애니메이션이 화면을 가로지르는 대목인데, 시청자들은 두 가수의 손가락이 어색하다고 짚었다."
               },
               {
                 "t": "p",
-                "x": "이펙트는 리버브, 딜레이, 모듈레이션에 비트크러셔, 로터리 스피커 시뮬레이션, 링 모듈레이터, 피치 시프터까지 갖췄고 익스프레션 페달용 이펙트만 17개다. 이펙트는 최대 14개까지 동시에 걸 수 있다. send/return, MIDI in/out, Bluetooth, 루퍼, 4.5시간 배터리도 들어갔다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
-                "cap": "Zoom Neurig 앰프 모델러 (이미지: Zoom)"
+                "x": "@LiviesHQ 영상은 드로잉 시안과 3D 애니메이션 녹화본을 모았다. 레트로한 로파이 질감은 Jack Harrison이 이끈 아날로그 처리에서 나왔다. 팀은 2D와 3D 소프트웨어로 애니메이션을 만들어 Windows Vista PC에서 재생하고 그 화면을 고해상도 카메라로 찍었다."
               },
               {
                 "t": "p",
-                "x": "AI-driven(AI 기반) 톤 생성과 곡에서 기타 파트만 지우는 AI 스템 분리도 SessionZ Pedal 클라우드 서비스로 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "가격은 ¥47,800, 약 $300이다. 공식 US 가격이 나오기 전이라 대략 환산한 값이다."
+                "x": "Rodrigo는 이달 초 The Hollywood Reporter에 음악에 AI를 \"절대\" 쓰지 않겠다고 말했다. 그는 \"절대 안 된다. 그 부분은 확고하다\"고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "約$300のNeurig\nNAMとステム分離対応",
-          "body": "ZoomのNeurigは、NAMキャプチャーとAIステム分離に対応するアンプモデラーだ。",
-          "mini_headline": "Zoom Neurig：約$300のNAMモデラー",
+          "headline": "Olivia Rodrigo\nAI疑惑に制作過程で反論",
+          "body": "アート陣とRodrigo公式ファンアカウントが2D/3D・アナログ映像でAI疑惑に反論した。",
+          "mini_headline": "制作映像がAI疑惑を否定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
-                "cap": "Zoom Neurig"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+                "cap": "8月29日（土）、California州IrvineのGreat Parkで開かれたDaisy Chain Fieldsで歌うOlivia Rodrigo"
               },
               {
                 "t": "p",
-                "x": "Zoomは、Neurigによって NAM を取り入れた最新の大手ブランドとなった。Neurigはタッチスクリーンを備えた手頃なモデラーで、同社は「すべてを再定義する次世代ギターペダル」と呼ぶ。ギター業界を席巻するオープンソースのアンプモデリング・アーキテクチャ、TONE3000のNAM A2 Liteをネイティブでサポートする。"
+                "x": "Olivia RodrigoがChappell Roanを迎えた「Expectations」リミックスのミュージックビデオを公開すると、一部の視聴者がAIの使用を疑った。これを受けてアートチームのデザイナーの一人とRodrigoの公式ファンアカウントが、手描きの2Dと3Dアニメーションやアナログ処理を収めたメイキング映像を公開した。AIは使われていないとみられる。"
               },
               {
                 "t": "p",
-                "x": "Zoomによれば、この技術は「トーンだけでなく、アンプそのものを再現する」。Marshall JTM 45や1965 Fender Twin ReverbからDiezel Herbert、Mesa/Boogie Dual Rectifierまで32種類のアンプヘッドを内蔵し、オリジナルのアンプサウンドも6種類備える。NAM統合により、アンプ、ペダル、キャビネットの読み込みやシグナルチェーン全体のキャプチャーが可能で、700,000を超えるNAMキャプチャーとIRライブラリを無料でインポートできる。"
-              },
-              {
-                "t": "video",
-                "yt": "pN3mt-v4KiE"
+                "x": "疑惑が集中したのは3分前後の場面だ。レトロなロゴとRodrigo、Roanのアニメーションが画面を飛び交う箇所で、視聴者は二人の歌手の指の不自然さを指摘した。"
               },
               {
                 "t": "p",
-                "x": "エフェクトはリバーブ、ディレイ、モジュレーションに加え、ビットクラッシャー、ロータリースピーカー・シミュレーター、リングモジュレーター、ピッチシフターをそろえ、エクスプレッションペダル向けのエフェクトが17種類ある。最大14個のエフェクトを同時に使え、send/return、MIDI in/out、Bluetooth、ルーパー、4.5時間駆動のバッテリーも備える。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
-                "cap": "Zoom Neurigアンプモデラー（画像：Zoom）"
+                "x": "@LiviesHQの動画は、ドローイングの下絵と3Dアニメーションの録画をまとめたものだ。映像のレトロでローファイな質感を生んだアナログ処理はJack Harrisonが主導した。チームは2Dと3Dのソフトでアニメーションを作り、Windows Vista PCで再生して、その画面を高解像度カメラで撮影した。"
               },
               {
                 "t": "p",
-                "x": "AI-drivenのトーン生成や、曲からギターパートを取り除くAIステム分離も搭載し、SessionZ Pedalクラウドサービスから利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "価格は¥47,800で、約$300だ。米国での公式価格が出るまでの大まかな換算である。"
+                "x": "Rodrigoは今月初め、The Hollywood Reporterに対し、自身の音楽にAIを「決して」使わないと語っていた。「絶対にない。そこは譲れない一線だ」と彼女は述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "约$300的Neurig\n支持NAM与音轨分离",
-          "body": "Zoom的Neurig是支持NAM捕捉与AI音轨分离的触屏音箱模拟器。",
-          "mini_headline": "Zoom Neurig：约$300的NAM模拟器",
+          "headline": "Olivia Rodrigo\n视频团队用过程回应AI质疑",
+          "body": "美术团队与Rodrigo官方粉丝账号晒出2D/3D和模拟制作花絮，反驳AI质疑。",
+          "mini_headline": "制作花絮驳斥AI质疑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
-                "cap": "Zoom Neurig"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+                "cap": "8月29日周六，Olivia Rodrigo在California州Irvine的Great Park举行的Daisy Chain Fields上演出"
               },
               {
                 "t": "p",
-                "x": "Zoom 凭借 Neurig 成为最新一家拥抱 NAM 的知名品牌。这是一款配备触摸屏、价格亲民的模拟器，Zoom 称之为“将重新定义一切的新一代吉他效果器”。它原生支持 TONE3000 的 NAM A2 Lite，这一开源音箱建模架构正席卷吉他行业。"
+                "x": "Olivia Rodrigo发布了Chappell Roan参与的《Expectations》混音版音乐视频，部分观众怀疑其中用了AI。随后，美术团队的一位设计师和Rodrigo的官方粉丝账号公开了幕后花絮，展示手绘的2D和3D动画以及模拟处理过程，看起来并未使用AI。"
               },
               {
                 "t": "p",
-                "x": "Zoom 表示，这项技术“重现的是音箱本身，而不只是音色”。设备内置 32 款音箱头，从 Marshall JTM 45、1965 Fender Twin Reverb 到 Diezel Herbert 和 Mesa/Boogie Dual Rectifier，另有六种原创音箱音色。借助 NAM 集成，用户可以加载音箱、效果器和箱体，捕捉完整信号链，并免费导入超过 700,000 个 NAM 捕捉和 IR 库。"
-              },
-              {
-                "t": "video",
-                "yt": "pN3mt-v4KiE"
+                "x": "质疑集中在三分钟左右的一个场景：复古标志和Rodrigo、Roan的动画在画面中飞过，观众指出两位歌手的手指前后不一致。"
               },
               {
                 "t": "p",
-                "x": "效果包括混响、延迟和调制，以及比特破碎、旋转扬声器模拟、环形调制器和移调器，其中 17 种效果专为表情踏板设计。它最多可同时运行 14 种效果，并配备 send/return、MIDI in/out、Bluetooth、乐句循环器和 4.5 小时续航电池。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
-                "cap": "Zoom Neurig 音箱模拟器（图片来源：Zoom）"
+                "x": "@LiviesHQ的视频汇集了手绘草稿和3D动画录屏。Jack Harrison主导了赋予视频复古低保真质感的模拟处理：团队先用2D和3D软件制作动画，再在一台Windows Vista PC上播放，并用高分辨率相机翻拍屏幕。"
               },
               {
                 "t": "p",
-                "x": "它还具备 AI-driven 音色生成，以及可从曲目中去除吉他声部的 AI 音轨分离，可通过 SessionZ Pedal 云服务使用。"
-              },
-              {
-                "t": "p",
-                "x": "售价为 ¥47,800，约合 $300——这是在等待美国官方定价期间的粗略换算。"
+                "x": "Rodrigo本月早些时候对The Hollywood Reporter表示，她“绝不”会在音乐中使用AI。她说：“绝对不会。这是我的底线。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Zoom Neurig: unos $300, con NAM\ny separación de pistas por IA",
-          "body": "El modelador táctil de Zoom, de ¥47.800 (unos $300), admite capturas NAM y separación de pistas por IA.",
-          "mini_headline": "Zoom Neurig: modelador NAM de unos $300",
+          "headline": "El equipo de Olivia Rodrigo\nresponde a acusaciones de AI",
+          "body": "El equipo artístico y la cuenta de fans de Rodrigo mostraron su trabajo 2D/3D y analógico para refutar el uso de AI.",
+          "mini_headline": "El proceso desmiente la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
-                "cap": "Zoom Neurig"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+                "cap": "Olivia Rodrigo actúa en Daisy Chain Fields, en el Great Park de Irvine, California, el sábado 29 de agosto"
               },
               {
                 "t": "p",
-                "x": "Zoom es la última gran marca en adoptar NAM con el Neurig, un modelador asequible con pantalla táctil que la empresa describe como “un pedal de guitarra de nueva generación que lo redefinirá todo”. Es compatible de forma nativa con NAM A2 Lite de TONE3000, la arquitectura de código abierto para modelar amplificadores que se está extendiendo por la industria de la guitarra."
+                "x": "Olivia Rodrigo publicó un video para el remix de \"Expectations\" con Chappell Roan, y algunos espectadores sospecharon que se había usado AI. Después, uno de los diseñadores del equipo artístico y la cuenta oficial de fans de Rodrigo mostraron material del detrás de cámaras con animaciones 2D y 3D dibujadas a mano, tratamientos analógicos y, al parecer, nada de AI."
               },
               {
                 "t": "p",
-                "x": "Según Zoom, la tecnología “reproduce el propio amplificador, no solo el tono”. Incluye 32 cabezales de amplificador, desde un Marshall JTM 45 y un 1965 Fender Twin Reverb hasta un Diezel Herbert y un Mesa/Boogie Dual Rectifier, además de seis sonidos de amplificador originales. La integración con NAM permite cargar amplificadores, pedales y gabinetes, capturar cadenas de señal completas e importar gratis más de 700.000 capturas NAM y bibliotecas de IR."
-              },
-              {
-                "t": "video",
-                "yt": "pN3mt-v4KiE"
+                "x": "Las acusaciones se centraron en una escena cerca del minuto tres, en la que logos retro y animaciones de Rodrigo y Roan atraviesan el encuadre; los espectadores señalaron incoherencias en los dedos de las cantantes."
               },
               {
                 "t": "p",
-                "x": "Los efectos incluyen reverberaciones, retardos y modulaciones, además de un bit crusher, un simulador de altavoz rotativo, un modulador en anillo y un pitch shifter, con 17 efectos pensados para pedal de expresión. Puede ejecutar hasta 14 efectos a la vez y suma send/return, MIDI in/out, Bluetooth, un looper y una batería de 4,5 horas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
-                "cap": "Amplificador modelador Zoom Neurig (Imagen: Zoom)"
+                "x": "El video de @LiviesHQ reúne bocetos y grabaciones de animación 3D. Jack Harrison dirigió el tratamiento analógico detrás del aspecto retro y lo-fi del video: el equipo creó las animaciones en software 2D y 3D, las reprodujo en un PC con Windows Vista y filmó la pantalla con una cámara de alta resolución."
               },
               {
                 "t": "p",
-                "x": "También ofrece generación de tonos AI-driven (impulsada por IA) y separación de pistas por IA para eliminar las partes de guitarra de las canciones, a través del servicio en la nube SessionZ Pedal."
-              },
-              {
-                "t": "p",
-                "x": "El precio es de ¥47.800, unos $300: una conversión aproximada mientras se espera el precio oficial en EE. UU."
+                "x": "A principios de este mes, Rodrigo dijo a The Hollywood Reporter que \"nunca\" usaría AI en su música. \"Absolutamente no. Es una línea roja\", afirmó."
               }
             ]
           }
@@ -629,177 +511,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "약 $300 Neurig\nNAM·스템 분리 지원",
-          "body": "Zoom Neurig은 NAM 캡처와 AI 스템 분리를 지원하는 앰프 모델러다.",
-          "mini_headline": "Zoom Neurig: 약 $300 NAM 모델러",
+          "headline": "Olivia Rodrigo\nAI 의혹, 과정으로 반박",
+          "body": "아트팀과 Rodrigo 팬 계정이 2D/3D 작업 영상으로 AI 의혹을 반박했다.",
+          "mini_headline": "작업 영상으로 AI 의혹 반박",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
-                "cap": "Zoom Neurig"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+                "cap": "8월 29일 토요일 Irvine, California의 Great Park에서 열린 Daisy Chain Fields에서 공연하는 Olivia Rodrigo"
               },
               {
                 "t": "p",
-                "x": "Zoom이 Neurig로 NAM을 받아들인 최신 대형 브랜드가 됐다. 터치스크린을 갖춘 저렴한 모델러로, Zoom은 이를 “모든 것을 새롭게 정의할 차세대 기타 페달”이라고 부른다. 기타 업계를 휩쓸고 있는 오픈소스 앰프 모델링 아키텍처인 TONE3000의 NAM A2 Lite를 기본 지원한다."
+                "x": "Olivia Rodrigo가 Chappell Roan이 참여한 \"Expectations\" 리믹스의 뮤직비디오를 공개하자 일부 시청자가 AI가 쓰였다고 의심했다. 그러자 아트팀 디자이너 한 명과 Rodrigo의 공식 팬 계정이 손으로 그린 2D와 3D 애니메이션, 아날로그 처리 과정을 담은 비하인드 영상을 공개했다. AI는 쓰이지 않은 것으로 보인다."
               },
               {
                 "t": "p",
-                "x": "Zoom은 이 기술이 “톤만이 아니라 앰프 자체를 재현한다”고 말한다. Marshall JTM 45와 1965 Fender Twin Reverb부터 Diezel Herbert, Mesa/Boogie Dual Rectifier까지 32종의 앰프 헤드를 내장했고, 오리지널 앰프 사운드 여섯 가지도 담았다. NAM 통합으로 앰프, 페달, 캐비닛을 불러오고 전체 시그널 체인을 캡처할 수 있으며, 700,000개가 넘는 NAM 캡처와 IR 라이브러리를 무료로 가져올 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "pN3mt-v4KiE"
+                "x": "의혹은 3분 무렵의 장면에 집중됐다. 레트로 로고와 Rodrigo, Roan의 애니메이션이 화면을 가로지르는 대목으로, 시청자들은 두 가수의 손가락이 어색하다고 지적했다."
               },
               {
                 "t": "p",
-                "x": "이펙트로는 리버브, 딜레이, 모듈레이션에 더해 비트크러셔, 로터리 스피커 시뮬레이션, 링 모듈레이터, 피치 시프터가 있고, 익스프레션 페달에 맞춘 이펙트가 17개다. 최대 14개 이펙트를 동시에 쓸 수 있으며 send/return, MIDI in/out, Bluetooth, 루퍼, 4.5시간 배터리도 갖췄다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
-                "cap": "Zoom Neurig 앰프 모델러 (이미지: Zoom)"
+                "x": "@LiviesHQ 영상은 드로잉 시안과 3D 애니메이션 녹화본을 모았다. 영상의 레트로한 로파이 질감을 만든 아날로그 처리는 Jack Harrison이 이끌었다. 팀은 2D와 3D 소프트웨어로 애니메이션을 만들어 Windows Vista PC에서 재생한 뒤, 그 화면을 고해상도 카메라로 촬영했다."
               },
               {
                 "t": "p",
-                "x": "AI-driven(AI 기반) 톤 생성과 곡에서 기타 파트를 지우는 AI 스템 분리 기능도 갖췄으며, SessionZ Pedal 클라우드 서비스로 이용할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "가격은 ¥47,800, 약 $300이다. 공식 US 가격이 나오기 전까지의 대략적인 환산이다."
+                "x": "Rodrigo는 이달 초 The Hollywood Reporter에 자신의 음악에 AI를 \"절대\" 쓰지 않겠다고 말했다. 그는 \"절대 안 된다. 그 부분은 확고하다\"고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "約$300のNeurig\nNAMとステム分離対応",
-          "body": "ZoomのNeurigは、NAMキャプチャーとAIステム分離に対応するアンプモデラーだ。",
-          "mini_headline": "Zoom Neurig：約$300のNAMモデラー",
+          "headline": "Olivia Rodrigo\nAI疑惑に制作過程で反論",
+          "body": "アート陣とRodrigo公式ファンアカウントが2D/3D・アナログ映像でAI疑惑に反論した。",
+          "mini_headline": "制作映像がAI疑惑を否定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
-                "cap": "Zoom Neurig"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+                "cap": "8月29日（土）、California州IrvineのGreat Parkで開かれたDaisy Chain Fieldsで歌うOlivia Rodrigo"
               },
               {
                 "t": "p",
-                "x": "Zoomは、Neurigによって NAM を取り入れた最新の大手ブランドとなった。Neurigはタッチスクリーンを備えた手頃なモデラーで、同社は「すべてを再定義する次世代ギターペダル」と呼ぶ。ギター業界を席巻するオープンソースのアンプモデリング・アーキテクチャ、TONE3000のNAM A2 Liteをネイティブでサポートする。"
+                "x": "Olivia RodrigoがChappell Roanを迎えた「Expectations」リミックスのミュージックビデオを公開すると、一部の視聴者がAIの使用を疑った。これを受けてアートチームのデザイナーの一人とRodrigoの公式ファンアカウントが、手描きの2Dと3Dアニメーションやアナログ処理を収めたメイキング映像を公開した。AIは使われていないとみられる。"
               },
               {
                 "t": "p",
-                "x": "Zoomによれば、この技術は「トーンだけでなく、アンプそのものを再現する」。Marshall JTM 45や1965 Fender Twin ReverbからDiezel Herbert、Mesa/Boogie Dual Rectifierまで32種類のアンプヘッドを内蔵し、オリジナルのアンプサウンドも6種類備える。NAM統合により、アンプ、ペダル、キャビネットの読み込みやシグナルチェーン全体のキャプチャーが可能で、700,000を超えるNAMキャプチャーとIRライブラリを無料でインポートできる。"
-              },
-              {
-                "t": "video",
-                "yt": "pN3mt-v4KiE"
+                "x": "疑惑が集中したのは3分前後の場面だ。レトロなロゴとRodrigo、Roanのアニメーションが画面を飛び交う箇所で、視聴者は二人の歌手の指の不自然さを指摘した。"
               },
               {
                 "t": "p",
-                "x": "エフェクトはリバーブ、ディレイ、モジュレーションに加え、ビットクラッシャー、ロータリースピーカー・シミュレーター、リングモジュレーター、ピッチシフターをそろえ、エクスプレッションペダル向けのエフェクトが17種類ある。最大14個のエフェクトを同時に使え、send/return、MIDI in/out、Bluetooth、ルーパー、4.5時間駆動のバッテリーも備える。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
-                "cap": "Zoom Neurigアンプモデラー（画像：Zoom）"
+                "x": "@LiviesHQの動画は、ドローイングの下絵と3Dアニメーションの録画をまとめたものだ。映像のレトロでローファイな質感を生んだアナログ処理はJack Harrisonが主導した。チームは2Dと3Dのソフトでアニメーションを作り、Windows Vista PCで再生して、その画面を高解像度カメラで撮影した。"
               },
               {
                 "t": "p",
-                "x": "AI-drivenのトーン生成や、曲からギターパートを取り除くAIステム分離も搭載し、SessionZ Pedalクラウドサービスから利用できる。"
-              },
-              {
-                "t": "p",
-                "x": "価格は¥47,800で、約$300だ。米国での公式価格が出るまでの大まかな換算である。"
+                "x": "Rodrigoは今月初め、The Hollywood Reporterに対し、自身の音楽にAIを「決して」使わないと語っていた。「絶対にない。そこは譲れない一線だ」と彼女は述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "约$300的Neurig\n支持NAM与音轨分离",
-          "body": "Zoom的Neurig是支持NAM捕捉与AI音轨分离的触屏音箱模拟器。",
-          "mini_headline": "Zoom Neurig：约$300的NAM模拟器",
+          "headline": "Olivia Rodrigo\n视频团队用过程回应AI质疑",
+          "body": "美术团队与Rodrigo官方粉丝账号晒出2D/3D和模拟制作花絮，反驳AI质疑。",
+          "mini_headline": "制作花絮驳斥AI质疑",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
-                "cap": "Zoom Neurig"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+                "cap": "8月29日周六，Olivia Rodrigo在California州Irvine的Great Park举行的Daisy Chain Fields上演出"
               },
               {
                 "t": "p",
-                "x": "Zoom 凭借 Neurig 成为最新一家拥抱 NAM 的知名品牌。这是一款配备触摸屏、价格亲民的模拟器，Zoom 称之为“将重新定义一切的新一代吉他效果器”。它原生支持 TONE3000 的 NAM A2 Lite，这一开源音箱建模架构正席卷吉他行业。"
+                "x": "Olivia Rodrigo发布了Chappell Roan参与的《Expectations》混音版音乐视频，部分观众怀疑其中用了AI。随后，美术团队的一位设计师和Rodrigo的官方粉丝账号公开了幕后花絮，展示手绘的2D和3D动画以及模拟处理过程，看起来并未使用AI。"
               },
               {
                 "t": "p",
-                "x": "Zoom 表示，这项技术“重现的是音箱本身，而不只是音色”。设备内置 32 款音箱头，从 Marshall JTM 45、1965 Fender Twin Reverb 到 Diezel Herbert 和 Mesa/Boogie Dual Rectifier，另有六种原创音箱音色。借助 NAM 集成，用户可以加载音箱、效果器和箱体，捕捉完整信号链，并免费导入超过 700,000 个 NAM 捕捉和 IR 库。"
-              },
-              {
-                "t": "video",
-                "yt": "pN3mt-v4KiE"
+                "x": "质疑集中在三分钟左右的一个场景：复古标志和Rodrigo、Roan的动画在画面中飞过，观众指出两位歌手的手指前后不一致。"
               },
               {
                 "t": "p",
-                "x": "效果包括混响、延迟和调制，以及比特破碎、旋转扬声器模拟、环形调制器和移调器，其中 17 种效果专为表情踏板设计。它最多可同时运行 14 种效果，并配备 send/return、MIDI in/out、Bluetooth、乐句循环器和 4.5 小时续航电池。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
-                "cap": "Zoom Neurig 音箱模拟器（图片来源：Zoom）"
+                "x": "@LiviesHQ的视频汇集了手绘草稿和3D动画录屏。Jack Harrison主导了赋予视频复古低保真质感的模拟处理：团队先用2D和3D软件制作动画，再在一台Windows Vista PC上播放，并用高分辨率相机翻拍屏幕。"
               },
               {
                 "t": "p",
-                "x": "它还具备 AI-driven 音色生成，以及可从曲目中去除吉他声部的 AI 音轨分离，可通过 SessionZ Pedal 云服务使用。"
-              },
-              {
-                "t": "p",
-                "x": "售价为 ¥47,800，约合 $300——这是在等待美国官方定价期间的粗略换算。"
+                "x": "Rodrigo本月早些时候对The Hollywood Reporter表示，她“绝不”会在音乐中使用AI。她说：“绝对不会。这是我的底线。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Zoom Neurig: unos $300, con NAM\ny separación de pistas por IA",
-          "body": "El modelador táctil de Zoom, de ¥47.800 (unos $300), admite capturas NAM y separación de pistas por IA.",
-          "mini_headline": "Zoom Neurig: modelador NAM de unos $300",
+          "headline": "El equipo de Olivia Rodrigo\nresponde a acusaciones de AI",
+          "body": "El equipo artístico y la cuenta de fans de Rodrigo mostraron su trabajo 2D/3D y analógico para refutar el uso de AI.",
+          "mini_headline": "El proceso desmiente la AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Lm8qNTwhDVP9LwAoTGLz65-1200-80.jpg",
-                "cap": "Zoom Neurig"
+                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/olivia-music-video-debunk.jpg?crop=0px%2C18px%2C1800px%2C1014px&resize=1600%2C900",
+                "cap": "Olivia Rodrigo actúa en Daisy Chain Fields, en el Great Park de Irvine, California, el sábado 29 de agosto"
               },
               {
                 "t": "p",
-                "x": "Zoom es la última gran marca en adoptar NAM con el Neurig, un modelador asequible con pantalla táctil que la empresa describe como “un pedal de guitarra de nueva generación que lo redefinirá todo”. Es compatible de forma nativa con NAM A2 Lite de TONE3000, la arquitectura de código abierto para modelar amplificadores que se está extendiendo por la industria de la guitarra."
+                "x": "Olivia Rodrigo publicó un video para el remix de \"Expectations\" con Chappell Roan, y algunos espectadores sospecharon que se había usado AI. Después, uno de los diseñadores del equipo artístico y la cuenta oficial de fans de Rodrigo mostraron material del detrás de cámaras con animaciones 2D y 3D dibujadas a mano, tratamientos analógicos y, al parecer, nada de AI."
               },
               {
                 "t": "p",
-                "x": "Según Zoom, la tecnología “reproduce el propio amplificador, no solo el tono”. Incluye 32 cabezales de amplificador, desde un Marshall JTM 45 y un 1965 Fender Twin Reverb hasta un Diezel Herbert y un Mesa/Boogie Dual Rectifier, además de seis sonidos de amplificador originales. La integración con NAM permite cargar amplificadores, pedales y gabinetes, capturar cadenas de señal completas e importar gratis más de 700.000 capturas NAM y bibliotecas de IR."
-              },
-              {
-                "t": "video",
-                "yt": "pN3mt-v4KiE"
+                "x": "Las acusaciones se centraron en una escena cerca del minuto tres, en la que logos retro y animaciones de Rodrigo y Roan atraviesan el encuadre; los espectadores señalaron incoherencias en los dedos de las cantantes."
               },
               {
                 "t": "p",
-                "x": "Los efectos incluyen reverberaciones, retardos y modulaciones, además de un bit crusher, un simulador de altavoz rotativo, un modulador en anillo y un pitch shifter, con 17 efectos pensados para pedal de expresión. Puede ejecutar hasta 14 efectos a la vez y suma send/return, MIDI in/out, Bluetooth, un looper y una batería de 4,5 horas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/azsHVphS6PwzSuRbBmZ975.jpg",
-                "cap": "Amplificador modelador Zoom Neurig (Imagen: Zoom)"
+                "x": "El video de @LiviesHQ reúne bocetos y grabaciones de animación 3D. Jack Harrison dirigió el tratamiento analógico detrás del aspecto retro y lo-fi del video: el equipo creó las animaciones en software 2D y 3D, las reprodujo en un PC con Windows Vista y filmó la pantalla con una cámara de alta resolución."
               },
               {
                 "t": "p",
-                "x": "También ofrece generación de tonos AI-driven (impulsada por IA) y separación de pistas por IA para eliminar las partes de guitarra de las canciones, a través del servicio en la nube SessionZ Pedal."
-              },
-              {
-                "t": "p",
-                "x": "El precio es de ¥47.800, unos $300: una conversión aproximada mientras se espera el precio oficial en EE. UU."
+                "x": "A principios de este mes, Rodrigo dijo a The Hollywood Reporter que \"nunca\" usaría AI en su música. \"Absolutamente no. Es una línea roja\", afirmó."
               }
             ]
           }
@@ -807,219 +637,171 @@
       }
     },
     {
-      "id": "music-rocketship-audience-map",
+      "id": "music-suno-lightspeed-subpoena",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Rocketship이\n발매 전 청취자 찾는다",
-      "body": "Rocketship은 AI로 미발매 곡의 청중을 찾고 첫 분석은 무료다.",
-      "mini_headline": "Rocketship, 발매 전 청취자 분석",
+      "headline": "레이블, Suno 투자사에\n학습 데이터 리스크 추궁",
+      "body": "Sony·Universal이 Lightspeed의 소환장 무효 신청에 반대했다.",
+      "mini_headline": "레이블, Suno 투자사에 소환장",
       "tool": "Music",
-      "source": "Hypebot",
-      "url": "https://www.hypebot.com/rocketship-maps-a-songs-listeners-before-release-for-free/",
+      "source": "Music Business Worldwide",
+      "url": "https://www.musicbusinessworldwide.com/sony-and-universal-ask-court-to-force-suno-investor-lightspeed-to-testify-about-the-legal-risk-of-training-data/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "스트리밍 플랫폼에는 매일 약 100,000곡의 신곡이 쏟아진다. 독립 아티스트에게는 힘겨운 싸움이다. 싱글 선정, 광고 구매, 프로모션 기획처럼 돈이 가장 많이 드는 결정도 대부분 짐작으로 내린다."
-          },
-          {
-            "t": "p",
-            "x": "Rocketship은 Maxwell Zotz(Verge Campus, MAX.Live)와 Billy Rodgers(Fanpage)가 함께 세웠다. 곡이 상업 발매되기 전에 잠재 청중을 찾아내는 최초의 AI-driven 플랫폼이라고 내세운다. 넉 달간 Beta를 돌리며 레이블, 퍼블리싱, 매니지먼트, 유통 분야 임원 100명 이상에게 피드백을 받았다."
-          },
-          {
             "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
-            "cap": "Rocketship"
+            "src": "https://i0.wp.com/www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+            "cap": "출처: Zulfugar Graphics/Shutterstock"
           },
           {
             "t": "p",
-            "x": "Rocketship은 미발매 트랙을 오디오, 가사, 맥락에 걸친 80개 파라미터로 평가한 뒤 수십 년 음악사와 대조해 청취자 프로필을 찾는다. 모델은 Loeb & Loeb과 함께 개발해 특허를 출원했고, 250,000곡이 넘는 카탈로그 트랙으로 학습했다. 그다음 발매 시기와 예산에 맞춰 프로모션 전략을 짠다."
+            "x": "Universal Music Group과 Sony Music Entertainment는 Suno의 Series B를 주도한 Lightspeed Venture Partners에게서 문서와 증언을 받아내려 한다. 두 회사는 10월 13일 화요일 Boston 연방법원에 낸 서면에서 소환장을 무효로 해 달라는 Lightspeed의 신청에 반대했다. 증언 주제에는 Lightspeed가 이미 제출한 문서에서 논의된 \"학습 데이터의 법적 위험\"과, 그 문서가 위험 요인으로 꼽은 \"학습 데이터 관련 규제 및/또는 레이블 소송\"이 들어간다."
           },
           {
             "t": "p",
-            "x": "신규 사용자라면 누구나 미발매 트랙 하나를 비용 없이 분석할 수 있다. AI-powered 대시보드 Mission Control에서는 프로모션 미션을 맞춤 설정하고, Rocketship Studio는 몇 분 만에 오디오를 세로형 영상 에셋으로 바꿔 준다."
+            "x": "Lightspeed는 2024년 5월 Suno의 $125 million 규모 Series B를 주도했고, 이사회에 자리가 있고 Series C와 Series D 라운드에도 다시 투자했다. 지난해 문서 152건을 냈지만 8월 24일 새 소환장은 거부했다. 시기가 늦었고 중복되며 부담이 크다며 무효 신청을 냈다."
           },
           {
             "t": "p",
-            "x": "“취향이나 직감을 대신하지는 않는다. 혼자 짐작하지 않아도 된다는 뜻이다.” Zotz의 말이다."
+            "x": "레이블들은 이 자료가 Suno의 공정 이용 항변과 고의성 판단과 맞닿아 있다고 주장한다. \"자본을 조달하는 회사는 투자자에게 법적 위험을 포함해 자신이 직면한 위험을 솔직하고 상세하게... 알린다.\" 이들은 일주일 안에 문서를, 그로부터 14일 뒤에 증언 녹취를 요구하면서 주제는 20개에서 16개로 줄였다. Lightspeed는 10월 20일까지 답변할 수 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Rocketship maps a song's\nlisteners before release",
-          "body": "Rocketship uses AI to find an unreleased song's audience, and indie artists get their first analysis free.",
-          "mini_headline": "Rocketship maps listeners",
+          "headline": "Labels press Suno investor\non training-data risk",
+          "body": "Sony and Universal oppose Lightspeed's bid to quash a subpoena seeking its testimony on the 'legal risk of training data'.",
+          "mini_headline": "Labels subpoena Suno backer",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "With an estimated 100,000 new tracks flooding streaming platforms every day, independent artists face an uphill battle. Most make their most expensive decisions — selecting singles, buying ads, planning promo — based on guesswork."
-              },
-              {
-                "t": "p",
-                "x": "Co-founded by Maxwell Zotz (Verge Campus, MAX.Live) and Billy Rodgers (Fanpage), Rocketship is billed as the first AI-driven platform capable of identifying a song's potential audience before it is ever commercially released. It follows four months in Beta with feedback from 100+ label, publishing, management, and distribution executives."
-              },
-              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
-                "cap": "Rocketship"
+                "src": "https://i0.wp.com/www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+                "cap": "Credit: Zulfugar Graphics/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Rocketship evaluates an unreleased track across 80 audio, lyrical, and contextual parameters, matching it against decades of music history to identify listener profiles. Its patent-pending models, developed alongside Loeb & Loeb, were trained on over 250,000 catalog tracks. It then builds a promotional strategy calibrated to the release window and budget."
+                "x": "Universal Music Group and Sony Music Entertainment want Lightspeed Venture Partners, lead investor in Suno's Series B, to hand over documents and testify. In a Boston federal court filing on Tuesday, October 13, they opposed Lightspeed's motion to quash their subpoena. Topics include the \"legal risk of training data\" discussed in a document Lightspeed already produced, and its listed risks of \"regulation around training data and/or label lawsuits.\""
               },
               {
                 "t": "p",
-                "x": "Every new user can run one unreleased track at zero cost. Mission Control, an AI-powered dashboard, customizes promotional missions, and Rocketship Studio turns audio into vertical video assets in minutes."
+                "x": "Lightspeed led Suno's $125 million Series B in May 2024, holds a board seat and invested again in the Series C and Series D rounds. It produced 152 documents last year, but refused the new August 24 subpoena and moved to quash, calling it untimely, cumulative and burdensome."
               },
               {
                 "t": "p",
-                "x": "“It doesn’t replace taste or instinct. It means they’re not guessing alone,” says Zotz."
+                "x": "The labels argue the files bear on Suno's fair use defense and on willfulness: \"A company raising capital tells its investors, candidly and in detail... what risks, including legal risks, it faces.\" They want documents within seven days and a deposition 14 days later, with topics narrowed from 20 to 16. Lightspeed can reply by October 20."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Rocketship이\n발매 전 청취자 찾는다",
-          "body": "Rocketship은 AI로 미발매 곡의 청중을 찾고 첫 분석은 무료다.",
-          "mini_headline": "Rocketship, 발매 전 청취자 분석",
+          "headline": "레이블, Suno 투자사에\n학습 데이터 리스크 추궁",
+          "body": "Sony·Universal이 Lightspeed의 소환장 무효 신청에 반대했다.",
+          "mini_headline": "레이블, Suno 투자사에 소환장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "스트리밍 플랫폼에는 매일 약 100,000곡의 신곡이 쏟아진다. 독립 아티스트에게는 힘겨운 싸움이다. 싱글 선정, 광고 구매, 프로모션 기획처럼 돈이 가장 많이 드는 결정도 대부분 짐작으로 내린다."
-              },
-              {
-                "t": "p",
-                "x": "Rocketship은 Maxwell Zotz(Verge Campus, MAX.Live)와 Billy Rodgers(Fanpage)가 함께 세웠다. 곡이 상업 발매되기 전에 잠재 청중을 찾아내는 최초의 AI-driven 플랫폼이라고 내세운다. 넉 달간 Beta를 돌리며 레이블, 퍼블리싱, 매니지먼트, 유통 분야 임원 100명 이상에게 피드백을 받았다."
-              },
-              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
-                "cap": "Rocketship"
+                "src": "https://i0.wp.com/www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+                "cap": "출처: Zulfugar Graphics/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Rocketship은 미발매 트랙을 오디오, 가사, 맥락에 걸친 80개 파라미터로 평가한 뒤 수십 년 음악사와 대조해 청취자 프로필을 찾는다. 모델은 Loeb & Loeb과 함께 개발해 특허를 출원했고, 250,000곡이 넘는 카탈로그 트랙으로 학습했다. 그다음 발매 시기와 예산에 맞춰 프로모션 전략을 짠다."
+                "x": "Universal Music Group과 Sony Music Entertainment는 Suno의 Series B를 주도한 Lightspeed Venture Partners에게서 문서와 증언을 받아내려 한다. 두 회사는 10월 13일 화요일 Boston 연방법원에 낸 서면에서 소환장을 무효로 해 달라는 Lightspeed의 신청에 반대했다. 증언 주제에는 Lightspeed가 이미 제출한 문서에서 논의된 \"학습 데이터의 법적 위험\"과, 그 문서가 위험 요인으로 꼽은 \"학습 데이터 관련 규제 및/또는 레이블 소송\"이 들어간다."
               },
               {
                 "t": "p",
-                "x": "신규 사용자라면 누구나 미발매 트랙 하나를 비용 없이 분석할 수 있다. AI-powered 대시보드 Mission Control에서는 프로모션 미션을 맞춤 설정하고, Rocketship Studio는 몇 분 만에 오디오를 세로형 영상 에셋으로 바꿔 준다."
+                "x": "Lightspeed는 2024년 5월 Suno의 $125 million 규모 Series B를 주도했고, 이사회에 자리가 있고 Series C와 Series D 라운드에도 다시 투자했다. 지난해 문서 152건을 냈지만 8월 24일 새 소환장은 거부했다. 시기가 늦었고 중복되며 부담이 크다며 무효 신청을 냈다."
               },
               {
                 "t": "p",
-                "x": "“취향이나 직감을 대신하지는 않는다. 혼자 짐작하지 않아도 된다는 뜻이다.” Zotz의 말이다."
+                "x": "레이블들은 이 자료가 Suno의 공정 이용 항변과 고의성 판단과 맞닿아 있다고 주장한다. \"자본을 조달하는 회사는 투자자에게 법적 위험을 포함해 자신이 직면한 위험을 솔직하고 상세하게... 알린다.\" 이들은 일주일 안에 문서를, 그로부터 14일 뒤에 증언 녹취를 요구하면서 주제는 20개에서 16개로 줄였다. Lightspeed는 10월 20일까지 답변할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Rocketshipが\n発売前の曲のリスナー分析",
-          "body": "RocketshipはAIで未発表曲の聴き手を探し、インディーの初回分析は無料だ。",
-          "mini_headline": "Rocketshipがリスナーを可視化",
+          "headline": "レーベルがSuno投資家に\n学習データのリスク追及",
+          "body": "SonyとUniversalがLightspeedの召喚状取消申立てに反対した。",
+          "mini_headline": "レーベルがSuno出資者に召喚状",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "推定100,000曲の新曲が毎日ストリーミングプラットフォームに押し寄せるなか、インディペンデントのアーティストは厳しい戦いを強いられている。多くは、シングルの選定、広告の購入、プロモーションの計画といった最も費用のかかる判断を、当て推量で下している。"
-              },
-              {
-                "t": "p",
-                "x": "Maxwell Zotz（Verge Campus、MAX.Live）とBilly Rodgers（Fanpage）が共同で創業したRocketshipは、楽曲が商業リリースされる前に潜在的なオーディエンスを特定できる初のAI-drivenプラットフォームをうたう。レーベル、出版、マネジメント、ディストリビューションの幹部100人以上からフィードバックを得た4か月間のBetaを経ての登場だ。"
-              },
-              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
-                "cap": "Rocketship"
+                "src": "https://i0.wp.com/www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+                "cap": "クレジット：Zulfugar Graphics/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Rocketshipは未発表トラックをオーディオ、歌詞、文脈にわたる80のパラメーターで評価し、数十年分の音楽史と照合してリスナー像を割り出す。Loeb & Loebと共同開発した特許出願中のモデルは、250,000曲を超えるカタログ楽曲で学習した。そのうえでリリース時期と予算に合わせたプロモーション戦略を組み立てる。"
+                "x": "Universal Music GroupとSony Music Entertainmentは、SunoのSeries Bを主導したLightspeed Venture Partnersに文書の提出と証言を求めている。両社は10月13日（火）にBoston連邦地裁へ提出した書面で、召喚状の取り消しを求めるLightspeedの申し立てに反対した。対象となる事項には、Lightspeedが既に提出した文書で論じられた「学習データの法的リスク」や、同文書がリスクとして挙げた「学習データをめぐる規制および／またはレーベルによる訴訟」が含まれる。"
               },
               {
                 "t": "p",
-                "x": "新規ユーザーは誰でも、未発表トラック1曲を費用ゼロで分析できる。AI-poweredダッシュボードのMission Controlがプロモーションのミッションをカスタマイズし、Rocketship Studioは音声を数分で縦型動画素材に変える。"
+                "x": "Lightspeedは2024年5月にSunoの$125 millionのSeries Bを主導し、取締役会の席を持ち、Series CとSeries Dのラウンドでも追加出資した。昨年は152件の文書を提出したが、8月24日付の新たな召喚状は拒み、時機を逸しており重複的で負担が大きいとして取り消しを申し立てた。"
               },
               {
                 "t": "p",
-                "x": "「センスや直感の代わりになるわけではない。ひとりで当て推量をしなくて済むということだ」とZotzは語る。"
+                "x": "レーベル側は、これらの文書がSunoのフェアユースの抗弁と故意性に関わると主張する。「資金を調達する企業は、投資家に対し、法的リスクを含めて自らが直面するリスクを率直かつ詳細に……伝えるものだ」。両社は七日以内の文書提出と、その14日後の証言録取を求め、事項を20から16に絞った。Lightspeedは10月20日までに反論できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Rocketship在发行前\n描绘歌曲听众画像",
-          "body": "Rocketship用AI为未发行歌曲寻找听众，独立音乐人的首次分析免费。",
-          "mini_headline": "Rocketship绘制听众画像",
+          "headline": "唱片公司追问Suno投资方\n训练数据的法律风险",
+          "body": "Sony和Universal反对Lightspeed撤销传票，要求其就训练数据风险作证。",
+          "mini_headline": "唱片公司传唤Suno投资方",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "据估计，每天有 100,000 首新曲涌入流媒体平台，独立音乐人面临一场艰难的战斗。大多数人在挑选单曲、购买广告、策划宣传这些最花钱的决定上，都靠猜测。"
-              },
-              {
-                "t": "p",
-                "x": "Rocketship 由 Maxwell Zotz（Verge Campus、MAX.Live）和 Billy Rodgers（Fanpage）联合创立，号称首个能在歌曲正式商业发行前识别其潜在受众的 AI-driven 平台。此前它经历了四个月的 Beta 测试，收集了 100 多位唱片公司、版权发行、经纪管理和分销高管的反馈。"
-              },
-              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
-                "cap": "Rocketship"
+                "src": "https://i0.wp.com/www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+                "cap": "图片来源：Zulfugar Graphics/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Rocketship 从音频、歌词和语境三方面的 80 项参数评估未发行曲目，并与数十年的音乐史比对，识别听众画像。其与 Loeb & Loeb 合作开发、正在申请专利的模型，基于超过 250,000 首曲库曲目训练。随后，它会根据发行时间窗口和预算制定宣传策略。"
+                "x": "Universal Music Group和Sony Music Entertainment希望Suno的Series B领投方Lightspeed Venture Partners提交文件并出庭作证。10月13日星期二，两家公司向Boston联邦法院提交文件，反对Lightspeed撤销传票的动议。作证议题包括Lightspeed已提交文件中讨论的“训练数据的法律风险”，以及其中列出的“围绕训练数据的监管和/或唱片公司诉讼”风险。"
               },
               {
                 "t": "p",
-                "x": "每位新用户都可以零成本分析一首未发行曲目。AI-powered 仪表板 Mission Control 可定制宣传任务，Rocketship Studio 则能在几分钟内把音频变成竖版视频素材。"
+                "x": "Lightspeed于2024年5月领投了Suno规模$125 million的Series B，拥有董事会席位，并在Series C和Series D轮再度投资。它去年提交了152份文件，但拒绝了8月24日的新传票，并以不合时宜、内容重复且负担过重为由申请撤销。"
               },
               {
                 "t": "p",
-                "x": "“它不会取代品味或直觉，而是让他们不必独自猜测。”Zotz 说。"
+                "x": "唱片公司认为，这些文件关系到Suno的合理使用抗辩以及是否构成故意：“一家融资中的公司会坦率而详细地告诉投资者……它面临哪些风险，包括法律风险。”它们要求七天内提交文件，并在14天后进行证词录取，议题已从20项缩减至16项。Lightspeed可在10月20日前答复。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Rocketship mapea a los oyentes\nde una canción antes de salir",
-          "body": "Rocketship usa IA para hallar el público de una canción inédita, y el primer análisis es gratis para artistas indie.",
-          "mini_headline": "Rocketship mapea oyentes",
+          "headline": "Presión a un inversor de Suno\npor el riesgo de entrenamiento",
+          "body": "Sony y Universal se oponen a que Lightspeed anule una citación sobre el 'riesgo legal de los datos de entrenamiento'.",
+          "mini_headline": "Los sellos citan a un inversor de Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Con unos 100.000 temas nuevos que llegan cada día a las plataformas de streaming, los artistas independientes lo tienen cuesta arriba. La mayoría toma sus decisiones más caras —elegir sencillos, comprar anuncios, planificar la promoción— basándose en conjeturas."
-              },
-              {
-                "t": "p",
-                "x": "Cofundada por Maxwell Zotz (Verge Campus, MAX.Live) y Billy Rodgers (Fanpage), Rocketship se presenta como la primera plataforma AI-driven (impulsada por IA) capaz de identificar el público potencial de una canción antes de su lanzamiento comercial. Llega tras cuatro meses en Beta con comentarios de más de 100 ejecutivos de sellos, editoriales, management y distribución."
-              },
-              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
-                "cap": "Rocketship"
+                "src": "https://i0.wp.com/www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+                "cap": "Crédito: Zulfugar Graphics/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Rocketship evalúa un tema inédito según 80 parámetros de audio, letra y contexto, y lo compara con décadas de historia musical para identificar perfiles de oyentes. Sus modelos con patente en trámite, desarrollados junto a Loeb & Loeb, se entrenaron con más de 250.000 temas de catálogo. Después elabora una estrategia promocional ajustada a la ventana de lanzamiento y al presupuesto."
+                "x": "Universal Music Group y Sony Music Entertainment quieren que Lightspeed Venture Partners, inversor principal de la Series B de Suno, entregue documentos y testifique. En un escrito presentado el martes 13 de octubre ante un tribunal federal de Boston, se opusieron a la moción de Lightspeed para anular su citación. Los temas incluyen el \"riesgo legal de los datos de entrenamiento\" tratado en un documento que Lightspeed ya entregó, y los riesgos que este enumera de \"regulación sobre los datos de entrenamiento y/o demandas de las discográficas\"."
               },
               {
                 "t": "p",
-                "x": "Cada usuario nuevo puede analizar un tema inédito a costo cero. Mission Control, un panel AI-powered (con IA), personaliza las misiones promocionales, y Rocketship Studio convierte el audio en piezas de video vertical en minutos."
+                "x": "Lightspeed lideró la Series B de $125 million de Suno en mayo de 2024, tiene un puesto en el consejo y volvió a invertir en las rondas Series C y Series D. Entregó 152 documentos el año pasado, pero rechazó la nueva citación del 24 de agosto y pidió anularla por considerarla extemporánea, acumulativa y gravosa."
               },
               {
                 "t": "p",
-                "x": "“No reemplaza el gusto ni el instinto. Significa que no están adivinando solos”, dice Zotz."
+                "x": "Las discográficas sostienen que los archivos son relevantes para la defensa de uso legítimo de Suno y para determinar la intencionalidad: \"Una empresa que capta capital les cuenta a sus inversores, con franqueza y en detalle... qué riesgos, incluidos los legales, enfrenta\". Piden los documentos en un plazo de siete días y una declaración 14 días después, con los temas reducidos de 20 a 16. Lightspeed puede responder hasta el 20 de octubre."
               }
             ]
           }
@@ -1027,141 +809,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Rocketship이\n발매 전 청취자 찾는다",
-          "body": "Rocketship은 AI로 미발매 곡의 청중을 찾고 첫 분석은 무료다.",
-          "mini_headline": "Rocketship, 발매 전 청취자 분석",
+          "headline": "레이블, Suno 투자사에\n학습 데이터 리스크 추궁",
+          "body": "Sony·Universal이 Lightspeed의 소환장 무효 신청에 반대했다.",
+          "mini_headline": "레이블, Suno 투자사에 소환장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "매일 약 100,000곡의 신곡이 스트리밍 플랫폼에 쏟아지는 가운데, 독립 아티스트는 힘겨운 싸움을 하고 있다. 대부분은 싱글 선정, 광고 구매, 프로모션 기획처럼 가장 돈이 많이 드는 결정을 짐작에 기대어 내린다."
-              },
-              {
-                "t": "p",
-                "x": "Maxwell Zotz(Verge Campus, MAX.Live)와 Billy Rodgers(Fanpage)가 공동 창업한 Rocketship은 곡이 상업적으로 발매되기 전에 잠재 청중을 찾아낼 수 있는 최초의 AI-driven 플랫폼을 내세운다. 레이블, 퍼블리싱, 매니지먼트, 유통 분야 임원 100명 이상의 피드백을 받은 넉 달간의 Beta를 거쳐 나왔다."
-              },
-              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
-                "cap": "Rocketship"
+                "src": "https://i0.wp.com/www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+                "cap": "출처: Zulfugar Graphics/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Rocketship은 미발매 트랙을 오디오, 가사, 맥락에 걸친 80개 파라미터로 평가하고, 수십 년의 음악사와 대조해 청취자 프로필을 찾아낸다. Loeb & Loeb과 함께 개발한 특허 출원 중인 모델은 250,000곡이 넘는 카탈로그 트랙으로 학습했다. 이어 발매 시기와 예산에 맞춘 프로모션 전략을 짠다."
+                "x": "Universal Music Group과 Sony Music Entertainment는 Suno의 Series B를 주도한 Lightspeed Venture Partners가 문서를 제출하고 증언하기를 원한다. 두 회사는 10월 13일 화요일 Boston 연방법원에 낸 서면에서 소환장을 무효로 해 달라는 Lightspeed의 신청에 반대했다. 증언 주제에는 Lightspeed가 이미 제출한 문서에서 논의된 \"학습 데이터의 법적 위험\"과, 그 문서가 위험 요인으로 꼽은 \"학습 데이터 관련 규제 및/또는 레이블 소송\"이 포함된다."
               },
               {
                 "t": "p",
-                "x": "모든 신규 사용자는 미발매 트랙 하나를 비용 없이 분석할 수 있다. AI-powered 대시보드인 Mission Control은 프로모션 미션을 맞춤 설정하고, Rocketship Studio는 오디오를 몇 분 만에 세로형 영상 에셋으로 바꾼다."
+                "x": "Lightspeed는 2024년 5월 Suno의 $125 million 규모 Series B를 주도했고, 이사회 의석을 갖고 있으며 Series C와 Series D 라운드에도 다시 투자했다. 지난해 문서 152건을 제출했지만, 8월 24일 새 소환장은 거부하고 시기가 늦었고 중복되며 부담이 크다는 이유로 무효 신청을 냈다."
               },
               {
                 "t": "p",
-                "x": "“취향이나 직감을 대신하지는 않는다. 혼자 짐작하지 않아도 된다는 뜻이다.” Zotz의 말이다."
+                "x": "레이블들은 이 자료가 Suno의 공정 이용 항변과 고의성 판단에 관련된다고 주장한다. \"자본을 조달하는 회사는 투자자에게 법적 위험을 포함해 자신이 직면한 위험을 솔직하고 상세하게... 알린다.\" 이들은 일주일 안에 문서를, 그로부터 14일 뒤에 증언 녹취를 요구하며, 주제는 20개에서 16개로 줄였다. Lightspeed는 10월 20일까지 답변할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Rocketshipが\n発売前の曲のリスナー分析",
-          "body": "RocketshipはAIで未発表曲の聴き手を探し、インディーの初回分析は無料だ。",
-          "mini_headline": "Rocketshipがリスナーを可視化",
+          "headline": "レーベルがSuno投資家に\n学習データのリスク追及",
+          "body": "SonyとUniversalがLightspeedの召喚状取消申立てに反対した。",
+          "mini_headline": "レーベルがSuno出資者に召喚状",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "推定100,000曲の新曲が毎日ストリーミングプラットフォームに押し寄せるなか、インディペンデントのアーティストは厳しい戦いを強いられている。多くは、シングルの選定、広告の購入、プロモーションの計画といった最も費用のかかる判断を、当て推量で下している。"
-              },
-              {
-                "t": "p",
-                "x": "Maxwell Zotz（Verge Campus、MAX.Live）とBilly Rodgers（Fanpage）が共同で創業したRocketshipは、楽曲が商業リリースされる前に潜在的なオーディエンスを特定できる初のAI-drivenプラットフォームをうたう。レーベル、出版、マネジメント、ディストリビューションの幹部100人以上からフィードバックを得た4か月間のBetaを経ての登場だ。"
-              },
-              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
-                "cap": "Rocketship"
+                "src": "https://i0.wp.com/www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+                "cap": "クレジット：Zulfugar Graphics/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Rocketshipは未発表トラックをオーディオ、歌詞、文脈にわたる80のパラメーターで評価し、数十年分の音楽史と照合してリスナー像を割り出す。Loeb & Loebと共同開発した特許出願中のモデルは、250,000曲を超えるカタログ楽曲で学習した。そのうえでリリース時期と予算に合わせたプロモーション戦略を組み立てる。"
+                "x": "Universal Music GroupとSony Music Entertainmentは、SunoのSeries Bを主導したLightspeed Venture Partnersに文書の提出と証言を求めている。両社は10月13日（火）にBoston連邦地裁へ提出した書面で、召喚状の取り消しを求めるLightspeedの申し立てに反対した。対象となる事項には、Lightspeedが既に提出した文書で論じられた「学習データの法的リスク」や、同文書がリスクとして挙げた「学習データをめぐる規制および／またはレーベルによる訴訟」が含まれる。"
               },
               {
                 "t": "p",
-                "x": "新規ユーザーは誰でも、未発表トラック1曲を費用ゼロで分析できる。AI-poweredダッシュボードのMission Controlがプロモーションのミッションをカスタマイズし、Rocketship Studioは音声を数分で縦型動画素材に変える。"
+                "x": "Lightspeedは2024年5月にSunoの$125 millionのSeries Bを主導し、取締役会の席を持ち、Series CとSeries Dのラウンドでも追加出資した。昨年は152件の文書を提出したが、8月24日付の新たな召喚状は拒み、時機を逸しており重複的で負担が大きいとして取り消しを申し立てた。"
               },
               {
                 "t": "p",
-                "x": "「センスや直感の代わりになるわけではない。ひとりで当て推量をしなくて済むということだ」とZotzは語る。"
+                "x": "レーベル側は、これらの文書がSunoのフェアユースの抗弁と故意性に関わると主張する。「資金を調達する企業は、投資家に対し、法的リスクを含めて自らが直面するリスクを率直かつ詳細に……伝えるものだ」。両社は七日以内の文書提出と、その14日後の証言録取を求め、事項を20から16に絞った。Lightspeedは10月20日までに反論できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Rocketship在发行前\n描绘歌曲听众画像",
-          "body": "Rocketship用AI为未发行歌曲寻找听众，独立音乐人的首次分析免费。",
-          "mini_headline": "Rocketship绘制听众画像",
+          "headline": "唱片公司追问Suno投资方\n训练数据的法律风险",
+          "body": "Sony和Universal反对Lightspeed撤销传票，要求其就训练数据风险作证。",
+          "mini_headline": "唱片公司传唤Suno投资方",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "据估计，每天有 100,000 首新曲涌入流媒体平台，独立音乐人面临一场艰难的战斗。大多数人在挑选单曲、购买广告、策划宣传这些最花钱的决定上，都靠猜测。"
-              },
-              {
-                "t": "p",
-                "x": "Rocketship 由 Maxwell Zotz（Verge Campus、MAX.Live）和 Billy Rodgers（Fanpage）联合创立，号称首个能在歌曲正式商业发行前识别其潜在受众的 AI-driven 平台。此前它经历了四个月的 Beta 测试，收集了 100 多位唱片公司、版权发行、经纪管理和分销高管的反馈。"
-              },
-              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
-                "cap": "Rocketship"
+                "src": "https://i0.wp.com/www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+                "cap": "图片来源：Zulfugar Graphics/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Rocketship 从音频、歌词和语境三方面的 80 项参数评估未发行曲目，并与数十年的音乐史比对，识别听众画像。其与 Loeb & Loeb 合作开发、正在申请专利的模型，基于超过 250,000 首曲库曲目训练。随后，它会根据发行时间窗口和预算制定宣传策略。"
+                "x": "Universal Music Group和Sony Music Entertainment希望Suno的Series B领投方Lightspeed Venture Partners提交文件并出庭作证。10月13日星期二，两家公司向Boston联邦法院提交文件，反对Lightspeed撤销传票的动议。作证议题包括Lightspeed已提交文件中讨论的“训练数据的法律风险”，以及其中列出的“围绕训练数据的监管和/或唱片公司诉讼”风险。"
               },
               {
                 "t": "p",
-                "x": "每位新用户都可以零成本分析一首未发行曲目。AI-powered 仪表板 Mission Control 可定制宣传任务，Rocketship Studio 则能在几分钟内把音频变成竖版视频素材。"
+                "x": "Lightspeed于2024年5月领投了Suno规模$125 million的Series B，拥有董事会席位，并在Series C和Series D轮再度投资。它去年提交了152份文件，但拒绝了8月24日的新传票，并以不合时宜、内容重复且负担过重为由申请撤销。"
               },
               {
                 "t": "p",
-                "x": "“它不会取代品味或直觉，而是让他们不必独自猜测。”Zotz 说。"
+                "x": "唱片公司认为，这些文件关系到Suno的合理使用抗辩以及是否构成故意：“一家融资中的公司会坦率而详细地告诉投资者……它面临哪些风险，包括法律风险。”它们要求七天内提交文件，并在14天后进行证词录取，议题已从20项缩减至16项。Lightspeed可在10月20日前答复。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Rocketship mapea a los oyentes\nde una canción antes de salir",
-          "body": "Rocketship usa IA para hallar el público de una canción inédita, y el primer análisis es gratis para artistas indie.",
-          "mini_headline": "Rocketship mapea oyentes",
+          "headline": "Presión a un inversor de Suno\npor el riesgo de entrenamiento",
+          "body": "Sony y Universal se oponen a que Lightspeed anule una citación sobre el 'riesgo legal de los datos de entrenamiento'.",
+          "mini_headline": "Los sellos citan a un inversor de Suno",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Con unos 100.000 temas nuevos que llegan cada día a las plataformas de streaming, los artistas independientes lo tienen cuesta arriba. La mayoría toma sus decisiones más caras —elegir sencillos, comprar anuncios, planificar la promoción— basándose en conjeturas."
-              },
-              {
-                "t": "p",
-                "x": "Cofundada por Maxwell Zotz (Verge Campus, MAX.Live) y Billy Rodgers (Fanpage), Rocketship se presenta como la primera plataforma AI-driven (impulsada por IA) capaz de identificar el público potencial de una canción antes de su lanzamiento comercial. Llega tras cuatro meses en Beta con comentarios de más de 100 ejecutivos de sellos, editoriales, management y distribución."
-              },
-              {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/2026/10/Rocketship.jpeg",
-                "cap": "Rocketship"
+                "src": "https://i0.wp.com/www.musicbusinessworldwide.com/files/2026/06/shutterstock_2707140975-1.jpg",
+                "cap": "Crédito: Zulfugar Graphics/Shutterstock"
               },
               {
                 "t": "p",
-                "x": "Rocketship evalúa un tema inédito según 80 parámetros de audio, letra y contexto, y lo compara con décadas de historia musical para identificar perfiles de oyentes. Sus modelos con patente en trámite, desarrollados junto a Loeb & Loeb, se entrenaron con más de 250.000 temas de catálogo. Después elabora una estrategia promocional ajustada a la ventana de lanzamiento y al presupuesto."
+                "x": "Universal Music Group y Sony Music Entertainment quieren que Lightspeed Venture Partners, inversor principal de la Series B de Suno, entregue documentos y testifique. En un escrito presentado el martes 13 de octubre ante un tribunal federal de Boston, se opusieron a la moción de Lightspeed para anular su citación. Los temas incluyen el \"riesgo legal de los datos de entrenamiento\" tratado en un documento que Lightspeed ya entregó, y los riesgos que este enumera de \"regulación sobre los datos de entrenamiento y/o demandas de las discográficas\"."
               },
               {
                 "t": "p",
-                "x": "Cada usuario nuevo puede analizar un tema inédito a costo cero. Mission Control, un panel AI-powered (con IA), personaliza las misiones promocionales, y Rocketship Studio convierte el audio en piezas de video vertical en minutos."
+                "x": "Lightspeed lideró la Series B de $125 million de Suno en mayo de 2024, tiene un puesto en el consejo y volvió a invertir en las rondas Series C y Series D. Entregó 152 documentos el año pasado, pero rechazó la nueva citación del 24 de agosto y pidió anularla por considerarla extemporánea, acumulativa y gravosa."
               },
               {
                 "t": "p",
-                "x": "“No reemplaza el gusto ni el instinto. Significa que no están adivinando solos”, dice Zotz."
+                "x": "Las discográficas sostienen que los archivos son relevantes para la defensa de uso legítimo de Suno y para determinar la intencionalidad: \"Una empresa que capta capital les cuenta a sus inversores, con franqueza y en detalle... qué riesgos, incluidos los legales, enfrenta\". Piden los documentos en un plazo de siete días y una declaración 14 días después, con los temas reducidos de 20 a 16. Lightspeed puede responder hasta el 20 de octubre."
               }
             ]
           }
@@ -1169,15 +919,15 @@
       }
     },
     {
-      "id": "music-neko-pocket-studio",
+      "id": "music-cmu-three-debates",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "NAM·스템 분리를\n주머니에 담은 Neko",
-      "body": "Neko 포켓 스튜디오는 NAM 톤, 녹음, 스템 분리, GenAI를 담았다.",
-      "mini_headline": "Neko 포켓 기타 스튜디오",
+      "headline": "AI 음악 싸움을\n가르는 세 가지 논쟁",
+      "body": "CMU는 AI 음악 논쟁을 AI 기업·레이블의 책임과 AI 음악 대응으로 나눈다.",
+      "mini_headline": "AI 음악의 세 가지 논쟁",
       "tool": "Music",
-      "source": "Guitar World",
-      "url": "https://www.guitarworld.com/gear/studio-recording-equipment/neko-engineering-neko-pocket-studio",
+      "source": "CMU (Complete Music Update)",
+      "url": "https://completemusicupdate.com/the-three-big-debates-around-music-and-generative-ai/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -1185,203 +935,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
-            "cap": "Neko Pocket Studio"
+            "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png"
           },
           {
             "t": "p",
-            "x": "Neko Engineering이 이번 주 Kickstarter에 Neko를 공개했다. 무선 연결, 앰프·페달 모델링, 녹음에 AI 도구를 묶은 주머니 크기 스튜디오다. 곡을 익히거나 기타 리프를 완성된 편곡으로 키우는 데 초점을 뒀다."
+            "x": "CMU는 CMU의 Chris Cooke가 참여하는 Manchester의 Un-Convention 패널을 앞두고 음악과 AI를 둘러싼 여러 질문을 세 가지 큰 논쟁으로 정리했다."
           },
           {
             "t": "p",
-            "x": "Neko 안에는 무선 잭 두 개가 들어가 충전된다. 하나는 기타나 베이스에, 다른 하나는 앰프나 믹서에 꽂는다. NAM 톤으로 하는 사운드 처리와 멀티트랙 녹음은 Neko가 맡는다."
+            "x": "첫 번째는 AI 기업의 의무다. 많은 기업이 TDM 예외나 US 공정 이용을 들어 허락 없이 모델을 학습시켰고, 음악 업계는 이에 한목소리로 맞서 Suno, Udio, Anthropic, OpenAI를 상대로 소송을 냈다. 엇갈린 US 판결과 고의 침해 작품당 최대 $150,000의 손해배상 때문에 일부 AI 기업이 라이선스 쪽으로 움직인다."
           },
           {
             "t": "p",
-            "x": "AI 스템 분리, 곡에서 기타를 음소거하고 그 자리를 직접 연주하는 기능, 화면에 띄우는 audio-to-tab, 생성형 AI가 만드는 반주 트랙과 편곡도 더했다. Time Machine 기능은 녹음 버튼을 안 눌렀어도 떠올린 아이디어를 다시 들려준다. NAM과 연동돼 Tone3000 캡처 라이브러리도 쓸 수 있다."
-          },
-          {
-            "t": "video",
-            "yt": "keuagUavq90"
+            "x": "두 번째는 레이블과 퍼블리셔의 의무다. 이들의 AI 계약은 NDAs(비밀유지계약)에 가려져 있다. 메이저들은 학습에 개별 아티스트나 작가의 동의가 필요 없다고 하며, 세션 연주자와 AI 수익을 나눌 계획도 없다. 반면 일부 인디는 옵트인이나 옵트아웃을 둘 예정이다."
           },
           {
             "t": "p",
-            "x": "Kickstarter는 첫 24시간 만에 $10,000를 모았고 목표액 $30,000을 넘겨 $260k 이상이 모였다. 리워드가 붙는 후원은 $449부터, 소매가는 $599다. 후원자 배송은 2027년 4월 예정이다."
+            "x": "마지막은 AI 음악을 어떻게 다룰지다. Deezer는 하루 90,000곡이 넘는 완전 AI 생성(AI-generated) 트랙을 받는다고 밝혔다. 전체 업로드의 50%가 넘는다. AI 보조(AI-assisted) 음악은 사람의 음악처럼 대하고 완전 AI 생성 트랙은 제한하자는 쪽으로 의견이 모이지만, 경계를 어디에 그을지는 아무도 말하지 않았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Neko Pocket Studio puts NAM\nand stem splits in your pocket",
-          "body": "Neko's wireless pocket studio combines NAM tones, recording, stem separation, GenAI features and audio-to-tab.",
-          "mini_headline": "Neko's pocket guitar studio",
+          "headline": "Three debates frame the\nfight over AI music",
+          "body": "CMU maps the generative music argument onto three debates: what AI firms owe, what labels owe, and what to do with AI music.",
+          "mini_headline": "AI music's three debates",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
-                "cap": "Neko Pocket Studio"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png"
               },
               {
                 "t": "p",
-                "x": "The Neko, from Neko Engineering, launched on Kickstarter this week: a pocket-sized studio that marries wireless connectivity, amp and pedal modeling and recording with AI tools. The focus is on learning songs and turning guitar riffs into fully-formed arrangements."
+                "x": "Ahead of an Un-Convention panel in Manchester with CMU's Chris Cooke, CMU sorts the many music and AI questions into three big debates."
               },
               {
                 "t": "p",
-                "x": "Two wireless jacks live and charge inside Neko, one plugging into a guitar or bass, the other into an amp or mixer. Neko handles sound processing, with NAM tones, and multi-track recording."
+                "x": "Debate one: the obligations of AI companies. Many trained models without permission, citing TDM exceptions or US fair use; the music industry is united against that, with lawsuits against Suno, Udio, Anthropic and OpenAI. Mixed US rulings and damages of up to $150,000 per wilfully infringed work are pushing some AI firms toward licences."
               },
               {
                 "t": "p",
-                "x": "It adds AI stem separation, the ability to mute the guitar in a track and play in its place, audio-to-tab shown on its display, and backing tracks and arrangements built through generative AI. A Time Machine feature lets musicians listen back to ideas even if they forgot to hit record. The NAM tie-in opens the Tone3000 library of captures."
-              },
-              {
-                "t": "video",
-                "yt": "keuagUavq90"
+                "x": "Debate two: the obligations of labels and publishers. Their AI deals sit behind NDAs; the majors say they need no individual artist or writer consent for training and do not plan to share AI income with session musicians, while some indies will offer opt-ins or opt-outs."
               },
               {
                 "t": "p",
-                "x": "Within the first 24 hours the Kickstarter had $10,000 of pledges; over $260k has been raised against a $30,000 goal. Pledges with rewards start at $449; retail price is $599. Shipping to backers is planned for April 2027."
+                "x": "Debate three: how to deal with AI music. Deezer says it receives more than 90,000 fully AI-generated tracks a day, over 50% of uploads. The consensus favours treating AI-assisted music like human music and restricting fully AI-generated tracks, but no one has said where the line falls."
               }
             ]
           }
         },
         "ko": {
-          "headline": "NAM·스템 분리를\n주머니에 담은 Neko",
-          "body": "Neko 포켓 스튜디오는 NAM 톤, 녹음, 스템 분리, GenAI를 담았다.",
-          "mini_headline": "Neko 포켓 기타 스튜디오",
+          "headline": "AI 음악 싸움을\n가르는 세 가지 논쟁",
+          "body": "CMU는 AI 음악 논쟁을 AI 기업·레이블의 책임과 AI 음악 대응으로 나눈다.",
+          "mini_headline": "AI 음악의 세 가지 논쟁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
-                "cap": "Neko Pocket Studio"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png"
               },
               {
                 "t": "p",
-                "x": "Neko Engineering이 이번 주 Kickstarter에 Neko를 공개했다. 무선 연결, 앰프·페달 모델링, 녹음에 AI 도구를 묶은 주머니 크기 스튜디오다. 곡을 익히거나 기타 리프를 완성된 편곡으로 키우는 데 초점을 뒀다."
+                "x": "CMU는 CMU의 Chris Cooke가 참여하는 Manchester의 Un-Convention 패널을 앞두고 음악과 AI를 둘러싼 여러 질문을 세 가지 큰 논쟁으로 정리했다."
               },
               {
                 "t": "p",
-                "x": "Neko 안에는 무선 잭 두 개가 들어가 충전된다. 하나는 기타나 베이스에, 다른 하나는 앰프나 믹서에 꽂는다. NAM 톤으로 하는 사운드 처리와 멀티트랙 녹음은 Neko가 맡는다."
+                "x": "첫 번째는 AI 기업의 의무다. 많은 기업이 TDM 예외나 US 공정 이용을 들어 허락 없이 모델을 학습시켰고, 음악 업계는 이에 한목소리로 맞서 Suno, Udio, Anthropic, OpenAI를 상대로 소송을 냈다. 엇갈린 US 판결과 고의 침해 작품당 최대 $150,000의 손해배상 때문에 일부 AI 기업이 라이선스 쪽으로 움직인다."
               },
               {
                 "t": "p",
-                "x": "AI 스템 분리, 곡에서 기타를 음소거하고 그 자리를 직접 연주하는 기능, 화면에 띄우는 audio-to-tab, 생성형 AI가 만드는 반주 트랙과 편곡도 더했다. Time Machine 기능은 녹음 버튼을 안 눌렀어도 떠올린 아이디어를 다시 들려준다. NAM과 연동돼 Tone3000 캡처 라이브러리도 쓸 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "keuagUavq90"
+                "x": "두 번째는 레이블과 퍼블리셔의 의무다. 이들의 AI 계약은 NDAs(비밀유지계약)에 가려져 있다. 메이저들은 학습에 개별 아티스트나 작가의 동의가 필요 없다고 하며, 세션 연주자와 AI 수익을 나눌 계획도 없다. 반면 일부 인디는 옵트인이나 옵트아웃을 둘 예정이다."
               },
               {
                 "t": "p",
-                "x": "Kickstarter는 첫 24시간 만에 $10,000를 모았고 목표액 $30,000을 넘겨 $260k 이상이 모였다. 리워드가 붙는 후원은 $449부터, 소매가는 $599다. 후원자 배송은 2027년 4월 예정이다."
+                "x": "마지막은 AI 음악을 어떻게 다룰지다. Deezer는 하루 90,000곡이 넘는 완전 AI 생성(AI-generated) 트랙을 받는다고 밝혔다. 전체 업로드의 50%가 넘는다. AI 보조(AI-assisted) 음악은 사람의 음악처럼 대하고 완전 AI 생성 트랙은 제한하자는 쪽으로 의견이 모이지만, 경계를 어디에 그을지는 아무도 말하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NAMとステム分離を\nポケットに収めたNeko",
-          "body": "Nekoの無線ポケットスタジオは、NAMトーン、録音、ステム分離、GenAIを備える。",
-          "mini_headline": "Nekoのポケット型ギタースタジオ",
+          "headline": "AI音楽をめぐる争いを\n形づくる三つの論点",
+          "body": "CMUは生成音楽をめぐる議論を、AI企業とレーベルの責任、AI音楽の扱いの三つに整理する。",
+          "mini_headline": "AI音楽の三つの論点",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
-                "cap": "Neko Pocket Studio"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png"
               },
               {
                 "t": "p",
-                "x": "Neko EngineeringのNekoが今週Kickstarterで始動した。ワイヤレス接続、アンプとペダルのモデリング、録音をAIツールと組み合わせたポケットサイズのスタジオだ。主眼は曲の習得と、ギターリフを完成したアレンジへと仕上げることにある。"
+                "x": "CMUのChris Cookeが登壇するManchesterでのUn-Conventionのパネルを前に、CMUは音楽とAIをめぐる数多くの問いを三つの大きな論点に整理した。"
               },
               {
                 "t": "p",
-                "x": "Nekoの内部には2つのワイヤレスジャックが収まり、そこで充電される。1つはギターやベースに、もう1つはアンプやミキサーに挿す。Nekoは、NAMトーンによる音作りとマルチトラック録音を担う。"
+                "x": "論点その一は、AI企業の義務だ。多くの企業がTDM例外やUSのフェアユースを根拠に無許諾でモデルを学習させてきた。音楽業界はこれに一致して反対し、Suno、Udio、Anthropic、OpenAIを相手取って訴訟を起こしている。USでの判断が割れていることや、故意に侵害された作品ごとに最大$150,000の損害賠償が、一部のAI企業をライセンスへと向かわせている。"
               },
               {
                 "t": "p",
-                "x": "さらに、AIステム分離、曲のギターをミュートして代わりに自分で弾く機能、ディスプレイに表示されるaudio-to-tab、生成AIで作るバッキングトラックやアレンジも加わる。Time Machine機能を使えば、録音ボタンを押し忘れてもアイデアを聴き返せる。NAMとの連携により、Tone3000のキャプチャーライブラリも利用できる。"
-              },
-              {
-                "t": "video",
-                "yt": "keuagUavq90"
+                "x": "論点その二は、レーベルと出版社の義務だ。彼らのAI契約はNDAsの陰に隠れている。メジャーは学習に個々のアーティストや作家の同意は不要だとし、AI収入をセッションミュージシャンと分け合う計画もない。一方、一部のインディーはオプトインやオプトアウトを用意する方針だ。"
               },
               {
                 "t": "p",
-                "x": "Kickstarterでは最初の24時間で$10,000の支援が集まり、目標の$30,000に対して$260k 超が集まっている。リターン付きの支援は$449からで、小売価格は$599だ。支援者への発送は2027年4月を予定している。"
+                "x": "論点その三は、AI音楽をどう扱うかだ。Deezerによれば、完全にAIで生成された（AI-generated）楽曲を一日に90,000曲以上受け取っており、アップロードの50%超を占める。AIを補助的に使った（AI-assisted）音楽は人間の音楽と同様に扱い、完全なAI生成曲は制限するという考えが大勢だが、その線をどこに引くかは誰も示していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Neko把NAM与音轨分离\n装进口袋",
-          "body": "Neko无线口袋工作室集NAM音色、录音、音轨分离与GenAI功能于一身。",
-          "mini_headline": "Neko口袋吉他工作室",
+          "headline": "三大争论\n框定AI音乐之争",
+          "body": "CMU把生成式音乐之争归为三大争论：AI公司的责任、唱片公司的责任与AI音乐的处置。",
+          "mini_headline": "AI音乐的三大争论",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
-                "cap": "Neko Pocket Studio"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png"
               },
               {
                 "t": "p",
-                "x": "Neko Engineering 推出的 Neko 本周在 Kickstarter 上线：这是一台口袋大小的工作室，将无线连接、音箱与效果器建模和录音功能与 AI 工具结合在一起。它的重点是帮助用户学歌，并把吉他 riff 发展成完整的编曲。"
+                "x": "在Manchester举行、CMU的Chris Cooke参与的Un-Convention座谈会之前，CMU把音乐与AI的诸多问题归纳为三大争论。"
               },
               {
                 "t": "p",
-                "x": "Neko 内部收纳两个无线插头并为其充电，一个插入吉他或贝斯，另一个插入音箱或调音台。Neko 负责声音处理（采用 NAM 音色）和多轨录音。"
+                "x": "争论一：AI公司的义务。许多公司援引TDM例外或US的合理使用原则，未经许可训练模型；音乐行业一致反对，已对Suno、Udio、Anthropic和OpenAI提起诉讼。US判决结果不一，加上每部被故意侵权作品最高$150,000的赔偿，正推动部分AI公司转向授权。"
               },
               {
                 "t": "p",
-                "x": "它还加入了 AI 音轨分离、将曲目中的吉他静音并由自己接替演奏的功能、在屏幕上显示的 audio-to-tab（音频转谱），以及通过生成式 AI 制作的伴奏音轨和编曲。Time Machine 功能即使在忘记按下录音键时，也能让音乐人回听自己的灵感。与 NAM 的结合还开放了 Tone3000 的捕捉库。"
-              },
-              {
-                "t": "video",
-                "yt": "keuagUavq90"
+                "x": "争论二：唱片公司和版权公司的义务。它们的AI协议藏在NDAs之后；大型唱片公司称训练无需个别艺人或词曲作者同意，也不打算与录音乐手分享AI收入，而一些独立公司将提供选择加入或退出机制。"
               },
               {
                 "t": "p",
-                "x": "Kickstarter 项目在头 24 小时内获得 $10,000 的认筹；目前已筹得超过 $260k 的资金，目标为 $30,000。含回报的认筹起价 $449，零售价 $599。计划于 2027 年 4 月向支持者发货。"
+                "x": "争论三：如何对待AI音乐。Deezer称每天收到超过90,000首完全由AI生成（AI-generated）的曲目，占上传量的50%以上。普遍共识是将AI辅助（AI-assisted）音乐视同人类音乐，并限制完全AI生成的曲目，但没有人说明界线该划在哪里。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Neko Pocket Studio lleva NAM y\nseparación de stems al bolsillo",
-          "body": "El estudio de bolsillo inalámbrico de Neko combina tonos NAM, grabación, separación de pistas, GenAI y audio-to-tab.",
-          "mini_headline": "El estudio de bolsillo de Neko",
+          "headline": "Tres debates enmarcan\nla pelea por la música con AI",
+          "body": "CMU plantea tres debates: qué deben las firmas de AI, qué deben los sellos y qué hacer con la música de AI.",
+          "mini_headline": "Los tres debates de la música con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
-                "cap": "Neko Pocket Studio"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png"
               },
               {
                 "t": "p",
-                "x": "Neko, de Neko Engineering, se lanzó esta semana en Kickstarter: un estudio de bolsillo que une conectividad inalámbrica, modelado de amplificadores y pedales y grabación con herramientas de IA. Se centra en aprender canciones y en convertir riffs de guitarra en arreglos completos."
+                "x": "Antes de un panel de Un-Convention en Manchester con Chris Cooke, de CMU, CMU ordena las numerosas preguntas sobre música y AI en tres grandes debates."
               },
               {
                 "t": "p",
-                "x": "Dos conectores inalámbricos se guardan y se cargan dentro de Neko: uno se conecta a una guitarra o un bajo y el otro a un amplificador o una mesa de mezclas. Neko se encarga del procesamiento del sonido, con tonos NAM, y de la grabación multipista."
+                "x": "Primer debate: las obligaciones de las empresas de AI. Muchas entrenaron modelos sin permiso, amparándose en excepciones de TDM o en el fair use de US; la industria musical está unida en contra, con demandas contra Suno, Udio, Anthropic y OpenAI. Las sentencias dispares en US y las indemnizaciones de hasta $150,000 por obra infringida de forma deliberada empujan a algunas empresas de AI hacia las licencias."
               },
               {
                 "t": "p",
-                "x": "Añade separación de pistas por IA, la posibilidad de silenciar la guitarra de un tema y tocar en su lugar, audio-to-tab en su pantalla, y pistas de acompañamiento y arreglos creados con IA generativa. La función Time Machine permite a los músicos volver a escuchar ideas aunque hayan olvidado pulsar grabar. La integración con NAM abre la biblioteca de capturas de Tone3000."
-              },
-              {
-                "t": "video",
-                "yt": "keuagUavq90"
+                "x": "Segundo debate: las obligaciones de discográficas y editoriales. Sus acuerdos de AI están protegidos por NDAs; las majors dicen que no necesitan el consentimiento individual de artistas o autores para el entrenamiento y no planean compartir los ingresos de AI con los músicos de sesión, mientras que algunos independientes ofrecerán opciones de opt-in u opt-out."
               },
               {
                 "t": "p",
-                "x": "En las primeras 24 horas la campaña de Kickstarter reunió $10.000 en aportes; ya supera los $260k frente a un objetivo de $30.000. Los aportes con recompensa parten de $449 y el precio de venta es de $599. Los envíos a los patrocinadores están previstos para abril de 2027."
+                "x": "Tercer debate: qué hacer con la música de AI. Deezer afirma que recibe más de 90,000 temas generados íntegramente por AI (AI-generated) al día, más del 50% de las subidas. El consenso apuesta por tratar la música asistida por AI (AI-assisted) como la música humana y restringir los temas generados íntegramente por AI, pero nadie ha dicho dónde está el límite."
               }
             ]
           }
@@ -1389,141 +1109,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "NAM·스템 분리를\n주머니에 담은 Neko",
-          "body": "Neko 포켓 스튜디오는 NAM 톤, 녹음, 스템 분리, GenAI를 담았다.",
-          "mini_headline": "Neko 포켓 기타 스튜디오",
+          "headline": "AI 음악 싸움을\n가르는 세 가지 논쟁",
+          "body": "CMU는 AI 음악 논쟁을 AI 기업·레이블의 책임과 AI 음악 대응으로 나눈다.",
+          "mini_headline": "AI 음악의 세 가지 논쟁",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
-                "cap": "Neko Pocket Studio"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png"
               },
               {
                 "t": "p",
-                "x": "Neko Engineering의 Neko가 이번 주 Kickstarter에서 공개됐다. 무선 연결, 앰프·페달 모델링, 녹음을 AI 도구와 결합한 주머니 크기의 스튜디오다. 곡을 익히고 기타 리프를 완성된 편곡으로 발전시키는 데 초점을 맞췄다."
+                "x": "CMU는 CMU의 Chris Cooke가 참여하는 Manchester의 Un-Convention 패널을 앞두고, 음악과 AI를 둘러싼 여러 질문을 세 가지 큰 논쟁으로 정리했다."
               },
               {
                 "t": "p",
-                "x": "Neko 안에는 무선 잭 두 개가 들어 있고 그 안에서 충전된다. 하나는 기타나 베이스에, 다른 하나는 앰프나 믹서에 꽂는다. Neko는 NAM 톤을 활용한 사운드 처리와 멀티트랙 녹음을 맡는다."
+                "x": "첫째 논쟁은 AI 기업의 의무다. 많은 기업이 TDM 예외나 US 공정 이용을 들어 허락 없이 모델을 학습시켰고, 음악 업계는 이에 한목소리로 맞서 Suno, Udio, Anthropic, OpenAI를 상대로 소송을 냈다. 엇갈린 US 판결과 고의 침해 작품당 최대 $150,000의 손해배상이 일부 AI 기업을 라이선스 쪽으로 이끌고 있다."
               },
               {
                 "t": "p",
-                "x": "AI 스템 분리, 곡에서 기타를 음소거하고 그 자리를 직접 연주하는 기능, 디스플레이에 표시되는 audio-to-tab, 생성형 AI로 만드는 반주 트랙과 편곡도 더했다. Time Machine 기능은 녹음 버튼을 누르지 않았더라도 떠올린 아이디어를 다시 들려준다. NAM 연동으로 Tone3000 캡처 라이브러리도 쓸 수 있다."
-              },
-              {
-                "t": "video",
-                "yt": "keuagUavq90"
+                "x": "둘째 논쟁은 레이블과 퍼블리셔의 의무다. 이들의 AI 계약은 NDAs(비밀유지계약)에 가려져 있다. 메이저들은 학습에 개별 아티스트나 작가의 동의가 필요 없다고 하며, 세션 연주자와 AI 수익을 나눌 계획도 없다. 반면 일부 인디는 옵트인이나 옵트아웃을 제공할 예정이다."
               },
               {
                 "t": "p",
-                "x": "Kickstarter는 첫 24시간 만에 $10,000의 후원을 모았고, 목표액 $30,000을 넘어 $260k 이상이 모였다. 리워드가 포함된 후원은 $449부터이며 소매가는 $599다. 후원자 배송은 2027년 4월로 예정돼 있다."
+                "x": "셋째 논쟁은 AI 음악을 어떻게 다룰지다. Deezer는 하루 90,000곡이 넘는 완전 AI 생성(AI-generated) 트랙을 받는다고 밝혔는데, 이는 업로드의 50% 이상이다. AI 보조(AI-assisted) 음악은 사람의 음악처럼 대하고 완전 AI 생성 트랙은 제한하자는 쪽으로 의견이 모이지만, 그 경계를 어디에 둘지는 아무도 말하지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "NAMとステム分離を\nポケットに収めたNeko",
-          "body": "Nekoの無線ポケットスタジオは、NAMトーン、録音、ステム分離、GenAIを備える。",
-          "mini_headline": "Nekoのポケット型ギタースタジオ",
+          "headline": "AI音楽をめぐる争いを\n形づくる三つの論点",
+          "body": "CMUは生成音楽をめぐる議論を、AI企業とレーベルの責任、AI音楽の扱いの三つに整理する。",
+          "mini_headline": "AI音楽の三つの論点",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
-                "cap": "Neko Pocket Studio"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png"
               },
               {
                 "t": "p",
-                "x": "Neko EngineeringのNekoが今週Kickstarterで始動した。ワイヤレス接続、アンプとペダルのモデリング、録音をAIツールと組み合わせたポケットサイズのスタジオだ。主眼は曲の習得と、ギターリフを完成したアレンジへと仕上げることにある。"
+                "x": "CMUのChris Cookeが登壇するManchesterでのUn-Conventionのパネルを前に、CMUは音楽とAIをめぐる数多くの問いを三つの大きな論点に整理した。"
               },
               {
                 "t": "p",
-                "x": "Nekoの内部には2つのワイヤレスジャックが収まり、そこで充電される。1つはギターやベースに、もう1つはアンプやミキサーに挿す。Nekoは、NAMトーンによる音作りとマルチトラック録音を担う。"
+                "x": "論点その一は、AI企業の義務だ。多くの企業がTDM例外やUSのフェアユースを根拠に無許諾でモデルを学習させてきた。音楽業界はこれに一致して反対し、Suno、Udio、Anthropic、OpenAIを相手取って訴訟を起こしている。USでの判断が割れていることや、故意に侵害された作品ごとに最大$150,000の損害賠償が、一部のAI企業をライセンスへと向かわせている。"
               },
               {
                 "t": "p",
-                "x": "さらに、AIステム分離、曲のギターをミュートして代わりに自分で弾く機能、ディスプレイに表示されるaudio-to-tab、生成AIで作るバッキングトラックやアレンジも加わる。Time Machine機能を使えば、録音ボタンを押し忘れてもアイデアを聴き返せる。NAMとの連携により、Tone3000のキャプチャーライブラリも利用できる。"
-              },
-              {
-                "t": "video",
-                "yt": "keuagUavq90"
+                "x": "論点その二は、レーベルと出版社の義務だ。彼らのAI契約はNDAsの陰に隠れている。メジャーは学習に個々のアーティストや作家の同意は不要だとし、AI収入をセッションミュージシャンと分け合う計画もない。一方、一部のインディーはオプトインやオプトアウトを用意する方針だ。"
               },
               {
                 "t": "p",
-                "x": "Kickstarterでは最初の24時間で$10,000の支援が集まり、目標の$30,000に対して$260k 超が集まっている。リターン付きの支援は$449からで、小売価格は$599だ。支援者への発送は2027年4月を予定している。"
+                "x": "論点その三は、AI音楽をどう扱うかだ。Deezerによれば、完全にAIで生成された（AI-generated）楽曲を一日に90,000曲以上受け取っており、アップロードの50%超を占める。AIを補助的に使った（AI-assisted）音楽は人間の音楽と同様に扱い、完全なAI生成曲は制限するという考えが大勢だが、その線をどこに引くかは誰も示していない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Neko把NAM与音轨分离\n装进口袋",
-          "body": "Neko无线口袋工作室集NAM音色、录音、音轨分离与GenAI功能于一身。",
-          "mini_headline": "Neko口袋吉他工作室",
+          "headline": "三大争论\n框定AI音乐之争",
+          "body": "CMU把生成式音乐之争归为三大争论：AI公司的责任、唱片公司的责任与AI音乐的处置。",
+          "mini_headline": "AI音乐的三大争论",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
-                "cap": "Neko Pocket Studio"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png"
               },
               {
                 "t": "p",
-                "x": "Neko Engineering 推出的 Neko 本周在 Kickstarter 上线：这是一台口袋大小的工作室，将无线连接、音箱与效果器建模和录音功能与 AI 工具结合在一起。它的重点是帮助用户学歌，并把吉他 riff 发展成完整的编曲。"
+                "x": "在Manchester举行、CMU的Chris Cooke参与的Un-Convention座谈会之前，CMU把音乐与AI的诸多问题归纳为三大争论。"
               },
               {
                 "t": "p",
-                "x": "Neko 内部收纳两个无线插头并为其充电，一个插入吉他或贝斯，另一个插入音箱或调音台。Neko 负责声音处理（采用 NAM 音色）和多轨录音。"
+                "x": "争论一：AI公司的义务。许多公司援引TDM例外或US的合理使用原则，未经许可训练模型；音乐行业一致反对，已对Suno、Udio、Anthropic和OpenAI提起诉讼。US判决结果不一，加上每部被故意侵权作品最高$150,000的赔偿，正推动部分AI公司转向授权。"
               },
               {
                 "t": "p",
-                "x": "它还加入了 AI 音轨分离、将曲目中的吉他静音并由自己接替演奏的功能、在屏幕上显示的 audio-to-tab（音频转谱），以及通过生成式 AI 制作的伴奏音轨和编曲。Time Machine 功能即使在忘记按下录音键时，也能让音乐人回听自己的灵感。与 NAM 的结合还开放了 Tone3000 的捕捉库。"
-              },
-              {
-                "t": "video",
-                "yt": "keuagUavq90"
+                "x": "争论二：唱片公司和版权公司的义务。它们的AI协议藏在NDAs之后；大型唱片公司称训练无需个别艺人或词曲作者同意，也不打算与录音乐手分享AI收入，而一些独立公司将提供选择加入或退出机制。"
               },
               {
                 "t": "p",
-                "x": "Kickstarter 项目在头 24 小时内获得 $10,000 的认筹；目前已筹得超过 $260k 的资金，目标为 $30,000。含回报的认筹起价 $449，零售价 $599。计划于 2027 年 4 月向支持者发货。"
+                "x": "争论三：如何对待AI音乐。Deezer称每天收到超过90,000首完全由AI生成（AI-generated）的曲目，占上传量的50%以上。普遍共识是将AI辅助（AI-assisted）音乐视同人类音乐，并限制完全AI生成的曲目，但没有人说明界线该划在哪里。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Neko Pocket Studio lleva NAM y\nseparación de stems al bolsillo",
-          "body": "El estudio de bolsillo inalámbrico de Neko combina tonos NAM, grabación, separación de pistas, GenAI y audio-to-tab.",
-          "mini_headline": "El estudio de bolsillo de Neko",
+          "headline": "Tres debates enmarcan\nla pelea por la música con AI",
+          "body": "CMU plantea tres debates: qué deben las firmas de AI, qué deben los sellos y qué hacer con la música de AI.",
+          "mini_headline": "Los tres debates de la música con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jw9UZxRfQBuT4CzJq4mtNT-1200-80.jpg",
-                "cap": "Neko Pocket Studio"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/AI-debates.png"
               },
               {
                 "t": "p",
-                "x": "Neko, de Neko Engineering, se lanzó esta semana en Kickstarter: un estudio de bolsillo que une conectividad inalámbrica, modelado de amplificadores y pedales y grabación con herramientas de IA. Se centra en aprender canciones y en convertir riffs de guitarra en arreglos completos."
+                "x": "Antes de un panel de Un-Convention en Manchester con Chris Cooke, de CMU, CMU ordena las numerosas preguntas sobre música y AI en tres grandes debates."
               },
               {
                 "t": "p",
-                "x": "Dos conectores inalámbricos se guardan y se cargan dentro de Neko: uno se conecta a una guitarra o un bajo y el otro a un amplificador o una mesa de mezclas. Neko se encarga del procesamiento del sonido, con tonos NAM, y de la grabación multipista."
+                "x": "Primer debate: las obligaciones de las empresas de AI. Muchas entrenaron modelos sin permiso, amparándose en excepciones de TDM o en el fair use de US; la industria musical está unida en contra, con demandas contra Suno, Udio, Anthropic y OpenAI. Las sentencias dispares en US y las indemnizaciones de hasta $150,000 por obra infringida de forma deliberada empujan a algunas empresas de AI hacia las licencias."
               },
               {
                 "t": "p",
-                "x": "Añade separación de pistas por IA, la posibilidad de silenciar la guitarra de un tema y tocar en su lugar, audio-to-tab en su pantalla, y pistas de acompañamiento y arreglos creados con IA generativa. La función Time Machine permite a los músicos volver a escuchar ideas aunque hayan olvidado pulsar grabar. La integración con NAM abre la biblioteca de capturas de Tone3000."
-              },
-              {
-                "t": "video",
-                "yt": "keuagUavq90"
+                "x": "Segundo debate: las obligaciones de discográficas y editoriales. Sus acuerdos de AI están protegidos por NDAs; las majors dicen que no necesitan el consentimiento individual de artistas o autores para el entrenamiento y no planean compartir los ingresos de AI con los músicos de sesión, mientras que algunos independientes ofrecerán opciones de opt-in u opt-out."
               },
               {
                 "t": "p",
-                "x": "En las primeras 24 horas la campaña de Kickstarter reunió $10.000 en aportes; ya supera los $260k frente a un objetivo de $30.000. Los aportes con recompensa parten de $449 y el precio de venta es de $599. Los envíos a los patrocinadores están previstos para abril de 2027."
+                "x": "Tercer debate: qué hacer con la música de AI. Deezer afirma que recibe más de 90,000 temas generados íntegramente por AI (AI-generated) al día, más del 50% de las subidas. El consenso apuesta por tratar la música asistida por AI (AI-assisted) como la música humana y restringir los temas generados íntegramente por AI, pero nadie ha dicho dónde está el límite."
               }
             ]
           }
@@ -1531,201 +1231,201 @@
       }
     },
     {
-      "id": "music-midi-repa-paper",
+      "id": "music-dcomposer-drums",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "MIDI-REPA는\nMIDI로 음악 구조 학습",
-      "body": "MIDI-REPA는 자동 채보한 MIDI로 음악 생성 모델에 구조를 가르친다.",
-      "mini_headline": "MIDI로 음악 생성 AI 학습",
+      "headline": "드럼 비트를 듣고\n샘플까지 뽑는 모델",
+      "body": "D-Composer는 언어 모델링으로 드럼 비트를 채보하고 원샷 소리로 나눈다.",
+      "mini_headline": "드럼 비트를 샘플로 분해",
       "tool": "Music",
       "source": "arXiv",
-      "url": "https://arxiv.org/abs/2610.20967",
+      "url": "https://arxiv.org/abs/2610.22535",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
-            "cap": "그림 1: MIDI-REPA 프레임워크. AMT 시스템이 추출한 기호 타깃이 가벼운 프로젝션 헤드와 코사인 유사도 정렬 손실로 중간 오디오 표현을 지도한다."
+            "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig1_v2.png",
+            "cap": "그림 1: D-Composer는 드럼 오디오를 모든 사운드 이벤트의 시작 시점, 종류, 분리된 오디오를 담은 토큰 스트림으로 바꿔 어떤 드럼 녹음이든 연주 가능한 피아노 롤로 만든다."
           },
           {
             "t": "p",
-            "x": "최신 text-to-music 모델은 갈수록 모델 용량, 데이터, 연산을 키우는 데 기대지만, 음악 구조는 여전히 밀도 높은 오디오에서 직접 배운다. 멜로디, 리듬, 화성, 구조는 기호 형태로 간결하게 표현할 수 있는데도 그렇다."
+            "x": "드럼 비트는 반복되는 원샷을 배열해 만드는 경우가 많다. 드럼 합성 기반 분석(AbS) 모델은 이 가정을 채보와 음원 분리, 원샷 추출에 쓴다. 하지만 주요 접근법은 전자 드럼 키트 같은 폭넓은 음색에 약하고 고품질 쌍 학습 데이터에 기대며, 킥 사운드가 여러 개인 경우처럼 한 배열 안의 변주도 모델링하지 못한다."
           },
           {
             "t": "p",
-            "x": "연구진이 소개하는 MIDI-REPA는 표현 정렬 프레임워크다. 자동 음악 채보(AMT)에서 MIDI 지도 신호를 얻어 flow-matching DiT의 중간 표현을 정렬한다. 2026 ICME Academic Text-To-Music Challenge의 122M 파라미터 FluxAudio-S 베이스라인으로 무엇을, 어디서, 언제 정렬할지 따져 봤다. 성능은 MuScriptor-derived(MuScriptor에서 추출한) 피아노 롤을 flow 궤적 전체에 걸쳐 초기 DiT 레이어와 정렬할 때 가장 좋았다."
-          },
-          {
-            "t": "p",
-            "x": "MIDI-REPA는 추가 학습 데이터나 기법 없이도 ATTM 객관 지표에서 경쟁력을 유지하고, RTX 3090 한 장이면 약 31시간 만에 학습이 끝난다. 기호 지도가 text-to-music 생성을 개선하는 간단하고 저렴한 학습 신호라는 게 연구진의 결론이다. 채보 파이프라인, JamendoMIDI, 학습 코드, 오디오 샘플도 공개한다."
+            "x": "Patrick O'Reilly, Saumya Pailwan, Annie Chu, Jason Smith, Bryan Pardo가 내놓은 D-Composer(ISMIR 2026)는 드럼 녹음을 레이블이 붙은 사운드 이벤트와 그 시작 시점으로 분해하는 자기회귀 언어 모델링 프레임워크다."
           },
           {
             "t": "img",
-            "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
-            "cap": "그림 2: 베이스라인 생성 궤적의 여러 타임스텝에서 외삽한 최종 출력."
+            "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig2.png",
+            "cap": "그림 2: 제안한 D-Composer 시스템의 학습 과정. 데이터 준비와 타깃 포맷 구성을 포함한다."
+          },
+          {
+            "t": "p",
+            "x": "드럼 채보와 원샷 추출에서 D-Composer는 최신 AbS 시스템과 과제별 기준 모델에 견줄 만하거나 더 나은 성능을 내면서 더 많은 음색으로 일반화한다. 저자들은 풍부한 합성 데이터와 압축된 음향 토큰이 있으면 언어 모델링 하나로 채보와 사운드 이벤트 분해를 간단히 묶을 수 있다고 말한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "MIDI-REPA teaches music models\nstructure through MIDI",
-          "body": "MIDI-REPA aligns text-to-music models with MIDI from automatic transcription to learn musical structure.",
-          "mini_headline": "MIDI guides text-to-music AI",
+          "headline": "One model hears a drum beat\nand pulls out its samples",
+          "body": "D-Composer uses language modelling to transcribe a drum beat while splitting it into its constituent one-shot sounds.",
+          "mini_headline": "Drum beats split into samples",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
-                "cap": "Figure 1: MIDI-REPA framework. Symbolic targets extracted by an AMT system supervise intermediate audio representations through a lightweight projection head and cosine-similarity alignment loss."
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig1_v2.png",
+                "cap": "Figure 1: D-Composer maps drum audio to a stream of tokens encoding the onset time, class, and isolated audio for all sound events, effectively turning any drum recording into a playable piano roll."
               },
               {
                 "t": "p",
-                "x": "State-of-the-art text-to-music models increasingly rely on scaling model capacity, data, and compute, while still learning musical structure directly from dense audio. Yet melody, rhythm, harmony, and structure can be represented compactly in symbolic form."
+                "x": "Drum beats are often produced as arrangements of repeated one-shots. Drum analysis-by-synthesis (AbS) models use that assumption for transcription, source separation and one-shot extraction, but leading approaches struggle with a broad range of timbres such as electronic kits, rely on high-quality paired training data, and do not model variation within one arrangement, such as multiple kick sounds."
               },
               {
                 "t": "p",
-                "x": "We introduce MIDI-REPA, a representation-alignment framework that derives MIDI supervision from automatic music transcription (AMT) to align intermediate representations of a flow-matching DiT. Building on the 122M-parameter FluxAudio-S baseline from the 2026 ICME Academic Text-To-Music Challenge, we investigate what, where, and when to align. Aligning a MuScriptor-derived piano roll with an early DiT layer throughout the full flow trajectory performs the best."
-              },
-              {
-                "t": "p",
-                "x": "Without additional training data or techniques, MIDI-REPA remains competitive on the ATTM objective metrics while remaining trainable on a single RTX 3090 in about 31 hours. Our results highlight symbolic supervision as a simple and inexpensive learning signal for improving text-to-music generation. We release our transcription pipeline, JamendoMIDI, training code, and audio samples."
+                "x": "D-Composer, from Patrick O'Reilly, Saumya Pailwan, Annie Chu, Jason Smith and Bryan Pardo (ISMIR 2026), is an autoregressive language modelling framework that decomposes drum recordings into labelled sound events and their onset times."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
-                "cap": "Figure 2: Extrapolated final outputs from different timesteps along the baseline generation trajectory."
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig2.png",
+                "cap": "Figure 2: Training of the proposed D-Composer system, including data preparation and target formatting."
+              },
+              {
+                "t": "p",
+                "x": "In drum transcription and one-shot extraction it performs comparably to or better than a state-of-the-art AbS system and task-specific baselines while generalising to more timbres. With abundant synthetic data and compact acoustic tokens, the authors say, language modelling offers a simple recipe for unifying transcription and sound event decomposition."
               }
             ]
           }
         },
         "ko": {
-          "headline": "MIDI-REPA는\nMIDI로 음악 구조 학습",
-          "body": "MIDI-REPA는 자동 채보한 MIDI로 음악 생성 모델에 구조를 가르친다.",
-          "mini_headline": "MIDI로 음악 생성 AI 학습",
+          "headline": "드럼 비트를 듣고\n샘플까지 뽑는 모델",
+          "body": "D-Composer는 언어 모델링으로 드럼 비트를 채보하고 원샷 소리로 나눈다.",
+          "mini_headline": "드럼 비트를 샘플로 분해",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
-                "cap": "그림 1: MIDI-REPA 프레임워크. AMT 시스템이 추출한 기호 타깃이 가벼운 프로젝션 헤드와 코사인 유사도 정렬 손실로 중간 오디오 표현을 지도한다."
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig1_v2.png",
+                "cap": "그림 1: D-Composer는 드럼 오디오를 모든 사운드 이벤트의 시작 시점, 종류, 분리된 오디오를 담은 토큰 스트림으로 바꿔 어떤 드럼 녹음이든 연주 가능한 피아노 롤로 만든다."
               },
               {
                 "t": "p",
-                "x": "최신 text-to-music 모델은 갈수록 모델 용량, 데이터, 연산을 키우는 데 기대지만, 음악 구조는 여전히 밀도 높은 오디오에서 직접 배운다. 멜로디, 리듬, 화성, 구조는 기호 형태로 간결하게 표현할 수 있는데도 그렇다."
+                "x": "드럼 비트는 반복되는 원샷을 배열해 만드는 경우가 많다. 드럼 합성 기반 분석(AbS) 모델은 이 가정을 채보와 음원 분리, 원샷 추출에 쓴다. 하지만 주요 접근법은 전자 드럼 키트 같은 폭넓은 음색에 약하고 고품질 쌍 학습 데이터에 기대며, 킥 사운드가 여러 개인 경우처럼 한 배열 안의 변주도 모델링하지 못한다."
               },
               {
                 "t": "p",
-                "x": "연구진이 소개하는 MIDI-REPA는 표현 정렬 프레임워크다. 자동 음악 채보(AMT)에서 MIDI 지도 신호를 얻어 flow-matching DiT의 중간 표현을 정렬한다. 2026 ICME Academic Text-To-Music Challenge의 122M 파라미터 FluxAudio-S 베이스라인으로 무엇을, 어디서, 언제 정렬할지 따져 봤다. 성능은 MuScriptor-derived(MuScriptor에서 추출한) 피아노 롤을 flow 궤적 전체에 걸쳐 초기 DiT 레이어와 정렬할 때 가장 좋았다."
-              },
-              {
-                "t": "p",
-                "x": "MIDI-REPA는 추가 학습 데이터나 기법 없이도 ATTM 객관 지표에서 경쟁력을 유지하고, RTX 3090 한 장이면 약 31시간 만에 학습이 끝난다. 기호 지도가 text-to-music 생성을 개선하는 간단하고 저렴한 학습 신호라는 게 연구진의 결론이다. 채보 파이프라인, JamendoMIDI, 학습 코드, 오디오 샘플도 공개한다."
+                "x": "Patrick O'Reilly, Saumya Pailwan, Annie Chu, Jason Smith, Bryan Pardo가 내놓은 D-Composer(ISMIR 2026)는 드럼 녹음을 레이블이 붙은 사운드 이벤트와 그 시작 시점으로 분해하는 자기회귀 언어 모델링 프레임워크다."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
-                "cap": "그림 2: 베이스라인 생성 궤적의 여러 타임스텝에서 외삽한 최종 출력."
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig2.png",
+                "cap": "그림 2: 제안한 D-Composer 시스템의 학습 과정. 데이터 준비와 타깃 포맷 구성을 포함한다."
+              },
+              {
+                "t": "p",
+                "x": "드럼 채보와 원샷 추출에서 D-Composer는 최신 AbS 시스템과 과제별 기준 모델에 견줄 만하거나 더 나은 성능을 내면서 더 많은 음색으로 일반화한다. 저자들은 풍부한 합성 데이터와 압축된 음향 토큰이 있으면 언어 모델링 하나로 채보와 사운드 이벤트 분해를 간단히 묶을 수 있다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MIDI-REPAは\nMIDIで音楽構造を学ぶ",
-          "body": "MIDI-REPAは自動採譜のMIDIで音楽生成モデルに構造を学ばせる。",
-          "mini_headline": "MIDIが音楽生成AIを導く",
+          "headline": "ドラムを聴いて\nサンプルまで取り出す",
+          "body": "D-Composerは言語モデルでドラムを採譜し、ワンショット音へ分解する。",
+          "mini_headline": "ドラムをサンプルに分解",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
-                "cap": "図1：MIDI-REPAのフレームワーク。AMTシステムが抽出した記号的ターゲットが、軽量な射影ヘッドとコサイン類似度による整合損失を通じて、中間のオーディオ表現を教師する。"
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig1_v2.png",
+                "cap": "図1：D-Composerはドラム音声を、すべてのサウンドイベントの発音時刻、クラス、分離された音声を符号化したトークン列に変換し、あらゆるドラム録音を演奏可能なピアノロールに変える。"
               },
               {
                 "t": "p",
-                "x": "最先端のtext-to-musicモデルは、モデル容量、データ、計算資源の拡大にますます頼る一方で、音楽構造は依然として密なオーディオから直接学習している。しかし、メロディ、リズム、和声、構造は記号形式でコンパクトに表現できる。"
+                "x": "ドラムビートは、繰り返されるワンショットの配置として作られることが多い。ドラムの合成による分析（AbS）モデルはこの前提を採譜、音源分離、ワンショット抽出に使うが、主要な手法は電子キットなど幅広い音色に弱く、高品質なペアの学習データに頼り、複数のキック音のような一つの配置内のばらつきをモデル化できない。"
               },
               {
                 "t": "p",
-                "x": "MIDI-REPAは、自動採譜（AMT）からMIDIの教師信号を導き、flow-matching DiTの中間表現を整合させる表現アライメントの枠組みだ。2026 ICME Academic Text-To-Music Challengeの122M パラメーターのFluxAudio-Sベースラインをもとに、何を、どこで、いつ整合させるかを検証した。MuScriptor-derivedのピアノロールを、フローの全軌跡を通じて初期のDiT層と整合させる方法が最も良い結果を出した。"
-              },
-              {
-                "t": "p",
-                "x": "MIDI-REPAは追加の学習データや手法なしでATTMの客観指標で競争力を保ちつつ、RTX 3090を1枚使い約31時間で学習できる。結果は、記号的な教師がtext-to-music生成を改善する、シンプルで安価な学習信号であることを示す。採譜パイプライン、JamendoMIDI、学習コード、オーディオサンプルを公開する。"
+                "x": "Patrick O'Reilly、Saumya Pailwan、Annie Chu、Jason Smith、Bryan PardoによるD-Composer（ISMIR 2026）は、ドラム録音をラベル付きのサウンドイベントとその発音時刻に分解する自己回帰型の言語モデリングの枠組みだ。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
-                "cap": "図2：ベースライン生成軌跡の各タイムステップから外挿した最終出力。"
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig2.png",
+                "cap": "図2：提案するD-Composerシステムの学習。データ準備とターゲットの整形を含む。"
+              },
+              {
+                "t": "p",
+                "x": "ドラム採譜とワンショット抽出では、最先端のAbSシステムやタスク特化型のベースラインと同等以上の性能を示しつつ、より多くの音色に汎化する。著者らによれば、豊富な合成データとコンパクトな音響トークンがあれば、言語モデリングは採譜とサウンドイベント分解を統合するシンプルな方法になるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MIDI-REPA借MIDI\n教音乐模型学结构",
-          "body": "MIDI-REPA用自动转录的MIDI对齐文本生成音乐模型，以学习音乐结构。",
-          "mini_headline": "MIDI引导文本生成音乐AI",
+          "headline": "一个模型听懂鼓点\n还能拆出采样",
+          "body": "D-Composer用语言建模转录鼓点，同时将其拆分为各个单发音色。",
+          "mini_headline": "鼓点拆解为采样",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
-                "cap": "图1：MIDI-REPA 框架。由 AMT 系统提取的符号目标，通过轻量投影头和余弦相似度对齐损失，监督中间音频表示。"
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig1_v2.png",
+                "cap": "图1：D-Composer将鼓音频映射为一串标记，编码所有声音事件的起始时间、类别和分离音频，实际上能把任何鼓录音变成可演奏的钢琴卷帘。"
               },
               {
                 "t": "p",
-                "x": "最先进的 text-to-music 模型越来越依赖扩大模型容量、数据和算力，却仍直接从密集的音频中学习音乐结构。然而，旋律、节奏、和声与结构都可以用符号形式紧凑地表示。"
+                "x": "鼓点常由重复的单发音色编排而成。鼓的合成式分析（AbS）模型借助这一假设进行转录、音源分离和单发提取，但主流方法难以应对电子鼓组等多种音色，依赖高质量的配对训练数据，也无法刻画同一编排中的变化，例如多种底鼓音色。"
               },
               {
                 "t": "p",
-                "x": "我们提出 MIDI-REPA，这是一种表示对齐框架，从自动音乐转录（AMT）中获取 MIDI 监督信号，用以对齐 flow-matching DiT 的中间表示。我们以 2026 ICME Academic Text-To-Music Challenge 中 122M 参数的 FluxAudio-S 基线为基础，研究对齐什么、在哪里对齐以及何时对齐。在整个流轨迹中将 MuScriptor-derived 钢琴卷帘与早期 DiT 层对齐，效果最好。"
-              },
-              {
-                "t": "p",
-                "x": "在不增加训练数据或技巧的情况下，MIDI-REPA 在 ATTM 客观指标上仍具竞争力，并且只需一块 RTX 3090 约 31 小时即可完成训练。结果表明，符号监督是改进 text-to-music 生成的一种简单而低成本的学习信号。我们公开了转录流程、JamendoMIDI、训练代码和音频样本。"
+                "x": "D-Composer由Patrick O'Reilly、Saumya Pailwan、Annie Chu、Jason Smith和Bryan Pardo提出（ISMIR 2026），是一个自回归语言建模框架，可将鼓录音分解为带标签的声音事件及其起始时间。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
-                "cap": "图2：沿基线生成轨迹，从不同时间步外推出的最终输出。"
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig2.png",
+                "cap": "图2：所提D-Composer系统的训练流程，包括数据准备和目标格式化。"
+              },
+              {
+                "t": "p",
+                "x": "在鼓转录和单发提取上，它的表现与最先进的AbS系统及特定任务基线相当或更好，同时能泛化到更多音色。作者表示，借助充足的合成数据和紧凑的声学标记，语言建模为统一转录与声音事件分解提供了一条简单路径。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MIDI-REPA enseña estructura\na modelos musicales vía MIDI",
-          "body": "MIDI-REPA alinea modelos text-to-music con MIDI de transcripción automática para aprender estructura musical.",
-          "mini_headline": "MIDI guía la IA de texto a música",
+          "headline": "Un modelo escucha un ritmo\nde batería y extrae sus samples",
+          "body": "D-Composer usa modelado de lenguaje para transcribir un ritmo de batería y separarlo en sus sonidos one-shot.",
+          "mini_headline": "Ritmos de batería separados en samples",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
-                "cap": "Figura 1: marco MIDI-REPA. Los objetivos simbólicos extraídos por un sistema AMT supervisan las representaciones de audio intermedias mediante un cabezal de proyección ligero y una pérdida de alineación por similitud coseno."
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig1_v2.png",
+                "cap": "Figura 1: D-Composer convierte el audio de batería en un flujo de tokens que codifica el tiempo de inicio, la clase y el audio aislado de todos los eventos sonoros, lo que en la práctica transforma cualquier grabación de batería en un piano roll tocable."
               },
               {
                 "t": "p",
-                "x": "Los modelos text-to-music más avanzados dependen cada vez más de escalar la capacidad del modelo, los datos y el cómputo, aunque siguen aprendiendo la estructura musical directamente del audio denso. Sin embargo, la melodía, el ritmo, la armonía y la estructura pueden representarse de manera compacta en forma simbólica."
+                "x": "Los ritmos de batería suelen producirse como arreglos de one-shots repetidos. Los modelos de análisis por síntesis (AbS) de batería usan esa premisa para la transcripción, la separación de fuentes y la extracción de one-shots, pero los enfoques líderes tienen dificultades con una amplia gama de timbres, como los kits electrónicos, dependen de datos de entrenamiento emparejados de alta calidad y no modelan la variación dentro de un mismo arreglo, como varios sonidos de bombo."
               },
               {
                 "t": "p",
-                "x": "Presentamos MIDI-REPA, un marco de alineación de representaciones que obtiene supervisión MIDI a partir de la transcripción musical automática (AMT) para alinear las representaciones intermedias de un DiT de flow-matching. Partiendo de la línea base FluxAudio-S de 122M parámetros del 2026 ICME Academic Text-To-Music Challenge, investigamos qué, dónde y cuándo alinear. Alinear un piano roll MuScriptor-derived (derivado de MuScriptor) con una capa temprana del DiT a lo largo de toda la trayectoria del flujo da los mejores resultados."
-              },
-              {
-                "t": "p",
-                "x": "Sin datos de entrenamiento ni técnicas adicionales, MIDI-REPA sigue siendo competitivo en las métricas objetivas de ATTM y puede entrenarse en una sola RTX 3090 en unas 31 horas. Nuestros resultados destacan la supervisión simbólica como una señal de aprendizaje sencilla y barata para mejorar la generación text-to-music. Publicamos nuestro pipeline de transcripción, JamendoMIDI, el código de entrenamiento y muestras de audio."
+                "x": "D-Composer, de Patrick O'Reilly, Saumya Pailwan, Annie Chu, Jason Smith y Bryan Pardo (ISMIR 2026), es un marco autorregresivo de modelado de lenguaje que descompone grabaciones de batería en eventos sonoros etiquetados y sus tiempos de inicio."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
-                "cap": "Figura 2: salidas finales extrapoladas desde distintos pasos de tiempo a lo largo de la trayectoria de generación de referencia."
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig2.png",
+                "cap": "Figura 2: Entrenamiento del sistema D-Composer propuesto, incluida la preparación de datos y el formato de los objetivos."
+              },
+              {
+                "t": "p",
+                "x": "En transcripción de batería y extracción de one-shots, rinde de forma comparable o superior a un sistema AbS de vanguardia y a líneas base específicas de cada tarea, al tiempo que generaliza a más timbres. Con abundantes datos sintéticos y tokens acústicos compactos, según los autores, el modelado de lenguaje ofrece una receta sencilla para unificar la transcripción y la descomposición de eventos sonoros."
               }
             ]
           }
@@ -1733,129 +1433,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "MIDI-REPA는\nMIDI로 음악 구조 학습",
-          "body": "MIDI-REPA는 자동 채보한 MIDI로 음악 생성 모델에 구조를 가르친다.",
-          "mini_headline": "MIDI로 음악 생성 AI 학습",
+          "headline": "드럼 비트를 듣고\n샘플까지 뽑는 모델",
+          "body": "D-Composer는 언어 모델링으로 드럼 비트를 채보하며 원샷 소리로 분리한다.",
+          "mini_headline": "드럼 비트를 샘플로 분해",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
-                "cap": "그림 1: MIDI-REPA 프레임워크. AMT 시스템이 추출한 기호 타깃이 가벼운 프로젝션 헤드와 코사인 유사도 정렬 손실을 통해 중간 오디오 표현을 지도한다."
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig1_v2.png",
+                "cap": "그림 1: D-Composer는 드럼 오디오를 모든 사운드 이벤트의 시작 시점, 종류, 분리된 오디오를 담은 토큰 스트림으로 변환해, 어떤 드럼 녹음이든 연주 가능한 피아노 롤로 바꾼다."
               },
               {
                 "t": "p",
-                "x": "최신 text-to-music 모델은 모델 용량, 데이터, 연산을 키우는 데 점점 더 의존하면서도 여전히 밀도 높은 오디오에서 음악 구조를 직접 배운다. 그러나 멜로디, 리듬, 화성, 구조는 기호 형태로 간결하게 표현할 수 있다."
+                "x": "드럼 비트는 반복되는 원샷을 배열해 만드는 경우가 많다. 드럼 합성 기반 분석(AbS) 모델은 이 가정을 채보, 음원 분리, 원샷 추출에 활용한다. 하지만 주요 접근법은 전자 드럼 키트 같은 폭넓은 음색에 약하고, 고품질 쌍 학습 데이터에 의존하며, 킥 사운드가 여러 개인 경우처럼 한 배열 안의 변주를 모델링하지 못한다."
               },
               {
                 "t": "p",
-                "x": "연구진은 자동 음악 채보(AMT)에서 MIDI 지도 신호를 얻어 flow-matching DiT의 중간 표현을 정렬하는 표현 정렬 프레임워크 MIDI-REPA를 소개한다. 2026 ICME Academic Text-To-Music Challenge의 122M 파라미터 FluxAudio-S 베이스라인을 바탕으로 무엇을, 어디서, 언제 정렬할지 살폈다. MuScriptor-derived(MuScriptor에서 추출한) 피아노 롤을 전체 flow 궤적에 걸쳐 초기 DiT 레이어와 정렬할 때 성능이 가장 좋았다."
-              },
-              {
-                "t": "p",
-                "x": "MIDI-REPA는 추가 학습 데이터나 기법 없이도 ATTM 객관 지표에서 경쟁력을 유지하며, RTX 3090 한 장으로 약 31시간이면 학습할 수 있다. 결과는 기호 지도가 text-to-music 생성을 개선하는 간단하고 저렴한 학습 신호임을 보여준다. 연구진은 채보 파이프라인, JamendoMIDI, 학습 코드, 오디오 샘플을 공개한다."
+                "x": "Patrick O'Reilly, Saumya Pailwan, Annie Chu, Jason Smith, Bryan Pardo가 내놓은 D-Composer(ISMIR 2026)는 드럼 녹음을 레이블이 붙은 사운드 이벤트와 그 시작 시점으로 분해하는 자기회귀 언어 모델링 프레임워크다."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
-                "cap": "그림 2: 베이스라인 생성 궤적의 여러 타임스텝에서 외삽한 최종 출력."
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig2.png",
+                "cap": "그림 2: 제안한 D-Composer 시스템의 학습 과정. 데이터 준비와 타깃 포맷 구성을 포함한다."
+              },
+              {
+                "t": "p",
+                "x": "드럼 채보와 원샷 추출에서 D-Composer는 최신 AbS 시스템과 과제별 기준 모델에 견줄 만하거나 더 나은 성능을 보이면서 더 많은 음색으로 일반화한다. 저자들은 풍부한 합성 데이터와 압축된 음향 토큰이 있다면 언어 모델링이 채보와 사운드 이벤트 분해를 통합하는 간단한 방법이 된다고 말한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MIDI-REPAは\nMIDIで音楽構造を学ぶ",
-          "body": "MIDI-REPAは自動採譜のMIDIで音楽生成モデルに構造を学ばせる。",
-          "mini_headline": "MIDIが音楽生成AIを導く",
+          "headline": "ドラムを聴いて\nサンプルまで取り出す",
+          "body": "D-Composerは言語モデルでドラムを採譜し、ワンショット音へ分解する。",
+          "mini_headline": "ドラムをサンプルに分解",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
-                "cap": "図1：MIDI-REPAのフレームワーク。AMTシステムが抽出した記号的ターゲットが、軽量な射影ヘッドとコサイン類似度による整合損失を通じて、中間のオーディオ表現を教師する。"
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig1_v2.png",
+                "cap": "図1：D-Composerはドラム音声を、すべてのサウンドイベントの発音時刻、クラス、分離された音声を符号化したトークン列に変換し、あらゆるドラム録音を演奏可能なピアノロールに変える。"
               },
               {
                 "t": "p",
-                "x": "最先端のtext-to-musicモデルは、モデル容量、データ、計算資源の拡大にますます頼る一方で、音楽構造は依然として密なオーディオから直接学習している。しかし、メロディ、リズム、和声、構造は記号形式でコンパクトに表現できる。"
+                "x": "ドラムビートは、繰り返されるワンショットの配置として作られることが多い。ドラムの合成による分析（AbS）モデルはこの前提を採譜、音源分離、ワンショット抽出に使うが、主要な手法は電子キットなど幅広い音色に弱く、高品質なペアの学習データに頼り、複数のキック音のような一つの配置内のばらつきをモデル化できない。"
               },
               {
                 "t": "p",
-                "x": "MIDI-REPAは、自動採譜（AMT）からMIDIの教師信号を導き、flow-matching DiTの中間表現を整合させる表現アライメントの枠組みだ。2026 ICME Academic Text-To-Music Challengeの122M パラメーターのFluxAudio-Sベースラインをもとに、何を、どこで、いつ整合させるかを検証した。MuScriptor-derivedのピアノロールを、フローの全軌跡を通じて初期のDiT層と整合させる方法が最も良い結果を出した。"
-              },
-              {
-                "t": "p",
-                "x": "MIDI-REPAは追加の学習データや手法なしでATTMの客観指標で競争力を保ちつつ、RTX 3090を1枚使い約31時間で学習できる。結果は、記号的な教師がtext-to-music生成を改善する、シンプルで安価な学習信号であることを示す。採譜パイプライン、JamendoMIDI、学習コード、オーディオサンプルを公開する。"
+                "x": "Patrick O'Reilly、Saumya Pailwan、Annie Chu、Jason Smith、Bryan PardoによるD-Composer（ISMIR 2026）は、ドラム録音をラベル付きのサウンドイベントとその発音時刻に分解する自己回帰型の言語モデリングの枠組みだ。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
-                "cap": "図2：ベースライン生成軌跡の各タイムステップから外挿した最終出力。"
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig2.png",
+                "cap": "図2：提案するD-Composerシステムの学習。データ準備とターゲットの整形を含む。"
+              },
+              {
+                "t": "p",
+                "x": "ドラム採譜とワンショット抽出では、最先端のAbSシステムやタスク特化型のベースラインと同等以上の性能を示しつつ、より多くの音色に汎化する。著者らによれば、豊富な合成データとコンパクトな音響トークンがあれば、言語モデリングは採譜とサウンドイベント分解を統合するシンプルな方法になるという。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "MIDI-REPA借MIDI\n教音乐模型学结构",
-          "body": "MIDI-REPA用自动转录的MIDI对齐文本生成音乐模型，以学习音乐结构。",
-          "mini_headline": "MIDI引导文本生成音乐AI",
+          "headline": "一个模型听懂鼓点\n还能拆出采样",
+          "body": "D-Composer用语言建模转录鼓点，同时将其拆分为各个单发音色。",
+          "mini_headline": "鼓点拆解为采样",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
-                "cap": "图1：MIDI-REPA 框架。由 AMT 系统提取的符号目标，通过轻量投影头和余弦相似度对齐损失，监督中间音频表示。"
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig1_v2.png",
+                "cap": "图1：D-Composer将鼓音频映射为一串标记，编码所有声音事件的起始时间、类别和分离音频，实际上能把任何鼓录音变成可演奏的钢琴卷帘。"
               },
               {
                 "t": "p",
-                "x": "最先进的 text-to-music 模型越来越依赖扩大模型容量、数据和算力，却仍直接从密集的音频中学习音乐结构。然而，旋律、节奏、和声与结构都可以用符号形式紧凑地表示。"
+                "x": "鼓点常由重复的单发音色编排而成。鼓的合成式分析（AbS）模型借助这一假设进行转录、音源分离和单发提取，但主流方法难以应对电子鼓组等多种音色，依赖高质量的配对训练数据，也无法刻画同一编排中的变化，例如多种底鼓音色。"
               },
               {
                 "t": "p",
-                "x": "我们提出 MIDI-REPA，这是一种表示对齐框架，从自动音乐转录（AMT）中获取 MIDI 监督信号，用以对齐 flow-matching DiT 的中间表示。我们以 2026 ICME Academic Text-To-Music Challenge 中 122M 参数的 FluxAudio-S 基线为基础，研究对齐什么、在哪里对齐以及何时对齐。在整个流轨迹中将 MuScriptor-derived 钢琴卷帘与早期 DiT 层对齐，效果最好。"
-              },
-              {
-                "t": "p",
-                "x": "在不增加训练数据或技巧的情况下，MIDI-REPA 在 ATTM 客观指标上仍具竞争力，并且只需一块 RTX 3090 约 31 小时即可完成训练。结果表明，符号监督是改进 text-to-music 生成的一种简单而低成本的学习信号。我们公开了转录流程、JamendoMIDI、训练代码和音频样本。"
+                "x": "D-Composer由Patrick O'Reilly、Saumya Pailwan、Annie Chu、Jason Smith和Bryan Pardo提出（ISMIR 2026），是一个自回归语言建模框架，可将鼓录音分解为带标签的声音事件及其起始时间。"
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
-                "cap": "图2：沿基线生成轨迹，从不同时间步外推出的最终输出。"
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig2.png",
+                "cap": "图2：所提D-Composer系统的训练流程，包括数据准备和目标格式化。"
+              },
+              {
+                "t": "p",
+                "x": "在鼓转录和单发提取上，它的表现与最先进的AbS系统及特定任务基线相当或更好，同时能泛化到更多音色。作者表示，借助充足的合成数据和紧凑的声学标记，语言建模为统一转录与声音事件分解提供了一条简单路径。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MIDI-REPA enseña estructura\na modelos musicales vía MIDI",
-          "body": "MIDI-REPA alinea modelos text-to-music con MIDI de transcripción automática para aprender estructura musical.",
-          "mini_headline": "MIDI guía la IA de texto a música",
+          "headline": "Un modelo escucha un ritmo\nde batería y extrae sus samples",
+          "body": "D-Composer usa modelado de lenguaje para transcribir un ritmo de batería y separarlo en sus sonidos one-shot.",
+          "mini_headline": "Ritmos de batería separados en samples",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/midi_repa_fig1.svg",
-                "cap": "Figura 1: marco MIDI-REPA. Los objetivos simbólicos extraídos por un sistema AMT supervisan las representaciones de audio intermedias mediante un cabezal de proyección ligero y una pérdida de alineación por similitud coseno."
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig1_v2.png",
+                "cap": "Figura 1: D-Composer convierte el audio de batería en un flujo de tokens que codifica el tiempo de inicio, la clase y el audio aislado de todos los eventos sonoros, lo que en la práctica transforma cualquier grabación de batería en un piano roll tocable."
               },
               {
                 "t": "p",
-                "x": "Los modelos text-to-music más avanzados dependen cada vez más de escalar la capacidad del modelo, los datos y el cómputo, aunque siguen aprendiendo la estructura musical directamente del audio denso. Sin embargo, la melodía, el ritmo, la armonía y la estructura pueden representarse de manera compacta en forma simbólica."
+                "x": "Los ritmos de batería suelen producirse como arreglos de one-shots repetidos. Los modelos de análisis por síntesis (AbS) de batería usan esa premisa para la transcripción, la separación de fuentes y la extracción de one-shots, pero los enfoques líderes tienen dificultades con una amplia gama de timbres, como los kits electrónicos, dependen de datos de entrenamiento emparejados de alta calidad y no modelan la variación dentro de un mismo arreglo, como varios sonidos de bombo."
               },
               {
                 "t": "p",
-                "x": "Presentamos MIDI-REPA, un marco de alineación de representaciones que obtiene supervisión MIDI a partir de la transcripción musical automática (AMT) para alinear las representaciones intermedias de un DiT de flow-matching. Partiendo de la línea base FluxAudio-S de 122M parámetros del 2026 ICME Academic Text-To-Music Challenge, investigamos qué, dónde y cuándo alinear. Alinear un piano roll MuScriptor-derived (derivado de MuScriptor) con una capa temprana del DiT a lo largo de toda la trayectoria del flujo da los mejores resultados."
-              },
-              {
-                "t": "p",
-                "x": "Sin datos de entrenamiento ni técnicas adicionales, MIDI-REPA sigue siendo competitivo en las métricas objetivas de ATTM y puede entrenarse en una sola RTX 3090 en unas 31 horas. Nuestros resultados destacan la supervisión simbólica como una señal de aprendizaje sencilla y barata para mejorar la generación text-to-music. Publicamos nuestro pipeline de transcripción, JamendoMIDI, el código de entrenamiento y muestras de audio."
+                "x": "D-Composer, de Patrick O'Reilly, Saumya Pailwan, Annie Chu, Jason Smith y Bryan Pardo (ISMIR 2026), es un marco autorregresivo de modelado de lenguaje que descompone grabaciones de batería en eventos sonoros etiquetados y sus tiempos de inicio."
               },
               {
                 "t": "img",
-                "src": "https://arxiv.org/html/2610.20967v1/timestep_compact.png",
-                "cap": "Figura 2: salidas finales extrapoladas desde distintos pasos de tiempo a lo largo de la trayectoria de generación de referencia."
+                "src": "https://arxiv.org/html/2610.22535v1/figs/unsoup_fig2.png",
+                "cap": "Figura 2: Entrenamiento del sistema D-Composer propuesto, incluida la preparación de datos y el formato de los objetivos."
+              },
+              {
+                "t": "p",
+                "x": "En transcripción de batería y extracción de one-shots, rinde de forma comparable o superior a un sistema AbS de vanguardia y a líneas base específicas de cada tarea, al tiempo que generaliza a más timbres. Con abundantes datos sintéticos y tokens acústicos compactos, según los autores, el modelado de lenguaje ofrece una receta sencilla para unificar la transcripción y la descomposición de eventos sonoros."
               }
             ]
           }

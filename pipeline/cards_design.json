@@ -1,801 +1,17 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "section": "design",
   "cards": [
     {
-      "id": "design-kling4",
+      "id": "design-gemini-notebook-cocreate",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Kling 4.0 전면공개\n30초 네이티브 클립",
-      "body": "Kuaishou가 30초 클립을 만드는 Kling 4.0을 모두에게 열었다.",
-      "mini_headline": "Kling 4.0 전면 공개",
-      "tool": "KeyShot",
-      "source": "Let's Data Science",
-      "url": "https://letsdatascience.com/news/kling-ai-opens-kling-40-to-all-users-d9dc6422",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
-          },
-          {
-            "t": "p",
-            "x": "PandaDaily에 따르면 Kuaishou의 Kling AI가 klingai.com에서 Kling 4.0을 정식 출시했다. 프리뷰로만 내놓던 영상 생성 모델을 이제 누구나 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "PandaDaily는 Kling 4.0이 클립 하나를 최대 30초 길이로 생성하고, 키프레임을 최대 10개까지 지원해 캐릭터 상태와 장면 전환, 서사 흐름까지 제어한다고 전했다. 작업 하나에 이미지 최대 10장, 영상 클립 다섯 개, 피사체 일곱 개를 레퍼런스로 함께 넣을 수 있고, 멀티숏을 이어 붙이면 시퀀스가 약 이 분 길이까지 늘어난다."
-          },
-          {
-            "t": "p",
-            "x": "이번 출시의 핵심은 오디오다. 듀얼 채널 스테레오와 립싱크를 중국어, 영어, 일본어, 한국어, 스페인어, 포르투갈어, 독일어, 프랑스어, 힌디어, 여러 중국 방언, 영어 억양 변형에 걸쳐 지원한다. 프롬프트 입력은 약 8,000 토큰까지 가능하다. 에이전트나 스크립트로 돌리는 제작 워크플로에 쓸 MCP와 명령줄 인터페이스 연동도 붙었다."
-          },
-          {
-            "t": "p",
-            "x": "4K 및 1080p 10-bit HDR 출력과 기업용 API는 이번 공개 출시에서 빠졌고 곧 나온다. Pexo는 Kling 4.0 Flash 변형이 9월 28일 최상위 연간 구독자를 대상으로 제한적 얼리 액세스를 시작했다고 전했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Kling 4.0 opens to everyone\nwith 30-second native clips",
-          "body": "Kuaishou opened Kling 4.0 to all users, adding up to 30-second clips, multi-reference control and lip-synced audio.",
-          "mini_headline": "Kling 4.0 opens to all",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
-              },
-              {
-                "t": "p",
-                "x": "Kuaishou's Kling AI has made Kling 4.0 generally available on klingai.com, opening a video-generation model previously offered through preview access, according to PandaDaily."
-              },
-              {
-                "t": "p",
-                "x": "PandaDaily reports that Kling 4.0 can generate a single clip up to 30 seconds long and supports as many as 10 keyframes for controlling character state, scene transitions, and narrative beats. A job can combine up to 10 images, five video clips, and seven subjects as references, and multi-shot continuation is designed to extend a sequence toward roughly two minutes."
-              },
-              {
-                "t": "p",
-                "x": "Audio arrives as a core part of the release: dual-channel stereo and lip sync across Chinese, English, Japanese, Korean, Spanish, Portuguese, German, French, Hindi, several Chinese dialects, and English accent variants. Prompt inputs can reach about 8,000 tokens. The rollout also adds MCP and command-line interface hooks for agentic or scripted production workflows."
-              },
-              {
-                "t": "p",
-                "x": "4K and 1080p 10-bit HDR output, as well as an enterprise API, are still due soon rather than part of the completed public rollout. Pexo reports that a Kling 4.0 Flash variant entered limited early access on September 28 for top-tier annual subscribers."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Kling 4.0 전면공개\n30초 네이티브 클립",
-          "body": "Kuaishou가 30초 클립을 만드는 Kling 4.0을 모두에게 열었다.",
-          "mini_headline": "Kling 4.0 전면 공개",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
-              },
-              {
-                "t": "p",
-                "x": "PandaDaily에 따르면 Kuaishou의 Kling AI가 klingai.com에서 Kling 4.0을 정식 출시했다. 프리뷰로만 내놓던 영상 생성 모델을 이제 누구나 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "PandaDaily는 Kling 4.0이 클립 하나를 최대 30초 길이로 생성하고, 키프레임을 최대 10개까지 지원해 캐릭터 상태와 장면 전환, 서사 흐름까지 제어한다고 전했다. 작업 하나에 이미지 최대 10장, 영상 클립 다섯 개, 피사체 일곱 개를 레퍼런스로 함께 넣을 수 있고, 멀티숏을 이어 붙이면 시퀀스가 약 이 분 길이까지 늘어난다."
-              },
-              {
-                "t": "p",
-                "x": "이번 출시의 핵심은 오디오다. 듀얼 채널 스테레오와 립싱크를 중국어, 영어, 일본어, 한국어, 스페인어, 포르투갈어, 독일어, 프랑스어, 힌디어, 여러 중국 방언, 영어 억양 변형에 걸쳐 지원한다. 프롬프트 입력은 약 8,000 토큰까지 가능하다. 에이전트나 스크립트로 돌리는 제작 워크플로에 쓸 MCP와 명령줄 인터페이스 연동도 붙었다."
-              },
-              {
-                "t": "p",
-                "x": "4K 및 1080p 10-bit HDR 출력과 기업용 API는 이번 공개 출시에서 빠졌고 곧 나온다. Pexo는 Kling 4.0 Flash 변형이 9월 28일 최상위 연간 구독자를 대상으로 제한적 얼리 액세스를 시작했다고 전했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Kling 4.0が一般公開\nネイティブ30秒クリップ",
-          "body": "KuaishouがKling 4.0を全面開放し、30秒クリップと音声同期に対応した。",
-          "mini_headline": "Kling 4.0が一般公開",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
-              },
-              {
-                "t": "p",
-                "x": "PandaDailyによると、KuaishouのKling AIはklingai.comでKling 4.0を一般公開した。これまでプレビューアクセスで提供してきた動画生成モデルを、誰でも使えるようにしたものだ。"
-              },
-              {
-                "t": "p",
-                "x": "PandaDailyによれば、Kling 4.0は単一のクリップで最大30秒を生成でき、キャラクターの状態やシーン転換、物語の展開を制御するキーフレームを最大10個まで扱える。ジョブごとに最大10枚の画像、五本の動画クリップ、七つの被写体を参照として組み合わせられ、マルチショットの継続生成によってシーケンスを約二分まで延ばせる設計だ。"
-              },
-              {
-                "t": "p",
-                "x": "音声はこのリリースの中核をなす。デュアルチャンネルのステレオとリップシンクは、中国語、英語、日本語、韓国語、スペイン語、ポルトガル語、ドイツ語、フランス語、ヒンディー語、複数の中国語方言、英語のアクセント違いに対応する。プロンプト入力は約8,000トークンまで可能だ。エージェント型やスクリプトによる制作ワークフロー向けに、MCPとコマンドラインインターフェースとの連携も加わった。"
-              },
-              {
-                "t": "p",
-                "x": "4K と1080p 10-bit HDRの出力、そして企業向けAPIは、今回の一般公開には含まれず、近く提供される予定だ。Pexoによると、Kling 4.0 Flashという派生版が9月28日、最上位の年間サブスクライバー向けに限定的なアーリーアクセスを開始した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Kling 4.0全面开放\n原生生成30秒片段",
-          "body": "Kuaishou向全体用户开放Kling 4.0，支持30秒片段、多参考控制与口型同步。",
-          "mini_headline": "Kling 4.0全面开放",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
-              },
-              {
-                "t": "p",
-                "x": "据PandaDaily报道，Kuaishou旗下的Kling AI已在klingai.com上正式推出Kling 4.0，此前这款视频生成模型仅通过预览渠道提供。"
-              },
-              {
-                "t": "p",
-                "x": "PandaDaily报道称，Kling 4.0单个片段最长可生成30秒，最多支持10个关键帧，用于控制角色状态、场景转换和叙事节奏。一次任务最多可组合10张图片、五段视频和七个主体作为参考，多镜头续写功能则可将一段序列延伸至约两分钟。"
-              },
-              {
-                "t": "p",
-                "x": "音频是此次发布的核心部分：双声道立体声和口型同步覆盖中文、英语、日语、韩语、西班牙语、葡萄牙语、德语、法语、印地语、多种中国方言以及英语口音变体。提示词输入最多约8,000个token。此次推出还增加了MCP和命令行界面接口，便于智能体式或脚本化的制作流程。"
-              },
-              {
-                "t": "p",
-                "x": "4K 和1080p 10-bit HDR输出以及企业版API仍属“即将推出”，并不在已完成的公开发布之列。据Pexo报道，Kling 4.0 Flash版本已于9月28日面向最高档年度订阅用户开启有限的抢先体验。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Kling 4.0 se abre a todos\ncon clips nativos de 30 segundos",
-          "body": "Kuaishou abrió Kling 4.0 a todos, con clips de hasta 30 segundos, control multirreferencia y audio sincronizado.",
-          "mini_headline": "Kling 4.0 abre a todos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
-              },
-              {
-                "t": "p",
-                "x": "Kling AI, de Kuaishou, lanzó Kling 4.0 de forma general en klingai.com, con lo que abre un modelo de generación de video que antes solo se ofrecía en acceso preliminar, según PandaDaily."
-              },
-              {
-                "t": "p",
-                "x": "PandaDaily informa que Kling 4.0 puede generar un solo clip de hasta 30 segundos y admite hasta 10 fotogramas clave para controlar el estado de los personajes, las transiciones de escena y los momentos narrativos. Una tarea puede combinar como referencia hasta 10 imágenes, cinco clips de video y siete sujetos, y la continuación multitoma está diseñada para extender una secuencia hasta unos dos minutos."
-              },
-              {
-                "t": "p",
-                "x": "El audio es una parte central del lanzamiento: estéreo de doble canal y sincronización labial en chino, inglés, japonés, coreano, español, portugués, alemán, francés, hindi, varios dialectos chinos y variantes de acento inglés. Las indicaciones pueden alcanzar unos 8,000 tokens. El despliegue también añade conexiones MCP y de interfaz de línea de comandos para flujos de producción agénticos o automatizados con scripts."
-              },
-              {
-                "t": "p",
-                "x": "La salida en 4K y en 1080p 10-bit HDR, así como una API empresarial, todavía están por llegar y no forman parte del despliegue público completado. Pexo informa que una variante Kling 4.0 Flash entró en acceso anticipado limitado el 28 de septiembre para los suscriptores anuales del nivel más alto."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Kling 4.0 전면공개\n30초 네이티브 클립",
-          "body": "Kuaishou가 30초 클립을 지원하는 Kling 4.0을 모두에게 열었다.",
-          "mini_headline": "Kling 4.0 전면 공개",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
-              },
-              {
-                "t": "p",
-                "x": "PandaDaily에 따르면 Kuaishou의 Kling AI가 klingai.com에서 Kling 4.0을 정식 출시했다. 그동안 프리뷰 형태로만 제공하던 영상 생성 모델을 누구나 쓸 수 있게 열었다."
-              },
-              {
-                "t": "p",
-                "x": "PandaDaily는 Kling 4.0이 클립 하나를 최대 30초 길이로 생성하고, 키프레임을 최대 10개까지 지원해 캐릭터 상태와 장면 전환, 서사 흐름을 제어할 수 있다고 전했다. 작업 하나에 이미지 최대 10장, 영상 클립 다섯 개, 피사체 일곱 개를 레퍼런스로 함께 쓸 수 있고, 멀티숏 이어 붙이기로 시퀀스를 약 이 분 길이까지 늘리도록 설계했다."
-              },
-              {
-                "t": "p",
-                "x": "오디오는 이번 출시의 핵심이다. 듀얼 채널 스테레오와 립싱크를 중국어, 영어, 일본어, 한국어, 스페인어, 포르투갈어, 독일어, 프랑스어, 힌디어, 여러 중국 방언, 영어 억양 변형에 걸쳐 지원한다. 프롬프트 입력은 약 8,000 토큰까지 가능하다. 에이전트 방식이나 스크립트 기반 제작 워크플로를 위한 MCP와 명령줄 인터페이스 연동도 추가했다."
-              },
-              {
-                "t": "p",
-                "x": "4K 및 1080p 10-bit HDR 출력과 기업용 API는 이번 공개 출시에 들어가지 않았고 곧 나올 예정이다. Pexo는 Kling 4.0 Flash 변형이 9월 28일 최상위 연간 구독자를 대상으로 제한적 얼리 액세스를 시작했다고 전했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Kling 4.0が一般公開\nネイティブ30秒クリップ",
-          "body": "KuaishouがKling 4.0を全面開放し、30秒クリップと音声同期に対応した。",
-          "mini_headline": "Kling 4.0が一般公開",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
-              },
-              {
-                "t": "p",
-                "x": "PandaDailyによると、KuaishouのKling AIはklingai.comでKling 4.0を一般公開した。これまでプレビューアクセスで提供してきた動画生成モデルを、誰でも使えるようにしたものだ。"
-              },
-              {
-                "t": "p",
-                "x": "PandaDailyによれば、Kling 4.0は単一のクリップで最大30秒を生成でき、キャラクターの状態やシーン転換、物語の展開を制御するキーフレームを最大10個まで扱える。ジョブごとに最大10枚の画像、五本の動画クリップ、七つの被写体を参照として組み合わせられ、マルチショットの継続生成によってシーケンスを約二分まで延ばせる設計だ。"
-              },
-              {
-                "t": "p",
-                "x": "音声はこのリリースの中核をなす。デュアルチャンネルのステレオとリップシンクは、中国語、英語、日本語、韓国語、スペイン語、ポルトガル語、ドイツ語、フランス語、ヒンディー語、複数の中国語方言、英語のアクセント違いに対応する。プロンプト入力は約8,000トークンまで可能だ。エージェント型やスクリプトによる制作ワークフロー向けに、MCPとコマンドラインインターフェースとの連携も加わった。"
-              },
-              {
-                "t": "p",
-                "x": "4K と1080p 10-bit HDRの出力、そして企業向けAPIは、今回の一般公開には含まれず、近く提供される予定だ。Pexoによると、Kling 4.0 Flashという派生版が9月28日、最上位の年間サブスクライバー向けに限定的なアーリーアクセスを開始した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Kling 4.0全面开放\n原生生成30秒片段",
-          "body": "Kuaishou向全体用户开放Kling 4.0，支持30秒片段、多参考控制与口型同步。",
-          "mini_headline": "Kling 4.0全面开放",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
-              },
-              {
-                "t": "p",
-                "x": "据PandaDaily报道，Kuaishou旗下的Kling AI已在klingai.com上正式推出Kling 4.0，此前这款视频生成模型仅通过预览渠道提供。"
-              },
-              {
-                "t": "p",
-                "x": "PandaDaily报道称，Kling 4.0单个片段最长可生成30秒，最多支持10个关键帧，用于控制角色状态、场景转换和叙事节奏。一次任务最多可组合10张图片、五段视频和七个主体作为参考，多镜头续写功能则可将一段序列延伸至约两分钟。"
-              },
-              {
-                "t": "p",
-                "x": "音频是此次发布的核心部分：双声道立体声和口型同步覆盖中文、英语、日语、韩语、西班牙语、葡萄牙语、德语、法语、印地语、多种中国方言以及英语口音变体。提示词输入最多约8,000个token。此次推出还增加了MCP和命令行界面接口，便于智能体式或脚本化的制作流程。"
-              },
-              {
-                "t": "p",
-                "x": "4K 和1080p 10-bit HDR输出以及企业版API仍属“即将推出”，并不在已完成的公开发布之列。据Pexo报道，Kling 4.0 Flash版本已于9月28日面向最高档年度订阅用户开启有限的抢先体验。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Kling 4.0 se abre a todos\ncon clips nativos de 30 segundos",
-          "body": "Kuaishou abrió Kling 4.0 a todos, con clips de hasta 30 segundos, control multirreferencia y audio sincronizado.",
-          "mini_headline": "Kling 4.0 abre a todos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cms-image.pandaily.com/1/kling_fed3acb0c4.png"
-              },
-              {
-                "t": "p",
-                "x": "Kling AI, de Kuaishou, lanzó Kling 4.0 de forma general en klingai.com, con lo que abre un modelo de generación de video que antes solo se ofrecía en acceso preliminar, según PandaDaily."
-              },
-              {
-                "t": "p",
-                "x": "PandaDaily informa que Kling 4.0 puede generar un solo clip de hasta 30 segundos y admite hasta 10 fotogramas clave para controlar el estado de los personajes, las transiciones de escena y los momentos narrativos. Una tarea puede combinar como referencia hasta 10 imágenes, cinco clips de video y siete sujetos, y la continuación multitoma está diseñada para extender una secuencia hasta unos dos minutos."
-              },
-              {
-                "t": "p",
-                "x": "El audio es una parte central del lanzamiento: estéreo de doble canal y sincronización labial en chino, inglés, japonés, coreano, español, portugués, alemán, francés, hindi, varios dialectos chinos y variantes de acento inglés. Las indicaciones pueden alcanzar unos 8,000 tokens. El despliegue también añade conexiones MCP y de interfaz de línea de comandos para flujos de producción agénticos o automatizados con scripts."
-              },
-              {
-                "t": "p",
-                "x": "La salida en 4K y en 1080p 10-bit HDR, así como una API empresarial, todavía están por llegar y no forman parte del despliegue público completado. Pexo informa que una variante Kling 4.0 Flash entró en acceso anticipado limitado el 28 de septiembre para los suscriptores anuales del nivel más alto."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-meshy-edit",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Meshy Edit로\n3D 모델 일부만 수정",
-      "body": "Meshy Edit는 3D 모델 일부를 골라 텍스트로 고치고 슬라이서로 보낸다.",
-      "mini_headline": "Meshy Edit, 3D 부분 수정",
-      "tool": "Text-to-CAD",
-      "source": "VoxelMatters",
-      "url": "https://www.voxelmatters.com/meshy-edit-for-part-level-changes-to-ai-generated-3d-models-launched/",
-      "accent": "#7928ca",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
-          },
-          {
-            "t": "p",
-            "x": "AI 3D 멀티모달 모델 기업 Meshy가 Meshy Edit를 출시했다. 3D 모델에서 고른 부분만 텍스트 설명대로 바꾸고 나머지 형상은 그대로 두는 도구다. 가입자라면 누구나 쓸 수 있고, 자체 개발한 새 모델로 돌아간다. 편집 한 번에 약 일 분이 걸리고 20크레딧이 든다."
-          },
-          {
-            "t": "p",
-            "x": "그동안은 모델 전체를 다시 생성하거나 Blender 같은 소프트웨어에서 메시를 손으로 고쳐야 했고, 수정 하나에 몇 시간이 걸리기도 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
-          },
-          {
-            "t": "p",
-            "x": "수정은 두 단계다. 고르고, 설명한다. Lasso는 화면에서 부위를 둘러 앞면과 옆면, 뒷면까지 아우르고, Brush는 경계를 다듬는다. 참고 이미지는 장당 최대 20 MB, 최대 다섯 장까지 넣는다. 편집할 때마다 새 모델이 생기고 원본은 그대로 남는다. 지금은 형상만 바뀐다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
-          },
-          {
-            "t": "p",
-            "x": "새 모델은 다시 편집하거나 내려받거나 Bambu Studio 같은 슬라이서로 보낼 수 있다. Meshy Edit는 Meshy 6와 Meshy 7.1의 하이폴리 모델에서 쓸 수 있고, Meshy 7.1 Ultra 2K 모델도 포함된다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Meshy는 최근 Series B 라운드에서 약 $400 million을 유치했고, 기업가치는 $1.5 billion으로 평가받았다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Meshy Edit changes one part\nof a generated 3D model",
-          "body": "Meshy Edit lets users lasso a region of a 3D model, describe a change in text and send the result to a slicer.",
-          "mini_headline": "Meshy Edit for 3D parts",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meshy, an AI 3D multimodal model company, has launched Meshy Edit, a tool that changes a selected part of a 3D model from a text description while leaving the rest of the geometry untouched. It is available to all registered users and runs on a new model built in-house, with each edit taking about one minute and costing 20 credits."
-              },
-              {
-                "t": "p",
-                "x": "Users previously had to regenerate a whole model, or edit the mesh by hand in software such as Blender, where a single change could take hours."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Each change has two steps: select, then describe. The Lasso circles a part on screen, covering the front, sides and back; the Brush refines the edge. Users can add up to five reference images of up to 20 MB each. Each edit produces a new model and keeps the original; the tool currently changes geometry only."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
-              },
-              {
-                "t": "p",
-                "x": "The new model can be edited again, downloaded or sent to a slicer such as Bambu Studio. Meshy Edit works on high-poly models from Meshy 6 and Meshy 7.1, including Meshy 7.1 Ultra 2K."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meshy recently raised nearly $400 million in a Series B round at a $1.5 billion valuation."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Meshy Edit로\n3D 모델 일부만 수정",
-          "body": "Meshy Edit는 3D 모델 일부를 골라 텍스트로 고치고 슬라이서로 보낸다.",
-          "mini_headline": "Meshy Edit, 3D 부분 수정",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "AI 3D 멀티모달 모델 기업 Meshy가 Meshy Edit를 출시했다. 3D 모델에서 고른 부분만 텍스트 설명대로 바꾸고 나머지 형상은 그대로 두는 도구다. 가입자라면 누구나 쓸 수 있고, 자체 개발한 새 모델로 돌아간다. 편집 한 번에 약 일 분이 걸리고 20크레딧이 든다."
-              },
-              {
-                "t": "p",
-                "x": "그동안은 모델 전체를 다시 생성하거나 Blender 같은 소프트웨어에서 메시를 손으로 고쳐야 했고, 수정 하나에 몇 시간이 걸리기도 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
-              },
-              {
-                "t": "p",
-                "x": "수정은 두 단계다. 고르고, 설명한다. Lasso는 화면에서 부위를 둘러 앞면과 옆면, 뒷면까지 아우르고, Brush는 경계를 다듬는다. 참고 이미지는 장당 최대 20 MB, 최대 다섯 장까지 넣는다. 편집할 때마다 새 모델이 생기고 원본은 그대로 남는다. 지금은 형상만 바뀐다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
-              },
-              {
-                "t": "p",
-                "x": "새 모델은 다시 편집하거나 내려받거나 Bambu Studio 같은 슬라이서로 보낼 수 있다. Meshy Edit는 Meshy 6와 Meshy 7.1의 하이폴리 모델에서 쓸 수 있고, Meshy 7.1 Ultra 2K 모델도 포함된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meshy는 최근 Series B 라운드에서 약 $400 million을 유치했고, 기업가치는 $1.5 billion으로 평가받았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Meshy Editで\n3Dモデルの一部を修正",
-          "body": "Meshy Editでは3Dモデルの一部を選び、テキストで直してスライサーへ送れる。",
-          "mini_headline": "Meshy Editで3D部分編集",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "AI 3Dマルチモーダルモデル企業のMeshyは、3Dモデルの選択部分だけをテキストの指示で変更し、残りの形状には手を加えないツール「Meshy Edit」を公開した。登録ユーザー全員が利用でき、自社開発の新モデルで動作する。編集ごとに約一分かかり、20クレジットを消費する。"
-              },
-              {
-                "t": "p",
-                "x": "これまではモデル全体を作り直すか、Blenderなどのソフトでメッシュを手作業で編集する必要があり、変更ひとつに何時間もかかることもあった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
-              },
-              {
-                "t": "p",
-                "x": "変更は「選ぶ」「説明する」の二段階で行う。Lassoで画面上の部位を囲むと前面・側面・背面までカバーでき、Brushで境界を整える。参照画像は一枚20 MBまでのものを最大五枚追加できる。編集のたびに新しいモデルが生成され、元のモデルは残る。現時点で変更できるのは形状のみだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
-              },
-              {
-                "t": "p",
-                "x": "新しいモデルは再編集、ダウンロード、あるいはBambu Studioなどのスライサーへの送信ができる。Meshy EditはMeshy 6とMeshy 7.1のハイポリモデルに対応し、Meshy 7.1 Ultra 2K モデルも対象となる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meshyは最近、Series Bラウンドで評価額$1.5 billionのもと、約$400 millionを調達した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meshy Edit\n只改生成3D模型的局部",
-          "body": "Meshy Edit可圈选3D模型局部，用文字描述修改后发送至切片软件。",
-          "mini_headline": "Meshy Edit改3D局部",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "AI 3D多模态模型公司Meshy推出Meshy Edit，这款工具可根据文字描述修改3D模型中选定的部分，其余几何结构保持不变。所有注册用户均可使用，它运行在自研的新模型上，每次编辑约需一分钟，消耗20积分。"
-              },
-              {
-                "t": "p",
-                "x": "此前，用户只能重新生成整个模型，或在Blender等软件中手动编辑网格，一处改动可能就要耗费数小时。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
-              },
-              {
-                "t": "p",
-                "x": "每次修改分为两步：先选择，再描述。Lasso可在屏幕上圈出某个部位，覆盖正面、侧面和背面；Brush则用于细化边缘。用户最多可添加五张参考图，每张不超过20 MB。每次编辑都会生成新模型并保留原模型；该工具目前只能修改几何形状。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
-              },
-              {
-                "t": "p",
-                "x": "新模型可以再次编辑、下载，或发送到Bambu Studio等切片软件。Meshy Edit适用于Meshy 6和Meshy 7.1生成的高面数模型，包括Meshy 7.1 Ultra 2K 模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meshy近期在Series B轮融资中筹集近$400 million，估值达$1.5 billion。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Meshy Edit cambia una parte\nde un modelo 3D generado",
-          "body": "Meshy Edit permite rodear una zona de un modelo 3D, describir el cambio en texto y enviarlo a un laminador.",
-          "mini_headline": "Meshy Edit para partes 3D",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meshy, empresa de modelos multimodales de AI 3D, lanzó Meshy Edit, una herramienta que modifica una parte seleccionada de un modelo 3D a partir de una descripción en texto sin tocar el resto de la geometría. Está disponible para todos los usuarios registrados y funciona con un nuevo modelo desarrollado internamente; cada edición tarda alrededor de un minuto y cuesta 20 créditos."
-              },
-              {
-                "t": "p",
-                "x": "Antes, los usuarios tenían que regenerar todo el modelo o editar la malla a mano en programas como Blender, donde un solo cambio podía llevar horas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Cada cambio tiene dos pasos: seleccionar y luego describir. Lasso rodea una parte en pantalla y abarca el frente, los lados y la parte trasera; Brush afina el borde. Se pueden añadir hasta cinco imágenes de referencia de hasta 20 MB cada una. Cada edición produce un nuevo modelo y conserva el original; por ahora la herramienta solo modifica la geometría."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El nuevo modelo puede editarse otra vez, descargarse o enviarse a un laminador como Bambu Studio. Meshy Edit funciona con modelos de alta poligonización de Meshy 6 y Meshy 7.1, incluido Meshy 7.1 Ultra 2K."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meshy recaudó hace poco casi $400 millones en una ronda Series B con una valoración de $1.5 mil millones."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Meshy Edit로\n3D 모델 일부만 수정",
-          "body": "Meshy Edit는 3D 모델 일부를 골라 텍스트로 고치고 슬라이서로 보낸다.",
-          "mini_headline": "Meshy Edit, 3D 부분 수정",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "AI 3D 멀티모달 모델 기업 Meshy가 Meshy Edit를 출시했다. 3D 모델에서 고른 부분만 텍스트 설명대로 바꾸고 나머지 형상은 그대로 두는 도구다. 가입한 모든 사용자가 쓸 수 있고, 자체 개발한 새 모델로 작동한다. 편집 한 번에 약 일 분이 걸리고 20크레딧이 든다."
-              },
-              {
-                "t": "p",
-                "x": "지금까지는 모델 전체를 다시 생성하거나 Blender 같은 소프트웨어에서 메시를 손으로 고쳐야 했고, 수정 하나에 몇 시간이 걸리기도 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
-              },
-              {
-                "t": "p",
-                "x": "수정은 두 단계로 이뤄진다. 먼저 고르고, 다음에 설명한다. Lasso는 화면에서 부위를 둘러 앞면과 옆면, 뒷면까지 아우르고, Brush는 경계를 다듬는다. 참고 이미지는 장당 최대 20 MB까지, 최대 다섯 장을 넣을 수 있다. 편집할 때마다 새 모델이 생기고 원본은 그대로 남는다. 현재는 형상만 바꿀 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
-              },
-              {
-                "t": "p",
-                "x": "새 모델은 다시 편집하거나 내려받거나 Bambu Studio 같은 슬라이서로 보낼 수 있다. Meshy Edit는 Meshy 6와 Meshy 7.1의 하이폴리 모델에서 작동하며, 대상에는 Meshy 7.1 Ultra 2K 모델도 들어간다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meshy는 최근 Series B 라운드에서 기업가치 $1.5 billion을 인정받으며 약 $400 million을 유치했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Meshy Editで\n3Dモデルの一部を修正",
-          "body": "Meshy Editでは3Dモデルの一部を選び、テキストで直してスライサーへ送れる。",
-          "mini_headline": "Meshy Editで3D部分編集",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "AI 3Dマルチモーダルモデル企業のMeshyは、3Dモデルの選択部分だけをテキストの指示で変更し、残りの形状には手を加えないツール「Meshy Edit」を公開した。登録ユーザー全員が利用でき、自社開発の新モデルで動作する。編集ごとに約一分かかり、20クレジットを消費する。"
-              },
-              {
-                "t": "p",
-                "x": "これまではモデル全体を作り直すか、Blenderなどのソフトでメッシュを手作業で編集する必要があり、変更ひとつに何時間もかかることもあった。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
-              },
-              {
-                "t": "p",
-                "x": "変更は「選ぶ」「説明する」の二段階で行う。Lassoで画面上の部位を囲むと前面・側面・背面までカバーでき、Brushで境界を整える。参照画像は一枚20 MBまでのものを最大五枚追加できる。編集のたびに新しいモデルが生成され、元のモデルは残る。現時点で変更できるのは形状のみだ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
-              },
-              {
-                "t": "p",
-                "x": "新しいモデルは再編集、ダウンロード、あるいはBambu Studioなどのスライサーへの送信ができる。Meshy EditはMeshy 6とMeshy 7.1のハイポリモデルに対応し、Meshy 7.1 Ultra 2K モデルも対象となる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meshyは最近、Series Bラウンドで評価額$1.5 billionのもと、約$400 millionを調達した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Meshy Edit\n只改生成3D模型的局部",
-          "body": "Meshy Edit可圈选3D模型局部，用文字描述修改后发送至切片软件。",
-          "mini_headline": "Meshy Edit改3D局部",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "AI 3D多模态模型公司Meshy推出Meshy Edit，这款工具可根据文字描述修改3D模型中选定的部分，其余几何结构保持不变。所有注册用户均可使用，它运行在自研的新模型上，每次编辑约需一分钟，消耗20积分。"
-              },
-              {
-                "t": "p",
-                "x": "此前，用户只能重新生成整个模型，或在Blender等软件中手动编辑网格，一处改动可能就要耗费数小时。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
-              },
-              {
-                "t": "p",
-                "x": "每次修改分为两步：先选择，再描述。Lasso可在屏幕上圈出某个部位，覆盖正面、侧面和背面；Brush则用于细化边缘。用户最多可添加五张参考图，每张不超过20 MB。每次编辑都会生成新模型并保留原模型；该工具目前只能修改几何形状。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
-              },
-              {
-                "t": "p",
-                "x": "新模型可以再次编辑、下载，或发送到Bambu Studio等切片软件。Meshy Edit适用于Meshy 6和Meshy 7.1生成的高面数模型，包括Meshy 7.1 Ultra 2K 模型。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meshy近期在Series B轮融资中筹集近$400 million，估值达$1.5 billion。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Meshy Edit cambia una parte\nde un modelo 3D generado",
-          "body": "Meshy Edit permite rodear una zona de un modelo 3D, describir el cambio en texto y enviarlo a un laminador.",
-          "mini_headline": "Meshy Edit para partes 3D",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-01.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meshy, empresa de modelos multimodales de AI 3D, lanzó Meshy Edit, una herramienta que modifica una parte seleccionada de un modelo 3D a partir de una descripción en texto sin tocar el resto de la geometría. Está disponible para todos los usuarios registrados y funciona con un nuevo modelo desarrollado internamente; cada edición tarda alrededor de un minuto y cuesta 20 créditos."
-              },
-              {
-                "t": "p",
-                "x": "Antes, los usuarios tenían que regenerar todo el modelo o editar la malla a mano en programas como Blender, donde un solo cambio podía llevar horas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-02.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Cada cambio tiene dos pasos: seleccionar y luego describir. Lasso rodea una parte en pantalla y abarca el frente, los lados y la parte trasera; Brush afina el borde. Se pueden añadir hasta cinco imágenes de referencia de hasta 20 MB cada una. Cada edición produce un nuevo modelo y conserva el original; por ahora la herramienta solo modifica la geometría."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-03.jpg"
-              },
-              {
-                "t": "p",
-                "x": "El nuevo modelo puede editarse otra vez, descargarse o enviarse a un laminador como Bambu Studio. Meshy Edit funciona con modelos de alta poligonización de Meshy 6 y Meshy 7.1, incluido Meshy 7.1 Ultra 2K."
-              },
-              {
-                "t": "img",
-                "src": "https://www.voxelmatters.com/wp-content/uploads/2026/10/Meshy-edit-04.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Meshy recaudó hace poco casi $400 millones en una ronda Series B con una valoración de $1.5 mil millones."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-brand-foundation",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI로 짓는 브랜드 기반\n장인 정신은 그대로",
-      "body": "Claude와 가드레일로 브랜드 기반과 디자인 시스템을 짓는 법을 다룬다.",
-      "mini_headline": "AI로 짓는 브랜드 기반",
+      "headline": "Gemini 슬라이드·영상\n이제 직접 조율한다",
+      "body": "Gemini Notebook에선 이제 슬라이드와 영상 개요를 직접 조율한다.",
+      "mini_headline": "Gemini Notebook, 조율 가능한 덱",
       "tool": "AI Workflow",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/how-to-build-a-brand-foundation-with-ai-without-losing-your-craft-d616b05cb838",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -803,149 +19,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+            "cap": "새 리뷰 슬라이드 덱 기능을 담은 일러스트"
           },
           {
             "t": "p",
-            "x": "Claude와 가드레일 몇 가지로 디자인 시스템을 만드는 법을 소개한다. 개발자가 인정하고 클라이언트가 실제로 출시할 수 있는 시스템이다."
+            "x": "Gemini Notebook이 사용자 피드백을 반영해, 인기 있는 두 결과물 Slide Decks와 Video Overviews의 창작 통제권을 처음부터 끝까지 넓혔다. 첫 프롬프트에서 바로 최종본으로 건너뛰지 않고, 사용자 자료를 토대로 제작 과정을 한 단계씩 짚어 준다."
           },
           {
             "t": "p",
-            "x": "목요일 오후 5시다. 클라이언트 미팅은 내일 아침이다. 오후 내내 Claude에서 프롬프트를 거듭하며 대시보드를 다듬었는데, 오후 2시에는 근사해 보이던 화면이 이제는 남의 집처럼 낯설다. 결국 Figma를 열어 화면을 손으로 다시 만들고는 “조금 다듬었을 뿐”이라고 스스로를 달랜다. AI는 연습장이었을 뿐이다."
+            "x": "채팅에서 슬라이드나 영상 개요를 요청하면 Notebook이 담을 주제부터 제안한다. 확인이 끝나면 내용을 더 다듬고 시각 스타일과 형식까지 손볼 수 있다."
+          },
+          {
+            "t": "video",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
           },
           {
             "t": "p",
-            "x": "필자가 보기에 이건 실력이 아니라 뼈대의 문제다. 탐색 단계에서 바이브 코딩(Vibe coding)이 주는 자유로움은 분명하다. AI-supported(AI 지원) 아이디에이션 연구에서도 AIGC가 확산적 사고 과정의 체감 정신 부담을 줄인다는 결과가 나왔다. 다만 같은 연구는 아이디어 발상과 개발을 구분한다."
+            "x": "새로 생긴 Review 토글은 여기서 한 걸음 더 간다. 스튜디오 패널에서 슬라이드는 “Review outline notes”, 영상은 “Review producer notes”로 계획을 먼저 확인한 뒤 렌더링 전에 경영진 요약을 넣거나 장면 순서를 바꾸라는 피드백을 남긴다. “Proceed”를 누르면 최종 결과물이 나온다."
+          },
+          {
+            "t": "p",
+            "x": "원하는 게 분명하다면 프롬프트에 그대로 적으면 된다. 그러면 Notebook이 곧장 검토 단계로 넘어간다. 결과물이 빨리 필요할 땐 Review 토글을 건너뛰고 평소대로 생성하면 그만이다. 공동 제작 기능은 앞으로 일주일에 걸쳐 전 세계 모든 Gemini Notebook 사용자에게 배포된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Building a brand foundation\nwith AI, craft intact",
-          "body": "A walkthrough uses Claude and a few guardrails to build a brand foundation and design system clients can ship.",
-          "mini_headline": "AI brand foundations",
+          "headline": "Gemini Notebook lets you\nsteer its slides and videos",
+          "body": "Gemini Notebook now lets users steer generated Slide Decks and Video Overviews rather than accept a one-shot result.",
+          "mini_headline": "Steerable decks in Gemini Notebook",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+                "cap": "Illustration showing new review slide deck capabilities"
               },
               {
                 "t": "p",
-                "x": "Here is how to use Claude and a handful of guardrails to build a design system that developers respect and clients can actually ship."
+                "x": "Based on user feedback, Gemini Notebook now offers more creative control from start to finish on two popular outputs: Slide Decks and Video Overviews. Instead of jumping from an initial prompt straight to a final output, it can walk you through the creation flow based directly on your sources."
               },
               {
                 "t": "p",
-                "x": "It is 5pm on a Thursday. The client call is in the morning. You have spent the afternoon in Claude, prompting your way through a dashboard that looked extraordinary at 2pm and now looks like a stranger's house. So you open Figma, rebuild the screen by hand, and tell yourself you were “just tightening things up”. The AI was a sketchpad."
+                "x": "Ask in the chat for slides or a video overview and Notebook suggests topics to include. Once you confirm, you can steer the content further and guide visual style and format."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
               },
               {
                 "t": "p",
-                "x": "The author argues this is not a failure of skill but a failure of scaffolding. Vibe coding is genuinely liberating in the exploratory phase, and research on AI-supported ideation finds AIGC reduces perceived mental demand during divergent thinking — but the same research distinguishes between ideation and development."
+                "x": "A new Review toggle goes further: review the plan in the studio panel via “Review outline notes” for slides or “Review producer notes” for video, and give feedback — such as adding an executive summary or swapping the order of a scene — before anything renders. Select “Proceed” to produce the final artifact."
+              },
+              {
+                "t": "p",
+                "x": "If you already know what you want, say so in your prompt and Notebook goes straight to review. For a quick output, skip the Review toggle and generate as usual. The co-creation features are rolling out globally to all Gemini Notebook users over the coming week."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI로 짓는 브랜드 기반\n장인 정신은 그대로",
-          "body": "Claude와 가드레일로 브랜드 기반과 디자인 시스템을 짓는 법을 다룬다.",
-          "mini_headline": "AI로 짓는 브랜드 기반",
+          "headline": "Gemini 슬라이드·영상\n이제 직접 조율한다",
+          "body": "Gemini Notebook에선 이제 슬라이드와 영상 개요를 직접 조율한다.",
+          "mini_headline": "Gemini Notebook, 조율 가능한 덱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+                "cap": "새 리뷰 슬라이드 덱 기능을 담은 일러스트"
               },
               {
                 "t": "p",
-                "x": "Claude와 가드레일 몇 가지로 디자인 시스템을 만드는 법을 소개한다. 개발자가 인정하고 클라이언트가 실제로 출시할 수 있는 시스템이다."
+                "x": "Gemini Notebook이 사용자 피드백을 반영해, 인기 있는 두 결과물 Slide Decks와 Video Overviews의 창작 통제권을 처음부터 끝까지 넓혔다. 첫 프롬프트에서 바로 최종본으로 건너뛰지 않고, 사용자 자료를 토대로 제작 과정을 한 단계씩 짚어 준다."
               },
               {
                 "t": "p",
-                "x": "목요일 오후 5시다. 클라이언트 미팅은 내일 아침이다. 오후 내내 Claude에서 프롬프트를 거듭하며 대시보드를 다듬었는데, 오후 2시에는 근사해 보이던 화면이 이제는 남의 집처럼 낯설다. 결국 Figma를 열어 화면을 손으로 다시 만들고는 “조금 다듬었을 뿐”이라고 스스로를 달랜다. AI는 연습장이었을 뿐이다."
+                "x": "채팅에서 슬라이드나 영상 개요를 요청하면 Notebook이 담을 주제부터 제안한다. 확인이 끝나면 내용을 더 다듬고 시각 스타일과 형식까지 손볼 수 있다."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
               },
               {
                 "t": "p",
-                "x": "필자가 보기에 이건 실력이 아니라 뼈대의 문제다. 탐색 단계에서 바이브 코딩(Vibe coding)이 주는 자유로움은 분명하다. AI-supported(AI 지원) 아이디에이션 연구에서도 AIGC가 확산적 사고 과정의 체감 정신 부담을 줄인다는 결과가 나왔다. 다만 같은 연구는 아이디어 발상과 개발을 구분한다."
+                "x": "새로 생긴 Review 토글은 여기서 한 걸음 더 간다. 스튜디오 패널에서 슬라이드는 “Review outline notes”, 영상은 “Review producer notes”로 계획을 먼저 확인한 뒤 렌더링 전에 경영진 요약을 넣거나 장면 순서를 바꾸라는 피드백을 남긴다. “Proceed”를 누르면 최종 결과물이 나온다."
+              },
+              {
+                "t": "p",
+                "x": "원하는 게 분명하다면 프롬프트에 그대로 적으면 된다. 그러면 Notebook이 곧장 검토 단계로 넘어간다. 결과물이 빨리 필요할 땐 Review 토글을 건너뛰고 평소대로 생성하면 그만이다. 공동 제작 기능은 앞으로 일주일에 걸쳐 전 세계 모든 Gemini Notebook 사용자에게 배포된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで築くブランド基盤\n職人技はそのままに",
-          "body": "Claudeと少数のガードレールで、ブランド基盤とデザインシステムを築く手順を示す。",
-          "mini_headline": "AIで築くブランド基盤",
+          "headline": "Geminiのスライドと動画\n途中で調整可能に",
+          "body": "Gemini Notebookで、スライドと動画概要を途中で調整できるようになった。",
+          "mini_headline": "Gemini Notebookで調整できる資料",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+                "cap": "新しいレビュー機能を備えたスライド資料のイラスト"
               },
               {
                 "t": "p",
-                "x": "Claudeといくつかのガードレールを使い、開発者が一目置き、クライアントが実際にリリースできるデザインシステムを構築する方法を紹介する。"
+                "x": "Gemini Notebookはユーザーの声を受け、人気の高い二つの出力形式であるSlide DecksとVideo Overviewsについて、最初から最後までより細かく創作をコントロールできるようにした。最初のプロンプトから一気に最終出力へ進むのではなく、ソースに基づいて制作の流れを順に案内する。"
               },
               {
                 "t": "p",
-                "x": "木曜日の午後5時。クライアントとの打ち合わせは翌朝だ。午後をずっとClaudeの中で過ごし、プロンプトを重ねてダッシュボードを作ってきたが、午後2時には見事に見えたその画面が、今では他人の家のように見える。そこでFigmaを開き、画面を手作業で作り直して、「少し詰めただけ」と自分に言い聞かせる。AIはスケッチパッドにすぎなかった。"
+                "x": "チャットでスライドや動画概要を依頼すると、Notebookが盛り込むトピックを提案する。確認すれば、内容をさらに調整し、ビジュアルのスタイルや形式も指示できる。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
               },
               {
                 "t": "p",
-                "x": "筆者は、これはスキルの失敗ではなく足場の失敗だと論じる。Vibe coding(バイブコーディング)は探索段階では確かに解放感をもたらし、AI-supported(AI支援)のアイデア創出に関する研究でも、AIGCが発散的思考における主観的な精神的負荷を下げることが示されている。ただし同じ研究は、アイデア創出と開発を区別している。"
+                "x": "新しいReviewトグルはさらに踏み込む。スタジオパネルで、スライドなら「Review outline notes」、動画なら「Review producer notes」から計画を確認し、レンダリング前にエグゼクティブサマリーの追加やシーンの順番の入れ替えといったフィードバックを伝えられる。「Proceed」を選ぶと最終成果物が生成される。"
+              },
+              {
+                "t": "p",
+                "x": "作りたいものが決まっているならプロンプトでそう伝えれば、Notebookはすぐにレビューへ進む。手早く出力したい場合はReviewトグルを使わず、通常どおり生成すればよい。この共同制作機能は今後一週間で、世界中のすべてのGemini Notebookユーザーに順次提供される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用AI打造品牌基础\n匠心不减",
-          "body": "一篇实操指南借助Claude和几条护栏，搭建客户能直接上线的品牌基础与设计系统。",
-          "mini_headline": "AI打造品牌基础",
+          "headline": "Gemini幻灯片与视频\n生成过程可由你掌控",
+          "body": "Gemini Notebook现在让用户引导生成的幻灯片和视频概览，而非接受一次性结果。",
+          "mini_headline": "Gemini Notebook可引导的幻灯片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+                "cap": "展示全新审阅幻灯片功能的插图"
               },
               {
                 "t": "p",
-                "x": "本文介绍如何借助Claude和几条护栏，搭建一套开发者认可、客户真正能上线的设计系统。"
+                "x": "根据用户反馈，Gemini Notebook如今在两种热门输出形式Slide Decks和Video Overviews上，从头到尾提供更多创作控制。它不再从最初的提示直接跳到最终成品，而是直接依据你的资料，带你一步步完成创作流程。"
               },
               {
                 "t": "p",
-                "x": "周四下午5点。客户会议在明天上午。你一下午都泡在Claude里，靠提示词一步步做出一个仪表盘：下午2点时它看起来惊艳无比，现在却像陌生人的房子。于是你打开Figma，手动重做这个界面，并告诉自己只是在“稍微收紧一下细节”。AI只是一块草稿板。"
+                "x": "在聊天中请求幻灯片或视频概览，Notebook会建议应包含的主题。确认后，你可以进一步引导内容，并指定视觉风格和格式。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
               },
               {
                 "t": "p",
-                "x": "作者认为，这不是能力的失败，而是脚手架的失败。Vibe coding（氛围编程）在探索阶段确实令人解放，关于AI-supported（AI辅助）构思的研究也发现，AIGC能降低发散思维过程中的主观心理负荷——但同一项研究也区分了构思与开发。"
+                "x": "新的Review开关更进一步：在工作室面板中，通过幻灯片的“Review outline notes”或视频的“Review producer notes”审阅方案，并在渲染前给出反馈，例如添加执行摘要或调换某个场景的顺序。选择“Proceed”即可生成最终成品。"
+              },
+              {
+                "t": "p",
+                "x": "如果你已经清楚自己想要什么，在提示中说明即可，Notebook会直接进入审阅环节。若只需快速产出，可跳过Review开关，照常生成。这些协同创作功能将在未来一周内面向全球所有Gemini Notebook用户陆续推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una base de marca con AI,\nsin perder el oficio",
-          "body": "Una guía usa Claude y algunas salvaguardas para crear una base de marca y un sistema de diseño listos para lanzar.",
-          "mini_headline": "Bases de marca con AI",
+          "headline": "Gemini Notebook te deja guiar\nsus diapositivas y videos",
+          "body": "Gemini Notebook ya permite guiar los Slide Decks y Video Overviews generados en vez de aceptar un resultado único.",
+          "mini_headline": "Presentaciones guiables en Gemini Notebook",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+                "cap": "Ilustración que muestra las nuevas funciones de revisión de presentaciones"
               },
               {
                 "t": "p",
-                "x": "Así se usan Claude y unas cuantas salvaguardas para construir un sistema de diseño que los desarrolladores respeten y que los clientes realmente puedan lanzar."
+                "x": "A partir de los comentarios de los usuarios, Gemini Notebook ofrece ahora más control creativo de principio a fin en dos de sus formatos más populares: Slide Decks y Video Overviews. En lugar de saltar de una instrucción inicial directamente al resultado final, puede guiarte por el proceso de creación basándose directamente en tus fuentes."
               },
               {
                 "t": "p",
-                "x": "Son las 5pm de un jueves. La llamada con el cliente es por la mañana. Has pasado la tarde en Claude, avanzando a base de prompts en un panel que a las 2pm se veía extraordinario y ahora parece la casa de un desconocido. Así que abres Figma, reconstruyes la pantalla a mano y te dices que solo estabas “ajustando detalles”. La AI fue un cuaderno de bocetos."
+                "x": "Si pides en el chat diapositivas o un resumen en video, Notebook sugiere temas para incluir. Una vez que confirmas, puedes orientar aún más el contenido y definir el estilo visual y el formato."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
               },
               {
                 "t": "p",
-                "x": "El autor sostiene que no es un fallo de habilidad, sino de andamiaje. El llamado Vibe coding resulta liberador en la fase exploratoria, y una investigación sobre ideación AI-supported (asistida por AI) concluye que la AIGC reduce la exigencia mental percibida durante el pensamiento divergente; pero esa misma investigación distingue entre ideación y desarrollo."
+                "x": "Un nuevo interruptor Review va más allá: permite revisar el plan en el panel del estudio mediante “Review outline notes” para diapositivas o “Review producer notes” para video, y dar indicaciones —como añadir un resumen ejecutivo o cambiar el orden de una escena— antes de que se genere nada. Al seleccionar “Proceed” se produce el resultado final."
+              },
+              {
+                "t": "p",
+                "x": "Si ya sabes lo que quieres, dilo en la instrucción y Notebook pasa directamente a la revisión. Para un resultado rápido, omite el interruptor Review y genera como de costumbre. Las funciones de cocreación se están desplegando a nivel mundial para todos los usuarios de Gemini Notebook durante la próxima semana."
               }
             ]
           }
@@ -953,105 +223,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI로 브랜드 기반 구축\n장인 정신은 그대로",
-          "body": "Claude와 가드레일로 브랜드 기반과 디자인 시스템을 짓는 법을 짚는다.",
-          "mini_headline": "AI로 짓는 브랜드 기반",
+          "headline": "Gemini 슬라이드·영상\n이제 직접 조율한다",
+          "body": "Gemini Notebook이 슬라이드와 영상 개요를 직접 조율하게 했다.",
+          "mini_headline": "Gemini Notebook, 조율 가능한 덱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+                "cap": "새로운 리뷰 슬라이드 덱 기능을 보여주는 일러스트"
               },
               {
                 "t": "p",
-                "x": "Claude와 몇 가지 가드레일로 개발자가 인정하고 클라이언트가 실제로 출시할 수 있는 디자인 시스템을 만드는 방법을 소개한다."
+                "x": "Gemini Notebook은 사용자 피드백을 반영해 인기 있는 두 가지 결과물인 Slide Decks와 Video Overviews에서 처음부터 끝까지 더 많은 창작 통제권을 준다. 첫 프롬프트에서 곧바로 최종 결과물로 넘어가는 대신, 사용자의 자료를 바탕으로 제작 과정을 단계별로 안내한다."
               },
               {
                 "t": "p",
-                "x": "목요일 오후 5시다. 클라이언트 미팅은 내일 아침이다. 오후 내내 Claude에서 프롬프트를 거듭하며 대시보드를 다듬었는데, 오후 2시에는 근사해 보이던 화면이 이제는 남의 집처럼 낯설다. 그래서 Figma를 열어 화면을 손으로 다시 만들고는 “조금 다듬었을 뿐”이라고 스스로를 달랜다. AI는 연습장이었을 뿐이다."
+                "x": "채팅에서 슬라이드나 영상 개요를 요청하면 Notebook이 담을 주제를 제안한다. 확인한 뒤에는 내용을 더 다듬고 시각 스타일과 형식도 조정할 수 있다."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
               },
               {
                 "t": "p",
-                "x": "필자는 이것이 실력의 문제가 아니라 뼈대의 문제라고 본다. 바이브 코딩(Vibe coding)은 탐색 단계에서 분명 자유로움을 준다. AI-supported(AI 지원) 아이디에이션 연구에서도 AIGC가 확산적 사고 과정의 체감 정신 부담을 줄인다는 결과가 나왔다. 다만 같은 연구는 아이디어 발상과 개발을 구분한다."
+                "x": "새 Review 토글은 한 걸음 더 나아간다. 스튜디오 패널에서 슬라이드는 “Review outline notes”, 영상은 “Review producer notes”로 계획을 검토하고, 렌더링 전에 경영진 요약 추가나 장면 순서 변경 같은 피드백을 줄 수 있다. “Proceed”를 누르면 최종 결과물이 만들어진다."
+              },
+              {
+                "t": "p",
+                "x": "원하는 바가 분명하면 프롬프트에 그렇게 적으면 되고, Notebook은 바로 검토 단계로 넘어간다. 빠른 결과물이 필요하면 Review 토글을 건너뛰고 평소처럼 생성하면 된다. 공동 제작 기능은 앞으로 일주일에 걸쳐 전 세계 모든 Gemini Notebook 사용자에게 배포된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで築くブランド基盤\n職人技はそのままに",
-          "body": "Claudeと少数のガードレールで、ブランド基盤とデザインシステムを築く手順を示す。",
-          "mini_headline": "AIで築くブランド基盤",
+          "headline": "Geminiのスライドと動画\n途中で調整可能に",
+          "body": "Gemini Notebookで、スライドと動画概要を途中で調整できるようになった。",
+          "mini_headline": "Gemini Notebookで調整できる資料",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+                "cap": "新しいレビュー機能を備えたスライド資料のイラスト"
               },
               {
                 "t": "p",
-                "x": "Claudeといくつかのガードレールを使い、開発者が一目置き、クライアントが実際にリリースできるデザインシステムを構築する方法を紹介する。"
+                "x": "Gemini Notebookはユーザーの声を受け、人気の高い二つの出力形式であるSlide DecksとVideo Overviewsについて、最初から最後までより細かく創作をコントロールできるようにした。最初のプロンプトから一気に最終出力へ進むのではなく、ソースに基づいて制作の流れを順に案内する。"
               },
               {
                 "t": "p",
-                "x": "木曜日の午後5時。クライアントとの打ち合わせは翌朝だ。午後をずっとClaudeの中で過ごし、プロンプトを重ねてダッシュボードを作ってきたが、午後2時には見事に見えたその画面が、今では他人の家のように見える。そこでFigmaを開き、画面を手作業で作り直して、「少し詰めただけ」と自分に言い聞かせる。AIはスケッチパッドにすぎなかった。"
+                "x": "チャットでスライドや動画概要を依頼すると、Notebookが盛り込むトピックを提案する。確認すれば、内容をさらに調整し、ビジュアルのスタイルや形式も指示できる。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
               },
               {
                 "t": "p",
-                "x": "筆者は、これはスキルの失敗ではなく足場の失敗だと論じる。Vibe coding(バイブコーディング)は探索段階では確かに解放感をもたらし、AI-supported(AI支援)のアイデア創出に関する研究でも、AIGCが発散的思考における主観的な精神的負荷を下げることが示されている。ただし同じ研究は、アイデア創出と開発を区別している。"
+                "x": "新しいReviewトグルはさらに踏み込む。スタジオパネルで、スライドなら「Review outline notes」、動画なら「Review producer notes」から計画を確認し、レンダリング前にエグゼクティブサマリーの追加やシーンの順番の入れ替えといったフィードバックを伝えられる。「Proceed」を選ぶと最終成果物が生成される。"
+              },
+              {
+                "t": "p",
+                "x": "作りたいものが決まっているならプロンプトでそう伝えれば、Notebookはすぐにレビューへ進む。手早く出力したい場合はReviewトグルを使わず、通常どおり生成すればよい。この共同制作機能は今後一週間で、世界中のすべてのGemini Notebookユーザーに順次提供される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "用AI打造品牌基础\n匠心不减",
-          "body": "一篇实操指南借助Claude和几条护栏，搭建客户能直接上线的品牌基础与设计系统。",
-          "mini_headline": "AI打造品牌基础",
+          "headline": "Gemini幻灯片与视频\n生成过程可由你掌控",
+          "body": "Gemini Notebook现在让用户引导生成的幻灯片和视频概览，而非接受一次性结果。",
+          "mini_headline": "Gemini Notebook可引导的幻灯片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+                "cap": "展示全新审阅幻灯片功能的插图"
               },
               {
                 "t": "p",
-                "x": "本文介绍如何借助Claude和几条护栏，搭建一套开发者认可、客户真正能上线的设计系统。"
+                "x": "根据用户反馈，Gemini Notebook如今在两种热门输出形式Slide Decks和Video Overviews上，从头到尾提供更多创作控制。它不再从最初的提示直接跳到最终成品，而是直接依据你的资料，带你一步步完成创作流程。"
               },
               {
                 "t": "p",
-                "x": "周四下午5点。客户会议在明天上午。你一下午都泡在Claude里，靠提示词一步步做出一个仪表盘：下午2点时它看起来惊艳无比，现在却像陌生人的房子。于是你打开Figma，手动重做这个界面，并告诉自己只是在“稍微收紧一下细节”。AI只是一块草稿板。"
+                "x": "在聊天中请求幻灯片或视频概览，Notebook会建议应包含的主题。确认后，你可以进一步引导内容，并指定视觉风格和格式。"
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
               },
               {
                 "t": "p",
-                "x": "作者认为，这不是能力的失败，而是脚手架的失败。Vibe coding（氛围编程）在探索阶段确实令人解放，关于AI-supported（AI辅助）构思的研究也发现，AIGC能降低发散思维过程中的主观心理负荷——但同一项研究也区分了构思与开发。"
+                "x": "新的Review开关更进一步：在工作室面板中，通过幻灯片的“Review outline notes”或视频的“Review producer notes”审阅方案，并在渲染前给出反馈，例如添加执行摘要或调换某个场景的顺序。选择“Proceed”即可生成最终成品。"
+              },
+              {
+                "t": "p",
+                "x": "如果你已经清楚自己想要什么，在提示中说明即可，Notebook会直接进入审阅环节。若只需快速产出，可跳过Review开关，照常生成。这些协同创作功能将在未来一周内面向全球所有Gemini Notebook用户陆续推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una base de marca con AI,\nsin perder el oficio",
-          "body": "Una guía usa Claude y algunas salvaguardas para crear una base de marca y un sistema de diseño listos para lanzar.",
-          "mini_headline": "Bases de marca con AI",
+          "headline": "Gemini Notebook te deja guiar\nsus diapositivas y videos",
+          "body": "Gemini Notebook ya permite guiar los Slide Decks y Video Overviews generados en vez de aceptar un resultado único.",
+          "mini_headline": "Presentaciones guiables en Gemini Notebook",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/0*_5ttT6EZkGD9kUqe"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+                "cap": "Ilustración que muestra las nuevas funciones de revisión de presentaciones"
               },
               {
                 "t": "p",
-                "x": "Así se usan Claude y unas cuantas salvaguardas para construir un sistema de diseño que los desarrolladores respeten y que los clientes realmente puedan lanzar."
+                "x": "A partir de los comentarios de los usuarios, Gemini Notebook ofrece ahora más control creativo de principio a fin en dos de sus formatos más populares: Slide Decks y Video Overviews. En lugar de saltar de una instrucción inicial directamente al resultado final, puede guiarte por el proceso de creación basándose directamente en tus fuentes."
               },
               {
                 "t": "p",
-                "x": "Son las 5pm de un jueves. La llamada con el cliente es por la mañana. Has pasado la tarde en Claude, avanzando a base de prompts en un panel que a las 2pm se veía extraordinario y ahora parece la casa de un desconocido. Así que abres Figma, reconstruyes la pantalla a mano y te dices que solo estabas “ajustando detalles”. La AI fue un cuaderno de bocetos."
+                "x": "Si pides en el chat diapositivas o un resumen en video, Notebook sugiere temas para incluir. Una vez que confirmas, puedes orientar aún más el contenido y definir el estilo visual y el formato."
+              },
+              {
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
               },
               {
                 "t": "p",
-                "x": "El autor sostiene que no es un fallo de habilidad, sino de andamiaje. El llamado Vibe coding resulta liberador en la fase exploratoria, y una investigación sobre ideación AI-supported (asistida por AI) concluye que la AIGC reduce la exigencia mental percibida durante el pensamiento divergente; pero esa misma investigación distingue entre ideación y desarrollo."
+                "x": "Un nuevo interruptor Review va más allá: permite revisar el plan en el panel del estudio mediante “Review outline notes” para diapositivas o “Review producer notes” para video, y dar indicaciones —como añadir un resumen ejecutivo o cambiar el orden de una escena— antes de que se genere nada. Al seleccionar “Proceed” se produce el resultado final."
+              },
+              {
+                "t": "p",
+                "x": "Si ya sabes lo que quieres, dilo en la instrucción y Notebook pasa directamente a la revisión. Para un resultado rápido, omite el interruptor Review y genera como de costumbre. Las funciones de cocreación se están desplegando a nivel mundial para todos los usuarios de Gemini Notebook durante la próxima semana."
               }
             ]
           }
@@ -1059,189 +365,901 @@
       }
     },
     {
-      "id": "design-a11y-gates",
+      "id": "design-flux3-max-video",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "WCAG 위반 시 머지를\n막는 에이전트 스킬",
-      "body": "ux-ui-agent-skills는 실제 WCAG 위반이 있으면 머지를 막는다.",
-      "mini_headline": "AI 접근성 게이트",
+      "headline": "FLUX 3 Max 출시\nfal의 빠른 영상 모델",
+      "body": "fal이 BFL과 후속 학습한 영상 모델 FLUX 3 Max를 API로 공개했다.",
+      "mini_headline": "fal, FLUX 3 Max 영상 모델 출시",
+      "tool": "KeyShot",
+      "source": "Unite.AI",
+      "url": "https://www.unite.ai/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs/",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+          },
+          {
+            "t": "p",
+            "x": "fal이 2026년 10월 19일 영상 생성 모델 FLUX 3 Max를 내놨다. fal Research가 Black Forest Labs와 함께 FLUX 3 파운데이션 모델을 후속 학습해 만들었고, 발표 당일부터 fal 추론 플랫폼에서 쓸 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "fal Research는 시각 충실도와 움직임 일관성, 프롬프트 준수도를 끌어올리려고 FLUX 3를 더 학습시켰다. 추론과 서빙은 fal 자체 엔진에 맞춰 최적화했다. BFL CEO Robin Rombach는 FLUX 3를 남들이 그 위에 무언가를 쌓아 올릴 수 있는 토대로 만들었다고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "fal은 Artificial Analysis Video Arena의 예비 image-to-video 평가에서 Elo 1,139점을 받아 원래 FLUX 3(1,089)보다 50점 높았다고 밝혔다. 자체 벤치마크에선 10초 영상을 10.95초 만에 뽑았다. fal의 설명으로는 Elo가 같은 Seedance 2.5보다 22배, FLUX 3보다 11.5배 빠르다. 다만 제품 페이지에는 10초 720p 영상 기준 12.45초로, 수치가 다르게 적혀 있다."
+          },
+          {
+            "t": "p",
+            "x": "Artificial Analysis 자체 리더보드에서 FLUX 3 Max는 Elo 1,138점으로, 1,140점인 MiniMax H3에 이어 두 번째다."
+          },
+          {
+            "t": "p",
+            "x": "API로는 720p text-to-video와 image-to-video 엔드포인트를 쓸 수 있다. 출시 기념가는 초당 $0.0425로 정가 $0.17보다 75퍼센트 싸며, 2026년 11월 7일까지 적용된다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "fal launches FLUX 3 Max,\na faster video model",
+          "body": "fal released FLUX 3 Max, a video model post-trained with Black Forest Labs, available now through its API.",
+          "mini_headline": "fal ships FLUX 3 Max video",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+              },
+              {
+                "t": "p",
+                "x": "fal announced FLUX 3 Max on October 19, 2026, a video generation model post-trained by fal Research in collaboration with Black Forest Labs on the FLUX 3 foundation model. It became available the same day through fal’s inference platform."
+              },
+              {
+                "t": "p",
+                "x": "fal Research continued training FLUX 3 to improve visual fidelity, motion coherence and prompt adherence, and optimized inference and serving on fal’s own engine. BFL CEO Robin Rombach said FLUX 3 was built as a foundation for others to build on."
+              },
+              {
+                "t": "p",
+                "x": "fal reports a 1,139 Elo rating in preliminary Artificial Analysis Video Arena image-to-video evaluations, a 50-point gain over the original FLUX 3 (1,089). Its benchmark generated a 10-second video in 10.95 seconds — which fal calls 22 times faster than Seedance 2.5 at the same Elo and 11.5 times faster than FLUX 3. The product page lists a different figure: 12.45 seconds for a 10-second 720p video."
+              },
+              {
+                "t": "p",
+                "x": "Artificial Analysis’s own leaderboard lists FLUX 3 Max at 1,138 Elo, second behind MiniMax H3 at 1,140."
+              },
+              {
+                "t": "p",
+                "x": "The API offers text-to-video and image-to-video endpoints at 720p. Launch pricing is $0.0425 per second, 75 percent off the $0.17 list price, until November 7, 2026."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "FLUX 3 Max 출시\nfal의 빠른 영상 모델",
+          "body": "fal이 BFL과 후속 학습한 영상 모델 FLUX 3 Max를 API로 공개했다.",
+          "mini_headline": "fal, FLUX 3 Max 영상 모델 출시",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+              },
+              {
+                "t": "p",
+                "x": "fal이 2026년 10월 19일 영상 생성 모델 FLUX 3 Max를 내놨다. fal Research가 Black Forest Labs와 함께 FLUX 3 파운데이션 모델을 후속 학습해 만들었고, 발표 당일부터 fal 추론 플랫폼에서 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "fal Research는 시각 충실도와 움직임 일관성, 프롬프트 준수도를 끌어올리려고 FLUX 3를 더 학습시켰다. 추론과 서빙은 fal 자체 엔진에 맞춰 최적화했다. BFL CEO Robin Rombach는 FLUX 3를 남들이 그 위에 무언가를 쌓아 올릴 수 있는 토대로 만들었다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "fal은 Artificial Analysis Video Arena의 예비 image-to-video 평가에서 Elo 1,139점을 받아 원래 FLUX 3(1,089)보다 50점 높았다고 밝혔다. 자체 벤치마크에선 10초 영상을 10.95초 만에 뽑았다. fal의 설명으로는 Elo가 같은 Seedance 2.5보다 22배, FLUX 3보다 11.5배 빠르다. 다만 제품 페이지에는 10초 720p 영상 기준 12.45초로, 수치가 다르게 적혀 있다."
+              },
+              {
+                "t": "p",
+                "x": "Artificial Analysis 자체 리더보드에서 FLUX 3 Max는 Elo 1,138점으로, 1,140점인 MiniMax H3에 이어 두 번째다."
+              },
+              {
+                "t": "p",
+                "x": "API로는 720p text-to-video와 image-to-video 엔드포인트를 쓸 수 있다. 출시 기념가는 초당 $0.0425로 정가 $0.17보다 75퍼센트 싸며, 2026년 11월 7일까지 적용된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "fal、FLUX 3 Max\n高速な動画モデルを公開",
+          "body": "falはBFLと後学習した動画モデルFLUX 3 MaxをAPIで公開した。",
+          "mini_headline": "falがFLUX 3 Max動画モデルを公開",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+              },
+              {
+                "t": "p",
+                "x": "falは2026年10月19日、動画生成モデルFLUX 3 Maxを発表した。fal ResearchがBlack Forest Labsと協力し、FLUX 3基盤モデルを後学習したもので、同日からfalの推論プラットフォームで利用可能になった。"
+              },
+              {
+                "t": "p",
+                "x": "fal ResearchはFLUX 3の学習を続けて視覚的忠実度、動きの一貫性、プロンプトへの追従性を高め、fal独自のエンジン上で推論とサービングを最適化した。BFLのCEOであるRobin Rombachは、FLUX 3は他者がその上に構築するための基盤として作られたと述べた。"
+              },
+              {
+                "t": "p",
+                "x": "falによると、Artificial Analysis Video Arenaの暫定的なimage-to-video評価でElo 1,139を記録し、元のFLUX 3（1,089）から50ポイント向上した。同社のベンチマークでは10秒の動画を10.95秒で生成し、falはこれを同じEloのSeedance 2.5より22倍、FLUX 3より11.5倍速いとしている。製品ページには、10秒の720p 動画で12.45秒という別の数値が記載されている。"
+              },
+              {
+                "t": "p",
+                "x": "Artificial Analysis自身のリーダーボードでは、FLUX 3 MaxはElo 1,138で、1,140のMiniMax H3に次ぐ二番手だ。"
+              },
+              {
+                "t": "p",
+                "x": "APIは720p のtext-to-videoとimage-to-videoのエンドポイントを提供する。ローンチ価格は毎秒$0.0425で、定価$0.17から75パーセント引きとなり、2026年11月7日まで適用される。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "fal lanza FLUX 3 Max,\nun modelo de video más rápido",
+          "body": "fal lanzó FLUX 3 Max, un modelo de video posentrenado con Black Forest Labs, ya disponible a través de su API.",
+          "mini_headline": "fal lanza el modelo de video FLUX 3 Max",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+              },
+              {
+                "t": "p",
+                "x": "fal anunció el 19 de octubre de 2026 FLUX 3 Max, un modelo de generación de video que fal Research posentrenó en colaboración con Black Forest Labs a partir del modelo fundacional FLUX 3. Quedó disponible ese mismo día en la plataforma de inferencia de fal."
+              },
+              {
+                "t": "p",
+                "x": "fal Research siguió entrenando FLUX 3 para mejorar la fidelidad visual, la coherencia del movimiento y la adherencia a las instrucciones, y optimizó la inferencia y el servicio en el motor propio de fal. Robin Rombach, CEO de BFL, dijo que FLUX 3 se creó como una base sobre la que otros pudieran construir."
+              },
+              {
+                "t": "p",
+                "x": "fal informa una puntuación Elo de 1,139 en evaluaciones preliminares image-to-video de Artificial Analysis Video Arena, 50 puntos más que el FLUX 3 original (1,089). En su prueba generó un video de 10 segundos en 10.95 segundos, lo que según fal es 22 veces más rápido que Seedance 2.5 con el mismo Elo y 11.5 veces más rápido que FLUX 3. La página del producto indica otra cifra: 12.45 segundos para un video de 10 segundos en 720p."
+              },
+              {
+                "t": "p",
+                "x": "La clasificación de la propia Artificial Analysis sitúa a FLUX 3 Max con 1,138 Elo, en segundo lugar detrás de MiniMax H3, con 1,140."
+              },
+              {
+                "t": "p",
+                "x": "La API ofrece endpoints text-to-video e image-to-video en 720p. El precio de lanzamiento es de $0.0425 por segundo, 75 por ciento menos que el precio de lista de $0.17, hasta el 7 de noviembre de 2026."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "fal推出更快视频模型\nFLUX 3 Max",
+          "body": "fal携手Black Forest Labs推出视频模型FLUX 3 Max，已开放API。",
+          "mini_headline": "fal上线FLUX 3 Max视频模型",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+              },
+              {
+                "t": "p",
+                "x": "fal于2026年10月19日发布FLUX 3 Max。这是fal Research与Black Forest Labs合作、在FLUX 3基础模型上进行后训练的视频生成模型，当天即通过fal的推理平台上线。"
+              },
+              {
+                "t": "p",
+                "x": "fal Research对FLUX 3进行了持续训练，以提升视觉保真度、运动连贯性和提示词遵循度，并在fal自有引擎上优化了推理与服务。BFL CEO Robin Rombach表示，FLUX 3本就是作为供他人在其上构建的基础而打造的。"
+              },
+              {
+                "t": "p",
+                "x": "fal称，在Artificial Analysis Video Arena的初步image-to-video评测中，该模型获得1,139 Elo，比原版FLUX 3（1,089）高出50分。其基准测试用10.95秒生成了一段10秒视频——fal称这比同等Elo的Seedance 2.5快22倍，比FLUX 3快11.5倍。产品页面给出的数字则不同：生成一段10秒720p视频需12.45秒。"
+              },
+              {
+                "t": "p",
+                "x": "Artificial Analysis自己的排行榜显示FLUX 3 Max为1,138 Elo，位列第二，仅次于1,140的MiniMax H3。"
+              },
+              {
+                "t": "p",
+                "x": "API提供720p的text-to-video和image-to-video端点。首发价格为每秒$0.0425，比$0.17的标价便宜百分之75，优惠期至2026年11月7日。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "FLUX 3 Max 출시\nfal의 빠른 영상 모델",
+          "body": "fal이 BFL과 후속 학습한 영상 모델 FLUX 3 Max를 API로 공개했다.",
+          "mini_headline": "fal, FLUX 3 Max 영상 모델 출시",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+              },
+              {
+                "t": "p",
+                "x": "fal은 2026년 10월 19일 영상 생성 모델 FLUX 3 Max를 발표했다. fal Research가 Black Forest Labs와 함께 FLUX 3 파운데이션 모델을 후속 학습해 만든 모델로, 같은 날 fal의 추론 플랫폼에서 바로 쓸 수 있게 됐다."
+              },
+              {
+                "t": "p",
+                "x": "fal Research는 시각적 충실도, 움직임의 일관성, 프롬프트 준수도를 높이기 위해 FLUX 3 학습을 이어갔고, fal 자체 엔진에서 추론과 서빙을 최적화했다. BFL CEO Robin Rombach는 FLUX 3를 다른 이들이 그 위에 쌓아 올릴 수 있는 토대로 만들었다고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "fal에 따르면 Artificial Analysis Video Arena의 예비 image-to-video 평가에서 Elo 1,139점을 기록해 원래 FLUX 3(1,089)보다 50점 올랐다. 자체 벤치마크에서는 10초 영상을 10.95초 만에 생성했으며, fal은 이를 같은 Elo의 Seedance 2.5보다 22배, FLUX 3보다 11.5배 빠른 수치라고 설명했다. 제품 페이지에는 10초 720p 영상 기준 12.45초라는 다른 수치가 적혀 있다."
+              },
+              {
+                "t": "p",
+                "x": "Artificial Analysis 자체 리더보드에는 FLUX 3 Max가 Elo 1,138점으로, 1,140점인 MiniMax H3에 이어 두 번째에 올라 있다."
+              },
+              {
+                "t": "p",
+                "x": "API는 720p 해상도의 text-to-video와 image-to-video 엔드포인트를 제공한다. 출시 기념 가격은 초당 $0.0425로, 정가 $0.17에서 75퍼센트 할인된 가격이며 2026년 11월 7일까지 적용된다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "fal、FLUX 3 Max\n高速な動画モデルを公開",
+          "body": "falはBFLと後学習した動画モデルFLUX 3 MaxをAPIで公開した。",
+          "mini_headline": "falがFLUX 3 Max動画モデルを公開",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+              },
+              {
+                "t": "p",
+                "x": "falは2026年10月19日、動画生成モデルFLUX 3 Maxを発表した。fal ResearchがBlack Forest Labsと協力し、FLUX 3基盤モデルを後学習したもので、同日からfalの推論プラットフォームで利用可能になった。"
+              },
+              {
+                "t": "p",
+                "x": "fal ResearchはFLUX 3の学習を続けて視覚的忠実度、動きの一貫性、プロンプトへの追従性を高め、fal独自のエンジン上で推論とサービングを最適化した。BFLのCEOであるRobin Rombachは、FLUX 3は他者がその上に構築するための基盤として作られたと述べた。"
+              },
+              {
+                "t": "p",
+                "x": "falによると、Artificial Analysis Video Arenaの暫定的なimage-to-video評価でElo 1,139を記録し、元のFLUX 3（1,089）から50ポイント向上した。同社のベンチマークでは10秒の動画を10.95秒で生成し、falはこれを同じEloのSeedance 2.5より22倍、FLUX 3より11.5倍速いとしている。製品ページには、10秒の720p 動画で12.45秒という別の数値が記載されている。"
+              },
+              {
+                "t": "p",
+                "x": "Artificial Analysis自身のリーダーボードでは、FLUX 3 MaxはElo 1,138で、1,140のMiniMax H3に次ぐ二番手だ。"
+              },
+              {
+                "t": "p",
+                "x": "APIは720p のtext-to-videoとimage-to-videoのエンドポイントを提供する。ローンチ価格は毎秒$0.0425で、定価$0.17から75パーセント引きとなり、2026年11月7日まで適用される。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "fal lanza FLUX 3 Max,\nun modelo de video más rápido",
+          "body": "fal lanzó FLUX 3 Max, un modelo de video posentrenado con Black Forest Labs, ya disponible a través de su API.",
+          "mini_headline": "fal lanza el modelo de video FLUX 3 Max",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+              },
+              {
+                "t": "p",
+                "x": "fal anunció el 19 de octubre de 2026 FLUX 3 Max, un modelo de generación de video que fal Research posentrenó en colaboración con Black Forest Labs a partir del modelo fundacional FLUX 3. Quedó disponible ese mismo día en la plataforma de inferencia de fal."
+              },
+              {
+                "t": "p",
+                "x": "fal Research siguió entrenando FLUX 3 para mejorar la fidelidad visual, la coherencia del movimiento y la adherencia a las instrucciones, y optimizó la inferencia y el servicio en el motor propio de fal. Robin Rombach, CEO de BFL, dijo que FLUX 3 se creó como una base sobre la que otros pudieran construir."
+              },
+              {
+                "t": "p",
+                "x": "fal informa una puntuación Elo de 1,139 en evaluaciones preliminares image-to-video de Artificial Analysis Video Arena, 50 puntos más que el FLUX 3 original (1,089). En su prueba generó un video de 10 segundos en 10.95 segundos, lo que según fal es 22 veces más rápido que Seedance 2.5 con el mismo Elo y 11.5 veces más rápido que FLUX 3. La página del producto indica otra cifra: 12.45 segundos para un video de 10 segundos en 720p."
+              },
+              {
+                "t": "p",
+                "x": "La clasificación de la propia Artificial Analysis sitúa a FLUX 3 Max con 1,138 Elo, en segundo lugar detrás de MiniMax H3, con 1,140."
+              },
+              {
+                "t": "p",
+                "x": "La API ofrece endpoints text-to-video e image-to-video en 720p. El precio de lanzamiento es de $0.0425 por segundo, 75 por ciento menos que el precio de lista de $0.17, hasta el 7 de noviembre de 2026."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "fal推出更快视频模型\nFLUX 3 Max",
+          "body": "fal携手Black Forest Labs推出视频模型FLUX 3 Max，已开放API。",
+          "mini_headline": "fal上线FLUX 3 Max视频模型",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
+              },
+              {
+                "t": "p",
+                "x": "fal于2026年10月19日发布FLUX 3 Max。这是fal Research与Black Forest Labs合作、在FLUX 3基础模型上进行后训练的视频生成模型，当天即通过fal的推理平台上线。"
+              },
+              {
+                "t": "p",
+                "x": "fal Research对FLUX 3进行了持续训练，以提升视觉保真度、运动连贯性和提示词遵循度，并在fal自有引擎上优化了推理与服务。BFL CEO Robin Rombach表示，FLUX 3本就是作为供他人在其上构建的基础而打造的。"
+              },
+              {
+                "t": "p",
+                "x": "fal称，在Artificial Analysis Video Arena的初步image-to-video评测中，该模型获得1,139 Elo，比原版FLUX 3（1,089）高出50分。其基准测试用10.95秒生成了一段10秒视频——fal称这比同等Elo的Seedance 2.5快22倍，比FLUX 3快11.5倍。产品页面给出的数字则不同：生成一段10秒720p视频需12.45秒。"
+              },
+              {
+                "t": "p",
+                "x": "Artificial Analysis自己的排行榜显示FLUX 3 Max为1,138 Elo，位列第二，仅次于1,140的MiniMax H3。"
+              },
+              {
+                "t": "p",
+                "x": "API提供720p的text-to-video和image-to-video端点。首发价格为每秒$0.0425，比$0.17的标价便宜百分之75，优惠期至2026年11月7日。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-cg-roundup-1018",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Autograph에 MCP\nRed Giant AI조명",
+      "body": "Maxon Autograph가 MCP로 Claude·ChatGPT와 연결된다.",
+      "mini_headline": "Autograph에 MCP 서버 추가",
+      "tool": "KeyShot",
+      "source": "CG Channel",
+      "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-18-october-2026/",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "sAsuw-nt-GM"
+          },
+          {
+            "t": "p",
+            "x": "CG Channel은 매주 소규모 CG 소프트웨어 업데이트를 모아 round-up으로 전한다. 이번 첫 소식은 Maxon의 Autograph 2027.0과 Red Giant 2027.0이다."
+          },
+          {
+            "t": "p",
+            "x": "Autograph는 Maxon이 올해 초 무료로 푼 USD-based(USD 기반) 모션 그래픽·VFX·합성 소프트웨어다. 이번 업데이트는 무료화 이후 가장 크다. 새 MCP Server로 Claude나 ChatGPT 같은 외부 AI 도구와 이어진다. 그 밖에 Tile 모디파이어 모드가 새로 생겼고 세로쓰기와 일본어 타이포그래피가 좋아졌다. Cinema 4D 2027.0의 카메라·조명·프리미티브를 복사해 붙여 넣을 수 있고, Adobe Fonts도 지원한다."
+          },
+          {
+            "t": "p",
+            "x": "Maxon의 이펙트 플러그인 모음 Red Giant에는 AI-assisted 리라이팅 시스템이 들어갔다. Scene Light가 AI-generated 뎁스 맵과 노멀 맵을 써서 After Effects 안에서 샷 조명을 새로 입힌다. Chromatic Displacement는 이제 Autograph에서도 돌아간다. Red Giant 전체 구독료는 $85/month 또는 $639/year다."
+          },
+          {
+            "t": "p",
+            "x": "ComfyUI에는 NVIDIA의 RTX 비디오 효과가 커스텀 노드로 들어왔다. 사용자 GPU에서 로컬로 돈다. RTX Video Super Resolution은 영상을 최대 4x 또는 8,192px까지 업스케일한다. Frame Generation은 프레임 레이트를 2–16x 올리고, HDR 노드는 SDR을 BT.2020 HDR로 바꿔 준다. 노드를 돌리려면 NVIDIA RTX GPU(프레임 생성은 RTX 40 Series 이상)가 있어야 하며, 라이선스는 Apache 2.0-licensed(Apache 2.0)다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Autograph gets an MCP server,\nRed Giant adds AI relighting",
+          "body": "Maxon's Autograph can now connect to Claude or ChatGPT via MCP, and NVIDIA's RTX video tools run locally as ComfyUI nodes.",
+          "mini_headline": "Autograph adds an MCP server",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "CG Channel’s weekly round-up of smaller CG software updates leads with Maxon’s Autograph 2027.0 and Red Giant 2027.0."
+              },
+              {
+                "t": "p",
+                "x": "Autograph, the USD-based motion graphics, VFX and compositing software Maxon made free earlier this year, gets its biggest update since: a new MCP Server connects it to external AI tools like Claude or ChatGPT. Other additions include new Tile modifier modes, improved vertical text and Japanese typography, copy-and-paste of cameras, lights and primitives from Cinema 4D 2027.0, and Adobe Fonts support."
+              },
+              {
+                "t": "p",
+                "x": "Red Giant, Maxon’s effects plugin suite, gets an AI-assisted relighting system: Scene Light relights shots in After Effects using AI-generated depth and normal maps. Chromatic Displacement is now supported in Autograph. Full Red Giant subscriptions cost $85/month or $639/year."
+              },
+              {
+                "t": "p",
+                "x": "In ComfyUI, NVIDIA’s RTX video effects now run as custom nodes locally on a user’s GPU: RTX Video Super Resolution upscales video up to 4x or 8,192px, Frame Generation raises frame rates 2–16x, and an HDR node converts SDR to BT.2020 HDR. The nodes need an NVIDIA RTX GPU (RTX 40 Series or better for frame generation) and are Apache 2.0-licensed."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Autograph에 MCP\nRed Giant AI조명",
+          "body": "Maxon Autograph가 MCP로 Claude·ChatGPT와 연결된다.",
+          "mini_headline": "Autograph에 MCP 서버 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "CG Channel은 매주 소규모 CG 소프트웨어 업데이트를 모아 round-up으로 전한다. 이번 첫 소식은 Maxon의 Autograph 2027.0과 Red Giant 2027.0이다."
+              },
+              {
+                "t": "p",
+                "x": "Autograph는 Maxon이 올해 초 무료로 푼 USD-based(USD 기반) 모션 그래픽·VFX·합성 소프트웨어다. 이번 업데이트는 무료화 이후 가장 크다. 새 MCP Server로 Claude나 ChatGPT 같은 외부 AI 도구와 이어진다. 그 밖에 Tile 모디파이어 모드가 새로 생겼고 세로쓰기와 일본어 타이포그래피가 좋아졌다. Cinema 4D 2027.0의 카메라·조명·프리미티브를 복사해 붙여 넣을 수 있고, Adobe Fonts도 지원한다."
+              },
+              {
+                "t": "p",
+                "x": "Maxon의 이펙트 플러그인 모음 Red Giant에는 AI-assisted 리라이팅 시스템이 들어갔다. Scene Light가 AI-generated 뎁스 맵과 노멀 맵을 써서 After Effects 안에서 샷 조명을 새로 입힌다. Chromatic Displacement는 이제 Autograph에서도 돌아간다. Red Giant 전체 구독료는 $85/month 또는 $639/year다."
+              },
+              {
+                "t": "p",
+                "x": "ComfyUI에는 NVIDIA의 RTX 비디오 효과가 커스텀 노드로 들어왔다. 사용자 GPU에서 로컬로 돈다. RTX Video Super Resolution은 영상을 최대 4x 또는 8,192px까지 업스케일한다. Frame Generation은 프레임 레이트를 2–16x 올리고, HDR 노드는 SDR을 BT.2020 HDR로 바꿔 준다. 노드를 돌리려면 NVIDIA RTX GPU(프레임 생성은 RTX 40 Series 이상)가 있어야 하며, 라이선스는 Apache 2.0-licensed(Apache 2.0)다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AutographにMCP\nRed GiantにAI照明",
+          "body": "MaxonのAutographがMCPでClaude・ChatGPTと連携する。",
+          "mini_headline": "AutographにMCPサーバー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "CG Channelが小規模なCGソフトウェアのアップデートをまとめる週刊round-upは、MaxonのAutograph 2027.0とRed Giant 2027.0が筆頭だ。"
+              },
+              {
+                "t": "p",
+                "x": "Autographは、Maxonが今年初めに無料化したUSD-based（USDベース）のモーショングラフィックス・VFX・コンポジットソフトで、それ以来最大のアップデートとなる。新しいMCP Serverにより、ClaudeやChatGPTといった外部のAIツールと接続できる。ほかにも新しいTileモディファイアのモード、縦書きと日本語組版の改善、Cinema 4D 2027.0からのカメラ・ライト・プリミティブのコピー＆ペースト、Adobe Fontsへの対応が加わった。"
+              },
+              {
+                "t": "p",
+                "x": "Maxonのエフェクトプラグイン群Red Giantには、AI-assistedのリライティング機能が入った。Scene Lightは、AI-generatedの深度マップと法線マップを使ってAfter Effects上でショットのライティングをやり直す。Chromatic DisplacementはAutographでも使えるようになった。Red Giantのフルサブスクリプションは$85/monthまたは$639/yearだ。"
+              },
+              {
+                "t": "p",
+                "x": "ComfyUIでは、NVIDIAのRTXビデオエフェクトがユーザーのGPU上でローカルに動くカスタムノードになった。RTX Video Super Resolutionは動画を最大4xまたは8,192pxまでアップスケールし、Frame Generationはフレームレートを2–16xに高め、HDRノードはSDRをBT.2020 HDRに変換する。ノードの利用にはNVIDIA RTX GPU（フレーム生成にはRTX 40 Series以上）が必要で、ライセンスはApache 2.0-licensed（Apache 2.0）である。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Autograph接入MCP\nRed Giant添AI补光",
+          "body": "Maxon的Autograph现可通过MCP连接Claude或ChatGPT。",
+          "mini_headline": "Autograph新增MCP服务器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "CG Channel每周汇总小型CG软件更新的round-up，本期以Maxon的Autograph 2027.0和Red Giant 2027.0领衔。"
+              },
+              {
+                "t": "p",
+                "x": "Autograph是Maxon今年早些时候免费开放的USD-based（基于USD）动态图形、VFX与合成软件，此次迎来此后最大的一次更新：新的MCP Server可将其与Claude或ChatGPT等外部AI工具连接。其他新增内容包括新的Tile修改器模式、改进的竖排文字与日文排版、从Cinema 4D 2027.0复制粘贴摄像机、灯光和基本体，以及Adobe Fonts支持。"
+              },
+              {
+                "t": "p",
+                "x": "Maxon的特效插件套件Red Giant加入了AI-assisted重新布光系统：Scene Light利用AI-generated深度图和法线图，在After Effects中为镜头重新布光。Chromatic Displacement现已支持Autograph。Red Giant完整订阅价格为$85/month或$639/year。"
+              },
+              {
+                "t": "p",
+                "x": "在ComfyUI中，NVIDIA的RTX视频特效现以自定义节点形式在用户GPU上本地运行：RTX Video Super Resolution可将视频放大至最高4x或8,192px，Frame Generation可将帧率提升2–16x，HDR节点则把SDR转换为BT.2020 HDR。这些节点需要NVIDIA RTX GPU（帧生成需RTX 40 Series或更高），采用Apache 2.0-licensed（Apache 2.0许可）。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Autograph suma un servidor MCP\nRed Giant reilumina con AI",
+          "body": "Autograph de Maxon ya se conecta a Claude o ChatGPT vía MCP, y las herramientas RTX de NVIDIA corren en ComfyUI.",
+          "mini_headline": "Autograph suma un servidor MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "El round-up semanal de CG Channel sobre actualizaciones menores de software CG arranca con Autograph 2027.0 y Red Giant 2027.0 de Maxon."
+              },
+              {
+                "t": "p",
+                "x": "Autograph, el software USD-based (basado en USD) de motion graphics, VFX y composición que Maxon liberó gratis a principios de año, recibe su mayor actualización desde entonces: un nuevo MCP Server lo conecta con herramientas de AI externas como Claude o ChatGPT. Otras novedades son nuevos modos del modificador Tile, mejoras en el texto vertical y la tipografía japonesa, copiar y pegar cámaras, luces y primitivas desde Cinema 4D 2027.0, y compatibilidad con Adobe Fonts."
+              },
+              {
+                "t": "p",
+                "x": "Red Giant, el conjunto de plugins de efectos de Maxon, incorpora un sistema de reiluminación AI-assisted: Scene Light vuelve a iluminar planos en After Effects con mapas de profundidad y de normales AI-generated. Chromatic Displacement ya es compatible con Autograph. La suscripción completa a Red Giant cuesta $85/month o $639/year."
+              },
+              {
+                "t": "p",
+                "x": "En ComfyUI, los efectos de video RTX de NVIDIA funcionan ahora como nodos personalizados de forma local en la GPU del usuario: RTX Video Super Resolution escala el video hasta 4x u 8,192px, Frame Generation multiplica la tasa de fotogramas por 2–16x y un nodo HDR convierte SDR a BT.2020 HDR. Los nodos requieren una NVIDIA RTX GPU (RTX 40 Series o superior para la generación de fotogramas) y son Apache 2.0-licensed (licencia Apache 2.0)."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Autograph에 MCP\nRed Giant AI조명",
+          "body": "Maxon Autograph가 MCP로 Claude·ChatGPT와 연결된다.",
+          "mini_headline": "Autograph에 MCP 서버 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "CG Channel이 소규모 CG 소프트웨어 업데이트를 모아 전하는 주간 round-up은 Maxon의 Autograph 2027.0과 Red Giant 2027.0으로 시작한다."
+              },
+              {
+                "t": "p",
+                "x": "Autograph는 Maxon이 올해 초 무료로 푼 USD-based(USD 기반) 모션 그래픽·VFX·합성 소프트웨어로, 이번에 그 뒤 가장 큰 업데이트를 받았다. 새 MCP Server가 Claude나 ChatGPT 같은 외부 AI 도구와 연결해 준다. 이 밖에 새 Tile 모디파이어 모드, 세로쓰기와 일본어 타이포그래피 개선, Cinema 4D 2027.0의 카메라·조명·프리미티브 복사-붙여넣기, Adobe Fonts 지원이 더해졌다."
+              },
+              {
+                "t": "p",
+                "x": "Maxon의 이펙트 플러그인 모음 Red Giant에는 AI-assisted 리라이팅 시스템이 들어갔다. Scene Light는 AI-generated 뎁스 맵과 노멀 맵으로 After Effects 안에서 샷의 조명을 다시 입힌다. Chromatic Displacement는 이제 Autograph에서도 쓸 수 있다. Red Giant 전체 구독료는 $85/month 또는 $639/year다."
+              },
+              {
+                "t": "p",
+                "x": "ComfyUI에서는 NVIDIA의 RTX 비디오 효과가 사용자 GPU에서 로컬로 도는 커스텀 노드가 됐다. RTX Video Super Resolution은 영상을 최대 4x 또는 8,192px까지 업스케일하고, Frame Generation은 프레임 레이트를 2–16x 높이며, HDR 노드는 SDR을 BT.2020 HDR로 바꾼다. 노드를 쓰려면 NVIDIA RTX GPU(프레임 생성은 RTX 40 Series 이상)가 필요하고, 라이선스는 Apache 2.0-licensed(Apache 2.0)다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AutographにMCP\nRed GiantにAI照明",
+          "body": "MaxonのAutographがMCPでClaude・ChatGPTと連携する。",
+          "mini_headline": "AutographにMCPサーバー",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "CG Channelが小規模なCGソフトウェアのアップデートをまとめる週刊round-upは、MaxonのAutograph 2027.0とRed Giant 2027.0が筆頭だ。"
+              },
+              {
+                "t": "p",
+                "x": "Autographは、Maxonが今年初めに無料化したUSD-based（USDベース）のモーショングラフィックス・VFX・コンポジットソフトで、それ以来最大のアップデートとなる。新しいMCP Serverにより、ClaudeやChatGPTといった外部のAIツールと接続できる。ほかにも新しいTileモディファイアのモード、縦書きと日本語組版の改善、Cinema 4D 2027.0からのカメラ・ライト・プリミティブのコピー＆ペースト、Adobe Fontsへの対応が加わった。"
+              },
+              {
+                "t": "p",
+                "x": "Maxonのエフェクトプラグイン群Red Giantには、AI-assistedのリライティング機能が入った。Scene Lightは、AI-generatedの深度マップと法線マップを使ってAfter Effects上でショットのライティングをやり直す。Chromatic DisplacementはAutographでも使えるようになった。Red Giantのフルサブスクリプションは$85/monthまたは$639/yearだ。"
+              },
+              {
+                "t": "p",
+                "x": "ComfyUIでは、NVIDIAのRTXビデオエフェクトがユーザーのGPU上でローカルに動くカスタムノードになった。RTX Video Super Resolutionは動画を最大4xまたは8,192pxまでアップスケールし、Frame Generationはフレームレートを2–16xに高め、HDRノードはSDRをBT.2020 HDRに変換する。ノードの利用にはNVIDIA RTX GPU（フレーム生成にはRTX 40 Series以上）が必要で、ライセンスはApache 2.0-licensed（Apache 2.0）である。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Autograph接入MCP\nRed Giant添AI补光",
+          "body": "Maxon的Autograph现可通过MCP连接Claude或ChatGPT。",
+          "mini_headline": "Autograph新增MCP服务器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "CG Channel每周汇总小型CG软件更新的round-up，本期以Maxon的Autograph 2027.0和Red Giant 2027.0领衔。"
+              },
+              {
+                "t": "p",
+                "x": "Autograph是Maxon今年早些时候免费开放的USD-based（基于USD）动态图形、VFX与合成软件，此次迎来此后最大的一次更新：新的MCP Server可将其与Claude或ChatGPT等外部AI工具连接。其他新增内容包括新的Tile修改器模式、改进的竖排文字与日文排版、从Cinema 4D 2027.0复制粘贴摄像机、灯光和基本体，以及Adobe Fonts支持。"
+              },
+              {
+                "t": "p",
+                "x": "Maxon的特效插件套件Red Giant加入了AI-assisted重新布光系统：Scene Light利用AI-generated深度图和法线图，在After Effects中为镜头重新布光。Chromatic Displacement现已支持Autograph。Red Giant完整订阅价格为$85/month或$639/year。"
+              },
+              {
+                "t": "p",
+                "x": "在ComfyUI中，NVIDIA的RTX视频特效现以自定义节点形式在用户GPU上本地运行：RTX Video Super Resolution可将视频放大至最高4x或8,192px，Frame Generation可将帧率提升2–16x，HDR节点则把SDR转换为BT.2020 HDR。这些节点需要NVIDIA RTX GPU（帧生成需RTX 40 Series或更高），采用Apache 2.0-licensed（Apache 2.0许可）。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Autograph suma un servidor MCP\nRed Giant reilumina con AI",
+          "body": "Autograph de Maxon ya se conecta a Claude o ChatGPT vía MCP, y las herramientas RTX de NVIDIA corren en ComfyUI.",
+          "mini_headline": "Autograph suma un servidor MCP",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "sAsuw-nt-GM"
+              },
+              {
+                "t": "p",
+                "x": "El round-up semanal de CG Channel sobre actualizaciones menores de software CG arranca con Autograph 2027.0 y Red Giant 2027.0 de Maxon."
+              },
+              {
+                "t": "p",
+                "x": "Autograph, el software USD-based (basado en USD) de motion graphics, VFX y composición que Maxon liberó gratis a principios de año, recibe su mayor actualización desde entonces: un nuevo MCP Server lo conecta con herramientas de AI externas como Claude o ChatGPT. Otras novedades son nuevos modos del modificador Tile, mejoras en el texto vertical y la tipografía japonesa, copiar y pegar cámaras, luces y primitivas desde Cinema 4D 2027.0, y compatibilidad con Adobe Fonts."
+              },
+              {
+                "t": "p",
+                "x": "Red Giant, el conjunto de plugins de efectos de Maxon, incorpora un sistema de reiluminación AI-assisted: Scene Light vuelve a iluminar planos en After Effects con mapas de profundidad y de normales AI-generated. Chromatic Displacement ya es compatible con Autograph. La suscripción completa a Red Giant cuesta $85/month o $639/year."
+              },
+              {
+                "t": "p",
+                "x": "En ComfyUI, los efectos de video RTX de NVIDIA funcionan ahora como nodos personalizados de forma local en la GPU del usuario: RTX Video Super Resolution escala el video hasta 4x u 8,192px, Frame Generation multiplica la tasa de fotogramas por 2–16x y un nodo HDR convierte SDR a BT.2020 HDR. Los nodos requieren una NVIDIA RTX GPU (RTX 40 Series o superior para la generación de fotogramas) y son Apache 2.0-licensed (licencia Apache 2.0)."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-wunderui-agentic-ds",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 에이전트용 디자인\n시스템 WunderUI",
+      "body": "WunderUI는 AI 코딩 에이전트도 따르도록 쓴 디자인 시스템이다.",
+      "mini_headline": "에이전트를 위한 디자인 시스템",
       "tool": "Design Tokens",
       "source": "DEV Community",
-      "url": "https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i",
+      "url": "https://dev.to/wunderui/introducing-wunderui-the-agentic-design-system-1oag",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "디자인 시스템은 원래 문서를 읽는 사람을 위한 것이었다. 그런데 이제 UI의 상당 부분은 AI 코딩 에이전트가 쓴다. 에이전트에겐 분명한 규칙과 실제 컴포넌트, 마음대로 벗어날 수 없는 디자인 언어가 필요하다. 저자가 WunderUI를 만든 까닭이다."
+          },
+          {
             "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+            "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
           },
           {
             "t": "p",
-            "x": "Claude나 GPT에 “제대로 된 접근성”을 갖춘 모달 대화상자를 만들어 달라고 하면 role=\"dialog\"와 aria-labelledby 속성은 붙어 나온다. 그런데 포커스 관리가 깨져 VoiceOver 사용자가 모달 안에 갇힌다는 건 뒤늦게야 알게 된다. 코드 생성은 런타임 동작이 아니라 문법적 정확성에 맞춰 최적화돼 있어서다."
+            "x": "청구 대시보드를 만들어 달라고 하면 에이전트는 빈칸을 추측으로 메우기 십상이다. 팔레트에 없는 hex 색상, div로 짠 표, 요소마다 붙은 transition-all, 있지도 않은 props, 아무렇게나 고른 다크 모드 같은 것들이다."
           },
           {
             "t": "p",
-            "x": "plugin87/ux-ui-agent-skills는 모달, 드롭다운, 탭, 캐러셀 등 프로덕션급 컴포넌트 패턴 52개와 객관적 검증 게이트 50개를 묶었다. 결과물이 WCAG 2.2 AA/AAA 요건을 어기면 빌드가 실패한다. 토큰은 W3C DTCG 사양을 따르고 프리미티브는 프레임워크를 가리지 않는다. 포커스 트랩과 키보드 내비게이션은 실행 가능한 테스트(axe-core + Playwright)로 검증한다."
+            "x": "WunderUI는 Figma 디자인 시스템과 React 라이브러리(Base UI 위의 Tailwind CSS v4)를 한 원천에서 같이 내준다. 컴포넌트 205개, 색상·라운드·밀도·모션 토큰, 에이전트가 불러 쓰는 DESIGN.md와 design.json, MCP 서버까지 갖췄다."
+          },
+          {
+            "t": "img",
+            "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
           },
           {
             "t": "p",
-            "x": "생성된 테스트 하나는 주니어 개발자가 리팩터링 중 onCloseAutoFocus를 지워 사용자층의 8%가 키보드 내비게이션을 쓸 수 없게 된 회귀를 잡아냈다. 카드 컴포넌트 23개를 container-query 패턴으로 옮기자 Lighthouse 성능 점수가 78에서 94로 올랐다."
+            "x": "DESIGN.md는 짧고 검증할 수 있는 규칙을 모은 문서다. 색상은 하드코딩하지 않는다, 테마는 토큰을 덮어써서 바꾼다, 모션은 토큰으로만 준다 같은 식이다. 해야 할 작업과 컴포넌트를 짝지은 표도 들어 있다. Agent-UI 컴포넌트(AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError)는 Pro 플랜에 포함된다."
           },
           {
             "t": "p",
-            "x": "한계도 있다. 시각적 회귀 테스트가 없고, DTCG 설정에 2-3시간이 걸릴 수 있다. 한 클라이언트 프로젝트에 삼 주간 써 보니, 수동 QA가 놓친 접근성 회귀 14건을 빌드 게이트가 잡아냈다."
+            "x": "에이전트 스킬은 12개로, 그중 token-check와 motion-audit 등 네 개는 무료다. 컴포넌트 77개는 MIT 라이선스로 무료이고, 나머지 128개와 스킬 전부는 연간 유료 플랜인 Core·Pro에 들어간다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "An agent skill set that blocks\nmerges on WCAG failures",
-          "body": "A review tests ux-ui-agent-skills, which blocks merges for real WCAG violations in a component library.",
-          "mini_headline": "AI accessibility gates",
+          "headline": "WunderUI pitches a design\nsystem built for AI agents",
+          "body": "WunderUI's creator pitches it as a design system written for AI coding agents to follow, not just humans reading docs.",
+          "mini_headline": "A design system for agents",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Design systems were built for humans who read docs. Now much UI is written by AI coding agents, which need explicit rules, real components and a design language they can’t improvise around — that’s why the author built WunderUI."
+              },
+              {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
               },
               {
                 "t": "p",
-                "x": "When you ask Claude or GPT to build a modal dialog with \"proper accessibility,\" you'll get role=\"dialog\" and aria-labelledby attributes — then discover VoiceOver users are trapped inside the modal because focus management is broken. Code generation optimizes for syntactic correctness, not runtime behavior."
+                "x": "Asked for a billing dashboard, agents tend to guess: off-palette hex colors, tables built from divs, transition-all on everything, nonexistent props, hand-picked dark mode."
               },
               {
                 "t": "p",
-                "x": "plugin87/ux-ui-agent-skills packages 52 production-grade component patterns (modals, dropdowns, tabs, carousels) with 50 objective verification gates that fail your build if the output violates WCAG 2.2 AA/AAA requirements. Tokens follow the W3C DTCG spec, primitives are framework-agnostic, and executable tests (axe-core + Playwright) verify focus traps and keyboard navigation."
+                "x": "WunderUI pairs a Figma design system with a React library (Tailwind CSS v4 on Base UI) from one source of truth: 205 components, tokens for color, radius, density and motion, plus a DESIGN.md and design.json agents can fetch and an MCP server."
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
               },
               {
                 "t": "p",
-                "x": "One generated test caught a regression where a junior dev removed onCloseAutoFocus during a refactor, breaking keyboard navigation for 8% of the user base. Lighthouse performance jumped from 78 to 94 after migrating 23 card components to a container-query pattern."
+                "x": "The DESIGN.md is a set of short, testable rules — never hardcode colors, theme by overriding tokens, motion from tokens only — with a task table mapping needs to components. Agent-UI components (AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError) are in the Pro plan."
               },
               {
                 "t": "p",
-                "x": "Limits: no visual regression testing, and the DTCG setup can take 2-3 hours. Over three weeks on a client project, the build gates caught 14 accessibility regressions that manual QA missed."
+                "x": "There are 12 agent skills, four free, such as token-check and motion-audit. 77 components are free under MIT; the other 128 and all skills come with paid yearly Core and Pro plans."
               }
             ]
           }
         },
         "ko": {
-          "headline": "WCAG 위반 시 머지를\n막는 에이전트 스킬",
-          "body": "ux-ui-agent-skills는 실제 WCAG 위반이 있으면 머지를 막는다.",
-          "mini_headline": "AI 접근성 게이트",
+          "headline": "AI 에이전트용 디자인\n시스템 WunderUI",
+          "body": "WunderUI는 AI 코딩 에이전트도 따르도록 쓴 디자인 시스템이다.",
+          "mini_headline": "에이전트를 위한 디자인 시스템",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "디자인 시스템은 원래 문서를 읽는 사람을 위한 것이었다. 그런데 이제 UI의 상당 부분은 AI 코딩 에이전트가 쓴다. 에이전트에겐 분명한 규칙과 실제 컴포넌트, 마음대로 벗어날 수 없는 디자인 언어가 필요하다. 저자가 WunderUI를 만든 까닭이다."
+              },
+              {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
               },
               {
                 "t": "p",
-                "x": "Claude나 GPT에 “제대로 된 접근성”을 갖춘 모달 대화상자를 만들어 달라고 하면 role=\"dialog\"와 aria-labelledby 속성은 붙어 나온다. 그런데 포커스 관리가 깨져 VoiceOver 사용자가 모달 안에 갇힌다는 건 뒤늦게야 알게 된다. 코드 생성은 런타임 동작이 아니라 문법적 정확성에 맞춰 최적화돼 있어서다."
+                "x": "청구 대시보드를 만들어 달라고 하면 에이전트는 빈칸을 추측으로 메우기 십상이다. 팔레트에 없는 hex 색상, div로 짠 표, 요소마다 붙은 transition-all, 있지도 않은 props, 아무렇게나 고른 다크 모드 같은 것들이다."
               },
               {
                 "t": "p",
-                "x": "plugin87/ux-ui-agent-skills는 모달, 드롭다운, 탭, 캐러셀 등 프로덕션급 컴포넌트 패턴 52개와 객관적 검증 게이트 50개를 묶었다. 결과물이 WCAG 2.2 AA/AAA 요건을 어기면 빌드가 실패한다. 토큰은 W3C DTCG 사양을 따르고 프리미티브는 프레임워크를 가리지 않는다. 포커스 트랩과 키보드 내비게이션은 실행 가능한 테스트(axe-core + Playwright)로 검증한다."
+                "x": "WunderUI는 Figma 디자인 시스템과 React 라이브러리(Base UI 위의 Tailwind CSS v4)를 한 원천에서 같이 내준다. 컴포넌트 205개, 색상·라운드·밀도·모션 토큰, 에이전트가 불러 쓰는 DESIGN.md와 design.json, MCP 서버까지 갖췄다."
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
               },
               {
                 "t": "p",
-                "x": "생성된 테스트 하나는 주니어 개발자가 리팩터링 중 onCloseAutoFocus를 지워 사용자층의 8%가 키보드 내비게이션을 쓸 수 없게 된 회귀를 잡아냈다. 카드 컴포넌트 23개를 container-query 패턴으로 옮기자 Lighthouse 성능 점수가 78에서 94로 올랐다."
+                "x": "DESIGN.md는 짧고 검증할 수 있는 규칙을 모은 문서다. 색상은 하드코딩하지 않는다, 테마는 토큰을 덮어써서 바꾼다, 모션은 토큰으로만 준다 같은 식이다. 해야 할 작업과 컴포넌트를 짝지은 표도 들어 있다. Agent-UI 컴포넌트(AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError)는 Pro 플랜에 포함된다."
               },
               {
                 "t": "p",
-                "x": "한계도 있다. 시각적 회귀 테스트가 없고, DTCG 설정에 2-3시간이 걸릴 수 있다. 한 클라이언트 프로젝트에 삼 주간 써 보니, 수동 QA가 놓친 접근성 회귀 14건을 빌드 게이트가 잡아냈다."
+                "x": "에이전트 스킬은 12개로, 그중 token-check와 motion-audit 등 네 개는 무료다. 컴포넌트 77개는 MIT 라이선스로 무료이고, 나머지 128개와 스킬 전부는 연간 유료 플랜인 Core·Pro에 들어간다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WCAG違反でマージを\n止めるエージェントスキル",
-          "body": "レビューによると、ux-ui-agent-skillsはWCAG違反でマージを止める。",
-          "mini_headline": "AIアクセシビリティゲート",
+          "headline": "WunderUIが提案する\nAI向けデザインシステム",
+          "body": "WunderUIは、AIコーディングエージェントが従うために書かれたデザインシステムだ。",
+          "mini_headline": "エージェントのためのデザインシステム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "デザインシステムは、ドキュメントを読む人間のために作られてきた。いまやUIの多くはAIコーディングエージェントが書いており、エージェントには明確なルール、実際のコンポーネント、勝手にアレンジできないデザイン言語が必要だ。著者がWunderUIを作った理由はそこにある。"
+              },
+              {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
               },
               {
                 "t": "p",
-                "x": "ClaudeやGPTに「適切なアクセシビリティ」を備えたモーダルダイアログを作らせると、role=\"dialog\"やaria-labelledby属性は付いてくる。だが、フォーカス管理が壊れているせいでVoiceOverユーザーがモーダル内に閉じ込められることに、後から気づく。コード生成が最適化するのは構文上の正しさであって、実行時の振る舞いではない。"
+                "x": "請求ダッシュボードを頼むと、エージェントは推測で埋めがちだ。パレット外のhexカラー、divで組んだテーブル、あらゆる要素へのtransition-all、存在しないprops、適当に選んだダークモードなどである。"
               },
               {
                 "t": "p",
-                "x": "plugin87/ux-ui-agent-skillsは、モーダル、ドロップダウン、タブ、カルーセルなど本番品質のコンポーネントパターン52種と、出力がWCAG 2.2 AA/AAAの要件に違反するとビルドを失敗させる客観的な検証ゲート50個をまとめたものだ。トークンはW3C DTCG仕様に準拠し、プリミティブはフレームワークに依存しない。実行可能なテスト(axe-core + Playwright)がフォーカストラップとキーボード操作を検証する。"
+                "x": "WunderUIは、FigmaのデザインシステムとReactライブラリ（Base UI上のTailwind CSS v4）を単一の情報源から提供する。205のコンポーネント、色・角丸・密度・モーションのトークンに加え、エージェントが取得できるDESIGN.mdとdesign.json、そしてMCPサーバーを備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
               },
               {
                 "t": "p",
-                "x": "生成されたテストのひとつは、ジュニア開発者がリファクタリング中にonCloseAutoFocusを削除し、ユーザーの8%でキーボード操作が壊れた回帰を検出した。カードコンポーネント23個をcontainer-queryパターンに移行すると、Lighthouseのパフォーマンスは78から94に上がった。"
+                "x": "DESIGN.mdは短くテスト可能なルールの集まりだ。色をハードコードしない、トークンの上書きでテーマを変える、モーションはトークンのみから、といった内容に加え、必要な作業とコンポーネントを対応づけるタスク表もある。Agent-UIコンポーネント（AgentStatus、RunTimeline、ApprovalCard、CostMeter、RunError）はProプランに含まれる。"
               },
               {
                 "t": "p",
-                "x": "制約もある。ビジュアル回帰テストはなく、DTCGのセットアップには2-3時間かかることがある。あるクライアント案件で三週間使ったところ、ビルドゲートは手動QAが見逃したアクセシビリティの回帰を14件検出した。"
+                "x": "エージェントスキルは12個あり、token-checkやmotion-auditなど四つは無料だ。77のコンポーネントはMITライセンスで無料で、残る128個とすべてのスキルは有料の年額CoreプランとProプランで提供される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "这套智能体技能\n遇WCAG违规就拦合并",
-          "body": "评测显示，ux-ui-agent-skills会在组件库出现WCAG违规时阻止合并。",
-          "mini_headline": "AI无障碍门禁",
+          "headline": "WunderUI主打\n面向AI智能体的设计系统",
+          "body": "WunderUI的作者称，它是写给AI编程智能体遵循的设计系统，而不只是给读文档的人。",
+          "mini_headline": "为智能体打造的设计系统",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "设计系统原本是为阅读文档的人类打造的。如今大量UI由AI编程智能体编写，它们需要明确的规则、真实的组件，以及无法随意发挥的设计语言——这正是作者打造WunderUI的原因。"
+              },
+              {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
               },
               {
                 "t": "p",
-                "x": "当你让Claude或GPT做一个“具备完善无障碍”的模态对话框时，你会得到role=\"dialog\"和aria-labelledby属性——随后才发现，由于焦点管理失效，VoiceOver用户被困在模态框里。代码生成优化的是语法正确性，而不是运行时行为。"
+                "x": "让智能体做一个账单仪表盘，它们往往会靠猜：超出调色板的hex颜色、用div拼出的表格、处处都是transition-all、不存在的props、随手挑选的深色模式。"
               },
               {
                 "t": "p",
-                "x": "plugin87/ux-ui-agent-skills打包了52个生产级组件模式（模态框、下拉菜单、标签页、轮播），以及50个客观验证门禁，一旦输出违反WCAG 2.2 AA/AAA要求，构建就会失败。令牌遵循W3C DTCG规范，基础组件与框架无关，可执行测试（axe-core + Playwright）会验证焦点陷阱和键盘导航。"
+                "x": "WunderUI以单一可信来源，将Figma设计系统与React组件库（基于Base UI的Tailwind CSS v4）配套提供：205个组件，涵盖颜色、圆角、密度和动效的令牌，外加智能体可直接获取的DESIGN.md和design.json，以及一个MCP服务器。"
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
               },
               {
                 "t": "p",
-                "x": "其中一个生成的测试捕捉到一次回归：一名初级开发者在重构时删除了onCloseAutoFocus，导致8%的用户键盘导航失效。把23个卡片组件迁移到container-query模式后，Lighthouse性能分从78升至94。"
+                "x": "DESIGN.md是一组简短、可测试的规则——绝不硬编码颜色、通过覆盖令牌来设定主题、动效只取自令牌——并附有一张将需求对应到组件的任务表。Agent-UI组件（AgentStatus、RunTimeline、ApprovalCard、CostMeter、RunError）包含在Pro方案中。"
               },
               {
                 "t": "p",
-                "x": "局限在于：没有视觉回归测试，DTCG配置可能需要2-3小时。在一个客户项目中使用三周后，构建门禁拦下了人工QA遗漏的14个无障碍回归问题。"
+                "x": "共有12项智能体技能，其中token-check和motion-audit等四项免费。77个组件以MIT许可免费提供；其余128个组件和全部技能需购买按年付费的Core和Pro方案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Skills de agente que bloquean\nfusiones si falla WCAG",
-          "body": "Una reseña prueba ux-ui-agent-skills, que bloquea fusiones ante violaciones reales de WCAG en componentes.",
-          "mini_headline": "Puertas de accesibilidad con AI",
+          "headline": "WunderUI propone un sistema\nde diseño para agentes de IA",
+          "body": "Su creador presenta WunderUI como un sistema de diseño escrito para agentes de código con IA, no solo para humanos.",
+          "mini_headline": "Un sistema de diseño para agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Los sistemas de diseño se crearon para personas que leen documentación. Hoy buena parte de la UI la escriben agentes de programación con IA (AI), que necesitan reglas explícitas, componentes reales y un lenguaje de diseño que no puedan improvisar; por eso el autor creó WunderUI."
+              },
+              {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
               },
               {
                 "t": "p",
-                "x": "Si le pides a Claude o a GPT que construya un diálogo modal con \"accesibilidad adecuada\", obtendrás atributos role=\"dialog\" y aria-labelledby, y luego descubrirás que los usuarios de VoiceOver quedan atrapados dentro del modal porque la gestión del foco falla. La generación de código optimiza la corrección sintáctica, no el comportamiento en tiempo de ejecución."
+                "x": "Si se les pide un panel de facturación, los agentes tienden a adivinar: colores hex fuera de la paleta, tablas hechas con div, transition-all en todo, props inexistentes, modo oscuro elegido a mano."
               },
               {
                 "t": "p",
-                "x": "plugin87/ux-ui-agent-skills reúne 52 patrones de componentes de nivel de producción (modales, menús desplegables, pestañas, carruseles) con 50 puertas de verificación objetivas que hacen fallar la compilación si el resultado incumple los requisitos de WCAG 2.2 AA/AAA. Los tokens siguen la especificación W3C DTCG, las primitivas son independientes del framework y las pruebas ejecutables (axe-core + Playwright) verifican las trampas de foco y la navegación por teclado."
+                "x": "WunderUI combina un sistema de diseño en Figma con una biblioteca de React (Tailwind CSS v4 sobre Base UI) a partir de una única fuente de verdad: 205 componentes, tokens de color, radio, densidad y movimiento, además de un DESIGN.md y un design.json que los agentes pueden consultar, y un servidor MCP."
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
               },
               {
                 "t": "p",
-                "x": "Una prueba generada detectó una regresión en la que un desarrollador junior eliminó onCloseAutoFocus durante una refactorización, lo que rompió la navegación por teclado para el 8% de los usuarios. El rendimiento en Lighthouse pasó de 78 a 94 tras migrar 23 componentes de tarjeta a un patrón container-query."
+                "x": "El DESIGN.md es un conjunto de reglas breves y comprobables —nunca fijar colores en el código, aplicar temas sobrescribiendo tokens, movimiento solo desde tokens— con una tabla de tareas que relaciona necesidades con componentes. Los componentes Agent-UI (AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError) están en el plan Pro."
               },
               {
                 "t": "p",
-                "x": "Limitaciones: no hay pruebas de regresión visual y la configuración de DTCG puede llevar 2-3 horas. Durante tres semanas en un proyecto para un cliente, las puertas de compilación detectaron 14 regresiones de accesibilidad que el QA manual pasó por alto."
+                "x": "Hay 12 habilidades para agentes, cuatro de ellas gratuitas, como token-check y motion-audit. 77 componentes son gratuitos bajo licencia MIT; los otros 128 y todas las habilidades se incluyen en los planes anuales de pago Core y Pro."
               }
             ]
           }
@@ -1249,121 +1267,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "WCAG 위반 시 머지를\n막는 에이전트 스킬",
-          "body": "ux-ui-agent-skills는 실제 WCAG 위반이 있으면 머지를 막는다.",
-          "mini_headline": "AI 접근성 게이트",
+          "headline": "AI 에이전트용 디자인\n시스템 WunderUI",
+          "body": "WunderUI는 AI 코딩 에이전트도 따르도록 쓴 디자인 시스템이다.",
+          "mini_headline": "에이전트를 위한 디자인 시스템",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "디자인 시스템은 문서를 읽는 사람을 위해 만들어졌다. 이제 UI의 상당 부분은 AI 코딩 에이전트가 쓰는데, 에이전트에게는 명확한 규칙과 실제 컴포넌트, 임의로 벗어날 수 없는 디자인 언어가 필요하다. 저자가 WunderUI를 만든 이유다."
+              },
+              {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
               },
               {
                 "t": "p",
-                "x": "Claude나 GPT에 “제대로 된 접근성”을 갖춘 모달 대화상자를 만들어 달라고 하면 role=\"dialog\"와 aria-labelledby 속성은 붙어 나온다. 그런데 포커스 관리가 깨져 VoiceOver 사용자가 모달 안에 갇힌다는 사실을 뒤늦게 알게 된다. 코드 생성은 런타임 동작이 아니라 문법적 정확성을 기준으로 최적화하기 때문이다."
+                "x": "청구 대시보드를 요청하면 에이전트는 추측으로 채우기 쉽다. 팔레트에 없는 hex 색상, div로 짠 표, 모든 요소에 붙은 transition-all, 존재하지 않는 props, 임의로 고른 다크 모드가 그 예다."
               },
               {
                 "t": "p",
-                "x": "plugin87/ux-ui-agent-skills는 모달, 드롭다운, 탭, 캐러셀 등 프로덕션급 컴포넌트 패턴 52개와 객관적 검증 게이트 50개를 묶었다. 결과물이 WCAG 2.2 AA/AAA 요건을 어기면 빌드가 실패한다. 토큰은 W3C DTCG 사양을 따르고, 프리미티브는 프레임워크에 얽매이지 않으며, 실행 가능한 테스트(axe-core + Playwright)가 포커스 트랩과 키보드 내비게이션을 검증한다."
+                "x": "WunderUI는 Figma 디자인 시스템과 React 라이브러리(Base UI 위의 Tailwind CSS v4)를 하나의 원천에서 함께 제공한다. 205개 컴포넌트, 색상·라운드·밀도·모션 토큰, 에이전트가 불러올 수 있는 DESIGN.md와 design.json, 그리고 MCP 서버를 갖췄다."
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
               },
               {
                 "t": "p",
-                "x": "생성된 테스트 하나는 주니어 개발자가 리팩터링 중 onCloseAutoFocus를 지워 사용자층의 8%가 키보드 내비게이션을 쓸 수 없게 된 회귀를 잡아냈다. 카드 컴포넌트 23개를 container-query 패턴으로 옮긴 뒤 Lighthouse 성능 점수는 78에서 94로 올랐다."
+                "x": "DESIGN.md는 짧고 검증 가능한 규칙 모음이다. 색상을 하드코딩하지 말 것, 토큰을 덮어써 테마를 바꿀 것, 모션은 토큰으로만 줄 것 등이며, 필요한 작업을 컴포넌트에 연결하는 작업 표도 담겼다. Agent-UI 컴포넌트(AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError)는 Pro 플랜에 들어 있다."
               },
               {
                 "t": "p",
-                "x": "한계도 있다. 시각적 회귀 테스트가 없고, DTCG 설정에 2-3시간이 걸릴 수 있다. 한 클라이언트 프로젝트에서 삼 주 동안 써 보니 빌드 게이트가 수동 QA가 놓친 접근성 회귀 14건을 잡아냈다."
+                "x": "에이전트 스킬은 12개이며, token-check와 motion-audit 등 네 개는 무료다. 컴포넌트 77개는 MIT 라이선스로 무료이고, 나머지 128개와 모든 스킬은 유료 연간 Core·Pro 플랜에 포함된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WCAG違反でマージを\n止めるエージェントスキル",
-          "body": "レビューによると、ux-ui-agent-skillsはWCAG違反でマージを止める。",
-          "mini_headline": "AIアクセシビリティゲート",
+          "headline": "WunderUIが提案する\nAI向けデザインシステム",
+          "body": "WunderUIは、AIコーディングエージェントが従うために書かれたデザインシステムだ。",
+          "mini_headline": "エージェントのためのデザインシステム",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "デザインシステムは、ドキュメントを読む人間のために作られてきた。いまやUIの多くはAIコーディングエージェントが書いており、エージェントには明確なルール、実際のコンポーネント、勝手にアレンジできないデザイン言語が必要だ。著者がWunderUIを作った理由はそこにある。"
+              },
+              {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
               },
               {
                 "t": "p",
-                "x": "ClaudeやGPTに「適切なアクセシビリティ」を備えたモーダルダイアログを作らせると、role=\"dialog\"やaria-labelledby属性は付いてくる。だが、フォーカス管理が壊れているせいでVoiceOverユーザーがモーダル内に閉じ込められることに、後から気づく。コード生成が最適化するのは構文上の正しさであって、実行時の振る舞いではない。"
+                "x": "請求ダッシュボードを頼むと、エージェントは推測で埋めがちだ。パレット外のhexカラー、divで組んだテーブル、あらゆる要素へのtransition-all、存在しないprops、適当に選んだダークモードなどである。"
               },
               {
                 "t": "p",
-                "x": "plugin87/ux-ui-agent-skillsは、モーダル、ドロップダウン、タブ、カルーセルなど本番品質のコンポーネントパターン52種と、出力がWCAG 2.2 AA/AAAの要件に違反するとビルドを失敗させる客観的な検証ゲート50個をまとめたものだ。トークンはW3C DTCG仕様に準拠し、プリミティブはフレームワークに依存しない。実行可能なテスト(axe-core + Playwright)がフォーカストラップとキーボード操作を検証する。"
+                "x": "WunderUIは、FigmaのデザインシステムとReactライブラリ（Base UI上のTailwind CSS v4）を単一の情報源から提供する。205のコンポーネント、色・角丸・密度・モーションのトークンに加え、エージェントが取得できるDESIGN.mdとdesign.json、そしてMCPサーバーを備える。"
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
               },
               {
                 "t": "p",
-                "x": "生成されたテストのひとつは、ジュニア開発者がリファクタリング中にonCloseAutoFocusを削除し、ユーザーの8%でキーボード操作が壊れた回帰を検出した。カードコンポーネント23個をcontainer-queryパターンに移行すると、Lighthouseのパフォーマンスは78から94に上がった。"
+                "x": "DESIGN.mdは短くテスト可能なルールの集まりだ。色をハードコードしない、トークンの上書きでテーマを変える、モーションはトークンのみから、といった内容に加え、必要な作業とコンポーネントを対応づけるタスク表もある。Agent-UIコンポーネント（AgentStatus、RunTimeline、ApprovalCard、CostMeter、RunError）はProプランに含まれる。"
               },
               {
                 "t": "p",
-                "x": "制約もある。ビジュアル回帰テストはなく、DTCGのセットアップには2-3時間かかることがある。あるクライアント案件で三週間使ったところ、ビルドゲートは手動QAが見逃したアクセシビリティの回帰を14件検出した。"
+                "x": "エージェントスキルは12個あり、token-checkやmotion-auditなど四つは無料だ。77のコンポーネントはMITライセンスで無料で、残る128個とすべてのスキルは有料の年額CoreプランとProプランで提供される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "这套智能体技能\n遇WCAG违规就拦合并",
-          "body": "评测显示，ux-ui-agent-skills会在组件库出现WCAG违规时阻止合并。",
-          "mini_headline": "AI无障碍门禁",
+          "headline": "WunderUI主打\n面向AI智能体的设计系统",
+          "body": "WunderUI的作者称，它是写给AI编程智能体遵循的设计系统，而不只是给读文档的人。",
+          "mini_headline": "为智能体打造的设计系统",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "设计系统原本是为阅读文档的人类打造的。如今大量UI由AI编程智能体编写，它们需要明确的规则、真实的组件，以及无法随意发挥的设计语言——这正是作者打造WunderUI的原因。"
+              },
+              {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
               },
               {
                 "t": "p",
-                "x": "当你让Claude或GPT做一个“具备完善无障碍”的模态对话框时，你会得到role=\"dialog\"和aria-labelledby属性——随后才发现，由于焦点管理失效，VoiceOver用户被困在模态框里。代码生成优化的是语法正确性，而不是运行时行为。"
+                "x": "让智能体做一个账单仪表盘，它们往往会靠猜：超出调色板的hex颜色、用div拼出的表格、处处都是transition-all、不存在的props、随手挑选的深色模式。"
               },
               {
                 "t": "p",
-                "x": "plugin87/ux-ui-agent-skills打包了52个生产级组件模式（模态框、下拉菜单、标签页、轮播），以及50个客观验证门禁，一旦输出违反WCAG 2.2 AA/AAA要求，构建就会失败。令牌遵循W3C DTCG规范，基础组件与框架无关，可执行测试（axe-core + Playwright）会验证焦点陷阱和键盘导航。"
+                "x": "WunderUI以单一可信来源，将Figma设计系统与React组件库（基于Base UI的Tailwind CSS v4）配套提供：205个组件，涵盖颜色、圆角、密度和动效的令牌，外加智能体可直接获取的DESIGN.md和design.json，以及一个MCP服务器。"
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
               },
               {
                 "t": "p",
-                "x": "其中一个生成的测试捕捉到一次回归：一名初级开发者在重构时删除了onCloseAutoFocus，导致8%的用户键盘导航失效。把23个卡片组件迁移到container-query模式后，Lighthouse性能分从78升至94。"
+                "x": "DESIGN.md是一组简短、可测试的规则——绝不硬编码颜色、通过覆盖令牌来设定主题、动效只取自令牌——并附有一张将需求对应到组件的任务表。Agent-UI组件（AgentStatus、RunTimeline、ApprovalCard、CostMeter、RunError）包含在Pro方案中。"
               },
               {
                 "t": "p",
-                "x": "局限在于：没有视觉回归测试，DTCG配置可能需要2-3小时。在一个客户项目中使用三周后，构建门禁拦下了人工QA遗漏的14个无障碍回归问题。"
+                "x": "共有12项智能体技能，其中token-check和motion-audit等四项免费。77个组件以MIT许可免费提供；其余128个组件和全部技能需购买按年付费的Core和Pro方案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Skills de agente que bloquean\nfusiones si falla WCAG",
-          "body": "Una reseña prueba ux-ui-agent-skills, que bloquea fusiones ante violaciones reales de WCAG en componentes.",
-          "mini_headline": "Puertas de accesibilidad con AI",
+          "headline": "WunderUI propone un sistema\nde diseño para agentes de IA",
+          "body": "Su creador presenta WunderUI como un sistema de diseño escrito para agentes de código con IA, no solo para humanos.",
+          "mini_headline": "Un sistema de diseño para agentes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "Los sistemas de diseño se crearon para personas que leen documentación. Hoy buena parte de la UI la escriben agentes de programación con IA (AI), que necesitan reglas explícitas, componentes reales y un lenguaje de diseño que no puedan improvisar; por eso el autor creó WunderUI."
+              },
+              {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fopengraph.githubassets.com%2F1%2Fplugin87%2Fux-ui-agent-skills"
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
               },
               {
                 "t": "p",
-                "x": "Si le pides a Claude o a GPT que construya un diálogo modal con \"accesibilidad adecuada\", obtendrás atributos role=\"dialog\" y aria-labelledby, y luego descubrirás que los usuarios de VoiceOver quedan atrapados dentro del modal porque la gestión del foco falla. La generación de código optimiza la corrección sintáctica, no el comportamiento en tiempo de ejecución."
+                "x": "Si se les pide un panel de facturación, los agentes tienden a adivinar: colores hex fuera de la paleta, tablas hechas con div, transition-all en todo, props inexistentes, modo oscuro elegido a mano."
               },
               {
                 "t": "p",
-                "x": "plugin87/ux-ui-agent-skills reúne 52 patrones de componentes de nivel de producción (modales, menús desplegables, pestañas, carruseles) con 50 puertas de verificación objetivas que hacen fallar la compilación si el resultado incumple los requisitos de WCAG 2.2 AA/AAA. Los tokens siguen la especificación W3C DTCG, las primitivas son independientes del framework y las pruebas ejecutables (axe-core + Playwright) verifican las trampas de foco y la navegación por teclado."
+                "x": "WunderUI combina un sistema de diseño en Figma con una biblioteca de React (Tailwind CSS v4 sobre Base UI) a partir de una única fuente de verdad: 205 componentes, tokens de color, radio, densidad y movimiento, además de un DESIGN.md y un design.json que los agentes pueden consultar, y un servidor MCP."
+              },
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
               },
               {
                 "t": "p",
-                "x": "Una prueba generada detectó una regresión en la que un desarrollador junior eliminó onCloseAutoFocus durante una refactorización, lo que rompió la navegación por teclado para el 8% de los usuarios. El rendimiento en Lighthouse pasó de 78 a 94 tras migrar 23 componentes de tarjeta a un patrón container-query."
+                "x": "El DESIGN.md es un conjunto de reglas breves y comprobables —nunca fijar colores en el código, aplicar temas sobrescribiendo tokens, movimiento solo desde tokens— con una tabla de tareas que relaciona necesidades con componentes. Los componentes Agent-UI (AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError) están en el plan Pro."
               },
               {
                 "t": "p",
-                "x": "Limitaciones: no hay pruebas de regresión visual y la configuración de DTCG puede llevar 2-3 horas. Durante tres semanas en un proyecto para un cliente, las puertas de compilación detectaron 14 regresiones de accesibilidad que el QA manual pasó por alto."
+                "x": "Hay 12 habilidades para agentes, cuatro de ellas gratuitas, como token-check y motion-audit. 77 componentes son gratuitos bajo licencia MIT; los otros 128 y todas las habilidades se incluyen en los planes anuales de pago Core y Pro."
               }
             ]
           }
@@ -1371,255 +1421,225 @@
       }
     },
     {
-      "id": "design-material-you-ship",
+      "id": "design-ai-photo-false-memory",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "브라우저에서 디자인하라\n출시할 재료 그대로",
-      "body": "AI가 코드를 쓰니 디자이너는 실제 데이터를 넣고 브라우저에서 디자인한다.",
-      "mini_headline": "출시할 재료로 디자인하기",
-      "tool": "Figma",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee",
-      "accent": "#0070f3",
+      "headline": "AI-edited 사진이\n가짜 기억을 심는다",
+      "body": "MIT 연구에 따르면 AI-edited 사진·영상은 거짓 기억과 확신을 키운다.",
+      "mini_headline": "AI 편집이 거짓 기억을 심는다",
+      "tool": "AI Workflow",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/19/ai-edited-photos-can-lead-people-to-form-fake-memories/",
+      "accent": "#3b6bff",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
-            "cap": "디자인 파일의 카드와 실제 데이터를 넣은 브라우저의 카드는 같은 카드다."
+            "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+            "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
           },
           {
             "t": "p",
-            "x": "디자이너는 건축가가 돌을 이해하듯 코드를 이해해야 한다. 어떻게 깎는지가 아니라 무엇을 할 수 있는지를 알아야 한다. 이제 깎는 일은 AI가 한다."
+            "x": "The Washington Post가 보도한 MIT Media Lab 실험에 따르면, AI-edited 사진과 영상은 거짓 기억을 심을 뿐 아니라 사람들이 사건을 틀린 모습 그대로 더 확신하게 만든다."
           },
           {
             "t": "p",
-            "x": "디자인 파일은 그림이다. 상태 하나, 너비 하나, 언어 하나를 디자이너가 직접 넣은 데이터로만 보여 준다. 제품은 그 밖의 모든 상태다. 긴 이름, 불러오지 못한 사진, 빈 목록, 사 초가 걸리는 요청, 키보드 사용자, 320픽셀 폰까지."
+            "x": "Pattie Maes 교수 연구진은 참가자에게 결혼식, 도시 거리, 경주 같은 평범한 사진 24장을 보여 줬다. 잠깐 쉬게 한 뒤 일부에게는 원본을 다시, 나머지에게는 AI-altered 버전을 보여 줬다. 변형본을 본 사람들은 세부를 잘못 기억할 가능성이 더 컸고 틀린 답에도 더 확신을 보였다. Maes는 “기본적으로 이 모든 게 매우 위험하다고 본다”고 말했다."
           },
           {
             "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
-            "cap": "디자인 파일이 한 번도 보여 주지 않은 상태는 여섯 가지다."
+            "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+            "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
           },
           {
             "t": "p",
-            "x": "버튼 하나를 코드로 131가지 변형까지 만들어 보니 ‘촉감 있는(tactile)’이라는 형용사가 엔지니어가 구현할 숫자로 바뀌었다. 필자의 제품 팀은 코드로 만든 프로토타입을 놓고 리뷰한다. 디자인 파일은 회차가 끝날 때마다 코드에서 다시 뽑아 거울처럼 쓴다."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
-            "cap": "전과 후를 나란히 보면 무엇이 기준 산출물인지 보인다."
+            "x": "CHI 2025에 실린 논문에서는 참가자 200명을 50명씩 네 그룹으로 나눴다. 각 그룹이 본 것은 원본, AI-edited 이미지, 원본을 다섯 초 분량으로 만든 AI 영상, 편집 이미지로 만든 AI 영상이다. AI를 거친 세 그룹은 모두 대조군보다 거짓 기억이 많았다. 편집 이미지 영상 그룹은 거짓 기억이 2.05배 많았고 확신도 1.19배 높았다."
           },
           {
             "t": "p",
-            "x": "“디자이너도 코딩해야 한다”는 말은 수명을 다했다. 코드는 AI가 쓴다. 코드를 읽는 AI 리뷰 도구도 있다. 한 벤치마크에서는 가장 뛰어난 도구가 실제 버그 122개 중 84개를 잡았다. 그래도 시스템을 맡은 엔지니어의 책임은 그대로다. 디자이너가 넘길 수 없는 것은 이해다. 320픽셀 화면, 가장 긴 실제 이름, 느린 네트워크와 키보드로 직접 돌려 보고 결과물을 판단해야 한다."
+            "x": "Wharton의 Gideon Nave는 AI가 주도권을 쥐는 일보다 인간이 “쇠퇴하기 시작하는” 일을 더 걱정한다. 그가 우려하는 건 “생각이 선택 사항이 되는” 세상이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Design in the browser,\nin the material you ship",
-          "body": "With AI now writing the code, designers can design in the browser with real data rather than in a static file.",
-          "mini_headline": "Design in what you ship",
+          "headline": "AI-edited photos can\nplant false memories",
+          "body": "An MIT Media Lab study finds AI-edited photos and videos plant false memories and make people surer of the wrong version.",
+          "mini_headline": "AI edits plant false memories",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
-                "cap": "The same card in the design file and in the browser with real data."
+                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+                "cap": "Images used in an MIT Media Lab experiment on AI-edited photos and memory. | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "Designers should understand code the way an architect understands stone: what it can do, not how to cut it. AI now does the cutting."
+                "x": "AI-edited photographs and videos create false memories and make people even more confident about the wrong version of an event, according to an MIT Media Lab experiment reported by The Washington Post."
               },
               {
                 "t": "p",
-                "x": "A design file is a drawing. It shows one state, at one width, in one language, with the data the designer typed in. The product is every other state: the long name, the failed photo, the empty list, the four-second request, the keyboard user, the 320-pixel phone."
+                "x": "Professor Pattie Maes and colleagues showed participants 24 ordinary photographs — a wedding, a city street, a race. After a break, some saw the originals again while others saw AI-altered versions. Those who saw altered versions were more likely to misremember details, and more confident in their wrong answers. “I think of all this as very dangerous, basically,” Maes said."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
-                "cap": "Six states the design file never showed."
+                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+                "cap": "Images used in an MIT Media Lab experiment on AI-edited photos and memory. | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "Building 131 variations of one button in code turned an adjective (tactile) into numbers an engineer can build. On the author's product team, the prototype in code is what gets reviewed; the design file is regenerated from the code after each pass, as a mirror."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
-                "cap": "Before and after: which artifact is the source of truth."
+                "x": "In the paper, published at CHI 2025, 200 participants were split into four groups of 50: originals, AI-edited images, five-second AI videos of the originals, and AI videos of the edited images. All three AI groups formed more false memories than the control; the edited-image video group produced 2.05 times as many, with 1.19 times the confidence."
               },
               {
                 "t": "p",
-                "x": "“Designers should code” is over, because AI writes the code. AI review tools read it too — in one benchmark the best caught 84 of 122 real bugs — while the engineer who owns the system stays accountable. What the designer can't delegate is understanding: judge the output by running it at 320 pixels, with the longest real name, a slow network and a keyboard."
+                "x": "Wharton’s Gideon Nave worries less about AI taking over than humans “starting to decay,” fearing a world where “thinking becomes optional.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "브라우저에서 디자인하라\n출시할 재료 그대로",
-          "body": "AI가 코드를 쓰니 디자이너는 실제 데이터를 넣고 브라우저에서 디자인한다.",
-          "mini_headline": "출시할 재료로 디자인하기",
+          "headline": "AI-edited 사진이\n가짜 기억을 심는다",
+          "body": "MIT 연구에 따르면 AI-edited 사진·영상은 거짓 기억과 확신을 키운다.",
+          "mini_headline": "AI 편집이 거짓 기억을 심는다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
-                "cap": "디자인 파일의 카드와 실제 데이터를 넣은 브라우저의 카드는 같은 카드다."
+                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+                "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "디자이너는 건축가가 돌을 이해하듯 코드를 이해해야 한다. 어떻게 깎는지가 아니라 무엇을 할 수 있는지를 알아야 한다. 이제 깎는 일은 AI가 한다."
+                "x": "The Washington Post가 보도한 MIT Media Lab 실험에 따르면, AI-edited 사진과 영상은 거짓 기억을 심을 뿐 아니라 사람들이 사건을 틀린 모습 그대로 더 확신하게 만든다."
               },
               {
                 "t": "p",
-                "x": "디자인 파일은 그림이다. 상태 하나, 너비 하나, 언어 하나를 디자이너가 직접 넣은 데이터로만 보여 준다. 제품은 그 밖의 모든 상태다. 긴 이름, 불러오지 못한 사진, 빈 목록, 사 초가 걸리는 요청, 키보드 사용자, 320픽셀 폰까지."
+                "x": "Pattie Maes 교수 연구진은 참가자에게 결혼식, 도시 거리, 경주 같은 평범한 사진 24장을 보여 줬다. 잠깐 쉬게 한 뒤 일부에게는 원본을 다시, 나머지에게는 AI-altered 버전을 보여 줬다. 변형본을 본 사람들은 세부를 잘못 기억할 가능성이 더 컸고 틀린 답에도 더 확신을 보였다. Maes는 “기본적으로 이 모든 게 매우 위험하다고 본다”고 말했다."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
-                "cap": "디자인 파일이 한 번도 보여 주지 않은 상태는 여섯 가지다."
+                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+                "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "버튼 하나를 코드로 131가지 변형까지 만들어 보니 ‘촉감 있는(tactile)’이라는 형용사가 엔지니어가 구현할 숫자로 바뀌었다. 필자의 제품 팀은 코드로 만든 프로토타입을 놓고 리뷰한다. 디자인 파일은 회차가 끝날 때마다 코드에서 다시 뽑아 거울처럼 쓴다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
-                "cap": "전과 후를 나란히 보면 무엇이 기준 산출물인지 보인다."
+                "x": "CHI 2025에 실린 논문에서는 참가자 200명을 50명씩 네 그룹으로 나눴다. 각 그룹이 본 것은 원본, AI-edited 이미지, 원본을 다섯 초 분량으로 만든 AI 영상, 편집 이미지로 만든 AI 영상이다. AI를 거친 세 그룹은 모두 대조군보다 거짓 기억이 많았다. 편집 이미지 영상 그룹은 거짓 기억이 2.05배 많았고 확신도 1.19배 높았다."
               },
               {
                 "t": "p",
-                "x": "“디자이너도 코딩해야 한다”는 말은 수명을 다했다. 코드는 AI가 쓴다. 코드를 읽는 AI 리뷰 도구도 있다. 한 벤치마크에서는 가장 뛰어난 도구가 실제 버그 122개 중 84개를 잡았다. 그래도 시스템을 맡은 엔지니어의 책임은 그대로다. 디자이너가 넘길 수 없는 것은 이해다. 320픽셀 화면, 가장 긴 실제 이름, 느린 네트워크와 키보드로 직접 돌려 보고 결과물을 판단해야 한다."
+                "x": "Wharton의 Gideon Nave는 AI가 주도권을 쥐는 일보다 인간이 “쇠퇴하기 시작하는” 일을 더 걱정한다. 그가 우려하는 건 “생각이 선택 사항이 되는” 세상이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ブラウザでデザインする\n出荷する素材そのもので",
-          "body": "AIがコードを書く今、デザイナーは静的ファイルでなく実データでブラウザ上で設計できる。",
-          "mini_headline": "出荷する素材でデザイン",
+          "headline": "AI-edited写真が\n偽の記憶を植える",
+          "body": "MITの研究では、AI-editedの写真や動画が偽の記憶を植え、誤りへの確信も強めた。",
+          "mini_headline": "AI編集が偽の記憶を植える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
-                "cap": "デザインファイル上の同じカードと、実データを入れたブラウザ上のカード。"
+                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+                "cap": "AI-editedの写真と記憶に関するMIT Media Labの実験で使われた画像。 | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "デザイナーは、建築家が石を理解するようにコードを理解すべきだ。切り方ではなく、何ができるかを知ることだ。今や切る作業はAIが担う。"
+                "x": "The Washington Postが報じたMIT Media Labの実験によると、AI-editedの写真や動画は偽の記憶を生み、出来事の誤ったバージョンへの確信をさらに強める。"
               },
               {
                 "t": "p",
-                "x": "デザインファイルは図面にすぎない。ひとつの状態を、ひとつの幅で、ひとつの言語で、デザイナーが入力したデータで示すだけだ。製品とは、それ以外のあらゆる状態である。長い名前、読み込みに失敗した写真、空のリスト、四秒かかるリクエスト、キーボードで操作するユーザー、320ピクセルのスマートフォン。"
+                "x": "Pattie Maes教授らは、結婚式、街の通り、レースといったありふれた写真24枚を参加者に見せた。休憩の後、一部は元の写真を再び見て、残りはAI-alteredの版を見た。改変版を見た人は細部を誤って記憶しやすく、誤った答えへの確信も強かった。Maesは「基本的に、これはすべて非常に危険だと考えている」と述べた。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
-                "cap": "デザインファイルが一度も示さなかった六つの状態。"
+                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+                "cap": "AI-editedの写真と記憶に関するMIT Media Labの実験で使われた画像。 | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "ひとつのボタンを131通りのバリエーションでコードとして作ってみると、「触感のある(tactile)」という形容詞が、エンジニアが実装できる数値に変わった。筆者のプロダクトチームでは、レビューの対象はコードによるプロトタイプであり、デザインファイルは毎回の検討後にコードから再生成され、鏡として使われる。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
-                "cap": "ビフォーとアフター：どの成果物が信頼できる唯一の情報源か。"
+                "x": "CHI 2025で発表された論文では、参加者200人を50人ずつ四つのグループに分けた。元の写真、AI-editedの画像、元の写真から作った数秒（five-second）のAI動画、編集画像から作ったAI動画である。AIの三グループはいずれも対照群より偽の記憶が多く、編集画像の動画グループは2.05倍の偽の記憶を、1.19倍の確信とともに示した。"
               },
               {
                 "t": "p",
-                "x": "「デザイナーもコードを書くべき」という議論は終わった。コードはAIが書くからだ。AIレビューツールはコードを読みもする。あるベンチマークでは、最も優れたツールが実際のバグ122件のうち84件を検出した。それでも、システムを所有するエンジニアが責任を負うことに変わりはない。デザイナーが委ねられないのは理解である。320ピクセルの画面で、最も長い実在の名前を使い、遅いネットワークとキーボードで動かして、出力を判断することだ。"
+                "x": "WhartonのGideon Naveは、AIに支配されることよりも人間が「衰え始める」ことを懸念し、「考えることが任意になる」世界を危ぶむ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "在浏览器里做设计\n用的就是交付材料",
-          "body": "AI已能写代码，设计师可以用真实数据在浏览器里设计，而非在静态文件中。",
-          "mini_headline": "用交付材料做设计",
+          "headline": "AI-edited照片\n能植入虚假记忆",
+          "body": "MIT研究发现，AI-edited照片和视频会植入虚假记忆，并让人更确信错误版本。",
+          "mini_headline": "AI修图会植入虚假记忆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
-                "cap": "同一张卡片：设计文件中的样子，与在浏览器中填入真实数据后的样子。"
+                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+                "cap": "MIT Media Lab关于AI-edited照片与记忆的实验所用图像。 | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "设计师应当像建筑师理解石材那样理解代码：了解它能做什么，而不是如何切割它。如今，切割的工作由AI来做。"
+                "x": "据The Washington Post报道的一项MIT Media Lab实验，AI-edited照片和视频会制造虚假记忆，并让人对事件的错误版本更加确信。"
               },
               {
                 "t": "p",
-                "x": "设计文件只是一张图。它只呈现一种状态、一种宽度、一种语言，以及设计师自己输入的数据。而产品是其余所有状态：过长的名字、加载失败的照片、空列表、耗时四秒的请求、使用键盘的用户、320像素宽的手机。"
+                "x": "Pattie Maes教授及同事向参与者展示了24张普通照片——婚礼、城市街道、赛跑。休息之后，一部分人再次看到原图，另一部分人看到的是AI-altered版本。看到改动版本的人更容易记错细节，对错误答案也更有把握。Maes说：“我基本上认为这一切都非常危险。”"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
-                "cap": "设计文件从未展示过的六种状态。"
+                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+                "cap": "MIT Media Lab关于AI-edited照片与记忆的实验所用图像。 | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "用代码为同一个按钮做出131种变体，把一个形容词（tactile，有触感）变成了工程师可以实现的数字。在作者所在的产品团队，评审的是代码原型；每轮评审后，设计文件都会从代码重新生成，作为一面镜子。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
-                "cap": "前后对比：哪种产物才是唯一可信来源。"
+                "x": "在发表于CHI 2025的论文中，200名参与者被分为四组，每组50人：原图组、AI-edited图像组、由原图生成的five-second AI视频组，以及由编辑后图像生成的AI视频组。三个AI组产生的虚假记忆都多于对照组；编辑图像视频组的虚假记忆是对照组的2.05倍，确信程度为1.19倍。"
               },
               {
                 "t": "p",
-                "x": "“设计师应该写代码”的说法已经过时，因为代码由AI来写。AI评审工具也会读代码——在一项基准测试中，表现最好的工具发现了122个真实漏洞中的84个——而负责该系统的工程师依然要承担责任。设计师无法委托出去的是理解：要在320像素宽度下、用最长的真实名字、在慢速网络和键盘操作下运行产出，以此来评判它。"
+                "x": "Wharton的Gideon Nave担心的与其说是AI接管一切，不如说是人类“开始退化”，他忧虑一个“思考变得可有可无”的世界。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Diseñar en el navegador,\ncon el material que se lanza",
-          "body": "Como la AI escribe el código, el diseñador puede trabajar en el navegador con datos reales, no en un archivo estático.",
-          "mini_headline": "Diseñar con lo que se lanza",
+          "headline": "Las fotos AI-edited pueden\nsembrar recuerdos falsos",
+          "body": "Un estudio del MIT Media Lab halla que fotos y videos AI-edited siembran recuerdos falsos y afianzan el error.",
+          "mini_headline": "La edición con AI siembra recuerdos falsos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
-                "cap": "La misma tarjeta en el archivo de diseño y en el navegador con datos reales."
+                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+                "cap": "Imágenes usadas en un experimento del MIT Media Lab sobre fotos AI-edited y memoria. | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "Los diseñadores deberían entender el código como un arquitecto entiende la piedra: qué puede hacer, no cómo cortarla. Ahora el corte lo hace la AI."
+                "x": "Las fotografías y los videos AI-edited crean recuerdos falsos y hacen que las personas confíen aún más en la versión equivocada de un hecho, según un experimento del MIT Media Lab publicado por The Washington Post."
               },
               {
                 "t": "p",
-                "x": "Un archivo de diseño es un dibujo. Muestra un estado, en un ancho, en un idioma, con los datos que el diseñador escribió. El producto es todos los demás estados: el nombre largo, la foto que no carga, la lista vacía, la solicitud de cuatro segundos, el usuario de teclado, el teléfono de 320 píxeles."
+                "x": "La profesora Pattie Maes y sus colegas mostraron a los participantes 24 fotografías corrientes: una boda, una calle de ciudad, una carrera. Tras una pausa, algunos volvieron a ver los originales y otros vieron versiones AI-altered. Quienes vieron las versiones alteradas tendieron más a recordar mal los detalles y se mostraron más seguros de sus respuestas erróneas. “Considero todo esto muy peligroso, básicamente”, dijo Maes."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
-                "cap": "Seis estados que el archivo de diseño nunca mostró."
+                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+                "cap": "Imágenes usadas en un experimento del MIT Media Lab sobre fotos AI-edited y memoria. | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "Construir 131 variaciones de un botón en código convirtió un adjetivo (táctil) en números que un ingeniero puede construir. En el equipo de producto del autor, lo que se revisa es el prototipo en código; el archivo de diseño se regenera a partir del código después de cada pasada, como un espejo."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
-                "cap": "Antes y después: qué artefacto es la fuente de verdad."
+                "x": "En el artículo, presentado en CHI 2025, 200 participantes se dividieron en cuatro grupos de 50: originales, imágenes AI-edited, videos de AI de cinco segundos a partir de los originales y videos de AI de las imágenes editadas. Los tres grupos de AI formaron más recuerdos falsos que el grupo de control; el grupo de video de imágenes editadas produjo 2.05 veces más, con 1.19 veces la confianza."
               },
               {
                 "t": "p",
-                "x": "“Los diseñadores deberían programar” es una idea superada, porque la AI escribe el código. Las herramientas de revisión con AI también lo leen —en una prueba comparativa, la mejor detectó 84 de 122 errores reales—, mientras que el ingeniero responsable del sistema sigue rindiendo cuentas. Lo que el diseñador no puede delegar es la comprensión: juzgar el resultado ejecutándolo a 320 píxeles, con el nombre real más largo, una red lenta y un teclado."
+                "x": "Gideon Nave, de Wharton, se preocupa menos por que la AI tome el control que por que los humanos “empiecen a deteriorarse”, y teme un mundo en el que “pensar se vuelva opcional”."
               }
             ]
           }
@@ -1627,165 +1647,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "브라우저에서 디자인하라\n출시할 재료 그대로",
-          "body": "AI가 코드를 쓰니 디자이너는 실제 데이터로 브라우저에서 디자인할 수 있다.",
-          "mini_headline": "출시할 재료로 디자인하기",
+          "headline": "AI-edited 사진이\n가짜 기억을 심는다",
+          "body": "MIT 연구에 따르면 AI-edited 사진·영상은 거짓 기억과 확신을 키운다.",
+          "mini_headline": "AI 편집이 거짓 기억을 심는다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
-                "cap": "디자인 파일 속 카드와 실제 데이터를 넣은 브라우저 속 카드는 같은 카드다."
+                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+                "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "디자이너는 건축가가 돌을 이해하듯 코드를 이해해야 한다. 어떻게 깎는지가 아니라 무엇을 할 수 있는지를 알아야 한다. 이제 깎는 일은 AI가 한다."
+                "x": "The Washington Post가 보도한 MIT Media Lab 실험에 따르면, AI-edited 사진과 영상은 거짓 기억을 만들고 사람들이 잘못된 버전의 사건을 더 확신하게 만든다."
               },
               {
                 "t": "p",
-                "x": "디자인 파일은 그림이다. 하나의 상태를, 하나의 너비로, 하나의 언어로, 디자이너가 직접 입력한 데이터로 보여 줄 뿐이다. 제품은 그 밖의 모든 상태다. 긴 이름, 불러오지 못한 사진, 빈 목록, 사 초가 걸리는 요청, 키보드 사용자, 320픽셀 폰이 그렇다."
+                "x": "Pattie Maes 교수 연구진은 참가자에게 결혼식, 도시 거리, 경주 같은 평범한 사진 24장을 보여 줬다. 잠시 쉰 뒤 일부는 원본을 다시 봤고, 나머지는 AI-altered 버전을 봤다. 변형본을 본 사람들은 세부를 잘못 기억할 가능성이 더 컸고, 틀린 답을 더 확신했다. Maes는 “기본적으로 이 모든 게 매우 위험하다고 본다”고 말했다."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
-                "cap": "디자인 파일이 한 번도 보여 주지 않은 상태는 여섯 가지다."
+                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+                "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "버튼 하나를 코드로 131가지 변형으로 만들어 보니, ‘촉감 있는(tactile)’이라는 형용사가 엔지니어가 구현할 수 있는 숫자로 바뀌었다. 필자의 제품 팀에서는 코드로 만든 프로토타입을 리뷰하고, 디자인 파일은 매 회차가 끝날 때마다 코드에서 다시 생성해 거울처럼 쓴다."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
-                "cap": "전과 후를 보면 어떤 산출물이 기준인지 드러난다."
+                "x": "CHI 2025에 발표된 논문에서 참가자 200명은 50명씩 네 그룹으로 나뉘었다. 원본, AI-edited 이미지, 원본을 다섯 초 분량으로 만든 AI 영상, 편집 이미지를 바탕으로 한 AI 영상이다. AI 세 그룹 모두 대조군보다 거짓 기억이 많았고, 편집 이미지 영상 그룹은 2.05배 많은 거짓 기억을 1.19배의 확신과 함께 보였다."
               },
               {
                 "t": "p",
-                "x": "“디자이너도 코딩해야 한다”는 말은 끝났다. 코드는 AI가 쓰기 때문이다. AI 리뷰 도구는 코드를 읽기도 한다. 한 벤치마크에서는 가장 뛰어난 도구가 실제 버그 122개 중 84개를 잡았다. 그래도 시스템을 맡은 엔지니어의 책임은 그대로다. 디자이너가 넘길 수 없는 것은 이해다. 320픽셀 화면에서, 가장 긴 실제 이름으로, 느린 네트워크와 키보드로 직접 돌려 보며 결과물을 판단해야 한다."
+                "x": "Wharton의 Gideon Nave는 AI가 주도권을 쥐는 것보다 인간이 “쇠퇴하기 시작하는” 것을 더 걱정하며, “생각이 선택 사항이 되는” 세상을 우려한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ブラウザでデザインする\n出荷する素材そのもので",
-          "body": "AIがコードを書く今、デザイナーは静的ファイルでなく実データでブラウザ上で設計できる。",
-          "mini_headline": "出荷する素材でデザイン",
+          "headline": "AI-edited写真が\n偽の記憶を植える",
+          "body": "MITの研究では、AI-editedの写真や動画が偽の記憶を植え、誤りへの確信も強めた。",
+          "mini_headline": "AI編集が偽の記憶を植える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
-                "cap": "デザインファイル上の同じカードと、実データを入れたブラウザ上のカード。"
+                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+                "cap": "AI-editedの写真と記憶に関するMIT Media Labの実験で使われた画像。 | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "デザイナーは、建築家が石を理解するようにコードを理解すべきだ。切り方ではなく、何ができるかを知ることだ。今や切る作業はAIが担う。"
+                "x": "The Washington Postが報じたMIT Media Labの実験によると、AI-editedの写真や動画は偽の記憶を生み、出来事の誤ったバージョンへの確信をさらに強める。"
               },
               {
                 "t": "p",
-                "x": "デザインファイルは図面にすぎない。ひとつの状態を、ひとつの幅で、ひとつの言語で、デザイナーが入力したデータで示すだけだ。製品とは、それ以外のあらゆる状態である。長い名前、読み込みに失敗した写真、空のリスト、四秒かかるリクエスト、キーボードで操作するユーザー、320ピクセルのスマートフォン。"
+                "x": "Pattie Maes教授らは、結婚式、街の通り、レースといったありふれた写真24枚を参加者に見せた。休憩の後、一部は元の写真を再び見て、残りはAI-alteredの版を見た。改変版を見た人は細部を誤って記憶しやすく、誤った答えへの確信も強かった。Maesは「基本的に、これはすべて非常に危険だと考えている」と述べた。"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
-                "cap": "デザインファイルが一度も示さなかった六つの状態。"
+                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+                "cap": "AI-editedの写真と記憶に関するMIT Media Labの実験で使われた画像。 | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "ひとつのボタンを131通りのバリエーションでコードとして作ってみると、「触感のある(tactile)」という形容詞が、エンジニアが実装できる数値に変わった。筆者のプロダクトチームでは、レビューの対象はコードによるプロトタイプであり、デザインファイルは毎回の検討後にコードから再生成され、鏡として使われる。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
-                "cap": "ビフォーとアフター：どの成果物が信頼できる唯一の情報源か。"
+                "x": "CHI 2025で発表された論文では、参加者200人を50人ずつ四つのグループに分けた。元の写真、AI-editedの画像、元の写真から作った数秒（five-second）のAI動画、編集画像から作ったAI動画である。AIの三グループはいずれも対照群より偽の記憶が多く、編集画像の動画グループは2.05倍の偽の記憶を、1.19倍の確信とともに示した。"
               },
               {
                 "t": "p",
-                "x": "「デザイナーもコードを書くべき」という議論は終わった。コードはAIが書くからだ。AIレビューツールはコードを読みもする。あるベンチマークでは、最も優れたツールが実際のバグ122件のうち84件を検出した。それでも、システムを所有するエンジニアが責任を負うことに変わりはない。デザイナーが委ねられないのは理解である。320ピクセルの画面で、最も長い実在の名前を使い、遅いネットワークとキーボードで動かして、出力を判断することだ。"
+                "x": "WhartonのGideon Naveは、AIに支配されることよりも人間が「衰え始める」ことを懸念し、「考えることが任意になる」世界を危ぶむ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "在浏览器里做设计\n用的就是交付材料",
-          "body": "AI已能写代码，设计师可以用真实数据在浏览器里设计，而非在静态文件中。",
-          "mini_headline": "用交付材料做设计",
+          "headline": "AI-edited照片\n能植入虚假记忆",
+          "body": "MIT研究发现，AI-edited照片和视频会植入虚假记忆，并让人更确信错误版本。",
+          "mini_headline": "AI修图会植入虚假记忆",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
-                "cap": "同一张卡片：设计文件中的样子，与在浏览器中填入真实数据后的样子。"
+                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+                "cap": "MIT Media Lab关于AI-edited照片与记忆的实验所用图像。 | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "设计师应当像建筑师理解石材那样理解代码：了解它能做什么，而不是如何切割它。如今，切割的工作由AI来做。"
+                "x": "据The Washington Post报道的一项MIT Media Lab实验，AI-edited照片和视频会制造虚假记忆，并让人对事件的错误版本更加确信。"
               },
               {
                 "t": "p",
-                "x": "设计文件只是一张图。它只呈现一种状态、一种宽度、一种语言，以及设计师自己输入的数据。而产品是其余所有状态：过长的名字、加载失败的照片、空列表、耗时四秒的请求、使用键盘的用户、320像素宽的手机。"
+                "x": "Pattie Maes教授及同事向参与者展示了24张普通照片——婚礼、城市街道、赛跑。休息之后，一部分人再次看到原图，另一部分人看到的是AI-altered版本。看到改动版本的人更容易记错细节，对错误答案也更有把握。Maes说：“我基本上认为这一切都非常危险。”"
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
-                "cap": "设计文件从未展示过的六种状态。"
+                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+                "cap": "MIT Media Lab关于AI-edited照片与记忆的实验所用图像。 | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "用代码为同一个按钮做出131种变体，把一个形容词（tactile，有触感）变成了工程师可以实现的数字。在作者所在的产品团队，评审的是代码原型；每轮评审后，设计文件都会从代码重新生成，作为一面镜子。"
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
-                "cap": "前后对比：哪种产物才是唯一可信来源。"
+                "x": "在发表于CHI 2025的论文中，200名参与者被分为四组，每组50人：原图组、AI-edited图像组、由原图生成的five-second AI视频组，以及由编辑后图像生成的AI视频组。三个AI组产生的虚假记忆都多于对照组；编辑图像视频组的虚假记忆是对照组的2.05倍，确信程度为1.19倍。"
               },
               {
                 "t": "p",
-                "x": "“设计师应该写代码”的说法已经过时，因为代码由AI来写。AI评审工具也会读代码——在一项基准测试中，表现最好的工具发现了122个真实漏洞中的84个——而负责该系统的工程师依然要承担责任。设计师无法委托出去的是理解：要在320像素宽度下、用最长的真实名字、在慢速网络和键盘操作下运行产出，以此来评判它。"
+                "x": "Wharton的Gideon Nave担心的与其说是AI接管一切，不如说是人类“开始退化”，他忧虑一个“思考变得可有可无”的世界。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Diseñar en el navegador,\ncon el material que se lanza",
-          "body": "Como la AI escribe el código, el diseñador puede trabajar en el navegador con datos reales, no en un archivo estático.",
-          "mini_headline": "Diseñar con lo que se lanza",
+          "headline": "Las fotos AI-edited pueden\nsembrar recuerdos falsos",
+          "body": "Un estudio del MIT Media Lab halla que fotos y videos AI-edited siembran recuerdos falsos y afianzan el error.",
+          "mini_headline": "La edición con AI siembra recuerdos falsos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*lWh48fMxFr6rcnextAR_dQ.png",
-                "cap": "La misma tarjeta en el archivo de diseño y en el navegador con datos reales."
+                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
+                "cap": "Imágenes usadas en un experimento del MIT Media Lab sobre fotos AI-edited y memoria. | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "Los diseñadores deberían entender el código como un arquitecto entiende la piedra: qué puede hacer, no cómo cortarla. Ahora el corte lo hace la AI."
+                "x": "Las fotografías y los videos AI-edited crean recuerdos falsos y hacen que las personas confíen aún más en la versión equivocada de un hecho, según un experimento del MIT Media Lab publicado por The Washington Post."
               },
               {
                 "t": "p",
-                "x": "Un archivo de diseño es un dibujo. Muestra un estado, en un ancho, en un idioma, con los datos que el diseñador escribió. El producto es todos los demás estados: el nombre largo, la foto que no carga, la lista vacía, la solicitud de cuatro segundos, el usuario de teclado, el teléfono de 320 píxeles."
+                "x": "La profesora Pattie Maes y sus colegas mostraron a los participantes 24 fotografías corrientes: una boda, una calle de ciudad, una carrera. Tras una pausa, algunos volvieron a ver los originales y otros vieron versiones AI-altered. Quienes vieron las versiones alteradas tendieron más a recordar mal los detalles y se mostraron más seguros de sus respuestas erróneas. “Considero todo esto muy peligroso, básicamente”, dijo Maes."
               },
               {
                 "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*0jqHNUaTzLKl3XiyQlVkwA.png",
-                "cap": "Seis estados que el archivo de diseño nunca mostró."
+                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
+                "cap": "Imágenes usadas en un experimento del MIT Media Lab sobre fotos AI-edited y memoria. | MIT Media Lab"
               },
               {
                 "t": "p",
-                "x": "Construir 131 variaciones de un botón en código convirtió un adjetivo (táctil) en números que un ingeniero puede construir. En el equipo de producto del autor, lo que se revisa es el prototipo en código; el archivo de diseño se regenera a partir del código después de cada pasada, como un espejo."
-              },
-              {
-                "t": "img",
-                "src": "https://miro.medium.com/v2/resize:fit:1024/1*OY99FXUgYAMqrzduiTYP-Q.png",
-                "cap": "Antes y después: qué artefacto es la fuente de verdad."
+                "x": "En el artículo, presentado en CHI 2025, 200 participantes se dividieron en cuatro grupos de 50: originales, imágenes AI-edited, videos de AI de cinco segundos a partir de los originales y videos de AI de las imágenes editadas. Los tres grupos de AI formaron más recuerdos falsos que el grupo de control; el grupo de video de imágenes editadas produjo 2.05 veces más, con 1.19 veces la confianza."
               },
               {
                 "t": "p",
-                "x": "“Los diseñadores deberían programar” es una idea superada, porque la AI escribe el código. Las herramientas de revisión con AI también lo leen —en una prueba comparativa, la mejor detectó 84 de 122 errores reales—, mientras que el ingeniero responsable del sistema sigue rindiendo cuentas. Lo que el diseñador no puede delegar es la comprensión: juzgar el resultado ejecutándolo a 320 píxeles, con el nombre real más largo, una red lenta y un teclado."
+                "x": "Gideon Nave, de Wharton, se preocupa menos por que la AI tome el control que por que los humanos “empiecen a deteriorarse”, y teme un mundo en el que “pensar se vuelva opcional”."
               }
             ]
           }

@@ -8591,6 +8591,135 @@
           "x": "Commenters recalled the crypto-mining GPU crisis, but Tom's Hardware calls that unlikely: the PS5 doesn't have the fastest GPU or the most RAM."
         }
       ]
+    },
+    "gadgets/gadgets-ai-dumb-smart-tv": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
+          "cap": "Image Credits: Google"
+        },
+        {
+          "t": "p",
+          "x": "Developers and vibe coders are sharing ways to \"vibe-code\" smart TVs: removing sponsored ads, speeding up launchers, redesigning home screens and disabling tracking such as automatic content recognition (ACR)."
+        },
+        {
+          "t": "p",
+          "x": "\"cleanyourtv\" creator Gathin T. had Claude Code remove 25 Xiaomi packages from his parents' TV over Wi-Fi and build a new launcher. A few thousand people repeated it within two days. It needs no root and can be reset to factory defaults."
+        },
+        {
+          "t": "p",
+          "x": "\"dumbtv\", by Muzzammil Yasin Sabuwala, has been tested on Fire TV, Sony, TCL, Philips, Hisense, Xiaomi and Shield. Users just point their AI agent at the GitHub repo. Others, like Ryan Doyle, simply asked Claude Code to hack their TV's listing."
+        },
+        {
+          "t": "p",
+          "x": "Results vary: some prompts were refused, agents can disable important packages, and one user said they bricked an Android TV. Wide adoption could threaten the smart TV ad industry."
+        }
+      ]
+    },
+    "gadgets/gadgets-pixel11-magic-capture": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Magic Capture on the Pixel 11 uses Gemini models to analyze roughly 400 video frames and save the best as photos. It records up to two minutes, always returns five photos, and sends footage to the cloud for enhancement."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "At the Phoenix Zoo on an overcast day it nailed a growling jaguar and a well-framed prairie dog."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
+          "cap": "Brady Snyder / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "At a dim concert from further back it disappointed. On the base Pixel 11, Magic Capture caps zoom at 4x on the 10.8MP telephoto, records 1080p at 30fps and crops frames, leaving blurry, grainy shots."
+        },
+        {
+          "t": "p",
+          "x": "It works best with the main camera in good light. For concerts, the reviewer suggests the Pixel 11 Pro or Pro XL with their 48MP periscope telephoto."
+        }
+      ]
+    },
+    "gadgets/gadgets-homeview-robot-arm": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
+        },
+        {
+          "t": "p",
+          "x": "Apple just announced its long awaited smart home display: HomeView, and it's available for $299. That said, the product has been in development for quite some time, being held back by all of the delays with developing a smarter Siri."
+        },
+        {
+          "t": "p",
+          "x": "Now that it's on the market, some customers have had concern about the fact that you have to move the HomeView around yourself if its on a table with multiple people surrounding it. According to the Power On newsletter, it might not be too long before Apple has a solution."
+        },
+        {
+          "t": "p",
+          "x": "According to Bloomberg's Mark Gurman, a souped-up HomeView, code-named J595, is planned for release in 2027 or 2028. It looks like the current HomeView but has a roughly 9-inch screen (up from 7 inches) and a motorized robotic arm that lets the display swivel a full 360 degrees. Using voice recognition, it is designed to identify who's speaking and turn toward that person."
+        },
+        {
+          "t": "p",
+          "x": "This won't replace the HomeView, and will instead serve as a higher end model in the lineup. So, don't expect it at the same $299 price point."
+        }
+      ]
+    },
+    "gadgets/gadgets-repair-robot-data": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "AI data lab HUMXN will subsidize plumbing, electrical, HVAC, air-duct cleaning and carpet cleaning, so homeowners get the work free in exchange for letting technicians with \"wearable capture technology\" work in their homes."
+        },
+        {
+          "t": "p",
+          "x": "\"Robots need to understand how skilled people interact with the physical world,\" founder Thomas Unise said. Lab settings struggle to capture natural movement, so the footage spans different homes, equipment, problems and technicians, from diagnosis to tool choice to checking the job is done."
+        },
+        {
+          "t": "p",
+          "x": "Service pros still get paid. The program launches in Minneapolis, Chicago and Miami, picked for their different climates. Tom's Hardware calls paying for training data refreshing after labs like Meta, Nvidia and OpenAI were accused of taking data."
+        }
+      ]
+    },
+    "gadgets/gadgets-qwen-glasses": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Qwen-Glasses-N1-.jpg"
+        },
+        {
+          "t": "p",
+          "x": "While Meta dominates the conversation about smart glasses in the U.S., in China, it's all about Alibaba. The e-commerce giant now has multiple generations of smart glasses, and its newest pair is starting to put some serious distance between it and Meta's counterparts, at least technologically speaking."
+        },
+        {
+          "t": "p",
+          "x": "The $490 (3,499 RMB) Qwen Glasses N1 come with a 50-megapixel camera sensor, according to Alibaba. Even the newest Ray-Ban Meta (Gen 3) only have a 12-megapixel sensor. Alibaba also claims 25 hours of battery on standby and nine hours for music playback; the most recent Ray-Ban glasses are rated for a maximum of nine hours on a single charge with mixed use."
+        },
+        {
+          "t": "img",
+          "src": "https://gizmodo.com/app/uploads/2026/10/Ray-Ban-Meta-AI-Glasses-Gen-3-review-10.jpg",
+          "cap": "The newest Ray-Ban smart glasses (pictured) fall behind Alibaba's in a few ways. © Raymond Wong / Gizmodo"
+        },
+        {
+          "t": "p",
+          "x": "The N1 also add features Meta doesn't have: a tiny 1.7mm eye-tracking camera lets the glasses' AI understand exactly what you're looking at, and can reportedly scan your iris to confirm Alipay payments. A sensor on the bridge tracks your temperature. Gizmodo hasn't tested the glasses, but on paper, they're a step above what's available in the U.S."
+        }
+      ]
     }
   }
 }

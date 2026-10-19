@@ -1,33 +1,30 @@
 {
-  "date": "2026-10-19",
-  "section": "games",
-  "media": [
-    {
-      "id": "games-npctalk-gta5",
-      "type": "image",
-      "src": "pipeline/media/games-npctalk-gta5.jpg"
-    },
-    {
-      "id": "games-roblox-audioscape",
-      "type": "image",
-      "src": "pipeline/media/games-roblox-audioscape.jpg"
-    },
-    {
-      "id": "games-scam-with-friends",
-      "type": "video",
-      "src": "pipeline/media/games-scam-with-friends.mp4",
-      "poster": "pipeline/media/games-scam-with-friends.jpg"
-    },
-    {
-      "id": "games-oblivion-claude-fpsfix",
-      "type": "video",
-      "src": "pipeline/media/games-oblivion-claude-fpsfix.mp4",
-      "poster": "pipeline/media/games-oblivion-claude-fpsfix.jpg"
-    },
-    {
-      "id": "games-unity-aijam-busan",
-      "type": "image",
-      "src": "pipeline/media/games-unity-aijam-busan.jpg"
-    }
-  ]
+ "media": [
+  {
+   "id": "games-ludo-cli",
+   "type": "image",
+   "src": "pipeline/media/games-ludo-cli.jpg"
+  },
+  {
+   "id": "games-steam-noai-filter",
+   "type": "image",
+   "src": "pipeline/media/games-steam-noai-filter.jpg"
+  },
+  {
+   "id": "games-finals-ai-commentary",
+   "type": "video",
+   "src": "pipeline/media/games-finals-ai-commentary.mp4",
+   "poster": "pipeline/media/games-finals-ai-commentary.jpg"
+  },
+  {
+   "id": "games-ukie-ai-mark",
+   "type": "image",
+   "src": "pipeline/media/games-ukie-ai-mark.png"
+  },
+  {
+   "id": "games-japan-union-ai-voice",
+   "type": "image",
+   "src": "pipeline/media/games-japan-union-ai-voice.jpg"
+  }
+ ]
 }
