@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "AI가 쓴 원고, 문턱마다 묻는다",
+    "date": "2026.10.21",
+    "section": "BOOKS",
+    "accent": "#f5a623",
+    "note": "미 저작권청은 저자에게 AI 사용을 묻고, 한국 공모전은 집필 과정을 검증하고, 프랑스 Prix Pascal은 도구 공개를 조건으로 상을 주고, Tomato Novel은 신인에게 완결 후 계약을 요구한다.",
+    "sources": [
+      "https://janefriedman.com/us-copyright-office-starts-to-question-authors-about-potentially-ai-generated-work/",
+      "https://www.donga.com/news/Culture/article/all/20261018/134863199/2",
+      "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai",
+      "https://eu.36kr.com/en/p/4034128921827207"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 책 · 10.18~10.21",
+      "thread": [
+        {
+          "d": "10.18",
+          "t": "AI 사용 문의",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.19",
+          "t": "작가 검증",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.21",
+          "t": "도구 공개",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        },
+        {
+          "d": "10.21",
+          "t": "완결 후 계약",
+          "c": "#f5a623",
+          "s": "BOOKS"
+        }
+      ],
+      "thread_note": "받아 주든 걸러 내든, 이제 원고마다 어떻게 썼는지를 먼저 묻는다",
+      "eyebrow": "흐름 · 책",
+      "headline": "원고의 출처를 묻는 출판",
+      "body": "한 건씩 보면 각각의 규정이지만, 이어 보면 등록·심사·연재의 문턱마다 집필 과정을 확인하기 시작했다는 게 보인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "미 저작권청은 저자에게 묻는다",
+      "body": "US 저작권청은 모든 원고를 사람이 검토하고, 일부 저자에게는 AI 사용 여부를 따로 묻는다.",
+      "foot": "2026.10.18",
+      "_src": "https://janefriedman.com/us-copyright-office-starts-to-question-authors-about-potentially-ai-generated-work/",
+      "_id": "books-copyright-office-ai",
+      "media": "pipeline/media/books-copyright-office-ai.png"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "한국 공모전은 과정을 본다",
+      "body": "장편소설 공모전 최종심작이 집필 과정 검증에서 의문이 제기돼 수상 기회를 잃었다.",
+      "foot": "2026.10.19",
+      "_src": "https://www.donga.com/news/Culture/article/all/20261018/134863199/2",
+      "_id": "books-prize-author-check",
+      "media": "pipeline/media/books-prize-author-check.png"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "프랑스는 공개하면 상을 준다",
+      "body": "프랑스 Prix Pascal은 쓴 도구와 방법을 공개한 AI 집필 원고에 상을 준다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai",
+      "_id": "books-prix-pascal-ai-manuscripts",
+      "media": "pipeline/media/books-prix-pascal-ai-manuscripts.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "Tomato Novel은 완결을 요구한다",
+      "body": "AI 소설이 쏟아지자 Tomato Novel은 신인에게 책을 끝까지 쓴 뒤에 계약하자고 한다.",
+      "foot": "2026.10.21",
+      "_src": "https://eu.36kr.com/en/p/4034128921827207",
+      "_id": "books-tomato-novel-ai-signing-rules",
+      "media": "pipeline/media/books-tomato-novel-ai-signing-rules.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

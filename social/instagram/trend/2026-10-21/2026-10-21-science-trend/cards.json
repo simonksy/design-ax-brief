@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "사람 대신 답하는 AI",
+    "date": "2026.10.21",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "가상 학생은 튜터 시험에 쓸 만했지만, 설문 속 챗봇과 여론조사 페르소나, Turing 게임의 GPT-4-Turbo는 아직 사람 자리를 메우지 못했다.",
+    "sources": [
+      "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+      "https://techxplore.com/news/2026-10-languages-chatbot-personality-results.html",
+      "https://phys.org/news/2026-10-synthetic-opinion-polling-ai-personas.html",
+      "https://techxplore.com/news/2026-10-dispute-ai-turing.html"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 과학 · 10.18~10.21",
+      "thread": [
+        {
+          "d": "10.18",
+          "t": "가상 학생",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.19",
+          "t": "챗봇 성격",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.21",
+          "t": "AI 페르소나",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.21",
+          "t": "Turing 게임",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "AI로 사람을 흉내 내 실험·설문을 대신하려는 시도가 늘지만, 아직 진짜 사람과는 어긋난다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "AI는 사람 대신 답할 수 있나",
+      "body": "한 건씩 보면 각각의 연구지만, 이어 보면 AI를 사람의 대역으로 쓰려는 시도와 그 한계가 함께 보인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "가상 학생으로 튜터를 시험한다",
+      "body": "Microsoft StudentSim은 학습자 기록으로 만든 가상 학생으로 AI 튜터를 실제 학습자 앞에 내놓기 전 검증한다.",
+      "foot": "2026.10.18",
+      "_src": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/",
+      "_id": "science-studentsim-ai-tutoring",
+      "media": "pipeline/media/science-studentsim-ai-tutoring.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "챗봇 성격은 언어 따라 바뀐다",
+      "body": "다섯 챗봇의 Big Five 답은 영어와 중국어에서 달랐다. 연구진은 챗봇을 설문 참여자 대신 쓰기 위험하다고 봤다.",
+      "foot": "2026.10.19",
+      "_src": "https://techxplore.com/news/2026-10-languages-chatbot-personality-results.html",
+      "_id": "science-chatbot-language-personality",
+      "media": "pipeline/media/science-chatbot-language-personality.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "AI 페르소나는 유권자가 아니다",
+      "body": "Pew 실험에서 AI 페르소나의 답은 실제 패널과 평균 12퍼센트포인트 차이 났다.",
+      "foot": "2026.10.21",
+      "_src": "https://phys.org/news/2026-10-synthetic-opinion-polling-ai-personas.html",
+      "_id": "science-pew-synthetic-persona-polling",
+      "media": "pipeline/media/science-pew-synthetic-persona-polling.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "Turing 게임은 아직 못 넘는다",
+      "body": "Turing 원안대로 치른 첫 실험에서 37명 중 36명이 GPT-4-Turbo를 가려냈다.",
+      "foot": "2026.10.21",
+      "_src": "https://techxplore.com/news/2026-10-dispute-ai-turing.html",
+      "_id": "science-turing-three-player-gpt4",
+      "media": "pipeline/media/science-turing-three-player-gpt4.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

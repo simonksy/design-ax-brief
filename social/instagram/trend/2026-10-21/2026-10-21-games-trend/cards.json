@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "issue": "게임 AI, 규칙부터 깔린다",
+    "date": "2026.10.21",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "영국 협회는 AI 인증 마크를, 일본 배우 노조는 음성 지침을 내놨고, 법 지형을 짚은 분석은 AI 사용 정책이 이제 반드시 갖춰야 할 것이 됐다고 본다.",
+    "sources": [
+      "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly",
+      "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai",
+      "https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "3건 · 게임 · 10.20~10.21",
+      "thread": [
+        {
+          "d": "10.20",
+          "t": "인증 마크",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.20",
+          "t": "음성 지침",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.21",
+          "t": "법 지형",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "게임에 AI를 쓰는 건 이제 규칙과 증빙을 갖추는 일이 됐다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "게임 AI, 규칙이 먼저 온다",
+      "body": "하나씩 보면 협회 서비스, 노조 지침, 법률 해설이지만, 이어 보면 스튜디오가 AI를 쓰려면 증빙을 갖춰야 하는 쪽으로 가고 있다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.20",
+      "headline": "영국은 인증 마크로",
+      "body": "Ukie와 로펌 Sheridans가 네 단계 AI 심사를 내놨다. 통과한 스튜디오는 피칭과 투자 유치에서 인증 마크를 쓴다.",
+      "foot": "2026.10.20",
+      "_src": "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly",
+      "_id": "games-ukie-ai-mark",
+      "media": "pipeline/media/games-ukie-ai-mark.png"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.20",
+      "headline": "일본 배우는 동의로",
+      "body": "일본 배우 노조가 AI 음성 지침을 냈다. 모든 단계에 동의를 받고, 생전 허락 없는 고인 목소리 복제는 금한다.",
+      "foot": "2026.10.20",
+      "_src": "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai",
+      "_id": "games-japan-union-ai-voice",
+      "media": "pipeline/media/games-japan-union-ai-voice.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "법은 정책을 요구한다",
+      "body": "IP·연기자·광고까지 AI 법제가 스튜디오를 흔든다. AI 사용 정책은 이제 반드시 갖춰야 할 것이 됐다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development",
+      "_id": "games-ai-laws-studio-legal-map",
+      "media": "pipeline/media/games-ai-laws-studio-legal-map.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}

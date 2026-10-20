@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "issue": "Spotify가 AI 음악에 긋는 선",
+    "date": "2026.10.21",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "AI 표기 없이 추천에 섞인다는 지적 뒤에 Spotify는 AI Persona 배지를 붙이고 슬롭 5000만여 곡을 추천에서 뺐지만, 같은 주에 AI 리믹스 도구는 라이선스로 들이고 있다.",
+    "sources": [
+      "https://musically.com/2026/10/16/duke-sanford-study-explores-ai-music-encounters-on-spotify/",
+      "https://www.thebureauinvestigates.com/stories/2026-10-15/spotify-ai-artist-badge-global-policy-after-bureau-investigation",
+      "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "https://www.hypebot.com/believe-tunecore-artists-can-opt-into-spotifys-ai-remix-tool/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 10.17~10.21",
+      "thread": [
+        {
+          "d": "10.17",
+          "t": "표기 없는 AI",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.17",
+          "t": "AI Persona 배지",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.21",
+          "t": "슬롭 5000만 곡",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.21",
+          "t": "AI 리믹스 계약",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "Spotify는 AI 음악을 막는 게 아니라, 걸러낼 AI와 돈이 되는 AI를 가르고 있다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "Spotify, 빼는 AI와 들이는 AI",
+      "body": "한 건씩 보면 단속과 신사업이 따로지만, 이어 보면 Spotify가 어떤 AI 음악을 추천에서 빼고 어떤 AI에 로열티를 붙일지 선을 긋는 중이다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "quote",
+      "eyebrow": "2026.10.17",
+      "headline": "표기 없이 추천에 섞였다",
+      "body": "Duke 연구진이 Spotify를 25일간 듣다 AI 아티스트 아홉 팀을 찾았다. AI임을 밝힌 팀은 없었다.",
+      "foot": "2026.10.17",
+      "_src": "https://musically.com/2026/10/16/duke-sanford-study-explores-ai-music-encounters-on-spotify/",
+      "_id": "music-duke-spotify",
+      "quote": "Spotify는 AI 음악에 라벨을 붙이지 않는다.\n그래서 우리가 직접 찾아보기로 했다",
+      "quote_by": "Duke Sanford Tech Policy Program"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "AI Persona 배지가 붙는다",
+      "body": "극우 AI 래퍼 Danny Bones 보도 뒤 AI Persona 배지가 붙었다. 이 음악은 새 청취자 추천에 뜨지 않는다.",
+      "foot": "2026.10.17",
+      "_src": "https://www.thebureauinvestigates.com/stories/2026-10-15/spotify-ai-artist-badge-global-policy-after-bureau-investigation",
+      "_id": "music-spotify-ai-badge",
+      "media": "pipeline/media/music-spotify-ai-badge.png"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "슬롭 5000만 곡을 걷어냈다",
+      "body": "Spotify가 한 해 AI 슬롭·스팸으로 본 5000만여 곡을 추천에서 뺐다. 모든 AI 곡 표기는 의무화하지 않았다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "_id": "music-spotify-50m-slop-purge",
+      "media": "pipeline/media/music-spotify-50m-slop-purge.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "리믹스 AI는 계약으로 들인다",
+      "body": "Believe·TuneCore 아티스트는 옵트인하면 Spotify AI 팬 리믹스·커버에서 로열티를 받는다. 요율은 미공개다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.hypebot.com/believe-tunecore-artists-can-opt-into-spotifys-ai-remix-tool/",
+      "_id": "music-believe-tunecore-ai-remix-optin",
+      "media": "pipeline/media/music-believe-tunecore-ai-remix-optin.png"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
