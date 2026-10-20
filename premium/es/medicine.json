@@ -1534,6 +1534,144 @@
           "x": "Después, el modelo final se probó con el mismo umbral en un conjunto de datos externo de 1,000 pacientes de otros seis hospitales de Japón; tras las exclusiones se analizaron 964."
         }
       ]
+    },
+    "medicine/medicine-argus-autism-ai-fda": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "En EE. UU., un software de AI para diagnosticar el autismo infantil recibió la aprobación de la FDA."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+          "cap": "Neurora (Fuente: Argus Cognitive)"
+        },
+        {
+          "t": "p",
+          "x": "Argus Cognitive anunció recientemente que Neurora obtuvo la aprobación para apoyar el diagnóstico del trastorno del espectro autista (ASD) en niños de 18 meses a 12 años."
+        },
+        {
+          "t": "p",
+          "x": "Al subir video y audio a un portal digital, Neurora mide de forma objetiva el comportamiento mediante unas 100 mediciones biométricas, como la voz, el rostro y la mirada."
+        },
+        {
+          "t": "p",
+          "x": "Argus explicó que se trata de un software como dispositivo médico (SaMD) de clase 2 basado en AI, una herramienta pensada para apoyar el juicio profesional del médico más que para diagnosticar por sí sola. Además, se desarrolló con el apoyo del programa de investigación e innovación para pequeñas empresas de los Institutos Nacionales de Salud de EE. UU."
+        }
+      ]
+    },
+    "medicine/medicine-stroke-robot-rehab-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+          "cap": "Johannes Lachner vía YouTube"
+        },
+        {
+          "t": "p",
+          "x": "Los ictus dejan cada año a 5 millones de personas con discapacidades a largo plazo, y la creciente escasez de fisioterapeutas les dificulta recibir la atención que necesitan. Un nuevo enfoque intenta resolver ese problema combinando la inteligencia artificial y la terapia humana."
+        },
+        {
+          "t": "p",
+          "x": "Johannes Lachner, exinvestigador posdoctoral del MIT y ahora profesor asistente en Purdue University, y Noah Geiger, exestudiante visitante del MIT, desarrollaron un sistema robótico que usa AI generativa y retroalimentación de fuerza en tiempo real para aprender de terapeutas reales. A partir de lo aprendido, ofrece a los pacientes la cantidad justa de ayuda durante ejercicios de rehabilitación física como alcanzar objetos, levantar los brazos y realizar tareas de la vida diaria."
+        },
+        {
+          "t": "p",
+          "x": "El objetivo es “no reemplazar a los terapeutas, sino ampliar su alcance”, afirma Lachner."
+        },
+        {
+          "t": "video",
+          "yt": "AopwOd02GPs"
+        },
+        {
+          "t": "p",
+          "x": "“Los primeros experimentos robóticos ya han demostrado la viabilidad de este enfoque”, informa. “La siguiente fase del proyecto busca desarrollar modelos específicos para cada terapeuta y evaluarlos en un estudio clínico a largo plazo con los mismos pacientes que antes recibieron terapia manual”. Más allá de eso, contempla posibles aplicaciones en entornos industriales con mucho contacto físico o en espacios de trabajo colaborativos."
+        }
+      ]
+    },
+    "medicine/medicine-neonatal-automation-bias": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig2_HTML.png",
+          "cap": "Fig. 2: confianza frente a vigilancia por grupo de lectores y tipo de AI"
+        },
+        {
+          "t": "p",
+          "x": "La AI médica suele validarse bajo un supuesto aditivo: que la sensibilidad algorítmica y la supervisión clínica se combinarán para mejorar la atención. Los autores lo pusieron a prueba en el diagnóstico del neumoperitoneo neonatal, una emergencia quirúrgica en la que el tiempo es crítico, con un estudio cruzado de múltiples lectores de 1,750 eventos de interpretación: los clínicos revisaron radiografías con la ayuda de un modelo de alta fiabilidad o de un modelo con errores inyectados de forma sistemática."
+        },
+        {
+          "t": "p",
+          "x": "Paradójicamente, la alta fiabilidad de la AI indujo sesgo de automatización en los residentes, que aceptaron el 52.0% de las sugerencias incorrectas, mientras que aportó beneficios limitados a los expertos. Ante una AI defectuosa, los tres neonatólogos participantes mostraron un fenotipo de “comportamiento centinela” y anularon correctamente el 91.7% de los errores; dado el reducido grupo de especialistas, los autores lo consideran generador de hipótesis."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig1_HTML.png",
+          "cap": "Fig. 1: rendimiento de los lectores sin ayuda, con AI fiable y con AI con errores inyectados"
+        },
+        {
+          "t": "p",
+          "x": "Sostienen que la validez clínica depende de la resiliencia del equipo formado por humanos y AI (human–AI) ante los fallos algorítmicos más que de la precisión aislada, y publican un entorno educativo de código abierto (sandbox) para inmunizar a los clínicos frente a los errores automatizados y mitigar la pérdida de habilidades."
+        }
+      ]
+    },
+    "medicine/medicine-e3-pose-fetal-symmetry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En una ecografía prenatal de rutina, las posibles anomalías cerebrales del feto se derivan a una MRI, pero unas imágenes imperfectas pueden llevar a diagnósticos omitidos o incorrectos. Investigadores del MIT, el Boston Children’s Hospital e Inria han desarrollado un modelo de aprendizaje profundo llamado E(3)-Pose que ayuda a obtener imágenes de la cabeza del feto mientras se mueve y capta una imagen de alta resolución para el radiólogo. El trabajo se presentó en la European Conference on Computer Vision de 2026."
+        },
+        {
+          "t": "p",
+          "x": "Cuando la cabeza se desplaza durante una exploración, cada corte 2D puede tomarse desde un ángulo distinto y dejar huecos de cobertura. En lugar de aprender la física a partir de los datos, E(3)-Pose incorpora en su arquitectura la simetría izquierda-derecha de la cabeza fetal, lo que facilita identificar la orientación del cerebro."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202609/Sagittal%20%281%29.png",
+          "cap": "Una MRI de un cerebro fetal (contorno en amarillo) en posición sagital."
+        },
+        {
+          "t": "p",
+          "x": "Ellen Grant, del Boston Children’s, afirma que el trabajo “automatizará la MRI cerebral fetal”, con exploraciones más rápidas y cómodas e imágenes de mayor calidad. La primera autora, Ramya Muthukrishnan, espera ahora ampliar el modelo, entrenado sobre todo con fetos del tercer trimestre, a fetos más jóvenes: “cuanto antes se detectan las anomalías cerebrales, más fácil es intervenir”."
+        }
+      ]
+    },
+    "medicine/medicine-aitialvsd-fda-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Medical AI (consejero delegado: Kwon Joon-myung), empresa especializada en inteligencia artificial (AI) médica, anunció el día 15 que su software de dispositivo médico para el apoyo al diagnóstico de la insuficiencia cardíaca, 'AiTiALVSD', obtuvo la 510(k) Clearance (autorización previa a la comercialización) de la Administración de Alimentos y Medicamentos (FDA) de EE. UU."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
+          "cap": "Foto cortesía de Medical AI"
+        },
+        {
+          "t": "p",
+          "x": "'AiTiALVSD' es un software que analiza con AI los datos de electrocardiograma que se miden de forma rutinaria en los hospitales para apoyar el diagnóstico de la disfunción sistólica del ventrículo izquierdo (LVSD), un tipo de insuficiencia cardíaca. Es la primera vez que una empresa coreana supera el umbral de la FDA de EE. UU. con un software de esta función."
+        },
+        {
+          "t": "p",
+          "x": "Detectar a tiempo la insuficiencia cardíaca puede mejorar mucho el pronóstico, pero como los síntomas iniciales no son claros, a menudo no se llega a realizar una ecocardiografía y se pierde el momento del tratamiento. 'AiTiALVSD' funciona como un biomarcador digital basado en el electrocardiograma, en el que la AI detecta cambios sutiles difíciles de captar para el ojo humano."
+        },
+        {
+          "t": "p",
+          "x": "La autorización se basa en un ensayo clínico multiétnico y en múltiples entornos con más de 20.000 (2만 명) pacientes en 6 grandes hospitales de EE. UU., que verificó una precisión constante. En un estudio de validación ciego de comparación directa del Hospital Universitario de Ámsterdam (Países Bajos), presentado recientemente en la Sociedad Europea de Cardiología, también registró la mayor precisión, por delante de los principales modelos de AI de electrocardiograma."
+        },
+        {
+          "t": "p",
+          "x": "En EE. UU. hay unos 6,7 millones (670만 명) de pacientes con insuficiencia cardíaca. Tras Europa, el Reino Unido, India y Singapur, Medical AI ha conseguido también la autorización en EE. UU. y prevé ampliar de lleno su negocio en ese país en colaboración con instituciones médicas y socios locales."
+        },
+        {
+          "t": "p",
+          "x": "El consejero delegado Kwon Joon-myung subrayó: \"Ahora que hemos completado los preparativos para entrar en EE. UU., el mayor mercado del mundo, trabajaremos para lograr grandes resultados\"."
+        }
+      ]
     }
   }
 }

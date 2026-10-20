@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-21",
+  "section": "marketing",
+  "picks": [
+    {
+      "url": "https://searchengineland.com/google-ads-ai-max-spotted-automatically-enabled-in-some-ad-grants-accounts-497261",
+      "title": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts",
+      "source": "Search Engine Land",
+      "tool": "Marketing",
+      "accent": "#2ec5c5",
+      "motif": "frame",
+      "rationale": "Google's AI Max for Search, which matches without keywords and writes its own ad text, is turning on by itself in nonprofit Ad Grants accounts. The broader AI matching can push CTR below the compliance threshold, so grant managers should check their campaign settings now.",
+      "published_iso": "2026-10-19T18:52:28Z",
+      "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+      "excerpt": "Google Ads' AI Max for Search is showing up switched on in some nonprofit Google Ad Grants accounts without advertisers enabling it, expanding keywordless matching and auto-generating ad text from landing pages; since Ad Grants compliance hinges on CTR, broader AI matching could push accounts below the threshold. Google has not confirmed a grants-wide rollout.",
+      "swap": true
+    },
+    {
+      "url": "https://www.axios.com/2026/10/20/hark-ai-agent-startup-free-pizza-doordash",
+      "title": "A startup offered free pizza if its AI agent ordered it. Chaos ensued.",
+      "source": "Axios",
+      "tool": "Marketing",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "rationale": "Hark spent $1M on a promo that paid for DoorDash pizza if its AI agent placed the order. That took the app to No. 1 in Apple's Lifestyle category, but the agent also failed orders, ran up unexpected charges, and asked for broad Gmail access. It is a concrete case of agentic checkout used to acquire customers, and of how that can backfire.",
+      "published_iso": "2026-10-20T09:00:06Z",
+      "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1PRIEW.img",
+      "excerpt": "AI startup Hark ran a $1 million giveaway offering $30 DoorDash credit to users who downloaded Hark Pro and let its agent order a pizza; the promo pushed the app to No. 1 in Apple's Lifestyle category and Hark says it delivered nearly 20,000 pizzas, but many users hit failed orders, unexpected charges and broad Gmail-permission requests.",
+      "swap": true
+    }
+  ]
+}

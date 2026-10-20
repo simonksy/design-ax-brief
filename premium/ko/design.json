@@ -14784,6 +14784,151 @@
           "x": "4K 및 1080p 10-bit HDR 출력과 기업용 API는 이번 공개 출시에서 빠졌고 곧 나온다. Pexo는 Kling 4.0 Flash 변형이 9월 28일 최상위 연간 구독자를 대상으로 제한적 얼리 액세스를 시작했다고 전했다."
         }
       ]
+    },
+    "design/design-chatgpt-slides-decks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 ChatGPT Slides를 내놓으며 업무 현장에서 ChatGPT가 맡는 역할을 넓힌다. 10월 16일 릴리스 노트에서 공개한 새 기능으로, 사용자는 플랫폼 안에서 바로 슬라이드 덱을 만들고 편집하며 함께 작업한다."
+        },
+        {
+          "t": "p",
+          "x": "출발점은 기존 대화나 업로드한 파일, 개요, 디자인 방향을 잡아 줄 샘플 프레젠테이션이다. ChatGPT는 이 자료로 편집 가능한 덱을 만들고 맞춤 이미지를 생성하며, 텍스트와 시각 요소, 차트 다듬기를 돕는다. 요소를 직접 고치거나 구체적인 수정을 요청해도 된다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "팀원들은 같은 프레젠테이션을 동시에 편집하고 공유 댓글을 남긴다. ChatGPT는 피드백을 반영하고 슬라이드끼리 일관성을 지키도록 돕는다. 기존 덱을 참고 자료로 넣으면 결과물도 기존 브랜딩을 따른다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "완성한 덱은 ChatGPT에서 바로 발표하거나 PowerPoint, PDF, 웹의 Google Slides로 내보낼 수 있고, 내보낸 뒤에도 편집할 수 있다. Slides는 Space 접근 권한이 있는 Pro, Business, Enterprise 대상 사용자에게 차례로 제공된다. 발표 전에 수치와 주장을 검증하는 일은 여전히 필요하다."
+        }
+      ]
+    },
+    "design/design-neural-concept-cad-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "스위스의 AI-native 엔지니어링 기업 Neural Concept SA가 오늘 Model Context Protocol Bridge를 출시했다. AI 에이전트가 상용 컴퓨터 지원 설계·시뮬레이션 도구를 다루게 해 주는 제품이다. 대형 엔지니어링 조직은 실물 제품 설계와 시뮬레이션에 쓰는 소프트웨어 환경을 이 제품으로 자동화할 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "2019년 설립된 Neural Concept의 고객은 자동차, 항공우주, 에너지, 전자, 반도체, 방위 산업의 OEMs다. MCP Bridge는 AI 에이전트에 이 도구들과 함께 도구를 다루는 데 필요한 엔지니어링 노하우를 넘겨준다. 소프트웨어와 데이터의 통제권과 소유권은 기업이 그대로 쥔다."
+        },
+        {
+          "t": "p",
+          "x": "공동 창업자이자 CEO인 Pierre Baqué는 “모든 실물 제품을 만드는 소프트웨어를 처음으로 AI가 엔터프라이즈 규모로 운용할 수 있게 됐다”고 말했다. 한 고객 사례에서는 MCP Bridge를 쓴 엔지니어가 휠 림 형상을 삼 분 만에 정리했다. 손으로 하면 하루가 걸리던 일이다."
+        },
+        {
+          "t": "p",
+          "x": "시뮬레이션에 바로 쓸 디지털 트윈을 준비하는 데 몇 주가 걸리기도 하는데, CAE 소프트웨어 안에서 일하는 AI 에이전트라면 이를 몇 시간으로 줄일 수 있다. Volkswagen Group의 Traton SE에서 전자기 설계 엔지니어로 일하는 Ciro Alosa는 “AI 에이전트가 내 일하는 방식을 완전히 바꿨다”고 말했다."
+        }
+      ]
+    },
+    "design/design-dxo-viewpoint6-ai-masking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Struggling to correct wonky buildings, want a tilt-shift look without a specialist lens, or have barrel distortion stretching subjects at the frame's corners? DxO has launched ViewPoint 6, the latest version of its geometry-based photo editor, and the headline feature is combining geometric corrections with AI masking for precise, local edits."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+          "cap": "Mesh subdivisions give you much finer, localized control in ViewPoint 6 (Image credit: DxO)"
+        },
+        {
+          "t": "p",
+          "x": "AI masking in ReShape Fusion lets users mask a specific object, such as a tall building, and correct its geometry independently of the rest of the photo, instead of correcting the whole image and cropping. Users draw a selection box around the subject; ViewPoint 6 masks it and places a mesh with control points directly on top of it, with more subdivision options for finer local control."
+        },
+        {
+          "t": "p",
+          "x": "DxO is keen to point out that no AI image generation takes place: “It rearranges the components of the scene the photographer captured rather than recreating them”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+          "cap": "Reshaping facial features is possible thanks to ViewPoint 6’s local geometric adjustments (Image credit: DxO)"
+        },
+        {
+          "t": "p",
+          "x": "As standalone software, ViewPoint 6 now opens RAW files (as well as TIFF and JPEG), and it also works as a plug-in for Photoshop, Lightroom Classic and DxO PhotoLab 10. It is available now for $129.99 / £109.99, or $84.99 / £69.99 to upgrade from ViewPoint 5, with a 30-day free trial."
+        }
+      ]
+    },
+    "design/design-anthropic-attention-bottleneck": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+          "cap": "넓은 사무실 책상에 한 사람이 앉아 글을 읽는다. 주변 화면 수십 개에는 처리할 새 일이 계속 쌓인다."
+        },
+        {
+          "t": "p",
+          "x": "10월 16일 Anthropic 연구원 네 명이 “How employment is changing at Anthropic”을 발표했다. 2026년 8월에는 직원이 지시한 에이전트가 사람이 한 시간 일할 때마다 여섯 시간을 기록했다. 에이전트 세션은 시간의 약 80%를 사람을 기다리며 유휴 상태로 보냈다. 코딩을 하지 않는 직원도 에이전트가 만든 결과물을 다 읽으려면 주당 근무 시간의 절반 넘게 써야 한다. “그것이 읽기 세금이며, 에이전트를 쓰는 모든 팀이 이를 치르게 될 것이다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+          "cap": "에이전트가 사람보다 더 많이 일한다. 놀랄 일은 아니다."
+        },
+        {
+          "t": "p",
+          "x": "Patrick Neeman은 이 흐름이 모두를 관리자로 만든다고 보고, 사람이 루프의 주도권을 쥐는 일곱 단계를 내놓는다. 읽기 시간을 페이지 로드 예산처럼 재고, 에이전트 요청은 심각도 순으로 줄 세우고, 검토 단계를 설계하고, 결정 사항은 에이전트가 찾을 수 있는 곳에 남기고, 에이전트를 관리하고, 판단력을 보고 채용하고, 신입 직무는 검토 중심으로 다시 짠다."
+        },
+        {
+          "t": "p",
+          "x": "산출물은 갈수록 싸지는데 사람의 주의력은 그대로다. 디자이너, 리서처, 프로덕트 매니저는 에이전트가 사람에게 무엇을 보여 줄지, 언제 끼어들지, 검토를 어떻게 할지 정한다. 이제 이들은 무엇이 주의를 기울일 가치가 있는지 가려내는 판단 체계를 만든다."
+        }
+      ]
+    },
+    "design/design-gemini-notebook-cocreate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+          "cap": "새 리뷰 슬라이드 덱 기능을 담은 일러스트"
+        },
+        {
+          "t": "p",
+          "x": "Gemini Notebook이 사용자 피드백을 반영해, 인기 있는 두 결과물 Slide Decks와 Video Overviews의 창작 통제권을 처음부터 끝까지 넓혔다. 첫 프롬프트에서 바로 최종본으로 건너뛰지 않고, 사용자 자료를 토대로 제작 과정을 한 단계씩 짚어 준다."
+        },
+        {
+          "t": "p",
+          "x": "채팅에서 슬라이드나 영상 개요를 요청하면 Notebook이 담을 주제부터 제안한다. 확인이 끝나면 내용을 더 다듬고 시각 스타일과 형식까지 손볼 수 있다."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+        },
+        {
+          "t": "p",
+          "x": "새로 생긴 Review 토글은 여기서 한 걸음 더 간다. 스튜디오 패널에서 슬라이드는 “Review outline notes”, 영상은 “Review producer notes”로 계획을 먼저 확인한 뒤 렌더링 전에 경영진 요약을 넣거나 장면 순서를 바꾸라는 피드백을 남긴다. “Proceed”를 누르면 최종 결과물이 나온다."
+        },
+        {
+          "t": "p",
+          "x": "원하는 게 분명하다면 프롬프트에 그대로 적으면 된다. 그러면 Notebook이 곧장 검토 단계로 넘어간다. 결과물이 빨리 필요할 땐 Review 토글을 건너뛰고 평소대로 생성하면 그만이다. 공동 제작 기능은 앞으로 일주일에 걸쳐 전 세계 모든 Gemini Notebook 사용자에게 배포된다."
+        }
+      ]
     }
   }
 }

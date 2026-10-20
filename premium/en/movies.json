@@ -8118,6 +8118,129 @@
           "x": "All Craft Apps are free. At the time of writing, FilmCraft had around 10,600 stars and 4,200 forks on GitHub."
         }
       ]
+    },
+    "movies/movies-wga-east-cloak-ai-shield": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
+          "cap": "A WGA sign reads 'Humanity vs. AI' outside Warner Bros. Studio in 2023. Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "The Writers Guild of America, East unveiled a partnership on Tuesday to help prevent AI models from training on its members’ work. Cloak, which creates copies of files that are illegible to AI models but readable for humans, will be free to WGAE members as part of the union’s benefits program."
+        },
+        {
+          "t": "p",
+          "x": "“Members don’t need to worry that their work will be used to train AI models after they send it to producers or agents,” WGA East president Tom Fontana said. Non-members can add Cloak for $10 when registering a script through the guild’s website."
+        },
+        {
+          "t": "p",
+          "x": "Founder Rishi Ambavanekar said he built Cloak “to give agency back to writers” against unwanted AI training, AI notes and analysis. The partnership comes out of the guild’s AI Task Force."
+        },
+        {
+          "t": "p",
+          "x": "Founded in September 2025, Cloak is backed by Andreessen Horowitz’s Speedrun accelerator and the University of Pennsylvania. Its website claims tests proved “effective” against Claude, Gemini and ChatGPT models, and against automated summaries in Google Drive, Gmail and Adobe Acrobat."
+        }
+      ]
+    },
+    "movies/movies-microdramas-ai-two-thirds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
+          "cap": "‘The Great and Powerful Genie,’ a top-performing AI microdrama from ReelShort. Courtesy of ReelShort"
+        },
+        {
+          "t": "p",
+          "x": "Two-thirds of vertical drama releases outside China in the third quarter of 2026 from 20 top platforms were AI generated, according to Owl & Co.’s latest “What We Watched on Vertical” report — up from 3 percent in the first quarter and 28 percent in the second."
+        },
+        {
+          "t": "p",
+          "x": "The shift echoes China, where more than 95 percent of titles released in early 2026 were reportedly made using AI. Among paid apps, only one live-action title made the top five by minutes watched; the number-one performer was ReelShort’s AI-generated The Great and Powerful Genie."
+        },
+        {
+          "t": "p",
+          "x": "Tracked apps logged 63 billion views and two billion viewing hours in the quarter, with TikTok’s free PineDrama app accounting for more than half of all views."
+        },
+        {
+          "t": "p",
+          "x": "Still, the report notes China is showing “a pullback towards live action,” and at ReelShort live-action titles had a higher chance than AI titles of staying in the top 10 percent by views 30 days after release."
+        }
+      ]
+    },
+    "movies/movies-runway-ceo-ai-actors-view": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "During a fireside chat titled “Every Pixel Will Be Generated” at Turin's View Conference, an audience member asked Cristóbal Valenzuela, co-CEO of generative AI startup Runway, whether AI could eventually replace human actors."
+        },
+        {
+          "t": "p",
+          "x": "“Yeah, absolutely. I think it's already happening in a way,” he replied, calling AI “a new medium of expression” and “a new medium of storytelling.”"
+        },
+        {
+          "t": "p",
+          "x": "Fellow speaker Richard Kerris of Nvidia recalled a director's argument that the spontaneity between a director and an actor could never be prompted. Valenzuela countered that models will “probably” get to a point where you can direct them in a very similar way."
+        },
+        {
+          "t": "p",
+          "x": "In his essays, Valenzuela predicts that “the value of creating pixels is trending towards zero,” and that AI is collapsing the cost of high-production-value content, “the last expensive layer.”"
+        },
+        {
+          "t": "p",
+          "x": "Asked by Variety about training data, he said models are “not databases” but learn from representation. Runway is among the defendants in a proposed class action by visual artists alleging their work was used without compensation or permission."
+        }
+      ]
+    },
+    "movies/movies-japan-actors-union-ai-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
+          "cap": "© Japan Actors Union"
+        },
+        {
+          "t": "p",
+          "x": "The Japan Actors Union (JAU) presented the first version of its guidelines for the use of generative AI during a press conference on Thursday. The 21-page “Guidelines for the Use of Generative AI on Vocal Audio Work” has six sections and 22 articles, and defines vocal audio as all audio recordings of actors and voice actors."
+        },
+        {
+          "t": "p",
+          "x": "Dragon Ball voice actor Masako Nozawa (Son Goku) said, “Our voices are being used without our consent. It’s a bit disappointing.” Bin Shimada (Broly) said he grew angry after hearing an AI version of Ado’s “Usseewa” sung in his Broly voice."
+        },
+        {
+          "t": "p",
+          "x": "Japanese voice actors have fought unauthorized voice use for years: Yūki Kaji built his own voice synthesis program, and the No More Mudan Seisei AI group formed in 2024. In Kenjirō Tsuda’s TikTok case, a Ministry of Justice panel and the Tokyo District Court affirmed voices are protected under the right of publicity."
+        }
+      ]
+    },
+    "movies/movies-premiere-enhance-stems": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
+        },
+        {
+          "t": "p",
+          "x": "Location audio often arrives uneven: lavs and booms from different rooms, shifting ambience, a music bed baked into a scene. Enhance Audio, in the Premiere beta, separates speech, music, ambience, sound effects and reverb in a single pass and gives the editor a control for each, in the timeline."
+        },
+        {
+          "t": "p",
+          "x": "Dialogue gets its own volume, an Enhancement amount and a Reverb control that takes the room off the voice only; music, ambience and effects each get a volume and a mute. Source separation runs on-device. Voice enhancement uses Enhance Speech V1, fully local, or V2, Adobe's highest-quality voice model, in the cloud through Firefly."
+        },
+        {
+          "t": "p",
+          "x": "Each enhancement carries five seconds of handles per side, and cuts, fades and trims no longer trigger a re-render. Extending past the handles processes only the new section; on V2 that draws two generative credits per minute, while V1 costs nothing."
+        },
+        {
+          "t": "p",
+          "x": "Split to Clips places speech, music, ambience and effects on the timeline as separate clips for turnover. The author's caveat: separation does not finish a mix. Treat it as the start of the mix, not the end."
+        }
+      ]
     }
   }
 }

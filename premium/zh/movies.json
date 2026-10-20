@@ -7308,6 +7308,129 @@
           "x": "所有Craft Apps均免费。截至发稿时,FilmCraft在GitHub上约有10,600颗星和4,200个分叉。"
         }
       ]
+    },
+    "movies/movies-wga-east-cloak-ai-shield": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
+          "cap": "2023年，Warner Bros. Studio外一块写着“Humanity vs. AI”的WGA标牌。Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Writers Guild of America, East周二公布一项合作，帮助防止AI模型用会员作品进行训练。Cloak可生成AI模型无法识读、但人类可以阅读的文件副本，将作为工会福利计划的一部分免费提供给WGAE会员。"
+        },
+        {
+          "t": "p",
+          "x": "WGA East主席Tom Fontana表示：“会员把作品发给制片人或经纪人之后，不必再担心作品被用来训练AI模型。”非会员通过工会网站登记剧本时，可支付$10加购Cloak。"
+        },
+        {
+          "t": "p",
+          "x": "创始人Rishi Ambavanekar表示，他打造Cloak是为了在面对不受欢迎的AI训练、AI笔记和分析时“把主动权还给编剧”。此次合作源自工会的AI Task Force。"
+        },
+        {
+          "t": "p",
+          "x": "Cloak成立于2025年9月，获得Andreessen Horowitz旗下Speedrun加速器和University of Pennsylvania的支持。其网站称，测试证明它对Claude、Gemini和ChatGPT模型，以及Google Drive、Gmail和Adobe Acrobat中的自动摘要均“有效”。"
+        }
+      ]
+    },
+    "movies/movies-microdramas-ai-two-thirds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
+          "cap": "ReelShort 表现最佳的 AI 微短剧之一《The Great and Powerful Genie》。图片由 ReelShort 提供"
+        },
+        {
+          "t": "p",
+          "x": "根据 Owl & Co. 最新发布的“What We Watched on Vertical”报告，2026年第三季度，20个头部平台在中国以外上线的竖屏短剧中，有三分之二由 AI 生成，而第一季度这一比例为百分之三，第二季度为百分之二十八。"
+        },
+        {
+          "t": "p",
+          "x": "这一转变与中国的情况相呼应：据报道，2026年初在中国上线的作品中，超过百分之95是借助 AI 制作的。在付费应用中，按观看分钟数计，仅有一部真人作品跻身前五；排名第一的是 ReelShort 的 AI-generated（AI生成）作品《The Great and Powerful Genie》。"
+        },
+        {
+          "t": "p",
+          "x": "该季度，被追踪的应用共录得630亿次观看和二十亿小时观看时长，其中 TikTok 旗下的免费应用 PineDrama 占全部观看次数的一半以上。"
+        },
+        {
+          "t": "p",
+          "x": "不过，报告也指出，中国正出现“向真人拍摄回调”的迹象；在 ReelShort，真人作品在上线30天后仍保持在观看量前百分之十的概率高于 AI 作品。"
+        }
+      ]
+    },
+    "movies/movies-runway-ceo-ai-actors-view": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "在Turin的View Conference上，一场题为“Every Pixel Will Be Generated”的炉边对谈中，一名观众问生成式AI初创公司Runway的co-CEO Cristóbal Valenzuela，AI最终能否取代人类演员。"
+        },
+        {
+          "t": "p",
+          "x": "“是的，绝对可以。我认为在某种程度上这已经在发生了。”他回答说，并称AI是“一种新的表达媒介”和“一种新的叙事媒介”。"
+        },
+        {
+          "t": "p",
+          "x": "同台嘉宾、Nvidia的Richard Kerris提到一位导演的观点：导演与演员之间的即兴火花永远无法靠提示词生成。Valenzuela反驳说，模型“很可能”会发展到可以用非常相似的方式去指导的程度。"
+        },
+        {
+          "t": "p",
+          "x": "Valenzuela在文章中预测，“创造像素的价值正趋向于零”，AI正在压低高制作水准内容的成本，而这是“最后一个昂贵的层级”。"
+        },
+        {
+          "t": "p",
+          "x": "被Variety问及训练数据时，他表示模型“不是数据库”，而是从表征中学习。Runway是一起拟议集体诉讼的被告之一，提起诉讼的视觉艺术家指控其作品在未获补偿或许可的情况下被使用。"
+        }
+      ]
+    },
+    "movies/movies-japan-actors-union-ai-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
+          "cap": "© Japan Actors Union"
+        },
+        {
+          "t": "p",
+          "x": "日本演员工会（Japan Actors Union，JAU）周四在记者会上公布了生成式AI使用指南的第一版。这份21页的《Guidelines for the Use of Generative AI on Vocal Audio Work》共六章、22条，将声音音频定义为演员和配音演员的所有录音。"
+        },
+        {
+          "t": "p",
+          "x": "Dragon Ball中为Son Goku配音的Masako Nozawa说：“我们的声音在未经同意的情况下被使用，这有点令人失望。”为Broly配音的Bin Shimada表示，他听到用自己Broly的声音演唱Ado《Usseewa》的AI版本后感到愤怒。"
+        },
+        {
+          "t": "p",
+          "x": "日本配音演员多年来一直在对抗未经授权使用声音的行为：Yūki Kaji开发了自己的语音合成程序，No More Mudan Seisei AI团体于2024年成立。在Kenjirō Tsuda的TikTok案中，日本法务省的一个小组和东京地方法院确认，声音受公开权保护。"
+        }
+      ]
+    },
+    "movies/movies-premiere-enhance-stems": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
+        },
+        {
+          "t": "p",
+          "x": "外景录音常常参差不齐：不同房间里的领夹麦和枪麦、不断变化的环境声、混进场景里的背景音乐。Premiere测试版中的Enhance Audio可一次性分离对白、音乐、环境声、音效和混响，并在时间线上为剪辑师提供逐项控制。"
+        },
+        {
+          "t": "p",
+          "x": "对白有独立的音量、Enhancement强度，以及只去除人声房间感的Reverb控制；音乐、环境声和音效则各有音量和静音。音源分离在设备端运行。人声增强可选完全本地运行的Enhance Speech V1，或通过Firefly在云端运行的V2，即Adobe质量最高的人声模型。"
+        },
+        {
+          "t": "p",
+          "x": "每次增强两侧各带五秒手柄，剪切、淡入淡出和修剪不再触发重新渲染。延伸超出手柄时只处理新增部分；使用V2时每分钟消耗两个生成积分，V1则不收费。"
+        },
+        {
+          "t": "p",
+          "x": "Split to Clips会把对白、音乐、环境声和音效作为独立片段放到时间线上，便于交接。作者提醒：分离并不能完成混音。应把它当作混音的开始，而不是终点。"
+        }
+      ]
     }
   }
 }

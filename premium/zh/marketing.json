@@ -1702,6 +1702,157 @@
           "x": "该专栏写道：“默认即命运。”ADOTAT将其商业解读标注为推断，其免费预览也并未说Full-Funnel会阻止受众选择。"
         }
       ]
+    },
+    "marketing/marketing-gemini-small-business-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+        },
+        {
+          "t": "p",
+          "x": "Google表示，已有数千万小企业主使用Gemini构思产品、管理客户反馈和分析业绩。现在它推出专门的商家落地页，作为打造品牌、分析财务和洞察客户的中心枢纽。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini可连接Google Business Profile、Google Ads和Google Workspace，以及Adobe、Canva、Dropbox、Shopify、Wix、Zoho和Xero等第三方应用。"
+        },
+        {
+          "t": "p",
+          "x": "为了生成符合品牌调性的视觉内容，商家可以上传网站、品牌套件、字体或配色方案。搭配Google最新的图像模型Nano Banana 2.1，Gemini可为产品发布或持续进行的营销活动提供端到端的视觉素材，并保留风格，商家无需重新上传规范。"
+        },
+        {
+          "t": "p",
+          "x": "Gemini还能把杂乱的电子表格、收据和购买记录变成财务图表和交互式模型。Google举例提到Bordeaux（波尔多）的一位陶艺师，其每天在撰写产品描述和社交帖子上节省两三个小时。"
+        },
+        {
+          "t": "p",
+          "x": "落地页、营销与财务技能以及新的连接应用将在未来几天内面向全球所有Gemini应用用户陆续推出。"
+        }
+      ]
+    },
+    "marketing/marketing-ai-slop-recipe-mfa-sites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
+        },
+        {
+          "t": "p",
+          "x": "供应链情报公司DecryptAds周二发布的研究发现，超过2,100个AI生成（AI-generated）的菜谱网站沿用“为广告而生”（made-for-advertising，MFA）的套路：在粗制滥造（low-effort）的页面上叠放广告位。大型蓝筹（blue-chip）品牌和Fortune 500品牌的广告都出现在这些网站上。"
+        },
+        {
+          "t": "p",
+          "x": "这些网站使用虚构的作者，其“关于”（“about”）页面采用AI生成的头像、图库图片、盗用的真实厨师照片，甚至Emily Blunt等名人的修改图片。这与Google Search本月的一次更新相悖，该更新将虚构的创作者资料视为一种欺骗。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
+          "cap": "某菜谱网站使用Emily Blunt修改图片的作者页面（DecryptAds报告）"
+        },
+        {
+          "t": "p",
+          "x": "DecryptAds通过追踪ads.txt和sellers.json中的关联，查到位于俄罗斯、中国、塞浦路斯、土耳其和UAE等“高风险地区”的约300家广告技术公司，最终锁定2,116个网站。该公司表示未发现犯罪证据。"
+        },
+        {
+          "t": "p",
+          "x": "SSPs对此提出异议：被列为1,631个网站合作方的HBAgency质疑报告所列的关联；MonetizeMore称其并未为被标注的11个网站提供变现；Ezoic则认为，评判内容应看质量，而不是看是否由AI生成。"
+        }
+      ]
+    },
+    "marketing/marketing-ai-max-ad-grants-autoon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads的AI Max功能在部分Google Ad Grants Search广告系列中自动处于开启状态，而广告主并未手动开启，这引发了非营利广告主对AI驱动（AI-powered）广告系列设置究竟有多少控制权的疑问。Google尚未确认这是否属于面向Ad Grants全体（Ad Grants-wide）的新一轮推出。"
+        },
+        {
+          "t": "p",
+          "x": "AI Max通过广泛匹配（broad-match）和无关键词（keywordless）的搜索字词匹配、根据落地页自动生成或调整的广告文案，以及帮助Google判断哪些搜索相关的落地页信号，来扩展Search广告系列。"
+        },
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+          "cap": "Google Ads中的AI Max for Search campaigns设置"
+        },
+        {
+          "t": "p",
+          "x": "对Ad Grants广告主而言，CTR与账户合规挂钩。更宽泛的匹配也许能触达新受众，但没有点击的额外展示可能拉低CTR，这让本已接近最低门槛的账户感到担忧。"
+        },
+        {
+          "t": "p",
+          "x": "非营利机构本周应检查AI Max是否已开启，审查近期搜索字词，监控CTR，并确认新增流量是否符合目标。这一变化最早由数字广告专家Dan Kabakov在LinkedIn上发现。"
+        }
+      ]
+    },
+    "marketing/marketing-hark-agent-pizza-promo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+          "cap": "插图：Brendan Lynch/Axios"
+        },
+        {
+          "t": "p",
+          "x": "AI初创公司Hark推出总额1百万美元的赠送活动，发放30美元DoorDash额度，以展示其智能体：下载Hark Pro、连接账户，再让智能体订一份披萨。活动让Hark登上Apple App Store的Lifestyle类别No. 1；Hark称，尽管需求激增导致技术问题，仍送出了近20,000份披萨。"
+        },
+        {
+          "t": "p",
+          "x": "许多用户的这一晚并不顺利。投资人Sheel Mohnot说下单花了20分钟；另一名用户称额度未生效，被扣了27.70美元；Replika创始人Eugenia Kuyda发帖展示了多次失败的尝试。Axios记者拿到了额度却没等到披萨，连接Gmail后还收到了Google安全警报。Hark要求获取广泛的Google权限，包括读取、撰写和发送邮件。"
+        },
+        {
+          "t": "p",
+          "x": "CEO Brett Adcock表示使用量激增，很多环节出了故障，不过Hark通过其Handoff模型运行了超过203,500次浏览器会话。一名发言人称问题仅限于此次促销，并向受影响用户提供礼品卡。教训在于：智能体仍然需要登录、权限和人工协助，这可能让简单的任务变得更难。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-genrecs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta的Generative Recommenders（GenRecs）让广告系统从为每个候选广告打分，转向用LLM架构同时推理广告内容与用户偏好。其基础是GenRecs Tokenization：不再为每个条目分配专属ID，而是用来自稳定语义词表的令牌来表示每条广告、每件商品、每个页面或像素。"
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "预训练多模态模型读取条目的文本和图像，生成嵌入；令牌化器把它与从互动中学到的表征结合，再量化为一小串离散令牌。流水线先编码，再把嵌入分解为若干子空间，并把每个子空间映射到码本条目。相似条目共享令牌，因此一双新的越野跑鞋能继承模型从上一季鞋款中学到的东西。"
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "在八个令牌化器版本中，内在指标（聚类纯度、分布均衡度、码本利用率）与CTR预测准确度高度相关。"
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "低曝光长尾广告的预测改善后，所有广告的训练数据也随之改善，形成自我强化的飞轮。"
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "与Meta的GEM和Adaptive Ranking Model搭配后，GenRecs Tokenization在各个版面带来+0.35%的转化提升（Meta内部数据，2026年2月）。下一步是扩大令牌化覆盖范围，并建立横跨文本、图像、音频和视频的共享令牌空间。"
+        }
+      ]
     }
   }
 }

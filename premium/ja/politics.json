@@ -3073,6 +3073,128 @@
           "x": "草案は、政府が先進的なモデルの公開を阻止できる状況を限定し、一部の州のAI安全法に優先する内容だ。"
         }
       ]
+    },
+    "politics/politics-democrats-letter-25-firms-election-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
+        },
+        {
+          "t": "p",
+          "x": "情報委員会と選挙監督委員会の民主党トップであるマーク・ワーナー(Mark Warner)、アレックス・パディヤ(Alex Padilla)両上院議員(Sens.)と、ジム・ハイムズ(Jim Himes)、ジョー・モレル(Joe Morelle)両下院議員(Reps.)は、中間選挙を前にAlphabet、Meta、Microsoft、OpenAI、TikTokなど25社のトップに書簡を送った。"
+        },
+        {
+          "t": "p",
+          "x": "書簡には「残念ながら、製品の悪用から選挙を守るという皆さんの約束の一部について、後退の懸念すべき兆候がある」と記した。また、一部のAIチャットボットは選挙や投票に関する質問で「容認できないほど高い誤答率」を示しているとした。"
+        },
+        {
+          "t": "p",
+          "x": "書簡は各社に対し、投票手続きに関する「明らかに虚偽の」情報を政治的言論と区別したうえで削除すること、選挙管理当局に報告ツールを提供すること、独立したファクトチェッカーを活用すること、研究者にデータを開放することを求めている。"
+        },
+        {
+          "t": "p",
+          "x": "トランプ(Trump)政権は主に検閲を理由に、外国の影響工作や選挙偽情報に対応する拠点をいくつも解体した。連邦機関は選挙セキュリティ支援は続いていると説明する。Nextgov/FCWは業界団体のTechNetとCCIAにコメントを求めた。"
+        }
+      ]
+    },
+    "politics/politics-fca-ai-near-miss-reporting-speech": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Financial Conduct Authorityの最高データ・情報・インテリジェンス責任者Jessica Rusu氏は月曜日、BloombergのUK Policy Seriesで講演し、規制当局は英国が金融サービスにおける安全なAI導入を主導することを望むが、自律性が高まるほど明確な説明責任が必要になると述べた。"
+        },
+        {
+          "t": "p",
+          "x": "「当局の規則はすでに企業に重大インシデントの報告を求めており、それは重大なAIの失敗やニアミス(near-misses)にも広げなければならない」と同氏は語り、エージェント型AI(agentic AI)のニアミス報告も「規制上の優先事項でもある」と付け加えた。これは新たな規則ではなく、講演で示された期待である。"
+        },
+        {
+          "t": "p",
+          "x": "英国(UK)のAI担当相Kanishka Narayan氏は先週、重大インシデントやニアミスの報告を含め、制度強化を検討すると述べた。政府はCyber Security and Resilience BillへのAI-specific(AI固有)の措置の盛り込みをまだ確約しておらず、当局者は議員(MPs)に対し修正案は引き続き検討中だと説明した。"
+        }
+      ]
+    },
+    "politics/politics-nyc-chatbot-human-offramp-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
+        },
+        {
+          "t": "p",
+          "x": "ゾーラン・マムダニ(Zohran Mamdani)市長の市政府は、顧客対応に自動チャットボットを使う企業に対し、その旨を開示し、顧客が代わりに人間と話せるようにすることを義務づける規則を提案している。市政府によれば、こうした規則は全米で初めてだという。"
+        },
+        {
+          "t": "p",
+          "x": "規則案は「合理的かつ適時の方法」での支援も求め、役に立たないメニューで顧客を堂々巡りさせることも禁じる。消費者保護局長のサミュエル・レバイン(Samuel Levine)氏は「ニューヨーク市(New York City)で我々が懸念しているのは、AIがこの関係をさらに悪化させるだけだということだ」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "公聴会は11月19日(Nov. 19)に予定されている。施行日は寄せられる意見の量によって決まり、その後に移行期間が設けられる。市内で事業を行うすべての企業が対象となり、違反を繰り返した場合の罰金は$525、$1,050、$3,500だ。"
+        },
+        {
+          "t": "p",
+          "x": "レバイン(Levine)氏はこれを他の自治体のモデルになると評した。AIチャットボットを規制する州はいくつかあるが、顧客対応ボットを対象とするものはほとんどない。"
+        }
+      ]
+    },
+    "politics/politics-un-ai-dialogue-korea-cochair-cha": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+          "cap": "2026年7月16日、U.N.本部で発言する大使(Amb.) Cha Ji-hoon氏(右から2人目)。(Yonhap)"
+        },
+        {
+          "t": "p",
+          "x": "U.N.のウェブサイトによると、韓国の国連(United Nations)大使が、AIガバナンスをめぐる国際協力の促進を目指すU.N.のイニシアチブの共同議長に任命された。火曜日に明らかになった。"
+        },
+        {
+          "t": "p",
+          "x": "U.N.総会議長は金曜日、Cha Ji-hoon大使とセントクリストファー・ネービス(Saint Kitts and Nevis)の常駐代表Mutryce Agatha Williams氏を任命し、2027年のGlobal Dialogue on AI Governance(AIガバナンスに関するグローバル対話)の準備を主導させることにした。"
+        },
+        {
+          "t": "p",
+          "x": "2027年5月3-4日に予定される対話には各国政府やその他の関係者が集まり、急速に発展するこの技術がもたらす機会と課題を含め、AIガバナンスをめぐる国際協力を話し合う。"
+        },
+        {
+          "t": "p",
+          "x": "このイニシアチブは、2025年8月に採択されたU.N.総会決議に基づき、政府、民間部門、市民社会、研究者が議論する場として設けられた。"
+        },
+        {
+          "t": "p",
+          "x": "韓国はLee Jae Myung(李在明)政権の下で世界トップスリーのAI強国入りを目指しており、調整役を担うとみられる。"
+        }
+      ]
+    },
+    "politics/politics-aiact-harmonised-std": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "欧州委員会は、AI Actの実施を支える初の整合規格の参照情報を、EU官報(Official Journal of the European Union)に掲載した。"
+        },
+        {
+          "t": "img",
+          "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
+          "cap": "裁判官の小槌の横で\"AI ACT\"と題された文書を指さす人物のイラスト。"
+        },
+        {
+          "t": "p",
+          "x": "CENとCENELECが策定した規格「EN 18286:2026 – Quality management system for EU AI Act regulatory purposes」は、高リスクAIシステムの提供者がArticle 17(第17条)の品質マネジメントシステム要件を満たすための法的な道筋となる。"
+        },
+        {
+          "t": "p",
+          "x": "欧州委員会実施決定(EU) 2026/2274によって公示され、この規格を導入した提供者は、規格が対象とするArticle 17の要件への適合推定を受ける。この推定を伴う唯一のAI QMS規格であり、AIシステムのライフサイクルを軸に構成され、ISO/IEC 42001、ISO 9001、ISO 13485などの規格を置き換えるのではなく、その上に重ねて使うよう設計されている。"
+        },
+        {
+          "t": "p",
+          "x": "欧州委員会はこれを、高リスクAIシステムへの要件適用を前にした重要な節目と位置づけており、今後さらなる整合規格が続く見通しだ。"
+        }
+      ]
     }
   }
 }

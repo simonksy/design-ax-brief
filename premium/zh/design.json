@@ -8563,6 +8563,151 @@
           "x": "4K 和1080p 10-bit HDR输出以及企业版API仍属“即将推出”，并不在已完成的公开发布之列。据Pexo报道，Kling 4.0 Flash版本已于9月28日面向最高档年度订阅用户开启有限的抢先体验。"
         }
       ]
+    },
+    "design/design-chatgpt-slides-decks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI推出ChatGPT Slides，扩大ChatGPT在职场中的作用。这项新功能在其10月16日的发布说明中公布，用户可直接在平台内创建、编辑幻灯片并协作。"
+        },
+        {
+          "t": "p",
+          "x": "用户可以从已有对话、上传的文件、大纲或用于引导设计的示例演示文稿开始。ChatGPT会把这些素材变成可编辑的幻灯片，生成定制图像，并帮助完善文字、视觉元素和图表；用户也可以自行编辑元素或提出具体修改要求。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "团队成员可以同时编辑同一份演示文稿并留下共享评论，ChatGPT则协助落实反馈、保持幻灯片风格一致。已有的幻灯片可作为参考，使输出遵循既定品牌规范。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "完成的幻灯片可以在ChatGPT中直接演示，也可导出为PowerPoint、PDF或网页版Google Slides，并保持可编辑。Slides正在向拥有Space访问权限的符合条件的Pro、Business和Enterprise用户逐步推出；演示前仍应核实其中的数据和论断。"
+        }
+      ]
+    },
+    "design/design-neural-concept-cad-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "总部位于瑞士的AI-native工程公司Neural Concept SA今天推出Model Context Protocol Bridge，帮助AI智能体操作商用计算机辅助设计和仿真工具，助力大型工程组织将用于设计和仿真实体产品的软件环境自动化。"
+        },
+        {
+          "t": "p",
+          "x": "Neural Concept成立于2019年，客户为汽车、航空航天、能源、电子、半导体和国防领域的OEMs。MCP Bridge让AI智能体能够使用这些工具，并掌握使用它们所需的工程知识，同时企业仍保有对其软件和数据的控制权和所有权。"
+        },
+        {
+          "t": "p",
+          "x": "联合创始人兼CEO Pierre Baqué表示：“塑造每一件实体产品的软件，首次可以由AI以企业级规模来操作。”在一个客户案例中，一名使用MCP Bridge的工程师用三分钟就完成了轮辋几何形状的清理，而手动操作需要一天。"
+        },
+        {
+          "t": "p",
+          "x": "准备可用于仿真的数字孪生可能需要数周；在CAE软件中工作的AI智能体能将其缩短到数小时。Volkswagen Group旗下Traton SE的电磁设计工程师Ciro Alosa说：“AI智能体彻底改变了我的工作方式。”"
+        }
+      ]
+    },
+    "design/design-dxo-viewpoint6-ai-masking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "难以校正歪斜的建筑？想不用专业镜头就拍出移轴(tilt-shift)效果？还是桶形畸变把画面角落的主体拉变形了？DxO推出了其几何校正类照片编辑软件的最新版本ViewPoint 6，主打功能是将几何校正与AI蒙版相结合，实现精确的局部编辑。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+          "cap": "在ViewPoint 6中，网格细分带来更精细的局部控制 (Image credit: DxO)"
+        },
+        {
+          "t": "p",
+          "x": "借助ReShape Fusion中的AI蒙版，用户可以为高楼等特定对象建立蒙版，并独立于照片其余部分校正其几何形状，而不必校正整张图像再裁剪。用户在主体周围画出选框后，ViewPoint 6会为其建立蒙版，并直接在其上方放置带控制点的网格，还提供更多细分选项以实现更精细的局部控制。"
+        },
+        {
+          "t": "p",
+          "x": "DxO特别强调，过程中不涉及任何AI图像生成：“它是重新排列摄影师所拍场景中的元素，而不是重新创造它们”。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+          "cap": "借助ViewPoint 6的局部几何调整，还能重塑面部特征 (Image credit: DxO)"
+        },
+        {
+          "t": "p",
+          "x": "作为独立软件，ViewPoint 6现在可以打开RAW文件（以及TIFF和JPEG），也可作为Photoshop、Lightroom Classic和DxO PhotoLab 10的插件使用。该软件现已上市，售价$129.99 / £109.99，从ViewPoint 5升级为$84.99 / £69.99，并提供30天免费试用。"
+        }
+      ]
+    },
+    "design/design-anthropic-attention-bottleneck": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+          "cap": "宽敞的办公区里，一个人坐在桌前阅读，周围数十块屏幕不断涌现等待他处理的新工作。"
+        },
+        {
+          "t": "p",
+          "x": "10月16日，四位Anthropic研究人员发表了《How employment is changing at Anthropic》。到2026年8月，员工指挥的智能体在员工每工作一小时的同时，会记录六小时的工作。智能体会话约有80%的时间处于闲置状态，等待人来处理；即便是不写代码的人，要读完智能体产出的全部内容，也要花掉一周工作时间的一半以上。“这就是阅读税，每个使用智能体的团队都要为此买单。”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+          "cap": "智能体比人干得多。这并不意外。"
+        },
+        {
+          "t": "p",
+          "x": "Patrick Neeman认为，这项工作正在把每个人都变成管理者，并提出了让人始终掌控循环的七个步骤：像对待页面加载预算一样衡量阅读时间；按严重程度给智能体请求排序；设计审查环节；把决策写在智能体能找到的地方；管理智能体；以判断力为标准招聘；围绕审查重建入门级岗位。"
+        },
+        {
+          "t": "p",
+          "x": "产出越来越便宜，而人的注意力始终有限。设计师、研究人员和产品经理决定智能体向人展示什么、何时打断以及审查如何进行，他们的工作是建立判断体系，甄别什么值得关注。"
+        }
+      ]
+    },
+    "design/design-gemini-notebook-cocreate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+          "cap": "展示全新审阅幻灯片功能的插图"
+        },
+        {
+          "t": "p",
+          "x": "根据用户反馈，Gemini Notebook如今在两种热门输出形式Slide Decks和Video Overviews上，从头到尾提供更多创作控制。它不再从最初的提示直接跳到最终成品，而是直接依据你的资料，带你一步步完成创作流程。"
+        },
+        {
+          "t": "p",
+          "x": "在聊天中请求幻灯片或视频概览，Notebook会建议应包含的主题。确认后，你可以进一步引导内容，并指定视觉风格和格式。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+        },
+        {
+          "t": "p",
+          "x": "新的Review开关更进一步：在工作室面板中，通过幻灯片的“Review outline notes”或视频的“Review producer notes”审阅方案，并在渲染前给出反馈，例如添加执行摘要或调换某个场景的顺序。选择“Proceed”即可生成最终成品。"
+        },
+        {
+          "t": "p",
+          "x": "如果你已经清楚自己想要什么，在提示中说明即可，Notebook会直接进入审阅环节。若只需快速产出，可跳过Review开关，照常生成。这些协同创作功能将在未来一周内面向全球所有Gemini Notebook用户陆续推出。"
+        }
+      ]
     }
   }
 }

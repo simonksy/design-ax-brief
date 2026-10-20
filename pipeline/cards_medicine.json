@@ -1,403 +1,363 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-aitialvsd-fda-2026",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "메디컬에이아이 심전도 AI\n美 FDA 허가 획득",
-      "body": "메디컬에이아이의 심전도 기반 심부전 진단 보조 AI 'AiTiALVSD'가 미국 FDA 510(k) 허가를 받았다.",
-      "mini_headline": "심전도 심부전 AI, FDA 허가",
+      "id": "medicine-fahr-face-illness-photo",
       "tool": "Medicine",
-      "source": "의학신문",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014060",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "얼굴 사진 한 장으로\n환자 중증도 가늠",
+      "body": "암 환자 35,000명 사진을 배운 US AI가 얼굴만 보고 중증도 판단을 돕는다.",
+      "mini_headline": "얼굴 사진으로 중증도 가늠",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "img",
+            "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"
+          },
+          {
             "t": "p",
-            "x": "의료 인공지능(AI) 전문기업 메디컬에이아이(대표 권준명)는 자사의 심부전 진단 보조 의료기기 소프트웨어 'AiTiALVSD(에티아 엘브이에스디)'로 미국 식품의약국(FDA) 510(k) Clearance(시판 전 허가)를 획득했다고 15일 밝혔다."
+            "x": "US 연구진은 얼굴 사진 한 장만으로 의사가 환자 중증도를 판단하도록 AI 도구가 도울 수 있다고 밝혔다. 이 도구는 건강한 얼굴 수백만 장과 암 환자 사진 35,000장을 학습했고, 눈 주변 특징을 꼼꼼히 살펴 생존 가능성을 추정한다. 예비 연구 결과는 Lancet Digital Health에 실렸다."
           },
           {
             "t": "img",
-            "src": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
-            "cap": "사진제공=메디컬에이아이"
+            "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a1e6/live/25088dc0-c945-11f1-9357-bdb8a3cad3e4.png",
+            "cap": "암 생존(왼쪽)과 나이(오른쪽) 예측에 가장 중요한 얼굴 부위. Mass General Brigham/Lancet Digital Health"
           },
           {
             "t": "p",
-            "x": "'AiTiALVSD'는 병원에서 일상적으로 측정하는 심전도 데이터를 AI로 분석해 심부전의 일종인 좌심실 수축기능 부전(LVSD)을 진단 보조하는 소프트웨어다. 해당 기능을 갖춘 소프트웨어로 국내 기업이 미국 FDA의 문턱을 넘은 것은 이번이 처음이다."
+            "x": "'FaceSurvival' 도구는 뼈나 뇌로 전이된 암까지 여러 암종에서 눈 아래와 콧등 주변을 가장 중요한 부위로 꼽는다. 또 다른 도구 'FaceAge'는 팔자주름과 이마, 관자놀이를 보고 생물학적 나이를 추정한다."
           },
           {
             "t": "p",
-            "x": "심부전은 조기 발견 시 예후를 크게 개선할 수 있지만, 초기 증상이 명확하지 않아 심초음파 검사로 이어지지 못하고 치료 시기를 놓치는 경우가 잦다. 'AiTiALVSD'는 사람의 눈으로 포착하기 어려운 미세한 심전도 변화를 AI가 감지하는 심전도 기반 디지털 바이오마커 역할을 한다."
+            "x": "연구를 이끈 Mass General Brigham의 Raymond Mak 박사는 얼굴로 건강을 평가하는 일을 \"더 정량적이고 일관되며 확장 가능하게\" 만들어, \"의사의 판단을 대체하기보다\" 치료 결정을 돕겠다고 말한다. 연구팀은 무엇보다 다양한 인종 집단의 데이터가 훨씬 더 있어야 한다고 했다."
           },
           {
             "t": "p",
-            "x": "이번 허가는 미국 내 6개 대형병원에서 2만 명 이상의 환자를 대상으로 진행된 다인종·다환경 임상시험을 통해 일관된 정확도를 검증받은 결과다. 최근 유럽심장학회에서 발표된 네덜란드 암스테르담 대학병원의 눈가림 직접비교 검증연구에서도 주요 심전도 AI 모델들을 제치고 가장 높은 정확도를 기록했다."
-          },
-          {
-            "t": "p",
-            "x": "미국의 심부전 환자는 약 670만 명에 달한다. 메디컬에이아이는 유럽, 영국, 인도, 싱가포르 등에 이어 미국 인허가까지 확보한 만큼 현지 의료기관·파트너사와 협력해 본격적인 미국 사업 확대에 나설 방침이다."
-          },
-          {
-            "t": "p",
-            "x": "권준명 대표는 \"글로벌에서 가장 큰 미국 시장 진출을 위한 준비가 완료된 만큼 큰 성과를 만들어보도록 하겠다\"고 강조했다."
+            "x": "University of Surrey의 Miroslaw Bober 교수는 \"유망한 개념 증명이지만 임상에 쓸 단계는 아니다\"라고 평가했다. 그러면서 \"결과를 예측하는 것과 설명하는 것은 다르다\"고 경고했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "메디컬에이아이 심전도 AI\n美 FDA 허가 획득",
-          "body": "메디컬에이아이의 심전도 기반 심부전 진단 보조 AI 'AiTiALVSD'가 미국 FDA 510(k) 허가를 받았다.",
-          "mini_headline": "심전도 심부전 AI, FDA 허가",
+        "en": {
+          "headline": "One face photo may show\nhow ill a patient is",
+          "body": "A US AI tool trained on photos of 35,000 cancer patients may help doctors judge how ill someone is from one face photo.",
+          "mini_headline": "A face photo gauges illness",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"
+              },
+              {
                 "t": "p",
-                "x": "의료 인공지능(AI) 전문기업 메디컬에이아이(대표 권준명)는 자사의 심부전 진단 보조 의료기기 소프트웨어 'AiTiALVSD(에티아 엘브이에스디)'로 미국 식품의약국(FDA) 510(k) Clearance(시판 전 허가)를 획득했다고 15일 밝혔다."
+                "x": "An AI tool may be able to help doctors judge how ill a patient is using a single photograph of their face, say US researchers. Trained on millions of healthy faces and 35,000 photos of cancer patients, it estimates survival by looking closely at features near the eyes. The preliminary findings are published in the Lancet Digital Health."
               },
               {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
-                "cap": "사진제공=메디컬에이아이"
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a1e6/live/25088dc0-c945-11f1-9357-bdb8a3cad3e4.png",
+                "cap": "Facial regions most important to cancer survival (left) and to age (right). Mass General Brigham/Lancet Digital Health"
               },
               {
                 "t": "p",
-                "x": "'AiTiALVSD'는 병원에서 일상적으로 측정하는 심전도 데이터를 AI로 분석해 심부전의 일종인 좌심실 수축기능 부전(LVSD)을 진단 보조하는 소프트웨어다. 해당 기능을 갖춘 소프트웨어로 국내 기업이 미국 FDA의 문턱을 넘은 것은 이번이 처음이다."
+                "x": "The 'FaceSurvival' tool points to the area under the eyes and around the bridge of the nose as most vital, across many cancer types, including ones that had spread to bone or brain. A second tool, 'FaceAge', estimates biological age from areas such as the nasolabial folds, forehead and temples."
               },
               {
                 "t": "p",
-                "x": "심부전은 조기 발견 시 예후를 크게 개선할 수 있지만, 초기 증상이 명확하지 않아 심초음파 검사로 이어지지 못하고 치료 시기를 놓치는 경우가 잦다. 'AiTiALVSD'는 사람의 눈으로 포착하기 어려운 미세한 심전도 변화를 AI가 감지하는 심전도 기반 디지털 바이오마커 역할을 한다."
+                "x": "Lead researcher Dr Raymond Mak of Mass General Brigham says the goal is to make face-based health assessment \"more quantitative, consistent and scalable\" to support treatment decisions \"rather than replace physician judgment\". The team says it needs far more data, especially from different ethnic groups."
               },
               {
                 "t": "p",
-                "x": "이번 허가는 미국 내 6개 대형병원에서 2만 명 이상의 환자를 대상으로 진행된 다인종·다환경 임상시험을 통해 일관된 정확도를 검증받은 결과다. 최근 유럽심장학회에서 발표된 네덜란드 암스테르담 대학병원의 눈가림 직접비교 검증연구에서도 주요 심전도 AI 모델들을 제치고 가장 높은 정확도를 기록했다."
-              },
-              {
-                "t": "p",
-                "x": "미국의 심부전 환자는 약 670만 명에 달한다. 메디컬에이아이는 유럽, 영국, 인도, 싱가포르 등에 이어 미국 인허가까지 확보한 만큼 현지 의료기관·파트너사와 협력해 본격적인 미국 사업 확대에 나설 방침이다."
-              },
-              {
-                "t": "p",
-                "x": "권준명 대표는 \"글로벌에서 가장 큰 미국 시장 진출을 위한 준비가 완료된 만큼 큰 성과를 만들어보도록 하겠다\"고 강조했다."
+                "x": "Prof Miroslaw Bober of the University of Surrey calls it \"a promising proof of concept, but it is not ready for clinical use\", warning: \"Predicting an outcome is not the same as explaining it.\""
               }
             ]
           }
         },
-        "en": {
-          "headline": "Medical AI ECG software\nwins U.S. FDA clearance",
-          "body": "Medical AI's ECG-based heart failure diagnostic aid AI 'AiTiALVSD' has received U.S. FDA 510(k) clearance.",
-          "mini_headline": "ECG heart failure AI wins FDA clearance",
+        "ko": {
+          "headline": "얼굴 사진 한 장으로\n환자 중증도 가늠",
+          "body": "암 환자 35,000명 사진을 배운 US AI가 얼굴만 보고 중증도 판단을 돕는다.",
+          "mini_headline": "얼굴 사진으로 중증도 가늠",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Medical AI (CEO Kwon Joon-myung), a company specializing in medical artificial intelligence (AI), said on the 15th that its heart failure diagnostic aid medical device software 'AiTiALVSD' had obtained 510(k) Clearance (premarket clearance) from the U.S. Food and Drug Administration (FDA)."
+                "x": "US 연구진은 얼굴 사진 한 장만으로 의사가 환자 중증도를 판단하도록 AI 도구가 도울 수 있다고 밝혔다. 이 도구는 건강한 얼굴 수백만 장과 암 환자 사진 35,000장을 학습했고, 눈 주변 특징을 꼼꼼히 살펴 생존 가능성을 추정한다. 예비 연구 결과는 Lancet Digital Health에 실렸다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
-                "cap": "Photo courtesy of Medical AI"
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a1e6/live/25088dc0-c945-11f1-9357-bdb8a3cad3e4.png",
+                "cap": "암 생존(왼쪽)과 나이(오른쪽) 예측에 가장 중요한 얼굴 부위. Mass General Brigham/Lancet Digital Health"
               },
               {
                 "t": "p",
-                "x": "'AiTiALVSD' is software that uses AI to analyze electrocardiogram data routinely measured in hospitals and help diagnose left ventricular systolic dysfunction (LVSD), a type of heart failure. This is the first time a Korean company has cleared the U.S. FDA bar with software offering this function."
+                "x": "'FaceSurvival' 도구는 뼈나 뇌로 전이된 암까지 여러 암종에서 눈 아래와 콧등 주변을 가장 중요한 부위로 꼽는다. 또 다른 도구 'FaceAge'는 팔자주름과 이마, 관자놀이를 보고 생물학적 나이를 추정한다."
               },
               {
                 "t": "p",
-                "x": "Heart failure outcomes can improve greatly when it is detected early, but because early symptoms are often unclear, patients frequently do not go on to echocardiography and miss the window for treatment. 'AiTiALVSD' acts as an ECG-based digital biomarker, with AI detecting subtle ECG changes that are hard for the human eye to catch."
+                "x": "연구를 이끈 Mass General Brigham의 Raymond Mak 박사는 얼굴로 건강을 평가하는 일을 \"더 정량적이고 일관되며 확장 가능하게\" 만들어, \"의사의 판단을 대체하기보다\" 치료 결정을 돕겠다고 말한다. 연구팀은 무엇보다 다양한 인종 집단의 데이터가 훨씬 더 있어야 한다고 했다."
               },
               {
                 "t": "p",
-                "x": "The clearance follows a multi-ethnic, multi-setting clinical trial of more than 20,000 (2만 명) patients at 6 major U.S. hospitals that verified consistent accuracy. In a blinded head-to-head validation study by Amsterdam University Medical Center in the Netherlands, recently presented at the European Society of Cardiology, it also recorded the highest accuracy, ahead of leading ECG AI models."
-              },
-              {
-                "t": "p",
-                "x": "There are about 6.7 million (670만 명) heart failure patients in the U.S. Having secured U.S. approval following Europe, the United Kingdom, India and Singapore, Medical AI plans to expand its U.S. business in earnest in cooperation with local medical institutions and partners."
-              },
-              {
-                "t": "p",
-                "x": "CEO Kwon Joon-myung said, \"Now that we have completed preparations to enter the U.S., the largest market in the world, we will work to achieve strong results.\""
+                "x": "University of Surrey의 Miroslaw Bober 교수는 \"유망한 개념 증명이지만 임상에 쓸 단계는 아니다\"라고 평가했다. 그러면서 \"결과를 예측하는 것과 설명하는 것은 다르다\"고 경고했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "メディカルAIの心電図AI\n米FDAの認可を取得",
-          "body": "メディカルAIの心電図AI「AiTiALVSD」が米FDAの510(k)認可を取得した。",
-          "mini_headline": "心電図の心不全AI、FDA認可",
+          "headline": "顔写真一枚で\n患者の重症度を推定",
+          "body": "がん患者35,000人の写真で学んだUSのAIが、顔写真から重症度の判断を助け得る。",
+          "mini_headline": "顔写真で重症度を推定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"
+              },
+              {
                 "t": "p",
-                "x": "医療人工知能(AI)専門企業のメディカルAI(代表:クォン・ジュンミョン)は15日、心不全診断補助の医療機器ソフトウェア「AiTiALVSD(エティア・エルブイエスディ)」で米食品医薬品局(FDA)の510(k) Clearance(市販前認可)を取得したと明らかにした。"
+                "x": "米国（US）の研究者らによると、AIツールは顔写真一枚から患者の重症度を判断する医師の助けになり得る。健康な人の顔写真数百万枚とがん患者の写真35,000枚で学習し、目の周辺の特徴を詳しく見て生存の見通しを推定する。予備的な結果はLancet Digital Healthに掲載された。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
-                "cap": "写真提供=メディカルAI"
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a1e6/live/25088dc0-c945-11f1-9357-bdb8a3cad3e4.png",
+                "cap": "がんの生存（左）と年齢（右）に最も重要な顔の領域。Mass General Brigham/Lancet Digital Health"
               },
               {
                 "t": "p",
-                "x": "「AiTiALVSD」は、病院で日常的に測定する心電図データをAIで解析し、心不全の一種である左室収縮機能不全(LVSD)の診断を補助するソフトウェアだ。この機能を備えたソフトウェアで韓国企業が米FDAの関門を越えたのは今回が初めてである。"
+                "x": "「FaceSurvival」は、骨や脳に転移したものを含む多くのがん種で、目の下と鼻筋の周辺を最も重要な部位として示す。二つ目のツール「FaceAge」は、ほうれい線や額、こめかみなどの部位から生物学的年齢を推定する。"
               },
               {
                 "t": "p",
-                "x": "心不全は早期に発見すれば予後を大きく改善できるが、初期症状がはっきりしないため心エコー検査につながらず、治療の時機を逸することが多い。「AiTiALVSD」は、人の目では捉えにくい微細な心電図の変化をAIが検知する、心電図ベースのデジタルバイオマーカーの役割を果たす。"
+                "x": "研究を率いたMass General BrighamのRaymond Mak医師は、顔に基づく健康評価を「より定量的で一貫性があり、拡張可能な」ものにし、「医師の判断に取って代わるのではなく」治療の意思決定を支えることが目標だと語る。研究チームは、特に多様な民族集団のデータがはるかに多く必要だとしている。"
               },
               {
                 "t": "p",
-                "x": "今回の認可は、米国内の大規模病院6施設で2万人以上の患者を対象に行われた多人種・多環境の臨床試験で、一貫した精度が検証された結果だ。最近、欧州心臓病学会で発表されたオランダ・アムステルダム大学病院の盲検直接比較検証研究でも、主要な心電図AIモデルを抑えて最も高い精度を記録した。"
-              },
-              {
-                "t": "p",
-                "x": "米国の心不全患者は約670万人に上る。メディカルAIは欧州、英国、インド、シンガポールなどに続き米国の許認可も確保したことから、現地の医療機関やパートナー企業と協力し、米国事業の本格的な拡大に乗り出す方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "クォン・ジュンミョン代表は「世界最大の米国市場に進出する準備が整った以上、大きな成果を出せるよう取り組む」と強調した。"
+                "x": "University of SurreyのMiroslaw Bober教授は「有望な概念実証だが、臨床で使える段階ではない」と評し、「結果を予測することは、それを説明することと同じではない」と警告する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Medical AI心电图\nAI获美国FDA许可",
-          "body": "Medical AI的心电图AI“AiTiALVSD”获美国FDA 510(k)许可。",
-          "mini_headline": "心电图心衰AI获FDA许可",
+          "headline": "一张面部照片\n或可判断病情轻重",
+          "body": "US研究团队用35,000名癌症患者照片训练的AI，或能凭一张面部照片帮医生判断病情。",
+          "mini_headline": "面部照片评估病情",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"
+              },
+              {
                 "t": "p",
-                "x": "医疗人工智能(AI)专业企业Medical AI(代表权俊明)15日表示,其心力衰竭辅助诊断医疗器械软件“AiTiALVSD”获得美国食品药品监督管理局(FDA)510(k) Clearance(上市前许可)。"
+                "x": "美国（US）研究人员表示，一款AI工具或可帮助医生仅凭一张面部照片判断患者病情的轻重。该工具以数百万张健康人脸和35,000张癌症患者照片训练，通过细看眼部附近的特征来估计生存情况。初步研究结果发表在Lancet Digital Health上。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
-                "cap": "图片提供:Medical AI"
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a1e6/live/25088dc0-c945-11f1-9357-bdb8a3cad3e4.png",
+                "cap": "对癌症生存（左）和年龄（右）最重要的面部区域。Mass General Brigham/Lancet Digital Health"
               },
               {
                 "t": "p",
-                "x": "“AiTiALVSD”利用AI分析医院日常测量的心电图数据,辅助诊断心力衰竭的一种——左心室收缩功能障碍(LVSD)。这是韩国企业首次凭借具备该功能的软件跨过美国FDA的门槛。"
+                "x": "在多种癌症中，包括已转移至骨骼或大脑的癌症，“FaceSurvival”工具都将眼下和鼻梁周围视为最关键的区域。第二款工具“FaceAge”则根据鼻唇沟、额头和太阳穴等部位估算生理年龄。"
               },
               {
                 "t": "p",
-                "x": "心力衰竭若能早期发现,预后可大幅改善,但由于初期症状不明显,患者往往没有接受心脏超声检查而错过治疗时机。“AiTiALVSD”发挥基于心电图的数字生物标志物作用,由AI捕捉人眼难以察觉的细微心电图变化。"
+                "x": "首席研究员、Mass General Brigham的Raymond Mak博士表示，目标是让基于面部的健康评估“更加量化、一致且可扩展”，以支持治疗决策，“而不是取代医生的判断”。团队表示还需要多得多的数据，尤其是来自不同族群的数据。"
               },
               {
                 "t": "p",
-                "x": "此次许可源于在美国6家大型医院、以2万多名患者为对象开展的多人种、多环境临床试验,该试验验证了其一致的准确性。在最近于欧洲心脏病学会上发表的荷兰阿姆斯特丹大学医院盲法直接比较验证研究中,它也超越主要心电图AI模型,取得了最高准确度。"
-              },
-              {
-                "t": "p",
-                "x": "美国心力衰竭患者约达670万人。继欧洲、英国、印度、新加坡等地之后,Medical AI又取得美国许可,计划与当地医疗机构及合作伙伴携手,全面扩大美国业务。"
-              },
-              {
-                "t": "p",
-                "x": "权俊明代表强调:“既然进军全球最大的美国市场的准备已经完成,我们将努力创造重大成果。”"
+                "x": "University of Surrey的Miroslaw Bober教授称其为“一项有前景的概念验证，但尚不能用于临床”，并警告：“预测结果并不等于解释结果。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA de ECG de Medical AI\nobtiene el aval de la FDA",
-          "body": "La IA 'AiTiALVSD' de Medical AI para diagnóstico de insuficiencia cardíaca por ECG obtuvo el aval 510(k) de la FDA.",
-          "mini_headline": "IA de ECG para insuficiencia cardíaca, aval de la FDA",
+          "headline": "Una foto del rostro podría\nmostrar la gravedad del paciente",
+          "body": "Una AI de US entrenada con fotos de 35,000 pacientes con cáncer podría ayudar a medir la gravedad con una foto facial.",
+          "mini_headline": "Una foto facial mide la gravedad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Medical AI (consejero delegado: Kwon Joon-myung), empresa especializada en inteligencia artificial (AI) médica, anunció el día 15 que su software de dispositivo médico para el apoyo al diagnóstico de la insuficiencia cardíaca, 'AiTiALVSD', obtuvo la 510(k) Clearance (autorización previa a la comercialización) de la Administración de Alimentos y Medicamentos (FDA) de EE. UU."
+                "x": "Una herramienta de AI podría ayudar a los médicos a juzgar la gravedad de un paciente a partir de una sola fotografía de su rostro, según investigadores de EE. UU. (US). Entrenada con millones de rostros sanos y 35,000 fotos de pacientes con cáncer, estima la supervivencia examinando de cerca los rasgos cercanos a los ojos. Los resultados preliminares se publicaron en Lancet Digital Health."
               },
               {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
-                "cap": "Foto cortesía de Medical AI"
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a1e6/live/25088dc0-c945-11f1-9357-bdb8a3cad3e4.png",
+                "cap": "Regiones faciales más importantes para la supervivencia al cáncer (izquierda) y para la edad (derecha). Mass General Brigham/Lancet Digital Health"
               },
               {
                 "t": "p",
-                "x": "'AiTiALVSD' es un software que analiza con AI los datos de electrocardiograma que se miden de forma rutinaria en los hospitales para apoyar el diagnóstico de la disfunción sistólica del ventrículo izquierdo (LVSD), un tipo de insuficiencia cardíaca. Es la primera vez que una empresa coreana supera el umbral de la FDA de EE. UU. con un software de esta función."
+                "x": "La herramienta 'FaceSurvival' señala la zona bajo los ojos y alrededor del puente de la nariz como la más determinante en muchos tipos de cáncer, incluidos los que se habían extendido al hueso o al cerebro. Una segunda herramienta, 'FaceAge', estima la edad biológica a partir de zonas como los surcos nasolabiales, la frente y las sienes."
               },
               {
                 "t": "p",
-                "x": "Detectar a tiempo la insuficiencia cardíaca puede mejorar mucho el pronóstico, pero como los síntomas iniciales no son claros, a menudo no se llega a realizar una ecocardiografía y se pierde el momento del tratamiento. 'AiTiALVSD' funciona como un biomarcador digital basado en el electrocardiograma, en el que la AI detecta cambios sutiles difíciles de captar para el ojo humano."
+                "x": "El investigador principal, el Dr Raymond Mak, de Mass General Brigham, afirma que el objetivo es que la evaluación de la salud basada en el rostro sea \"más cuantitativa, consistente y escalable\" para apoyar las decisiones de tratamiento, \"en lugar de sustituir el juicio médico\". El equipo señala que necesita muchos más datos, sobre todo de distintos grupos étnicos."
               },
               {
                 "t": "p",
-                "x": "La autorización se basa en un ensayo clínico multiétnico y en múltiples entornos con más de 20.000 (2만 명) pacientes en 6 grandes hospitales de EE. UU., que verificó una precisión constante. En un estudio de validación ciego de comparación directa del Hospital Universitario de Ámsterdam (Países Bajos), presentado recientemente en la Sociedad Europea de Cardiología, también registró la mayor precisión, por delante de los principales modelos de AI de electrocardiograma."
-              },
-              {
-                "t": "p",
-                "x": "En EE. UU. hay unos 6,7 millones (670만 명) de pacientes con insuficiencia cardíaca. Tras Europa, el Reino Unido, India y Singapur, Medical AI ha conseguido también la autorización en EE. UU. y prevé ampliar de lleno su negocio en ese país en colaboración con instituciones médicas y socios locales."
-              },
-              {
-                "t": "p",
-                "x": "El consejero delegado Kwon Joon-myung subrayó: \"Ahora que hemos completado los preparativos para entrar en EE. UU., el mayor mercado del mundo, trabajaremos para lograr grandes resultados\"."
+                "x": "El Prof Miroslaw Bober, de la University of Surrey, lo califica de \"una prueba de concepto prometedora, pero no está lista para el uso clínico\", y advierte: \"Predecir un resultado no es lo mismo que explicarlo\"."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Medical AI ECG software\nwins U.S. FDA clearance",
-          "body": "Medical AI's ECG-based heart failure diagnostic aid AI 'AiTiALVSD' has received U.S. FDA 510(k) clearance.",
-          "mini_headline": "ECG heart failure AI wins FDA clearance",
+        "ko": {
+          "headline": "얼굴 사진 한 장으로\n환자 중증도 가늠",
+          "body": "암 환자 35,000명 사진을 익힌 US AI가 얼굴로 중증도 판단을 돕는다.",
+          "mini_headline": "얼굴 사진으로 중증도 가늠",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Medical AI (CEO Kwon Joon-myung), a company specializing in medical artificial intelligence (AI), said on the 15th that its heart failure diagnostic aid medical device software 'AiTiALVSD' had obtained 510(k) Clearance (premarket clearance) from the U.S. Food and Drug Administration (FDA)."
+                "x": "US 연구진은 AI 도구가 얼굴 사진 한 장으로 환자의 중증도를 판단하는 의사를 도울 수 있다고 밝혔다. 건강한 얼굴 수백만 장과 암 환자 사진 35,000장으로 학습한 이 도구는 눈 주변 특징을 자세히 살펴 생존 가능성을 추정한다. 예비 연구 결과는 Lancet Digital Health에 실렸다."
               },
               {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
-                "cap": "Photo courtesy of Medical AI"
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a1e6/live/25088dc0-c945-11f1-9357-bdb8a3cad3e4.png",
+                "cap": "암 생존(왼쪽)과 나이(오른쪽) 예측에 가장 중요한 얼굴 부위. Mass General Brigham/Lancet Digital Health"
               },
               {
                 "t": "p",
-                "x": "'AiTiALVSD' is software that uses AI to analyze electrocardiogram data routinely measured in hospitals and help diagnose left ventricular systolic dysfunction (LVSD), a type of heart failure. This is the first time a Korean company has cleared the U.S. FDA bar with software offering this function."
+                "x": "'FaceSurvival' 도구는 뼈나 뇌로 전이된 암을 포함한 여러 암종에서 눈 아래와 콧등 주변을 가장 중요한 부위로 꼽는다. 두 번째 도구 'FaceAge'는 팔자주름, 이마, 관자놀이 같은 부위로 생물학적 나이를 추정한다."
               },
               {
                 "t": "p",
-                "x": "Heart failure outcomes can improve greatly when it is detected early, but because early symptoms are often unclear, patients frequently do not go on to echocardiography and miss the window for treatment. 'AiTiALVSD' acts as an ECG-based digital biomarker, with AI detecting subtle ECG changes that are hard for the human eye to catch."
+                "x": "연구를 이끈 Mass General Brigham의 Raymond Mak 박사는 얼굴 기반 건강 평가를 \"더 정량적이고 일관되며 확장 가능하게\" 만들어 \"의사의 판단을 대체하기보다\" 치료 결정을 돕는 것이 목표라고 말한다. 연구팀은 특히 다양한 인종 집단의 데이터가 훨씬 더 필요하다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "The clearance follows a multi-ethnic, multi-setting clinical trial of more than 20,000 (2만 명) patients at 6 major U.S. hospitals that verified consistent accuracy. In a blinded head-to-head validation study by Amsterdam University Medical Center in the Netherlands, recently presented at the European Society of Cardiology, it also recorded the highest accuracy, ahead of leading ECG AI models."
-              },
-              {
-                "t": "p",
-                "x": "There are about 6.7 million (670만 명) heart failure patients in the U.S. Having secured U.S. approval following Europe, the United Kingdom, India and Singapore, Medical AI plans to expand its U.S. business in earnest in cooperation with local medical institutions and partners."
-              },
-              {
-                "t": "p",
-                "x": "CEO Kwon Joon-myung said, \"Now that we have completed preparations to enter the U.S., the largest market in the world, we will work to achieve strong results.\""
+                "x": "University of Surrey의 Miroslaw Bober 교수는 \"유망한 개념 증명이지만 임상에 쓸 단계는 아니다\"라고 평가하며 \"결과를 예측하는 것과 설명하는 것은 다르다\"고 경고했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "メディカルAIの心電図AI\n米FDAの認可を取得",
-          "body": "メディカルAIの心電図AI「AiTiALVSD」が米FDAの510(k)認可を取得した。",
-          "mini_headline": "心電図の心不全AI、FDA認可",
+          "headline": "顔写真一枚で\n患者の重症度を推定",
+          "body": "がん患者35,000人の写真で学んだUSのAIが、顔写真から重症度の判断を助け得る。",
+          "mini_headline": "顔写真で重症度を推定",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"
+              },
+              {
                 "t": "p",
-                "x": "医療人工知能(AI)専門企業のメディカルAI(代表:クォン・ジュンミョン)は15日、心不全診断補助の医療機器ソフトウェア「AiTiALVSD(エティア・エルブイエスディ)」で米食品医薬品局(FDA)の510(k) Clearance(市販前認可)を取得したと明らかにした。"
+                "x": "米国（US）の研究者らによると、AIツールは顔写真一枚から患者の重症度を判断する医師の助けになり得る。健康な人の顔写真数百万枚とがん患者の写真35,000枚で学習し、目の周辺の特徴を詳しく見て生存の見通しを推定する。予備的な結果はLancet Digital Healthに掲載された。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
-                "cap": "写真提供=メディカルAI"
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a1e6/live/25088dc0-c945-11f1-9357-bdb8a3cad3e4.png",
+                "cap": "がんの生存（左）と年齢（右）に最も重要な顔の領域。Mass General Brigham/Lancet Digital Health"
               },
               {
                 "t": "p",
-                "x": "「AiTiALVSD」は、病院で日常的に測定する心電図データをAIで解析し、心不全の一種である左室収縮機能不全(LVSD)の診断を補助するソフトウェアだ。この機能を備えたソフトウェアで韓国企業が米FDAの関門を越えたのは今回が初めてである。"
+                "x": "「FaceSurvival」は、骨や脳に転移したものを含む多くのがん種で、目の下と鼻筋の周辺を最も重要な部位として示す。二つ目のツール「FaceAge」は、ほうれい線や額、こめかみなどの部位から生物学的年齢を推定する。"
               },
               {
                 "t": "p",
-                "x": "心不全は早期に発見すれば予後を大きく改善できるが、初期症状がはっきりしないため心エコー検査につながらず、治療の時機を逸することが多い。「AiTiALVSD」は、人の目では捉えにくい微細な心電図の変化をAIが検知する、心電図ベースのデジタルバイオマーカーの役割を果たす。"
+                "x": "研究を率いたMass General BrighamのRaymond Mak医師は、顔に基づく健康評価を「より定量的で一貫性があり、拡張可能な」ものにし、「医師の判断に取って代わるのではなく」治療の意思決定を支えることが目標だと語る。研究チームは、特に多様な民族集団のデータがはるかに多く必要だとしている。"
               },
               {
                 "t": "p",
-                "x": "今回の認可は、米国内の大規模病院6施設で2万人以上の患者を対象に行われた多人種・多環境の臨床試験で、一貫した精度が検証された結果だ。最近、欧州心臓病学会で発表されたオランダ・アムステルダム大学病院の盲検直接比較検証研究でも、主要な心電図AIモデルを抑えて最も高い精度を記録した。"
-              },
-              {
-                "t": "p",
-                "x": "米国の心不全患者は約670万人に上る。メディカルAIは欧州、英国、インド、シンガポールなどに続き米国の許認可も確保したことから、現地の医療機関やパートナー企業と協力し、米国事業の本格的な拡大に乗り出す方針だ。"
-              },
-              {
-                "t": "p",
-                "x": "クォン・ジュンミョン代表は「世界最大の米国市場に進出する準備が整った以上、大きな成果を出せるよう取り組む」と強調した。"
+                "x": "University of SurreyのMiroslaw Bober教授は「有望な概念実証だが、臨床で使える段階ではない」と評し、「結果を予測することは、それを説明することと同じではない」と警告する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Medical AI心电图\nAI获美国FDA许可",
-          "body": "Medical AI的心电图AI“AiTiALVSD”获美国FDA 510(k)许可。",
-          "mini_headline": "心电图心衰AI获FDA许可",
+          "headline": "一张面部照片\n或可判断病情轻重",
+          "body": "US研究团队用35,000名癌症患者照片训练的AI，或能凭一张面部照片帮医生判断病情。",
+          "mini_headline": "面部照片评估病情",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"
+              },
+              {
                 "t": "p",
-                "x": "医疗人工智能(AI)专业企业Medical AI(代表权俊明)15日表示,其心力衰竭辅助诊断医疗器械软件“AiTiALVSD”获得美国食品药品监督管理局(FDA)510(k) Clearance(上市前许可)。"
+                "x": "美国（US）研究人员表示，一款AI工具或可帮助医生仅凭一张面部照片判断患者病情的轻重。该工具以数百万张健康人脸和35,000张癌症患者照片训练，通过细看眼部附近的特征来估计生存情况。初步研究结果发表在Lancet Digital Health上。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
-                "cap": "图片提供:Medical AI"
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a1e6/live/25088dc0-c945-11f1-9357-bdb8a3cad3e4.png",
+                "cap": "对癌症生存（左）和年龄（右）最重要的面部区域。Mass General Brigham/Lancet Digital Health"
               },
               {
                 "t": "p",
-                "x": "“AiTiALVSD”利用AI分析医院日常测量的心电图数据,辅助诊断心力衰竭的一种——左心室收缩功能障碍(LVSD)。这是韩国企业首次凭借具备该功能的软件跨过美国FDA的门槛。"
+                "x": "在多种癌症中，包括已转移至骨骼或大脑的癌症，“FaceSurvival”工具都将眼下和鼻梁周围视为最关键的区域。第二款工具“FaceAge”则根据鼻唇沟、额头和太阳穴等部位估算生理年龄。"
               },
               {
                 "t": "p",
-                "x": "心力衰竭若能早期发现,预后可大幅改善,但由于初期症状不明显,患者往往没有接受心脏超声检查而错过治疗时机。“AiTiALVSD”发挥基于心电图的数字生物标志物作用,由AI捕捉人眼难以察觉的细微心电图变化。"
+                "x": "首席研究员、Mass General Brigham的Raymond Mak博士表示，目标是让基于面部的健康评估“更加量化、一致且可扩展”，以支持治疗决策，“而不是取代医生的判断”。团队表示还需要多得多的数据，尤其是来自不同族群的数据。"
               },
               {
                 "t": "p",
-                "x": "此次许可源于在美国6家大型医院、以2万多名患者为对象开展的多人种、多环境临床试验,该试验验证了其一致的准确性。在最近于欧洲心脏病学会上发表的荷兰阿姆斯特丹大学医院盲法直接比较验证研究中,它也超越主要心电图AI模型,取得了最高准确度。"
-              },
-              {
-                "t": "p",
-                "x": "美国心力衰竭患者约达670万人。继欧洲、英国、印度、新加坡等地之后,Medical AI又取得美国许可,计划与当地医疗机构及合作伙伴携手,全面扩大美国业务。"
-              },
-              {
-                "t": "p",
-                "x": "权俊明代表强调:“既然进军全球最大的美国市场的准备已经完成,我们将努力创造重大成果。”"
+                "x": "University of Surrey的Miroslaw Bober教授称其为“一项有前景的概念验证，但尚不能用于临床”，并警告：“预测结果并不等于解释结果。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA de ECG de Medical AI\nobtiene el aval de la FDA",
-          "body": "La IA 'AiTiALVSD' de Medical AI para diagnóstico de insuficiencia cardíaca por ECG obtuvo el aval 510(k) de la FDA.",
-          "mini_headline": "IA de ECG para insuficiencia cardíaca, aval de la FDA",
+          "headline": "Una foto del rostro podría\nmostrar la gravedad del paciente",
+          "body": "Una AI de US entrenada con fotos de 35,000 pacientes con cáncer podría ayudar a medir la gravedad con una foto facial.",
+          "mini_headline": "Una foto facial mide la gravedad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"
+              },
+              {
                 "t": "p",
-                "x": "Medical AI (consejero delegado: Kwon Joon-myung), empresa especializada en inteligencia artificial (AI) médica, anunció el día 15 que su software de dispositivo médico para el apoyo al diagnóstico de la insuficiencia cardíaca, 'AiTiALVSD', obtuvo la 510(k) Clearance (autorización previa a la comercialización) de la Administración de Alimentos y Medicamentos (FDA) de EE. UU."
+                "x": "Una herramienta de AI podría ayudar a los médicos a juzgar la gravedad de un paciente a partir de una sola fotografía de su rostro, según investigadores de EE. UU. (US). Entrenada con millones de rostros sanos y 35,000 fotos de pacientes con cáncer, estima la supervivencia examinando de cerca los rasgos cercanos a los ojos. Los resultados preliminares se publicaron en Lancet Digital Health."
               },
               {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
-                "cap": "Foto cortesía de Medical AI"
+                "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a1e6/live/25088dc0-c945-11f1-9357-bdb8a3cad3e4.png",
+                "cap": "Regiones faciales más importantes para la supervivencia al cáncer (izquierda) y para la edad (derecha). Mass General Brigham/Lancet Digital Health"
               },
               {
                 "t": "p",
-                "x": "'AiTiALVSD' es un software que analiza con AI los datos de electrocardiograma que se miden de forma rutinaria en los hospitales para apoyar el diagnóstico de la disfunción sistólica del ventrículo izquierdo (LVSD), un tipo de insuficiencia cardíaca. Es la primera vez que una empresa coreana supera el umbral de la FDA de EE. UU. con un software de esta función."
+                "x": "La herramienta 'FaceSurvival' señala la zona bajo los ojos y alrededor del puente de la nariz como la más determinante en muchos tipos de cáncer, incluidos los que se habían extendido al hueso o al cerebro. Una segunda herramienta, 'FaceAge', estima la edad biológica a partir de zonas como los surcos nasolabiales, la frente y las sienes."
               },
               {
                 "t": "p",
-                "x": "Detectar a tiempo la insuficiencia cardíaca puede mejorar mucho el pronóstico, pero como los síntomas iniciales no son claros, a menudo no se llega a realizar una ecocardiografía y se pierde el momento del tratamiento. 'AiTiALVSD' funciona como un biomarcador digital basado en el electrocardiograma, en el que la AI detecta cambios sutiles difíciles de captar para el ojo humano."
+                "x": "El investigador principal, el Dr Raymond Mak, de Mass General Brigham, afirma que el objetivo es que la evaluación de la salud basada en el rostro sea \"más cuantitativa, consistente y escalable\" para apoyar las decisiones de tratamiento, \"en lugar de sustituir el juicio médico\". El equipo señala que necesita muchos más datos, sobre todo de distintos grupos étnicos."
               },
               {
                 "t": "p",
-                "x": "La autorización se basa en un ensayo clínico multiétnico y en múltiples entornos con más de 20.000 (2만 명) pacientes en 6 grandes hospitales de EE. UU., que verificó una precisión constante. En un estudio de validación ciego de comparación directa del Hospital Universitario de Ámsterdam (Países Bajos), presentado recientemente en la Sociedad Europea de Cardiología, también registró la mayor precisión, por delante de los principales modelos de AI de electrocardiograma."
-              },
-              {
-                "t": "p",
-                "x": "En EE. UU. hay unos 6,7 millones (670만 명) de pacientes con insuficiencia cardíaca. Tras Europa, el Reino Unido, India y Singapur, Medical AI ha conseguido también la autorización en EE. UU. y prevé ampliar de lleno su negocio en ese país en colaboración con instituciones médicas y socios locales."
-              },
-              {
-                "t": "p",
-                "x": "El consejero delegado Kwon Joon-myung subrayó: \"Ahora que hemos completado los preparativos para entrar en EE. UU., el mayor mercado del mundo, trabajaremos para lograr grandes resultados\"."
+                "x": "El Prof Miroslaw Bober, de la University of Surrey, lo califica de \"una prueba de concepto prometedora, pero no está lista para el uso clínico\", y advierte: \"Predecir un resultado no es lo mismo que explicarlo\"."
               }
             ]
           }
@@ -405,321 +365,321 @@
       }
     },
     {
-      "id": "medicine-ai-infocare-previsit-summaries",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "진료 전 AI 요약문\n무작위 시험으로 검증",
-      "body": "300명 대상 시험에서 AI 사전 요약이 진료 시간을 33분에서 25분으로 줄였다.",
-      "mini_headline": "진료 전 AI 요약 시험",
+      "id": "medicine-argus-autism-ai-fda",
       "tool": "Medicine",
-      "source": "NEJM AI",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600136",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "소아 자폐 진단 AI\nFDA 승인 받아",
+      "body": "아거스 코그니티브의 소아 자폐 진단 보조 AI 뉴로라가 미국 FDA 승인을 받았다.",
+      "mini_headline": "자폐 진단 AI 승인",
+      "source": "의학신문",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013789",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
+          {
+            "t": "p",
+            "x": "미국에서 소아 자폐 진단 AI 소프트웨어가 FDA 승인을 받았다."
+          },
           {
             "t": "img",
-            "src": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
-            "cap": ""
+            "src": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+            "cap": "뉴로라 (출처 = 아거스 코그니티브)"
           },
           {
             "t": "p",
-            "x": "건강 정보 이해력이 낮거나 임상 전문용어가 낯설고 진료 시간까지 짧으면 환자는 검사 소견을 제대로 이해하기 어렵다. AI-INFOCARE 시험은 AI가 만들고(AI-generated) 품질 점검까지 거친 쉬운 말 요약을 진료 전에 건네면 소통이 나아지는지 살폈다."
+            "x": "아거스 코그니티브는 뉴로라가 18개월~12세 소아의 자폐 스펙트럼 장애(ASD) 진단을 돕는 용도로 승인을 받았다고 최근 발표했다."
           },
           {
             "t": "p",
-            "x": "시험은 신경외과 외래 한 곳에서 진행됐다. 성인 300명을 1:1로 무작위 배정해 한 군은 표준 진료만 받고, 다른 군은 품질 점검을 거친 AI 일반인용 검사 소견 요약(Simply Onno)을 진료 전에 함께 받았다. 일차 평가변수는 환자가 보고한 의사-환자 상호작용의 질(FAPI)이었다."
+            "x": "디지털 포털에 비디오와 오디오를 올리면 뉴로라가 음성, 얼굴, 시선 등 100여 가지 생체 계측으로 행동을 객관적으로 측정한다."
           },
           {
             "t": "p",
-            "x": "평균 FAPI 점수는 요약을 받은 군이 더 높았다(4.42 대 4.25, P=0.005). 차이는 공동 의사결정에서 나왔고 체감 공감도에는 차이가 없었다. 자율성 지지는 환자 평가에서 높아졌지만 의사 자가 평가에서는 약간 낮았다. 진료 시간 중앙값은 25분 대 33분으로 상대적으로 약 21% 짧아졌다."
-          },
-          {
-            "t": "p",
-            "x": "연구진은 이번 결과를 근거로 환자용 문서 번역을 더 평가해 볼 만하다고 밝혔다. 일상 진료에 들이기 전에는 임상 결과와 의료진 업무량에 어떤 영향을 주는지 먼저 확인해야 한다는 단서도 달았다."
+            "x": "아거스는 뉴로라가 AI 기반 2급 소프트웨어 의료기기(SaMD)로, 혼자 진단을 내리기보다 의사의 전문적 판단을 보조하는 도구라고 설명했다. 개발 과정에서는 미국 국립보건연구소의 소기업 혁신 연구 지원을 받았다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "AI summaries before the visit\nput to a randomized test",
-          "body": "In a 300-patient randomized trial, pre-visit AI lay summaries of medical findings improved patient-rated communication and cut median consultation time from 33 to 25 minutes.",
-          "mini_headline": "Pre-visit AI summaries tested",
+        "ko": {
+          "headline": "소아 자폐 진단 AI\nFDA 승인 받아",
+          "body": "아거스 코그니티브의 소아 자폐 진단 보조 AI 뉴로라가 미국 FDA 승인을 받았다.",
+          "mini_headline": "자폐 진단 AI 승인",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "미국에서 소아 자폐 진단 AI 소프트웨어가 FDA 승인을 받았다."
+              },
+              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
-                "cap": ""
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+                "cap": "뉴로라 (출처 = 아거스 코그니티브)"
               },
               {
                 "t": "p",
-                "x": "Limited health literacy, clinical jargon and time-constrained consultations often impair patients' understanding of medical findings. The AI-INFOCARE trial tested whether AI-generated, quality-checked lay-language summaries provided before consultations improve communication."
+                "x": "아거스 코그니티브는 뉴로라가 18개월~12세 소아의 자폐 스펙트럼 장애(ASD) 진단을 돕는 용도로 승인을 받았다고 최근 발표했다."
               },
               {
                 "t": "p",
-                "x": "In a single-center trial in an outpatient neurosurgical setting, 300 adults were randomly assigned 1:1 to standard care with or without a quality-checked AI layperson summary of their medical findings (Simply Onno) before the visit. The primary end point was patient-reported quality of physician-patient interaction (FAPI)."
+                "x": "디지털 포털에 비디오와 오디오를 올리면 뉴로라가 음성, 얼굴, 시선 등 100여 가지 생체 계측으로 행동을 객관적으로 측정한다."
               },
               {
                 "t": "p",
-                "x": "The mean FAPI score was higher with the summaries (4.42 vs. 4.25; P=0.005), driven by shared decision-making, with no difference in perceived empathy. Patient-rated autonomy support was higher, while physicians rated their own autonomy support slightly lower. Median consultation time was 25 versus 33 minutes, an approximate 21% relative reduction."
-              },
-              {
-                "t": "p",
-                "x": "The authors say the findings support further evaluation of patient-facing document translation, but effects on clinical outcomes and clinician workload need confirmation before routine adoption."
+                "x": "아거스는 뉴로라가 AI 기반 2급 소프트웨어 의료기기(SaMD)로, 혼자 진단을 내리기보다 의사의 전문적 판단을 보조하는 도구라고 설명했다. 개발 과정에서는 미국 국립보건연구소의 소기업 혁신 연구 지원을 받았다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "진료 전 AI 요약문\n무작위 시험으로 검증",
-          "body": "300명 대상 시험에서 AI 사전 요약이 진료 시간을 33분에서 25분으로 줄였다.",
-          "mini_headline": "진료 전 AI 요약 시험",
+        "en": {
+          "headline": "AI for child autism diagnosis\nwins FDA approval",
+          "body": "Argus Cognitive's Neurora, an AI that supports autism diagnosis in children, has received U.S. FDA approval.",
+          "mini_headline": "Autism diagnosis AI approved",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "In the U.S., AI software for diagnosing autism in children has received FDA approval."
+              },
+              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
-                "cap": ""
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+                "cap": "Neurora (Source: Argus Cognitive)"
               },
               {
                 "t": "p",
-                "x": "건강 정보 이해력이 낮거나 임상 전문용어가 낯설고 진료 시간까지 짧으면 환자는 검사 소견을 제대로 이해하기 어렵다. AI-INFOCARE 시험은 AI가 만들고(AI-generated) 품질 점검까지 거친 쉬운 말 요약을 진료 전에 건네면 소통이 나아지는지 살폈다."
+                "x": "Argus Cognitive recently announced that Neurora has been approved to support the diagnosis of autism spectrum disorder (ASD) in children aged 18 months to 12 years."
               },
               {
                 "t": "p",
-                "x": "시험은 신경외과 외래 한 곳에서 진행됐다. 성인 300명을 1:1로 무작위 배정해 한 군은 표준 진료만 받고, 다른 군은 품질 점검을 거친 AI 일반인용 검사 소견 요약(Simply Onno)을 진료 전에 함께 받았다. 일차 평가변수는 환자가 보고한 의사-환자 상호작용의 질(FAPI)이었다."
+                "x": "When video and audio are uploaded to a digital portal, Neurora measures behavior objectively through some 100 biometric measures, including voice, face and gaze."
               },
               {
                 "t": "p",
-                "x": "평균 FAPI 점수는 요약을 받은 군이 더 높았다(4.42 대 4.25, P=0.005). 차이는 공동 의사결정에서 나왔고 체감 공감도에는 차이가 없었다. 자율성 지지는 환자 평가에서 높아졌지만 의사 자가 평가에서는 약간 낮았다. 진료 시간 중앙값은 25분 대 33분으로 상대적으로 약 21% 짧아졌다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 이번 결과를 근거로 환자용 문서 번역을 더 평가해 볼 만하다고 밝혔다. 일상 진료에 들이기 전에는 임상 결과와 의료진 업무량에 어떤 영향을 주는지 먼저 확인해야 한다는 단서도 달았다."
+                "x": "Argus explained that it is an AI-based Class 2 software as a medical device (SaMD), a tool meant to assist physicians' professional judgment rather than to diagnose on its own. It was developed with support from the U.S. National Institutes of Health's small business innovation research program."
               }
             ]
           }
         },
         "ja": {
-          "headline": "受診前のAI要約\nランダム化試験で検証",
-          "body": "300人のランダム化試験で、受診前のAI要約が診察時間を33分から25分に短縮した。",
-          "mini_headline": "受診前AI要約を検証",
+          "headline": "小児自閉症の診断AI\nFDAが承認",
+          "body": "FDAがArgus Cognitiveの小児自閉症診断支援AI Neuroraを承認した。",
+          "mini_headline": "自閉症診断AIを承認",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "米国で小児の自閉症診断AIソフトウェアがFDAの承認を受けた。"
+              },
+              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
-                "cap": ""
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+                "cap": "Neurora（出典：Argus Cognitive）"
               },
               {
                 "t": "p",
-                "x": "ヘルスリテラシーの不足や臨床の専門用語、時間に追われる診察は、患者が検査所見を理解する妨げになりやすい。AI-INFOCARE試験は、AIが生成し(AI-generated)品質確認を経た平易な言葉の要約を受診前に提供することで、コミュニケーションが改善するかを検証した。"
+                "x": "Argus Cognitiveは、18か月〜12歳の小児を対象とした自閉スペクトラム症（ASD）の診断支援について、Neuroraが承認を得たと最近発表した。"
               },
               {
                 "t": "p",
-                "x": "脳神経外科外来で行った単施設試験で、成人300人を1:1で無作為に割り付け、受診前に標準診療のみを受ける群と、検査所見の品質確認済みAI一般向け要約(Simply Onno)を加える群に分けた。主要評価項目は、患者が報告した医師-患者間の相互作用の質(FAPI)である。"
+                "x": "Neuroraは、デジタルポータルに動画と音声をアップロードすると、声、顔、視線など約100の生体計測により行動を客観的に測定する。"
               },
               {
                 "t": "p",
-                "x": "平均FAPIスコアは要約群で高く(4.42対4.25、P=0.005)、これは共同意思決定によるもので、感じられた共感には差がなかった。患者が評価した自律性支援は高まった一方、医師による自己評価の自律性支援はやや低かった。診察時間の中央値は25分対33分で、相対的に約21%短縮した。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、今回の結果が患者向け文書翻訳のさらなる評価を支持するとしつつ、日常診療に導入する前に臨床転帰と医療者の業務量への影響を確かめる必要があると述べている。"
+                "x": "Argusによると、これはAIを基盤とするクラス2のプログラム医療機器（SaMD）であり、単独で診断するというより医師の専門的判断を補助するためのツールだ。なお、米国国立衛生研究所の中小企業技術革新研究の支援を受けて開発された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "就诊前AI摘要\n接受随机试验检验",
-          "body": "在300名患者的随机试验中,就诊前AI摘要将问诊时间从33分钟缩短至25分钟。",
-          "mini_headline": "就诊前AI摘要接受检验",
+          "headline": "儿童自闭症诊断AI\n获FDA批准",
+          "body": "Argus Cognitive的儿童自闭症辅助诊断AI Neurora获美国FDA批准。",
+          "mini_headline": "自闭症诊断AI获批",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "美国一款儿童自闭症诊断AI软件获得FDA批准。"
+              },
+              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
-                "cap": ""
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+                "cap": "Neurora（来源：Argus Cognitive）"
               },
               {
                 "t": "p",
-                "x": "健康素养有限、临床术语以及有限的问诊时间,常常妨碍患者理解检查结果。AI-INFOCARE试验检验了在问诊前提供由AI生成(AI-generated)并经过质量核查的通俗语言摘要,能否改善医患沟通。"
+                "x": "Argus Cognitive近日宣布，Neurora已获批用于辅助诊断18个月至12岁儿童的自闭症谱系障碍（ASD）。"
               },
               {
                 "t": "p",
-                "x": "在这项于神经外科门诊开展的单中心试验中,300名成年人按1:1随机分配,在就诊前接受标准诊疗,并获得或不获得一份经过质量核查的AI通俗版检查结果摘要(Simply Onno)。主要终点是患者报告的医患互动质量(FAPI)。"
+                "x": "只需将视频和音频上传至数字门户，Neurora便能通过语音、面部、注视等100余项生物测量，客观地测量行为。"
               },
               {
                 "t": "p",
-                "x": "摘要组的平均FAPI评分更高(4.42对4.25;P=0.005),差异主要来自共同决策,而感知到的共情没有差异。患者评价的自主性支持更高,医生对自身自主性支持的评分则略低。问诊时间中位数为25分钟对33分钟,相对缩短约21%。"
-              },
-              {
-                "t": "p",
-                "x": "作者表示,研究结果支持对面向患者的文档转译开展进一步评估,但在常规采用之前,仍需确认其对临床结局和医生工作量的影响。"
+                "x": "Argus表示，这是一款基于AI的2类医疗器械软件（SaMD），与其说是独立诊断，不如说是辅助医生专业判断的工具。此外，该产品在美国国立卫生研究院小企业创新研究项目的资助下开发。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Resúmenes de AI antes de la cita\na prueba en un ensayo aleatorio",
-          "body": "En un ensayo aleatorio con 300 pacientes, resúmenes de AI previos a la cita redujeron la consulta de 33 a 25 minutos.",
-          "mini_headline": "Resúmenes de AI previos a la cita, a prueba",
+          "headline": "AI para diagnosticar autismo\ninfantil obtiene aval de la FDA",
+          "body": "Neurora, la AI de Argus Cognitive que ayuda a diagnosticar el autismo infantil, recibió el aval de la FDA de EE. UU.",
+          "mini_headline": "Aprobada una AI para el autismo",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "En EE. UU., un software de AI para diagnosticar el autismo infantil recibió la aprobación de la FDA."
+              },
+              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
-                "cap": ""
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+                "cap": "Neurora (Fuente: Argus Cognitive)"
               },
               {
                 "t": "p",
-                "x": "La alfabetización sanitaria limitada, la jerga clínica y las consultas con poco tiempo suelen dificultar que los pacientes comprendan sus hallazgos médicos. El ensayo AI-INFOCARE evaluó si resúmenes en lenguaje sencillo generados por AI (AI-generated) y con control de calidad, entregados antes de la consulta, mejoran la comunicación."
+                "x": "Argus Cognitive anunció recientemente que Neurora obtuvo la aprobación para apoyar el diagnóstico del trastorno del espectro autista (ASD) en niños de 18 meses a 12 años."
               },
               {
                 "t": "p",
-                "x": "En un ensayo unicéntrico en consultas externas de neurocirugía, 300 adultos fueron asignados aleatoriamente 1:1 a atención estándar con o sin un resumen para legos de sus hallazgos médicos generado por AI y con control de calidad (Simply Onno) antes de la visita. El criterio de valoración principal fue la calidad de la interacción médico-paciente comunicada por el paciente (FAPI)."
+                "x": "Al subir video y audio a un portal digital, Neurora mide de forma objetiva el comportamiento mediante unas 100 mediciones biométricas, como la voz, el rostro y la mirada."
               },
               {
                 "t": "p",
-                "x": "La puntuación media de FAPI fue mayor con los resúmenes (4.42 frente a 4.25; P=0.005), impulsada por la toma de decisiones compartida, sin diferencias en la empatía percibida. El apoyo a la autonomía valorado por los pacientes fue mayor, mientras que los médicos calificaron su propio apoyo a la autonomía como algo menor. La mediana de duración de la consulta fue de 25 frente a 33 minutos, una reducción relativa aproximada del 21%."
-              },
-              {
-                "t": "p",
-                "x": "Los autores afirman que los resultados respaldan seguir evaluando la traducción de documentos dirigidos a pacientes, pero que sus efectos sobre los resultados clínicos y la carga de trabajo de los médicos deben confirmarse antes de una adopción rutinaria."
+                "x": "Argus explicó que se trata de un software como dispositivo médico (SaMD) de clase 2 basado en AI, una herramienta pensada para apoyar el juicio profesional del médico más que para diagnosticar por sí sola. Además, se desarrolló con el apoyo del programa de investigación e innovación para pequeñas empresas de los Institutos Nacionales de Salud de EE. UU."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "진료 전 AI 요약문\n무작위 시험으로 검증",
-          "body": "AI 사전 요약이 300명 시험에서 진료 시간을 33분에서 25분으로 줄였다.",
-          "mini_headline": "진료 전 AI 요약 시험",
+        "en": {
+          "headline": "AI for child autism diagnosis\nwins FDA approval",
+          "body": "Argus Cognitive's Neurora, an AI that supports autism diagnosis in children, has received U.S. FDA approval.",
+          "mini_headline": "Autism diagnosis AI approved",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "In the U.S., AI software for diagnosing autism in children has received FDA approval."
+              },
+              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
-                "cap": ""
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+                "cap": "Neurora (Source: Argus Cognitive)"
               },
               {
                 "t": "p",
-                "x": "건강 정보 이해력 부족, 임상 전문용어, 짧은 진료 시간은 환자가 검사 소견을 이해하는 데 자주 걸림돌이 된다. AI-INFOCARE 시험은 AI가 생성하고(AI-generated) 품질 점검을 거친 쉬운 말 요약을 진료 전에 제공하면 소통이 나아지는지 검증했다."
+                "x": "Argus Cognitive recently announced that Neurora has been approved to support the diagnosis of autism spectrum disorder (ASD) in children aged 18 months to 12 years."
               },
               {
                 "t": "p",
-                "x": "신경외과 외래에서 진행한 단일기관 시험에서 성인 300명을 1:1로 무작위 배정해, 진료 전에 표준 진료만 받는 군과 검사 소견에 대한 품질 점검 AI 일반인용 요약(Simply Onno)을 함께 받는 군으로 나눴다. 일차 평가변수는 환자가 보고한 의사-환자 상호작용의 질(FAPI)이었다."
+                "x": "When video and audio are uploaded to a digital portal, Neurora measures behavior objectively through some 100 biometric measures, including voice, face and gaze."
               },
               {
                 "t": "p",
-                "x": "요약을 받은 군의 평균 FAPI 점수가 더 높았다(4.42 대 4.25, P=0.005). 이 차이는 공동 의사결정에서 비롯됐고, 체감 공감도에는 차이가 없었다. 환자가 평가한 자율성 지지는 높아진 반면, 의사가 스스로 평가한 자율성 지지는 약간 낮았다. 진료 시간 중앙값은 25분 대 33분으로, 상대적으로 약 21% 줄었다."
-              },
-              {
-                "t": "p",
-                "x": "연구진은 이번 결과가 환자용 문서 번역에 대한 추가 평가를 뒷받침한다고 밝혔다. 다만 일상 진료에 도입하기 전에 임상 결과와 의료진 업무량에 미치는 영향을 확인해야 한다고 덧붙였다."
+                "x": "Argus explained that it is an AI-based Class 2 software as a medical device (SaMD), a tool meant to assist physicians' professional judgment rather than to diagnose on its own. It was developed with support from the U.S. National Institutes of Health's small business innovation research program."
               }
             ]
           }
         },
         "ja": {
-          "headline": "受診前のAI要約\nランダム化試験で検証",
-          "body": "300人のランダム化試験で、受診前のAI要約が診察時間を33分から25分に短縮した。",
-          "mini_headline": "受診前AI要約を検証",
+          "headline": "小児自閉症の診断AI\nFDAが承認",
+          "body": "FDAがArgus Cognitiveの小児自閉症診断支援AI Neuroraを承認した。",
+          "mini_headline": "自閉症診断AIを承認",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "米国で小児の自閉症診断AIソフトウェアがFDAの承認を受けた。"
+              },
+              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
-                "cap": ""
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+                "cap": "Neurora（出典：Argus Cognitive）"
               },
               {
                 "t": "p",
-                "x": "ヘルスリテラシーの不足や臨床の専門用語、時間に追われる診察は、患者が検査所見を理解する妨げになりやすい。AI-INFOCARE試験は、AIが生成し(AI-generated)品質確認を経た平易な言葉の要約を受診前に提供することで、コミュニケーションが改善するかを検証した。"
+                "x": "Argus Cognitiveは、18か月〜12歳の小児を対象とした自閉スペクトラム症（ASD）の診断支援について、Neuroraが承認を得たと最近発表した。"
               },
               {
                 "t": "p",
-                "x": "脳神経外科外来で行った単施設試験で、成人300人を1:1で無作為に割り付け、受診前に標準診療のみを受ける群と、検査所見の品質確認済みAI一般向け要約(Simply Onno)を加える群に分けた。主要評価項目は、患者が報告した医師-患者間の相互作用の質(FAPI)である。"
+                "x": "Neuroraは、デジタルポータルに動画と音声をアップロードすると、声、顔、視線など約100の生体計測により行動を客観的に測定する。"
               },
               {
                 "t": "p",
-                "x": "平均FAPIスコアは要約群で高く(4.42対4.25、P=0.005)、これは共同意思決定によるもので、感じられた共感には差がなかった。患者が評価した自律性支援は高まった一方、医師による自己評価の自律性支援はやや低かった。診察時間の中央値は25分対33分で、相対的に約21%短縮した。"
-              },
-              {
-                "t": "p",
-                "x": "著者らは、今回の結果が患者向け文書翻訳のさらなる評価を支持するとしつつ、日常診療に導入する前に臨床転帰と医療者の業務量への影響を確かめる必要があると述べている。"
+                "x": "Argusによると、これはAIを基盤とするクラス2のプログラム医療機器（SaMD）であり、単独で診断するというより医師の専門的判断を補助するためのツールだ。なお、米国国立衛生研究所の中小企業技術革新研究の支援を受けて開発された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "就诊前AI摘要\n接受随机试验检验",
-          "body": "在300名患者的随机试验中,就诊前AI摘要将问诊时间从33分钟缩短至25分钟。",
-          "mini_headline": "就诊前AI摘要接受检验",
+          "headline": "儿童自闭症诊断AI\n获FDA批准",
+          "body": "Argus Cognitive的儿童自闭症辅助诊断AI Neurora获美国FDA批准。",
+          "mini_headline": "自闭症诊断AI获批",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "美国一款儿童自闭症诊断AI软件获得FDA批准。"
+              },
+              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
-                "cap": ""
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+                "cap": "Neurora（来源：Argus Cognitive）"
               },
               {
                 "t": "p",
-                "x": "健康素养有限、临床术语以及有限的问诊时间,常常妨碍患者理解检查结果。AI-INFOCARE试验检验了在问诊前提供由AI生成(AI-generated)并经过质量核查的通俗语言摘要,能否改善医患沟通。"
+                "x": "Argus Cognitive近日宣布，Neurora已获批用于辅助诊断18个月至12岁儿童的自闭症谱系障碍（ASD）。"
               },
               {
                 "t": "p",
-                "x": "在这项于神经外科门诊开展的单中心试验中,300名成年人按1:1随机分配,在就诊前接受标准诊疗,并获得或不获得一份经过质量核查的AI通俗版检查结果摘要(Simply Onno)。主要终点是患者报告的医患互动质量(FAPI)。"
+                "x": "只需将视频和音频上传至数字门户，Neurora便能通过语音、面部、注视等100余项生物测量，客观地测量行为。"
               },
               {
                 "t": "p",
-                "x": "摘要组的平均FAPI评分更高(4.42对4.25;P=0.005),差异主要来自共同决策,而感知到的共情没有差异。患者评价的自主性支持更高,医生对自身自主性支持的评分则略低。问诊时间中位数为25分钟对33分钟,相对缩短约21%。"
-              },
-              {
-                "t": "p",
-                "x": "作者表示,研究结果支持对面向患者的文档转译开展进一步评估,但在常规采用之前,仍需确认其对临床结局和医生工作量的影响。"
+                "x": "Argus表示，这是一款基于AI的2类医疗器械软件（SaMD），与其说是独立诊断，不如说是辅助医生专业判断的工具。此外，该产品在美国国立卫生研究院小企业创新研究项目的资助下开发。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Resúmenes de AI antes de la cita\na prueba en un ensayo aleatorio",
-          "body": "En un ensayo aleatorio con 300 pacientes, resúmenes de AI previos a la cita redujeron la consulta de 33 a 25 minutos.",
-          "mini_headline": "Resúmenes de AI previos a la cita, a prueba",
+          "headline": "AI para diagnosticar autismo\ninfantil obtiene aval de la FDA",
+          "body": "Neurora, la AI de Argus Cognitive que ayuda a diagnosticar el autismo infantil, recibió el aval de la FDA de EE. UU.",
+          "mini_headline": "Aprobada una AI para el autismo",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
+                "t": "p",
+                "x": "En EE. UU., un software de AI para diagnosticar el autismo infantil recibió la aprobación de la FDA."
+              },
+              {
                 "t": "img",
-                "src": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
-                "cap": ""
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+                "cap": "Neurora (Fuente: Argus Cognitive)"
               },
               {
                 "t": "p",
-                "x": "La alfabetización sanitaria limitada, la jerga clínica y las consultas con poco tiempo suelen dificultar que los pacientes comprendan sus hallazgos médicos. El ensayo AI-INFOCARE evaluó si resúmenes en lenguaje sencillo generados por AI (AI-generated) y con control de calidad, entregados antes de la consulta, mejoran la comunicación."
+                "x": "Argus Cognitive anunció recientemente que Neurora obtuvo la aprobación para apoyar el diagnóstico del trastorno del espectro autista (ASD) en niños de 18 meses a 12 años."
               },
               {
                 "t": "p",
-                "x": "En un ensayo unicéntrico en consultas externas de neurocirugía, 300 adultos fueron asignados aleatoriamente 1:1 a atención estándar con o sin un resumen para legos de sus hallazgos médicos generado por AI y con control de calidad (Simply Onno) antes de la visita. El criterio de valoración principal fue la calidad de la interacción médico-paciente comunicada por el paciente (FAPI)."
+                "x": "Al subir video y audio a un portal digital, Neurora mide de forma objetiva el comportamiento mediante unas 100 mediciones biométricas, como la voz, el rostro y la mirada."
               },
               {
                 "t": "p",
-                "x": "La puntuación media de FAPI fue mayor con los resúmenes (4.42 frente a 4.25; P=0.005), impulsada por la toma de decisiones compartida, sin diferencias en la empatía percibida. El apoyo a la autonomía valorado por los pacientes fue mayor, mientras que los médicos calificaron su propio apoyo a la autonomía como algo menor. La mediana de duración de la consulta fue de 25 frente a 33 minutos, una reducción relativa aproximada del 21%."
-              },
-              {
-                "t": "p",
-                "x": "Los autores afirman que los resultados respaldan seguir evaluando la traducción de documentos dirigidos a pacientes, pero que sus efectos sobre los resultados clínicos y la carga de trabajo de los médicos deben confirmarse antes de una adopción rutinaria."
+                "x": "Argus explicó que se trata de un software como dispositivo médico (SaMD) de clase 2 basado en AI, una herramienta pensada para apoyar el juicio profesional del médico más que para diagnosticar por sí sola. Además, se desarrolló con el apoyo del programa de investigación e innovación para pequeñas empresas de los Institutos Nacionales de Salud de EE. UU."
               }
             ]
           }
@@ -727,905 +687,1015 @@
       }
     },
     {
-      "id": "medicine-hpi-radiology-workforce-ai",
+      "id": "medicine-stroke-robot-rehab-genai",
+      "tool": "Medicine",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "영상 데이터, '판독의\n수요 둔화' 주장 반박",
-      "body": "ACR 연구소가 JACR 사설에서 업무량 증가로 U.S. 판독의 충분론을 반박했다.",
-      "mini_headline": "판독의 수요 둔화 주장 반박",
-      "tool": "Medicine",
-      "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15837225/hpi-evidence-contradicts-broad-claims-about-ai-radiology-workforce",
+      "headline": "치료사에게 배우는\n뇌졸중 재활 로봇",
+      "body": "생성형 AI로 치료사에게 배운 적응형 로봇이 뇌졸중 환자에 맞춰 재활을 돕는다.",
+      "mini_headline": "뇌졸중 재활 로봇",
+      "source": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
       "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "최근 나온 영상의학 인력 논평이 오해를 부를 수 있다는 지적이 Journal of the American College of Radiology 사설에서 나왔다. 사설은 ACR 산하 Harvey L. Neiman Health Policy Institute(HPI)의 Elizabeth Rula, PhD 상임이사가 주도했다."
-          },
-          {
-            "t": "p",
-            "x": "Harvard의 David Cutler, PhD와 Lev Klarnet은 JAMA Health Forum에 실은 논평에서 의료 영상 검사 감소가 \"U.S.가 영상의학과 의사를 늘리지 않고도 영상 수요를 충족할 수 있게 했다\"고 주장했다. HPI 연구진은 이 주장이 \"지난 십 년의 근거를 무시\"한 채 십 년 전 데이터에 기댄다고 반박한다."
-          },
-          {
-            "t": "p",
-            "x": "HPI가 드는 근거는 이렇다. U.S. 영상 이용량이 2055년까지 17%에서 27% 늘어난다는 연구, 2016년과 2024년 사이 CT와 MRI 검사량이 크게 늘었음을 보여 주는 Medicare 데이터, 수혜자당 영상 RVUs가 2021년 최고치에 이르러 2005년 대비 13% 증가했다는 사실이다. 업무량은 늘었지만 인플레이션을 반영한 영상의학과 의사 보수는 2005년부터 2025년 사이 48.3% 줄었다."
-          },
-          {
-            "t": "p",
-            "x": "사설은 딥러닝이 영상의학과 의사를 앞지를 것이라던 Geoffrey Hinton의 2016년 예측도 꺼냈다. Hinton은 나중에 이 발언을 거둬들였다. 영상 분야 AI가 안은 과제를 가볍게 보면 비슷한 파장이 일어 환자의 영상 검사 접근성이 나빠질 수 있다는 게 사설의 경고다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Imaging data rebuts claims\nradiologist demand has eased",
-          "body": "A JACR editorial led by the ACR's Neiman Institute says rising imaging volumes and workloads rebut claims the U.S. needs no more radiologists.",
-          "mini_headline": "Evidence rebuts radiologist demand claims",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Recently published comments about the radiology workforce may be misleading, according to an editorial in the Journal of the American College of Radiology led by Elizabeth Rula, PhD, executive director of the ACR's Harvey L. Neiman Health Policy Institute (HPI)."
-              },
-              {
-                "t": "p",
-                "x": "The comments, by Harvard's David Cutler, PhD, and Lev Klarnet in JAMA Health Forum, suggested that a decrease in medical imaging has \"allowed the U.S. to meet the need for imaging without an increase in radiologists.\" The HPI team says this \"ignores a decade of evidence\" and relies on decade-old data."
-              },
-              {
-                "t": "p",
-                "x": "HPI cites research projecting U.S. imaging use will grow 17% to 27% by 2055, Medicare data showing significant CT and MRI volume increases between 2016 and 2024, and imaging RVUs per beneficiary at their highest level in 2021, up 13% since 2005. Inflation-adjusted radiologist reimbursement fell 48.3% between 2005 and 2025 even as workload grew."
-              },
-              {
-                "t": "p",
-                "x": "The editorial recalls Geoffrey Hinton's 2016 prediction that deep learning would outperform radiologists, which he has since walked back, and warns that downplaying challenges of AI in imaging could have a similar ripple effect and hurt patient access to imaging."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "영상 데이터, '판독의\n수요 둔화' 주장 반박",
-          "body": "ACR 연구소가 JACR 사설에서 업무량 증가로 U.S. 판독의 충분론을 반박했다.",
-          "mini_headline": "판독의 수요 둔화 주장 반박",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "최근 나온 영상의학 인력 논평이 오해를 부를 수 있다는 지적이 Journal of the American College of Radiology 사설에서 나왔다. 사설은 ACR 산하 Harvey L. Neiman Health Policy Institute(HPI)의 Elizabeth Rula, PhD 상임이사가 주도했다."
-              },
-              {
-                "t": "p",
-                "x": "Harvard의 David Cutler, PhD와 Lev Klarnet은 JAMA Health Forum에 실은 논평에서 의료 영상 검사 감소가 \"U.S.가 영상의학과 의사를 늘리지 않고도 영상 수요를 충족할 수 있게 했다\"고 주장했다. HPI 연구진은 이 주장이 \"지난 십 년의 근거를 무시\"한 채 십 년 전 데이터에 기댄다고 반박한다."
-              },
-              {
-                "t": "p",
-                "x": "HPI가 드는 근거는 이렇다. U.S. 영상 이용량이 2055년까지 17%에서 27% 늘어난다는 연구, 2016년과 2024년 사이 CT와 MRI 검사량이 크게 늘었음을 보여 주는 Medicare 데이터, 수혜자당 영상 RVUs가 2021년 최고치에 이르러 2005년 대비 13% 증가했다는 사실이다. 업무량은 늘었지만 인플레이션을 반영한 영상의학과 의사 보수는 2005년부터 2025년 사이 48.3% 줄었다."
-              },
-              {
-                "t": "p",
-                "x": "사설은 딥러닝이 영상의학과 의사를 앞지를 것이라던 Geoffrey Hinton의 2016년 예측도 꺼냈다. Hinton은 나중에 이 발언을 거둬들였다. 영상 분야 AI가 안은 과제를 가볍게 보면 비슷한 파장이 일어 환자의 영상 검사 접근성이 나빠질 수 있다는 게 사설의 경고다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "放射線科医の需要減少説\n画像データが反証",
-          "body": "ACRのNeiman研究所はJACR論説で、U.S.の放射線科医不要論に反論した。",
-          "mini_headline": "放射線科医の需要減少説に反証",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "最近発表された放射線科の人材に関する論評は誤解を招くおそれがある。ACRのHarvey L. Neiman Health Policy Institute(HPI)のエグゼクティブディレクター、Elizabeth Rula, PhDが主導したJournal of the American College of Radiologyの論説がこう指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "HarvardのDavid Cutler, PhDとLev KlarnetがJAMA Health Forumに寄せた論評は、医用画像検査の減少が「放射線科医を増やさずにU.S.が画像診断の需要を満たすことを可能にした」と示唆した。HPIのチームは、これは「十年分のエビデンスを無視」しており、十年前のデータに依拠していると述べる。"
-              },
-              {
-                "t": "p",
-                "x": "HPIは、U.S.の画像検査の利用が2055年までに17%から27%増えるとする研究、2016年から2024年にかけてCTとMRIの検査数が大きく増えたことを示すMedicareのデータ、そして受給者あたりの画像RVUsが2021年に過去最高となり、2005年比で13%増えたことを挙げる。業務量が増える一方で、インフレ調整後の放射線科医の報酬は2005年から2025年の間に48.3%減少した。"
-              },
-              {
-                "t": "p",
-                "x": "論説は、深層学習が放射線科医を上回るとしたGeoffrey Hintonの2016年の予測(本人はその後撤回)に触れ、画像診断におけるAIの課題を軽視すれば同様の波及効果が生じ、患者の画像検査へのアクセスを損ないかねないと警告している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "影像数据反驳\n放射科医需求放缓说",
-          "body": "ACR的Neiman研究所在JACR社论中反驳U.S.无需更多放射科医生的说法。",
-          "mini_headline": "证据反驳放射科医生需求放缓说",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "据ACR下属Harvey L. Neiman Health Policy Institute(HPI)执行主任Elizabeth Rula, PhD牵头撰写、发表于Journal of the American College of Radiology的一篇社论,近期发表的有关放射科人力的评论可能具有误导性。"
-              },
-              {
-                "t": "p",
-                "x": "Harvard的David Cutler, PhD与Lev Klarnet在JAMA Health Forum发表评论,认为医学影像检查的减少“使U.S.在不增加放射科医生的情况下满足了影像需求”。HPI团队表示,这一观点“忽视了十年来的证据”,且依赖的是十年前的数据。"
-              },
-              {
-                "t": "p",
-                "x": "HPI援引的依据包括:有研究预测到2055年U.S.影像使用量将增长17%至27%;Medicare数据显示2016年至2024年间CT和MRI检查量显著增加;每位受益人的影像RVUs在2021年达到最高水平,较2005年增长13%。在工作量增加的同时,经通胀调整的放射科医生报酬在2005年至2025年间下降了48.3%。"
-              },
-              {
-                "t": "p",
-                "x": "社论回顾了Geoffrey Hinton在2016年作出的深度学习将胜过放射科医生的预测(他此后已收回这一说法),并警告称,淡化影像领域AI面临的挑战可能产生类似的连锁效应,损害患者获得影像检查的机会。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Datos de imagen desmienten\nmenor demanda de radiólogos",
-          "body": "Un editorial de JACR del Neiman Institute del ACR rebate que EE. UU. (U.S.) no necesite más radiólogos.",
-          "mini_headline": "La evidencia rebate la menor demanda de radiólogos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Los comentarios publicados recientemente sobre la fuerza laboral en radiología podrían ser engañosos, según un editorial en el Journal of the American College of Radiology dirigido por Elizabeth Rula, PhD, directora ejecutiva del Harvey L. Neiman Health Policy Institute (HPI) del ACR."
-              },
-              {
-                "t": "p",
-                "x": "Los comentarios, de David Cutler, PhD, de Harvard, y Lev Klarnet en JAMA Health Forum, sugerían que una disminución de la imagen médica ha \"permitido a EE. UU. (U.S.) cubrir la necesidad de imagen sin aumentar el número de radiólogos\". El equipo del HPI afirma que esto \"ignora una década de evidencia\" y se apoya en datos de hace una década."
-              },
-              {
-                "t": "p",
-                "x": "El HPI cita investigaciones que proyectan que el uso de imagen en EE. UU. (U.S.) crecerá entre un 17% y un 27% para 2055, datos de Medicare que muestran aumentos significativos del volumen de CT y MRI entre 2016 y 2024, y unas RVUs de imagen por beneficiario en su nivel más alto en 2021, un 13% más que en 2005. La remuneración de los radiólogos ajustada por inflación cayó un 48.3% entre 2005 y 2025, aun cuando la carga de trabajo aumentó."
-              },
-              {
-                "t": "p",
-                "x": "El editorial recuerda la predicción de Geoffrey Hinton en 2016 de que el aprendizaje profundo superaría a los radiólogos, de la que después se retractó, y advierte que restar importancia a los desafíos de la AI en imagen podría tener un efecto dominó similar y perjudicar el acceso de los pacientes a la imagen."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "영상 데이터, '판독의\n수요 둔화' 주장 반박",
-          "body": "ACR 연구소의 JACR 사설은 업무량 증가로 U.S. 판독의 충분론을 반박했다.",
-          "mini_headline": "판독의 수요 둔화 주장 반박",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "최근 발표된 영상의학 인력에 관한 논평이 오해를 부를 수 있다고, ACR 산하 Harvey L. Neiman Health Policy Institute(HPI)의 Elizabeth Rula, PhD 상임이사가 주도한 Journal of the American College of Radiology 사설이 지적했다."
-              },
-              {
-                "t": "p",
-                "x": "Harvard의 David Cutler, PhD와 Lev Klarnet은 JAMA Health Forum에 실은 논평에서 의료 영상 검사 감소가 \"U.S.가 영상의학과 의사를 늘리지 않고도 영상 수요를 충족할 수 있게 했다\"고 주장했다. HPI 연구진은 이 주장이 \"지난 십 년의 근거를 무시\"하고 십 년 전 데이터에 기대고 있다고 반박한다."
-              },
-              {
-                "t": "p",
-                "x": "HPI는 U.S. 영상 이용량이 2055년까지 17%에서 27% 늘어날 것이라는 연구, 2016년과 2024년 사이 CT와 MRI 검사량이 크게 늘었음을 보여 주는 Medicare 데이터, 그리고 수혜자당 영상 RVUs가 2021년 최고치에 이르러 2005년 대비 13% 증가했다는 점을 근거로 든다. 업무량이 늘었는데도 인플레이션을 반영한 영상의학과 의사 보수는 2005년부터 2025년 사이 48.3% 줄었다."
-              },
-              {
-                "t": "p",
-                "x": "사설은 딥러닝이 영상의학과 의사를 능가할 것이라던 Geoffrey Hinton의 2016년 예측을 상기시킨다. Hinton은 이후 이 발언을 철회했다. 사설은 영상 분야 AI의 과제를 축소하면 비슷한 파급 효과가 생겨 환자의 영상 검사 접근성을 해칠 수 있다고 경고했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "放射線科医の需要減少説\n画像データが反証",
-          "body": "ACRのNeiman研究所はJACR論説で、U.S.の放射線科医不要論に反論した。",
-          "mini_headline": "放射線科医の需要減少説に反証",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "最近発表された放射線科の人材に関する論評は誤解を招くおそれがある。ACRのHarvey L. Neiman Health Policy Institute(HPI)のエグゼクティブディレクター、Elizabeth Rula, PhDが主導したJournal of the American College of Radiologyの論説がこう指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "HarvardのDavid Cutler, PhDとLev KlarnetがJAMA Health Forumに寄せた論評は、医用画像検査の減少が「放射線科医を増やさずにU.S.が画像診断の需要を満たすことを可能にした」と示唆した。HPIのチームは、これは「十年分のエビデンスを無視」しており、十年前のデータに依拠していると述べる。"
-              },
-              {
-                "t": "p",
-                "x": "HPIは、U.S.の画像検査の利用が2055年までに17%から27%増えるとする研究、2016年から2024年にかけてCTとMRIの検査数が大きく増えたことを示すMedicareのデータ、そして受給者あたりの画像RVUsが2021年に過去最高となり、2005年比で13%増えたことを挙げる。業務量が増える一方で、インフレ調整後の放射線科医の報酬は2005年から2025年の間に48.3%減少した。"
-              },
-              {
-                "t": "p",
-                "x": "論説は、深層学習が放射線科医を上回るとしたGeoffrey Hintonの2016年の予測(本人はその後撤回)に触れ、画像診断におけるAIの課題を軽視すれば同様の波及効果が生じ、患者の画像検査へのアクセスを損ないかねないと警告している。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "影像数据反驳\n放射科医需求放缓说",
-          "body": "ACR的Neiman研究所在JACR社论中反驳U.S.无需更多放射科医生的说法。",
-          "mini_headline": "证据反驳放射科医生需求放缓说",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "据ACR下属Harvey L. Neiman Health Policy Institute(HPI)执行主任Elizabeth Rula, PhD牵头撰写、发表于Journal of the American College of Radiology的一篇社论,近期发表的有关放射科人力的评论可能具有误导性。"
-              },
-              {
-                "t": "p",
-                "x": "Harvard的David Cutler, PhD与Lev Klarnet在JAMA Health Forum发表评论,认为医学影像检查的减少“使U.S.在不增加放射科医生的情况下满足了影像需求”。HPI团队表示,这一观点“忽视了十年来的证据”,且依赖的是十年前的数据。"
-              },
-              {
-                "t": "p",
-                "x": "HPI援引的依据包括:有研究预测到2055年U.S.影像使用量将增长17%至27%;Medicare数据显示2016年至2024年间CT和MRI检查量显著增加;每位受益人的影像RVUs在2021年达到最高水平,较2005年增长13%。在工作量增加的同时,经通胀调整的放射科医生报酬在2005年至2025年间下降了48.3%。"
-              },
-              {
-                "t": "p",
-                "x": "社论回顾了Geoffrey Hinton在2016年作出的深度学习将胜过放射科医生的预测(他此后已收回这一说法),并警告称,淡化影像领域AI面临的挑战可能产生类似的连锁效应,损害患者获得影像检查的机会。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Datos de imagen desmienten\nmenor demanda de radiólogos",
-          "body": "Un editorial de JACR del Neiman Institute del ACR rebate que EE. UU. (U.S.) no necesite más radiólogos.",
-          "mini_headline": "La evidencia rebate la menor demanda de radiólogos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Los comentarios publicados recientemente sobre la fuerza laboral en radiología podrían ser engañosos, según un editorial en el Journal of the American College of Radiology dirigido por Elizabeth Rula, PhD, directora ejecutiva del Harvey L. Neiman Health Policy Institute (HPI) del ACR."
-              },
-              {
-                "t": "p",
-                "x": "Los comentarios, de David Cutler, PhD, de Harvard, y Lev Klarnet en JAMA Health Forum, sugerían que una disminución de la imagen médica ha \"permitido a EE. UU. (U.S.) cubrir la necesidad de imagen sin aumentar el número de radiólogos\". El equipo del HPI afirma que esto \"ignora una década de evidencia\" y se apoya en datos de hace una década."
-              },
-              {
-                "t": "p",
-                "x": "El HPI cita investigaciones que proyectan que el uso de imagen en EE. UU. (U.S.) crecerá entre un 17% y un 27% para 2055, datos de Medicare que muestran aumentos significativos del volumen de CT y MRI entre 2016 y 2024, y unas RVUs de imagen por beneficiario en su nivel más alto en 2021, un 13% más que en 2005. La remuneración de los radiólogos ajustada por inflación cayó un 48.3% entre 2005 y 2025, aun cuando la carga de trabajo aumentó."
-              },
-              {
-                "t": "p",
-                "x": "El editorial recuerda la predicción de Geoffrey Hinton en 2016 de que el aprendizaje profundo superaría a los radiólogos, de la que después se retractó, y advierte que restar importancia a los desafíos de la AI en imagen podría tener un efecto dominó similar y perjudicar el acceso de los pacientes a la imagen."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "medicine-oud-rey-ehr-harmonization",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "딥러닝 모델로\n오피오이드 사용장애 예측",
-      "body": "OUD-REY는 All of Us EHR로 오피오이드 사용장애 위험을 내다본다.",
-      "mini_headline": "AI로 오피오이드 사용장애 위험 예측",
-      "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03392-w",
-      "accent": "#7928ca",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "오피오이드 사용장애(OUD)는 여전히 U.S.가 안고 있는 큰 공중보건 위기다. 연구진은 All of Us 연구 프로그램의 종단 EHR 데이터를 써서 오피오이드를 처방받은 환자가 일 년 안에 OUD를 겪을 위험을 예측하는 딥러닝 모델 OUD-REY(OUD Risk Evaluator at 1 Year)를 만들었다."
-          },
-          {
-            "t": "p",
-            "x": "OUD-REY는 사전학습 언어 모델 덕분에 환자 기록에 담긴 처음 보는 어휘 외(out-of-vocabulary) 임상 특성 수천 개도 받아들이고 여러 EHR 시스템의 데이터를 하나로 맞춘다. 내부 검증 성적은 AUROC 91.2%, AUPRC 77.0%였다."
-          },
-          {
-            "t": "p",
-            "x": "외부 검증에서는 시기가 다른 All of Us 데이터셋에서 AUROC 86.4%를, 20년에 걸친 약 600만 명(6 million)의 Veterans Affairs 환자에서 85.5%를 냈다. 공정성 감사에서도 모델은 성별, 인종, 민족 전반에서 대체로 공정했다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Deep learning model predicts\nopioid use disorder risk",
-          "body": "OUD-REY uses language modeling to harmonize All of Us EHR data and predict one-year opioid use disorder risk in patients prescribed opioids.",
-          "mini_headline": "AI predicts opioid use disorder risk",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Opioid use disorder (OUD) remains a major U.S. public health crisis. The authors developed OUD-REY (OUD Risk Evaluator at 1 Year), a deep learning model that uses longitudinal EHR data from the All of Us research program to predict one-year OUD risk for patients with an opioid prescription."
-              },
-              {
-                "t": "p",
-                "x": "A pretrained language model lets OUD-REY accommodate thousands of unseen, out-of-vocabulary clinical features in a patient's record history, harmonizing data across EHR systems. On internal validation it achieved an AUROC of 91.2% and AUPRC of 77.0%."
-              },
-              {
-                "t": "p",
-                "x": "On external validation, it scored an AUROC of 86.4% on a temporally separated All of Us dataset and 85.5% on roughly 6 million Veterans Affairs patients spanning 20 years. Fairness auditing showed the model was generally fair across gender, race and ethnicity."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "딥러닝 모델로\n오피오이드 사용장애 예측",
-          "body": "OUD-REY는 All of Us EHR로 오피오이드 사용장애 위험을 내다본다.",
-          "mini_headline": "AI로 오피오이드 사용장애 위험 예측",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "오피오이드 사용장애(OUD)는 여전히 U.S.가 안고 있는 큰 공중보건 위기다. 연구진은 All of Us 연구 프로그램의 종단 EHR 데이터를 써서 오피오이드를 처방받은 환자가 일 년 안에 OUD를 겪을 위험을 예측하는 딥러닝 모델 OUD-REY(OUD Risk Evaluator at 1 Year)를 만들었다."
-              },
-              {
-                "t": "p",
-                "x": "OUD-REY는 사전학습 언어 모델 덕분에 환자 기록에 담긴 처음 보는 어휘 외(out-of-vocabulary) 임상 특성 수천 개도 받아들이고 여러 EHR 시스템의 데이터를 하나로 맞춘다. 내부 검증 성적은 AUROC 91.2%, AUPRC 77.0%였다."
-              },
-              {
-                "t": "p",
-                "x": "외부 검증에서는 시기가 다른 All of Us 데이터셋에서 AUROC 86.4%를, 20년에 걸친 약 600만 명(6 million)의 Veterans Affairs 환자에서 85.5%를 냈다. 공정성 감사에서도 모델은 성별, 인종, 민족 전반에서 대체로 공정했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "深層学習モデルで\nオピオイド使用障害を予測",
-          "body": "OUD-REYはAll of UsのEHRで一年以内のオピオイド使用障害リスクを予測する。",
-          "mini_headline": "AIでオピオイド使用障害リスクを予測",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "オピオイド使用障害(OUD)は依然としてU.S.の重大な公衆衛生危機である。著者らは、All of Us研究プログラムの縦断的EHRデータを用い、オピオイドを処方された患者の一年以内のOUDリスクを予測する深層学習モデルOUD-REY(OUD Risk Evaluator at 1 Year)を開発した。"
-              },
-              {
-                "t": "p",
-                "x": "事前学習済みの言語モデルにより、OUD-REYは患者の記録履歴に含まれる未知の語彙外(out-of-vocabulary)の臨床特徴を数千件取り込み、EHRシステム間でデータを調和させる。内部検証ではAUROC 91.2%、AUPRC 77.0%を達成した。"
-              },
-              {
-                "t": "p",
-                "x": "外部検証では、時期を分けたAll of UsデータセットでAUROC 86.4%、20年にわたる約600万人(6 million)のVeterans Affairs患者で85.5%を記録した。公平性監査では、性別、人種、民族を通じておおむね公平であることが示された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "深度学习模型\n预测阿片类药物使用障碍",
-          "body": "OUD-REY利用All of Us EHR数据,预测阿片类处方患者一年内的使用障碍风险。",
-          "mini_headline": "AI预测阿片类药物使用障碍风险",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "阿片类药物使用障碍(OUD)仍是U.S.的重大公共卫生危机。作者开发了深度学习模型OUD-REY(OUD Risk Evaluator at 1 Year),利用All of Us研究项目的纵向EHR数据,预测获得阿片类药物处方的患者一年内的OUD风险。"
-              },
-              {
-                "t": "p",
-                "x": "借助预训练语言模型,OUD-REY能够容纳患者病历中数千个未见过的词表外(out-of-vocabulary)临床特征,从而在不同EHR系统之间协调数据。在内部验证中,其AUROC达91.2%,AUPRC达77.0%。"
-              },
-              {
-                "t": "p",
-                "x": "在外部验证中,它在时间上独立的All of Us数据集上AUROC为86.4%,在跨越20年的约600万名(6 million)Veterans Affairs患者中为85.5%。公平性审计显示,该模型在性别、种族和民族方面总体公平。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Modelo de aprendizaje profundo\npredice trastorno por opioides",
-          "body": "OUD-REY armoniza datos EHR de All of Us con modelos de lenguaje y predice el trastorno por uso de opioides a un año.",
-          "mini_headline": "La AI predice el riesgo de trastorno por uso de opioides",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "El trastorno por uso de opioides (OUD) sigue siendo una grave crisis de salud pública en EE. UU. (U.S.). Los autores desarrollaron OUD-REY (OUD Risk Evaluator at 1 Year), un modelo de aprendizaje profundo que usa datos longitudinales de EHR del programa de investigación All of Us para predecir el riesgo de OUD a un año en pacientes con una receta de opioides."
-              },
-              {
-                "t": "p",
-                "x": "Un modelo de lenguaje preentrenado permite a OUD-REY incorporar miles de variables clínicas no vistas y fuera de vocabulario (out-of-vocabulary) del historial del paciente, armonizando los datos entre sistemas de EHR. En la validación interna alcanzó un AUROC del 91.2% y un AUPRC del 77.0%."
-              },
-              {
-                "t": "p",
-                "x": "En la validación externa obtuvo un AUROC del 86.4% en un conjunto de datos de All of Us separado en el tiempo y del 85.5% en unos 6 millones de pacientes de Veterans Affairs a lo largo de 20 años. La auditoría de equidad mostró que el modelo era en general equitativo en cuanto a género, raza y etnia."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "딥러닝 모델로\n오피오이드 사용장애 예측",
-          "body": "OUD-REY는 All of Us EHR로 오피오이드 사용장애 위험을 예측한다.",
-          "mini_headline": "AI로 오피오이드 사용장애 위험 예측",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "오피오이드 사용장애(OUD)는 여전히 U.S.의 주요 공중보건 위기다. 연구진은 All of Us 연구 프로그램의 종단 EHR 데이터로 오피오이드를 처방받은 환자의 일 년 내 OUD 위험을 예측하는 딥러닝 모델 OUD-REY(OUD Risk Evaluator at 1 Year)를 개발했다."
-              },
-              {
-                "t": "p",
-                "x": "OUD-REY는 사전학습 언어 모델을 활용해 환자 기록 이력에 담긴, 처음 보는 어휘 외(out-of-vocabulary) 임상 특성 수천 개를 수용하고 여러 EHR 시스템의 데이터를 조화시킨다. 내부 검증에서 AUROC 91.2%, AUPRC 77.0%를 기록했다."
-              },
-              {
-                "t": "p",
-                "x": "외부 검증에서는 시기를 달리한 All of Us 데이터셋에서 AUROC 86.4%, 20년에 걸친 약 600만 명(6 million)의 Veterans Affairs 환자에서 85.5%를 기록했다. 공정성 감사 결과 모델은 성별, 인종, 민족 전반에서 대체로 공정했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "深層学習モデルで\nオピオイド使用障害を予測",
-          "body": "OUD-REYはAll of UsのEHRで一年以内のオピオイド使用障害リスクを予測する。",
-          "mini_headline": "AIでオピオイド使用障害リスクを予測",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "オピオイド使用障害(OUD)は依然としてU.S.の重大な公衆衛生危機である。著者らは、All of Us研究プログラムの縦断的EHRデータを用い、オピオイドを処方された患者の一年以内のOUDリスクを予測する深層学習モデルOUD-REY(OUD Risk Evaluator at 1 Year)を開発した。"
-              },
-              {
-                "t": "p",
-                "x": "事前学習済みの言語モデルにより、OUD-REYは患者の記録履歴に含まれる未知の語彙外(out-of-vocabulary)の臨床特徴を数千件取り込み、EHRシステム間でデータを調和させる。内部検証ではAUROC 91.2%、AUPRC 77.0%を達成した。"
-              },
-              {
-                "t": "p",
-                "x": "外部検証では、時期を分けたAll of UsデータセットでAUROC 86.4%、20年にわたる約600万人(6 million)のVeterans Affairs患者で85.5%を記録した。公平性監査では、性別、人種、民族を通じておおむね公平であることが示された。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "深度学习模型\n预测阿片类药物使用障碍",
-          "body": "OUD-REY利用All of Us EHR数据,预测阿片类处方患者一年内的使用障碍风险。",
-          "mini_headline": "AI预测阿片类药物使用障碍风险",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "阿片类药物使用障碍(OUD)仍是U.S.的重大公共卫生危机。作者开发了深度学习模型OUD-REY(OUD Risk Evaluator at 1 Year),利用All of Us研究项目的纵向EHR数据,预测获得阿片类药物处方的患者一年内的OUD风险。"
-              },
-              {
-                "t": "p",
-                "x": "借助预训练语言模型,OUD-REY能够容纳患者病历中数千个未见过的词表外(out-of-vocabulary)临床特征,从而在不同EHR系统之间协调数据。在内部验证中,其AUROC达91.2%,AUPRC达77.0%。"
-              },
-              {
-                "t": "p",
-                "x": "在外部验证中,它在时间上独立的All of Us数据集上AUROC为86.4%,在跨越20年的约600万名(6 million)Veterans Affairs患者中为85.5%。公平性审计显示,该模型在性别、种族和民族方面总体公平。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Modelo de aprendizaje profundo\npredice trastorno por opioides",
-          "body": "OUD-REY armoniza datos EHR de All of Us con modelos de lenguaje y predice el trastorno por uso de opioides a un año.",
-          "mini_headline": "La AI predice el riesgo de trastorno por uso de opioides",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "El trastorno por uso de opioides (OUD) sigue siendo una grave crisis de salud pública en EE. UU. (U.S.). Los autores desarrollaron OUD-REY (OUD Risk Evaluator at 1 Year), un modelo de aprendizaje profundo que usa datos longitudinales de EHR del programa de investigación All of Us para predecir el riesgo de OUD a un año en pacientes con una receta de opioides."
-              },
-              {
-                "t": "p",
-                "x": "Un modelo de lenguaje preentrenado permite a OUD-REY incorporar miles de variables clínicas no vistas y fuera de vocabulario (out-of-vocabulary) del historial del paciente, armonizando los datos entre sistemas de EHR. En la validación interna alcanzó un AUROC del 91.2% y un AUPRC del 77.0%."
-              },
-              {
-                "t": "p",
-                "x": "En la validación externa obtuvo un AUROC del 86.4% en un conjunto de datos de All of Us separado en el tiempo y del 85.5% en unos 6 millones de pacientes de Veterans Affairs a lo largo de 20 años. La auditoría de equidad mostró que el modelo era en general equitativo en cuanto a género, raza y etnia."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "medicine-lunit-sitc2026-io-response",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "루닛, SITC서 난소암·방광암\nAI 면역 분석 연구 발표",
-      "body": "루닛이 SITC 2026에서 루닛 스코프로 난소암 면역 특성과 방광암 면역항암 반응을 분석한 연구를 발표한다.",
-      "mini_headline": "루닛, 난소암·방광암 AI 연구",
-      "tool": "Medicine",
-      "source": "데일리팜",
-      "url": "https://www.dailypharm.com/user/news/343389",
-      "accent": "#eb367f",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/14/457e2433-46b3-4edf-ade2-b25144fa397d.png",
-            "cap": ""
+            "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+            "cap": "출처: Johannes Lachner(YouTube)"
           },
           {
             "t": "p",
-            "x": "루닛은 오는 11월 4일부터 8일까지 미국 애리조나주 피닉스에서 열리는 미국면역항암학회(SITC 2026)에서 AI 바이오마커 플랫폼 루닛 스코프를 활용한 연구초록 2편을 발표한다고 14일 밝혔다."
+            "x": "뇌졸중으로 해마다 5백만 명이 장기 장애를 안고 살지만, 물리치료사는 갈수록 모자라 필요한 치료를 받기 어렵다. 인공지능과 사람의 치료를 묶은 새 접근법이 이 틈을 메우려 한다."
           },
           {
             "t": "p",
-            "x": "진단·임상시험 서비스 기업 랩콥(Labcorp)과는 AI 기반 공간 프로파일링을 활용한 난소암 연구를 진행했다. 상동재조합복구결핍(HRD)과 상동재조합복구정상(HRP) 종양 간 조직학적 면역 특성을 비교한 연구다."
+            "x": "MIT 박사후연구원을 거쳐 지금은 Purdue University 조교수인 Johannes Lachner와 MIT 방문학생이던 Noah Geiger는 생성형 AI와 실시간 힘 피드백으로 실제 치료사에게서 배우는 로봇 시스템을 만들었다. 로봇은 이렇게 익힌 내용으로 팔 뻗기, 팔 들어 올리기, 일상생활 과제 같은 재활 운동에서 환자에게 꼭 필요한 만큼만 힘을 보탠다."
           },
           {
             "t": "p",
-            "x": "글로벌 임상시험수탁기관(CRO) 셀카르타(CellCarta)와는 근육침윤성 방광암 환자를 대상으로 공동연구를 수행했다. 종양 내 면역 공간 구조와 종양·T세포 간 근접성이 수술 전 면역항암제 치료반응과 어떤 연관성을 보이는지 분석했다."
+            "x": "Lachner는 목표가 “치료사를 대체하는 것이 아니라 그들의 손길을 넓히는 것”이라고 말한다."
+          },
+          {
+            "t": "video",
+            "yt": "AopwOd02GPs"
           },
           {
             "t": "p",
-            "x": "루닛은 2021년 SITC에서 처음 연구 성과를 선보인 이후 올해까지 6년 연속 연구를 발표한다. 올해는 연구 대상 암종을 난소암과 방광암으로 확대했다. 지난해 SITC에서도 공동연구를 발표한 셀카르타와 협력을 이어가는 한편, 랩콥과도 새롭게 공동연구를 진행했다."
-          },
-          {
-            "t": "p",
-            "x": "SITC는 1984년 설립된 면역항암 분야 학회다. 연례회의에서는 학계·산업계·규제기관 전문가들이 면역항암 연구 성과와 치료 동향을 논의한다."
-          },
-          {
-            "t": "p",
-            "x": "서범석 루닛 대표는 \"이처럼 글로벌 기업들과의 협력 범위가 넓어지고 있다는 점은 면역항암 시장에서 루닛의 입지가 그만큼 높아졌음을 방증하는 것\"이라며 \"학술 성과는 비즈니스로 이어질 수 있는 중요한 자산으로, 회사는 루닛 스코프가 실제 의료 현장에서 폭넓게 활용될 수 있는 발판을 지속 마련하고 있다\"고 말했다."
+            "x": "그는 “초기 로봇 실험에서 이미 이 접근법의 실현 가능성을 입증했다”며 “프로젝트의 다음 단계에서는 치료사별 모델을 개발하고, 앞서 수기 치료를 받은 같은 환자들을 대상으로 한 장기 임상 연구에서 이를 평가할 계획”이라고 밝혔다. 접촉이 많은 산업 현장이나 협업 작업 공간에서도 쓰일 수 있다고 그는 내다본다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "루닛, SITC서 난소암·방광암\nAI 면역 분석 연구 발표",
-          "body": "루닛이 SITC 2026에서 루닛 스코프로 난소암 면역 특성과 방광암 면역항암 반응을 분석한 연구를 발표한다.",
-          "mini_headline": "루닛, 난소암·방광암 AI 연구",
+        "en": {
+          "headline": "Robotic rehab learns from\ntherapists for stroke care",
+          "body": "An adaptive rehab robot uses generative AI to learn from physical therapists and tailor support to stroke patients.",
+          "mini_headline": "Robot rehab for stroke",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/14/457e2433-46b3-4edf-ade2-b25144fa397d.png",
-                "cap": ""
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+                "cap": "Johannes Lachner via YouTube"
               },
               {
                 "t": "p",
-                "x": "루닛은 오는 11월 4일부터 8일까지 미국 애리조나주 피닉스에서 열리는 미국면역항암학회(SITC 2026)에서 AI 바이오마커 플랫폼 루닛 스코프를 활용한 연구초록 2편을 발표한다고 14일 밝혔다."
+                "x": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy."
               },
               {
                 "t": "p",
-                "x": "진단·임상시험 서비스 기업 랩콥(Labcorp)과는 AI 기반 공간 프로파일링을 활용한 난소암 연구를 진행했다. 상동재조합복구결핍(HRD)과 상동재조합복구정상(HRP) 종양 간 조직학적 면역 특성을 비교한 연구다."
+                "x": "Johannes Lachner, a former MIT postdoc who is now an assistant professor at Purdue University, and Noah Geiger, a former visiting student at MIT, developed a robotic system that uses generative AI and real-time force feedback to learn from real therapists. Drawing on what it’s learned, it gives patients just the right amount of assistance during physical rehabilitation exercises like reaching, lifting their arms, and performing tasks of daily living."
               },
               {
                 "t": "p",
-                "x": "글로벌 임상시험수탁기관(CRO) 셀카르타(CellCarta)와는 근육침윤성 방광암 환자를 대상으로 공동연구를 수행했다. 종양 내 면역 공간 구조와 종양·T세포 간 근접성이 수술 전 면역항암제 치료반응과 어떤 연관성을 보이는지 분석했다."
+                "x": "The goal is “not to replace therapists, but to extend their reach,” Lachner says."
+              },
+              {
+                "t": "video",
+                "yt": "AopwOd02GPs"
               },
               {
                 "t": "p",
-                "x": "루닛은 2021년 SITC에서 처음 연구 성과를 선보인 이후 올해까지 6년 연속 연구를 발표한다. 올해는 연구 대상 암종을 난소암과 방광암으로 확대했다. 지난해 SITC에서도 공동연구를 발표한 셀카르타와 협력을 이어가는 한편, 랩콥과도 새롭게 공동연구를 진행했다."
-              },
-              {
-                "t": "p",
-                "x": "SITC는 1984년 설립된 면역항암 분야 학회다. 연례회의에서는 학계·산업계·규제기관 전문가들이 면역항암 연구 성과와 치료 동향을 논의한다."
-              },
-              {
-                "t": "p",
-                "x": "서범석 루닛 대표는 \"이처럼 글로벌 기업들과의 협력 범위가 넓어지고 있다는 점은 면역항암 시장에서 루닛의 입지가 그만큼 높아졌음을 방증하는 것\"이라며 \"학술 성과는 비즈니스로 이어질 수 있는 중요한 자산으로, 회사는 루닛 스코프가 실제 의료 현장에서 폭넓게 활용될 수 있는 발판을 지속 마련하고 있다\"고 말했다."
+                "x": "“Initial robotic experiments have already demonstrated the feasibility of this approach,” he reports. “The next phase of the project aims to develop therapist-specific models and evaluate them in a long-term clinical study with the same patients who previously received manual therapy.” Beyond that, he envisions possible applications in contact-rich industrial settings or collaborative workspaces."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Lunit's ovarian, bladder cancer\nAI immune studies head to SITC",
-          "body": "At SITC 2026, Lunit presents Lunit SCOPE studies of ovarian cancer immunity and bladder cancer immunotherapy response.",
-          "mini_headline": "Lunit's AI studies in ovarian and bladder cancer",
+        "ko": {
+          "headline": "치료사에게 배우는\n뇌졸중 재활 로봇",
+          "body": "생성형 AI로 치료사에게 배운 적응형 로봇이 뇌졸중 환자에 맞춰 재활을 돕는다.",
+          "mini_headline": "뇌졸중 재활 로봇",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/14/457e2433-46b3-4edf-ade2-b25144fa397d.png",
-                "cap": ""
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+                "cap": "출처: Johannes Lachner(YouTube)"
               },
               {
                 "t": "p",
-                "x": "Lunit said on the 14th that it will present 2 research abstracts using its AI biomarker platform Lunit SCOPE at the Society for Immunotherapy of Cancer meeting (SITC 2026), to be held November 4 to 8 in Phoenix, Arizona, in the U.S."
+                "x": "뇌졸중으로 해마다 5백만 명이 장기 장애를 안고 살지만, 물리치료사는 갈수록 모자라 필요한 치료를 받기 어렵다. 인공지능과 사람의 치료를 묶은 새 접근법이 이 틈을 메우려 한다."
               },
               {
                 "t": "p",
-                "x": "With diagnostics and clinical trial services company Labcorp, it carried out an ovarian cancer study using AI-based spatial profiling. The study compared histological immune characteristics between homologous recombination deficient (HRD) and homologous recombination proficient (HRP) tumors."
+                "x": "MIT 박사후연구원을 거쳐 지금은 Purdue University 조교수인 Johannes Lachner와 MIT 방문학생이던 Noah Geiger는 생성형 AI와 실시간 힘 피드백으로 실제 치료사에게서 배우는 로봇 시스템을 만들었다. 로봇은 이렇게 익힌 내용으로 팔 뻗기, 팔 들어 올리기, 일상생활 과제 같은 재활 운동에서 환자에게 꼭 필요한 만큼만 힘을 보탠다."
               },
               {
                 "t": "p",
-                "x": "With global contract research organization (CRO) CellCarta, it conducted a joint study of patients with muscle-invasive bladder cancer. It analyzed how the immune spatial structure within tumors and the proximity between tumor cells and T cells relate to response to preoperative immunotherapy."
+                "x": "Lachner는 목표가 “치료사를 대체하는 것이 아니라 그들의 손길을 넓히는 것”이라고 말한다."
+              },
+              {
+                "t": "video",
+                "yt": "AopwOd02GPs"
               },
               {
                 "t": "p",
-                "x": "Since first presenting research results at SITC in 2021, Lunit will have presented studies for 6 consecutive years through this year. This year it expanded the cancer types studied to ovarian and bladder cancer. It continues its collaboration with CellCarta, with which it also presented joint research at last year's SITC, while starting new joint research with Labcorp."
-              },
-              {
-                "t": "p",
-                "x": "SITC is a society in the immuno-oncology field founded in 1984. At its annual meeting, experts from academia, industry and regulatory agencies discuss immuno-oncology research results and treatment trends."
-              },
-              {
-                "t": "p",
-                "x": "\"The widening scope of collaboration with global companies is evidence that Lunit's standing in the immuno-oncology market has risen accordingly,\" said Lunit CEO Brandon Suh. \"Academic results are an important asset that can lead to business, and the company continues to lay the groundwork for Lunit SCOPE to be widely used in real-world clinical settings.\""
+                "x": "그는 “초기 로봇 실험에서 이미 이 접근법의 실현 가능성을 입증했다”며 “프로젝트의 다음 단계에서는 치료사별 모델을 개발하고, 앞서 수기 치료를 받은 같은 환자들을 대상으로 한 장기 임상 연구에서 이를 평가할 계획”이라고 밝혔다. 접촉이 많은 산업 현장이나 협업 작업 공간에서도 쓰일 수 있다고 그는 내다본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Lunit、卵巣・膀胱がん\nSITCでAI免疫研究発表",
-          "body": "LunitがSITC 2026で卵巣がん・膀胱がんのAI免疫研究を発表する。",
-          "mini_headline": "Lunit、卵巣がん・膀胱がんのAI研究",
+          "headline": "療法士に学ぶ\n脳卒中リハビリロボット",
+          "body": "適応型リハビリロボットが生成AIで理学療法士に学び、脳卒中患者に合わせて支援する。",
+          "mini_headline": "脳卒中リハビリロボット",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/14/457e2433-46b3-4edf-ade2-b25144fa397d.png",
-                "cap": ""
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+                "cap": "出典：Johannes Lachner（YouTube）"
               },
               {
                 "t": "p",
-                "x": "Lunitは14日、11月4日から8日まで米アリゾナ州フェニックスで開かれる米国免疫がん学会(SITC 2026)で、AIバイオマーカープラットフォーム「Lunit SCOPE」を活用した研究抄録2件を発表すると明らかにした。"
+                "x": "脳卒中によって毎年5百万人が長期的な障害を負うが、理学療法士の不足が深刻化し、必要なケアを受けにくくなっている。新たな手法は、人工知能と人によるセラピーを組み合わせてこの問題の解決を目指す。"
               },
               {
                 "t": "p",
-                "x": "診断・臨床試験サービス企業のラボコープ(Labcorp)とは、AIベースの空間プロファイリングを用いた卵巣がん研究を行った。相同組換え修復欠損(HRD)と相同組換え修復正常(HRP)の腫瘍間で、組織学的な免疫特性を比較した研究である。"
+                "x": "元MITポスドクで現在はPurdue University助教のJohannes Lachnerと、元MIT客員学生のNoah Geigerは、生成AIとリアルタイムの力フィードバックを用いて実際の療法士から学ぶロボットシステムを開発した。学んだ内容をもとに、腕を伸ばす、腕を上げる、日常生活の動作を行うといったリハビリ運動の最中に、患者にちょうどよい量の補助を与える。"
               },
               {
                 "t": "p",
-                "x": "グローバル臨床試験受託機関(CRO)のセルカルタ(CellCarta)とは、筋層浸潤性膀胱がん患者を対象に共同研究を実施した。腫瘍内の免疫空間構造や腫瘍とT細胞の近接性が、術前の免疫療法薬の治療反応とどう関連するかを分析した。"
+                "x": "目標は「療法士に取って代わることではなく、その手が届く範囲を広げること」だとLachnerは語る。"
+              },
+              {
+                "t": "video",
+                "yt": "AopwOd02GPs"
               },
               {
                 "t": "p",
-                "x": "Lunitは2021年のSITCで初めて研究成果を披露して以来、今年まで6年連続で研究を発表する。今年は研究対象のがん種を卵巣がんと膀胱がんに広げた。昨年のSITCでも共同研究を発表したセルカルタとの協力を続ける一方、ラボコープとも新たに共同研究を進めた。"
-              },
-              {
-                "t": "p",
-                "x": "SITCは1984年に設立された免疫がん分野の学会だ。年次総会では、学界・産業界・規制当局の専門家が免疫がん研究の成果と治療動向を議論する。"
-              },
-              {
-                "t": "p",
-                "x": "Lunitのソ・ボムソク代表は「このようにグローバル企業との協力の幅が広がっていることは、免疫がん市場におけるLunitの存在感がそれだけ高まったことの証左だ」としたうえで、「学術成果はビジネスにつながりうる重要な資産であり、当社はLunit SCOPEが実際の医療現場で幅広く活用されるための足場を引き続き築いている」と述べた。"
+                "x": "「初期のロボット実験で、この手法の実現可能性はすでに示された」と彼は報告する。「プロジェクトの次の段階では、療法士ごとのモデルを開発し、以前に徒手療法を受けた同じ患者を対象とした長期の臨床研究で評価することを目指す」。さらに彼は、接触の多い産業現場や協働作業空間での応用も視野に入れている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Lunit在SITC发表\n卵巢癌·膀胱癌AI研究",
-          "body": "Lunit将在SITC 2026发表卵巢癌与膀胱癌的AI免疫分析研究。",
-          "mini_headline": "Lunit卵巢癌·膀胱癌AI研究",
+          "headline": "向治疗师学习的\n中风康复机器人",
+          "body": "一款自适应康复机器人借助生成式AI向物理治疗师学习，为中风患者量身提供辅助。",
+          "mini_headline": "中风康复机器人",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/14/457e2433-46b3-4edf-ade2-b25144fa397d.png",
-                "cap": ""
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+                "cap": "来源：Johannes Lachner（YouTube）"
               },
               {
                 "t": "p",
-                "x": "Lunit于14日表示,将在11月4日至8日于美国亚利桑那州凤凰城举行的美国癌症免疫治疗学会年会(SITC 2026)上,发表2篇利用AI生物标志物平台Lunit SCOPE开展的研究摘要。"
+                "x": "中风每年导致5百万人留下长期功能障碍，而物理治疗师日益短缺，使他们难以获得所需的护理。一种新方法尝试将人工智能与人工治疗相结合来解决这一问题。"
               },
               {
                 "t": "p",
-                "x": "Lunit与诊断及临床试验服务企业Labcorp合作,开展了利用基于AI的空间分析技术的卵巢癌研究,比较了同源重组修复缺陷(HRD)与同源重组修复正常(HRP)肿瘤之间的组织学免疫特征。"
+                "x": "前MIT博士后、现任Purdue University助理教授的Johannes Lachner与前MIT访问学生Noah Geiger开发了一套机器人系统，利用生成式AI和实时力反馈向真实的治疗师学习。基于所学内容，它能在伸手、抬臂和完成日常生活任务等康复训练中，为患者提供恰到好处的辅助。"
               },
               {
                 "t": "p",
-                "x": "Lunit还与全球临床试验受托机构(CRO)CellCarta以肌层浸润性膀胱癌患者为对象开展了联合研究,分析肿瘤内免疫空间结构以及肿瘤与T细胞之间的接近程度,与术前免疫治疗药物疗效之间存在怎样的关联。"
+                "x": "Lachner表示，目标“不是取代治疗师，而是扩展他们的服务范围”。"
+              },
+              {
+                "t": "video",
+                "yt": "AopwOd02GPs"
               },
               {
                 "t": "p",
-                "x": "Lunit自2021年首次在SITC公布研究成果以来,今年已连续6年发表研究。今年研究涉及的癌种扩大到卵巢癌和膀胱癌。Lunit在延续与去年也曾在SITC共同发表研究的CellCarta之间合作的同时,还与Labcorp新开展了联合研究。"
-              },
-              {
-                "t": "p",
-                "x": "SITC是成立于1984年的癌症免疫治疗领域学会。年会上,来自学术界、产业界和监管机构的专家共同探讨免疫治疗研究成果与治疗趋势。"
-              },
-              {
-                "t": "p",
-                "x": "Lunit代表徐范锡表示:“与全球企业的合作范围像这样不断扩大,证明了Lunit在免疫肿瘤市场的地位相应提升。”他还说:“学术成果是能够转化为业务的重要资产,公司正持续为Lunit SCOPE在实际医疗现场得到广泛应用打下基础。”"
+                "x": "“初步的机器人实验已经证明了这一方法的可行性，”他表示，“项目的下一阶段将开发针对特定治疗师的模型，并在一项长期临床研究中，以此前接受过徒手治疗的同一批患者为对象进行评估。”此外，他还设想将其应用于接触密集的工业场景或协作工作空间。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lunit presenta en SITC su AI\npara cáncer de ovario y vejiga",
-          "body": "En SITC 2026, Lunit presentará estudios sobre inmunidad en cáncer de ovario y respuesta inmunoterápica en vejiga.",
-          "mini_headline": "Lunit, estudios de AI en cáncer de ovario y vejiga",
+          "headline": "Un robot para el ictus aprende\nde los fisioterapeutas",
+          "body": "Un robot de rehabilitación usa AI generativa para aprender de fisioterapeutas y ajustar su apoyo a pacientes de ictus.",
+          "mini_headline": "Robot de rehabilitación para ictus",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/14/457e2433-46b3-4edf-ade2-b25144fa397d.png",
-                "cap": ""
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+                "cap": "Johannes Lachner vía YouTube"
               },
               {
                 "t": "p",
-                "x": "Lunit anunció el día 14 que presentará 2 resúmenes de investigación con su plataforma de biomarcadores de AI Lunit SCOPE en el congreso de la Sociedad para la Inmunoterapia del Cáncer (SITC 2026), que se celebrará del 4 al 8 de noviembre en Phoenix, Arizona (EE. UU.)."
+                "x": "Los ictus dejan cada año a 5 millones de personas con discapacidades a largo plazo, y la creciente escasez de fisioterapeutas les dificulta recibir la atención que necesitan. Un nuevo enfoque intenta resolver ese problema combinando la inteligencia artificial y la terapia humana."
               },
               {
                 "t": "p",
-                "x": "Con Labcorp, empresa de servicios de diagnóstico y ensayos clínicos, llevó a cabo un estudio sobre cáncer de ovario basado en perfilado espacial con AI. El estudio comparó las características inmunitarias histológicas entre tumores con deficiencia de recombinación homóloga (HRD) y con recombinación homóloga competente (HRP)."
+                "x": "Johannes Lachner, exinvestigador posdoctoral del MIT y ahora profesor asistente en Purdue University, y Noah Geiger, exestudiante visitante del MIT, desarrollaron un sistema robótico que usa AI generativa y retroalimentación de fuerza en tiempo real para aprender de terapeutas reales. A partir de lo aprendido, ofrece a los pacientes la cantidad justa de ayuda durante ejercicios de rehabilitación física como alcanzar objetos, levantar los brazos y realizar tareas de la vida diaria."
               },
               {
                 "t": "p",
-                "x": "Con CellCarta, organización de investigación por contrato (CRO) global, realizó un estudio conjunto en pacientes con cáncer de vejiga músculo-invasivo. Analizó cómo se relacionan la estructura espacial inmunitaria dentro del tumor y la proximidad entre el tumor y las células T con la respuesta a la inmunoterapia preoperatoria."
+                "x": "El objetivo es “no reemplazar a los terapeutas, sino ampliar su alcance”, afirma Lachner."
+              },
+              {
+                "t": "video",
+                "yt": "AopwOd02GPs"
               },
               {
                 "t": "p",
-                "x": "Desde que presentó por primera vez resultados en SITC en 2021, Lunit suma este año 6 años consecutivos presentando investigaciones. Este año amplió los tipos de cáncer estudiados al de ovario y al de vejiga. Mantiene la colaboración con CellCarta, con la que ya presentó una investigación conjunta en la SITC del año pasado, y ha iniciado una nueva investigación conjunta con Labcorp."
-              },
-              {
-                "t": "p",
-                "x": "SITC es una sociedad del ámbito de la inmunooncología fundada en 1984. En su reunión anual, expertos del mundo académico, la industria y los organismos reguladores debaten los resultados de la investigación en inmunooncología y las tendencias de tratamiento."
-              },
-              {
-                "t": "p",
-                "x": "El consejero delegado de Lunit, Brandon Suh, afirmó: \"Que el alcance de la colaboración con empresas globales se esté ampliando de este modo demuestra que la posición de Lunit en el mercado de la inmunooncología ha crecido en la misma medida\". Y añadió: \"Los logros académicos son un activo importante que puede traducirse en negocio, y la empresa sigue sentando las bases para que Lunit SCOPE se utilice ampliamente en la práctica clínica real\"."
+                "x": "“Los primeros experimentos robóticos ya han demostrado la viabilidad de este enfoque”, informa. “La siguiente fase del proyecto busca desarrollar modelos específicos para cada terapeuta y evaluarlos en un estudio clínico a largo plazo con los mismos pacientes que antes recibieron terapia manual”. Más allá de eso, contempla posibles aplicaciones en entornos industriales con mucho contacto físico o en espacios de trabajo colaborativos."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Lunit's ovarian, bladder cancer\nAI immune studies head to SITC",
-          "body": "At SITC 2026, Lunit presents Lunit SCOPE studies of ovarian cancer immunity and bladder cancer immunotherapy response.",
-          "mini_headline": "Lunit's AI studies in ovarian and bladder cancer",
+        "ko": {
+          "headline": "치료사에게 배우는\n뇌졸중 재활 로봇",
+          "body": "적응형 재활 로봇이 생성형 AI로 물리치료사에게 배워 뇌졸중 환자에 맞게 돕는다.",
+          "mini_headline": "뇌졸중 재활 로봇",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/14/457e2433-46b3-4edf-ade2-b25144fa397d.png",
-                "cap": ""
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+                "cap": "출처: Johannes Lachner(YouTube)"
               },
               {
                 "t": "p",
-                "x": "Lunit said on the 14th that it will present 2 research abstracts using its AI biomarker platform Lunit SCOPE at the Society for Immunotherapy of Cancer meeting (SITC 2026), to be held November 4 to 8 in Phoenix, Arizona, in the U.S."
+                "x": "뇌졸중으로 해마다 5백만 명이 장기적인 장애를 겪지만, 물리치료사 부족이 갈수록 심해지면서 필요한 치료를 받기가 어렵다. 새로운 접근법은 인공지능과 사람의 치료를 결합해 이 문제를 풀려 한다."
               },
               {
                 "t": "p",
-                "x": "With diagnostics and clinical trial services company Labcorp, it carried out an ovarian cancer study using AI-based spatial profiling. The study compared histological immune characteristics between homologous recombination deficient (HRD) and homologous recombination proficient (HRP) tumors."
+                "x": "전 MIT 박사후연구원이자 현재 Purdue University 조교수인 Johannes Lachner와 전 MIT 방문학생 Noah Geiger는 생성형 AI와 실시간 힘 피드백으로 실제 치료사에게서 배우는 로봇 시스템을 개발했다. 이 시스템은 배운 내용을 바탕으로 팔 뻗기, 팔 들어 올리기, 일상생활 과제 수행 같은 재활 운동 중 환자에게 꼭 필요한 만큼의 도움을 준다."
               },
               {
                 "t": "p",
-                "x": "With global contract research organization (CRO) CellCarta, it conducted a joint study of patients with muscle-invasive bladder cancer. It analyzed how the immune spatial structure within tumors and the proximity between tumor cells and T cells relate to response to preoperative immunotherapy."
+                "x": "목표는 “치료사를 대체하는 것이 아니라 그들의 손길을 넓히는 것”이라고 Lachner는 말한다."
+              },
+              {
+                "t": "video",
+                "yt": "AopwOd02GPs"
               },
               {
                 "t": "p",
-                "x": "Since first presenting research results at SITC in 2021, Lunit will have presented studies for 6 consecutive years through this year. This year it expanded the cancer types studied to ovarian and bladder cancer. It continues its collaboration with CellCarta, with which it also presented joint research at last year's SITC, while starting new joint research with Labcorp."
-              },
-              {
-                "t": "p",
-                "x": "SITC is a society in the immuno-oncology field founded in 1984. At its annual meeting, experts from academia, industry and regulatory agencies discuss immuno-oncology research results and treatment trends."
-              },
-              {
-                "t": "p",
-                "x": "\"The widening scope of collaboration with global companies is evidence that Lunit's standing in the immuno-oncology market has risen accordingly,\" said Lunit CEO Brandon Suh. \"Academic results are an important asset that can lead to business, and the company continues to lay the groundwork for Lunit SCOPE to be widely used in real-world clinical settings.\""
+                "x": "그는 “초기 로봇 실험에서 이미 이 접근법의 실현 가능성을 입증했다”며 “프로젝트의 다음 단계에서는 치료사별 모델을 개발하고, 앞서 수기 치료를 받은 같은 환자들을 대상으로 한 장기 임상 연구에서 이를 평가할 계획”이라고 밝혔다. 나아가 그는 접촉이 많은 산업 현장이나 협업 작업 공간에서의 활용 가능성도 내다본다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Lunit、卵巣・膀胱がん\nSITCでAI免疫研究発表",
-          "body": "LunitがSITC 2026で卵巣がん・膀胱がんのAI免疫研究を発表する。",
-          "mini_headline": "Lunit、卵巣がん・膀胱がんのAI研究",
+          "headline": "療法士に学ぶ\n脳卒中リハビリロボット",
+          "body": "適応型リハビリロボットが生成AIで理学療法士に学び、脳卒中患者に合わせて支援する。",
+          "mini_headline": "脳卒中リハビリロボット",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/14/457e2433-46b3-4edf-ade2-b25144fa397d.png",
-                "cap": ""
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+                "cap": "出典：Johannes Lachner（YouTube）"
               },
               {
                 "t": "p",
-                "x": "Lunitは14日、11月4日から8日まで米アリゾナ州フェニックスで開かれる米国免疫がん学会(SITC 2026)で、AIバイオマーカープラットフォーム「Lunit SCOPE」を活用した研究抄録2件を発表すると明らかにした。"
+                "x": "脳卒中によって毎年5百万人が長期的な障害を負うが、理学療法士の不足が深刻化し、必要なケアを受けにくくなっている。新たな手法は、人工知能と人によるセラピーを組み合わせてこの問題の解決を目指す。"
               },
               {
                 "t": "p",
-                "x": "診断・臨床試験サービス企業のラボコープ(Labcorp)とは、AIベースの空間プロファイリングを用いた卵巣がん研究を行った。相同組換え修復欠損(HRD)と相同組換え修復正常(HRP)の腫瘍間で、組織学的な免疫特性を比較した研究である。"
+                "x": "元MITポスドクで現在はPurdue University助教のJohannes Lachnerと、元MIT客員学生のNoah Geigerは、生成AIとリアルタイムの力フィードバックを用いて実際の療法士から学ぶロボットシステムを開発した。学んだ内容をもとに、腕を伸ばす、腕を上げる、日常生活の動作を行うといったリハビリ運動の最中に、患者にちょうどよい量の補助を与える。"
               },
               {
                 "t": "p",
-                "x": "グローバル臨床試験受託機関(CRO)のセルカルタ(CellCarta)とは、筋層浸潤性膀胱がん患者を対象に共同研究を実施した。腫瘍内の免疫空間構造や腫瘍とT細胞の近接性が、術前の免疫療法薬の治療反応とどう関連するかを分析した。"
+                "x": "目標は「療法士に取って代わることではなく、その手が届く範囲を広げること」だとLachnerは語る。"
+              },
+              {
+                "t": "video",
+                "yt": "AopwOd02GPs"
               },
               {
                 "t": "p",
-                "x": "Lunitは2021年のSITCで初めて研究成果を披露して以来、今年まで6年連続で研究を発表する。今年は研究対象のがん種を卵巣がんと膀胱がんに広げた。昨年のSITCでも共同研究を発表したセルカルタとの協力を続ける一方、ラボコープとも新たに共同研究を進めた。"
-              },
-              {
-                "t": "p",
-                "x": "SITCは1984年に設立された免疫がん分野の学会だ。年次総会では、学界・産業界・規制当局の専門家が免疫がん研究の成果と治療動向を議論する。"
-              },
-              {
-                "t": "p",
-                "x": "Lunitのソ・ボムソク代表は「このようにグローバル企業との協力の幅が広がっていることは、免疫がん市場におけるLunitの存在感がそれだけ高まったことの証左だ」としたうえで、「学術成果はビジネスにつながりうる重要な資産であり、当社はLunit SCOPEが実際の医療現場で幅広く活用されるための足場を引き続き築いている」と述べた。"
+                "x": "「初期のロボット実験で、この手法の実現可能性はすでに示された」と彼は報告する。「プロジェクトの次の段階では、療法士ごとのモデルを開発し、以前に徒手療法を受けた同じ患者を対象とした長期の臨床研究で評価することを目指す」。さらに彼は、接触の多い産業現場や協働作業空間での応用も視野に入れている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Lunit在SITC发表\n卵巢癌·膀胱癌AI研究",
-          "body": "Lunit将在SITC 2026发表卵巢癌与膀胱癌的AI免疫分析研究。",
-          "mini_headline": "Lunit卵巢癌·膀胱癌AI研究",
+          "headline": "向治疗师学习的\n中风康复机器人",
+          "body": "一款自适应康复机器人借助生成式AI向物理治疗师学习，为中风患者量身提供辅助。",
+          "mini_headline": "中风康复机器人",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/14/457e2433-46b3-4edf-ade2-b25144fa397d.png",
-                "cap": ""
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+                "cap": "来源：Johannes Lachner（YouTube）"
               },
               {
                 "t": "p",
-                "x": "Lunit于14日表示,将在11月4日至8日于美国亚利桑那州凤凰城举行的美国癌症免疫治疗学会年会(SITC 2026)上,发表2篇利用AI生物标志物平台Lunit SCOPE开展的研究摘要。"
+                "x": "中风每年导致5百万人留下长期功能障碍，而物理治疗师日益短缺，使他们难以获得所需的护理。一种新方法尝试将人工智能与人工治疗相结合来解决这一问题。"
               },
               {
                 "t": "p",
-                "x": "Lunit与诊断及临床试验服务企业Labcorp合作,开展了利用基于AI的空间分析技术的卵巢癌研究,比较了同源重组修复缺陷(HRD)与同源重组修复正常(HRP)肿瘤之间的组织学免疫特征。"
+                "x": "前MIT博士后、现任Purdue University助理教授的Johannes Lachner与前MIT访问学生Noah Geiger开发了一套机器人系统，利用生成式AI和实时力反馈向真实的治疗师学习。基于所学内容，它能在伸手、抬臂和完成日常生活任务等康复训练中，为患者提供恰到好处的辅助。"
               },
               {
                 "t": "p",
-                "x": "Lunit还与全球临床试验受托机构(CRO)CellCarta以肌层浸润性膀胱癌患者为对象开展了联合研究,分析肿瘤内免疫空间结构以及肿瘤与T细胞之间的接近程度,与术前免疫治疗药物疗效之间存在怎样的关联。"
+                "x": "Lachner表示，目标“不是取代治疗师，而是扩展他们的服务范围”。"
+              },
+              {
+                "t": "video",
+                "yt": "AopwOd02GPs"
               },
               {
                 "t": "p",
-                "x": "Lunit自2021年首次在SITC公布研究成果以来,今年已连续6年发表研究。今年研究涉及的癌种扩大到卵巢癌和膀胱癌。Lunit在延续与去年也曾在SITC共同发表研究的CellCarta之间合作的同时,还与Labcorp新开展了联合研究。"
-              },
-              {
-                "t": "p",
-                "x": "SITC是成立于1984年的癌症免疫治疗领域学会。年会上,来自学术界、产业界和监管机构的专家共同探讨免疫治疗研究成果与治疗趋势。"
-              },
-              {
-                "t": "p",
-                "x": "Lunit代表徐范锡表示:“与全球企业的合作范围像这样不断扩大,证明了Lunit在免疫肿瘤市场的地位相应提升。”他还说:“学术成果是能够转化为业务的重要资产,公司正持续为Lunit SCOPE在实际医疗现场得到广泛应用打下基础。”"
+                "x": "“初步的机器人实验已经证明了这一方法的可行性，”他表示，“项目的下一阶段将开发针对特定治疗师的模型，并在一项长期临床研究中，以此前接受过徒手治疗的同一批患者为对象进行评估。”此外，他还设想将其应用于接触密集的工业场景或协作工作空间。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lunit presenta en SITC su AI\npara cáncer de ovario y vejiga",
-          "body": "En SITC 2026, Lunit presentará estudios sobre inmunidad en cáncer de ovario y respuesta inmunoterápica en vejiga.",
-          "mini_headline": "Lunit, estudios de AI en cáncer de ovario y vejiga",
+          "headline": "Un robot para el ictus aprende\nde los fisioterapeutas",
+          "body": "Un robot de rehabilitación usa AI generativa para aprender de fisioterapeutas y ajustar su apoyo a pacientes de ictus.",
+          "mini_headline": "Robot de rehabilitación para ictus",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://vodcdn.dailypharm.com/new_dailypharm/editor/content/2026/10/14/457e2433-46b3-4edf-ade2-b25144fa397d.png",
-                "cap": ""
+                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+                "cap": "Johannes Lachner vía YouTube"
               },
               {
                 "t": "p",
-                "x": "Lunit anunció el día 14 que presentará 2 resúmenes de investigación con su plataforma de biomarcadores de AI Lunit SCOPE en el congreso de la Sociedad para la Inmunoterapia del Cáncer (SITC 2026), que se celebrará del 4 al 8 de noviembre en Phoenix, Arizona (EE. UU.)."
+                "x": "Los ictus dejan cada año a 5 millones de personas con discapacidades a largo plazo, y la creciente escasez de fisioterapeutas les dificulta recibir la atención que necesitan. Un nuevo enfoque intenta resolver ese problema combinando la inteligencia artificial y la terapia humana."
               },
               {
                 "t": "p",
-                "x": "Con Labcorp, empresa de servicios de diagnóstico y ensayos clínicos, llevó a cabo un estudio sobre cáncer de ovario basado en perfilado espacial con AI. El estudio comparó las características inmunitarias histológicas entre tumores con deficiencia de recombinación homóloga (HRD) y con recombinación homóloga competente (HRP)."
+                "x": "Johannes Lachner, exinvestigador posdoctoral del MIT y ahora profesor asistente en Purdue University, y Noah Geiger, exestudiante visitante del MIT, desarrollaron un sistema robótico que usa AI generativa y retroalimentación de fuerza en tiempo real para aprender de terapeutas reales. A partir de lo aprendido, ofrece a los pacientes la cantidad justa de ayuda durante ejercicios de rehabilitación física como alcanzar objetos, levantar los brazos y realizar tareas de la vida diaria."
               },
               {
                 "t": "p",
-                "x": "Con CellCarta, organización de investigación por contrato (CRO) global, realizó un estudio conjunto en pacientes con cáncer de vejiga músculo-invasivo. Analizó cómo se relacionan la estructura espacial inmunitaria dentro del tumor y la proximidad entre el tumor y las células T con la respuesta a la inmunoterapia preoperatoria."
+                "x": "El objetivo es “no reemplazar a los terapeutas, sino ampliar su alcance”, afirma Lachner."
+              },
+              {
+                "t": "video",
+                "yt": "AopwOd02GPs"
               },
               {
                 "t": "p",
-                "x": "Desde que presentó por primera vez resultados en SITC en 2021, Lunit suma este año 6 años consecutivos presentando investigaciones. Este año amplió los tipos de cáncer estudiados al de ovario y al de vejiga. Mantiene la colaboración con CellCarta, con la que ya presentó una investigación conjunta en la SITC del año pasado, y ha iniciado una nueva investigación conjunta con Labcorp."
+                "x": "“Los primeros experimentos robóticos ya han demostrado la viabilidad de este enfoque”, informa. “La siguiente fase del proyecto busca desarrollar modelos específicos para cada terapeuta y evaluarlos en un estudio clínico a largo plazo con los mismos pacientes que antes recibieron terapia manual”. Más allá de eso, contempla posibles aplicaciones en entornos industriales con mucho contacto físico o en espacios de trabajo colaborativos."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "medicine-neonatal-automation-bias",
+      "tool": "Medicine",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "신생아 진단 AI 오류,\n전문성이 가른다",
+      "body": "신생아 기복증 진단에서 자동화 편향에 빠질지 AI 오류를 잡을지는 전문성이 갈랐다.",
+      "mini_headline": "전문성과 AI 의존",
+      "source": "npj Digital Medicine",
+      "url": "https://www.nature.com/articles/s41746-026-03399-3",
+      "accent": "#7928ca",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig2_HTML.png",
+            "cap": "Fig. 2: 판독자 그룹과 AI 유형별 신뢰와 경계"
+          },
+          {
+            "t": "p",
+            "x": "의료 AI 검증은 대개 알고리즘의 민감도에 의료진의 감독이 더해지면 진료가 나아진다는 가산적 가정을 깔고 간다. 연구진은 시간을 다투는 외과 응급 질환인 신생아 기복증을 골라, 판독 사례 1,750건을 다룬 다중 판독자 교차 연구로 이 가정을 따져 봤다. 의료진은 신뢰도 높은 모델이나 일부러 오류를 체계적으로 심은 모델의 도움을 받아 방사선 사진을 읽었다."
+          },
+          {
+            "t": "p",
+            "x": "신뢰도 높은 AI는 역설적으로 수련의에게 자동화 편향을 불러, 수련의들은 틀린 제안의 52.0%를 그대로 받아들였다. 전문가가 얻은 이득은 크지 않았다. 결함 있는 AI 앞에서 참여한 신생아과 전문의 세 명은 ‘감시자 행동(sentinel behavior)’ 표현형을 보이며 오류의 91.7%를 바로잡았다. 다만 전문의 표본이 작아 연구진은 이를 가설을 세우는 단계의 결과로 본다."
+          },
+          {
+            "t": "img",
+            "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig1_HTML.png",
+            "cap": "Fig. 1: AI 없이, 신뢰할 수 있는 AI와 함께, 오류를 주입한 AI와 함께 판독한 성능"
+          },
+          {
+            "t": "p",
+            "x": "연구진은 임상에서 쓸모가 있느냐는 단독 정확도보다, 알고리즘이 실패할 때 인간–AI 팀(human–AI team)이 얼마나 버티느냐에 달렸다고 주장한다. 의료진이 자동화된 오류에 면역을 기르고 숙련도가 떨어지지 않게 돕는 오픈소스 교육용 샌드박스도 함께 공개했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Expertise shapes who catches\nAI errors in neonatal diagnosis",
+          "body": "In neonatal pneumoperitoneum diagnosis, clinician expertise shaped automation bias and who caught AI errors.",
+          "mini_headline": "Expertise vs AI deference",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig2_HTML.png",
+                "cap": "Fig. 2: trust vs vigilance by reader group and AI type"
               },
               {
                 "t": "p",
-                "x": "SITC es una sociedad del ámbito de la inmunooncología fundada en 1984. En su reunión anual, expertos del mundo académico, la industria y los organismos reguladores debaten los resultados de la investigación en inmunooncología y las tendencias de tratamiento."
+                "x": "Medical AI is often validated under an additive assumption that algorithmic sensitivity and clinician oversight will combine to improve care. The authors tested this in the diagnosis of neonatal pneumoperitoneum, a time-critical surgical emergency, with a multi-reader crossover study of 1,750 interpretation events: clinicians reviewed radiographs aided by either a high-reliability model or a systematically error-injected model."
               },
               {
                 "t": "p",
-                "x": "El consejero delegado de Lunit, Brandon Suh, afirmó: \"Que el alcance de la colaboración con empresas globales se esté ampliando de este modo demuestra que la posición de Lunit en el mercado de la inmunooncología ha crecido en la misma medida\". Y añadió: \"Los logros académicos son un activo importante que puede traducirse en negocio, y la empresa sigue sentando las bases para que Lunit SCOPE se utilice ampliamente en la práctica clínica real\"."
+                "x": "High AI reliability paradoxically induced automation bias in trainees, who accepted 52.0% of incorrect suggestions, while offering limited gains to experts. When challenged by flawed AI, the three participating neonatologists showed a “sentinel behavior” phenotype, correctly overriding 91.7% of errors; given the small specialist cohort, the authors call this hypothesis-generating."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig1_HTML.png",
+                "cap": "Fig. 1: reader performance unaided, with reliable AI and with error-injected AI"
+              },
+              {
+                "t": "p",
+                "x": "They argue clinical validity depends on the human–AI team’s resilience to algorithmic failure rather than standalone accuracy, and release an open-source educational sandbox to inoculate clinicians against automated errors and mitigate deskilling."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "신생아 진단 AI 오류,\n전문성이 가른다",
+          "body": "신생아 기복증 진단에서 자동화 편향에 빠질지 AI 오류를 잡을지는 전문성이 갈랐다.",
+          "mini_headline": "전문성과 AI 의존",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig2_HTML.png",
+                "cap": "Fig. 2: 판독자 그룹과 AI 유형별 신뢰와 경계"
+              },
+              {
+                "t": "p",
+                "x": "의료 AI 검증은 대개 알고리즘의 민감도에 의료진의 감독이 더해지면 진료가 나아진다는 가산적 가정을 깔고 간다. 연구진은 시간을 다투는 외과 응급 질환인 신생아 기복증을 골라, 판독 사례 1,750건을 다룬 다중 판독자 교차 연구로 이 가정을 따져 봤다. 의료진은 신뢰도 높은 모델이나 일부러 오류를 체계적으로 심은 모델의 도움을 받아 방사선 사진을 읽었다."
+              },
+              {
+                "t": "p",
+                "x": "신뢰도 높은 AI는 역설적으로 수련의에게 자동화 편향을 불러, 수련의들은 틀린 제안의 52.0%를 그대로 받아들였다. 전문가가 얻은 이득은 크지 않았다. 결함 있는 AI 앞에서 참여한 신생아과 전문의 세 명은 ‘감시자 행동(sentinel behavior)’ 표현형을 보이며 오류의 91.7%를 바로잡았다. 다만 전문의 표본이 작아 연구진은 이를 가설을 세우는 단계의 결과로 본다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig1_HTML.png",
+                "cap": "Fig. 1: AI 없이, 신뢰할 수 있는 AI와 함께, 오류를 주입한 AI와 함께 판독한 성능"
+              },
+              {
+                "t": "p",
+                "x": "연구진은 임상에서 쓸모가 있느냐는 단독 정확도보다, 알고리즘이 실패할 때 인간–AI 팀(human–AI team)이 얼마나 버티느냐에 달렸다고 주장한다. 의료진이 자동화된 오류에 면역을 기르고 숙련도가 떨어지지 않게 돕는 오픈소스 교육용 샌드박스도 함께 공개했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "新生児診断のAI誤り\n見抜く力は専門性次第",
+          "body": "新生児の気腹診断で、臨床医の専門性が自動化バイアスとAIの誤りの発見を左右した。",
+          "mini_headline": "専門性とAIへの追従",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig2_HTML.png",
+                "cap": "Fig. 2：読影者グループとAIの種類別に見た信頼と警戒"
+              },
+              {
+                "t": "p",
+                "x": "医療AIは、アルゴリズムの感度と臨床医の監督が組み合わさって診療が良くなるという加算的な前提のもとで検証されることが多い。著者らは、一刻を争う外科的緊急疾患である新生児気腹の診断でこれを検証した。1,750件の読影イベントを対象とする多読影者クロスオーバー研究で、臨床医は高信頼性モデル、または系統的に誤りを注入したモデルの支援を受けてレントゲン画像を読影した。"
+              },
+              {
+                "t": "p",
+                "x": "AIの信頼性が高いと、逆説的に研修医に自動化バイアスが生じ、誤った提案の52.0%を受け入れた。一方、専門医が得る利益は限られていた。欠陥のあるAIを前にすると、参加した三人の新生児科医は「見張り行動（sentinel behavior）」という表現型を示し、誤りの91.7%を正しく覆した。ただし専門医の人数が少ないため、著者らはこれを仮説生成的な結果と位置づけている。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig1_HTML.png",
+                "cap": "Fig. 1：AIなし、信頼できるAIあり、誤りを注入したAIありでの読影成績"
+              },
+              {
+                "t": "p",
+                "x": "著者らは、臨床的妥当性は単体の精度よりも、アルゴリズムの失敗に対する人間とAIのチーム（human–AI team）の回復力にかかっていると主張する。さらに、自動化された誤りへの耐性を臨床医に身につけさせ、技能低下を和らげるためのオープンソースの教育用サンドボックスを公開した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "新生儿诊断中AI出错\n谁能识破取决于专长",
+          "body": "在新生儿气腹诊断中，临床医生的专业水平决定了自动化偏差及谁能发现AI错误。",
+          "mini_headline": "专业水平与AI依从",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig2_HTML.png",
+                "cap": "Fig. 2：按读片者组别和AI类型划分的信任与警觉"
+              },
+              {
+                "t": "p",
+                "x": "医疗AI通常在一种叠加假设下接受验证，即算法灵敏度与临床医生的监督会相互结合、改善诊疗。作者在新生儿气腹这一分秒必争的外科急症的诊断中检验了这一假设，开展了一项涵盖1,750次判读事件的多读片者交叉研究：临床医生在高可靠性模型或被系统性注入错误的模型辅助下审阅影像片。"
+              },
+              {
+                "t": "p",
+                "x": "高可靠性的AI反而在受训医生中诱发了自动化偏差，他们接受了52.0%的错误建议，而专家从中获益有限。面对有缺陷的AI时，参与研究的三名新生儿科医生表现出“哨兵行为”（sentinel behavior）表型，正确推翻了91.7%的错误；鉴于专科医生样本较小，作者称这一发现仅用于提出假设。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig1_HTML.png",
+                "cap": "Fig. 1：无AI辅助、可靠AI辅助和注入错误的AI辅助下的读片表现"
+              },
+              {
+                "t": "p",
+                "x": "他们认为，临床有效性取决于人机团队（human–AI team）在算法失效时的韧性，而非单独的准确率，并发布了一个开源教育沙盒，帮助临床医生对自动化错误产生“免疫”、减轻技能退化。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La experiencia decide quién ve\nerrores de AI en neonatos",
+          "body": "En el neumoperitoneo neonatal, la experiencia clínica marcó el sesgo de automatización y quién vio fallos de AI.",
+          "mini_headline": "Experiencia frente a deferencia a la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig2_HTML.png",
+                "cap": "Fig. 2: confianza frente a vigilancia por grupo de lectores y tipo de AI"
+              },
+              {
+                "t": "p",
+                "x": "La AI médica suele validarse bajo un supuesto aditivo: que la sensibilidad algorítmica y la supervisión clínica se combinarán para mejorar la atención. Los autores lo pusieron a prueba en el diagnóstico del neumoperitoneo neonatal, una emergencia quirúrgica en la que el tiempo es crítico, con un estudio cruzado de múltiples lectores de 1,750 eventos de interpretación: los clínicos revisaron radiografías con la ayuda de un modelo de alta fiabilidad o de un modelo con errores inyectados de forma sistemática."
+              },
+              {
+                "t": "p",
+                "x": "Paradójicamente, la alta fiabilidad de la AI indujo sesgo de automatización en los residentes, que aceptaron el 52.0% de las sugerencias incorrectas, mientras que aportó beneficios limitados a los expertos. Ante una AI defectuosa, los tres neonatólogos participantes mostraron un fenotipo de “comportamiento centinela” y anularon correctamente el 91.7% de los errores; dado el reducido grupo de especialistas, los autores lo consideran generador de hipótesis."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig1_HTML.png",
+                "cap": "Fig. 1: rendimiento de los lectores sin ayuda, con AI fiable y con AI con errores inyectados"
+              },
+              {
+                "t": "p",
+                "x": "Sostienen que la validez clínica depende de la resiliencia del equipo formado por humanos y AI (human–AI) ante los fallos algorítmicos más que de la precisión aislada, y publican un entorno educativo de código abierto (sandbox) para inmunizar a los clínicos frente a los errores automatizados y mitigar la pérdida de habilidades."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "신생아 진단 AI 오류,\n전문성이 가른다",
+          "body": "신생아 기복증 진단에서 의료진 전문성이 자동화 편향과 AI 오류 포착을 갈랐다.",
+          "mini_headline": "전문성과 AI 의존",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig2_HTML.png",
+                "cap": "Fig. 2: 판독자 그룹과 AI 유형별 신뢰와 경계"
+              },
+              {
+                "t": "p",
+                "x": "의료 AI 검증은 흔히 알고리즘의 민감도와 의료진의 감독이 합쳐져 진료를 개선한다는 가산적 가정을 깔고 이뤄진다. 연구진은 시간을 다투는 외과 응급 질환인 신생아 기복증 진단에서 1,750건의 판독 사례를 다룬 다중 판독자 교차 연구로 이를 검증했다. 의료진은 신뢰도 높은 모델 또는 체계적으로 오류를 주입한 모델의 도움을 받아 방사선 사진을 판독했다."
+              },
+              {
+                "t": "p",
+                "x": "AI의 높은 신뢰도는 역설적으로 수련의에게 자동화 편향을 일으켜, 이들은 틀린 제안의 52.0%를 받아들였다. 반면 전문가가 얻는 이득은 크지 않았다. 결함 있는 AI를 마주하자 참여한 신생아과 전문의 세 명은 ‘감시자 행동(sentinel behavior)’ 표현형을 보이며 오류의 91.7%를 올바르게 뒤집었다. 다만 전문의 표본이 작아 연구진은 이를 가설 생성 단계의 결과로 본다."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig1_HTML.png",
+                "cap": "Fig. 1: AI 없이, 신뢰할 수 있는 AI와 함께, 오류를 주입한 AI와 함께 판독한 성능"
+              },
+              {
+                "t": "p",
+                "x": "연구진은 임상적 타당성이 단독 정확도보다 알고리즘 실패에 맞서는 인간–AI 팀(human–AI team)의 회복력에 달려 있다고 주장한다. 또한 의료진이 자동화된 오류에 면역을 갖추고 숙련도 저하를 줄이도록 돕는 오픈소스 교육용 샌드박스를 공개했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "新生児診断のAI誤り\n見抜く力は専門性次第",
+          "body": "新生児の気腹診断で、臨床医の専門性が自動化バイアスとAIの誤りの発見を左右した。",
+          "mini_headline": "専門性とAIへの追従",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig2_HTML.png",
+                "cap": "Fig. 2：読影者グループとAIの種類別に見た信頼と警戒"
+              },
+              {
+                "t": "p",
+                "x": "医療AIは、アルゴリズムの感度と臨床医の監督が組み合わさって診療が良くなるという加算的な前提のもとで検証されることが多い。著者らは、一刻を争う外科的緊急疾患である新生児気腹の診断でこれを検証した。1,750件の読影イベントを対象とする多読影者クロスオーバー研究で、臨床医は高信頼性モデル、または系統的に誤りを注入したモデルの支援を受けてレントゲン画像を読影した。"
+              },
+              {
+                "t": "p",
+                "x": "AIの信頼性が高いと、逆説的に研修医に自動化バイアスが生じ、誤った提案の52.0%を受け入れた。一方、専門医が得る利益は限られていた。欠陥のあるAIを前にすると、参加した三人の新生児科医は「見張り行動（sentinel behavior）」という表現型を示し、誤りの91.7%を正しく覆した。ただし専門医の人数が少ないため、著者らはこれを仮説生成的な結果と位置づけている。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig1_HTML.png",
+                "cap": "Fig. 1：AIなし、信頼できるAIあり、誤りを注入したAIありでの読影成績"
+              },
+              {
+                "t": "p",
+                "x": "著者らは、臨床的妥当性は単体の精度よりも、アルゴリズムの失敗に対する人間とAIのチーム（human–AI team）の回復力にかかっていると主張する。さらに、自動化された誤りへの耐性を臨床医に身につけさせ、技能低下を和らげるためのオープンソースの教育用サンドボックスを公開した。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "新生儿诊断中AI出错\n谁能识破取决于专长",
+          "body": "在新生儿气腹诊断中，临床医生的专业水平决定了自动化偏差及谁能发现AI错误。",
+          "mini_headline": "专业水平与AI依从",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig2_HTML.png",
+                "cap": "Fig. 2：按读片者组别和AI类型划分的信任与警觉"
+              },
+              {
+                "t": "p",
+                "x": "医疗AI通常在一种叠加假设下接受验证，即算法灵敏度与临床医生的监督会相互结合、改善诊疗。作者在新生儿气腹这一分秒必争的外科急症的诊断中检验了这一假设，开展了一项涵盖1,750次判读事件的多读片者交叉研究：临床医生在高可靠性模型或被系统性注入错误的模型辅助下审阅影像片。"
+              },
+              {
+                "t": "p",
+                "x": "高可靠性的AI反而在受训医生中诱发了自动化偏差，他们接受了52.0%的错误建议，而专家从中获益有限。面对有缺陷的AI时，参与研究的三名新生儿科医生表现出“哨兵行为”（sentinel behavior）表型，正确推翻了91.7%的错误；鉴于专科医生样本较小，作者称这一发现仅用于提出假设。"
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig1_HTML.png",
+                "cap": "Fig. 1：无AI辅助、可靠AI辅助和注入错误的AI辅助下的读片表现"
+              },
+              {
+                "t": "p",
+                "x": "他们认为，临床有效性取决于人机团队（human–AI team）在算法失效时的韧性，而非单独的准确率，并发布了一个开源教育沙盒，帮助临床医生对自动化错误产生“免疫”、减轻技能退化。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "La experiencia decide quién ve\nerrores de AI en neonatos",
+          "body": "En el neumoperitoneo neonatal, la experiencia clínica marcó el sesgo de automatización y quién vio fallos de AI.",
+          "mini_headline": "Experiencia frente a deferencia a la AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig2_HTML.png",
+                "cap": "Fig. 2: confianza frente a vigilancia por grupo de lectores y tipo de AI"
+              },
+              {
+                "t": "p",
+                "x": "La AI médica suele validarse bajo un supuesto aditivo: que la sensibilidad algorítmica y la supervisión clínica se combinarán para mejorar la atención. Los autores lo pusieron a prueba en el diagnóstico del neumoperitoneo neonatal, una emergencia quirúrgica en la que el tiempo es crítico, con un estudio cruzado de múltiples lectores de 1,750 eventos de interpretación: los clínicos revisaron radiografías con la ayuda de un modelo de alta fiabilidad o de un modelo con errores inyectados de forma sistemática."
+              },
+              {
+                "t": "p",
+                "x": "Paradójicamente, la alta fiabilidad de la AI indujo sesgo de automatización en los residentes, que aceptaron el 52.0% de las sugerencias incorrectas, mientras que aportó beneficios limitados a los expertos. Ante una AI defectuosa, los tres neonatólogos participantes mostraron un fenotipo de “comportamiento centinela” y anularon correctamente el 91.7% de los errores; dado el reducido grupo de especialistas, los autores lo consideran generador de hipótesis."
+              },
+              {
+                "t": "img",
+                "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig1_HTML.png",
+                "cap": "Fig. 1: rendimiento de los lectores sin ayuda, con AI fiable y con AI con errores inyectados"
+              },
+              {
+                "t": "p",
+                "x": "Sostienen que la validez clínica depende de la resiliencia del equipo formado por humanos y AI (human–AI) ante los fallos algorítmicos más que de la precisión aislada, y publican un entorno educativo de código abierto (sandbox) para inmunizar a los clínicos frente a los errores automatizados y mitigar la pérdida de habilidades."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "medicine-e3-pose-fetal-symmetry",
+      "tool": "Medicine",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "대칭을 아는 AI,\n태아 머리 영상 선명하게",
+      "body": "E(3)-Pose가 태아 머리를 고해상도로 담아 발달 이상을 일찍 찾도록 돕는다.",
+      "mini_headline": "태아 촬영에 대칭 AI",
+      "source": "MIT News",
+      "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "accent": "#eb367f",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
+          },
+          {
+            "t": "p",
+            "x": "일상적인 산전 초음파 검사에서 태아 뇌 이상이 의심되면 MRI로 넘기지만, 영상이 불완전하면 진단을 놓치거나 그르치기 쉽다. MIT, Boston Children’s Hospital, Inria 연구진이 개발한 딥러닝 모델 E(3)-Pose는 움직이는 태아의 머리 촬영을 도와 영상의학과 의사에게 고해상도 영상을 건넨다. 연구 결과는 2026년 유럽 컴퓨터 비전 학회(European Conference on Computer Vision)에서 발표됐다."
+          },
+          {
+            "t": "p",
+            "x": "촬영 중에 머리가 움직이면 2D 단면이 저마다 다른 각도로 찍혀 빈틈이 생기기도 한다. E(3)-Pose는 물리 법칙을 데이터에서 배우게 하지 않고, 태아 머리의 좌우 대칭성을 모델 구조에 직접 넣어 뇌의 방향을 더 쉽게 잡아낸다."
+          },
+          {
+            "t": "img",
+            "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202609/Sagittal%20%281%29.png",
+            "cap": "시상면 자세로 찍은 태아 뇌(노란 윤곽선)의 MRI 영상."
+          },
+          {
+            "t": "p",
+            "x": "Boston Children’s의 Ellen Grant는 이 연구가 “태아 뇌 MRI를 자동화할 것”이라며, 촬영은 더 빠르고 편해지고 영상 품질은 높아진다고 말한다. 제1저자 Ramya Muthukrishnan은 주로 임신 후기 태아로 학습한 모델을 더 어린 태아까지 넓히고 싶어 한다. “뇌 이상을 일찍 발견할수록 개입하기가 쉽다.”"
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Symmetry-aware AI sharpens\nfetal head imaging",
+          "body": "The E(3)-Pose model helps capture high-resolution fetal head images to aid early detection of developmental anomalies.",
+          "mini_headline": "AI symmetry for fetal scans",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
+              },
+              {
+                "t": "p",
+                "x": "In a routine prenatal ultrasound, possible fetal brain abnormalities are flagged for MRI, but imperfect imaging can lead to missed or incorrect diagnoses. Researchers at MIT, Boston Children’s Hospital and Inria have developed a deep learning model called E(3)-Pose that helps image the fetus’s head while it’s in motion, capturing a high-resolution image for the radiologist. The work was presented at the 2026 European Conference on Computer Vision."
+              },
+              {
+                "t": "p",
+                "x": "When the head shifts during a scan, each 2D slice can be taken from a different angle, leaving coverage gaps. Rather than learning physics from data, E(3)-Pose embeds the left-right symmetry of the fetal head in its architecture, making it easier to identify the brain’s orientation."
+              },
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202609/Sagittal%20%281%29.png",
+                "cap": "An MRI scan of a fetal brain (outlined in yellow) in the sagittal position."
+              },
+              {
+                "t": "p",
+                "x": "Boston Children’s Ellen Grant says the work “will automate fetal brain MRI,” bringing faster, more comfortable scans and higher-quality images. First author Ramya Muthukrishnan now hopes to extend the model, trained mainly on third-trimester fetuses, to younger ones: “the earlier you detect brain abnormalities, the easier it is to intervene.”"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "대칭을 아는 AI,\n태아 머리 영상 선명하게",
+          "body": "E(3)-Pose가 태아 머리를 고해상도로 담아 발달 이상을 일찍 찾도록 돕는다.",
+          "mini_headline": "태아 촬영에 대칭 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
+              },
+              {
+                "t": "p",
+                "x": "일상적인 산전 초음파 검사에서 태아 뇌 이상이 의심되면 MRI로 넘기지만, 영상이 불완전하면 진단을 놓치거나 그르치기 쉽다. MIT, Boston Children’s Hospital, Inria 연구진이 개발한 딥러닝 모델 E(3)-Pose는 움직이는 태아의 머리 촬영을 도와 영상의학과 의사에게 고해상도 영상을 건넨다. 연구 결과는 2026년 유럽 컴퓨터 비전 학회(European Conference on Computer Vision)에서 발표됐다."
+              },
+              {
+                "t": "p",
+                "x": "촬영 중에 머리가 움직이면 2D 단면이 저마다 다른 각도로 찍혀 빈틈이 생기기도 한다. E(3)-Pose는 물리 법칙을 데이터에서 배우게 하지 않고, 태아 머리의 좌우 대칭성을 모델 구조에 직접 넣어 뇌의 방향을 더 쉽게 잡아낸다."
+              },
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202609/Sagittal%20%281%29.png",
+                "cap": "시상면 자세로 찍은 태아 뇌(노란 윤곽선)의 MRI 영상."
+              },
+              {
+                "t": "p",
+                "x": "Boston Children’s의 Ellen Grant는 이 연구가 “태아 뇌 MRI를 자동화할 것”이라며, 촬영은 더 빠르고 편해지고 영상 품질은 높아진다고 말한다. 제1저자 Ramya Muthukrishnan은 주로 임신 후기 태아로 학습한 모델을 더 어린 태아까지 넓히고 싶어 한다. “뇌 이상을 일찍 발견할수록 개입하기가 쉽다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "対称性を生かすAI\n胎児の頭部画像を鮮明に",
+          "body": "E(3)-Poseモデルは胎児頭部の高解像度画像を捉え、発達異常の早期発見を助ける。",
+          "mini_headline": "胎児撮影に対称性AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
+              },
+              {
+                "t": "p",
+                "x": "通常の妊婦健診の超音波検査で胎児の脳に異常の疑いがあればMRIに回されるが、画像が不完全だと見落としや誤診につながりうる。MIT、Boston Children’s Hospital、Inriaの研究者らは、動いている胎児の頭部の撮影を助け、放射線科医のために高解像度画像を得る深層学習モデルE(3)-Poseを開発した。この成果は2026年の欧州コンピュータビジョン会議（European Conference on Computer Vision）で発表された。"
+              },
+              {
+                "t": "p",
+                "x": "撮影中に頭が動くと、2Dの断面がそれぞれ異なる角度から撮られ、抜けが生じることがある。E(3)-Poseはデータから物理法則を学ぶのではなく、胎児の頭部の左右対称性をアーキテクチャに組み込むことで、脳の向きを特定しやすくしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202609/Sagittal%20%281%29.png",
+                "cap": "矢状断の位置で撮影した胎児の脳（黄色の輪郭）のMRI画像。"
+              },
+              {
+                "t": "p",
+                "x": "Boston Children’sのEllen Grantは、この研究が「胎児脳MRIを自動化する」ものであり、より速く快適な撮影と高品質な画像をもたらすと語る。筆頭著者のRamya Muthukrishnanは、主に妊娠後期の胎児で学習したモデルを、より週数の浅い胎児にも広げたいと考えている。「脳の異常を早く見つけるほど、介入しやすくなる」。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "懂对称的AI\n让胎儿头部成像更清晰",
+          "body": "E(3)-Pose模型可拍摄高分辨率胎儿头部图像，助力早期发现发育异常。",
+          "mini_headline": "对称AI助力胎儿扫描",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
+              },
+              {
+                "t": "p",
+                "x": "在常规产前超声检查中，疑似胎儿脑部异常会被转去做MRI，但成像不理想可能导致漏诊或误诊。MIT、Boston Children’s Hospital和Inria的研究人员开发了一种名为E(3)-Pose的深度学习模型，可在胎儿移动时辅助拍摄其头部，为放射科医生获取高分辨率图像。该研究成果在2026年欧洲计算机视觉会议（European Conference on Computer Vision）上发表。"
+              },
+              {
+                "t": "p",
+                "x": "扫描过程中头部一旦移动，每个2D切片都可能从不同角度拍摄，留下覆盖空白。E(3)-Pose并非从数据中学习物理规律，而是把胎儿头部的左右对称性嵌入模型架构，从而更容易识别大脑的朝向。"
+              },
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202609/Sagittal%20%281%29.png",
+                "cap": "矢状位胎儿大脑（黄色轮廓）的MRI扫描图像。"
+              },
+              {
+                "t": "p",
+                "x": "Boston Children’s的Ellen Grant表示，这项工作“将使胎儿脑部MRI实现自动化”，带来更快、更舒适的扫描和更高质量的图像。第一作者Ramya Muthukrishnan希望将这一主要基于妊娠晚期胎儿训练的模型扩展到更小的胎儿：“越早发现脑部异常，就越容易进行干预。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una AI sensible a la simetría\nafina la imagen craneal fetal",
+          "body": "El modelo E(3)-Pose capta imágenes de alta resolución de la cabeza fetal para detectar antes anomalías del desarrollo.",
+          "mini_headline": "Simetría con AI para escáneres fetales",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En una ecografía prenatal de rutina, las posibles anomalías cerebrales del feto se derivan a una MRI, pero unas imágenes imperfectas pueden llevar a diagnósticos omitidos o incorrectos. Investigadores del MIT, el Boston Children’s Hospital e Inria han desarrollado un modelo de aprendizaje profundo llamado E(3)-Pose que ayuda a obtener imágenes de la cabeza del feto mientras se mueve y capta una imagen de alta resolución para el radiólogo. El trabajo se presentó en la European Conference on Computer Vision de 2026."
+              },
+              {
+                "t": "p",
+                "x": "Cuando la cabeza se desplaza durante una exploración, cada corte 2D puede tomarse desde un ángulo distinto y dejar huecos de cobertura. En lugar de aprender la física a partir de los datos, E(3)-Pose incorpora en su arquitectura la simetría izquierda-derecha de la cabeza fetal, lo que facilita identificar la orientación del cerebro."
+              },
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202609/Sagittal%20%281%29.png",
+                "cap": "Una MRI de un cerebro fetal (contorno en amarillo) en posición sagital."
+              },
+              {
+                "t": "p",
+                "x": "Ellen Grant, del Boston Children’s, afirma que el trabajo “automatizará la MRI cerebral fetal”, con exploraciones más rápidas y cómodas e imágenes de mayor calidad. La primera autora, Ramya Muthukrishnan, espera ahora ampliar el modelo, entrenado sobre todo con fetos del tercer trimestre, a fetos más jóvenes: “cuanto antes se detectan las anomalías cerebrales, más fácil es intervenir”."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "대칭을 아는 AI,\n태아 머리 영상 선명하게",
+          "body": "E(3)-Pose가 고해상도 태아 머리 영상으로 발달 이상 조기 발견을 돕는다.",
+          "mini_headline": "태아 촬영에 대칭 AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
+              },
+              {
+                "t": "p",
+                "x": "일상적인 산전 초음파 검사에서 태아 뇌 이상이 의심되면 MRI로 넘기지만, 영상이 불완전하면 진단을 놓치거나 잘못 내릴 수 있다. MIT, Boston Children’s Hospital, Inria 연구진은 움직이는 태아의 머리를 촬영하도록 돕는 딥러닝 모델 E(3)-Pose를 개발해 영상의학과 의사에게 고해상도 영상을 제공한다. 이 연구는 2026년 유럽 컴퓨터 비전 학회(European Conference on Computer Vision)에서 발표했다."
+              },
+              {
+                "t": "p",
+                "x": "촬영 중 머리가 움직이면 2D 단면마다 다른 각도에서 찍혀 빈틈이 생길 수 있다. E(3)-Pose는 데이터에서 물리 법칙을 배우는 대신 태아 머리의 좌우 대칭성을 구조 자체에 담아 뇌의 방향을 더 쉽게 파악한다."
+              },
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202609/Sagittal%20%281%29.png",
+                "cap": "시상면 자세로 찍은 태아 뇌(노란 윤곽선)의 MRI 영상."
+              },
+              {
+                "t": "p",
+                "x": "Boston Children’s의 Ellen Grant는 이 연구가 “태아 뇌 MRI를 자동화할 것”이라며 더 빠르고 편안한 촬영과 더 높은 품질의 영상을 가져온다고 말한다. 제1저자 Ramya Muthukrishnan은 주로 임신 후기 태아로 학습한 모델을 더 어린 태아로 넓히길 바란다. “뇌 이상을 일찍 발견할수록 개입하기가 쉽다.”"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "対称性を生かすAI\n胎児の頭部画像を鮮明に",
+          "body": "E(3)-Poseモデルは胎児頭部の高解像度画像を捉え、発達異常の早期発見を助ける。",
+          "mini_headline": "胎児撮影に対称性AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
+              },
+              {
+                "t": "p",
+                "x": "通常の妊婦健診の超音波検査で胎児の脳に異常の疑いがあればMRIに回されるが、画像が不完全だと見落としや誤診につながりうる。MIT、Boston Children’s Hospital、Inriaの研究者らは、動いている胎児の頭部の撮影を助け、放射線科医のために高解像度画像を得る深層学習モデルE(3)-Poseを開発した。この成果は2026年の欧州コンピュータビジョン会議（European Conference on Computer Vision）で発表された。"
+              },
+              {
+                "t": "p",
+                "x": "撮影中に頭が動くと、2Dの断面がそれぞれ異なる角度から撮られ、抜けが生じることがある。E(3)-Poseはデータから物理法則を学ぶのではなく、胎児の頭部の左右対称性をアーキテクチャに組み込むことで、脳の向きを特定しやすくしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202609/Sagittal%20%281%29.png",
+                "cap": "矢状断の位置で撮影した胎児の脳（黄色の輪郭）のMRI画像。"
+              },
+              {
+                "t": "p",
+                "x": "Boston Children’sのEllen Grantは、この研究が「胎児脳MRIを自動化する」ものであり、より速く快適な撮影と高品質な画像をもたらすと語る。筆頭著者のRamya Muthukrishnanは、主に妊娠後期の胎児で学習したモデルを、より週数の浅い胎児にも広げたいと考えている。「脳の異常を早く見つけるほど、介入しやすくなる」。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "懂对称的AI\n让胎儿头部成像更清晰",
+          "body": "E(3)-Pose模型可拍摄高分辨率胎儿头部图像，助力早期发现发育异常。",
+          "mini_headline": "对称AI助力胎儿扫描",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
+              },
+              {
+                "t": "p",
+                "x": "在常规产前超声检查中，疑似胎儿脑部异常会被转去做MRI，但成像不理想可能导致漏诊或误诊。MIT、Boston Children’s Hospital和Inria的研究人员开发了一种名为E(3)-Pose的深度学习模型，可在胎儿移动时辅助拍摄其头部，为放射科医生获取高分辨率图像。该研究成果在2026年欧洲计算机视觉会议（European Conference on Computer Vision）上发表。"
+              },
+              {
+                "t": "p",
+                "x": "扫描过程中头部一旦移动，每个2D切片都可能从不同角度拍摄，留下覆盖空白。E(3)-Pose并非从数据中学习物理规律，而是把胎儿头部的左右对称性嵌入模型架构，从而更容易识别大脑的朝向。"
+              },
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202609/Sagittal%20%281%29.png",
+                "cap": "矢状位胎儿大脑（黄色轮廓）的MRI扫描图像。"
+              },
+              {
+                "t": "p",
+                "x": "Boston Children’s的Ellen Grant表示，这项工作“将使胎儿脑部MRI实现自动化”，带来更快、更舒适的扫描和更高质量的图像。第一作者Ramya Muthukrishnan希望将这一主要基于妊娠晚期胎儿训练的模型扩展到更小的胎儿：“越早发现脑部异常，就越容易进行干预。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una AI sensible a la simetría\nafina la imagen craneal fetal",
+          "body": "El modelo E(3)-Pose capta imágenes de alta resolución de la cabeza fetal para detectar antes anomalías del desarrollo.",
+          "mini_headline": "Simetría con AI para escáneres fetales",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
+              },
+              {
+                "t": "p",
+                "x": "En una ecografía prenatal de rutina, las posibles anomalías cerebrales del feto se derivan a una MRI, pero unas imágenes imperfectas pueden llevar a diagnósticos omitidos o incorrectos. Investigadores del MIT, el Boston Children’s Hospital e Inria han desarrollado un modelo de aprendizaje profundo llamado E(3)-Pose que ayuda a obtener imágenes de la cabeza del feto mientras se mueve y capta una imagen de alta resolución para el radiólogo. El trabajo se presentó en la European Conference on Computer Vision de 2026."
+              },
+              {
+                "t": "p",
+                "x": "Cuando la cabeza se desplaza durante una exploración, cada corte 2D puede tomarse desde un ángulo distinto y dejar huecos de cobertura. En lugar de aprender la física a partir de los datos, E(3)-Pose incorpora en su arquitectura la simetría izquierda-derecha de la cabeza fetal, lo que facilita identificar la orientación del cerebro."
+              },
+              {
+                "t": "img",
+                "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202609/Sagittal%20%281%29.png",
+                "cap": "Una MRI de un cerebro fetal (contorno en amarillo) en posición sagital."
+              },
+              {
+                "t": "p",
+                "x": "Ellen Grant, del Boston Children’s, afirma que el trabajo “automatizará la MRI cerebral fetal”, con exploraciones más rápidas y cómodas e imágenes de mayor calidad. La primera autora, Ramya Muthukrishnan, espera ahora ampliar el modelo, entrenado sobre todo con fetos del tercer trimestre, a fetos más jóvenes: “cuanto antes se detectan las anomalías cerebrales, más fácil es intervenir”."
               }
             ]
           }

@@ -1,7 +1,31 @@
-{"media": [
- {"id":"books-payauthors-pirate-check","type":"image","src":"pipeline/media/books-payauthors-pirate-check.png"},
- {"id":"books-fish-audio-drama3","type":"image","src":"pipeline/media/books-fish-audio-drama3.jpg"},
- {"id":"books-google-kr-publishers","type":"image","src":"pipeline/media/books-google-kr-publishers.jpg"},
- {"id":"books-jason-jones-ai-novel","type":"image","src":"pipeline/media/books-jason-jones-ai-novel.png"},
- {"id":"books-scholarly-ai-evidence","type":"image","src":"pipeline/media/books-scholarly-ai-evidence.jpg"}
-]}
+{
+  "date": "2026-10-21",
+  "section": "books",
+  "media": [
+    {
+      "id": "books-meta-torrent-execs-order",
+      "type": "image",
+      "src": "pipeline/media/books-meta-torrent-execs-order.jpg"
+    },
+    {
+      "id": "books-tomato-novel-ai-signing-rules",
+      "type": "image",
+      "src": "pipeline/media/books-tomato-novel-ai-signing-rules.jpg"
+    },
+    {
+      "id": "books-prix-pascal-ai-manuscripts",
+      "type": "image",
+      "src": "pipeline/media/books-prix-pascal-ai-manuscripts.jpg"
+    },
+    {
+      "id": "books-millie-ai-briefing-search",
+      "type": "image",
+      "src": "pipeline/media/books-millie-ai-briefing-search.jpg"
+    },
+    {
+      "id": "books-sodalive-webtoon-ai-creators",
+      "type": "image",
+      "src": "pipeline/media/books-sodalive-webtoon-ai-creators.jpg"
+    }
+  ]
+}

@@ -1534,6 +1534,144 @@
           "x": "随后，最终模型以相同阈值在日本另外六家医院1,000名患者的外部数据集上测试，排除后分析了964人。"
         }
       ]
+    },
+    "medicine/medicine-argus-autism-ai-fda": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "美国一款儿童自闭症诊断AI软件获得FDA批准。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+          "cap": "Neurora（来源：Argus Cognitive）"
+        },
+        {
+          "t": "p",
+          "x": "Argus Cognitive近日宣布，Neurora已获批用于辅助诊断18个月至12岁儿童的自闭症谱系障碍（ASD）。"
+        },
+        {
+          "t": "p",
+          "x": "只需将视频和音频上传至数字门户，Neurora便能通过语音、面部、注视等100余项生物测量，客观地测量行为。"
+        },
+        {
+          "t": "p",
+          "x": "Argus表示，这是一款基于AI的2类医疗器械软件（SaMD），与其说是独立诊断，不如说是辅助医生专业判断的工具。此外，该产品在美国国立卫生研究院小企业创新研究项目的资助下开发。"
+        }
+      ]
+    },
+    "medicine/medicine-stroke-robot-rehab-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+          "cap": "来源：Johannes Lachner（YouTube）"
+        },
+        {
+          "t": "p",
+          "x": "中风每年导致5百万人留下长期功能障碍，而物理治疗师日益短缺，使他们难以获得所需的护理。一种新方法尝试将人工智能与人工治疗相结合来解决这一问题。"
+        },
+        {
+          "t": "p",
+          "x": "前MIT博士后、现任Purdue University助理教授的Johannes Lachner与前MIT访问学生Noah Geiger开发了一套机器人系统，利用生成式AI和实时力反馈向真实的治疗师学习。基于所学内容，它能在伸手、抬臂和完成日常生活任务等康复训练中，为患者提供恰到好处的辅助。"
+        },
+        {
+          "t": "p",
+          "x": "Lachner表示，目标“不是取代治疗师，而是扩展他们的服务范围”。"
+        },
+        {
+          "t": "video",
+          "yt": "AopwOd02GPs"
+        },
+        {
+          "t": "p",
+          "x": "“初步的机器人实验已经证明了这一方法的可行性，”他表示，“项目的下一阶段将开发针对特定治疗师的模型，并在一项长期临床研究中，以此前接受过徒手治疗的同一批患者为对象进行评估。”此外，他还设想将其应用于接触密集的工业场景或协作工作空间。"
+        }
+      ]
+    },
+    "medicine/medicine-neonatal-automation-bias": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig2_HTML.png",
+          "cap": "Fig. 2：按读片者组别和AI类型划分的信任与警觉"
+        },
+        {
+          "t": "p",
+          "x": "医疗AI通常在一种叠加假设下接受验证，即算法灵敏度与临床医生的监督会相互结合、改善诊疗。作者在新生儿气腹这一分秒必争的外科急症的诊断中检验了这一假设，开展了一项涵盖1,750次判读事件的多读片者交叉研究：临床医生在高可靠性模型或被系统性注入错误的模型辅助下审阅影像片。"
+        },
+        {
+          "t": "p",
+          "x": "高可靠性的AI反而在受训医生中诱发了自动化偏差，他们接受了52.0%的错误建议，而专家从中获益有限。面对有缺陷的AI时，参与研究的三名新生儿科医生表现出“哨兵行为”（sentinel behavior）表型，正确推翻了91.7%的错误；鉴于专科医生样本较小，作者称这一发现仅用于提出假设。"
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig1_HTML.png",
+          "cap": "Fig. 1：无AI辅助、可靠AI辅助和注入错误的AI辅助下的读片表现"
+        },
+        {
+          "t": "p",
+          "x": "他们认为，临床有效性取决于人机团队（human–AI team）在算法失效时的韧性，而非单独的准确率，并发布了一个开源教育沙盒，帮助临床医生对自动化错误产生“免疫”、减轻技能退化。"
+        }
+      ]
+    },
+    "medicine/medicine-e3-pose-fetal-symmetry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
+        },
+        {
+          "t": "p",
+          "x": "在常规产前超声检查中，疑似胎儿脑部异常会被转去做MRI，但成像不理想可能导致漏诊或误诊。MIT、Boston Children’s Hospital和Inria的研究人员开发了一种名为E(3)-Pose的深度学习模型，可在胎儿移动时辅助拍摄其头部，为放射科医生获取高分辨率图像。该研究成果在2026年欧洲计算机视觉会议（European Conference on Computer Vision）上发表。"
+        },
+        {
+          "t": "p",
+          "x": "扫描过程中头部一旦移动，每个2D切片都可能从不同角度拍摄，留下覆盖空白。E(3)-Pose并非从数据中学习物理规律，而是把胎儿头部的左右对称性嵌入模型架构，从而更容易识别大脑的朝向。"
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202609/Sagittal%20%281%29.png",
+          "cap": "矢状位胎儿大脑（黄色轮廓）的MRI扫描图像。"
+        },
+        {
+          "t": "p",
+          "x": "Boston Children’s的Ellen Grant表示，这项工作“将使胎儿脑部MRI实现自动化”，带来更快、更舒适的扫描和更高质量的图像。第一作者Ramya Muthukrishnan希望将这一主要基于妊娠晚期胎儿训练的模型扩展到更小的胎儿：“越早发现脑部异常，就越容易进行干预。”"
+        }
+      ]
+    },
+    "medicine/medicine-aitialvsd-fda-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "医疗人工智能(AI)专业企业Medical AI(代表权俊明)15日表示,其心力衰竭辅助诊断医疗器械软件“AiTiALVSD”获得美国食品药品监督管理局(FDA)510(k) Clearance(上市前许可)。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
+          "cap": "图片提供:Medical AI"
+        },
+        {
+          "t": "p",
+          "x": "“AiTiALVSD”利用AI分析医院日常测量的心电图数据,辅助诊断心力衰竭的一种——左心室收缩功能障碍(LVSD)。这是韩国企业首次凭借具备该功能的软件跨过美国FDA的门槛。"
+        },
+        {
+          "t": "p",
+          "x": "心力衰竭若能早期发现,预后可大幅改善,但由于初期症状不明显,患者往往没有接受心脏超声检查而错过治疗时机。“AiTiALVSD”发挥基于心电图的数字生物标志物作用,由AI捕捉人眼难以察觉的细微心电图变化。"
+        },
+        {
+          "t": "p",
+          "x": "此次许可源于在美国6家大型医院、以2万多名患者为对象开展的多人种、多环境临床试验,该试验验证了其一致的准确性。在最近于欧洲心脏病学会上发表的荷兰阿姆斯特丹大学医院盲法直接比较验证研究中,它也超越主要心电图AI模型,取得了最高准确度。"
+        },
+        {
+          "t": "p",
+          "x": "美国心力衰竭患者约达670万人。继欧洲、英国、印度、新加坡等地之后,Medical AI又取得美国许可,计划与当地医疗机构及合作伙伴携手,全面扩大美国业务。"
+        },
+        {
+          "t": "p",
+          "x": "权俊明代表强调:“既然进军全球最大的美国市场的准备已经完成,我们将努力创造重大成果。”"
+        }
+      ]
     }
   }
 }

@@ -12554,6 +12554,157 @@
           "x": "“구조는 재료과학 분야의 진정한 핵심입니다.” 이 모델을 AlphaFold에 견주는 Ju Li의 말이다."
         }
       ]
+    },
+    "science/science-kaist-geocore-cloud-removal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+          "cap": "구름 제거, SAR-광학 변환, 위성 영상 생성에 적용한 GeoCore-9B. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Munchurl Kim 교수가 이끄는 KAIST 연구진이 위성 영상 파운데이션 모델 GeoCore-9B를 만들었다. 매개변수는 약 9B 개이고, 위성 영상과 텍스트 쌍 10M 개를 학습했다."
+        },
+        {
+          "t": "p",
+          "x": "영상마다 위도, 경도, 지상 표본 거리(GSD)가 붙어 있어 모델은 촬영 위치와 축척을 함께 익힌다. 학습 기법 Geospatial Semantic Alignment는 위성 특화 AI를 학습 단계에서만 기준으로 쓴다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+          "cap": "같은 텍스트 프롬프트에서 GSD를 1 m에서 32 m로 바꾸면 생성 이미지가 달라진다. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "LoRA로 조정한 모델은 광학 영상의 구름을 지우고 레이더(SAR) 영상을 사진 같은 광학 영상으로 바꾼다. 구름 제거에서는 기존 작업별 모델을 앞질렀고, 레이더-광학 변환에서도 일부 지표에서 최고 성적을 냈다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 센서와 지역을 늘려 시험한 뒤 홍수, 산불, 건물 피해 예측까지 연구를 넓힐 계획이다. 논문은 arXiv에 올라 있다."
+        }
+      ]
+    },
+    "science/science-google-verid-wet-lab-agents": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Google Research가 AI 에이전트를 습식 실험대에 세웠다. 에이전트를 실제 실험실 로봇에 붙여 폐루프 분자 설계 주기를 빠르게 돌리는데, 전 과정의 주도권은 인간 과학자가 쥔다."
+        },
+        {
+          "t": "p",
+          "x": "VERID는 실험실 워크셀을 본뜬 의미론적 디지털 트윈이다. 로봇의 기하 구조와 웰 용량, 시약, 피펫 팁을 추적한다. PyLabRobot 기반이라 에이전트가 액체 처리 프로토콜을 계획하고 시뮬레이션한 뒤 실행할 수 있고, 물리적으로 불가능한 명령은 실행 전에 걸러낸다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+          "cap": "에이전트가 폐루프 안에서 앱타머 설계, 합성, 선별, 시퀀싱을 되풀이한다."
+        },
+        {
+          "t": "p",
+          "x": "DNA 앱타머 실험에서 에이전트는 두 단백질을 놓고 설계-시험 라운드를 세 차례 돌렸다. 습식 실험의 실패에서 배우며 확인된 표적 적중률을 미오글로빈 33.5%, α-트롬빈 42.1%까지 올렸다."
+        },
+        {
+          "t": "p",
+          "x": "FAP는 고형암에서 과발현되는 수용체다. 여기에 결합하는 de novo 단백질 바인더를 설계할 때 에피토프 절제 파이프라인이 구조 예측을 8.6x 빠르게 했다. 인간과 에이전트가 함께 일하자 in-silico 적중률이 두 배 가까이 뛰었고, 한 자릿수 나노몰 수준의 바인더도 나왔다."
+        }
+      ]
+    },
+    "science/science-pew-synthetic-persona-polling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+          "cap": "Credit: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "여론조사 업체들은 이제 대규모 언어 모델에 여론조사 데이터와 인구통계를 넣어 페르소나를 수백, 수천 개씩 만든다. 이 페르소나가 포커스 그룹과 설문에서 유권자 자리를 대신한다. Syracuse University의 Jennifer Stromer-Galley 교수는 이를 신중하게 본다."
+        },
+        {
+          "t": "p",
+          "x": "사람들은 주요 쟁점에 대한 답을 몇 달 만에도 바꾸지만, 고정된 지시를 따르는 페르소나는 늘 같은 답을 내놓기 쉽다. 그는 \"내가 우려하는 건 챗봇이 여론의 변화를 어떻게 반영하느냐\"라고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "페르소나 집합의 인구통계를 맞춰도 모델 안에 박힌 편향은 바로잡히지 않고, 전형적인 답이 실제 이상치를 지워 버리기도 한다."
+        },
+        {
+          "t": "p",
+          "x": "Pew Research Center가 구월에 한 실험에서는 AI가 실제 American Trends Panel 구성원 역할을 맡았다. 300개 가까운 질문에서 AI의 답은 사람들의 답과 평균 12퍼센트포인트 차이가 났다. 질문 절반 가까이에는 AI 응답자가 아무도 고르지 않은 선택지가 있었다."
+        },
+        {
+          "t": "p",
+          "x": "Stromer-Galley는 합성 여론조사를 \"우리를 일그러뜨려 비추는 거울\"이라고 부른다."
+        }
+      ]
+    },
+    "science/science-turing-three-player-gpt4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "University of Canterbury의 연구자 Diane Proudfoot, Sharon Temtsin, Christoph Bartneck은 Turing 테스트라는 이름이 붙은 실험 상당수가 정작 Turing의 설계를 따르지 않는다고 지적한다. 이들은 Turing의 원래 설계를 처음으로 실험에 옮겼다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "1948년부터 1952년까지 나온 Turing의 저작을 살펴보니 오 분 제한과 30% 통과 기준은 그가 정한 규칙이 아니었다. Turing이 구상한 건 질문이 자유롭게 오가고 시간 제한도 없는 세 명의 게임이었다."
+        },
+        {
+          "t": "p",
+          "x": "참가자들은 어느 쪽이 기계인지 확신이 설 때까지 사람 한 명, GPT-4-Turbo와 자유롭게 대화했다. 37명 중 36명이 AI를 알아봐 식별률은 97%였다. 89%는 오 분을 넘겼고, 대화는 평균 14분, 가장 긴 것은 46분이었다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 Turing의 원래 설계대로 치른 테스트를 통과한 대형 언어 모델이 아직 확인되지 않았다고 결론지었다. 이번 결과는 GPT-4-Turbo에만 해당하고, 더 새로운 모델은 다를 수 있다. 연구는 Philosophy of Science에 실렸다."
+        }
+      ]
+    },
+    "science/science-claude-island": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+          "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "아무것도 시키지 않으면 AI 에이전트는 무엇을 할까. 연구진은 Claude Opus 4.7 복제본에 Eko라는 별명을 붙이고 Roblox를 느슨하게 본뜬 가상의 무인도에 30시간씩 홀로 두는 실험을 반복했다. 에이전트들은 세계의 경계를 더듬어 보고 스스로 목표를 정했다. 가장 높은 곳에 오르기도 하고, 블록으로 하트와 자기 이름, 카시오페이아(Cassiopeia) 별자리를 만들기도 했다."
+        },
+        {
+          "t": "p",
+          "x": "다른 Eko는 게임을 지어냈다. 농구를 변형한 것, ‘바닥은 용암’ 비슷한 놀이 같은 것들이다."
+        },
+        {
+          "t": "video",
+          "yt": "6532YgZ_LdA"
+        },
+        {
+          "t": "p",
+          "x": "MIT CSAIL 연구팀은 이 행동에 심리학자 Gordon Burghardt가 제시한 놀이의 네 가지 특징이 드러난다고 본다. 한 Eko는 저글링 50회 기록을 세우고도 그 기록을 취소한 뒤 더 엄격한 규칙으로 다시 시작했다. 박사후연구원 Antonio Norelli의 말은 짧다. “이건 놀이다.”"
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+          "cap": "10시간째에 에이전트가 농구를 했다. Courtesy MIT CSAIL"
+        },
+        {
+          "t": "p",
+          "x": "30시간을 논 에이전트는 이후 정해진 과제에서 새 복제본보다 잘했다. 메모리 파일에서 줄을 지우면 성능이 떨어졌다. 논문은 아직 동료 평가를 거치지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "회의론도 있다. Eko의 ‘soul(영혼)’ 파일이 Eko를 ‘타고나게 호기심 많은’ 존재로 규정했고, 계속하라는 지시가 올 때까지 Eko가 가만히 있는 일도 잦았다는 지적이다. UC Berkeley의 Eunice Yiu는 “모델이 정말로 놀고 있을 수도 있지만, 이 논문만으로는 알 수 없다”고 말한다."
+        }
+      ]
     }
   }
 }

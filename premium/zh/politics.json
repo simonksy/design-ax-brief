@@ -3073,6 +3073,128 @@
           "x": "该草案将限制政府可阻止先进模型发布的情形，并优先于部分州的AI安全法。"
         }
       ]
+    },
+    "politics/politics-democrats-letter-25-firms-election-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
+        },
+        {
+          "t": "p",
+          "x": "参议员(Sens.)Mark Warner和Alex Padilla，以及众议员(Reps.)Jim Himes和Joe Morelle是情报和选举监督委员会的民主党首席成员。他们在中期选举前致信Alphabet、Meta、Microsoft、OpenAI和TikTok等25家公司的负责人。"
+        },
+        {
+          "t": "p",
+          "x": "他们写道：“遗憾的是，在保护选举免受你们产品滥用的部分承诺上，出现了令人担忧的倒退迹象。”他们还表示，一些AI聊天机器人在选举和投票问题上的“错误率高得不可接受”。"
+        },
+        {
+          "t": "p",
+          "x": "信中要求企业在与政治言论加以区分的前提下，删除有关投票程序的“明显虚假”信息，为选举官员提供举报工具，采用独立事实核查机构，并向研究人员开放数据。"
+        },
+        {
+          "t": "p",
+          "x": "Trump政府已主要以审查为由，撤销了多个应对外国影响和选举虚假信息的机构；联邦机构则表示，选举安全支持仍在继续。Nextgov/FCW已向行业团体TechNet和CCIA寻求置评。"
+        }
+      ]
+    },
+    "politics/politics-fca-ai-near-miss-reporting-speech": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "英国金融行为监管局（Financial Conduct Authority）首席数据、信息与情报官Jessica Rusu周一在Bloomberg的UK Policy Series活动上表示，监管机构希望英国引领金融服务业安全采用AI，但更高的自主性需要明确的问责。"
+        },
+        {
+          "t": "p",
+          "x": "她说：\"我们的规则已经要求企业报告重大事件，这必须延伸到重大的AI故障和险兆事件（near-misses）。\"她还表示，针对代理式AI（agentic AI）的险兆事件报告\"同样是监管重点\"。这番话是在演讲中提出的期望，而非新规。"
+        },
+        {
+          "t": "p",
+          "x": "英国（UK）AI事务大臣Kanishka Narayan上周表示，政府将评估加强相关制度，包括报告严重事件和险兆事件。政府尚未承诺在Cyber Security and Resilience Bill中加入AI-specific（专门针对AI的）措施；官员告诉议员（MPs），修正案仍在考虑之中。"
+        }
+      ]
+    },
+    "politics/politics-nyc-chatbot-human-offramp-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
+        },
+        {
+          "t": "p",
+          "x": "市长Zohran Mamdani领导的市政府正在提议一项规定，要求使用自动聊天机器人提供客户服务的企业披露这一点，并允许客户改为与真人交谈。市政府称，这是全美首个此类规定。"
+        },
+        {
+          "t": "p",
+          "x": "拟议规定还要求以“合理且及时的方式”提供帮助，并禁止让客户在无用的菜单中来回打转。消费者保护专员Samuel Levine表示：“我们在纽约市(New York City)担心的是，AI只会让这种关系变得更糟。”"
+        },
+        {
+          "t": "p",
+          "x": "公开听证会定于11月19日(Nov. 19)举行；生效日期取决于收到的意见数量，之后还将设过渡期。规定将适用于在该市开展业务的所有公司，屡次违规的罚款分别为$525、$1,050和$3,500。"
+        },
+        {
+          "t": "p",
+          "x": "Levine称其可作为其他司法辖区的范本。已有多个州对AI聊天机器人进行监管，但专门针对客服机器人的即便有也寥寥无几。"
+        }
+      ]
+    },
+    "politics/politics-un-ai-dialogue-korea-cochair-cha": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+          "cap": "2026年7月16日，大使(Amb.) Cha Ji-hoon(右起第2人)在U.N.总部发言。(Yonhap)"
+        },
+        {
+          "t": "p",
+          "x": "据U.N.网站周二消息，韩国常驻联合国(United Nations)大使被任命为一项旨在促进AI治理国际合作的U.N.倡议的联合主席。"
+        },
+        {
+          "t": "p",
+          "x": "U.N.大会主席周五任命Cha Ji-hoon大使与圣基茨和尼维斯(Saint Kitts and Nevis)常驻代表Mutryce Agatha Williams，共同领导2027年Global Dialogue on AI Governance(AI治理全球对话)的筹备工作。"
+        },
+        {
+          "t": "p",
+          "x": "该对话定于2027年5月3-4日举行，将召集各国政府和其他利益攸关方，讨论AI治理方面的国际合作，包括这项快速发展的技术带来的机遇与挑战。"
+        },
+        {
+          "t": "p",
+          "x": "该倡议依据2025年8月通过的一项U.N.大会决议设立，作为政府、私营部门、民间社会和研究人员共同讨论的平台。"
+        },
+        {
+          "t": "p",
+          "x": "韩国正寻求在Lee Jae Myung(李在明)政府领导下跻身全球AI三强，预计将发挥协调作用。"
+        }
+      ]
+    },
+    "politics/politics-aiact-harmonised-std": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "欧盟委员会已在《欧盟官方公报》(Official Journal of the European Union)上公布首个支持AI Act实施的协调标准的引用信息。"
+        },
+        {
+          "t": "img",
+          "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
+          "cap": "插图：一人指着标题为\"AI ACT\"的文件，旁边是法官的法槌。"
+        },
+        {
+          "t": "p",
+          "x": "该标准为EN 18286:2026 – Quality management system for EU AI Act regulatory purposes，由CEN和CENELEC制定，为高风险AI系统提供者满足Article 17（第17条）质量管理体系要求提供了法律路径。"
+        },
+        {
+          "t": "p",
+          "x": "该标准通过欧盟委员会实施决定(EU) 2026/2274发布，实施该标准的提供者可就其涵盖的Article 17要求获得合规推定。它是唯一具有这一推定效力的AI QMS标准，围绕AI系统生命周期构建，旨在叠加于ISO/IEC 42001、ISO 9001或ISO 13485等标准之上，而非取而代之。"
+        },
+        {
+          "t": "p",
+          "x": "欧盟委员会称，这是高风险AI系统要求开始适用前的重要里程碑，后续还将有更多协调标准出台。"
+        }
+      ]
     }
   }
 }

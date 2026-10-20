@@ -1702,6 +1702,157 @@
           "x": "コラムは「デフォルトが運命を決める」と述べる。ADOTATは自らの商業的な読みを推論と位置づけており、無料プレビューにはFull-Funnelがオーディエンス選択を妨げるとの記述はない。"
         }
       ]
+    },
+    "marketing/marketing-gemini-small-business-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+        },
+        {
+          "t": "p",
+          "x": "Googleによると、すでに数千万人の小規模事業者がGeminiを使って商品のアイデア出しや顧客フィードバックの管理、業績分析を行っている。同社は今回、ブランド構築、財務分析、顧客インサイトの把握を一か所で行えるビジネス専用のランディングページを立ち上げる。"
+        },
+        {
+          "t": "p",
+          "x": "GeminiはGoogle Business Profile、Google Ads、Google Workspaceに加え、Adobe、Canva、Dropbox、Shopify、Wix、Zoho、Xeroといったサードパーティアプリとも連携できる。"
+        },
+        {
+          "t": "p",
+          "x": "ブランドに沿ったビジュアルのために、事業者はウェブサイトやブランドキット、フォント、カラーパレットをアップロードできる。Googleの最新画像モデルNano Banana 2.1と組み合わせ、Geminiは商品発売や継続中のキャンペーン向けのビジュアルを一貫して制作し、スタイルを保持するのでガイドラインを再アップロードする必要はない。"
+        },
+        {
+          "t": "p",
+          "x": "Geminiは散らかったスプレッドシートや領収書、購入記録を財務グラフィックやインタラクティブなモデルに変えることもできる。Googleは、商品説明やSNS投稿の作成で1日二、三時間を節約しているBordeaux（ボルドー）の陶芸家などの事例を紹介している。"
+        },
+        {
+          "t": "p",
+          "x": "ランディングページ、マーケティング・財務のスキル、新たな連携アプリは、今後数日のうちに世界中のすべてのGeminiアプリ利用者へ順次提供される。"
+        }
+      ]
+    },
+    "marketing/marketing-ai-slop-recipe-mfa-sites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
+        },
+        {
+          "t": "p",
+          "x": "サプライチェーン分析企業DecryptAdsが火曜日に公表した調査で、広告収益目的（made-for-advertising、MFA）の手法をなぞるAI生成（AI-generated）のレシピサイトが2,100以上見つかった。手間をかけない（low-effort）ページに広告枠を重ねて配置するやり方だ。これらのサイトには大手優良（blue-chip）ブランドやFortune 500ブランドの広告が表示されていた。"
+        },
+        {
+          "t": "p",
+          "x": "各サイトには架空の著者が登場し、その紹介（“about”）ページにはAI生成のアバター、ストック画像、実在シェフの盗用写真、さらにはEmily Bluntのような著名人の加工画像まで使われていた。架空のクリエイタープロフィールを欺瞞の一形態とした今月のGoogle Searchのアップデートに反する行為だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
+          "cap": "Emily Bluntの加工画像を使ったレシピサイトの著者ページ（DecryptAdsの報告書）"
+        },
+        {
+          "t": "p",
+          "x": "DecryptAdsはads.txtとsellers.jsonのつながりをたどり、ロシア、中国、キプロス、トルコ、UAEなど「リスクの高い地域」にある約300のアドテク企業を追跡して、最終的に2,116サイトを特定した。犯罪の証拠は見つからなかったという。"
+        },
+        {
+          "t": "p",
+          "x": "SSPsは反論した。1,631サイトのパートナーとされたHBAgencyは報告書が示す関係を否定し、MonetizeMoreは自社に結び付けられた11サイトを収益化していないと述べた。Ezoicは、コンテンツはAIが作ったかどうかではなく質で判断すべきだと主張した。"
+        }
+      ]
+    },
+    "marketing/marketing-ai-max-ad-grants-autoon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
+        },
+        {
+          "t": "p",
+          "x": "Google AdsのAI Max機能が、一部のGoogle Ad Grants Searchキャンペーンで広告主が手動でオンにしていないのに自動で有効になっている。非営利の広告主がAI活用型（AI-powered）のキャンペーン設定をどこまで制御できるのか、疑問が生じている。Googleは、これがAd Grants全体（Ad Grants-wide）への新たな展開だとは認めていない。"
+        },
+        {
+          "t": "p",
+          "x": "AI MaxはSearchキャンペーンを、部分一致（broad-match）やキーワードなし（keywordless）の検索語句マッチング、ランディングページをもとに自動生成・調整された広告文、そしてGoogleがどの検索が関連するかを判断するのに役立つランディングページのシグナルによって拡張する。"
+        },
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+          "cap": "Google AdsのAI Max for Search campaigns設定"
+        },
+        {
+          "t": "p",
+          "x": "Ad Grantsの広告主にとって、CTRはアカウントのポリシー順守に直結する。マッチングが広がれば新たなオーディエンスに届く可能性があるが、クリックを伴わない表示が増えればCTRが下がりかねない。すでに最低基準に近いアカウントには懸念材料だ。"
+        },
+        {
+          "t": "p",
+          "x": "非営利団体は今週中に、AI Maxが有効になっていないか確認し、最近の検索語句を見直し、CTRを監視し、増えたトラフィックが目的に合っているかを確かめるべきだ。この変化はデジタル広告の専門家Dan KabakovがLinkedInで最初に指摘した。"
+        }
+      ]
+    },
+    "marketing/marketing-hark-agent-pizza-promo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+          "cap": "イラスト：Brendan Lynch/Axios"
+        },
+        {
+          "t": "p",
+          "x": "AIスタートアップのHarkは、自社エージェントを披露するための総額1百万ドルのプレゼント企画で、DoorDashの30ドル分のクレジットを提供した。Hark Proをダウンロードし、アカウントを連携して、エージェントにピザの注文を頼む仕組みだ。この企画でHarkはAppleのApp StoreのLifestyleカテゴリでNo. 1になり、Harkは殺到した需要による技術的な問題があったものの、20,000枚近いピザを届けたとしている。"
+        },
+        {
+          "t": "p",
+          "x": "多くのユーザーにとっては散々な夜だった。投資家のSheel Mohnotは注文に20分かかったと述べ、別のユーザーはクレジットが適用されず27.70ドルを請求されたと報告した。Replika創業者のEugenia Kuydaは失敗を繰り返す様子を投稿した。Axiosの記者はクレジットは得たもののピザは届かず、Gmailを連携した後にGoogleのセキュリティ警告まで受けた。Harkはメールの閲覧・作成・送信を含む広範なGoogleの権限を求める。"
+        },
+        {
+          "t": "p",
+          "x": "CEOのBrett Adcockは利用が急増して多くの不具合が出たと述べたが、HarkはHandoffモデルで203,500超のブラウザセッションを処理した。広報担当者は、問題は今回のプロモーション特有のものだとし、影響を受けたユーザーにギフトカードを提供した。教訓は、エージェントにはいまだにログイン、権限、人の手助けが必要で、それが単純な作業をかえって難しくしかねないということだ。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-genrecs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "MetaのGenerative Recommenders(GenRecs)は、広告システムを、すべての広告候補にスコアを付ける方式から、LLMアーキテクチャで広告の内容とユーザーの好みをまとめて推論する方式へ移す。基盤となるのはGenRecs Tokenizationだ。アイテムごとに専用のIDを割り当てる代わりに、広告、商品、ページ、ピクセルのそれぞれを、安定した意味語彙のトークンで表現する。"
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "事前学習済みのマルチモーダルモデルがアイテムのテキストと画像を読み込み、埋め込みに変換する。トークナイザーはこれをエンゲージメントから学習した表現と組み合わせ、結果を短い離散トークン列に量子化する。パイプラインはエンコードし、埋め込みを部分空間に分解して、それぞれをコードブックの項目に対応づける。似たアイテムはトークンを共有するため、新しいトレイルシューズは、モデルが前シーズンの靴から学んだことを引き継ぐ。"
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "八つのトークナイザー版を通じて、内在的指標(クラスター純度、分布バランス、コードブック利用率)はCTR予測精度と強く相関した。"
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "インプレッションの少ないテール広告の予測が改善すると、全広告の学習データも良くなる。自己強化型のフライホイールである。"
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "MetaのGEMおよびAdaptive Ranking Modelと組み合わせたGenRecs Tokenizationは、各面でコンバージョンを+0.35%押し上げた(Meta社内データ、2026年2月)。次の段階は、トークン化の対象範囲の拡大と、テキスト・画像・音声・動画をまたぐ共有トークン空間である。"
+        }
+      ]
     }
   }
 }

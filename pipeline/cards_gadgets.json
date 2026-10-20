@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-even-g2-review",
+      "id": "gadgets-perplexity-mac-local",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Even G2 리뷰\n똑똑한 안경, 어색한 조작",
-      "body": "Engadget은 G2에 6.9/10을 줬다. 가볍지만 조작이 어렵다는 평이다.",
-      "mini_headline": "Even G2, 어색한 조작",
+      "headline": "Perplexity AI\nMac에서 로컬 실행",
+      "body": "RAM 36GB 이상 Macs에서 Perplexity AI 작업이 로컬로 돈다.",
+      "mini_headline": "Perplexity, Mac에서 로컬로",
       "tool": "Gadgets",
       "source": "Engadget",
-      "url": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/",
+      "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,251 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
-            "cap": "Daniel Cooper for Engadget"
+            "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
           },
           {
             "t": "p",
-            "x": "Engadget은 Even Realities G2에 6.9/10점을 줬다. 카메라가 없는 이 안경은 알림, 헤드라인, 길 안내, 번역, 텔레프롬프터, AI 어시스턴트를 시야에 띄운다. 기본 모델은 $599이고 도수 렌즈를 넣으면 $159에서 $349를 더 내야 한다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
+            "x": "Perplexity는 9월 초 Computer 앱 업데이트 Hybrid Compute를 내놓으며 AI 작업을 프런티어 모델과 로컬 모델에 나눠 맡기게 했다. 이번에는 플랫폼 전체를 사용자 기기 안에서만 돌릴 수 있다."
           },
           {
             "t": "p",
-            "x": "G2는 더 가벼워졌고 디스플레이도 선명해졌다(640 x 350). 시야각 27.5도, 주사율 60Hz, 밝기 1,200 nits에 마이크 네 개, IP65 등급까지 갖췄다. 안경다리 끝에는 터치패드를 새로 넣었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+            "x": "RAM이 36GB 이상인 최신 Apple Silicon Mac이라면 하네스와 오케스트레이터까지 Computer 경험 전체가 내 컴퓨터에서 돈다. Perplexity는 비용을 아끼려는 사용자나 데이터를 지키려는 사용자에게 유리하다고 설명한다. 예컨대 Notes와 Mail에 접근해 이메일 데이터를 클라우드로 보내지 않고 우선순위 할 일 목록을 만든다. 회사는 “민감한 데이터와 크레딧 지출을 사용자가 더 잘 통제할 수 있다”고 밝혔다."
           },
           {
             "t": "p",
-            "x": "따로 파는 $249 R1 스마트 링은 리모컨 겸 건강 지표 추적기다. 작은 터치패드는 스와이프, 탭, 누르기만 알아듣는데 탭과 스와이프마저 자주 잘못 읽었다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+            "x": "로컬 모델은 둘 중 하나를 고른다. Qwen 3.6, 아니면 Qwen 3.6을 Computer 사용에 맞게 사후 학습한 Perplexity 파생 모델 PPLX Pro다. 프런티어 시스템이 더 잘하는 작업이면 15개가 넘는 모델 가운데 하나를 부르도록 허용하면 된다. 코드와 도구는 모두 격리된 샌드박스에서 실행된다."
           },
           {
             "t": "p",
-            "x": "제대로 작동하면 스크롤은 미래 같다. Translation은 똑똑하고 Navigation은 편리하며 AI도 충분히 빠르다. 다만 Conversate 회의 노트는 결론을 잘 끌어내지 못한다. 리뷰어는 여전히 단종된 G1 쪽을 더 좋아한다."
+            "x": "Perplexity Pro, Max, Enterprise 구독자라면 오늘부터 최신 Perplexity Mac 앱을 깔고 앱 안내대로 로컬 모델을 내려받아 Computer를 로컬에서 쓰면 된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Even Realities G2 review:\nsmart glasses, awkward controls",
-          "body": "Engadget gives Even Realities' G2 a 6.9/10: light and snappy, but its growing feature set is too hard to control.",
-          "mini_headline": "Even G2 glasses,\nawkward controls",
+          "headline": "Perplexity runs AI workflows\nlocally on your Mac",
+          "body": "Macs with at least 36GB of RAM can now run Perplexity's AI workflows entirely on the device.",
+          "mini_headline": "Perplexity goes local on Mac",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
               },
               {
                 "t": "p",
-                "x": "Engadget rates the Even Realities G2 6.9/10. The camera-free glasses project notifications, headlines, directions, translation, a teleprompter and an AI assistant into your view. The base model is $599; prescription lenses add $159 to $349."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
+                "x": "At the start of September, Perplexity introduced Hybrid Compute, an update to its Computer app that let users split AI workloads across frontier and local models. Now the company is making it possible to run the platform entirely on your own device."
               },
               {
                 "t": "p",
-                "x": "The G2 is lighter, with sharper displays (640 x 350), a 27.5-degree field of view, a 60Hz refresh rate, 1,200 nits, four mics and an IP65 rating. New touchpads sit on the temple tips."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+                "x": "Provided you own a recent Apple Silicon Mac with at least 36GB of RAM, you can run the entire Computer experience, including the harness and orchestrator, on your own machine. Perplexity pitches it as a boon to thrifty users and those who want to keep their data private: with access to Notes and Mail, Computer could generate a priority to-do list without any email data being sent to the cloud. \"This gives users more control over sensitive data and credit spend,\" the company says."
               },
               {
                 "t": "p",
-                "x": "The optional $249 R1 smart ring acts as a remote and tracks health stats, but its tiny touchpad only reads swipes, taps and presses, and taps and swipes were often misread."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+                "x": "You can choose one of two local models: Qwen 3.6 or PPLX Pro, a Perplexity offshoot of Qwen 3.6 post-trained for Computer use. If a task would benefit from a frontier system, you can authorize the software to call on one of more than 15 models. Any code or tool execution runs in an isolated sandbox."
               },
               {
                 "t": "p",
-                "x": "When it works, scrolling feels like the future: Translation is smart, Navigation is handy and the AI is fast enough, though the Conversate meeting notes struggle to draw conclusions. The reviewer still prefers the discontinued G1."
+                "x": "Perplexity Pro, Max and Enterprise subscribers can begin using Computer locally starting today by installing the latest Perplexity Mac app and following the in-app instructions to download a local model."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Even G2 리뷰\n똑똑한 안경, 어색한 조작",
-          "body": "Engadget은 G2에 6.9/10을 줬다. 가볍지만 조작이 어렵다는 평이다.",
-          "mini_headline": "Even G2, 어색한 조작",
+          "headline": "Perplexity AI\nMac에서 로컬 실행",
+          "body": "RAM 36GB 이상 Macs에서 Perplexity AI 작업이 로컬로 돈다.",
+          "mini_headline": "Perplexity, Mac에서 로컬로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
               },
               {
                 "t": "p",
-                "x": "Engadget은 Even Realities G2에 6.9/10점을 줬다. 카메라가 없는 이 안경은 알림, 헤드라인, 길 안내, 번역, 텔레프롬프터, AI 어시스턴트를 시야에 띄운다. 기본 모델은 $599이고 도수 렌즈를 넣으면 $159에서 $349를 더 내야 한다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
+                "x": "Perplexity는 9월 초 Computer 앱 업데이트 Hybrid Compute를 내놓으며 AI 작업을 프런티어 모델과 로컬 모델에 나눠 맡기게 했다. 이번에는 플랫폼 전체를 사용자 기기 안에서만 돌릴 수 있다."
               },
               {
                 "t": "p",
-                "x": "G2는 더 가벼워졌고 디스플레이도 선명해졌다(640 x 350). 시야각 27.5도, 주사율 60Hz, 밝기 1,200 nits에 마이크 네 개, IP65 등급까지 갖췄다. 안경다리 끝에는 터치패드를 새로 넣었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+                "x": "RAM이 36GB 이상인 최신 Apple Silicon Mac이라면 하네스와 오케스트레이터까지 Computer 경험 전체가 내 컴퓨터에서 돈다. Perplexity는 비용을 아끼려는 사용자나 데이터를 지키려는 사용자에게 유리하다고 설명한다. 예컨대 Notes와 Mail에 접근해 이메일 데이터를 클라우드로 보내지 않고 우선순위 할 일 목록을 만든다. 회사는 “민감한 데이터와 크레딧 지출을 사용자가 더 잘 통제할 수 있다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "따로 파는 $249 R1 스마트 링은 리모컨 겸 건강 지표 추적기다. 작은 터치패드는 스와이프, 탭, 누르기만 알아듣는데 탭과 스와이프마저 자주 잘못 읽었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+                "x": "로컬 모델은 둘 중 하나를 고른다. Qwen 3.6, 아니면 Qwen 3.6을 Computer 사용에 맞게 사후 학습한 Perplexity 파생 모델 PPLX Pro다. 프런티어 시스템이 더 잘하는 작업이면 15개가 넘는 모델 가운데 하나를 부르도록 허용하면 된다. 코드와 도구는 모두 격리된 샌드박스에서 실행된다."
               },
               {
                 "t": "p",
-                "x": "제대로 작동하면 스크롤은 미래 같다. Translation은 똑똑하고 Navigation은 편리하며 AI도 충분히 빠르다. 다만 Conversate 회의 노트는 결론을 잘 끌어내지 못한다. 리뷰어는 여전히 단종된 G1 쪽을 더 좋아한다."
+                "x": "Perplexity Pro, Max, Enterprise 구독자라면 오늘부터 최신 Perplexity Mac 앱을 깔고 앱 안내대로 로컬 모델을 내려받아 Computer를 로컬에서 쓰면 된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Even G2レビュー\n賢い眼鏡、ぎこちない操作",
-          "body": "EngadgetはG2を6.9/10と評価し、軽快だが操作が難しいとした。",
-          "mini_headline": "Even G2、ぎこちない操作",
+          "headline": "Perplexity AI\nMacでローカル実行",
+          "body": "RAM 36GB以上のMacsでPerplexityのAIワークフローが端末内で完結する。",
+          "mini_headline": "PerplexityがMacでローカルに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
               },
               {
                 "t": "p",
-                "x": "EngadgetはEven Realities G2を6.9/10と評価した。カメラを持たないこの眼鏡は、通知、ヘッドライン、道案内、翻訳、テレプロンプター、AIアシスタントを視界に映し出す。ベースモデルは$599で、度付きレンズには$159から$349が追加でかかる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
+                "x": "Perplexityは9月初め、Computerアプリのアップデート「Hybrid Compute」を導入し、AIの処理をフロンティアモデルとローカルモデルに振り分けられるようにした。今回はプラットフォーム全体を自分の端末だけで動かせるようにする。"
               },
               {
                 "t": "p",
-                "x": "G2はより軽くなり、ディスプレイはより鮮明(640 x 350)だ。視野角27.5度、リフレッシュレート60Hz、1,200 nits、四つのマイク、IP65等級を備える。テンプルの先端には新しいタッチパッドが付いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+                "x": "36GB以上のRAMを搭載した最新のApple Silicon Macがあれば、ハーネスやオーケストレーターを含むComputerの体験全体を手元のマシンで実行できる。Perplexityは、出費を抑えたい人やデータを手元に置きたい人に利点があると説明する。NotesとMailにアクセスすれば、メールのデータをクラウドに送らずに優先度付きのやることリストを作れるという。同社は「機密データとクレジット消費をユーザーがより管理しやすくなる」としている。"
               },
               {
                 "t": "p",
-                "x": "オプションの$249のR1スマートリングはリモコンとして機能し、健康データも記録する。だが小さなタッチパッドが読み取れるのはスワイプ、タップ、押し込みだけで、タップとスワイプはしばしば誤認識された。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+                "x": "ローカルモデルは二つから選べる。Qwen 3.6か、Qwen 3.6をComputer向けに追加学習したPerplexity独自のPPLX Proだ。フロンティアモデルが向くタスクなら、15を超えるモデルのいずれかを呼び出すことを許可できる。コードやツールの実行はすべて隔離されたサンドボックス内で行われる。"
               },
               {
                 "t": "p",
-                "x": "うまく動けば、スクロールは未来のように感じられる。Translationは賢く、Navigationは便利で、AIも十分に速い。ただしConversateの会議メモは結論を導き出すのに苦労する。レビュアーは今も販売終了したG1のほうを好む。"
+                "x": "Perplexity Pro、Max、Enterpriseの加入者は本日から、最新のPerplexity Macアプリをインストールし、アプリ内の案内に従ってローカルモデルをダウンロードすれば、Computerをローカルで使い始められる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Even G2评测\n智能眼镜，操控别扭",
-          "body": "Engadget给G2打出6.9/10，称其轻快但功能渐多、操控太难。",
-          "mini_headline": "Even G2：操控别扭",
+          "headline": "Perplexity AI\n可在Mac本地运行",
+          "body": "RAM至少36GB的Macs现可在本机完整运行Perplexity的AI工作流。",
+          "mini_headline": "Perplexity登陆Mac本地",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
               },
               {
                 "t": "p",
-                "x": "Engadget给Even Realities G2打出6.9/10。这款不带摄像头的眼镜可将通知、新闻标题、导航、翻译、提词器和AI助手投射到视野中。基础款售价$599；处方镜片另加$159至$349。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
+                "x": "9月初，Perplexity为其Computer应用推出更新Hybrid Compute，让用户把AI工作负载分配给前沿模型和本地模型。如今，该公司让整个平台都能完全在用户自己的设备上运行。"
               },
               {
                 "t": "p",
-                "x": "G2更轻，显示屏更清晰（640 x 350），视场角27.5度，刷新率60Hz，亮度1,200 nits，配备四个麦克风，并达到IP65防护等级。镜腿末端新增了触控板。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+                "x": "只要拥有一台RAM至少36GB的新款Apple Silicon Mac，就能在自己的电脑上运行完整的Computer体验，包括执行框架和编排器。Perplexity称，这对注重节省开支和数据隐私的用户都有好处：借助对Notes和Mail的访问，Computer可以生成按优先级排列的待办清单，而无需把任何邮件数据发送到云端。该公司表示：“这让用户对敏感数据和积分支出有更多掌控。”"
               },
               {
                 "t": "p",
-                "x": "可选配的$249 R1智能戒指可充当遥控器并追踪健康数据，但其小小的触控板只能识别滑动、轻点和按压，而且轻点和滑动常被误读。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+                "x": "用户可在两种本地模型中任选其一：Qwen 3.6，或PPLX Pro——Perplexity基于Qwen 3.6、针对Computer使用进行后训练的衍生模型。若任务更适合前沿系统，用户可授权软件调用15个以上模型中的一个。所有代码和工具执行都在隔离沙箱中进行。"
               },
               {
                 "t": "p",
-                "x": "正常工作时，滚动浏览颇有未来感：Translation很聪明，Navigation很实用，AI也足够快，但Conversate会议笔记难以得出结论。评测者仍更喜欢已停产的G1。"
+                "x": "Perplexity Pro、Max和Enterprise订阅用户从今天起即可安装最新版Perplexity Mac应用，按应用内指引下载本地模型，开始在本地使用Computer。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Reseña de Even Realities G2:\ngafas listas, mandos torpes",
-          "body": "Engadget da un 6.9/10 a las G2 de Even Realities: ligeras y ágiles, pero difíciles de controlar.",
-          "mini_headline": "Even G2: mandos torpes",
+          "headline": "Perplexity ejecuta flujos de AI\nen local en tu Mac",
+          "body": "Los Macs con al menos 36GB de RAM ya pueden ejecutar los flujos de AI de Perplexity por completo en el dispositivo.",
+          "mini_headline": "Perplexity, en local en Mac",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
               },
               {
                 "t": "p",
-                "x": "Engadget califica las Even Realities G2 con un 6.9/10. Estas gafas sin cámara proyectan en el campo de visión notificaciones, titulares, indicaciones de ruta, traducción, un teleprompter y un asistente de AI. El modelo básico cuesta $599; las lentes graduadas suman de $159 a $349."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
+                "x": "A principios de septiembre, Perplexity presentó Hybrid Compute, una actualización de su app Computer que permitía repartir las cargas de trabajo de AI entre modelos de frontera y modelos locales. Ahora la empresa hace posible ejecutar la plataforma por completo en el propio dispositivo."
               },
               {
                 "t": "p",
-                "x": "Las G2 son más ligeras, con pantallas más nítidas (640 x 350), un campo de visión de 27.5 grados, una frecuencia de actualización de 60Hz, 1,200 nits, cuatro micrófonos y certificación IP65. Los nuevos paneles táctiles están en las puntas de las patillas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+                "x": "Con un Mac reciente con Apple Silicon y al menos 36GB de RAM, es posible ejecutar toda la experiencia de Computer, incluidos el arnés y el orquestador, en el propio equipo. Perplexity lo presenta como una ventaja para quienes quieren ahorrar y para quienes desean mantener sus datos en privado: con acceso a Notes y Mail, Computer podría generar una lista de tareas por prioridad sin enviar ningún dato de correo a la nube. «Esto da a los usuarios más control sobre los datos sensibles y el gasto de créditos», afirma la empresa."
               },
               {
                 "t": "p",
-                "x": "El anillo inteligente opcional R1, de $249, funciona como mando y registra datos de salud, pero su diminuto panel táctil solo reconoce deslizamientos, toques y pulsaciones, y a menudo interpretaba mal toques y deslizamientos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+                "x": "Se puede elegir entre dos modelos locales: Qwen 3.6 o PPLX Pro, una variante de Qwen 3.6 creada por Perplexity con entrenamiento posterior para el uso de Computer. Si una tarea se beneficia de un sistema de frontera, se puede autorizar al software a recurrir a uno de más de 15 modelos. Toda ejecución de código o de herramientas se realiza en un entorno aislado."
               },
               {
                 "t": "p",
-                "x": "Cuando funciona, desplazarse se siente como el futuro: Translation es inteligente, Navigation resulta práctica y la AI es lo bastante rápida, aunque las notas de reuniones de Conversate tienen problemas para sacar conclusiones. El autor de la reseña sigue prefiriendo las G1, ya descatalogadas."
+                "x": "Los suscriptores de Perplexity Pro, Max y Enterprise pueden empezar a usar Computer en local desde hoy instalando la última versión de la app de Perplexity para Mac y siguiendo las instrucciones de la app para descargar un modelo local."
               }
             ]
           }
@@ -271,173 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Even G2 리뷰\n똑똑한 안경, 어색한 조작",
-          "body": "Engadget은 G2에 6.9/10을 주며 가볍지만 조작이 어렵다고 봤다.",
-          "mini_headline": "Even G2, 어색한 조작",
+          "headline": "Perplexity AI\nMac에서 로컬 실행",
+          "body": "RAM 36GB 이상 Macs에서 Perplexity AI 작업이 로컬로 돈다.",
+          "mini_headline": "Perplexity, Mac에서 로컬로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
               },
               {
                 "t": "p",
-                "x": "Engadget은 Even Realities G2에 6.9/10점을 줬다. 카메라가 없는 이 안경은 알림, 헤드라인, 길 안내, 번역, 텔레프롬프터, AI 어시스턴트를 시야에 띄운다. 기본 모델은 $599이고, 도수 렌즈를 넣으면 $159에서 $349가 추가된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
+                "x": "Perplexity는 9월 초 Computer 앱 업데이트인 Hybrid Compute를 내놓고, AI 작업을 프런티어 모델과 로컬 모델에 나눠 맡길 수 있게 했다. 이제는 이 플랫폼 전체를 사용자 기기에서만 돌릴 수 있게 한다."
               },
               {
                 "t": "p",
-                "x": "G2는 더 가벼워졌고 디스플레이도 더 선명하다(640 x 350). 시야각 27.5도, 주사율 60Hz, 밝기 1,200 nits, 마이크 네 개, IP65 등급을 갖췄다. 안경다리 끝에는 새 터치패드가 들어갔다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+                "x": "36GB 이상 RAM을 갖춘 최신 Apple Silicon Mac이 있다면 하네스와 오케스트레이터를 포함한 Computer 경험 전체를 내 컴퓨터에서 실행할 수 있다. Perplexity는 비용을 아끼려는 사용자와 데이터를 지키려는 사용자에게 유리하다고 설명한다. Notes와 Mail에 접근해 이메일 데이터를 클라우드로 보내지 않고도 우선순위 할 일 목록을 만들 수 있다는 것이다. 회사는 “민감한 데이터와 크레딧 지출을 사용자가 더 잘 통제할 수 있다”고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "별도로 파는 $249 R1 스마트 링은 리모컨 역할을 하고 건강 지표도 추적한다. 하지만 작은 터치패드는 스와이프, 탭, 누르기만 인식하며, 탭과 스와이프를 자주 잘못 읽었다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+                "x": "로컬 모델은 두 가지 중 하나를 고를 수 있다. Qwen 3.6, 그리고 Qwen 3.6을 Computer 사용에 맞게 사후 학습한 Perplexity의 파생 모델 PPLX Pro다. 프런티어 시스템이 더 나은 작업이라면 15개가 넘는 모델 중 하나를 호출하도록 허용할 수 있다. 코드나 도구 실행은 모두 격리된 샌드박스에서 이뤄진다."
               },
               {
                 "t": "p",
-                "x": "제대로 작동할 때 스크롤은 미래처럼 느껴진다. Translation은 똑똑하고 Navigation은 편리하며 AI도 충분히 빠르다. 다만 Conversate 회의 노트는 결론을 잘 끌어내지 못한다. 리뷰어는 여전히 단종된 G1을 더 좋아한다."
+                "x": "Perplexity Pro, Max, Enterprise 구독자는 오늘부터 최신 Perplexity Mac 앱을 설치하고 앱 안내에 따라 로컬 모델을 내려받아 Computer를 로컬에서 쓸 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Even G2レビュー\n賢い眼鏡、ぎこちない操作",
-          "body": "EngadgetはG2を6.9/10と評価し、軽快だが操作が難しいとした。",
-          "mini_headline": "Even G2、ぎこちない操作",
+          "headline": "Perplexity AI\nMacでローカル実行",
+          "body": "RAM 36GB以上のMacsでPerplexityのAIワークフローが端末内で完結する。",
+          "mini_headline": "PerplexityがMacでローカルに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
               },
               {
                 "t": "p",
-                "x": "EngadgetはEven Realities G2を6.9/10と評価した。カメラを持たないこの眼鏡は、通知、ヘッドライン、道案内、翻訳、テレプロンプター、AIアシスタントを視界に映し出す。ベースモデルは$599で、度付きレンズには$159から$349が追加でかかる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
+                "x": "Perplexityは9月初め、Computerアプリのアップデート「Hybrid Compute」を導入し、AIの処理をフロンティアモデルとローカルモデルに振り分けられるようにした。今回はプラットフォーム全体を自分の端末だけで動かせるようにする。"
               },
               {
                 "t": "p",
-                "x": "G2はより軽くなり、ディスプレイはより鮮明(640 x 350)だ。視野角27.5度、リフレッシュレート60Hz、1,200 nits、四つのマイク、IP65等級を備える。テンプルの先端には新しいタッチパッドが付いた。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+                "x": "36GB以上のRAMを搭載した最新のApple Silicon Macがあれば、ハーネスやオーケストレーターを含むComputerの体験全体を手元のマシンで実行できる。Perplexityは、出費を抑えたい人やデータを手元に置きたい人に利点があると説明する。NotesとMailにアクセスすれば、メールのデータをクラウドに送らずに優先度付きのやることリストを作れるという。同社は「機密データとクレジット消費をユーザーがより管理しやすくなる」としている。"
               },
               {
                 "t": "p",
-                "x": "オプションの$249のR1スマートリングはリモコンとして機能し、健康データも記録する。だが小さなタッチパッドが読み取れるのはスワイプ、タップ、押し込みだけで、タップとスワイプはしばしば誤認識された。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+                "x": "ローカルモデルは二つから選べる。Qwen 3.6か、Qwen 3.6をComputer向けに追加学習したPerplexity独自のPPLX Proだ。フロンティアモデルが向くタスクなら、15を超えるモデルのいずれかを呼び出すことを許可できる。コードやツールの実行はすべて隔離されたサンドボックス内で行われる。"
               },
               {
                 "t": "p",
-                "x": "うまく動けば、スクロールは未来のように感じられる。Translationは賢く、Navigationは便利で、AIも十分に速い。ただしConversateの会議メモは結論を導き出すのに苦労する。レビュアーは今も販売終了したG1のほうを好む。"
+                "x": "Perplexity Pro、Max、Enterpriseの加入者は本日から、最新のPerplexity Macアプリをインストールし、アプリ内の案内に従ってローカルモデルをダウンロードすれば、Computerをローカルで使い始められる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Even G2评测\n智能眼镜，操控别扭",
-          "body": "Engadget给G2打出6.9/10，称其轻快但功能渐多、操控太难。",
-          "mini_headline": "Even G2：操控别扭",
+          "headline": "Perplexity AI\n可在Mac本地运行",
+          "body": "RAM至少36GB的Macs现可在本机完整运行Perplexity的AI工作流。",
+          "mini_headline": "Perplexity登陆Mac本地",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
               },
               {
                 "t": "p",
-                "x": "Engadget给Even Realities G2打出6.9/10。这款不带摄像头的眼镜可将通知、新闻标题、导航、翻译、提词器和AI助手投射到视野中。基础款售价$599；处方镜片另加$159至$349。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
+                "x": "9月初，Perplexity为其Computer应用推出更新Hybrid Compute，让用户把AI工作负载分配给前沿模型和本地模型。如今，该公司让整个平台都能完全在用户自己的设备上运行。"
               },
               {
                 "t": "p",
-                "x": "G2更轻，显示屏更清晰（640 x 350），视场角27.5度，刷新率60Hz，亮度1,200 nits，配备四个麦克风，并达到IP65防护等级。镜腿末端新增了触控板。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+                "x": "只要拥有一台RAM至少36GB的新款Apple Silicon Mac，就能在自己的电脑上运行完整的Computer体验，包括执行框架和编排器。Perplexity称，这对注重节省开支和数据隐私的用户都有好处：借助对Notes和Mail的访问，Computer可以生成按优先级排列的待办清单，而无需把任何邮件数据发送到云端。该公司表示：“这让用户对敏感数据和积分支出有更多掌控。”"
               },
               {
                 "t": "p",
-                "x": "可选配的$249 R1智能戒指可充当遥控器并追踪健康数据，但其小小的触控板只能识别滑动、轻点和按压，而且轻点和滑动常被误读。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+                "x": "用户可在两种本地模型中任选其一：Qwen 3.6，或PPLX Pro——Perplexity基于Qwen 3.6、针对Computer使用进行后训练的衍生模型。若任务更适合前沿系统，用户可授权软件调用15个以上模型中的一个。所有代码和工具执行都在隔离沙箱中进行。"
               },
               {
                 "t": "p",
-                "x": "正常工作时，滚动浏览颇有未来感：Translation很聪明，Navigation很实用，AI也足够快，但Conversate会议笔记难以得出结论。评测者仍更喜欢已停产的G1。"
+                "x": "Perplexity Pro、Max和Enterprise订阅用户从今天起即可安装最新版Perplexity Mac应用，按应用内指引下载本地模型，开始在本地使用Computer。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Reseña de Even Realities G2:\ngafas listas, mandos torpes",
-          "body": "Engadget da un 6.9/10 a las G2 de Even Realities: ligeras y ágiles, pero difíciles de controlar.",
-          "mini_headline": "Even G2: mandos torpes",
+          "headline": "Perplexity ejecuta flujos de AI\nen local en tu Mac",
+          "body": "Los Macs con al menos 36GB de RAM ya pueden ejecutar los flujos de AI de Perplexity por completo en el dispositivo.",
+          "mini_headline": "Perplexity, en local en Mac",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
-                "cap": "Daniel Cooper for Engadget"
+                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
               },
               {
                 "t": "p",
-                "x": "Engadget califica las Even Realities G2 con un 6.9/10. Estas gafas sin cámara proyectan en el campo de visión notificaciones, titulares, indicaciones de ruta, traducción, un teleprompter y un asistente de AI. El modelo básico cuesta $599; las lentes graduadas suman de $159 a $349."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
+                "x": "A principios de septiembre, Perplexity presentó Hybrid Compute, una actualización de su app Computer que permitía repartir las cargas de trabajo de AI entre modelos de frontera y modelos locales. Ahora la empresa hace posible ejecutar la plataforma por completo en el propio dispositivo."
               },
               {
                 "t": "p",
-                "x": "Las G2 son más ligeras, con pantallas más nítidas (640 x 350), un campo de visión de 27.5 grados, una frecuencia de actualización de 60Hz, 1,200 nits, cuatro micrófonos y certificación IP65. Los nuevos paneles táctiles están en las puntas de las patillas."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+                "x": "Con un Mac reciente con Apple Silicon y al menos 36GB de RAM, es posible ejecutar toda la experiencia de Computer, incluidos el arnés y el orquestador, en el propio equipo. Perplexity lo presenta como una ventaja para quienes quieren ahorrar y para quienes desean mantener sus datos en privado: con acceso a Notes y Mail, Computer podría generar una lista de tareas por prioridad sin enviar ningún dato de correo a la nube. «Esto da a los usuarios más control sobre los datos sensibles y el gasto de créditos», afirma la empresa."
               },
               {
                 "t": "p",
-                "x": "El anillo inteligente opcional R1, de $249, funciona como mando y registra datos de salud, pero su diminuto panel táctil solo reconoce deslizamientos, toques y pulsaciones, y a menudo interpretaba mal toques y deslizamientos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+                "x": "Se puede elegir entre dos modelos locales: Qwen 3.6 o PPLX Pro, una variante de Qwen 3.6 creada por Perplexity con entrenamiento posterior para el uso de Computer. Si una tarea se beneficia de un sistema de frontera, se puede autorizar al software a recurrir a uno de más de 15 modelos. Toda ejecución de código o de herramientas se realiza en un entorno aislado."
               },
               {
                 "t": "p",
-                "x": "Cuando funciona, desplazarse se siente como el futuro: Translation es inteligente, Navigation resulta práctica y la AI es lo bastante rápida, aunque las notas de reuniones de Conversate tienen problemas para sacar conclusiones. El autor de la reseña sigue prefiriendo las G1, ya descatalogadas."
+                "x": "Los suscriptores de Perplexity Pro, Max y Enterprise pueden empezar a usar Computer en local desde hoy instalando la última versión de la app de Perplexity para Mac y siguiendo las instrucciones de la app para descargar un modelo local."
               }
             ]
           }
@@ -445,195 +315,189 @@
       }
     },
     {
-      "id": "gadgets-ai-dumb-smart-tv",
+      "id": "gadgets-gemini-cars-global",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI로 스마트 TVs를\n다시 바보로 만든다",
-      "body": "광고·추적에 지친 일부 스마트 TV 사용자가 AI 에이전트로 선탑재 앱을 지운다.",
-      "mini_headline": "AI 에이전트로 스마트 TV를 다시 단순하게",
+      "headline": "Gemini, 전 세계\n자동차에 탑재",
+      "body": "Gemini가 전 세계 차에서 Personal Intelligence로 돕는다.",
+      "mini_headline": "Gemini, 도로 위로",
       "tool": "Gadgets",
-      "source": "TechCrunch",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
+      "source": "Google Blog",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
-            "cap": "Image Credits: Google"
+            "t": "video",
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
           },
           {
             "t": "p",
-            "x": "개발자와 vibe coders가 스마트 TVs를 \"vibe-code\"하는 방법을 공유한다. 스폰서 광고 제거, 런처 속도 개선, 홈 화면 재디자인, 자동 콘텐츠 인식(ACR) 같은 추적 기능 끄기까지 다양하다."
+            "x": "Google의 AI 어시스턴트 Gemini를 이제 전 세계 Android Auto와 Google 내장 차량에서 쓸 수 있게 됐다. 운전하면서 자연스럽게 말을 걸어 더 많은 일을 맡기거나 아이디어를 같이 구상하면 된다."
           },
           {
             "t": "p",
-            "x": "\"cleanyourtv\" 제작자 Gathin T.는 Claude Code로 부모님 TV에서 Wi-Fi로 Xiaomi 패키지 25개를 지우고 새 런처를 만들었다. 이틀 만에 수천 명이 따라 했다. root 권한은 필요 없다. 공장 초기화하면 원래대로 돌아간다."
+            "x": "Google은 Gemini의 Personal Intelligence도 오늘부터 배포한다. 사용자가 허용하면 이미 쓰고 있는 Google 앱인 Workspace(Gmail과 Google Calendar 포함), Google Photos, Google Maps, YouTube, Search의 정보를 안전하게 연결해 그 사람에게 꼭 맞는 답을 내놓는다."
           },
           {
             "t": "p",
-            "x": "Muzzammil Yasin Sabuwala가 만든 \"dumbtv\"는 Fire TV, Sony, TCL, Philips, Hisense, Xiaomi, Shield에서 테스트를 마쳤다. AI 에이전트에 GitHub 저장소만 알려 주면 된다. Ryan Doyle처럼 Claude Code에 자기 TV 리스팅을 해킹해 달라고 부탁만 한 사람도 있다."
+            "x": "공항 가는 길에 “내 탑승 게이트가 어디야? 비행기는 제시간에 떠?”라고 물으면 Gemini가 두 질문에 한 번에 답한다. 경로 위에서 평소 취향에 맞는 실내 식당을 찾아 달라고 해도 되고 “병원 예약 장소로 데려다줘”, “지난주에 찍은 사진 속 세차장을 찾아서 안내해 줘”라고 말해도 된다."
           },
           {
             "t": "p",
-            "x": "결과는 제각각이다. 어떤 프롬프트는 거부당했다. 에이전트가 중요한 패키지를 꺼 버릴 위험도 있고 Android TV가 벽돌이 됐다는 사용자도 나왔다. 이런 방식이 널리 퍼지면 스마트 TV 광고 산업이 흔들릴 수 있다."
+            "x": "앱은 Personal Intelligence를 켜야 연결된다. 끄는 것도 Gemini 설정에서 언제든 가능하다. Google 내장 차량에서는 휴대폰을 연결한 채 차에 타고 있을 때만 개인화된 답을 보여 준다. Personal Intelligence는 Android Auto에는 오늘, Google 내장 차량에는 앞으로 몇 달 안에 들어간다. 대상은 18세 이상 적격 개인 계정이다(EEA, 스위스, 영국(UK), 나이지리아 제외)."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "People are using AI to make\nsmart TVs dumb again",
-          "body": "Fed up with ads, tracking and sluggish menus, some smart TV owners are using AI agents to strip out bloatware.",
-          "mini_headline": "AI agents make\nsmart TVs dumb again",
+          "headline": "Gemini comes to cars\nacross the globe",
+          "body": "Gemini is now in cars globally, using Personal Intelligence for tailored help while eyes stay on the road.",
+          "mini_headline": "Gemini hits the road",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
-                "cap": "Image Credits: Google"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
               },
               {
                 "t": "p",
-                "x": "Developers and vibe coders are sharing ways to \"vibe-code\" smart TVs: removing sponsored ads, speeding up launchers, redesigning home screens and disabling tracking such as automatic content recognition (ACR)."
+                "x": "Gemini, Google's AI assistant, is now available globally on Android Auto and cars with Google built-in. You can speak naturally to get more done or brainstorm ideas while driving."
               },
               {
                 "t": "p",
-                "x": "\"cleanyourtv\" creator Gathin T. had Claude Code remove 25 Xiaomi packages from his parents' TV over Wi-Fi and build a new launcher. A few thousand people repeated it within two days. It needs no root and can be reset to factory defaults."
+                "x": "Google is also rolling out Personal Intelligence with Gemini starting today. With your permission, it securely connects information from the Google apps you already use — Workspace (including Gmail and Google Calendar), Google Photos, Google Maps, YouTube and Search — to give uniquely tailored answers."
               },
               {
                 "t": "p",
-                "x": "\"dumbtv\", by Muzzammil Yasin Sabuwala, has been tested on Fire TV, Sony, TCL, Philips, Hisense, Xiaomi and Shield. Users just point their AI agent at the GitHub repo. Others, like Ryan Doyle, simply asked Claude Code to hack their TV's listing."
+                "x": "On the way to the airport, ask \"What's my flight gate? And is my flight on time?\" and Gemini answers both in one go. Ask for an indoor restaurant along your route that matches your usual vibe, say \"Take me to my doctor's appointment,\" or \"Find the car wash from the photo I took last week and navigate there.\""
               },
               {
                 "t": "p",
-                "x": "Results vary: some prompts were refused, agents can disable important packages, and one user said they bricked an Android TV. Wide adoption could threaten the smart TV ad industry."
+                "x": "Your apps aren't connected until you turn Personal Intelligence on, and you can turn it off anytime in Gemini settings. Cars with Google built-in only share personal responses when you're in the car with your phone connected. Personal Intelligence is rolling out today on Android Auto and in the coming months on cars with Google built-in, for eligible personal accounts aged 18+ (excluding the EEA, Switzerland, the UK and Nigeria)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI로 스마트 TVs를\n다시 바보로 만든다",
-          "body": "광고·추적에 지친 일부 스마트 TV 사용자가 AI 에이전트로 선탑재 앱을 지운다.",
-          "mini_headline": "AI 에이전트로 스마트 TV를 다시 단순하게",
+          "headline": "Gemini, 전 세계\n자동차에 탑재",
+          "body": "Gemini가 전 세계 차에서 Personal Intelligence로 돕는다.",
+          "mini_headline": "Gemini, 도로 위로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
-                "cap": "Image Credits: Google"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
               },
               {
                 "t": "p",
-                "x": "개발자와 vibe coders가 스마트 TVs를 \"vibe-code\"하는 방법을 공유한다. 스폰서 광고 제거, 런처 속도 개선, 홈 화면 재디자인, 자동 콘텐츠 인식(ACR) 같은 추적 기능 끄기까지 다양하다."
+                "x": "Google의 AI 어시스턴트 Gemini를 이제 전 세계 Android Auto와 Google 내장 차량에서 쓸 수 있게 됐다. 운전하면서 자연스럽게 말을 걸어 더 많은 일을 맡기거나 아이디어를 같이 구상하면 된다."
               },
               {
                 "t": "p",
-                "x": "\"cleanyourtv\" 제작자 Gathin T.는 Claude Code로 부모님 TV에서 Wi-Fi로 Xiaomi 패키지 25개를 지우고 새 런처를 만들었다. 이틀 만에 수천 명이 따라 했다. root 권한은 필요 없다. 공장 초기화하면 원래대로 돌아간다."
+                "x": "Google은 Gemini의 Personal Intelligence도 오늘부터 배포한다. 사용자가 허용하면 이미 쓰고 있는 Google 앱인 Workspace(Gmail과 Google Calendar 포함), Google Photos, Google Maps, YouTube, Search의 정보를 안전하게 연결해 그 사람에게 꼭 맞는 답을 내놓는다."
               },
               {
                 "t": "p",
-                "x": "Muzzammil Yasin Sabuwala가 만든 \"dumbtv\"는 Fire TV, Sony, TCL, Philips, Hisense, Xiaomi, Shield에서 테스트를 마쳤다. AI 에이전트에 GitHub 저장소만 알려 주면 된다. Ryan Doyle처럼 Claude Code에 자기 TV 리스팅을 해킹해 달라고 부탁만 한 사람도 있다."
+                "x": "공항 가는 길에 “내 탑승 게이트가 어디야? 비행기는 제시간에 떠?”라고 물으면 Gemini가 두 질문에 한 번에 답한다. 경로 위에서 평소 취향에 맞는 실내 식당을 찾아 달라고 해도 되고 “병원 예약 장소로 데려다줘”, “지난주에 찍은 사진 속 세차장을 찾아서 안내해 줘”라고 말해도 된다."
               },
               {
                 "t": "p",
-                "x": "결과는 제각각이다. 어떤 프롬프트는 거부당했다. 에이전트가 중요한 패키지를 꺼 버릴 위험도 있고 Android TV가 벽돌이 됐다는 사용자도 나왔다. 이런 방식이 널리 퍼지면 스마트 TV 광고 산업이 흔들릴 수 있다."
+                "x": "앱은 Personal Intelligence를 켜야 연결된다. 끄는 것도 Gemini 설정에서 언제든 가능하다. Google 내장 차량에서는 휴대폰을 연결한 채 차에 타고 있을 때만 개인화된 답을 보여 준다. Personal Intelligence는 Android Auto에는 오늘, Google 내장 차량에는 앞으로 몇 달 안에 들어간다. 대상은 18세 이상 적격 개인 계정이다(EEA, 스위스, 영국(UK), 나이지리아 제외)."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIでスマートTVsを\n再び「おバカ」に",
-          "body": "広告や追跡に嫌気が差し、AIエージェントで不要アプリを消すスマートTV利用者がいる。",
-          "mini_headline": "AIエージェントでスマートTVを再び単純に",
+          "headline": "Geminiが世界中の\nクルマに搭載",
+          "body": "Geminiが世界の車に対応、Personal Intelligenceで個別支援する。",
+          "mini_headline": "Gemini、道路へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
-                "cap": "Image Credits: Google"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
               },
               {
                 "t": "p",
-                "x": "開発者やvibe codersが、スマートTVsを「vibe-code」する方法を共有している。スポンサー広告の削除、ランチャーの高速化、ホーム画面の再設計、自動コンテンツ認識(ACR)などのトラッキングの無効化だ。"
+                "x": "GoogleのAIアシスタントGeminiが、Android AutoとGoogle搭載車で世界中で使えるようになった。運転中も自然に話しかけて用事を片づけたり、アイデアを練ったりできる。"
               },
               {
                 "t": "p",
-                "x": "「cleanyourtv」の作者Gathin T.は、Claude Codeを使って両親のTVからWi-Fi経由でXiaomiのパッケージ25個を削除し、新しいランチャーを作らせた。二日のうちに数千人が同じことを試した。rootは不要で、工場出荷時の状態に戻すこともできる。"
+                "x": "Googleは本日から、GeminiのPersonal Intelligenceも展開する。ユーザーの許可を得たうえで、普段使っているGoogleアプリ——Workspace（GmailとGoogle Calendarを含む）、Google Photos、Google Maps、YouTube、Search——の情報を安全につなぎ、その人に合った回答を返す。"
               },
               {
                 "t": "p",
-                "x": "Muzzammil Yasin Sabuwalaによる「dumbtv」は、Fire TV、Sony、TCL、Philips、Hisense、Xiaomi、Shieldで動作が確認されている。ユーザーはAIエージェントにGitHubのリポジトリを示すだけでいい。Ryan Doyleのように、自分のTVのリスティングをハックするようClaude Codeに頼んだだけの人もいる。"
+                "x": "空港へ向かう途中に「搭乗ゲートはどこ？フライトは定刻通り？」と尋ねれば、Geminiが一度に両方に答える。ルート沿いでいつもの好みに合う屋内レストランを探してもらったり、「病院の予約に連れて行って」「先週撮った写真の洗車場を探してナビして」と頼んだりもできる。"
               },
               {
                 "t": "p",
-                "x": "結果はまちまちだ。プロンプトが拒否されることもあり、エージェントが重要なパッケージを無効にしてしまう恐れもある。あるユーザーはAndroid TVを文鎮化させたという。広く普及すれば、スマートTVの広告業界を脅かしかねない。"
+                "x": "Personal Intelligenceをオンにするまでアプリは連携されず、Geminiの設定でいつでもオフにできる。Google搭載車が個人に合わせた回答を出すのは、スマートフォンを接続して車内にいるときだけだ。Personal Intelligenceは本日Android Autoで、今後数カ月のうちにGoogle搭載車で、18歳以上の対象となる個人アカウント向けに提供される（EEA、スイス、英国（UK）、ナイジェリアを除く）。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "有人用AI让智能TVs\n重新变“笨”",
-          "body": "不满广告、追踪和卡顿菜单，一些智能TV用户用AI代理删除预装软件。",
-          "mini_headline": "AI代理让智能电视重回“笨”",
+          "headline": "Gemini登陆\n全球汽车",
+          "body": "Gemini已登陆全球车辆，以Personal Intelligence提供个性化帮助。",
+          "mini_headline": "Gemini上路",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
-                "cap": "Image Credits: Google"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
               },
               {
                 "t": "p",
-                "x": "开发者和vibe coders正在分享“vibe-code”智能TVs的方法：删除赞助广告、加快启动器速度、重新设计主屏幕，以及关闭自动内容识别（ACR）等追踪功能。"
+                "x": "Google的AI助手Gemini现已在全球的Android Auto和内置Google的汽车上推出。开车时可以自然地说话，完成更多事情或一起构思点子。"
               },
               {
                 "t": "p",
-                "x": "“cleanyourtv”的作者Gathin T.让Claude Code通过Wi-Fi从他父母的TV上删除了25个Xiaomi软件包，并打造了新的启动器。两天内就有几千人照做。此方法无需root，还可恢复出厂设置。"
+                "x": "Google还从今天起推出Gemini的Personal Intelligence。在获得用户许可后，它会安全地连接用户已在使用的Google应用中的信息——Workspace（包括Gmail和Google Calendar）、Google Photos、Google Maps、YouTube和Search——给出量身定制的回答。"
               },
               {
                 "t": "p",
-                "x": "Muzzammil Yasin Sabuwala开发的“dumbtv”已在Fire TV、Sony、TCL、Philips、Hisense、Xiaomi和Shield上测试过。用户只需让AI代理指向该GitHub仓库即可。也有人像Ryan Doyle那样，直接让Claude Code破解自己TV的型号列表。"
+                "x": "去机场的路上问一句“我的登机口在哪？航班准点吗？”，Gemini会一次回答两个问题。还可以让它在沿途找一家符合你平时口味的室内餐厅，或者说“带我去看医生的预约地点”“找到我上周拍的照片里的那家洗车店并导航过去”。"
               },
               {
                 "t": "p",
-                "x": "效果参差不齐：有些提示词遭到拒绝，代理可能禁用重要软件包，还有一位用户称自己的Android TV变砖了。若被广泛采用，这可能威胁智能电视广告行业。"
+                "x": "在开启Personal Intelligence之前，应用不会被连接，用户也可随时在Gemini设置中关闭。内置Google的汽车只有在你连接手机并身处车内时才会给出个性化回答。Personal Intelligence今天起在Android Auto上推出，未来几个月将登陆内置Google的汽车，面向18岁以上的符合条件个人账户（EEA、瑞士、英国（UK）和尼日利亚除外）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Usan AI para que las smart TVs\nvuelvan a ser tontas",
-          "body": "Hartos de anuncios, rastreo y menús lentos, algunos dueños de smart TV usan agentes de AI para quitar el bloatware.",
-          "mini_headline": "Agentes de AI vuelven tontas las smart TVs",
+          "headline": "Gemini llega a los vehículos\nde todo el mundo",
+          "body": "Gemini llega a vehículos de todo el mundo y usa Personal Intelligence para dar ayuda a medida al volante.",
+          "mini_headline": "Gemini sale a la carretera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
-                "cap": "Image Credits: Google"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
               },
               {
                 "t": "p",
-                "x": "Desarrolladores y vibe coders comparten formas de hacer \"vibe-code\" en smart TVs: eliminar anuncios patrocinados, acelerar los launchers, rediseñar las pantallas de inicio y desactivar el rastreo, como el reconocimiento automático de contenido (ACR)."
+                "x": "Gemini, el asistente de AI de Google, ya está disponible en todo el mundo en Android Auto y en los vehículos con Google integrado. Se puede hablar con naturalidad para hacer más cosas o generar ideas mientras se conduce."
               },
               {
                 "t": "p",
-                "x": "Gathin T., creador de \"cleanyourtv\", hizo que Claude Code eliminara 25 paquetes de Xiaomi de la TV de sus padres por Wi-Fi y creara un nuevo launcher. Unos pocos miles de personas lo repitieron en dos días. No requiere root y se puede restablecer a los valores de fábrica."
+                "x": "Google también empieza a desplegar hoy Personal Intelligence con Gemini. Con el permiso del usuario, conecta de forma segura la información de las apps de Google que ya utiliza —Workspace (incluidos Gmail y Google Calendar), Google Photos, Google Maps, YouTube y Search— para dar respuestas adaptadas a cada persona."
               },
               {
                 "t": "p",
-                "x": "\"dumbtv\", de Muzzammil Yasin Sabuwala, se ha probado en Fire TV, Sony, TCL, Philips, Hisense, Xiaomi y Shield. Los usuarios solo tienen que dirigir su agente de AI al repositorio de GitHub. Otros, como Ryan Doyle, simplemente pidieron a Claude Code que hackeara el listado de su TV."
+                "x": "De camino al aeropuerto, basta con preguntar «¿Cuál es la puerta de embarque de mi vuelo? ¿Sale a tiempo?» y Gemini responde a ambas cosas de una vez. También se le puede pedir un restaurante cubierto en la ruta que encaje con los gustos habituales, decir «Llévame a mi cita con el médico» o «Busca el lavadero de autos de la foto que tomé la semana pasada y llévame hasta allí»."
               },
               {
                 "t": "p",
-                "x": "Los resultados varían: algunas instrucciones fueron rechazadas, los agentes pueden desactivar paquetes importantes y un usuario dijo que dejó inservible un Android TV. Una adopción amplia podría amenazar a la industria publicitaria de las smart TV."
+                "x": "Las apps no se conectan hasta que se activa Personal Intelligence, y se puede desactivar en cualquier momento desde los ajustes de Gemini. Los vehículos con Google integrado solo muestran respuestas personales cuando el usuario está en el vehículo con el teléfono conectado. Personal Intelligence llega hoy a Android Auto y en los próximos meses a los vehículos con Google integrado, para cuentas personales aptas de mayores de 18 años (excepto en el Espacio Económico Europeo (EEA), Suiza, Reino Unido (UK) y Nigeria)."
               }
             ]
           }
@@ -641,125 +505,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI로 스마트 TVs를\n다시 바보로 만든다",
-          "body": "광고·추적에 지친 일부 스마트 TV 사용자가 AI 에이전트로 선탑재 앱을 지운다.",
-          "mini_headline": "AI 에이전트로 스마트 TV를 다시 단순하게",
+          "headline": "Gemini, 전 세계\n자동차에 탑재",
+          "body": "Gemini가 전 세계 차에서 Personal Intelligence로 돕는다.",
+          "mini_headline": "Gemini, 도로 위로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
-                "cap": "Image Credits: Google"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
               },
               {
                 "t": "p",
-                "x": "개발자와 vibe coders가 스마트 TVs를 \"vibe-code\"하는 방법을 공유하고 있다. 스폰서 광고를 없애고, 런처 속도를 높이고, 홈 화면을 새로 디자인하고, 자동 콘텐츠 인식(ACR) 같은 추적 기능을 끄는 식이다."
+                "x": "Google의 AI 어시스턴트 Gemini를 이제 전 세계 Android Auto와 Google 내장 차량에서 쓸 수 있다. 운전 중 자연스럽게 말을 걸어 더 많은 일을 처리하거나 아이디어를 함께 구상할 수 있다."
               },
               {
                 "t": "p",
-                "x": "\"cleanyourtv\" 제작자 Gathin T.는 Claude Code로 부모님 TV에서 Wi-Fi를 통해 Xiaomi 패키지 25개를 지우고 새 런처를 만들었다. 이틀 만에 수천 명이 이를 따라 했다. root 권한이 필요 없고 공장 초기화로 되돌릴 수 있다."
+                "x": "Google은 오늘부터 Gemini의 Personal Intelligence도 배포한다. 사용자가 허용하면 이미 쓰고 있는 Google 앱, 즉 Workspace(Gmail과 Google Calendar 포함), Google Photos, Google Maps, YouTube, Search의 정보를 안전하게 연결해 사용자에게 꼭 맞는 답을 준다."
               },
               {
                 "t": "p",
-                "x": "Muzzammil Yasin Sabuwala가 만든 \"dumbtv\"는 Fire TV, Sony, TCL, Philips, Hisense, Xiaomi, Shield에서 테스트를 마쳤다. 사용자는 AI 에이전트에 GitHub 저장소를 알려 주기만 하면 된다. Ryan Doyle처럼 Claude Code에 자기 TV의 리스팅을 해킹해 달라고 요청하기만 한 사람도 있다."
+                "x": "공항 가는 길에 “내 탑승 게이트가 어디야? 비행기는 제시간에 떠?”라고 물으면 Gemini가 두 질문에 한 번에 답한다. 경로에서 평소 취향에 맞는 실내 식당을 찾아 달라고 하거나, “병원 예약 장소로 데려다줘”, “지난주에 찍은 사진 속 세차장을 찾아서 안내해 줘”라고 말할 수도 있다."
               },
               {
                 "t": "p",
-                "x": "결과는 제각각이다. 일부 프롬프트는 거부됐고, 에이전트가 중요한 패키지를 비활성화할 수도 있으며, 한 사용자는 Android TV가 벽돌이 됐다고 말했다. 널리 퍼지면 스마트 TV 광고 산업을 위협할 수 있다."
+                "x": "Personal Intelligence를 켜기 전에는 앱이 연결되지 않으며, Gemini 설정에서 언제든 끌 수 있다. Google 내장 차량은 휴대폰을 연결한 채 차에 타 있을 때만 개인화된 답변을 보여 준다. Personal Intelligence는 오늘 Android Auto에, 앞으로 몇 달 안에 Google 내장 차량에 배포된다. 대상은 18세 이상 적격 개인 계정이다(EEA, 스위스, 영국(UK), 나이지리아 제외)."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIでスマートTVsを\n再び「おバカ」に",
-          "body": "広告や追跡に嫌気が差し、AIエージェントで不要アプリを消すスマートTV利用者がいる。",
-          "mini_headline": "AIエージェントでスマートTVを再び単純に",
+          "headline": "Geminiが世界中の\nクルマに搭載",
+          "body": "Geminiが世界の車に対応、Personal Intelligenceで個別支援する。",
+          "mini_headline": "Gemini、道路へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
-                "cap": "Image Credits: Google"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
               },
               {
                 "t": "p",
-                "x": "開発者やvibe codersが、スマートTVsを「vibe-code」する方法を共有している。スポンサー広告の削除、ランチャーの高速化、ホーム画面の再設計、自動コンテンツ認識(ACR)などのトラッキングの無効化だ。"
+                "x": "GoogleのAIアシスタントGeminiが、Android AutoとGoogle搭載車で世界中で使えるようになった。運転中も自然に話しかけて用事を片づけたり、アイデアを練ったりできる。"
               },
               {
                 "t": "p",
-                "x": "「cleanyourtv」の作者Gathin T.は、Claude Codeを使って両親のTVからWi-Fi経由でXiaomiのパッケージ25個を削除し、新しいランチャーを作らせた。二日のうちに数千人が同じことを試した。rootは不要で、工場出荷時の状態に戻すこともできる。"
+                "x": "Googleは本日から、GeminiのPersonal Intelligenceも展開する。ユーザーの許可を得たうえで、普段使っているGoogleアプリ——Workspace（GmailとGoogle Calendarを含む）、Google Photos、Google Maps、YouTube、Search——の情報を安全につなぎ、その人に合った回答を返す。"
               },
               {
                 "t": "p",
-                "x": "Muzzammil Yasin Sabuwalaによる「dumbtv」は、Fire TV、Sony、TCL、Philips、Hisense、Xiaomi、Shieldで動作が確認されている。ユーザーはAIエージェントにGitHubのリポジトリを示すだけでいい。Ryan Doyleのように、自分のTVのリスティングをハックするようClaude Codeに頼んだだけの人もいる。"
+                "x": "空港へ向かう途中に「搭乗ゲートはどこ？フライトは定刻通り？」と尋ねれば、Geminiが一度に両方に答える。ルート沿いでいつもの好みに合う屋内レストランを探してもらったり、「病院の予約に連れて行って」「先週撮った写真の洗車場を探してナビして」と頼んだりもできる。"
               },
               {
                 "t": "p",
-                "x": "結果はまちまちだ。プロンプトが拒否されることもあり、エージェントが重要なパッケージを無効にしてしまう恐れもある。あるユーザーはAndroid TVを文鎮化させたという。広く普及すれば、スマートTVの広告業界を脅かしかねない。"
+                "x": "Personal Intelligenceをオンにするまでアプリは連携されず、Geminiの設定でいつでもオフにできる。Google搭載車が個人に合わせた回答を出すのは、スマートフォンを接続して車内にいるときだけだ。Personal Intelligenceは本日Android Autoで、今後数カ月のうちにGoogle搭載車で、18歳以上の対象となる個人アカウント向けに提供される（EEA、スイス、英国（UK）、ナイジェリアを除く）。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "有人用AI让智能TVs\n重新变“笨”",
-          "body": "不满广告、追踪和卡顿菜单，一些智能TV用户用AI代理删除预装软件。",
-          "mini_headline": "AI代理让智能电视重回“笨”",
+          "headline": "Gemini登陆\n全球汽车",
+          "body": "Gemini已登陆全球车辆，以Personal Intelligence提供个性化帮助。",
+          "mini_headline": "Gemini上路",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
-                "cap": "Image Credits: Google"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
               },
               {
                 "t": "p",
-                "x": "开发者和vibe coders正在分享“vibe-code”智能TVs的方法：删除赞助广告、加快启动器速度、重新设计主屏幕，以及关闭自动内容识别（ACR）等追踪功能。"
+                "x": "Google的AI助手Gemini现已在全球的Android Auto和内置Google的汽车上推出。开车时可以自然地说话，完成更多事情或一起构思点子。"
               },
               {
                 "t": "p",
-                "x": "“cleanyourtv”的作者Gathin T.让Claude Code通过Wi-Fi从他父母的TV上删除了25个Xiaomi软件包，并打造了新的启动器。两天内就有几千人照做。此方法无需root，还可恢复出厂设置。"
+                "x": "Google还从今天起推出Gemini的Personal Intelligence。在获得用户许可后，它会安全地连接用户已在使用的Google应用中的信息——Workspace（包括Gmail和Google Calendar）、Google Photos、Google Maps、YouTube和Search——给出量身定制的回答。"
               },
               {
                 "t": "p",
-                "x": "Muzzammil Yasin Sabuwala开发的“dumbtv”已在Fire TV、Sony、TCL、Philips、Hisense、Xiaomi和Shield上测试过。用户只需让AI代理指向该GitHub仓库即可。也有人像Ryan Doyle那样，直接让Claude Code破解自己TV的型号列表。"
+                "x": "去机场的路上问一句“我的登机口在哪？航班准点吗？”，Gemini会一次回答两个问题。还可以让它在沿途找一家符合你平时口味的室内餐厅，或者说“带我去看医生的预约地点”“找到我上周拍的照片里的那家洗车店并导航过去”。"
               },
               {
                 "t": "p",
-                "x": "效果参差不齐：有些提示词遭到拒绝，代理可能禁用重要软件包，还有一位用户称自己的Android TV变砖了。若被广泛采用，这可能威胁智能电视广告行业。"
+                "x": "在开启Personal Intelligence之前，应用不会被连接，用户也可随时在Gemini设置中关闭。内置Google的汽车只有在你连接手机并身处车内时才会给出个性化回答。Personal Intelligence今天起在Android Auto上推出，未来几个月将登陆内置Google的汽车，面向18岁以上的符合条件个人账户（EEA、瑞士、英国（UK）和尼日利亚除外）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Usan AI para que las smart TVs\nvuelvan a ser tontas",
-          "body": "Hartos de anuncios, rastreo y menús lentos, algunos dueños de smart TV usan agentes de AI para quitar el bloatware.",
-          "mini_headline": "Agentes de AI vuelven tontas las smart TVs",
+          "headline": "Gemini llega a los vehículos\nde todo el mundo",
+          "body": "Gemini llega a vehículos de todo el mundo y usa Personal Intelligence para dar ayuda a medida al volante.",
+          "mini_headline": "Gemini sale a la carretera",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1024",
-                "cap": "Image Credits: Google"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
               },
               {
                 "t": "p",
-                "x": "Desarrolladores y vibe coders comparten formas de hacer \"vibe-code\" en smart TVs: eliminar anuncios patrocinados, acelerar los launchers, rediseñar las pantallas de inicio y desactivar el rastreo, como el reconocimiento automático de contenido (ACR)."
+                "x": "Gemini, el asistente de AI de Google, ya está disponible en todo el mundo en Android Auto y en los vehículos con Google integrado. Se puede hablar con naturalidad para hacer más cosas o generar ideas mientras se conduce."
               },
               {
                 "t": "p",
-                "x": "Gathin T., creador de \"cleanyourtv\", hizo que Claude Code eliminara 25 paquetes de Xiaomi de la TV de sus padres por Wi-Fi y creara un nuevo launcher. Unos pocos miles de personas lo repitieron en dos días. No requiere root y se puede restablecer a los valores de fábrica."
+                "x": "Google también empieza a desplegar hoy Personal Intelligence con Gemini. Con el permiso del usuario, conecta de forma segura la información de las apps de Google que ya utiliza —Workspace (incluidos Gmail y Google Calendar), Google Photos, Google Maps, YouTube y Search— para dar respuestas adaptadas a cada persona."
               },
               {
                 "t": "p",
-                "x": "\"dumbtv\", de Muzzammil Yasin Sabuwala, se ha probado en Fire TV, Sony, TCL, Philips, Hisense, Xiaomi y Shield. Los usuarios solo tienen que dirigir su agente de AI al repositorio de GitHub. Otros, como Ryan Doyle, simplemente pidieron a Claude Code que hackeara el listado de su TV."
+                "x": "De camino al aeropuerto, basta con preguntar «¿Cuál es la puerta de embarque de mi vuelo? ¿Sale a tiempo?» y Gemini responde a ambas cosas de una vez. También se le puede pedir un restaurante cubierto en la ruta que encaje con los gustos habituales, decir «Llévame a mi cita con el médico» o «Busca el lavadero de autos de la foto que tomé la semana pasada y llévame hasta allí»."
               },
               {
                 "t": "p",
-                "x": "Los resultados varían: algunas instrucciones fueron rechazadas, los agentes pueden desactivar paquetes importantes y un usuario dijo que dejó inservible un Android TV. Una adopción amplia podría amenazar a la industria publicitaria de las smart TV."
+                "x": "Las apps no se conectan hasta que se activa Personal Intelligence, y se puede desactivar en cualquier momento desde los ajustes de Gemini. Los vehículos con Google integrado solo muestran respuestas personales cuando el usuario está en el vehículo con el teléfono conectado. Personal Intelligence llega hoy a Android Auto y en los próximos meses a los vehículos con Google integrado, para cuentas personales aptas de mayores de 18 años (excepto en el Espacio Económico Europeo (EEA), Suiza, Reino Unido (UK) y Nigeria)."
               }
             ]
           }
@@ -767,15 +627,15 @@
       }
     },
     {
-      "id": "gadgets-pixel11-magic-capture",
+      "id": "gadgets-boya-notra-neo-recorder",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Magic Capture\n공연장에선 아쉽다",
-      "body": "Pixel 11의 AI Magic Capture, 공연 테스트에선 조건을 탔다.",
-      "mini_headline": "Magic Capture, 공연장에선 아쉽다",
+      "headline": "Boya Notra Neo\nAI MagSafe 녹음기",
+      "body": "Boya의 MagSafe 녹음기는 140개 이상 언어로 받아쓰고 AI로 요약한다.",
+      "mini_headline": "Boya의 AI MagSafe 녹음기",
       "tool": "Gadgets",
-      "source": "Android Authority",
-      "url": "https://www.androidauthority.com/pixel-11-magic-capture-hands-on-camera-test-3718898/",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.1428542.0.html",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
@@ -783,239 +643,239 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
-            "cap": "Brady Snyder / Android Authority"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
+            "cap": "작고 알록달록한 Boya Notra Neo는 AI 기반(AI-powered) 회의 받아쓰기와 요약 기능을 담았다."
           },
           {
             "t": "p",
-            "x": "Pixel 11의 Magic Capture는 Gemini 모델로 약 400개의 영상 프레임을 분석해 가장 좋은 장면을 사진으로 저장한다. 녹화는 최대 2분, 결과는 늘 사진 5장이다. 보정할 때는 영상을 클라우드로 보낸다."
+            "x": "Boya가 통화와 회의 중 메모를 손쉽게 남기게 해 주는 AI 기반(AI-powered) 음성 녹음기 Notra Neo를 공개했다. 주변음, 전화 통화, Bluetooth 녹음 모드를 지원하며 기기와 클라우드 양쪽에 저장할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Notra Neo는 140개가 넘는 언어의 받아쓰기와 스마트 화자 식별을 지원한다. AI가 60개 넘는 전문 템플릿으로 요약, 실행 항목, 마인드맵을 만들어 주고 Ask AI를 쓰면 녹음 파일 전체에서 원하는 정보를 찾아낸다."
           },
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
-            "cap": "Brady Snyder / Android Authority"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
+            "cap": "MEMS 마이크 두 개가 최대 5 m(16.4 ft.) 떨어진 목소리까지 담는다."
           },
           {
             "t": "p",
-            "x": "흐린 날 Phoenix Zoo에서는 으르렁대는 재규어와 구도 좋은 프레리도그를 정확히 잡아냈다."
+            "x": "로컬 저장 공간은 8 GB다. 최대 20시간 연속 녹음되고 충전에는 1.5시간이 걸린다. 녹음 파일은 Boya OS 앱으로 무료 무제한 클라우드 저장소에 동기화되며 10가지 형식으로 내보낼 수 있다. Boya는 데이터가 종단 간 암호화되고 HIPAA 준수(HIPAA-compliant)라고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "가격은 $79.99다. 색상은 블랙, 화이트, 네온 옐로, 라이트 핑크이고 무게는 34.5 g이다. 요금제는 무료 Starter(월 600분, 템플릿 10개), 월 $17.99의 Pro(1,280분, 템플릿 40개, Ask AI), 월 $29.99의 Ultimate(무제한 받아쓰기, 템플릿 60개 전부)로 나뉜다."
           },
           {
             "t": "img",
-            "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
-            "cap": "Brady Snyder / Android Authority"
-          },
-          {
-            "t": "p",
-            "x": "어두운 공연장 뒤쪽에선 실망스러웠다. 기본형 Pixel 11의 Magic Capture는 10.8MP 망원 카메라 줌을 4x로 묶고 1080p 30fps로 녹화한다. 여기서 프레임을 잘라내니 사진이 흐릿하고 노이즈투성이였다."
-          },
-          {
-            "t": "p",
-            "x": "조명이 좋고 메인 카메라로 찍을 때 결과가 가장 좋다. 공연장에 들고 갈 거라면 리뷰어는 48MP 잠망경 망원이 달린 Pixel 11 Pro나 Pro XL을 권한다."
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
+            "cap": "Boya Notra Neo에는 MagSafe 호환(MagSafe-compatible) 자석 마운트도 딸려 온다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Pixel 11's Magic Capture\nfalls short at concerts",
-          "body": "A concert test of the Pixel 11's Magic Capture shows the AI camera feature works well only under certain conditions.",
-          "mini_headline": "Magic Capture\nmisses at concerts",
+          "headline": "Boya Notra Neo brings AI notes\nto a MagSafe voice recorder",
+          "body": "Boya's MagSafe recorder transcribes calls in 140+ languages, tags speakers, and drafts AI summaries.",
+          "mini_headline": "Boya's AI MagSafe recorder",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
+                "cap": "The colorful, petite Boya Notra Neo delivers AI-powered meeting transcriptions and summaries."
               },
               {
                 "t": "p",
-                "x": "Magic Capture on the Pixel 11 uses Gemini models to analyze roughly 400 video frames and save the best as photos. It records up to two minutes, always returns five photos, and sends footage to the cloud for enhancement."
+                "x": "Boya has unveiled the Notra Neo, an AI-powered voice recorder designed to simplify note-taking during calls and meetings. It has ambient, phone call and Bluetooth recording modes, with on-board and cloud storage."
+              },
+              {
+                "t": "p",
+                "x": "The Notra Neo supports transcription in more than 140 languages and includes smart speaker identification. The AI can generate summaries, action items and mind maps using more than 60 professional templates, and Ask AI lets users find specific information across their recorded files."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
+                "cap": "Two MEMS microphones capture voices up to 5 m (16.4 ft.) away."
               },
               {
                 "t": "p",
-                "x": "At the Phoenix Zoo on an overcast day it nailed a growling jaguar and a well-framed prairie dog."
+                "x": "It has 8 GB of local storage and records continuously for up to 20 hours; recharging takes 1.5 hours. Recordings sync via the Boya OS app to free unlimited cloud storage and export in 10 formats. Boya says data is end-to-end encrypted and HIPAA-compliant."
+              },
+              {
+                "t": "p",
+                "x": "The recorder costs $79.99 in black, white, neon yellow and light pink, weighing 34.5 g. Plans: free Starter (600 minutes/month, 10 templates), Pro at $17.99/month (1,280 minutes, 40 templates, Ask AI) and Ultimate at $29.99/month (unlimited transcription, all 60 templates)."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "At a dim concert from further back it disappointed. On the base Pixel 11, Magic Capture caps zoom at 4x on the 10.8MP telephoto, records 1080p at 30fps and crops frames, leaving blurry, grainy shots."
-              },
-              {
-                "t": "p",
-                "x": "It works best with the main camera in good light. For concerts, the reviewer suggests the Pixel 11 Pro or Pro XL with their 48MP periscope telephoto."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
+                "cap": "The Boya Notra Neo comes with a MagSafe-compatible magnetic mount."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Magic Capture\n공연장에선 아쉽다",
-          "body": "Pixel 11의 AI Magic Capture, 공연 테스트에선 조건을 탔다.",
-          "mini_headline": "Magic Capture, 공연장에선 아쉽다",
+          "headline": "Boya Notra Neo\nAI MagSafe 녹음기",
+          "body": "Boya의 MagSafe 녹음기는 140개 이상 언어로 받아쓰고 AI로 요약한다.",
+          "mini_headline": "Boya의 AI MagSafe 녹음기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
+                "cap": "작고 알록달록한 Boya Notra Neo는 AI 기반(AI-powered) 회의 받아쓰기와 요약 기능을 담았다."
               },
               {
                 "t": "p",
-                "x": "Pixel 11의 Magic Capture는 Gemini 모델로 약 400개의 영상 프레임을 분석해 가장 좋은 장면을 사진으로 저장한다. 녹화는 최대 2분, 결과는 늘 사진 5장이다. 보정할 때는 영상을 클라우드로 보낸다."
+                "x": "Boya가 통화와 회의 중 메모를 손쉽게 남기게 해 주는 AI 기반(AI-powered) 음성 녹음기 Notra Neo를 공개했다. 주변음, 전화 통화, Bluetooth 녹음 모드를 지원하며 기기와 클라우드 양쪽에 저장할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Notra Neo는 140개가 넘는 언어의 받아쓰기와 스마트 화자 식별을 지원한다. AI가 60개 넘는 전문 템플릿으로 요약, 실행 항목, 마인드맵을 만들어 주고 Ask AI를 쓰면 녹음 파일 전체에서 원하는 정보를 찾아낸다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
+                "cap": "MEMS 마이크 두 개가 최대 5 m(16.4 ft.) 떨어진 목소리까지 담는다."
               },
               {
                 "t": "p",
-                "x": "흐린 날 Phoenix Zoo에서는 으르렁대는 재규어와 구도 좋은 프레리도그를 정확히 잡아냈다."
+                "x": "로컬 저장 공간은 8 GB다. 최대 20시간 연속 녹음되고 충전에는 1.5시간이 걸린다. 녹음 파일은 Boya OS 앱으로 무료 무제한 클라우드 저장소에 동기화되며 10가지 형식으로 내보낼 수 있다. Boya는 데이터가 종단 간 암호화되고 HIPAA 준수(HIPAA-compliant)라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "가격은 $79.99다. 색상은 블랙, 화이트, 네온 옐로, 라이트 핑크이고 무게는 34.5 g이다. 요금제는 무료 Starter(월 600분, 템플릿 10개), 월 $17.99의 Pro(1,280분, 템플릿 40개, Ask AI), 월 $29.99의 Ultimate(무제한 받아쓰기, 템플릿 60개 전부)로 나뉜다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "어두운 공연장 뒤쪽에선 실망스러웠다. 기본형 Pixel 11의 Magic Capture는 10.8MP 망원 카메라 줌을 4x로 묶고 1080p 30fps로 녹화한다. 여기서 프레임을 잘라내니 사진이 흐릿하고 노이즈투성이였다."
-              },
-              {
-                "t": "p",
-                "x": "조명이 좋고 메인 카메라로 찍을 때 결과가 가장 좋다. 공연장에 들고 갈 거라면 리뷰어는 48MP 잠망경 망원이 달린 Pixel 11 Pro나 Pro XL을 권한다."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
+                "cap": "Boya Notra Neo에는 MagSafe 호환(MagSafe-compatible) 자석 마운트도 딸려 온다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Magic Capture\nライブでは力不足",
-          "body": "ライブでの試用でPixel 11のAI機能Magic Captureは条件次第だった。",
-          "mini_headline": "Magic Capture、ライブでは力不足",
+          "headline": "Boya Notra Neo\nAI搭載MagSafe録音機",
+          "body": "BoyaのMagSafe録音機は140以上の言語で通話を文字起こしし、AI要約も作る。",
+          "mini_headline": "BoyaのAI MagSafe録音機",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
+                "cap": "カラフルで小ぶりなBoya Notra Neoは、AIによる（AI-powered）会議の文字起こしと要約を提供する。"
               },
               {
                 "t": "p",
-                "x": "Pixel 11のMagic Captureは、Geminiモデルで約400の動画フレームを解析し、最良のものを写真として保存する。録画は最長2分で、常に5枚の写真を返し、補正のために映像をクラウドへ送る。"
+                "x": "BoyaはAI搭載（AI-powered）のボイスレコーダー「Notra Neo」を発表した。通話や会議中のメモ取りを簡単にするための製品で、周囲音・電話通話・Bluetoothの録音モードを備え、本体とクラウドの両方に保存できる。"
+              },
+              {
+                "t": "p",
+                "x": "Notra Neoは140を超える言語の文字起こしに対応し、スマートな話者識別も備える。AIは60を超える専門テンプレートを使って要約、アクションアイテム、マインドマップを作成でき、Ask AIを使えば録音ファイル全体から特定の情報を探せる。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
+                "cap": "二基のMEMSマイクが最大5 m（16.4 ft.）先の声を拾う。"
               },
               {
                 "t": "p",
-                "x": "曇りの日のPhoenix Zooでは、うなるジャガーと構図の整ったプレーリードッグを見事に捉えた。"
+                "x": "本体ストレージは8 GBで、最大20時間の連続録音が可能、充電には1.5時間かかる。録音はBoya OSアプリ経由で無料・無制限のクラウドストレージに同期され、10種類の形式で書き出せる。Boyaによれば、データはエンドツーエンドで暗号化され、HIPAAに準拠（HIPAA-compliant）している。"
+              },
+              {
+                "t": "p",
+                "x": "価格は$79.99で、カラーはブラック、ホワイト、ネオンイエロー、ライトピンク、重さは34.5 gだ。プランは無料のStarter（月600分、テンプレート10種）、月額$17.99のPro（1,280分、テンプレート40種、Ask AI）、月額$29.99のUltimate（文字起こし無制限、テンプレート60種すべて）である。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "薄暗いライブ会場の後方からでは期待外れだった。無印のPixel 11では、Magic Captureは10.8MPの望遠でズームが4xまでに制限され、1080p・30fpsで録画し、フレームをクロップするため、ぼやけてノイズの多い写真になった。"
-              },
-              {
-                "t": "p",
-                "x": "最も力を発揮するのは、明るい環境でメインカメラを使うときだ。ライブ用には、48MPのペリスコープ望遠を備えたPixel 11 ProかPro XLをレビュアーは勧めている。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
+                "cap": "Boya Notra NeoにはMagSafe対応（MagSafe-compatible）のマグネットマウントが付属する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Magic Capture\n演唱会上表现不佳",
-          "body": "演唱会实测显示，Pixel 11的AI功能Magic Capture只在特定条件下好用。",
-          "mini_headline": "Magic Capture：演唱会上失手",
+          "headline": "Boya Notra Neo\nAI MagSafe录音笔",
+          "body": "Boya的MagSafe录音器支持140多种语言通话转写、说话人识别和AI摘要。",
+          "mini_headline": "Boya的AI MagSafe录音器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
+                "cap": "色彩缤纷、小巧的Boya Notra Neo提供AI驱动（AI-powered）的会议转写和摘要。"
               },
               {
                 "t": "p",
-                "x": "Pixel 11的Magic Capture利用Gemini模型分析约400帧视频画面，并将最佳画面保存为照片。它最长可录制两分钟，总会给出五张照片，并将视频上传云端进行增强处理。"
+                "x": "Boya发布了Notra Neo，这是一款AI驱动（AI-powered）的录音器，旨在简化通话和会议中的记录工作。它具备环境、电话通话和Bluetooth录音模式，并提供机身存储和云存储。"
+              },
+              {
+                "t": "p",
+                "x": "Notra Neo支持140多种语言的转写，并带有智能说话人识别。AI可借助60多个专业模板生成摘要、待办事项和思维导图，用户还能通过Ask AI在录音文件中查找特定信息。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
+                "cap": "两个MEMS麦克风可拾取最远5 m（16.4 ft.）外的人声。"
               },
               {
                 "t": "p",
-                "x": "在阴天的Phoenix Zoo，它精准捕捉到一只咆哮的美洲豹和一只构图出色的草原犬鼠。"
+                "x": "它拥有8 GB本地存储，最长可连续录音20小时，充电需1.5小时。录音可通过Boya OS应用同步到免费的无限云存储，并能导出为10种格式。Boya称数据采用端到端加密，并符合HIPAA要求（HIPAA-compliant）。"
+              },
+              {
+                "t": "p",
+                "x": "这款录音器售价$79.99，有黑、白、霓虹黄和浅粉色可选，重34.5 g。套餐包括免费的Starter（每月600分钟、10个模板）、每月$17.99的Pro（1,280分钟、40个模板、Ask AI）以及每月$29.99的Ultimate（无限转写、全部60个模板）。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "在光线昏暗的演唱会上从较远处拍摄时，它令人失望。在基础版Pixel 11上，Magic Capture使用10.8MP长焦镜头时变焦上限为4x，以1080p 30fps录制并裁切画面，照片模糊且噪点多。"
-              },
-              {
-                "t": "p",
-                "x": "它在光线充足、使用主摄时效果最佳。拍演唱会的话，评测者建议选择配备48MP潜望式长焦镜头的Pixel 11 Pro或Pro XL。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
+                "cap": "Boya Notra Neo附带兼容MagSafe（MagSafe-compatible）的磁吸支架。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Magic Capture del Pixel 11\nse queda corto en conciertos",
-          "body": "En un concierto, el Magic Capture del Pixel 11 demuestra que esta función de AI solo rinde en ciertas condiciones.",
-          "mini_headline": "Magic Capture falla en conciertos",
+          "headline": "Boya Notra Neo: notas con AI\nen una grabadora MagSafe",
+          "body": "La grabadora MagSafe de Boya transcribe llamadas en más de 140 idiomas, distingue voces y resume con AI.",
+          "mini_headline": "La grabadora MagSafe con AI de Boya",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
+                "cap": "La pequeña y colorida Boya Notra Neo ofrece transcripciones y resúmenes de reuniones con AI (AI-powered)."
               },
               {
                 "t": "p",
-                "x": "Magic Capture en el Pixel 11 usa modelos Gemini para analizar unos 400 fotogramas de video y guardar los mejores como fotos. Graba hasta dos minutos, siempre devuelve cinco fotos y envía las imágenes a la nube para mejorarlas."
+                "x": "Boya ha presentado la Notra Neo, una grabadora de voz con AI (AI-powered) pensada para simplificar la toma de notas durante llamadas y reuniones. Ofrece modos de grabación ambiental, de llamadas telefónicas y por Bluetooth, con almacenamiento interno y en la nube."
+              },
+              {
+                "t": "p",
+                "x": "La Notra Neo admite transcripción en más de 140 idiomas e incluye identificación inteligente de hablantes. La AI puede generar resúmenes, tareas pendientes y mapas mentales con más de 60 plantillas profesionales, y Ask AI permite buscar información concreta en los archivos grabados."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
+                "cap": "Dos micrófonos MEMS captan voces a hasta 5 m (16.4 ft.) de distancia."
               },
               {
                 "t": "p",
-                "x": "En el Phoenix Zoo, en un día nublado, captó a la perfección a un jaguar gruñendo y a un perrito de las praderas bien encuadrado."
+                "x": "Tiene 8 GB de almacenamiento local y graba de forma continua hasta 20 horas; la recarga tarda 1.5 horas. Las grabaciones se sincronizan mediante la app Boya OS con un almacenamiento en la nube gratuito e ilimitado y se exportan en 10 formatos. Boya afirma que los datos tienen cifrado de extremo a extremo y cumplen HIPAA (HIPAA-compliant)."
+              },
+              {
+                "t": "p",
+                "x": "La grabadora cuesta $79.99, pesa 34.5 g y está disponible en negro, blanco, amarillo neón y rosa claro. Planes: Starter gratuito (600 minutos/mes, 10 plantillas), Pro a $17.99/mes (1,280 minutos, 40 plantillas, Ask AI) y Ultimate a $29.99/mes (transcripción ilimitada, las 60 plantillas)."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "En un concierto con poca luz y desde más atrás, decepcionó. En el Pixel 11 básico, Magic Capture limita el zoom a 4x en el teleobjetivo de 10.8MP, graba en 1080p a 30fps y recorta los fotogramas, lo que deja tomas borrosas y con grano."
-              },
-              {
-                "t": "p",
-                "x": "Funciona mejor con la cámara principal y buena luz. Para conciertos, el autor recomienda el Pixel 11 Pro o el Pro XL, con su teleobjetivo periscópico de 48MP."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
+                "cap": "La Boya Notra Neo incluye un soporte magnético compatible con MagSafe (MagSafe-compatible)."
               }
             ]
           }
@@ -1023,165 +883,165 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Magic Capture\n공연장에선 아쉽다",
-          "body": "공연 테스트에서 Pixel 11의 AI Magic Capture는 조건을 탔다.",
-          "mini_headline": "Magic Capture, 공연장에선 아쉽다",
+          "headline": "Boya Notra Neo\nAI MagSafe 녹음기",
+          "body": "Boya의 MagSafe 녹음기는 140개 이상 언어로 받아쓰고 AI로 요약한다.",
+          "mini_headline": "Boya의 AI MagSafe 녹음기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
+                "cap": "알록달록하고 작은 Boya Notra Neo는 AI 기반(AI-powered) 회의 받아쓰기와 요약 기능을 갖췄다."
               },
               {
                 "t": "p",
-                "x": "Pixel 11의 Magic Capture는 Gemini 모델로 약 400개의 영상 프레임을 분석해 가장 좋은 장면을 사진으로 저장한다. 최대 2분까지 녹화하고, 언제나 사진 5장을 내놓으며, 보정을 위해 영상을 클라우드로 보낸다."
+                "x": "Boya가 통화와 회의 중 메모를 간편하게 해 주는 AI 기반(AI-powered) 음성 녹음기 Notra Neo를 공개했다. 주변음, 전화 통화, Bluetooth 녹음 모드를 지원하고 기기 내 저장과 클라우드 저장을 모두 제공한다."
+              },
+              {
+                "t": "p",
+                "x": "Notra Neo는 140개가 넘는 언어의 받아쓰기와 스마트 화자 식별을 지원한다. AI는 60개가 넘는 전문 템플릿으로 요약, 실행 항목, 마인드맵을 만들고, Ask AI로 녹음 파일 전체에서 특정 정보를 찾을 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
+                "cap": "MEMS 마이크 두 개가 최대 5 m(16.4 ft.) 떨어진 목소리까지 담는다."
               },
               {
                 "t": "p",
-                "x": "흐린 날 Phoenix Zoo에서는 으르렁대는 재규어와 구도가 잘 잡힌 프레리도그를 정확히 담아냈다."
+                "x": "로컬 저장 공간은 8 GB이고 최대 20시간 연속 녹음하며, 충전에는 1.5시간이 걸린다. 녹음은 Boya OS 앱을 통해 무료 무제한 클라우드 저장소에 동기화되고 10가지 형식으로 내보낼 수 있다. Boya는 데이터가 종단 간 암호화되며 HIPAA 준수(HIPAA-compliant)라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "가격은 $79.99이고 색상은 블랙, 화이트, 네온 옐로, 라이트 핑크이며 무게는 34.5 g이다. 요금제는 무료 Starter(월 600분, 템플릿 10개), 월 $17.99의 Pro(1,280분, 템플릿 40개, Ask AI), 월 $29.99의 Ultimate(무제한 받아쓰기, 템플릿 60개 전부)로 나뉜다."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "어두운 공연장 뒤쪽에서는 실망스러웠다. 기본형 Pixel 11에서 Magic Capture는 10.8MP 망원 카메라의 줌을 4x로 제한하고, 1080p 30fps로 녹화하며 프레임을 잘라내 흐릿하고 노이즈 낀 사진을 남겼다."
-              },
-              {
-                "t": "p",
-                "x": "좋은 조명에서 메인 카메라로 쓸 때 가장 잘 작동한다. 공연용으로 리뷰어는 48MP 잠망경 망원을 갖춘 Pixel 11 Pro나 Pro XL을 권한다."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
+                "cap": "Boya Notra Neo에는 MagSafe 호환(MagSafe-compatible) 자석 마운트가 함께 들어 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Magic Capture\nライブでは力不足",
-          "body": "ライブでの試用でPixel 11のAI機能Magic Captureは条件次第だった。",
-          "mini_headline": "Magic Capture、ライブでは力不足",
+          "headline": "Boya Notra Neo\nAI搭載MagSafe録音機",
+          "body": "BoyaのMagSafe録音機は140以上の言語で通話を文字起こしし、AI要約も作る。",
+          "mini_headline": "BoyaのAI MagSafe録音機",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
+                "cap": "カラフルで小ぶりなBoya Notra Neoは、AIによる（AI-powered）会議の文字起こしと要約を提供する。"
               },
               {
                 "t": "p",
-                "x": "Pixel 11のMagic Captureは、Geminiモデルで約400の動画フレームを解析し、最良のものを写真として保存する。録画は最長2分で、常に5枚の写真を返し、補正のために映像をクラウドへ送る。"
+                "x": "BoyaはAI搭載（AI-powered）のボイスレコーダー「Notra Neo」を発表した。通話や会議中のメモ取りを簡単にするための製品で、周囲音・電話通話・Bluetoothの録音モードを備え、本体とクラウドの両方に保存できる。"
+              },
+              {
+                "t": "p",
+                "x": "Notra Neoは140を超える言語の文字起こしに対応し、スマートな話者識別も備える。AIは60を超える専門テンプレートを使って要約、アクションアイテム、マインドマップを作成でき、Ask AIを使えば録音ファイル全体から特定の情報を探せる。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
+                "cap": "二基のMEMSマイクが最大5 m（16.4 ft.）先の声を拾う。"
               },
               {
                 "t": "p",
-                "x": "曇りの日のPhoenix Zooでは、うなるジャガーと構図の整ったプレーリードッグを見事に捉えた。"
+                "x": "本体ストレージは8 GBで、最大20時間の連続録音が可能、充電には1.5時間かかる。録音はBoya OSアプリ経由で無料・無制限のクラウドストレージに同期され、10種類の形式で書き出せる。Boyaによれば、データはエンドツーエンドで暗号化され、HIPAAに準拠（HIPAA-compliant）している。"
+              },
+              {
+                "t": "p",
+                "x": "価格は$79.99で、カラーはブラック、ホワイト、ネオンイエロー、ライトピンク、重さは34.5 gだ。プランは無料のStarter（月600分、テンプレート10種）、月額$17.99のPro（1,280分、テンプレート40種、Ask AI）、月額$29.99のUltimate（文字起こし無制限、テンプレート60種すべて）である。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "薄暗いライブ会場の後方からでは期待外れだった。無印のPixel 11では、Magic Captureは10.8MPの望遠でズームが4xまでに制限され、1080p・30fpsで録画し、フレームをクロップするため、ぼやけてノイズの多い写真になった。"
-              },
-              {
-                "t": "p",
-                "x": "最も力を発揮するのは、明るい環境でメインカメラを使うときだ。ライブ用には、48MPのペリスコープ望遠を備えたPixel 11 ProかPro XLをレビュアーは勧めている。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
+                "cap": "Boya Notra NeoにはMagSafe対応（MagSafe-compatible）のマグネットマウントが付属する。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Magic Capture\n演唱会上表现不佳",
-          "body": "演唱会实测显示，Pixel 11的AI功能Magic Capture只在特定条件下好用。",
-          "mini_headline": "Magic Capture：演唱会上失手",
+          "headline": "Boya Notra Neo\nAI MagSafe录音笔",
+          "body": "Boya的MagSafe录音器支持140多种语言通话转写、说话人识别和AI摘要。",
+          "mini_headline": "Boya的AI MagSafe录音器",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
+                "cap": "色彩缤纷、小巧的Boya Notra Neo提供AI驱动（AI-powered）的会议转写和摘要。"
               },
               {
                 "t": "p",
-                "x": "Pixel 11的Magic Capture利用Gemini模型分析约400帧视频画面，并将最佳画面保存为照片。它最长可录制两分钟，总会给出五张照片，并将视频上传云端进行增强处理。"
+                "x": "Boya发布了Notra Neo，这是一款AI驱动（AI-powered）的录音器，旨在简化通话和会议中的记录工作。它具备环境、电话通话和Bluetooth录音模式，并提供机身存储和云存储。"
+              },
+              {
+                "t": "p",
+                "x": "Notra Neo支持140多种语言的转写，并带有智能说话人识别。AI可借助60多个专业模板生成摘要、待办事项和思维导图，用户还能通过Ask AI在录音文件中查找特定信息。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
+                "cap": "两个MEMS麦克风可拾取最远5 m（16.4 ft.）外的人声。"
               },
               {
                 "t": "p",
-                "x": "在阴天的Phoenix Zoo，它精准捕捉到一只咆哮的美洲豹和一只构图出色的草原犬鼠。"
+                "x": "它拥有8 GB本地存储，最长可连续录音20小时，充电需1.5小时。录音可通过Boya OS应用同步到免费的无限云存储，并能导出为10种格式。Boya称数据采用端到端加密，并符合HIPAA要求（HIPAA-compliant）。"
+              },
+              {
+                "t": "p",
+                "x": "这款录音器售价$79.99，有黑、白、霓虹黄和浅粉色可选，重34.5 g。套餐包括免费的Starter（每月600分钟、10个模板）、每月$17.99的Pro（1,280分钟、40个模板、Ask AI）以及每月$29.99的Ultimate（无限转写、全部60个模板）。"
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "在光线昏暗的演唱会上从较远处拍摄时，它令人失望。在基础版Pixel 11上，Magic Capture使用10.8MP长焦镜头时变焦上限为4x，以1080p 30fps录制并裁切画面，照片模糊且噪点多。"
-              },
-              {
-                "t": "p",
-                "x": "它在光线充足、使用主摄时效果最佳。拍演唱会的话，评测者建议选择配备48MP潜望式长焦镜头的Pixel 11 Pro或Pro XL。"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
+                "cap": "Boya Notra Neo附带兼容MagSafe（MagSafe-compatible）的磁吸支架。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Magic Capture del Pixel 11\nse queda corto en conciertos",
-          "body": "En un concierto, el Magic Capture del Pixel 11 demuestra que esta función de AI solo rinde en ciertas condiciones.",
-          "mini_headline": "Magic Capture falla en conciertos",
+          "headline": "Boya Notra Neo: notas con AI\nen una grabadora MagSafe",
+          "body": "La grabadora MagSafe de Boya transcribe llamadas en más de 140 idiomas, distingue voces y resume con AI.",
+          "mini_headline": "La grabadora MagSafe con AI de Boya",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
+                "cap": "La pequeña y colorida Boya Notra Neo ofrece transcripciones y resúmenes de reuniones con AI (AI-powered)."
               },
               {
                 "t": "p",
-                "x": "Magic Capture en el Pixel 11 usa modelos Gemini para analizar unos 400 fotogramas de video y guardar los mejores como fotos. Graba hasta dos minutos, siempre devuelve cinco fotos y envía las imágenes a la nube para mejorarlas."
+                "x": "Boya ha presentado la Notra Neo, una grabadora de voz con AI (AI-powered) pensada para simplificar la toma de notas durante llamadas y reuniones. Ofrece modos de grabación ambiental, de llamadas telefónicas y por Bluetooth, con almacenamiento interno y en la nube."
+              },
+              {
+                "t": "p",
+                "x": "La Notra Neo admite transcripción en más de 140 idiomas e incluye identificación inteligente de hablantes. La AI puede generar resúmenes, tareas pendientes y mapas mentales con más de 60 plantillas profesionales, y Ask AI permite buscar información concreta en los archivos grabados."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-Camera-1-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
+                "cap": "Dos micrófonos MEMS captan voces a hasta 5 m (16.4 ft.) de distancia."
               },
               {
                 "t": "p",
-                "x": "En el Phoenix Zoo, en un día nublado, captó a la perfección a un jaguar gruñendo y a un perrito de las praderas bien encuadrado."
+                "x": "Tiene 8 GB de almacenamiento local y graba de forma continua hasta 20 horas; la recarga tarda 1.5 horas. Las grabaciones se sincronizan mediante la app Boya OS con un almacenamiento en la nube gratuito e ilimitado y se exportan en 10 formatos. Boya afirma que los datos tienen cifrado de extremo a extremo y cumplen HIPAA (HIPAA-compliant)."
+              },
+              {
+                "t": "p",
+                "x": "La grabadora cuesta $79.99, pesa 34.5 g y está disponible en negro, blanco, amarillo neón y rosa claro. Planes: Starter gratuito (600 minutos/mes, 10 plantillas), Pro a $17.99/mes (1,280 minutos, 40 plantillas, Ask AI) y Ultimate a $29.99/mes (transcripción ilimitada, las 60 plantillas)."
               },
               {
                 "t": "img",
-                "src": "https://www.androidauthority.com/wp-content/uploads/2026/09/Google-Pixel-11-6-scaled.jpg",
-                "cap": "Brady Snyder / Android Authority"
-              },
-              {
-                "t": "p",
-                "x": "En un concierto con poca luz y desde más atrás, decepcionó. En el Pixel 11 básico, Magic Capture limita el zoom a 4x en el teleobjetivo de 10.8MP, graba en 1080p a 30fps y recorta los fotogramas, lo que deja tomas borrosas y con grano."
-              },
-              {
-                "t": "p",
-                "x": "Funciona mejor con la cámara principal y buena luz. Para conciertos, el autor recomienda el Pixel 11 Pro o el Pro XL, con su teleobjetivo periscópico de 48MP."
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
+                "cap": "La Boya Notra Neo incluye un soporte magnético compatible con MagSafe (MagSafe-compatible)."
               }
             ]
           }
@@ -1189,15 +1049,457 @@
       }
     },
     {
-      "id": "gadgets-homeview-robot-arm",
+      "id": "gadgets-voxel1-tidy-robot",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "차기 HomeView에\n내년 로봇 팔 달리나",
-      "body": "$299 HomeView의 후속작이 이르면 내년 로봇 팔을 달 전망이다.",
-      "mini_headline": "차기 HomeView, 로봇 팔 달까",
+      "headline": "두 팔 달린 로봇이\n집을 알아서 치운다",
+      "body": "Tuesday Labs의 Voxel Series 1은 AI로 정리·청소한다.",
+      "mini_headline": "Voxel 1이 집을 치운다",
       "tool": "Gadgets",
-      "source": "9to5Mac",
-      "url": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/Voxel-1-robot-can-tidy-up-water-plants-and-clean-up-dirt.1429483.0.html",
+      "accent": "#2ec5c5",
+      "motif": "headset",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "video",
+            "yt": "_nwhe_N-IvQ"
+          },
+          {
+            "t": "img",
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
+            "cap": "Tuesday Labs가 집안일을 맡기려고 만든 새 로봇이다."
+          },
+          {
+            "t": "p",
+            "x": "Voxel은 침실 정리부터 리모컨 찾기, 꽃에 물 주기까지 귀찮은 집안일을 대신해 주는 로봇이다. 다만 이 편리함은 값이 꽤 나간다."
+          },
+          {
+            "t": "p",
+            "x": "스마트홈 로봇은 그동안 로봇 청소기와 AI 컴패니언 로봇 정도에 머물렀다. Tuesday Labs는 Voxel Series 1로 요즘 로봇이 훨씬 더 쓸모 있을 수 있다는 걸 보여 주려 한다. 뉴욕 기반(New York-based) 로봇 제조사인 이 회사가 내놓은 건 두 다리와 두 팔을 달고 인공지능의 도움으로 여러 집안일을 해내는 휴머노이드 로봇이다."
+          },
+          {
+            "t": "p",
+            "x": "이 로봇은 집 안 물건마다 제자리를 익힌 뒤 알아서 정리한다. Voxel Series 1은 화분에 물을 주고 더러운 곳을 찾아 청소하며 식기도 정리한다. 이동할 때는 RGB 카메라 두 대와 초광각 카메라 두 대를 쓰고 사용자와는 주로 음성 명령으로 소통한다. 잃어버린 리모컨을 찾아 달라거나 소파로 음료를 가져다 달라고 하는 식이다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+          },
+          {
+            "t": "p",
+            "x": "생김새는 휴머노이드지만 사람을 닮게 만들지는 않았다. Tuesday Labs는 노란색과 갈색의 각진 하우징을 씌우고 카메라는 갈색 커버 뒤에 숨겼다. 몸통의 ‘눈’과 스피커 구멍이 얼굴 노릇을 해 로봇에 나름의 매력을 준다."
+          },
+          {
+            "t": "p",
+            "x": "Tuesday Labs는 출시 초기 Voxel Series 1을 미국(US) 고객에게만 배송한다. 배송 가능한 주소가 있으면 지금 $200 보증금을 걸고 예약할 수 있다. 로봇은 2028년 $20,000에 나올 예정이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "A two-armed robot that\ntidies the house itself",
+          "body": "Tuesday Labs' Voxel Series 1 uses AI to learn where things belong, then tidies, waters plants and cleans dirt.",
+          "mini_headline": "Voxel 1 tidies up",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_nwhe_N-IvQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
+                "cap": "The new robot from Tuesday Labs is designed to be able to take care of household chores."
+              },
+              {
+                "t": "p",
+                "x": "Voxel is finally a robot that takes care of annoying household chores, from tidying up the bedroom and tracking down the remote control to watering the flowers. But anyone who wants this convenience will have to dig deep into their pockets."
+              },
+              {
+                "t": "p",
+                "x": "Smart homes have so far largely been limited to robot vacuums and AI companion robots, but with Voxel Series 1, Tuesday Labs aims to show that modern robots can be far more useful. The New York-based robot manufacturer has developed a humanoid robot with two legs and two arms that is designed to handle many household chores with the help of artificial intelligence."
+              },
+              {
+                "t": "p",
+                "x": "The robot can learn where different objects in the home belong and then tidy up on its own. Voxel Series 1 can also water plants, detect and clean up dirt, and put dishes away. It navigates using two RGB cameras and two ultra-wide-angle cameras, and interacts with the user primarily through voice commands — for example searching for a misplaced remote control or bringing a drink to the couch."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+              },
+              {
+                "t": "p",
+                "x": "Although the robot has a humanoid form, its design does not resemble a real human. Tuesday Labs uses an angular housing in yellow and brown, with the cameras hidden behind a brown cover. The \"eyes\" in the torso, together with a speaker opening, form a face intended to give the robot a certain charm."
+              },
+              {
+                "t": "p",
+                "x": "Tuesday Labs will only ship Voxel Series 1 to customers in the US at launch. Anyone with a suitable delivery address can reserve the robot now with a $200 deposit. The robot is expected to launch in 2028 at a price of $20,000."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "두 팔 달린 로봇이\n집을 알아서 치운다",
+          "body": "Tuesday Labs의 Voxel Series 1은 AI로 정리·청소한다.",
+          "mini_headline": "Voxel 1이 집을 치운다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_nwhe_N-IvQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
+                "cap": "Tuesday Labs가 집안일을 맡기려고 만든 새 로봇이다."
+              },
+              {
+                "t": "p",
+                "x": "Voxel은 침실 정리부터 리모컨 찾기, 꽃에 물 주기까지 귀찮은 집안일을 대신해 주는 로봇이다. 다만 이 편리함은 값이 꽤 나간다."
+              },
+              {
+                "t": "p",
+                "x": "스마트홈 로봇은 그동안 로봇 청소기와 AI 컴패니언 로봇 정도에 머물렀다. Tuesday Labs는 Voxel Series 1로 요즘 로봇이 훨씬 더 쓸모 있을 수 있다는 걸 보여 주려 한다. 뉴욕 기반(New York-based) 로봇 제조사인 이 회사가 내놓은 건 두 다리와 두 팔을 달고 인공지능의 도움으로 여러 집안일을 해내는 휴머노이드 로봇이다."
+              },
+              {
+                "t": "p",
+                "x": "이 로봇은 집 안 물건마다 제자리를 익힌 뒤 알아서 정리한다. Voxel Series 1은 화분에 물을 주고 더러운 곳을 찾아 청소하며 식기도 정리한다. 이동할 때는 RGB 카메라 두 대와 초광각 카메라 두 대를 쓰고 사용자와는 주로 음성 명령으로 소통한다. 잃어버린 리모컨을 찾아 달라거나 소파로 음료를 가져다 달라고 하는 식이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+              },
+              {
+                "t": "p",
+                "x": "생김새는 휴머노이드지만 사람을 닮게 만들지는 않았다. Tuesday Labs는 노란색과 갈색의 각진 하우징을 씌우고 카메라는 갈색 커버 뒤에 숨겼다. 몸통의 ‘눈’과 스피커 구멍이 얼굴 노릇을 해 로봇에 나름의 매력을 준다."
+              },
+              {
+                "t": "p",
+                "x": "Tuesday Labs는 출시 초기 Voxel Series 1을 미국(US) 고객에게만 배송한다. 배송 가능한 주소가 있으면 지금 $200 보증금을 걸고 예약할 수 있다. 로봇은 2028년 $20,000에 나올 예정이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "二本腕のロボットが\n家を自ら片づける",
+          "body": "Tuesday LabsのVoxel Series 1はAIで物の置き場を学び片づける。",
+          "mini_headline": "Voxel 1が片づける",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_nwhe_N-IvQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
+                "cap": "Tuesday Labsの新しいロボットは、家事をこなせるよう設計されている。"
+              },
+              {
+                "t": "p",
+                "x": "Voxelは、寝室の片づけやリモコン探しから花の水やりまで、面倒な家事を引き受けてくれるロボットだ。ただし、この便利さを手に入れるには財布のひもを大きく緩める必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "これまでスマートホームといえばロボット掃除機やAIコンパニオンロボットが中心だったが、Tuesday LabsはVoxel Series 1で現代のロボットがはるかに役立つことを示そうとしている。ニューヨークを拠点とする（New York-based）同社は、二本の脚と二本の腕を持ち、人工知能の助けで多くの家事をこなすよう設計されたヒューマノイドロボットを開発した。"
+              },
+              {
+                "t": "p",
+                "x": "このロボットは家の中の物の定位置を学習し、自分で片づけられる。Voxel Series 1は植物への水やり、汚れの検知と掃除、食器の片づけもこなす。RGBカメラ二基と超広角カメラ二基で移動し、主に音声コマンドでユーザーとやり取りする。なくしたリモコンを探したり、ソファまで飲み物を運んだりといった具合だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+              },
+              {
+                "t": "p",
+                "x": "ヒューマノイド型ではあるが、そのデザインは実際の人間には似ていない。Tuesday Labsは黄色と茶色の角張った筐体を採用し、カメラは茶色のカバーの裏に隠している。胴体の「目」とスピーカー開口部が顔を形づくり、ロボットに独特の愛嬌を与えている。"
+              },
+              {
+                "t": "p",
+                "x": "Tuesday Labsは発売当初、Voxel Series 1を米国（US）の顧客にのみ出荷する。対応する配送先住所があれば、今すぐ$200の手付金で予約できる。発売は2028年、価格は$20,000の見込みだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "双臂机器人\n能自己收拾家",
+          "body": "Tuesday Labs的Voxel Series 1用AI记住物品位置并收拾、浇花。",
+          "mini_headline": "Voxel 1来收拾家",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_nwhe_N-IvQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
+                "cap": "Tuesday Labs的新机器人旨在承担家务。"
+              },
+              {
+                "t": "p",
+                "x": "Voxel终于是一款能包揽恼人家务的机器人，从整理卧室、找遥控器到给花浇水都能做。但想享受这份便利，就得大方掏腰包。"
+              },
+              {
+                "t": "p",
+                "x": "迄今为止，智能家居大多局限于扫地机器人和AI陪伴机器人，而Tuesday Labs希望借Voxel Series 1证明现代机器人可以有用得多。这家总部位于纽约（New York-based）的机器人制造商开发了一款双腿双臂的人形机器人，旨在借助人工智能完成多种家务。"
+              },
+              {
+                "t": "p",
+                "x": "这款机器人能学会家中各种物品该放在哪里，然后自行整理。Voxel Series 1还能浇花、发现并清理污垢、把餐具收好。它依靠两个RGB摄像头和两个超广角摄像头导航，主要通过语音指令与用户互动，例如寻找放错地方的遥控器，或把饮料送到沙发边。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+              },
+              {
+                "t": "p",
+                "x": "虽然这款机器人是人形，但设计并不像真人。Tuesday Labs采用黄棕配色的棱角外壳，摄像头藏在棕色盖板之后。躯干上的“眼睛”与扬声器开孔组成一张脸，为机器人增添几分魅力。"
+              },
+              {
+                "t": "p",
+                "x": "Tuesday Labs在上市初期只向美国（US）用户发货Voxel Series 1。拥有合适收货地址的用户现在可支付$200定金预订。该机器人预计于2028年上市，售价$20,000。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un robot de dos brazos que\nordena la casa por sí solo",
+          "body": "Voxel Series 1, de Tuesday Labs, usa AI para aprender dónde va cada cosa y ordena, riega plantas y limpia suciedad.",
+          "mini_headline": "Voxel 1 ordena la casa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_nwhe_N-IvQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
+                "cap": "El nuevo robot de Tuesday Labs está diseñado para ocuparse de las tareas domésticas."
+              },
+              {
+                "t": "p",
+                "x": "Voxel es, por fin, un robot que se encarga de las molestas tareas del hogar, desde ordenar el dormitorio y encontrar el control remoto hasta regar las flores. Pero quien quiera esta comodidad tendrá que hacer un gran desembolso."
+              },
+              {
+                "t": "p",
+                "x": "Hasta ahora, los hogares inteligentes se han limitado en gran medida a robots aspiradores y robots de compañía con AI, pero con Voxel Series 1 Tuesday Labs quiere demostrar que los robots modernos pueden ser mucho más útiles. El fabricante de robots con sede en Nueva York (New York-based) ha desarrollado un robot humanoide con dos piernas y dos brazos diseñado para encargarse de muchas tareas domésticas con ayuda de la inteligencia artificial."
+              },
+              {
+                "t": "p",
+                "x": "El robot puede aprender dónde va cada objeto de la casa y luego ordenar por su cuenta. Voxel Series 1 también puede regar plantas, detectar y limpiar suciedad y guardar los platos. Se orienta con dos cámaras RGB y dos cámaras ultra gran angular, e interactúa con el usuario principalmente mediante comandos de voz, por ejemplo para buscar un control remoto extraviado o llevar una bebida al sofá."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+              },
+              {
+                "t": "p",
+                "x": "Aunque el robot tiene forma humanoide, su diseño no se parece al de una persona real. Tuesday Labs usa una carcasa angulosa en amarillo y marrón, con las cámaras ocultas tras una cubierta marrón. Los «ojos» del torso, junto con una abertura para el altavoz, forman una cara pensada para darle cierto encanto."
+              },
+              {
+                "t": "p",
+                "x": "Tuesday Labs solo enviará Voxel Series 1 a clientes de Estados Unidos (US) en el lanzamiento. Quien tenga una dirección de entrega adecuada puede reservar el robot ya con un depósito de $200. Se espera que llegue en 2028 a un precio de $20,000."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "두 팔 달린 로봇이\n집을 알아서 치운다",
+          "body": "Tuesday Labs의 Voxel Series 1은 AI로 정리·청소한다.",
+          "mini_headline": "Voxel 1이 집을 치운다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_nwhe_N-IvQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
+                "cap": "Tuesday Labs의 새 로봇은 집안일을 맡도록 설계됐다."
+              },
+              {
+                "t": "p",
+                "x": "Voxel은 침실 정리부터 리모컨 찾기, 꽃에 물 주기까지 귀찮은 집안일을 맡아 주는 로봇이다. 다만 이런 편리함을 누리려면 지갑을 크게 열어야 한다."
+              },
+              {
+                "t": "p",
+                "x": "지금까지 스마트홈은 로봇 청소기와 AI 컴패니언 로봇 정도에 머물렀지만, Tuesday Labs는 Voxel Series 1로 최신 로봇이 훨씬 더 쓸모 있을 수 있음을 보여 주려 한다. 뉴욕 기반(New York-based) 로봇 제조사인 이 회사는 두 다리와 두 팔을 갖추고 인공지능의 도움으로 여러 집안일을 처리하도록 설계한 휴머노이드 로봇을 개발했다."
+              },
+              {
+                "t": "p",
+                "x": "이 로봇은 집 안 여러 물건의 제자리를 학습한 뒤 스스로 정리할 수 있다. Voxel Series 1은 화분에 물을 주고, 더러운 곳을 찾아 청소하고, 식기를 정리할 수도 있다. RGB 카메라 두 대와 초광각 카메라 두 대로 이동하며, 주로 음성 명령으로 사용자와 소통한다. 잃어버린 리모컨을 찾거나 소파로 음료를 가져다주는 식이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+              },
+              {
+                "t": "p",
+                "x": "휴머노이드 형태지만 실제 사람을 닮게 디자인하지는 않았다. Tuesday Labs는 노란색과 갈색의 각진 하우징을 쓰고, 카메라는 갈색 커버 뒤에 숨겼다. 몸통의 ‘눈’과 스피커 구멍이 얼굴을 이뤄 로봇에 나름의 매력을 더한다."
+              },
+              {
+                "t": "p",
+                "x": "Tuesday Labs는 출시 초기 Voxel Series 1을 미국(US) 고객에게만 배송한다. 배송 가능한 주소가 있다면 지금 $200 보증금으로 예약할 수 있다. 로봇은 2028년 $20,000에 출시될 예정이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "二本腕のロボットが\n家を自ら片づける",
+          "body": "Tuesday LabsのVoxel Series 1はAIで物の置き場を学び片づける。",
+          "mini_headline": "Voxel 1が片づける",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_nwhe_N-IvQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
+                "cap": "Tuesday Labsの新しいロボットは、家事をこなせるよう設計されている。"
+              },
+              {
+                "t": "p",
+                "x": "Voxelは、寝室の片づけやリモコン探しから花の水やりまで、面倒な家事を引き受けてくれるロボットだ。ただし、この便利さを手に入れるには財布のひもを大きく緩める必要がある。"
+              },
+              {
+                "t": "p",
+                "x": "これまでスマートホームといえばロボット掃除機やAIコンパニオンロボットが中心だったが、Tuesday LabsはVoxel Series 1で現代のロボットがはるかに役立つことを示そうとしている。ニューヨークを拠点とする（New York-based）同社は、二本の脚と二本の腕を持ち、人工知能の助けで多くの家事をこなすよう設計されたヒューマノイドロボットを開発した。"
+              },
+              {
+                "t": "p",
+                "x": "このロボットは家の中の物の定位置を学習し、自分で片づけられる。Voxel Series 1は植物への水やり、汚れの検知と掃除、食器の片づけもこなす。RGBカメラ二基と超広角カメラ二基で移動し、主に音声コマンドでユーザーとやり取りする。なくしたリモコンを探したり、ソファまで飲み物を運んだりといった具合だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+              },
+              {
+                "t": "p",
+                "x": "ヒューマノイド型ではあるが、そのデザインは実際の人間には似ていない。Tuesday Labsは黄色と茶色の角張った筐体を採用し、カメラは茶色のカバーの裏に隠している。胴体の「目」とスピーカー開口部が顔を形づくり、ロボットに独特の愛嬌を与えている。"
+              },
+              {
+                "t": "p",
+                "x": "Tuesday Labsは発売当初、Voxel Series 1を米国（US）の顧客にのみ出荷する。対応する配送先住所があれば、今すぐ$200の手付金で予約できる。発売は2028年、価格は$20,000の見込みだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "双臂机器人\n能自己收拾家",
+          "body": "Tuesday Labs的Voxel Series 1用AI记住物品位置并收拾、浇花。",
+          "mini_headline": "Voxel 1来收拾家",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_nwhe_N-IvQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
+                "cap": "Tuesday Labs的新机器人旨在承担家务。"
+              },
+              {
+                "t": "p",
+                "x": "Voxel终于是一款能包揽恼人家务的机器人，从整理卧室、找遥控器到给花浇水都能做。但想享受这份便利，就得大方掏腰包。"
+              },
+              {
+                "t": "p",
+                "x": "迄今为止，智能家居大多局限于扫地机器人和AI陪伴机器人，而Tuesday Labs希望借Voxel Series 1证明现代机器人可以有用得多。这家总部位于纽约（New York-based）的机器人制造商开发了一款双腿双臂的人形机器人，旨在借助人工智能完成多种家务。"
+              },
+              {
+                "t": "p",
+                "x": "这款机器人能学会家中各种物品该放在哪里，然后自行整理。Voxel Series 1还能浇花、发现并清理污垢、把餐具收好。它依靠两个RGB摄像头和两个超广角摄像头导航，主要通过语音指令与用户互动，例如寻找放错地方的遥控器，或把饮料送到沙发边。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+              },
+              {
+                "t": "p",
+                "x": "虽然这款机器人是人形，但设计并不像真人。Tuesday Labs采用黄棕配色的棱角外壳，摄像头藏在棕色盖板之后。躯干上的“眼睛”与扬声器开孔组成一张脸，为机器人增添几分魅力。"
+              },
+              {
+                "t": "p",
+                "x": "Tuesday Labs在上市初期只向美国（US）用户发货Voxel Series 1。拥有合适收货地址的用户现在可支付$200定金预订。该机器人预计于2028年上市，售价$20,000。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un robot de dos brazos que\nordena la casa por sí solo",
+          "body": "Voxel Series 1, de Tuesday Labs, usa AI para aprender dónde va cada cosa y ordena, riega plantas y limpia suciedad.",
+          "mini_headline": "Voxel 1 ordena la casa",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "video",
+                "yt": "_nwhe_N-IvQ"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
+                "cap": "El nuevo robot de Tuesday Labs está diseñado para ocuparse de las tareas domésticas."
+              },
+              {
+                "t": "p",
+                "x": "Voxel es, por fin, un robot que se encarga de las molestas tareas del hogar, desde ordenar el dormitorio y encontrar el control remoto hasta regar las flores. Pero quien quiera esta comodidad tendrá que hacer un gran desembolso."
+              },
+              {
+                "t": "p",
+                "x": "Hasta ahora, los hogares inteligentes se han limitado en gran medida a robots aspiradores y robots de compañía con AI, pero con Voxel Series 1 Tuesday Labs quiere demostrar que los robots modernos pueden ser mucho más útiles. El fabricante de robots con sede en Nueva York (New York-based) ha desarrollado un robot humanoide con dos piernas y dos brazos diseñado para encargarse de muchas tareas domésticas con ayuda de la inteligencia artificial."
+              },
+              {
+                "t": "p",
+                "x": "El robot puede aprender dónde va cada objeto de la casa y luego ordenar por su cuenta. Voxel Series 1 también puede regar plantas, detectar y limpiar suciedad y guardar los platos. Se orienta con dos cámaras RGB y dos cámaras ultra gran angular, e interactúa con el usuario principalmente mediante comandos de voz, por ejemplo para buscar un control remoto extraviado o llevar una bebida al sofá."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+              },
+              {
+                "t": "p",
+                "x": "Aunque el robot tiene forma humanoide, su diseño no se parece al de una persona real. Tuesday Labs usa una carcasa angulosa en amarillo y marrón, con las cámaras ocultas tras una cubierta marrón. Los «ojos» del torso, junto con una abertura para el altavoz, forman una cara pensada para darle cierto encanto."
+              },
+              {
+                "t": "p",
+                "x": "Tuesday Labs solo enviará Voxel Series 1 a clientes de Estados Unidos (US) en el lanzamiento. Quien tenga una dirección de entrega adecuada puede reservar el robot ya con un depósito de $200. Se espera que llegue en 2028 a un precio de $20,000."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "gadgets-garmin-ciq-ai-slop",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Garmin 앱 스토어,\n저품질 AI 범람에 긴장",
+      "body": "Garmin Connect IQ에 AI-generated 앱 범람 우려가 나온다.",
+      "mini_headline": "Garmin, 저품질 AI에 직면",
+      "tool": "Gadgets",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/health-fitness/fitness-trackers/poorly-made-ai-generated-watch-faces-will-consume-everything-garmins-connect-iq-store-has-been-hit-by-an-enormous-influx-of-submissions-and-garmin-users-could-soon-be-grappling-with-a-wave-of-ai-slop",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -1205,461 +1507,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
+            "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "Apple이 오래 기다려 온 스마트 홈 디스플레이 HomeView를 $299에 발표했다. 개발 기간이 꽤 길었는데, 더 똑똑한 Siri가 계속 늦어진 탓에 발목이 잡혔다."
+            "x": "Garmin의 Connect IQ에 골칫거리가 생겼다. 머지않아 스토어에서 앱이나 워치 페이스 하나 받으려 해도 저품질 AI 생성(AI-generated) 제출물 수천 개를 헤치고 지나가야 할지 모른다."
           },
           {
             "t": "p",
-            "x": "제품이 나오자 걱정하는 고객도 생겼다. 여러 사람이 둘러앉은 테이블에 HomeView를 두면 직접 이리저리 옮겨야 한다는 점 때문이다. Power On 뉴스레터에 따르면 Apple의 해법은 머지않아 나올 수도 있다."
+            "x": "Garmin 포럼에서는 개발자들의 불만이 쏟아진다. 보통 1-2일이면 끝나던 제출 심사가 이제 최대 13일까지 걸린다는 것이다. Connect IQ 담당자는 “버그 때문이 아니다. 지난 한 달 동안 앱 제출이 엄청나게 몰렸고 줄어들 기미도 없다. 최대한 빨리 승인을 처리하고 있다”고 답했다."
           },
-          {
-            "t": "p",
-            "x": "Bloomberg의 Mark Gurman에 따르면 코드명 J595인 성능 강화형 HomeView는 2027년 또는 2028년 출시가 목표다. 생김새는 지금 HomeView와 비슷하다. 다만 화면이 약 9인치(7인치에서 확대)로 커지고 디스플레이를 360도 완전히 돌리는 전동 로봇 팔이 붙는다. 음성 인식으로 말하는 사람을 알아보고 그쪽으로 돌아서게 설계됐다."
-          },
-          {
-            "t": "p",
-            "x": "HomeView를 대체하는 게 아니라 라인업 위쪽에 서는 상위 모델이다. 같은 $299 가격대는 기대하지 않는 편이 좋다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Apple's next HomeView may add\na robotic arm next year",
-          "body": "A report says Apple's next HomeView could arrive as soon as next year with a robotic arm, after the $299 original.",
-          "mini_headline": "Next HomeView may\nget a robotic arm",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple just announced its long awaited smart home display: HomeView, and it's available for $299. That said, the product has been in development for quite some time, being held back by all of the delays with developing a smarter Siri."
-              },
-              {
-                "t": "p",
-                "x": "Now that it's on the market, some customers have had concern about the fact that you have to move the HomeView around yourself if its on a table with multiple people surrounding it. According to the Power On newsletter, it might not be too long before Apple has a solution."
-              },
-              {
-                "t": "p",
-                "x": "According to Bloomberg's Mark Gurman, a souped-up HomeView, code-named J595, is planned for release in 2027 or 2028. It looks like the current HomeView but has a roughly 9-inch screen (up from 7 inches) and a motorized robotic arm that lets the display swivel a full 360 degrees. Using voice recognition, it is designed to identify who's speaking and turn toward that person."
-              },
-              {
-                "t": "p",
-                "x": "This won't replace the HomeView, and will instead serve as a higher end model in the lineup. So, don't expect it at the same $299 price point."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "차기 HomeView에\n내년 로봇 팔 달리나",
-          "body": "$299 HomeView의 후속작이 이르면 내년 로봇 팔을 달 전망이다.",
-          "mini_headline": "차기 HomeView, 로봇 팔 달까",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple이 오래 기다려 온 스마트 홈 디스플레이 HomeView를 $299에 발표했다. 개발 기간이 꽤 길었는데, 더 똑똑한 Siri가 계속 늦어진 탓에 발목이 잡혔다."
-              },
-              {
-                "t": "p",
-                "x": "제품이 나오자 걱정하는 고객도 생겼다. 여러 사람이 둘러앉은 테이블에 HomeView를 두면 직접 이리저리 옮겨야 한다는 점 때문이다. Power On 뉴스레터에 따르면 Apple의 해법은 머지않아 나올 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Bloomberg의 Mark Gurman에 따르면 코드명 J595인 성능 강화형 HomeView는 2027년 또는 2028년 출시가 목표다. 생김새는 지금 HomeView와 비슷하다. 다만 화면이 약 9인치(7인치에서 확대)로 커지고 디스플레이를 360도 완전히 돌리는 전동 로봇 팔이 붙는다. 음성 인식으로 말하는 사람을 알아보고 그쪽으로 돌아서게 설계됐다."
-              },
-              {
-                "t": "p",
-                "x": "HomeView를 대체하는 게 아니라 라인업 위쪽에 서는 상위 모델이다. 같은 $299 가격대는 기대하지 않는 편이 좋다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "次期HomeView、\n来年ロボットアーム搭載か",
-          "body": "$299の初代に続くApple次期HomeViewは来年にもロボットアームを備えるという。",
-          "mini_headline": "次期HomeViewにロボットアームか",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Appleは待望のスマートホームディスプレイ「HomeView」を発表し、価格は$299だ。ただ、この製品はかなり前から開発が続いており、より賢いSiriの開発が遅れ続けたことで足止めされていた。"
-              },
-              {
-                "t": "p",
-                "x": "発売を受けて、複数の人が囲むテーブルに置いた場合、HomeViewを自分で動かさなければならない点を懸念する顧客も出ている。Power Onニュースレターによれば、Appleが解決策を出すまでそう長くはかからないかもしれない。"
-              },
-              {
-                "t": "p",
-                "x": "BloombergのMark Gurmanによると、コードネームJ595の強化版HomeViewが2027年か2028年の発売に向けて計画されている。見た目は現行のHomeViewに似ているが、画面は約9インチ(7インチから拡大)となり、ディスプレイを360度回転させる電動ロボットアームを備える。音声認識で話している人を特定し、その人のほうへ向くよう設計されている。"
-              },
-              {
-                "t": "p",
-                "x": "これはHomeViewを置き換えるものではなく、ラインアップの上位モデルとなる。そのため、同じ$299の価格は期待しないほうがいい。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "下一代HomeView\n明年或加装机械臂",
-          "body": "报道称，继$299的初代之后，Apple下一代HomeView最早明年将配备机械臂。",
-          "mini_headline": "下一代HomeView或配机械臂",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple刚刚发布了期待已久的智能家居显示屏HomeView，售价$299。不过，这款产品已开发了相当长的时间，一直因更智能的Siri开发屡屡延误而受阻。"
-              },
-              {
-                "t": "p",
-                "x": "产品上市后，一些顾客担心：如果把HomeView放在多人围坐的桌子上，就得自己动手挪动它。据Power On通讯报道，Apple可能很快就会拿出解决方案。"
-              },
-              {
-                "t": "p",
-                "x": "据Bloomberg的Mark Gurman称，一款代号J595的升级版HomeView计划于2027年或2028年发布。它外观与现款HomeView相似，但屏幕约9英寸（从7英寸增大），并配有电动机械臂，可让显示屏完整旋转360度。它的设计是通过语音识别判断说话者，并转向此人。"
-              },
-              {
-                "t": "p",
-                "x": "它不会取代HomeView，而是作为产品线中的高端型号。因此，别指望它也是$299的价位。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El próximo HomeView de Apple\npodría sumar un brazo robótico",
-          "body": "Según un informe, el sucesor del HomeView de $299 de Apple podría llegar el año próximo con un brazo robótico.",
-          "mini_headline": "El próximo HomeView, con brazo robótico",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple acaba de anunciar su esperada pantalla para el hogar inteligente, HomeView, que cuesta $299. Dicho esto, el producto llevaba bastante tiempo en desarrollo, frenado por todos los retrasos en el desarrollo de un Siri más inteligente."
-              },
-              {
-                "t": "p",
-                "x": "Ahora que está a la venta, a algunos clientes les preocupa tener que mover el HomeView ellos mismos si está en una mesa rodeada de varias personas. Según el boletín Power On, puede que Apple no tarde mucho en tener una solución."
-              },
-              {
-                "t": "p",
-                "x": "Según Mark Gurman, de Bloomberg, un HomeView mejorado, con el nombre en clave J595, está previsto para 2027 o 2028. Se parece al HomeView actual, pero tiene una pantalla de unas 9 pulgadas (frente a 7) y un brazo robótico motorizado que permite girar la pantalla 360 grados completos. Mediante reconocimiento de voz, está diseñado para identificar quién habla y girarse hacia esa persona."
-              },
-              {
-                "t": "p",
-                "x": "No sustituirá al HomeView, sino que será un modelo de gama más alta dentro de la línea. Así que no conviene esperar el mismo precio de $299."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "차기 HomeView에\n내년 로봇 팔 달리나",
-          "body": "$299 HomeView의 후속작이 이르면 내년 로봇 팔을 달 전망이다.",
-          "mini_headline": "차기 HomeView, 로봇 팔 달까",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple이 오래 기다려 온 스마트 홈 디스플레이 HomeView를 발표했고, 가격은 $299다. 다만 이 제품은 꽤 오랫동안 개발돼 왔으며, 더 똑똑한 Siri 개발이 계속 늦어지면서 발목이 잡혀 있었다."
-              },
-              {
-                "t": "p",
-                "x": "제품이 시장에 나오자, 여러 사람이 둘러싼 테이블에 HomeView를 두면 직접 이리저리 옮겨야 한다는 점을 걱정하는 고객도 생겼다. Power On 뉴스레터에 따르면 Apple이 해법을 내놓기까지 그리 오래 걸리지 않을 수도 있다."
-              },
-              {
-                "t": "p",
-                "x": "Bloomberg의 Mark Gurman에 따르면, 코드명 J595인 성능 강화형 HomeView가 2027년 또는 2028년 출시를 목표로 한다. 외형은 현재 HomeView와 비슷하지만 화면이 약 9인치(7인치에서 확대)로 커지고, 디스플레이를 360도 완전히 돌릴 수 있는 전동 로봇 팔을 갖춘다. 음성 인식으로 말하는 사람을 알아보고 그쪽으로 돌아서도록 설계됐다."
-              },
-              {
-                "t": "p",
-                "x": "이 제품은 HomeView를 대체하지 않고, 라인업의 상위 모델 역할을 맡는다. 따라서 같은 $299 가격대는 기대하지 않는 편이 좋다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "次期HomeView、\n来年ロボットアーム搭載か",
-          "body": "$299の初代に続くApple次期HomeViewは来年にもロボットアームを備えるという。",
-          "mini_headline": "次期HomeViewにロボットアームか",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Appleは待望のスマートホームディスプレイ「HomeView」を発表し、価格は$299だ。ただ、この製品はかなり前から開発が続いており、より賢いSiriの開発が遅れ続けたことで足止めされていた。"
-              },
-              {
-                "t": "p",
-                "x": "発売を受けて、複数の人が囲むテーブルに置いた場合、HomeViewを自分で動かさなければならない点を懸念する顧客も出ている。Power Onニュースレターによれば、Appleが解決策を出すまでそう長くはかからないかもしれない。"
-              },
-              {
-                "t": "p",
-                "x": "BloombergのMark Gurmanによると、コードネームJ595の強化版HomeViewが2027年か2028年の発売に向けて計画されている。見た目は現行のHomeViewに似ているが、画面は約9インチ(7インチから拡大)となり、ディスプレイを360度回転させる電動ロボットアームを備える。音声認識で話している人を特定し、その人のほうへ向くよう設計されている。"
-              },
-              {
-                "t": "p",
-                "x": "これはHomeViewを置き換えるものではなく、ラインアップの上位モデルとなる。そのため、同じ$299の価格は期待しないほうがいい。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "下一代HomeView\n明年或加装机械臂",
-          "body": "报道称，继$299的初代之后，Apple下一代HomeView最早明年将配备机械臂。",
-          "mini_headline": "下一代HomeView或配机械臂",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple刚刚发布了期待已久的智能家居显示屏HomeView，售价$299。不过，这款产品已开发了相当长的时间，一直因更智能的Siri开发屡屡延误而受阻。"
-              },
-              {
-                "t": "p",
-                "x": "产品上市后，一些顾客担心：如果把HomeView放在多人围坐的桌子上，就得自己动手挪动它。据Power On通讯报道，Apple可能很快就会拿出解决方案。"
-              },
-              {
-                "t": "p",
-                "x": "据Bloomberg的Mark Gurman称，一款代号J595的升级版HomeView计划于2027年或2028年发布。它外观与现款HomeView相似，但屏幕约9英寸（从7英寸增大），并配有电动机械臂，可让显示屏完整旋转360度。它的设计是通过语音识别判断说话者，并转向此人。"
-              },
-              {
-                "t": "p",
-                "x": "它不会取代HomeView，而是作为产品线中的高端型号。因此，别指望它也是$299的价位。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El próximo HomeView de Apple\npodría sumar un brazo robótico",
-          "body": "Según un informe, el sucesor del HomeView de $299 de Apple podría llegar el año próximo con un brazo robótico.",
-          "mini_headline": "El próximo HomeView, con brazo robótico",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&w=1600"
-              },
-              {
-                "t": "p",
-                "x": "Apple acaba de anunciar su esperada pantalla para el hogar inteligente, HomeView, que cuesta $299. Dicho esto, el producto llevaba bastante tiempo en desarrollo, frenado por todos los retrasos en el desarrollo de un Siri más inteligente."
-              },
-              {
-                "t": "p",
-                "x": "Ahora que está a la venta, a algunos clientes les preocupa tener que mover el HomeView ellos mismos si está en una mesa rodeada de varias personas. Según el boletín Power On, puede que Apple no tarde mucho en tener una solución."
-              },
-              {
-                "t": "p",
-                "x": "Según Mark Gurman, de Bloomberg, un HomeView mejorado, con el nombre en clave J595, está previsto para 2027 o 2028. Se parece al HomeView actual, pero tiene una pantalla de unas 9 pulgadas (frente a 7) y un brazo robótico motorizado que permite girar la pantalla 360 grados completos. Mediante reconocimiento de voz, está diseñado para identificar quién habla y girarse hacia esa persona."
-              },
-              {
-                "t": "p",
-                "x": "No sustituirá al HomeView, sino que será un modelo de gama más alta dentro de la línea. Así que no conviene esperar el mismo precio de $299."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "gadgets-repair-robot-data",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 연구소, 무료 수리로\n로봇 학습 데이터 확보",
-      "body": "AI 연구소 HUMXN은 배관·HVAC 수리비를 내주고 작업을 로봇용으로 찍는다.",
-      "mini_headline": "로봇을 가르치는 무료 수리",
-      "tool": "Gadgets",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
-      "accent": "#2ec5c5",
-      "motif": "headset",
-      "full": {
-        "mode": "summary",
-        "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+            "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
+            "cap": "Garmin Connect IQ 스토어 화면 (Image credit: Future)"
           },
           {
             "t": "p",
-            "x": "AI 데이터 연구소 HUMXN은 배관, 전기, HVAC, 에어덕트 청소, 카펫 청소 비용을 대 준다. 조건은 \"착용형 촬영 기술(wearable capture technology)\"을 갖춘 기술자가 집에서 일하도록 허락하는 것. 그러면 집주인은 이 작업을 공짜로 받는다."
+            "x": "TechRadar는 갑작스러운 과잉 공급의 배경으로 AI를 꼽는다. 쉽게 돈을 벌려고 바이브 코딩으로 만들었거나 AI가 생성한(AI-generated) 제품이라는 얘기다. 한 사용자는 “개발자별 업로드 빈도를 제한해야 한다. 조잡한 AI 생성(AI-generated) 워치 페이스가 모든 것을 잠식할 것”이라고 썼다. 다른 사용자는 스토어가 “발견 가능성을 해치는 성의 없고 반복적인 제출물로 점점 넘쳐나고 있다”고 했다."
           },
           {
             "t": "p",
-            "x": "\"로봇은 숙련된 사람이 물리적 세계와 어떻게 상호작용하는지 이해해야 한다\"고 창업자 Thomas Unise는 말했다. 실험실에서는 자연스러운 움직임을 담기 어렵다. 그래서 영상은 제각기 다른 집과 장비, 문제, 기술자를 아우르며 진단에서 도구 선택, 작업 완료 확인까지 전 과정을 담는다."
-          },
-          {
-            "t": "p",
-            "x": "서비스 전문가의 보수는 그대로다. 프로그램은 기후가 제각각인 Minneapolis, Chicago, Miami에서 시작한다. Tom's Hardware는 Meta, Nvidia, OpenAI 같은 연구소가 데이터를 가져갔다는 비판을 받아 온 터라 학습 데이터에 값을 치르는 방식이 신선하다고 평했다."
+            "x": "스토어에서 팔려고 연 $100를 내는 개발자에게도, 사람이 만든 페이스를 찾으려고 AI 슬롭을 헤집어야 하는 사용자에게도 반갑지 않은 일이다. Kindle Unlimited의 AI 생성(AI-generated) 전자책 때와 같은 양상이다. Garmin에는 입장을 요청해 둔 상태다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI lab trades free home repairs\nfor robot training data",
-          "body": "In three cities, AI lab HUMXN covers plumbing and HVAC repairs so technicians' wearable capture gear can record the work for robots.",
-          "mini_headline": "Free repairs that\ntrain robots",
+          "headline": "Garmin's app store braces\nfor a wave of AI slop",
+          "body": "A flood of new Connect IQ apps and watch faces has stirred fears of AI-generated slop in Garmin's store.",
+          "mini_headline": "Garmin faces AI slop",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI data lab HUMXN will subsidize plumbing, electrical, HVAC, air-duct cleaning and carpet cleaning, so homeowners get the work free in exchange for letting technicians with \"wearable capture technology\" work in their homes."
+                "x": "Garmin has a Connect IQ problem. Downloading apps and watch faces from the store may soon involve sifting through thousands of low-quality, AI-generated submissions."
               },
               {
                 "t": "p",
-                "x": "\"Robots need to understand how skilled people interact with the physical world,\" founder Thomas Unise said. Lab settings struggle to capture natural movement, so the footage spans different homes, equipment, problems and technicians, from diagnosis to tool choice to checking the job is done."
+                "x": "Developers are complaining on Garmin's forums that submission review, which typically takes 1-2 days, is now taking up to 13 days. A Connect IQ representative replied: \"This is not due to a bug — we have gotten an enormous influx of app submissions in the last month, with no signs of slowing down, and are working through approvals as quickly as we can.\""
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
+                "cap": "Garmin Connect IQ store screenshot (Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "Service pros still get paid. The program launches in Minneapolis, Chicago and Miami, picked for their different climates. Tom's Hardware calls paying for training data refreshing after labs like Meta, Nvidia and OpenAI were accused of taking data."
+                "x": "TechRadar argues the sudden glut points to AI — vibe-coded or AI-generated products designed to make a quick buck. One user wrote: \"You need to limit the upload frequency for each developer; those poorly made AI-generated watch faces will consume everything.\" Another said the store is \"increasingly flooded with low-effort, repetitive submissions that hurt discoverability.\""
+              },
+              {
+                "t": "p",
+                "x": "That's bad for developers, who pay $100 a year to sell on the store, and for users who must wade past AI slop to find human-made faces — the same pattern seen with AI-generated e-books on Kindle Unlimited. Garmin has been asked for comment."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 연구소, 무료 수리로\n로봇 학습 데이터 확보",
-          "body": "AI 연구소 HUMXN은 배관·HVAC 수리비를 내주고 작업을 로봇용으로 찍는다.",
-          "mini_headline": "로봇을 가르치는 무료 수리",
+          "headline": "Garmin 앱 스토어,\n저품질 AI 범람에 긴장",
+          "body": "Garmin Connect IQ에 AI-generated 앱 범람 우려가 나온다.",
+          "mini_headline": "Garmin, 저품질 AI에 직면",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI 데이터 연구소 HUMXN은 배관, 전기, HVAC, 에어덕트 청소, 카펫 청소 비용을 대 준다. 조건은 \"착용형 촬영 기술(wearable capture technology)\"을 갖춘 기술자가 집에서 일하도록 허락하는 것. 그러면 집주인은 이 작업을 공짜로 받는다."
+                "x": "Garmin의 Connect IQ에 골칫거리가 생겼다. 머지않아 스토어에서 앱이나 워치 페이스 하나 받으려 해도 저품질 AI 생성(AI-generated) 제출물 수천 개를 헤치고 지나가야 할지 모른다."
               },
               {
                 "t": "p",
-                "x": "\"로봇은 숙련된 사람이 물리적 세계와 어떻게 상호작용하는지 이해해야 한다\"고 창업자 Thomas Unise는 말했다. 실험실에서는 자연스러운 움직임을 담기 어렵다. 그래서 영상은 제각기 다른 집과 장비, 문제, 기술자를 아우르며 진단에서 도구 선택, 작업 완료 확인까지 전 과정을 담는다."
+                "x": "Garmin 포럼에서는 개발자들의 불만이 쏟아진다. 보통 1-2일이면 끝나던 제출 심사가 이제 최대 13일까지 걸린다는 것이다. Connect IQ 담당자는 “버그 때문이 아니다. 지난 한 달 동안 앱 제출이 엄청나게 몰렸고 줄어들 기미도 없다. 최대한 빨리 승인을 처리하고 있다”고 답했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
+                "cap": "Garmin Connect IQ 스토어 화면 (Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "서비스 전문가의 보수는 그대로다. 프로그램은 기후가 제각각인 Minneapolis, Chicago, Miami에서 시작한다. Tom's Hardware는 Meta, Nvidia, OpenAI 같은 연구소가 데이터를 가져갔다는 비판을 받아 온 터라 학습 데이터에 값을 치르는 방식이 신선하다고 평했다."
+                "x": "TechRadar는 갑작스러운 과잉 공급의 배경으로 AI를 꼽는다. 쉽게 돈을 벌려고 바이브 코딩으로 만들었거나 AI가 생성한(AI-generated) 제품이라는 얘기다. 한 사용자는 “개발자별 업로드 빈도를 제한해야 한다. 조잡한 AI 생성(AI-generated) 워치 페이스가 모든 것을 잠식할 것”이라고 썼다. 다른 사용자는 스토어가 “발견 가능성을 해치는 성의 없고 반복적인 제출물로 점점 넘쳐나고 있다”고 했다."
+              },
+              {
+                "t": "p",
+                "x": "스토어에서 팔려고 연 $100를 내는 개발자에게도, 사람이 만든 페이스를 찾으려고 AI 슬롭을 헤집어야 하는 사용자에게도 반갑지 않은 일이다. Kindle Unlimited의 AI 생성(AI-generated) 전자책 때와 같은 양상이다. Garmin에는 입장을 요청해 둔 상태다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIラボが無料修理で\nロボット学習データ収集",
-          "body": "AIラボHUMXNは三都市で配管やHVACの修理費を負担し、作業をロボット用に記録する。",
-          "mini_headline": "ロボットを鍛える無料修理",
+          "headline": "Garminのアプリストア\n低品質AIの波に備える",
+          "body": "Connect IQアプリ急増でGarminにAI-generated粗悪品の懸念が出た。",
+          "mini_headline": "Garminに低品質AIの波",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AIデータラボのHUMXNは、配管、電気、HVAC、エアダクト清掃、カーペット清掃の費用を補助する。住宅所有者は、「ウェアラブル・キャプチャー技術」を身につけた技術者が自宅で作業することを認める代わりに、無料で作業を受けられる。"
+                "x": "GarminのConnect IQに問題が起きている。ストアでアプリやウォッチフェイスをダウンロードするには、近いうちに数千もの低品質なAI生成（AI-generated）の投稿をかき分けなければならなくなるかもしれない。"
               },
               {
                 "t": "p",
-                "x": "「ロボットは、熟練した人が物理世界とどう関わっているかを理解する必要がある」と創業者のThomas Uniseは語る。実験室では自然な動きを捉えにくいため、映像はさまざまな住宅、設備、問題、技術者にわたり、診断から道具選び、作業完了の確認までを収める。"
+                "x": "開発者たちはGarminのフォーラムで、通常1-2日で終わる審査が今では最大13日かかっていると不満を訴えている。Connect IQの担当者は「バグによるものではない。ここひと月でアプリの申請が殺到しており、減る気配もない。できる限り早く承認を進めている」と回答した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
+                "cap": "Garmin Connect IQストアのスクリーンショット（Image credit: Future）"
               },
               {
                 "t": "p",
-                "x": "サービス業者には引き続き報酬が支払われる。プログラムは、気候の異なるMinneapolis、Chicago、Miamiで始まる。Tom's Hardwareは、Meta、Nvidia、OpenAIなどのラボがデータを持ち去ったと非難されてきた中で、訓練データに対価を払うのは新鮮だと評している。"
+                "x": "TechRadarは、急な供給過多の背景にAIがあると指摘する。手早く稼ぐために作られた、バイブコーディングやAI生成（AI-generated）の製品だというのだ。あるユーザーは「開発者ごとのアップロード頻度を制限すべきだ。粗雑なAI生成（AI-generated）のウォッチフェイスがすべてを埋め尽くしてしまう」と書き込んだ。別のユーザーは、ストアが「見つけやすさを損なう、手抜きで似たような投稿でますますあふれている」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "これはストアで販売するために年$100を払う開発者にとっても、人の手によるフェイスを見つけるためにAIスロップをかき分けなければならないユーザーにとっても好ましくない。Kindle UnlimitedでのAI生成（AI-generated）電子書籍と同じ構図だ。Garminにはコメントを求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI实验室用免费维修\n换机器人训练数据",
-          "body": "在三座城市，AI实验室HUMXN承担水管和HVAC维修费，让技工穿戴设备为机器人记录作业。",
-          "mini_headline": "训练机器人的免费维修",
+          "headline": "Garmin应用商店\n面临AI垃圾内容潮",
+          "body": "Connect IQ新应用激增，引发Garmin商店AI-generated垃圾之忧。",
+          "mini_headline": "Garmin遭遇AI垃圾潮",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI数据实验室HUMXN将补贴水管、电气、HVAC、风管清洁和地毯清洁服务，房主只要允许配备“可穿戴采集技术”的技工在家中作业，就能免费获得这些服务。"
+                "x": "Garmin的Connect IQ出了问题。用户很快可能要在数以千计的低质量AI生成（AI-generated）投稿中翻找，才能从商店下载应用和表盘。"
               },
               {
                 "t": "p",
-                "x": "“机器人需要理解熟练的人如何与物理世界互动，”创始人Thomas Unise说。实验室环境难以捕捉自然动作，因此这些影像涵盖不同的住宅、设备、问题和技工，从诊断、选择工具到确认完工全程记录。"
+                "x": "开发者在Garmin论坛上抱怨，通常需要1-2天的提交审核如今最长要13天。Connect IQ代表回复称：“这不是程序错误导致的——上个月以来我们收到了海量的应用提交，且没有放缓迹象，我们正在尽快处理审批。”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
+                "cap": "Garmin Connect IQ商店截图（Image credit: Future）"
               },
               {
                 "t": "p",
-                "x": "服务人员照常获得报酬。该计划将在Minneapolis、Chicago和Miami启动，选中它们是因为气候各不相同。Tom's Hardware认为，在Meta、Nvidia和OpenAI等实验室被指拿走数据之后，为训练数据付费令人耳目一新。"
+                "x": "TechRadar认为，这股突如其来的泛滥指向AI——为了快速赚钱而用氛围编程或AI生成（AI-generated）的产品。一位用户写道：“需要限制每位开发者的上传频率，那些粗制滥造的AI生成（AI-generated）表盘会吞噬一切。”另一位用户表示，商店“越来越多地充斥着敷衍、重复的投稿，影响了可发现性”。"
+              },
+              {
+                "t": "p",
+                "x": "这对每年支付$100在商店销售的开发者不利，对必须绕过AI垃圾才能找到人工制作表盘的用户也不利——Kindle Unlimited上的AI生成（AI-generated）电子书也是同样的情况。Garmin已被请求置评。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Reparaciones gratis a cambio\nde datos para entrenar robots",
-          "body": "En tres ciudades, el laboratorio de AI HUMXN paga reparaciones de fontanería y HVAC para grabarlas para robots.",
-          "mini_headline": "Reparaciones gratis que entrenan robots",
+          "headline": "La tienda de apps de Garmin\nteme una ola de basura de AI",
+          "body": "Una avalancha de apps y esferas en Connect IQ despierta el temor a basura AI-generated en la tienda de Garmin.",
+          "mini_headline": "Garmin ante la basura de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "El laboratorio de datos de AI HUMXN subvencionará fontanería, electricidad, HVAC, limpieza de conductos de aire y limpieza de alfombras, de modo que los propietarios reciben el servicio gratis a cambio de dejar trabajar en sus casas a técnicos con \"tecnología de captura portátil\"."
+                "x": "Garmin tiene un problema con Connect IQ. Descargar apps y esferas de la tienda podría obligar pronto a rebuscar entre miles de envíos de baja calidad generados por AI (AI-generated)."
               },
               {
                 "t": "p",
-                "x": "\"Los robots necesitan entender cómo interactúan las personas cualificadas con el mundo físico\", dijo el fundador, Thomas Unise. En un laboratorio cuesta captar el movimiento natural, así que las grabaciones abarcan distintos hogares, equipos, problemas y técnicos, desde el diagnóstico hasta la elección de herramientas y la comprobación de que el trabajo está terminado."
+                "x": "Los desarrolladores se quejan en los foros de Garmin de que la revisión de envíos, que suele tardar 1-2 días, ahora tarda hasta 13 días. Un representante de Connect IQ respondió: «No se debe a un error: en el último mes hemos recibido una enorme avalancha de envíos de apps, sin señales de que disminuya, y estamos tramitando las aprobaciones lo más rápido posible»."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
+                "cap": "Captura de pantalla de la tienda Garmin Connect IQ (Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "Los profesionales del servicio siguen cobrando. El programa arranca en Minneapolis, Chicago y Miami, elegidas por sus climas distintos. Tom's Hardware considera refrescante que se pague por los datos de entrenamiento, después de que laboratorios como Meta, Nvidia y OpenAI fueran acusados de apropiarse de datos."
+                "x": "TechRadar sostiene que el repentino exceso apunta a la AI: productos hechos con vibe coding o generados por AI (AI-generated) para ganar dinero rápido. Un usuario escribió: «Hay que limitar la frecuencia de subida de cada desarrollador; esas esferas mal hechas generadas por AI (AI-generated) lo van a acaparar todo». Otro dijo que la tienda está «cada vez más inundada de envíos repetitivos y de poco esfuerzo que perjudican la visibilidad»."
+              },
+              {
+                "t": "p",
+                "x": "Eso perjudica a los desarrolladores, que pagan $100 al año por vender en la tienda, y a los usuarios, que deben sortear la basura de AI para encontrar esferas hechas por personas: el mismo patrón que se vio con los libros electrónicos generados por AI (AI-generated) en Kindle Unlimited. Se ha pedido a Garmin un comentario."
               }
             ]
           }
@@ -1667,105 +1711,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 연구소, 무료 수리로\n로봇 학습 데이터 확보",
-          "body": "AI 연구소 HUMXN은 배관·HVAC 수리비를 내주고 작업을 로봇용으로 찍는다.",
-          "mini_headline": "로봇을 가르치는 무료 수리",
+          "headline": "Garmin 앱 스토어,\n저품질 AI 범람에 긴장",
+          "body": "Garmin Connect IQ에 AI-generated 앱 범람 우려가 나온다.",
+          "mini_headline": "Garmin, 저품질 AI에 직면",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI 데이터 연구소 HUMXN은 배관, 전기, HVAC, 에어덕트 청소, 카펫 청소 비용을 지원한다. 집주인은 \"착용형 촬영 기술(wearable capture technology)\"을 갖춘 기술자가 집에서 일하도록 허락하는 대가로 이 작업을 무료로 받는다."
+                "x": "Garmin의 Connect IQ에 문제가 생겼다. 머지않아 스토어에서 앱과 워치 페이스를 내려받으려면 수천 개의 저품질 AI 생성(AI-generated) 제출물을 헤쳐 나가야 할지도 모른다."
               },
               {
                 "t": "p",
-                "x": "\"로봇은 숙련된 사람이 물리적 세계와 어떻게 상호작용하는지 이해해야 한다\"고 창업자 Thomas Unise는 말했다. 실험실 환경에서는 자연스러운 움직임을 담기 어렵기 때문에, 영상은 서로 다른 집과 장비, 문제, 기술자를 아우르며 진단부터 도구 선택, 작업 완료 확인까지 담는다."
+                "x": "개발자들은 Garmin 포럼에서 보통 1-2일 걸리던 제출 심사가 이제 최대 13일까지 걸린다고 불만을 제기하고 있다. Connect IQ 담당자는 “버그 때문이 아니다. 지난 한 달 동안 앱 제출이 엄청나게 몰렸고 줄어들 기미도 없다. 최대한 빨리 승인을 처리하고 있다”고 답했다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
+                "cap": "Garmin Connect IQ 스토어 화면 (Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "서비스 전문가는 그대로 보수를 받는다. 프로그램은 기후가 서로 다른 Minneapolis, Chicago, Miami에서 시작한다. Tom's Hardware는 Meta, Nvidia, OpenAI 같은 연구소가 데이터를 가져갔다는 비판을 받아 온 만큼, 학습 데이터에 돈을 내는 방식이 신선하다고 평했다."
+                "x": "TechRadar는 갑작스러운 과잉 공급의 배경에 AI가 있다고 본다. 손쉽게 돈을 벌려고 바이브 코딩으로 만들었거나 AI가 생성한(AI-generated) 제품이라는 얘기다. 한 사용자는 “개발자별 업로드 빈도를 제한해야 한다. 조잡한 AI 생성(AI-generated) 워치 페이스가 모든 것을 잠식할 것”이라고 썼다. 다른 사용자는 스토어가 “발견 가능성을 해치는 성의 없고 반복적인 제출물로 점점 넘쳐나고 있다”고 했다."
+              },
+              {
+                "t": "p",
+                "x": "이는 스토어에서 판매하려고 연 $100를 내는 개발자에게도, 사람이 만든 페이스를 찾으려고 AI 슬롭을 헤쳐 나가야 하는 사용자에게도 나쁜 일이다. Kindle Unlimited의 AI 생성(AI-generated) 전자책에서 나타난 것과 같은 양상이다. Garmin에는 입장을 요청한 상태다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIラボが無料修理で\nロボット学習データ収集",
-          "body": "AIラボHUMXNは三都市で配管やHVACの修理費を負担し、作業をロボット用に記録する。",
-          "mini_headline": "ロボットを鍛える無料修理",
+          "headline": "Garminのアプリストア\n低品質AIの波に備える",
+          "body": "Connect IQアプリ急増でGarminにAI-generated粗悪品の懸念が出た。",
+          "mini_headline": "Garminに低品質AIの波",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AIデータラボのHUMXNは、配管、電気、HVAC、エアダクト清掃、カーペット清掃の費用を補助する。住宅所有者は、「ウェアラブル・キャプチャー技術」を身につけた技術者が自宅で作業することを認める代わりに、無料で作業を受けられる。"
+                "x": "GarminのConnect IQに問題が起きている。ストアでアプリやウォッチフェイスをダウンロードするには、近いうちに数千もの低品質なAI生成（AI-generated）の投稿をかき分けなければならなくなるかもしれない。"
               },
               {
                 "t": "p",
-                "x": "「ロボットは、熟練した人が物理世界とどう関わっているかを理解する必要がある」と創業者のThomas Uniseは語る。実験室では自然な動きを捉えにくいため、映像はさまざまな住宅、設備、問題、技術者にわたり、診断から道具選び、作業完了の確認までを収める。"
+                "x": "開発者たちはGarminのフォーラムで、通常1-2日で終わる審査が今では最大13日かかっていると不満を訴えている。Connect IQの担当者は「バグによるものではない。ここひと月でアプリの申請が殺到しており、減る気配もない。できる限り早く承認を進めている」と回答した。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
+                "cap": "Garmin Connect IQストアのスクリーンショット（Image credit: Future）"
               },
               {
                 "t": "p",
-                "x": "サービス業者には引き続き報酬が支払われる。プログラムは、気候の異なるMinneapolis、Chicago、Miamiで始まる。Tom's Hardwareは、Meta、Nvidia、OpenAIなどのラボがデータを持ち去ったと非難されてきた中で、訓練データに対価を払うのは新鮮だと評している。"
+                "x": "TechRadarは、急な供給過多の背景にAIがあると指摘する。手早く稼ぐために作られた、バイブコーディングやAI生成（AI-generated）の製品だというのだ。あるユーザーは「開発者ごとのアップロード頻度を制限すべきだ。粗雑なAI生成（AI-generated）のウォッチフェイスがすべてを埋め尽くしてしまう」と書き込んだ。別のユーザーは、ストアが「見つけやすさを損なう、手抜きで似たような投稿でますますあふれている」と述べた。"
+              },
+              {
+                "t": "p",
+                "x": "これはストアで販売するために年$100を払う開発者にとっても、人の手によるフェイスを見つけるためにAIスロップをかき分けなければならないユーザーにとっても好ましくない。Kindle UnlimitedでのAI生成（AI-generated）電子書籍と同じ構図だ。Garminにはコメントを求めている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI实验室用免费维修\n换机器人训练数据",
-          "body": "在三座城市，AI实验室HUMXN承担水管和HVAC维修费，让技工穿戴设备为机器人记录作业。",
-          "mini_headline": "训练机器人的免费维修",
+          "headline": "Garmin应用商店\n面临AI垃圾内容潮",
+          "body": "Connect IQ新应用激增，引发Garmin商店AI-generated垃圾之忧。",
+          "mini_headline": "Garmin遭遇AI垃圾潮",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "AI数据实验室HUMXN将补贴水管、电气、HVAC、风管清洁和地毯清洁服务，房主只要允许配备“可穿戴采集技术”的技工在家中作业，就能免费获得这些服务。"
+                "x": "Garmin的Connect IQ出了问题。用户很快可能要在数以千计的低质量AI生成（AI-generated）投稿中翻找，才能从商店下载应用和表盘。"
               },
               {
                 "t": "p",
-                "x": "“机器人需要理解熟练的人如何与物理世界互动，”创始人Thomas Unise说。实验室环境难以捕捉自然动作，因此这些影像涵盖不同的住宅、设备、问题和技工，从诊断、选择工具到确认完工全程记录。"
+                "x": "开发者在Garmin论坛上抱怨，通常需要1-2天的提交审核如今最长要13天。Connect IQ代表回复称：“这不是程序错误导致的——上个月以来我们收到了海量的应用提交，且没有放缓迹象，我们正在尽快处理审批。”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
+                "cap": "Garmin Connect IQ商店截图（Image credit: Future）"
               },
               {
                 "t": "p",
-                "x": "服务人员照常获得报酬。该计划将在Minneapolis、Chicago和Miami启动，选中它们是因为气候各不相同。Tom's Hardware认为，在Meta、Nvidia和OpenAI等实验室被指拿走数据之后，为训练数据付费令人耳目一新。"
+                "x": "TechRadar认为，这股突如其来的泛滥指向AI——为了快速赚钱而用氛围编程或AI生成（AI-generated）的产品。一位用户写道：“需要限制每位开发者的上传频率，那些粗制滥造的AI生成（AI-generated）表盘会吞噬一切。”另一位用户表示，商店“越来越多地充斥着敷衍、重复的投稿，影响了可发现性”。"
+              },
+              {
+                "t": "p",
+                "x": "这对每年支付$100在商店销售的开发者不利，对必须绕过AI垃圾才能找到人工制作表盘的用户也不利——Kindle Unlimited上的AI生成（AI-generated）电子书也是同样的情况。Garmin已被请求置评。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Reparaciones gratis a cambio\nde datos para entrenar robots",
-          "body": "En tres ciudades, el laboratorio de AI HUMXN paga reparaciones de fontanería y HVAC para grabarlas para robots.",
-          "mini_headline": "Reparaciones gratis que entrenan robots",
+          "headline": "La tienda de apps de Garmin\nteme una ola de basura de AI",
+          "body": "Una avalancha de apps y esferas en Connect IQ despierta el temor a basura AI-generated en la tienda de Garmin.",
+          "mini_headline": "Garmin ante la basura de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png"
+                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "El laboratorio de datos de AI HUMXN subvencionará fontanería, electricidad, HVAC, limpieza de conductos de aire y limpieza de alfombras, de modo que los propietarios reciben el servicio gratis a cambio de dejar trabajar en sus casas a técnicos con \"tecnología de captura portátil\"."
+                "x": "Garmin tiene un problema con Connect IQ. Descargar apps y esferas de la tienda podría obligar pronto a rebuscar entre miles de envíos de baja calidad generados por AI (AI-generated)."
               },
               {
                 "t": "p",
-                "x": "\"Los robots necesitan entender cómo interactúan las personas cualificadas con el mundo físico\", dijo el fundador, Thomas Unise. En un laboratorio cuesta captar el movimiento natural, así que las grabaciones abarcan distintos hogares, equipos, problemas y técnicos, desde el diagnóstico hasta la elección de herramientas y la comprobación de que el trabajo está terminado."
+                "x": "Los desarrolladores se quejan en los foros de Garmin de que la revisión de envíos, que suele tardar 1-2 días, ahora tarda hasta 13 días. Un representante de Connect IQ respondió: «No se debe a un error: en el último mes hemos recibido una enorme avalancha de envíos de apps, sin señales de que disminuya, y estamos tramitando las aprobaciones lo más rápido posible»."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
+                "cap": "Captura de pantalla de la tienda Garmin Connect IQ (Image credit: Future)"
               },
               {
                 "t": "p",
-                "x": "Los profesionales del servicio siguen cobrando. El programa arranca en Minneapolis, Chicago y Miami, elegidas por sus climas distintos. Tom's Hardware considera refrescante que se pague por los datos de entrenamiento, después de que laboratorios como Meta, Nvidia y OpenAI fueran acusados de apropiarse de datos."
+                "x": "TechRadar sostiene que el repentino exceso apunta a la AI: productos hechos con vibe coding o generados por AI (AI-generated) para ganar dinero rápido. Un usuario escribió: «Hay que limitar la frecuencia de subida de cada desarrollador; esas esferas mal hechas generadas por AI (AI-generated) lo van a acaparar todo». Otro dijo que la tienda está «cada vez más inundada de envíos repetitivos y de poco esfuerzo que perjudican la visibilidad»."
+              },
+              {
+                "t": "p",
+                "x": "Eso perjudica a los desarrolladores, que pagan $100 al año por vender en la tienda, y a los usuarios, que deben sortear la basura de AI para encontrar esferas hechas por personas: el mismo patrón que se vio con los libros electrónicos generados por AI (AI-generated) en Kindle Unlimited. Se ha pedido a Garmin un comentario."
               }
             ]
           }

@@ -7980,6 +7980,124 @@
           "x": "Available today in ElevenCreative, ElevenMusic, and ElevenAPI."
         }
       ]
+    },
+    "music/music-believe-tunecore-ai-remix-optin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
+        },
+        {
+          "t": "p",
+          "x": "A licensing agreement announced October 20 lets participating Believe and TuneCore artists earn royalties from AI-powered fan remixes and covers on Spotify — artists choose to opt in."
+        },
+        {
+          "t": "p",
+          "x": "It covers Spotify’s upcoming tool for AI reinterpretations of existing songs, planned as a paid add-on for Premium subscribers, with streams generating royalties for participating artists and rights holders. The tool is meant for remixes and covers rather than entirely new works, and each remix links back to the original track and artist."
+        },
+        {
+          "t": "p",
+          "x": "Believe and TuneCore use a two-step consent process: artists and labels first decide whether to be considered for AI programs, then make a separate decision about the Spotify partnership. The deal is framed around Believe’s principles of consent, control, compensation and transparency."
+        },
+        {
+          "t": "p",
+          "x": "The announcement does not specify a launch date, the add-on price, royalty rates or how revenue will be divided — details that will determine how useful it is for independent music businesses."
+        }
+      ]
+    },
+    "music/music-pitchnet-free-pitch-editor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
+          "cap": "PitchNet"
+        },
+        {
+          "t": "p",
+          "x": "Session Loops has released PitchNet, a free, open-source vocal pitch editor for macOS, Windows and Linux — the second free Melodyne alternative covered this month, after bubblegum by Your Smile is Art."
+        },
+        {
+          "t": "p",
+          "x": "The workflow resembles Melodyne: PitchNet detects the notes in a vocal and shows them in a piano roll for pitch and timing edits, with note splitting, pitch-curve drawing and preview before exporting audio or MIDI. Unlike autotune plugins, it gives access to individual notes."
+        },
+        {
+          "t": "p",
+          "x": "Processing uses AI resynthesis, which the developer says produces smoother transitions and a more natural tone; the product page compares it with Melodyne on vocals shifted up three semitones."
+        },
+        {
+          "t": "video",
+          "yt": "Q0Ym2sMFB1A"
+        },
+        {
+          "t": "p",
+          "x": "ARA support lets compatible DAWs send audio to PitchNet while staying linked to the timeline, with a capture workflow for hosts without ARA. Installers are direct downloads with no account needed (v0.7.2, 158–222 MB); Windows and macOS need 8 GB RAM minimum, 16 GB recommended. Formats: VST3/AAX on Windows, VST3/AU/AAX on macOS 13+, VST3 and standalone on Linux."
+        }
+      ]
+    },
+    "music/music-afm-human-made-human-paid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
+          "cap": "The American Federation of Musicians rallies outside of New York’s Rockefeller Center."
+        },
+        {
+          "t": "p",
+          "x": "The American Federation of Musicians (AFM), the largest musicians union in the U.S. with more than 80,000 professional artists, is asking the major labels for contract safeguards as AI technology develops."
+        },
+        {
+          "t": "p",
+          "x": "On Tuesday it launched “Human Made, Human Paid,” an advocacy campaign ahead of November’s renegotiation of the Sound Recording Labor Agreement (SRLA). The AFM wants Universal, Sony, Warner and Hollywood Records (Disney) to give musicians the right to approve or refuse the use of their music to train AI models, transparent credit, and payment for both AI use and label licensing deals."
+        },
+        {
+          "t": "p",
+          "x": "“The record labels cannot pocket profits built on the backs of human artistry while cutting working musicians out of the equation. Human Made, Human Paid is about consent, credit, and compensation,” said AFM International President Tino Gagliardi."
+        },
+        {
+          "t": "p",
+          "x": "The union says the demands aren’t about villainizing AI but about keeping music a viable career: “We don’t want to stop the advancement of technology… We need more music in the world, not less.”"
+        }
+      ]
+    },
+    "music/music-just4kicks-ethical-kick-generator": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Just 4 Noise has launched Just 4 Kicks, an AI kick-drum sample generator. Your interest level will depend on how much use you have for kick-drum samples, but the launch reflects a wider, positive trend in AI music."
+        },
+        {
+          "t": "p",
+          "x": "Just 4 Noise says it trained the AI model on “fully owned, in-house created and curated audio data from the outset” – recording that dataset in studios around the world over a period of months to stick to its ethical principles."
+        }
+      ]
+    },
+    "music/music-gear-firmware-vibe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Custom firmware for hardware synths, samplers and grooveboxes has exploded, and almost all of it was made possible by increasingly sophisticated vibe-coding tools. Work that once took weeks or months, like adding velocity sensitivity to a Korg Volca, now takes hobbyists days."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Elektron's Model:Cycles, Digitone, Octatrack and Digitakt have gained new capabilities with Claude's help, and gear from Roland, Ableton, Akai, Novation, Arturia and Zoom has seen new custom firmware in the last month or so. Leading the charge is M-Vave's $70 FM-1 DX7 clone, which now has dozens of firmwares; popular ones such as Felucca, Sloop and x0x list Claude as a contributor or disclose AI use."
+        },
+        {
+          "t": "p",
+          "x": "Roman Rusinov turned a 2012 Zoom MS-70CDR pedal into an amp modeler running NAM captures. \"If you own the hardware, you should be able to do whatever you want with it,\" he said. 18nelli started Modded Cycles with Claude Code, beginning with six-track USB audio, and it grew into a community project."
+        },
+        {
+          "t": "p",
+          "x": "The firmwares are less tested than official ones. Elektron banned links to custom firmware from its forums, warning mods could brick machines, while M-Vave announced FM1 Open, an open-source firmware with a dev kit and flashing tool."
+        }
+      ]
     }
   }
 }

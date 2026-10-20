@@ -1,30 +1,31 @@
 {
-  "date": "2026-10-20",
-  "section": "movies",
-  "media": [
-    {
-      "id": "movies-premiere-enhance-stems",
-      "type": "image",
-      "src": "pipeline/media/movies-premiere-enhance-stems.png"
-    },
-    {
-      "id": "movies-sora-startup-handoff",
-      "type": "image",
-      "src": "pipeline/media/movies-sora-startup-handoff.jpg"
-    },
-    {
-      "id": "movies-lotte-kaica-run",
-      "type": "svg"
-    },
-    {
-      "id": "movies-tapnow-arena-seoul",
-      "type": "image",
-      "src": "pipeline/media/movies-tapnow-arena-seoul.jpg"
-    },
-    {
-      "id": "movies-bbc-ai-honesty",
-      "type": "image",
-      "src": "pipeline/media/movies-bbc-ai-honesty.jpg"
-    }
-  ]
+ "date": "2026-10-21",
+ "section": "movies",
+ "media": [
+  {
+   "id": "movies-sekondo-chatgpt-claude-adobe",
+   "type": "image",
+   "src": "pipeline/media/movies-sekondo-chatgpt-claude-adobe.jpg"
+  },
+  {
+   "id": "movies-wga-east-cloak-ai-shield",
+   "type": "image",
+   "src": "pipeline/media/movies-wga-east-cloak-ai-shield.jpg"
+  },
+  {
+   "id": "movies-microdramas-ai-two-thirds",
+   "type": "image",
+   "src": "pipeline/media/movies-microdramas-ai-two-thirds.jpg"
+  },
+  {
+   "id": "movies-runway-ceo-ai-actors-view",
+   "type": "image",
+   "src": "pipeline/media/movies-runway-ceo-ai-actors-view.jpg"
+  },
+  {
+   "id": "movies-japan-actors-union-ai-rules",
+   "type": "image",
+   "src": "pipeline/media/movies-japan-actors-union-ai-rules.jpg"
+  }
+ ]
 }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "games",
   "cards": [
     {
-      "id": "games-ludo-cli",
+      "id": "games-gemini-agents-ender-dragon",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ludo.ai, 게임 에셋\n터미널에서 만든다",
-      "body": "Ludo.ai CLI로 Claude Code가 스프라이트·3D·오디오를 만든다.",
-      "mini_headline": "Ludo.ai 에셋 CLI",
+      "headline": "도움 없이 Gemini가\nMinecraft 깼다",
+      "body": "Gemini 4 Argon 넷이 27시간여 만에 Ender Dragon을 잡았다.",
+      "mini_headline": "AI 에이전트,\nMinecraft 깼다",
       "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/ludo-ai-brings-ai-game-asset-creation-into-the-developer-terminal-with-new-cli/",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/google-ai-agents-killed-ender-dragon-minecraft",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,197 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
+            "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
           },
           {
             "t": "p",
-            "x": "Ludo.ai가 Ludo CLI를 내놓았다. 브라우저를 열지 않고도 명령줄에서 Ludo.ai의 AI 게임 에셋 제작 도구를 바로 쓸 수 있다."
+            "x": "Google 연구진이 논문 하나를 공개했다. Google Gemini 4 Argon AI 에이전트 네 개가 사람 도움 없이 Minecraft를 깼다는 내용이다. Ender Dragon을 쓰러뜨리기까지 27시간 남짓 걸렸고, 세계 최초로 꼽힌다."
           },
           {
             "t": "p",
-            "x": "1인 개발자와 소규모 스튜디오, Claude Code 같은 코딩 에이전트가 터미널에서 스프라이트, 애니메이션, 이미지, 3D 모델, 영상, 오디오를 만들면 에셋은 곧장 디스크에 저장된다."
+            "x": "Google은 에이전트 네 개로 꾸린 팀을 무작위 Minecraft 시드에 넣고 목표 하나만 줬다. Ender Dragon을 물리치라는 것이었다. 연구진은 \"각 에이전트는 Mineflayer라는 오픈소스 라이브러리로 플레이어 하나를 조작했고, 게임 내 채팅과 공유 메모리로 팀원과 협업했다\"며 \"아무도 역할을 정해 주거나 게임 로직을 짜 주지 않았다. 에이전트가 모든 프로그램을 직접 계획하고 작성하고 디버깅했다\"고 밝혔다."
           },
           {
             "t": "p",
-            "x": "CLI는 올해 초 선보인 Ludo의 REST API와 Model Context Protocol(MCP) 연동 위에 만들어졌다. 코딩 에이전트는 전체 도구 명세를 불러오지 않고 필요한 Ludo 명령만 그때그때 호출한다. 로컬 파일도 생성 워크플로에 바로 넘길 수 있다."
+            "x": "에이전트들은 농사, 식량 채집, 탐험으로 금세 역할을 나눴고 전투 요령도 공유했다. 메시지 229건을 주고받았고 프로그램 2,783개를 돌렸으며 605번 죽었다. 그동안 다섯 번째 에이전트는 부정행위가 없는지 지켜봤다. The End에 닿기까지 약 13.5시간이 걸렸고, 입력 토큰은 1.35 billion개로 일반 사용자 요금으로 치면 약 $1,620어치였다."
           },
           {
             "t": "p",
-            "x": "“CLI 덕분에 개발자나 함께 일하는 코딩 에이전트가 작업 흐름을 끊지 않고 필요한 순간에 에셋을 만들 수 있다.” Ludo.ai 공동창업자이자 CTO인 Jorge Gomes의 말이다."
-          },
-          {
-            "t": "p",
-            "x": "스크립트와 자동화 파이프라인도 지원하고 프로젝트별 설정과 생성 기록을 남겨 일관성을 지킨다. CLI는 Pro와 Studio 요금제에서 쓸 수 있으며 npm으로 설치하거나 npx로 실행한다. Ludo는 CLI, MCP 서버, REST API, Unity 플러그인을 다루는 Developers 섹션(ludo.ai/developers)도 열었다."
+            "x": "연구진은 이런 시스템에 실제 업무를 맡기기 전에, 모든 것이 드러나는 환경에서 에이전트 팀이 어떻게 협업하는지 먼저 보고 싶었다고 했다. \"팀을 조율하고, 실패에서 회복하고, 하루 넘게 목표를 추구하는 것처럼 Minecraft를 풀어내는 데 필요한 능력은 에이전트가 사람과 함께 안정적으로 일하는 데도 필요한 능력이다.\""
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ludo.ai brings game asset\ncreation to the terminal",
-          "body": "Ludo.ai's new CLI lets coding agents like Claude Code generate sprites, 3D models and audio from the terminal.",
-          "mini_headline": "Ludo.ai asset CLI",
+          "headline": "Gemini agents beat\nMinecraft unaided",
+          "body": "Four Google Gemini 4 Argon agents took down the Ender Dragon without human help in just over 27 hours.",
+          "mini_headline": "AI agents beat\nMinecraft",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
+                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai has released the Ludo CLI, giving developers direct access to its AI game asset creation tools from the command line, without needing a browser."
+                "x": "Google researchers have released a paper claiming that four Google Gemini 4 Argon AI agents just beat Minecraft without any help from humans. It took them just over 27 hours to take down the Ender Dragon in what is believed to be a world first."
               },
               {
                 "t": "p",
-                "x": "Solo developers, small studios and coding agents such as Claude Code can generate sprites, animations, images, 3D models, video and audio directly from the terminal, with assets saved straight to disk."
+                "x": "Google placed the team of four agents into a random Minecraft seed with a single goal: defeat the Ender Dragon. \"Each agent controlled a player via an open-source library called Mineflayer and coordinated with its teammates through in-game chat and shared memory,\" the researchers said. \"No one assigned roles or wrote game logic. The agents planned, wrote, and debugged every program themselves.\""
               },
               {
                 "t": "p",
-                "x": "The CLI builds on Ludo's REST API and Model Context Protocol (MCP) integrations introduced earlier this year. Coding agents can call individual Ludo commands as needed rather than loading full tool specifications, and local files can be passed directly into generation workflows."
+                "x": "The agents settled into roles quickly — farming, gathering food, exploring — and shared combat tips. Over the run they exchanged 229 messages, ran 2,783 programs and died 605 times, while a fifth agent checked that none were cheating. Reaching The End took around 13.5 hours; the agents used 1.35 billion input tokens, roughly $1,620 for a normal user."
               },
               {
                 "t": "p",
-                "x": "“The CLI means developers, or the coding agents working alongside them, can generate assets exactly when they need them without interrupting their workflow,” said Jorge Gomes, co-founder and CTO at Ludo.ai."
-              },
-              {
-                "t": "p",
-                "x": "It also supports scripts and automated pipelines, with project-specific settings and generation histories for consistency. The CLI is available on Pro and Studio plans and can be installed via npm or run with npx. Ludo has also launched a Developers section at ludo.ai/developers covering the CLI, MCP server, REST API and Unity plugin."
+                "x": "The researchers said they wanted to study how teams of agents coordinate in a fully visible setting before such systems are trusted with real-world tasks: \"The skills required to solve Minecraft such as coordinating a team, recovering from failure, and pursuing a goal for more than a day, are also what agents need to work reliably alongside people.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ludo.ai, 게임 에셋\n터미널에서 만든다",
-          "body": "Ludo.ai CLI로 Claude Code가 스프라이트·3D·오디오를 만든다.",
-          "mini_headline": "Ludo.ai 에셋 CLI",
+          "headline": "도움 없이 Gemini가\nMinecraft 깼다",
+          "body": "Gemini 4 Argon 넷이 27시간여 만에 Ender Dragon을 잡았다.",
+          "mini_headline": "AI 에이전트,\nMinecraft 깼다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
+                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai가 Ludo CLI를 내놓았다. 브라우저를 열지 않고도 명령줄에서 Ludo.ai의 AI 게임 에셋 제작 도구를 바로 쓸 수 있다."
+                "x": "Google 연구진이 논문 하나를 공개했다. Google Gemini 4 Argon AI 에이전트 네 개가 사람 도움 없이 Minecraft를 깼다는 내용이다. Ender Dragon을 쓰러뜨리기까지 27시간 남짓 걸렸고, 세계 최초로 꼽힌다."
               },
               {
                 "t": "p",
-                "x": "1인 개발자와 소규모 스튜디오, Claude Code 같은 코딩 에이전트가 터미널에서 스프라이트, 애니메이션, 이미지, 3D 모델, 영상, 오디오를 만들면 에셋은 곧장 디스크에 저장된다."
+                "x": "Google은 에이전트 네 개로 꾸린 팀을 무작위 Minecraft 시드에 넣고 목표 하나만 줬다. Ender Dragon을 물리치라는 것이었다. 연구진은 \"각 에이전트는 Mineflayer라는 오픈소스 라이브러리로 플레이어 하나를 조작했고, 게임 내 채팅과 공유 메모리로 팀원과 협업했다\"며 \"아무도 역할을 정해 주거나 게임 로직을 짜 주지 않았다. 에이전트가 모든 프로그램을 직접 계획하고 작성하고 디버깅했다\"고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "CLI는 올해 초 선보인 Ludo의 REST API와 Model Context Protocol(MCP) 연동 위에 만들어졌다. 코딩 에이전트는 전체 도구 명세를 불러오지 않고 필요한 Ludo 명령만 그때그때 호출한다. 로컬 파일도 생성 워크플로에 바로 넘길 수 있다."
+                "x": "에이전트들은 농사, 식량 채집, 탐험으로 금세 역할을 나눴고 전투 요령도 공유했다. 메시지 229건을 주고받았고 프로그램 2,783개를 돌렸으며 605번 죽었다. 그동안 다섯 번째 에이전트는 부정행위가 없는지 지켜봤다. The End에 닿기까지 약 13.5시간이 걸렸고, 입력 토큰은 1.35 billion개로 일반 사용자 요금으로 치면 약 $1,620어치였다."
               },
               {
                 "t": "p",
-                "x": "“CLI 덕분에 개발자나 함께 일하는 코딩 에이전트가 작업 흐름을 끊지 않고 필요한 순간에 에셋을 만들 수 있다.” Ludo.ai 공동창업자이자 CTO인 Jorge Gomes의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "스크립트와 자동화 파이프라인도 지원하고 프로젝트별 설정과 생성 기록을 남겨 일관성을 지킨다. CLI는 Pro와 Studio 요금제에서 쓸 수 있으며 npm으로 설치하거나 npx로 실행한다. Ludo는 CLI, MCP 서버, REST API, Unity 플러그인을 다루는 Developers 섹션(ludo.ai/developers)도 열었다."
+                "x": "연구진은 이런 시스템에 실제 업무를 맡기기 전에, 모든 것이 드러나는 환경에서 에이전트 팀이 어떻게 협업하는지 먼저 보고 싶었다고 했다. \"팀을 조율하고, 실패에서 회복하고, 하루 넘게 목표를 추구하는 것처럼 Minecraft를 풀어내는 데 필요한 능력은 에이전트가 사람과 함께 안정적으로 일하는 데도 필요한 능력이다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "ゲーム素材の生成を\nLudo.aiがターミナルに",
-          "body": "Ludo.aiのCLIで、Claude Codeがスプライトや3D、音声を生成できる。",
-          "mini_headline": "Ludo.aiの素材CLI",
+          "headline": "Geminiエージェント\n独力でMinecraft攻略",
+          "body": "Gemini 4 Argon四体が独力で、27時間余りでEnder Dragonを倒した。",
+          "mini_headline": "AIエージェント\nMinecraft攻略",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
+                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Ludo.aiはLudo CLIを公開した。開発者はブラウザを使わず、コマンドラインから同社のAIゲーム素材制作ツールを直接利用できる。"
+                "x": "Googleの研究者は、Google Gemini 4 ArgonのAIエージェント四体が人間の助けを一切借りずにMinecraftをクリアしたとする論文を公開した。Ender Dragonを倒すまでにかかった時間は27時間余りで、世界初とみられる。"
               },
               {
                 "t": "p",
-                "x": "個人開発者や小規模スタジオ、Claude Codeなどのコーディングエージェントは、スプライト、アニメーション、画像、3Dモデル、動画、音声をターミナルから直接生成でき、素材はそのままディスクに保存される。"
+                "x": "Googleは四体のエージェントからなるチームを無作為なMinecraftのシードに配置し、Ender Dragonを倒すという一つの目標だけを与えた。研究者は「各エージェントはMineflayerというオープンソースのライブラリを介してプレイヤーを操作し、ゲーム内チャットと共有メモリでチームメイトと連携した」と述べ、「誰も役割を割り当てず、ゲームロジックも書かなかった。エージェントがすべてのプログラムを自ら計画し、書き、デバッグした」と説明した。"
               },
               {
                 "t": "p",
-                "x": "CLIは、今年初めに導入されたLudoのREST APIとModel Context Protocol（MCP）連携を土台にしている。コーディングエージェントはツール仕様全体を読み込まず、必要に応じて個別のLudoコマンドを呼び出せる。ローカルファイルを生成ワークフローに直接渡すこともできる。"
+                "x": "エージェントは農作業、食料集め、探索とすぐに役割を分担し、戦闘のコツも共有した。全体で229件のメッセージを交わし、2,783本のプログラムを実行し、605回死亡した。その間、五体目のエージェントが不正がないかを確認した。The Endへの到達には約13.5時間かかり、入力トークンは1.35 billion、一般ユーザーなら約$1,620に相当する量を使った。"
               },
               {
                 "t": "p",
-                "x": "「CLIによって、開発者や彼らと並んで働くコーディングエージェントは、ワークフローを中断せずに必要なときに素材を生成できる」と、Ludo.aiの共同創業者兼CTOであるJorge Gomesは述べた。"
-              },
-              {
-                "t": "p",
-                "x": "スクリプトや自動化パイプラインにも対応し、一貫性を保つためのプロジェクト別設定と生成履歴を備える。CLIはProおよびStudioプランで利用でき、npmでインストールするかnpxで実行できる。Ludoはludo.ai/developersに、CLI、MCPサーバー、REST API、Unityプラグインをまとめた Developersセクションも開設した。"
+                "x": "研究者によれば、こうしたシステムに現実の業務を任せる前に、すべてが見える環境でエージェントのチームがどう連携するかを調べたかったという。「チームを調整し、失敗から立ち直り、一日以上にわたって目標を追い続けるといったMinecraftの攻略に必要なスキルは、エージェントが人と並んで確実に働くためにも必要なものだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ludo.ai把游戏素材\n生成搬进终端",
-          "body": "Ludo.ai推出CLI，Claude Code等代理可在终端生成精灵图、3D模型和音频。",
-          "mini_headline": "Ludo.ai素材CLI",
+          "headline": "Gemini智能体\n独立通关Minecraft",
+          "body": "Gemini 4 Argon四个智能体无人协助，27小时余便击败Ender Dragon。",
+          "mini_headline": "AI智能体\n通关Minecraft",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
+                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai发布了Ludo CLI，开发者无需浏览器，即可在命令行中直接使用其AI游戏素材创作工具。"
+                "x": "Google研究人员发表论文称，四个Google Gemini 4 Argon AI智能体在没有任何人类帮助的情况下通关了Minecraft。它们用了27小时多一点击败Ender Dragon，这被认为是全球首次。"
               },
               {
                 "t": "p",
-                "x": "独立开发者、小型工作室以及Claude Code等编程代理，可以直接在终端生成精灵图、动画、图像、3D模型、视频和音频，素材会直接保存到磁盘。"
+                "x": "Google把这支由四个智能体组成的团队放进一个随机的Minecraft种子，只给了一个目标：击败Ender Dragon。研究人员表示：“每个智能体通过名为Mineflayer的开源库控制一名玩家，并借助游戏内聊天和共享记忆与队友协作。”“没有人分配角色，也没有人编写游戏逻辑。智能体自己规划、编写并调试了每一个程序。”"
               },
               {
                 "t": "p",
-                "x": "该CLI建立在Ludo今年早些时候推出的REST API和Model Context Protocol（MCP）集成之上。编程代理可按需调用单个Ludo命令，而无需加载完整的工具规范；本地文件也可以直接传入生成工作流。"
+                "x": "智能体很快就分好了工——种地、收集食物、探索——还相互分享战斗技巧。整个过程中，它们交换了229条消息，运行了2,783个程序，死亡605次，另有第五个智能体负责检查是否有人作弊。抵达The End用了约13.5小时；智能体共消耗1.35 billion个输入token，按普通用户计约合$1,620。"
               },
               {
                 "t": "p",
-                "x": "“有了CLI，开发者或与他们协同工作的编程代理，可以在需要时随时生成素材，而不必打断工作流程。”Ludo.ai联合创始人兼CTO Jorge Gomes表示。"
-              },
-              {
-                "t": "p",
-                "x": "它还支持脚本和自动化流水线，并提供项目专属设置和生成历史以保持一致性。CLI面向Pro和Studio套餐开放，可通过npm安装或用npx运行。Ludo还在ludo.ai/developers上线了Developers专区，涵盖CLI、MCP服务器、REST API和Unity插件。"
+                "x": "研究人员表示，他们希望在这类系统被托付现实任务之前，先在一个完全可见的环境中研究智能体团队如何协作：“通关Minecraft所需的技能，例如协调团队、从失败中恢复、持续一天以上追求一个目标，也正是智能体与人可靠地并肩工作所需要的。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ludo.ai lleva la creación de\nassets de juego a la terminal",
-          "body": "La nueva CLI de Ludo.ai permite a agentes como Claude Code generar sprites, modelos 3D y audio desde la terminal.",
-          "mini_headline": "CLI de assets de Ludo.ai",
+          "headline": "Agentes de Gemini vencen\nMinecraft sin ayuda",
+          "body": "Cuatro agentes Google Gemini 4 Argon derrotaron al Ender Dragon sin ayuda humana en poco más de 27 horas.",
+          "mini_headline": "Agentes de AI\nvencen Minecraft",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
+                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai ha lanzado Ludo CLI, que ofrece a los desarrolladores acceso directo desde la línea de comandos a sus herramientas de IA para crear assets de juego, sin necesidad de navegador."
+                "x": "Investigadores de Google publicaron un artículo según el cual cuatro agentes de AI Google Gemini 4 Argon acaban de superar Minecraft sin ninguna ayuda humana. Tardaron poco más de 27 horas en derrotar al Ender Dragon, en lo que se considera una primicia mundial."
               },
               {
                 "t": "p",
-                "x": "Desarrolladores independientes, estudios pequeños y agentes de programación como Claude Code pueden generar sprites, animaciones, imágenes, modelos 3D, video y audio directamente desde la terminal, y los assets se guardan directamente en disco."
+                "x": "Google colocó al equipo de cuatro agentes en una semilla aleatoria de Minecraft con un único objetivo: derrotar al Ender Dragon. \"Cada agente controlaba a un jugador mediante una biblioteca de código abierto llamada Mineflayer y se coordinaba con sus compañeros a través del chat del juego y de una memoria compartida\", explicaron los investigadores. \"Nadie asignó roles ni escribió la lógica del juego. Los agentes planificaron, escribieron y depuraron ellos mismos cada programa.\""
               },
               {
                 "t": "p",
-                "x": "La CLI se basa en la REST API de Ludo y en las integraciones con Model Context Protocol (MCP) presentadas a principios de este año. Los agentes de programación pueden invocar comandos individuales de Ludo según los necesiten, en lugar de cargar especificaciones completas de herramientas, y es posible pasar archivos locales directamente a los flujos de generación."
+                "x": "Los agentes se repartieron rápidamente los roles —cultivar, recolectar comida, explorar— y compartieron consejos de combate. A lo largo de la partida intercambiaron 229 mensajes, ejecutaron 2,783 programas y murieron 605 veces, mientras un quinto agente comprobaba que ninguno hiciera trampa. Llegar a The End llevó unas 13.5 horas; los agentes usaron 1.35 billion de tokens de entrada, unos $1,620 para un usuario normal."
               },
               {
                 "t": "p",
-                "x": "“La CLI significa que los desarrolladores, o los agentes de programación que trabajan a su lado, pueden generar assets justo cuando los necesitan sin interrumpir su flujo de trabajo”, afirmó Jorge Gomes, cofundador y CTO de Ludo.ai."
-              },
-              {
-                "t": "p",
-                "x": "También admite scripts y pipelines automatizados, con ajustes específicos por proyecto e historiales de generación para mantener la coherencia. La CLI está disponible en los planes Pro y Studio y puede instalarse con npm o ejecutarse con npx. Ludo también ha abierto una sección Developers en ludo.ai/developers que cubre la CLI, el servidor MCP, la REST API y el plugin de Unity."
+                "x": "Los investigadores dijeron que querían estudiar cómo se coordinan los equipos de agentes en un entorno totalmente visible antes de confiar a estos sistemas tareas del mundo real: \"Las habilidades necesarias para resolver Minecraft, como coordinar un equipo, recuperarse de un fallo y perseguir un objetivo durante más de un día, son también las que los agentes necesitan para trabajar de forma fiable junto a las personas.\""
               }
             ]
           }
@@ -217,137 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ludo.ai, 게임 에셋\n터미널에서 만든다",
-          "body": "Ludo.ai CLI로 Claude Code가 스프라이트·3D·오디오를 만든다.",
-          "mini_headline": "Ludo.ai 에셋 CLI",
+          "headline": "도움 없이 Gemini가\nMinecraft 깼다",
+          "body": "Gemini 4 Argon 넷이 27시간여 만에 Ender Dragon을 잡았다.",
+          "mini_headline": "AI 에이전트,\nMinecraft 깼다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
+                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai가 Ludo CLI를 내놓았다. 개발자는 브라우저 없이 명령줄에서 Ludo.ai의 AI 게임 에셋 제작 도구를 바로 쓸 수 있다."
+                "x": "Google 연구진이 Google Gemini 4 Argon AI 에이전트 네 개가 사람의 도움 없이 Minecraft를 깼다는 논문을 공개했다. 이들이 Ender Dragon을 쓰러뜨리기까지 27시간 남짓이 걸렸고, 세계 최초로 여겨진다."
               },
               {
                 "t": "p",
-                "x": "1인 개발자와 소규모 스튜디오, Claude Code 같은 코딩 에이전트는 터미널에서 스프라이트, 애니메이션, 이미지, 3D 모델, 영상, 오디오를 바로 만들 수 있고, 에셋은 곧장 디스크에 저장된다."
+                "x": "Google은 에이전트 네 개로 꾸린 팀을 무작위 Minecraft 시드에 넣고 단 하나의 목표를 줬다. Ender Dragon을 물리치는 것이다. 연구진은 \"각 에이전트는 Mineflayer라는 오픈소스 라이브러리로 플레이어 하나를 조작했고, 게임 내 채팅과 공유 메모리로 팀원과 협업했다\"며 \"아무도 역할을 정해 주거나 게임 로직을 짜 주지 않았다. 에이전트가 모든 프로그램을 직접 계획하고 작성하고 디버깅했다\"고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "CLI는 올해 초 선보인 Ludo의 REST API와 Model Context Protocol(MCP) 연동을 바탕으로 한다. 코딩 에이전트는 전체 도구 명세를 불러오지 않고 필요할 때마다 개별 Ludo 명령을 호출할 수 있으며, 로컬 파일을 생성 워크플로에 바로 넘길 수도 있다."
+                "x": "에이전트들은 농사, 식량 채집, 탐험으로 금세 역할을 나눴고 전투 요령도 공유했다. 전체 과정에서 메시지 229건을 주고받고 프로그램 2,783개를 실행했으며 605번 죽었다. 그사이 다섯 번째 에이전트가 부정행위가 없는지 확인했다. The End에 닿기까지 약 13.5시간이 걸렸고, 에이전트들은 입력 토큰 1.35 billion개, 일반 사용자 기준 약 $1,620어치를 썼다."
               },
               {
                 "t": "p",
-                "x": "“CLI 덕분에 개발자나 함께 일하는 코딩 에이전트가 작업 흐름을 끊지 않고 필요한 순간에 에셋을 만들 수 있다.” Ludo.ai 공동창업자이자 CTO인 Jorge Gomes의 말이다."
-              },
-              {
-                "t": "p",
-                "x": "스크립트와 자동화 파이프라인도 지원하며, 일관성을 위해 프로젝트별 설정과 생성 기록을 남긴다. CLI는 Pro와 Studio 요금제에서 쓸 수 있고 npm으로 설치하거나 npx로 실행한다. Ludo는 CLI, MCP 서버, REST API, Unity 플러그인을 다루는 Developers 섹션(ludo.ai/developers)도 열었다."
+                "x": "연구진은 이런 시스템에 실제 업무를 맡기기 전에, 모든 것이 드러나는 환경에서 에이전트 팀이 어떻게 협업하는지 살펴보려 했다고 설명했다. \"팀을 조율하고, 실패에서 회복하고, 하루 넘게 목표를 추구하는 것처럼 Minecraft를 풀어내는 데 필요한 능력은 에이전트가 사람과 함께 안정적으로 일하는 데도 필요한 능력이다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "ゲーム素材の生成を\nLudo.aiがターミナルに",
-          "body": "Ludo.aiのCLIで、Claude Codeがスプライトや3D、音声を生成できる。",
-          "mini_headline": "Ludo.aiの素材CLI",
+          "headline": "Geminiエージェント\n独力でMinecraft攻略",
+          "body": "Gemini 4 Argon四体が独力で、27時間余りでEnder Dragonを倒した。",
+          "mini_headline": "AIエージェント\nMinecraft攻略",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
+                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Ludo.aiはLudo CLIを公開した。開発者はブラウザを使わず、コマンドラインから同社のAIゲーム素材制作ツールを直接利用できる。"
+                "x": "Googleの研究者は、Google Gemini 4 ArgonのAIエージェント四体が人間の助けを一切借りずにMinecraftをクリアしたとする論文を公開した。Ender Dragonを倒すまでにかかった時間は27時間余りで、世界初とみられる。"
               },
               {
                 "t": "p",
-                "x": "個人開発者や小規模スタジオ、Claude Codeなどのコーディングエージェントは、スプライト、アニメーション、画像、3Dモデル、動画、音声をターミナルから直接生成でき、素材はそのままディスクに保存される。"
+                "x": "Googleは四体のエージェントからなるチームを無作為なMinecraftのシードに配置し、Ender Dragonを倒すという一つの目標だけを与えた。研究者は「各エージェントはMineflayerというオープンソースのライブラリを介してプレイヤーを操作し、ゲーム内チャットと共有メモリでチームメイトと連携した」と述べ、「誰も役割を割り当てず、ゲームロジックも書かなかった。エージェントがすべてのプログラムを自ら計画し、書き、デバッグした」と説明した。"
               },
               {
                 "t": "p",
-                "x": "CLIは、今年初めに導入されたLudoのREST APIとModel Context Protocol（MCP）連携を土台にしている。コーディングエージェントはツール仕様全体を読み込まず、必要に応じて個別のLudoコマンドを呼び出せる。ローカルファイルを生成ワークフローに直接渡すこともできる。"
+                "x": "エージェントは農作業、食料集め、探索とすぐに役割を分担し、戦闘のコツも共有した。全体で229件のメッセージを交わし、2,783本のプログラムを実行し、605回死亡した。その間、五体目のエージェントが不正がないかを確認した。The Endへの到達には約13.5時間かかり、入力トークンは1.35 billion、一般ユーザーなら約$1,620に相当する量を使った。"
               },
               {
                 "t": "p",
-                "x": "「CLIによって、開発者や彼らと並んで働くコーディングエージェントは、ワークフローを中断せずに必要なときに素材を生成できる」と、Ludo.aiの共同創業者兼CTOであるJorge Gomesは述べた。"
-              },
-              {
-                "t": "p",
-                "x": "スクリプトや自動化パイプラインにも対応し、一貫性を保つためのプロジェクト別設定と生成履歴を備える。CLIはProおよびStudioプランで利用でき、npmでインストールするかnpxで実行できる。Ludoはludo.ai/developersに、CLI、MCPサーバー、REST API、Unityプラグインをまとめた Developersセクションも開設した。"
+                "x": "研究者によれば、こうしたシステムに現実の業務を任せる前に、すべてが見える環境でエージェントのチームがどう連携するかを調べたかったという。「チームを調整し、失敗から立ち直り、一日以上にわたって目標を追い続けるといったMinecraftの攻略に必要なスキルは、エージェントが人と並んで確実に働くためにも必要なものだ」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Ludo.ai把游戏素材\n生成搬进终端",
-          "body": "Ludo.ai推出CLI，Claude Code等代理可在终端生成精灵图、3D模型和音频。",
-          "mini_headline": "Ludo.ai素材CLI",
+          "headline": "Gemini智能体\n独立通关Minecraft",
+          "body": "Gemini 4 Argon四个智能体无人协助，27小时余便击败Ender Dragon。",
+          "mini_headline": "AI智能体\n通关Minecraft",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
+                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai发布了Ludo CLI，开发者无需浏览器，即可在命令行中直接使用其AI游戏素材创作工具。"
+                "x": "Google研究人员发表论文称，四个Google Gemini 4 Argon AI智能体在没有任何人类帮助的情况下通关了Minecraft。它们用了27小时多一点击败Ender Dragon，这被认为是全球首次。"
               },
               {
                 "t": "p",
-                "x": "独立开发者、小型工作室以及Claude Code等编程代理，可以直接在终端生成精灵图、动画、图像、3D模型、视频和音频，素材会直接保存到磁盘。"
+                "x": "Google把这支由四个智能体组成的团队放进一个随机的Minecraft种子，只给了一个目标：击败Ender Dragon。研究人员表示：“每个智能体通过名为Mineflayer的开源库控制一名玩家，并借助游戏内聊天和共享记忆与队友协作。”“没有人分配角色，也没有人编写游戏逻辑。智能体自己规划、编写并调试了每一个程序。”"
               },
               {
                 "t": "p",
-                "x": "该CLI建立在Ludo今年早些时候推出的REST API和Model Context Protocol（MCP）集成之上。编程代理可按需调用单个Ludo命令，而无需加载完整的工具规范；本地文件也可以直接传入生成工作流。"
+                "x": "智能体很快就分好了工——种地、收集食物、探索——还相互分享战斗技巧。整个过程中，它们交换了229条消息，运行了2,783个程序，死亡605次，另有第五个智能体负责检查是否有人作弊。抵达The End用了约13.5小时；智能体共消耗1.35 billion个输入token，按普通用户计约合$1,620。"
               },
               {
                 "t": "p",
-                "x": "“有了CLI，开发者或与他们协同工作的编程代理，可以在需要时随时生成素材，而不必打断工作流程。”Ludo.ai联合创始人兼CTO Jorge Gomes表示。"
-              },
-              {
-                "t": "p",
-                "x": "它还支持脚本和自动化流水线，并提供项目专属设置和生成历史以保持一致性。CLI面向Pro和Studio套餐开放，可通过npm安装或用npx运行。Ludo还在ludo.ai/developers上线了Developers专区，涵盖CLI、MCP服务器、REST API和Unity插件。"
+                "x": "研究人员表示，他们希望在这类系统被托付现实任务之前，先在一个完全可见的环境中研究智能体团队如何协作：“通关Minecraft所需的技能，例如协调团队、从失败中恢复、持续一天以上追求一个目标，也正是智能体与人可靠地并肩工作所需要的。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Ludo.ai lleva la creación de\nassets de juego a la terminal",
-          "body": "La nueva CLI de Ludo.ai permite a agentes como Claude Code generar sprites, modelos 3D y audio desde la terminal.",
-          "mini_headline": "CLI de assets de Ludo.ai",
+          "headline": "Agentes de Gemini vencen\nMinecraft sin ayuda",
+          "body": "Cuatro agentes Google Gemini 4 Argon derrotaron al Ender Dragon sin ayuda humana en poco más de 27 horas.",
+          "mini_headline": "Agentes de AI\nvencen Minecraft",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
+                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
               },
               {
                 "t": "p",
-                "x": "Ludo.ai ha lanzado Ludo CLI, que ofrece a los desarrolladores acceso directo desde la línea de comandos a sus herramientas de IA para crear assets de juego, sin necesidad de navegador."
+                "x": "Investigadores de Google publicaron un artículo según el cual cuatro agentes de AI Google Gemini 4 Argon acaban de superar Minecraft sin ninguna ayuda humana. Tardaron poco más de 27 horas en derrotar al Ender Dragon, en lo que se considera una primicia mundial."
               },
               {
                 "t": "p",
-                "x": "Desarrolladores independientes, estudios pequeños y agentes de programación como Claude Code pueden generar sprites, animaciones, imágenes, modelos 3D, video y audio directamente desde la terminal, y los assets se guardan directamente en disco."
+                "x": "Google colocó al equipo de cuatro agentes en una semilla aleatoria de Minecraft con un único objetivo: derrotar al Ender Dragon. \"Cada agente controlaba a un jugador mediante una biblioteca de código abierto llamada Mineflayer y se coordinaba con sus compañeros a través del chat del juego y de una memoria compartida\", explicaron los investigadores. \"Nadie asignó roles ni escribió la lógica del juego. Los agentes planificaron, escribieron y depuraron ellos mismos cada programa.\""
               },
               {
                 "t": "p",
-                "x": "La CLI se basa en la REST API de Ludo y en las integraciones con Model Context Protocol (MCP) presentadas a principios de este año. Los agentes de programación pueden invocar comandos individuales de Ludo según los necesiten, en lugar de cargar especificaciones completas de herramientas, y es posible pasar archivos locales directamente a los flujos de generación."
+                "x": "Los agentes se repartieron rápidamente los roles —cultivar, recolectar comida, explorar— y compartieron consejos de combate. A lo largo de la partida intercambiaron 229 mensajes, ejecutaron 2,783 programas y murieron 605 veces, mientras un quinto agente comprobaba que ninguno hiciera trampa. Llegar a The End llevó unas 13.5 horas; los agentes usaron 1.35 billion de tokens de entrada, unos $1,620 para un usuario normal."
               },
               {
                 "t": "p",
-                "x": "“La CLI significa que los desarrolladores, o los agentes de programación que trabajan a su lado, pueden generar assets justo cuando los necesitan sin interrumpir su flujo de trabajo”, afirmó Jorge Gomes, cofundador y CTO de Ludo.ai."
-              },
-              {
-                "t": "p",
-                "x": "También admite scripts y pipelines automatizados, con ajustes específicos por proyecto e historiales de generación para mantener la coherencia. La CLI está disponible en los planes Pro y Studio y puede instalarse con npm o ejecutarse con npx. Ludo también ha abierto una sección Developers en ludo.ai/developers que cubre la CLI, el servidor MCP, la REST API y el plugin de Unity."
+                "x": "Los investigadores dijeron que querían estudiar cómo se coordinan los equipos de agentes en un entorno totalmente visible antes de confiar a estos sistemas tareas del mundo real: \"Las habilidades necesarias para resolver Minecraft, como coordinar un equipo, recuperarse de un fallo y perseguir un objetivo durante más de un día, son también las que los agentes necesitan para trabajar de forma fiable junto a las personas.\""
               }
             ]
           }
@@ -355,15 +315,367 @@
       }
     },
     {
-      "id": "games-steam-noai-filter",
+      "id": "games-vivrato-vaia-ai-report",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "슬롭 찬 Next Fest\nno-AI 필터 요구 나와",
-      "body": "Next Fest에 AI-made 데모가 쏟아지자 이용자들이 필터를 요구했다.",
-      "mini_headline": "Steam no-AI 필터 요구",
+      "headline": "게임 AI 활용,\n넓지만 아직 얕다",
+      "body": "Vivrato VAIA Report 2026은 게임 AI 활용이 넓되 얕다고 봤다.",
+      "mini_headline": "스튜디오 AI 활용\n아직 얕다",
       "tool": "Games",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "source": "GamesBeat",
+      "url": "https://gamesbeat.com/adam-boyes-vivrato-issues-report-based-on-101-game-leaders-views-on-ai-in-gaming-exclusive/",
+      "accent": "#2ec5c5",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Adam Boyes가 이끄는 게임 업계 컨설팅사 Vivrato가 Vivrato AI Adoption(VAIA) Report 2026을 내놨다. 게임 제작에 AI가 널리 쓰이지만 아직은 꽤 얕은 수준이라는 내용이다."
+          },
+          {
+            "t": "p",
+            "x": "Vivrato가 인터뷰한 스튜디오 리더 101명 중 94%는 아홉 개 제작 단계 가운데 적어도 하나에 AI를 쓴다. 그런데 52%는 제작 파이프라인 전체에 AI가 얼마나 깊이 녹아 있느냐는 물음에 10점 만점에 셋 이하를 줬다. 중앙값은 셋이다. 97%는 어떤 식으로든 AI를 써 봤다. 비공개 일대일 인터뷰는 2026년 사월부터 구월까지 주로 북미(North America)와 유럽(Europe)의 PC·콘솔 스튜디오를 상대로 했고, 모두 같은 44개 문항 가이드를 따랐다."
+          },
+          {
+            "t": "img",
+            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Boyes는 \"이제 흥미로운 질문은 어떤 게임 스튜디오가 AI를 쓰느냐가 아니다\"라며 \"관심은 이제 어디에 쓰는지, 무엇이 바뀌는지, 실제로 무엇이 도움이 되는지, 팀이 아직 어디서 어려움을 겪는지에 있다\"고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "직원들은 시제품과 콘셉트 작업에 생성형 AI를 쓰지만, 최종 제품에 AI 창작물이 들어가는 건 대부분 원하지 않았다. 서사·세계관 구축에 쓰는 비율은 매우 낮았다. 스튜디오의 발목을 잡는 건 플레이어 정서, 직원들의 감정, 예산, 도구 자체, 일자리 상실 우려, 시간 부족이다. 눈에 띄는 대목은 유럽(Europe)이 북미(North America)보다 AI 도입에 더 빨리 나선다는 점이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Game AI use is wide\nbut still shallow",
+          "body": "Vivrato's VAIA Report 2026 finds AI is widely used in game production, but so far in a fairly shallow way.",
+          "mini_headline": "Studio AI use\nruns shallow",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Vivrato, a games industry consultancy headed by Adam Boyes, released the Vivrato AI Adoption (VAIA) Report 2026, saying AI is being used widely in game production but in a fairly shallow way so far."
+              },
+              {
+                "t": "p",
+                "x": "Of the 101 studio leaders Vivrato interviewed, 94% use AI in at least one of nine production stages, but 52% rate how deeply it is built into their full production pipeline at three or lower out of 10 — the median rating is three. 97% have used AI in some form. The confidential one-to-one interviews ran from April to September 2026, mainly with PC and console studios in North America and Europe, each following the same 44-question guide."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
+              },
+              {
+                "t": "p",
+                "x": "\"The interesting question isn't around which game studios are using AI anymore,\" Boyes said. \"The focus is now where they're using it, what is changing, what's actually helping, and where teams are still running into challenges.\""
+              },
+              {
+                "t": "p",
+                "x": "Staff use generative AI for prototypes and concepts, but most did not want AI creations in the final product, and use in narrative world building was very low. Holding studios back: player sentiment, staff feelings, budget, the tools themselves, job-loss concerns and lack of time. One finding: Europe is moving into AI faster than North America."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "게임 AI 활용,\n넓지만 아직 얕다",
+          "body": "Vivrato VAIA Report 2026은 게임 AI 활용이 넓되 얕다고 봤다.",
+          "mini_headline": "스튜디오 AI 활용\n아직 얕다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Adam Boyes가 이끄는 게임 업계 컨설팅사 Vivrato가 Vivrato AI Adoption(VAIA) Report 2026을 내놨다. 게임 제작에 AI가 널리 쓰이지만 아직은 꽤 얕은 수준이라는 내용이다."
+              },
+              {
+                "t": "p",
+                "x": "Vivrato가 인터뷰한 스튜디오 리더 101명 중 94%는 아홉 개 제작 단계 가운데 적어도 하나에 AI를 쓴다. 그런데 52%는 제작 파이프라인 전체에 AI가 얼마나 깊이 녹아 있느냐는 물음에 10점 만점에 셋 이하를 줬다. 중앙값은 셋이다. 97%는 어떤 식으로든 AI를 써 봤다. 비공개 일대일 인터뷰는 2026년 사월부터 구월까지 주로 북미(North America)와 유럽(Europe)의 PC·콘솔 스튜디오를 상대로 했고, 모두 같은 44개 문항 가이드를 따랐다."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Boyes는 \"이제 흥미로운 질문은 어떤 게임 스튜디오가 AI를 쓰느냐가 아니다\"라며 \"관심은 이제 어디에 쓰는지, 무엇이 바뀌는지, 실제로 무엇이 도움이 되는지, 팀이 아직 어디서 어려움을 겪는지에 있다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "직원들은 시제품과 콘셉트 작업에 생성형 AI를 쓰지만, 최종 제품에 AI 창작물이 들어가는 건 대부분 원하지 않았다. 서사·세계관 구축에 쓰는 비율은 매우 낮았다. 스튜디오의 발목을 잡는 건 플레이어 정서, 직원들의 감정, 예산, 도구 자체, 일자리 상실 우려, 시간 부족이다. 눈에 띄는 대목은 유럽(Europe)이 북미(North America)보다 AI 도입에 더 빨리 나선다는 점이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ゲームのAI活用は\n広く、まだ浅い",
+          "body": "VivratoのVAIA Report 2026は、ゲーム制作のAI活用は広いが浅いとした。",
+          "mini_headline": "スタジオのAI活用は\nまだ浅い",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Adam Boyes率いるゲーム業界コンサルティング会社Vivratoは「Vivrato AI Adoption（VAIA）Report 2026」を公開し、ゲーム制作でAIは広く使われているが、今のところかなり浅い使い方にとどまっていると指摘した。"
+              },
+              {
+                "t": "p",
+                "x": "Vivratoが聞き取りをしたスタジオリーダー101人のうち、94%は九つの制作工程の少なくとも一つでAIを使っているが、52%は制作パイプライン全体へのAIの組み込みの深さを10点満点中三以下と評価した。中央値は三だ。97%は何らかの形でAIを使った経験がある。非公開の一対一インタビューは2026年の四月から九月にかけ、主に北米（North America）と欧州（Europe）のPC・コンソールスタジオを対象に、すべて同じ44問のガイドに沿って行われた。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Boyesは「もはや興味深い問いは、どのゲームスタジオがAIを使っているかではない」と述べ、「今の焦点は、どこで使っているのか、何が変わっているのか、実際に何が役立っているのか、そしてチームがまだどこで壁にぶつかっているのかだ」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "スタッフは試作やコンセプトに生成AIを使うが、大半は最終製品にAIによる創作物を入れることを望まず、物語や世界観の構築での利用はごく少なかった。スタジオの足かせとなっているのは、プレイヤーの受け止め方、スタッフの感情、予算、ツールそのもの、雇用喪失への懸念、時間不足だ。注目すべき結果の一つは、欧州（Europe）が北米（North America）より速くAI導入を進めていることだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "游戏AI应用广泛\n但仍停留表层",
+          "body": "Vivrato的VAIA Report 2026发现，AI在游戏制作中应用广泛但仍较浅。",
+          "mini_headline": "工作室AI应用\n仍显浅层",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "由Adam Boyes领导的游戏行业咨询公司Vivrato发布了《Vivrato AI Adoption（VAIA）Report 2026》，指出AI在游戏制作中应用广泛，但迄今为止相当浅层。"
+              },
+              {
+                "t": "p",
+                "x": "在Vivrato访谈的101位工作室负责人中，94%在九个制作环节中至少一个环节使用AI，但有52%将AI融入整个制作管线的深度评为10分制下三分或更低——中位数为三分。97%以某种形式使用过AI。这些保密的一对一访谈于2026年四月至九月进行，主要面向北美（North America）和欧洲（Europe）的PC与主机工作室，均遵循同一份44个问题的提纲。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Boyes表示：“有意思的问题已经不再是哪些游戏工作室在用AI。”“现在的焦点是他们在哪里用、什么在改变、什么真正有帮助，以及团队仍在哪些地方遇到挑战。”"
+              },
+              {
+                "t": "p",
+                "x": "员工会把生成式AI用于原型和概念设计，但大多数人不希望AI创作的内容进入最终产品，在叙事和世界观构建中的使用也非常少。阻碍工作室的因素包括：玩家情绪、员工感受、预算、工具本身、对失业的担忧以及时间不足。其中一项发现是：欧洲（Europe）比北美（North America）更快地拥抱AI。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El uso de AI en juegos es amplio\npero aún superficial",
+          "body": "El VAIA Report 2026 de Vivrato halla que la AI se usa mucho en la producción de juegos, pero de forma aún superficial.",
+          "mini_headline": "Uso de AI en estudios,\naún superficial",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Vivrato, consultora del sector de los videojuegos dirigida por Adam Boyes, publicó el Vivrato AI Adoption (VAIA) Report 2026, según el cual la AI se usa ampliamente en la producción de juegos, aunque hasta ahora de forma bastante superficial."
+              },
+              {
+                "t": "p",
+                "x": "De los 101 líderes de estudio entrevistados por Vivrato, el 94% usa AI en al menos una de nueve etapas de producción, pero el 52% califica con tres o menos sobre 10 el grado de integración en todo su proceso de producción; la mediana es tres. El 97% ha usado AI de alguna forma. Las entrevistas confidenciales individuales se realizaron de abril a septiembre de 2026, sobre todo con estudios de PC y consola de Norteamérica (North America) y Europa (Europe), y todas siguieron la misma guía de 44 preguntas."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
+              },
+              {
+                "t": "p",
+                "x": "\"La pregunta interesante ya no es qué estudios de videojuegos usan AI\", dijo Boyes. \"Ahora la atención está en dónde la usan, qué está cambiando, qué ayuda de verdad y dónde siguen encontrando dificultades los equipos.\""
+              },
+              {
+                "t": "p",
+                "x": "El personal usa AI generativa para prototipos y conceptos, pero la mayoría no quería creaciones de AI en el producto final, y su uso en la construcción narrativa del mundo era muy bajo. Lo que frena a los estudios: la opinión de los jugadores, el sentir del personal, el presupuesto, las propias herramientas, el temor a perder empleos y la falta de tiempo. Un hallazgo: Europa (Europe) avanza hacia la AI más rápido que Norteamérica (North America)."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "게임 AI 활용,\n넓지만 아직 얕다",
+          "body": "Vivrato VAIA Report 2026: 게임 AI 활용은 넓지만 얕다.",
+          "mini_headline": "스튜디오 AI 활용\n아직 얕다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Adam Boyes가 이끄는 게임 업계 컨설팅사 Vivrato가 Vivrato AI Adoption(VAIA) Report 2026을 내놓고, 게임 제작에서 AI가 널리 쓰이지만 지금까지는 꽤 얕은 수준에 머문다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Vivrato가 인터뷰한 스튜디오 리더 101명 중 94%가 아홉 개 제작 단계 가운데 적어도 하나에서 AI를 쓰지만, 52%는 전체 제작 파이프라인에 AI가 얼마나 깊이 녹아 있는지를 10점 만점에 셋 이하로 평가했다. 중앙값은 셋이다. 97%는 어떤 형태로든 AI를 써 본 적이 있다. 비공개 일대일 인터뷰는 2026년 사월부터 구월까지 주로 북미(North America)와 유럽(Europe)의 PC·콘솔 스튜디오를 대상으로, 모두 같은 44개 문항 가이드에 따라 진행됐다."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Boyes는 \"이제 흥미로운 질문은 어떤 게임 스튜디오가 AI를 쓰느냐가 아니다\"라며 \"관심은 이제 어디에 쓰는지, 무엇이 바뀌는지, 실제로 무엇이 도움이 되는지, 팀이 아직 어디서 어려움을 겪는지에 있다\"고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "직원들은 시제품과 콘셉트 작업에 생성형 AI를 쓰지만, 대부분은 최종 제품에 AI 창작물이 들어가길 원하지 않았고 서사·세계관 구축에서의 활용은 매우 낮았다. 스튜디오의 발목을 잡는 요인은 플레이어 정서, 직원들의 감정, 예산, 도구 자체, 일자리 상실 우려, 시간 부족이다. 눈에 띄는 결과 하나는 유럽(Europe)이 북미(North America)보다 빠르게 AI 도입에 나서고 있다는 점이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ゲームのAI活用は\n広く、まだ浅い",
+          "body": "VivratoのVAIA Report 2026は、ゲーム制作のAI活用は広いが浅いとした。",
+          "mini_headline": "スタジオのAI活用は\nまだ浅い",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Adam Boyes率いるゲーム業界コンサルティング会社Vivratoは「Vivrato AI Adoption（VAIA）Report 2026」を公開し、ゲーム制作でAIは広く使われているが、今のところかなり浅い使い方にとどまっていると指摘した。"
+              },
+              {
+                "t": "p",
+                "x": "Vivratoが聞き取りをしたスタジオリーダー101人のうち、94%は九つの制作工程の少なくとも一つでAIを使っているが、52%は制作パイプライン全体へのAIの組み込みの深さを10点満点中三以下と評価した。中央値は三だ。97%は何らかの形でAIを使った経験がある。非公開の一対一インタビューは2026年の四月から九月にかけ、主に北米（North America）と欧州（Europe）のPC・コンソールスタジオを対象に、すべて同じ44問のガイドに沿って行われた。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Boyesは「もはや興味深い問いは、どのゲームスタジオがAIを使っているかではない」と述べ、「今の焦点は、どこで使っているのか、何が変わっているのか、実際に何が役立っているのか、そしてチームがまだどこで壁にぶつかっているのかだ」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "スタッフは試作やコンセプトに生成AIを使うが、大半は最終製品にAIによる創作物を入れることを望まず、物語や世界観の構築での利用はごく少なかった。スタジオの足かせとなっているのは、プレイヤーの受け止め方、スタッフの感情、予算、ツールそのもの、雇用喪失への懸念、時間不足だ。注目すべき結果の一つは、欧州（Europe）が北米（North America）より速くAI導入を進めていることだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "游戏AI应用广泛\n但仍停留表层",
+          "body": "Vivrato的VAIA Report 2026发现，AI在游戏制作中应用广泛但仍较浅。",
+          "mini_headline": "工作室AI应用\n仍显浅层",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "由Adam Boyes领导的游戏行业咨询公司Vivrato发布了《Vivrato AI Adoption（VAIA）Report 2026》，指出AI在游戏制作中应用广泛，但迄今为止相当浅层。"
+              },
+              {
+                "t": "p",
+                "x": "在Vivrato访谈的101位工作室负责人中，94%在九个制作环节中至少一个环节使用AI，但有52%将AI融入整个制作管线的深度评为10分制下三分或更低——中位数为三分。97%以某种形式使用过AI。这些保密的一对一访谈于2026年四月至九月进行，主要面向北美（North America）和欧洲（Europe）的PC与主机工作室，均遵循同一份44个问题的提纲。"
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Boyes表示：“有意思的问题已经不再是哪些游戏工作室在用AI。”“现在的焦点是他们在哪里用、什么在改变、什么真正有帮助，以及团队仍在哪些地方遇到挑战。”"
+              },
+              {
+                "t": "p",
+                "x": "员工会把生成式AI用于原型和概念设计，但大多数人不希望AI创作的内容进入最终产品，在叙事和世界观构建中的使用也非常少。阻碍工作室的因素包括：玩家情绪、员工感受、预算、工具本身、对失业的担忧以及时间不足。其中一项发现是：欧洲（Europe）比北美（North America）更快地拥抱AI。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "El uso de AI en juegos es amplio\npero aún superficial",
+          "body": "El VAIA Report 2026 de Vivrato halla que la AI se usa mucho en la producción de juegos, pero de forma aún superficial.",
+          "mini_headline": "Uso de AI en estudios,\naún superficial",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Vivrato, consultora del sector de los videojuegos dirigida por Adam Boyes, publicó el Vivrato AI Adoption (VAIA) Report 2026, según el cual la AI se usa ampliamente en la producción de juegos, aunque hasta ahora de forma bastante superficial."
+              },
+              {
+                "t": "p",
+                "x": "De los 101 líderes de estudio entrevistados por Vivrato, el 94% usa AI en al menos una de nueve etapas de producción, pero el 52% califica con tres o menos sobre 10 el grado de integración en todo su proceso de producción; la mediana es tres. El 97% ha usado AI de alguna forma. Las entrevistas confidenciales individuales se realizaron de abril a septiembre de 2026, sobre todo con estudios de PC y consola de Norteamérica (North America) y Europa (Europe), y todas siguieron la misma guía de 44 preguntas."
+              },
+              {
+                "t": "img",
+                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
+              },
+              {
+                "t": "p",
+                "x": "\"La pregunta interesante ya no es qué estudios de videojuegos usan AI\", dijo Boyes. \"Ahora la atención está en dónde la usan, qué está cambiando, qué ayuda de verdad y dónde siguen encontrando dificultades los equipos.\""
+              },
+              {
+                "t": "p",
+                "x": "El personal usa AI generativa para prototipos y conceptos, pero la mayoría no quería creaciones de AI en el producto final, y su uso en la construcción narrativa del mundo era muy bajo. Lo que frena a los estudios: la opinión de los jugadores, el sentir del personal, el presupuesto, las propias herramientas, el temor a perder empleos y la falta de tiempo. Un hallazgo: Europa (Europe) avanza hacia la AI más rápido que Norteamérica (North America)."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "games-spookitchen-demo-ai-copycat",
+      "source_lang": "ko",
+      "eyebrow": "AI NEWS",
+      "headline": "AI 복제 우려에\n스푸키친 데모 내려",
+      "body": "2인 개발팀 YNOT은 AI 복제작 우려로 '스푸키친' 데모 배포를 멈췄다.",
+      "mini_headline": "AI 복제 우려에\n데모 내려",
+      "tool": "Games",
+      "source": "인벤",
+      "url": "https://www.inven.co.kr/webzine/news/?news=322319",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
@@ -371,647 +683,425 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
+            "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
           },
           {
             "t": "p",
-            "x": "Valve의 인디 게임·데모 축제 Steam Next Fest가 막을 올렸다. 올해는 성의 없는 게임이 평소보다 많아 보인다. ChatGPT에 대충 프롬프트를 넣어 뽑은 듯한 아트를 쓴 게임도, 아예 AI로 만든 AI-made 게임도 적지 않다."
+            "x": "최근 출시를 앞둔 인디 게임들이 AI 복제작이 먼저 나올까 봐 공개 데모 배포를 취소하는 일이 잇따르는 가운데, 국내에서도 같은 사례가 나왔다."
           },
           {
             "t": "p",
-            "x": "Steam 서브레딧 이용자 ScalesGhost는 Discovery Queue를 더 세밀하게 조정하게 해 달라고 썼다. “AI-Generated 콘텐츠가 들어간 게임을 모두 걸러 내는 기능이 있었으면 한다(어차피 steam은 이미 이를 공개하도록 요구한다). 특정 태그도 제외하고 싶다.”"
+            "x": "국내 2인 개발팀 YNOT은 지난 17일, 누군가 AI로 자신들의 게임 '스푸키친'을 베끼고 있다는 연락을 받고 공개 데모 배포를 중단하겠다고 예고했다. 20일 실제로 데모를 내리면서 SNS와 스팀 페이지에 유저들을 향해 고충을 털어놓았다."
           },
-          {
-            "t": "p",
-            "x": "Steam의 태그 체계는 이미 탄탄하지만 Valve는 5월에 이용자 정의 태그를 줄였다. 이런 필터가 생기려면 Valve가 'AI'를 태그로 넣어야 한다. AI가 “Next Fest를 망쳤다”며 Steam이 등록 지침을 더 엄격하게 바꾸길 바라는 이용자도 있었다."
-          },
-          {
-            "t": "p",
-            "x": "Valve는 오랫동안 큐레이션에 손을 놓은 채 알고리즘이 저품질 게임을 묻어 주길 기다려 왔다. 그사이 게임 개발에서 AI는 계속 퍼지는 중이다. Epic은 “AI-first” 방향을 좇으려고 Star Wars 슈터 출시를 미뤘고, Capcom은 RE Engine을 개선하려고 REX 프로그램에서 AI를 쓰는 것으로 알려졌다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Players want a no-AI filter\nas Next Fest fills with slop",
-          "body": "As Steam Next Fest fills with AI-made demos, players are asking Valve for a filter hiding games that disclose generative AI.",
-          "mini_headline": "Steam no-AI filter call",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
-              },
-              {
-                "t": "p",
-                "x": "Steam Next Fest, Valve's festival for indie games and demos, has started, and it seems to include more low-effort games than usual — many with art that looks like it came from a quick ChatGPT prompt, or that were flat-out generated with AI."
-              },
-              {
-                "t": "p",
-                "x": "On the Steam subreddit, user ScalesGhost asked for more control over the Discovery Queue: “I would like the ability to filter out all games that have AI-Generated content in them (after all, steam already requires you to disclose it), and also I'd like to exclude certain tags.”"
-              },
-              {
-                "t": "p",
-                "x": "Steam already has a robust tagging system, but Valve cut down user-defined tags in May; for such a filter to exist, Valve would have to add 'AI' as a tag. Other users complained that AI has “ruined Next Fest” and hoped Steam would implement stricter submission guidelines."
-              },
-              {
-                "t": "p",
-                "x": "Valve has long taken a laissez-faire approach to curation, relying on the algorithm to bury shovelware. Meanwhile AI in game development keeps spreading: Epic delayed its Star Wars shooter to pursue an “AI-first” direction, and Capcom is reportedly using AI in its REX program to improve the RE Engine."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "슬롭 찬 Next Fest\nno-AI 필터 요구 나와",
-          "body": "Next Fest에 AI-made 데모가 쏟아지자 이용자들이 필터를 요구했다.",
-          "mini_headline": "Steam no-AI 필터 요구",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
-              },
-              {
-                "t": "p",
-                "x": "Valve의 인디 게임·데모 축제 Steam Next Fest가 막을 올렸다. 올해는 성의 없는 게임이 평소보다 많아 보인다. ChatGPT에 대충 프롬프트를 넣어 뽑은 듯한 아트를 쓴 게임도, 아예 AI로 만든 AI-made 게임도 적지 않다."
-              },
-              {
-                "t": "p",
-                "x": "Steam 서브레딧 이용자 ScalesGhost는 Discovery Queue를 더 세밀하게 조정하게 해 달라고 썼다. “AI-Generated 콘텐츠가 들어간 게임을 모두 걸러 내는 기능이 있었으면 한다(어차피 steam은 이미 이를 공개하도록 요구한다). 특정 태그도 제외하고 싶다.”"
-              },
-              {
-                "t": "p",
-                "x": "Steam의 태그 체계는 이미 탄탄하지만 Valve는 5월에 이용자 정의 태그를 줄였다. 이런 필터가 생기려면 Valve가 'AI'를 태그로 넣어야 한다. AI가 “Next Fest를 망쳤다”며 Steam이 등록 지침을 더 엄격하게 바꾸길 바라는 이용자도 있었다."
-              },
-              {
-                "t": "p",
-                "x": "Valve는 오랫동안 큐레이션에 손을 놓은 채 알고리즘이 저품질 게임을 묻어 주길 기다려 왔다. 그사이 게임 개발에서 AI는 계속 퍼지는 중이다. Epic은 “AI-first” 방향을 좇으려고 Star Wars 슈터 출시를 미뤘고, Capcom은 RE Engine을 개선하려고 REX 프로그램에서 AI를 쓰는 것으로 알려졌다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Next Festに粗製乱造\nno-AIフィルター要望",
-          "body": "AI-madeデモが溢れ、プレイヤーがValveにフィルターを求めている。",
-          "mini_headline": "Steam no-AIフィルター要望",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
-              },
-              {
-                "t": "p",
-                "x": "Valveのインディーゲームとデモの祭典Steam Next Festが始まった。今回は手抜きのゲームがいつもより多いようだ。ChatGPTに手早くプロンプトを入れて作ったようなアートのものや、丸ごとAIで生成されたAI-madeのゲームも多い。"
-              },
-              {
-                "t": "p",
-                "x": "Steamのサブレディットでは、ユーザーScalesGhostがDiscovery Queueをもっと細かく制御したいと求めた。「AI-Generatedコンテンツを含むゲームをすべて除外できる機能が欲しい(そもそもsteamは開示を義務づけている)。特定のタグも除外したい」"
-              },
-              {
-                "t": "p",
-                "x": "Steamにはすでに強力なタグ機能があるが、Valveは5月にユーザー定義タグを削減した。こうしたフィルターを実現するには、Valveが「AI」をタグとして追加する必要がある。ほかのユーザーはAIが「Next Festを台無しにした」と不満を述べ、Steamがより厳しい登録ガイドラインを導入することを望んだ。"
-              },
-              {
-                "t": "p",
-                "x": "Valveは長くキュレーションに自由放任の姿勢をとり、低品質なゲームはアルゴリズムで埋もれさせてきた。一方でゲーム開発へのAIの浸透は続いている。Epicは「AI-first」の方針を進めるためStar Warsのシューターを延期し、CapcomはRE Engineを改良するREXプログラムでAIを使っていると報じられている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Next Fest劣作泛滥\n玩家要求no-AI过滤",
-          "body": "Steam Next Fest涌现大量AI-made试玩版，玩家要求Valve提供过滤器。",
-          "mini_headline": "Steam no-AI过滤呼声",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
-              },
-              {
-                "t": "p",
-                "x": "Valve面向独立游戏和试玩版的活动Steam Next Fest已经开幕，粗制滥造的游戏似乎比往常更多——不少作品的美术像是随手用ChatGPT提示词生成的，或者干脆就是用AI生成的AI-made游戏。"
-              },
-              {
-                "t": "p",
-                "x": "在Steam的subreddit上，用户ScalesGhost希望能更好地控制Discovery Queue：“我希望能过滤掉所有含有AI-Generated内容的游戏（毕竟steam已经要求披露这一点），我还想排除某些标签。”"
-              },
-              {
-                "t": "p",
-                "x": "Steam已有一套完善的标签系统，但Valve在5月削减了用户自定义标签；要实现这样的过滤器，Valve必须把“AI”加为标签。其他用户抱怨AI“毁了Next Fest”，希望Steam实行更严格的提交准则。"
-              },
-              {
-                "t": "p",
-                "x": "Valve长期对内容筛选采取放任态度，依靠算法埋没劣质游戏。与此同时，AI在游戏开发中持续扩散：Epic为追求“AI-first”方向推迟了旗下Star Wars射击游戏，据报道Capcom正在REX项目中使用AI来改进RE Engine。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Jugadores piden un filtro no-AI\nante el slop en Next Fest",
-          "body": "Con Next Fest lleno de demos AI-made, los jugadores piden a Valve un filtro que oculte juegos con IA generativa.",
-          "mini_headline": "Piden filtro no-AI en Steam",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
-              },
-              {
-                "t": "p",
-                "x": "Steam Next Fest, el festival de Valve para juegos independientes y demos, ya comenzó, y parece incluir más juegos de bajo esfuerzo de lo habitual: muchos con arte que parece salido de un prompt rápido de ChatGPT, o directamente juegos AI-made, generados con IA."
-              },
-              {
-                "t": "p",
-                "x": "En el subreddit de Steam, el usuario ScalesGhost pidió más control sobre la Discovery Queue: “Me gustaría poder filtrar todos los juegos que tengan contenido AI-Generated (al fin y al cabo, steam ya exige declararlo), y también me gustaría excluir ciertas etiquetas.”"
-              },
-              {
-                "t": "p",
-                "x": "Steam ya tiene un sólido sistema de etiquetas, pero Valve recortó las etiquetas definidas por los usuarios en mayo; para que exista un filtro así, Valve tendría que añadir 'AI' como etiqueta. Otros usuarios se quejaron de que la IA ha “arruinado Next Fest” y esperan que Steam aplique normas de envío más estrictas."
-              },
-              {
-                "t": "p",
-                "x": "Valve lleva tiempo con un enfoque de laissez-faire en la curación y confía en el algoritmo para enterrar el shovelware. Mientras tanto, la IA sigue extendiéndose en el desarrollo de juegos: Epic retrasó su shooter de Star Wars para seguir una dirección “AI-first”, y Capcom estaría usando IA en su programa REX para mejorar el RE Engine."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "슬롭 찬 Next Fest\nno-AI 필터 요구 나와",
-          "body": "Next Fest에 AI-made 데모가 쏟아지자 이용자들이 필터를 요구했다.",
-          "mini_headline": "Steam no-AI 필터 요구",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
-              },
-              {
-                "t": "p",
-                "x": "Valve의 인디 게임·데모 축제인 Steam Next Fest가 시작됐다. 올해는 성의 없는 게임이 평소보다 많아 보인다. ChatGPT에 대충 프롬프트를 넣어 뽑은 듯한 아트를 쓰거나, 아예 AI로 생성한 AI-made 게임이 적지 않다."
-              },
-              {
-                "t": "p",
-                "x": "Steam 서브레딧에서 이용자 ScalesGhost는 Discovery Queue를 더 세밀하게 조정하게 해 달라고 했다. “AI-Generated 콘텐츠가 들어간 게임을 모두 걸러 내는 기능이 있었으면 한다(어차피 steam은 이미 이를 공개하도록 요구한다). 특정 태그도 제외하고 싶다.”"
-              },
-              {
-                "t": "p",
-                "x": "Steam에는 이미 탄탄한 태그 체계가 있지만, Valve는 5월에 이용자 정의 태그를 줄였다. 이런 필터가 생기려면 Valve가 'AI'를 태그로 추가해야 한다. 다른 이용자들은 AI가 “Next Fest를 망쳤다”고 불평하며 Steam이 더 엄격한 등록 지침을 도입하길 바랐다."
-              },
-              {
-                "t": "p",
-                "x": "Valve는 오랫동안 큐레이션에 방임적인 태도를 취하며 알고리즘이 저품질 게임을 묻어 주길 기대해 왔다. 그사이 게임 개발에서 AI는 계속 퍼지고 있다. Epic은 “AI-first” 방향을 추구하려고 Star Wars 슈터 출시를 미뤘고, Capcom은 RE Engine 개선을 위해 REX 프로그램에서 AI를 쓰는 것으로 알려졌다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Next Festに粗製乱造\nno-AIフィルター要望",
-          "body": "AI-madeデモが溢れ、プレイヤーがValveにフィルターを求めている。",
-          "mini_headline": "Steam no-AIフィルター要望",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
-              },
-              {
-                "t": "p",
-                "x": "Valveのインディーゲームとデモの祭典Steam Next Festが始まった。今回は手抜きのゲームがいつもより多いようだ。ChatGPTに手早くプロンプトを入れて作ったようなアートのものや、丸ごとAIで生成されたAI-madeのゲームも多い。"
-              },
-              {
-                "t": "p",
-                "x": "Steamのサブレディットでは、ユーザーScalesGhostがDiscovery Queueをもっと細かく制御したいと求めた。「AI-Generatedコンテンツを含むゲームをすべて除外できる機能が欲しい(そもそもsteamは開示を義務づけている)。特定のタグも除外したい」"
-              },
-              {
-                "t": "p",
-                "x": "Steamにはすでに強力なタグ機能があるが、Valveは5月にユーザー定義タグを削減した。こうしたフィルターを実現するには、Valveが「AI」をタグとして追加する必要がある。ほかのユーザーはAIが「Next Festを台無しにした」と不満を述べ、Steamがより厳しい登録ガイドラインを導入することを望んだ。"
-              },
-              {
-                "t": "p",
-                "x": "Valveは長くキュレーションに自由放任の姿勢をとり、低品質なゲームはアルゴリズムで埋もれさせてきた。一方でゲーム開発へのAIの浸透は続いている。Epicは「AI-first」の方針を進めるためStar Warsのシューターを延期し、CapcomはRE Engineを改良するREXプログラムでAIを使っていると報じられている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Next Fest劣作泛滥\n玩家要求no-AI过滤",
-          "body": "Steam Next Fest涌现大量AI-made试玩版，玩家要求Valve提供过滤器。",
-          "mini_headline": "Steam no-AI过滤呼声",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
-              },
-              {
-                "t": "p",
-                "x": "Valve面向独立游戏和试玩版的活动Steam Next Fest已经开幕，粗制滥造的游戏似乎比往常更多——不少作品的美术像是随手用ChatGPT提示词生成的，或者干脆就是用AI生成的AI-made游戏。"
-              },
-              {
-                "t": "p",
-                "x": "在Steam的subreddit上，用户ScalesGhost希望能更好地控制Discovery Queue：“我希望能过滤掉所有含有AI-Generated内容的游戏（毕竟steam已经要求披露这一点），我还想排除某些标签。”"
-              },
-              {
-                "t": "p",
-                "x": "Steam已有一套完善的标签系统，但Valve在5月削减了用户自定义标签；要实现这样的过滤器，Valve必须把“AI”加为标签。其他用户抱怨AI“毁了Next Fest”，希望Steam实行更严格的提交准则。"
-              },
-              {
-                "t": "p",
-                "x": "Valve长期对内容筛选采取放任态度，依靠算法埋没劣质游戏。与此同时，AI在游戏开发中持续扩散：Epic为追求“AI-first”方向推迟了旗下Star Wars射击游戏，据报道Capcom正在REX项目中使用AI来改进RE Engine。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Jugadores piden un filtro no-AI\nante el slop en Next Fest",
-          "body": "Con Next Fest lleno de demos AI-made, los jugadores piden a Valve un filtro que oculte juegos con IA generativa.",
-          "mini_headline": "Piden filtro no-AI en Steam",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2023/07/01/steam-blogroll-logos-1663887576752-1673156937925-1688244430676.jpg?width=1280&format=jpg&auto=webp&quality=80"
-              },
-              {
-                "t": "p",
-                "x": "Steam Next Fest, el festival de Valve para juegos independientes y demos, ya comenzó, y parece incluir más juegos de bajo esfuerzo de lo habitual: muchos con arte que parece salido de un prompt rápido de ChatGPT, o directamente juegos AI-made, generados con IA."
-              },
-              {
-                "t": "p",
-                "x": "En el subreddit de Steam, el usuario ScalesGhost pidió más control sobre la Discovery Queue: “Me gustaría poder filtrar todos los juegos que tengan contenido AI-Generated (al fin y al cabo, steam ya exige declararlo), y también me gustaría excluir ciertas etiquetas.”"
-              },
-              {
-                "t": "p",
-                "x": "Steam ya tiene un sólido sistema de etiquetas, pero Valve recortó las etiquetas definidas por los usuarios en mayo; para que exista un filtro así, Valve tendría que añadir 'AI' como etiqueta. Otros usuarios se quejaron de que la IA ha “arruinado Next Fest” y esperan que Steam aplique normas de envío más estrictas."
-              },
-              {
-                "t": "p",
-                "x": "Valve lleva tiempo con un enfoque de laissez-faire en la curación y confía en el algoritmo para enterrar el shovelware. Mientras tanto, la IA sigue extendiéndose en el desarrollo de juegos: Epic retrasó su shooter de Star Wars para seguir una dirección “AI-first”, y Capcom estaría usando IA en su programa REX para mejorar el RE Engine."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "games-finals-ai-commentary",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "The Finals에\n닉네임 부르는 AI 해설",
-      "body": "The Finals 해설 Scott과 June이 AI로 플레이어 이름을 부른다.",
-      "mini_headline": "The Finals AI 아나운서",
-      "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/fps/the-finals-adding-real-time-ai-commentary-in-new-update-thatll-call-out-peoples-usernames-a-feature-the-devs-will-almost-certainly-regret/",
-      "accent": "#2ec5c5",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
           {
             "t": "video",
-            "yt": "eA9_Q6d2H-g"
+            "yt": "HRKQOlIYAQY"
           },
           {
             "t": "p",
-            "x": "Arc Raiders의 전작이 AI를 빌려 중계를 한층 역동적으로 바꾼다. Embark Studios가 대형 익스트랙션 슈터보다 먼저 내놓은 멀티플레이 FPS The Finals에서는 게임 속 실황 중계가 플레이어를 실시간으로 알아본다."
+            "x": "스푸키친은 괴물들이 사는 할로윈 마을에서 요리를 내놓는 타이쿤 게임이다. 귀여운 아트로 인디 팬들의 호응을 얻어 BIC에 2년 연속 나갔지만, 스팀 넥스트 페스트를 앞두고 복제작이 나올까 봐 데모를 닫을 수밖에 없었다."
+          },
+          {
+            "t": "img",
+            "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
+            "cap": "최근 AI 복제 사태로 데모를 닫았다 ©YNOT, @Sini_Ming"
           },
           {
             "t": "p",
-            "x": "개발팀은 짧은 영상으로 기능을 공개했다. The Finals를 하면 들리는 두 목소리 Scott과 June이 누군가 멋진 플레이를 할 때마다 그 닉네임을 부르기 시작한다. 그냥 “좋은 헤드샷이네요”가 아니라 “[Player]가 멋진 헤드샷을 기록했습니다”라는 말을 듣게 된다."
+            "x": "YNOT은 \"데모를 닫는것은 일시적인 방법으로, 근본적인 해결이 되지는 않습니다\"라며 \"최대한 흔들리지 않고 평소대로 개발에 전념하려고 합니다\"라고 전했다."
           },
           {
             "t": "p",
-            "x": "처음에는 개발진이 기술을 시험해 볼 수 있게 이런 멘트를 비교적 드물게 내보낸다. The Finals 오디오 디렉터 Carl Strandberg는 “범위를 좁게 유지하면 그가 실제로 하는 말을 다듬을 수 있다”며 “제대로 들리는지, 우리 모두가 알고 사랑하는 그 Scotty답게 들리는지 확인할 수 있다”고 설명했다."
-          },
-          {
-            "t": "p",
-            "x": "목소리 자체가 사실상 자동 텍스트 음성 변환(text-to-speech)이라서 이 모든 게 AI로 돌아간다. 중계에는 이미 이 기술이 쓰이고 있다. 몇 년 전 팬들이 이를 알아챘을 때 Embark는 비판을 받았다."
-          },
-          {
-            "t": "p",
-            "x": "기능은 10월 20일 Prime Time 업데이트에 들어간다."
+            "x": "이런 우려는 10월 들어 인디 게임계에 번지고 있다. '건초 더미에서 바늘 찾기 시뮬레이터'는 출시 전에 유사작이 최소 8개 나와 상점 이미지에 'ORIGINAL' 문구를 붙였고, '패밀리 타임'도 같은 이름의 유사작이 등장했다. 돈을 주지 않으면 AI 복제작을 먼저 내겠다는 협박 메일도 잇따른다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "The Finals adds AI commentary\nthat calls out usernames",
-          "body": "Embark is adding real-time AI commentary to The Finals, with announcers Scott and June naming players after big plays.",
-          "mini_headline": "The Finals AI announcers",
+        "ko": {
+          "headline": "AI 복제 우려에\n스푸키친 데모 내려",
+          "body": "2인 개발팀 YNOT은 AI 복제작 우려로 '스푸키친' 데모 배포를 멈췄다.",
+          "mini_headline": "AI 복제 우려에\n데모 내려",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+              },
+              {
+                "t": "p",
+                "x": "최근 출시를 앞둔 인디 게임들이 AI 복제작이 먼저 나올까 봐 공개 데모 배포를 취소하는 일이 잇따르는 가운데, 국내에서도 같은 사례가 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "국내 2인 개발팀 YNOT은 지난 17일, 누군가 AI로 자신들의 게임 '스푸키친'을 베끼고 있다는 연락을 받고 공개 데모 배포를 중단하겠다고 예고했다. 20일 실제로 데모를 내리면서 SNS와 스팀 페이지에 유저들을 향해 고충을 털어놓았다."
+              },
+              {
                 "t": "video",
-                "yt": "eA9_Q6d2H-g"
+                "yt": "HRKQOlIYAQY"
               },
               {
                 "t": "p",
-                "x": "The predecessor to Arc Raiders is bringing in some dynamic commentary through the power of AI. The Finals, the multiplayer FPS Embark Studios released before its mammoth extraction shooter, is introducing a way to recognize players in real time through in-game play-by-play."
+                "x": "스푸키친은 괴물들이 사는 할로윈 마을에서 요리를 내놓는 타이쿤 게임이다. 귀여운 아트로 인디 팬들의 호응을 얻어 BIC에 2년 연속 나갔지만, 스팀 넥스트 페스트를 앞두고 복제작이 나올까 봐 데모를 닫을 수밖에 없었다."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
+                "cap": "최근 AI 복제 사태로 데모를 닫았다 ©YNOT, @Sini_Ming"
               },
               {
                 "t": "p",
-                "x": "The team revealed the feature in a short video. Essentially, Scott and June, the two voices you hear while playing The Finals, will start mentioning people's nicknames whenever they do something cool. So, instead of just hearing, “And that's a good headshot,” you'll get, “[Player] just scored a good headshot.”"
+                "x": "YNOT은 \"데모를 닫는것은 일시적인 방법으로, 근본적인 해결이 되지는 않습니다\"라며 \"최대한 흔들리지 않고 평소대로 개발에 전념하려고 합니다\"라고 전했다."
               },
               {
                 "t": "p",
-                "x": "Initially, the list of ways you'll hear this will be relatively short, to help the devs test the technology. “Keeping it narrow means we can curate what he actually says,” explains Carl Strandberg, audio director on The Finals. “Make sure it sounds good, and like the Scotty we all know and love.”"
-              },
-              {
-                "t": "p",
-                "x": "This is all powered through AI, since the voice is essentially performing an automatic text-to-speech function. The commentary already uses this technology, and Embark took some flak when the fanbase learned about that a few years ago."
-              },
-              {
-                "t": "p",
-                "x": "It arrives in the Prime Time update on October 20."
+                "x": "이런 우려는 10월 들어 인디 게임계에 번지고 있다. '건초 더미에서 바늘 찾기 시뮬레이터'는 출시 전에 유사작이 최소 8개 나와 상점 이미지에 'ORIGINAL' 문구를 붙였고, '패밀리 타임'도 같은 이름의 유사작이 등장했다. 돈을 주지 않으면 AI 복제작을 먼저 내겠다는 협박 메일도 잇따른다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "The Finals에\n닉네임 부르는 AI 해설",
-          "body": "The Finals 해설 Scott과 June이 AI로 플레이어 이름을 부른다.",
-          "mini_headline": "The Finals AI 아나운서",
+        "en": {
+          "headline": "AI copycat fears pull\nSpookitchen's demo",
+          "body": "The 2-person team YNOT stopped distributing its 'Spookitchen' demo over fears of AI copycats.",
+          "mini_headline": "AI copycat fears\npull a demo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Indie games nearing launch have recently been reported cancelling public demo releases, fearing that AI-made copycats could appear first, and now such a case has emerged in Korea as well."
+              },
+              {
+                "t": "p",
+                "x": "On the 17th, YNOT, a 2-person Korean development team, announced it would stop distributing its public demo after being told that someone was using AI to copy its game 'Spookitchen'. On the 20th it pulled the demo and shared its frustrations with users through SNS and its Steam page."
+              },
+              {
                 "t": "video",
-                "yt": "eA9_Q6d2H-g"
+                "yt": "HRKQOlIYAQY"
               },
               {
                 "t": "p",
-                "x": "Arc Raiders의 전작이 AI를 빌려 중계를 한층 역동적으로 바꾼다. Embark Studios가 대형 익스트랙션 슈터보다 먼저 내놓은 멀티플레이 FPS The Finals에서는 게임 속 실황 중계가 플레이어를 실시간으로 알아본다."
+                "x": "Spookitchen is a tycoon game about serving dishes in a Halloween village inhabited by monsters. Its cute art won over indie fans, and it appeared at BIC 2 years in a row. But ahead of Steam Next Fest, the team had no choice but to close the demo over fears that copycats would appear."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
+                "cap": "The demo was closed because of the recent wave of AI copying ©YNOT, @Sini_Ming"
               },
               {
                 "t": "p",
-                "x": "개발팀은 짧은 영상으로 기능을 공개했다. The Finals를 하면 들리는 두 목소리 Scott과 June이 누군가 멋진 플레이를 할 때마다 그 닉네임을 부르기 시작한다. 그냥 “좋은 헤드샷이네요”가 아니라 “[Player]가 멋진 헤드샷을 기록했습니다”라는 말을 듣게 된다."
+                "x": "YNOT said, \"Closing the demo is a temporary measure, not a fundamental solution,\" adding, \"We will try our best not to be shaken and to stay focused on development as usual.\""
               },
               {
                 "t": "p",
-                "x": "처음에는 개발진이 기술을 시험해 볼 수 있게 이런 멘트를 비교적 드물게 내보낸다. The Finals 오디오 디렉터 Carl Strandberg는 “범위를 좁게 유지하면 그가 실제로 하는 말을 다듬을 수 있다”며 “제대로 들리는지, 우리 모두가 알고 사랑하는 그 Scotty답게 들리는지 확인할 수 있다”고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "목소리 자체가 사실상 자동 텍스트 음성 변환(text-to-speech)이라서 이 모든 게 AI로 돌아간다. 중계에는 이미 이 기술이 쓰이고 있다. 몇 년 전 팬들이 이를 알아챘을 때 Embark는 비판을 받았다."
-              },
-              {
-                "t": "p",
-                "x": "기능은 10월 20일 Prime Time 업데이트에 들어간다."
+                "x": "These concerns have been spreading through the indie scene since October. 'Needle in a Haystack Simulator' saw at least 8 lookalikes appear before launch and added the word 'ORIGINAL' to its store images, and 'Family Time' also got a lookalike with the same name. Cases of threatening emails warning that an AI copycat will be released first unless money is paid also keep coming."
               }
             ]
           }
         },
         "ja": {
-          "headline": "The Finalsに\nユーザー名を呼ぶAI実況",
-          "body": "The Finalsの実況役ScottとJuneが、AIで活躍したプレイヤーの名を呼ぶ。",
-          "mini_headline": "The FinalsのAI実況",
+          "headline": "AI複製を懸念し\nスプーキッチン、デモ撤回",
+          "body": "2人の開発チームYNOTは、AI複製作への懸念から『スプーキッチン』のデモ配布を中止した。",
+          "mini_headline": "AI複製を懸念し\nデモ撤回",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+              },
+              {
+                "t": "p",
+                "x": "最近、発売を控えたインディーゲームが、AIを使った複製作が先に登場する可能性を懸念して公開デモの配布を取りやめる事例が報告されるなか、韓国国内でも同様のケースが出た。"
+              },
+              {
+                "t": "p",
+                "x": "韓国の2人開発チームYNOTは17日、誰かがAIで自分たちのゲーム『スプーキッチン』を模倣して作っているとの連絡を受け、公開デモの配布を中止すると予告した。そして20日にデモの配布を止め、SNSとSteamページを通じてユーザーに苦しい胸の内を明かした。"
+              },
+              {
                 "t": "video",
-                "yt": "eA9_Q6d2H-g"
+                "yt": "HRKQOlIYAQY"
               },
               {
                 "t": "p",
-                "x": "Arc Raidersの前身となる作品が、AIの力でダイナミックな実況を取り入れる。Embark Studiosが大型エクストラクションシューターより先にリリースしたマルチプレイFPSのThe Finalsは、ゲーム内の実況でプレイヤーをリアルタイムに取り上げる仕組みを導入する。"
+                "x": "『スプーキッチン』はモンスターが暮らすハロウィンの村で料理を振る舞うタイクーンゲームで、かわいいアートでインディーファンの支持を集め、BICに2年連続で出展した。しかしSteam Next Festを前に、複製作の登場を懸念してデモを閉じざるを得なかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
+                "cap": "最近のAIによる複製騒動を受けてデモを閉じた ©YNOT, @Sini_Ming"
               },
               {
                 "t": "p",
-                "x": "チームは短い動画でこの機能を公開した。The Finalsのプレイ中に聞こえる二人の声、ScottとJuneが、誰かが見事なプレイをするたびにそのニックネームを口にするようになる。つまり「今のはいいヘッドショットだ」と聞こえる代わりに、「[Player]がいいヘッドショットを決めた」と聞こえるわけだ。"
+                "x": "YNOTは「デモを閉じるのは一時的な手段であり、根本的な解決にはなりません」としたうえで、「できる限り動揺せず、普段どおり開発に専念するつもりです」と伝えた。"
               },
               {
                 "t": "p",
-                "x": "当初は開発陣が技術をテストできるよう、こうした実況が流れる場面は比較的限られる。The FinalsのオーディオディレクターであるCarl Strandbergは「範囲を絞れば、彼が実際に話す内容を吟味できる」と説明する。「ちゃんと良く聞こえるか、みんながよく知って愛しているScottyらしく聞こえるかを確かめられる」"
-              },
-              {
-                "t": "p",
-                "x": "音声は実質的に自動のテキスト読み上げ（text-to-speech）機能を担っているため、これはすべてAIで動いている。実況にはすでにこの技術が使われており、数年前にファンがそれを知った際、Embarkは批判を浴びた。"
-              },
-              {
-                "t": "p",
-                "x": "10月20日のPrime Timeアップデートで実装される。"
+                "x": "こうした懸念は10月を境にインディーゲーム界に広がっている。『干し草の山から針を探すシミュレーター』は発売前に類似作が少なくとも8本現れ、ストア画像に「ORIGINAL」の文言を付けた。『ファミリータイム』にも同名の類似作が登場した。金を払わなければAI複製作を先に発売すると脅すメールの事例も相次いでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "The Finals新增\n喊玩家名字的AI解说",
-          "body": "The Finals加入实时AI解说，Scott和June会在高光时刻喊出玩家名字。",
-          "mini_headline": "The Finals AI解说员",
+          "headline": "因忧AI抄袭\nSpookitchen撤试玩",
+          "body": "2人开发团队YNOT因担忧AI抄袭作，停止发布《Spookitchen》试玩版。",
+          "mini_headline": "担忧AI抄袭\n撤下试玩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+              },
+              {
+                "t": "p",
+                "x": "近来有报道称，一些即将发售的独立游戏担心借助AI制作的抄袭作抢先出现，因而取消了公开试玩版的发布；如今韩国国内也出现了这样的案例。"
+              },
+              {
+                "t": "p",
+                "x": "韩国2人开发团队YNOT于17日收到消息，称有人正在用AI抄袭他们的游戏《Spookitchen》，随即预告将停止发布公开试玩版。20日，团队正式停止发布试玩版，并通过SNS和Steam页面向玩家倾诉了苦衷。"
+              },
+              {
                 "t": "video",
-                "yt": "eA9_Q6d2H-g"
+                "yt": "HRKQOlIYAQY"
               },
               {
                 "t": "p",
-                "x": "Arc Raiders的前作正借助AI的力量引入动态解说。The Finals是Embark Studios在推出其大型撤离射击游戏之前发行的多人FPS，如今将通过游戏内实况解说实时点名玩家。"
+                "x": "《Spookitchen》是一款在怪物居住的万圣节小镇里烹饪料理的模拟经营游戏，凭借可爱的美术风格获得独立游戏粉丝的好评，连续2年参展BIC。然而在Steam Next Fest前夕，团队因担心抄袭作出现，不得不关闭试玩。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
+                "cap": "因近来用AI抄袭的事件而关闭了试玩 ©YNOT, @Sini_Ming"
               },
               {
                 "t": "p",
-                "x": "团队在一段短视频中公布了这一功能。简单来说，玩The Finals时听到的两位解说Scott和June，会在有人打出精彩操作时喊出对方的昵称。也就是说，你听到的不再只是“这是一记漂亮的爆头”，而是“[Player]刚刚打出一记漂亮的爆头”。"
+                "x": "YNOT表示：“关闭试玩只是权宜之计，并不能从根本上解决问题。”并称：“我们会尽量不受影响，像往常一样专注于开发。”"
               },
               {
                 "t": "p",
-                "x": "起初，这类播报的触发场景会相对较少，方便开发者测试这项技术。The Finals音频总监Carl Strandberg解释说：“范围收窄，意味着我们可以把关他实际说的内容。”“确保它听起来不错，而且像我们都熟悉和喜爱的那个Scotty。”"
-              },
-              {
-                "t": "p",
-                "x": "这一切都由AI驱动，因为这个声音本质上是在执行自动文本转语音（text-to-speech）功能。解说本身早已使用这项技术，几年前粉丝得知此事时，Embark曾遭到一些批评。"
-              },
-              {
-                "t": "p",
-                "x": "该功能将随10月20日的Prime Time更新上线。"
+                "x": "这种担忧自10月起在独立游戏圈蔓延。《干草堆里找针模拟器》在发售前就出现了至少8款同类作品，只好在商店图片上加上“ORIGINAL”字样；《家庭时光》也出现了同名的同类作品。以不付钱就抢先发布AI抄袭作相威胁的邮件案例也接连不断。"
               }
             ]
           }
         },
         "es": {
-          "headline": "The Finals suma comentarios\ncon IA que nombran a jugadores",
-          "body": "Embark añade a The Finals comentarios con IA en tiempo real: Scott y June nombrarán a los jugadores.",
-          "mini_headline": "Locutores con IA en The Finals",
+          "headline": "El temor a copias con AI\nretira la demo de Spookitchen",
+          "body": "El equipo de 2 personas YNOT dejó de distribuir la demo de 'Spookitchen' por temor a copias hechas con AI.",
+          "mini_headline": "Temor a copias con AI:\ndemo retirada",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Recientemente se han reportado casos de juegos indie a punto de lanzarse que cancelan la distribución de sus demos públicas por temor a que aparezcan antes copias hechas con AI, y ahora ha surgido un caso así en Corea."
+              },
+              {
+                "t": "p",
+                "x": "YNOT, un equipo coreano de 2 personas, anunció el día 17 que dejaría de distribuir su demo pública tras recibir un aviso de que alguien estaba copiando con AI su juego 'Spookitchen'. El día 20 retiró la demo y compartió sus dificultades con los usuarios a través de SNS y de su página de Steam."
+              },
+              {
                 "t": "video",
-                "yt": "eA9_Q6d2H-g"
+                "yt": "HRKQOlIYAQY"
               },
               {
                 "t": "p",
-                "x": "El predecesor de Arc Raiders incorpora comentarios dinámicos gracias a la IA. The Finals, el FPS multijugador que Embark Studios lanzó antes de su enorme extraction shooter, introduce una forma de reconocer a los jugadores en tiempo real mediante la narración dentro del juego."
+                "x": "Spookitchen es un juego de gestión tipo tycoon en el que se sirven platos en un pueblo de Halloween habitado por monstruos. Su arte adorable le ganó el apoyo de los fans del indie y participó en BIC 2 años seguidos. Sin embargo, ante el Steam Next Fest, el equipo no tuvo más remedio que cerrar la demo por temor a la aparición de copias."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
+                "cap": "La demo se cerró a raíz de la reciente ola de copias hechas con AI ©YNOT, @Sini_Ming"
               },
               {
                 "t": "p",
-                "x": "El equipo presentó la función en un breve video. Básicamente, Scott y June, las dos voces que se escuchan al jugar a The Finals, empezarán a mencionar los apodos de los jugadores cada vez que hagan algo destacado. Así, en lugar de oír solo “Y ese es un buen headshot”, se oirá “[Player] acaba de conseguir un buen headshot”."
+                "x": "YNOT afirmó: \"Cerrar la demo es una medida temporal y no una solución de fondo\", y añadió: \"Intentaremos no dejarnos afectar y seguir concentrados en el desarrollo como siempre\"."
               },
               {
                 "t": "p",
-                "x": "Al principio, la lista de situaciones en las que se oirá será relativamente corta, para ayudar a los desarrolladores a probar la tecnología. “Mantenerlo acotado nos permite cuidar lo que realmente dice”, explica Carl Strandberg, director de audio de The Finals. “Asegurarnos de que suene bien y como el Scotty que todos conocemos y queremos”."
-              },
-              {
-                "t": "p",
-                "x": "Todo funciona con IA, ya que la voz realiza básicamente una función automática de texto a voz (text-to-speech). Los comentarios ya usan esta tecnología, y Embark recibió críticas cuando los fans lo supieron hace unos años."
-              },
-              {
-                "t": "p",
-                "x": "Llega con la actualización Prime Time el 20 de octubre."
+                "x": "Esta preocupación se extiende por la escena indie desde octubre. 'Simulador de buscar una aguja en un pajar' vio aparecer al menos 8 imitaciones antes de su lanzamiento, por lo que añadió la palabra 'ORIGINAL' a las imágenes de su tienda, y 'Tiempo en familia' también tuvo una imitación con el mismo nombre. Además, siguen apareciendo correos con amenazas de lanzar primero una copia hecha con AI si no se paga."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "The Finals에\n닉네임 부르는 AI 해설",
-          "body": "The Finals 해설 Scott과 June이 AI로 플레이어 이름을 부른다.",
-          "mini_headline": "The Finals AI 아나운서",
+        "en": {
+          "headline": "AI copycat fears pull\nSpookitchen's demo",
+          "body": "The 2-person team YNOT stopped distributing its 'Spookitchen' demo over fears of AI copycats.",
+          "mini_headline": "AI copycat fears\npull a demo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Indie games nearing launch have recently been reported cancelling public demo releases, fearing that AI-made copycats could appear first, and now such a case has emerged in Korea as well."
+              },
+              {
+                "t": "p",
+                "x": "On the 17th, YNOT, a 2-person Korean development team, announced it would stop distributing its public demo after being told that someone was using AI to copy its game 'Spookitchen'. On the 20th it pulled the demo and shared its frustrations with users through SNS and its Steam page."
+              },
+              {
                 "t": "video",
-                "yt": "eA9_Q6d2H-g"
+                "yt": "HRKQOlIYAQY"
               },
               {
                 "t": "p",
-                "x": "Arc Raiders의 전작이 AI의 힘을 빌려 역동적인 중계를 도입한다. Embark Studios가 대형 익스트랙션 슈터에 앞서 내놓은 멀티플레이 FPS The Finals는 게임 속 실황 중계로 플레이어를 실시간으로 알아보는 방식을 선보인다."
+                "x": "Spookitchen is a tycoon game about serving dishes in a Halloween village inhabited by monsters. Its cute art won over indie fans, and it appeared at BIC 2 years in a row. But ahead of Steam Next Fest, the team had no choice but to close the demo over fears that copycats would appear."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
+                "cap": "The demo was closed because of the recent wave of AI copying ©YNOT, @Sini_Ming"
               },
               {
                 "t": "p",
-                "x": "개발팀은 짧은 영상으로 이 기능을 공개했다. The Finals를 하며 듣는 두 목소리 Scott과 June이 누군가 멋진 플레이를 할 때마다 그 닉네임을 언급하기 시작한다. 그저 “좋은 헤드샷이네요”가 아니라 “[Player]가 멋진 헤드샷을 기록했습니다”라는 말을 듣게 되는 셈이다."
+                "x": "YNOT said, \"Closing the demo is a temporary measure, not a fundamental solution,\" adding, \"We will try our best not to be shaken and to stay focused on development as usual.\""
               },
               {
                 "t": "p",
-                "x": "처음에는 개발진이 기술을 시험할 수 있도록 이런 멘트가 나오는 경우를 비교적 적게 둔다. The Finals 오디오 디렉터 Carl Strandberg는 “범위를 좁게 유지하면 그가 실제로 하는 말을 다듬을 수 있다”며 “제대로 들리는지, 우리 모두가 알고 사랑하는 그 Scotty답게 들리는지 확인할 수 있다”고 설명했다."
-              },
-              {
-                "t": "p",
-                "x": "목소리가 사실상 자동 텍스트 음성 변환(text-to-speech) 기능을 수행하기 때문에 이 모든 것은 AI로 구동된다. 중계에는 이미 이 기술이 쓰이고 있으며, 몇 년 전 팬들이 이를 알았을 때 Embark는 비판을 받았다."
-              },
-              {
-                "t": "p",
-                "x": "이 기능은 10월 20일 Prime Time 업데이트로 들어온다."
+                "x": "These concerns have been spreading through the indie scene since October. 'Needle in a Haystack Simulator' saw at least 8 lookalikes appear before launch and added the word 'ORIGINAL' to its store images, and 'Family Time' also got a lookalike with the same name. Cases of threatening emails warning that an AI copycat will be released first unless money is paid also keep coming."
               }
             ]
           }
         },
         "ja": {
-          "headline": "The Finalsに\nユーザー名を呼ぶAI実況",
-          "body": "The Finalsの実況役ScottとJuneが、AIで活躍したプレイヤーの名を呼ぶ。",
-          "mini_headline": "The FinalsのAI実況",
+          "headline": "AI複製を懸念し\nスプーキッチン、デモ撤回",
+          "body": "2人の開発チームYNOTは、AI複製作への懸念から『スプーキッチン』のデモ配布を中止した。",
+          "mini_headline": "AI複製を懸念し\nデモ撤回",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+              },
+              {
+                "t": "p",
+                "x": "最近、発売を控えたインディーゲームが、AIを使った複製作が先に登場する可能性を懸念して公開デモの配布を取りやめる事例が報告されるなか、韓国国内でも同様のケースが出た。"
+              },
+              {
+                "t": "p",
+                "x": "韓国の2人開発チームYNOTは17日、誰かがAIで自分たちのゲーム『スプーキッチン』を模倣して作っているとの連絡を受け、公開デモの配布を中止すると予告した。そして20日にデモの配布を止め、SNSとSteamページを通じてユーザーに苦しい胸の内を明かした。"
+              },
+              {
                 "t": "video",
-                "yt": "eA9_Q6d2H-g"
+                "yt": "HRKQOlIYAQY"
               },
               {
                 "t": "p",
-                "x": "Arc Raidersの前身となる作品が、AIの力でダイナミックな実況を取り入れる。Embark Studiosが大型エクストラクションシューターより先にリリースしたマルチプレイFPSのThe Finalsは、ゲーム内の実況でプレイヤーをリアルタイムに取り上げる仕組みを導入する。"
+                "x": "『スプーキッチン』はモンスターが暮らすハロウィンの村で料理を振る舞うタイクーンゲームで、かわいいアートでインディーファンの支持を集め、BICに2年連続で出展した。しかしSteam Next Festを前に、複製作の登場を懸念してデモを閉じざるを得なかった。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
+                "cap": "最近のAIによる複製騒動を受けてデモを閉じた ©YNOT, @Sini_Ming"
               },
               {
                 "t": "p",
-                "x": "チームは短い動画でこの機能を公開した。The Finalsのプレイ中に聞こえる二人の声、ScottとJuneが、誰かが見事なプレイをするたびにそのニックネームを口にするようになる。つまり「今のはいいヘッドショットだ」と聞こえる代わりに、「[Player]がいいヘッドショットを決めた」と聞こえるわけだ。"
+                "x": "YNOTは「デモを閉じるのは一時的な手段であり、根本的な解決にはなりません」としたうえで、「できる限り動揺せず、普段どおり開発に専念するつもりです」と伝えた。"
               },
               {
                 "t": "p",
-                "x": "当初は開発陣が技術をテストできるよう、こうした実況が流れる場面は比較的限られる。The FinalsのオーディオディレクターであるCarl Strandbergは「範囲を絞れば、彼が実際に話す内容を吟味できる」と説明する。「ちゃんと良く聞こえるか、みんながよく知って愛しているScottyらしく聞こえるかを確かめられる」"
-              },
-              {
-                "t": "p",
-                "x": "音声は実質的に自動のテキスト読み上げ（text-to-speech）機能を担っているため、これはすべてAIで動いている。実況にはすでにこの技術が使われており、数年前にファンがそれを知った際、Embarkは批判を浴びた。"
-              },
-              {
-                "t": "p",
-                "x": "10月20日のPrime Timeアップデートで実装される。"
+                "x": "こうした懸念は10月を境にインディーゲーム界に広がっている。『干し草の山から針を探すシミュレーター』は発売前に類似作が少なくとも8本現れ、ストア画像に「ORIGINAL」の文言を付けた。『ファミリータイム』にも同名の類似作が登場した。金を払わなければAI複製作を先に発売すると脅すメールの事例も相次いでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "The Finals新增\n喊玩家名字的AI解说",
-          "body": "The Finals加入实时AI解说，Scott和June会在高光时刻喊出玩家名字。",
-          "mini_headline": "The Finals AI解说员",
+          "headline": "因忧AI抄袭\nSpookitchen撤试玩",
+          "body": "2人开发团队YNOT因担忧AI抄袭作，停止发布《Spookitchen》试玩版。",
+          "mini_headline": "担忧AI抄袭\n撤下试玩",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+              },
+              {
+                "t": "p",
+                "x": "近来有报道称，一些即将发售的独立游戏担心借助AI制作的抄袭作抢先出现，因而取消了公开试玩版的发布；如今韩国国内也出现了这样的案例。"
+              },
+              {
+                "t": "p",
+                "x": "韩国2人开发团队YNOT于17日收到消息，称有人正在用AI抄袭他们的游戏《Spookitchen》，随即预告将停止发布公开试玩版。20日，团队正式停止发布试玩版，并通过SNS和Steam页面向玩家倾诉了苦衷。"
+              },
+              {
                 "t": "video",
-                "yt": "eA9_Q6d2H-g"
+                "yt": "HRKQOlIYAQY"
               },
               {
                 "t": "p",
-                "x": "Arc Raiders的前作正借助AI的力量引入动态解说。The Finals是Embark Studios在推出其大型撤离射击游戏之前发行的多人FPS，如今将通过游戏内实况解说实时点名玩家。"
+                "x": "《Spookitchen》是一款在怪物居住的万圣节小镇里烹饪料理的模拟经营游戏，凭借可爱的美术风格获得独立游戏粉丝的好评，连续2年参展BIC。然而在Steam Next Fest前夕，团队因担心抄袭作出现，不得不关闭试玩。"
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
+                "cap": "因近来用AI抄袭的事件而关闭了试玩 ©YNOT, @Sini_Ming"
               },
               {
                 "t": "p",
-                "x": "团队在一段短视频中公布了这一功能。简单来说，玩The Finals时听到的两位解说Scott和June，会在有人打出精彩操作时喊出对方的昵称。也就是说，你听到的不再只是“这是一记漂亮的爆头”，而是“[Player]刚刚打出一记漂亮的爆头”。"
+                "x": "YNOT表示：“关闭试玩只是权宜之计，并不能从根本上解决问题。”并称：“我们会尽量不受影响，像往常一样专注于开发。”"
               },
               {
                 "t": "p",
-                "x": "起初，这类播报的触发场景会相对较少，方便开发者测试这项技术。The Finals音频总监Carl Strandberg解释说：“范围收窄，意味着我们可以把关他实际说的内容。”“确保它听起来不错，而且像我们都熟悉和喜爱的那个Scotty。”"
-              },
-              {
-                "t": "p",
-                "x": "这一切都由AI驱动，因为这个声音本质上是在执行自动文本转语音（text-to-speech）功能。解说本身早已使用这项技术，几年前粉丝得知此事时，Embark曾遭到一些批评。"
-              },
-              {
-                "t": "p",
-                "x": "该功能将随10月20日的Prime Time更新上线。"
+                "x": "这种担忧自10月起在独立游戏圈蔓延。《干草堆里找针模拟器》在发售前就出现了至少8款同类作品，只好在商店图片上加上“ORIGINAL”字样；《家庭时光》也出现了同名的同类作品。以不付钱就抢先发布AI抄袭作相威胁的邮件案例也接连不断。"
               }
             ]
           }
         },
         "es": {
-          "headline": "The Finals suma comentarios\ncon IA que nombran a jugadores",
-          "body": "Embark añade a The Finals comentarios con IA en tiempo real: Scott y June nombrarán a los jugadores.",
-          "mini_headline": "Locutores con IA en The Finals",
+          "headline": "El temor a copias con AI\nretira la demo de Spookitchen",
+          "body": "El equipo de 2 personas YNOT dejó de distribuir la demo de 'Spookitchen' por temor a copias hechas con AI.",
+          "mini_headline": "Temor a copias con AI:\ndemo retirada",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Recientemente se han reportado casos de juegos indie a punto de lanzarse que cancelan la distribución de sus demos públicas por temor a que aparezcan antes copias hechas con AI, y ahora ha surgido un caso así en Corea."
+              },
+              {
+                "t": "p",
+                "x": "YNOT, un equipo coreano de 2 personas, anunció el día 17 que dejaría de distribuir su demo pública tras recibir un aviso de que alguien estaba copiando con AI su juego 'Spookitchen'. El día 20 retiró la demo y compartió sus dificultades con los usuarios a través de SNS y de su página de Steam."
+              },
+              {
                 "t": "video",
-                "yt": "eA9_Q6d2H-g"
+                "yt": "HRKQOlIYAQY"
               },
               {
                 "t": "p",
-                "x": "El predecesor de Arc Raiders incorpora comentarios dinámicos gracias a la IA. The Finals, el FPS multijugador que Embark Studios lanzó antes de su enorme extraction shooter, introduce una forma de reconocer a los jugadores en tiempo real mediante la narración dentro del juego."
+                "x": "Spookitchen es un juego de gestión tipo tycoon en el que se sirven platos en un pueblo de Halloween habitado por monstruos. Su arte adorable le ganó el apoyo de los fans del indie y participó en BIC 2 años seguidos. Sin embargo, ante el Steam Next Fest, el equipo no tuvo más remedio que cerrar la demo por temor a la aparición de copias."
+              },
+              {
+                "t": "img",
+                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
+                "cap": "La demo se cerró a raíz de la reciente ola de copias hechas con AI ©YNOT, @Sini_Ming"
               },
               {
                 "t": "p",
-                "x": "El equipo presentó la función en un breve video. Básicamente, Scott y June, las dos voces que se escuchan al jugar a The Finals, empezarán a mencionar los apodos de los jugadores cada vez que hagan algo destacado. Así, en lugar de oír solo “Y ese es un buen headshot”, se oirá “[Player] acaba de conseguir un buen headshot”."
+                "x": "YNOT afirmó: \"Cerrar la demo es una medida temporal y no una solución de fondo\", y añadió: \"Intentaremos no dejarnos afectar y seguir concentrados en el desarrollo como siempre\"."
               },
               {
                 "t": "p",
-                "x": "Al principio, la lista de situaciones en las que se oirá será relativamente corta, para ayudar a los desarrolladores a probar la tecnología. “Mantenerlo acotado nos permite cuidar lo que realmente dice”, explica Carl Strandberg, director de audio de The Finals. “Asegurarnos de que suene bien y como el Scotty que todos conocemos y queremos”."
-              },
-              {
-                "t": "p",
-                "x": "Todo funciona con IA, ya que la voz realiza básicamente una función automática de texto a voz (text-to-speech). Los comentarios ya usan esta tecnología, y Embark recibió críticas cuando los fans lo supieron hace unos años."
-              },
-              {
-                "t": "p",
-                "x": "Llega con la actualización Prime Time el 20 de octubre."
+                "x": "Esta preocupación se extiende por la escena indie desde octubre. 'Simulador de buscar una aguja en un pajar' vio aparecer al menos 8 imitaciones antes de su lanzamiento, por lo que añadió la palabra 'ORIGINAL' a las imágenes de su tienda, y 'Tiempo en familia' también tuvo una imitación con el mismo nombre. Además, siguen apareciendo correos con amenazas de lanzar primero una copia hecha con AI si no se paga."
               }
             ]
           }
@@ -1019,15 +1109,15 @@
       }
     },
     {
-      "id": "games-ukie-ai-mark",
+      "id": "games-ai-mashup-launcher-tos",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ukie·Sheridans\nUK 스튜디오 AI 마크",
-      "body": "Ukie와 Sheridans가 인증 마크로 끝나는 네 단계 AI 심사를 내놨다.",
-      "mini_headline": "Ukie AI 인증 마크",
+      "headline": "AI 매시업에\n수상한 런처 등장",
+      "body": "Elden Ring·Minecraft AI 매시업이 약관이 수상한 런처로 나왔다.",
+      "mini_headline": "AI 매시업\n전용 런처 등장",
       "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/ukie-partners-with-sheridans-on-ai-compliance-and-accreditation-service-to-guide-uk-studios-in-using-ai-lawfully-and-responsibly",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/new-launcher-for-viral-ai-mash-ups-of-elden-ring-minecraft-and-more-emerges-with-some-very-questionable-terms-of-service-should-you-value-your-pc/",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -1035,173 +1125,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
           },
           {
             "t": "p",
-            "x": "UKIE가 로펌 Sheridans와 함께 AI Compliance and Accreditation Service를 선보였다. UK 스튜디오가 AI를 합법적이고 책임 있게 쓰도록 돕는 서비스다. 네 단계 절차를 마치면 UKIE Certification Mark를 받는데, 스튜디오는 이를 피칭과 투자 유치에서 규정 준수와 실사를 입증하는 근거로 쓸 수 있다."
+            "x": "지난 몇 주 사이 웹에서 한 번쯤 봤을 Elden Ring과 Minecraft의 화제작 매시업을 이제 출처가 의심스러운 런처로 손쉽게 플레이할 수 있다. 대신 PC가 위험해질 수 있다."
           },
           {
             "t": "p",
-            "x": "UKIE CEO Nick Poole은 회원사 대부분이 이런 도구를 매일 실험한다면서 “그러나 법적·상업적 위험이 어디에 있는지 파악하고, 그 위험을 진지하게 다뤘음을 입증하는 일에 대해서는 공통된 우려가 있다”고 말했다."
+            "x": "누군가 원하는 기묘한 매시업은 뭐든 플레이하게 해 준다는 Windows용 전용 런처를 만들었다. 이름은 Melty다. 공식 설명에 따르면 \"Melty는 사용자가 보유한 두 게임을 하나의 하이브리드 경험으로 합쳐 주는 Windows용 무료 매시업 런처\"다. 이용약관상 런처는 게임 찾기, 새 도구 내려받기, 파일 복사, 폴더 수정, 프로그램 실행, 자동 업데이트 실행까지 거의 모든 일을 할 수 있다."
           },
           {
             "t": "p",
-            "x": "Sheridans 파트너 Anna Poulter-Jones는 AI 관련 법과 공공 정책이 계속 바뀌는 만큼 스튜디오의 기존 정책 검토도 서비스에 넣었다고 했다."
+            "x": "온라인에서 \"Wubbity\"라는 이름을 쓰는 한 코더는 Melty 설치 파일을 \"뜯어본\" 결과, 이 런처가 \"게임플레이 영상과 입력을 AI 학습 데이터로 기록하는 앱인 LookLoot의 리브랜딩\"이라는 걸 확인했다고 주장한다. 그의 말로는 Melty의 개인정보 처리방침은 \"이 점을 언급하지 않는다\"."
           },
           {
             "t": "p",
-            "x": "AI 규정 준수 점검과 새 AI 정책 수립에는 보통 UKIE 회원사 £1,500–£2,000, 비회원사 £2,000–£2,500가 든다. 기존 정책 검토와 상시 규정 준수 점검은 회원사 £500–£750, 비회원사 £750–£1,000이다."
+            "x": "그는 \"악성코드는 아니고 비밀번호를 훔치지도 않는다\"고 못 박으면서도, 이 런처가 \"웹사이트에서 작동시킬 수 있는 휴면 상태의 게임플레이 녹화 파이프라인을 싣고 있으며, 사용자는 이를 고지받지 못했다\"고 지적한다. 한마디로 이 런처는 건너뛰는 편이 낫다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Ukie and Sheridans launch\nan AI mark for UK studios",
-          "body": "Ukie and Sheridans launched a four-step AI compliance service ending in a certification mark for studio pitches.",
-          "mini_headline": "Ukie AI certification mark",
+          "headline": "AI mash-ups get\na risky launcher",
+          "body": "The viral AI mash-ups of Elden Ring and Minecraft now ship via a dedicated launcher with worrying terms of service.",
+          "mini_headline": "AI mash-ups\nget a launcher",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "UKIE has partnered with law firm Sheridans on an AI Compliance and Accreditation Service to help UK studios use AI lawfully and responsibly. Its four-step process culminates in the UKIE Certification Mark, which studios can use to demonstrate compliance and due diligence in pitches and funding rounds."
+                "x": "Those viral Elden Ring and Minecraft mashups you've likely seen circulating the web over the past couple of weeks are now conveniently available to play via a questionably created launcher – one that might compromise your PC in the process."
               },
               {
                 "t": "p",
-                "x": "UKIE CEO Nick Poole said most members are experimenting with these tools daily, “but there is a common concern about understanding where the legal and commercial risks sit and being able to demonstrate that they have taken those risks seriously.”"
+                "x": "Somebody's made a special launcher for Windows computers that supposedly lets you play whatever weird mashup you'd like: Melty. As per its official description, \"Melty is a free mashup launcher for Windows that joins two games you own into one hybrid experience.\" Its terms of service let the launcher do just about everything: find games, download new tools, copy files, modify folders, run programs, and execute automatic updates."
               },
               {
                 "t": "p",
-                "x": "Sheridans partner Anna Poulter-Jones said the service includes reviews of existing studio policies, since laws and public policy around AI keep shifting."
+                "x": "A coder who goes by \"Wubbity\" online alleges that he's \"pulled apart\" the Melty installer and found that it's \"a rebrand of LookLoot, an app that records gameplay video and inputs as AI training data.\" As he writes, Melty's privacy policy \"doesn't mention it.\""
               },
               {
                 "t": "p",
-                "x": "An AI compliance check plus a new AI policy typically costs £1,500–£2,000 for UKIE members and £2,000–£2,500 for non-members. A review of an existing policy with ongoing compliance checks costs £500–£750 for members and £750–£1,000 for non-members."
+                "x": "Although he clarifies it's \"not malware, no password stealing,\" it's \"shipping a dormant gameplay-recording pipeline its website can trigger, and users weren't told.\" In other words, I'd recommend giving this one a miss."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ukie·Sheridans\nUK 스튜디오 AI 마크",
-          "body": "Ukie와 Sheridans가 인증 마크로 끝나는 네 단계 AI 심사를 내놨다.",
-          "mini_headline": "Ukie AI 인증 마크",
+          "headline": "AI 매시업에\n수상한 런처 등장",
+          "body": "Elden Ring·Minecraft AI 매시업이 약관이 수상한 런처로 나왔다.",
+          "mini_headline": "AI 매시업\n전용 런처 등장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "UKIE가 로펌 Sheridans와 함께 AI Compliance and Accreditation Service를 선보였다. UK 스튜디오가 AI를 합법적이고 책임 있게 쓰도록 돕는 서비스다. 네 단계 절차를 마치면 UKIE Certification Mark를 받는데, 스튜디오는 이를 피칭과 투자 유치에서 규정 준수와 실사를 입증하는 근거로 쓸 수 있다."
+                "x": "지난 몇 주 사이 웹에서 한 번쯤 봤을 Elden Ring과 Minecraft의 화제작 매시업을 이제 출처가 의심스러운 런처로 손쉽게 플레이할 수 있다. 대신 PC가 위험해질 수 있다."
               },
               {
                 "t": "p",
-                "x": "UKIE CEO Nick Poole은 회원사 대부분이 이런 도구를 매일 실험한다면서 “그러나 법적·상업적 위험이 어디에 있는지 파악하고, 그 위험을 진지하게 다뤘음을 입증하는 일에 대해서는 공통된 우려가 있다”고 말했다."
+                "x": "누군가 원하는 기묘한 매시업은 뭐든 플레이하게 해 준다는 Windows용 전용 런처를 만들었다. 이름은 Melty다. 공식 설명에 따르면 \"Melty는 사용자가 보유한 두 게임을 하나의 하이브리드 경험으로 합쳐 주는 Windows용 무료 매시업 런처\"다. 이용약관상 런처는 게임 찾기, 새 도구 내려받기, 파일 복사, 폴더 수정, 프로그램 실행, 자동 업데이트 실행까지 거의 모든 일을 할 수 있다."
               },
               {
                 "t": "p",
-                "x": "Sheridans 파트너 Anna Poulter-Jones는 AI 관련 법과 공공 정책이 계속 바뀌는 만큼 스튜디오의 기존 정책 검토도 서비스에 넣었다고 했다."
+                "x": "온라인에서 \"Wubbity\"라는 이름을 쓰는 한 코더는 Melty 설치 파일을 \"뜯어본\" 결과, 이 런처가 \"게임플레이 영상과 입력을 AI 학습 데이터로 기록하는 앱인 LookLoot의 리브랜딩\"이라는 걸 확인했다고 주장한다. 그의 말로는 Melty의 개인정보 처리방침은 \"이 점을 언급하지 않는다\"."
               },
               {
                 "t": "p",
-                "x": "AI 규정 준수 점검과 새 AI 정책 수립에는 보통 UKIE 회원사 £1,500–£2,000, 비회원사 £2,000–£2,500가 든다. 기존 정책 검토와 상시 규정 준수 점검은 회원사 £500–£750, 비회원사 £750–£1,000이다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Ukie与Sheridans\n推出UK工作室AI认证标志",
-          "body": "Ukie与Sheridans推出四步AI合规服务，最终颁发用于项目推介的认证标志。",
-          "mini_headline": "Ukie AI认证标志",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-              },
-              {
-                "t": "p",
-                "x": "UKIE与律师事务所Sheridans合作推出AI Compliance and Accreditation Service，帮助UK工作室合法、负责任地使用AI。该服务分为四个步骤，最终授予UKIE Certification Mark，工作室可在项目推介和融资中借此证明自身合规并已尽职调查。"
-              },
-              {
-                "t": "p",
-                "x": "UKIE CEO Nick Poole表示，大多数会员每天都在试用这些工具，“但大家普遍担心的是，如何弄清法律和商业风险所在，并证明自己已经认真对待这些风险。”"
-              },
-              {
-                "t": "p",
-                "x": "Sheridans合伙人Anna Poulter-Jones表示，由于围绕AI的法律和公共政策不断变化，该服务也包括审查工作室的现有政策。"
-              },
-              {
-                "t": "p",
-                "x": "AI合规检查加制定新AI政策的费用，UKIE会员通常为£1,500–£2,000，非会员为£2,000–£2,500。审查现有政策并持续进行合规检查，会员费用为£500–£750，非会员为£750–£1,000。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ukie y Sheridans lanzan un\nsello de IA para estudios UK",
-          "body": "Ukie y Sheridans lanzaron un servicio de cumplimiento de IA en cuatro pasos que culmina en un sello de certificación.",
-          "mini_headline": "Sello de certificación IA de Ukie",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-              },
-              {
-                "t": "p",
-                "x": "UKIE se ha asociado con el bufete Sheridans en un AI Compliance and Accreditation Service para ayudar a los estudios del UK a usar la IA de forma legal y responsable. Su proceso de cuatro pasos culmina en el UKIE Certification Mark, que los estudios pueden usar para demostrar cumplimiento y diligencia debida en presentaciones y rondas de financiación."
-              },
-              {
-                "t": "p",
-                "x": "El CEO de UKIE, Nick Poole, dijo que la mayoría de los miembros experimentan a diario con estas herramientas, “pero existe una preocupación común por entender dónde están los riesgos legales y comerciales y poder demostrar que se han tomado en serio esos riesgos”."
-              },
-              {
-                "t": "p",
-                "x": "Anna Poulter-Jones, socia de Sheridans, dijo que el servicio incluye revisiones de las políticas existentes de los estudios, ya que las leyes y las políticas públicas sobre IA siguen cambiando."
-              },
-              {
-                "t": "p",
-                "x": "Una revisión de cumplimiento en IA junto con una nueva política de IA cuesta normalmente £1,500–£2,000 para los miembros de UKIE y £2,000–£2,500 para los no miembros. La revisión de una política existente con controles de cumplimiento continuos cuesta £500–£750 para miembros y £750–£1,000 para no miembros."
+                "x": "그는 \"악성코드는 아니고 비밀번호를 훔치지도 않는다\"고 못 박으면서도, 이 런처가 \"웹사이트에서 작동시킬 수 있는 휴면 상태의 게임플레이 녹화 파이프라인을 싣고 있으며, 사용자는 이를 고지받지 못했다\"고 지적한다. 한마디로 이 런처는 건너뛰는 편이 낫다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UkieとSheridans\n英国スタジオ向けAIマーク",
-          "body": "UkieとSheridansが認証マーク付きの四段階AI審査サービスを始めた。",
-          "mini_headline": "Ukie AI認証マーク",
+          "headline": "AIマッシュアップに\n怪しいランチャー",
+          "body": "Elden Ring×MinecraftのAIマッシュアップが規約の怪しいランチャーで出た。",
+          "mini_headline": "AIマッシュアップに\n専用ランチャー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "UKIEは法律事務所Sheridansと組み、英国のスタジオがAIを合法かつ責任をもって使えるよう支援するAI Compliance and Accreditation Serviceを立ち上げた。四段階のプロセスの最後にUKIE Certification Markが与えられ、スタジオはピッチや資金調達ラウンドでコンプライアンスとデューデリジェンスを示すのに使える。"
+                "x": "ここ数週間ネット上で目にしたであろう話題のElden RingとMinecraftのマッシュアップが、出自の怪しいランチャーで手軽に遊べるようになった。ただし、その過程でPCが危険にさらされるおそれがある。"
               },
               {
                 "t": "p",
-                "x": "UKIE CEOのNick Pooleは、会員の多くが日々こうしたツールを試していると述べ、「しかし、法的・商業的リスクがどこにあるのかを理解し、そのリスクを真剣に受け止めたことを示せるかという共通の懸念がある」と語った。"
+                "x": "何者かが、好きな奇妙なマッシュアップを何でも遊べるとうたうWindows向けの専用ランチャー「Melty」を作った。公式の説明によれば「Meltyは、所有する二つのゲームを一つのハイブリッド体験に融合させる、Windows向けの無料マッシュアップランチャー」だという。利用規約は、ゲームの検索、新しいツールのダウンロード、ファイルのコピー、フォルダーの変更、プログラムの実行、自動アップデートの実行と、ランチャーにほぼあらゆることを許している。"
               },
               {
                 "t": "p",
-                "x": "SheridansのパートナーAnna Poulter-Jonesは、AIをめぐる法律や公共政策が変わり続けているため、このサービスにはスタジオの既存ポリシーの見直しも含まれると説明した。"
+                "x": "ネット上で「Wubbity」と名乗るコーダーは、Meltyのインストーラーを「分解」したところ、これが「ゲームプレイの映像と入力をAIの学習データとして記録するアプリ、LookLootのリブランド版」だと分かったと主張する。彼によれば、Meltyのプライバシーポリシーは「そのことに触れていない」。"
               },
               {
                 "t": "p",
-                "x": "AIコンプライアンスチェックと新しいAIポリシーの作成は、通常UKIE会員で£1,500–£2,000、非会員で£2,000–£2,500。既存ポリシーの見直しと継続的なコンプライアンスチェックは、会員で£500–£750、非会員で£750–£1,000である。"
+                "x": "彼は「マルウェアではなく、パスワードを盗むこともない」と明言しつつも、「ウェブサイト側から起動できる休眠状態のゲームプレイ録画パイプラインを組み込んで配布しており、ユーザーには知らされていなかった」と指摘する。つまり、これは見送るのが賢明だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI混搭游戏\n迎来高风险启动器",
+          "body": "爆红的Elden Ring与Minecraft AI混搭作，如今通过条款堪忧的启动器发布。",
+          "mini_headline": "AI混搭游戏\n有了启动器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "过去几周你可能在网上见过的那些爆红的Elden Ring与Minecraft混搭作，现在可以通过一个来路可疑的启动器方便地游玩——而这个过程可能会让你的PC面临风险。"
+              },
+              {
+                "t": "p",
+                "x": "有人为Windows电脑做了一个专门的启动器，号称能让你玩任何想玩的奇怪混搭：Melty。按照官方介绍，“Melty是一款面向Windows的免费混搭启动器，可将你拥有的两款游戏合成一种混合体验。”其服务条款几乎允许该启动器做任何事：查找游戏、下载新工具、复制文件、修改文件夹、运行程序以及执行自动更新。"
+              },
+              {
+                "t": "p",
+                "x": "一位网名为“Wubbity”的程序员声称，他“拆解”了Melty安装程序，发现它是“LookLoot的换皮版本，而LookLoot是一款把游戏视频和操作输入记录为AI训练数据的应用”。他写道，Melty的隐私政策“对此只字未提”。"
+              },
+              {
+                "t": "p",
+                "x": "尽管他澄清这“不是恶意软件，也不会窃取密码”，但它“附带了一条休眠的游戏录制管线，可由其网站触发，而用户对此并不知情”。换句话说，我建议还是别碰它。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las mezclas con AI llegan\ncon un lanzador arriesgado",
+          "body": "Las mezclas virales con AI de Elden Ring y Minecraft llegan en un lanzador con términos de servicio inquietantes.",
+          "mini_headline": "Mezclas con AI\nestrenan lanzador",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Esas mezclas virales de Elden Ring y Minecraft que probablemente has visto circular por la web en las últimas semanas ya se pueden jugar cómodamente mediante un lanzador de origen dudoso, uno que podría comprometer tu PC en el proceso."
+              },
+              {
+                "t": "p",
+                "x": "Alguien ha creado un lanzador especial para equipos con Windows que, en teoría, permite jugar cualquier mezcla extraña que se quiera: Melty. Según su descripción oficial, \"Melty es un lanzador de mezclas gratuito para Windows que une dos juegos que posees en una experiencia híbrida\". Sus términos de servicio permiten al lanzador hacer prácticamente de todo: buscar juegos, descargar nuevas herramientas, copiar archivos, modificar carpetas, ejecutar programas y aplicar actualizaciones automáticas."
+              },
+              {
+                "t": "p",
+                "x": "Un programador que se hace llamar \"Wubbity\" en internet asegura que \"desmontó\" el instalador de Melty y descubrió que es \"un cambio de marca de LookLoot, una app que graba video de las partidas y las entradas como datos de entrenamiento para AI\". Según escribe, la política de privacidad de Melty \"no lo menciona\"."
+              },
+              {
+                "t": "p",
+                "x": "Aunque aclara que \"no es malware, no roba contraseñas\", sí está \"distribuyendo una canalización latente de grabación de partidas que su sitio web puede activar, y no se informó a los usuarios\". En otras palabras, recomendaría no probar este."
               }
             ]
           }
@@ -1209,121 +1299,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Ukie·Sheridans\nUK 스튜디오 AI 마크",
-          "body": "Ukie와 Sheridans가 인증 마크로 끝나는 네 단계 AI 심사를 내놨다.",
-          "mini_headline": "Ukie AI 인증 마크",
+          "headline": "AI 매시업에\n수상한 런처 등장",
+          "body": "Elden Ring·Minecraft AI 매시업이 우려되는 약관의 런처로 나왔다.",
+          "mini_headline": "AI 매시업\n전용 런처 등장",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "UKIE가 로펌 Sheridans와 손잡고 UK 스튜디오가 AI를 합법적이고 책임 있게 쓰도록 돕는 AI Compliance and Accreditation Service를 선보였다. 네 단계 절차의 끝에는 UKIE Certification Mark가 있으며, 스튜디오는 이를 피칭과 투자 유치에서 규정 준수와 실사를 입증하는 데 쓸 수 있다."
+                "x": "지난 몇 주 동안 웹에서 돌아다니는 것을 봤을 법한 Elden Ring과 Minecraft의 화제의 매시업을 이제 출처가 의심스러운 런처로 간편하게 플레이할 수 있다. 다만 그 과정에서 PC가 위험해질 수 있다."
               },
               {
                 "t": "p",
-                "x": "UKIE CEO Nick Poole은 대부분의 회원사가 매일 이런 도구를 실험하고 있다며 “그러나 법적·상업적 위험이 어디에 있는지 파악하고, 그 위험을 진지하게 다뤘음을 입증하는 일에 대해서는 공통된 우려가 있다”고 말했다."
+                "x": "누군가 원하는 기묘한 매시업을 무엇이든 플레이할 수 있게 해 준다는 Windows용 전용 런처를 만들었다. 이름은 Melty다. 공식 설명에 따르면 \"Melty는 사용자가 보유한 두 게임을 하나의 하이브리드 경험으로 합쳐 주는 Windows용 무료 매시업 런처\"다. 이용약관은 런처가 게임 찾기, 새 도구 내려받기, 파일 복사, 폴더 수정, 프로그램 실행, 자동 업데이트 실행까지 거의 모든 일을 할 수 있게 허용한다."
               },
               {
                 "t": "p",
-                "x": "Sheridans 파트너 Anna Poulter-Jones는 AI를 둘러싼 법과 공공 정책이 계속 바뀌는 만큼 이 서비스에 스튜디오의 기존 정책 검토도 포함된다고 말했다."
+                "x": "온라인에서 \"Wubbity\"라는 이름을 쓰는 한 코더는 Melty 설치 파일을 \"뜯어본\" 결과 이것이 \"게임플레이 영상과 입력을 AI 학습 데이터로 기록하는 앱인 LookLoot의 리브랜딩\"이라는 사실을 확인했다고 주장한다. 그에 따르면 Melty의 개인정보 처리방침은 \"이 점을 언급하지 않는다\"."
               },
               {
                 "t": "p",
-                "x": "AI 규정 준수 점검과 새 AI 정책 수립 비용은 보통 UKIE 회원사 £1,500–£2,000, 비회원사 £2,000–£2,500이다. 기존 정책 검토와 지속적인 규정 준수 점검은 회원사 £500–£750, 비회원사 £750–£1,000이다."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Ukie与Sheridans\n推出UK工作室AI认证标志",
-          "body": "Ukie与Sheridans推出四步AI合规服务，最终颁发用于项目推介的认证标志。",
-          "mini_headline": "Ukie AI认证标志",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-              },
-              {
-                "t": "p",
-                "x": "UKIE与律师事务所Sheridans合作推出AI Compliance and Accreditation Service，帮助UK工作室合法、负责任地使用AI。该服务分为四个步骤，最终授予UKIE Certification Mark，工作室可在项目推介和融资中借此证明自身合规并已尽职调查。"
-              },
-              {
-                "t": "p",
-                "x": "UKIE CEO Nick Poole表示，大多数会员每天都在试用这些工具，“但大家普遍担心的是，如何弄清法律和商业风险所在，并证明自己已经认真对待这些风险。”"
-              },
-              {
-                "t": "p",
-                "x": "Sheridans合伙人Anna Poulter-Jones表示，由于围绕AI的法律和公共政策不断变化，该服务也包括审查工作室的现有政策。"
-              },
-              {
-                "t": "p",
-                "x": "AI合规检查加制定新AI政策的费用，UKIE会员通常为£1,500–£2,000，非会员为£2,000–£2,500。审查现有政策并持续进行合规检查，会员费用为£500–£750，非会员为£750–£1,000。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Ukie y Sheridans lanzan un\nsello de IA para estudios UK",
-          "body": "Ukie y Sheridans lanzaron un servicio de cumplimiento de IA en cuatro pasos que culmina en un sello de certificación.",
-          "mini_headline": "Sello de certificación IA de Ukie",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
-              },
-              {
-                "t": "p",
-                "x": "UKIE se ha asociado con el bufete Sheridans en un AI Compliance and Accreditation Service para ayudar a los estudios del UK a usar la IA de forma legal y responsable. Su proceso de cuatro pasos culmina en el UKIE Certification Mark, que los estudios pueden usar para demostrar cumplimiento y diligencia debida en presentaciones y rondas de financiación."
-              },
-              {
-                "t": "p",
-                "x": "El CEO de UKIE, Nick Poole, dijo que la mayoría de los miembros experimentan a diario con estas herramientas, “pero existe una preocupación común por entender dónde están los riesgos legales y comerciales y poder demostrar que se han tomado en serio esos riesgos”."
-              },
-              {
-                "t": "p",
-                "x": "Anna Poulter-Jones, socia de Sheridans, dijo que el servicio incluye revisiones de las políticas existentes de los estudios, ya que las leyes y las políticas públicas sobre IA siguen cambiando."
-              },
-              {
-                "t": "p",
-                "x": "Una revisión de cumplimiento en IA junto con una nueva política de IA cuesta normalmente £1,500–£2,000 para los miembros de UKIE y £2,000–£2,500 para los no miembros. La revisión de una política existente con controles de cumplimiento continuos cuesta £500–£750 para miembros y £750–£1,000 para no miembros."
+                "x": "그는 \"악성코드는 아니고 비밀번호를 훔치지도 않는다\"고 분명히 하면서도, 이 런처가 \"웹사이트에서 작동시킬 수 있는 휴면 상태의 게임플레이 녹화 파이프라인을 싣고 있으며, 사용자는 이를 고지받지 못했다\"고 지적한다. 한마디로 이 런처는 건너뛰기를 권한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UkieとSheridans\n英国スタジオ向けAIマーク",
-          "body": "UkieとSheridansが認証マーク付きの四段階AI審査サービスを始めた。",
-          "mini_headline": "Ukie AI認証マーク",
+          "headline": "AIマッシュアップに\n怪しいランチャー",
+          "body": "Elden Ring×MinecraftのAIマッシュアップが規約の怪しいランチャーで出た。",
+          "mini_headline": "AIマッシュアップに\n専用ランチャー",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/Screenshot-2026-10-16-150111.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
               },
               {
                 "t": "p",
-                "x": "UKIEは法律事務所Sheridansと組み、英国のスタジオがAIを合法かつ責任をもって使えるよう支援するAI Compliance and Accreditation Serviceを立ち上げた。四段階のプロセスの最後にUKIE Certification Markが与えられ、スタジオはピッチや資金調達ラウンドでコンプライアンスとデューデリジェンスを示すのに使える。"
+                "x": "ここ数週間ネット上で目にしたであろう話題のElden RingとMinecraftのマッシュアップが、出自の怪しいランチャーで手軽に遊べるようになった。ただし、その過程でPCが危険にさらされるおそれがある。"
               },
               {
                 "t": "p",
-                "x": "UKIE CEOのNick Pooleは、会員の多くが日々こうしたツールを試していると述べ、「しかし、法的・商業的リスクがどこにあるのかを理解し、そのリスクを真剣に受け止めたことを示せるかという共通の懸念がある」と語った。"
+                "x": "何者かが、好きな奇妙なマッシュアップを何でも遊べるとうたうWindows向けの専用ランチャー「Melty」を作った。公式の説明によれば「Meltyは、所有する二つのゲームを一つのハイブリッド体験に融合させる、Windows向けの無料マッシュアップランチャー」だという。利用規約は、ゲームの検索、新しいツールのダウンロード、ファイルのコピー、フォルダーの変更、プログラムの実行、自動アップデートの実行と、ランチャーにほぼあらゆることを許している。"
               },
               {
                 "t": "p",
-                "x": "SheridansのパートナーAnna Poulter-Jonesは、AIをめぐる法律や公共政策が変わり続けているため、このサービスにはスタジオの既存ポリシーの見直しも含まれると説明した。"
+                "x": "ネット上で「Wubbity」と名乗るコーダーは、Meltyのインストーラーを「分解」したところ、これが「ゲームプレイの映像と入力をAIの学習データとして記録するアプリ、LookLootのリブランド版」だと分かったと主張する。彼によれば、Meltyのプライバシーポリシーは「そのことに触れていない」。"
               },
               {
                 "t": "p",
-                "x": "AIコンプライアンスチェックと新しいAIポリシーの作成は、通常UKIE会員で£1,500–£2,000、非会員で£2,000–£2,500。既存ポリシーの見直しと継続的なコンプライアンスチェックは、会員で£500–£750、非会員で£750–£1,000である。"
+                "x": "彼は「マルウェアではなく、パスワードを盗むこともない」と明言しつつも、「ウェブサイト側から起動できる休眠状態のゲームプレイ録画パイプラインを組み込んで配布しており、ユーザーには知らされていなかった」と指摘する。つまり、これは見送るのが賢明だ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI混搭游戏\n迎来高风险启动器",
+          "body": "爆红的Elden Ring与Minecraft AI混搭作，如今通过条款堪忧的启动器发布。",
+          "mini_headline": "AI混搭游戏\n有了启动器",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "过去几周你可能在网上见过的那些爆红的Elden Ring与Minecraft混搭作，现在可以通过一个来路可疑的启动器方便地游玩——而这个过程可能会让你的PC面临风险。"
+              },
+              {
+                "t": "p",
+                "x": "有人为Windows电脑做了一个专门的启动器，号称能让你玩任何想玩的奇怪混搭：Melty。按照官方介绍，“Melty是一款面向Windows的免费混搭启动器，可将你拥有的两款游戏合成一种混合体验。”其服务条款几乎允许该启动器做任何事：查找游戏、下载新工具、复制文件、修改文件夹、运行程序以及执行自动更新。"
+              },
+              {
+                "t": "p",
+                "x": "一位网名为“Wubbity”的程序员声称，他“拆解”了Melty安装程序，发现它是“LookLoot的换皮版本，而LookLoot是一款把游戏视频和操作输入记录为AI训练数据的应用”。他写道，Melty的隐私政策“对此只字未提”。"
+              },
+              {
+                "t": "p",
+                "x": "尽管他澄清这“不是恶意软件，也不会窃取密码”，但它“附带了一条休眠的游戏录制管线，可由其网站触发，而用户对此并不知情”。换句话说，我建议还是别碰它。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Las mezclas con AI llegan\ncon un lanzador arriesgado",
+          "body": "Las mezclas virales con AI de Elden Ring y Minecraft llegan en un lanzador con términos de servicio inquietantes.",
+          "mini_headline": "Mezclas con AI\nestrenan lanzador",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Esas mezclas virales de Elden Ring y Minecraft que probablemente has visto circular por la web en las últimas semanas ya se pueden jugar cómodamente mediante un lanzador de origen dudoso, uno que podría comprometer tu PC en el proceso."
+              },
+              {
+                "t": "p",
+                "x": "Alguien ha creado un lanzador especial para equipos con Windows que, en teoría, permite jugar cualquier mezcla extraña que se quiera: Melty. Según su descripción oficial, \"Melty es un lanzador de mezclas gratuito para Windows que une dos juegos que posees en una experiencia híbrida\". Sus términos de servicio permiten al lanzador hacer prácticamente de todo: buscar juegos, descargar nuevas herramientas, copiar archivos, modificar carpetas, ejecutar programas y aplicar actualizaciones automáticas."
+              },
+              {
+                "t": "p",
+                "x": "Un programador que se hace llamar \"Wubbity\" en internet asegura que \"desmontó\" el instalador de Melty y descubrió que es \"un cambio de marca de LookLoot, una app que graba video de las partidas y las entradas como datos de entrenamiento para AI\". Según escribe, la política de privacidad de Melty \"no lo menciona\"."
+              },
+              {
+                "t": "p",
+                "x": "Aunque aclara que \"no es malware, no roba contraseñas\", sí está \"distribuyendo una canalización latente de grabación de partidas que su sitio web puede activar, y no se informó a los usuarios\". En otras palabras, recomendaría no probar este."
               }
             ]
           }
@@ -1331,15 +1421,15 @@
       }
     },
     {
-      "id": "games-japan-union-ai-voice",
+      "id": "games-ai-laws-studio-legal-map",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "일본 배우들, AI 음성\n엄격한 지침 마련",
-      "body": "일본 배우 노조가 AI 음성 지침을 내고 생전 동의 없는 고인 복제를 금했다.",
-      "mini_headline": "일본 노조 AI 음성 규칙",
+      "headline": "AI 법이 바꾸는\n게임 개발",
+      "body": "바뀌는 AI 법제가 연기부터 광고까지 게임 스튜디오의 주요 영역을 흔든다.",
+      "mini_headline": "AI 법과 게임 스튜디오",
       "tool": "Games",
-      "source": "Eurogamer",
-      "url": "https://www.eurogamer.net/japanese-voice-acting-union-generative-ai",
+      "source": "GamesIndustry.biz",
+      "url": "https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development",
       "accent": "#ff5a4d",
       "motif": "cube",
       "full": {
@@ -1347,149 +1437,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
           },
           {
             "t": "p",
-            "x": "Japan Actors Union(일본 배우 노조)이 AI 생성(AI-generated) 음성 사용 지침을 새로 내놓았다. 생전에 허락하지 않았다면 세상을 떠난 배우의 목소리를 복제할 수 없다는 조항도 들어갔다. Automaton에 따르면 생성형 AI의 착취에 노출된 업계를 지키려는 조치다."
+            "x": "생성형 AI가 게임 개발에 점점 깊이 자리 잡으면서 이를 둘러싼 법률·규제·가이드라인도 늘고 있다. 달라지는 AI 법적 환경이 게임 스튜디오에 닿는 주요 영역을 큰 틀에서 짚어 본다."
           },
           {
             "t": "p",
-            "x": "지침은 네 가지다. 학습을 비롯한 생성형 AI 과정의 “모든 단계”에서 동의를 받아야 한다. AI 복제물은 새로운 연기로 보고 로열티나 보상을 줘야 한다. AI 기반(AI-powered) 번역은 원작의 “예술적 완결성”을 지켜야 하고 해외에서 쓰려면 허락을 받아야 한다. 세상을 떠난 배우의 작품을 쓸 때도 유족과 소속사의 허락을 받고 로열티를 내야 한다."
+            "x": "IP 침해: LLM은 타인의 저작물로 학습하기 때문에 출력물에 침해 소지가 있는 내용이 간혹 섞일 수 있고, 많은 도구가 입력과 출력을 제공사에 다시 라이선스하게 한다. 스튜디오는 클리어런스 절차로 프롬프트와 출력물을 검증해야 한다."
+          },
+          {
+            "t": "img",
+            "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
+            "cap": "SAG-AFTRA는 2025년 AI 관련 합의를 끌어냈다 | 이미지 출처: SAG-AFTRA"
           },
           {
             "t": "p",
-            "x": "노조는 지침을 업계 전반의 규칙으로 굳히고 정부에 ‘목소리 권리’ 입법을 요구하겠다고 밝혔다. 다만 지침은 법이 아니어서 AI 기업을 구속하지 못한다."
+            "x": "연기자: SAG-AFTRA의 2024/25 파업은 연기자의 목소리나 외모를 AI에 쓸 때 명시적 동의와 보상을 받도록 하는 합의로 끝났고, 이 합의가 점점 시장의 기준선이 되어 간다. 소유권: 미국(US)에서는 오로지 AI로 만든(AI-generated) 이미지에 저작권이 인정되지 않는다. 반면 중국은 보호를 부여했고, 영국(UK)은 제작을 준비한 사람에게 권리를 준다."
+          },
+          {
+            "t": "p",
+            "x": "광고: 영국(UK) ASA는 광고 속 AI 콘텐츠 지침을 내놓고 있다. EU AI Act는 딥페이크를 폭넓게 정의하기 때문에 사실적인 콘텐츠에는 표시가 필요할 수 있고, Steam 같은 스토어는 AI 사용 공개를 요구한다. AI 사용 정책은 이제 \"have-to-have\"(반드시 갖춰야 할 것)가 됐고, 투자자·퍼블리셔·보험사·감사인의 요구도 갈수록 커진다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Japanese actors set strict\nguidelines on AI voices",
-          "body": "The Japan Actors Union issued non-binding AI voice guidelines, banning clones of dead actors unless they consented in life.",
-          "mini_headline": "Japan union AI voice rules",
+          "headline": "How AI laws reshape\ngame development",
+          "body": "The changing AI legal landscape is affecting game studios in key areas, from acting to advertising.",
+          "mini_headline": "AI laws meet\ngame studios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "The Japan Actors Union has issued new guidelines on AI-generated voice use, including a ban on replicating the voices of dead actors unless they authorised it during their lifetime. Per Automaton, the aim is to protect an industry exposed to exploitation by generative AI."
+                "x": "Generative AI is increasingly embedded in game development, while the laws, regulations and guidelines around it are on the rise. Here is a high-level run through of key areas in which the changing AI legal landscape is affecting game studios."
               },
               {
                 "t": "p",
-                "x": "The guidelines cover four points: consent must be granted at “every stage” of the generative AI process, including training; AI replications count as new performances, so royalties or compensation are owed; AI-powered translations must keep the “artistic integrity” of the original and need permission for overseas use; and use of a deceased actor's work also requires permission from their family and agency, plus royalties."
+                "x": "IP infringement: LLM training on third-party works means output could occasionally contain infringing material, and many tools license inputs and outputs back to the provider. Studios should vet prompts and outputs through clearance processes."
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "SAG-AFTRA secured an agreement that covered AI in 2025 | Image credit: SAG-AFTRA"
               },
               {
                 "t": "p",
-                "x": "The union says it will push to make the guidelines industry-wide rules and urge the government to legislate ‘voice rights’. The guidelines are not laws and are not binding on AI companies."
+                "x": "Performers: the SAG-AFTRA strike of 2024/25 ended in an agreement requiring express consent and compensation for AI use of a performer's voice or likeness — now increasingly the market baseline. Ownership: in the US, solely AI-generated images can't be copyrighted, while China has granted protection and the UK assigns it to whoever made the arrangements."
+              },
+              {
+                "t": "p",
+                "x": "Advertising: the UK's ASA is issuing guidance on AI content in ads. The EU AI Act's broad deepfake definition may require labelling photorealistic content, and storefronts such as Steam require AI disclosure. The upshot: an AI use policy is now a \"have-to-have\", increasingly demanded by investors, publishers, insurers and auditors."
               }
             ]
           }
         },
         "ko": {
-          "headline": "일본 배우들, AI 음성\n엄격한 지침 마련",
-          "body": "일본 배우 노조가 AI 음성 지침을 내고 생전 동의 없는 고인 복제를 금했다.",
-          "mini_headline": "일본 노조 AI 음성 규칙",
+          "headline": "AI 법이 바꾸는\n게임 개발",
+          "body": "바뀌는 AI 법제가 연기부터 광고까지 게임 스튜디오의 주요 영역을 흔든다.",
+          "mini_headline": "AI 법과 게임 스튜디오",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Japan Actors Union(일본 배우 노조)이 AI 생성(AI-generated) 음성 사용 지침을 새로 내놓았다. 생전에 허락하지 않았다면 세상을 떠난 배우의 목소리를 복제할 수 없다는 조항도 들어갔다. Automaton에 따르면 생성형 AI의 착취에 노출된 업계를 지키려는 조치다."
+                "x": "생성형 AI가 게임 개발에 점점 깊이 자리 잡으면서 이를 둘러싼 법률·규제·가이드라인도 늘고 있다. 달라지는 AI 법적 환경이 게임 스튜디오에 닿는 주요 영역을 큰 틀에서 짚어 본다."
               },
               {
                 "t": "p",
-                "x": "지침은 네 가지다. 학습을 비롯한 생성형 AI 과정의 “모든 단계”에서 동의를 받아야 한다. AI 복제물은 새로운 연기로 보고 로열티나 보상을 줘야 한다. AI 기반(AI-powered) 번역은 원작의 “예술적 완결성”을 지켜야 하고 해외에서 쓰려면 허락을 받아야 한다. 세상을 떠난 배우의 작품을 쓸 때도 유족과 소속사의 허락을 받고 로열티를 내야 한다."
+                "x": "IP 침해: LLM은 타인의 저작물로 학습하기 때문에 출력물에 침해 소지가 있는 내용이 간혹 섞일 수 있고, 많은 도구가 입력과 출력을 제공사에 다시 라이선스하게 한다. 스튜디오는 클리어런스 절차로 프롬프트와 출력물을 검증해야 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "SAG-AFTRA는 2025년 AI 관련 합의를 끌어냈다 | 이미지 출처: SAG-AFTRA"
               },
               {
                 "t": "p",
-                "x": "노조는 지침을 업계 전반의 규칙으로 굳히고 정부에 ‘목소리 권리’ 입법을 요구하겠다고 밝혔다. 다만 지침은 법이 아니어서 AI 기업을 구속하지 못한다."
+                "x": "연기자: SAG-AFTRA의 2024/25 파업은 연기자의 목소리나 외모를 AI에 쓸 때 명시적 동의와 보상을 받도록 하는 합의로 끝났고, 이 합의가 점점 시장의 기준선이 되어 간다. 소유권: 미국(US)에서는 오로지 AI로 만든(AI-generated) 이미지에 저작권이 인정되지 않는다. 반면 중국은 보호를 부여했고, 영국(UK)은 제작을 준비한 사람에게 권리를 준다."
+              },
+              {
+                "t": "p",
+                "x": "광고: 영국(UK) ASA는 광고 속 AI 콘텐츠 지침을 내놓고 있다. EU AI Act는 딥페이크를 폭넓게 정의하기 때문에 사실적인 콘텐츠에는 표시가 필요할 수 있고, Steam 같은 스토어는 AI 사용 공개를 요구한다. AI 사용 정책은 이제 \"have-to-have\"(반드시 갖춰야 할 것)가 됐고, 투자자·퍼블리셔·보험사·감사인의 요구도 갈수록 커진다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "日本の俳優団体、\nAI音声に厳格指針",
-          "body": "日本俳優連合が拘束力のないAI音声指針を公表し、生前の同意なき故人の複製を禁じた。",
-          "mini_headline": "日本の労組、AI音声ルール",
+          "headline": "AI法が変える\nゲーム開発",
+          "body": "変わりゆくAIの法環境が、演技から広告までゲームスタジオの主な領域に影響を及ぼしている。",
+          "mini_headline": "AI法とゲームスタジオ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "日本俳優連合（Japan Actors Union）は、AI生成（AI-generated）音声の利用に関する新たなガイドラインを発表した。生前に本人が許可していない限り、亡くなった俳優の声の複製を禁じる内容も含まれる。Automatonによると、生成AIによる搾取にさらされている業界を守るのが狙いだ。"
+                "x": "生成AIはゲーム開発に深く入り込みつつあり、それをめぐる法律、規制、ガイドラインも増えている。変わりゆくAIの法環境がゲームスタジオに影響を及ぼす主な領域を、大まかに見ていく。"
               },
               {
                 "t": "p",
-                "x": "ガイドラインは四つの点を定めている。学習を含む生成AIプロセスの「あらゆる段階」で同意を得なければならない。AIによる複製は新たな演技とみなされるため、ロイヤルティや報酬が支払われるべきだ。AIを使った（AI-powered）翻訳は原作の「芸術的完全性」を保たなければならず、海外での利用には許可が必要だ。亡くなった俳優の作品を使う場合も、遺族と所属事務所の許可に加え、ロイヤルティが必要となる。"
+                "x": "IP侵害：LLMは第三者の著作物で学習しているため、出力に侵害にあたる素材がまれに含まれる可能性がある。また多くのツールは、入力と出力を提供元にライセンスし返す仕組みだ。スタジオはクリアランス手続きを通じてプロンプトと出力を精査すべきである。"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "SAG-AFTRAは2025年、AIを対象とする合意を勝ち取った | 画像クレジット：SAG-AFTRA"
               },
               {
                 "t": "p",
-                "x": "同団体は、このガイドラインを業界全体のルールにするよう働きかけ、政府に「声の権利」の法制化を求めていくとしている。ガイドラインは法律ではなく、AI企業を拘束するものではない。"
+                "x": "出演者：SAG-AFTRAによる2024/25のストライキは、出演者の声や容姿をAIに使う際に明示的な同意と報酬を求める合意で決着し、これがいまや市場の基準になりつつある。所有権：US（米国）では、AIのみで生成された（AI-generated）画像は著作権の対象にならない。一方、中国は保護を認め、UK（英国）は制作の手配をした者に権利を帰属させている。"
+              },
+              {
+                "t": "p",
+                "x": "広告：UK（英国）のASAは、広告におけるAIコンテンツについてのガイダンスを出している。EU AI Actのディープフェイクの定義は広く、写実的なコンテンツには表示が求められる可能性がある。Steamなどのストアもすでに、AI使用の開示を義務づけている。結論として、AI利用ポリシーはいまや「have-to-have」（不可欠なもの）であり、投資家、パブリッシャー、保険会社、監査人からますます求められている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "日本演员工会\n出台严格AI语音准则",
-          "body": "日本演员工会发布不具约束力的AI语音准则，禁止未经生前同意克隆已故演员声音。",
-          "mini_headline": "日本工会AI语音规则",
+          "headline": "AI法律如何重塑\n游戏开发",
+          "body": "不断变化的AI法律环境，正在从表演到广告等关键领域影响游戏工作室。",
+          "mini_headline": "AI法律遇上游戏工作室",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Japan Actors Union（日本演员工会）发布了关于AI生成（AI-generated）语音使用的新准则，其中包括禁止复制已故演员的声音，除非其生前曾予以授权。据Automaton报道，此举旨在保护一个暴露在生成式AI剥削之下的行业。"
+                "x": "生成式AI正日益融入游戏开发，与之相关的法律、法规和指南也在不断增加。以下概括梳理不断变化的AI法律环境影响游戏工作室的关键领域。"
               },
               {
                 "t": "p",
-                "x": "准则涵盖四点：在包括训练在内的生成式AI流程“每个阶段”都必须获得同意；AI复制品被视为新的表演，因此应支付版税或报酬；AI驱动（AI-powered）的翻译必须保持原作的“艺术完整性”，并需获得许可才能在海外使用；使用已故演员的作品还需征得其家属和经纪公司的许可，并支付版税。"
+                "x": "IP侵权：LLM使用第三方作品进行训练，意味着输出内容偶尔可能包含侵权素材，而且许多工具会把输入和输出反向授权给提供方。工作室应通过审核流程检查提示词和输出内容。"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "SAG-AFTRA在2025年争取到一项涵盖AI的协议 | 图片来源：SAG-AFTRA"
               },
               {
                 "t": "p",
-                "x": "工会表示，将推动把这些准则变为全行业规则，并敦促政府为‘声音权’立法。这些准则并非法律，对AI公司不具约束力。"
+                "x": "表演者：SAG-AFTRA在2024/25的罢工以一项协议告终，该协议要求在AI使用表演者的声音或形象时须获得明确同意并支付报酬，这正日益成为市场基准。所有权：在US（美国），完全由AI生成（AI-generated）的图像无法获得版权，而中国已给予保护，UK（英国）则将权利归于作出相关安排的人。"
+              },
+              {
+                "t": "p",
+                "x": "广告：UK（英国）的ASA正在发布关于广告中AI内容的指引。EU AI Act对深度伪造的宽泛定义可能要求为逼真内容加注标签，Steam等商店也要求披露AI使用情况。结论是：AI使用政策如今已是\"have-to-have\"（必备项），投资者、发行商、保险公司和审计方越来越多地提出这一要求。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Actores japoneses fijan reglas\nestrictas sobre voces con IA",
-          "body": "La Japan Actors Union fijó pautas no vinculantes sobre voces con IA que vetan clonar a actores fallecidos sin permiso.",
-          "mini_headline": "Reglas de voz con IA en Japón",
+          "headline": "Cómo las leyes de IA\ncambian el desarrollo de juegos",
+          "body": "El cambiante marco legal de la IA afecta a los estudios de juegos en áreas clave, de la actuación a la publicidad.",
+          "mini_headline": "Leyes de IA y estudios de juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "La Japan Actors Union ha publicado nuevas pautas sobre el uso de voces generadas por IA (AI-generated), que incluyen la prohibición de replicar las voces de actores fallecidos salvo que lo autorizaran en vida. Según Automaton, el objetivo es proteger a una industria expuesta a la explotación por parte de la IA generativa."
+                "x": "La AI generativa está cada vez más integrada en el desarrollo de videojuegos, mientras crecen las leyes, normas y directrices que la rodean. Este es un repaso general de las áreas clave en las que el cambiante marco legal de la IA afecta a los estudios."
               },
               {
                 "t": "p",
-                "x": "Las pautas abarcan cuatro puntos: el consentimiento debe otorgarse en “cada etapa” del proceso de IA generativa, incluido el entrenamiento; las réplicas con IA cuentan como nuevas interpretaciones, por lo que se deben regalías o compensación; las traducciones con IA (AI-powered) deben mantener la “integridad artística” del original y requieren permiso para su uso en el extranjero; y el uso de la obra de un actor fallecido también exige el permiso de su familia y su agencia, además de regalías."
+                "x": "Infracción de IP: que los LLM se entrenen con obras de terceros implica que los resultados podrían contener ocasionalmente material infractor, y muchas herramientas licencian las entradas y salidas de vuelta al proveedor. Los estudios deberían revisar prompts y resultados mediante procesos de verificación de derechos."
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "SAG-AFTRA logró un acuerdo que abarcaba la AI en 2025 | Crédito de imagen: SAG-AFTRA"
               },
               {
                 "t": "p",
-                "x": "El sindicato afirma que impulsará que las pautas se conviertan en normas para toda la industria e instará al gobierno a legislar los ‘derechos de voz’. Las pautas no son leyes y no obligan a las empresas de IA."
+                "x": "Intérpretes: la huelga de SAG-AFTRA de 2024/25 terminó con un acuerdo que exige consentimiento expreso y compensación por el uso con IA de la voz o la imagen de un intérprete, algo que cada vez más se considera la base del mercado. Propiedad: en US (Estados Unidos), las imágenes generadas únicamente por IA (AI-generated) no pueden registrarse con copyright, mientras que China les ha concedido protección y el UK (Reino Unido) atribuye los derechos a quien hizo los arreglos necesarios."
+              },
+              {
+                "t": "p",
+                "x": "Publicidad: la ASA del UK (Reino Unido) está publicando orientaciones sobre contenido de IA en anuncios. La amplia definición de deepfake de la EU AI Act podría exigir etiquetar el contenido fotorrealista, y tiendas como Steam exigen declarar el uso de IA. En resumen, una política de uso de IA es ya un \"have-to-have\", cada vez más exigido por inversores, editoras, aseguradoras y auditores."
               }
             ]
           }
@@ -1497,105 +1641,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "일본 배우들, AI 음성\n엄격한 지침 마련",
-          "body": "일본 배우 노조가 AI 음성 지침을 내고 생전 동의 없는 고인 복제를 금했다.",
-          "mini_headline": "일본 노조 AI 음성 규칙",
+          "headline": "AI 법이 바꾸는\n게임 개발",
+          "body": "변화하는 AI 법제가 연기부터 광고까지 게임 스튜디오의 주요 영역을 흔든다.",
+          "mini_headline": "AI 법과 게임 스튜디오",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Japan Actors Union(일본 배우 노조)이 AI 생성(AI-generated) 음성 사용에 관한 새 지침을 내놓았다. 여기에는 생전에 허락하지 않은 한 세상을 떠난 배우의 목소리를 복제하지 못하게 하는 조항도 들어 있다. Automaton에 따르면 생성형 AI의 착취에 노출된 업계를 보호하려는 취지다."
+                "x": "생성형 AI가 게임 개발에 점점 깊이 자리 잡는 가운데, 이를 둘러싼 법률·규제·가이드라인도 늘고 있다. 변화하는 AI 법적 환경이 게임 스튜디오에 영향을 미치는 주요 영역을 큰 틀에서 짚어 본다."
               },
               {
                 "t": "p",
-                "x": "지침은 네 가지를 다룬다. 학습을 포함해 생성형 AI 과정의 “모든 단계”에서 동의를 받아야 한다. AI 복제물은 새로운 연기로 보므로 로열티나 보상을 지급해야 한다. AI 기반(AI-powered) 번역은 원작의 “예술적 완결성”을 지켜야 하며 해외에서 쓰려면 허락이 필요하다. 세상을 떠난 배우의 작품을 쓸 때도 유족과 소속사의 허락을 받고 로열티를 지급해야 한다."
+                "x": "IP 침해: LLM이 타인의 저작물로 학습하는 만큼 출력물에 침해 소지가 있는 내용이 간혹 섞일 수 있고, 많은 도구가 입력과 출력을 제공사에 다시 라이선스하도록 한다. 스튜디오는 클리어런스 절차를 거쳐 프롬프트와 출력물을 검증해야 한다."
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "SAG-AFTRA는 2025년 AI를 다루는 합의를 이끌어 냈다 | 이미지 출처: SAG-AFTRA"
               },
               {
                 "t": "p",
-                "x": "노조는 이 지침을 업계 전반의 규칙으로 만들고 정부에 ‘목소리 권리’ 입법을 촉구하겠다고 밝혔다. 지침은 법이 아니며 AI 기업에 구속력도 없다."
+                "x": "연기자: SAG-AFTRA의 2024/25 파업은 연기자의 목소리나 외모를 AI에 쓸 때 명시적 동의와 보상을 요구하는 합의로 끝났고, 이는 점점 시장의 기준선이 되고 있다. 소유권: 미국(US)에서는 오로지 AI로 만든(AI-generated) 이미지는 저작권을 인정받지 못하지만, 중국은 보호를 부여했고 영국(UK)은 그 제작을 준비한 사람에게 권리를 귀속한다."
+              },
+              {
+                "t": "p",
+                "x": "광고: 영국(UK) ASA는 광고 속 AI 콘텐츠에 관한 지침을 내놓고 있다. EU AI Act의 폭넓은 딥페이크 정의에 따라 사실적인 콘텐츠에 표시가 필요할 수 있고, Steam 같은 스토어는 AI 사용 공개를 요구한다. 결국 AI 사용 정책은 이제 \"have-to-have\"(반드시 갖춰야 할 것)이며, 투자자·퍼블리셔·보험사·감사인이 점점 더 요구하고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "日本の俳優団体、\nAI音声に厳格指針",
-          "body": "日本俳優連合が拘束力のないAI音声指針を公表し、生前の同意なき故人の複製を禁じた。",
-          "mini_headline": "日本の労組、AI音声ルール",
+          "headline": "AI法が変える\nゲーム開発",
+          "body": "変わりゆくAIの法環境が、演技から広告までゲームスタジオの主な領域に影響を及ぼしている。",
+          "mini_headline": "AI法とゲームスタジオ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "日本俳優連合（Japan Actors Union）は、AI生成（AI-generated）音声の利用に関する新たなガイドラインを発表した。生前に本人が許可していない限り、亡くなった俳優の声の複製を禁じる内容も含まれる。Automatonによると、生成AIによる搾取にさらされている業界を守るのが狙いだ。"
+                "x": "生成AIはゲーム開発に深く入り込みつつあり、それをめぐる法律、規制、ガイドラインも増えている。変わりゆくAIの法環境がゲームスタジオに影響を及ぼす主な領域を、大まかに見ていく。"
               },
               {
                 "t": "p",
-                "x": "ガイドラインは四つの点を定めている。学習を含む生成AIプロセスの「あらゆる段階」で同意を得なければならない。AIによる複製は新たな演技とみなされるため、ロイヤルティや報酬が支払われるべきだ。AIを使った（AI-powered）翻訳は原作の「芸術的完全性」を保たなければならず、海外での利用には許可が必要だ。亡くなった俳優の作品を使う場合も、遺族と所属事務所の許可に加え、ロイヤルティが必要となる。"
+                "x": "IP侵害：LLMは第三者の著作物で学習しているため、出力に侵害にあたる素材がまれに含まれる可能性がある。また多くのツールは、入力と出力を提供元にライセンスし返す仕組みだ。スタジオはクリアランス手続きを通じてプロンプトと出力を精査すべきである。"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "SAG-AFTRAは2025年、AIを対象とする合意を勝ち取った | 画像クレジット：SAG-AFTRA"
               },
               {
                 "t": "p",
-                "x": "同団体は、このガイドラインを業界全体のルールにするよう働きかけ、政府に「声の権利」の法制化を求めていくとしている。ガイドラインは法律ではなく、AI企業を拘束するものではない。"
+                "x": "出演者：SAG-AFTRAによる2024/25のストライキは、出演者の声や容姿をAIに使う際に明示的な同意と報酬を求める合意で決着し、これがいまや市場の基準になりつつある。所有権：US（米国）では、AIのみで生成された（AI-generated）画像は著作権の対象にならない。一方、中国は保護を認め、UK（英国）は制作の手配をした者に権利を帰属させている。"
+              },
+              {
+                "t": "p",
+                "x": "広告：UK（英国）のASAは、広告におけるAIコンテンツについてのガイダンスを出している。EU AI Actのディープフェイクの定義は広く、写実的なコンテンツには表示が求められる可能性がある。Steamなどのストアもすでに、AI使用の開示を義務づけている。結論として、AI利用ポリシーはいまや「have-to-have」（不可欠なもの）であり、投資家、パブリッシャー、保険会社、監査人からますます求められている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "日本演员工会\n出台严格AI语音准则",
-          "body": "日本演员工会发布不具约束力的AI语音准则，禁止未经生前同意克隆已故演员声音。",
-          "mini_headline": "日本工会AI语音规则",
+          "headline": "AI法律如何重塑\n游戏开发",
+          "body": "不断变化的AI法律环境，正在从表演到广告等关键领域影响游戏工作室。",
+          "mini_headline": "AI法律遇上游戏工作室",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Japan Actors Union（日本演员工会）发布了关于AI生成（AI-generated）语音使用的新准则，其中包括禁止复制已故演员的声音，除非其生前曾予以授权。据Automaton报道，此举旨在保护一个暴露在生成式AI剥削之下的行业。"
+                "x": "生成式AI正日益融入游戏开发，与之相关的法律、法规和指南也在不断增加。以下概括梳理不断变化的AI法律环境影响游戏工作室的关键领域。"
               },
               {
                 "t": "p",
-                "x": "准则涵盖四点：在包括训练在内的生成式AI流程“每个阶段”都必须获得同意；AI复制品被视为新的表演，因此应支付版税或报酬；AI驱动（AI-powered）的翻译必须保持原作的“艺术完整性”，并需获得许可才能在海外使用；使用已故演员的作品还需征得其家属和经纪公司的许可，并支付版税。"
+                "x": "IP侵权：LLM使用第三方作品进行训练，意味着输出内容偶尔可能包含侵权素材，而且许多工具会把输入和输出反向授权给提供方。工作室应通过审核流程检查提示词和输出内容。"
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "SAG-AFTRA在2025年争取到一项涵盖AI的协议 | 图片来源：SAG-AFTRA"
               },
               {
                 "t": "p",
-                "x": "工会表示，将推动把这些准则变为全行业规则，并敦促政府为‘声音权’立法。这些准则并非法律，对AI公司不具约束力。"
+                "x": "表演者：SAG-AFTRA在2024/25的罢工以一项协议告终，该协议要求在AI使用表演者的声音或形象时须获得明确同意并支付报酬，这正日益成为市场基准。所有权：在US（美国），完全由AI生成（AI-generated）的图像无法获得版权，而中国已给予保护，UK（英国）则将权利归于作出相关安排的人。"
+              },
+              {
+                "t": "p",
+                "x": "广告：UK（英国）的ASA正在发布关于广告中AI内容的指引。EU AI Act对深度伪造的宽泛定义可能要求为逼真内容加注标签，Steam等商店也要求披露AI使用情况。结论是：AI使用政策如今已是\"have-to-have\"（必备项），投资者、发行商、保险公司和审计方越来越多地提出这一要求。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Actores japoneses fijan reglas\nestrictas sobre voces con IA",
-          "body": "La Japan Actors Union fijó pautas no vinculantes sobre voces con IA que vetan clonar a actores fallecidos sin permiso.",
-          "mini_headline": "Reglas de voz con IA en Japón",
+          "headline": "Cómo las leyes de IA\ncambian el desarrollo de juegos",
+          "body": "El cambiante marco legal de la IA afecta a los estudios de juegos en áreas clave, de la actuación a la publicidad.",
+          "mini_headline": "Leyes de IA y estudios de juegos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/binary-domain-robot-face.webp?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "La Japan Actors Union ha publicado nuevas pautas sobre el uso de voces generadas por IA (AI-generated), que incluyen la prohibición de replicar las voces de actores fallecidos salvo que lo autorizaran en vida. Según Automaton, el objetivo es proteger a una industria expuesta a la explotación por parte de la IA generativa."
+                "x": "La AI generativa está cada vez más integrada en el desarrollo de videojuegos, mientras crecen las leyes, normas y directrices que la rodean. Este es un repaso general de las áreas clave en las que el cambiante marco legal de la IA afecta a los estudios."
               },
               {
                 "t": "p",
-                "x": "Las pautas abarcan cuatro puntos: el consentimiento debe otorgarse en “cada etapa” del proceso de IA generativa, incluido el entrenamiento; las réplicas con IA cuentan como nuevas interpretaciones, por lo que se deben regalías o compensación; las traducciones con IA (AI-powered) deben mantener la “integridad artística” del original y requieren permiso para su uso en el extranjero; y el uso de la obra de un actor fallecido también exige el permiso de su familia y su agencia, además de regalías."
+                "x": "Infracción de IP: que los LLM se entrenen con obras de terceros implica que los resultados podrían contener ocasionalmente material infractor, y muchas herramientas licencian las entradas y salidas de vuelta al proveedor. Los estudios deberían revisar prompts y resultados mediante procesos de verificación de derechos."
+              },
+              {
+                "t": "img",
+                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
+                "cap": "SAG-AFTRA logró un acuerdo que abarcaba la AI en 2025 | Crédito de imagen: SAG-AFTRA"
               },
               {
                 "t": "p",
-                "x": "El sindicato afirma que impulsará que las pautas se conviertan en normas para toda la industria e instará al gobierno a legislar los ‘derechos de voz’. Las pautas no son leyes y no obligan a las empresas de IA."
+                "x": "Intérpretes: la huelga de SAG-AFTRA de 2024/25 terminó con un acuerdo que exige consentimiento expreso y compensación por el uso con IA de la voz o la imagen de un intérprete, algo que cada vez más se considera la base del mercado. Propiedad: en US (Estados Unidos), las imágenes generadas únicamente por IA (AI-generated) no pueden registrarse con copyright, mientras que China les ha concedido protección y el UK (Reino Unido) atribuye los derechos a quien hizo los arreglos necesarios."
+              },
+              {
+                "t": "p",
+                "x": "Publicidad: la ASA del UK (Reino Unido) está publicando orientaciones sobre contenido de IA en anuncios. La amplia definición de deepfake de la EU AI Act podría exigir etiquetar el contenido fotorrealista, y tiendas como Steam exigen declarar el uso de IA. En resumen, una política de uso de IA es ya un \"have-to-have\", cada vez más exigido por inversores, editoras, aseguradoras y auditores."
               }
             ]
           }

@@ -8822,6 +8822,151 @@
           "x": "4K and 1080p 10-bit HDR output, as well as an enterprise API, are still due soon rather than part of the completed public rollout. Pexo reports that a Kling 4.0 Flash variant entered limited early access on September 28 for top-tier annual subscribers."
         }
       ]
+    },
+    "design/design-chatgpt-slides-decks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI is expanding ChatGPT’s role in the workplace with ChatGPT Slides, a new feature announced in its October 16 release notes that lets users create, edit, and collaborate on slide decks directly within the platform."
+        },
+        {
+          "t": "p",
+          "x": "Users can start with an existing conversation, uploaded files, an outline, or a sample presentation that guides the design. ChatGPT turns that material into an editable deck, generates custom images, and helps refine text, visuals, and charts; users can also edit elements themselves or ask for specific changes."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "Teammates can edit the same presentation simultaneously and leave shared comments, while ChatGPT helps implement feedback and keep slides consistent. An existing deck can serve as a reference so output follows established branding."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "Finished decks can be presented in ChatGPT or exported to PowerPoint, PDF, or Google Slides on the web, and stay editable. Slides is rolling out to eligible Pro, Business, and Enterprise users with Space access, and figures and claims should still be verified before presenting."
+        }
+      ]
+    },
+    "design/design-neural-concept-cad-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "Switzerland-based AI-native engineering company Neural Concept SA today launched Model Context Protocol Bridge to help AI agents operate commercial computer-aided design and simulation tools, helping large engineering organizations automate the software environments used to design and simulate physical products."
+        },
+        {
+          "t": "p",
+          "x": "Founded in 2019, Neural Concept serves OEMs in automotive, aerospace, energy, electronics, semiconductors and defense. MCP Bridge gives AI agents access to those tools and the engineering know-how to use them, while companies retain control and ownership of their software and data."
+        },
+        {
+          "t": "p",
+          "x": "“For the first time, the software that shapes every physical product can be operated by AI at enterprise scale,” said co-founder and CEO Pierre Baqué. In one customer case, an engineer using MCP Bridge cleaned up the geometry of a wheel rim in three minutes, compared with a day manually."
+        },
+        {
+          "t": "p",
+          "x": "Preparing simulation-ready digital twins can take weeks; an AI agent working in CAE software can cut that to hours. “AI agents have completely changed the way I work,” said Ciro Alosa, an electromagnetic design engineer at Volkswagen Group’s Traton SE."
+        }
+      ]
+    },
+    "design/design-dxo-viewpoint6-ai-masking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Struggling to correct wonky buildings, want a tilt-shift look without a specialist lens, or have barrel distortion stretching subjects at the frame's corners? DxO has launched ViewPoint 6, the latest version of its geometry-based photo editor, and the headline feature is combining geometric corrections with AI masking for precise, local edits."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+          "cap": "Mesh subdivisions give you much finer, localized control in ViewPoint 6 (Image credit: DxO)"
+        },
+        {
+          "t": "p",
+          "x": "AI masking in ReShape Fusion lets users mask a specific object, such as a tall building, and correct its geometry independently of the rest of the photo, instead of correcting the whole image and cropping. Users draw a selection box around the subject; ViewPoint 6 masks it and places a mesh with control points directly on top of it, with more subdivision options for finer local control."
+        },
+        {
+          "t": "p",
+          "x": "DxO is keen to point out that no AI image generation takes place: “It rearranges the components of the scene the photographer captured rather than recreating them”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+          "cap": "Reshaping facial features is possible thanks to ViewPoint 6’s local geometric adjustments (Image credit: DxO)"
+        },
+        {
+          "t": "p",
+          "x": "As standalone software, ViewPoint 6 now opens RAW files (as well as TIFF and JPEG), and it also works as a plug-in for Photoshop, Lightroom Classic and DxO PhotoLab 10. It is available now for $129.99 / £109.99, or $84.99 / £69.99 to upgrade from ViewPoint 5, with a 30-day free trial."
+        }
+      ]
+    },
+    "design/design-anthropic-attention-bottleneck": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+          "cap": "A wide office floor where one person reads at a desk while dozens of screens around them keep filling with new work for them to address."
+        },
+        {
+          "t": "p",
+          "x": "On October 16, four Anthropic researchers published “How employment is changing at Anthropic.” By August 2026, agents directed by employees were logging six hours for every hour their people worked. Agent sessions spent about 80% of their time idle, waiting for a person, and even for non-coders, reading everything their agents produced would take more than half the workweek. “That’s the reading tax, and every team with agents will pay it.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+          "cap": "Agents work more than humans. Not a surprise."
+        },
+        {
+          "t": "p",
+          "x": "Patrick Neeman argues the work is turning everyone into a manager, and offers seven steps for keeping people in charge of the loop: measure reading time like a page-load budget, rank agent requests by severity, design the review step, write decisions down where agents can find them, manage the agents, hire for judgment, and rebuild entry-level roles around review."
+        },
+        {
+          "t": "p",
+          "x": "Output keeps getting cheaper while human attention stays fixed. Designers, researchers and product managers set what agents show people, when they interrupt and how review works, and the job is to create judgement systems for what deserves attention."
+        }
+      ]
+    },
+    "design/design-gemini-notebook-cocreate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+          "cap": "Illustration showing new review slide deck capabilities"
+        },
+        {
+          "t": "p",
+          "x": "Based on user feedback, Gemini Notebook now offers more creative control from start to finish on two popular outputs: Slide Decks and Video Overviews. Instead of jumping from an initial prompt straight to a final output, it can walk you through the creation flow based directly on your sources."
+        },
+        {
+          "t": "p",
+          "x": "Ask in the chat for slides or a video overview and Notebook suggests topics to include. Once you confirm, you can steer the content further and guide visual style and format."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+        },
+        {
+          "t": "p",
+          "x": "A new Review toggle goes further: review the plan in the studio panel via “Review outline notes” for slides or “Review producer notes” for video, and give feedback — such as adding an executive summary or swapping the order of a scene — before anything renders. Select “Proceed” to produce the final artifact."
+        },
+        {
+          "t": "p",
+          "x": "If you already know what you want, say so in your prompt and Notebook goes straight to review. For a quick output, skip the Review toggle and generate as usual. The co-creation features are rolling out globally to all Gemini Notebook users over the coming week."
+        }
+      ]
     }
   }
 }

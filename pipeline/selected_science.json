@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "science",
   "picks": [
     {
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
-      "source": "MIT Technology Review",
+      "url": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip",
+      "title": "A supercomputer is about to launch to the moon aboard a rover named FLIP",
+      "source": "Space.com",
       "category": "science",
-      "published_iso": "2026-10-19T05:08:05-04:00",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-      "excerpt": "In various tests, solo AI agents invented versions of basketball and “the floor is lava.” But were they truly playing?",
+      "published_iso": "2026-10-20T17:42:41Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+      "excerpt": "The FLIP lunar rover will carry the first supercomputer to the moon, bringing onboard AI processing to lunar surface operations.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "AI behavior slot from a top outlet: left alone with no task, solo agents made up games. That raises a real question about how we define play, and it is a different setup from the 9-22 survival-simulation card."
+      "rationale": "Space slot and the freshest item in the pool: the first supercomputer headed to the lunar surface brings onboard AI processing to rover operations."
     },
     {
-      "url": "https://www.livescience.com/technology/robotics/the-worlds-fastest-ai-powered-racing-drone-outflies-the-best-human-drone-pilots",
-      "title": "World's fastest AI-powered racing drone outflies the best human pilots",
-      "source": "Live Science",
+      "url": "https://techxplore.com/news/2026-10-ai-reconstructs-cloud-ground-satellite.html",
+      "title": "AI that reconstructs cloud-covered ground in satellite images with photo-like clarity",
+      "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-10-19T16:40:15Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg",
-      "excerpt": "An AI-operated drone learned to fly from scratch and navigated a race course at speeds over 60 mph, using a single camera.",
+      "published_iso": "2026-10-19T10:10:05-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+      "excerpt": "KAIST built GeoCore-9B, a 9-billion-parameter generative foundation model pretrained on 10 million satellite image-text pairs, which restores cloud-covered optical imagery and turns radar images into photo-like views, beating task-specific models.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Robotics slot: a drone that taught itself to fly with a single camera now beats champion human pilots at over 60 mph. It is a clear, concrete benchmark result."
+      "rationale": "Earth-observation slot: GeoCore-9B is a new 9B-parameter foundation model that restores cloud-covered imagery and turns radar scenes into photo-like views. It is a different model from the IonQ quantum radar card published 09-28."
     },
     {
-      "url": "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html",
-      "title": "'24/7 unmanned synthesis platform' uses robots and light to produce drug candidates",
-      "source": "Phys.org",
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+      "title": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+      "source": "Google Research",
       "category": "science",
-      "published_iso": "2026-10-19T12:00:12-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
-      "excerpt": "KAIST chemists paired robotic reagent dispensing with visible-light continuous-flow reactors and inline analytics to convert furans into N-methyl pyrroles, a common drug scaffold. The unattended platform worked on more than 20 compounds and scaled up production.",
+      "published_iso": "2026-10-16T18:11:34Z",
+      "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "excerpt": "Google Research paired AI agents with lab robots and a digital twin (VERID) that verifies liquid-handling protocols before execution, running closed-loop campaigns on DNA aptamers and de novo protein binders that reached single-digit nanomolar binders.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "Chemistry and autonomous-lab slot: an unattended robotic photochemistry platform ran on more than 20 compounds and scaled up. It targets a general drug scaffold, not a specific disease, so it belongs in science rather than medicine."
+      "rationale": "Lab-automation slot: agents run closed-loop wet-lab campaigns, and the VERID digital twin checks each protocol before the robot executes it. It is a new Google release, separate from the GEN hybrid digital twin card on 10-12."
     },
     {
-      "url": "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html",
-      "title": "AI reads centuries-old handwriting to reveal Britain's vast historic shipping trade",
+      "url": "https://phys.org/news/2026-10-synthetic-opinion-polling-ai-personas.html",
+      "title": "Synthetic public opinion polling: AI personas don't always change their minds like real voters do",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-19T12:40:08-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
-      "excerpt": "University of Southampton researchers used AI to transcribe about 100,000 pages of handwritten port records, building a database of hundreds of thousands of British voyages from the late 1500s to the mid-1700s.",
+      "published_iso": "2026-10-19T12:00:00Z",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+      "excerpt": "Pollsters now use LLM-built synthetic personas as stand-ins for voters, but fixed personas miss opinion shifts and outliers; a Pew experiment found AI answers differed from human panelists by 12 points on average.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "History slot: handwriting recognition turned 100,000 pages of port records into a database of British voyages from the 1500s to the 1700s. It is a different project from the 10-03 Napoleon-letter card."
+      "rationale": "Social-science methods slot: a Pew experiment measured a 12-point average gap between synthetic LLM personas and real panelists. That is a concrete limit for anyone using AI as stand-in survey respondents."
     },
     {
-      "url": "https://techxplore.com/news/2026-10-llms-frivolous-online-content-brain.html",
-      "title": "When LLMs are trained on frivolous online content, they can get brain rot like humans do",
+      "url": "https://techxplore.com/news/2026-10-dispute-ai-turing.html",
+      "title": "Researchers dispute whether AI has passed the Turing test",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-10-19T13:40:09-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
-      "excerpt": "Texas A&M researchers trained four LLMs on low-quality, attention-grabbing Twitter posts and saw weaker reasoning and memory, more skipped reasoning steps and looser ethical responses. Retraining on higher-quality data did not fully restore performance.",
+      "published_iso": "2026-10-16T09:20:02-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+      "excerpt": "The first experimental run of Turing's original three-player, open-ended imitation game found 36 of 37 participants correctly identified GPT-4-Turbo, challenging claims that AI has passed the Turing test.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "AI-cognition slot: a controlled experiment showed that junk training data weakens model reasoning, and the damage did not fully go away after retraining. The finding matters for anyone thinking about data quality."
+      "rationale": "AI-cognition slot: the first run of Turing's original three-player game found that 36 of 37 people spotted the AI, which pushes back on claims that AI has passed the test."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/": {
+      "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip": {
         "verdict": "new",
-        "nearest": "https://www.livescience.com/technology/artificial-intelligence/ai-agents-resorted-to-crime-and-self-destruction-to-survive-in-a-simulated-world-but-does-this-mean-they-would-do-the-same-in-the-real-world",
+        "nearest": "https://www.universetoday.com/articles/stanford-engineers-teach-spacecraft-to-dream-their-way-to-the-space-station",
         "new_action": ""
       },
-      "https://www.livescience.com/technology/robotics/the-worlds-fastest-ai-powered-racing-drone-outflies-the-best-human-drone-pilots": {
+      "https://techxplore.com/news/2026-10-ai-reconstructs-cloud-ground-satellite.html": {
         "verdict": "new",
-        "nearest": "https://www.sciencedaily.com/releases/2026/09/260921081114.htm",
+        "nearest": "https://thequantuminsider.com/2026/09/25/evaluating-quantum-generative-models-on-real-satellite-radar/",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html": {
+      "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/": {
         "verdict": "new",
-        "nearest": "https://www.eurekalert.org/news-releases/1145149",
+        "nearest": "https://www.genengnews.com/topics/bioprocessing/hybrid-digital-twins-developed-for-future-autonomous-labs/",
         "new_action": ""
       },
-      "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html": {
+      "https://phys.org/news/2026-10-synthetic-opinion-polling-ai-personas.html": {
         "verdict": "new",
-        "nearest": "https://www.livescience.com/technology/artificial-intelligence/a-kind-of-rosetta-stone-ai-decodes-217-year-old-secret-letter-ordered-by-napoleon",
+        "nearest": "https://techxplore.com/news/2026-09-ai-people-technology-view.html",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-llms-frivolous-online-content-brain.html": {
+      "https://techxplore.com/news/2026-10-dispute-ai-turing.html": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-09-ai-chatbots-narrow-slice-knowledge.html",
+        "nearest": "https://techxplore.com/news/2026-10-ai-people-conscious-humans.html",
         "new_action": ""
       }
     },
-    "note": "Dropped as repeats of published stories: MIT News S2S weather (same story as phys.org 10-15 card), Google Earth AI geospatial agents (same Earth AI line as the 10-07 card), Live Science rogue-AI formula (same as techxplore 10-09), ScienceDaily AI consciousness (same as techxplore 10-03), ScienceDaily CO2-to-fuel (same as eurekalert 10-09), SciAm Claude CRISPR-like DNA (Anthropic's biology discovery, already published 09-25 via phys.org; no new release, and bio-adjacent). Held back as uncertain: Quanta quasi-Riemann AI proof. It is tagged 'related' to the Live Science 10-02 Riemann/Claude card and may be the same result, and I could not verify that without a fetch. Dropped on scope: GEN Danaher-Nvidia (business partnership), KAIST smartphone stress and the Curtin chatbot mental-health framework (health-leaning and weak). Ranked below the picks: MIT TR Cammarata interview (commentary on a blog post, and TR already has a pick), Google wet-lab agents (overlaps the autonomous-lab slot taken by the KAIST synthesis platform), Science News math-human essay (commentary in an AI-math run already covered heavily). Outlets: TR 1, Live Science 1, Phys.org 2, Tech Xplore 1."
+    "note": "Dropped as repeats of published stories: MIT News S2S weather (likely-repeat of the phys.org 10-15 card, same study), Live Science rogue-AI formula (same as techxplore 10-09), ScienceDaily CO2-to-fuel (same IISc study as eurekalert 10-09), Google Earth AI geospatial agents (same Earth AI line as the 10-07 card; dropped the same way on 10-20). Held back as uncertain: Quanta quasi-Riemann AI proof. It is tagged 'related' to the Live Science 10-02 Riemann/Claude card and may be the same result, so it stays held back as it was on 10-20. Ranked below the picks: Phys.org rainfall gap-filling (overlaps the GeoCore satellite gap-filling slot), ScienceDaily anesthesia next-word prediction (weaker AI angle), Chemistry World RetroChimera (dated 10-13, and the domain is not in the science allowlist), Science News math-human essay (commentary), Curtin chatbot mental-health framework (health-leaning conceptual piece). Outlets: Space.com 1, Tech Xplore 2, Google Research 1, Phys.org 1."
   }
 }

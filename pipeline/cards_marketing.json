@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-meta-genrecs",
+      "id": "marketing-chatgpt-ads-auto-enhance",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Meta, 광고마다\n콘텐츠 기반 토큰",
-      "body": "Meta는 광고를 의미 토큰으로 바꾸고 GEM과 함께 전환을 0.35% 올렸다.",
-      "mini_headline": "Meta, 광고 표현을 다시 짜다",
+      "headline": "ChatGPT Ads가\n소재를 기본값으로 고친다",
+      "body": "OpenAI가 시월 30일부터 AI 소재 수정을 켜면 검토 없이 집행될 수 있다.",
+      "mini_headline": "ChatGPT Ads, 소재 자동 편집",
       "tool": "Marketing",
-      "source": "Engineering at Meta",
-      "url": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
+      "source": "Search Engine Roundtable",
+      "url": "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
@@ -19,293 +19,209 @@
         "blocks": [
           {
             "t": "p",
-            "x": "Meta의 Generative Recommenders(GenRecs)는 광고 시스템을 모든 광고 후보에 점수를 매기던 방식에서 LLM 아키텍처로 광고 콘텐츠와 사용자 선호를 함께 추론하는 방식으로 바꾼다. 바탕에는 GenRecs Tokenization이 있다. 항목마다 전용 ID를 붙이지 않고 광고·상품·페이지·픽셀을 하나하나 안정된 의미 어휘의 토큰으로 나타낸다."
+            "x": "OpenAI는 ChatGPT Ads 광고주에게 보낸 이메일에서 2026년 시월 30일 금요일부터 신규·기존 self-serve 캠페인에 “creative enhancements(소재 개선)” 기능을 켠다고 알렸다. 광고주는 그 전에 옵트아웃하거나 Ads Manager에서 언제든 설정을 바꿀 수 있다. 계정·캠페인 단위로 이미 해 둔 옵트아웃은 그대로 남는다."
           },
           {
             "t": "img",
-            "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
-            "cap": ""
+            "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+            "cap": "Ads Manager에서 켜져 있는 creative enhancements 설정"
           },
           {
             "t": "p",
-            "x": "사전 학습된 멀티모달 모델이 항목의 텍스트와 이미지를 읽어 임베딩으로 만든다. 토크나이저는 여기에 참여 데이터로 학습한 표현을 결합하고 그 결과를 짧은 이산 토큰 시퀀스로 양자화한다. 파이프라인은 인코딩 후 임베딩을 하위 공간으로 쪼개 각 공간을 코드북 항목에 대응시킨다. 비슷한 항목끼리 토큰을 나눠 쓰니 새 트레일 러닝화도 모델이 지난 시즌 제품에서 배운 것을 물려받는다."
+            "x": "OpenAI 설명으로는 이 기능이 광고를 대화 맥락과 사용자 관심사에 더 잘 맞추고 버전을 여럿 만드는 수고도 덜어 준다. 기존 광고와 랜딩 페이지 내용으로 헤드라인과 설명을 새로 쓰거나 고치고, 광고 문구를 다른 언어로 옮기며, 이미지 크기를 조정하고 도착 URLs를 최적화할 수 있다. 변형안은 미리 만들어 두거나 대화에 맞춰 실시간으로 생성된다."
+          },
+          {
+            "t": "p",
+            "x": "이메일에는 “이 기능을 켜면 각 버전을 검토하거나 승인하지 않아도 광고가 자동으로 집행될 수 있습니다”라는 문구도 담겼다."
           },
           {
             "t": "img",
-            "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
-            "cap": ""
+            "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+            "cap": "OpenAI가 광고주에게 보낸 이메일"
           },
           {
             "t": "p",
-            "x": "토크나이저 여덟 개 버전을 거치는 동안 내재 지표(클러스터 순도, 분포 균형, 코드북 활용도)와 CTR 예측 정확도 사이에 강한 상관관계가 나타났다."
-          },
-          {
-            "t": "img",
-            "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
-            "cap": ""
-          },
-          {
-            "t": "p",
-            "x": "노출이 적은 롱테일 광고의 예측이 나아지면 모든 광고의 학습 데이터도 좋아진다. 플라이휠이 스스로 돌아가는 셈이다."
-          },
-          {
-            "t": "img",
-            "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
-            "cap": ""
-          },
-          {
-            "t": "p",
-            "x": "Meta의 GEM, Adaptive Ranking Model과 함께 쓴 GenRecs Tokenization은 여러 지면에서 전환을 +0.35% 끌어올렸다(Meta 내부 데이터, 2026년 2월). 다음으로는 토큰화 적용 범위를 넓히고 텍스트·이미지·오디오·비디오를 아우르는 공유 토큰 공간을 만들 계획이다."
+            "x": "X에서 PPC 마케터들의 반응은 대체로 회의적이었다. 한 마케터는 리드 품질이 낮아 ChatGPT ads 테스트를 이미 접었다고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta gives each ad tokens\nbuilt from its content",
-          "body": "Meta now encodes each ad as semantic tokens from multimodal embeddings; paired with GEM, it reports a 0.35% conversion lift.",
-          "mini_headline": "Meta recodes its ads",
+          "headline": "ChatGPT Ads will rewrite\nyour creative by default",
+          "body": "From Oct 30, OpenAI will auto-enable AI rewrites, translations and resizing of ad creative, which can run unreviewed.",
+          "mini_headline": "ChatGPT Ads auto-edits creative",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Meta's Generative Recommenders (GenRecs) shift its ads system from scoring every ad candidate to using LLM architecture to reason about ad content and user preferences together. The foundation is GenRecs Tokenization: instead of a dedicated ID for every item, each ad, product, page or pixel is represented by tokens from a stable semantic vocabulary."
+                "x": "OpenAI emailed ChatGPT Ads advertisers that starting Friday, October 30, 2026, it will enable “creative enhancements” for new and existing self-serve campaigns. Advertisers can opt out before then or change the setting any time in Ads Manager; existing account and campaign-level opt-outs are preserved."
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+                "cap": "The creative enhancements setting, toggled on in Ads Manager"
               },
               {
                 "t": "p",
-                "x": "Pre-trained multimodal models read an item's text and images into an embedding; the tokenizer combines that with engagement-learned representations and quantizes the result into a short sequence of discrete tokens. The pipeline encodes, decomposes the embedding into subspaces, and maps each to a codebook entry. Similar items share tokens, so a new trail shoe inherits what the model learned from last season's."
+                "x": "OpenAI says the enhancements make ads more relevant to the conversation and user interests while reducing the work of creating multiple versions. Using the existing ad and landing-page content, it may write new or updated headlines and descriptions, translate ad text into other languages, resize images and optimize destination URLs. Variations may be prepared in advance or created in real time based on the conversation."
+              },
+              {
+                "t": "p",
+                "x": "“When enabled, these ads can run automatically without requiring you to review or approve each version,” the email says."
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+                "cap": "OpenAI's email to advertisers"
               },
               {
                 "t": "p",
-                "x": "Across eight tokenizer versions, intrinsic measures (cluster purity, distribution balance, codebook utilization) correlated strongly with CTR prediction accuracy."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "Better predictions for low-impression tail ads also improve training data for all ads, a self-reinforcing flywheel."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "Paired with Meta's GEM and Adaptive Ranking Model, GenRecs Tokenization delivered a +0.35% lift in conversions across surfaces (Meta internal data, February 2026). Next: wider tokenization coverage and a shared token space across text, image, audio and video."
+                "x": "Reaction from PPC marketers on X was largely skeptical, with one saying they had already paused a ChatGPT ads test over poor lead quality."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta, 광고마다\n콘텐츠 기반 토큰",
-          "body": "Meta는 광고를 의미 토큰으로 바꾸고 GEM과 함께 전환을 0.35% 올렸다.",
-          "mini_headline": "Meta, 광고 표현을 다시 짜다",
+          "headline": "ChatGPT Ads가\n소재를 기본값으로 고친다",
+          "body": "OpenAI가 시월 30일부터 AI 소재 수정을 켜면 검토 없이 집행될 수 있다.",
+          "mini_headline": "ChatGPT Ads, 소재 자동 편집",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Meta의 Generative Recommenders(GenRecs)는 광고 시스템을 모든 광고 후보에 점수를 매기던 방식에서 LLM 아키텍처로 광고 콘텐츠와 사용자 선호를 함께 추론하는 방식으로 바꾼다. 바탕에는 GenRecs Tokenization이 있다. 항목마다 전용 ID를 붙이지 않고 광고·상품·페이지·픽셀을 하나하나 안정된 의미 어휘의 토큰으로 나타낸다."
+                "x": "OpenAI는 ChatGPT Ads 광고주에게 보낸 이메일에서 2026년 시월 30일 금요일부터 신규·기존 self-serve 캠페인에 “creative enhancements(소재 개선)” 기능을 켠다고 알렸다. 광고주는 그 전에 옵트아웃하거나 Ads Manager에서 언제든 설정을 바꿀 수 있다. 계정·캠페인 단위로 이미 해 둔 옵트아웃은 그대로 남는다."
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+                "cap": "Ads Manager에서 켜져 있는 creative enhancements 설정"
               },
               {
                 "t": "p",
-                "x": "사전 학습된 멀티모달 모델이 항목의 텍스트와 이미지를 읽어 임베딩으로 만든다. 토크나이저는 여기에 참여 데이터로 학습한 표현을 결합하고 그 결과를 짧은 이산 토큰 시퀀스로 양자화한다. 파이프라인은 인코딩 후 임베딩을 하위 공간으로 쪼개 각 공간을 코드북 항목에 대응시킨다. 비슷한 항목끼리 토큰을 나눠 쓰니 새 트레일 러닝화도 모델이 지난 시즌 제품에서 배운 것을 물려받는다."
+                "x": "OpenAI 설명으로는 이 기능이 광고를 대화 맥락과 사용자 관심사에 더 잘 맞추고 버전을 여럿 만드는 수고도 덜어 준다. 기존 광고와 랜딩 페이지 내용으로 헤드라인과 설명을 새로 쓰거나 고치고, 광고 문구를 다른 언어로 옮기며, 이미지 크기를 조정하고 도착 URLs를 최적화할 수 있다. 변형안은 미리 만들어 두거나 대화에 맞춰 실시간으로 생성된다."
+              },
+              {
+                "t": "p",
+                "x": "이메일에는 “이 기능을 켜면 각 버전을 검토하거나 승인하지 않아도 광고가 자동으로 집행될 수 있습니다”라는 문구도 담겼다."
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+                "cap": "OpenAI가 광고주에게 보낸 이메일"
               },
               {
                 "t": "p",
-                "x": "토크나이저 여덟 개 버전을 거치는 동안 내재 지표(클러스터 순도, 분포 균형, 코드북 활용도)와 CTR 예측 정확도 사이에 강한 상관관계가 나타났다."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "노출이 적은 롱테일 광고의 예측이 나아지면 모든 광고의 학습 데이터도 좋아진다. 플라이휠이 스스로 돌아가는 셈이다."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "Meta의 GEM, Adaptive Ranking Model과 함께 쓴 GenRecs Tokenization은 여러 지면에서 전환을 +0.35% 끌어올렸다(Meta 내부 데이터, 2026년 2월). 다음으로는 토큰화 적용 범위를 넓히고 텍스트·이미지·오디오·비디오를 아우르는 공유 토큰 공간을 만들 계획이다."
+                "x": "X에서 PPC 마케터들의 반응은 대체로 회의적이었다. 한 마케터는 리드 품질이 낮아 ChatGPT ads 테스트를 이미 접었다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、広告ごとに\n中身由来のトークン",
-          "body": "Metaは広告を意味トークンで表し、GEM併用でコンバージョン0.35%増を報告した。",
-          "mini_headline": "Metaが広告を再符号化",
+          "headline": "ChatGPT Adsが\n広告素材を標準で書き換え",
+          "body": "OpenAIは十月30日からAI素材修正を自動で有効にし、未確認で配信され得る。",
+          "mini_headline": "ChatGPT Ads、広告素材を自動編集",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "MetaのGenerative Recommenders(GenRecs)は、広告システムを、すべての広告候補にスコアを付ける方式から、LLMアーキテクチャで広告の内容とユーザーの好みをまとめて推論する方式へ移す。基盤となるのはGenRecs Tokenizationだ。アイテムごとに専用のIDを割り当てる代わりに、広告、商品、ページ、ピクセルのそれぞれを、安定した意味語彙のトークンで表現する。"
+                "x": "OpenAIはChatGPT Adsの広告主にメールで、2026年十月30日金曜日から新規・既存のself-serveキャンペーンで「creative enhancements（クリエイティブ強化）」を有効にすると通知した。広告主はそれまでにオプトアウトするか、Ads Managerでいつでも設定を変更できる。既存のアカウント単位・キャンペーン単位のオプトアウト設定は維持される。"
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+                "cap": "Ads Managerでオンになっているcreative enhancementsの設定"
               },
               {
                 "t": "p",
-                "x": "事前学習済みのマルチモーダルモデルがアイテムのテキストと画像を読み込み、埋め込みに変換する。トークナイザーはこれをエンゲージメントから学習した表現と組み合わせ、結果を短い離散トークン列に量子化する。パイプラインはエンコードし、埋め込みを部分空間に分解して、それぞれをコードブックの項目に対応づける。似たアイテムはトークンを共有するため、新しいトレイルシューズは、モデルが前シーズンの靴から学んだことを引き継ぐ。"
+                "x": "OpenAIによれば、この機能は広告を会話の文脈やユーザーの関心により合ったものにし、複数のバージョンを作る手間を減らす。既存の広告とランディングページの内容をもとに、見出しや説明文を新たに書いたり更新したりし、広告文を他言語に翻訳し、画像サイズを調整し、遷移先URLsを最適化する場合がある。バリエーションは事前に用意されることも、会話に応じてリアルタイムで生成されることもある。"
+              },
+              {
+                "t": "p",
+                "x": "「有効にすると、これらの広告は各バージョンを確認・承認しなくても自動で配信される場合があります」とメールには記されている。"
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+                "cap": "OpenAIが広告主に送ったメール"
               },
               {
                 "t": "p",
-                "x": "八つのトークナイザー版を通じて、内在的指標(クラスター純度、分布バランス、コードブック利用率)はCTR予測精度と強く相関した。"
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "インプレッションの少ないテール広告の予測が改善すると、全広告の学習データも良くなる。自己強化型のフライホイールである。"
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "MetaのGEMおよびAdaptive Ranking Modelと組み合わせたGenRecs Tokenizationは、各面でコンバージョンを+0.35%押し上げた(Meta社内データ、2026年2月)。次の段階は、トークン化の対象範囲の拡大と、テキスト・画像・音声・動画をまたぐ共有トークン空間である。"
+                "x": "X上のPPCマーケターの反応はおおむね懐疑的で、リードの質が低いためChatGPT adsのテストをすでに停止したという声もあった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta为每条广告\n按内容生成令牌",
-          "body": "Meta用多模态嵌入将每条广告编码为语义令牌，配合GEM后报告转化提升0.35%。",
-          "mini_headline": "Meta重编广告",
+          "headline": "ChatGPT Ads\n将默认改写广告素材",
+          "body": "OpenAI将于十月30日起默认启用AI改写、翻译和调整广告素材尺寸，且可能未经审核投放。",
+          "mini_headline": "ChatGPT Ads自动编辑广告素材",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Meta的Generative Recommenders（GenRecs）让广告系统从为每个候选广告打分，转向用LLM架构同时推理广告内容与用户偏好。其基础是GenRecs Tokenization：不再为每个条目分配专属ID，而是用来自稳定语义词表的令牌来表示每条广告、每件商品、每个页面或像素。"
+                "x": "OpenAI通过邮件通知ChatGPT Ads广告主，自2026年十月30日（周五）起，将为新的和现有的self-serve广告系列启用“creative enhancements”（创意增强）功能。广告主可在此之前选择退出，也可随时在Ads Manager中更改设置；已有的账户级和广告系列级退出设置将予以保留。"
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+                "cap": "Ads Manager中已开启的creative enhancements设置"
               },
               {
                 "t": "p",
-                "x": "预训练多模态模型读取条目的文本和图像，生成嵌入；令牌化器把它与从互动中学到的表征结合，再量化为一小串离散令牌。流水线先编码，再把嵌入分解为若干子空间，并把每个子空间映射到码本条目。相似条目共享令牌，因此一双新的越野跑鞋能继承模型从上一季鞋款中学到的东西。"
+                "x": "OpenAI表示，这项功能能让广告与对话内容和用户兴趣更相关，同时减少制作多个版本的工作量。它可能基于现有广告和落地页内容撰写新的或更新的标题与描述，将广告文字翻译成其他语言，调整图片尺寸，并优化目标URLs。变体可能提前准备，也可能根据对话实时生成。"
+              },
+              {
+                "t": "p",
+                "x": "邮件写道：“启用后，这些广告可以自动投放，无需您审核或批准每个版本。”"
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+                "cap": "OpenAI发给广告主的邮件"
               },
               {
                 "t": "p",
-                "x": "在八个令牌化器版本中，内在指标（聚类纯度、分布均衡度、码本利用率）与CTR预测准确度高度相关。"
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "低曝光长尾广告的预测改善后，所有广告的训练数据也随之改善，形成自我强化的飞轮。"
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "与Meta的GEM和Adaptive Ranking Model搭配后，GenRecs Tokenization在各个版面带来+0.35%的转化提升（Meta内部数据，2026年2月）。下一步是扩大令牌化覆盖范围，并建立横跨文本、图像、音频和视频的共享令牌空间。"
+                "x": "X上PPC营销人员的反应大多持怀疑态度，其中一人表示，由于线索质量不佳，已经暂停了ChatGPT ads测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta asigna a cada anuncio\ntokens según su contenido",
-          "body": "Meta codifica cada anuncio en tokens semánticos y, junto con GEM, reporta un alza de 0.35% en conversiones.",
-          "mini_headline": "Meta recodifica sus anuncios",
+          "headline": "ChatGPT Ads reescribirá\ntus creatividades por defecto",
+          "body": "Desde el 30 de octubre, OpenAI activará ediciones con AI de los anuncios que pueden publicarse sin revisión.",
+          "mini_headline": "ChatGPT Ads edita creatividades solo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Generative Recommenders (GenRecs) de Meta cambia su sistema de anuncios: en lugar de puntuar cada anuncio candidato, usa una arquitectura LLM para razonar a la vez sobre el contenido de los anuncios y las preferencias de los usuarios. La base es GenRecs Tokenization: en vez de un ID dedicado para cada elemento, cada anuncio, producto, página o píxel se representa con tokens de un vocabulario semántico estable."
+                "x": "OpenAI informó por correo a los anunciantes de ChatGPT Ads que, a partir del viernes 30 de octubre de 2026, activará las “creative enhancements” (mejoras de creatividades) en las campañas self-serve nuevas y existentes. Los anunciantes pueden desactivarlas antes de esa fecha o cambiar la configuración en cualquier momento en Ads Manager; las exclusiones ya existentes a nivel de cuenta y de campaña se mantienen."
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+                "cap": "La opción de creative enhancements, activada en Ads Manager"
               },
               {
                 "t": "p",
-                "x": "Modelos multimodales preentrenados leen el texto y las imágenes de un elemento y los convierten en un embedding; el tokenizador lo combina con representaciones aprendidas de la interacción y cuantiza el resultado en una secuencia corta de tokens discretos. El pipeline codifica, descompone el embedding en subespacios y asigna cada uno a una entrada del codebook. Los elementos similares comparten tokens, así que una nueva zapatilla de trail hereda lo que el modelo aprendió de la de la temporada pasada."
+                "x": "OpenAI afirma que estas mejoras hacen que los anuncios sean más relevantes para la conversación y los intereses del usuario, y reducen el trabajo de crear varias versiones. A partir del contenido del anuncio y de la página de destino, puede redactar titulares y descripciones nuevos o actualizados, traducir el texto del anuncio a otros idiomas, cambiar el tamaño de las imágenes y optimizar las URLs de destino. Las variaciones pueden prepararse de antemano o crearse en tiempo real según la conversación."
+              },
+              {
+                "t": "p",
+                "x": "“Cuando están activadas, estos anuncios pueden publicarse automáticamente sin que tenga que revisar o aprobar cada versión”, indica el correo."
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+                "cap": "El correo de OpenAI a los anunciantes"
               },
               {
                 "t": "p",
-                "x": "En ocho versiones del tokenizador, las medidas intrínsecas (pureza de clústeres, equilibrio de la distribución, uso del codebook) se correlacionaron fuertemente con la precisión de predicción del CTR."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "Mejores predicciones para los anuncios de cola con pocas impresiones también mejoran los datos de entrenamiento de todos los anuncios, en un volante que se refuerza a sí mismo."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "Combinada con GEM y Adaptive Ranking Model de Meta, GenRecs Tokenization logró un aumento de +0.35% en conversiones en todas las superficies (datos internos de Meta, febrero de 2026). Próximos pasos: ampliar la cobertura de la tokenización y crear un espacio de tokens compartido para texto, imagen, audio y video."
+                "x": "La reacción de los profesionales de PPC en X fue mayoritariamente escéptica; uno dijo que ya había pausado una prueba de ChatGPT ads por la baja calidad de los leads."
               }
             ]
           }
@@ -313,201 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta, 광고마다\n콘텐츠 기반 토큰",
-          "body": "Meta는 광고를 의미 토큰으로 바꿔 GEM과 전환 0.35% 상승을 보고했다.",
-          "mini_headline": "Meta, 광고 표현을 다시 짜다",
+          "headline": "ChatGPT Ads가\n소재를 기본값으로 고친다",
+          "body": "OpenAI가 시월 30일부터 AI 소재 수정을 켜고 검토 없이 집행될 수 있다.",
+          "mini_headline": "ChatGPT Ads, 소재 자동 편집",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Meta의 Generative Recommenders(GenRecs)는 광고 시스템을 모든 광고 후보에 점수를 매기는 방식에서, LLM 아키텍처로 광고 콘텐츠와 사용자 선호를 함께 추론하는 방식으로 옮긴다. 그 토대는 GenRecs Tokenization이다. 항목마다 전용 ID를 두는 대신, 광고·상품·페이지·픽셀 하나하나를 안정적인 의미 어휘에서 나온 토큰으로 표현한다."
+                "x": "OpenAI는 ChatGPT Ads 광고주에게 보낸 이메일에서 2026년 시월 30일 금요일부터 신규·기존 self-serve 캠페인에 “creative enhancements(소재 개선)” 기능을 켠다고 알렸다. 광고주는 그 전에 옵트아웃하거나 Ads Manager에서 언제든 설정을 바꿀 수 있고, 기존 계정·캠페인 단위의 옵트아웃 설정은 그대로 유지된다."
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+                "cap": "Ads Manager에서 켜져 있는 creative enhancements 설정"
               },
               {
                 "t": "p",
-                "x": "사전 학습된 멀티모달 모델이 항목의 텍스트와 이미지를 읽어 임베딩으로 만든다. 토크나이저는 여기에 참여 데이터로 학습한 표현을 결합하고, 그 결과를 짧은 이산 토큰 시퀀스로 양자화한다. 파이프라인은 인코딩한 뒤 임베딩을 하위 공간으로 분해하고, 각 공간을 코드북 항목에 대응시킨다. 비슷한 항목은 토큰을 공유하므로, 새 트레일 러닝화는 모델이 지난 시즌 제품에서 배운 것을 물려받는다."
+                "x": "OpenAI는 이 기능이 광고를 대화 맥락과 사용자 관심사에 더 맞추고, 여러 버전을 만드는 수고를 덜어 준다고 설명한다. 기존 광고와 랜딩 페이지 내용을 바탕으로 헤드라인과 설명을 새로 쓰거나 고치고, 광고 문구를 다른 언어로 번역하며, 이미지 크기를 조정하고 도착 URLs를 최적화할 수 있다. 변형안은 미리 준비되거나 대화에 따라 실시간으로 만들어질 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "“이 기능을 켜면 각 버전을 검토하거나 승인하지 않아도 광고가 자동으로 집행될 수 있습니다”라고 이메일은 밝혔다."
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+                "cap": "OpenAI가 광고주에게 보낸 이메일"
               },
               {
                 "t": "p",
-                "x": "토크나이저 여덟 개 버전에 걸쳐 내재 지표(클러스터 순도, 분포 균형, 코드북 활용도)는 CTR 예측 정확도와 강한 상관관계를 보였다."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "노출이 적은 롱테일 광고의 예측이 나아지면 모든 광고의 학습 데이터도 좋아진다. 스스로 강화되는 플라이휠이다."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "Meta의 GEM, Adaptive Ranking Model과 함께 쓴 GenRecs Tokenization은 여러 지면에서 전환을 +0.35% 끌어올렸다(Meta 내부 데이터, 2026년 2월). 다음 단계는 토큰화 적용 범위를 넓히고 텍스트·이미지·오디오·비디오를 아우르는 공유 토큰 공간을 만드는 것이다."
+                "x": "X에서 PPC 마케터들의 반응은 대체로 회의적이었고, 한 마케터는 리드 품질이 낮아 ChatGPT ads 테스트를 이미 중단했다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、広告ごとに\n中身由来のトークン",
-          "body": "Metaは広告を意味トークンで表し、GEM併用でコンバージョン0.35%増を報告した。",
-          "mini_headline": "Metaが広告を再符号化",
+          "headline": "ChatGPT Adsが\n広告素材を標準で書き換え",
+          "body": "OpenAIは十月30日からAI素材修正を自動で有効にし、未確認で配信され得る。",
+          "mini_headline": "ChatGPT Ads、広告素材を自動編集",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "MetaのGenerative Recommenders(GenRecs)は、広告システムを、すべての広告候補にスコアを付ける方式から、LLMアーキテクチャで広告の内容とユーザーの好みをまとめて推論する方式へ移す。基盤となるのはGenRecs Tokenizationだ。アイテムごとに専用のIDを割り当てる代わりに、広告、商品、ページ、ピクセルのそれぞれを、安定した意味語彙のトークンで表現する。"
+                "x": "OpenAIはChatGPT Adsの広告主にメールで、2026年十月30日金曜日から新規・既存のself-serveキャンペーンで「creative enhancements（クリエイティブ強化）」を有効にすると通知した。広告主はそれまでにオプトアウトするか、Ads Managerでいつでも設定を変更できる。既存のアカウント単位・キャンペーン単位のオプトアウト設定は維持される。"
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+                "cap": "Ads Managerでオンになっているcreative enhancementsの設定"
               },
               {
                 "t": "p",
-                "x": "事前学習済みのマルチモーダルモデルがアイテムのテキストと画像を読み込み、埋め込みに変換する。トークナイザーはこれをエンゲージメントから学習した表現と組み合わせ、結果を短い離散トークン列に量子化する。パイプラインはエンコードし、埋め込みを部分空間に分解して、それぞれをコードブックの項目に対応づける。似たアイテムはトークンを共有するため、新しいトレイルシューズは、モデルが前シーズンの靴から学んだことを引き継ぐ。"
+                "x": "OpenAIによれば、この機能は広告を会話の文脈やユーザーの関心により合ったものにし、複数のバージョンを作る手間を減らす。既存の広告とランディングページの内容をもとに、見出しや説明文を新たに書いたり更新したりし、広告文を他言語に翻訳し、画像サイズを調整し、遷移先URLsを最適化する場合がある。バリエーションは事前に用意されることも、会話に応じてリアルタイムで生成されることもある。"
+              },
+              {
+                "t": "p",
+                "x": "「有効にすると、これらの広告は各バージョンを確認・承認しなくても自動で配信される場合があります」とメールには記されている。"
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+                "cap": "OpenAIが広告主に送ったメール"
               },
               {
                 "t": "p",
-                "x": "八つのトークナイザー版を通じて、内在的指標(クラスター純度、分布バランス、コードブック利用率)はCTR予測精度と強く相関した。"
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "インプレッションの少ないテール広告の予測が改善すると、全広告の学習データも良くなる。自己強化型のフライホイールである。"
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "MetaのGEMおよびAdaptive Ranking Modelと組み合わせたGenRecs Tokenizationは、各面でコンバージョンを+0.35%押し上げた(Meta社内データ、2026年2月)。次の段階は、トークン化の対象範囲の拡大と、テキスト・画像・音声・動画をまたぐ共有トークン空間である。"
+                "x": "X上のPPCマーケターの反応はおおむね懐疑的で、リードの質が低いためChatGPT adsのテストをすでに停止したという声もあった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Meta为每条广告\n按内容生成令牌",
-          "body": "Meta用多模态嵌入将每条广告编码为语义令牌，配合GEM后报告转化提升0.35%。",
-          "mini_headline": "Meta重编广告",
+          "headline": "ChatGPT Ads\n将默认改写广告素材",
+          "body": "OpenAI将于十月30日起默认启用AI改写、翻译和调整广告素材尺寸，且可能未经审核投放。",
+          "mini_headline": "ChatGPT Ads自动编辑广告素材",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Meta的Generative Recommenders（GenRecs）让广告系统从为每个候选广告打分，转向用LLM架构同时推理广告内容与用户偏好。其基础是GenRecs Tokenization：不再为每个条目分配专属ID，而是用来自稳定语义词表的令牌来表示每条广告、每件商品、每个页面或像素。"
+                "x": "OpenAI通过邮件通知ChatGPT Ads广告主，自2026年十月30日（周五）起，将为新的和现有的self-serve广告系列启用“creative enhancements”（创意增强）功能。广告主可在此之前选择退出，也可随时在Ads Manager中更改设置；已有的账户级和广告系列级退出设置将予以保留。"
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+                "cap": "Ads Manager中已开启的creative enhancements设置"
               },
               {
                 "t": "p",
-                "x": "预训练多模态模型读取条目的文本和图像，生成嵌入；令牌化器把它与从互动中学到的表征结合，再量化为一小串离散令牌。流水线先编码，再把嵌入分解为若干子空间，并把每个子空间映射到码本条目。相似条目共享令牌，因此一双新的越野跑鞋能继承模型从上一季鞋款中学到的东西。"
+                "x": "OpenAI表示，这项功能能让广告与对话内容和用户兴趣更相关，同时减少制作多个版本的工作量。它可能基于现有广告和落地页内容撰写新的或更新的标题与描述，将广告文字翻译成其他语言，调整图片尺寸，并优化目标URLs。变体可能提前准备，也可能根据对话实时生成。"
+              },
+              {
+                "t": "p",
+                "x": "邮件写道：“启用后，这些广告可以自动投放，无需您审核或批准每个版本。”"
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+                "cap": "OpenAI发给广告主的邮件"
               },
               {
                 "t": "p",
-                "x": "在八个令牌化器版本中，内在指标（聚类纯度、分布均衡度、码本利用率）与CTR预测准确度高度相关。"
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "低曝光长尾广告的预测改善后，所有广告的训练数据也随之改善，形成自我强化的飞轮。"
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "与Meta的GEM和Adaptive Ranking Model搭配后，GenRecs Tokenization在各个版面带来+0.35%的转化提升（Meta内部数据，2026年2月）。下一步是扩大令牌化覆盖范围，并建立横跨文本、图像、音频和视频的共享令牌空间。"
+                "x": "X上PPC营销人员的反应大多持怀疑态度，其中一人表示，由于线索质量不佳，已经暂停了ChatGPT ads测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta asigna a cada anuncio\ntokens según su contenido",
-          "body": "Meta codifica cada anuncio en tokens semánticos y, junto con GEM, reporta un alza de 0.35% en conversiones.",
-          "mini_headline": "Meta recodifica sus anuncios",
+          "headline": "ChatGPT Ads reescribirá\ntus creatividades por defecto",
+          "body": "Desde el 30 de octubre, OpenAI activará ediciones con AI de los anuncios que pueden publicarse sin revisión.",
+          "mini_headline": "ChatGPT Ads edita creatividades solo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "p",
-                "x": "Generative Recommenders (GenRecs) de Meta cambia su sistema de anuncios: en lugar de puntuar cada anuncio candidato, usa una arquitectura LLM para razonar a la vez sobre el contenido de los anuncios y las preferencias de los usuarios. La base es GenRecs Tokenization: en vez de un ID dedicado para cada elemento, cada anuncio, producto, página o píxel se representa con tokens de un vocabulario semántico estable."
+                "x": "OpenAI informó por correo a los anunciantes de ChatGPT Ads que, a partir del viernes 30 de octubre de 2026, activará las “creative enhancements” (mejoras de creatividades) en las campañas self-serve nuevas y existentes. Los anunciantes pueden desactivarlas antes de esa fecha o cambiar la configuración en cualquier momento en Ads Manager; las exclusiones ya existentes a nivel de cuenta y de campaña se mantienen."
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+                "cap": "La opción de creative enhancements, activada en Ads Manager"
               },
               {
                 "t": "p",
-                "x": "Modelos multimodales preentrenados leen el texto y las imágenes de un elemento y los convierten en un embedding; el tokenizador lo combina con representaciones aprendidas de la interacción y cuantiza el resultado en una secuencia corta de tokens discretos. El pipeline codifica, descompone el embedding en subespacios y asigna cada uno a una entrada del codebook. Los elementos similares comparten tokens, así que una nueva zapatilla de trail hereda lo que el modelo aprendió de la de la temporada pasada."
+                "x": "OpenAI afirma que estas mejoras hacen que los anuncios sean más relevantes para la conversación y los intereses del usuario, y reducen el trabajo de crear varias versiones. A partir del contenido del anuncio y de la página de destino, puede redactar titulares y descripciones nuevos o actualizados, traducir el texto del anuncio a otros idiomas, cambiar el tamaño de las imágenes y optimizar las URLs de destino. Las variaciones pueden prepararse de antemano o crearse en tiempo real según la conversación."
+              },
+              {
+                "t": "p",
+                "x": "“Cuando están activadas, estos anuncios pueden publicarse automáticamente sin que tenga que revisar o aprobar cada versión”, indica el correo."
               },
               {
                 "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
-                "cap": ""
+                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+                "cap": "El correo de OpenAI a los anunciantes"
               },
               {
                 "t": "p",
-                "x": "En ocho versiones del tokenizador, las medidas intrínsecas (pureza de clústeres, equilibrio de la distribución, uso del codebook) se correlacionaron fuertemente con la precisión de predicción del CTR."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "Mejores predicciones para los anuncios de cola con pocas impresiones también mejoran los datos de entrenamiento de todos los anuncios, en un volante que se refuerza a sí mismo."
-              },
-              {
-                "t": "img",
-                "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
-                "cap": ""
-              },
-              {
-                "t": "p",
-                "x": "Combinada con GEM y Adaptive Ranking Model de Meta, GenRecs Tokenization logró un aumento de +0.35% en conversiones en todas las superficies (datos internos de Meta, febrero de 2026). Próximos pasos: ampliar la cobertura de la tokenización y crear un espacio de tokens compartido para texto, imagen, audio y video."
+                "x": "La reacción de los profesionales de PPC en X fue mayoritariamente escéptica; uno dijo que ya había pausado una prueba de ChatGPT ads por la baja calidad de los leads."
               }
             ]
           }
@@ -515,15 +375,15 @@
       }
     },
     {
-      "id": "marketing-monday-harmony",
+      "id": "marketing-gemini-small-business-tools",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "monday.com 음성\nAI로 차 계약 9% 늘려",
-      "body": "monday.com Harmony는 약 200ms에 답해 UK 거래를 9% 늘렸다.",
-      "mini_headline": "음성 AI로 거래 9% 증가",
+      "headline": "Gemini로 잇는\nShopify·Canva",
+      "body": "Gemini 새 페이지가 Google Ads·Shopify·Canva를 묶는다.",
+      "mini_headline": "Gemini, 소상공인 도구 추가",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/monday-coms-harmony-voice-ai-lifted-car-brokers-deals-9-client-says/",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -531,179 +391,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
-            "cap": "monday.com의 Harmony AI 발신 에이전트는 유망 리드를 영업 담당자에게 넘긴다. 한 자동차 중개사는 덕분에 거래가 9% 늘었다고 말한다"
+            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
           },
           {
             "t": "p",
-            "x": "monday.com은 2026년 10월 19일 Harmony 판매를 시작했다. 중견·대기업용 음성 AI 플랫폼으로, 에이전트가 영업 전화를 걸고 받으며 리드를 선별해 유망한 리드를 실시간으로 사람 영업 담당자에게 넘긴다."
+            "x": "Google에 따르면 소상공인 수천만 명이 이미 Gemini로 상품 아이디어를 짜고 고객 피드백을 관리하며 성과를 분석한다. Google은 이제 브랜드 구축, 재무 분석, 고객 인사이트 파악을 한곳에 모은 비즈니스 전용 랜딩 페이지를 내놓는다."
           },
           {
             "t": "p",
-            "x": "에이전트는 OneAI에서 인수한 음성 기술과 직접 만든 작업별 소형 LLMs 묶음으로 돌아간다. 전화 연결과 CRM write-back은 Twilio 위에 올렸다. 회사는 음성 입력부터 음성 출력까지 지연 시간이 약 200ms이고 “최대 70%의 연결률”을 낸다고 주장한다. 다만 기준치나 측정 방법은 밝히지 않았다."
+            "x": "Gemini는 Google Business Profile, Google Ads, Google Workspace는 물론 Adobe, Canva, Dropbox, Shopify, Wix, Zoho, Xero 같은 서드파티 앱과도 연결된다."
           },
           {
             "t": "p",
-            "x": "이름이 공개된 고객은 UK 중개사 Bright Car Finance 하나다. 이 회사는 에이전트가 승인된 모든 신청자에게 바로 후속 연락을 하고 대화의 약 절반을 선별해 그중 80%를 상담사에게 넘기며, 한 해도 안 돼 성사 거래를 9% 늘렸다고 말한다. PPC Land는 이 수치가 상대 증가율인지 퍼센트포인트인지 분명하지 않다고 지적한다."
+            "x": "사업자는 웹사이트, 브랜드 키트, 폰트, 색상 팔레트를 올려 브랜드에 맞는 시각물을 만들 수 있다. Gemini는 Google의 최신 이미지 모델 Nano Banana 2.1로 제품 출시나 진행 중인 캠페인용 시각물을 처음부터 끝까지 만든다. 스타일도 기억하니 가이드라인을 다시 올릴 필요가 없다."
           },
           {
             "t": "p",
-            "x": "Harmony는 미국(US), 영국(UK), 호주, 싱가포르에서 쓸 수 있다. 가격·오류율·독립 검증 결과는 공개하지 않았다."
+            "x": "어지러운 스프레드시트, 영수증, 구매 기록도 Gemini가 재무 그래픽과 인터랙티브 모델로 바꿔 준다. Google은 상품 설명과 소셜 게시물을 쓰는 데서 하루 두세 시간을 아낀다는 Bordeaux(보르도)의 한 도예가 사례를 들었다."
+          },
+          {
+            "t": "p",
+            "x": "랜딩 페이지와 마케팅·재무 기능, 새로 연결되는 앱은 앞으로 며칠 안에 전 세계 모든 Gemini 앱 사용자에게 차례로 배포된다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "monday.com voice AI lifts\ncar broker deals 9%",
-          "body": "monday.com says its Harmony voice agents reply in about 200ms; one UK car finance broker says its deals rose 9%.",
-          "mini_headline": "Voice AI lifts deals 9%",
+          "headline": "Gemini links Google Ads,\nShopify and Canva",
+          "body": "Google's new Gemini business page links Google Ads, Shopify and Canva and turns brand kits into on-brand visuals.",
+          "mini_headline": "Gemini adds small-business tools",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
-                "cap": "monday.com’s Harmony AI caller hands warm leads to reps, which one car broker says lifted deals 9%"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
               },
               {
                 "t": "p",
-                "x": "monday.com began selling Harmony on October 19, 2026: a voice AI platform whose agents place and answer sales calls for mid-market and enterprise companies, qualify leads and hand the promising ones live to human reps."
+                "x": "Google says tens of millions of small business owners already use Gemini to brainstorm products, manage customer feedback and analyze performance. It is now launching a dedicated business landing page: a central hub to build a brand, analyze finances and understand customer insights."
               },
               {
                 "t": "p",
-                "x": "The agents run on voice technology acquired from OneAI and a set of proprietary, task-specific small LLMs, with dialing and CRM write-back built on Twilio. The company claims about 200ms audio-in to audio-out latency and “a contact rate of up to 70%,” without a baseline or method."
+                "x": "Gemini can connect to Google Business Profile, Google Ads and Google Workspace, plus third-party apps including Adobe, Canva, Dropbox, Shopify, Wix, Zoho and Xero."
               },
               {
                 "t": "p",
-                "x": "The only named customer, UK broker Bright Car Finance, says the agent follows up every approved applicant at once, qualifies about half its conversations, hands 80% of those to advisers and drove a 9% rise in deals closed in less than a year. PPC Land notes it is unclear whether that is relative or percentage points."
+                "x": "For on-brand visuals, businesses can upload their website, brand kit, fonts or color palettes. Paired with Nano Banana 2.1, Google's latest image model, Gemini delivers end-to-end visuals for product launches or ongoing campaigns and retains the style so owners don't have to re-upload guidelines."
               },
               {
                 "t": "p",
-                "x": "Harmony is available in the US, UK, Australia and Singapore. No pricing, error rates or independent testing were published."
+                "x": "Gemini can also turn messy spreadsheets, receipts and purchase records into financial graphics and interactive models. Google highlights owners such as a ceramicist in Bordeaux who saves two to three hours a day on product descriptions and social posts."
+              },
+              {
+                "t": "p",
+                "x": "The landing page, marketing and finance skills and new connected apps begin rolling out globally to all Gemini app users in the coming days."
               }
             ]
           }
         },
         "ko": {
-          "headline": "monday.com 음성\nAI로 차 계약 9% 늘려",
-          "body": "monday.com Harmony는 약 200ms에 답해 UK 거래를 9% 늘렸다.",
-          "mini_headline": "음성 AI로 거래 9% 증가",
+          "headline": "Gemini로 잇는\nShopify·Canva",
+          "body": "Gemini 새 페이지가 Google Ads·Shopify·Canva를 묶는다.",
+          "mini_headline": "Gemini, 소상공인 도구 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
-                "cap": "monday.com의 Harmony AI 발신 에이전트는 유망 리드를 영업 담당자에게 넘긴다. 한 자동차 중개사는 덕분에 거래가 9% 늘었다고 말한다"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
               },
               {
                 "t": "p",
-                "x": "monday.com은 2026년 10월 19일 Harmony 판매를 시작했다. 중견·대기업용 음성 AI 플랫폼으로, 에이전트가 영업 전화를 걸고 받으며 리드를 선별해 유망한 리드를 실시간으로 사람 영업 담당자에게 넘긴다."
+                "x": "Google에 따르면 소상공인 수천만 명이 이미 Gemini로 상품 아이디어를 짜고 고객 피드백을 관리하며 성과를 분석한다. Google은 이제 브랜드 구축, 재무 분석, 고객 인사이트 파악을 한곳에 모은 비즈니스 전용 랜딩 페이지를 내놓는다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 OneAI에서 인수한 음성 기술과 직접 만든 작업별 소형 LLMs 묶음으로 돌아간다. 전화 연결과 CRM write-back은 Twilio 위에 올렸다. 회사는 음성 입력부터 음성 출력까지 지연 시간이 약 200ms이고 “최대 70%의 연결률”을 낸다고 주장한다. 다만 기준치나 측정 방법은 밝히지 않았다."
+                "x": "Gemini는 Google Business Profile, Google Ads, Google Workspace는 물론 Adobe, Canva, Dropbox, Shopify, Wix, Zoho, Xero 같은 서드파티 앱과도 연결된다."
               },
               {
                 "t": "p",
-                "x": "이름이 공개된 고객은 UK 중개사 Bright Car Finance 하나다. 이 회사는 에이전트가 승인된 모든 신청자에게 바로 후속 연락을 하고 대화의 약 절반을 선별해 그중 80%를 상담사에게 넘기며, 한 해도 안 돼 성사 거래를 9% 늘렸다고 말한다. PPC Land는 이 수치가 상대 증가율인지 퍼센트포인트인지 분명하지 않다고 지적한다."
+                "x": "사업자는 웹사이트, 브랜드 키트, 폰트, 색상 팔레트를 올려 브랜드에 맞는 시각물을 만들 수 있다. Gemini는 Google의 최신 이미지 모델 Nano Banana 2.1로 제품 출시나 진행 중인 캠페인용 시각물을 처음부터 끝까지 만든다. 스타일도 기억하니 가이드라인을 다시 올릴 필요가 없다."
               },
               {
                 "t": "p",
-                "x": "Harmony는 미국(US), 영국(UK), 호주, 싱가포르에서 쓸 수 있다. 가격·오류율·독립 검증 결과는 공개하지 않았다."
+                "x": "어지러운 스프레드시트, 영수증, 구매 기록도 Gemini가 재무 그래픽과 인터랙티브 모델로 바꿔 준다. Google은 상품 설명과 소셜 게시물을 쓰는 데서 하루 두세 시간을 아낀다는 Bordeaux(보르도)의 한 도예가 사례를 들었다."
+              },
+              {
+                "t": "p",
+                "x": "랜딩 페이지와 마케팅·재무 기능, 새로 연결되는 앱은 앞으로 며칠 안에 전 세계 모든 Gemini 앱 사용자에게 차례로 배포된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "monday.com音声AI\n車ローン仲介の成約9%増",
-          "body": "monday.comのHarmonyは約200msで応答し、UKの仲介は成約9%増という。",
-          "mini_headline": "音声AIで成約9%増",
+          "headline": "Shopify・Canvaと\nGeminiが連携",
+          "body": "Geminiの新ページがGoogle Ads・Shopify・Canvaと連携する。",
+          "mini_headline": "Gemini、小規模事業者向け機能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
-                "cap": "monday.comのHarmony AIコーラーは有望なリードを担当者に引き継ぐ。ある車仲介業者はこれで成約が9%増えたという"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
               },
               {
                 "t": "p",
-                "x": "monday.comは2026年10月19日、Harmonyの販売を始めた。中堅・大企業向けに、エージェントが営業電話をかけたり受けたりし、リードを選別して有望なものをその場で人間の担当者に引き継ぐ音声AIプラットフォームである。"
+                "x": "Googleによると、すでに数千万人の小規模事業者がGeminiを使って商品のアイデア出しや顧客フィードバックの管理、業績分析を行っている。同社は今回、ブランド構築、財務分析、顧客インサイトの把握を一か所で行えるビジネス専用のランディングページを立ち上げる。"
               },
               {
                 "t": "p",
-                "x": "エージェントはOneAIから取得した音声技術と、タスク別に作られた独自の小型LLMs群で動き、発信とCRM write-backはTwilio上に構築されている。同社は音声入力から音声出力まで約200msの遅延と「最大70%の接続率」をうたうが、比較基準や手法は示していない。"
+                "x": "GeminiはGoogle Business Profile、Google Ads、Google Workspaceに加え、Adobe、Canva、Dropbox、Shopify、Wix、Zoho、Xeroといったサードパーティアプリとも連携できる。"
               },
               {
                 "t": "p",
-                "x": "名前が明かされた唯一の顧客であるUKの仲介業者Bright Car Financeによると、エージェントは承認済みの申込者全員に即座にフォローし、会話の約半分を選別し、そのうち80%をアドバイザーに引き継ぎ、一年足らずで成約件数を9%伸ばした。PPC Landは、これが相対値なのかパーセントポイントなのかは不明だと指摘する。"
+                "x": "ブランドに沿ったビジュアルのために、事業者はウェブサイトやブランドキット、フォント、カラーパレットをアップロードできる。Googleの最新画像モデルNano Banana 2.1と組み合わせ、Geminiは商品発売や継続中のキャンペーン向けのビジュアルを一貫して制作し、スタイルを保持するのでガイドラインを再アップロードする必要はない。"
               },
               {
                 "t": "p",
-                "x": "Harmonyは米国(US)、英国(UK)、オーストラリア、シンガポールで利用できる。価格、エラー率、独立した検証結果は公表されていない。"
+                "x": "Geminiは散らかったスプレッドシートや領収書、購入記録を財務グラフィックやインタラクティブなモデルに変えることもできる。Googleは、商品説明やSNS投稿の作成で1日二、三時間を節約しているBordeaux（ボルドー）の陶芸家などの事例を紹介している。"
+              },
+              {
+                "t": "p",
+                "x": "ランディングページ、マーケティング・財務のスキル、新たな連携アプリは、今後数日のうちに世界中のすべてのGeminiアプリ利用者へ順次提供される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "monday.com语音AI\n助车贷中介成交增9%",
-          "body": "monday.com称Harmony约200ms即回应，一家UK车贷中介称成交增长9%。",
-          "mini_headline": "语音AI助成交增9%",
+          "headline": "Gemini打通\nShopify与Canva",
+          "body": "Gemini新商家页面可连接Google Ads、Shopify和Canva。",
+          "mini_headline": "Gemini新增小企业工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
-                "cap": "monday.com的Harmony AI外呼代理把优质线索转给销售代表，一家汽车中介称成交因此增长9%"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
               },
               {
                 "t": "p",
-                "x": "monday.com于2026年10月19日开始销售Harmony。这是一款语音AI平台，其代理为中型及大型企业拨打和接听销售电话，筛选线索，并把有希望的线索实时转交给人工销售代表。"
+                "x": "Google表示，已有数千万小企业主使用Gemini构思产品、管理客户反馈和分析业绩。现在它推出专门的商家落地页，作为打造品牌、分析财务和洞察客户的中心枢纽。"
               },
               {
                 "t": "p",
-                "x": "这些代理基于从OneAI收购的语音技术和一组自研的、面向特定任务的小型LLMs运行，拨号和CRM write-back构建在Twilio之上。公司称从音频输入到音频输出的延迟约为200ms，并称“接通率最高可达70%”，但未给出基准或方法。"
+                "x": "Gemini可连接Google Business Profile、Google Ads和Google Workspace，以及Adobe、Canva、Dropbox、Shopify、Wix、Zoho和Xero等第三方应用。"
               },
               {
                 "t": "p",
-                "x": "唯一具名的客户、UK中介Bright Car Finance表示，代理会立即跟进每位获批申请人，对约一半的对话完成资格筛选，将其中80%转交给顾问，并在不到一年内使成交量增长9%。PPC Land指出，尚不清楚这是相对增幅还是百分点。"
+                "x": "为了生成符合品牌调性的视觉内容，商家可以上传网站、品牌套件、字体或配色方案。搭配Google最新的图像模型Nano Banana 2.1，Gemini可为产品发布或持续进行的营销活动提供端到端的视觉素材，并保留风格，商家无需重新上传规范。"
               },
               {
                 "t": "p",
-                "x": "Harmony已在美国（US）、英国（UK）、澳大利亚和新加坡上线。价格、错误率和独立测试结果均未公布。"
+                "x": "Gemini还能把杂乱的电子表格、收据和购买记录变成财务图表和交互式模型。Google举例提到Bordeaux（波尔多）的一位陶艺师，其每天在撰写产品描述和社交帖子上节省两三个小时。"
+              },
+              {
+                "t": "p",
+                "x": "落地页、营销与财务技能以及新的连接应用将在未来几天内面向全球所有Gemini应用用户陆续推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "monday.com: su AI de voz sube\n9% los cierres de un bróker",
-          "body": "monday.com dice que sus agentes Harmony responden en unos 200ms; un bróker de UK afirma que sus tratos subieron 9%.",
-          "mini_headline": "La AI de voz sube 9% los tratos",
+          "headline": "Gemini conecta Google Ads,\nShopify y Canva",
+          "body": "La nueva página de negocios de Gemini conecta Google Ads, Shopify y Canva y convierte kits de marca en visuales.",
+          "mini_headline": "Gemini suma herramientas para pymes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
-                "cap": "El agente de llamadas Harmony AI de monday.com pasa los leads prometedores a los comerciales; un bróker de autos dice que sus tratos subieron 9%"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
               },
               {
                 "t": "p",
-                "x": "monday.com empezó a vender Harmony el 19 de octubre de 2026: una plataforma de AI de voz cuyos agentes hacen y atienden llamadas de ventas para empresas medianas y grandes, califican leads y transfieren en vivo los más prometedores a comerciales humanos."
+                "x": "Google afirma que decenas de millones de propietarios de pequeñas empresas ya usan Gemini para idear productos, gestionar los comentarios de clientes y analizar resultados. Ahora lanza una página de inicio dedicada a negocios: un centro único para construir una marca, analizar las finanzas y entender a los clientes."
               },
               {
                 "t": "p",
-                "x": "Los agentes funcionan con tecnología de voz adquirida a OneAI y un conjunto de LLMs pequeños, propios y específicos por tarea, con la marcación y el write-back al CRM construidos sobre Twilio. La empresa afirma una latencia de unos 200ms de audio de entrada a audio de salida y “una tasa de contacto de hasta 70%”, sin línea de base ni método."
+                "x": "Gemini puede conectarse con Google Business Profile, Google Ads y Google Workspace, además de aplicaciones de terceros como Adobe, Canva, Dropbox, Shopify, Wix, Zoho y Xero."
               },
               {
                 "t": "p",
-                "x": "El único cliente identificado, el bróker de UK Bright Car Finance, dice que el agente contacta de inmediato a cada solicitante aprobado, califica cerca de la mitad de sus conversaciones, pasa el 80% de ellas a asesores y logró un aumento del 9% en los tratos cerrados en menos de un año. PPC Land señala que no está claro si se trata de una cifra relativa o de puntos porcentuales."
+                "x": "Para crear visuales acordes con la marca, las empresas pueden subir su sitio web, su kit de marca, sus fuentes o sus paletas de color. Junto con Nano Banana 2.1, el modelo de imagen más reciente de Google, Gemini produce visuales completos para lanzamientos de productos o campañas en curso y conserva el estilo, de modo que no hace falta volver a subir las pautas."
               },
               {
                 "t": "p",
-                "x": "Harmony está disponible en US, UK, Australia y Singapur. No se publicaron precios, tasas de error ni pruebas independientes."
+                "x": "Gemini también puede convertir hojas de cálculo desordenadas, recibos y registros de compra en gráficos financieros y modelos interactivos. Google destaca casos como el de una persona ceramista de Bordeaux que ahorra de dos a tres horas al día en descripciones de productos y publicaciones en redes sociales."
+              },
+              {
+                "t": "p",
+                "x": "La página de inicio, las funciones de marketing y finanzas y las nuevas aplicaciones conectadas empezarán a llegar en los próximos días a todos los usuarios de la app de Gemini en todo el mundo."
               }
             ]
           }
@@ -711,125 +589,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "monday.com 음성\nAI로 차 계약 9% 늘려",
-          "body": "monday.com Harmony는 약 200ms로 답해 UK 거래 9% 늘렸다.",
-          "mini_headline": "음성 AI로 거래 9% 증가",
+          "headline": "Gemini와 연결된\nShopify·Canva",
+          "body": "Gemini 새 페이지가 Google Ads·Shopify·Canva를 잇는다.",
+          "mini_headline": "Gemini, 소상공인 도구 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
-                "cap": "monday.com의 Harmony AI 발신 에이전트는 유망 리드를 영업 담당자에게 넘긴다. 한 자동차 중개사는 이를 통해 거래가 9% 늘었다고 말한다"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
               },
               {
                 "t": "p",
-                "x": "monday.com은 2026년 10월 19일 Harmony 판매를 시작했다. 중견·대기업을 위해 에이전트가 영업 전화를 걸고 받으며, 리드를 선별하고 유망한 리드를 실시간으로 사람 영업 담당자에게 넘기는 음성 AI 플랫폼이다."
+                "x": "Google에 따르면 이미 수천만 명의 소상공인이 Gemini로 상품 아이디어를 짜고, 고객 피드백을 관리하고, 성과를 분석한다. Google은 이제 브랜드 구축, 재무 분석, 고객 인사이트 파악을 한곳에서 하는 비즈니스 전용 랜딩 페이지를 내놓는다."
               },
               {
                 "t": "p",
-                "x": "에이전트는 OneAI에서 인수한 음성 기술과 자체 개발한 작업별 소형 LLMs 묶음으로 작동하며, 전화 연결과 CRM write-back은 Twilio 위에 구축했다. 회사는 음성 입력부터 음성 출력까지 지연 시간이 약 200ms이고 “최대 70%의 연결률”을 낸다고 주장하지만, 기준치나 측정 방법은 밝히지 않았다."
+                "x": "Gemini는 Google Business Profile, Google Ads, Google Workspace는 물론 Adobe, Canva, Dropbox, Shopify, Wix, Zoho, Xero 같은 서드파티 앱과도 연결된다."
               },
               {
                 "t": "p",
-                "x": "이름이 공개된 유일한 고객인 UK 중개사 Bright Car Finance는 에이전트가 승인된 모든 신청자에게 즉시 후속 연락을 하고, 대화의 약 절반을 선별해 그중 80%를 상담사에게 넘기며, 한 해도 안 돼 성사 거래를 9% 늘렸다고 말한다. PPC Land는 이것이 상대 증가율인지 퍼센트포인트인지 불분명하다고 지적한다."
+                "x": "브랜드에 맞는 시각물을 위해 사업자는 웹사이트, 브랜드 키트, 폰트, 색상 팔레트를 올릴 수 있다. Gemini는 Google의 최신 이미지 모델 Nano Banana 2.1과 함께 제품 출시나 진행 중인 캠페인용 시각물을 처음부터 끝까지 만들고, 스타일을 기억해 가이드라인을 다시 올릴 필요가 없다."
               },
               {
                 "t": "p",
-                "x": "Harmony는 미국(US), 영국(UK), 호주, 싱가포르에서 쓸 수 있다. 가격, 오류율, 독립 검증 결과는 공개되지 않았다."
+                "x": "Gemini는 어지러운 스프레드시트, 영수증, 구매 기록도 재무 그래픽과 인터랙티브 모델로 바꿔 준다. Google은 상품 설명과 소셜 게시물 작성에서 하루 두세 시간을 아낀다는 Bordeaux(보르도)의 도예가 같은 사례를 소개했다."
+              },
+              {
+                "t": "p",
+                "x": "랜딩 페이지, 마케팅·재무 기능, 새로 연결되는 앱은 앞으로 며칠 안에 전 세계 모든 Gemini 앱 사용자에게 순차 배포된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "monday.com音声AI\n車ローン仲介の成約9%増",
-          "body": "monday.comのHarmonyは約200msで応答し、UKの仲介は成約9%増という。",
-          "mini_headline": "音声AIで成約9%増",
+          "headline": "Shopify・Canvaと\nGeminiが連携",
+          "body": "Geminiの新ページがGoogle Ads・Shopify・Canvaと連携する。",
+          "mini_headline": "Gemini、小規模事業者向け機能",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
-                "cap": "monday.comのHarmony AIコーラーは有望なリードを担当者に引き継ぐ。ある車仲介業者はこれで成約が9%増えたという"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
               },
               {
                 "t": "p",
-                "x": "monday.comは2026年10月19日、Harmonyの販売を始めた。中堅・大企業向けに、エージェントが営業電話をかけたり受けたりし、リードを選別して有望なものをその場で人間の担当者に引き継ぐ音声AIプラットフォームである。"
+                "x": "Googleによると、すでに数千万人の小規模事業者がGeminiを使って商品のアイデア出しや顧客フィードバックの管理、業績分析を行っている。同社は今回、ブランド構築、財務分析、顧客インサイトの把握を一か所で行えるビジネス専用のランディングページを立ち上げる。"
               },
               {
                 "t": "p",
-                "x": "エージェントはOneAIから取得した音声技術と、タスク別に作られた独自の小型LLMs群で動き、発信とCRM write-backはTwilio上に構築されている。同社は音声入力から音声出力まで約200msの遅延と「最大70%の接続率」をうたうが、比較基準や手法は示していない。"
+                "x": "GeminiはGoogle Business Profile、Google Ads、Google Workspaceに加え、Adobe、Canva、Dropbox、Shopify、Wix、Zoho、Xeroといったサードパーティアプリとも連携できる。"
               },
               {
                 "t": "p",
-                "x": "名前が明かされた唯一の顧客であるUKの仲介業者Bright Car Financeによると、エージェントは承認済みの申込者全員に即座にフォローし、会話の約半分を選別し、そのうち80%をアドバイザーに引き継ぎ、一年足らずで成約件数を9%伸ばした。PPC Landは、これが相対値なのかパーセントポイントなのかは不明だと指摘する。"
+                "x": "ブランドに沿ったビジュアルのために、事業者はウェブサイトやブランドキット、フォント、カラーパレットをアップロードできる。Googleの最新画像モデルNano Banana 2.1と組み合わせ、Geminiは商品発売や継続中のキャンペーン向けのビジュアルを一貫して制作し、スタイルを保持するのでガイドラインを再アップロードする必要はない。"
               },
               {
                 "t": "p",
-                "x": "Harmonyは米国(US)、英国(UK)、オーストラリア、シンガポールで利用できる。価格、エラー率、独立した検証結果は公表されていない。"
+                "x": "Geminiは散らかったスプレッドシートや領収書、購入記録を財務グラフィックやインタラクティブなモデルに変えることもできる。Googleは、商品説明やSNS投稿の作成で1日二、三時間を節約しているBordeaux（ボルドー）の陶芸家などの事例を紹介している。"
+              },
+              {
+                "t": "p",
+                "x": "ランディングページ、マーケティング・財務のスキル、新たな連携アプリは、今後数日のうちに世界中のすべてのGeminiアプリ利用者へ順次提供される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "monday.com语音AI\n助车贷中介成交增9%",
-          "body": "monday.com称Harmony约200ms即回应，一家UK车贷中介称成交增长9%。",
-          "mini_headline": "语音AI助成交增9%",
+          "headline": "Gemini打通\nShopify与Canva",
+          "body": "Gemini新商家页面可连接Google Ads、Shopify和Canva。",
+          "mini_headline": "Gemini新增小企业工具",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
-                "cap": "monday.com的Harmony AI外呼代理把优质线索转给销售代表，一家汽车中介称成交因此增长9%"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
               },
               {
                 "t": "p",
-                "x": "monday.com于2026年10月19日开始销售Harmony。这是一款语音AI平台，其代理为中型及大型企业拨打和接听销售电话，筛选线索，并把有希望的线索实时转交给人工销售代表。"
+                "x": "Google表示，已有数千万小企业主使用Gemini构思产品、管理客户反馈和分析业绩。现在它推出专门的商家落地页，作为打造品牌、分析财务和洞察客户的中心枢纽。"
               },
               {
                 "t": "p",
-                "x": "这些代理基于从OneAI收购的语音技术和一组自研的、面向特定任务的小型LLMs运行，拨号和CRM write-back构建在Twilio之上。公司称从音频输入到音频输出的延迟约为200ms，并称“接通率最高可达70%”，但未给出基准或方法。"
+                "x": "Gemini可连接Google Business Profile、Google Ads和Google Workspace，以及Adobe、Canva、Dropbox、Shopify、Wix、Zoho和Xero等第三方应用。"
               },
               {
                 "t": "p",
-                "x": "唯一具名的客户、UK中介Bright Car Finance表示，代理会立即跟进每位获批申请人，对约一半的对话完成资格筛选，将其中80%转交给顾问，并在不到一年内使成交量增长9%。PPC Land指出，尚不清楚这是相对增幅还是百分点。"
+                "x": "为了生成符合品牌调性的视觉内容，商家可以上传网站、品牌套件、字体或配色方案。搭配Google最新的图像模型Nano Banana 2.1，Gemini可为产品发布或持续进行的营销活动提供端到端的视觉素材，并保留风格，商家无需重新上传规范。"
               },
               {
                 "t": "p",
-                "x": "Harmony已在美国（US）、英国（UK）、澳大利亚和新加坡上线。价格、错误率和独立测试结果均未公布。"
+                "x": "Gemini还能把杂乱的电子表格、收据和购买记录变成财务图表和交互式模型。Google举例提到Bordeaux（波尔多）的一位陶艺师，其每天在撰写产品描述和社交帖子上节省两三个小时。"
+              },
+              {
+                "t": "p",
+                "x": "落地页、营销与财务技能以及新的连接应用将在未来几天内面向全球所有Gemini应用用户陆续推出。"
               }
             ]
           }
         },
         "es": {
-          "headline": "monday.com: su AI de voz sube\n9% los cierres de un bróker",
-          "body": "monday.com dice que sus agentes Harmony responden en unos 200ms; un bróker de UK afirma que sus tratos subieron 9%.",
-          "mini_headline": "La AI de voz sube 9% los tratos",
+          "headline": "Gemini conecta Google Ads,\nShopify y Canva",
+          "body": "La nueva página de negocios de Gemini conecta Google Ads, Shopify y Canva y convierte kits de marca en visuales.",
+          "mini_headline": "Gemini suma herramientas para pymes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
-                "cap": "El agente de llamadas Harmony AI de monday.com pasa los leads prometedores a los comerciales; un bróker de autos dice que sus tratos subieron 9%"
+                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
               },
               {
                 "t": "p",
-                "x": "monday.com empezó a vender Harmony el 19 de octubre de 2026: una plataforma de AI de voz cuyos agentes hacen y atienden llamadas de ventas para empresas medianas y grandes, califican leads y transfieren en vivo los más prometedores a comerciales humanos."
+                "x": "Google afirma que decenas de millones de propietarios de pequeñas empresas ya usan Gemini para idear productos, gestionar los comentarios de clientes y analizar resultados. Ahora lanza una página de inicio dedicada a negocios: un centro único para construir una marca, analizar las finanzas y entender a los clientes."
               },
               {
                 "t": "p",
-                "x": "Los agentes funcionan con tecnología de voz adquirida a OneAI y un conjunto de LLMs pequeños, propios y específicos por tarea, con la marcación y el write-back al CRM construidos sobre Twilio. La empresa afirma una latencia de unos 200ms de audio de entrada a audio de salida y “una tasa de contacto de hasta 70%”, sin línea de base ni método."
+                "x": "Gemini puede conectarse con Google Business Profile, Google Ads y Google Workspace, además de aplicaciones de terceros como Adobe, Canva, Dropbox, Shopify, Wix, Zoho y Xero."
               },
               {
                 "t": "p",
-                "x": "El único cliente identificado, el bróker de UK Bright Car Finance, dice que el agente contacta de inmediato a cada solicitante aprobado, califica cerca de la mitad de sus conversaciones, pasa el 80% de ellas a asesores y logró un aumento del 9% en los tratos cerrados en menos de un año. PPC Land señala que no está claro si se trata de una cifra relativa o de puntos porcentuales."
+                "x": "Para crear visuales acordes con la marca, las empresas pueden subir su sitio web, su kit de marca, sus fuentes o sus paletas de color. Junto con Nano Banana 2.1, el modelo de imagen más reciente de Google, Gemini produce visuales completos para lanzamientos de productos o campañas en curso y conserva el estilo, de modo que no hace falta volver a subir las pautas."
               },
               {
                 "t": "p",
-                "x": "Harmony está disponible en US, UK, Australia y Singapur. No se publicaron precios, tasas de error ni pruebas independientes."
+                "x": "Gemini también puede convertir hojas de cálculo desordenadas, recibos y registros de compra en gráficos financieros y modelos interactivos. Google destaca casos como el de una persona ceramista de Bordeaux que ahorra de dos a tres horas al día en descripciones de productos y publicaciones en redes sociales."
+              },
+              {
+                "t": "p",
+                "x": "La página de inicio, las funciones de marketing y finanzas y las nuevas aplicaciones conectadas empezarán a llegar en los próximos días a todos los usuarios de la app de Gemini en todo el mundo."
               }
             ]
           }
@@ -837,15 +727,15 @@
       }
     },
     {
-      "id": "marketing-minerva-cdp",
+      "id": "marketing-ai-slop-recipe-mfa-sites",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Minerva, 이름 없는\n에이전트 CDP를 짓다",
-      "body": "Minerva는 AI 에이전트로 데이터를 270M-consumer 그래프에 묶는다.",
-      "mini_headline": "Minerva의 에이전트 CDP",
+      "headline": "AI 슬롭 레시피 사이트에\n브랜드 광고가 붙었다",
+      "body": "AI 레시피 사이트 2,100여 곳에 Fortune 500 광고가 실렸다.",
+      "mini_headline": "AI 슬롭 사이트에 브랜드 광고",
       "tool": "Marketing",
       "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/ai/ai-startup-minerva-built-an-agentic-cdp-but-dont-call-it-that/",
+      "url": "https://www.adexchanger.com/programmatic/ai-slop-sites-are-on-the-rise-is-ad-tech-ready-for-its-new-mfa-challenge/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -853,155 +743,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
-            "cap": ""
+            "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
           },
           {
             "t": "p",
-            "x": "Minerva CEO Jackson Engles는 소비자 270 million명 규모의 아이덴티티 그래프 위에 마케터용 AI 에이전트를 만들려고 $20 million을 유치했다. 그래도 스타트업의 토대인 데이터가 오래가는 해자는 아닐 거라고 인정한다. 그래서 그는 범위를 좁게 가져간다. “마케터가 그냥 Claude를 쓰면서 아무 데이터나 가져와서는 안 됩니다.”"
+            "x": "공급망 분석 업체 DecryptAds가 화요일 공개한 연구에 따르면 광고용 사이트(made-for-advertising, MFA) 공식을 따르는 AI 생성(AI-generated) 레시피 사이트가 2,100곳을 넘는다. 공들이지 않은(low-effort) 페이지에 광고를 겹겹이 까는 방식이다. 이런 사이트에 대형 우량(blue-chip) 브랜드와 Fortune 500 브랜드 광고가 실렸다."
           },
           {
             "t": "p",
-            "x": "브랜드가 CRM, 데이터 웨어하우스 등 여러 소스를 Minerva에 연결하면, OpenAI로 만든 “에이전틱 데이터 엔지니어”가 이를 매핑한다. 그다음 에이전트들이 데이터를 고객별 단일 뷰로 합치고 Minerva의 “B2B2C 아이덴티티 그래프”로 보강한다. Engles에 따르면 Ramp는 업무용-개인용 연결을 써서 다이렉트 메일을 늘렸고 석 달 만에 MQL 비율을 약 80% 끌어올렸다. Wander는 Meta 유사 타깃에서 광범위 타기팅 대비 3.4x ROAS를 거뒀다."
+            "x": "사이트마다 꾸며낸 저자가 나온다. 저자 소개(“about”) 페이지에는 AI가 만든 아바타, 스톡 이미지, 실제 셰프에게서 도용한 사진은 물론 Emily Blunt 같은 유명인의 합성 이미지까지 쓰였다. 이번 달 Google Search 업데이트는 꾸며낸 크리에이터 프로필을 기만의 한 형태로 규정했는데, 그 기준에 어긋나는 일이다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
+            "cap": "Emily Blunt의 편집된 이미지를 쓴 레시피 사이트 저자 페이지 (DecryptAds 보고서)"
           },
           {
             "t": "p",
-            "x": "두 번째 에이전트 “에이전틱 데이터 사이언티스트”가 붙으면 일상 언어로 요청만 해도 예측 모델이 나온다. Minerva는 안에서 이 계층을 에이전틱 CDP라 부르지만 밖에 그렇게 내세우지는 않는다. 고객은 “CDP가 내는 결과를 원한다”는 설명이다."
+            "x": "DecryptAds는 ads.txt와 sellers.json 연결 고리를 따라가며 러시아, 중국, 키프로스, 튀르키예, UAE 등 “위험 지역”의 애드테크 업체 약 300곳을 추적했고 최종 2,116개 사이트를 찾아냈다. 범죄의 증거는 찾지 못했다고 덧붙였다."
+          },
+          {
+            "t": "p",
+            "x": "SSPs는 반발했다. 1,631개 사이트의 파트너로 지목된 HBAgency는 보고서가 제시한 연결 관계를 반박했다. MonetizeMore는 자사 이름이 붙은 11개 사이트를 수익화하지 않는다고 했고, Ezoic은 콘텐츠를 AI가 만들었는지가 아니라 품질로 판단해야 한다고 맞섰다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Minerva builds an agentic CDP\nbut won't call it one",
-          "body": "Startup Minerva uses AI agents to unify brands' fragmented customer data with its 270M-consumer identity graph.",
-          "mini_headline": "Minerva's agentic CDP",
+          "headline": "AI slop recipe sites\nare carrying brand ads",
+          "body": "A DecryptAds study found over 2,100 AI-generated recipe sites with fake authors running Fortune 500 programmatic ads.",
+          "mini_headline": "AI slop sites draw brand ads",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
-                "cap": ""
+                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "Minerva CEO Jackson Engles admits the data his startup is built on probably isn’t a durable moat, even after raising $20 million to build AI agents for marketers on an identity graph of 270 million consumers. His answer is to stay narrow: “Marketers shouldn’t just be using Claude and bringing in random data.”"
+                "x": "A study released Tuesday by supply chain intelligence firm DecryptAds uncovered more than 2,100 AI-generated recipe sites following the made-for-advertising (MFA) playbook: overlapping ad placements on low-effort pages. Ads from major blue-chip and Fortune 500 brands appeared on them."
               },
               {
                 "t": "p",
-                "x": "A brand plugs its CRM, warehouse and other sources into Minerva, where an “agentic data engineer” built with OpenAI maps them. Agents then unify the data into one view per customer and enrich it from Minerva’s “B2B2C identity graph.” Ramp used the work-to-personal link to extend direct mail and lifted its MQL rate around 80% in three months; Wander saw 3.4x ROAS on Meta lookalikes versus broad targeting, per Engles."
+                "x": "The sites feature fabricated authors whose “about” pages use AI-generated avatars, stock images, stolen photos of real chefs or even altered images of celebrities such as Emily Blunt. That runs afoul of a Google Search update this month calling fabricated creator profiles a form of deception."
+              },
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
+                "cap": "A recipe site's author page using an edited image of Emily Blunt (DecryptAds report)"
               },
               {
                 "t": "p",
-                "x": "A second agent, an “agentic data scientist,” would build predictive models from plain-language requests. Minerva calls the layer an agentic CDP internally but doesn’t market it that way: customers “want the outcome of a CDP.”"
+                "x": "DecryptAds found the sites by tracing ads.txt and sellers.json links to about 300 ad tech firms in “risky geos” such as Russia, China, Cyprus, Turkey and the UAE, ending with 2,116 sites. It says it found no evidence of crimes."
+              },
+              {
+                "t": "p",
+                "x": "SSPs pushed back: HBAgency, named as a partner for 1,631 sites, disputed the report's links; MonetizeMore said it doesn't monetize the 11 sites flagged for it; Ezoic argued content should be judged by quality, not whether AI made it."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Minerva, 이름 없는\n에이전트 CDP를 짓다",
-          "body": "Minerva는 AI 에이전트로 데이터를 270M-consumer 그래프에 묶는다.",
-          "mini_headline": "Minerva의 에이전트 CDP",
+          "headline": "AI 슬롭 레시피 사이트에\n브랜드 광고가 붙었다",
+          "body": "AI 레시피 사이트 2,100여 곳에 Fortune 500 광고가 실렸다.",
+          "mini_headline": "AI 슬롭 사이트에 브랜드 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
-                "cap": ""
+                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "Minerva CEO Jackson Engles는 소비자 270 million명 규모의 아이덴티티 그래프 위에 마케터용 AI 에이전트를 만들려고 $20 million을 유치했다. 그래도 스타트업의 토대인 데이터가 오래가는 해자는 아닐 거라고 인정한다. 그래서 그는 범위를 좁게 가져간다. “마케터가 그냥 Claude를 쓰면서 아무 데이터나 가져와서는 안 됩니다.”"
+                "x": "공급망 분석 업체 DecryptAds가 화요일 공개한 연구에 따르면 광고용 사이트(made-for-advertising, MFA) 공식을 따르는 AI 생성(AI-generated) 레시피 사이트가 2,100곳을 넘는다. 공들이지 않은(low-effort) 페이지에 광고를 겹겹이 까는 방식이다. 이런 사이트에 대형 우량(blue-chip) 브랜드와 Fortune 500 브랜드 광고가 실렸다."
               },
               {
                 "t": "p",
-                "x": "브랜드가 CRM, 데이터 웨어하우스 등 여러 소스를 Minerva에 연결하면, OpenAI로 만든 “에이전틱 데이터 엔지니어”가 이를 매핑한다. 그다음 에이전트들이 데이터를 고객별 단일 뷰로 합치고 Minerva의 “B2B2C 아이덴티티 그래프”로 보강한다. Engles에 따르면 Ramp는 업무용-개인용 연결을 써서 다이렉트 메일을 늘렸고 석 달 만에 MQL 비율을 약 80% 끌어올렸다. Wander는 Meta 유사 타깃에서 광범위 타기팅 대비 3.4x ROAS를 거뒀다."
+                "x": "사이트마다 꾸며낸 저자가 나온다. 저자 소개(“about”) 페이지에는 AI가 만든 아바타, 스톡 이미지, 실제 셰프에게서 도용한 사진은 물론 Emily Blunt 같은 유명인의 합성 이미지까지 쓰였다. 이번 달 Google Search 업데이트는 꾸며낸 크리에이터 프로필을 기만의 한 형태로 규정했는데, 그 기준에 어긋나는 일이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
+                "cap": "Emily Blunt의 편집된 이미지를 쓴 레시피 사이트 저자 페이지 (DecryptAds 보고서)"
               },
               {
                 "t": "p",
-                "x": "두 번째 에이전트 “에이전틱 데이터 사이언티스트”가 붙으면 일상 언어로 요청만 해도 예측 모델이 나온다. Minerva는 안에서 이 계층을 에이전틱 CDP라 부르지만 밖에 그렇게 내세우지는 않는다. 고객은 “CDP가 내는 결과를 원한다”는 설명이다."
+                "x": "DecryptAds는 ads.txt와 sellers.json 연결 고리를 따라가며 러시아, 중국, 키프로스, 튀르키예, UAE 등 “위험 지역”의 애드테크 업체 약 300곳을 추적했고 최종 2,116개 사이트를 찾아냈다. 범죄의 증거는 찾지 못했다고 덧붙였다."
+              },
+              {
+                "t": "p",
+                "x": "SSPs는 반발했다. 1,631개 사이트의 파트너로 지목된 HBAgency는 보고서가 제시한 연결 관계를 반박했다. MonetizeMore는 자사 이름이 붙은 11개 사이트를 수익화하지 않는다고 했고, Ezoic은 콘텐츠를 AI가 만들었는지가 아니라 품질로 판단해야 한다고 맞섰다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Minerva、名乗らない\nエージェント型CDP",
-          "body": "MinervaはAIエージェントで顧客データを270M-consumerのグラフに統合する。",
-          "mini_headline": "Minervaのエージェント型CDP",
+          "headline": "AIスロップのレシピサイト\nに大手ブランド広告",
+          "body": "Fortune 500企業の広告がAI製レシピサイト2,100超に出ていた。",
+          "mini_headline": "AIスロップにブランド広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
-                "cap": ""
+                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "MinervaのCEO Jackson Englesは、270 million人の消費者を収めるアイデンティティグラフ上にマーケター向けAIエージェントを構築するため$20 millionを調達したが、自社の土台であるデータはおそらく持続的な堀にはならないと認める。彼の答えは領域を絞ることだ。「マーケターはClaudeを使って適当なデータを持ち込むだけではいけない」"
+                "x": "サプライチェーン分析企業DecryptAdsが火曜日に公表した調査で、広告収益目的（made-for-advertising、MFA）の手法をなぞるAI生成（AI-generated）のレシピサイトが2,100以上見つかった。手間をかけない（low-effort）ページに広告枠を重ねて配置するやり方だ。これらのサイトには大手優良（blue-chip）ブランドやFortune 500ブランドの広告が表示されていた。"
               },
               {
                 "t": "p",
-                "x": "ブランドがCRMやデータウェアハウスなどのソースをMinervaにつなぐと、OpenAIで構築した「エージェント型データエンジニア」がそれらをマッピングする。続いてエージェントがデータを顧客ごとの単一ビューに統合し、Minervaの「B2B2Cアイデンティティグラフ」で拡充する。Englesによると、Rampは仕事と個人の連携を使ってダイレクトメールを拡大し、三か月でMQL率を約80%高めた。WanderはMetaの類似オーディエンスで、広いターゲティングと比べて3.4xのROASを得た。"
+                "x": "各サイトには架空の著者が登場し、その紹介（“about”）ページにはAI生成のアバター、ストック画像、実在シェフの盗用写真、さらにはEmily Bluntのような著名人の加工画像まで使われていた。架空のクリエイタープロフィールを欺瞞の一形態とした今月のGoogle Searchのアップデートに反する行為だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
+                "cap": "Emily Bluntの加工画像を使ったレシピサイトの著者ページ（DecryptAdsの報告書）"
               },
               {
                 "t": "p",
-                "x": "二つ目のエージェント「エージェント型データサイエンティスト」は、平易な言葉での依頼から予測モデルを構築する予定だ。Minervaは社内でこの層をエージェント型CDPと呼ぶが、そうは売り出していない。顧客は「CDPがもたらす成果を求めている」からだ。"
+                "x": "DecryptAdsはads.txtとsellers.jsonのつながりをたどり、ロシア、中国、キプロス、トルコ、UAEなど「リスクの高い地域」にある約300のアドテク企業を追跡して、最終的に2,116サイトを特定した。犯罪の証拠は見つからなかったという。"
+              },
+              {
+                "t": "p",
+                "x": "SSPsは反論した。1,631サイトのパートナーとされたHBAgencyは報告書が示す関係を否定し、MonetizeMoreは自社に結び付けられた11サイトを収益化していないと述べた。Ezoicは、コンテンツはAIが作ったかどうかではなく質で判断すべきだと主張した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Minerva做智能体CDP\n却不愿这样命名",
-          "body": "初创公司Minerva用AI智能体将客户数据与270M-consumer身份图谱打通。",
-          "mini_headline": "Minerva的智能体CDP",
+          "headline": "AI垃圾菜谱网站\n挂着大品牌广告",
+          "body": "DecryptAds发现逾2,100个AI生成菜谱网站刊有Fortune 500品牌广告。",
+          "mini_headline": "AI垃圾网站吸引品牌广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
-                "cap": ""
+                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "Minerva CEO Jackson Engles承认，即便公司已融资$20 million，要在覆盖270 million消费者的身份图谱上为营销人员打造AI智能体，其赖以起家的数据恐怕也算不上持久的护城河。他的对策是保持专注：“营销人员不应只是用Claude，再随便导入一些数据。”"
+                "x": "供应链情报公司DecryptAds周二发布的研究发现，超过2,100个AI生成（AI-generated）的菜谱网站沿用“为广告而生”（made-for-advertising，MFA）的套路：在粗制滥造（low-effort）的页面上叠放广告位。大型蓝筹（blue-chip）品牌和Fortune 500品牌的广告都出现在这些网站上。"
               },
               {
                 "t": "p",
-                "x": "品牌把CRM、数据仓库和其他数据源接入Minerva，由基于OpenAI打造的“智能体数据工程师”完成映射。随后，智能体把数据整合为每位客户的单一视图，并用Minerva的“B2B2C身份图谱”加以丰富。据Engles介绍，Ramp利用工作身份与个人身份的关联扩大直邮投放，三个月内MQL率提升约80%；Wander在Meta相似受众上的ROAS是广泛定向的3.4x。"
+                "x": "这些网站使用虚构的作者，其“关于”（“about”）页面采用AI生成的头像、图库图片、盗用的真实厨师照片，甚至Emily Blunt等名人的修改图片。这与Google Search本月的一次更新相悖，该更新将虚构的创作者资料视为一种欺骗。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
+                "cap": "某菜谱网站使用Emily Blunt修改图片的作者页面（DecryptAds报告）"
               },
               {
                 "t": "p",
-                "x": "第二个智能体“智能体数据科学家”将能根据自然语言请求构建预测模型。Minerva内部把这一层称为智能体CDP，但对外并不这样宣传：客户“想要的是CDP带来的结果”。"
+                "x": "DecryptAds通过追踪ads.txt和sellers.json中的关联，查到位于俄罗斯、中国、塞浦路斯、土耳其和UAE等“高风险地区”的约300家广告技术公司，最终锁定2,116个网站。该公司表示未发现犯罪证据。"
+              },
+              {
+                "t": "p",
+                "x": "SSPs对此提出异议：被列为1,631个网站合作方的HBAgency质疑报告所列的关联；MonetizeMore称其并未为被标注的11个网站提供变现；Ezoic则认为，评判内容应看质量，而不是看是否由AI生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Minerva crea un CDP agéntico\npero no lo llama así",
-          "body": "La startup Minerva usa agentes AI para unificar datos dispersos de clientes con su grafo de identidad 270M-consumer.",
-          "mini_headline": "El CDP agéntico de Minerva",
+          "headline": "Sitios de recetas de AI slop\nmuestran anuncios de marcas",
+          "body": "Un estudio de DecryptAds halló más de 2,100 sitios de recetas generados por AI con anuncios de Fortune 500.",
+          "mini_headline": "Sitios de AI slop atraen marcas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
-                "cap": ""
+                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "El CEO de Minerva, Jackson Engles, admite que los datos sobre los que se construye su startup probablemente no son una ventaja duradera, incluso tras recaudar $20 million para crear agentes de AI para marketers sobre un grafo de identidad de 270 million consumidores. Su respuesta es mantenerse enfocado: “Los marketers no deberían limitarse a usar Claude y traer datos al azar”."
+                "x": "Un estudio publicado el martes por DecryptAds, firma de inteligencia de la cadena de suministro, descubrió más de 2,100 sitios de recetas AI-generated (generados por AI) que siguen el manual de los sitios made-for-advertising (MFA): ubicaciones publicitarias superpuestas en páginas low-effort, de poco esfuerzo. En ellos aparecían anuncios de grandes marcas blue-chip y de empresas de Fortune 500."
               },
               {
                 "t": "p",
-                "x": "Una marca conecta su CRM, su almacén de datos y otras fuentes a Minerva, donde un “ingeniero de datos agéntico” creado con OpenAI las mapea. Luego, los agentes unifican los datos en una vista por cliente y los enriquecen con el “grafo de identidad B2B2C” de Minerva. Ramp usó el vínculo entre lo laboral y lo personal para ampliar su correo directo y elevó su tasa de MQL alrededor de 80% en tres meses; Wander obtuvo un ROAS de 3.4x en lookalikes de Meta frente a la segmentación amplia, según Engles."
+                "x": "Los sitios presentan autores inventados cuyas páginas “about” usan avatares generados por AI, imágenes de archivo, fotos robadas de chefs reales e incluso imágenes alteradas de celebridades como Emily Blunt. Eso choca con una actualización de Google Search de este mes que considera los perfiles de creadores inventados una forma de engaño."
+              },
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
+                "cap": "Página de autor de un sitio de recetas con una imagen editada de Emily Blunt (informe de DecryptAds)"
               },
               {
                 "t": "p",
-                "x": "Un segundo agente, un “científico de datos agéntico”, crearía modelos predictivos a partir de peticiones en lenguaje sencillo. Minerva llama internamente a esta capa CDP agéntico, pero no la comercializa así: los clientes “quieren el resultado de un CDP”."
+                "x": "DecryptAds encontró los sitios rastreando los vínculos de ads.txt y sellers.json hasta unas 300 empresas de ad tech en “zonas de riesgo” como Rusia, China, Chipre, Turquía y UAE, y llegó a 2,116 sitios. Afirma que no halló pruebas de delitos."
+              },
+              {
+                "t": "p",
+                "x": "Las SSPs respondieron: HBAgency, señalada como socia de 1,631 sitios, cuestionó los vínculos del informe; MonetizeMore dijo que no monetiza los 11 sitios que se le atribuyen; Ezoic sostuvo que el contenido debe juzgarse por su calidad y no por si lo hizo una AI."
               }
             ]
           }
@@ -1009,109 +947,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Minerva, 이름 없는\n에이전트 CDP를 짓다",
-          "body": "Minerva는 AI 에이전트로 데이터를 270M-consumer 그래프에 묶는다.",
-          "mini_headline": "Minerva의 에이전트 CDP",
+          "headline": "AI 슬롭 레시피 사이트에\n브랜드 광고가 붙는다",
+          "body": "Fortune 500 광고가 AI 레시피 사이트 2,100여 곳에 붙었다.",
+          "mini_headline": "AI 슬롭 사이트에 브랜드 광고",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
-                "cap": ""
+                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "Minerva CEO Jackson Engles는 소비자 270 million명 규모의 아이덴티티 그래프 위에 마케터용 AI 에이전트를 만들려고 $20 million을 유치했지만, 스타트업의 토대인 데이터가 오래가는 해자는 아닐 것이라고 인정한다. 그의 답은 범위를 좁게 유지하는 것이다. “마케터가 그냥 Claude를 쓰면서 아무 데이터나 가져와서는 안 됩니다.”"
+                "x": "공급망 분석 업체 DecryptAds가 화요일 공개한 연구에서 광고용 사이트(made-for-advertising, MFA) 공식을 따르는 AI 생성(AI-generated) 레시피 사이트가 2,100곳 넘게 드러났다. 공들이지 않은(low-effort) 페이지에 광고를 겹겹이 배치하는 방식이다. 이런 사이트에 대형 우량(blue-chip) 브랜드와 Fortune 500 브랜드의 광고가 실렸다."
               },
               {
                 "t": "p",
-                "x": "브랜드가 CRM, 데이터 웨어하우스 등 여러 소스를 Minerva에 연결하면, OpenAI로 만든 “에이전틱 데이터 엔지니어”가 이를 매핑한다. 이어 에이전트들이 데이터를 고객별 단일 뷰로 통합하고 Minerva의 “B2B2C 아이덴티티 그래프”로 보강한다. Engles에 따르면 Ramp는 업무용-개인용 연결을 활용해 다이렉트 메일을 확대했고 석 달 만에 MQL 비율을 약 80% 끌어올렸다. Wander는 Meta 유사 타깃에서 광범위 타기팅 대비 3.4x ROAS를 기록했다."
+                "x": "이들 사이트에는 꾸며낸 저자가 등장하고, 그 소개(“about”) 페이지에는 AI가 만든 아바타, 스톡 이미지, 실제 셰프의 도용 사진, 심지어 Emily Blunt 같은 유명인의 합성 이미지까지 쓰였다. 꾸며낸 크리에이터 프로필을 기만의 한 형태로 규정한 이번 달 Google Search 업데이트에 어긋나는 일이다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
+                "cap": "Emily Blunt의 편집된 이미지를 쓴 레시피 사이트 저자 페이지 (DecryptAds 보고서)"
               },
               {
                 "t": "p",
-                "x": "두 번째 에이전트인 “에이전틱 데이터 사이언티스트”는 일상 언어 요청만으로 예측 모델을 만들게 된다. Minerva는 내부적으로 이 계층을 에이전틱 CDP라 부르지만 그렇게 마케팅하지는 않는다. 고객은 “CDP가 내는 결과를 원한다”는 것이다."
+                "x": "DecryptAds는 ads.txt와 sellers.json 연결 고리를 따라 러시아, 중국, 키프로스, 튀르키예, UAE 등 “위험 지역”의 애드테크 업체 약 300곳을 추적해 최종 2,116개 사이트를 찾아냈다. 범죄의 증거는 찾지 못했다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "SSPs는 반발했다. 1,631개 사이트의 파트너로 지목된 HBAgency는 보고서가 제시한 연결 관계를 반박했고, MonetizeMore는 자사에 표시된 11개 사이트를 수익화하지 않는다고 했다. Ezoic은 콘텐츠를 AI가 만들었는지가 아니라 품질로 판단해야 한다고 주장했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Minerva、名乗らない\nエージェント型CDP",
-          "body": "MinervaはAIエージェントで顧客データを270M-consumerのグラフに統合する。",
-          "mini_headline": "Minervaのエージェント型CDP",
+          "headline": "AIスロップのレシピサイト\nに大手ブランド広告",
+          "body": "Fortune 500企業の広告がAI製レシピサイト2,100超に出ていた。",
+          "mini_headline": "AIスロップにブランド広告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
-                "cap": ""
+                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "MinervaのCEO Jackson Englesは、270 million人の消費者を収めるアイデンティティグラフ上にマーケター向けAIエージェントを構築するため$20 millionを調達したが、自社の土台であるデータはおそらく持続的な堀にはならないと認める。彼の答えは領域を絞ることだ。「マーケターはClaudeを使って適当なデータを持ち込むだけではいけない」"
+                "x": "サプライチェーン分析企業DecryptAdsが火曜日に公表した調査で、広告収益目的（made-for-advertising、MFA）の手法をなぞるAI生成（AI-generated）のレシピサイトが2,100以上見つかった。手間をかけない（low-effort）ページに広告枠を重ねて配置するやり方だ。これらのサイトには大手優良（blue-chip）ブランドやFortune 500ブランドの広告が表示されていた。"
               },
               {
                 "t": "p",
-                "x": "ブランドがCRMやデータウェアハウスなどのソースをMinervaにつなぐと、OpenAIで構築した「エージェント型データエンジニア」がそれらをマッピングする。続いてエージェントがデータを顧客ごとの単一ビューに統合し、Minervaの「B2B2Cアイデンティティグラフ」で拡充する。Englesによると、Rampは仕事と個人の連携を使ってダイレクトメールを拡大し、三か月でMQL率を約80%高めた。WanderはMetaの類似オーディエンスで、広いターゲティングと比べて3.4xのROASを得た。"
+                "x": "各サイトには架空の著者が登場し、その紹介（“about”）ページにはAI生成のアバター、ストック画像、実在シェフの盗用写真、さらにはEmily Bluntのような著名人の加工画像まで使われていた。架空のクリエイタープロフィールを欺瞞の一形態とした今月のGoogle Searchのアップデートに反する行為だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
+                "cap": "Emily Bluntの加工画像を使ったレシピサイトの著者ページ（DecryptAdsの報告書）"
               },
               {
                 "t": "p",
-                "x": "二つ目のエージェント「エージェント型データサイエンティスト」は、平易な言葉での依頼から予測モデルを構築する予定だ。Minervaは社内でこの層をエージェント型CDPと呼ぶが、そうは売り出していない。顧客は「CDPがもたらす成果を求めている」からだ。"
+                "x": "DecryptAdsはads.txtとsellers.jsonのつながりをたどり、ロシア、中国、キプロス、トルコ、UAEなど「リスクの高い地域」にある約300のアドテク企業を追跡して、最終的に2,116サイトを特定した。犯罪の証拠は見つからなかったという。"
+              },
+              {
+                "t": "p",
+                "x": "SSPsは反論した。1,631サイトのパートナーとされたHBAgencyは報告書が示す関係を否定し、MonetizeMoreは自社に結び付けられた11サイトを収益化していないと述べた。Ezoicは、コンテンツはAIが作ったかどうかではなく質で判断すべきだと主張した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Minerva做智能体CDP\n却不愿这样命名",
-          "body": "初创公司Minerva用AI智能体将客户数据与270M-consumer身份图谱打通。",
-          "mini_headline": "Minerva的智能体CDP",
+          "headline": "AI垃圾菜谱网站\n挂着大品牌广告",
+          "body": "DecryptAds发现逾2,100个AI生成菜谱网站刊有Fortune 500品牌广告。",
+          "mini_headline": "AI垃圾网站吸引品牌广告",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
-                "cap": ""
+                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "Minerva CEO Jackson Engles承认，即便公司已融资$20 million，要在覆盖270 million消费者的身份图谱上为营销人员打造AI智能体，其赖以起家的数据恐怕也算不上持久的护城河。他的对策是保持专注：“营销人员不应只是用Claude，再随便导入一些数据。”"
+                "x": "供应链情报公司DecryptAds周二发布的研究发现，超过2,100个AI生成（AI-generated）的菜谱网站沿用“为广告而生”（made-for-advertising，MFA）的套路：在粗制滥造（low-effort）的页面上叠放广告位。大型蓝筹（blue-chip）品牌和Fortune 500品牌的广告都出现在这些网站上。"
               },
               {
                 "t": "p",
-                "x": "品牌把CRM、数据仓库和其他数据源接入Minerva，由基于OpenAI打造的“智能体数据工程师”完成映射。随后，智能体把数据整合为每位客户的单一视图，并用Minerva的“B2B2C身份图谱”加以丰富。据Engles介绍，Ramp利用工作身份与个人身份的关联扩大直邮投放，三个月内MQL率提升约80%；Wander在Meta相似受众上的ROAS是广泛定向的3.4x。"
+                "x": "这些网站使用虚构的作者，其“关于”（“about”）页面采用AI生成的头像、图库图片、盗用的真实厨师照片，甚至Emily Blunt等名人的修改图片。这与Google Search本月的一次更新相悖，该更新将虚构的创作者资料视为一种欺骗。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
+                "cap": "某菜谱网站使用Emily Blunt修改图片的作者页面（DecryptAds报告）"
               },
               {
                 "t": "p",
-                "x": "第二个智能体“智能体数据科学家”将能根据自然语言请求构建预测模型。Minerva内部把这一层称为智能体CDP，但对外并不这样宣传：客户“想要的是CDP带来的结果”。"
+                "x": "DecryptAds通过追踪ads.txt和sellers.json中的关联，查到位于俄罗斯、中国、塞浦路斯、土耳其和UAE等“高风险地区”的约300家广告技术公司，最终锁定2,116个网站。该公司表示未发现犯罪证据。"
+              },
+              {
+                "t": "p",
+                "x": "SSPs对此提出异议：被列为1,631个网站合作方的HBAgency质疑报告所列的关联；MonetizeMore称其并未为被标注的11个网站提供变现；Ezoic则认为，评判内容应看质量，而不是看是否由AI生成。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Minerva crea un CDP agéntico\npero no lo llama así",
-          "body": "La startup Minerva usa agentes AI para unificar datos dispersos de clientes con su grafo de identidad 270M-consumer.",
-          "mini_headline": "El CDP agéntico de Minerva",
+          "headline": "Sitios de recetas de AI slop\nmuestran anuncios de marcas",
+          "body": "Un estudio de DecryptAds halló más de 2,100 sitios de recetas generados por AI con anuncios de Fortune 500.",
+          "mini_headline": "Sitios de AI slop atraen marcas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-model-dragon-comic-kevvo-1024x856.jpg",
-                "cap": ""
+                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
               },
               {
                 "t": "p",
-                "x": "El CEO de Minerva, Jackson Engles, admite que los datos sobre los que se construye su startup probablemente no son una ventaja duradera, incluso tras recaudar $20 million para crear agentes de AI para marketers sobre un grafo de identidad de 270 million consumidores. Su respuesta es mantenerse enfocado: “Los marketers no deberían limitarse a usar Claude y traer datos al azar”."
+                "x": "Un estudio publicado el martes por DecryptAds, firma de inteligencia de la cadena de suministro, descubrió más de 2,100 sitios de recetas AI-generated (generados por AI) que siguen el manual de los sitios made-for-advertising (MFA): ubicaciones publicitarias superpuestas en páginas low-effort, de poco esfuerzo. En ellos aparecían anuncios de grandes marcas blue-chip y de empresas de Fortune 500."
               },
               {
                 "t": "p",
-                "x": "Una marca conecta su CRM, su almacén de datos y otras fuentes a Minerva, donde un “ingeniero de datos agéntico” creado con OpenAI las mapea. Luego, los agentes unifican los datos en una vista por cliente y los enriquecen con el “grafo de identidad B2B2C” de Minerva. Ramp usó el vínculo entre lo laboral y lo personal para ampliar su correo directo y elevó su tasa de MQL alrededor de 80% en tres meses; Wander obtuvo un ROAS de 3.4x en lookalikes de Meta frente a la segmentación amplia, según Engles."
+                "x": "Los sitios presentan autores inventados cuyas páginas “about” usan avatares generados por AI, imágenes de archivo, fotos robadas de chefs reales e incluso imágenes alteradas de celebridades como Emily Blunt. Eso choca con una actualización de Google Search de este mes que considera los perfiles de creadores inventados una forma de engaño."
+              },
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
+                "cap": "Página de autor de un sitio de recetas con una imagen editada de Emily Blunt (informe de DecryptAds)"
               },
               {
                 "t": "p",
-                "x": "Un segundo agente, un “científico de datos agéntico”, crearía modelos predictivos a partir de peticiones en lenguaje sencillo. Minerva llama internamente a esta capa CDP agéntico, pero no la comercializa así: los clientes “quieren el resultado de un CDP”."
+                "x": "DecryptAds encontró los sitios rastreando los vínculos de ads.txt y sellers.json hasta unas 300 empresas de ad tech en “zonas de riesgo” como Rusia, China, Chipre, Turquía y UAE, y llegó a 2,116 sitios. Afirma que no halló pruebas de delitos."
+              },
+              {
+                "t": "p",
+                "x": "Las SSPs respondieron: HBAgency, señalada como socia de 1,631 sitios, cuestionó los vínculos del informe; MonetizeMore dijo que no monetiza los 11 sitios que se le atribuyen; Ezoic sostuvo que el contenido debe juzgarse por su calidad y no por si lo hizo una AI."
               }
             ]
           }
@@ -1119,15 +1089,15 @@
       }
     },
     {
-      "id": "marketing-basis-survey",
+      "id": "marketing-ai-max-ad-grants-autoon",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "광고인 사이 Claude\nChatGPT 턱밑까지",
-      "body": "Basis 조사 184명 중 51.1%가 AI 에이전트를 쓰나 6.5%만 측정한다.",
-      "mini_headline": "Claude, ChatGPT 턱밑까지",
+      "headline": "Ad Grants 계정에\n저절로 켜진 AI Max",
+      "body": "일부 Ad Grants 계정에 AI Max가 켜지며 비영리단체 CTR이 위태롭다.",
+      "mini_headline": "Ad Grants서 AI Max 포착",
       "tool": "Marketing",
-      "source": "PPC Land",
-      "url": "https://ppc.land/chatgpt-drops-to-74-5-of-marketers-as-claude-climbs-to-72-3-basis-finds/",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/google-ads-ai-max-spotted-automatically-enabled-in-some-ad-grants-accounts-497261",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1135,155 +1105,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
-            "cap": "ChatGPT 74.5%, Claude 72.3%. 마케터들이 AI 도구를 나눠 쓰니 저울이 거의 수평이다"
+            "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
           },
           {
             "t": "p",
-            "x": "Basis의 네 번째 연례 “AI and the Future of Marketing” 보고서는 2026년 7월 16일부터 8월 14일까지 마케팅·광고 실무자 184명을 조사했다. ChatGPT 사용률은 88.6%에서 74.5%로 떨어졌고 Claude는 17.9%에서 72.3%로 올랐다. Copilot은 55.4%, Gemini는 47.8%다."
+            "x": "Google Ads의 AI Max 기능이 일부 Google Ad Grants Search 캠페인에서 광고주가 직접 켜지 않았는데도 자동으로 켜진 채 나타난다. 비영리 광고주가 AI 기반(AI-powered) 캠페인 설정을 어디까지 통제할 수 있느냐는 물음이 나온다. Google은 이번 일이 Ad Grants 전체(Ad Grants-wide)를 대상으로 한 새 배포인지 확인해 주지 않았다."
           },
           {
             "t": "p",
-            "x": "매일 AI를 쓰는 비율은 33.6%에서 61.4%로 늘었다. AI 에이전트를 운영하는 조직도 20.0%에서 51.1%로 올랐다. 주로 보고·분석(72.3%)과 캠페인 브리프(56.4%)에 쓰고, 가장 덜 맡기는 일은 미디어 바잉(18.1%)이다."
+            "x": "AI Max는 Search 캠페인의 범위를 넓힌다. 확장 검색(broad-match)과 키워드 없는(keywordless) 검색어 매칭, 랜딩 페이지를 보고 자동 생성하거나 다듬은 광고 문구, 그리고 어떤 검색이 관련 있는지 Google이 판단하도록 돕는 랜딩 페이지 신호가 더해진다."
+          },
+          {
+            "t": "img",
+            "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+            "cap": "Google Ads의 AI Max for Search campaigns 설정"
           },
           {
             "t": "p",
-            "x": "정해진 지표와 벤치마크로 AI ROI를 측정하는 곳은 6.5%뿐이다. 23.4%는 일화 수준에서 잰다. PPC Land는 표본이 작고 모집 방식도 공개되지 않았다고 짚는다. Basis가 결론에서 권하는 통합 플랫폼을 직접 판다는 점도 걸린다."
+            "x": "Ad Grants 광고주에게 CTR은 계정 준수 요건과 바로 이어진다. 매칭이 넓어지면 새 잠재 고객에게 닿을 수 있지만 클릭 없이 노출만 늘면 CTR이 떨어지기 쉽다. 이미 최소 기준에 가까운 계정이라면 걱정할 만하다."
+          },
+          {
+            "t": "p",
+            "x": "비영리단체라면 이번 주 AI Max가 켜져 있는지 보고, 최근 검색어를 검토하고, CTR을 지켜보면서 늘어난 트래픽이 목표에 맞는지 따져 봐야 한다. 이 변화는 디지털 광고 전문가 Dan Kabakov가 LinkedIn에서 처음 짚었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Claude nears ChatGPT\namong ad marketers",
-          "body": "Basis found 51.1% of 184 marketers' organizations now run AI agents, but only 6.5% measure AI returns against benchmarks.",
-          "mini_headline": "Claude nears ChatGPT",
+          "headline": "AI Max spotted switched on\nin some Ad Grants accounts",
+          "body": "AI Max was spotted switched on unprompted in some Ad Grants accounts, which could threaten nonprofits' CTR floor.",
+          "mini_headline": "AI Max spotted in Ad Grants",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
-                "cap": "ChatGPT at 74.5%, Claude at 72.3%: a balance scale nearly level as marketers split their AI tools"
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
               },
               {
                 "t": "p",
-                "x": "Basis’s fourth annual “AI and the Future of Marketing” report surveyed 184 marketing and advertising professionals from July 16 to August 14, 2026. ChatGPT use fell to 74.5% from 88.6%, while Claude rose to 72.3% from 17.9%; Copilot is at 55.4% and Gemini at 47.8%."
+                "x": "Google Ads' AI Max feature is appearing automatically enabled in some Google Ad Grants Search campaigns without advertisers manually switching it on, raising questions about how much control nonprofit advertisers have over AI-powered campaign settings. Google has not confirmed that this represents a new, Ad Grants-wide rollout."
               },
               {
                 "t": "p",
-                "x": "Daily AI use reached 61.4%, up from 33.6%. The share of organizations running AI agents rose from 20.0% to 51.1%, mostly for reporting and analytics (72.3%) and campaign briefs (56.4%); media buying is the least delegated at 18.1%."
+                "x": "AI Max expands Search campaigns with broad-match and keywordless search term matching, automatically generated or adapted ad text based on landing pages, and landing page signals that help Google judge which searches are relevant."
+              },
+              {
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+                "cap": "The AI Max for Search campaigns setting in Google Ads"
               },
               {
                 "t": "p",
-                "x": "Only 6.5% measure AI ROI with defined metrics and benchmarks; 23.4% measure it anecdotally. PPC Land notes the small sample, undisclosed recruitment, and that Basis sells the unified platform its conclusions recommend."
+                "x": "For Ad Grants advertisers, CTR is tied to account compliance. Broader matching may reach new audiences, but extra impressions without clicks could drag CTR down — a concern for accounts already close to the minimum threshold."
+              },
+              {
+                "t": "p",
+                "x": "Nonprofits should check this week whether AI Max is enabled, review recent search terms, monitor CTR and confirm any added traffic fits their goals. The change was first spotted by digital advertising specialist Dan Kabakov on LinkedIn."
               }
             ]
           }
         },
         "ko": {
-          "headline": "광고인 사이 Claude\nChatGPT 턱밑까지",
-          "body": "Basis 조사 184명 중 51.1%가 AI 에이전트를 쓰나 6.5%만 측정한다.",
-          "mini_headline": "Claude, ChatGPT 턱밑까지",
+          "headline": "Ad Grants 계정에\n저절로 켜진 AI Max",
+          "body": "일부 Ad Grants 계정에 AI Max가 켜지며 비영리단체 CTR이 위태롭다.",
+          "mini_headline": "Ad Grants서 AI Max 포착",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
-                "cap": "ChatGPT 74.5%, Claude 72.3%. 마케터들이 AI 도구를 나눠 쓰니 저울이 거의 수평이다"
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
               },
               {
                 "t": "p",
-                "x": "Basis의 네 번째 연례 “AI and the Future of Marketing” 보고서는 2026년 7월 16일부터 8월 14일까지 마케팅·광고 실무자 184명을 조사했다. ChatGPT 사용률은 88.6%에서 74.5%로 떨어졌고 Claude는 17.9%에서 72.3%로 올랐다. Copilot은 55.4%, Gemini는 47.8%다."
+                "x": "Google Ads의 AI Max 기능이 일부 Google Ad Grants Search 캠페인에서 광고주가 직접 켜지 않았는데도 자동으로 켜진 채 나타난다. 비영리 광고주가 AI 기반(AI-powered) 캠페인 설정을 어디까지 통제할 수 있느냐는 물음이 나온다. Google은 이번 일이 Ad Grants 전체(Ad Grants-wide)를 대상으로 한 새 배포인지 확인해 주지 않았다."
               },
               {
                 "t": "p",
-                "x": "매일 AI를 쓰는 비율은 33.6%에서 61.4%로 늘었다. AI 에이전트를 운영하는 조직도 20.0%에서 51.1%로 올랐다. 주로 보고·분석(72.3%)과 캠페인 브리프(56.4%)에 쓰고, 가장 덜 맡기는 일은 미디어 바잉(18.1%)이다."
+                "x": "AI Max는 Search 캠페인의 범위를 넓힌다. 확장 검색(broad-match)과 키워드 없는(keywordless) 검색어 매칭, 랜딩 페이지를 보고 자동 생성하거나 다듬은 광고 문구, 그리고 어떤 검색이 관련 있는지 Google이 판단하도록 돕는 랜딩 페이지 신호가 더해진다."
+              },
+              {
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+                "cap": "Google Ads의 AI Max for Search campaigns 설정"
               },
               {
                 "t": "p",
-                "x": "정해진 지표와 벤치마크로 AI ROI를 측정하는 곳은 6.5%뿐이다. 23.4%는 일화 수준에서 잰다. PPC Land는 표본이 작고 모집 방식도 공개되지 않았다고 짚는다. Basis가 결론에서 권하는 통합 플랫폼을 직접 판다는 점도 걸린다."
+                "x": "Ad Grants 광고주에게 CTR은 계정 준수 요건과 바로 이어진다. 매칭이 넓어지면 새 잠재 고객에게 닿을 수 있지만 클릭 없이 노출만 늘면 CTR이 떨어지기 쉽다. 이미 최소 기준에 가까운 계정이라면 걱정할 만하다."
+              },
+              {
+                "t": "p",
+                "x": "비영리단체라면 이번 주 AI Max가 켜져 있는지 보고, 최근 검색어를 검토하고, CTR을 지켜보면서 늘어난 트래픽이 목표에 맞는지 따져 봐야 한다. 이 변화는 디지털 광고 전문가 Dan Kabakov가 LinkedIn에서 처음 짚었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "広告業界でClaudeが\nChatGPTに肉薄",
-          "body": "Basis調査で184人中51.1%がAIエージェントを使うが、基準測定は6.5%だ。",
-          "mini_headline": "ClaudeがChatGPTに肉薄",
+          "headline": "一部のAd Grantsで\nAI Maxが勝手にオン",
+          "body": "一部のAd GrantsでAI Maxが勝手に有効化、非営利のCTRに影響しうる。",
+          "mini_headline": "Ad GrantsでAI Maxを確認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
-                "cap": "ChatGPTは74.5%、Claudeは72.3%。マーケターがAIツールを使い分け、天秤はほぼ水平だ"
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
               },
               {
                 "t": "p",
-                "x": "Basisの四回目となる年次報告書「AI and the Future of Marketing」は、2026年7月16日から8月14日にかけて、マーケティング・広告の専門家184人を調査した。ChatGPTの利用率は88.6%から74.5%に下がり、Claudeは17.9%から72.3%に上がった。Copilotは55.4%、Geminiは47.8%である。"
+                "x": "Google AdsのAI Max機能が、一部のGoogle Ad Grants Searchキャンペーンで広告主が手動でオンにしていないのに自動で有効になっている。非営利の広告主がAI活用型（AI-powered）のキャンペーン設定をどこまで制御できるのか、疑問が生じている。Googleは、これがAd Grants全体（Ad Grants-wide）への新たな展開だとは認めていない。"
               },
               {
                 "t": "p",
-                "x": "AIを毎日使う人は33.6%から61.4%に増えた。AIエージェントを運用する組織の割合は20.0%から51.1%に上昇し、主な用途はレポーティングと分析(72.3%)、キャンペーンブリーフ(56.4%)だ。最も任されていないのはメディアバイイングで、18.1%にとどまる。"
+                "x": "AI MaxはSearchキャンペーンを、部分一致（broad-match）やキーワードなし（keywordless）の検索語句マッチング、ランディングページをもとに自動生成・調整された広告文、そしてGoogleがどの検索が関連するかを判断するのに役立つランディングページのシグナルによって拡張する。"
+              },
+              {
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+                "cap": "Google AdsのAI Max for Search campaigns設定"
               },
               {
                 "t": "p",
-                "x": "定義した指標とベンチマークでAI ROIを測っているのは6.5%にすぎず、23.4%は経験的に測っている。PPC Landは、サンプルが小さいこと、回答者の募集方法が非公開であること、そしてBasisが結論で推奨する統合プラットフォームを自ら販売していることを指摘する。"
+                "x": "Ad Grantsの広告主にとって、CTRはアカウントのポリシー順守に直結する。マッチングが広がれば新たなオーディエンスに届く可能性があるが、クリックを伴わない表示が増えればCTRが下がりかねない。すでに最低基準に近いアカウントには懸念材料だ。"
+              },
+              {
+                "t": "p",
+                "x": "非営利団体は今週中に、AI Maxが有効になっていないか確認し、最近の検索語句を見直し、CTRを監視し、増えたトラフィックが目的に合っているかを確かめるべきだ。この変化はデジタル広告の専門家Dan KabakovがLinkedInで最初に指摘した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "广告营销人中Claude\n直追ChatGPT",
-          "body": "Basis调查184人发现，51.1%的组织已用AI智能体，仅6.5%按基准衡量AI回报。",
-          "mini_headline": "Claude逼近ChatGPT",
+          "headline": "部分Ad Grants账户\n被发现自动开启AI Max",
+          "body": "部分Ad Grants账户被发现自动开启AI Max，可能威胁非营利机构的CTR底线。",
+          "mini_headline": "Ad Grants现AI Max自动开启",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
-                "cap": "ChatGPT 74.5%，Claude 72.3%：营销人分用多种AI工具，天平几乎持平"
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
               },
               {
                 "t": "p",
-                "x": "Basis第四份年度报告《AI and the Future of Marketing》于2026年7月16日至8月14日调查了184名营销和广告从业者。ChatGPT使用率从88.6%降至74.5%，Claude则从17.9%升至72.3%；Copilot为55.4%，Gemini为47.8%。"
+                "x": "Google Ads的AI Max功能在部分Google Ad Grants Search广告系列中自动处于开启状态，而广告主并未手动开启，这引发了非营利广告主对AI驱动（AI-powered）广告系列设置究竟有多少控制权的疑问。Google尚未确认这是否属于面向Ad Grants全体（Ad Grants-wide）的新一轮推出。"
               },
               {
                 "t": "p",
-                "x": "每天使用AI的比例从33.6%升至61.4%。运行AI智能体的组织比例从20.0%升至51.1%，主要用于报告与分析（72.3%）和活动简报（56.4%）；媒介购买是最少交给智能体的工作，仅为18.1%。"
+                "x": "AI Max通过广泛匹配（broad-match）和无关键词（keywordless）的搜索字词匹配、根据落地页自动生成或调整的广告文案，以及帮助Google判断哪些搜索相关的落地页信号，来扩展Search广告系列。"
+              },
+              {
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+                "cap": "Google Ads中的AI Max for Search campaigns设置"
               },
               {
                 "t": "p",
-                "x": "只有6.5%以明确的指标和基准衡量AI ROI；23.4%凭经验判断。PPC Land指出，样本量小、招募方式未公开，而且Basis本身就在销售其结论所推荐的统一平台。"
+                "x": "对Ad Grants广告主而言，CTR与账户合规挂钩。更宽泛的匹配也许能触达新受众，但没有点击的额外展示可能拉低CTR，这让本已接近最低门槛的账户感到担忧。"
+              },
+              {
+                "t": "p",
+                "x": "非营利机构本周应检查AI Max是否已开启，审查近期搜索字词，监控CTR，并确认新增流量是否符合目标。这一变化最早由数字广告专家Dan Kabakov在LinkedIn上发现。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude se acerca a ChatGPT\nentre los publicistas",
-          "body": "Según Basis, el 51.1% de 184 marketers ya usa agentes de AI, pero solo el 6.5% mide su retorno con referencias.",
-          "mini_headline": "Claude se acerca a ChatGPT",
+          "headline": "AI Max aparece activado\nen algunas cuentas de Ad Grants",
+          "body": "Se detectó AI Max activado sin aviso en algunas cuentas de Ad Grants y podría amenazar el mínimo de CTR de las ONG.",
+          "mini_headline": "AI Max detectado en Ad Grants",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
-                "cap": "ChatGPT con 74.5% y Claude con 72.3%: una balanza casi nivelada mientras los marketers reparten sus herramientas de AI"
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
               },
               {
                 "t": "p",
-                "x": "El cuarto informe anual “AI and the Future of Marketing” de Basis encuestó a 184 profesionales de marketing y publicidad del 16 de julio al 14 de agosto de 2026. El uso de ChatGPT cayó a 74.5% desde 88.6%, mientras que Claude subió a 72.3% desde 17.9%; Copilot está en 55.4% y Gemini en 47.8%."
+                "x": "La función AI Max de Google Ads aparece activada automáticamente en algunas campañas de Search de Google Ad Grants sin que los anunciantes la hayan encendido, lo que plantea dudas sobre cuánto control tienen los anunciantes sin fines de lucro sobre la configuración de campañas AI-powered (impulsadas por AI). Google no ha confirmado que se trate de un nuevo despliegue Ad Grants-wide, para todo Ad Grants."
               },
               {
                 "t": "p",
-                "x": "El uso diario de AI llegó a 61.4%, frente a 33.6%. La proporción de organizaciones que usan agentes de AI pasó de 20.0% a 51.1%, sobre todo para informes y analítica (72.3%) y briefs de campaña (56.4%); la compra de medios es la tarea menos delegada, con 18.1%."
+                "x": "AI Max amplía las campañas de Search con concordancia broad-match (amplia) y keywordless (sin palabras clave), textos de anuncio generados o adaptados automáticamente a partir de las páginas de destino y señales de esas páginas que ayudan a Google a juzgar qué búsquedas son relevantes."
+              },
+              {
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+                "cap": "El ajuste AI Max for Search campaigns en Google Ads"
               },
               {
                 "t": "p",
-                "x": "Solo el 6.5% mide el ROI de la AI con métricas y benchmarks definidos; el 23.4% lo mide de forma anecdótica. PPC Land señala la muestra pequeña, el reclutamiento no divulgado y que Basis vende la plataforma unificada que recomiendan sus conclusiones."
+                "x": "Para los anunciantes de Ad Grants, el CTR está ligado al cumplimiento de la cuenta. Una concordancia más amplia puede llegar a nuevas audiencias, pero las impresiones adicionales sin clics podrían bajar el CTR, algo preocupante para las cuentas que ya están cerca del umbral mínimo."
+              },
+              {
+                "t": "p",
+                "x": "Las organizaciones sin fines de lucro deberían comprobar esta semana si AI Max está activado, revisar los términos de búsqueda recientes, vigilar el CTR y confirmar que el tráfico añadido se ajusta a sus objetivos. El cambio lo detectó primero el especialista en publicidad digital Dan Kabakov en LinkedIn."
               }
             ]
           }
@@ -1291,109 +1309,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "광고인 사이 Claude\nChatGPT 턱밑까지",
-          "body": "Basis 조사 184명 중 51.1%가 AI 에이전트를 쓰나 6.5%만 측정한다.",
-          "mini_headline": "Claude, ChatGPT 턱밑까지",
+          "headline": "AI Max가 저절로 켜진\nAd Grants 계정들",
+          "body": "일부 Ad Grants 계정에서 AI Max가 켜져 비영리단체 CTR이 위태롭다.",
+          "mini_headline": "Ad Grants서 AI Max 포착",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
-                "cap": "ChatGPT 74.5%, Claude 72.3%. 마케터들이 AI 도구를 나눠 쓰면서 저울이 거의 수평을 이룬다"
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
               },
               {
                 "t": "p",
-                "x": "Basis의 네 번째 연례 “AI and the Future of Marketing” 보고서는 2026년 7월 16일부터 8월 14일까지 마케팅·광고 실무자 184명을 조사했다. ChatGPT 사용률은 88.6%에서 74.5%로 떨어졌고, Claude는 17.9%에서 72.3%로 올랐다. Copilot은 55.4%, Gemini는 47.8%다."
+                "x": "Google Ads의 AI Max 기능이 일부 Google Ad Grants Search 캠페인에서 광고주가 직접 켜지 않았는데도 자동으로 활성화된 채 나타나고 있다. 비영리 광고주가 AI 기반(AI-powered) 캠페인 설정을 얼마나 통제할 수 있는지 의문이 제기된다. Google은 이것이 Ad Grants 전체(Ad Grants-wide)를 대상으로 한 새 배포인지 확인하지 않았다."
               },
               {
                 "t": "p",
-                "x": "매일 AI를 쓰는 비율은 33.6%에서 61.4%로 늘었다. AI 에이전트를 운영하는 조직 비율은 20.0%에서 51.1%로 올랐고, 주로 보고·분석(72.3%)과 캠페인 브리프(56.4%)에 쓴다. 가장 덜 맡기는 일은 미디어 바잉으로 18.1%다."
+                "x": "AI Max는 Search 캠페인을 확장 검색(broad-match)과 키워드 없는(keywordless) 검색어 매칭, 랜딩 페이지를 바탕으로 자동 생성하거나 다듬은 광고 문구, 그리고 Google이 어떤 검색이 관련 있는지 판단하도록 돕는 랜딩 페이지 신호로 넓힌다."
+              },
+              {
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+                "cap": "Google Ads의 AI Max for Search campaigns 설정"
               },
               {
                 "t": "p",
-                "x": "정해진 지표와 벤치마크로 AI ROI를 측정하는 곳은 6.5%뿐이고, 23.4%는 일화적으로 측정한다. PPC Land는 표본이 작고 모집 방식이 공개되지 않았으며, Basis가 결론에서 권하는 통합 플랫폼을 직접 판매한다는 점을 짚는다."
+                "x": "Ad Grants 광고주에게 CTR은 계정 준수 요건과 직결된다. 매칭이 넓어지면 새 잠재 고객에게 닿을 수 있지만, 클릭 없이 노출만 늘면 CTR이 떨어질 수 있다. 이미 최소 기준에 가까운 계정에는 걱정거리다."
+              },
+              {
+                "t": "p",
+                "x": "비영리단체는 이번 주 AI Max가 켜져 있는지 확인하고, 최근 검색어를 검토하며, CTR을 지켜보고, 늘어난 트래픽이 목표에 맞는지 점검해야 한다. 이 변화는 디지털 광고 전문가 Dan Kabakov가 LinkedIn에서 처음 발견했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "広告業界でClaudeが\nChatGPTに肉薄",
-          "body": "Basis調査で184人中51.1%がAIエージェントを使うが、基準測定は6.5%だ。",
-          "mini_headline": "ClaudeがChatGPTに肉薄",
+          "headline": "一部のAd Grantsで\nAI Maxが勝手にオン",
+          "body": "一部のAd GrantsでAI Maxが勝手に有効化、非営利のCTRに影響しうる。",
+          "mini_headline": "Ad GrantsでAI Maxを確認",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
-                "cap": "ChatGPTは74.5%、Claudeは72.3%。マーケターがAIツールを使い分け、天秤はほぼ水平だ"
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
               },
               {
                 "t": "p",
-                "x": "Basisの四回目となる年次報告書「AI and the Future of Marketing」は、2026年7月16日から8月14日にかけて、マーケティング・広告の専門家184人を調査した。ChatGPTの利用率は88.6%から74.5%に下がり、Claudeは17.9%から72.3%に上がった。Copilotは55.4%、Geminiは47.8%である。"
+                "x": "Google AdsのAI Max機能が、一部のGoogle Ad Grants Searchキャンペーンで広告主が手動でオンにしていないのに自動で有効になっている。非営利の広告主がAI活用型（AI-powered）のキャンペーン設定をどこまで制御できるのか、疑問が生じている。Googleは、これがAd Grants全体（Ad Grants-wide）への新たな展開だとは認めていない。"
               },
               {
                 "t": "p",
-                "x": "AIを毎日使う人は33.6%から61.4%に増えた。AIエージェントを運用する組織の割合は20.0%から51.1%に上昇し、主な用途はレポーティングと分析(72.3%)、キャンペーンブリーフ(56.4%)だ。最も任されていないのはメディアバイイングで、18.1%にとどまる。"
+                "x": "AI MaxはSearchキャンペーンを、部分一致（broad-match）やキーワードなし（keywordless）の検索語句マッチング、ランディングページをもとに自動生成・調整された広告文、そしてGoogleがどの検索が関連するかを判断するのに役立つランディングページのシグナルによって拡張する。"
+              },
+              {
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+                "cap": "Google AdsのAI Max for Search campaigns設定"
               },
               {
                 "t": "p",
-                "x": "定義した指標とベンチマークでAI ROIを測っているのは6.5%にすぎず、23.4%は経験的に測っている。PPC Landは、サンプルが小さいこと、回答者の募集方法が非公開であること、そしてBasisが結論で推奨する統合プラットフォームを自ら販売していることを指摘する。"
+                "x": "Ad Grantsの広告主にとって、CTRはアカウントのポリシー順守に直結する。マッチングが広がれば新たなオーディエンスに届く可能性があるが、クリックを伴わない表示が増えればCTRが下がりかねない。すでに最低基準に近いアカウントには懸念材料だ。"
+              },
+              {
+                "t": "p",
+                "x": "非営利団体は今週中に、AI Maxが有効になっていないか確認し、最近の検索語句を見直し、CTRを監視し、増えたトラフィックが目的に合っているかを確かめるべきだ。この変化はデジタル広告の専門家Dan KabakovがLinkedInで最初に指摘した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "广告营销人中Claude\n直追ChatGPT",
-          "body": "Basis调查184人发现，51.1%的组织已用AI智能体，仅6.5%按基准衡量AI回报。",
-          "mini_headline": "Claude逼近ChatGPT",
+          "headline": "部分Ad Grants账户\n被发现自动开启AI Max",
+          "body": "部分Ad Grants账户被发现自动开启AI Max，可能威胁非营利机构的CTR底线。",
+          "mini_headline": "Ad Grants现AI Max自动开启",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
-                "cap": "ChatGPT 74.5%，Claude 72.3%：营销人分用多种AI工具，天平几乎持平"
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
               },
               {
                 "t": "p",
-                "x": "Basis第四份年度报告《AI and the Future of Marketing》于2026年7月16日至8月14日调查了184名营销和广告从业者。ChatGPT使用率从88.6%降至74.5%，Claude则从17.9%升至72.3%；Copilot为55.4%，Gemini为47.8%。"
+                "x": "Google Ads的AI Max功能在部分Google Ad Grants Search广告系列中自动处于开启状态，而广告主并未手动开启，这引发了非营利广告主对AI驱动（AI-powered）广告系列设置究竟有多少控制权的疑问。Google尚未确认这是否属于面向Ad Grants全体（Ad Grants-wide）的新一轮推出。"
               },
               {
                 "t": "p",
-                "x": "每天使用AI的比例从33.6%升至61.4%。运行AI智能体的组织比例从20.0%升至51.1%，主要用于报告与分析（72.3%）和活动简报（56.4%）；媒介购买是最少交给智能体的工作，仅为18.1%。"
+                "x": "AI Max通过广泛匹配（broad-match）和无关键词（keywordless）的搜索字词匹配、根据落地页自动生成或调整的广告文案，以及帮助Google判断哪些搜索相关的落地页信号，来扩展Search广告系列。"
+              },
+              {
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+                "cap": "Google Ads中的AI Max for Search campaigns设置"
               },
               {
                 "t": "p",
-                "x": "只有6.5%以明确的指标和基准衡量AI ROI；23.4%凭经验判断。PPC Land指出，样本量小、招募方式未公开，而且Basis本身就在销售其结论所推荐的统一平台。"
+                "x": "对Ad Grants广告主而言，CTR与账户合规挂钩。更宽泛的匹配也许能触达新受众，但没有点击的额外展示可能拉低CTR，这让本已接近最低门槛的账户感到担忧。"
+              },
+              {
+                "t": "p",
+                "x": "非营利机构本周应检查AI Max是否已开启，审查近期搜索字词，监控CTR，并确认新增流量是否符合目标。这一变化最早由数字广告专家Dan Kabakov在LinkedIn上发现。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Claude se acerca a ChatGPT\nentre los publicistas",
-          "body": "Según Basis, el 51.1% de 184 marketers ya usa agentes de AI, pero solo el 6.5% mide su retorno con referencias.",
-          "mini_headline": "Claude se acerca a ChatGPT",
+          "headline": "AI Max aparece activado\nen algunas cuentas de Ad Grants",
+          "body": "Se detectó AI Max activado sin aviso en algunas cuentas de Ad Grants y podría amenazar el mínimo de CTR de las ONG.",
+          "mini_headline": "AI Max detectado en Ad Grants",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
-                "cap": "ChatGPT con 74.5% y Claude con 72.3%: una balanza casi nivelada mientras los marketers reparten sus herramientas de AI"
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
               },
               {
                 "t": "p",
-                "x": "El cuarto informe anual “AI and the Future of Marketing” de Basis encuestó a 184 profesionales de marketing y publicidad del 16 de julio al 14 de agosto de 2026. El uso de ChatGPT cayó a 74.5% desde 88.6%, mientras que Claude subió a 72.3% desde 17.9%; Copilot está en 55.4% y Gemini en 47.8%."
+                "x": "La función AI Max de Google Ads aparece activada automáticamente en algunas campañas de Search de Google Ad Grants sin que los anunciantes la hayan encendido, lo que plantea dudas sobre cuánto control tienen los anunciantes sin fines de lucro sobre la configuración de campañas AI-powered (impulsadas por AI). Google no ha confirmado que se trate de un nuevo despliegue Ad Grants-wide, para todo Ad Grants."
               },
               {
                 "t": "p",
-                "x": "El uso diario de AI llegó a 61.4%, frente a 33.6%. La proporción de organizaciones que usan agentes de AI pasó de 20.0% a 51.1%, sobre todo para informes y analítica (72.3%) y briefs de campaña (56.4%); la compra de medios es la tarea menos delegada, con 18.1%."
+                "x": "AI Max amplía las campañas de Search con concordancia broad-match (amplia) y keywordless (sin palabras clave), textos de anuncio generados o adaptados automáticamente a partir de las páginas de destino y señales de esas páginas que ayudan a Google a juzgar qué búsquedas son relevantes."
+              },
+              {
+                "t": "img",
+                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+                "cap": "El ajuste AI Max for Search campaigns en Google Ads"
               },
               {
                 "t": "p",
-                "x": "Solo el 6.5% mide el ROI de la AI con métricas y benchmarks definidos; el 23.4% lo mide de forma anecdótica. PPC Land señala la muestra pequeña, el reclutamiento no divulgado y que Basis vende la plataforma unificada que recomiendan sus conclusiones."
+                "x": "Para los anunciantes de Ad Grants, el CTR está ligado al cumplimiento de la cuenta. Una concordancia más amplia puede llegar a nuevas audiencias, pero las impresiones adicionales sin clics podrían bajar el CTR, algo preocupante para las cuentas que ya están cerca del umbral mínimo."
+              },
+              {
+                "t": "p",
+                "x": "Las organizaciones sin fines de lucro deberían comprobar esta semana si AI Max está activado, revisar los términos de búsqueda recientes, vigilar el CTR y confirmar que el tráfico añadido se ajusta a sus objetivos. El cambio lo detectó primero el especialista en publicidad digital Dan Kabakov en LinkedIn."
               }
             ]
           }
@@ -1401,15 +1451,15 @@
       }
     },
     {
-      "id": "marketing-lendi",
+      "id": "marketing-hark-agent-pizza-promo",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Lendi가 재는\nAI의 보이지 않는 일",
-      "body": "Lendi는 챗봇의 브랜드 발견 영향을 재되 챗봇 광고엔 아직 돈을 아낀다.",
-      "mini_headline": "Lendi, AI의 일을 재다",
+      "headline": "AI 에이전트 피자 판촉\n차트 정상 뒤 삐걱",
+      "body": "Hark $1M 피자 경품, Lifestyle No. 1에도 주문은 자꾸 막혔다.",
+      "mini_headline": "AI 에이전트 피자 판촉 삐걱",
       "tool": "Marketing",
-      "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/measurement/how-australian-home-lender-lendi-measures-the-invisible-work-of-ai/",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/20/hark-ai-agent-startup-free-pizza-doordash",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1417,155 +1467,155 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
-            "cap": ""
+            "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+            "cap": "일러스트: Brendan Lynch/Axios"
           },
           {
             "t": "p",
-            "x": "챗봇이 브랜드 발견에 어떤 영향을 주는지 재는 일은 아직 대부분 미지의 영역이다. 그래도 호주의 주택담보대출·부동산 매매 기업 Lendi Group의 성장 총괄 GM Michael McCash는 “측정할 수 없는 것은 개선할 수 없다”고 말한다."
+            "x": "AI 스타트업 Hark는 자사 에이전트를 알리려고 1백만 달러 규모 경품 행사를 열고 DoorDash 크레딧 30달러를 내걸었다. Hark Pro를 내려받아 계정을 연결한 뒤 에이전트에게 피자 주문을 맡기면 된다. 행사 덕에 Hark는 Apple App Store Lifestyle 부문 No. 1에 올랐다. 몰려든 수요로 기술 문제가 생겼지만 피자 약 20,000판을 배달했다는 게 Hark의 설명이다."
           },
           {
             "t": "p",
-            "x": "McCash는 연간 $10 million이 넘는 Lendi의 유료 미디어용으로 사내 멀티터치 어트리뷰션 모델을 만들고 MMM에는 Mutinex를 들였다. MMM을 돌려 보니 무료 지상파 TV 비중이 너무 낮았다. Mutinex의 AI Visibility 도구는 LLMs에 프롬프트를 대량으로 넣어 브랜드가 어떻게 노출되는지 분석하는데, Lendi는 이 도구의 파일럿 고객이기도 하다. 브랜드 추적과 설문에는 Tracksuit와 Askable을 쓴다."
+            "x": "많은 사용자에게는 고단한 밤이었다. 투자자 Sheel Mohnot은 주문에 20분이 걸렸다고 했고, 다른 사용자는 크레딧이 적용되지 않아 27.70달러가 청구됐다고 전했다. Replika 창업자 Eugenia Kuyda는 거듭 실패한 시도를 올렸다. Axios 기자는 크레딧은 받았지만 피자는 끝내 받지 못했고, Gmail을 연결하자 Google 보안 경고까지 받았다. Hark는 이메일 읽기·작성·발송을 포함해 Google 권한을 폭넓게 요구한다."
           },
           {
             "t": "p",
-            "x": "ChatGPT, Gemini 같은 챗봇 안의 광고는 아직 ROI에 크게 기여하지 못했다. CPMs와 고객 획득 비용이 너무 높아서다. 대신 Lendi가 눈여겨보는 건 LLMs로 조사를 마치고 더 많은 정보를 갖춘 채 퍼널 아래쪽까지 내려온 고객이다. 지금 AI 투자를 챗봇 광고보다 측정에 쓰는 이유다."
+            "x": "CEO Brett Adcock은 사용량이 폭증해 많은 것이 고장 났다고 했다. 그래도 Hark는 Handoff 모델로 203,500건이 넘는 브라우저 세션을 처리했다. 대변인은 문제가 이번 프로모션에 한정된다며 피해 사용자에게 기프트 카드를 제공했다. 에이전트에는 여전히 로그인과 권한, 사람의 도움이 필요하고 그 탓에 간단한 일이 오히려 어려워질 수 있다는 게 이번 일의 교훈이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "How Lendi measures\nthe invisible work of AI",
-          "body": "Australian home lender Lendi is measuring how chatbots shape brand discovery, and finds chatbot ads not yet worth much spend.",
-          "mini_headline": "Lendi measures AI's work",
+          "headline": "A free-pizza AI agent promo\ntops charts, then misfires",
+          "body": "Hark's $1M DoorDash pizza giveaway hit No. 1 in Lifestyle, but many orders failed and it sought broad Gmail access.",
+          "mini_headline": "AI agent pizza promo misfires",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
-                "cap": ""
+                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+                "cap": "Illustration: Brendan Lynch/Axios"
               },
               {
                 "t": "p",
-                "x": "Measuring how chatbots shape brand discovery is mostly still a mystery. But “you can’t improve what you can’t measure,” said Michael McCash, GM of growth at Australian home loan and property sales company Lendi Group."
+                "x": "AI startup Hark offered $30 in DoorDash credit in a $1 million giveaway meant to showcase its agent: download Hark Pro, connect your accounts and ask the agent to order a pizza. The promo pushed Hark to No. 1 in the Lifestyle category of Apple's App Store, and Hark says it delivered nearly 20,000 pizzas despite technical problems from overwhelming demand."
               },
               {
                 "t": "p",
-                "x": "McCash built an in-house multi-touch attribution model for Lendi’s more than $10 million in annual paid media and brought in Mutinex for MMM, which showed free-to-air TV was underweighted. Lendi is also a pilot customer of Mutinex’s AI Visibility tool, which mass-prompts LLMs and analyzes how brands surface, and uses Tracksuit and Askable for brand tracking and surveys."
+                "x": "Many users had a worse night. Investor Sheel Mohnot said ordering took 20 minutes; another user reported a $27.70 charge when the credit didn't apply; Replika founder Eugenia Kuyda posted repeated failed attempts. The Axios reporter got the credit but no pizza, plus a Google security alert after connecting Gmail. Hark requests extensive Google permissions, including reading, composing and sending email."
               },
               {
                 "t": "p",
-                "x": "Ads inside chatbots such as ChatGPT and Gemini haven’t been major ROI contributors yet: CPMs and acquisition rates are too high. What Lendi does see is a more informed customer arriving further down the funnel after researching with LLMs, so for now its AI investment goes to measurement rather than chatbot ads."
+                "x": "CEO Brett Adcock said usage surged and many things broke, though Hark ran more than 203,500 browser sessions through its Handoff model. A spokesperson said the problems were unique to the promotion and offered gift cards to affected users. The lesson: agents still need logins, permissions and human help, which can make simple tasks harder."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Lendi가 재는\nAI의 보이지 않는 일",
-          "body": "Lendi는 챗봇의 브랜드 발견 영향을 재되 챗봇 광고엔 아직 돈을 아낀다.",
-          "mini_headline": "Lendi, AI의 일을 재다",
+          "headline": "AI 에이전트 피자 판촉\n차트 정상 뒤 삐걱",
+          "body": "Hark $1M 피자 경품, Lifestyle No. 1에도 주문은 자꾸 막혔다.",
+          "mini_headline": "AI 에이전트 피자 판촉 삐걱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
-                "cap": ""
+                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+                "cap": "일러스트: Brendan Lynch/Axios"
               },
               {
                 "t": "p",
-                "x": "챗봇이 브랜드 발견에 어떤 영향을 주는지 재는 일은 아직 대부분 미지의 영역이다. 그래도 호주의 주택담보대출·부동산 매매 기업 Lendi Group의 성장 총괄 GM Michael McCash는 “측정할 수 없는 것은 개선할 수 없다”고 말한다."
+                "x": "AI 스타트업 Hark는 자사 에이전트를 알리려고 1백만 달러 규모 경품 행사를 열고 DoorDash 크레딧 30달러를 내걸었다. Hark Pro를 내려받아 계정을 연결한 뒤 에이전트에게 피자 주문을 맡기면 된다. 행사 덕에 Hark는 Apple App Store Lifestyle 부문 No. 1에 올랐다. 몰려든 수요로 기술 문제가 생겼지만 피자 약 20,000판을 배달했다는 게 Hark의 설명이다."
               },
               {
                 "t": "p",
-                "x": "McCash는 연간 $10 million이 넘는 Lendi의 유료 미디어용으로 사내 멀티터치 어트리뷰션 모델을 만들고 MMM에는 Mutinex를 들였다. MMM을 돌려 보니 무료 지상파 TV 비중이 너무 낮았다. Mutinex의 AI Visibility 도구는 LLMs에 프롬프트를 대량으로 넣어 브랜드가 어떻게 노출되는지 분석하는데, Lendi는 이 도구의 파일럿 고객이기도 하다. 브랜드 추적과 설문에는 Tracksuit와 Askable을 쓴다."
+                "x": "많은 사용자에게는 고단한 밤이었다. 투자자 Sheel Mohnot은 주문에 20분이 걸렸다고 했고, 다른 사용자는 크레딧이 적용되지 않아 27.70달러가 청구됐다고 전했다. Replika 창업자 Eugenia Kuyda는 거듭 실패한 시도를 올렸다. Axios 기자는 크레딧은 받았지만 피자는 끝내 받지 못했고, Gmail을 연결하자 Google 보안 경고까지 받았다. Hark는 이메일 읽기·작성·발송을 포함해 Google 권한을 폭넓게 요구한다."
               },
               {
                 "t": "p",
-                "x": "ChatGPT, Gemini 같은 챗봇 안의 광고는 아직 ROI에 크게 기여하지 못했다. CPMs와 고객 획득 비용이 너무 높아서다. 대신 Lendi가 눈여겨보는 건 LLMs로 조사를 마치고 더 많은 정보를 갖춘 채 퍼널 아래쪽까지 내려온 고객이다. 지금 AI 투자를 챗봇 광고보다 측정에 쓰는 이유다."
+                "x": "CEO Brett Adcock은 사용량이 폭증해 많은 것이 고장 났다고 했다. 그래도 Hark는 Handoff 모델로 203,500건이 넘는 브라우저 세션을 처리했다. 대변인은 문제가 이번 프로모션에 한정된다며 피해 사용자에게 기프트 카드를 제공했다. 에이전트에는 여전히 로그인과 권한, 사람의 도움이 필요하고 그 탓에 간단한 일이 오히려 어려워질 수 있다는 게 이번 일의 교훈이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Lendiが測る\nAIの見えない仕事",
-          "body": "豪Lendiはチャットボットのブランド発見への影響を測り、その広告はまだ割高と見る。",
-          "mini_headline": "LendiがAIの働きを測る",
+          "headline": "無料ピザのAIエージェント\n販促、首位の後に混乱",
+          "body": "Harkの$1M ピザ企画はLifestyleでNo. 1になったが注文失敗が続出した。",
+          "mini_headline": "AIエージェントのピザ販促が混乱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
-                "cap": ""
+                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+                "cap": "イラスト：Brendan Lynch/Axios"
               },
               {
                 "t": "p",
-                "x": "チャットボットがブランド発見にどう影響するかの測定は、まだほとんど謎に包まれている。それでも「測れないものは改善できない」と、オーストラリアの住宅ローン・不動産販売会社Lendi Groupでグロース担当GMを務めるMichael McCashは語った。"
+                "x": "AIスタートアップのHarkは、自社エージェントを披露するための総額1百万ドルのプレゼント企画で、DoorDashの30ドル分のクレジットを提供した。Hark Proをダウンロードし、アカウントを連携して、エージェントにピザの注文を頼む仕組みだ。この企画でHarkはAppleのApp StoreのLifestyleカテゴリでNo. 1になり、Harkは殺到した需要による技術的な問題があったものの、20,000枚近いピザを届けたとしている。"
               },
               {
                 "t": "p",
-                "x": "McCashは、年間$10 millionを超えるLendiの有料メディア向けに社内でマルチタッチアトリビューションモデルを構築し、MMMにはMutinexを導入した。その結果、無料の地上波TVへの配分が少なすぎると分かった。Lendiは、LLMsに大量のプロンプトを投げてブランドの表れ方を分析するMutinexのAI Visibilityツールのパイロット顧客でもあり、ブランド追跡と調査にはTracksuitとAskableを使う。"
+                "x": "多くのユーザーにとっては散々な夜だった。投資家のSheel Mohnotは注文に20分かかったと述べ、別のユーザーはクレジットが適用されず27.70ドルを請求されたと報告した。Replika創業者のEugenia Kuydaは失敗を繰り返す様子を投稿した。Axiosの記者はクレジットは得たもののピザは届かず、Gmailを連携した後にGoogleのセキュリティ警告まで受けた。Harkはメールの閲覧・作成・送信を含む広範なGoogleの権限を求める。"
               },
               {
                 "t": "p",
-                "x": "ChatGPTやGeminiなどのチャットボット内広告は、まだROIへの大きな貢献源になっていない。CPMsも獲得単価も高すぎるからだ。Lendiが実際に目にしているのは、LLMsで下調べを済ませ、より多くの知識を持ってファネルの下の方まで進んできた顧客である。そのため当面、AIへの投資はチャットボット広告ではなく測定に向けている。"
+                "x": "CEOのBrett Adcockは利用が急増して多くの不具合が出たと述べたが、HarkはHandoffモデルで203,500超のブラウザセッションを処理した。広報担当者は、問題は今回のプロモーション特有のものだとし、影響を受けたユーザーにギフトカードを提供した。教訓は、エージェントにはいまだにログイン、権限、人の手助けが必要で、それが単純な作業をかえって難しくしかねないということだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Lendi如何衡量\nAI看不见的作用",
-          "body": "澳洲房贷公司Lendi衡量聊天机器人如何影响品牌发现，并认为聊天机器人广告尚不值得多投。",
-          "mini_headline": "Lendi衡量AI的作用",
+          "headline": "免费披萨AI智能体促销\n登顶榜单后频频翻车",
+          "body": "Hark的$1M 披萨赠送登上Lifestyle榜No. 1，但大量订单失败。",
+          "mini_headline": "AI智能体披萨促销翻车",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
-                "cap": ""
+                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+                "cap": "插图：Brendan Lynch/Axios"
               },
               {
                 "t": "p",
-                "x": "衡量聊天机器人如何影响品牌发现，在很大程度上仍是一个谜。但澳大利亚房贷与房产销售公司Lendi Group增长业务GM Michael McCash说：“无法衡量的东西，就无法改进。”"
+                "x": "AI初创公司Hark推出总额1百万美元的赠送活动，发放30美元DoorDash额度，以展示其智能体：下载Hark Pro、连接账户，再让智能体订一份披萨。活动让Hark登上Apple App Store的Lifestyle类别No. 1；Hark称，尽管需求激增导致技术问题，仍送出了近20,000份披萨。"
               },
               {
                 "t": "p",
-                "x": "McCash为Lendi每年超过$10 million的付费媒体投放搭建了内部多触点归因模型，并引入Mutinex做MMM，结果显示免费电视的投放权重偏低。Lendi也是Mutinex的AI Visibility工具的试点客户，该工具对LLMs进行大规模提示并分析品牌如何出现；Lendi还用Tracksuit和Askable做品牌追踪和调研。"
+                "x": "许多用户的这一晚并不顺利。投资人Sheel Mohnot说下单花了20分钟；另一名用户称额度未生效，被扣了27.70美元；Replika创始人Eugenia Kuyda发帖展示了多次失败的尝试。Axios记者拿到了额度却没等到披萨，连接Gmail后还收到了Google安全警报。Hark要求获取广泛的Google权限，包括读取、撰写和发送邮件。"
               },
               {
                 "t": "p",
-                "x": "ChatGPT和Gemini等聊天机器人内的广告还没有成为主要的ROI来源：CPMs和获客成本都太高。Lendi确实看到的是，用户先用LLMs做功课，带着更多信息进入漏斗更深处，因此它目前把AI投入放在衡量上，而不是聊天机器人广告。"
+                "x": "CEO Brett Adcock表示使用量激增，很多环节出了故障，不过Hark通过其Handoff模型运行了超过203,500次浏览器会话。一名发言人称问题仅限于此次促销，并向受影响用户提供礼品卡。教训在于：智能体仍然需要登录、权限和人工协助，这可能让简单的任务变得更难。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cómo mide Lendi\nel trabajo invisible de la AI",
-          "body": "La hipotecaria Lendi mide cómo los chatbots moldean el descubrimiento de marcas y aún ve poco rentables sus anuncios.",
-          "mini_headline": "Lendi mide el trabajo de la AI",
+          "headline": "Pizza gratis con agente AI\nencabeza listas y luego falla",
+          "body": "El sorteo de pizza de $1M de Hark en DoorDash llegó al No. 1 en Lifestyle, pero muchos pedidos fallaron.",
+          "mini_headline": "Falla la promo de pizza con agente AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
-                "cap": ""
+                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+                "cap": "Ilustración: Brendan Lynch/Axios"
               },
               {
                 "t": "p",
-                "x": "Medir cómo los chatbots influyen en el descubrimiento de marcas sigue siendo en gran parte un misterio. Pero “no puedes mejorar lo que no puedes medir”, dijo Michael McCash, GM de crecimiento de Lendi Group, empresa australiana de préstamos hipotecarios y venta de propiedades."
+                "x": "La startup de AI Hark ofreció $30 en crédito de DoorDash en un sorteo de $1 millón pensado para mostrar su agente: descargar Hark Pro, conectar las cuentas y pedirle al agente que encargue una pizza. La promoción llevó a Hark al No. 1 de la categoría Lifestyle de la App Store de Apple, y Hark asegura que entregó casi 20,000 pizzas pese a los problemas técnicos causados por la enorme demanda."
               },
               {
                 "t": "p",
-                "x": "McCash creó un modelo interno de atribución multitáctil para los más de $10 million anuales que Lendi invierte en medios pagados e incorporó a Mutinex para el MMM, que mostró que la TV abierta estaba infraponderada. Lendi también es cliente piloto de AI Visibility, la herramienta de Mutinex que lanza prompts masivos a LLMs y analiza cómo aparecen las marcas, y usa Tracksuit y Askable para seguimiento de marca y encuestas."
+                "x": "Muchos usuarios tuvieron una noche peor. El inversor Sheel Mohnot dijo que el pedido le llevó 20 minutos; otro usuario informó de un cargo de $27.70 porque no se aplicó el crédito; la fundadora de Replika, Eugenia Kuyda, publicó varios intentos fallidos. El reportero de Axios obtuvo el crédito pero no la pizza, además de una alerta de seguridad de Google tras conectar Gmail. Hark solicita amplios permisos de Google, incluidos leer, redactar y enviar correos."
               },
               {
                 "t": "p",
-                "x": "Los anuncios dentro de chatbots como ChatGPT y Gemini aún no han contribuido mucho al ROI: los CPMs y las tasas de adquisición son demasiado altos. Lo que Lendi sí ve es un cliente más informado que llega más abajo en el embudo tras investigar con LLMs, así que por ahora su inversión en AI va a la medición y no a los anuncios en chatbots."
+                "x": "El CEO, Brett Adcock, dijo que el uso se disparó y muchas cosas fallaron, aunque Hark ejecutó más de 203,500 sesiones de navegador con su modelo Handoff. Un portavoz afirmó que los problemas fueron exclusivos de la promoción y ofreció tarjetas regalo a los usuarios afectados. La lección: los agentes aún necesitan inicios de sesión, permisos y ayuda humana, lo que puede complicar tareas sencillas."
               }
             ]
           }
@@ -1573,109 +1623,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Lendi가 재는\nAI의 보이지 않는 일",
-          "body": "Lendi는 챗봇의 브랜드 발견 영향을 재고, 챗봇 광고엔 아직 돈을 아낀다.",
-          "mini_headline": "Lendi, AI의 일을 재다",
+          "headline": "AI 에이전트 피자 판촉\n차트 정상 뒤 삐걱",
+          "body": "Hark $1M 피자 경품은 Lifestyle No. 1에도 주문은 자꾸 막혔다.",
+          "mini_headline": "AI 에이전트 피자 판촉 삐걱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
-                "cap": ""
+                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+                "cap": "일러스트: Brendan Lynch/Axios"
               },
               {
                 "t": "p",
-                "x": "챗봇이 브랜드 발견에 어떤 영향을 주는지 측정하는 일은 아직 대부분 미지의 영역이다. 하지만 호주의 주택담보대출·부동산 매매 기업 Lendi Group의 성장 총괄 GM Michael McCash는 “측정할 수 없는 것은 개선할 수 없다”고 말했다."
+                "x": "AI 스타트업 Hark는 자사 에이전트를 알리려고 1백만 달러 규모 경품 행사를 열어 DoorDash 크레딧 30달러를 내걸었다. Hark Pro를 내려받고 계정을 연결한 뒤 에이전트에게 피자 주문을 맡기는 방식이다. 행사 덕에 Hark는 Apple App Store Lifestyle 부문 No. 1에 올랐고, Hark는 몰려든 수요로 기술 문제가 생겼는데도 피자 약 20,000판을 배달했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "McCash는 연간 $10 million이 넘는 Lendi의 유료 미디어를 위해 사내 멀티터치 어트리뷰션 모델을 만들었고, MMM을 위해 Mutinex를 도입했다. MMM 결과 무료 지상파 TV 비중이 너무 낮았다는 사실이 드러났다. Lendi는 LLMs에 대량으로 프롬프트를 넣어 브랜드가 어떻게 노출되는지 분석하는 Mutinex의 AI Visibility 도구의 파일럿 고객이기도 하며, 브랜드 추적과 설문에는 Tracksuit와 Askable을 쓴다."
+                "x": "많은 사용자에게는 고단한 밤이었다. 투자자 Sheel Mohnot은 주문에 20분이 걸렸다고 했고, 다른 사용자는 크레딧이 적용되지 않아 27.70달러가 청구됐다고 전했다. Replika 창업자 Eugenia Kuyda는 거듭 실패한 시도를 올렸다. Axios 기자는 크레딧은 받았지만 피자는 받지 못했고, Gmail을 연결한 뒤 Google 보안 경고까지 받았다. Hark는 이메일 읽기·작성·발송을 포함한 폭넓은 Google 권한을 요구한다."
               },
               {
                 "t": "p",
-                "x": "ChatGPT, Gemini 같은 챗봇 안의 광고는 아직 ROI에 크게 기여하지 못했다. CPMs와 고객 획득 비용이 너무 높기 때문이다. 대신 Lendi는 LLMs로 조사를 마친 뒤 더 많은 정보를 갖추고 퍼널 아래쪽까지 내려온 고객을 보고 있다. 그래서 지금은 AI 투자를 챗봇 광고보다 측정에 쓴다."
+                "x": "CEO Brett Adcock은 사용량이 폭증해 많은 것이 고장 났다고 했지만, Hark는 Handoff 모델로 203,500건이 넘는 브라우저 세션을 처리했다. 대변인은 문제가 이번 프로모션에만 해당한다며 피해 사용자에게 기프트 카드를 제공했다. 교훈은 에이전트에 여전히 로그인, 권한, 사람의 도움이 필요하고, 그 탓에 간단한 일이 오히려 어려워질 수 있다는 점이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Lendiが測る\nAIの見えない仕事",
-          "body": "豪Lendiはチャットボットのブランド発見への影響を測り、その広告はまだ割高と見る。",
-          "mini_headline": "LendiがAIの働きを測る",
+          "headline": "無料ピザのAIエージェント\n販促、首位の後に混乱",
+          "body": "Harkの$1M ピザ企画はLifestyleでNo. 1になったが注文失敗が続出した。",
+          "mini_headline": "AIエージェントのピザ販促が混乱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
-                "cap": ""
+                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+                "cap": "イラスト：Brendan Lynch/Axios"
               },
               {
                 "t": "p",
-                "x": "チャットボットがブランド発見にどう影響するかの測定は、まだほとんど謎に包まれている。それでも「測れないものは改善できない」と、オーストラリアの住宅ローン・不動産販売会社Lendi Groupでグロース担当GMを務めるMichael McCashは語った。"
+                "x": "AIスタートアップのHarkは、自社エージェントを披露するための総額1百万ドルのプレゼント企画で、DoorDashの30ドル分のクレジットを提供した。Hark Proをダウンロードし、アカウントを連携して、エージェントにピザの注文を頼む仕組みだ。この企画でHarkはAppleのApp StoreのLifestyleカテゴリでNo. 1になり、Harkは殺到した需要による技術的な問題があったものの、20,000枚近いピザを届けたとしている。"
               },
               {
                 "t": "p",
-                "x": "McCashは、年間$10 millionを超えるLendiの有料メディア向けに社内でマルチタッチアトリビューションモデルを構築し、MMMにはMutinexを導入した。その結果、無料の地上波TVへの配分が少なすぎると分かった。Lendiは、LLMsに大量のプロンプトを投げてブランドの表れ方を分析するMutinexのAI Visibilityツールのパイロット顧客でもあり、ブランド追跡と調査にはTracksuitとAskableを使う。"
+                "x": "多くのユーザーにとっては散々な夜だった。投資家のSheel Mohnotは注文に20分かかったと述べ、別のユーザーはクレジットが適用されず27.70ドルを請求されたと報告した。Replika創業者のEugenia Kuydaは失敗を繰り返す様子を投稿した。Axiosの記者はクレジットは得たもののピザは届かず、Gmailを連携した後にGoogleのセキュリティ警告まで受けた。Harkはメールの閲覧・作成・送信を含む広範なGoogleの権限を求める。"
               },
               {
                 "t": "p",
-                "x": "ChatGPTやGeminiなどのチャットボット内広告は、まだROIへの大きな貢献源になっていない。CPMsも獲得単価も高すぎるからだ。Lendiが実際に目にしているのは、LLMsで下調べを済ませ、より多くの知識を持ってファネルの下の方まで進んできた顧客である。そのため当面、AIへの投資はチャットボット広告ではなく測定に向けている。"
+                "x": "CEOのBrett Adcockは利用が急増して多くの不具合が出たと述べたが、HarkはHandoffモデルで203,500超のブラウザセッションを処理した。広報担当者は、問題は今回のプロモーション特有のものだとし、影響を受けたユーザーにギフトカードを提供した。教訓は、エージェントにはいまだにログイン、権限、人の手助けが必要で、それが単純な作業をかえって難しくしかねないということだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Lendi如何衡量\nAI看不见的作用",
-          "body": "澳洲房贷公司Lendi衡量聊天机器人如何影响品牌发现，并认为聊天机器人广告尚不值得多投。",
-          "mini_headline": "Lendi衡量AI的作用",
+          "headline": "免费披萨AI智能体促销\n登顶榜单后频频翻车",
+          "body": "Hark的$1M 披萨赠送登上Lifestyle榜No. 1，但大量订单失败。",
+          "mini_headline": "AI智能体披萨促销翻车",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
-                "cap": ""
+                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+                "cap": "插图：Brendan Lynch/Axios"
               },
               {
                 "t": "p",
-                "x": "衡量聊天机器人如何影响品牌发现，在很大程度上仍是一个谜。但澳大利亚房贷与房产销售公司Lendi Group增长业务GM Michael McCash说：“无法衡量的东西，就无法改进。”"
+                "x": "AI初创公司Hark推出总额1百万美元的赠送活动，发放30美元DoorDash额度，以展示其智能体：下载Hark Pro、连接账户，再让智能体订一份披萨。活动让Hark登上Apple App Store的Lifestyle类别No. 1；Hark称，尽管需求激增导致技术问题，仍送出了近20,000份披萨。"
               },
               {
                 "t": "p",
-                "x": "McCash为Lendi每年超过$10 million的付费媒体投放搭建了内部多触点归因模型，并引入Mutinex做MMM，结果显示免费电视的投放权重偏低。Lendi也是Mutinex的AI Visibility工具的试点客户，该工具对LLMs进行大规模提示并分析品牌如何出现；Lendi还用Tracksuit和Askable做品牌追踪和调研。"
+                "x": "许多用户的这一晚并不顺利。投资人Sheel Mohnot说下单花了20分钟；另一名用户称额度未生效，被扣了27.70美元；Replika创始人Eugenia Kuyda发帖展示了多次失败的尝试。Axios记者拿到了额度却没等到披萨，连接Gmail后还收到了Google安全警报。Hark要求获取广泛的Google权限，包括读取、撰写和发送邮件。"
               },
               {
                 "t": "p",
-                "x": "ChatGPT和Gemini等聊天机器人内的广告还没有成为主要的ROI来源：CPMs和获客成本都太高。Lendi确实看到的是，用户先用LLMs做功课，带着更多信息进入漏斗更深处，因此它目前把AI投入放在衡量上，而不是聊天机器人广告。"
+                "x": "CEO Brett Adcock表示使用量激增，很多环节出了故障，不过Hark通过其Handoff模型运行了超过203,500次浏览器会话。一名发言人称问题仅限于此次促销，并向受影响用户提供礼品卡。教训在于：智能体仍然需要登录、权限和人工协助，这可能让简单的任务变得更难。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cómo mide Lendi\nel trabajo invisible de la AI",
-          "body": "La hipotecaria Lendi mide cómo los chatbots moldean el descubrimiento de marcas y aún ve poco rentables sus anuncios.",
-          "mini_headline": "Lendi mide el trabajo de la AI",
+          "headline": "Pizza gratis con agente AI\nencabeza listas y luego falla",
+          "body": "El sorteo de pizza de $1M de Hark en DoorDash llegó al No. 1 en Lifestyle, pero muchos pedidos fallaron.",
+          "mini_headline": "Falla la promo de pizza con agente AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2017/06/canthaveitbothways.jpg",
-                "cap": ""
+                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+                "cap": "Ilustración: Brendan Lynch/Axios"
               },
               {
                 "t": "p",
-                "x": "Medir cómo los chatbots influyen en el descubrimiento de marcas sigue siendo en gran parte un misterio. Pero “no puedes mejorar lo que no puedes medir”, dijo Michael McCash, GM de crecimiento de Lendi Group, empresa australiana de préstamos hipotecarios y venta de propiedades."
+                "x": "La startup de AI Hark ofreció $30 en crédito de DoorDash en un sorteo de $1 millón pensado para mostrar su agente: descargar Hark Pro, conectar las cuentas y pedirle al agente que encargue una pizza. La promoción llevó a Hark al No. 1 de la categoría Lifestyle de la App Store de Apple, y Hark asegura que entregó casi 20,000 pizzas pese a los problemas técnicos causados por la enorme demanda."
               },
               {
                 "t": "p",
-                "x": "McCash creó un modelo interno de atribución multitáctil para los más de $10 million anuales que Lendi invierte en medios pagados e incorporó a Mutinex para el MMM, que mostró que la TV abierta estaba infraponderada. Lendi también es cliente piloto de AI Visibility, la herramienta de Mutinex que lanza prompts masivos a LLMs y analiza cómo aparecen las marcas, y usa Tracksuit y Askable para seguimiento de marca y encuestas."
+                "x": "Muchos usuarios tuvieron una noche peor. El inversor Sheel Mohnot dijo que el pedido le llevó 20 minutos; otro usuario informó de un cargo de $27.70 porque no se aplicó el crédito; la fundadora de Replika, Eugenia Kuyda, publicó varios intentos fallidos. El reportero de Axios obtuvo el crédito pero no la pizza, además de una alerta de seguridad de Google tras conectar Gmail. Hark solicita amplios permisos de Google, incluidos leer, redactar y enviar correos."
               },
               {
                 "t": "p",
-                "x": "Los anuncios dentro de chatbots como ChatGPT y Gemini aún no han contribuido mucho al ROI: los CPMs y las tasas de adquisición son demasiado altos. Lo que Lendi sí ve es un cliente más informado que llega más abajo en el embudo tras investigar con LLMs, así que por ahora su inversión en AI va a la medición y no a los anuncios en chatbots."
+                "x": "El CEO, Brett Adcock, dijo que el uso se disparó y muchas cosas fallaron, aunque Hark ejecutó más de 203,500 sesiones de navegador con su modelo Handoff. Un portavoz afirmó que los problemas fueron exclusivos de la promoción y ofreció tarjetas regalo a los usuarios afectados. La lección: los agentes aún necesitan inicios de sesión, permisos y ayuda humana, lo que puede complicar tareas sencillas."
               }
             ]
           }

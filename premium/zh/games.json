@@ -7699,6 +7699,152 @@
           "x": "NPCTalk在Claude Code的协助下开发，其经验被封装为可复用的AI-agent技能。每款游戏仍需单独集成，目前仅在GTA V Legacy的单人模式中展示过。该工具包以MIT许可证发布在GitHub上；可免费游玩的GTA V模组将于下周推出。"
         }
       ]
+    },
+    "games/games-vivrato-vaia-ai-report": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "由Adam Boyes领导的游戏行业咨询公司Vivrato发布了《Vivrato AI Adoption（VAIA）Report 2026》，指出AI在游戏制作中应用广泛，但迄今为止相当浅层。"
+        },
+        {
+          "t": "p",
+          "x": "在Vivrato访谈的101位工作室负责人中，94%在九个制作环节中至少一个环节使用AI，但有52%将AI融入整个制作管线的深度评为10分制下三分或更低——中位数为三分。97%以某种形式使用过AI。这些保密的一对一访谈于2026年四月至九月进行，主要面向北美（North America）和欧洲（Europe）的PC与主机工作室，均遵循同一份44个问题的提纲。"
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Boyes表示：“有意思的问题已经不再是哪些游戏工作室在用AI。”“现在的焦点是他们在哪里用、什么在改变、什么真正有帮助，以及团队仍在哪些地方遇到挑战。”"
+        },
+        {
+          "t": "p",
+          "x": "员工会把生成式AI用于原型和概念设计，但大多数人不希望AI创作的内容进入最终产品，在叙事和世界观构建中的使用也非常少。阻碍工作室的因素包括：玩家情绪、员工感受、预算、工具本身、对失业的担忧以及时间不足。其中一项发现是：欧洲（Europe）比北美（North America）更快地拥抱AI。"
+        }
+      ]
+    },
+    "games/games-spookitchen-demo-ai-copycat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+        },
+        {
+          "t": "p",
+          "x": "近来有报道称，一些即将发售的独立游戏担心借助AI制作的抄袭作抢先出现，因而取消了公开试玩版的发布；如今韩国国内也出现了这样的案例。"
+        },
+        {
+          "t": "p",
+          "x": "韩国2人开发团队YNOT于17日收到消息，称有人正在用AI抄袭他们的游戏《Spookitchen》，随即预告将停止发布公开试玩版。20日，团队正式停止发布试玩版，并通过SNS和Steam页面向玩家倾诉了苦衷。"
+        },
+        {
+          "t": "video",
+          "yt": "HRKQOlIYAQY"
+        },
+        {
+          "t": "p",
+          "x": "《Spookitchen》是一款在怪物居住的万圣节小镇里烹饪料理的模拟经营游戏，凭借可爱的美术风格获得独立游戏粉丝的好评，连续2年参展BIC。然而在Steam Next Fest前夕，团队因担心抄袭作出现，不得不关闭试玩。"
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
+          "cap": "因近来用AI抄袭的事件而关闭了试玩 ©YNOT, @Sini_Ming"
+        },
+        {
+          "t": "p",
+          "x": "YNOT表示：“关闭试玩只是权宜之计，并不能从根本上解决问题。”并称：“我们会尽量不受影响，像往常一样专注于开发。”"
+        },
+        {
+          "t": "p",
+          "x": "这种担忧自10月起在独立游戏圈蔓延。《干草堆里找针模拟器》在发售前就出现了至少8款同类作品，只好在商店图片上加上“ORIGINAL”字样；《家庭时光》也出现了同名的同类作品。以不付钱就抢先发布AI抄袭作相威胁的邮件案例也接连不断。"
+        }
+      ]
+    },
+    "games/games-ai-mashup-launcher-tos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "过去几周你可能在网上见过的那些爆红的Elden Ring与Minecraft混搭作，现在可以通过一个来路可疑的启动器方便地游玩——而这个过程可能会让你的PC面临风险。"
+        },
+        {
+          "t": "p",
+          "x": "有人为Windows电脑做了一个专门的启动器，号称能让你玩任何想玩的奇怪混搭：Melty。按照官方介绍，“Melty是一款面向Windows的免费混搭启动器，可将你拥有的两款游戏合成一种混合体验。”其服务条款几乎允许该启动器做任何事：查找游戏、下载新工具、复制文件、修改文件夹、运行程序以及执行自动更新。"
+        },
+        {
+          "t": "p",
+          "x": "一位网名为“Wubbity”的程序员声称，他“拆解”了Melty安装程序，发现它是“LookLoot的换皮版本，而LookLoot是一款把游戏视频和操作输入记录为AI训练数据的应用”。他写道，Melty的隐私政策“对此只字未提”。"
+        },
+        {
+          "t": "p",
+          "x": "尽管他澄清这“不是恶意软件，也不会窃取密码”，但它“附带了一条休眠的游戏录制管线，可由其网站触发，而用户对此并不知情”。换句话说，我建议还是别碰它。"
+        }
+      ]
+    },
+    "games/games-ai-laws-studio-legal-map": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "生成式AI正日益融入游戏开发，与之相关的法律、法规和指南也在不断增加。以下概括梳理不断变化的AI法律环境影响游戏工作室的关键领域。"
+        },
+        {
+          "t": "p",
+          "x": "IP侵权：LLM使用第三方作品进行训练，意味着输出内容偶尔可能包含侵权素材，而且许多工具会把输入和输出反向授权给提供方。工作室应通过审核流程检查提示词和输出内容。"
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "SAG-AFTRA在2025年争取到一项涵盖AI的协议 | 图片来源：SAG-AFTRA"
+        },
+        {
+          "t": "p",
+          "x": "表演者：SAG-AFTRA在2024/25的罢工以一项协议告终，该协议要求在AI使用表演者的声音或形象时须获得明确同意并支付报酬，这正日益成为市场基准。所有权：在US（美国），完全由AI生成（AI-generated）的图像无法获得版权，而中国已给予保护，UK（英国）则将权利归于作出相关安排的人。"
+        },
+        {
+          "t": "p",
+          "x": "广告：UK（英国）的ASA正在发布关于广告中AI内容的指引。EU AI Act对深度伪造的宽泛定义可能要求为逼真内容加注标签，Steam等商店也要求披露AI使用情况。结论是：AI使用政策如今已是\"have-to-have\"（必备项），投资者、发行商、保险公司和审计方越来越多地提出这一要求。"
+        }
+      ]
+    },
+    "games/games-ludo-cli": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ludo.ai发布了Ludo CLI，开发者无需浏览器，即可在命令行中直接使用其AI游戏素材创作工具。"
+        },
+        {
+          "t": "p",
+          "x": "独立开发者、小型工作室以及Claude Code等编程代理，可以直接在终端生成精灵图、动画、图像、3D模型、视频和音频，素材会直接保存到磁盘。"
+        },
+        {
+          "t": "p",
+          "x": "该CLI建立在Ludo今年早些时候推出的REST API和Model Context Protocol（MCP）集成之上。编程代理可按需调用单个Ludo命令，而无需加载完整的工具规范；本地文件也可以直接传入生成工作流。"
+        },
+        {
+          "t": "p",
+          "x": "“有了CLI，开发者或与他们协同工作的编程代理，可以在需要时随时生成素材，而不必打断工作流程。”Ludo.ai联合创始人兼CTO Jorge Gomes表示。"
+        },
+        {
+          "t": "p",
+          "x": "它还支持脚本和自动化流水线，并提供项目专属设置和生成历史以保持一致性。CLI面向Pro和Studio套餐开放，可通过npm安装或用npx运行。Ludo还在ludo.ai/developers上线了Developers专区，涵盖CLI、MCP服务器、REST API和Unity插件。"
+        }
+      ]
     }
   }
 }

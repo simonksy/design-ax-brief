@@ -1702,6 +1702,157 @@
           "x": "\"Defaults are destiny,\" the column states. ADOTAT labels its commercial reading as inference, and its free preview does not say Full-Funnel blocks audience selection."
         }
       ]
+    },
+    "marketing/marketing-gemini-small-business-tools": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+        },
+        {
+          "t": "p",
+          "x": "Google says tens of millions of small business owners already use Gemini to brainstorm products, manage customer feedback and analyze performance. It is now launching a dedicated business landing page: a central hub to build a brand, analyze finances and understand customer insights."
+        },
+        {
+          "t": "p",
+          "x": "Gemini can connect to Google Business Profile, Google Ads and Google Workspace, plus third-party apps including Adobe, Canva, Dropbox, Shopify, Wix, Zoho and Xero."
+        },
+        {
+          "t": "p",
+          "x": "For on-brand visuals, businesses can upload their website, brand kit, fonts or color palettes. Paired with Nano Banana 2.1, Google's latest image model, Gemini delivers end-to-end visuals for product launches or ongoing campaigns and retains the style so owners don't have to re-upload guidelines."
+        },
+        {
+          "t": "p",
+          "x": "Gemini can also turn messy spreadsheets, receipts and purchase records into financial graphics and interactive models. Google highlights owners such as a ceramicist in Bordeaux who saves two to three hours a day on product descriptions and social posts."
+        },
+        {
+          "t": "p",
+          "x": "The landing page, marketing and finance skills and new connected apps begin rolling out globally to all Gemini app users in the coming days."
+        }
+      ]
+    },
+    "marketing/marketing-ai-slop-recipe-mfa-sites": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
+        },
+        {
+          "t": "p",
+          "x": "A study released Tuesday by supply chain intelligence firm DecryptAds uncovered more than 2,100 AI-generated recipe sites following the made-for-advertising (MFA) playbook: overlapping ad placements on low-effort pages. Ads from major blue-chip and Fortune 500 brands appeared on them."
+        },
+        {
+          "t": "p",
+          "x": "The sites feature fabricated authors whose “about” pages use AI-generated avatars, stock images, stolen photos of real chefs or even altered images of celebrities such as Emily Blunt. That runs afoul of a Google Search update this month calling fabricated creator profiles a form of deception."
+        },
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
+          "cap": "A recipe site's author page using an edited image of Emily Blunt (DecryptAds report)"
+        },
+        {
+          "t": "p",
+          "x": "DecryptAds found the sites by tracing ads.txt and sellers.json links to about 300 ad tech firms in “risky geos” such as Russia, China, Cyprus, Turkey and the UAE, ending with 2,116 sites. It says it found no evidence of crimes."
+        },
+        {
+          "t": "p",
+          "x": "SSPs pushed back: HBAgency, named as a partner for 1,631 sites, disputed the report's links; MonetizeMore said it doesn't monetize the 11 sites flagged for it; Ezoic argued content should be judged by quality, not whether AI made it."
+        }
+      ]
+    },
+    "marketing/marketing-ai-max-ad-grants-autoon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
+        },
+        {
+          "t": "p",
+          "x": "Google Ads' AI Max feature is appearing automatically enabled in some Google Ad Grants Search campaigns without advertisers manually switching it on, raising questions about how much control nonprofit advertisers have over AI-powered campaign settings. Google has not confirmed that this represents a new, Ad Grants-wide rollout."
+        },
+        {
+          "t": "p",
+          "x": "AI Max expands Search campaigns with broad-match and keywordless search term matching, automatically generated or adapted ad text based on landing pages, and landing page signals that help Google judge which searches are relevant."
+        },
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+          "cap": "The AI Max for Search campaigns setting in Google Ads"
+        },
+        {
+          "t": "p",
+          "x": "For Ad Grants advertisers, CTR is tied to account compliance. Broader matching may reach new audiences, but extra impressions without clicks could drag CTR down — a concern for accounts already close to the minimum threshold."
+        },
+        {
+          "t": "p",
+          "x": "Nonprofits should check this week whether AI Max is enabled, review recent search terms, monitor CTR and confirm any added traffic fits their goals. The change was first spotted by digital advertising specialist Dan Kabakov on LinkedIn."
+        }
+      ]
+    },
+    "marketing/marketing-hark-agent-pizza-promo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+          "cap": "Illustration: Brendan Lynch/Axios"
+        },
+        {
+          "t": "p",
+          "x": "AI startup Hark offered $30 in DoorDash credit in a $1 million giveaway meant to showcase its agent: download Hark Pro, connect your accounts and ask the agent to order a pizza. The promo pushed Hark to No. 1 in the Lifestyle category of Apple's App Store, and Hark says it delivered nearly 20,000 pizzas despite technical problems from overwhelming demand."
+        },
+        {
+          "t": "p",
+          "x": "Many users had a worse night. Investor Sheel Mohnot said ordering took 20 minutes; another user reported a $27.70 charge when the credit didn't apply; Replika founder Eugenia Kuyda posted repeated failed attempts. The Axios reporter got the credit but no pizza, plus a Google security alert after connecting Gmail. Hark requests extensive Google permissions, including reading, composing and sending email."
+        },
+        {
+          "t": "p",
+          "x": "CEO Brett Adcock said usage surged and many things broke, though Hark ran more than 203,500 browser sessions through its Handoff model. A spokesperson said the problems were unique to the promotion and offered gift cards to affected users. The lesson: agents still need logins, permissions and human help, which can make simple tasks harder."
+        }
+      ]
+    },
+    "marketing/marketing-meta-genrecs": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta's Generative Recommenders (GenRecs) shift its ads system from scoring every ad candidate to using LLM architecture to reason about ad content and user preferences together. The foundation is GenRecs Tokenization: instead of a dedicated ID for every item, each ad, product, page or pixel is represented by tokens from a stable semantic vocabulary."
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image1.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Pre-trained multimodal models read an item's text and images into an embedding; the tokenizer combines that with engagement-learned representations and quantizes the result into a short sequence of discrete tokens. The pipeline encodes, decomposes the embedding into subspaces, and maps each to a codebook entry. Similar items share tokens, so a new trail shoe inherits what the model learned from last season's."
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image2.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Across eight tokenizer versions, intrinsic measures (cluster purity, distribution balance, codebook utilization) correlated strongly with CTR prediction accuracy."
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image3.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Better predictions for low-impression tail ads also improve training data for all ads, a self-reinforcing flywheel."
+        },
+        {
+          "t": "img",
+          "src": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-image4.png",
+          "cap": ""
+        },
+        {
+          "t": "p",
+          "x": "Paired with Meta's GEM and Adaptive Ranking Model, GenRecs Tokenization delivered a +0.35% lift in conversions across surfaces (Meta internal data, February 2026). Next: wider tokenization coverage and a shared token space across text, image, audio and video."
+        }
+      ]
     }
   }
 }

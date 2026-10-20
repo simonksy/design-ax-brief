@@ -1,9 +1,31 @@
 {
+  "date": "2026-10-21",
+  "section": "design",
   "media": [
-    {"id": "design-gemini-notebook-cocreate", "type": "video", "src": "pipeline/media/design-gemini-notebook-cocreate.mp4", "poster": "pipeline/media/design-gemini-notebook-cocreate.jpg"},
-    {"id": "design-flux3-max-video", "type": "image", "src": "pipeline/media/design-flux3-max-video.jpg"},
-    {"id": "design-cg-roundup-1018", "type": "video", "src": "pipeline/media/design-cg-roundup-1018.mp4", "poster": "pipeline/media/design-cg-roundup-1018.jpg"},
-    {"id": "design-wunderui-agentic-ds", "type": "image", "src": "pipeline/media/design-wunderui-agentic-ds.png"},
-    {"id": "design-ai-photo-false-memory", "type": "image", "src": "pipeline/media/design-ai-photo-false-memory.jpg"}
+    {
+      "id": "design-lightroom-open-eyes-tap",
+      "type": "image",
+      "src": "pipeline/media/design-lightroom-open-eyes-tap.jpg"
+    },
+    {
+      "id": "design-chatgpt-slides-decks",
+      "type": "image",
+      "src": "pipeline/media/design-chatgpt-slides-decks.jpg"
+    },
+    {
+      "id": "design-neural-concept-cad-mcp",
+      "type": "image",
+      "src": "pipeline/media/design-neural-concept-cad-mcp.jpg"
+    },
+    {
+      "id": "design-dxo-viewpoint6-ai-masking",
+      "type": "image",
+      "src": "pipeline/media/design-dxo-viewpoint6-ai-masking.jpg"
+    },
+    {
+      "id": "design-anthropic-attention-bottleneck",
+      "type": "image",
+      "src": "pipeline/media/design-anthropic-attention-bottleneck.png"
+    }
   ]
 }

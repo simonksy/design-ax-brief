@@ -7716,6 +7716,129 @@
           "x": "Craft Appsはすべて無料だ。執筆時点で、FilmCraftはGitHubで約10,600のスターと4,200のフォークを集めていた。"
         }
       ]
+    },
+    "movies/movies-wga-east-cloak-ai-shield": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
+          "cap": "2023年、Warner Bros. Studioの前に掲げられた「Humanity vs. AI」と書かれたWGAのプラカード。Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Writers Guild of America, Eastは火曜日、会員の作品がAIモデルの学習に使われるのを防ぐための提携を発表した。AIモデルには判読できないが人間には読めるファイルのコピーを作るCloakが、組合の福利厚生プログラムの一環としてWGAE会員に無料で提供される。"
+        },
+        {
+          "t": "p",
+          "x": "WGA East会長のTom Fontanaは「会員は、プロデューサーやエージェントに作品を送った後、それがAIモデルの学習に使われる心配をしなくてよい」と述べた。非会員は、組合のウェブサイトで脚本を登録する際に$10でCloakを追加できる。"
+        },
+        {
+          "t": "p",
+          "x": "創業者のRishi Ambavanekarは、望まないAI学習やAIによるノート、分析に対して「書き手に主体性を取り戻す」ためにCloakを作ったと語った。今回の提携は組合のAI Task Forceから生まれた。"
+        },
+        {
+          "t": "p",
+          "x": "2025年9月に設立されたCloakは、Andreessen HorowitzのアクセラレーターSpeedrunとUniversity of Pennsylvaniaの支援を受けている。同社のウェブサイトは、Claude、Gemini、ChatGPTの各モデルに加え、Google Drive、Gmail、Adobe Acrobatの自動要約に対しても、テストで「効果的」だと証明されたとしている。"
+        }
+      ]
+    },
+    "movies/movies-microdramas-ai-two-thirds": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
+          "cap": "ReelShortで好成績を収めたAIマイクロドラマ『The Great and Powerful Genie』。Courtesy of ReelShort"
+        },
+        {
+          "t": "p",
+          "x": "Owl & Co.の最新レポート「What We Watched on Vertical」によると、2026年第三四半期に上位20プラットフォームで公開された中国以外の縦型ドラマのうち、三分の二がAI生成だった。第一四半期の3パーセント、第二四半期の28パーセントから増えた。"
+        },
+        {
+          "t": "p",
+          "x": "この変化は中国の動きと重なる。中国では2026年初めに公開された作品の95パーセント超がAIで制作されたと伝えられている。有料アプリでは、視聴時間の上位五作品に入った実写作品は一つだけで、首位はReelShortのAI-generated作品『The Great and Powerful Genie』だった。"
+        },
+        {
+          "t": "p",
+          "x": "追跡対象のアプリはこの四半期に63B 回の視聴と二十億時間の視聴時間を記録し、TikTokの無料アプリPineDramaが全視聴回数の半分以上を占めた。"
+        },
+        {
+          "t": "p",
+          "x": "ただしレポートは、中国で「実写への揺り戻し」が見られると指摘する。ReelShortでは、公開30日後も視聴回数の上位10パーセントにとどまる確率が、AI作品より実写作品の方が高かった。"
+        }
+      ]
+    },
+    "movies/movies-runway-ceo-ai-actors-view": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
+        },
+        {
+          "t": "p",
+          "x": "TurinのView Conferenceで行われた「Every Pixel Will Be Generated」と題した対談で、観客の一人が生成AIスタートアップRunwayのco-CEO、Cristóbal Valenzuelaに、AIはいずれ人間の俳優に取って代わり得るかと尋ねた。"
+        },
+        {
+          "t": "p",
+          "x": "「ええ、間違いなく。ある意味ではすでに起きていると思う」と彼は答え、AIを「新しい表現のメディア」であり「新しいストーリーテリングのメディア」だと呼んだ。"
+        },
+        {
+          "t": "p",
+          "x": "同じく登壇したNvidiaのRichard Kerrisは、監督と俳優の間に生まれる即興性は決してプロンプトでは作れない、というある監督の主張を紹介した。Valenzuelaは、モデルも「おそらく」非常によく似たやり方で演出できる段階に達すると反論した。"
+        },
+        {
+          "t": "p",
+          "x": "Valenzuelaはエッセイの中で「ピクセルを作ることの価値はゼロに向かっている」と予測し、AIが高い制作価値を持つコンテンツ、すなわち「最後の高価な層」のコストを崩していると述べている。"
+        },
+        {
+          "t": "p",
+          "x": "Varietyから学習データについて問われると、彼はモデルは「データベースではない」とし、表現から学ぶのだと答えた。Runwayは、作品を無報酬・無許可で使われたと主張する視覚芸術家らが起こそうとしている集団訴訟で、被告の一社となっている。"
+        }
+      ]
+    },
+    "movies/movies-japan-actors-union-ai-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
+          "cap": "© Japan Actors Union"
+        },
+        {
+          "t": "p",
+          "x": "日本俳優連合（Japan Actors Union、JAU）は木曜日の記者会見で、生成AIの利用に関するガイドラインの第一版を発表した。全21ページの「Guidelines for the Use of Generative AI on Vocal Audio Work」は六つの章と22の条項からなり、音声を俳優と声優によるすべての録音と定義している。"
+        },
+        {
+          "t": "p",
+          "x": "Dragon Ballで孫悟空（Son Goku）を演じる声優の野沢雅子（Masako Nozawa）は「私たちの声が同意なしに使われている。少し残念です」と語った。ブロリー（Broly）役の島田敏（Bin Shimada）は、Adoの「うっせぇわ」（Usseewa）を自分のブロリーの声で歌わせたAI版を聴いて怒りを覚えたという。"
+        },
+        {
+          "t": "p",
+          "x": "日本の声優たちは長年、無断での声の使用と闘ってきた。梶裕貴（Yūki Kaji）は自らの音声合成プログラムを作り、2024年には団体「No More Mudan Seisei AI」が結成された。津田健次郎（Kenjirō Tsuda）のTikTok事案では、法務省の検討会と東京地方裁判所が、声はパブリシティ権で保護されると認めた。"
+        }
+      ]
+    },
+    "movies/movies-premiere-enhance-stems": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
+        },
+        {
+          "t": "p",
+          "x": "ロケ音声は不揃いで届くことが多い。別々の部屋で収録したピンマイクとブームマイク、移り変わる環境音、シーンに焼き込まれた音楽などだ。PremiereベータのEnhance Audioは、台詞、音楽、環境音、効果音、残響を一度の処理で分離し、それぞれのコントロールをタイムライン上で編集者に渡す。"
+        },
+        {
+          "t": "p",
+          "x": "台詞には専用の音量、Enhancementの量、声からだけ部屋の響きを取り除くReverbコントロールが付く。音楽、環境音、効果音にはそれぞれ音量とミュートがある。ソース分離はデバイス上で動く。音声強化には、完全にローカルで動くEnhance Speech V1か、Firefly経由のクラウドで動くAdobe最高品質の音声モデルV2を使う。"
+        },
+        {
+          "t": "p",
+          "x": "各強化処理には前後それぞれ五秒のハンドルが付き、カット、フェード、トリムで再レンダリングが走らなくなった。ハンドルを越えて延ばすと新しい区間だけを処理する。V2ではその際に毎分二つの生成クレジットを消費し、V1は無料だ。"
+        },
+        {
+          "t": "p",
+          "x": "Split to Clipsは、台詞、音楽、環境音、効果音を別々のクリップとしてタイムラインに並べ、ターンオーバーに使えるようにする。筆者の注意点は、分離でミックスが仕上がるわけではないということだ。ミックスの終わりではなく、始まりとして扱うべきである。"
+        }
+      ]
     }
   }
 }

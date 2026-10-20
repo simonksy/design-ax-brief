@@ -3073,6 +3073,128 @@
           "x": "The draft proposal would limit the circumstances in which the government could block the release of an advanced model and preempt some state AI safety laws."
         }
       ]
+    },
+    "politics/politics-democrats-letter-25-firms-election-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
+        },
+        {
+          "t": "p",
+          "x": "Sens. Mark Warner and Alex Padilla and Reps. Jim Himes and Joe Morelle, the top Democrats on the intelligence and election oversight panels, wrote to the heads of 25 companies, including Alphabet, Meta, Microsoft, OpenAI and TikTok, ahead of the midterms."
+        },
+        {
+          "t": "p",
+          "x": "\"Unfortunately, there are concerning signs of backsliding on some of your commitments to protecting elections from misuse of your products,\" they wrote. They also said some AI chatbots have \"an unacceptably high error rate\" on election and voting questions."
+        },
+        {
+          "t": "p",
+          "x": "The letter asks firms to remove \"demonstrably false\" information about voting procedures while distinguishing it from political speech, give election officials reporting tools, use independent fact-checkers and open data to researchers."
+        },
+        {
+          "t": "p",
+          "x": "The Trump administration has dismantled several foreign-influence and election-disinformation hubs, largely on censorship grounds; federal agencies say election security support continues. Nextgov/FCW sought comment from industry groups TechNet and CCIA."
+        }
+      ]
+    },
+    "politics/politics-fca-ai-near-miss-reporting-speech": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Speaking at Bloomberg's UK Policy Series on Monday, Financial Conduct Authority chief data, information and intelligence officer Jessica Rusu said the regulator wants Britain to lead safe AI adoption in financial services, but greater autonomy requires clear accountability."
+        },
+        {
+          "t": "p",
+          "x": "\"Our rules already require firms to report major incidents, and that must extend to significant AI failures and near-misses,\" she said, adding that near-miss reporting for agentic AI is \"a regulatory priority too.\" The remarks set out an expectation in a speech, not a new rule."
+        },
+        {
+          "t": "p",
+          "x": "UK AI minister Kanishka Narayan said last week the government will assess strengthening the regime, including reporting serious incidents and near misses. The government has not yet committed to AI-specific measures in the Cyber Security and Resilience Bill; officials told MPs amendments remain under consideration."
+        }
+      ]
+    },
+    "politics/politics-nyc-chatbot-human-offramp-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
+        },
+        {
+          "t": "p",
+          "x": "Mayor Zohran Mamdani's administration is proposing a rule requiring businesses that use automated chatbots for customer service to disclose it and let customers talk with a person instead. The administration says it is the first such rule in the country."
+        },
+        {
+          "t": "p",
+          "x": "The proposed rule would also require help in a \"reasonable and timely manner\" and bar looping customers through unhelpful menus. \"Our worry in New York City is that AI is only going to make this relationship worse,\" said consumer protection commissioner Samuel Levine."
+        },
+        {
+          "t": "p",
+          "x": "A public hearing is set for Nov. 19; the effective date depends on comment volume, followed by a transition period. It would apply to any company doing business in the city, with fines of $525, $1,050 and $3,500 for repeat violations."
+        },
+        {
+          "t": "p",
+          "x": "Levine called it a model for other jurisdictions. Several states regulate AI chatbots, but few if any target customer service bots."
+        }
+      ]
+    },
+    "politics/politics-un-ai-dialogue-korea-cochair-cha": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+          "cap": "Amb. Cha Ji-hoon (2nd from R) speaking at U.N. headquarters on July 16, 2026. (Yonhap)"
+        },
+        {
+          "t": "p",
+          "x": "South Korea's ambassador to the United Nations has been appointed as co-chair of a U.N. initiative aimed at promoting international cooperation on AI governance, according to the U.N. website Tuesday."
+        },
+        {
+          "t": "p",
+          "x": "Ambassador Cha Ji-hoon was appointed alongside Mutryce Agatha Williams, the permanent representative of Saint Kitts and Nevis, by the president of the U.N. General Assembly on Friday to lead preparations for the 2027 Global Dialogue on AI Governance."
+        },
+        {
+          "t": "p",
+          "x": "The dialogue, scheduled for May 3-4, 2027, will bring together governments and other stakeholders to discuss international cooperation on AI governance, including opportunities and challenges associated with the rapidly developing technology."
+        },
+        {
+          "t": "p",
+          "x": "The initiative was established under a U.N. General Assembly resolution adopted in August 2025 as a platform for discussions involving governments, the private sector, civil society and researchers."
+        },
+        {
+          "t": "p",
+          "x": "South Korea is expected to play a coordinating role, as the country seeks to become one of the world's top three AI powerhouses under the Lee Jae Myung administration."
+        }
+      ]
+    },
+    "politics/politics-aiact-harmonised-std": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union."
+        },
+        {
+          "t": "img",
+          "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
+          "cap": "Illustration of a person pointing to a document titled \"AI ACT\" next to a judge's gavel."
+        },
+        {
+          "t": "p",
+          "x": "The standard, EN 18286:2026 – Quality management system for EU AI Act regulatory purposes, developed by CEN and CENELEC, gives providers of high-risk AI systems a legal pathway to meet the quality management system requirements of Article 17."
+        },
+        {
+          "t": "p",
+          "x": "Published through Commission Implementing Decision (EU) 2026/2274, it grants providers that implement it a presumption of conformity with the Article 17 requirements it covers. It is the only AI QMS standard with that presumption, is built around the AI system lifecycle, and is designed to layer on top of standards such as ISO/IEC 42001, ISO 9001 or ISO 13485 rather than replace them."
+        },
+        {
+          "t": "p",
+          "x": "The Commission calls it an important milestone ahead of the application of requirements for high-risk AI systems, with further harmonised standards expected to follow."
+        }
+      ]
     }
   }
 }

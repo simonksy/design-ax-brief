@@ -1,11 +1,7 @@
-{
-  "date": "2026-10-20",
-  "section": "music",
-  "media": [
-    {"id": "music-gear-firmware-vibe", "type": "video", "src": "pipeline/media/music-gear-firmware-vibe.mp4", "poster": "pipeline/media/music-gear-firmware-vibe.jpg"},
-    {"id": "music-rodrigo-expectations-debunk", "type": "video", "src": "pipeline/media/music-rodrigo-expectations-debunk.mp4", "poster": "pipeline/media/music-rodrigo-expectations-debunk.jpg"},
-    {"id": "music-suno-lightspeed-subpoena", "type": "image", "src": "pipeline/media/music-suno-lightspeed-subpoena.jpg"},
-    {"id": "music-cmu-three-debates", "type": "image", "src": "pipeline/media/music-cmu-three-debates.png"},
-    {"id": "music-dcomposer-drums", "type": "image", "src": "pipeline/media/music-dcomposer-drums.png"}
-  ]
-}
+{"date":"2026-10-21","section":"music","media":[
+ {"id":"music-spotify-50m-slop-purge","type":"image","src":"pipeline/media/music-spotify-50m-slop-purge.jpg"},
+ {"id":"music-believe-tunecore-ai-remix-optin","type":"image","src":"pipeline/media/music-believe-tunecore-ai-remix-optin.png"},
+ {"id":"music-pitchnet-free-pitch-editor","type":"video","src":"pipeline/media/music-pitchnet-free-pitch-editor.mp4","poster":"pipeline/media/music-pitchnet-free-pitch-editor.jpg"},
+ {"id":"music-afm-human-made-human-paid","type":"image","src":"pipeline/media/music-afm-human-made-human-paid.jpg"},
+ {"id":"music-just4kicks-ethical-kick-generator","type":"image","src":"pipeline/media/music-just4kicks-ethical-kick-generator.jpg"}
+]}

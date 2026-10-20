@@ -1,16 +1,16 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "design",
   "window_hours": 48,
   "rotation": {
     "mode": "full-pool",
     "mode_note": "unattended override: ALL core + ALL pool keywords used as seeds (no rotation subset); query plan kept bounded by grouping several keywords per query. Planned without WebSearch (budget reserved for librarians).",
-    "day_of_year": 293,
-    "social_channel_offset": "(293*3) mod 13 = 8 -> emphasis on DesignCourse, Jesse Showalter, AI Jason, Two Minute Papers (+ Theo - t3.gg spillover). Yesterday emphasized Matt Wolfe / The AI Advantage / Fireship",
-    "instagram_offset": "293 mod 7 = 6 -> awwwards, figma (plus pool-named midjourney, runway)",
+    "day_of_year": 294,
+    "social_channel_offset": "(294*3) mod 13 = 11 -> emphasis on Two Minute Papers, Theo - t3.gg, Figma, Vercel (+ Adobe spillover). Yesterday emphasized DesignCourse / Jesse Showalter / AI Jason",
+    "instagram_offset": "294 mod 7 = 0 -> figma, vercel (plus pool-named midjourney, runway)",
     "seeds": []
   },
-  "plan_notes": "LIBRARIAN: lead with outlet RSS / sitemap_news.xml feeds for recency - WebSearch site: queries return evergreen pages. Feeds: cgchannel.com/feed, develop3d.com/feed, 80.lv, fxguide.com/feed, uploadvr.com/feed, roadtovr.com/feed, theverge.com/rss/index.xml, venturebeat.com/feed, engadget.com/rss.xml, smashingmagazine.com/feed, css-tricks.com/feed, dev.to/feed/tag/ai, uxdesign.cc/feed, creativebloq.com/feed, engineering.com, all3dp.com/feed, voxelmatters.com/feed, figma.com/blog, vercel.com/blog, builder.io/blog, blog.adobe.com, blogs.nvidia.com/feed, blog.google, cio.com, fastcompany.com (needs Playwright). Match feed items against the keyword groups below; use WebSearch ONLY to fill categories that come up short after the feed pass (search budget is shared with parallel librarians). Window: 48h before 2026-10-20 (KST), widen to 72h only if a category is empty - verify published_iso on the page itself. 10-20 is a Monday (US Monday morning lands late KST): weekend 10-18/10-19 output plus early-week vendor posts. Keep only stories where AI changes how designers/creators work (releases, features, workflow shifts, case studies); broad AI-industry keywords (labs, people, robotics, AGI/safety, music/voice) are coverage nets - keep a hit only with a concrete design/creative-tool angle. Write output with the 'items' key (NOT 'candidates'). RECENTLY PUBLISHED - do not resubmit (only a genuinely NEW release/decision on the same subject counts): [2026-10-19] Kling 4.0 general availability, 30s clips (letsdatascience / PandaDaily); Meshy Edit part-level 3D edits (voxelmatters); 'How to build a brand foundation with AI without losing your craft' (UX Collective); ux-ui-agent-skills WCAG accessibility gates review (dev.to); 'Design in the material you ship' (UX Collective). [2026-10-18] Figma design systems guidelines + code sources for agents / MCP partners; Payload CMS in Figma Make; Adobe x NVIDIA RTX Spark; Kate Agena org-chart essay (UX Collective); Paul Boag AI adoption (Smashing); figma-wp-blueprint Claude Code skills (dev.to). [2026-10-17] Figma code layers beta; Krea 3; Cursor cloud agent canvases; SAP composable design system / Vercel Ship recap. [earlier] Figma Specs, Lovable model integrations, FLUX.3 Klein, Builder.io Agent-Native, KeyShot 2026 AI Shots, Archicad 2026 MCP, Runway x Claude Motion. Deprioritize today (covered last 2 days): Kling 4.0, Meshy, anything Figma design-systems/Make/code-layers, Adobe+Nvidia RTX Spark, UX Collective vibe-coding/design-in-code essays, accessibility agent-skill reviews on dev.to. Under-covered - prefer today: Midjourney, Google Veo / Flow / Stitch / Nano Banana / Mixboard, Runway, Sora, Luma, Pika, Higgsfield, ComfyUI/Stability, Firefly models, Framer, v0, Bolt, Claude Design, Canva/Penpot/Sketch AI, text-to-CAD (Autodesk/Onshape/Rhino/Zoo/Leo), Tripo/Hunyuan3D/Rodin, world models (Genie/World Labs Marble), visionOS / Quest / Galaxy XR / Ray-Ban Display, humanoid industrial design, Content Credentials/C2PA, ElevenLabs/Suno creative tooling, design tokens tooling (non-a11y).",
+  "plan_notes": "LIBRARIAN: lead with outlet RSS / sitemap_news.xml feeds for recency - WebSearch site: queries return evergreen pages. Feeds: cgchannel.com/feed, develop3d.com/feed, 80.lv, fxguide.com/feed, uploadvr.com/feed, roadtovr.com/feed, theverge.com/rss/index.xml, venturebeat.com/feed, engadget.com/rss.xml, smashingmagazine.com/feed, css-tricks.com/feed, dev.to/feed/tag/ai, uxdesign.cc/feed, creativebloq.com/feed, engineering.com, all3dp.com/feed, voxelmatters.com/feed, petapixel.com/feed, figma.com/blog, vercel.com/blog, builder.io/blog, blog.adobe.com, blogs.nvidia.com/feed, blog.google, cio.com, fastcompany.com (needs Playwright). Match feed items against the keyword groups below; use WebSearch ONLY to fill categories that come up short after the feed pass (search budget is shared with parallel librarians). Window: 48h before 2026-10-21 (KST), widen to 72h only if a category is empty - verify published_iso on the page itself. 10-21 is a Tuesday: US Monday 10-20 output lands in-window. Keep only stories where AI changes how designers/creators work (releases, features, workflow shifts, case studies); broad AI-industry keywords (labs, people, robotics, AGI/safety, music/voice) are coverage nets - keep a hit only with a concrete design/creative-tool angle. Write output with the 'items' key (NOT 'candidates'). RECENTLY PUBLISHED - do not resubmit (only a genuinely NEW release/decision on the same subject counts): [2026-10-20] Gemini Notebook co-create Slide Decks / Video Overviews with Review toggle (Google Blog); fal FLUX 3 Max video model with Black Forest Labs (Unite.AI); CG Channel 'New CG software you may have missed: 18 October 2026' (Autograph MCP server, Red Giant 2027 AI relighting, NVIDIA RTX ComfyUI nodes); WunderUI agentic design system (dev.to); AI-edited photos create false memories study (PetaPixel). [2026-10-19] Kling 4.0 GA 30s clips; Meshy Edit part-level 3D edits; UX Collective brand foundation with AI; ux-ui-agent-skills WCAG gates (dev.to); 'Design in the material you ship' (UX Collective). [2026-10-18] Figma design systems for agents / MCP partners; Payload CMS in Figma Make; Adobe x NVIDIA RTX Spark; Paul Boag AI adoption (Smashing). [2026-10-17] Figma code layers beta; Krea 3; Cursor cloud agent canvases. [earlier] Figma Specs, Lovable model integrations, FLUX.3 Klein, Builder.io Agent-Native, KeyShot 2026 AI Shots, Archicad 2026 MCP, Runway x Claude Motion. Also dropped yesterday as follow-ups/rumor: NVIDIA agentic-security/Frame.io post, Config India recap, OpenAI 'Aurora' Arena sighting (resubmit only if officially launched), Claude->Figma->React tutorials. Deprioritize today (covered last 2 days): Gemini Notebook, FLUX 3 (any variant), ComfyUI RTX nodes, Autograph/Red Giant, agentic design systems on dev.to, AI false-memory research, Kling 4.0, Meshy. Under-covered - prefer today: Midjourney, Google Veo / Flow / Stitch / Nano Banana / Mixboard, Runway, Sora, Luma, Pika, Higgsfield, Firefly models / Photoshop / Illustrator AI, Framer, v0, Bolt, Lovable, Claude Design, Canva/Penpot/Sketch AI, text-to-CAD (Autodesk/Onshape/Rhino/Zoo/Leo), Tripo/Hunyuan3D/Rodin, world models (Genie/World Labs Marble), visionOS / Quest / Galaxy XR / Ray-Ban Display / Android XR, humanoid industrial design, Content Credentials/C2PA, ElevenLabs/Suno creative tooling, design tokens tooling (non-agentic-DS).",
   "working_keywords": {
     "core": ["AI Design Tool", "Design AX", "AI Workflow"],
     "tools_creative": ["Higgsfield", "Kling", "Runway", "Sora", "Midjourney", "Adobe Firefly", "Google Veo", "Luma Dream Machine", "Pika", "Krea", "Stable Diffusion", "Flux"],
@@ -20,7 +20,7 @@
     "people": ["Yann LeCun", "Andrej Karpathy", "Dario Amodei", "Sam Altman", "Demis Hassabis", "Fei-Fei Li", "Ilya Sutskever", "Mira Murati", "Jensen Huang"],
     "frontier_broad": ["Nvidia", "Figure AI", "Tesla Optimus", "1X robot", "Boston Dynamics", "Humanoid robot", "Apple Vision Pro", "Meta Quest", "Spatial computing", "Meta Ray-Ban", "Suno", "Udio", "ElevenLabs", "Hugging Face", "open-source AI", "AGI", "superintelligence", "AI safety", "AI regulation", "Enterprise AI agents"],
     "social": ["Figma YouTube", "Vercel YouTube", "Matt Wolfe AI", "The AI Advantage", "Fireship AI", "DesignCourse", "AI design tutorial YouTube", "Midjourney Instagram", "Runway Instagram", "Awwwards", "design AI reel"],
-    "recently_covered_deprioritized": ["Kling (Kling 4.0 GA)", "Multimodal AI (Meshy Edit)", "Figma (design systems for agents, Make, code layers, Specs)", "Vibe coding / Design-to-code (UX Collective essays)", "Agentic AI (a11y agent skills)", "Adobe Firefly / Nvidia (RTX Spark)", "Krea (Krea 3)", "Cursor (cloud agent canvases)", "Flux (FLUX.3 Klein)"],
+    "recently_covered_deprioritized": ["Gemini (Gemini Notebook co-create)", "Flux (FLUX 3 Max video, FLUX.3 Klein)", "Stable Diffusion / Nvidia (ComfyUI RTX nodes)", "Model Context Protocol (Autograph MCP, Figma MCP partners)", "Agentic AI / Generative UI (WunderUI agentic design system, a11y agent skills)", "AI safety (AI-edited photo false memories)", "Kling (Kling 4.0 GA)", "Multimodal AI (Meshy Edit)", "Figma (design systems for agents, Make, code layers, Specs)", "Krea (Krea 3)", "Cursor (cloud agent canvases)"],
     "count": 83
   },
   "expansions": {
@@ -42,9 +42,9 @@
     "Higgsfield": ["Higgsfield Soul", "Higgsfield Popcorn"],
     "Kling": ["Kling 4.0 Flash", "Kling API"],
     "Runway": ["Runway Gen-4.5", "Runway Aleph", "Runway world model"],
-    "Sora": ["Sora 2", "OpenAI Sora app"],
+    "Sora": ["Sora 2", "OpenAI Sora app", "Sora sale talks"],
     "Midjourney": ["Midjourney V8", "Midjourney video", "Midjourney style reference"],
-    "Adobe Firefly": ["Firefly Image model", "Photoshop generative fill", "Firefly Boards", "Adobe MAX 2026"],
+    "Adobe Firefly": ["Firefly Image model", "Photoshop generative fill", "Firefly Boards", "Illustrator AI"],
     "Google Veo": ["Veo 3", "Google Flow", "Nano Banana", "Google Mixboard"],
     "Luma Dream Machine": ["Luma Ray3", "Luma AI"],
     "Pika": ["Pika Labs"],
@@ -62,7 +62,7 @@
     "Grok xAI": ["Grok Imagine"],
     "DeepSeek": ["DeepSeek model release", "Chinese open model"],
     "AI Agent": ["AI 에이전트", "computer-use agent", "browser agent"],
-    "Agentic AI": ["agentic workflow", "multi-agent", "agentic design system"],
+    "Agentic AI": ["agentic workflow", "multi-agent", "agentic creative pipeline"],
     "Physical AI": ["피지컬 AI", "Nvidia Cosmos", "robot foundation model"],
     "Embodied AI": ["embodied agent", "robot learning"],
     "World models": ["Genie 3", "World Labs Marble", "interactive 3D world generation"],
@@ -97,12 +97,12 @@
     "AI regulation": ["AI copyright designers", "EU AI Act transparency labels", "AI 저작권 디자이너"],
     "Enterprise AI agents": ["Microsoft Copilot agents", "Agentforce", "enterprise agent platform"],
     "Figma YouTube": ["Figma channel", "Config talk"],
-    "Vercel YouTube": ["v0 demo"],
+    "Vercel YouTube": ["v0 demo", "Vercel Ship talk"],
     "Matt Wolfe AI": ["Matt Wolfe AI news"],
     "The AI Advantage": ["AI Advantage tutorial"],
     "Fireship AI": ["Fireship code report"],
     "DesignCourse": ["Gary Simon AI UI"],
-    "AI design tutorial YouTube": ["Jesse Showalter", "AI Jason", "Two Minute Papers", "Theo t3.gg"],
+    "AI design tutorial YouTube": ["Two Minute Papers", "Theo t3.gg", "Adobe YouTube", "Jesse Showalter"],
     "Midjourney Instagram": ["instagram midjourney"],
     "Runway Instagram": ["instagram runwayapp"],
     "Awwwards": ["Awwwards AI site of the day"],
@@ -113,12 +113,11 @@
       "category": "figma",
       "keywords": ["AI Design Tool", "Figma", "Claude Design", "Claude Code", "v0 Vercel", "Framer AI", "Cursor", "Lovable", "Bolt", "Generative UI", "Design-to-code", "Vibe coding", "Model Context Protocol"],
       "queries": [
-        "Framer AI OR \"Framer Wireframer\" OR \"v0 design mode\" new feature October 2026",
-        "\"Claude Design\" OR \"Claude Code\" UI prototype designers new feature",
-        "Canva OR Penpot OR Sketch AI design feature launch October 2026",
-        "Bolt.new OR Lovable OR Anima OR Locofy design-to-code release",
-        "Figma Weave OR Buzz OR Sites AI update -\"design systems\" -\"code layers\"",
-        "생성형 UI 바이브 디자인 AI 디자인 툴 출시"
+        "\"Claude Design\" OR \"Claude Code\" designers prototype new feature October 2026",
+        "v0 OR Framer OR Lovable OR Bolt.new AI design release October 2026",
+        "Canva OR Penpot OR Sketch AI design feature launch",
+        "Figma Weave OR Buzz OR Draw OR Sites AI update -\"design systems\" -\"code layers\"",
+        "AI 디자인 툴 생성형 UI 바이브 디자인 출시"
       ],
       "allowed_domains": ["figma.com", "vercel.com", "builder.io", "logrocket.com", "uxdesign.cc", "dev.to", "creativebloq.com", "framer.com", "anthropic.com", "lovable.dev", "canva.com", "theverge.com"]
     },
@@ -128,19 +127,19 @@
       "queries": [
         "Midjourney V8 OR \"Midjourney video\" update October 2026",
         "Google Veo OR \"Google Flow\" OR \"Nano Banana\" OR Mixboard creators update",
-        "Runway OR \"Luma Ray3\" OR Pika new video model designers",
-        "Sora 2 OR Higgsfield OR \"Grok Imagine\" new creative feature",
-        "ComfyUI OR Stability AI OR \"Black Forest Labs\" OR \"Firefly Image\" model release",
+        "Runway OR \"Luma Ray3\" OR Pika OR Higgsfield new video model designers",
+        "Firefly OR Photoshop OR Illustrator new AI feature October 2026",
+        "Sora 2 OR \"Grok Imagine\" creative feature news -\"FLUX 3\"",
         "Blender OR KeyShot OR Omniverse AI rendering update cgchannel"
       ],
-      "allowed_domains": ["cgchannel.com", "keyshot.com", "80.lv", "fxguide.com", "nvidia.com", "engadget.com", "blog.adobe.com", "news.adobe.com", "blog.google", "theverge.com", "venturebeat.com", "creativebloq.com"]
+      "allowed_domains": ["cgchannel.com", "keyshot.com", "80.lv", "fxguide.com", "nvidia.com", "engadget.com", "blog.adobe.com", "news.adobe.com", "blog.google", "theverge.com", "venturebeat.com", "creativebloq.com", "petapixel.com"]
     },
     {
       "category": "cad",
       "keywords": ["Physical AI", "Embodied AI", "World models", "Multimodal AI", "Fei-Fei Li", "Yann LeCun", "Figure AI", "Tesla Optimus", "1X robot", "Boston Dynamics", "Humanoid robot"],
       "queries": [
         "text-to-CAD Autodesk Fusion OR Onshape OR Rhino OR Zoo OR Leo AI feature release",
-        "Tripo OR Hunyuan3D OR Rodin image-to-3D model release product design -Meshy",
+        "Tripo OR Hunyuan3D OR Rodin image-to-3D release product design -Meshy",
         "World Labs Marble OR Genie world model 3D scene generation designers",
         "humanoid robot industrial design Figure 03 OR 1X NEO OR Optimus OR Atlas",
         "AI 3D 생성 CAD 제품 디자인 피지컬 AI"
@@ -153,7 +152,7 @@
       "queries": [
         "design tokens AI tooling W3C DTCG release October 2026 -accessibility",
         "\"Stitch by Google\" OR \"Gemini Canvas\" UI generation update",
-        "Smashing Magazine OR css-tricks AI front-end design system tool",
+        "Smashing Magazine OR css-tricks AI front-end design system tool -WunderUI",
         "open-weight model Mistral OR DeepSeek OR Llama Hugging Face image UI designers"
       ],
       "allowed_domains": ["parallelhq.com", "mindstudio.ai", "smashingmagazine.com", "css-tricks.com", "dev.to", "huggingface.co", "blog.google"]
@@ -164,7 +163,7 @@
       "queries": [
         "visionOS Vision Pro AI spatial design app update October 2026",
         "Meta Quest Horizon OR Hyperscape OR \"Meta Ray-Ban Display\" AI creators",
-        "Galaxy XR Android XR spatial AI prototyping developers"
+        "Galaxy XR OR Android XR spatial AI prototyping developers"
       ],
       "allowed_domains": ["sgwdesignworks.com", "boston-engineering.com", "roadtovr.com", "uploadvr.com", "apple.com", "theverge.com", "engadget.com"]
     },
@@ -173,7 +172,7 @@
       "keywords": ["Design AX", "AI Workflow", "AI Agent", "Enterprise AI agents", "OpenAI", "ChatGPT", "Anthropic", "Sam Altman", "Dario Amodei", "Demis Hassabis", "Ilya Sutskever", "Mira Murati", "AGI", "superintelligence", "AI safety", "AI regulation", "Suno", "Udio", "ElevenLabs"],
       "queries": [
         "brand agency design team AI workflow case study October 2026",
-        "OpenAI OR ChatGPT OR Gemini new image design creative feature launch",
+        "OpenAI OR ChatGPT OR Anthropic new image design creative feature launch",
         "ElevenLabs OR Suno creative tool update designers",
         "Content Credentials C2PA OR AI copyright designers ruling October 2026",
         "디자인 AX 생성형 AI 디자이너 업무 사례"
@@ -184,13 +183,13 @@
       "category": "social",
       "keywords": ["Figma YouTube", "Vercel YouTube", "Matt Wolfe AI", "The AI Advantage", "Fireship AI", "DesignCourse", "AI design tutorial YouTube", "Midjourney Instagram", "Runway Instagram", "Awwwards", "design AI reel"],
       "queries": [
-        "site:youtube.com DesignCourse OR \"Jesse Showalter\" AI design 2026",
-        "site:youtube.com \"AI Jason\" OR \"Two Minute Papers\" OR \"Theo t3.gg\" AI design tools 2026",
+        "site:youtube.com \"Two Minute Papers\" OR \"Theo t3.gg\" AI design tools 2026",
         "site:youtube.com Figma OR Vercel AI design 2026",
-        "site:instagram.com awwwards OR figma AI"
+        "site:youtube.com Adobe AI design 2026",
+        "site:instagram.com figma OR vercel AI"
       ],
       "allowed_domains": ["youtube.com", "youtu.be", "instagram.com"]
     }
   ],
-  "wildcard": "trending AI creative design tool launch October 19-20 2026"
+  "wildcard": "trending AI creative design tool launch October 20-21 2026"
 }

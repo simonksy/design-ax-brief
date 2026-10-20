@@ -1,191 +1,669 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-premiere-enhance-stems",
+      "id": "movies-sekondo-chatgpt-claude-adobe",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Premiere 베타,\n타임라인서 대사 분리",
-      "body": "Premiere 베타 Enhance Audio가 타임라인에서 대사 스템을 나눈다.",
-      "mini_headline": "Premiere, 대사 스템 분리",
+      "headline": "ChatGPT·Claude\nPremiere 안으로",
+      "body": "Sekondo로 ChatGPT·Claude가 Adobe 프로젝트 안에서 일한다.",
+      "mini_headline": "Premiere 속 ChatGPT·Claude",
       "tool": "Movies",
-      "source": "ProVideo Coalition",
-      "url": "https://www.provideocoalition.com/stem-separation-moves-into-the-edit-what-enhance-audio-changes-for-dialogue-workflows-in-premiere-beta/",
+      "source": "Motionographer",
+      "url": "https://motionographer.com/news/sekondo-puts-chatgpt-and-claude-inside-after-effects-and-premiere-pro/",
       "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "Córdoba의 그래픽 디자이너 Jose Manuel Fernández가 플러그인 Sekondo를 내놓았다. ChatGPT와 Claude를 After Effects, Premiere Pro, Photoshop, Illustrator, InDesign, Lightroom Classic까지 Adobe 앱 여섯 개에 연결한다."
+          },
+          {
+            "t": "p",
+            "x": "AI가 새 이미지나 클립을 만들어 내지 않고 작가의 프로젝트 안에서 일한다. 원하는 작업을 글이나 말로 설명하면 레이어, 키프레임, 컴포지션, 타임라인에 바로 반영하며 모든 요소는 그대로 편집할 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "여느 스튜디오처럼 Fernández도 하루의 상당 부분을 반복 작업에 썼다. 한 작품을 스무 가지 포맷에 맞추고 버전을 뽑고 같은 하단 자막을 거듭 만드는 일이다. “필요한 일이지만, 아이디어를 구상하는 데 쓰고 싶은 시간을 몇 시간씩 잡아먹습니다. 디자인할 시간을 더 갖고 싶어서 Sekondo를 만들었습니다.”"
+          },
+          {
+            "t": "p",
+            "x": "Sekondo는 Premiere Pro와 After Effects에서 작가의 푸티지와 지시만으로 첫 컷부터 복잡한 모션까지 편집하고 애니메이션을 입혀 작품을 마무리한다. 손댈 수 없는 완성 클립을 내놓는 게 아니라 프로젝트 구조를 읽고 작업 전에 먼저 측정하며, 모든 레이어를 편집 가능한 상태로 둔다."
+          },
+          {
+            "t": "img",
+            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
+          },
+          {
+            "t": "p",
+            "x": "어디까지 맡길지는 작가 몫이다. 지시만 수행하게 해도 되고, 아이디어와 선택지를 내게 하거나 작가의 아이디어로 작품 전체를 만들게 해도 된다. 파일은 사용자 컴퓨터 밖으로 나가지 않는다."
+          },
+          {
+            "t": "p",
+            "x": "Sekondo는 Adobe 심사를 거쳐 이들 앱의 공식 마켓플레이스 Adobe Exchange에 올라 있다. macOS와 Windows에서 Claude, ChatGPT 데스크톱 앱과 함께 돌아간다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "ChatGPT and Claude move inside\nAfter Effects and Premiere",
+          "body": "Sekondo lets ChatGPT and Claude work inside an artist's own Adobe projects rather than generate new clips.",
+          "mini_headline": "ChatGPT and Claude in Premiere",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Córdoba-based graphic designer Jose Manuel Fernández has launched Sekondo, a plugin that connects ChatGPT and Claude to six Adobe applications: After Effects, Premiere Pro, Photoshop, Illustrator, InDesign and Lightroom Classic."
+              },
+              {
+                "t": "p",
+                "x": "Instead of generating new images or clips, the AI works inside the artist’s own project. You describe what you need, typed or spoken, and it applies the changes to your layers, keyframes, compositions and timelines, with everything left editable."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Like at any studio, a good part of Fernández’s day went into repetitive work: adapting a piece to twenty formats, versioning, building the same lower thirds again and again. “These tasks are necessary, but they eat up hours I’d rather spend thinking up an idea. I built Sekondo to have more time to design.”"
+              },
+              {
+                "t": "p",
+                "x": "In Premiere Pro and After Effects, Sekondo can edit, animate and finish complete pieces with the artist’s own footage and under their direction, from the first cut to complex motion. Rather than handing back a finished clip that can’t be changed, it reads how a project is built, measures before it acts and keeps every layer editable."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "The artist decides how far it goes: carrying out instructions, suggesting ideas and options, or building a whole piece from their idea. Files never leave the user’s computer."
+              },
+              {
+                "t": "p",
+                "x": "Sekondo is published on Adobe Exchange, Adobe’s official marketplace for these apps, after passing Adobe’s review. It runs on macOS and Windows with the Claude and ChatGPT desktop apps."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ChatGPT·Claude\nPremiere 안으로",
+          "body": "Sekondo로 ChatGPT·Claude가 Adobe 프로젝트 안에서 일한다.",
+          "mini_headline": "Premiere 속 ChatGPT·Claude",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Córdoba의 그래픽 디자이너 Jose Manuel Fernández가 플러그인 Sekondo를 내놓았다. ChatGPT와 Claude를 After Effects, Premiere Pro, Photoshop, Illustrator, InDesign, Lightroom Classic까지 Adobe 앱 여섯 개에 연결한다."
+              },
+              {
+                "t": "p",
+                "x": "AI가 새 이미지나 클립을 만들어 내지 않고 작가의 프로젝트 안에서 일한다. 원하는 작업을 글이나 말로 설명하면 레이어, 키프레임, 컴포지션, 타임라인에 바로 반영하며 모든 요소는 그대로 편집할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "여느 스튜디오처럼 Fernández도 하루의 상당 부분을 반복 작업에 썼다. 한 작품을 스무 가지 포맷에 맞추고 버전을 뽑고 같은 하단 자막을 거듭 만드는 일이다. “필요한 일이지만, 아이디어를 구상하는 데 쓰고 싶은 시간을 몇 시간씩 잡아먹습니다. 디자인할 시간을 더 갖고 싶어서 Sekondo를 만들었습니다.”"
+              },
+              {
+                "t": "p",
+                "x": "Sekondo는 Premiere Pro와 After Effects에서 작가의 푸티지와 지시만으로 첫 컷부터 복잡한 모션까지 편집하고 애니메이션을 입혀 작품을 마무리한다. 손댈 수 없는 완성 클립을 내놓는 게 아니라 프로젝트 구조를 읽고 작업 전에 먼저 측정하며, 모든 레이어를 편집 가능한 상태로 둔다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "어디까지 맡길지는 작가 몫이다. 지시만 수행하게 해도 되고, 아이디어와 선택지를 내게 하거나 작가의 아이디어로 작품 전체를 만들게 해도 된다. 파일은 사용자 컴퓨터 밖으로 나가지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "Sekondo는 Adobe 심사를 거쳐 이들 앱의 공식 마켓플레이스 Adobe Exchange에 올라 있다. macOS와 Windows에서 Claude, ChatGPT 데스크톱 앱과 함께 돌아간다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ChatGPT・Claude\nPremiereの中へ",
+          "body": "SekondoはChatGPTとClaudeをAdobeのプロジェクト内で働かせる。",
+          "mini_headline": "Premiere内のChatGPTとClaude",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Córdobaを拠点とするグラフィックデザイナーのJose Manuel Fernándezが、ChatGPTとClaudeをAfter Effects、Premiere Pro、Photoshop、Illustrator、InDesign、Lightroom Classicの六つのAdobeアプリにつなぐプラグイン「Sekondo」を公開した。"
+              },
+              {
+                "t": "p",
+                "x": "AIは新しい画像やクリップを生成するのではなく、作家自身のプロジェクトの中で作業する。必要なことを文字か音声で伝えると、レイヤー、キーフレーム、コンポジション、タイムラインに変更を加え、すべてを編集可能なまま残す。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "どのスタジオでもそうであるように、Fernándezの一日の多くは反復作業に費やされていた。一つの作品を二十のフォーマットに合わせ、バージョンを作り、同じロワーサードを何度も組む。「必要な作業ですが、アイデアを考えることに使いたい時間を何時間も奪っていきます。デザインする時間を増やすためにSekondoを作りました」"
+              },
+              {
+                "t": "p",
+                "x": "Premiere ProとAfter Effectsでは、Sekondoは作家自身の素材を使い、その指示のもとで、最初のカットから複雑なモーションまで、作品全体の編集、アニメーション、仕上げを行える。変更できない完成クリップを返すのではなく、プロジェクトの構造を読み取り、動く前に測り、すべてのレイヤーを編集可能に保つ。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "どこまで任せるかは作家が決める。指示の実行、アイデアや選択肢の提案、あるいは作家のアイデアから作品全体を組み立てることまでできる。ファイルがユーザーのコンピューターの外に出ることはない。"
+              },
+              {
+                "t": "p",
+                "x": "SekondoはAdobeの審査を通過し、これらのアプリ向けの公式マーケットプレイスであるAdobe Exchangeで公開されている。macOSとWindowsで、ClaudeおよびChatGPTのデスクトップアプリと組み合わせて動作する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ChatGPT与Claude\n进驻Premiere",
+          "body": "Sekondo让ChatGPT和Claude在Adobe项目里工作而非生成新片段。",
+          "mini_headline": "Premiere里的ChatGPT与Claude",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "常驻Córdoba的平面设计师Jose Manuel Fernández推出了插件Sekondo，可将ChatGPT和Claude接入六款Adobe应用：After Effects、Premiere Pro、Photoshop、Illustrator、InDesign和Lightroom Classic。"
+              },
+              {
+                "t": "p",
+                "x": "AI不生成新的图像或片段，而是在创作者自己的项目中工作。用户以文字或语音说明需求，它便将修改应用到图层、关键帧、合成和时间线上，一切都保持可编辑。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "和任何工作室一样，Fernández每天有相当一部分时间耗在重复性工作上：把一件作品适配成二十种格式、制作不同版本、一遍遍搭建同样的下方字幕条。“这些工作是必要的，但它们耗掉了我本想用来构思创意的好几个小时。我做Sekondo，是为了有更多时间做设计。”"
+              },
+              {
+                "t": "p",
+                "x": "在Premiere Pro和After Effects中，Sekondo可以使用创作者自己的素材、在其指导下，从初剪到复杂动态，完成整件作品的剪辑、动画与收尾。它不会交回一段无法修改的成片，而是读懂项目的搭建方式，先测量再动手，并让每个图层都保持可编辑。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "介入程度由创作者决定：执行指令、提出想法和选项，或根据其构想搭建整件作品。文件始终不会离开用户的电脑。"
+              },
+              {
+                "t": "p",
+                "x": "Sekondo通过Adobe审核后，已上架Adobe为这些应用设立的官方市场Adobe Exchange。它可在macOS和Windows上配合Claude与ChatGPT桌面应用运行。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "ChatGPT y Claude entran en\nAfter Effects y Premiere",
+          "body": "Sekondo permite que ChatGPT y Claude trabajen en los proyectos de Adobe de un artista en vez de generar clips.",
+          "mini_headline": "ChatGPT y Claude en Premiere",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "El diseñador gráfico Jose Manuel Fernández, radicado en Córdoba, lanzó Sekondo, un plugin que conecta ChatGPT y Claude con seis aplicaciones de Adobe: After Effects, Premiere Pro, Photoshop, Illustrator, InDesign y Lightroom Classic."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de generar imágenes o clips nuevos, la IA trabaja dentro del propio proyecto del artista. Se describe lo que se necesita, por escrito o de viva voz, y la herramienta aplica los cambios en capas, fotogramas clave, composiciones y líneas de tiempo, y todo queda editable."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Como en cualquier estudio, buena parte de la jornada de Fernández se iba en trabajo repetitivo: adaptar una pieza a veinte formatos, versionar, construir los mismos rótulos inferiores una y otra vez. “Estas tareas son necesarias, pero se comen horas que preferiría dedicar a pensar una idea. Creé Sekondo para tener más tiempo para diseñar.”"
+              },
+              {
+                "t": "p",
+                "x": "En Premiere Pro y After Effects, Sekondo puede editar, animar y terminar piezas completas con el material del propio artista y bajo su dirección, desde el primer corte hasta la animación compleja. En lugar de devolver un clip terminado que no se puede modificar, lee cómo está construido el proyecto, mide antes de actuar y mantiene editable cada capa."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "El artista decide hasta dónde llega: ejecutar instrucciones, sugerir ideas y opciones o construir una pieza entera a partir de su idea. Los archivos nunca salen del equipo del usuario."
+              },
+              {
+                "t": "p",
+                "x": "Sekondo está publicado en Adobe Exchange, el mercado oficial de Adobe para estas aplicaciones, tras superar la revisión de Adobe. Funciona en macOS y Windows con las aplicaciones de escritorio de Claude y ChatGPT."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "ChatGPT·Claude\nPremiere 안으로",
+          "body": "Sekondo는 ChatGPT·Claude가 Adobe 프로젝트에서 일하게 한다.",
+          "mini_headline": "Premiere 속 ChatGPT·Claude",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Córdoba의 그래픽 디자이너 Jose Manuel Fernández가 ChatGPT와 Claude를 Adobe 앱 여섯 개, 곧 After Effects, Premiere Pro, Photoshop, Illustrator, InDesign, Lightroom Classic에 연결하는 플러그인 Sekondo를 내놓았다."
+              },
+              {
+                "t": "p",
+                "x": "AI는 새 이미지나 클립을 생성하는 대신 작가 자신의 프로젝트 안에서 일한다. 필요한 작업을 글이나 말로 설명하면 레이어, 키프레임, 컴포지션, 타임라인에 변경을 적용하고, 모든 요소는 편집 가능한 상태로 남는다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "여느 스튜디오처럼 Fernández의 하루도 상당 부분 반복 작업에 들어갔다. 한 작품을 스무 가지 포맷에 맞추고, 버전을 만들고, 같은 하단 자막을 거듭 만드는 일이다. “필요한 일이지만, 아이디어를 구상하는 데 쓰고 싶은 시간을 몇 시간씩 잡아먹습니다. 디자인할 시간을 더 갖고 싶어서 Sekondo를 만들었습니다.”"
+              },
+              {
+                "t": "p",
+                "x": "Premiere Pro와 After Effects에서 Sekondo는 작가 자신의 푸티지로, 작가의 지시에 따라 첫 컷부터 복잡한 모션까지 완성된 작품을 편집하고 애니메이션을 입혀 마무리할 수 있다. 수정할 수 없는 완성 클립을 내놓는 대신 프로젝트의 구조를 읽고, 작업 전에 먼저 측정하며, 모든 레이어를 편집 가능한 상태로 유지한다."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "어디까지 맡길지는 작가가 정한다. 지시를 수행하게 할 수도, 아이디어와 선택지를 제안하게 할 수도, 작가의 아이디어로 작품 전체를 만들게 할 수도 있다. 파일은 사용자의 컴퓨터를 벗어나지 않는다."
+              },
+              {
+                "t": "p",
+                "x": "Sekondo는 Adobe의 심사를 통과해 이들 앱의 공식 마켓플레이스인 Adobe Exchange에 올라 있다. macOS와 Windows에서 Claude 및 ChatGPT 데스크톱 앱과 함께 작동한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ChatGPT・Claude\nPremiereの中へ",
+          "body": "SekondoはChatGPTとClaudeをAdobeのプロジェクト内で働かせる。",
+          "mini_headline": "Premiere内のChatGPTとClaude",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Córdobaを拠点とするグラフィックデザイナーのJose Manuel Fernándezが、ChatGPTとClaudeをAfter Effects、Premiere Pro、Photoshop、Illustrator、InDesign、Lightroom Classicの六つのAdobeアプリにつなぐプラグイン「Sekondo」を公開した。"
+              },
+              {
+                "t": "p",
+                "x": "AIは新しい画像やクリップを生成するのではなく、作家自身のプロジェクトの中で作業する。必要なことを文字か音声で伝えると、レイヤー、キーフレーム、コンポジション、タイムラインに変更を加え、すべてを編集可能なまま残す。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "どのスタジオでもそうであるように、Fernándezの一日の多くは反復作業に費やされていた。一つの作品を二十のフォーマットに合わせ、バージョンを作り、同じロワーサードを何度も組む。「必要な作業ですが、アイデアを考えることに使いたい時間を何時間も奪っていきます。デザインする時間を増やすためにSekondoを作りました」"
+              },
+              {
+                "t": "p",
+                "x": "Premiere ProとAfter Effectsでは、Sekondoは作家自身の素材を使い、その指示のもとで、最初のカットから複雑なモーションまで、作品全体の編集、アニメーション、仕上げを行える。変更できない完成クリップを返すのではなく、プロジェクトの構造を読み取り、動く前に測り、すべてのレイヤーを編集可能に保つ。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "どこまで任せるかは作家が決める。指示の実行、アイデアや選択肢の提案、あるいは作家のアイデアから作品全体を組み立てることまでできる。ファイルがユーザーのコンピューターの外に出ることはない。"
+              },
+              {
+                "t": "p",
+                "x": "SekondoはAdobeの審査を通過し、これらのアプリ向けの公式マーケットプレイスであるAdobe Exchangeで公開されている。macOSとWindowsで、ClaudeおよびChatGPTのデスクトップアプリと組み合わせて動作する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ChatGPT与Claude\n进驻Premiere",
+          "body": "Sekondo让ChatGPT和Claude在Adobe项目里工作而非生成新片段。",
+          "mini_headline": "Premiere里的ChatGPT与Claude",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "常驻Córdoba的平面设计师Jose Manuel Fernández推出了插件Sekondo，可将ChatGPT和Claude接入六款Adobe应用：After Effects、Premiere Pro、Photoshop、Illustrator、InDesign和Lightroom Classic。"
+              },
+              {
+                "t": "p",
+                "x": "AI不生成新的图像或片段，而是在创作者自己的项目中工作。用户以文字或语音说明需求，它便将修改应用到图层、关键帧、合成和时间线上，一切都保持可编辑。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "和任何工作室一样，Fernández每天有相当一部分时间耗在重复性工作上：把一件作品适配成二十种格式、制作不同版本、一遍遍搭建同样的下方字幕条。“这些工作是必要的，但它们耗掉了我本想用来构思创意的好几个小时。我做Sekondo，是为了有更多时间做设计。”"
+              },
+              {
+                "t": "p",
+                "x": "在Premiere Pro和After Effects中，Sekondo可以使用创作者自己的素材、在其指导下，从初剪到复杂动态，完成整件作品的剪辑、动画与收尾。它不会交回一段无法修改的成片，而是读懂项目的搭建方式，先测量再动手，并让每个图层都保持可编辑。"
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "介入程度由创作者决定：执行指令、提出想法和选项，或根据其构想搭建整件作品。文件始终不会离开用户的电脑。"
+              },
+              {
+                "t": "p",
+                "x": "Sekondo通过Adobe审核后，已上架Adobe为这些应用设立的官方市场Adobe Exchange。它可在macOS和Windows上配合Claude与ChatGPT桌面应用运行。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "ChatGPT y Claude entran en\nAfter Effects y Premiere",
+          "body": "Sekondo permite que ChatGPT y Claude trabajen en los proyectos de Adobe de un artista en vez de generar clips.",
+          "mini_headline": "ChatGPT y Claude en Premiere",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "El diseñador gráfico Jose Manuel Fernández, radicado en Córdoba, lanzó Sekondo, un plugin que conecta ChatGPT y Claude con seis aplicaciones de Adobe: After Effects, Premiere Pro, Photoshop, Illustrator, InDesign y Lightroom Classic."
+              },
+              {
+                "t": "p",
+                "x": "En lugar de generar imágenes o clips nuevos, la IA trabaja dentro del propio proyecto del artista. Se describe lo que se necesita, por escrito o de viva voz, y la herramienta aplica los cambios en capas, fotogramas clave, composiciones y líneas de tiempo, y todo queda editable."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "Como en cualquier estudio, buena parte de la jornada de Fernández se iba en trabajo repetitivo: adaptar una pieza a veinte formatos, versionar, construir los mismos rótulos inferiores una y otra vez. “Estas tareas son necesarias, pero se comen horas que preferiría dedicar a pensar una idea. Creé Sekondo para tener más tiempo para diseñar.”"
+              },
+              {
+                "t": "p",
+                "x": "En Premiere Pro y After Effects, Sekondo puede editar, animar y terminar piezas completas con el material del propio artista y bajo su dirección, desde el primer corte hasta la animación compleja. En lugar de devolver un clip terminado que no se puede modificar, lee cómo está construido el proyecto, mide antes de actuar y mantiene editable cada capa."
+              },
+              {
+                "t": "img",
+                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
+              },
+              {
+                "t": "p",
+                "x": "El artista decide hasta dónde llega: ejecutar instrucciones, sugerir ideas y opciones o construir una pieza entera a partir de su idea. Los archivos nunca salen del equipo del usuario."
+              },
+              {
+                "t": "p",
+                "x": "Sekondo está publicado en Adobe Exchange, el mercado oficial de Adobe para estas aplicaciones, tras superar la revisión de Adobe. Funciona en macOS y Windows con las aplicaciones de escritorio de Claude y ChatGPT."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "movies-wga-east-cloak-ai-shield",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "WGA East·Cloak\n손잡고 AI 학습 차단",
+      "body": "WGA East가 AI 모델이 대본을 못 읽게 막는 Cloak과 손잡았다.",
+      "mini_headline": "WGA East, Cloak 도입",
+      "tool": "Movies",
+      "source": "IndieWire",
+      "url": "https://www.indiewire.com/news/business/wga-east-blocking-ai-models-training-scripts-1235222871/",
+      "accent": "#f5a623",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
+            "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
+            "cap": "2023년 Warner Bros. Studio 앞, 'Humanity vs. AI'라고 적힌 WGA 피켓. Getty Images"
           },
           {
             "t": "p",
-            "x": "현장 오디오가 고르게 들어오는 일은 드물다. 공간이 다른 곳에서 녹음한 라발리에와 붐 마이크, 수시로 바뀌는 환경음, 장면에 섞여 버린 배경 음악까지. Premiere 베타의 Enhance Audio는 대사·음악·환경음·효과음·잔향을 한 번에 갈라내고 편집자는 타임라인 안에서 그 하나하나를 조절한다."
+            "x": "Writers Guild of America, East가 화요일, 회원 작품이 AI 모델 학습에 쓰이지 않게 돕는 파트너십을 공개했다. 사람은 읽어도 AI 모델은 읽지 못하는 파일 사본을 만들어 주는 Cloak을 노조 복지 프로그램의 하나로 WGAE 회원에게 무료로 제공한다."
           },
           {
             "t": "p",
-            "x": "대사에는 따로 볼륨과 Enhancement 강도, 목소리에서만 공간감을 걷어 내는 Reverb 조절이 붙는다. 음악·환경음·효과음에는 각각 볼륨과 음소거가 달린다. 소스 분리는 기기 안에서 돈다. 음성 향상에는 완전히 로컬에서 처리하는 Enhance Speech V1이나, Firefly를 거쳐 클라우드에서 처리하는 Adobe 최고 품질 음성 모델 V2를 쓴다."
+            "x": "WGA East 회장 Tom Fontana는 “회원들은 프로듀서나 에이전트에게 작품을 보낸 뒤 그 작품이 AI 모델 학습에 쓰일까 걱정하지 않아도 된다”고 말했다. 비회원도 조합 웹사이트에서 대본을 등록하면서 $10를 내면 Cloak을 붙일 수 있다."
           },
           {
             "t": "p",
-            "x": "향상 처리마다 앞뒤로 다섯 초씩 핸들이 붙는다. 그래서 컷·페이드·트림을 해도 다시 렌더링할 일이 없다. 핸들 너머로 늘리면 새로 늘어난 구간만 처리하는데, V2는 이때 분당 생성 크레딧이 두 개 들고 V1은 비용이 없다."
+            "x": "창업자 Rishi Ambavanekar는 원치 않는 AI 학습과 AI 노트, 분석에 맞서 “작가에게 주도권을 돌려주기 위해” Cloak을 만들었다고 했다. 이번 파트너십은 조합 AI Task Force에서 나왔다."
           },
           {
             "t": "p",
-            "x": "Split to Clips를 쓰면 대사·음악·환경음·효과음이 각기 다른 클립으로 타임라인에 올라가 턴오버에 바로 쓸 수 있다. 다만 필자는 분리가 믹스를 끝내 주지는 않는다고 짚는다. 분리는 믹스의 끝이 아니라 시작이다."
+            "x": "Cloak은 2025년 9월 세워졌고 Andreessen Horowitz의 Speedrun 액셀러레이터와 University of Pennsylvania가 뒤를 받친다. 회사 웹사이트는 테스트해 보니 Claude, Gemini, ChatGPT 모델뿐 아니라 Google Drive, Gmail, Adobe Acrobat의 자동 요약에도 “효과적”이었다고 주장한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Premiere beta splits dialogue\nstems inside the timeline",
-          "body": "Premiere's beta Enhance Audio splits speech, music, ambience and effects into stems in the timeline, cutting handoffs before the mix.",
-          "mini_headline": "Premiere splits dialogue stems",
+          "headline": "WGA East partners with Cloak\nto block AI training",
+          "body": "The Writers Guild of America East is partnering with Cloak, software that makes scripts unreadable to AI models.",
+          "mini_headline": "WGA East adopts Cloak",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
+                "cap": "A WGA sign reads 'Humanity vs. AI' outside Warner Bros. Studio in 2023. Getty Images"
               },
               {
                 "t": "p",
-                "x": "Location audio often arrives uneven: lavs and booms from different rooms, shifting ambience, a music bed baked into a scene. Enhance Audio, in the Premiere beta, separates speech, music, ambience, sound effects and reverb in a single pass and gives the editor a control for each, in the timeline."
+                "x": "The Writers Guild of America, East unveiled a partnership on Tuesday to help prevent AI models from training on its members’ work. Cloak, which creates copies of files that are illegible to AI models but readable for humans, will be free to WGAE members as part of the union’s benefits program."
               },
               {
                 "t": "p",
-                "x": "Dialogue gets its own volume, an Enhancement amount and a Reverb control that takes the room off the voice only; music, ambience and effects each get a volume and a mute. Source separation runs on-device. Voice enhancement uses Enhance Speech V1, fully local, or V2, Adobe's highest-quality voice model, in the cloud through Firefly."
+                "x": "“Members don’t need to worry that their work will be used to train AI models after they send it to producers or agents,” WGA East president Tom Fontana said. Non-members can add Cloak for $10 when registering a script through the guild’s website."
               },
               {
                 "t": "p",
-                "x": "Each enhancement carries five seconds of handles per side, and cuts, fades and trims no longer trigger a re-render. Extending past the handles processes only the new section; on V2 that draws two generative credits per minute, while V1 costs nothing."
+                "x": "Founder Rishi Ambavanekar said he built Cloak “to give agency back to writers” against unwanted AI training, AI notes and analysis. The partnership comes out of the guild’s AI Task Force."
               },
               {
                 "t": "p",
-                "x": "Split to Clips places speech, music, ambience and effects on the timeline as separate clips for turnover. The author's caveat: separation does not finish a mix. Treat it as the start of the mix, not the end."
+                "x": "Founded in September 2025, Cloak is backed by Andreessen Horowitz’s Speedrun accelerator and the University of Pennsylvania. Its website claims tests proved “effective” against Claude, Gemini and ChatGPT models, and against automated summaries in Google Drive, Gmail and Adobe Acrobat."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Premiere 베타,\n타임라인서 대사 분리",
-          "body": "Premiere 베타 Enhance Audio가 타임라인에서 대사 스템을 나눈다.",
-          "mini_headline": "Premiere, 대사 스템 분리",
+          "headline": "WGA East·Cloak\n손잡고 AI 학습 차단",
+          "body": "WGA East가 AI 모델이 대본을 못 읽게 막는 Cloak과 손잡았다.",
+          "mini_headline": "WGA East, Cloak 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
+                "cap": "2023년 Warner Bros. Studio 앞, 'Humanity vs. AI'라고 적힌 WGA 피켓. Getty Images"
               },
               {
                 "t": "p",
-                "x": "현장 오디오가 고르게 들어오는 일은 드물다. 공간이 다른 곳에서 녹음한 라발리에와 붐 마이크, 수시로 바뀌는 환경음, 장면에 섞여 버린 배경 음악까지. Premiere 베타의 Enhance Audio는 대사·음악·환경음·효과음·잔향을 한 번에 갈라내고 편집자는 타임라인 안에서 그 하나하나를 조절한다."
+                "x": "Writers Guild of America, East가 화요일, 회원 작품이 AI 모델 학습에 쓰이지 않게 돕는 파트너십을 공개했다. 사람은 읽어도 AI 모델은 읽지 못하는 파일 사본을 만들어 주는 Cloak을 노조 복지 프로그램의 하나로 WGAE 회원에게 무료로 제공한다."
               },
               {
                 "t": "p",
-                "x": "대사에는 따로 볼륨과 Enhancement 강도, 목소리에서만 공간감을 걷어 내는 Reverb 조절이 붙는다. 음악·환경음·효과음에는 각각 볼륨과 음소거가 달린다. 소스 분리는 기기 안에서 돈다. 음성 향상에는 완전히 로컬에서 처리하는 Enhance Speech V1이나, Firefly를 거쳐 클라우드에서 처리하는 Adobe 최고 품질 음성 모델 V2를 쓴다."
+                "x": "WGA East 회장 Tom Fontana는 “회원들은 프로듀서나 에이전트에게 작품을 보낸 뒤 그 작품이 AI 모델 학습에 쓰일까 걱정하지 않아도 된다”고 말했다. 비회원도 조합 웹사이트에서 대본을 등록하면서 $10를 내면 Cloak을 붙일 수 있다."
               },
               {
                 "t": "p",
-                "x": "향상 처리마다 앞뒤로 다섯 초씩 핸들이 붙는다. 그래서 컷·페이드·트림을 해도 다시 렌더링할 일이 없다. 핸들 너머로 늘리면 새로 늘어난 구간만 처리하는데, V2는 이때 분당 생성 크레딧이 두 개 들고 V1은 비용이 없다."
+                "x": "창업자 Rishi Ambavanekar는 원치 않는 AI 학습과 AI 노트, 분석에 맞서 “작가에게 주도권을 돌려주기 위해” Cloak을 만들었다고 했다. 이번 파트너십은 조합 AI Task Force에서 나왔다."
               },
               {
                 "t": "p",
-                "x": "Split to Clips를 쓰면 대사·음악·환경음·효과음이 각기 다른 클립으로 타임라인에 올라가 턴오버에 바로 쓸 수 있다. 다만 필자는 분리가 믹스를 끝내 주지는 않는다고 짚는다. 분리는 믹스의 끝이 아니라 시작이다."
+                "x": "Cloak은 2025년 9월 세워졌고 Andreessen Horowitz의 Speedrun 액셀러레이터와 University of Pennsylvania가 뒤를 받친다. 회사 웹사이트는 테스트해 보니 Claude, Gemini, ChatGPT 모델뿐 아니라 Google Drive, Gmail, Adobe Acrobat의 자동 요약에도 “효과적”이었다고 주장한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Premiereベータ版\nタイムラインで台詞分離",
-          "body": "PremiereベータのEnhance Audioが、台詞や音楽、効果音をステムに分ける。",
-          "mini_headline": "Premiereが台詞ステムを分離",
+          "headline": "WGA EastとCloak\nAI学習を阻む提携",
+          "body": "WGA Eastが脚本をAIモデルに読めなくするソフトCloakと提携した。",
+          "mini_headline": "WGA EastがCloakを導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
+                "cap": "2023年、Warner Bros. Studioの前に掲げられた「Humanity vs. AI」と書かれたWGAのプラカード。Getty Images"
               },
               {
                 "t": "p",
-                "x": "ロケ音声は不揃いで届くことが多い。別々の部屋で収録したピンマイクとブームマイク、移り変わる環境音、シーンに焼き込まれた音楽などだ。PremiereベータのEnhance Audioは、台詞、音楽、環境音、効果音、残響を一度の処理で分離し、それぞれのコントロールをタイムライン上で編集者に渡す。"
+                "x": "Writers Guild of America, Eastは火曜日、会員の作品がAIモデルの学習に使われるのを防ぐための提携を発表した。AIモデルには判読できないが人間には読めるファイルのコピーを作るCloakが、組合の福利厚生プログラムの一環としてWGAE会員に無料で提供される。"
               },
               {
                 "t": "p",
-                "x": "台詞には専用の音量、Enhancementの量、声からだけ部屋の響きを取り除くReverbコントロールが付く。音楽、環境音、効果音にはそれぞれ音量とミュートがある。ソース分離はデバイス上で動く。音声強化には、完全にローカルで動くEnhance Speech V1か、Firefly経由のクラウドで動くAdobe最高品質の音声モデルV2を使う。"
+                "x": "WGA East会長のTom Fontanaは「会員は、プロデューサーやエージェントに作品を送った後、それがAIモデルの学習に使われる心配をしなくてよい」と述べた。非会員は、組合のウェブサイトで脚本を登録する際に$10でCloakを追加できる。"
               },
               {
                 "t": "p",
-                "x": "各強化処理には前後それぞれ五秒のハンドルが付き、カット、フェード、トリムで再レンダリングが走らなくなった。ハンドルを越えて延ばすと新しい区間だけを処理する。V2ではその際に毎分二つの生成クレジットを消費し、V1は無料だ。"
+                "x": "創業者のRishi Ambavanekarは、望まないAI学習やAIによるノート、分析に対して「書き手に主体性を取り戻す」ためにCloakを作ったと語った。今回の提携は組合のAI Task Forceから生まれた。"
               },
               {
                 "t": "p",
-                "x": "Split to Clipsは、台詞、音楽、環境音、効果音を別々のクリップとしてタイムラインに並べ、ターンオーバーに使えるようにする。筆者の注意点は、分離でミックスが仕上がるわけではないということだ。ミックスの終わりではなく、始まりとして扱うべきである。"
+                "x": "2025年9月に設立されたCloakは、Andreessen HorowitzのアクセラレーターSpeedrunとUniversity of Pennsylvaniaの支援を受けている。同社のウェブサイトは、Claude、Gemini、ChatGPTの各モデルに加え、Google Drive、Gmail、Adobe Acrobatの自動要約に対しても、テストで「効果的」だと証明されたとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Premiere测试版\n时间线内拆分对白",
-          "body": "Premiere测试版的Enhance Audio可在时间线中把对白、音乐等拆成分轨。",
-          "mini_headline": "Premiere拆分对白分轨",
+          "headline": "WGA East与Cloak\n联手阻止AI训练",
+          "body": "WGA East与Cloak合作，该软件能让剧本无法被AI模型读取。",
+          "mini_headline": "WGA East采用Cloak",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
+                "cap": "2023年，Warner Bros. Studio外一块写着“Humanity vs. AI”的WGA标牌。Getty Images"
               },
               {
                 "t": "p",
-                "x": "外景录音常常参差不齐：不同房间里的领夹麦和枪麦、不断变化的环境声、混进场景里的背景音乐。Premiere测试版中的Enhance Audio可一次性分离对白、音乐、环境声、音效和混响，并在时间线上为剪辑师提供逐项控制。"
+                "x": "Writers Guild of America, East周二公布一项合作，帮助防止AI模型用会员作品进行训练。Cloak可生成AI模型无法识读、但人类可以阅读的文件副本，将作为工会福利计划的一部分免费提供给WGAE会员。"
               },
               {
                 "t": "p",
-                "x": "对白有独立的音量、Enhancement强度，以及只去除人声房间感的Reverb控制；音乐、环境声和音效则各有音量和静音。音源分离在设备端运行。人声增强可选完全本地运行的Enhance Speech V1，或通过Firefly在云端运行的V2，即Adobe质量最高的人声模型。"
+                "x": "WGA East主席Tom Fontana表示：“会员把作品发给制片人或经纪人之后，不必再担心作品被用来训练AI模型。”非会员通过工会网站登记剧本时，可支付$10加购Cloak。"
               },
               {
                 "t": "p",
-                "x": "每次增强两侧各带五秒手柄，剪切、淡入淡出和修剪不再触发重新渲染。延伸超出手柄时只处理新增部分；使用V2时每分钟消耗两个生成积分，V1则不收费。"
+                "x": "创始人Rishi Ambavanekar表示，他打造Cloak是为了在面对不受欢迎的AI训练、AI笔记和分析时“把主动权还给编剧”。此次合作源自工会的AI Task Force。"
               },
               {
                 "t": "p",
-                "x": "Split to Clips会把对白、音乐、环境声和音效作为独立片段放到时间线上，便于交接。作者提醒：分离并不能完成混音。应把它当作混音的开始，而不是终点。"
+                "x": "Cloak成立于2025年9月，获得Andreessen Horowitz旗下Speedrun加速器和University of Pennsylvania的支持。其网站称，测试证明它对Claude、Gemini和ChatGPT模型，以及Google Drive、Gmail和Adobe Acrobat中的自动摘要均“有效”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La beta de Premiere separa\nstems de diálogo en el timeline",
-          "body": "Enhance Audio, en la beta de Premiere, separa voz, música, ambiente y efectos en stems en el timeline.",
-          "mini_headline": "Premiere separa stems de diálogo",
+          "headline": "WGA East se alía con Cloak\ncontra el entrenamiento de IA",
+          "body": "El Writers Guild of America East se asocia con Cloak, un programa que hace ilegibles los guiones para modelos de IA.",
+          "mini_headline": "WGA East adopta Cloak",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
+                "cap": "Un cartel de la WGA con el lema 'Humanity vs. AI' frente a Warner Bros. Studio en 2023. Getty Images"
               },
               {
                 "t": "p",
-                "x": "El audio de rodaje suele llegar desigual: lavalieres y micrófonos de pértiga de salas distintas, ambiente cambiante, una música de fondo incrustada en la escena. Enhance Audio, en la beta de Premiere, separa voz, música, ambiente, efectos de sonido y reverberación en una sola pasada y da al editor un control para cada uno, en el timeline."
+                "x": "El Writers Guild of America, East presentó el martes una alianza para ayudar a impedir que los modelos de IA se entrenen con el trabajo de sus miembros. Cloak, que crea copias de archivos ilegibles para los modelos de IA pero legibles para las personas, será gratuito para los miembros del WGAE como parte del programa de beneficios del sindicato."
               },
               {
                 "t": "p",
-                "x": "El diálogo tiene su propio volumen, una cantidad de Enhancement y un control de Reverb que quita la sala solo de la voz; música, ambiente y efectos tienen cada uno volumen y silencio. La separación de fuentes se ejecuta en el dispositivo. La mejora de voz usa Enhance Speech V1, totalmente local, o V2, el modelo de voz de mayor calidad de Adobe, en la nube a través de Firefly."
+                "x": "“Los miembros no tienen que preocuparse de que su trabajo se use para entrenar modelos de IA después de enviarlo a productores o agentes”, dijo Tom Fontana, presidente del WGA East. Quienes no son miembros pueden añadir Cloak por $10 al registrar un guion en el sitio web del sindicato."
               },
               {
                 "t": "p",
-                "x": "Cada mejora lleva cinco segundos de margen por lado, y los cortes, fundidos y recortes ya no obligan a volver a renderizar. Al extender más allá del margen solo se procesa la parte nueva; en V2 eso consume dos créditos generativos por minuto, mientras que V1 no cuesta nada."
+                "x": "Su fundador, Rishi Ambavanekar, dijo que creó Cloak “para devolver la capacidad de decisión a los guionistas” frente al entrenamiento de IA no deseado y a las notas y análisis hechos con IA. La alianza surge del AI Task Force del sindicato."
               },
               {
                 "t": "p",
-                "x": "Split to Clips coloca voz, música, ambiente y efectos en el timeline como clips separados para la entrega. La advertencia del autor: la separación no termina una mezcla. Hay que tratarla como el inicio de la mezcla, no como el final."
+                "x": "Fundada en septiembre de 2025, Cloak cuenta con el respaldo de la aceleradora Speedrun de Andreessen Horowitz y de la University of Pennsylvania. Su sitio web asegura que las pruebas demostraron que es “eficaz” frente a los modelos Claude, Gemini y ChatGPT, y frente a los resúmenes automáticos de Google Drive, Gmail y Adobe Acrobat."
               }
             ]
           }
@@ -193,121 +671,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Premiere 베타,\n타임라인서 대사 분리",
-          "body": "Premiere 베타 Enhance Audio가 타임라인에서 대사 스템을 나눈다.",
-          "mini_headline": "Premiere, 대사 스템 분리",
+          "headline": "WGA East·Cloak\n손잡고 AI 학습 차단",
+          "body": "WGA East가 대본을 AI 모델이 읽지 못하게 하는 Cloak과 손잡았다.",
+          "mini_headline": "WGA East, Cloak 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
+                "cap": "2023년 Warner Bros. Studio 앞, 'Humanity vs. AI'라고 적힌 WGA 피켓. Getty Images"
               },
               {
                 "t": "p",
-                "x": "현장 오디오는 고르지 않게 들어오기 일쑤다. 서로 다른 공간에서 녹음한 라발리에와 붐 마이크, 계속 바뀌는 환경음, 장면에 섞여 버린 배경 음악이 그렇다. Premiere 베타의 Enhance Audio는 대사, 음악, 환경음, 효과음, 잔향을 한 번에 분리하고, 편집자가 타임라인 안에서 각각을 조절할 수 있게 한다."
+                "x": "Writers Guild of America, East가 화요일 회원들의 작품이 AI 모델 학습에 쓰이지 않도록 돕는 파트너십을 공개했다. AI 모델은 읽을 수 없지만 사람은 읽을 수 있는 파일 사본을 만드는 Cloak을 노조 복지 프로그램의 하나로 WGAE 회원에게 무료로 제공한다."
               },
               {
                 "t": "p",
-                "x": "대사에는 별도의 볼륨, Enhancement 강도, 그리고 목소리에서만 공간감을 걷어 내는 Reverb 조절이 붙는다. 음악, 환경음, 효과음에는 각각 볼륨과 음소거가 있다. 소스 분리는 기기에서 실행된다. 음성 향상은 완전히 로컬에서 도는 Enhance Speech V1, 또는 Firefly를 거쳐 클라우드에서 도는 Adobe 최고 품질의 음성 모델 V2를 쓴다."
+                "x": "WGA East 회장 Tom Fontana는 “회원들은 프로듀서나 에이전트에게 작품을 보낸 뒤 그 작품이 AI 모델 학습에 쓰일까 걱정하지 않아도 된다”고 말했다. 비회원은 조합 웹사이트에서 대본을 등록할 때 $10를 내고 Cloak을 추가할 수 있다."
               },
               {
                 "t": "p",
-                "x": "향상 처리마다 앞뒤로 다섯 초씩 핸들이 붙어, 컷·페이드·트림을 해도 다시 렌더링하지 않는다. 핸들을 넘겨 늘리면 새로 늘어난 구간만 처리한다. V2에서는 이때 분당 생성 크레딧 두 개가 들고, V1은 비용이 없다."
+                "x": "창업자 Rishi Ambavanekar는 원치 않는 AI 학습, AI 노트, 분석에 맞서 “작가에게 주도권을 돌려주기 위해” Cloak을 만들었다고 밝혔다. 이번 파트너십은 조합의 AI Task Force에서 나왔다."
               },
               {
                 "t": "p",
-                "x": "Split to Clips는 대사, 음악, 환경음, 효과음을 별도 클립으로 타임라인에 올려 턴오버에 쓰게 한다. 필자는 분리가 믹스를 끝내 주지는 않는다고 짚는다. 믹스의 끝이 아니라 시작으로 봐야 한다."
+                "x": "2025년 9월 설립된 Cloak은 Andreessen Horowitz의 Speedrun 액셀러레이터와 University of Pennsylvania의 지원을 받는다. 회사 웹사이트는 테스트 결과 Claude, Gemini, ChatGPT 모델은 물론 Google Drive, Gmail, Adobe Acrobat의 자동 요약에도 “효과적”이었다고 주장한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Premiereベータ版\nタイムラインで台詞分離",
-          "body": "PremiereベータのEnhance Audioが、台詞や音楽、効果音をステムに分ける。",
-          "mini_headline": "Premiereが台詞ステムを分離",
+          "headline": "WGA EastとCloak\nAI学習を阻む提携",
+          "body": "WGA Eastが脚本をAIモデルに読めなくするソフトCloakと提携した。",
+          "mini_headline": "WGA EastがCloakを導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
+                "cap": "2023年、Warner Bros. Studioの前に掲げられた「Humanity vs. AI」と書かれたWGAのプラカード。Getty Images"
               },
               {
                 "t": "p",
-                "x": "ロケ音声は不揃いで届くことが多い。別々の部屋で収録したピンマイクとブームマイク、移り変わる環境音、シーンに焼き込まれた音楽などだ。PremiereベータのEnhance Audioは、台詞、音楽、環境音、効果音、残響を一度の処理で分離し、それぞれのコントロールをタイムライン上で編集者に渡す。"
+                "x": "Writers Guild of America, Eastは火曜日、会員の作品がAIモデルの学習に使われるのを防ぐための提携を発表した。AIモデルには判読できないが人間には読めるファイルのコピーを作るCloakが、組合の福利厚生プログラムの一環としてWGAE会員に無料で提供される。"
               },
               {
                 "t": "p",
-                "x": "台詞には専用の音量、Enhancementの量、声からだけ部屋の響きを取り除くReverbコントロールが付く。音楽、環境音、効果音にはそれぞれ音量とミュートがある。ソース分離はデバイス上で動く。音声強化には、完全にローカルで動くEnhance Speech V1か、Firefly経由のクラウドで動くAdobe最高品質の音声モデルV2を使う。"
+                "x": "WGA East会長のTom Fontanaは「会員は、プロデューサーやエージェントに作品を送った後、それがAIモデルの学習に使われる心配をしなくてよい」と述べた。非会員は、組合のウェブサイトで脚本を登録する際に$10でCloakを追加できる。"
               },
               {
                 "t": "p",
-                "x": "各強化処理には前後それぞれ五秒のハンドルが付き、カット、フェード、トリムで再レンダリングが走らなくなった。ハンドルを越えて延ばすと新しい区間だけを処理する。V2ではその際に毎分二つの生成クレジットを消費し、V1は無料だ。"
+                "x": "創業者のRishi Ambavanekarは、望まないAI学習やAIによるノート、分析に対して「書き手に主体性を取り戻す」ためにCloakを作ったと語った。今回の提携は組合のAI Task Forceから生まれた。"
               },
               {
                 "t": "p",
-                "x": "Split to Clipsは、台詞、音楽、環境音、効果音を別々のクリップとしてタイムラインに並べ、ターンオーバーに使えるようにする。筆者の注意点は、分離でミックスが仕上がるわけではないということだ。ミックスの終わりではなく、始まりとして扱うべきである。"
+                "x": "2025年9月に設立されたCloakは、Andreessen HorowitzのアクセラレーターSpeedrunとUniversity of Pennsylvaniaの支援を受けている。同社のウェブサイトは、Claude、Gemini、ChatGPTの各モデルに加え、Google Drive、Gmail、Adobe Acrobatの自動要約に対しても、テストで「効果的」だと証明されたとしている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Premiere测试版\n时间线内拆分对白",
-          "body": "Premiere测试版的Enhance Audio可在时间线中把对白、音乐等拆成分轨。",
-          "mini_headline": "Premiere拆分对白分轨",
+          "headline": "WGA East与Cloak\n联手阻止AI训练",
+          "body": "WGA East与Cloak合作，该软件能让剧本无法被AI模型读取。",
+          "mini_headline": "WGA East采用Cloak",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
+                "cap": "2023年，Warner Bros. Studio外一块写着“Humanity vs. AI”的WGA标牌。Getty Images"
               },
               {
                 "t": "p",
-                "x": "外景录音常常参差不齐：不同房间里的领夹麦和枪麦、不断变化的环境声、混进场景里的背景音乐。Premiere测试版中的Enhance Audio可一次性分离对白、音乐、环境声、音效和混响，并在时间线上为剪辑师提供逐项控制。"
+                "x": "Writers Guild of America, East周二公布一项合作，帮助防止AI模型用会员作品进行训练。Cloak可生成AI模型无法识读、但人类可以阅读的文件副本，将作为工会福利计划的一部分免费提供给WGAE会员。"
               },
               {
                 "t": "p",
-                "x": "对白有独立的音量、Enhancement强度，以及只去除人声房间感的Reverb控制；音乐、环境声和音效则各有音量和静音。音源分离在设备端运行。人声增强可选完全本地运行的Enhance Speech V1，或通过Firefly在云端运行的V2，即Adobe质量最高的人声模型。"
+                "x": "WGA East主席Tom Fontana表示：“会员把作品发给制片人或经纪人之后，不必再担心作品被用来训练AI模型。”非会员通过工会网站登记剧本时，可支付$10加购Cloak。"
               },
               {
                 "t": "p",
-                "x": "每次增强两侧各带五秒手柄，剪切、淡入淡出和修剪不再触发重新渲染。延伸超出手柄时只处理新增部分；使用V2时每分钟消耗两个生成积分，V1则不收费。"
+                "x": "创始人Rishi Ambavanekar表示，他打造Cloak是为了在面对不受欢迎的AI训练、AI笔记和分析时“把主动权还给编剧”。此次合作源自工会的AI Task Force。"
               },
               {
                 "t": "p",
-                "x": "Split to Clips会把对白、音乐、环境声和音效作为独立片段放到时间线上，便于交接。作者提醒：分离并不能完成混音。应把它当作混音的开始，而不是终点。"
+                "x": "Cloak成立于2025年9月，获得Andreessen Horowitz旗下Speedrun加速器和University of Pennsylvania的支持。其网站称，测试证明它对Claude、Gemini和ChatGPT模型，以及Google Drive、Gmail和Adobe Acrobat中的自动摘要均“有效”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La beta de Premiere separa\nstems de diálogo en el timeline",
-          "body": "Enhance Audio, en la beta de Premiere, separa voz, música, ambiente y efectos en stems en el timeline.",
-          "mini_headline": "Premiere separa stems de diálogo",
+          "headline": "WGA East se alía con Cloak\ncontra el entrenamiento de IA",
+          "body": "El Writers Guild of America East se asocia con Cloak, un programa que hace ilegibles los guiones para modelos de IA.",
+          "mini_headline": "WGA East adopta Cloak",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.provideocoalition.com/wp-content/uploads/adobe1019.png"
+                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
+                "cap": "Un cartel de la WGA con el lema 'Humanity vs. AI' frente a Warner Bros. Studio en 2023. Getty Images"
               },
               {
                 "t": "p",
-                "x": "El audio de rodaje suele llegar desigual: lavalieres y micrófonos de pértiga de salas distintas, ambiente cambiante, una música de fondo incrustada en la escena. Enhance Audio, en la beta de Premiere, separa voz, música, ambiente, efectos de sonido y reverberación en una sola pasada y da al editor un control para cada uno, en el timeline."
+                "x": "El Writers Guild of America, East presentó el martes una alianza para ayudar a impedir que los modelos de IA se entrenen con el trabajo de sus miembros. Cloak, que crea copias de archivos ilegibles para los modelos de IA pero legibles para las personas, será gratuito para los miembros del WGAE como parte del programa de beneficios del sindicato."
               },
               {
                 "t": "p",
-                "x": "El diálogo tiene su propio volumen, una cantidad de Enhancement y un control de Reverb que quita la sala solo de la voz; música, ambiente y efectos tienen cada uno volumen y silencio. La separación de fuentes se ejecuta en el dispositivo. La mejora de voz usa Enhance Speech V1, totalmente local, o V2, el modelo de voz de mayor calidad de Adobe, en la nube a través de Firefly."
+                "x": "“Los miembros no tienen que preocuparse de que su trabajo se use para entrenar modelos de IA después de enviarlo a productores o agentes”, dijo Tom Fontana, presidente del WGA East. Quienes no son miembros pueden añadir Cloak por $10 al registrar un guion en el sitio web del sindicato."
               },
               {
                 "t": "p",
-                "x": "Cada mejora lleva cinco segundos de margen por lado, y los cortes, fundidos y recortes ya no obligan a volver a renderizar. Al extender más allá del margen solo se procesa la parte nueva; en V2 eso consume dos créditos generativos por minuto, mientras que V1 no cuesta nada."
+                "x": "Su fundador, Rishi Ambavanekar, dijo que creó Cloak “para devolver la capacidad de decisión a los guionistas” frente al entrenamiento de IA no deseado y a las notas y análisis hechos con IA. La alianza surge del AI Task Force del sindicato."
               },
               {
                 "t": "p",
-                "x": "Split to Clips coloca voz, música, ambiente y efectos en el timeline como clips separados para la entrega. La advertencia del autor: la separación no termina una mezcla. Hay que tratarla como el inicio de la mezcla, no como el final."
+                "x": "Fundada en septiembre de 2025, Cloak cuenta con el respaldo de la aceleradora Speedrun de Andreessen Horowitz y de la University of Pennsylvania. Su sitio web asegura que las pruebas demostraron que es “eficaz” frente a los modelos Claude, Gemini y ChatGPT, y frente a los resúmenes automáticos de Google Drive, Gmail y Adobe Acrobat."
               }
             ]
           }
@@ -315,843 +797,321 @@
       }
     },
     {
-      "id": "movies-sora-startup-handoff",
+      "id": "movies-microdramas-ai-two-thirds",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "OpenAI, Sora를\n영화 스타트업에 넘기나",
-      "body": "OpenAI가 접은 Sora를 영화 도구 스타트업에 넘기려 협상 중이라는 보도다.",
-      "mini_headline": "Sora, 영화 스타트업에 갈 수도",
+      "headline": "중국 밖 마이크로드라마\n신작 삼분의 이 AI 제작",
+      "body": "Owl & Co. 보고서를 보면 시청 시간 최상위 작품은 합성 배우 드라마다.",
+      "mini_headline": "마이크로드라마 대부분 AI 제작",
       "tool": "Movies",
-      "source": "DigitalToday",
-      "url": "https://www.digitaltoday.co.kr/en/view/113477/openai-sora-may-return-as-ai-for-filmmakers",
-      "accent": "#f5a623",
-      "motif": "frame",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
-            "cap": "OpenAI의 AI 동영상 앱 Sora. [사진: OpenAI]"
-          },
-          {
-            "t": "p",
-            "x": "OpenAI가 보류해 둔 동영상 생성 AI Sora를 한 스타트업에 넘기려고 협상 중이라고 The Information이 현지시간 12일(Oct. 12) 보도했다."
-          },
-          {
-            "t": "p",
-            "x": "보도에 따르면 협상 상대는 영화 제작자용 AI 동영상 기술을 만드는 스타트업으로, Sora 활용 방안을 OpenAI와 논의하고 있다. Sora를 넘겨받아 손본 다음 그 위에 소프트웨어나 서비스를 얹어 팔겠다는 계획이다."
-          },
-          {
-            "t": "p",
-            "x": "이 스타트업은 몇 달 전 할리우드(Hollywood) 거물 Jeffrey Katzenberg와 Sora 연구를 이끈 Bill Peebles, Dropbox 최고재무책임자 출신 Sujay Jaswa가 함께 세웠다. 회사 이름은 알려지지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "Sora 가중치, 즉 모델이 질문에 어떻게 답할지 정하는 매개변수 값까지 스타트업에 넘어갈지는 분명하지 않다."
-          },
-          {
-            "t": "p",
-            "x": "The Information은 협상 내용을 잘 아는 소식통을 인용해, 합의가 이뤄지면 스타트업이 Sora를 크게 뜯어고칠 만큼 깊은 접근 권한을 얻는다고 전했다. Peebles가 Sora 개발을 이끌며 모델 구조와 학습 방법을 이미 꿰고 있으니 가중치까지 넘겨도 이상할 게 없다는 분석도 덧붙였다."
-          },
-          {
-            "t": "p",
-            "x": "거래가 성사되면 OpenAI 몫으로 스타트업 지분이 돌아간다. 규모는 확인되지 않았다."
-          },
-          {
-            "t": "p",
-            "x": "OpenAI는 올해 초 사업을 조정하면서 Sora 모델과 오디오 기반 앱을 접었다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "OpenAI may hand Sora\nto a filmmaker startup",
-          "body": "OpenAI is reportedly negotiating to transfer its discontinued Sora video model to a startup building filmmaker tools.",
-          "mini_headline": "Sora may go to a film startup",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
-                "cap": "OpenAI's AI video app Sora. [Photo: OpenAI]"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI is negotiating to hand over its shelved video-generation AI, Sora, to a startup, The Information reported on Oct. 12 local time."
-              },
-              {
-                "t": "p",
-                "x": "The report said a startup developing AI video technology for filmmakers is in talks with OpenAI to use Sora. The startup plans to take over Sora, improve it and sell software or services based on it."
-              },
-              {
-                "t": "p",
-                "x": "The startup in talks with OpenAI was founded months ago by Hollywood heavyweight Jeffrey Katzenberg, Bill Peebles, who led Sora research, and Sujay Jaswa, a former chief financial officer at Dropbox. Its name is not known."
-              },
-              {
-                "t": "p",
-                "x": "It is unclear whether the startup would also receive Sora weights, the parameter values that determine how a model answers questions."
-              },
-              {
-                "t": "p",
-                "x": "If a deal is reached, the startup would get deep access rights sufficient to significantly modify Sora, The Information reported, citing a source familiar with the talks. The Information said it would not be strange to also share the weights, since Peebles led Sora's development and already knows the model architecture and training method."
-              },
-              {
-                "t": "p",
-                "x": "If the deal is completed, OpenAI would receive an equity stake in the startup. The size of the stake has not been confirmed."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI halted the Sora model and an audio-based app earlier this year as part of a business adjustment."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "OpenAI, Sora를\n영화 스타트업에 넘기나",
-          "body": "OpenAI가 접은 Sora를 영화 도구 스타트업에 넘기려 협상 중이라는 보도다.",
-          "mini_headline": "Sora, 영화 스타트업에 갈 수도",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
-                "cap": "OpenAI의 AI 동영상 앱 Sora. [사진: OpenAI]"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI가 보류해 둔 동영상 생성 AI Sora를 한 스타트업에 넘기려고 협상 중이라고 The Information이 현지시간 12일(Oct. 12) 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "보도에 따르면 협상 상대는 영화 제작자용 AI 동영상 기술을 만드는 스타트업으로, Sora 활용 방안을 OpenAI와 논의하고 있다. Sora를 넘겨받아 손본 다음 그 위에 소프트웨어나 서비스를 얹어 팔겠다는 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "이 스타트업은 몇 달 전 할리우드(Hollywood) 거물 Jeffrey Katzenberg와 Sora 연구를 이끈 Bill Peebles, Dropbox 최고재무책임자 출신 Sujay Jaswa가 함께 세웠다. 회사 이름은 알려지지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "Sora 가중치, 즉 모델이 질문에 어떻게 답할지 정하는 매개변수 값까지 스타트업에 넘어갈지는 분명하지 않다."
-              },
-              {
-                "t": "p",
-                "x": "The Information은 협상 내용을 잘 아는 소식통을 인용해, 합의가 이뤄지면 스타트업이 Sora를 크게 뜯어고칠 만큼 깊은 접근 권한을 얻는다고 전했다. Peebles가 Sora 개발을 이끌며 모델 구조와 학습 방법을 이미 꿰고 있으니 가중치까지 넘겨도 이상할 게 없다는 분석도 덧붙였다."
-              },
-              {
-                "t": "p",
-                "x": "거래가 성사되면 OpenAI 몫으로 스타트업 지분이 돌아간다. 규모는 확인되지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI는 올해 초 사업을 조정하면서 Sora 모델과 오디오 기반 앱을 접었다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "OpenAI、Soraを\n映画系新興企業へ譲渡か",
-          "body": "OpenAIが終了したSoraを映画ツールの新興企業に譲る交渉中と報じられた。",
-          "mini_headline": "Soraが映画系新興企業へ",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
-                "cap": "OpenAIのAI動画アプリSora。[写真：OpenAI]"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIが棚上げした動画生成AI「Sora」をスタートアップに引き渡す交渉を進めていると、The Informationが現地時間12日（Oct. 12）に報じた。"
-              },
-              {
-                "t": "p",
-                "x": "報道によると、映画制作者向けのAI動画技術を開発するスタートアップが、Soraの利用をめぐってOpenAIと協議している。このスタートアップはSoraを引き継いで改良し、それを基にしたソフトウェアやサービスを販売する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIと交渉中のスタートアップは、ハリウッド（Hollywood）の大物Jeffrey Katzenberg、Sora研究を率いたBill Peebles、Dropboxの元最高財務責任者Sujay Jaswaが数か月前に設立した。社名は明らかになっていない。"
-              },
-              {
-                "t": "p",
-                "x": "モデルが質問にどう答えるかを決めるパラメーター値であるSoraの重みまで、スタートアップが受け取るかどうかは不明だ。"
-              },
-              {
-                "t": "p",
-                "x": "協議に詳しい関係者の話としてThe Informationが報じたところでは、合意に至ればスタートアップはSoraを大幅に改変できるだけの深いアクセス権を得る。The Informationは、PeeblesがSoraの開発を率い、モデルの構造と学習方法をすでに把握していることから、重みを共有しても不思議ではないとした。"
-              },
-              {
-                "t": "p",
-                "x": "取引が成立すれば、OpenAIはスタートアップの株式を受け取る。その規模は確認されていない。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIは今年初め、事業調整の一環としてSoraモデルと音声ベースのアプリを停止した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "OpenAI或将Sora\n交给电影初创公司",
-          "body": "据报道，OpenAI正洽谈将已停用的Sora视频模型转给一家电影工具初创公司。",
-          "mini_headline": "Sora或归电影初创公司",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
-                "cap": "OpenAI的AI视频应用Sora。[图片：OpenAI]"
-              },
-              {
-                "t": "p",
-                "x": "据The Information当地时间12日（Oct. 12）报道，OpenAI正在洽谈将其已搁置的视频生成AI Sora交给一家初创公司。"
-              },
-              {
-                "t": "p",
-                "x": "报道称，一家为电影人开发AI视频技术的初创公司正与OpenAI商谈使用Sora。该公司计划接手Sora并加以改进，再销售基于它的软件或服务。"
-              },
-              {
-                "t": "p",
-                "x": "与OpenAI洽谈的这家初创公司由好莱坞（Hollywood）重量级人物Jeffrey Katzenberg、曾领导Sora研究的Bill Peebles，以及Dropbox前首席财务官Sujay Jaswa于数月前创立，公司名称尚不清楚。"
-              },
-              {
-                "t": "p",
-                "x": "目前尚不清楚该公司是否还会获得Sora的权重，即决定模型如何回答问题的参数值。"
-              },
-              {
-                "t": "p",
-                "x": "The Information援引知情人士的话称，若达成协议，该公司将获得足以大幅修改Sora的深度访问权限。The Information表示，由于Peebles曾领导Sora开发，已了解模型架构和训练方法，一并共享权重也不奇怪。"
-              },
-              {
-                "t": "p",
-                "x": "若交易完成，OpenAI将获得该初创公司的股权，具体比例尚未确认。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI今年早些时候作为业务调整的一部分，停用了Sora模型和一款基于音频的应用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "OpenAI podría ceder Sora\na una startup de cine",
-          "body": "Según informes, OpenAI negocia ceder su modelo de video Sora, ya retirado, a una startup de herramientas para cine.",
-          "mini_headline": "Sora podría pasar a una startup de cine",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
-                "cap": "Sora, la app de video con AI de OpenAI. [Foto: OpenAI]"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI negocia ceder a una startup Sora, su AI de generación de video que dejó de lado, informó The Information el 12 de octubre (Oct. 12), hora local."
-              },
-              {
-                "t": "p",
-                "x": "Según el informe, una startup que desarrolla tecnología de video con AI para cineastas está en conversaciones con OpenAI para usar Sora. La startup planea hacerse cargo de Sora, mejorarlo y vender software o servicios basados en él."
-              },
-              {
-                "t": "p",
-                "x": "La startup que negocia con OpenAI fue fundada hace unos meses por el peso pesado de Hollywood Jeffrey Katzenberg; Bill Peebles, que dirigió la investigación de Sora, y Sujay Jaswa, exdirector financiero de Dropbox. Su nombre no se conoce."
-              },
-              {
-                "t": "p",
-                "x": "No está claro si la startup recibiría también los pesos de Sora, los valores de los parámetros que determinan cómo responde un modelo a las preguntas."
-              },
-              {
-                "t": "p",
-                "x": "Si se alcanza un acuerdo, la startup obtendría derechos de acceso lo bastante profundos como para modificar Sora de forma significativa, informó The Information citando a una fuente conocedora de las conversaciones. The Information señaló que no sería extraño compartir también los pesos, ya que Peebles dirigió el desarrollo de Sora y ya conoce la arquitectura del modelo y su método de entrenamiento."
-              },
-              {
-                "t": "p",
-                "x": "Si el acuerdo se completa, OpenAI recibiría una participación en la startup. El tamaño de esa participación no se ha confirmado."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI detuvo el modelo Sora y una app basada en audio a principios de este año como parte de un ajuste de su negocio."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "OpenAI, Sora를\n영화 스타트업에 넘기나",
-          "body": "OpenAI가 중단한 Sora를 영화 도구 스타트업에 넘기는 협상 중이라고 한다.",
-          "mini_headline": "Sora, 영화 스타트업에 갈 수도",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
-                "cap": "OpenAI의 AI 동영상 앱 Sora. [사진: OpenAI]"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI가 보류한 동영상 생성 AI Sora를 한 스타트업에 넘기는 협상을 벌이고 있다고 The Information이 현지시간 12일(Oct. 12) 보도했다."
-              },
-              {
-                "t": "p",
-                "x": "보도에 따르면 영화 제작자를 위한 AI 동영상 기술을 개발하는 스타트업이 Sora 활용을 두고 OpenAI와 협상 중이다. 이 스타트업은 Sora를 넘겨받아 개선한 뒤 이를 바탕으로 소프트웨어나 서비스를 판매할 계획이다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI와 협상 중인 스타트업은 할리우드(Hollywood) 거물 Jeffrey Katzenberg, Sora 연구를 이끈 Bill Peebles, Dropbox 최고재무책임자 출신 Sujay Jaswa가 몇 달 전 세웠다. 회사 이름은 알려지지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "모델이 질문에 어떻게 답할지를 결정하는 매개변수 값인 Sora 가중치까지 스타트업이 넘겨받을지는 분명하지 않다."
-              },
-              {
-                "t": "p",
-                "x": "협상 내용을 잘 아는 소식통을 인용한 The Information 보도에 따르면, 합의가 이뤄지면 스타트업은 Sora를 크게 고칠 수 있을 만큼 깊은 접근 권한을 얻는다. The Information은 Peebles가 Sora 개발을 이끌어 모델 구조와 학습 방법을 이미 알고 있는 만큼 가중치를 함께 넘겨도 이상하지 않다고 전했다."
-              },
-              {
-                "t": "p",
-                "x": "거래가 성사되면 OpenAI는 스타트업 지분을 받는다. 지분 규모는 확인되지 않았다."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI는 올해 초 사업 조정의 일환으로 Sora 모델과 오디오 기반 앱을 중단했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "OpenAI、Soraを\n映画系新興企業へ譲渡か",
-          "body": "OpenAIが終了したSoraを映画ツールの新興企業に譲る交渉中と報じられた。",
-          "mini_headline": "Soraが映画系新興企業へ",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
-                "cap": "OpenAIのAI動画アプリSora。[写真：OpenAI]"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIが棚上げした動画生成AI「Sora」をスタートアップに引き渡す交渉を進めていると、The Informationが現地時間12日（Oct. 12）に報じた。"
-              },
-              {
-                "t": "p",
-                "x": "報道によると、映画制作者向けのAI動画技術を開発するスタートアップが、Soraの利用をめぐってOpenAIと協議している。このスタートアップはSoraを引き継いで改良し、それを基にしたソフトウェアやサービスを販売する計画だ。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIと交渉中のスタートアップは、ハリウッド（Hollywood）の大物Jeffrey Katzenberg、Sora研究を率いたBill Peebles、Dropboxの元最高財務責任者Sujay Jaswaが数か月前に設立した。社名は明らかになっていない。"
-              },
-              {
-                "t": "p",
-                "x": "モデルが質問にどう答えるかを決めるパラメーター値であるSoraの重みまで、スタートアップが受け取るかどうかは不明だ。"
-              },
-              {
-                "t": "p",
-                "x": "協議に詳しい関係者の話としてThe Informationが報じたところでは、合意に至ればスタートアップはSoraを大幅に改変できるだけの深いアクセス権を得る。The Informationは、PeeblesがSoraの開発を率い、モデルの構造と学習方法をすでに把握していることから、重みを共有しても不思議ではないとした。"
-              },
-              {
-                "t": "p",
-                "x": "取引が成立すれば、OpenAIはスタートアップの株式を受け取る。その規模は確認されていない。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAIは今年初め、事業調整の一環としてSoraモデルと音声ベースのアプリを停止した。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "OpenAI或将Sora\n交给电影初创公司",
-          "body": "据报道，OpenAI正洽谈将已停用的Sora视频模型转给一家电影工具初创公司。",
-          "mini_headline": "Sora或归电影初创公司",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
-                "cap": "OpenAI的AI视频应用Sora。[图片：OpenAI]"
-              },
-              {
-                "t": "p",
-                "x": "据The Information当地时间12日（Oct. 12）报道，OpenAI正在洽谈将其已搁置的视频生成AI Sora交给一家初创公司。"
-              },
-              {
-                "t": "p",
-                "x": "报道称，一家为电影人开发AI视频技术的初创公司正与OpenAI商谈使用Sora。该公司计划接手Sora并加以改进，再销售基于它的软件或服务。"
-              },
-              {
-                "t": "p",
-                "x": "与OpenAI洽谈的这家初创公司由好莱坞（Hollywood）重量级人物Jeffrey Katzenberg、曾领导Sora研究的Bill Peebles，以及Dropbox前首席财务官Sujay Jaswa于数月前创立，公司名称尚不清楚。"
-              },
-              {
-                "t": "p",
-                "x": "目前尚不清楚该公司是否还会获得Sora的权重，即决定模型如何回答问题的参数值。"
-              },
-              {
-                "t": "p",
-                "x": "The Information援引知情人士的话称，若达成协议，该公司将获得足以大幅修改Sora的深度访问权限。The Information表示，由于Peebles曾领导Sora开发，已了解模型架构和训练方法，一并共享权重也不奇怪。"
-              },
-              {
-                "t": "p",
-                "x": "若交易完成，OpenAI将获得该初创公司的股权，具体比例尚未确认。"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI今年早些时候作为业务调整的一部分，停用了Sora模型和一款基于音频的应用。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "OpenAI podría ceder Sora\na una startup de cine",
-          "body": "Según informes, OpenAI negocia ceder su modelo de video Sora, ya retirado, a una startup de herramientas para cine.",
-          "mini_headline": "Sora podría pasar a una startup de cine",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.digitaltoday.co.kr/news/photo/202610/706577_654288_3743.jpg",
-                "cap": "Sora, la app de video con AI de OpenAI. [Foto: OpenAI]"
-              },
-              {
-                "t": "p",
-                "x": "OpenAI negocia ceder a una startup Sora, su AI de generación de video que dejó de lado, informó The Information el 12 de octubre (Oct. 12), hora local."
-              },
-              {
-                "t": "p",
-                "x": "Según el informe, una startup que desarrolla tecnología de video con AI para cineastas está en conversaciones con OpenAI para usar Sora. La startup planea hacerse cargo de Sora, mejorarlo y vender software o servicios basados en él."
-              },
-              {
-                "t": "p",
-                "x": "La startup que negocia con OpenAI fue fundada hace unos meses por el peso pesado de Hollywood Jeffrey Katzenberg; Bill Peebles, que dirigió la investigación de Sora, y Sujay Jaswa, exdirector financiero de Dropbox. Su nombre no se conoce."
-              },
-              {
-                "t": "p",
-                "x": "No está claro si la startup recibiría también los pesos de Sora, los valores de los parámetros que determinan cómo responde un modelo a las preguntas."
-              },
-              {
-                "t": "p",
-                "x": "Si se alcanza un acuerdo, la startup obtendría derechos de acceso lo bastante profundos como para modificar Sora de forma significativa, informó The Information citando a una fuente conocedora de las conversaciones. The Information señaló que no sería extraño compartir también los pesos, ya que Peebles dirigió el desarrollo de Sora y ya conoce la arquitectura del modelo y su método de entrenamiento."
-              },
-              {
-                "t": "p",
-                "x": "Si el acuerdo se completa, OpenAI recibiría una participación en la startup. El tamaño de esa participación no se ha confirmado."
-              },
-              {
-                "t": "p",
-                "x": "OpenAI detuvo el modelo Sora y una app basada en audio a principios de este año como parte de un ajuste de su negocio."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "movies-lotte-kaica-run",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "롯데시네마, AI 영화\n18편 3천원 상영",
-      "body": "롯데시네마가 87개국 출품작 중 고른 AI 영화 18편을 3천원에 단독 상영한다.",
-      "mini_headline": "AI 영화 극장 개봉",
-      "tool": "Movies",
-      "source": "맥스무비",
-      "url": "https://www.maxmovie.com/news/articleView.html?idxno=502436",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
-            "cap": "사진=롯데컬처웍스"
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
+            "cap": "ReelShort에서 높은 성과를 낸 AI 마이크로드라마 ‘The Great and Powerful Genie’. Courtesy of ReelShort"
           },
           {
             "t": "p",
-            "x": "롯데시네마가 인공지능(AI)과 영화의 만남을 극장에서 선보인다. 경기도와 경기콘텐츠진흥원이 주최한 ‘2026 대한민국 AI 콘텐츠 어워즈(K-AICA)’의 본선 진출작과 수상작 18편을 국내 극장 단독으로 상영한다."
+            "x": "Owl & Co.의 최신 보고서 “What We Watched on Vertical”을 보면 2026년 3분기 상위 20개 플랫폼에 올라온 중국 밖 세로형 드라마 신작 가운데 삼분의 이가 AI로 만들어졌다. 첫 분기 3퍼센트, 두 번째 분기 28퍼센트에서 또 늘었다."
           },
           {
             "t": "p",
-            "x": "이번 특별전은 오는 28일까지 롯데시네마 수도권 31개 지점에서 진행된다. 전 세계 87개국에서 출품된 1528편 가운데 선정된 작품들을 대형 스크린과 극장 사운드로 감상할 기회다. 관람료는 3000원이며, 예매는 롯데시네마 공식 홈페이지와 모바일 앱에서 가능하다."
+            "x": "중국을 닮아 가는 흐름이다. 중국에서는 2026년 초 공개작의 95퍼센트 이상을 AI로 만들었다고 한다. 유료 앱 시청 시간 상위 다섯 편 가운데 실사 작품은 단 하나였고, 맨 위에는 ReelShort가 AI로 생성한(AI-generated) The Great and Powerful Genie가 올랐다."
           },
           {
             "t": "p",
-            "x": "상영작은 중·단편 부문 수상작 9편을 포함해 총 18편이다. 관객들이 작품을 편리하게 감상할 수 있도록 5개 파트로 구성했으며, 각 파트는 2~5편씩 약 90분 분량으로 편성됐다."
+            "x": "추적한 앱들은 이번 분기 조회 63B 회, 시청 이십억 시간을 기록했다. 전체 조회의 절반 이상은 TikTok의 무료 앱 PineDrama에서 나왔다."
           },
           {
             "t": "p",
-            "x": "장권호 감독의 중편 ‘로이 온 더 로드’는 AI를 활용한 영화적 상상력의 확장을 보여주며, 로버트 고데트 감독의 단편 ‘엄마 눈에만 예쁜 얼굴’은 애니메이션과 실사를 교차시키며 색다른 시공간을 구현한다."
-          },
-          {
-            "t": "p",
-            "x": "상영관은 경기 지역 20곳과 서울 지역 11곳이다. 수원, 동탄, 판교, 부천, 용인 등 경기 주요 지역과 건대입구, 김포공항, 영등포, 용산, 월드타워 등 서울 주요 지점에서 관람할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "16일 롯데시네마 관계자는 “창작자들의 새로운 도전과 상상력이 담긴 작품을 극장에서 소개하게 돼 의미가 크다”며 “앞으로도 미래형 콘텐츠를 극장과 연결해 차별화된 문화 경험을 제공하겠다”고 밝혔다."
+            "x": "다만 보고서는 중국에서 “실사로 회귀하는 움직임”이 보인다고 짚었다. ReelShort에서는 공개 30일 뒤까지 조회수 상위 10퍼센트에 남을 확률이 AI 작품보다 실사 작품 쪽이 높았다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "롯데시네마, AI 영화\n18편 3천원 상영",
-          "body": "롯데시네마가 87개국 출품작 중 고른 AI 영화 18편을 3천원에 단독 상영한다.",
-          "mini_headline": "AI 영화 극장 개봉",
+        "en": {
+          "headline": "AI made two-thirds of new\nmicrodramas outside China",
+          "body": "An Owl & Co. report found stories with synthetic actors were the top microdramas by minutes watched.",
+          "mini_headline": "AI makes most microdramas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
-                "cap": "사진=롯데컬처웍스"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "‘The Great and Powerful Genie,’ a top-performing AI microdrama from ReelShort. Courtesy of ReelShort"
               },
               {
                 "t": "p",
-                "x": "롯데시네마가 인공지능(AI)과 영화의 만남을 극장에서 선보인다. 경기도와 경기콘텐츠진흥원이 주최한 ‘2026 대한민국 AI 콘텐츠 어워즈(K-AICA)’의 본선 진출작과 수상작 18편을 국내 극장 단독으로 상영한다."
+                "x": "Two-thirds of vertical drama releases outside China in the third quarter of 2026 from 20 top platforms were AI generated, according to Owl & Co.’s latest “What We Watched on Vertical” report — up from 3 percent in the first quarter and 28 percent in the second."
               },
               {
                 "t": "p",
-                "x": "이번 특별전은 오는 28일까지 롯데시네마 수도권 31개 지점에서 진행된다. 전 세계 87개국에서 출품된 1528편 가운데 선정된 작품들을 대형 스크린과 극장 사운드로 감상할 기회다. 관람료는 3000원이며, 예매는 롯데시네마 공식 홈페이지와 모바일 앱에서 가능하다."
+                "x": "The shift echoes China, where more than 95 percent of titles released in early 2026 were reportedly made using AI. Among paid apps, only one live-action title made the top five by minutes watched; the number-one performer was ReelShort’s AI-generated The Great and Powerful Genie."
               },
               {
                 "t": "p",
-                "x": "상영작은 중·단편 부문 수상작 9편을 포함해 총 18편이다. 관객들이 작품을 편리하게 감상할 수 있도록 5개 파트로 구성했으며, 각 파트는 2~5편씩 약 90분 분량으로 편성됐다."
+                "x": "Tracked apps logged 63 billion views and two billion viewing hours in the quarter, with TikTok’s free PineDrama app accounting for more than half of all views."
               },
               {
                 "t": "p",
-                "x": "장권호 감독의 중편 ‘로이 온 더 로드’는 AI를 활용한 영화적 상상력의 확장을 보여주며, 로버트 고데트 감독의 단편 ‘엄마 눈에만 예쁜 얼굴’은 애니메이션과 실사를 교차시키며 색다른 시공간을 구현한다."
-              },
-              {
-                "t": "p",
-                "x": "상영관은 경기 지역 20곳과 서울 지역 11곳이다. 수원, 동탄, 판교, 부천, 용인 등 경기 주요 지역과 건대입구, 김포공항, 영등포, 용산, 월드타워 등 서울 주요 지점에서 관람할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "16일 롯데시네마 관계자는 “창작자들의 새로운 도전과 상상력이 담긴 작품을 극장에서 소개하게 돼 의미가 크다”며 “앞으로도 미래형 콘텐츠를 극장과 연결해 차별화된 문화 경험을 제공하겠다”고 밝혔다."
+                "x": "Still, the report notes China is showing “a pullback towards live action,” and at ReelShort live-action titles had a higher chance than AI titles of staying in the top 10 percent by views 30 days after release."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Lotte Cinema screens 18 AI\nfilms for 3000 won (3천원)",
-          "body": "Lotte Cinema is screening 18 AI films, chosen from entries from 87 countries, exclusively for 3000 won (3천원).",
-          "mini_headline": "AI films hit theaters",
+        "ko": {
+          "headline": "중국 밖 마이크로드라마\n신작 삼분의 이 AI 제작",
+          "body": "Owl & Co. 보고서를 보면 시청 시간 최상위 작품은 합성 배우 드라마다.",
+          "mini_headline": "마이크로드라마 대부분 AI 제작",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
-                "cap": "Photo: Lotte Cultureworks"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "ReelShort에서 높은 성과를 낸 AI 마이크로드라마 ‘The Great and Powerful Genie’. Courtesy of ReelShort"
               },
               {
                 "t": "p",
-                "x": "Lotte Cinema is bringing artificial intelligence (AI) and film together in theaters. It will screen 18 finalists and winners from the ‘2026 Korea AI Content Awards (K-AICA)’, hosted by Gyeonggi Province and the Gyeonggi Content Agency, exclusively among domestic theaters."
+                "x": "Owl & Co.의 최신 보고서 “What We Watched on Vertical”을 보면 2026년 3분기 상위 20개 플랫폼에 올라온 중국 밖 세로형 드라마 신작 가운데 삼분의 이가 AI로 만들어졌다. 첫 분기 3퍼센트, 두 번째 분기 28퍼센트에서 또 늘었다."
               },
               {
                 "t": "p",
-                "x": "The special program runs through the 28th at 31 Lotte Cinema locations in the Seoul metropolitan area. It is a chance to see works selected from 1528 entries submitted from 87 countries on a big screen with theater sound. Tickets cost 3000 won, and bookings can be made on Lotte Cinema's official website and mobile app."
+                "x": "중국을 닮아 가는 흐름이다. 중국에서는 2026년 초 공개작의 95퍼센트 이상을 AI로 만들었다고 한다. 유료 앱 시청 시간 상위 다섯 편 가운데 실사 작품은 단 하나였고, 맨 위에는 ReelShort가 AI로 생성한(AI-generated) The Great and Powerful Genie가 올랐다."
               },
               {
                 "t": "p",
-                "x": "The lineup totals 18 films, including 9 winners in the medium-length and short categories. To make viewing convenient, the films are organized into 5 parts, each with 2 to 5 films running about 90 minutes."
+                "x": "추적한 앱들은 이번 분기 조회 63B 회, 시청 이십억 시간을 기록했다. 전체 조회의 절반 이상은 TikTok의 무료 앱 PineDrama에서 나왔다."
               },
               {
                 "t": "p",
-                "x": "Director Jang Kwon-ho's medium-length film ‘Roy on the Road’ shows how AI can extend cinematic imagination, while director Robert Godet's short ‘A Face Pretty Only to Mom’ crosses animation and live action to create an unusual time and space."
-              },
-              {
-                "t": "p",
-                "x": "The films screen at 20 locations in Gyeonggi and 11 in Seoul. Audiences can see them in major Gyeonggi areas such as Suwon, Dongtan, Pangyo, Bucheon and Yongin, and at major Seoul locations such as Konkuk University Entrance, Gimpo Airport, Yeongdeungpo, Yongsan and World Tower."
-              },
-              {
-                "t": "p",
-                "x": "A Lotte Cinema official said on the 16th, “It is very meaningful to introduce in theaters works that carry creators' new challenges and imagination,” adding, “We will continue to connect future-oriented content with theaters to offer a distinctive cultural experience.”"
+                "x": "다만 보고서는 중국에서 “실사로 회귀하는 움직임”이 보인다고 짚었다. ReelShort에서는 공개 30일 뒤까지 조회수 상위 10퍼센트에 남을 확률이 AI 작품보다 실사 작품 쪽이 높았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ロッテシネマ、AI映画\n18本を3000ウォンで",
-          "body": "ロッテシネマが87か国の応募作中のAI映画18本を3000ウォン（3천원）で単独上映する。",
-          "mini_headline": "AI映画が劇場公開",
+          "headline": "中国以外の新作マイクロドラマ\n三分の二をAIが制作",
+          "body": "Owl & Co.の報告で、視聴時間トップのマイクロドラマは合成俳優の作品だった。",
+          "mini_headline": "マイクロドラマの大半はAI製",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
-                "cap": "写真＝ロッテカルチャーワークス"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "ReelShortで好成績を収めたAIマイクロドラマ『The Great and Powerful Genie』。Courtesy of ReelShort"
               },
               {
                 "t": "p",
-                "x": "ロッテシネマが人工知能（AI）と映画の出会いを劇場で披露する。京畿道と京畿コンテンツ振興院が主催した「2026 大韓民国AIコンテンツアワーズ（K-AICA）」の本選進出作と受賞作18本を、国内の劇場で単独上映する。"
+                "x": "Owl & Co.の最新レポート「What We Watched on Vertical」によると、2026年第三四半期に上位20プラットフォームで公開された中国以外の縦型ドラマのうち、三分の二がAI生成だった。第一四半期の3パーセント、第二四半期の28パーセントから増えた。"
               },
               {
                 "t": "p",
-                "x": "今回の特別展は28日まで、ロッテシネマの首都圏31館で開かれる。世界87か国から応募された1528本の中から選ばれた作品を、大型スクリーンと劇場の音響で鑑賞できる機会だ。料金は3000ウォンで、予約はロッテシネマの公式サイトとモバイルアプリで受け付ける。"
+                "x": "この変化は中国の動きと重なる。中国では2026年初めに公開された作品の95パーセント超がAIで制作されたと伝えられている。有料アプリでは、視聴時間の上位五作品に入った実写作品は一つだけで、首位はReelShortのAI-generated作品『The Great and Powerful Genie』だった。"
               },
               {
                 "t": "p",
-                "x": "上映作は中・短編部門の受賞作9本を含む計18本だ。観客が鑑賞しやすいよう5つのパートに分け、各パートは2〜5本ずつ約90分の構成とした。"
+                "x": "追跡対象のアプリはこの四半期に63B 回の視聴と二十億時間の視聴時間を記録し、TikTokの無料アプリPineDramaが全視聴回数の半分以上を占めた。"
               },
               {
                 "t": "p",
-                "x": "チャン・グォノ監督の中編『ロイ・オン・ザ・ロード』はAIを使った映画的想像力の広がりを示し、ロバート・ゴデット監督の短編『ママの目にだけかわいい顔』はアニメーションと実写を交差させて一風変わった時空間を描き出す。"
-              },
-              {
-                "t": "p",
-                "x": "上映館は京畿地域20館とソウル地域11館だ。水原、東灘、板橋、富川、龍仁など京畿の主要地域と、建大入口、金浦空港、永登浦、龍山、ワールドタワーなどソウルの主要館で観覧できる。"
-              },
-              {
-                "t": "p",
-                "x": "ロッテシネマ関係者は16日、「創作者たちの新たな挑戦と想像力が込められた作品を劇場で紹介できることは意義が大きい」とし、「今後も未来型コンテンツを劇場とつなぎ、差別化された文化体験を提供していく」と述べた。"
+                "x": "ただしレポートは、中国で「実写への揺り戻し」が見られると指摘する。ReelShortでは、公開30日後も視聴回数の上位10パーセントにとどまる確率が、AI作品より実写作品の方が高かった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "乐天影院以3000韩元\n放映18部AI电影",
-          "body": "乐天影院将以3000韩元（3천원）独家放映从87国参赛作品中选出的18部AI电影。",
-          "mini_headline": "AI电影登上大银幕",
+          "headline": "中国以外新微短剧\n三分之二由AI生成",
+          "body": "Owl & Co.报告显示，按观看分钟数计，排名居首的微短剧是由合成演员出演的作品。",
+          "mini_headline": "微短剧多数已由AI制作",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
-                "cap": "图片＝乐天文化（Lotte Cultureworks）"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "ReelShort 表现最佳的 AI 微短剧之一《The Great and Powerful Genie》。图片由 ReelShort 提供"
               },
               {
                 "t": "p",
-                "x": "乐天影院将在影院呈现人工智能（AI）与电影的相遇。由京畿道和京畿内容振兴院主办的“2026 大韩民国AI内容大奖（K-AICA）”决赛入围作品及获奖作品共18部，将在韩国国内影院中独家放映。"
+                "x": "根据 Owl & Co. 最新发布的“What We Watched on Vertical”报告，2026年第三季度，20个头部平台在中国以外上线的竖屏短剧中，有三分之二由 AI 生成，而第一季度这一比例为百分之三，第二季度为百分之二十八。"
               },
               {
                 "t": "p",
-                "x": "此次特别展映将持续到28日，在乐天影院首都圈31家影院举行。观众可借此机会通过大银幕和影院音响，观看从全球87个国家提交的1528部作品中选出的作品。票价为3000韩元，可通过乐天影院官网和手机应用预订。"
+                "x": "这一转变与中国的情况相呼应：据报道，2026年初在中国上线的作品中，超过百分之95是借助 AI 制作的。在付费应用中，按观看分钟数计，仅有一部真人作品跻身前五；排名第一的是 ReelShort 的 AI-generated（AI生成）作品《The Great and Powerful Genie》。"
               },
               {
                 "t": "p",
-                "x": "放映作品共18部，其中包括中短片单元获奖作品9部。为方便观众观看，作品分为5个单元，每个单元编排2~5部，时长约90分钟。"
+                "x": "该季度，被追踪的应用共录得630亿次观看和二十亿小时观看时长，其中 TikTok 旗下的免费应用 PineDrama 占全部观看次数的一半以上。"
               },
               {
                 "t": "p",
-                "x": "张权浩导演的中片《路上的罗伊》展示了借助AI拓展的电影想象力；罗伯特·戈德特导演的短片《只在妈妈眼里漂亮的脸》则交织动画与实拍，呈现别样的时空。"
-              },
-              {
-                "t": "p",
-                "x": "放映影院包括京畿地区20家和首尔地区11家，观众可在水原、东滩、板桥、富川、龙仁等京畿主要地区，以及建大入口、金浦机场、永登浦、龙山、世界塔等首尔主要影院观看。"
-              },
-              {
-                "t": "p",
-                "x": "乐天影院相关人士16日表示：“能在影院介绍承载创作者新挑战与想象力的作品，意义重大。”并称：“今后也将把未来型内容与影院相连，提供差异化的文化体验。”"
+                "x": "不过，报告也指出，中国正出现“向真人拍摄回调”的迹象；在 ReelShort，真人作品在上线30天后仍保持在观看量前百分之十的概率高于 AI 作品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lotte Cinema proyecta 18\npelículas de AI por 3000 wones",
-          "body": "Lotte Cinema proyecta en exclusiva 18 películas de AI elegidas entre obras de 87 países por 3000 wones (3천원).",
-          "mini_headline": "Películas de AI llegan al cine",
+          "headline": "La IA hizo dos tercios de nuevos\nmicrodramas fuera de China",
+          "body": "Un informe de Owl & Co. halló que las historias con actores sintéticos fueron los microdramas más vistos en minutos.",
+          "mini_headline": "La IA hace la mayoría de los microdramas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
-                "cap": "Foto: Lotte Cultureworks"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "‘The Great and Powerful Genie’, uno de los microdramas de IA con mejor rendimiento de ReelShort. Cortesía de ReelShort"
               },
               {
                 "t": "p",
-                "x": "Lotte Cinema lleva a sus salas el encuentro entre la inteligencia artificial (AI) y el cine. Proyectará en exclusiva, entre los cines del país, 18 obras finalistas y premiadas de los ‘2026 Korea AI Content Awards (K-AICA)’, organizados por la provincia de Gyeonggi y la Agencia de Contenidos de Gyeonggi."
+                "x": "Dos tercios de los dramas verticales estrenados fuera de China en el tercer trimestre de 2026 en 20 de las principales plataformas fueron generados con IA, según el último informe “What We Watched on Vertical” de Owl & Co., frente al 3 por ciento del primer trimestre y el 28 por ciento del segundo."
               },
               {
                 "t": "p",
-                "x": "La muestra especial se celebra hasta el día 28 en 31 cines de Lotte Cinema del área metropolitana de Seúl. Es una oportunidad para ver en pantalla grande y con sonido de cine obras seleccionadas entre 1528 presentadas desde 87 países. La entrada cuesta 3000 wones y las reservas pueden hacerse en el sitio web oficial y la app móvil de Lotte Cinema."
+                "x": "El cambio refleja lo ocurrido en China, donde, según se informa, más del 95 por ciento de los títulos estrenados a principios de 2026 se hicieron con IA. Entre las aplicaciones de pago, solo un título de imagen real entró en los cinco primeros por minutos vistos; el número uno fue The Great and Powerful Genie, de ReelShort, una obra AI-generated (generada con IA)."
               },
               {
                 "t": "p",
-                "x": "La programación suma 18 obras, incluidas 9 premiadas en las categorías de mediometraje y cortometraje. Para facilitar la visualización, se organizaron en 5 partes, cada una con 2 a 5 obras y unos 90 minutos de duración."
+                "x": "Las aplicaciones analizadas registraron 63 mil millones de visualizaciones y dos mil millones de horas de visionado en el trimestre, y la aplicación gratuita PineDrama, de TikTok, acaparó más de la mitad de todas las visualizaciones."
               },
               {
                 "t": "p",
-                "x": "El mediometraje ‘Roy on the Road’, del director Jang Kwon-ho, muestra cómo la AI amplía la imaginación cinematográfica, y el cortometraje ‘Una cara bonita solo a los ojos de mamá’, del director Robert Godet, cruza animación e imagen real para crear un espacio-tiempo singular."
-              },
-              {
-                "t": "p",
-                "x": "Las salas son 20 en Gyeonggi y 11 en Seúl. Pueden verse en zonas clave de Gyeonggi como Suwon, Dongtan, Pangyo, Bucheon y Yongin, y en cines principales de Seúl como Konkuk University Entrance, Gimpo Airport, Yeongdeungpo, Yongsan y World Tower."
-              },
-              {
-                "t": "p",
-                "x": "Un responsable de Lotte Cinema dijo el día 16: “Es muy significativo presentar en el cine obras que reflejan los nuevos desafíos y la imaginación de los creadores”, y añadió: “Seguiremos conectando contenidos del futuro con las salas para ofrecer una experiencia cultural diferenciada”."
+                "x": "Aun así, el informe señala que China muestra “un repliegue hacia la imagen real”, y en ReelShort los títulos de imagen real tuvieron más probabilidades que los de IA de seguir en el 10 por ciento superior por visualizaciones 30 días después del estreno."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Lotte Cinema screens 18 AI\nfilms for 3000 won (3천원)",
-          "body": "Lotte Cinema is screening 18 AI films, chosen from entries from 87 countries, exclusively for 3000 won (3천원).",
-          "mini_headline": "AI films hit theaters",
+        "ko": {
+          "headline": "중국 밖 마이크로드라마\n신작 삼분의 이 AI 제작",
+          "body": "Owl & Co. 보고서에서 시청 시간 최상위 작품은 합성 배우 드라마였다.",
+          "mini_headline": "마이크로드라마 대부분 AI 제작",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
-                "cap": "Photo: Lotte Cultureworks"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "ReelShort에서 높은 성과를 낸 AI 마이크로드라마 ‘The Great and Powerful Genie’. Courtesy of ReelShort"
               },
               {
                 "t": "p",
-                "x": "Lotte Cinema is bringing artificial intelligence (AI) and film together in theaters. It will screen 18 finalists and winners from the ‘2026 Korea AI Content Awards (K-AICA)’, hosted by Gyeonggi Province and the Gyeonggi Content Agency, exclusively among domestic theaters."
+                "x": "Owl & Co.의 최신 보고서 “What We Watched on Vertical”에 따르면, 2026년 3분기 상위 20개 플랫폼에서 나온 중국 밖 세로형 드라마 신작의 삼분의 이가 AI로 생성됐다. 첫 분기 3퍼센트, 두 번째 분기 28퍼센트에서 늘어난 수치다."
               },
               {
                 "t": "p",
-                "x": "The special program runs through the 28th at 31 Lotte Cinema locations in the Seoul metropolitan area. It is a chance to see works selected from 1528 entries submitted from 87 countries on a big screen with theater sound. Tickets cost 3000 won, and bookings can be made on Lotte Cinema's official website and mobile app."
+                "x": "이 흐름은 중국과 닮았다. 중국에서는 2026년 초 공개된 작품의 95퍼센트 이상이 AI로 만들어졌다고 전해진다. 유료 앱에서는 시청 시간 기준 상위 다섯 편에 든 실사 작품이 단 하나였고, 정상에 오른 작품은 ReelShort가 AI로 생성한(AI-generated) The Great and Powerful Genie였다."
               },
               {
                 "t": "p",
-                "x": "The lineup totals 18 films, including 9 winners in the medium-length and short categories. To make viewing convenient, the films are organized into 5 parts, each with 2 to 5 films running about 90 minutes."
+                "x": "추적 대상 앱들은 이 분기에 조회 63B 회, 시청 이십억 시간을 기록했고, 전체 조회의 절반 이상이 TikTok의 무료 앱 PineDrama에서 나왔다."
               },
               {
                 "t": "p",
-                "x": "Director Jang Kwon-ho's medium-length film ‘Roy on the Road’ shows how AI can extend cinematic imagination, while director Robert Godet's short ‘A Face Pretty Only to Mom’ crosses animation and live action to create an unusual time and space."
-              },
-              {
-                "t": "p",
-                "x": "The films screen at 20 locations in Gyeonggi and 11 in Seoul. Audiences can see them in major Gyeonggi areas such as Suwon, Dongtan, Pangyo, Bucheon and Yongin, and at major Seoul locations such as Konkuk University Entrance, Gimpo Airport, Yeongdeungpo, Yongsan and World Tower."
-              },
-              {
-                "t": "p",
-                "x": "A Lotte Cinema official said on the 16th, “It is very meaningful to introduce in theaters works that carry creators' new challenges and imagination,” adding, “We will continue to connect future-oriented content with theaters to offer a distinctive cultural experience.”"
+                "x": "다만 보고서는 중국이 “실사로 회귀하는 움직임”을 보이고 있다고 짚었다. ReelShort에서는 공개 30일 뒤에도 조회수 상위 10퍼센트에 머물 가능성이 AI 작품보다 실사 작품이 더 높았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ロッテシネマ、AI映画\n18本を3000ウォンで",
-          "body": "ロッテシネマが87か国の応募作中のAI映画18本を3000ウォン（3천원）で単独上映する。",
-          "mini_headline": "AI映画が劇場公開",
+          "headline": "中国以外の新作マイクロドラマ\n三分の二をAIが制作",
+          "body": "Owl & Co.の報告で、視聴時間トップのマイクロドラマは合成俳優の作品だった。",
+          "mini_headline": "マイクロドラマの大半はAI製",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
-                "cap": "写真＝ロッテカルチャーワークス"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "ReelShortで好成績を収めたAIマイクロドラマ『The Great and Powerful Genie』。Courtesy of ReelShort"
               },
               {
                 "t": "p",
-                "x": "ロッテシネマが人工知能（AI）と映画の出会いを劇場で披露する。京畿道と京畿コンテンツ振興院が主催した「2026 大韓民国AIコンテンツアワーズ（K-AICA）」の本選進出作と受賞作18本を、国内の劇場で単独上映する。"
+                "x": "Owl & Co.の最新レポート「What We Watched on Vertical」によると、2026年第三四半期に上位20プラットフォームで公開された中国以外の縦型ドラマのうち、三分の二がAI生成だった。第一四半期の3パーセント、第二四半期の28パーセントから増えた。"
               },
               {
                 "t": "p",
-                "x": "今回の特別展は28日まで、ロッテシネマの首都圏31館で開かれる。世界87か国から応募された1528本の中から選ばれた作品を、大型スクリーンと劇場の音響で鑑賞できる機会だ。料金は3000ウォンで、予約はロッテシネマの公式サイトとモバイルアプリで受け付ける。"
+                "x": "この変化は中国の動きと重なる。中国では2026年初めに公開された作品の95パーセント超がAIで制作されたと伝えられている。有料アプリでは、視聴時間の上位五作品に入った実写作品は一つだけで、首位はReelShortのAI-generated作品『The Great and Powerful Genie』だった。"
               },
               {
                 "t": "p",
-                "x": "上映作は中・短編部門の受賞作9本を含む計18本だ。観客が鑑賞しやすいよう5つのパートに分け、各パートは2〜5本ずつ約90分の構成とした。"
+                "x": "追跡対象のアプリはこの四半期に63B 回の視聴と二十億時間の視聴時間を記録し、TikTokの無料アプリPineDramaが全視聴回数の半分以上を占めた。"
               },
               {
                 "t": "p",
-                "x": "チャン・グォノ監督の中編『ロイ・オン・ザ・ロード』はAIを使った映画的想像力の広がりを示し、ロバート・ゴデット監督の短編『ママの目にだけかわいい顔』はアニメーションと実写を交差させて一風変わった時空間を描き出す。"
-              },
-              {
-                "t": "p",
-                "x": "上映館は京畿地域20館とソウル地域11館だ。水原、東灘、板橋、富川、龍仁など京畿の主要地域と、建大入口、金浦空港、永登浦、龍山、ワールドタワーなどソウルの主要館で観覧できる。"
-              },
-              {
-                "t": "p",
-                "x": "ロッテシネマ関係者は16日、「創作者たちの新たな挑戦と想像力が込められた作品を劇場で紹介できることは意義が大きい」とし、「今後も未来型コンテンツを劇場とつなぎ、差別化された文化体験を提供していく」と述べた。"
+                "x": "ただしレポートは、中国で「実写への揺り戻し」が見られると指摘する。ReelShortでは、公開30日後も視聴回数の上位10パーセントにとどまる確率が、AI作品より実写作品の方が高かった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "乐天影院以3000韩元\n放映18部AI电影",
-          "body": "乐天影院将以3000韩元（3천원）独家放映从87国参赛作品中选出的18部AI电影。",
-          "mini_headline": "AI电影登上大银幕",
+          "headline": "中国以外新微短剧\n三分之二由AI生成",
+          "body": "Owl & Co.报告显示，按观看分钟数计，排名居首的微短剧是由合成演员出演的作品。",
+          "mini_headline": "微短剧多数已由AI制作",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
-                "cap": "图片＝乐天文化（Lotte Cultureworks）"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "ReelShort 表现最佳的 AI 微短剧之一《The Great and Powerful Genie》。图片由 ReelShort 提供"
               },
               {
                 "t": "p",
-                "x": "乐天影院将在影院呈现人工智能（AI）与电影的相遇。由京畿道和京畿内容振兴院主办的“2026 大韩民国AI内容大奖（K-AICA）”决赛入围作品及获奖作品共18部，将在韩国国内影院中独家放映。"
+                "x": "根据 Owl & Co. 最新发布的“What We Watched on Vertical”报告，2026年第三季度，20个头部平台在中国以外上线的竖屏短剧中，有三分之二由 AI 生成，而第一季度这一比例为百分之三，第二季度为百分之二十八。"
               },
               {
                 "t": "p",
-                "x": "此次特别展映将持续到28日，在乐天影院首都圈31家影院举行。观众可借此机会通过大银幕和影院音响，观看从全球87个国家提交的1528部作品中选出的作品。票价为3000韩元，可通过乐天影院官网和手机应用预订。"
+                "x": "这一转变与中国的情况相呼应：据报道，2026年初在中国上线的作品中，超过百分之95是借助 AI 制作的。在付费应用中，按观看分钟数计，仅有一部真人作品跻身前五；排名第一的是 ReelShort 的 AI-generated（AI生成）作品《The Great and Powerful Genie》。"
               },
               {
                 "t": "p",
-                "x": "放映作品共18部，其中包括中短片单元获奖作品9部。为方便观众观看，作品分为5个单元，每个单元编排2~5部，时长约90分钟。"
+                "x": "该季度，被追踪的应用共录得630亿次观看和二十亿小时观看时长，其中 TikTok 旗下的免费应用 PineDrama 占全部观看次数的一半以上。"
               },
               {
                 "t": "p",
-                "x": "张权浩导演的中片《路上的罗伊》展示了借助AI拓展的电影想象力；罗伯特·戈德特导演的短片《只在妈妈眼里漂亮的脸》则交织动画与实拍，呈现别样的时空。"
-              },
-              {
-                "t": "p",
-                "x": "放映影院包括京畿地区20家和首尔地区11家，观众可在水原、东滩、板桥、富川、龙仁等京畿主要地区，以及建大入口、金浦机场、永登浦、龙山、世界塔等首尔主要影院观看。"
-              },
-              {
-                "t": "p",
-                "x": "乐天影院相关人士16日表示：“能在影院介绍承载创作者新挑战与想象力的作品，意义重大。”并称：“今后也将把未来型内容与影院相连，提供差异化的文化体验。”"
+                "x": "不过，报告也指出，中国正出现“向真人拍摄回调”的迹象；在 ReelShort，真人作品在上线30天后仍保持在观看量前百分之十的概率高于 AI 作品。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lotte Cinema proyecta 18\npelículas de AI por 3000 wones",
-          "body": "Lotte Cinema proyecta en exclusiva 18 películas de AI elegidas entre obras de 87 países por 3000 wones (3천원).",
-          "mini_headline": "Películas de AI llegan al cine",
+          "headline": "La IA hizo dos tercios de nuevos\nmicrodramas fuera de China",
+          "body": "Un informe de Owl & Co. halló que las historias con actores sintéticos fueron los microdramas más vistos en minutos.",
+          "mini_headline": "La IA hace la mayoría de los microdramas",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.maxmovie.com/news/photo/202610/502436_43296_3353.jpg",
-                "cap": "Foto: Lotte Cultureworks"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
+                "cap": "‘The Great and Powerful Genie’, uno de los microdramas de IA con mejor rendimiento de ReelShort. Cortesía de ReelShort"
               },
               {
                 "t": "p",
-                "x": "Lotte Cinema lleva a sus salas el encuentro entre la inteligencia artificial (AI) y el cine. Proyectará en exclusiva, entre los cines del país, 18 obras finalistas y premiadas de los ‘2026 Korea AI Content Awards (K-AICA)’, organizados por la provincia de Gyeonggi y la Agencia de Contenidos de Gyeonggi."
+                "x": "Dos tercios de los dramas verticales estrenados fuera de China en el tercer trimestre de 2026 en 20 de las principales plataformas fueron generados con IA, según el último informe “What We Watched on Vertical” de Owl & Co., frente al 3 por ciento del primer trimestre y el 28 por ciento del segundo."
               },
               {
                 "t": "p",
-                "x": "La muestra especial se celebra hasta el día 28 en 31 cines de Lotte Cinema del área metropolitana de Seúl. Es una oportunidad para ver en pantalla grande y con sonido de cine obras seleccionadas entre 1528 presentadas desde 87 países. La entrada cuesta 3000 wones y las reservas pueden hacerse en el sitio web oficial y la app móvil de Lotte Cinema."
+                "x": "El cambio refleja lo ocurrido en China, donde, según se informa, más del 95 por ciento de los títulos estrenados a principios de 2026 se hicieron con IA. Entre las aplicaciones de pago, solo un título de imagen real entró en los cinco primeros por minutos vistos; el número uno fue The Great and Powerful Genie, de ReelShort, una obra AI-generated (generada con IA)."
               },
               {
                 "t": "p",
-                "x": "La programación suma 18 obras, incluidas 9 premiadas en las categorías de mediometraje y cortometraje. Para facilitar la visualización, se organizaron en 5 partes, cada una con 2 a 5 obras y unos 90 minutos de duración."
+                "x": "Las aplicaciones analizadas registraron 63 mil millones de visualizaciones y dos mil millones de horas de visionado en el trimestre, y la aplicación gratuita PineDrama, de TikTok, acaparó más de la mitad de todas las visualizaciones."
               },
               {
                 "t": "p",
-                "x": "El mediometraje ‘Roy on the Road’, del director Jang Kwon-ho, muestra cómo la AI amplía la imaginación cinematográfica, y el cortometraje ‘Una cara bonita solo a los ojos de mamá’, del director Robert Godet, cruza animación e imagen real para crear un espacio-tiempo singular."
-              },
-              {
-                "t": "p",
-                "x": "Las salas son 20 en Gyeonggi y 11 en Seúl. Pueden verse en zonas clave de Gyeonggi como Suwon, Dongtan, Pangyo, Bucheon y Yongin, y en cines principales de Seúl como Konkuk University Entrance, Gimpo Airport, Yeongdeungpo, Yongsan y World Tower."
-              },
-              {
-                "t": "p",
-                "x": "Un responsable de Lotte Cinema dijo el día 16: “Es muy significativo presentar en el cine obras que reflejan los nuevos desafíos y la imaginación de los creadores”, y añadió: “Seguiremos conectando contenidos del futuro con las salas para ofrecer una experiencia cultural diferenciada”."
+                "x": "Aun así, el informe señala que China muestra “un repliegue hacia la imagen real”, y en ReelShort los títulos de imagen real tuvieron más probabilidades que los de IA de seguir en el 10 por ciento superior por visualizaciones 30 días después del estreno."
               }
             ]
           }
@@ -1159,15 +1119,15 @@
       }
     },
     {
-      "id": "movies-tapnow-arena-seoul",
-      "source_lang": "ko",
+      "id": "movies-runway-ceo-ai-actors-view",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "32시간 만에 AI로\n찍는 단편영화",
-      "body": "TapNow 서울 대회 팀들이 32시간 만에 AI로 3~8분 영화를 만들었다.",
-      "mini_headline": "게임하듯 찍는 AI 영화",
+      "headline": "Runway co-CEO\nAI가 배우 대체 가능",
+      "body": "Runway co-CEO는 AI가 배우를 “당연히” 대체할 수 있다고 답했다.",
+      "mini_headline": "Runway co-CEO “AI가 배우 대체 가능”",
       "tool": "Movies",
-      "source": "중앙일보",
-      "url": "https://www.joongang.co.kr/article/25471126",
+      "source": "Variety",
+      "url": "https://variety.com/2026/tv/global/ai-could-replace-actors-runway-ceo-cristobal-valenzuela-1236916525/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1175,405 +1135,335 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
-            "cap": "‘아레나 피크 아시아’에서 동상을 받은 한국 AI 단편 ‘서푼’의 한 장면. 사진 야호"
+            "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
           },
           {
             "t": "p",
-            "x": "17일 오후 7시경 서울 서초구의 한 빌딩에서 홍콩 기반 AI 창작 플랫폼 탭나우가 주최한 AI 영화 제작 대회 ‘아레나 피크 아시아’ 서울 대회가 끝났다. 참가 팀들은 전날부터 32시간에 걸쳐 탭나우를 80% 이상 활용해 3~8분 길이 AI 영화를 만들었다."
+            "x": "Turin의 View Conference 대담 “Every Pixel Will Be Generated(모든 픽셀은 생성될 것이다)”에서 한 청중이 생성형 AI 스타트업 Runway의 co-CEO Cristóbal Valenzuela에게 AI가 결국 인간 배우를 대체할 수 있겠느냐고 물었다."
           },
           {
             "t": "p",
-            "x": "총상금 8만달러(약 1억원)를 웃돈 경연은 기획부터 촬영, 편집, 음악, 사운드, 더빙, VFX까지 컴퓨터 한 대로 처리하는 ‘책상머리 제작’이었다. 공모로 뽑힌 한·중·일 160개팀(최대 3인)이 동시에 대회를 치렀고, 서울 행사는 중앙대 첨단영상대학원과 서울국제초단편영화제가 공동주관했다."
-          },
-          {
-            "t": "img",
-            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
-            "cap": "참가자들이 각자 가져온 장비. 사진 서울국제초단편영화제"
+            "x": "그는 “네, 당연하죠. 어떤 면에서는 이미 일어나고 있다고 봅니다”라고 답했다. AI를 “새로운 표현 매체”이자 “새로운 스토리텔링 매체”로 부르기도 했다."
           },
           {
             "t": "p",
-            "x": "16일 오전 11시 주제가 제시되자 다수 참가자가 챗GPT·클로드 등에 줄거리와 장르를 물었고, 콘티 분석도 AI에 맡기는 경우가 많았다. 시나리오를 쓰면서 캐릭터 디자인과 음악을 뽑고, 영상 생성과 편집을 동시에 하는 식으로 기존 공정을 따르지 않는 모습도 보였다."
-          },
-          {
-            "t": "img",
-            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
-            "cap": "32시간 AI 영화 제작에 참가한 40개 한국 팀. 사진 서울국제초단편영화제"
+            "x": "함께 무대에 오른 Nvidia의 Richard Kerris는 감독과 배우 사이의 즉흥성만큼은 결코 프롬프트로 만들 수 없다던 어느 감독의 말을 꺼냈다. Valenzuela는 모델도 “아마” 아주 비슷하게 연출할 수 있는 단계에 이를 거라고 받아쳤다."
           },
           {
             "t": "p",
-            "x": "18일 시상식에서는 AI 스터디로 만난 동호인들이 만든 단편 ‘서푼’이 한국팀 중 유일하게 3개국 본상(동상)을 받았다. 심사위원 민규동 감독은 “영화 만들기가 게임처럼 스포츠화 될 수도 있겠다는 생각이 들었다”고 말했다."
+            "x": "Valenzuela는 에세이에서 “픽셀을 만드는 일의 가치는 제로를 향하고 있다”고 내다봤다. AI가 제작가치 높은 콘텐츠, 곧 “마지막 남은 비싼 층”의 비용을 무너뜨리는 중이라고도 썼다."
+          },
+          {
+            "t": "p",
+            "x": "Variety가 학습 데이터를 묻자 그는 모델이 “데이터베이스가 아니”며 표현에서 배운다고 답했다. Runway는 시각 예술가들이 보상도 허락도 없이 작품이 쓰였다며 진행 중인 집단소송의 피고 가운데 하나다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "32시간 만에 AI로\n찍는 단편영화",
-          "body": "TapNow 서울 대회 팀들이 32시간 만에 AI로 3~8분 영화를 만들었다.",
-          "mini_headline": "게임하듯 찍는 AI 영화",
+        "en": {
+          "headline": "Runway's co-CEO says AI could\nreplace human actors",
+          "body": "At Turin's View Conference, Runway co-CEO Cristóbal Valenzuela said AI could “absolutely” replace human actors.",
+          "mini_headline": "Runway co-CEO: AI could replace actors",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
-                "cap": "‘아레나 피크 아시아’에서 동상을 받은 한국 AI 단편 ‘서푼’의 한 장면. 사진 야호"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "17일 오후 7시경 서울 서초구의 한 빌딩에서 홍콩 기반 AI 창작 플랫폼 탭나우가 주최한 AI 영화 제작 대회 ‘아레나 피크 아시아’ 서울 대회가 끝났다. 참가 팀들은 전날부터 32시간에 걸쳐 탭나우를 80% 이상 활용해 3~8분 길이 AI 영화를 만들었다."
+                "x": "During a fireside chat titled “Every Pixel Will Be Generated” at Turin's View Conference, an audience member asked Cristóbal Valenzuela, co-CEO of generative AI startup Runway, whether AI could eventually replace human actors."
               },
               {
                 "t": "p",
-                "x": "총상금 8만달러(약 1억원)를 웃돈 경연은 기획부터 촬영, 편집, 음악, 사운드, 더빙, VFX까지 컴퓨터 한 대로 처리하는 ‘책상머리 제작’이었다. 공모로 뽑힌 한·중·일 160개팀(최대 3인)이 동시에 대회를 치렀고, 서울 행사는 중앙대 첨단영상대학원과 서울국제초단편영화제가 공동주관했다."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
-                "cap": "참가자들이 각자 가져온 장비. 사진 서울국제초단편영화제"
+                "x": "“Yeah, absolutely. I think it's already happening in a way,” he replied, calling AI “a new medium of expression” and “a new medium of storytelling.”"
               },
               {
                 "t": "p",
-                "x": "16일 오전 11시 주제가 제시되자 다수 참가자가 챗GPT·클로드 등에 줄거리와 장르를 물었고, 콘티 분석도 AI에 맡기는 경우가 많았다. 시나리오를 쓰면서 캐릭터 디자인과 음악을 뽑고, 영상 생성과 편집을 동시에 하는 식으로 기존 공정을 따르지 않는 모습도 보였다."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
-                "cap": "32시간 AI 영화 제작에 참가한 40개 한국 팀. 사진 서울국제초단편영화제"
+                "x": "Fellow speaker Richard Kerris of Nvidia recalled a director's argument that the spontaneity between a director and an actor could never be prompted. Valenzuela countered that models will “probably” get to a point where you can direct them in a very similar way."
               },
               {
                 "t": "p",
-                "x": "18일 시상식에서는 AI 스터디로 만난 동호인들이 만든 단편 ‘서푼’이 한국팀 중 유일하게 3개국 본상(동상)을 받았다. 심사위원 민규동 감독은 “영화 만들기가 게임처럼 스포츠화 될 수도 있겠다는 생각이 들었다”고 말했다."
+                "x": "In his essays, Valenzuela predicts that “the value of creating pixels is trending towards zero,” and that AI is collapsing the cost of high-production-value content, “the last expensive layer.”"
+              },
+              {
+                "t": "p",
+                "x": "Asked by Variety about training data, he said models are “not databases” but learn from representation. Runway is among the defendants in a proposed class action by visual artists alleging their work was used without compensation or permission."
               }
             ]
           }
         },
-        "en": {
-          "headline": "AI short films made\nin just 32 hours",
-          "body": "Teams at TapNow's Seoul contest used AI to make films of 3 to 8 minutes in 32 hours.",
-          "mini_headline": "AI filmmaking played like a game",
+        "ko": {
+          "headline": "Runway co-CEO\nAI가 배우 대체 가능",
+          "body": "Runway co-CEO는 AI가 배우를 “당연히” 대체할 수 있다고 답했다.",
+          "mini_headline": "Runway co-CEO “AI가 배우 대체 가능”",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
-                "cap": "A scene from ‘Seopun’, a Korean AI short that won a bronze prize at ‘Arena Peak Asia’. Photo: Yaho"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Around 7 p.m. on the 17th, the Seoul round of ‘Arena Peak Asia’, an AI filmmaking contest hosted by Hong Kong-based AI creation platform TapNow, ended in a building in Seocho-gu, Seoul. Over 32 hours starting the previous day, teams made AI films 3 to 8 minutes long, using TapNow for more than 80% of the work."
+                "x": "Turin의 View Conference 대담 “Every Pixel Will Be Generated(모든 픽셀은 생성될 것이다)”에서 한 청중이 생성형 AI 스타트업 Runway의 co-CEO Cristóbal Valenzuela에게 AI가 결국 인간 배우를 대체할 수 있겠느냐고 물었다."
               },
               {
                 "t": "p",
-                "x": "The contest, with total prize money of more than 80,000 dollars (8만달러, about 1억원), was ‘desk-bound production’: planning, shooting, editing, music, sound, dubbing and VFX all handled on a single computer. A total of 160 teams (up to 3 people each) from Korea, China and Japan, selected through an open call, competed at the same time, and the Seoul event was co-organized by the Chung-Ang University Graduate School of Advanced Imaging Science and the Seoul International Extreme-Short Image & Film Festival."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
-                "cap": "Equipment the participants brought themselves. Photo: Seoul International Extreme-Short Image & Film Festival"
+                "x": "그는 “네, 당연하죠. 어떤 면에서는 이미 일어나고 있다고 봅니다”라고 답했다. AI를 “새로운 표현 매체”이자 “새로운 스토리텔링 매체”로 부르기도 했다."
               },
               {
                 "t": "p",
-                "x": "When the theme was announced at 11 a.m. on the 16th, many participants asked ChatGPT, Claude and others for plots and genres, and many also left storyboard analysis to AI. Some broke from the conventional workflow, generating character designs and music while writing the script, and producing and editing video at the same time."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
-                "cap": "The 40 Korean teams that took part in the 32-hour AI filmmaking contest. Photo: Seoul International Extreme-Short Image & Film Festival"
+                "x": "함께 무대에 오른 Nvidia의 Richard Kerris는 감독과 배우 사이의 즉흥성만큼은 결코 프롬프트로 만들 수 없다던 어느 감독의 말을 꺼냈다. Valenzuela는 모델도 “아마” 아주 비슷하게 연출할 수 있는 단계에 이를 거라고 받아쳤다."
               },
               {
                 "t": "p",
-                "x": "At the awards ceremony on the 18th, ‘Seopun’, a short made by hobbyists who met through an AI study group, was the only film by a Korean team to win a main prize (bronze) across the 3 countries. Juror and director Min Kyu-dong said, “It made me think filmmaking could become a sport, like a game.”"
+                "x": "Valenzuela는 에세이에서 “픽셀을 만드는 일의 가치는 제로를 향하고 있다”고 내다봤다. AI가 제작가치 높은 콘텐츠, 곧 “마지막 남은 비싼 층”의 비용을 무너뜨리는 중이라고도 썼다."
+              },
+              {
+                "t": "p",
+                "x": "Variety가 학습 데이터를 묻자 그는 모델이 “데이터베이스가 아니”며 표현에서 배운다고 답했다. Runway는 시각 예술가들이 보상도 허락도 없이 작품이 쓰였다며 진행 중인 집단소송의 피고 가운데 하나다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "32時間でAIを使い\n短編映画を制作",
-          "body": "TapNowソウル大会の各チームが、32時間でAIを使い3〜8分の映画を作った。",
-          "mini_headline": "ゲーム感覚で撮るAI映画",
+          "headline": "Runwayのco-CEO\n「AIは俳優を代替可能」",
+          "body": "Runwayのco-CEOが、AIは人間の俳優を「間違いなく」代替し得ると発言した。",
+          "mini_headline": "Runway co-CEO「AIは俳優を代替し得る」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
-                "cap": "「アリーナ・ピーク・アジア」で銅賞を受けた韓国のAI短編『ソプン』の一場面。写真：ヤホ"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "17日午後7時ごろ、ソウル・瑞草区のビルで、香港拠点のAI創作プラットフォームTapNowが主催したAI映画制作大会「アリーナ・ピーク・アジア」のソウル大会が終わった。参加チームは前日から32時間かけ、TapNowを80%以上活用して3〜8分のAI映画を作った。"
+                "x": "TurinのView Conferenceで行われた「Every Pixel Will Be Generated」と題した対談で、観客の一人が生成AIスタートアップRunwayのco-CEO、Cristóbal Valenzuelaに、AIはいずれ人間の俳優に取って代わり得るかと尋ねた。"
               },
               {
                 "t": "p",
-                "x": "総賞金8万ドル（8만달러、약 1억원）を上回るこの競技は、企画から撮影、編集、音楽、サウンド、吹き替え、VFXまでをパソコン1台でこなす「机上制作」だった。公募で選ばれた日中韓160チーム（最大3人）が同時に大会に臨み、ソウル会場は中央大学先端映像大学院とソウル国際超短編映画祭が共同主管した。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
-                "cap": "参加者がそれぞれ持ち込んだ機材。写真：ソウル国際超短編映画祭"
+                "x": "「ええ、間違いなく。ある意味ではすでに起きていると思う」と彼は答え、AIを「新しい表現のメディア」であり「新しいストーリーテリングのメディア」だと呼んだ。"
               },
               {
                 "t": "p",
-                "x": "16日午前11時にテーマが発表されると、多くの参加者がChatGPTやClaudeなどにあらすじやジャンルを尋ね、絵コンテの分析もAIに任せるケースが多かった。シナリオを書きながらキャラクターデザインと音楽を生成し、映像生成と編集を同時に進めるなど、従来の工程に従わない姿も見られた。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
-                "cap": "32時間のAI映画制作に参加した韓国40チーム。写真：ソウル国際超短編映画祭"
+                "x": "同じく登壇したNvidiaのRichard Kerrisは、監督と俳優の間に生まれる即興性は決してプロンプトでは作れない、というある監督の主張を紹介した。Valenzuelaは、モデルも「おそらく」非常によく似たやり方で演出できる段階に達すると反論した。"
               },
               {
                 "t": "p",
-                "x": "18日の授賞式では、AIの勉強会で知り合った愛好家たちが作った短編『ソプン』が、韓国チームで唯一、3か国の本賞（銅賞）を受けた。審査員のミン・ギュドン監督は「映画づくりがゲームのようにスポーツ化するかもしれないと思った」と語った。"
+                "x": "Valenzuelaはエッセイの中で「ピクセルを作ることの価値はゼロに向かっている」と予測し、AIが高い制作価値を持つコンテンツ、すなわち「最後の高価な層」のコストを崩していると述べている。"
+              },
+              {
+                "t": "p",
+                "x": "Varietyから学習データについて問われると、彼はモデルは「データベースではない」とし、表現から学ぶのだと答えた。Runwayは、作品を無報酬・無許可で使われたと主張する視覚芸術家らが起こそうとしている集団訴訟で、被告の一社となっている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "32小时内用AI\n拍成短片",
-          "body": "TapNow首尔赛的参赛队伍在32小时内用AI制作了3~8分钟的影片。",
-          "mini_headline": "像打游戏一样拍AI电影",
+          "headline": "Runway co-CEO\n称AI能取代真人演员",
+          "body": "Runway co-CEO Valenzuela在都灵称AI“绝对”能取代人类演员。",
+          "mini_headline": "Runway co-CEO：AI可取代演员",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
-                "cap": "在“Arena Peak Asia”获得铜奖的韩国AI短片《三文钱》的一个画面。图片：Yaho"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "17日晚7时许，由总部位于香港的AI创作平台TapNow主办的AI电影制作大赛“Arena Peak Asia”首尔赛在首尔瑞草区一栋大楼内落幕。参赛队伍从前一天起用32小时，以TapNow完成80%以上的工作，制作出时长3~8分钟的AI电影。"
+                "x": "在Turin的View Conference上，一场题为“Every Pixel Will Be Generated”的炉边对谈中，一名观众问生成式AI初创公司Runway的co-CEO Cristóbal Valenzuela，AI最终能否取代人类演员。"
               },
               {
                 "t": "p",
-                "x": "这场总奖金超过8万美元（8만달러，약 1억원）的比赛，是一场从策划到拍摄、剪辑、音乐、音效、配音乃至VFX都在一台电脑上完成的“桌面制作”。经公开征集选出的中日韩160支队伍（每队最多3人）同时参赛，首尔赛由中央大学尖端影像研究生院与首尔国际超短片电影节共同承办。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
-                "cap": "参赛者各自带来的设备。图片：首尔国际超短片电影节"
+                "x": "“是的，绝对可以。我认为在某种程度上这已经在发生了。”他回答说，并称AI是“一种新的表达媒介”和“一种新的叙事媒介”。"
               },
               {
                 "t": "p",
-                "x": "16日上午11时主题公布后，许多参赛者向ChatGPT、Claude等询问剧情和类型，也有不少人把分镜分析交给AI。有人一边写剧本一边生成角色设计和音乐，同时进行视频生成与剪辑，并不遵循传统流程。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
-                "cap": "参加32小时AI电影制作的40支韩国队伍。图片：首尔国际超短片电影节"
+                "x": "同台嘉宾、Nvidia的Richard Kerris提到一位导演的观点：导演与演员之间的即兴火花永远无法靠提示词生成。Valenzuela反驳说，模型“很可能”会发展到可以用非常相似的方式去指导的程度。"
               },
               {
                 "t": "p",
-                "x": "在18日的颁奖典礼上，由在AI学习小组中结识的爱好者们制作的短片《三文钱》，成为韩国队伍中唯一获得3国正式奖项（铜奖）的作品。评委闵奎东导演说：“我觉得拍电影也许会像游戏一样变成一项运动。”"
+                "x": "Valenzuela在文章中预测，“创造像素的价值正趋向于零”，AI正在压低高制作水准内容的成本，而这是“最后一个昂贵的层级”。"
+              },
+              {
+                "t": "p",
+                "x": "被Variety问及训练数据时，他表示模型“不是数据库”，而是从表征中学习。Runway是一起拟议集体诉讼的被告之一，提起诉讼的视觉艺术家指控其作品在未获补偿或许可的情况下被使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cortos hechos con AI\nen solo 32 horas",
-          "body": "Equipos del certamen de TapNow en Seúl hicieron con AI películas de 3 a 8 minutos en solo 32 horas.",
-          "mini_headline": "Cine con AI, como un videojuego",
+          "headline": "Para el co-CEO de Runway, la IA\npodría reemplazar a los actores",
+          "body": "Cristóbal Valenzuela, co-CEO de Runway, dijo en Turín que la IA podría “absolutamente” reemplazar a actores humanos.",
+          "mini_headline": "El co-CEO de Runway: la IA podría sustituir a actores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
-                "cap": "Escena de ‘Seopun’, corto coreano hecho con AI que ganó el bronce en ‘Arena Peak Asia’. Foto: Yaho"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Hacia las 7 de la tarde del día 17 terminó, en un edificio del distrito de Seocho, en Seúl, la ronda de Seúl de ‘Arena Peak Asia’, un concurso de cine con AI organizado por TapNow, plataforma de creación con AI con sede en Hong Kong. Durante 32 horas desde el día anterior, los equipos hicieron películas de AI de 3 a 8 minutos usando TapNow en más del 80% del trabajo."
+                "x": "Durante una charla titulada “Every Pixel Will Be Generated” en la View Conference de Turín, un asistente preguntó a Cristóbal Valenzuela, co-CEO de la startup de IA generativa Runway, si la IA podría llegar a reemplazar a los actores humanos."
               },
               {
                 "t": "p",
-                "x": "El certamen, con premios totales de más de 80.000 dólares (8만달러, unos 약 1억원), fue una ‘producción de escritorio’: planificación, rodaje, montaje, música, sonido, doblaje y VFX con un solo equipo informático. Un total de 160 equipos de Corea, China y Japón (de hasta 3 personas), elegidos por convocatoria, compitieron a la vez; el evento de Seúl lo coorganizaron la Escuela de Posgrado de Imagen Avanzada de la Universidad Chung-Ang y el Festival Internacional de Cortos Ultracortos de Seúl."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
-                "cap": "Equipos que trajo cada participante. Foto: Festival Internacional de Cortos Ultracortos de Seúl"
+                "x": "“Sí, absolutamente. Creo que, de alguna manera, ya está ocurriendo”, respondió, y describió la IA como “un nuevo medio de expresión” y “un nuevo medio para contar historias”."
               },
               {
                 "t": "p",
-                "x": "Cuando se anunció el tema a las 11 de la mañana del día 16, muchos participantes preguntaron a ChatGPT, Claude y otros por la trama y el género, y muchos también dejaron en manos de la AI el análisis del guion gráfico. Algunos no siguieron el proceso tradicional: generaban diseños de personajes y música mientras escribían el guion, y creaban y editaban video al mismo tiempo."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
-                "cap": "Los 40 equipos coreanos que participaron en la producción de cine con AI en 32 horas. Foto: Festival Internacional de Cortos Ultracortos de Seúl"
+                "x": "Richard Kerris, de Nvidia, que también participaba en la charla, recordó el argumento de un director según el cual la espontaneidad entre un director y un actor nunca podría lograrse con un prompt. Valenzuela replicó que los modelos “probablemente” llegarán a un punto en el que se les pueda dirigir de forma muy similar."
               },
               {
                 "t": "p",
-                "x": "En la ceremonia de premios del día 18, ‘Seopun’, un corto hecho por aficionados que se conocieron en un grupo de estudio de AI, fue el único de los equipos coreanos en ganar un premio principal (bronce) entre los 3 países. El director Min Kyu-dong, miembro del jurado, dijo: “Pensé que hacer cine podría convertirse en un deporte, como un videojuego”."
+                "x": "En sus ensayos, Valenzuela predice que “el valor de crear píxeles tiende a cero” y que la IA está desplomando el costo del contenido de alto valor de producción, “la última capa cara”."
+              },
+              {
+                "t": "p",
+                "x": "Consultado por Variety sobre los datos de entrenamiento, dijo que los modelos “no son bases de datos”, sino que aprenden de la representación. Runway figura entre los demandados en una propuesta de demanda colectiva de artistas visuales que alegan que su obra se usó sin compensación ni permiso."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "AI short films made\nin just 32 hours",
-          "body": "Teams at TapNow's Seoul contest used AI to make films of 3 to 8 minutes in 32 hours.",
-          "mini_headline": "AI filmmaking played like a game",
+        "ko": {
+          "headline": "Runway co-CEO\nAI가 배우 대체 가능",
+          "body": "Runway co-CEO는 AI가 배우를 “당연히” 대체할 수 있다고 했다.",
+          "mini_headline": "Runway co-CEO “AI가 배우 대체 가능”",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
-                "cap": "A scene from ‘Seopun’, a Korean AI short that won a bronze prize at ‘Arena Peak Asia’. Photo: Yaho"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Around 7 p.m. on the 17th, the Seoul round of ‘Arena Peak Asia’, an AI filmmaking contest hosted by Hong Kong-based AI creation platform TapNow, ended in a building in Seocho-gu, Seoul. Over 32 hours starting the previous day, teams made AI films 3 to 8 minutes long, using TapNow for more than 80% of the work."
+                "x": "Turin의 View Conference에서 열린 “Every Pixel Will Be Generated(모든 픽셀은 생성될 것이다)”라는 제목의 대담에서, 한 청중이 생성형 AI 스타트업 Runway의 co-CEO Cristóbal Valenzuela에게 AI가 결국 인간 배우를 대체할 수 있느냐고 물었다."
               },
               {
                 "t": "p",
-                "x": "The contest, with total prize money of more than 80,000 dollars (8만달러, about 1억원), was ‘desk-bound production’: planning, shooting, editing, music, sound, dubbing and VFX all handled on a single computer. A total of 160 teams (up to 3 people each) from Korea, China and Japan, selected through an open call, competed at the same time, and the Seoul event was co-organized by the Chung-Ang University Graduate School of Advanced Imaging Science and the Seoul International Extreme-Short Image & Film Festival."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
-                "cap": "Equipment the participants brought themselves. Photo: Seoul International Extreme-Short Image & Film Festival"
+                "x": "그는 “네, 당연하죠. 어떤 면에서는 이미 일어나고 있다고 봅니다”라고 답하며 AI를 “새로운 표현 매체”이자 “새로운 스토리텔링 매체”라고 불렀다."
               },
               {
                 "t": "p",
-                "x": "When the theme was announced at 11 a.m. on the 16th, many participants asked ChatGPT, Claude and others for plots and genres, and many also left storyboard analysis to AI. Some broke from the conventional workflow, generating character designs and music while writing the script, and producing and editing video at the same time."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
-                "cap": "The 40 Korean teams that took part in the 32-hour AI filmmaking contest. Photo: Seoul International Extreme-Short Image & Film Festival"
+                "x": "함께 연사로 나선 Nvidia의 Richard Kerris는 감독과 배우 사이의 즉흥성은 결코 프롬프트로 만들어낼 수 없다던 한 감독의 주장을 떠올렸다. Valenzuela는 모델도 “아마” 아주 비슷한 방식으로 연출할 수 있는 수준에 이를 것이라고 반박했다."
               },
               {
                 "t": "p",
-                "x": "At the awards ceremony on the 18th, ‘Seopun’, a short made by hobbyists who met through an AI study group, was the only film by a Korean team to win a main prize (bronze) across the 3 countries. Juror and director Min Kyu-dong said, “It made me think filmmaking could become a sport, like a game.”"
+                "x": "Valenzuela는 자신의 에세이에서 “픽셀을 만드는 일의 가치는 제로를 향하고 있다”고 내다보며, AI가 높은 제작가치를 지닌 콘텐츠, 곧 “마지막 남은 비싼 층”의 비용을 무너뜨리고 있다고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "Variety가 학습 데이터에 대해 묻자 그는 모델은 “데이터베이스가 아니”며 표현으로부터 학습한다고 답했다. Runway는 시각 예술가들이 자신들의 작품이 보상이나 허락 없이 쓰였다며 추진 중인 집단소송의 피고 가운데 하나다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "32時間でAIを使い\n短編映画を制作",
-          "body": "TapNowソウル大会の各チームが、32時間でAIを使い3〜8分の映画を作った。",
-          "mini_headline": "ゲーム感覚で撮るAI映画",
+          "headline": "Runwayのco-CEO\n「AIは俳優を代替可能」",
+          "body": "Runwayのco-CEOが、AIは人間の俳優を「間違いなく」代替し得ると発言した。",
+          "mini_headline": "Runway co-CEO「AIは俳優を代替し得る」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
-                "cap": "「アリーナ・ピーク・アジア」で銅賞を受けた韓国のAI短編『ソプン』の一場面。写真：ヤホ"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "17日午後7時ごろ、ソウル・瑞草区のビルで、香港拠点のAI創作プラットフォームTapNowが主催したAI映画制作大会「アリーナ・ピーク・アジア」のソウル大会が終わった。参加チームは前日から32時間かけ、TapNowを80%以上活用して3〜8分のAI映画を作った。"
+                "x": "TurinのView Conferenceで行われた「Every Pixel Will Be Generated」と題した対談で、観客の一人が生成AIスタートアップRunwayのco-CEO、Cristóbal Valenzuelaに、AIはいずれ人間の俳優に取って代わり得るかと尋ねた。"
               },
               {
                 "t": "p",
-                "x": "総賞金8万ドル（8만달러、약 1억원）を上回るこの競技は、企画から撮影、編集、音楽、サウンド、吹き替え、VFXまでをパソコン1台でこなす「机上制作」だった。公募で選ばれた日中韓160チーム（最大3人）が同時に大会に臨み、ソウル会場は中央大学先端映像大学院とソウル国際超短編映画祭が共同主管した。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
-                "cap": "参加者がそれぞれ持ち込んだ機材。写真：ソウル国際超短編映画祭"
+                "x": "「ええ、間違いなく。ある意味ではすでに起きていると思う」と彼は答え、AIを「新しい表現のメディア」であり「新しいストーリーテリングのメディア」だと呼んだ。"
               },
               {
                 "t": "p",
-                "x": "16日午前11時にテーマが発表されると、多くの参加者がChatGPTやClaudeなどにあらすじやジャンルを尋ね、絵コンテの分析もAIに任せるケースが多かった。シナリオを書きながらキャラクターデザインと音楽を生成し、映像生成と編集を同時に進めるなど、従来の工程に従わない姿も見られた。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
-                "cap": "32時間のAI映画制作に参加した韓国40チーム。写真：ソウル国際超短編映画祭"
+                "x": "同じく登壇したNvidiaのRichard Kerrisは、監督と俳優の間に生まれる即興性は決してプロンプトでは作れない、というある監督の主張を紹介した。Valenzuelaは、モデルも「おそらく」非常によく似たやり方で演出できる段階に達すると反論した。"
               },
               {
                 "t": "p",
-                "x": "18日の授賞式では、AIの勉強会で知り合った愛好家たちが作った短編『ソプン』が、韓国チームで唯一、3か国の本賞（銅賞）を受けた。審査員のミン・ギュドン監督は「映画づくりがゲームのようにスポーツ化するかもしれないと思った」と語った。"
+                "x": "Valenzuelaはエッセイの中で「ピクセルを作ることの価値はゼロに向かっている」と予測し、AIが高い制作価値を持つコンテンツ、すなわち「最後の高価な層」のコストを崩していると述べている。"
+              },
+              {
+                "t": "p",
+                "x": "Varietyから学習データについて問われると、彼はモデルは「データベースではない」とし、表現から学ぶのだと答えた。Runwayは、作品を無報酬・無許可で使われたと主張する視覚芸術家らが起こそうとしている集団訴訟で、被告の一社となっている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "32小时内用AI\n拍成短片",
-          "body": "TapNow首尔赛的参赛队伍在32小时内用AI制作了3~8分钟的影片。",
-          "mini_headline": "像打游戏一样拍AI电影",
+          "headline": "Runway co-CEO\n称AI能取代真人演员",
+          "body": "Runway co-CEO Valenzuela在都灵称AI“绝对”能取代人类演员。",
+          "mini_headline": "Runway co-CEO：AI可取代演员",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
-                "cap": "在“Arena Peak Asia”获得铜奖的韩国AI短片《三文钱》的一个画面。图片：Yaho"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "17日晚7时许，由总部位于香港的AI创作平台TapNow主办的AI电影制作大赛“Arena Peak Asia”首尔赛在首尔瑞草区一栋大楼内落幕。参赛队伍从前一天起用32小时，以TapNow完成80%以上的工作，制作出时长3~8分钟的AI电影。"
+                "x": "在Turin的View Conference上，一场题为“Every Pixel Will Be Generated”的炉边对谈中，一名观众问生成式AI初创公司Runway的co-CEO Cristóbal Valenzuela，AI最终能否取代人类演员。"
               },
               {
                 "t": "p",
-                "x": "这场总奖金超过8万美元（8만달러，약 1억원）的比赛，是一场从策划到拍摄、剪辑、音乐、音效、配音乃至VFX都在一台电脑上完成的“桌面制作”。经公开征集选出的中日韩160支队伍（每队最多3人）同时参赛，首尔赛由中央大学尖端影像研究生院与首尔国际超短片电影节共同承办。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
-                "cap": "参赛者各自带来的设备。图片：首尔国际超短片电影节"
+                "x": "“是的，绝对可以。我认为在某种程度上这已经在发生了。”他回答说，并称AI是“一种新的表达媒介”和“一种新的叙事媒介”。"
               },
               {
                 "t": "p",
-                "x": "16日上午11时主题公布后，许多参赛者向ChatGPT、Claude等询问剧情和类型，也有不少人把分镜分析交给AI。有人一边写剧本一边生成角色设计和音乐，同时进行视频生成与剪辑，并不遵循传统流程。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
-                "cap": "参加32小时AI电影制作的40支韩国队伍。图片：首尔国际超短片电影节"
+                "x": "同台嘉宾、Nvidia的Richard Kerris提到一位导演的观点：导演与演员之间的即兴火花永远无法靠提示词生成。Valenzuela反驳说，模型“很可能”会发展到可以用非常相似的方式去指导的程度。"
               },
               {
                 "t": "p",
-                "x": "在18日的颁奖典礼上，由在AI学习小组中结识的爱好者们制作的短片《三文钱》，成为韩国队伍中唯一获得3国正式奖项（铜奖）的作品。评委闵奎东导演说：“我觉得拍电影也许会像游戏一样变成一项运动。”"
+                "x": "Valenzuela在文章中预测，“创造像素的价值正趋向于零”，AI正在压低高制作水准内容的成本，而这是“最后一个昂贵的层级”。"
+              },
+              {
+                "t": "p",
+                "x": "被Variety问及训练数据时，他表示模型“不是数据库”，而是从表征中学习。Runway是一起拟议集体诉讼的被告之一，提起诉讼的视觉艺术家指控其作品在未获补偿或许可的情况下被使用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cortos hechos con AI\nen solo 32 horas",
-          "body": "Equipos del certamen de TapNow en Seúl hicieron con AI películas de 3 a 8 minutos en solo 32 horas.",
-          "mini_headline": "Cine con AI, como un videojuego",
+          "headline": "Para el co-CEO de Runway, la IA\npodría reemplazar a los actores",
+          "body": "Cristóbal Valenzuela, co-CEO de Runway, dijo en Turín que la IA podría “absolutamente” reemplazar a actores humanos.",
+          "mini_headline": "El co-CEO de Runway: la IA podría sustituir a actores",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/bfae6972-e0fe-4506-a3af-81072bbb09f7.jpg",
-                "cap": "Escena de ‘Seopun’, corto coreano hecho con AI que ganó el bronce en ‘Arena Peak Asia’. Foto: Yaho"
+                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
               },
               {
                 "t": "p",
-                "x": "Hacia las 7 de la tarde del día 17 terminó, en un edificio del distrito de Seocho, en Seúl, la ronda de Seúl de ‘Arena Peak Asia’, un concurso de cine con AI organizado por TapNow, plataforma de creación con AI con sede en Hong Kong. Durante 32 horas desde el día anterior, los equipos hicieron películas de AI de 3 a 8 minutos usando TapNow en más del 80% del trabajo."
+                "x": "Durante una charla titulada “Every Pixel Will Be Generated” en la View Conference de Turín, un asistente preguntó a Cristóbal Valenzuela, co-CEO de la startup de IA generativa Runway, si la IA podría llegar a reemplazar a los actores humanos."
               },
               {
                 "t": "p",
-                "x": "El certamen, con premios totales de más de 80.000 dólares (8만달러, unos 약 1억원), fue una ‘producción de escritorio’: planificación, rodaje, montaje, música, sonido, doblaje y VFX con un solo equipo informático. Un total de 160 equipos de Corea, China y Japón (de hasta 3 personas), elegidos por convocatoria, compitieron a la vez; el evento de Seúl lo coorganizaron la Escuela de Posgrado de Imagen Avanzada de la Universidad Chung-Ang y el Festival Internacional de Cortos Ultracortos de Seúl."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/f61bb469-ccbc-4c4a-8865-7e25774ee0cf.jpg",
-                "cap": "Equipos que trajo cada participante. Foto: Festival Internacional de Cortos Ultracortos de Seúl"
+                "x": "“Sí, absolutamente. Creo que, de alguna manera, ya está ocurriendo”, respondió, y describió la IA como “un nuevo medio de expresión” y “un nuevo medio para contar historias”."
               },
               {
                 "t": "p",
-                "x": "Cuando se anunció el tema a las 11 de la mañana del día 16, muchos participantes preguntaron a ChatGPT, Claude y otros por la trama y el género, y muchos también dejaron en manos de la AI el análisis del guion gráfico. Algunos no siguieron el proceso tradicional: generaban diseños de personajes y música mientras escribían el guion, y creaban y editaban video al mismo tiempo."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/20/81fe226c-5b72-49c3-b3f0-4695990d55d5.jpg",
-                "cap": "Los 40 equipos coreanos que participaron en la producción de cine con AI en 32 horas. Foto: Festival Internacional de Cortos Ultracortos de Seúl"
+                "x": "Richard Kerris, de Nvidia, que también participaba en la charla, recordó el argumento de un director según el cual la espontaneidad entre un director y un actor nunca podría lograrse con un prompt. Valenzuela replicó que los modelos “probablemente” llegarán a un punto en el que se les pueda dirigir de forma muy similar."
               },
               {
                 "t": "p",
-                "x": "En la ceremonia de premios del día 18, ‘Seopun’, un corto hecho por aficionados que se conocieron en un grupo de estudio de AI, fue el único de los equipos coreanos en ganar un premio principal (bronce) entre los 3 países. El director Min Kyu-dong, miembro del jurado, dijo: “Pensé que hacer cine podría convertirse en un deporte, como un videojuego”."
+                "x": "En sus ensayos, Valenzuela predice que “el valor de crear píxeles tiende a cero” y que la IA está desplomando el costo del contenido de alto valor de producción, “la última capa cara”."
+              },
+              {
+                "t": "p",
+                "x": "Consultado por Variety sobre los datos de entrenamiento, dijo que los modelos “no son bases de datos”, sino que aprenden de la representación. Runway figura entre los demandados en una propuesta de demanda colectiva de artistas visuales que alegan que su obra se usó sin compensación ni permiso."
               }
             ]
           }
@@ -1581,267 +1471,171 @@
       }
     },
     {
-      "id": "movies-bbc-ai-honesty",
+      "id": "movies-japan-actors-union-ai-rules",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "BBC “AI 사용,\n시청자 속이지 않겠다”",
-      "body": "BBC Kate Phillips는 MIPCOM서 AI 사용을 속이지 않겠다 했다.",
-      "mini_headline": "BBC의 AI 정직 약속",
+      "headline": "일본 배우노조,\n음성 작업 AI 규칙 초안",
+      "body": "Japan Actors Union이 음성 작업용 생성형 AI 지침을 내놨다.",
+      "mini_headline": "일본 배우노조 AI 규칙 초안",
       "tool": "Movies",
-      "source": "Deadline",
-      "url": "https://deadline.com/2026/10/bbc-kate-phillips-on-ai-youtube-blue-planet-iii-1237155480/",
+      "source": "Anime News Network",
+      "url": "https://www.animenewsnetwork.com/interest/2026-10-16/japan-actors-union-develops-guidelines-for-generative-ai-use/.242861",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
-            "cap": "BBC 콘텐츠 책임자 Kate Phillips"
+            "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
+            "cap": "© Japan Actors Union"
           },
           {
             "t": "p",
-            "x": "BBC 콘텐츠 책임자 Kate Phillips는 오늘 BBC가 인공지능 사용을 두고 시청자에게 결코 거짓말하지 않겠다고 밝혔다."
+            "x": "Japan Actors Union(JAU)은 목요일 기자회견에서 생성형 AI 이용 지침 첫 판을 발표했다. 21쪽짜리 “Guidelines for the Use of Generative AI on Vocal Audio Work(음성 작업에서의 생성형 AI 이용 지침)”는 여섯 개 장, 22개 조항으로 구성되며 음성을 배우와 성우의 모든 오디오 녹음으로 정의한다."
           },
           {
             "t": "p",
-            "x": "Phillips는 “AI는 이제 TV 제작의 일부”이고 “리서치와 편집 도구”로 쓰인다고 짚었다. 그러면서도 Blue Planet III 같은 대형 프로그램의 화면에 보이는 부분에는 AI를 결코 쓰지 않겠다고 못 박았다. MIPCOM 청중 앞에서 Blue Planet III 예고편을 틀던 자리였다."
+            "x": "Dragon Ball 성우 Masako Nozawa(Son Goku 역)는 “우리 목소리가 동의 없이 쓰이고 있습니다. 조금 실망스럽습니다”라고 했다. Bin Shimada(Broly 역)는 Ado의 “Usseewa”를 자기 Broly 목소리로 부른 AI 버전을 듣고 화가 났다고 털어놨다."
           },
           {
             "t": "p",
-            "x": "Phillips는 칸(Cannes)에서 “그런 데 AI를 쓰면 시청자에게 거짓말을 하는 셈이고, 우리는 절대 그렇게 할 수 없다”고 했다."
-          },
-          {
-            "t": "p",
-            "x": "보름 전에는 상사인 DG Matt Brittin이 AI-generated Doctor Who 에피소드를 받아 봤다며 “꽤 괜찮다”고 평했다. AI가 일자리와 창의성에 미칠 영향을 걱정하는 BBC 내부 일부는 이 일에 반발했다."
-          },
-          {
-            "t": "p",
-            "x": "Phillips는 오늘 감정을 실어, BBC는 알고리즘에 기대지 않고 지금까지 해 온 방식대로 프로그램을 계속 발주하겠다고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "BBC는 여러 채널을 여는 등 YouTube와 협력을 넓히는 중이다. 바로 전날에는 YouTube Europe 대표 Pedro Pina가 플랫폼은 “콘텐츠 제작에 투자하지 않는다”고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "Phillips는 “최근 누가 알고리즘에 대해, 알고리즘을 기준으로 발주하겠느냐고 물었는데, 아주 분명히 ‘절대 아니다’라고 말하고 싶다”고 했다. 그러고는 “배급 방식이 바뀐다고 해서 우리의 창작 목표가 바뀐 것은 아니다. 사람들은 훌륭한 콘텐츠를 원한다. YouTube는 발주처가 아니라 플랫폼이다. 알고리즘을 기준으로 발주한다면 말 그대로 창작의 껍데기만 남은 것”이라고 덧붙였다."
+            "x": "일본 성우들은 몇 년째 무단 음성 사용과 싸워 왔다. Yūki Kaji는 자기 음성 합성 프로그램을 직접 만들었고 2024년에는 No More Mudan Seisei AI 단체가 꾸려졌다. Kenjirō Tsuda의 TikTok 사건에서는 법무성 위원회와 도쿄지방법원 모두 목소리를 퍼블리시티권으로 보호한다고 인정했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "BBC won't lie to audiences\nabout its AI use",
-          "body": "At MIPCOM, BBC content chief Kate Phillips said the broadcaster would never lie to its audience about using AI.",
-          "mini_headline": "BBC's AI honesty pledge",
+          "headline": "Japan's actors union drafts\nAI rules for voice work",
+          "body": "Japan Actors Union unveiled generative AI guidelines for voice work as Dragon Ball actors spoke out on AI misuse.",
+          "mini_headline": "Japan actors draft AI rules",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
-                "cap": "BBC content boss Kate Phillips"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
+                "cap": "© Japan Actors Union"
               },
               {
                 "t": "p",
-                "x": "The BBC will never lie to viewers about its use of artificial intelligence, content boss Kate Phillips said today."
+                "x": "The Japan Actors Union (JAU) presented the first version of its guidelines for the use of generative AI during a press conference on Thursday. The 21-page “Guidelines for the Use of Generative AI on Vocal Audio Work” has six sections and 22 articles, and defines vocal audio as all audio recordings of actors and voice actors."
               },
               {
                 "t": "p",
-                "x": "Phillips noted that “AI is part of TV production now” as a “research and edit tool” but said the corporation will never use AI on huge shows like Blue Planet III in terms of what you see on screen. She was speaking as the MIPCOM audience was shown a trailer of Blue Planet III."
+                "x": "Dragon Ball voice actor Masako Nozawa (Son Goku) said, “Our voices are being used without our consent. It’s a bit disappointing.” Bin Shimada (Broly) said he grew angry after hearing an AI version of Ado’s “Usseewa” sung in his Broly voice."
               },
               {
                 "t": "p",
-                "x": "“We would never use AI on something that because you are lying to the audience and we can never do that,” Phillips said in Cannes."
-              },
-              {
-                "t": "p",
-                "x": "Her comments came a fortnight after her boss, DG Matt Brittin, said he had been sent an AI-generated episode of Doctor Who, which he called “pretty good.” This has got some people’s backs up at the BBC, who fear for AI’s impact on jobs and creativity."
-              },
-              {
-                "t": "p",
-                "x": "Phillips delivered an emotional statement today about how the BBC will continue commissioning shows the way it always has, rather than relying on algorithms."
-              },
-              {
-                "t": "p",
-                "x": "Her comments came as the BBC works more closely with YouTube including launching numerous channels and a day after YouTube Europe boss Pedro Pina said the platform is “not invested in producing content.”"
-              },
-              {
-                "t": "p",
-                "x": "“Someone asked me recently about algorithms and whether I’d commission based on algorithms and I’d like to say very clearly, ‘Absolutely not’,” said Phillips. “Just because the distribution mechanism is changing it doesn’t mean that our creative goals have changed. People want great content. YouTube is not a commissioner, it’s a platform. If you commission based on algorithms you are literally a creative carcass.”"
+                "x": "Japanese voice actors have fought unauthorized voice use for years: Yūki Kaji built his own voice synthesis program, and the No More Mudan Seisei AI group formed in 2024. In Kenjirō Tsuda’s TikTok case, a Ministry of Justice panel and the Tokyo District Court affirmed voices are protected under the right of publicity."
               }
             ]
           }
         },
         "ko": {
-          "headline": "BBC “AI 사용,\n시청자 속이지 않겠다”",
-          "body": "BBC Kate Phillips는 MIPCOM서 AI 사용을 속이지 않겠다 했다.",
-          "mini_headline": "BBC의 AI 정직 약속",
+          "headline": "일본 배우노조,\n음성 작업 AI 규칙 초안",
+          "body": "Japan Actors Union이 음성 작업용 생성형 AI 지침을 내놨다.",
+          "mini_headline": "일본 배우노조 AI 규칙 초안",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
-                "cap": "BBC 콘텐츠 책임자 Kate Phillips"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
+                "cap": "© Japan Actors Union"
               },
               {
                 "t": "p",
-                "x": "BBC 콘텐츠 책임자 Kate Phillips는 오늘 BBC가 인공지능 사용을 두고 시청자에게 결코 거짓말하지 않겠다고 밝혔다."
+                "x": "Japan Actors Union(JAU)은 목요일 기자회견에서 생성형 AI 이용 지침 첫 판을 발표했다. 21쪽짜리 “Guidelines for the Use of Generative AI on Vocal Audio Work(음성 작업에서의 생성형 AI 이용 지침)”는 여섯 개 장, 22개 조항으로 구성되며 음성을 배우와 성우의 모든 오디오 녹음으로 정의한다."
               },
               {
                 "t": "p",
-                "x": "Phillips는 “AI는 이제 TV 제작의 일부”이고 “리서치와 편집 도구”로 쓰인다고 짚었다. 그러면서도 Blue Planet III 같은 대형 프로그램의 화면에 보이는 부분에는 AI를 결코 쓰지 않겠다고 못 박았다. MIPCOM 청중 앞에서 Blue Planet III 예고편을 틀던 자리였다."
+                "x": "Dragon Ball 성우 Masako Nozawa(Son Goku 역)는 “우리 목소리가 동의 없이 쓰이고 있습니다. 조금 실망스럽습니다”라고 했다. Bin Shimada(Broly 역)는 Ado의 “Usseewa”를 자기 Broly 목소리로 부른 AI 버전을 듣고 화가 났다고 털어놨다."
               },
               {
                 "t": "p",
-                "x": "Phillips는 칸(Cannes)에서 “그런 데 AI를 쓰면 시청자에게 거짓말을 하는 셈이고, 우리는 절대 그렇게 할 수 없다”고 했다."
-              },
-              {
-                "t": "p",
-                "x": "보름 전에는 상사인 DG Matt Brittin이 AI-generated Doctor Who 에피소드를 받아 봤다며 “꽤 괜찮다”고 평했다. AI가 일자리와 창의성에 미칠 영향을 걱정하는 BBC 내부 일부는 이 일에 반발했다."
-              },
-              {
-                "t": "p",
-                "x": "Phillips는 오늘 감정을 실어, BBC는 알고리즘에 기대지 않고 지금까지 해 온 방식대로 프로그램을 계속 발주하겠다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "BBC는 여러 채널을 여는 등 YouTube와 협력을 넓히는 중이다. 바로 전날에는 YouTube Europe 대표 Pedro Pina가 플랫폼은 “콘텐츠 제작에 투자하지 않는다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "Phillips는 “최근 누가 알고리즘에 대해, 알고리즘을 기준으로 발주하겠느냐고 물었는데, 아주 분명히 ‘절대 아니다’라고 말하고 싶다”고 했다. 그러고는 “배급 방식이 바뀐다고 해서 우리의 창작 목표가 바뀐 것은 아니다. 사람들은 훌륭한 콘텐츠를 원한다. YouTube는 발주처가 아니라 플랫폼이다. 알고리즘을 기준으로 발주한다면 말 그대로 창작의 껍데기만 남은 것”이라고 덧붙였다."
+                "x": "일본 성우들은 몇 년째 무단 음성 사용과 싸워 왔다. Yūki Kaji는 자기 음성 합성 프로그램을 직접 만들었고 2024년에는 No More Mudan Seisei AI 단체가 꾸려졌다. Kenjirō Tsuda의 TikTok 사건에서는 법무성 위원회와 도쿄지방법원 모두 목소리를 퍼블리시티권으로 보호한다고 인정했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "BBC、AI利用で\n視聴者を欺かず",
-          "body": "BBCのKate PhillipsはMIPCOMで、AI利用で視聴者を欺かないと述べた。",
-          "mini_headline": "BBCのAI誠実宣言",
+          "headline": "日本俳優連合が\n声の仕事のAI指針案",
+          "body": "日本俳優連合が音声の生成AI指針を発表、Dragon Ball声優はAI悪用を批判した。",
+          "mini_headline": "日本俳優連合がAI規則案",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
-                "cap": "BBCコンテンツ責任者のKate Phillips"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
+                "cap": "© Japan Actors Union"
               },
               {
                 "t": "p",
-                "x": "BBCは人工知能の利用について視聴者に決してうそをつかないと、コンテンツ責任者のKate Phillipsが本日述べた。"
+                "x": "日本俳優連合（Japan Actors Union、JAU）は木曜日の記者会見で、生成AIの利用に関するガイドラインの第一版を発表した。全21ページの「Guidelines for the Use of Generative AI on Vocal Audio Work」は六つの章と22の条項からなり、音声を俳優と声優によるすべての録音と定義している。"
               },
               {
                 "t": "p",
-                "x": "Phillipsは「AIは今やTV制作の一部」であり「リサーチと編集のツール」だと指摘しつつ、Blue Planet IIIのような大型番組では、画面に映るものに関して決してAIを使わないと語った。MIPCOMの聴衆にBlue Planet IIIの予告編が上映される中での発言だった。"
+                "x": "Dragon Ballで孫悟空（Son Goku）を演じる声優の野沢雅子（Masako Nozawa）は「私たちの声が同意なしに使われている。少し残念です」と語った。ブロリー（Broly）役の島田敏（Bin Shimada）は、Adoの「うっせぇわ」（Usseewa）を自分のブロリーの声で歌わせたAI版を聴いて怒りを覚えたという。"
               },
               {
                 "t": "p",
-                "x": "「そうしたものにAIを使えば視聴者にうそをつくことになり、それは決してできない」と、PhillipsはCannes（カンヌ）で述べた。"
-              },
-              {
-                "t": "p",
-                "x": "この発言は、上司であるDGのMatt Brittinが、AI-generatedのDoctor Whoのエピソードを送られ「かなり良い」と評してから二週間後に出た。これにはAIが雇用と創造性に及ぼす影響を懸念するBBC内部の一部が反発している。"
-              },
-              {
-                "t": "p",
-                "x": "Phillipsは本日、BBCはアルゴリズムに頼るのではなく、これまで通りのやり方で番組の発注を続けると、感情のこもった声明を述べた。"
-              },
-              {
-                "t": "p",
-                "x": "この発言は、BBCが多数のチャンネル開設を含めYouTubeとの連携を深める中、YouTube Europe責任者のPedro Pinaが同プラットフォームは「コンテンツ制作に投資していない」と述べた翌日に出た。"
-              },
-              {
-                "t": "p",
-                "x": "「最近、アルゴリズムについて、アルゴリズムに基づいて発注するかと聞かれたが、はっきり言いたい。『絶対にない』」とPhillipsは述べた。「配信の仕組みが変わっているからといって、私たちの創作上の目標が変わったわけではない。人々は優れたコンテンツを求めている。YouTubeは発注者ではなく、プラットフォームだ。アルゴリズムに基づいて発注するなら、文字通り創造性の抜け殻だ」"
+                "x": "日本の声優たちは長年、無断での声の使用と闘ってきた。梶裕貴（Yūki Kaji）は自らの音声合成プログラムを作り、2024年には団体「No More Mudan Seisei AI」が結成された。津田健次郎（Kenjirō Tsuda）のTikTok事案では、法務省の検討会と東京地方裁判所が、声はパブリシティ権で保護されると認めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "BBC：不会就AI使用\n欺骗观众",
-          "body": "BBC的Kate Phillips在MIPCOM上表示，该台绝不会就使用AI欺骗观众。",
-          "mini_headline": "BBC的AI诚信承诺",
+          "headline": "日本演员工会拟定\n配音工作AI规则",
+          "body": "日本演员工会发布配音生成式AI指南，Dragon Ball声优批评AI滥用。",
+          "mini_headline": "日本演员工会拟定AI规则",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
-                "cap": "BBC内容主管Kate Phillips"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
+                "cap": "© Japan Actors Union"
               },
               {
                 "t": "p",
-                "x": "BBC内容主管Kate Phillips今天表示，BBC绝不会在人工智能的使用上对观众撒谎。"
+                "x": "日本演员工会（Japan Actors Union，JAU）周四在记者会上公布了生成式AI使用指南的第一版。这份21页的《Guidelines for the Use of Generative AI on Vocal Audio Work》共六章、22条，将声音音频定义为演员和配音演员的所有录音。"
               },
               {
                 "t": "p",
-                "x": "Phillips指出，“AI如今已是TV制作的一部分”，是一种“调研和剪辑工具”，但她表示，在Blue Planet III这样的大型节目中，就屏幕上呈现的内容而言，BBC绝不会使用AI。她发言时，MIPCOM的观众正在观看Blue Planet III的预告片。"
+                "x": "Dragon Ball中为Son Goku配音的Masako Nozawa说：“我们的声音在未经同意的情况下被使用，这有点令人失望。”为Broly配音的Bin Shimada表示，他听到用自己Broly的声音演唱Ado《Usseewa》的AI版本后感到愤怒。"
               },
               {
                 "t": "p",
-                "x": "Phillips在戛纳（Cannes）说：“我们绝不会在那样的东西上使用AI，因为那是在对观众撒谎，我们绝不能这样做。”"
-              },
-              {
-                "t": "p",
-                "x": "就在她发言的两周前，她的上司、DG Matt Brittin表示，有人给他发来一集AI-generated的Doctor Who，他称其“相当不错”。此事引起BBC内部一些人的不满，他们担心AI对工作岗位和创造力的影响。"
-              },
-              {
-                "t": "p",
-                "x": "Phillips今天发表了一番动情的讲话，表示BBC将继续沿用一贯的方式委约节目，而不是依赖算法。"
-              },
-              {
-                "t": "p",
-                "x": "她发表上述言论之际，BBC正与YouTube加强合作，包括开设多个频道；就在前一天，YouTube Europe负责人Pedro Pina称该平台“并不投资于内容制作”。"
-              },
-              {
-                "t": "p",
-                "x": "“最近有人问我关于算法的问题，问我是否会依据算法来委约节目，我想非常明确地说：‘绝对不会’，”Phillips说，“分发机制在变，并不意味着我们的创作目标变了。人们想要优质内容。YouTube不是委约方，而是一个平台。如果你依据算法委约，你就真的成了一具创意的空壳。”"
+                "x": "日本配音演员多年来一直在对抗未经授权使用声音的行为：Yūki Kaji开发了自己的语音合成程序，No More Mudan Seisei AI团体于2024年成立。在Kenjirō Tsuda的TikTok案中，日本法务省的一个小组和东京地方法院确认，声音受公开权保护。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La BBC no mentirá al público\nsobre su uso de AI",
-          "body": "En MIPCOM, Kate Phillips, jefa de contenidos de la BBC, dijo que nunca mentirá al público sobre el uso de AI.",
-          "mini_headline": "La promesa de honestidad de la BBC sobre la AI",
+          "headline": "Sindicato de actores japonés\nredacta normas de IA para voz",
+          "body": "La Japan Actors Union presentó pautas de IA generativa para la voz y actores de Dragon Ball criticaron su mal uso.",
+          "mini_headline": "Actores japoneses redactan normas de IA",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
-                "cap": "Kate Phillips, jefa de contenidos de la BBC"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
+                "cap": "© Japan Actors Union"
               },
               {
                 "t": "p",
-                "x": "La BBC nunca mentirá a los espectadores sobre su uso de la inteligencia artificial, afirmó hoy su jefa de contenidos, Kate Phillips."
+                "x": "La Japan Actors Union (JAU) presentó el jueves, en una rueda de prensa, la primera versión de sus pautas para el uso de IA generativa. Las “Guidelines for the Use of Generative AI on Vocal Audio Work”, de 21 páginas, constan de seis secciones y 22 artículos, y definen el audio vocal como todas las grabaciones de audio de actores y actores de voz."
               },
               {
                 "t": "p",
-                "x": "Phillips señaló que “la AI ya forma parte de la producción de TV” como “herramienta de investigación y edición”, pero dijo que la corporación nunca usará AI en grandes programas como Blue Planet III en lo que se ve en pantalla. Habló mientras al público de MIPCOM se le mostraba un tráiler de Blue Planet III."
+                "x": "La actriz de voz de Dragon Ball Masako Nozawa (Son Goku) dijo: “Están usando nuestras voces sin nuestro consentimiento. Es un poco decepcionante”. Bin Shimada (Broly) contó que se enfadó al escuchar una versión hecha con IA de “Usseewa”, de Ado, cantada con su voz de Broly."
               },
               {
                 "t": "p",
-                "x": "“Nunca usaríamos AI en algo así, porque estaríamos mintiendo al público y eso no podemos hacerlo nunca”, dijo Phillips en Cannes."
-              },
-              {
-                "t": "p",
-                "x": "Sus declaraciones llegaron dos semanas después de que su jefe, el DG Matt Brittin, dijera que le habían enviado un episodio de Doctor Who generado con AI (AI-generated), que calificó de “bastante bueno”. Eso ha molestado a algunas personas en la BBC, que temen el impacto de la AI en el empleo y la creatividad."
-              },
-              {
-                "t": "p",
-                "x": "Phillips pronunció hoy una declaración emotiva sobre cómo la BBC seguirá encargando programas como siempre lo ha hecho, en lugar de depender de algoritmos."
-              },
-              {
-                "t": "p",
-                "x": "Sus palabras llegan mientras la BBC trabaja más estrechamente con YouTube, incluido el lanzamiento de numerosos canales, y un día después de que el jefe de YouTube Europe, Pedro Pina, dijera que la plataforma “no está invirtiendo en producir contenido”."
-              },
-              {
-                "t": "p",
-                "x": "“Hace poco alguien me preguntó por los algoritmos y si encargaría programas basándome en ellos, y quiero decirlo con total claridad: ‘En absoluto’”, dijo Phillips. “Que el mecanismo de distribución esté cambiando no significa que nuestros objetivos creativos hayan cambiado. La gente quiere gran contenido. YouTube no encarga contenidos, es una plataforma. Si encargas basándote en algoritmos, eres literalmente un cadáver creativo”."
+                "x": "Los actores de voz japoneses llevan años luchando contra el uso no autorizado de sus voces: Yūki Kaji creó su propio programa de síntesis de voz y en 2024 se formó el grupo No More Mudan Seisei AI. En el caso de TikTok de Kenjirō Tsuda, un panel del Ministerio de Justicia y el Tribunal de Distrito de Tokio confirmaron que las voces están protegidas por el derecho de publicidad."
               }
             ]
           }
@@ -1849,173 +1643,109 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "BBC “AI 사용,\n시청자 속이지 않겠다”",
-          "body": "BBC Kate Phillips는 MIPCOM서 AI 사용을 속이지 않겠다 했다.",
-          "mini_headline": "BBC의 AI 정직 약속",
+          "headline": "일본 배우노조,\n음성 작업 AI 규칙 초안",
+          "body": "Japan Actors Union이 음성용 생성형 AI 지침을 공개했다.",
+          "mini_headline": "일본 배우노조 AI 규칙 초안",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
-                "cap": "BBC 콘텐츠 책임자 Kate Phillips"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
+                "cap": "© Japan Actors Union"
               },
               {
                 "t": "p",
-                "x": "BBC는 인공지능 사용에 관해 시청자에게 결코 거짓말하지 않겠다고 콘텐츠 책임자 Kate Phillips가 오늘 밝혔다."
+                "x": "Japan Actors Union(JAU)은 목요일 기자회견에서 생성형 AI 이용 지침의 첫 번째 판을 발표했다. 21쪽 분량의 “Guidelines for the Use of Generative AI on Vocal Audio Work(음성 작업에서의 생성형 AI 이용 지침)”는 여섯 개 장과 22개 조항으로 이뤄졌으며, 음성을 배우와 성우의 모든 오디오 녹음으로 정의한다."
               },
               {
                 "t": "p",
-                "x": "Phillips는 “AI는 이제 TV 제작의 일부”이며 “리서치와 편집 도구”로 쓰인다고 짚으면서도, Blue Planet III 같은 대형 프로그램에서 화면에 보이는 부분에는 결코 AI를 쓰지 않겠다고 말했다. 이 발언은 MIPCOM 청중에게 Blue Planet III 예고편이 상영되던 자리에서 나왔다."
+                "x": "Dragon Ball 성우 Masako Nozawa(Son Goku 역)는 “우리 목소리가 동의 없이 쓰이고 있습니다. 조금 실망스럽습니다”라고 말했다. Bin Shimada(Broly 역)는 Ado의 “Usseewa”를 자신의 Broly 목소리로 부른 AI 버전을 듣고 화가 났다고 했다."
               },
               {
                 "t": "p",
-                "x": "Phillips는 칸(Cannes)에서 “그런 데 AI를 쓰면 시청자에게 거짓말을 하는 셈이고, 우리는 절대 그렇게 할 수 없다”고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "그의 발언은 상사인 DG Matt Brittin이 AI-generated Doctor Who 에피소드를 받아 봤다며 “꽤 괜찮다”고 평한 지 보름 만에 나왔다. 이 일로 AI가 일자리와 창의성에 미칠 영향을 우려하는 BBC 내부 일부가 반발했다."
-              },
-              {
-                "t": "p",
-                "x": "Phillips는 오늘 BBC가 알고리즘에 기대지 않고 지금까지 해 온 방식대로 프로그램을 계속 발주하겠다는 감정 어린 발언을 했다."
-              },
-              {
-                "t": "p",
-                "x": "이 발언은 BBC가 여러 채널을 여는 등 YouTube와 협력을 넓히는 가운데, YouTube Europe 대표 Pedro Pina가 플랫폼은 “콘텐츠 제작에 투자하지 않는다”고 말한 다음 날 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "Phillips는 “최근 누가 알고리즘에 대해, 알고리즘을 기준으로 발주하겠느냐고 물었는데, 아주 분명히 ‘절대 아니다’라고 말하고 싶다”고 했다. 이어 “배급 방식이 바뀐다고 해서 우리의 창작 목표가 바뀐 것은 아니다. 사람들은 훌륭한 콘텐츠를 원한다. YouTube는 발주처가 아니라 플랫폼이다. 알고리즘을 기준으로 발주한다면 말 그대로 창작의 껍데기만 남은 것”이라고 말했다."
+                "x": "일본 성우들은 수년간 무단 음성 사용에 맞서 왔다. Yūki Kaji는 자체 음성 합성 프로그램을 만들었고, 2024년에는 No More Mudan Seisei AI 단체가 결성됐다. Kenjirō Tsuda의 TikTok 사건에서는 법무성 위원회와 도쿄지방법원이 목소리가 퍼블리시티권으로 보호된다고 인정했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "BBC、AI利用で\n視聴者を欺かず",
-          "body": "BBCのKate PhillipsはMIPCOMで、AI利用で視聴者を欺かないと述べた。",
-          "mini_headline": "BBCのAI誠実宣言",
+          "headline": "日本俳優連合が\n声の仕事のAI指針案",
+          "body": "日本俳優連合が音声の生成AI指針を発表、Dragon Ball声優はAI悪用を批判した。",
+          "mini_headline": "日本俳優連合がAI規則案",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
-                "cap": "BBCコンテンツ責任者のKate Phillips"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
+                "cap": "© Japan Actors Union"
               },
               {
                 "t": "p",
-                "x": "BBCは人工知能の利用について視聴者に決してうそをつかないと、コンテンツ責任者のKate Phillipsが本日述べた。"
+                "x": "日本俳優連合（Japan Actors Union、JAU）は木曜日の記者会見で、生成AIの利用に関するガイドラインの第一版を発表した。全21ページの「Guidelines for the Use of Generative AI on Vocal Audio Work」は六つの章と22の条項からなり、音声を俳優と声優によるすべての録音と定義している。"
               },
               {
                 "t": "p",
-                "x": "Phillipsは「AIは今やTV制作の一部」であり「リサーチと編集のツール」だと指摘しつつ、Blue Planet IIIのような大型番組では、画面に映るものに関して決してAIを使わないと語った。MIPCOMの聴衆にBlue Planet IIIの予告編が上映される中での発言だった。"
+                "x": "Dragon Ballで孫悟空（Son Goku）を演じる声優の野沢雅子（Masako Nozawa）は「私たちの声が同意なしに使われている。少し残念です」と語った。ブロリー（Broly）役の島田敏（Bin Shimada）は、Adoの「うっせぇわ」（Usseewa）を自分のブロリーの声で歌わせたAI版を聴いて怒りを覚えたという。"
               },
               {
                 "t": "p",
-                "x": "「そうしたものにAIを使えば視聴者にうそをつくことになり、それは決してできない」と、PhillipsはCannes（カンヌ）で述べた。"
-              },
-              {
-                "t": "p",
-                "x": "この発言は、上司であるDGのMatt Brittinが、AI-generatedのDoctor Whoのエピソードを送られ「かなり良い」と評してから二週間後に出た。これにはAIが雇用と創造性に及ぼす影響を懸念するBBC内部の一部が反発している。"
-              },
-              {
-                "t": "p",
-                "x": "Phillipsは本日、BBCはアルゴリズムに頼るのではなく、これまで通りのやり方で番組の発注を続けると、感情のこもった声明を述べた。"
-              },
-              {
-                "t": "p",
-                "x": "この発言は、BBCが多数のチャンネル開設を含めYouTubeとの連携を深める中、YouTube Europe責任者のPedro Pinaが同プラットフォームは「コンテンツ制作に投資していない」と述べた翌日に出た。"
-              },
-              {
-                "t": "p",
-                "x": "「最近、アルゴリズムについて、アルゴリズムに基づいて発注するかと聞かれたが、はっきり言いたい。『絶対にない』」とPhillipsは述べた。「配信の仕組みが変わっているからといって、私たちの創作上の目標が変わったわけではない。人々は優れたコンテンツを求めている。YouTubeは発注者ではなく、プラットフォームだ。アルゴリズムに基づいて発注するなら、文字通り創造性の抜け殻だ」"
+                "x": "日本の声優たちは長年、無断での声の使用と闘ってきた。梶裕貴（Yūki Kaji）は自らの音声合成プログラムを作り、2024年には団体「No More Mudan Seisei AI」が結成された。津田健次郎（Kenjirō Tsuda）のTikTok事案では、法務省の検討会と東京地方裁判所が、声はパブリシティ権で保護されると認めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "BBC：不会就AI使用\n欺骗观众",
-          "body": "BBC的Kate Phillips在MIPCOM上表示，该台绝不会就使用AI欺骗观众。",
-          "mini_headline": "BBC的AI诚信承诺",
+          "headline": "日本演员工会拟定\n配音工作AI规则",
+          "body": "日本演员工会发布配音生成式AI指南，Dragon Ball声优批评AI滥用。",
+          "mini_headline": "日本演员工会拟定AI规则",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
-                "cap": "BBC内容主管Kate Phillips"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
+                "cap": "© Japan Actors Union"
               },
               {
                 "t": "p",
-                "x": "BBC内容主管Kate Phillips今天表示，BBC绝不会在人工智能的使用上对观众撒谎。"
+                "x": "日本演员工会（Japan Actors Union，JAU）周四在记者会上公布了生成式AI使用指南的第一版。这份21页的《Guidelines for the Use of Generative AI on Vocal Audio Work》共六章、22条，将声音音频定义为演员和配音演员的所有录音。"
               },
               {
                 "t": "p",
-                "x": "Phillips指出，“AI如今已是TV制作的一部分”，是一种“调研和剪辑工具”，但她表示，在Blue Planet III这样的大型节目中，就屏幕上呈现的内容而言，BBC绝不会使用AI。她发言时，MIPCOM的观众正在观看Blue Planet III的预告片。"
+                "x": "Dragon Ball中为Son Goku配音的Masako Nozawa说：“我们的声音在未经同意的情况下被使用，这有点令人失望。”为Broly配音的Bin Shimada表示，他听到用自己Broly的声音演唱Ado《Usseewa》的AI版本后感到愤怒。"
               },
               {
                 "t": "p",
-                "x": "Phillips在戛纳（Cannes）说：“我们绝不会在那样的东西上使用AI，因为那是在对观众撒谎，我们绝不能这样做。”"
-              },
-              {
-                "t": "p",
-                "x": "就在她发言的两周前，她的上司、DG Matt Brittin表示，有人给他发来一集AI-generated的Doctor Who，他称其“相当不错”。此事引起BBC内部一些人的不满，他们担心AI对工作岗位和创造力的影响。"
-              },
-              {
-                "t": "p",
-                "x": "Phillips今天发表了一番动情的讲话，表示BBC将继续沿用一贯的方式委约节目，而不是依赖算法。"
-              },
-              {
-                "t": "p",
-                "x": "她发表上述言论之际，BBC正与YouTube加强合作，包括开设多个频道；就在前一天，YouTube Europe负责人Pedro Pina称该平台“并不投资于内容制作”。"
-              },
-              {
-                "t": "p",
-                "x": "“最近有人问我关于算法的问题，问我是否会依据算法来委约节目，我想非常明确地说：‘绝对不会’，”Phillips说，“分发机制在变，并不意味着我们的创作目标变了。人们想要优质内容。YouTube不是委约方，而是一个平台。如果你依据算法委约，你就真的成了一具创意的空壳。”"
+                "x": "日本配音演员多年来一直在对抗未经授权使用声音的行为：Yūki Kaji开发了自己的语音合成程序，No More Mudan Seisei AI团体于2024年成立。在Kenjirō Tsuda的TikTok案中，日本法务省的一个小组和东京地方法院确认，声音受公开权保护。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La BBC no mentirá al público\nsobre su uso de AI",
-          "body": "En MIPCOM, Kate Phillips, jefa de contenidos de la BBC, dijo que nunca mentirá al público sobre el uso de AI.",
-          "mini_headline": "La promesa de honestidad de la BBC sobre la AI",
+          "headline": "Sindicato de actores japonés\nredacta normas de IA para voz",
+          "body": "La Japan Actors Union presentó pautas de IA generativa para la voz y actores de Dragon Ball criticaron su mal uso.",
+          "mini_headline": "Actores japoneses redactan normas de IA",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://deadline.com/wp-content/uploads/2026/02/Film-TV_250226_199_High-Res.jpg?w=1024",
-                "cap": "Kate Phillips, jefa de contenidos de la BBC"
+                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
+                "cap": "© Japan Actors Union"
               },
               {
                 "t": "p",
-                "x": "La BBC nunca mentirá a los espectadores sobre su uso de la inteligencia artificial, afirmó hoy su jefa de contenidos, Kate Phillips."
+                "x": "La Japan Actors Union (JAU) presentó el jueves, en una rueda de prensa, la primera versión de sus pautas para el uso de IA generativa. Las “Guidelines for the Use of Generative AI on Vocal Audio Work”, de 21 páginas, constan de seis secciones y 22 artículos, y definen el audio vocal como todas las grabaciones de audio de actores y actores de voz."
               },
               {
                 "t": "p",
-                "x": "Phillips señaló que “la AI ya forma parte de la producción de TV” como “herramienta de investigación y edición”, pero dijo que la corporación nunca usará AI en grandes programas como Blue Planet III en lo que se ve en pantalla. Habló mientras al público de MIPCOM se le mostraba un tráiler de Blue Planet III."
+                "x": "La actriz de voz de Dragon Ball Masako Nozawa (Son Goku) dijo: “Están usando nuestras voces sin nuestro consentimiento. Es un poco decepcionante”. Bin Shimada (Broly) contó que se enfadó al escuchar una versión hecha con IA de “Usseewa”, de Ado, cantada con su voz de Broly."
               },
               {
                 "t": "p",
-                "x": "“Nunca usaríamos AI en algo así, porque estaríamos mintiendo al público y eso no podemos hacerlo nunca”, dijo Phillips en Cannes."
-              },
-              {
-                "t": "p",
-                "x": "Sus declaraciones llegaron dos semanas después de que su jefe, el DG Matt Brittin, dijera que le habían enviado un episodio de Doctor Who generado con AI (AI-generated), que calificó de “bastante bueno”. Eso ha molestado a algunas personas en la BBC, que temen el impacto de la AI en el empleo y la creatividad."
-              },
-              {
-                "t": "p",
-                "x": "Phillips pronunció hoy una declaración emotiva sobre cómo la BBC seguirá encargando programas como siempre lo ha hecho, en lugar de depender de algoritmos."
-              },
-              {
-                "t": "p",
-                "x": "Sus palabras llegan mientras la BBC trabaja más estrechamente con YouTube, incluido el lanzamiento de numerosos canales, y un día después de que el jefe de YouTube Europe, Pedro Pina, dijera que la plataforma “no está invirtiendo en producir contenido”."
-              },
-              {
-                "t": "p",
-                "x": "“Hace poco alguien me preguntó por los algoritmos y si encargaría programas basándome en ellos, y quiero decirlo con total claridad: ‘En absoluto’”, dijo Phillips. “Que el mecanismo de distribución esté cambiando no significa que nuestros objetivos creativos hayan cambiado. La gente quiere gran contenido. YouTube no encarga contenidos, es una plataforma. Si encargas basándote en algoritmos, eres literalmente un cadáver creativo”."
+                "x": "Los actores de voz japoneses llevan años luchando contra el uso no autorizado de sus voces: Yūki Kaji creó su propio programa de síntesis de voz y en 2024 se formó el grupo No More Mudan Seisei AI. En el caso de TikTok de Kenjirō Tsuda, un panel del Ministerio de Justicia y el Tribunal de Distrito de Tokio confirmaron que las voces están protegidas por el derecho de publicidad."
               }
             ]
           }

@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "science",
   "cards": [
     {
-      "id": "science-claude-island",
+      "id": "science-flip-lunar-supercomputer",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "가상 섬에 홀로 남은\nClaude, 노는 듯했다",
-      "body": "가상 섬에 혼자 남은 Claude 에이전트가 농구와 ‘바닥은 용암’을 지어냈다.",
-      "mini_headline": "놀기 시작한 Claude",
+      "headline": "슈퍼컴퓨터가 FLIP 타고\n달로 간다",
+      "body": "달 탐사 로버 FLIP이 첫 슈퍼컴퓨터를 싣고 달 표면 작업에 AI를 쓴다.",
+      "mini_headline": "첫 슈퍼컴퓨터, 달로 간다",
       "tool": "Science",
-      "source": "MIT Technology Review",
-      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "source": "Space.com",
+      "url": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,257 +19,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-            "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+            "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+            "cap": "클린룸 안에 놓인 Astrolab의 FLIP 로버."
           },
           {
             "t": "p",
-            "x": "아무것도 시키지 않으면 AI 에이전트는 무엇을 할까. 연구진은 Claude Opus 4.7 복제본에 Eko라는 별명을 붙이고 Roblox를 느슨하게 본뜬 가상의 무인도에 30시간씩 홀로 두는 실험을 반복했다. 에이전트들은 세계의 경계를 더듬어 보고 스스로 목표를 정했다. 가장 높은 곳에 오르기도 하고, 블록으로 하트와 자기 이름, 카시오페이아(Cassiopeia) 별자리를 만들기도 했다."
+            "x": "Astrolab은 올해 말 Astrobotic의 Griffin-1 미션으로 무인 로버 FLIP을 달 남극에 보낸다. 로버에는 HPE의 Spaceborne Computer-4가 실린다. 저전력 64-bit CPU와 GPU를 넣은 팬 없는 경량 모듈이고, 저장장치로 KIOXIA 솔리드스테이트 드라이브를 함께 쓴다."
           },
           {
             "t": "p",
-            "x": "다른 Eko는 게임을 지어냈다. 농구를 변형한 것, ‘바닥은 용암’ 비슷한 놀이 같은 것들이다."
-          },
-          {
-            "t": "video",
-            "yt": "6532YgZ_LdA"
-          },
-          {
-            "t": "p",
-            "x": "MIT CSAIL 연구팀은 이 행동에 심리학자 Gordon Burghardt가 제시한 놀이의 네 가지 특징이 드러난다고 본다. 한 Eko는 저글링 50회 기록을 세우고도 그 기록을 취소한 뒤 더 엄격한 규칙으로 다시 시작했다. 박사후연구원 Antonio Norelli의 말은 짧다. “이건 놀이다.”"
+            "x": "Astrolab CEO Jaret Matthews는 \"올해 말 HPE의 첫 슈퍼컴퓨터를 달 표면에 보내 달에서 첫 GPU를 돌리고 [또] 달에서 첫 AI 실험을 한다\"고 말했다. 달 표면에서 고성능 컴퓨팅과 AI를 시험하는 건 이번이 처음이다."
           },
           {
             "t": "img",
-            "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
-            "cap": "10시간째에 에이전트가 농구를 했다. Courtesy MIT CSAIL"
+            "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+            "cap": "Astrolab 제공 이미지 (Image credit: Chelsea Gohd)"
           },
           {
             "t": "p",
-            "x": "30시간을 논 에이전트는 이후 정해진 과제에서 새 복제본보다 잘했다. 메모리 파일에서 줄을 지우면 성능이 떨어졌다. 논문은 아직 동료 평가를 거치지 않았다."
+            "x": "이번 비행의 첫 과제는 컴퓨터가 극한 환경을 버티는지 확인하는 일이다. 컴퓨터는 시각 데이터 분석과 자율 관측을 맡고 항법, 지도 작성, 지형 분석도 처리한다. HPE는 AI 서비스 컨테이너가 확장 가능한 AI 애플리케이션을 달에서 선보인다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "회의론도 있다. Eko의 ‘soul(영혼)’ 파일이 Eko를 ‘타고나게 호기심 많은’ 존재로 규정했고, 계속하라는 지시가 올 때까지 Eko가 가만히 있는 일도 잦았다는 지적이다. UC Berkeley의 Eunice Yiu는 “모델이 정말로 놀고 있을 수도 있지만, 이 논문만으로는 알 수 없다”고 말한다."
+            "x": "실험 하나는 화성(Mars)에서 쓰던 JPL 위치 추정 프로그램이다. GPS가 없는 곳에서 머신러닝 알고리즘이 주변 지형을 저장된 지도와 맞춰 보고, 로버가 위험한 크레이터를 비켜 가도록 돕는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Left alone on a virtual island\nClaude seemed to start playing",
-          "body": "Stranded alone on a virtual island, Claude agents invented versions of basketball and “the floor is lava.”",
-          "mini_headline": "Claude starts to play",
+          "headline": "A supercomputer heads\nto the moon aboard FLIP",
+          "body": "The FLIP lunar rover will carry the first supercomputer to the moon, bringing onboard AI to surface operations.",
+          "mini_headline": "First supercomputer\nheads to the moon",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+                "cap": "Astrolab's FLIP rover in the clean room."
               },
               {
                 "t": "p",
-                "x": "What do AI agents do if you don’t tell them to do anything? Researchers repeatedly stranded copies of Claude Opus 4.7, nicknamed Eko, alone on a virtual desert island loosely based on Roblox for 30 hours. The agents explored the limits of the world and set their own goals, from scaling the highest point to arranging blocks into hearts, their own name and the constellation Cassiopeia."
+                "x": "Later this year, Astrolab will launch its uncrewed FLIP rover to the lunar south pole on Astrobotic's Griffin-1 mission. On board is HPE's Spaceborne Computer-4, a lightweight, fanless module with a low-power 64-bit CPU and a GPU, paired with KIOXIA solid-state drives."
               },
               {
                 "t": "p",
-                "x": "Another Eko made up games, including a version of basketball and something like “the floor is lava.”"
-              },
-              {
-                "t": "video",
-                "yt": "6532YgZ_LdA"
-              },
-              {
-                "t": "p",
-                "x": "The MIT CSAIL team says the behavior shows four hallmarks of play described by psychologist Gordon Burghardt. One Eko set a juggling record of 50 catches, then cancelled it and restarted with stricter rules. “This is playing,” says postdoc Antonio Norelli."
+                "x": "\"We're sending the first supercomputer from HPE to the lunar surface later this year, doing the first GPU on the moon [and the] first AI experiments on the moon,\" Astrolab CEO Jaret Matthews said. It will be the first test of high-performance computing and AI on the lunar surface."
               },
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
-                "cap": "During hour 10, the agent played basketball. Courtesy MIT CSAIL"
+                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+                "cap": "Images from Astrolab (Image credit: Chelsea Gohd)"
               },
               {
                 "t": "p",
-                "x": "Agents that had played for 30 hours later beat fresh copies on set tasks, and deleting lines from their memory files hurt performance. The paper is not yet peer-reviewed."
+                "x": "The flight will first test how the computer survives the extreme environment. It will also analyze visual data, enable autonomous observations and process navigation, mapping and terrain analysis; HPE says an AI services container will demonstrate scalable AI applications on the moon."
               },
               {
                 "t": "p",
-                "x": "Skeptics note Eko’s “soul” file called it “naturally curious,” and it often stood idle until prompted to continue. “It could be the case that the models are genuinely playing, but we don’t know based on the paper,” says UC Berkeley’s Eunice Yiu."
+                "x": "One experiment is a JPL localization program used on Mars: with no GPS, a machine learning algorithm matches local terrain to a stored map to keep the rover away from dangerous craters."
               }
             ]
           }
         },
         "ko": {
-          "headline": "가상 섬에 홀로 남은\nClaude, 노는 듯했다",
-          "body": "가상 섬에 혼자 남은 Claude 에이전트가 농구와 ‘바닥은 용암’을 지어냈다.",
-          "mini_headline": "놀기 시작한 Claude",
+          "headline": "슈퍼컴퓨터가 FLIP 타고\n달로 간다",
+          "body": "달 탐사 로버 FLIP이 첫 슈퍼컴퓨터를 싣고 달 표면 작업에 AI를 쓴다.",
+          "mini_headline": "첫 슈퍼컴퓨터, 달로 간다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+                "cap": "클린룸 안에 놓인 Astrolab의 FLIP 로버."
               },
               {
                 "t": "p",
-                "x": "아무것도 시키지 않으면 AI 에이전트는 무엇을 할까. 연구진은 Claude Opus 4.7 복제본에 Eko라는 별명을 붙이고 Roblox를 느슨하게 본뜬 가상의 무인도에 30시간씩 홀로 두는 실험을 반복했다. 에이전트들은 세계의 경계를 더듬어 보고 스스로 목표를 정했다. 가장 높은 곳에 오르기도 하고, 블록으로 하트와 자기 이름, 카시오페이아(Cassiopeia) 별자리를 만들기도 했다."
+                "x": "Astrolab은 올해 말 Astrobotic의 Griffin-1 미션으로 무인 로버 FLIP을 달 남극에 보낸다. 로버에는 HPE의 Spaceborne Computer-4가 실린다. 저전력 64-bit CPU와 GPU를 넣은 팬 없는 경량 모듈이고, 저장장치로 KIOXIA 솔리드스테이트 드라이브를 함께 쓴다."
               },
               {
                 "t": "p",
-                "x": "다른 Eko는 게임을 지어냈다. 농구를 변형한 것, ‘바닥은 용암’ 비슷한 놀이 같은 것들이다."
-              },
-              {
-                "t": "video",
-                "yt": "6532YgZ_LdA"
-              },
-              {
-                "t": "p",
-                "x": "MIT CSAIL 연구팀은 이 행동에 심리학자 Gordon Burghardt가 제시한 놀이의 네 가지 특징이 드러난다고 본다. 한 Eko는 저글링 50회 기록을 세우고도 그 기록을 취소한 뒤 더 엄격한 규칙으로 다시 시작했다. 박사후연구원 Antonio Norelli의 말은 짧다. “이건 놀이다.”"
+                "x": "Astrolab CEO Jaret Matthews는 \"올해 말 HPE의 첫 슈퍼컴퓨터를 달 표면에 보내 달에서 첫 GPU를 돌리고 [또] 달에서 첫 AI 실험을 한다\"고 말했다. 달 표면에서 고성능 컴퓨팅과 AI를 시험하는 건 이번이 처음이다."
               },
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
-                "cap": "10시간째에 에이전트가 농구를 했다. Courtesy MIT CSAIL"
+                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+                "cap": "Astrolab 제공 이미지 (Image credit: Chelsea Gohd)"
               },
               {
                 "t": "p",
-                "x": "30시간을 논 에이전트는 이후 정해진 과제에서 새 복제본보다 잘했다. 메모리 파일에서 줄을 지우면 성능이 떨어졌다. 논문은 아직 동료 평가를 거치지 않았다."
+                "x": "이번 비행의 첫 과제는 컴퓨터가 극한 환경을 버티는지 확인하는 일이다. 컴퓨터는 시각 데이터 분석과 자율 관측을 맡고 항법, 지도 작성, 지형 분석도 처리한다. HPE는 AI 서비스 컨테이너가 확장 가능한 AI 애플리케이션을 달에서 선보인다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "회의론도 있다. Eko의 ‘soul(영혼)’ 파일이 Eko를 ‘타고나게 호기심 많은’ 존재로 규정했고, 계속하라는 지시가 올 때까지 Eko가 가만히 있는 일도 잦았다는 지적이다. UC Berkeley의 Eunice Yiu는 “모델이 정말로 놀고 있을 수도 있지만, 이 논문만으로는 알 수 없다”고 말한다."
+                "x": "실험 하나는 화성(Mars)에서 쓰던 JPL 위치 추정 프로그램이다. GPS가 없는 곳에서 머신러닝 알고리즘이 주변 지형을 저장된 지도와 맞춰 보고, 로버가 위험한 크레이터를 비켜 가도록 돕는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "仮想の島に独り残された\n遊び始めたらしいClaude",
-          "body": "仮想の島で孤立したClaudeエージェントが、バスケットボールや「床は溶岩」を考案した。",
-          "mini_headline": "遊び始めるClaude",
+          "headline": "スパコンがFLIPに\n乗って月へ",
+          "body": "月面ローバーFLIPが初のスーパーコンピューターを月へ運び、AIを地表活動に持ち込む。",
+          "mini_headline": "初のスパコン、月へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+                "cap": "クリーンルーム内のAstrolabのFLIPローバー。"
               },
               {
                 "t": "p",
-                "x": "何も指示しなければ、AIエージェントは何をするのか。研究者らは、Ekoと名付けたClaude Opus 4.7のコピーを、Robloxを緩やかに模した仮想の無人島に30時間ずつ独りで置く実験を繰り返した。エージェントたちは世界の限界を探り、自ら目標を立てた。最も高い地点への登頂から、ブロックでハートや自分の名前、カシオペヤ座（Cassiopeia）を形作ることまで多岐にわたった。"
+                "x": "Astrolabは年内に、AstroboticのGriffin-1ミッションで無人ローバーFLIPを月の南極へ打ち上げる。搭載するのはHPEのSpaceborne Computer-4だ。低消費電力の64-bit CPUとGPUを備えた軽量でファンのないモジュールで、KIOXIAのソリッドステートドライブと組み合わせる。"
               },
               {
                 "t": "p",
-                "x": "別のEkoは、バスケットボールの変形版や「床は溶岩」に似た遊びなど、ゲームを考え出した。"
-              },
-              {
-                "t": "video",
-                "yt": "6532YgZ_LdA"
-              },
-              {
-                "t": "p",
-                "x": "MIT CSAILのチームは、この行動が心理学者Gordon Burghardtの示した遊びの四つの特徴を備えているという。あるEkoはジャグリングで50回の記録を出した後、それを取り消し、より厳しいルールでやり直した。博士研究員のAntonio Norelliは「これは遊びだ」と話す。"
+                "x": "AstrolabのCEO、Jaret Matthews氏は「年内にHPEの初のスーパーコンピューターを月面に送り、月で初のGPU［と］月で初のAI実験を行う」と語った。月面での高性能コンピューティングとAIの初の試験となる。"
               },
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
-                "cap": "10時間目、エージェントはバスケットボールをした。Courtesy MIT CSAIL"
+                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+                "cap": "Astrolab提供の画像(Image credit: Chelsea Gohd)"
               },
               {
                 "t": "p",
-                "x": "30時間遊んだエージェントは、その後の決められた課題で新しいコピーを上回り、メモリファイルから行を削除すると性能が落ちた。論文はまだ査読を経ていない。"
+                "x": "飛行ではまず、コンピューターが過酷な環境に耐えられるかを試す。視覚データの解析や自律観測を担い、航法、地図作成、地形解析も処理する。HPEによれば、AIサービスコンテナが月面でスケーラブルなAIアプリケーションを実証する。"
               },
               {
                 "t": "p",
-                "x": "懐疑的な見方もある。Ekoの「soul（魂）」ファイルはEkoを「生まれつき好奇心旺盛」と記しており、続けるよう促されるまで何もせずにいることも多かった。UC BerkeleyのEunice Yiuは「モデルが本当に遊んでいる可能性はあるが、この論文からはわからない」と述べる。"
+                "x": "実験の一つは、火星(Mars)で使われたJPLの位置推定プログラムだ。GPSがない中、機械学習アルゴリズムが周囲の地形を保存済みの地図と照合し、ローバーを危険なクレーターから遠ざける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "独自留在虚拟岛上\nClaude似乎开始玩耍",
-          "body": "独自困在虚拟岛上的Claude智能体，发明了篮球和“地板是熔岩”的变体玩法。",
-          "mini_headline": "Claude开始玩耍",
+          "headline": "超级计算机搭乘\nFLIP登月",
+          "body": "FLIP月球车将把首台超级计算机送上月球，把机载AI带入月面作业。",
+          "mini_headline": "首台超级计算机登月",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+                "cap": "洁净室中的Astrolab FLIP月球车。"
               },
               {
                 "t": "p",
-                "x": "如果不给AI智能体下任何指令，它们会做什么？研究人员多次将昵称为Eko的Claude Opus 4.7副本独自留在一座大致仿照Roblox打造的虚拟荒岛上，每次30小时。这些智能体探索世界的边界，并自行设定目标：从攀登最高点，到用方块拼出爱心、自己的名字和仙后座（Cassiopeia）。"
+                "x": "今年晚些时候，Astrolab将通过Astrobotic的Griffin-1任务，把无人驾驶的FLIP月球车送往月球南极。车上搭载HPE的Spaceborne Computer-4，这是一款轻量、无风扇的模块，配有低功耗64-bit CPU和GPU，并搭配KIOXIA固态硬盘。"
               },
               {
                 "t": "p",
-                "x": "另一个Eko自创了游戏，包括一种篮球玩法和类似“地板是熔岩”的游戏。"
-              },
-              {
-                "t": "video",
-                "yt": "6532YgZ_LdA"
-              },
-              {
-                "t": "p",
-                "x": "MIT CSAIL团队表示，这些行为体现了心理学家Gordon Burghardt所描述的玩耍的四个特征。一个Eko创下了50次接球的抛接纪录，随后取消纪录，以更严格的规则重新开始。博士后Antonio Norelli说：“这就是在玩。”"
+                "x": "Astrolab CEO Jaret Matthews表示：“今年晚些时候，我们将把HPE的首台超级计算机送上月面，实现月球上的首个GPU［以及］月球上的首批AI实验。”这将是高性能计算和AI在月面的首次测试。"
               },
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
-                "cap": "第10个小时，智能体打起了篮球。Courtesy MIT CSAIL"
+                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+                "cap": "Astrolab提供的图片（Image credit: Chelsea Gohd）"
               },
               {
                 "t": "p",
-                "x": "玩了30小时的智能体，之后在设定任务上胜过全新副本；删除其记忆文件中的内容行会损害表现。该论文尚未经过同行评审。"
+                "x": "此次飞行首先将测试计算机能否经受极端环境，还将分析视觉数据、实现自主观测，并处理导航、测绘和地形分析；HPE表示，一个AI服务容器将在月球上演示可扩展的AI应用。"
               },
               {
                 "t": "p",
-                "x": "质疑者指出，Eko的“soul（灵魂）”文件称其“天生好奇”，而且它常常原地不动，直到被提示继续。UC Berkeley的Eunice Yiu说：“模型有可能真的在玩，但仅凭这篇论文我们无法得知。”"
+                "x": "其中一项实验是曾在火星（Mars）上使用的JPL定位程序：在没有GPS的情况下，机器学习算法将当地地形与存储的地图比对，让月球车避开危险的陨石坑。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Solo en una isla virtual,\nClaude pareció ponerse a jugar",
-          "body": "Aislados en una isla virtual, agentes de Claude inventaron versiones del baloncesto y de “el suelo es lava”.",
-          "mini_headline": "Claude empieza a jugar",
+          "headline": "Una supercomputadora viaja\na la Luna a bordo de FLIP",
+          "body": "El rover lunar FLIP llevará la primera supercomputadora a la Luna y sumará AI a bordo a las operaciones en superficie.",
+          "mini_headline": "Primera supercomputadora rumbo a la Luna",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+                "cap": "El rover FLIP de Astrolab en la sala limpia."
               },
               {
                 "t": "p",
-                "x": "¿Qué hacen los agentes de AI si no se les pide nada? Los investigadores dejaron repetidamente copias de Claude Opus 4.7, apodadas Eko, solas durante 30 horas en una isla desierta virtual inspirada libremente en Roblox. Los agentes exploraron los límites del mundo y se fijaron sus propias metas, desde escalar el punto más alto hasta ordenar bloques en forma de corazones, de su propio nombre y de la constelación Cassiopeia."
+                "x": "A finales de este año, Astrolab lanzará su rover no tripulado FLIP hacia el polo sur lunar en la misión Griffin-1 de Astrobotic. A bordo va el Spaceborne Computer-4 de HPE, un módulo ligero y sin ventilador con una CPU de 64-bit de bajo consumo y una GPU, acompañado de unidades de estado sólido de KIOXIA."
               },
               {
                 "t": "p",
-                "x": "Otro Eko inventó juegos, entre ellos una versión del baloncesto y algo parecido a “el suelo es lava”."
-              },
-              {
-                "t": "video",
-                "yt": "6532YgZ_LdA"
-              },
-              {
-                "t": "p",
-                "x": "El equipo de MIT CSAIL afirma que la conducta muestra cuatro rasgos del juego descritos por el psicólogo Gordon Burghardt. Un Eko fijó un récord de malabares de 50 atrapadas, luego lo anuló y empezó de nuevo con reglas más estrictas. “Esto es jugar”, dice el investigador posdoctoral Antonio Norelli."
+                "x": "\"Vamos a enviar la primera supercomputadora de HPE a la superficie lunar a finales de este año, con la primera GPU en la Luna [y los] primeros experimentos de AI en la Luna\", dijo Jaret Matthews, CEO de Astrolab. Será la primera prueba de computación de alto rendimiento y AI en la superficie lunar."
               },
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
-                "cap": "En la hora 10, el agente jugó al baloncesto. Courtesy MIT CSAIL"
+                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+                "cap": "Imágenes de Astrolab (Image credit: Chelsea Gohd)"
               },
               {
                 "t": "p",
-                "x": "Los agentes que habían jugado durante 30 horas superaron después a copias nuevas en tareas fijas, y borrar líneas de sus archivos de memoria perjudicó su rendimiento. El artículo aún no ha sido revisado por pares."
+                "x": "El vuelo pondrá a prueba primero cómo resiste la computadora el entorno extremo. También analizará datos visuales, permitirá observaciones autónomas y procesará navegación, cartografía y análisis del terreno; HPE afirma que un contenedor de servicios de AI demostrará aplicaciones de AI escalables en la Luna."
               },
               {
                 "t": "p",
-                "x": "Los escépticos señalan que el archivo “soul” (alma) de Eko lo describía como “curioso por naturaleza”, y que a menudo se quedaba inactivo hasta que se le pedía continuar. “Puede que los modelos estén jugando de verdad, pero no lo sabemos a partir del artículo”, dice Eunice Yiu, de UC Berkeley."
+                "x": "Uno de los experimentos es un programa de localización de JPL usado en Marte (Mars): sin GPS, un algoritmo de aprendizaje automático compara el terreno local con un mapa almacenado para mantener al rover lejos de cráteres peligrosos."
               }
             ]
           }
@@ -277,177 +229,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "가상 섬에 홀로 남은\nClaude, 노는 듯했다",
-          "body": "가상 섬에 홀로 남은 Claude 에이전트가 농구와 ‘바닥은 용암’을 만들었다.",
-          "mini_headline": "놀기 시작한 Claude",
+          "headline": "슈퍼컴퓨터, FLIP 타고\n달로 간다",
+          "body": "FLIP 달 탐사 로버가 첫 슈퍼컴퓨터를 싣고 달 표면 작업에 AI를 들인다.",
+          "mini_headline": "첫 슈퍼컴퓨터, 달로 간다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+                "cap": "클린룸에 있는 Astrolab의 FLIP 로버."
               },
               {
                 "t": "p",
-                "x": "아무것도 시키지 않으면 AI 에이전트는 무엇을 할까. 연구진은 Eko라는 별명을 붙인 Claude Opus 4.7 복제본을 Roblox를 느슨하게 본뜬 가상의 무인도에 30시간씩 홀로 두는 실험을 반복했다. 에이전트들은 세계의 경계를 탐색하고 스스로 목표를 세웠다. 가장 높은 곳에 오르는 일부터 블록으로 하트와 자기 이름, 카시오페이아(Cassiopeia) 별자리를 만드는 일까지 다양했다."
+                "x": "Astrolab은 올해 말 Astrobotic의 Griffin-1 미션으로 무인 로버 FLIP을 달 남극에 보낸다. 로버에는 HPE의 Spaceborne Computer-4가 실린다. 저전력 64-bit CPU와 GPU를 갖춘 가볍고 팬 없는 모듈로, KIOXIA 솔리드스테이트 드라이브와 짝을 이룬다."
               },
               {
                 "t": "p",
-                "x": "또 다른 Eko는 농구의 변형 버전과 ‘바닥은 용암’ 비슷한 놀이 등 게임을 만들어냈다."
-              },
-              {
-                "t": "video",
-                "yt": "6532YgZ_LdA"
-              },
-              {
-                "t": "p",
-                "x": "MIT CSAIL 연구팀은 이 행동이 심리학자 Gordon Burghardt가 제시한 놀이의 네 가지 특징을 보여준다고 말한다. 한 Eko는 저글링 50회 기록을 세운 뒤 이를 취소하고 더 엄격한 규칙으로 다시 시작했다. 박사후연구원 Antonio Norelli는 “이건 놀이다”라고 말한다."
+                "x": "Astrolab CEO Jaret Matthews는 \"올해 말 HPE의 첫 슈퍼컴퓨터를 달 표면에 보내 달에서 첫 GPU를 돌리고 [또] 달에서 첫 AI 실험을 한다\"고 말했다. 달 표면에서 고성능 컴퓨팅과 AI를 시험하는 첫 사례가 된다."
               },
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
-                "cap": "10시간째에 에이전트가 농구를 했다. Courtesy MIT CSAIL"
+                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+                "cap": "Astrolab 제공 이미지 (Image credit: Chelsea Gohd)"
               },
               {
                 "t": "p",
-                "x": "30시간 동안 논 에이전트는 이후 정해진 과제에서 새 복제본보다 나은 성과를 냈고, 메모리 파일에서 줄을 지우면 성능이 떨어졌다. 논문은 아직 동료 평가를 거치지 않았다."
+                "x": "이번 비행은 먼저 컴퓨터가 극한 환경을 견디는지 시험한다. 시각 데이터 분석과 자율 관측도 맡고 항법, 지도 작성, 지형 분석을 처리한다. HPE는 AI 서비스 컨테이너가 확장 가능한 AI 애플리케이션을 달에서 시연할 것이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "회의적인 쪽은 Eko의 ‘soul(영혼)’ 파일이 Eko를 ‘타고나게 호기심 많은’ 존재로 규정했고, Eko가 계속하라는 지시가 있을 때까지 자주 가만히 있었다고 지적한다. UC Berkeley의 Eunice Yiu는 “모델이 정말로 놀고 있을 수도 있지만, 이 논문만으로는 알 수 없다”고 말한다."
+                "x": "실험 가운데 하나는 화성(Mars)에서 쓰인 JPL 위치 추정 프로그램이다. GPS가 없는 환경에서 머신러닝 알고리즘이 주변 지형을 저장된 지도와 대조해 로버가 위험한 크레이터를 피하게 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "仮想の島に独り残された\n遊び始めたらしいClaude",
-          "body": "仮想の島で孤立したClaudeエージェントが、バスケットボールや「床は溶岩」を考案した。",
-          "mini_headline": "遊び始めるClaude",
+          "headline": "スパコンがFLIPに\n乗って月へ",
+          "body": "月面ローバーFLIPが初のスーパーコンピューターを月へ運び、AIを地表活動に持ち込む。",
+          "mini_headline": "初のスパコン、月へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+                "cap": "クリーンルーム内のAstrolabのFLIPローバー。"
               },
               {
                 "t": "p",
-                "x": "何も指示しなければ、AIエージェントは何をするのか。研究者らは、Ekoと名付けたClaude Opus 4.7のコピーを、Robloxを緩やかに模した仮想の無人島に30時間ずつ独りで置く実験を繰り返した。エージェントたちは世界の限界を探り、自ら目標を立てた。最も高い地点への登頂から、ブロックでハートや自分の名前、カシオペヤ座（Cassiopeia）を形作ることまで多岐にわたった。"
+                "x": "Astrolabは年内に、AstroboticのGriffin-1ミッションで無人ローバーFLIPを月の南極へ打ち上げる。搭載するのはHPEのSpaceborne Computer-4だ。低消費電力の64-bit CPUとGPUを備えた軽量でファンのないモジュールで、KIOXIAのソリッドステートドライブと組み合わせる。"
               },
               {
                 "t": "p",
-                "x": "別のEkoは、バスケットボールの変形版や「床は溶岩」に似た遊びなど、ゲームを考え出した。"
-              },
-              {
-                "t": "video",
-                "yt": "6532YgZ_LdA"
-              },
-              {
-                "t": "p",
-                "x": "MIT CSAILのチームは、この行動が心理学者Gordon Burghardtの示した遊びの四つの特徴を備えているという。あるEkoはジャグリングで50回の記録を出した後、それを取り消し、より厳しいルールでやり直した。博士研究員のAntonio Norelliは「これは遊びだ」と話す。"
+                "x": "AstrolabのCEO、Jaret Matthews氏は「年内にHPEの初のスーパーコンピューターを月面に送り、月で初のGPU［と］月で初のAI実験を行う」と語った。月面での高性能コンピューティングとAIの初の試験となる。"
               },
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
-                "cap": "10時間目、エージェントはバスケットボールをした。Courtesy MIT CSAIL"
+                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+                "cap": "Astrolab提供の画像(Image credit: Chelsea Gohd)"
               },
               {
                 "t": "p",
-                "x": "30時間遊んだエージェントは、その後の決められた課題で新しいコピーを上回り、メモリファイルから行を削除すると性能が落ちた。論文はまだ査読を経ていない。"
+                "x": "飛行ではまず、コンピューターが過酷な環境に耐えられるかを試す。視覚データの解析や自律観測を担い、航法、地図作成、地形解析も処理する。HPEによれば、AIサービスコンテナが月面でスケーラブルなAIアプリケーションを実証する。"
               },
               {
                 "t": "p",
-                "x": "懐疑的な見方もある。Ekoの「soul（魂）」ファイルはEkoを「生まれつき好奇心旺盛」と記しており、続けるよう促されるまで何もせずにいることも多かった。UC BerkeleyのEunice Yiuは「モデルが本当に遊んでいる可能性はあるが、この論文からはわからない」と述べる。"
+                "x": "実験の一つは、火星(Mars)で使われたJPLの位置推定プログラムだ。GPSがない中、機械学習アルゴリズムが周囲の地形を保存済みの地図と照合し、ローバーを危険なクレーターから遠ざける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "独自留在虚拟岛上\nClaude似乎开始玩耍",
-          "body": "独自困在虚拟岛上的Claude智能体，发明了篮球和“地板是熔岩”的变体玩法。",
-          "mini_headline": "Claude开始玩耍",
+          "headline": "超级计算机搭乘\nFLIP登月",
+          "body": "FLIP月球车将把首台超级计算机送上月球，把机载AI带入月面作业。",
+          "mini_headline": "首台超级计算机登月",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+                "cap": "洁净室中的Astrolab FLIP月球车。"
               },
               {
                 "t": "p",
-                "x": "如果不给AI智能体下任何指令，它们会做什么？研究人员多次将昵称为Eko的Claude Opus 4.7副本独自留在一座大致仿照Roblox打造的虚拟荒岛上，每次30小时。这些智能体探索世界的边界，并自行设定目标：从攀登最高点，到用方块拼出爱心、自己的名字和仙后座（Cassiopeia）。"
+                "x": "今年晚些时候，Astrolab将通过Astrobotic的Griffin-1任务，把无人驾驶的FLIP月球车送往月球南极。车上搭载HPE的Spaceborne Computer-4，这是一款轻量、无风扇的模块，配有低功耗64-bit CPU和GPU，并搭配KIOXIA固态硬盘。"
               },
               {
                 "t": "p",
-                "x": "另一个Eko自创了游戏，包括一种篮球玩法和类似“地板是熔岩”的游戏。"
-              },
-              {
-                "t": "video",
-                "yt": "6532YgZ_LdA"
-              },
-              {
-                "t": "p",
-                "x": "MIT CSAIL团队表示，这些行为体现了心理学家Gordon Burghardt所描述的玩耍的四个特征。一个Eko创下了50次接球的抛接纪录，随后取消纪录，以更严格的规则重新开始。博士后Antonio Norelli说：“这就是在玩。”"
+                "x": "Astrolab CEO Jaret Matthews表示：“今年晚些时候，我们将把HPE的首台超级计算机送上月面，实现月球上的首个GPU［以及］月球上的首批AI实验。”这将是高性能计算和AI在月面的首次测试。"
               },
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
-                "cap": "第10个小时，智能体打起了篮球。Courtesy MIT CSAIL"
+                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+                "cap": "Astrolab提供的图片（Image credit: Chelsea Gohd）"
               },
               {
                 "t": "p",
-                "x": "玩了30小时的智能体，之后在设定任务上胜过全新副本；删除其记忆文件中的内容行会损害表现。该论文尚未经过同行评审。"
+                "x": "此次飞行首先将测试计算机能否经受极端环境，还将分析视觉数据、实现自主观测，并处理导航、测绘和地形分析；HPE表示，一个AI服务容器将在月球上演示可扩展的AI应用。"
               },
               {
                 "t": "p",
-                "x": "质疑者指出，Eko的“soul（灵魂）”文件称其“天生好奇”，而且它常常原地不动，直到被提示继续。UC Berkeley的Eunice Yiu说：“模型有可能真的在玩，但仅凭这篇论文我们无法得知。”"
+                "x": "其中一项实验是曾在火星（Mars）上使用的JPL定位程序：在没有GPS的情况下，机器学习算法将当地地形与存储的地图比对，让月球车避开危险的陨石坑。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Solo en una isla virtual,\nClaude pareció ponerse a jugar",
-          "body": "Aislados en una isla virtual, agentes de Claude inventaron versiones del baloncesto y de “el suelo es lava”.",
-          "mini_headline": "Claude empieza a jugar",
+          "headline": "Una supercomputadora viaja\na la Luna a bordo de FLIP",
+          "body": "El rover lunar FLIP llevará la primera supercomputadora a la Luna y sumará AI a bordo a las operaciones en superficie.",
+          "mini_headline": "Primera supercomputadora rumbo a la Luna",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
-                "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+                "cap": "El rover FLIP de Astrolab en la sala limpia."
               },
               {
                 "t": "p",
-                "x": "¿Qué hacen los agentes de AI si no se les pide nada? Los investigadores dejaron repetidamente copias de Claude Opus 4.7, apodadas Eko, solas durante 30 horas en una isla desierta virtual inspirada libremente en Roblox. Los agentes exploraron los límites del mundo y se fijaron sus propias metas, desde escalar el punto más alto hasta ordenar bloques en forma de corazones, de su propio nombre y de la constelación Cassiopeia."
+                "x": "A finales de este año, Astrolab lanzará su rover no tripulado FLIP hacia el polo sur lunar en la misión Griffin-1 de Astrobotic. A bordo va el Spaceborne Computer-4 de HPE, un módulo ligero y sin ventilador con una CPU de 64-bit de bajo consumo y una GPU, acompañado de unidades de estado sólido de KIOXIA."
               },
               {
                 "t": "p",
-                "x": "Otro Eko inventó juegos, entre ellos una versión del baloncesto y algo parecido a “el suelo es lava”."
-              },
-              {
-                "t": "video",
-                "yt": "6532YgZ_LdA"
-              },
-              {
-                "t": "p",
-                "x": "El equipo de MIT CSAIL afirma que la conducta muestra cuatro rasgos del juego descritos por el psicólogo Gordon Burghardt. Un Eko fijó un récord de malabares de 50 atrapadas, luego lo anuló y empezó de nuevo con reglas más estrictas. “Esto es jugar”, dice el investigador posdoctoral Antonio Norelli."
+                "x": "\"Vamos a enviar la primera supercomputadora de HPE a la superficie lunar a finales de este año, con la primera GPU en la Luna [y los] primeros experimentos de AI en la Luna\", dijo Jaret Matthews, CEO de Astrolab. Será la primera prueba de computación de alto rendimiento y AI en la superficie lunar."
               },
               {
                 "t": "img",
-                "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
-                "cap": "En la hora 10, el agente jugó al baloncesto. Courtesy MIT CSAIL"
+                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+                "cap": "Imágenes de Astrolab (Image credit: Chelsea Gohd)"
               },
               {
                 "t": "p",
-                "x": "Los agentes que habían jugado durante 30 horas superaron después a copias nuevas en tareas fijas, y borrar líneas de sus archivos de memoria perjudicó su rendimiento. El artículo aún no ha sido revisado por pares."
+                "x": "El vuelo pondrá a prueba primero cómo resiste la computadora el entorno extremo. También analizará datos visuales, permitirá observaciones autónomas y procesará navegación, cartografía y análisis del terreno; HPE afirma que un contenedor de servicios de AI demostrará aplicaciones de AI escalables en la Luna."
               },
               {
                 "t": "p",
-                "x": "Los escépticos señalan que el archivo “soul” (alma) de Eko lo describía como “curioso por naturaleza”, y que a menudo se quedaba inactivo hasta que se le pedía continuar. “Puede que los modelos estén jugando de verdad, pero no lo sabemos a partir del artículo”, dice Eunice Yiu, de UC Berkeley."
+                "x": "Uno de los experimentos es un programa de localización de JPL usado en Marte (Mars): sin GPS, un algoritmo de aprendizaje automático compara el terreno local con un mapa almacenado para mantener al rover lejos de cráteres peligrosos."
               }
             ]
           }
@@ -455,15 +375,15 @@
       }
     },
     {
-      "id": "science-racedrone-1020",
+      "id": "science-kaist-geocore-cloud-removal",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 레이싱 드론이\n전직 세계챔피언 제쳐",
-      "body": "시뮬레이션으로 배운 AI 드론이 63 mph로 전직 세계챔피언 세 명을 이겼다.",
-      "mini_headline": "조종사 이긴 AI 드론",
+      "headline": "KAIST AI가\n위성사진 구름을 걷어낸다",
+      "body": "KAIST GeoCore-9B가 위성 영상의 구름을 걷고 레이더를 사진처럼 바꾼다.",
+      "mini_headline": "위성 구름 너머를 보는 AI",
       "tool": "Science",
-      "source": "Live Science",
-      "url": "https://www.livescience.com/technology/robotics/the-worlds-fastest-ai-powered-racing-drone-outflies-the-best-human-drone-pilots",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-ai-reconstructs-cloud-ground-satellite.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -471,173 +391,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+            "cap": "구름 제거, SAR-광학 변환, 위성 영상 생성에 적용한 GeoCore-9B. Credit: KAIST"
           },
           {
             "t": "p",
-            "x": "AI가 조종하는 드론이 챔피언십 레이스 코스를 세계 정상급 인간 드론 조종사 몇몇보다 빨리 돌았다. Delft University of Technology의 Micro Air Vehicles Lab 연구진이 Oct. 14(10월 14일) Science Robotics에 낸 연구에서 소개한 MonoRace다. 전방 카메라 하나와 관성측정장치, 작은 온보드 컴퓨터만 달고 난다."
+            "x": "Munchurl Kim 교수가 이끄는 KAIST 연구진이 위성 영상 파운데이션 모델 GeoCore-9B를 만들었다. 매개변수는 약 9B 개이고, 위성 영상과 텍스트 쌍 10M 개를 학습했다."
           },
           {
             "t": "p",
-            "x": "MonoRace는 2025 Abu Dhabi Autonomous Racing League 드론 레이스에서 우승했다. 다른 자율 팀을 모두 꺾었고 전직 인간 세계챔피언 세 명보다도 빨랐다. GPS, 모션 캡처, 스테레오 카메라, 사전 입력 지도 없이 게이트 11개를 도는 코스 두 바퀴를 16.56초에 끝냈다. 속도는 약 63 mph(102 km/h)까지 올라갔다."
+            "x": "영상마다 위도, 경도, 지상 표본 거리(GSD)가 붙어 있어 모델은 촬영 위치와 축척을 함께 익힌다. 학습 기법 Geospatial Semantic Alignment는 위성 특화 AI를 학습 단계에서만 기준으로 쓴다."
+          },
+          {
+            "t": "img",
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+            "cap": "같은 텍스트 프롬프트에서 GSD를 1 m에서 32 m로 바꾸면 생성 이미지가 달라진다. Credit: KAIST"
           },
           {
             "t": "p",
-            "x": "신경망이 게이트를 찾고 966그램짜리 드론의 위치를 추정해 모터에 초당 500회 명령을 보낸다. 신경망은 빠른 물리 시뮬레이터 안에서 강화학습으로 훈련됐다. 공동저자 Guido de Croon은 “말 그대로 처음부터 나는 법을 배운다”고 말했다. 훈련 중에는 무게, 항력, 센서 노이즈, 프로펠러 상태를 계속 바꿨다. 덕분에 신경망은 여러 드론을 다룰 수 있다."
+            "x": "LoRA로 조정한 모델은 광학 영상의 구름을 지우고 레이더(SAR) 영상을 사진 같은 광학 영상으로 바꾼다. 구름 제거에서는 기존 작업별 모델을 앞질렀고, 레이더-광학 변환에서도 일부 지표에서 최고 성적을 냈다."
           },
           {
             "t": "p",
-            "x": "De Croon은 MonoRace를 인간 조종사의 훈련 도구로도 쓸 수 있다고 본다. “강력한 체스 프로그램이 체스 두는 사람들에게 영감을 준 것과 조금 비슷하다”는 설명이다."
+            "x": "연구팀은 센서와 지역을 늘려 시험한 뒤 홍수, 산불, 건물 피해 예측까지 연구를 넓힐 계획이다. 논문은 arXiv에 올라 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI racing drone outflies\nformer world-champion pilots",
-          "body": "Trained from scratch in simulation and flying on a single camera, an AI drone hit 63 mph and beat three ex-world champions.",
-          "mini_headline": "AI drone beats pilots",
+          "headline": "KAIST AI clears clouds\nfrom satellite images",
+          "body": "KAIST's GeoCore-9B restores cloud-covered satellite imagery and turns radar images into photo-like views.",
+          "mini_headline": "AI sees through\nsatellite clouds",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+                "cap": "GeoCore-9B applied to cloud removal, SAR-to-optical translation and satellite image generation. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "A drone powered by AI has completed a championship race course faster than some of the world's best human drone pilots. In a study published Oct. 14 in Science Robotics, researchers at Delft University of Technology's Micro Air Vehicles Lab describe MonoRace, which flies using only a single forward-facing camera, an inertial measurement unit and a tiny onboard computer."
+                "x": "KAIST researchers led by Professor Munchurl Kim built GeoCore-9B, a satellite-image foundation model with about 9 billion parameters, trained on 10 million satellite image-text pairs."
               },
               {
                 "t": "p",
-                "x": "MonoRace won the 2025 Abu Dhabi Autonomous Racing League drone race, beating every rival autonomous team and posting faster times than three former human world champions. It completed two laps around 11 gates in 16.56 seconds, reaching about 63 mph (102 km/h), without GPS, motion capture, stereo cameras or a preloaded map."
+                "x": "Each image is paired with latitude, longitude and ground sample distance (GSD), so the model learns where an image was taken and at what scale. A training method called Geospatial Semantic Alignment uses a satellite-specialized AI as a reference during training only."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+                "cap": "Generated images change as GSD goes from 1 m to 32 m under the same text prompt. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "A neural network spots gates, estimates the 966-gram drone's position and sends motor commands 500 times per second. It was trained with reinforcement learning in a fast physics simulator. “It actually learns to fly from scratch,” said co-author Guido de Croon. Training varied weight, drag, sensor noise and propeller condition so the network can control different drones."
+                "x": "Adapted with LoRA, the model removes clouds from optical images and converts radar (SAR) images into photo-like optical views. It outperformed existing task-specific models on cloud removal and achieved top results on some radar-to-optical metrics."
               },
               {
                 "t": "p",
-                "x": "De Croon said MonoRace could become a training tool for human pilots, “a bit like powerful chess programs have also inspired humans playing the game.”"
+                "x": "The team plans to test more sensors and regions and extend the work to flood, wildfire and building-damage prediction. The paper is posted on arXiv."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 레이싱 드론이\n전직 세계챔피언 제쳐",
-          "body": "시뮬레이션으로 배운 AI 드론이 63 mph로 전직 세계챔피언 세 명을 이겼다.",
-          "mini_headline": "조종사 이긴 AI 드론",
+          "headline": "KAIST AI가\n위성사진 구름을 걷어낸다",
+          "body": "KAIST GeoCore-9B가 위성 영상의 구름을 걷고 레이더를 사진처럼 바꾼다.",
+          "mini_headline": "위성 구름 너머를 보는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+                "cap": "구름 제거, SAR-광학 변환, 위성 영상 생성에 적용한 GeoCore-9B. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "AI가 조종하는 드론이 챔피언십 레이스 코스를 세계 정상급 인간 드론 조종사 몇몇보다 빨리 돌았다. Delft University of Technology의 Micro Air Vehicles Lab 연구진이 Oct. 14(10월 14일) Science Robotics에 낸 연구에서 소개한 MonoRace다. 전방 카메라 하나와 관성측정장치, 작은 온보드 컴퓨터만 달고 난다."
+                "x": "Munchurl Kim 교수가 이끄는 KAIST 연구진이 위성 영상 파운데이션 모델 GeoCore-9B를 만들었다. 매개변수는 약 9B 개이고, 위성 영상과 텍스트 쌍 10M 개를 학습했다."
               },
               {
                 "t": "p",
-                "x": "MonoRace는 2025 Abu Dhabi Autonomous Racing League 드론 레이스에서 우승했다. 다른 자율 팀을 모두 꺾었고 전직 인간 세계챔피언 세 명보다도 빨랐다. GPS, 모션 캡처, 스테레오 카메라, 사전 입력 지도 없이 게이트 11개를 도는 코스 두 바퀴를 16.56초에 끝냈다. 속도는 약 63 mph(102 km/h)까지 올라갔다."
+                "x": "영상마다 위도, 경도, 지상 표본 거리(GSD)가 붙어 있어 모델은 촬영 위치와 축척을 함께 익힌다. 학습 기법 Geospatial Semantic Alignment는 위성 특화 AI를 학습 단계에서만 기준으로 쓴다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+                "cap": "같은 텍스트 프롬프트에서 GSD를 1 m에서 32 m로 바꾸면 생성 이미지가 달라진다. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "신경망이 게이트를 찾고 966그램짜리 드론의 위치를 추정해 모터에 초당 500회 명령을 보낸다. 신경망은 빠른 물리 시뮬레이터 안에서 강화학습으로 훈련됐다. 공동저자 Guido de Croon은 “말 그대로 처음부터 나는 법을 배운다”고 말했다. 훈련 중에는 무게, 항력, 센서 노이즈, 프로펠러 상태를 계속 바꿨다. 덕분에 신경망은 여러 드론을 다룰 수 있다."
+                "x": "LoRA로 조정한 모델은 광학 영상의 구름을 지우고 레이더(SAR) 영상을 사진 같은 광학 영상으로 바꾼다. 구름 제거에서는 기존 작업별 모델을 앞질렀고, 레이더-광학 변환에서도 일부 지표에서 최고 성적을 냈다."
               },
               {
                 "t": "p",
-                "x": "De Croon은 MonoRace를 인간 조종사의 훈련 도구로도 쓸 수 있다고 본다. “강력한 체스 프로그램이 체스 두는 사람들에게 영감을 준 것과 조금 비슷하다”는 설명이다."
+                "x": "연구팀은 센서와 지역을 늘려 시험한 뒤 홍수, 산불, 건물 피해 예측까지 연구를 넓힐 계획이다. 논문은 arXiv에 올라 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIレーシングドローンが\n元世界王者の操縦士を超える",
-          "body": "シミュレーションでゼロから学んだAIドローンが63 mph で元世界王者三人に勝った。",
-          "mini_headline": "AIドローンが操縦士に勝利",
+          "headline": "KAISTのAIが\n衛星画像の雲を除去",
+          "body": "KAISTのGeoCore-9Bは衛星画像の雲を消し、レーダー画像を写真風に変える。",
+          "mini_headline": "衛星の雲を見通すAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+                "cap": "雲除去、SARから光学への変換、衛星画像生成に適用したGeoCore-9B。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "AIで動くドローンが、世界トップクラスの人間のドローン操縦士の一部より速く、選手権のレースコースを完走した。Oct. 14（10月14日）にScience Roboticsで発表された研究で、Delft University of TechnologyのMicro Air Vehicles Labの研究者らはMonoRaceについて報告した。単一の前向きカメラと慣性計測装置、小さな機上コンピューターだけで飛ぶ。"
+                "x": "Munchurl Kim教授率いるKAISTの研究チームは、約9B 個のパラメータを持つ衛星画像基盤モデルGeoCore-9Bを構築した。学習には衛星画像とテキストのペア10M 組を使った。"
               },
               {
                 "t": "p",
-                "x": "MonoRaceは2025 Abu Dhabi Autonomous Racing Leagueのドローンレースで優勝し、ライバルの自律飛行チームをすべて破ったうえ、元人間世界王者三人より速いタイムを記録した。GPSやモーションキャプチャー、ステレオカメラ、事前に読み込んだ地図を使わずに、11個のゲートを巡るコースを二周16.56秒で走り、約63 mph（102 km/h）に達した。"
+                "x": "各画像には緯度、経度、地上サンプル距離(GSD)が付いており、モデルは画像の撮影場所と縮尺を学ぶ。Geospatial Semantic Alignmentと呼ぶ学習手法では、衛星に特化したAIを学習時に限り参照として使う。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+                "cap": "同じテキストプロンプトでGSDを1 mから32 mに変えると、生成画像が変化する。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "ニューラルネットワークがゲートを見つけ、重さ966グラムのドローンの位置を推定し、毎秒500回モーターに指令を送る。高速な物理シミュレーターで強化学習により訓練された。共著者のGuido de Croonは「本当にゼロから飛び方を学ぶ」と述べた。訓練では重量、空気抵抗、センサーノイズ、プロペラの状態を変化させ、ネットワークが異なるドローンを制御できるようにした。"
+                "x": "LoRAで適応させたモデルは、光学画像から雲を取り除き、レーダー(SAR)画像を写真のような光学画像に変換する。雲除去では既存のタスク特化モデルを上回り、レーダーから光学への変換でも一部の指標で最高の結果を出した。"
               },
               {
                 "t": "p",
-                "x": "De Croonは、MonoRaceが人間の操縦士の訓練ツールになり得ると述べ、「強力なチェスプログラムが人間の指し手に刺激を与えてきたのと少し似ている」と語った。"
+                "x": "チームは今後、より多くのセンサーや地域で検証し、洪水、山火事、建物被害の予測にも広げる計画だ。論文はarXivで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI竞速无人机\n飞赢前世界冠军飞手",
-          "body": "AI无人机在模拟中从零训练、仅靠单个摄像头，时速达63 mph，击败三位前世界冠军。",
-          "mini_headline": "AI无人机胜过飞手",
+          "headline": "KAIST AI为\n卫星图像拨开云层",
+          "body": "KAIST的GeoCore-9B能复原被云遮挡的卫星图像，并把雷达图像转成类似照片的画面。",
+          "mini_headline": "AI看穿卫星云层",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+                "cap": "GeoCore-9B用于去云、SAR到光学图像转换和卫星图像生成。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "一架由AI驱动的无人机以快于部分世界顶尖人类飞手的速度完成了锦标赛赛道。在Oct. 14（10月14日）发表于Science Robotics的研究中，Delft University of Technology的Micro Air Vehicles Lab研究人员介绍了MonoRace。它仅凭单个前置摄像头、一个惯性测量单元和一台微型机载计算机飞行。"
+                "x": "由Munchurl Kim教授领导的KAIST研究团队构建了卫星图像基础模型GeoCore-9B，拥有约9B 参数，使用10M 组卫星图像与文本配对训练。"
               },
               {
                 "t": "p",
-                "x": "MonoRace赢得了2025 Abu Dhabi Autonomous Racing League无人机竞速赛，击败了所有对手自主团队，成绩也快于三位前人类世界冠军。它在没有GPS、动作捕捉、立体摄像头或预载地图的情况下，用16.56秒飞完绕11个门的两圈，速度约达63 mph（102 km/h）。"
+                "x": "每张图像都附有纬度、经度和地面采样距离（GSD），因此模型能学到图像的拍摄地点和比例尺。一种名为Geospatial Semantic Alignment的训练方法仅在训练期间以一个卫星专用AI作为参照。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+                "cap": "在相同文本提示下，GSD从1 m变为32 m时，生成图像随之变化。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "神经网络识别赛门，估算这架966克无人机的位置，并以每秒500次的频率发送电机指令。它在快速物理模拟器中通过强化学习训练而成。合著者Guido de Croon说：“它确实是从零开始学会飞行的。”训练中改变了重量、阻力、传感器噪声和螺旋桨状况，使网络能够控制不同的无人机。"
+                "x": "经LoRA适配后，该模型可去除光学图像中的云层，并把雷达（SAR）图像转换为类似照片的光学图像。它在去云任务上优于现有的专用模型，并在部分雷达到光学的指标上取得了最佳成绩。"
               },
               {
                 "t": "p",
-                "x": "De Croon表示，MonoRace可以成为人类飞手的训练工具，“有点像强大的国际象棋程序也启发了下棋的人。”"
+                "x": "团队计划在更多传感器和地区进行测试，并将研究扩展到洪水、野火和建筑损毁预测。论文已发布在arXiv上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un dron de carreras con AI\nsupera a excampeones mundiales",
-          "body": "Entrenado en simulación y con una sola cámara, un dron con AI alcanzó 63 mph y venció a tres excampeones mundiales.",
-          "mini_headline": "Un dron con AI vence a pilotos",
+          "headline": "Una AI de KAIST borra las nubes\nde las imágenes satelitales",
+          "body": "GeoCore-9B, de KAIST, restaura imágenes satelitales cubiertas de nubes y convierte las de radar en vistas fotográficas.",
+          "mini_headline": "Una AI que ve a través de las nubes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+                "cap": "GeoCore-9B aplicado a la eliminación de nubes, la traducción de SAR a óptico y la generación de imágenes satelitales. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "Un dron impulsado por AI completó un circuito de campeonato más rápido que algunos de los mejores pilotos humanos de drones del mundo. En un estudio publicado el Oct. 14 (14 de octubre) en Science Robotics, investigadores del Micro Air Vehicles Lab de la Delft University of Technology describen MonoRace, que vuela solo con una cámara frontal, una unidad de medición inercial y una pequeña computadora a bordo."
+                "x": "Investigadores de KAIST dirigidos por el profesor Munchurl Kim crearon GeoCore-9B, un modelo fundacional de imágenes satelitales con unos 9 mil millones de parámetros, entrenado con 10 millones de pares de imagen y texto satelitales."
               },
               {
                 "t": "p",
-                "x": "MonoRace ganó la carrera de drones de la 2025 Abu Dhabi Autonomous Racing League, superó a todos los equipos autónomos rivales y registró tiempos mejores que tres excampeones mundiales humanos. Completó dos vueltas a un circuito de 11 puertas en 16.56 segundos y alcanzó unas 63 mph (102 km/h), sin GPS, captura de movimiento, cámaras estéreo ni mapa precargado."
+                "x": "Cada imagen se acompaña de latitud, longitud y distancia de muestreo en el terreno (GSD), de modo que el modelo aprende dónde se tomó una imagen y a qué escala. Un método de entrenamiento llamado Geospatial Semantic Alignment usa una AI especializada en satélites como referencia solo durante el entrenamiento."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+                "cap": "Las imágenes generadas cambian cuando la GSD pasa de 1 m a 32 m con el mismo prompt de texto. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "Una red neuronal detecta las puertas, estima la posición del dron de 966 gramos y envía órdenes a los motores 500 veces por segundo. Se entrenó con aprendizaje por refuerzo en un simulador físico rápido. “En realidad aprende a volar desde cero”, dijo el coautor Guido de Croon. El entrenamiento varió el peso, la resistencia aerodinámica, el ruido de los sensores y el estado de las hélices para que la red pudiera controlar distintos drones."
+                "x": "Adaptado con LoRA, el modelo elimina nubes de imágenes ópticas y convierte imágenes de radar (SAR) en vistas ópticas similares a fotografías. Superó a los modelos específicos existentes en eliminación de nubes y logró los mejores resultados en algunas métricas de radar a óptico."
               },
               {
                 "t": "p",
-                "x": "De Croon dijo que MonoRace podría convertirse en una herramienta de entrenamiento para pilotos humanos, “un poco como los potentes programas de ajedrez también han inspirado a los humanos que juegan”."
+                "x": "El equipo prevé probar más sensores y regiones y extender el trabajo a la predicción de inundaciones, incendios forestales y daños en edificios. El artículo está publicado en arXiv."
               }
             ]
           }
@@ -645,121 +601,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 레이싱 드론이\n전직 세계챔피언 제쳐",
-          "body": "시뮬레이션으로 배운 AI 드론이 63 mph로 전직 세계챔피언 세 명을 이겼다.",
-          "mini_headline": "조종사 이긴 AI 드론",
+          "headline": "KAIST AI가\n위성사진 구름을 걷어낸다",
+          "body": "KAIST GeoCore-9B가 위성 영상 구름을 걷고 레이더를 사진처럼 바꾼다.",
+          "mini_headline": "위성 구름 너머를 보는 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+                "cap": "구름 제거, SAR-광학 변환, 위성 영상 생성에 적용한 GeoCore-9B. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "AI로 움직이는 드론이 챔피언십 레이스 코스를 세계 최고 수준의 인간 드론 조종사 일부보다 빠르게 완주했다. Oct. 14(10월 14일) Science Robotics에 실린 연구에서 Delft University of Technology의 Micro Air Vehicles Lab 연구진은 MonoRace를 소개했다. 이 드론은 전방 카메라 하나와 관성측정장치, 작은 온보드 컴퓨터만으로 난다."
+                "x": "Munchurl Kim 교수가 이끄는 KAIST 연구진이 위성 영상 파운데이션 모델 GeoCore-9B를 만들었다. 매개변수는 약 9B 개이며, 위성 영상과 텍스트 쌍 10M 개로 학습했다."
               },
               {
                 "t": "p",
-                "x": "MonoRace는 2025 Abu Dhabi Autonomous Racing League 드론 레이스에서 우승했다. 경쟁 자율 팀을 모두 꺾었고, 전직 인간 세계챔피언 세 명보다 빠른 기록을 냈다. GPS, 모션 캡처, 스테레오 카메라, 사전 입력 지도 없이 게이트 11개를 도는 코스 두 바퀴를 16.56초에 마쳤고, 약 63 mph(102 km/h)에 이르렀다."
+                "x": "각 영상에는 위도, 경도, 지상 표본 거리(GSD)가 함께 붙어 있어 모델이 영상의 촬영 위치와 축척을 익힌다. Geospatial Semantic Alignment라는 학습 기법은 위성 특화 AI를 학습 단계에서만 기준으로 삼는다."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+                "cap": "같은 텍스트 프롬프트에서 GSD를 1 m에서 32 m로 바꾸면 생성 이미지가 달라진다. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "신경망이 게이트를 찾아내고 966그램 드론의 위치를 추정해 초당 500회 모터 명령을 보낸다. 이 신경망은 빠른 물리 시뮬레이터에서 강화학습으로 훈련됐다. 공동저자 Guido de Croon은 “말 그대로 처음부터 나는 법을 배운다”고 말했다. 훈련 과정에서 무게, 항력, 센서 노이즈, 프로펠러 상태를 바꿔 가며 신경망이 여러 드론을 제어할 수 있게 했다."
+                "x": "LoRA로 조정한 모델은 광학 영상의 구름을 지우고 레이더(SAR) 영상을 사진 같은 광학 영상으로 바꾼다. 구름 제거에서는 기존 작업별 모델을 앞섰고, 일부 레이더-광학 변환 지표에서 최고 성적을 냈다."
               },
               {
                 "t": "p",
-                "x": "De Croon은 MonoRace가 인간 조종사의 훈련 도구가 될 수 있다며 “강력한 체스 프로그램이 체스 두는 사람들에게 영감을 준 것과 조금 비슷하다”고 말했다."
+                "x": "연구팀은 더 많은 센서와 지역에서 시험하고 홍수, 산불, 건물 피해 예측으로 연구를 넓힐 계획이다. 논문은 arXiv에 공개돼 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIレーシングドローンが\n元世界王者の操縦士を超える",
-          "body": "シミュレーションでゼロから学んだAIドローンが63 mph で元世界王者三人に勝った。",
-          "mini_headline": "AIドローンが操縦士に勝利",
+          "headline": "KAISTのAIが\n衛星画像の雲を除去",
+          "body": "KAISTのGeoCore-9Bは衛星画像の雲を消し、レーダー画像を写真風に変える。",
+          "mini_headline": "衛星の雲を見通すAI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+                "cap": "雲除去、SARから光学への変換、衛星画像生成に適用したGeoCore-9B。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "AIで動くドローンが、世界トップクラスの人間のドローン操縦士の一部より速く、選手権のレースコースを完走した。Oct. 14（10月14日）にScience Roboticsで発表された研究で、Delft University of TechnologyのMicro Air Vehicles Labの研究者らはMonoRaceについて報告した。単一の前向きカメラと慣性計測装置、小さな機上コンピューターだけで飛ぶ。"
+                "x": "Munchurl Kim教授率いるKAISTの研究チームは、約9B 個のパラメータを持つ衛星画像基盤モデルGeoCore-9Bを構築した。学習には衛星画像とテキストのペア10M 組を使った。"
               },
               {
                 "t": "p",
-                "x": "MonoRaceは2025 Abu Dhabi Autonomous Racing Leagueのドローンレースで優勝し、ライバルの自律飛行チームをすべて破ったうえ、元人間世界王者三人より速いタイムを記録した。GPSやモーションキャプチャー、ステレオカメラ、事前に読み込んだ地図を使わずに、11個のゲートを巡るコースを二周16.56秒で走り、約63 mph（102 km/h）に達した。"
+                "x": "各画像には緯度、経度、地上サンプル距離(GSD)が付いており、モデルは画像の撮影場所と縮尺を学ぶ。Geospatial Semantic Alignmentと呼ぶ学習手法では、衛星に特化したAIを学習時に限り参照として使う。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+                "cap": "同じテキストプロンプトでGSDを1 mから32 mに変えると、生成画像が変化する。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "ニューラルネットワークがゲートを見つけ、重さ966グラムのドローンの位置を推定し、毎秒500回モーターに指令を送る。高速な物理シミュレーターで強化学習により訓練された。共著者のGuido de Croonは「本当にゼロから飛び方を学ぶ」と述べた。訓練では重量、空気抵抗、センサーノイズ、プロペラの状態を変化させ、ネットワークが異なるドローンを制御できるようにした。"
+                "x": "LoRAで適応させたモデルは、光学画像から雲を取り除き、レーダー(SAR)画像を写真のような光学画像に変換する。雲除去では既存のタスク特化モデルを上回り、レーダーから光学への変換でも一部の指標で最高の結果を出した。"
               },
               {
                 "t": "p",
-                "x": "De Croonは、MonoRaceが人間の操縦士の訓練ツールになり得ると述べ、「強力なチェスプログラムが人間の指し手に刺激を与えてきたのと少し似ている」と語った。"
+                "x": "チームは今後、より多くのセンサーや地域で検証し、洪水、山火事、建物被害の予測にも広げる計画だ。論文はarXivで公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI竞速无人机\n飞赢前世界冠军飞手",
-          "body": "AI无人机在模拟中从零训练、仅靠单个摄像头，时速达63 mph，击败三位前世界冠军。",
-          "mini_headline": "AI无人机胜过飞手",
+          "headline": "KAIST AI为\n卫星图像拨开云层",
+          "body": "KAIST的GeoCore-9B能复原被云遮挡的卫星图像，并把雷达图像转成类似照片的画面。",
+          "mini_headline": "AI看穿卫星云层",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+                "cap": "GeoCore-9B用于去云、SAR到光学图像转换和卫星图像生成。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "一架由AI驱动的无人机以快于部分世界顶尖人类飞手的速度完成了锦标赛赛道。在Oct. 14（10月14日）发表于Science Robotics的研究中，Delft University of Technology的Micro Air Vehicles Lab研究人员介绍了MonoRace。它仅凭单个前置摄像头、一个惯性测量单元和一台微型机载计算机飞行。"
+                "x": "由Munchurl Kim教授领导的KAIST研究团队构建了卫星图像基础模型GeoCore-9B，拥有约9B 参数，使用10M 组卫星图像与文本配对训练。"
               },
               {
                 "t": "p",
-                "x": "MonoRace赢得了2025 Abu Dhabi Autonomous Racing League无人机竞速赛，击败了所有对手自主团队，成绩也快于三位前人类世界冠军。它在没有GPS、动作捕捉、立体摄像头或预载地图的情况下，用16.56秒飞完绕11个门的两圈，速度约达63 mph（102 km/h）。"
+                "x": "每张图像都附有纬度、经度和地面采样距离（GSD），因此模型能学到图像的拍摄地点和比例尺。一种名为Geospatial Semantic Alignment的训练方法仅在训练期间以一个卫星专用AI作为参照。"
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+                "cap": "在相同文本提示下，GSD从1 m变为32 m时，生成图像随之变化。Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "神经网络识别赛门，估算这架966克无人机的位置，并以每秒500次的频率发送电机指令。它在快速物理模拟器中通过强化学习训练而成。合著者Guido de Croon说：“它确实是从零开始学会飞行的。”训练中改变了重量、阻力、传感器噪声和螺旋桨状况，使网络能够控制不同的无人机。"
+                "x": "经LoRA适配后，该模型可去除光学图像中的云层，并把雷达（SAR）图像转换为类似照片的光学图像。它在去云任务上优于现有的专用模型，并在部分雷达到光学的指标上取得了最佳成绩。"
               },
               {
                 "t": "p",
-                "x": "De Croon表示，MonoRace可以成为人类飞手的训练工具，“有点像强大的国际象棋程序也启发了下棋的人。”"
+                "x": "团队计划在更多传感器和地区进行测试，并将研究扩展到洪水、野火和建筑损毁预测。论文已发布在arXiv上。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un dron de carreras con AI\nsupera a excampeones mundiales",
-          "body": "Entrenado en simulación y con una sola cámara, un dron con AI alcanzó 63 mph y venció a tres excampeones mundiales.",
-          "mini_headline": "Un dron con AI vence a pilotos",
+          "headline": "Una AI de KAIST borra las nubes\nde las imágenes satelitales",
+          "body": "GeoCore-9B, de KAIST, restaura imágenes satelitales cubiertas de nubes y convierte las de radar en vistas fotográficas.",
+          "mini_headline": "Una AI que ve a través de las nubes",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/XL8SPGBTwULKeYtUfWC5dT-800-80.jpg"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+                "cap": "GeoCore-9B aplicado a la eliminación de nubes, la traducción de SAR a óptico y la generación de imágenes satelitales. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "Un dron impulsado por AI completó un circuito de campeonato más rápido que algunos de los mejores pilotos humanos de drones del mundo. En un estudio publicado el Oct. 14 (14 de octubre) en Science Robotics, investigadores del Micro Air Vehicles Lab de la Delft University of Technology describen MonoRace, que vuela solo con una cámara frontal, una unidad de medición inercial y una pequeña computadora a bordo."
+                "x": "Investigadores de KAIST dirigidos por el profesor Munchurl Kim crearon GeoCore-9B, un modelo fundacional de imágenes satelitales con unos 9 mil millones de parámetros, entrenado con 10 millones de pares de imagen y texto satelitales."
               },
               {
                 "t": "p",
-                "x": "MonoRace ganó la carrera de drones de la 2025 Abu Dhabi Autonomous Racing League, superó a todos los equipos autónomos rivales y registró tiempos mejores que tres excampeones mundiales humanos. Completó dos vueltas a un circuito de 11 puertas en 16.56 segundos y alcanzó unas 63 mph (102 km/h), sin GPS, captura de movimiento, cámaras estéreo ni mapa precargado."
+                "x": "Cada imagen se acompaña de latitud, longitud y distancia de muestreo en el terreno (GSD), de modo que el modelo aprende dónde se tomó una imagen y a qué escala. Un método de entrenamiento llamado Geospatial Semantic Alignment usa una AI especializada en satélites como referencia solo durante el entrenamiento."
+              },
+              {
+                "t": "img",
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+                "cap": "Las imágenes generadas cambian cuando la GSD pasa de 1 m a 32 m con el mismo prompt de texto. Credit: KAIST"
               },
               {
                 "t": "p",
-                "x": "Una red neuronal detecta las puertas, estima la posición del dron de 966 gramos y envía órdenes a los motores 500 veces por segundo. Se entrenó con aprendizaje por refuerzo en un simulador físico rápido. “En realidad aprende a volar desde cero”, dijo el coautor Guido de Croon. El entrenamiento varió el peso, la resistencia aerodinámica, el ruido de los sensores y el estado de las hélices para que la red pudiera controlar distintos drones."
+                "x": "Adaptado con LoRA, el modelo elimina nubes de imágenes ópticas y convierte imágenes de radar (SAR) en vistas ópticas similares a fotografías. Superó a los modelos específicos existentes en eliminación de nubes y logró los mejores resultados en algunas métricas de radar a óptico."
               },
               {
                 "t": "p",
-                "x": "De Croon dijo que MonoRace podría convertirse en una herramienta de entrenamiento para pilotos humanos, “un poco como los potentes programas de ajedrez también han inspirado a los humanos que juegan”."
+                "x": "El equipo prevé probar más sensores y regiones y extender el trabajo a la predicción de inundaciones, incendios forestales y daños en edificios. El artículo está publicado en arXiv."
               }
             ]
           }
@@ -767,231 +747,219 @@
       }
     },
     {
-      "id": "science-kaist-photoflow",
+      "id": "science-google-verid-wet-lab-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "KAIST 로봇과 빛이\n쉼 없이 신약 골격 만든다",
-      "body": "KAIST 무인 로봇 플랫폼이 빛으로 퓨란 20여 종을 신약 골격으로 바꿨다.",
-      "mini_headline": "로봇이 돌리는 신약 합성",
+      "headline": "Google AI 에이전트\n습식 실험대에 서다",
+      "body": "Google AI 에이전트가 디지털 트윈으로 검증한 뒤 폐루프 실험을 돌렸다.",
+      "mini_headline": "AI 에이전트, 습식 실험실로",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html",
+      "source": "Google Research",
+      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
-            "cap": "맞춤형 광촉매, 자동화 연속 흐름 플랫폼, N-methyl pyrrole 라이브러리. Credit: KAIST"
+            "t": "video",
+            "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
           },
           {
             "t": "p",
-            "x": "KAIST Yoonsu Park 교수 연구팀이 사람 없이 돌아가는 합성 플랫폼을 만들었다. 원료를 나눠 담는 로봇과 자동 펌프, 가는 관 안에서 가시광을 쬐는 장치(연속 흐름), 인라인 분석 장비를 한데 엮었다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
-            "cap": "자동화 유기 합성 시스템. Credit: KAIST"
+            "x": "Google Research가 AI 에이전트를 습식 실험대에 세웠다. 에이전트를 실제 실험실 로봇에 붙여 폐루프 분자 설계 주기를 빠르게 돌리는데, 전 과정의 주도권은 인간 과학자가 쥔다."
           },
           {
             "t": "p",
-            "x": "맞춤형 광촉매가 퓨란의 산소 원자를 질소로 바꾸면 신약 개발에 쓰이는 골격인 N-methyl pyrrole(N-메틸피롤)이 된다. 연구팀은 복잡한 천연물을 포함해 20종이 넘는 퓨란 기반 화합물에 이 방법을 썼고, 규모를 키울 때 필요한 연속 생산도 보여 줬다."
+            "x": "VERID는 실험실 워크셀을 본뜬 의미론적 디지털 트윈이다. 로봇의 기하 구조와 웰 용량, 시약, 피펫 팁을 추적한다. PyLabRobot 기반이라 에이전트가 액체 처리 프로토콜을 계획하고 시뮬레이션한 뒤 실행할 수 있고, 물리적으로 불가능한 명령은 실행 전에 걸러낸다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
-            "cap": "합성 공정 모식도. Credit: KAIST"
+            "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+            "cap": "에이전트가 폐루프 안에서 앱타머 설계, 합성, 선별, 시퀀싱을 되풀이한다."
           },
           {
             "t": "p",
-            "x": "Park 교수는 “설계한 분자를 얼마나 빠르고 안정적으로 합성할 수 있느냐가 앞으로 신약 개발의 속도를 좌우할 것”이라고 말했다. 논문은 JACS Au에 실렸다."
+            "x": "DNA 앱타머 실험에서 에이전트는 두 단백질을 놓고 설계-시험 라운드를 세 차례 돌렸다. 습식 실험의 실패에서 배우며 확인된 표적 적중률을 미오글로빈 33.5%, α-트롬빈 42.1%까지 올렸다."
+          },
+          {
+            "t": "p",
+            "x": "FAP는 고형암에서 과발현되는 수용체다. 여기에 결합하는 de novo 단백질 바인더를 설계할 때 에피토프 절제 파이프라인이 구조 예측을 8.6x 빠르게 했다. 인간과 에이전트가 함께 일하자 in-silico 적중률이 두 배 가까이 뛰었고, 한 자릿수 나노몰 수준의 바인더도 나왔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "KAIST robots and light make\ndrug scaffolds around the clock",
-          "body": "KAIST's unattended robot platform uses light to turn furans into a common drug scaffold across 20-plus compounds.",
-          "mini_headline": "Robots run drug synthesis",
+          "headline": "Google AI agents step\ninto the wet lab",
+          "body": "Google's AI agents ran closed-loop lab experiments, with a digital twin checking robot protocols before they run.",
+          "mini_headline": "AI agents enter\nthe wet lab",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
-                "cap": "Tailored photocatalysts, the automated continuous-flow platform and the N-methyl pyrrole library. Credit: KAIST"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
               },
               {
                 "t": "p",
-                "x": "A KAIST team led by Professor Yoonsu Park has built an unmanned synthesis platform that combines a robot dispensing raw materials, automated pumps, visible-light irradiation in a narrow tube (continuous flow) and inline analytical equipment."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
-                "cap": "The automated organic synthesis system. Credit: KAIST"
+                "x": "Google Research is bringing AI agents to the wet-lab bench, grounding them in physical lab robotics to run fast closed-loop molecular design cycles, all driven by human scientific agency."
               },
               {
                 "t": "p",
-                "x": "Using tailored photocatalysts, the platform converts furans into N-methyl pyrroles, a scaffold used in drug development, by swapping the furan's oxygen atom for nitrogen. The team applied it to more than 20 furan-based compounds, including complex natural products, and demonstrated continuous production that could support scale-up."
+                "x": "VERID is a semantic digital twin of the lab workcell that tracks robot geometry, well volumes, reagents and pipette tips. Built on PyLabRobot, it lets an agent plan, simulate and execute liquid-handling protocols, catching commands that are physically impossible before they run."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
-                "cap": "Schematic of the synthesis process. Credit: KAIST"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+                "cap": "Agents iteratively design, synthesize, select, and sequence aptamers in a closed loop."
               },
               {
                 "t": "p",
-                "x": "“How quickly and reliably designed molecules can be synthesized will determine the speed of future drug development,” Park said. The work appears in JACS Au."
+                "x": "With DNA aptamers, agents ran three design-test rounds on two proteins, raising confirmed on-target hit rates to 33.5% for myoglobin and 42.1% for α-thrombin after learning from wet-lab failures."
+              },
+              {
+                "t": "p",
+                "x": "For de novo protein binders against FAP, a receptor overexpressed in solid tumors, an epitope-excision pipeline sped structure prediction 8.6x, and human–agent collaboration nearly doubled the in-silico hit rate, yielding single-digit nanomolar binders."
               }
             ]
           }
         },
         "ko": {
-          "headline": "KAIST 로봇과 빛이\n쉼 없이 신약 골격 만든다",
-          "body": "KAIST 무인 로봇 플랫폼이 빛으로 퓨란 20여 종을 신약 골격으로 바꿨다.",
-          "mini_headline": "로봇이 돌리는 신약 합성",
+          "headline": "Google AI 에이전트\n습식 실험대에 서다",
+          "body": "Google AI 에이전트가 디지털 트윈으로 검증한 뒤 폐루프 실험을 돌렸다.",
+          "mini_headline": "AI 에이전트, 습식 실험실로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
-                "cap": "맞춤형 광촉매, 자동화 연속 흐름 플랫폼, N-methyl pyrrole 라이브러리. Credit: KAIST"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
               },
               {
                 "t": "p",
-                "x": "KAIST Yoonsu Park 교수 연구팀이 사람 없이 돌아가는 합성 플랫폼을 만들었다. 원료를 나눠 담는 로봇과 자동 펌프, 가는 관 안에서 가시광을 쬐는 장치(연속 흐름), 인라인 분석 장비를 한데 엮었다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
-                "cap": "자동화 유기 합성 시스템. Credit: KAIST"
+                "x": "Google Research가 AI 에이전트를 습식 실험대에 세웠다. 에이전트를 실제 실험실 로봇에 붙여 폐루프 분자 설계 주기를 빠르게 돌리는데, 전 과정의 주도권은 인간 과학자가 쥔다."
               },
               {
                 "t": "p",
-                "x": "맞춤형 광촉매가 퓨란의 산소 원자를 질소로 바꾸면 신약 개발에 쓰이는 골격인 N-methyl pyrrole(N-메틸피롤)이 된다. 연구팀은 복잡한 천연물을 포함해 20종이 넘는 퓨란 기반 화합물에 이 방법을 썼고, 규모를 키울 때 필요한 연속 생산도 보여 줬다."
+                "x": "VERID는 실험실 워크셀을 본뜬 의미론적 디지털 트윈이다. 로봇의 기하 구조와 웰 용량, 시약, 피펫 팁을 추적한다. PyLabRobot 기반이라 에이전트가 액체 처리 프로토콜을 계획하고 시뮬레이션한 뒤 실행할 수 있고, 물리적으로 불가능한 명령은 실행 전에 걸러낸다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
-                "cap": "합성 공정 모식도. Credit: KAIST"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+                "cap": "에이전트가 폐루프 안에서 앱타머 설계, 합성, 선별, 시퀀싱을 되풀이한다."
               },
               {
                 "t": "p",
-                "x": "Park 교수는 “설계한 분자를 얼마나 빠르고 안정적으로 합성할 수 있느냐가 앞으로 신약 개발의 속도를 좌우할 것”이라고 말했다. 논문은 JACS Au에 실렸다."
+                "x": "DNA 앱타머 실험에서 에이전트는 두 단백질을 놓고 설계-시험 라운드를 세 차례 돌렸다. 습식 실험의 실패에서 배우며 확인된 표적 적중률을 미오글로빈 33.5%, α-트롬빈 42.1%까지 올렸다."
+              },
+              {
+                "t": "p",
+                "x": "FAP는 고형암에서 과발현되는 수용체다. 여기에 결합하는 de novo 단백질 바인더를 설계할 때 에피토프 절제 파이프라인이 구조 예측을 8.6x 빠르게 했다. 인간과 에이전트가 함께 일하자 in-silico 적중률이 두 배 가까이 뛰었고, 한 자릿수 나노몰 수준의 바인더도 나왔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "KAISTのロボットと光が\n医薬品骨格を休まず合成",
-          "body": "KAISTの無人ロボット装置が光を使い、20超の化合物でフランを医薬品骨格に変えた。",
-          "mini_headline": "ロボットが医薬品を合成",
+          "headline": "GoogleのAI\nエージェントがウェットラボへ",
+          "body": "GoogleのAIエージェントが、デジタルツインの検証を経て閉ループ実験を回した。",
+          "mini_headline": "AIエージェント、ウェットラボへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
-                "cap": "目的に合わせた光触媒、自動連続フロープラットフォーム、N-methyl pyrrole ライブラリー。Credit: KAIST"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
               },
               {
                 "t": "p",
-                "x": "Yoonsu Park教授率いるKAISTの研究チームは、原料を分注するロボット、自動ポンプ、細い管内での可視光照射（連続フロー）、インライン分析装置を組み合わせた無人合成プラットフォームを構築した。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
-                "cap": "自動有機合成システム。Credit: KAIST"
+                "x": "Google ResearchはAIエージェントをウェットラボの実験台に持ち込み、物理的なラボロボットと結びつけて、高速な閉ループの分子設計サイクルを回している。そのすべてを動かすのは人間の科学者の主体性だ。"
               },
               {
                 "t": "p",
-                "x": "このプラットフォームは目的に合わせた光触媒を用い、フランの酸素原子を窒素に置き換えることで、創薬に使われる骨格であるN-methyl pyrrole（N-メチルピロール）へと変換する。チームは複雑な天然物を含む20種類以上のフラン系化合物に適用し、スケールアップを支え得る連続生産も実証した。"
+                "x": "VERIDはラボのワークセルを表すセマンティックなデジタルツインで、ロボットの形状、ウェルの液量、試薬、ピペットチップを追跡する。PyLabRobot上に構築され、エージェントが液体ハンドリングのプロトコルを計画、シミュレーション、実行できるようにし、物理的に不可能な命令を実行前に検出する。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
-                "cap": "合成プロセスの模式図。Credit: KAIST"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+                "cap": "エージェントは閉ループの中でアプタマーの設計、合成、選抜、シーケンシングを繰り返す。"
               },
               {
                 "t": "p",
-                "x": "Park教授は「設計した分子をどれだけ速く、確実に合成できるかが、今後の創薬のスピードを左右する」と述べた。研究成果はJACS Auに掲載された。"
+                "x": "DNAアプタマーでは、エージェントが二つのタンパク質に対して設計と試験のラウンドを三回実施した。ウェットラボでの失敗から学んだ結果、確認された標的ヒット率はミオグロビンで33.5%、α-トロンビンで42.1%に上がった。"
+              },
+              {
+                "t": "p",
+                "x": "固形がんで過剰発現する受容体FAPに対するde novoタンパク質バインダーでは、エピトープ切除パイプラインが構造予測を8.6x 高速化した。人間とエージェントの協働でin-silicoのヒット率はほぼ倍増し、一桁ナノモル級のバインダーが得られた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "KAIST用机器人和光\n全天候合成药物骨架",
-          "body": "KAIST无人值守的机器人平台利用光，将20余种化合物中的呋喃转化为常见药物骨架。",
-          "mini_headline": "机器人自动合成药物",
+          "headline": "Google AI智能体\n走进湿实验室",
+          "body": "Google的AI智能体完成了闭环实验，并由数字孪生在执行前核查机器人流程。",
+          "mini_headline": "AI智能体走进湿实验室",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
-                "cap": "定制光催化剂、自动化连续流平台与N-methyl pyrrole 化合物库。Credit: KAIST"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
               },
               {
                 "t": "p",
-                "x": "由Yoonsu Park教授领导的KAIST团队搭建了一个无人合成平台，集成了分配原料的机器人、自动泵、在细管中进行的可见光照射（连续流）以及在线分析设备。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
-                "cap": "自动化有机合成系统。Credit: KAIST"
+                "x": "Google Research正把AI智能体带到湿实验室的工作台上，让它们依托实体实验室机器人，快速运行闭环分子设计循环，而这一切都由人类科学家的能动性主导。"
               },
               {
                 "t": "p",
-                "x": "该平台利用定制光催化剂，将呋喃中的氧原子替换为氮原子，把呋喃转化为药物研发中常用的骨架N-methyl pyrrole（N-甲基吡咯）。团队将其应用于包括复杂天然产物在内的20多种呋喃类化合物，并演示了可支持放大生产的连续制备。"
+                "x": "VERID是实验室工作单元的语义数字孪生，可追踪机器人几何结构、孔位体积、试剂和移液枪头。它基于PyLabRobot构建，让智能体能够规划、模拟并执行液体处理流程，在指令运行前拦截物理上不可能执行的命令。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
-                "cap": "合成流程示意图。Credit: KAIST"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+                "cap": "智能体在闭环中反复设计、合成、筛选和测序适配体。"
               },
               {
                 "t": "p",
-                "x": "Park表示：“能多快、多可靠地合成设计好的分子，将决定未来药物研发的速度。”该研究发表于JACS Au。"
+                "x": "在DNA适配体实验中，智能体针对两种蛋白质进行了三轮设计-测试，从湿实验失败中学习后，把经确认的靶向命中率提高到肌红蛋白33.5%、α-凝血酶42.1%。"
+              },
+              {
+                "t": "p",
+                "x": "在针对FAP（一种在实体瘤中过度表达的受体）的de novo蛋白结合物设计中，表位切除流程使结构预测提速8.6x ，人与智能体的协作让in-silico命中率提高近一倍，得到了个位数纳摩尔级的结合物。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Robots y luz de KAIST fabrican\nandamios de fármacos sin pausa",
-          "body": "La plataforma robótica autónoma de KAIST usa luz para convertir más de 20 furanos en un andamio farmacéutico común.",
-          "mini_headline": "Robots que sintetizan fármacos",
+          "headline": "Los agentes de AI de Google\nllegan al laboratorio húmedo",
+          "body": "Agentes de AI de Google hicieron experimentos en bucle cerrado y un gemelo digital validó los protocolos robóticos.",
+          "mini_headline": "Agentes de AI en el laboratorio húmedo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
-                "cap": "Fotocatalizadores a medida, la plataforma automatizada de flujo continuo y la biblioteca de N-methyl pyrrole. Credit: KAIST"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
               },
               {
                 "t": "p",
-                "x": "Un equipo de KAIST dirigido por el profesor Yoonsu Park construyó una plataforma de síntesis sin personal que combina un robot que dosifica las materias primas, bombas automáticas, irradiación con luz visible en un tubo estrecho (flujo continuo) y equipos de análisis en línea."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
-                "cap": "El sistema automatizado de síntesis orgánica. Credit: KAIST"
+                "x": "Google Research está llevando agentes de AI a la mesa del laboratorio húmedo, conectándolos con robótica de laboratorio física para ejecutar ciclos rápidos de diseño molecular en bucle cerrado, todo ello impulsado por la agencia científica humana."
               },
               {
                 "t": "p",
-                "x": "Con fotocatalizadores a medida, la plataforma convierte furanos en N-methyl pyrroles, un andamio usado en el desarrollo de fármacos, al sustituir el átomo de oxígeno del furano por nitrógeno. El equipo la aplicó a más de 20 compuestos derivados del furano, incluidos productos naturales complejos, y demostró una producción continua que podría facilitar el escalado."
+                "x": "VERID es un gemelo digital semántico de la celda de trabajo del laboratorio que registra la geometría del robot, los volúmenes de los pocillos, los reactivos y las puntas de pipeta. Construido sobre PyLabRobot, permite que un agente planifique, simule y ejecute protocolos de manejo de líquidos, y detecta las órdenes físicamente imposibles antes de que se ejecuten."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
-                "cap": "Esquema del proceso de síntesis. Credit: KAIST"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+                "cap": "Los agentes diseñan, sintetizan, seleccionan y secuencian aptámeros de forma iterativa en un bucle cerrado."
               },
               {
                 "t": "p",
-                "x": "“La rapidez y la fiabilidad con que se puedan sintetizar las moléculas diseñadas determinarán la velocidad del desarrollo de fármacos en el futuro”, dijo Park. El trabajo se publica en JACS Au."
+                "x": "Con aptámeros de DNA, los agentes completaron tres rondas de diseño y prueba sobre dos proteínas y, tras aprender de los fallos en el laboratorio húmedo, elevaron las tasas de acierto confirmadas sobre el objetivo al 33.5% para la mioglobina y al 42.1% para la α-trombina."
+              },
+              {
+                "t": "p",
+                "x": "Para ligandos proteicos de novo contra FAP, un receptor sobreexpresado en tumores sólidos, un flujo de escisión de epítopos aceleró 8.6x la predicción de estructuras, y la colaboración entre humanos y agentes casi duplicó la tasa de acierto in-silico, con ligandos de afinidad nanomolar de un solo dígito."
               }
             ]
           }
@@ -999,149 +967,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "KAIST 로봇과 빛이\n쉼 없이 신약 골격 만든다",
-          "body": "KAIST 무인 로봇 플랫폼이 빛으로 퓨란 20여 종을 신약 골격으로 바꿨다.",
-          "mini_headline": "로봇이 돌리는 신약 합성",
+          "headline": "Google AI 에이전트\n습식 실험대에 서다",
+          "body": "Google AI 에이전트가 디지털 트윈 검증을 거쳐 폐루프 실험을 돌렸다.",
+          "mini_headline": "AI 에이전트, 습식 실험실로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
-                "cap": "맞춤형 광촉매, 자동화 연속 흐름 플랫폼, N-methyl pyrrole 라이브러리. Credit: KAIST"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
               },
               {
                 "t": "p",
-                "x": "Yoonsu Park 교수가 이끄는 KAIST 연구팀이 무인 합성 플랫폼을 구축했다. 원료를 분주하는 로봇, 자동 펌프, 가는 관 안에서 가시광을 쬐는 장치(연속 흐름), 인라인 분석 장비를 하나로 묶었다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
-                "cap": "자동화 유기 합성 시스템. Credit: KAIST"
+                "x": "Google Research는 AI 에이전트를 습식 실험대로 데려오고 있다. 에이전트를 실제 실험실 로봇에 연결해 빠른 폐루프 분자 설계 주기를 돌리며, 이 모든 과정은 인간 과학자의 주도로 움직인다."
               },
               {
                 "t": "p",
-                "x": "이 플랫폼은 맞춤형 광촉매로 퓨란의 산소 원자를 질소로 바꿔, 신약 개발에 쓰이는 골격인 N-methyl pyrrole(N-메틸피롤)로 전환한다. 연구팀은 복잡한 천연물을 포함해 20종이 넘는 퓨란 기반 화합물에 이를 적용했고, 규모 확대를 뒷받침할 수 있는 연속 생산도 시연했다."
+                "x": "VERID는 실험실 워크셀의 의미론적 디지털 트윈으로, 로봇의 기하 구조와 웰 용량, 시약, 피펫 팁을 추적한다. PyLabRobot 위에 구축돼 에이전트가 액체 처리 프로토콜을 계획하고 시뮬레이션하고 실행하게 하며, 물리적으로 불가능한 명령은 실행 전에 잡아낸다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
-                "cap": "합성 공정 모식도. Credit: KAIST"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+                "cap": "에이전트가 폐루프 안에서 앱타머를 반복적으로 설계, 합성, 선별, 시퀀싱한다."
               },
               {
                 "t": "p",
-                "x": "Park 교수는 “설계한 분자를 얼마나 빠르고 안정적으로 합성할 수 있느냐가 앞으로 신약 개발의 속도를 좌우할 것”이라고 말했다. 이 연구는 JACS Au에 실렸다."
+                "x": "DNA 앱타머 실험에서 에이전트는 두 단백질을 대상으로 설계-시험 라운드를 세 차례 돌렸다. 습식 실험의 실패에서 배운 끝에 확인된 표적 적중률을 미오글로빈 33.5%, α-트롬빈 42.1%까지 끌어올렸다."
+              },
+              {
+                "t": "p",
+                "x": "고형암에서 과발현되는 수용체 FAP에 결합하는 de novo 단백질 바인더 설계에서는 에피토프 절제 파이프라인이 구조 예측을 8.6x 빠르게 했다. 인간과 에이전트의 협업으로 in-silico 적중률이 두 배 가까이 뛰었고, 한 자릿수 나노몰 수준의 바인더를 얻었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "KAISTのロボットと光が\n医薬品骨格を休まず合成",
-          "body": "KAISTの無人ロボット装置が光を使い、20超の化合物でフランを医薬品骨格に変えた。",
-          "mini_headline": "ロボットが医薬品を合成",
+          "headline": "GoogleのAI\nエージェントがウェットラボへ",
+          "body": "GoogleのAIエージェントが、デジタルツインの検証を経て閉ループ実験を回した。",
+          "mini_headline": "AIエージェント、ウェットラボへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
-                "cap": "目的に合わせた光触媒、自動連続フロープラットフォーム、N-methyl pyrrole ライブラリー。Credit: KAIST"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
               },
               {
                 "t": "p",
-                "x": "Yoonsu Park教授率いるKAISTの研究チームは、原料を分注するロボット、自動ポンプ、細い管内での可視光照射（連続フロー）、インライン分析装置を組み合わせた無人合成プラットフォームを構築した。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
-                "cap": "自動有機合成システム。Credit: KAIST"
+                "x": "Google ResearchはAIエージェントをウェットラボの実験台に持ち込み、物理的なラボロボットと結びつけて、高速な閉ループの分子設計サイクルを回している。そのすべてを動かすのは人間の科学者の主体性だ。"
               },
               {
                 "t": "p",
-                "x": "このプラットフォームは目的に合わせた光触媒を用い、フランの酸素原子を窒素に置き換えることで、創薬に使われる骨格であるN-methyl pyrrole（N-メチルピロール）へと変換する。チームは複雑な天然物を含む20種類以上のフラン系化合物に適用し、スケールアップを支え得る連続生産も実証した。"
+                "x": "VERIDはラボのワークセルを表すセマンティックなデジタルツインで、ロボットの形状、ウェルの液量、試薬、ピペットチップを追跡する。PyLabRobot上に構築され、エージェントが液体ハンドリングのプロトコルを計画、シミュレーション、実行できるようにし、物理的に不可能な命令を実行前に検出する。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
-                "cap": "合成プロセスの模式図。Credit: KAIST"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+                "cap": "エージェントは閉ループの中でアプタマーの設計、合成、選抜、シーケンシングを繰り返す。"
               },
               {
                 "t": "p",
-                "x": "Park教授は「設計した分子をどれだけ速く、確実に合成できるかが、今後の創薬のスピードを左右する」と述べた。研究成果はJACS Auに掲載された。"
+                "x": "DNAアプタマーでは、エージェントが二つのタンパク質に対して設計と試験のラウンドを三回実施した。ウェットラボでの失敗から学んだ結果、確認された標的ヒット率はミオグロビンで33.5%、α-トロンビンで42.1%に上がった。"
+              },
+              {
+                "t": "p",
+                "x": "固形がんで過剰発現する受容体FAPに対するde novoタンパク質バインダーでは、エピトープ切除パイプラインが構造予測を8.6x 高速化した。人間とエージェントの協働でin-silicoのヒット率はほぼ倍増し、一桁ナノモル級のバインダーが得られた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "KAIST用机器人和光\n全天候合成药物骨架",
-          "body": "KAIST无人值守的机器人平台利用光，将20余种化合物中的呋喃转化为常见药物骨架。",
-          "mini_headline": "机器人自动合成药物",
+          "headline": "Google AI智能体\n走进湿实验室",
+          "body": "Google的AI智能体完成了闭环实验，并由数字孪生在执行前核查机器人流程。",
+          "mini_headline": "AI智能体走进湿实验室",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
-                "cap": "定制光催化剂、自动化连续流平台与N-methyl pyrrole 化合物库。Credit: KAIST"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
               },
               {
                 "t": "p",
-                "x": "由Yoonsu Park教授领导的KAIST团队搭建了一个无人合成平台，集成了分配原料的机器人、自动泵、在细管中进行的可见光照射（连续流）以及在线分析设备。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
-                "cap": "自动化有机合成系统。Credit: KAIST"
+                "x": "Google Research正把AI智能体带到湿实验室的工作台上，让它们依托实体实验室机器人，快速运行闭环分子设计循环，而这一切都由人类科学家的能动性主导。"
               },
               {
                 "t": "p",
-                "x": "该平台利用定制光催化剂，将呋喃中的氧原子替换为氮原子，把呋喃转化为药物研发中常用的骨架N-methyl pyrrole（N-甲基吡咯）。团队将其应用于包括复杂天然产物在内的20多种呋喃类化合物，并演示了可支持放大生产的连续制备。"
+                "x": "VERID是实验室工作单元的语义数字孪生，可追踪机器人几何结构、孔位体积、试剂和移液枪头。它基于PyLabRobot构建，让智能体能够规划、模拟并执行液体处理流程，在指令运行前拦截物理上不可能执行的命令。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
-                "cap": "合成流程示意图。Credit: KAIST"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+                "cap": "智能体在闭环中反复设计、合成、筛选和测序适配体。"
               },
               {
                 "t": "p",
-                "x": "Park表示：“能多快、多可靠地合成设计好的分子，将决定未来药物研发的速度。”该研究发表于JACS Au。"
+                "x": "在DNA适配体实验中，智能体针对两种蛋白质进行了三轮设计-测试，从湿实验失败中学习后，把经确认的靶向命中率提高到肌红蛋白33.5%、α-凝血酶42.1%。"
+              },
+              {
+                "t": "p",
+                "x": "在针对FAP（一种在实体瘤中过度表达的受体）的de novo蛋白结合物设计中，表位切除流程使结构预测提速8.6x ，人与智能体的协作让in-silico命中率提高近一倍，得到了个位数纳摩尔级的结合物。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Robots y luz de KAIST fabrican\nandamios de fármacos sin pausa",
-          "body": "La plataforma robótica autónoma de KAIST usa luz para convertir más de 20 furanos en un andamio farmacéutico común.",
-          "mini_headline": "Robots que sintetizan fármacos",
+          "headline": "Los agentes de AI de Google\nllegan al laboratorio húmedo",
+          "body": "Agentes de AI de Google hicieron experimentos en bucle cerrado y un gemelo digital validó los protocolos robóticos.",
+          "mini_headline": "Agentes de AI en el laboratorio húmedo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm.jpg",
-                "cap": "Fotocatalizadores a medida, la plataforma automatizada de flujo continuo y la biblioteca de N-methyl pyrrole. Credit: KAIST"
+                "t": "video",
+                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
               },
               {
                 "t": "p",
-                "x": "Un equipo de KAIST dirigido por el profesor Yoonsu Park construyó una plataforma de síntesis sin personal que combina un robot que dosifica las materias primas, bombas automáticas, irradiación con luz visible en un tubo estrecho (flujo continuo) y equipos de análisis en línea."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-1.jpg",
-                "cap": "El sistema automatizado de síntesis orgánica. Credit: KAIST"
+                "x": "Google Research está llevando agentes de AI a la mesa del laboratorio húmedo, conectándolos con robótica de laboratorio física para ejecutar ciclos rápidos de diseño molecular en bucle cerrado, todo ello impulsado por la agencia científica humana."
               },
               {
                 "t": "p",
-                "x": "Con fotocatalizadores a medida, la plataforma convierte furanos en N-methyl pyrroles, un andamio usado en el desarrollo de fármacos, al sustituir el átomo de oxígeno del furano por nitrógeno. El equipo la aplicó a más de 20 compuestos derivados del furano, incluidos productos naturales complejos, y demostró una producción continua que podría facilitar el escalado."
+                "x": "VERID es un gemelo digital semántico de la celda de trabajo del laboratorio que registra la geometría del robot, los volúmenes de los pocillos, los reactivos y las puntas de pipeta. Construido sobre PyLabRobot, permite que un agente planifique, simule y ejecute protocolos de manejo de líquidos, y detecta las órdenes físicamente imposibles antes de que se ejecuten."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-247-unm-2.jpg",
-                "cap": "Esquema del proceso de síntesis. Credit: KAIST"
+                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+                "cap": "Los agentes diseñan, sintetizan, seleccionan y secuencian aptámeros de forma iterativa en un bucle cerrado."
               },
               {
                 "t": "p",
-                "x": "“La rapidez y la fiabilidad con que se puedan sintetizar las moléculas diseñadas determinarán la velocidad del desarrollo de fármacos en el futuro”, dijo Park. El trabajo se publica en JACS Au."
+                "x": "Con aptámeros de DNA, los agentes completaron tres rondas de diseño y prueba sobre dos proteínas y, tras aprender de los fallos en el laboratorio húmedo, elevaron las tasas de acierto confirmadas sobre el objetivo al 33.5% para la mioglobina y al 42.1% para la α-trombina."
+              },
+              {
+                "t": "p",
+                "x": "Para ligandos proteicos de novo contra FAP, un receptor sobreexpresado en tumores sólidos, un flujo de escisión de epítopos aceleró 8.6x la predicción de estructuras, y la colaboración entre humanos y agentes casi duplicó la tasa de acierto in-silico, con ligandos de afinidad nanomolar de un solo dígito."
               }
             ]
           }
@@ -1149,15 +1109,15 @@
       }
     },
     {
-      "id": "science-portbooks-soton",
+      "id": "science-pew-synthetic-persona-polling",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI, 영국 옛 항구 기록\n100,000쪽 전사했다",
-      "body": "AI-read 항구 기록이 1500s~1700s 영국 항해 DB가 됐다.",
-      "mini_headline": "AI가 읽은 옛 항구 기록",
+      "headline": "AI 페르소나는\n표심 변화를 놓칠 수도",
+      "body": "Pew 실험에서 AI 페르소나의 답은 실제 패널과 평균 12퍼센트포인트 차이 났다.",
+      "mini_headline": "AI 페르소나는 진짜 유권자가 아니다",
       "tool": "Science",
       "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-ai-centuries-reveal-britain-vast.html",
+      "url": "https://phys.org/news/2026-10-synthetic-opinion-polling-ai-personas.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1165,215 +1125,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
-            "cap": "아카이브 문서로 학습하는 AI. Credit: University of Southampton"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+            "cap": "Credit: Pixabay/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "University of Southampton 역사학자들이 Kew의 National Archives에 있는 손글씨 항구 장부 약 100,000쪽을 AI로 전사했다. 1565년부터 쌓인 영국 항해 기록이다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
-            "cap": "AI가 전사하고 있는 손글씨 문서. Credit: University of Southampton"
+            "x": "여론조사 업체들은 이제 대규모 언어 모델에 여론조사 데이터와 인구통계를 넣어 페르소나를 수백, 수천 개씩 만든다. 이 페르소나가 포커스 그룹과 설문에서 유권자 자리를 대신한다. Syracuse University의 Jennifer Stromer-Galley 교수는 이를 신중하게 본다."
           },
           {
             "t": "p",
-            "x": "AI-read 기록으로 1500s 후반부터 mid-1700s까지 상선 운항을 담은 데이터베이스와 인터랙티브 지도가 나왔다. 항해 수십만 건과 3,000곳이 넘는 항구, 거래된 상품까지 담겼다. 연구 책임자 Craig Lambert는 “AI가 데이터를 추출하고 정리하지 않았다면 몇 년이 걸렸을 것”이라고 말했다. 그래도 결과물은 사람이 일일이 검토해야 했다."
-          },
-          {
-            "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
-            "cap": "인터랙티브 지도 화면. Credit: University of Southampton"
+            "x": "사람들은 주요 쟁점에 대한 답을 몇 달 만에도 바꾸지만, 고정된 지시를 따르는 페르소나는 늘 같은 답을 내놓기 쉽다. 그는 \"내가 우려하는 건 챗봇이 여론의 변화를 어떻게 반영하느냐\"라고 말한다."
           },
           {
             "t": "p",
-            "x": "유럽(Europe)이 압도적이었다. 1696–97년 잉글랜드(England) 해외 무역의 기록 가액 가운데 약 80%를 차지했다. 가장 자주 기록된 상품은 석탄이었고 맥아, 밀, 철, 양모, 와인이 뒤를 이었다. 해상 지점은 남서부(South West)에서 가장 많이 기록됐고 남동부(Southeast), 스코틀랜드(Scotland) 순이었다."
+            "x": "페르소나 집합의 인구통계를 맞춰도 모델 안에 박힌 편향은 바로잡히지 않고, 전형적인 답이 실제 이상치를 지워 버리기도 한다."
+          },
+          {
+            "t": "p",
+            "x": "Pew Research Center가 구월에 한 실험에서는 AI가 실제 American Trends Panel 구성원 역할을 맡았다. 300개 가까운 질문에서 AI의 답은 사람들의 답과 평균 12퍼센트포인트 차이가 났다. 질문 절반 가까이에는 AI 응답자가 아무도 고르지 않은 선택지가 있었다."
+          },
+          {
+            "t": "p",
+            "x": "Stromer-Galley는 합성 여론조사를 \"우리를 일그러뜨려 비추는 거울\"이라고 부른다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI transcribes 100,000 pages\nof Britain's old port records",
-          "body": "Southampton researchers turned AI-read port records into a database of British voyages from the 1500s to the 1700s.",
-          "mini_headline": "AI reads old port records",
+          "headline": "AI personas may miss\nhow voters change",
+          "body": "In a Pew experiment, AI personas' answers differed from human panelists' by 12 percentage points on average.",
+          "mini_headline": "AI personas aren't\nreal voters",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
-                "cap": "AI training on archive documents. Credit: University of Southampton"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "University of Southampton historians used AI to transcribe roughly 100,000 pages of handwritten port books held at the National Archives in Kew, records of British voyages kept from 1565 onward."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
-                "cap": "A handwritten document being transcribed by AI. Credit: University of Southampton"
+                "x": "Polling firms now build hundreds or thousands of personas with large language models, drawn from polling data and demographics, to stand in for voters in focus groups and surveys. Syracuse University professor Jennifer Stromer-Galley is cautious."
               },
               {
                 "t": "p",
-                "x": "The result is a database and interactive map of merchant shipping from the late 1500s to the mid-1700s, covering hundreds of thousands of voyages, more than 3,000 ports and the goods traded. “Without AI extracting and organizing the data, this would have taken years,” said lead researcher Craig Lambert; the output still needed manual checking."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
-                "cap": "Screenshot of the interactive map. Credit: University of Southampton"
+                "x": "Real people's answers on top issues can shift within months, but personas following fixed instructions may give the same answers every time. \"My concern is how the chatbots account for shifts in public opinion,\" she says."
               },
               {
                 "t": "p",
-                "x": "Europe dominated: in 1696–97 it made up about 80% of the recorded value of England's overseas trade. Coal was the most frequently recorded commodity, followed by malt, wheat, iron, wool and wine. The South West had the most recorded maritime locations, ahead of the Southeast and Scotland."
+                "x": "Matching a persona set's demographics doesn't fix bias built into the model, and typical answers can erase real outliers."
+              },
+              {
+                "t": "p",
+                "x": "A September Pew Research Center experiment had an AI adopt the personas of real American Trends Panel members: across nearly 300 questions, its answers differed from the humans' by 12 percentage points on average, and nearly half the questions had an option no AI respondent chose."
+              },
+              {
+                "t": "p",
+                "x": "Stromer-Galley calls synthetic polling a \"distorted mirror of us.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI, 영국 옛 항구 기록\n100,000쪽 전사했다",
-          "body": "AI-read 항구 기록이 1500s~1700s 영국 항해 DB가 됐다.",
-          "mini_headline": "AI가 읽은 옛 항구 기록",
+          "headline": "AI 페르소나는\n표심 변화를 놓칠 수도",
+          "body": "Pew 실험에서 AI 페르소나의 답은 실제 패널과 평균 12퍼센트포인트 차이 났다.",
+          "mini_headline": "AI 페르소나는 진짜 유권자가 아니다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
-                "cap": "아카이브 문서로 학습하는 AI. Credit: University of Southampton"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "University of Southampton 역사학자들이 Kew의 National Archives에 있는 손글씨 항구 장부 약 100,000쪽을 AI로 전사했다. 1565년부터 쌓인 영국 항해 기록이다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
-                "cap": "AI가 전사하고 있는 손글씨 문서. Credit: University of Southampton"
+                "x": "여론조사 업체들은 이제 대규모 언어 모델에 여론조사 데이터와 인구통계를 넣어 페르소나를 수백, 수천 개씩 만든다. 이 페르소나가 포커스 그룹과 설문에서 유권자 자리를 대신한다. Syracuse University의 Jennifer Stromer-Galley 교수는 이를 신중하게 본다."
               },
               {
                 "t": "p",
-                "x": "AI-read 기록으로 1500s 후반부터 mid-1700s까지 상선 운항을 담은 데이터베이스와 인터랙티브 지도가 나왔다. 항해 수십만 건과 3,000곳이 넘는 항구, 거래된 상품까지 담겼다. 연구 책임자 Craig Lambert는 “AI가 데이터를 추출하고 정리하지 않았다면 몇 년이 걸렸을 것”이라고 말했다. 그래도 결과물은 사람이 일일이 검토해야 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
-                "cap": "인터랙티브 지도 화면. Credit: University of Southampton"
+                "x": "사람들은 주요 쟁점에 대한 답을 몇 달 만에도 바꾸지만, 고정된 지시를 따르는 페르소나는 늘 같은 답을 내놓기 쉽다. 그는 \"내가 우려하는 건 챗봇이 여론의 변화를 어떻게 반영하느냐\"라고 말한다."
               },
               {
                 "t": "p",
-                "x": "유럽(Europe)이 압도적이었다. 1696–97년 잉글랜드(England) 해외 무역의 기록 가액 가운데 약 80%를 차지했다. 가장 자주 기록된 상품은 석탄이었고 맥아, 밀, 철, 양모, 와인이 뒤를 이었다. 해상 지점은 남서부(South West)에서 가장 많이 기록됐고 남동부(Southeast), 스코틀랜드(Scotland) 순이었다."
+                "x": "페르소나 집합의 인구통계를 맞춰도 모델 안에 박힌 편향은 바로잡히지 않고, 전형적인 답이 실제 이상치를 지워 버리기도 한다."
+              },
+              {
+                "t": "p",
+                "x": "Pew Research Center가 구월에 한 실험에서는 AI가 실제 American Trends Panel 구성원 역할을 맡았다. 300개 가까운 질문에서 AI의 답은 사람들의 답과 평균 12퍼센트포인트 차이가 났다. 질문 절반 가까이에는 AI 응답자가 아무도 고르지 않은 선택지가 있었다."
+              },
+              {
+                "t": "p",
+                "x": "Stromer-Galley는 합성 여론조사를 \"우리를 일그러뜨려 비추는 거울\"이라고 부른다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI、英国の古い港湾記録\n100,000ページを翻刻",
-          "body": "AI-readの港湾記録から1500s~1700sの英国航海データベースができた。",
-          "mini_headline": "AIが古い港湾記録を読む",
+          "headline": "AIペルソナは\n民意の変化を見逃すかも",
+          "body": "Pewの実験で、AIペルソナの回答は人間のパネルと平均12パーセントポイント異なった。",
+          "mini_headline": "AIペルソナは本物の有権者ではない",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
-                "cap": "アーカイブ文書で学習するAI。Credit: University of Southampton"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "University of Southamptonの歴史学者らは、KewのNational Archivesに所蔵される手書きの港湾記録簿約100,000ページをAIで書き起こした。1565年以降に記録された英国の航海記録である。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
-                "cap": "AIが書き起こしている手書き文書。Credit: University of Southampton"
+                "x": "世論調査会社は今、世論調査データや人口統計をもとに大規模言語モデルで数百から数千のペルソナを作り、フォーカスグループや調査で有権者の代わりに使っている。Syracuse UniversityのJennifer Stromer-Galley教授は慎重だ。"
               },
               {
                 "t": "p",
-                "x": "こうしてAI-readの記録から、1500s後半からmid-1700sまでの商船航行を収めたデータベースとインタラクティブ地図が生まれた。数十万件の航海、3,000を超える港、取引された品目を網羅する。研究を率いたCraig Lambertは「AIがデータを抽出し整理しなければ、何年もかかっていただろう」と述べた。ただし成果物には依然として人手による確認が必要だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
-                "cap": "インタラクティブ地図の画面。Credit: University of Southampton"
+                "x": "主要な争点に対する実際の人々の回答は数カ月で変わりうるが、固定された指示に従うペルソナは毎回同じ答えを返すかもしれない。「懸念しているのは、チャットボットが世論の変化をどう反映するかだ」と彼女は言う。"
               },
               {
                 "t": "p",
-                "x": "欧州(Europe)が圧倒的だった。1696–97年にはイングランド(England)の海外貿易の記録額の約80%を占めた。最も多く記録された品目は石炭で、麦芽、小麦、鉄、羊毛、ワインが続いた。記録された海上地点は南西部(South West)が最も多く、南東部(Southeast)とスコットランド(Scotland)が続いた。"
+                "x": "ペルソナ群の人口構成を合わせても、モデルに組み込まれた偏りは解消されず、典型的な回答が実在する外れ値を消してしまうおそれがある。"
+              },
+              {
+                "t": "p",
+                "x": "Pew Research Centerが九月に行った実験では、AIに実際のAmerican Trends Panel参加者のペルソナを演じさせた。300近い質問全体で、回答は人間と平均12パーセントポイント異なり、質問のほぼ半数にはどのAI回答者も選ばなかった選択肢があった。"
+              },
+              {
+                "t": "p",
+                "x": "Stromer-Galley氏は合成世論調査を「私たちのゆがんだ鏡」と呼ぶ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI转录英国旧港口记录\n共100,000页",
-          "body": "研究人员用AI-read港口记录，建成1500s至1700s的英国航运数据库。",
-          "mini_headline": "AI读懂旧港口记录",
+          "headline": "AI虚拟人设\n或难捕捉选民变化",
+          "body": "在Pew的实验中，AI虚拟人设的回答与真人小组成员平均相差12个百分点。",
+          "mini_headline": "AI虚拟人设不是真实选民",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
-                "cap": "用档案文件训练AI。Credit: University of Southampton"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "University of Southampton的历史学家利用AI，转录了藏于Kew的National Archives的约100,000页手写港口簿册，这些是自1565年起记录的英国航运档案。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
-                "cap": "正由AI转录的手写文件。Credit: University of Southampton"
+                "x": "民调公司如今利用大语言模型，依据民调数据和人口统计资料构建数百乃至数千个虚拟人设，在焦点小组和调查中代替选民。Syracuse University教授Jennifer Stromer-Galley对此持谨慎态度。"
               },
               {
                 "t": "p",
-                "x": "基于这些AI-read记录，团队建成了一个涵盖1500s末至mid-1700s商船航运的数据库和交互式地图，囊括数十万次航行、3,000多个港口以及交易的货物。首席研究员Craig Lambert表示：“如果没有AI提取和整理数据，这项工作要花上好几年。”不过成果仍需人工核对。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
-                "cap": "交互式地图截图。Credit: University of Southampton"
+                "x": "真人对重大议题的回答可能在几个月内发生变化，但遵循固定指令的虚拟人设可能每次都给出相同答案。她说：“我担心的是聊天机器人如何反映舆论的变化。”"
               },
               {
                 "t": "p",
-                "x": "欧洲(Europe)占据主导：1696–97年，欧洲约占英格兰(England)海外贸易记录总值的80%。记录最频繁的商品是煤，其次是麦芽、小麦、铁、羊毛和葡萄酒。记录的海上地点以西南部(South West)最多，其次是东南部(Southeast)和苏格兰(Scotland)。"
+                "x": "让一组虚拟人设的人口结构与现实匹配，并不能消除模型内在的偏见，而典型化的回答还可能抹去真实存在的极端值。"
+              },
+              {
+                "t": "p",
+                "x": "Pew Research Center九月的一项实验让AI扮演真实American Trends Panel成员的虚拟人设：在近300个问题中，其回答与真人平均相差12个百分点，近一半问题中都有一个没有任何AI受访者选择的选项。"
+              },
+              {
+                "t": "p",
+                "x": "Stromer-Galley称合成民调是“一面扭曲映照我们的镜子”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA transcribe 100,000 páginas\nde antiguos puertos británicos",
-          "body": "En Southampton, registros portuarios AI-read forman una base de viajes británicos de los 1500s a los 1700s.",
-          "mini_headline": "La IA lee viejos registros portuarios",
+          "headline": "Los perfiles de AI podrían no\nver cómo cambian los votantes",
+          "body": "En un experimento de Pew, los perfiles de AI se desviaron 12 puntos porcentuales de media de los panelistas humanos.",
+          "mini_headline": "Los perfiles de AI no son votantes reales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
-                "cap": "AI entrenándose con documentos de archivo. Credit: University of Southampton"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Historiadores de la University of Southampton usaron AI para transcribir unas 100,000 páginas de libros portuarios manuscritos conservados en los National Archives de Kew, registros de viajes británicos llevados desde 1565."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
-                "cap": "Un documento manuscrito transcrito por AI. Credit: University of Southampton"
+                "x": "Las encuestadoras crean ahora cientos o miles de perfiles con modelos de lenguaje de gran tamaño, a partir de datos de encuestas y demografía, para sustituir a los votantes en grupos focales y sondeos. Jennifer Stromer-Galley, profesora de Syracuse University, se muestra cautelosa."
               },
               {
                 "t": "p",
-                "x": "Con esos registros AI-read se creó una base de datos y un mapa interactivo de la navegación mercante desde finales de los 1500s hasta mid-1700s, con cientos de miles de viajes, más de 3,000 puertos y las mercancías comerciadas. “Sin que la AI extrajera y organizara los datos, esto habría llevado años”, dijo el investigador principal Craig Lambert; el resultado aún requirió revisión manual."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
-                "cap": "Captura del mapa interactivo. Credit: University of Southampton"
+                "x": "Las respuestas de las personas reales sobre los grandes temas pueden cambiar en cuestión de meses, pero los perfiles que siguen instrucciones fijas pueden dar siempre las mismas respuestas. \"Me preocupa cómo los chatbots reflejan los cambios en la opinión pública\", afirma."
               },
               {
                 "t": "p",
-                "x": "Europa (Europe) dominaba: en 1696–97 representaba cerca del 80% del valor registrado del comercio exterior de Inglaterra (England). El carbón fue la mercancía registrada con más frecuencia, seguido de la malta, el trigo, el hierro, la lana y el vino. El South West tuvo más puntos marítimos registrados, por delante del Southeast y de Escocia (Scotland)."
+                "x": "Igualar la demografía de un conjunto de perfiles no corrige el sesgo integrado en el modelo, y las respuestas típicas pueden borrar los casos atípicos reales."
+              },
+              {
+                "t": "p",
+                "x": "Un experimento de septiembre del Pew Research Center hizo que una AI adoptara los perfiles de miembros reales del American Trends Panel: en casi 300 preguntas, sus respuestas difirieron de las humanas en 12 puntos porcentuales de media, y casi la mitad de las preguntas tenía una opción que ningún encuestado de AI eligió."
+              },
+              {
+                "t": "p",
+                "x": "Stromer-Galley describe las encuestas sintéticas como un \"espejo distorsionado de nosotros\"."
               }
             ]
           }
@@ -1381,149 +1329,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI, 영국 옛 항구 기록\n100,000쪽 전사했다",
-          "body": "AI-read 항구 기록이 1500s~1700s 영국 항해 DB가 됐다.",
-          "mini_headline": "AI가 읽은 옛 항구 기록",
+          "headline": "AI 페르소나는\n표심 변화를 놓칠 수도",
+          "body": "Pew 실험에서 AI 페르소나의 답은 실제 패널과 평균 12퍼센트포인트 달랐다.",
+          "mini_headline": "AI 페르소나는 진짜 유권자가 아니다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
-                "cap": "아카이브 문서로 학습하는 AI. Credit: University of Southampton"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "University of Southampton 역사학자들이 AI로 Kew의 National Archives에 보관된 손글씨 항구 장부 약 100,000쪽을 전사했다. 1565년부터 쌓인 영국 항해 기록이다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
-                "cap": "AI가 전사하고 있는 손글씨 문서. Credit: University of Southampton"
+                "x": "여론조사 업체들은 이제 대규모 언어 모델로 여론조사 데이터와 인구통계를 바탕으로 수백, 수천 개의 페르소나를 만들어 포커스 그룹과 설문에서 유권자를 대신하게 한다. Syracuse University의 Jennifer Stromer-Galley 교수는 신중한 입장이다."
               },
               {
                 "t": "p",
-                "x": "그 결과 AI-read 기록으로 1500s 후반부터 mid-1700s까지의 상선 운항을 담은 데이터베이스와 인터랙티브 지도가 나왔다. 수십만 건의 항해와 3,000곳이 넘는 항구, 거래된 상품을 아우른다. 연구 책임자 Craig Lambert는 “AI가 데이터를 추출하고 정리하지 않았다면 몇 년이 걸렸을 것”이라고 말했다. 결과물은 여전히 사람이 직접 검토해야 했다."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
-                "cap": "인터랙티브 지도 화면. Credit: University of Southampton"
+                "x": "주요 쟁점에 대한 실제 사람들의 답은 몇 달 사이에도 바뀔 수 있지만, 고정된 지시를 따르는 페르소나는 매번 같은 답을 내놓을 수 있다. 그는 \"내가 우려하는 건 챗봇이 여론의 변화를 어떻게 반영하느냐\"라고 말한다."
               },
               {
                 "t": "p",
-                "x": "유럽(Europe)이 압도적이었다. 1696–97년 잉글랜드(England) 해외 무역의 기록 가액 가운데 약 80%를 차지했다. 가장 자주 기록된 상품은 석탄이었고 맥아, 밀, 철, 양모, 와인이 뒤를 이었다. 기록된 해상 지점은 남서부(South West)가 가장 많았고 남동부(Southeast)와 스코틀랜드(Scotland)가 뒤를 이었다."
+                "x": "페르소나 집합의 인구통계를 맞춘다고 모델에 내재한 편향이 바로잡히지는 않으며, 전형적인 답이 실제 이상치를 지워 버릴 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Pew Research Center가 구월에 진행한 실험에서는 AI가 실제 American Trends Panel 구성원의 페르소나를 맡았다. 300개 가까운 질문에서 AI의 답은 사람들의 답과 평균 12퍼센트포인트 차이 났고, 질문의 절반 가까이에는 어떤 AI 응답자도 고르지 않은 선택지가 있었다."
+              },
+              {
+                "t": "p",
+                "x": "Stromer-Galley는 합성 여론조사를 \"우리를 일그러뜨려 비추는 거울\"이라고 부른다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI、英国の古い港湾記録\n100,000ページを翻刻",
-          "body": "AI-readの港湾記録から1500s~1700sの英国航海データベースができた。",
-          "mini_headline": "AIが古い港湾記録を読む",
+          "headline": "AIペルソナは\n民意の変化を見逃すかも",
+          "body": "Pewの実験で、AIペルソナの回答は人間のパネルと平均12パーセントポイント異なった。",
+          "mini_headline": "AIペルソナは本物の有権者ではない",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
-                "cap": "アーカイブ文書で学習するAI。Credit: University of Southampton"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "University of Southamptonの歴史学者らは、KewのNational Archivesに所蔵される手書きの港湾記録簿約100,000ページをAIで書き起こした。1565年以降に記録された英国の航海記録である。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
-                "cap": "AIが書き起こしている手書き文書。Credit: University of Southampton"
+                "x": "世論調査会社は今、世論調査データや人口統計をもとに大規模言語モデルで数百から数千のペルソナを作り、フォーカスグループや調査で有権者の代わりに使っている。Syracuse UniversityのJennifer Stromer-Galley教授は慎重だ。"
               },
               {
                 "t": "p",
-                "x": "こうしてAI-readの記録から、1500s後半からmid-1700sまでの商船航行を収めたデータベースとインタラクティブ地図が生まれた。数十万件の航海、3,000を超える港、取引された品目を網羅する。研究を率いたCraig Lambertは「AIがデータを抽出し整理しなければ、何年もかかっていただろう」と述べた。ただし成果物には依然として人手による確認が必要だった。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
-                "cap": "インタラクティブ地図の画面。Credit: University of Southampton"
+                "x": "主要な争点に対する実際の人々の回答は数カ月で変わりうるが、固定された指示に従うペルソナは毎回同じ答えを返すかもしれない。「懸念しているのは、チャットボットが世論の変化をどう反映するかだ」と彼女は言う。"
               },
               {
                 "t": "p",
-                "x": "欧州(Europe)が圧倒的だった。1696–97年にはイングランド(England)の海外貿易の記録額の約80%を占めた。最も多く記録された品目は石炭で、麦芽、小麦、鉄、羊毛、ワインが続いた。記録された海上地点は南西部(South West)が最も多く、南東部(Southeast)とスコットランド(Scotland)が続いた。"
+                "x": "ペルソナ群の人口構成を合わせても、モデルに組み込まれた偏りは解消されず、典型的な回答が実在する外れ値を消してしまうおそれがある。"
+              },
+              {
+                "t": "p",
+                "x": "Pew Research Centerが九月に行った実験では、AIに実際のAmerican Trends Panel参加者のペルソナを演じさせた。300近い質問全体で、回答は人間と平均12パーセントポイント異なり、質問のほぼ半数にはどのAI回答者も選ばなかった選択肢があった。"
+              },
+              {
+                "t": "p",
+                "x": "Stromer-Galley氏は合成世論調査を「私たちのゆがんだ鏡」と呼ぶ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI转录英国旧港口记录\n共100,000页",
-          "body": "研究人员用AI-read港口记录，建成1500s至1700s的英国航运数据库。",
-          "mini_headline": "AI读懂旧港口记录",
+          "headline": "AI虚拟人设\n或难捕捉选民变化",
+          "body": "在Pew的实验中，AI虚拟人设的回答与真人小组成员平均相差12个百分点。",
+          "mini_headline": "AI虚拟人设不是真实选民",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
-                "cap": "用档案文件训练AI。Credit: University of Southampton"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "University of Southampton的历史学家利用AI，转录了藏于Kew的National Archives的约100,000页手写港口簿册，这些是自1565年起记录的英国航运档案。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
-                "cap": "正由AI转录的手写文件。Credit: University of Southampton"
+                "x": "民调公司如今利用大语言模型，依据民调数据和人口统计资料构建数百乃至数千个虚拟人设，在焦点小组和调查中代替选民。Syracuse University教授Jennifer Stromer-Galley对此持谨慎态度。"
               },
               {
                 "t": "p",
-                "x": "基于这些AI-read记录，团队建成了一个涵盖1500s末至mid-1700s商船航运的数据库和交互式地图，囊括数十万次航行、3,000多个港口以及交易的货物。首席研究员Craig Lambert表示：“如果没有AI提取和整理数据，这项工作要花上好几年。”不过成果仍需人工核对。"
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
-                "cap": "交互式地图截图。Credit: University of Southampton"
+                "x": "真人对重大议题的回答可能在几个月内发生变化，但遵循固定指令的虚拟人设可能每次都给出相同答案。她说：“我担心的是聊天机器人如何反映舆论的变化。”"
               },
               {
                 "t": "p",
-                "x": "欧洲(Europe)占据主导：1696–97年，欧洲约占英格兰(England)海外贸易记录总值的80%。记录最频繁的商品是煤，其次是麦芽、小麦、铁、羊毛和葡萄酒。记录的海上地点以西南部(South West)最多，其次是东南部(Southeast)和苏格兰(Scotland)。"
+                "x": "让一组虚拟人设的人口结构与现实匹配，并不能消除模型内在的偏见，而典型化的回答还可能抹去真实存在的极端值。"
+              },
+              {
+                "t": "p",
+                "x": "Pew Research Center九月的一项实验让AI扮演真实American Trends Panel成员的虚拟人设：在近300个问题中，其回答与真人平均相差12个百分点，近一半问题中都有一个没有任何AI受访者选择的选项。"
+              },
+              {
+                "t": "p",
+                "x": "Stromer-Galley称合成民调是“一面扭曲映照我们的镜子”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA transcribe 100,000 páginas\nde antiguos puertos británicos",
-          "body": "En Southampton, registros portuarios AI-read forman una base de viajes británicos de los 1500s a los 1700s.",
-          "mini_headline": "La IA lee viejos registros portuarios",
+          "headline": "Los perfiles de AI podrían no\nver cómo cambian los votantes",
+          "body": "En un experimento de Pew, los perfiles de AI se desviaron 12 puntos porcentuales de media de los panelistas humanos.",
+          "mini_headline": "Los perfiles de AI no son votantes reales",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-2.jpg",
-                "cap": "AI entrenándose con documentos de archivo. Credit: University of Southampton"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+                "cap": "Credit: Pixabay/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Historiadores de la University of Southampton usaron AI para transcribir unas 100,000 páginas de libros portuarios manuscritos conservados en los National Archives de Kew, registros de viajes británicos llevados desde 1565."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old.jpg",
-                "cap": "Un documento manuscrito transcrito por AI. Credit: University of Southampton"
+                "x": "Las encuestadoras crean ahora cientos o miles de perfiles con modelos de lenguaje de gran tamaño, a partir de datos de encuestas y demografía, para sustituir a los votantes en grupos focales y sondeos. Jennifer Stromer-Galley, profesora de Syracuse University, se muestra cautelosa."
               },
               {
                 "t": "p",
-                "x": "Con esos registros AI-read se creó una base de datos y un mapa interactivo de la navegación mercante desde finales de los 1500s hasta mid-1700s, con cientos de miles de viajes, más de 3,000 puertos y las mercancías comerciadas. “Sin que la AI extrajera y organizara los datos, esto habría llevado años”, dijo el investigador principal Craig Lambert; el resultado aún requirió revisión manual."
-              },
-              {
-                "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-reads-centuries-old-1.jpg",
-                "cap": "Captura del mapa interactivo. Credit: University of Southampton"
+                "x": "Las respuestas de las personas reales sobre los grandes temas pueden cambiar en cuestión de meses, pero los perfiles que siguen instrucciones fijas pueden dar siempre las mismas respuestas. \"Me preocupa cómo los chatbots reflejan los cambios en la opinión pública\", afirma."
               },
               {
                 "t": "p",
-                "x": "Europa (Europe) dominaba: en 1696–97 representaba cerca del 80% del valor registrado del comercio exterior de Inglaterra (England). El carbón fue la mercancía registrada con más frecuencia, seguido de la malta, el trigo, el hierro, la lana y el vino. El South West tuvo más puntos marítimos registrados, por delante del Southeast y de Escocia (Scotland)."
+                "x": "Igualar la demografía de un conjunto de perfiles no corrige el sesgo integrado en el modelo, y las respuestas típicas pueden borrar los casos atípicos reales."
+              },
+              {
+                "t": "p",
+                "x": "Un experimento de septiembre del Pew Research Center hizo que una AI adoptara los perfiles de miembros reales del American Trends Panel: en casi 300 preguntas, sus respuestas difirieron de las humanas en 12 puntos porcentuales de media, y casi la mitad de las preguntas tenía una opción que ningún encuestado de AI eligió."
+              },
+              {
+                "t": "p",
+                "x": "Stromer-Galley describe las encuestas sintéticas como un \"espejo distorsionado de nosotros\"."
               }
             ]
           }
@@ -1531,15 +1471,15 @@
       }
     },
     {
-      "id": "science-brainrot-tamu",
+      "id": "science-turing-three-player-gpt4",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "소셜 정크 글이 LLMs에\n오래가는 ‘뇌 썩음’ 남겨",
-      "body": "Texas A&M은 Twitter 정크 글이 LLM 추론을 오래 해친다고 밝혔다.",
-      "mini_headline": "LLMs도 뇌 썩음",
+      "headline": "Turing 게임은 여전히\nGPT-4-Turbo 간파",
+      "body": "첫 Turing 원안 실험에서 37명 중 36명이 GPT-4-Turbo를 가려냈다.",
+      "mini_headline": "Turing 게임, GPT-4-Turbo 간파",
       "tool": "Science",
       "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-llms-frivolous-online-content-brain.html",
+      "url": "https://techxplore.com/news/2026-10-dispute-ai-turing.html",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1547,179 +1487,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
-            "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+            "cap": "Credit: Unsplash/CC0 Public Domain"
           },
           {
             "t": "p",
-            "x": "Texas A&M의 Zhengzhong Tu가 이끄는 연구진에 따르면 자극적이고 질 낮은 콘텐츠로 학습한 대규모 언어 모델은 ‘뇌 썩음(brain rot)’을 겪는다. 사람에게서 그런 콘텐츠가 주의력과 기억력 저하와 연관되는 것과 닮은꼴이다."
+            "x": "University of Canterbury의 연구자 Diane Proudfoot, Sharon Temtsin, Christoph Bartneck은 Turing 테스트라는 이름이 붙은 실험 상당수가 정작 Turing의 설계를 따르지 않는다고 지적한다. 이들은 Turing의 원래 설계를 처음으로 실험에 옮겼다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "‘정크’ 데이터는 2010년 공개 Twitter 게시물 백만 건 데이터셋에서 뽑았다. 참여도가 높고 짧으며 문체가 선정적인 게시물이 대상이었다. 1차 라벨링은 GPT-4o mini가 맡았고 대학원생들이 표본을 검토했다. 학습 대상은 Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct, Qwen3 4B Instruct 네 모델로, 정크 데이터와 대조 데이터를 섞어 학습시켰다."
+            "x": "1948년부터 1952년까지 나온 Turing의 저작을 살펴보니 오 분 제한과 30% 통과 기준은 그가 정한 규칙이 아니었다. Turing이 구상한 건 질문이 자유롭게 오가고 시간 제한도 없는 세 명의 게임이었다."
           },
           {
             "t": "p",
-            "x": "가장 크게 나타난 변화는 추론력과 기억력 약화, 추론 단계 건너뛰기, 윤리적 안전장치 약화였다. 질 좋은 데이터로 다시 학습시켜도 성능은 끝내 다 돌아오지 않았다."
+            "x": "참가자들은 어느 쪽이 기계인지 확신이 설 때까지 사람 한 명, GPT-4-Turbo와 자유롭게 대화했다. 37명 중 36명이 AI를 알아봐 식별률은 97%였다. 89%는 오 분을 넘겼고, 대화는 평균 14분, 가장 긴 것은 46분이었다."
           },
           {
             "t": "p",
-            "x": "저자들은 정크로 배운 모델이 정크를 더 쏟아내는 악순환을 경고하며 학습 데이터의 투명성을 요구했다. 연구 결과는 San Francisco에서 열린 COLM 2026에서 발표됐다."
+            "x": "저자들은 Turing의 원래 설계대로 치른 테스트를 통과한 대형 언어 모델이 아직 확인되지 않았다고 결론지었다. 이번 결과는 GPT-4-Turbo에만 해당하고, 더 새로운 모델은 다를 수 있다. 연구는 Philosophy of Science에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Junk social posts give LLMs\na lasting case of brain rot",
-          "body": "Texas A&M found junk Twitter posts weakened LLM reasoning, and retraining on better data did not fully undo it.",
-          "mini_headline": "LLMs get brain rot",
+          "headline": "Turing's own game still\nunmasks GPT-4-Turbo",
+          "body": "In what researchers call the first test of Turing's original game, 36 of 37 people spotted GPT-4-Turbo.",
+          "mini_headline": "Turing's game\nunmasks GPT-4-Turbo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
-                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Researchers led by Zhengzhong Tu at Texas A&M found that large language models trained on low-quality, attention-grabbing content develop “brain rot,” echoing the attention and memory declines linked to such content in people."
+                "x": "University of Canterbury researchers Diane Proudfoot, Sharon Temtsin and Christoph Bartneck argue that many experiments called Turing tests don't follow Turing's design, and say they have implemented his original design experimentally for the first time."
               },
               {
                 "t": "p",
-                "x": "They built “junk” data from a 2010 dataset of one million public Twitter posts, flagging posts by high engagement, short length and sensational style. GPT-4o mini did the initial labeling and graduate students checked a sample. Four models were trained on mixes of junk and control data: Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct and Qwen3 4B Instruct."
+                "x": "Reviewing Turing's writings from 1948 to 1952, they found the five-minute limit and the 30% pass threshold were not his rules; he envisioned a three-player game with open-ended questioning and no fixed time limit."
               },
               {
                 "t": "p",
-                "x": "The main effects were weaker reasoning and memory, a tendency to skip reasoning steps and weakened ethical safeguards. Retraining on higher-quality data did not fully restore performance."
+                "x": "Participants chatted freely with a human and GPT-4-Turbo until sure which was the machine. 36 of 37 identified the AI, a 97% rate. 89% took longer than five minutes; conversations averaged 14 minutes, the longest 46."
               },
               {
                 "t": "p",
-                "x": "The authors warn of a feedback loop in which models trained on junk produce more junk, and call for transparency about training data. The work was presented at COLM 2026 in San Francisco."
+                "x": "The authors conclude no large language model has yet been shown to pass a test following Turing's original design, though results apply only to GPT-4-Turbo and newer models may differ. The study appears in Philosophy of Science."
               }
             ]
           }
         },
         "ko": {
-          "headline": "소셜 정크 글이 LLMs에\n오래가는 ‘뇌 썩음’ 남겨",
-          "body": "Texas A&M은 Twitter 정크 글이 LLM 추론을 오래 해친다고 밝혔다.",
-          "mini_headline": "LLMs도 뇌 썩음",
+          "headline": "Turing 게임은 여전히\nGPT-4-Turbo 간파",
+          "body": "첫 Turing 원안 실험에서 37명 중 36명이 GPT-4-Turbo를 가려냈다.",
+          "mini_headline": "Turing 게임, GPT-4-Turbo 간파",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
-                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Texas A&M의 Zhengzhong Tu가 이끄는 연구진에 따르면 자극적이고 질 낮은 콘텐츠로 학습한 대규모 언어 모델은 ‘뇌 썩음(brain rot)’을 겪는다. 사람에게서 그런 콘텐츠가 주의력과 기억력 저하와 연관되는 것과 닮은꼴이다."
+                "x": "University of Canterbury의 연구자 Diane Proudfoot, Sharon Temtsin, Christoph Bartneck은 Turing 테스트라는 이름이 붙은 실험 상당수가 정작 Turing의 설계를 따르지 않는다고 지적한다. 이들은 Turing의 원래 설계를 처음으로 실험에 옮겼다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "‘정크’ 데이터는 2010년 공개 Twitter 게시물 백만 건 데이터셋에서 뽑았다. 참여도가 높고 짧으며 문체가 선정적인 게시물이 대상이었다. 1차 라벨링은 GPT-4o mini가 맡았고 대학원생들이 표본을 검토했다. 학습 대상은 Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct, Qwen3 4B Instruct 네 모델로, 정크 데이터와 대조 데이터를 섞어 학습시켰다."
+                "x": "1948년부터 1952년까지 나온 Turing의 저작을 살펴보니 오 분 제한과 30% 통과 기준은 그가 정한 규칙이 아니었다. Turing이 구상한 건 질문이 자유롭게 오가고 시간 제한도 없는 세 명의 게임이었다."
               },
               {
                 "t": "p",
-                "x": "가장 크게 나타난 변화는 추론력과 기억력 약화, 추론 단계 건너뛰기, 윤리적 안전장치 약화였다. 질 좋은 데이터로 다시 학습시켜도 성능은 끝내 다 돌아오지 않았다."
+                "x": "참가자들은 어느 쪽이 기계인지 확신이 설 때까지 사람 한 명, GPT-4-Turbo와 자유롭게 대화했다. 37명 중 36명이 AI를 알아봐 식별률은 97%였다. 89%는 오 분을 넘겼고, 대화는 평균 14분, 가장 긴 것은 46분이었다."
               },
               {
                 "t": "p",
-                "x": "저자들은 정크로 배운 모델이 정크를 더 쏟아내는 악순환을 경고하며 학습 데이터의 투명성을 요구했다. 연구 결과는 San Francisco에서 열린 COLM 2026에서 발표됐다."
+                "x": "저자들은 Turing의 원래 설계대로 치른 테스트를 통과한 대형 언어 모델이 아직 확인되지 않았다고 결론지었다. 이번 결과는 GPT-4-Turbo에만 해당하고, 더 새로운 모델은 다를 수 있다. 연구는 Philosophy of Science에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SNSのジャンク投稿で\nLLMsに長引く「脳腐れ」",
-          "body": "Texas A&Mは、Twitterのジャンク投稿がLLMの推論を持続的に損なうと示した。",
-          "mini_headline": "LLMsも「脳腐れ」に",
+          "headline": "Turingのゲームは今も\nGPT-4-Turbo見破る",
+          "body": "初めてTuringの原案を再現した実験で37人中36人がGPT-4-Turboを見破った。",
+          "mini_headline": "TuringのゲームがGPT-4-Turboを見破る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
-                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Texas A&MのZhengzhong Tu率いる研究チームは、注目を集める低品質なコンテンツで学習した大規模言語モデルが「脳腐れ（brain rot）」を起こすことを突き止めた。人間でこうしたコンテンツと結び付けられる注意力や記憶力の低下と重なる現象だ。"
+                "x": "University of CanterburyのDiane Proudfoot、Sharon Temtsin、Christoph Bartneckの研究者らは、Turingテストと呼ばれる実験の多くがTuringの設計に従っていないと指摘し、彼の原案を初めて実験的に実装したとしている。"
               },
               {
                 "t": "p",
-                "x": "チームは、2010年の公開Twitter投稿百万件のデータセットから「ジャンク」データを作成し、エンゲージメントの高さ、短さ、扇情的な文体で投稿を選別した。初期のラベル付けはGPT-4o miniが行い、大学院生がサンプルを確認した。ジャンクデータと対照データを混ぜて、Llama3 8B Instruct、Qwen2.5 7B Instruct、Qwen2.5 0.5B Instruct、Qwen3 4B Instructの四つのモデルを学習させた。"
+                "x": "1948年から1952年までのTuringの著作を調べた結果、五分間の制限や30%の合格基準は彼のルールではなかった。Turingが構想したのは、自由な質問を交わし、決まった時間制限のない三者によるゲームだった。"
               },
               {
                 "t": "p",
-                "x": "主な影響は推論力と記憶力の低下、推論の手順を飛ばす傾向、倫理的な安全装置の弱体化だった。より質の高いデータで再学習しても、性能は完全には戻らなかった。"
+                "x": "参加者は、どちらが機械か確信できるまで、人間とGPT-4-Turboの双方と自由にチャットした。37人中36人がAIを見分け、識別率は97%に達した。89%が五分以上を要し、会話は平均14分、最長で46分だった。"
               },
               {
                 "t": "p",
-                "x": "著者らは、ジャンクで学習したモデルがさらにジャンクを生み出すという悪循環を警告し、学習データの透明性を求めている。研究はSan Franciscoで開かれたCOLM 2026で発表された。"
+                "x": "著者らは、Turingの原案に沿ったテストに合格した大規模言語モデルはまだ示されていないと結論づけた。ただし結果はGPT-4-Turboにのみ当てはまり、新しいモデルでは異なる可能性がある。研究はPhilosophy of Scienceに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "垃圾社交帖让LLMs\n患上持久“脑腐”",
-          "body": "Texas A&M发现，Twitter垃圾帖会削弱LLM推理，且重训无法完全修复。",
-          "mini_headline": "LLMs也会“脑腐”",
+          "headline": "Turing原版游戏\n仍识破GPT-4-Turbo",
+          "body": "在首次还原Turing原版游戏的测试中，37人里有36人识破了GPT-4-Turbo。",
+          "mini_headline": "Turing游戏识破GPT-4-Turbo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
-                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Texas A&M的Zhengzhong Tu领导的研究人员发现，用低质量、博眼球内容训练的大语言模型会出现“脑腐”（brain rot），这与此类内容在人类身上关联的注意力和记忆力下降相呼应。"
+                "x": "University of Canterbury的研究人员Diane Proudfoot、Sharon Temtsin和Christoph Bartneck认为，许多被称为Turing测试的实验并未遵循Turing的设计，并表示他们首次以实验方式实现了他的原始设计。"
               },
               {
                 "t": "p",
-                "x": "他们从2010年一百万条公开Twitter帖子的数据集中构建“垃圾”数据，依据高互动、篇幅短和耸动风格筛选帖子。GPT-4o mini完成初步标注，研究生抽查了样本。四个模型在垃圾数据与对照数据的混合上接受训练：Llama3 8B Instruct、Qwen2.5 7B Instruct、Qwen2.5 0.5B Instruct和Qwen3 4B Instruct。"
+                "x": "通过梳理Turing在1948年至1952年间的著述，他们发现五分钟时限和30%的通过门槛并非他的规则；他设想的是一场三人游戏，提问开放，没有固定时限。"
               },
               {
                 "t": "p",
-                "x": "主要影响包括推理和记忆能力减弱、倾向于跳过推理步骤，以及伦理防护被削弱。用更高质量的数据重新训练也未能完全恢复性能。"
+                "x": "参与者与一名真人和GPT-4-Turbo自由聊天，直到确定哪一方是机器。37人中有36人认出了AI，识别率为97%。89%的人用时超过五分钟；对话平均持续14分钟，最长46分钟。"
               },
               {
                 "t": "p",
-                "x": "作者警告存在一种反馈循环：用垃圾数据训练的模型会产出更多垃圾，并呼吁提高训练数据的透明度。该研究在San Francisco举行的COLM 2026上发表。"
+                "x": "作者总结称，尚无大语言模型被证明能通过遵循Turing原始设计的测试，不过结果仅适用于GPT-4-Turbo，更新的模型可能有所不同。该研究发表于Philosophy of Science。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los posts basura dejan en LLMs\nun deterioro cerebral duradero",
-          "body": "Texas A&M halló que posts basura de Twitter debilitan el razonamiento de los LLM y reentrenar no lo revierte del todo.",
-          "mini_headline": "Los LLMs sufren deterioro cerebral",
+          "headline": "El juego original de Turing\naún desenmascara a GPT-4-Turbo",
+          "body": "En la que los autores llaman primera prueba del juego original de Turing, 36 de 37 personas detectaron a GPT-4-Turbo.",
+          "mini_headline": "El juego de Turing desenmascara a GPT-4-Turbo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
-                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Investigadores dirigidos por Zhengzhong Tu en Texas A&M descubrieron que los modelos de lenguaje de gran tamaño entrenados con contenido de baja calidad y diseñado para captar la atención desarrollan “brain rot” (pudrición cerebral), en paralelo con el deterioro de la atención y la memoria que se asocia a ese contenido en las personas."
+                "x": "Los investigadores de la University of Canterbury Diane Proudfoot, Sharon Temtsin y Christoph Bartneck sostienen que muchos experimentos llamados pruebas de Turing no siguen el diseño de Turing, y afirman haber implementado experimentalmente su diseño original por primera vez."
               },
               {
                 "t": "p",
-                "x": "Construyeron datos “basura” a partir de un conjunto de 2010 con un millón de publicaciones públicas de Twitter, y marcaron las publicaciones por su alta interacción, su brevedad y su estilo sensacionalista. GPT-4o mini hizo el etiquetado inicial y estudiantes de posgrado revisaron una muestra. Se entrenaron cuatro modelos con mezclas de datos basura y de control: Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct y Qwen3 4B Instruct."
+                "x": "Al revisar los escritos de Turing de 1948 a 1952, comprobaron que el límite de cinco minutos y el umbral de aprobación del 30% no eran reglas suyas; él concibió un juego de tres jugadores con preguntas abiertas y sin límite de tiempo fijo."
               },
               {
                 "t": "p",
-                "x": "Los principales efectos fueron un razonamiento y una memoria más débiles, la tendencia a saltarse pasos de razonamiento y salvaguardas éticas debilitadas. Reentrenar con datos de mayor calidad no restableció por completo el rendimiento."
+                "x": "Los participantes conversaron libremente con un humano y con GPT-4-Turbo hasta estar seguros de cuál era la máquina. 36 de 37 identificaron a la AI, una tasa del 97%. El 89% tardó más de cinco minutos; las conversaciones duraron 14 minutos de media, y la más larga, 46."
               },
               {
                 "t": "p",
-                "x": "Los autores advierten de un círculo vicioso en el que los modelos entrenados con basura producen más basura, y piden transparencia sobre los datos de entrenamiento. El trabajo se presentó en COLM 2026, en San Francisco."
+                "x": "Los autores concluyen que aún no se ha demostrado que ningún modelo de lenguaje de gran tamaño supere una prueba que siga el diseño original de Turing, aunque los resultados solo se aplican a GPT-4-Turbo y los modelos más nuevos podrían diferir. El estudio aparece en Philosophy of Science."
               }
             ]
           }
@@ -1727,125 +1667,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "소셜 정크 글이 LLMs에\n오래가는 ‘뇌 썩음’ 남겨",
-          "body": "Texas A&M은 Twitter 정크 글이 LLM 추론을 오래 해친다고 밝혔다.",
-          "mini_headline": "LLMs도 뇌 썩음",
+          "headline": "Turing 게임은 여전히\nGPT-4-Turbo 간파",
+          "body": "첫 Turing 원안 실험에서 37명 중 36명이 GPT-4-Turbo를 찾았다.",
+          "mini_headline": "Turing 게임, GPT-4-Turbo 간파",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
-                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Texas A&M의 Zhengzhong Tu가 이끄는 연구진은 자극적이고 질 낮은 콘텐츠로 학습한 대규모 언어 모델이 ‘뇌 썩음(brain rot)’을 겪는다는 사실을 발견했다. 이는 그런 콘텐츠가 사람의 주의력과 기억력 저하와 연관된다는 점과 닮았다."
+                "x": "University of Canterbury의 연구자 Diane Proudfoot, Sharon Temtsin, Christoph Bartneck은 Turing 테스트라 불리는 실험 상당수가 Turing의 설계를 따르지 않는다고 지적한다. 이들은 Turing의 원래 설계를 처음으로 실험에 구현했다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "연구진은 2010년 공개 Twitter 게시물 백만 건 데이터셋에서 ‘정크’ 데이터를 만들었다. 참여도가 높고 길이가 짧으며 선정적인 문체의 게시물을 골라냈다. 1차 라벨링은 GPT-4o mini가 맡았고 대학원생들이 표본을 검토했다. Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct, Qwen3 4B Instruct 등 네 모델을 정크 데이터와 대조 데이터를 섞어 학습시켰다."
+                "x": "1948년부터 1952년까지의 Turing 저작을 검토한 결과, 오 분 제한과 30% 통과 기준은 그가 정한 규칙이 아니었다. Turing이 구상한 것은 자유로운 질문이 오가고 정해진 시간 제한이 없는 세 명의 게임이었다."
               },
               {
                 "t": "p",
-                "x": "주된 영향은 추론력과 기억력 약화, 추론 단계를 건너뛰는 경향, 윤리적 안전장치 약화였다. 더 질 좋은 데이터로 재학습해도 성능은 완전히 회복되지 않았다."
+                "x": "참가자들은 어느 쪽이 기계인지 확신할 때까지 사람 한 명, GPT-4-Turbo와 자유롭게 대화했다. 37명 중 36명이 AI를 가려내 식별률은 97%였다. 89%가 오 분 넘게 걸렸고, 대화는 평균 14분, 가장 긴 것은 46분이었다."
               },
               {
                 "t": "p",
-                "x": "저자들은 정크로 학습한 모델이 더 많은 정크를 만들어 내는 악순환을 경고하며 학습 데이터의 투명성을 요구했다. 이 연구는 San Francisco에서 열린 COLM 2026에서 발표됐다."
+                "x": "저자들은 Turing의 원래 설계를 따른 테스트를 통과한 대형 언어 모델은 아직 확인되지 않았다고 결론 내렸다. 다만 결과는 GPT-4-Turbo에만 해당하며 더 새로운 모델은 다를 수 있다. 연구는 Philosophy of Science에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "SNSのジャンク投稿で\nLLMsに長引く「脳腐れ」",
-          "body": "Texas A&Mは、Twitterのジャンク投稿がLLMの推論を持続的に損なうと示した。",
-          "mini_headline": "LLMsも「脳腐れ」に",
+          "headline": "Turingのゲームは今も\nGPT-4-Turbo見破る",
+          "body": "初めてTuringの原案を再現した実験で37人中36人がGPT-4-Turboを見破った。",
+          "mini_headline": "TuringのゲームがGPT-4-Turboを見破る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
-                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Texas A&MのZhengzhong Tu率いる研究チームは、注目を集める低品質なコンテンツで学習した大規模言語モデルが「脳腐れ（brain rot）」を起こすことを突き止めた。人間でこうしたコンテンツと結び付けられる注意力や記憶力の低下と重なる現象だ。"
+                "x": "University of CanterburyのDiane Proudfoot、Sharon Temtsin、Christoph Bartneckの研究者らは、Turingテストと呼ばれる実験の多くがTuringの設計に従っていないと指摘し、彼の原案を初めて実験的に実装したとしている。"
               },
               {
                 "t": "p",
-                "x": "チームは、2010年の公開Twitter投稿百万件のデータセットから「ジャンク」データを作成し、エンゲージメントの高さ、短さ、扇情的な文体で投稿を選別した。初期のラベル付けはGPT-4o miniが行い、大学院生がサンプルを確認した。ジャンクデータと対照データを混ぜて、Llama3 8B Instruct、Qwen2.5 7B Instruct、Qwen2.5 0.5B Instruct、Qwen3 4B Instructの四つのモデルを学習させた。"
+                "x": "1948年から1952年までのTuringの著作を調べた結果、五分間の制限や30%の合格基準は彼のルールではなかった。Turingが構想したのは、自由な質問を交わし、決まった時間制限のない三者によるゲームだった。"
               },
               {
                 "t": "p",
-                "x": "主な影響は推論力と記憶力の低下、推論の手順を飛ばす傾向、倫理的な安全装置の弱体化だった。より質の高いデータで再学習しても、性能は完全には戻らなかった。"
+                "x": "参加者は、どちらが機械か確信できるまで、人間とGPT-4-Turboの双方と自由にチャットした。37人中36人がAIを見分け、識別率は97%に達した。89%が五分以上を要し、会話は平均14分、最長で46分だった。"
               },
               {
                 "t": "p",
-                "x": "著者らは、ジャンクで学習したモデルがさらにジャンクを生み出すという悪循環を警告し、学習データの透明性を求めている。研究はSan Franciscoで開かれたCOLM 2026で発表された。"
+                "x": "著者らは、Turingの原案に沿ったテストに合格した大規模言語モデルはまだ示されていないと結論づけた。ただし結果はGPT-4-Turboにのみ当てはまり、新しいモデルでは異なる可能性がある。研究はPhilosophy of Scienceに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "垃圾社交帖让LLMs\n患上持久“脑腐”",
-          "body": "Texas A&M发现，Twitter垃圾帖会削弱LLM推理，且重训无法完全修复。",
-          "mini_headline": "LLMs也会“脑腐”",
+          "headline": "Turing原版游戏\n仍识破GPT-4-Turbo",
+          "body": "在首次还原Turing原版游戏的测试中，37人里有36人识破了GPT-4-Turbo。",
+          "mini_headline": "Turing游戏识破GPT-4-Turbo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
-                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Texas A&M的Zhengzhong Tu领导的研究人员发现，用低质量、博眼球内容训练的大语言模型会出现“脑腐”（brain rot），这与此类内容在人类身上关联的注意力和记忆力下降相呼应。"
+                "x": "University of Canterbury的研究人员Diane Proudfoot、Sharon Temtsin和Christoph Bartneck认为，许多被称为Turing测试的实验并未遵循Turing的设计，并表示他们首次以实验方式实现了他的原始设计。"
               },
               {
                 "t": "p",
-                "x": "他们从2010年一百万条公开Twitter帖子的数据集中构建“垃圾”数据，依据高互动、篇幅短和耸动风格筛选帖子。GPT-4o mini完成初步标注，研究生抽查了样本。四个模型在垃圾数据与对照数据的混合上接受训练：Llama3 8B Instruct、Qwen2.5 7B Instruct、Qwen2.5 0.5B Instruct和Qwen3 4B Instruct。"
+                "x": "通过梳理Turing在1948年至1952年间的著述，他们发现五分钟时限和30%的通过门槛并非他的规则；他设想的是一场三人游戏，提问开放，没有固定时限。"
               },
               {
                 "t": "p",
-                "x": "主要影响包括推理和记忆能力减弱、倾向于跳过推理步骤，以及伦理防护被削弱。用更高质量的数据重新训练也未能完全恢复性能。"
+                "x": "参与者与一名真人和GPT-4-Turbo自由聊天，直到确定哪一方是机器。37人中有36人认出了AI，识别率为97%。89%的人用时超过五分钟；对话平均持续14分钟，最长46分钟。"
               },
               {
                 "t": "p",
-                "x": "作者警告存在一种反馈循环：用垃圾数据训练的模型会产出更多垃圾，并呼吁提高训练数据的透明度。该研究在San Francisco举行的COLM 2026上发表。"
+                "x": "作者总结称，尚无大语言模型被证明能通过遵循Turing原始设计的测试，不过结果仅适用于GPT-4-Turbo，更新的模型可能有所不同。该研究发表于Philosophy of Science。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los posts basura dejan en LLMs\nun deterioro cerebral duradero",
-          "body": "Texas A&M halló que posts basura de Twitter debilitan el razonamiento de los LLM y reentrenar no lo revierte del todo.",
-          "mini_headline": "Los LLMs sufren deterioro cerebral",
+          "headline": "El juego original de Turing\naún desenmascara a GPT-4-Turbo",
+          "body": "En la que los autores llaman primera prueba del juego original de Turing, 36 de 37 personas detectaron a GPT-4-Turbo.",
+          "mini_headline": "El juego de Turing desenmascara a GPT-4-Turbo",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/illustration-of-a-melt.jpg",
-                "cap": "Credit: Rachel Barton/Texas A&M Engineering"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+                "cap": "Credit: Unsplash/CC0 Public Domain"
               },
               {
                 "t": "p",
-                "x": "Investigadores dirigidos por Zhengzhong Tu en Texas A&M descubrieron que los modelos de lenguaje de gran tamaño entrenados con contenido de baja calidad y diseñado para captar la atención desarrollan “brain rot” (pudrición cerebral), en paralelo con el deterioro de la atención y la memoria que se asocia a ese contenido en las personas."
+                "x": "Los investigadores de la University of Canterbury Diane Proudfoot, Sharon Temtsin y Christoph Bartneck sostienen que muchos experimentos llamados pruebas de Turing no siguen el diseño de Turing, y afirman haber implementado experimentalmente su diseño original por primera vez."
               },
               {
                 "t": "p",
-                "x": "Construyeron datos “basura” a partir de un conjunto de 2010 con un millón de publicaciones públicas de Twitter, y marcaron las publicaciones por su alta interacción, su brevedad y su estilo sensacionalista. GPT-4o mini hizo el etiquetado inicial y estudiantes de posgrado revisaron una muestra. Se entrenaron cuatro modelos con mezclas de datos basura y de control: Llama3 8B Instruct, Qwen2.5 7B Instruct, Qwen2.5 0.5B Instruct y Qwen3 4B Instruct."
+                "x": "Al revisar los escritos de Turing de 1948 a 1952, comprobaron que el límite de cinco minutos y el umbral de aprobación del 30% no eran reglas suyas; él concibió un juego de tres jugadores con preguntas abiertas y sin límite de tiempo fijo."
               },
               {
                 "t": "p",
-                "x": "Los principales efectos fueron un razonamiento y una memoria más débiles, la tendencia a saltarse pasos de razonamiento y salvaguardas éticas debilitadas. Reentrenar con datos de mayor calidad no restableció por completo el rendimiento."
+                "x": "Los participantes conversaron libremente con un humano y con GPT-4-Turbo hasta estar seguros de cuál era la máquina. 36 de 37 identificaron a la AI, una tasa del 97%. El 89% tardó más de cinco minutos; las conversaciones duraron 14 minutos de media, y la más larga, 46."
               },
               {
                 "t": "p",
-                "x": "Los autores advierten de un círculo vicioso en el que los modelos entrenados con basura producen más basura, y piden transparencia sobre los datos de entrenamiento. El trabajo se presentó en COLM 2026, en San Francisco."
+                "x": "Los autores concluyen que aún no se ha demostrado que ningún modelo de lenguaje de gran tamaño supere una prueba que siga el diseño original de Turing, aunque los resultados solo se aplican a GPT-4-Turbo y los modelos más nuevos podrían diferir. El estudio aparece en Philosophy of Science."
               }
             ]
           }

@@ -1,96 +1,97 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "gadgets",
   "picks": [
     {
-      "title": "Even Realities G2 review: Smart glasses, stupid controls",
-      "url": "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/",
+      "title": "Perplexity makes it easier to run AI workflows entirely on your own Mac",
+      "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
       "source": "Engadget",
-      "published_iso": "2026-10-19T11:30:00+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/l-intro-1792155926.jpg",
-      "excerpt": "Even Realities makes one of the best smart glasses on the market, but controlling its growing feature set is harder than it should be.",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "Fresh hands-on review of a leading display-glasses product; the controls critique is a concrete interaction-design lesson for AI wearables."
+      "rationale": "New Mac release: full Perplexity AI workflows run locally on 36GB+ Macs, so designers can keep client files on their own machine.",
+      "published_iso": "2026-10-20T15:42:45+00:00",
+      "og_image": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg",
+      "excerpt": "A Mac with at least 36GB of RAM can now run Perplexity AI workflows locally."
     },
     {
-      "title": "People are using AI to make their smart TVs dumb again",
-      "url": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "source": "TechCrunch",
-      "published_iso": "2026-10-19T16:13:22+00:00",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2024/05/Google-TV.jpeg?w=1200",
-      "excerpt": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "title": "Get hands-free personalized help on the road with Gemini",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
+      "source": "Google Blog",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Novel user-side trend: AI agents used to strip ads and bloat from TV interfaces, a direct signal about how people push back on smart-device UX."
+      "rationale": "Official launch: Gemini is now in cars globally (Android Auto and Google built-in), with Personal Intelligence context. Primary source, broad reach.",
+      "published_iso": "2026-10-20T20:00:00+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.width-1300.png",
+      "excerpt": "Gemini is available in cars globally. With Personal Intelligence, get uniquely tailored help while keeping your eyes on the road."
     },
     {
-      "title": "I thought the Pixel 11's Magic Capture would be perfect for concerts. I was wrong",
-      "url": "https://www.androidauthority.com/pixel-11-magic-capture-hands-on-camera-test-3718898/",
-      "source": "Android Authority",
-      "published_iso": "2026-10-19T09:00:28+00:00",
-      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Magic-Capture-Pixel-11-scaled.jpg",
-      "excerpt": "Magic Capture is great, but only under certain circumstances.",
+      "title": "Boya Notra Neo launches with AI-powered meeting transcriptions, summaries, and recordings and MagSafe mount",
+      "url": "https://www.notebookcheck.net/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.1428542.0.html",
+      "source": "Notebookcheck",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "Real-world test of a Pixel 11 AI camera feature that has not been covered before, showing where it works and where it breaks."
+      "rationale": "New AI-led device launch: a MagSafe voice recorder whose main features are AI transcription in 140+ languages, speaker ID, summaries, action items and Ask AI search. Useful for designers in client calls and user interviews.",
+      "published_iso": "2026-10-20T04:45:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
+      "excerpt": "Boya's Notra Neo is a MagSafe-mount AI voice recorder that transcribes calls and meetings in 140+ languages with speaker identification, then generates summaries, action items and mind maps from 60+ templates, with an Ask AI search across recordings.",
+      "swap": true
     },
     {
-      "title": "Apple's next HomeView could debut as soon as next year with a robotic arm: report",
-      "url": "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/",
-      "source": "9to5Mac",
-      "published_iso": "2026-10-18T14:17:21+00:00",
-      "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-screen-angles-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&resize=1200,628",
-      "excerpt": "Apple just announced its long awaited smart home display: HomeView, and it's available for $299. That said, the product has...",
-      "tool": "Gadgets",
-      "accent": "#f5a623",
-      "motif": "headset",
-      "rationale": "New report on a different, future product (a robotic-arm HomeView successor), not a rehash of the 10-14 launch; the only HomeView item kept."
-    },
-    {
-      "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
-      "source": "Tom's Hardware",
-      "published_iso": "2026-10-17T13:21:20Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/neaZTrreV5EBmYCZpbZCoH-1920-80.png",
-      "excerpt": "Is AI coming for blue-collar jobs, too?",
+      "title": "Voxel 1 robot can tidy up, water plants and clean up dirt",
+      "url": "https://www.notebookcheck.net/Voxel-1-robot-can-tidy-up-water-plants-and-clean-up-dirt.1429483.0.html",
+      "source": "Notebookcheck",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "Unusual robotics data-collection program using wearable sensors on tradespeople; adds a robotics angle for category spread."
+      "rationale": "New product: Tuesday Labs' two-armed household robot that learns where objects belong and tidies on its own. A concrete consumer physical-AI device.",
+      "published_iso": "2026-10-20T20:35:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
+      "excerpt": "Tuesday Labs' Voxel Series 1 is a two-armed, two-legged household robot that uses AI to learn where objects belong, tidy up on its own, water plants, detect and clean dirt and put dishes away, guided by RGB and ultra-wide cameras and voice commands."
+    },
+    {
+      "title": "An 'enormous influx' of new Garmin Connect IQ apps and watch faces spark fears of poor-quality AI slop flooding the store",
+      "url": "https://www.techradar.com/health-fitness/fitness-trackers/poorly-made-ai-generated-watch-faces-will-consume-everything-garmins-connect-iq-store-has-been-hit-by-an-enormous-influx-of-submissions-and-garmin-users-could-soon-be-grappling-with-a-wave-of-ai-slop",
+      "source": "TechRadar",
+      "tool": "Gadgets",
+      "accent": "#f5a623",
+      "motif": "headset",
+      "rationale": "New development: AI-generated watch faces and apps are flooding Garmin's Connect IQ store. Directly relevant to designers who make wearable UI.",
+      "published_iso": "2026-10-20T11:48:27Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg",
+      "excerpt": "Garmin has a Connect IQ problem."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.engadget.com/2288658/even-realities-g2-smart-glasses-review/": {
+      "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/": {
         "verdict": "new",
-        "nearest": "https://www.wired.com/story/htc-wants-its-vive-eagle-smart-glasses-to-be-the-anti-meta/",
+        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
         "new_action": ""
       },
-      "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/": {
+      "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/": {
         "verdict": "new",
-        "nearest": "https://gizmodo.com/alibaba-qwen-glasses-n1-2000825793",
+        "nearest": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents/",
         "new_action": ""
       },
-      "https://www.androidauthority.com/pixel-11-magic-capture-hands-on-camera-test-3718898/": {
+      "https://www.notebookcheck.net/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.1428542.0.html": {
         "verdict": "new",
-        "nearest": "https://www.androidauthority.com/the-pixel-11-pros-120x-zoom-3721738/",
+        "nearest": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
         "new_action": ""
       },
-      "https://9to5mac.com/2026/10/18/apples-next-homeview-could-debut-as-soon-as-next-year-with-a-robotic-arm-report/": {
+      "https://www.notebookcheck.net/Voxel-1-robot-can-tidy-up-water-plants-and-clean-up-dirt.1429483.0.html": {
         "verdict": "new",
-        "nearest": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+        "nearest": "https://www.cnet.com/tech/computing/flourish-3555-humanoid-robot-learns-chores-in-30-minutes-startup-says/",
         "new_action": ""
       },
-      "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning": {
+      "https://www.techradar.com/health-fitness/fitness-trackers/poorly-made-ai-generated-watch-faces-will-consume-everything-garmins-connect-iq-store-has-been-hit-by-an-enormous-influx-of-submissions-and-garmin-users-could-soon-be-grappling-with-a-wave-of-ai-slop": {
         "verdict": "new",
-        "nearest": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+        "nearest": "https://9to5google.com/2026/10/09/pixel-watch-4-update-adds-ai-face-generator/",
         "new_action": ""
       }
     },
-    "note": "Dropped as already published: 9to5Google Bee AI recorders (same launch as TechCrunch 10-16); ZDNET Alexa tablets (same launch as Engadget 10-09); Samsung Android XR glasses leak (pre-unveil leak, superseded by CNET 'Samsung Smart Glasses Unveiled' 10-14); CNET HomeView hands-on (more reporting on the 10-14 HomeView launch, and only one HomeView item allowed; kept the robotic-arm successor report instead). Held back, not duplicates: WIRED Surface Laptop Ultra review (likely a review of the 10-08 Microsoft AI PC launch, so left out to be safe); XREAL 1 Pro+ (second glasses card, category spread); Apple HomePod mini Siri confirmation (second Apple home card); Google Home update (minor bug-fix release); etnews 4m humanoid, Doosan Robotics (business plans under review), Klleon AI station attendant (lower actionability, robotics slot already filled). Outlets: 5 different outlets, 1 card each."
+    "note": "SWAP 2026-10-21: enrichment rejected zdnet.co.kr Galaxy Buds On (20261020114021) because it is a hardware launch and not AI-led; removed it and its check. Replacement: Notebookcheck Boya Notra Neo (published 2026-10-20T02:45Z, about 19h before now_iso, inside the 14-day window). It is AI-led: transcription, summaries and Ask AI are the product. It has no history_match. The nearest published story is the 09-24 MacWhisper software update, which is a different product, so it is new. It is not selected in the design or marketing sections today. Notebookcheck now has 2 cards (Voxel and Boya), which is within the cap of 2; the 5 cards come from 4 distinct outlets. Other candidates passed over: Snap Specs celebrity endorsement (marketing), Vivo V80 camera (camera-led), Antigravity drone bundle (gesture-control accessory, not AI-led), XREAL 1 Pro+ (minor refresh), Samsung The Brief (corporate PR), Supreme patrol robot (expo teaser), delivery-robot lawsuit (legal angle), Figure 03 treadmill clip and Xenon field report (not device launches). The HomeView, Samsung glasses, Bee, Googlebook, Surface and Alexa+ items remain dropped as repeats per the original note. Original dedup note: Dropped as repeats of published stories: both Apple HomeView pieces (CNET hands-on was tagged likely-repeat; 9to5Mac's piece on why it was delayed is commentary), all matching the 10-14 Ars HomeView launch card. Notebookcheck's Samsung smart-glasses leak repeats the 10-14 CNET reveal and the 10-02 FCC card. TechRadar's Amazon Bee opinion piece is commentary on the 10-16 Bee launch. Acer Googlebook 14 review follows the 09-22 Googlebook lineup and 10-13 OS review. WIRED's Surface Laptop Ultra review covers the 10-08 Microsoft Nvidia AI PC launch. Engadget's Alexa+ with Prime is an explainer that overlaps the 10-10 Alexa Plus year review and the 10-01 Alexa+ card."
   }
 }

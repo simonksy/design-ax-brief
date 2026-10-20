@@ -7333,6 +7333,124 @@
           "x": "ElevenCreative、ElevenMusic、ElevenAPIで本日から利用できる。"
         }
       ]
+    },
+    "music/music-believe-tunecore-ai-remix-optin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
+        },
+        {
+          "t": "p",
+          "x": "十月20日に発表されたライセンス契約により、参加するBelieveとTuneCoreのアーティストは、Spotify上のAI-powered(AI搭載)のファンによるリミックスやカバーから印税を得られる。参加はアーティストがオプトインで選ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "対象はSpotifyが準備中の、既存曲をAIで再解釈するツールで、Premium会員向けの有料add-onとして計画されている。再生されると参加アーティストと権利者に印税が入る。このツールはまったく新しい作品ではなくリミックスとカバー向けで、各リミックスは原曲とアーティストにリンクする。"
+        },
+        {
+          "t": "p",
+          "x": "BelieveとTuneCoreは二段階(two-step)の同意手続きを採る。アーティストとレーベルはまずAIプログラムの対象になるかを決め、その後Spotifyとの提携について別に判断する。契約は同意、管理、報酬、透明性というBelieveの原則を軸に組み立てられている。"
+        },
+        {
+          "t": "p",
+          "x": "発表では、提供開始日、add-onの価格、印税率、収益配分の方法は明らかにされていない。独立系の音楽ビジネスにとっての有用性は、こうした詳細次第だ。"
+        }
+      ]
+    },
+    "music/music-pitchnet-free-pitch-editor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
+          "cap": "PitchNet"
+        },
+        {
+          "t": "p",
+          "x": "Session Loopsが、macOS、Windows、Linuxに対応した無料のオープンソース・ボーカルピッチ編集ソフトPitchNetを公開した。Your Smile is Artのbubblegumに続き、今月取り上げる二つ目の無料Melodyne代替ツールだ。"
+        },
+        {
+          "t": "p",
+          "x": "ワークフローはMelodyneに似ている。PitchNetはボーカルの音符を検出してピアノロールに表示し、ピッチとタイミングを編集できる。ノートの分割、ピッチカーブの描画、プレビューを経て、オーディオまたはMIDIとして書き出せる。オートチューン系プラグインと違い、個々の音符を扱える。"
+        },
+        {
+          "t": "p",
+          "x": "処理にはAI再合成を使い、開発者によれば、より滑らかなつながりと自然な音色が得られる。製品ページでは、三半音上げたボーカルでMelodyneと比較している。"
+        },
+        {
+          "t": "video",
+          "yt": "Q0Ym2sMFB1A"
+        },
+        {
+          "t": "p",
+          "x": "ARAに対応し、互換性のあるDAWsからタイムラインとの連携を保ったままPitchNetにオーディオを送れる。ARA非対応のホスト向けにはキャプチャ方式も用意する。インストーラーはアカウント不要で直接ダウンロードでき(v0.7.2、158–222 MB)、WindowsとmacOSではRAMが最低8 GB、推奨16 GB必要だ。対応フォーマットはWindowsがVST3/AAX、macOS 13+がVST3/AU/AAX、LinuxがVST3とスタンドアロンだ。"
+        }
+      ]
+    },
+    "music/music-afm-human-made-human-paid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
+          "cap": "ニューヨークのRockefeller Center前で集会を開くAmerican Federation of Musicians。"
+        },
+        {
+          "t": "p",
+          "x": "U.S.最大の音楽家組合で、80,000人以上のプロのアーティストが所属するAmerican Federation of Musicians(AFM)は、AI技術の発展を受け、メジャーレーベルに契約上の保護策を求めている。"
+        },
+        {
+          "t": "p",
+          "x": "AFMは火曜日、11月に予定されるSound Recording Labor Agreement(SRLA)の再交渉を前に、提言キャンペーン「Human Made, Human Paid」を始めた。AFMはUniversal、Sony、Warner、Hollywood Records(Disney)に対し、自分の音楽がAIモデルの学習に使われることを承認または拒否する権利、透明性のあるクレジット、そしてAI利用とレーベルのライセンス契約の双方に対する報酬を音楽家に与えるよう求めている。"
+        },
+        {
+          "t": "p",
+          "x": "「レコード会社は、人間の芸術性の上に築いた利益を手にしながら、現場の音楽家を蚊帳の外に置くことはできない。Human Made, Human Paidは、同意、クレジット、報酬の問題だ」とAFM InternationalのTino Gagliardi会長は述べた。"
+        },
+        {
+          "t": "p",
+          "x": "組合は、この要求はAIを悪者扱いするためではなく、音楽を職業として成り立たせ続けるためのものだとしている。「技術の進歩を止めたいわけではない……世界にはより少ない音楽ではなく、より多くの音楽が必要だ」"
+        }
+      ]
+    },
+    "music/music-just4kicks-ethical-kick-generator": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Just 4 Noiseが、AIキックドラム・サンプル生成ツールJust 4 Kicksを発売した。どれだけ関心を持つかはキックドラムのサンプルをどれほど使うか次第だが、この発売はAI音楽におけるより広く前向きな流れを映している。"
+        },
+        {
+          "t": "p",
+          "x": "Just 4 Noiseによると、AIモデルは「当初から完全に自社所有で、自社で制作・選別したオーディオデータ」で学習させた。倫理原則を守るため、数カ月かけて世界各地のスタジオでこのデータセットを録音したという。"
+        }
+      ]
+    },
+    "music/music-gear-firmware-vibe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "ハードウェアのシンセ、サンプラー、グルーブボックス向けのカスタムファームウェアが爆発的に増えており、そのほぼすべてが高度化を続けるバイブコーディングツールによって可能になった。Korg Volcaにベロシティ感度を加えるといった、かつて数週間から数か月かかった作業が、今では趣味の開発者なら数日で済む。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "ElektronのModel:Cycles、Digitone、Octatrack、DigitaktはClaudeの助けで新機能を得た。Roland、Ableton、Akai、Novation、Arturia、Zoomの機材にも、ここひと月ほどで新しいカスタムファームウェアが登場している。先頭を走るのはM-Vaveの$70のDX7クローンFM-1で、今やファームウェアは数十種類に上る。Felucca、Sloop、x0xなどの人気ファームはClaudeを貢献者に挙げるか、AIの使用を明かしている。"
+        },
+        {
+          "t": "p",
+          "x": "Roman Rusinovは2012年製のZoom MS-70CDRペダルを、NAMキャプチャーを動かすアンプモデラーに変えた。「ハードウェアを所有しているなら、それで何でも好きなことができるべきだ」と彼は語った。18nelliはClaude CodeでModded Cyclesを始めた。六トラックのUSBオーディオから出発し、やがてコミュニティプロジェクトに育った。"
+        },
+        {
+          "t": "p",
+          "x": "これらのファームウェアは公式版ほどテストされていない。Elektronは改造で機器が文鎮化しかねないと警告し、フォーラムでカスタムファームウェアへのリンクを禁止した。一方M-Vaveは、開発キットと書き込みツールを備えたオープンソースのファームウェアFM1 Openを発表した。"
+        }
+      ]
     }
   }
 }

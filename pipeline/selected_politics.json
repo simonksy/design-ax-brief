@@ -1,115 +1,115 @@
 {
- "date": "2026-10-20",
+ "date": "2026-10-21",
  "section": "politics",
  "picks": [
   {
-   "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
-   "title": "First harmonised standard supporting the AI Act published in the Official Journal",
-   "source": "European Commission (Shaping Europe's digital future)",
+   "url": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
+   "title": "DeepSeek deep-sixed at all US federal civilian agencies",
+   "source": "The Register",
    "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-19T09:37:54+02:00",
-   "og_image": null,
-   "excerpt": "The European Commission published the reference to the first harmonised standard supporting AI Act implementation in the Official Journal of the EU, a milestone ahead of the application of high-risk AI system requirements; further harmonised standards are expected to follow.",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-20T00:11:10Z",
+   "og_image": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+   "excerpt": "DHS on Monday ordered federal civilian agencies to stop using and remove all DeepSeek and DeepSeek-affiliate products, including third-party services developed using DeepSeek; the order's scope is broad and vague. (Yonhap reports China called it politicisation of science and technology.)",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#3b6bff",
    "motif": "cube",
-   "rationale": "Primary EU document: the first harmonised standard referenced in the Official Journal gives builders of high-risk AI systems a presumption of conformity under the AI Act, which makes it the most practical compliance news of the day. It is a distinct event from the 10-15 AI Office incident-enforcement card. No og:image, so media needs an in-article or EU asset."
+   "rationale": "A concrete federal order: DHS directs all civilian agencies to remove DeepSeek and DeepSeek-derived third-party services, which reaches vendors who build on DeepSeek weights. It is a new decision, separate from the 09-30 superintelligence EO. Attribute the 'broad and vague' reading to The Register and the 'politicisation' reaction to China via Yonhap."
   },
   {
-   "url": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
-   "title": "Taiwan targets illicit AI server exports to China with five-year prison terms",
-   "source": "Tom's Hardware",
+   "url": "https://www.nextgov.com/cybersecurity/2026/10/democrats-warn-tech-firms-election-security-backsliding-ahead-midterms/416701/",
+   "title": "Democrats warn tech firms of election security 'backsliding' ahead of midterms",
+   "source": "Nextgov/FCW",
    "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-17T12:20:00Z",
-   "og_image": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e-1920-80.png",
-   "excerpt": "Taiwan is moving to criminalize unauthorized exports of AI servers and chips to China with up to five years in prison, following a US tariff deal and a Super Micro smuggling raid, which could make it easier to charge AI chip smugglers.",
+   "axis": "elections",
+   "published_iso": "2026-10-20T15:07:00Z",
+   "og_image": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/open-graph.jpg",
+   "excerpt": "Senior congressional Democrats on intelligence and election oversight sent a letter to 25 companies including Alphabet, Meta, Microsoft, OpenAI and TikTok, warning that inaccurate AI-generated voting information and weakened safeguards could expose voters to manipulation before Nov 3.",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#0070f3",
    "motif": "cube",
-   "rationale": "A new Taiwanese government move on AI-chip and server export controls, separate from the 10-02 US DOJ smuggling arrest and the 10-19 China draft catalogue. The domain is off-list (an exception because no allowed outlet covered it), and the measure is not confirmed as a proposal or as cabinet-approved, so the copy must call it a move or proposal unless enrichment confirms approval."
+   "rationale": "An official congressional letter to 25 named AI and platform companies about AI-generated voting misinformation ahead of Nov 3. It is a new action, not the 10-19 Wesleyan ad-spend data. Keep the framing neutral: say what the letter asks and who sent it, and attribute the 'backsliding' claim to the senders."
   },
   {
-   "url": "https://www.gov.uk/government/publications/ai-sovereignty-preserving-uk-agency-in-an-ai-enabled-world",
-   "title": "AI sovereignty: preserving UK agency in an AI-enabled world",
-   "source": "GOV.UK",
+   "url": "https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078",
+   "title": "UK finance watchdog wants firms to report AI failures and close calls",
+   "source": "The Register",
    "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-19T10:30:05+01:00",
-   "og_image": "https://www.gov.uk/assets/frontend/govuk-opengraph-image-4196a4d6333cf92aaf720047f56cfd91b3532d7635fc21ebcf0d5897df6b5f77.png",
-   "excerpt": "A published advisory letter to the UK Minister for AI sets out how the UK can build the capability to make strategic choices about current and future AI technology, framed as preserving national agency.",
+   "axis": "policy",
+   "published_iso": "2026-10-20T09:57:08Z",
+   "og_image": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683",
+   "excerpt": "FCA chief data officer Jessica Rusu said firms' incident reporting must cover significant AI failures and near-misses as increasingly autonomous agents enter financial services, demanding clear accountability. (Primary: FCA speech 'Building the future of finance in the age of AI'.)",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#7928ca",
    "motif": "cube",
-   "rationale": "An official UK government publication on sovereign AI capability. It is a different event from the 10-15 GOV.UK AI-risk defences card. Describe it as an advisory letter to the minister, not as adopted policy. The og:image is the generic gov.uk banner."
+   "rationale": "Swap-in for the Ars Meta torrenting order, which books is publishing today. The UK's financial regulator has officially stated that firms' incident reporting must cover AI failures and near-misses involving autonomous agents. AI is central to the story, it comes from a primary FCA source, and it changes what UK fintech builders have to log. The copy must call it a supervisory expectation set out in a speech, not a new rule. It is a new jurisdiction, distinct from the 10-09 MAS and 10-11 US incident-reporting cards."
   },
   {
-   "url": "https://www.euronews.com/2026/10/19/daedalus-greece-unveils-new-supercomputer-as-it-eyes-role-in-europes-ai-race",
-   "title": "Daedalus: Greece unveils new supercomputer as it eyes role in Europe's AI race",
-   "source": "Euronews",
+   "url": "https://gothamist.com/news/nyc-proposes-crackdown-down-on-ai-customer-service-chatbots",
+   "title": "NYC proposes crackdown on AI customer service chatbots",
+   "source": "Gothamist",
    "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-19T13:44:00+02:00",
-   "og_image": "https://images.euronews.com/articles/stories/09/95/79/25/1536x864_cmsv2_de5b0eff-1c79-5da3-a42b-bfbbdb93c4e7-9957925.jpg",
-   "excerpt": "Greece inaugurated Daedalus, a €58.9 million, 85.69-petaflop supercomputer in Lavrio ranked 31st worldwide, letting researchers and businesses train AI models on data kept within the country.",
+   "axis": "policy",
+   "published_iso": "2026-10-20T16:04:50Z",
+   "og_image": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/",
+   "excerpt": "Mamdani administration proposed a first-of-its-kind city rule requiring businesses to give customers a quick off-ramp to a human agent when an AI chatbot can't resolve their request. (Off-list; no allowed outlet covered it.)",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#2ec5c5",
    "motif": "cube",
-   "rationale": "A concrete sovereign-AI compute launch by a government: Greece inaugurated the machine, with figures for cost, petaflops and ranking, so researchers and businesses can train models on data kept in the country. It brings in a European national-strategy angle not covered in the 30-day history."
+   "rationale": "A proposed municipal rule that directly changes how businesses deploy AI chatbots, because it requires a human off-ramp. That makes it the most actionable item of the day for builders. The domain is off-list (an exception because no allowed outlet covered it). The copy must call it a proposed rule, not an adopted one."
   },
   {
-   "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-   "title": "Disney found a way to buy Character.AI without buying its lawsuits",
-   "source": "Ars Technica (WIRED)",
+   "url": "https://en.yna.co.kr/view/AEN20261021000600315",
+   "title": "S. Korea's U.N. envoy named co-chair of global AI governance dialogue",
+   "source": "Yonhap News Agency",
    "category": "politics",
-   "axis": "policy",
-   "published_iso": "2026-10-19T14:45:43+00:00",
-   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
-   "excerpt": "Court filings in Character.AI's Chapter 11 case show Disney required the deal be consummated through bankruptcy, seeking a perpetual license via a '363 free and clear' order while Character.AI retains liability for chatbot child-safety lawsuits.",
+   "axis": "geopolitics",
+   "published_iso": "2026-10-21T06:16:40+09:00",
+   "og_image": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+   "excerpt": "UNGA President appointed Korean Ambassador Cha Ji-hoon and Saint Kitts and Nevis' Mutryce Agatha Williams to co-chair preparations for the 2027 UN Global Dialogue on AI Governance (May 3-4, 2027).",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#eb367f",
    "motif": "cube",
-   "rationale": "A follow-up backed by new court filings. Character.AI's Chapter 11 filings show the structure: Disney would get a perpetual license through a '363 free and clear' sale order while the chatbot child-safety liability stays with Character.AI. That bears on AI liability law, and the card is about litigation, not M&A. Attribute the 'get out of lawsuits' framing to WIRED's reading of the filings."
+   "rationale": "An official UNGA appointment that sets who steers the 2027 UN Global Dialogue on AI Governance (May 3-4, 2027). It brings in a multilateral governance angle and is distinct from the 09-21 Global Digital Compact review commentary."
   }
  ],
  "alternates": [
-  "https://www.euronews.com/2026/10/19/nvidia-ceo-jensen-huang-warns-germany-is-falling-behind-in-ai-race",
-  "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824"
+  "https://www.yna.co.kr/view/AKR20261020071700009",
+  "https://www.yna.co.kr/view/AKR20261020091900073"
  ],
  "dedup": {
   "checks": {
-   "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal": {
+   "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010": {
     "verdict": "new",
-    "nearest": "https://www.euronews.com/2026/10/14/eus-ai-rules-face-first-enforcement-test-over-lab-incidents",
+    "nearest": "https://www.whitehouse.gov/presidential-actions/2026/09/inaugurating-the-era-of-super-intelligence/",
     "new_action": ""
    },
-   "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid": {
+   "https://www.nextgov.com/cybersecurity/2026/10/democrats-warn-tech-firms-election-security-backsliding-ahead-midterms/416701/": {
     "verdict": "new",
-    "nearest": "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china",
+    "nearest": "https://gizmodo.com/137-million-has-been-spent-on-ai-generated-ads-ahead-of-midterms-only-27-included-a-disclaimer-2000827138",
     "new_action": ""
    },
-   "https://www.gov.uk/government/publications/ai-sovereignty-preserving-uk-agency-in-an-ai-enabled-world": {
+   "https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078": {
     "verdict": "new",
-    "nearest": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+    "nearest": "https://www.theregister.com/ai-and-ml/2026/10/08/singapores-central-bank-wants-all-fintech-ai-use-cases-subject-to-independent-review/5301798",
     "new_action": ""
    },
-   "https://www.euronews.com/2026/10/19/daedalus-greece-unveils-new-supercomputer-as-it-eyes-role-in-europes-ai-race": {
+   "https://gothamist.com/news/nyc-proposes-crackdown-down-on-ai-customer-service-chatbots": {
     "verdict": "new",
     "nearest": "",
     "new_action": ""
    },
-   "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/": {
-    "verdict": "follow-up",
-    "nearest": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-    "new_action": "New court filings in Character.AI's Chapter 11 case show Disney required the deal to go through bankruptcy, with a '363 free and clear' sale order giving Disney a perpetual license while Character.AI keeps the chatbot child-safety lawsuit liability. The 10-15 card covered the NY AG's user-data concerns about the bankruptcy."
+   "https://en.yna.co.kr/view/AEN20261021000600315": {
+    "verdict": "new",
+    "nearest": "https://www.techpolicy.press/uns-global-digital-compact-review-could-sideline-the-global-south",
+    "new_action": ""
    }
   },
-  "note": "Politics 10-20, curator chose the picks (the user deferred). Dropped as the same running story: Axios 'AI attack-ad nightmare'. It covers the same topic as the 10-19 Gizmodo/Wesleyan card (undisclosed AI campaign ads, the state disclosure-law tally) and adds Axios's own ad review but no new decision, ruling or filing. Dropped as commentary, analysis or roundups on published events: Lawfare on EU AI Act incident reporting (analysis of the 10-15 AI Office/Hugging Face story); Tech Policy Press EU liability podcast (repeats the 10-08 Politico EU card); Tech Policy Press OpenAI weekly roundup (recaps the 10-15 eight-state suit and the AI Office requests); IAPP 'preparing for AI incidents' (commentary); Verge Pritzker Decoder interview (no new action). Dropped on neutrality: Verge 'Democrats think cracking down on AI could give them an edge' (party and campaign-advantage framing). Dropped as weak fits: Ars Anthropic outside-watchdog access (a voluntary corporate arrangement; the same Anthropic/METR item was dropped 10-19); Rest of World AI agents in developing nations (a feature); POLITICO EU French supermarket cyberattack (the piece itself says the story is not about AI, so it fails the delete-AI test). Alternates: Euronews Merz-Nvidia AI pact (the pact had not been unveiled at publication, and the article is mostly Huang's commentary); Register Microsoft dropping its UK supercomputer (a corporate decision, with grid policy as a secondary angle). The Disney/Character.AI story also ran on wired.com; only the Ars copy is used. Diversity: 5 distinct outlets (EC, Tom's Hardware, GOV.UK, Euronews, Ars Technica). Axes: policy x2, geopolitics x3, elections x0 (the only elections candidates were a duplicate and a partisan-framed piece). Each pick has a distinct palette accent. Cross-section: Tom's Hardware Taiwan exports could also appear in gadgets, so check before roll."
+  "note": "Politics 10-21, curator chose the picks (the user deferred). SWAP PASS: I removed the Ars 'Meta ordered to name execs who approved torrenting for AI training' card because the books section publishes that exact URL today. I replaced it with the Register/FCA AI incident-reporting card, the strongest remaining eligible item: an official regulator position, AI-central, with no history match. It is a different jurisdiction from the 10-09 MAS card and the 10-11 US AI incident-reporting card. Other options I rejected for the swap: Yonhap SIF co-chair Emil Michael remarks (an official's statement on the running SIF/09-30 EO story, with no new decision); Yonhap Japan data-center/cloud certification (weak AI hook); Ars Meta drops 'train' from its TOS (a corporate terms change, not a government action, and too close to the Ars story books is running); WIRED French protest meetings (only a partial AI hook). Dropped earlier, unchanged: Axios 'AI attack-ad nightmare' (repeats the 10-19 Gizmodo/Wesleyan data). Dropped as commentary, analysis, podcasts or roundups: Axios self-rule; TPP Google antitrust podcast; TPP EU liability interview; TPP OpenAI lawsuits roundup; Semafor DNI profile; Verge Pritzker Decoder; Rest of World AI agents; POLITICO EU supermarket opinion. Dropped on neutrality: Verge 'Democrats think cracking down on AI could give them an edge'. Dropped as AI-business noise: Euronews Germany-Nvidia deal. Dropped as a weak plan: FedScoop GAO plan. Diversity: 4 distinct outlets (The Register x2, Nextgov/FCW, Gothamist, Yonhap), within the 2-per-outlet cap. Axes: policy x2, geopolitics x2, elections x1. Each pick has a distinct accent. No pick shares a cluster."
  }
 }

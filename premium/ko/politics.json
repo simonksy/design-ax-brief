@@ -3073,6 +3073,128 @@
           "x": "초안에는 정부가 첨단 모델 출시를 막을 수 있는 경우를 제한하고 일부 주의 AI 안전법을 대체하는 내용이 담겼다."
         }
       ]
+    },
+    "politics/politics-democrats-letter-25-firms-election-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
+        },
+        {
+          "t": "p",
+          "x": "정보위원회와 선거 감독 위원회의 민주당 최고위 인사인 상원의원(Sens.) 마크 워너(Mark Warner)·알렉스 파디야(Alex Padilla)와 하원의원(Reps.) 짐 하임스(Jim Himes)·조 모렐(Joe Morelle)이 중간선거를 앞두고 Alphabet, Meta, Microsoft, OpenAI, TikTok 등 25개 기업 대표에게 서한을 보냈다."
+        },
+        {
+          "t": "p",
+          "x": "이들은 \"안타깝게도 제품 오용으로부터 선거를 보호하겠다는 여러분의 약속 일부가 후퇴하고 있다는 우려스러운 징후가 있다\"고 썼다. 일부 AI 챗봇이 선거·투표 질문에서 \"용납할 수 없을 만큼 높은 오류율\"을 보인다는 지적도 담았다."
+        },
+        {
+          "t": "p",
+          "x": "서한은 투표 절차에 관한 \"명백히 거짓인\" 정보를 정치적 발언과 구분해 지우고, 선거 관리자에게 신고 도구를 주며, 독립 팩트체커를 쓰고, 연구자에게 데이터를 공개하라고 기업들에 요구한다."
+        },
+        {
+          "t": "p",
+          "x": "트럼프(Trump) 행정부는 주로 검열을 이유로 외국 영향력·선거 허위정보에 대응하던 조직 여러 곳을 해체했다. 연방 기관들은 선거 보안 지원은 이어진다고 밝혔다. Nextgov/FCW는 업계 단체 TechNet과 CCIA에 논평을 요청했다."
+        }
+      ]
+    },
+    "politics/politics-fca-ai-near-miss-reporting-speech": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "Financial Conduct Authority의 최고 데이터·정보·인텔리전스 책임자 Jessica Rusu는 월요일 Bloomberg의 UK Policy Series 연설에서, 규제당국은 영국이 금융 서비스 분야의 안전한 AI 도입을 이끌기를 바란다면서도 자율성이 커질수록 책임 소재 역시 분명해야 한다고 했다."
+        },
+        {
+          "t": "p",
+          "x": "그는 \"우리 규정은 이미 기업에 주요 사고 보고를 요구하고 있으며, 이는 중대한 AI 실패와 아차사고(near-misses)로 확대돼야 한다\"고 말했다. 에이전트형 AI(agentic AI)의 아차사고 보고도 \"규제상의 우선순위\"라고 덧붙였다. 새 규칙이 아니라 연설에서 밝힌 기대 사항이다."
+        },
+        {
+          "t": "p",
+          "x": "영국(UK) AI 담당 장관 Kanishka Narayan은 지난주 정부가 중대 사고와 아차사고 보고를 포함해 제도 강화를 검토하겠다고 밝혔다. 다만 정부는 Cyber Security and Resilience Bill에 AI-specific(AI 특화) 조치를 넣겠다는 약속은 아직 하지 않았고, 관계자들은 의원(MPs)들에게 수정안을 계속 검토하고 있다고 전했다."
+        }
+      ]
+    },
+    "politics/politics-nyc-chatbot-human-offramp-rule": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
+        },
+        {
+          "t": "p",
+          "x": "조란 맘다니(Zohran Mamdani) 시장 행정부가 고객 서비스에 자동 챗봇을 쓰는 기업은 그 사실을 공개하고, 고객이 원하면 사람과 대화할 수 있게 하라는 규칙을 제안하고 있다. 행정부는 미국에서 처음 나오는 규칙이라고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "제안된 규칙은 \"합리적이고 시기적절한 방식\"으로 도움을 주도록 하고, 쓸모없는 메뉴로 고객을 빙빙 돌리는 것도 막는다. 소비자보호국장 새뮤얼 러빈(Samuel Levine)은 \"뉴욕시(New York City)에서 우리가 걱정하는 것은 AI가 이 관계를 더 나쁘게만 만들 것이라는 점\"이라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "공청회는 11월 19일(Nov. 19)에 열린다. 시행일은 들어오는 의견 규모를 보고 정하며, 그 뒤 전환 기간을 둔다. 규칙은 시에서 영업하는 모든 기업에 적용되고, 반복 위반 시 벌금은 $525, $1,050, $3,500이다."
+        },
+        {
+          "t": "p",
+          "x": "러빈(Levine)은 이 규칙을 다른 지역이 참고할 모델로 봤다. AI 챗봇을 규제하는 주는 여럿이지만 고객 서비스 봇을 겨냥한 곳은 드물다."
+        }
+      ]
+    },
+    "politics/politics-un-ai-dialogue-korea-cochair-cha": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+          "cap": "2026년 7월 16일 U.N. 본부에서 발언하는 차지훈(Amb. Cha Ji-hoon) 대사(오른쪽에서 2번째). (Yonhap)"
+        },
+        {
+          "t": "p",
+          "x": "U.N. 웹사이트에 따르면 화요일 한국의 주유엔(United Nations) 대사가 AI 거버넌스 국제 협력을 촉진하려는 U.N. 이니셔티브의 공동의장으로 임명됐다."
+        },
+        {
+          "t": "p",
+          "x": "U.N. 총회 의장은 금요일 차지훈(Cha Ji-hoon) 대사와 세인트키츠네비스(Saint Kitts and Nevis) 상임대표 무트리스 아가사 윌리엄스(Mutryce Agatha Williams)를 임명하고, 2027년 AI 거버넌스 글로벌 대화(Global Dialogue on AI Governance) 준비를 맡겼다."
+        },
+        {
+          "t": "p",
+          "x": "2027년 5월 3-4일 열리는 이번 대화에는 각국 정부와 여러 이해관계자가 모여, 빠르게 발전하는 이 기술의 기회와 과제를 비롯한 AI 거버넌스 국제 협력을 논의한다."
+        },
+        {
+          "t": "p",
+          "x": "이 이니셔티브는 2025년 8월 채택된 U.N. 총회 결의로 만들어졌다. 정부와 민간 부문, 시민사회, 연구자가 함께 논의하는 자리다."
+        },
+        {
+          "t": "p",
+          "x": "이재명(Lee Jae Myung) 정부가 세계 AI 강국 상위 세 손가락 안에 드는 것을 목표로 삼은 만큼, 한국이 조정 역할을 맡을 것으로 보인다."
+        }
+      ]
+    },
+    "politics/politics-aiact-harmonised-std": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "유럽연합 집행위원회가 AI Act 이행을 뒷받침할 첫 조화표준의 참조 정보를 EU 관보(Official Journal of the European Union)에 실었다."
+        },
+        {
+          "t": "img",
+          "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
+          "cap": "판사의 의사봉 옆에서 \"AI ACT\"라고 적힌 문서를 가리키는 사람 일러스트."
+        },
+        {
+          "t": "p",
+          "x": "이 표준 'EN 18286:2026 – Quality management system for EU AI Act regulatory purposes'는 CEN과 CENELEC이 만들었다. 고위험 AI 시스템 제공자는 이 표준으로 Article 17(제17조)의 품질경영시스템 요건을 충족할 법적 경로를 얻는다."
+        },
+        {
+          "t": "p",
+          "x": "집행위원회 시행결정 (EU) 2026/2274로 공표된 이 표준을 적용하면, 제공자는 표준이 다루는 Article 17 요건에 대해 적합성 추정을 받는다. 이런 추정 효력이 있는 AI QMS 표준은 이것뿐이다. AI 시스템 수명주기를 축으로 짜였고, ISO/IEC 42001, ISO 9001, ISO 13485 같은 표준을 대체하지 않고 그 위에 덧붙이도록 설계됐다."
+        },
+        {
+          "t": "p",
+          "x": "집행위원회는 고위험 AI 시스템 요건 적용을 앞두고 중요한 이정표라고 평가했다. 추가 조화표준도 뒤따를 예정이다."
+        }
+      ]
     }
   }
 }
