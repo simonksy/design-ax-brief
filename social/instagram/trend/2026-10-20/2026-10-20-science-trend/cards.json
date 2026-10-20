@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "사람 손을 덜 타는 실험실",
+    "date": "2026.10.20",
+    "section": "SCIENCE",
+    "accent": "#3aa655",
+    "note": "가설을 세우는 AI 과학자에서 말로 움직이는 빔라인, 자율 랩용 디지털 트윈, 무인 합성 플랫폼까지 실험실의 손이 차례로 기계로 넘어가고 있다.",
+    "sources": [
+      "https://phys.org/news/2026-09-ai-scientist-autonomously-generates-validates.html",
+      "https://techxplore.com/news/2026-10-agentic-ai-simple-language-ray.html",
+      "https://www.genengnews.com/topics/bioprocessing/hybrid-digital-twins-developed-for-future-autonomous-labs/",
+      "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 과학 · 10.01~10.20",
+      "thread": [
+        {
+          "d": "10.1",
+          "t": "AI 과학자",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.7",
+          "t": "말로 스캔",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.12",
+          "t": "디지털 트윈",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        },
+        {
+          "d": "10.20",
+          "t": "무인 합성",
+          "c": "#3aa655",
+          "s": "SCIENCE"
+        }
+      ],
+      "thread_note": "생각하는 AI가 실험 장비와 이어지면서 실험실이 스스로 돌기 시작했다",
+      "eyebrow": "흐름 · 과학",
+      "headline": "실험실이 스스로 돈다",
+      "body": "효모 실험, X-ray 빔라인, 바이오리액터, 합성 장치. 이어 보면 실험을 돌리는 손이 AI와 로봇으로 옮겨 가고 있다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.01",
+      "headline": "가설부터 해석까지 AI가",
+      "body": "찰머스공대 연구진의 AI 과학자는 효모를 두고 가설을 세우고 실험을 설계해 결과까지 해석했다. 사람 손을 거의 거치지 않았다.",
+      "foot": "2026.10.01",
+      "_src": "https://phys.org/news/2026-09-ai-scientist-autonomously-generates-validates.html",
+      "_id": "science-yeast-ai-scientist",
+      "media": "pipeline/media/science-yeast-ai-scientist.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.07",
+      "headline": "말 한마디로 X-ray 스캔",
+      "body": "Argonne의 에이전트형 AI는 \"고해상도로 매핑해\" 같은 요청만으로 데이터 수집·처리·분석을 맡는다. 사람 승인은 위험한 작업에만 구한다.",
+      "foot": "2026.10.07",
+      "_src": "https://techxplore.com/news/2026-10-agentic-ai-simple-language-ray.html",
+      "_id": "science-xray-agent",
+      "media": "pipeline/media/science-xray-agent.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.12",
+      "headline": "자율 랩, 80%쯤 왔다",
+      "body": "성균관대 연구진은 디지털 트윈으로 완전 자율 실험실을 노린다. 남은 20%는 제어 시스템과 로봇 연결이다.",
+      "foot": "2026.10.12",
+      "_src": "https://www.genengnews.com/topics/bioprocessing/hybrid-digital-twins-developed-for-future-autonomous-labs/",
+      "_id": "science-hybrid-digital-twin-autonomous-biolab",
+      "media": "pipeline/media/science-hybrid-digital-twin-autonomous-biolab.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.20",
+      "headline": "사람 없이 도는 합성 라인",
+      "body": "KAIST 연구팀의 무인 플랫폼은 로봇과 빛으로 퓨란 20여 종을 신약 골격으로 바꿨다. 규모를 키울 연속 생산도 보여 줬다.",
+      "foot": "2026.10.20",
+      "_src": "https://phys.org/news/2026-10-unmanned-synthesis-platform-robots-drug.html",
+      "_id": "science-kaist-photoflow",
+      "media": "pipeline/media/science-kaist-photoflow.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "AI를 썼나, 게임계의 꼬리표",
+    "date": "2026.10.20",
+    "section": "GAMES",
+    "accent": "#2ec5c5",
+    "note": "‘100% 사람이 짰다’는 포트부터 작가의 AI 누명, Blizzard의 부인, Steam의 no-AI 필터 요구까지 AI 사용 여부가 게임을 고르는 기준으로 떠올랐다.",
+    "sources": [
+      "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/",
+      "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342",
+      "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
+      "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 게임 · 09.29~10.20",
+      "thread": [
+        {
+          "d": "09.29",
+          "t": "사람 코드",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.9",
+          "t": "AI 누명",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.18",
+          "t": "부인 해명",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        },
+        {
+          "d": "10.20",
+          "t": "필터 요구",
+          "c": "#2ec5c5",
+          "s": "GAMES"
+        }
+      ],
+      "thread_note": "AI를 썼는지가 이제 만드는 쪽은 증명하고, 하는 쪽은 걸러 내려는 꼬리표가 됐다",
+      "eyebrow": "흐름 · 게임",
+      "headline": "AI 썼나, 이제 꼬리표다",
+      "body": "한 건씩 보면 해프닝이지만, 이어 보면 AI를 안 썼다는 증명과 AI 게임을 걸러 낼 장치가 함께 요구되고 있다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.09.29",
+      "headline": "‘100% 사람이 짰다’",
+      "body": "AI 바이브 코딩 포트가 쏟아지는 판에 비공식 슈퍼 마리오 갤럭시 PC 포트 팀은 사람이 짠 코드라는 점을 앞세운다.",
+      "foot": "2026.09.29",
+      "_src": "https://www.gamesradar.com/games/super-mario/an-unofficial-super-mario-galaxy-pc-port-is-in-the-works-with-the-developers-proudly-claiming-its-100-percent-coded-by-humans/",
+      "_id": "games-mario-galaxy-human-port",
+      "video": "pipeline/media/games-mario-galaxy-human-port.mp4"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.09",
+      "headline": "그린 사람에게 AI 누명",
+      "body": "아티스트 Loish는 Instagram에서 생성형 AI 사용 누명의 문제와 원작을 가려내는 법을 짚었다.",
+      "foot": "2026.10.09",
+      "_src": "https://kotaku.com/artist-accused-using-genai-ai-loish-instagram-deviantart-creatives-2000739342",
+      "_id": "games-loish-genai",
+      "media": "pipeline/media/games-loish-genai.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "Blizzard “AI 없다”",
+      "body": "Blizzard 직원들은 World of Warcraft: Forever 영상의 AI 사용 의혹을 부인했다. 대본·편집은 실제 팀원 몫이다.",
+      "foot": "2026.10.18",
+      "_src": "https://www.gamesradar.com/games/world-of-warcraft/accused-of-using-ai-in-world-of-warcraft-forever-videos-blizzard-employee-says-hell-nah-we-have-real-team-members/",
+      "_id": "games-wow-forever",
+      "media": "pipeline/media/games-wow-forever.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.20",
+      "headline": "Steam엔 no-AI 필터 요구",
+      "body": "Next Fest에 AI-made 데모가 쏟아지자 이용자들이 AI 게임을 걸러 낼 필터를 요구했다.",
+      "foot": "2026.10.20",
+      "_src": "https://www.ign.com/articles/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest-is-filled-with-slop",
+      "_id": "games-steam-noai-filter",
+      "media": "pipeline/media/games-steam-noai-filter.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

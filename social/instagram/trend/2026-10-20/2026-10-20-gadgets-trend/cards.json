@@ -1,0 +1,106 @@
+{
+ "meta": {
+  "issue": "휴머노이드, 몸값은 내리고 숙제는 학습",
+  "date": "2026.10.20",
+  "section": "GADGETS",
+  "accent": "#ff5a4d",
+  "note": "대여료 급락과 $400 로봇으로 몸값은 내려가는 사이, 남은 숙제인 학습을 두고 모델 기대와 현장 데이터 확보가 이어졌다.",
+  "sources": [
+   "https://www.notebookcheck.net/Humanoid-robot-rental-prices-crater-as-dedicated-exchanges-appear.1421009.0.html",
+   "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model",
+   "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+   "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
+  ]
+ },
+ "cards": [
+  {
+   "n": 1,
+   "kind": "thread",
+   "thread_badge": "이슈 트렌드",
+   "thread_cap": "4건 · 가젯 · 10.12~10.20",
+   "thread": [
+    {
+     "d": "10.12",
+     "t": "대여료 급락",
+     "c": "#ff5a4d",
+     "s": "GADGETS"
+    },
+    {
+     "d": "10.14",
+     "t": "GPT-7 기대",
+     "c": "#ff5a4d",
+     "s": "GADGETS"
+    },
+    {
+     "d": "10.19",
+     "t": "폰 두뇌",
+     "c": "#ff5a4d",
+     "s": "GADGETS"
+    },
+    {
+     "d": "10.20",
+     "t": "수리 데이터",
+     "c": "#ff5a4d",
+     "s": "GADGETS"
+    }
+   ],
+   "thread_note": "휴머노이드 몸은 싸지고, 이제 승부는 무엇을 배우느냐로 옮겨 간다",
+   "eyebrow": "흐름 · 가젯",
+   "headline": "로봇 몸은 싸지고, 남은 건 학습",
+   "body": "대여료, 시간표, 싼 몸체, 데이터 값. 하나씩 보면 각자 소식이지만 이어 보면 휴머노이드의 병목이 몸에서 학습으로 넘어가고 있다.",
+   "foot": "밀어서 보기 →"
+  },
+  {
+   "n": 2,
+   "kind": "photo",
+   "eyebrow": "2026.10.12",
+   "headline": "하루 대여료 289위안까지",
+   "body": "다섯 자릿수 위안이던 중국 휴머노이드 하루 대여료가 거래소가 생기며 1,000위안 아래로 내려갔다. 289위안짜리 매물까지 나왔다.",
+   "foot": "2026.10.12",
+   "_src": "https://www.notebookcheck.net/Humanoid-robot-rental-prices-crater-as-dedicated-exchanges-appear.1421009.0.html",
+   "_id": "humanoid-robot-rental-exchanges",
+   "media": "pipeline/media/humanoid-robot-rental-exchanges.jpg"
+  },
+  {
+   "n": 3,
+   "kind": "photo",
+   "eyebrow": "2026.10.14",
+   "headline": "숙제는 몸 아닌 두뇌",
+   "body": "Unitree CEO는 내년 GPT-7이 체화 지능의 문제를 풀 수도 있다고 봤다. 8월만 해도 10년이 걸릴 수 있다던 그였다.",
+   "foot": "2026.10.14",
+   "_src": "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model",
+   "_id": "gadgets-unitree-gpt7-robots",
+   "media": "src/alt-3-0.jpg"
+  },
+  {
+   "n": 4,
+   "kind": "photo",
+   "eyebrow": "2026.10.19",
+   "headline": "$50 폰을 두뇌로 쓰는 로봇",
+   "body": "UCLA의 오픈소스 PhoneBot은 폰을 뺀 하드웨어가 약 $400다. 센서 대신 스마트폰으로 걷고, 보행은 시뮬레이션 강화학습으로 익혔다.",
+   "foot": "2026.10.19",
+   "_src": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+   "_id": "gadgets-phonebot",
+   "media": "pipeline/media/gadgets-phonebot.png"
+  },
+  {
+   "n": 5,
+   "kind": "photo",
+   "eyebrow": "2026.10.20",
+   "headline": "학습 데이터에 값을 치른다",
+   "body": "AI 연구소 HUMXN은 배관·HVAC 수리비를 대신 내고, 기술자의 작업을 착용형 장비로 찍어 로봇 학습용 영상으로 모은다.",
+   "foot": "2026.10.20",
+   "_src": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning",
+   "_id": "gadgets-repair-robot-data",
+   "media": "pipeline/media/gadgets-repair-robot-data.jpg"
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

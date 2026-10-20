@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "issue": "AI 칩의 중국행, 열리는 문과 새는 틈",
+    "date": "2026.10.20",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "엔비디아 칩 반입을 검토하는 중국, 통제 대상 B300 서버에 돈을 댄 지방정부 금융사, 밀수를 징역형으로 막겠다는 대만까지 AI 칩의 중국행을 두고 문과 틈이 함께 드러났다.",
+    "sources": [
+      "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+      "https://www.yna.co.kr/view/AKR20261002135800009",
+      "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "3건 · 정책 · 09.29~10.20",
+      "thread": [
+        {
+          "d": "09.29",
+          "t": "반입 검토",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.3",
+          "t": "B300 자금",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.20",
+          "t": "대만 처벌",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "AI 칩이 중국으로 가는 문은 열리려 하고, 막힌 칩이 새는 틈을 막을 법은 이제야 나온다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "막힌 칩도 중국으로 간다",
+      "body": "반입 허용 검토, 금지 칩 자금 지원, 밀수 처벌. 하나씩 보면 무역 뉴스지만 이어 보면 수출통제의 구멍과 그 뒤늦은 수습이 보인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.09.29",
+      "headline": "중국, 엔비디아 칩 반입 검토",
+      "body": "중국 공업정보화부가 알리바바·바이트댄스에 엔비디아 RTX Pro 5500 구매 계획을 내라고 했다. 칩이 과하게 흘러갈 우려도 있다.",
+      "foot": "2026.09.29",
+      "_src": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
+      "_id": "politics-nvidia-china-chip-sales",
+      "media": "pipeline/media/politics-nvidia-china-chip-sales.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.03",
+      "headline": "허가 없인 못 파는 B300에 돈이",
+      "body": "블룸버그는 중국 지방정부 소유 금융사가 서버 700대 이상 구매에 30억위안 이상을 빌려줬다고 보도했다. B300 서버도 끼어 있었다.",
+      "foot": "2026.10.03",
+      "_src": "https://www.yna.co.kr/view/AKR20261002135800009",
+      "_id": "china-lgfv-nvidia-chips",
+      "media": "pipeline/media/china-lgfv-nvidia-chips.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.20",
+      "headline": "대만, 서버 밀수에 징역형",
+      "body": "대만이 AI 서버와 최신 칩을 수출 통제 품목에 넣는다. 중국행 밀수범은 최대 다섯 해 징역에 처해질 수 있다.",
+      "foot": "2026.10.20",
+      "_src": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
+      "_id": "politics-taiwan-server-exports",
+      "media": "pipeline/media/politics-taiwan-server-exports.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}
