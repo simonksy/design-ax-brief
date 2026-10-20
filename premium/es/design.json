@@ -8659,6 +8659,151 @@
           "x": "La salida en 4K y en 1080p 10-bit HDR, así como una API empresarial, todavía están por llegar y no forman parte del despliegue público completado. Pexo informa que una variante Kling 4.0 Flash entró en acceso anticipado limitado el 28 de septiembre para los suscriptores anuales del nivel más alto."
         }
       ]
+    },
+    "design/design-chatgpt-slides-decks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI amplía el papel de ChatGPT en el trabajo con ChatGPT Slides, una nueva función anunciada en sus notas de versión del 16 de octubre que permite crear, editar y colaborar en presentaciones de diapositivas directamente en la plataforma."
+        },
+        {
+          "t": "p",
+          "x": "Los usuarios pueden partir de una conversación existente, archivos subidos, un esquema o una presentación de muestra que oriente el diseño. ChatGPT convierte ese material en una presentación editable, genera imágenes personalizadas y ayuda a pulir textos, elementos visuales y gráficos; los usuarios también pueden editar los elementos por su cuenta o pedir cambios concretos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "Los miembros del equipo pueden editar la misma presentación a la vez y dejar comentarios compartidos, mientras ChatGPT ayuda a aplicar los comentarios y a mantener la coherencia de las diapositivas. Una presentación existente puede servir de referencia para que el resultado siga la identidad de marca establecida."
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "Las presentaciones terminadas pueden mostrarse en ChatGPT o exportarse a PowerPoint, PDF o Google Slides en la web, y siguen siendo editables. Slides se está desplegando para los usuarios elegibles de Pro, Business y Enterprise con acceso a Space, y conviene verificar las cifras y afirmaciones antes de presentar."
+        }
+      ]
+    },
+    "design/design-neural-concept-cad-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "La empresa suiza de ingeniería AI-native Neural Concept SA lanzó hoy Model Context Protocol Bridge para ayudar a los agentes de AI a operar herramientas comerciales de diseño asistido por computadora y de simulación, de modo que las grandes organizaciones de ingeniería automaticen los entornos de software con los que diseñan y simulan productos físicos."
+        },
+        {
+          "t": "p",
+          "x": "Fundada en 2019, Neural Concept atiende a OEMs de los sectores automotriz, aeroespacial, energético, electrónico, de semiconductores y de defensa. MCP Bridge da a los agentes de AI acceso a esas herramientas y al conocimiento de ingeniería necesario para usarlas, mientras las empresas conservan el control y la propiedad de su software y sus datos."
+        },
+        {
+          "t": "p",
+          "x": "“Por primera vez, el software que da forma a cada producto físico puede ser operado por AI a escala empresarial”, dijo el cofundador y CEO Pierre Baqué. En el caso de un cliente, un ingeniero que usaba MCP Bridge limpió la geometría de una llanta en tres minutos, frente a un día de forma manual."
+        },
+        {
+          "t": "p",
+          "x": "Preparar gemelos digitales listos para simulación puede llevar semanas; un agente de AI que trabaja en software CAE puede reducirlo a horas. “Los agentes de AI han cambiado por completo mi forma de trabajar”, dijo Ciro Alosa, ingeniero de diseño electromagnético de Traton SE, de Volkswagen Group."
+        }
+      ]
+    },
+    "design/design-dxo-viewpoint6-ai-masking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "¿Cuesta corregir edificios torcidos, se busca un efecto tilt-shift sin un objetivo especializado o la distorsión de barril estira a los sujetos en las esquinas del encuadre? DxO ha lanzado ViewPoint 6, la versión más reciente de su editor de fotos basado en geometría, y su función principal combina correcciones geométricas con máscaras con AI para ediciones locales y precisas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+          "cap": "Las subdivisiones de la malla ofrecen un control local mucho más fino en ViewPoint 6 (Imagen: DxO)"
+        },
+        {
+          "t": "p",
+          "x": "Las máscaras con AI de ReShape Fusion permiten enmascarar un objeto concreto, como un edificio alto, y corregir su geometría con independencia del resto de la foto, en lugar de corregir toda la imagen y recortarla. El usuario dibuja un cuadro de selección alrededor del sujeto; ViewPoint 6 lo enmascara y coloca encima una malla con puntos de control, con más opciones de subdivisión para un control local más fino."
+        },
+        {
+          "t": "p",
+          "x": "DxO insiste en que no se genera ninguna imagen con AI: “Reorganiza los componentes de la escena que captó el fotógrafo en lugar de recrearlos”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+          "cap": "Los ajustes geométricos locales de ViewPoint 6 permiten remodelar los rasgos faciales (Imagen: DxO)"
+        },
+        {
+          "t": "p",
+          "x": "Como software independiente, ViewPoint 6 ya abre archivos RAW (además de TIFF y JPEG) y también funciona como complemento de Photoshop, Lightroom Classic y DxO PhotoLab 10. Ya está disponible por $129.99 / £109.99, o $84.99 / £69.99 como actualización desde ViewPoint 5, con una prueba gratuita de 30 días."
+        }
+      ]
+    },
+    "design/design-anthropic-attention-bottleneck": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+          "cap": "Una amplia planta de oficinas donde una persona lee en un escritorio mientras decenas de pantallas a su alrededor se siguen llenando de trabajo nuevo que debe atender."
+        },
+        {
+          "t": "p",
+          "x": "El 16 de octubre, cuatro investigadores de Anthropic publicaron “How employment is changing at Anthropic”. Para agosto de 2026, los agentes dirigidos por empleados registraban seis horas por cada hora de trabajo de sus personas. Las sesiones de agentes pasaban cerca del 80% de su tiempo inactivas, esperando a una persona, e incluso para quienes no programan, leer todo lo que producían sus agentes llevaría más de media semana laboral. “Ese es el impuesto de lectura, y todo equipo con agentes lo pagará”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+          "cap": "Los agentes trabajan más que los humanos. No es una sorpresa."
+        },
+        {
+          "t": "p",
+          "x": "Patrick Neeman sostiene que este trabajo está convirtiendo a todos en gestores y propone siete pasos para que las personas sigan al mando del ciclo: medir el tiempo de lectura como un presupuesto de carga de página, clasificar las solicitudes de los agentes por gravedad, diseñar el paso de revisión, dejar las decisiones por escrito donde los agentes puedan encontrarlas, gestionar a los agentes, contratar por criterio y rediseñar los puestos de nivel inicial en torno a la revisión."
+        },
+        {
+          "t": "p",
+          "x": "La producción es cada vez más barata, mientras la atención humana sigue siendo fija. Diseñadores, investigadores y gerentes de producto definen qué muestran los agentes a las personas, cuándo interrumpen y cómo funciona la revisión, y el trabajo consiste en crear sistemas de criterio sobre qué merece atención."
+        }
+      ]
+    },
+    "design/design-gemini-notebook-cocreate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+          "cap": "Ilustración que muestra las nuevas funciones de revisión de presentaciones"
+        },
+        {
+          "t": "p",
+          "x": "A partir de los comentarios de los usuarios, Gemini Notebook ofrece ahora más control creativo de principio a fin en dos de sus formatos más populares: Slide Decks y Video Overviews. En lugar de saltar de una instrucción inicial directamente al resultado final, puede guiarte por el proceso de creación basándose directamente en tus fuentes."
+        },
+        {
+          "t": "p",
+          "x": "Si pides en el chat diapositivas o un resumen en video, Notebook sugiere temas para incluir. Una vez que confirmas, puedes orientar aún más el contenido y definir el estilo visual y el formato."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo interruptor Review va más allá: permite revisar el plan en el panel del estudio mediante “Review outline notes” para diapositivas o “Review producer notes” para video, y dar indicaciones —como añadir un resumen ejecutivo o cambiar el orden de una escena— antes de que se genere nada. Al seleccionar “Proceed” se produce el resultado final."
+        },
+        {
+          "t": "p",
+          "x": "Si ya sabes lo que quieres, dilo en la instrucción y Notebook pasa directamente a la revisión. Para un resultado rápido, omite el interruptor Review y genera como de costumbre. Las funciones de cocreación se están desplegando a nivel mundial para todos los usuarios de Gemini Notebook durante la próxima semana."
+        }
+      ]
     }
   }
 }

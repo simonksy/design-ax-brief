@@ -1,17 +1,1378 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "design",
   "cards": [
     {
-      "id": "design-gemini-notebook-cocreate",
+      "id": "design-lightroom-open-eyes-tap",
+      "source_lang": "en",
+      "tool": "KeyShot",
+      "eyebrow": "AI NEWS",
+      "headline": "Lightroom 모바일\n탭 한 번에 감은 눈 뜬다",
+      "body": "Lightroom Open Eyes는 생성형 AI와 본인 사진으로 눈을 맞춘다.",
+      "mini_headline": "Lightroom, 감은 눈을 뜨게 한다",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-actions-open-eyes",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+            "cap": "모바일 앱이 사진에서 감은 눈을 찾아내면 새 Open Eyes Quick Action 도구가 뜬다."
+          },
+          {
+            "t": "p",
+            "x": "Adobe는 어제 iOS, iPadOS, Android용 Lightroom 모바일 버전에서 생성형 AI로 사진 속 감은 눈을 탭 한 번에 뜨게 할 수 있다고 발표했다. 사진 속 한 사람이든 여러 사람이든 눈을 감은 게 감지되면 앱이 새 Open Eyes Quick Action을 자동으로 띄운다. 이미지 위에 아이콘으로 나타나니 바로 쓰면 된다."
+          },
+          {
+            "t": "p",
+            "x": "피사체의 눈을 뜨게 해 잘 나온 사진을 살리는 기능은 Adobe Photoshop Elements에 거의 십 년 전부터 있었다. 다만 DPReview가 짚었듯 Elements는 피사체의 다른 사진에서 눈을 가져오는 방식이라, 두 이미지가 얼마나 다르냐에 따라 결과가 들쭉날쭉했다. Lightroom 모바일의 Open Eyes는 생성형 AI로 새 눈을 조명과 포즈에 맞춘다. Lightroom 라이브러리에 있는 같은 인물의 다른 사진도 참고해 눈 색과 크기, 모양까지 본인과 정확히 맞춘다."
+          },
+          {
+            "t": "img",
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+          },
+          {
+            "t": "p",
+            "x": "Photoshop 같은 다른 Adobe 앱에서도 자체 생성형 AI 도구로 비슷하게 고칠 수는 있지만, 탭 한 번으로 끝나지 않고 무료도 아니다. DPReview에 따르면 Lightroom 모바일 앱 무료 버전 사용자는 Open Eyes를 두 번 써 볼 수 있다. 그 뒤로는 각종 AI-powered 도구에 쓸 크레딧이 더 들어 있는 Adobe Creative Cloud 플랜 구독 안내가 뜬다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Lightroom mobile opens\nclosed eyes in one tap",
+          "body": "Lightroom mobile's one-tap Open Eyes uses generative AI and other shots of the same person to match their eyes.",
+          "mini_headline": "Lightroom opens closed eyes",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+                "cap": "When the mobile app detects closed eyes in a photo it will present users with a new Open Eyes Quick Action tool."
+              },
+              {
+                "t": "p",
+                "x": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature."
+              },
+              {
+                "t": "p",
+                "x": "Being able to easily save an otherwise great photo by opening a subject’s eyes has been a feature in Adobe’s Photoshop Elements for nearly a decade, but as DPReview points out, Elements sources the replacement from another photo of the subject with mixed results depending on variations between the two images. Open Eyes in Lightroom mobile instead relies on generative AI so the replacement eyes match the lighting and pose, and the app will use other images of the same person in your Lightroom library as reference so the open eyes will accurately match the color, size, and shape of their own."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "You can perform a similar fix in other Adobe apps like Photoshop using its own generative AI tools, but it’s not a one-tap fix, and it’s not free. Those using the free version of the Lightroom mobile app can try the Open Eyes feature twice before they’re given a prompt to subscribe to an Adobe Creative Cloud plan that includes more credits for its various AI-powered tools, according to DPReview."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Lightroom 모바일\n탭 한 번에 감은 눈 뜬다",
+          "body": "Lightroom Open Eyes는 생성형 AI와 본인 사진으로 눈을 맞춘다.",
+          "mini_headline": "Lightroom, 감은 눈을 뜨게 한다",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+                "cap": "모바일 앱이 사진에서 감은 눈을 찾아내면 새 Open Eyes Quick Action 도구가 뜬다."
+              },
+              {
+                "t": "p",
+                "x": "Adobe는 어제 iOS, iPadOS, Android용 Lightroom 모바일 버전에서 생성형 AI로 사진 속 감은 눈을 탭 한 번에 뜨게 할 수 있다고 발표했다. 사진 속 한 사람이든 여러 사람이든 눈을 감은 게 감지되면 앱이 새 Open Eyes Quick Action을 자동으로 띄운다. 이미지 위에 아이콘으로 나타나니 바로 쓰면 된다."
+              },
+              {
+                "t": "p",
+                "x": "피사체의 눈을 뜨게 해 잘 나온 사진을 살리는 기능은 Adobe Photoshop Elements에 거의 십 년 전부터 있었다. 다만 DPReview가 짚었듯 Elements는 피사체의 다른 사진에서 눈을 가져오는 방식이라, 두 이미지가 얼마나 다르냐에 따라 결과가 들쭉날쭉했다. Lightroom 모바일의 Open Eyes는 생성형 AI로 새 눈을 조명과 포즈에 맞춘다. Lightroom 라이브러리에 있는 같은 인물의 다른 사진도 참고해 눈 색과 크기, 모양까지 본인과 정확히 맞춘다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Photoshop 같은 다른 Adobe 앱에서도 자체 생성형 AI 도구로 비슷하게 고칠 수는 있지만, 탭 한 번으로 끝나지 않고 무료도 아니다. DPReview에 따르면 Lightroom 모바일 앱 무료 버전 사용자는 Open Eyes를 두 번 써 볼 수 있다. 그 뒤로는 각종 AI-powered 도구에 쓸 크레딧이 더 들어 있는 Adobe Creative Cloud 플랜 구독 안내가 뜬다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Lightroomモバイル\n閉じた目をワンタップで開く",
+          "body": "LightroomのOpen Eyesは生成AIと同じ人物の別写真を使い目を合わせる。",
+          "mini_headline": "Lightroom、閉じた目を開く",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+                "cap": "モバイルアプリは写真内の閉じた目を検出すると、新しいOpen Eyes Quick Actionツールを表示する。"
+              },
+              {
+                "t": "p",
+                "x": "Adobeは昨日、iOS、iPadOS、Android向けのLightroomモバイル版で、生成AIを使い写真の閉じた目をワンタップで開けるようになったと発表した。写真の中で一人または複数の人が目を閉じているとアプリが検出すると、新しいOpen Eyes Quick Actionが画像上にアイコンとして自動で表示され、新機能にすぐアクセスできる。"
+              },
+              {
+                "t": "p",
+                "x": "被写体の目を開いて、せっかくの良い写真を救う機能は、AdobeのPhotoshop Elementsに十年近く前からある。ただDPReviewが指摘するように、Elementsは被写体の別の写真から差し替え用の目を持ってくるため、二枚の画像の違いによって仕上がりにばらつきがあった。LightroomモバイルのOpen Eyesは代わりに生成AIを使い、差し替えた目が照明やポーズに合うようにする。さらにLightroomライブラリにある同じ人物の他の画像を参照し、目の色、大きさ、形をその人本来のものに正確に合わせる。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "PhotoshopなどほかのAdobeアプリでも独自の生成AIツールで同様の修正はできるが、ワンタップでは済まず、無料でもない。DPReviewによると、Lightroomモバイルアプリの無料版ユーザーはOpen Eyesを二回試すことができ、その後はさまざまなAI-poweredツール用のクレジットを多く含むAdobe Creative Cloudプランへの加入を促される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Lightroom移动版\n一键睁开闭上的眼睛",
+          "body": "Lightroom移动端Open Eyes借助生成式AI与同一人物其他照片匹配眼睛。",
+          "mini_headline": "Lightroom可睁开闭眼",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+                "cap": "当移动应用检测到照片中有人闭眼时，会向用户显示全新的Open Eyes Quick Action工具。"
+              },
+              {
+                "t": "p",
+                "x": "Adobe昨天宣布，适用于iOS、iPadOS和Android的Lightroom移动版现在可借助生成式AI，一键睁开照片中闭上的眼睛。当应用检测到照片中有一人或多人闭眼时，会自动显示新的Open Eyes Quick Action，以图标形式出现在图像上方，方便用户使用这项新功能。"
+              },
+              {
+                "t": "p",
+                "x": "通过睁开主体的眼睛来挽救一张原本很好的照片，这一功能在Adobe的Photoshop Elements中已存在近十年。但正如DPReview所指出的，Elements从主体的另一张照片中提取替换的眼睛，效果取决于两张图像之间的差异，好坏不一。Lightroom移动版的Open Eyes则依靠生成式AI，使替换的眼睛与光线和姿态相符，并会参考用户Lightroom图库中同一人物的其他图像，让睁开的眼睛在颜色、大小和形状上与本人准确一致。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "在Photoshop等其他Adobe应用中，也可以用其自带的生成式AI工具进行类似修复，但无法一键完成，也不免费。据DPReview报道，Lightroom移动应用免费版用户可试用两次Open Eyes功能，之后会收到提示，订阅包含更多各类AI-powered工具额度的Adobe Creative Cloud方案。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Lightroom para móviles abre\nlos ojos cerrados con un toque",
+          "body": "Open Eyes de Lightroom para móviles usa AI generativa y otras fotos de la misma persona para igualar sus ojos.",
+          "mini_headline": "Lightroom abre los ojos cerrados",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+                "cap": "Cuando la app móvil detecta ojos cerrados en una foto, muestra a los usuarios la nueva herramienta Open Eyes Quick Action."
+              },
+              {
+                "t": "p",
+                "x": "Adobe anunció ayer que la versión móvil de Lightroom, disponible para iOS, iPadOS y Android, ya puede abrir los ojos cerrados en las fotos con AI generativa y un solo toque. Cuando la app detecta que una persona o un grupo de personas tiene los ojos cerrados en una foto, muestra automáticamente la nueva Open Eyes Quick Action, que aparece como un icono sobre la imagen y da acceso directo a la nueva función."
+              },
+              {
+                "t": "p",
+                "x": "Salvar con facilidad una foto que por lo demás es buena abriendo los ojos del sujeto es algo que Photoshop Elements de Adobe ofrece desde hace casi una década, pero, como señala DPReview, Elements toma el reemplazo de otra foto del sujeto, con resultados desiguales según las diferencias entre ambas imágenes. Open Eyes en Lightroom para móviles recurre en cambio a la AI generativa para que los ojos de reemplazo coincidan con la iluminación y la pose, y la app usa otras imágenes de la misma persona en la biblioteca de Lightroom como referencia para que los ojos abiertos coincidan con precisión en color, tamaño y forma con los suyos."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Se puede hacer un arreglo similar en otras apps de Adobe como Photoshop con sus propias herramientas de AI generativa, pero no se resuelve con un toque y no es gratis. Según DPReview, quienes usan la versión gratuita de la app móvil de Lightroom pueden probar Open Eyes dos veces antes de recibir una invitación a suscribirse a un plan de Adobe Creative Cloud que incluye más créditos para sus diversas herramientas AI-powered."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Lightroom 모바일\n탭 한 번에 감은 눈 뜬다",
+          "body": "Lightroom Open Eyes는 생성형 AI와 본인 사진으로 눈을 맞춘다.",
+          "mini_headline": "Lightroom, 감은 눈을 뜨게 한다",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+                "cap": "모바일 앱은 사진 속 감은 눈을 감지하면 새 Open Eyes Quick Action 도구를 띄운다."
+              },
+              {
+                "t": "p",
+                "x": "Adobe는 어제 iOS, iPadOS, Android용 Lightroom 모바일 버전이 생성형 AI로 사진 속 감은 눈을 탭 한 번에 뜨게 할 수 있다고 발표했다. 앱은 사진 속 한 사람 또는 여러 사람이 눈을 감은 것을 감지하면 새 Open Eyes Quick Action을 자동으로 띄운다. 이 기능은 이미지 위 아이콘으로 나타나 바로 쓸 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "피사체의 눈을 뜨게 해 잘 나온 사진을 살리는 기능은 Adobe Photoshop Elements에 거의 십 년 동안 있었다. 하지만 DPReview가 지적하듯 Elements는 피사체의 다른 사진에서 눈을 가져오기 때문에 두 이미지의 차이에 따라 결과가 들쭉날쭉했다. Lightroom 모바일의 Open Eyes는 생성형 AI를 써서 새 눈이 조명과 포즈에 맞도록 한다. 또 Lightroom 라이브러리에 있는 같은 인물의 다른 사진을 참고해 눈의 색과 크기, 모양까지 본인과 정확히 맞춘다."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Photoshop 같은 다른 Adobe 앱에서도 자체 생성형 AI 도구로 비슷하게 고칠 수 있지만, 탭 한 번으로 끝나지 않고 무료도 아니다. DPReview에 따르면 Lightroom 모바일 앱 무료 버전 사용자는 Open Eyes를 두 번 써 볼 수 있고, 그 뒤에는 각종 AI-powered 도구용 크레딧이 더 포함된 Adobe Creative Cloud 플랜 구독 안내를 받는다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Lightroomモバイル\n閉じた目をワンタップで開く",
+          "body": "LightroomのOpen Eyesは生成AIと同じ人物の別写真を使い目を合わせる。",
+          "mini_headline": "Lightroom、閉じた目を開く",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+                "cap": "モバイルアプリは写真内の閉じた目を検出すると、新しいOpen Eyes Quick Actionツールを表示する。"
+              },
+              {
+                "t": "p",
+                "x": "Adobeは昨日、iOS、iPadOS、Android向けのLightroomモバイル版で、生成AIを使い写真の閉じた目をワンタップで開けるようになったと発表した。写真の中で一人または複数の人が目を閉じているとアプリが検出すると、新しいOpen Eyes Quick Actionが画像上にアイコンとして自動で表示され、新機能にすぐアクセスできる。"
+              },
+              {
+                "t": "p",
+                "x": "被写体の目を開いて、せっかくの良い写真を救う機能は、AdobeのPhotoshop Elementsに十年近く前からある。ただDPReviewが指摘するように、Elementsは被写体の別の写真から差し替え用の目を持ってくるため、二枚の画像の違いによって仕上がりにばらつきがあった。LightroomモバイルのOpen Eyesは代わりに生成AIを使い、差し替えた目が照明やポーズに合うようにする。さらにLightroomライブラリにある同じ人物の他の画像を参照し、目の色、大きさ、形をその人本来のものに正確に合わせる。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "PhotoshopなどほかのAdobeアプリでも独自の生成AIツールで同様の修正はできるが、ワンタップでは済まず、無料でもない。DPReviewによると、Lightroomモバイルアプリの無料版ユーザーはOpen Eyesを二回試すことができ、その後はさまざまなAI-poweredツール用のクレジットを多く含むAdobe Creative Cloudプランへの加入を促される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Lightroom移动版\n一键睁开闭上的眼睛",
+          "body": "Lightroom移动端Open Eyes借助生成式AI与同一人物其他照片匹配眼睛。",
+          "mini_headline": "Lightroom可睁开闭眼",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+                "cap": "当移动应用检测到照片中有人闭眼时，会向用户显示全新的Open Eyes Quick Action工具。"
+              },
+              {
+                "t": "p",
+                "x": "Adobe昨天宣布，适用于iOS、iPadOS和Android的Lightroom移动版现在可借助生成式AI，一键睁开照片中闭上的眼睛。当应用检测到照片中有一人或多人闭眼时，会自动显示新的Open Eyes Quick Action，以图标形式出现在图像上方，方便用户使用这项新功能。"
+              },
+              {
+                "t": "p",
+                "x": "通过睁开主体的眼睛来挽救一张原本很好的照片，这一功能在Adobe的Photoshop Elements中已存在近十年。但正如DPReview所指出的，Elements从主体的另一张照片中提取替换的眼睛，效果取决于两张图像之间的差异，好坏不一。Lightroom移动版的Open Eyes则依靠生成式AI，使替换的眼睛与光线和姿态相符，并会参考用户Lightroom图库中同一人物的其他图像，让睁开的眼睛在颜色、大小和形状上与本人准确一致。"
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "在Photoshop等其他Adobe应用中，也可以用其自带的生成式AI工具进行类似修复，但无法一键完成，也不免费。据DPReview报道，Lightroom移动应用免费版用户可试用两次Open Eyes功能，之后会收到提示，订阅包含更多各类AI-powered工具额度的Adobe Creative Cloud方案。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Lightroom para móviles abre\nlos ojos cerrados con un toque",
+          "body": "Open Eyes de Lightroom para móviles usa AI generativa y otras fotos de la misma persona para igualar sus ojos.",
+          "mini_headline": "Lightroom abre los ojos cerrados",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+                "cap": "Cuando la app móvil detecta ojos cerrados en una foto, muestra a los usuarios la nueva herramienta Open Eyes Quick Action."
+              },
+              {
+                "t": "p",
+                "x": "Adobe anunció ayer que la versión móvil de Lightroom, disponible para iOS, iPadOS y Android, ya puede abrir los ojos cerrados en las fotos con AI generativa y un solo toque. Cuando la app detecta que una persona o un grupo de personas tiene los ojos cerrados en una foto, muestra automáticamente la nueva Open Eyes Quick Action, que aparece como un icono sobre la imagen y da acceso directo a la nueva función."
+              },
+              {
+                "t": "p",
+                "x": "Salvar con facilidad una foto que por lo demás es buena abriendo los ojos del sujeto es algo que Photoshop Elements de Adobe ofrece desde hace casi una década, pero, como señala DPReview, Elements toma el reemplazo de otra foto del sujeto, con resultados desiguales según las diferencias entre ambas imágenes. Open Eyes en Lightroom para móviles recurre en cambio a la AI generativa para que los ojos de reemplazo coincidan con la iluminación y la pose, y la app usa otras imágenes de la misma persona en la biblioteca de Lightroom como referencia para que los ojos abiertos coincidan con precisión en color, tamaño y forma con los suyos."
+              },
+              {
+                "t": "img",
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+              },
+              {
+                "t": "p",
+                "x": "Se puede hacer un arreglo similar en otras apps de Adobe como Photoshop con sus propias herramientas de AI generativa, pero no se resuelve con un toque y no es gratis. Según DPReview, quienes usan la versión gratuita de la app móvil de Lightroom pueden probar Open Eyes dos veces antes de recibir una invitación a suscribirse a un plan de Adobe Creative Cloud que incluye más créditos para sus diversas herramientas AI-powered."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-chatgpt-slides-decks",
+      "source_lang": "en",
+      "tool": "Figma",
+      "eyebrow": "AI NEWS",
+      "headline": "ChatGPT Slides\n채팅에서 덱 만들고 발표",
+      "body": "ChatGPT Slides가 대화로 만든 덱을 PowerPoint로 내보낸다.",
+      "mini_headline": "ChatGPT Slides로 덱 제작",
+      "source": "Digital Trends",
+      "url": "https://www.digitaltrends.com/computing/chatgpt-wants-to-steal-your-job-as-the-office-powerpoint-person/",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+          },
+          {
+            "t": "p",
+            "x": "OpenAI가 ChatGPT Slides를 내놓으며 업무 현장에서 ChatGPT가 맡는 역할을 넓힌다. 10월 16일 릴리스 노트에서 공개한 새 기능으로, 사용자는 플랫폼 안에서 바로 슬라이드 덱을 만들고 편집하며 함께 작업한다."
+          },
+          {
+            "t": "p",
+            "x": "출발점은 기존 대화나 업로드한 파일, 개요, 디자인 방향을 잡아 줄 샘플 프레젠테이션이다. ChatGPT는 이 자료로 편집 가능한 덱을 만들고 맞춤 이미지를 생성하며, 텍스트와 시각 요소, 차트 다듬기를 돕는다. 요소를 직접 고치거나 구체적인 수정을 요청해도 된다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+          },
+          {
+            "t": "p",
+            "x": "팀원들은 같은 프레젠테이션을 동시에 편집하고 공유 댓글을 남긴다. ChatGPT는 피드백을 반영하고 슬라이드끼리 일관성을 지키도록 돕는다. 기존 덱을 참고 자료로 넣으면 결과물도 기존 브랜딩을 따른다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+          },
+          {
+            "t": "p",
+            "x": "완성한 덱은 ChatGPT에서 바로 발표하거나 PowerPoint, PDF, 웹의 Google Slides로 내보낼 수 있고, 내보낸 뒤에도 편집할 수 있다. Slides는 Space 접근 권한이 있는 Pro, Business, Enterprise 대상 사용자에게 차례로 제공된다. 발표 전에 수치와 주장을 검증하는 일은 여전히 필요하다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "ChatGPT Slides builds\nand presents decks in chat",
+          "body": "ChatGPT Slides turns chats, files or outlines into editable decks with live co-editing and PowerPoint export.",
+          "mini_headline": "ChatGPT Slides builds decks",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI is expanding ChatGPT’s role in the workplace with ChatGPT Slides, a new feature announced in its October 16 release notes that lets users create, edit, and collaborate on slide decks directly within the platform."
+              },
+              {
+                "t": "p",
+                "x": "Users can start with an existing conversation, uploaded files, an outline, or a sample presentation that guides the design. ChatGPT turns that material into an editable deck, generates custom images, and helps refine text, visuals, and charts; users can also edit elements themselves or ask for specific changes."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "Teammates can edit the same presentation simultaneously and leave shared comments, while ChatGPT helps implement feedback and keep slides consistent. An existing deck can serve as a reference so output follows established branding."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "Finished decks can be presented in ChatGPT or exported to PowerPoint, PDF, or Google Slides on the web, and stay editable. Slides is rolling out to eligible Pro, Business, and Enterprise users with Space access, and figures and claims should still be verified before presenting."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ChatGPT Slides\n채팅에서 덱 만들고 발표",
+          "body": "ChatGPT Slides가 대화로 만든 덱을 PowerPoint로 내보낸다.",
+          "mini_headline": "ChatGPT Slides로 덱 제작",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI가 ChatGPT Slides를 내놓으며 업무 현장에서 ChatGPT가 맡는 역할을 넓힌다. 10월 16일 릴리스 노트에서 공개한 새 기능으로, 사용자는 플랫폼 안에서 바로 슬라이드 덱을 만들고 편집하며 함께 작업한다."
+              },
+              {
+                "t": "p",
+                "x": "출발점은 기존 대화나 업로드한 파일, 개요, 디자인 방향을 잡아 줄 샘플 프레젠테이션이다. ChatGPT는 이 자료로 편집 가능한 덱을 만들고 맞춤 이미지를 생성하며, 텍스트와 시각 요소, 차트 다듬기를 돕는다. 요소를 직접 고치거나 구체적인 수정을 요청해도 된다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "팀원들은 같은 프레젠테이션을 동시에 편집하고 공유 댓글을 남긴다. ChatGPT는 피드백을 반영하고 슬라이드끼리 일관성을 지키도록 돕는다. 기존 덱을 참고 자료로 넣으면 결과물도 기존 브랜딩을 따른다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "완성한 덱은 ChatGPT에서 바로 발표하거나 PowerPoint, PDF, 웹의 Google Slides로 내보낼 수 있고, 내보낸 뒤에도 편집할 수 있다. Slides는 Space 접근 권한이 있는 Pro, Business, Enterprise 대상 사용자에게 차례로 제공된다. 발표 전에 수치와 주장을 검증하는 일은 여전히 필요하다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ChatGPT Slides\nチャットでデッキ作成と発表",
+          "body": "ChatGPT Slidesは会話からデッキを作り、PowerPointに書き出す。",
+          "mini_headline": "ChatGPT Slidesでデッキ作成",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIはChatGPT Slidesで、職場におけるChatGPTの役割を広げる。10月16日のリリースノートで発表された新機能で、ユーザーはプラットフォーム内で直接スライドデッキを作成、編集し、共同作業できる。"
+              },
+              {
+                "t": "p",
+                "x": "既存の会話、アップロードしたファイル、アウトライン、またはデザインの方向性を示すサンプルのプレゼンテーションから始められる。ChatGPTはその素材を編集可能なデッキに変え、独自の画像を生成し、テキスト、ビジュアル、チャートの調整を手伝う。ユーザーが自分で要素を編集したり、具体的な変更を依頼したりすることもできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "チームメンバーは同じプレゼンテーションを同時に編集し、共有コメントを残せる。ChatGPTはフィードバックの反映やスライドの一貫性の維持を支援する。既存のデッキを参照として使えば、出力は確立されたブランディングに沿う。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "完成したデッキはChatGPT内で発表するか、PowerPoint、PDF、またはウェブ版Google Slidesに書き出すことができ、編集可能なまま保たれる。SlidesはSpaceへのアクセス権を持つ対象のPro、Business、Enterpriseユーザーに順次提供されており、発表前には引き続き数値や主張を確認する必要がある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ChatGPT Slides\n在对话中制作并演示",
+          "body": "ChatGPT Slides将对话或文件变成可编辑幻灯片并导出PowerPoint。",
+          "mini_headline": "ChatGPT Slides制作幻灯片",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI推出ChatGPT Slides，扩大ChatGPT在职场中的作用。这项新功能在其10月16日的发布说明中公布，用户可直接在平台内创建、编辑幻灯片并协作。"
+              },
+              {
+                "t": "p",
+                "x": "用户可以从已有对话、上传的文件、大纲或用于引导设计的示例演示文稿开始。ChatGPT会把这些素材变成可编辑的幻灯片，生成定制图像，并帮助完善文字、视觉元素和图表；用户也可以自行编辑元素或提出具体修改要求。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "团队成员可以同时编辑同一份演示文稿并留下共享评论，ChatGPT则协助落实反馈、保持幻灯片风格一致。已有的幻灯片可作为参考，使输出遵循既定品牌规范。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "完成的幻灯片可以在ChatGPT中直接演示，也可导出为PowerPoint、PDF或网页版Google Slides，并保持可编辑。Slides正在向拥有Space访问权限的符合条件的Pro、Business和Enterprise用户逐步推出；演示前仍应核实其中的数据和论断。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "ChatGPT Slides crea y expone\npresentaciones desde el chat",
+          "body": "ChatGPT Slides convierte chats o archivos en presentaciones editables, con coedición y exportación a PowerPoint.",
+          "mini_headline": "ChatGPT Slides crea presentaciones",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI amplía el papel de ChatGPT en el trabajo con ChatGPT Slides, una nueva función anunciada en sus notas de versión del 16 de octubre que permite crear, editar y colaborar en presentaciones de diapositivas directamente en la plataforma."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios pueden partir de una conversación existente, archivos subidos, un esquema o una presentación de muestra que oriente el diseño. ChatGPT convierte ese material en una presentación editable, genera imágenes personalizadas y ayuda a pulir textos, elementos visuales y gráficos; los usuarios también pueden editar los elementos por su cuenta o pedir cambios concretos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "Los miembros del equipo pueden editar la misma presentación a la vez y dejar comentarios compartidos, mientras ChatGPT ayuda a aplicar los comentarios y a mantener la coherencia de las diapositivas. Una presentación existente puede servir de referencia para que el resultado siga la identidad de marca establecida."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "Las presentaciones terminadas pueden mostrarse en ChatGPT o exportarse a PowerPoint, PDF o Google Slides en la web, y siguen siendo editables. Slides se está desplegando para los usuarios elegibles de Pro, Business y Enterprise con acceso a Space, y conviene verificar las cifras y afirmaciones antes de presentar."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "ChatGPT Slides\n채팅에서 덱 만들고 발표",
+          "body": "ChatGPT Slides가 대화로 만든 덱을 PowerPoint로 내보낸다.",
+          "mini_headline": "ChatGPT Slides로 덱 제작",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI가 ChatGPT Slides로 업무 현장에서 ChatGPT의 역할을 넓힌다. 10월 16일 릴리스 노트에서 발표한 새 기능으로, 사용자는 플랫폼 안에서 바로 슬라이드 덱을 만들고 편집하고 함께 작업할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "기존 대화나 업로드한 파일, 개요, 디자인 방향을 잡아 줄 샘플 프레젠테이션에서 시작할 수 있다. ChatGPT는 이 자료를 편집 가능한 덱으로 바꾸고 맞춤 이미지를 생성하며, 텍스트와 시각 요소, 차트를 다듬도록 돕는다. 사용자가 직접 요소를 고치거나 구체적인 수정을 요청할 수도 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "팀원들은 같은 프레젠테이션을 동시에 편집하고 공유 댓글을 남길 수 있으며, ChatGPT는 피드백 반영과 슬라이드 일관성 유지를 돕는다. 기존 덱을 참고 자료로 쓰면 결과물이 기존 브랜딩을 따른다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "완성한 덱은 ChatGPT에서 바로 발표하거나 PowerPoint, PDF, 웹의 Google Slides로 내보낼 수 있고, 내보낸 뒤에도 편집할 수 있다. Slides는 Space 접근 권한이 있는 Pro, Business, Enterprise 대상 사용자에게 순차 제공되며, 발표 전에는 여전히 수치와 주장을 검증해야 한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ChatGPT Slides\nチャットでデッキ作成と発表",
+          "body": "ChatGPT Slidesは会話からデッキを作り、PowerPointに書き出す。",
+          "mini_headline": "ChatGPT Slidesでデッキ作成",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIはChatGPT Slidesで、職場におけるChatGPTの役割を広げる。10月16日のリリースノートで発表された新機能で、ユーザーはプラットフォーム内で直接スライドデッキを作成、編集し、共同作業できる。"
+              },
+              {
+                "t": "p",
+                "x": "既存の会話、アップロードしたファイル、アウトライン、またはデザインの方向性を示すサンプルのプレゼンテーションから始められる。ChatGPTはその素材を編集可能なデッキに変え、独自の画像を生成し、テキスト、ビジュアル、チャートの調整を手伝う。ユーザーが自分で要素を編集したり、具体的な変更を依頼したりすることもできる。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "チームメンバーは同じプレゼンテーションを同時に編集し、共有コメントを残せる。ChatGPTはフィードバックの反映やスライドの一貫性の維持を支援する。既存のデッキを参照として使えば、出力は確立されたブランディングに沿う。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "完成したデッキはChatGPT内で発表するか、PowerPoint、PDF、またはウェブ版Google Slidesに書き出すことができ、編集可能なまま保たれる。SlidesはSpaceへのアクセス権を持つ対象のPro、Business、Enterpriseユーザーに順次提供されており、発表前には引き続き数値や主張を確認する必要がある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ChatGPT Slides\n在对话中制作并演示",
+          "body": "ChatGPT Slides将对话或文件变成可编辑幻灯片并导出PowerPoint。",
+          "mini_headline": "ChatGPT Slides制作幻灯片",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI推出ChatGPT Slides，扩大ChatGPT在职场中的作用。这项新功能在其10月16日的发布说明中公布，用户可直接在平台内创建、编辑幻灯片并协作。"
+              },
+              {
+                "t": "p",
+                "x": "用户可以从已有对话、上传的文件、大纲或用于引导设计的示例演示文稿开始。ChatGPT会把这些素材变成可编辑的幻灯片，生成定制图像，并帮助完善文字、视觉元素和图表；用户也可以自行编辑元素或提出具体修改要求。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "团队成员可以同时编辑同一份演示文稿并留下共享评论，ChatGPT则协助落实反馈、保持幻灯片风格一致。已有的幻灯片可作为参考，使输出遵循既定品牌规范。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "完成的幻灯片可以在ChatGPT中直接演示，也可导出为PowerPoint、PDF或网页版Google Slides，并保持可编辑。Slides正在向拥有Space访问权限的符合条件的Pro、Business和Enterprise用户逐步推出；演示前仍应核实其中的数据和论断。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "ChatGPT Slides crea y expone\npresentaciones desde el chat",
+          "body": "ChatGPT Slides convierte chats o archivos en presentaciones editables, con coedición y exportación a PowerPoint.",
+          "mini_headline": "ChatGPT Slides crea presentaciones",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI amplía el papel de ChatGPT en el trabajo con ChatGPT Slides, una nueva función anunciada en sus notas de versión del 16 de octubre que permite crear, editar y colaborar en presentaciones de diapositivas directamente en la plataforma."
+              },
+              {
+                "t": "p",
+                "x": "Los usuarios pueden partir de una conversación existente, archivos subidos, un esquema o una presentación de muestra que oriente el diseño. ChatGPT convierte ese material en una presentación editable, genera imágenes personalizadas y ayuda a pulir textos, elementos visuales y gráficos; los usuarios también pueden editar los elementos por su cuenta o pedir cambios concretos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "Los miembros del equipo pueden editar la misma presentación a la vez y dejar comentarios compartidos, mientras ChatGPT ayuda a aplicar los comentarios y a mantener la coherencia de las diapositivas. Una presentación existente puede servir de referencia para que el resultado siga la identidad de marca establecida."
+              },
+              {
+                "t": "img",
+                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+              },
+              {
+                "t": "p",
+                "x": "Las presentaciones terminadas pueden mostrarse en ChatGPT o exportarse a PowerPoint, PDF o Google Slides en la web, y siguen siendo editables. Slides se está desplegando para los usuarios elegibles de Pro, Business y Enterprise con acceso a Space, y conviene verificar las cifras y afirmaciones antes de presentar."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-neural-concept-cad-mcp",
+      "source_lang": "en",
+      "tool": "Text-to-CAD",
+      "eyebrow": "AI NEWS",
+      "headline": "Neural Concept\nAI가 CAD 쓰는 MCP",
+      "body": "Neural Concept MCP Bridge로 AI가 CAD 도구를 다룬다.",
+      "mini_headline": "AI 에이전트가 CAD를 다룬다",
+      "source": "SiliconANGLE",
+      "url": "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+          },
+          {
+            "t": "p",
+            "x": "스위스의 AI-native 엔지니어링 기업 Neural Concept SA가 오늘 Model Context Protocol Bridge를 출시했다. AI 에이전트가 상용 컴퓨터 지원 설계·시뮬레이션 도구를 다루게 해 주는 제품이다. 대형 엔지니어링 조직은 실물 제품 설계와 시뮬레이션에 쓰는 소프트웨어 환경을 이 제품으로 자동화할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "2019년 설립된 Neural Concept의 고객은 자동차, 항공우주, 에너지, 전자, 반도체, 방위 산업의 OEMs다. MCP Bridge는 AI 에이전트에 이 도구들과 함께 도구를 다루는 데 필요한 엔지니어링 노하우를 넘겨준다. 소프트웨어와 데이터의 통제권과 소유권은 기업이 그대로 쥔다."
+          },
+          {
+            "t": "p",
+            "x": "공동 창업자이자 CEO인 Pierre Baqué는 “모든 실물 제품을 만드는 소프트웨어를 처음으로 AI가 엔터프라이즈 규모로 운용할 수 있게 됐다”고 말했다. 한 고객 사례에서는 MCP Bridge를 쓴 엔지니어가 휠 림 형상을 삼 분 만에 정리했다. 손으로 하면 하루가 걸리던 일이다."
+          },
+          {
+            "t": "p",
+            "x": "시뮬레이션에 바로 쓸 디지털 트윈을 준비하는 데 몇 주가 걸리기도 하는데, CAE 소프트웨어 안에서 일하는 AI 에이전트라면 이를 몇 시간으로 줄일 수 있다. Volkswagen Group의 Traton SE에서 전자기 설계 엔지니어로 일하는 Ciro Alosa는 “AI 에이전트가 내 일하는 방식을 완전히 바꿨다”고 말했다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Neural Concept's MCP lets\nAI agents drive CAD tools",
+          "body": "Neural Concept's MCP Bridge lets AI agents run CAD and simulation tools, automating geometry cleanup and meshing.",
+          "mini_headline": "AI agents drive CAD tools",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "Switzerland-based AI-native engineering company Neural Concept SA today launched Model Context Protocol Bridge to help AI agents operate commercial computer-aided design and simulation tools, helping large engineering organizations automate the software environments used to design and simulate physical products."
+              },
+              {
+                "t": "p",
+                "x": "Founded in 2019, Neural Concept serves OEMs in automotive, aerospace, energy, electronics, semiconductors and defense. MCP Bridge gives AI agents access to those tools and the engineering know-how to use them, while companies retain control and ownership of their software and data."
+              },
+              {
+                "t": "p",
+                "x": "“For the first time, the software that shapes every physical product can be operated by AI at enterprise scale,” said co-founder and CEO Pierre Baqué. In one customer case, an engineer using MCP Bridge cleaned up the geometry of a wheel rim in three minutes, compared with a day manually."
+              },
+              {
+                "t": "p",
+                "x": "Preparing simulation-ready digital twins can take weeks; an AI agent working in CAE software can cut that to hours. “AI agents have completely changed the way I work,” said Ciro Alosa, an electromagnetic design engineer at Volkswagen Group’s Traton SE."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Neural Concept\nAI가 CAD 쓰는 MCP",
+          "body": "Neural Concept MCP Bridge로 AI가 CAD 도구를 다룬다.",
+          "mini_headline": "AI 에이전트가 CAD를 다룬다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "스위스의 AI-native 엔지니어링 기업 Neural Concept SA가 오늘 Model Context Protocol Bridge를 출시했다. AI 에이전트가 상용 컴퓨터 지원 설계·시뮬레이션 도구를 다루게 해 주는 제품이다. 대형 엔지니어링 조직은 실물 제품 설계와 시뮬레이션에 쓰는 소프트웨어 환경을 이 제품으로 자동화할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "2019년 설립된 Neural Concept의 고객은 자동차, 항공우주, 에너지, 전자, 반도체, 방위 산업의 OEMs다. MCP Bridge는 AI 에이전트에 이 도구들과 함께 도구를 다루는 데 필요한 엔지니어링 노하우를 넘겨준다. 소프트웨어와 데이터의 통제권과 소유권은 기업이 그대로 쥔다."
+              },
+              {
+                "t": "p",
+                "x": "공동 창업자이자 CEO인 Pierre Baqué는 “모든 실물 제품을 만드는 소프트웨어를 처음으로 AI가 엔터프라이즈 규모로 운용할 수 있게 됐다”고 말했다. 한 고객 사례에서는 MCP Bridge를 쓴 엔지니어가 휠 림 형상을 삼 분 만에 정리했다. 손으로 하면 하루가 걸리던 일이다."
+              },
+              {
+                "t": "p",
+                "x": "시뮬레이션에 바로 쓸 디지털 트윈을 준비하는 데 몇 주가 걸리기도 하는데, CAE 소프트웨어 안에서 일하는 AI 에이전트라면 이를 몇 시간으로 줄일 수 있다. Volkswagen Group의 Traton SE에서 전자기 설계 엔지니어로 일하는 Ciro Alosa는 “AI 에이전트가 내 일하는 방식을 완전히 바꿨다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Neural Concept\nMCPでAIがCADを操作",
+          "body": "Neural ConceptのMCP BridgeでAIがCADツールを操る。",
+          "mini_headline": "AIエージェントがCADを操作",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "スイスを拠点とするAI-nativeなエンジニアリング企業Neural Concept SAは本日、AIエージェントが商用のコンピューター支援設計ツールやシミュレーションツールを操作できるようにするModel Context Protocol Bridgeを発表した。大規模なエンジニアリング組織が、物理的な製品の設計とシミュレーションに使うソフトウェア環境を自動化するのを支援する。"
+              },
+              {
+                "t": "p",
+                "x": "2019年に設立されたNeural Conceptは、自動車、航空宇宙、エネルギー、エレクトロニクス、半導体、防衛分野のOEMsを顧客に持つ。MCP BridgeはAIエージェントにこれらのツールと、それを使いこなすためのエンジニアリングの知見を提供し、企業はソフトウェアとデータの管理権と所有権を保持できる。"
+              },
+              {
+                "t": "p",
+                "x": "共同創業者でCEOのPierre Baquéは「あらゆる物理的な製品を形づくるソフトウェアを、初めてAIがエンタープライズ規模で操作できるようになった」と述べた。ある顧客事例では、MCP Bridgeを使ったエンジニアがホイールリムの形状のクリーンアップを三分で終えた。手作業では一日かかっていた作業だ。"
+              },
+              {
+                "t": "p",
+                "x": "シミュレーションに使えるデジタルツインの準備には数週間かかることもあるが、CAEソフトウェア上で作業するAIエージェントならそれを数時間に短縮できる。Volkswagen GroupのTraton SEで電磁設計エンジニアを務めるCiro Alosaは「AIエージェントは私の働き方を完全に変えた」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Neural Concept\nMCP让AI驱动CAD工具",
+          "body": "Neural Concept的MCP Bridge让AI智能体操作CAD和仿真工具。",
+          "mini_headline": "AI智能体操作CAD工具",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "总部位于瑞士的AI-native工程公司Neural Concept SA今天推出Model Context Protocol Bridge，帮助AI智能体操作商用计算机辅助设计和仿真工具，助力大型工程组织将用于设计和仿真实体产品的软件环境自动化。"
+              },
+              {
+                "t": "p",
+                "x": "Neural Concept成立于2019年，客户为汽车、航空航天、能源、电子、半导体和国防领域的OEMs。MCP Bridge让AI智能体能够使用这些工具，并掌握使用它们所需的工程知识，同时企业仍保有对其软件和数据的控制权和所有权。"
+              },
+              {
+                "t": "p",
+                "x": "联合创始人兼CEO Pierre Baqué表示：“塑造每一件实体产品的软件，首次可以由AI以企业级规模来操作。”在一个客户案例中，一名使用MCP Bridge的工程师用三分钟就完成了轮辋几何形状的清理，而手动操作需要一天。"
+              },
+              {
+                "t": "p",
+                "x": "准备可用于仿真的数字孪生可能需要数周；在CAE软件中工作的AI智能体能将其缩短到数小时。Volkswagen Group旗下Traton SE的电磁设计工程师Ciro Alosa说：“AI智能体彻底改变了我的工作方式。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "MCP de Neural Concept permite\nque agentes de AI manejen CAD",
+          "body": "MCP Bridge de Neural Concept permite que agentes de AI operen CAD y simulación, y automaticen limpieza y mallado.",
+          "mini_headline": "Agentes de AI manejan CAD",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "La empresa suiza de ingeniería AI-native Neural Concept SA lanzó hoy Model Context Protocol Bridge para ayudar a los agentes de AI a operar herramientas comerciales de diseño asistido por computadora y de simulación, de modo que las grandes organizaciones de ingeniería automaticen los entornos de software con los que diseñan y simulan productos físicos."
+              },
+              {
+                "t": "p",
+                "x": "Fundada en 2019, Neural Concept atiende a OEMs de los sectores automotriz, aeroespacial, energético, electrónico, de semiconductores y de defensa. MCP Bridge da a los agentes de AI acceso a esas herramientas y al conocimiento de ingeniería necesario para usarlas, mientras las empresas conservan el control y la propiedad de su software y sus datos."
+              },
+              {
+                "t": "p",
+                "x": "“Por primera vez, el software que da forma a cada producto físico puede ser operado por AI a escala empresarial”, dijo el cofundador y CEO Pierre Baqué. En el caso de un cliente, un ingeniero que usaba MCP Bridge limpió la geometría de una llanta en tres minutos, frente a un día de forma manual."
+              },
+              {
+                "t": "p",
+                "x": "Preparar gemelos digitales listos para simulación puede llevar semanas; un agente de AI que trabaja en software CAE puede reducirlo a horas. “Los agentes de AI han cambiado por completo mi forma de trabajar”, dijo Ciro Alosa, ingeniero de diseño electromagnético de Traton SE, de Volkswagen Group."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Neural Concept\nAI가 CAD 쓰는 MCP",
+          "body": "Neural Concept MCP Bridge로 AI가 CAD 도구를 다룬다.",
+          "mini_headline": "AI 에이전트가 CAD를 다룬다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "스위스의 AI-native 엔지니어링 기업 Neural Concept SA가 오늘 Model Context Protocol Bridge를 출시했다. AI 에이전트가 상용 컴퓨터 지원 설계·시뮬레이션 도구를 다루도록 돕는 제품으로, 대형 엔지니어링 조직이 실물 제품의 설계와 시뮬레이션에 쓰는 소프트웨어 환경을 자동화할 수 있게 한다."
+              },
+              {
+                "t": "p",
+                "x": "2019년 설립된 Neural Concept는 자동차, 항공우주, 에너지, 전자, 반도체, 방위 산업의 OEMs를 고객으로 둔다. MCP Bridge는 AI 에이전트에게 이 도구들과 그 사용에 필요한 엔지니어링 노하우를 제공하고, 기업은 소프트웨어와 데이터에 대한 통제권과 소유권을 그대로 유지한다."
+              },
+              {
+                "t": "p",
+                "x": "공동 창업자이자 CEO인 Pierre Baqué는 “모든 실물 제품을 만드는 소프트웨어를 처음으로 AI가 엔터프라이즈 규모로 운용할 수 있게 됐다”고 말했다. 한 고객 사례에서는 MCP Bridge를 쓴 엔지니어가 휠 림의 형상을 삼 분 만에 정리했다. 수작업으로는 하루가 걸리던 일이다."
+              },
+              {
+                "t": "p",
+                "x": "시뮬레이션에 바로 쓸 수 있는 디지털 트윈을 준비하는 데는 몇 주가 걸리기도 하지만, CAE 소프트웨어에서 일하는 AI 에이전트는 이를 몇 시간으로 줄일 수 있다. Volkswagen Group의 Traton SE에서 전자기 설계 엔지니어로 일하는 Ciro Alosa는 “AI 에이전트가 내 일하는 방식을 완전히 바꿨다”고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Neural Concept\nMCPでAIがCADを操作",
+          "body": "Neural ConceptのMCP BridgeでAIがCADツールを操る。",
+          "mini_headline": "AIエージェントがCADを操作",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "スイスを拠点とするAI-nativeなエンジニアリング企業Neural Concept SAは本日、AIエージェントが商用のコンピューター支援設計ツールやシミュレーションツールを操作できるようにするModel Context Protocol Bridgeを発表した。大規模なエンジニアリング組織が、物理的な製品の設計とシミュレーションに使うソフトウェア環境を自動化するのを支援する。"
+              },
+              {
+                "t": "p",
+                "x": "2019年に設立されたNeural Conceptは、自動車、航空宇宙、エネルギー、エレクトロニクス、半導体、防衛分野のOEMsを顧客に持つ。MCP BridgeはAIエージェントにこれらのツールと、それを使いこなすためのエンジニアリングの知見を提供し、企業はソフトウェアとデータの管理権と所有権を保持できる。"
+              },
+              {
+                "t": "p",
+                "x": "共同創業者でCEOのPierre Baquéは「あらゆる物理的な製品を形づくるソフトウェアを、初めてAIがエンタープライズ規模で操作できるようになった」と述べた。ある顧客事例では、MCP Bridgeを使ったエンジニアがホイールリムの形状のクリーンアップを三分で終えた。手作業では一日かかっていた作業だ。"
+              },
+              {
+                "t": "p",
+                "x": "シミュレーションに使えるデジタルツインの準備には数週間かかることもあるが、CAEソフトウェア上で作業するAIエージェントならそれを数時間に短縮できる。Volkswagen GroupのTraton SEで電磁設計エンジニアを務めるCiro Alosaは「AIエージェントは私の働き方を完全に変えた」と語った。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Neural Concept\nMCP让AI驱动CAD工具",
+          "body": "Neural Concept的MCP Bridge让AI智能体操作CAD和仿真工具。",
+          "mini_headline": "AI智能体操作CAD工具",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "总部位于瑞士的AI-native工程公司Neural Concept SA今天推出Model Context Protocol Bridge，帮助AI智能体操作商用计算机辅助设计和仿真工具，助力大型工程组织将用于设计和仿真实体产品的软件环境自动化。"
+              },
+              {
+                "t": "p",
+                "x": "Neural Concept成立于2019年，客户为汽车、航空航天、能源、电子、半导体和国防领域的OEMs。MCP Bridge让AI智能体能够使用这些工具，并掌握使用它们所需的工程知识，同时企业仍保有对其软件和数据的控制权和所有权。"
+              },
+              {
+                "t": "p",
+                "x": "联合创始人兼CEO Pierre Baqué表示：“塑造每一件实体产品的软件，首次可以由AI以企业级规模来操作。”在一个客户案例中，一名使用MCP Bridge的工程师用三分钟就完成了轮辋几何形状的清理，而手动操作需要一天。"
+              },
+              {
+                "t": "p",
+                "x": "准备可用于仿真的数字孪生可能需要数周；在CAE软件中工作的AI智能体能将其缩短到数小时。Volkswagen Group旗下Traton SE的电磁设计工程师Ciro Alosa说：“AI智能体彻底改变了我的工作方式。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "MCP de Neural Concept permite\nque agentes de AI manejen CAD",
+          "body": "MCP Bridge de Neural Concept permite que agentes de AI operen CAD y simulación, y automaticen limpieza y mallado.",
+          "mini_headline": "Agentes de AI manejan CAD",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "La empresa suiza de ingeniería AI-native Neural Concept SA lanzó hoy Model Context Protocol Bridge para ayudar a los agentes de AI a operar herramientas comerciales de diseño asistido por computadora y de simulación, de modo que las grandes organizaciones de ingeniería automaticen los entornos de software con los que diseñan y simulan productos físicos."
+              },
+              {
+                "t": "p",
+                "x": "Fundada en 2019, Neural Concept atiende a OEMs de los sectores automotriz, aeroespacial, energético, electrónico, de semiconductores y de defensa. MCP Bridge da a los agentes de AI acceso a esas herramientas y al conocimiento de ingeniería necesario para usarlas, mientras las empresas conservan el control y la propiedad de su software y sus datos."
+              },
+              {
+                "t": "p",
+                "x": "“Por primera vez, el software que da forma a cada producto físico puede ser operado por AI a escala empresarial”, dijo el cofundador y CEO Pierre Baqué. En el caso de un cliente, un ingeniero que usaba MCP Bridge limpió la geometría de una llanta en tres minutos, frente a un día de forma manual."
+              },
+              {
+                "t": "p",
+                "x": "Preparar gemelos digitales listos para simulación puede llevar semanas; un agente de AI que trabaja en software CAE puede reducirlo a horas. “Los agentes de AI han cambiado por completo mi forma de trabajar”, dijo Ciro Alosa, ingeniero de diseño electromagnético de Traton SE, de Volkswagen Group."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-dxo-viewpoint6-ai-masking",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini 슬라이드·영상\n이제 직접 조율한다",
-      "body": "Gemini Notebook에선 이제 슬라이드와 영상 개요를 직접 조율한다.",
-      "mini_headline": "Gemini Notebook, 조율 가능한 덱",
+      "headline": "DxO ViewPoint 6 adds AI masking\nwith no generated pixels",
+      "body": "DxO's geometry-correction tool ViewPoint 6 adds AI masking while insisting it generates no new image content.",
+      "mini_headline": "ViewPoint 6 adds AI masking",
+      "tool": "KeyShot",
+      "source": "Digital Camera World",
+      "url": "https://www.digitalcameraworld.com/tech/software/wonky-photos-of-buildings-begone-dxo-viewpoint-6-introduces-ai-masking-but-maintains-that-no-ai-image-generation-takes-place",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Struggling to correct wonky buildings, want a tilt-shift look without a specialist lens, or have barrel distortion stretching subjects at the frame's corners? DxO has launched ViewPoint 6, the latest version of its geometry-based photo editor, and the headline feature is combining geometric corrections with AI masking for precise, local edits."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+            "cap": "Mesh subdivisions give you much finer, localized control in ViewPoint 6 (Image credit: DxO)"
+          },
+          {
+            "t": "p",
+            "x": "AI masking in ReShape Fusion lets users mask a specific object, such as a tall building, and correct its geometry independently of the rest of the photo, instead of correcting the whole image and cropping. Users draw a selection box around the subject; ViewPoint 6 masks it and places a mesh with control points directly on top of it, with more subdivision options for finer local control."
+          },
+          {
+            "t": "p",
+            "x": "DxO is keen to point out that no AI image generation takes place: “It rearranges the components of the scene the photographer captured rather than recreating them”."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+            "cap": "Reshaping facial features is possible thanks to ViewPoint 6’s local geometric adjustments (Image credit: DxO)"
+          },
+          {
+            "t": "p",
+            "x": "As standalone software, ViewPoint 6 now opens RAW files (as well as TIFF and JPEG), and it also works as a plug-in for Photoshop, Lightroom Classic and DxO PhotoLab 10. It is available now for $129.99 / £109.99, or $84.99 / £69.99 to upgrade from ViewPoint 5, with a 30-day free trial."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "DxO ViewPoint 6 adds AI masking\nwith no generated pixels",
+          "body": "DxO's geometry-correction tool ViewPoint 6 adds AI masking while insisting it generates no new image content.",
+          "mini_headline": "ViewPoint 6 adds AI masking",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Struggling to correct wonky buildings, want a tilt-shift look without a specialist lens, or have barrel distortion stretching subjects at the frame's corners? DxO has launched ViewPoint 6, the latest version of its geometry-based photo editor, and the headline feature is combining geometric corrections with AI masking for precise, local edits."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+                "cap": "Mesh subdivisions give you much finer, localized control in ViewPoint 6 (Image credit: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "AI masking in ReShape Fusion lets users mask a specific object, such as a tall building, and correct its geometry independently of the rest of the photo, instead of correcting the whole image and cropping. Users draw a selection box around the subject; ViewPoint 6 masks it and places a mesh with control points directly on top of it, with more subdivision options for finer local control."
+              },
+              {
+                "t": "p",
+                "x": "DxO is keen to point out that no AI image generation takes place: “It rearranges the components of the scene the photographer captured rather than recreating them”."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+                "cap": "Reshaping facial features is possible thanks to ViewPoint 6’s local geometric adjustments (Image credit: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "As standalone software, ViewPoint 6 now opens RAW files (as well as TIFF and JPEG), and it also works as a plug-in for Photoshop, Lightroom Classic and DxO PhotoLab 10. It is available now for $129.99 / £109.99, or $84.99 / £69.99 to upgrade from ViewPoint 5, with a 30-day free trial."
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "DxO ViewPoint 6 suma máscaras\ncon AI sin generar píxeles",
+          "body": "ViewPoint 6 de DxO, para corregir geometría, añade máscaras con AI e insiste en que no genera contenido nuevo.",
+          "mini_headline": "ViewPoint 6 suma máscaras con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "¿Cuesta corregir edificios torcidos, se busca un efecto tilt-shift sin un objetivo especializado o la distorsión de barril estira a los sujetos en las esquinas del encuadre? DxO ha lanzado ViewPoint 6, la versión más reciente de su editor de fotos basado en geometría, y su función principal combina correcciones geométricas con máscaras con AI para ediciones locales y precisas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+                "cap": "Las subdivisiones de la malla ofrecen un control local mucho más fino en ViewPoint 6 (Imagen: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "Las máscaras con AI de ReShape Fusion permiten enmascarar un objeto concreto, como un edificio alto, y corregir su geometría con independencia del resto de la foto, en lugar de corregir toda la imagen y recortarla. El usuario dibuja un cuadro de selección alrededor del sujeto; ViewPoint 6 lo enmascara y coloca encima una malla con puntos de control, con más opciones de subdivisión para un control local más fino."
+              },
+              {
+                "t": "p",
+                "x": "DxO insiste en que no se genera ninguna imagen con AI: “Reorganiza los componentes de la escena que captó el fotógrafo en lugar de recrearlos”."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+                "cap": "Los ajustes geométricos locales de ViewPoint 6 permiten remodelar los rasgos faciales (Imagen: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "Como software independiente, ViewPoint 6 ya abre archivos RAW (además de TIFF y JPEG) y también funciona como complemento de Photoshop, Lightroom Classic y DxO PhotoLab 10. Ya está disponible por $129.99 / £109.99, o $84.99 / £69.99 como actualización desde ViewPoint 5, con una prueba gratuita de 30 días."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "DxO ViewPoint\n6、生成なしのAIマスク",
+          "body": "DxOのViewPoint 6がAIマスクを追加し、画像は生成しないと強調する。",
+          "mini_headline": "ViewPoint 6がAIマスクを追加",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "傾いた建物の補正に苦労している、専用レンズなしでティルトシフト(tilt-shift)風の写真にしたい、あるいはたる型歪曲でフレームの隅の被写体が引き伸ばされている――そんな悩みはないだろうか。DxOは幾何補正ベースの写真編集ソフトの最新版ViewPoint 6を発表した。目玉は、幾何補正とAIマスクを組み合わせた精密な部分編集である。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+                "cap": "ViewPoint 6ではメッシュの分割により、はるかに細かな部分調整ができる (Image credit: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "ReShape FusionのAIマスクを使えば、高い建物など特定の対象だけをマスクし、画像全体を補正してトリミングする代わりに、写真の他の部分とは独立してその形状を補正できる。対象の周りに選択ボックスを描くと、ViewPoint 6がそれをマスクし、制御点付きのメッシュを直接その上に配置する。より細かな部分調整のための分割オプションも増えた。"
+              },
+              {
+                "t": "p",
+                "x": "DxOは、AIによる画像生成は一切行われないと強調する。「写真家が撮影したシーンの構成要素を作り直すのではなく、並べ替えている」という。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+                "cap": "ViewPoint 6の局所的な幾何調整により、顔の造作を整えることもできる (Image credit: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "単体ソフトとしてのViewPoint 6はRAWファイル(TIFFとJPEGも)を開けるようになり、Photoshop、Lightroom Classic、DxO PhotoLab 10のプラグインとしても動作する。価格は$129.99 / £109.99で、ViewPoint 5からのアップグレードは$84.99 / £69.99。30日間の無料体験版もあり、すでに提供が始まっている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "DxO ViewPoint\n6新增AI蒙版，不生成像素",
+          "body": "DxO的几何校正工具ViewPoint 6新增AI蒙版，并强调不会生成新的图像内容。",
+          "mini_headline": "ViewPoint 6新增AI蒙版",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "难以校正歪斜的建筑？想不用专业镜头就拍出移轴(tilt-shift)效果？还是桶形畸变把画面角落的主体拉变形了？DxO推出了其几何校正类照片编辑软件的最新版本ViewPoint 6，主打功能是将几何校正与AI蒙版相结合，实现精确的局部编辑。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+                "cap": "在ViewPoint 6中，网格细分带来更精细的局部控制 (Image credit: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "借助ReShape Fusion中的AI蒙版，用户可以为高楼等特定对象建立蒙版，并独立于照片其余部分校正其几何形状，而不必校正整张图像再裁剪。用户在主体周围画出选框后，ViewPoint 6会为其建立蒙版，并直接在其上方放置带控制点的网格，还提供更多细分选项以实现更精细的局部控制。"
+              },
+              {
+                "t": "p",
+                "x": "DxO特别强调，过程中不涉及任何AI图像生成：“它是重新排列摄影师所拍场景中的元素，而不是重新创造它们”。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+                "cap": "借助ViewPoint 6的局部几何调整，还能重塑面部特征 (Image credit: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "作为独立软件，ViewPoint 6现在可以打开RAW文件（以及TIFF和JPEG），也可作为Photoshop、Lightroom Classic和DxO PhotoLab 10的插件使用。该软件现已上市，售价$129.99 / £109.99，从ViewPoint 5升级为$84.99 / £69.99，并提供30天免费试用。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "es": {
+          "headline": "DxO ViewPoint 6 suma máscaras\ncon AI sin generar píxeles",
+          "body": "ViewPoint 6 de DxO, para corregir geometría, añade máscaras con AI e insiste en que no genera contenido nuevo.",
+          "mini_headline": "ViewPoint 6 suma máscaras con AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "¿Cuesta corregir edificios torcidos, se busca un efecto tilt-shift sin un objetivo especializado o la distorsión de barril estira a los sujetos en las esquinas del encuadre? DxO ha lanzado ViewPoint 6, la versión más reciente de su editor de fotos basado en geometría, y su función principal combina correcciones geométricas con máscaras con AI para ediciones locales y precisas."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+                "cap": "Las subdivisiones de la malla ofrecen un control local mucho más fino en ViewPoint 6 (Imagen: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "Las máscaras con AI de ReShape Fusion permiten enmascarar un objeto concreto, como un edificio alto, y corregir su geometría con independencia del resto de la foto, en lugar de corregir toda la imagen y recortarla. El usuario dibuja un cuadro de selección alrededor del sujeto; ViewPoint 6 lo enmascara y coloca encima una malla con puntos de control, con más opciones de subdivisión para un control local más fino."
+              },
+              {
+                "t": "p",
+                "x": "DxO insiste en que no se genera ninguna imagen con AI: “Reorganiza los componentes de la escena que captó el fotógrafo en lugar de recrearlos”."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+                "cap": "Los ajustes geométricos locales de ViewPoint 6 permiten remodelar los rasgos faciales (Imagen: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "Como software independiente, ViewPoint 6 ya abre archivos RAW (además de TIFF y JPEG) y también funciona como complemento de Photoshop, Lightroom Classic y DxO PhotoLab 10. Ya está disponible por $129.99 / £109.99, o $84.99 / £69.99 como actualización desde ViewPoint 5, con una prueba gratuita de 30 días."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "DxO ViewPoint\n6、生成なしのAIマスク",
+          "body": "DxOのViewPoint 6がAIマスクを追加し、画像は生成しないと強調する。",
+          "mini_headline": "ViewPoint 6がAIマスクを追加",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "傾いた建物の補正に苦労している、専用レンズなしでティルトシフト(tilt-shift)風の写真にしたい、あるいはたる型歪曲でフレームの隅の被写体が引き伸ばされている――そんな悩みはないだろうか。DxOは幾何補正ベースの写真編集ソフトの最新版ViewPoint 6を発表した。目玉は、幾何補正とAIマスクを組み合わせた精密な部分編集である。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+                "cap": "ViewPoint 6ではメッシュの分割により、はるかに細かな部分調整ができる (Image credit: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "ReShape FusionのAIマスクを使えば、高い建物など特定の対象だけをマスクし、画像全体を補正してトリミングする代わりに、写真の他の部分とは独立してその形状を補正できる。対象の周りに選択ボックスを描くと、ViewPoint 6がそれをマスクし、制御点付きのメッシュを直接その上に配置する。より細かな部分調整のための分割オプションも増えた。"
+              },
+              {
+                "t": "p",
+                "x": "DxOは、AIによる画像生成は一切行われないと強調する。「写真家が撮影したシーンの構成要素を作り直すのではなく、並べ替えている」という。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+                "cap": "ViewPoint 6の局所的な幾何調整により、顔の造作を整えることもできる (Image credit: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "単体ソフトとしてのViewPoint 6はRAWファイル(TIFFとJPEGも)を開けるようになり、Photoshop、Lightroom Classic、DxO PhotoLab 10のプラグインとしても動作する。価格は$129.99 / £109.99で、ViewPoint 5からのアップグレードは$84.99 / £69.99。30日間の無料体験版もあり、すでに提供が始まっている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "DxO ViewPoint\n6新增AI蒙版，不生成像素",
+          "body": "DxO的几何校正工具ViewPoint 6新增AI蒙版，并强调不会生成新的图像内容。",
+          "mini_headline": "ViewPoint 6新增AI蒙版",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+              },
+              {
+                "t": "p",
+                "x": "难以校正歪斜的建筑？想不用专业镜头就拍出移轴(tilt-shift)效果？还是桶形畸变把画面角落的主体拉变形了？DxO推出了其几何校正类照片编辑软件的最新版本ViewPoint 6，主打功能是将几何校正与AI蒙版相结合，实现精确的局部编辑。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+                "cap": "在ViewPoint 6中，网格细分带来更精细的局部控制 (Image credit: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "借助ReShape Fusion中的AI蒙版，用户可以为高楼等特定对象建立蒙版，并独立于照片其余部分校正其几何形状，而不必校正整张图像再裁剪。用户在主体周围画出选框后，ViewPoint 6会为其建立蒙版，并直接在其上方放置带控制点的网格，还提供更多细分选项以实现更精细的局部控制。"
+              },
+              {
+                "t": "p",
+                "x": "DxO特别强调，过程中不涉及任何AI图像生成：“它是重新排列摄影师所拍场景中的元素，而不是重新创造它们”。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+                "cap": "借助ViewPoint 6的局部几何调整，还能重塑面部特征 (Image credit: DxO)"
+              },
+              {
+                "t": "p",
+                "x": "作为独立软件，ViewPoint 6现在可以打开RAW文件（以及TIFF和JPEG），也可作为Photoshop、Lightroom Classic和DxO PhotoLab 10的插件使用。该软件现已上市，售价$129.99 / £109.99，从ViewPoint 5升级为$84.99 / £69.99，并提供30天免费试用。"
+              }
+            ]
+          }
+        }
+      },
+      "i18n_status": {
+        "ko": "fallback"
+      }
+    },
+    {
+      "id": "design-anthropic-attention-bottleneck",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "사람의 주의력이\n다시 디자인 병목이다",
+      "body": "Anthropic 연구에서 에이전트는 사람의 여섯 배 시간을 일했다.",
+      "mini_headline": "사람의 주의력을 위한 디자인",
       "tool": "AI Workflow",
-      "source": "Google Blog",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+      "source": "UX Collective",
+      "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -19,203 +1380,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
-            "cap": "새 리뷰 슬라이드 덱 기능을 담은 일러스트"
+            "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+            "cap": "넓은 사무실 책상에 한 사람이 앉아 글을 읽는다. 주변 화면 수십 개에는 처리할 새 일이 계속 쌓인다."
           },
           {
             "t": "p",
-            "x": "Gemini Notebook이 사용자 피드백을 반영해, 인기 있는 두 결과물 Slide Decks와 Video Overviews의 창작 통제권을 처음부터 끝까지 넓혔다. 첫 프롬프트에서 바로 최종본으로 건너뛰지 않고, 사용자 자료를 토대로 제작 과정을 한 단계씩 짚어 준다."
+            "x": "10월 16일 Anthropic 연구원 네 명이 “How employment is changing at Anthropic”을 발표했다. 2026년 8월에는 직원이 지시한 에이전트가 사람이 한 시간 일할 때마다 여섯 시간을 기록했다. 에이전트 세션은 시간의 약 80%를 사람을 기다리며 유휴 상태로 보냈다. 코딩을 하지 않는 직원도 에이전트가 만든 결과물을 다 읽으려면 주당 근무 시간의 절반 넘게 써야 한다. “그것이 읽기 세금이며, 에이전트를 쓰는 모든 팀이 이를 치르게 될 것이다.”"
+          },
+          {
+            "t": "img",
+            "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+            "cap": "에이전트가 사람보다 더 많이 일한다. 놀랄 일은 아니다."
           },
           {
             "t": "p",
-            "x": "채팅에서 슬라이드나 영상 개요를 요청하면 Notebook이 담을 주제부터 제안한다. 확인이 끝나면 내용을 더 다듬고 시각 스타일과 형식까지 손볼 수 있다."
-          },
-          {
-            "t": "video",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+            "x": "Patrick Neeman은 이 흐름이 모두를 관리자로 만든다고 보고, 사람이 루프의 주도권을 쥐는 일곱 단계를 내놓는다. 읽기 시간을 페이지 로드 예산처럼 재고, 에이전트 요청은 심각도 순으로 줄 세우고, 검토 단계를 설계하고, 결정 사항은 에이전트가 찾을 수 있는 곳에 남기고, 에이전트를 관리하고, 판단력을 보고 채용하고, 신입 직무는 검토 중심으로 다시 짠다."
           },
           {
             "t": "p",
-            "x": "새로 생긴 Review 토글은 여기서 한 걸음 더 간다. 스튜디오 패널에서 슬라이드는 “Review outline notes”, 영상은 “Review producer notes”로 계획을 먼저 확인한 뒤 렌더링 전에 경영진 요약을 넣거나 장면 순서를 바꾸라는 피드백을 남긴다. “Proceed”를 누르면 최종 결과물이 나온다."
-          },
-          {
-            "t": "p",
-            "x": "원하는 게 분명하다면 프롬프트에 그대로 적으면 된다. 그러면 Notebook이 곧장 검토 단계로 넘어간다. 결과물이 빨리 필요할 땐 Review 토글을 건너뛰고 평소대로 생성하면 그만이다. 공동 제작 기능은 앞으로 일주일에 걸쳐 전 세계 모든 Gemini Notebook 사용자에게 배포된다."
+            "x": "산출물은 갈수록 싸지는데 사람의 주의력은 그대로다. 디자이너, 리서처, 프로덕트 매니저는 에이전트가 사람에게 무엇을 보여 줄지, 언제 끼어들지, 검토를 어떻게 할지 정한다. 이제 이들은 무엇이 주의를 기울일 가치가 있는지 가려내는 판단 체계를 만든다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini Notebook lets you\nsteer its slides and videos",
-          "body": "Gemini Notebook now lets users steer generated Slide Decks and Video Overviews rather than accept a one-shot result.",
-          "mini_headline": "Steerable decks in Gemini Notebook",
+          "headline": "Human attention is the\ndesign bottleneck again",
+          "body": "Anthropic's study logs six agent hours per human hour, so designers must now decide what deserves human attention.",
+          "mini_headline": "Design for human attention",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
-                "cap": "Illustration showing new review slide deck capabilities"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+                "cap": "A wide office floor where one person reads at a desk while dozens of screens around them keep filling with new work for them to address."
               },
               {
                 "t": "p",
-                "x": "Based on user feedback, Gemini Notebook now offers more creative control from start to finish on two popular outputs: Slide Decks and Video Overviews. Instead of jumping from an initial prompt straight to a final output, it can walk you through the creation flow based directly on your sources."
+                "x": "On October 16, four Anthropic researchers published “How employment is changing at Anthropic.” By August 2026, agents directed by employees were logging six hours for every hour their people worked. Agent sessions spent about 80% of their time idle, waiting for a person, and even for non-coders, reading everything their agents produced would take more than half the workweek. “That’s the reading tax, and every team with agents will pay it.”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+                "cap": "Agents work more than humans. Not a surprise."
               },
               {
                 "t": "p",
-                "x": "Ask in the chat for slides or a video overview and Notebook suggests topics to include. Once you confirm, you can steer the content further and guide visual style and format."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+                "x": "Patrick Neeman argues the work is turning everyone into a manager, and offers seven steps for keeping people in charge of the loop: measure reading time like a page-load budget, rank agent requests by severity, design the review step, write decisions down where agents can find them, manage the agents, hire for judgment, and rebuild entry-level roles around review."
               },
               {
                 "t": "p",
-                "x": "A new Review toggle goes further: review the plan in the studio panel via “Review outline notes” for slides or “Review producer notes” for video, and give feedback — such as adding an executive summary or swapping the order of a scene — before anything renders. Select “Proceed” to produce the final artifact."
-              },
-              {
-                "t": "p",
-                "x": "If you already know what you want, say so in your prompt and Notebook goes straight to review. For a quick output, skip the Review toggle and generate as usual. The co-creation features are rolling out globally to all Gemini Notebook users over the coming week."
+                "x": "Output keeps getting cheaper while human attention stays fixed. Designers, researchers and product managers set what agents show people, when they interrupt and how review works, and the job is to create judgement systems for what deserves attention."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini 슬라이드·영상\n이제 직접 조율한다",
-          "body": "Gemini Notebook에선 이제 슬라이드와 영상 개요를 직접 조율한다.",
-          "mini_headline": "Gemini Notebook, 조율 가능한 덱",
+          "headline": "사람의 주의력이\n다시 디자인 병목이다",
+          "body": "Anthropic 연구에서 에이전트는 사람의 여섯 배 시간을 일했다.",
+          "mini_headline": "사람의 주의력을 위한 디자인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
-                "cap": "새 리뷰 슬라이드 덱 기능을 담은 일러스트"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+                "cap": "넓은 사무실 책상에 한 사람이 앉아 글을 읽는다. 주변 화면 수십 개에는 처리할 새 일이 계속 쌓인다."
               },
               {
                 "t": "p",
-                "x": "Gemini Notebook이 사용자 피드백을 반영해, 인기 있는 두 결과물 Slide Decks와 Video Overviews의 창작 통제권을 처음부터 끝까지 넓혔다. 첫 프롬프트에서 바로 최종본으로 건너뛰지 않고, 사용자 자료를 토대로 제작 과정을 한 단계씩 짚어 준다."
+                "x": "10월 16일 Anthropic 연구원 네 명이 “How employment is changing at Anthropic”을 발표했다. 2026년 8월에는 직원이 지시한 에이전트가 사람이 한 시간 일할 때마다 여섯 시간을 기록했다. 에이전트 세션은 시간의 약 80%를 사람을 기다리며 유휴 상태로 보냈다. 코딩을 하지 않는 직원도 에이전트가 만든 결과물을 다 읽으려면 주당 근무 시간의 절반 넘게 써야 한다. “그것이 읽기 세금이며, 에이전트를 쓰는 모든 팀이 이를 치르게 될 것이다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+                "cap": "에이전트가 사람보다 더 많이 일한다. 놀랄 일은 아니다."
               },
               {
                 "t": "p",
-                "x": "채팅에서 슬라이드나 영상 개요를 요청하면 Notebook이 담을 주제부터 제안한다. 확인이 끝나면 내용을 더 다듬고 시각 스타일과 형식까지 손볼 수 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+                "x": "Patrick Neeman은 이 흐름이 모두를 관리자로 만든다고 보고, 사람이 루프의 주도권을 쥐는 일곱 단계를 내놓는다. 읽기 시간을 페이지 로드 예산처럼 재고, 에이전트 요청은 심각도 순으로 줄 세우고, 검토 단계를 설계하고, 결정 사항은 에이전트가 찾을 수 있는 곳에 남기고, 에이전트를 관리하고, 판단력을 보고 채용하고, 신입 직무는 검토 중심으로 다시 짠다."
               },
               {
                 "t": "p",
-                "x": "새로 생긴 Review 토글은 여기서 한 걸음 더 간다. 스튜디오 패널에서 슬라이드는 “Review outline notes”, 영상은 “Review producer notes”로 계획을 먼저 확인한 뒤 렌더링 전에 경영진 요약을 넣거나 장면 순서를 바꾸라는 피드백을 남긴다. “Proceed”를 누르면 최종 결과물이 나온다."
-              },
-              {
-                "t": "p",
-                "x": "원하는 게 분명하다면 프롬프트에 그대로 적으면 된다. 그러면 Notebook이 곧장 검토 단계로 넘어간다. 결과물이 빨리 필요할 땐 Review 토글을 건너뛰고 평소대로 생성하면 그만이다. 공동 제작 기능은 앞으로 일주일에 걸쳐 전 세계 모든 Gemini Notebook 사용자에게 배포된다."
+                "x": "산출물은 갈수록 싸지는데 사람의 주의력은 그대로다. 디자이너, 리서처, 프로덕트 매니저는 에이전트가 사람에게 무엇을 보여 줄지, 언제 끼어들지, 검토를 어떻게 할지 정한다. 이제 이들은 무엇이 주의를 기울일 가치가 있는지 가려내는 판단 체계를 만든다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiのスライドと動画\n途中で調整可能に",
-          "body": "Gemini Notebookで、スライドと動画概要を途中で調整できるようになった。",
-          "mini_headline": "Gemini Notebookで調整できる資料",
+          "headline": "人間の注意力が再び\nデザインのボトルネックに",
+          "body": "Anthropicの研究では、エージェントの稼働時間が人間の六倍に達した。",
+          "mini_headline": "人間の注意力のためのデザイン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
-                "cap": "新しいレビュー機能を備えたスライド資料のイラスト"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+                "cap": "広いオフィスで一人が机に向かって読み物をしている。周りの何十もの画面には、その人が対処すべき新しい仕事が次々と表示されていく。"
               },
               {
                 "t": "p",
-                "x": "Gemini Notebookはユーザーの声を受け、人気の高い二つの出力形式であるSlide DecksとVideo Overviewsについて、最初から最後までより細かく創作をコントロールできるようにした。最初のプロンプトから一気に最終出力へ進むのではなく、ソースに基づいて制作の流れを順に案内する。"
+                "x": "10月16日、Anthropicの研究者四人が「How employment is changing at Anthropic」を公開した。2026年8月までに、従業員が指示するエージェントは、人が働く一時間ごとに六時間分の作業を記録するようになった。エージェントのセッションは時間の約80%を人を待つアイドル状態で過ごしており、コードを書かない人でも、エージェントの出力をすべて読むには週の労働時間の半分以上がかかる。「それが読む税金であり、エージェントを使うすべてのチームが払うことになる」"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+                "cap": "エージェントは人間より多く働く。驚くことではない。"
               },
               {
                 "t": "p",
-                "x": "チャットでスライドや動画概要を依頼すると、Notebookが盛り込むトピックを提案する。確認すれば、内容をさらに調整し、ビジュアルのスタイルや形式も指示できる。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+                "x": "Patrick Neemanは、この仕事が誰もをマネージャーに変えつつあると論じ、人がループの主導権を握り続けるための七つのステップを示す。読む時間をページ読み込みの予算のように測る、エージェントの要求を重大度で順位づける、レビューの工程を設計する、決定事項をエージェントが見つけられる場所に書き残す、エージェントを管理する、判断力で採用する、そしてエントリーレベルの職務をレビュー中心に作り直す、というものだ。"
               },
               {
                 "t": "p",
-                "x": "新しいReviewトグルはさらに踏み込む。スタジオパネルで、スライドなら「Review outline notes」、動画なら「Review producer notes」から計画を確認し、レンダリング前にエグゼクティブサマリーの追加やシーンの順番の入れ替えといったフィードバックを伝えられる。「Proceed」を選ぶと最終成果物が生成される。"
-              },
-              {
-                "t": "p",
-                "x": "作りたいものが決まっているならプロンプトでそう伝えれば、Notebookはすぐにレビューへ進む。手早く出力したい場合はReviewトグルを使わず、通常どおり生成すればよい。この共同制作機能は今後一週間で、世界中のすべてのGemini Notebookユーザーに順次提供される。"
+                "x": "アウトプットはますます安くなる一方、人間の注意力は増えない。デザイナー、リサーチャー、プロダクトマネージャーは、エージェントが人に何を見せ、いつ割り込み、レビューをどう進めるかを決める立場にある。その仕事は、何が注意に値するかを見極める判断の仕組みをつくることだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini幻灯片与视频\n生成过程可由你掌控",
-          "body": "Gemini Notebook现在让用户引导生成的幻灯片和视频概览，而非接受一次性结果。",
-          "mini_headline": "Gemini Notebook可引导的幻灯片",
+          "headline": "人的注意力\n再次成为设计瓶颈",
+          "body": "Anthropic研究显示，智能体工作时长是人的六倍，设计者须决定什么值得关注。",
+          "mini_headline": "为人的注意力而设计",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
-                "cap": "展示全新审阅幻灯片功能的插图"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+                "cap": "宽敞的办公区里，一个人坐在桌前阅读，周围数十块屏幕不断涌现等待他处理的新工作。"
               },
               {
                 "t": "p",
-                "x": "根据用户反馈，Gemini Notebook如今在两种热门输出形式Slide Decks和Video Overviews上，从头到尾提供更多创作控制。它不再从最初的提示直接跳到最终成品，而是直接依据你的资料，带你一步步完成创作流程。"
+                "x": "10月16日，四位Anthropic研究人员发表了《How employment is changing at Anthropic》。到2026年8月，员工指挥的智能体在员工每工作一小时的同时，会记录六小时的工作。智能体会话约有80%的时间处于闲置状态，等待人来处理；即便是不写代码的人，要读完智能体产出的全部内容，也要花掉一周工作时间的一半以上。“这就是阅读税，每个使用智能体的团队都要为此买单。”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+                "cap": "智能体比人干得多。这并不意外。"
               },
               {
                 "t": "p",
-                "x": "在聊天中请求幻灯片或视频概览，Notebook会建议应包含的主题。确认后，你可以进一步引导内容，并指定视觉风格和格式。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+                "x": "Patrick Neeman认为，这项工作正在把每个人都变成管理者，并提出了让人始终掌控循环的七个步骤：像对待页面加载预算一样衡量阅读时间；按严重程度给智能体请求排序；设计审查环节；把决策写在智能体能找到的地方；管理智能体；以判断力为标准招聘；围绕审查重建入门级岗位。"
               },
               {
                 "t": "p",
-                "x": "新的Review开关更进一步：在工作室面板中，通过幻灯片的“Review outline notes”或视频的“Review producer notes”审阅方案，并在渲染前给出反馈，例如添加执行摘要或调换某个场景的顺序。选择“Proceed”即可生成最终成品。"
-              },
-              {
-                "t": "p",
-                "x": "如果你已经清楚自己想要什么，在提示中说明即可，Notebook会直接进入审阅环节。若只需快速产出，可跳过Review开关，照常生成。这些协同创作功能将在未来一周内面向全球所有Gemini Notebook用户陆续推出。"
+                "x": "产出越来越便宜，而人的注意力始终有限。设计师、研究人员和产品经理决定智能体向人展示什么、何时打断以及审查如何进行，他们的工作是建立判断体系，甄别什么值得关注。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini Notebook te deja guiar\nsus diapositivas y videos",
-          "body": "Gemini Notebook ya permite guiar los Slide Decks y Video Overviews generados en vez de aceptar un resultado único.",
-          "mini_headline": "Presentaciones guiables en Gemini Notebook",
+          "headline": "La atención humana, otra vez\ncuello de botella del diseño",
+          "body": "Anthropic registra seis horas de agentes por hora humana, y los diseñadores deben decidir qué merece atención.",
+          "mini_headline": "Diseñar para la atención humana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
-                "cap": "Ilustración que muestra las nuevas funciones de revisión de presentaciones"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+                "cap": "Una amplia planta de oficinas donde una persona lee en un escritorio mientras decenas de pantallas a su alrededor se siguen llenando de trabajo nuevo que debe atender."
               },
               {
                 "t": "p",
-                "x": "A partir de los comentarios de los usuarios, Gemini Notebook ofrece ahora más control creativo de principio a fin en dos de sus formatos más populares: Slide Decks y Video Overviews. En lugar de saltar de una instrucción inicial directamente al resultado final, puede guiarte por el proceso de creación basándose directamente en tus fuentes."
+                "x": "El 16 de octubre, cuatro investigadores de Anthropic publicaron “How employment is changing at Anthropic”. Para agosto de 2026, los agentes dirigidos por empleados registraban seis horas por cada hora de trabajo de sus personas. Las sesiones de agentes pasaban cerca del 80% de su tiempo inactivas, esperando a una persona, e incluso para quienes no programan, leer todo lo que producían sus agentes llevaría más de media semana laboral. “Ese es el impuesto de lectura, y todo equipo con agentes lo pagará”."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+                "cap": "Los agentes trabajan más que los humanos. No es una sorpresa."
               },
               {
                 "t": "p",
-                "x": "Si pides en el chat diapositivas o un resumen en video, Notebook sugiere temas para incluir. Una vez que confirmas, puedes orientar aún más el contenido y definir el estilo visual y el formato."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+                "x": "Patrick Neeman sostiene que este trabajo está convirtiendo a todos en gestores y propone siete pasos para que las personas sigan al mando del ciclo: medir el tiempo de lectura como un presupuesto de carga de página, clasificar las solicitudes de los agentes por gravedad, diseñar el paso de revisión, dejar las decisiones por escrito donde los agentes puedan encontrarlas, gestionar a los agentes, contratar por criterio y rediseñar los puestos de nivel inicial en torno a la revisión."
               },
               {
                 "t": "p",
-                "x": "Un nuevo interruptor Review va más allá: permite revisar el plan en el panel del estudio mediante “Review outline notes” para diapositivas o “Review producer notes” para video, y dar indicaciones —como añadir un resumen ejecutivo o cambiar el orden de una escena— antes de que se genere nada. Al seleccionar “Proceed” se produce el resultado final."
-              },
-              {
-                "t": "p",
-                "x": "Si ya sabes lo que quieres, dilo en la instrucción y Notebook pasa directamente a la revisión. Para un resultado rápido, omite el interruptor Review y genera como de costumbre. Las funciones de cocreación se están desplegando a nivel mundial para todos los usuarios de Gemini Notebook durante la próxima semana."
+                "x": "La producción es cada vez más barata, mientras la atención humana sigue siendo fija. Diseñadores, investigadores y gerentes de producto definen qué muestran los agentes a las personas, cuándo interrumpen y cómo funciona la revisión, y el trabajo consiste en crear sistemas de criterio sobre qué merece atención."
               }
             ]
           }
@@ -223,1569 +1566,129 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini 슬라이드·영상\n이제 직접 조율한다",
-          "body": "Gemini Notebook이 슬라이드와 영상 개요를 직접 조율하게 했다.",
-          "mini_headline": "Gemini Notebook, 조율 가능한 덱",
+          "headline": "사람의 주의력이\n다시 디자인 병목이다",
+          "body": "Anthropic 연구에서 에이전트는 사람의 여섯 배 시간을 일했다.",
+          "mini_headline": "사람의 주의력을 위한 디자인",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
-                "cap": "새로운 리뷰 슬라이드 덱 기능을 보여주는 일러스트"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+                "cap": "넓은 사무실에서 한 사람이 책상에 앉아 글을 읽고, 주변의 수십 개 화면에는 그가 처리해야 할 새 일이 계속 쌓인다."
               },
               {
                 "t": "p",
-                "x": "Gemini Notebook은 사용자 피드백을 반영해 인기 있는 두 가지 결과물인 Slide Decks와 Video Overviews에서 처음부터 끝까지 더 많은 창작 통제권을 준다. 첫 프롬프트에서 곧바로 최종 결과물로 넘어가는 대신, 사용자의 자료를 바탕으로 제작 과정을 단계별로 안내한다."
+                "x": "10월 16일, Anthropic 연구원 네 명이 “How employment is changing at Anthropic”을 발표했다. 2026년 8월에는 직원이 지시한 에이전트가 사람이 일한 한 시간마다 여섯 시간을 기록했다. 에이전트 세션은 시간의 약 80%를 사람을 기다리며 유휴 상태로 보냈고, 코딩을 하지 않는 직원이라도 에이전트가 만든 결과물을 모두 읽으려면 주당 근무 시간의 절반 이상이 걸린다. “그것이 읽기 세금이며, 에이전트를 쓰는 모든 팀이 이를 치르게 될 것이다.”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+                "cap": "에이전트가 사람보다 더 많이 일한다. 놀랄 일은 아니다."
               },
               {
                 "t": "p",
-                "x": "채팅에서 슬라이드나 영상 개요를 요청하면 Notebook이 담을 주제를 제안한다. 확인한 뒤에는 내용을 더 다듬고 시각 스타일과 형식도 조정할 수 있다."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+                "x": "Patrick Neeman은 이 일이 모두를 관리자로 만들고 있다고 주장하며, 사람이 루프의 주도권을 쥐기 위한 일곱 단계를 제시한다. 읽기 시간을 페이지 로드 예산처럼 측정하고, 에이전트 요청에 심각도에 따라 순위를 매기고, 검토 단계를 설계하고, 결정 사항을 에이전트가 찾을 수 있는 곳에 기록하고, 에이전트를 관리하고, 판단력을 기준으로 채용하고, 신입 직무를 검토 중심으로 다시 짜는 것이다."
               },
               {
                 "t": "p",
-                "x": "새 Review 토글은 한 걸음 더 나아간다. 스튜디오 패널에서 슬라이드는 “Review outline notes”, 영상은 “Review producer notes”로 계획을 검토하고, 렌더링 전에 경영진 요약 추가나 장면 순서 변경 같은 피드백을 줄 수 있다. “Proceed”를 누르면 최종 결과물이 만들어진다."
-              },
-              {
-                "t": "p",
-                "x": "원하는 바가 분명하면 프롬프트에 그렇게 적으면 되고, Notebook은 바로 검토 단계로 넘어간다. 빠른 결과물이 필요하면 Review 토글을 건너뛰고 평소처럼 생성하면 된다. 공동 제작 기능은 앞으로 일주일에 걸쳐 전 세계 모든 Gemini Notebook 사용자에게 배포된다."
+                "x": "산출물은 갈수록 싸지지만 사람의 주의력은 그대로다. 디자이너, 리서처, 프로덕트 매니저는 에이전트가 사람에게 무엇을 보여 줄지, 언제 끼어들지, 검토가 어떻게 이뤄질지를 정한다. 이제 이들의 일은 무엇이 주의를 기울일 가치가 있는지 가려내는 판단 체계를 만드는 것이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiのスライドと動画\n途中で調整可能に",
-          "body": "Gemini Notebookで、スライドと動画概要を途中で調整できるようになった。",
-          "mini_headline": "Gemini Notebookで調整できる資料",
+          "headline": "人間の注意力が再び\nデザインのボトルネックに",
+          "body": "Anthropicの研究では、エージェントの稼働時間が人間の六倍に達した。",
+          "mini_headline": "人間の注意力のためのデザイン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
-                "cap": "新しいレビュー機能を備えたスライド資料のイラスト"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+                "cap": "広いオフィスで一人が机に向かって読み物をしている。周りの何十もの画面には、その人が対処すべき新しい仕事が次々と表示されていく。"
               },
               {
                 "t": "p",
-                "x": "Gemini Notebookはユーザーの声を受け、人気の高い二つの出力形式であるSlide DecksとVideo Overviewsについて、最初から最後までより細かく創作をコントロールできるようにした。最初のプロンプトから一気に最終出力へ進むのではなく、ソースに基づいて制作の流れを順に案内する。"
+                "x": "10月16日、Anthropicの研究者四人が「How employment is changing at Anthropic」を公開した。2026年8月までに、従業員が指示するエージェントは、人が働く一時間ごとに六時間分の作業を記録するようになった。エージェントのセッションは時間の約80%を人を待つアイドル状態で過ごしており、コードを書かない人でも、エージェントの出力をすべて読むには週の労働時間の半分以上がかかる。「それが読む税金であり、エージェントを使うすべてのチームが払うことになる」"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+                "cap": "エージェントは人間より多く働く。驚くことではない。"
               },
               {
                 "t": "p",
-                "x": "チャットでスライドや動画概要を依頼すると、Notebookが盛り込むトピックを提案する。確認すれば、内容をさらに調整し、ビジュアルのスタイルや形式も指示できる。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+                "x": "Patrick Neemanは、この仕事が誰もをマネージャーに変えつつあると論じ、人がループの主導権を握り続けるための七つのステップを示す。読む時間をページ読み込みの予算のように測る、エージェントの要求を重大度で順位づける、レビューの工程を設計する、決定事項をエージェントが見つけられる場所に書き残す、エージェントを管理する、判断力で採用する、そしてエントリーレベルの職務をレビュー中心に作り直す、というものだ。"
               },
               {
                 "t": "p",
-                "x": "新しいReviewトグルはさらに踏み込む。スタジオパネルで、スライドなら「Review outline notes」、動画なら「Review producer notes」から計画を確認し、レンダリング前にエグゼクティブサマリーの追加やシーンの順番の入れ替えといったフィードバックを伝えられる。「Proceed」を選ぶと最終成果物が生成される。"
-              },
-              {
-                "t": "p",
-                "x": "作りたいものが決まっているならプロンプトでそう伝えれば、Notebookはすぐにレビューへ進む。手早く出力したい場合はReviewトグルを使わず、通常どおり生成すればよい。この共同制作機能は今後一週間で、世界中のすべてのGemini Notebookユーザーに順次提供される。"
+                "x": "アウトプットはますます安くなる一方、人間の注意力は増えない。デザイナー、リサーチャー、プロダクトマネージャーは、エージェントが人に何を見せ、いつ割り込み、レビューをどう進めるかを決める立場にある。その仕事は、何が注意に値するかを見極める判断の仕組みをつくることだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini幻灯片与视频\n生成过程可由你掌控",
-          "body": "Gemini Notebook现在让用户引导生成的幻灯片和视频概览，而非接受一次性结果。",
-          "mini_headline": "Gemini Notebook可引导的幻灯片",
+          "headline": "人的注意力\n再次成为设计瓶颈",
+          "body": "Anthropic研究显示，智能体工作时长是人的六倍，设计者须决定什么值得关注。",
+          "mini_headline": "为人的注意力而设计",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
-                "cap": "展示全新审阅幻灯片功能的插图"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+                "cap": "宽敞的办公区里，一个人坐在桌前阅读，周围数十块屏幕不断涌现等待他处理的新工作。"
               },
               {
                 "t": "p",
-                "x": "根据用户反馈，Gemini Notebook如今在两种热门输出形式Slide Decks和Video Overviews上，从头到尾提供更多创作控制。它不再从最初的提示直接跳到最终成品，而是直接依据你的资料，带你一步步完成创作流程。"
+                "x": "10月16日，四位Anthropic研究人员发表了《How employment is changing at Anthropic》。到2026年8月，员工指挥的智能体在员工每工作一小时的同时，会记录六小时的工作。智能体会话约有80%的时间处于闲置状态，等待人来处理；即便是不写代码的人，要读完智能体产出的全部内容，也要花掉一周工作时间的一半以上。“这就是阅读税，每个使用智能体的团队都要为此买单。”"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+                "cap": "智能体比人干得多。这并不意外。"
               },
               {
                 "t": "p",
-                "x": "在聊天中请求幻灯片或视频概览，Notebook会建议应包含的主题。确认后，你可以进一步引导内容，并指定视觉风格和格式。"
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+                "x": "Patrick Neeman认为，这项工作正在把每个人都变成管理者，并提出了让人始终掌控循环的七个步骤：像对待页面加载预算一样衡量阅读时间；按严重程度给智能体请求排序；设计审查环节；把决策写在智能体能找到的地方；管理智能体；以判断力为标准招聘；围绕审查重建入门级岗位。"
               },
               {
                 "t": "p",
-                "x": "新的Review开关更进一步：在工作室面板中，通过幻灯片的“Review outline notes”或视频的“Review producer notes”审阅方案，并在渲染前给出反馈，例如添加执行摘要或调换某个场景的顺序。选择“Proceed”即可生成最终成品。"
-              },
-              {
-                "t": "p",
-                "x": "如果你已经清楚自己想要什么，在提示中说明即可，Notebook会直接进入审阅环节。若只需快速产出，可跳过Review开关，照常生成。这些协同创作功能将在未来一周内面向全球所有Gemini Notebook用户陆续推出。"
+                "x": "产出越来越便宜，而人的注意力始终有限。设计师、研究人员和产品经理决定智能体向人展示什么、何时打断以及审查如何进行，他们的工作是建立判断体系，甄别什么值得关注。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini Notebook te deja guiar\nsus diapositivas y videos",
-          "body": "Gemini Notebook ya permite guiar los Slide Decks y Video Overviews generados en vez de aceptar un resultado único.",
-          "mini_headline": "Presentaciones guiables en Gemini Notebook",
+          "headline": "La atención humana, otra vez\ncuello de botella del diseño",
+          "body": "Anthropic registra seis horas de agentes por hora humana, y los diseñadores deben decidir qué merece atención.",
+          "mini_headline": "Diseñar para la atención humana",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
-                "cap": "Ilustración que muestra las nuevas funciones de revisión de presentaciones"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+                "cap": "Una amplia planta de oficinas donde una persona lee en un escritorio mientras decenas de pantallas a su alrededor se siguen llenando de trabajo nuevo que debe atender."
               },
               {
                 "t": "p",
-                "x": "A partir de los comentarios de los usuarios, Gemini Notebook ofrece ahora más control creativo de principio a fin en dos de sus formatos más populares: Slide Decks y Video Overviews. En lugar de saltar de una instrucción inicial directamente al resultado final, puede guiarte por el proceso de creación basándose directamente en tus fuentes."
-              },
-              {
-                "t": "p",
-                "x": "Si pides en el chat diapositivas o un resumen en video, Notebook sugiere temas para incluir. Una vez que confirmas, puedes orientar aún más el contenido y definir el estilo visual y el formato."
-              },
-              {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Un nuevo interruptor Review va más allá: permite revisar el plan en el panel del estudio mediante “Review outline notes” para diapositivas o “Review producer notes” para video, y dar indicaciones —como añadir un resumen ejecutivo o cambiar el orden de una escena— antes de que se genere nada. Al seleccionar “Proceed” se produce el resultado final."
-              },
-              {
-                "t": "p",
-                "x": "Si ya sabes lo que quieres, dilo en la instrucción y Notebook pasa directamente a la revisión. Para un resultado rápido, omite el interruptor Review y genera como de costumbre. Las funciones de cocreación se están desplegando a nivel mundial para todos los usuarios de Gemini Notebook durante la próxima semana."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-flux3-max-video",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "FLUX 3 Max 출시\nfal의 빠른 영상 모델",
-      "body": "fal이 BFL과 후속 학습한 영상 모델 FLUX 3 Max를 API로 공개했다.",
-      "mini_headline": "fal, FLUX 3 Max 영상 모델 출시",
-      "tool": "KeyShot",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
-          },
-          {
-            "t": "p",
-            "x": "fal이 2026년 10월 19일 영상 생성 모델 FLUX 3 Max를 내놨다. fal Research가 Black Forest Labs와 함께 FLUX 3 파운데이션 모델을 후속 학습해 만들었고, 발표 당일부터 fal 추론 플랫폼에서 쓸 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "fal Research는 시각 충실도와 움직임 일관성, 프롬프트 준수도를 끌어올리려고 FLUX 3를 더 학습시켰다. 추론과 서빙은 fal 자체 엔진에 맞춰 최적화했다. BFL CEO Robin Rombach는 FLUX 3를 남들이 그 위에 무언가를 쌓아 올릴 수 있는 토대로 만들었다고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "fal은 Artificial Analysis Video Arena의 예비 image-to-video 평가에서 Elo 1,139점을 받아 원래 FLUX 3(1,089)보다 50점 높았다고 밝혔다. 자체 벤치마크에선 10초 영상을 10.95초 만에 뽑았다. fal의 설명으로는 Elo가 같은 Seedance 2.5보다 22배, FLUX 3보다 11.5배 빠르다. 다만 제품 페이지에는 10초 720p 영상 기준 12.45초로, 수치가 다르게 적혀 있다."
-          },
-          {
-            "t": "p",
-            "x": "Artificial Analysis 자체 리더보드에서 FLUX 3 Max는 Elo 1,138점으로, 1,140점인 MiniMax H3에 이어 두 번째다."
-          },
-          {
-            "t": "p",
-            "x": "API로는 720p text-to-video와 image-to-video 엔드포인트를 쓸 수 있다. 출시 기념가는 초당 $0.0425로 정가 $0.17보다 75퍼센트 싸며, 2026년 11월 7일까지 적용된다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "fal launches FLUX 3 Max,\na faster video model",
-          "body": "fal released FLUX 3 Max, a video model post-trained with Black Forest Labs, available now through its API.",
-          "mini_headline": "fal ships FLUX 3 Max video",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
-              },
-              {
-                "t": "p",
-                "x": "fal announced FLUX 3 Max on October 19, 2026, a video generation model post-trained by fal Research in collaboration with Black Forest Labs on the FLUX 3 foundation model. It became available the same day through fal’s inference platform."
-              },
-              {
-                "t": "p",
-                "x": "fal Research continued training FLUX 3 to improve visual fidelity, motion coherence and prompt adherence, and optimized inference and serving on fal’s own engine. BFL CEO Robin Rombach said FLUX 3 was built as a foundation for others to build on."
-              },
-              {
-                "t": "p",
-                "x": "fal reports a 1,139 Elo rating in preliminary Artificial Analysis Video Arena image-to-video evaluations, a 50-point gain over the original FLUX 3 (1,089). Its benchmark generated a 10-second video in 10.95 seconds — which fal calls 22 times faster than Seedance 2.5 at the same Elo and 11.5 times faster than FLUX 3. The product page lists a different figure: 12.45 seconds for a 10-second 720p video."
-              },
-              {
-                "t": "p",
-                "x": "Artificial Analysis’s own leaderboard lists FLUX 3 Max at 1,138 Elo, second behind MiniMax H3 at 1,140."
-              },
-              {
-                "t": "p",
-                "x": "The API offers text-to-video and image-to-video endpoints at 720p. Launch pricing is $0.0425 per second, 75 percent off the $0.17 list price, until November 7, 2026."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "FLUX 3 Max 출시\nfal의 빠른 영상 모델",
-          "body": "fal이 BFL과 후속 학습한 영상 모델 FLUX 3 Max를 API로 공개했다.",
-          "mini_headline": "fal, FLUX 3 Max 영상 모델 출시",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
-              },
-              {
-                "t": "p",
-                "x": "fal이 2026년 10월 19일 영상 생성 모델 FLUX 3 Max를 내놨다. fal Research가 Black Forest Labs와 함께 FLUX 3 파운데이션 모델을 후속 학습해 만들었고, 발표 당일부터 fal 추론 플랫폼에서 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "fal Research는 시각 충실도와 움직임 일관성, 프롬프트 준수도를 끌어올리려고 FLUX 3를 더 학습시켰다. 추론과 서빙은 fal 자체 엔진에 맞춰 최적화했다. BFL CEO Robin Rombach는 FLUX 3를 남들이 그 위에 무언가를 쌓아 올릴 수 있는 토대로 만들었다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "fal은 Artificial Analysis Video Arena의 예비 image-to-video 평가에서 Elo 1,139점을 받아 원래 FLUX 3(1,089)보다 50점 높았다고 밝혔다. 자체 벤치마크에선 10초 영상을 10.95초 만에 뽑았다. fal의 설명으로는 Elo가 같은 Seedance 2.5보다 22배, FLUX 3보다 11.5배 빠르다. 다만 제품 페이지에는 10초 720p 영상 기준 12.45초로, 수치가 다르게 적혀 있다."
-              },
-              {
-                "t": "p",
-                "x": "Artificial Analysis 자체 리더보드에서 FLUX 3 Max는 Elo 1,138점으로, 1,140점인 MiniMax H3에 이어 두 번째다."
-              },
-              {
-                "t": "p",
-                "x": "API로는 720p text-to-video와 image-to-video 엔드포인트를 쓸 수 있다. 출시 기념가는 초당 $0.0425로 정가 $0.17보다 75퍼센트 싸며, 2026년 11월 7일까지 적용된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "fal、FLUX 3 Max\n高速な動画モデルを公開",
-          "body": "falはBFLと後学習した動画モデルFLUX 3 MaxをAPIで公開した。",
-          "mini_headline": "falがFLUX 3 Max動画モデルを公開",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
-              },
-              {
-                "t": "p",
-                "x": "falは2026年10月19日、動画生成モデルFLUX 3 Maxを発表した。fal ResearchがBlack Forest Labsと協力し、FLUX 3基盤モデルを後学習したもので、同日からfalの推論プラットフォームで利用可能になった。"
-              },
-              {
-                "t": "p",
-                "x": "fal ResearchはFLUX 3の学習を続けて視覚的忠実度、動きの一貫性、プロンプトへの追従性を高め、fal独自のエンジン上で推論とサービングを最適化した。BFLのCEOであるRobin Rombachは、FLUX 3は他者がその上に構築するための基盤として作られたと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "falによると、Artificial Analysis Video Arenaの暫定的なimage-to-video評価でElo 1,139を記録し、元のFLUX 3（1,089）から50ポイント向上した。同社のベンチマークでは10秒の動画を10.95秒で生成し、falはこれを同じEloのSeedance 2.5より22倍、FLUX 3より11.5倍速いとしている。製品ページには、10秒の720p 動画で12.45秒という別の数値が記載されている。"
-              },
-              {
-                "t": "p",
-                "x": "Artificial Analysis自身のリーダーボードでは、FLUX 3 MaxはElo 1,138で、1,140のMiniMax H3に次ぐ二番手だ。"
-              },
-              {
-                "t": "p",
-                "x": "APIは720p のtext-to-videoとimage-to-videoのエンドポイントを提供する。ローンチ価格は毎秒$0.0425で、定価$0.17から75パーセント引きとなり、2026年11月7日まで適用される。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "fal lanza FLUX 3 Max,\nun modelo de video más rápido",
-          "body": "fal lanzó FLUX 3 Max, un modelo de video posentrenado con Black Forest Labs, ya disponible a través de su API.",
-          "mini_headline": "fal lanza el modelo de video FLUX 3 Max",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
-              },
-              {
-                "t": "p",
-                "x": "fal anunció el 19 de octubre de 2026 FLUX 3 Max, un modelo de generación de video que fal Research posentrenó en colaboración con Black Forest Labs a partir del modelo fundacional FLUX 3. Quedó disponible ese mismo día en la plataforma de inferencia de fal."
-              },
-              {
-                "t": "p",
-                "x": "fal Research siguió entrenando FLUX 3 para mejorar la fidelidad visual, la coherencia del movimiento y la adherencia a las instrucciones, y optimizó la inferencia y el servicio en el motor propio de fal. Robin Rombach, CEO de BFL, dijo que FLUX 3 se creó como una base sobre la que otros pudieran construir."
-              },
-              {
-                "t": "p",
-                "x": "fal informa una puntuación Elo de 1,139 en evaluaciones preliminares image-to-video de Artificial Analysis Video Arena, 50 puntos más que el FLUX 3 original (1,089). En su prueba generó un video de 10 segundos en 10.95 segundos, lo que según fal es 22 veces más rápido que Seedance 2.5 con el mismo Elo y 11.5 veces más rápido que FLUX 3. La página del producto indica otra cifra: 12.45 segundos para un video de 10 segundos en 720p."
-              },
-              {
-                "t": "p",
-                "x": "La clasificación de la propia Artificial Analysis sitúa a FLUX 3 Max con 1,138 Elo, en segundo lugar detrás de MiniMax H3, con 1,140."
-              },
-              {
-                "t": "p",
-                "x": "La API ofrece endpoints text-to-video e image-to-video en 720p. El precio de lanzamiento es de $0.0425 por segundo, 75 por ciento menos que el precio de lista de $0.17, hasta el 7 de noviembre de 2026."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "fal推出更快视频模型\nFLUX 3 Max",
-          "body": "fal携手Black Forest Labs推出视频模型FLUX 3 Max，已开放API。",
-          "mini_headline": "fal上线FLUX 3 Max视频模型",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
-              },
-              {
-                "t": "p",
-                "x": "fal于2026年10月19日发布FLUX 3 Max。这是fal Research与Black Forest Labs合作、在FLUX 3基础模型上进行后训练的视频生成模型，当天即通过fal的推理平台上线。"
-              },
-              {
-                "t": "p",
-                "x": "fal Research对FLUX 3进行了持续训练，以提升视觉保真度、运动连贯性和提示词遵循度，并在fal自有引擎上优化了推理与服务。BFL CEO Robin Rombach表示，FLUX 3本就是作为供他人在其上构建的基础而打造的。"
-              },
-              {
-                "t": "p",
-                "x": "fal称，在Artificial Analysis Video Arena的初步image-to-video评测中，该模型获得1,139 Elo，比原版FLUX 3（1,089）高出50分。其基准测试用10.95秒生成了一段10秒视频——fal称这比同等Elo的Seedance 2.5快22倍，比FLUX 3快11.5倍。产品页面给出的数字则不同：生成一段10秒720p视频需12.45秒。"
-              },
-              {
-                "t": "p",
-                "x": "Artificial Analysis自己的排行榜显示FLUX 3 Max为1,138 Elo，位列第二，仅次于1,140的MiniMax H3。"
-              },
-              {
-                "t": "p",
-                "x": "API提供720p的text-to-video和image-to-video端点。首发价格为每秒$0.0425，比$0.17的标价便宜百分之75，优惠期至2026年11月7日。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "FLUX 3 Max 출시\nfal의 빠른 영상 모델",
-          "body": "fal이 BFL과 후속 학습한 영상 모델 FLUX 3 Max를 API로 공개했다.",
-          "mini_headline": "fal, FLUX 3 Max 영상 모델 출시",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
-              },
-              {
-                "t": "p",
-                "x": "fal은 2026년 10월 19일 영상 생성 모델 FLUX 3 Max를 발표했다. fal Research가 Black Forest Labs와 함께 FLUX 3 파운데이션 모델을 후속 학습해 만든 모델로, 같은 날 fal의 추론 플랫폼에서 바로 쓸 수 있게 됐다."
-              },
-              {
-                "t": "p",
-                "x": "fal Research는 시각적 충실도, 움직임의 일관성, 프롬프트 준수도를 높이기 위해 FLUX 3 학습을 이어갔고, fal 자체 엔진에서 추론과 서빙을 최적화했다. BFL CEO Robin Rombach는 FLUX 3를 다른 이들이 그 위에 쌓아 올릴 수 있는 토대로 만들었다고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "fal에 따르면 Artificial Analysis Video Arena의 예비 image-to-video 평가에서 Elo 1,139점을 기록해 원래 FLUX 3(1,089)보다 50점 올랐다. 자체 벤치마크에서는 10초 영상을 10.95초 만에 생성했으며, fal은 이를 같은 Elo의 Seedance 2.5보다 22배, FLUX 3보다 11.5배 빠른 수치라고 설명했다. 제품 페이지에는 10초 720p 영상 기준 12.45초라는 다른 수치가 적혀 있다."
-              },
-              {
-                "t": "p",
-                "x": "Artificial Analysis 자체 리더보드에는 FLUX 3 Max가 Elo 1,138점으로, 1,140점인 MiniMax H3에 이어 두 번째에 올라 있다."
-              },
-              {
-                "t": "p",
-                "x": "API는 720p 해상도의 text-to-video와 image-to-video 엔드포인트를 제공한다. 출시 기념 가격은 초당 $0.0425로, 정가 $0.17에서 75퍼센트 할인된 가격이며 2026년 11월 7일까지 적용된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "fal、FLUX 3 Max\n高速な動画モデルを公開",
-          "body": "falはBFLと後学習した動画モデルFLUX 3 MaxをAPIで公開した。",
-          "mini_headline": "falがFLUX 3 Max動画モデルを公開",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
-              },
-              {
-                "t": "p",
-                "x": "falは2026年10月19日、動画生成モデルFLUX 3 Maxを発表した。fal ResearchがBlack Forest Labsと協力し、FLUX 3基盤モデルを後学習したもので、同日からfalの推論プラットフォームで利用可能になった。"
-              },
-              {
-                "t": "p",
-                "x": "fal ResearchはFLUX 3の学習を続けて視覚的忠実度、動きの一貫性、プロンプトへの追従性を高め、fal独自のエンジン上で推論とサービングを最適化した。BFLのCEOであるRobin Rombachは、FLUX 3は他者がその上に構築するための基盤として作られたと述べた。"
-              },
-              {
-                "t": "p",
-                "x": "falによると、Artificial Analysis Video Arenaの暫定的なimage-to-video評価でElo 1,139を記録し、元のFLUX 3（1,089）から50ポイント向上した。同社のベンチマークでは10秒の動画を10.95秒で生成し、falはこれを同じEloのSeedance 2.5より22倍、FLUX 3より11.5倍速いとしている。製品ページには、10秒の720p 動画で12.45秒という別の数値が記載されている。"
-              },
-              {
-                "t": "p",
-                "x": "Artificial Analysis自身のリーダーボードでは、FLUX 3 MaxはElo 1,138で、1,140のMiniMax H3に次ぐ二番手だ。"
-              },
-              {
-                "t": "p",
-                "x": "APIは720p のtext-to-videoとimage-to-videoのエンドポイントを提供する。ローンチ価格は毎秒$0.0425で、定価$0.17から75パーセント引きとなり、2026年11月7日まで適用される。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "fal lanza FLUX 3 Max,\nun modelo de video más rápido",
-          "body": "fal lanzó FLUX 3 Max, un modelo de video posentrenado con Black Forest Labs, ya disponible a través de su API.",
-          "mini_headline": "fal lanza el modelo de video FLUX 3 Max",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
-              },
-              {
-                "t": "p",
-                "x": "fal anunció el 19 de octubre de 2026 FLUX 3 Max, un modelo de generación de video que fal Research posentrenó en colaboración con Black Forest Labs a partir del modelo fundacional FLUX 3. Quedó disponible ese mismo día en la plataforma de inferencia de fal."
-              },
-              {
-                "t": "p",
-                "x": "fal Research siguió entrenando FLUX 3 para mejorar la fidelidad visual, la coherencia del movimiento y la adherencia a las instrucciones, y optimizó la inferencia y el servicio en el motor propio de fal. Robin Rombach, CEO de BFL, dijo que FLUX 3 se creó como una base sobre la que otros pudieran construir."
-              },
-              {
-                "t": "p",
-                "x": "fal informa una puntuación Elo de 1,139 en evaluaciones preliminares image-to-video de Artificial Analysis Video Arena, 50 puntos más que el FLUX 3 original (1,089). En su prueba generó un video de 10 segundos en 10.95 segundos, lo que según fal es 22 veces más rápido que Seedance 2.5 con el mismo Elo y 11.5 veces más rápido que FLUX 3. La página del producto indica otra cifra: 12.45 segundos para un video de 10 segundos en 720p."
-              },
-              {
-                "t": "p",
-                "x": "La clasificación de la propia Artificial Analysis sitúa a FLUX 3 Max con 1,138 Elo, en segundo lugar detrás de MiniMax H3, con 1,140."
-              },
-              {
-                "t": "p",
-                "x": "La API ofrece endpoints text-to-video e image-to-video en 720p. El precio de lanzamiento es de $0.0425 por segundo, 75 por ciento menos que el precio de lista de $0.17, hasta el 7 de noviembre de 2026."
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "fal推出更快视频模型\nFLUX 3 Max",
-          "body": "fal携手Black Forest Labs推出视频模型FLUX 3 Max，已开放API。",
-          "mini_headline": "fal上线FLUX 3 Max视频模型",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg"
-              },
-              {
-                "t": "p",
-                "x": "fal于2026年10月19日发布FLUX 3 Max。这是fal Research与Black Forest Labs合作、在FLUX 3基础模型上进行后训练的视频生成模型，当天即通过fal的推理平台上线。"
-              },
-              {
-                "t": "p",
-                "x": "fal Research对FLUX 3进行了持续训练，以提升视觉保真度、运动连贯性和提示词遵循度，并在fal自有引擎上优化了推理与服务。BFL CEO Robin Rombach表示，FLUX 3本就是作为供他人在其上构建的基础而打造的。"
-              },
-              {
-                "t": "p",
-                "x": "fal称，在Artificial Analysis Video Arena的初步image-to-video评测中，该模型获得1,139 Elo，比原版FLUX 3（1,089）高出50分。其基准测试用10.95秒生成了一段10秒视频——fal称这比同等Elo的Seedance 2.5快22倍，比FLUX 3快11.5倍。产品页面给出的数字则不同：生成一段10秒720p视频需12.45秒。"
-              },
-              {
-                "t": "p",
-                "x": "Artificial Analysis自己的排行榜显示FLUX 3 Max为1,138 Elo，位列第二，仅次于1,140的MiniMax H3。"
-              },
-              {
-                "t": "p",
-                "x": "API提供720p的text-to-video和image-to-video端点。首发价格为每秒$0.0425，比$0.17的标价便宜百分之75，优惠期至2026年11月7日。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-cg-roundup-1018",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Autograph에 MCP\nRed Giant AI조명",
-      "body": "Maxon Autograph가 MCP로 Claude·ChatGPT와 연결된다.",
-      "mini_headline": "Autograph에 MCP 서버 추가",
-      "tool": "KeyShot",
-      "source": "CG Channel",
-      "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-18-october-2026/",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "video",
-            "yt": "sAsuw-nt-GM"
-          },
-          {
-            "t": "p",
-            "x": "CG Channel은 매주 소규모 CG 소프트웨어 업데이트를 모아 round-up으로 전한다. 이번 첫 소식은 Maxon의 Autograph 2027.0과 Red Giant 2027.0이다."
-          },
-          {
-            "t": "p",
-            "x": "Autograph는 Maxon이 올해 초 무료로 푼 USD-based(USD 기반) 모션 그래픽·VFX·합성 소프트웨어다. 이번 업데이트는 무료화 이후 가장 크다. 새 MCP Server로 Claude나 ChatGPT 같은 외부 AI 도구와 이어진다. 그 밖에 Tile 모디파이어 모드가 새로 생겼고 세로쓰기와 일본어 타이포그래피가 좋아졌다. Cinema 4D 2027.0의 카메라·조명·프리미티브를 복사해 붙여 넣을 수 있고, Adobe Fonts도 지원한다."
-          },
-          {
-            "t": "p",
-            "x": "Maxon의 이펙트 플러그인 모음 Red Giant에는 AI-assisted 리라이팅 시스템이 들어갔다. Scene Light가 AI-generated 뎁스 맵과 노멀 맵을 써서 After Effects 안에서 샷 조명을 새로 입힌다. Chromatic Displacement는 이제 Autograph에서도 돌아간다. Red Giant 전체 구독료는 $85/month 또는 $639/year다."
-          },
-          {
-            "t": "p",
-            "x": "ComfyUI에는 NVIDIA의 RTX 비디오 효과가 커스텀 노드로 들어왔다. 사용자 GPU에서 로컬로 돈다. RTX Video Super Resolution은 영상을 최대 4x 또는 8,192px까지 업스케일한다. Frame Generation은 프레임 레이트를 2–16x 올리고, HDR 노드는 SDR을 BT.2020 HDR로 바꿔 준다. 노드를 돌리려면 NVIDIA RTX GPU(프레임 생성은 RTX 40 Series 이상)가 있어야 하며, 라이선스는 Apache 2.0-licensed(Apache 2.0)다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Autograph gets an MCP server,\nRed Giant adds AI relighting",
-          "body": "Maxon's Autograph can now connect to Claude or ChatGPT via MCP, and NVIDIA's RTX video tools run locally as ComfyUI nodes.",
-          "mini_headline": "Autograph adds an MCP server",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "sAsuw-nt-GM"
-              },
-              {
-                "t": "p",
-                "x": "CG Channel’s weekly round-up of smaller CG software updates leads with Maxon’s Autograph 2027.0 and Red Giant 2027.0."
-              },
-              {
-                "t": "p",
-                "x": "Autograph, the USD-based motion graphics, VFX and compositing software Maxon made free earlier this year, gets its biggest update since: a new MCP Server connects it to external AI tools like Claude or ChatGPT. Other additions include new Tile modifier modes, improved vertical text and Japanese typography, copy-and-paste of cameras, lights and primitives from Cinema 4D 2027.0, and Adobe Fonts support."
-              },
-              {
-                "t": "p",
-                "x": "Red Giant, Maxon’s effects plugin suite, gets an AI-assisted relighting system: Scene Light relights shots in After Effects using AI-generated depth and normal maps. Chromatic Displacement is now supported in Autograph. Full Red Giant subscriptions cost $85/month or $639/year."
-              },
-              {
-                "t": "p",
-                "x": "In ComfyUI, NVIDIA’s RTX video effects now run as custom nodes locally on a user’s GPU: RTX Video Super Resolution upscales video up to 4x or 8,192px, Frame Generation raises frame rates 2–16x, and an HDR node converts SDR to BT.2020 HDR. The nodes need an NVIDIA RTX GPU (RTX 40 Series or better for frame generation) and are Apache 2.0-licensed."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Autograph에 MCP\nRed Giant AI조명",
-          "body": "Maxon Autograph가 MCP로 Claude·ChatGPT와 연결된다.",
-          "mini_headline": "Autograph에 MCP 서버 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "sAsuw-nt-GM"
-              },
-              {
-                "t": "p",
-                "x": "CG Channel은 매주 소규모 CG 소프트웨어 업데이트를 모아 round-up으로 전한다. 이번 첫 소식은 Maxon의 Autograph 2027.0과 Red Giant 2027.0이다."
-              },
-              {
-                "t": "p",
-                "x": "Autograph는 Maxon이 올해 초 무료로 푼 USD-based(USD 기반) 모션 그래픽·VFX·합성 소프트웨어다. 이번 업데이트는 무료화 이후 가장 크다. 새 MCP Server로 Claude나 ChatGPT 같은 외부 AI 도구와 이어진다. 그 밖에 Tile 모디파이어 모드가 새로 생겼고 세로쓰기와 일본어 타이포그래피가 좋아졌다. Cinema 4D 2027.0의 카메라·조명·프리미티브를 복사해 붙여 넣을 수 있고, Adobe Fonts도 지원한다."
-              },
-              {
-                "t": "p",
-                "x": "Maxon의 이펙트 플러그인 모음 Red Giant에는 AI-assisted 리라이팅 시스템이 들어갔다. Scene Light가 AI-generated 뎁스 맵과 노멀 맵을 써서 After Effects 안에서 샷 조명을 새로 입힌다. Chromatic Displacement는 이제 Autograph에서도 돌아간다. Red Giant 전체 구독료는 $85/month 또는 $639/year다."
-              },
-              {
-                "t": "p",
-                "x": "ComfyUI에는 NVIDIA의 RTX 비디오 효과가 커스텀 노드로 들어왔다. 사용자 GPU에서 로컬로 돈다. RTX Video Super Resolution은 영상을 최대 4x 또는 8,192px까지 업스케일한다. Frame Generation은 프레임 레이트를 2–16x 올리고, HDR 노드는 SDR을 BT.2020 HDR로 바꿔 준다. 노드를 돌리려면 NVIDIA RTX GPU(프레임 생성은 RTX 40 Series 이상)가 있어야 하며, 라이선스는 Apache 2.0-licensed(Apache 2.0)다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AutographにMCP\nRed GiantにAI照明",
-          "body": "MaxonのAutographがMCPでClaude・ChatGPTと連携する。",
-          "mini_headline": "AutographにMCPサーバー",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "sAsuw-nt-GM"
-              },
-              {
-                "t": "p",
-                "x": "CG Channelが小規模なCGソフトウェアのアップデートをまとめる週刊round-upは、MaxonのAutograph 2027.0とRed Giant 2027.0が筆頭だ。"
-              },
-              {
-                "t": "p",
-                "x": "Autographは、Maxonが今年初めに無料化したUSD-based（USDベース）のモーショングラフィックス・VFX・コンポジットソフトで、それ以来最大のアップデートとなる。新しいMCP Serverにより、ClaudeやChatGPTといった外部のAIツールと接続できる。ほかにも新しいTileモディファイアのモード、縦書きと日本語組版の改善、Cinema 4D 2027.0からのカメラ・ライト・プリミティブのコピー＆ペースト、Adobe Fontsへの対応が加わった。"
-              },
-              {
-                "t": "p",
-                "x": "Maxonのエフェクトプラグイン群Red Giantには、AI-assistedのリライティング機能が入った。Scene Lightは、AI-generatedの深度マップと法線マップを使ってAfter Effects上でショットのライティングをやり直す。Chromatic DisplacementはAutographでも使えるようになった。Red Giantのフルサブスクリプションは$85/monthまたは$639/yearだ。"
-              },
-              {
-                "t": "p",
-                "x": "ComfyUIでは、NVIDIAのRTXビデオエフェクトがユーザーのGPU上でローカルに動くカスタムノードになった。RTX Video Super Resolutionは動画を最大4xまたは8,192pxまでアップスケールし、Frame Generationはフレームレートを2–16xに高め、HDRノードはSDRをBT.2020 HDRに変換する。ノードの利用にはNVIDIA RTX GPU（フレーム生成にはRTX 40 Series以上）が必要で、ライセンスはApache 2.0-licensed（Apache 2.0）である。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Autograph接入MCP\nRed Giant添AI补光",
-          "body": "Maxon的Autograph现可通过MCP连接Claude或ChatGPT。",
-          "mini_headline": "Autograph新增MCP服务器",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "sAsuw-nt-GM"
-              },
-              {
-                "t": "p",
-                "x": "CG Channel每周汇总小型CG软件更新的round-up，本期以Maxon的Autograph 2027.0和Red Giant 2027.0领衔。"
-              },
-              {
-                "t": "p",
-                "x": "Autograph是Maxon今年早些时候免费开放的USD-based（基于USD）动态图形、VFX与合成软件，此次迎来此后最大的一次更新：新的MCP Server可将其与Claude或ChatGPT等外部AI工具连接。其他新增内容包括新的Tile修改器模式、改进的竖排文字与日文排版、从Cinema 4D 2027.0复制粘贴摄像机、灯光和基本体，以及Adobe Fonts支持。"
-              },
-              {
-                "t": "p",
-                "x": "Maxon的特效插件套件Red Giant加入了AI-assisted重新布光系统：Scene Light利用AI-generated深度图和法线图，在After Effects中为镜头重新布光。Chromatic Displacement现已支持Autograph。Red Giant完整订阅价格为$85/month或$639/year。"
-              },
-              {
-                "t": "p",
-                "x": "在ComfyUI中，NVIDIA的RTX视频特效现以自定义节点形式在用户GPU上本地运行：RTX Video Super Resolution可将视频放大至最高4x或8,192px，Frame Generation可将帧率提升2–16x，HDR节点则把SDR转换为BT.2020 HDR。这些节点需要NVIDIA RTX GPU（帧生成需RTX 40 Series或更高），采用Apache 2.0-licensed（Apache 2.0许可）。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Autograph suma un servidor MCP\nRed Giant reilumina con AI",
-          "body": "Autograph de Maxon ya se conecta a Claude o ChatGPT vía MCP, y las herramientas RTX de NVIDIA corren en ComfyUI.",
-          "mini_headline": "Autograph suma un servidor MCP",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "sAsuw-nt-GM"
-              },
-              {
-                "t": "p",
-                "x": "El round-up semanal de CG Channel sobre actualizaciones menores de software CG arranca con Autograph 2027.0 y Red Giant 2027.0 de Maxon."
-              },
-              {
-                "t": "p",
-                "x": "Autograph, el software USD-based (basado en USD) de motion graphics, VFX y composición que Maxon liberó gratis a principios de año, recibe su mayor actualización desde entonces: un nuevo MCP Server lo conecta con herramientas de AI externas como Claude o ChatGPT. Otras novedades son nuevos modos del modificador Tile, mejoras en el texto vertical y la tipografía japonesa, copiar y pegar cámaras, luces y primitivas desde Cinema 4D 2027.0, y compatibilidad con Adobe Fonts."
-              },
-              {
-                "t": "p",
-                "x": "Red Giant, el conjunto de plugins de efectos de Maxon, incorpora un sistema de reiluminación AI-assisted: Scene Light vuelve a iluminar planos en After Effects con mapas de profundidad y de normales AI-generated. Chromatic Displacement ya es compatible con Autograph. La suscripción completa a Red Giant cuesta $85/month o $639/year."
-              },
-              {
-                "t": "p",
-                "x": "En ComfyUI, los efectos de video RTX de NVIDIA funcionan ahora como nodos personalizados de forma local en la GPU del usuario: RTX Video Super Resolution escala el video hasta 4x u 8,192px, Frame Generation multiplica la tasa de fotogramas por 2–16x y un nodo HDR convierte SDR a BT.2020 HDR. Los nodos requieren una NVIDIA RTX GPU (RTX 40 Series o superior para la generación de fotogramas) y son Apache 2.0-licensed (licencia Apache 2.0)."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Autograph에 MCP\nRed Giant AI조명",
-          "body": "Maxon Autograph가 MCP로 Claude·ChatGPT와 연결된다.",
-          "mini_headline": "Autograph에 MCP 서버 추가",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "sAsuw-nt-GM"
-              },
-              {
-                "t": "p",
-                "x": "CG Channel이 소규모 CG 소프트웨어 업데이트를 모아 전하는 주간 round-up은 Maxon의 Autograph 2027.0과 Red Giant 2027.0으로 시작한다."
-              },
-              {
-                "t": "p",
-                "x": "Autograph는 Maxon이 올해 초 무료로 푼 USD-based(USD 기반) 모션 그래픽·VFX·합성 소프트웨어로, 이번에 그 뒤 가장 큰 업데이트를 받았다. 새 MCP Server가 Claude나 ChatGPT 같은 외부 AI 도구와 연결해 준다. 이 밖에 새 Tile 모디파이어 모드, 세로쓰기와 일본어 타이포그래피 개선, Cinema 4D 2027.0의 카메라·조명·프리미티브 복사-붙여넣기, Adobe Fonts 지원이 더해졌다."
-              },
-              {
-                "t": "p",
-                "x": "Maxon의 이펙트 플러그인 모음 Red Giant에는 AI-assisted 리라이팅 시스템이 들어갔다. Scene Light는 AI-generated 뎁스 맵과 노멀 맵으로 After Effects 안에서 샷의 조명을 다시 입힌다. Chromatic Displacement는 이제 Autograph에서도 쓸 수 있다. Red Giant 전체 구독료는 $85/month 또는 $639/year다."
-              },
-              {
-                "t": "p",
-                "x": "ComfyUI에서는 NVIDIA의 RTX 비디오 효과가 사용자 GPU에서 로컬로 도는 커스텀 노드가 됐다. RTX Video Super Resolution은 영상을 최대 4x 또는 8,192px까지 업스케일하고, Frame Generation은 프레임 레이트를 2–16x 높이며, HDR 노드는 SDR을 BT.2020 HDR로 바꾼다. 노드를 쓰려면 NVIDIA RTX GPU(프레임 생성은 RTX 40 Series 이상)가 필요하고, 라이선스는 Apache 2.0-licensed(Apache 2.0)다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AutographにMCP\nRed GiantにAI照明",
-          "body": "MaxonのAutographがMCPでClaude・ChatGPTと連携する。",
-          "mini_headline": "AutographにMCPサーバー",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "sAsuw-nt-GM"
-              },
-              {
-                "t": "p",
-                "x": "CG Channelが小規模なCGソフトウェアのアップデートをまとめる週刊round-upは、MaxonのAutograph 2027.0とRed Giant 2027.0が筆頭だ。"
-              },
-              {
-                "t": "p",
-                "x": "Autographは、Maxonが今年初めに無料化したUSD-based（USDベース）のモーショングラフィックス・VFX・コンポジットソフトで、それ以来最大のアップデートとなる。新しいMCP Serverにより、ClaudeやChatGPTといった外部のAIツールと接続できる。ほかにも新しいTileモディファイアのモード、縦書きと日本語組版の改善、Cinema 4D 2027.0からのカメラ・ライト・プリミティブのコピー＆ペースト、Adobe Fontsへの対応が加わった。"
-              },
-              {
-                "t": "p",
-                "x": "Maxonのエフェクトプラグイン群Red Giantには、AI-assistedのリライティング機能が入った。Scene Lightは、AI-generatedの深度マップと法線マップを使ってAfter Effects上でショットのライティングをやり直す。Chromatic DisplacementはAutographでも使えるようになった。Red Giantのフルサブスクリプションは$85/monthまたは$639/yearだ。"
-              },
-              {
-                "t": "p",
-                "x": "ComfyUIでは、NVIDIAのRTXビデオエフェクトがユーザーのGPU上でローカルに動くカスタムノードになった。RTX Video Super Resolutionは動画を最大4xまたは8,192pxまでアップスケールし、Frame Generationはフレームレートを2–16xに高め、HDRノードはSDRをBT.2020 HDRに変換する。ノードの利用にはNVIDIA RTX GPU（フレーム生成にはRTX 40 Series以上）が必要で、ライセンスはApache 2.0-licensed（Apache 2.0）である。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Autograph接入MCP\nRed Giant添AI补光",
-          "body": "Maxon的Autograph现可通过MCP连接Claude或ChatGPT。",
-          "mini_headline": "Autograph新增MCP服务器",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "sAsuw-nt-GM"
-              },
-              {
-                "t": "p",
-                "x": "CG Channel每周汇总小型CG软件更新的round-up，本期以Maxon的Autograph 2027.0和Red Giant 2027.0领衔。"
-              },
-              {
-                "t": "p",
-                "x": "Autograph是Maxon今年早些时候免费开放的USD-based（基于USD）动态图形、VFX与合成软件，此次迎来此后最大的一次更新：新的MCP Server可将其与Claude或ChatGPT等外部AI工具连接。其他新增内容包括新的Tile修改器模式、改进的竖排文字与日文排版、从Cinema 4D 2027.0复制粘贴摄像机、灯光和基本体，以及Adobe Fonts支持。"
-              },
-              {
-                "t": "p",
-                "x": "Maxon的特效插件套件Red Giant加入了AI-assisted重新布光系统：Scene Light利用AI-generated深度图和法线图，在After Effects中为镜头重新布光。Chromatic Displacement现已支持Autograph。Red Giant完整订阅价格为$85/month或$639/year。"
-              },
-              {
-                "t": "p",
-                "x": "在ComfyUI中，NVIDIA的RTX视频特效现以自定义节点形式在用户GPU上本地运行：RTX Video Super Resolution可将视频放大至最高4x或8,192px，Frame Generation可将帧率提升2–16x，HDR节点则把SDR转换为BT.2020 HDR。这些节点需要NVIDIA RTX GPU（帧生成需RTX 40 Series或更高），采用Apache 2.0-licensed（Apache 2.0许可）。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Autograph suma un servidor MCP\nRed Giant reilumina con AI",
-          "body": "Autograph de Maxon ya se conecta a Claude o ChatGPT vía MCP, y las herramientas RTX de NVIDIA corren en ComfyUI.",
-          "mini_headline": "Autograph suma un servidor MCP",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "video",
-                "yt": "sAsuw-nt-GM"
-              },
-              {
-                "t": "p",
-                "x": "El round-up semanal de CG Channel sobre actualizaciones menores de software CG arranca con Autograph 2027.0 y Red Giant 2027.0 de Maxon."
-              },
-              {
-                "t": "p",
-                "x": "Autograph, el software USD-based (basado en USD) de motion graphics, VFX y composición que Maxon liberó gratis a principios de año, recibe su mayor actualización desde entonces: un nuevo MCP Server lo conecta con herramientas de AI externas como Claude o ChatGPT. Otras novedades son nuevos modos del modificador Tile, mejoras en el texto vertical y la tipografía japonesa, copiar y pegar cámaras, luces y primitivas desde Cinema 4D 2027.0, y compatibilidad con Adobe Fonts."
-              },
-              {
-                "t": "p",
-                "x": "Red Giant, el conjunto de plugins de efectos de Maxon, incorpora un sistema de reiluminación AI-assisted: Scene Light vuelve a iluminar planos en After Effects con mapas de profundidad y de normales AI-generated. Chromatic Displacement ya es compatible con Autograph. La suscripción completa a Red Giant cuesta $85/month o $639/year."
-              },
-              {
-                "t": "p",
-                "x": "En ComfyUI, los efectos de video RTX de NVIDIA funcionan ahora como nodos personalizados de forma local en la GPU del usuario: RTX Video Super Resolution escala el video hasta 4x u 8,192px, Frame Generation multiplica la tasa de fotogramas por 2–16x y un nodo HDR convierte SDR a BT.2020 HDR. Los nodos requieren una NVIDIA RTX GPU (RTX 40 Series o superior para la generación de fotogramas) y son Apache 2.0-licensed (licencia Apache 2.0)."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-wunderui-agentic-ds",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트용 디자인\n시스템 WunderUI",
-      "body": "WunderUI는 AI 코딩 에이전트도 따르도록 쓴 디자인 시스템이다.",
-      "mini_headline": "에이전트를 위한 디자인 시스템",
-      "tool": "Design Tokens",
-      "source": "DEV Community",
-      "url": "https://dev.to/wunderui/introducing-wunderui-the-agentic-design-system-1oag",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "p",
-            "x": "디자인 시스템은 원래 문서를 읽는 사람을 위한 것이었다. 그런데 이제 UI의 상당 부분은 AI 코딩 에이전트가 쓴다. 에이전트에겐 분명한 규칙과 실제 컴포넌트, 마음대로 벗어날 수 없는 디자인 언어가 필요하다. 저자가 WunderUI를 만든 까닭이다."
-          },
-          {
-            "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
-          },
-          {
-            "t": "p",
-            "x": "청구 대시보드를 만들어 달라고 하면 에이전트는 빈칸을 추측으로 메우기 십상이다. 팔레트에 없는 hex 색상, div로 짠 표, 요소마다 붙은 transition-all, 있지도 않은 props, 아무렇게나 고른 다크 모드 같은 것들이다."
-          },
-          {
-            "t": "p",
-            "x": "WunderUI는 Figma 디자인 시스템과 React 라이브러리(Base UI 위의 Tailwind CSS v4)를 한 원천에서 같이 내준다. 컴포넌트 205개, 색상·라운드·밀도·모션 토큰, 에이전트가 불러 쓰는 DESIGN.md와 design.json, MCP 서버까지 갖췄다."
-          },
-          {
-            "t": "img",
-            "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
-          },
-          {
-            "t": "p",
-            "x": "DESIGN.md는 짧고 검증할 수 있는 규칙을 모은 문서다. 색상은 하드코딩하지 않는다, 테마는 토큰을 덮어써서 바꾼다, 모션은 토큰으로만 준다 같은 식이다. 해야 할 작업과 컴포넌트를 짝지은 표도 들어 있다. Agent-UI 컴포넌트(AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError)는 Pro 플랜에 포함된다."
-          },
-          {
-            "t": "p",
-            "x": "에이전트 스킬은 12개로, 그중 token-check와 motion-audit 등 네 개는 무료다. 컴포넌트 77개는 MIT 라이선스로 무료이고, 나머지 128개와 스킬 전부는 연간 유료 플랜인 Core·Pro에 들어간다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "WunderUI pitches a design\nsystem built for AI agents",
-          "body": "WunderUI's creator pitches it as a design system written for AI coding agents to follow, not just humans reading docs.",
-          "mini_headline": "A design system for agents",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Design systems were built for humans who read docs. Now much UI is written by AI coding agents, which need explicit rules, real components and a design language they can’t improvise around — that’s why the author built WunderUI."
+                "x": "El 16 de octubre, cuatro investigadores de Anthropic publicaron “How employment is changing at Anthropic”. Para agosto de 2026, los agentes dirigidos por empleados registraban seis horas por cada hora de trabajo de sus personas. Las sesiones de agentes pasaban cerca del 80% de su tiempo inactivas, esperando a una persona, e incluso para quienes no programan, leer todo lo que producían sus agentes llevaría más de media semana laboral. “Ese es el impuesto de lectura, y todo equipo con agentes lo pagará”."
               },
               {
                 "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
+                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+                "cap": "Los agentes trabajan más que los humanos. No es una sorpresa."
               },
               {
                 "t": "p",
-                "x": "Asked for a billing dashboard, agents tend to guess: off-palette hex colors, tables built from divs, transition-all on everything, nonexistent props, hand-picked dark mode."
+                "x": "Patrick Neeman sostiene que este trabajo está convirtiendo a todos en gestores y propone siete pasos para que las personas sigan al mando del ciclo: medir el tiempo de lectura como un presupuesto de carga de página, clasificar las solicitudes de los agentes por gravedad, diseñar el paso de revisión, dejar las decisiones por escrito donde los agentes puedan encontrarlas, gestionar a los agentes, contratar por criterio y rediseñar los puestos de nivel inicial en torno a la revisión."
               },
               {
                 "t": "p",
-                "x": "WunderUI pairs a Figma design system with a React library (Tailwind CSS v4 on Base UI) from one source of truth: 205 components, tokens for color, radius, density and motion, plus a DESIGN.md and design.json agents can fetch and an MCP server."
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
-              },
-              {
-                "t": "p",
-                "x": "The DESIGN.md is a set of short, testable rules — never hardcode colors, theme by overriding tokens, motion from tokens only — with a task table mapping needs to components. Agent-UI components (AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError) are in the Pro plan."
-              },
-              {
-                "t": "p",
-                "x": "There are 12 agent skills, four free, such as token-check and motion-audit. 77 components are free under MIT; the other 128 and all skills come with paid yearly Core and Pro plans."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 에이전트용 디자인\n시스템 WunderUI",
-          "body": "WunderUI는 AI 코딩 에이전트도 따르도록 쓴 디자인 시스템이다.",
-          "mini_headline": "에이전트를 위한 디자인 시스템",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "디자인 시스템은 원래 문서를 읽는 사람을 위한 것이었다. 그런데 이제 UI의 상당 부분은 AI 코딩 에이전트가 쓴다. 에이전트에겐 분명한 규칙과 실제 컴포넌트, 마음대로 벗어날 수 없는 디자인 언어가 필요하다. 저자가 WunderUI를 만든 까닭이다."
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
-              },
-              {
-                "t": "p",
-                "x": "청구 대시보드를 만들어 달라고 하면 에이전트는 빈칸을 추측으로 메우기 십상이다. 팔레트에 없는 hex 색상, div로 짠 표, 요소마다 붙은 transition-all, 있지도 않은 props, 아무렇게나 고른 다크 모드 같은 것들이다."
-              },
-              {
-                "t": "p",
-                "x": "WunderUI는 Figma 디자인 시스템과 React 라이브러리(Base UI 위의 Tailwind CSS v4)를 한 원천에서 같이 내준다. 컴포넌트 205개, 색상·라운드·밀도·모션 토큰, 에이전트가 불러 쓰는 DESIGN.md와 design.json, MCP 서버까지 갖췄다."
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
-              },
-              {
-                "t": "p",
-                "x": "DESIGN.md는 짧고 검증할 수 있는 규칙을 모은 문서다. 색상은 하드코딩하지 않는다, 테마는 토큰을 덮어써서 바꾼다, 모션은 토큰으로만 준다 같은 식이다. 해야 할 작업과 컴포넌트를 짝지은 표도 들어 있다. Agent-UI 컴포넌트(AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError)는 Pro 플랜에 포함된다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트 스킬은 12개로, 그중 token-check와 motion-audit 등 네 개는 무료다. 컴포넌트 77개는 MIT 라이선스로 무료이고, 나머지 128개와 스킬 전부는 연간 유료 플랜인 Core·Pro에 들어간다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "WunderUIが提案する\nAI向けデザインシステム",
-          "body": "WunderUIは、AIコーディングエージェントが従うために書かれたデザインシステムだ。",
-          "mini_headline": "エージェントのためのデザインシステム",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "デザインシステムは、ドキュメントを読む人間のために作られてきた。いまやUIの多くはAIコーディングエージェントが書いており、エージェントには明確なルール、実際のコンポーネント、勝手にアレンジできないデザイン言語が必要だ。著者がWunderUIを作った理由はそこにある。"
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
-              },
-              {
-                "t": "p",
-                "x": "請求ダッシュボードを頼むと、エージェントは推測で埋めがちだ。パレット外のhexカラー、divで組んだテーブル、あらゆる要素へのtransition-all、存在しないprops、適当に選んだダークモードなどである。"
-              },
-              {
-                "t": "p",
-                "x": "WunderUIは、FigmaのデザインシステムとReactライブラリ（Base UI上のTailwind CSS v4）を単一の情報源から提供する。205のコンポーネント、色・角丸・密度・モーションのトークンに加え、エージェントが取得できるDESIGN.mdとdesign.json、そしてMCPサーバーを備える。"
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
-              },
-              {
-                "t": "p",
-                "x": "DESIGN.mdは短くテスト可能なルールの集まりだ。色をハードコードしない、トークンの上書きでテーマを変える、モーションはトークンのみから、といった内容に加え、必要な作業とコンポーネントを対応づけるタスク表もある。Agent-UIコンポーネント（AgentStatus、RunTimeline、ApprovalCard、CostMeter、RunError）はProプランに含まれる。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントスキルは12個あり、token-checkやmotion-auditなど四つは無料だ。77のコンポーネントはMITライセンスで無料で、残る128個とすべてのスキルは有料の年額CoreプランとProプランで提供される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "WunderUI主打\n面向AI智能体的设计系统",
-          "body": "WunderUI的作者称，它是写给AI编程智能体遵循的设计系统，而不只是给读文档的人。",
-          "mini_headline": "为智能体打造的设计系统",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "设计系统原本是为阅读文档的人类打造的。如今大量UI由AI编程智能体编写，它们需要明确的规则、真实的组件，以及无法随意发挥的设计语言——这正是作者打造WunderUI的原因。"
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
-              },
-              {
-                "t": "p",
-                "x": "让智能体做一个账单仪表盘，它们往往会靠猜：超出调色板的hex颜色、用div拼出的表格、处处都是transition-all、不存在的props、随手挑选的深色模式。"
-              },
-              {
-                "t": "p",
-                "x": "WunderUI以单一可信来源，将Figma设计系统与React组件库（基于Base UI的Tailwind CSS v4）配套提供：205个组件，涵盖颜色、圆角、密度和动效的令牌，外加智能体可直接获取的DESIGN.md和design.json，以及一个MCP服务器。"
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
-              },
-              {
-                "t": "p",
-                "x": "DESIGN.md是一组简短、可测试的规则——绝不硬编码颜色、通过覆盖令牌来设定主题、动效只取自令牌——并附有一张将需求对应到组件的任务表。Agent-UI组件（AgentStatus、RunTimeline、ApprovalCard、CostMeter、RunError）包含在Pro方案中。"
-              },
-              {
-                "t": "p",
-                "x": "共有12项智能体技能，其中token-check和motion-audit等四项免费。77个组件以MIT许可免费提供；其余128个组件和全部技能需购买按年付费的Core和Pro方案。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "WunderUI propone un sistema\nde diseño para agentes de IA",
-          "body": "Su creador presenta WunderUI como un sistema de diseño escrito para agentes de código con IA, no solo para humanos.",
-          "mini_headline": "Un sistema de diseño para agentes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Los sistemas de diseño se crearon para personas que leen documentación. Hoy buena parte de la UI la escriben agentes de programación con IA (AI), que necesitan reglas explícitas, componentes reales y un lenguaje de diseño que no puedan improvisar; por eso el autor creó WunderUI."
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
-              },
-              {
-                "t": "p",
-                "x": "Si se les pide un panel de facturación, los agentes tienden a adivinar: colores hex fuera de la paleta, tablas hechas con div, transition-all en todo, props inexistentes, modo oscuro elegido a mano."
-              },
-              {
-                "t": "p",
-                "x": "WunderUI combina un sistema de diseño en Figma con una biblioteca de React (Tailwind CSS v4 sobre Base UI) a partir de una única fuente de verdad: 205 componentes, tokens de color, radio, densidad y movimiento, además de un DESIGN.md y un design.json que los agentes pueden consultar, y un servidor MCP."
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
-              },
-              {
-                "t": "p",
-                "x": "El DESIGN.md es un conjunto de reglas breves y comprobables —nunca fijar colores en el código, aplicar temas sobrescribiendo tokens, movimiento solo desde tokens— con una tabla de tareas que relaciona necesidades con componentes. Los componentes Agent-UI (AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError) están en el plan Pro."
-              },
-              {
-                "t": "p",
-                "x": "Hay 12 habilidades para agentes, cuatro de ellas gratuitas, como token-check y motion-audit. 77 componentes son gratuitos bajo licencia MIT; los otros 128 y todas las habilidades se incluyen en los planes anuales de pago Core y Pro."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 에이전트용 디자인\n시스템 WunderUI",
-          "body": "WunderUI는 AI 코딩 에이전트도 따르도록 쓴 디자인 시스템이다.",
-          "mini_headline": "에이전트를 위한 디자인 시스템",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "디자인 시스템은 문서를 읽는 사람을 위해 만들어졌다. 이제 UI의 상당 부분은 AI 코딩 에이전트가 쓰는데, 에이전트에게는 명확한 규칙과 실제 컴포넌트, 임의로 벗어날 수 없는 디자인 언어가 필요하다. 저자가 WunderUI를 만든 이유다."
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
-              },
-              {
-                "t": "p",
-                "x": "청구 대시보드를 요청하면 에이전트는 추측으로 채우기 쉽다. 팔레트에 없는 hex 색상, div로 짠 표, 모든 요소에 붙은 transition-all, 존재하지 않는 props, 임의로 고른 다크 모드가 그 예다."
-              },
-              {
-                "t": "p",
-                "x": "WunderUI는 Figma 디자인 시스템과 React 라이브러리(Base UI 위의 Tailwind CSS v4)를 하나의 원천에서 함께 제공한다. 205개 컴포넌트, 색상·라운드·밀도·모션 토큰, 에이전트가 불러올 수 있는 DESIGN.md와 design.json, 그리고 MCP 서버를 갖췄다."
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
-              },
-              {
-                "t": "p",
-                "x": "DESIGN.md는 짧고 검증 가능한 규칙 모음이다. 색상을 하드코딩하지 말 것, 토큰을 덮어써 테마를 바꿀 것, 모션은 토큰으로만 줄 것 등이며, 필요한 작업을 컴포넌트에 연결하는 작업 표도 담겼다. Agent-UI 컴포넌트(AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError)는 Pro 플랜에 들어 있다."
-              },
-              {
-                "t": "p",
-                "x": "에이전트 스킬은 12개이며, token-check와 motion-audit 등 네 개는 무료다. 컴포넌트 77개는 MIT 라이선스로 무료이고, 나머지 128개와 모든 스킬은 유료 연간 Core·Pro 플랜에 포함된다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "WunderUIが提案する\nAI向けデザインシステム",
-          "body": "WunderUIは、AIコーディングエージェントが従うために書かれたデザインシステムだ。",
-          "mini_headline": "エージェントのためのデザインシステム",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "デザインシステムは、ドキュメントを読む人間のために作られてきた。いまやUIの多くはAIコーディングエージェントが書いており、エージェントには明確なルール、実際のコンポーネント、勝手にアレンジできないデザイン言語が必要だ。著者がWunderUIを作った理由はそこにある。"
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
-              },
-              {
-                "t": "p",
-                "x": "請求ダッシュボードを頼むと、エージェントは推測で埋めがちだ。パレット外のhexカラー、divで組んだテーブル、あらゆる要素へのtransition-all、存在しないprops、適当に選んだダークモードなどである。"
-              },
-              {
-                "t": "p",
-                "x": "WunderUIは、FigmaのデザインシステムとReactライブラリ（Base UI上のTailwind CSS v4）を単一の情報源から提供する。205のコンポーネント、色・角丸・密度・モーションのトークンに加え、エージェントが取得できるDESIGN.mdとdesign.json、そしてMCPサーバーを備える。"
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
-              },
-              {
-                "t": "p",
-                "x": "DESIGN.mdは短くテスト可能なルールの集まりだ。色をハードコードしない、トークンの上書きでテーマを変える、モーションはトークンのみから、といった内容に加え、必要な作業とコンポーネントを対応づけるタスク表もある。Agent-UIコンポーネント（AgentStatus、RunTimeline、ApprovalCard、CostMeter、RunError）はProプランに含まれる。"
-              },
-              {
-                "t": "p",
-                "x": "エージェントスキルは12個あり、token-checkやmotion-auditなど四つは無料だ。77のコンポーネントはMITライセンスで無料で、残る128個とすべてのスキルは有料の年額CoreプランとProプランで提供される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "WunderUI主打\n面向AI智能体的设计系统",
-          "body": "WunderUI的作者称，它是写给AI编程智能体遵循的设计系统，而不只是给读文档的人。",
-          "mini_headline": "为智能体打造的设计系统",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "设计系统原本是为阅读文档的人类打造的。如今大量UI由AI编程智能体编写，它们需要明确的规则、真实的组件，以及无法随意发挥的设计语言——这正是作者打造WunderUI的原因。"
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
-              },
-              {
-                "t": "p",
-                "x": "让智能体做一个账单仪表盘，它们往往会靠猜：超出调色板的hex颜色、用div拼出的表格、处处都是transition-all、不存在的props、随手挑选的深色模式。"
-              },
-              {
-                "t": "p",
-                "x": "WunderUI以单一可信来源，将Figma设计系统与React组件库（基于Base UI的Tailwind CSS v4）配套提供：205个组件，涵盖颜色、圆角、密度和动效的令牌，外加智能体可直接获取的DESIGN.md和design.json，以及一个MCP服务器。"
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
-              },
-              {
-                "t": "p",
-                "x": "DESIGN.md是一组简短、可测试的规则——绝不硬编码颜色、通过覆盖令牌来设定主题、动效只取自令牌——并附有一张将需求对应到组件的任务表。Agent-UI组件（AgentStatus、RunTimeline、ApprovalCard、CostMeter、RunError）包含在Pro方案中。"
-              },
-              {
-                "t": "p",
-                "x": "共有12项智能体技能，其中token-check和motion-audit等四项免费。77个组件以MIT许可免费提供；其余128个组件和全部技能需购买按年付费的Core和Pro方案。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "WunderUI propone un sistema\nde diseño para agentes de IA",
-          "body": "Su creador presenta WunderUI como un sistema de diseño escrito para agentes de código con IA, no solo para humanos.",
-          "mini_headline": "Un sistema de diseño para agentes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "p",
-                "x": "Los sistemas de diseño se crearon para personas que leen documentación. Hoy buena parte de la UI la escriben agentes de programación con IA (AI), que necesitan reglas explícitas, componentes reales y un lenguaje de diseño que no puedan improvisar; por eso el autor creó WunderUI."
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Far6towoqvfrb6ss9vj50.png"
-              },
-              {
-                "t": "p",
-                "x": "Si se les pide un panel de facturación, los agentes tienden a adivinar: colores hex fuera de la paleta, tablas hechas con div, transition-all en todo, props inexistentes, modo oscuro elegido a mano."
-              },
-              {
-                "t": "p",
-                "x": "WunderUI combina un sistema de diseño en Figma con una biblioteca de React (Tailwind CSS v4 sobre Base UI) a partir de una única fuente de verdad: 205 componentes, tokens de color, radio, densidad y movimiento, además de un DESIGN.md y un design.json que los agentes pueden consultar, y un servidor MCP."
-              },
-              {
-                "t": "img",
-                "src": "https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Feqd1tqbjfahoyytc1zna.png"
-              },
-              {
-                "t": "p",
-                "x": "El DESIGN.md es un conjunto de reglas breves y comprobables —nunca fijar colores en el código, aplicar temas sobrescribiendo tokens, movimiento solo desde tokens— con una tabla de tareas que relaciona necesidades con componentes. Los componentes Agent-UI (AgentStatus, RunTimeline, ApprovalCard, CostMeter, RunError) están en el plan Pro."
-              },
-              {
-                "t": "p",
-                "x": "Hay 12 habilidades para agentes, cuatro de ellas gratuitas, como token-check y motion-audit. 77 componentes son gratuitos bajo licencia MIT; los otros 128 y todas las habilidades se incluyen en los planes anuales de pago Core y Pro."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-ai-photo-false-memory",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI-edited 사진이\n가짜 기억을 심는다",
-      "body": "MIT 연구에 따르면 AI-edited 사진·영상은 거짓 기억과 확신을 키운다.",
-      "mini_headline": "AI 편집이 거짓 기억을 심는다",
-      "tool": "AI Workflow",
-      "source": "PetaPixel",
-      "url": "https://petapixel.com/2026/10/19/ai-edited-photos-can-lead-people-to-form-fake-memories/",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
-            "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
-          },
-          {
-            "t": "p",
-            "x": "The Washington Post가 보도한 MIT Media Lab 실험에 따르면, AI-edited 사진과 영상은 거짓 기억을 심을 뿐 아니라 사람들이 사건을 틀린 모습 그대로 더 확신하게 만든다."
-          },
-          {
-            "t": "p",
-            "x": "Pattie Maes 교수 연구진은 참가자에게 결혼식, 도시 거리, 경주 같은 평범한 사진 24장을 보여 줬다. 잠깐 쉬게 한 뒤 일부에게는 원본을 다시, 나머지에게는 AI-altered 버전을 보여 줬다. 변형본을 본 사람들은 세부를 잘못 기억할 가능성이 더 컸고 틀린 답에도 더 확신을 보였다. Maes는 “기본적으로 이 모든 게 매우 위험하다고 본다”고 말했다."
-          },
-          {
-            "t": "img",
-            "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
-            "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
-          },
-          {
-            "t": "p",
-            "x": "CHI 2025에 실린 논문에서는 참가자 200명을 50명씩 네 그룹으로 나눴다. 각 그룹이 본 것은 원본, AI-edited 이미지, 원본을 다섯 초 분량으로 만든 AI 영상, 편집 이미지로 만든 AI 영상이다. AI를 거친 세 그룹은 모두 대조군보다 거짓 기억이 많았다. 편집 이미지 영상 그룹은 거짓 기억이 2.05배 많았고 확신도 1.19배 높았다."
-          },
-          {
-            "t": "p",
-            "x": "Wharton의 Gideon Nave는 AI가 주도권을 쥐는 일보다 인간이 “쇠퇴하기 시작하는” 일을 더 걱정한다. 그가 우려하는 건 “생각이 선택 사항이 되는” 세상이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "AI-edited photos can\nplant false memories",
-          "body": "An MIT Media Lab study finds AI-edited photos and videos plant false memories and make people surer of the wrong version.",
-          "mini_headline": "AI edits plant false memories",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
-                "cap": "Images used in an MIT Media Lab experiment on AI-edited photos and memory. | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "AI-edited photographs and videos create false memories and make people even more confident about the wrong version of an event, according to an MIT Media Lab experiment reported by The Washington Post."
-              },
-              {
-                "t": "p",
-                "x": "Professor Pattie Maes and colleagues showed participants 24 ordinary photographs — a wedding, a city street, a race. After a break, some saw the originals again while others saw AI-altered versions. Those who saw altered versions were more likely to misremember details, and more confident in their wrong answers. “I think of all this as very dangerous, basically,” Maes said."
-              },
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
-                "cap": "Images used in an MIT Media Lab experiment on AI-edited photos and memory. | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "In the paper, published at CHI 2025, 200 participants were split into four groups of 50: originals, AI-edited images, five-second AI videos of the originals, and AI videos of the edited images. All three AI groups formed more false memories than the control; the edited-image video group produced 2.05 times as many, with 1.19 times the confidence."
-              },
-              {
-                "t": "p",
-                "x": "Wharton’s Gideon Nave worries less about AI taking over than humans “starting to decay,” fearing a world where “thinking becomes optional.”"
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI-edited 사진이\n가짜 기억을 심는다",
-          "body": "MIT 연구에 따르면 AI-edited 사진·영상은 거짓 기억과 확신을 키운다.",
-          "mini_headline": "AI 편집이 거짓 기억을 심는다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
-                "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "The Washington Post가 보도한 MIT Media Lab 실험에 따르면, AI-edited 사진과 영상은 거짓 기억을 심을 뿐 아니라 사람들이 사건을 틀린 모습 그대로 더 확신하게 만든다."
-              },
-              {
-                "t": "p",
-                "x": "Pattie Maes 교수 연구진은 참가자에게 결혼식, 도시 거리, 경주 같은 평범한 사진 24장을 보여 줬다. 잠깐 쉬게 한 뒤 일부에게는 원본을 다시, 나머지에게는 AI-altered 버전을 보여 줬다. 변형본을 본 사람들은 세부를 잘못 기억할 가능성이 더 컸고 틀린 답에도 더 확신을 보였다. Maes는 “기본적으로 이 모든 게 매우 위험하다고 본다”고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
-                "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "CHI 2025에 실린 논문에서는 참가자 200명을 50명씩 네 그룹으로 나눴다. 각 그룹이 본 것은 원본, AI-edited 이미지, 원본을 다섯 초 분량으로 만든 AI 영상, 편집 이미지로 만든 AI 영상이다. AI를 거친 세 그룹은 모두 대조군보다 거짓 기억이 많았다. 편집 이미지 영상 그룹은 거짓 기억이 2.05배 많았고 확신도 1.19배 높았다."
-              },
-              {
-                "t": "p",
-                "x": "Wharton의 Gideon Nave는 AI가 주도권을 쥐는 일보다 인간이 “쇠퇴하기 시작하는” 일을 더 걱정한다. 그가 우려하는 건 “생각이 선택 사항이 되는” 세상이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-edited写真が\n偽の記憶を植える",
-          "body": "MITの研究では、AI-editedの写真や動画が偽の記憶を植え、誤りへの確信も強めた。",
-          "mini_headline": "AI編集が偽の記憶を植える",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
-                "cap": "AI-editedの写真と記憶に関するMIT Media Labの実験で使われた画像。 | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "The Washington Postが報じたMIT Media Labの実験によると、AI-editedの写真や動画は偽の記憶を生み、出来事の誤ったバージョンへの確信をさらに強める。"
-              },
-              {
-                "t": "p",
-                "x": "Pattie Maes教授らは、結婚式、街の通り、レースといったありふれた写真24枚を参加者に見せた。休憩の後、一部は元の写真を再び見て、残りはAI-alteredの版を見た。改変版を見た人は細部を誤って記憶しやすく、誤った答えへの確信も強かった。Maesは「基本的に、これはすべて非常に危険だと考えている」と述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
-                "cap": "AI-editedの写真と記憶に関するMIT Media Labの実験で使われた画像。 | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "CHI 2025で発表された論文では、参加者200人を50人ずつ四つのグループに分けた。元の写真、AI-editedの画像、元の写真から作った数秒（five-second）のAI動画、編集画像から作ったAI動画である。AIの三グループはいずれも対照群より偽の記憶が多く、編集画像の動画グループは2.05倍の偽の記憶を、1.19倍の確信とともに示した。"
-              },
-              {
-                "t": "p",
-                "x": "WhartonのGideon Naveは、AIに支配されることよりも人間が「衰え始める」ことを懸念し、「考えることが任意になる」世界を危ぶむ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI-edited照片\n能植入虚假记忆",
-          "body": "MIT研究发现，AI-edited照片和视频会植入虚假记忆，并让人更确信错误版本。",
-          "mini_headline": "AI修图会植入虚假记忆",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
-                "cap": "MIT Media Lab关于AI-edited照片与记忆的实验所用图像。 | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "据The Washington Post报道的一项MIT Media Lab实验，AI-edited照片和视频会制造虚假记忆，并让人对事件的错误版本更加确信。"
-              },
-              {
-                "t": "p",
-                "x": "Pattie Maes教授及同事向参与者展示了24张普通照片——婚礼、城市街道、赛跑。休息之后，一部分人再次看到原图，另一部分人看到的是AI-altered版本。看到改动版本的人更容易记错细节，对错误答案也更有把握。Maes说：“我基本上认为这一切都非常危险。”"
-              },
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
-                "cap": "MIT Media Lab关于AI-edited照片与记忆的实验所用图像。 | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "在发表于CHI 2025的论文中，200名参与者被分为四组，每组50人：原图组、AI-edited图像组、由原图生成的five-second AI视频组，以及由编辑后图像生成的AI视频组。三个AI组产生的虚假记忆都多于对照组；编辑图像视频组的虚假记忆是对照组的2.05倍，确信程度为1.19倍。"
-              },
-              {
-                "t": "p",
-                "x": "Wharton的Gideon Nave担心的与其说是AI接管一切，不如说是人类“开始退化”，他忧虑一个“思考变得可有可无”的世界。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Las fotos AI-edited pueden\nsembrar recuerdos falsos",
-          "body": "Un estudio del MIT Media Lab halla que fotos y videos AI-edited siembran recuerdos falsos y afianzan el error.",
-          "mini_headline": "La edición con AI siembra recuerdos falsos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
-                "cap": "Imágenes usadas en un experimento del MIT Media Lab sobre fotos AI-edited y memoria. | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "Las fotografías y los videos AI-edited crean recuerdos falsos y hacen que las personas confíen aún más en la versión equivocada de un hecho, según un experimento del MIT Media Lab publicado por The Washington Post."
-              },
-              {
-                "t": "p",
-                "x": "La profesora Pattie Maes y sus colegas mostraron a los participantes 24 fotografías corrientes: una boda, una calle de ciudad, una carrera. Tras una pausa, algunos volvieron a ver los originales y otros vieron versiones AI-altered. Quienes vieron las versiones alteradas tendieron más a recordar mal los detalles y se mostraron más seguros de sus respuestas erróneas. “Considero todo esto muy peligroso, básicamente”, dijo Maes."
-              },
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
-                "cap": "Imágenes usadas en un experimento del MIT Media Lab sobre fotos AI-edited y memoria. | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "En el artículo, presentado en CHI 2025, 200 participantes se dividieron en cuatro grupos de 50: originales, imágenes AI-edited, videos de AI de cinco segundos a partir de los originales y videos de AI de las imágenes editadas. Los tres grupos de AI formaron más recuerdos falsos que el grupo de control; el grupo de video de imágenes editadas produjo 2.05 veces más, con 1.19 veces la confianza."
-              },
-              {
-                "t": "p",
-                "x": "Gideon Nave, de Wharton, se preocupa menos por que la AI tome el control que por que los humanos “empiecen a deteriorarse”, y teme un mundo en el que “pensar se vuelva opcional”."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI-edited 사진이\n가짜 기억을 심는다",
-          "body": "MIT 연구에 따르면 AI-edited 사진·영상은 거짓 기억과 확신을 키운다.",
-          "mini_headline": "AI 편집이 거짓 기억을 심는다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
-                "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "The Washington Post가 보도한 MIT Media Lab 실험에 따르면, AI-edited 사진과 영상은 거짓 기억을 만들고 사람들이 잘못된 버전의 사건을 더 확신하게 만든다."
-              },
-              {
-                "t": "p",
-                "x": "Pattie Maes 교수 연구진은 참가자에게 결혼식, 도시 거리, 경주 같은 평범한 사진 24장을 보여 줬다. 잠시 쉰 뒤 일부는 원본을 다시 봤고, 나머지는 AI-altered 버전을 봤다. 변형본을 본 사람들은 세부를 잘못 기억할 가능성이 더 컸고, 틀린 답을 더 확신했다. Maes는 “기본적으로 이 모든 게 매우 위험하다고 본다”고 말했다."
-              },
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
-                "cap": "AI-edited 사진과 기억에 관한 MIT Media Lab 실험에 쓰인 이미지. | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "CHI 2025에 발표된 논문에서 참가자 200명은 50명씩 네 그룹으로 나뉘었다. 원본, AI-edited 이미지, 원본을 다섯 초 분량으로 만든 AI 영상, 편집 이미지를 바탕으로 한 AI 영상이다. AI 세 그룹 모두 대조군보다 거짓 기억이 많았고, 편집 이미지 영상 그룹은 2.05배 많은 거짓 기억을 1.19배의 확신과 함께 보였다."
-              },
-              {
-                "t": "p",
-                "x": "Wharton의 Gideon Nave는 AI가 주도권을 쥐는 것보다 인간이 “쇠퇴하기 시작하는” 것을 더 걱정하며, “생각이 선택 사항이 되는” 세상을 우려한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-edited写真が\n偽の記憶を植える",
-          "body": "MITの研究では、AI-editedの写真や動画が偽の記憶を植え、誤りへの確信も強めた。",
-          "mini_headline": "AI編集が偽の記憶を植える",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
-                "cap": "AI-editedの写真と記憶に関するMIT Media Labの実験で使われた画像。 | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "The Washington Postが報じたMIT Media Labの実験によると、AI-editedの写真や動画は偽の記憶を生み、出来事の誤ったバージョンへの確信をさらに強める。"
-              },
-              {
-                "t": "p",
-                "x": "Pattie Maes教授らは、結婚式、街の通り、レースといったありふれた写真24枚を参加者に見せた。休憩の後、一部は元の写真を再び見て、残りはAI-alteredの版を見た。改変版を見た人は細部を誤って記憶しやすく、誤った答えへの確信も強かった。Maesは「基本的に、これはすべて非常に危険だと考えている」と述べた。"
-              },
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
-                "cap": "AI-editedの写真と記憶に関するMIT Media Labの実験で使われた画像。 | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "CHI 2025で発表された論文では、参加者200人を50人ずつ四つのグループに分けた。元の写真、AI-editedの画像、元の写真から作った数秒（five-second）のAI動画、編集画像から作ったAI動画である。AIの三グループはいずれも対照群より偽の記憶が多く、編集画像の動画グループは2.05倍の偽の記憶を、1.19倍の確信とともに示した。"
-              },
-              {
-                "t": "p",
-                "x": "WhartonのGideon Naveは、AIに支配されることよりも人間が「衰え始める」ことを懸念し、「考えることが任意になる」世界を危ぶむ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI-edited照片\n能植入虚假记忆",
-          "body": "MIT研究发现，AI-edited照片和视频会植入虚假记忆，并让人更确信错误版本。",
-          "mini_headline": "AI修图会植入虚假记忆",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
-                "cap": "MIT Media Lab关于AI-edited照片与记忆的实验所用图像。 | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "据The Washington Post报道的一项MIT Media Lab实验，AI-edited照片和视频会制造虚假记忆，并让人对事件的错误版本更加确信。"
-              },
-              {
-                "t": "p",
-                "x": "Pattie Maes教授及同事向参与者展示了24张普通照片——婚礼、城市街道、赛跑。休息之后，一部分人再次看到原图，另一部分人看到的是AI-altered版本。看到改动版本的人更容易记错细节，对错误答案也更有把握。Maes说：“我基本上认为这一切都非常危险。”"
-              },
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
-                "cap": "MIT Media Lab关于AI-edited照片与记忆的实验所用图像。 | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "在发表于CHI 2025的论文中，200名参与者被分为四组，每组50人：原图组、AI-edited图像组、由原图生成的five-second AI视频组，以及由编辑后图像生成的AI视频组。三个AI组产生的虚假记忆都多于对照组；编辑图像视频组的虚假记忆是对照组的2.05倍，确信程度为1.19倍。"
-              },
-              {
-                "t": "p",
-                "x": "Wharton的Gideon Nave担心的与其说是AI接管一切，不如说是人类“开始退化”，他忧虑一个“思考变得可有可无”的世界。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Las fotos AI-edited pueden\nsembrar recuerdos falsos",
-          "body": "Un estudio del MIT Media Lab halla que fotos y videos AI-edited siembran recuerdos falsos y afianzan el error.",
-          "mini_headline": "La edición con AI siembra recuerdos falsos",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories-800x420.jpg",
-                "cap": "Imágenes usadas en un experimento del MIT Media Lab sobre fotos AI-edited y memoria. | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "Las fotografías y los videos AI-edited crean recuerdos falsos y hacen que las personas confíen aún más en la versión equivocada de un hecho, según un experimento del MIT Media Lab publicado por The Washington Post."
-              },
-              {
-                "t": "p",
-                "x": "La profesora Pattie Maes y sus colegas mostraron a los participantes 24 fotografías corrientes: una boda, una calle de ciudad, una carrera. Tras una pausa, algunos volvieron a ver los originales y otros vieron versiones AI-altered. Quienes vieron las versiones alteradas tendieron más a recordar mal los detalles y se mostraron más seguros de sus respuestas erróneas. “Considero todo esto muy peligroso, básicamente”, dijo Maes."
-              },
-              {
-                "t": "img",
-                "src": "https://petapixel.com/assets/uploads/2026/10/mit-lab-771x800.jpg",
-                "cap": "Imágenes usadas en un experimento del MIT Media Lab sobre fotos AI-edited y memoria. | MIT Media Lab"
-              },
-              {
-                "t": "p",
-                "x": "En el artículo, presentado en CHI 2025, 200 participantes se dividieron en cuatro grupos de 50: originales, imágenes AI-edited, videos de AI de cinco segundos a partir de los originales y videos de AI de las imágenes editadas. Los tres grupos de AI formaron más recuerdos falsos que el grupo de control; el grupo de video de imágenes editadas produjo 2.05 veces más, con 1.19 veces la confianza."
-              },
-              {
-                "t": "p",
-                "x": "Gideon Nave, de Wharton, se preocupa menos por que la AI tome el control que por que los humanos “empiecen a deteriorarse”, y teme un mundo en el que “pensar se vuelva opcional”."
+                "x": "La producción es cada vez más barata, mientras la atención humana sigue siendo fija. Diseñadores, investigadores y gerentes de producto definen qué muestran los agentes a las personas, cuándo interrumpen y cómo funciona la revisión, y el trabajo consiste en crear sistemas de criterio sobre qué merece atención."
               }
             ]
           }

@@ -1,7 +1,31 @@
-{"media": [
-  {"id": "marketing-meta-genrecs", "type": "image", "src": "pipeline/media/marketing-meta-genrecs.png"},
-  {"id": "marketing-monday-harmony", "type": "image", "src": "pipeline/media/marketing-monday-harmony.jpg"},
-  {"id": "marketing-minerva-cdp", "type": "image", "src": "pipeline/media/marketing-minerva-cdp.jpg"},
-  {"id": "marketing-basis-survey", "type": "image", "src": "pipeline/media/marketing-basis-survey.jpg"},
-  {"id": "marketing-lendi", "type": "svg"}
-]}
+{
+  "date": "2026-10-21",
+  "section": "marketing",
+  "media": [
+    {
+      "id": "marketing-chatgpt-ads-auto-enhance",
+      "type": "image",
+      "src": "pipeline/media/marketing-chatgpt-ads-auto-enhance.png"
+    },
+    {
+      "id": "marketing-gemini-small-business-tools",
+      "type": "image",
+      "src": "pipeline/media/marketing-gemini-small-business-tools.png"
+    },
+    {
+      "id": "marketing-ai-slop-recipe-mfa-sites",
+      "type": "image",
+      "src": "pipeline/media/marketing-ai-slop-recipe-mfa-sites.jpg"
+    },
+    {
+      "id": "marketing-ai-max-ad-grants-autoon",
+      "type": "image",
+      "src": "pipeline/media/marketing-ai-max-ad-grants-autoon.jpg"
+    },
+    {
+      "id": "marketing-hark-agent-pizza-promo",
+      "type": "image",
+      "src": "pipeline/media/marketing-hark-agent-pizza-promo.jpg"
+    }
+  ]
+}

@@ -8225,6 +8225,152 @@
           "x": "NPCTalk was developed with the assistance of Claude Code, and its knowledge is packaged as reusable AI-agent skills. Each game still needs its own integration, and it has only been shown in GTA V Legacy's single-player mode. The toolkit is on GitHub under the MIT license; a free, playable GTA V mod is due next week."
         }
       ]
+    },
+    "games/games-vivrato-vaia-ai-report": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Vivrato, a games industry consultancy headed by Adam Boyes, released the Vivrato AI Adoption (VAIA) Report 2026, saying AI is being used widely in game production but in a fairly shallow way so far."
+        },
+        {
+          "t": "p",
+          "x": "Of the 101 studio leaders Vivrato interviewed, 94% use AI in at least one of nine production stages, but 52% rate how deeply it is built into their full production pipeline at three or lower out of 10 — the median rating is three. 97% have used AI in some form. The confidential one-to-one interviews ran from April to September 2026, mainly with PC and console studios in North America and Europe, each following the same 44-question guide."
+        },
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
+        },
+        {
+          "t": "p",
+          "x": "\"The interesting question isn't around which game studios are using AI anymore,\" Boyes said. \"The focus is now where they're using it, what is changing, what's actually helping, and where teams are still running into challenges.\""
+        },
+        {
+          "t": "p",
+          "x": "Staff use generative AI for prototypes and concepts, but most did not want AI creations in the final product, and use in narrative world building was very low. Holding studios back: player sentiment, staff feelings, budget, the tools themselves, job-loss concerns and lack of time. One finding: Europe is moving into AI faster than North America."
+        }
+      ]
+    },
+    "games/games-spookitchen-demo-ai-copycat": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Indie games nearing launch have recently been reported cancelling public demo releases, fearing that AI-made copycats could appear first, and now such a case has emerged in Korea as well."
+        },
+        {
+          "t": "p",
+          "x": "On the 17th, YNOT, a 2-person Korean development team, announced it would stop distributing its public demo after being told that someone was using AI to copy its game 'Spookitchen'. On the 20th it pulled the demo and shared its frustrations with users through SNS and its Steam page."
+        },
+        {
+          "t": "video",
+          "yt": "HRKQOlIYAQY"
+        },
+        {
+          "t": "p",
+          "x": "Spookitchen is a tycoon game about serving dishes in a Halloween village inhabited by monsters. Its cute art won over indie fans, and it appeared at BIC 2 years in a row. But ahead of Steam Next Fest, the team had no choice but to close the demo over fears that copycats would appear."
+        },
+        {
+          "t": "img",
+          "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
+          "cap": "The demo was closed because of the recent wave of AI copying ©YNOT, @Sini_Ming"
+        },
+        {
+          "t": "p",
+          "x": "YNOT said, \"Closing the demo is a temporary measure, not a fundamental solution,\" adding, \"We will try our best not to be shaken and to stay focused on development as usual.\""
+        },
+        {
+          "t": "p",
+          "x": "These concerns have been spreading through the indie scene since October. 'Needle in a Haystack Simulator' saw at least 8 lookalikes appear before launch and added the word 'ORIGINAL' to its store images, and 'Family Time' also got a lookalike with the same name. Cases of threatening emails warning that an AI copycat will be released first unless money is paid also keep coming."
+        }
+      ]
+    },
+    "games/games-ai-mashup-launcher-tos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Those viral Elden Ring and Minecraft mashups you've likely seen circulating the web over the past couple of weeks are now conveniently available to play via a questionably created launcher – one that might compromise your PC in the process."
+        },
+        {
+          "t": "p",
+          "x": "Somebody's made a special launcher for Windows computers that supposedly lets you play whatever weird mashup you'd like: Melty. As per its official description, \"Melty is a free mashup launcher for Windows that joins two games you own into one hybrid experience.\" Its terms of service let the launcher do just about everything: find games, download new tools, copy files, modify folders, run programs, and execute automatic updates."
+        },
+        {
+          "t": "p",
+          "x": "A coder who goes by \"Wubbity\" online alleges that he's \"pulled apart\" the Melty installer and found that it's \"a rebrand of LookLoot, an app that records gameplay video and inputs as AI training data.\" As he writes, Melty's privacy policy \"doesn't mention it.\""
+        },
+        {
+          "t": "p",
+          "x": "Although he clarifies it's \"not malware, no password stealing,\" it's \"shipping a dormant gameplay-recording pipeline its website can trigger, and users weren't told.\" In other words, I'd recommend giving this one a miss."
+        }
+      ]
+    },
+    "games/games-ai-laws-studio-legal-map": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Generative AI is increasingly embedded in game development, while the laws, regulations and guidelines around it are on the rise. Here is a high-level run through of key areas in which the changing AI legal landscape is affecting game studios."
+        },
+        {
+          "t": "p",
+          "x": "IP infringement: LLM training on third-party works means output could occasionally contain infringing material, and many tools license inputs and outputs back to the provider. Studios should vet prompts and outputs through clearance processes."
+        },
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
+          "cap": "SAG-AFTRA secured an agreement that covered AI in 2025 | Image credit: SAG-AFTRA"
+        },
+        {
+          "t": "p",
+          "x": "Performers: the SAG-AFTRA strike of 2024/25 ended in an agreement requiring express consent and compensation for AI use of a performer's voice or likeness — now increasingly the market baseline. Ownership: in the US, solely AI-generated images can't be copyrighted, while China has granted protection and the UK assigns it to whoever made the arrangements."
+        },
+        {
+          "t": "p",
+          "x": "Advertising: the UK's ASA is issuing guidance on AI content in ads. The EU AI Act's broad deepfake definition may require labelling photorealistic content, and storefronts such as Steam require AI disclosure. The upshot: an AI use policy is now a \"have-to-have\", increasingly demanded by investors, publishers, insurers and auditors."
+        }
+      ]
+    },
+    "games/games-ludo-cli": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Ludo-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Ludo.ai has released the Ludo CLI, giving developers direct access to its AI game asset creation tools from the command line, without needing a browser."
+        },
+        {
+          "t": "p",
+          "x": "Solo developers, small studios and coding agents such as Claude Code can generate sprites, animations, images, 3D models, video and audio directly from the terminal, with assets saved straight to disk."
+        },
+        {
+          "t": "p",
+          "x": "The CLI builds on Ludo's REST API and Model Context Protocol (MCP) integrations introduced earlier this year. Coding agents can call individual Ludo commands as needed rather than loading full tool specifications, and local files can be passed directly into generation workflows."
+        },
+        {
+          "t": "p",
+          "x": "“The CLI means developers, or the coding agents working alongside them, can generate assets exactly when they need them without interrupting their workflow,” said Jorge Gomes, co-founder and CTO at Ludo.ai."
+        },
+        {
+          "t": "p",
+          "x": "It also supports scripts and automated pipelines, with project-specific settings and generation histories for consistency. The CLI is available on Pro and Studio plans and can be installed via npm or run with npx. Ludo has also launched a Developers section at ludo.ai/developers covering the CLI, MCP server, REST API and Unity plugin."
+        }
+      ]
     }
   }
 }

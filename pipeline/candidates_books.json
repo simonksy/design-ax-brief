@@ -1,168 +1,128 @@
 {
   "section": "books",
-  "generated_at": "2026-10-19T22:04:04Z",
-  "now_iso": "2026-10-19T22:04:04Z",
+  "generated_at": "2026-10-20T21:40:00Z",
+  "now_iso": "2026-10-20T21:40:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "AI is Already Everywhere in Publishing",
-      "url": "https://bookriot.com/ai-is-already-everywhere-in-publishing/",
-      "source": "Book Riot",
-      "published_iso": "2026-10-19T09:00:00+00:00",
-      "excerpt": "Book Riot's podcast unpacks the Wired expose on publishers' internal AI use and yet another prize-winning story suspected of being AI-written, arguing AI is already embedded across the publishing workflow.",
-      "og_image": "https://bookriot.com/wp-content/uploads/2024/05/Book-Riot-The-Podcast-logo.jpg.optimal.jpg",
-      "lang": "en",
-      "category": "books"
+      "title": "New literary prize Prix Pascal launches in France for manuscripts written with AI",
+      "url": "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai",
+      "source": "The Bookseller",
+      "category": "books",
+      "published_iso": "2026-10-20T14:30:00Z",
+      "excerpt": "A new French literary prize will recognise a manuscript written with artificial intelligence, requiring entrants to disclose the tools and methods used to produce their work.",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg",
+      "lang": "en"
+    },
+    {
+      "title": "Tomato Novels Announces Full Shutdown of All AI-Related Services",
+      "url": "https://eu.36kr.com/en/p/4034128921827207",
+      "source": "36Kr",
+      "category": "books",
+      "published_iso": "2026-10-20T20:58:00+08:00",
+      "excerpt": "ByteDance-backed web-fiction platform Tomato Novel is shutting down its AI writing services and switching new low-level authors to full-work-completion signing after a flood of AI-generated serials; authors pushed back and some open-sourced their AI workflows.",
+      "og_image": "https://img.36krcdn.com/hsossms/20261020/v2_29f60425c1204ff8aa053cbbddfc24a2@5888275@ai_oswg881799oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "lang": "en"
+    },
+    {
+      "title": "\"검색창서 책 펼친다\"…밀리의서재, AI로 독서 진입 간소화",
+      "url": "https://www.ddaily.co.kr/page/view/2026102014534352853",
+      "source": "디지털데일리",
+      "category": "books",
+      "published_iso": "2026-10-20T15:06:16+09:00",
+      "excerpt": "KT 밀리의서재가 검색 결과에서 도서 핵심을 요약해 보여주고 바로 독서·추천으로 이어지는 'AI 브리핑' 기능을 도입했다.",
+      "og_image": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
+      "lang": "ko"
+    },
+    {
+      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+      "source": "Ars Technica",
+      "category": "books",
+      "published_iso": "2026-10-20T17:40:20+00:00",
+      "excerpt": "In the authors' book-piracy suit, Meta was ordered to name the executives who approved torrenting books for AI training; Meta argues nobody 'decided' to pirate books.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg",
+      "lang": "en"
+    },
+    {
+      "title": "“저작권 신탁기구 추진…AI의 ‘책 도둑질’ 막아야”",
+      "url": "https://www.sedaily.com/article/20103917",
+      "source": "서울경제",
+      "category": "books",
+      "published_iso": "2026-10-20T17:42:56+09:00",
+      "excerpt": "앤트로픽의 국내 도서 대량 매입·해적판 다운로드 논란 속에 한국출판인회의가 AI 학습 이용을 관리할 저작권 신탁기구 설립을 추진한다고 밝혔다.",
+      "og_image": "https://wimg.sedaily.com/news/cms/2026/10/20/news-p.v1.20261011.ae0838158c134012acc47e38f557eebb_Z1.jpg",
+      "lang": "ko"
+    },
+    {
+      "title": "\"내 책 썼는지조차 몰라\"…AI 학습 우려에 경고음 커지는 출판계",
+      "url": "https://www.yna.co.kr/view/AKR20261020031000005",
+      "source": "연합뉴스",
+      "category": "books",
+      "published_iso": "2026-10-20T11:25:01+09:00",
+      "excerpt": "국내외에서 AI 학습용으로 의심되는 도서 대량 구매가 잇따라 포착되면서, 자기 책이 학습에 쓰였는지조차 알 수 없는 작가·출판계의 우려가 커지고 있다.",
+      "og_image": "https://img4.yna.co.kr/photo/cms/2026/04/02/82/PCM20260402000082990_P4.jpg",
+      "lang": "ko"
+    },
+    {
+      "title": "From Content to Trusted Knowledge: Reflections on Frankfurt Book Fair 2026",
+      "url": "https://scholarlykitchen.sspnet.org/2026/10/20/from-content-to-trusted-knowledge-reflections-on-frankfurt-book-fair-2026/",
+      "source": "The Scholarly Kitchen",
+      "category": "books",
+      "published_iso": "2026-10-20T09:30:33+00:00",
+      "excerpt": "Reflections from Frankfurt 2026 on how publishers can turn trusted content into useful knowledge in an AI-mediated landscape, and help people act on it.",
+      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
+      "lang": "en"
+    },
+    {
+      "title": "[Korean Startup Interview] Sodalive: Turning Finished Webtoon Characters into AI Creators",
+      "url": "https://en.wowtale.net/2026/10/21/235648/",
+      "source": "Wowtale",
+      "category": "books",
+      "published_iso": "2026-10-21T05:01:00+09:00",
+      "excerpt": "Sodalive is pivoting from its voice platform VoiceOn to turn official webtoon and web-novel characters into AI creators that keep producing content after a series ends.",
+      "og_image": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg",
+      "lang": "en"
+    },
+    {
+      "title": "Iceland Considers AI for New Teaching Materials",
+      "url": "https://www.icelandreview.com/news/iceland-education-minister-ai-teaching-materials-2026/",
+      "source": "Iceland Review",
+      "category": "books",
+      "published_iso": "2026-10-19T13:00:04+00:00",
+      "excerpt": "Iceland's education minister says AI could play a role in producing new school teaching materials, though options and funding remain undecided.",
+      "og_image": "https://www.icelandreview.com/wp-content/uploads/2026/01/Digital-Iceland-1024x683.png",
+      "lang": "en"
     },
     {
       "title": "Why Are Publishers Suing Big Tech With One Hand and Embracing AI With the Other?",
       "url": "https://lithub.com/why-are-publishers-suing-big-tech-with-one-hand-and-embracing-ai-with-the-other/",
       "source": "Literary Hub",
+      "category": "books",
       "published_iso": "2026-10-15T09:10:37+00:00",
-      "excerpt": "After an Authors Guild panel on authorship and AI, a Lit Hub writer examines the contradiction of publishers litigating against AI companies while rolling out generative tools in-house.",
+      "excerpt": "An essay from an Authors Guild panel on authorship and AI, asking why publishers litigate against AI firms while quietly adopting AI in their own workflows.",
       "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/AI-hands-scaled.jpg",
-      "lang": "en",
-      "category": "books"
+      "lang": "en"
     },
     {
-      "title": "About that Wired article on book publishers “quietly” using AI",
-      "url": "https://janefriedman.com/about-that-wired-article-on-book-publishers-quietly-using-ai/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-10-14T16:00:00+00:00",
-      "excerpt": "Jane Friedman flags an under-the-radar detail: publishers say the number of authors using LLMs to write their books is much higher than reported.",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2025/02/Premium-Content-image.png",
-      "lang": "en",
-      "category": "books"
-    },
-    {
-      "title": "PayAuthors.com: Are your books in pirate libraries?",
-      "url": "https://janefriedman.com/payauthors-com-are-your-books-in-pirate-libraries/",
-      "source": "Jane Friedman",
-      "published_iso": "2026-10-14T16:00:00+00:00",
-      "excerpt": "PayAuthors.com is a new website and service that lets authors check whether their books appear in pirate libraries used to train AI models.",
-      "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png",
-      "lang": "en",
-      "category": "books"
+      "title": "Is It or Isn’t It? How Generative AI is Poisoning the Literary Well For Everyone",
+      "url": "https://lithub.com/is-it-or-isnt-it-how-generative-ai-is-poisoning-the-literary-well-for-everyone/",
+      "source": "Literary Hub",
+      "category": "books",
+      "published_iso": "2026-10-14T09:10:55+00:00",
+      "excerpt": "After Vauhini Vara's Atlantic piece suggesting a prize-winning story was probably AI-written, Lit Hub examines how AI-detection suspicion is corroding trust in literary work.",
+      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/AI-detection.jpg",
+      "lang": "en"
     },
     {
       "title": "Thélyson Orélien denies using AI to write novel but admits to plagiarism in earlier work",
       "url": "https://www.thebookseller.com/news/thelyson-orelien-denies-using-ai-to-write-novel-but-admits-to-plagiarism-in-earlier-work",
       "source": "The Bookseller",
+      "category": "books",
       "published_iso": "2026-10-14T15:00:00Z",
-      "excerpt": "Canadian author Thélyson Orélien denied using AI to write his prize-winning novel C'était ça ou mourir, but admitted to 'unacceptable' plagiarism in earlier work.",
+      "excerpt": "Canadian author Thélyson Orélien has denied using AI to write his prize-winning novel C’était ça ou mourir, but admitted to 'unacceptable' plagiarism in earlier work.",
       "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/asd12.jpg",
-      "lang": "en",
-      "category": "books"
-    },
-    {
-      "title": "Quebec author accused of using AI gives up proving novel's origins, publisher says",
-      "url": "https://www.cbc.ca/news/canada/montreal/orelien-abandons-effort-to-document-novels-origins-9.7385321",
-      "source": "CBC News",
-      "published_iso": "2026-10-17T20:49:56.820Z",
-      "excerpt": "Orélien has abandoned the effort, disclosed by his publisher Éditions du Boréal, to document how his novel was written amid AI-authorship allegations. (Off-list: new development not yet covered by on-list outlets.)",
-      "og_image": "https://i.cbc.ca/ais/2aa0789f-2e06-45eb-ae28-391eb371492d,1791910085147/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C208%2C4000%2C2250%29%3BResize%3D620",
-      "lang": "en",
-      "category": "books"
-    },
-    {
-      "title": "SoA's position on generative AI 'remains unchanged' after backlash to Ethical AI Charter",
-      "url": "https://www.thebookseller.com/news/soas-position-on-generative-ai-remains-unchanged-after-backlash-to-ethical-ai-charter",
-      "source": "The Bookseller",
-      "published_iso": "2026-10-16T07:54:00Z",
-      "excerpt": "Society of Authors CEO Anna Ganley responded to member criticism of its newly released Charter of Ethical AI Use in the Creative Industries, saying the body's stance on generative AI has not changed.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-      "lang": "en",
-      "category": "books"
-    },
-    {
-      "title": "Toniebox 'will never become AI toy', CEO Tobias Wann tells FBF",
-      "url": "https://www.thebookseller.com/news/toniebox-will-never-become-ai-toy-ceo-tobias-wann-tells-fbf",
-      "source": "The Bookseller",
-      "published_iso": "2026-10-07T15:00:00Z",
-      "excerpt": "Tonies CEO Tobias Wann said the kids' audio company has experimented with AI for some products but 'will never become an AI toy'.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/asd21.jpg",
-      "lang": "en",
-      "category": "books"
-    },
-    {
-      "title": "Guest Post – Artificial Intelligence in Scholarly Publishing: Are We Moving Faster Than the Evidence?",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/",
-      "source": "The Scholarly Kitchen",
-      "published_iso": "2026-10-14T09:30:19+00:00",
-      "excerpt": "A guest post argues the next phase of AI adoption in scholarly publishing workflows needs more evaluation, collaboration and human judgment.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg",
-      "lang": "en",
-      "category": "books"
-    },
-    {
-      "title": "Halo's co-creator wrote a novel about AI taking over the world",
-      "url": "https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny",
-      "source": "The Verge",
-      "published_iso": "2026-10-14T14:00:00+00:00",
-      "excerpt": "Bungie co-founder Jason Jones has written a novel about AI taking over the world; The Verge runs an excerpt chapter.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&crop=0,3.1759359873555,100,93.648128025289",
-      "lang": "en",
-      "category": "books"
-    },
-    {
-      "title": "Korean, Japanese, Taiwanese books targeted in Anthropic's 'Project Panama' hunt for AI training material",
-      "url": "https://www.koreajoongangdaily.com/lifestyle/korean-japanese-taiwanese-books-targeted-in-anthropics-project-panama-hunt-for-ai-training-material/12925754",
-      "source": "Korea JoongAng Daily",
-      "published_iso": "2026-10-18T22:00:00.000Z",
-      "excerpt": "Shipping and court records show Anthropic sourced vast quantities of Asian-language books for AI training, widening the Korean copyright row to Japan and Taiwan.",
-      "og_image": "https://image.koreajoongangdaily.com/12926107.jpg?imageId=12926107&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "lang": "en",
-      "category": "books"
-    },
-    {
-      "title": "[단독] 구글도 韓 책 구매한다는데…AI 학습 저작권 강화 법안 ‘낮잠’",
-      "url": "https://www.sedaily.com/article/20103000",
-      "source": "서울경제",
-      "published_iso": "2026-10-18T18:07:02+09:00",
-      "excerpt": "앤트로픽에 이어 구글도 국내 출판사를 상대로 도서 구매 계약을 추진하는 것으로 나타났지만, AI 학습 저작권을 강화하는 법안은 국회에서 멈춰 있다.",
-      "og_image": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_Z1.png",
-      "lang": "ko",
-      "category": "books"
-    },
-    {
-      "title": "[AI돋보기] AI 시대에 귀해진 '인간의 글'…헌책방 뒤지는 빅테크",
-      "url": "https://www.yna.co.kr/view/AKR20261016020500017",
-      "source": "연합뉴스",
-      "published_iso": "2026-10-17T06:33:01+09:00",
-      "excerpt": "최첨단 AI를 개발하는 빅테크 기업들이 학습용 '인간의 글'을 확보하려 낡은 종이책과 헌책방에 눈을 돌리고 있다.",
-      "og_image": "https://img5.yna.co.kr/etc/inner/KR/2026/10/16/AKR20261016020500017_01_i_P4.jpg",
-      "lang": "ko",
-      "category": "books"
-    },
-    {
-      "title": "스포티파이·아마존…테크 기업, 세계 최대 도서전 몰려온 까닭",
-      "url": "https://www.hankyung.com/article/2026101545451",
-      "source": "한국경제",
-      "published_iso": "2026-10-15T17:20:42+09:00",
-      "excerpt": "프랑크푸르트 도서전의 최대 화두는 AI로 제작비를 낮춘 오디오북이었고, 스포티파이·아마존 등 테크 기업이 모든 책을 듣는 책으로 만드는 새 먹거리에 몰려들었다.",
-      "og_image": "https://img.hankyung.com/photo/202610/AA.46068377.1.jpg",
-      "lang": "ko",
-      "category": "books"
-    },
-    {
-      "title": "I'm 'under threat' because AI thinks Black writers aren't human",
-      "url": "https://observer.co.uk/news/national/article/im-under-threat-because-ai-thinks-black-writers-arent-human",
-      "source": "The Observer",
-      "published_iso": "2026-10-15T13:04:00.000Z",
-      "excerpt": "After Caine Prize winner Simbarashe Kundizeza was accused of using AI, a writer describes how AI detectors and suspicion are falling disproportionately on Black writers. (Off-list: first-person angle not covered on-list.)",
-      "og_image": "https://cdn.slowdownwiseup.co.uk/media/original_images/WEB_GettyImages-2296272143.jpg",
-      "lang": "en",
-      "category": "books"
-    },
-    {
-      "title": "Fish Audio Launches Drama 3 to Direct AI Voices and Edit a Single Word",
-      "url": "https://www.unite.ai/fish-audio-drama-3-ai-voice-direction-audio-inpainting/",
-      "source": "Unite.AI",
-      "published_iso": "2026-10-13T09:15:43-04:00",
-      "excerpt": "Fish Audio's Drama 3 TTS lets producers direct AI voice performances in plain language and re-record a single mis-stressed word, pitched at audiobook and audio-drama production. (Off-list: maker-side narration tool absent from on-list feeds.)",
-      "og_image": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg",
-      "lang": "en",
-      "category": "books"
+      "lang": "en"
     }
   ]
 }

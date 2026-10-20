@@ -1534,6 +1534,144 @@
           "x": "The final model was then tested with the same threshold on an external dataset of 1,000 patients from six other hospitals in Japan; 964 were analyzed after exclusions."
         }
       ]
+    },
+    "medicine/medicine-argus-autism-ai-fda": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "In the U.S., AI software for diagnosing autism in children has received FDA approval."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+          "cap": "Neurora (Source: Argus Cognitive)"
+        },
+        {
+          "t": "p",
+          "x": "Argus Cognitive recently announced that Neurora has been approved to support the diagnosis of autism spectrum disorder (ASD) in children aged 18 months to 12 years."
+        },
+        {
+          "t": "p",
+          "x": "When video and audio are uploaded to a digital portal, Neurora measures behavior objectively through some 100 biometric measures, including voice, face and gaze."
+        },
+        {
+          "t": "p",
+          "x": "Argus explained that it is an AI-based Class 2 software as a medical device (SaMD), a tool meant to assist physicians' professional judgment rather than to diagnose on its own. It was developed with support from the U.S. National Institutes of Health's small business innovation research program."
+        }
+      ]
+    },
+    "medicine/medicine-stroke-robot-rehab-genai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+          "cap": "Johannes Lachner via YouTube"
+        },
+        {
+          "t": "p",
+          "x": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial intelligence and human therapy."
+        },
+        {
+          "t": "p",
+          "x": "Johannes Lachner, a former MIT postdoc who is now an assistant professor at Purdue University, and Noah Geiger, a former visiting student at MIT, developed a robotic system that uses generative AI and real-time force feedback to learn from real therapists. Drawing on what it’s learned, it gives patients just the right amount of assistance during physical rehabilitation exercises like reaching, lifting their arms, and performing tasks of daily living."
+        },
+        {
+          "t": "p",
+          "x": "The goal is “not to replace therapists, but to extend their reach,” Lachner says."
+        },
+        {
+          "t": "video",
+          "yt": "AopwOd02GPs"
+        },
+        {
+          "t": "p",
+          "x": "“Initial robotic experiments have already demonstrated the feasibility of this approach,” he reports. “The next phase of the project aims to develop therapist-specific models and evaluate them in a long-term clinical study with the same patients who previously received manual therapy.” Beyond that, he envisions possible applications in contact-rich industrial settings or collaborative workspaces."
+        }
+      ]
+    },
+    "medicine/medicine-neonatal-automation-bias": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig2_HTML.png",
+          "cap": "Fig. 2: trust vs vigilance by reader group and AI type"
+        },
+        {
+          "t": "p",
+          "x": "Medical AI is often validated under an additive assumption that algorithmic sensitivity and clinician oversight will combine to improve care. The authors tested this in the diagnosis of neonatal pneumoperitoneum, a time-critical surgical emergency, with a multi-reader crossover study of 1,750 interpretation events: clinicians reviewed radiographs aided by either a high-reliability model or a systematically error-injected model."
+        },
+        {
+          "t": "p",
+          "x": "High AI reliability paradoxically induced automation bias in trainees, who accepted 52.0% of incorrect suggestions, while offering limited gains to experts. When challenged by flawed AI, the three participating neonatologists showed a “sentinel behavior” phenotype, correctly overriding 91.7% of errors; given the small specialist cohort, the authors call this hypothesis-generating."
+        },
+        {
+          "t": "img",
+          "src": "https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41746-026-03399-3/MediaObjects/41746_2026_3399_Fig1_HTML.png",
+          "cap": "Fig. 1: reader performance unaided, with reliable AI and with error-injected AI"
+        },
+        {
+          "t": "p",
+          "x": "They argue clinical validity depends on the human–AI team’s resilience to algorithmic failure rather than standalone accuracy, and release an open-source educational sandbox to inoculate clinicians against automated errors and mitigate deskilling."
+        }
+      ]
+    },
+    "medicine/medicine-e3-pose-fetal-symmetry": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In a routine prenatal ultrasound, possible fetal brain abnormalities are flagged for MRI, but imperfect imaging can lead to missed or incorrect diagnoses. Researchers at MIT, Boston Children’s Hospital and Inria have developed a deep learning model called E(3)-Pose that helps image the fetus’s head while it’s in motion, capturing a high-resolution image for the radiologist. The work was presented at the 2026 European Conference on Computer Vision."
+        },
+        {
+          "t": "p",
+          "x": "When the head shifts during a scan, each 2D slice can be taken from a different angle, leaving coverage gaps. Rather than learning physics from data, E(3)-Pose embeds the left-right symmetry of the fetal head in its architecture, making it easier to identify the brain’s orientation."
+        },
+        {
+          "t": "img",
+          "src": "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202609/Sagittal%20%281%29.png",
+          "cap": "An MRI scan of a fetal brain (outlined in yellow) in the sagittal position."
+        },
+        {
+          "t": "p",
+          "x": "Boston Children’s Ellen Grant says the work “will automate fetal brain MRI,” bringing faster, more comfortable scans and higher-quality images. First author Ramya Muthukrishnan now hopes to extend the model, trained mainly on third-trimester fetuses, to younger ones: “the earlier you detect brain abnormalities, the easier it is to intervene.”"
+        }
+      ]
+    },
+    "medicine/medicine-aitialvsd-fda-2026": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Medical AI (CEO Kwon Joon-myung), a company specializing in medical artificial intelligence (AI), said on the 15th that its heart failure diagnostic aid medical device software 'AiTiALVSD' had obtained 510(k) Clearance (premarket clearance) from the U.S. Food and Drug Administration (FDA)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
+          "cap": "Photo courtesy of Medical AI"
+        },
+        {
+          "t": "p",
+          "x": "'AiTiALVSD' is software that uses AI to analyze electrocardiogram data routinely measured in hospitals and help diagnose left ventricular systolic dysfunction (LVSD), a type of heart failure. This is the first time a Korean company has cleared the U.S. FDA bar with software offering this function."
+        },
+        {
+          "t": "p",
+          "x": "Heart failure outcomes can improve greatly when it is detected early, but because early symptoms are often unclear, patients frequently do not go on to echocardiography and miss the window for treatment. 'AiTiALVSD' acts as an ECG-based digital biomarker, with AI detecting subtle ECG changes that are hard for the human eye to catch."
+        },
+        {
+          "t": "p",
+          "x": "The clearance follows a multi-ethnic, multi-setting clinical trial of more than 20,000 (2만 명) patients at 6 major U.S. hospitals that verified consistent accuracy. In a blinded head-to-head validation study by Amsterdam University Medical Center in the Netherlands, recently presented at the European Society of Cardiology, it also recorded the highest accuracy, ahead of leading ECG AI models."
+        },
+        {
+          "t": "p",
+          "x": "There are about 6.7 million (670만 명) heart failure patients in the U.S. Having secured U.S. approval following Europe, the United Kingdom, India and Singapore, Medical AI plans to expand its U.S. business in earnest in cooperation with local medical institutions and partners."
+        },
+        {
+          "t": "p",
+          "x": "CEO Kwon Joon-myung said, \"Now that we have completed preparations to enter the U.S., the largest market in the world, we will work to achieve strong results.\""
+        }
+      ]
     }
   }
 }

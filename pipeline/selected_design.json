@@ -1,107 +1,109 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "design",
   "user_selection": null,
   "picks": [
     {
       "rank": 1,
-      "title": "How to shape your slides and videos with Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
-      "source": "Google Blog",
-      "category": "workflow",
-      "tool": "AI Workflow",
-      "accent": "#ff5a4d",
-      "motif": "frame",
-      "published_iso": "2026-10-19T17:00:00+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
-      "excerpt": "Gemini Notebook is giving users more creative control over generated Slide Decks and Video Overviews, letting them co-create and steer the visual output rather than accept a one-shot result.",
-      "rationale": "First-party feature release that lets designers steer generated decks and video overviews instead of taking a one-shot result, so it is directly actionable for presentation work."
-    },
-    {
-      "rank": 2,
-      "title": "Fal Debuts FLUX 3 Max Video Model Post-Trained With Black Forest Labs",
-      "url": "https://www.unite.ai/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs/",
-      "source": "Unite.AI",
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-actions-open-eyes",
+      "source": "The Verge",
       "category": "render",
       "tool": "KeyShot",
       "accent": "#f5a623",
       "motif": "sphere",
-      "published_iso": "2026-10-19T16:14:13-04:00",
-      "og_image": "https://www.unite.ai/wp-content/uploads/2026/10/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs.jpg",
-      "excerpt": "fal announced FLUX 3 Max on October 19, a video generation model post-trained by fal Research with Black Forest Labs on the FLUX 3 foundation model, available the same day via fal's API for image-to-video work.",
-      "rationale": "New image-to-video model on the FLUX 3 base, available via API the same day. This is a separate release from the FLUX 3 Image launch on 10-03."
+      "published_iso": "2026-10-20T13:06:44Z",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "excerpt": "Lightroom for iOS, iPadOS and Android adds a one-tap generative-AI Open Eyes fix that matches lighting and pose using other shots of the same person; free users get limited tries.",
+      "rationale": "A new one-tap generative fix in Lightroom mobile that photographers and image-makers can use right away. It is a different feature from the 9/28 Lightroom-in-Gemini story and the 10/05 Prompt to Edit story."
+    },
+    {
+      "rank": 2,
+      "title": "ChatGPT Slides lets users create, edit and present decks without leaving ChatGPT",
+      "url": "https://www.digitaltrends.com/computing/chatgpt-wants-to-steal-your-job-as-the-office-powerpoint-person/",
+      "source": "Digital Trends",
+      "category": "figma",
+      "tool": "Figma",
+      "accent": "#0070f3",
+      "motif": "frame",
+      "published_iso": "2026-10-20T12:24:51Z",
+      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C630",
+      "excerpt": "OpenAI's new ChatGPT Slides turns conversations, uploaded files, outlines or a sample deck into an editable presentation, generating custom images and refining text, visuals and charts, with live team editing and PowerPoint export.",
+      "rationale": "A new OpenAI deck-building product with live co-editing and PowerPoint export, which changes how decks get made. It is a different product from yesterday's Gemini Notebook slides card."
     },
     {
       "rank": 3,
-      "title": "New CG software you may have missed: 18 October 2026",
-      "url": "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-18-october-2026/",
-      "source": "CG Channel",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#eb367f",
-      "motif": "sphere",
-      "published_iso": "2026-10-19T04:30:00+00:00",
-      "og_image": null,
-      "excerpt": "Weekly roundup: NVIDIA's RTX video upscaling, frame generation and SDR-to-HDR now run locally as ComfyUI custom nodes (plus Krea 3, FLUX 3 Klein, Nano Banana 2.1 support); Maxon's Autograph adds an MCP server to drive it from Claude or ChatGPT, and Red Giant 2027 adds AI depth/normal-map relighting in After Effects.",
-      "rationale": "Concrete tool updates for motion and CG designers: an MCP server for Autograph, AI relighting in Red Giant 2027, and RTX nodes for ComfyUI. Copy should lead with these and leave out the Krea 3 and FLUX 3 Klein mentions, which were already published."
+      "title": "Neural Concept launches MCP to help AI agents operate commercial CAD tools",
+      "url": "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/",
+      "source": "SiliconANGLE",
+      "category": "cad",
+      "tool": "Text-to-CAD",
+      "accent": "#7928ca",
+      "motif": "cube",
+      "published_iso": "2026-10-19T16:00:00Z",
+      "og_image": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg",
+      "excerpt": "Neural Concept's Model Context Protocol Bridge lets AI agents drive commercial CAD and simulation tools, automating geometry cleanup and meshing steps in product design cycles.",
+      "rationale": "A new MCP bridge from Neural Concept that lets agents drive commercial CAD and simulation tools. It is a separate vendor and release from the 9/24 Multiphysics MCP and 10/03 ClassCAD stories."
     },
     {
       "rank": 4,
-      "title": "Introducing WunderUI - the agentic design system",
-      "url": "https://dev.to/wunderui/introducing-wunderui-the-agentic-design-system-1oag",
-      "source": "DEV Community",
-      "category": "tokens",
-      "tool": "Design Tokens",
+      "title": "DxO ViewPoint 6 introduces AI masking, but maintains that no AI image generation takes place",
+      "url": "https://www.digitalcameraworld.com/tech/software/wonky-photos-of-buildings-begone-dxo-viewpoint-6-introduces-ai-masking-but-maintains-that-no-ai-image-generation-takes-place",
+      "source": "Digital Camera World",
+      "category": "render",
+      "tool": "KeyShot",
       "accent": "#2ec5c5",
-      "motif": "swatch",
-      "published_iso": "2026-10-19T20:36:58+00:00",
-      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F8a4kv2sjwxm4r5it0tn3.png",
-      "excerpt": "Design systems were built for humans who read docs, but much UI is now written by AI coding agents; WunderUI is pitched as a design system structured for agents to consume directly.",
-      "rationale": "A new design system built for AI coding agents to read, which fills the tokens/design-system slot. It is a product launch, not the 10-08 study of whether design systems change what agents write."
+      "motif": "sphere",
+      "published_iso": "2026-10-20T13:22:04Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-2560-80.jpg",
+      "excerpt": "DxO's perspective/geometry-correction tool ViewPoint 6 adds AI masking while stressing it does no generative image creation.",
+      "rationale": "A new version release: AI masking arrives in DxO's perspective-correction tool, with no generative content, which matters to architecture and product photographers who must avoid generated pixels.",
+      "swap": true
     },
     {
       "rank": 5,
-      "title": "AI-Edited Photos Can Lead People to Form False Memories",
-      "url": "https://petapixel.com/2026/10/19/ai-edited-photos-can-lead-people-to-form-fake-memories/",
-      "source": "PetaPixel",
+      "title": "Human attention is the new old bottleneck. We have to design for it even more.",
+      "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a",
+      "source": "UX Collective",
       "category": "workflow",
       "tool": "AI Workflow",
-      "accent": "#3b6bff",
+      "accent": "#ff5a4d",
       "motif": "frame",
-      "published_iso": "2026-10-19T12:41:31+00:00",
-      "og_image": "https://petapixel.com/assets/uploads/2026/10/ai-edited-photos-memories.jpg",
-      "excerpt": "New research finds AI-edited photographs and videos create false memories and make people more confident in the wrong version of events, a warning for image-makers using generative edits.",
-      "rationale": "New research with an ethics angle for anyone shipping generative image edits. It comes from a fifth outlet and is not covered in history."
+      "published_iso": "2026-10-19T21:39:26Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+      "excerpt": "Reading Anthropic's Oct 16 study (agents now log six hours for every human hour), the piece argues designers' job shifts to building judgement systems for what deserves human attention.",
+      "rationale": "A design-practice read of fresh Anthropic data (six agent hours per human hour) that reframes the designer's job as deciding what deserves human attention. No earlier design card covers this study.",
+      "swap": true
     }
   ],
   "dedup": {
     "checks": {
-      "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/": {
+      "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-actions-open-eyes": {
         "verdict": "new",
-        "nearest": "https://lovable.dev/blog/ai-models-and-tools-in-lovable",
+        "nearest": "https://petapixel.com/2026/09/25/you-can-edit-your-photos-with-lightroom-and-photoshop-inside-google-gemini/",
         "new_action": ""
       },
-      "https://www.unite.ai/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs/": {
+      "https://www.digitaltrends.com/computing/chatgpt-wants-to-steal-your-job-as-the-office-powerpoint-person/": {
         "verdict": "new",
-        "nearest": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
+        "nearest": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
         "new_action": ""
       },
-      "https://www.cgchannel.com/2026/10/new-cg-software-you-may-have-missed-18-october-2026/": {
+      "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/": {
         "verdict": "new",
-        "nearest": "https://www.krea.ai/blog/introducing-krea-3",
+        "nearest": "https://www.engineering.com/multiphysics-gets-mcp-server-and-onshape-gets-simscale-agent/",
         "new_action": ""
       },
-      "https://dev.to/wunderui/introducing-wunderui-the-agentic-design-system-1oag": {
+      "https://www.digitalcameraworld.com/tech/software/wonky-photos-of-buildings-begone-dxo-viewpoint-6-introduces-ai-masking-but-maintains-that-no-ai-image-generation-takes-place": {
         "verdict": "new",
-        "nearest": "https://dev.to/jablonowski/does-a-design-system-change-what-a-coding-agent-writes-280d",
+        "nearest": "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858",
         "new_action": ""
       },
-      "https://petapixel.com/2026/10/19/ai-edited-photos-can-lead-people-to-form-fake-memories/": {
+      "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e3882630",
         "new_action": ""
       }
     },
-    "note": "Pool 19, no clusters. Dropped as follow-ups on published stories: the NVIDIA agentic-security/Frame.io post (repeats the 10-18 Adobe+NVIDIA collaboration) and the UX Collective 'Beyond the Canvas' Config India recap (Figma Build by Design, 10-18). Not picked because of the diversity cap or low score: VAST EdenLive (would be a third render card; game-render focus), the OpenAI 'Aurora' Arena sighting (unconfirmed rumor), and the Claude->Figma->React DEV tutorial (repeats earlier Claude-to-Figma tutorials from 10-07 and 10-13). Also not picked: Creative Bloq commentary pieces (Kiwibank mascot, Brain Rot copyright, Olivia Rodrigo video), UX Collective essays (attention, AI sets us free), the AWN curriculum essay, the Renova build log, the Thomson Reuters appeal (legal story, better suited to politics) and the Vergecast episode. Final 5: five distinct outlets; categories workflow x2, render x2, tokens x1; the second card in each shared category got a palette accent."
+    "note": "SWAP pass (2026-10-21). Removed after the enrichment fact-check: the UploadVR Meta SDKs story (not AI-led; its only AI mention is SDKs 'optimized for AI coding agents') and Webflow MCP in Gemini (the page says it launched October 15, 2026, outside the 72h window). Replacements, checked for freshness against now_iso 2026-10-20T21:40Z: DxO ViewPoint 6 (published 10-20 13:22Z, 8h old; no DxO card in the 30-day history; a different product and release from the Lightroom Open Eyes pick, so the render category now has 2 cards and the second gets palette accent #2ec5c5) and the UX Collective attention-bottleneck essay (published 10-19 21:39Z, 24h old; no design card has covered the Anthropic Oct 16 study, and it is a separate essay from the 10-17 human-in-the-loop piece). Neither URL appears in today's other sections. Not used: the SolidCraft/CADCraft vibecoded clones, because they would make a second CAD card next to Neural Concept while non-CAD candidates were still eligible. Also not used: the UX Collective job-title and bad-days essays, since the attention essay ties to new data and has no history_match tag, and only one UX Collective card was wanted. Earlier skips stand: Creative Bloq Brain Rot and Hyperallergic, HF AnyLanguageModel, the Adobe Stock AI Studio tutorial and the OpenAI headshot promo. Final 5: five distinct outlets; categories render x2, figma, cad and workflow."
   }
 }

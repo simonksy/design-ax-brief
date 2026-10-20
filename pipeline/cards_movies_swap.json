@@ -1,94 +1,45 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-21",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-peacock-bravoverse",
+      "id": "movies-runway-ceo-ai-actors-view",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Peacock launches Bravo feed\nhosted by AI Andy Cohen",
-      "body": "Peacock is launching a personalized TikTok-style feed of Bravo clips, hosted by a chatty AI avatar of Andy Cohen.",
-      "mini_headline": "AI Andy Cohen hosts Peacock feed",
+      "headline": "Runway's co-CEO says AI could\nreplace human actors",
+      "body": "At Turin's View Conference, Runway co-CEO Cristóbal Valenzuela said AI could “absolutely” replace human actors.",
+      "mini_headline": "Runway co-CEO: AI could replace actors",
       "tool": "Movies",
       "source": "Variety",
-      "url": "https://variety.com/2026/tv/news/peacock-app-launches-your-bravoverse-ai-andy-cohen-1236909580/",
-      "accent": "#f5a623",
+      "url": "https://variety.com/2026/tv/global/ai-could-replace-actors-runway-ceo-cristobal-valenzuela-1236916525/",
+      "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/Peacock-Your-Bravoverse-Playback-Experience.png?w=1000&h=667&crop=1",
-            "cap": "Courtesy of NBCUniversal"
+            "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
           },
           {
             "t": "p",
-            "x": "On Tuesday, Peacock is bowing “Your Bravoverse,” a personalized stream of clips from Bravo shows, inspired by apps like TikTok, brought to you by a chatty AI avatar of Andy Cohen. NBCU announced the feature in the spring and began testing it over the summer."
+            "x": "During a fireside chat titled “Every Pixel Will Be Generated” at Turin's View Conference, an audience member asked Cristóbal Valenzuela, co-CEO of generative AI startup Runway, whether AI could eventually replace human actors."
           },
           {
             "t": "p",
-            "x": "Available now in the Peacock mobile app for all subscribers, it serves up a “personalized feed of Bravo moments tailored to each fan.” An AI-generated avatar of Cohen, host of “Watch What Happens Live,” guides users with insider commentary."
+            "x": "“Yeah, absolutely. I think it's already happening in a way,” he replied, calling AI “a new medium of expression” and “a new medium of storytelling.”"
           },
           {
             "t": "p",
-            "x": "The swipeable playlist is automatically built from more than 5,000 hours of Bravo footage — with more than 600 billion unique viewing variants, per NBCU. The feeds are assembled using a combination of AI technology and human editors. Users can tap from a clip directly into the full episode or season."
+            "x": "Fellow speaker Richard Kerris of Nvidia recalled a director's argument that the spontaneity between a director and an actor could never be prompted. Valenzuela countered that models will “probably” get to a point where you can direct them in a very similar way."
           },
           {
             "t": "p",
-            "x": "There is an advertising play too: Cohen’s avatar can audibly reference a sponsor’s brand. Wendy’s joins as the first sponsor at launch."
+            "x": "In his essays, Valenzuela predicts that “the value of creating pixels is trending towards zero,” and that AI is collapsing the cost of high-production-value content, “the last expensive layer.”"
           },
           {
             "t": "p",
-            "x": "Why Bravo? According to the company, Bravo superfans watch up to 75 episodes per month, and Bravo viewers on Peacock watch 92% more non-Bravo content than the platform user average."
-          }
-        ]
-      }
-    },
-    {
-      "id": "movies-acfm-busan",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Busan's film market turns\nto AI and microdramas",
-      "body": "Busan's Asian Contents & Film Market, held October 10-13 at Bexco, added a focus on AI and microdramas.",
-      "mini_headline": "Busan market adds AI focus",
-      "tool": "Movies",
-      "source": "Screen Daily",
-      "url": "https://www.screendaily.com/features/busans-asian-contents-and-film-market-evolves-with-added-focus-on-ai-and-microdramas/5221265.article",
-      "accent": "#7928ca",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/2/1489472_acfm_6_345193.jpg",
-            "cap": "Busan Exhibition & Convention Center hosts the Asian Contents & Film Market"
-          },
-          {
-            "t": "p",
-            "x": "The Asian Contents & Film Market (ACFM) returns for its 21st edition, running October 10-13 at Busan’s Bexco and positioning itself as a meeting point for sales, streaming, IP, artificial intelligence, microdramas and international co-production."
-          },
-          {
-            "t": "p",
-            "x": "“The industry is at a crossroads and the ACFM aims to offer a map for the Asian film industry,” says ACFM director Ellen YD Kim. This year’s agenda comprises 64 programmes across seven strands."
-          },
-          {
-            "t": "p",
-            "x": "InnoAsia, launched last year, places generative AI and emerging technologies front and centre, bringing together 44 organisations and companies. Kling AI will co-host a session on how generative technology could reshape filmmaking, alongside a creator bootcamp and a works-in-progress showcase for AI films."
-          },
-          {
-            "t": "img",
-            "src": "https://d1nslcd7m2225b.cloudfront.net/Pictures/1024x536/4/7/4/1489474_elleny.d.kim_589884_crop.jpg",
-            "cap": "ACFM director Ellen YD Kim"
-          },
-          {
-            "t": "p",
-            "x": "“We want to show the big picture of how AI is influencing the film industry,” says Kim. “It continues to change the paradigm of our business, so we want to go deeper.”"
-          },
-          {
-            "t": "p",
-            "x": "Microdrama gets similar attention, reflecting the growth of short-form narrative entertainment in parts of Asia, particularly China."
+            "x": "Asked by Variety about training data, he said models are “not databases” but learn from representation. Runway is among the defendants in a proposed class action by visual artists alleging their work was used without compensation or permission."
           }
         ]
       }

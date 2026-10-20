@@ -8315,6 +8315,168 @@
           "x": "N1にはMetaにない機能もある。1.7mm の小さな視線追跡カメラにより、グラスのAIはユーザーが何を見ているかを正確に把握し、虹彩をスキャンしてAlipayの決済を承認することもできるという。ブリッジ部のセンサーは体温を計測する。Gizmodoは実機を試していないが、仕様上はU.S.（米国）で手に入る製品より一段上だ。"
         }
       ]
+    },
+    "gadgets/gadgets-gemini-cars-global": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
+        },
+        {
+          "t": "p",
+          "x": "GoogleのAIアシスタントGeminiが、Android AutoとGoogle搭載車で世界中で使えるようになった。運転中も自然に話しかけて用事を片づけたり、アイデアを練ったりできる。"
+        },
+        {
+          "t": "p",
+          "x": "Googleは本日から、GeminiのPersonal Intelligenceも展開する。ユーザーの許可を得たうえで、普段使っているGoogleアプリ——Workspace（GmailとGoogle Calendarを含む）、Google Photos、Google Maps、YouTube、Search——の情報を安全につなぎ、その人に合った回答を返す。"
+        },
+        {
+          "t": "p",
+          "x": "空港へ向かう途中に「搭乗ゲートはどこ？フライトは定刻通り？」と尋ねれば、Geminiが一度に両方に答える。ルート沿いでいつもの好みに合う屋内レストランを探してもらったり、「病院の予約に連れて行って」「先週撮った写真の洗車場を探してナビして」と頼んだりもできる。"
+        },
+        {
+          "t": "p",
+          "x": "Personal Intelligenceをオンにするまでアプリは連携されず、Geminiの設定でいつでもオフにできる。Google搭載車が個人に合わせた回答を出すのは、スマートフォンを接続して車内にいるときだけだ。Personal Intelligenceは本日Android Autoで、今後数カ月のうちにGoogle搭載車で、18歳以上の対象となる個人アカウント向けに提供される（EEA、スイス、英国（UK）、ナイジェリアを除く）。"
+        }
+      ]
+    },
+    "gadgets/gadgets-boya-notra-neo-recorder": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
+          "cap": "カラフルで小ぶりなBoya Notra Neoは、AIによる（AI-powered）会議の文字起こしと要約を提供する。"
+        },
+        {
+          "t": "p",
+          "x": "BoyaはAI搭載（AI-powered）のボイスレコーダー「Notra Neo」を発表した。通話や会議中のメモ取りを簡単にするための製品で、周囲音・電話通話・Bluetoothの録音モードを備え、本体とクラウドの両方に保存できる。"
+        },
+        {
+          "t": "p",
+          "x": "Notra Neoは140を超える言語の文字起こしに対応し、スマートな話者識別も備える。AIは60を超える専門テンプレートを使って要約、アクションアイテム、マインドマップを作成でき、Ask AIを使えば録音ファイル全体から特定の情報を探せる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
+          "cap": "二基のMEMSマイクが最大5 m（16.4 ft.）先の声を拾う。"
+        },
+        {
+          "t": "p",
+          "x": "本体ストレージは8 GBで、最大20時間の連続録音が可能、充電には1.5時間かかる。録音はBoya OSアプリ経由で無料・無制限のクラウドストレージに同期され、10種類の形式で書き出せる。Boyaによれば、データはエンドツーエンドで暗号化され、HIPAAに準拠（HIPAA-compliant）している。"
+        },
+        {
+          "t": "p",
+          "x": "価格は$79.99で、カラーはブラック、ホワイト、ネオンイエロー、ライトピンク、重さは34.5 gだ。プランは無料のStarter（月600分、テンプレート10種）、月額$17.99のPro（1,280分、テンプレート40種、Ask AI）、月額$29.99のUltimate（文字起こし無制限、テンプレート60種すべて）である。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
+          "cap": "Boya Notra NeoにはMagSafe対応（MagSafe-compatible）のマグネットマウントが付属する。"
+        }
+      ]
+    },
+    "gadgets/gadgets-voxel1-tidy-robot": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "_nwhe_N-IvQ"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
+          "cap": "Tuesday Labsの新しいロボットは、家事をこなせるよう設計されている。"
+        },
+        {
+          "t": "p",
+          "x": "Voxelは、寝室の片づけやリモコン探しから花の水やりまで、面倒な家事を引き受けてくれるロボットだ。ただし、この便利さを手に入れるには財布のひもを大きく緩める必要がある。"
+        },
+        {
+          "t": "p",
+          "x": "これまでスマートホームといえばロボット掃除機やAIコンパニオンロボットが中心だったが、Tuesday LabsはVoxel Series 1で現代のロボットがはるかに役立つことを示そうとしている。ニューヨークを拠点とする（New York-based）同社は、二本の脚と二本の腕を持ち、人工知能の助けで多くの家事をこなすよう設計されたヒューマノイドロボットを開発した。"
+        },
+        {
+          "t": "p",
+          "x": "このロボットは家の中の物の定位置を学習し、自分で片づけられる。Voxel Series 1は植物への水やり、汚れの検知と掃除、食器の片づけもこなす。RGBカメラ二基と超広角カメラ二基で移動し、主に音声コマンドでユーザーとやり取りする。なくしたリモコンを探したり、ソファまで飲み物を運んだりといった具合だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+        },
+        {
+          "t": "p",
+          "x": "ヒューマノイド型ではあるが、そのデザインは実際の人間には似ていない。Tuesday Labsは黄色と茶色の角張った筐体を採用し、カメラは茶色のカバーの裏に隠している。胴体の「目」とスピーカー開口部が顔を形づくり、ロボットに独特の愛嬌を与えている。"
+        },
+        {
+          "t": "p",
+          "x": "Tuesday Labsは発売当初、Voxel Series 1を米国（US）の顧客にのみ出荷する。対応する配送先住所があれば、今すぐ$200の手付金で予約できる。発売は2028年、価格は$20,000の見込みだ。"
+        }
+      ]
+    },
+    "gadgets/gadgets-garmin-ciq-ai-slop": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "GarminのConnect IQに問題が起きている。ストアでアプリやウォッチフェイスをダウンロードするには、近いうちに数千もの低品質なAI生成（AI-generated）の投稿をかき分けなければならなくなるかもしれない。"
+        },
+        {
+          "t": "p",
+          "x": "開発者たちはGarminのフォーラムで、通常1-2日で終わる審査が今では最大13日かかっていると不満を訴えている。Connect IQの担当者は「バグによるものではない。ここひと月でアプリの申請が殺到しており、減る気配もない。できる限り早く承認を進めている」と回答した。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
+          "cap": "Garmin Connect IQストアのスクリーンショット（Image credit: Future）"
+        },
+        {
+          "t": "p",
+          "x": "TechRadarは、急な供給過多の背景にAIがあると指摘する。手早く稼ぐために作られた、バイブコーディングやAI生成（AI-generated）の製品だというのだ。あるユーザーは「開発者ごとのアップロード頻度を制限すべきだ。粗雑なAI生成（AI-generated）のウォッチフェイスがすべてを埋め尽くしてしまう」と書き込んだ。別のユーザーは、ストアが「見つけやすさを損なう、手抜きで似たような投稿でますますあふれている」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "これはストアで販売するために年$100を払う開発者にとっても、人の手によるフェイスを見つけるためにAIスロップをかき分けなければならないユーザーにとっても好ましくない。Kindle UnlimitedでのAI生成（AI-generated）電子書籍と同じ構図だ。Garminにはコメントを求めている。"
+        }
+      ]
+    },
+    "gadgets/gadgets-even-g2-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/intro-1792155926.jpg",
+          "cap": "Daniel Cooper for Engadget"
+        },
+        {
+          "t": "p",
+          "x": "EngadgetはEven Realities G2を6.9/10と評価した。カメラを持たないこの眼鏡は、通知、ヘッドライン、道案内、翻訳、テレプロンプター、AIアシスタントを視界に映し出す。ベースモデルは$599で、度付きレンズには$159から$349が追加でかかる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/hardware-1792155927.jpg"
+        },
+        {
+          "t": "p",
+          "x": "G2はより軽くなり、ディスプレイはより鮮明(640 x 350)だ。視野角27.5度、リフレッシュレート60Hz、1,200 nits、四つのマイク、IP65等級を備える。テンプルの先端には新しいタッチパッドが付いた。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/even-r1-1792155928.jpg"
+        },
+        {
+          "t": "p",
+          "x": "オプションの$249のR1スマートリングはリモコンとして機能し、健康データも記録する。だが小さなタッチパッドが読み取れるのはスワイプ、タップ、押し込みだけで、タップとスワイプはしばしば誤認識された。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/even-realities-g2-review-smart-glasses-stupid-controls/in-use-1792155929.jpg"
+        },
+        {
+          "t": "p",
+          "x": "うまく動けば、スクロールは未来のように感じられる。Translationは賢く、Navigationは便利で、AIも十分に速い。ただしConversateの会議メモは結論を導き出すのに苦労する。レビュアーは今も販売終了したG1のほうを好む。"
+        }
+      ]
     }
   }
 }

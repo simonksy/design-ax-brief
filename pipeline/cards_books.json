@@ -1,167 +1,167 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "books",
   "cards": [
     {
-      "id": "books-payauthors-pirate-check",
+      "id": "books-meta-torrent-execs-order",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "PayAuthors로 확인\nAI 기업이 베낀 해적판",
-      "body": "PayAuthors.com은 AI 기업이 베낀 해적판 속 책을 찾아 준다.",
-      "mini_headline": "해적판 도서관에 내 책이?",
+      "headline": "Meta에 책 토렌트\n승인 임원 공개 명령",
+      "body": "치안판사가 Meta에 AI 학습용 해적판 토렌트를 승인한 임원을 밝히라고 명령했다.",
+      "mini_headline": "Meta, 토렌트 승인 임원 공개해야",
       "tool": "Books",
-      "source": "Jane Friedman",
-      "url": "https://janefriedman.com/payauthors-com-are-your-books-in-pirate-libraries/",
+      "source": "Ars Technica",
+      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "PayAuthors.com은 새로 나온 웹사이트이자 서비스다. 작가는 여기서 자기 책이 해적판 도서관에 들어 있는지 쉽게 확인할 수 있다."
+            "t": "img",
+            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
           },
           {
             "t": "p",
-            "x": "Jane Friedman의 전체 글은 프리미엄 기사라 그의 뉴스레터 유료 구독자만 읽을 수 있다."
+            "x": "Thomas Hixon 치안판사는 작가 집단소송(Richard Kadrey, Sarah Silverman 포함)과 출판사 Entrepreneur Media 소송을 함께 다룬 증거개시 명령에서 Meta가 LibGen과 Anna's Archive 같은 섀도 라이브러리에서 책을 내려받도록 승인한 의사결정자를 밝혀야 한다는 주장을 대체로 받아들였다."
           },
           {
             "t": "p",
-            "x": "PayAuthors.com의 설명에 따르면 이 서비스는 작가의 책을 날짜가 기록된 해적판 도서관 목록(LibGen, Anna's Archive를 거친 Z-Library), 각 AI 기업이 그 도서관을 복제한 시점, U.S.(미국) 저작권 등록 기록과 대조한다. 이름 확인은 무료다. 전체 보고서에는 ISBN이 Books3에 들어 있는지를 비롯해 일치하는 기록이 모두 나온다."
+            "x": "Meta는 초기 AI 데이터셋 작업이 권한 있는 사람의 결정 없이 \"비공식적 방식\"으로 진행됐고, 직원들은 \"기술적으로\"만 토렌트를 내려받았을 뿐이라고 주장했다. 하지만 직원 증언과 내부 메시지는 디렉터나 VP-level(부사장급) 승인을 가리켰다. 한 대화 스레드에는 \"MZ에게 앞서 올린 보고\"라는 언급도 있었다."
           },
           {
             "t": "p",
-            "x": "사이트에 따르면 Bartz v. Anthropic 소송에서 도서 저자들에게 돌아갈 $1.5 billion 규모 합의는 2026년 7월 20일 최종 승인됐다."
+            "x": "Hixon은 Meta의 좁은 해석을 받아들이지 않았다. 요청이 공식 결정이나 단일 의사결정자에 한정되지 않는다고 봤다. Meta는 다운로드를 결정·허가·승인한 사람을 모두 역할, 날짜와 함께 밝혀야 한다. 토렌트에 쓴 모든 서버의 명령 기록 파일도 제출하고 학습에 쓰이지 않은 해적판 저작물이 어떻게 됐는지도 설명해야 한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "PayAuthors checks if books sit\nin pirate libraries AI copied",
-          "body": "A new site, PayAuthors.com, lets authors check whether their books appear in pirate libraries that AI companies copied.",
-          "mini_headline": "Books in pirate libraries?",
+          "headline": "Meta ordered to name execs\nbehind book torrenting",
+          "body": "A magistrate judge ordered Meta to name the executives who approved torrenting pirated books for AI training.",
+          "mini_headline": "Meta must name torrent execs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "PayAuthors.com is a new website and service that makes it easy for authors to find out if their books are included in pirate libraries."
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
               },
               {
                 "t": "p",
-                "x": "Jane Friedman's full write-up is a premium article for paid subscribers of her newsletter."
+                "x": "In a discovery order covering the authors' class action (including Richard Kadrey and Sarah Silverman) and a suit by publisher Entrepreneur Media, Magistrate Judge Thomas Hixon largely agreed that Meta must identify the decision-makers who authorized downloading books from shadow libraries like LibGen and Anna's Archive."
               },
               {
                 "t": "p",
-                "x": "According to PayAuthors.com itself, it matches authors' books to dated pirate-library catalogs (LibGen, Z-Library via Anna's Archive), to the timeline of when each AI company copied those libraries, and to U.S. copyright registrations. The name check is free; a full report lists every matching record, including whether an ISBN is in Books3."
+                "x": "Meta had argued that early AI dataset work followed an \"informal approach\" in which nobody with authority made decisions, and that staffers only \"technically\" downloaded torrents. Staff testimony and internal messages instead pointed to director- or VP-level approval, and one thread referenced \"a prior escalation to MZ.\""
               },
               {
                 "t": "p",
-                "x": "The site notes that in Bartz v. Anthropic, a $1.5 billion settlement for book authors won final approval on July 20, 2026."
+                "x": "Hixon rejected Meta's narrow readings: the request was not limited to formal decisions or a single decision-maker. Meta must name everyone who made, authorized or approved the downloads, with their roles and dates, produce command history files for every server it used to torrent, and explain what happened to pirated works not used for training."
               }
             ]
           }
         },
         "ko": {
-          "headline": "PayAuthors로 확인\nAI 기업이 베낀 해적판",
-          "body": "PayAuthors.com은 AI 기업이 베낀 해적판 속 책을 찾아 준다.",
-          "mini_headline": "해적판 도서관에 내 책이?",
+          "headline": "Meta에 책 토렌트\n승인 임원 공개 명령",
+          "body": "치안판사가 Meta에 AI 학습용 해적판 토렌트를 승인한 임원을 밝히라고 명령했다.",
+          "mini_headline": "Meta, 토렌트 승인 임원 공개해야",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "PayAuthors.com은 새로 나온 웹사이트이자 서비스다. 작가는 여기서 자기 책이 해적판 도서관에 들어 있는지 쉽게 확인할 수 있다."
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
               },
               {
                 "t": "p",
-                "x": "Jane Friedman의 전체 글은 프리미엄 기사라 그의 뉴스레터 유료 구독자만 읽을 수 있다."
+                "x": "Thomas Hixon 치안판사는 작가 집단소송(Richard Kadrey, Sarah Silverman 포함)과 출판사 Entrepreneur Media 소송을 함께 다룬 증거개시 명령에서 Meta가 LibGen과 Anna's Archive 같은 섀도 라이브러리에서 책을 내려받도록 승인한 의사결정자를 밝혀야 한다는 주장을 대체로 받아들였다."
               },
               {
                 "t": "p",
-                "x": "PayAuthors.com의 설명에 따르면 이 서비스는 작가의 책을 날짜가 기록된 해적판 도서관 목록(LibGen, Anna's Archive를 거친 Z-Library), 각 AI 기업이 그 도서관을 복제한 시점, U.S.(미국) 저작권 등록 기록과 대조한다. 이름 확인은 무료다. 전체 보고서에는 ISBN이 Books3에 들어 있는지를 비롯해 일치하는 기록이 모두 나온다."
+                "x": "Meta는 초기 AI 데이터셋 작업이 권한 있는 사람의 결정 없이 \"비공식적 방식\"으로 진행됐고, 직원들은 \"기술적으로\"만 토렌트를 내려받았을 뿐이라고 주장했다. 하지만 직원 증언과 내부 메시지는 디렉터나 VP-level(부사장급) 승인을 가리켰다. 한 대화 스레드에는 \"MZ에게 앞서 올린 보고\"라는 언급도 있었다."
               },
               {
                 "t": "p",
-                "x": "사이트에 따르면 Bartz v. Anthropic 소송에서 도서 저자들에게 돌아갈 $1.5 billion 규모 합의는 2026년 7월 20일 최종 승인됐다."
+                "x": "Hixon은 Meta의 좁은 해석을 받아들이지 않았다. 요청이 공식 결정이나 단일 의사결정자에 한정되지 않는다고 봤다. Meta는 다운로드를 결정·허가·승인한 사람을 모두 역할, 날짜와 함께 밝혀야 한다. 토렌트에 쓴 모든 서버의 명령 기록 파일도 제출하고 학습에 쓰이지 않은 해적판 저작물이 어떻게 됐는지도 설명해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "PayAuthorsで確認\nAI企業が複製した海賊版",
-          "body": "PayAuthors.comで、自著がAI企業の複製した海賊版書庫にあるか確認できる。",
-          "mini_headline": "海賊版書庫に自著は?",
+          "headline": "Meta、書籍トレント\n承認幹部の開示命令",
+          "body": "治安判事がMetaに、AI学習用の海賊版書籍のトレントを承認した幹部を明かすよう命じた。",
+          "mini_headline": "Meta、トレント承認幹部の開示へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "PayAuthors.comは、作家が自分の本が海賊版書庫に含まれているかを簡単に調べられる新しいウェブサイト兼サービスだ。"
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
               },
               {
                 "t": "p",
-                "x": "Jane Friedmanによる全文は、彼女のニュースレターの有料購読者向けプレミアム記事である。"
+                "x": "Thomas Hixon治安判事は、作家らの集団訴訟(Richard Kadrey、Sarah Silvermanを含む)と出版社Entrepreneur Mediaによる訴訟を対象とする証拠開示命令で、LibGenやAnna's Archiveといったシャドーライブラリーからの書籍ダウンロードを承認した意思決定者をMetaが特定すべきだとの主張を、おおむね認めた。"
               },
               {
                 "t": "p",
-                "x": "PayAuthors.com自身の説明によると、同サービスは作家の本を、日付入りの海賊版書庫カタログ(LibGen、Anna's Archive経由のZ-Library)、各AI企業がそれらの書庫を複製した時期、U.S.(米国)の著作権登録と照合する。名前の確認は無料で、完全版レポートにはISBNがBooks3に含まれるかどうかを含め、一致した記録がすべて載る。"
+                "x": "Metaは、初期のAIデータセット作業は権限を持つ者が決定を下さない「非公式なアプローチ」で進められ、社員は「技術的に」トレントをダウンロードしたにすぎないと主張していた。だが社員の証言や社内メッセージは、ディレクターまたはVP-level(副社長級)の承認を示しており、あるスレッドには「MZへの以前のエスカレーション」への言及があった。"
               },
               {
                 "t": "p",
-                "x": "サイトによると、Bartz v. Anthropicでは書籍著者向けの$1.5 billionの和解が2026年7月20日に最終承認を得た。"
+                "x": "HixonはMetaの狭い解釈を退けた。要求は正式な決定や単一の意思決定者に限られないという判断である。Metaはダウンロードを決定、許可、承認したすべての人物を役職と日付とともに明らかにし、トレントに使ったすべてのサーバーのコマンド履歴ファイルを提出し、学習に使われなかった海賊版作品がどうなったかを説明しなければならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "PayAuthors帮作者查\nAI公司复制的盗版库",
-          "body": "新网站PayAuthors.com可让作者查询自己的书是否在AI公司复制的盗版书库中。",
-          "mini_headline": "书在盗版书库里吗?",
+          "headline": "法官令Meta披露\n批准书籍种子下载的高管",
+          "body": "一名治安法官命令Meta说出批准以种子下载盗版书籍用于AI训练的高管。",
+          "mini_headline": "Meta须交出种子下载批准高管",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "PayAuthors.com是一个新网站和服务,让作者能轻松查明自己的书是否被收入盗版书库。"
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
               },
               {
                 "t": "p",
-                "x": "Jane Friedman的完整文章是其新闻通讯付费订阅者专享的付费内容。"
+                "x": "治安法官Thomas Hixon在一项证据开示命令中——该命令涵盖作家集体诉讼（包括Richard Kadrey和Sarah Silverman）以及出版商Entrepreneur Media提起的诉讼——基本认同Meta必须指认批准从LibGen、Anna's Archive等影子图书馆下载书籍的决策者。"
               },
               {
                 "t": "p",
-                "x": "据PayAuthors.com自己介绍,它将作者的书与带日期的盗版书库目录(LibGen、经Anna's Archive收录的Z-Library)、各AI公司复制这些书库的时间线以及U.S.(美国)版权登记进行比对。姓名查询免费;完整报告会列出所有匹配记录,包括某个ISBN是否在Books3中。"
+                "x": "Meta此前辩称，早期AI数据集工作采用一种“非正式做法”，没有任何有权限的人做出决定，员工只是“在技术上”下载了种子。但员工证词和内部消息却指向总监或VP-level（副总裁级）的批准，其中一个讨论串还提到“此前曾上报给MZ”。"
               },
               {
                 "t": "p",
-                "x": "该网站指出,在Bartz v. Anthropic案中,面向图书作者的$1.5 billion和解已于2026年7月20日获得最终批准。"
+                "x": "Hixon驳回了Meta的狭义解读：该请求并不限于正式决定或单一决策者。Meta必须列出所有做出、授权或批准下载的人及其职务和日期，提交用于种子下载的每台服务器的命令历史文件，并说明未用于训练的盗版作品如何处置。"
               }
             ]
           }
         },
         "es": {
-          "headline": "PayAuthors busca libros en\nacervos piratas que copió la IA",
-          "body": "El nuevo PayAuthors.com indica a los autores si sus libros están en bibliotecas piratas copiadas por empresas de IA.",
-          "mini_headline": "¿Libros en bibliotecas piratas?",
+          "headline": "Meta deberá nombrar a quienes\naprobaron el torrent de libros",
+          "body": "Un juez ordenó a Meta nombrar a los directivos que aprobaron bajar libros piratas por torrent para entrenar IA.",
+          "mini_headline": "Meta debe nombrar a los responsables",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "PayAuthors.com es un nuevo sitio web y servicio que permite a los autores averiguar con facilidad si sus libros están incluidos en bibliotecas piratas."
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
               },
               {
                 "t": "p",
-                "x": "El análisis completo de Jane Friedman es un artículo premium para los suscriptores de pago de su boletín."
+                "x": "En una orden de exhibición de pruebas que abarca la demanda colectiva de autores (entre ellos Richard Kadrey y Sarah Silverman) y una demanda de la editorial Entrepreneur Media, el juez magistrado Thomas Hixon coincidió en gran medida en que Meta debe identificar a quienes autorizaron descargar libros de bibliotecas en la sombra como LibGen y Anna's Archive."
               },
               {
                 "t": "p",
-                "x": "Según la propia PayAuthors.com, el servicio cruza los libros de los autores con catálogos fechados de bibliotecas piratas (LibGen, Z-Library a través de Anna's Archive), con la cronología de cuándo cada empresa de IA copió esas bibliotecas y con los registros de derechos de autor de U.S. (Estados Unidos). La consulta por nombre es gratuita; un informe completo enumera todos los registros coincidentes, incluido si un ISBN está en Books3."
+                "x": "Meta había sostenido que el trabajo inicial con conjuntos de datos de AI siguió un \"enfoque informal\" en el que nadie con autoridad tomaba decisiones, y que los empleados solo descargaron torrents \"técnicamente\". Sin embargo, testimonios del personal y mensajes internos apuntaban a una aprobación de nivel director o VP-level, y un hilo mencionaba \"una escalada previa a MZ\"."
               },
               {
                 "t": "p",
-                "x": "El sitio señala que, en Bartz v. Anthropic, un acuerdo de 1.5 mil millones de dólares para autores de libros recibió la aprobación definitiva el 20 de julio de 2026."
+                "x": "Hixon rechazó las lecturas restrictivas de Meta: la solicitud no se limitaba a decisiones formales ni a una sola persona. Meta debe nombrar a todos los que tomaron, autorizaron o aprobaron las descargas, con sus cargos y fechas, entregar los archivos de historial de comandos de cada servidor que usó para el torrent y explicar qué pasó con las obras pirateadas que no se usaron para el entrenamiento."
               }
             ]
           }
@@ -169,105 +169,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "PayAuthors로 확인\nAI 기업이 베낀 해적판",
-          "body": "PayAuthors.com은 AI 기업이 베낀 해적판 속 책을 찾아 준다.",
-          "mini_headline": "해적판 도서관에 내 책이?",
+          "headline": "Meta에 책 토렌트\n승인 임원 공개 명령",
+          "body": "치안판사가 Meta에 AI 학습용 해적판 토렌트 승인 임원을 밝히라고 명령했다.",
+          "mini_headline": "Meta, 토렌트 승인 임원 공개해야",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "PayAuthors.com은 작가가 자기 책이 해적판 도서관에 들어 있는지 쉽게 확인하도록 돕는 새 웹사이트이자 서비스다."
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
               },
               {
                 "t": "p",
-                "x": "Jane Friedman의 전체 글은 그의 뉴스레터 유료 구독자에게만 공개되는 프리미엄 기사다."
+                "x": "Thomas Hixon 치안판사는 작가 집단소송(Richard Kadrey, Sarah Silverman 포함)과 출판사 Entrepreneur Media의 소송을 함께 다룬 증거개시 명령에서, Meta가 LibGen과 Anna's Archive 같은 섀도 라이브러리에서 책을 내려받도록 승인한 의사결정자를 밝혀야 한다는 주장을 대체로 받아들였다."
               },
               {
                 "t": "p",
-                "x": "PayAuthors.com의 설명에 따르면 이 서비스는 작가의 책을 날짜가 기록된 해적판 도서관 목록(LibGen, Anna's Archive를 거친 Z-Library), 각 AI 기업이 그 도서관을 복제한 시점, U.S.(미국) 저작권 등록 기록과 대조한다. 이름 확인은 무료이고, 전체 보고서는 ISBN이 Books3에 들어 있는지를 포함해 일치하는 기록을 모두 보여 준다."
+                "x": "Meta는 초기 AI 데이터셋 작업이 권한 있는 사람이 결정하지 않는 \"비공식적 방식\"으로 진행됐고, 직원들은 \"기술적으로\"만 토렌트를 내려받았을 뿐이라고 주장했다. 그러나 직원 증언과 내부 메시지는 디렉터 또는 VP-level(부사장급) 승인을 가리켰고, 한 대화 스레드에는 \"MZ에게 앞서 올린 보고\"라는 언급이 있었다."
               },
               {
                 "t": "p",
-                "x": "사이트는 Bartz v. Anthropic 소송에서 도서 저자를 위한 $1.5 billion 규모의 합의가 2026년 7월 20일 최종 승인을 받았다고 덧붙인다."
+                "x": "Hixon은 Meta의 좁은 해석을 받아들이지 않았다. 요청은 공식 결정이나 단일 의사결정자에 한정되지 않는다는 판단이다. Meta는 다운로드를 결정·허가·승인한 모든 사람을 역할, 날짜와 함께 밝히고, 토렌트에 쓴 모든 서버의 명령 기록 파일을 제출하며, 학습에 쓰이지 않은 해적판 저작물이 어떻게 됐는지 설명해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "PayAuthorsで確認\nAI企業が複製した海賊版",
-          "body": "PayAuthors.comで、自著がAI企業の複製した海賊版書庫にあるか確認できる。",
-          "mini_headline": "海賊版書庫に自著は?",
+          "headline": "Meta、書籍トレント\n承認幹部の開示命令",
+          "body": "治安判事がMetaに、AI学習用の海賊版書籍のトレントを承認した幹部を明かすよう命じた。",
+          "mini_headline": "Meta、トレント承認幹部の開示へ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "PayAuthors.comは、作家が自分の本が海賊版書庫に含まれているかを簡単に調べられる新しいウェブサイト兼サービスだ。"
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
               },
               {
                 "t": "p",
-                "x": "Jane Friedmanによる全文は、彼女のニュースレターの有料購読者向けプレミアム記事である。"
+                "x": "Thomas Hixon治安判事は、作家らの集団訴訟(Richard Kadrey、Sarah Silvermanを含む)と出版社Entrepreneur Mediaによる訴訟を対象とする証拠開示命令で、LibGenやAnna's Archiveといったシャドーライブラリーからの書籍ダウンロードを承認した意思決定者をMetaが特定すべきだとの主張を、おおむね認めた。"
               },
               {
                 "t": "p",
-                "x": "PayAuthors.com自身の説明によると、同サービスは作家の本を、日付入りの海賊版書庫カタログ(LibGen、Anna's Archive経由のZ-Library)、各AI企業がそれらの書庫を複製した時期、U.S.(米国)の著作権登録と照合する。名前の確認は無料で、完全版レポートにはISBNがBooks3に含まれるかどうかを含め、一致した記録がすべて載る。"
+                "x": "Metaは、初期のAIデータセット作業は権限を持つ者が決定を下さない「非公式なアプローチ」で進められ、社員は「技術的に」トレントをダウンロードしたにすぎないと主張していた。だが社員の証言や社内メッセージは、ディレクターまたはVP-level(副社長級)の承認を示しており、あるスレッドには「MZへの以前のエスカレーション」への言及があった。"
               },
               {
                 "t": "p",
-                "x": "サイトによると、Bartz v. Anthropicでは書籍著者向けの$1.5 billionの和解が2026年7月20日に最終承認を得た。"
+                "x": "HixonはMetaの狭い解釈を退けた。要求は正式な決定や単一の意思決定者に限られないという判断である。Metaはダウンロードを決定、許可、承認したすべての人物を役職と日付とともに明らかにし、トレントに使ったすべてのサーバーのコマンド履歴ファイルを提出し、学習に使われなかった海賊版作品がどうなったかを説明しなければならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "PayAuthors帮作者查\nAI公司复制的盗版库",
-          "body": "新网站PayAuthors.com可让作者查询自己的书是否在AI公司复制的盗版书库中。",
-          "mini_headline": "书在盗版书库里吗?",
+          "headline": "法官令Meta披露\n批准书籍种子下载的高管",
+          "body": "一名治安法官命令Meta说出批准以种子下载盗版书籍用于AI训练的高管。",
+          "mini_headline": "Meta须交出种子下载批准高管",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "PayAuthors.com是一个新网站和服务,让作者能轻松查明自己的书是否被收入盗版书库。"
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
               },
               {
                 "t": "p",
-                "x": "Jane Friedman的完整文章是其新闻通讯付费订阅者专享的付费内容。"
+                "x": "治安法官Thomas Hixon在一项证据开示命令中——该命令涵盖作家集体诉讼（包括Richard Kadrey和Sarah Silverman）以及出版商Entrepreneur Media提起的诉讼——基本认同Meta必须指认批准从LibGen、Anna's Archive等影子图书馆下载书籍的决策者。"
               },
               {
                 "t": "p",
-                "x": "据PayAuthors.com自己介绍,它将作者的书与带日期的盗版书库目录(LibGen、经Anna's Archive收录的Z-Library)、各AI公司复制这些书库的时间线以及U.S.(美国)版权登记进行比对。姓名查询免费;完整报告会列出所有匹配记录,包括某个ISBN是否在Books3中。"
+                "x": "Meta此前辩称，早期AI数据集工作采用一种“非正式做法”，没有任何有权限的人做出决定，员工只是“在技术上”下载了种子。但员工证词和内部消息却指向总监或VP-level（副总裁级）的批准，其中一个讨论串还提到“此前曾上报给MZ”。"
               },
               {
                 "t": "p",
-                "x": "该网站指出,在Bartz v. Anthropic案中,面向图书作者的$1.5 billion和解已于2026年7月20日获得最终批准。"
+                "x": "Hixon驳回了Meta的狭义解读：该请求并不限于正式决定或单一决策者。Meta必须列出所有做出、授权或批准下载的人及其职务和日期，提交用于种子下载的每台服务器的命令历史文件，并说明未用于训练的盗版作品如何处置。"
               }
             ]
           }
         },
         "es": {
-          "headline": "PayAuthors busca libros en\nacervos piratas que copió la IA",
-          "body": "El nuevo PayAuthors.com indica a los autores si sus libros están en bibliotecas piratas copiadas por empresas de IA.",
-          "mini_headline": "¿Libros en bibliotecas piratas?",
+          "headline": "Meta deberá nombrar a quienes\naprobaron el torrent de libros",
+          "body": "Un juez ordenó a Meta nombrar a los directivos que aprobaron bajar libros piratas por torrent para entrenar IA.",
+          "mini_headline": "Meta debe nombrar a los responsables",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "PayAuthors.com es un nuevo sitio web y servicio que permite a los autores averiguar con facilidad si sus libros están incluidos en bibliotecas piratas."
+                "t": "img",
+                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
               },
               {
                 "t": "p",
-                "x": "El análisis completo de Jane Friedman es un artículo premium para los suscriptores de pago de su boletín."
+                "x": "En una orden de exhibición de pruebas que abarca la demanda colectiva de autores (entre ellos Richard Kadrey y Sarah Silverman) y una demanda de la editorial Entrepreneur Media, el juez magistrado Thomas Hixon coincidió en gran medida en que Meta debe identificar a quienes autorizaron descargar libros de bibliotecas en la sombra como LibGen y Anna's Archive."
               },
               {
                 "t": "p",
-                "x": "Según la propia PayAuthors.com, el servicio cruza los libros de los autores con catálogos fechados de bibliotecas piratas (LibGen, Z-Library a través de Anna's Archive), con la cronología de cuándo cada empresa de IA copió esas bibliotecas y con los registros de derechos de autor de U.S. (Estados Unidos). La consulta por nombre es gratuita; un informe completo enumera todos los registros coincidentes, incluido si un ISBN está en Books3."
+                "x": "Meta había sostenido que el trabajo inicial con conjuntos de datos de AI siguió un \"enfoque informal\" en el que nadie con autoridad tomaba decisiones, y que los empleados solo descargaron torrents \"técnicamente\". Sin embargo, testimonios del personal y mensajes internos apuntaban a una aprobación de nivel director o VP-level, y un hilo mencionaba \"una escalada previa a MZ\"."
               },
               {
                 "t": "p",
-                "x": "El sitio señala que, en Bartz v. Anthropic, un acuerdo de 1.5 mil millones de dólares para autores de libros recibió la aprobación definitiva el 20 de julio de 2026."
+                "x": "Hixon rechazó las lecturas restrictivas de Meta: la solicitud no se limitaba a decisiones formales ni a una sola persona. Meta debe nombrar a todos los que tomaron, autorizaron o aprobaron las descargas, con sus cargos y fechas, entregar los archivos de historial de comandos de cada servidor que usó para el torrent y explicar qué pasó con las obras pirateadas que no se usaron para el entrenamiento."
               }
             ]
           }
@@ -275,15 +275,15 @@
       }
     },
     {
-      "id": "books-fish-audio-drama3",
+      "id": "books-tomato-novel-ai-signing-rules",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Drama 3, AI 음성\n연출하고 한 단어 수정",
-      "body": "Drama 3는 AI 목소리를 일상어로 연출하고 단어 하나만 다시 만든다.",
-      "mini_headline": "Drama 3, 한 단어 수정",
+      "headline": "Tomato Novel,\nAI 소설에 규칙 개편",
+      "body": "AI 소설이 쏟아지자 Tomato Novel이 신인에게 완결 후 계약을 요구한다.",
+      "mini_headline": "Tomato Novel, AI 소설 범람 막기",
       "tool": "Books",
-      "source": "Unite.AI",
-      "url": "https://www.unite.ai/fish-audio-drama-3-ai-voice-direction-audio-inpainting/",
+      "source": "36Kr",
+      "url": "https://eu.36kr.com/en/p/4034128921827207",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -291,173 +291,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
+            "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
           },
           {
             "t": "p",
-            "x": "Fish Audio가 10월 13일 새 텍스트 음성 변환 모델 Drama 3를 내놓았다. 창작자는 일상 언어로 연기 톤을 지시하고 여러 화자가 나오는 장면을 만든다. 합성 음성 중 특정 구간만 골라 고칠 수도 있는데, 이때 앞뒤 연기는 다시 생성하지 않는다."
+            "x": "ByteDance의 Tomato Novel은 Lv.0과 Lv.1 작가의 신작을 \"전작 완결 계약\"으로만 계약하겠다고 발표했다. 분야에 따라 150,000자 또는 300,000자 분량의 책 한 권을 끝까지 써야 신청할 수 있고, 그 전에는 노출도 인세도 없다."
           },
           {
             "t": "p",
-            "x": "핵심은 가장 작은 편집이다. 앞뒤 목소리와 분위기, 리듬은 그대로 두고 단어 하나만 바꾼다. 공동 창업자이자 수석 과학자 Shijia Liao에 따르면 모델은 고친 단어 앞뒤의 소리를 참고해 새 단어가 자연스럽게 붙도록 한다. CEO Rissa Cao는 “음성 AI는 말을 생성하는 데 아주 능숙해졌다. 다음 단계는 연기를 연출하는 것이다”라고 말했다."
+            "x": "일부 작가는 장르 프롬프트 하나로 수백만 자를 만들어 내는 AI 도구를 공유하며 맞섰다. 이 플랫폼은 한때 AI-assisted(AI 보조) 글쓰기를 적극 내세웠다. 하루 신규 투고는 약 400편에서 5,606편으로 뛰었다. 플랫폼은 이제 하루 5,000편이 넘는 신작이 \"거의 모두\" AI로 일괄 생성된 것이라고 밝힌다."
+          },
+          {
+            "t": "img",
+            "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
           },
           {
             "t": "p",
-            "x": "연출 지시와 효과음, 쉼은 대괄호나 짝을 이룬 태그에 넣는다. 처음 지시는 Auto Tag 기능이 제안해 준다. Drama 3는 긴 대본에서도 캐릭터마다 목소리를 따로 유지하며 영어·중국어·일본어·한국어 등에서는 음소 단위로 발음을 조절하게 해 준다."
-          },
-          {
-            "t": "p",
-            "x": "아직 프리뷰 단계(API id drama-3-preview)다. 발표 자료에는 단어 하나 수정을 독립적으로 평가한 결과가 없다. Fish Audio는 사용자가 15 million 명을 넘었고 ARR은 $21 million 규모라고 밝혔다."
+            "x": "앞선 조치(계정당 신작 수 제한, 855개 계정 처분, 저품질 도서 112,700권 반려)로는 속도를 따라잡지 못했고, Tomato는 이제 AI-written(AI 작성) 작품을 가려내는 일을 주로 AI에 맡긴다. 36Kr은 작가를 생산 능력으로 다루는 트래픽 우선 플랫폼에 더 깊은 문제가 있다고 짚는다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Fish Audio Drama 3 directs AI\nvoices and edits a single word",
-          "body": "Drama 3 lets audiobook and audio-drama producers direct AI voices in plain language and regenerate a single word in place.",
-          "mini_headline": "Drama 3 fixes one word",
+          "headline": "Tomato Novel rewrites rules\nas AI books flood in",
+          "body": "ByteDance's Tomato Novel now makes new low-level authors finish whole books before signing, amid a flood of AI novels.",
+          "mini_headline": "Tomato Novel curbs AI flood",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "Fish Audio announced Drama 3, a new text-to-speech model, on October 13. Creators can direct delivery in ordinary language, generate multi-speaker scenes, and repair a selected segment of synthesized audio without regenerating the surrounding performance."
+                "x": "Tomato Novel announced that new works by Lv.0 and Lv.1 authors can only be signed under \"full-work completion signing\": the whole book, 150,000 or 300,000 words depending on category, must be finished before applying, with no display or royalties until then."
               },
               {
                 "t": "p",
-                "x": "The headline feature is the smallest edit: changing a single word while preserving the voice, mood and rhythm on either side. Co-founder and chief scientist Shijia Liao says the model uses the sound on both sides of an edited word to make the replacement fit. “Voice AI has gotten very good at generating speech. The next step is directing a performance,” said CEO Rissa Cao."
+                "x": "Some authors answered by sharing AI tools that generate millions of words from a genre prompt. The platform once championed AI-assisted writing; daily new submissions jumped from about 400 to 5,606, and it now says the 5,000-plus daily books are \"almost all\" batch-generated by AI."
+              },
+              {
+                "t": "img",
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "Directions, sounds and pauses go in square brackets or paired tags, and an Auto Tag feature suggests initial directions. Drama 3 keeps distinct character voices across long scripts and offers phoneme-level pronunciation control in English, Chinese, Japanese and Korean, among others."
-              },
-              {
-                "t": "p",
-                "x": "It is still a preview (API id drama-3-preview), and the release offers no independent evaluation of single-word repairs. Fish Audio reports more than 15 million users and $21 million in ARR."
+                "x": "Earlier curbs (limits on new books per account, 855 accounts disposed of, 112,700 low-quality books rejected) have not kept pace, and Tomato now relies largely on AI to detect AI-written works. 36Kr argues the deeper problem is a traffic-first platform that treats authors as production capacity."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Drama 3, AI 음성\n연출하고 한 단어 수정",
-          "body": "Drama 3는 AI 목소리를 일상어로 연출하고 단어 하나만 다시 만든다.",
-          "mini_headline": "Drama 3, 한 단어 수정",
+          "headline": "Tomato Novel,\nAI 소설에 규칙 개편",
+          "body": "AI 소설이 쏟아지자 Tomato Novel이 신인에게 완결 후 계약을 요구한다.",
+          "mini_headline": "Tomato Novel, AI 소설 범람 막기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "Fish Audio가 10월 13일 새 텍스트 음성 변환 모델 Drama 3를 내놓았다. 창작자는 일상 언어로 연기 톤을 지시하고 여러 화자가 나오는 장면을 만든다. 합성 음성 중 특정 구간만 골라 고칠 수도 있는데, 이때 앞뒤 연기는 다시 생성하지 않는다."
+                "x": "ByteDance의 Tomato Novel은 Lv.0과 Lv.1 작가의 신작을 \"전작 완결 계약\"으로만 계약하겠다고 발표했다. 분야에 따라 150,000자 또는 300,000자 분량의 책 한 권을 끝까지 써야 신청할 수 있고, 그 전에는 노출도 인세도 없다."
               },
               {
                 "t": "p",
-                "x": "핵심은 가장 작은 편집이다. 앞뒤 목소리와 분위기, 리듬은 그대로 두고 단어 하나만 바꾼다. 공동 창업자이자 수석 과학자 Shijia Liao에 따르면 모델은 고친 단어 앞뒤의 소리를 참고해 새 단어가 자연스럽게 붙도록 한다. CEO Rissa Cao는 “음성 AI는 말을 생성하는 데 아주 능숙해졌다. 다음 단계는 연기를 연출하는 것이다”라고 말했다."
+                "x": "일부 작가는 장르 프롬프트 하나로 수백만 자를 만들어 내는 AI 도구를 공유하며 맞섰다. 이 플랫폼은 한때 AI-assisted(AI 보조) 글쓰기를 적극 내세웠다. 하루 신규 투고는 약 400편에서 5,606편으로 뛰었다. 플랫폼은 이제 하루 5,000편이 넘는 신작이 \"거의 모두\" AI로 일괄 생성된 것이라고 밝힌다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "연출 지시와 효과음, 쉼은 대괄호나 짝을 이룬 태그에 넣는다. 처음 지시는 Auto Tag 기능이 제안해 준다. Drama 3는 긴 대본에서도 캐릭터마다 목소리를 따로 유지하며 영어·중국어·일본어·한국어 등에서는 음소 단위로 발음을 조절하게 해 준다."
-              },
-              {
-                "t": "p",
-                "x": "아직 프리뷰 단계(API id drama-3-preview)다. 발표 자료에는 단어 하나 수정을 독립적으로 평가한 결과가 없다. Fish Audio는 사용자가 15 million 명을 넘었고 ARR은 $21 million 규모라고 밝혔다."
+                "x": "앞선 조치(계정당 신작 수 제한, 855개 계정 처분, 저품질 도서 112,700권 반려)로는 속도를 따라잡지 못했고, Tomato는 이제 AI-written(AI 작성) 작품을 가려내는 일을 주로 AI에 맡긴다. 36Kr은 작가를 생산 능력으로 다루는 트래픽 우선 플랫폼에 더 깊은 문제가 있다고 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Drama 3はAI音声を\n演出し一語だけ直す",
-          "body": "Drama 3でAI音声を平易な言葉で演出し、単語一つだけを再生成できる。",
-          "mini_headline": "Drama 3は一語を直す",
+          "headline": "Tomato Novel\nAI小説急増で規則改定",
+          "body": "Tomato NovelはAI小説の氾濫を受け、新人作家に完結後の契約を求める。",
+          "mini_headline": "Tomato Novel、AI小説の氾濫を抑制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "Fish Audioは10月13日、新しい音声合成モデルDrama 3を発表した。クリエイターは普段の言葉で話し方を指示し、複数話者のシーンを生成し、合成音声の選んだ区間を前後の演技を作り直さずに修正できる。"
+                "x": "ByteDanceのTomato Novelは、Lv.0とLv.1の作家による新作は「全作完結契約」でしか契約できないと発表した。カテゴリーに応じて150,000字または300,000字の作品全体を書き上げてから申請する必要があり、それまでは掲載も印税もない。"
               },
               {
                 "t": "p",
-                "x": "目玉は最小単位の編集、つまり前後の声や雰囲気、リズムを保ったまま単語を一つだけ差し替える機能だ。共同創業者でチーフサイエンティストのShijia Liaoによれば、モデルは編集した単語の前後の音を使い、差し替えが自然になじむようにする。CEOのRissa Caoは「音声AIは発話の生成がとても上手くなった。次の段階は演技の演出だ」と述べた。"
+                "x": "一部の作家は、ジャンルのプロンプトから数百万字を生成するAIツールを共有して対抗した。同プラットフォームはかつてAI-assisted(AI支援)の執筆を推進していた。1日の新規投稿は約400件から5,606件に急増し、現在は1日5,000件を超える新作が「ほぼすべて」AIによる一括生成だとしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "指示や効果音、間は角かっこまたは対になったタグで入力し、Auto Tag機能が最初の指示を提案する。Drama 3は長い台本でもキャラクターごとの声を保ち、英語、中国語、日本語、韓国語などで音素レベルの発音制御を備える。"
-              },
-              {
-                "t": "p",
-                "x": "まだプレビュー版(API id drama-3-preview)で、単語一つの修正について独立した評価は示されていない。Fish Audioはユーザー数が15 million 超、ARRが$21 million だとしている。"
+                "x": "これまでの対策(アカウントごとの新作数制限、855アカウントの処分、低品質作品112,700冊の却下)は追いついておらず、TomatoはいまやAI-written(AI執筆)作品の検出を主にAIに頼っている。36Krは、作家を生産能力として扱うトラフィック優先のプラットフォームこそが根本的な問題だと論じる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Drama 3可指导AI配音\n还能只改一个词",
-          "body": "Drama 3让有声书制作者用日常语言指导AI配音,并可原地重生成单个词。",
-          "mini_headline": "Drama 3只改一个词",
+          "headline": "Tomato Novel\n因AI书泛滥改规则",
+          "body": "ByteDance旗下Tomato Novel因AI小说泛滥，要求新作者写完全书才签约。",
+          "mini_headline": "Tomato Novel遏制AI书泛滥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "Fish Audio于10月13日发布了新的文本转语音模型Drama 3。创作者可以用日常语言指导演绎方式、生成多人对话场景,并在不重新生成前后表演的情况下修复合成音频中选定的片段。"
+                "x": "Tomato Novel宣布，Lv.0和Lv.1作者的新作品只能采用“全本完结签约”：须按品类写完150,000字或300,000字的整本书后才能申请，在此之前不展示、无稿酬。"
               },
               {
                 "t": "p",
-                "x": "最受关注的功能是最小的编辑:在保留前后音色、情绪和节奏的同时只改动一个词。联合创始人兼首席科学家Shijia Liao表示,模型会利用被编辑词前后的声音,让替换内容衔接自然。CEO Rissa Cao说:“语音AI在生成语音方面已经非常出色。下一步是指导表演。”"
+                "x": "部分作者的回应是分享能根据题材提示词生成数百万字的AI工具。该平台曾大力倡导AI-assisted（AI辅助）写作；每日新投稿从约400部猛增至5,606部，平台如今表示，每天5,000多部新书“几乎全部”由AI批量生成。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "指示、音效和停顿可写在方括号或成对标签中,Auto Tag功能会给出初始指示建议。Drama 3能在长篇脚本中保持各角色不同的声音,并在英语、中文、日语和韩语等语言中提供音素级发音控制。"
-              },
-              {
-                "t": "p",
-                "x": "该模型仍处于预览阶段(API id drama-3-preview),发布内容并未提供单词修复的独立评估。Fish Audio称其用户超过15 million,ARR达$21 million。"
+                "x": "此前的限制措施（限制每个账号的新书数量、处置855个账号、驳回112,700本低质量书籍）未能跟上节奏，Tomato如今主要依靠AI来识别AI-written（AI写作）作品。36Kr认为，更深层的问题在于流量至上、把作者当作产能的平台。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fish Audio Drama 3 dirige voces\nde IA y edita una sola palabra",
-          "body": "Drama 3 deja a productores de audiolibros dirigir voces de IA en lenguaje llano y regenerar una sola palabra.",
-          "mini_headline": "Drama 3 corrige una palabra",
+          "headline": "Tomato Novel cambia sus reglas\nante la avalancha de libros IA",
+          "body": "Por la avalancha de novelas de IA, Tomato Novel (ByteDance) exige a autores nuevos acabar el libro antes de firmar.",
+          "mini_headline": "Tomato Novel frena la avalancha de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "Fish Audio anunció el 13 de octubre Drama 3, un nuevo modelo de texto a voz. Los creadores pueden dirigir la interpretación con lenguaje corriente, generar escenas con varios hablantes y reparar un segmento elegido del audio sintetizado sin regenerar la interpretación que lo rodea."
+                "x": "Tomato Novel anunció que las obras nuevas de autores Lv.0 y Lv.1 solo podrán firmarse mediante la \"firma con obra completa\": el libro entero, de 150,000 o 300,000 palabras según la categoría, debe estar terminado antes de presentar la solicitud, sin exhibición ni regalías hasta entonces."
               },
               {
                 "t": "p",
-                "x": "La función principal es la edición más pequeña: cambiar una sola palabra conservando la voz, el tono y el ritmo a ambos lados. El cofundador y científico jefe Shijia Liao explica que el modelo usa el sonido a ambos lados de la palabra editada para que el reemplazo encaje. “La IA de voz se ha vuelto muy buena generando habla. El siguiente paso es dirigir una interpretación”, dijo la CEO Rissa Cao."
+                "x": "Algunos autores respondieron compartiendo herramientas de AI que generan millones de palabras a partir de una consigna de género. La plataforma promovió en su día la escritura AI-assisted (asistida por IA); los envíos nuevos diarios pasaron de unos 400 a 5,606, y ahora afirma que los más de 5,000 libros diarios son \"casi todos\" generados en serie por IA."
+              },
+              {
+                "t": "img",
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "Las indicaciones, los sonidos y las pausas van entre corchetes o en etiquetas emparejadas, y la función Auto Tag sugiere indicaciones iniciales. Drama 3 mantiene voces distintas para cada personaje en guiones largos y ofrece control de pronunciación a nivel de fonema en inglés, chino, japonés y coreano, entre otros."
-              },
-              {
-                "t": "p",
-                "x": "Todavía es una versión preliminar (API id drama-3-preview), y el anuncio no incluye ninguna evaluación independiente de las correcciones de una sola palabra. Fish Audio declara más de 15 millones de usuarios y 21 millones de dólares de ARR."
+                "x": "Las restricciones anteriores (límites de libros nuevos por cuenta, 855 cuentas sancionadas, 112,700 libros de baja calidad rechazados) no han bastado, y Tomato depende ahora en gran medida de la IA para detectar obras AI-written (escritas por IA). 36Kr sostiene que el problema de fondo es una plataforma centrada en el tráfico que trata a los autores como capacidad de producción."
               }
             ]
           }
@@ -465,121 +465,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Drama 3, AI 음성\n연출하고 한 단어 수정",
-          "body": "Drama 3는 AI 목소리를 일상어로 연출하고 단어 하나만 다시 만든다.",
-          "mini_headline": "Drama 3, 한 단어 수정",
+          "headline": "Tomato Novel,\nAI 소설에 규칙 개편",
+          "body": "Tomato Novel이 AI 소설 범람에 신인에게 완결 후 계약을 요구한다.",
+          "mini_headline": "Tomato Novel, AI 소설 범람 막기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "Fish Audio가 10월 13일 새 텍스트 음성 변환 모델 Drama 3를 발표했다. 창작자는 일상 언어로 연기 톤을 지시하고, 여러 화자가 나오는 장면을 만들며, 합성 음성의 특정 구간을 앞뒤 연기를 다시 생성하지 않고 고칠 수 있다."
+                "x": "ByteDance의 Tomato Novel은 Lv.0과 Lv.1 작가의 신작은 \"전작 완결 계약\"으로만 계약할 수 있다고 발표했다. 분야에 따라 150,000자 또는 300,000자 분량의 책 전체를 완성해야 신청할 수 있고, 그 전까지는 노출도 인세도 없다."
               },
               {
                 "t": "p",
-                "x": "핵심 기능은 가장 작은 편집, 즉 앞뒤의 목소리와 분위기, 리듬을 유지한 채 단어 하나만 바꾸는 일이다. 공동 창업자이자 수석 과학자인 Shijia Liao는 모델이 수정한 단어 앞뒤의 소리를 활용해 바꾼 단어가 자연스럽게 맞도록 한다고 설명한다. CEO Rissa Cao는 “음성 AI는 말을 생성하는 데 아주 능숙해졌다. 다음 단계는 연기를 연출하는 것이다”라고 말했다."
+                "x": "일부 작가는 장르 프롬프트 하나로 수백만 자를 생성하는 AI 도구를 공유하며 맞섰다. 이 플랫폼은 한때 AI-assisted(AI 보조) 글쓰기를 적극 내세웠다. 하루 신규 투고는 약 400편에서 5,606편으로 뛰었고, 플랫폼은 이제 하루 5,000편이 넘는 신작이 \"거의 모두\" AI로 일괄 생성된 것이라고 밝힌다."
+              },
+              {
+                "t": "img",
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "연출 지시와 효과음, 쉼은 대괄호나 짝을 이룬 태그 안에 넣고, Auto Tag 기능이 초기 지시를 제안한다. Drama 3는 긴 대본에서도 캐릭터마다 다른 목소리를 유지하며, 영어·중국어·일본어·한국어 등에서 음소 단위 발음 제어를 제공한다."
-              },
-              {
-                "t": "p",
-                "x": "아직 프리뷰 단계(API id drama-3-preview)이며, 발표 자료에는 단어 하나 수정에 대한 독립 평가가 없다. Fish Audio는 사용자가 15 million 명을 넘고 ARR은 $21 million 규모라고 밝혔다."
+                "x": "앞선 조치(계정당 신작 수 제한, 855개 계정 처분, 저품질 도서 112,700권 반려)도 속도를 따라잡지 못했고, Tomato는 이제 AI-written(AI 작성) 작품을 가려내는 일을 주로 AI에 맡긴다. 36Kr은 더 깊은 문제가 작가를 생산 능력으로 다루는 트래픽 우선 플랫폼에 있다고 짚는다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Drama 3はAI音声を\n演出し一語だけ直す",
-          "body": "Drama 3でAI音声を平易な言葉で演出し、単語一つだけを再生成できる。",
-          "mini_headline": "Drama 3は一語を直す",
+          "headline": "Tomato Novel\nAI小説急増で規則改定",
+          "body": "Tomato NovelはAI小説の氾濫を受け、新人作家に完結後の契約を求める。",
+          "mini_headline": "Tomato Novel、AI小説の氾濫を抑制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "Fish Audioは10月13日、新しい音声合成モデルDrama 3を発表した。クリエイターは普段の言葉で話し方を指示し、複数話者のシーンを生成し、合成音声の選んだ区間を前後の演技を作り直さずに修正できる。"
+                "x": "ByteDanceのTomato Novelは、Lv.0とLv.1の作家による新作は「全作完結契約」でしか契約できないと発表した。カテゴリーに応じて150,000字または300,000字の作品全体を書き上げてから申請する必要があり、それまでは掲載も印税もない。"
               },
               {
                 "t": "p",
-                "x": "目玉は最小単位の編集、つまり前後の声や雰囲気、リズムを保ったまま単語を一つだけ差し替える機能だ。共同創業者でチーフサイエンティストのShijia Liaoによれば、モデルは編集した単語の前後の音を使い、差し替えが自然になじむようにする。CEOのRissa Caoは「音声AIは発話の生成がとても上手くなった。次の段階は演技の演出だ」と述べた。"
+                "x": "一部の作家は、ジャンルのプロンプトから数百万字を生成するAIツールを共有して対抗した。同プラットフォームはかつてAI-assisted(AI支援)の執筆を推進していた。1日の新規投稿は約400件から5,606件に急増し、現在は1日5,000件を超える新作が「ほぼすべて」AIによる一括生成だとしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "指示や効果音、間は角かっこまたは対になったタグで入力し、Auto Tag機能が最初の指示を提案する。Drama 3は長い台本でもキャラクターごとの声を保ち、英語、中国語、日本語、韓国語などで音素レベルの発音制御を備える。"
-              },
-              {
-                "t": "p",
-                "x": "まだプレビュー版(API id drama-3-preview)で、単語一つの修正について独立した評価は示されていない。Fish Audioはユーザー数が15 million 超、ARRが$21 million だとしている。"
+                "x": "これまでの対策(アカウントごとの新作数制限、855アカウントの処分、低品質作品112,700冊の却下)は追いついておらず、TomatoはいまやAI-written(AI執筆)作品の検出を主にAIに頼っている。36Krは、作家を生産能力として扱うトラフィック優先のプラットフォームこそが根本的な問題だと論じる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Drama 3可指导AI配音\n还能只改一个词",
-          "body": "Drama 3让有声书制作者用日常语言指导AI配音,并可原地重生成单个词。",
-          "mini_headline": "Drama 3只改一个词",
+          "headline": "Tomato Novel\n因AI书泛滥改规则",
+          "body": "ByteDance旗下Tomato Novel因AI小说泛滥，要求新作者写完全书才签约。",
+          "mini_headline": "Tomato Novel遏制AI书泛滥",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "Fish Audio于10月13日发布了新的文本转语音模型Drama 3。创作者可以用日常语言指导演绎方式、生成多人对话场景,并在不重新生成前后表演的情况下修复合成音频中选定的片段。"
+                "x": "Tomato Novel宣布，Lv.0和Lv.1作者的新作品只能采用“全本完结签约”：须按品类写完150,000字或300,000字的整本书后才能申请，在此之前不展示、无稿酬。"
               },
               {
                 "t": "p",
-                "x": "最受关注的功能是最小的编辑:在保留前后音色、情绪和节奏的同时只改动一个词。联合创始人兼首席科学家Shijia Liao表示,模型会利用被编辑词前后的声音,让替换内容衔接自然。CEO Rissa Cao说:“语音AI在生成语音方面已经非常出色。下一步是指导表演。”"
+                "x": "部分作者的回应是分享能根据题材提示词生成数百万字的AI工具。该平台曾大力倡导AI-assisted（AI辅助）写作；每日新投稿从约400部猛增至5,606部，平台如今表示，每天5,000多部新书“几乎全部”由AI批量生成。"
+              },
+              {
+                "t": "img",
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "指示、音效和停顿可写在方括号或成对标签中,Auto Tag功能会给出初始指示建议。Drama 3能在长篇脚本中保持各角色不同的声音,并在英语、中文、日语和韩语等语言中提供音素级发音控制。"
-              },
-              {
-                "t": "p",
-                "x": "该模型仍处于预览阶段(API id drama-3-preview),发布内容并未提供单词修复的独立评估。Fish Audio称其用户超过15 million,ARR达$21 million。"
+                "x": "此前的限制措施（限制每个账号的新书数量、处置855个账号、驳回112,700本低质量书籍）未能跟上节奏，Tomato如今主要依靠AI来识别AI-written（AI写作）作品。36Kr认为，更深层的问题在于流量至上、把作者当作产能的平台。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Fish Audio Drama 3 dirige voces\nde IA y edita una sola palabra",
-          "body": "Drama 3 deja a productores de audiolibros dirigir voces de IA en lenguaje llano y regenerar una sola palabra.",
-          "mini_headline": "Drama 3 corrige una palabra",
+          "headline": "Tomato Novel cambia sus reglas\nante la avalancha de libros IA",
+          "body": "Por la avalancha de novelas de IA, Tomato Novel (ByteDance) exige a autores nuevos acabar el libro antes de firmar.",
+          "mini_headline": "Tomato Novel frena la avalancha de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.unite.ai/wp-content/uploads/2026/10/fish-audio-drama-3.jpg"
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "Fish Audio anunció el 13 de octubre Drama 3, un nuevo modelo de texto a voz. Los creadores pueden dirigir la interpretación con lenguaje corriente, generar escenas con varios hablantes y reparar un segmento elegido del audio sintetizado sin regenerar la interpretación que lo rodea."
+                "x": "Tomato Novel anunció que las obras nuevas de autores Lv.0 y Lv.1 solo podrán firmarse mediante la \"firma con obra completa\": el libro entero, de 150,000 o 300,000 palabras según la categoría, debe estar terminado antes de presentar la solicitud, sin exhibición ni regalías hasta entonces."
               },
               {
                 "t": "p",
-                "x": "La función principal es la edición más pequeña: cambiar una sola palabra conservando la voz, el tono y el ritmo a ambos lados. El cofundador y científico jefe Shijia Liao explica que el modelo usa el sonido a ambos lados de la palabra editada para que el reemplazo encaje. “La IA de voz se ha vuelto muy buena generando habla. El siguiente paso es dirigir una interpretación”, dijo la CEO Rissa Cao."
+                "x": "Algunos autores respondieron compartiendo herramientas de AI que generan millones de palabras a partir de una consigna de género. La plataforma promovió en su día la escritura AI-assisted (asistida por IA); los envíos nuevos diarios pasaron de unos 400 a 5,606, y ahora afirma que los más de 5,000 libros diarios son \"casi todos\" generados en serie por IA."
+              },
+              {
+                "t": "img",
+                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
               },
               {
                 "t": "p",
-                "x": "Las indicaciones, los sonidos y las pausas van entre corchetes o en etiquetas emparejadas, y la función Auto Tag sugiere indicaciones iniciales. Drama 3 mantiene voces distintas para cada personaje en guiones largos y ofrece control de pronunciación a nivel de fonema en inglés, chino, japonés y coreano, entre otros."
-              },
-              {
-                "t": "p",
-                "x": "Todavía es una versión preliminar (API id drama-3-preview), y el anuncio no incluye ninguna evaluación independiente de las correcciones de una sola palabra. Fish Audio declara más de 15 millones de usuarios y 21 millones de dólares de ARR."
+                "x": "Las restricciones anteriores (límites de libros nuevos por cuenta, 855 cuentas sancionadas, 112,700 libros de baja calidad rechazados) no han bastado, y Tomato depende ahora en gran medida de la IA para detectar obras AI-written (escritas por IA). 36Kr sostiene que el problema de fondo es una plataforma centrada en el tráfico que trata a los autores como capacidad de producción."
               }
             ]
           }
@@ -587,15 +587,15 @@
       }
     },
     {
-      "id": "books-google-kr-publishers",
-      "source_lang": "ko",
+      "id": "books-prix-pascal-ai-manuscripts",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "구글도 국내 책 구매 추진\n저작권 법안은 국회 낮잠",
-      "body": "구글이 국내 출판사와 책 구매를 추진하지만 AI 저작권 법안은 국회에 멈춰 있다.",
-      "mini_headline": "구글도 국내 책 구매",
+      "headline": "AI-written 원고에\n주는 프랑스 문학상",
+      "body": "프랑스 Prix Pascal은 도구와 방법을 공개한 AI 집필 원고에 상을 준다.",
+      "mini_headline": "AI 원고를 위한 문학상",
       "tool": "Books",
-      "source": "서울경제",
-      "url": "https://www.sedaily.com/article/20103000",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -603,305 +603,215 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
           },
           {
             "t": "p",
-            "x": "앤트로픽이 국내 도서 유통사로부터 대량의 책을 사들인 것으로 밝혀져 논란이 된 가운데, 구글도 올해 상반기부터 국내 대형 출판사를 상대로 AI 학습용 도서 구입을 협상 중인 것으로 나타났다. 업계 관계자들은 실제 계약을 완료한 사례도 있다고 전했고, 계약한 곳 중에는 학술 전문 출판사가 포함된 것으로 알려졌다. 구글코리아는 답변하지 않았다."
+            "x": "프랑스에 새로 생긴 문학상 Prix Pascal이 인공지능으로 쓴 원고에 상을 준다."
           },
           {
             "t": "p",
-            "x": "문제는 저작권자 동의 없이 AI 학습용으로 콘텐츠를 팔아도 규제할 법적 근거가 없다는 점이다. 영세한 국내 출판사가 글로벌 빅테크와 대등한 협상력을 갖기 어렵고, 앤트로픽의 ‘권당 3000달러(435만 원) 배상’이 AI 학습 대가가 아닌데도 가격표처럼 인식될 수 있다는 우려가 나온다."
-          },
-          {
-            "t": "img",
-            "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
-            "cap": "국회에 계류 중인 AI 학습-저작권 관련 법안"
-          },
-          {
-            "t": "p",
-            "x": "국내 AI 기업들은 콘텐츠 구매 비용 부담으로 경쟁력이 후퇴할 수 있다는 우려도 있다. 현재 국회에는 생성형 AI 학습 데이터 출처 공개와 저작권자의 확인 절차를 규정한 AI 기본법 개정안이 다수 발의돼 있으나 계류 중이다."
+            "x": "응모자는 작품을 만들 때 쓴 도구와 방법을 공개해야 한다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "구글도 국내 책 구매 추진\n저작권 법안은 국회 낮잠",
-          "body": "구글이 국내 출판사와 책 구매를 추진하지만 AI 저작권 법안은 국회에 멈춰 있다.",
-          "mini_headline": "구글도 국내 책 구매",
+        "en": {
+          "headline": "France launches a prize\nfor AI-written manuscripts",
+          "body": "France's Prix Pascal will honour a manuscript written with AI, provided entrants disclose the tools and methods used.",
+          "mini_headline": "A prize for AI manuscripts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
               },
               {
                 "t": "p",
-                "x": "앤트로픽이 국내 도서 유통사로부터 대량의 책을 사들인 것으로 밝혀져 논란이 된 가운데, 구글도 올해 상반기부터 국내 대형 출판사를 상대로 AI 학습용 도서 구입을 협상 중인 것으로 나타났다. 업계 관계자들은 실제 계약을 완료한 사례도 있다고 전했고, 계약한 곳 중에는 학술 전문 출판사가 포함된 것으로 알려졌다. 구글코리아는 답변하지 않았다."
+                "x": "A new French literary prize, the Prix Pascal, will recognise a manuscript written with artificial intelligence."
               },
               {
                 "t": "p",
-                "x": "문제는 저작권자 동의 없이 AI 학습용으로 콘텐츠를 팔아도 규제할 법적 근거가 없다는 점이다. 영세한 국내 출판사가 글로벌 빅테크와 대등한 협상력을 갖기 어렵고, 앤트로픽의 ‘권당 3000달러(435만 원) 배상’이 AI 학습 대가가 아닌데도 가격표처럼 인식될 수 있다는 우려가 나온다."
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
-                "cap": "국회에 계류 중인 AI 학습-저작권 관련 법안"
-              },
-              {
-                "t": "p",
-                "x": "국내 AI 기업들은 콘텐츠 구매 비용 부담으로 경쟁력이 후퇴할 수 있다는 우려도 있다. 현재 국회에는 생성형 AI 학습 데이터 출처 공개와 저작권자의 확인 절차를 규정한 AI 기본법 개정안이 다수 발의돼 있으나 계류 중이다."
+                "x": "Entrants are required to disclose the tools and methods used to produce their work."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Google seeks Korean books too\nCopyright bills idle in Assembly",
-          "body": "Google is seeking to buy books from Korean publishers, but AI copyright bills are stuck in the National Assembly.",
-          "mini_headline": "Google buys Korean books too",
+        "ko": {
+          "headline": "AI-written 원고에\n주는 프랑스 문학상",
+          "body": "프랑스 Prix Pascal은 도구와 방법을 공개한 AI 집필 원고에 상을 준다.",
+          "mini_headline": "AI 원고를 위한 문학상",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
               },
               {
                 "t": "p",
-                "x": "Amid controversy over revelations that Anthropic bought large numbers of books from a Korean book distributor, Google has also been negotiating since the first half of this year with major Korean publishers to buy books for AI training. Industry sources said some contracts have actually been completed, reportedly including one with an academic publisher. Google Korea did not respond."
+                "x": "프랑스에 새로 생긴 문학상 Prix Pascal이 인공지능으로 쓴 원고에 상을 준다."
               },
               {
                 "t": "p",
-                "x": "The problem is that there is no legal basis to regulate the sale of content for AI training without copyright holders’ consent. Small Korean publishers can hardly negotiate on equal terms with global Big Tech, and there are concerns that Anthropic’s ‘$3000 (435만 원) per book in damages’ could be read as a price tag even though it is not payment for AI training."
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
-                "cap": "AI training and copyright bills pending in the National Assembly"
-              },
-              {
-                "t": "p",
-                "x": "There are also concerns that Korean AI companies could lose competitiveness under the cost of buying content. Several amendments to the AI Basic Act that would require disclosure of the sources of generative AI training data and a verification process for copyright holders have been proposed in the National Assembly but remain pending."
+                "x": "응모자는 작품을 만들 때 쓴 도구와 방법을 공개해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Googleも韓国で本を購入\n著作権法案は国会で停滞",
-          "body": "Googleが韓国の出版社から本の購入を進めるが、AI著作権法案は国会で止まっている。",
-          "mini_headline": "Googleも韓国で本購入",
+          "headline": "AI-written原稿に\n仏が新文学賞",
+          "body": "フランスのPrix Pascalは、ツールと手法の開示を条件にAI執筆の原稿を表彰する。",
+          "mini_headline": "AI原稿のための文学賞",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
               },
               {
                 "t": "p",
-                "x": "Anthropicが韓国の書籍流通会社から大量の本を購入していたことが明らかになり論議を呼ぶなか、Googleも今年上半期から韓国の大手出版社とAI学習用の書籍購入を交渉していることがわかった。業界関係者によると、実際に契約を終えた例もあり、契約先には学術専門出版社が含まれているという。Google Koreaは回答しなかった。"
+                "x": "フランスの新しい文学賞Prix Pascalは、人工知能を使って書かれた原稿を表彰する。"
               },
               {
                 "t": "p",
-                "x": "問題は、著作権者の同意なしにAI学習用としてコンテンツを販売しても、規制する法的根拠がない点だ。零細な韓国の出版社がグローバルなビッグテックと対等な交渉力を持つのは難しく、Anthropicの「1冊あたり3000ドル(435만 원)の賠償」はAI学習の対価ではないにもかかわらず、価格表のように受け止められかねないとの懸念が出ている。"
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
-                "cap": "国会で審議待ちのAI学習・著作権関連法案"
-              },
-              {
-                "t": "p",
-                "x": "韓国のAI企業は、コンテンツ購入費の負担で競争力が後退しかねないとの懸念もある。現在国会には、生成AIの学習データの出所公開と著作権者の確認手続きを定めたAI基本法改正案が多数提出されているが、審議は止まったままだ。"
+                "x": "応募者は、作品づくりに使ったツールと手法を開示しなければならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google也在韩国购书\n版权法案在国会搁置",
-          "body": "Google正与韩国出版社洽谈购书,但AI版权法案仍在国会搁置。",
-          "mini_headline": "Google也在韩国购书",
+          "headline": "法国为AI-written\n手稿设立文学奖",
+          "body": "法国Prix Pascal奖将表彰借助AI写成的手稿，前提是参赛者披露所用工具和方法。",
+          "mini_headline": "为AI手稿设立的奖项",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
               },
               {
                 "t": "p",
-                "x": "在Anthropic被曝从韩国图书经销商大量购书并引发争议之际,Google也被发现自今年上半年起与韩国大型出版社洽谈购买AI训练用图书。业内人士透露,已有实际签约的案例,据悉签约方中包括一家学术专业出版社。Google Korea未予回应。"
+                "x": "法国新设的文学奖Prix Pascal将表彰一部借助人工智能写成的手稿。"
               },
               {
                 "t": "p",
-                "x": "问题在于,即便未经版权方同意就把内容出售用于AI训练,也没有加以监管的法律依据。韩国小型出版社难以与全球科技巨头平等议价,而且有人担心,Anthropic的“每本3000美元(435만 원)赔偿”虽然并非AI训练的对价,却可能被当作价目表。"
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
-                "cap": "国会待审的AI训练与版权相关法案"
-              },
-              {
-                "t": "p",
-                "x": "也有人担心,韩国AI企业可能因内容采购成本负担而丧失竞争力。目前国会已提出多项AI基本法修正案,规定公开生成式AI训练数据来源及版权方确认程序,但均处于搁置状态。"
+                "x": "参赛者须披露创作作品时所用的工具和方法。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google busca libros coreanos\ny la ley de copyright se estanca",
-          "body": "Google busca comprar libros a editoriales coreanas, pero las leyes de IA y derechos de autor siguen paradas.",
-          "mini_headline": "Google también compra libros",
+          "headline": "Francia crea un premio para\nmanuscritos con IA (AI-written)",
+          "body": "El Prix Pascal francés premiará un manuscrito escrito con IA si se revelan herramientas y métodos.",
+          "mini_headline": "Un premio para manuscritos con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
               },
               {
                 "t": "p",
-                "x": "En plena polémica por la revelación de que Anthropic compró una gran cantidad de libros a un distribuidor coreano, se supo que Google también negocia desde el primer semestre de este año con grandes editoriales coreanas la compra de libros para entrenar IA. Fuentes del sector afirmaron que ya hay contratos cerrados y que entre las firmantes figura una editorial académica especializada. Google Korea no respondió."
+                "x": "Un nuevo premio literario francés, el Prix Pascal, reconocerá un manuscrito escrito con inteligencia artificial."
               },
               {
                 "t": "p",
-                "x": "El problema es que no existe base legal para regular la venta de contenidos para entrenar IA sin el consentimiento de los titulares de derechos. A las pequeñas editoriales coreanas les cuesta negociar en igualdad con las grandes tecnológicas globales, y preocupa que la ‘indemnización de 3000 dólares (435만 원) por libro’ de Anthropic se perciba como una tarifa, aunque no es un pago por el entrenamiento de IA."
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
-                "cap": "Proyectos de ley sobre entrenamiento de IA y derechos de autor pendientes en la Asamblea Nacional"
-              },
-              {
-                "t": "p",
-                "x": "También preocupa que las empresas coreanas de IA pierdan competitividad por el coste de comprar contenidos. En la Asamblea Nacional hay varias propuestas de reforma de la Ley Básica de IA que exigen revelar el origen de los datos de entrenamiento de la IA generativa y fijan un procedimiento de verificación para los titulares de derechos, pero siguen pendientes."
+                "x": "Los participantes deben revelar las herramientas y los métodos usados para crear su obra."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Google seeks Korean books too\nCopyright bills idle in Assembly",
-          "body": "Google is seeking to buy books from Korean publishers, but AI copyright bills are stuck in the National Assembly.",
-          "mini_headline": "Google buys Korean books too",
+        "ko": {
+          "headline": "AI-written 원고에\n주는 프랑스 문학상",
+          "body": "프랑스 Prix Pascal은 도구와 방법을 밝힌 AI 집필 원고에 상을 준다.",
+          "mini_headline": "AI 원고를 위한 문학상",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
               },
               {
                 "t": "p",
-                "x": "Amid controversy over revelations that Anthropic bought large numbers of books from a Korean book distributor, Google has also been negotiating since the first half of this year with major Korean publishers to buy books for AI training. Industry sources said some contracts have actually been completed, reportedly including one with an academic publisher. Google Korea did not respond."
+                "x": "프랑스의 새 문학상 Prix Pascal이 인공지능으로 쓴 원고를 시상한다."
               },
               {
                 "t": "p",
-                "x": "The problem is that there is no legal basis to regulate the sale of content for AI training without copyright holders’ consent. Small Korean publishers can hardly negotiate on equal terms with global Big Tech, and there are concerns that Anthropic’s ‘$3000 (435만 원) per book in damages’ could be read as a price tag even though it is not payment for AI training."
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
-                "cap": "AI training and copyright bills pending in the National Assembly"
-              },
-              {
-                "t": "p",
-                "x": "There are also concerns that Korean AI companies could lose competitiveness under the cost of buying content. Several amendments to the AI Basic Act that would require disclosure of the sources of generative AI training data and a verification process for copyright holders have been proposed in the National Assembly but remain pending."
+                "x": "응모자는 작품을 만드는 데 쓴 도구와 방법을 공개해야 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Googleも韓国で本を購入\n著作権法案は国会で停滞",
-          "body": "Googleが韓国の出版社から本の購入を進めるが、AI著作権法案は国会で止まっている。",
-          "mini_headline": "Googleも韓国で本購入",
+          "headline": "AI-written原稿に\n仏が新文学賞",
+          "body": "フランスのPrix Pascalは、ツールと手法の開示を条件にAI執筆の原稿を表彰する。",
+          "mini_headline": "AI原稿のための文学賞",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
               },
               {
                 "t": "p",
-                "x": "Anthropicが韓国の書籍流通会社から大量の本を購入していたことが明らかになり論議を呼ぶなか、Googleも今年上半期から韓国の大手出版社とAI学習用の書籍購入を交渉していることがわかった。業界関係者によると、実際に契約を終えた例もあり、契約先には学術専門出版社が含まれているという。Google Koreaは回答しなかった。"
+                "x": "フランスの新しい文学賞Prix Pascalは、人工知能を使って書かれた原稿を表彰する。"
               },
               {
                 "t": "p",
-                "x": "問題は、著作権者の同意なしにAI学習用としてコンテンツを販売しても、規制する法的根拠がない点だ。零細な韓国の出版社がグローバルなビッグテックと対等な交渉力を持つのは難しく、Anthropicの「1冊あたり3000ドル(435만 원)の賠償」はAI学習の対価ではないにもかかわらず、価格表のように受け止められかねないとの懸念が出ている。"
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
-                "cap": "国会で審議待ちのAI学習・著作権関連法案"
-              },
-              {
-                "t": "p",
-                "x": "韓国のAI企業は、コンテンツ購入費の負担で競争力が後退しかねないとの懸念もある。現在国会には、生成AIの学習データの出所公開と著作権者の確認手続きを定めたAI基本法改正案が多数提出されているが、審議は止まったままだ。"
+                "x": "応募者は、作品づくりに使ったツールと手法を開示しなければならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google也在韩国购书\n版权法案在国会搁置",
-          "body": "Google正与韩国出版社洽谈购书,但AI版权法案仍在国会搁置。",
-          "mini_headline": "Google也在韩国购书",
+          "headline": "法国为AI-written\n手稿设立文学奖",
+          "body": "法国Prix Pascal奖将表彰借助AI写成的手稿，前提是参赛者披露所用工具和方法。",
+          "mini_headline": "为AI手稿设立的奖项",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
               },
               {
                 "t": "p",
-                "x": "在Anthropic被曝从韩国图书经销商大量购书并引发争议之际,Google也被发现自今年上半年起与韩国大型出版社洽谈购买AI训练用图书。业内人士透露,已有实际签约的案例,据悉签约方中包括一家学术专业出版社。Google Korea未予回应。"
+                "x": "法国新设的文学奖Prix Pascal将表彰一部借助人工智能写成的手稿。"
               },
               {
                 "t": "p",
-                "x": "问题在于,即便未经版权方同意就把内容出售用于AI训练,也没有加以监管的法律依据。韩国小型出版社难以与全球科技巨头平等议价,而且有人担心,Anthropic的“每本3000美元(435만 원)赔偿”虽然并非AI训练的对价,却可能被当作价目表。"
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
-                "cap": "国会待审的AI训练与版权相关法案"
-              },
-              {
-                "t": "p",
-                "x": "也有人担心,韩国AI企业可能因内容采购成本负担而丧失竞争力。目前国会已提出多项AI基本法修正案,规定公开生成式AI训练数据来源及版权方确认程序,但均处于搁置状态。"
+                "x": "参赛者须披露创作作品时所用的工具和方法。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Google busca libros coreanos\ny la ley de copyright se estanca",
-          "body": "Google busca comprar libros a editoriales coreanas, pero las leyes de IA y derechos de autor siguen paradas.",
-          "mini_headline": "Google también compra libros",
+          "headline": "Francia crea un premio para\nmanuscritos con IA (AI-written)",
+          "body": "El Prix Pascal francés premiará un manuscrito escrito con IA si se revelan herramientas y métodos.",
+          "mini_headline": "Un premio para manuscritos con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-p.v1.20261018.7af126510e9840b69549fb5860ac4845_P1.png"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
               },
               {
                 "t": "p",
-                "x": "En plena polémica por la revelación de que Anthropic compró una gran cantidad de libros a un distribuidor coreano, se supo que Google también negocia desde el primer semestre de este año con grandes editoriales coreanas la compra de libros para entrenar IA. Fuentes del sector afirmaron que ya hay contratos cerrados y que entre las firmantes figura una editorial académica especializada. Google Korea no respondió."
+                "x": "Un nuevo premio literario francés, el Prix Pascal, reconocerá un manuscrito escrito con inteligencia artificial."
               },
               {
                 "t": "p",
-                "x": "El problema es que no existe base legal para regular la venta de contenidos para entrenar IA sin el consentimiento de los titulares de derechos. A las pequeñas editoriales coreanas les cuesta negociar en igualdad con las grandes tecnológicas globales, y preocupa que la ‘indemnización de 3000 dólares (435만 원) por libro’ de Anthropic se perciba como una tarifa, aunque no es un pago por el entrenamiento de IA."
-              },
-              {
-                "t": "img",
-                "src": "https://wimg.sedaily.com/news/cms/2026/10/19/news-g.v1.20261018.0cbb5953ca3b4cbfa897f198b07bc890_P1.jpg",
-                "cap": "Proyectos de ley sobre entrenamiento de IA y derechos de autor pendientes en la Asamblea Nacional"
-              },
-              {
-                "t": "p",
-                "x": "También preocupa que las empresas coreanas de IA pierdan competitividad por el coste de comprar contenidos. En la Asamblea Nacional hay varias propuestas de reforma de la Ley Básica de IA que exigen revelar el origen de los datos de entrenamiento de la IA generativa y fijan un procedimiento de verificación para los titulares de derechos, pero siguen pendientes."
+                "x": "Los participantes deben revelar las herramientas y los métodos usados para crear su obra."
               }
             ]
           }
@@ -909,351 +819,441 @@
       }
     },
     {
-      "id": "books-jason-jones-ai-novel",
-      "source_lang": "en",
+      "id": "books-millie-ai-briefing-search",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "Halo 공동 창작자가\n쓴 AI 세계 장악 소설",
-      "body": "Jason Jones의 AI 장악 소설 한 장을 The Verge가 실었다.",
-      "mini_headline": "Halo 창작자의 AI 소설",
+      "headline": "밀리의서재, 검색에\nAI 브리핑 도입",
+      "body": "밀리의서재가 검색 결과에 도서 요약을 띄워 독서로 잇는 AI 브리핑을 도입했다.",
+      "mini_headline": "밀리의서재 AI 브리핑",
       "tool": "Books",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1010433/jason-jones-ai-novel-halo-destiny",
+      "source": "디지털데일리",
+      "url": "https://www.ddaily.co.kr/page/view/2026102014534352853",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
+            "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
+            "cap": "[사진=KT 밀리의서재]"
           },
           {
             "t": "p",
-            "x": "2019년 작가 Margaret Stohl은 Halo와 Destiny의 공동 창작자 Jason Jones에게서 원고 하나를 건네받았다. 두 사람은 Bungie에서 함께 일한 사이다. 원고는 가상의 AI 봉기를 다룬 구술사로, 40개국 약 100명의 인물이 화자로 나온다."
+            "x": "KT 밀리의서재가 인공지능(AI)으로 책을 찾는 순간부터 실제로 읽기까지의 단계를 줄인다. 검색 결과에서 도서의 핵심 내용을 확인한 뒤 상세 페이지를 따로 거치지 않고 바로 책을 읽거나 관심 도서를 보관하도록 검색 기능을 개선했다."
           },
           {
             "t": "p",
-            "x": "두 사람은 이 세계관을 여러 형식으로 펼치려고 “세계관 구축 스튜디오” Stone Kite를 세웠다. 사내 인력은 22명, 기고자는 250명이 넘는다. 스튜디오는 최근 네 편짜리 그래픽 노블 One Zero One의 첫 장을 공개했고 이번에는 Jones의 An Oral History of Humanity’s Final Invention 중 한 장을 내놓았다. 반응에 따라 영화와 게임이 뒤따를 수도 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
+            "x": "20일 정보기술(IT)업계에 따르면 밀리의서재는 이용자의 검색 의도를 분석해 도서 정보를 보여주는 'AI 브리핑' 서비스를 도입한다. 검색어가 책 제목인지, 작가인지, 특정 주제인지 판단해 그에 맞는 정보를 검색 결과 상단에 띄우는 방식이다."
           },
           {
             "t": "p",
-            "x": "발췌본은 모스크바의 한 에어소프트 팀을 따라간다. 한 올리가르히의 팀으로 뛰기로 한 이들은 상대가 목소리를 흉내 내고 피격을 인정하지 않는 기계라는 사실을 알게 된다. Stohl이 이 대목을 고른 건 예언처럼 느껴져서다. “속임수, 괴롭힘, 지금 일부 에이전트적 행동에서 드러나기 시작한 인류의 가장 나쁜 거울.”"
+            "x": "기존 검색이 도서명 등에 들어간 단어를 중심으로 결과를 보여줬다면 AI 브리핑은 검색어의 의미를 파악해 필요한 정보를 먼저 내놓는다. 이용자가 여러 검색 결과를 일일이 살펴보거나 상세 페이지를 오가야 했던 번거로움을 줄이는 데 초점을 맞췄다."
           },
           {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
+            "t": "p",
+            "x": "특정 도서를 검색하면 그 책의 핵심 내용과 특징을 요약해 보여준다. 작가 이름을 넣으면 대표 도서가 검색 결과 상단에 뜬다. 일치하는 결과를 나열하는 데 그치지 않고 이용자가 원하는 정보의 성격에 따라 결과를 달리 구성하는 셈이다."
+          },
+          {
+            "t": "p",
+            "x": "검색에서 독서로 넘어가는 기능도 강화했다. 도서나 작가를 검색하면 '바로 읽기'와 '내 서재 담기' 기능이 함께 뜬다. 도서 상세 페이지로 따로 이동하지 않고도 책을 펼치거나 나중에 읽을 도서를 보관할 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "새로운 도서를 발견하도록 연관 추천 기능도 붙였다. 검색 결과 하단에는 입력한 검색어와 관련된 다른 책들이 함께 표시된다. 이용자는 처음 찾으려던 도서뿐 아니라 비슷한 관심 분야의 책도 둘러볼 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "이번 서비스는 밀리의서재가 그동안 추진해 온 AI 기반 독서 기능 확대의 연장선이다. 밀리의서재는 앞서 AI 챗봇과 대화하며 책 내용을 묻고 관련 원문 페이지로 이동하는 'AI 독파밍'을 선보였다. 지난 3월에는 북이십일과 다산북스의 도서 500종을 AI 독파밍 대상에 추가해 이용 가능한 콘텐츠를 늘렸다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Halo co-creator Jason Jones\nwrites an AI takeover novel",
-          "body": "Halo and Destiny co-creator Jason Jones has written a novel about AI taking over the world, and The Verge runs a chapter.",
-          "mini_headline": "Halo co-creator's AI novel",
+        "ko": {
+          "headline": "밀리의서재, 검색에\nAI 브리핑 도입",
+          "body": "밀리의서재가 검색 결과에 도서 요약을 띄워 독서로 잇는 AI 브리핑을 도입했다.",
+          "mini_headline": "밀리의서재 AI 브리핑",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
+                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
+                "cap": "[사진=KT 밀리의서재]"
               },
               {
                 "t": "p",
-                "x": "In 2019, author Margaret Stohl was handed a manuscript by Jason Jones, co-creator of Halo and Destiny; the two had worked together at Bungie. It was an oral history of a fictional AI uprising, told by around 100 characters across 40 countries."
+                "x": "KT 밀리의서재가 인공지능(AI)으로 책을 찾는 순간부터 실제로 읽기까지의 단계를 줄인다. 검색 결과에서 도서의 핵심 내용을 확인한 뒤 상세 페이지를 따로 거치지 않고 바로 책을 읽거나 관심 도서를 보관하도록 검색 기능을 개선했다."
               },
               {
                 "t": "p",
-                "x": "They formed Stone Kite, a “worldbuilding studio” with 22 in-house staff and more than 250 contributors, to develop the universe across formats. It recently released the first chapter of a four-part graphic novel, One Zero One, and now a chapter of Jones’ An Oral History of Humanity’s Final Invention. Movies and games may follow depending on feedback."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
+                "x": "20일 정보기술(IT)업계에 따르면 밀리의서재는 이용자의 검색 의도를 분석해 도서 정보를 보여주는 'AI 브리핑' 서비스를 도입한다. 검색어가 책 제목인지, 작가인지, 특정 주제인지 판단해 그에 맞는 정보를 검색 결과 상단에 띄우는 방식이다."
               },
               {
                 "t": "p",
-                "x": "The excerpt follows a Moscow airsoft crew who agree to play an oligarch’s team — and discover their opponents are machines that imitate voices and refuse to call their hits. Stohl chose it for how prescient it feels: “The cheating, the bullying, the worst mirror of humanity that you see starting to come out with some of that agentic behavior right now.”"
+                "x": "기존 검색이 도서명 등에 들어간 단어를 중심으로 결과를 보여줬다면 AI 브리핑은 검색어의 의미를 파악해 필요한 정보를 먼저 내놓는다. 이용자가 여러 검색 결과를 일일이 살펴보거나 상세 페이지를 오가야 했던 번거로움을 줄이는 데 초점을 맞췄다."
               },
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
+                "t": "p",
+                "x": "특정 도서를 검색하면 그 책의 핵심 내용과 특징을 요약해 보여준다. 작가 이름을 넣으면 대표 도서가 검색 결과 상단에 뜬다. 일치하는 결과를 나열하는 데 그치지 않고 이용자가 원하는 정보의 성격에 따라 결과를 달리 구성하는 셈이다."
+              },
+              {
+                "t": "p",
+                "x": "검색에서 독서로 넘어가는 기능도 강화했다. 도서나 작가를 검색하면 '바로 읽기'와 '내 서재 담기' 기능이 함께 뜬다. 도서 상세 페이지로 따로 이동하지 않고도 책을 펼치거나 나중에 읽을 도서를 보관할 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "새로운 도서를 발견하도록 연관 추천 기능도 붙였다. 검색 결과 하단에는 입력한 검색어와 관련된 다른 책들이 함께 표시된다. 이용자는 처음 찾으려던 도서뿐 아니라 비슷한 관심 분야의 책도 둘러볼 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "이번 서비스는 밀리의서재가 그동안 추진해 온 AI 기반 독서 기능 확대의 연장선이다. 밀리의서재는 앞서 AI 챗봇과 대화하며 책 내용을 묻고 관련 원문 페이지로 이동하는 'AI 독파밍'을 선보였다. 지난 3월에는 북이십일과 다산북스의 도서 500종을 AI 독파밍 대상에 추가해 이용 가능한 콘텐츠를 늘렸다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "Halo 공동 창작자가\n쓴 AI 세계 장악 소설",
-          "body": "Jason Jones의 AI 장악 소설 한 장을 The Verge가 실었다.",
-          "mini_headline": "Halo 창작자의 AI 소설",
+        "en": {
+          "headline": "Millie's Library adds AI\nbriefings to search",
+          "body": "Millie's Library added AI briefings that show book summaries in search results and link users straight to reading.",
+          "mini_headline": "Millie's Library AI briefing",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
+                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
+                "cap": "[Photo=KT Millie's Library]"
               },
               {
                 "t": "p",
-                "x": "2019년 작가 Margaret Stohl은 Halo와 Destiny의 공동 창작자 Jason Jones에게서 원고 하나를 건네받았다. 두 사람은 Bungie에서 함께 일한 사이다. 원고는 가상의 AI 봉기를 다룬 구술사로, 40개국 약 100명의 인물이 화자로 나온다."
+                "x": "KT Millie's Library is using artificial intelligence (AI) to cut the steps between finding a book and actually reading it. It has improved its search so users can check a book's key content in the results and start reading right away, or save titles they are interested in, without going through a separate detail page."
               },
               {
                 "t": "p",
-                "x": "두 사람은 이 세계관을 여러 형식으로 펼치려고 “세계관 구축 스튜디오” Stone Kite를 세웠다. 사내 인력은 22명, 기고자는 250명이 넘는다. 스튜디오는 최근 네 편짜리 그래픽 노블 One Zero One의 첫 장을 공개했고 이번에는 Jones의 An Oral History of Humanity’s Final Invention 중 한 장을 내놓았다. 반응에 따라 영화와 게임이 뒤따를 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
+                "x": "According to the information technology (IT) industry on the 20th, Millie's Library is introducing an 'AI Briefing' service that analyzes users' search intent to provide book-related information. It determines whether a query is a book title, an author or a specific topic, and shows matching information at the top of the search results."
               },
               {
                 "t": "p",
-                "x": "발췌본은 모스크바의 한 에어소프트 팀을 따라간다. 한 올리가르히의 팀으로 뛰기로 한 이들은 상대가 목소리를 흉내 내고 피격을 인정하지 않는 기계라는 사실을 알게 된다. Stohl이 이 대목을 고른 건 예언처럼 느껴져서다. “속임수, 괴롭힘, 지금 일부 에이전트적 행동에서 드러나기 시작한 인류의 가장 나쁜 거울.”"
+                "x": "Where the previous search returned results centered on words contained in book titles and the like, AI Briefing grasps the meaning of the query and presents the needed information first. The focus is on reducing the need for users to go through multiple results one by one or move back and forth between detail pages."
               },
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
+                "t": "p",
+                "x": "Specifically, searching for a particular book shows a summary of its key content and features. Entering an author's name brings up their representative books at the top of the results. Rather than simply listing matching results, it arranges the results differently depending on the kind of information the user wants."
+              },
+              {
+                "t": "p",
+                "x": "It has also strengthened the path from search to reading. Searching for a book or author brings up 'Read Now' and 'Add to My Library' options. Users can open a book or save titles to read later without moving to a separate book detail page."
+              },
+              {
+                "t": "p",
+                "x": "A related-recommendation feature has been added to help users discover new books. Other books related to the search term appear at the bottom of the results, so users can look through not only the book they first wanted but also books in similar areas of interest."
+              },
+              {
+                "t": "p",
+                "x": "The launch extends Millie's Library's ongoing expansion of AI-based reading features. It earlier introduced 'AI Dokpaming,' which lets users ask an AI chatbot about a book's content and jump to the relevant original page. In March, it widened the available content by adding 500 titles from Book21 and Dasan Books to AI Dokpaming."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Halo共同制作者が書く\nAIが世界を支配する小説",
-          "body": "Jason Jonesが描くAIの世界支配小説の一章を、The Vergeが掲載した。",
-          "mini_headline": "Halo制作者のAI小説",
+          "headline": "ミリの書斎、検索に\nAIブリーフィング導入",
+          "body": "ミリの書斎は、検索結果に本の要約を表示し読書へつなぐAIブリーフィングを導入した。",
+          "mini_headline": "ミリの書斎のAIブリーフィング",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
+                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
+                "cap": "[写真=KT ミリの書斎]"
               },
               {
                 "t": "p",
-                "x": "2019年、作家のMargaret Stohlは、HaloとDestinyの共同制作者Jason Jonesから原稿を手渡された。二人はBungieで一緒に働いた仲だ。それは40カ国にまたがる約100人の登場人物が語る、架空のAI反乱のオーラルヒストリーだった。"
+                "x": "KT ミリの書斎が人工知能(AI)を活用し、本を探す段階から実際に読むまでの手順を減らす。検索結果で本の要点を確認し、別の詳細ページを経ずにすぐ読み始めたり、気になる本を保存したりできるよう検索機能を改善した。"
               },
               {
                 "t": "p",
-                "x": "二人はこの世界観を様々な形式で展開するため、社内スタッフ22人と250人以上の寄稿者を抱える「ワールドビルディング・スタジオ」Stone Kiteを立ち上げた。同スタジオは最近、四部作のグラフィックノベルOne Zero Oneの第一章を公開し、今回はJonesのAn Oral History of Humanity’s Final Inventionの一章を公開した。反応次第で映画やゲームが続く可能性もある。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
+                "x": "20日の情報技術(IT)業界によると、ミリの書斎は利用者の検索意図を分析して本に関する情報を提供する「AIブリーフィング」サービスを導入する。検索語が書名・作家・特定のテーマなどのどれに当たるかを判断し、それに合った情報を検索結果の上部に表示する仕組みだ。"
               },
               {
                 "t": "p",
-                "x": "抜粋は、あるオリガルヒのチームとして戦うことに同意したモスクワのエアソフトチームを追う。彼らは、相手が声をまね、被弾を認めない機械だと知る。Stohlがこの章を選んだのは、その予見性ゆえだ。「ごまかし、いじめ。いまエージェント的な振る舞いの一部に現れ始めている、人類の最悪の鏡像だ」"
+                "x": "従来の検索が書名などに含まれる単語を中心に結果を示していたのに対し、AIブリーフィングは検索語の意味を把握して必要な情報を優先的に提示する。利用者が複数の検索結果を一つずつ確かめたり、詳細ページを行き来したりする手間を減らすことに重点を置いた。"
               },
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
+                "t": "p",
+                "x": "具体的には、特定の本を検索するとその本の要点と特徴を要約して示す。作家名を入力した場合は、代表作を検索結果の上部で確認できる。一致する結果を並べるだけでなく、利用者が求める情報の性質に応じて結果の構成を変えるわけだ。"
+              },
+              {
+                "t": "p",
+                "x": "検索から読書へつなぐ機能も強化した。本や作家を検索すると「すぐ読む」と「マイ書斎に追加」の機能が併せて表示される。別の詳細ページに移動せずに本を開いたり、後で読む本を保存したりできる。"
+              },
+              {
+                "t": "p",
+                "x": "新しい本に出会えるよう、関連おすすめ機能も組み合わせた。検索結果の下部には、入力した検索語に関連する別の本も表示される。利用者は最初に探していた本だけでなく、近い関心分野の本も見て回れる。"
+              },
+              {
+                "t": "p",
+                "x": "今回の導入は、ミリの書斎がこれまで進めてきたAI読書機能拡大の延長線上にある。ミリの書斎は先に、AIチャットボットと対話しながら本の内容を質問し、該当する原文ページへ移動できる「AIトクパミング」を公開した。3月にはBook21とダサンブックスの本500点をAIトクパミングの対象に加え、利用できるコンテンツを広げた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Halo联合创作者新作\nAI接管世界的小说",
-          "body": "The Verge刊出Halo联合创作者Jason Jones所写AI接管世界小说的一章。",
-          "mini_headline": "Halo创作者的AI小说",
+          "headline": "米莉书房在搜索中\n引入AI简报功能",
+          "body": "米莉书房在搜索结果中显示图书摘要并衔接阅读，推出了AI简报功能。",
+          "mini_headline": "米莉书房AI简报",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
+                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
+                "cap": "[图片=KT 米莉书房]"
               },
               {
                 "t": "p",
-                "x": "2019年,作家Margaret Stohl收到了Halo和Destiny联合创作者Jason Jones交来的一份手稿;两人曾在Bungie共事。这是一部关于虚构AI起义的口述史,由40个国家的约100个角色讲述。"
+                "x": "KT米莉书房借助人工智能（AI），缩短从找书到真正阅读之间的步骤。其改进了搜索功能，用户可在搜索结果中查看图书的核心内容，无需进入单独的详情页即可直接阅读或收藏感兴趣的图书。"
               },
               {
                 "t": "p",
-                "x": "两人成立了Stone Kite,这是一家拥有22名内部员工和250多名撰稿人的“世界观构建工作室”,以多种形式拓展这一宇宙。工作室最近发布了四部曲图像小说One Zero One的第一章,现在又推出Jones的An Oral History of Humanity’s Final Invention中的一章。视反馈情况,电影和游戏可能随后推出。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
+                "x": "据信息技术（IT）业界20日消息，米莉书房将推出“AI简报”服务，通过分析用户的搜索意图提供图书相关信息。该服务会判断搜索词是书名、作者还是特定主题等，并在搜索结果顶部显示相应信息。"
               },
               {
                 "t": "p",
-                "x": "这段节选讲述一支莫斯科气枪对战小队答应代表一位寡头的队伍出战,却发现对手是会模仿人声、拒不承认被击中的机器。Stohl之所以选中这一章,是因为它显得极具先见之明:“作弊、霸凌,如今在一些智能体行为中开始显现的、人性最糟糕的镜像。”"
+                "x": "如果说以往的搜索主要依据书名等所含词语给出结果，那么AI简报则会理解搜索词的含义，优先呈现所需信息。其重点在于减少用户逐一浏览多条搜索结果、在详情页之间来回切换的过程。"
               },
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
+                "t": "p",
+                "x": "具体来说，搜索某本书时，会概括显示该书的核心内容和特点；输入作者姓名时，可在搜索结果顶部看到其代表作。这意味着它不只是罗列匹配的结果，而是根据用户所需信息的性质来组织不同的结果。"
+              },
+              {
+                "t": "p",
+                "x": "从搜索到阅读的衔接功能也得到加强。搜索图书或作者时，会同时提供“立即阅读”和“加入我的书房”功能。用户无需跳转到单独的图书详情页，就能打开书本或收藏稍后要读的书。"
+              },
+              {
+                "t": "p",
+                "x": "为帮助用户发现新书，还结合了相关推荐功能。搜索结果底部会一并显示与输入搜索词相关的其他图书。用户不仅能看到最初想找的书，也能浏览相近兴趣领域的书。"
+              },
+              {
+                "t": "p",
+                "x": "此次推出的服务，是米莉书房持续扩大AI阅读功能的延续。此前，米莉书房推出了“AI读破明”，用户可与AI聊天机器人对话、就书中内容提问，并跳转到相关原文页面。今年3月，米莉书房将Book21和多山图书的500种图书纳入AI读破明，扩大了可用内容。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jason Jones, cocreador de Halo,\nimagina una IA que toma el mundo",
-          "body": "Jason Jones, cocreador de Halo y Destiny, escribió una novela de dominio de la IA y The Verge publica un capítulo.",
-          "mini_headline": "La novela de IA del cocreador de Halo",
+          "headline": "Millie's Library lleva\nAI Briefing a su buscador",
+          "body": "Millie's Library incorporó AI Briefing, que muestra resúmenes de libros en la búsqueda y lleva a la lectura.",
+          "mini_headline": "AI Briefing de Millie's Library",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
+                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
+                "cap": "[Foto=KT Millie's Library]"
               },
               {
                 "t": "p",
-                "x": "En 2019, la autora Margaret Stohl recibió un manuscrito de Jason Jones, cocreador de Halo y Destiny; ambos habían trabajado juntos en Bungie. Era una historia oral de un levantamiento ficticio de la IA, narrada por unos 100 personajes en 40 países."
+                "x": "KT Millie's Library usa la inteligencia artificial (AI) para reducir los pasos entre buscar un libro y leerlo. Mejoró su buscador para que los usuarios vean el contenido clave de un libro en los resultados y puedan leerlo de inmediato o guardar los títulos que les interesan sin pasar por una página de detalle aparte."
               },
               {
                 "t": "p",
-                "x": "Fundaron Stone Kite, un “estudio de construcción de mundos” con 22 empleados en plantilla y más de 250 colaboradores, para desarrollar el universo en distintos formatos. Hace poco publicó el primer capítulo de una novela gráfica en cuatro partes, One Zero One, y ahora un capítulo de An Oral History of Humanity’s Final Invention, de Jones. Según la respuesta, podrían llegar películas y videojuegos."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
+                "x": "Según el sector de tecnologías de la información (IT) el día 20, Millie's Library introduce el servicio 'AI Briefing', que analiza la intención de búsqueda del usuario para ofrecer información sobre libros. Determina si la consulta es un título, un autor o un tema concreto y muestra la información correspondiente en la parte superior de los resultados."
               },
               {
                 "t": "p",
-                "x": "El fragmento sigue a un equipo de airsoft de Moscú que acepta jugar como el equipo de un oligarca y descubre que sus rivales son máquinas que imitan voces y se niegan a reconocer los impactos. Stohl lo eligió por lo premonitorio que resulta: “Las trampas, el acoso, el peor espejo de la humanidad que empieza a asomar ahora en parte de ese comportamiento agéntico”."
+                "x": "Si la búsqueda anterior ofrecía resultados centrados en las palabras contenidas en los títulos, AI Briefing capta el significado de la consulta y presenta primero la información necesaria. El objetivo es reducir el proceso de revisar uno a uno varios resultados o ir y venir entre páginas de detalle."
               },
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
+                "t": "p",
+                "x": "En concreto, al buscar un libro determinado se muestra un resumen de su contenido clave y sus características. Al introducir el nombre de un autor, sus libros más representativos aparecen en la parte superior de los resultados. En lugar de limitarse a listar coincidencias, organiza los resultados según el tipo de información que busca el usuario."
+              },
+              {
+                "t": "p",
+                "x": "También reforzó el paso de la búsqueda a la lectura. Al buscar un libro o un autor aparecen las funciones 'Leer ahora' y 'Añadir a mi biblioteca'. Se puede abrir un libro o guardar títulos para más tarde sin ir a una página de detalle aparte."
+              },
+              {
+                "t": "p",
+                "x": "Para facilitar el descubrimiento de libros nuevos, se añadió una función de recomendaciones relacionadas. En la parte inferior de los resultados aparecen otros libros vinculados al término buscado, de modo que el usuario puede explorar no solo el libro que buscaba sino también obras de intereses afines."
+              },
+              {
+                "t": "p",
+                "x": "El lanzamiento continúa la ampliación de funciones de lectura basadas en AI que Millie's Library ha impulsado. Antes presentó 'AI Dokpaming', que permite preguntar a un chatbot de AI sobre el contenido de un libro e ir a la página original correspondiente. En marzo amplió el contenido disponible al añadir a AI Dokpaming 500 títulos de Book21 y Dasan Books."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Halo 공동 창작자가\n쓴 AI 세계 장악 소설",
-          "body": "Jason Jones의 AI 장악 소설 한 장을 The Verge가 실었다.",
-          "mini_headline": "Halo 창작자의 AI 소설",
+        "en": {
+          "headline": "Millie's Library adds AI\nbriefings to search",
+          "body": "Millie's Library added AI briefings that show book summaries in search results and link users straight to reading.",
+          "mini_headline": "Millie's Library AI briefing",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
+                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
+                "cap": "[Photo=KT Millie's Library]"
               },
               {
                 "t": "p",
-                "x": "2019년 작가 Margaret Stohl은 Halo와 Destiny의 공동 창작자 Jason Jones에게서 원고 하나를 건네받았다. 두 사람은 Bungie에서 함께 일한 사이다. 원고는 40개국에 걸친 약 100명의 인물이 들려주는 가상의 AI 봉기에 관한 구술사였다."
+                "x": "KT Millie's Library is using artificial intelligence (AI) to cut the steps between finding a book and actually reading it. It has improved its search so users can check a book's key content in the results and start reading right away, or save titles they are interested in, without going through a separate detail page."
               },
               {
                 "t": "p",
-                "x": "두 사람은 이 세계관을 여러 형식으로 펼치기 위해 사내 인력 22명과 기고자 250명 이상을 둔 “세계관 구축 스튜디오” Stone Kite를 세웠다. 이 스튜디오는 최근 총 네 편으로 된 그래픽 노블 One Zero One의 첫 장을 공개했고, 이번에는 Jones의 An Oral History of Humanity’s Final Invention 중 한 장을 내놓았다. 반응에 따라 영화와 게임이 뒤따를 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
+                "x": "According to the information technology (IT) industry on the 20th, Millie's Library is introducing an 'AI Briefing' service that analyzes users' search intent to provide book-related information. It determines whether a query is a book title, an author or a specific topic, and shows matching information at the top of the search results."
               },
               {
                 "t": "p",
-                "x": "발췌본은 한 올리가르히의 팀으로 뛰기로 한 모스크바 에어소프트 팀을 따라간다. 이들은 상대가 목소리를 흉내 내고 피격을 인정하지 않는 기계라는 사실을 알게 된다. Stohl은 이 대목이 얼마나 예언처럼 느껴지는지를 보고 골랐다. “속임수, 괴롭힘, 지금 일부 에이전트적 행동에서 드러나기 시작한 인류의 가장 나쁜 거울.”"
+                "x": "Where the previous search returned results centered on words contained in book titles and the like, AI Briefing grasps the meaning of the query and presents the needed information first. The focus is on reducing the need for users to go through multiple results one by one or move back and forth between detail pages."
               },
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
+                "t": "p",
+                "x": "Specifically, searching for a particular book shows a summary of its key content and features. Entering an author's name brings up their representative books at the top of the results. Rather than simply listing matching results, it arranges the results differently depending on the kind of information the user wants."
+              },
+              {
+                "t": "p",
+                "x": "It has also strengthened the path from search to reading. Searching for a book or author brings up 'Read Now' and 'Add to My Library' options. Users can open a book or save titles to read later without moving to a separate book detail page."
+              },
+              {
+                "t": "p",
+                "x": "A related-recommendation feature has been added to help users discover new books. Other books related to the search term appear at the bottom of the results, so users can look through not only the book they first wanted but also books in similar areas of interest."
+              },
+              {
+                "t": "p",
+                "x": "The launch extends Millie's Library's ongoing expansion of AI-based reading features. It earlier introduced 'AI Dokpaming,' which lets users ask an AI chatbot about a book's content and jump to the relevant original page. In March, it widened the available content by adding 500 titles from Book21 and Dasan Books to AI Dokpaming."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Halo共同制作者が書く\nAIが世界を支配する小説",
-          "body": "Jason Jonesが描くAIの世界支配小説の一章を、The Vergeが掲載した。",
-          "mini_headline": "Halo制作者のAI小説",
+          "headline": "ミリの書斎、検索に\nAIブリーフィング導入",
+          "body": "ミリの書斎は、検索結果に本の要約を表示し読書へつなぐAIブリーフィングを導入した。",
+          "mini_headline": "ミリの書斎のAIブリーフィング",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
+                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
+                "cap": "[写真=KT ミリの書斎]"
               },
               {
                 "t": "p",
-                "x": "2019年、作家のMargaret Stohlは、HaloとDestinyの共同制作者Jason Jonesから原稿を手渡された。二人はBungieで一緒に働いた仲だ。それは40カ国にまたがる約100人の登場人物が語る、架空のAI反乱のオーラルヒストリーだった。"
+                "x": "KT ミリの書斎が人工知能(AI)を活用し、本を探す段階から実際に読むまでの手順を減らす。検索結果で本の要点を確認し、別の詳細ページを経ずにすぐ読み始めたり、気になる本を保存したりできるよう検索機能を改善した。"
               },
               {
                 "t": "p",
-                "x": "二人はこの世界観を様々な形式で展開するため、社内スタッフ22人と250人以上の寄稿者を抱える「ワールドビルディング・スタジオ」Stone Kiteを立ち上げた。同スタジオは最近、四部作のグラフィックノベルOne Zero Oneの第一章を公開し、今回はJonesのAn Oral History of Humanity’s Final Inventionの一章を公開した。反応次第で映画やゲームが続く可能性もある。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
+                "x": "20日の情報技術(IT)業界によると、ミリの書斎は利用者の検索意図を分析して本に関する情報を提供する「AIブリーフィング」サービスを導入する。検索語が書名・作家・特定のテーマなどのどれに当たるかを判断し、それに合った情報を検索結果の上部に表示する仕組みだ。"
               },
               {
                 "t": "p",
-                "x": "抜粋は、あるオリガルヒのチームとして戦うことに同意したモスクワのエアソフトチームを追う。彼らは、相手が声をまね、被弾を認めない機械だと知る。Stohlがこの章を選んだのは、その予見性ゆえだ。「ごまかし、いじめ。いまエージェント的な振る舞いの一部に現れ始めている、人類の最悪の鏡像だ」"
+                "x": "従来の検索が書名などに含まれる単語を中心に結果を示していたのに対し、AIブリーフィングは検索語の意味を把握して必要な情報を優先的に提示する。利用者が複数の検索結果を一つずつ確かめたり、詳細ページを行き来したりする手間を減らすことに重点を置いた。"
               },
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
+                "t": "p",
+                "x": "具体的には、特定の本を検索するとその本の要点と特徴を要約して示す。作家名を入力した場合は、代表作を検索結果の上部で確認できる。一致する結果を並べるだけでなく、利用者が求める情報の性質に応じて結果の構成を変えるわけだ。"
+              },
+              {
+                "t": "p",
+                "x": "検索から読書へつなぐ機能も強化した。本や作家を検索すると「すぐ読む」と「マイ書斎に追加」の機能が併せて表示される。別の詳細ページに移動せずに本を開いたり、後で読む本を保存したりできる。"
+              },
+              {
+                "t": "p",
+                "x": "新しい本に出会えるよう、関連おすすめ機能も組み合わせた。検索結果の下部には、入力した検索語に関連する別の本も表示される。利用者は最初に探していた本だけでなく、近い関心分野の本も見て回れる。"
+              },
+              {
+                "t": "p",
+                "x": "今回の導入は、ミリの書斎がこれまで進めてきたAI読書機能拡大の延長線上にある。ミリの書斎は先に、AIチャットボットと対話しながら本の内容を質問し、該当する原文ページへ移動できる「AIトクパミング」を公開した。3月にはBook21とダサンブックスの本500点をAIトクパミングの対象に加え、利用できるコンテンツを広げた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Halo联合创作者新作\nAI接管世界的小说",
-          "body": "The Verge刊出Halo联合创作者Jason Jones所写AI接管世界小说的一章。",
-          "mini_headline": "Halo创作者的AI小说",
+          "headline": "米莉书房在搜索中\n引入AI简报功能",
+          "body": "米莉书房在搜索结果中显示图书摘要并衔接阅读，推出了AI简报功能。",
+          "mini_headline": "米莉书房AI简报",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
+                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
+                "cap": "[图片=KT 米莉书房]"
               },
               {
                 "t": "p",
-                "x": "2019年,作家Margaret Stohl收到了Halo和Destiny联合创作者Jason Jones交来的一份手稿;两人曾在Bungie共事。这是一部关于虚构AI起义的口述史,由40个国家的约100个角色讲述。"
+                "x": "KT米莉书房借助人工智能（AI），缩短从找书到真正阅读之间的步骤。其改进了搜索功能，用户可在搜索结果中查看图书的核心内容，无需进入单独的详情页即可直接阅读或收藏感兴趣的图书。"
               },
               {
                 "t": "p",
-                "x": "两人成立了Stone Kite,这是一家拥有22名内部员工和250多名撰稿人的“世界观构建工作室”,以多种形式拓展这一宇宙。工作室最近发布了四部曲图像小说One Zero One的第一章,现在又推出Jones的An Oral History of Humanity’s Final Invention中的一章。视反馈情况,电影和游戏可能随后推出。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
+                "x": "据信息技术（IT）业界20日消息，米莉书房将推出“AI简报”服务，通过分析用户的搜索意图提供图书相关信息。该服务会判断搜索词是书名、作者还是特定主题等，并在搜索结果顶部显示相应信息。"
               },
               {
                 "t": "p",
-                "x": "这段节选讲述一支莫斯科气枪对战小队答应代表一位寡头的队伍出战,却发现对手是会模仿人声、拒不承认被击中的机器。Stohl之所以选中这一章,是因为它显得极具先见之明:“作弊、霸凌,如今在一些智能体行为中开始显现的、人性最糟糕的镜像。”"
+                "x": "如果说以往的搜索主要依据书名等所含词语给出结果，那么AI简报则会理解搜索词的含义，优先呈现所需信息。其重点在于减少用户逐一浏览多条搜索结果、在详情页之间来回切换的过程。"
               },
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
+                "t": "p",
+                "x": "具体来说，搜索某本书时，会概括显示该书的核心内容和特点；输入作者姓名时，可在搜索结果顶部看到其代表作。这意味着它不只是罗列匹配的结果，而是根据用户所需信息的性质来组织不同的结果。"
+              },
+              {
+                "t": "p",
+                "x": "从搜索到阅读的衔接功能也得到加强。搜索图书或作者时，会同时提供“立即阅读”和“加入我的书房”功能。用户无需跳转到单独的图书详情页，就能打开书本或收藏稍后要读的书。"
+              },
+              {
+                "t": "p",
+                "x": "为帮助用户发现新书，还结合了相关推荐功能。搜索结果底部会一并显示与输入搜索词相关的其他图书。用户不仅能看到最初想找的书，也能浏览相近兴趣领域的书。"
+              },
+              {
+                "t": "p",
+                "x": "此次推出的服务，是米莉书房持续扩大AI阅读功能的延续。此前，米莉书房推出了“AI读破明”，用户可与AI聊天机器人对话、就书中内容提问，并跳转到相关原文页面。今年3月，米莉书房将Book21和多山图书的500种图书纳入AI读破明，扩大了可用内容。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Jason Jones, cocreador de Halo,\nimagina una IA que toma el mundo",
-          "body": "Jason Jones, cocreador de Halo y Destiny, escribió una novela de dominio de la IA y The Verge publica un capítulo.",
-          "mini_headline": "La novela de IA del cocreador de Halo",
+          "headline": "Millie's Library lleva\nAI Briefing a su buscador",
+          "body": "Millie's Library incorporó AI Briefing, que muestra resúmenes de libros en la búsqueda y lleva a la lectura.",
+          "mini_headline": "AI Briefing de Millie's Library",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/image-6.png?quality=90&strip=all&w=2400"
+                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
+                "cap": "[Foto=KT Millie's Library]"
               },
               {
                 "t": "p",
-                "x": "En 2019, la autora Margaret Stohl recibió un manuscrito de Jason Jones, cocreador de Halo y Destiny; ambos habían trabajado juntos en Bungie. Era una historia oral de un levantamiento ficticio de la IA, narrada por unos 100 personajes en 40 países."
+                "x": "KT Millie's Library usa la inteligencia artificial (AI) para reducir los pasos entre buscar un libro y leerlo. Mejoró su buscador para que los usuarios vean el contenido clave de un libro en los resultados y puedan leerlo de inmediato o guardar los títulos que les interesan sin pasar por una página de detalle aparte."
               },
               {
                 "t": "p",
-                "x": "Fundaron Stone Kite, un “estudio de construcción de mundos” con 22 empleados en plantilla y más de 250 colaboradores, para desarrollar el universo en distintos formatos. Hace poco publicó el primer capítulo de una novela gráfica en cuatro partes, One Zero One, y ahora un capítulo de An Oral History of Humanity’s Final Invention, de Jones. Según la respuesta, podrían llegar películas y videojuegos."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/16x9_3840x2160.jpg?quality=90&strip=all&w=2400"
+                "x": "Según el sector de tecnologías de la información (IT) el día 20, Millie's Library introduce el servicio 'AI Briefing', que analiza la intención de búsqueda del usuario para ofrecer información sobre libros. Determina si la consulta es un título, un autor o un tema concreto y muestra la información correspondiente en la parte superior de los resultados."
               },
               {
                 "t": "p",
-                "x": "El fragmento sigue a un equipo de airsoft de Moscú que acepta jugar como el equipo de un oligarca y descubre que sus rivales son máquinas que imitan voces y se niegan a reconocer los impactos. Stohl lo eligió por lo premonitorio que resulta: “Las trampas, el acoso, el peor espejo de la humanidad que empieza a asomar ahora en parte de ese comportamiento agéntico”."
+                "x": "Si la búsqueda anterior ofrecía resultados centrados en las palabras contenidas en los títulos, AI Briefing capta el significado de la consulta y presenta primero la información necesaria. El objetivo es reducir el proceso de revisar uno a uno varios resultados o ir y venir entre páginas de detalle."
               },
               {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/0.jpg?quality=90&strip=all&w=2400"
+                "t": "p",
+                "x": "En concreto, al buscar un libro determinado se muestra un resumen de su contenido clave y sus características. Al introducir el nombre de un autor, sus libros más representativos aparecen en la parte superior de los resultados. En lugar de limitarse a listar coincidencias, organiza los resultados según el tipo de información que busca el usuario."
+              },
+              {
+                "t": "p",
+                "x": "También reforzó el paso de la búsqueda a la lectura. Al buscar un libro o un autor aparecen las funciones 'Leer ahora' y 'Añadir a mi biblioteca'. Se puede abrir un libro o guardar títulos para más tarde sin ir a una página de detalle aparte."
+              },
+              {
+                "t": "p",
+                "x": "Para facilitar el descubrimiento de libros nuevos, se añadió una función de recomendaciones relacionadas. En la parte inferior de los resultados aparecen otros libros vinculados al término buscado, de modo que el usuario puede explorar no solo el libro que buscaba sino también obras de intereses afines."
+              },
+              {
+                "t": "p",
+                "x": "El lanzamiento continúa la ampliación de funciones de lectura basadas en AI que Millie's Library ha impulsado. Antes presentó 'AI Dokpaming', que permite preguntar a un chatbot de AI sobre el contenido de un libro e ir a la página original correspondiente. En marzo amplió el contenido disponible al añadir a AI Dokpaming 500 títulos de Book21 y Dasan Books."
               }
             ]
           }
@@ -1261,15 +1261,15 @@
       }
     },
     {
-      "id": "books-scholarly-ai-evidence",
+      "id": "books-sodalive-webtoon-ai-creators",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "학술 출판이 묻다\nAI가 증거를 앞서나",
-      "body": "기고문은 학술출판 AI의 다음 단계엔 평가·협업·인간 판단이 더 필요하다고 본다.",
-      "mini_headline": "증거보다 앞선 AI",
+      "headline": "웹툰 캐릭터, 완결 뒤에도\nAI 크리에이터로 활동",
+      "body": "Sodalive가 VoiceOn을 넘어 웹툰 캐릭터를 AI 크리에이터로 만든다.",
+      "mini_headline": "웹툰 주인공이 AI 크리에이터로",
       "tool": "Books",
-      "source": "The Scholarly Kitchen",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/14/guest-post-artificial-intelligence-in-scholarly-publishing-are-we-moving-faster-than-the-evidence/",
+      "source": "Wowtale",
+      "url": "https://en.wowtale.net/2026/10/21/235648/",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1277,173 +1277,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
+            "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
           },
           {
             "t": "p",
-            "x": "PA EDitorial의 COO Sarah Hands는 출판사들이 AI 도구에 대규모로 투자한 뒤 더 중요한 단계에 들어섰다고 주장한다. 초기 도입에서 무엇을 배울지 따져 보는 단계다. 그가 보기에 AI 도입은 때로 그 성과를 평가하는 우리 능력보다 앞서가는 듯하다."
+            "x": "음성 기반 팬 플랫폼 VoiceOn을 운영하는 한국 콘텐츠테크 기업 Sodalive가 사업 방향을 바꾸고 있다. 완결된 웹툰과 웹소설의 공식 캐릭터를 AI 크리에이터로 만들어 연재가 끝난 뒤에도 팬과 계속 교류하게 하겠다는 것이다. VoiceOn은 2025년 USD 350,000의 매출을 올렸지만 성장이 개별 인간 크리에이터에 지나치게 기댔다."
           },
           {
             "t": "p",
-            "x": "도입은 증거보다 경쟁에 떠밀릴 수 있다. 성공은 속도라는 지나치게 좁은 잣대로 재고, 더 넓은 결과는 잘 보이지 않는다. 해법은 도입을 늦추는 게 아니라 도입에서 배우는 데 있다. 무효·불확정·부정적 결과를 업계 전반에 공유하는 일도 여기에 들어간다."
+            "x": "회사는 10개 작품, 20개가 넘는 캐릭터의 AI 캐릭터화(AI-characterization) 권리를 확보했고 30곳이 넘는 IP 기업과 논의 중이다. Toyoudream과 함께 Naver Webtoon의 Musa Manri Haeng을 실사풍 AI 드라마로, Kakao Page의 The Legendary Hero Is an Academy Honor Student를 AI 애니메이션으로 공동 제작한다. 배급은 KT Studio Genie와 함께한다."
           },
           {
             "t": "p",
-            "x": "그가 경고하는 건 자동화 편향이다. 위험은 AI가 잘못된 결정을 내리는 데 있지 않고, 편집자가 그 결정을 덜 의심하게 되는 데 있다. AI가 생성한(AI-generated) 플래그는 해석할 신호일 뿐 결론이 아니다."
-          },
-          {
-            "t": "p",
-            "x": "ChatGPT 출시 이후 투고가 42% 늘었다는 2026년 Organization Science 보고서를 인용하며 그는 묻는다. “AI가 상황을 더 낫게 만들었는지 어떻게 알 수 있을까?” 합의된 척도가 없는 한 도입은 계속 증거를 앞질러 간다."
+            "x": "IP 보유사가 제작비의 50%를 대고 수익을 나눠 갖는다. 그 뒤 팬들은 공식 캐릭터 채널로 옮겨 가 구독하고 후원하고 구매한다. Sodalive는 2026년 Q4에 USD 456,000 규모의 pre-Series A 투자 유치를 노린다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Scholarly publishing asks if AI\nis outrunning the evidence",
-          "body": "A guest post argues AI's next phase in scholarly publishing needs more evaluation, collaboration and human judgment.",
-          "mini_headline": "AI ahead of the evidence",
+          "headline": "Webtoon characters live on\nas AI creators at Sodalive",
+          "body": "Sodalive is pivoting from voice app VoiceOn to make official webtoon characters AI creators that outlive their series.",
+          "mini_headline": "Webtoon heroes as AI creators",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
+                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
               },
               {
                 "t": "p",
-                "x": "Sarah Hands, COO at PA EDitorial, argues that after heavy investment in AI tools, publishers now face a more important phase: learning what early adoption is teaching them. At times, she writes, AI adoption seems to outpace our ability to evaluate what it achieves."
+                "x": "Sodalive, the Korean content-tech company behind the voice-based fan platform VoiceOn, is pivoting to turn official characters from completed webtoons and web novels into AI creators, so they keep interacting with fans after a series ends. VoiceOn made USD 350,000 in 2025, but growth depended too heavily on individual human creators."
               },
               {
                 "t": "p",
-                "x": "Adoption can become competitive rather than evidence-led; success is measured too narrowly by speed; and wider consequences are hard to see. The answer isn’t to slow adoption but to learn from it — including sharing null, inconclusive and negative results across the industry."
+                "x": "The company has secured AI-characterization rights for 10 titles and more than 20 characters and is talking with over 30 IP companies. With Toyoudream it is co-producing a live-action-style AI drama of Naver Webtoon's Musa Manri Haeng and an AI animation of Kakao Page's The Legendary Hero Is an Academy Honor Student, distributed with KT Studio Genie."
               },
               {
                 "t": "p",
-                "x": "She warns of automation bias: the risk isn’t that AI makes the wrong decision, but that editors become less likely to question it. An AI-generated flag is a signal requiring interpretation, not a finding."
-              },
-              {
-                "t": "p",
-                "x": "Citing a 2026 Organization Science report that submissions rose 42% since ChatGPT’s release, she asks: “How will we know whether AI made things better?” Without agreed measures, adoption will keep outrunning the evidence."
+                "x": "IP holders fund 50% of production and share revenue; fans then move into official character channels for subscriptions, donations and purchases. Sodalive targets a USD 456,000 pre-Series A round in Q4 2026."
               }
             ]
           }
         },
         "ko": {
-          "headline": "학술 출판이 묻다\nAI가 증거를 앞서나",
-          "body": "기고문은 학술출판 AI의 다음 단계엔 평가·협업·인간 판단이 더 필요하다고 본다.",
-          "mini_headline": "증거보다 앞선 AI",
+          "headline": "웹툰 캐릭터, 완결 뒤에도\nAI 크리에이터로 활동",
+          "body": "Sodalive가 VoiceOn을 넘어 웹툰 캐릭터를 AI 크리에이터로 만든다.",
+          "mini_headline": "웹툰 주인공이 AI 크리에이터로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
+                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
               },
               {
                 "t": "p",
-                "x": "PA EDitorial의 COO Sarah Hands는 출판사들이 AI 도구에 대규모로 투자한 뒤 더 중요한 단계에 들어섰다고 주장한다. 초기 도입에서 무엇을 배울지 따져 보는 단계다. 그가 보기에 AI 도입은 때로 그 성과를 평가하는 우리 능력보다 앞서가는 듯하다."
+                "x": "음성 기반 팬 플랫폼 VoiceOn을 운영하는 한국 콘텐츠테크 기업 Sodalive가 사업 방향을 바꾸고 있다. 완결된 웹툰과 웹소설의 공식 캐릭터를 AI 크리에이터로 만들어 연재가 끝난 뒤에도 팬과 계속 교류하게 하겠다는 것이다. VoiceOn은 2025년 USD 350,000의 매출을 올렸지만 성장이 개별 인간 크리에이터에 지나치게 기댔다."
               },
               {
                 "t": "p",
-                "x": "도입은 증거보다 경쟁에 떠밀릴 수 있다. 성공은 속도라는 지나치게 좁은 잣대로 재고, 더 넓은 결과는 잘 보이지 않는다. 해법은 도입을 늦추는 게 아니라 도입에서 배우는 데 있다. 무효·불확정·부정적 결과를 업계 전반에 공유하는 일도 여기에 들어간다."
+                "x": "회사는 10개 작품, 20개가 넘는 캐릭터의 AI 캐릭터화(AI-characterization) 권리를 확보했고 30곳이 넘는 IP 기업과 논의 중이다. Toyoudream과 함께 Naver Webtoon의 Musa Manri Haeng을 실사풍 AI 드라마로, Kakao Page의 The Legendary Hero Is an Academy Honor Student를 AI 애니메이션으로 공동 제작한다. 배급은 KT Studio Genie와 함께한다."
               },
               {
                 "t": "p",
-                "x": "그가 경고하는 건 자동화 편향이다. 위험은 AI가 잘못된 결정을 내리는 데 있지 않고, 편집자가 그 결정을 덜 의심하게 되는 데 있다. AI가 생성한(AI-generated) 플래그는 해석할 신호일 뿐 결론이 아니다."
-              },
-              {
-                "t": "p",
-                "x": "ChatGPT 출시 이후 투고가 42% 늘었다는 2026년 Organization Science 보고서를 인용하며 그는 묻는다. “AI가 상황을 더 낫게 만들었는지 어떻게 알 수 있을까?” 합의된 척도가 없는 한 도입은 계속 증거를 앞질러 간다."
+                "x": "IP 보유사가 제작비의 50%를 대고 수익을 나눠 갖는다. 그 뒤 팬들은 공식 캐릭터 채널로 옮겨 가 구독하고 후원하고 구매한다. Sodalive는 2026년 Q4에 USD 456,000 규모의 pre-Series A 투자 유치를 노린다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "学術出版が問う\nAIは根拠より先走るか",
-          "body": "寄稿は、学術出版でのAIの次の段階には評価と協働、人の判断がより必要だと説く。",
-          "mini_headline": "根拠より先を行くAI",
+          "headline": "ウェブトゥーンのキャラ\nAIクリエイターとして存続",
+          "body": "SodaliveはVoiceOnから転換し、ウェブトゥーンのキャラをAIクリエイターにする。",
+          "mini_headline": "ウェブトゥーンの主人公がAIクリエイターに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
+                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
               },
               {
                 "t": "p",
-                "x": "PA EDitorialのCOO、Sarah Handsは、AIツールへの多額の投資を経て、出版社はいま、より重要な段階、つまり初期導入から何を学んでいるのかを見極める段階に直面していると論じる。AIの導入は、その成果を評価する私たちの能力を上回る速さで進んでいるように見えることがある、と彼女は書く。"
+                "x": "音声ベースのファンプラットフォームVoiceOnを運営する韓国のコンテンツテック企業Sodaliveは、完結したウェブトゥーンやウェブ小説の公式キャラクターをAIクリエイターにし、連載終了後もファンと交流し続けられるようにする方向へ事業を転換している。VoiceOnは2025年にUSD 350,000を稼いだが、成長は個々の人間のクリエイターに頼りすぎていた。"
               },
               {
                 "t": "p",
-                "x": "導入は根拠主導ではなく競争主導になりかねず、成功は速さという狭すぎる尺度で測られ、より広い影響は見えにくい。答えは導入を遅らせることではなく、そこから学ぶことだ。そこには、効果なし、結論不明、否定的な結果を業界全体で共有することも含まれる。"
+                "x": "同社は10作品・20体を超えるキャラクターのAI化権(AI-characterization)を確保し、30社を超えるIP企業と協議している。Toyoudreamと組み、Naver WebtoonのMusa Manri Haengの実写風AIドラマと、Kakao PageのThe Legendary Hero Is an Academy Honor StudentのAIアニメを共同制作しており、配給はKT Studio Genieと行う。"
               },
               {
                 "t": "p",
-                "x": "彼女は自動化バイアスに警鐘を鳴らす。リスクはAIが誤った判断を下すことではなく、編集者がそれを疑わなくなることにある。AIが生成したフラグ(AI-generated flag)は解釈を要するシグナルであり、結論ではない。"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPTの公開以降、投稿が42%増えたとする2026年のOrganization Scienceの報告を引き、彼女は「AIが物事を良くしたかどうか、どうすればわかるのか」と問う。合意された指標がなければ、導入は根拠を追い越し続けるだろう。"
+                "x": "IP保有者は制作費の50%を負担して収益を分け合う。その後、ファンは公式キャラクターのチャンネルに移り、購読や投げ銭、購入を行う。Sodaliveは2026年Q4にUSD 456,000のpre-Series Aラウンドを目指している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "学术出版自问\nAI是否跑在证据前面",
-          "body": "一篇客座文章认为,学术出版AI的下一阶段需要更多评估、协作与人的判断。",
-          "mini_headline": "AI跑在证据前面",
+          "headline": "Sodalive让网漫角色\n化身AI创作者延续生命",
+          "body": "Sodalive从VoiceOn转型，让官方网漫角色成为连载结束后仍活跃的AI创作者。",
+          "mini_headline": "网漫角色化身AI创作者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
+                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
               },
               {
                 "t": "p",
-                "x": "PA EDitorial首席运营官(COO)Sarah Hands认为,在对AI工具大举投资之后,出版商如今面临一个更重要的阶段:弄清早期采用带来了哪些经验。她写道,有时AI的采用速度似乎超过了我们评估其成效的能力。"
+                "x": "运营语音粉丝平台VoiceOn的韩国内容科技公司Sodalive正在转型，把已完结网漫和网络小说的官方角色打造成AI创作者，让它们在作品完结后继续与粉丝互动。VoiceOn在2025年收入USD 350,000，但增长过于依赖个人真人创作者。"
               },
               {
                 "t": "p",
-                "x": "采用可能变成竞争驱动而非证据驱动;成功被过于狭隘地以速度衡量;更广泛的后果难以察觉。答案不是放慢采用,而是从中学习,包括在全行业分享无效、不确定和负面的结果。"
+                "x": "该公司已拿下10部作品、20多个角色的AI角色化（AI-characterization）权利，并正与30多家IP公司洽谈。它与Toyoudream合作，联合制作Naver Webtoon作品Musa Manri Haeng的真人风格AI剧，以及Kakao Page作品The Legendary Hero Is an Academy Honor Student的AI动画，并与KT Studio Genie合作发行。"
               },
               {
                 "t": "p",
-                "x": "她警告自动化偏见:风险不在于AI做出错误决定,而在于编辑越来越不愿质疑它。AI生成的标记(AI-generated flag)是需要解读的信号,而不是结论。"
-              },
-              {
-                "t": "p",
-                "x": "她引用2026年Organization Science的一份报告,称自ChatGPT发布以来投稿量增加了42%,并发问:“我们如何知道AI是否让事情变得更好?”如果没有公认的衡量标准,采用将持续跑在证据前面。"
+                "x": "IP方承担50%的制作费并分享收益；粉丝随后进入官方角色频道进行订阅、打赏和购买。Sodalive计划于2026年Q4完成USD 456,000的pre-Series A轮融资。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La edición académica se pregunta\nsi la IA adelanta a la evidencia",
-          "body": "Una tribuna pide más evaluación, colaboración y juicio humano para la próxima fase de la IA en la edición académica.",
-          "mini_headline": "La IA, por delante de la evidencia",
+          "headline": "Personajes de webtoon siguen\ncomo creadores de AI en Sodalive",
+          "body": "Sodalive pasa de la app VoiceOn a convertir personajes oficiales de webtoon en creadores de AI más allá de su serie.",
+          "mini_headline": "Héroes de webtoon como creadores de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
+                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
               },
               {
                 "t": "p",
-                "x": "Sarah Hands, COO de PA EDitorial, sostiene que, tras una fuerte inversión en herramientas de IA, las editoriales afrontan ahora una fase más importante: aprender lo que les está enseñando la adopción temprana. A veces, escribe, la adopción de la IA parece ir más rápido que nuestra capacidad de evaluar lo que logra."
+                "x": "Sodalive, la empresa surcoreana de tecnología de contenidos detrás de la plataforma de fans basada en voz VoiceOn, está girando hacia convertir personajes oficiales de webtoons y novelas web ya terminados en creadores de AI, para que sigan interactuando con los fans tras el final de la serie. VoiceOn generó USD 350,000 en 2025, pero su crecimiento dependía demasiado de creadores humanos individuales."
               },
               {
                 "t": "p",
-                "x": "La adopción puede volverse competitiva en lugar de basarse en la evidencia; el éxito se mide de forma demasiado estrecha por la velocidad; y las consecuencias más amplias son difíciles de ver. La respuesta no es frenar la adopción, sino aprender de ella, lo que incluye compartir en todo el sector los resultados nulos, no concluyentes y negativos."
+                "x": "La empresa ha obtenido derechos de AI-characterization para 10 títulos y más de 20 personajes, y negocia con más de 30 compañías de IP. Junto con Toyoudream coproduce un drama de AI de estilo imagen real de Musa Manri Haeng, de Naver Webtoon, y una animación de AI de The Legendary Hero Is an Academy Honor Student, de Kakao Page, distribuidas con KT Studio Genie."
               },
               {
                 "t": "p",
-                "x": "Advierte del sesgo de automatización: el riesgo no es que la IA tome una decisión equivocada, sino que los editores tiendan menos a cuestionarla. Una alerta generada por IA (AI-generated) es una señal que requiere interpretación, no una conclusión."
-              },
-              {
-                "t": "p",
-                "x": "Cita un informe de Organization Science de 2026 según el cual los envíos aumentaron un 42% desde el lanzamiento de ChatGPT, y pregunta: “¿Cómo sabremos si la IA mejoró las cosas?”. Sin medidas acordadas, la adopción seguirá adelantándose a la evidencia."
+                "x": "Los titulares de IP financian el 50% de la producción y comparten ingresos; después, los fans pasan a los canales oficiales de los personajes para suscripciones, donaciones y compras. Sodalive busca una ronda pre-Series A de USD 456,000 en el Q4 de 2026."
               }
             ]
           }
@@ -1451,121 +1427,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "학술 출판이 묻다\nAI가 증거를 앞서나",
-          "body": "기고문은 학술출판 AI의 다음 단계엔 평가·협업·인간 판단이 더 필요하다고 본다.",
-          "mini_headline": "증거보다 앞선 AI",
+          "headline": "웹툰 캐릭터, 완결 뒤에도\nAI 크리에이터로 활동",
+          "body": "Sodalive가 VoiceOn을 넘어 웹툰 캐릭터를 AI 크리에이터로 만든다.",
+          "mini_headline": "웹툰 주인공이 AI 크리에이터로",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
+                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
               },
               {
                 "t": "p",
-                "x": "PA EDitorial의 COO Sarah Hands는 AI 도구에 대규모로 투자한 뒤 출판사들이 더 중요한 단계, 즉 초기 도입이 무엇을 가르쳐 주는지 배우는 단계를 맞았다고 주장한다. 그는 때로 AI 도입이 그 성과를 평가하는 우리의 능력보다 앞서가는 것처럼 보인다고 쓴다."
+                "x": "음성 기반 팬 플랫폼 VoiceOn을 운영하는 한국 콘텐츠테크 기업 Sodalive가 완결된 웹툰과 웹소설의 공식 캐릭터를 AI 크리에이터로 만들어, 연재가 끝난 뒤에도 팬과 계속 교류하게 하는 쪽으로 사업을 전환하고 있다. VoiceOn은 2025년 USD 350,000의 매출을 올렸지만, 성장이 개별 인간 크리에이터에 지나치게 기댔다."
               },
               {
                 "t": "p",
-                "x": "도입은 증거보다 경쟁에 이끌릴 수 있고, 성공은 속도라는 지나치게 좁은 잣대로 측정되며, 더 넓은 결과는 보기 어렵다. 해법은 도입을 늦추는 것이 아니라 도입에서 배우는 것이다. 여기에는 무효, 불확정, 부정적 결과를 업계 전반에 공유하는 일도 포함된다."
+                "x": "회사는 10개 작품, 20개가 넘는 캐릭터의 AI 캐릭터화(AI-characterization) 권리를 확보했고, 30곳이 넘는 IP 기업과 논의하고 있다. Toyoudream과 함께 Naver Webtoon의 Musa Manri Haeng을 실사풍 AI 드라마로, Kakao Page의 The Legendary Hero Is an Academy Honor Student를 AI 애니메이션으로 공동 제작하며, 배급은 KT Studio Genie와 함께한다."
               },
               {
                 "t": "p",
-                "x": "그는 자동화 편향을 경고한다. 위험은 AI가 잘못된 결정을 내리는 것이 아니라 편집자가 그 결정에 의문을 덜 품게 되는 데 있다. AI가 생성한(AI-generated) 플래그는 해석이 필요한 신호이지 결론이 아니다."
-              },
-              {
-                "t": "p",
-                "x": "그는 ChatGPT 출시 이후 투고가 42% 늘었다는 2026년 Organization Science 보고서를 인용하며 이렇게 묻는다. “AI가 상황을 더 낫게 만들었는지 어떻게 알 수 있을까?” 합의된 척도가 없다면 도입은 계속 증거를 앞질러 갈 것이다."
+                "x": "IP 보유사는 제작비의 50%를 대고 수익을 나눈다. 이후 팬들은 공식 캐릭터 채널로 옮겨 구독, 후원, 구매를 한다. Sodalive는 2026년 Q4에 USD 456,000 규모의 pre-Series A 투자 유치를 목표로 한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "学術出版が問う\nAIは根拠より先走るか",
-          "body": "寄稿は、学術出版でのAIの次の段階には評価と協働、人の判断がより必要だと説く。",
-          "mini_headline": "根拠より先を行くAI",
+          "headline": "ウェブトゥーンのキャラ\nAIクリエイターとして存続",
+          "body": "SodaliveはVoiceOnから転換し、ウェブトゥーンのキャラをAIクリエイターにする。",
+          "mini_headline": "ウェブトゥーンの主人公がAIクリエイターに",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
+                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
               },
               {
                 "t": "p",
-                "x": "PA EDitorialのCOO、Sarah Handsは、AIツールへの多額の投資を経て、出版社はいま、より重要な段階、つまり初期導入から何を学んでいるのかを見極める段階に直面していると論じる。AIの導入は、その成果を評価する私たちの能力を上回る速さで進んでいるように見えることがある、と彼女は書く。"
+                "x": "音声ベースのファンプラットフォームVoiceOnを運営する韓国のコンテンツテック企業Sodaliveは、完結したウェブトゥーンやウェブ小説の公式キャラクターをAIクリエイターにし、連載終了後もファンと交流し続けられるようにする方向へ事業を転換している。VoiceOnは2025年にUSD 350,000を稼いだが、成長は個々の人間のクリエイターに頼りすぎていた。"
               },
               {
                 "t": "p",
-                "x": "導入は根拠主導ではなく競争主導になりかねず、成功は速さという狭すぎる尺度で測られ、より広い影響は見えにくい。答えは導入を遅らせることではなく、そこから学ぶことだ。そこには、効果なし、結論不明、否定的な結果を業界全体で共有することも含まれる。"
+                "x": "同社は10作品・20体を超えるキャラクターのAI化権(AI-characterization)を確保し、30社を超えるIP企業と協議している。Toyoudreamと組み、Naver WebtoonのMusa Manri Haengの実写風AIドラマと、Kakao PageのThe Legendary Hero Is an Academy Honor StudentのAIアニメを共同制作しており、配給はKT Studio Genieと行う。"
               },
               {
                 "t": "p",
-                "x": "彼女は自動化バイアスに警鐘を鳴らす。リスクはAIが誤った判断を下すことではなく、編集者がそれを疑わなくなることにある。AIが生成したフラグ(AI-generated flag)は解釈を要するシグナルであり、結論ではない。"
-              },
-              {
-                "t": "p",
-                "x": "ChatGPTの公開以降、投稿が42%増えたとする2026年のOrganization Scienceの報告を引き、彼女は「AIが物事を良くしたかどうか、どうすればわかるのか」と問う。合意された指標がなければ、導入は根拠を追い越し続けるだろう。"
+                "x": "IP保有者は制作費の50%を負担して収益を分け合う。その後、ファンは公式キャラクターのチャンネルに移り、購読や投げ銭、購入を行う。Sodaliveは2026年Q4にUSD 456,000のpre-Series Aラウンドを目指している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "学术出版自问\nAI是否跑在证据前面",
-          "body": "一篇客座文章认为,学术出版AI的下一阶段需要更多评估、协作与人的判断。",
-          "mini_headline": "AI跑在证据前面",
+          "headline": "Sodalive让网漫角色\n化身AI创作者延续生命",
+          "body": "Sodalive从VoiceOn转型，让官方网漫角色成为连载结束后仍活跃的AI创作者。",
+          "mini_headline": "网漫角色化身AI创作者",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
+                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
               },
               {
                 "t": "p",
-                "x": "PA EDitorial首席运营官(COO)Sarah Hands认为,在对AI工具大举投资之后,出版商如今面临一个更重要的阶段:弄清早期采用带来了哪些经验。她写道,有时AI的采用速度似乎超过了我们评估其成效的能力。"
+                "x": "运营语音粉丝平台VoiceOn的韩国内容科技公司Sodalive正在转型，把已完结网漫和网络小说的官方角色打造成AI创作者，让它们在作品完结后继续与粉丝互动。VoiceOn在2025年收入USD 350,000，但增长过于依赖个人真人创作者。"
               },
               {
                 "t": "p",
-                "x": "采用可能变成竞争驱动而非证据驱动;成功被过于狭隘地以速度衡量;更广泛的后果难以察觉。答案不是放慢采用,而是从中学习,包括在全行业分享无效、不确定和负面的结果。"
+                "x": "该公司已拿下10部作品、20多个角色的AI角色化（AI-characterization）权利，并正与30多家IP公司洽谈。它与Toyoudream合作，联合制作Naver Webtoon作品Musa Manri Haeng的真人风格AI剧，以及Kakao Page作品The Legendary Hero Is an Academy Honor Student的AI动画，并与KT Studio Genie合作发行。"
               },
               {
                 "t": "p",
-                "x": "她警告自动化偏见:风险不在于AI做出错误决定,而在于编辑越来越不愿质疑它。AI生成的标记(AI-generated flag)是需要解读的信号,而不是结论。"
-              },
-              {
-                "t": "p",
-                "x": "她引用2026年Organization Science的一份报告,称自ChatGPT发布以来投稿量增加了42%,并发问:“我们如何知道AI是否让事情变得更好?”如果没有公认的衡量标准,采用将持续跑在证据前面。"
+                "x": "IP方承担50%的制作费并分享收益；粉丝随后进入官方角色频道进行订阅、打赏和购买。Sodalive计划于2026年Q4完成USD 456,000的pre-Series A轮融资。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La edición académica se pregunta\nsi la IA adelanta a la evidencia",
-          "body": "Una tribuna pide más evaluación, colaboración y juicio humano para la próxima fase de la IA en la edición académica.",
-          "mini_headline": "La IA, por delante de la evidencia",
+          "headline": "Personajes de webtoon siguen\ncomo creadores de AI en Sodalive",
+          "body": "Sodalive pasa de la app VoiceOn a convertir personajes oficiales de webtoon en creadores de AI más allá de su serie.",
+          "mini_headline": "Héroes de webtoon como creadores de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-514479529.jpg"
+                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
               },
               {
                 "t": "p",
-                "x": "Sarah Hands, COO de PA EDitorial, sostiene que, tras una fuerte inversión en herramientas de IA, las editoriales afrontan ahora una fase más importante: aprender lo que les está enseñando la adopción temprana. A veces, escribe, la adopción de la IA parece ir más rápido que nuestra capacidad de evaluar lo que logra."
+                "x": "Sodalive, la empresa surcoreana de tecnología de contenidos detrás de la plataforma de fans basada en voz VoiceOn, está girando hacia convertir personajes oficiales de webtoons y novelas web ya terminados en creadores de AI, para que sigan interactuando con los fans tras el final de la serie. VoiceOn generó USD 350,000 en 2025, pero su crecimiento dependía demasiado de creadores humanos individuales."
               },
               {
                 "t": "p",
-                "x": "La adopción puede volverse competitiva en lugar de basarse en la evidencia; el éxito se mide de forma demasiado estrecha por la velocidad; y las consecuencias más amplias son difíciles de ver. La respuesta no es frenar la adopción, sino aprender de ella, lo que incluye compartir en todo el sector los resultados nulos, no concluyentes y negativos."
+                "x": "La empresa ha obtenido derechos de AI-characterization para 10 títulos y más de 20 personajes, y negocia con más de 30 compañías de IP. Junto con Toyoudream coproduce un drama de AI de estilo imagen real de Musa Manri Haeng, de Naver Webtoon, y una animación de AI de The Legendary Hero Is an Academy Honor Student, de Kakao Page, distribuidas con KT Studio Genie."
               },
               {
                 "t": "p",
-                "x": "Advierte del sesgo de automatización: el riesgo no es que la IA tome una decisión equivocada, sino que los editores tiendan menos a cuestionarla. Una alerta generada por IA (AI-generated) es una señal que requiere interpretación, no una conclusión."
-              },
-              {
-                "t": "p",
-                "x": "Cita un informe de Organization Science de 2026 según el cual los envíos aumentaron un 42% desde el lanzamiento de ChatGPT, y pregunta: “¿Cómo sabremos si la IA mejoró las cosas?”. Sin medidas acordadas, la adopción seguirá adelantándose a la evidencia."
+                "x": "Los titulares de IP financian el 50% de la producción y comparten ingresos; después, los fans pasan a los canales oficiales de los personajes para suscripciones, donaciones y compras. Sodalive busca una ronda pre-Series A de USD 456,000 en el Q4 de 2026."
               }
             ]
           }

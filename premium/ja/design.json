@@ -8949,6 +8949,151 @@
           "x": "4K と1080p 10-bit HDRの出力、そして企業向けAPIは、今回の一般公開には含まれず、近く提供される予定だ。Pexoによると、Kling 4.0 Flashという派生版が9月28日、最上位の年間サブスクライバー向けに限定的なアーリーアクセスを開始した。"
         }
       ]
+    },
+    "design/design-chatgpt-slides-decks": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIはChatGPT Slidesで、職場におけるChatGPTの役割を広げる。10月16日のリリースノートで発表された新機能で、ユーザーはプラットフォーム内で直接スライドデッキを作成、編集し、共同作業できる。"
+        },
+        {
+          "t": "p",
+          "x": "既存の会話、アップロードしたファイル、アウトライン、またはデザインの方向性を示すサンプルのプレゼンテーションから始められる。ChatGPTはその素材を編集可能なデッキに変え、独自の画像を生成し、テキスト、ビジュアル、チャートの調整を手伝う。ユーザーが自分で要素を編集したり、具体的な変更を依頼したりすることもできる。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "チームメンバーは同じプレゼンテーションを同時に編集し、共有コメントを残せる。ChatGPTはフィードバックの反映やスライドの一貫性の維持を支援する。既存のデッキを参照として使えば、出力は確立されたブランディングに沿う。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+        },
+        {
+          "t": "p",
+          "x": "完成したデッキはChatGPT内で発表するか、PowerPoint、PDF、またはウェブ版Google Slidesに書き出すことができ、編集可能なまま保たれる。SlidesはSpaceへのアクセス権を持つ対象のPro、Business、Enterpriseユーザーに順次提供されており、発表前には引き続き数値や主張を確認する必要がある。"
+        }
+      ]
+    },
+    "design/design-neural-concept-cad-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "スイスを拠点とするAI-nativeなエンジニアリング企業Neural Concept SAは本日、AIエージェントが商用のコンピューター支援設計ツールやシミュレーションツールを操作できるようにするModel Context Protocol Bridgeを発表した。大規模なエンジニアリング組織が、物理的な製品の設計とシミュレーションに使うソフトウェア環境を自動化するのを支援する。"
+        },
+        {
+          "t": "p",
+          "x": "2019年に設立されたNeural Conceptは、自動車、航空宇宙、エネルギー、エレクトロニクス、半導体、防衛分野のOEMsを顧客に持つ。MCP BridgeはAIエージェントにこれらのツールと、それを使いこなすためのエンジニアリングの知見を提供し、企業はソフトウェアとデータの管理権と所有権を保持できる。"
+        },
+        {
+          "t": "p",
+          "x": "共同創業者でCEOのPierre Baquéは「あらゆる物理的な製品を形づくるソフトウェアを、初めてAIがエンタープライズ規模で操作できるようになった」と述べた。ある顧客事例では、MCP Bridgeを使ったエンジニアがホイールリムの形状のクリーンアップを三分で終えた。手作業では一日かかっていた作業だ。"
+        },
+        {
+          "t": "p",
+          "x": "シミュレーションに使えるデジタルツインの準備には数週間かかることもあるが、CAEソフトウェア上で作業するAIエージェントならそれを数時間に短縮できる。Volkswagen GroupのTraton SEで電磁設計エンジニアを務めるCiro Alosaは「AIエージェントは私の働き方を完全に変えた」と語った。"
+        }
+      ]
+    },
+    "design/design-dxo-viewpoint6-ai-masking": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "傾いた建物の補正に苦労している、専用レンズなしでティルトシフト(tilt-shift)風の写真にしたい、あるいはたる型歪曲でフレームの隅の被写体が引き伸ばされている――そんな悩みはないだろうか。DxOは幾何補正ベースの写真編集ソフトの最新版ViewPoint 6を発表した。目玉は、幾何補正とAIマスクを組み合わせた精密な部分編集である。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+          "cap": "ViewPoint 6ではメッシュの分割により、はるかに細かな部分調整ができる (Image credit: DxO)"
+        },
+        {
+          "t": "p",
+          "x": "ReShape FusionのAIマスクを使えば、高い建物など特定の対象だけをマスクし、画像全体を補正してトリミングする代わりに、写真の他の部分とは独立してその形状を補正できる。対象の周りに選択ボックスを描くと、ViewPoint 6がそれをマスクし、制御点付きのメッシュを直接その上に配置する。より細かな部分調整のための分割オプションも増えた。"
+        },
+        {
+          "t": "p",
+          "x": "DxOは、AIによる画像生成は一切行われないと強調する。「写真家が撮影したシーンの構成要素を作り直すのではなく、並べ替えている」という。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+          "cap": "ViewPoint 6の局所的な幾何調整により、顔の造作を整えることもできる (Image credit: DxO)"
+        },
+        {
+          "t": "p",
+          "x": "単体ソフトとしてのViewPoint 6はRAWファイル(TIFFとJPEGも)を開けるようになり、Photoshop、Lightroom Classic、DxO PhotoLab 10のプラグインとしても動作する。価格は$129.99 / £109.99で、ViewPoint 5からのアップグレードは$84.99 / £69.99。30日間の無料体験版もあり、すでに提供が始まっている。"
+        }
+      ]
+    },
+    "design/design-anthropic-attention-bottleneck": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+          "cap": "広いオフィスで一人が机に向かって読み物をしている。周りの何十もの画面には、その人が対処すべき新しい仕事が次々と表示されていく。"
+        },
+        {
+          "t": "p",
+          "x": "10月16日、Anthropicの研究者四人が「How employment is changing at Anthropic」を公開した。2026年8月までに、従業員が指示するエージェントは、人が働く一時間ごとに六時間分の作業を記録するようになった。エージェントのセッションは時間の約80%を人を待つアイドル状態で過ごしており、コードを書かない人でも、エージェントの出力をすべて読むには週の労働時間の半分以上がかかる。「それが読む税金であり、エージェントを使うすべてのチームが払うことになる」"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+          "cap": "エージェントは人間より多く働く。驚くことではない。"
+        },
+        {
+          "t": "p",
+          "x": "Patrick Neemanは、この仕事が誰もをマネージャーに変えつつあると論じ、人がループの主導権を握り続けるための七つのステップを示す。読む時間をページ読み込みの予算のように測る、エージェントの要求を重大度で順位づける、レビューの工程を設計する、決定事項をエージェントが見つけられる場所に書き残す、エージェントを管理する、判断力で採用する、そしてエントリーレベルの職務をレビュー中心に作り直す、というものだ。"
+        },
+        {
+          "t": "p",
+          "x": "アウトプットはますます安くなる一方、人間の注意力は増えない。デザイナー、リサーチャー、プロダクトマネージャーは、エージェントが人に何を見せ、いつ割り込み、レビューをどう進めるかを決める立場にある。その仕事は、何が注意に値するかを見極める判断の仕組みをつくることだ。"
+        }
+      ]
+    },
+    "design/design-gemini-notebook-cocreate": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.width-1300.png",
+          "cap": "新しいレビュー機能を備えたスライド資料のイラスト"
+        },
+        {
+          "t": "p",
+          "x": "Gemini Notebookはユーザーの声を受け、人気の高い二つの出力形式であるSlide DecksとVideo Overviewsについて、最初から最後までより細かく創作をコントロールできるようにした。最初のプロンプトから一気に最終出力へ進むのではなく、ソースに基づいて制作の流れを順に案内する。"
+        },
+        {
+          "t": "p",
+          "x": "チャットでスライドや動画概要を依頼すると、Notebookが盛り込むトピックを提案する。確認すれば、内容をさらに調整し、ビジュアルのスタイルや形式も指示できる。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/CoCreationLaunch_Slides_BLOG_2784x1566.mp4"
+        },
+        {
+          "t": "p",
+          "x": "新しいReviewトグルはさらに踏み込む。スタジオパネルで、スライドなら「Review outline notes」、動画なら「Review producer notes」から計画を確認し、レンダリング前にエグゼクティブサマリーの追加やシーンの順番の入れ替えといったフィードバックを伝えられる。「Proceed」を選ぶと最終成果物が生成される。"
+        },
+        {
+          "t": "p",
+          "x": "作りたいものが決まっているならプロンプトでそう伝えれば、Notebookはすぐにレビューへ進む。手早く出力したい場合はReviewトグルを使わず、通常どおり生成すればよい。この共同制作機能は今後一週間で、世界中のすべてのGemini Notebookユーザーに順次提供される。"
+        }
+      ]
     }
   }
 }

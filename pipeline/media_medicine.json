@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-20",
-  "section": "medicine",
-  "media": [
-    {
-      "id": "medicine-aitialvsd-fda-2026",
-      "type": "image",
-      "src": "pipeline/media/medicine-aitialvsd-fda-2026.jpg"
-    },
-    {
-      "id": "medicine-ai-infocare-previsit-summaries",
-      "type": "image",
-      "src": "pipeline/media/medicine-ai-infocare-previsit-summaries.jpg"
-    },
-    {
-      "id": "medicine-hpi-radiology-workforce-ai",
-      "type": "image",
-      "src": "pipeline/media/medicine-hpi-radiology-workforce-ai.jpg"
-    },
-    {
-      "id": "medicine-oud-rey-ehr-harmonization",
-      "type": "image",
-      "src": "pipeline/media/medicine-oud-rey-ehr-harmonization.jpg"
-    },
-    {
-      "id": "medicine-lunit-sitc2026-io-response",
-      "type": "image",
-      "src": "pipeline/media/medicine-lunit-sitc2026-io-response.jpg"
-    }
-  ]
-}
+{"date":"2026-10-21","section":"medicine","media":[
+{"id":"medicine-fahr-face-illness-photo","type":"image","src":"pipeline/media/medicine-fahr-face-illness-photo.jpg"},
+{"id":"medicine-argus-autism-ai-fda","type":"image","src":"pipeline/media/medicine-argus-autism-ai-fda.png"},
+{"id":"medicine-stroke-robot-rehab-genai","type":"video","src":"pipeline/media/medicine-stroke-robot-rehab-genai.mp4","poster":"pipeline/media/medicine-stroke-robot-rehab-genai.jpg"},
+{"id":"medicine-neonatal-automation-bias","type":"image","src":"pipeline/media/medicine-neonatal-automation-bias.png"},
+{"id":"medicine-e3-pose-fetal-symmetry","type":"image","src":"pipeline/media/medicine-e3-pose-fetal-symmetry.jpg"}
+]}

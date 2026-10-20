@@ -7079,6 +7079,123 @@
           "x": "La Universidad Soongsil organiza el «Concurso de Contenidos Creativos AI·SW», que pide entregar qué herramientas de IA se usaron junto con el proceso de prompts, y trata así la creación con IA en un concurso aparte."
         }
       ]
+    },
+    "books/books-tomato-novel-ai-signing-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
+        },
+        {
+          "t": "p",
+          "x": "Tomato Novel anunció que las obras nuevas de autores Lv.0 y Lv.1 solo podrán firmarse mediante la \"firma con obra completa\": el libro entero, de 150,000 o 300,000 palabras según la categoría, debe estar terminado antes de presentar la solicitud, sin exhibición ni regalías hasta entonces."
+        },
+        {
+          "t": "p",
+          "x": "Algunos autores respondieron compartiendo herramientas de AI que generan millones de palabras a partir de una consigna de género. La plataforma promovió en su día la escritura AI-assisted (asistida por IA); los envíos nuevos diarios pasaron de unos 400 a 5,606, y ahora afirma que los más de 5,000 libros diarios son \"casi todos\" generados en serie por IA."
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
+        },
+        {
+          "t": "p",
+          "x": "Las restricciones anteriores (límites de libros nuevos por cuenta, 855 cuentas sancionadas, 112,700 libros de baja calidad rechazados) no han bastado, y Tomato depende ahora en gran medida de la IA para detectar obras AI-written (escritas por IA). 36Kr sostiene que el problema de fondo es una plataforma centrada en el tráfico que trata a los autores como capacidad de producción."
+        }
+      ]
+    },
+    "books/books-prix-pascal-ai-manuscripts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Un nuevo premio literario francés, el Prix Pascal, reconocerá un manuscrito escrito con inteligencia artificial."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes deben revelar las herramientas y los métodos usados para crear su obra."
+        }
+      ]
+    },
+    "books/books-millie-ai-briefing-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
+          "cap": "[Foto=KT Millie's Library]"
+        },
+        {
+          "t": "p",
+          "x": "KT Millie's Library usa la inteligencia artificial (AI) para reducir los pasos entre buscar un libro y leerlo. Mejoró su buscador para que los usuarios vean el contenido clave de un libro en los resultados y puedan leerlo de inmediato o guardar los títulos que les interesan sin pasar por una página de detalle aparte."
+        },
+        {
+          "t": "p",
+          "x": "Según el sector de tecnologías de la información (IT) el día 20, Millie's Library introduce el servicio 'AI Briefing', que analiza la intención de búsqueda del usuario para ofrecer información sobre libros. Determina si la consulta es un título, un autor o un tema concreto y muestra la información correspondiente en la parte superior de los resultados."
+        },
+        {
+          "t": "p",
+          "x": "Si la búsqueda anterior ofrecía resultados centrados en las palabras contenidas en los títulos, AI Briefing capta el significado de la consulta y presenta primero la información necesaria. El objetivo es reducir el proceso de revisar uno a uno varios resultados o ir y venir entre páginas de detalle."
+        },
+        {
+          "t": "p",
+          "x": "En concreto, al buscar un libro determinado se muestra un resumen de su contenido clave y sus características. Al introducir el nombre de un autor, sus libros más representativos aparecen en la parte superior de los resultados. En lugar de limitarse a listar coincidencias, organiza los resultados según el tipo de información que busca el usuario."
+        },
+        {
+          "t": "p",
+          "x": "También reforzó el paso de la búsqueda a la lectura. Al buscar un libro o un autor aparecen las funciones 'Leer ahora' y 'Añadir a mi biblioteca'. Se puede abrir un libro o guardar títulos para más tarde sin ir a una página de detalle aparte."
+        },
+        {
+          "t": "p",
+          "x": "Para facilitar el descubrimiento de libros nuevos, se añadió una función de recomendaciones relacionadas. En la parte inferior de los resultados aparecen otros libros vinculados al término buscado, de modo que el usuario puede explorar no solo el libro que buscaba sino también obras de intereses afines."
+        },
+        {
+          "t": "p",
+          "x": "El lanzamiento continúa la ampliación de funciones de lectura basadas en AI que Millie's Library ha impulsado. Antes presentó 'AI Dokpaming', que permite preguntar a un chatbot de AI sobre el contenido de un libro e ir a la página original correspondiente. En marzo amplió el contenido disponible al añadir a AI Dokpaming 500 títulos de Book21 y Dasan Books."
+        }
+      ]
+    },
+    "books/books-sodalive-webtoon-ai-creators": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Sodalive, la empresa surcoreana de tecnología de contenidos detrás de la plataforma de fans basada en voz VoiceOn, está girando hacia convertir personajes oficiales de webtoons y novelas web ya terminados en creadores de AI, para que sigan interactuando con los fans tras el final de la serie. VoiceOn generó USD 350,000 en 2025, pero su crecimiento dependía demasiado de creadores humanos individuales."
+        },
+        {
+          "t": "p",
+          "x": "La empresa ha obtenido derechos de AI-characterization para 10 títulos y más de 20 personajes, y negocia con más de 30 compañías de IP. Junto con Toyoudream coproduce un drama de AI de estilo imagen real de Musa Manri Haeng, de Naver Webtoon, y una animación de AI de The Legendary Hero Is an Academy Honor Student, de Kakao Page, distribuidas con KT Studio Genie."
+        },
+        {
+          "t": "p",
+          "x": "Los titulares de IP financian el 50% de la producción y comparten ingresos; después, los fans pasan a los canales oficiales de los personajes para suscripciones, donaciones y compras. Sodalive busca una ronda pre-Series A de USD 456,000 en el Q4 de 2026."
+        }
+      ]
+    },
+    "books/books-payauthors-pirate-check": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PayAuthors.com es un nuevo sitio web y servicio que permite a los autores averiguar con facilidad si sus libros están incluidos en bibliotecas piratas."
+        },
+        {
+          "t": "p",
+          "x": "El análisis completo de Jane Friedman es un artículo premium para los suscriptores de pago de su boletín."
+        },
+        {
+          "t": "p",
+          "x": "Según la propia PayAuthors.com, el servicio cruza los libros de los autores con catálogos fechados de bibliotecas piratas (LibGen, Z-Library a través de Anna's Archive), con la cronología de cuándo cada empresa de IA copió esas bibliotecas y con los registros de derechos de autor de U.S. (Estados Unidos). La consulta por nombre es gratuita; un informe completo enumera todos los registros coincidentes, incluido si un ISBN está en Books3."
+        },
+        {
+          "t": "p",
+          "x": "El sitio señala que, en Bartz v. Anthropic, un acuerdo de 1.5 mil millones de dólares para autores de libros recibió la aprobación definitiva el 20 de julio de 2026."
+        }
+      ]
     }
   }
 }

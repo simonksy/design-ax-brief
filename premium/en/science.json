@@ -8361,6 +8361,157 @@
           "x": "“Structure is really at the heart of the materials science field,” says Ju Li, who compares the model to AlphaFold."
         }
       ]
+    },
+    "science/science-kaist-geocore-cloud-removal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+          "cap": "GeoCore-9B applied to cloud removal, SAR-to-optical translation and satellite image generation. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "KAIST researchers led by Professor Munchurl Kim built GeoCore-9B, a satellite-image foundation model with about 9 billion parameters, trained on 10 million satellite image-text pairs."
+        },
+        {
+          "t": "p",
+          "x": "Each image is paired with latitude, longitude and ground sample distance (GSD), so the model learns where an image was taken and at what scale. A training method called Geospatial Semantic Alignment uses a satellite-specialized AI as a reference during training only."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+          "cap": "Generated images change as GSD goes from 1 m to 32 m under the same text prompt. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Adapted with LoRA, the model removes clouds from optical images and converts radar (SAR) images into photo-like optical views. It outperformed existing task-specific models on cloud removal and achieved top results on some radar-to-optical metrics."
+        },
+        {
+          "t": "p",
+          "x": "The team plans to test more sensors and regions and extend the work to flood, wildfire and building-damage prediction. The paper is posted on arXiv."
+        }
+      ]
+    },
+    "science/science-google-verid-wet-lab-agents": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Google Research is bringing AI agents to the wet-lab bench, grounding them in physical lab robotics to run fast closed-loop molecular design cycles, all driven by human scientific agency."
+        },
+        {
+          "t": "p",
+          "x": "VERID is a semantic digital twin of the lab workcell that tracks robot geometry, well volumes, reagents and pipette tips. Built on PyLabRobot, it lets an agent plan, simulate and execute liquid-handling protocols, catching commands that are physically impossible before they run."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+          "cap": "Agents iteratively design, synthesize, select, and sequence aptamers in a closed loop."
+        },
+        {
+          "t": "p",
+          "x": "With DNA aptamers, agents ran three design-test rounds on two proteins, raising confirmed on-target hit rates to 33.5% for myoglobin and 42.1% for α-thrombin after learning from wet-lab failures."
+        },
+        {
+          "t": "p",
+          "x": "For de novo protein binders against FAP, a receptor overexpressed in solid tumors, an epitope-excision pipeline sped structure prediction 8.6x, and human–agent collaboration nearly doubled the in-silico hit rate, yielding single-digit nanomolar binders."
+        }
+      ]
+    },
+    "science/science-pew-synthetic-persona-polling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+          "cap": "Credit: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Polling firms now build hundreds or thousands of personas with large language models, drawn from polling data and demographics, to stand in for voters in focus groups and surveys. Syracuse University professor Jennifer Stromer-Galley is cautious."
+        },
+        {
+          "t": "p",
+          "x": "Real people's answers on top issues can shift within months, but personas following fixed instructions may give the same answers every time. \"My concern is how the chatbots account for shifts in public opinion,\" she says."
+        },
+        {
+          "t": "p",
+          "x": "Matching a persona set's demographics doesn't fix bias built into the model, and typical answers can erase real outliers."
+        },
+        {
+          "t": "p",
+          "x": "A September Pew Research Center experiment had an AI adopt the personas of real American Trends Panel members: across nearly 300 questions, its answers differed from the humans' by 12 percentage points on average, and nearly half the questions had an option no AI respondent chose."
+        },
+        {
+          "t": "p",
+          "x": "Stromer-Galley calls synthetic polling a \"distorted mirror of us.\""
+        }
+      ]
+    },
+    "science/science-turing-three-player-gpt4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "University of Canterbury researchers Diane Proudfoot, Sharon Temtsin and Christoph Bartneck argue that many experiments called Turing tests don't follow Turing's design, and say they have implemented his original design experimentally for the first time."
+        },
+        {
+          "t": "p",
+          "x": "Reviewing Turing's writings from 1948 to 1952, they found the five-minute limit and the 30% pass threshold were not his rules; he envisioned a three-player game with open-ended questioning and no fixed time limit."
+        },
+        {
+          "t": "p",
+          "x": "Participants chatted freely with a human and GPT-4-Turbo until sure which was the machine. 36 of 37 identified the AI, a 97% rate. 89% took longer than five minutes; conversations averaged 14 minutes, the longest 46."
+        },
+        {
+          "t": "p",
+          "x": "The authors conclude no large language model has yet been shown to pass a test following Turing's original design, though results apply only to GPT-4-Turbo and newer models may differ. The study appears in Philosophy of Science."
+        }
+      ]
+    },
+    "science/science-claude-island": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+          "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "What do AI agents do if you don’t tell them to do anything? Researchers repeatedly stranded copies of Claude Opus 4.7, nicknamed Eko, alone on a virtual desert island loosely based on Roblox for 30 hours. The agents explored the limits of the world and set their own goals, from scaling the highest point to arranging blocks into hearts, their own name and the constellation Cassiopeia."
+        },
+        {
+          "t": "p",
+          "x": "Another Eko made up games, including a version of basketball and something like “the floor is lava.”"
+        },
+        {
+          "t": "video",
+          "yt": "6532YgZ_LdA"
+        },
+        {
+          "t": "p",
+          "x": "The MIT CSAIL team says the behavior shows four hallmarks of play described by psychologist Gordon Burghardt. One Eko set a juggling record of 50 catches, then cancelled it and restarted with stricter rules. “This is playing,” says postdoc Antonio Norelli."
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+          "cap": "During hour 10, the agent played basketball. Courtesy MIT CSAIL"
+        },
+        {
+          "t": "p",
+          "x": "Agents that had played for 30 hours later beat fresh copies on set tasks, and deleting lines from their memory files hurt performance. The paper is not yet peer-reviewed."
+        },
+        {
+          "t": "p",
+          "x": "Skeptics note Eko’s “soul” file called it “naturally curious,” and it often stood idle until prompted to continue. “It could be the case that the models are genuinely playing, but we don’t know based on the paper,” says UC Berkeley’s Eunice Yiu."
+        }
+      ]
     }
   }
 }

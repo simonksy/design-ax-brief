@@ -7129,6 +7129,124 @@
           "x": "即日起可在 ElevenCreative、ElevenMusic 和 ElevenAPI 中使用。"
         }
       ]
+    },
+    "music/music-believe-tunecore-ai-remix-optin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
+        },
+        {
+          "t": "p",
+          "x": "十月20日公布的一项授权协议，让参与的Believe和TuneCore艺人可以从Spotify上AI-powered（AI驱动）的粉丝混音和翻唱中获得版税，是否参与由艺人自行选择加入。"
+        },
+        {
+          "t": "p",
+          "x": "协议涵盖Spotify即将推出的一款用AI重新诠释现有歌曲的工具，计划作为面向Premium订阅用户的付费add-on，播放量将为参与的艺人和版权方带来版税。该工具面向混音和翻唱，而非全新作品，每首混音都会链接回原曲和原艺人。"
+        },
+        {
+          "t": "p",
+          "x": "Believe和TuneCore采用两步（two-step）同意流程：艺人和厂牌先决定是否被纳入AI项目的考虑范围，再单独决定是否参与Spotify合作。协议围绕Believe的同意、控制、补偿和透明原则设计。"
+        },
+        {
+          "t": "p",
+          "x": "公告未说明上线日期、add-on价格、版税费率或收入分配方式，而这些细节将决定它对独立音乐企业有多大用处。"
+        }
+      ]
+    },
+    "music/music-pitchnet-free-pitch-editor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
+          "cap": "PitchNet"
+        },
+        {
+          "t": "p",
+          "x": "Session Loops发布了PitchNet，这是一款适用于macOS、Windows和Linux的免费开源人声音高编辑器——继Your Smile is Art的bubblegum之后，这是本月报道的第二款免费Melodyne替代品。"
+        },
+        {
+          "t": "p",
+          "x": "其工作流程与Melodyne相似：PitchNet检测人声中的音符并显示在钢琴卷帘中，供编辑音高和时值，支持拆分音符、绘制音高曲线和预览，然后导出音频或MIDI。与自动调音插件不同，它可以处理单个音符。"
+        },
+        {
+          "t": "p",
+          "x": "处理采用AI重合成，开发者称这能带来更平滑的过渡和更自然的音色；产品页面用升高三个半音的人声将其与Melodyne进行了对比。"
+        },
+        {
+          "t": "video",
+          "yt": "Q0Ym2sMFB1A"
+        },
+        {
+          "t": "p",
+          "x": "借助ARA支持，兼容的DAWs可以把音频发送到PitchNet，同时保持与时间线的关联；对于不支持ARA的宿主，则提供捕获工作流程。安装包可直接下载，无需账户（v0.7.2，158–222 MB）；Windows和macOS最低需要8 GB RAM，建议16 GB。格式方面：Windows为VST3/AAX，macOS 13+为VST3/AU/AAX，Linux为VST3和独立版。"
+        }
+      ]
+    },
+    "music/music-afm-human-made-human-paid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
+          "cap": "American Federation of Musicians在纽约Rockefeller Center外集会。"
+        },
+        {
+          "t": "p",
+          "x": "American Federation of Musicians（AFM）是U.S.最大的音乐人工会，拥有80,000多名职业艺人。随着AI技术发展，该工会正要求各大唱片公司在合同中加入保障条款。"
+        },
+        {
+          "t": "p",
+          "x": "该工会于周二发起倡导活动“Human Made, Human Paid”，为11月重新谈判Sound Recording Labor Agreement（SRLA）做准备。AFM希望Universal、Sony、Warner和Hollywood Records（Disney）给予音乐人批准或拒绝将其音乐用于训练AI模型的权利、透明的署名，以及针对AI使用和唱片公司授权交易的报酬。"
+        },
+        {
+          "t": "p",
+          "x": "“唱片公司不能一边把建立在人类艺术创作之上的利润收入囊中，一边把一线音乐人排除在外。Human Made, Human Paid关乎同意、署名和报酬，”AFM International主席Tino Gagliardi说。"
+        },
+        {
+          "t": "p",
+          "x": "工会表示，这些诉求并非要妖魔化AI，而是为了让音乐依然是可以维持生计的职业：“我们不想阻止技术进步……世界需要更多音乐，而不是更少。”"
+        }
+      ]
+    },
+    "music/music-just4kicks-ethical-kick-generator": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Just 4 Noise推出了AI底鼓采样生成器Just 4 Kicks。你对它的兴趣有多大，取决于你对底鼓采样有多少需求，但这次发布反映了AI音乐中一个更广泛的积极趋势。"
+        },
+        {
+          "t": "p",
+          "x": "Just 4 Noise表示，它用“从一开始就完全自有、内部制作并精心整理的音频数据”训练了这个AI模型——为坚守其伦理原则，该公司花了数月时间在世界各地的录音室录制了这个数据集。"
+        }
+      ]
+    },
+    "music/music-gear-firmware-vibe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "硬件合成器、采样器和律动机的定制固件呈爆发式增长，几乎全部得益于日益成熟的氛围编程工具。过去要花数周乃至数月的工作，比如给Korg Volca加入力度感应，如今业余爱好者几天就能完成。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Elektron的Model:Cycles、Digitone、Octatrack和Digitakt借助Claude获得了新功能；过去一个月左右，Roland、Ableton、Akai、Novation、Arturia和Zoom的设备也出现了新的定制固件。领头的是M-Vave售价$70的DX7复刻机FM-1，它如今已有数十款固件；Felucca、Sloop和x0x等热门固件将Claude列为贡献者或披露了AI的使用。"
+        },
+        {
+          "t": "p",
+          "x": "Roman Rusinov把一台2012年的Zoom MS-70CDR效果器改造成运行NAM捕获的音箱模拟器。他说：“既然你拥有这台硬件，就应该能随心所欲地使用它。”18nelli用Claude Code发起了Modded Cycles，最初是六轨USB音频，后来发展成社区项目。"
+        },
+        {
+          "t": "p",
+          "x": "这些固件的测试程度不如官方固件。Elektron在论坛上禁止发布定制固件链接，警告改装可能让设备变砖；M-Vave则发布了FM1 Open，这是一款附带开发套件和刷机工具的开源固件。"
+        }
+      ]
     }
   }
 }

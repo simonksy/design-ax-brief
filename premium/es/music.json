@@ -7367,6 +7367,124 @@
           "x": "Disponible desde hoy en ElevenCreative, ElevenMusic y ElevenAPI."
         }
       ]
+    },
+    "music/music-believe-tunecore-ai-remix-optin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
+        },
+        {
+          "t": "p",
+          "x": "Un acuerdo de licencias anunciado el 20 de octubre permite a los artistas de Believe y TuneCore que participen cobrar regalías por los remixes y versiones de fans creados con AI (AI-powered) en Spotify; son los artistas quienes deciden sumarse."
+        },
+        {
+          "t": "p",
+          "x": "Abarca la próxima herramienta de Spotify para reinterpretar con AI canciones existentes, prevista como complemento de pago para los suscriptores de Premium, cuyas reproducciones generarán regalías para los artistas y titulares de derechos participantes. La herramienta está pensada para remixes y versiones, no para obras completamente nuevas, y cada remix enlaza con la pista y el artista originales."
+        },
+        {
+          "t": "p",
+          "x": "Believe y TuneCore aplican un proceso de consentimiento en dos pasos: artistas y sellos deciden primero si quieren ser considerados para programas de AI y después toman una decisión aparte sobre la alianza con Spotify. El acuerdo se enmarca en los principios de Believe: consentimiento, control, compensación y transparencia."
+        },
+        {
+          "t": "p",
+          "x": "El anuncio no especifica la fecha de lanzamiento, el precio del complemento, las tasas de regalías ni cómo se repartirán los ingresos, detalles que determinarán su utilidad para los negocios de música independiente."
+        }
+      ]
+    },
+    "music/music-pitchnet-free-pitch-editor": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
+          "cap": "PitchNet"
+        },
+        {
+          "t": "p",
+          "x": "Session Loops ha lanzado PitchNet, un editor de afinación vocal gratuito y de código abierto para macOS, Windows y Linux; es la segunda alternativa gratuita a Melodyne reseñada este mes, después de bubblegum de Your Smile is Art."
+        },
+        {
+          "t": "p",
+          "x": "El flujo de trabajo se parece al de Melodyne: PitchNet detecta las notas de una voz y las muestra en un piano roll para editar afinación y tiempo, con división de notas, dibujo de curvas de tono y vista previa antes de exportar audio o MIDI. A diferencia de los plugins de autotune, da acceso a notas individuales."
+        },
+        {
+          "t": "p",
+          "x": "El procesamiento usa resíntesis con AI, que según el desarrollador ofrece transiciones más suaves y un tono más natural; la página del producto lo compara con Melodyne en voces subidas tres semitonos."
+        },
+        {
+          "t": "video",
+          "yt": "Q0Ym2sMFB1A"
+        },
+        {
+          "t": "p",
+          "x": "La compatibilidad con ARA permite que las DAWs compatibles envíen audio a PitchNet sin perder el vínculo con la línea de tiempo, y hay un flujo de captura para hosts sin ARA. Los instaladores se descargan directamente sin necesidad de cuenta (v0.7.2, 158–222 MB); Windows y macOS requieren 8 GB de RAM como mínimo y 16 GB recomendados. Formatos: VST3/AAX en Windows, VST3/AU/AAX en macOS 13+, VST3 y versión independiente en Linux."
+        }
+      ]
+    },
+    "music/music-afm-human-made-human-paid": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
+          "cap": "La American Federation of Musicians se manifiesta frente al Rockefeller Center de Nueva York."
+        },
+        {
+          "t": "p",
+          "x": "La American Federation of Musicians (AFM), el mayor sindicato de músicos de Estados Unidos (U.S.), con más de 80,000 artistas profesionales, pide a los grandes sellos salvaguardas contractuales ante el desarrollo de la tecnología AI."
+        },
+        {
+          "t": "p",
+          "x": "El martes lanzó “Human Made, Human Paid”, una campaña de defensa previa a la renegociación en noviembre del Sound Recording Labor Agreement (SRLA). La AFM quiere que Universal, Sony, Warner y Hollywood Records (Disney) concedan a los músicos el derecho a aprobar o rechazar el uso de su música para entrenar modelos de AI, créditos transparentes y pago tanto por el uso de AI como por los acuerdos de licencia de los sellos."
+        },
+        {
+          "t": "p",
+          "x": "“Las discográficas no pueden embolsarse beneficios construidos sobre el arte humano mientras dejan fuera de la ecuación a los músicos en activo. Human Made, Human Paid trata de consentimiento, crédito y compensación”, dijo el presidente de AFM International, Tino Gagliardi."
+        },
+        {
+          "t": "p",
+          "x": "El sindicato afirma que sus demandas no buscan demonizar la AI, sino mantener la música como una carrera viable: “No queremos frenar el avance de la tecnología… Necesitamos más música en el mundo, no menos”."
+        }
+      ]
+    },
+    "music/music-just4kicks-ethical-kick-generator": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Just 4 Noise ha lanzado Just 4 Kicks, un generador de muestras de bombo con AI. El interés que despierte dependerá de cuánto uso le dé cada uno a las muestras de bombo, pero el lanzamiento refleja una tendencia más amplia y positiva en la música hecha con AI."
+        },
+        {
+          "t": "p",
+          "x": "Just 4 Noise afirma que entrenó el modelo AI con “datos de audio totalmente propios, creados y seleccionados internamente desde el principio”, y que grabó ese conjunto de datos en estudios de todo el mundo durante meses para ceñirse a sus principios éticos."
+        }
+      ]
+    },
+    "music/music-gear-firmware-vibe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El firmware personalizado para sintetizadores, samplers y grooveboxes de hardware se ha disparado, y casi todo ha sido posible gracias a herramientas de vibe coding cada vez más sofisticadas. Trabajos que antes llevaban semanas o meses, como añadir sensibilidad a la velocidad a un Korg Volca, ahora les llevan días a los aficionados."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/elektron-model-cycles-model-samples-8.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400"
+        },
+        {
+          "t": "p",
+          "x": "Los Model:Cycles, Digitone, Octatrack y Digitakt de Elektron han ganado nuevas funciones con ayuda de Claude, y equipos de Roland, Ableton, Akai, Novation, Arturia y Zoom han recibido nuevo firmware personalizado en el último mes, aproximadamente. A la cabeza está el FM-1 de M-Vave, un clon del DX7 de $70 que ya cuenta con decenas de firmwares; algunos populares, como Felucca, Sloop y x0x, citan a Claude como colaborador o declaran el uso de AI."
+        },
+        {
+          "t": "p",
+          "x": "Roman Rusinov convirtió un pedal Zoom MS-70CDR de 2012 en un modelador de amplificador que ejecuta capturas de NAM. \"Si eres dueño del hardware, deberías poder hacer con él lo que quieras\", dijo. 18nelli inició Modded Cycles con Claude Code, empezando por audio USB de seis pistas, y el proyecto creció hasta volverse comunitario."
+        },
+        {
+          "t": "p",
+          "x": "Estos firmwares están menos probados que los oficiales. Elektron prohibió en sus foros los enlaces a firmware personalizado y advirtió que las modificaciones podían inutilizar las máquinas, mientras que M-Vave anunció FM1 Open, un firmware de código abierto con kit de desarrollo y herramienta de flasheo."
+        }
+      ]
     }
   }
 }

@@ -1,31 +1,77 @@
 {
-  "date": "2026-10-20",
   "section": "marketing",
-  "now_iso": "2026-10-19T23:20:00Z",
+  "now_iso": "2026-10-20T21:40:00Z",
   "window_hours": 72,
-  "mode": "recovery-pass-1",
   "items": [
     {
-      "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
-      "url": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
-      "source": "Engineering at Meta",
+      "title": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts",
+      "url": "https://searchengineland.com/google-ads-ai-max-spotted-automatically-enabled-in-some-ad-grants-accounts-497261",
+      "source": "Search Engine Land",
       "category": "marketing",
-      "published_iso": "2026-10-19T16:00:47+00:00",
-      "excerpt": "Meta's generative recommenders now represent each ad, product or page as a short sequence of discrete codes derived from multimodal embeddings instead of a per-item ID, so new and low-engagement ads borrow signal from similar items. Paired with GEM and the Adaptive Ranking Model, Meta says it lifted advertiser conversions 0.35% across surfaces.",
-      "og_image": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-Hero.png",
-      "lang": "en",
-      "off_list_note": "engineering.fb.com is Meta first-party (about.fb.com is allowed). Distinct from the 10-15 GEM 18.9% story and the 10-13 inference-capacity post."
+      "published_iso": "2026-10-19T18:52:28Z",
+      "excerpt": "Google Ads' AI Max for Search is showing up switched on in some nonprofit Google Ad Grants accounts without advertisers enabling it, expanding keywordless matching and auto-generating ad text from landing pages; since Ad Grants compliance hinges on CTR, broader AI matching could push accounts below the threshold. Google has not confirmed a grants-wide rollout.",
+      "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+      "lang": "en"
     },
     {
-      "title": "TikTok Turns to Shoplazza to Power Agentic Commerce Offering",
-      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/tiktok-turns-to-shoplazza-to-power-agentic-commerce-offering/",
-      "source": "PYMNTS",
+      "title": "The Real Value of an Ad Starts With Attention",
+      "url": "https://www.adweek.com/convergent-tv/the-real-value-of-an-ad-starts-with-attention/",
+      "source": "Adweek",
       "category": "marketing",
-      "published_iso": "2026-10-19T13:59:14+00:00",
-      "excerpt": "Shoplazza is TikTok's commerce and payment partner for Buy Direct, which lets shoppers buy from brands inside TikTok over the Universal Commerce Protocol with the brand as merchant of record, and for the AI Shopping Assistant, which answers product questions from merchant page data. The pitch to merchants is a shorter path from content and ads to purchase.",
-      "og_image": "https://www.pymnts.com/wp-content/uploads/2026/10/TikTok-Shoplazza-agentic-AI.png?quality=82",
-      "lang": "en",
-      "off_list_note": "Off-list (pymnts.com): no allowed-domain outlet covered it. Weaker pick: Buy Direct and Shopping Assistant came out earlier; the new part is the Shoplazza partnership. TikTok's 10-07 advertiser AI update is already in the ledger."
+      "published_iso": "2026-10-20T09:57:48-04:00",
+      "excerpt": "TVision data presented at ADWEEK Exchange shows Coca-Cola's much-criticized AI-generated 'Holidays Are Coming' commercial scored a Creative Attention Score of 101, slightly above the brand's holiday average of 100; TVision's CEO says AI creative it measures performs on par with or better than average creative.",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/ViantNYC_brandpanel_group.jpg?w=600&h=315&crop=1",
+      "lang": "en"
+    },
+    {
+      "title": "A startup offered free pizza if its AI agent ordered it. Chaos ensued.",
+      "url": "https://www.axios.com/2026/10/20/hark-ai-agent-startup-free-pizza-doordash",
+      "source": "Axios",
+      "category": "marketing",
+      "published_iso": "2026-10-20T09:00:06Z",
+      "excerpt": "AI startup Hark ran a $1 million giveaway offering $30 DoorDash credit to users who downloaded Hark Pro and let its agent order a pizza; the promo pushed the app to No. 1 in Apple's Lifestyle category and Hark says it delivered nearly 20,000 pizzas, but many users hit failed orders, unexpected charges and broad Gmail-permission requests.",
+      "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1PRIEW.img",
+      "lang": "en"
+    },
+    {
+      "title": "Meta's per-creative audiences force ad sets to stay open to all genders",
+      "url": "https://ppc.land/metas-per-creative-audiences-force-ad-sets-to-stay-open-to-all-genders/",
+      "source": "PPC Land",
+      "category": "marketing",
+      "published_iso": "2026-10-19T21:48:34.000Z",
+      "excerpt": "Meta launched a toggle on Oct 19 letting advertisers assign an age range and gender to each creative in one ad set instead of leaving its retrieval and ranking AI to work out who each asset is for, but the ad set itself must stay open to all genders and broad ages.",
+      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/meta-per-creative-audiences-ad-set-all-genders-carousel-projector.jpg",
+      "lang": "en"
+    },
+    {
+      "title": "Google Ads asset group A/B testing toggle spotted in Performance Max",
+      "url": "https://searchengineland.com/google-ads-asset-group-a-b-testing-toggle-spotted-in-performance-max-497523",
+      "source": "Search Engine Land",
+      "category": "marketing",
+      "published_iso": "2026-10-20T16:48:22+00:00",
+      "excerpt": "Google Ads appears to be testing an A/B testing toggle inside Performance Max asset groups, giving advertisers in Google's AI-driven campaign type a direct way to pit alternative creative messaging (e.g. price vs. quality) against each other with full sets of headlines, descriptions and images.",
+      "og_image": "https://searchengineland.com/wp-content/seloads/2026/10/Asset-gro.jpeg",
+      "lang": "en"
+    },
+    {
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "source": "MIT Technology Review",
+      "category": "marketing",
+      "published_iso": "2026-10-19T14:22:47-04:00",
+      "excerpt": "Agentic web traffic tripled from August to September after OpenAI's Dots and Meta's Muse launched, and many sites are blocking agents consumers send to negotiate prices or book trips; as demand grows, retailers and travel sites face redesigning for agent shoppers rather than people.",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_Algo.jpg?resize=1200,600",
+      "lang": "en"
+    },
+    {
+      "title": "Brands Briefing: How brands are gearing up for TikTok Shop's biggest holiday season yet",
+      "url": "https://www.modernretail.co/marketing/brands-briefing-how-brands-are-gearing-up-for-tiktok-shops-biggest-holiday-season-yet/",
+      "source": "Modern Retail",
+      "category": "marketing",
+      "published_iso": "2026-10-20T14:00:00+00:00",
+      "excerpt": "Brands are preparing for TikTok Shop's largest holiday season as more major retailers join the platform and shoppers can browse and buy gifts with TikTok Shop's new AI shopping assistant.",
+      "og_image": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/01/tiktok_revenue_commerce_MR.jpeg",
+      "lang": "en"
     }
   ]
 }

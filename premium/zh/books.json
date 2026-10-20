@@ -6846,6 +6846,123 @@
           "x": "崇实大学举办“AI·SW创意内容征集赛”，要求参赛者一并提交所用AI工具及提示词过程，在单独的征集赛中处理借助AI的创作。"
         }
       ]
+    },
+    "books/books-tomato-novel-ai-signing-rules": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
+        },
+        {
+          "t": "p",
+          "x": "Tomato Novel宣布，Lv.0和Lv.1作者的新作品只能采用“全本完结签约”：须按品类写完150,000字或300,000字的整本书后才能申请，在此之前不展示、无稿酬。"
+        },
+        {
+          "t": "p",
+          "x": "部分作者的回应是分享能根据题材提示词生成数百万字的AI工具。该平台曾大力倡导AI-assisted（AI辅助）写作；每日新投稿从约400部猛增至5,606部，平台如今表示，每天5,000多部新书“几乎全部”由AI批量生成。"
+        },
+        {
+          "t": "img",
+          "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
+        },
+        {
+          "t": "p",
+          "x": "此前的限制措施（限制每个账号的新书数量、处置855个账号、驳回112,700本低质量书籍）未能跟上节奏，Tomato如今主要依靠AI来识别AI-written（AI写作）作品。36Kr认为，更深层的问题在于流量至上、把作者当作产能的平台。"
+        }
+      ]
+    },
+    "books/books-prix-pascal-ai-manuscripts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
+        },
+        {
+          "t": "p",
+          "x": "法国新设的文学奖Prix Pascal将表彰一部借助人工智能写成的手稿。"
+        },
+        {
+          "t": "p",
+          "x": "参赛者须披露创作作品时所用的工具和方法。"
+        }
+      ]
+    },
+    "books/books-millie-ai-briefing-search": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
+          "cap": "[图片=KT 米莉书房]"
+        },
+        {
+          "t": "p",
+          "x": "KT米莉书房借助人工智能（AI），缩短从找书到真正阅读之间的步骤。其改进了搜索功能，用户可在搜索结果中查看图书的核心内容，无需进入单独的详情页即可直接阅读或收藏感兴趣的图书。"
+        },
+        {
+          "t": "p",
+          "x": "据信息技术（IT）业界20日消息，米莉书房将推出“AI简报”服务，通过分析用户的搜索意图提供图书相关信息。该服务会判断搜索词是书名、作者还是特定主题等，并在搜索结果顶部显示相应信息。"
+        },
+        {
+          "t": "p",
+          "x": "如果说以往的搜索主要依据书名等所含词语给出结果，那么AI简报则会理解搜索词的含义，优先呈现所需信息。其重点在于减少用户逐一浏览多条搜索结果、在详情页之间来回切换的过程。"
+        },
+        {
+          "t": "p",
+          "x": "具体来说，搜索某本书时，会概括显示该书的核心内容和特点；输入作者姓名时，可在搜索结果顶部看到其代表作。这意味着它不只是罗列匹配的结果，而是根据用户所需信息的性质来组织不同的结果。"
+        },
+        {
+          "t": "p",
+          "x": "从搜索到阅读的衔接功能也得到加强。搜索图书或作者时，会同时提供“立即阅读”和“加入我的书房”功能。用户无需跳转到单独的图书详情页，就能打开书本或收藏稍后要读的书。"
+        },
+        {
+          "t": "p",
+          "x": "为帮助用户发现新书，还结合了相关推荐功能。搜索结果底部会一并显示与输入搜索词相关的其他图书。用户不仅能看到最初想找的书，也能浏览相近兴趣领域的书。"
+        },
+        {
+          "t": "p",
+          "x": "此次推出的服务，是米莉书房持续扩大AI阅读功能的延续。此前，米莉书房推出了“AI读破明”，用户可与AI聊天机器人对话、就书中内容提问，并跳转到相关原文页面。今年3月，米莉书房将Book21和多山图书的500种图书纳入AI读破明，扩大了可用内容。"
+        }
+      ]
+    },
+    "books/books-sodalive-webtoon-ai-creators": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "运营语音粉丝平台VoiceOn的韩国内容科技公司Sodalive正在转型，把已完结网漫和网络小说的官方角色打造成AI创作者，让它们在作品完结后继续与粉丝互动。VoiceOn在2025年收入USD 350,000，但增长过于依赖个人真人创作者。"
+        },
+        {
+          "t": "p",
+          "x": "该公司已拿下10部作品、20多个角色的AI角色化（AI-characterization）权利，并正与30多家IP公司洽谈。它与Toyoudream合作，联合制作Naver Webtoon作品Musa Manri Haeng的真人风格AI剧，以及Kakao Page作品The Legendary Hero Is an Academy Honor Student的AI动画，并与KT Studio Genie合作发行。"
+        },
+        {
+          "t": "p",
+          "x": "IP方承担50%的制作费并分享收益；粉丝随后进入官方角色频道进行订阅、打赏和购买。Sodalive计划于2026年Q4完成USD 456,000的pre-Series A轮融资。"
+        }
+      ]
+    },
+    "books/books-payauthors-pirate-check": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "PayAuthors.com是一个新网站和服务,让作者能轻松查明自己的书是否被收入盗版书库。"
+        },
+        {
+          "t": "p",
+          "x": "Jane Friedman的完整文章是其新闻通讯付费订阅者专享的付费内容。"
+        },
+        {
+          "t": "p",
+          "x": "据PayAuthors.com自己介绍,它将作者的书与带日期的盗版书库目录(LibGen、经Anna's Archive收录的Z-Library)、各AI公司复制这些书库的时间线以及U.S.(美国)版权登记进行比对。姓名查询免费;完整报告会列出所有匹配记录,包括某个ISBN是否在Books3中。"
+        },
+        {
+          "t": "p",
+          "x": "该网站指出,在Bartz v. Anthropic案中,面向图书作者的$1.5 billion和解已于2026年7月20日获得最终批准。"
+        }
+      ]
     }
   }
 }

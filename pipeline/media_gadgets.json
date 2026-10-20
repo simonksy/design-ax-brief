@@ -1,7 +1,33 @@
-{"media": [
-  {"id": "gadgets-even-g2-review", "type": "image", "src": "pipeline/media/gadgets-even-g2-review.jpg"},
-  {"id": "gadgets-ai-dumb-smart-tv", "type": "image", "src": "pipeline/media/gadgets-ai-dumb-smart-tv.jpg"},
-  {"id": "gadgets-pixel11-magic-capture", "type": "image", "src": "pipeline/media/gadgets-pixel11-magic-capture.jpg"},
-  {"id": "gadgets-homeview-robot-arm", "type": "image", "src": "pipeline/media/gadgets-homeview-robot-arm.jpg"},
-  {"id": "gadgets-repair-robot-data", "type": "image", "src": "pipeline/media/gadgets-repair-robot-data.jpg"}
-]}
+{
+  "date": "2026-10-21",
+  "section": "gadgets",
+  "media": [
+    {
+      "id": "gadgets-perplexity-mac-local",
+      "type": "image",
+      "src": "pipeline/media/gadgets-perplexity-mac-local.jpg"
+    },
+    {
+      "id": "gadgets-gemini-cars-global",
+      "type": "video",
+      "src": "pipeline/media/gadgets-gemini-cars-global.mp4",
+      "poster": "pipeline/media/gadgets-gemini-cars-global.jpg"
+    },
+    {
+      "id": "gadgets-boya-notra-neo-recorder",
+      "type": "image",
+      "src": "pipeline/media/gadgets-boya-notra-neo-recorder.jpg"
+    },
+    {
+      "id": "gadgets-voxel1-tidy-robot",
+      "type": "video",
+      "src": "pipeline/media/gadgets-voxel1-tidy-robot.mp4",
+      "poster": "pipeline/media/gadgets-voxel1-tidy-robot.jpg"
+    },
+    {
+      "id": "gadgets-garmin-ciq-ai-slop",
+      "type": "image",
+      "src": "pipeline/media/gadgets-garmin-ciq-ai-slop.jpg"
+    }
+  ]
+}

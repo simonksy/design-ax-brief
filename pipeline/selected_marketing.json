@@ -1,96 +1,98 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "marketing",
   "picks": [
     {
-      "url": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
-      "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
-      "source": "Engineering at Meta",
+      "url": "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html",
+      "title": "OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads",
+      "source": "Search Engine Roundtable",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "Meta's ad recommender now represents each ad as codes derived from multimodal embeddings instead of a per-item ID, so new and low-engagement ads borrow signal from similar ones. Meta reports a 0.35% conversion lift, which changes how quickly fresh creative can reach delivery.",
-      "published_iso": "2026-10-19T16:00:47+00:00",
-      "og_image": "https://engineering.fb.com/wp-content/uploads/2026/10/GenRecs-Tokenization-Hero.png",
-      "excerpt": "Meta's generative recommenders now represent each ad, product or page as a short sequence of discrete codes derived from multimodal embeddings instead of a per-item ID, so new and low-engagement ads borrow signal from similar items. Paired with GEM and the Adaptive Ranking Model, Meta says it lifted advertiser conversions 0.35% across surfaces."
+      "rationale": "From Oct 30, ChatGPT Ads will rewrite, translate, and resize advertisers' creative by default and can serve those versions without review. Every self-serve advertiser needs to check the opt-out setting before then.",
+      "published_iso": "2026-10-20T15:35:00-04:00",
+      "og_image": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+      "excerpt": "OpenAI emailed ChatGPT Ads advertisers that from Oct 30 it will auto-enable 'creative enhancements' on new and existing self-serve campaigns, rewriting headlines and descriptions to fit the conversation, translating ad text, resizing images and optimizing destination URLs. The AI-adapted versions can run without advertiser review; opt-out is in Ads Manager."
     },
     {
-      "url": "https://ppc.land/monday-coms-harmony-voice-ai-lifted-car-brokers-deals-9-client-says/",
-      "title": "monday.com's Harmony voice AI lifted car broker's deals 9%, client says",
-      "source": "PPC Land",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+      "title": "New Gemini tools for small business owners",
+      "source": "Google",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "A client reports concrete numbers for a voice-AI sales agent (9% more deals, 70% contact rate, ~200ms replies) running live in four markets. It is sales automation with real results.",
-      "published_iso": "2026-10-19T20:18:34Z",
-      "og_image": "https://ppc.land/content/images/2026/10/monday-com-harmony-voice-ai-sales-call-handoff-rotary-phone.jpg",
-      "excerpt": "Sales call agents reply in about 200ms on task-specific models and run on Twilio in four markets. What sits behind the 70% contact rate, and what stays hidden?"
+      "rationale": "Google's own announcement connects Gemini to Google Ads, Shopify, and Canva and lets it take a brand kit to generate on-brand campaign visuals, which puts AI ad creative in front of small sellers.",
+      "published_iso": "2026-10-20T16:00:00+00:00",
+      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png",
+      "excerpt": "Google launched a Gemini business landing page that connects to Google Ads, Business Profile, Workspace, Shopify and Canva, and can take a brand kit, fonts and palettes to generate on-brand visuals for product launches and marketing campaigns, with marketing and finance skills rolling out."
     },
     {
-      "url": "https://www.adexchanger.com/ai/ai-startup-minerva-built-an-agentic-cdp-but-dont-call-it-that/",
-      "title": "AI Startup Minerva Built An Agentic CDP, But Don't Call It That",
+      "url": "https://www.adexchanger.com/programmatic/ai-slop-sites-are-on-the-rise-is-ad-tech-ready-for-its-new-mfa-challenge/",
+      "title": "AI Slop Sites Are On The Rise. Is Ad Tech Ready For Its New MFA Challenge?",
       "source": "AdExchanger",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "AI agents take over the customer-data work behind targeting and audience building, turning scattered first-party data into segments marketers can use. It shows where CDPs are heading.",
-      "published_iso": "2026-10-19T05:00:38+00:00",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/08/how-to-train-your-ai-dragon-comic-kevvo-detail.jpg",
-      "excerpt": "Minerva wants to turn fragmented customer data into something marketers can use, with AI agents doing the work behind the scenes."
+      "rationale": "A DecryptAds study found more than 2,100 AI-generated made-for-advertising recipe sites carrying Fortune 500 ads. This is a new brand-safety problem in programmatic buying, and media buyers should audit their inclusion lists.",
+      "published_iso": "2026-10-20T08:00:00+00:00",
+      "og_image": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-featured.jpg",
+      "excerpt": "A DecryptAds study found more than 2,100 AI-generated recipe sites with fabricated author profiles, monetized through programmatic ads in the made-for-advertising playbook, carrying ads from blue-chip and Fortune 500 brands."
     },
     {
-      "url": "https://ppc.land/chatgpt-drops-to-74-5-of-marketers-as-claude-climbs-to-72-3-basis-finds/",
-      "title": "ChatGPT drops to 74.5% of marketers as Claude climbs to 72.3%, Basis finds",
-      "source": "PPC Land",
+      "url": "https://searchengineland.com/google-ads-ai-max-spotted-automatically-enabled-in-some-ad-grants-accounts-497261",
+      "title": "Google Ads AI Max spotted automatically enabled in some Ad Grants accounts",
+      "source": "Search Engine Land",
       "tool": "Marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "Basis's survey of ad marketers finds 51.1% now run agents but only 6.5% measure AI returns against benchmarks, and Claude has nearly caught ChatGPT. Useful for teams sizing up their own AI stack.",
-      "published_iso": "2026-10-19T18:47:08Z",
-      "og_image": "https://ppc.land/content/images/2026/10/basis-chatgpt-claude-marketers-ai-survey-near-level-balance-scale.jpg",
-      "excerpt": "Only 6.5% of 184 surveyed marketers measure AI returns against benchmarks, yet 51.1% now run agents. What happens when automation outruns the proof it works?"
+      "rationale": "Google's AI Max for Search, which matches without keywords and writes its own ad text, is turning on by itself in nonprofit Ad Grants accounts. The broader AI matching can push CTR below the compliance threshold, so grant managers should check their campaign settings now.",
+      "published_iso": "2026-10-19T18:52:28Z",
+      "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+      "excerpt": "Google Ads' AI Max for Search is showing up switched on in some nonprofit Google Ad Grants accounts without advertisers enabling it, expanding keywordless matching and auto-generating ad text from landing pages; since Ad Grants compliance hinges on CTR, broader AI matching could push accounts below the threshold. Google has not confirmed a grants-wide rollout.",
+      "swap": true
     },
     {
-      "url": "https://www.adexchanger.com/measurement/how-australian-home-lender-lendi-measures-the-invisible-work-of-ai/",
-      "title": "How Australian Home Lender Lendi Measures The Invisible Work Of AI",
-      "source": "AdExchanger",
+      "url": "https://www.axios.com/2026/10/20/hark-ai-agent-startup-free-pizza-doordash",
+      "title": "A startup offered free pizza if its AI agent ordered it. Chaos ensued.",
+      "source": "Axios",
       "tool": "Marketing",
       "accent": "#eb367f",
       "motif": "frame",
-      "rationale": "A brand-side example of measuring how chatbots drive customer discovery and acquisition. Measurement and attribution in AI channels is still mostly unsolved.",
-      "published_iso": "2026-10-19T16:03:46+00:00",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/03/canthaveitbothways.jpeg",
-      "excerpt": "Most brands and businesses are trying to figure out how to improve their metrics when it comes to AI – and also what those metrics even are. Problem is, measuring how chatbots shape brand discovery is mostly still a mystery. But “you can’t improve what you can’t measure,” said Michael McCash, GM of "
+      "rationale": "Hark spent $1M on a promo that paid for DoorDash pizza if its AI agent placed the order. That took the app to No. 1 in Apple's Lifestyle category, but the agent also failed orders, ran up unexpected charges, and asked for broad Gmail access. It is a concrete case of agentic checkout used to acquire customers, and of how that can backfire.",
+      "published_iso": "2026-10-20T09:00:06Z",
+      "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1PRIEW.img",
+      "excerpt": "AI startup Hark ran a $1 million giveaway offering $30 DoorDash credit to users who downloaded Hark Pro and let its agent order a pizza; the promo pushed the app to No. 1 in Apple's Lifestyle category and Hark says it delivered nearly 20,000 pizzas, but many users hit failed orders, unexpected charges and broad Gmail-permission requests.",
+      "swap": true
     }
   ],
   "dedup": {
     "checks": {
-      "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/": {
+      "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html": {
         "verdict": "new",
-        "nearest": "https://ppc.land/meta-says-its-gem-ads-model-lifted-conversions-18-9-across-its-apps/",
+        "nearest": "https://searchengineland.com/chatgpt-ads-introduces-new-measurement-tools-and-visual-ad-formats-496998",
         "new_action": ""
       },
-      "https://ppc.land/monday-coms-harmony-voice-ai-lifted-car-brokers-deals-9-client-says/": {
+      "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/": {
         "verdict": "new",
-        "nearest": "https://www.customerexperiencedive.com/news/a-health-insurance-agencys-journey-from-pilot-to-full-time-voice-ai-agent/832301/",
+        "nearest": "https://ppc.land/metas-muse-agent-gains-access-to-ad-accounts-and-15-business-tools/",
         "new_action": ""
       },
-      "https://www.adexchanger.com/ai/ai-startup-minerva-built-an-agentic-cdp-but-dont-call-it-that/": {
+      "https://www.adexchanger.com/programmatic/ai-slop-sites-are-on-the-rise-is-ad-tech-ready-for-its-new-mfa-challenge/": {
         "verdict": "new",
-        "nearest": "https://www.adexchanger.com/ai/videoamp-bets-on-ai-to-connect-ad-planning-and-measurement/",
+        "nearest": "https://ppc.land/brands-can-block-youtube-ads-beside-ai-slop-under-new-ias-tool/",
         "new_action": ""
       },
-      "https://ppc.land/chatgpt-drops-to-74-5-of-marketers-as-claude-climbs-to-72-3-basis-finds/": {
+      "https://searchengineland.com/google-ads-ai-max-spotted-automatically-enabled-in-some-ad-grants-accounts-497261": {
         "verdict": "new",
-        "nearest": "https://ppc.land/ads-uploader-17-5-of-36-289-meta-ad-batches-came-from-ai-agents/",
+        "nearest": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
         "new_action": ""
       },
-      "https://www.adexchanger.com/measurement/how-australian-home-lender-lendi-measures-the-invisible-work-of-ai/": {
+      "https://www.axios.com/2026/10/20/hark-ai-agent-startup-free-pizza-doordash": {
         "verdict": "new",
-        "nearest": "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/",
+        "nearest": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
         "new_action": ""
       }
     },
-    "note": "Swap 1 (cross-section clash): the TechCrunch smart-TV AI piece went to gadgets, replaced by AdExchanger's Minerva agentic CDP piece. No history_match, no cluster, nearest is AdExchanger VideoAmp 10-18 (different company and product). Swap 2: dropped Axios 'AI attack-ad nightmare' because it repeats the Wesleyan Media Project data that politics published on 10-19 (Gizmodo). Its replacement, Marketing Dive's Kantar media-mix piece, was then rejected by enrichment: it is a general media-mix story and AI is one paragraph, so it fails the marketing _note test. Swap 3 (recovery pool): added Engineering at Meta's GenRecs tokenization post. It is a new ad-ranking technique (semantic ID codes from multimodal embeddings that help cold-start ads) with its own reported 0.35% conversion lift. Its history_match is PPC Land's GEM 18.9% story (10-15), which is a different model and result, and it is also distinct from the 10-13 Meta inference-capacity post, so it is new rather than a follow-up. Rejected the other recovery candidate, PYMNTS TikTok/Shoplazza: Buy Direct and the AI Shopping Assistant were already out, so the only new part is a commerce-partner deal (partnership/business news), it is close to TikTok's 10-07 advertiser AI update, and the outlet is off-list. Dropped as repeats of published stories: SER Google ads in AI Mode with Personal Intelligence (same as Search Engine Land 10-17); SER ChatGPT Ads visual formats (same as Search Engine Land 10-17); SEJ Meta crawl clause (same as TechCrunch 10-18 and SEJ 10-17); TV Technology Fox AdStudio live/linear (same as Adweek 10-16); Social Media Today Meta Muse use cases (running story, no new release). Dropped as out of scope under the marketing _note: Verge and MIT Tech Review on sites blocking AI agents (both dropped; crawler/access infrastructure, consistent with 10-19); SER AI Mode source preferences and DeepSeek search API (no paid placement); SEJ made-up concept cited by AI search (GEO/SEO); Digiday Verge audience team; HubSpot AI-first blog; Salesforce personal agents/contact center (service, not sales); Google Blog Gemini stylist (promo); PPC Land Meta 14-agent router (internal data engineering). Advertorial: AdExchanger 'Inside the Stack' Amazon Ads (sponsored). Outlets: PPC Land x2, AdExchanger x2, Engineering at Meta (3 distinct, cap of 2 per outlet respected)."
+    "note": "RECOVERY-ADD pass (2026-10-21): kept the 3 existing picks and their checks unchanged, and added 2 picks marked swap from the 7 recovery candidates. (1) SEL AI Max auto-enabled in Ad Grants. AI matching and AI-written ad text on a paid search surface. Its history_match (related) is the 10-16 SER AI Max report story; the 10-09 AI Max columns card is also related. Both are reporting features, while this is a new auto-enable event on Ad Grants accounts, so it is a distinct story and the verdict is new. (2) Axios Hark pizza promo. A $1M customer-acquisition promo run through agentic DoorDash ordering. AI makes the story, and it touches selling through the promotion and acquisition. It has no history_match. The nearest story is the 10-14 Amex agent-purchase framework, which is a different event. It is not in today's gadgets picks. Recovery candidates rejected under a strict _note reading: Adweek TVision attention, an event recap from ADWEEK Exchange (excluded). PPC Land Meta per-creative audiences, a manual targeting toggle with no AI in the headline, which fails the delete-AI test. SEL PMax asset-group A/B toggle, a testing feature with no AI in the headline, which fails the same test. MIT TR agentic web, analysis of the running Muse/Dots agent-shopping story with no new release, and close to the 10-19 Semafor ecommerce-agents card. Modern Retail TikTok Shop briefing, a holiday-prep newsletter where the AI assistant gets one mention and the headline stands without AI. Dollar Shave Club stays rejected, and none of the 11 earlier rejections was reconsidered. Outlets: SER, Google, AdExchanger, SEL, Axios (5 distinct, max 1 each). Previous note: SWAP pass, enrichment rejected the Marketing Dive Dollar Shave Club pick (campaign story, AI not needed for the concept). The original 11 rejections are recorded in that earlier note: SER AI Mode PI likely-repeat, AdExchanger Inside the Stack advertorial, AdExchanger Talks opinion podcast, Kantar survey, Salesforce contact center, Axios AI attack ads (politics), SEJ made-up concept (GEO), SEJ Muse/Dots analysis, PPC Land Gemini try-on, PPC Land Meta 14-agent router, Axios WNBA agent test."
   }
 }

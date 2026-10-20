@@ -8546,6 +8546,157 @@
           "x": "「構造こそ材料科学分野の核心だ」と、このモデルをAlphaFoldになぞらえるJu Liは語る。"
         }
       ]
+    },
+    "science/science-kaist-geocore-cloud-removal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+          "cap": "雲除去、SARから光学への変換、衛星画像生成に適用したGeoCore-9B。Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Munchurl Kim教授率いるKAISTの研究チームは、約9B 個のパラメータを持つ衛星画像基盤モデルGeoCore-9Bを構築した。学習には衛星画像とテキストのペア10M 組を使った。"
+        },
+        {
+          "t": "p",
+          "x": "各画像には緯度、経度、地上サンプル距離(GSD)が付いており、モデルは画像の撮影場所と縮尺を学ぶ。Geospatial Semantic Alignmentと呼ぶ学習手法では、衛星に特化したAIを学習時に限り参照として使う。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+          "cap": "同じテキストプロンプトでGSDを1 mから32 mに変えると、生成画像が変化する。Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "LoRAで適応させたモデルは、光学画像から雲を取り除き、レーダー(SAR)画像を写真のような光学画像に変換する。雲除去では既存のタスク特化モデルを上回り、レーダーから光学への変換でも一部の指標で最高の結果を出した。"
+        },
+        {
+          "t": "p",
+          "x": "チームは今後、より多くのセンサーや地域で検証し、洪水、山火事、建物被害の予測にも広げる計画だ。論文はarXivで公開されている。"
+        }
+      ]
+    },
+    "science/science-google-verid-wet-lab-agents": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Google ResearchはAIエージェントをウェットラボの実験台に持ち込み、物理的なラボロボットと結びつけて、高速な閉ループの分子設計サイクルを回している。そのすべてを動かすのは人間の科学者の主体性だ。"
+        },
+        {
+          "t": "p",
+          "x": "VERIDはラボのワークセルを表すセマンティックなデジタルツインで、ロボットの形状、ウェルの液量、試薬、ピペットチップを追跡する。PyLabRobot上に構築され、エージェントが液体ハンドリングのプロトコルを計画、シミュレーション、実行できるようにし、物理的に不可能な命令を実行前に検出する。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+          "cap": "エージェントは閉ループの中でアプタマーの設計、合成、選抜、シーケンシングを繰り返す。"
+        },
+        {
+          "t": "p",
+          "x": "DNAアプタマーでは、エージェントが二つのタンパク質に対して設計と試験のラウンドを三回実施した。ウェットラボでの失敗から学んだ結果、確認された標的ヒット率はミオグロビンで33.5%、α-トロンビンで42.1%に上がった。"
+        },
+        {
+          "t": "p",
+          "x": "固形がんで過剰発現する受容体FAPに対するde novoタンパク質バインダーでは、エピトープ切除パイプラインが構造予測を8.6x 高速化した。人間とエージェントの協働でin-silicoのヒット率はほぼ倍増し、一桁ナノモル級のバインダーが得られた。"
+        }
+      ]
+    },
+    "science/science-pew-synthetic-persona-polling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+          "cap": "Credit: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "世論調査会社は今、世論調査データや人口統計をもとに大規模言語モデルで数百から数千のペルソナを作り、フォーカスグループや調査で有権者の代わりに使っている。Syracuse UniversityのJennifer Stromer-Galley教授は慎重だ。"
+        },
+        {
+          "t": "p",
+          "x": "主要な争点に対する実際の人々の回答は数カ月で変わりうるが、固定された指示に従うペルソナは毎回同じ答えを返すかもしれない。「懸念しているのは、チャットボットが世論の変化をどう反映するかだ」と彼女は言う。"
+        },
+        {
+          "t": "p",
+          "x": "ペルソナ群の人口構成を合わせても、モデルに組み込まれた偏りは解消されず、典型的な回答が実在する外れ値を消してしまうおそれがある。"
+        },
+        {
+          "t": "p",
+          "x": "Pew Research Centerが九月に行った実験では、AIに実際のAmerican Trends Panel参加者のペルソナを演じさせた。300近い質問全体で、回答は人間と平均12パーセントポイント異なり、質問のほぼ半数にはどのAI回答者も選ばなかった選択肢があった。"
+        },
+        {
+          "t": "p",
+          "x": "Stromer-Galley氏は合成世論調査を「私たちのゆがんだ鏡」と呼ぶ。"
+        }
+      ]
+    },
+    "science/science-turing-three-player-gpt4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "University of CanterburyのDiane Proudfoot、Sharon Temtsin、Christoph Bartneckの研究者らは、Turingテストと呼ばれる実験の多くがTuringの設計に従っていないと指摘し、彼の原案を初めて実験的に実装したとしている。"
+        },
+        {
+          "t": "p",
+          "x": "1948年から1952年までのTuringの著作を調べた結果、五分間の制限や30%の合格基準は彼のルールではなかった。Turingが構想したのは、自由な質問を交わし、決まった時間制限のない三者によるゲームだった。"
+        },
+        {
+          "t": "p",
+          "x": "参加者は、どちらが機械か確信できるまで、人間とGPT-4-Turboの双方と自由にチャットした。37人中36人がAIを見分け、識別率は97%に達した。89%が五分以上を要し、会話は平均14分、最長で46分だった。"
+        },
+        {
+          "t": "p",
+          "x": "著者らは、Turingの原案に沿ったテストに合格した大規模言語モデルはまだ示されていないと結論づけた。ただし結果はGPT-4-Turboにのみ当てはまり、新しいモデルでは異なる可能性がある。研究はPhilosophy of Scienceに掲載された。"
+        }
+      ]
+    },
+    "science/science-claude-island": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+          "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "何も指示しなければ、AIエージェントは何をするのか。研究者らは、Ekoと名付けたClaude Opus 4.7のコピーを、Robloxを緩やかに模した仮想の無人島に30時間ずつ独りで置く実験を繰り返した。エージェントたちは世界の限界を探り、自ら目標を立てた。最も高い地点への登頂から、ブロックでハートや自分の名前、カシオペヤ座（Cassiopeia）を形作ることまで多岐にわたった。"
+        },
+        {
+          "t": "p",
+          "x": "別のEkoは、バスケットボールの変形版や「床は溶岩」に似た遊びなど、ゲームを考え出した。"
+        },
+        {
+          "t": "video",
+          "yt": "6532YgZ_LdA"
+        },
+        {
+          "t": "p",
+          "x": "MIT CSAILのチームは、この行動が心理学者Gordon Burghardtの示した遊びの四つの特徴を備えているという。あるEkoはジャグリングで50回の記録を出した後、それを取り消し、より厳しいルールでやり直した。博士研究員のAntonio Norelliは「これは遊びだ」と話す。"
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+          "cap": "10時間目、エージェントはバスケットボールをした。Courtesy MIT CSAIL"
+        },
+        {
+          "t": "p",
+          "x": "30時間遊んだエージェントは、その後の決められた課題で新しいコピーを上回り、メモリファイルから行を削除すると性能が落ちた。論文はまだ査読を経ていない。"
+        },
+        {
+          "t": "p",
+          "x": "懐疑的な見方もある。Ekoの「soul（魂）」ファイルはEkoを「生まれつき好奇心旺盛」と記しており、続けるよう促されるまで何もせずにいることも多かった。UC BerkeleyのEunice Yiuは「モデルが本当に遊んでいる可能性はあるが、この論文からはわからない」と述べる。"
+        }
+      ]
     }
   }
 }

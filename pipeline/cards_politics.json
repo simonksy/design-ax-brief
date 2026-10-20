@@ -1,197 +1,191 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "politics",
   "cards": [
     {
-      "id": "politics-aiact-harmonised-std",
+      "id": "politics-dhs-deepseek-agency-removal",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "첫 AI Act 표준\nEU 관보에 실렸다",
-      "body": "고위험 규정을 앞두고 집행위가 첫 AI Act 표준 EN 18286을 내놓았다.",
-      "mini_headline": "첫 AI Act 표준 공표",
+      "headline": "DHS, 연방기관에\nDeepSeek 전면 퇴출",
+      "body": "DHS가 DeepSeek 기반 외부 서비스까지 연방기관에서 걷어내라고 명령했다.",
+      "mini_headline": "DHS, 기관서 DeepSeek 퇴출",
       "tool": "Politics",
-      "source": "European Commission (Shaping Europe's digital future)",
-      "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+      "source": "The Register",
+      "url": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
       "accent": "#3b6bff",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "유럽연합 집행위원회가 AI Act 이행을 뒷받침할 첫 조화표준의 참조 정보를 EU 관보(Official Journal of the European Union)에 실었다."
-          },
-          {
             "t": "img",
-            "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
-            "cap": "판사의 의사봉 옆에서 \"AI ACT\"라고 적힌 문서를 가리키는 사람 일러스트."
+            "src": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
           },
           {
             "t": "p",
-            "x": "이 표준 'EN 18286:2026 – Quality management system for EU AI Act regulatory purposes'는 CEN과 CENELEC이 만들었다. 고위험 AI 시스템 제공자는 이 표준으로 Article 17(제17조)의 품질경영시스템 요건을 충족할 법적 경로를 얻는다."
+            "x": "미국(US) 국토안보부(DHS)는 월요일 연방 민간 기관에 중국 AI 연구소 DeepSeek의 기술 제품을 쓰지 말고 이미 들인 것도 걷어내라고 명령했다. 대상은 \"모든 DeepSeek 및 DeepSeek-affiliate 제품, 그리고 DeepSeek 구현을 활용해 개발된 제삼자 제품과 서비스\"다."
           },
           {
             "t": "p",
-            "x": "집행위원회 시행결정 (EU) 2026/2274로 공표된 이 표준을 적용하면, 제공자는 표준이 다루는 Article 17 요건에 대해 적합성 추정을 받는다. 이런 추정 효력이 있는 AI QMS 표준은 이것뿐이다. AI 시스템 수명주기를 축으로 짜였고, ISO/IEC 42001, ISO 9001, ISO 13485 같은 표준을 대체하지 않고 그 위에 덧붙이도록 설계됐다."
+            "x": "The Register는 지키기가 까다로울 수 있다고 짚었다. \"developed using\"(활용해 개발된)의 범위가 분명하지 않은 데다, OpenRouter나 Vercel AI Gateway 같은 AI 게이트웨이가 기관도 모르게 DeepSeek 모델로 요청을 넘길 수 있어서다. DHS는 논평 요청에 바로 답하지 않았다."
           },
           {
             "t": "p",
-            "x": "집행위원회는 고위험 AI 시스템 요건 적용을 앞두고 중요한 이정표라고 평가했다. 추가 조화표준도 뒤따를 예정이다."
+            "x": "2025년 초 DeepSeek-R1이 나온 뒤 의원들은 데이터 우려를 들어 DeepSeek를 국가안보 위협으로 꼽아 왔다. DISA, 해군(Navy), NASA, 하원(House)과 여러 주는 이미 사용을 막았다."
+          },
+          {
+            "t": "p",
+            "x": "Luta Security CEO Katie Moussouris는 DeepSeek 앱과 서버를 정부 시스템에서 뺄 정당한 이유는 있다고 말했다. 하지만 제삼자 조항은 실제로 검증하기 어렵고, 모델의 US-hosted(미국 내 호스팅) 버전까지 넣는 건 지나치다고 했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "First AI Act standard lands\nin the EU Official Journal",
-          "body": "The Commission published the reference to the first harmonised AI Act standard, EN 18286, ahead of high-risk rules.",
-          "mini_headline": "First AI Act standard published",
+          "headline": "DHS orders agencies to\nremove all DeepSeek tools",
+          "body": "DHS ordered federal civilian agencies to remove DeepSeek products, including third-party services built on DeepSeek.",
+          "mini_headline": "DHS pulls DeepSeek from agencies",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union."
-              },
-              {
                 "t": "img",
-                "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
-                "cap": "Illustration of a person pointing to a document titled \"AI ACT\" next to a judge's gavel."
+                "src": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "The standard, EN 18286:2026 – Quality management system for EU AI Act regulatory purposes, developed by CEN and CENELEC, gives providers of high-risk AI systems a legal pathway to meet the quality management system requirements of Article 17."
+                "x": "The US Department of Homeland Security on Monday ordered federal civilian agencies not to use technology products from Chinese AI lab DeepSeek and to remove existing implementations. The order covers \"all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations.\""
               },
               {
                 "t": "p",
-                "x": "Published through Commission Implementing Decision (EU) 2026/2274, it grants providers that implement it a presumption of conformity with the Article 17 requirements it covers. It is the only AI QMS standard with that presumption, is built around the AI system lifecycle, and is designed to layer on top of standards such as ISO/IEC 42001, ISO 9001 or ISO 13485 rather than replace them."
+                "x": "The Register says compliance may be tricky: it is unclear what \"developed using\" means, and AI gateways such as OpenRouter or Vercel AI Gateway could route agencies to DeepSeek models without their knowing. DHS did not immediately respond to a request for comment."
               },
               {
                 "t": "p",
-                "x": "The Commission calls it an important milestone ahead of the application of requirements for high-risk AI systems, with further harmonised standards expected to follow."
+                "x": "Lawmakers have characterised DeepSeek as a national security threat over data concerns since DeepSeek-R1 launched in early 2025; DISA, the Navy, NASA, the House and several states already blocked it."
+              },
+              {
+                "t": "p",
+                "x": "Luta Security CEO Katie Moussouris said there are legitimate reasons to keep DeepSeek's app and servers off government systems, but called the third-party clause impractical to verify and said covering US-hosted versions of the models goes too far."
               }
             ]
           }
         },
         "ko": {
-          "headline": "첫 AI Act 표준\nEU 관보에 실렸다",
-          "body": "고위험 규정을 앞두고 집행위가 첫 AI Act 표준 EN 18286을 내놓았다.",
-          "mini_headline": "첫 AI Act 표준 공표",
+          "headline": "DHS, 연방기관에\nDeepSeek 전면 퇴출",
+          "body": "DHS가 DeepSeek 기반 외부 서비스까지 연방기관에서 걷어내라고 명령했다.",
+          "mini_headline": "DHS, 기관서 DeepSeek 퇴출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "유럽연합 집행위원회가 AI Act 이행을 뒷받침할 첫 조화표준의 참조 정보를 EU 관보(Official Journal of the European Union)에 실었다."
-              },
-              {
                 "t": "img",
-                "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
-                "cap": "판사의 의사봉 옆에서 \"AI ACT\"라고 적힌 문서를 가리키는 사람 일러스트."
+                "src": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "이 표준 'EN 18286:2026 – Quality management system for EU AI Act regulatory purposes'는 CEN과 CENELEC이 만들었다. 고위험 AI 시스템 제공자는 이 표준으로 Article 17(제17조)의 품질경영시스템 요건을 충족할 법적 경로를 얻는다."
+                "x": "미국(US) 국토안보부(DHS)는 월요일 연방 민간 기관에 중국 AI 연구소 DeepSeek의 기술 제품을 쓰지 말고 이미 들인 것도 걷어내라고 명령했다. 대상은 \"모든 DeepSeek 및 DeepSeek-affiliate 제품, 그리고 DeepSeek 구현을 활용해 개발된 제삼자 제품과 서비스\"다."
               },
               {
                 "t": "p",
-                "x": "집행위원회 시행결정 (EU) 2026/2274로 공표된 이 표준을 적용하면, 제공자는 표준이 다루는 Article 17 요건에 대해 적합성 추정을 받는다. 이런 추정 효력이 있는 AI QMS 표준은 이것뿐이다. AI 시스템 수명주기를 축으로 짜였고, ISO/IEC 42001, ISO 9001, ISO 13485 같은 표준을 대체하지 않고 그 위에 덧붙이도록 설계됐다."
+                "x": "The Register는 지키기가 까다로울 수 있다고 짚었다. \"developed using\"(활용해 개발된)의 범위가 분명하지 않은 데다, OpenRouter나 Vercel AI Gateway 같은 AI 게이트웨이가 기관도 모르게 DeepSeek 모델로 요청을 넘길 수 있어서다. DHS는 논평 요청에 바로 답하지 않았다."
               },
               {
                 "t": "p",
-                "x": "집행위원회는 고위험 AI 시스템 요건 적용을 앞두고 중요한 이정표라고 평가했다. 추가 조화표준도 뒤따를 예정이다."
+                "x": "2025년 초 DeepSeek-R1이 나온 뒤 의원들은 데이터 우려를 들어 DeepSeek를 국가안보 위협으로 꼽아 왔다. DISA, 해군(Navy), NASA, 하원(House)과 여러 주는 이미 사용을 막았다."
+              },
+              {
+                "t": "p",
+                "x": "Luta Security CEO Katie Moussouris는 DeepSeek 앱과 서버를 정부 시스템에서 뺄 정당한 이유는 있다고 말했다. 하지만 제삼자 조항은 실제로 검증하기 어렵고, 모델의 US-hosted(미국 내 호스팅) 버전까지 넣는 건 지나치다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "初のAI Act規格\nEU官報に掲載",
-          "body": "欧州委員会は高リスク規則に先立ち、初のAI Act整合規格EN 18286を公表した。",
-          "mini_headline": "初のAI Act規格を公表",
+          "headline": "DHS、連邦機関に\nDeepSeek全面排除",
+          "body": "DHSは連邦文民機関に、DeepSeek製品とそれを基にした外部サービスの排除を命じた。",
+          "mini_headline": "DHS、機関からDeepSeek排除",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "欧州委員会は、AI Actの実施を支える初の整合規格の参照情報を、EU官報(Official Journal of the European Union)に掲載した。"
-              },
-              {
                 "t": "img",
-                "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
-                "cap": "裁判官の小槌の横で\"AI ACT\"と題された文書を指さす人物のイラスト。"
+                "src": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "CENとCENELECが策定した規格「EN 18286:2026 – Quality management system for EU AI Act regulatory purposes」は、高リスクAIシステムの提供者がArticle 17(第17条)の品質マネジメントシステム要件を満たすための法的な道筋となる。"
+                "x": "米国(US)国土安全保障省(DHS)は月曜日、連邦文民機関に対し、中国のAI研究所DeepSeekの技術製品を使用せず、既存の導入分も削除するよう命じた。対象は「すべてのDeepSeekおよびDeepSeek-affiliate製品、ならびにDeepSeekの実装を用いて開発された第三者の製品・サービス」である。"
               },
               {
                 "t": "p",
-                "x": "欧州委員会実施決定(EU) 2026/2274によって公示され、この規格を導入した提供者は、規格が対象とするArticle 17の要件への適合推定を受ける。この推定を伴う唯一のAI QMS規格であり、AIシステムのライフサイクルを軸に構成され、ISO/IEC 42001、ISO 9001、ISO 13485などの規格を置き換えるのではなく、その上に重ねて使うよう設計されている。"
+                "x": "The Registerは、順守は難しいかもしれないと指摘する。「developed using(用いて開発された)」が何を意味するのか不明確で、OpenRouterやVercel AI GatewayといったAIゲートウェイが、機関の知らないうちにDeepSeekのモデルへ接続させる可能性があるためだ。DHSはコメント要請にすぐには応じなかった。"
               },
               {
                 "t": "p",
-                "x": "欧州委員会はこれを、高リスクAIシステムへの要件適用を前にした重要な節目と位置づけており、今後さらなる整合規格が続く見通しだ。"
+                "x": "2025年初めにDeepSeek-R1が公開されて以来、議員らはデータ上の懸念からDeepSeekを国家安全保障上の脅威と位置づけてきた。DISA、海軍(Navy)、NASA、下院(House)、複数の州がすでに利用を禁じている。"
+              },
+              {
+                "t": "p",
+                "x": "Luta SecurityのCEO、Katie Moussouris氏は、DeepSeekのアプリやサーバーを政府システムから締め出す正当な理由はあるとしつつ、第三者条項は検証が現実的でなく、モデルのUS-hosted(米国内でホストされた)版まで対象にするのは行き過ぎだと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "首个AI Act标准\n登上EU官方公报",
-          "body": "欧盟委员会在高风险规则实施前，公布了首个AI Act协调标准EN 18286。",
-          "mini_headline": "首个AI Act标准发布",
+          "headline": "DHS下令联邦机构\n全面移除DeepSeek",
+          "body": "DHS下令联邦民事机构移除DeepSeek产品，包括基于DeepSeek的第三方服务。",
+          "mini_headline": "DHS从联邦机构清除DeepSeek",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "欧盟委员会已在《欧盟官方公报》(Official Journal of the European Union)上公布首个支持AI Act实施的协调标准的引用信息。"
-              },
-              {
                 "t": "img",
-                "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
-                "cap": "插图：一人指着标题为\"AI ACT\"的文件，旁边是法官的法槌。"
+                "src": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "该标准为EN 18286:2026 – Quality management system for EU AI Act regulatory purposes，由CEN和CENELEC制定，为高风险AI系统提供者满足Article 17（第17条）质量管理体系要求提供了法律路径。"
+                "x": "美国（US）国土安全部（DHS）周一下令联邦民事机构不得使用中国AI实验室DeepSeek的技术产品，并移除现有部署。命令涵盖\"所有DeepSeek及DeepSeek-affiliate（关联）产品，以及使用DeepSeek实现开发的第三方产品和服务\"。"
               },
               {
                 "t": "p",
-                "x": "该标准通过欧盟委员会实施决定(EU) 2026/2274发布，实施该标准的提供者可就其涵盖的Article 17要求获得合规推定。它是唯一具有这一推定效力的AI QMS标准，围绕AI系统生命周期构建，旨在叠加于ISO/IEC 42001、ISO 9001或ISO 13485等标准之上，而非取而代之。"
+                "x": "The Register指出，合规可能并不容易：\"developed using\"（使用……开发）的含义尚不明确，而OpenRouter或Vercel AI Gateway等AI网关可能在机构不知情的情况下将其路由至DeepSeek模型。DHS未立即回应置评请求。"
               },
               {
                 "t": "p",
-                "x": "欧盟委员会称，这是高风险AI系统要求开始适用前的重要里程碑，后续还将有更多协调标准出台。"
+                "x": "自DeepSeek-R1于2025年初发布以来，议员们一直以数据隐患为由将DeepSeek定性为国家安全威胁；DISA、海军（Navy）、NASA、众议院（House）和多个州已将其封禁。"
+              },
+              {
+                "t": "p",
+                "x": "Luta Security首席执行官（CEO）Katie Moussouris表示，将DeepSeek的应用和服务器挡在政府系统之外有正当理由，但第三方条款难以切实核查，而把模型的US-hosted（美国托管）版本也纳入其中则走得太远。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Primera norma de la AI Act\nllega al Diario Oficial de la UE",
-          "body": "La Comisión publicó la primera norma armonizada de la AI Act, EN 18286, antes de las reglas de alto riesgo.",
-          "mini_headline": "Publicada la primera norma de la AI Act",
+          "headline": "DHS ordena a las agencias\nretirar todo DeepSeek",
+          "body": "El DHS ordenó a las agencias federales retirar los productos de DeepSeek, incluidos servicios de terceros.",
+          "mini_headline": "El DHS retira DeepSeek de las agencias",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La Comisión Europea ha publicado en el Diario Oficial de la Unión Europea la referencia a la primera norma armonizada que respalda la aplicación de la AI Act."
-              },
-              {
                 "t": "img",
-                "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
-                "cap": "Ilustración de una persona que señala un documento titulado \"AI ACT\" junto al mazo de un juez."
+                "src": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "La norma, EN 18286:2026 – Quality management system for EU AI Act regulatory purposes, elaborada por CEN y CENELEC, ofrece a los proveedores de sistemas de IA de alto riesgo una vía legal para cumplir los requisitos del sistema de gestión de la calidad del Article 17 (artículo 17)."
+                "x": "El Departamento de Seguridad Nacional de EE. UU. (US Department of Homeland Security, DHS) ordenó el lunes a las agencias civiles federales no usar productos tecnológicos del laboratorio chino de inteligencia artificial (AI) DeepSeek y retirar las implementaciones existentes. La orden abarca \"todos los productos de DeepSeek y DeepSeek-affiliate, y los productos y servicios de terceros desarrollados con implementaciones de DeepSeek\"."
               },
               {
                 "t": "p",
-                "x": "Publicada mediante la Decisión de Ejecución (EU) 2026/2274 de la Comisión, otorga a los proveedores que la aplican una presunción de conformidad con los requisitos del Article 17 que abarca. Es la única norma AI QMS con esa presunción, se articula en torno al ciclo de vida del sistema de IA y está diseñada para superponerse a normas como ISO/IEC 42001, ISO 9001 o ISO 13485, no para sustituirlas."
+                "x": "The Register señala que el cumplimiento puede ser complicado: no está claro qué significa \"developed using\" (desarrollado con), y pasarelas de AI como OpenRouter o Vercel AI Gateway podrían dirigir a las agencias hacia modelos de DeepSeek sin que lo sepan. El DHS no respondió de inmediato a una solicitud de comentarios."
               },
               {
                 "t": "p",
-                "x": "La Comisión lo califica de hito importante ante la aplicación de los requisitos para sistemas de IA de alto riesgo, y se prevé que lleguen más normas armonizadas."
+                "x": "Desde el lanzamiento de DeepSeek-R1 a principios de 2025, los legisladores han calificado a DeepSeek de amenaza para la seguridad nacional por preocupaciones sobre los datos; DISA, la Marina (Navy), NASA, la Cámara de Representantes (House) y varios estados ya lo han bloqueado."
+              },
+              {
+                "t": "p",
+                "x": "Katie Moussouris, CEO de Luta Security, afirmó que hay razones legítimas para mantener la app y los servidores de DeepSeek fuera de los sistemas del gobierno, pero calificó la cláusula de terceros de imposible de verificar en la práctica y dijo que incluir las versiones US-hosted (alojadas en EE. UU.) de los modelos va demasiado lejos."
               }
             ]
           }
@@ -199,125 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "첫 AI Act 표준\nEU 관보에 실렸다",
-          "body": "집행위는 고위험 규정에 앞서 첫 AI Act 표준 EN 18286을 공표했다.",
-          "mini_headline": "첫 AI Act 표준 공표",
+          "headline": "DHS, 연방기관에\nDeepSeek 전면 퇴출",
+          "body": "DHS는 DeepSeek 기반 외부 서비스까지 연방기관에서 없애라고 명령했다.",
+          "mini_headline": "DHS, 기관서 DeepSeek 퇴출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "유럽연합 집행위원회가 AI Act 이행을 뒷받침하는 첫 조화표준의 참조 정보를 EU 관보(Official Journal of the European Union)에 게재했다."
-              },
-              {
                 "t": "img",
-                "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
-                "cap": "판사의 의사봉 옆에서 \"AI ACT\"라는 제목의 문서를 가리키는 사람을 그린 일러스트."
+                "src": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "CEN과 CENELEC이 개발한 이 표준 'EN 18286:2026 – Quality management system for EU AI Act regulatory purposes'는 고위험 AI 시스템 제공자가 Article 17(제17조)의 품질경영시스템 요건을 충족할 수 있는 법적 경로를 제공한다."
+                "x": "미국(US) 국토안보부(DHS)는 월요일 연방 민간 기관에 중국 AI 연구소 DeepSeek의 기술 제품을 쓰지 말고 기존에 도입한 것도 제거하라고 명령했다. 명령 대상은 \"모든 DeepSeek 및 DeepSeek-affiliate 제품, 그리고 DeepSeek 구현을 활용해 개발된 제삼자 제품과 서비스\"다."
               },
               {
                 "t": "p",
-                "x": "집행위원회 시행결정 (EU) 2026/2274를 통해 공표된 이 표준을 적용하는 제공자는 표준이 다루는 Article 17 요건에 대해 적합성 추정을 받는다. 이런 추정 효력을 지닌 유일한 AI QMS 표준으로, AI 시스템 수명주기를 중심으로 짜였으며 ISO/IEC 42001, ISO 9001, ISO 13485 같은 표준을 대체하지 않고 그 위에 덧붙이도록 설계됐다."
+                "x": "The Register는 준수가 까다로울 수 있다고 지적한다. \"developed using\"(활용해 개발된)이 무엇을 뜻하는지 분명하지 않고, OpenRouter나 Vercel AI Gateway 같은 AI 게이트웨이가 기관도 모르는 사이 DeepSeek 모델로 요청을 보낼 수 있기 때문이다. DHS는 논평 요청에 즉시 답하지 않았다."
               },
               {
                 "t": "p",
-                "x": "집행위원회는 고위험 AI 시스템 요건 적용을 앞둔 중요한 이정표라고 평가했으며, 추가 조화표준도 뒤따를 예정이다."
+                "x": "2025년 초 DeepSeek-R1 출시 이후 의원들은 데이터 우려를 들어 DeepSeek를 국가안보 위협으로 규정해 왔다. DISA, 해군(Navy), NASA, 하원(House)과 여러 주가 이미 사용을 차단했다."
+              },
+              {
+                "t": "p",
+                "x": "Luta Security CEO Katie Moussouris는 DeepSeek 앱과 서버를 정부 시스템에서 배제할 정당한 이유는 있다고 말했다. 다만 제삼자 조항은 현실적으로 검증하기 어렵고, 모델의 US-hosted(미국 내 호스팅) 버전까지 포함하는 것은 지나치다고 했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "初のAI Act規格\nEU官報に掲載",
-          "body": "欧州委員会は高リスク規則に先立ち、初のAI Act整合規格EN 18286を公表した。",
-          "mini_headline": "初のAI Act規格を公表",
+          "headline": "DHS、連邦機関に\nDeepSeek全面排除",
+          "body": "DHSは連邦文民機関に、DeepSeek製品とそれを基にした外部サービスの排除を命じた。",
+          "mini_headline": "DHS、機関からDeepSeek排除",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "欧州委員会は、AI Actの実施を支える初の整合規格の参照情報を、EU官報(Official Journal of the European Union)に掲載した。"
-              },
-              {
                 "t": "img",
-                "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
-                "cap": "裁判官の小槌の横で\"AI ACT\"と題された文書を指さす人物のイラスト。"
+                "src": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "CENとCENELECが策定した規格「EN 18286:2026 – Quality management system for EU AI Act regulatory purposes」は、高リスクAIシステムの提供者がArticle 17(第17条)の品質マネジメントシステム要件を満たすための法的な道筋となる。"
+                "x": "米国(US)国土安全保障省(DHS)は月曜日、連邦文民機関に対し、中国のAI研究所DeepSeekの技術製品を使用せず、既存の導入分も削除するよう命じた。対象は「すべてのDeepSeekおよびDeepSeek-affiliate製品、ならびにDeepSeekの実装を用いて開発された第三者の製品・サービス」である。"
               },
               {
                 "t": "p",
-                "x": "欧州委員会実施決定(EU) 2026/2274によって公示され、この規格を導入した提供者は、規格が対象とするArticle 17の要件への適合推定を受ける。この推定を伴う唯一のAI QMS規格であり、AIシステムのライフサイクルを軸に構成され、ISO/IEC 42001、ISO 9001、ISO 13485などの規格を置き換えるのではなく、その上に重ねて使うよう設計されている。"
+                "x": "The Registerは、順守は難しいかもしれないと指摘する。「developed using(用いて開発された)」が何を意味するのか不明確で、OpenRouterやVercel AI GatewayといったAIゲートウェイが、機関の知らないうちにDeepSeekのモデルへ接続させる可能性があるためだ。DHSはコメント要請にすぐには応じなかった。"
               },
               {
                 "t": "p",
-                "x": "欧州委員会はこれを、高リスクAIシステムへの要件適用を前にした重要な節目と位置づけており、今後さらなる整合規格が続く見通しだ。"
+                "x": "2025年初めにDeepSeek-R1が公開されて以来、議員らはデータ上の懸念からDeepSeekを国家安全保障上の脅威と位置づけてきた。DISA、海軍(Navy)、NASA、下院(House)、複数の州がすでに利用を禁じている。"
+              },
+              {
+                "t": "p",
+                "x": "Luta SecurityのCEO、Katie Moussouris氏は、DeepSeekのアプリやサーバーを政府システムから締め出す正当な理由はあるとしつつ、第三者条項は検証が現実的でなく、モデルのUS-hosted(米国内でホストされた)版まで対象にするのは行き過ぎだと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "首个AI Act标准\n登上EU官方公报",
-          "body": "欧盟委员会在高风险规则实施前，公布了首个AI Act协调标准EN 18286。",
-          "mini_headline": "首个AI Act标准发布",
+          "headline": "DHS下令联邦机构\n全面移除DeepSeek",
+          "body": "DHS下令联邦民事机构移除DeepSeek产品，包括基于DeepSeek的第三方服务。",
+          "mini_headline": "DHS从联邦机构清除DeepSeek",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "欧盟委员会已在《欧盟官方公报》(Official Journal of the European Union)上公布首个支持AI Act实施的协调标准的引用信息。"
-              },
-              {
                 "t": "img",
-                "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
-                "cap": "插图：一人指着标题为\"AI ACT\"的文件，旁边是法官的法槌。"
+                "src": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "该标准为EN 18286:2026 – Quality management system for EU AI Act regulatory purposes，由CEN和CENELEC制定，为高风险AI系统提供者满足Article 17（第17条）质量管理体系要求提供了法律路径。"
+                "x": "美国（US）国土安全部（DHS）周一下令联邦民事机构不得使用中国AI实验室DeepSeek的技术产品，并移除现有部署。命令涵盖\"所有DeepSeek及DeepSeek-affiliate（关联）产品，以及使用DeepSeek实现开发的第三方产品和服务\"。"
               },
               {
                 "t": "p",
-                "x": "该标准通过欧盟委员会实施决定(EU) 2026/2274发布，实施该标准的提供者可就其涵盖的Article 17要求获得合规推定。它是唯一具有这一推定效力的AI QMS标准，围绕AI系统生命周期构建，旨在叠加于ISO/IEC 42001、ISO 9001或ISO 13485等标准之上，而非取而代之。"
+                "x": "The Register指出，合规可能并不容易：\"developed using\"（使用……开发）的含义尚不明确，而OpenRouter或Vercel AI Gateway等AI网关可能在机构不知情的情况下将其路由至DeepSeek模型。DHS未立即回应置评请求。"
               },
               {
                 "t": "p",
-                "x": "欧盟委员会称，这是高风险AI系统要求开始适用前的重要里程碑，后续还将有更多协调标准出台。"
+                "x": "自DeepSeek-R1于2025年初发布以来，议员们一直以数据隐患为由将DeepSeek定性为国家安全威胁；DISA、海军（Navy）、NASA、众议院（House）和多个州已将其封禁。"
+              },
+              {
+                "t": "p",
+                "x": "Luta Security首席执行官（CEO）Katie Moussouris表示，将DeepSeek的应用和服务器挡在政府系统之外有正当理由，但第三方条款难以切实核查，而把模型的US-hosted（美国托管）版本也纳入其中则走得太远。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Primera norma de la AI Act\nllega al Diario Oficial de la UE",
-          "body": "La Comisión publicó la primera norma armonizada de la AI Act, EN 18286, antes de las reglas de alto riesgo.",
-          "mini_headline": "Publicada la primera norma de la AI Act",
+          "headline": "DHS ordena a las agencias\nretirar todo DeepSeek",
+          "body": "El DHS ordenó a las agencias federales retirar los productos de DeepSeek, incluidos servicios de terceros.",
+          "mini_headline": "El DHS retira DeepSeek de las agencias",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La Comisión Europea ha publicado en el Diario Oficial de la Unión Europea la referencia a la primera norma armonizada que respalda la aplicación de la AI Act."
-              },
-              {
                 "t": "img",
-                "src": "https://digital-strategy.ec.europa.eu/sites/default/files/styles/newsroom_large/public/newsroom/items/AI_card_AIActSD1_AIZSH7DzIjLeL69ePWUJYp634iE_249168.jpg?itok=Y_NoktB4",
-                "cap": "Ilustración de una persona que señala un documento titulado \"AI ACT\" junto al mazo de un juez."
+                "src": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "La norma, EN 18286:2026 – Quality management system for EU AI Act regulatory purposes, elaborada por CEN y CENELEC, ofrece a los proveedores de sistemas de IA de alto riesgo una vía legal para cumplir los requisitos del sistema de gestión de la calidad del Article 17 (artículo 17)."
+                "x": "El Departamento de Seguridad Nacional de EE. UU. (US Department of Homeland Security, DHS) ordenó el lunes a las agencias civiles federales no usar productos tecnológicos del laboratorio chino de inteligencia artificial (AI) DeepSeek y retirar las implementaciones existentes. La orden abarca \"todos los productos de DeepSeek y DeepSeek-affiliate, y los productos y servicios de terceros desarrollados con implementaciones de DeepSeek\"."
               },
               {
                 "t": "p",
-                "x": "Publicada mediante la Decisión de Ejecución (EU) 2026/2274 de la Comisión, otorga a los proveedores que la aplican una presunción de conformidad con los requisitos del Article 17 que abarca. Es la única norma AI QMS con esa presunción, se articula en torno al ciclo de vida del sistema de IA y está diseñada para superponerse a normas como ISO/IEC 42001, ISO 9001 o ISO 13485, no para sustituirlas."
+                "x": "The Register señala que el cumplimiento puede ser complicado: no está claro qué significa \"developed using\" (desarrollado con), y pasarelas de AI como OpenRouter o Vercel AI Gateway podrían dirigir a las agencias hacia modelos de DeepSeek sin que lo sepan. El DHS no respondió de inmediato a una solicitud de comentarios."
               },
               {
                 "t": "p",
-                "x": "La Comisión lo califica de hito importante ante la aplicación de los requisitos para sistemas de IA de alto riesgo, y se prevé que lleguen más normas armonizadas."
+                "x": "Desde el lanzamiento de DeepSeek-R1 a principios de 2025, los legisladores han calificado a DeepSeek de amenaza para la seguridad nacional por preocupaciones sobre los datos; DISA, la Marina (Navy), NASA, la Cámara de Representantes (House) y varios estados ya lo han bloqueado."
+              },
+              {
+                "t": "p",
+                "x": "Katie Moussouris, CEO de Luta Security, afirmó que hay razones legítimas para mantener la app y los servidores de DeepSeek fuera de los sistemas del gobierno, pero calificó la cláusula de terceros de imposible de verificar en la práctica y dijo que incluir las versiones US-hosted (alojadas en EE. UU.) de los modelos va demasiado lejos."
               }
             ]
           }
@@ -325,15 +315,15 @@
       }
     },
     {
-      "id": "politics-taiwan-server-exports",
+      "id": "politics-democrats-letter-25-firms-election-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "대만, 중국행 AI 서버\n불법 수출 징역형 추진",
-      "body": "Bloomberg에 따르면 대만은 AI 서버 밀수에 최대 징역 다섯 해를 매긴다.",
-      "mini_headline": "대만, AI 서버 수출 통제",
+      "headline": "민주당, 테크기업 25곳에\nAI 선거 안전장치 압박",
+      "body": "민주당 의원 넷이 OpenAI·Meta 등 25개사에 AI 투표 오류를 경고했다.",
+      "mini_headline": "민주당, AI 투표 정보로 기업 압박",
       "tool": "Politics",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/semiconductors/taiwan-targets-illicit-ai-server-exports-to-china-with-five-year-prison-terms-strict-new-controls-follow-us-tariff-deal-and-super-micro-raid",
+      "source": "Nextgov/FCW",
+      "url": "https://www.nextgov.com/cybersecurity/2026/10/democrats-warn-tech-firms-election-security-backsliding-ahead-midterms/416701/",
       "accent": "#0070f3",
       "motif": "cube",
       "full": {
@@ -341,179 +331,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
-            "cap": "타이베이 중정기념공원(Chiang Kai-shek Memorial Park) (이미지 제공: Jowi Morales/Tom's Hardware)"
+            "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
           },
           {
             "t": "p",
-            "x": "대만이 미국(U.S.)의 무역 금지 조치에 발맞춰 AI 서버와 최신 칩을 수출 통제 품목에 넣는다. Bloomberg에 따르면 통제가 시행되면 밀수범은 대외무역법(Foreign Trade Act)으로 형사 처벌을 받고, 최대 다섯 해의 징역 및/또는 약 $92,500의 벌금에 처해질 수 있다."
+            "x": "정보위원회와 선거 감독 위원회의 민주당 최고위 인사인 상원의원(Sens.) 마크 워너(Mark Warner)·알렉스 파디야(Alex Padilla)와 하원의원(Reps.) 짐 하임스(Jim Himes)·조 모렐(Joe Morelle)이 중간선거를 앞두고 Alphabet, Meta, Microsoft, OpenAI, TikTok 등 25개 기업 대표에게 서한을 보냈다."
           },
           {
             "t": "p",
-            "x": "“앞으로 통제 품목에 대한 일부 조치는 미국 조치와 맞춰질 것이다. 상호무역협정(Agreement on Reciprocal Trade)에서 상당한 약속을 했기 때문이다.” 쿵밍신(Kung Ming-hsin) 경제부 장관의 말이다. 이 협정으로 대만산 제품에 붙는 미국(U.S.) 관세는 15%로 낮아졌다."
+            "x": "이들은 \"안타깝게도 제품 오용으로부터 선거를 보호하겠다는 여러분의 약속 일부가 후퇴하고 있다는 우려스러운 징후가 있다\"고 썼다. 일부 AI 챗봇이 선거·투표 질문에서 \"용납할 수 없을 만큼 높은 오류율\"을 보인다는 지적도 담았다."
           },
           {
             "t": "p",
-            "x": "미국(U.S.)에서는 Super Micro 직원 세 명이 $2.5 billion 규모의 AI 서버를 밀수한 혐의로 기소됐고, 대만 당국은 Super Micro 타이베이 사무소를 압수수색해 아홉 명을 기소했다. 이번 조치는 그 뒤에 나왔다. 새 통제가 시행되기 전까지 대만에서 중국으로 AI 칩을 수출하는 건 범죄가 아니어서, 위반자는 다른 법으로 기소해야 한다."
+            "x": "서한은 투표 절차에 관한 \"명백히 거짓인\" 정보를 정치적 발언과 구분해 지우고, 선거 관리자에게 신고 도구를 주며, 독립 팩트체커를 쓰고, 연구자에게 데이터를 공개하라고 기업들에 요구한다."
           },
           {
             "t": "p",
-            "x": "Tom's Hardware는 이 조치가 워싱턴은 만족시키겠지만, 지난해 대만의 Huawei·SMIC 제재를 두고 타이베이를 비난한 베이징은 자극할 수 있다고 봤다."
+            "x": "트럼프(Trump) 행정부는 주로 검열을 이유로 외국 영향력·선거 허위정보에 대응하던 조직 여러 곳을 해체했다. 연방 기관들은 선거 보안 지원은 이어진다고 밝혔다. Nextgov/FCW는 업계 단체 TechNet과 CCIA에 논평을 요청했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Taiwan moves to jail illicit\nAI server exports to China",
-          "body": "Taiwan plans to put AI servers and top chips under export controls; smugglers could face up to five years in prison, Bloomberg reports.",
-          "mini_headline": "Taiwan targets AI server exports",
+          "headline": "Democrats press 25 tech firms\non AI election safeguards",
+          "body": "Four senior Democrats told 25 firms, including OpenAI and Meta, that AI chatbot errors on voting could mislead voters.",
+          "mini_headline": "Democrats press firms on AI vote info",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
-                "cap": "Chiang Kai-shek Memorial Park in Taipei (Image credit: Jowi Morales/Tom's Hardware)"
+                "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
               },
               {
                 "t": "p",
-                "x": "Taiwan is expanding its list of controlled exports to include AI servers and the latest chips to align with U.S. trade bans. Bloomberg reports that once the controls take effect, smugglers will be criminally charged under the Foreign Trade Act, which carries up to five years in prison and/or a fine of around $92,500."
+                "x": "Sens. Mark Warner and Alex Padilla and Reps. Jim Himes and Joe Morelle, the top Democrats on the intelligence and election oversight panels, wrote to the heads of 25 companies, including Alphabet, Meta, Microsoft, OpenAI and TikTok, ahead of the midterms."
               },
               {
                 "t": "p",
-                "x": "“Going forward, some of our measures on controlled items will correspond to American ones because we have made quite some commitments in the Agreement on Reciprocal Trade,” said Minister of Economic Affairs Kung Ming-hsin. That deal cut U.S. tariffs on Taiwanese goods to 15%."
+                "x": "\"Unfortunately, there are concerning signs of backsliding on some of your commitments to protecting elections from misuse of your products,\" they wrote. They also said some AI chatbots have \"an unacceptably high error rate\" on election and voting questions."
               },
               {
                 "t": "p",
-                "x": "The move follows a U.S. case accusing three Super Micro employees of smuggling $2.5 billion in AI servers, and a Taiwanese raid on Super Micro's Taipei offices that led to nine indictments. Until the new controls are enacted, Taiwan does not treat AI chip exports to China as a crime, so violators must be charged under other laws."
+                "x": "The letter asks firms to remove \"demonstrably false\" information about voting procedures while distinguishing it from political speech, give election officials reporting tools, use independent fact-checkers and open data to researchers."
               },
               {
                 "t": "p",
-                "x": "Tom's Hardware says the measure would likely please Washington but could provoke Beijing, which condemned Taipei over its Huawei and SMIC restrictions last year."
+                "x": "The Trump administration has dismantled several foreign-influence and election-disinformation hubs, largely on censorship grounds; federal agencies say election security support continues. Nextgov/FCW sought comment from industry groups TechNet and CCIA."
               }
             ]
           }
         },
         "ko": {
-          "headline": "대만, 중국행 AI 서버\n불법 수출 징역형 추진",
-          "body": "Bloomberg에 따르면 대만은 AI 서버 밀수에 최대 징역 다섯 해를 매긴다.",
-          "mini_headline": "대만, AI 서버 수출 통제",
+          "headline": "민주당, 테크기업 25곳에\nAI 선거 안전장치 압박",
+          "body": "민주당 의원 넷이 OpenAI·Meta 등 25개사에 AI 투표 오류를 경고했다.",
+          "mini_headline": "민주당, AI 투표 정보로 기업 압박",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
-                "cap": "타이베이 중정기념공원(Chiang Kai-shek Memorial Park) (이미지 제공: Jowi Morales/Tom's Hardware)"
+                "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
               },
               {
                 "t": "p",
-                "x": "대만이 미국(U.S.)의 무역 금지 조치에 발맞춰 AI 서버와 최신 칩을 수출 통제 품목에 넣는다. Bloomberg에 따르면 통제가 시행되면 밀수범은 대외무역법(Foreign Trade Act)으로 형사 처벌을 받고, 최대 다섯 해의 징역 및/또는 약 $92,500의 벌금에 처해질 수 있다."
+                "x": "정보위원회와 선거 감독 위원회의 민주당 최고위 인사인 상원의원(Sens.) 마크 워너(Mark Warner)·알렉스 파디야(Alex Padilla)와 하원의원(Reps.) 짐 하임스(Jim Himes)·조 모렐(Joe Morelle)이 중간선거를 앞두고 Alphabet, Meta, Microsoft, OpenAI, TikTok 등 25개 기업 대표에게 서한을 보냈다."
               },
               {
                 "t": "p",
-                "x": "“앞으로 통제 품목에 대한 일부 조치는 미국 조치와 맞춰질 것이다. 상호무역협정(Agreement on Reciprocal Trade)에서 상당한 약속을 했기 때문이다.” 쿵밍신(Kung Ming-hsin) 경제부 장관의 말이다. 이 협정으로 대만산 제품에 붙는 미국(U.S.) 관세는 15%로 낮아졌다."
+                "x": "이들은 \"안타깝게도 제품 오용으로부터 선거를 보호하겠다는 여러분의 약속 일부가 후퇴하고 있다는 우려스러운 징후가 있다\"고 썼다. 일부 AI 챗봇이 선거·투표 질문에서 \"용납할 수 없을 만큼 높은 오류율\"을 보인다는 지적도 담았다."
               },
               {
                 "t": "p",
-                "x": "미국(U.S.)에서는 Super Micro 직원 세 명이 $2.5 billion 규모의 AI 서버를 밀수한 혐의로 기소됐고, 대만 당국은 Super Micro 타이베이 사무소를 압수수색해 아홉 명을 기소했다. 이번 조치는 그 뒤에 나왔다. 새 통제가 시행되기 전까지 대만에서 중국으로 AI 칩을 수출하는 건 범죄가 아니어서, 위반자는 다른 법으로 기소해야 한다."
+                "x": "서한은 투표 절차에 관한 \"명백히 거짓인\" 정보를 정치적 발언과 구분해 지우고, 선거 관리자에게 신고 도구를 주며, 독립 팩트체커를 쓰고, 연구자에게 데이터를 공개하라고 기업들에 요구한다."
               },
               {
                 "t": "p",
-                "x": "Tom's Hardware는 이 조치가 워싱턴은 만족시키겠지만, 지난해 대만의 Huawei·SMIC 제재를 두고 타이베이를 비난한 베이징은 자극할 수 있다고 봤다."
+                "x": "트럼프(Trump) 행정부는 주로 검열을 이유로 외국 영향력·선거 허위정보에 대응하던 조직 여러 곳을 해체했다. 연방 기관들은 선거 보안 지원은 이어진다고 밝혔다. Nextgov/FCW는 업계 단체 TechNet과 CCIA에 논평을 요청했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "台湾、AIサーバーの\n対中不正輸出に懲役刑",
-          "body": "Bloombergによると台湾はAIサーバーを輸出規制し密輸に最長五年の懲役を科す方針だ。",
-          "mini_headline": "台湾、AIサーバー輸出を規制へ",
+          "headline": "民主党、テック25社に\nAI選挙対策を迫る",
+          "body": "民主党幹部四人がOpenAIやMetaなど25社に、AIの投票情報の誤りを警告した。",
+          "mini_headline": "民主党、AI投票情報で企業に圧力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
-                "cap": "台北の中正紀念公園(Chiang Kai-shek Memorial Park)(画像: Jowi Morales/Tom's Hardware)"
+                "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
               },
               {
                 "t": "p",
-                "x": "台湾は米国(U.S.)の貿易禁止措置に歩調を合わせ、輸出管理品目にAIサーバーと最新チップを加える。Bloombergによると、規制が発効すれば密輸者は対外貿易法(Foreign Trade Act)に基づき刑事訴追され、最長五年の懲役および/または約$92,500の罰金が科される。"
+                "x": "情報委員会と選挙監督委員会の民主党トップであるマーク・ワーナー(Mark Warner)、アレックス・パディヤ(Alex Padilla)両上院議員(Sens.)と、ジム・ハイムズ(Jim Himes)、ジョー・モレル(Joe Morelle)両下院議員(Reps.)は、中間選挙を前にAlphabet、Meta、Microsoft、OpenAI、TikTokなど25社のトップに書簡を送った。"
               },
               {
                 "t": "p",
-                "x": "「相互貿易協定(Agreement on Reciprocal Trade)でかなりの約束をしたため、今後、管理品目に関する措置の一部は米国のものに対応することになる」と、龔明鑫(Kung Ming-hsin)経済部長は述べた。この協定により、台湾製品に対する米国(U.S.)の関税は15%に引き下げられた。"
+                "x": "書簡には「残念ながら、製品の悪用から選挙を守るという皆さんの約束の一部について、後退の懸念すべき兆候がある」と記した。また、一部のAIチャットボットは選挙や投票に関する質問で「容認できないほど高い誤答率」を示しているとした。"
               },
               {
                 "t": "p",
-                "x": "今回の動きは、Super Microの社員三人が$2.5 billion相当のAIサーバーを密輸したとして米国(U.S.)で起訴された事件と、台湾当局がSuper Microの台北オフィスを捜索し九人の起訴につながった件に続くものだ。新たな規制が施行されるまで、台湾は中国へのAIチップ輸出を犯罪として扱っておらず、違反者は他の法律で起訴するしかない。"
+                "x": "書簡は各社に対し、投票手続きに関する「明らかに虚偽の」情報を政治的言論と区別したうえで削除すること、選挙管理当局に報告ツールを提供すること、独立したファクトチェッカーを活用すること、研究者にデータを開放することを求めている。"
               },
               {
                 "t": "p",
-                "x": "Tom's Hardwareは、この措置はワシントンを喜ばせる可能性が高い一方、昨年HuaweiとSMICへの規制をめぐって台北を非難した北京を刺激しかねないと指摘する。"
+                "x": "トランプ(Trump)政権は主に検閲を理由に、外国の影響工作や選挙偽情報に対応する拠点をいくつも解体した。連邦機関は選挙セキュリティ支援は続いていると説明する。Nextgov/FCWは業界団体のTechNetとCCIAにコメントを求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "台湾拟对非法出口\n中国AI服务器判刑",
-          "body": "据Bloomberg报道，台湾拟将AI服务器和顶级芯片纳入出口管制，走私者最高可判五年徒刑。",
-          "mini_headline": "台湾管制AI服务器出口",
+          "headline": "民主党人施压25家科技公司\n要求AI选举防护",
+          "body": "四名民主党资深议员警告OpenAI、Meta等25家公司，AI投票信息错误或误导选民。",
+          "mini_headline": "民主党就AI投票信息施压企业",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
-                "cap": "台北中正纪念公园(Chiang Kai-shek Memorial Park)（图片来源：Jowi Morales/Tom's Hardware）"
+                "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
               },
               {
                 "t": "p",
-                "x": "台湾正扩大出口管制清单，将AI服务器和最新芯片纳入其中，以配合美国(U.S.)的贸易禁令。据Bloomberg报道，管制生效后，走私者将依《对外贸易法》(Foreign Trade Act)被追究刑事责任，最高可判五年徒刑及/或约$92,500罚款。"
+                "x": "参议员(Sens.)Mark Warner和Alex Padilla，以及众议员(Reps.)Jim Himes和Joe Morelle是情报和选举监督委员会的民主党首席成员。他们在中期选举前致信Alphabet、Meta、Microsoft、OpenAI和TikTok等25家公司的负责人。"
               },
               {
                 "t": "p",
-                "x": "经济部长龚明鑫(Kung Ming-hsin)表示：“今后，我们对管制品项的部分措施将与美方对应，因为我们在《对等贸易协定》(Agreement on Reciprocal Trade)中作出了相当多的承诺。”该协定将美国(U.S.)对台湾商品的关税降至15%。"
+                "x": "他们写道：“遗憾的是，在保护选举免受你们产品滥用的部分承诺上，出现了令人担忧的倒退迹象。”他们还表示，一些AI聊天机器人在选举和投票问题上的“错误率高得不可接受”。"
               },
               {
                 "t": "p",
-                "x": "此前，美国(U.S.)一宗案件指控三名Super Micro员工走私价值$2.5 billion的AI服务器；台湾也搜查了Super Micro台北办公室，最终九人被起诉。在新管制生效前，台湾并不将向中国出口AI芯片视为犯罪，违规者只能依其他法律起诉。"
+                "x": "信中要求企业在与政治言论加以区分的前提下，删除有关投票程序的“明显虚假”信息，为选举官员提供举报工具，采用独立事实核查机构，并向研究人员开放数据。"
               },
               {
                 "t": "p",
-                "x": "Tom's Hardware认为，此举可能令华盛顿满意，但也可能激怒北京；去年北京曾因台湾对Huawei和SMIC的限制而谴责台北。"
+                "x": "Trump政府已主要以审查为由，撤销了多个应对外国影响和选举虚假信息的机构；联邦机构则表示，选举安全支持仍在继续。Nextgov/FCW已向行业团体TechNet和CCIA寻求置评。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Taiwán castigará con cárcel\nenvíos ilícitos de IA a China",
-          "body": "Según Bloomberg, Taiwán controlará la exportación de servidores de IA y chips punteros, con hasta cinco años de cárcel.",
-          "mini_headline": "Taiwán controla la exportación de servidores de IA",
+          "headline": "Demócratas exigen a 25 firmas\nsalvaguardas electorales de AI",
+          "body": "Cuatro demócratas advirtieron a 25 firmas, como OpenAI y Meta, que los chatbots de AI pueden confundir al votante.",
+          "mini_headline": "Demócratas presionan por la AI electoral",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
-                "cap": "Parque Conmemorativo Chiang Kai-shek en Taipéi (Imagen: Jowi Morales/Tom's Hardware)"
+                "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
               },
               {
                 "t": "p",
-                "x": "Taiwán amplía su lista de exportaciones controladas para incluir servidores de IA y los chips más recientes, en línea con las prohibiciones comerciales de Estados Unidos (U.S.). Según Bloomberg, cuando entren en vigor los controles, los contrabandistas serán acusados penalmente en virtud de la Ley de Comercio Exterior (Foreign Trade Act), que prevé hasta cinco años de prisión y/o una multa de alrededor de $92,500."
+                "x": "Los senadores (Sens.) Mark Warner y Alex Padilla y los representantes (Reps.) Jim Himes y Joe Morelle, principales demócratas de los comités de inteligencia y de supervisión electoral, escribieron a los responsables de 25 empresas, entre ellas Alphabet, Meta, Microsoft, OpenAI y TikTok, antes de las elecciones de medio mandato."
               },
               {
                 "t": "p",
-                "x": "“En adelante, algunas de nuestras medidas sobre artículos controlados se corresponderán con las estadounidenses, porque hemos asumido bastantes compromisos en el Acuerdo de Comercio Recíproco (Agreement on Reciprocal Trade)”, dijo el ministro de Asuntos Económicos, Kung Ming-hsin. Ese acuerdo redujo al 15% los aranceles de EE. UU. (U.S.) a los productos taiwaneses."
+                "x": "\"Lamentablemente, hay señales preocupantes de retroceso en algunos de sus compromisos de proteger las elecciones del mal uso de sus productos\", escribieron. También afirmaron que algunos chatbots de AI tienen \"una tasa de error inaceptablemente alta\" en preguntas sobre elecciones y votación."
               },
               {
                 "t": "p",
-                "x": "La medida llega tras un caso en EE. UU. (U.S.) que acusa a tres empleados de Super Micro de contrabandear servidores de IA por 2.5 mil millones de dólares ($2.5 billion), y un registro taiwanés de las oficinas de Super Micro en Taipéi que derivó en nueve acusaciones. Hasta que se aprueben los nuevos controles, Taiwán no considera delito exportar chips de IA a China, por lo que los infractores deben ser acusados en virtud de otras leyes."
+                "x": "La carta pide a las empresas retirar la información \"demostrablemente falsa\" sobre los procedimientos de votación, distinguiéndola del discurso político; dar herramientas de denuncia a los funcionarios electorales; recurrir a verificadores independientes y abrir sus datos a los investigadores."
               },
               {
                 "t": "p",
-                "x": "Tom's Hardware señala que la medida probablemente agradaría a Washington, pero podría provocar a Pekín, que el año pasado condenó a Taipéi por sus restricciones a Huawei y SMIC."
+                "x": "El gobierno de Trump ha desmantelado varios centros dedicados a la influencia extranjera y la desinformación electoral, en gran parte alegando censura; las agencias federales aseguran que el apoyo a la seguridad electoral continúa. Nextgov/FCW pidió comentarios a los grupos del sector TechNet y CCIA."
               }
             ]
           }
@@ -521,125 +505,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "대만, 중국행 AI 서버\n불법 수출 징역형 추진",
-          "body": "Bloomberg는 대만이 AI 서버 밀수에 최대 징역 다섯 해를 매긴다고 전했다.",
-          "mini_headline": "대만, AI 서버 수출 통제",
+          "headline": "민주당, 테크기업 25곳에\nAI 선거 안전장치 압박",
+          "body": "민주당 네 의원이 OpenAI·Meta 등 25개사에 AI 투표 오류를 경고했다.",
+          "mini_headline": "민주당, AI 투표 정보로 기업 압박",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
-                "cap": "타이베이 중정기념공원(Chiang Kai-shek Memorial Park) (이미지 제공: Jowi Morales/Tom's Hardware)"
+                "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
               },
               {
                 "t": "p",
-                "x": "대만이 미국(U.S.)의 무역 금지 조치에 발맞춰 수출 통제 품목에 AI 서버와 최신 칩을 추가한다. Bloomberg에 따르면 통제가 시행되면 밀수범은 대외무역법(Foreign Trade Act)에 따라 형사 처벌을 받으며, 최대 다섯 해의 징역 및/또는 약 $92,500의 벌금에 처해질 수 있다."
+                "x": "정보위원회와 선거 감독 위원회의 민주당 최고위 인사인 상원의원(Sens.) 마크 워너(Mark Warner)와 알렉스 파디야(Alex Padilla), 하원의원(Reps.) 짐 하임스(Jim Himes)와 조 모렐(Joe Morelle)은 중간선거를 앞두고 Alphabet, Meta, Microsoft, OpenAI, TikTok 등 25개 기업 대표에게 서한을 보냈다."
               },
               {
                 "t": "p",
-                "x": "“앞으로 통제 품목에 대한 일부 조치는 미국 조치와 맞춰질 것이다. 상호무역협정(Agreement on Reciprocal Trade)에서 상당한 약속을 했기 때문이다.” 쿵밍신(Kung Ming-hsin) 경제부 장관의 말이다. 이 협정으로 대만산 제품에 대한 미국(U.S.) 관세는 15%로 낮아졌다."
+                "x": "이들은 \"안타깝게도 제품 오용으로부터 선거를 보호하겠다는 여러분의 약속 일부가 후퇴하고 있다는 우려스러운 징후가 있다\"고 썼다. 또 일부 AI 챗봇이 선거·투표 질문에서 \"용납할 수 없을 만큼 높은 오류율\"을 보인다고 지적했다."
               },
               {
                 "t": "p",
-                "x": "이번 조치는 Super Micro 직원 세 명이 $2.5 billion 규모의 AI 서버를 밀수한 혐의로 기소된 미국(U.S.) 사건, 그리고 대만 당국이 Super Micro 타이베이 사무소를 압수수색해 아홉 명을 기소한 일에 뒤이은 것이다. 새 통제가 시행되기 전까지 대만은 중국으로의 AI 칩 수출을 범죄로 보지 않아, 위반자는 다른 법으로 기소해야 한다."
+                "x": "서한은 기업들에 투표 절차에 관한 \"명백히 거짓인\" 정보를 정치적 발언과 구분해 삭제하고, 선거 관리자에게 신고 도구를 제공하며, 독립 팩트체커를 활용하고, 연구자에게 데이터를 공개하라고 요구한다."
               },
               {
                 "t": "p",
-                "x": "Tom's Hardware는 이 조치가 워싱턴을 만족시키겠지만, 지난해 대만의 Huawei·SMIC 제재를 두고 타이베이를 비난한 베이징을 자극할 수 있다고 봤다."
+                "x": "트럼프(Trump) 행정부는 주로 검열을 이유로 외국 영향력·선거 허위정보 대응 조직 여러 곳을 해체했다. 연방 기관들은 선거 보안 지원이 계속된다고 밝혔다. Nextgov/FCW는 업계 단체 TechNet과 CCIA에 논평을 요청했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "台湾、AIサーバーの\n対中不正輸出に懲役刑",
-          "body": "Bloombergによると台湾はAIサーバーを輸出規制し密輸に最長五年の懲役を科す方針だ。",
-          "mini_headline": "台湾、AIサーバー輸出を規制へ",
+          "headline": "民主党、テック25社に\nAI選挙対策を迫る",
+          "body": "民主党幹部四人がOpenAIやMetaなど25社に、AIの投票情報の誤りを警告した。",
+          "mini_headline": "民主党、AI投票情報で企業に圧力",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
-                "cap": "台北の中正紀念公園(Chiang Kai-shek Memorial Park)(画像: Jowi Morales/Tom's Hardware)"
+                "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
               },
               {
                 "t": "p",
-                "x": "台湾は米国(U.S.)の貿易禁止措置に歩調を合わせ、輸出管理品目にAIサーバーと最新チップを加える。Bloombergによると、規制が発効すれば密輸者は対外貿易法(Foreign Trade Act)に基づき刑事訴追され、最長五年の懲役および/または約$92,500の罰金が科される。"
+                "x": "情報委員会と選挙監督委員会の民主党トップであるマーク・ワーナー(Mark Warner)、アレックス・パディヤ(Alex Padilla)両上院議員(Sens.)と、ジム・ハイムズ(Jim Himes)、ジョー・モレル(Joe Morelle)両下院議員(Reps.)は、中間選挙を前にAlphabet、Meta、Microsoft、OpenAI、TikTokなど25社のトップに書簡を送った。"
               },
               {
                 "t": "p",
-                "x": "「相互貿易協定(Agreement on Reciprocal Trade)でかなりの約束をしたため、今後、管理品目に関する措置の一部は米国のものに対応することになる」と、龔明鑫(Kung Ming-hsin)経済部長は述べた。この協定により、台湾製品に対する米国(U.S.)の関税は15%に引き下げられた。"
+                "x": "書簡には「残念ながら、製品の悪用から選挙を守るという皆さんの約束の一部について、後退の懸念すべき兆候がある」と記した。また、一部のAIチャットボットは選挙や投票に関する質問で「容認できないほど高い誤答率」を示しているとした。"
               },
               {
                 "t": "p",
-                "x": "今回の動きは、Super Microの社員三人が$2.5 billion相当のAIサーバーを密輸したとして米国(U.S.)で起訴された事件と、台湾当局がSuper Microの台北オフィスを捜索し九人の起訴につながった件に続くものだ。新たな規制が施行されるまで、台湾は中国へのAIチップ輸出を犯罪として扱っておらず、違反者は他の法律で起訴するしかない。"
+                "x": "書簡は各社に対し、投票手続きに関する「明らかに虚偽の」情報を政治的言論と区別したうえで削除すること、選挙管理当局に報告ツールを提供すること、独立したファクトチェッカーを活用すること、研究者にデータを開放することを求めている。"
               },
               {
                 "t": "p",
-                "x": "Tom's Hardwareは、この措置はワシントンを喜ばせる可能性が高い一方、昨年HuaweiとSMICへの規制をめぐって台北を非難した北京を刺激しかねないと指摘する。"
+                "x": "トランプ(Trump)政権は主に検閲を理由に、外国の影響工作や選挙偽情報に対応する拠点をいくつも解体した。連邦機関は選挙セキュリティ支援は続いていると説明する。Nextgov/FCWは業界団体のTechNetとCCIAにコメントを求めた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "台湾拟对非法出口\n中国AI服务器判刑",
-          "body": "据Bloomberg报道，台湾拟将AI服务器和顶级芯片纳入出口管制，走私者最高可判五年徒刑。",
-          "mini_headline": "台湾管制AI服务器出口",
+          "headline": "民主党人施压25家科技公司\n要求AI选举防护",
+          "body": "四名民主党资深议员警告OpenAI、Meta等25家公司，AI投票信息错误或误导选民。",
+          "mini_headline": "民主党就AI投票信息施压企业",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
-                "cap": "台北中正纪念公园(Chiang Kai-shek Memorial Park)（图片来源：Jowi Morales/Tom's Hardware）"
+                "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
               },
               {
                 "t": "p",
-                "x": "台湾正扩大出口管制清单，将AI服务器和最新芯片纳入其中，以配合美国(U.S.)的贸易禁令。据Bloomberg报道，管制生效后，走私者将依《对外贸易法》(Foreign Trade Act)被追究刑事责任，最高可判五年徒刑及/或约$92,500罚款。"
+                "x": "参议员(Sens.)Mark Warner和Alex Padilla，以及众议员(Reps.)Jim Himes和Joe Morelle是情报和选举监督委员会的民主党首席成员。他们在中期选举前致信Alphabet、Meta、Microsoft、OpenAI和TikTok等25家公司的负责人。"
               },
               {
                 "t": "p",
-                "x": "经济部长龚明鑫(Kung Ming-hsin)表示：“今后，我们对管制品项的部分措施将与美方对应，因为我们在《对等贸易协定》(Agreement on Reciprocal Trade)中作出了相当多的承诺。”该协定将美国(U.S.)对台湾商品的关税降至15%。"
+                "x": "他们写道：“遗憾的是，在保护选举免受你们产品滥用的部分承诺上，出现了令人担忧的倒退迹象。”他们还表示，一些AI聊天机器人在选举和投票问题上的“错误率高得不可接受”。"
               },
               {
                 "t": "p",
-                "x": "此前，美国(U.S.)一宗案件指控三名Super Micro员工走私价值$2.5 billion的AI服务器；台湾也搜查了Super Micro台北办公室，最终九人被起诉。在新管制生效前，台湾并不将向中国出口AI芯片视为犯罪，违规者只能依其他法律起诉。"
+                "x": "信中要求企业在与政治言论加以区分的前提下，删除有关投票程序的“明显虚假”信息，为选举官员提供举报工具，采用独立事实核查机构，并向研究人员开放数据。"
               },
               {
                 "t": "p",
-                "x": "Tom's Hardware认为，此举可能令华盛顿满意，但也可能激怒北京；去年北京曾因台湾对Huawei和SMIC的限制而谴责台北。"
+                "x": "Trump政府已主要以审查为由，撤销了多个应对外国影响和选举虚假信息的机构；联邦机构则表示，选举安全支持仍在继续。Nextgov/FCW已向行业团体TechNet和CCIA寻求置评。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Taiwán castigará con cárcel\nenvíos ilícitos de IA a China",
-          "body": "Según Bloomberg, Taiwán controlará la exportación de servidores de IA y chips punteros, con hasta cinco años de cárcel.",
-          "mini_headline": "Taiwán controla la exportación de servidores de IA",
+          "headline": "Demócratas exigen a 25 firmas\nsalvaguardas electorales de AI",
+          "body": "Cuatro demócratas advirtieron a 25 firmas, como OpenAI y Meta, que los chatbots de AI pueden confundir al votante.",
+          "mini_headline": "Demócratas presionan por la AI electoral",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/7SnFY4DF33SPY5kRM8YR2e.png",
-                "cap": "Parque Conmemorativo Chiang Kai-shek en Taipéi (Imagen: Jowi Morales/Tom's Hardware)"
+                "src": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/860x394.jpg?1792508411"
               },
               {
                 "t": "p",
-                "x": "Taiwán amplía su lista de exportaciones controladas para incluir servidores de IA y los chips más recientes, en línea con las prohibiciones comerciales de Estados Unidos (U.S.). Según Bloomberg, cuando entren en vigor los controles, los contrabandistas serán acusados penalmente en virtud de la Ley de Comercio Exterior (Foreign Trade Act), que prevé hasta cinco años de prisión y/o una multa de alrededor de $92,500."
+                "x": "Los senadores (Sens.) Mark Warner y Alex Padilla y los representantes (Reps.) Jim Himes y Joe Morelle, principales demócratas de los comités de inteligencia y de supervisión electoral, escribieron a los responsables de 25 empresas, entre ellas Alphabet, Meta, Microsoft, OpenAI y TikTok, antes de las elecciones de medio mandato."
               },
               {
                 "t": "p",
-                "x": "“En adelante, algunas de nuestras medidas sobre artículos controlados se corresponderán con las estadounidenses, porque hemos asumido bastantes compromisos en el Acuerdo de Comercio Recíproco (Agreement on Reciprocal Trade)”, dijo el ministro de Asuntos Económicos, Kung Ming-hsin. Ese acuerdo redujo al 15% los aranceles de EE. UU. (U.S.) a los productos taiwaneses."
+                "x": "\"Lamentablemente, hay señales preocupantes de retroceso en algunos de sus compromisos de proteger las elecciones del mal uso de sus productos\", escribieron. También afirmaron que algunos chatbots de AI tienen \"una tasa de error inaceptablemente alta\" en preguntas sobre elecciones y votación."
               },
               {
                 "t": "p",
-                "x": "La medida llega tras un caso en EE. UU. (U.S.) que acusa a tres empleados de Super Micro de contrabandear servidores de IA por 2.5 mil millones de dólares ($2.5 billion), y un registro taiwanés de las oficinas de Super Micro en Taipéi que derivó en nueve acusaciones. Hasta que se aprueben los nuevos controles, Taiwán no considera delito exportar chips de IA a China, por lo que los infractores deben ser acusados en virtud de otras leyes."
+                "x": "La carta pide a las empresas retirar la información \"demostrablemente falsa\" sobre los procedimientos de votación, distinguiéndola del discurso político; dar herramientas de denuncia a los funcionarios electorales; recurrir a verificadores independientes y abrir sus datos a los investigadores."
               },
               {
                 "t": "p",
-                "x": "Tom's Hardware señala que la medida probablemente agradaría a Washington, pero podría provocar a Pekín, que el año pasado condenó a Taipéi por sus restricciones a Huawei y SMIC."
+                "x": "El gobierno de Trump ha desmantelado varios centros dedicados a la influencia extranjera y la desinformación electoral, en gran parte alegando censura; las agencias federales aseguran que el apoyo a la seguridad electoral continúa. Nextgov/FCW pidió comentarios a los grupos del sector TechNet y CCIA."
               }
             ]
           }
@@ -647,141 +627,165 @@
       }
     },
     {
-      "id": "politics-uk-ai-sovereignty-letter",
+      "id": "politics-fca-ai-near-miss-reporting-speech",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "UK 자문 서한,\nAI 주도권 지킬 길",
-      "body": "과학기술위원회가 UK AI 장관에게 전략적 AI 선택권을 지킬 방안을 권고했다.",
-      "mini_headline": "UK의 AI 주권 서한",
+      "headline": "영국 규제당국, AI 실패\n아차사고까지 보고하라",
+      "body": "FCA Jessica Rusu가 연설에서 AI 실패·아차사고도 보고하라고 요구했다.",
+      "mini_headline": "FCA, AI 아차사고 기록 요구",
       "tool": "Politics",
-      "source": "GOV.UK",
-      "url": "https://www.gov.uk/government/publications/ai-sovereignty-preserving-uk-agency-in-an-ai-enabled-world",
+      "source": "The Register",
+      "url": "https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "정부 최고위 독립 과학기술 자문기구인 과학기술위원회(Council for Science and Technology, CST)가 2026년 7월 AI 장관(Minister for AI)에게 AI 주권에 관한 조언을 담아 보낸 서한이 10월 19일 공개됐다."
+            "t": "img",
+            "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
           },
           {
             "t": "p",
-            "x": "CST가 정의하는 AI 주권은 UK가 선택한 성과를 달성하고 경제적·공공적 가치를 확보하며 압박 속에서도 회복력을 유지할 만큼, AI 가치사슬 전반에서 충분한 주도권을 갖는 것이다. CST는 신중하고 시급한 조치가 없으면 UK가 “기술을 만들어 갈 수 있는 나라가 아니라, 고부가가치 AI 고객”이 될 위험이 있다고 경고한다."
+            "x": "Financial Conduct Authority의 최고 데이터·정보·인텔리전스 책임자 Jessica Rusu는 월요일 Bloomberg의 UK Policy Series 연설에서, 규제당국은 영국이 금융 서비스 분야의 안전한 AI 도입을 이끌기를 바란다면서도 자율성이 커질수록 책임 소재 역시 분명해야 한다고 했다."
           },
           {
             "t": "p",
-            "x": "서한의 권고는 4가지다. AI 생태계 지도를 바탕으로 UK AI Sovereignty Plan(UK AI 주권 계획)을 세워 공익을 위한 신속한 시범사업을 고를 것, 단일한 책임 주체를 둔 명확한 거버넌스를 마련할 것, 기술 역량·데이터·공공 신뢰에 지금 투자할 것, 선택된 UK 역량을 키우면서 선도 AI 모델에 대한 신뢰할 수 있는 접근을 유지할 것이다. 공익적 주권 기반 모델을 만들자는 Alan Turing Institute의 제안을 검토하는 일도 여기에 들어간다."
+            "x": "그는 \"우리 규정은 이미 기업에 주요 사고 보고를 요구하고 있으며, 이는 중대한 AI 실패와 아차사고(near-misses)로 확대돼야 한다\"고 말했다. 에이전트형 AI(agentic AI)의 아차사고 보고도 \"규제상의 우선순위\"라고 덧붙였다. 새 규칙이 아니라 연설에서 밝힌 기대 사항이다."
+          },
+          {
+            "t": "p",
+            "x": "영국(UK) AI 담당 장관 Kanishka Narayan은 지난주 정부가 중대 사고와 아차사고 보고를 포함해 제도 강화를 검토하겠다고 밝혔다. 다만 정부는 Cyber Security and Resilience Bill에 AI-specific(AI 특화) 조치를 넣겠다는 약속은 아직 하지 않았고, 관계자들은 의원(MPs)들에게 수정안을 계속 검토하고 있다고 전했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "UK advisory letter maps\nhow to keep AI agency",
-          "body": "An advisory letter from the Council for Science and Technology to the UK Minister for AI sets out how Britain can keep strategic AI choices.",
-          "mini_headline": "UK letter on AI sovereignty",
+          "headline": "UK regulator wants AI failures\nand near-misses reported",
+          "body": "In a speech, FCA data chief Jessica Rusu said firms should report significant AI failures and near-misses.",
+          "mini_headline": "FCA wants AI near-misses logged",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "In July 2026 the Council for Science and Technology (CST), the government's top-level independent science and technology advisory body, wrote to the Minister for AI with advice on AI sovereignty; the letter was published on 19 October."
+                "t": "img",
+                "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "CST defines AI sovereignty as having sufficient agency across the AI value chain to deliver the UK's chosen outcomes, capture economic and public value, and maintain resilience under duress. It warns that without deliberate and urgent action the UK risks becoming “a high-value AI customer, rather than a country able to shape the technology.”"
+                "x": "Speaking at Bloomberg's UK Policy Series on Monday, Financial Conduct Authority chief data, information and intelligence officer Jessica Rusu said the regulator wants Britain to lead safe AI adoption in financial services, but greater autonomy requires clear accountability."
               },
               {
                 "t": "p",
-                "x": "It makes 4 recommendations: develop a UK AI Sovereignty Plan based on a map of the AI ecosystem, used to pick rapid public-interest pilots; set up clear governance with a single accountable owner; invest now in skills, data and public trust; and maintain trusted access to leading AI models while building selected UK capability, including considering the Alan Turing Institute's proposal for a public-interest sovereign base model."
+                "x": "\"Our rules already require firms to report major incidents, and that must extend to significant AI failures and near-misses,\" she said, adding that near-miss reporting for agentic AI is \"a regulatory priority too.\" The remarks set out an expectation in a speech, not a new rule."
+              },
+              {
+                "t": "p",
+                "x": "UK AI minister Kanishka Narayan said last week the government will assess strengthening the regime, including reporting serious incidents and near misses. The government has not yet committed to AI-specific measures in the Cyber Security and Resilience Bill; officials told MPs amendments remain under consideration."
               }
             ]
           }
         },
         "ko": {
-          "headline": "UK 자문 서한,\nAI 주도권 지킬 길",
-          "body": "과학기술위원회가 UK AI 장관에게 전략적 AI 선택권을 지킬 방안을 권고했다.",
-          "mini_headline": "UK의 AI 주권 서한",
+          "headline": "영국 규제당국, AI 실패\n아차사고까지 보고하라",
+          "body": "FCA Jessica Rusu가 연설에서 AI 실패·아차사고도 보고하라고 요구했다.",
+          "mini_headline": "FCA, AI 아차사고 기록 요구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "정부 최고위 독립 과학기술 자문기구인 과학기술위원회(Council for Science and Technology, CST)가 2026년 7월 AI 장관(Minister for AI)에게 AI 주권에 관한 조언을 담아 보낸 서한이 10월 19일 공개됐다."
+                "t": "img",
+                "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "CST가 정의하는 AI 주권은 UK가 선택한 성과를 달성하고 경제적·공공적 가치를 확보하며 압박 속에서도 회복력을 유지할 만큼, AI 가치사슬 전반에서 충분한 주도권을 갖는 것이다. CST는 신중하고 시급한 조치가 없으면 UK가 “기술을 만들어 갈 수 있는 나라가 아니라, 고부가가치 AI 고객”이 될 위험이 있다고 경고한다."
+                "x": "Financial Conduct Authority의 최고 데이터·정보·인텔리전스 책임자 Jessica Rusu는 월요일 Bloomberg의 UK Policy Series 연설에서, 규제당국은 영국이 금융 서비스 분야의 안전한 AI 도입을 이끌기를 바란다면서도 자율성이 커질수록 책임 소재 역시 분명해야 한다고 했다."
               },
               {
                 "t": "p",
-                "x": "서한의 권고는 4가지다. AI 생태계 지도를 바탕으로 UK AI Sovereignty Plan(UK AI 주권 계획)을 세워 공익을 위한 신속한 시범사업을 고를 것, 단일한 책임 주체를 둔 명확한 거버넌스를 마련할 것, 기술 역량·데이터·공공 신뢰에 지금 투자할 것, 선택된 UK 역량을 키우면서 선도 AI 모델에 대한 신뢰할 수 있는 접근을 유지할 것이다. 공익적 주권 기반 모델을 만들자는 Alan Turing Institute의 제안을 검토하는 일도 여기에 들어간다."
+                "x": "그는 \"우리 규정은 이미 기업에 주요 사고 보고를 요구하고 있으며, 이는 중대한 AI 실패와 아차사고(near-misses)로 확대돼야 한다\"고 말했다. 에이전트형 AI(agentic AI)의 아차사고 보고도 \"규제상의 우선순위\"라고 덧붙였다. 새 규칙이 아니라 연설에서 밝힌 기대 사항이다."
+              },
+              {
+                "t": "p",
+                "x": "영국(UK) AI 담당 장관 Kanishka Narayan은 지난주 정부가 중대 사고와 아차사고 보고를 포함해 제도 강화를 검토하겠다고 밝혔다. 다만 정부는 Cyber Security and Resilience Bill에 AI-specific(AI 특화) 조치를 넣겠다는 약속은 아직 하지 않았고, 관계자들은 의원(MPs)들에게 수정안을 계속 검토하고 있다고 전했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UK諮問書簡、AIの\n主導権を保つ道筋",
-          "body": "科学技術会議はUKのAI担当大臣への書簡で、戦略的なAIの選択を保つ方策を示した。",
-          "mini_headline": "UKのAI主権に関する書簡",
+          "headline": "英当局、AIの失敗と\nニアミスの報告を要求",
+          "body": "FCAのJessica Rusu氏は講演で、AIの失敗やニアミスを報告すべきだと述べた。",
+          "mini_headline": "FCA、AIニアミスの記録を求める",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "政府の最上位の独立した科学技術諮問機関である科学技術会議(Council for Science and Technology、CST)は2026年7月、AI担当大臣(Minister for AI)にAI主権に関する助言の書簡を送った。書簡は10月19日に公表された。"
+                "t": "img",
+                "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "CSTはAI主権を、UKが選んだ成果を実現し、経済的・公共的価値を獲得し、圧力下でもレジリエンスを維持できるだけの十分な主体性を、AIバリューチェーン全体で持つことと定義する。意図的かつ緊急の行動がなければ、UKは「技術を形づくれる国ではなく、高付加価値のAI顧客」になる恐れがあると警告している。"
+                "x": "Financial Conduct Authorityの最高データ・情報・インテリジェンス責任者Jessica Rusu氏は月曜日、BloombergのUK Policy Seriesで講演し、規制当局は英国が金融サービスにおける安全なAI導入を主導することを望むが、自律性が高まるほど明確な説明責任が必要になると述べた。"
               },
               {
                 "t": "p",
-                "x": "書簡は4つの提言を示す。AIエコシステムのマップに基づくUK AI Sovereignty Plan(UK AI主権計画)を策定し、公益のための迅速なパイロットの選定に使うこと。単一の責任者を置く明確なガバナンスを整えること。スキル、データ、公共の信頼に今すぐ投資すること。そして、選ばれたUKの能力を育てつつ、先進的なAIモデルへの信頼できるアクセスを維持すること。これには、公益のための主権的な基盤モデルを求めるAlan Turing Instituteの提案の検討も含まれる。"
+                "x": "「当局の規則はすでに企業に重大インシデントの報告を求めており、それは重大なAIの失敗やニアミス(near-misses)にも広げなければならない」と同氏は語り、エージェント型AI(agentic AI)のニアミス報告も「規制上の優先事項でもある」と付け加えた。これは新たな規則ではなく、講演で示された期待である。"
+              },
+              {
+                "t": "p",
+                "x": "英国(UK)のAI担当相Kanishka Narayan氏は先週、重大インシデントやニアミスの報告を含め、制度強化を検討すると述べた。政府はCyber Security and Resilience BillへのAI-specific(AI固有)の措置の盛り込みをまだ確約しておらず、当局者は議員(MPs)に対し修正案は引き続き検討中だと説明した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK咨询函勾勒\n保持AI主导权之路",
-          "body": "科学技术委员会致UK AI大臣的建议函，阐述英国如何保有AI战略选择权。",
-          "mini_headline": "UK AI主权建议函",
+          "headline": "英国监管机构要求报告\nAI故障和险兆事件",
+          "body": "FCA数据主管Jessica Rusu在演讲中表示，企业应报告重大AI故障和险兆事件。",
+          "mini_headline": "FCA要求记录AI险兆事件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "2026年7月，政府最高级别的独立科技咨询机构科学技术委员会(Council for Science and Technology，CST)致函AI大臣(Minister for AI)，就AI主权提出建议；该信函于10月19日公布。"
+                "t": "img",
+                "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "CST将AI主权定义为：在整个AI价值链上拥有足够的自主能力，以实现UK选定的目标、获取经济和公共价值，并在压力下保持韧性。它警告称，若不采取审慎而紧迫的行动，UK可能沦为“高价值的AI客户，而不是能够塑造这项技术的国家”。"
+                "x": "英国金融行为监管局（Financial Conduct Authority）首席数据、信息与情报官Jessica Rusu周一在Bloomberg的UK Policy Series活动上表示，监管机构希望英国引领金融服务业安全采用AI，但更高的自主性需要明确的问责。"
               },
               {
                 "t": "p",
-                "x": "信函提出4项建议：基于AI生态系统图谱制定UK AI Sovereignty Plan（UK AI主权计划），用于挑选快速推进的公共利益试点项目；建立由单一责任主体负责的清晰治理架构；立即投资于技能、数据和公众信任；在建设选定的UK能力的同时，保持对领先AI模型的可信访问，包括考虑Alan Turing Institute提出的公共利益主权基础模型方案。"
+                "x": "她说：\"我们的规则已经要求企业报告重大事件，这必须延伸到重大的AI故障和险兆事件（near-misses）。\"她还表示，针对代理式AI（agentic AI）的险兆事件报告\"同样是监管重点\"。这番话是在演讲中提出的期望，而非新规。"
+              },
+              {
+                "t": "p",
+                "x": "英国（UK）AI事务大臣Kanishka Narayan上周表示，政府将评估加强相关制度，包括报告严重事件和险兆事件。政府尚未承诺在Cyber Security and Resilience Bill中加入AI-specific（专门针对AI的）措施；官员告诉议员（MPs），修正案仍在考虑之中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Carta asesora del Reino Unido:\ncómo conservar autonomía en IA",
-          "body": "La carta del Council for Science and Technology al ministro británico de IA traza cómo conservar opciones estratégicas.",
-          "mini_headline": "Carta sobre soberanía de la IA en el Reino Unido",
+          "headline": "Regulador de UK pide notificar\nfallos y cuasi fallos de AI",
+          "body": "Jessica Rusu, jefa de datos de la FCA, pidió en un discurso notificar fallos graves de AI y cuasi fallos.",
+          "mini_headline": "La FCA pide registrar cuasi fallos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "En julio de 2026, el Council for Science and Technology (CST), el máximo órgano asesor independiente del Gobierno en ciencia y tecnología, escribió al ministro de IA (Minister for AI) con recomendaciones sobre soberanía en IA; la carta se publicó el 19 de octubre."
+                "t": "img",
+                "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "El CST define la soberanía en IA como contar con suficiente capacidad de acción a lo largo de la cadena de valor de la IA para lograr los resultados que elija el Reino Unido (UK), captar valor económico y público y mantener la resiliencia bajo presión. Advierte que, sin una acción deliberada y urgente, el país corre el riesgo de convertirse en “un cliente de IA de alto valor, en lugar de un país capaz de moldear la tecnología”."
+                "x": "En la UK Policy Series de Bloomberg el lunes, Jessica Rusu, directora de datos, información e inteligencia de la Financial Conduct Authority, dijo que el regulador quiere que Reino Unido lidere la adopción segura de AI en los servicios financieros, pero que una mayor autonomía exige una rendición de cuentas clara."
               },
               {
                 "t": "p",
-                "x": "Formula 4 recomendaciones: elaborar un UK AI Sovereignty Plan basado en un mapa del ecosistema de IA, que sirva para elegir pilotos rápidos de interés público; establecer una gobernanza clara con un único responsable; invertir ya en habilidades, datos y confianza pública; y mantener un acceso fiable a los modelos de IA punteros mientras se desarrolla capacidad propia seleccionada, lo que incluye estudiar la propuesta del Alan Turing Institute de un modelo base soberano de interés público."
+                "x": "\"Nuestras normas ya exigen a las empresas notificar los incidentes graves, y eso debe extenderse a los fallos significativos de AI y a los cuasi fallos (near-misses)\", afirmó, y añadió que la notificación de cuasi fallos de la AI agéntica (agentic AI) es \"también una prioridad regulatoria\". Las declaraciones expresan una expectativa en un discurso, no una nueva norma."
+              },
+              {
+                "t": "p",
+                "x": "El ministro de AI de UK, Kanishka Narayan, dijo la semana pasada que el gobierno estudiará reforzar el régimen, incluida la notificación de incidentes graves y cuasi fallos. El gobierno aún no se ha comprometido con medidas AI-specific (específicas para la AI) en la Cyber Security and Resilience Bill; los funcionarios dijeron a los MPs (diputados) que las enmiendas siguen en estudio."
               }
             ]
           }
@@ -789,89 +793,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "UK 자문 서한,\nAI 주도권 지킬 길",
-          "body": "과학기술위원회가 UK AI 장관에게 전략적 AI 선택권 유지 방안을 권고했다.",
-          "mini_headline": "UK의 AI 주권 서한",
+          "headline": "영국 규제당국, AI 실패\n아차사고까지 보고하라",
+          "body": "FCA Jessica Rusu는 연설에서 AI 실패·아차사고 보고를 요구했다.",
+          "mini_headline": "FCA, AI 아차사고 기록 요구",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "정부 최고위 독립 과학기술 자문기구인 과학기술위원회(Council for Science and Technology, CST)는 2026년 7월 AI 장관(Minister for AI)에게 AI 주권에 관한 조언을 담은 서한을 보냈고, 이 서한은 10월 19일 공개됐다."
+                "t": "img",
+                "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "CST는 AI 주권을 UK가 선택한 성과를 달성하고, 경제적·공공적 가치를 확보하며, 압박 속에서도 회복력을 유지할 수 있을 만큼 AI 가치사슬 전반에서 충분한 주도권을 갖는 것으로 정의한다. 신중하고 시급한 조치가 없다면 UK는 “기술을 만들어 갈 수 있는 나라가 아니라, 고부가가치 AI 고객”이 될 위험이 있다고 경고한다."
+                "x": "Financial Conduct Authority의 최고 데이터·정보·인텔리전스 책임자 Jessica Rusu는 월요일 Bloomberg의 UK Policy Series 연설에서, 규제당국은 영국이 금융 서비스 분야의 안전한 AI 도입을 이끌기를 바라지만 자율성이 커질수록 책임 소재도 분명해야 한다고 말했다."
               },
               {
                 "t": "p",
-                "x": "서한은 4가지를 권고한다. AI 생태계 지도를 바탕으로 UK AI Sovereignty Plan(UK AI 주권 계획)을 세워 공익을 위한 신속한 시범사업을 고를 것, 단일한 책임 주체를 둔 명확한 거버넌스를 마련할 것, 기술 역량·데이터·공공 신뢰에 지금 투자할 것, 그리고 선택된 UK 역량을 키우는 동시에 선도 AI 모델에 대한 신뢰할 수 있는 접근을 유지할 것이다. 여기에는 공익적 주권 기반 모델을 만들자는 Alan Turing Institute의 제안을 검토하는 일도 포함된다."
+                "x": "그는 \"우리 규정은 이미 기업에 주요 사고 보고를 요구하고 있으며, 이는 중대한 AI 실패와 아차사고(near-misses)로 확대돼야 한다\"고 말했다. 에이전트형 AI(agentic AI)의 아차사고 보고 역시 \"규제상의 우선순위\"라고 덧붙였다. 이는 새 규칙이 아니라 연설에서 밝힌 기대 사항이다."
+              },
+              {
+                "t": "p",
+                "x": "영국(UK) AI 담당 장관 Kanishka Narayan은 지난주 정부가 중대 사고와 아차사고 보고를 포함해 제도 강화를 검토하겠다고 밝혔다. 정부는 Cyber Security and Resilience Bill에 AI-specific(AI 특화) 조치를 넣겠다고 아직 약속하지 않았으며, 관계자들은 의원(MPs)들에게 수정안을 계속 검토 중이라고 전했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "UK諮問書簡、AIの\n主導権を保つ道筋",
-          "body": "科学技術会議はUKのAI担当大臣への書簡で、戦略的なAIの選択を保つ方策を示した。",
-          "mini_headline": "UKのAI主権に関する書簡",
+          "headline": "英当局、AIの失敗と\nニアミスの報告を要求",
+          "body": "FCAのJessica Rusu氏は講演で、AIの失敗やニアミスを報告すべきだと述べた。",
+          "mini_headline": "FCA、AIニアミスの記録を求める",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "政府の最上位の独立した科学技術諮問機関である科学技術会議(Council for Science and Technology、CST)は2026年7月、AI担当大臣(Minister for AI)にAI主権に関する助言の書簡を送った。書簡は10月19日に公表された。"
+                "t": "img",
+                "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "CSTはAI主権を、UKが選んだ成果を実現し、経済的・公共的価値を獲得し、圧力下でもレジリエンスを維持できるだけの十分な主体性を、AIバリューチェーン全体で持つことと定義する。意図的かつ緊急の行動がなければ、UKは「技術を形づくれる国ではなく、高付加価値のAI顧客」になる恐れがあると警告している。"
+                "x": "Financial Conduct Authorityの最高データ・情報・インテリジェンス責任者Jessica Rusu氏は月曜日、BloombergのUK Policy Seriesで講演し、規制当局は英国が金融サービスにおける安全なAI導入を主導することを望むが、自律性が高まるほど明確な説明責任が必要になると述べた。"
               },
               {
                 "t": "p",
-                "x": "書簡は4つの提言を示す。AIエコシステムのマップに基づくUK AI Sovereignty Plan(UK AI主権計画)を策定し、公益のための迅速なパイロットの選定に使うこと。単一の責任者を置く明確なガバナンスを整えること。スキル、データ、公共の信頼に今すぐ投資すること。そして、選ばれたUKの能力を育てつつ、先進的なAIモデルへの信頼できるアクセスを維持すること。これには、公益のための主権的な基盤モデルを求めるAlan Turing Instituteの提案の検討も含まれる。"
+                "x": "「当局の規則はすでに企業に重大インシデントの報告を求めており、それは重大なAIの失敗やニアミス(near-misses)にも広げなければならない」と同氏は語り、エージェント型AI(agentic AI)のニアミス報告も「規制上の優先事項でもある」と付け加えた。これは新たな規則ではなく、講演で示された期待である。"
+              },
+              {
+                "t": "p",
+                "x": "英国(UK)のAI担当相Kanishka Narayan氏は先週、重大インシデントやニアミスの報告を含め、制度強化を検討すると述べた。政府はCyber Security and Resilience BillへのAI-specific(AI固有)の措置の盛り込みをまだ確約しておらず、当局者は議員(MPs)に対し修正案は引き続き検討中だと説明した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "UK咨询函勾勒\n保持AI主导权之路",
-          "body": "科学技术委员会致UK AI大臣的建议函，阐述英国如何保有AI战略选择权。",
-          "mini_headline": "UK AI主权建议函",
+          "headline": "英国监管机构要求报告\nAI故障和险兆事件",
+          "body": "FCA数据主管Jessica Rusu在演讲中表示，企业应报告重大AI故障和险兆事件。",
+          "mini_headline": "FCA要求记录AI险兆事件",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "2026年7月，政府最高级别的独立科技咨询机构科学技术委员会(Council for Science and Technology，CST)致函AI大臣(Minister for AI)，就AI主权提出建议；该信函于10月19日公布。"
+                "t": "img",
+                "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "CST将AI主权定义为：在整个AI价值链上拥有足够的自主能力，以实现UK选定的目标、获取经济和公共价值，并在压力下保持韧性。它警告称，若不采取审慎而紧迫的行动，UK可能沦为“高价值的AI客户，而不是能够塑造这项技术的国家”。"
+                "x": "英国金融行为监管局（Financial Conduct Authority）首席数据、信息与情报官Jessica Rusu周一在Bloomberg的UK Policy Series活动上表示，监管机构希望英国引领金融服务业安全采用AI，但更高的自主性需要明确的问责。"
               },
               {
                 "t": "p",
-                "x": "信函提出4项建议：基于AI生态系统图谱制定UK AI Sovereignty Plan（UK AI主权计划），用于挑选快速推进的公共利益试点项目；建立由单一责任主体负责的清晰治理架构；立即投资于技能、数据和公众信任；在建设选定的UK能力的同时，保持对领先AI模型的可信访问，包括考虑Alan Turing Institute提出的公共利益主权基础模型方案。"
+                "x": "她说：\"我们的规则已经要求企业报告重大事件，这必须延伸到重大的AI故障和险兆事件（near-misses）。\"她还表示，针对代理式AI（agentic AI）的险兆事件报告\"同样是监管重点\"。这番话是在演讲中提出的期望，而非新规。"
+              },
+              {
+                "t": "p",
+                "x": "英国（UK）AI事务大臣Kanishka Narayan上周表示，政府将评估加强相关制度，包括报告严重事件和险兆事件。政府尚未承诺在Cyber Security and Resilience Bill中加入AI-specific（专门针对AI的）措施；官员告诉议员（MPs），修正案仍在考虑之中。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Carta asesora del Reino Unido:\ncómo conservar autonomía en IA",
-          "body": "La carta del Council for Science and Technology al ministro británico de IA traza cómo conservar opciones estratégicas.",
-          "mini_headline": "Carta sobre soberanía de la IA en el Reino Unido",
+          "headline": "Regulador de UK pide notificar\nfallos y cuasi fallos de AI",
+          "body": "Jessica Rusu, jefa de datos de la FCA, pidió en un discurso notificar fallos graves de AI y cuasi fallos.",
+          "mini_headline": "La FCA pide registrar cuasi fallos de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "En julio de 2026, el Council for Science and Technology (CST), el máximo órgano asesor independiente del Gobierno en ciencia y tecnología, escribió al ministro de IA (Minister for AI) con recomendaciones sobre soberanía en IA; la carta se publicó el 19 de octubre."
+                "t": "img",
+                "src": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683"
               },
               {
                 "t": "p",
-                "x": "El CST define la soberanía en IA como contar con suficiente capacidad de acción a lo largo de la cadena de valor de la IA para lograr los resultados que elija el Reino Unido (UK), captar valor económico y público y mantener la resiliencia bajo presión. Advierte que, sin una acción deliberada y urgente, el país corre el riesgo de convertirse en “un cliente de IA de alto valor, en lugar de un país capaz de moldear la tecnología”."
+                "x": "En la UK Policy Series de Bloomberg el lunes, Jessica Rusu, directora de datos, información e inteligencia de la Financial Conduct Authority, dijo que el regulador quiere que Reino Unido lidere la adopción segura de AI en los servicios financieros, pero que una mayor autonomía exige una rendición de cuentas clara."
               },
               {
                 "t": "p",
-                "x": "Formula 4 recomendaciones: elaborar un UK AI Sovereignty Plan basado en un mapa del ecosistema de IA, que sirva para elegir pilotos rápidos de interés público; establecer una gobernanza clara con un único responsable; invertir ya en habilidades, datos y confianza pública; y mantener un acceso fiable a los modelos de IA punteros mientras se desarrolla capacidad propia seleccionada, lo que incluye estudiar la propuesta del Alan Turing Institute de un modelo base soberano de interés público."
+                "x": "\"Nuestras normas ya exigen a las empresas notificar los incidentes graves, y eso debe extenderse a los fallos significativos de AI y a los cuasi fallos (near-misses)\", afirmó, y añadió que la notificación de cuasi fallos de la AI agéntica (agentic AI) es \"también una prioridad regulatoria\". Las declaraciones expresan una expectativa en un discurso, no una nueva norma."
+              },
+              {
+                "t": "p",
+                "x": "El ministro de AI de UK, Kanishka Narayan, dijo la semana pasada que el gobierno estudiará reforzar el régimen, incluida la notificación de incidentes graves y cuasi fallos. El gobierno aún no se ha comprometido con medidas AI-specific (específicas para la AI) en la Cyber Security and Resilience Bill; los funcionarios dijeron a los MPs (diputados) que las enmiendas siguen en estudio."
               }
             ]
           }
@@ -879,225 +899,189 @@
       }
     },
     {
-      "id": "politics-greece-daedalus",
+      "id": "politics-nyc-chatbot-human-offramp-rule",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "그리스, AI용 슈퍼컴\nDaedalus 공개",
-      "body": "€58.9 million을 들인 그리스 슈퍼컴 Daedalus, 세계 31위다.",
-      "mini_headline": "그리스, Daedalus 공개",
+      "headline": "NYC, AI 상담 챗봇에\n'사람 연결' 의무화 추진",
+      "body": "New York City가 상담 챗봇 공개와 사람 연결을 의무화하는 규칙을 내놨다.",
+      "mini_headline": "NYC, 챗봇 '사람 연결' 규칙 제안",
       "tool": "Politics",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/19/daedalus-greece-unveils-new-supercomputer-as-it-eyes-role-in-europes-ai-race",
+      "source": "Gothamist",
+      "url": "https://gothamist.com/news/nyc-proposes-crackdown-down-on-ai-customer-service-chatbots",
       "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "그리스가 자국에 설치된 슈퍼컴퓨터 중 가장 강력한 Daedalus를 가동했다. €58.9 million이 들어갔고 공개된 자료로는 세계 31위다. 해외 컴퓨팅 의존도를 낮추려고 아티카의 라브리오(Lavrio)에 문을 열었다."
-          },
-          {
             "t": "img",
-            "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
-            "cap": "슈퍼컴퓨터 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+            "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
           },
           {
             "t": "p",
-            "x": "85.69 petaflops 성능의 Daedalus 덕분에 대학과 기업, 공공기관은 민감한 데이터를 국내에서 처리하는 일을 포함해 그리스 안의 인프라에서 AI 모델을 학습시킬 수 있다. 다만 유럽의 엑사스케일(exascale) 시스템과 경쟁하려고 만든 것은 아니다."
+            "x": "조란 맘다니(Zohran Mamdani) 시장 행정부가 고객 서비스에 자동 챗봇을 쓰는 기업은 그 사실을 공개하고, 고객이 원하면 사람과 대화할 수 있게 하라는 규칙을 제안하고 있다. 행정부는 미국에서 처음 나오는 규칙이라고 밝혔다."
           },
           {
             "t": "p",
-            "x": "액체 냉각 방식의 Nvidia Grace Hopper GH200 기반이며, 아테네 국립공과대학교가 관리하는 옛 발전소에 들어섰다. 운영은 GRNET이 맡고, 자금은 회복·복원력 기금(Recovery and Resilience Facility)과 EuroHPC에서 나온다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
-            "cap": "슈퍼컴퓨터 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+            "x": "제안된 규칙은 \"합리적이고 시기적절한 방식\"으로 도움을 주도록 하고, 쓸모없는 메뉴로 고객을 빙빙 돌리는 것도 막는다. 소비자보호국장 새뮤얼 러빈(Samuel Levine)은 \"뉴욕시(New York City)에서 우리가 걱정하는 것은 AI가 이 관계를 더 나쁘게만 만들 것이라는 점\"이라고 말했다."
           },
           {
             "t": "p",
-            "x": "Pharos AI Factory를 통해 기업 대상 서비스를 넓히는 일은 2027년 3월부터 계획돼 있다. 스타트업과 중소기업(SMEs)은 EU 국가보조 한도 안에서 무료로 쓸 수 있을 전망이다."
+            "x": "공청회는 11월 19일(Nov. 19)에 열린다. 시행일은 들어오는 의견 규모를 보고 정하며, 그 뒤 전환 기간을 둔다. 규칙은 시에서 영업하는 모든 기업에 적용되고, 반복 위반 시 벌금은 $525, $1,050, $3,500이다."
+          },
+          {
+            "t": "p",
+            "x": "러빈(Levine)은 이 규칙을 다른 지역이 참고할 모델로 봤다. AI 챗봇을 규제하는 주는 여럿이지만 고객 서비스 봇을 겨냥한 곳은 드물다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Greece unveils Daedalus\nsupercomputer for AI",
-          "body": "Greece inaugurated Daedalus, a €58.9 million supercomputer ranked 31st worldwide, letting AI train on in-country data.",
-          "mini_headline": "Greece unveils Daedalus",
+          "headline": "NYC proposes a human option\nfor AI customer chatbots",
+          "body": "New York City proposed a rule requiring businesses to disclose customer service chatbots and offer a human option.",
+          "mini_headline": "NYC proposes chatbot human off-ramp",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Greece has launched Daedalus, the most powerful supercomputer ever installed in the country. Backed by €58.9 million and, according to available data, ranked 31st worldwide, the system was inaugurated in Lavrio (Attica) to reduce reliance on overseas computing."
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
-                "cap": "Supercomputer — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
               },
               {
                 "t": "p",
-                "x": "With 85.69 petaflops, it lets universities, businesses and public bodies train AI models on infrastructure in Greece, including processing sensitive data within the country. It is not designed to rival Europe's exascale systems."
+                "x": "Mayor Zohran Mamdani's administration is proposing a rule requiring businesses that use automated chatbots for customer service to disclose it and let customers talk with a person instead. The administration says it is the first such rule in the country."
               },
               {
                 "t": "p",
-                "x": "Built on Nvidia Grace Hopper GH200 with liquid cooling, it sits in a former power station run by the National Technical University of Athens and is operated by GRNET. Funding comes from the Recovery and Resilience Facility and EuroHPC."
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
-                "cap": "Supercomputer — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "x": "The proposed rule would also require help in a \"reasonable and timely manner\" and bar looping customers through unhelpful menus. \"Our worry in New York City is that AI is only going to make this relationship worse,\" said consumer protection commissioner Samuel Levine."
               },
               {
                 "t": "p",
-                "x": "Broader service to businesses via Pharos AI Factory is planned from March 2027; start-ups and SMEs are expected to get free access within EU state aid limits."
+                "x": "A public hearing is set for Nov. 19; the effective date depends on comment volume, followed by a transition period. It would apply to any company doing business in the city, with fines of $525, $1,050 and $3,500 for repeat violations."
+              },
+              {
+                "t": "p",
+                "x": "Levine called it a model for other jurisdictions. Several states regulate AI chatbots, but few if any target customer service bots."
               }
             ]
           }
         },
         "ko": {
-          "headline": "그리스, AI용 슈퍼컴\nDaedalus 공개",
-          "body": "€58.9 million을 들인 그리스 슈퍼컴 Daedalus, 세계 31위다.",
-          "mini_headline": "그리스, Daedalus 공개",
+          "headline": "NYC, AI 상담 챗봇에\n'사람 연결' 의무화 추진",
+          "body": "New York City가 상담 챗봇 공개와 사람 연결을 의무화하는 규칙을 내놨다.",
+          "mini_headline": "NYC, 챗봇 '사람 연결' 규칙 제안",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "그리스가 자국에 설치된 슈퍼컴퓨터 중 가장 강력한 Daedalus를 가동했다. €58.9 million이 들어갔고 공개된 자료로는 세계 31위다. 해외 컴퓨팅 의존도를 낮추려고 아티카의 라브리오(Lavrio)에 문을 열었다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
-                "cap": "슈퍼컴퓨터 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
               },
               {
                 "t": "p",
-                "x": "85.69 petaflops 성능의 Daedalus 덕분에 대학과 기업, 공공기관은 민감한 데이터를 국내에서 처리하는 일을 포함해 그리스 안의 인프라에서 AI 모델을 학습시킬 수 있다. 다만 유럽의 엑사스케일(exascale) 시스템과 경쟁하려고 만든 것은 아니다."
+                "x": "조란 맘다니(Zohran Mamdani) 시장 행정부가 고객 서비스에 자동 챗봇을 쓰는 기업은 그 사실을 공개하고, 고객이 원하면 사람과 대화할 수 있게 하라는 규칙을 제안하고 있다. 행정부는 미국에서 처음 나오는 규칙이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "액체 냉각 방식의 Nvidia Grace Hopper GH200 기반이며, 아테네 국립공과대학교가 관리하는 옛 발전소에 들어섰다. 운영은 GRNET이 맡고, 자금은 회복·복원력 기금(Recovery and Resilience Facility)과 EuroHPC에서 나온다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
-                "cap": "슈퍼컴퓨터 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "x": "제안된 규칙은 \"합리적이고 시기적절한 방식\"으로 도움을 주도록 하고, 쓸모없는 메뉴로 고객을 빙빙 돌리는 것도 막는다. 소비자보호국장 새뮤얼 러빈(Samuel Levine)은 \"뉴욕시(New York City)에서 우리가 걱정하는 것은 AI가 이 관계를 더 나쁘게만 만들 것이라는 점\"이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "Pharos AI Factory를 통해 기업 대상 서비스를 넓히는 일은 2027년 3월부터 계획돼 있다. 스타트업과 중소기업(SMEs)은 EU 국가보조 한도 안에서 무료로 쓸 수 있을 전망이다."
+                "x": "공청회는 11월 19일(Nov. 19)에 열린다. 시행일은 들어오는 의견 규모를 보고 정하며, 그 뒤 전환 기간을 둔다. 규칙은 시에서 영업하는 모든 기업에 적용되고, 반복 위반 시 벌금은 $525, $1,050, $3,500이다."
+              },
+              {
+                "t": "p",
+                "x": "러빈(Levine)은 이 규칙을 다른 지역이 참고할 모델로 봤다. AI 챗봇을 규제하는 주는 여럿이지만 고객 서비스 봇을 겨냥한 곳은 드물다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ギリシャがAI向け\nスパコンDaedalus公開",
-          "body": "ギリシャは€58.9 millionを投じた世界31位のスパコンDaedalusを稼働した。",
-          "mini_headline": "ギリシャ、Daedalusを公開",
+          "headline": "NYC、AIチャットボットに\n人間の選択肢を提案",
+          "body": "New York Cityはチャットボットの開示と人間対応を企業に求める規則を提案した。",
+          "mini_headline": "NYC、チャットボットに人間対応の道",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ギリシャは、国内に導入されたものとして史上最も強力なスーパーコンピューターDaedalusを稼働させた。€58.9 millionが投じられ、公開データによれば世界31位のこのシステムは、海外の計算資源への依存を減らすため、アッティカ地方のラヴリオ(Lavrio)で開所した。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
-                "cap": "スーパーコンピューター — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
               },
               {
                 "t": "p",
-                "x": "85.69 petaflopsの性能により、大学や企業、公的機関はギリシャ国内のインフラでAIモデルを学習させることができ、機微なデータの国内処理も可能になる。欧州のエクサスケール(exascale)システムに対抗するための設計ではない。"
+                "x": "ゾーラン・マムダニ(Zohran Mamdani)市長の市政府は、顧客対応に自動チャットボットを使う企業に対し、その旨を開示し、顧客が代わりに人間と話せるようにすることを義務づける規則を提案している。市政府によれば、こうした規則は全米で初めてだという。"
               },
               {
                 "t": "p",
-                "x": "液冷式のNvidia Grace Hopper GH200を基盤とし、アテネ国立工科大学が管理する旧発電所に設置され、GRNETが運用する。資金は復興・強靱化ファシリティ(Recovery and Resilience Facility)とEuroHPCから拠出される。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
-                "cap": "スーパーコンピューター — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "x": "規則案は「合理的かつ適時の方法」での支援も求め、役に立たないメニューで顧客を堂々巡りさせることも禁じる。消費者保護局長のサミュエル・レバイン(Samuel Levine)氏は「ニューヨーク市(New York City)で我々が懸念しているのは、AIがこの関係をさらに悪化させるだけだということだ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "Pharos AI Factoryを通じた企業向けサービスの拡大は2027年3月から予定され、スタートアップと中小企業(SMEs)はEUの国家補助の上限内で無料で利用できる見込みだ。"
+                "x": "公聴会は11月19日(Nov. 19)に予定されている。施行日は寄せられる意見の量によって決まり、その後に移行期間が設けられる。市内で事業を行うすべての企業が対象となり、違反を繰り返した場合の罰金は$525、$1,050、$3,500だ。"
+              },
+              {
+                "t": "p",
+                "x": "レバイン(Levine)氏はこれを他の自治体のモデルになると評した。AIチャットボットを規制する州はいくつかあるが、顧客対応ボットを対象とするものはほとんどない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "希腊为AI推出\n超级计算机Daedalus",
-          "body": "希腊启用耗资€58.9 million、全球第31的超算Daedalus，助AI本地训练。",
-          "mini_headline": "希腊启用Daedalus",
+          "headline": "NYC拟要求AI客服机器人\n提供真人服务选项",
+          "body": "New York City提议规定，企业须披露客服聊天机器人并提供真人服务选项。",
+          "mini_headline": "NYC拟为客服机器人设真人通道",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "希腊启用了该国有史以来最强大的超级计算机Daedalus。该系统耗资€58.9 million，据现有数据全球排名第31，在阿提卡的拉夫里奥(Lavrio)揭幕，旨在减少对海外算力的依赖。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
-                "cap": "超级计算机 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
               },
               {
                 "t": "p",
-                "x": "凭借85.69 petaflops的算力，大学、企业和公共机构可在希腊境内的基础设施上训练AI模型，包括在国内处理敏感数据。它的设计目标并非与欧洲的百亿亿次(exascale)系统竞争。"
+                "x": "市长Zohran Mamdani领导的市政府正在提议一项规定，要求使用自动聊天机器人提供客户服务的企业披露这一点，并允许客户改为与真人交谈。市政府称，这是全美首个此类规定。"
               },
               {
                 "t": "p",
-                "x": "该系统基于采用液冷的Nvidia Grace Hopper GH200，安置在雅典国立技术大学管理的一座前发电站内，由GRNET运营。资金来自复苏与韧性基金(Recovery and Resilience Facility)和EuroHPC。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
-                "cap": "超级计算机 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "x": "拟议规定还要求以“合理且及时的方式”提供帮助，并禁止让客户在无用的菜单中来回打转。消费者保护专员Samuel Levine表示：“我们在纽约市(New York City)担心的是，AI只会让这种关系变得更糟。”"
               },
               {
                 "t": "p",
-                "x": "计划从2027年3月起通过Pharos AI Factory向企业提供更广泛的服务；初创企业和中小企业(SMEs)预计可在EU国家援助限额内免费使用。"
+                "x": "公开听证会定于11月19日(Nov. 19)举行；生效日期取决于收到的意见数量，之后还将设过渡期。规定将适用于在该市开展业务的所有公司，屡次违规的罚款分别为$525、$1,050和$3,500。"
+              },
+              {
+                "t": "p",
+                "x": "Levine称其可作为其他司法辖区的范本。已有多个州对AI聊天机器人进行监管，但专门针对客服机器人的即便有也寥寥无几。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Grecia presenta Daedalus,\nun supercomputador para IA",
-          "body": "Grecia inauguró Daedalus, un supercomputador de €58.9 millones, 31.º del mundo, para entrenar IA con datos locales.",
-          "mini_headline": "Grecia presenta Daedalus",
+          "headline": "NYC propone una opción humana\nen chatbots de atención con AI",
+          "body": "New York City propuso una norma que obliga a las empresas a revelar sus chatbots de atención y dar una opción humana.",
+          "mini_headline": "NYC propone una salida humana en los chatbots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Grecia ha puesto en marcha Daedalus, el supercomputador más potente jamás instalado en el país. Con una inversión de €58.9 millones y, según los datos disponibles, en el puesto 31 del mundo, el sistema se inauguró en Lavrio (Ática) para reducir la dependencia de la computación extranjera."
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
-                "cap": "Supercomputador — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
               },
               {
                 "t": "p",
-                "x": "Con 85.69 petaflops, permite a universidades, empresas y organismos públicos entrenar modelos de IA en infraestructura situada en Grecia, incluido el procesamiento de datos sensibles dentro del país. No está diseñado para rivalizar con los sistemas de exaescala de Europa."
+                "x": "La administración del alcalde Zohran Mamdani propone una norma que obligaría a las empresas que usan chatbots automatizados en la atención al cliente a informar de ello y a permitir que los clientes hablen con una persona. La administración asegura que es la primera norma de este tipo en el país."
               },
               {
                 "t": "p",
-                "x": "Basado en Nvidia Grace Hopper GH200 con refrigeración líquida, se ubica en una antigua central eléctrica gestionada por la Universidad Técnica Nacional de Atenas y lo opera GRNET. La financiación procede del Mecanismo de Recuperación y Resiliencia y de EuroHPC."
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
-                "cap": "Supercomputador — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "x": "La norma propuesta también exigiría prestar ayuda de \"manera razonable y oportuna\" y prohibiría hacer dar vueltas a los clientes por menús inútiles. \"Lo que nos preocupa en New York City es que la AI solo va a empeorar esta relación\", dijo el comisionado de protección al consumidor, Samuel Levine."
               },
               {
                 "t": "p",
-                "x": "Está previsto ampliar el servicio a empresas a través de Pharos AI Factory a partir de marzo de 2027; se espera que las start-ups y las pymes (SMEs) tengan acceso gratuito dentro de los límites de ayudas de Estado de la UE (EU)."
+                "x": "Hay una audiencia pública fijada para el 19 de noviembre (Nov. 19); la fecha de entrada en vigor dependerá del volumen de comentarios y le seguirá un periodo de transición. Se aplicaría a toda empresa que opere en la ciudad, con multas de $525, $1,050 y $3,500 por infracciones reiteradas."
+              },
+              {
+                "t": "p",
+                "x": "Levine la calificó de modelo para otras jurisdicciones. Varios estados regulan los chatbots de AI, pero pocos o ninguno se centran en los bots de atención al cliente."
               }
             ]
           }
@@ -1105,145 +1089,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "그리스, AI용 슈퍼컴\nDaedalus 공개",
-          "body": "€58.9 million을 들인 그리스 슈퍼컴 Daedalus는 세계 31위다.",
-          "mini_headline": "그리스, Daedalus 공개",
+          "headline": "NYC, AI 상담 챗봇에\n'사람 연결' 의무화 추진",
+          "body": "New York City가 상담 챗봇 공개·사람 연결 의무 규칙을 제안했다.",
+          "mini_headline": "NYC, 챗봇 '사람 연결' 규칙 제안",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "그리스가 국내에 설치된 슈퍼컴퓨터 가운데 가장 강력한 Daedalus를 가동했다. €58.9 million이 투입됐고 공개된 자료에 따르면 세계 31위인 이 시스템은 해외 컴퓨팅 의존도를 낮추기 위해 아티카의 라브리오(Lavrio)에서 문을 열었다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
-                "cap": "슈퍼컴퓨터 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
               },
               {
                 "t": "p",
-                "x": "85.69 petaflops 성능을 갖춘 Daedalus로 대학과 기업, 공공기관은 민감한 데이터를 국내에서 처리하는 일을 포함해 그리스 안의 인프라에서 AI 모델을 학습시킬 수 있다. 유럽의 엑사스케일(exascale) 시스템과 경쟁하려고 설계된 것은 아니다."
+                "x": "조란 맘다니(Zohran Mamdani) 시장 행정부는 고객 서비스에 자동 챗봇을 쓰는 기업이 이를 공개하고, 고객이 대신 사람과 대화할 수 있게 하도록 요구하는 규칙을 제안하고 있다. 행정부는 미국에서 처음 나오는 이런 규칙이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "액체 냉각 방식의 Nvidia Grace Hopper GH200 기반으로, 아테네 국립공과대학교가 관리하는 옛 발전소에 자리 잡았고 GRNET이 운영한다. 자금은 회복·복원력 기금(Recovery and Resilience Facility)과 EuroHPC에서 나온다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
-                "cap": "슈퍼컴퓨터 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "x": "제안된 규칙은 \"합리적이고 시기적절한 방식\"으로 도움을 주도록 하고, 쓸모없는 메뉴로 고객을 빙빙 돌리는 것도 금지한다. 소비자보호국장 새뮤얼 러빈(Samuel Levine)은 \"뉴욕시(New York City)에서 우리가 걱정하는 것은 AI가 이 관계를 더 나쁘게만 만들 것이라는 점\"이라고 말했다."
               },
               {
                 "t": "p",
-                "x": "Pharos AI Factory를 통한 기업 대상 서비스 확대는 2027년 3월부터 계획돼 있으며, 스타트업과 중소기업(SMEs)은 EU 국가보조 한도 안에서 무료로 이용할 수 있을 전망이다."
+                "x": "공청회는 11월 19일(Nov. 19)로 잡혀 있다. 시행일은 접수되는 의견 규모에 따라 정해지며, 이후 전환 기간을 둔다. 규칙은 시에서 영업하는 모든 기업에 적용되며, 반복 위반 시 벌금은 $525, $1,050, $3,500이다."
+              },
+              {
+                "t": "p",
+                "x": "러빈(Levine)은 이를 다른 지역이 참고할 모델이라고 평가했다. AI 챗봇을 규제하는 주는 여럿이지만, 고객 서비스 봇을 겨냥한 곳은 거의 없다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ギリシャがAI向け\nスパコンDaedalus公開",
-          "body": "ギリシャは€58.9 millionを投じた世界31位のスパコンDaedalusを稼働した。",
-          "mini_headline": "ギリシャ、Daedalusを公開",
+          "headline": "NYC、AIチャットボットに\n人間の選択肢を提案",
+          "body": "New York Cityはチャットボットの開示と人間対応を企業に求める規則を提案した。",
+          "mini_headline": "NYC、チャットボットに人間対応の道",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "ギリシャは、国内に導入されたものとして史上最も強力なスーパーコンピューターDaedalusを稼働させた。€58.9 millionが投じられ、公開データによれば世界31位のこのシステムは、海外の計算資源への依存を減らすため、アッティカ地方のラヴリオ(Lavrio)で開所した。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
-                "cap": "スーパーコンピューター — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
               },
               {
                 "t": "p",
-                "x": "85.69 petaflopsの性能により、大学や企業、公的機関はギリシャ国内のインフラでAIモデルを学習させることができ、機微なデータの国内処理も可能になる。欧州のエクサスケール(exascale)システムに対抗するための設計ではない。"
+                "x": "ゾーラン・マムダニ(Zohran Mamdani)市長の市政府は、顧客対応に自動チャットボットを使う企業に対し、その旨を開示し、顧客が代わりに人間と話せるようにすることを義務づける規則を提案している。市政府によれば、こうした規則は全米で初めてだという。"
               },
               {
                 "t": "p",
-                "x": "液冷式のNvidia Grace Hopper GH200を基盤とし、アテネ国立工科大学が管理する旧発電所に設置され、GRNETが運用する。資金は復興・強靱化ファシリティ(Recovery and Resilience Facility)とEuroHPCから拠出される。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
-                "cap": "スーパーコンピューター — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "x": "規則案は「合理的かつ適時の方法」での支援も求め、役に立たないメニューで顧客を堂々巡りさせることも禁じる。消費者保護局長のサミュエル・レバイン(Samuel Levine)氏は「ニューヨーク市(New York City)で我々が懸念しているのは、AIがこの関係をさらに悪化させるだけだということだ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "Pharos AI Factoryを通じた企業向けサービスの拡大は2027年3月から予定され、スタートアップと中小企業(SMEs)はEUの国家補助の上限内で無料で利用できる見込みだ。"
+                "x": "公聴会は11月19日(Nov. 19)に予定されている。施行日は寄せられる意見の量によって決まり、その後に移行期間が設けられる。市内で事業を行うすべての企業が対象となり、違反を繰り返した場合の罰金は$525、$1,050、$3,500だ。"
+              },
+              {
+                "t": "p",
+                "x": "レバイン(Levine)氏はこれを他の自治体のモデルになると評した。AIチャットボットを規制する州はいくつかあるが、顧客対応ボットを対象とするものはほとんどない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "希腊为AI推出\n超级计算机Daedalus",
-          "body": "希腊启用耗资€58.9 million、全球第31的超算Daedalus，助AI本地训练。",
-          "mini_headline": "希腊启用Daedalus",
+          "headline": "NYC拟要求AI客服机器人\n提供真人服务选项",
+          "body": "New York City提议规定，企业须披露客服聊天机器人并提供真人服务选项。",
+          "mini_headline": "NYC拟为客服机器人设真人通道",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "希腊启用了该国有史以来最强大的超级计算机Daedalus。该系统耗资€58.9 million，据现有数据全球排名第31，在阿提卡的拉夫里奥(Lavrio)揭幕，旨在减少对海外算力的依赖。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
-                "cap": "超级计算机 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
               },
               {
                 "t": "p",
-                "x": "凭借85.69 petaflops的算力，大学、企业和公共机构可在希腊境内的基础设施上训练AI模型，包括在国内处理敏感数据。它的设计目标并非与欧洲的百亿亿次(exascale)系统竞争。"
+                "x": "市长Zohran Mamdani领导的市政府正在提议一项规定，要求使用自动聊天机器人提供客户服务的企业披露这一点，并允许客户改为与真人交谈。市政府称，这是全美首个此类规定。"
               },
               {
                 "t": "p",
-                "x": "该系统基于采用液冷的Nvidia Grace Hopper GH200，安置在雅典国立技术大学管理的一座前发电站内，由GRNET运营。资金来自复苏与韧性基金(Recovery and Resilience Facility)和EuroHPC。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
-                "cap": "超级计算机 — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "x": "拟议规定还要求以“合理且及时的方式”提供帮助，并禁止让客户在无用的菜单中来回打转。消费者保护专员Samuel Levine表示：“我们在纽约市(New York City)担心的是，AI只会让这种关系变得更糟。”"
               },
               {
                 "t": "p",
-                "x": "计划从2027年3月起通过Pharos AI Factory向企业提供更广泛的服务；初创企业和中小企业(SMEs)预计可在EU国家援助限额内免费使用。"
+                "x": "公开听证会定于11月19日(Nov. 19)举行；生效日期取决于收到的意见数量，之后还将设过渡期。规定将适用于在该市开展业务的所有公司，屡次违规的罚款分别为$525、$1,050和$3,500。"
+              },
+              {
+                "t": "p",
+                "x": "Levine称其可作为其他司法辖区的范本。已有多个州对AI聊天机器人进行监管，但专门针对客服机器人的即便有也寥寥无几。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Grecia presenta Daedalus,\nun supercomputador para IA",
-          "body": "Grecia inauguró Daedalus, un supercomputador de €58.9 millones, 31.º del mundo, para entrenar IA con datos locales.",
-          "mini_headline": "Grecia presenta Daedalus",
+          "headline": "NYC propone una opción humana\nen chatbots de atención con AI",
+          "body": "New York City propuso una norma que obliga a las empresas a revelar sus chatbots de atención y dar una opción humana.",
+          "mini_headline": "NYC propone una salida humana en los chatbots",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Grecia ha puesto en marcha Daedalus, el supercomputador más potente jamás instalado en el país. Con una inversión de €58.9 millones y, según los datos disponibles, en el puesto 31 del mundo, el sistema se inauguró en Lavrio (Ática) para reducir la dependencia de la computación extranjera."
-              },
-              {
                 "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_87ad56aa-8f38-5d59-9d94-d2f7c34da536-9957925.jpg",
-                "cap": "Supercomputador — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "src": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/"
               },
               {
                 "t": "p",
-                "x": "Con 85.69 petaflops, permite a universidades, empresas y organismos públicos entrenar modelos de IA en infraestructura situada en Grecia, incluido el procesamiento de datos sensibles dentro del país. No está diseñado para rivalizar con los sistemas de exaescala de Europa."
+                "x": "La administración del alcalde Zohran Mamdani propone una norma que obligaría a las empresas que usan chatbots automatizados en la atención al cliente a informar de ello y a permitir que los clientes hablen con una persona. La administración asegura que es la primera norma de este tipo en el país."
               },
               {
                 "t": "p",
-                "x": "Basado en Nvidia Grace Hopper GH200 con refrigeración líquida, se ubica en una antigua central eléctrica gestionada por la Universidad Técnica Nacional de Atenas y lo opera GRNET. La financiación procede del Mecanismo de Recuperación y Resiliencia y de EuroHPC."
-              },
-              {
-                "t": "img",
-                "src": "https://images.euronews.com/articles/stories/09/95/79/25/808x539_cmsv2_85501d6b-dc93-5e7d-8388-a7eab5076e86-9957925.jpg",
-                "cap": "Supercomputador — ΑΠΕ-ΜΠΕ/Αλέξανδρος Μπελτές"
+                "x": "La norma propuesta también exigiría prestar ayuda de \"manera razonable y oportuna\" y prohibiría hacer dar vueltas a los clientes por menús inútiles. \"Lo que nos preocupa en New York City es que la AI solo va a empeorar esta relación\", dijo el comisionado de protección al consumidor, Samuel Levine."
               },
               {
                 "t": "p",
-                "x": "Está previsto ampliar el servicio a empresas a través de Pharos AI Factory a partir de marzo de 2027; se espera que las start-ups y las pymes (SMEs) tengan acceso gratuito dentro de los límites de ayudas de Estado de la UE (EU)."
+                "x": "Hay una audiencia pública fijada para el 19 de noviembre (Nov. 19); la fecha de entrada en vigor dependerá del volumen de comentarios y le seguirá un periodo de transición. Se aplicaría a toda empresa que opere en la ciudad, con multas de $525, $1,050 y $3,500 por infracciones reiteradas."
+              },
+              {
+                "t": "p",
+                "x": "Levine la calificó de modelo para otras jurisdicciones. Varios estados regulan los chatbots de AI, pero pocos o ninguno se centran en los bots de atención al cliente."
               }
             ]
           }
@@ -1251,171 +1211,219 @@
       }
     },
     {
-      "id": "politics-disney-characterai-363",
+      "id": "politics-un-ai-dialogue-korea-cochair-cha",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Character.AI와\nDisney의 파산 거래",
-      "body": "Disney는 Character.AI 영구 라이선스를 노리되 책임은 떠안지 않는다.",
-      "mini_headline": "Disney·Character.AI 파산 서류",
+      "headline": "한국 주UN대사, AI\n거버넌스 대화 공동의장",
+      "body": "Cha Ji-hoon 대사가 2027년 UN AI 거버넌스 대화 준비를 이끈다.",
+      "mini_headline": "한국, UN AI 대화 공동의장 맡아",
       "tool": "Politics",
-      "source": "Ars Technica (WIRED)",
-      "url": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20261021000600315",
       "accent": "#eb367f",
       "motif": "cube",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
-            "cap": "Disney 로고."
+            "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+            "cap": "2026년 7월 16일 U.N. 본부에서 발언하는 차지훈(Amb. Cha Ji-hoon) 대사(오른쪽에서 2번째). (Yonhap)"
           },
           {
             "t": "p",
-            "x": "법원 서류를 보면 Character.AI의 파산은 한 거래의 핵심이었다. Disney가 전 CEO 카란딥 아난드(Karandeep Anand)를 비롯한 직원 대부분을 채용하고 기술 대부분을 인수할 길을 열면서도, 법적 책임은 피할 수 있게 한 거래다. 한 신청서에 따르면 Disney는 이 스타트업의 “줄어드는 현금 보유고와 상당한 소송·규제 위험”을 들어 거래를 파산 절차로 “완전히 완결”해야 한다고 요구했다. Disney는 논평을 거부했다."
+            "x": "U.N. 웹사이트에 따르면 화요일 한국의 주유엔(United Nations) 대사가 AI 거버넌스 국제 협력을 촉진하려는 U.N. 이니셔티브의 공동의장으로 임명됐다."
           },
           {
             "t": "p",
-            "x": "Disney는 9월 $5.5 million과 환불 가능한 보증금 $2 million을 냈다. 10월 12일 Chapter 11 신청 이후에는 Character.AI의 코드와 도구 상당 부분에 대한 영구적·전 세계적·비독점 라이선스를 노린다. 라이선스는 경매에 부쳐지고, Disney가 낙찰받으면 종결 대금 $12.5 million을 낸다."
+            "x": "U.N. 총회 의장은 금요일 차지훈(Cha Ji-hoon) 대사와 세인트키츠네비스(Saint Kitts and Nevis) 상임대표 무트리스 아가사 윌리엄스(Mutryce Agatha Williams)를 임명하고, 2027년 AI 거버넌스 글로벌 대화(Global Dialogue on AI Governance) 준비를 맡겼다."
           },
           {
             "t": "p",
-            "x": "“363 Free and Clear Order” 초안에는 이번 거래가 합병이 아니며 법적 청구를 비롯한 모든 책임이 Character.AI에 남는다는 내용이 담길 예정이다. 이 회사를 조사 중인 주(州)들은 어떤 파산 계획에든 이의를 제기할 권리를 유보한다고 밝혔다."
+            "x": "2027년 5월 3-4일 열리는 이번 대화에는 각국 정부와 여러 이해관계자가 모여, 빠르게 발전하는 이 기술의 기회와 과제를 비롯한 AI 거버넌스 국제 협력을 논의한다."
+          },
+          {
+            "t": "p",
+            "x": "이 이니셔티브는 2025년 8월 채택된 U.N. 총회 결의로 만들어졌다. 정부와 민간 부문, 시민사회, 연구자가 함께 논의하는 자리다."
+          },
+          {
+            "t": "p",
+            "x": "이재명(Lee Jae Myung) 정부가 세계 AI 강국 상위 세 손가락 안에 드는 것을 목표로 삼은 만큼, 한국이 조정 역할을 맡을 것으로 보인다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Filings detail Disney's\nCharacter.AI bankruptcy deal",
-          "body": "Bankruptcy filings show Disney seeks a perpetual Character.AI license while Character.AI would keep its legal liabilities.",
-          "mini_headline": "Disney's Character.AI filings",
+          "headline": "Korea's UN envoy to co-chair\nglobal AI governance talks",
+          "body": "Ambassador Cha Ji-hoon will co-chair preparations for the UN Global Dialogue on AI Governance set for May 2027.",
+          "mini_headline": "Korea co-chairs UN AI dialogue",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
-                "cap": "A Disney logo."
+                "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+                "cap": "Amb. Cha Ji-hoon (2nd from R) speaking at U.N. headquarters on July 16, 2026. (Yonhap)"
               },
               {
                 "t": "p",
-                "x": "Court filings indicate Character.AI's bankruptcy was a key part of a deal letting Disney hire most of its staff, including former CEO Karandeep Anand, potentially acquire most of its technology, and avoid its legal liabilities. A motion says Disney required the deal be “fully consummated” through bankruptcy, citing the startup's “diminishing cash reserve and significant litigation and regulatory risks.” Disney declined to comment."
+                "x": "South Korea's ambassador to the United Nations has been appointed as co-chair of a U.N. initiative aimed at promoting international cooperation on AI governance, according to the U.N. website Tuesday."
               },
               {
                 "t": "p",
-                "x": "In September Disney paid $5.5 million plus a $2 million refundable deposit. After the October 12 Chapter 11 filing, Disney hopes to secure a perpetual, worldwide, nonexclusive license to much of Character.AI's code and tools; the license will be auctioned, with a $12.5 million closing payment if Disney wins."
+                "x": "Ambassador Cha Ji-hoon was appointed alongside Mutryce Agatha Williams, the permanent representative of Saint Kitts and Nevis, by the president of the U.N. General Assembly on Friday to lead preparations for the 2027 Global Dialogue on AI Governance."
               },
               {
                 "t": "p",
-                "x": "A draft “363 Free and Clear Order” would state the deal is not a merger and that Character.AI remains responsible for any liability, including legal claims. States investigating the company say they reserve the right to challenge any bankruptcy plan."
+                "x": "The dialogue, scheduled for May 3-4, 2027, will bring together governments and other stakeholders to discuss international cooperation on AI governance, including opportunities and challenges associated with the rapidly developing technology."
+              },
+              {
+                "t": "p",
+                "x": "The initiative was established under a U.N. General Assembly resolution adopted in August 2025 as a platform for discussions involving governments, the private sector, civil society and researchers."
+              },
+              {
+                "t": "p",
+                "x": "South Korea is expected to play a coordinating role, as the country seeks to become one of the world's top three AI powerhouses under the Lee Jae Myung administration."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Character.AI와\nDisney의 파산 거래",
-          "body": "Disney는 Character.AI 영구 라이선스를 노리되 책임은 떠안지 않는다.",
-          "mini_headline": "Disney·Character.AI 파산 서류",
+          "headline": "한국 주UN대사, AI\n거버넌스 대화 공동의장",
+          "body": "Cha Ji-hoon 대사가 2027년 UN AI 거버넌스 대화 준비를 이끈다.",
+          "mini_headline": "한국, UN AI 대화 공동의장 맡아",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
-                "cap": "Disney 로고."
+                "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+                "cap": "2026년 7월 16일 U.N. 본부에서 발언하는 차지훈(Amb. Cha Ji-hoon) 대사(오른쪽에서 2번째). (Yonhap)"
               },
               {
                 "t": "p",
-                "x": "법원 서류를 보면 Character.AI의 파산은 한 거래의 핵심이었다. Disney가 전 CEO 카란딥 아난드(Karandeep Anand)를 비롯한 직원 대부분을 채용하고 기술 대부분을 인수할 길을 열면서도, 법적 책임은 피할 수 있게 한 거래다. 한 신청서에 따르면 Disney는 이 스타트업의 “줄어드는 현금 보유고와 상당한 소송·규제 위험”을 들어 거래를 파산 절차로 “완전히 완결”해야 한다고 요구했다. Disney는 논평을 거부했다."
+                "x": "U.N. 웹사이트에 따르면 화요일 한국의 주유엔(United Nations) 대사가 AI 거버넌스 국제 협력을 촉진하려는 U.N. 이니셔티브의 공동의장으로 임명됐다."
               },
               {
                 "t": "p",
-                "x": "Disney는 9월 $5.5 million과 환불 가능한 보증금 $2 million을 냈다. 10월 12일 Chapter 11 신청 이후에는 Character.AI의 코드와 도구 상당 부분에 대한 영구적·전 세계적·비독점 라이선스를 노린다. 라이선스는 경매에 부쳐지고, Disney가 낙찰받으면 종결 대금 $12.5 million을 낸다."
+                "x": "U.N. 총회 의장은 금요일 차지훈(Cha Ji-hoon) 대사와 세인트키츠네비스(Saint Kitts and Nevis) 상임대표 무트리스 아가사 윌리엄스(Mutryce Agatha Williams)를 임명하고, 2027년 AI 거버넌스 글로벌 대화(Global Dialogue on AI Governance) 준비를 맡겼다."
               },
               {
                 "t": "p",
-                "x": "“363 Free and Clear Order” 초안에는 이번 거래가 합병이 아니며 법적 청구를 비롯한 모든 책임이 Character.AI에 남는다는 내용이 담길 예정이다. 이 회사를 조사 중인 주(州)들은 어떤 파산 계획에든 이의를 제기할 권리를 유보한다고 밝혔다."
+                "x": "2027년 5월 3-4일 열리는 이번 대화에는 각국 정부와 여러 이해관계자가 모여, 빠르게 발전하는 이 기술의 기회와 과제를 비롯한 AI 거버넌스 국제 협력을 논의한다."
+              },
+              {
+                "t": "p",
+                "x": "이 이니셔티브는 2025년 8월 채택된 U.N. 총회 결의로 만들어졌다. 정부와 민간 부문, 시민사회, 연구자가 함께 논의하는 자리다."
+              },
+              {
+                "t": "p",
+                "x": "이재명(Lee Jae Myung) 정부가 세계 AI 강국 상위 세 손가락 안에 드는 것을 목표로 삼은 만큼, 한국이 조정 역할을 맡을 것으로 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "破産書類が示すDisneyの\nCharacter.AI取引",
-          "body": "書類上、DisneyはCharacter.AIの永久ライセンスを求め、法的責任は負わない。",
-          "mini_headline": "DisneyとCharacter.AIの破産書類",
+          "headline": "韓国のUN大使、世界の\nAI統治対話の共同議長に",
+          "body": "Cha Ji-hoon大使が2027年5月のUN AIガバナンス対話の準備を共に率いる。",
+          "mini_headline": "韓国、UNのAI対話で共同議長",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
-                "cap": "Disneyのロゴ。"
+                "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+                "cap": "2026年7月16日、U.N.本部で発言する大使(Amb.) Cha Ji-hoon氏(右から2人目)。(Yonhap)"
               },
               {
                 "t": "p",
-                "x": "裁判所への提出書類によると、Character.AIの破産は、Disneyが元CEOのカランディープ・アナンド(Karandeep Anand)を含む社員の大半を雇用し、技術の大半を取得する可能性を得て、法的責任を回避できる取引の重要な要素だった。申し立て書によると、Disneyは同スタートアップの「減少する現金準備と重大な訴訟・規制リスク」を理由に、取引を破産手続きを通じて「完全に成立」させることを求めた。Disneyはコメントを控えた。"
+                "x": "U.N.のウェブサイトによると、韓国の国連(United Nations)大使が、AIガバナンスをめぐる国際協力の促進を目指すU.N.のイニシアチブの共同議長に任命された。火曜日に明らかになった。"
               },
               {
                 "t": "p",
-                "x": "Disneyは9月、$5.5 millionと返金可能な保証金$2 millionを支払った。10月12日のChapter 11申請後、DisneyはCharacter.AIのコードとツールの多くについて、永続的・全世界的・非独占的なライセンスの確保を目指す。ライセンスは競売にかけられ、Disneyが落札した場合は$12.5 millionのクロージング支払いを行う。"
+                "x": "U.N.総会議長は金曜日、Cha Ji-hoon大使とセントクリストファー・ネービス(Saint Kitts and Nevis)の常駐代表Mutryce Agatha Williams氏を任命し、2027年のGlobal Dialogue on AI Governance(AIガバナンスに関するグローバル対話)の準備を主導させることにした。"
               },
               {
                 "t": "p",
-                "x": "「363 Free and Clear Order」の草案は、この取引が合併ではなく、法的請求を含むあらゆる責任はCharacter.AIが引き続き負うと明記する見通しだ。同社を調査している州は、いかなる破産計画にも異議を申し立てる権利を留保するとしている。"
+                "x": "2027年5月3-4日に予定される対話には各国政府やその他の関係者が集まり、急速に発展するこの技術がもたらす機会と課題を含め、AIガバナンスをめぐる国際協力を話し合う。"
+              },
+              {
+                "t": "p",
+                "x": "このイニシアチブは、2025年8月に採択されたU.N.総会決議に基づき、政府、民間部門、市民社会、研究者が議論する場として設けられた。"
+              },
+              {
+                "t": "p",
+                "x": "韓国はLee Jae Myung(李在明)政権の下で世界トップスリーのAI強国入りを目指しており、調整役を担うとみられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "破产文件揭示Disney与\nCharacter.AI交易",
-          "body": "破产文件显示，Disney寻求Character.AI永久授权，但不承担其法律责任。",
-          "mini_headline": "Disney与Character.AI破产文件",
+          "headline": "韩国驻UN大使\n共同主持全球AI治理对话",
+          "body": "大使Cha Ji-hoon将共同主持定于2027年5月的UN全球AI治理对话筹备工作。",
+          "mini_headline": "韩国出任UN AI对话共同主席",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
-                "cap": "Disney标志。"
+                "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+                "cap": "2026年7月16日，大使(Amb.) Cha Ji-hoon(右起第2人)在U.N.总部发言。(Yonhap)"
               },
               {
                 "t": "p",
-                "x": "法庭文件显示，Character.AI破产是一项交易的关键环节：该交易让Disney得以聘用其大部分员工（包括前CEO Karandeep Anand），并可能收购其大部分技术，同时规避其法律责任。一份动议称，Disney以这家初创公司“现金储备不断减少，且面临重大诉讼和监管风险”为由，要求交易通过破产程序“全面完成”。Disney拒绝置评。"
+                "x": "据U.N.网站周二消息，韩国常驻联合国(United Nations)大使被任命为一项旨在促进AI治理国际合作的U.N.倡议的联合主席。"
               },
               {
                 "t": "p",
-                "x": "Disney于9月支付了$5.5 million，外加$2 million可退还押金。在10月12日申请Chapter 11后，Disney希望获得Character.AI大部分代码和工具的永久、全球、非独家授权；该授权将进行拍卖，若Disney胜出，将支付$12.5 million的成交款。"
+                "x": "U.N.大会主席周五任命Cha Ji-hoon大使与圣基茨和尼维斯(Saint Kitts and Nevis)常驻代表Mutryce Agatha Williams，共同领导2027年Global Dialogue on AI Governance(AI治理全球对话)的筹备工作。"
               },
               {
                 "t": "p",
-                "x": "一份“363 Free and Clear Order”草案将写明，该交易并非合并，Character.AI仍须承担包括法律索赔在内的一切责任。正在调查该公司的各州表示，保留对任何破产计划提出质疑的权利。"
+                "x": "该对话定于2027年5月3-4日举行，将召集各国政府和其他利益攸关方，讨论AI治理方面的国际合作，包括这项快速发展的技术带来的机遇与挑战。"
+              },
+              {
+                "t": "p",
+                "x": "该倡议依据2025年8月通过的一项U.N.大会决议设立，作为政府、私营部门、民间社会和研究人员共同讨论的平台。"
+              },
+              {
+                "t": "p",
+                "x": "韩国正寻求在Lee Jae Myung(李在明)政府领导下跻身全球AI三强，预计将发挥协调作用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Documentos de quiebra detallan\nel acuerdo Disney-Character.AI",
-          "body": "En los documentos de quiebra, Disney busca una licencia perpetua de Character.AI, que conservaría sus pasivos legales.",
-          "mini_headline": "Los documentos de Disney y Character.AI",
+          "headline": "Embajador surcoreano en la UN\ncopresidirá diálogo sobre AI",
+          "body": "El embajador Cha Ji-hoon copresidirá la preparación del diálogo de la UN sobre gobernanza de AI de mayo de 2027.",
+          "mini_headline": "Corea copreside el diálogo de AI de la UN",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
-                "cap": "Un logotipo de Disney."
+                "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+                "cap": "Amb. Cha Ji-hoon (2.º por la derecha) interviene en la sede de la U.N. el 16 de julio de 2026. (Yonhap)"
               },
               {
                 "t": "p",
-                "x": "Documentos judiciales indican que la quiebra de Character.AI fue una pieza clave de un acuerdo que permitió a Disney contratar a la mayor parte de su plantilla, incluido su ex CEO Karandeep Anand, adquirir potencialmente la mayor parte de su tecnología y evitar sus responsabilidades legales. Una moción señala que Disney exigió que el acuerdo se “consumara por completo” mediante la quiebra, citando la “reserva de efectivo cada vez menor y los importantes riesgos regulatorios y de litigio” de la startup. Disney declinó hacer comentarios."
+                "x": "El embajador de Corea del Sur ante las Naciones Unidas (United Nations) ha sido nombrado copresidente de una iniciativa de la U.N. destinada a promover la cooperación internacional en gobernanza de la AI, según el sitio web de la U.N. el martes."
               },
               {
                 "t": "p",
-                "x": "En septiembre, Disney pagó $5.5 millones más un depósito reembolsable de $2 millones. Tras la solicitud del Chapter 11 del 12 de octubre, Disney aspira a obtener una licencia perpetua, mundial y no exclusiva sobre gran parte del código y las herramientas de Character.AI; la licencia se subastará, con un pago de cierre de $12.5 millones si Disney gana."
+                "x": "La presidencia de la Asamblea General de la U.N. nombró el viernes al embajador Cha Ji-hoon, junto con Mutryce Agatha Williams, representante permanente de San Cristóbal y Nieves (Saint Kitts and Nevis), para dirigir los preparativos del Global Dialogue on AI Governance de 2027."
               },
               {
                 "t": "p",
-                "x": "Un borrador de “363 Free and Clear Order” establecería que el acuerdo no es una fusión y que Character.AI sigue siendo responsable de cualquier pasivo, incluidas las reclamaciones legales. Los estados que investigan a la empresa afirman que se reservan el derecho de impugnar cualquier plan de quiebra."
+                "x": "El diálogo, previsto para el 3-4 de mayo de 2027, reunirá a gobiernos y otras partes interesadas para debatir la cooperación internacional en gobernanza de la AI, incluidas las oportunidades y los desafíos de esta tecnología en rápido desarrollo."
+              },
+              {
+                "t": "p",
+                "x": "La iniciativa se creó en virtud de una resolución de la Asamblea General de la U.N. aprobada en agosto de 2025, como plataforma de debate entre gobiernos, sector privado, sociedad civil e investigadores."
+              },
+              {
+                "t": "p",
+                "x": "Se espera que Corea del Sur desempeñe un papel de coordinación, ya que el país aspira a convertirse en una de las tres principales potencias mundiales de AI bajo el gobierno de Lee Jae Myung."
               }
             ]
           }
@@ -1423,109 +1431,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Character.AI와\nDisney의 파산 거래",
-          "body": "Disney는 Character.AI 영구 라이선스를 노리되 책임은 떠안지 않는다.",
-          "mini_headline": "Disney·Character.AI 파산 서류",
+          "headline": "한국 주UN대사, AI\n거버넌스 대화 공동의장",
+          "body": "Cha Ji-hoon 대사가 2027년 UN AI 거버넌스 대화 준비를 이끈다.",
+          "mini_headline": "한국, UN AI 대화 공동의장 맡아",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
-                "cap": "Disney 로고."
+                "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+                "cap": "2026년 7월 16일 U.N. 본부에서 발언하는 차지훈(Amb. Cha Ji-hoon) 대사(오른쪽에서 2번째). (Yonhap)"
               },
               {
                 "t": "p",
-                "x": "법원 서류에 따르면 Character.AI의 파산은 Disney가 전 CEO 카란딥 아난드(Karandeep Anand)를 포함한 직원 대부분을 채용하고, 기술 대부분을 인수할 가능성을 열며, 법적 책임은 피할 수 있게 한 거래의 핵심이었다. 한 신청서에 따르면 Disney는 이 스타트업의 “줄어드는 현금 보유고와 상당한 소송·규제 위험”을 이유로 거래가 파산 절차를 통해 “완전히 완결”되어야 한다고 요구했다. Disney는 논평을 거부했다."
+                "x": "U.N. 웹사이트에 따르면 화요일 한국의 주유엔(United Nations) 대사가 AI 거버넌스 국제 협력 촉진을 목표로 하는 U.N. 이니셔티브의 공동의장으로 임명됐다."
               },
               {
                 "t": "p",
-                "x": "Disney는 9월 $5.5 million과 환불 가능한 보증금 $2 million을 지급했다. 10월 12일 Chapter 11 신청 이후 Disney는 Character.AI의 코드와 도구 상당 부분에 대한 영구적·전 세계적·비독점 라이선스를 확보하려 한다. 라이선스는 경매에 부쳐지며, Disney가 낙찰받으면 $12.5 million의 종결 대금을 낸다."
+                "x": "U.N. 총회 의장은 금요일 차지훈(Cha Ji-hoon) 대사와 세인트키츠네비스(Saint Kitts and Nevis) 상임대표 무트리스 아가사 윌리엄스(Mutryce Agatha Williams)를 임명해, 2027년 AI 거버넌스 글로벌 대화(Global Dialogue on AI Governance) 준비를 이끌게 했다."
               },
               {
                 "t": "p",
-                "x": "“363 Free and Clear Order” 초안에는 이번 거래가 합병이 아니며 법적 청구를 포함한 모든 책임은 Character.AI에 남는다는 내용이 담길 예정이다. 이 회사를 조사 중인 주(州)들은 어떤 파산 계획에도 이의를 제기할 권리를 유보한다고 밝혔다."
+                "x": "2027년 5월 3-4일로 예정된 이번 대화에는 각국 정부와 여러 이해관계자가 모여, 빠르게 발전하는 이 기술의 기회와 과제를 포함한 AI 거버넌스 국제 협력을 논의한다."
+              },
+              {
+                "t": "p",
+                "x": "이 이니셔티브는 2025년 8월 채택된 U.N. 총회 결의에 따라 정부, 민간 부문, 시민사회, 연구자가 함께 논의하는 장으로 만들어졌다."
+              },
+              {
+                "t": "p",
+                "x": "한국은 이재명(Lee Jae Myung) 정부 아래 세계 AI 강국 상위 세 손가락 안에 드는 것을 목표로 하고 있어, 조정 역할을 맡을 것으로 보인다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "破産書類が示すDisneyの\nCharacter.AI取引",
-          "body": "書類上、DisneyはCharacter.AIの永久ライセンスを求め、法的責任は負わない。",
-          "mini_headline": "DisneyとCharacter.AIの破産書類",
+          "headline": "韓国のUN大使、世界の\nAI統治対話の共同議長に",
+          "body": "Cha Ji-hoon大使が2027年5月のUN AIガバナンス対話の準備を共に率いる。",
+          "mini_headline": "韓国、UNのAI対話で共同議長",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
-                "cap": "Disneyのロゴ。"
+                "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+                "cap": "2026年7月16日、U.N.本部で発言する大使(Amb.) Cha Ji-hoon氏(右から2人目)。(Yonhap)"
               },
               {
                 "t": "p",
-                "x": "裁判所への提出書類によると、Character.AIの破産は、Disneyが元CEOのカランディープ・アナンド(Karandeep Anand)を含む社員の大半を雇用し、技術の大半を取得する可能性を得て、法的責任を回避できる取引の重要な要素だった。申し立て書によると、Disneyは同スタートアップの「減少する現金準備と重大な訴訟・規制リスク」を理由に、取引を破産手続きを通じて「完全に成立」させることを求めた。Disneyはコメントを控えた。"
+                "x": "U.N.のウェブサイトによると、韓国の国連(United Nations)大使が、AIガバナンスをめぐる国際協力の促進を目指すU.N.のイニシアチブの共同議長に任命された。火曜日に明らかになった。"
               },
               {
                 "t": "p",
-                "x": "Disneyは9月、$5.5 millionと返金可能な保証金$2 millionを支払った。10月12日のChapter 11申請後、DisneyはCharacter.AIのコードとツールの多くについて、永続的・全世界的・非独占的なライセンスの確保を目指す。ライセンスは競売にかけられ、Disneyが落札した場合は$12.5 millionのクロージング支払いを行う。"
+                "x": "U.N.総会議長は金曜日、Cha Ji-hoon大使とセントクリストファー・ネービス(Saint Kitts and Nevis)の常駐代表Mutryce Agatha Williams氏を任命し、2027年のGlobal Dialogue on AI Governance(AIガバナンスに関するグローバル対話)の準備を主導させることにした。"
               },
               {
                 "t": "p",
-                "x": "「363 Free and Clear Order」の草案は、この取引が合併ではなく、法的請求を含むあらゆる責任はCharacter.AIが引き続き負うと明記する見通しだ。同社を調査している州は、いかなる破産計画にも異議を申し立てる権利を留保するとしている。"
+                "x": "2027年5月3-4日に予定される対話には各国政府やその他の関係者が集まり、急速に発展するこの技術がもたらす機会と課題を含め、AIガバナンスをめぐる国際協力を話し合う。"
+              },
+              {
+                "t": "p",
+                "x": "このイニシアチブは、2025年8月に採択されたU.N.総会決議に基づき、政府、民間部門、市民社会、研究者が議論する場として設けられた。"
+              },
+              {
+                "t": "p",
+                "x": "韓国はLee Jae Myung(李在明)政権の下で世界トップスリーのAI強国入りを目指しており、調整役を担うとみられる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "破产文件揭示Disney与\nCharacter.AI交易",
-          "body": "破产文件显示，Disney寻求Character.AI永久授权，但不承担其法律责任。",
-          "mini_headline": "Disney与Character.AI破产文件",
+          "headline": "韩国驻UN大使\n共同主持全球AI治理对话",
+          "body": "大使Cha Ji-hoon将共同主持定于2027年5月的UN全球AI治理对话筹备工作。",
+          "mini_headline": "韩国出任UN AI对话共同主席",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
-                "cap": "Disney标志。"
+                "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+                "cap": "2026年7月16日，大使(Amb.) Cha Ji-hoon(右起第2人)在U.N.总部发言。(Yonhap)"
               },
               {
                 "t": "p",
-                "x": "法庭文件显示，Character.AI破产是一项交易的关键环节：该交易让Disney得以聘用其大部分员工（包括前CEO Karandeep Anand），并可能收购其大部分技术，同时规避其法律责任。一份动议称，Disney以这家初创公司“现金储备不断减少，且面临重大诉讼和监管风险”为由，要求交易通过破产程序“全面完成”。Disney拒绝置评。"
+                "x": "据U.N.网站周二消息，韩国常驻联合国(United Nations)大使被任命为一项旨在促进AI治理国际合作的U.N.倡议的联合主席。"
               },
               {
                 "t": "p",
-                "x": "Disney于9月支付了$5.5 million，外加$2 million可退还押金。在10月12日申请Chapter 11后，Disney希望获得Character.AI大部分代码和工具的永久、全球、非独家授权；该授权将进行拍卖，若Disney胜出，将支付$12.5 million的成交款。"
+                "x": "U.N.大会主席周五任命Cha Ji-hoon大使与圣基茨和尼维斯(Saint Kitts and Nevis)常驻代表Mutryce Agatha Williams，共同领导2027年Global Dialogue on AI Governance(AI治理全球对话)的筹备工作。"
               },
               {
                 "t": "p",
-                "x": "一份“363 Free and Clear Order”草案将写明，该交易并非合并，Character.AI仍须承担包括法律索赔在内的一切责任。正在调查该公司的各州表示，保留对任何破产计划提出质疑的权利。"
+                "x": "该对话定于2027年5月3-4日举行，将召集各国政府和其他利益攸关方，讨论AI治理方面的国际合作，包括这项快速发展的技术带来的机遇与挑战。"
+              },
+              {
+                "t": "p",
+                "x": "该倡议依据2025年8月通过的一项U.N.大会决议设立，作为政府、私营部门、民间社会和研究人员共同讨论的平台。"
+              },
+              {
+                "t": "p",
+                "x": "韩国正寻求在Lee Jae Myung(李在明)政府领导下跻身全球AI三强，预计将发挥协调作用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Documentos de quiebra detallan\nel acuerdo Disney-Character.AI",
-          "body": "En los documentos de quiebra, Disney busca una licencia perpetua de Character.AI, que conservaría sus pasivos legales.",
-          "mini_headline": "Los documentos de Disney y Character.AI",
+          "headline": "Embajador surcoreano en la UN\ncopresidirá diálogo sobre AI",
+          "body": "El embajador Cha Ji-hoon copresidirá la preparación del diálogo de la UN sobre gobernanza de AI de mayo de 2027.",
+          "mini_headline": "Corea copreside el diálogo de AI de la UN",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2018/06/getty-disney-1152x648.jpg",
-                "cap": "Un logotipo de Disney."
+                "src": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
+                "cap": "Amb. Cha Ji-hoon (2.º por la derecha) interviene en la sede de la U.N. el 16 de julio de 2026. (Yonhap)"
               },
               {
                 "t": "p",
-                "x": "Documentos judiciales indican que la quiebra de Character.AI fue una pieza clave de un acuerdo que permitió a Disney contratar a la mayor parte de su plantilla, incluido su ex CEO Karandeep Anand, adquirir potencialmente la mayor parte de su tecnología y evitar sus responsabilidades legales. Una moción señala que Disney exigió que el acuerdo se “consumara por completo” mediante la quiebra, citando la “reserva de efectivo cada vez menor y los importantes riesgos regulatorios y de litigio” de la startup. Disney declinó hacer comentarios."
+                "x": "El embajador de Corea del Sur ante las Naciones Unidas (United Nations) ha sido nombrado copresidente de una iniciativa de la U.N. destinada a promover la cooperación internacional en gobernanza de la AI, según el sitio web de la U.N. el martes."
               },
               {
                 "t": "p",
-                "x": "En septiembre, Disney pagó $5.5 millones más un depósito reembolsable de $2 millones. Tras la solicitud del Chapter 11 del 12 de octubre, Disney aspira a obtener una licencia perpetua, mundial y no exclusiva sobre gran parte del código y las herramientas de Character.AI; la licencia se subastará, con un pago de cierre de $12.5 millones si Disney gana."
+                "x": "La presidencia de la Asamblea General de la U.N. nombró el viernes al embajador Cha Ji-hoon, junto con Mutryce Agatha Williams, representante permanente de San Cristóbal y Nieves (Saint Kitts and Nevis), para dirigir los preparativos del Global Dialogue on AI Governance de 2027."
               },
               {
                 "t": "p",
-                "x": "Un borrador de “363 Free and Clear Order” establecería que el acuerdo no es una fusión y que Character.AI sigue siendo responsable de cualquier pasivo, incluidas las reclamaciones legales. Los estados que investigan a la empresa afirman que se reservan el derecho de impugnar cualquier plan de quiebra."
+                "x": "El diálogo, previsto para el 3-4 de mayo de 2027, reunirá a gobiernos y otras partes interesadas para debatir la cooperación internacional en gobernanza de la AI, incluidas las oportunidades y los desafíos de esta tecnología en rápido desarrollo."
+              },
+              {
+                "t": "p",
+                "x": "La iniciativa se creó en virtud de una resolución de la Asamblea General de la U.N. aprobada en agosto de 2025, como plataforma de debate entre gobiernos, sector privado, sociedad civil e investigadores."
+              },
+              {
+                "t": "p",
+                "x": "Se espera que Corea del Sur desempeñe un papel de coordinación, ya que el país aspira a convertirse en una de las tres principales potencias mundiales de AI bajo el gobierno de Lee Jae Myung."
               }
             ]
           }

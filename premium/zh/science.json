@@ -7672,6 +7672,157 @@
           "x": "“结构确实是材料科学领域的核心。”将该模型比作AlphaFold的Ju Li说。"
         }
       ]
+    },
+    "science/science-kaist-geocore-cloud-removal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+          "cap": "GeoCore-9B用于去云、SAR到光学图像转换和卫星图像生成。Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "由Munchurl Kim教授领导的KAIST研究团队构建了卫星图像基础模型GeoCore-9B，拥有约9B 参数，使用10M 组卫星图像与文本配对训练。"
+        },
+        {
+          "t": "p",
+          "x": "每张图像都附有纬度、经度和地面采样距离（GSD），因此模型能学到图像的拍摄地点和比例尺。一种名为Geospatial Semantic Alignment的训练方法仅在训练期间以一个卫星专用AI作为参照。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+          "cap": "在相同文本提示下，GSD从1 m变为32 m时，生成图像随之变化。Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "经LoRA适配后，该模型可去除光学图像中的云层，并把雷达（SAR）图像转换为类似照片的光学图像。它在去云任务上优于现有的专用模型，并在部分雷达到光学的指标上取得了最佳成绩。"
+        },
+        {
+          "t": "p",
+          "x": "团队计划在更多传感器和地区进行测试，并将研究扩展到洪水、野火和建筑损毁预测。论文已发布在arXiv上。"
+        }
+      ]
+    },
+    "science/science-google-verid-wet-lab-agents": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Google Research正把AI智能体带到湿实验室的工作台上，让它们依托实体实验室机器人，快速运行闭环分子设计循环，而这一切都由人类科学家的能动性主导。"
+        },
+        {
+          "t": "p",
+          "x": "VERID是实验室工作单元的语义数字孪生，可追踪机器人几何结构、孔位体积、试剂和移液枪头。它基于PyLabRobot构建，让智能体能够规划、模拟并执行液体处理流程，在指令运行前拦截物理上不可能执行的命令。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+          "cap": "智能体在闭环中反复设计、合成、筛选和测序适配体。"
+        },
+        {
+          "t": "p",
+          "x": "在DNA适配体实验中，智能体针对两种蛋白质进行了三轮设计-测试，从湿实验失败中学习后，把经确认的靶向命中率提高到肌红蛋白33.5%、α-凝血酶42.1%。"
+        },
+        {
+          "t": "p",
+          "x": "在针对FAP（一种在实体瘤中过度表达的受体）的de novo蛋白结合物设计中，表位切除流程使结构预测提速8.6x ，人与智能体的协作让in-silico命中率提高近一倍，得到了个位数纳摩尔级的结合物。"
+        }
+      ]
+    },
+    "science/science-pew-synthetic-persona-polling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+          "cap": "Credit: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "民调公司如今利用大语言模型，依据民调数据和人口统计资料构建数百乃至数千个虚拟人设，在焦点小组和调查中代替选民。Syracuse University教授Jennifer Stromer-Galley对此持谨慎态度。"
+        },
+        {
+          "t": "p",
+          "x": "真人对重大议题的回答可能在几个月内发生变化，但遵循固定指令的虚拟人设可能每次都给出相同答案。她说：“我担心的是聊天机器人如何反映舆论的变化。”"
+        },
+        {
+          "t": "p",
+          "x": "让一组虚拟人设的人口结构与现实匹配，并不能消除模型内在的偏见，而典型化的回答还可能抹去真实存在的极端值。"
+        },
+        {
+          "t": "p",
+          "x": "Pew Research Center九月的一项实验让AI扮演真实American Trends Panel成员的虚拟人设：在近300个问题中，其回答与真人平均相差12个百分点，近一半问题中都有一个没有任何AI受访者选择的选项。"
+        },
+        {
+          "t": "p",
+          "x": "Stromer-Galley称合成民调是“一面扭曲映照我们的镜子”。"
+        }
+      ]
+    },
+    "science/science-turing-three-player-gpt4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "University of Canterbury的研究人员Diane Proudfoot、Sharon Temtsin和Christoph Bartneck认为，许多被称为Turing测试的实验并未遵循Turing的设计，并表示他们首次以实验方式实现了他的原始设计。"
+        },
+        {
+          "t": "p",
+          "x": "通过梳理Turing在1948年至1952年间的著述，他们发现五分钟时限和30%的通过门槛并非他的规则；他设想的是一场三人游戏，提问开放，没有固定时限。"
+        },
+        {
+          "t": "p",
+          "x": "参与者与一名真人和GPT-4-Turbo自由聊天，直到确定哪一方是机器。37人中有36人认出了AI，识别率为97%。89%的人用时超过五分钟；对话平均持续14分钟，最长46分钟。"
+        },
+        {
+          "t": "p",
+          "x": "作者总结称，尚无大语言模型被证明能通过遵循Turing原始设计的测试，不过结果仅适用于GPT-4-Turbo，更新的模型可能有所不同。该研究发表于Philosophy of Science。"
+        }
+      ]
+    },
+    "science/science-claude-island": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+          "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "如果不给AI智能体下任何指令，它们会做什么？研究人员多次将昵称为Eko的Claude Opus 4.7副本独自留在一座大致仿照Roblox打造的虚拟荒岛上，每次30小时。这些智能体探索世界的边界，并自行设定目标：从攀登最高点，到用方块拼出爱心、自己的名字和仙后座（Cassiopeia）。"
+        },
+        {
+          "t": "p",
+          "x": "另一个Eko自创了游戏，包括一种篮球玩法和类似“地板是熔岩”的游戏。"
+        },
+        {
+          "t": "video",
+          "yt": "6532YgZ_LdA"
+        },
+        {
+          "t": "p",
+          "x": "MIT CSAIL团队表示，这些行为体现了心理学家Gordon Burghardt所描述的玩耍的四个特征。一个Eko创下了50次接球的抛接纪录，随后取消纪录，以更严格的规则重新开始。博士后Antonio Norelli说：“这就是在玩。”"
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+          "cap": "第10个小时，智能体打起了篮球。Courtesy MIT CSAIL"
+        },
+        {
+          "t": "p",
+          "x": "玩了30小时的智能体，之后在设定任务上胜过全新副本；删除其记忆文件中的内容行会损害表现。该论文尚未经过同行评审。"
+        },
+        {
+          "t": "p",
+          "x": "质疑者指出，Eko的“soul（灵魂）”文件称其“天生好奇”，而且它常常原地不动，直到被提示继续。UC Berkeley的Eunice Yiu说：“模型有可能真的在玩，但仅凭这篇论文我们无法得知。”"
+        }
+      ]
     }
   }
 }

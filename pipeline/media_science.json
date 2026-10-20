@@ -1,31 +1,7 @@
-{
-  "section": "science",
-  "media": [
-    {
-      "id": "science-claude-island",
-      "type": "video",
-      "src": "pipeline/media/science-claude-island.mp4",
-      "poster": "pipeline/media/science-claude-island.jpg"
-    },
-    {
-      "id": "science-racedrone-1020",
-      "type": "image",
-      "src": "pipeline/media/science-racedrone-1020.jpg"
-    },
-    {
-      "id": "science-kaist-photoflow",
-      "type": "image",
-      "src": "pipeline/media/science-kaist-photoflow.jpg"
-    },
-    {
-      "id": "science-portbooks-soton",
-      "type": "image",
-      "src": "pipeline/media/science-portbooks-soton.jpg"
-    },
-    {
-      "id": "science-brainrot-tamu",
-      "type": "image",
-      "src": "pipeline/media/science-brainrot-tamu.jpg"
-    }
-  ]
-}
+{"date":"2026-10-21","section":"science","media":[
+{"id":"science-flip-lunar-supercomputer","type":"image","src":"pipeline/media/science-flip-lunar-supercomputer.jpg"},
+{"id":"science-kaist-geocore-cloud-removal","type":"image","src":"pipeline/media/science-kaist-geocore-cloud-removal.jpg"},
+{"id":"science-google-verid-wet-lab-agents","type":"video","src":"pipeline/media/science-google-verid-wet-lab-agents.mp4","poster":"pipeline/media/science-google-verid-wet-lab-agents.jpg"},
+{"id":"science-pew-synthetic-persona-polling","type":"image","src":"pipeline/media/science-pew-synthetic-persona-polling.jpg"},
+{"id":"science-turing-three-player-gpt4","type":"image","src":"pipeline/media/science-turing-three-player-gpt4.jpg"}
+]}

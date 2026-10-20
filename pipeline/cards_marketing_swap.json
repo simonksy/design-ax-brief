@@ -1,49 +1,84 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-21",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-walmart-sparky",
+      "id": "marketing-ai-max-ad-grants-autoon",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Walmart says AI savings fund\nbetter customer experience",
-      "body": "Walmart U.S. CEO David Guggina says AI is cutting costs that the retailer reinvests in customer experience.",
-      "mini_headline": "Walmart reinvests AI savings",
+      "headline": "AI Max spotted switched on\nin some Ad Grants accounts",
+      "body": "AI Max was spotted switched on unprompted in some Ad Grants accounts, which could threaten nonprofits' CTR floor.",
+      "mini_headline": "AI Max spotted in Ad Grants",
       "tool": "Marketing",
-      "source": "Retail Dive",
-      "url": "https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/",
-      "accent": "#7928ca",
+      "source": "Search Engine Land",
+      "url": "https://searchengineland.com/google-ads-ai-max-spotted-automatically-enabled-in-some-ad-grants-accounts-497261",
+      "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+            "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
           },
           {
             "t": "p",
-            "x": "Advancements in AI are helping Walmart save money, which it is, in turn, reinvesting in customer experience improvements, according to U.S. CEO David Guggina."
+            "x": "Google Ads' AI Max feature is appearing automatically enabled in some Google Ad Grants Search campaigns without advertisers manually switching it on, raising questions about how much control nonprofit advertisers have over AI-powered campaign settings. Google has not confirmed that this represents a new, Ad Grants-wide rollout."
           },
           {
             "t": "p",
-            "x": "“We have been leaning into AI for quite some time — we've had physical AI in our supply chain for over seven years — and you can see it reshaping our company, reshaping our customer value proposition,” Guggina said in a conversation with Goldman Sachs’ Katharine McShane."
+            "x": "AI Max expands Search campaigns with broad-match and keywordless search term matching, automatically generated or adapted ad text based on landing pages, and landing page signals that help Google judge which searches are relevant."
+          },
+          {
+            "t": "img",
+            "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
+            "cap": "The AI Max for Search campaigns setting in Google Ads"
           },
           {
             "t": "p",
-            "x": "The gains show most in e-commerce: sales grew 24% year over year in Q2, the 10th consecutive quarter of more than 20% growth. Guggina credited AI-driven efficiencies — faster delivery and cost savings — that were reinvested into competitive pricing and customer experience."
+            "x": "For Ad Grants advertisers, CTR is tied to account compliance. Broader matching may reach new audiences, but extra impressions without clicks could drag CTR down — a concern for accounts already close to the minimum threshold."
           },
           {
             "t": "p",
-            "x": "Sparky, which Guggina describes as “becoming more and more capable,” is central to those improvements. Weekly engagement with Sparky has grown 60% quarter over quarter, and its new visual search has led to a 57% spike in conversion compared with text-based searches."
-          },
-          {
-            "t": "p",
-            "x": "Guggina is also “really happy” with partnerships with external AI agents like OpenAI’s ChatGPT and Google’s Gemini, which most often deep link customers to Walmart with “fantastic conversion rates.” That contrasts with Amazon, which last month moved to block Meta’s new AI assistant Muse from its site. Many customers arriving via ChatGPT and Gemini are new or returning, with a “very high” organic repeat rate."
+            "x": "Nonprofits should check this week whether AI Max is enabled, review recent search terms, monitor CTR and confirm any added traffic fits their goals. The change was first spotted by digital advertising specialist Dan Kabakov on LinkedIn."
           }
         ]
-      },
-      "lead_image": "https://imgproxy.divecdn.com/N0CNNvi03NVj56f17Jj--fTViUoy256WkqmWFv9TYM8/g:ce/rs:fill:1200:675:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI1ODcxNTMxLmpwZw==.webp"
+      }
+    },
+    {
+      "id": "marketing-hark-agent-pizza-promo",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "A free-pizza AI agent promo\ntops charts, then misfires",
+      "body": "Hark's $1M DoorDash pizza giveaway hit No. 1 in Lifestyle, but many orders failed and it sought broad Gmail access.",
+      "mini_headline": "AI agent pizza promo misfires",
+      "tool": "Marketing",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/10/20/hark-ai-agent-startup-free-pizza-doordash",
+      "accent": "#eb367f",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
+            "cap": "Illustration: Brendan Lynch/Axios"
+          },
+          {
+            "t": "p",
+            "x": "AI startup Hark offered $30 in DoorDash credit in a $1 million giveaway meant to showcase its agent: download Hark Pro, connect your accounts and ask the agent to order a pizza. The promo pushed Hark to No. 1 in the Lifestyle category of Apple's App Store, and Hark says it delivered nearly 20,000 pizzas despite technical problems from overwhelming demand."
+          },
+          {
+            "t": "p",
+            "x": "Many users had a worse night. Investor Sheel Mohnot said ordering took 20 minutes; another user reported a $27.70 charge when the credit didn't apply; Replika founder Eugenia Kuyda posted repeated failed attempts. The Axios reporter got the credit but no pizza, plus a Google security alert after connecting Gmail. Hark requests extensive Google permissions, including reading, composing and sending email."
+          },
+          {
+            "t": "p",
+            "x": "CEO Brett Adcock said usage surged and many things broke, though Hark ran more than 203,500 browser sessions through its Handoff model. A spokesperson said the problems were unique to the promotion and offered gift cards to affected users. The lesson: agents still need logins, permissions and human help, which can make simple tasks harder."
+          }
+        ]
+      }
     }
   ]
 }

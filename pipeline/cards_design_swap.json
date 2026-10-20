@@ -1,53 +1,91 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-21",
   "section": "design",
   "cards": [
     {
-      "id": "design-hourglass-middle",
+      "id": "design-dxo-viewpoint6-ai-masking",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI is hollowing out\nthe middle of design",
-      "body": "After years of a growing design process, an essay argues AI is now squeezing its middle into an hourglass shape.",
-      "mini_headline": "AI hollows out\ndesign's middle",
+      "headline": "DxO ViewPoint 6 adds AI masking\nwith no generated pixels",
+      "body": "DxO's geometry-correction tool ViewPoint 6 adds AI masking while insisting it generates no new image content.",
+      "mini_headline": "ViewPoint 6 adds AI masking",
+      "tool": "KeyShot",
+      "source": "Digital Camera World",
+      "url": "https://www.digitalcameraworld.com/tech/software/wonky-photos-of-buildings-begone-dxo-viewpoint-6-introduces-ai-masking-but-maintains-that-no-ai-image-generation-takes-place",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Struggling to correct wonky buildings, want a tilt-shift look without a specialist lens, or have barrel distortion stretching subjects at the frame's corners? DxO has launched ViewPoint 6, the latest version of its geometry-based photo editor, and the headline feature is combining geometric corrections with AI masking for precise, local edits."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
+            "cap": "Mesh subdivisions give you much finer, localized control in ViewPoint 6 (Image credit: DxO)"
+          },
+          {
+            "t": "p",
+            "x": "AI masking in ReShape Fusion lets users mask a specific object, such as a tall building, and correct its geometry independently of the rest of the photo, instead of correcting the whole image and cropping. Users draw a selection box around the subject; ViewPoint 6 masks it and places a mesh with control points directly on top of it, with more subdivision options for finer local control."
+          },
+          {
+            "t": "p",
+            "x": "DxO is keen to point out that no AI image generation takes place: “It rearranges the components of the scene the photographer captured rather than recreating them”."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
+            "cap": "Reshaping facial features is possible thanks to ViewPoint 6’s local geometric adjustments (Image credit: DxO)"
+          },
+          {
+            "t": "p",
+            "x": "As standalone software, ViewPoint 6 now opens RAW files (as well as TIFF and JPEG), and it also works as a plug-in for Photoshop, Lightroom Classic and DxO PhotoLab 10. It is available now for $129.99 / £109.99, or $84.99 / £69.99 to upgrade from ViewPoint 5, with a 30-day free trial."
+          }
+        ]
+      }
+    },
+    {
+      "id": "design-anthropic-attention-bottleneck",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Human attention is the\ndesign bottleneck again",
+      "body": "Anthropic's study logs six agent hours per human hour, so designers must now decide what deserves human attention.",
+      "mini_headline": "Design for human attention",
       "tool": "AI Workflow",
       "source": "UX Collective",
-      "url": "https://uxdesign.cc/ai-is-hollowing-out-the-middle-of-design-leaving-an-hourglass-behind-b7069db250fd",
-      "accent": "#eb367f",
+      "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a",
+      "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1400/1*4bZ8kF6nLRqeaSUTfj-yNw.png"
+            "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+            "cap": "A wide office floor where one person reads at a desk while dozens of screens around them keep filling with new work for them to address."
           },
           {
             "t": "p",
-            "x": "For fifteen years, the design process kept growing while the time left for making the product kept shrinking. Anamol Rajbhandari argues the middle of that process — research reports, personas, journey maps, wireframes, handoff specs, workshops — is draining now, with the weight moving out to the two ends: deciding at the top, making at the bottom, like an hourglass."
-          },
-          {
-            "t": "p",
-            "x": "That middle was buying agreement among a dozen specialists while money was cheap. Then the Fed raised rates eleven times between March 2022 and July 2023, and ChatGPT arrived in November 2022, giving companies both a reason and the means to cut it."
+            "x": "On October 16, four Anthropic researchers published “How employment is changing at Anthropic.” By August 2026, agents directed by employees were logging six hours for every hour their people worked. Agent sessions spent about 80% of their time idle, waiting for a person, and even for non-coders, reading everything their agents produced would take more than half the workweek. “That’s the reading tax, and every team with agents will pay it.”"
           },
           {
             "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1400/1*6b5qnzDibO1w3-a9whmHXw.png"
+            "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
+            "cap": "Agents work more than humans. Not a surprise."
           },
           {
             "t": "p",
-            "x": "Research had already shown the artifacts standing in for something else: practitioners used personas almost only for communication, and in one Rolf Molich study seventeen teams reported 340 usability problems, none found by every team. An AI model now drafts the discussion guide and surfaces the tensions in a stack of transcripts in a minute."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1400/1*3iDAq61hcQXIOtd2LVKrtQ.png"
+            "x": "Patrick Neeman argues the work is turning everyone into a manager, and offers seven steps for keeping people in charge of the loop: measure reading time like a page-load budget, rank agent requests by severity, design the review step, write decisions down where agents can find them, manage the agents, hire for judgment, and rebuild entry-level roles around review."
           },
           {
             "t": "p",
-            "x": "A working prototype now takes an afternoon instead of a quarter, so making comes back to the designer. The far end — judging what deserves to exist — becomes the moat: a designer decides what is worth making, collaborates at speed, and then makes it well."
-          },
-          {
-            "t": "img",
-            "src": "https://miro.medium.com/v2/resize:fit:1400/1*JrFUFOOQTMt7wn7qCj00hQ.jpeg"
+            "x": "Output keeps getting cheaper while human attention stays fixed. Designers, researchers and product managers set what agents show people, when they interrupt and how review works, and the job is to create judgement systems for what deserves attention."
           }
         ]
       }

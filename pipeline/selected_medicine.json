@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "section": "medicine",
   "user_selection": null,
   "picks": [
@@ -9,14 +9,14 @@
       "category": "medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "메디컬에이아이, 심전도 기반 심부전 진단 보조 AI 'AiTiALVSD' 美 FDA 허가 획득",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014060",
-      "source": "의학신문",
-      "published_iso": "2026-10-16T08:34:25+09:00",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014060_414973_5342.jpg",
-      "excerpt": "메디컬에이아이의 심전도 기반 좌심실 수축기능부전(심부전) 진단 보조 소프트웨어 'AiTiALVSD'가 미국 FDA 허가를 받았다.",
-      "lang": "ko",
-      "rationale": "A concrete FDA clearance for an ECG-based heart-failure detection SaMD, so it reaches regulators and clinicians directly. The full URL (idxno=3014060) does not appear in the history."
+      "title": "Can one photo of your face reveal how ill you are?",
+      "url": "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo",
+      "source": "BBC News",
+      "published_iso": "2026-10-20T07:29:01Z",
+      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg",
+      "excerpt": "US researchers report a foundation AI model (FAHR-Face, Lancet Digital Health) that may help doctors judge how ill a patient is from a single photograph of their face.",
+      "lang": "en",
+      "rationale": "A Lancet Digital Health foundation model, FAHR-Face, that estimates how ill a patient is from one face photo, aimed at clinicians' bedside judgement. Nothing like it appears in the 30-day history."
     },
     {
       "rank": 2,
@@ -24,14 +24,14 @@
       "category": "medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "Effect of Previsit AI-Generated Document Summaries on Consultation Time and Patient-Physician Communication: The AI-INFOCARE Randomized Controlled Trial",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600136",
-      "source": "NEJM AI",
-      "published_iso": "2026-10-15T14:00:52Z",
-      "og_image": "https://ai.nejm.org/cms/asset/665741ae-c85c-434e-b7d1-55af5be4a335/aioa2600136_f1.jpg",
-      "excerpt": "A randomized trial tested whether AI-generated, quality-checked lay-language summaries of patients' medical documents, given before the visit, change consultation time and patient-physician communication.",
-      "lang": "en",
-      "rationale": "An RCT on giving patients AI lay-language summaries before the visit, with consultation time and communication as outcomes. It is a different study and intervention from the 10-11 LLM pre-consultation trial and the 10-18 oncology usability study."
+      "title": "미 소아 자폐 진단 AI 승인",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013789",
+      "source": "의학신문",
+      "published_iso": "2026-10-15T12:00:00+09:00",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
+      "excerpt": "아거스 코그니티브의 18개월~12세 소아 대상 자폐 스펙트럼 장애 진단 AI 소프트웨어가 미국 FDA 승인을 받았다.",
+      "lang": "ko",
+      "rationale": "An FDA authorization for Argus Cognitive's AI that diagnoses autism in children aged 18 months to 12 years, so it reaches regulators directly. The full URL (idxno=3013789) and the autism topic are absent from the history."
     },
     {
       "rank": 3,
@@ -39,14 +39,14 @@
       "category": "medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "HPI: Evidence contradicts broad claims about AI, radiology workforce",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15837225/hpi-evidence-contradicts-broad-claims-about-ai-radiology-workforce",
-      "source": "AuntMinnie",
-      "published_iso": "2026-10-13T12:00:00Z",
-      "og_image": null,
-      "excerpt": "The ACR's Harvey L. Neiman Health Policy Institute says claims that AI has reduced the need for radiologists are contradicted by rising imaging volumes, projected 17-27% demand growth by 2055 and climbing radiologist workloads.",
+      "title": "Robotic therapy for stroke patients",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "source": "MIT Technology Review",
+      "published_iso": "2026-10-20T17:00:00-04:00",
+      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
+      "excerpt": "An adaptive physical rehab system uses generative AI to learn from physical therapists and offer personalized support to stroke patients.",
       "lang": "en",
-      "rationale": "An ACR Neiman Health Policy Institute analysis that pushes back on the claim that AI replaces radiologists, a workforce question that matters to clinicians and health systems. Nothing comparable has been published."
+      "rationale": "An adaptive robotic rehab system that learns from physical therapists to deliver personalized stroke rehabilitation, an AI tool used with patients. It is a different disease and modality from the 10-08 Parkinson's telerehab trial."
     },
     {
       "rank": 4,
@@ -54,14 +54,14 @@
       "category": "medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "A generalizable deep learning model for predicting opioid use disorder using language modeling for cross-EHR data harmonization",
-      "url": "https://www.nature.com/articles/s41746-026-03392-w",
+      "title": "Expertise modulates automation bias and sentinel behavior in human-AI collaborative diagnosis of neonatal pneumoperitoneum",
+      "url": "https://www.nature.com/articles/s41746-026-03399-3",
       "source": "npj Digital Medicine",
-      "published_iso": "2026-10-19T00:00:00Z",
-      "og_image": null,
-      "excerpt": "OUD-REY is a deep learning model that uses longitudinal EHR data from the All of Us program, harmonized across record systems with language modeling, to predict a patient's one-year risk of opioid use disorder.",
+      "published_iso": "2026-10-20T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Tests the assumption that AI sensitivity plus clinician oversight adds up: in neonatal pneumoperitoneum diagnosis, clinician expertise shaped automation bias and whether readers caught AI errors.",
       "lang": "en",
-      "rationale": "OUD-REY predicts one-year opioid use disorder risk from All of Us EHR data harmonized across record systems. It targets a specific disease, is new research, and has nothing in common with the 10-13 data-privacy match beyond wording."
+      "rationale": "Finds that clinician expertise determines whether readers catch AI errors or defer to them in neonatal pneumoperitoneum diagnosis, which bears on how human oversight of diagnostic AI is designed. It asks a different question from the 10-14 neonatal continual-learning study."
     },
     {
       "rank": 5,
@@ -69,44 +69,44 @@
       "category": "medicine",
       "accent": "#eb367f",
       "motif": "sphere",
-      "title": "루닛, 난소암·방광암 AI 연구 발표…면역항암 치료반응 탐색",
-      "url": "https://www.dailypharm.com/user/news/343389",
-      "source": "데일리팜",
-      "published_iso": "2026-10-14T10:13:26+09:00",
-      "og_image": "https://vod.dailypharm.com/new_dailypharm/news/thumbnail/2026/10/14/5676f108-eb91-4918-8543-274a7d963ad4.png",
-      "excerpt": "루닛이 SITC 2026에서 AI 바이오마커 플랫폼 루닛 스코프로 난소암(랩콥 공동)과 방광암의 면역항암 치료 반응을 탐색한 연구초록 2편을 발표한다.",
-      "lang": "ko",
-      "rationale": "Lunit's SITC 2026 abstracts on predicting immunotherapy response in ovarian and bladder cancer with Lunit SCOPE. These are specific cancers with a treatment-response angle, Lunit has not appeared in the 30-day history, and the pick adds a fifth outlet."
+      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
+      "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
+      "source": "MIT News",
+      "published_iso": "2026-10-19T18:20:00Z",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg",
+      "excerpt": "A new AI model called E(3)-Pose helps capture high-resolution images of a fetus's head to improve early detection of developmental anomalies during pregnancy.",
+      "lang": "en",
+      "rationale": "E(3)-Pose, a symmetry-aware model that steers high-resolution fetal head imaging toward earlier detection of developmental anomalies in prenatal care. No prenatal or fetal-imaging story appears in the history, and the pick adds a fifth outlet."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.bosa.co.kr/news/articleView.html?idxno=3014060": {
+      "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo": {
         "verdict": "new",
-        "nearest": "https://ai.nejm.org/doi/full/10.1056/AIoa2600258",
+        "nearest": "https://www.nature.com/articles/s41591-026-04626-w",
         "new_action": ""
       },
-      "https://ai.nejm.org/doi/full/10.1056/AIoa2600136": {
+      "https://www.bosa.co.kr/news/articleView.html?idxno=3013789": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03232-x",
+        "nearest": "https://radiologybusiness.com/topics/medical-imaging/diagnostic-imaging/fda-clears-ai-tool-pediatric-bone-age-assessments",
         "new_action": ""
       },
-      "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15837225/hpi-evidence-contradicts-broad-claims-about-ai-radiology-workforce": {
+      "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/": {
         "verdict": "new",
-        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/widespread-ai-adoption-private-practice-produces-measurable-efficiency-gains",
+        "nearest": "https://www.nature.com/articles/s41746-026-03339-1",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s41746-026-03392-w": {
+      "https://www.nature.com/articles/s41746-026-03399-3": {
         "verdict": "new",
-        "nearest": "https://www.healthcaredive.com/news/data-privacy-concerns-could-hold-patients-back-from-using-ai/831902/",
+        "nearest": "https://www.nature.com/articles/s41551-026-01812-6",
         "new_action": ""
       },
-      "https://www.dailypharm.com/user/news/343389": {
+      "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       }
     },
-    "note": "Dropped: (1) BMJ Utah/Nolla AI prescriptions is the running Utah health-AI sandbox story (10-07 Healthcare Dive pilots, 10-15 STAT lobbyists) with no new decision of its own that can be verified from the excerpt. (2) STAT 'AI sandboxes' is a newsletter on the same state-sandbox regulation story as the 10-15 STAT lobbyists card. (3) STAT Clairity direct-to-patient covers the same company/access story as the 10-08 AuntMinnie Clairity/Everlywell card. (4) Radiology Business on adapting adult AI to pediatric patients appears to cover the same research as the 10-14 Nature BME neonatal continual-learning study. (5) Communications Medicine EpiSemoLLM overlaps the 10-09 and 10-14 epilepsy-LLM cards, per orchestrator. (6) Medigate Coreline AVIEW CAC Doctornet: same company and same Japan expansion as the published 10-10 Coreline Japan certification; max one per company. Not picked on merit: NEJM AI medulloblastoma case study (single case, no image), SAIL year-in-review perspective, TrajOnco (would make a second npj card), AuntMinnie turnaround times (would make a second AuntMinnie card; Oct 8), MedCity agentic commentary, JLK patent, bosa US-regulation advice column, Soonchunhyang regional care plan. Diversity: 5 distinct outlets, at most one per outlet."
+    "note": "Dropped as duplicates: (1) BMJ Utah/Nolla AI prescriptions (history_match related to the 10-07 Healthcare Dive Utah pilots) is part of the running Utah health-AI sandbox story and reports no new decision of its own; it was also dropped on 10-20. (2) STAT 'AI sandboxes' (related to the 10-07 Utah card) is a newsletter on the same state-sandbox regulation story as the 10-15 STAT lobbyists card; it was also dropped on 10-20. Not picked on judgement: (3) Medigate Lunit HER2/AIforHER at ESMO (history_match related to the 10-20 Dailypharm Lunit SITC card). On content it is a distinct announcement (a different congress, HER2 with AstraZeneca/Daiichi Sankyo, versus SITC ovarian/bladder IO response), so it is not a strict duplicate. It was held back because a second same-company conference-abstract card one day later adds little; use it if a backfill is needed. Not picked on merit: two Cardiovascular Business AI items (an off-list exception domain; there were AI-ECG cards on 10-19 and 10-20); GUARD-LGG and the rTMS RL paper (would make a second npj card); AuntMinnie Choosing Wisely LLMs (close in theme to the 10-17 NEJM AI LLM cost-of-care card); Stanford HAI benchmark retrospective, WIRED genome feature, NEJM AI SAIL perspective and medulloblastoma case study (commentary or single case); Samsung IHF keynote (commentary); bosa Ajou CT lung IO biomarker (Oct 14, weaker than the autism FDA item from the same outlet). Diversity: 5 distinct outlets, one per outlet; no pathogen or biosecurity content."
   }
 }

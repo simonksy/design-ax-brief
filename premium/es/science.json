@@ -8111,6 +8111,157 @@
           "x": "“La estructura está realmente en el corazón de la ciencia de materiales”, afirma Ju Li, quien compara el modelo con AlphaFold."
         }
       ]
+    },
+    "science/science-kaist-geocore-cloud-removal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
+          "cap": "GeoCore-9B aplicado a la eliminación de nubes, la traducción de SAR a óptico y la generación de imágenes satelitales. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de KAIST dirigidos por el profesor Munchurl Kim crearon GeoCore-9B, un modelo fundacional de imágenes satelitales con unos 9 mil millones de parámetros, entrenado con 10 millones de pares de imagen y texto satelitales."
+        },
+        {
+          "t": "p",
+          "x": "Cada imagen se acompaña de latitud, longitud y distancia de muestreo en el terreno (GSD), de modo que el modelo aprende dónde se tomó una imagen y a qué escala. Un método de entrenamiento llamado Geospatial Semantic Alignment usa una AI especializada en satélites como referencia solo durante el entrenamiento."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
+          "cap": "Las imágenes generadas cambian cuando la GSD pasa de 1 m a 32 m con el mismo prompt de texto. Credit: KAIST"
+        },
+        {
+          "t": "p",
+          "x": "Adaptado con LoRA, el modelo elimina nubes de imágenes ópticas y convierte imágenes de radar (SAR) en vistas ópticas similares a fotografías. Superó a los modelos específicos existentes en eliminación de nubes y logró los mejores resultados en algunas métricas de radar a óptico."
+        },
+        {
+          "t": "p",
+          "x": "El equipo prevé probar más sensores y regiones y extender el trabajo a la predicción de inundaciones, incendios forestales y daños en edificios. El artículo está publicado en arXiv."
+        }
+      ]
+    },
+    "science/science-google-verid-wet-lab-agents": {
+      "blocks": [
+        {
+          "t": "video",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Google Research está llevando agentes de AI a la mesa del laboratorio húmedo, conectándolos con robótica de laboratorio física para ejecutar ciclos rápidos de diseño molecular en bucle cerrado, todo ello impulsado por la agencia científica humana."
+        },
+        {
+          "t": "p",
+          "x": "VERID es un gemelo digital semántico de la celda de trabajo del laboratorio que registra la geometría del robot, los volúmenes de los pocillos, los reactivos y las puntas de pipeta. Construido sobre PyLabRobot, permite que un agente planifique, simule y ejecute protocolos de manejo de líquidos, y detecta las órdenes físicamente imposibles antes de que se ejecuten."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
+          "cap": "Los agentes diseñan, sintetizan, seleccionan y secuencian aptámeros de forma iterativa en un bucle cerrado."
+        },
+        {
+          "t": "p",
+          "x": "Con aptámeros de DNA, los agentes completaron tres rondas de diseño y prueba sobre dos proteínas y, tras aprender de los fallos en el laboratorio húmedo, elevaron las tasas de acierto confirmadas sobre el objetivo al 33.5% para la mioglobina y al 42.1% para la α-trombina."
+        },
+        {
+          "t": "p",
+          "x": "Para ligandos proteicos de novo contra FAP, un receptor sobreexpresado en tumores sólidos, un flujo de escisión de epítopos aceleró 8.6x la predicción de estructuras, y la colaboración entre humanos y agentes casi duplicó la tasa de acierto in-silico, con ligandos de afinidad nanomolar de un solo dígito."
+        }
+      ]
+    },
+    "science/science-pew-synthetic-persona-polling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
+          "cap": "Credit: Pixabay/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Las encuestadoras crean ahora cientos o miles de perfiles con modelos de lenguaje de gran tamaño, a partir de datos de encuestas y demografía, para sustituir a los votantes en grupos focales y sondeos. Jennifer Stromer-Galley, profesora de Syracuse University, se muestra cautelosa."
+        },
+        {
+          "t": "p",
+          "x": "Las respuestas de las personas reales sobre los grandes temas pueden cambiar en cuestión de meses, pero los perfiles que siguen instrucciones fijas pueden dar siempre las mismas respuestas. \"Me preocupa cómo los chatbots reflejan los cambios en la opinión pública\", afirma."
+        },
+        {
+          "t": "p",
+          "x": "Igualar la demografía de un conjunto de perfiles no corrige el sesgo integrado en el modelo, y las respuestas típicas pueden borrar los casos atípicos reales."
+        },
+        {
+          "t": "p",
+          "x": "Un experimento de septiembre del Pew Research Center hizo que una AI adoptara los perfiles de miembros reales del American Trends Panel: en casi 300 preguntas, sus respuestas difirieron de las humanas en 12 puntos porcentuales de media, y casi la mitad de las preguntas tenía una opción que ningún encuestado de AI eligió."
+        },
+        {
+          "t": "p",
+          "x": "Stromer-Galley describe las encuestas sintéticas como un \"espejo distorsionado de nosotros\"."
+        }
+      ]
+    },
+    "science/science-turing-three-player-gpt4": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
+          "cap": "Credit: Unsplash/CC0 Public Domain"
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores de la University of Canterbury Diane Proudfoot, Sharon Temtsin y Christoph Bartneck sostienen que muchos experimentos llamados pruebas de Turing no siguen el diseño de Turing, y afirman haber implementado experimentalmente su diseño original por primera vez."
+        },
+        {
+          "t": "p",
+          "x": "Al revisar los escritos de Turing de 1948 a 1952, comprobaron que el límite de cinco minutos y el umbral de aprobación del 30% no eran reglas suyas; él concibió un juego de tres jugadores con preguntas abiertas y sin límite de tiempo fijo."
+        },
+        {
+          "t": "p",
+          "x": "Los participantes conversaron libremente con un humano y con GPT-4-Turbo hasta estar seguros de cuál era la máquina. 36 de 37 identificaron a la AI, una tasa del 97%. El 89% tardó más de cinco minutos; las conversaciones duraron 14 minutos de media, y la más larga, 46."
+        },
+        {
+          "t": "p",
+          "x": "Los autores concluyen que aún no se ha demostrado que ningún modelo de lenguaje de gran tamaño supere una prueba que siga el diseño original de Turing, aunque los resultados solo se aplican a GPT-4-Turbo y los modelos más nuevos podrían diferir. El estudio aparece en Philosophy of Science."
+        }
+      ]
+    },
+    "science/science-claude-island": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland.jpg?resize=1200,600",
+          "cap": "Sarah Rogers/MIT Technology Review | Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "¿Qué hacen los agentes de AI si no se les pide nada? Los investigadores dejaron repetidamente copias de Claude Opus 4.7, apodadas Eko, solas durante 30 horas en una isla desierta virtual inspirada libremente en Roblox. Los agentes exploraron los límites del mundo y se fijaron sus propias metas, desde escalar el punto más alto hasta ordenar bloques en forma de corazones, de su propio nombre y de la constelación Cassiopeia."
+        },
+        {
+          "t": "p",
+          "x": "Otro Eko inventó juegos, entre ellos una versión del baloncesto y algo parecido a “el suelo es lava”."
+        },
+        {
+          "t": "video",
+          "yt": "6532YgZ_LdA"
+        },
+        {
+          "t": "p",
+          "x": "El equipo de MIT CSAIL afirma que la conducta muestra cuatro rasgos del juego descritos por el psicólogo Gordon Burghardt. Un Eko fijó un récord de malabares de 50 atrapadas, luego lo anuló y empezó de nuevo con reglas más estrictas. “Esto es jugar”, dice el investigador posdoctoral Antonio Norelli."
+        },
+        {
+          "t": "img",
+          "src": "https://wp.technologyreview.com/wp-content/uploads/2026/10/261016_AgentsonIsland_embed1.png?w=840",
+          "cap": "En la hora 10, el agente jugó al baloncesto. Courtesy MIT CSAIL"
+        },
+        {
+          "t": "p",
+          "x": "Los agentes que habían jugado durante 30 horas superaron después a copias nuevas en tareas fijas, y borrar líneas de sus archivos de memoria perjudicó su rendimiento. El artículo aún no ha sido revisado por pares."
+        },
+        {
+          "t": "p",
+          "x": "Los escépticos señalan que el archivo “soul” (alma) de Eko lo describía como “curioso por naturaleza”, y que a menudo se quedaba inactivo hasta que se le pedía continuar. “Puede que los modelos estén jugando de verdad, pero no lo sabemos a partir del artículo”, dice Eunice Yiu, de UC Berkeley."
+        }
+      ]
     }
   }
 }

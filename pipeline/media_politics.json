@@ -1,11 +1,31 @@
 {
- "date": "2026-10-20",
- "section": "politics",
- "media": [
-  {"id": "politics-aiact-harmonised-std", "type": "image", "src": "pipeline/media/politics-aiact-harmonised-std.jpg"},
-  {"id": "politics-taiwan-server-exports", "type": "image", "src": "pipeline/media/politics-taiwan-server-exports.jpg"},
-  {"id": "politics-uk-ai-sovereignty-letter", "type": "image", "src": "pipeline/media/politics-uk-ai-sovereignty-letter.png"},
-  {"id": "politics-greece-daedalus", "type": "image", "src": "pipeline/media/politics-greece-daedalus.jpg"},
-  {"id": "politics-disney-characterai-363", "type": "image", "src": "pipeline/media/politics-disney-characterai-363.jpg"}
- ]
+  "date": "2026-10-21",
+  "section": "politics",
+  "media": [
+    {
+      "id": "politics-dhs-deepseek-agency-removal",
+      "type": "image",
+      "src": "pipeline/media/politics-dhs-deepseek-agency-removal.jpg"
+    },
+    {
+      "id": "politics-democrats-letter-25-firms-election-ai",
+      "type": "image",
+      "src": "pipeline/media/politics-democrats-letter-25-firms-election-ai.jpg"
+    },
+    {
+      "id": "politics-fca-ai-near-miss-reporting-speech",
+      "type": "image",
+      "src": "pipeline/media/politics-fca-ai-near-miss-reporting-speech.jpg"
+    },
+    {
+      "id": "politics-nyc-chatbot-human-offramp-rule",
+      "type": "image",
+      "src": "pipeline/media/politics-nyc-chatbot-human-offramp-rule.jpg"
+    },
+    {
+      "id": "politics-un-ai-dialogue-korea-cochair-cha",
+      "type": "image",
+      "src": "pipeline/media/politics-un-ai-dialogue-korea-cochair-cha.jpg"
+    }
+  ]
 }

@@ -1,30 +1,36 @@
 {
-  "date": "2026-10-11",
+  "date": "2026-10-21",
   "section": "design",
   "picks": [
     {
-      "url": "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/",
-      "title": "4 team rituals that drive AI adoption",
-      "source": "Figma",
-      "category": "workflow",
-      "published_iso": "2026-10-10T02:12:00.000Z",
-      "og_image": "https://cdn.sanity.io/images/599r6htc/regionalized/f88a118d73ff367212b56ec2b856e3096e32c2ce-3264x1836.png?w=1200&q=70&fit=max&auto=format",
-      "excerpt": "Four ways teams at Figma, Mercari, Atlassian and Sephora are building habits that help designers and product teams get real value from AI.",
-      "source_lang": "en",
-      "tool": "AI Workflow",
-      "accent": "#3b6bff",
-      "motif": "frame",
-      "rationale": "Concrete team rituals from Figma, Mercari, Atlassian and Sephora that design leads can adopt to make AI use stick; adds Figma as a fifth distinct outlet."
-    }
-  ],
-  "dedup": {
-    "checks": {
-      "https://www.figma.com/blog/4-team-rituals-that-drive-ai-adoption/": {
-        "verdict": "new",
-        "nearest": "https://www.figma.com/blog/3-ways-product-designers-use-the-figma-agent/",
-        "new_action": ""
-      }
+      "rank": 4,
+      "title": "DxO ViewPoint 6 introduces AI masking, but maintains that no AI image generation takes place",
+      "url": "https://www.digitalcameraworld.com/tech/software/wonky-photos-of-buildings-begone-dxo-viewpoint-6-introduces-ai-masking-but-maintains-that-no-ai-image-generation-takes-place",
+      "source": "Digital Camera World",
+      "category": "render",
+      "tool": "KeyShot",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "published_iso": "2026-10-20T13:22:04Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-2560-80.jpg",
+      "excerpt": "DxO's perspective/geometry-correction tool ViewPoint 6 adds AI masking while stressing it does no generative image creation.",
+      "rationale": "A new version release: AI masking arrives in DxO's perspective-correction tool, with no generative content, which matters to architecture and product photographers who must avoid generated pixels.",
+      "swap": true
     },
-    "note": "Swap replacement for the Figma Motion video (youtube IjtOndtmC-Q), dropped because it is not substantively about AI. history_match 'related' to the 10-07 Figma-agent post is a different story (agent usage tips vs team AI-adoption rituals). Sightlines no.3 not used: same source and same topic as this post."
-  }
+    {
+      "rank": 5,
+      "title": "Human attention is the new old bottleneck. We have to design for it even more.",
+      "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a",
+      "source": "UX Collective",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#ff5a4d",
+      "motif": "frame",
+      "published_iso": "2026-10-19T21:39:26Z",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
+      "excerpt": "Reading Anthropic's Oct 16 study (agents now log six hours for every human hour), the piece argues designers' job shifts to building judgement systems for what deserves human attention.",
+      "rationale": "A design-practice read of fresh Anthropic data (six agent hours per human hour) that reframes the designer's job as deciding what deserves human attention. No earlier design card covers this study.",
+      "swap": true
+    }
+  ]
 }
