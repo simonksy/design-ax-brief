@@ -1,0 +1,67 @@
+{
+ "meta": {
+  "issue": "OpenAI, 접은 Sora를 영화 스타트업에 넘기나",
+  "date": "2026.10.13",
+  "section": "MOVIES",
+  "accent": "#7928ca",
+  "note": "원문(디지털투데이, The Information 인용) 확인. 이미지는 한 장뿐이라 표지 외엔 stat.",
+  "sources": [
+   "디지털투데이 — OpenAI Sora may return as AI for filmmakers (2026.10.13)"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "media": "src/sora.jpg",
+   "eyebrow": "AI × 영화 · 2026.10.13",
+   "headline": "OpenAI, 접은 Sora 넘기나",
+   "body": "올해 초 멈춘 동영상 생성 AI Sora를 영화 제작자용 AI 스타트업에 넘기는 협상을 하고 있다고 The Information이 보도했다.",
+   "foot": "밀어서 보기 →",
+   "n": 1
+  },
+  {
+   "kind": "stat",
+   "stat_top": "멈춘 Sora",
+   "stat_arrow": "넘겨받아 고쳐서",
+   "stat_bottom": "영화용 서비스",
+   "stat_strike": false,
+   "eyebrow": "무슨 일인가",
+   "headline": "할리우드용으로 다시 쓴다",
+   "body": "스타트업은 Sora를 넘겨받아 손본 뒤, 이를 바탕으로 한 소프트웨어와 서비스를 팔 계획이다.",
+   "foot": "2026.10.13",
+   "n": 2
+  },
+  {
+   "kind": "stat",
+   "stat_top": "Katzenberg",
+   "stat_arrow": "그리고",
+   "stat_bottom": "Bill Peebles",
+   "stat_strike": false,
+   "eyebrow": "누가 받나",
+   "headline": "Sora를 만든 사람이 세운 회사",
+   "body": "Katzenberg, Sora 연구를 이끈 Peebles, 전 Dropbox CFO Sujay Jaswa가 몇 달 전 세웠다.",
+   "foot": "2026.10.13",
+   "n": 3
+  },
+  {
+   "kind": "stat",
+   "stat_top": "깊은 접근권",
+   "stat_arrow": "모델 가중치는",
+   "stat_bottom": "아직 불분명",
+   "stat_strike": false,
+   "eyebrow": "짚을 대목",
+   "headline": "어디까지 넘기나",
+   "body": "소식통은 합의되면 Sora를 크게 고칠 만큼 깊은 권한이 넘어간다고 했다. OpenAI는 대가로 지분을 받는다. 규모는 알려지지 않았다.",
+   "foot": "2026.10.13",
+   "n": 4
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 5
+  }
+ ]
+}

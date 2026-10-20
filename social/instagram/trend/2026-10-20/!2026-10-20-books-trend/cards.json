@@ -1,0 +1,106 @@
+{
+ "meta": {
+  "issue": "한국 책, AI 학습용 확보전",
+  "date": "2026.10.20",
+  "section": "BOOKS",
+  "accent": "#f5a623",
+  "note": "헌책 매입에서 새책 10만 종 문의, 앤트로픽 목록, 구글의 구매 협상까지 AI 학습용 한국 책 확보가 한 주 사이 차례로 드러났다.",
+  "sources": [
+   "https://www.joongang.co.kr/article/25468823",
+   "https://www.joongang.co.kr/article/25469854",
+   "https://www.sedaily.com/article/20102152",
+   "https://www.sedaily.com/article/20103000"
+  ]
+ },
+ "cards": [
+  {
+   "n": 1,
+   "kind": "thread",
+   "thread_badge": "이슈 트렌드",
+   "thread_cap": "4건 · 책 · 10.12~10.18",
+   "thread": [
+    {
+     "d": "10.12",
+     "t": "헌책 매입",
+     "c": "#f5a623",
+     "s": "BOOKS"
+    },
+    {
+     "d": "10.15",
+     "t": "교보 주문",
+     "c": "#f5a623",
+     "s": "BOOKS"
+    },
+    {
+     "d": "10.15",
+     "t": "앤트로픽",
+     "c": "#f5a623",
+     "s": "BOOKS"
+    },
+    {
+     "d": "10.18",
+     "t": "구글 협상",
+     "c": "#f5a623",
+     "s": "BOOKS"
+    }
+   ],
+   "thread_note": "AI 기업이 한국 책을 사 모으는데, 유통사 판매를 막을 법적 근거는 아직 없다",
+   "eyebrow": "흐름 · 책",
+   "headline": "한국 책, AI 학습용 확보전",
+   "body": "헌책방에서 서점, 유통사, 출판사까지. 하나씩 보면 각자 소동이지만, 이어 보면 AI 학습용 책 확보가 한 주 사이 차례로 드러났다.",
+   "foot": "밀어서 보기 →"
+  },
+  {
+   "n": 2,
+   "kind": "photo",
+   "eyebrow": "2026.10.12",
+   "headline": "헌책 대량 매입에 출판계 긴장",
+   "body": "AI 학습용으로 의심되는 헌책 대량 매입에 출판계가 대응에 나섰다. 출협이 실태조사를 준비하지만, 한 헌책방 대표는 \"팔 의향이 있다\"고 했다.",
+   "foot": "2026.10.12",
+   "_src": "https://www.joongang.co.kr/article/25468823",
+   "_id": "korea-used-books-ai-training-buyup-probe",
+   "media": "src/alt-2-0.jpg"
+  },
+  {
+   "n": 3,
+   "kind": "photo",
+   "eyebrow": "2026.10.15",
+   "headline": "이번엔 새책 10만 종",
+   "body": "해외 업체들이 교보문고에 약 10만 종을 '1종당 1권씩' 사겠다고 했다. 교보문고는 AI 학습에 쓰일 가능성을 배제하기 어렵다며 논의를 중단했다.",
+   "foot": "2026.10.15",
+   "_src": "https://www.joongang.co.kr/article/25469854",
+   "_id": "books-kyobo-ai-order",
+   "media": "src/alt-3-0.jpg"
+  },
+  {
+   "n": 4,
+   "kind": "photo",
+   "eyebrow": "2026.10.15",
+   "headline": "목록에 한강 '소년이 온다'",
+   "body": "앤트로픽이 2021~22년 불법으로 내려받은 목록에 한국 작품이 최소 15건 있었다. 앤트로픽은 2024년 웅진북센과 수천 권 단위 구매를 조율했다.",
+   "foot": "2026.10.15",
+   "_src": "https://www.sedaily.com/article/20102152",
+   "_id": "books-anthropic-hankang",
+   "media": "src/alt-4-0.jpg"
+  },
+  {
+   "n": 5,
+   "kind": "photo",
+   "eyebrow": "2026.10.18",
+   "headline": "구글도 협상, 법안은 계류",
+   "body": "업계에 따르면 구글도 상반기부터 국내 대형 출판사와 AI 학습용 도서 구입을 협상해 왔다. 출처 공개를 담은 AI 기본법 개정안은 국회에 계류 중이다.",
+   "foot": "2026.10.18",
+   "_src": "https://www.sedaily.com/article/20103000",
+   "_id": "books-google-kr-publishers",
+   "media": "pipeline/media/books-google-kr-publishers.jpg"
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}
