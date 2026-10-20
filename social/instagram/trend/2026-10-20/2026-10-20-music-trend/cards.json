@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "issue": "Suno를 둘러싼 세 갈래 전선",
+    "date": "2026.10.20",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "WMG·BMG는 Suno에 돈을 내고, 이탈리아 당국은 약관을 조사하고, Sony·Universal은 투자사까지 법정으로 부르며 Suno를 두고 계약과 규제, 소송이 동시에 움직인다.",
+    "sources": [
+      "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/",
+      "https://www.musicbusinessworldwide.com/suno-faces-investigation-in-italy-over-its-terms-of-service/",
+      "https://www.musicbusinessworldwide.com/sony-and-universal-ask-court-to-force-suno-investor-lightspeed-to-testify-about-the-legal-risk-of-training-data/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "3건 · 음악 · 10.05~10.20",
+      "thread": [
+        {
+          "d": "10.5",
+          "t": "팬 리믹스",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.7",
+          "t": "약관 조사",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.20",
+          "t": "투자사 소환",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "같은 Suno를 두고 한쪽은 계약을, 다른 쪽은 규제와 소송을 택하고 있다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "Suno, 계약과 소송 사이",
+      "body": "한 건씩 보면 각각의 뉴스지만, 이어 보면 레이블과 당국이 Suno를 어떻게 대할지 아직 갈라져 있다는 게 보인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.05",
+      "headline": "WMG·BMG는 돈을 낸다",
+      "body": "Suno CEO Mikey Shulman은 WMG·BMG가 Suno에 내는 돈이 팬 리믹스의 대가라고 했다.",
+      "foot": "2026.10.05",
+      "_src": "https://www.musicbusinessworldwide.com/suno-is-far-beyond-2m-subscribers-and-300m-in-revenue-says-mikey-shulman-who-argues-its-good-that-ai-music-has-no-firm-rules-of-the-road-yet/",
+      "_id": "mbw-suno-wmg-bmg-licence-terms",
+      "media": "pipeline/media/mbw-suno-wmg-bmg-licence-terms.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.07",
+      "headline": "이탈리아는 약관을 본다",
+      "body": "이탈리아 AGCM이 저작인격권 포기 라이선스 등 Suno 이용약관 조사에 나섰다.",
+      "foot": "2026.10.07",
+      "_src": "https://www.musicbusinessworldwide.com/suno-faces-investigation-in-italy-over-its-terms-of-service/",
+      "_id": "music-suno-italy",
+      "media": "pipeline/media/music-suno-italy.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.20",
+      "headline": "Sony·Universal은 투자사로",
+      "body": "두 레이블은 Suno의 Series B를 주도한 Lightspeed의 소환장 무효 신청에 반대했다. 학습 데이터의 법적 위험을 증언하라는 요구다.",
+      "foot": "2026.10.20",
+      "_src": "https://www.musicbusinessworldwide.com/sony-and-universal-ask-court-to-force-suno-investor-lightspeed-to-testify-about-the-legal-risk-of-training-data/",
+      "_id": "music-suno-lightspeed-subpoena",
+      "media": "pipeline/media/music-suno-lightspeed-subpoena.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}

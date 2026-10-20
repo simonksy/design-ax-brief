@@ -1,0 +1,106 @@
+{
+ "meta": {
+  "issue": "AI 영화, 무대에 오르다",
+  "date": "2026.10.20",
+  "section": "MOVIES",
+  "accent": "#7928ca",
+  "note": "100% AI 장편 개봉에서 AI 영화제 대상, 기성 영화제 본선, 32시간 제작 대회까지 3주 사이 AI로 만든 영화가 관객과 심사 앞에 서는 자리가 늘었다.",
+  "sources": [
+   "https://news.jkn.co.kr/post/993490",
+   "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival",
+   "https://www.screendaily.com/news/filmfest-cottbus-selects-ai-generated-feature-a-woman-asleep-for-main-competition/5220948.article",
+   "https://www.joongang.co.kr/article/25471126"
+  ]
+ },
+ "cards": [
+  {
+   "n": 1,
+   "kind": "thread",
+   "thread_badge": "이슈 트렌드",
+   "thread_cap": "4건 · 영화 · 09.30~10.20",
+   "thread": [
+    {
+     "d": "09.30",
+     "t": "100% AI",
+     "c": "#7928ca",
+     "s": "MOVIES"
+    },
+    {
+     "d": "10.11",
+     "t": "AI 영화제",
+     "c": "#7928ca",
+     "s": "MOVIES"
+    },
+    {
+     "d": "10.18",
+     "t": "본선 경쟁",
+     "c": "#7928ca",
+     "s": "MOVIES"
+    },
+    {
+     "d": "10.20",
+     "t": "32시간",
+     "c": "#7928ca",
+     "s": "MOVIES"
+    }
+   ],
+   "thread_note": "AI 영화는 이제 시연이 아니라 개봉하고, 상을 받고, 경쟁하는 작품으로 다뤄진다",
+   "eyebrow": "흐름 · 영화",
+   "headline": "AI 영화, 심사대에 서다",
+   "body": "한 편씩 보면 화제작이지만, 개봉관과 영화제, 경연을 이어 보면 AI 영화가 평가받는 무대가 빠르게 생기고 있다.",
+   "foot": "밀어서 보기 →"
+  },
+  {
+   "n": 2,
+   "kind": "photo",
+   "eyebrow": "2026.09.30",
+   "headline": "100% AI 장편, 개봉한다",
+   "body": "설우인 감독의 SF 액션 ‘스틸레이’가 기획부터 후반까지 100% AI로 완성돼 10월 개봉한다.",
+   "foot": "2026.09.30",
+   "_src": "https://news.jkn.co.kr/post/993490",
+   "_id": "movies-steelray-100-ai",
+   "media": "pipeline/media/movies-steelray-100-ai.jpg"
+  },
+  {
+   "n": 3,
+   "kind": "photo",
+   "eyebrow": "2026.10.11",
+   "headline": "AI 영화제, 8,000편 중 대상",
+   "body": "라트비아 감독 Nikolay Shestak이 8,000편 넘는 출품작을 제치고 아스타나 AI 영화제 대상을 받았다.",
+   "foot": "2026.10.11",
+   "_src": "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival",
+   "_id": "astana-ai-film-grand-prix",
+   "media": "src/alt-3-0.jpg"
+  },
+  {
+   "n": 4,
+   "kind": "photo",
+   "eyebrow": "2026.10.18",
+   "headline": "기성 영화제 본선까지",
+   "body": "Cottbus 영화제가 Vikki Bardot의 AI 장편 A Woman Asleep을 본선 경쟁에 뽑았다. 기성 국제영화제에선 처음으로 알려졌다.",
+   "foot": "2026.10.18",
+   "_src": "https://www.screendaily.com/news/filmfest-cottbus-selects-ai-generated-feature-a-woman-asleep-for-main-competition/5220948.article",
+   "_id": "movies-cottbus-woman-asleep",
+   "media": "pipeline/media/movies-cottbus-woman-asleep.jpg"
+  },
+  {
+   "n": 5,
+   "kind": "photo",
+   "eyebrow": "2026.10.20",
+   "headline": "32시간 만에 한 편",
+   "body": "TapNow 서울 대회 팀들은 32시간 동안 AI로 3~8분 영화를 만들었다. 한·중·일 160개팀이 동시에 겨뤘다.",
+   "foot": "2026.10.20",
+   "_src": "https://www.joongang.co.kr/article/25471126",
+   "_id": "movies-tapnow-arena-seoul",
+   "media": "pipeline/media/movies-tapnow-arena-seoul.jpg"
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

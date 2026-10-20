@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "issue": "Gemini 슬라이드·영상 이제 직접 조율한다",
+    "date": "2026.10.20",
+    "section": "DESIGN",
+    "accent": "#0070f3",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 디자인 · 2026.10.20",
+      "headline": "Gemini 슬라이드·영상 이제 직접…",
+      "body": "Gemini Notebook이 사용자 피드백을 반영해, 인기 있는 두 결과물 Slide Decks와 Video Overviews의…",
+      "foot": "밀어서 보기 →",
+      "video": "pipeline/media/design-gemini-notebook-cocreate.mp4",
+      "dur": 4,
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "Gemini 슬라이드·영상 이제 직접…",
+      "body": "채팅에서 슬라이드나 영상 개요를 요청하면 Notebook이 담을 주제부터 제안한다. 확인이 끝나면 내용을 더 다듬고 시각 스타일과…",
+      "foot": "2026.10.20",
+      "video": "pipeline/media/design-gemini-notebook-cocreate.mp4",
+      "start": 4,
+      "dur": 4,
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "Gemini 슬라이드·영상 이제 직접…",
+      "body": "새로 생긴 Review 토글은 여기서 한 걸음 더 간다. 스튜디오 패널에서 슬라이드는 “Review outline notes”…",
+      "foot": "2026.10.20",
+      "video": "pipeline/media/design-gemini-notebook-cocreate.mp4",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "Gemini 슬라이드·영상 이제 직접…",
+      "body": "원하는 게 분명하다면 프롬프트에 그대로 적으면 된다. 그러면 Notebook이 곧장 검토 단계로 넘어간다. 결과물이 빨리 필요할 땐…",
+      "foot": "2026.10.20",
+      "video": "pipeline/media/design-gemini-notebook-cocreate.mp4",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "Gemini 슬라이드·영상 이제 직접…",
+      "body": "Gemini Notebook에선 이제 슬라이드와 영상 개요를 직접 조율한다.",
+      "foot": "2026.10.20",
+      "video": "pipeline/media/design-gemini-notebook-cocreate.mp4",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

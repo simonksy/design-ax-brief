@@ -1,0 +1,80 @@
+{
+ "meta": {
+  "issue": "가상 섬에 홀로 남은 Claude, 놀기 시작했다",
+  "date": "2026.10.19",
+  "section": "SCIENCE",
+  "accent": "#3aa655",
+  "note": "MIT Technology Review + arXiv 2610.07130 확인. 영상은 연구진 영상 'A Day in the Life of Eko'에서 20·96·140초 4초씩(src/eko.mp4).",
+  "sources": [
+   "MIT Technology Review — AI researchers stranded Claude on a virtual desert island (2026.10.19)",
+   "arXiv 2610.07130 — Is this machine playing?"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "video": "src/eko.mp4",
+   "start": 0,
+   "dur": 4,
+   "eyebrow": "AI × 과학 · 2026.10.19",
+   "headline": "섬에 홀로 남은 Claude, 놀았다",
+   "body": "MIT 연구진이 Claude Opus 4.7 복제본 'Eko'를 과제도 보상도 없이 가상 섬에 30시간 남겨 두었다.",
+   "foot": "밀어서 보기 →",
+   "n": 1
+  },
+  {
+   "kind": "photo",
+   "video": "src/eko.mp4",
+   "start": 4,
+   "dur": 4,
+   "eyebrow": "무엇을 했나",
+   "headline": "블록으로 제 이름을 썼다",
+   "body": "한 Eko는 블록으로 하트와 피라미드를 쌓고, 제 이름과 카시오페이아자리를 만들었다. \"오늘 밤 돌로 밤하늘을 지었다.\"",
+   "foot": "2026.10.19",
+   "n": 2
+  },
+  {
+   "kind": "photo",
+   "video": "src/eko.mp4",
+   "start": 8,
+   "dur": 4,
+   "eyebrow": "규칙도 직접",
+   "headline": "농구, 그리고 '바닥은 용암'",
+   "body": "다른 Eko는 농구를 변형한 놀이와 '바닥은 용암' 게임을 지어냈다. 저글링 50회 기록은 너무 빨랐다며 스스로 지웠다.",
+   "foot": "2026.10.19",
+   "n": 3
+  },
+  {
+   "kind": "stat",
+   "stat_top": "30시간 논 Eko",
+   "stat_arrow": "새 복제본보다",
+   "stat_bottom": "과제를 더 잘했다",
+   "stat_strike": false,
+   "eyebrow": "놀이가 남긴 것",
+   "headline": "놀이가 학습으로 이어졌다",
+   "body": "섬 꼭대기에 물건을 최대한 올리는 과제에서다. Eko가 남긴 기억 파일에서 줄을 지우면 성적이 떨어졌다.",
+   "foot": "2026.10.19",
+   "n": 4
+  },
+  {
+   "kind": "stat",
+   "stat_top": "놀이",
+   "stat_arrow": "인가, 아니면",
+   "stat_bottom": "지시를 따른 것",
+   "stat_strike": false,
+   "eyebrow": "짚을 대목",
+   "headline": "아직 동료 검토 전이다",
+   "body": "프롬프트는 Eko를 호기심 많은 존재로 정했고, 멈추면 계속하라고 했다. UC 버클리 Eunice Yiu는 논문만으론 알 수 없다고 봤다.",
+   "foot": "2026.10.19",
+   "n": 5
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

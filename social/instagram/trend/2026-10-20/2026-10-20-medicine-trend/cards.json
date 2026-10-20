@@ -1,0 +1,109 @@
+{
+ "meta": {
+  "issue": "AI가 판독하면 판독의는 덜 필요할까",
+  "date": "2026.10.20",
+  "section": "MEDICINE",
+  "accent": "#00897b",
+  "note": "2차 판독을 AI에 맡긴 병원, 업무 여력을 숫자로 잰 20개 센터, 전문의와 대등한 전립선 MRI AI 뒤로 '판독의를 늘리지 않아도 된다'는 주장에 반박이 나왔다.",
+  "sources": [
+   "https://radiologybusiness.com/topics/artificial-intelligence/health-system-will-use-ai-instead-radiologists-breast-imaging-2nd-reads",
+   "https://radiologybusiness.com/topics/artificial-intelligence/widespread-ai-adoption-private-practice-produces-measurable-efficiency-gains",
+   "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri",
+   "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15837225/hpi-evidence-contradicts-broad-claims-about-ai-radiology-workforce"
+  ]
+ },
+ "cards": [
+  {
+   "n": 1,
+   "kind": "thread",
+   "thread_badge": "이슈 트렌드",
+   "thread_cap": "4건 · 의료 · 10.07~10.20",
+   "thread": [
+    {
+     "d": "10.7",
+     "t": "2차 판독",
+     "c": "#00897b",
+     "s": "MEDICINE"
+    },
+    {
+     "d": "10.8",
+     "t": "20개 센터",
+     "c": "#00897b",
+     "s": "MEDICINE"
+    },
+    {
+     "d": "10.14",
+     "t": "전립선 MRI",
+     "c": "#00897b",
+     "s": "MEDICINE"
+    },
+    {
+     "d": "10.20",
+     "t": "인력 논쟁",
+     "c": "#00897b",
+     "s": "MEDICINE"
+    }
+   ],
+   "thread_note": "AI가 판독을 나눠 맡을수록, 판독의가 얼마나 필요한지가 다시 쟁점이 됐다",
+   "eyebrow": "흐름 · 의료",
+   "headline": "AI 판독 늘수록 커지는 인력 논쟁",
+   "body": "2차 판독 대체, 효율 수치, 전문의급 성능, 인력 반박. 하나씩 보면 성과 발표지만 이어 보면 판독의 자리를 둘러싼 논쟁이다.",
+   "foot": "밀어서 보기 →"
+  },
+  {
+   "n": 2,
+   "kind": "photo",
+   "eyebrow": "2026.10.07",
+   "headline": "2차 판독을 AI에 맡긴다",
+   "body": "Stockholm 병원 3곳이 유방 검진의 독립적 2차 판독을 의사 대신 AI에 맡긴다.",
+   "foot": "2026.10.07",
+   "_src": "https://radiologybusiness.com/topics/artificial-intelligence/health-system-will-use-ai-instead-radiologists-breast-imaging-2nd-reads",
+   "_id": "breast-second-read",
+   "media": "pipeline/media/breast-second-read.jpg"
+  },
+  {
+   "n": 3,
+   "kind": "photo",
+   "eyebrow": "2026.10.08",
+   "headline": "외상 촬영서 0.69 FTE 여력",
+   "body": "외래 영상센터 20곳에서 AI 도구 10종을 쓰자 외상 방사선촬영 판독 시간이 26% 줄었다. 그만큼 0.69 FTE의 업무 여력이 생겼다.",
+   "foot": "2026.10.08",
+   "_src": "https://radiologybusiness.com/topics/artificial-intelligence/widespread-ai-adoption-private-practice-produces-measurable-efficiency-gains",
+   "_id": "medicine-europe-20-center-radiology-ai-study",
+   "media": "pipeline/media/medicine-europe-20-center-radiology-ai-study.jpg"
+  },
+  {
+   "n": 4,
+   "kind": "stat",
+   "eyebrow": "2026.10.14",
+   "headline": "전립선 MRI, 전문의와 대등",
+   "body": "22개국 22,445건을 담은 SCARLET-1 연구에서 AI는 영상의학 전문의만큼 전립선암을 찾았다. 전문 인력이 부족한 곳에서 쓸모가 크다.",
+   "foot": "2026.10.14",
+   "_src": "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri",
+   "_id": "medicine-prostate-mri-ai-radiologist-parity",
+   "stat_top": "22개국",
+   "stat_arrow": "SCARLET-1 연구",
+   "stat_bottom": "22,445건",
+   "stat_strike": false
+  },
+  {
+   "n": 5,
+   "kind": "photo",
+   "eyebrow": "2026.10.20",
+   "headline": "\"판독의 충분론\"에 반박",
+   "body": "ACR 산하 HPI는 판독의를 늘릴 필요가 없다는 주장에 반박했다. 2055년까지 영상 이용량이 17~27% 는다는 연구가 근거다.",
+   "foot": "2026.10.20",
+   "_src": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15837225/hpi-evidence-contradicts-broad-claims-about-ai-radiology-workforce",
+   "_id": "medicine-hpi-radiology-workforce-ai",
+   "media": "pipeline/media/medicine-hpi-radiology-workforce-ai.jpg"
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}
