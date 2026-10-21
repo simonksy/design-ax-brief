@@ -1672,6 +1672,128 @@
           "x": "CEO Kwon Joon-myung said, \"Now that we have completed preparations to enter the U.S., the largest market in the world, we will work to achieve strong results.\""
         }
       ]
+    },
+    "medicine/medicine-seoul-declaration": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "The Ministry of Health and Welfare and the World Health Organization (WHO) have set out joint international principles to guarantee clinician oversight and final human judgment when AI is used in health care, and to spread AI technologies whose clinical effectiveness and safety have been verified."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
+          "cap": "Minister of Health and Welfare Jeong Eun-kyeong (left) and WHO Director-General Tedros (right) at a press briefing. Photo by reporter Lee Jae-won"
+        },
+        {
+          "t": "p",
+          "x": "Minister Jeong and Director-General Tedros jointly announced the 'AI Healthcare Seoul Declaration for Responsible Innovation and Global Solidarity' at the opening ceremony of the '2026 World Bio Summit' on the 21st. It is the first joint declaration on health AI issued by the ministry and the WHO Director-General."
+        },
+        {
+          "t": "p",
+          "x": "The declaration sets out the principle that AI should be used within its validated scope, under conditions that allow human oversight, and that final judgment rests with humans. It also recommends governance proportionate to the level of risk, from development through use."
+        },
+        {
+          "t": "p",
+          "x": "It also includes principles on preventing data monopolies and market dominance, harmonizing international standards and regulation, supporting the participation of low- and middle-income countries, and managing biosecurity risks. \"This does not mean innovation can proceed without safeguards,\" Director-General Tedros said."
+        },
+        {
+          "t": "p",
+          "x": "Minister Jeong said the ministry is in working-level talks with WHO on building a global AI hub, and that it will demonstrate and validate AI technologies before expanding them to low- and middle-income countries."
+        }
+      ]
+    },
+    "medicine/medicine-cbct-lung-biopsy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Lung puncture biopsy is the gold standard for diagnosing lung nodules, but poor CBCT image quality and limited guidance intelligence slow procedures, particularly for small and complex lesions."
+        },
+        {
+          "t": "p",
+          "x": "Researchers led by Huazhong University of Science and Technology built GPS-Lung, a Generative AI-Powered Puncture Surgery Navigation System, and tested it in a multicenter randomized controlled trial (NCT06762613)."
+        },
+        {
+          "t": "p",
+          "x": "With GPS-Lung, surgeons needed fewer punctures (2.0 ± 1.2 vs. 2.5 ± 1.7, P = 0.005), operative time fell from 23.2 ± 6.3 to 20.4 ± 5.6 minutes (P = 0.001), and radiation exposure dropped from 5570.9 to 4357.4 μGy·m² (P = 0.033)."
+        },
+        {
+          "t": "p",
+          "x": "Pneumothorax complications fell from 23.9% to 12.7% (P = 0.033). The authors say the system made the procedure more standardized and efficient."
+        }
+      ]
+    },
+    "medicine/medicine-unfold-surgery-mode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Avenda Health is launching Surgery Mode, a suite of intraoperative features for its Unfold AI prostate cancer mapping platform."
+        },
+        {
+          "t": "p",
+          "x": "The platform analyzes a patient's MRI, biopsy, pathology, and prostate-specific antigen data to produce a 3D map of the cancer's extent."
+        },
+        {
+          "t": "p",
+          "x": "Surgery Mode allows surgeons to use the maps during robotic and nonrobotic procedures. New capabilities include enlarged 3D views and a cancer estimation map that can be adjusted to match the surgical console's camera angle; review of underlying MRI slices during the procedure; a capsule risk score overlay that automatically mirrors the surgical camera view, providing color-coded risk by quadrant to guide nerve-sparing decisions; and updated case management and administrative tools for physicians and staff."
+        },
+        {
+          "t": "p",
+          "x": "Unfold AI predicts cancer spread into nearby anatomy with 92% accuracy, compared with 52% using MRI alone, according to the company."
+        }
+      ]
+    },
+    "medicine/medicine-aidoc-pe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Pulmonary embolism (PE) is a leading cause of cardiovascular mortality, yet the real-world performance of FDA-cleared AI detection models remains incompletely characterized."
+        },
+        {
+          "t": "p",
+          "x": "Emory University researchers retrospectively evaluated two FDA-cleared Aidoc BriefCase algorithms across a 17-facility academic health system: one for PE triage on dedicated CT pulmonary angiography (n = 30,678) and one for incidental PE on routine contrast-enhanced CTs (n = 37,191). Reference labels came from radiology reports via a validated LLM pipeline (97% accuracy, κ = 0.94)."
+        },
+        {
+          "t": "p",
+          "x": "The PE model achieved 86.8% sensitivity and 99.1% specificity. Sensitivity fell from 99.3% for saddle emboli to 72.9% for subsegmental PE, and from 89.7% for acute to 65.3% for non-acute PE. The incidental-PE model achieved 73.5% sensitivity and 99.8% specificity."
+        },
+        {
+          "t": "p",
+          "x": "Both models showed lower sensitivity than their FDA-clearance benchmarks while exceeding cleared specificity, which the authors say underscores the need for standardized post-market surveillance of AI-enabled medical devices."
+        }
+      ]
+    },
+    "medicine/medicine-fahr-face-illness-photo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "An AI tool may be able to help doctors judge how ill a patient is using a single photograph of their face, say US researchers. Trained on millions of healthy faces and 35,000 photos of cancer patients, it estimates survival by looking closely at features near the eyes. The preliminary findings are published in the Lancet Digital Health."
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a1e6/live/25088dc0-c945-11f1-9357-bdb8a3cad3e4.png",
+          "cap": "Facial regions most important to cancer survival (left) and to age (right). Mass General Brigham/Lancet Digital Health"
+        },
+        {
+          "t": "p",
+          "x": "The 'FaceSurvival' tool points to the area under the eyes and around the bridge of the nose as most vital, across many cancer types, including ones that had spread to bone or brain. A second tool, 'FaceAge', estimates biological age from areas such as the nasolabial folds, forehead and temples."
+        },
+        {
+          "t": "p",
+          "x": "Lead researcher Dr Raymond Mak of Mass General Brigham says the goal is to make face-based health assessment \"more quantitative, consistent and scalable\" to support treatment decisions \"rather than replace physician judgment\". The team says it needs far more data, especially from different ethnic groups."
+        },
+        {
+          "t": "p",
+          "x": "Prof Miroslaw Bober of the University of Surrey calls it \"a promising proof of concept, but it is not ready for clinical use\", warning: \"Predicting an outcome is not the same as explaining it.\""
+        }
+      ]
     }
   }
 }

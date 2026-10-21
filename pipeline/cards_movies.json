@@ -1,287 +1,263 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "movies",
   "cards": [
     {
-      "id": "movies-sekondo-chatgpt-claude-adobe",
+      "id": "movies-eddie-ai-plan-first",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT·Claude\nPremiere 안으로",
-      "body": "Sekondo로 ChatGPT·Claude가 Adobe 프로젝트 안에서 일한다.",
-      "mini_headline": "Premiere 속 ChatGPT·Claude",
+      "headline": "Eddie AI, 계획부터\nResolve Studio",
+      "body": "Eddie AI가 사전 계획·DaVinci Resolve Studio 패널을 냈다.",
+      "mini_headline": "Eddie AI, 계획 먼저",
       "tool": "Movies",
-      "source": "Motionographer",
-      "url": "https://motionographer.com/news/sekondo-puts-chatgpt-and-claude-inside-after-effects-and-premiere-pro/",
+      "source": "RedShark News",
+      "url": "https://www.redsharknews.com/eddie-ai-update-plan-first-resolve-studio-panel",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+            "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
           },
           {
             "t": "p",
-            "x": "Córdoba의 그래픽 디자이너 Jose Manuel Fernández가 플러그인 Sekondo를 내놓았다. ChatGPT와 Claude를 After Effects, Premiere Pro, Photoshop, Illustrator, InDesign, Lightroom Classic까지 Adobe 앱 여섯 개에 연결한다."
+            "x": "NAB Show New York에 맞춰 나온 Eddie AI 최신 업데이트는 유료 실행 전에 계획부터 보여주고, Resolve Studio 패널과 After Effects 템플릿 가져오기를 더했다. 엔터프라이즈용으로는 Anthropic (Claude), OpenAI (ChatGPT), Google (Gemini) 키 직접 연결, 온프레미스 실행, 고객의 IP 소유, 고객 데이터 미학습, SOC 2 Type I 및 II 감사와 GDPR 인증이 새로 생겼다."
+          },
+          {
+            "t": "video",
+            "yt": "KaiEjtkvfek"
           },
           {
             "t": "p",
-            "x": "AI가 새 이미지나 클립을 만들어 내지 않고 작가의 프로젝트 안에서 일한다. 원하는 작업을 글이나 말로 설명하면 레이어, 키프레임, 컴포지션, 타임라인에 바로 반영하며 모든 요소는 그대로 편집할 수 있다."
+            "x": "크레딧을 쓰는 프롬프트는 이제 단계 목록과 그중 크레딧이 드는 단계를 담은 계획부터 돌려준다. 사용자는 계획을 승인하거나 단계를 바꾸고 뺄 수 있다. 목록을 승인하기 전에는 아무것도 돌지 않고 과금도 없다. 컬러 그레이드처럼 골라야 하는 단계에서는 Eddie가 촬영본 스틸로 선택지를 보여준다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+            "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
           },
           {
             "t": "p",
-            "x": "여느 스튜디오처럼 Fernández도 하루의 상당 부분을 반복 작업에 썼다. 한 작품을 스무 가지 포맷에 맞추고 버전을 뽑고 같은 하단 자막을 거듭 만드는 일이다. “필요한 일이지만, 아이디어를 구상하는 데 쓰고 싶은 시간을 몇 시간씩 잡아먹습니다. 디자인할 시간을 더 갖고 싶어서 Sekondo를 만들었습니다.”"
+            "x": "DaVinci Resolve Studio 패널은 빈을 탐색하고 푸티지, 타임라인, 멀티캠 클립을 가져오며 편집 결과는 새 타임라인으로 돌려보낸다. “Source clips” 내보내기는 카메라 원본에 다시 연결된 Final Cut Pro 브라우저 이벤트를 만든다. Premiere 멀티캠 인터뷰 컷은 이제 앵글을 전환할 수 있는 멀티캠 클립으로 다시 짜인다."
           },
           {
             "t": "p",
-            "x": "Sekondo는 Premiere Pro와 After Effects에서 작가의 푸티지와 지시만으로 첫 컷부터 복잡한 모션까지 편집하고 애니메이션을 입혀 작품을 마무리한다. 손댈 수 없는 완성 클립을 내놓는 게 아니라 프로젝트 구조를 읽고 작업 전에 먼저 측정하며, 모든 레이어를 편집 가능한 상태로 둔다."
+            "x": "무음과 군말 제거부터 자막, 더빙, B-roll, 세로 화면 변환까지 단일 작업 페이지도 열세 개 더해졌다. 워크스페이스에 새로 생긴 행에는 아낀 시간, 실행한 프로젝트, 내보낸 편집본이 뜬다. 팀 워크스페이스에는 크레딧과 예상 소요 시간이 붙지만 편집자 순위를 매기거나 팀을 비교하는 기능은 없다."
           },
           {
             "t": "img",
-            "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
-          },
-          {
-            "t": "p",
-            "x": "어디까지 맡길지는 작가 몫이다. 지시만 수행하게 해도 되고, 아이디어와 선택지를 내게 하거나 작가의 아이디어로 작품 전체를 만들게 해도 된다. 파일은 사용자 컴퓨터 밖으로 나가지 않는다."
-          },
-          {
-            "t": "p",
-            "x": "Sekondo는 Adobe 심사를 거쳐 이들 앱의 공식 마켓플레이스 Adobe Exchange에 올라 있다. macOS와 Windows에서 Claude, ChatGPT 데스크톱 앱과 함께 돌아간다."
+            "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT and Claude move inside\nAfter Effects and Premiere",
-          "body": "Sekondo lets ChatGPT and Claude work inside an artist's own Adobe projects rather than generate new clips.",
-          "mini_headline": "ChatGPT and Claude in Premiere",
+          "headline": "Eddie AI now plans first and\nruns inside Resolve Studio",
+          "body": "Eddie AI now shows a plan before paid runs and adds a panel inside DaVinci Resolve Studio.",
+          "mini_headline": "Eddie AI plans first",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Córdoba-based graphic designer Jose Manuel Fernández has launched Sekondo, a plugin that connects ChatGPT and Claude to six Adobe applications: After Effects, Premiere Pro, Photoshop, Illustrator, InDesign and Lightroom Classic."
+                "x": "Eddie AI’s latest update, timed for NAB Show New York, shows a plan before any paid run, adds a Resolve Studio panel and imports After Effects templates. New enterprise features include bring-your-own keys with Anthropic (Claude), OpenAI (ChatGPT) and Google (Gemini), on-premises running, customer IP ownership, no training on customer data, and SOC 2 Type I and II audits with GDPR certification."
+              },
+              {
+                "t": "video",
+                "yt": "KaiEjtkvfek"
               },
               {
                 "t": "p",
-                "x": "Instead of generating new images or clips, the AI works inside the artist’s own project. You describe what you need, typed or spoken, and it applies the changes to your layers, keyframes, compositions and timelines, with everything left editable."
+                "x": "Prompts that will spend credits now return a plan that lists each step and which steps cost credits. You can approve it, change a step or drop one, and nothing runs or is charged until you approve the list. Where a step involves a choice, such as a color grade, Eddie shows options as stills from your footage."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
               },
               {
                 "t": "p",
-                "x": "Like at any studio, a good part of Fernández’s day went into repetitive work: adapting a piece to twenty formats, versioning, building the same lower thirds again and again. “These tasks are necessary, but they eat up hours I’d rather spend thinking up an idea. I built Sekondo to have more time to design.”"
+                "x": "The DaVinci Resolve Studio panel browses bins, imports footage, timelines and multicam clips, and sends edits back as a new timeline. A “Source clips” export produces a Final Cut Pro browser event relinked to camera originals, and Premiere multicam interview cuts now rebuild as switchable multicam clips."
               },
               {
                 "t": "p",
-                "x": "In Premiere Pro and After Effects, Sekondo can edit, animate and finish complete pieces with the artist’s own footage and under their direction, from the first cut to complex motion. Rather than handing back a finished clip that can’t be changed, it reads how a project is built, measures before it acts and keeps every layer editable."
+                "x": "Thirteen single-job pages were added, from taking out silences and filler words to captions, dubbing, B-roll and resizing to vertical. A new workspace row shows hours saved, projects run and edits exported; team workspaces add credits and projected duration, but nothing ranks editors or benchmarks teams."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "The artist decides how far it goes: carrying out instructions, suggesting ideas and options, or building a whole piece from their idea. Files never leave the user’s computer."
-              },
-              {
-                "t": "p",
-                "x": "Sekondo is published on Adobe Exchange, Adobe’s official marketplace for these apps, after passing Adobe’s review. It runs on macOS and Windows with the Claude and ChatGPT desktop apps."
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT·Claude\nPremiere 안으로",
-          "body": "Sekondo로 ChatGPT·Claude가 Adobe 프로젝트 안에서 일한다.",
-          "mini_headline": "Premiere 속 ChatGPT·Claude",
+          "headline": "Eddie AI, 계획부터\nResolve Studio",
+          "body": "Eddie AI가 사전 계획·DaVinci Resolve Studio 패널을 냈다.",
+          "mini_headline": "Eddie AI, 계획 먼저",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Córdoba의 그래픽 디자이너 Jose Manuel Fernández가 플러그인 Sekondo를 내놓았다. ChatGPT와 Claude를 After Effects, Premiere Pro, Photoshop, Illustrator, InDesign, Lightroom Classic까지 Adobe 앱 여섯 개에 연결한다."
+                "x": "NAB Show New York에 맞춰 나온 Eddie AI 최신 업데이트는 유료 실행 전에 계획부터 보여주고, Resolve Studio 패널과 After Effects 템플릿 가져오기를 더했다. 엔터프라이즈용으로는 Anthropic (Claude), OpenAI (ChatGPT), Google (Gemini) 키 직접 연결, 온프레미스 실행, 고객의 IP 소유, 고객 데이터 미학습, SOC 2 Type I 및 II 감사와 GDPR 인증이 새로 생겼다."
+              },
+              {
+                "t": "video",
+                "yt": "KaiEjtkvfek"
               },
               {
                 "t": "p",
-                "x": "AI가 새 이미지나 클립을 만들어 내지 않고 작가의 프로젝트 안에서 일한다. 원하는 작업을 글이나 말로 설명하면 레이어, 키프레임, 컴포지션, 타임라인에 바로 반영하며 모든 요소는 그대로 편집할 수 있다."
+                "x": "크레딧을 쓰는 프롬프트는 이제 단계 목록과 그중 크레딧이 드는 단계를 담은 계획부터 돌려준다. 사용자는 계획을 승인하거나 단계를 바꾸고 뺄 수 있다. 목록을 승인하기 전에는 아무것도 돌지 않고 과금도 없다. 컬러 그레이드처럼 골라야 하는 단계에서는 Eddie가 촬영본 스틸로 선택지를 보여준다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
               },
               {
                 "t": "p",
-                "x": "여느 스튜디오처럼 Fernández도 하루의 상당 부분을 반복 작업에 썼다. 한 작품을 스무 가지 포맷에 맞추고 버전을 뽑고 같은 하단 자막을 거듭 만드는 일이다. “필요한 일이지만, 아이디어를 구상하는 데 쓰고 싶은 시간을 몇 시간씩 잡아먹습니다. 디자인할 시간을 더 갖고 싶어서 Sekondo를 만들었습니다.”"
+                "x": "DaVinci Resolve Studio 패널은 빈을 탐색하고 푸티지, 타임라인, 멀티캠 클립을 가져오며 편집 결과는 새 타임라인으로 돌려보낸다. “Source clips” 내보내기는 카메라 원본에 다시 연결된 Final Cut Pro 브라우저 이벤트를 만든다. Premiere 멀티캠 인터뷰 컷은 이제 앵글을 전환할 수 있는 멀티캠 클립으로 다시 짜인다."
               },
               {
                 "t": "p",
-                "x": "Sekondo는 Premiere Pro와 After Effects에서 작가의 푸티지와 지시만으로 첫 컷부터 복잡한 모션까지 편집하고 애니메이션을 입혀 작품을 마무리한다. 손댈 수 없는 완성 클립을 내놓는 게 아니라 프로젝트 구조를 읽고 작업 전에 먼저 측정하며, 모든 레이어를 편집 가능한 상태로 둔다."
+                "x": "무음과 군말 제거부터 자막, 더빙, B-roll, 세로 화면 변환까지 단일 작업 페이지도 열세 개 더해졌다. 워크스페이스에 새로 생긴 행에는 아낀 시간, 실행한 프로젝트, 내보낸 편집본이 뜬다. 팀 워크스페이스에는 크레딧과 예상 소요 시간이 붙지만 편집자 순위를 매기거나 팀을 비교하는 기능은 없다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "어디까지 맡길지는 작가 몫이다. 지시만 수행하게 해도 되고, 아이디어와 선택지를 내게 하거나 작가의 아이디어로 작품 전체를 만들게 해도 된다. 파일은 사용자 컴퓨터 밖으로 나가지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "Sekondo는 Adobe 심사를 거쳐 이들 앱의 공식 마켓플레이스 Adobe Exchange에 올라 있다. macOS와 Windows에서 Claude, ChatGPT 데스크톱 앱과 함께 돌아간다."
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT・Claude\nPremiereの中へ",
-          "body": "SekondoはChatGPTとClaudeをAdobeのプロジェクト内で働かせる。",
-          "mini_headline": "Premiere内のChatGPTとClaude",
+          "headline": "Eddie AI、計画を先に\nResolve Studio",
+          "body": "Eddie AIが事前計画とDaVinci Resolve Studio用パネルを加えた。",
+          "mini_headline": "Eddie AI、計画を先に",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Córdobaを拠点とするグラフィックデザイナーのJose Manuel Fernándezが、ChatGPTとClaudeをAfter Effects、Premiere Pro、Photoshop、Illustrator、InDesign、Lightroom Classicの六つのAdobeアプリにつなぐプラグイン「Sekondo」を公開した。"
+                "x": "NAB Show New Yorkに合わせたEddie AIの最新アップデートは、有料の実行前に必ず計画を示し、Resolve Studioパネルを追加し、After Effectsのテンプレートを読み込めるようにした。新たなエンタープライズ機能として、Anthropic (Claude)、OpenAI (ChatGPT)、Google (Gemini)の自前キー持ち込み、オンプレミス実行、顧客によるIPの保有、顧客データを学習に使わない方針、SOC 2 Type IおよびIIの監査とGDPR認証が加わった。"
+              },
+              {
+                "t": "video",
+                "yt": "KaiEjtkvfek"
               },
               {
                 "t": "p",
-                "x": "AIは新しい画像やクリップを生成するのではなく、作家自身のプロジェクトの中で作業する。必要なことを文字か音声で伝えると、レイヤー、キーフレーム、コンポジション、タイムラインに変更を加え、すべてを編集可能なまま残す。"
+                "x": "クレジットを消費するプロンプトは、各ステップとそのうちクレジットがかかるステップを並べた計画をまず返す。ユーザーは承認するか、ステップを変更・削除でき、リストを承認するまで何も実行されず課金もされない。カラーグレードのように選択が必要なステップでは、Eddieが映像素材のスチルで選択肢を示す。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
               },
               {
                 "t": "p",
-                "x": "どのスタジオでもそうであるように、Fernándezの一日の多くは反復作業に費やされていた。一つの作品を二十のフォーマットに合わせ、バージョンを作り、同じロワーサードを何度も組む。「必要な作業ですが、アイデアを考えることに使いたい時間を何時間も奪っていきます。デザインする時間を増やすためにSekondoを作りました」"
+                "x": "DaVinci Resolve Studioパネルはビンを閲覧し、素材、タイムライン、マルチカムクリップを取り込み、編集結果を新しいタイムラインとして戻す。「Source clips」書き出しはカメラ原本に再リンクしたFinal Cut Proのブラウザイベントを作り、Premiereのマルチカム・インタビューのカットは切り替え可能なマルチカムクリップとして再構成されるようになった。"
               },
               {
                 "t": "p",
-                "x": "Premiere ProとAfter Effectsでは、Sekondoは作家自身の素材を使い、その指示のもとで、最初のカットから複雑なモーションまで、作品全体の編集、アニメーション、仕上げを行える。変更できない完成クリップを返すのではなく、プロジェクトの構造を読み取り、動く前に測り、すべてのレイヤーを編集可能に保つ。"
+                "x": "無音やフィラーの除去から字幕、吹き替え、B-roll、縦型へのリサイズまで、単機能のページが十三追加された。新しいワークスペースの行には削減できた時間、実行したプロジェクト、書き出した編集が表示される。チームのワークスペースにはクレジットと予想所要時間が加わるが、編集者の順位付けやチームの比較を行う機能はない。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "どこまで任せるかは作家が決める。指示の実行、アイデアや選択肢の提案、あるいは作家のアイデアから作品全体を組み立てることまでできる。ファイルがユーザーのコンピューターの外に出ることはない。"
-              },
-              {
-                "t": "p",
-                "x": "SekondoはAdobeの審査を通過し、これらのアプリ向けの公式マーケットプレイスであるAdobe Exchangeで公開されている。macOSとWindowsで、ClaudeおよびChatGPTのデスクトップアプリと組み合わせて動作する。"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT与Claude\n进驻Premiere",
-          "body": "Sekondo让ChatGPT和Claude在Adobe项目里工作而非生成新片段。",
-          "mini_headline": "Premiere里的ChatGPT与Claude",
+          "headline": "Eddie AI先出计划\nResolve Studio",
+          "body": "Eddie AI付费运行前先列计划，并新增DaVinci Resolve Studio面板。",
+          "mini_headline": "Eddie AI先出计划",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
               },
               {
                 "t": "p",
-                "x": "常驻Córdoba的平面设计师Jose Manuel Fernández推出了插件Sekondo，可将ChatGPT和Claude接入六款Adobe应用：After Effects、Premiere Pro、Photoshop、Illustrator、InDesign和Lightroom Classic。"
+                "x": "Eddie AI配合NAB Show New York推出的最新更新，会在任何付费运行前先展示计划，新增Resolve Studio面板，并可导入After Effects模板。新的企业功能包括自带Anthropic (Claude)、OpenAI (ChatGPT)和Google (Gemini)密钥、本地部署运行、客户拥有IP、不使用客户数据训练，以及SOC 2 Type I和II审计与GDPR认证。"
+              },
+              {
+                "t": "video",
+                "yt": "KaiEjtkvfek"
               },
               {
                 "t": "p",
-                "x": "AI不生成新的图像或片段，而是在创作者自己的项目中工作。用户以文字或语音说明需求，它便将修改应用到图层、关键帧、合成和时间线上，一切都保持可编辑。"
+                "x": "会消耗点数的提示词现在会先返回一份计划，列出每个步骤以及哪些步骤需要点数。用户可以批准、修改或删去某个步骤，在批准清单之前不会运行任何内容，也不会扣费。遇到调色这类需要选择的步骤时，Eddie会用素材中的静帧展示选项。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
               },
               {
                 "t": "p",
-                "x": "和任何工作室一样，Fernández每天有相当一部分时间耗在重复性工作上：把一件作品适配成二十种格式、制作不同版本、一遍遍搭建同样的下方字幕条。“这些工作是必要的，但它们耗掉了我本想用来构思创意的好几个小时。我做Sekondo，是为了有更多时间做设计。”"
+                "x": "DaVinci Resolve Studio面板可以浏览素材箱，导入素材、时间线和多机位片段，并把剪辑结果作为新时间线发回。“Source clips”导出会生成一个重新链接到摄影机原始素材的Final Cut Pro浏览器事件，Premiere的多机位访谈剪辑现在也会重建为可切换的多机位片段。"
               },
               {
                 "t": "p",
-                "x": "在Premiere Pro和After Effects中，Sekondo可以使用创作者自己的素材、在其指导下，从初剪到复杂动态，完成整件作品的剪辑、动画与收尾。它不会交回一段无法修改的成片，而是读懂项目的搭建方式，先测量再动手，并让每个图层都保持可编辑。"
+                "x": "新增了十三个单一任务页面，从去除静音和口头禅，到字幕、配音、B-roll以及竖屏改尺寸。新的工作区一栏显示节省的时长、运行的项目和导出的剪辑；团队工作区还会显示点数和预计时长，但不会给剪辑师排名，也不会对团队做对标。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "介入程度由创作者决定：执行指令、提出想法和选项，或根据其构想搭建整件作品。文件始终不会离开用户的电脑。"
-              },
-              {
-                "t": "p",
-                "x": "Sekondo通过Adobe审核后，已上架Adobe为这些应用设立的官方市场Adobe Exchange。它可在macOS和Windows上配合Claude与ChatGPT桌面应用运行。"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT y Claude entran en\nAfter Effects y Premiere",
-          "body": "Sekondo permite que ChatGPT y Claude trabajen en los proyectos de Adobe de un artista en vez de generar clips.",
-          "mini_headline": "ChatGPT y Claude en Premiere",
+          "headline": "Eddie AI planifica primero\ny llega a Resolve Studio",
+          "body": "Eddie AI ahora muestra un plan antes de las ejecuciones de pago y añade un panel en DaVinci Resolve Studio.",
+          "mini_headline": "Eddie AI planifica primero",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
               },
               {
                 "t": "p",
-                "x": "El diseñador gráfico Jose Manuel Fernández, radicado en Córdoba, lanzó Sekondo, un plugin que conecta ChatGPT y Claude con seis aplicaciones de Adobe: After Effects, Premiere Pro, Photoshop, Illustrator, InDesign y Lightroom Classic."
+                "x": "La última actualización de Eddie AI, presentada para NAB Show New York, muestra un plan antes de cualquier ejecución de pago, añade un panel para Resolve Studio e importa plantillas de After Effects. Las nuevas funciones empresariales incluyen el uso de claves propias con Anthropic (Claude), OpenAI (ChatGPT) y Google (Gemini), ejecución local en las instalaciones del cliente, propiedad de la IP por parte del cliente, ningún entrenamiento con datos de clientes y auditorías SOC 2 Type I y II con certificación GDPR."
+              },
+              {
+                "t": "video",
+                "yt": "KaiEjtkvfek"
               },
               {
                 "t": "p",
-                "x": "En lugar de generar imágenes o clips nuevos, la IA trabaja dentro del propio proyecto del artista. Se describe lo que se necesita, por escrito o de viva voz, y la herramienta aplica los cambios en capas, fotogramas clave, composiciones y líneas de tiempo, y todo queda editable."
+                "x": "Los prompts que vayan a gastar créditos ahora devuelven un plan que enumera cada paso e indica cuáles cuestan créditos. Se puede aprobar, cambiar un paso o eliminarlo, y nada se ejecuta ni se cobra hasta aprobar la lista. Cuando un paso implica una elección, como una corrección de color, Eddie muestra las opciones como fotogramas del propio metraje."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
               },
               {
                 "t": "p",
-                "x": "Como en cualquier estudio, buena parte de la jornada de Fernández se iba en trabajo repetitivo: adaptar una pieza a veinte formatos, versionar, construir los mismos rótulos inferiores una y otra vez. “Estas tareas son necesarias, pero se comen horas que preferiría dedicar a pensar una idea. Creé Sekondo para tener más tiempo para diseñar.”"
+                "x": "El panel de DaVinci Resolve Studio explora bins, importa metraje, líneas de tiempo y clips multicámara, y devuelve las ediciones como una nueva línea de tiempo. Una exportación “Source clips” genera un evento del navegador de Final Cut Pro vinculado de nuevo a los originales de cámara, y los cortes de entrevistas multicámara de Premiere ahora se reconstruyen como clips multicámara conmutables."
               },
               {
                 "t": "p",
-                "x": "En Premiere Pro y After Effects, Sekondo puede editar, animar y terminar piezas completas con el material del propio artista y bajo su dirección, desde el primer corte hasta la animación compleja. En lugar de devolver un clip terminado que no se puede modificar, lee cómo está construido el proyecto, mide antes de actuar y mantiene editable cada capa."
+                "x": "Se añadieron trece páginas de tarea única, desde quitar silencios y muletillas hasta subtítulos, doblaje, B-roll y redimensionado a vertical. Una nueva fila del espacio de trabajo muestra horas ahorradas, proyectos ejecutados y ediciones exportadas; los espacios de equipo añaden créditos y duración prevista, pero nada clasifica a los editores ni compara equipos."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "El artista decide hasta dónde llega: ejecutar instrucciones, sugerir ideas y opciones o construir una pieza entera a partir de su idea. Los archivos nunca salen del equipo del usuario."
-              },
-              {
-                "t": "p",
-                "x": "Sekondo está publicado en Adobe Exchange, el mercado oficial de Adobe para estas aplicaciones, tras superar la revisión de Adobe. Funciona en macOS y Windows con las aplicaciones de escritorio de Claude y ChatGPT."
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
               }
             ]
           }
@@ -289,185 +265,169 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT·Claude\nPremiere 안으로",
-          "body": "Sekondo는 ChatGPT·Claude가 Adobe 프로젝트에서 일하게 한다.",
-          "mini_headline": "Premiere 속 ChatGPT·Claude",
+          "headline": "Eddie AI 계획 먼저\nResolve Studio",
+          "body": "Eddie AI가 사전 계획·DaVinci Resolve Studio 패널을 냈다.",
+          "mini_headline": "Eddie AI, 계획 먼저",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Córdoba의 그래픽 디자이너 Jose Manuel Fernández가 ChatGPT와 Claude를 Adobe 앱 여섯 개, 곧 After Effects, Premiere Pro, Photoshop, Illustrator, InDesign, Lightroom Classic에 연결하는 플러그인 Sekondo를 내놓았다."
+                "x": "NAB Show New York에 맞춰 나온 Eddie AI의 최신 업데이트는 유료 실행 전에 계획부터 보여주고, Resolve Studio 패널을 더하며, After Effects 템플릿을 가져온다. 새 엔터프라이즈 기능으로는 Anthropic (Claude), OpenAI (ChatGPT), Google (Gemini) 키를 직접 연결하는 방식, 온프레미스 실행, 고객의 IP 소유, 고객 데이터 미학습, SOC 2 Type I 및 II 감사와 GDPR 인증이 있다."
+              },
+              {
+                "t": "video",
+                "yt": "KaiEjtkvfek"
               },
               {
                 "t": "p",
-                "x": "AI는 새 이미지나 클립을 생성하는 대신 작가 자신의 프로젝트 안에서 일한다. 필요한 작업을 글이나 말로 설명하면 레이어, 키프레임, 컴포지션, 타임라인에 변경을 적용하고, 모든 요소는 편집 가능한 상태로 남는다."
+                "x": "크레딧을 쓰게 될 프롬프트는 이제 각 단계와 그중 크레딧이 드는 단계를 정리한 계획을 먼저 돌려준다. 사용자는 계획을 승인하거나 단계를 바꾸거나 뺄 수 있고, 목록을 승인하기 전에는 아무것도 실행되지 않으며 과금도 없다. 컬러 그레이드처럼 선택이 필요한 단계에서는 Eddie가 촬영본의 스틸로 선택지를 보여준다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
               },
               {
                 "t": "p",
-                "x": "여느 스튜디오처럼 Fernández의 하루도 상당 부분 반복 작업에 들어갔다. 한 작품을 스무 가지 포맷에 맞추고, 버전을 만들고, 같은 하단 자막을 거듭 만드는 일이다. “필요한 일이지만, 아이디어를 구상하는 데 쓰고 싶은 시간을 몇 시간씩 잡아먹습니다. 디자인할 시간을 더 갖고 싶어서 Sekondo를 만들었습니다.”"
+                "x": "DaVinci Resolve Studio 패널은 빈을 탐색하고 푸티지, 타임라인, 멀티캠 클립을 가져오며, 편집 결과를 새 타임라인으로 돌려보낸다. “Source clips” 내보내기는 카메라 원본에 다시 연결된 Final Cut Pro 브라우저 이벤트를 만들고, Premiere 멀티캠 인터뷰 컷은 이제 전환 가능한 멀티캠 클립으로 다시 구성된다."
               },
               {
                 "t": "p",
-                "x": "Premiere Pro와 After Effects에서 Sekondo는 작가 자신의 푸티지로, 작가의 지시에 따라 첫 컷부터 복잡한 모션까지 완성된 작품을 편집하고 애니메이션을 입혀 마무리할 수 있다. 수정할 수 없는 완성 클립을 내놓는 대신 프로젝트의 구조를 읽고, 작업 전에 먼저 측정하며, 모든 레이어를 편집 가능한 상태로 유지한다."
+                "x": "무음과 군말 제거부터 자막, 더빙, B-roll, 세로 화면 변환까지 단일 작업 페이지 열세 개가 추가됐다. 새 워크스페이스 행은 절약한 시간, 실행한 프로젝트, 내보낸 편집본을 보여준다. 팀 워크스페이스에는 크레딧과 예상 소요 시간이 더해지지만, 편집자 순위를 매기거나 팀을 비교하는 기능은 없다."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "어디까지 맡길지는 작가가 정한다. 지시를 수행하게 할 수도, 아이디어와 선택지를 제안하게 할 수도, 작가의 아이디어로 작품 전체를 만들게 할 수도 있다. 파일은 사용자의 컴퓨터를 벗어나지 않는다."
-              },
-              {
-                "t": "p",
-                "x": "Sekondo는 Adobe의 심사를 통과해 이들 앱의 공식 마켓플레이스인 Adobe Exchange에 올라 있다. macOS와 Windows에서 Claude 및 ChatGPT 데스크톱 앱과 함께 작동한다."
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT・Claude\nPremiereの中へ",
-          "body": "SekondoはChatGPTとClaudeをAdobeのプロジェクト内で働かせる。",
-          "mini_headline": "Premiere内のChatGPTとClaude",
+          "headline": "Eddie AI、計画を先に\nResolve Studio",
+          "body": "Eddie AIが事前計画とDaVinci Resolve Studio用パネルを加えた。",
+          "mini_headline": "Eddie AI、計画を先に",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
               },
               {
                 "t": "p",
-                "x": "Córdobaを拠点とするグラフィックデザイナーのJose Manuel Fernándezが、ChatGPTとClaudeをAfter Effects、Premiere Pro、Photoshop、Illustrator、InDesign、Lightroom Classicの六つのAdobeアプリにつなぐプラグイン「Sekondo」を公開した。"
+                "x": "NAB Show New Yorkに合わせたEddie AIの最新アップデートは、有料の実行前に必ず計画を示し、Resolve Studioパネルを追加し、After Effectsのテンプレートを読み込めるようにした。新たなエンタープライズ機能として、Anthropic (Claude)、OpenAI (ChatGPT)、Google (Gemini)の自前キー持ち込み、オンプレミス実行、顧客によるIPの保有、顧客データを学習に使わない方針、SOC 2 Type IおよびIIの監査とGDPR認証が加わった。"
+              },
+              {
+                "t": "video",
+                "yt": "KaiEjtkvfek"
               },
               {
                 "t": "p",
-                "x": "AIは新しい画像やクリップを生成するのではなく、作家自身のプロジェクトの中で作業する。必要なことを文字か音声で伝えると、レイヤー、キーフレーム、コンポジション、タイムラインに変更を加え、すべてを編集可能なまま残す。"
+                "x": "クレジットを消費するプロンプトは、各ステップとそのうちクレジットがかかるステップを並べた計画をまず返す。ユーザーは承認するか、ステップを変更・削除でき、リストを承認するまで何も実行されず課金もされない。カラーグレードのように選択が必要なステップでは、Eddieが映像素材のスチルで選択肢を示す。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
               },
               {
                 "t": "p",
-                "x": "どのスタジオでもそうであるように、Fernándezの一日の多くは反復作業に費やされていた。一つの作品を二十のフォーマットに合わせ、バージョンを作り、同じロワーサードを何度も組む。「必要な作業ですが、アイデアを考えることに使いたい時間を何時間も奪っていきます。デザインする時間を増やすためにSekondoを作りました」"
+                "x": "DaVinci Resolve Studioパネルはビンを閲覧し、素材、タイムライン、マルチカムクリップを取り込み、編集結果を新しいタイムラインとして戻す。「Source clips」書き出しはカメラ原本に再リンクしたFinal Cut Proのブラウザイベントを作り、Premiereのマルチカム・インタビューのカットは切り替え可能なマルチカムクリップとして再構成されるようになった。"
               },
               {
                 "t": "p",
-                "x": "Premiere ProとAfter Effectsでは、Sekondoは作家自身の素材を使い、その指示のもとで、最初のカットから複雑なモーションまで、作品全体の編集、アニメーション、仕上げを行える。変更できない完成クリップを返すのではなく、プロジェクトの構造を読み取り、動く前に測り、すべてのレイヤーを編集可能に保つ。"
+                "x": "無音やフィラーの除去から字幕、吹き替え、B-roll、縦型へのリサイズまで、単機能のページが十三追加された。新しいワークスペースの行には削減できた時間、実行したプロジェクト、書き出した編集が表示される。チームのワークスペースにはクレジットと予想所要時間が加わるが、編集者の順位付けやチームの比較を行う機能はない。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "どこまで任せるかは作家が決める。指示の実行、アイデアや選択肢の提案、あるいは作家のアイデアから作品全体を組み立てることまでできる。ファイルがユーザーのコンピューターの外に出ることはない。"
-              },
-              {
-                "t": "p",
-                "x": "SekondoはAdobeの審査を通過し、これらのアプリ向けの公式マーケットプレイスであるAdobe Exchangeで公開されている。macOSとWindowsで、ClaudeおよびChatGPTのデスクトップアプリと組み合わせて動作する。"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT与Claude\n进驻Premiere",
-          "body": "Sekondo让ChatGPT和Claude在Adobe项目里工作而非生成新片段。",
-          "mini_headline": "Premiere里的ChatGPT与Claude",
+          "headline": "Eddie AI先出计划\nResolve Studio",
+          "body": "Eddie AI付费运行前先列计划，并新增DaVinci Resolve Studio面板。",
+          "mini_headline": "Eddie AI先出计划",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
               },
               {
                 "t": "p",
-                "x": "常驻Córdoba的平面设计师Jose Manuel Fernández推出了插件Sekondo，可将ChatGPT和Claude接入六款Adobe应用：After Effects、Premiere Pro、Photoshop、Illustrator、InDesign和Lightroom Classic。"
+                "x": "Eddie AI配合NAB Show New York推出的最新更新，会在任何付费运行前先展示计划，新增Resolve Studio面板，并可导入After Effects模板。新的企业功能包括自带Anthropic (Claude)、OpenAI (ChatGPT)和Google (Gemini)密钥、本地部署运行、客户拥有IP、不使用客户数据训练，以及SOC 2 Type I和II审计与GDPR认证。"
+              },
+              {
+                "t": "video",
+                "yt": "KaiEjtkvfek"
               },
               {
                 "t": "p",
-                "x": "AI不生成新的图像或片段，而是在创作者自己的项目中工作。用户以文字或语音说明需求，它便将修改应用到图层、关键帧、合成和时间线上，一切都保持可编辑。"
+                "x": "会消耗点数的提示词现在会先返回一份计划，列出每个步骤以及哪些步骤需要点数。用户可以批准、修改或删去某个步骤，在批准清单之前不会运行任何内容，也不会扣费。遇到调色这类需要选择的步骤时，Eddie会用素材中的静帧展示选项。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
               },
               {
                 "t": "p",
-                "x": "和任何工作室一样，Fernández每天有相当一部分时间耗在重复性工作上：把一件作品适配成二十种格式、制作不同版本、一遍遍搭建同样的下方字幕条。“这些工作是必要的，但它们耗掉了我本想用来构思创意的好几个小时。我做Sekondo，是为了有更多时间做设计。”"
+                "x": "DaVinci Resolve Studio面板可以浏览素材箱，导入素材、时间线和多机位片段，并把剪辑结果作为新时间线发回。“Source clips”导出会生成一个重新链接到摄影机原始素材的Final Cut Pro浏览器事件，Premiere的多机位访谈剪辑现在也会重建为可切换的多机位片段。"
               },
               {
                 "t": "p",
-                "x": "在Premiere Pro和After Effects中，Sekondo可以使用创作者自己的素材、在其指导下，从初剪到复杂动态，完成整件作品的剪辑、动画与收尾。它不会交回一段无法修改的成片，而是读懂项目的搭建方式，先测量再动手，并让每个图层都保持可编辑。"
+                "x": "新增了十三个单一任务页面，从去除静音和口头禅，到字幕、配音、B-roll以及竖屏改尺寸。新的工作区一栏显示节省的时长、运行的项目和导出的剪辑；团队工作区还会显示点数和预计时长，但不会给剪辑师排名，也不会对团队做对标。"
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "介入程度由创作者决定：执行指令、提出想法和选项，或根据其构想搭建整件作品。文件始终不会离开用户的电脑。"
-              },
-              {
-                "t": "p",
-                "x": "Sekondo通过Adobe审核后，已上架Adobe为这些应用设立的官方市场Adobe Exchange。它可在macOS和Windows上配合Claude与ChatGPT桌面应用运行。"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT y Claude entran en\nAfter Effects y Premiere",
-          "body": "Sekondo permite que ChatGPT y Claude trabajen en los proyectos de Adobe de un artista en vez de generar clips.",
-          "mini_headline": "ChatGPT y Claude en Premiere",
+          "headline": "Eddie AI planifica primero\ny llega a Resolve Studio",
+          "body": "Eddie AI ahora muestra un plan antes de las ejecuciones de pago y añade un panel en DaVinci Resolve Studio.",
+          "mini_headline": "Eddie AI planifica primero",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+                "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
               },
               {
                 "t": "p",
-                "x": "El diseñador gráfico Jose Manuel Fernández, radicado en Córdoba, lanzó Sekondo, un plugin que conecta ChatGPT y Claude con seis aplicaciones de Adobe: After Effects, Premiere Pro, Photoshop, Illustrator, InDesign y Lightroom Classic."
+                "x": "La última actualización de Eddie AI, presentada para NAB Show New York, muestra un plan antes de cualquier ejecución de pago, añade un panel para Resolve Studio e importa plantillas de After Effects. Las nuevas funciones empresariales incluyen el uso de claves propias con Anthropic (Claude), OpenAI (ChatGPT) y Google (Gemini), ejecución local en las instalaciones del cliente, propiedad de la IP por parte del cliente, ningún entrenamiento con datos de clientes y auditorías SOC 2 Type I y II con certificación GDPR."
+              },
+              {
+                "t": "video",
+                "yt": "KaiEjtkvfek"
               },
               {
                 "t": "p",
-                "x": "En lugar de generar imágenes o clips nuevos, la IA trabaja dentro del propio proyecto del artista. Se describe lo que se necesita, por escrito o de viva voz, y la herramienta aplica los cambios en capas, fotogramas clave, composiciones y líneas de tiempo, y todo queda editable."
+                "x": "Los prompts que vayan a gastar créditos ahora devuelven un plan que enumera cada paso e indica cuáles cuestan créditos. Se puede aprobar, cambiar un paso o eliminarlo, y nada se ejecuta ni se cobra hasta aprobar la lista. Cuando un paso implica una elección, como una corrección de color, Eddie muestra las opciones como fotogramas del propio metraje."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
               },
               {
                 "t": "p",
-                "x": "Como en cualquier estudio, buena parte de la jornada de Fernández se iba en trabajo repetitivo: adaptar una pieza a veinte formatos, versionar, construir los mismos rótulos inferiores una y otra vez. “Estas tareas son necesarias, pero se comen horas que preferiría dedicar a pensar una idea. Creé Sekondo para tener más tiempo para diseñar.”"
+                "x": "El panel de DaVinci Resolve Studio explora bins, importa metraje, líneas de tiempo y clips multicámara, y devuelve las ediciones como una nueva línea de tiempo. Una exportación “Source clips” genera un evento del navegador de Final Cut Pro vinculado de nuevo a los originales de cámara, y los cortes de entrevistas multicámara de Premiere ahora se reconstruyen como clips multicámara conmutables."
               },
               {
                 "t": "p",
-                "x": "En Premiere Pro y After Effects, Sekondo puede editar, animar y terminar piezas completas con el material del propio artista y bajo su dirección, desde el primer corte hasta la animación compleja. En lugar de devolver un clip terminado que no se puede modificar, lee cómo está construido el proyecto, mide antes de actuar y mantiene editable cada capa."
+                "x": "Se añadieron trece páginas de tarea única, desde quitar silencios y muletillas hasta subtítulos, doblaje, B-roll y redimensionado a vertical. Una nueva fila del espacio de trabajo muestra horas ahorradas, proyectos ejecutados y ediciones exportadas; los espacios de equipo añaden créditos y duración prevista, pero nada clasifica a los editores ni compara equipos."
               },
               {
                 "t": "img",
-                "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "El artista decide hasta dónde llega: ejecutar instrucciones, sugerir ideas y opciones o construir una pieza entera a partir de su idea. Los archivos nunca salen del equipo del usuario."
-              },
-              {
-                "t": "p",
-                "x": "Sekondo está publicado en Adobe Exchange, el mercado oficial de Adobe para estas aplicaciones, tras superar la revisión de Adobe. Funciona en macOS y Windows con las aplicaciones de escritorio de Claude y ChatGPT."
+                "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
               }
             ]
           }
@@ -475,15 +435,15 @@
       }
     },
     {
-      "id": "movies-wga-east-cloak-ai-shield",
+      "id": "movies-axe-ai-commercial",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "WGA East·Cloak\n손잡고 AI 학습 차단",
-      "body": "WGA East가 AI 모델이 대본을 못 읽게 막는 Cloak과 손잡았다.",
-      "mini_headline": "WGA East, Cloak 도입",
+      "headline": "보류된 AXE 광고\nAI로 되살아났다",
+      "body": "Cassandra Brooksbank이 예산에 묻힌 AXE 광고를 AI로 되살렸다.",
+      "mini_headline": "AXE 광고, AI로 부활",
       "tool": "Movies",
-      "source": "IndieWire",
-      "url": "https://www.indiewire.com/news/business/wga-east-blocking-ai-models-training-scripts-1235222871/",
+      "source": "No Film School",
+      "url": "https://nofilmschool.com/axe-by-cassandra-brooksbank",
       "accent": "#f5a623",
       "motif": "frame",
       "full": {
@@ -491,179 +451,221 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
-            "cap": "2023년 Warner Bros. Studio 앞, 'Humanity vs. AI'라고 적힌 WGA 피켓. Getty Images"
+            "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
           },
           {
             "t": "p",
-            "x": "Writers Guild of America, East가 화요일, 회원 작품이 AI 모델 학습에 쓰이지 않게 돕는 파트너십을 공개했다. 사람은 읽어도 AI 모델은 읽지 못하는 파일 사본을 만들어 주는 Cloak을 노조 복지 프로그램의 하나로 WGAE 회원에게 무료로 제공한다."
+            "x": "2021년 Cassandra Brooksbank 감독은 The Martin Agency가 기획한 AXE 광고의 연출안을 냈다. New York 지하철에서 한 남자의 거대한 주황색 패딩 재킷이 부풀어 오르다가 겁에 질린 승객들에게 성경에나 나올 법한 양의 땀을 쏟아내는 이야기였다. 프로젝트는 예산 문제로 보류됐다."
           },
           {
             "t": "p",
-            "x": "WGA East 회장 Tom Fontana는 “회원들은 프로듀서나 에이전트에게 작품을 보낸 뒤 그 작품이 AI 모델 학습에 쓰일까 걱정하지 않아도 된다”고 말했다. 비회원도 조합 웹사이트에서 대본을 등록하면서 $10를 내면 Cloak을 붙일 수 있다."
+            "x": "다섯 해 뒤 협업형 AI 영화 제작 플랫폼 Absurd에서 크리에이티브 디렉터로 일하던 그는 이 광고를 60초짜리 비공식 AXE 스펙 광고 For Days That Run Hot으로 다시 만들었다. 트리트먼트부터 캐스팅, 의상, 로케이션, 숏 리스트, 스토리보드까지 실제 제작처럼 밟아 나갔다."
+          },
+          {
+            "t": "img",
+            "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
           },
           {
             "t": "p",
-            "x": "창업자 Rishi Ambavanekar는 원치 않는 AI 학습과 AI 노트, 분석에 맞서 “작가에게 주도권을 돌려주기 위해” Cloak을 만들었다고 했다. 이번 파트너십은 조합 AI Task Force에서 나왔다."
+            "x": "그는 저마다 다른 합성 캐릭터 20명가량을 캐스팅했다. 인물 사진에는 GPT Image 2.5 Sunburst를, 여러 각도의 레퍼런스 묶음에는 Uni 1.1을 썼고 일관성을 지키려고 캐릭터를 Absurd의 메모리에 고정했다. 영상은 주로 Seedance 2.5로 뽑았다. 48개 숏 리스트를 3–5개 숏씩 묶어 이틀가량 생성했다."
+          },
+          {
+            "t": "img",
+            "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
           },
           {
             "t": "p",
-            "x": "Cloak은 2025년 9월 세워졌고 Andreessen Horowitz의 Speedrun 액셀러레이터와 University of Pennsylvania가 뒤를 받친다. 회사 웹사이트는 테스트해 보니 Claude, Gemini, ChatGPT 모델뿐 아니라 Google Drive, Gmail, Adobe Acrobat의 자동 요약에도 “효과적”이었다고 주장한다."
+            "x": "편집은 Premiere에서 직접 했고 색보정은 촬영감독 Andrew Fletcher가 DaVinci Resolve에서 맡아 Filmbox Pro로 필름 그레인을 입혔다. 그는 “AI는 이미지를 생성할 수 있다. 하지만 어떤 이미지가 만들 가치가 있는지는 정하지 못한다”고 썼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "WGA East partners with Cloak\nto block AI training",
-          "body": "The Writers Guild of America East is partnering with Cloak, software that makes scripts unreadable to AI models.",
-          "mini_headline": "WGA East adopts Cloak",
+          "headline": "A shelved AXE commercial\nreturns, made with AI",
+          "body": "Five years after budget constraints shelved an AXE spot she pitched, director Cassandra Brooksbank rebuilt it with AI.",
+          "mini_headline": "AXE ad revived with AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
-                "cap": "A WGA sign reads 'Humanity vs. AI' outside Warner Bros. Studio in 2023. Getty Images"
+                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
               },
               {
                 "t": "p",
-                "x": "The Writers Guild of America, East unveiled a partnership on Tuesday to help prevent AI models from training on its members’ work. Cloak, which creates copies of files that are illegible to AI models but readable for humans, will be free to WGAE members as part of the union’s benefits program."
+                "x": "In 2021, director Cassandra Brooksbank pitched to direct an AXE commercial developed at The Martin Agency: a guy on a New York subway whose enormous orange puffer jacket inflates until it unleashes a biblical amount of sweat onto horrified commuters. The project was shelved for budgetary reasons."
               },
               {
                 "t": "p",
-                "x": "“Members don’t need to worry that their work will be used to train AI models after they send it to producers or agents,” WGA East president Tom Fontana said. Non-members can add Cloak for $10 when registering a script through the guild’s website."
+                "x": "Five years later, working as a creative director at Absurd, a collaborative AI filmmaking platform, she rebuilt it as For Days That Run Hot, a 60-second unofficial AXE spec commercial, approaching it like a real production: treatment, casting, wardrobe, locations, shot list and storyboards."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
               },
               {
                 "t": "p",
-                "x": "Founder Rishi Ambavanekar said he built Cloak “to give agency back to writers” against unwanted AI training, AI notes and analysis. The partnership comes out of the guild’s AI Task Force."
+                "x": "She cast about 20 distinct synthetic characters, using GPT Image 2.5 Sunburst for portraits and Uni 1.1 for multi-angle reference packs, and locked them in Absurd’s memory to keep them consistent. Video came mainly from Seedance 2.5, generated in sequences of 3–5 shots from a 48-shot list over roughly two days."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
               },
               {
                 "t": "p",
-                "x": "Founded in September 2025, Cloak is backed by Andreessen Horowitz’s Speedrun accelerator and the University of Pennsylvania. Its website claims tests proved “effective” against Claude, Gemini and ChatGPT models, and against automated summaries in Google Drive, Gmail and Adobe Acrobat."
+                "x": "She cut it in Premiere, and cinematographer Andrew Fletcher graded it in DaVinci Resolve and added film grain with Filmbox Pro. “AI can generate images. It can’t decide which images are worth making,” she writes."
               }
             ]
           }
         },
         "ko": {
-          "headline": "WGA East·Cloak\n손잡고 AI 학습 차단",
-          "body": "WGA East가 AI 모델이 대본을 못 읽게 막는 Cloak과 손잡았다.",
-          "mini_headline": "WGA East, Cloak 도입",
+          "headline": "보류된 AXE 광고\nAI로 되살아났다",
+          "body": "Cassandra Brooksbank이 예산에 묻힌 AXE 광고를 AI로 되살렸다.",
+          "mini_headline": "AXE 광고, AI로 부활",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
-                "cap": "2023년 Warner Bros. Studio 앞, 'Humanity vs. AI'라고 적힌 WGA 피켓. Getty Images"
+                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
               },
               {
                 "t": "p",
-                "x": "Writers Guild of America, East가 화요일, 회원 작품이 AI 모델 학습에 쓰이지 않게 돕는 파트너십을 공개했다. 사람은 읽어도 AI 모델은 읽지 못하는 파일 사본을 만들어 주는 Cloak을 노조 복지 프로그램의 하나로 WGAE 회원에게 무료로 제공한다."
+                "x": "2021년 Cassandra Brooksbank 감독은 The Martin Agency가 기획한 AXE 광고의 연출안을 냈다. New York 지하철에서 한 남자의 거대한 주황색 패딩 재킷이 부풀어 오르다가 겁에 질린 승객들에게 성경에나 나올 법한 양의 땀을 쏟아내는 이야기였다. 프로젝트는 예산 문제로 보류됐다."
               },
               {
                 "t": "p",
-                "x": "WGA East 회장 Tom Fontana는 “회원들은 프로듀서나 에이전트에게 작품을 보낸 뒤 그 작품이 AI 모델 학습에 쓰일까 걱정하지 않아도 된다”고 말했다. 비회원도 조합 웹사이트에서 대본을 등록하면서 $10를 내면 Cloak을 붙일 수 있다."
+                "x": "다섯 해 뒤 협업형 AI 영화 제작 플랫폼 Absurd에서 크리에이티브 디렉터로 일하던 그는 이 광고를 60초짜리 비공식 AXE 스펙 광고 For Days That Run Hot으로 다시 만들었다. 트리트먼트부터 캐스팅, 의상, 로케이션, 숏 리스트, 스토리보드까지 실제 제작처럼 밟아 나갔다."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
               },
               {
                 "t": "p",
-                "x": "창업자 Rishi Ambavanekar는 원치 않는 AI 학습과 AI 노트, 분석에 맞서 “작가에게 주도권을 돌려주기 위해” Cloak을 만들었다고 했다. 이번 파트너십은 조합 AI Task Force에서 나왔다."
+                "x": "그는 저마다 다른 합성 캐릭터 20명가량을 캐스팅했다. 인물 사진에는 GPT Image 2.5 Sunburst를, 여러 각도의 레퍼런스 묶음에는 Uni 1.1을 썼고 일관성을 지키려고 캐릭터를 Absurd의 메모리에 고정했다. 영상은 주로 Seedance 2.5로 뽑았다. 48개 숏 리스트를 3–5개 숏씩 묶어 이틀가량 생성했다."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
               },
               {
                 "t": "p",
-                "x": "Cloak은 2025년 9월 세워졌고 Andreessen Horowitz의 Speedrun 액셀러레이터와 University of Pennsylvania가 뒤를 받친다. 회사 웹사이트는 테스트해 보니 Claude, Gemini, ChatGPT 모델뿐 아니라 Google Drive, Gmail, Adobe Acrobat의 자동 요약에도 “효과적”이었다고 주장한다."
+                "x": "편집은 Premiere에서 직접 했고 색보정은 촬영감독 Andrew Fletcher가 DaVinci Resolve에서 맡아 Filmbox Pro로 필름 그레인을 입혔다. 그는 “AI는 이미지를 생성할 수 있다. 하지만 어떤 이미지가 만들 가치가 있는지는 정하지 못한다”고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WGA EastとCloak\nAI学習を阻む提携",
-          "body": "WGA Eastが脚本をAIモデルに読めなくするソフトCloakと提携した。",
-          "mini_headline": "WGA EastがCloakを導入",
+          "headline": "お蔵入りのAXE広告\nAIで生まれ変わる",
+          "body": "Cassandra Brooksbank監督は予算で頓挫したAXE広告をAIで作り直した。",
+          "mini_headline": "AXE広告、AIで復活",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
-                "cap": "2023年、Warner Bros. Studioの前に掲げられた「Humanity vs. AI」と書かれたWGAのプラカード。Getty Images"
+                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
               },
               {
                 "t": "p",
-                "x": "Writers Guild of America, Eastは火曜日、会員の作品がAIモデルの学習に使われるのを防ぐための提携を発表した。AIモデルには判読できないが人間には読めるファイルのコピーを作るCloakが、組合の福利厚生プログラムの一環としてWGAE会員に無料で提供される。"
+                "x": "2021年、Cassandra Brooksbank監督はThe Martin Agencyが企画したAXEのCMの監督に名乗りを上げた。New Yorkの地下鉄で男性の巨大なオレンジ色のダウンジャケットが膨らみ続け、ついには聖書級の量の汗をおびえる乗客に浴びせるという内容だ。企画は予算上の理由でお蔵入りとなった。"
               },
               {
                 "t": "p",
-                "x": "WGA East会長のTom Fontanaは「会員は、プロデューサーやエージェントに作品を送った後、それがAIモデルの学習に使われる心配をしなくてよい」と述べた。非会員は、組合のウェブサイトで脚本を登録する際に$10でCloakを追加できる。"
+                "x": "五年後、共同制作型のAI映画制作プラットフォームAbsurdでクリエイティブディレクターを務める彼女は、これを60秒の非公式AXEスペックCM「For Days That Run Hot」として作り直した。トリートメント、キャスティング、衣装、ロケーション、ショットリスト、絵コンテと、本物の制作と同じ手順で臨んだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
               },
               {
                 "t": "p",
-                "x": "創業者のRishi Ambavanekarは、望まないAI学習やAIによるノート、分析に対して「書き手に主体性を取り戻す」ためにCloakを作ったと語った。今回の提携は組合のAI Task Forceから生まれた。"
+                "x": "彼女は約20人の異なる合成キャラクターをキャスティングし、ポートレートにはGPT Image 2.5 Sunburst、複数アングルの参照素材にはUni 1.1を使い、一貫性を保つためキャラクターをAbsurdのメモリに固定した。映像は主にSeedance 2.5で、48ショットのリストから3–5ショットずつ、およそ二日かけて生成した。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
               },
               {
                 "t": "p",
-                "x": "2025年9月に設立されたCloakは、Andreessen HorowitzのアクセラレーターSpeedrunとUniversity of Pennsylvaniaの支援を受けている。同社のウェブサイトは、Claude、Gemini、ChatGPTの各モデルに加え、Google Drive、Gmail、Adobe Acrobatの自動要約に対しても、テストで「効果的」だと証明されたとしている。"
+                "x": "編集はPremiereで彼女自身が行い、撮影監督のAndrew FletcherがDaVinci Resolveでグレーディングし、Filmbox Proでフィルムグレインを加えた。「AIは画像を生成できる。だが、どの画像を作る価値があるかは決められない」と彼女は書いている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "WGA East与Cloak\n联手阻止AI训练",
-          "body": "WGA East与Cloak合作，该软件能让剧本无法被AI模型读取。",
-          "mini_headline": "WGA East采用Cloak",
+          "headline": "被搁置的AXE广告\n借AI重生",
+          "body": "导演Cassandra Brooksbank用AI重做了五年前因预算搁浅的AXE广告。",
+          "mini_headline": "AXE广告借AI重生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
-                "cap": "2023年，Warner Bros. Studio外一块写着“Humanity vs. AI”的WGA标牌。Getty Images"
+                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
               },
               {
                 "t": "p",
-                "x": "Writers Guild of America, East周二公布一项合作，帮助防止AI模型用会员作品进行训练。Cloak可生成AI模型无法识读、但人类可以阅读的文件副本，将作为工会福利计划的一部分免费提供给WGAE会员。"
+                "x": "2021年，导演Cassandra Brooksbank争取执导The Martin Agency开发的一支AXE广告：New York地铁上一名男子的巨大橙色羽绒服不断膨胀，最后向惊恐的乘客喷出堪比圣经级别的大量汗水。该项目因预算原因被搁置。"
               },
               {
                 "t": "p",
-                "x": "WGA East主席Tom Fontana表示：“会员把作品发给制片人或经纪人之后，不必再担心作品被用来训练AI模型。”非会员通过工会网站登记剧本时，可支付$10加购Cloak。"
+                "x": "五年后，她在协作式AI电影制作平台Absurd担任创意总监，把它重做成一支60秒的非官方AXE样片广告《For Days That Run Hot》，并像真正的制作一样推进：创意阐述、选角、服装、场景、分镜清单和故事板。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
               },
               {
                 "t": "p",
-                "x": "创始人Rishi Ambavanekar表示，他打造Cloak是为了在面对不受欢迎的AI训练、AI笔记和分析时“把主动权还给编剧”。此次合作源自工会的AI Task Force。"
+                "x": "她选定了约20个各不相同的合成角色，用GPT Image 2.5 Sunburst生成肖像，用Uni 1.1生成多角度参考图包，并把角色锁定在Absurd的记忆中以保持一致。视频主要来自Seedance 2.5，从48个镜头的清单中按每组3–5个镜头生成，前后约两天。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
               },
               {
                 "t": "p",
-                "x": "Cloak成立于2025年9月，获得Andreessen Horowitz旗下Speedrun加速器和University of Pennsylvania的支持。其网站称，测试证明它对Claude、Gemini和ChatGPT模型，以及Google Drive、Gmail和Adobe Acrobat中的自动摘要均“有效”。"
+                "x": "她在Premiere中完成剪辑，摄影指导Andrew Fletcher在DaVinci Resolve中调色，并用Filmbox Pro加上胶片颗粒。她写道：“AI能生成图像，却无法决定哪些图像值得去做。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "WGA East se alía con Cloak\ncontra el entrenamiento de IA",
-          "body": "El Writers Guild of America East se asocia con Cloak, un programa que hace ilegibles los guiones para modelos de IA.",
-          "mini_headline": "WGA East adopta Cloak",
+          "headline": "Un anuncio de AXE archivado\nvuelve, hecho con AI",
+          "body": "Cinco años después de que el presupuesto frenara su anuncio de AXE, Cassandra Brooksbank lo rehízo con AI.",
+          "mini_headline": "Anuncio de AXE revivido con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
-                "cap": "Un cartel de la WGA con el lema 'Humanity vs. AI' frente a Warner Bros. Studio en 2023. Getty Images"
+                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
               },
               {
                 "t": "p",
-                "x": "El Writers Guild of America, East presentó el martes una alianza para ayudar a impedir que los modelos de IA se entrenen con el trabajo de sus miembros. Cloak, que crea copias de archivos ilegibles para los modelos de IA pero legibles para las personas, será gratuito para los miembros del WGAE como parte del programa de beneficios del sindicato."
+                "x": "En 2021, la directora Cassandra Brooksbank se postuló para dirigir un anuncio de AXE desarrollado en The Martin Agency: un hombre en el metro de New York cuyo enorme abrigo acolchado naranja se infla hasta liberar una cantidad bíblica de sudor sobre pasajeros horrorizados. El proyecto quedó archivado por motivos de presupuesto."
               },
               {
                 "t": "p",
-                "x": "“Los miembros no tienen que preocuparse de que su trabajo se use para entrenar modelos de IA después de enviarlo a productores o agentes”, dijo Tom Fontana, presidente del WGA East. Quienes no son miembros pueden añadir Cloak por $10 al registrar un guion en el sitio web del sindicato."
+                "x": "Cinco años después, como directora creativa en Absurd, una plataforma colaborativa de cine con AI, lo rehízo como For Days That Run Hot, un anuncio especulativo no oficial de AXE de 60 segundos, y lo abordó como una producción real: tratamiento, casting, vestuario, localizaciones, lista de planos y storyboards."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
               },
               {
                 "t": "p",
-                "x": "Su fundador, Rishi Ambavanekar, dijo que creó Cloak “para devolver la capacidad de decisión a los guionistas” frente al entrenamiento de IA no deseado y a las notas y análisis hechos con IA. La alianza surge del AI Task Force del sindicato."
+                "x": "Eligió unos 20 personajes sintéticos distintos, con GPT Image 2.5 Sunburst para los retratos y Uni 1.1 para paquetes de referencia desde varios ángulos, y los fijó en la memoria de Absurd para mantenerlos coherentes. El video salió sobre todo de Seedance 2.5, generado en secuencias de 3–5 planos a partir de una lista de 48 planos durante unos dos días."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
               },
               {
                 "t": "p",
-                "x": "Fundada en septiembre de 2025, Cloak cuenta con el respaldo de la aceleradora Speedrun de Andreessen Horowitz y de la University of Pennsylvania. Su sitio web asegura que las pruebas demostraron que es “eficaz” frente a los modelos Claude, Gemini y ChatGPT, y frente a los resúmenes automáticos de Google Drive, Gmail y Adobe Acrobat."
+                "x": "Ella lo montó en Premiere, y el director de fotografía Andrew Fletcher hizo la corrección de color en DaVinci Resolve y añadió grano de película con Filmbox Pro. “La AI puede generar imágenes. No puede decidir qué imágenes vale la pena hacer”, escribe."
               }
             ]
           }
@@ -671,125 +673,153 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "WGA East·Cloak\n손잡고 AI 학습 차단",
-          "body": "WGA East가 대본을 AI 모델이 읽지 못하게 하는 Cloak과 손잡았다.",
-          "mini_headline": "WGA East, Cloak 도입",
+          "headline": "보류된 AXE 광고\nAI로 되살아났다",
+          "body": "Cassandra Brooksbank이 예산에 묻힌 AXE 광고를 AI로 되살렸다.",
+          "mini_headline": "AXE 광고, AI로 부활",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
-                "cap": "2023년 Warner Bros. Studio 앞, 'Humanity vs. AI'라고 적힌 WGA 피켓. Getty Images"
+                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
               },
               {
                 "t": "p",
-                "x": "Writers Guild of America, East가 화요일 회원들의 작품이 AI 모델 학습에 쓰이지 않도록 돕는 파트너십을 공개했다. AI 모델은 읽을 수 없지만 사람은 읽을 수 있는 파일 사본을 만드는 Cloak을 노조 복지 프로그램의 하나로 WGAE 회원에게 무료로 제공한다."
+                "x": "2021년 Cassandra Brooksbank 감독은 The Martin Agency가 기획한 AXE 광고의 연출을 제안했다. New York 지하철 속 한 남자의 거대한 주황색 패딩 재킷이 부풀어 오르다 겁에 질린 승객들에게 성경에 나올 법한 양의 땀을 쏟아내는 내용이었다. 이 프로젝트는 예산 문제로 보류됐다."
               },
               {
                 "t": "p",
-                "x": "WGA East 회장 Tom Fontana는 “회원들은 프로듀서나 에이전트에게 작품을 보낸 뒤 그 작품이 AI 모델 학습에 쓰일까 걱정하지 않아도 된다”고 말했다. 비회원은 조합 웹사이트에서 대본을 등록할 때 $10를 내고 Cloak을 추가할 수 있다."
+                "x": "다섯 해 뒤, 협업형 AI 영화 제작 플랫폼 Absurd에서 크리에이티브 디렉터로 일하던 그는 이 광고를 60초짜리 비공식 AXE 스펙 광고 For Days That Run Hot으로 다시 만들었다. 트리트먼트, 캐스팅, 의상, 로케이션, 숏 리스트, 스토리보드까지 실제 제작처럼 접근했다."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
               },
               {
                 "t": "p",
-                "x": "창업자 Rishi Ambavanekar는 원치 않는 AI 학습, AI 노트, 분석에 맞서 “작가에게 주도권을 돌려주기 위해” Cloak을 만들었다고 밝혔다. 이번 파트너십은 조합의 AI Task Force에서 나왔다."
+                "x": "그는 서로 다른 합성 캐릭터 20명가량을 캐스팅했다. 인물 사진에는 GPT Image 2.5 Sunburst를, 여러 각도의 레퍼런스 묶음에는 Uni 1.1을 썼고, 일관성을 지키려고 캐릭터를 Absurd의 메모리에 고정했다. 영상은 주로 Seedance 2.5로 만들었으며, 48개 숏 리스트에서 3–5개 숏씩 묶어 이틀가량 생성했다."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
               },
               {
                 "t": "p",
-                "x": "2025년 9월 설립된 Cloak은 Andreessen Horowitz의 Speedrun 액셀러레이터와 University of Pennsylvania의 지원을 받는다. 회사 웹사이트는 테스트 결과 Claude, Gemini, ChatGPT 모델은 물론 Google Drive, Gmail, Adobe Acrobat의 자동 요약에도 “효과적”이었다고 주장한다."
+                "x": "편집은 Premiere에서 직접 했고, 촬영감독 Andrew Fletcher가 DaVinci Resolve에서 색보정을 맡아 Filmbox Pro로 필름 그레인을 더했다. 그는 “AI는 이미지를 생성할 수 있다. 하지만 어떤 이미지가 만들 가치가 있는지는 정하지 못한다”고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "WGA EastとCloak\nAI学習を阻む提携",
-          "body": "WGA Eastが脚本をAIモデルに読めなくするソフトCloakと提携した。",
-          "mini_headline": "WGA EastがCloakを導入",
+          "headline": "お蔵入りのAXE広告\nAIで生まれ変わる",
+          "body": "Cassandra Brooksbank監督は予算で頓挫したAXE広告をAIで作り直した。",
+          "mini_headline": "AXE広告、AIで復活",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
-                "cap": "2023年、Warner Bros. Studioの前に掲げられた「Humanity vs. AI」と書かれたWGAのプラカード。Getty Images"
+                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
               },
               {
                 "t": "p",
-                "x": "Writers Guild of America, Eastは火曜日、会員の作品がAIモデルの学習に使われるのを防ぐための提携を発表した。AIモデルには判読できないが人間には読めるファイルのコピーを作るCloakが、組合の福利厚生プログラムの一環としてWGAE会員に無料で提供される。"
+                "x": "2021年、Cassandra Brooksbank監督はThe Martin Agencyが企画したAXEのCMの監督に名乗りを上げた。New Yorkの地下鉄で男性の巨大なオレンジ色のダウンジャケットが膨らみ続け、ついには聖書級の量の汗をおびえる乗客に浴びせるという内容だ。企画は予算上の理由でお蔵入りとなった。"
               },
               {
                 "t": "p",
-                "x": "WGA East会長のTom Fontanaは「会員は、プロデューサーやエージェントに作品を送った後、それがAIモデルの学習に使われる心配をしなくてよい」と述べた。非会員は、組合のウェブサイトで脚本を登録する際に$10でCloakを追加できる。"
+                "x": "五年後、共同制作型のAI映画制作プラットフォームAbsurdでクリエイティブディレクターを務める彼女は、これを60秒の非公式AXEスペックCM「For Days That Run Hot」として作り直した。トリートメント、キャスティング、衣装、ロケーション、ショットリスト、絵コンテと、本物の制作と同じ手順で臨んだ。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
               },
               {
                 "t": "p",
-                "x": "創業者のRishi Ambavanekarは、望まないAI学習やAIによるノート、分析に対して「書き手に主体性を取り戻す」ためにCloakを作ったと語った。今回の提携は組合のAI Task Forceから生まれた。"
+                "x": "彼女は約20人の異なる合成キャラクターをキャスティングし、ポートレートにはGPT Image 2.5 Sunburst、複数アングルの参照素材にはUni 1.1を使い、一貫性を保つためキャラクターをAbsurdのメモリに固定した。映像は主にSeedance 2.5で、48ショットのリストから3–5ショットずつ、およそ二日かけて生成した。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
               },
               {
                 "t": "p",
-                "x": "2025年9月に設立されたCloakは、Andreessen HorowitzのアクセラレーターSpeedrunとUniversity of Pennsylvaniaの支援を受けている。同社のウェブサイトは、Claude、Gemini、ChatGPTの各モデルに加え、Google Drive、Gmail、Adobe Acrobatの自動要約に対しても、テストで「効果的」だと証明されたとしている。"
+                "x": "編集はPremiereで彼女自身が行い、撮影監督のAndrew FletcherがDaVinci Resolveでグレーディングし、Filmbox Proでフィルムグレインを加えた。「AIは画像を生成できる。だが、どの画像を作る価値があるかは決められない」と彼女は書いている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "WGA East与Cloak\n联手阻止AI训练",
-          "body": "WGA East与Cloak合作，该软件能让剧本无法被AI模型读取。",
-          "mini_headline": "WGA East采用Cloak",
+          "headline": "被搁置的AXE广告\n借AI重生",
+          "body": "导演Cassandra Brooksbank用AI重做了五年前因预算搁浅的AXE广告。",
+          "mini_headline": "AXE广告借AI重生",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
-                "cap": "2023年，Warner Bros. Studio外一块写着“Humanity vs. AI”的WGA标牌。Getty Images"
+                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
               },
               {
                 "t": "p",
-                "x": "Writers Guild of America, East周二公布一项合作，帮助防止AI模型用会员作品进行训练。Cloak可生成AI模型无法识读、但人类可以阅读的文件副本，将作为工会福利计划的一部分免费提供给WGAE会员。"
+                "x": "2021年，导演Cassandra Brooksbank争取执导The Martin Agency开发的一支AXE广告：New York地铁上一名男子的巨大橙色羽绒服不断膨胀，最后向惊恐的乘客喷出堪比圣经级别的大量汗水。该项目因预算原因被搁置。"
               },
               {
                 "t": "p",
-                "x": "WGA East主席Tom Fontana表示：“会员把作品发给制片人或经纪人之后，不必再担心作品被用来训练AI模型。”非会员通过工会网站登记剧本时，可支付$10加购Cloak。"
+                "x": "五年后，她在协作式AI电影制作平台Absurd担任创意总监，把它重做成一支60秒的非官方AXE样片广告《For Days That Run Hot》，并像真正的制作一样推进：创意阐述、选角、服装、场景、分镜清单和故事板。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
               },
               {
                 "t": "p",
-                "x": "创始人Rishi Ambavanekar表示，他打造Cloak是为了在面对不受欢迎的AI训练、AI笔记和分析时“把主动权还给编剧”。此次合作源自工会的AI Task Force。"
+                "x": "她选定了约20个各不相同的合成角色，用GPT Image 2.5 Sunburst生成肖像，用Uni 1.1生成多角度参考图包，并把角色锁定在Absurd的记忆中以保持一致。视频主要来自Seedance 2.5，从48个镜头的清单中按每组3–5个镜头生成，前后约两天。"
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
               },
               {
                 "t": "p",
-                "x": "Cloak成立于2025年9月，获得Andreessen Horowitz旗下Speedrun加速器和University of Pennsylvania的支持。其网站称，测试证明它对Claude、Gemini和ChatGPT模型，以及Google Drive、Gmail和Adobe Acrobat中的自动摘要均“有效”。"
+                "x": "她在Premiere中完成剪辑，摄影指导Andrew Fletcher在DaVinci Resolve中调色，并用Filmbox Pro加上胶片颗粒。她写道：“AI能生成图像，却无法决定哪些图像值得去做。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "WGA East se alía con Cloak\ncontra el entrenamiento de IA",
-          "body": "El Writers Guild of America East se asocia con Cloak, un programa que hace ilegibles los guiones para modelos de IA.",
-          "mini_headline": "WGA East adopta Cloak",
+          "headline": "Un anuncio de AXE archivado\nvuelve, hecho con AI",
+          "body": "Cinco años después de que el presupuesto frenara su anuncio de AXE, Cassandra Brooksbank lo rehízo con AI.",
+          "mini_headline": "Anuncio de AXE revivido con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.indiewire.com/wp-content/uploads/2026/10/GettyImages-1619465051.jpg?w=1600",
-                "cap": "Un cartel de la WGA con el lema 'Humanity vs. AI' frente a Warner Bros. Studio en 2023. Getty Images"
+                "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
               },
               {
                 "t": "p",
-                "x": "El Writers Guild of America, East presentó el martes una alianza para ayudar a impedir que los modelos de IA se entrenen con el trabajo de sus miembros. Cloak, que crea copias de archivos ilegibles para los modelos de IA pero legibles para las personas, será gratuito para los miembros del WGAE como parte del programa de beneficios del sindicato."
+                "x": "En 2021, la directora Cassandra Brooksbank se postuló para dirigir un anuncio de AXE desarrollado en The Martin Agency: un hombre en el metro de New York cuyo enorme abrigo acolchado naranja se infla hasta liberar una cantidad bíblica de sudor sobre pasajeros horrorizados. El proyecto quedó archivado por motivos de presupuesto."
               },
               {
                 "t": "p",
-                "x": "“Los miembros no tienen que preocuparse de que su trabajo se use para entrenar modelos de IA después de enviarlo a productores o agentes”, dijo Tom Fontana, presidente del WGA East. Quienes no son miembros pueden añadir Cloak por $10 al registrar un guion en el sitio web del sindicato."
+                "x": "Cinco años después, como directora creativa en Absurd, una plataforma colaborativa de cine con AI, lo rehízo como For Days That Run Hot, un anuncio especulativo no oficial de AXE de 60 segundos, y lo abordó como una producción real: tratamiento, casting, vestuario, localizaciones, lista de planos y storyboards."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
               },
               {
                 "t": "p",
-                "x": "Su fundador, Rishi Ambavanekar, dijo que creó Cloak “para devolver la capacidad de decisión a los guionistas” frente al entrenamiento de IA no deseado y a las notas y análisis hechos con IA. La alianza surge del AI Task Force del sindicato."
+                "x": "Eligió unos 20 personajes sintéticos distintos, con GPT Image 2.5 Sunburst para los retratos y Uni 1.1 para paquetes de referencia desde varios ángulos, y los fijó en la memoria de Absurd para mantenerlos coherentes. El video salió sobre todo de Seedance 2.5, generado en secuencias de 3–5 planos a partir de una lista de 48 planos durante unos dos días."
+              },
+              {
+                "t": "img",
+                "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
               },
               {
                 "t": "p",
-                "x": "Fundada en septiembre de 2025, Cloak cuenta con el respaldo de la aceleradora Speedrun de Andreessen Horowitz y de la University of Pennsylvania. Su sitio web asegura que las pruebas demostraron que es “eficaz” frente a los modelos Claude, Gemini y ChatGPT, y frente a los resúmenes automáticos de Google Drive, Gmail y Adobe Acrobat."
+                "x": "Ella lo montó en Premiere, y el director de fotografía Andrew Fletcher hizo la corrección de color en DaVinci Resolve y añadió grano de película con Filmbox Pro. “La AI puede generar imágenes. No puede decidir qué imágenes vale la pena hacer”, escribe."
               }
             ]
           }
@@ -797,15 +827,15 @@
       }
     },
     {
-      "id": "movies-microdramas-ai-two-thirds",
+      "id": "movies-cined-ai-editors-compared",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "중국 밖 마이크로드라마\n신작 삼분의 이 AI 제작",
-      "body": "Owl & Co. 보고서를 보면 시청 시간 최상위 작품은 합성 배우 드라마다.",
-      "mini_headline": "마이크로드라마 대부분 AI 제작",
+      "headline": "cinemaOS와\nCUTROOM 등 셋 비교",
+      "body": "CineD가 AI 편집기 cinemaOS·CUTROOM·invideo를 견줬다.",
+      "mini_headline": "AI 편집기 셋 비교",
       "tool": "Movies",
-      "source": "The Hollywood Reporter",
-      "url": "https://www.hollywoodreporter.com/business/digital/ai-generated-microdramas-two-thirds-all-releases-1236735402/",
+      "source": "CineD",
+      "url": "https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -813,305 +843,485 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
-            "cap": "ReelShort에서 높은 성과를 낸 AI 마이크로드라마 ‘The Great and Powerful Genie’. Courtesy of ReelShort"
+            "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
           },
           {
             "t": "p",
-            "x": "Owl & Co.의 최신 보고서 “What We Watched on Vertical”을 보면 2026년 3분기 상위 20개 플랫폼에 올라온 중국 밖 세로형 드라마 신작 가운데 삼분의 이가 AI로 만들어졌다. 첫 분기 3퍼센트, 두 번째 분기 28퍼센트에서 또 늘었다."
+            "x": "AI와 오픈소스 구성 요소로 짠 영상 편집기가 늘고 있다. 소규모 팀이나 개발자 한 명이 만드는 것도 있다. cinemaOS는 기기 안에서 도는 어시스턴트를 갖춘 Mac 구독 앱이고, CUTROOM은 로컬에서 돌아가는 무료 오픈소스 편집기다. invideo는 AI 편집 에이전트와 수십 개의 생성 모델을 브라우저에 담았다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
+            "cap": "cinemaOS / Momentum Studios"
           },
           {
             "t": "p",
-            "x": "중국을 닮아 가는 흐름이다. 중국에서는 2026년 초 공개작의 95퍼센트 이상을 AI로 만들었다고 한다. 유료 앱 시청 시간 상위 다섯 편 가운데 실사 작품은 단 하나였고, 맨 위에는 ReelShort가 AI로 생성한(AI-generated) The Great and Powerful Genie가 올랐다."
+            "x": "cinemaOS(버전 0.2, 월 $9.99)는 작업을 “룸” 단위로 나누고, 룸들은 라이브 프로젝트 하나를 함께 쓴다. 어시스턴트 J.A.R.E.D.가 전사, 번역, 룩 작업을 크레딧 없이 Mac에서 처리한다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
+            "cap": "CUTROOM"
           },
           {
             "t": "p",
-            "x": "추적한 앱들은 이번 분기 조회 63B 회, 시청 이십억 시간을 기록했다. 전체 조회의 절반 이상은 TikTok의 무료 앱 PineDrama에서 나왔다."
+            "x": "MIT-licensed로 Windows와 Mac용 1.2 공개 베타를 진행 중인 CUTROOM에서 AI는 선택 사항이다. 내려받은 모델과 Ollama로 로컬에서 전사와 초안을 만들 수도 있고, 사용자 API 키로 클라우드 제공업체를 붙일 수도 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
+            "cap": "invideo"
           },
           {
             "t": "p",
-            "x": "다만 보고서는 중국에서 “실사로 회귀하는 움직임”이 보인다고 짚었다. ReelShort에서는 공개 30일 뒤까지 조회수 상위 10퍼센트에 남을 확률이 AI 작품보다 실사 작품 쪽이 높았다."
+            "x": "invideo의 Agent Two는 클립을 모두 보고 기록한 다음 요청대로 편집한다. Veo 3.1, Sora 2, Kling 같은 영상 모델도 함께 쓸 수 있다. 크레딧 요금제는 연간 결제 시 좌석당 월 $10부터다."
+          },
+          {
+            "t": "p",
+            "x": "CineD는 세 도구 모두 아직 전문 작업에서 Premiere Pro, Final Cut Pro, DaVinci Resolve를 곧바로 대체하진 못한다고 봤다. 압박을 받는 쪽은 구독 가격과 짧은 소셜 콘텐츠다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI made two-thirds of new\nmicrodramas outside China",
-          "body": "An Owl & Co. report found stories with synthetic actors were the top microdramas by minutes watched.",
-          "mini_headline": "AI makes most microdramas",
+          "headline": "cinemaOS, CUTROOM, invideo:\nthree AI editors compared",
+          "body": "CineD weighs a Mac studio app, a free open-source editor and a cloud AI agent: cinemaOS, CUTROOM and invideo.",
+          "mini_headline": "Three AI editors compared",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "‘The Great and Powerful Genie,’ a top-performing AI microdrama from ReelShort. Courtesy of ReelShort"
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
               },
               {
                 "t": "p",
-                "x": "Two-thirds of vertical drama releases outside China in the third quarter of 2026 from 20 top platforms were AI generated, according to Owl & Co.’s latest “What We Watched on Vertical” report — up from 3 percent in the first quarter and 28 percent in the second."
+                "x": "A growing number of video editors are built around AI and open-source components, some by small teams or a single developer. cinemaOS is a Mac subscription app with an on-device assistant, CUTROOM is a free open-source editor that runs locally, and invideo puts an AI editing agent and dozens of generative models in the browser."
               },
-              {
-                "t": "p",
-                "x": "The shift echoes China, where more than 95 percent of titles released in early 2026 were reportedly made using AI. Among paid apps, only one live-action title made the top five by minutes watched; the number-one performer was ReelShort’s AI-generated The Great and Powerful Genie."
-              },
-              {
-                "t": "p",
-                "x": "Tracked apps logged 63 billion views and two billion viewing hours in the quarter, with TikTok’s free PineDrama app accounting for more than half of all views."
-              },
-              {
-                "t": "p",
-                "x": "Still, the report notes China is showing “a pullback towards live action,” and at ReelShort live-action titles had a higher chance than AI titles of staying in the top 10 percent by views 30 days after release."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "중국 밖 마이크로드라마\n신작 삼분의 이 AI 제작",
-          "body": "Owl & Co. 보고서를 보면 시청 시간 최상위 작품은 합성 배우 드라마다.",
-          "mini_headline": "마이크로드라마 대부분 AI 제작",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "ReelShort에서 높은 성과를 낸 AI 마이크로드라마 ‘The Great and Powerful Genie’. Courtesy of ReelShort"
+                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
+                "cap": "cinemaOS / Momentum Studios"
               },
               {
                 "t": "p",
-                "x": "Owl & Co.의 최신 보고서 “What We Watched on Vertical”을 보면 2026년 3분기 상위 20개 플랫폼에 올라온 중국 밖 세로형 드라마 신작 가운데 삼분의 이가 AI로 만들어졌다. 첫 분기 3퍼센트, 두 번째 분기 28퍼센트에서 또 늘었다."
+                "x": "cinemaOS (version 0.2, $9.99 per month) divides work into “rooms” that share one live project; its assistant J.A.R.E.D. runs transcription, translation and looks on the Mac with no credits."
               },
-              {
-                "t": "p",
-                "x": "중국을 닮아 가는 흐름이다. 중국에서는 2026년 초 공개작의 95퍼센트 이상을 AI로 만들었다고 한다. 유료 앱 시청 시간 상위 다섯 편 가운데 실사 작품은 단 하나였고, 맨 위에는 ReelShort가 AI로 생성한(AI-generated) The Great and Powerful Genie가 올랐다."
-              },
-              {
-                "t": "p",
-                "x": "추적한 앱들은 이번 분기 조회 63B 회, 시청 이십억 시간을 기록했다. 전체 조회의 절반 이상은 TikTok의 무료 앱 PineDrama에서 나왔다."
-              },
-              {
-                "t": "p",
-                "x": "다만 보고서는 중국에서 “실사로 회귀하는 움직임”이 보인다고 짚었다. ReelShort에서는 공개 30일 뒤까지 조회수 상위 10퍼센트에 남을 확률이 AI 작품보다 실사 작품 쪽이 높았다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "中国以外の新作マイクロドラマ\n三分の二をAIが制作",
-          "body": "Owl & Co.の報告で、視聴時間トップのマイクロドラマは合成俳優の作品だった。",
-          "mini_headline": "マイクロドラマの大半はAI製",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "ReelShortで好成績を収めたAIマイクロドラマ『The Great and Powerful Genie』。Courtesy of ReelShort"
+                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
+                "cap": "CUTROOM"
               },
               {
                 "t": "p",
-                "x": "Owl & Co.の最新レポート「What We Watched on Vertical」によると、2026年第三四半期に上位20プラットフォームで公開された中国以外の縦型ドラマのうち、三分の二がAI生成だった。第一四半期の3パーセント、第二四半期の28パーセントから増えた。"
+                "x": "CUTROOM, MIT-licensed and in a 1.2 public beta for Windows and Mac, keeps AI optional: local transcription and drafts via downloadable models and Ollama, or the user’s own API key for a cloud provider."
               },
-              {
-                "t": "p",
-                "x": "この変化は中国の動きと重なる。中国では2026年初めに公開された作品の95パーセント超がAIで制作されたと伝えられている。有料アプリでは、視聴時間の上位五作品に入った実写作品は一つだけで、首位はReelShortのAI-generated作品『The Great and Powerful Genie』だった。"
-              },
-              {
-                "t": "p",
-                "x": "追跡対象のアプリはこの四半期に63B 回の視聴と二十億時間の視聴時間を記録し、TikTokの無料アプリPineDramaが全視聴回数の半分以上を占めた。"
-              },
-              {
-                "t": "p",
-                "x": "ただしレポートは、中国で「実写への揺り戻し」が見られると指摘する。ReelShortでは、公開30日後も視聴回数の上位10パーセントにとどまる確率が、AI作品より実写作品の方が高かった。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "中国以外新微短剧\n三分之二由AI生成",
-          "body": "Owl & Co.报告显示，按观看分钟数计，排名居首的微短剧是由合成演员出演的作品。",
-          "mini_headline": "微短剧多数已由AI制作",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "ReelShort 表现最佳的 AI 微短剧之一《The Great and Powerful Genie》。图片由 ReelShort 提供"
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
+                "cap": "invideo"
               },
               {
                 "t": "p",
-                "x": "根据 Owl & Co. 最新发布的“What We Watched on Vertical”报告，2026年第三季度，20个头部平台在中国以外上线的竖屏短剧中，有三分之二由 AI 生成，而第一季度这一比例为百分之三，第二季度为百分之二十八。"
+                "x": "invideo’s Agent Two watches and logs every clip and edits on request, alongside video models such as Veo 3.1, Sora 2 and Kling, on credit plans from $10 per seat per month on annual billing."
               },
               {
                 "t": "p",
-                "x": "这一转变与中国的情况相呼应：据报道，2026年初在中国上线的作品中，超过百分之95是借助 AI 制作的。在付费应用中，按观看分钟数计，仅有一部真人作品跻身前五；排名第一的是 ReelShort 的 AI-generated（AI生成）作品《The Great and Powerful Genie》。"
-              },
-              {
-                "t": "p",
-                "x": "该季度，被追踪的应用共录得630亿次观看和二十亿小时观看时长，其中 TikTok 旗下的免费应用 PineDrama 占全部观看次数的一半以上。"
-              },
-              {
-                "t": "p",
-                "x": "不过，报告也指出，中国正出现“向真人拍摄回调”的迹象；在 ReelShort，真人作品在上线30天后仍保持在观看量前百分之十的概率高于 AI 作品。"
+                "x": "CineD concludes none of the three is a direct replacement for Premiere Pro, Final Cut Pro or DaVinci Resolve in professional work today; the pressure is on subscription pricing and short-form social content."
               }
             ]
           }
         },
         "es": {
-          "headline": "La IA hizo dos tercios de nuevos\nmicrodramas fuera de China",
-          "body": "Un informe de Owl & Co. halló que las historias con actores sintéticos fueron los microdramas más vistos en minutos.",
-          "mini_headline": "La IA hace la mayoría de los microdramas",
+          "headline": "cinemaOS, CUTROOM, invideo:\ntres editores con AI comparados",
+          "body": "CineD compara una app para Mac, un editor gratuito de código abierto y un agente de AI: cinemaOS, CUTROOM e invideo.",
+          "mini_headline": "Tres editores con AI comparados",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "‘The Great and Powerful Genie’, uno de los microdramas de IA con mejor rendimiento de ReelShort. Cortesía de ReelShort"
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
               },
               {
                 "t": "p",
-                "x": "Dos tercios de los dramas verticales estrenados fuera de China en el tercer trimestre de 2026 en 20 de las principales plataformas fueron generados con IA, según el último informe “What We Watched on Vertical” de Owl & Co., frente al 3 por ciento del primer trimestre y el 28 por ciento del segundo."
+                "x": "Cada vez más editores de video se construyen en torno a la AI y a componentes de código abierto, algunos a cargo de equipos pequeños o de un solo desarrollador. cinemaOS es una app de suscripción para Mac con un asistente en el dispositivo, CUTROOM es un editor gratuito de código abierto que se ejecuta en local, e invideo lleva al navegador un agente de edición con AI y decenas de modelos generativos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
+                "cap": "cinemaOS / Momentum Studios"
               },
               {
                 "t": "p",
-                "x": "El cambio refleja lo ocurrido en China, donde, según se informa, más del 95 por ciento de los títulos estrenados a principios de 2026 se hicieron con IA. Entre las aplicaciones de pago, solo un título de imagen real entró en los cinco primeros por minutos vistos; el número uno fue The Great and Powerful Genie, de ReelShort, una obra AI-generated (generada con IA)."
+                "x": "cinemaOS (versión 0.2, $9.99 al mes) divide el trabajo en “salas” que comparten un mismo proyecto en vivo; su asistente J.A.R.E.D. hace transcripción, traducción y looks en el Mac sin créditos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
+                "cap": "CUTROOM"
               },
               {
                 "t": "p",
-                "x": "Las aplicaciones analizadas registraron 63 mil millones de visualizaciones y dos mil millones de horas de visionado en el trimestre, y la aplicación gratuita PineDrama, de TikTok, acaparó más de la mitad de todas las visualizaciones."
+                "x": "CUTROOM, MIT-licensed y en beta pública 1.2 para Windows y Mac, deja la AI como opción: transcripción y borradores locales mediante modelos descargables y Ollama, o la propia clave de API del usuario para un proveedor en la nube."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
+                "cap": "invideo"
               },
               {
                 "t": "p",
-                "x": "Aun así, el informe señala que China muestra “un repliegue hacia la imagen real”, y en ReelShort los títulos de imagen real tuvieron más probabilidades que los de IA de seguir en el 10 por ciento superior por visualizaciones 30 días después del estreno."
+                "x": "Agent Two, de invideo, ve y registra cada clip y edita a petición, junto a modelos de video como Veo 3.1, Sora 2 y Kling, con planes de créditos desde $10 por puesto al mes con facturación anual."
+              },
+              {
+                "t": "p",
+                "x": "CineD concluye que ninguno de los tres sustituye hoy directamente a Premiere Pro, Final Cut Pro o DaVinci Resolve en el trabajo profesional; la presión recae sobre los precios por suscripción y el contenido social de formato corto."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "cinemaOS와\nCUTROOM 등 셋 비교",
+          "body": "CineD가 AI 편집기 cinemaOS·CUTROOM·invideo를 견줬다.",
+          "mini_headline": "AI 편집기 셋 비교",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "AI와 오픈소스 구성 요소로 짠 영상 편집기가 늘고 있다. 소규모 팀이나 개발자 한 명이 만드는 것도 있다. cinemaOS는 기기 안에서 도는 어시스턴트를 갖춘 Mac 구독 앱이고, CUTROOM은 로컬에서 돌아가는 무료 오픈소스 편집기다. invideo는 AI 편집 에이전트와 수십 개의 생성 모델을 브라우저에 담았다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
+                "cap": "cinemaOS / Momentum Studios"
+              },
+              {
+                "t": "p",
+                "x": "cinemaOS(버전 0.2, 월 $9.99)는 작업을 “룸” 단위로 나누고, 룸들은 라이브 프로젝트 하나를 함께 쓴다. 어시스턴트 J.A.R.E.D.가 전사, 번역, 룩 작업을 크레딧 없이 Mac에서 처리한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
+                "cap": "CUTROOM"
+              },
+              {
+                "t": "p",
+                "x": "MIT-licensed로 Windows와 Mac용 1.2 공개 베타를 진행 중인 CUTROOM에서 AI는 선택 사항이다. 내려받은 모델과 Ollama로 로컬에서 전사와 초안을 만들 수도 있고, 사용자 API 키로 클라우드 제공업체를 붙일 수도 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
+                "cap": "invideo"
+              },
+              {
+                "t": "p",
+                "x": "invideo의 Agent Two는 클립을 모두 보고 기록한 다음 요청대로 편집한다. Veo 3.1, Sora 2, Kling 같은 영상 모델도 함께 쓸 수 있다. 크레딧 요금제는 연간 결제 시 좌석당 월 $10부터다."
+              },
+              {
+                "t": "p",
+                "x": "CineD는 세 도구 모두 아직 전문 작업에서 Premiere Pro, Final Cut Pro, DaVinci Resolve를 곧바로 대체하진 못한다고 봤다. 압박을 받는 쪽은 구독 가격과 짧은 소셜 콘텐츠다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "cinemaOSと\nCUTROOMなど三種比較",
+          "body": "CineDがAI編集ソフトcinemaOS・CUTROOM・invideoを比べた。",
+          "mini_headline": "AI編集ソフト三種を比較",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "AIとオープンソースの部品を軸に作られた動画編集ソフトが増えており、小さなチームや開発者一人が手がけるものもある。cinemaOSはオンデバイスのアシスタントを備えたMac向けサブスクリプションアプリ、CUTROOMはローカルで動く無料のオープンソース編集ソフト、invideoはAI編集エージェントと数十の生成モデルをブラウザに載せている。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
+                "cap": "cinemaOS / Momentum Studios"
+              },
+              {
+                "t": "p",
+                "x": "cinemaOS(バージョン0.2、月額$9.99)は、一つのライブプロジェクトを共有する「ルーム」に作業を分ける。アシスタントのJ.A.R.E.D.は文字起こし、翻訳、ルック作成をクレジットなしでMac上で実行する。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
+                "cap": "CUTROOM"
+              },
+              {
+                "t": "p",
+                "x": "MIT-licensedで、WindowsとMac向けに1.2パブリックベータを公開中のCUTROOMは、AIを任意にしている。ダウンロード可能なモデルとOllamaでローカルに文字起こしや下書きを行うか、ユーザー自身のAPIキーでクラウド事業者を使う。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
+                "cap": "invideo"
+              },
+              {
+                "t": "p",
+                "x": "invideoのAgent Twoはすべてのクリップを見て記録し、依頼に応じて編集する。Veo 3.1、Sora 2、Klingなどの動画モデルも使え、クレジット制プランは年払いで1席あたり月$10からだ。"
+              },
+              {
+                "t": "p",
+                "x": "CineDは、三つのいずれも現時点のプロの現場でPremiere Pro、Final Cut Pro、DaVinci Resolveを直接置き換えるものではないと結論づける。圧力がかかるのはサブスクリプション価格とショート形式のソーシャルコンテンツだ。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "cinemaOS与\nCUTROOM等三款对比",
+          "body": "CineD对比了cinemaOS、CUTROOM和invideo三款AI剪辑工具。",
+          "mini_headline": "三款AI剪辑软件对比",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "越来越多的视频剪辑软件围绕AI和开源组件打造，其中一些出自小团队甚至个人开发者。cinemaOS是一款带端侧助手的Mac订阅应用，CUTROOM是可在本地运行的免费开源剪辑软件，invideo则把AI剪辑智能体和数十个生成模型放进了浏览器。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
+                "cap": "cinemaOS / Momentum Studios"
+              },
+              {
+                "t": "p",
+                "x": "cinemaOS（0.2版，每月$9.99）把工作分成共享同一个实时项目的“房间”；其助手J.A.R.E.D.在Mac上完成转录、翻译和调色风格，不消耗点数。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
+                "cap": "CUTROOM"
+              },
+              {
+                "t": "p",
+                "x": "CUTROOM采用MIT-licensed授权，目前在Windows和Mac上进行1.2公开测试，AI为可选项：可通过可下载模型和Ollama在本地转录、生成初稿，也可用用户自己的API密钥调用云服务商。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
+                "cap": "invideo"
+              },
+              {
+                "t": "p",
+                "x": "invideo的Agent Two会观看并记录每个片段，按要求剪辑，同时提供Veo 3.1、Sora 2和Kling等视频模型；点数套餐按年付费，每席位每月$10起。"
+              },
+              {
+                "t": "p",
+                "x": "CineD的结论是，这三款目前都无法在专业工作中直接取代Premiere Pro、Final Cut Pro或DaVinci Resolve；受到冲击的是订阅定价和短视频社交内容。"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "중국 밖 마이크로드라마\n신작 삼분의 이 AI 제작",
-          "body": "Owl & Co. 보고서에서 시청 시간 최상위 작품은 합성 배우 드라마였다.",
-          "mini_headline": "마이크로드라마 대부분 AI 제작",
+        "es": {
+          "headline": "cinemaOS, CUTROOM, invideo:\ntres editores con AI comparados",
+          "body": "CineD compara una app para Mac, un editor gratuito de código abierto y un agente de AI: cinemaOS, CUTROOM e invideo.",
+          "mini_headline": "Tres editores con AI comparados",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "ReelShort에서 높은 성과를 낸 AI 마이크로드라마 ‘The Great and Powerful Genie’. Courtesy of ReelShort"
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
               },
               {
                 "t": "p",
-                "x": "Owl & Co.의 최신 보고서 “What We Watched on Vertical”에 따르면, 2026년 3분기 상위 20개 플랫폼에서 나온 중국 밖 세로형 드라마 신작의 삼분의 이가 AI로 생성됐다. 첫 분기 3퍼센트, 두 번째 분기 28퍼센트에서 늘어난 수치다."
+                "x": "Cada vez más editores de video se construyen en torno a la AI y a componentes de código abierto, algunos a cargo de equipos pequeños o de un solo desarrollador. cinemaOS es una app de suscripción para Mac con un asistente en el dispositivo, CUTROOM es un editor gratuito de código abierto que se ejecuta en local, e invideo lleva al navegador un agente de edición con AI y decenas de modelos generativos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
+                "cap": "cinemaOS / Momentum Studios"
               },
               {
                 "t": "p",
-                "x": "이 흐름은 중국과 닮았다. 중국에서는 2026년 초 공개된 작품의 95퍼센트 이상이 AI로 만들어졌다고 전해진다. 유료 앱에서는 시청 시간 기준 상위 다섯 편에 든 실사 작품이 단 하나였고, 정상에 오른 작품은 ReelShort가 AI로 생성한(AI-generated) The Great and Powerful Genie였다."
+                "x": "cinemaOS (versión 0.2, $9.99 al mes) divide el trabajo en “salas” que comparten un mismo proyecto en vivo; su asistente J.A.R.E.D. hace transcripción, traducción y looks en el Mac sin créditos."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
+                "cap": "CUTROOM"
               },
               {
                 "t": "p",
-                "x": "추적 대상 앱들은 이 분기에 조회 63B 회, 시청 이십억 시간을 기록했고, 전체 조회의 절반 이상이 TikTok의 무료 앱 PineDrama에서 나왔다."
+                "x": "CUTROOM, MIT-licensed y en beta pública 1.2 para Windows y Mac, deja la AI como opción: transcripción y borradores locales mediante modelos descargables y Ollama, o la propia clave de API del usuario para un proveedor en la nube."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
+                "cap": "invideo"
               },
               {
                 "t": "p",
-                "x": "다만 보고서는 중국이 “실사로 회귀하는 움직임”을 보이고 있다고 짚었다. ReelShort에서는 공개 30일 뒤에도 조회수 상위 10퍼센트에 머물 가능성이 AI 작품보다 실사 작품이 더 높았다."
+                "x": "Agent Two, de invideo, ve y registra cada clip y edita a petición, junto a modelos de video como Veo 3.1, Sora 2 y Kling, con planes de créditos desde $10 por puesto al mes con facturación anual."
+              },
+              {
+                "t": "p",
+                "x": "CineD concluye que ninguno de los tres sustituye hoy directamente a Premiere Pro, Final Cut Pro o DaVinci Resolve en el trabajo profesional; la presión recae sobre los precios por suscripción y el contenido social de formato corto."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "cinemaOS와\nCUTROOM 등 셋 비교",
+          "body": "CineD가 AI 편집기 cinemaOS·CUTROOM·invideo를 견줬다.",
+          "mini_headline": "AI 편집기 셋 비교",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+              },
+              {
+                "t": "p",
+                "x": "AI와 오픈소스 구성 요소를 중심으로 만든 영상 편집기가 늘고 있고, 일부는 소규모 팀이나 개발자 한 명이 만든다. cinemaOS는 기기 안에서 도는 어시스턴트를 갖춘 Mac 구독 앱이고, CUTROOM은 로컬에서 실행되는 무료 오픈소스 편집기이며, invideo는 AI 편집 에이전트와 수십 개의 생성 모델을 브라우저에 담았다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
+                "cap": "cinemaOS / Momentum Studios"
+              },
+              {
+                "t": "p",
+                "x": "cinemaOS(버전 0.2, 월 $9.99)는 작업을 하나의 라이브 프로젝트를 공유하는 “룸”으로 나눈다. 어시스턴트 J.A.R.E.D.는 전사, 번역, 룩 작업을 크레딧 없이 Mac에서 처리한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
+                "cap": "CUTROOM"
+              },
+              {
+                "t": "p",
+                "x": "MIT-licensed 방식으로 Windows와 Mac용 1.2 공개 베타 중인 CUTROOM은 AI를 선택 사항으로 둔다. 내려받을 수 있는 모델과 Ollama로 로컬 전사와 초안을 만들거나, 사용자의 API 키로 클라우드 제공업체를 쓸 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
+                "cap": "invideo"
+              },
+              {
+                "t": "p",
+                "x": "invideo의 Agent Two는 모든 클립을 보고 기록한 뒤 요청에 따라 편집하며, Veo 3.1, Sora 2, Kling 같은 영상 모델도 함께 제공한다. 크레딧 요금제는 연간 결제 기준 좌석당 월 $10부터다."
+              },
+              {
+                "t": "p",
+                "x": "CineD는 세 도구 모두 지금의 전문 작업에서 Premiere Pro, Final Cut Pro, DaVinci Resolve를 곧바로 대체하지는 못한다고 결론짓는다. 압박이 가해지는 곳은 구독 가격과 짧은 소셜 콘텐츠다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "中国以外の新作マイクロドラマ\n三分の二をAIが制作",
-          "body": "Owl & Co.の報告で、視聴時間トップのマイクロドラマは合成俳優の作品だった。",
-          "mini_headline": "マイクロドラマの大半はAI製",
+          "headline": "cinemaOSと\nCUTROOMなど三種比較",
+          "body": "CineDがAI編集ソフトcinemaOS・CUTROOM・invideoを比べた。",
+          "mini_headline": "AI編集ソフト三種を比較",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "ReelShortで好成績を収めたAIマイクロドラマ『The Great and Powerful Genie』。Courtesy of ReelShort"
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
               },
               {
                 "t": "p",
-                "x": "Owl & Co.の最新レポート「What We Watched on Vertical」によると、2026年第三四半期に上位20プラットフォームで公開された中国以外の縦型ドラマのうち、三分の二がAI生成だった。第一四半期の3パーセント、第二四半期の28パーセントから増えた。"
+                "x": "AIとオープンソースの部品を軸に作られた動画編集ソフトが増えており、小さなチームや開発者一人が手がけるものもある。cinemaOSはオンデバイスのアシスタントを備えたMac向けサブスクリプションアプリ、CUTROOMはローカルで動く無料のオープンソース編集ソフト、invideoはAI編集エージェントと数十の生成モデルをブラウザに載せている。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
+                "cap": "cinemaOS / Momentum Studios"
               },
               {
                 "t": "p",
-                "x": "この変化は中国の動きと重なる。中国では2026年初めに公開された作品の95パーセント超がAIで制作されたと伝えられている。有料アプリでは、視聴時間の上位五作品に入った実写作品は一つだけで、首位はReelShortのAI-generated作品『The Great and Powerful Genie』だった。"
+                "x": "cinemaOS(バージョン0.2、月額$9.99)は、一つのライブプロジェクトを共有する「ルーム」に作業を分ける。アシスタントのJ.A.R.E.D.は文字起こし、翻訳、ルック作成をクレジットなしでMac上で実行する。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
+                "cap": "CUTROOM"
               },
               {
                 "t": "p",
-                "x": "追跡対象のアプリはこの四半期に63B 回の視聴と二十億時間の視聴時間を記録し、TikTokの無料アプリPineDramaが全視聴回数の半分以上を占めた。"
+                "x": "MIT-licensedで、WindowsとMac向けに1.2パブリックベータを公開中のCUTROOMは、AIを任意にしている。ダウンロード可能なモデルとOllamaでローカルに文字起こしや下書きを行うか、ユーザー自身のAPIキーでクラウド事業者を使う。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
+                "cap": "invideo"
               },
               {
                 "t": "p",
-                "x": "ただしレポートは、中国で「実写への揺り戻し」が見られると指摘する。ReelShortでは、公開30日後も視聴回数の上位10パーセントにとどまる確率が、AI作品より実写作品の方が高かった。"
+                "x": "invideoのAgent Twoはすべてのクリップを見て記録し、依頼に応じて編集する。Veo 3.1、Sora 2、Klingなどの動画モデルも使え、クレジット制プランは年払いで1席あたり月$10からだ。"
+              },
+              {
+                "t": "p",
+                "x": "CineDは、三つのいずれも現時点のプロの現場でPremiere Pro、Final Cut Pro、DaVinci Resolveを直接置き換えるものではないと結論づける。圧力がかかるのはサブスクリプション価格とショート形式のソーシャルコンテンツだ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "中国以外新微短剧\n三分之二由AI生成",
-          "body": "Owl & Co.报告显示，按观看分钟数计，排名居首的微短剧是由合成演员出演的作品。",
-          "mini_headline": "微短剧多数已由AI制作",
+          "headline": "cinemaOS与\nCUTROOM等三款对比",
+          "body": "CineD对比了cinemaOS、CUTROOM和invideo三款AI剪辑工具。",
+          "mini_headline": "三款AI剪辑软件对比",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "ReelShort 表现最佳的 AI 微短剧之一《The Great and Powerful Genie》。图片由 ReelShort 提供"
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
               },
               {
                 "t": "p",
-                "x": "根据 Owl & Co. 最新发布的“What We Watched on Vertical”报告，2026年第三季度，20个头部平台在中国以外上线的竖屏短剧中，有三分之二由 AI 生成，而第一季度这一比例为百分之三，第二季度为百分之二十八。"
+                "x": "越来越多的视频剪辑软件围绕AI和开源组件打造，其中一些出自小团队甚至个人开发者。cinemaOS是一款带端侧助手的Mac订阅应用，CUTROOM是可在本地运行的免费开源剪辑软件，invideo则把AI剪辑智能体和数十个生成模型放进了浏览器。"
               },
-              {
-                "t": "p",
-                "x": "这一转变与中国的情况相呼应：据报道，2026年初在中国上线的作品中，超过百分之95是借助 AI 制作的。在付费应用中，按观看分钟数计，仅有一部真人作品跻身前五；排名第一的是 ReelShort 的 AI-generated（AI生成）作品《The Great and Powerful Genie》。"
-              },
-              {
-                "t": "p",
-                "x": "该季度，被追踪的应用共录得630亿次观看和二十亿小时观看时长，其中 TikTok 旗下的免费应用 PineDrama 占全部观看次数的一半以上。"
-              },
-              {
-                "t": "p",
-                "x": "不过，报告也指出，中国正出现“向真人拍摄回调”的迹象；在 ReelShort，真人作品在上线30天后仍保持在观看量前百分之十的概率高于 AI 作品。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La IA hizo dos tercios de nuevos\nmicrodramas fuera de China",
-          "body": "Un informe de Owl & Co. halló que las historias con actores sintéticos fueron los microdramas más vistos en minutos.",
-          "mini_headline": "La IA hace la mayoría de los microdramas",
-          "full": {
-            "mode": "summary",
-            "blocks": [
               {
                 "t": "img",
-                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/The-Great-and-Powerful-Genie-Main-2026.jpg?w=1296&h=730&crop=1",
-                "cap": "‘The Great and Powerful Genie’, uno de los microdramas de IA con mejor rendimiento de ReelShort. Cortesía de ReelShort"
+                "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
+                "cap": "cinemaOS / Momentum Studios"
               },
               {
                 "t": "p",
-                "x": "Dos tercios de los dramas verticales estrenados fuera de China en el tercer trimestre de 2026 en 20 de las principales plataformas fueron generados con IA, según el último informe “What We Watched on Vertical” de Owl & Co., frente al 3 por ciento del primer trimestre y el 28 por ciento del segundo."
+                "x": "cinemaOS（0.2版，每月$9.99）把工作分成共享同一个实时项目的“房间”；其助手J.A.R.E.D.在Mac上完成转录、翻译和调色风格，不消耗点数。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
+                "cap": "CUTROOM"
               },
               {
                 "t": "p",
-                "x": "El cambio refleja lo ocurrido en China, donde, según se informa, más del 95 por ciento de los títulos estrenados a principios de 2026 se hicieron con IA. Entre las aplicaciones de pago, solo un título de imagen real entró en los cinco primeros por minutos vistos; el número uno fue The Great and Powerful Genie, de ReelShort, una obra AI-generated (generada con IA)."
+                "x": "CUTROOM采用MIT-licensed授权，目前在Windows和Mac上进行1.2公开测试，AI为可选项：可通过可下载模型和Ollama在本地转录、生成初稿，也可用用户自己的API密钥调用云服务商。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
+                "cap": "invideo"
               },
               {
                 "t": "p",
-                "x": "Las aplicaciones analizadas registraron 63 mil millones de visualizaciones y dos mil millones de horas de visionado en el trimestre, y la aplicación gratuita PineDrama, de TikTok, acaparó más de la mitad de todas las visualizaciones."
+                "x": "invideo的Agent Two会观看并记录每个片段，按要求剪辑，同时提供Veo 3.1、Sora 2和Kling等视频模型；点数套餐按年付费，每席位每月$10起。"
               },
               {
                 "t": "p",
-                "x": "Aun así, el informe señala que China muestra “un repliegue hacia la imagen real”, y en ReelShort los títulos de imagen real tuvieron más probabilidades que los de IA de seguir en el 10 por ciento superior por visualizaciones 30 días después del estreno."
+                "x": "CineD的结论是，这三款目前都无法在专业工作中直接取代Premiere Pro、Final Cut Pro或DaVinci Resolve；受到冲击的是订阅定价和短视频社交内容。"
               }
             ]
           }
@@ -1119,15 +1329,15 @@
       }
     },
     {
-      "id": "movies-runway-ceo-ai-actors-view",
+      "id": "movies-felix-film-genai-listing",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Runway co-CEO\nAI가 배우 대체 가능",
-      "body": "Runway co-CEO는 AI가 배우를 “당연히” 대체할 수 있다고 답했다.",
-      "mini_headline": "Runway co-CEO “AI가 배우 대체 가능”",
+      "headline": "Felix Film이 고친\n생성형 AI 구인 공고",
+      "body": "Felix Film이 생성형 AI를 권한 공고를 고치며 도입은 미정이라 했다.",
+      "mini_headline": "Felix Film, AI 구인 공고 수정",
       "tool": "Movies",
-      "source": "Variety",
-      "url": "https://variety.com/2026/tv/global/ai-could-replace-actors-runway-ceo-cristobal-valenzuela-1236916525/",
+      "source": "Anime News Network",
+      "url": "https://www.animenewsnetwork.com/interest/2026-10-18/anime-studio-felix-film-edits-job-listing-that-encouraged-generative-ai/.242957",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1135,197 +1345,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
+            "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
           },
           {
             "t": "p",
-            "x": "Turin의 View Conference 대담 “Every Pixel Will Be Generated(모든 픽셀은 생성될 것이다)”에서 한 청중이 생성형 AI 스타트업 Runway의 co-CEO Cristóbal Valenzuela에게 AI가 결국 인간 배우를 대체할 수 있겠느냐고 물었다."
+            "x": "일본 애니메이션 스튜디오 Felix Film이 토요일 생성형 AI 기술 사용 문제로 신입 애니메이터 채용 공고를 고쳤다. 두 번째 자격 요건은 이제 원화에 Blender 등 3D CG 도구를 쓰고 싶은 지원자를 찾는다고 적고, 회사가 “스튜디오 크리에이터의 작업을 돕는 기술 가운데 하나로 AI 기술을 어떻게 활용할 수 있을지 검토하고 있다”는 문구를 덧붙였다."
           },
           {
             "t": "p",
-            "x": "그는 “네, 당연하죠. 어떤 면에서는 이미 일어나고 있다고 봅니다”라고 답했다. AI를 “새로운 표현 매체”이자 “새로운 스토리텔링 매체”로 부르기도 했다."
+            "x": "토요일 전까지 두 번째 요건에는 Felix Film이 “Blender나 이미지 생성 AI로 일러스트를 만들 수 있는” 지원자를 찾는다고 적혀 있었다. 공고 대상은 내년 봄 졸업 예정자다."
           },
           {
             "t": "p",
-            "x": "함께 무대에 오른 Nvidia의 Richard Kerris는 감독과 배우 사이의 즉흥성만큼은 결코 프롬프트로 만들 수 없다던 어느 감독의 말을 꺼냈다. Valenzuela는 모델도 “아마” 아주 비슷하게 연출할 수 있는 단계에 이를 거라고 받아쳤다."
+            "x": "스튜디오는 토요일 낸 성명에서 “현시점에서 당사는 스튜디오에 이미지 생성 AI를 도입하기로 결정하지 않았지만, 향후 활용 가능성은 검토하고 있다”고 밝혔다. 이 기술을 창작 인력을 대체하는 게 아니라 돕는 데 쓰고 싶다고 두 번이나 강조했다."
           },
           {
             "t": "p",
-            "x": "Valenzuela는 에세이에서 “픽셀을 만드는 일의 가치는 제로를 향하고 있다”고 내다봤다. AI가 제작가치 높은 콘텐츠, 곧 “마지막 남은 비싼 층”의 비용을 무너뜨리는 중이라고도 썼다."
-          },
-          {
-            "t": "p",
-            "x": "Variety가 학습 데이터를 묻자 그는 모델이 “데이터베이스가 아니”며 표현에서 배운다고 답했다. Runway는 시각 예술가들이 보상도 허락도 없이 작품이 쓰였다며 진행 중인 집단소송의 피고 가운데 하나다."
+            "x": "Felix Film은 “앞으로 생성형 AI 기술을 도입한다면 사용하는 서비스와 기법의 요소, 권리 문제, 스튜디오에 미칠 영향을 신중하게 검토하겠다”고 썼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Runway's co-CEO says AI could\nreplace human actors",
-          "body": "At Turin's View Conference, Runway co-CEO Cristóbal Valenzuela said AI could “absolutely” replace human actors.",
-          "mini_headline": "Runway co-CEO: AI could replace actors",
+          "headline": "Felix Film rewrites a job ad\nthat urged generative AI",
+          "body": "Felix Film edited a job ad urging generative AI use, saying it has not decided to adopt AI for images.",
+          "mini_headline": "Felix Film edits AI job ad",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
               },
               {
                 "t": "p",
-                "x": "During a fireside chat titled “Every Pixel Will Be Generated” at Turin's View Conference, an audience member asked Cristóbal Valenzuela, co-CEO of generative AI startup Runway, whether AI could eventually replace human actors."
+                "x": "On Saturday, Japanese animation studio Felix Film edited its animator job listing for new graduates over the use of generative AI technology. The second requirement now asks for applicants who wish to use Blender and other 3D CG tools in key animation, and adds that the company is “studying how AI technology can be used as one of the technologies to support the work of creators in the studio.”"
               },
               {
                 "t": "p",
-                "x": "“Yeah, absolutely. I think it's already happening in a way,” he replied, calling AI “a new medium of expression” and “a new medium of storytelling.”"
+                "x": "Before Saturday, the second requirement stated Felix Film is looking for applicants who “can create illustrations using Blender or image generative AI.” The listing is for applicants graduating from school next spring."
               },
               {
                 "t": "p",
-                "x": "Fellow speaker Richard Kerris of Nvidia recalled a director's argument that the spontaneity between a director and an actor could never be prompted. Valenzuela countered that models will “probably” get to a point where you can direct them in a very similar way."
+                "x": "In a statement posted Saturday, the studio said, “At this point, our company has not decided to implement generative AI for images in the studio, but we are studying its potential future use.” It emphasized twice that it wants to use the technology to support its creative talent, not replace them."
               },
               {
                 "t": "p",
-                "x": "In his essays, Valenzuela predicts that “the value of creating pixels is trending towards zero,” and that AI is collapsing the cost of high-production-value content, “the last expensive layer.”"
-              },
-              {
-                "t": "p",
-                "x": "Asked by Variety about training data, he said models are “not databases” but learn from representation. Runway is among the defendants in a proposed class action by visual artists alleging their work was used without compensation or permission."
+                "x": "“If we implement generative AI technology in the future, we will carefully consider the elements of the services and techniques used, the rights issues, and the effects on the studio,” Felix Film wrote."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Runway co-CEO\nAI가 배우 대체 가능",
-          "body": "Runway co-CEO는 AI가 배우를 “당연히” 대체할 수 있다고 답했다.",
-          "mini_headline": "Runway co-CEO “AI가 배우 대체 가능”",
+          "headline": "Felix Film이 고친\n생성형 AI 구인 공고",
+          "body": "Felix Film이 생성형 AI를 권한 공고를 고치며 도입은 미정이라 했다.",
+          "mini_headline": "Felix Film, AI 구인 공고 수정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
               },
               {
                 "t": "p",
-                "x": "Turin의 View Conference 대담 “Every Pixel Will Be Generated(모든 픽셀은 생성될 것이다)”에서 한 청중이 생성형 AI 스타트업 Runway의 co-CEO Cristóbal Valenzuela에게 AI가 결국 인간 배우를 대체할 수 있겠느냐고 물었다."
+                "x": "일본 애니메이션 스튜디오 Felix Film이 토요일 생성형 AI 기술 사용 문제로 신입 애니메이터 채용 공고를 고쳤다. 두 번째 자격 요건은 이제 원화에 Blender 등 3D CG 도구를 쓰고 싶은 지원자를 찾는다고 적고, 회사가 “스튜디오 크리에이터의 작업을 돕는 기술 가운데 하나로 AI 기술을 어떻게 활용할 수 있을지 검토하고 있다”는 문구를 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "그는 “네, 당연하죠. 어떤 면에서는 이미 일어나고 있다고 봅니다”라고 답했다. AI를 “새로운 표현 매체”이자 “새로운 스토리텔링 매체”로 부르기도 했다."
+                "x": "토요일 전까지 두 번째 요건에는 Felix Film이 “Blender나 이미지 생성 AI로 일러스트를 만들 수 있는” 지원자를 찾는다고 적혀 있었다. 공고 대상은 내년 봄 졸업 예정자다."
               },
               {
                 "t": "p",
-                "x": "함께 무대에 오른 Nvidia의 Richard Kerris는 감독과 배우 사이의 즉흥성만큼은 결코 프롬프트로 만들 수 없다던 어느 감독의 말을 꺼냈다. Valenzuela는 모델도 “아마” 아주 비슷하게 연출할 수 있는 단계에 이를 거라고 받아쳤다."
+                "x": "스튜디오는 토요일 낸 성명에서 “현시점에서 당사는 스튜디오에 이미지 생성 AI를 도입하기로 결정하지 않았지만, 향후 활용 가능성은 검토하고 있다”고 밝혔다. 이 기술을 창작 인력을 대체하는 게 아니라 돕는 데 쓰고 싶다고 두 번이나 강조했다."
               },
               {
                 "t": "p",
-                "x": "Valenzuela는 에세이에서 “픽셀을 만드는 일의 가치는 제로를 향하고 있다”고 내다봤다. AI가 제작가치 높은 콘텐츠, 곧 “마지막 남은 비싼 층”의 비용을 무너뜨리는 중이라고도 썼다."
-              },
-              {
-                "t": "p",
-                "x": "Variety가 학습 데이터를 묻자 그는 모델이 “데이터베이스가 아니”며 표현에서 배운다고 답했다. Runway는 시각 예술가들이 보상도 허락도 없이 작품이 쓰였다며 진행 중인 집단소송의 피고 가운데 하나다."
+                "x": "Felix Film은 “앞으로 생성형 AI 기술을 도입한다면 사용하는 서비스와 기법의 요소, 권리 문제, 스튜디오에 미칠 영향을 신중하게 검토하겠다”고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Runwayのco-CEO\n「AIは俳優を代替可能」",
-          "body": "Runwayのco-CEOが、AIは人間の俳優を「間違いなく」代替し得ると発言した。",
-          "mini_headline": "Runway co-CEO「AIは俳優を代替し得る」",
+          "headline": "Felix Filmが\n生成AIを促す求人を修正",
+          "body": "Felix Filmは生成AIを促す求人を改め、画像生成AIの導入は未定だとした。",
+          "mini_headline": "Felix Film、AI求人を修正",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
               },
               {
                 "t": "p",
-                "x": "TurinのView Conferenceで行われた「Every Pixel Will Be Generated」と題した対談で、観客の一人が生成AIスタートアップRunwayのco-CEO、Cristóbal Valenzuelaに、AIはいずれ人間の俳優に取って代わり得るかと尋ねた。"
+                "x": "日本のアニメーションスタジオFelix Filmは土曜日、生成AI技術の使用をめぐり、新卒アニメーターの求人を修正した。二つ目の応募条件は、原画でBlenderなどの3D CGツールを使いたい応募者を求める内容に変わり、同社が「スタジオのクリエイターの仕事を支える技術の一つとして、AI技術をどう活用できるかを研究している」との一文が加わった。"
               },
               {
                 "t": "p",
-                "x": "「ええ、間違いなく。ある意味ではすでに起きていると思う」と彼は答え、AIを「新しい表現のメディア」であり「新しいストーリーテリングのメディア」だと呼んだ。"
+                "x": "土曜日より前、二つ目の条件には、Felix Filmが「Blenderや画像生成AIを用いてイラストを作成できる」応募者を求めていると書かれていた。この求人は来春に卒業する応募者が対象だ。"
               },
               {
                 "t": "p",
-                "x": "同じく登壇したNvidiaのRichard Kerrisは、監督と俳優の間に生まれる即興性は決してプロンプトでは作れない、というある監督の主張を紹介した。Valenzuelaは、モデルも「おそらく」非常によく似たやり方で演出できる段階に達すると反論した。"
+                "x": "スタジオは土曜日に出した声明で「現時点で当社はスタジオへの画像生成AIの導入を決定していないが、今後の活用の可能性については研究している」と述べた。技術はクリエイティブな人材に取って代わるためではなく、支えるために使いたいと二度強調した。"
               },
               {
                 "t": "p",
-                "x": "Valenzuelaはエッセイの中で「ピクセルを作ることの価値はゼロに向かっている」と予測し、AIが高い制作価値を持つコンテンツ、すなわち「最後の高価な層」のコストを崩していると述べている。"
-              },
-              {
-                "t": "p",
-                "x": "Varietyから学習データについて問われると、彼はモデルは「データベースではない」とし、表現から学ぶのだと答えた。Runwayは、作品を無報酬・無許可で使われたと主張する視覚芸術家らが起こそうとしている集団訴訟で、被告の一社となっている。"
+                "x": "Felix Filmは「将来、生成AI技術を導入する場合は、使用するサービスや技術の要素、権利の問題、スタジオへの影響を慎重に検討する」と記した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Runway co-CEO\n称AI能取代真人演员",
-          "body": "Runway co-CEO Valenzuela在都灵称AI“绝对”能取代人类演员。",
-          "mini_headline": "Runway co-CEO：AI可取代演员",
+          "headline": "Felix Film修改\n力推生成式AI的招聘",
+          "body": "Felix Film修改了鼓励使用生成式AI的招聘启事，称尚未决定在图像上采用AI。",
+          "mini_headline": "Felix Film修改AI招聘启事",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
               },
               {
                 "t": "p",
-                "x": "在Turin的View Conference上，一场题为“Every Pixel Will Be Generated”的炉边对谈中，一名观众问生成式AI初创公司Runway的co-CEO Cristóbal Valenzuela，AI最终能否取代人类演员。"
+                "x": "日本动画工作室Felix Film周六因生成式AI技术的使用问题，修改了面向应届毕业生的动画师招聘启事。第二项要求现在改为寻找希望在原画中使用Blender等3D CG工具的应聘者，并补充说公司正在“研究如何把AI技术作为支持工作室创作者工作的技术之一加以运用”。"
               },
               {
                 "t": "p",
-                "x": "“是的，绝对可以。我认为在某种程度上这已经在发生了。”他回答说，并称AI是“一种新的表达媒介”和“一种新的叙事媒介”。"
+                "x": "周六之前，第二项要求写的是Felix Film在寻找“能使用Blender或图像生成式AI创作插画”的应聘者。这则招聘面向明年春季毕业的应聘者。"
               },
               {
                 "t": "p",
-                "x": "同台嘉宾、Nvidia的Richard Kerris提到一位导演的观点：导演与演员之间的即兴火花永远无法靠提示词生成。Valenzuela反驳说，模型“很可能”会发展到可以用非常相似的方式去指导的程度。"
+                "x": "工作室在周六发布的声明中说：“目前本公司尚未决定在工作室引入图像生成式AI，但正在研究其未来的潜在用途。”声明两次强调，希望用这项技术支持创作人才，而不是取代他们。"
               },
               {
                 "t": "p",
-                "x": "Valenzuela在文章中预测，“创造像素的价值正趋向于零”，AI正在压低高制作水准内容的成本，而这是“最后一个昂贵的层级”。"
-              },
-              {
-                "t": "p",
-                "x": "被Variety问及训练数据时，他表示模型“不是数据库”，而是从表征中学习。Runway是一起拟议集体诉讼的被告之一，提起诉讼的视觉艺术家指控其作品在未获补偿或许可的情况下被使用。"
+                "x": "Felix Film写道：“如果将来引入生成式AI技术，我们会审慎考虑所用服务和技术的各项要素、权利问题以及对工作室的影响。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Para el co-CEO de Runway, la IA\npodría reemplazar a los actores",
-          "body": "Cristóbal Valenzuela, co-CEO de Runway, dijo en Turín que la IA podría “absolutamente” reemplazar a actores humanos.",
-          "mini_headline": "El co-CEO de Runway: la IA podría sustituir a actores",
+          "headline": "Felix Film reescribe un anuncio\nque animaba a usar AI generativa",
+          "body": "Felix Film editó una oferta de empleo que pedía usar AI generativa y dijo que no ha decidido adoptar AI para imágenes.",
+          "mini_headline": "Felix Film edita su oferta con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
               },
               {
                 "t": "p",
-                "x": "Durante una charla titulada “Every Pixel Will Be Generated” en la View Conference de Turín, un asistente preguntó a Cristóbal Valenzuela, co-CEO de la startup de IA generativa Runway, si la IA podría llegar a reemplazar a los actores humanos."
+                "x": "El sábado, el estudio japonés de animación Felix Film editó su oferta de empleo de animadores para recién graduados por el uso de tecnología de AI generativa. El segundo requisito ahora pide aspirantes que deseen usar Blender y otras herramientas de 3D CG en la animación clave, y añade que la empresa está “estudiando cómo la tecnología de AI puede usarse como una de las tecnologías que apoyan el trabajo de los creadores del estudio”."
               },
               {
                 "t": "p",
-                "x": "“Sí, absolutamente. Creo que, de alguna manera, ya está ocurriendo”, respondió, y describió la IA como “un nuevo medio de expresión” y “un nuevo medio para contar historias”."
+                "x": "Antes del sábado, el segundo requisito indicaba que Felix Film buscaba aspirantes que “puedan crear ilustraciones con Blender o AI generativa de imágenes”. La oferta está dirigida a quienes se gradúen la próxima primavera."
               },
               {
                 "t": "p",
-                "x": "Richard Kerris, de Nvidia, que también participaba en la charla, recordó el argumento de un director según el cual la espontaneidad entre un director y un actor nunca podría lograrse con un prompt. Valenzuela replicó que los modelos “probablemente” llegarán a un punto en el que se les pueda dirigir de forma muy similar."
+                "x": "En un comunicado publicado el sábado, el estudio dijo: “Por ahora, nuestra empresa no ha decidido implantar AI generativa de imágenes en el estudio, pero estamos estudiando su posible uso futuro”. Subrayó dos veces que quiere usar la tecnología para apoyar a su talento creativo, no para sustituirlo."
               },
               {
                 "t": "p",
-                "x": "En sus ensayos, Valenzuela predice que “el valor de crear píxeles tiende a cero” y que la IA está desplomando el costo del contenido de alto valor de producción, “la última capa cara”."
-              },
-              {
-                "t": "p",
-                "x": "Consultado por Variety sobre los datos de entrenamiento, dijo que los modelos “no son bases de datos”, sino que aprenden de la representación. Runway figura entre los demandados en una propuesta de demanda colectiva de artistas visuales que alegan que su obra se usó sin compensación ni permiso."
+                "x": "“Si en el futuro implantamos tecnología de AI generativa, consideraremos con cuidado los elementos de los servicios y técnicas utilizados, las cuestiones de derechos y los efectos en el estudio”, escribió Felix Film."
               }
             ]
           }
@@ -1333,137 +1519,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Runway co-CEO\nAI가 배우 대체 가능",
-          "body": "Runway co-CEO는 AI가 배우를 “당연히” 대체할 수 있다고 했다.",
-          "mini_headline": "Runway co-CEO “AI가 배우 대체 가능”",
+          "headline": "Felix Film이 고친\n생성형 AI 구인 공고",
+          "body": "Felix Film이 생성형 AI를 권한 공고를 고치며 도입은 미정이라 했다.",
+          "mini_headline": "Felix Film, AI 구인 공고 수정",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
               },
               {
                 "t": "p",
-                "x": "Turin의 View Conference에서 열린 “Every Pixel Will Be Generated(모든 픽셀은 생성될 것이다)”라는 제목의 대담에서, 한 청중이 생성형 AI 스타트업 Runway의 co-CEO Cristóbal Valenzuela에게 AI가 결국 인간 배우를 대체할 수 있느냐고 물었다."
+                "x": "일본 애니메이션 스튜디오 Felix Film이 토요일, 생성형 AI 기술 사용 문제로 신입 애니메이터 채용 공고를 수정했다. 두 번째 자격 요건은 이제 원화에 Blender 등 3D CG 도구를 쓰고 싶은 지원자를 찾는다고 적고, 회사가 “스튜디오 크리에이터의 작업을 돕는 기술 가운데 하나로 AI 기술을 어떻게 활용할 수 있을지 검토하고 있다”는 문구를 더했다."
               },
               {
                 "t": "p",
-                "x": "그는 “네, 당연하죠. 어떤 면에서는 이미 일어나고 있다고 봅니다”라고 답하며 AI를 “새로운 표현 매체”이자 “새로운 스토리텔링 매체”라고 불렀다."
+                "x": "토요일 전까지 두 번째 요건에는 Felix Film이 “Blender나 이미지 생성 AI로 일러스트를 만들 수 있는” 지원자를 찾는다고 적혀 있었다. 이 공고는 내년 봄 졸업 예정자를 대상으로 한다."
               },
               {
                 "t": "p",
-                "x": "함께 연사로 나선 Nvidia의 Richard Kerris는 감독과 배우 사이의 즉흥성은 결코 프롬프트로 만들어낼 수 없다던 한 감독의 주장을 떠올렸다. Valenzuela는 모델도 “아마” 아주 비슷한 방식으로 연출할 수 있는 수준에 이를 것이라고 반박했다."
+                "x": "스튜디오는 토요일 낸 성명에서 “현시점에서 당사는 스튜디오에 이미지 생성 AI를 도입하기로 결정하지 않았지만, 향후 활용 가능성은 검토하고 있다”고 밝혔다. 이 기술을 창작 인력을 대체하는 데가 아니라 돕는 데 쓰고 싶다는 점을 두 차례 강조했다."
               },
               {
                 "t": "p",
-                "x": "Valenzuela는 자신의 에세이에서 “픽셀을 만드는 일의 가치는 제로를 향하고 있다”고 내다보며, AI가 높은 제작가치를 지닌 콘텐츠, 곧 “마지막 남은 비싼 층”의 비용을 무너뜨리고 있다고 썼다."
-              },
-              {
-                "t": "p",
-                "x": "Variety가 학습 데이터에 대해 묻자 그는 모델은 “데이터베이스가 아니”며 표현으로부터 학습한다고 답했다. Runway는 시각 예술가들이 자신들의 작품이 보상이나 허락 없이 쓰였다며 추진 중인 집단소송의 피고 가운데 하나다."
+                "x": "Felix Film은 “앞으로 생성형 AI 기술을 도입한다면 사용하는 서비스와 기법의 요소, 권리 문제, 스튜디오에 미칠 영향을 신중하게 검토하겠다”고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Runwayのco-CEO\n「AIは俳優を代替可能」",
-          "body": "Runwayのco-CEOが、AIは人間の俳優を「間違いなく」代替し得ると発言した。",
-          "mini_headline": "Runway co-CEO「AIは俳優を代替し得る」",
+          "headline": "Felix Filmが\n生成AIを促す求人を修正",
+          "body": "Felix Filmは生成AIを促す求人を改め、画像生成AIの導入は未定だとした。",
+          "mini_headline": "Felix Film、AI求人を修正",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
               },
               {
                 "t": "p",
-                "x": "TurinのView Conferenceで行われた「Every Pixel Will Be Generated」と題した対談で、観客の一人が生成AIスタートアップRunwayのco-CEO、Cristóbal Valenzuelaに、AIはいずれ人間の俳優に取って代わり得るかと尋ねた。"
+                "x": "日本のアニメーションスタジオFelix Filmは土曜日、生成AI技術の使用をめぐり、新卒アニメーターの求人を修正した。二つ目の応募条件は、原画でBlenderなどの3D CGツールを使いたい応募者を求める内容に変わり、同社が「スタジオのクリエイターの仕事を支える技術の一つとして、AI技術をどう活用できるかを研究している」との一文が加わった。"
               },
               {
                 "t": "p",
-                "x": "「ええ、間違いなく。ある意味ではすでに起きていると思う」と彼は答え、AIを「新しい表現のメディア」であり「新しいストーリーテリングのメディア」だと呼んだ。"
+                "x": "土曜日より前、二つ目の条件には、Felix Filmが「Blenderや画像生成AIを用いてイラストを作成できる」応募者を求めていると書かれていた。この求人は来春に卒業する応募者が対象だ。"
               },
               {
                 "t": "p",
-                "x": "同じく登壇したNvidiaのRichard Kerrisは、監督と俳優の間に生まれる即興性は決してプロンプトでは作れない、というある監督の主張を紹介した。Valenzuelaは、モデルも「おそらく」非常によく似たやり方で演出できる段階に達すると反論した。"
+                "x": "スタジオは土曜日に出した声明で「現時点で当社はスタジオへの画像生成AIの導入を決定していないが、今後の活用の可能性については研究している」と述べた。技術はクリエイティブな人材に取って代わるためではなく、支えるために使いたいと二度強調した。"
               },
               {
                 "t": "p",
-                "x": "Valenzuelaはエッセイの中で「ピクセルを作ることの価値はゼロに向かっている」と予測し、AIが高い制作価値を持つコンテンツ、すなわち「最後の高価な層」のコストを崩していると述べている。"
-              },
-              {
-                "t": "p",
-                "x": "Varietyから学習データについて問われると、彼はモデルは「データベースではない」とし、表現から学ぶのだと答えた。Runwayは、作品を無報酬・無許可で使われたと主張する視覚芸術家らが起こそうとしている集団訴訟で、被告の一社となっている。"
+                "x": "Felix Filmは「将来、生成AI技術を導入する場合は、使用するサービスや技術の要素、権利の問題、スタジオへの影響を慎重に検討する」と記した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Runway co-CEO\n称AI能取代真人演员",
-          "body": "Runway co-CEO Valenzuela在都灵称AI“绝对”能取代人类演员。",
-          "mini_headline": "Runway co-CEO：AI可取代演员",
+          "headline": "Felix Film修改\n力推生成式AI的招聘",
+          "body": "Felix Film修改了鼓励使用生成式AI的招聘启事，称尚未决定在图像上采用AI。",
+          "mini_headline": "Felix Film修改AI招聘启事",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
               },
               {
                 "t": "p",
-                "x": "在Turin的View Conference上，一场题为“Every Pixel Will Be Generated”的炉边对谈中，一名观众问生成式AI初创公司Runway的co-CEO Cristóbal Valenzuela，AI最终能否取代人类演员。"
+                "x": "日本动画工作室Felix Film周六因生成式AI技术的使用问题，修改了面向应届毕业生的动画师招聘启事。第二项要求现在改为寻找希望在原画中使用Blender等3D CG工具的应聘者，并补充说公司正在“研究如何把AI技术作为支持工作室创作者工作的技术之一加以运用”。"
               },
               {
                 "t": "p",
-                "x": "“是的，绝对可以。我认为在某种程度上这已经在发生了。”他回答说，并称AI是“一种新的表达媒介”和“一种新的叙事媒介”。"
+                "x": "周六之前，第二项要求写的是Felix Film在寻找“能使用Blender或图像生成式AI创作插画”的应聘者。这则招聘面向明年春季毕业的应聘者。"
               },
               {
                 "t": "p",
-                "x": "同台嘉宾、Nvidia的Richard Kerris提到一位导演的观点：导演与演员之间的即兴火花永远无法靠提示词生成。Valenzuela反驳说，模型“很可能”会发展到可以用非常相似的方式去指导的程度。"
+                "x": "工作室在周六发布的声明中说：“目前本公司尚未决定在工作室引入图像生成式AI，但正在研究其未来的潜在用途。”声明两次强调，希望用这项技术支持创作人才，而不是取代他们。"
               },
               {
                 "t": "p",
-                "x": "Valenzuela在文章中预测，“创造像素的价值正趋向于零”，AI正在压低高制作水准内容的成本，而这是“最后一个昂贵的层级”。"
-              },
-              {
-                "t": "p",
-                "x": "被Variety问及训练数据时，他表示模型“不是数据库”，而是从表征中学习。Runway是一起拟议集体诉讼的被告之一，提起诉讼的视觉艺术家指控其作品在未获补偿或许可的情况下被使用。"
+                "x": "Felix Film写道：“如果将来引入生成式AI技术，我们会审慎考虑所用服务和技术的各项要素、权利问题以及对工作室的影响。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Para el co-CEO de Runway, la IA\npodría reemplazar a los actores",
-          "body": "Cristóbal Valenzuela, co-CEO de Runway, dijo en Turín que la IA podría “absolutamente” reemplazar a actores humanos.",
-          "mini_headline": "El co-CEO de Runway: la IA podría sustituir a actores",
+          "headline": "Felix Film reescribe un anuncio\nque animaba a usar AI generativa",
+          "body": "Felix Film editó una oferta de empleo que pedía usar AI generativa y dijo que no ha decidido adoptar AI para imágenes.",
+          "mini_headline": "Felix Film edita su oferta con AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://variety.com/wp-content/uploads/2026/10/Cristobal_Valenzuela.jpg?w=1000&h=563&crop=1"
+                "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
               },
               {
                 "t": "p",
-                "x": "Durante una charla titulada “Every Pixel Will Be Generated” en la View Conference de Turín, un asistente preguntó a Cristóbal Valenzuela, co-CEO de la startup de IA generativa Runway, si la IA podría llegar a reemplazar a los actores humanos."
+                "x": "El sábado, el estudio japonés de animación Felix Film editó su oferta de empleo de animadores para recién graduados por el uso de tecnología de AI generativa. El segundo requisito ahora pide aspirantes que deseen usar Blender y otras herramientas de 3D CG en la animación clave, y añade que la empresa está “estudiando cómo la tecnología de AI puede usarse como una de las tecnologías que apoyan el trabajo de los creadores del estudio”."
               },
               {
                 "t": "p",
-                "x": "“Sí, absolutamente. Creo que, de alguna manera, ya está ocurriendo”, respondió, y describió la IA como “un nuevo medio de expresión” y “un nuevo medio para contar historias”."
+                "x": "Antes del sábado, el segundo requisito indicaba que Felix Film buscaba aspirantes que “puedan crear ilustraciones con Blender o AI generativa de imágenes”. La oferta está dirigida a quienes se gradúen la próxima primavera."
               },
               {
                 "t": "p",
-                "x": "Richard Kerris, de Nvidia, que también participaba en la charla, recordó el argumento de un director según el cual la espontaneidad entre un director y un actor nunca podría lograrse con un prompt. Valenzuela replicó que los modelos “probablemente” llegarán a un punto en el que se les pueda dirigir de forma muy similar."
+                "x": "En un comunicado publicado el sábado, el estudio dijo: “Por ahora, nuestra empresa no ha decidido implantar AI generativa de imágenes en el estudio, pero estamos estudiando su posible uso futuro”. Subrayó dos veces que quiere usar la tecnología para apoyar a su talento creativo, no para sustituirlo."
               },
               {
                 "t": "p",
-                "x": "En sus ensayos, Valenzuela predice que “el valor de crear píxeles tiende a cero” y que la IA está desplomando el costo del contenido de alto valor de producción, “la última capa cara”."
-              },
-              {
-                "t": "p",
-                "x": "Consultado por Variety sobre los datos de entrenamiento, dijo que los modelos “no son bases de datos”, sino que aprenden de la representación. Runway figura entre los demandados en una propuesta de demanda colectiva de artistas visuales que alegan que su obra se usó sin compensación ni permiso."
+                "x": "“Si en el futuro implantamos tecnología de AI generativa, consideraremos con cuidado los elementos de los servicios y técnicas utilizados, las cuestiones de derechos y los efectos en el estudio”, escribió Felix Film."
               }
             ]
           }
@@ -1471,15 +1641,15 @@
       }
     },
     {
-      "id": "movies-japan-actors-union-ai-rules",
+      "id": "movies-waititi-ai-prompts",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "일본 배우노조,\n음성 작업 AI 규칙 초안",
-      "body": "Japan Actors Union이 음성 작업용 생성형 AI 지침을 내놨다.",
-      "mini_headline": "일본 배우노조 AI 규칙 초안",
+      "headline": "Taika Waititi\n프롬프트 영화는 지루하다",
+      "body": "Taika Waititi는 AI는 불가피해도 프롬프트 영화는 지루하다고 했다.",
+      "mini_headline": "Waititi, 프롬프트 영화를 말하다",
       "tool": "Movies",
-      "source": "Anime News Network",
-      "url": "https://www.animenewsnetwork.com/interest/2026-10-16/japan-actors-union-develops-guidelines-for-generative-ai-use/.242861",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/taika-waititi-ai-in-hollywood-klara-and-the-sun-1236736327/",
       "accent": "#eb367f",
       "motif": "frame",
       "full": {
@@ -1487,155 +1657,203 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
-            "cap": "© Japan Actors Union"
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
           },
           {
             "t": "p",
-            "x": "Japan Actors Union(JAU)은 목요일 기자회견에서 생성형 AI 이용 지침 첫 판을 발표했다. 21쪽짜리 “Guidelines for the Use of Generative AI on Vocal Audio Work(음성 작업에서의 생성형 AI 이용 지침)”는 여섯 개 장, 22개 조항으로 구성되며 음성을 배우와 성우의 모든 오디오 녹음으로 정의한다."
+            "x": "Taika Waititi가 Kazuo Ishiguro 소설을 각색한 Klara and the Sun에는 Jenna Ortega와 Amy Adams가 출연한다. 영화는 AI가 본격적으로 등장하기 몇 해 전부터 개발됐다. 월요일 New York 특별 상영회에서 제작진은 The Hollywood Reporter에 새로운 기술 속에서 우리 자신의 인간성을 껴안는 시의적절한 이야기라고 말했다."
           },
           {
             "t": "p",
-            "x": "Dragon Ball 성우 Masako Nozawa(Son Goku 역)는 “우리 목소리가 동의 없이 쓰이고 있습니다. 조금 실망스럽습니다”라고 했다. Bin Shimada(Broly 역)는 Ado의 “Usseewa”를 자기 Broly 목소리로 부른 AI 버전을 듣고 화가 났다고 털어놨다."
+            "x": "Ortega는 태양광으로 움직이는 “Artificial Friend”(인공 친구) Klara를 연기한다. 그는 “인공지능은 사랑을 느끼지 못한다. 사랑에 대해 아무것도 모른다”고 말했다."
+          },
+          {
+            "t": "img",
+            "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
+            "cap": "특별 상영회에 참석한 Jenna Ortega, Taika Waititi, Amy Adams."
           },
           {
             "t": "p",
-            "x": "일본 성우들은 몇 년째 무단 음성 사용과 싸워 왔다. Yūki Kaji는 자기 음성 합성 프로그램을 직접 만들었고 2024년에는 No More Mudan Seisei AI 단체가 꾸려졌다. Kenjirō Tsuda의 TikTok 사건에서는 법무성 위원회와 도쿄지방법원 모두 목소리를 퍼블리시티권으로 보호한다고 인정했다."
+            "x": "Waititi는 “방에 혼자 앉아 프롬프트를 입력해 영화를 만들려고 영화 일을 시작한 게 아니다. 그건 내게 너무 지루하고 시시해 보인다. 나는 사람들과 어울리고 싶다”고 말했다."
+          },
+          {
+            "t": "p",
+            "x": "“우리 업계가 결국 그것을 쓰게 되는 건 아마 피할 수 없을 것이다. 다만 사람이 대체재가 아닌 도구로 쓰는 한에서다. 나는 사람을 대체하고 싶지 않다. 그들과 함께 일하고 싶다.” Klara and the Sun은 금요일 극장에서 개봉한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Japan's actors union drafts\nAI rules for voice work",
-          "body": "Japan Actors Union unveiled generative AI guidelines for voice work as Dragon Ball actors spoke out on AI misuse.",
-          "mini_headline": "Japan actors draft AI rules",
+          "headline": "Taika Waititi: prompting a\nmovie is boring and lame",
+          "body": "Taika Waititi says AI in Hollywood is probably inevitable, but typing prompts to make a movie is boring and lame.",
+          "mini_headline": "Waititi on prompt filmmaking",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
-                "cap": "© Japan Actors Union"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "The Japan Actors Union (JAU) presented the first version of its guidelines for the use of generative AI during a press conference on Thursday. The 21-page “Guidelines for the Use of Generative AI on Vocal Audio Work” has six sections and 22 articles, and defines vocal audio as all audio recordings of actors and voice actors."
+                "x": "Taika Waititi’s adaptation of Kazuo Ishiguro’s novel Klara and the Sun, starring Jenna Ortega and Amy Adams, was developed years before AI arrived in full force. At the film’s New York special screening on Monday, the team told The Hollywood Reporter it’s a timely story about embracing our own humanity amid new technology."
               },
               {
                 "t": "p",
-                "x": "Dragon Ball voice actor Masako Nozawa (Son Goku) said, “Our voices are being used without our consent. It’s a bit disappointing.” Bin Shimada (Broly) said he grew angry after hearing an AI version of Ado’s “Usseewa” sung in his Broly voice."
+                "x": "Ortega plays Klara, a solar-powered “Artificial Friend.” “Artificial intelligence doesn’t feel love; it doesn’t know anything about it,” she said."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
+                "cap": "Jenna Ortega, Taika Waititi and Amy Adams at the special screening."
               },
               {
                 "t": "p",
-                "x": "Japanese voice actors have fought unauthorized voice use for years: Yūki Kaji built his own voice synthesis program, and the No More Mudan Seisei AI group formed in 2024. In Kenjirō Tsuda’s TikTok case, a Ministry of Justice panel and the Tokyo District Court affirmed voices are protected under the right of publicity."
+                "x": "Waititi said he “didn’t get into making film to sit by myself in a room and type in prompts to make a movie. That just seems so boring and lame to me. I want to interact with people.”"
+              },
+              {
+                "t": "p",
+                "x": "“I know it’s probably inevitable that we end up using it in our industry, but as long as it’s used by humans as a tool, as opposed to a replacement — I don’t want to replace humans. I want to work with them.” Klara and the Sun hits theaters on Friday."
               }
             ]
           }
         },
         "ko": {
-          "headline": "일본 배우노조,\n음성 작업 AI 규칙 초안",
-          "body": "Japan Actors Union이 음성 작업용 생성형 AI 지침을 내놨다.",
-          "mini_headline": "일본 배우노조 AI 규칙 초안",
+          "headline": "Taika Waititi\n프롬프트 영화는 지루하다",
+          "body": "Taika Waititi는 AI는 불가피해도 프롬프트 영화는 지루하다고 했다.",
+          "mini_headline": "Waititi, 프롬프트 영화를 말하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
-                "cap": "© Japan Actors Union"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "Japan Actors Union(JAU)은 목요일 기자회견에서 생성형 AI 이용 지침 첫 판을 발표했다. 21쪽짜리 “Guidelines for the Use of Generative AI on Vocal Audio Work(음성 작업에서의 생성형 AI 이용 지침)”는 여섯 개 장, 22개 조항으로 구성되며 음성을 배우와 성우의 모든 오디오 녹음으로 정의한다."
+                "x": "Taika Waititi가 Kazuo Ishiguro 소설을 각색한 Klara and the Sun에는 Jenna Ortega와 Amy Adams가 출연한다. 영화는 AI가 본격적으로 등장하기 몇 해 전부터 개발됐다. 월요일 New York 특별 상영회에서 제작진은 The Hollywood Reporter에 새로운 기술 속에서 우리 자신의 인간성을 껴안는 시의적절한 이야기라고 말했다."
               },
               {
                 "t": "p",
-                "x": "Dragon Ball 성우 Masako Nozawa(Son Goku 역)는 “우리 목소리가 동의 없이 쓰이고 있습니다. 조금 실망스럽습니다”라고 했다. Bin Shimada(Broly 역)는 Ado의 “Usseewa”를 자기 Broly 목소리로 부른 AI 버전을 듣고 화가 났다고 털어놨다."
+                "x": "Ortega는 태양광으로 움직이는 “Artificial Friend”(인공 친구) Klara를 연기한다. 그는 “인공지능은 사랑을 느끼지 못한다. 사랑에 대해 아무것도 모른다”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
+                "cap": "특별 상영회에 참석한 Jenna Ortega, Taika Waititi, Amy Adams."
               },
               {
                 "t": "p",
-                "x": "일본 성우들은 몇 년째 무단 음성 사용과 싸워 왔다. Yūki Kaji는 자기 음성 합성 프로그램을 직접 만들었고 2024년에는 No More Mudan Seisei AI 단체가 꾸려졌다. Kenjirō Tsuda의 TikTok 사건에서는 법무성 위원회와 도쿄지방법원 모두 목소리를 퍼블리시티권으로 보호한다고 인정했다."
+                "x": "Waititi는 “방에 혼자 앉아 프롬프트를 입력해 영화를 만들려고 영화 일을 시작한 게 아니다. 그건 내게 너무 지루하고 시시해 보인다. 나는 사람들과 어울리고 싶다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "“우리 업계가 결국 그것을 쓰게 되는 건 아마 피할 수 없을 것이다. 다만 사람이 대체재가 아닌 도구로 쓰는 한에서다. 나는 사람을 대체하고 싶지 않다. 그들과 함께 일하고 싶다.” Klara and the Sun은 금요일 극장에서 개봉한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "日本俳優連合が\n声の仕事のAI指針案",
-          "body": "日本俳優連合が音声の生成AI指針を発表、Dragon Ball声優はAI悪用を批判した。",
-          "mini_headline": "日本俳優連合がAI規則案",
+          "headline": "Taika Waititi\nプロンプト映画は退屈",
+          "body": "Taika WaititiはAIは不可避だが、プロンプト映画作りは退屈だと語った。",
+          "mini_headline": "Waititi、プロンプト映画を語る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
-                "cap": "© Japan Actors Union"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "日本俳優連合（Japan Actors Union、JAU）は木曜日の記者会見で、生成AIの利用に関するガイドラインの第一版を発表した。全21ページの「Guidelines for the Use of Generative AI on Vocal Audio Work」は六つの章と22の条項からなり、音声を俳優と声優によるすべての録音と定義している。"
+                "x": "Jenna OrtegaとAmy Adamsが出演する、Taika WaititiによるKazuo Ishiguroの小説の映画化『Klara and the Sun』は、AIが本格的に到来する何年も前に企画された。月曜日のNew Yorkでの特別上映会で、制作陣はThe Hollywood Reporterに、新しい技術の中で自らの人間性を受け入れることを描いた時宜を得た物語だと語った。"
               },
               {
                 "t": "p",
-                "x": "Dragon Ballで孫悟空（Son Goku）を演じる声優の野沢雅子（Masako Nozawa）は「私たちの声が同意なしに使われている。少し残念です」と語った。ブロリー（Broly）役の島田敏（Bin Shimada）は、Adoの「うっせぇわ」（Usseewa）を自分のブロリーの声で歌わせたAI版を聴いて怒りを覚えたという。"
+                "x": "Ortegaは太陽光で動く「Artificial Friend」(人工の友だち)、Klaraを演じる。「人工知能は愛を感じない。愛について何も知らない」と彼女は語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
+                "cap": "特別上映会に出席したJenna Ortega、Taika Waititi、Amy Adams。"
               },
               {
                 "t": "p",
-                "x": "日本の声優たちは長年、無断での声の使用と闘ってきた。梶裕貴（Yūki Kaji）は自らの音声合成プログラムを作り、2024年には団体「No More Mudan Seisei AI」が結成された。津田健次郎（Kenjirō Tsuda）のTikTok事案では、法務省の検討会と東京地方裁判所が、声はパブリシティ権で保護されると認めた。"
+                "x": "Waititiは「部屋に一人で座ってプロンプトを打ち込んで映画を作るために、この仕事を始めたわけじゃない。それは本当に退屈でつまらなく思える。僕は人と関わりたいんだ」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "「業界でいずれそれを使うことになるのはおそらく避けられないだろう。ただし、人間が代わりとしてではなく道具として使う限りにおいてだ。僕は人間を置き換えたくない。一緒に働きたいんだ」。『Klara and the Sun』は金曜日に劇場公開される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "日本演员工会拟定\n配音工作AI规则",
-          "body": "日本演员工会发布配音生成式AI指南，Dragon Ball声优批评AI滥用。",
-          "mini_headline": "日本演员工会拟定AI规则",
+          "headline": "Taika Waititi：\n靠提示词拍片太无聊",
+          "body": "Taika Waititi称AI进入Hollywood或难避免，但靠提示词拍电影无聊又逊。",
+          "mini_headline": "Waititi谈提示词拍电影",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
-                "cap": "© Japan Actors Union"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "日本演员工会（Japan Actors Union，JAU）周四在记者会上公布了生成式AI使用指南的第一版。这份21页的《Guidelines for the Use of Generative AI on Vocal Audio Work》共六章、22条，将声音音频定义为演员和配音演员的所有录音。"
+                "x": "Taika Waititi改编自Kazuo Ishiguro小说的《Klara and the Sun》由Jenna Ortega和Amy Adams主演，早在AI全面到来的数年前就已开始开发。在周一于New York举行的特别放映会上，主创团队对The Hollywood Reporter表示，这是一个关于在新技术中拥抱自身人性的应时故事。"
               },
               {
                 "t": "p",
-                "x": "Dragon Ball中为Son Goku配音的Masako Nozawa说：“我们的声音在未经同意的情况下被使用，这有点令人失望。”为Broly配音的Bin Shimada表示，他听到用自己Broly的声音演唱Ado《Usseewa》的AI版本后感到愤怒。"
+                "x": "Ortega饰演靠太阳能驱动的“Artificial Friend”（人工朋友）Klara。她说：“人工智能感受不到爱，它对爱一无所知。”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
+                "cap": "Jenna Ortega、Taika Waititi和Amy Adams出席特别放映会。"
               },
               {
                 "t": "p",
-                "x": "日本配音演员多年来一直在对抗未经授权使用声音的行为：Yūki Kaji开发了自己的语音合成程序，No More Mudan Seisei AI团体于2024年成立。在Kenjirō Tsuda的TikTok案中，日本法务省的一个小组和东京地方法院确认，声音受公开权保护。"
+                "x": "Waititi说，他“入行拍电影，不是为了一个人坐在房间里输入提示词来做一部电影。那在我看来既无聊又逊。我想和人打交道。”"
+              },
+              {
+                "t": "p",
+                "x": "“我知道我们这个行业最终用上它大概是不可避免的，但前提是人类把它当作工具，而不是替代品——我不想取代人类，我想和他们一起工作。”《Klara and the Sun》将于周五在影院上映。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sindicato de actores japonés\nredacta normas de IA para voz",
-          "body": "La Japan Actors Union presentó pautas de IA generativa para la voz y actores de Dragon Ball criticaron su mal uso.",
-          "mini_headline": "Actores japoneses redactan normas de IA",
+          "headline": "Taika Waititi: hacer cine con\nprompts es aburrido y soso",
+          "body": "Taika Waititi dice que la AI en Hollywood es probablemente inevitable, pero hacer cine con prompts es aburrido y soso.",
+          "mini_headline": "Waititi sobre el cine con prompts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
-                "cap": "© Japan Actors Union"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "La Japan Actors Union (JAU) presentó el jueves, en una rueda de prensa, la primera versión de sus pautas para el uso de IA generativa. Las “Guidelines for the Use of Generative AI on Vocal Audio Work”, de 21 páginas, constan de seis secciones y 22 artículos, y definen el audio vocal como todas las grabaciones de audio de actores y actores de voz."
+                "x": "La adaptación de Taika Waititi de la novela de Kazuo Ishiguro Klara and the Sun, protagonizada por Jenna Ortega y Amy Adams, se desarrolló años antes de que la AI llegara con toda su fuerza. En el pase especial de la película en New York el lunes, el equipo dijo a The Hollywood Reporter que es una historia oportuna sobre abrazar nuestra propia humanidad en medio de la nueva tecnología."
               },
               {
                 "t": "p",
-                "x": "La actriz de voz de Dragon Ball Masako Nozawa (Son Goku) dijo: “Están usando nuestras voces sin nuestro consentimiento. Es un poco decepcionante”. Bin Shimada (Broly) contó que se enfadó al escuchar una versión hecha con IA de “Usseewa”, de Ado, cantada con su voz de Broly."
+                "x": "Ortega interpreta a Klara, una “Artificial Friend” (amiga artificial) alimentada por energía solar. “La inteligencia artificial no siente amor; no sabe nada de él”, dijo."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
+                "cap": "Jenna Ortega, Taika Waititi y Amy Adams en el pase especial."
               },
               {
                 "t": "p",
-                "x": "Los actores de voz japoneses llevan años luchando contra el uso no autorizado de sus voces: Yūki Kaji creó su propio programa de síntesis de voz y en 2024 se formó el grupo No More Mudan Seisei AI. En el caso de TikTok de Kenjirō Tsuda, un panel del Ministerio de Justicia y el Tribunal de Distrito de Tokio confirmaron que las voces están protegidas por el derecho de publicidad."
+                "x": "Waititi dijo que “no me metí a hacer cine para sentarme solo en una habitación y escribir prompts para hacer una película. Eso me parece muy aburrido y soso. Quiero relacionarme con la gente”."
+              },
+              {
+                "t": "p",
+                "x": "“Sé que probablemente es inevitable que acabemos usándola en nuestra industria, pero siempre que los humanos la usen como herramienta y no como sustituto; no quiero reemplazar a los humanos. Quiero trabajar con ellos”. Klara and the Sun llega a los cines el viernes."
               }
             ]
           }
@@ -1643,109 +1861,141 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "일본 배우노조,\n음성 작업 AI 규칙 초안",
-          "body": "Japan Actors Union이 음성용 생성형 AI 지침을 공개했다.",
-          "mini_headline": "일본 배우노조 AI 규칙 초안",
+          "headline": "Taika Waititi\n프롬프트 영화는 지루하다",
+          "body": "Taika Waititi는 AI는 불가피해도 프롬프트 영화는 지루하다고 했다.",
+          "mini_headline": "Waititi, 프롬프트 영화를 말하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
-                "cap": "© Japan Actors Union"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "Japan Actors Union(JAU)은 목요일 기자회견에서 생성형 AI 이용 지침의 첫 번째 판을 발표했다. 21쪽 분량의 “Guidelines for the Use of Generative AI on Vocal Audio Work(음성 작업에서의 생성형 AI 이용 지침)”는 여섯 개 장과 22개 조항으로 이뤄졌으며, 음성을 배우와 성우의 모든 오디오 녹음으로 정의한다."
+                "x": "Jenna Ortega와 Amy Adams가 출연한 Taika Waititi의 Kazuo Ishiguro 소설 각색작 Klara and the Sun은 AI가 본격적으로 등장하기 몇 해 전부터 개발됐다. 월요일 New York 특별 상영회에서 제작진은 The Hollywood Reporter에 이 영화가 새로운 기술 속에서 우리 자신의 인간성을 껴안는 시의적절한 이야기라고 말했다."
               },
               {
                 "t": "p",
-                "x": "Dragon Ball 성우 Masako Nozawa(Son Goku 역)는 “우리 목소리가 동의 없이 쓰이고 있습니다. 조금 실망스럽습니다”라고 말했다. Bin Shimada(Broly 역)는 Ado의 “Usseewa”를 자신의 Broly 목소리로 부른 AI 버전을 듣고 화가 났다고 했다."
+                "x": "Ortega는 태양광으로 움직이는 “Artificial Friend”(인공 친구) Klara를 연기한다. 그는 “인공지능은 사랑을 느끼지 못한다. 사랑에 대해 아무것도 모른다”고 말했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
+                "cap": "특별 상영회에 참석한 Jenna Ortega, Taika Waititi, Amy Adams."
               },
               {
                 "t": "p",
-                "x": "일본 성우들은 수년간 무단 음성 사용에 맞서 왔다. Yūki Kaji는 자체 음성 합성 프로그램을 만들었고, 2024년에는 No More Mudan Seisei AI 단체가 결성됐다. Kenjirō Tsuda의 TikTok 사건에서는 법무성 위원회와 도쿄지방법원이 목소리가 퍼블리시티권으로 보호된다고 인정했다."
+                "x": "Waititi는 “방에 혼자 앉아 프롬프트를 입력해 영화를 만들려고 영화 일을 시작한 게 아니다. 그건 내게 너무 지루하고 시시해 보인다. 나는 사람들과 어울리고 싶다”고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "“우리 업계가 결국 그것을 쓰게 되는 건 아마 피할 수 없을 것이다. 다만 사람이 대체재가 아닌 도구로 쓰는 한에서다. 나는 사람을 대체하고 싶지 않다. 그들과 함께 일하고 싶다.” Klara and the Sun은 금요일 극장에서 개봉한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "日本俳優連合が\n声の仕事のAI指針案",
-          "body": "日本俳優連合が音声の生成AI指針を発表、Dragon Ball声優はAI悪用を批判した。",
-          "mini_headline": "日本俳優連合がAI規則案",
+          "headline": "Taika Waititi\nプロンプト映画は退屈",
+          "body": "Taika WaititiはAIは不可避だが、プロンプト映画作りは退屈だと語った。",
+          "mini_headline": "Waititi、プロンプト映画を語る",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
-                "cap": "© Japan Actors Union"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "日本俳優連合（Japan Actors Union、JAU）は木曜日の記者会見で、生成AIの利用に関するガイドラインの第一版を発表した。全21ページの「Guidelines for the Use of Generative AI on Vocal Audio Work」は六つの章と22の条項からなり、音声を俳優と声優によるすべての録音と定義している。"
+                "x": "Jenna OrtegaとAmy Adamsが出演する、Taika WaititiによるKazuo Ishiguroの小説の映画化『Klara and the Sun』は、AIが本格的に到来する何年も前に企画された。月曜日のNew Yorkでの特別上映会で、制作陣はThe Hollywood Reporterに、新しい技術の中で自らの人間性を受け入れることを描いた時宜を得た物語だと語った。"
               },
               {
                 "t": "p",
-                "x": "Dragon Ballで孫悟空（Son Goku）を演じる声優の野沢雅子（Masako Nozawa）は「私たちの声が同意なしに使われている。少し残念です」と語った。ブロリー（Broly）役の島田敏（Bin Shimada）は、Adoの「うっせぇわ」（Usseewa）を自分のブロリーの声で歌わせたAI版を聴いて怒りを覚えたという。"
+                "x": "Ortegaは太陽光で動く「Artificial Friend」(人工の友だち)、Klaraを演じる。「人工知能は愛を感じない。愛について何も知らない」と彼女は語った。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
+                "cap": "特別上映会に出席したJenna Ortega、Taika Waititi、Amy Adams。"
               },
               {
                 "t": "p",
-                "x": "日本の声優たちは長年、無断での声の使用と闘ってきた。梶裕貴（Yūki Kaji）は自らの音声合成プログラムを作り、2024年には団体「No More Mudan Seisei AI」が結成された。津田健次郎（Kenjirō Tsuda）のTikTok事案では、法務省の検討会と東京地方裁判所が、声はパブリシティ権で保護されると認めた。"
+                "x": "Waititiは「部屋に一人で座ってプロンプトを打ち込んで映画を作るために、この仕事を始めたわけじゃない。それは本当に退屈でつまらなく思える。僕は人と関わりたいんだ」と語った。"
+              },
+              {
+                "t": "p",
+                "x": "「業界でいずれそれを使うことになるのはおそらく避けられないだろう。ただし、人間が代わりとしてではなく道具として使う限りにおいてだ。僕は人間を置き換えたくない。一緒に働きたいんだ」。『Klara and the Sun』は金曜日に劇場公開される。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "日本演员工会拟定\n配音工作AI规则",
-          "body": "日本演员工会发布配音生成式AI指南，Dragon Ball声优批评AI滥用。",
-          "mini_headline": "日本演员工会拟定AI规则",
+          "headline": "Taika Waititi：\n靠提示词拍片太无聊",
+          "body": "Taika Waititi称AI进入Hollywood或难避免，但靠提示词拍电影无聊又逊。",
+          "mini_headline": "Waititi谈提示词拍电影",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
-                "cap": "© Japan Actors Union"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "日本演员工会（Japan Actors Union，JAU）周四在记者会上公布了生成式AI使用指南的第一版。这份21页的《Guidelines for the Use of Generative AI on Vocal Audio Work》共六章、22条，将声音音频定义为演员和配音演员的所有录音。"
+                "x": "Taika Waititi改编自Kazuo Ishiguro小说的《Klara and the Sun》由Jenna Ortega和Amy Adams主演，早在AI全面到来的数年前就已开始开发。在周一于New York举行的特别放映会上，主创团队对The Hollywood Reporter表示，这是一个关于在新技术中拥抱自身人性的应时故事。"
               },
               {
                 "t": "p",
-                "x": "Dragon Ball中为Son Goku配音的Masako Nozawa说：“我们的声音在未经同意的情况下被使用，这有点令人失望。”为Broly配音的Bin Shimada表示，他听到用自己Broly的声音演唱Ado《Usseewa》的AI版本后感到愤怒。"
+                "x": "Ortega饰演靠太阳能驱动的“Artificial Friend”（人工朋友）Klara。她说：“人工智能感受不到爱，它对爱一无所知。”"
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
+                "cap": "Jenna Ortega、Taika Waititi和Amy Adams出席特别放映会。"
               },
               {
                 "t": "p",
-                "x": "日本配音演员多年来一直在对抗未经授权使用声音的行为：Yūki Kaji开发了自己的语音合成程序，No More Mudan Seisei AI团体于2024年成立。在Kenjirō Tsuda的TikTok案中，日本法务省的一个小组和东京地方法院确认，声音受公开权保护。"
+                "x": "Waititi说，他“入行拍电影，不是为了一个人坐在房间里输入提示词来做一部电影。那在我看来既无聊又逊。我想和人打交道。”"
+              },
+              {
+                "t": "p",
+                "x": "“我知道我们这个行业最终用上它大概是不可避免的，但前提是人类把它当作工具，而不是替代品——我不想取代人类，我想和他们一起工作。”《Klara and the Sun》将于周五在影院上映。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sindicato de actores japonés\nredacta normas de IA para voz",
-          "body": "La Japan Actors Union presentó pautas de IA generativa para la voz y actores de Dragon Ball criticaron su mal uso.",
-          "mini_headline": "Actores japoneses redactan normas de IA",
+          "headline": "Taika Waititi: hacer cine con\nprompts es aburrido y soso",
+          "body": "Taika Waititi dice que la AI en Hollywood es probablemente inevitable, pero hacer cine con prompts es aburrido y soso.",
+          "mini_headline": "Waititi sobre el cine con prompts",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.animenewsnetwork.com/thumbnails/max600x600/cms/interest.3/242861/jau-generative-ai-press-confrence-2026.jpg",
-                "cap": "© Japan Actors Union"
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
               },
               {
                 "t": "p",
-                "x": "La Japan Actors Union (JAU) presentó el jueves, en una rueda de prensa, la primera versión de sus pautas para el uso de IA generativa. Las “Guidelines for the Use of Generative AI on Vocal Audio Work”, de 21 páginas, constan de seis secciones y 22 artículos, y definen el audio vocal como todas las grabaciones de audio de actores y actores de voz."
+                "x": "La adaptación de Taika Waititi de la novela de Kazuo Ishiguro Klara and the Sun, protagonizada por Jenna Ortega y Amy Adams, se desarrolló años antes de que la AI llegara con toda su fuerza. En el pase especial de la película en New York el lunes, el equipo dijo a The Hollywood Reporter que es una historia oportuna sobre abrazar nuestra propia humanidad en medio de la nueva tecnología."
               },
               {
                 "t": "p",
-                "x": "La actriz de voz de Dragon Ball Masako Nozawa (Son Goku) dijo: “Están usando nuestras voces sin nuestro consentimiento. Es un poco decepcionante”. Bin Shimada (Broly) contó que se enfadó al escuchar una versión hecha con IA de “Usseewa”, de Ado, cantada con su voz de Broly."
+                "x": "Ortega interpreta a Klara, una “Artificial Friend” (amiga artificial) alimentada por energía solar. “La inteligencia artificial no siente amor; no sabe nada de él”, dijo."
+              },
+              {
+                "t": "img",
+                "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
+                "cap": "Jenna Ortega, Taika Waititi y Amy Adams en el pase especial."
               },
               {
                 "t": "p",
-                "x": "Los actores de voz japoneses llevan años luchando contra el uso no autorizado de sus voces: Yūki Kaji creó su propio programa de síntesis de voz y en 2024 se formó el grupo No More Mudan Seisei AI. En el caso de TikTok de Kenjirō Tsuda, un panel del Ministerio de Justicia y el Tribunal de Distrito de Tokio confirmaron que las voces están protegidas por el derecho de publicidad."
+                "x": "Waititi dijo que “no me metí a hacer cine para sentarme solo en una habitación y escribir prompts para hacer una película. Eso me parece muy aburrido y soso. Quiero relacionarme con la gente”."
+              },
+              {
+                "t": "p",
+                "x": "“Sé que probablemente es inevitable que acabemos usándola en nuestra industria, pero siempre que los humanos la usen como herramienta y no como sustituto; no quiero reemplazar a los humanos. Quiero trabajar con ellos”. Klara and the Sun llega a los cines el viernes."
               }
             ]
           }

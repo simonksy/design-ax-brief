@@ -7430,6 +7430,122 @@
           "x": "The site notes that in Bartz v. Anthropic, a $1.5 billion settlement for book authors won final approval on July 20, 2026."
         }
       ]
+    },
+    "books/books-boreal-orelien": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+          "cap": "Thélyson Orélien at the Les Correspondances literature festival in Manosque, France, on Sept. 24, 2026. (Joel Saget/AFP via Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "Montreal publishing house Éditions du Boréal announced Wednesday it is ending its professional relationship with Thélyson Orélien, saying new information indicates AI was used in writing his novel C’était ça ou mourir — despite his repeated assurances that he had not used the technology."
+        },
+        {
+          "t": "p",
+          "x": "“Consequently, Boréal will not reprint the novel, nor will it publish any further books by Thélyson Orélien,” the release reads."
+        },
+        {
+          "t": "p",
+          "x": "The novel was lauded until an anonymous X account shared AI-detection screengrabs on Sept. 21, the day it won the Prix du roman Fnac. Orélien called the accusations “slander and heresy,” saying he used AI only “here and there” for research."
+        },
+        {
+          "t": "p",
+          "x": "Boréal commissioned an external analysis of all working versions of the novel. “The results, received this week, revealed traces of AI markers in the metadata of certain documents,” the publisher wrote, adding that it may never know to what extent AI was used — what it came down to was trust."
+        }
+      ]
+    },
+    "books/books-huawei-pangu": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+          "cap": "Logo of Chinese artificial intelligence (AI) startup DeepSeek. Reuters=Yonhap News"
+        },
+        {
+          "t": "p",
+          "x": "Following American AI company Anthropic, Chinese AI companies were also confirmed on the 21st to have downloaded books by Han Kang, Hwang Sok-yong and others without permission. In the technical report for its AI model ‘PanGu-Σ’, posted to arXiv in March 2023, Huawei stated that it used ‘The Pile’ and other sources for English text."
+        },
+        {
+          "t": "p",
+          "x": "‘The Pile’ includes ‘Books3’, a collection of pirated e-books that Anthropic also downloaded without permission, and Books3 contains at least 19 English translations of Korean writers (10 authors), including Han Kang’s Human Acts and The Vegetarian and Hwang Sok-yong’s Princess Bari. It cannot be confirmed, however, whether Huawei and the others trained on every novel they downloaded."
+        },
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
+          "cap": "The Huawei logo at the World Artificial Intelligence Conference (WAIC) in Shanghai, China, on July 17. Reuters=Yonhap News"
+        },
+        {
+          "t": "p",
+          "x": "In its ‘DeepSeek-VL’ report in March 2024, DeepSeek said it used 86만 English e-books and 18만 Chinese e-books obtained from the pirate book site ‘Anna’s Archive’ for training. Jaegul Choo, a professor at the KAIST Graduate School of AI, said, “Using pirated books as AI training data is widely known in the AI industry.”"
+        }
+      ]
+    },
+    "books/books-soa-charter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+          "cap": "Anna Ganley"
+        },
+        {
+          "t": "p",
+          "x": "The Society of Authors (SoA) has withdrawn from its Ethical AI Charter, launched last week, following backlash and a subsequent statement from CEO Anna Ganley that aimed to clarify the organisation’s position on generative AI. Members were emailed on 21 October and told the SoA would be withdrawing."
+        },
+        {
+          "t": "p",
+          "x": "The charter, published on 13 October, was created in collaboration with the Creators’ Rights Alliance, the Authors Guild, the Australian Society of Authors, the Writers’ Union of Canada and the New Zealand Society of Authors. It is still live, and no other organisations have withdrawn."
+        },
+        {
+          "t": "p",
+          "x": "Members criticised the lack of consultation and the SoA’s position on generative AI use. On 16 October Ganley said: “There can never be any truly ethical use of generative AI because of the way LLMs have been trained on copyright works without permission or payment.”"
+        }
+      ]
+    },
+    "books/books-buyer-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "As AI continues to roil the publishing industry, readers are split on how comfortable they are with its use in the books they consume, with more acceptance from younger readers but full disclosure preferred by all, according to a new survey of U.S. book buyers."
+        },
+        {
+          "t": "p",
+          "x": "BookInsights.ai, a data consultancy launched this year by former Circana BookScan executive David Walter, sought input from 5,025 people who bought a book in the last three months. Just 22% are okay with the use of AI at any stage of creating a book, while 28% don’t want it in books at all. Forty-five percent don’t mind if an author uses AI as an assistant or for checking grammar and spelling."
+        },
+        {
+          "t": "p",
+          "x": "The results diverged sharply among age groups: 36% of teenagers are open to AI being used at any stage of the writing of a book, while only 11% of people over 55 agreed."
+        },
+        {
+          "t": "p",
+          "x": "However, 85% of readers of all ages said books should disclose whether AI was used in the writing process. Full results will be released in November."
+        }
+      ]
+    },
+    "books/books-meta-torrent-execs-order": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
+        },
+        {
+          "t": "p",
+          "x": "In a discovery order covering the authors' class action (including Richard Kadrey and Sarah Silverman) and a suit by publisher Entrepreneur Media, Magistrate Judge Thomas Hixon largely agreed that Meta must identify the decision-makers who authorized downloading books from shadow libraries like LibGen and Anna's Archive."
+        },
+        {
+          "t": "p",
+          "x": "Meta had argued that early AI dataset work followed an \"informal approach\" in which nobody with authority made decisions, and that staffers only \"technically\" downloaded torrents. Staff testimony and internal messages instead pointed to director- or VP-level approval, and one thread referenced \"a prior escalation to MZ.\""
+        },
+        {
+          "t": "p",
+          "x": "Hixon rejected Meta's narrow readings: the request was not limited to formal decisions or a single decision-maker. Meta must name everyone who made, authorized or approved the downloads, with their roles and dates, produce command history files for every server it used to torrent, and explain what happened to pirated works not used for training."
+        }
+      ]
     }
   }
 }

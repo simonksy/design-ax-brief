@@ -7431,6 +7431,174 @@
           "x": "Split to Clips会把对白、音乐、环境声和音效作为独立片段放到时间线上，便于交接。作者提醒：分离并不能完成混音。应把它当作混音的开始，而不是终点。"
         }
       ]
+    },
+    "movies/movies-axe-ai-commercial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
+        },
+        {
+          "t": "p",
+          "x": "2021年，导演Cassandra Brooksbank争取执导The Martin Agency开发的一支AXE广告：New York地铁上一名男子的巨大橙色羽绒服不断膨胀，最后向惊恐的乘客喷出堪比圣经级别的大量汗水。该项目因预算原因被搁置。"
+        },
+        {
+          "t": "p",
+          "x": "五年后，她在协作式AI电影制作平台Absurd担任创意总监，把它重做成一支60秒的非官方AXE样片广告《For Days That Run Hot》，并像真正的制作一样推进：创意阐述、选角、服装、场景、分镜清单和故事板。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
+        },
+        {
+          "t": "p",
+          "x": "她选定了约20个各不相同的合成角色，用GPT Image 2.5 Sunburst生成肖像，用Uni 1.1生成多角度参考图包，并把角色锁定在Absurd的记忆中以保持一致。视频主要来自Seedance 2.5，从48个镜头的清单中按每组3–5个镜头生成，前后约两天。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
+        },
+        {
+          "t": "p",
+          "x": "她在Premiere中完成剪辑，摄影指导Andrew Fletcher在DaVinci Resolve中调色，并用Filmbox Pro加上胶片颗粒。她写道：“AI能生成图像，却无法决定哪些图像值得去做。”"
+        }
+      ]
+    },
+    "movies/movies-cined-ai-editors-compared": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "越来越多的视频剪辑软件围绕AI和开源组件打造，其中一些出自小团队甚至个人开发者。cinemaOS是一款带端侧助手的Mac订阅应用，CUTROOM是可在本地运行的免费开源剪辑软件，invideo则把AI剪辑智能体和数十个生成模型放进了浏览器。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
+          "cap": "cinemaOS / Momentum Studios"
+        },
+        {
+          "t": "p",
+          "x": "cinemaOS（0.2版，每月$9.99）把工作分成共享同一个实时项目的“房间”；其助手J.A.R.E.D.在Mac上完成转录、翻译和调色风格，不消耗点数。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
+          "cap": "CUTROOM"
+        },
+        {
+          "t": "p",
+          "x": "CUTROOM采用MIT-licensed授权，目前在Windows和Mac上进行1.2公开测试，AI为可选项：可通过可下载模型和Ollama在本地转录、生成初稿，也可用用户自己的API密钥调用云服务商。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
+          "cap": "invideo"
+        },
+        {
+          "t": "p",
+          "x": "invideo的Agent Two会观看并记录每个片段，按要求剪辑，同时提供Veo 3.1、Sora 2和Kling等视频模型；点数套餐按年付费，每席位每月$10起。"
+        },
+        {
+          "t": "p",
+          "x": "CineD的结论是，这三款目前都无法在专业工作中直接取代Premiere Pro、Final Cut Pro或DaVinci Resolve；受到冲击的是订阅定价和短视频社交内容。"
+        }
+      ]
+    },
+    "movies/movies-felix-film-genai-listing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+        },
+        {
+          "t": "p",
+          "x": "日本动画工作室Felix Film周六因生成式AI技术的使用问题，修改了面向应届毕业生的动画师招聘启事。第二项要求现在改为寻找希望在原画中使用Blender等3D CG工具的应聘者，并补充说公司正在“研究如何把AI技术作为支持工作室创作者工作的技术之一加以运用”。"
+        },
+        {
+          "t": "p",
+          "x": "周六之前，第二项要求写的是Felix Film在寻找“能使用Blender或图像生成式AI创作插画”的应聘者。这则招聘面向明年春季毕业的应聘者。"
+        },
+        {
+          "t": "p",
+          "x": "工作室在周六发布的声明中说：“目前本公司尚未决定在工作室引入图像生成式AI，但正在研究其未来的潜在用途。”声明两次强调，希望用这项技术支持创作人才，而不是取代他们。"
+        },
+        {
+          "t": "p",
+          "x": "Felix Film写道：“如果将来引入生成式AI技术，我们会审慎考虑所用服务和技术的各项要素、权利问题以及对工作室的影响。”"
+        }
+      ]
+    },
+    "movies/movies-waititi-ai-prompts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
+        },
+        {
+          "t": "p",
+          "x": "Taika Waititi改编自Kazuo Ishiguro小说的《Klara and the Sun》由Jenna Ortega和Amy Adams主演，早在AI全面到来的数年前就已开始开发。在周一于New York举行的特别放映会上，主创团队对The Hollywood Reporter表示，这是一个关于在新技术中拥抱自身人性的应时故事。"
+        },
+        {
+          "t": "p",
+          "x": "Ortega饰演靠太阳能驱动的“Artificial Friend”（人工朋友）Klara。她说：“人工智能感受不到爱，它对爱一无所知。”"
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
+          "cap": "Jenna Ortega、Taika Waititi和Amy Adams出席特别放映会。"
+        },
+        {
+          "t": "p",
+          "x": "Waititi说，他“入行拍电影，不是为了一个人坐在房间里输入提示词来做一部电影。那在我看来既无聊又逊。我想和人打交道。”"
+        },
+        {
+          "t": "p",
+          "x": "“我知道我们这个行业最终用上它大概是不可避免的，但前提是人类把它当作工具，而不是替代品——我不想取代人类，我想和他们一起工作。”《Klara and the Sun》将于周五在影院上映。"
+        }
+      ]
+    },
+    "movies/movies-sekondo-chatgpt-claude-adobe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "常驻Córdoba的平面设计师Jose Manuel Fernández推出了插件Sekondo，可将ChatGPT和Claude接入六款Adobe应用：After Effects、Premiere Pro、Photoshop、Illustrator、InDesign和Lightroom Classic。"
+        },
+        {
+          "t": "p",
+          "x": "AI不生成新的图像或片段，而是在创作者自己的项目中工作。用户以文字或语音说明需求，它便将修改应用到图层、关键帧、合成和时间线上，一切都保持可编辑。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "和任何工作室一样，Fernández每天有相当一部分时间耗在重复性工作上：把一件作品适配成二十种格式、制作不同版本、一遍遍搭建同样的下方字幕条。“这些工作是必要的，但它们耗掉了我本想用来构思创意的好几个小时。我做Sekondo，是为了有更多时间做设计。”"
+        },
+        {
+          "t": "p",
+          "x": "在Premiere Pro和After Effects中，Sekondo可以使用创作者自己的素材、在其指导下，从初剪到复杂动态，完成整件作品的剪辑、动画与收尾。它不会交回一段无法修改的成片，而是读懂项目的搭建方式，先测量再动手，并让每个图层都保持可编辑。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "介入程度由创作者决定：执行指令、提出想法和选项，或根据其构想搭建整件作品。文件始终不会离开用户的电脑。"
+        },
+        {
+          "t": "p",
+          "x": "Sekondo通过Adobe审核后，已上架Adobe为这些应用设立的官方市场Adobe Exchange。它可在macOS和Windows上配合Claude与ChatGPT桌面应用运行。"
+        }
+      ]
     }
   }
 }

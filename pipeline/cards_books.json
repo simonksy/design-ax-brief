@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "books",
   "cards": [
     {
-      "id": "books-meta-torrent-execs-order",
+      "id": "books-meta-suits",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Meta에 책 토렌트\n승인 임원 공개 명령",
-      "body": "치안판사가 Meta에 AI 학습용 해적판 토렌트를 승인한 임원을 밝히라고 명령했다.",
-      "mini_headline": "Meta, 토렌트 승인 임원 공개해야",
+      "headline": "작가 300명 가까이\n해적판 학습 Meta 제소",
+      "body": "작가 약 300명이 집단소송 대신 Meta에 건당 최대 $150,000를 청구했다.",
+      "mini_headline": "작가 300명, Meta 제소",
       "tool": "Books",
-      "source": "Ars Technica",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101578-hundreds-sue-meta-for-copyright-infringement-rejecting-class-action-payouts.html",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
@@ -19,149 +19,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
           },
           {
             "t": "p",
-            "x": "Thomas Hixon 치안판사는 작가 집단소송(Richard Kadrey, Sarah Silverman 포함)과 출판사 Entrepreneur Media 소송을 함께 다룬 증거개시 명령에서 Meta가 LibGen과 Anna's Archive 같은 섀도 라이브러리에서 책을 내려받도록 승인한 의사결정자를 밝혀야 한다는 주장을 대체로 받아들였다."
+            "x": "작가 300명 가까이가 10월 19일 U.S. District Court for the Northern District of California(캘리포니아 북부 연방지방법원)에 Meta Platforms를 상대로 저작권 침해 소송을 냈다. 작가들의 책 해적판으로, 최근에는 라이선스 없이 사들여 스캔한 실물 책으로 회사가 AI 모델을 학습시켰다고 주장한다. 작가들은 집단소송에 합류하지 않고 각자 따로 청구한다. "
           },
           {
             "t": "p",
-            "x": "Meta는 초기 AI 데이터셋 작업이 권한 있는 사람의 결정 없이 \"비공식적 방식\"으로 진행됐고, 직원들은 \"기술적으로\"만 토렌트를 내려받았을 뿐이라고 주장했다. 하지만 직원 증언과 내부 메시지는 디렉터나 VP-level(부사장급) 승인을 가리켰다. 한 대화 스레드에는 \"MZ에게 앞서 올린 보고\"라는 언급도 있었다."
+            "x": "Freedman Normand Friedland의 Kyle Roche 변호사는 로펌이 ClaimsHero로 모은 작가 2,200명 이상을 대리하고 있다며, 연말까지 개별 청구를 최대 1,000건 낼 계획이라고 밝혔다. "
           },
           {
             "t": "p",
-            "x": "Hixon은 Meta의 좁은 해석을 받아들이지 않았다. 요청이 공식 결정이나 단일 의사결정자에 한정되지 않는다고 봤다. Meta는 다운로드를 결정·허가·승인한 사람을 모두 역할, 날짜와 함께 밝혀야 한다. 토렌트에 쓴 모든 서버의 명령 기록 파일도 제출하고 학습에 쓰이지 않은 해적판 저작물이 어떻게 됐는지도 설명해야 한다."
+            "x": "Anthropic 합의금은 작품당 약 $3,000 수준이다. 원고들은 배심원단이 고의 침해로 보고 작품당 최대 $150,000의 법정 손해배상을 인정해 주길 바란다. "
+          },
+          {
+            "t": "p",
+            "x": "소장에 따르면 Meta는 LibGen, Z-Library, Anna’s Archive 같은 섀도 라이브러리에서 책을 내려받았고, mid-2025부터는 책 스캔 프로그램 Project Vellum을 운영해 Muse Spark와 Muse Glimmer 모델을 학습시켰다. 관련 Meta 사건들은 2027년 5월 3일부터 배심 재판에 들어간다. "
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Meta ordered to name execs\nbehind book torrenting",
-          "body": "A magistrate judge ordered Meta to name the executives who approved torrenting pirated books for AI training.",
-          "mini_headline": "Meta must name torrent execs",
+          "headline": "Nearly 300 authors sue Meta\nover pirated training books",
+          "body": "Nearly 300 authors sued Meta individually, seeking up to $150,000 per infringement instead of class-action payouts.",
+          "mini_headline": "300 authors sue Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
               },
               {
                 "t": "p",
-                "x": "In a discovery order covering the authors' class action (including Richard Kadrey and Sarah Silverman) and a suit by publisher Entrepreneur Media, Magistrate Judge Thomas Hixon largely agreed that Meta must identify the decision-makers who authorized downloading books from shadow libraries like LibGen and Anna's Archive."
+                "x": "Nearly 300 authors filed copyright infringement claims against Meta Platforms on October 19 in the U.S. District Court for the Northern District of California, alleging the company trained its AI models on pirated copies of their books and, more recently, on physical books it bought and scanned without a license. Rather than join a class action, each author is pursuing an individual claim."
               },
               {
                 "t": "p",
-                "x": "Meta had argued that early AI dataset work followed an \"informal approach\" in which nobody with authority made decisions, and that staffers only \"technically\" downloaded torrents. Staff testimony and internal messages instead pointed to director- or VP-level approval, and one thread referenced \"a prior escalation to MZ.\""
+                "x": "Attorney Kyle Roche of Freedman Normand Friedland says his firm represents more than 2,200 authors, recruited through ClaimsHero, and plans to file up to 1,000 individual claims by the end of the year."
               },
               {
                 "t": "p",
-                "x": "Hixon rejected Meta's narrow readings: the request was not limited to formal decisions or a single decision-maker. Meta must name everyone who made, authorized or approved the downloads, with their roles and dates, produce command history files for every server it used to torrent, and explain what happened to pirated works not used for training."
+                "x": "While the Anthropic settlement pays roughly $3,000 per work, the plaintiffs want juries to award statutory damages of up to $150,000 per work for willful infringement."
+              },
+              {
+                "t": "p",
+                "x": "The complaint says Meta downloaded books from shadow libraries such as LibGen, Z-Library and Anna’s Archive, and from mid-2025 ran a book-scanning program, Project Vellum, to train its Muse Spark and Muse Glimmer models. Related Meta cases are set for jury trials beginning May 3, 2027."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Meta에 책 토렌트\n승인 임원 공개 명령",
-          "body": "치안판사가 Meta에 AI 학습용 해적판 토렌트를 승인한 임원을 밝히라고 명령했다.",
-          "mini_headline": "Meta, 토렌트 승인 임원 공개해야",
+          "headline": "작가 300명 가까이\n해적판 학습 Meta 제소",
+          "body": "작가 약 300명이 집단소송 대신 Meta에 건당 최대 $150,000를 청구했다.",
+          "mini_headline": "작가 300명, Meta 제소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
               },
               {
                 "t": "p",
-                "x": "Thomas Hixon 치안판사는 작가 집단소송(Richard Kadrey, Sarah Silverman 포함)과 출판사 Entrepreneur Media 소송을 함께 다룬 증거개시 명령에서 Meta가 LibGen과 Anna's Archive 같은 섀도 라이브러리에서 책을 내려받도록 승인한 의사결정자를 밝혀야 한다는 주장을 대체로 받아들였다."
+                "x": "작가 300명 가까이가 10월 19일 U.S. District Court for the Northern District of California(캘리포니아 북부 연방지방법원)에 Meta Platforms를 상대로 저작권 침해 소송을 냈다. 작가들의 책 해적판으로, 최근에는 라이선스 없이 사들여 스캔한 실물 책으로 회사가 AI 모델을 학습시켰다고 주장한다. 작가들은 집단소송에 합류하지 않고 각자 따로 청구한다. "
               },
               {
                 "t": "p",
-                "x": "Meta는 초기 AI 데이터셋 작업이 권한 있는 사람의 결정 없이 \"비공식적 방식\"으로 진행됐고, 직원들은 \"기술적으로\"만 토렌트를 내려받았을 뿐이라고 주장했다. 하지만 직원 증언과 내부 메시지는 디렉터나 VP-level(부사장급) 승인을 가리켰다. 한 대화 스레드에는 \"MZ에게 앞서 올린 보고\"라는 언급도 있었다."
+                "x": "Freedman Normand Friedland의 Kyle Roche 변호사는 로펌이 ClaimsHero로 모은 작가 2,200명 이상을 대리하고 있다며, 연말까지 개별 청구를 최대 1,000건 낼 계획이라고 밝혔다. "
               },
               {
                 "t": "p",
-                "x": "Hixon은 Meta의 좁은 해석을 받아들이지 않았다. 요청이 공식 결정이나 단일 의사결정자에 한정되지 않는다고 봤다. Meta는 다운로드를 결정·허가·승인한 사람을 모두 역할, 날짜와 함께 밝혀야 한다. 토렌트에 쓴 모든 서버의 명령 기록 파일도 제출하고 학습에 쓰이지 않은 해적판 저작물이 어떻게 됐는지도 설명해야 한다."
+                "x": "Anthropic 합의금은 작품당 약 $3,000 수준이다. 원고들은 배심원단이 고의 침해로 보고 작품당 최대 $150,000의 법정 손해배상을 인정해 주길 바란다. "
+              },
+              {
+                "t": "p",
+                "x": "소장에 따르면 Meta는 LibGen, Z-Library, Anna’s Archive 같은 섀도 라이브러리에서 책을 내려받았고, mid-2025부터는 책 스캔 프로그램 Project Vellum을 운영해 Muse Spark와 Muse Glimmer 모델을 학습시켰다. 관련 Meta 사건들은 2027년 5월 3일부터 배심 재판에 들어간다. "
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、書籍トレント\n承認幹部の開示命令",
-          "body": "治安判事がMetaに、AI学習用の海賊版書籍のトレントを承認した幹部を明かすよう命じた。",
-          "mini_headline": "Meta、トレント承認幹部の開示へ",
+          "headline": "作家約300人が\n海賊版学習でMetaを提訴",
+          "body": "約300人の作家が集団訴訟ではなくMetaを訴え、侵害ごとに最大$150,000を求める。",
+          "mini_headline": "作家300人がMetaを提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
               },
               {
                 "t": "p",
-                "x": "Thomas Hixon治安判事は、作家らの集団訴訟(Richard Kadrey、Sarah Silvermanを含む)と出版社Entrepreneur Mediaによる訴訟を対象とする証拠開示命令で、LibGenやAnna's Archiveといったシャドーライブラリーからの書籍ダウンロードを承認した意思決定者をMetaが特定すべきだとの主張を、おおむね認めた。"
+                "x": "約300人の作家が10月19日、U.S. District Court for the Northern District of California(カリフォルニア北部地区連邦地裁)にMeta Platformsを相手取り著作権侵害の訴えを起こした。同社が作家の本の海賊版で、さらに最近はライセンスなしに購入・スキャンした紙の本でAIモデルを学習させたと主張している。各作家は集団訴訟に加わらず、個別に請求を進める。"
               },
               {
                 "t": "p",
-                "x": "Metaは、初期のAIデータセット作業は権限を持つ者が決定を下さない「非公式なアプローチ」で進められ、社員は「技術的に」トレントをダウンロードしたにすぎないと主張していた。だが社員の証言や社内メッセージは、ディレクターまたはVP-level(副社長級)の承認を示しており、あるスレッドには「MZへの以前のエスカレーション」への言及があった。"
+                "x": "Freedman Normand FriedlandのKyle Roche弁護士によると、同事務所はClaimsHeroを通じて集めた2,200人超の作家を代理しており、年末までに最大1,000件の個別請求を起こす予定だという。"
               },
               {
                 "t": "p",
-                "x": "HixonはMetaの狭い解釈を退けた。要求は正式な決定や単一の意思決定者に限られないという判断である。Metaはダウンロードを決定、許可、承認したすべての人物を役職と日付とともに明らかにし、トレントに使ったすべてのサーバーのコマンド履歴ファイルを提出し、学習に使われなかった海賊版作品がどうなったかを説明しなければならない。"
+                "x": "Anthropicの和解では作品ごとに約$3,000が支払われるが、原告側は故意の侵害に対し作品ごとに最大$150,000の法定損害賠償を陪審が認めるよう求めている。"
+              },
+              {
+                "t": "p",
+                "x": "訴状によれば、MetaはLibGen、Z-Library、Anna’s Archiveといったシャドーライブラリーから本をダウンロードし、mid-2025からは書籍スキャン計画Project Vellumを実施してMuse SparkとMuse Glimmerモデルを学習させた。関連するMetaの訴訟は2027年5月3日から陪審裁判が始まる予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "法官令Meta披露\n批准书籍种子下载的高管",
-          "body": "一名治安法官命令Meta说出批准以种子下载盗版书籍用于AI训练的高管。",
-          "mini_headline": "Meta须交出种子下载批准高管",
+          "headline": "近300名作家起诉Meta\n指其用盗版书训练",
+          "body": "近300名作家放弃集体诉讼，各自起诉Meta，每项侵权索赔最高$150,000。",
+          "mini_headline": "300名作家起诉Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
               },
               {
                 "t": "p",
-                "x": "治安法官Thomas Hixon在一项证据开示命令中——该命令涵盖作家集体诉讼（包括Richard Kadrey和Sarah Silverman）以及出版商Entrepreneur Media提起的诉讼——基本认同Meta必须指认批准从LibGen、Anna's Archive等影子图书馆下载书籍的决策者。"
+                "x": "近300名作家于10月19日在U.S. District Court for the Northern District of California（加州北区联邦地区法院）对Meta Platforms提起版权侵权诉讼，指控该公司用其书籍的盗版副本训练AI模型，近来还使用未经授权购买并扫描的实体书。作家们没有加入集体诉讼，而是各自提出个人索赔。"
               },
               {
                 "t": "p",
-                "x": "Meta此前辩称，早期AI数据集工作采用一种“非正式做法”，没有任何有权限的人做出决定，员工只是“在技术上”下载了种子。但员工证词和内部消息却指向总监或VP-level（副总裁级）的批准，其中一个讨论串还提到“此前曾上报给MZ”。"
+                "x": "Freedman Normand Friedland律师事务所的律师Kyle Roche表示，该所代理通过ClaimsHero招募的2,200多名作家，并计划在年底前提交最多1,000项个人索赔。"
               },
               {
                 "t": "p",
-                "x": "Hixon驳回了Meta的狭义解读：该请求并不限于正式决定或单一决策者。Meta必须列出所有做出、授权或批准下载的人及其职务和日期，提交用于种子下载的每台服务器的命令历史文件，并说明未用于训练的盗版作品如何处置。"
+                "x": "Anthropic和解方案每部作品赔付约$3,000，而原告希望陪审团就故意侵权判给每部作品最高$150,000的法定赔偿。"
+              },
+              {
+                "t": "p",
+                "x": "诉状称，Meta从LibGen、Z-Library和Anna’s Archive等影子图书馆下载书籍，并自mid-2025起运行书籍扫描项目Project Vellum，用于训练Muse Spark和Muse Glimmer模型。Meta的相关案件定于2027年5月3日起进行陪审团审理。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta deberá nombrar a quienes\naprobaron el torrent de libros",
-          "body": "Un juez ordenó a Meta nombrar a los directivos que aprobaron bajar libros piratas por torrent para entrenar IA.",
-          "mini_headline": "Meta debe nombrar a los responsables",
+          "headline": "Casi 300 autores demandan a Meta\npor entrenar con libros piratas",
+          "body": "Casi 300 autores demandaron a Meta por separado y piden hasta $150,000 por infracción, no pagos colectivos.",
+          "mini_headline": "300 autores demandan a Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
               },
               {
                 "t": "p",
-                "x": "En una orden de exhibición de pruebas que abarca la demanda colectiva de autores (entre ellos Richard Kadrey y Sarah Silverman) y una demanda de la editorial Entrepreneur Media, el juez magistrado Thomas Hixon coincidió en gran medida en que Meta debe identificar a quienes autorizaron descargar libros de bibliotecas en la sombra como LibGen y Anna's Archive."
+                "x": "Casi 300 autores presentaron el 19 de octubre demandas por infracción de derechos de autor contra Meta Platforms ante el U.S. District Court for the Northern District of California, alegando que la empresa entrenó sus modelos de AI con copias piratas de sus libros y, más recientemente, con libros físicos que compró y escaneó sin licencia. En lugar de sumarse a una demanda colectiva, cada autor presenta una reclamación individual."
               },
               {
                 "t": "p",
-                "x": "Meta había sostenido que el trabajo inicial con conjuntos de datos de AI siguió un \"enfoque informal\" en el que nadie con autoridad tomaba decisiones, y que los empleados solo descargaron torrents \"técnicamente\". Sin embargo, testimonios del personal y mensajes internos apuntaban a una aprobación de nivel director o VP-level, y un hilo mencionaba \"una escalada previa a MZ\"."
+                "x": "El abogado Kyle Roche, de Freedman Normand Friedland, afirma que su firma representa a más de 2,200 autores, reclutados a través de ClaimsHero, y que prevé presentar hasta 1,000 reclamaciones individuales antes de fin de año."
               },
               {
                 "t": "p",
-                "x": "Hixon rechazó las lecturas restrictivas de Meta: la solicitud no se limitaba a decisiones formales ni a una sola persona. Meta debe nombrar a todos los que tomaron, autorizaron o aprobaron las descargas, con sus cargos y fechas, entregar los archivos de historial de comandos de cada servidor que usó para el torrent y explicar qué pasó con las obras pirateadas que no se usaron para el entrenamiento."
+                "x": "Mientras el acuerdo de Anthropic paga unos $3,000 por obra, los demandantes quieren que los jurados concedan daños legales de hasta $150,000 por obra por infracción deliberada."
+              },
+              {
+                "t": "p",
+                "x": "Según la demanda, Meta descargó libros de bibliotecas en la sombra como LibGen, Z-Library y Anna’s Archive, y desde mid-2025 operó un programa de escaneo de libros, Project Vellum, para entrenar sus modelos Muse Spark y Muse Glimmer. Los casos relacionados con Meta tienen juicios con jurado previstos a partir del 3 de mayo de 2027."
               }
             ]
           }
@@ -169,105 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Meta에 책 토렌트\n승인 임원 공개 명령",
-          "body": "치안판사가 Meta에 AI 학습용 해적판 토렌트 승인 임원을 밝히라고 명령했다.",
-          "mini_headline": "Meta, 토렌트 승인 임원 공개해야",
+          "headline": "작가 300명 가까이\n해적판 학습 Meta 제소",
+          "body": "작가 약 300명이 집단소송 대신 Meta에 건당 최대 $150,000를 청구했다.",
+          "mini_headline": "작가 300명, Meta 제소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
               },
               {
                 "t": "p",
-                "x": "Thomas Hixon 치안판사는 작가 집단소송(Richard Kadrey, Sarah Silverman 포함)과 출판사 Entrepreneur Media의 소송을 함께 다룬 증거개시 명령에서, Meta가 LibGen과 Anna's Archive 같은 섀도 라이브러리에서 책을 내려받도록 승인한 의사결정자를 밝혀야 한다는 주장을 대체로 받아들였다."
+                "x": "작가 300명 가까이가 10월 19일 U.S. District Court for the Northern District of California(캘리포니아 북부 연방지방법원)에 Meta Platforms를 상대로 저작권 침해 소송을 냈다. 이 회사가 작가들의 책 해적판으로, 최근에는 라이선스 없이 사들여 스캔한 실물 책으로 AI 모델을 학습시켰다는 주장이다. 작가들은 집단소송에 합류하지 않고 각자 개별 청구를 진행한다."
               },
               {
                 "t": "p",
-                "x": "Meta는 초기 AI 데이터셋 작업이 권한 있는 사람이 결정하지 않는 \"비공식적 방식\"으로 진행됐고, 직원들은 \"기술적으로\"만 토렌트를 내려받았을 뿐이라고 주장했다. 그러나 직원 증언과 내부 메시지는 디렉터 또는 VP-level(부사장급) 승인을 가리켰고, 한 대화 스레드에는 \"MZ에게 앞서 올린 보고\"라는 언급이 있었다."
+                "x": "Freedman Normand Friedland의 Kyle Roche 변호사는 자신의 로펌이 ClaimsHero를 통해 모집한 작가 2,200명 이상을 대리하고 있으며, 연말까지 개별 청구를 최대 1,000건 제기할 계획이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Hixon은 Meta의 좁은 해석을 받아들이지 않았다. 요청은 공식 결정이나 단일 의사결정자에 한정되지 않는다는 판단이다. Meta는 다운로드를 결정·허가·승인한 모든 사람을 역할, 날짜와 함께 밝히고, 토렌트에 쓴 모든 서버의 명령 기록 파일을 제출하며, 학습에 쓰이지 않은 해적판 저작물이 어떻게 됐는지 설명해야 한다."
+                "x": "Anthropic 합의금은 작품당 약 $3,000이지만, 원고들은 고의 침해에 대해 배심원단이 작품당 최대 $150,000의 법정 손해배상을 인정하기를 원한다."
+              },
+              {
+                "t": "p",
+                "x": "소장에 따르면 Meta는 LibGen, Z-Library, Anna’s Archive 같은 섀도 라이브러리에서 책을 내려받았고, mid-2025부터는 책 스캔 프로그램 Project Vellum을 운영해 Muse Spark와 Muse Glimmer 모델을 학습시켰다. 관련 Meta 사건들은 2027년 5월 3일부터 배심 재판이 열릴 예정이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Meta、書籍トレント\n承認幹部の開示命令",
-          "body": "治安判事がMetaに、AI学習用の海賊版書籍のトレントを承認した幹部を明かすよう命じた。",
-          "mini_headline": "Meta、トレント承認幹部の開示へ",
+          "headline": "作家約300人が\n海賊版学習でMetaを提訴",
+          "body": "約300人の作家が集団訴訟ではなくMetaを訴え、侵害ごとに最大$150,000を求める。",
+          "mini_headline": "作家300人がMetaを提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
               },
               {
                 "t": "p",
-                "x": "Thomas Hixon治安判事は、作家らの集団訴訟(Richard Kadrey、Sarah Silvermanを含む)と出版社Entrepreneur Mediaによる訴訟を対象とする証拠開示命令で、LibGenやAnna's Archiveといったシャドーライブラリーからの書籍ダウンロードを承認した意思決定者をMetaが特定すべきだとの主張を、おおむね認めた。"
+                "x": "約300人の作家が10月19日、U.S. District Court for the Northern District of California(カリフォルニア北部地区連邦地裁)にMeta Platformsを相手取り著作権侵害の訴えを起こした。同社が作家の本の海賊版で、さらに最近はライセンスなしに購入・スキャンした紙の本でAIモデルを学習させたと主張している。各作家は集団訴訟に加わらず、個別に請求を進める。"
               },
               {
                 "t": "p",
-                "x": "Metaは、初期のAIデータセット作業は権限を持つ者が決定を下さない「非公式なアプローチ」で進められ、社員は「技術的に」トレントをダウンロードしたにすぎないと主張していた。だが社員の証言や社内メッセージは、ディレクターまたはVP-level(副社長級)の承認を示しており、あるスレッドには「MZへの以前のエスカレーション」への言及があった。"
+                "x": "Freedman Normand FriedlandのKyle Roche弁護士によると、同事務所はClaimsHeroを通じて集めた2,200人超の作家を代理しており、年末までに最大1,000件の個別請求を起こす予定だという。"
               },
               {
                 "t": "p",
-                "x": "HixonはMetaの狭い解釈を退けた。要求は正式な決定や単一の意思決定者に限られないという判断である。Metaはダウンロードを決定、許可、承認したすべての人物を役職と日付とともに明らかにし、トレントに使ったすべてのサーバーのコマンド履歴ファイルを提出し、学習に使われなかった海賊版作品がどうなったかを説明しなければならない。"
+                "x": "Anthropicの和解では作品ごとに約$3,000が支払われるが、原告側は故意の侵害に対し作品ごとに最大$150,000の法定損害賠償を陪審が認めるよう求めている。"
+              },
+              {
+                "t": "p",
+                "x": "訴状によれば、MetaはLibGen、Z-Library、Anna’s Archiveといったシャドーライブラリーから本をダウンロードし、mid-2025からは書籍スキャン計画Project Vellumを実施してMuse SparkとMuse Glimmerモデルを学習させた。関連するMetaの訴訟は2027年5月3日から陪審裁判が始まる予定だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "法官令Meta披露\n批准书籍种子下载的高管",
-          "body": "一名治安法官命令Meta说出批准以种子下载盗版书籍用于AI训练的高管。",
-          "mini_headline": "Meta须交出种子下载批准高管",
+          "headline": "近300名作家起诉Meta\n指其用盗版书训练",
+          "body": "近300名作家放弃集体诉讼，各自起诉Meta，每项侵权索赔最高$150,000。",
+          "mini_headline": "300名作家起诉Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
               },
               {
                 "t": "p",
-                "x": "治安法官Thomas Hixon在一项证据开示命令中——该命令涵盖作家集体诉讼（包括Richard Kadrey和Sarah Silverman）以及出版商Entrepreneur Media提起的诉讼——基本认同Meta必须指认批准从LibGen、Anna's Archive等影子图书馆下载书籍的决策者。"
+                "x": "近300名作家于10月19日在U.S. District Court for the Northern District of California（加州北区联邦地区法院）对Meta Platforms提起版权侵权诉讼，指控该公司用其书籍的盗版副本训练AI模型，近来还使用未经授权购买并扫描的实体书。作家们没有加入集体诉讼，而是各自提出个人索赔。"
               },
               {
                 "t": "p",
-                "x": "Meta此前辩称，早期AI数据集工作采用一种“非正式做法”，没有任何有权限的人做出决定，员工只是“在技术上”下载了种子。但员工证词和内部消息却指向总监或VP-level（副总裁级）的批准，其中一个讨论串还提到“此前曾上报给MZ”。"
+                "x": "Freedman Normand Friedland律师事务所的律师Kyle Roche表示，该所代理通过ClaimsHero招募的2,200多名作家，并计划在年底前提交最多1,000项个人索赔。"
               },
               {
                 "t": "p",
-                "x": "Hixon驳回了Meta的狭义解读：该请求并不限于正式决定或单一决策者。Meta必须列出所有做出、授权或批准下载的人及其职务和日期，提交用于种子下载的每台服务器的命令历史文件，并说明未用于训练的盗版作品如何处置。"
+                "x": "Anthropic和解方案每部作品赔付约$3,000，而原告希望陪审团就故意侵权判给每部作品最高$150,000的法定赔偿。"
+              },
+              {
+                "t": "p",
+                "x": "诉状称，Meta从LibGen、Z-Library和Anna’s Archive等影子图书馆下载书籍，并自mid-2025起运行书籍扫描项目Project Vellum，用于训练Muse Spark和Muse Glimmer模型。Meta的相关案件定于2027年5月3日起进行陪审团审理。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Meta deberá nombrar a quienes\naprobaron el torrent de libros",
-          "body": "Un juez ordenó a Meta nombrar a los directivos que aprobaron bajar libros piratas por torrent para entrenar IA.",
-          "mini_headline": "Meta debe nombrar a los responsables",
+          "headline": "Casi 300 autores demandan a Meta\npor entrenar con libros piratas",
+          "body": "Casi 300 autores demandaron a Meta por separado y piden hasta $150,000 por infracción, no pagos colectivos.",
+          "mini_headline": "300 autores demandan a Meta",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
               },
               {
                 "t": "p",
-                "x": "En una orden de exhibición de pruebas que abarca la demanda colectiva de autores (entre ellos Richard Kadrey y Sarah Silverman) y una demanda de la editorial Entrepreneur Media, el juez magistrado Thomas Hixon coincidió en gran medida en que Meta debe identificar a quienes autorizaron descargar libros de bibliotecas en la sombra como LibGen y Anna's Archive."
+                "x": "Casi 300 autores presentaron el 19 de octubre demandas por infracción de derechos de autor contra Meta Platforms ante el U.S. District Court for the Northern District of California, alegando que la empresa entrenó sus modelos de AI con copias piratas de sus libros y, más recientemente, con libros físicos que compró y escaneó sin licencia. En lugar de sumarse a una demanda colectiva, cada autor presenta una reclamación individual."
               },
               {
                 "t": "p",
-                "x": "Meta había sostenido que el trabajo inicial con conjuntos de datos de AI siguió un \"enfoque informal\" en el que nadie con autoridad tomaba decisiones, y que los empleados solo descargaron torrents \"técnicamente\". Sin embargo, testimonios del personal y mensajes internos apuntaban a una aprobación de nivel director o VP-level, y un hilo mencionaba \"una escalada previa a MZ\"."
+                "x": "El abogado Kyle Roche, de Freedman Normand Friedland, afirma que su firma representa a más de 2,200 autores, reclutados a través de ClaimsHero, y que prevé presentar hasta 1,000 reclamaciones individuales antes de fin de año."
               },
               {
                 "t": "p",
-                "x": "Hixon rechazó las lecturas restrictivas de Meta: la solicitud no se limitaba a decisiones formales ni a una sola persona. Meta debe nombrar a todos los que tomaron, autorizaron o aprobaron las descargas, con sus cargos y fechas, entregar los archivos de historial de comandos de cada servidor que usó para el torrent y explicar qué pasó con las obras pirateadas que no se usaron para el entrenamiento."
+                "x": "Mientras el acuerdo de Anthropic paga unos $3,000 por obra, los demandantes quieren que los jurados concedan daños legales de hasta $150,000 por obra por infracción deliberada."
+              },
+              {
+                "t": "p",
+                "x": "Según la demanda, Meta descargó libros de bibliotecas en la sombra como LibGen, Z-Library y Anna’s Archive, y desde mid-2025 operó un programa de escaneo de libros, Project Vellum, para entrenar sus modelos Muse Spark y Muse Glimmer. Los casos relacionados con Meta tienen juicios con jurado previstos a partir del 3 de mayo de 2027."
               }
             ]
           }
@@ -275,15 +315,15 @@
       }
     },
     {
-      "id": "books-tomato-novel-ai-signing-rules",
+      "id": "books-boreal-orelien",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Tomato Novel,\nAI 소설에 규칙 개편",
-      "body": "AI 소설이 쏟아지자 Tomato Novel이 신인에게 완결 후 계약을 요구한다.",
-      "mini_headline": "Tomato Novel, AI 소설 범람 막기",
+      "headline": "AI 사용 문제로\n출판사, 퀘벡 작가와 결별",
+      "body": "Éditions du Boréal이 AI로 Thélyson Orélien을 내쳤다.",
+      "mini_headline": "Boréal, Orélien과 결별",
       "tool": "Books",
-      "source": "36Kr",
-      "url": "https://eu.36kr.com/en/p/4034128921827207",
+      "source": "CBC News",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -291,173 +331,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
+            "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+            "cap": "2026년 9월 24일 프랑스 Manosque에서 열린 Les Correspondances 문학 축제에 참석한 Thélyson Orélien. (Joel Saget/AFP via Getty Images)"
           },
           {
             "t": "p",
-            "x": "ByteDance의 Tomato Novel은 Lv.0과 Lv.1 작가의 신작을 \"전작 완결 계약\"으로만 계약하겠다고 발표했다. 분야에 따라 150,000자 또는 300,000자 분량의 책 한 권을 끝까지 써야 신청할 수 있고, 그 전에는 노출도 인세도 없다."
+            "x": "몬트리올 출판사 Éditions du Boréal은 수요일, Thélyson Orélien이 소설 C’était ça ou mourir를 쓰는 데 AI가 쓰였다는 새 정보가 나왔다며 그와 더는 함께 일하지 않겠다고 발표했다. Orélien은 이 기술을 쓰지 않았다고 거듭 밝혀 왔다. "
           },
           {
             "t": "p",
-            "x": "일부 작가는 장르 프롬프트 하나로 수백만 자를 만들어 내는 AI 도구를 공유하며 맞섰다. 이 플랫폼은 한때 AI-assisted(AI 보조) 글쓰기를 적극 내세웠다. 하루 신규 투고는 약 400편에서 5,606편으로 뛰었다. 플랫폼은 이제 하루 5,000편이 넘는 신작이 \"거의 모두\" AI로 일괄 생성된 것이라고 밝힌다."
-          },
-          {
-            "t": "img",
-            "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
+            "x": "“따라서 Boréal은 이 소설을 다시 찍지 않으며, Thélyson Orélien의 다른 책도 더는 내지 않을 것”이라고 보도자료는 밝혔다."
           },
           {
             "t": "p",
-            "x": "앞선 조치(계정당 신작 수 제한, 855개 계정 처분, 저품질 도서 112,700권 반려)로는 속도를 따라잡지 못했고, Tomato는 이제 AI-written(AI 작성) 작품을 가려내는 일을 주로 AI에 맡긴다. 36Kr은 작가를 생산 능력으로 다루는 트래픽 우선 플랫폼에 더 깊은 문제가 있다고 짚는다."
+            "x": "이 소설은 호평을 받았다. 그러다 Prix du roman Fnac을 받은 9월 21일, 익명의 X 계정이 AI-detection(AI 탐지) 화면 캡처를 올렸다. Orélien은 이 의혹을 “중상이자 이단”이라 부르며 자료 조사에 AI를 “여기저기” 썼을 뿐이라고 말했다. "
+          },
+          {
+            "t": "p",
+            "x": "Boréal은 소설의 작업 버전 전부를 외부에 맡겨 분석했다. 출판사는 “이번 주에 받은 결과에서 일부 문서의 메타데이터에 AI 표지의 흔적이 드러났다”고 썼다. AI가 얼마나 쓰였는지는 끝내 모를 수도 있지만 결국 문제는 신뢰였다는 말도 덧붙였다. "
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Tomato Novel rewrites rules\nas AI books flood in",
-          "body": "ByteDance's Tomato Novel now makes new low-level authors finish whole books before signing, amid a flood of AI novels.",
-          "mini_headline": "Tomato Novel curbs AI flood",
+          "headline": "Publisher cuts ties with\nQuebec novelist over AI use",
+          "body": "Éditions du Boréal cited traces of AI markers in the metadata of working files and cut ties with Thélyson Orélien.",
+          "mini_headline": "Boréal drops Orélien",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+                "cap": "Thélyson Orélien at the Les Correspondances literature festival in Manosque, France, on Sept. 24, 2026. (Joel Saget/AFP via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Tomato Novel announced that new works by Lv.0 and Lv.1 authors can only be signed under \"full-work completion signing\": the whole book, 150,000 or 300,000 words depending on category, must be finished before applying, with no display or royalties until then."
+                "x": "Montreal publishing house Éditions du Boréal announced Wednesday it is ending its professional relationship with Thélyson Orélien, saying new information indicates AI was used in writing his novel C’était ça ou mourir — despite his repeated assurances that he had not used the technology."
               },
               {
                 "t": "p",
-                "x": "Some authors answered by sharing AI tools that generate millions of words from a genre prompt. The platform once championed AI-assisted writing; daily new submissions jumped from about 400 to 5,606, and it now says the 5,000-plus daily books are \"almost all\" batch-generated by AI."
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "“Consequently, Boréal will not reprint the novel, nor will it publish any further books by Thélyson Orélien,” the release reads."
               },
               {
                 "t": "p",
-                "x": "Earlier curbs (limits on new books per account, 855 accounts disposed of, 112,700 low-quality books rejected) have not kept pace, and Tomato now relies largely on AI to detect AI-written works. 36Kr argues the deeper problem is a traffic-first platform that treats authors as production capacity."
+                "x": "The novel was lauded until an anonymous X account shared AI-detection screengrabs on Sept. 21, the day it won the Prix du roman Fnac. Orélien called the accusations “slander and heresy,” saying he used AI only “here and there” for research."
+              },
+              {
+                "t": "p",
+                "x": "Boréal commissioned an external analysis of all working versions of the novel. “The results, received this week, revealed traces of AI markers in the metadata of certain documents,” the publisher wrote, adding that it may never know to what extent AI was used — what it came down to was trust."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Tomato Novel,\nAI 소설에 규칙 개편",
-          "body": "AI 소설이 쏟아지자 Tomato Novel이 신인에게 완결 후 계약을 요구한다.",
-          "mini_headline": "Tomato Novel, AI 소설 범람 막기",
+          "headline": "AI 사용 문제로\n출판사, 퀘벡 작가와 결별",
+          "body": "Éditions du Boréal이 AI로 Thélyson Orélien을 내쳤다.",
+          "mini_headline": "Boréal, Orélien과 결별",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+                "cap": "2026년 9월 24일 프랑스 Manosque에서 열린 Les Correspondances 문학 축제에 참석한 Thélyson Orélien. (Joel Saget/AFP via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "ByteDance의 Tomato Novel은 Lv.0과 Lv.1 작가의 신작을 \"전작 완결 계약\"으로만 계약하겠다고 발표했다. 분야에 따라 150,000자 또는 300,000자 분량의 책 한 권을 끝까지 써야 신청할 수 있고, 그 전에는 노출도 인세도 없다."
+                "x": "몬트리올 출판사 Éditions du Boréal은 수요일, Thélyson Orélien이 소설 C’était ça ou mourir를 쓰는 데 AI가 쓰였다는 새 정보가 나왔다며 그와 더는 함께 일하지 않겠다고 발표했다. Orélien은 이 기술을 쓰지 않았다고 거듭 밝혀 왔다. "
               },
               {
                 "t": "p",
-                "x": "일부 작가는 장르 프롬프트 하나로 수백만 자를 만들어 내는 AI 도구를 공유하며 맞섰다. 이 플랫폼은 한때 AI-assisted(AI 보조) 글쓰기를 적극 내세웠다. 하루 신규 투고는 약 400편에서 5,606편으로 뛰었다. 플랫폼은 이제 하루 5,000편이 넘는 신작이 \"거의 모두\" AI로 일괄 생성된 것이라고 밝힌다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "“따라서 Boréal은 이 소설을 다시 찍지 않으며, Thélyson Orélien의 다른 책도 더는 내지 않을 것”이라고 보도자료는 밝혔다."
               },
               {
                 "t": "p",
-                "x": "앞선 조치(계정당 신작 수 제한, 855개 계정 처분, 저품질 도서 112,700권 반려)로는 속도를 따라잡지 못했고, Tomato는 이제 AI-written(AI 작성) 작품을 가려내는 일을 주로 AI에 맡긴다. 36Kr은 작가를 생산 능력으로 다루는 트래픽 우선 플랫폼에 더 깊은 문제가 있다고 짚는다."
+                "x": "이 소설은 호평을 받았다. 그러다 Prix du roman Fnac을 받은 9월 21일, 익명의 X 계정이 AI-detection(AI 탐지) 화면 캡처를 올렸다. Orélien은 이 의혹을 “중상이자 이단”이라 부르며 자료 조사에 AI를 “여기저기” 썼을 뿐이라고 말했다. "
+              },
+              {
+                "t": "p",
+                "x": "Boréal은 소설의 작업 버전 전부를 외부에 맡겨 분석했다. 출판사는 “이번 주에 받은 결과에서 일부 문서의 메타데이터에 AI 표지의 흔적이 드러났다”고 썼다. AI가 얼마나 쓰였는지는 끝내 모를 수도 있지만 결국 문제는 신뢰였다는 말도 덧붙였다. "
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tomato Novel\nAI小説急増で規則改定",
-          "body": "Tomato NovelはAI小説の氾濫を受け、新人作家に完結後の契約を求める。",
-          "mini_headline": "Tomato Novel、AI小説の氾濫を抑制",
+          "headline": "AI使用めぐり出版社が\nケベックの作家と決別",
+          "body": "Éditions du BoréalがAI問題でThélyson Orélienと決別した。",
+          "mini_headline": "BoréalがOrélienと決別",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+                "cap": "2026年9月24日、フランスのManosqueで開かれた文学祭Les Correspondancesに出席したThélyson Orélien。(Joel Saget/AFP via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "ByteDanceのTomato Novelは、Lv.0とLv.1の作家による新作は「全作完結契約」でしか契約できないと発表した。カテゴリーに応じて150,000字または300,000字の作品全体を書き上げてから申請する必要があり、それまでは掲載も印税もない。"
+                "x": "モントリオールの出版社Éditions du Boréalは水曜日、Thélyson Orélienの小説C’était ça ou mourirの執筆にAIが使われたことを示す新たな情報が得られたとして、同氏との仕事上の関係を終えると発表した。Orélienはこの技術を使っていないと繰り返し説明していた。"
               },
               {
                 "t": "p",
-                "x": "一部の作家は、ジャンルのプロンプトから数百万字を生成するAIツールを共有して対抗した。同プラットフォームはかつてAI-assisted(AI支援)の執筆を推進していた。1日の新規投稿は約400件から5,606件に急増し、現在は1日5,000件を超える新作が「ほぼすべて」AIによる一括生成だとしている。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "発表文には「したがってBoréalはこの小説を増刷せず、Thélyson Orélienの今後の著作も一切出版しない」とある。"
               },
               {
                 "t": "p",
-                "x": "これまでの対策(アカウントごとの新作数制限、855アカウントの処分、低品質作品112,700冊の却下)は追いついておらず、TomatoはいまやAI-written(AI執筆)作品の検出を主にAIに頼っている。36Krは、作家を生産能力として扱うトラフィック優先のプラットフォームこそが根本的な問題だと論じる。"
+                "x": "この小説は、Prix du roman Fnacを受賞した9月21日に匿名のXアカウントがAI-detection(AI検出)の画面キャプチャを公開するまで高く評価されていた。Orélienは疑惑を「中傷であり異端」と呼び、AIは調べものに「あちこちで」使っただけだと述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Boréalは小説のすべての作業版について外部分析を依頼した。出版社は「今週受け取った結果で、一部の文書のメタデータにAIマーカーの痕跡が見つかった」と記し、AIがどの程度使われたかは永遠にわからないかもしれないが、結局は信頼の問題だったと付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tomato Novel\n因AI书泛滥改规则",
-          "body": "ByteDance旗下Tomato Novel因AI小说泛滥，要求新作者写完全书才签约。",
-          "mini_headline": "Tomato Novel遏制AI书泛滥",
+          "headline": "因AI使用问题\n出版社与魁北克作家解约",
+          "body": "Éditions du Boréal因发现AI痕迹与Thélyson Orélien解约。",
+          "mini_headline": "Boréal与Orélien解约",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+                "cap": "2026年9月24日，Thélyson Orélien出席在法国Manosque举行的Les Correspondances文学节。(Joel Saget/AFP via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Tomato Novel宣布，Lv.0和Lv.1作者的新作品只能采用“全本完结签约”：须按品类写完150,000字或300,000字的整本书后才能申请，在此之前不展示、无稿酬。"
+                "x": "蒙特利尔出版社Éditions du Boréal周三宣布，将终止与Thélyson Orélien的合作关系，称新信息表明其小说C’était ça ou mourir的写作使用了AI——尽管他曾一再保证自己没有使用这项技术。"
               },
               {
                 "t": "p",
-                "x": "部分作者的回应是分享能根据题材提示词生成数百万字的AI工具。该平台曾大力倡导AI-assisted（AI辅助）写作；每日新投稿从约400部猛增至5,606部，平台如今表示，每天5,000多部新书“几乎全部”由AI批量生成。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "声明写道：“因此，Boréal将不再重印这部小说，也不会再出版Thélyson Orélien的任何作品。”"
               },
               {
                 "t": "p",
-                "x": "此前的限制措施（限制每个账号的新书数量、处置855个账号、驳回112,700本低质量书籍）未能跟上节奏，Tomato如今主要依靠AI来识别AI-written（AI写作）作品。36Kr认为，更深层的问题在于流量至上、把作者当作产能的平台。"
+                "x": "这部小说一直广受好评，直到9月21日，即它获得Prix du roman Fnac的当天，一个匿名X账号分享了AI-detection（AI检测）截图。Orélien称这些指控是“诽谤和异端”，表示自己只是在资料研究中“零星”用过AI。"
+              },
+              {
+                "t": "p",
+                "x": "Boréal委托外部机构分析了这部小说的所有工作版本。出版社写道：“本周收到的结果显示，部分文件的元数据中存在AI标记的痕迹。”并补充说，也许永远无法得知AI的使用程度，归根结底是信任问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tomato Novel cambia sus reglas\nante la avalancha de libros IA",
-          "body": "Por la avalancha de novelas de IA, Tomato Novel (ByteDance) exige a autores nuevos acabar el libro antes de firmar.",
-          "mini_headline": "Tomato Novel frena la avalancha de IA",
+          "headline": "Una editorial rompe con un\nnovelista de Quebec por la AI",
+          "body": "Éditions du Boréal rompió con Thélyson Orélien citando rastros de AI en los metadatos de sus archivos de trabajo.",
+          "mini_headline": "Boréal rompe con Orélien",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+                "cap": "Thélyson Orélien en el festival literario Les Correspondances en Manosque, Francia, el 24 de septiembre de 2026. (Joel Saget/AFP via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Tomato Novel anunció que las obras nuevas de autores Lv.0 y Lv.1 solo podrán firmarse mediante la \"firma con obra completa\": el libro entero, de 150,000 o 300,000 palabras según la categoría, debe estar terminado antes de presentar la solicitud, sin exhibición ni regalías hasta entonces."
+                "x": "La editorial montrealesa Éditions du Boréal anunció el miércoles que pone fin a su relación profesional con Thélyson Orélien, al señalar que nueva información indica que se usó AI en la escritura de su novela C’était ça ou mourir, pese a que él aseguró en repetidas ocasiones que no había usado esa tecnología."
               },
               {
                 "t": "p",
-                "x": "Algunos autores respondieron compartiendo herramientas de AI que generan millones de palabras a partir de una consigna de género. La plataforma promovió en su día la escritura AI-assisted (asistida por IA); los envíos nuevos diarios pasaron de unos 400 a 5,606, y ahora afirma que los más de 5,000 libros diarios son \"casi todos\" generados en serie por IA."
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "“En consecuencia, Boréal no reimprimirá la novela ni publicará ningún otro libro de Thélyson Orélien”, dice el comunicado."
               },
               {
                 "t": "p",
-                "x": "Las restricciones anteriores (límites de libros nuevos por cuenta, 855 cuentas sancionadas, 112,700 libros de baja calidad rechazados) no han bastado, y Tomato depende ahora en gran medida de la IA para detectar obras AI-written (escritas por IA). 36Kr sostiene que el problema de fondo es una plataforma centrada en el tráfico que trata a los autores como capacidad de producción."
+                "x": "La novela recibió elogios hasta que una cuenta anónima de X compartió capturas de AI-detection el 21 de septiembre, el día en que ganó el Prix du roman Fnac. Orélien calificó las acusaciones de “calumnia y herejía” y dijo que solo usó AI “aquí y allá” para documentarse."
+              },
+              {
+                "t": "p",
+                "x": "Boréal encargó un análisis externo de todas las versiones de trabajo de la novela. “Los resultados, recibidos esta semana, revelaron rastros de marcadores de AI en los metadatos de ciertos documentos”, escribió la editorial, que añadió que quizá nunca sepa en qué medida se usó la AI: al final, todo se redujo a la confianza."
               }
             ]
           }
@@ -465,121 +511,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Tomato Novel,\nAI 소설에 규칙 개편",
-          "body": "Tomato Novel이 AI 소설 범람에 신인에게 완결 후 계약을 요구한다.",
-          "mini_headline": "Tomato Novel, AI 소설 범람 막기",
+          "headline": "AI 사용 문제로\n출판사, 퀘벡 작가와 결별",
+          "body": "Éditions du Boréal이 AI로 Thélyson Orélien을 내쳤다.",
+          "mini_headline": "Boréal, Orélien과 결별",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+                "cap": "2026년 9월 24일 프랑스 Manosque에서 열린 Les Correspondances 문학 축제에 참석한 Thélyson Orélien. (Joel Saget/AFP via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "ByteDance의 Tomato Novel은 Lv.0과 Lv.1 작가의 신작은 \"전작 완결 계약\"으로만 계약할 수 있다고 발표했다. 분야에 따라 150,000자 또는 300,000자 분량의 책 전체를 완성해야 신청할 수 있고, 그 전까지는 노출도 인세도 없다."
+                "x": "몬트리올 출판사 Éditions du Boréal은 수요일, Thélyson Orélien의 소설 C’était ça ou mourir 집필에 AI가 쓰였다는 새로운 정보가 나왔다며 그와의 업무 관계를 끝낸다고 발표했다. Orélien은 이 기술을 쓰지 않았다고 거듭 밝혀 왔다."
               },
               {
                 "t": "p",
-                "x": "일부 작가는 장르 프롬프트 하나로 수백만 자를 생성하는 AI 도구를 공유하며 맞섰다. 이 플랫폼은 한때 AI-assisted(AI 보조) 글쓰기를 적극 내세웠다. 하루 신규 투고는 약 400편에서 5,606편으로 뛰었고, 플랫폼은 이제 하루 5,000편이 넘는 신작이 \"거의 모두\" AI로 일괄 생성된 것이라고 밝힌다."
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "“따라서 Boréal은 이 소설을 다시 찍지 않으며, Thélyson Orélien의 다른 책도 더는 내지 않을 것”이라고 보도자료는 밝혔다."
               },
               {
                 "t": "p",
-                "x": "앞선 조치(계정당 신작 수 제한, 855개 계정 처분, 저품질 도서 112,700권 반려)도 속도를 따라잡지 못했고, Tomato는 이제 AI-written(AI 작성) 작품을 가려내는 일을 주로 AI에 맡긴다. 36Kr은 더 깊은 문제가 작가를 생산 능력으로 다루는 트래픽 우선 플랫폼에 있다고 짚는다."
+                "x": "이 소설은 Prix du roman Fnac을 받은 9월 21일, 익명의 X 계정이 AI-detection(AI 탐지) 화면 캡처를 공유하기 전까지 호평을 받았다. Orélien은 이 의혹을 “중상이자 이단”이라 부르며, 자료 조사에 AI를 “여기저기” 썼을 뿐이라고 말했다."
+              },
+              {
+                "t": "p",
+                "x": "Boréal은 소설의 모든 작업 버전에 대한 외부 분석을 맡겼다. 출판사는 “이번 주에 받은 결과에서 일부 문서의 메타데이터에 AI 표지의 흔적이 드러났다”고 썼다. AI가 어느 정도 쓰였는지는 끝내 알 수 없을지도 모르지만, 결국 문제는 신뢰였다고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Tomato Novel\nAI小説急増で規則改定",
-          "body": "Tomato NovelはAI小説の氾濫を受け、新人作家に完結後の契約を求める。",
-          "mini_headline": "Tomato Novel、AI小説の氾濫を抑制",
+          "headline": "AI使用めぐり出版社が\nケベックの作家と決別",
+          "body": "Éditions du BoréalがAI問題でThélyson Orélienと決別した。",
+          "mini_headline": "BoréalがOrélienと決別",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+                "cap": "2026年9月24日、フランスのManosqueで開かれた文学祭Les Correspondancesに出席したThélyson Orélien。(Joel Saget/AFP via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "ByteDanceのTomato Novelは、Lv.0とLv.1の作家による新作は「全作完結契約」でしか契約できないと発表した。カテゴリーに応じて150,000字または300,000字の作品全体を書き上げてから申請する必要があり、それまでは掲載も印税もない。"
+                "x": "モントリオールの出版社Éditions du Boréalは水曜日、Thélyson Orélienの小説C’était ça ou mourirの執筆にAIが使われたことを示す新たな情報が得られたとして、同氏との仕事上の関係を終えると発表した。Orélienはこの技術を使っていないと繰り返し説明していた。"
               },
               {
                 "t": "p",
-                "x": "一部の作家は、ジャンルのプロンプトから数百万字を生成するAIツールを共有して対抗した。同プラットフォームはかつてAI-assisted(AI支援)の執筆を推進していた。1日の新規投稿は約400件から5,606件に急増し、現在は1日5,000件を超える新作が「ほぼすべて」AIによる一括生成だとしている。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "発表文には「したがってBoréalはこの小説を増刷せず、Thélyson Orélienの今後の著作も一切出版しない」とある。"
               },
               {
                 "t": "p",
-                "x": "これまでの対策(アカウントごとの新作数制限、855アカウントの処分、低品質作品112,700冊の却下)は追いついておらず、TomatoはいまやAI-written(AI執筆)作品の検出を主にAIに頼っている。36Krは、作家を生産能力として扱うトラフィック優先のプラットフォームこそが根本的な問題だと論じる。"
+                "x": "この小説は、Prix du roman Fnacを受賞した9月21日に匿名のXアカウントがAI-detection(AI検出)の画面キャプチャを公開するまで高く評価されていた。Orélienは疑惑を「中傷であり異端」と呼び、AIは調べものに「あちこちで」使っただけだと述べた。"
+              },
+              {
+                "t": "p",
+                "x": "Boréalは小説のすべての作業版について外部分析を依頼した。出版社は「今週受け取った結果で、一部の文書のメタデータにAIマーカーの痕跡が見つかった」と記し、AIがどの程度使われたかは永遠にわからないかもしれないが、結局は信頼の問題だったと付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Tomato Novel\n因AI书泛滥改规则",
-          "body": "ByteDance旗下Tomato Novel因AI小说泛滥，要求新作者写完全书才签约。",
-          "mini_headline": "Tomato Novel遏制AI书泛滥",
+          "headline": "因AI使用问题\n出版社与魁北克作家解约",
+          "body": "Éditions du Boréal因发现AI痕迹与Thélyson Orélien解约。",
+          "mini_headline": "Boréal与Orélien解约",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+                "cap": "2026年9月24日，Thélyson Orélien出席在法国Manosque举行的Les Correspondances文学节。(Joel Saget/AFP via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Tomato Novel宣布，Lv.0和Lv.1作者的新作品只能采用“全本完结签约”：须按品类写完150,000字或300,000字的整本书后才能申请，在此之前不展示、无稿酬。"
+                "x": "蒙特利尔出版社Éditions du Boréal周三宣布，将终止与Thélyson Orélien的合作关系，称新信息表明其小说C’était ça ou mourir的写作使用了AI——尽管他曾一再保证自己没有使用这项技术。"
               },
               {
                 "t": "p",
-                "x": "部分作者的回应是分享能根据题材提示词生成数百万字的AI工具。该平台曾大力倡导AI-assisted（AI辅助）写作；每日新投稿从约400部猛增至5,606部，平台如今表示，每天5,000多部新书“几乎全部”由AI批量生成。"
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "声明写道：“因此，Boréal将不再重印这部小说，也不会再出版Thélyson Orélien的任何作品。”"
               },
               {
                 "t": "p",
-                "x": "此前的限制措施（限制每个账号的新书数量、处置855个账号、驳回112,700本低质量书籍）未能跟上节奏，Tomato如今主要依靠AI来识别AI-written（AI写作）作品。36Kr认为，更深层的问题在于流量至上、把作者当作产能的平台。"
+                "x": "这部小说一直广受好评，直到9月21日，即它获得Prix du roman Fnac的当天，一个匿名X账号分享了AI-detection（AI检测）截图。Orélien称这些指控是“诽谤和异端”，表示自己只是在资料研究中“零星”用过AI。"
+              },
+              {
+                "t": "p",
+                "x": "Boréal委托外部机构分析了这部小说的所有工作版本。出版社写道：“本周收到的结果显示，部分文件的元数据中存在AI标记的痕迹。”并补充说，也许永远无法得知AI的使用程度，归根结底是信任问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Tomato Novel cambia sus reglas\nante la avalancha de libros IA",
-          "body": "Por la avalancha de novelas de IA, Tomato Novel (ByteDance) exige a autores nuevos acabar el libro antes de firmar.",
-          "mini_headline": "Tomato Novel frena la avalancha de IA",
+          "headline": "Una editorial rompe con un\nnovelista de Quebec por la AI",
+          "body": "Éditions du Boréal rompió con Thélyson Orélien citando rastros de AI en los metadatos de sus archivos de trabajo.",
+          "mini_headline": "Boréal rompe con Orélien",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_1f63cc9ca37b4e24bebdd38c4c6fc533@6181939_oswg403103oswg1072oswg989_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+                "cap": "Thélyson Orélien en el festival literario Les Correspondances en Manosque, Francia, el 24 de septiembre de 2026. (Joel Saget/AFP via Getty Images)"
               },
               {
                 "t": "p",
-                "x": "Tomato Novel anunció que las obras nuevas de autores Lv.0 y Lv.1 solo podrán firmarse mediante la \"firma con obra completa\": el libro entero, de 150,000 o 300,000 palabras según la categoría, debe estar terminado antes de presentar la solicitud, sin exhibición ni regalías hasta entonces."
+                "x": "La editorial montrealesa Éditions du Boréal anunció el miércoles que pone fin a su relación profesional con Thélyson Orélien, al señalar que nueva información indica que se usó AI en la escritura de su novela C’était ça ou mourir, pese a que él aseguró en repetidas ocasiones que no había usado esa tecnología."
               },
               {
                 "t": "p",
-                "x": "Algunos autores respondieron compartiendo herramientas de AI que generan millones de palabras a partir de una consigna de género. La plataforma promovió en su día la escritura AI-assisted (asistida por IA); los envíos nuevos diarios pasaron de unos 400 a 5,606, y ahora afirma que los más de 5,000 libros diarios son \"casi todos\" generados en serie por IA."
-              },
-              {
-                "t": "img",
-                "src": "https://img.36krcdn.com/hsossms/20261020/v2_928b6babb6944df1834fa1d87cf575f6@6181939_oswg501752oswg1080oswg948_img_000?x-oss-process=image/format,jpg/interlace,1"
+                "x": "“En consecuencia, Boréal no reimprimirá la novela ni publicará ningún otro libro de Thélyson Orélien”, dice el comunicado."
               },
               {
                 "t": "p",
-                "x": "Las restricciones anteriores (límites de libros nuevos por cuenta, 855 cuentas sancionadas, 112,700 libros de baja calidad rechazados) no han bastado, y Tomato depende ahora en gran medida de la IA para detectar obras AI-written (escritas por IA). 36Kr sostiene que el problema de fondo es una plataforma centrada en el tráfico que trata a los autores como capacidad de producción."
+                "x": "La novela recibió elogios hasta que una cuenta anónima de X compartió capturas de AI-detection el 21 de septiembre, el día en que ganó el Prix du roman Fnac. Orélien calificó las acusaciones de “calumnia y herejía” y dijo que solo usó AI “aquí y allá” para documentarse."
+              },
+              {
+                "t": "p",
+                "x": "Boréal encargó un análisis externo de todas las versiones de trabajo de la novela. “Los resultados, recibidos esta semana, revelaron rastros de marcadores de AI en los metadatos de ciertos documentos”, escribió la editorial, que añadió que quizá nunca sepa en qué medida se usó la AI: al final, todo se redujo a la confianza."
               }
             ]
           }
@@ -587,15 +637,15 @@
       }
     },
     {
-      "id": "books-prix-pascal-ai-manuscripts",
-      "source_lang": "en",
+      "id": "books-huawei-pangu",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI-written 원고에\n주는 프랑스 문학상",
-      "body": "프랑스 Prix Pascal은 도구와 방법을 공개한 AI 집필 원고에 상을 준다.",
-      "mini_headline": "AI 원고를 위한 문학상",
+      "headline": "화웨이도 한강·황석영 책\n무단으로 내려받았다",
+      "body": "화웨이 '판구 시그마' 학습 데이터셋에 한강·황석영 책 해적판이 들어 있었다.",
+      "mini_headline": "화웨이도 한국 책 무단 다운",
       "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai",
+      "source": "중앙일보",
+      "url": "https://www.joongang.co.kr/article/25471800",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
@@ -603,483 +653,185 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
+            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+            "cap": "중국 인공지능(AI) 스타트업 딥시크(DeepSeek) 로고. 로이터=연합뉴스"
           },
           {
             "t": "p",
-            "x": "프랑스에 새로 생긴 문학상 Prix Pascal이 인공지능으로 쓴 원고에 상을 준다."
+            "x": "미국 AI 기업 앤트로픽에 이어 중국 AI 기업도 한강·황석영 등의 책을 무단으로 다운로드한 것으로 21일 확인됐다. 화웨이는 2023년 3월 arXiv에 공개한 AI 모델 ‘판구 시그마(Σ)’ 기술보고서에서 영어 텍스트로 ‘더 파일(The Pile)’ 등을 썼다고 명시했다."
           },
           {
             "t": "p",
-            "x": "응모자는 작품을 만들 때 쓴 도구와 방법을 공개해야 한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "France launches a prize\nfor AI-written manuscripts",
-          "body": "France's Prix Pascal will honour a manuscript written with AI, provided entrants disclose the tools and methods used.",
-          "mini_headline": "A prize for AI manuscripts",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
-              },
-              {
-                "t": "p",
-                "x": "A new French literary prize, the Prix Pascal, will recognise a manuscript written with artificial intelligence."
-              },
-              {
-                "t": "p",
-                "x": "Entrants are required to disclose the tools and methods used to produce their work."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI-written 원고에\n주는 프랑스 문학상",
-          "body": "프랑스 Prix Pascal은 도구와 방법을 공개한 AI 집필 원고에 상을 준다.",
-          "mini_headline": "AI 원고를 위한 문학상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
-              },
-              {
-                "t": "p",
-                "x": "프랑스에 새로 생긴 문학상 Prix Pascal이 인공지능으로 쓴 원고에 상을 준다."
-              },
-              {
-                "t": "p",
-                "x": "응모자는 작품을 만들 때 쓴 도구와 방법을 공개해야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-written原稿に\n仏が新文学賞",
-          "body": "フランスのPrix Pascalは、ツールと手法の開示を条件にAI執筆の原稿を表彰する。",
-          "mini_headline": "AI原稿のための文学賞",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
-              },
-              {
-                "t": "p",
-                "x": "フランスの新しい文学賞Prix Pascalは、人工知能を使って書かれた原稿を表彰する。"
-              },
-              {
-                "t": "p",
-                "x": "応募者は、作品づくりに使ったツールと手法を開示しなければならない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "法国为AI-written\n手稿设立文学奖",
-          "body": "法国Prix Pascal奖将表彰借助AI写成的手稿，前提是参赛者披露所用工具和方法。",
-          "mini_headline": "为AI手稿设立的奖项",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
-              },
-              {
-                "t": "p",
-                "x": "法国新设的文学奖Prix Pascal将表彰一部借助人工智能写成的手稿。"
-              },
-              {
-                "t": "p",
-                "x": "参赛者须披露创作作品时所用的工具和方法。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Francia crea un premio para\nmanuscritos con IA (AI-written)",
-          "body": "El Prix Pascal francés premiará un manuscrito escrito con IA si se revelan herramientas y métodos.",
-          "mini_headline": "Un premio para manuscritos con IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Un nuevo premio literario francés, el Prix Pascal, reconocerá un manuscrito escrito con inteligencia artificial."
-              },
-              {
-                "t": "p",
-                "x": "Los participantes deben revelar las herramientas y los métodos usados para crear su obra."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI-written 원고에\n주는 프랑스 문학상",
-          "body": "프랑스 Prix Pascal은 도구와 방법을 밝힌 AI 집필 원고에 상을 준다.",
-          "mini_headline": "AI 원고를 위한 문학상",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
-              },
-              {
-                "t": "p",
-                "x": "프랑스의 새 문학상 Prix Pascal이 인공지능으로 쓴 원고를 시상한다."
-              },
-              {
-                "t": "p",
-                "x": "응모자는 작품을 만드는 데 쓴 도구와 방법을 공개해야 한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-written原稿に\n仏が新文学賞",
-          "body": "フランスのPrix Pascalは、ツールと手法の開示を条件にAI執筆の原稿を表彰する。",
-          "mini_headline": "AI原稿のための文学賞",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
-              },
-              {
-                "t": "p",
-                "x": "フランスの新しい文学賞Prix Pascalは、人工知能を使って書かれた原稿を表彰する。"
-              },
-              {
-                "t": "p",
-                "x": "応募者は、作品づくりに使ったツールと手法を開示しなければならない。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "法国为AI-written\n手稿设立文学奖",
-          "body": "法国Prix Pascal奖将表彰借助AI写成的手稿，前提是参赛者披露所用工具和方法。",
-          "mini_headline": "为AI手稿设立的奖项",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
-              },
-              {
-                "t": "p",
-                "x": "法国新设的文学奖Prix Pascal将表彰一部借助人工智能写成的手稿。"
-              },
-              {
-                "t": "p",
-                "x": "参赛者须披露创作作品时所用的工具和方法。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Francia crea un premio para\nmanuscritos con IA (AI-written)",
-          "body": "El Prix Pascal francés premiará un manuscrito escrito con IA si se revelan herramientas y métodos.",
-          "mini_headline": "Un premio para manuscritos con IA",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Un nuevo premio literario francés, el Prix Pascal, reconocerá un manuscrito escrito con inteligencia artificial."
-              },
-              {
-                "t": "p",
-                "x": "Los participantes deben revelar las herramientas y los métodos usados para crear su obra."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "books-millie-ai-briefing-search",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "밀리의서재, 검색에\nAI 브리핑 도입",
-      "body": "밀리의서재가 검색 결과에 도서 요약을 띄워 독서로 잇는 AI 브리핑을 도입했다.",
-      "mini_headline": "밀리의서재 AI 브리핑",
-      "tool": "Books",
-      "source": "디지털데일리",
-      "url": "https://www.ddaily.co.kr/page/view/2026102014534352853",
-      "accent": "#2ec5c5",
-      "motif": "swatch",
-      "full": {
-        "mode": "full",
-        "blocks": [
+            "x": "‘더 파일’에는 앤트로픽도 무단 다운로드한 해적판 전자책 모음 ‘북스3(Books3)’가 포함돼 있고, 북스3에는 한강의 『소년이 온다』·『채식주의자』, 황석영의 『바리데기』 등 한국 작가 영어 번역본이 최소 19종(작가 10명) 들어 있다. 다만 화웨이 등이 내려받은 소설을 전부 학습했는지는 확인할 수 없다."
+          },
           {
             "t": "img",
-            "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
-            "cap": "[사진=KT 밀리의서재]"
+            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
+            "cap": "지난 7월 17일 중국 상하이에서 열린 세계 인공지능(AI) 컨퍼런스(WAIC)에서 화웨이 로고. 로이터=연합뉴스"
           },
           {
             "t": "p",
-            "x": "KT 밀리의서재가 인공지능(AI)으로 책을 찾는 순간부터 실제로 읽기까지의 단계를 줄인다. 검색 결과에서 도서의 핵심 내용을 확인한 뒤 상세 페이지를 따로 거치지 않고 바로 책을 읽거나 관심 도서를 보관하도록 검색 기능을 개선했다."
-          },
-          {
-            "t": "p",
-            "x": "20일 정보기술(IT)업계에 따르면 밀리의서재는 이용자의 검색 의도를 분석해 도서 정보를 보여주는 'AI 브리핑' 서비스를 도입한다. 검색어가 책 제목인지, 작가인지, 특정 주제인지 판단해 그에 맞는 정보를 검색 결과 상단에 띄우는 방식이다."
-          },
-          {
-            "t": "p",
-            "x": "기존 검색이 도서명 등에 들어간 단어를 중심으로 결과를 보여줬다면 AI 브리핑은 검색어의 의미를 파악해 필요한 정보를 먼저 내놓는다. 이용자가 여러 검색 결과를 일일이 살펴보거나 상세 페이지를 오가야 했던 번거로움을 줄이는 데 초점을 맞췄다."
-          },
-          {
-            "t": "p",
-            "x": "특정 도서를 검색하면 그 책의 핵심 내용과 특징을 요약해 보여준다. 작가 이름을 넣으면 대표 도서가 검색 결과 상단에 뜬다. 일치하는 결과를 나열하는 데 그치지 않고 이용자가 원하는 정보의 성격에 따라 결과를 달리 구성하는 셈이다."
-          },
-          {
-            "t": "p",
-            "x": "검색에서 독서로 넘어가는 기능도 강화했다. 도서나 작가를 검색하면 '바로 읽기'와 '내 서재 담기' 기능이 함께 뜬다. 도서 상세 페이지로 따로 이동하지 않고도 책을 펼치거나 나중에 읽을 도서를 보관할 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "새로운 도서를 발견하도록 연관 추천 기능도 붙였다. 검색 결과 하단에는 입력한 검색어와 관련된 다른 책들이 함께 표시된다. 이용자는 처음 찾으려던 도서뿐 아니라 비슷한 관심 분야의 책도 둘러볼 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "이번 서비스는 밀리의서재가 그동안 추진해 온 AI 기반 독서 기능 확대의 연장선이다. 밀리의서재는 앞서 AI 챗봇과 대화하며 책 내용을 묻고 관련 원문 페이지로 이동하는 'AI 독파밍'을 선보였다. 지난 3월에는 북이십일과 다산북스의 도서 500종을 AI 독파밍 대상에 추가해 이용 가능한 콘텐츠를 늘렸다."
+            "x": "딥시크는 2024년 3월 ‘딥시크-VL’ 보고서에서 해적 도서 사이트 ‘안나의 아카이브’에서 확보한 영어 전자책 86만 권과 중국어 전자책 18만 권을 학습에 썼다고 밝혔다. 주재걸 카이스트 AI대학원 교수는 “해적판 도서를 AI 학습 데이터로 쓴다는 건 AI 업계에선 많이 알려진 내용”이라고 말했다."
           }
         ]
       },
       "text": {
         "ko": {
-          "headline": "밀리의서재, 검색에\nAI 브리핑 도입",
-          "body": "밀리의서재가 검색 결과에 도서 요약을 띄워 독서로 잇는 AI 브리핑을 도입했다.",
-          "mini_headline": "밀리의서재 AI 브리핑",
+          "headline": "화웨이도 한강·황석영 책\n무단으로 내려받았다",
+          "body": "화웨이 '판구 시그마' 학습 데이터셋에 한강·황석영 책 해적판이 들어 있었다.",
+          "mini_headline": "화웨이도 한국 책 무단 다운",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
-                "cap": "[사진=KT 밀리의서재]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+                "cap": "중국 인공지능(AI) 스타트업 딥시크(DeepSeek) 로고. 로이터=연합뉴스"
               },
               {
                 "t": "p",
-                "x": "KT 밀리의서재가 인공지능(AI)으로 책을 찾는 순간부터 실제로 읽기까지의 단계를 줄인다. 검색 결과에서 도서의 핵심 내용을 확인한 뒤 상세 페이지를 따로 거치지 않고 바로 책을 읽거나 관심 도서를 보관하도록 검색 기능을 개선했다."
+                "x": "미국 AI 기업 앤트로픽에 이어 중국 AI 기업도 한강·황석영 등의 책을 무단으로 다운로드한 것으로 21일 확인됐다. 화웨이는 2023년 3월 arXiv에 공개한 AI 모델 ‘판구 시그마(Σ)’ 기술보고서에서 영어 텍스트로 ‘더 파일(The Pile)’ 등을 썼다고 명시했다."
               },
               {
                 "t": "p",
-                "x": "20일 정보기술(IT)업계에 따르면 밀리의서재는 이용자의 검색 의도를 분석해 도서 정보를 보여주는 'AI 브리핑' 서비스를 도입한다. 검색어가 책 제목인지, 작가인지, 특정 주제인지 판단해 그에 맞는 정보를 검색 결과 상단에 띄우는 방식이다."
+                "x": "‘더 파일’에는 앤트로픽도 무단 다운로드한 해적판 전자책 모음 ‘북스3(Books3)’가 포함돼 있고, 북스3에는 한강의 『소년이 온다』·『채식주의자』, 황석영의 『바리데기』 등 한국 작가 영어 번역본이 최소 19종(작가 10명) 들어 있다. 다만 화웨이 등이 내려받은 소설을 전부 학습했는지는 확인할 수 없다."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
+                "cap": "지난 7월 17일 중국 상하이에서 열린 세계 인공지능(AI) 컨퍼런스(WAIC)에서 화웨이 로고. 로이터=연합뉴스"
               },
               {
                 "t": "p",
-                "x": "기존 검색이 도서명 등에 들어간 단어를 중심으로 결과를 보여줬다면 AI 브리핑은 검색어의 의미를 파악해 필요한 정보를 먼저 내놓는다. 이용자가 여러 검색 결과를 일일이 살펴보거나 상세 페이지를 오가야 했던 번거로움을 줄이는 데 초점을 맞췄다."
-              },
-              {
-                "t": "p",
-                "x": "특정 도서를 검색하면 그 책의 핵심 내용과 특징을 요약해 보여준다. 작가 이름을 넣으면 대표 도서가 검색 결과 상단에 뜬다. 일치하는 결과를 나열하는 데 그치지 않고 이용자가 원하는 정보의 성격에 따라 결과를 달리 구성하는 셈이다."
-              },
-              {
-                "t": "p",
-                "x": "검색에서 독서로 넘어가는 기능도 강화했다. 도서나 작가를 검색하면 '바로 읽기'와 '내 서재 담기' 기능이 함께 뜬다. 도서 상세 페이지로 따로 이동하지 않고도 책을 펼치거나 나중에 읽을 도서를 보관할 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "새로운 도서를 발견하도록 연관 추천 기능도 붙였다. 검색 결과 하단에는 입력한 검색어와 관련된 다른 책들이 함께 표시된다. 이용자는 처음 찾으려던 도서뿐 아니라 비슷한 관심 분야의 책도 둘러볼 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "이번 서비스는 밀리의서재가 그동안 추진해 온 AI 기반 독서 기능 확대의 연장선이다. 밀리의서재는 앞서 AI 챗봇과 대화하며 책 내용을 묻고 관련 원문 페이지로 이동하는 'AI 독파밍'을 선보였다. 지난 3월에는 북이십일과 다산북스의 도서 500종을 AI 독파밍 대상에 추가해 이용 가능한 콘텐츠를 늘렸다."
+                "x": "딥시크는 2024년 3월 ‘딥시크-VL’ 보고서에서 해적 도서 사이트 ‘안나의 아카이브’에서 확보한 영어 전자책 86만 권과 중국어 전자책 18만 권을 학습에 썼다고 밝혔다. 주재걸 카이스트 AI대학원 교수는 “해적판 도서를 AI 학습 데이터로 쓴다는 건 AI 업계에선 많이 알려진 내용”이라고 말했다."
               }
             ]
           }
         },
         "en": {
-          "headline": "Millie's Library adds AI\nbriefings to search",
-          "body": "Millie's Library added AI briefings that show book summaries in search results and link users straight to reading.",
-          "mini_headline": "Millie's Library AI briefing",
+          "headline": "Huawei also downloaded books\nby Han Kang, Hwang Sok-yong",
+          "body": "Pirated books by Han Kang and Hwang Sok-yong were in the training data for Huawei's PanGu-Σ model.",
+          "mini_headline": "Huawei also took Korean books",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
-                "cap": "[Photo=KT Millie's Library]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+                "cap": "Logo of Chinese artificial intelligence (AI) startup DeepSeek. Reuters=Yonhap News"
               },
               {
                 "t": "p",
-                "x": "KT Millie's Library is using artificial intelligence (AI) to cut the steps between finding a book and actually reading it. It has improved its search so users can check a book's key content in the results and start reading right away, or save titles they are interested in, without going through a separate detail page."
+                "x": "Following American AI company Anthropic, Chinese AI companies were also confirmed on the 21st to have downloaded books by Han Kang, Hwang Sok-yong and others without permission. In the technical report for its AI model ‘PanGu-Σ’, posted to arXiv in March 2023, Huawei stated that it used ‘The Pile’ and other sources for English text."
               },
               {
                 "t": "p",
-                "x": "According to the information technology (IT) industry on the 20th, Millie's Library is introducing an 'AI Briefing' service that analyzes users' search intent to provide book-related information. It determines whether a query is a book title, an author or a specific topic, and shows matching information at the top of the search results."
+                "x": "‘The Pile’ includes ‘Books3’, a collection of pirated e-books that Anthropic also downloaded without permission, and Books3 contains at least 19 English translations of Korean writers (10 authors), including Han Kang’s Human Acts and The Vegetarian and Hwang Sok-yong’s Princess Bari. It cannot be confirmed, however, whether Huawei and the others trained on every novel they downloaded."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
+                "cap": "The Huawei logo at the World Artificial Intelligence Conference (WAIC) in Shanghai, China, on July 17. Reuters=Yonhap News"
               },
               {
                 "t": "p",
-                "x": "Where the previous search returned results centered on words contained in book titles and the like, AI Briefing grasps the meaning of the query and presents the needed information first. The focus is on reducing the need for users to go through multiple results one by one or move back and forth between detail pages."
-              },
-              {
-                "t": "p",
-                "x": "Specifically, searching for a particular book shows a summary of its key content and features. Entering an author's name brings up their representative books at the top of the results. Rather than simply listing matching results, it arranges the results differently depending on the kind of information the user wants."
-              },
-              {
-                "t": "p",
-                "x": "It has also strengthened the path from search to reading. Searching for a book or author brings up 'Read Now' and 'Add to My Library' options. Users can open a book or save titles to read later without moving to a separate book detail page."
-              },
-              {
-                "t": "p",
-                "x": "A related-recommendation feature has been added to help users discover new books. Other books related to the search term appear at the bottom of the results, so users can look through not only the book they first wanted but also books in similar areas of interest."
-              },
-              {
-                "t": "p",
-                "x": "The launch extends Millie's Library's ongoing expansion of AI-based reading features. It earlier introduced 'AI Dokpaming,' which lets users ask an AI chatbot about a book's content and jump to the relevant original page. In March, it widened the available content by adding 500 titles from Book21 and Dasan Books to AI Dokpaming."
+                "x": "In its ‘DeepSeek-VL’ report in March 2024, DeepSeek said it used 86만 English e-books and 18만 Chinese e-books obtained from the pirate book site ‘Anna’s Archive’ for training. Jaegul Choo, a professor at the KAIST Graduate School of AI, said, “Using pirated books as AI training data is widely known in the AI industry.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ミリの書斎、検索に\nAIブリーフィング導入",
-          "body": "ミリの書斎は、検索結果に本の要約を表示し読書へつなぐAIブリーフィングを導入した。",
-          "mini_headline": "ミリの書斎のAIブリーフィング",
+          "headline": "ファーウェイも韓江らの\n本を無断ダウンロード",
+          "body": "ファーウェイ「PanGu-Σ」の学習データに韓江・黄晳暎の本の海賊版が含まれていた。",
+          "mini_headline": "ファーウェイも韓国の本を無断入手",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
-                "cap": "[写真=KT ミリの書斎]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+                "cap": "中国の人工知能(AI)スタートアップ、DeepSeekのロゴ。ロイター=聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "KT ミリの書斎が人工知能(AI)を活用し、本を探す段階から実際に読むまでの手順を減らす。検索結果で本の要点を確認し、別の詳細ページを経ずにすぐ読み始めたり、気になる本を保存したりできるよう検索機能を改善した。"
+                "x": "米AI企業Anthropicに続き、中国のAI企業も韓江(ハン・ガン)や黄晳暎(ファン・ソギョン)らの本を無断でダウンロードしていたことが21日わかった。ファーウェイは2023年3月にarXivで公開したAIモデル「PanGu-Σ」の技術報告書で、英語テキストとして「The Pile」などを使ったと明記している。"
               },
               {
                 "t": "p",
-                "x": "20日の情報技術(IT)業界によると、ミリの書斎は利用者の検索意図を分析して本に関する情報を提供する「AIブリーフィング」サービスを導入する。検索語が書名・作家・特定のテーマなどのどれに当たるかを判断し、それに合った情報を検索結果の上部に表示する仕組みだ。"
+                "x": "「The Pile」にはAnthropicも無断でダウンロードした海賊版電子書籍集「Books3」が含まれ、Books3には韓江の『少年が来る』『菜食主義者』、黄晳暎の『パリデギ』など韓国作家の英訳本が少なくとも19点(作家10人)入っている。ただし、ファーウェイなどがダウンロードした小説をすべて学習に使ったかどうかは確認できない。"
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
+                "cap": "7月17日、中国・上海で開かれた世界人工知能会議(WAIC)でのファーウェイのロゴ。ロイター=聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "従来の検索が書名などに含まれる単語を中心に結果を示していたのに対し、AIブリーフィングは検索語の意味を把握して必要な情報を優先的に提示する。利用者が複数の検索結果を一つずつ確かめたり、詳細ページを行き来したりする手間を減らすことに重点を置いた。"
-              },
-              {
-                "t": "p",
-                "x": "具体的には、特定の本を検索するとその本の要点と特徴を要約して示す。作家名を入力した場合は、代表作を検索結果の上部で確認できる。一致する結果を並べるだけでなく、利用者が求める情報の性質に応じて結果の構成を変えるわけだ。"
-              },
-              {
-                "t": "p",
-                "x": "検索から読書へつなぐ機能も強化した。本や作家を検索すると「すぐ読む」と「マイ書斎に追加」の機能が併せて表示される。別の詳細ページに移動せずに本を開いたり、後で読む本を保存したりできる。"
-              },
-              {
-                "t": "p",
-                "x": "新しい本に出会えるよう、関連おすすめ機能も組み合わせた。検索結果の下部には、入力した検索語に関連する別の本も表示される。利用者は最初に探していた本だけでなく、近い関心分野の本も見て回れる。"
-              },
-              {
-                "t": "p",
-                "x": "今回の導入は、ミリの書斎がこれまで進めてきたAI読書機能拡大の延長線上にある。ミリの書斎は先に、AIチャットボットと対話しながら本の内容を質問し、該当する原文ページへ移動できる「AIトクパミング」を公開した。3月にはBook21とダサンブックスの本500点をAIトクパミングの対象に加え、利用できるコンテンツを広げた。"
+                "x": "DeepSeekは2024年3月の「DeepSeek-VL」報告書で、海賊版書籍サイト「Anna’s Archive」から入手した英語の電子書籍86万冊と中国語の電子書籍18万冊を学習に使ったと明らかにした。KAIST AI大学院のチュ・ジェゴル教授は「海賊版の書籍をAIの学習データに使うことは、AI業界ではよく知られた話だ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "米莉书房在搜索中\n引入AI简报功能",
-          "body": "米莉书房在搜索结果中显示图书摘要并衔接阅读，推出了AI简报功能。",
-          "mini_headline": "米莉书房AI简报",
+          "headline": "华为也擅自下载了\n韩江、黄晳暎的书",
+          "body": "华为“盘古Σ”训练数据集中含有韩江、黄晳暎作品的盗版电子书。",
+          "mini_headline": "华为也擅自下载韩国图书",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
-                "cap": "[图片=KT 米莉书房]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+                "cap": "中国人工智能(AI)初创公司DeepSeek的标志。路透社=韩联社"
               },
               {
                 "t": "p",
-                "x": "KT米莉书房借助人工智能（AI），缩短从找书到真正阅读之间的步骤。其改进了搜索功能，用户可在搜索结果中查看图书的核心内容，无需进入单独的详情页即可直接阅读或收藏感兴趣的图书。"
+                "x": "继美国AI企业Anthropic之后，21日证实中国AI企业也擅自下载了韩江、黄晳暎等作家的书。华为在2023年3月于arXiv发布的AI模型“盘古Σ”技术报告中明确写道，其英文文本使用了“The Pile”等数据。"
               },
               {
                 "t": "p",
-                "x": "据信息技术（IT）业界20日消息，米莉书房将推出“AI简报”服务，通过分析用户的搜索意图提供图书相关信息。该服务会判断搜索词是书名、作者还是特定主题等，并在搜索结果顶部显示相应信息。"
+                "x": "“The Pile”中包含Anthropic也曾擅自下载的盗版电子书合集“Books3”，而Books3里有韩江的《少年来了》《素食者》、黄晳暎的《巴里公主》等至少19种韩国作家的英译本（作家10人）。不过，无法确认华为等公司是否用下载的全部小说进行了训练。"
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
+                "cap": "7月17日在中国上海举行的世界人工智能大会(WAIC)上的华为标志。路透社=韩联社"
               },
               {
                 "t": "p",
-                "x": "如果说以往的搜索主要依据书名等所含词语给出结果，那么AI简报则会理解搜索词的含义，优先呈现所需信息。其重点在于减少用户逐一浏览多条搜索结果、在详情页之间来回切换的过程。"
-              },
-              {
-                "t": "p",
-                "x": "具体来说，搜索某本书时，会概括显示该书的核心内容和特点；输入作者姓名时，可在搜索结果顶部看到其代表作。这意味着它不只是罗列匹配的结果，而是根据用户所需信息的性质来组织不同的结果。"
-              },
-              {
-                "t": "p",
-                "x": "从搜索到阅读的衔接功能也得到加强。搜索图书或作者时，会同时提供“立即阅读”和“加入我的书房”功能。用户无需跳转到单独的图书详情页，就能打开书本或收藏稍后要读的书。"
-              },
-              {
-                "t": "p",
-                "x": "为帮助用户发现新书，还结合了相关推荐功能。搜索结果底部会一并显示与输入搜索词相关的其他图书。用户不仅能看到最初想找的书，也能浏览相近兴趣领域的书。"
-              },
-              {
-                "t": "p",
-                "x": "此次推出的服务，是米莉书房持续扩大AI阅读功能的延续。此前，米莉书房推出了“AI读破明”，用户可与AI聊天机器人对话、就书中内容提问，并跳转到相关原文页面。今年3月，米莉书房将Book21和多山图书的500种图书纳入AI读破明，扩大了可用内容。"
+                "x": "DeepSeek在2024年3月的“DeepSeek-VL”报告中表示，训练使用了从盗版图书网站“Anna’s Archive”获取的86万册英文电子书和18万册中文电子书。KAIST AI研究生院教授Jaegul Choo表示：“用盗版图书作为AI训练数据，在AI业界是众所周知的事。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Millie's Library lleva\nAI Briefing a su buscador",
-          "body": "Millie's Library incorporó AI Briefing, que muestra resúmenes de libros en la búsqueda y lleva a la lectura.",
-          "mini_headline": "AI Briefing de Millie's Library",
+          "headline": "Huawei también descargó libros\nde Han Kang y Hwang Sok-yong",
+          "body": "Ediciones piratas de libros de Han Kang y Hwang Sok-yong estaban en los datos de entrenamiento de PanGu-Σ, de Huawei.",
+          "mini_headline": "Huawei también tomó libros coreanos",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
-                "cap": "[Foto=KT Millie's Library]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+                "cap": "Logotipo de la startup china de inteligencia artificial (AI) DeepSeek. Reuters=Yonhap"
               },
               {
                 "t": "p",
-                "x": "KT Millie's Library usa la inteligencia artificial (AI) para reducir los pasos entre buscar un libro y leerlo. Mejoró su buscador para que los usuarios vean el contenido clave de un libro en los resultados y puedan leerlo de inmediato o guardar los títulos que les interesan sin pasar por una página de detalle aparte."
+                "x": "Tras la empresa estadounidense de AI Anthropic, se confirmó el día 21 que también empresas chinas de AI descargaron sin permiso libros de Han Kang, Hwang Sok-yong y otros autores. En el informe técnico de su modelo de AI ‘PanGu-Σ’, publicado en arXiv en marzo de 2023, Huawei indicó que usó ‘The Pile’, entre otras fuentes, como texto en inglés."
               },
               {
                 "t": "p",
-                "x": "Según el sector de tecnologías de la información (IT) el día 20, Millie's Library introduce el servicio 'AI Briefing', que analiza la intención de búsqueda del usuario para ofrecer información sobre libros. Determina si la consulta es un título, un autor o un tema concreto y muestra la información correspondiente en la parte superior de los resultados."
+                "x": "‘The Pile’ incluye ‘Books3’, una colección de libros electrónicos piratas que Anthropic también descargó sin permiso, y Books3 contiene al menos 19 traducciones al inglés de escritores coreanos (10 autores), entre ellas Actos humanos y La vegetariana, de Han Kang, y La princesa Bari, de Hwang Sok-yong. Sin embargo, no puede confirmarse si Huawei y las demás empresas entrenaron con todas las novelas que descargaron."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
+                "cap": "Logotipo de Huawei en la Conferencia Mundial de Inteligencia Artificial (WAIC), celebrada en Shanghái, China, el 17 de julio. Reuters=Yonhap"
               },
               {
                 "t": "p",
-                "x": "Si la búsqueda anterior ofrecía resultados centrados en las palabras contenidas en los títulos, AI Briefing capta el significado de la consulta y presenta primero la información necesaria. El objetivo es reducir el proceso de revisar uno a uno varios resultados o ir y venir entre páginas de detalle."
-              },
-              {
-                "t": "p",
-                "x": "En concreto, al buscar un libro determinado se muestra un resumen de su contenido clave y sus características. Al introducir el nombre de un autor, sus libros más representativos aparecen en la parte superior de los resultados. En lugar de limitarse a listar coincidencias, organiza los resultados según el tipo de información que busca el usuario."
-              },
-              {
-                "t": "p",
-                "x": "También reforzó el paso de la búsqueda a la lectura. Al buscar un libro o un autor aparecen las funciones 'Leer ahora' y 'Añadir a mi biblioteca'. Se puede abrir un libro o guardar títulos para más tarde sin ir a una página de detalle aparte."
-              },
-              {
-                "t": "p",
-                "x": "Para facilitar el descubrimiento de libros nuevos, se añadió una función de recomendaciones relacionadas. En la parte inferior de los resultados aparecen otros libros vinculados al término buscado, de modo que el usuario puede explorar no solo el libro que buscaba sino también obras de intereses afines."
-              },
-              {
-                "t": "p",
-                "x": "El lanzamiento continúa la ampliación de funciones de lectura basadas en AI que Millie's Library ha impulsado. Antes presentó 'AI Dokpaming', que permite preguntar a un chatbot de AI sobre el contenido de un libro e ir a la página original correspondiente. En marzo amplió el contenido disponible al añadir a AI Dokpaming 500 títulos de Book21 y Dasan Books."
+                "x": "En su informe ‘DeepSeek-VL’ de marzo de 2024, DeepSeek indicó que usó para el entrenamiento 86만 libros electrónicos en inglés y 18만 en chino obtenidos del sitio de libros piratas ‘Anna’s Archive’. Jaegul Choo, profesor de la Escuela de Posgrado de AI de KAIST, afirmó: “Que se usen libros piratas como datos de entrenamiento de AI es algo muy conocido en la industria de la AI”."
               }
             ]
           }
@@ -1087,173 +839,129 @@
       },
       "_i18n_passed": {
         "en": {
-          "headline": "Millie's Library adds AI\nbriefings to search",
-          "body": "Millie's Library added AI briefings that show book summaries in search results and link users straight to reading.",
-          "mini_headline": "Millie's Library AI briefing",
+          "headline": "Huawei also downloaded books\nby Han Kang, Hwang Sok-yong",
+          "body": "Pirated books by Han Kang and Hwang Sok-yong were in the training data for Huawei's PanGu-Σ model.",
+          "mini_headline": "Huawei also took Korean books",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
-                "cap": "[Photo=KT Millie's Library]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+                "cap": "Logo of Chinese artificial intelligence (AI) startup DeepSeek. Reuters=Yonhap News"
               },
               {
                 "t": "p",
-                "x": "KT Millie's Library is using artificial intelligence (AI) to cut the steps between finding a book and actually reading it. It has improved its search so users can check a book's key content in the results and start reading right away, or save titles they are interested in, without going through a separate detail page."
+                "x": "Following American AI company Anthropic, Chinese AI companies were also confirmed on the 21st to have downloaded books by Han Kang, Hwang Sok-yong and others without permission. In the technical report for its AI model ‘PanGu-Σ’, posted to arXiv in March 2023, Huawei stated that it used ‘The Pile’ and other sources for English text."
               },
               {
                 "t": "p",
-                "x": "According to the information technology (IT) industry on the 20th, Millie's Library is introducing an 'AI Briefing' service that analyzes users' search intent to provide book-related information. It determines whether a query is a book title, an author or a specific topic, and shows matching information at the top of the search results."
+                "x": "‘The Pile’ includes ‘Books3’, a collection of pirated e-books that Anthropic also downloaded without permission, and Books3 contains at least 19 English translations of Korean writers (10 authors), including Han Kang’s Human Acts and The Vegetarian and Hwang Sok-yong’s Princess Bari. It cannot be confirmed, however, whether Huawei and the others trained on every novel they downloaded."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
+                "cap": "The Huawei logo at the World Artificial Intelligence Conference (WAIC) in Shanghai, China, on July 17. Reuters=Yonhap News"
               },
               {
                 "t": "p",
-                "x": "Where the previous search returned results centered on words contained in book titles and the like, AI Briefing grasps the meaning of the query and presents the needed information first. The focus is on reducing the need for users to go through multiple results one by one or move back and forth between detail pages."
-              },
-              {
-                "t": "p",
-                "x": "Specifically, searching for a particular book shows a summary of its key content and features. Entering an author's name brings up their representative books at the top of the results. Rather than simply listing matching results, it arranges the results differently depending on the kind of information the user wants."
-              },
-              {
-                "t": "p",
-                "x": "It has also strengthened the path from search to reading. Searching for a book or author brings up 'Read Now' and 'Add to My Library' options. Users can open a book or save titles to read later without moving to a separate book detail page."
-              },
-              {
-                "t": "p",
-                "x": "A related-recommendation feature has been added to help users discover new books. Other books related to the search term appear at the bottom of the results, so users can look through not only the book they first wanted but also books in similar areas of interest."
-              },
-              {
-                "t": "p",
-                "x": "The launch extends Millie's Library's ongoing expansion of AI-based reading features. It earlier introduced 'AI Dokpaming,' which lets users ask an AI chatbot about a book's content and jump to the relevant original page. In March, it widened the available content by adding 500 titles from Book21 and Dasan Books to AI Dokpaming."
+                "x": "In its ‘DeepSeek-VL’ report in March 2024, DeepSeek said it used 86만 English e-books and 18만 Chinese e-books obtained from the pirate book site ‘Anna’s Archive’ for training. Jaegul Choo, a professor at the KAIST Graduate School of AI, said, “Using pirated books as AI training data is widely known in the AI industry.”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "ミリの書斎、検索に\nAIブリーフィング導入",
-          "body": "ミリの書斎は、検索結果に本の要約を表示し読書へつなぐAIブリーフィングを導入した。",
-          "mini_headline": "ミリの書斎のAIブリーフィング",
+          "headline": "ファーウェイも韓江らの\n本を無断ダウンロード",
+          "body": "ファーウェイ「PanGu-Σ」の学習データに韓江・黄晳暎の本の海賊版が含まれていた。",
+          "mini_headline": "ファーウェイも韓国の本を無断入手",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
-                "cap": "[写真=KT ミリの書斎]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+                "cap": "中国の人工知能(AI)スタートアップ、DeepSeekのロゴ。ロイター=聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "KT ミリの書斎が人工知能(AI)を活用し、本を探す段階から実際に読むまでの手順を減らす。検索結果で本の要点を確認し、別の詳細ページを経ずにすぐ読み始めたり、気になる本を保存したりできるよう検索機能を改善した。"
+                "x": "米AI企業Anthropicに続き、中国のAI企業も韓江(ハン・ガン)や黄晳暎(ファン・ソギョン)らの本を無断でダウンロードしていたことが21日わかった。ファーウェイは2023年3月にarXivで公開したAIモデル「PanGu-Σ」の技術報告書で、英語テキストとして「The Pile」などを使ったと明記している。"
               },
               {
                 "t": "p",
-                "x": "20日の情報技術(IT)業界によると、ミリの書斎は利用者の検索意図を分析して本に関する情報を提供する「AIブリーフィング」サービスを導入する。検索語が書名・作家・特定のテーマなどのどれに当たるかを判断し、それに合った情報を検索結果の上部に表示する仕組みだ。"
+                "x": "「The Pile」にはAnthropicも無断でダウンロードした海賊版電子書籍集「Books3」が含まれ、Books3には韓江の『少年が来る』『菜食主義者』、黄晳暎の『パリデギ』など韓国作家の英訳本が少なくとも19点(作家10人)入っている。ただし、ファーウェイなどがダウンロードした小説をすべて学習に使ったかどうかは確認できない。"
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
+                "cap": "7月17日、中国・上海で開かれた世界人工知能会議(WAIC)でのファーウェイのロゴ。ロイター=聯合ニュース"
               },
               {
                 "t": "p",
-                "x": "従来の検索が書名などに含まれる単語を中心に結果を示していたのに対し、AIブリーフィングは検索語の意味を把握して必要な情報を優先的に提示する。利用者が複数の検索結果を一つずつ確かめたり、詳細ページを行き来したりする手間を減らすことに重点を置いた。"
-              },
-              {
-                "t": "p",
-                "x": "具体的には、特定の本を検索するとその本の要点と特徴を要約して示す。作家名を入力した場合は、代表作を検索結果の上部で確認できる。一致する結果を並べるだけでなく、利用者が求める情報の性質に応じて結果の構成を変えるわけだ。"
-              },
-              {
-                "t": "p",
-                "x": "検索から読書へつなぐ機能も強化した。本や作家を検索すると「すぐ読む」と「マイ書斎に追加」の機能が併せて表示される。別の詳細ページに移動せずに本を開いたり、後で読む本を保存したりできる。"
-              },
-              {
-                "t": "p",
-                "x": "新しい本に出会えるよう、関連おすすめ機能も組み合わせた。検索結果の下部には、入力した検索語に関連する別の本も表示される。利用者は最初に探していた本だけでなく、近い関心分野の本も見て回れる。"
-              },
-              {
-                "t": "p",
-                "x": "今回の導入は、ミリの書斎がこれまで進めてきたAI読書機能拡大の延長線上にある。ミリの書斎は先に、AIチャットボットと対話しながら本の内容を質問し、該当する原文ページへ移動できる「AIトクパミング」を公開した。3月にはBook21とダサンブックスの本500点をAIトクパミングの対象に加え、利用できるコンテンツを広げた。"
+                "x": "DeepSeekは2024年3月の「DeepSeek-VL」報告書で、海賊版書籍サイト「Anna’s Archive」から入手した英語の電子書籍86万冊と中国語の電子書籍18万冊を学習に使ったと明らかにした。KAIST AI大学院のチュ・ジェゴル教授は「海賊版の書籍をAIの学習データに使うことは、AI業界ではよく知られた話だ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "米莉书房在搜索中\n引入AI简报功能",
-          "body": "米莉书房在搜索结果中显示图书摘要并衔接阅读，推出了AI简报功能。",
-          "mini_headline": "米莉书房AI简报",
+          "headline": "华为也擅自下载了\n韩江、黄晳暎的书",
+          "body": "华为“盘古Σ”训练数据集中含有韩江、黄晳暎作品的盗版电子书。",
+          "mini_headline": "华为也擅自下载韩国图书",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
-                "cap": "[图片=KT 米莉书房]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+                "cap": "中国人工智能(AI)初创公司DeepSeek的标志。路透社=韩联社"
               },
               {
                 "t": "p",
-                "x": "KT米莉书房借助人工智能（AI），缩短从找书到真正阅读之间的步骤。其改进了搜索功能，用户可在搜索结果中查看图书的核心内容，无需进入单独的详情页即可直接阅读或收藏感兴趣的图书。"
+                "x": "继美国AI企业Anthropic之后，21日证实中国AI企业也擅自下载了韩江、黄晳暎等作家的书。华为在2023年3月于arXiv发布的AI模型“盘古Σ”技术报告中明确写道，其英文文本使用了“The Pile”等数据。"
               },
               {
                 "t": "p",
-                "x": "据信息技术（IT）业界20日消息，米莉书房将推出“AI简报”服务，通过分析用户的搜索意图提供图书相关信息。该服务会判断搜索词是书名、作者还是特定主题等，并在搜索结果顶部显示相应信息。"
+                "x": "“The Pile”中包含Anthropic也曾擅自下载的盗版电子书合集“Books3”，而Books3里有韩江的《少年来了》《素食者》、黄晳暎的《巴里公主》等至少19种韩国作家的英译本（作家10人）。不过，无法确认华为等公司是否用下载的全部小说进行了训练。"
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
+                "cap": "7月17日在中国上海举行的世界人工智能大会(WAIC)上的华为标志。路透社=韩联社"
               },
               {
                 "t": "p",
-                "x": "如果说以往的搜索主要依据书名等所含词语给出结果，那么AI简报则会理解搜索词的含义，优先呈现所需信息。其重点在于减少用户逐一浏览多条搜索结果、在详情页之间来回切换的过程。"
-              },
-              {
-                "t": "p",
-                "x": "具体来说，搜索某本书时，会概括显示该书的核心内容和特点；输入作者姓名时，可在搜索结果顶部看到其代表作。这意味着它不只是罗列匹配的结果，而是根据用户所需信息的性质来组织不同的结果。"
-              },
-              {
-                "t": "p",
-                "x": "从搜索到阅读的衔接功能也得到加强。搜索图书或作者时，会同时提供“立即阅读”和“加入我的书房”功能。用户无需跳转到单独的图书详情页，就能打开书本或收藏稍后要读的书。"
-              },
-              {
-                "t": "p",
-                "x": "为帮助用户发现新书，还结合了相关推荐功能。搜索结果底部会一并显示与输入搜索词相关的其他图书。用户不仅能看到最初想找的书，也能浏览相近兴趣领域的书。"
-              },
-              {
-                "t": "p",
-                "x": "此次推出的服务，是米莉书房持续扩大AI阅读功能的延续。此前，米莉书房推出了“AI读破明”，用户可与AI聊天机器人对话、就书中内容提问，并跳转到相关原文页面。今年3月，米莉书房将Book21和多山图书的500种图书纳入AI读破明，扩大了可用内容。"
+                "x": "DeepSeek在2024年3月的“DeepSeek-VL”报告中表示，训练使用了从盗版图书网站“Anna’s Archive”获取的86万册英文电子书和18万册中文电子书。KAIST AI研究生院教授Jaegul Choo表示：“用盗版图书作为AI训练数据，在AI业界是众所周知的事。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Millie's Library lleva\nAI Briefing a su buscador",
-          "body": "Millie's Library incorporó AI Briefing, que muestra resúmenes de libros en la búsqueda y lleva a la lectura.",
-          "mini_headline": "AI Briefing de Millie's Library",
+          "headline": "Huawei también descargó libros\nde Han Kang y Hwang Sok-yong",
+          "body": "Ediciones piratas de libros de Han Kang y Hwang Sok-yong estaban en los datos de entrenamiento de PanGu-Σ, de Huawei.",
+          "mini_headline": "Huawei también tomó libros coreanos",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
-                "cap": "[Foto=KT Millie's Library]"
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+                "cap": "Logotipo de la startup china de inteligencia artificial (AI) DeepSeek. Reuters=Yonhap"
               },
               {
                 "t": "p",
-                "x": "KT Millie's Library usa la inteligencia artificial (AI) para reducir los pasos entre buscar un libro y leerlo. Mejoró su buscador para que los usuarios vean el contenido clave de un libro en los resultados y puedan leerlo de inmediato o guardar los títulos que les interesan sin pasar por una página de detalle aparte."
+                "x": "Tras la empresa estadounidense de AI Anthropic, se confirmó el día 21 que también empresas chinas de AI descargaron sin permiso libros de Han Kang, Hwang Sok-yong y otros autores. En el informe técnico de su modelo de AI ‘PanGu-Σ’, publicado en arXiv en marzo de 2023, Huawei indicó que usó ‘The Pile’, entre otras fuentes, como texto en inglés."
               },
               {
                 "t": "p",
-                "x": "Según el sector de tecnologías de la información (IT) el día 20, Millie's Library introduce el servicio 'AI Briefing', que analiza la intención de búsqueda del usuario para ofrecer información sobre libros. Determina si la consulta es un título, un autor o un tema concreto y muestra la información correspondiente en la parte superior de los resultados."
+                "x": "‘The Pile’ incluye ‘Books3’, una colección de libros electrónicos piratas que Anthropic también descargó sin permiso, y Books3 contiene al menos 19 traducciones al inglés de escritores coreanos (10 autores), entre ellas Actos humanos y La vegetariana, de Han Kang, y La princesa Bari, de Hwang Sok-yong. Sin embargo, no puede confirmarse si Huawei y las demás empresas entrenaron con todas las novelas que descargaron."
+              },
+              {
+                "t": "img",
+                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
+                "cap": "Logotipo de Huawei en la Conferencia Mundial de Inteligencia Artificial (WAIC), celebrada en Shanghái, China, el 17 de julio. Reuters=Yonhap"
               },
               {
                 "t": "p",
-                "x": "Si la búsqueda anterior ofrecía resultados centrados en las palabras contenidas en los títulos, AI Briefing capta el significado de la consulta y presenta primero la información necesaria. El objetivo es reducir el proceso de revisar uno a uno varios resultados o ir y venir entre páginas de detalle."
-              },
-              {
-                "t": "p",
-                "x": "En concreto, al buscar un libro determinado se muestra un resumen de su contenido clave y sus características. Al introducir el nombre de un autor, sus libros más representativos aparecen en la parte superior de los resultados. En lugar de limitarse a listar coincidencias, organiza los resultados según el tipo de información que busca el usuario."
-              },
-              {
-                "t": "p",
-                "x": "También reforzó el paso de la búsqueda a la lectura. Al buscar un libro o un autor aparecen las funciones 'Leer ahora' y 'Añadir a mi biblioteca'. Se puede abrir un libro o guardar títulos para más tarde sin ir a una página de detalle aparte."
-              },
-              {
-                "t": "p",
-                "x": "Para facilitar el descubrimiento de libros nuevos, se añadió una función de recomendaciones relacionadas. En la parte inferior de los resultados aparecen otros libros vinculados al término buscado, de modo que el usuario puede explorar no solo el libro que buscaba sino también obras de intereses afines."
-              },
-              {
-                "t": "p",
-                "x": "El lanzamiento continúa la ampliación de funciones de lectura basadas en AI que Millie's Library ha impulsado. Antes presentó 'AI Dokpaming', que permite preguntar a un chatbot de AI sobre el contenido de un libro e ir a la página original correspondiente. En marzo amplió el contenido disponible al añadir a AI Dokpaming 500 títulos de Book21 y Dasan Books."
+                "x": "En su informe ‘DeepSeek-VL’ de marzo de 2024, DeepSeek indicó que usó para el entrenamiento 86만 libros electrónicos en inglés y 18만 en chino obtenidos del sitio de libros piratas ‘Anna’s Archive’. Jaegul Choo, profesor de la Escuela de Posgrado de AI de KAIST, afirmó: “Que se usen libros piratas como datos de entrenamiento de AI es algo muy conocido en la industria de la AI”."
               }
             ]
           }
@@ -1261,165 +969,171 @@
       }
     },
     {
-      "id": "books-sodalive-webtoon-ai-creators",
+      "id": "books-soa-charter",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "웹툰 캐릭터, 완결 뒤에도\nAI 크리에이터로 활동",
-      "body": "Sodalive가 VoiceOn을 넘어 웹툰 캐릭터를 AI 크리에이터로 만든다.",
-      "mini_headline": "웹툰 주인공이 AI 크리에이터로",
+      "headline": "작가협회(SoA)\n윤리적 AI 헌장 탈퇴",
+      "body": "작가협회가 지난 13일 함께 출범시킨 윤리적 AI 헌장에서 회원 반발로 빠졌다.",
+      "mini_headline": "SoA, AI 헌장 탈퇴",
       "tool": "Books",
-      "source": "Wowtale",
-      "url": "https://en.wowtale.net/2026/10/21/235648/",
-      "accent": "#eb367f",
+      "source": "The Bookseller",
+      "url": "https://www.thebookseller.com/news/society-of-authors-withdraws-from-ethical-ai-charter-after-member-backlash",
+      "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
+            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+            "cap": "Anna Ganley"
           },
           {
             "t": "p",
-            "x": "음성 기반 팬 플랫폼 VoiceOn을 운영하는 한국 콘텐츠테크 기업 Sodalive가 사업 방향을 바꾸고 있다. 완결된 웹툰과 웹소설의 공식 캐릭터를 AI 크리에이터로 만들어 연재가 끝난 뒤에도 팬과 계속 교류하게 하겠다는 것이다. VoiceOn은 2025년 USD 350,000의 매출을 올렸지만 성장이 개별 인간 크리에이터에 지나치게 기댔다."
+            "x": "작가협회(Society of Authors, SoA)가 지난주 출범한 윤리적 AI 헌장(Ethical AI Charter)에서 탈퇴했다. 반발이 일자 Anna Ganley CEO가 생성형 AI를 두고 협회 입장을 정리하는 성명을 냈고, 그 뒤에 내린 결정이다. 회원들은 21일 이메일로 SoA의 탈퇴 소식을 받았다. "
           },
           {
             "t": "p",
-            "x": "회사는 10개 작품, 20개가 넘는 캐릭터의 AI 캐릭터화(AI-characterization) 권리를 확보했고 30곳이 넘는 IP 기업과 논의 중이다. Toyoudream과 함께 Naver Webtoon의 Musa Manri Haeng을 실사풍 AI 드라마로, Kakao Page의 The Legendary Hero Is an Academy Honor Student를 AI 애니메이션으로 공동 제작한다. 배급은 KT Studio Genie와 함께한다."
+            "x": "협회는 13일 발표된 이 헌장을 Creators’ Rights Alliance, Authors Guild, 호주작가협회, 캐나다작가연맹, 뉴질랜드작가협회와 함께 만들었다. 헌장은 그대로 남아 있고 다른 단체는 탈퇴하지 않았다. "
           },
           {
             "t": "p",
-            "x": "IP 보유사가 제작비의 50%를 대고 수익을 나눠 갖는다. 그 뒤 팬들은 공식 캐릭터 채널로 옮겨 가 구독하고 후원하고 구매한다. Sodalive는 2026년 Q4에 USD 456,000 규모의 pre-Series A 투자 유치를 노린다."
+            "x": "회원들은 의견 수렴이 없었던 점과 생성형 AI 사용을 두고 SoA가 내세운 입장을 문제 삼았다. Ganley는 16일 “LLMs가 허락이나 대가 없이 저작물로 학습된 방식 때문에, 생성형 AI의 진정으로 윤리적인 사용이란 결코 있을 수 없다”고 말했다. "
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Webtoon characters live on\nas AI creators at Sodalive",
-          "body": "Sodalive is pivoting from voice app VoiceOn to make official webtoon characters AI creators that outlive their series.",
-          "mini_headline": "Webtoon heroes as AI creators",
+          "headline": "Society of Authors quits\nEthical AI Charter",
+          "body": "The Society of Authors withdrew from the Ethical AI Charter it co-launched on 13 October after a backlash from members.",
+          "mini_headline": "SoA exits AI charter",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "Sodalive, the Korean content-tech company behind the voice-based fan platform VoiceOn, is pivoting to turn official characters from completed webtoons and web novels into AI creators, so they keep interacting with fans after a series ends. VoiceOn made USD 350,000 in 2025, but growth depended too heavily on individual human creators."
+                "x": "The Society of Authors (SoA) has withdrawn from its Ethical AI Charter, launched last week, following backlash and a subsequent statement from CEO Anna Ganley that aimed to clarify the organisation’s position on generative AI. Members were emailed on 21 October and told the SoA would be withdrawing."
               },
               {
                 "t": "p",
-                "x": "The company has secured AI-characterization rights for 10 titles and more than 20 characters and is talking with over 30 IP companies. With Toyoudream it is co-producing a live-action-style AI drama of Naver Webtoon's Musa Manri Haeng and an AI animation of Kakao Page's The Legendary Hero Is an Academy Honor Student, distributed with KT Studio Genie."
+                "x": "The charter, published on 13 October, was created in collaboration with the Creators’ Rights Alliance, the Authors Guild, the Australian Society of Authors, the Writers’ Union of Canada and the New Zealand Society of Authors. It is still live, and no other organisations have withdrawn."
               },
               {
                 "t": "p",
-                "x": "IP holders fund 50% of production and share revenue; fans then move into official character channels for subscriptions, donations and purchases. Sodalive targets a USD 456,000 pre-Series A round in Q4 2026."
+                "x": "Members criticised the lack of consultation and the SoA’s position on generative AI use. On 16 October Ganley said: “There can never be any truly ethical use of generative AI because of the way LLMs have been trained on copyright works without permission or payment.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "웹툰 캐릭터, 완결 뒤에도\nAI 크리에이터로 활동",
-          "body": "Sodalive가 VoiceOn을 넘어 웹툰 캐릭터를 AI 크리에이터로 만든다.",
-          "mini_headline": "웹툰 주인공이 AI 크리에이터로",
+          "headline": "작가협회(SoA)\n윤리적 AI 헌장 탈퇴",
+          "body": "작가협회가 지난 13일 함께 출범시킨 윤리적 AI 헌장에서 회원 반발로 빠졌다.",
+          "mini_headline": "SoA, AI 헌장 탈퇴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "음성 기반 팬 플랫폼 VoiceOn을 운영하는 한국 콘텐츠테크 기업 Sodalive가 사업 방향을 바꾸고 있다. 완결된 웹툰과 웹소설의 공식 캐릭터를 AI 크리에이터로 만들어 연재가 끝난 뒤에도 팬과 계속 교류하게 하겠다는 것이다. VoiceOn은 2025년 USD 350,000의 매출을 올렸지만 성장이 개별 인간 크리에이터에 지나치게 기댔다."
+                "x": "작가협회(Society of Authors, SoA)가 지난주 출범한 윤리적 AI 헌장(Ethical AI Charter)에서 탈퇴했다. 반발이 일자 Anna Ganley CEO가 생성형 AI를 두고 협회 입장을 정리하는 성명을 냈고, 그 뒤에 내린 결정이다. 회원들은 21일 이메일로 SoA의 탈퇴 소식을 받았다. "
               },
               {
                 "t": "p",
-                "x": "회사는 10개 작품, 20개가 넘는 캐릭터의 AI 캐릭터화(AI-characterization) 권리를 확보했고 30곳이 넘는 IP 기업과 논의 중이다. Toyoudream과 함께 Naver Webtoon의 Musa Manri Haeng을 실사풍 AI 드라마로, Kakao Page의 The Legendary Hero Is an Academy Honor Student를 AI 애니메이션으로 공동 제작한다. 배급은 KT Studio Genie와 함께한다."
+                "x": "협회는 13일 발표된 이 헌장을 Creators’ Rights Alliance, Authors Guild, 호주작가협회, 캐나다작가연맹, 뉴질랜드작가협회와 함께 만들었다. 헌장은 그대로 남아 있고 다른 단체는 탈퇴하지 않았다. "
               },
               {
                 "t": "p",
-                "x": "IP 보유사가 제작비의 50%를 대고 수익을 나눠 갖는다. 그 뒤 팬들은 공식 캐릭터 채널로 옮겨 가 구독하고 후원하고 구매한다. Sodalive는 2026년 Q4에 USD 456,000 규모의 pre-Series A 투자 유치를 노린다."
+                "x": "회원들은 의견 수렴이 없었던 점과 생성형 AI 사용을 두고 SoA가 내세운 입장을 문제 삼았다. Ganley는 16일 “LLMs가 허락이나 대가 없이 저작물로 학습된 방식 때문에, 생성형 AI의 진정으로 윤리적인 사용이란 결코 있을 수 없다”고 말했다. "
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウェブトゥーンのキャラ\nAIクリエイターとして存続",
-          "body": "SodaliveはVoiceOnから転換し、ウェブトゥーンのキャラをAIクリエイターにする。",
-          "mini_headline": "ウェブトゥーンの主人公がAIクリエイターに",
+          "headline": "作家協会(SoA)が\n倫理的AI憲章を離脱",
+          "body": "作家協会は会員の反発を受け、13日に共同発足させた倫理的AI憲章から離脱した。",
+          "mini_headline": "SoAがAI憲章を離脱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "音声ベースのファンプラットフォームVoiceOnを運営する韓国のコンテンツテック企業Sodaliveは、完結したウェブトゥーンやウェブ小説の公式キャラクターをAIクリエイターにし、連載終了後もファンと交流し続けられるようにする方向へ事業を転換している。VoiceOnは2025年にUSD 350,000を稼いだが、成長は個々の人間のクリエイターに頼りすぎていた。"
+                "x": "作家協会(Society of Authors、SoA)は、先週発足させた倫理的AI憲章(Ethical AI Charter)から離脱した。反発を受けてAnna Ganley CEOが生成AIに関する協会の立場を説明する声明を出していた。会員には21日にメールで、SoAが離脱すると伝えられた。"
               },
               {
                 "t": "p",
-                "x": "同社は10作品・20体を超えるキャラクターのAI化権(AI-characterization)を確保し、30社を超えるIP企業と協議している。Toyoudreamと組み、Naver WebtoonのMusa Manri Haengの実写風AIドラマと、Kakao PageのThe Legendary Hero Is an Academy Honor StudentのAIアニメを共同制作しており、配給はKT Studio Genieと行う。"
+                "x": "13日に公表された同憲章は、Creators’ Rights Alliance、Authors Guild、オーストラリア作家協会、カナダ作家組合、ニュージーランド作家協会と共同で作成された。憲章は現在も有効で、ほかに離脱した団体はない。"
               },
               {
                 "t": "p",
-                "x": "IP保有者は制作費の50%を負担して収益を分け合う。その後、ファンは公式キャラクターのチャンネルに移り、購読や投げ銭、購入を行う。Sodaliveは2026年Q4にUSD 456,000のpre-Series Aラウンドを目指している。"
+                "x": "会員らは、意見聴取がなかったことや生成AIの利用に関するSoAの立場を批判した。Ganleyは16日、「LLMsが許可も対価もなく著作物で学習されてきた経緯を考えれば、生成AIの真に倫理的な利用はあり得ない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sodalive让网漫角色\n化身AI创作者延续生命",
-          "body": "Sodalive从VoiceOn转型，让官方网漫角色成为连载结束后仍活跃的AI创作者。",
-          "mini_headline": "网漫角色化身AI创作者",
+          "headline": "作家协会(SoA)\n退出伦理AI宪章",
+          "body": "因会员强烈反对，作家协会退出了其于13日共同发起的伦理AI宪章。",
+          "mini_headline": "SoA退出AI宪章",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "运营语音粉丝平台VoiceOn的韩国内容科技公司Sodalive正在转型，把已完结网漫和网络小说的官方角色打造成AI创作者，让它们在作品完结后继续与粉丝互动。VoiceOn在2025年收入USD 350,000，但增长过于依赖个人真人创作者。"
+                "x": "作家协会（Society of Authors，SoA）已退出其上周发起的伦理AI宪章（Ethical AI Charter）。此前该宪章引发强烈反对，CEO Anna Ganley随后发表声明，试图澄清协会对生成式AI的立场。会员于21日收到电子邮件，被告知SoA将退出。"
               },
               {
                 "t": "p",
-                "x": "该公司已拿下10部作品、20多个角色的AI角色化（AI-characterization）权利，并正与30多家IP公司洽谈。它与Toyoudream合作，联合制作Naver Webtoon作品Musa Manri Haeng的真人风格AI剧，以及Kakao Page作品The Legendary Hero Is an Academy Honor Student的AI动画，并与KT Studio Genie合作发行。"
+                "x": "该宪章于13日发布，由Creators’ Rights Alliance、Authors Guild、澳大利亚作家协会、加拿大作家联盟和新西兰作家协会共同制定。宪章目前仍然有效，其他组织均未退出。"
               },
               {
                 "t": "p",
-                "x": "IP方承担50%的制作费并分享收益；粉丝随后进入官方角色频道进行订阅、打赏和购买。Sodalive计划于2026年Q4完成USD 456,000的pre-Series A轮融资。"
+                "x": "会员们批评事前缺乏协商，也批评SoA对生成式AI使用的立场。Ganley在16日表示：“由于LLMs是在未经许可、未付报酬的情况下用受版权保护的作品训练的，生成式AI永远不可能有真正合乎伦理的使用。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Personajes de webtoon siguen\ncomo creadores de AI en Sodalive",
-          "body": "Sodalive pasa de la app VoiceOn a convertir personajes oficiales de webtoon en creadores de AI más allá de su serie.",
-          "mini_headline": "Héroes de webtoon como creadores de AI",
+          "headline": "Society of Authors abandona\nla Ethical AI Charter",
+          "body": "La Society of Authors se retiró de la Ethical AI Charter, que copromovió el 13 de octubre, ante críticas de sus socios.",
+          "mini_headline": "SoA abandona la carta de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "Sodalive, la empresa surcoreana de tecnología de contenidos detrás de la plataforma de fans basada en voz VoiceOn, está girando hacia convertir personajes oficiales de webtoons y novelas web ya terminados en creadores de AI, para que sigan interactuando con los fans tras el final de la serie. VoiceOn generó USD 350,000 en 2025, pero su crecimiento dependía demasiado de creadores humanos individuales."
+                "x": "La Society of Authors (SoA) se ha retirado de su Ethical AI Charter, lanzada la semana pasada, tras las críticas y un comunicado posterior de su CEO, Anna Ganley, que buscaba aclarar la postura de la organización sobre la AI generativa. Los socios recibieron un correo el 21 de octubre en el que se les informaba de que la SoA se retiraría."
               },
               {
                 "t": "p",
-                "x": "La empresa ha obtenido derechos de AI-characterization para 10 títulos y más de 20 personajes, y negocia con más de 30 compañías de IP. Junto con Toyoudream coproduce un drama de AI de estilo imagen real de Musa Manri Haeng, de Naver Webtoon, y una animación de AI de The Legendary Hero Is an Academy Honor Student, de Kakao Page, distribuidas con KT Studio Genie."
+                "x": "La carta, publicada el 13 de octubre, se elaboró en colaboración con la Creators’ Rights Alliance, la Authors Guild, la Australian Society of Authors, la Writers’ Union of Canada y la New Zealand Society of Authors. Sigue vigente y ninguna otra organización se ha retirado."
               },
               {
                 "t": "p",
-                "x": "Los titulares de IP financian el 50% de la producción y comparten ingresos; después, los fans pasan a los canales oficiales de los personajes para suscripciones, donaciones y compras. Sodalive busca una ronda pre-Series A de USD 456,000 en el Q4 de 2026."
+                "x": "Los socios criticaron la falta de consulta y la postura de la SoA sobre el uso de la AI generativa. El 16 de octubre, Ganley dijo: “Nunca puede haber un uso verdaderamente ético de la AI generativa, por la forma en que los LLMs se han entrenado con obras protegidas por derechos de autor sin permiso ni pago”."
               }
             ]
           }
@@ -1427,105 +1141,421 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "웹툰 캐릭터, 완결 뒤에도\nAI 크리에이터로 활동",
-          "body": "Sodalive가 VoiceOn을 넘어 웹툰 캐릭터를 AI 크리에이터로 만든다.",
-          "mini_headline": "웹툰 주인공이 AI 크리에이터로",
+          "headline": "작가협회(SoA)\n윤리적 AI 헌장 탈퇴",
+          "body": "작가협회가 회원 반발로 지난 13일 공동 출범한 윤리적 AI 헌장에서 탈퇴했다.",
+          "mini_headline": "SoA, AI 헌장 탈퇴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "음성 기반 팬 플랫폼 VoiceOn을 운영하는 한국 콘텐츠테크 기업 Sodalive가 완결된 웹툰과 웹소설의 공식 캐릭터를 AI 크리에이터로 만들어, 연재가 끝난 뒤에도 팬과 계속 교류하게 하는 쪽으로 사업을 전환하고 있다. VoiceOn은 2025년 USD 350,000의 매출을 올렸지만, 성장이 개별 인간 크리에이터에 지나치게 기댔다."
+                "x": "작가협회(Society of Authors, SoA)가 지난주 출범한 윤리적 AI 헌장(Ethical AI Charter)에서 탈퇴했다. 반발이 일었고, 이어 Anna Ganley CEO가 생성형 AI에 대한 협회 입장을 분명히 하려는 성명을 낸 뒤의 결정이다. 회원들은 21일 이메일로 SoA의 탈퇴 소식을 전달받았다."
               },
               {
                 "t": "p",
-                "x": "회사는 10개 작품, 20개가 넘는 캐릭터의 AI 캐릭터화(AI-characterization) 권리를 확보했고, 30곳이 넘는 IP 기업과 논의하고 있다. Toyoudream과 함께 Naver Webtoon의 Musa Manri Haeng을 실사풍 AI 드라마로, Kakao Page의 The Legendary Hero Is an Academy Honor Student를 AI 애니메이션으로 공동 제작하며, 배급은 KT Studio Genie와 함께한다."
+                "x": "13일 발표된 이 헌장은 Creators’ Rights Alliance, Authors Guild, 호주작가협회, 캐나다작가연맹, 뉴질랜드작가협회와 함께 만들었다. 헌장은 지금도 유지되고 있으며, 다른 단체는 탈퇴하지 않았다."
               },
               {
                 "t": "p",
-                "x": "IP 보유사는 제작비의 50%를 대고 수익을 나눈다. 이후 팬들은 공식 캐릭터 채널로 옮겨 구독, 후원, 구매를 한다. Sodalive는 2026년 Q4에 USD 456,000 규모의 pre-Series A 투자 유치를 목표로 한다."
+                "x": "회원들은 의견 수렴이 없었다는 점과 생성형 AI 사용에 대한 SoA의 입장을 비판했다. Ganley는 16일 “LLMs가 허락이나 대가 없이 저작물로 학습된 방식 때문에, 생성형 AI의 진정으로 윤리적인 사용이란 결코 있을 수 없다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ウェブトゥーンのキャラ\nAIクリエイターとして存続",
-          "body": "SodaliveはVoiceOnから転換し、ウェブトゥーンのキャラをAIクリエイターにする。",
-          "mini_headline": "ウェブトゥーンの主人公がAIクリエイターに",
+          "headline": "作家協会(SoA)が\n倫理的AI憲章を離脱",
+          "body": "作家協会は会員の反発を受け、13日に共同発足させた倫理的AI憲章から離脱した。",
+          "mini_headline": "SoAがAI憲章を離脱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "音声ベースのファンプラットフォームVoiceOnを運営する韓国のコンテンツテック企業Sodaliveは、完結したウェブトゥーンやウェブ小説の公式キャラクターをAIクリエイターにし、連載終了後もファンと交流し続けられるようにする方向へ事業を転換している。VoiceOnは2025年にUSD 350,000を稼いだが、成長は個々の人間のクリエイターに頼りすぎていた。"
+                "x": "作家協会(Society of Authors、SoA)は、先週発足させた倫理的AI憲章(Ethical AI Charter)から離脱した。反発を受けてAnna Ganley CEOが生成AIに関する協会の立場を説明する声明を出していた。会員には21日にメールで、SoAが離脱すると伝えられた。"
               },
               {
                 "t": "p",
-                "x": "同社は10作品・20体を超えるキャラクターのAI化権(AI-characterization)を確保し、30社を超えるIP企業と協議している。Toyoudreamと組み、Naver WebtoonのMusa Manri Haengの実写風AIドラマと、Kakao PageのThe Legendary Hero Is an Academy Honor StudentのAIアニメを共同制作しており、配給はKT Studio Genieと行う。"
+                "x": "13日に公表された同憲章は、Creators’ Rights Alliance、Authors Guild、オーストラリア作家協会、カナダ作家組合、ニュージーランド作家協会と共同で作成された。憲章は現在も有効で、ほかに離脱した団体はない。"
               },
               {
                 "t": "p",
-                "x": "IP保有者は制作費の50%を負担して収益を分け合う。その後、ファンは公式キャラクターのチャンネルに移り、購読や投げ銭、購入を行う。Sodaliveは2026年Q4にUSD 456,000のpre-Series Aラウンドを目指している。"
+                "x": "会員らは、意見聴取がなかったことや生成AIの利用に関するSoAの立場を批判した。Ganleyは16日、「LLMsが許可も対価もなく著作物で学習されてきた経緯を考えれば、生成AIの真に倫理的な利用はあり得ない」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Sodalive让网漫角色\n化身AI创作者延续生命",
-          "body": "Sodalive从VoiceOn转型，让官方网漫角色成为连载结束后仍活跃的AI创作者。",
-          "mini_headline": "网漫角色化身AI创作者",
+          "headline": "作家协会(SoA)\n退出伦理AI宪章",
+          "body": "因会员强烈反对，作家协会退出了其于13日共同发起的伦理AI宪章。",
+          "mini_headline": "SoA退出AI宪章",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "运营语音粉丝平台VoiceOn的韩国内容科技公司Sodalive正在转型，把已完结网漫和网络小说的官方角色打造成AI创作者，让它们在作品完结后继续与粉丝互动。VoiceOn在2025年收入USD 350,000，但增长过于依赖个人真人创作者。"
+                "x": "作家协会（Society of Authors，SoA）已退出其上周发起的伦理AI宪章（Ethical AI Charter）。此前该宪章引发强烈反对，CEO Anna Ganley随后发表声明，试图澄清协会对生成式AI的立场。会员于21日收到电子邮件，被告知SoA将退出。"
               },
               {
                 "t": "p",
-                "x": "该公司已拿下10部作品、20多个角色的AI角色化（AI-characterization）权利，并正与30多家IP公司洽谈。它与Toyoudream合作，联合制作Naver Webtoon作品Musa Manri Haeng的真人风格AI剧，以及Kakao Page作品The Legendary Hero Is an Academy Honor Student的AI动画，并与KT Studio Genie合作发行。"
+                "x": "该宪章于13日发布，由Creators’ Rights Alliance、Authors Guild、澳大利亚作家协会、加拿大作家联盟和新西兰作家协会共同制定。宪章目前仍然有效，其他组织均未退出。"
               },
               {
                 "t": "p",
-                "x": "IP方承担50%的制作费并分享收益；粉丝随后进入官方角色频道进行订阅、打赏和购买。Sodalive计划于2026年Q4完成USD 456,000的pre-Series A轮融资。"
+                "x": "会员们批评事前缺乏协商，也批评SoA对生成式AI使用的立场。Ganley在16日表示：“由于LLMs是在未经许可、未付报酬的情况下用受版权保护的作品训练的，生成式AI永远不可能有真正合乎伦理的使用。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Personajes de webtoon siguen\ncomo creadores de AI en Sodalive",
-          "body": "Sodalive pasa de la app VoiceOn a convertir personajes oficiales de webtoon en creadores de AI más allá de su serie.",
-          "mini_headline": "Héroes de webtoon como creadores de AI",
+          "headline": "Society of Authors abandona\nla Ethical AI Charter",
+          "body": "La Society of Authors se retiró de la Ethical AI Charter, que copromovió el 13 de octubre, ante críticas de sus socios.",
+          "mini_headline": "SoA abandona la carta de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg"
+                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+                "cap": "Anna Ganley"
               },
               {
                 "t": "p",
-                "x": "Sodalive, la empresa surcoreana de tecnología de contenidos detrás de la plataforma de fans basada en voz VoiceOn, está girando hacia convertir personajes oficiales de webtoons y novelas web ya terminados en creadores de AI, para que sigan interactuando con los fans tras el final de la serie. VoiceOn generó USD 350,000 en 2025, pero su crecimiento dependía demasiado de creadores humanos individuales."
+                "x": "La Society of Authors (SoA) se ha retirado de su Ethical AI Charter, lanzada la semana pasada, tras las críticas y un comunicado posterior de su CEO, Anna Ganley, que buscaba aclarar la postura de la organización sobre la AI generativa. Los socios recibieron un correo el 21 de octubre en el que se les informaba de que la SoA se retiraría."
               },
               {
                 "t": "p",
-                "x": "La empresa ha obtenido derechos de AI-characterization para 10 títulos y más de 20 personajes, y negocia con más de 30 compañías de IP. Junto con Toyoudream coproduce un drama de AI de estilo imagen real de Musa Manri Haeng, de Naver Webtoon, y una animación de AI de The Legendary Hero Is an Academy Honor Student, de Kakao Page, distribuidas con KT Studio Genie."
+                "x": "La carta, publicada el 13 de octubre, se elaboró en colaboración con la Creators’ Rights Alliance, la Authors Guild, la Australian Society of Authors, la Writers’ Union of Canada y la New Zealand Society of Authors. Sigue vigente y ninguna otra organización se ha retirado."
               },
               {
                 "t": "p",
-                "x": "Los titulares de IP financian el 50% de la producción y comparten ingresos; después, los fans pasan a los canales oficiales de los personajes para suscripciones, donaciones y compras. Sodalive busca una ronda pre-Series A de USD 456,000 en el Q4 de 2026."
+                "x": "Los socios criticaron la falta de consulta y la postura de la SoA sobre el uso de la AI generativa. El 16 de octubre, Ganley dijo: “Nunca puede haber un uso verdaderamente ético de la AI generativa, por la forma en que los LLMs se han entrenado con obras protegidas por derechos de autor sin permiso ni pago”."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "books-buyer-survey",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "AI엔 갈린 독자들\n공개 요구엔 한목소리",
+      "body": "BookInsights.ai 조사에서 젊을수록 AI에 관대하나 모두 공개를 원했다.",
+      "mini_headline": "독자들, AI 사용 공개 원해",
+      "tool": "Books",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101576-survey-finds-book-buyers-split-on-ai-use.html",
+      "accent": "#eb367f",
+      "motif": "swatch",
+      "full": {
+        "mode": "full",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+          },
+          {
+            "t": "p",
+            "x": "AI가 출판계를 계속 흔드는 사이, 자기가 읽는 책에 AI가 쓰이는 걸 두고 독자들 생각은 갈렸다. U.S. 도서 구매자를 상대로 한 새 조사에서 젊은 독자일수록 받아들이는 쪽이었지만, 완전한 공개를 바라는 건 모든 독자가 같았다. "
+          },
+          {
+            "t": "p",
+            "x": "전 Circana BookScan 임원 David Walter가 올해 세운 데이터 컨설팅사 BookInsights.ai는 최근 세 달 안에 책을 산 5,025명의 의견을 들었다. 책 제작의 어느 단계에서든 AI 사용을 받아들인다는 응답은 22%에 그쳤고, 28%는 책에 AI가 아예 쓰이지 않기를 바랐다. Forty-five percent는 작가가 AI를 보조 도구로 쓰거나 맞춤법·문법 검사에 쓰는 건 괜찮다고 답했다. "
+          },
+          {
+            "t": "p",
+            "x": "연령대별로는 차이가 컸다. 십대의 36%는 책 집필의 어느 단계에서든 AI 사용에 열려 있었지만, 55세 이상에서는 11%만 동의했다. "
+          },
+          {
+            "t": "p",
+            "x": "다만 연령대를 가리지 않고 독자의 85%가 집필에 AI가 쓰였는지 책에 밝혀야 한다고 답했다. 전체 결과는 11월에 나온다. "
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Book buyers split on AI,\nunited on disclosure",
+          "body": "A BookInsights.ai study finds younger readers more open to authors using AI, but every age group wants it disclosed.",
+          "mini_headline": "Readers want AI disclosed",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "As AI continues to roil the publishing industry, readers are split on how comfortable they are with its use in the books they consume, with more acceptance from younger readers but full disclosure preferred by all, according to a new survey of U.S. book buyers."
+              },
+              {
+                "t": "p",
+                "x": "BookInsights.ai, a data consultancy launched this year by former Circana BookScan executive David Walter, sought input from 5,025 people who bought a book in the last three months. Just 22% are okay with the use of AI at any stage of creating a book, while 28% don’t want it in books at all. Forty-five percent don’t mind if an author uses AI as an assistant or for checking grammar and spelling."
+              },
+              {
+                "t": "p",
+                "x": "The results diverged sharply among age groups: 36% of teenagers are open to AI being used at any stage of the writing of a book, while only 11% of people over 55 agreed."
+              },
+              {
+                "t": "p",
+                "x": "However, 85% of readers of all ages said books should disclose whether AI was used in the writing process. Full results will be released in November."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIで割れる本の購入者\n開示を望む点は一致",
+          "body": "BookInsights.aiの調査で若い読者ほどAI利用に寛容だが、全世代が開示を望んだ。",
+          "mini_headline": "読者はAI利用の開示を望む",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "AIが出版業界を揺さぶり続けるなか、自分が読む本にAIが使われることへの抵抗感について読者の意見は割れている。U.S.の書籍購入者を対象にした新たな調査によると、若い読者ほど受け入れる傾向が強いが、完全な開示を望む点は全員に共通していた。"
+              },
+              {
+                "t": "p",
+                "x": "Circana BookScanの元幹部David Walterが今年立ち上げたデータコンサルティング会社BookInsights.aiは、直近三か月に本を購入した5,025人から回答を得た。本づくりのどの段階でもAIの使用を容認するのはわずか22%で、28%は本にAIを一切使ってほしくないと答えた。四十五パーセントは、作家がAIをアシスタントとして、あるいは文法や綴りのチェックに使うのは構わないとした。"
+              },
+              {
+                "t": "p",
+                "x": "結果は年齢層によって大きく分かれた。十代の36%が本の執筆のどの段階でもAIの使用を受け入れる一方、55歳を超える層で同意したのは11%にとどまった。"
+              },
+              {
+                "t": "p",
+                "x": "ただし、全年齢の読者の85%が、執筆過程でAIが使われたかどうかを本に明記すべきだと答えた。全結果は11月に公表される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "购书者对AI看法分歧\n但都要求披露",
+          "body": "BookInsights.ai调查显示，年轻读者更能接受作者用AI，但各年龄层都希望披露。",
+          "mini_headline": "读者希望披露AI使用",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "在AI持续搅动出版业之际，一项针对U.S.购书者的新调查显示，读者对所读书籍中使用AI的接受程度存在分歧：年轻读者更能接受，但所有人都倾向于完全披露。"
+              },
+              {
+                "t": "p",
+                "x": "由Circana BookScan前高管David Walter今年创立的数据咨询公司BookInsights.ai，调查了过去三个月内买过书的5,025人。只有22%的人接受在图书创作的任何阶段使用AI，而28%的人完全不希望书中出现AI。百分之四十五的人不介意作者把AI用作助手或用来检查语法和拼写。"
+              },
+              {
+                "t": "p",
+                "x": "各年龄段的结果差异明显：36%的青少年接受在图书写作的任何阶段使用AI，而55岁以上人群中只有11%表示同意。"
+              },
+              {
+                "t": "p",
+                "x": "不过，各年龄段85%的读者表示，图书应披露写作过程中是否使用了AI。完整结果将于11月发布。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Lectores divididos ante la AI,\nunidos en pedir transparencia",
+          "body": "Según BookInsights.ai, los lectores jóvenes aceptan más que los autores usen AI, pero todos piden transparencia.",
+          "mini_headline": "Los lectores quieren saber si hay AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "Mientras la AI sigue sacudiendo a la industria editorial, los lectores están divididos sobre cuánto les incomoda su uso en los libros que leen: los más jóvenes la aceptan más, pero todos prefieren una transparencia total, según una nueva encuesta a compradores de libros de U.S."
+              },
+              {
+                "t": "p",
+                "x": "BookInsights.ai, una consultora de datos creada este año por David Walter, exdirectivo de Circana BookScan, consultó a 5,025 personas que habían comprado un libro en los últimos tres meses. Solo el 22% acepta el uso de AI en cualquier fase de la creación de un libro, mientras que el 28% no la quiere en los libros en absoluto. Al cuarenta y cinco por ciento no le importa que un autor use AI como asistente o para revisar la gramática y la ortografía."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados variaron mucho según la edad: el 36% de los adolescentes acepta que se use AI en cualquier fase de la escritura de un libro, frente a solo el 11% de los mayores de 55."
+              },
+              {
+                "t": "p",
+                "x": "Sin embargo, el 85% de los lectores de todas las edades afirmó que los libros deberían indicar si se usó AI en el proceso de escritura. Los resultados completos se publicarán en noviembre."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI엔 갈린 독자들\n공개 요구엔 한목소리",
+          "body": "BookInsights.ai 조사에서 젊을수록 AI에 관대하나 모두 공개를 원했다.",
+          "mini_headline": "독자들, AI 사용 공개 원해",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "AI가 출판계를 계속 흔드는 사이, 자기가 읽는 책에 AI가 쓰이는 걸 두고 독자들 생각은 갈렸다. U.S. 도서 구매자를 상대로 한 새 조사에서 젊은 독자일수록 받아들이는 쪽이었지만, 완전한 공개를 바라는 건 모든 독자가 같았다. "
+              },
+              {
+                "t": "p",
+                "x": "전 Circana BookScan 임원 David Walter가 올해 세운 데이터 컨설팅사 BookInsights.ai는 최근 세 달 안에 책을 산 5,025명의 의견을 들었다. 책 제작의 어느 단계에서든 AI 사용을 받아들인다는 응답은 22%에 그쳤고, 28%는 책에 AI가 아예 쓰이지 않기를 바랐다. Forty-five percent는 작가가 AI를 보조 도구로 쓰거나 맞춤법·문법 검사에 쓰는 건 괜찮다고 답했다. "
+              },
+              {
+                "t": "p",
+                "x": "연령대별로는 차이가 컸다. 십대의 36%는 책 집필의 어느 단계에서든 AI 사용에 열려 있었지만, 55세 이상에서는 11%만 동의했다. "
+              },
+              {
+                "t": "p",
+                "x": "다만 연령대를 가리지 않고 독자의 85%가 집필에 AI가 쓰였는지 책에 밝혀야 한다고 답했다. 전체 결과는 11월에 나온다. "
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ja": {
+          "headline": "AIで割れる本の購入者\n開示を望む点は一致",
+          "body": "BookInsights.aiの調査で若い読者ほどAI利用に寛容だが、全世代が開示を望んだ。",
+          "mini_headline": "読者はAI利用の開示を望む",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "AIが出版業界を揺さぶり続けるなか、自分が読む本にAIが使われることへの抵抗感について読者の意見は割れている。U.S.の書籍購入者を対象にした新たな調査によると、若い読者ほど受け入れる傾向が強いが、完全な開示を望む点は全員に共通していた。"
+              },
+              {
+                "t": "p",
+                "x": "Circana BookScanの元幹部David Walterが今年立ち上げたデータコンサルティング会社BookInsights.aiは、直近三か月に本を購入した5,025人から回答を得た。本づくりのどの段階でもAIの使用を容認するのはわずか22%で、28%は本にAIを一切使ってほしくないと答えた。四十五パーセントは、作家がAIをアシスタントとして、あるいは文法や綴りのチェックに使うのは構わないとした。"
+              },
+              {
+                "t": "p",
+                "x": "結果は年齢層によって大きく分かれた。十代の36%が本の執筆のどの段階でもAIの使用を受け入れる一方、55歳を超える層で同意したのは11%にとどまった。"
+              },
+              {
+                "t": "p",
+                "x": "ただし、全年齢の読者の85%が、執筆過程でAIが使われたかどうかを本に明記すべきだと答えた。全結果は11月に公表される。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "购书者对AI看法分歧\n但都要求披露",
+          "body": "BookInsights.ai调查显示，年轻读者更能接受作者用AI，但各年龄层都希望披露。",
+          "mini_headline": "读者希望披露AI使用",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "在AI持续搅动出版业之际，一项针对U.S.购书者的新调查显示，读者对所读书籍中使用AI的接受程度存在分歧：年轻读者更能接受，但所有人都倾向于完全披露。"
+              },
+              {
+                "t": "p",
+                "x": "由Circana BookScan前高管David Walter今年创立的数据咨询公司BookInsights.ai，调查了过去三个月内买过书的5,025人。只有22%的人接受在图书创作的任何阶段使用AI，而28%的人完全不希望书中出现AI。百分之四十五的人不介意作者把AI用作助手或用来检查语法和拼写。"
+              },
+              {
+                "t": "p",
+                "x": "各年龄段的结果差异明显：36%的青少年接受在图书写作的任何阶段使用AI，而55岁以上人群中只有11%表示同意。"
+              },
+              {
+                "t": "p",
+                "x": "不过，各年龄段85%的读者表示，图书应披露写作过程中是否使用了AI。完整结果将于11月发布。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Lectores divididos ante la AI,\nunidos en pedir transparencia",
+          "body": "Según BookInsights.ai, los lectores jóvenes aceptan más que los autores usen AI, pero todos piden transparencia.",
+          "mini_headline": "Los lectores quieren saber si hay AI",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "Mientras la AI sigue sacudiendo a la industria editorial, los lectores están divididos sobre cuánto les incomoda su uso en los libros que leen: los más jóvenes la aceptan más, pero todos prefieren una transparencia total, según una nueva encuesta a compradores de libros de U.S."
+              },
+              {
+                "t": "p",
+                "x": "BookInsights.ai, una consultora de datos creada este año por David Walter, exdirectivo de Circana BookScan, consultó a 5,025 personas que habían comprado un libro en los últimos tres meses. Solo el 22% acepta el uso de AI en cualquier fase de la creación de un libro, mientras que el 28% no la quiere en los libros en absoluto. Al cuarenta y cinco por ciento no le importa que un autor use AI como asistente o para revisar la gramática y la ortografía."
+              },
+              {
+                "t": "p",
+                "x": "Los resultados variaron mucho según la edad: el 36% de los adolescentes acepta que se use AI en cualquier fase de la escritura de un libro, frente a solo el 11% de los mayores de 55."
+              },
+              {
+                "t": "p",
+                "x": "Sin embargo, el 85% de los lectores de todas las edades afirmó que los libros deberían indicar si se usó AI en el proceso de escritura. Los resultados completos se publicarán en noviembre."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI엔 갈린 독자들\n공개 요구엔 한목소리",
+          "body": "BookInsights.ai 조사에서 젊을수록 AI에 관대하나 모두 공개를 원했다.",
+          "mini_headline": "독자들, AI 사용 공개 원해",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+              },
+              {
+                "t": "p",
+                "x": "AI가 출판계를 계속 뒤흔드는 가운데, 읽는 책에 AI가 쓰이는 데 대한 독자들의 생각은 엇갈렸다. U.S. 도서 구매자를 대상으로 한 새 조사에 따르면 젊은 독자일수록 수용도가 높았지만, 모든 독자가 완전한 공개를 선호했다."
+              },
+              {
+                "t": "p",
+                "x": "전 Circana BookScan 임원 David Walter가 올해 세운 데이터 컨설팅사 BookInsights.ai는 최근 세 달 안에 책을 산 5,025명의 의견을 들었다. 책 제작의 어느 단계에서든 AI 사용을 받아들인다는 응답은 22%에 그쳤고, 28%는 책에 AI가 아예 쓰이지 않기를 바랐다. Forty-five percent는 작가가 AI를 보조 도구로 쓰거나 맞춤법·문법 검사에 쓰는 것은 괜찮다고 답했다."
+              },
+              {
+                "t": "p",
+                "x": "연령대별 결과는 크게 갈렸다. 십대의 36%는 책 집필의 어느 단계에서든 AI 사용에 열려 있었지만, 55세 이상에서는 11%만 동의했다."
+              },
+              {
+                "t": "p",
+                "x": "그러나 모든 연령대 독자의 85%는 집필 과정에 AI가 쓰였는지 책에 밝혀야 한다고 답했다. 전체 결과는 11월에 공개된다."
               }
             ]
           }

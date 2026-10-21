@@ -8804,6 +8804,137 @@
           "x": "Si ya sabes lo que quieres, dilo en la instrucción y Notebook pasa directamente a la revisión. Para un resultado rápido, omite el interruptor Review y genera como de costumbre. Las funciones de cocreación se están desplegando a nivel mundial para todos los usuarios de Gemini Notebook durante la próxima semana."
         }
       ]
+    },
+    "design/design-nvidia-gtc-berlin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "En GTC Berlin, NVIDIA afirmó que los líderes industriales de Europa usan sus bibliotecas CUDA-X y Omniverse y sus modelos abiertos Cosmos y Nemotron en ingeniería y fabricación. Su Factory Operations Blueprint (FOX) ya está en acceso anticipado para crear agentes de fábrica; Siemens está integrando agentes FOX en Intelligence Center X."
+        },
+        {
+          "t": "p",
+          "x": "En diseño, CUDA-X acelera la simulación para que los ingenieros exploren alternativas antes de los prototipos físicos, y NVIDIA lanzó cuDSS en disponibilidad general. Autodesk incorpora NVIDIA PhysicsNeMo y Warp a NavPack, integrado con Autodesk Alias, para ayudar a diseñadores como los de Bentley a predecir el rendimiento del vehículo e iterar más rápido con AI entrenada mediante simulación."
+        },
+        {
+          "t": "p",
+          "x": "Los fabricantes de autos usan los Nemotron-powered LEO & AURA Virtual Companions de Dassault Systèmes para orquestar agentes de AI de CATIA y SIMULIA que diseñan y prueban virtualmente puertas de vehículos con rapidez. Leonardo trabaja con Neural Concept en diseño de aeronaves AI-driven, y PhysicsX con GB1 en diseño de yates."
+        },
+        {
+          "t": "p",
+          "x": "Audi, Schaeffler y Wandelbots usan gemelos digitales de Omniverse e Isaac para probar líneas de producción y robots antes de modificar la planta."
+        }
+      ]
+    },
+    "design/design-windows-designers-code": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Diego Baca, vicepresidente de Diseño de Producto de Microsoft (Vice President of Product Design), afirma que los diseñadores ya contribuyen con correcciones de código, con ayuda de la AI, para depurar las incoherencias de diseño de Windows 11. Lo dijo en un intercambio en X con Chris Pirillo, fundador de Lockergnome."
+        },
+        {
+          "t": "p",
+          "x": "\"La AI ya ha ayudado a nuestro equipo de diseño a acelerar de forma notable. Incluso vemos a diseñadores contribuir directamente con correcciones de código que mejoran el oficio, la coherencia y la calidad. Es un avance emocionante, y apenas estamos empezando.\""
+        },
+        {
+          "t": "p",
+          "x": "Baca no precisó qué herramientas de AI usan, qué correcciones se hicieron ni cuánto código escribe la AI, y no dio un plazo para la coherencia: lo calificó de \"un frente de trabajo activo\"."
+        },
+        {
+          "t": "img",
+          "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+          "cap": "La nueva Search UI nativa de Windows 11"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft está reconstruyendo partes de Windows 11 en WinUI 3: un nuevo Search en pruebas en Insider, un cuadro de diálogo Run moderno con una mediana de 94ms hasta mostrarse y un Photos Editor que carga un 25% más rápido. Siguen quedando rincones heredados, como el antiguo cuadro de diálogo Mouse Properties."
+        },
+        {
+          "t": "p",
+          "x": "Los diseñadores suelen entregar maquetas a los ingenieros y esperar; quien puede corregir un espaciado con AI se ahorra muchas idas y vueltas."
+        }
+      ]
+    },
+    "design/design-slop-skill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+        },
+        {
+          "t": "p",
+          "x": "Si se le pide a cualquier AI que \"haga una landing page\", el resultado son tarjetas enormes con esquinas redondeadas, vidrio esmerilado sobre un degradado rojo-púrpura, un botón de neón brillante, un fondo negro absoluto sin modo claro, un titular centrado de 64px y una única columna interminable. Un hilo de V2EX con 80+ respuestas enumeró los mismos pecados."
+        },
+        {
+          "t": "p",
+          "x": "design-slop-skill es una skill de Claude Code que detecta estos patrones de forma determinista y los reescribe hacia valores por defecto de factura humana. Dos scripts de Python que solo usan la biblioteca estándar (stdlib-only) no necesitan LLM, red ni dependencias."
+        },
+        {
+          "t": "p",
+          "x": "detect.py analiza HTML/CSS e informa de cada hallazgo con id de regla, archivo, línea y una explicación bilingüe, ponderados en una puntuación slop de 0–100. fix.py aplica lo inverso: radio limitado a 10px, desenfoque eliminado, brillos neutralizados, degradados púrpura aplanados, un bloque light-mode añadido y títulos hero reducidos a 2.25rem alineados a la izquierda."
+        },
+        {
+          "t": "p",
+          "x": "Siete reglas (SLOP-001 a SLOP-007) cubren la lista de quejas; la detección del púrpura se basa en el tono. Al ser una skill, el agente la ejecuta durante la generación y no después. Los selectores de tema y la reestructuración de la cuadrícula quedan en manos de una persona. Licencia MIT, con 23 pruebas unitarias."
+        }
+      ]
+    },
+    "design/design-just-eat-ai-photos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+          "cap": "El generador de imágenes con AI de Just Eat produjo imágenes inexactas de varios platos del menú, entre ellos un tradicional sándwich irlandés (Irish) de pan de soda con tocino y huevo. Crédito de la imagen: Just Eat UK"
+        },
+        {
+          "t": "p",
+          "x": "La app de reparto de comida Just Eat pidió disculpas por varias fotos AI-generated inexactas en sus menús, entre ellas una imagen de tocino y huevos flotando en un refresco."
+        },
+        {
+          "t": "p",
+          "x": "Just Eat, que opera en el Reino Unido (U.K.), estaba probando imágenes AI-generated para restaurantes que no habían tomado sus propias fotos, y marcaba cada una como \"AI-generated\". Según The Independent, suspendió la prueba tras las quejas de los clientes."
+        },
+        {
+          "t": "p",
+          "x": "Un restaurante de Irlanda del Norte (Northern Ireland) que vende sándwiches de pan de soda recibió imágenes de salchichas, tocino y huevos fritos flotando en pintas de bebidas gaseosas. Las patatas con sal y pimienta aparecían como simples patatas fritas enterradas en sal y pimienta, y un plato con cheddar mostraba una salsa naranja parecida a una fondue."
+        },
+        {
+          "t": "p",
+          "x": "\"Hemos estado probando imágenes AI-enhanced y, como con cualquier tecnología nueva, no siempre sale del todo bien la primera vez\", dijo Just Eat. \"Lamentamos las imágenes inexactas que se hayan publicado\". La empresa las está retirando y ha pausado el despliegue mientras desarrolla la herramienta."
+        }
+      ]
+    },
+    "design/design-lightroom-open-eyes-tap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+          "cap": "Cuando la app móvil detecta ojos cerrados en una foto, muestra a los usuarios la nueva herramienta Open Eyes Quick Action."
+        },
+        {
+          "t": "p",
+          "x": "Adobe anunció ayer que la versión móvil de Lightroom, disponible para iOS, iPadOS y Android, ya puede abrir los ojos cerrados en las fotos con AI generativa y un solo toque. Cuando la app detecta que una persona o un grupo de personas tiene los ojos cerrados en una foto, muestra automáticamente la nueva Open Eyes Quick Action, que aparece como un icono sobre la imagen y da acceso directo a la nueva función."
+        },
+        {
+          "t": "p",
+          "x": "Salvar con facilidad una foto que por lo demás es buena abriendo los ojos del sujeto es algo que Photoshop Elements de Adobe ofrece desde hace casi una década, pero, como señala DPReview, Elements toma el reemplazo de otra foto del sujeto, con resultados desiguales según las diferencias entre ambas imágenes. Open Eyes en Lightroom para móviles recurre en cambio a la AI generativa para que los ojos de reemplazo coincidan con la iluminación y la pose, y la app usa otras imágenes de la misma persona en la biblioteca de Lightroom como referencia para que los ojos abiertos coincidan con precisión en color, tamaño y forma con los suyos."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Se puede hacer un arreglo similar en otras apps de Adobe como Photoshop con sus propias herramientas de AI generativa, pero no se resuelve con un toque y no es gratis. Según DPReview, quienes usan la versión gratuita de la app móvil de Lightroom pueden probar Open Eyes dos veces antes de recibir una invitación a suscribirse a un plan de Adobe Creative Cloud que incluye más créditos para sus diversas herramientas AI-powered."
+        }
+      ]
     }
   }
 }

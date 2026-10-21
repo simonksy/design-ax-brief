@@ -7823,6 +7823,140 @@
           "x": "质疑者指出，Eko的“soul（灵魂）”文件称其“天生好奇”，而且它常常原地不动，直到被提示继续。UC Berkeley的Eunice Yiu说：“模型有可能真的在玩，但仅凭这篇论文我们无法得知。”"
         }
       ]
+    },
+    "science/science-krict-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+          "cap": "研究人员的自然语言输入经LLM转换后引导贝叶斯优化，结果再反馈回来。"
+        },
+        {
+          "t": "p",
+          "x": "韩国化学技术研究院（KRICT）Gwang-Noh Ahn博士领导的团队，为自驱动实验室打造了一套人在回路（human-in-the-loop）优化框架。"
+        },
+        {
+          "t": "p",
+          "x": "大语言模型将研究人员的通俗指导转化为贝叶斯优化可用的结构化先验和约束。名为自适应权重可信度检测（AWCD）的组件会检查这些指导是否与实验数据相符，并关闭被数据否定的先验。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+          "cap": "当矛盾数据不断积累时，AWCD会停用误导性的指导。"
+        },
+        {
+          "t": "p",
+          "x": "在基于真实数据的模拟中，达到目标所需的实验次数在Ugi反应中从约30次降至不到10次，在P3HT-CNT复合材料中从约20次降至3–5次。团队还发布了可通过对话调整实验的交互式“Co-Scientist”界面；实体实验室验证仍在计划中。"
+        },
+        {
+          "t": "p",
+          "x": "该研究第一作者为Amirreza Mottafegh，发表于Journal of Chemical Information and Modeling。"
+        }
+      ]
+    },
+    "science/science-fairstress": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2推出FairStress基准，用于在模型最终选择之外衡量LLMs的人口统计公平性。同一情景的两个版本即便得出相同答案，也可能掩盖实质差异，因此它还测试具有说服力的“对抗性前缀”是否会因群体不同而以不同方式改变决策。"
+        },
+        {
+          "t": "p",
+          "x": "它涵盖招聘、医疗、贷款、刑事司法等29个领域的300个双候选人情景，生成超过1300万个测试用例；同时发布了包含5万个条目的FairStress-Core子集。"
+        },
+        {
+          "t": "p",
+          "x": "在没有人口统计信息时，模型行为大致对称；身份越明确，对称性越弱：当放弃正确选项会有利于被标记为少数群体的候选人时，模型更容易放弃，即“反刻板印象的过度矫正”。在模棱两可的案例中，前沿模型约有60–65%的时间选择被标记为少数群体的候选人。"
+        },
+        {
+          "t": "p",
+          "x": "解释也存在差异，受偏向候选人的资历获得的认可更少。在九种去偏干预中，只有反事实思维链（counterfactual chain-of-thought）在基本保持准确率的同时缩小了差距。"
+        }
+      ]
+    },
+    "science/science-sodium-ion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+          "cap": "图文摘要。来源：Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+        },
+        {
+          "t": "p",
+          "x": "University of Surrey的研究人员建立了一个包含28种钠锰氧化物正极组成的材料库，并用铁、钛和钒部分取代锰。"
+        },
+        {
+          "t": "p",
+          "x": "铁与更高的能量容量相关，钒与更好的循环稳定性相关，少量钛则与更好的高倍率性能相关；部分含钛组成在100次循环后仍保持90%以上的容量。"
+        },
+        {
+          "t": "p",
+          "x": "团队用这些数据训练了一个机器学习模型，但材料库目前仍太小，尚不足以做出可靠预测。扩充后，AI未来或可在实验室测试前提出有前景的组成。通讯作者Daniel Commandeur博士指出，与锂相比，“钠的储量要丰富得多”。"
+        },
+        {
+          "t": "p",
+          "x": "该研究发表于Journal of Materials Chemistry A。"
+        }
+      ]
+    },
+    "science/science-glucose-sensing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+          "cap": "图片来源：Eugenio Marongiu/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "在补料分批（fed-batch）发酵中，精确的葡萄糖监测长期以来一直是瓶颈，离线传感器无法提供混合式与连续生物工艺所需的高频、低延迟读数。"
+        },
+        {
+          "t": "p",
+          "x": "由East China University of Science and Technology的Xiwei Tian与Guilin University of Electronic Technology的Yinlan Ruan领导的研究人员构建了DS-CAT——一种双流交叉注意力Transformer，它分别编码拉曼与NIR光谱并加以融合，将拉曼的化学指纹与NIR的宽覆盖范围结合起来。"
+        },
+        {
+          "t": "p",
+          "x": "在142组同步的Raman-NIR记录上，它解释了99%的葡萄糖变化（RMSE 1.09 g/L，MAE 0.89 g/L），在五折交叉验证中表现稳定，并优于偏最小二乘、梯度提升树、CNNs和时间卷积网络。1122–1335 cm⁻¹的拉曼区间显示出最强的预测敏感性。"
+        },
+        {
+          "t": "p",
+          "x": "该研究发表于Bioprocess and Biosystems Engineering。"
+        }
+      ]
+    },
+    "science/science-flip-lunar-supercomputer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+          "cap": "洁净室中的Astrolab FLIP月球车。"
+        },
+        {
+          "t": "p",
+          "x": "今年晚些时候，Astrolab将通过Astrobotic的Griffin-1任务，把无人驾驶的FLIP月球车送往月球南极。车上搭载HPE的Spaceborne Computer-4，这是一款轻量、无风扇的模块，配有低功耗64-bit CPU和GPU，并搭配KIOXIA固态硬盘。"
+        },
+        {
+          "t": "p",
+          "x": "Astrolab CEO Jaret Matthews表示：“今年晚些时候，我们将把HPE的首台超级计算机送上月面，实现月球上的首个GPU［以及］月球上的首批AI实验。”这将是高性能计算和AI在月面的首次测试。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+          "cap": "Astrolab提供的图片（Image credit: Chelsea Gohd）"
+        },
+        {
+          "t": "p",
+          "x": "此次飞行首先将测试计算机能否经受极端环境，还将分析视觉数据、实现自主观测，并处理导航、测绘和地形分析；HPE表示，一个AI服务容器将在月球上演示可扩展的AI应用。"
+        },
+        {
+          "t": "p",
+          "x": "其中一项实验是曾在火星（Mars）上使用的JPL定位程序：在没有GPS的情况下，机器学习算法将当地地形与存储的地图比对，让月球车避开危险的陨石坑。"
+        }
+      ]
     }
   }
 }

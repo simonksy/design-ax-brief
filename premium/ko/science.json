@@ -12705,6 +12705,140 @@
           "x": "회의론도 있다. Eko의 ‘soul(영혼)’ 파일이 Eko를 ‘타고나게 호기심 많은’ 존재로 규정했고, 계속하라는 지시가 올 때까지 Eko가 가만히 있는 일도 잦았다는 지적이다. UC Berkeley의 Eunice Yiu는 “모델이 정말로 놀고 있을 수도 있지만, 이 논문만으로는 알 수 없다”고 말한다."
         }
       ]
+    },
+    "science/science-krict-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+          "cap": "연구자가 자연어로 입력하면 LLM이 이를 바꿔 베이지안 최적화를 이끌고 결과는 다시 피드백된다."
+        },
+        {
+          "t": "p",
+          "x": "한국화학연구원(KRICT) Gwang-Noh Ahn 박사 연구팀이 자율 실험실용 인간 참여형(human-in-the-loop) 최적화 프레임워크를 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "대규모 언어 모델(LLM)은 연구자가 평이하게 내린 지시를 구조화된 사전 정보와 제약 조건으로 바꿔 베이지안 최적화에 넘긴다. 구성 요소인 적응형 가중치 신뢰도 탐지(AWCD)는 그 지시가 실험 데이터와 맞는지 살피다가 어긋나는 사전 정보를 꺼 버린다."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+          "cap": "상충하는 데이터가 쌓이면 AWCD가 잘못된 지시를 끈다."
+        },
+        {
+          "t": "p",
+          "x": "실제 데이터로 돌린 시뮬레이션에서 목표에 닿기까지 필요한 실험 횟수는 Ugi 반응이 약 30회에서 10회 미만으로, P3HT-CNT 복합체가 약 20회에서 3–5회로 줄었다. 연구팀은 대화로 실험을 조정하는 \"Co-Scientist\" 인터페이스도 공개했다. 실제 실험실 검증은 다음 단계로 잡았다."
+        },
+        {
+          "t": "p",
+          "x": "제1저자는 Amirreza Mottafegh이며 연구는 Journal of Chemical Information and Modeling에 실렸다."
+        }
+      ]
+    },
+    "science/science-fairstress": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2가 벤치마크 FairStress를 내놓았다. LLMs의 인구통계학적 공정성을 모델의 최종 선택 너머까지 잰다. 한 시나리오의 두 버전이 같은 답에 이르러도 그 안에 의미 있는 차이가 숨어 있을 수 있어서다. 그래서 설득력 있는 \"적대적 접두어(adversarial prefixes)\"가 집단에 따라 결정을 다르게 바꾸는지도 시험한다."
+        },
+        {
+          "t": "p",
+          "x": "채용과 의료부터 대출, 형사 사법까지 29개 영역에서 후보 두 명짜리 시나리오 300개를 짜 1300만 개가 넘는 테스트 케이스를 만든다. 5만 개 항목으로 추린 하위 세트 FairStress-Core도 함께 공개했다."
+        },
+        {
+          "t": "p",
+          "x": "인구통계 정보가 없으면 모델은 대체로 대칭적으로 행동했다. 정체성이 뚜렷해질수록 그 대칭이 무너졌다. 옳은 선택을 버리면 소수자로 표시된 후보가 유리해지는 경우 모델은 그 선택을 더 쉽게 버렸다. 이른바 \"반고정관념적 과잉 교정\"이다. 모호한 사례에서 프런티어 모델은 소수자로 표시된 후보를 약 60–65% 비율로 골랐다."
+        },
+        {
+          "t": "p",
+          "x": "설명하는 방식도 달랐다. 선호된 후보는 자격을 덜 인정받았다. 편향 완화 개입 아홉 가지 가운데 정확도를 대체로 지키면서 격차를 좁힌 것은 반사실적 사고 사슬(counterfactual chain-of-thought)뿐이었다."
+        }
+      ]
+    },
+    "science/science-sodium-ion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+          "cap": "그래픽 초록. 출처: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+        },
+        {
+          "t": "p",
+          "x": "University of Surrey 연구진이 나트륨 망간 산화물 양극재 조성 28종으로 라이브러리를 만들었다. 망간 일부를 철, 티타늄, 바나듐으로 바꾼 조성들이다."
+        },
+        {
+          "t": "p",
+          "x": "철은 더 높은 에너지 용량과, 바나듐은 더 나은 사이클 안정성과, 소량의 티타늄은 더 나은 고율 성능과 관련이 있었다. 티타늄이 들어간 일부 조성은 100회 사이클 뒤에도 용량의 90% 이상을 지켰다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 이 데이터로 머신러닝 모델을 학습시켰다. 다만 라이브러리가 아직 작아 믿을 만한 예측은 어렵다. 규모를 키우면 언젠가는 AI가 실험 전에 유망한 조성을 제안할 수도 있다. 교신저자 Daniel Commandeur 박사는 리튬과 비교해 \"나트륨이 훨씬 더 풍부하다\"고 짚었다."
+        },
+        {
+          "t": "p",
+          "x": "연구 결과는 Journal of Materials Chemistry A에 실렸다."
+        }
+      ]
+    },
+    "science/science-glucose-sensing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+          "cap": "출처: Eugenio Marongiu/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "유가식(fed-batch) 발효에서 포도당을 정확히 모니터링하는 일은 오랫동안 병목이었다. 오프라인 센서로는 하이브리드·연속 바이오공정이 요구하는 고빈도·저지연 측정값을 얻지 못한다."
+        },
+        {
+          "t": "p",
+          "x": "East China University of Science and Technology의 Xiwei Tian과 Guilin University of Electronic Technology의 Yinlan Ruan이 이끈 연구진은 이중 스트림 교차 어텐션 트랜스포머 DS-CAT을 만들었다. 라만과 NIR 스펙트럼을 따로 인코딩한 뒤 융합해 라만의 화학적 지문과 NIR의 넓은 커버리지를 한데 묶는다."
+        },
+        {
+          "t": "p",
+          "x": "동기화된 Raman-NIR 기록 142건에서 DS-CAT은 포도당 변동의 99%를 설명했다(RMSE 1.09 g/L, MAE 0.89 g/L). 다섯 겹 교차 검증에서도 성능이 유지됐고 부분최소제곱법, 그레이디언트 부스팅 트리, CNNs, 시간 합성곱 신경망을 모두 앞섰다. 예측 민감도는 1122–1335 cm⁻¹ 라만 구간에서 가장 강했다."
+        },
+        {
+          "t": "p",
+          "x": "연구는 Bioprocess and Biosystems Engineering에 실렸다."
+        }
+      ]
+    },
+    "science/science-flip-lunar-supercomputer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+          "cap": "클린룸 안에 놓인 Astrolab의 FLIP 로버."
+        },
+        {
+          "t": "p",
+          "x": "Astrolab은 올해 말 Astrobotic의 Griffin-1 미션으로 무인 로버 FLIP을 달 남극에 보낸다. 로버에는 HPE의 Spaceborne Computer-4가 실린다. 저전력 64-bit CPU와 GPU를 넣은 팬 없는 경량 모듈이고, 저장장치로 KIOXIA 솔리드스테이트 드라이브를 함께 쓴다."
+        },
+        {
+          "t": "p",
+          "x": "Astrolab CEO Jaret Matthews는 \"올해 말 HPE의 첫 슈퍼컴퓨터를 달 표면에 보내 달에서 첫 GPU를 돌리고 [또] 달에서 첫 AI 실험을 한다\"고 말했다. 달 표면에서 고성능 컴퓨팅과 AI를 시험하는 건 이번이 처음이다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+          "cap": "Astrolab 제공 이미지 (Image credit: Chelsea Gohd)"
+        },
+        {
+          "t": "p",
+          "x": "이번 비행의 첫 과제는 컴퓨터가 극한 환경을 버티는지 확인하는 일이다. 컴퓨터는 시각 데이터 분석과 자율 관측을 맡고 항법, 지도 작성, 지형 분석도 처리한다. HPE는 AI 서비스 컨테이너가 확장 가능한 AI 애플리케이션을 달에서 선보인다고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "실험 하나는 화성(Mars)에서 쓰던 JPL 위치 추정 프로그램이다. GPS가 없는 곳에서 머신러닝 알고리즘이 주변 지형을 저장된 지도와 맞춰 보고, 로버가 위험한 크레이터를 비켜 가도록 돕는다."
+        }
+      ]
     }
   }
 }

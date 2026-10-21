@@ -10871,6 +10871,122 @@
           "x": "사이트에 따르면 Bartz v. Anthropic 소송에서 도서 저자들에게 돌아갈 $1.5 billion 규모 합의는 2026년 7월 20일 최종 승인됐다."
         }
       ]
+    },
+    "books/books-boreal-orelien": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+          "cap": "2026년 9월 24일 프랑스 Manosque에서 열린 Les Correspondances 문학 축제에 참석한 Thélyson Orélien. (Joel Saget/AFP via Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "몬트리올 출판사 Éditions du Boréal은 수요일, Thélyson Orélien이 소설 C’était ça ou mourir를 쓰는 데 AI가 쓰였다는 새 정보가 나왔다며 그와 더는 함께 일하지 않겠다고 발표했다. Orélien은 이 기술을 쓰지 않았다고 거듭 밝혀 왔다. "
+        },
+        {
+          "t": "p",
+          "x": "“따라서 Boréal은 이 소설을 다시 찍지 않으며, Thélyson Orélien의 다른 책도 더는 내지 않을 것”이라고 보도자료는 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "이 소설은 호평을 받았다. 그러다 Prix du roman Fnac을 받은 9월 21일, 익명의 X 계정이 AI-detection(AI 탐지) 화면 캡처를 올렸다. Orélien은 이 의혹을 “중상이자 이단”이라 부르며 자료 조사에 AI를 “여기저기” 썼을 뿐이라고 말했다. "
+        },
+        {
+          "t": "p",
+          "x": "Boréal은 소설의 작업 버전 전부를 외부에 맡겨 분석했다. 출판사는 “이번 주에 받은 결과에서 일부 문서의 메타데이터에 AI 표지의 흔적이 드러났다”고 썼다. AI가 얼마나 쓰였는지는 끝내 모를 수도 있지만 결국 문제는 신뢰였다는 말도 덧붙였다. "
+        }
+      ]
+    },
+    "books/books-huawei-pangu": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+          "cap": "중국 인공지능(AI) 스타트업 딥시크(DeepSeek) 로고. 로이터=연합뉴스"
+        },
+        {
+          "t": "p",
+          "x": "미국 AI 기업 앤트로픽에 이어 중국 AI 기업도 한강·황석영 등의 책을 무단으로 다운로드한 것으로 21일 확인됐다. 화웨이는 2023년 3월 arXiv에 공개한 AI 모델 ‘판구 시그마(Σ)’ 기술보고서에서 영어 텍스트로 ‘더 파일(The Pile)’ 등을 썼다고 명시했다."
+        },
+        {
+          "t": "p",
+          "x": "‘더 파일’에는 앤트로픽도 무단 다운로드한 해적판 전자책 모음 ‘북스3(Books3)’가 포함돼 있고, 북스3에는 한강의 『소년이 온다』·『채식주의자』, 황석영의 『바리데기』 등 한국 작가 영어 번역본이 최소 19종(작가 10명) 들어 있다. 다만 화웨이 등이 내려받은 소설을 전부 학습했는지는 확인할 수 없다."
+        },
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
+          "cap": "지난 7월 17일 중국 상하이에서 열린 세계 인공지능(AI) 컨퍼런스(WAIC)에서 화웨이 로고. 로이터=연합뉴스"
+        },
+        {
+          "t": "p",
+          "x": "딥시크는 2024년 3월 ‘딥시크-VL’ 보고서에서 해적 도서 사이트 ‘안나의 아카이브’에서 확보한 영어 전자책 86만 권과 중국어 전자책 18만 권을 학습에 썼다고 밝혔다. 주재걸 카이스트 AI대학원 교수는 “해적판 도서를 AI 학습 데이터로 쓴다는 건 AI 업계에선 많이 알려진 내용”이라고 말했다."
+        }
+      ]
+    },
+    "books/books-soa-charter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+          "cap": "Anna Ganley"
+        },
+        {
+          "t": "p",
+          "x": "작가협회(Society of Authors, SoA)가 지난주 출범한 윤리적 AI 헌장(Ethical AI Charter)에서 탈퇴했다. 반발이 일자 Anna Ganley CEO가 생성형 AI를 두고 협회 입장을 정리하는 성명을 냈고, 그 뒤에 내린 결정이다. 회원들은 21일 이메일로 SoA의 탈퇴 소식을 받았다. "
+        },
+        {
+          "t": "p",
+          "x": "협회는 13일 발표된 이 헌장을 Creators’ Rights Alliance, Authors Guild, 호주작가협회, 캐나다작가연맹, 뉴질랜드작가협회와 함께 만들었다. 헌장은 그대로 남아 있고 다른 단체는 탈퇴하지 않았다. "
+        },
+        {
+          "t": "p",
+          "x": "회원들은 의견 수렴이 없었던 점과 생성형 AI 사용을 두고 SoA가 내세운 입장을 문제 삼았다. Ganley는 16일 “LLMs가 허락이나 대가 없이 저작물로 학습된 방식 때문에, 생성형 AI의 진정으로 윤리적인 사용이란 결코 있을 수 없다”고 말했다. "
+        }
+      ]
+    },
+    "books/books-buyer-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "AI가 출판계를 계속 흔드는 사이, 자기가 읽는 책에 AI가 쓰이는 걸 두고 독자들 생각은 갈렸다. U.S. 도서 구매자를 상대로 한 새 조사에서 젊은 독자일수록 받아들이는 쪽이었지만, 완전한 공개를 바라는 건 모든 독자가 같았다. "
+        },
+        {
+          "t": "p",
+          "x": "전 Circana BookScan 임원 David Walter가 올해 세운 데이터 컨설팅사 BookInsights.ai는 최근 세 달 안에 책을 산 5,025명의 의견을 들었다. 책 제작의 어느 단계에서든 AI 사용을 받아들인다는 응답은 22%에 그쳤고, 28%는 책에 AI가 아예 쓰이지 않기를 바랐다. Forty-five percent는 작가가 AI를 보조 도구로 쓰거나 맞춤법·문법 검사에 쓰는 건 괜찮다고 답했다. "
+        },
+        {
+          "t": "p",
+          "x": "연령대별로는 차이가 컸다. 십대의 36%는 책 집필의 어느 단계에서든 AI 사용에 열려 있었지만, 55세 이상에서는 11%만 동의했다. "
+        },
+        {
+          "t": "p",
+          "x": "다만 연령대를 가리지 않고 독자의 85%가 집필에 AI가 쓰였는지 책에 밝혀야 한다고 답했다. 전체 결과는 11월에 나온다. "
+        }
+      ]
+    },
+    "books/books-meta-torrent-execs-order": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Thomas Hixon 치안판사는 작가 집단소송(Richard Kadrey, Sarah Silverman 포함)과 출판사 Entrepreneur Media 소송을 함께 다룬 증거개시 명령에서 Meta가 LibGen과 Anna's Archive 같은 섀도 라이브러리에서 책을 내려받도록 승인한 의사결정자를 밝혀야 한다는 주장을 대체로 받아들였다."
+        },
+        {
+          "t": "p",
+          "x": "Meta는 초기 AI 데이터셋 작업이 권한 있는 사람의 결정 없이 \"비공식적 방식\"으로 진행됐고, 직원들은 \"기술적으로\"만 토렌트를 내려받았을 뿐이라고 주장했다. 하지만 직원 증언과 내부 메시지는 디렉터나 VP-level(부사장급) 승인을 가리켰다. 한 대화 스레드에는 \"MZ에게 앞서 올린 보고\"라는 언급도 있었다."
+        },
+        {
+          "t": "p",
+          "x": "Hixon은 Meta의 좁은 해석을 받아들이지 않았다. 요청이 공식 결정이나 단일 의사결정자에 한정되지 않는다고 봤다. Meta는 다운로드를 결정·허가·승인한 사람을 모두 역할, 날짜와 함께 밝혀야 한다. 토렌트에 쓴 모든 서버의 명령 기록 파일도 제출하고 학습에 쓰이지 않은 해적판 저작물이 어떻게 됐는지도 설명해야 한다."
+        }
+      ]
     }
   }
 }

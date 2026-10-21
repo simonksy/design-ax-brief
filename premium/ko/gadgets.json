@@ -14147,6 +14147,139 @@
           "x": "제대로 작동하면 스크롤은 미래 같다. Translation은 똑똑하고 Navigation은 편리하며 AI도 충분히 빠르다. 다만 Conversate 회의 노트는 결론을 잘 끌어내지 못한다. 리뷰어는 여전히 단종된 G1 쪽을 더 좋아한다."
         }
       ]
+    },
+    "gadgets/gadgets-gm-onstar-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
+        },
+        {
+          "t": "p",
+          "x": "General Motors가 30년 전 내놓은 구독형 커넥티드카 서비스 OnStar를 통째로 손보고 개인 AI 비서를 붙인다. GM은 뉴욕에서 열린 GM Forward 행사에서 OnStar AI Assistant가 몇 달 안에 2027 Cadillac Lyriq EV에 처음 들어가고, 이어 다른 GM 차량으로 넓어진다고 밝혔다. "
+        },
+        {
+          "t": "p",
+          "x": "2027년에 나올 새 OnStar 모바일 앱은 차량 소프트웨어와 동기화되고, OnStar Guardian 앱과 Buick, Cadillac, Chevrolet, GMC 브랜드 앱을 대신한다. Google의 Dialogflow와 Gemini로 만들었던 이전 시도와 달리 이번 비서는 자체 개발했고, 에이전틱 AI가 중심이다. "
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-Mobile-App-Stills.jpg?w=1200"
+        },
+        {
+          "t": "p",
+          "x": "차량 카메라로는 실시간 화면을 볼 수 있다. 공격적인 경적 소리처럼 무슨 일이 벌어질 듯한 상황을 차가 감지하면 카메라가 저절로 켜져 녹화 영상을 앱에 올린다. 운전자는 공조 같은 기능을 음성으로 조작하고, 차량 기능이라면 무엇이든 물어볼 수 있다. "
+        },
+        {
+          "t": "p",
+          "x": "데이터 공유 문제로 FTC 명령을 받은 GM은 어떤 데이터를 공유할지 고객이 정한다고 밝혔다. 녹화 영상은 암호화하고 보관 기간에 제한을 두며, GM도 OnStar도 Connected Camera 녹화 영상에 접근할 수 없다는 설명이다. "
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-h2x": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Y3zb4o47yqA"
+        },
+        {
+          "t": "p",
+          "x": "Unitree가 휴머노이드 H2-X Kung Fu Legend Guardian을 공개했다. H2 플랫폼을 바탕으로 경호용으로 설계했고, Robocop을 떠올리게 한다. 일 분짜리 티저에서 이 로봇은 폐차장에서 자동차에 무릎차기와 주먹을 날리고, 강도를 당할 뻔한 주인 앞으로 뛰어들고, 차 밑에 깔린 사람을 구하려고 자동차를 들어 올린다. "
+        },
+        {
+          "t": "p",
+          "x": "Unitree가 밝힌 사양은 네 미터 높이 단상에서 뛰어내릴 수 있고 재충전 없이 “약 여덟 시간” 서 있을 수 있다는 정도다. 비슷한 H2는 키 1.8미터 휴머노이드로, Nvidia Jetson AGX Thor 칩을 고를 수 있고 값은 $29,900이다. "
+        },
+        {
+          "t": "p",
+          "x": "H2-X가 일반에 팔릴 가능성은 낮고, 가격이나 출시 일정도 알려지지 않았다. 개인 경호 로봇이라면 소비자용 인증부터 큰 벽이다. 이와 별개로 Unitree, Nvidia, Sharpa는 차세대 “체화 지능” 로봇용 H2+ 청사진을 함께 만들고 있다. "
+        }
+      ]
+    },
+    "gadgets/gadgets-timekettle-livetalk": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+          "cap": "Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Timekettle LiveTalk는 평범한 오픈형 이어폰처럼 생겼고, 써 보면 실제로도 그렇다. 음질이 좋고 재생 시간은 8시간, 케이스를 더하면 35시간이며 가격은 $129다. 여기에 54개 언어와 108개 억양을 번역하고, 25개 언어 쌍은 오프라인에서도 된다. "
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-2.jpg",
+          "cap": "Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "앱에는 Face to Face, Live Listening, Voice Call Translation, Multi-Media Translation의 네 가지 모드가 있다. 대면 번역은 아주 잘 됐고 실시간 청취는 화자보다 약 10–15초 늦었다. iPhone 기본 Phone 앱으로 하는 통화는 불안정했지만 WhatsApp, Messenger, Discord, Android에서는 완벽하게 돌아갔다. 가장 매끄러운 건 기기에서 재생되는 모든 오디오를 번역하는 Multi-Media 모드였다. "
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-6.jpg",
+          "cap": "Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "실험 기능 AI Language Tutor는 영어, 스페인어, 중국어로 커피 주문이나 취업 면접 같은 상황극을 해 준다. 무료 요금제로는 매달 실시간 번역 200분을 쓸 수 있고, Unlimited는 월 $9.99다. "
+        }
+      ]
+    },
+    "gadgets/gadgets-speakon-button": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+          "cap": "SpeakON"
+        },
+        {
+          "t": "p",
+          "x": "공공장소에서 휴대폰에 대고 말하면 아직 낯선 시선을 받기도 한다. 그래도 SpeakON은 그쪽이 타이핑보다 낫다고 본다. 회사가 선보인 SpeakON Agent는 자석식 iPhone 액세서리용 AI-powered 기능이다. 하드웨어는 iPhone 뒷면에 붙는 작은 자석 버튼이다. 버튼을 누르고 말하면 소프트웨어가 음성을 다듬은 텍스트로 바꿔 준다. 휴대폰 잠금을 풀거나 앱을 오갈 필요가 없다. "
+        },
+        {
+          "t": "p",
+          "x": "회의나 아이디어, 기억해야 할 일을 Agent에게 말하면 생각을 메모와 목록, 알림 설정이나 이메일 준비 같은 추천 동작으로 정리해 준다. 다만 다음 단계는 여전히 사용자가 승인해야 한다. Smart Polish는 ums와 ahs 같은 군말을 걷어 내고, 다른 기능 하나는 앱에 맞춰 문체를 바꿔 준다. 12개 언어 번역과 사용자 지정 어휘, 오프라인 녹음도 된다. "
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Translation12.png",
+          "cap": "SpeakON"
+        },
+        {
+          "t": "p",
+          "x": "회사는 배터리가 연속 10시간 넘게 간다고 내세운다. SpeakON은 US(미국)에서 $129에 팔린다. iPhones도 이미 음성 명령을 알아듣지만, 음성 입력용 버튼을 따로 둔다는 발상은 흥미롭다. "
+        },
+        {
+          "t": "video",
+          "yt": "ex-r8xRSIYE"
+        }
+      ]
+    },
+    "gadgets/gadgets-perplexity-mac-local": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Perplexity는 9월 초 Computer 앱 업데이트 Hybrid Compute를 내놓으며 AI 작업을 프런티어 모델과 로컬 모델에 나눠 맡기게 했다. 이번에는 플랫폼 전체를 사용자 기기 안에서만 돌릴 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "RAM이 36GB 이상인 최신 Apple Silicon Mac이라면 하네스와 오케스트레이터까지 Computer 경험 전체가 내 컴퓨터에서 돈다. Perplexity는 비용을 아끼려는 사용자나 데이터를 지키려는 사용자에게 유리하다고 설명한다. 예컨대 Notes와 Mail에 접근해 이메일 데이터를 클라우드로 보내지 않고 우선순위 할 일 목록을 만든다. 회사는 “민감한 데이터와 크레딧 지출을 사용자가 더 잘 통제할 수 있다”고 밝혔다."
+        },
+        {
+          "t": "p",
+          "x": "로컬 모델은 둘 중 하나를 고른다. Qwen 3.6, 아니면 Qwen 3.6을 Computer 사용에 맞게 사후 학습한 Perplexity 파생 모델 PPLX Pro다. 프런티어 시스템이 더 잘하는 작업이면 15개가 넘는 모델 가운데 하나를 부르도록 허용하면 된다. 코드와 도구는 모두 격리된 샌드박스에서 실행된다."
+        },
+        {
+          "t": "p",
+          "x": "Perplexity Pro, Max, Enterprise 구독자라면 오늘부터 최신 Perplexity Mac 앱을 깔고 앱 안내대로 로컬 모델을 내려받아 Computer를 로컬에서 쓰면 된다."
+        }
+      ]
     }
   }
 }

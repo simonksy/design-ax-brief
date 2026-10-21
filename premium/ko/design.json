@@ -14929,6 +14929,137 @@
           "x": "원하는 게 분명하다면 프롬프트에 그대로 적으면 된다. 그러면 Notebook이 곧장 검토 단계로 넘어간다. 결과물이 빨리 필요할 땐 Review 토글을 건너뛰고 평소대로 생성하면 그만이다. 공동 제작 기능은 앞으로 일주일에 걸쳐 전 세계 모든 Gemini Notebook 사용자에게 배포된다."
         }
       ]
+    },
+    "design/design-nvidia-gtc-berlin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA는 GTC Berlin에서 유럽(Europe) 산업계 선두 기업들이 엔지니어링과 제조 전반에 자사 CUDA-X·Omniverse 라이브러리와 Cosmos·Nemotron 오픈 모델을 쓴다고 밝혔다. 공장 에이전트를 만드는 Factory Operations Blueprint(FOX)는 얼리 액세스에 들어갔고 Siemens는 FOX 에이전트를 Intelligence Center X에 통합하는 중이다."
+        },
+        {
+          "t": "p",
+          "x": "설계 분야에서는 CUDA-X가 시뮬레이션을 빠르게 돌려 엔지니어가 실물 프로토타입을 만들기 전에 대안을 살펴본다. NVIDIA는 cuDSS도 정식 출시했다. Autodesk는 NVIDIA PhysicsNeMo와 Warp를 Autodesk Alias에 통합된 NavPack에 들여왔다. Bentley 같은 곳의 디자이너는 시뮬레이션으로 학습한 AI로 차량 성능을 예측하고 설계를 더 빠르게 반복한다."
+        },
+        {
+          "t": "p",
+          "x": "자동차 제조사들은 Dassault Systèmes의 Nemotron-powered LEO & AURA Virtual Companions로 CATIA·SIMULIA AI 에이전트를 조율해 차량 문을 빠르게 설계하고 가상으로 시험한다. Leonardo는 Neural Concept와 AI-driven 항공기를, PhysicsX는 GB1과 요트를 설계한다."
+        },
+        {
+          "t": "p",
+          "x": "Audi, Schaeffler, Wandelbots는 Omniverse와 Isaac 디지털 트윈으로 생산 라인과 로봇을 먼저 시험한 뒤 공장 현장을 바꾼다."
+        }
+      ]
+    },
+    "design/design-windows-designers-code": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft 제품 디자인 부사장(Vice President of Product Design) Diego Baca는 Windows 11의 들쭉날쭉한 디자인을 정리하려고 이제 디자이너들이 AI의 도움을 받아 코드 수정에 손을 보탠다고 밝혔다. Lockergnome 창업자 Chris Pirillo와 X에서 나눈 대화에서 나온 말이다."
+        },
+        {
+          "t": "p",
+          "x": "\"AI는 이미 우리 디자인팀의 속도를 크게 끌어올렸습니다. 디자이너가 완성도와 일관성, 품질을 높이는 코드 수정에 직접 기여하는 모습까지 보고 있습니다. 흥미로운 진전이고, 이제 막 시작했을 뿐입니다.\""
+        },
+        {
+          "t": "p",
+          "x": "Baca는 어떤 AI 도구를 쓰는지, 무엇을 고쳤는지, 코드를 AI가 얼마나 쓰는지는 밝히지 않았다. 일관성을 언제 갖출지 일정도 없이 \"진행 중인 작업(an active workstream)\"이라고만 했다."
+        },
+        {
+          "t": "img",
+          "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+          "cap": "Windows 11의 새 네이티브 Search UI"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft는 Windows 11 일부를 WinUI 3로 다시 짓는 중이다. Insider에서 테스트하는 새 Search, 뜨기까지 걸리는 시간 중앙값이 94ms인 새 Run 대화상자, 25% 더 빨리 열리는 Photos Editor가 그렇다. 옛 Mouse Properties 대화상자 같은 구형 화면은 아직 그대로다."
+        },
+        {
+          "t": "p",
+          "x": "디자이너는 보통 목업을 엔지니어에게 넘기고 기다린다. AI로 간격을 직접 고칠 수 있다면 주고받는 수고가 크게 준다."
+        }
+      ]
+    },
+    "design/design-slop-skill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+        },
+        {
+          "t": "p",
+          "x": "어떤 AI에든 \"랜딩 페이지 만들어 줘\"라고 하면 거대한 둥근 카드, 붉은 보라색 그라데이션 위 반투명 유리, 빛나는 네온 버튼, 라이트 모드 없는 새까만 배경, 가운데 정렬된 64px 제목, 끝없이 이어지는 단일 칼럼이 나온다. 댓글이 80+개 달린 V2EX 스레드에도 똑같은 죄목이 줄줄이 올라왔다."
+        },
+        {
+          "t": "p",
+          "x": "design-slop-skill은 이런 패턴을 결정론적으로 잡아내 사람이 다듬은 기본값으로 바꿔 주는 Claude Code 스킬이다. 표준 라이브러리만 쓰는(stdlib-only) Python 스크립트 두 개가 전부라 LLM도, 네트워크도, 의존성도 필요 없다."
+        },
+        {
+          "t": "p",
+          "x": "detect.py는 HTML/CSS를 훑어 규칙 id, 파일, 줄 번호, 두 언어 설명을 담은 결과를 보고하고 이를 가중해 0–100 slop 점수를 매긴다. fix.py는 거꾸로 이를 고친다. 모서리 반경을 10px로 묶고, 블러를 없애고, 글로를 누그러뜨리고, 보라색 그라데이션을 평평하게 바꾸고, light-mode 블록을 넣고, 히어로 제목을 2.25rem 왼쪽 정렬로 줄인다."
+        },
+        {
+          "t": "p",
+          "x": "규칙 일곱 가지(SLOP-001~SLOP-007)가 불만 목록을 다루고, 보라색은 색상(hue)으로 가려낸다. 스킬이라서 에이전트가 다 만든 뒤가 아니라 만드는 도중에 돌린다. 테마 토글과 그리드 재구성은 사람 몫으로 남겼다. MIT 라이선스에 단위 테스트 23개를 갖췄다."
+        }
+      ]
+    },
+    "design/design-just-eat-ai-photos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+          "cap": "Just Eat의 AI 이미지 생성기가 아일랜드(Irish) 전통 베이컨·달걀 소다 브레드 샌드위치를 비롯한 여러 메뉴의 부정확한 이미지를 만들었다. 이미지 출처: Just Eat UK"
+        },
+        {
+          "t": "p",
+          "x": "음식 배달 앱 Just Eat이 소다에 베이컨과 달걀이 떠 있는 사진 등 메뉴에 올린 부정확한 AI-generated 사진 여러 장을 두고 사과했다."
+        },
+        {
+          "t": "p",
+          "x": "영국(U.K.)에서 영업하는 Just Eat은 직접 찍은 사진이 없는 음식점에 AI-generated 이미지를 시험 삼아 붙이면서 이미지마다 \"AI-generated\" 표시를 달았다. The Independent에 따르면 고객 불만이 나오자 시험을 접었다."
+        },
+        {
+          "t": "p",
+          "x": "소다 브레드 샌드위치를 파는 북아일랜드(Northern Ireland)의 한 음식점에는 소시지, 베이컨, 달걀 프라이가 탄산음료 파인트 잔에 떠 있는 이미지가 붙었다. 소금·후추 칩스는 소금과 후추에 파묻힌 평범한 감자튀김으로, 체다 메뉴는 퐁뒤 같은 주황색 소스로 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "Just Eat은 \"AI-enhanced 이미지를 시험해 왔는데, 새로운 기술이 다 그렇듯 처음부터 늘 딱 맞지는 않는다\"며 \"게시된 부정확한 이미지에 대해 사과드린다\"고 밝혔다. 회사는 해당 이미지를 지우는 중이며 도구를 개발하는 동안 도입을 멈췄다."
+        }
+      ]
+    },
+    "design/design-lightroom-open-eyes-tap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+          "cap": "모바일 앱이 사진에서 감은 눈을 찾아내면 새 Open Eyes Quick Action 도구가 뜬다."
+        },
+        {
+          "t": "p",
+          "x": "Adobe는 어제 iOS, iPadOS, Android용 Lightroom 모바일 버전에서 생성형 AI로 사진 속 감은 눈을 탭 한 번에 뜨게 할 수 있다고 발표했다. 사진 속 한 사람이든 여러 사람이든 눈을 감은 게 감지되면 앱이 새 Open Eyes Quick Action을 자동으로 띄운다. 이미지 위에 아이콘으로 나타나니 바로 쓰면 된다."
+        },
+        {
+          "t": "p",
+          "x": "피사체의 눈을 뜨게 해 잘 나온 사진을 살리는 기능은 Adobe Photoshop Elements에 거의 십 년 전부터 있었다. 다만 DPReview가 짚었듯 Elements는 피사체의 다른 사진에서 눈을 가져오는 방식이라, 두 이미지가 얼마나 다르냐에 따라 결과가 들쭉날쭉했다. Lightroom 모바일의 Open Eyes는 생성형 AI로 새 눈을 조명과 포즈에 맞춘다. Lightroom 라이브러리에 있는 같은 인물의 다른 사진도 참고해 눈 색과 크기, 모양까지 본인과 정확히 맞춘다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Photoshop 같은 다른 Adobe 앱에서도 자체 생성형 AI 도구로 비슷하게 고칠 수는 있지만, 탭 한 번으로 끝나지 않고 무료도 아니다. DPReview에 따르면 Lightroom 모바일 앱 무료 버전 사용자는 Open Eyes를 두 번 써 볼 수 있다. 그 뒤로는 각종 AI-powered 도구에 쓸 크레딧이 더 들어 있는 Adobe Creative Cloud 플랜 구독 안내가 뜬다."
+        }
+      ]
     }
   }
 }

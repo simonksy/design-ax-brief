@@ -8882,6 +8882,139 @@
           "x": "When it works, scrolling feels like the future: Translation is smart, Navigation is handy and the AI is fast enough, though the Conversate meeting notes struggle to draw conclusions. The reviewer still prefers the discontinued G1."
         }
       ]
+    },
+    "gadgets/gadgets-gm-onstar-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
+        },
+        {
+          "t": "p",
+          "x": "General Motors is adding a personal AI assistant to OnStar as part of a broader makeover of the subscription-based connected car service it launched 30 years ago. The OnStar AI Assistant will debut in the 2027 Cadillac Lyriq EV in the coming months, with more GM vehicles to follow, the company said at its GM Forward event in New York."
+        },
+        {
+          "t": "p",
+          "x": "A new OnStar mobile app arriving in 2027 will sync with the in-car software and replace the OnStar Guardian app as well as the Buick, Cadillac, Chevrolet and GMC brand apps. Unlike earlier efforts built on Google’s Dialogflow and Gemini, the assistant is an in-house effort that puts agentic AI at the center."
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-Mobile-App-Stills.jpg?w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Vehicle cameras will offer live views and can switch on automatically when the car senses an impending event, such as an aggressive horn honk, then upload the recording to the app. Drivers can also use voice to control functions like climate and ask about any vehicle feature."
+        },
+        {
+          "t": "p",
+          "x": "After an FTC order over data sharing, GM said customers decide what data is shared, recordings are encrypted and time-limited, and neither GM nor OnStar can access Connected Camera recordings."
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-h2x": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Y3zb4o47yqA"
+        },
+        {
+          "t": "p",
+          "x": "Unitree has revealed a Robocop-esque humanoid called the H2-X Kung Fu Legend Guardian, based on its H2 platform and designed for security. A one-minute teaser shows the robot unleashing knees and punches on cars in a scrapyard, jumping in front of its owner during attempted robberies, and lifting cars to free people trapped underneath."
+        },
+        {
+          "t": "p",
+          "x": "Unitree hasn’t revealed much in the way of specs, beyond that it can jump from four-meter-high platforms and stand for “approximately eight hours” between charges. The similar H2 is a 1.8-meter humanoid with an optional Nvidia Jetson AGX Thor chip, priced at $29,900."
+        },
+        {
+          "t": "p",
+          "x": "The H2-X is unlikely to go on general sale, and there are no details on pricing or availability — consumer certification would be a major hurdle for a personal bodyguard robot. Separately, Unitree, Nvidia and Sharpa are working on an H2+ blueprint for next-gen “embodied intelligence” robots."
+        }
+      ]
+    },
+    "gadgets/gadgets-timekettle-livetalk": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+          "cap": "Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "The Timekettle LiveTalk looks like a regular pair of open earbuds and works as one, with good sound, 8 hours of playback and 35 hours with the case, for $129. But it can also translate between 54 languages and 108 accents, with 25 language pairs available offline."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-2.jpg",
+          "cap": "Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "The app has four modes: Face to Face, Live Listening, Voice Call Translation and Multi-Media Translation. In-person translation worked very well; live listening lagged about 10–15 seconds behind the speaker; calls through the iPhone’s stock Phone app were unreliable, though WhatsApp, Messenger, Discord and Android worked perfectly. Multi-Media mode, which translates any audio playing on the device, was the most seamless."
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-6.jpg",
+          "cap": "Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "An experimental AI Language Tutor role-plays scenarios like ordering coffee or a job interview in English, Spanish and Chinese. The free plan includes 200 minutes of live translation a month; Unlimited costs $9.99 a month."
+        }
+      ]
+    },
+    "gadgets/gadgets-speakon-button": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+          "cap": "SpeakON"
+        },
+        {
+          "t": "p",
+          "x": "Talking to your phone in public might still earn you a few strange looks, but SpeakON thinks it's a better option than typing. The company has introduced SpeakON Agent, an AI-powered feature for its magnetic iPhone accessory. The hardware is a small magnetic button that sticks to the back of your iPhone. Press it, start talking, and the software converts your speech into polished text — even without unlocking the phone or switching apps."
+        },
+        {
+          "t": "p",
+          "x": "Tell the Agent about a meeting, an idea or something you need to remember, and it can organize your thoughts into notes, lists and suggested actions, such as setting a reminder or preparing an email, although you'll still need to approve what happens next. Smart Polish removes ums and ahs, another feature adjusts your writing style per app, and there's translation in 12 languages, custom vocabulary and offline recording."
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Translation12.png",
+          "cap": "SpeakON"
+        },
+        {
+          "t": "p",
+          "x": "The company advertises over 10 hours of continuous battery life. SpeakON is available in the US for $129. iPhones already understand voice commands, but giving voice input its own dedicated button is an interesting idea."
+        },
+        {
+          "t": "video",
+          "yt": "ex-r8xRSIYE"
+        }
+      ]
+    },
+    "gadgets/gadgets-perplexity-mac-local": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+        },
+        {
+          "t": "p",
+          "x": "At the start of September, Perplexity introduced Hybrid Compute, an update to its Computer app that let users split AI workloads across frontier and local models. Now the company is making it possible to run the platform entirely on your own device."
+        },
+        {
+          "t": "p",
+          "x": "Provided you own a recent Apple Silicon Mac with at least 36GB of RAM, you can run the entire Computer experience, including the harness and orchestrator, on your own machine. Perplexity pitches it as a boon to thrifty users and those who want to keep their data private: with access to Notes and Mail, Computer could generate a priority to-do list without any email data being sent to the cloud. \"This gives users more control over sensitive data and credit spend,\" the company says."
+        },
+        {
+          "t": "p",
+          "x": "You can choose one of two local models: Qwen 3.6 or PPLX Pro, a Perplexity offshoot of Qwen 3.6 post-trained for Computer use. If a task would benefit from a frontier system, you can authorize the software to call on one of more than 15 models. Any code or tool execution runs in an isolated sandbox."
+        },
+        {
+          "t": "p",
+          "x": "Perplexity Pro, Max and Enterprise subscribers can begin using Computer locally starting today by installing the latest Perplexity Mac app and following the in-app instructions to download a local model."
+        }
+      ]
     }
   }
 }

@@ -7485,6 +7485,132 @@
           "x": "Estos firmwares están menos probados que los oficiales. Elektron prohibió en sus foros los enlaces a firmware personalizado y advirtió que las modificaciones podían inutilizar las máquinas, mientras que M-Vave anunció FM1 Open, un firmware de código abierto con kit de desarrollo y herramienta de flasheo."
         }
       ]
+    },
+    "music/music-iamddb-ai-likeness": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
+        },
+        {
+          "t": "p",
+          "x": "IAMDDB ha acusado a la cuenta de redes sociales gestionada por el gobierno de Israel de “robar su identidad” después de que una figura muy parecida a la artista de Manchester apareciera en un video de propaganda AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "El clip, ya eliminado, se compartió el 15 de octubre en los perfiles oficiales de Israel en redes sociales y mostraba a una mujer parecida a la música nacida en Portugal recitando versos como: “Colonisers? Say the name. Jews from Judea, it's in the damn name.” (“¿Colonizadores? Di el nombre. Judíos de Judea, está en el maldito nombre”). Según el Manchester Evening News, lo creó el director Eyal Be, nacido en Israel y radicado en Nueva Jersey, con el texto “'GO BACK WHERE YOU CAME FROM!' We did.” (“¡Vuelvan de donde vinieron!” Lo hicimos)."
+        },
+        {
+          "t": "p",
+          "x": "El activista Rafael Shimunov encontró una foto de prensa de Crack de 2018 en la que IAMDDB, cuyo nombre real es Diana DeBrito, lleva un atuendo casi idéntico; los logos de BALR. y Calvin Klein habían sido alterados con AI para leer “RALA.” y “Calvin Kale.”"
+        },
+        {
+          "t": "p",
+          "x": "El 16 de octubre, IAMDDB escribió en X: “Hola, sí, a ver - ¿por qué robaron mi identidad para algo que 100% no consentí?”"
+        }
+      ]
+    },
+    "music/music-gavras-storm-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
+        },
+        {
+          "t": "p",
+          "x": "Imitadores han “recreado” con AI “Storm”, el cortometraje de Romain Gavras con Yung Lean, poniendo en su lugar perros, bebés, abuelas, Elon Musk y otros. Gavras dijo a Vulture que las copias con AI “me entristecieron por toda la gente que puso tanto trabajo en nuestro video”."
+        },
+        {
+          "t": "p",
+          "x": "El presupuesto fue “muy, muy, muy, muy bajo” y él trabajó gratis; los bailarines salieron de un casting de dos meses, ensayaron tres días con el coreógrafo Damien Jalet, y la toma continua en 16 mm necesitó unos 15 intentos."
+        },
+        {
+          "t": "p",
+          "x": "“Una tendencia así puede hacer que incluso un buen trabajo parezca mediocre”, dijo. Está explorando vías legales y rechazó ofertas de licencia de algunas empresas de AI: “Se acerca un modelo económico del que no queríamos formar parte”."
+        },
+        {
+          "t": "p",
+          "x": "Las copias lo impulsaron a interpretar “Storm” en directo en los MTV VMAs. “Les falta el swagger de Yung Lean”, dijo Gavras. “Hay algo en la imperfección de la humanidad… que todavía no está del todo ahí”."
+        }
+      ]
+    },
+    "music/music-nmpa-streaming-fraud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Antes del juicio ante la Copyright Royalty Board sobre las tarifas de streaming para compositores de 2028–2032, el presidente y CEO de la NMPA, David Israelite, sostiene que el tribunal también debe abordar el fraude en streaming, cuya escala es “enorme y agravada por la inteligencia artificial”."
+        },
+        {
+          "t": "p",
+          "x": "Como las regalías salen de un fondo fijo de ingresos repartido según las reproducciones, los streams fraudulentos reducen directamente lo que reciben los compositores humanos. Michael Smith, que creó cientos de miles de canciones con AI reproducidas miles de millones de veces, fue condenado a 18 meses. Apple Music detectó 2 mil millones de streams fraudulentos en 2025, y Deezer informa de 90,000 pistas totalmente AI-generated subidas cada día, con hasta un 85% de sus streams artificiales."
+        },
+        {
+          "t": "p",
+          "x": "Israelite también señala el lavado de dinero mediante streams falsos y la manipulación de mercados de predicción, y culpa a la falta de transparencia de las plataformas sobre la música con AI."
+        },
+        {
+          "t": "p",
+          "x": "La NMPA celebrará esta semana una Songs Summit en Nashville para fijar estándares de etiquetado de AI, reporte de uso y detección."
+        }
+      ]
+    },
+    "music/music-moises-soundcloud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+          "cap": "Moises x SoundCloud"
+        },
+        {
+          "t": "p",
+          "x": "Moises, la suite creativa AI-powered entrenada de forma ética que usan 80 millones de músicos, y SoundCloud anunciaron el 21 de octubre una alianza que permite a los artistas llevar sus pistas de SoundCloud a Moises para practicar, producir, colaborar y reinterpretarlas, y luego publicar la música terminada directamente en SoundCloud."
+        },
+        {
+          "t": "p",
+          "x": "Los artistas pueden usar la separación de stems y la detección de acordes y letras de Moises, abrir pistas en Moises Studio, basado en la web, para mezclarlas, masterizarlas o reinterpretarlas con generación contextual de stems, invitar a colaboradores en tiempo real y trabajar con Moi, un asistente de producción agéntico que prepara sesiones y mezcla y masteriza según sus requisitos."
+        },
+        {
+          "t": "img",
+          "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+          "cap": "Integración Moises x SoundCloud"
+        },
+        {
+          "t": "p",
+          "x": "\"Creemos que el futuro de la AI en la música debe poner primero al artista y al ser humano\", dijo Eliah, CEO de SoundCloud. SoundCloud afirma que no usa la música de los artistas para entrenar modelos de AI generativa sin su consentimiento explícito; Moises dice que sus modelos se entrenan solo con música licenciada y autorizada, no con contenido subido por usuarios, y que sus herramientas no generan canciones completas."
+        },
+        {
+          "t": "p",
+          "x": "Los suscriptores de Moises Pro obtienen una prueba de 2 meses de SoundCloud Artist Pro, y los miembros de SoundCloud Artist Pro, una prueba de 2 meses de Moises Pro."
+        }
+      ]
+    },
+    "music/music-spotify-50m-slop-purge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Spotify afirma que en el último año ha retirado de las recomendaciones de los usuarios más de 50 millones de canciones consideradas basura generada por AI (AI-generated) o spam. Así lo indica un anuncio del martes, según el cual Spotify también ha modificado su sistema de recomendación para destacar más música creada por artistas humanos."
+        },
+        {
+          "t": "p",
+          "x": "“Nuestros editores aplican el mismo criterio y no programan contenido identificado como basura o spam”, afirma Spotify. “Desde que hicimos estos cambios, hemos observado una clara disminución de la preocupación de los oyentes por la aparición de este contenido en las recomendaciones”."
+        },
+        {
+          "t": "p",
+          "x": "Aunque Spotify no ha llegado a exigir etiquetas en todas las pistas AI, lanzó una insignia “AI Persona” para artistas que usan una identidad AI y no representan a una persona real. Tampoco recomendará música de personas AI. Otras plataformas adoptan una postura más firme: YouTube Music etiqueta las canciones AI, Deezer permite a los usuarios filtrar la basura AI y Bandcamp prohíbe por completo la música AI."
+        },
+        {
+          "t": "p",
+          "x": "Spotify explica que combina la interacción y los comentarios de los oyentes, los patrones de subida, los metadatos y herramientas de detección de AI de terceros para determinar si una pista puede ser basura AI-generated. El año pasado, la compañía dijo haber eliminado más de 75 millones de canciones identificadas como spam. También se ha asociado con Universal Music Group y Believe para lanzar una herramienta de creación de remezclas musicales con AI."
+        }
+      ]
     }
   }
 }

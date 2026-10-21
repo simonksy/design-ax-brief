@@ -1672,6 +1672,128 @@
           "x": "El consejero delegado Kwon Joon-myung subrayó: \"Ahora que hemos completado los preparativos para entrar en EE. UU., el mayor mercado del mundo, trabajaremos para lograr grandes resultados\"."
         }
       ]
+    },
+    "medicine/medicine-seoul-declaration": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "El Ministerio de Salud y Bienestar y la Organización Mundial de la Salud (WHO) establecieron principios internacionales comunes para garantizar la supervisión de los profesionales sanitarios y el juicio final humano en el uso de AI en la atención sanitaria, y para difundir tecnologías de AI con eficacia clínica y seguridad verificadas."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
+          "cap": "La ministra de Salud y Bienestar, Jeong Eun-kyeong (izquierda), y el director general de la WHO, Tedros (derecha), en una rueda de prensa. Foto: Lee Jae-won, periodista"
+        },
+        {
+          "t": "p",
+          "x": "La ministra Jeong y el director general Tedros presentaron conjuntamente la 'Declaración de Seúl sobre AI en Salud para la Innovación Responsable y la Solidaridad Global' en la ceremonia de apertura de la 'Cumbre Mundial Bio 2026' el día 21. Es la primera vez que el ministerio y el director general de la WHO emiten una declaración conjunta sobre AI en salud."
+        },
+        {
+          "t": "p",
+          "x": "La declaración establece el principio de que la AI se utilice dentro de su ámbito de uso validado y en condiciones que permitan la supervisión humana, y de que el juicio final corresponde a las personas. También recomienda una gobernanza proporcional al nivel de riesgo, desde el desarrollo hasta el uso."
+        },
+        {
+          "t": "p",
+          "x": "Incluye además principios sobre la prevención del monopolio de datos y del dominio del mercado, la armonización de estándares y regulaciones internacionales, el apoyo a la participación de países de ingresos bajos y medianos, y la gestión de riesgos de bioseguridad. \"Esto no significa que la innovación pueda avanzar sin salvaguardas\", afirmó el director general Tedros."
+        },
+        {
+          "t": "p",
+          "x": "La ministra Jeong señaló que mantiene conversaciones técnicas con la WHO para crear un centro global de AI y que, tras demostrar y validar las tecnologías de AI, las extenderá a países de ingresos bajos y medianos."
+        }
+      ]
+    },
+    "medicine/medicine-cbct-lung-biopsy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La biopsia por punción pulmonar es el estándar de referencia para diagnosticar nódulos pulmonares, pero la baja calidad de imagen de la CBCT y la limitada inteligencia de guiado ralentizan los procedimientos, sobre todo en lesiones pequeñas y complejas."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores liderados por la Huazhong University of Science and Technology crearon GPS-Lung, un Generative AI-Powered Puncture Surgery Navigation System, y lo probaron en un ensayo controlado aleatorizado multicéntrico (NCT06762613)."
+        },
+        {
+          "t": "p",
+          "x": "Con GPS-Lung, los cirujanos necesitaron menos punciones (2.0 ± 1.2 vs. 2.5 ± 1.7, P = 0.005), el tiempo operatorio bajó de 23.2 ± 6.3 a 20.4 ± 5.6 minutos (P = 0.001) y la exposición a radiación cayó de 5570.9 a 4357.4 μGy·m² (P = 0.033)."
+        },
+        {
+          "t": "p",
+          "x": "Las complicaciones por neumotórax bajaron del 23.9% al 12.7% (P = 0.033). Los autores afirman que el sistema hizo el procedimiento más estandarizado y eficiente."
+        }
+      ]
+    },
+    "medicine/medicine-unfold-surgery-mode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Avenda Health lanza Surgery Mode, un conjunto de funciones intraoperatorias para su plataforma de mapeo del cáncer de próstata Unfold AI."
+        },
+        {
+          "t": "p",
+          "x": "La plataforma analiza los datos de MRI, biopsia, patología y antígeno prostático específico del paciente para generar un mapa 3D de la extensión del cáncer."
+        },
+        {
+          "t": "p",
+          "x": "Surgery Mode permite a los cirujanos usar los mapas durante procedimientos robóticos y no robóticos. Las nuevas funciones incluyen vistas 3D ampliadas y un mapa de estimación del cáncer que puede ajustarse al ángulo de la cámara de la consola quirúrgica; la revisión de los cortes de MRI subyacentes durante el procedimiento; una superposición de puntuación de riesgo capsular que replica automáticamente la vista de la cámara quirúrgica y muestra el riesgo por cuadrante con códigos de color para orientar las decisiones de preservación nerviosa; y herramientas actualizadas de gestión de casos y administrativas para médicos y personal."
+        },
+        {
+          "t": "p",
+          "x": "Según la empresa, Unfold AI predice la extensión del cáncer a la anatomía cercana con un 92% de precisión, frente al 52% con MRI sola."
+        }
+      ]
+    },
+    "medicine/medicine-aidoc-pe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "La embolia pulmonar (PE) es una de las principales causas de mortalidad cardiovascular, pero el rendimiento real de los modelos de detección con AI FDA-cleared sigue sin caracterizarse por completo."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Emory University evaluaron de forma retrospectiva dos algoritmos Aidoc BriefCase FDA-cleared en un sistema de salud académico de 17 centros: uno para el triaje de PE en angiografía pulmonar por CT dedicada (n = 30,678) y otro para PE incidental en CTs rutinarias con contraste (n = 37,191). Las etiquetas de referencia se obtuvieron de los informes radiológicos mediante un flujo LLM validado (97% de precisión, κ = 0.94)."
+        },
+        {
+          "t": "p",
+          "x": "El modelo de PE alcanzó un 86.8% de sensibilidad y un 99.1% de especificidad. La sensibilidad bajó del 99.3% en émbolos en silla de montar al 72.9% en PE subsegmentaria, y del 89.7% en PE aguda al 65.3% en PE no aguda (non-acute). El modelo incidental-PE alcanzó un 73.5% de sensibilidad y un 99.8% de especificidad."
+        },
+        {
+          "t": "p",
+          "x": "Ambos modelos mostraron una sensibilidad inferior a sus referencias de FDA-clearance, aunque superaron la especificidad autorizada, lo que según los autores subraya la necesidad de una vigilancia post-market estandarizada de los dispositivos médicos AI-enabled."
+        }
+      ]
+    },
+    "medicine/medicine-fahr-face-illness-photo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Una herramienta de AI podría ayudar a los médicos a juzgar la gravedad de un paciente a partir de una sola fotografía de su rostro, según investigadores de EE. UU. (US). Entrenada con millones de rostros sanos y 35,000 fotos de pacientes con cáncer, estima la supervivencia examinando de cerca los rasgos cercanos a los ojos. Los resultados preliminares se publicaron en Lancet Digital Health."
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a1e6/live/25088dc0-c945-11f1-9357-bdb8a3cad3e4.png",
+          "cap": "Regiones faciales más importantes para la supervivencia al cáncer (izquierda) y para la edad (derecha). Mass General Brigham/Lancet Digital Health"
+        },
+        {
+          "t": "p",
+          "x": "La herramienta 'FaceSurvival' señala la zona bajo los ojos y alrededor del puente de la nariz como la más determinante en muchos tipos de cáncer, incluidos los que se habían extendido al hueso o al cerebro. Una segunda herramienta, 'FaceAge', estima la edad biológica a partir de zonas como los surcos nasolabiales, la frente y las sienes."
+        },
+        {
+          "t": "p",
+          "x": "El investigador principal, el Dr Raymond Mak, de Mass General Brigham, afirma que el objetivo es que la evaluación de la salud basada en el rostro sea \"más cuantitativa, consistente y escalable\" para apoyar las decisiones de tratamiento, \"en lugar de sustituir el juicio médico\". El equipo señala que necesita muchos más datos, sobre todo de distintos grupos étnicos."
+        },
+        {
+          "t": "p",
+          "x": "El Prof Miroslaw Bober, de la University of Surrey, lo califica de \"una prueba de concepto prometedora, pero no está lista para el uso clínico\", y advierte: \"Predecir un resultado no es lo mismo que explicarlo\"."
+        }
+      ]
     }
   }
 }

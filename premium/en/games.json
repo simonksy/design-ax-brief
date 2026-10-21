@@ -8371,6 +8371,136 @@
           "x": "It also supports scripts and automated pipelines, with project-specific settings and generation histories for consistency. The CLI is available on Pro and Studio plans and can be installed via npm or run with npx. Ludo has also launched a Developers section at ludo.ai/developers covering the CLI, MCP server, REST API and Unity plugin."
         }
       ]
+    },
+    "games/games-molleindustria": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "Political game developer Paulo \"Molleindustria\" Pedercini has revealed that \"a tiny fraction\" of the code for ecosocialist satire Future? No Thanks! was written with AI support near the end of the project, to assess and fix bugs. The game also uses about two minutes of ElevenLabs text-to-speech for an automated toilet and a mistranslating personal assistant; he insists none of the art or writing is AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "\"Slop and vibe-coded games are a scourge, AI is a technofascist, anti-human and anti-art project,\" he wrote on his blog, adding that 99% of the code predates AI coding tools and that \"ChatGPT or Claude\" served as \"a powerful semantic search engine\" for fixes like a broken shader. \"AI generated code is hard to remove once introduced.\""
+        },
+        {
+          "t": "video",
+          "yt": "nDD-FhqDvow"
+        },
+        {
+          "t": "p",
+          "x": "Closing thoughts questioning strict \"AI-free\" standards were deleted after a Bluesky backlash. RPS calls the disclosure disappointing: he should have made his case before selling the game."
+        }
+      ]
+    },
+    "games/games-vibecoding-webgame": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp"
+        },
+        {
+          "t": "p",
+          "x": "The spread of natural-language vibe coding has opened an era in which anyone can easily make and distribute web games. As coding-focused AI tools handle JavaScript and HTML smoothly, Korean titles such as 'This Life Is Baseball' and '1 in 8 Billion' have become hugely popular through community word of mouth."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/995/20261019183348.jpg",
+          "cap": "This Life Is Baseball, in which you create your own player and gradually develop them through training and strategy (Photo: taken by GameMeca)"
+        },
+        {
+          "t": "p",
+          "x": "However, when a game asks users for account information or personal verification codes, work built by relying solely on AI without knowing even the most basic security guidelines can quickly lead to a security incident. Without basic coding knowledge, it is hard to spot flaws or security holes in code written by AI, and API leaks can harm both users and creators."
+        },
+        {
+          "t": "p",
+          "x": "Age ratings are also easy to overlook. Once a game starts earning money through sponsorships, ads or similar means, it must go through a rating review regardless of amount or scale, and the same applies to non-commercial games with content unsuitable for minors. According to the Game Rating and Administration Committee, web games are classified as 'PC/online' games."
+        },
+        {
+          "t": "p",
+          "x": "The fact that anyone can make games is not a license to make and distribute them carelessly. The moment a game grows into a public service, its creator must become fully responsible for that service."
+        }
+      ]
+    },
+    "games/games-pgc-nordics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "More isn't always better. That idea ran through several sessions at PGC Nordics, which brought the mobile games industry to Helsinki on October 20th and 21st."
+        },
+        {
+          "t": "p",
+          "x": "Katharina Schmidt urged studios to agree three IP collab details at the start: how long it runs, where it's available and how the IP appears in the game. \"Agree on IP usage rights and approvals early,\" she said."
+        },
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141813/90088/lukedickenpgcnordics_1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Dr Luke Dicken, founder of LuDic AI and former head of AI at Take-Two Interactive, warned against both writing generative AI off and treating one success as proof everything has changed. Studios will get more from focusing where AI adds real value, such as LLM-driven contextual recaps for returning players. \"People that are chasing the productivity conversation are just running on a treadmill.\""
+        },
+        {
+          "t": "p",
+          "x": "Outfit7's Urška Leskovar said adding more events when engagement dips misses the point: \"Players don't need more to do. They need a reason to care.\" Xsolla's Ola Dokun added: \"Having a webshop is not the same as having a D2C strategy.\""
+        }
+      ]
+    },
+    "games/games-xbox-ai-manager": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Brandon Stirrup, a senior business strategy manager at Microsoft, went on a posting spree to assert that use of AI at Xbox is widespread and that he no longer cares who knows it. \"I'm happy to take the hit if it means hundreds at Xbox can stop pretending that they're not using AI,\" he posted on X. \"It's time to accept and move forward.\""
+        },
+        {
+          "t": "p",
+          "x": "\"Gaming is the only industry pretending not to use AI,\" he wrote. \"Look, if I'm fired tomorrow it will be because I told you the truth that nobody wants you to know. You can make a game with a simple prompt and yes you can make custom, tailored games.\""
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Screenshot-2026-10-20-at-11.21.03%E2%80%AFAM.jpg",
+          "cap": "©Brandon Stirrup / X"
+        },
+        {
+          "t": "p",
+          "x": "The thread was deleted along with his account; sources told PC Gamer he deleted it because of the volume of replies. Kotaku argues that broadcasting blanket AI adoption is a good way to drive away customers Xbox sorely needs. \"Users want the truth,\" he wrote. \"We're using AI.\""
+        }
+      ]
+    },
+    "games/games-gemini-agents-ender-dragon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "Google researchers have released a paper claiming that four Google Gemini 4 Argon AI agents just beat Minecraft without any help from humans. It took them just over 27 hours to take down the Ender Dragon in what is believed to be a world first."
+        },
+        {
+          "t": "p",
+          "x": "Google placed the team of four agents into a random Minecraft seed with a single goal: defeat the Ender Dragon. \"Each agent controlled a player via an open-source library called Mineflayer and coordinated with its teammates through in-game chat and shared memory,\" the researchers said. \"No one assigned roles or wrote game logic. The agents planned, wrote, and debugged every program themselves.\""
+        },
+        {
+          "t": "p",
+          "x": "The agents settled into roles quickly — farming, gathering food, exploring — and shared combat tips. Over the run they exchanged 229 messages, ran 2,783 programs and died 605 times, while a fifth agent checked that none were cheating. Reaching The End took around 13.5 hours; the agents used 1.35 billion input tokens, roughly $1,620 for a normal user."
+        },
+        {
+          "t": "p",
+          "x": "The researchers said they wanted to study how teams of agents coordinate in a fully visible setting before such systems are trusted with real-world tasks: \"The skills required to solve Minecraft such as coordinating a team, recovering from failure, and pursuing a goal for more than a day, are also what agents need to work reliably alongside people.\""
+        }
+      ]
     }
   }
 }

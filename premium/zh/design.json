@@ -8708,6 +8708,137 @@
           "x": "如果你已经清楚自己想要什么，在提示中说明即可，Notebook会直接进入审阅环节。若只需快速产出，可跳过Review开关，照常生成。这些协同创作功能将在未来一周内面向全球所有Gemini Notebook用户陆续推出。"
         }
       ]
+    },
+    "design/design-nvidia-gtc-berlin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIA在GTC Berlin上表示，欧洲（Europe）的工业领军企业正在工程和制造各环节使用其CUDA-X和Omniverse库，以及Cosmos和Nemotron开放模型。用于构建工厂智能体的Factory Operations Blueprint（FOX）现已开放抢先体验；Siemens正将FOX智能体集成到Intelligence Center X中。"
+        },
+        {
+          "t": "p",
+          "x": "在设计环节，CUDA-X加快仿真速度，让工程师在制作实体原型前就能探索替代方案；NVIDIA还正式发布了cuDSS。Autodesk将NVIDIA PhysicsNeMo和Warp引入与Autodesk Alias集成的NavPack，帮助Bentley等公司的设计师借助经仿真训练的AI预测车辆性能、加快迭代。"
+        },
+        {
+          "t": "p",
+          "x": "汽车制造商使用Dassault Systèmes的Nemotron-powered LEO & AURA Virtual Companions编排CATIA和SIMULIA AI智能体，快速设计车门并进行虚拟测试。Leonardo与Neural Concept合作开展AI-driven飞机设计，PhysicsX则与GB1合作设计游艇。"
+        },
+        {
+          "t": "p",
+          "x": "Audi、Schaeffler和Wandelbots借助Omniverse和Isaac数字孪生，在改动工厂车间之前测试生产线和机器人。"
+        }
+      ]
+    },
+    "design/design-windows-designers-code": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft产品设计副总裁（Vice President of Product Design）Diego Baca表示，为清理Windows 11的设计不一致问题，设计师如今正借助AI贡献代码修复。他是在X上与Lockergnome创始人Chris Pirillo交流时说这番话的。"
+        },
+        {
+          "t": "p",
+          "x": "“AI已经帮助我们的设计团队大幅提速。我们甚至看到设计师直接参与代码修复，提升工艺、一致性和质量。这是令人振奋的进展，而我们才刚刚开始。”"
+        },
+        {
+          "t": "p",
+          "x": "Baca没有说明使用了哪些AI工具、修复了什么，以及AI写了多少代码，也没有给出实现一致性的时间表，只称这是“一项正在进行的工作”。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+          "cap": "Windows 11全新的原生Search UI"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft正在用WinUI 3重建Windows 11的部分组件：正在Insider中测试的新版Search、显示时间中位数为94ms的新版Run对话框，以及加载速度快25%的Photos Editor。旧版Mouse Properties对话框等遗留角落依然存在。"
+        },
+        {
+          "t": "p",
+          "x": "设计师通常把设计稿交给工程师后等待；能借助AI自己修正间距的设计师，可以省去大量来回沟通。"
+        }
+      ]
+    },
+    "design/design-slop-skill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+        },
+        {
+          "t": "p",
+          "x": "无论让哪个AI“做一个落地页”，得到的都是巨大的圆角卡片、红紫渐变上的毛玻璃、发光的霓虹按钮、没有浅色模式的纯黑背景、居中的64px大标题，以及一条无尽的单栏。一个有80+条回复的V2EX帖子也列出了同样的毛病。"
+        },
+        {
+          "t": "p",
+          "x": "design-slop-skill是一款Claude Code技能，能以确定性方式检测这些模式，并按人工打磨的默认值改写。两个仅依赖标准库（stdlib-only）的Python脚本不需要LLM、网络或任何依赖。"
+        },
+        {
+          "t": "p",
+          "x": "detect.py扫描HTML/CSS，报告每条发现的规则id、文件、行号和双语说明，并加权得出0–100的slop分数。fix.py则反向处理：圆角限制在10px，去掉模糊，中和发光，压平紫色渐变，添加light-mode区块，并把主视觉标题收敛为2.25rem左对齐。"
+        },
+        {
+          "t": "p",
+          "x": "七条规则（SLOP-001至SLOP-007）覆盖了这份吐槽清单；紫色检测基于色相。作为技能，代理会在生成过程中而非生成后运行它。主题切换和网格重构留给人来处理。采用MIT许可，附带23个单元测试。"
+        }
+      ]
+    },
+    "design/design-just-eat-ai-photos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+          "cap": "Just Eat的AI图像生成器为多道菜品生成了不准确的图片，其中包括一款传统爱尔兰（Irish）培根鸡蛋苏打面包三明治。图片来源：Just Eat UK"
+        },
+        {
+          "t": "p",
+          "x": "外卖应用Just Eat就菜单上多张不准确的AI-generated照片致歉，其中一张显示培根和鸡蛋漂浮在汽水中。"
+        },
+        {
+          "t": "p",
+          "x": "在英国（U.K.）运营的Just Eat此前为未自行拍照的餐厅试用AI-generated图片，并为每张图片标注“AI-generated”。据The Independent报道，在顾客投诉后，公司已暂停这项试用。"
+        },
+        {
+          "t": "p",
+          "x": "北爱尔兰（Northern Ireland）一家售卖苏打面包三明治的餐厅，被配上了香肠、培根和煎蛋漂浮在一品脱碳酸饮料中的图片。椒盐薯条变成了埋在盐和胡椒里的普通薯条，一道切达奶酪菜品则显示为一种类似芝士火锅的橙色酱汁。"
+        },
+        {
+          "t": "p",
+          "x": "Just Eat表示：“我们一直在试用AI-enhanced图片，和任何新技术一样，第一次并不总能做到完全正确。”“对于已发布的不准确图片，我们深表歉意。”公司正在删除这些图片，并在开发该工具期间暂停推广。"
+        }
+      ]
+    },
+    "design/design-lightroom-open-eyes-tap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+          "cap": "当移动应用检测到照片中有人闭眼时，会向用户显示全新的Open Eyes Quick Action工具。"
+        },
+        {
+          "t": "p",
+          "x": "Adobe昨天宣布，适用于iOS、iPadOS和Android的Lightroom移动版现在可借助生成式AI，一键睁开照片中闭上的眼睛。当应用检测到照片中有一人或多人闭眼时，会自动显示新的Open Eyes Quick Action，以图标形式出现在图像上方，方便用户使用这项新功能。"
+        },
+        {
+          "t": "p",
+          "x": "通过睁开主体的眼睛来挽救一张原本很好的照片，这一功能在Adobe的Photoshop Elements中已存在近十年。但正如DPReview所指出的，Elements从主体的另一张照片中提取替换的眼睛，效果取决于两张图像之间的差异，好坏不一。Lightroom移动版的Open Eyes则依靠生成式AI，使替换的眼睛与光线和姿态相符，并会参考用户Lightroom图库中同一人物的其他图像，让睁开的眼睛在颜色、大小和形状上与本人准确一致。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "在Photoshop等其他Adobe应用中，也可以用其自带的生成式AI工具进行类似修复，但无法一键完成，也不免费。据DPReview报道，Lightroom移动应用免费版用户可试用两次Open Eyes功能，之后会收到提示，订阅包含更多各类AI-powered工具额度的Adobe Creative Cloud方案。"
+        }
+      ]
     }
   }
 }

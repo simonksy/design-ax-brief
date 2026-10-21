@@ -1853,6 +1853,131 @@
           "x": "MetaのGEMおよびAdaptive Ranking Modelと組み合わせたGenRecs Tokenizationは、各面でコンバージョンを+0.35%押し上げた(Meta社内データ、2026年2月)。次の段階は、トークン化の対象範囲の拡大と、テキスト・画像・音声・動画をまたぐ共有トークン空間である。"
         }
       ]
+    },
+    "marketing/marketing-walmart-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+          "cap": "Walmartはエージェントによるショッピングを支える新機能を投入する。"
+        },
+        {
+          "t": "p",
+          "x": "Walmartは、顧客に代わって買い物をするエージェントに門戸を開く。AmazonがMetaのMuse AIアシスタントによる同様の買い物をブロックしてから、ひと月後のことだ。"
+        },
+        {
+          "t": "p",
+          "x": "Walmartは今後ひと月以内にAgent Profilesを開始する。買い物客はAIエージェントごとに専用プロフィールで権限を与え、その購入を個別に確認できる。購入ごとに承認を求めることも、支出上限の範囲でエージェントに購入を任せることもできる。Walmart Agent GatewayのベータはMCPを使い、消費者向けウェブサイトより速く確実に買い物できる手段をエージェントに提供する。"
+        },
+        {
+          "t": "p",
+          "x": "Walmartのルールでは、返品は従来どおり適用され、エージェントによる購入は既定で顧客の承認が必要となる。エージェントは買い物客の意図を超える行動はできず、決済カード情報も受け取らない。規約に従わないエージェントはブロックされる。"
+        },
+        {
+          "t": "p",
+          "x": "Walmart ConnectのRyan Mayward氏は、会話はキーワード以上のものを明らかにすると述べ、「チャンスは、顧客が何を検索しているかだけでなく、何を成し遂げようとしているかに関連性を持たせることにある」と語った。マーケットプレイス担当SVPのManish Joneja氏は、AIを活用した(AI-powered)ショッピングでは正確な商品情報、価格、配送の約束がいっそう重要になると述べた。"
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-markets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIは水曜日、ChatGPT Adsを新たに26か国へ拡大すると発表した。うち14か国はアルゼンチン、チリ、コロンビアなどラテンアメリカの国々だ。OpenAIはまた、開始から約8か月で10万社を超える広告主がこのプラットフォームに広告を出したと明らかにした。"
+        },
+        {
+          "t": "p",
+          "x": "ただし、これはアクティブな広告主が10万社という意味ではない。The InformationはNew Street Researchを引用し、10月上旬時点のアクティブな広告主を約6万社と報じた。ChatGPTは今年初め、広告の年換算ランレートが10億ドルに達したと発表したが、当初予測していた売上24億ドルには届いていない。多くの広告主は予算を増やす前により確かな効果測定を求めており、OpenAIは拡大と並行して測定機能を構築していると述べている。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIは今月初め、より大きな画像を使ったビジュアル重視の広告形式を発表した。画像生成にChatGPTを使う人々に表示されるもので、まず米国でテストされた。OpenAIは「追加の形式を検討している」としたが、詳細は明かさなかった。OpenAIは、広告はChatGPTの回答とは引き続き区別されるとしている。"
+        }
+      ]
+    },
+    "marketing/marketing-yelp-lead-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+          "cap": "Yelpは、Request a Quoteのリードに応答し選別するAIエージェントに月30ドルを課す"
+        },
+        {
+          "t": "p",
+          "x": "Smart Lead Replyは、Yelpのメッセージスレッド内でRequest a Quoteの問い合わせに応答し見極めるAIエージェントで、来月の提供開始時には月30ドルとなる。2026年10月20日に公開されたYelpのFall Product Releaseで、事業者向けの目玉となる機能だ。"
+        },
+        {
+          "t": "p",
+          "x": "エージェントはYelp for Businessのアカウントとビジネスページの情報をもとに、質問に答え、案件の詳細を集め、リードを選別する。事業者は予約リンク、サービス、料金やプロモーション、エージェントに尋ねさせる質問を追加できる。リードが選別されるとエージェントが予約リンクを共有し、すべての会話はYelpの受信箱に記録される。"
+        },
+        {
+          "t": "p",
+          "x": "販売対象は、引っ越し、屋根工事、配管、ハウスクリーニング、建設業者、電気工事など対象カテゴリーの事業者だ。Yelpは精度の数値を示しておらず、送信前に事業者がメッセージを承認できるかどうかも明らかにしていない。"
+        },
+        {
+          "t": "p",
+          "x": "今回のリリースでは、Yelp AssistantへのOpenTable予約の追加、レストランに電話して待ち時間を尋ねるAI電話エージェントのCheck for Me、Yelp Audiencesのディスプレイキャンペーン向けの意図ベースのクリエイティブも加わる。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-muse": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+          "cap": "画像クレジット：Samuel Boivin/NurPhoto / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Metaは水曜日の第3四半期決算説明会で、AIアプリMuseの利用者が1000万人を超えたと明らかにした。Mark Zuckerberg氏によると、Museを設定した人の約25%が現在は毎日利用しているという。"
+        },
+        {
+          "t": "p",
+          "x": "同氏は、AIエージェント経由で買い物をしたMuseのアクティブユーザーの4分の1超で、平均購入額が200ドルを上回ったと述べた。MuseはPlaidのコネクターを使ってエージェントによる買い物を可能にしている。ほかに人気の用途には、エージェントをメールやカレンダーにつなぐといった個人の生産性向上タスクがある。"
+        },
+        {
+          "t": "p",
+          "x": "Metaは、大半のユーザーにはMuseを無料で提供しつつプラットフォーム上の取引の一定割合を得て、パワーユーザーには課金する計画だ。Zuckerberg氏は、来年中にMuseのコスト効率を10倍以上改善できる見込みだとし、最終的にはユーザー1人当たりの収益が同社のアプリファミリーを上回ると予測した。"
+        },
+        {
+          "t": "p",
+          "x": "同氏は「Muse network」についても予告した。「何かを買いたいとき、その企業のウェブサイトに移動するだけではなく、その企業のエージェントと話すことになる」"
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-auto-enhance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAIはChatGPT Adsの広告主にメールで、2026年十月30日金曜日から新規・既存のself-serveキャンペーンで「creative enhancements（クリエイティブ強化）」を有効にすると通知した。広告主はそれまでにオプトアウトするか、Ads Managerでいつでも設定を変更できる。既存のアカウント単位・キャンペーン単位のオプトアウト設定は維持される。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+          "cap": "Ads Managerでオンになっているcreative enhancementsの設定"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIによれば、この機能は広告を会話の文脈やユーザーの関心により合ったものにし、複数のバージョンを作る手間を減らす。既存の広告とランディングページの内容をもとに、見出しや説明文を新たに書いたり更新したりし、広告文を他言語に翻訳し、画像サイズを調整し、遷移先URLsを最適化する場合がある。バリエーションは事前に用意されることも、会話に応じてリアルタイムで生成されることもある。"
+        },
+        {
+          "t": "p",
+          "x": "「有効にすると、これらの広告は各バージョンを確認・承認しなくても自動で配信される場合があります」とメールには記されている。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+          "cap": "OpenAIが広告主に送ったメール"
+        },
+        {
+          "t": "p",
+          "x": "X上のPPCマーケターの反応はおおむね懐疑的で、リードの質が低いためChatGPT adsのテストをすでに停止したという声もあった。"
+        }
+      ]
     }
   }
 }

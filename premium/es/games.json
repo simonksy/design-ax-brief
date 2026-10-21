@@ -7972,6 +7972,136 @@
           "x": "También admite scripts y pipelines automatizados, con ajustes específicos por proyecto e historiales de generación para mantener la coherencia. La CLI está disponible en los planes Pro y Studio y puede instalarse con npm o ejecutarse con npx. Ludo también ha abierto una sección Developers en ludo.ai/developers que cubre la CLI, el servidor MCP, la REST API y el plugin de Unity."
         }
       ]
+    },
+    "games/games-molleindustria": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "El desarrollador de juegos políticos Paulo \"Molleindustria\" Pedercini reveló que \"una mínima parte\" del código de la sátira ecosocialista Future? No Thanks! se escribió con apoyo de AI cerca del final del proyecto, para evaluar y corregir errores. El juego también usa unos dos minutos de texto a voz de ElevenLabs para un inodoro automático y un asistente personal que traduce mal; él insiste en que nada del arte ni de los textos es AI-generated."
+        },
+        {
+          "t": "p",
+          "x": "\"Slop y los juegos vibe-coded son una plaga; la AI es un proyecto tecnofascista, antihumano y antiartístico\", escribió en su blog, y añadió que el 99% del código es anterior a las herramientas de programación con AI y que \"ChatGPT o Claude\" le sirvió como \"un potente motor de búsqueda semántica\" para arreglos como un shader roto. \"El código AI generated es difícil de eliminar una vez introducido\"."
+        },
+        {
+          "t": "video",
+          "yt": "nDD-FhqDvow"
+        },
+        {
+          "t": "p",
+          "x": "Las reflexiones finales que cuestionaban los estrictos estándares \"AI-free\" se borraron tras una reacción negativa en Bluesky. RPS califica la revelación de decepcionante: debió exponer sus argumentos antes de vender el juego."
+        }
+      ]
+    },
+    "games/games-vibecoding-webgame": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp"
+        },
+        {
+          "t": "p",
+          "x": "La expansión del vibe coding basado en lenguaje natural ha abierto una época en la que cualquiera puede crear y distribuir juegos web con facilidad. A medida que las AI centradas en la programación implementan JavaScript y HTML con fluidez, en Corea del Sur obras como 'Esta vida es béisbol' y '1 entre 8.000 millones' se han vuelto muy populares gracias al boca a boca en las comunidades."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/995/20261019183348.jpg",
+          "cap": "Esta vida es béisbol, en la que se crea un jugador propio y se le hace crecer poco a poco con entrenamiento y estrategia (Foto: tomada por GameMeca)"
+        },
+        {
+          "t": "p",
+          "x": "Sin embargo, cuando se pide a los usuarios información de cuenta o códigos de verificación personales, un producto hecho dependiendo solo de la AI, sin conocer siquiera las pautas mínimas de seguridad, puede derivar de inmediato en un incidente de seguridad. Sin conocimientos básicos de código es difícil detectar fallos o brechas de seguridad en el código escrito por la AI, y una filtración de la API puede perjudicar tanto a los usuarios como a los creadores."
+        },
+        {
+          "t": "p",
+          "x": "La clasificación por edades también se pasa por alto con facilidad. En cuanto un juego empieza a obtener ingresos mediante patrocinios o publicidad, debe someterse a clasificación sin importar el monto ni la escala, y lo mismo ocurre con los juegos sin fines de lucro que incluyan contenido no apto para menores. Según el Comité de Clasificación y Administración de Juegos, los juegos web se clasifican como juegos 'PC/en línea'."
+        },
+        {
+          "t": "p",
+          "x": "Que cualquiera pueda crearlos no es una licencia para hacerlos y distribuirlos de cualquier manera. En el momento en que un juego se convierte en un servicio público, su creador debe asumir la plena responsabilidad de ese servicio."
+        }
+      ]
+    },
+    "games/games-pgc-nordics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Más no siempre es mejor. Esa idea atravesó varias sesiones de PGC Nordics, que reunió a la industria de los juegos móviles en Helsinki los días 20 y 21 de octubre."
+        },
+        {
+          "t": "p",
+          "x": "Katharina Schmidt instó a los estudios a acordar desde el inicio tres detalles de las colaboraciones de IP: cuánto duran, dónde están disponibles y cómo aparece la IP en el juego. \"Acuerden pronto los derechos de uso y las aprobaciones de la IP\", dijo."
+        },
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141813/90088/lukedickenpgcnordics_1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Dr Luke Dicken, fundador de LuDic AI y exjefe de AI en Take-Two Interactive, advirtió tanto contra descartar la AI generativa como contra tomar un único éxito como prueba de que todo ha cambiado. Los estudios sacarán más provecho si se centran donde la AI aporta valor real, como los resúmenes contextuales LLM-driven para jugadores que regresan. \"Quienes persiguen la conversación sobre productividad solo están corriendo en una cinta\"."
+        },
+        {
+          "t": "p",
+          "x": "Urška Leskovar, de Outfit7, dijo que añadir más eventos cuando cae la participación no resuelve el problema: \"Los jugadores no necesitan más cosas que hacer. Necesitan una razón para que les importe\". Ola Dokun, de Xsolla, añadió: \"Tener una tienda web no es lo mismo que tener una estrategia D2C\"."
+        }
+      ]
+    },
+    "games/games-xbox-ai-manager": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Brandon Stirrup, gerente sénior de estrategia de negocio en Microsoft, publicó una serie de mensajes para afirmar que el uso de AI en Xbox está generalizado y que ya no le importa quién lo sepa. \"Con gusto asumo el golpe si eso significa que cientos de personas en Xbox pueden dejar de fingir que no usan AI\", publicó en X. \"Es hora de aceptarlo y seguir adelante\"."
+        },
+        {
+          "t": "p",
+          "x": "\"Los videojuegos son la única industria que finge no usar AI\", escribió. \"Miren, si me despiden mañana será porque les conté la verdad que nadie quiere que sepan. Se puede hacer un juego con un simple prompt y, sí, se pueden hacer juegos personalizados y a medida\"."
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Screenshot-2026-10-20-at-11.21.03%E2%80%AFAM.jpg",
+          "cap": "©Brandon Stirrup / X"
+        },
+        {
+          "t": "p",
+          "x": "El hilo se borró junto con su cuenta; fuentes dijeron a PC Gamer que lo eliminó por el volumen de respuestas. Kotaku sostiene que anunciar una adopción generalizada de la AI es una buena forma de alejar a los clientes que Xbox tanto necesita. \"Los usuarios quieren la verdad\", escribió. \"Estamos usando AI\"."
+        }
+      ]
+    },
+    "games/games-gemini-agents-ender-dragon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de Google publicaron un artículo según el cual cuatro agentes de AI Google Gemini 4 Argon acaban de superar Minecraft sin ninguna ayuda humana. Tardaron poco más de 27 horas en derrotar al Ender Dragon, en lo que se considera una primicia mundial."
+        },
+        {
+          "t": "p",
+          "x": "Google colocó al equipo de cuatro agentes en una semilla aleatoria de Minecraft con un único objetivo: derrotar al Ender Dragon. \"Cada agente controlaba a un jugador mediante una biblioteca de código abierto llamada Mineflayer y se coordinaba con sus compañeros a través del chat del juego y de una memoria compartida\", explicaron los investigadores. \"Nadie asignó roles ni escribió la lógica del juego. Los agentes planificaron, escribieron y depuraron ellos mismos cada programa.\""
+        },
+        {
+          "t": "p",
+          "x": "Los agentes se repartieron rápidamente los roles —cultivar, recolectar comida, explorar— y compartieron consejos de combate. A lo largo de la partida intercambiaron 229 mensajes, ejecutaron 2,783 programas y murieron 605 veces, mientras un quinto agente comprobaba que ninguno hiciera trampa. Llegar a The End llevó unas 13.5 horas; los agentes usaron 1.35 billion de tokens de entrada, unos $1,620 para un usuario normal."
+        },
+        {
+          "t": "p",
+          "x": "Los investigadores dijeron que querían estudiar cómo se coordinan los equipos de agentes en un entorno totalmente visible antes de confiar a estos sistemas tareas del mundo real: \"Las habilidades necesarias para resolver Minecraft, como coordinar un equipo, recuperarse de un fallo y perseguir un objetivo durante más de un día, son también las que los agentes necesitan para trabajar de forma fiable junto a las personas.\""
+        }
+      ]
     }
   }
 }

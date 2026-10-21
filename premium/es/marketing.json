@@ -1853,6 +1853,131 @@
           "x": "Combinada con GEM y Adaptive Ranking Model de Meta, GenRecs Tokenization logró un aumento de +0.35% en conversiones en todas las superficies (datos internos de Meta, febrero de 2026). Próximos pasos: ampliar la cobertura de la tokenización y crear un espacio de tokens compartido para texto, imagen, audio y video."
         }
       ]
+    },
+    "marketing/marketing-walmart-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+          "cap": "Walmart lanza nuevas funciones para dar soporte a las compras con agentes."
+        },
+        {
+          "t": "p",
+          "x": "Walmart abre la puerta a los agentes que compran en nombre de los clientes, un mes después de que Amazon impidiera al asistente Muse AI de Meta hacer lo mismo."
+        },
+        {
+          "t": "p",
+          "x": "En el próximo mes, Walmart lanzará Agent Profiles, que permitirá a los compradores autorizar a cada agente de IA con un perfil propio y ver sus compras por separado. Los compradores podrán exigir aprobación para las compras o dejar que un agente compre dentro de un límite de gasto. Una beta de Walmart Agent Gateway usa MCP para ofrecer a los agentes una forma de comprar más rápida y fiable que el sitio web para consumidores."
+        },
+        {
+          "t": "p",
+          "x": "Según las reglas de Walmart, las devoluciones siguen aplicándose, los clientes deben aprobar por defecto las compras de los agentes, los agentes no pueden hacer más de lo que pretende el comprador y no reciben información de tarjetas de pago. Los agentes que no cumplan los términos serán bloqueados."
+        },
+        {
+          "t": "p",
+          "x": "Ryan Mayward, de Walmart Connect, dijo que las conversaciones revelan más que las palabras clave: \"La oportunidad está en ser relevante para lo que un cliente intenta lograr, no solo para lo que busca\". El SVP de Marketplace, Manish Joneja, afirmó que la información precisa de productos, los precios y las promesas de entrega cobran aún más importancia en las compras impulsadas por IA (AI-powered)."
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-markets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI anunció el miércoles que ChatGPT Ads se expandirá a 26 nuevos países. Catorce de ellos están en América Latina, entre ellos Argentina, Chile y Colombia. OpenAI también dijo que más de 100.000 anunciantes han publicado anuncios en la plataforma en los aproximadamente ocho meses transcurridos desde su lanzamiento."
+        },
+        {
+          "t": "p",
+          "x": "Eso no equivale a 100.000 anunciantes activos: The Information informó de unos 60.000 anunciantes activos a principios de octubre, citando a New Street Research. A principios de este año, ChatGPT anunció un ritmo anualizado de ingresos publicitarios de 1.000 millones de dólares, por debajo de la previsión inicial de ingresos de la compañía, de 2.400 millones de dólares. Muchos anunciantes quieren una medición más sólida antes de comprometer más presupuesto, y OpenAI dice que está desarrollando la medición a la vez que la expansión."
+        },
+        {
+          "t": "p",
+          "x": "A principios de este mes, OpenAI presentó un formato publicitario más visual, con imágenes más grandes, que se muestra a quienes usan ChatGPT para generar imágenes y que se probó primero en EE. UU. OpenAI está \"explorando formatos adicionales\", pero declinó dar más detalles. OpenAI asegura que sus anuncios siguen siendo distintos de las respuestas de ChatGPT."
+        }
+      ]
+    },
+    "marketing/marketing-yelp-lead-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+          "cap": "Yelp cobra $30 al mes por un agente de IA que responde y califica los leads de Request a Quote"
+        },
+        {
+          "t": "p",
+          "x": "Smart Lead Reply, un agente de IA que responde y filtra las consultas de Request a Quote dentro de los hilos de mensajes de Yelp, costará $30 al mes cuando se lance el próximo mes. Es la pieza central para empresas del Fall Product Release de Yelp, publicado el 20 de octubre de 2026."
+        },
+        {
+          "t": "p",
+          "x": "El agente se basa en la información de la cuenta de Yelp for Business y de la página del negocio para responder preguntas, recopilar detalles del proyecto y calificar leads. Los propietarios pueden añadir un enlace de reserva, servicios, precios o promociones, y preguntas para que el agente las haga. Una vez calificado un lead, el agente comparte el enlace de reserva, y cada conversación queda registrada en la bandeja de entrada de Yelp."
+        },
+        {
+          "t": "p",
+          "x": "Se vende a categorías elegibles como empresas de mudanzas, techadores, fontaneros, limpieza del hogar, contratistas y electricistas. Yelp no ofrece cifras de precisión ni dice si los propietarios pueden aprobar los mensajes antes de que se envíen."
+        },
+        {
+          "t": "p",
+          "x": "La actualización también añade reservas de OpenTable a Yelp Assistant, Check for Me, un agente telefónico de IA que llama a restaurantes para preguntar por los tiempos de espera, y creatividades basadas en la intención para las campañas de display de Yelp Audiences."
+        }
+      ]
+    },
+    "marketing/marketing-meta-muse": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+          "cap": "Créditos de imagen: Samuel Boivin/NurPhoto / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Meta dijo el miércoles, durante su conferencia de resultados del tercer trimestre, que su app de IA Muse ha sido adoptada por más de 10 millones de usuarios. Mark Zuckerberg dijo que alrededor del 25% de quienes configuran Muse ahora la usan a diario."
+        },
+        {
+          "t": "p",
+          "x": "Según él, más de una cuarta parte de los usuarios activos de Muse que compraban a través del agente de IA tuvo un gasto medio por compra superior a $200. Muse usa el conector de Plaid para permitir las compras con agentes. Otros usos populares incluyen tareas de productividad personal, como conectar el agente al correo electrónico o al calendario."
+        },
+        {
+          "t": "p",
+          "x": "Meta planea mantener Muse gratis para la mayoría de los usuarios y quedarse con un porcentaje del comercio en la plataforma, además de cobrar a los usuarios avanzados. Zuckerberg dijo que Meta espera mejorar la eficiencia de costes de Muse más de 10 veces el próximo año y prevé que con el tiempo genere más ingresos por usuario que su familia de apps."
+        },
+        {
+          "t": "p",
+          "x": "También adelantó una \"Muse network\": \"Y si quieres comprar algo, no se trata solo de ir al sitio web de esa empresa; se trata de hablar con su agente\"."
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-auto-enhance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI informó por correo a los anunciantes de ChatGPT Ads que, a partir del viernes 30 de octubre de 2026, activará las “creative enhancements” (mejoras de creatividades) en las campañas self-serve nuevas y existentes. Los anunciantes pueden desactivarlas antes de esa fecha o cambiar la configuración en cualquier momento en Ads Manager; las exclusiones ya existentes a nivel de cuenta y de campaña se mantienen."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+          "cap": "La opción de creative enhancements, activada en Ads Manager"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI afirma que estas mejoras hacen que los anuncios sean más relevantes para la conversación y los intereses del usuario, y reducen el trabajo de crear varias versiones. A partir del contenido del anuncio y de la página de destino, puede redactar titulares y descripciones nuevos o actualizados, traducir el texto del anuncio a otros idiomas, cambiar el tamaño de las imágenes y optimizar las URLs de destino. Las variaciones pueden prepararse de antemano o crearse en tiempo real según la conversación."
+        },
+        {
+          "t": "p",
+          "x": "“Cuando están activadas, estos anuncios pueden publicarse automáticamente sin que tenga que revisar o aprobar cada versión”, indica el correo."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+          "cap": "El correo de OpenAI a los anunciantes"
+        },
+        {
+          "t": "p",
+          "x": "La reacción de los profesionales de PPC en X fue mayoritariamente escéptica; uno dijo que ya había pausado una prueba de ChatGPT ads por la baja calidad de los leads."
+        }
+      ]
     }
   }
 }

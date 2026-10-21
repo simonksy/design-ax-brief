@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "gadgets",
   "cards": [
     {
-      "id": "gadgets-perplexity-mac-local",
+      "id": "gadgets-hue-ai-behaviors",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Perplexity AI\nMac에서 로컬 실행",
-      "body": "RAM 36GB 이상 Macs에서 Perplexity AI 작업이 로컬로 돈다.",
-      "mini_headline": "Perplexity, Mac에서 로컬로",
+      "headline": "Philips Hue\n평범한 말로 조명 설정",
+      "body": "곧 Hue Bridge Pro에선 조명 루틴을 말로 설명하면 맞춤 자동화가 생긴다.",
+      "mini_headline": "말로 정하는 Hue 조명",
       "tool": "Gadgets",
-      "source": "Engadget",
-      "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/hue-bridge-pro-custom-ai-behaviors-launch-3726230/",
       "accent": "#ff5a4d",
       "motif": "headset",
       "full": {
@@ -19,173 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+            "cap": "Signify"
           },
           {
             "t": "p",
-            "x": "Perplexity는 9월 초 Computer 앱 업데이트 Hybrid Compute를 내놓으며 AI 작업을 프런티어 모델과 로컬 모델에 나눠 맡기게 했다. 이번에는 플랫폼 전체를 사용자 기기 안에서만 돌릴 수 있다."
+            "x": "Philips Hue는 IFA 2026에서 새 하드웨어부터 새 연동 기능까지 여러 가지를 발표했다. Hue Bridge Pro에 Custom AI Behaviors라는 기능을 넣겠다는 계획도 그중 하나다. 원래 시월 초에 나올 예정이었는데 아직 나오지 않았다. "
           },
           {
             "t": "p",
-            "x": "RAM이 36GB 이상인 최신 Apple Silicon Mac이라면 하네스와 오케스트레이터까지 Computer 경험 전체가 내 컴퓨터에서 돈다. Perplexity는 비용을 아끼려는 사용자나 데이터를 지키려는 사용자에게 유리하다고 설명한다. 예컨대 Notes와 Mail에 접근해 이메일 데이터를 클라우드로 보내지 않고 우선순위 할 일 목록을 만든다. 회사는 “민감한 데이터와 크레딧 지출을 사용자가 더 잘 통제할 수 있다”고 밝혔다."
+            "x": "오래 기다리진 않아도 된다. Hueblog에 따르면 Philips Hue는 Custom AI Behaviors를 다음 주에 내놓는다고 확인했다. 일정은 밀렸어도 시월은 넘기지 않는다. "
           },
           {
             "t": "p",
-            "x": "로컬 모델은 둘 중 하나를 고른다. Qwen 3.6, 아니면 Qwen 3.6을 Computer 사용에 맞게 사후 학습한 Perplexity 파생 모델 PPLX Pro다. 프런티어 시스템이 더 잘하는 작업이면 15개가 넘는 모델 가운데 하나를 부르도록 허용하면 된다. 코드와 도구는 모두 격리된 샌드박스에서 실행된다."
+            "x": "조명 자동화를 직접 짜고 싶은 Hue Bridge Pro 사용자용 새 도구다. Hue AI 어시스턴트에게 원하는 조명 자동화를 설명하면 AI가 요청대로 자동화를 만들어 준다. "
           },
           {
             "t": "p",
-            "x": "Perplexity Pro, Max, Enterprise 구독자라면 오늘부터 최신 Perplexity Mac 앱을 깔고 앱 안내대로 로컬 모델을 내려받아 Computer를 로컬에서 쓰면 된다."
+            "x": "특정 시간이 지나 Hue 디머 스위치를 누르면 장면이 켜지고 차례로 바뀌게 해 달라고 AI 어시스턴트에게 말하는 식이다. 자동화는 AI가 대신 만들어 주니 직접 설정할 일이 없다. 이 기능은 Hue Bridge Pro에서만 쓸 수 있다. "
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Perplexity runs AI workflows\nlocally on your Mac",
-          "body": "Macs with at least 36GB of RAM can now run Perplexity's AI workflows entirely on the device.",
-          "mini_headline": "Perplexity goes local on Mac",
+          "headline": "Philips Hue lets you describe\nyour lighting in plain words",
+          "body": "Hue Bridge Pro owners will soon describe a lighting routine in plain language and get a personalized automation.",
+          "mini_headline": "Hue lighting\nby plain words",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+                "cap": "Signify"
               },
               {
                 "t": "p",
-                "x": "At the start of September, Perplexity introduced Hybrid Compute, an update to its Computer app that let users split AI workloads across frontier and local models. Now the company is making it possible to run the platform entirely on your own device."
+                "x": "During IFA 2026, Philips Hue made a range of announcements, from new hardware to new integrations. It also revealed that the company would roll out a feature called Custom AI Behaviors to the Hue Bridge Pro. Initially, this feature was set to launch in early October, but it has yet to arrive."
               },
               {
                 "t": "p",
-                "x": "Provided you own a recent Apple Silicon Mac with at least 36GB of RAM, you can run the entire Computer experience, including the harness and orchestrator, on your own machine. Perplexity pitches it as a boon to thrifty users and those who want to keep their data private: with access to Notes and Mail, Computer could generate a priority to-do list without any email data being sent to the cloud. \"This gives users more control over sensitive data and credit spend,\" the company says."
+                "x": "You won’t have to wait much longer. According to Hueblog, Philips Hue has confirmed that Custom AI Behaviors is scheduled to release next week. While it didn’t arrive on time, at least the feature will still launch in October."
               },
               {
                 "t": "p",
-                "x": "You can choose one of two local models: Qwen 3.6 or PPLX Pro, a Perplexity offshoot of Qwen 3.6 post-trained for Computer use. If a task would benefit from a frontier system, you can authorize the software to call on one of more than 15 models. Any code or tool execution runs in an isolated sandbox."
+                "x": "It will be a new tool for Hue Bridge Pro users who want to create custom lighting automations. Through the Hue AI assistant, users can describe the lighting automation they want. The AI will then take your request to generate the desired automation."
               },
               {
                 "t": "p",
-                "x": "Perplexity Pro, Max and Enterprise subscribers can begin using Computer locally starting today by installing the latest Perplexity Mac app and following the in-app instructions to download a local model."
+                "x": "For example, you could tell the AI assistant to activate and cycle through scenes if a Hue dimmer switch is pressed after a certain time. The AI would then create that automation for you, so you don’t have to set anything up yourself. This feature is only supported on the Hue Bridge Pro."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Perplexity AI\nMac에서 로컬 실행",
-          "body": "RAM 36GB 이상 Macs에서 Perplexity AI 작업이 로컬로 돈다.",
-          "mini_headline": "Perplexity, Mac에서 로컬로",
+          "headline": "Philips Hue\n평범한 말로 조명 설정",
+          "body": "곧 Hue Bridge Pro에선 조명 루틴을 말로 설명하면 맞춤 자동화가 생긴다.",
+          "mini_headline": "말로 정하는 Hue 조명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+                "cap": "Signify"
               },
               {
                 "t": "p",
-                "x": "Perplexity는 9월 초 Computer 앱 업데이트 Hybrid Compute를 내놓으며 AI 작업을 프런티어 모델과 로컬 모델에 나눠 맡기게 했다. 이번에는 플랫폼 전체를 사용자 기기 안에서만 돌릴 수 있다."
+                "x": "Philips Hue는 IFA 2026에서 새 하드웨어부터 새 연동 기능까지 여러 가지를 발표했다. Hue Bridge Pro에 Custom AI Behaviors라는 기능을 넣겠다는 계획도 그중 하나다. 원래 시월 초에 나올 예정이었는데 아직 나오지 않았다. "
               },
               {
                 "t": "p",
-                "x": "RAM이 36GB 이상인 최신 Apple Silicon Mac이라면 하네스와 오케스트레이터까지 Computer 경험 전체가 내 컴퓨터에서 돈다. Perplexity는 비용을 아끼려는 사용자나 데이터를 지키려는 사용자에게 유리하다고 설명한다. 예컨대 Notes와 Mail에 접근해 이메일 데이터를 클라우드로 보내지 않고 우선순위 할 일 목록을 만든다. 회사는 “민감한 데이터와 크레딧 지출을 사용자가 더 잘 통제할 수 있다”고 밝혔다."
+                "x": "오래 기다리진 않아도 된다. Hueblog에 따르면 Philips Hue는 Custom AI Behaviors를 다음 주에 내놓는다고 확인했다. 일정은 밀렸어도 시월은 넘기지 않는다. "
               },
               {
                 "t": "p",
-                "x": "로컬 모델은 둘 중 하나를 고른다. Qwen 3.6, 아니면 Qwen 3.6을 Computer 사용에 맞게 사후 학습한 Perplexity 파생 모델 PPLX Pro다. 프런티어 시스템이 더 잘하는 작업이면 15개가 넘는 모델 가운데 하나를 부르도록 허용하면 된다. 코드와 도구는 모두 격리된 샌드박스에서 실행된다."
+                "x": "조명 자동화를 직접 짜고 싶은 Hue Bridge Pro 사용자용 새 도구다. Hue AI 어시스턴트에게 원하는 조명 자동화를 설명하면 AI가 요청대로 자동화를 만들어 준다. "
               },
               {
                 "t": "p",
-                "x": "Perplexity Pro, Max, Enterprise 구독자라면 오늘부터 최신 Perplexity Mac 앱을 깔고 앱 안내대로 로컬 모델을 내려받아 Computer를 로컬에서 쓰면 된다."
+                "x": "특정 시간이 지나 Hue 디머 스위치를 누르면 장면이 켜지고 차례로 바뀌게 해 달라고 AI 어시스턴트에게 말하는 식이다. 자동화는 AI가 대신 만들어 주니 직접 설정할 일이 없다. 이 기능은 Hue Bridge Pro에서만 쓸 수 있다. "
               }
             ]
           }
         },
         "ja": {
-          "headline": "Perplexity AI\nMacでローカル実行",
-          "body": "RAM 36GB以上のMacsでPerplexityのAIワークフローが端末内で完結する。",
-          "mini_headline": "PerplexityがMacでローカルに",
+          "headline": "Philips Hue\n照明を普段の言葉で設定",
+          "body": "Hue Bridge Proで間もなく、言葉で照明を説明すると専用の自動化が作られる。",
+          "mini_headline": "言葉で操るHue照明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+                "cap": "Signify"
               },
               {
                 "t": "p",
-                "x": "Perplexityは9月初め、Computerアプリのアップデート「Hybrid Compute」を導入し、AIの処理をフロンティアモデルとローカルモデルに振り分けられるようにした。今回はプラットフォーム全体を自分の端末だけで動かせるようにする。"
+                "x": "Philips HueはIFA 2026で、新しいハードウェアから新たな連携まで幅広い発表を行った。Hue Bridge ProにCustom AI Behaviorsという機能を提供することも明らかにした。当初は十月初めに登場する予定だったが、まだ提供されていない。"
               },
               {
                 "t": "p",
-                "x": "36GB以上のRAMを搭載した最新のApple Silicon Macがあれば、ハーネスやオーケストレーターを含むComputerの体験全体を手元のマシンで実行できる。Perplexityは、出費を抑えたい人やデータを手元に置きたい人に利点があると説明する。NotesとMailにアクセスすれば、メールのデータをクラウドに送らずに優先度付きのやることリストを作れるという。同社は「機密データとクレジット消費をユーザーがより管理しやすくなる」としている。"
+                "x": "待つのもあと少しだ。Hueblogによると、Philips HueはCustom AI Behaviorsを来週リリースする予定だと認めた。予定どおりではなかったものの、少なくとも十月中には登場する。"
               },
               {
                 "t": "p",
-                "x": "ローカルモデルは二つから選べる。Qwen 3.6か、Qwen 3.6をComputer向けに追加学習したPerplexity独自のPPLX Proだ。フロンティアモデルが向くタスクなら、15を超えるモデルのいずれかを呼び出すことを許可できる。コードやツールの実行はすべて隔離されたサンドボックス内で行われる。"
+                "x": "カスタムの照明自動化を作りたいHue Bridge Proユーザー向けの新しいツールとなる。ユーザーはHue AIアシスタントを通じて、望む照明自動化を説明できる。AIはその要望を受けて、目的の自動化を生成する。"
               },
               {
                 "t": "p",
-                "x": "Perplexity Pro、Max、Enterpriseの加入者は本日から、最新のPerplexity Macアプリをインストールし、アプリ内の案内に従ってローカルモデルをダウンロードすれば、Computerをローカルで使い始められる。"
+                "x": "例えば、ある時刻以降にHueの調光スイッチが押されたら、シーンを起動して順に切り替えるようAIアシスタントに伝えられる。AIがその自動化を作ってくれるので、自分で設定する必要はない。この機能はHue Bridge Proでのみサポートされる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Perplexity AI\n可在Mac本地运行",
-          "body": "RAM至少36GB的Macs现可在本机完整运行Perplexity的AI工作流。",
-          "mini_headline": "Perplexity登陆Mac本地",
+          "headline": "Philips Hue\n用日常话语设置灯光",
+          "body": "Hue Bridge Pro用户即将可以用日常语言描述灯光流程，获得个性化自动化。",
+          "mini_headline": "用话语设置Hue灯光",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+                "cap": "Signify"
               },
               {
                 "t": "p",
-                "x": "9月初，Perplexity为其Computer应用推出更新Hybrid Compute，让用户把AI工作负载分配给前沿模型和本地模型。如今，该公司让整个平台都能完全在用户自己的设备上运行。"
+                "x": "在IFA 2026期间，Philips Hue发布了从新硬件到新集成的一系列消息。公司还透露将为Hue Bridge Pro推出名为Custom AI Behaviors的功能。该功能原定十月初上线，但至今尚未推出。"
               },
               {
                 "t": "p",
-                "x": "只要拥有一台RAM至少36GB的新款Apple Silicon Mac，就能在自己的电脑上运行完整的Computer体验，包括执行框架和编排器。Perplexity称，这对注重节省开支和数据隐私的用户都有好处：借助对Notes和Mail的访问，Computer可以生成按优先级排列的待办清单，而无需把任何邮件数据发送到云端。该公司表示：“这让用户对敏感数据和积分支出有更多掌控。”"
+                "x": "不必再等太久。据Hueblog报道，Philips Hue已确认Custom AI Behaviors定于下周发布。虽然没能按时到来，但至少仍会在十月推出。"
               },
               {
                 "t": "p",
-                "x": "用户可在两种本地模型中任选其一：Qwen 3.6，或PPLX Pro——Perplexity基于Qwen 3.6、针对Computer使用进行后训练的衍生模型。若任务更适合前沿系统，用户可授权软件调用15个以上模型中的一个。所有代码和工具执行都在隔离沙箱中进行。"
+                "x": "这将是面向想要创建自定义灯光自动化的Hue Bridge Pro用户的新工具。用户可以通过Hue AI助手描述想要的灯光自动化，AI随后会根据请求生成相应的自动化。"
               },
               {
                 "t": "p",
-                "x": "Perplexity Pro、Max和Enterprise订阅用户从今天起即可安装最新版Perplexity Mac应用，按应用内指引下载本地模型，开始在本地使用Computer。"
+                "x": "例如，你可以告诉AI助手，在某个时间之后按下Hue调光开关时，启动并轮换场景。AI会替你创建这一自动化，无需自己动手设置。该功能仅支持Hue Bridge Pro。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Perplexity ejecuta flujos de AI\nen local en tu Mac",
-          "body": "Los Macs con al menos 36GB de RAM ya pueden ejecutar los flujos de AI de Perplexity por completo en el dispositivo.",
-          "mini_headline": "Perplexity, en local en Mac",
+          "headline": "Philips Hue permite describir\nla luz con palabras sencillas",
+          "body": "Con Hue Bridge Pro pronto se podrá describir una rutina de luz en lenguaje llano y lograr una automatización a medida.",
+          "mini_headline": "La luz de Hue, con palabras",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+                "cap": "Signify"
               },
               {
                 "t": "p",
-                "x": "A principios de septiembre, Perplexity presentó Hybrid Compute, una actualización de su app Computer que permitía repartir las cargas de trabajo de AI entre modelos de frontera y modelos locales. Ahora la empresa hace posible ejecutar la plataforma por completo en el propio dispositivo."
+                "x": "Durante IFA 2026, Philips Hue hizo varios anuncios, desde nuevo hardware hasta nuevas integraciones. También reveló que llevaría a Hue Bridge Pro una función llamada Custom AI Behaviors. En un principio, la función debía llegar a principios de octubre, pero todavía no está disponible."
               },
               {
                 "t": "p",
-                "x": "Con un Mac reciente con Apple Silicon y al menos 36GB de RAM, es posible ejecutar toda la experiencia de Computer, incluidos el arnés y el orquestador, en el propio equipo. Perplexity lo presenta como una ventaja para quienes quieren ahorrar y para quienes desean mantener sus datos en privado: con acceso a Notes y Mail, Computer podría generar una lista de tareas por prioridad sin enviar ningún dato de correo a la nube. «Esto da a los usuarios más control sobre los datos sensibles y el gasto de créditos», afirma la empresa."
+                "x": "No habrá que esperar mucho más. Según Hueblog, Philips Hue ha confirmado que Custom AI Behaviors se lanzará la próxima semana. Aunque no llegó a tiempo, al menos la función saldrá en octubre."
               },
               {
                 "t": "p",
-                "x": "Se puede elegir entre dos modelos locales: Qwen 3.6 o PPLX Pro, una variante de Qwen 3.6 creada por Perplexity con entrenamiento posterior para el uso de Computer. Si una tarea se beneficia de un sistema de frontera, se puede autorizar al software a recurrir a uno de más de 15 modelos. Toda ejecución de código o de herramientas se realiza en un entorno aislado."
+                "x": "Será una nueva herramienta para los usuarios de Hue Bridge Pro que quieran crear automatizaciones de iluminación personalizadas. A través del asistente Hue AI, los usuarios pueden describir la automatización que desean. Después, la AI tomará la petición y generará la automatización deseada."
               },
               {
                 "t": "p",
-                "x": "Los suscriptores de Perplexity Pro, Max y Enterprise pueden empezar a usar Computer en local desde hoy instalando la última versión de la app de Perplexity para Mac y siguiendo las instrucciones de la app para descargar un modelo local."
+                "x": "Por ejemplo, se podría pedir al asistente de AI que active y recorra escenas si se pulsa un regulador Hue después de cierta hora. La AI crearía esa automatización por ti, sin que tengas que configurar nada. Esta función solo es compatible con Hue Bridge Pro."
               }
             ]
           }
@@ -193,121 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Perplexity AI\nMac에서 로컬 실행",
-          "body": "RAM 36GB 이상 Macs에서 Perplexity AI 작업이 로컬로 돈다.",
-          "mini_headline": "Perplexity, Mac에서 로컬로",
+          "headline": "Philips Hue\n평범한 말로 조명 설정",
+          "body": "Hue Bridge Pro에서 곧 조명 루틴을 말로 설명해 맞춤 자동화를 만든다.",
+          "mini_headline": "말로 정하는 Hue 조명",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+                "cap": "Signify"
               },
               {
                 "t": "p",
-                "x": "Perplexity는 9월 초 Computer 앱 업데이트인 Hybrid Compute를 내놓고, AI 작업을 프런티어 모델과 로컬 모델에 나눠 맡길 수 있게 했다. 이제는 이 플랫폼 전체를 사용자 기기에서만 돌릴 수 있게 한다."
+                "x": "Philips Hue는 IFA 2026에서 새 하드웨어부터 새 연동 기능까지 여러 발표를 내놓았다. Hue Bridge Pro에 Custom AI Behaviors라는 기능을 도입한다는 계획도 공개했다. 이 기능은 원래 시월 초 출시 예정이었지만 아직 나오지 않았다."
               },
               {
                 "t": "p",
-                "x": "36GB 이상 RAM을 갖춘 최신 Apple Silicon Mac이 있다면 하네스와 오케스트레이터를 포함한 Computer 경험 전체를 내 컴퓨터에서 실행할 수 있다. Perplexity는 비용을 아끼려는 사용자와 데이터를 지키려는 사용자에게 유리하다고 설명한다. Notes와 Mail에 접근해 이메일 데이터를 클라우드로 보내지 않고도 우선순위 할 일 목록을 만들 수 있다는 것이다. 회사는 “민감한 데이터와 크레딧 지출을 사용자가 더 잘 통제할 수 있다”고 밝혔다."
+                "x": "오래 기다릴 필요는 없다. Hueblog에 따르면 Philips Hue는 Custom AI Behaviors를 다음 주에 출시할 예정이라고 확인했다. 제때 나오지는 못했지만, 적어도 시월 안에는 출시된다."
               },
               {
                 "t": "p",
-                "x": "로컬 모델은 두 가지 중 하나를 고를 수 있다. Qwen 3.6, 그리고 Qwen 3.6을 Computer 사용에 맞게 사후 학습한 Perplexity의 파생 모델 PPLX Pro다. 프런티어 시스템이 더 나은 작업이라면 15개가 넘는 모델 중 하나를 호출하도록 허용할 수 있다. 코드나 도구 실행은 모두 격리된 샌드박스에서 이뤄진다."
+                "x": "맞춤형 조명 자동화를 만들고 싶은 Hue Bridge Pro 사용자를 위한 새 도구다. 사용자는 Hue AI 어시스턴트에게 원하는 조명 자동화를 설명하면 된다. 그러면 AI가 요청을 받아 원하는 자동화를 생성한다."
               },
               {
                 "t": "p",
-                "x": "Perplexity Pro, Max, Enterprise 구독자는 오늘부터 최신 Perplexity Mac 앱을 설치하고 앱 안내에 따라 로컬 모델을 내려받아 Computer를 로컬에서 쓸 수 있다."
+                "x": "예를 들어 특정 시간 이후 Hue 디머 스위치를 누르면 장면이 켜지고 차례로 바뀌도록 AI 어시스턴트에게 말할 수 있다. 그러면 AI가 해당 자동화를 대신 만들어 주므로 직접 설정할 필요가 없다. 이 기능은 Hue Bridge Pro에서만 지원된다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Perplexity AI\nMacでローカル実行",
-          "body": "RAM 36GB以上のMacsでPerplexityのAIワークフローが端末内で完結する。",
-          "mini_headline": "PerplexityがMacでローカルに",
+          "headline": "Philips Hue\n照明を普段の言葉で設定",
+          "body": "Hue Bridge Proで間もなく、言葉で照明を説明すると専用の自動化が作られる。",
+          "mini_headline": "言葉で操るHue照明",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+                "cap": "Signify"
               },
               {
                 "t": "p",
-                "x": "Perplexityは9月初め、Computerアプリのアップデート「Hybrid Compute」を導入し、AIの処理をフロンティアモデルとローカルモデルに振り分けられるようにした。今回はプラットフォーム全体を自分の端末だけで動かせるようにする。"
+                "x": "Philips HueはIFA 2026で、新しいハードウェアから新たな連携まで幅広い発表を行った。Hue Bridge ProにCustom AI Behaviorsという機能を提供することも明らかにした。当初は十月初めに登場する予定だったが、まだ提供されていない。"
               },
               {
                 "t": "p",
-                "x": "36GB以上のRAMを搭載した最新のApple Silicon Macがあれば、ハーネスやオーケストレーターを含むComputerの体験全体を手元のマシンで実行できる。Perplexityは、出費を抑えたい人やデータを手元に置きたい人に利点があると説明する。NotesとMailにアクセスすれば、メールのデータをクラウドに送らずに優先度付きのやることリストを作れるという。同社は「機密データとクレジット消費をユーザーがより管理しやすくなる」としている。"
+                "x": "待つのもあと少しだ。Hueblogによると、Philips HueはCustom AI Behaviorsを来週リリースする予定だと認めた。予定どおりではなかったものの、少なくとも十月中には登場する。"
               },
               {
                 "t": "p",
-                "x": "ローカルモデルは二つから選べる。Qwen 3.6か、Qwen 3.6をComputer向けに追加学習したPerplexity独自のPPLX Proだ。フロンティアモデルが向くタスクなら、15を超えるモデルのいずれかを呼び出すことを許可できる。コードやツールの実行はすべて隔離されたサンドボックス内で行われる。"
+                "x": "カスタムの照明自動化を作りたいHue Bridge Proユーザー向けの新しいツールとなる。ユーザーはHue AIアシスタントを通じて、望む照明自動化を説明できる。AIはその要望を受けて、目的の自動化を生成する。"
               },
               {
                 "t": "p",
-                "x": "Perplexity Pro、Max、Enterpriseの加入者は本日から、最新のPerplexity Macアプリをインストールし、アプリ内の案内に従ってローカルモデルをダウンロードすれば、Computerをローカルで使い始められる。"
+                "x": "例えば、ある時刻以降にHueの調光スイッチが押されたら、シーンを起動して順に切り替えるようAIアシスタントに伝えられる。AIがその自動化を作ってくれるので、自分で設定する必要はない。この機能はHue Bridge Proでのみサポートされる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Perplexity AI\n可在Mac本地运行",
-          "body": "RAM至少36GB的Macs现可在本机完整运行Perplexity的AI工作流。",
-          "mini_headline": "Perplexity登陆Mac本地",
+          "headline": "Philips Hue\n用日常话语设置灯光",
+          "body": "Hue Bridge Pro用户即将可以用日常语言描述灯光流程，获得个性化自动化。",
+          "mini_headline": "用话语设置Hue灯光",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+                "cap": "Signify"
               },
               {
                 "t": "p",
-                "x": "9月初，Perplexity为其Computer应用推出更新Hybrid Compute，让用户把AI工作负载分配给前沿模型和本地模型。如今，该公司让整个平台都能完全在用户自己的设备上运行。"
+                "x": "在IFA 2026期间，Philips Hue发布了从新硬件到新集成的一系列消息。公司还透露将为Hue Bridge Pro推出名为Custom AI Behaviors的功能。该功能原定十月初上线，但至今尚未推出。"
               },
               {
                 "t": "p",
-                "x": "只要拥有一台RAM至少36GB的新款Apple Silicon Mac，就能在自己的电脑上运行完整的Computer体验，包括执行框架和编排器。Perplexity称，这对注重节省开支和数据隐私的用户都有好处：借助对Notes和Mail的访问，Computer可以生成按优先级排列的待办清单，而无需把任何邮件数据发送到云端。该公司表示：“这让用户对敏感数据和积分支出有更多掌控。”"
+                "x": "不必再等太久。据Hueblog报道，Philips Hue已确认Custom AI Behaviors定于下周发布。虽然没能按时到来，但至少仍会在十月推出。"
               },
               {
                 "t": "p",
-                "x": "用户可在两种本地模型中任选其一：Qwen 3.6，或PPLX Pro——Perplexity基于Qwen 3.6、针对Computer使用进行后训练的衍生模型。若任务更适合前沿系统，用户可授权软件调用15个以上模型中的一个。所有代码和工具执行都在隔离沙箱中进行。"
+                "x": "这将是面向想要创建自定义灯光自动化的Hue Bridge Pro用户的新工具。用户可以通过Hue AI助手描述想要的灯光自动化，AI随后会根据请求生成相应的自动化。"
               },
               {
                 "t": "p",
-                "x": "Perplexity Pro、Max和Enterprise订阅用户从今天起即可安装最新版Perplexity Mac应用，按应用内指引下载本地模型，开始在本地使用Computer。"
+                "x": "例如，你可以告诉AI助手，在某个时间之后按下Hue调光开关时，启动并轮换场景。AI会替你创建这一自动化，无需自己动手设置。该功能仅支持Hue Bridge Pro。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Perplexity ejecuta flujos de AI\nen local en tu Mac",
-          "body": "Los Macs con al menos 36GB de RAM ya pueden ejecutar los flujos de AI de Perplexity por completo en el dispositivo.",
-          "mini_headline": "Perplexity, en local en Mac",
+          "headline": "Philips Hue permite describir\nla luz con palabras sencillas",
+          "body": "Con Hue Bridge Pro pronto se podrá describir una rutina de luz en lenguaje llano y lograr una automatización a medida.",
+          "mini_headline": "La luz de Hue, con palabras",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+                "cap": "Signify"
               },
               {
                 "t": "p",
-                "x": "A principios de septiembre, Perplexity presentó Hybrid Compute, una actualización de su app Computer que permitía repartir las cargas de trabajo de AI entre modelos de frontera y modelos locales. Ahora la empresa hace posible ejecutar la plataforma por completo en el propio dispositivo."
+                "x": "Durante IFA 2026, Philips Hue hizo varios anuncios, desde nuevo hardware hasta nuevas integraciones. También reveló que llevaría a Hue Bridge Pro una función llamada Custom AI Behaviors. En un principio, la función debía llegar a principios de octubre, pero todavía no está disponible."
               },
               {
                 "t": "p",
-                "x": "Con un Mac reciente con Apple Silicon y al menos 36GB de RAM, es posible ejecutar toda la experiencia de Computer, incluidos el arnés y el orquestador, en el propio equipo. Perplexity lo presenta como una ventaja para quienes quieren ahorrar y para quienes desean mantener sus datos en privado: con acceso a Notes y Mail, Computer podría generar una lista de tareas por prioridad sin enviar ningún dato de correo a la nube. «Esto da a los usuarios más control sobre los datos sensibles y el gasto de créditos», afirma la empresa."
+                "x": "No habrá que esperar mucho más. Según Hueblog, Philips Hue ha confirmado que Custom AI Behaviors se lanzará la próxima semana. Aunque no llegó a tiempo, al menos la función saldrá en octubre."
               },
               {
                 "t": "p",
-                "x": "Se puede elegir entre dos modelos locales: Qwen 3.6 o PPLX Pro, una variante de Qwen 3.6 creada por Perplexity con entrenamiento posterior para el uso de Computer. Si una tarea se beneficia de un sistema de frontera, se puede autorizar al software a recurrir a uno de más de 15 modelos. Toda ejecución de código o de herramientas se realiza en un entorno aislado."
+                "x": "Será una nueva herramienta para los usuarios de Hue Bridge Pro que quieran crear automatizaciones de iluminación personalizadas. A través del asistente Hue AI, los usuarios pueden describir la automatización que desean. Después, la AI tomará la petición y generará la automatización deseada."
               },
               {
                 "t": "p",
-                "x": "Los suscriptores de Perplexity Pro, Max y Enterprise pueden empezar a usar Computer en local desde hoy instalando la última versión de la app de Perplexity para Mac y siguiendo las instrucciones de la app para descargar un modelo local."
+                "x": "Por ejemplo, se podría pedir al asistente de AI que active y recorra escenas si se pulsa un regulador Hue después de cierta hora. La AI crearía esa automatización por ti, sin que tengas que configurar nada. Esta función solo es compatible con Hue Bridge Pro."
               }
             ]
           }
@@ -315,189 +325,213 @@
       }
     },
     {
-      "id": "gadgets-gemini-cars-global",
+      "id": "gadgets-gm-onstar-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini, 전 세계\n자동차에 탑재",
-      "body": "Gemini가 전 세계 차에서 Personal Intelligence로 돕는다.",
-      "mini_headline": "Gemini, 도로 위로",
+      "headline": "30년 된 OnStar에\nGM 자체 AI 비서",
+      "body": "GM OnStar AI 비서가 2027 Cadillac Lyriq EV부터 실린다.",
+      "mini_headline": "OnStar에 AI 비서",
       "tool": "Gadgets",
-      "source": "Google Blog",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
       "accent": "#0070f3",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
           },
           {
             "t": "p",
-            "x": "Google의 AI 어시스턴트 Gemini를 이제 전 세계 Android Auto와 Google 내장 차량에서 쓸 수 있게 됐다. 운전하면서 자연스럽게 말을 걸어 더 많은 일을 맡기거나 아이디어를 같이 구상하면 된다."
+            "x": "General Motors가 30년 전 내놓은 구독형 커넥티드카 서비스 OnStar를 통째로 손보고 개인 AI 비서를 붙인다. GM은 뉴욕에서 열린 GM Forward 행사에서 OnStar AI Assistant가 몇 달 안에 2027 Cadillac Lyriq EV에 처음 들어가고, 이어 다른 GM 차량으로 넓어진다고 밝혔다. "
           },
           {
             "t": "p",
-            "x": "Google은 Gemini의 Personal Intelligence도 오늘부터 배포한다. 사용자가 허용하면 이미 쓰고 있는 Google 앱인 Workspace(Gmail과 Google Calendar 포함), Google Photos, Google Maps, YouTube, Search의 정보를 안전하게 연결해 그 사람에게 꼭 맞는 답을 내놓는다."
+            "x": "2027년에 나올 새 OnStar 모바일 앱은 차량 소프트웨어와 동기화되고, OnStar Guardian 앱과 Buick, Cadillac, Chevrolet, GMC 브랜드 앱을 대신한다. Google의 Dialogflow와 Gemini로 만들었던 이전 시도와 달리 이번 비서는 자체 개발했고, 에이전틱 AI가 중심이다. "
+          },
+          {
+            "t": "img",
+            "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-Mobile-App-Stills.jpg?w=1200"
           },
           {
             "t": "p",
-            "x": "공항 가는 길에 “내 탑승 게이트가 어디야? 비행기는 제시간에 떠?”라고 물으면 Gemini가 두 질문에 한 번에 답한다. 경로 위에서 평소 취향에 맞는 실내 식당을 찾아 달라고 해도 되고 “병원 예약 장소로 데려다줘”, “지난주에 찍은 사진 속 세차장을 찾아서 안내해 줘”라고 말해도 된다."
+            "x": "차량 카메라로는 실시간 화면을 볼 수 있다. 공격적인 경적 소리처럼 무슨 일이 벌어질 듯한 상황을 차가 감지하면 카메라가 저절로 켜져 녹화 영상을 앱에 올린다. 운전자는 공조 같은 기능을 음성으로 조작하고, 차량 기능이라면 무엇이든 물어볼 수 있다. "
           },
           {
             "t": "p",
-            "x": "앱은 Personal Intelligence를 켜야 연결된다. 끄는 것도 Gemini 설정에서 언제든 가능하다. Google 내장 차량에서는 휴대폰을 연결한 채 차에 타고 있을 때만 개인화된 답을 보여 준다. Personal Intelligence는 Android Auto에는 오늘, Google 내장 차량에는 앞으로 몇 달 안에 들어간다. 대상은 18세 이상 적격 개인 계정이다(EEA, 스위스, 영국(UK), 나이지리아 제외)."
+            "x": "데이터 공유 문제로 FTC 명령을 받은 GM은 어떤 데이터를 공유할지 고객이 정한다고 밝혔다. 녹화 영상은 암호화하고 보관 기간에 제한을 두며, GM도 OnStar도 Connected Camera 녹화 영상에 접근할 수 없다는 설명이다. "
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini comes to cars\nacross the globe",
-          "body": "Gemini is now in cars globally, using Personal Intelligence for tailored help while eyes stay on the road.",
-          "mini_headline": "Gemini hits the road",
+          "headline": "GM adds an in-house AI\nassistant to 30-year-old OnStar",
+          "body": "GM's in-house OnStar AI Assistant debuts in the 2027 Cadillac Lyriq EV in the coming months, with more models to follow.",
+          "mini_headline": "OnStar gets\nan AI assistant",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
               },
               {
                 "t": "p",
-                "x": "Gemini, Google's AI assistant, is now available globally on Android Auto and cars with Google built-in. You can speak naturally to get more done or brainstorm ideas while driving."
+                "x": "General Motors is adding a personal AI assistant to OnStar as part of a broader makeover of the subscription-based connected car service it launched 30 years ago. The OnStar AI Assistant will debut in the 2027 Cadillac Lyriq EV in the coming months, with more GM vehicles to follow, the company said at its GM Forward event in New York."
               },
               {
                 "t": "p",
-                "x": "Google is also rolling out Personal Intelligence with Gemini starting today. With your permission, it securely connects information from the Google apps you already use — Workspace (including Gmail and Google Calendar), Google Photos, Google Maps, YouTube and Search — to give uniquely tailored answers."
+                "x": "A new OnStar mobile app arriving in 2027 will sync with the in-car software and replace the OnStar Guardian app as well as the Buick, Cadillac, Chevrolet and GMC brand apps. Unlike earlier efforts built on Google’s Dialogflow and Gemini, the assistant is an in-house effort that puts agentic AI at the center."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-Mobile-App-Stills.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "On the way to the airport, ask \"What's my flight gate? And is my flight on time?\" and Gemini answers both in one go. Ask for an indoor restaurant along your route that matches your usual vibe, say \"Take me to my doctor's appointment,\" or \"Find the car wash from the photo I took last week and navigate there.\""
+                "x": "Vehicle cameras will offer live views and can switch on automatically when the car senses an impending event, such as an aggressive horn honk, then upload the recording to the app. Drivers can also use voice to control functions like climate and ask about any vehicle feature."
               },
               {
                 "t": "p",
-                "x": "Your apps aren't connected until you turn Personal Intelligence on, and you can turn it off anytime in Gemini settings. Cars with Google built-in only share personal responses when you're in the car with your phone connected. Personal Intelligence is rolling out today on Android Auto and in the coming months on cars with Google built-in, for eligible personal accounts aged 18+ (excluding the EEA, Switzerland, the UK and Nigeria)."
+                "x": "After an FTC order over data sharing, GM said customers decide what data is shared, recordings are encrypted and time-limited, and neither GM nor OnStar can access Connected Camera recordings."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini, 전 세계\n자동차에 탑재",
-          "body": "Gemini가 전 세계 차에서 Personal Intelligence로 돕는다.",
-          "mini_headline": "Gemini, 도로 위로",
+          "headline": "30년 된 OnStar에\nGM 자체 AI 비서",
+          "body": "GM OnStar AI 비서가 2027 Cadillac Lyriq EV부터 실린다.",
+          "mini_headline": "OnStar에 AI 비서",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
               },
               {
                 "t": "p",
-                "x": "Google의 AI 어시스턴트 Gemini를 이제 전 세계 Android Auto와 Google 내장 차량에서 쓸 수 있게 됐다. 운전하면서 자연스럽게 말을 걸어 더 많은 일을 맡기거나 아이디어를 같이 구상하면 된다."
+                "x": "General Motors가 30년 전 내놓은 구독형 커넥티드카 서비스 OnStar를 통째로 손보고 개인 AI 비서를 붙인다. GM은 뉴욕에서 열린 GM Forward 행사에서 OnStar AI Assistant가 몇 달 안에 2027 Cadillac Lyriq EV에 처음 들어가고, 이어 다른 GM 차량으로 넓어진다고 밝혔다. "
               },
               {
                 "t": "p",
-                "x": "Google은 Gemini의 Personal Intelligence도 오늘부터 배포한다. 사용자가 허용하면 이미 쓰고 있는 Google 앱인 Workspace(Gmail과 Google Calendar 포함), Google Photos, Google Maps, YouTube, Search의 정보를 안전하게 연결해 그 사람에게 꼭 맞는 답을 내놓는다."
+                "x": "2027년에 나올 새 OnStar 모바일 앱은 차량 소프트웨어와 동기화되고, OnStar Guardian 앱과 Buick, Cadillac, Chevrolet, GMC 브랜드 앱을 대신한다. Google의 Dialogflow와 Gemini로 만들었던 이전 시도와 달리 이번 비서는 자체 개발했고, 에이전틱 AI가 중심이다. "
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-Mobile-App-Stills.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "공항 가는 길에 “내 탑승 게이트가 어디야? 비행기는 제시간에 떠?”라고 물으면 Gemini가 두 질문에 한 번에 답한다. 경로 위에서 평소 취향에 맞는 실내 식당을 찾아 달라고 해도 되고 “병원 예약 장소로 데려다줘”, “지난주에 찍은 사진 속 세차장을 찾아서 안내해 줘”라고 말해도 된다."
+                "x": "차량 카메라로는 실시간 화면을 볼 수 있다. 공격적인 경적 소리처럼 무슨 일이 벌어질 듯한 상황을 차가 감지하면 카메라가 저절로 켜져 녹화 영상을 앱에 올린다. 운전자는 공조 같은 기능을 음성으로 조작하고, 차량 기능이라면 무엇이든 물어볼 수 있다. "
               },
               {
                 "t": "p",
-                "x": "앱은 Personal Intelligence를 켜야 연결된다. 끄는 것도 Gemini 설정에서 언제든 가능하다. Google 내장 차량에서는 휴대폰을 연결한 채 차에 타고 있을 때만 개인화된 답을 보여 준다. Personal Intelligence는 Android Auto에는 오늘, Google 내장 차량에는 앞으로 몇 달 안에 들어간다. 대상은 18세 이상 적격 개인 계정이다(EEA, 스위스, 영국(UK), 나이지리아 제외)."
+                "x": "데이터 공유 문제로 FTC 명령을 받은 GM은 어떤 데이터를 공유할지 고객이 정한다고 밝혔다. 녹화 영상은 암호화하고 보관 기간에 제한을 두며, GM도 OnStar도 Connected Camera 녹화 영상에 접근할 수 없다는 설명이다. "
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiが世界中の\nクルマに搭載",
-          "body": "Geminiが世界の車に対応、Personal Intelligenceで個別支援する。",
-          "mini_headline": "Gemini、道路へ",
+          "headline": "GM、30年のOnStarに\n自社製AIアシスタント",
+          "body": "GMのOnStar AIは2027 Cadillac Lyriq EVから搭載される。",
+          "mini_headline": "OnStarにAIアシスタント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
               },
               {
                 "t": "p",
-                "x": "GoogleのAIアシスタントGeminiが、Android AutoとGoogle搭載車で世界中で使えるようになった。運転中も自然に話しかけて用事を片づけたり、アイデアを練ったりできる。"
+                "x": "General Motorsは、30年前に始めたサブスクリプション型コネクテッドカーサービスOnStarの大幅な刷新の一環として、パーソナルAIアシスタントを追加する。同社はニューヨークで開いたGM Forwardイベントで、OnStar AI Assistantが今後数カ月のうちに2027 Cadillac Lyriq EVでデビューし、その後ほかのGM車にも広がると述べた。"
               },
               {
                 "t": "p",
-                "x": "Googleは本日から、GeminiのPersonal Intelligenceも展開する。ユーザーの許可を得たうえで、普段使っているGoogleアプリ——Workspace（GmailとGoogle Calendarを含む）、Google Photos、Google Maps、YouTube、Search——の情報を安全につなぎ、その人に合った回答を返す。"
+                "x": "2027年に登場する新しいOnStarモバイルアプリは車内ソフトウェアと同期し、OnStar GuardianアプリとBuick、Cadillac、Chevrolet、GMCの各ブランドアプリを置き換える。GoogleのDialogflowやGeminiを基盤としたこれまでの取り組みと異なり、このアシスタントはエージェント型AIを中心に据えた自社開発だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-Mobile-App-Stills.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "空港へ向かう途中に「搭乗ゲートはどこ？フライトは定刻通り？」と尋ねれば、Geminiが一度に両方に答える。ルート沿いでいつもの好みに合う屋内レストランを探してもらったり、「病院の予約に連れて行って」「先週撮った写真の洗車場を探してナビして」と頼んだりもできる。"
+                "x": "車両カメラはライブ映像を提供し、攻撃的なクラクションなど差し迫った事態を車が察知すると自動で起動して、録画をアプリにアップロードする。ドライバーは音声で空調などの機能を操作でき、車のあらゆる機能について質問もできる。"
               },
               {
                 "t": "p",
-                "x": "Personal Intelligenceをオンにするまでアプリは連携されず、Geminiの設定でいつでもオフにできる。Google搭載車が個人に合わせた回答を出すのは、スマートフォンを接続して車内にいるときだけだ。Personal Intelligenceは本日Android Autoで、今後数カ月のうちにGoogle搭載車で、18歳以上の対象となる個人アカウント向けに提供される（EEA、スイス、英国（UK）、ナイジェリアを除く）。"
+                "x": "データ共有をめぐるFTCの命令を受け、GMは、どのデータを共有するかは顧客が決め、録画は暗号化されて保存期間が限られ、GMもOnStarもConnected Cameraの録画にはアクセスできないと説明した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini登陆\n全球汽车",
-          "body": "Gemini已登陆全球车辆，以Personal Intelligence提供个性化帮助。",
-          "mini_headline": "Gemini上路",
+          "headline": "GM为30年的OnStar\n加入自研AI助手",
+          "body": "GM自研OnStar AI助手数月内在2027 Cadillac Lyriq EV首发。",
+          "mini_headline": "OnStar迎来AI助手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
               },
               {
                 "t": "p",
-                "x": "Google的AI助手Gemini现已在全球的Android Auto和内置Google的汽车上推出。开车时可以自然地说话，完成更多事情或一起构思点子。"
+                "x": "General Motors正为OnStar加入个人AI助手，作为对这项30年前推出的订阅制车联网服务全面改版的一部分。公司在纽约举行的GM Forward活动上表示，OnStar AI Assistant将在未来几个月首发于2027 Cadillac Lyriq EV，随后扩展到更多GM车型。"
               },
               {
                 "t": "p",
-                "x": "Google还从今天起推出Gemini的Personal Intelligence。在获得用户许可后，它会安全地连接用户已在使用的Google应用中的信息——Workspace（包括Gmail和Google Calendar）、Google Photos、Google Maps、YouTube和Search——给出量身定制的回答。"
+                "x": "2027年推出的新版OnStar移动应用将与车载软件同步，并取代OnStar Guardian应用以及Buick、Cadillac、Chevrolet和GMC品牌应用。与此前基于Google Dialogflow和Gemini的尝试不同，这款助手由公司自主研发，以智能体AI为核心。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-Mobile-App-Stills.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "去机场的路上问一句“我的登机口在哪？航班准点吗？”，Gemini会一次回答两个问题。还可以让它在沿途找一家符合你平时口味的室内餐厅，或者说“带我去看医生的预约地点”“找到我上周拍的照片里的那家洗车店并导航过去”。"
+                "x": "车载摄像头可提供实时画面，并在车辆察觉到即将发生的情况（例如激烈的鸣笛）时自动开启，随后把录像上传到应用。驾驶者还可以用语音控制空调等功能，并询问任何车辆功能。"
               },
               {
                 "t": "p",
-                "x": "在开启Personal Intelligence之前，应用不会被连接，用户也可随时在Gemini设置中关闭。内置Google的汽车只有在你连接手机并身处车内时才会给出个性化回答。Personal Intelligence今天起在Android Auto上推出，未来几个月将登陆内置Google的汽车，面向18岁以上的符合条件个人账户（EEA、瑞士、英国（UK）和尼日利亚除外）。"
+                "x": "在FTC就数据共享发布命令之后，GM表示，共享哪些数据由客户决定，录像经过加密且有时间限制，GM和OnStar都无法访问Connected Camera录像。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini llega a los vehículos\nde todo el mundo",
-          "body": "Gemini llega a vehículos de todo el mundo y usa Personal Intelligence para dar ayuda a medida al volante.",
-          "mini_headline": "Gemini sale a la carretera",
+          "headline": "GM lleva un asistente AI propio\nal OnStar de 30 años",
+          "body": "El OnStar AI Assistant propio de GM debutará en el Cadillac Lyriq EV 2027 en unos meses y luego llegará a más modelos.",
+          "mini_headline": "OnStar estrena asistente AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
               },
               {
                 "t": "p",
-                "x": "Gemini, el asistente de AI de Google, ya está disponible en todo el mundo en Android Auto y en los vehículos con Google integrado. Se puede hablar con naturalidad para hacer más cosas o generar ideas mientras se conduce."
+                "x": "General Motors añade un asistente personal de AI a OnStar como parte de una renovación más amplia del servicio de coche conectado por suscripción que lanzó hace 30 años. El OnStar AI Assistant debutará en el Cadillac Lyriq EV 2027 en los próximos meses, y después llegará a más vehículos de GM, según anunció la compañía en su evento GM Forward en Nueva York."
               },
               {
                 "t": "p",
-                "x": "Google también empieza a desplegar hoy Personal Intelligence con Gemini. Con el permiso del usuario, conecta de forma segura la información de las apps de Google que ya utiliza —Workspace (incluidos Gmail y Google Calendar), Google Photos, Google Maps, YouTube y Search— para dar respuestas adaptadas a cada persona."
+                "x": "Una nueva app móvil de OnStar que llegará en 2027 se sincronizará con el software del coche y sustituirá a la app OnStar Guardian y a las apps de las marcas Buick, Cadillac, Chevrolet y GMC. A diferencia de intentos anteriores basados en Dialogflow y Gemini de Google, el asistente es un desarrollo propio que sitúa la AI agéntica en el centro."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-Mobile-App-Stills.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "De camino al aeropuerto, basta con preguntar «¿Cuál es la puerta de embarque de mi vuelo? ¿Sale a tiempo?» y Gemini responde a ambas cosas de una vez. También se le puede pedir un restaurante cubierto en la ruta que encaje con los gustos habituales, decir «Llévame a mi cita con el médico» o «Busca el lavadero de autos de la foto que tomé la semana pasada y llévame hasta allí»."
+                "x": "Las cámaras del vehículo ofrecerán vistas en directo y podrán activarse automáticamente cuando el coche detecte un incidente inminente, como un bocinazo agresivo, para luego subir la grabación a la app. Los conductores también podrán usar la voz para controlar funciones como la climatización y preguntar por cualquier función del vehículo."
               },
               {
                 "t": "p",
-                "x": "Las apps no se conectan hasta que se activa Personal Intelligence, y se puede desactivar en cualquier momento desde los ajustes de Gemini. Los vehículos con Google integrado solo muestran respuestas personales cuando el usuario está en el vehículo con el teléfono conectado. Personal Intelligence llega hoy a Android Auto y en los próximos meses a los vehículos con Google integrado, para cuentas personales aptas de mayores de 18 años (excepto en el Espacio Económico Europeo (EEA), Suiza, Reino Unido (UK) y Nigeria)."
+                "x": "Tras una orden de la FTC sobre el intercambio de datos, GM afirmó que los clientes deciden qué datos se comparten, que las grabaciones están cifradas y tienen un plazo limitado, y que ni GM ni OnStar pueden acceder a las grabaciones de Connected Camera."
               }
             ]
           }
@@ -505,121 +539,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini, 전 세계\n자동차에 탑재",
-          "body": "Gemini가 전 세계 차에서 Personal Intelligence로 돕는다.",
-          "mini_headline": "Gemini, 도로 위로",
+          "headline": "30년 된 OnStar에\nGM 자체 AI 비서",
+          "body": "GM OnStar AI 비서가 2027 Cadillac Lyriq EV부터 실린다.",
+          "mini_headline": "OnStar에 AI 비서",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
               },
               {
                 "t": "p",
-                "x": "Google의 AI 어시스턴트 Gemini를 이제 전 세계 Android Auto와 Google 내장 차량에서 쓸 수 있다. 운전 중 자연스럽게 말을 걸어 더 많은 일을 처리하거나 아이디어를 함께 구상할 수 있다."
+                "x": "General Motors가 30년 전 내놓은 구독형 커넥티드카 서비스 OnStar를 전면 개편하면서 개인 AI 비서를 더한다. GM은 뉴욕에서 열린 GM Forward 행사에서 OnStar AI Assistant가 몇 달 안에 2027 Cadillac Lyriq EV에 처음 탑재되고, 이후 다른 GM 차량으로 확대된다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Google은 오늘부터 Gemini의 Personal Intelligence도 배포한다. 사용자가 허용하면 이미 쓰고 있는 Google 앱, 즉 Workspace(Gmail과 Google Calendar 포함), Google Photos, Google Maps, YouTube, Search의 정보를 안전하게 연결해 사용자에게 꼭 맞는 답을 준다."
+                "x": "2027년에 나오는 새 OnStar 모바일 앱은 차량 내 소프트웨어와 동기화되며, OnStar Guardian 앱과 Buick, Cadillac, Chevrolet, GMC 브랜드 앱을 대체한다. Google의 Dialogflow와 Gemini를 기반으로 했던 이전 시도와 달리, 이번 비서는 에이전틱 AI를 중심에 둔 자체 개발품이다."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-Mobile-App-Stills.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "공항 가는 길에 “내 탑승 게이트가 어디야? 비행기는 제시간에 떠?”라고 물으면 Gemini가 두 질문에 한 번에 답한다. 경로에서 평소 취향에 맞는 실내 식당을 찾아 달라고 하거나, “병원 예약 장소로 데려다줘”, “지난주에 찍은 사진 속 세차장을 찾아서 안내해 줘”라고 말할 수도 있다."
+                "x": "차량 카메라는 실시간 화면을 제공하며, 공격적인 경적 소리처럼 임박한 상황을 차가 감지하면 자동으로 켜져 녹화 영상을 앱에 올린다. 운전자는 음성으로 공조 같은 기능을 조작하고 차량의 어떤 기능에 대해서든 물어볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "Personal Intelligence를 켜기 전에는 앱이 연결되지 않으며, Gemini 설정에서 언제든 끌 수 있다. Google 내장 차량은 휴대폰을 연결한 채 차에 타 있을 때만 개인화된 답변을 보여 준다. Personal Intelligence는 오늘 Android Auto에, 앞으로 몇 달 안에 Google 내장 차량에 배포된다. 대상은 18세 이상 적격 개인 계정이다(EEA, 스위스, 영국(UK), 나이지리아 제외)."
+                "x": "데이터 공유를 둘러싼 FTC 명령 이후, GM은 어떤 데이터를 공유할지 고객이 정하고, 녹화 영상은 암호화되며 보관 기간이 제한되고, GM과 OnStar 모두 Connected Camera 녹화 영상에 접근할 수 없다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiが世界中の\nクルマに搭載",
-          "body": "Geminiが世界の車に対応、Personal Intelligenceで個別支援する。",
-          "mini_headline": "Gemini、道路へ",
+          "headline": "GM、30年のOnStarに\n自社製AIアシスタント",
+          "body": "GMのOnStar AIは2027 Cadillac Lyriq EVから搭載される。",
+          "mini_headline": "OnStarにAIアシスタント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
               },
               {
                 "t": "p",
-                "x": "GoogleのAIアシスタントGeminiが、Android AutoとGoogle搭載車で世界中で使えるようになった。運転中も自然に話しかけて用事を片づけたり、アイデアを練ったりできる。"
+                "x": "General Motorsは、30年前に始めたサブスクリプション型コネクテッドカーサービスOnStarの大幅な刷新の一環として、パーソナルAIアシスタントを追加する。同社はニューヨークで開いたGM Forwardイベントで、OnStar AI Assistantが今後数カ月のうちに2027 Cadillac Lyriq EVでデビューし、その後ほかのGM車にも広がると述べた。"
               },
               {
                 "t": "p",
-                "x": "Googleは本日から、GeminiのPersonal Intelligenceも展開する。ユーザーの許可を得たうえで、普段使っているGoogleアプリ——Workspace（GmailとGoogle Calendarを含む）、Google Photos、Google Maps、YouTube、Search——の情報を安全につなぎ、その人に合った回答を返す。"
+                "x": "2027年に登場する新しいOnStarモバイルアプリは車内ソフトウェアと同期し、OnStar GuardianアプリとBuick、Cadillac、Chevrolet、GMCの各ブランドアプリを置き換える。GoogleのDialogflowやGeminiを基盤としたこれまでの取り組みと異なり、このアシスタントはエージェント型AIを中心に据えた自社開発だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-Mobile-App-Stills.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "空港へ向かう途中に「搭乗ゲートはどこ？フライトは定刻通り？」と尋ねれば、Geminiが一度に両方に答える。ルート沿いでいつもの好みに合う屋内レストランを探してもらったり、「病院の予約に連れて行って」「先週撮った写真の洗車場を探してナビして」と頼んだりもできる。"
+                "x": "車両カメラはライブ映像を提供し、攻撃的なクラクションなど差し迫った事態を車が察知すると自動で起動して、録画をアプリにアップロードする。ドライバーは音声で空調などの機能を操作でき、車のあらゆる機能について質問もできる。"
               },
               {
                 "t": "p",
-                "x": "Personal Intelligenceをオンにするまでアプリは連携されず、Geminiの設定でいつでもオフにできる。Google搭載車が個人に合わせた回答を出すのは、スマートフォンを接続して車内にいるときだけだ。Personal Intelligenceは本日Android Autoで、今後数カ月のうちにGoogle搭載車で、18歳以上の対象となる個人アカウント向けに提供される（EEA、スイス、英国（UK）、ナイジェリアを除く）。"
+                "x": "データ共有をめぐるFTCの命令を受け、GMは、どのデータを共有するかは顧客が決め、録画は暗号化されて保存期間が限られ、GMもOnStarもConnected Cameraの録画にはアクセスできないと説明した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini登陆\n全球汽车",
-          "body": "Gemini已登陆全球车辆，以Personal Intelligence提供个性化帮助。",
-          "mini_headline": "Gemini上路",
+          "headline": "GM为30年的OnStar\n加入自研AI助手",
+          "body": "GM自研OnStar AI助手数月内在2027 Cadillac Lyriq EV首发。",
+          "mini_headline": "OnStar迎来AI助手",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
               },
               {
                 "t": "p",
-                "x": "Google的AI助手Gemini现已在全球的Android Auto和内置Google的汽车上推出。开车时可以自然地说话，完成更多事情或一起构思点子。"
+                "x": "General Motors正为OnStar加入个人AI助手，作为对这项30年前推出的订阅制车联网服务全面改版的一部分。公司在纽约举行的GM Forward活动上表示，OnStar AI Assistant将在未来几个月首发于2027 Cadillac Lyriq EV，随后扩展到更多GM车型。"
               },
               {
                 "t": "p",
-                "x": "Google还从今天起推出Gemini的Personal Intelligence。在获得用户许可后，它会安全地连接用户已在使用的Google应用中的信息——Workspace（包括Gmail和Google Calendar）、Google Photos、Google Maps、YouTube和Search——给出量身定制的回答。"
+                "x": "2027年推出的新版OnStar移动应用将与车载软件同步，并取代OnStar Guardian应用以及Buick、Cadillac、Chevrolet和GMC品牌应用。与此前基于Google Dialogflow和Gemini的尝试不同，这款助手由公司自主研发，以智能体AI为核心。"
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-Mobile-App-Stills.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "去机场的路上问一句“我的登机口在哪？航班准点吗？”，Gemini会一次回答两个问题。还可以让它在沿途找一家符合你平时口味的室内餐厅，或者说“带我去看医生的预约地点”“找到我上周拍的照片里的那家洗车店并导航过去”。"
+                "x": "车载摄像头可提供实时画面，并在车辆察觉到即将发生的情况（例如激烈的鸣笛）时自动开启，随后把录像上传到应用。驾驶者还可以用语音控制空调等功能，并询问任何车辆功能。"
               },
               {
                 "t": "p",
-                "x": "在开启Personal Intelligence之前，应用不会被连接，用户也可随时在Gemini设置中关闭。内置Google的汽车只有在你连接手机并身处车内时才会给出个性化回答。Personal Intelligence今天起在Android Auto上推出，未来几个月将登陆内置Google的汽车，面向18岁以上的符合条件个人账户（EEA、瑞士、英国（UK）和尼日利亚除外）。"
+                "x": "在FTC就数据共享发布命令之后，GM表示，共享哪些数据由客户决定，录像经过加密且有时间限制，GM和OnStar都无法访问Connected Camera录像。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini llega a los vehículos\nde todo el mundo",
-          "body": "Gemini llega a vehículos de todo el mundo y usa Personal Intelligence para dar ayuda a medida al volante.",
-          "mini_headline": "Gemini sale a la carretera",
+          "headline": "GM lleva un asistente AI propio\nal OnStar de 30 años",
+          "body": "El OnStar AI Assistant propio de GM debutará en el Cadillac Lyriq EV 2027 en unos meses y luego llegará a más modelos.",
+          "mini_headline": "OnStar estrena asistente AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AndroidAuto_Flight_Gate_FINAL.mp4"
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
               },
               {
                 "t": "p",
-                "x": "Gemini, el asistente de AI de Google, ya está disponible en todo el mundo en Android Auto y en los vehículos con Google integrado. Se puede hablar con naturalidad para hacer más cosas o generar ideas mientras se conduce."
+                "x": "General Motors añade un asistente personal de AI a OnStar como parte de una renovación más amplia del servicio de coche conectado por suscripción que lanzó hace 30 años. El OnStar AI Assistant debutará en el Cadillac Lyriq EV 2027 en los próximos meses, y después llegará a más vehículos de GM, según anunció la compañía en su evento GM Forward en Nueva York."
               },
               {
                 "t": "p",
-                "x": "Google también empieza a desplegar hoy Personal Intelligence con Gemini. Con el permiso del usuario, conecta de forma segura la información de las apps de Google que ya utiliza —Workspace (incluidos Gmail y Google Calendar), Google Photos, Google Maps, YouTube y Search— para dar respuestas adaptadas a cada persona."
+                "x": "Una nueva app móvil de OnStar que llegará en 2027 se sincronizará con el software del coche y sustituirá a la app OnStar Guardian y a las apps de las marcas Buick, Cadillac, Chevrolet y GMC. A diferencia de intentos anteriores basados en Dialogflow y Gemini de Google, el asistente es un desarrollo propio que sitúa la AI agéntica en el centro."
+              },
+              {
+                "t": "img",
+                "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-Mobile-App-Stills.jpg?w=1200"
               },
               {
                 "t": "p",
-                "x": "De camino al aeropuerto, basta con preguntar «¿Cuál es la puerta de embarque de mi vuelo? ¿Sale a tiempo?» y Gemini responde a ambas cosas de una vez. También se le puede pedir un restaurante cubierto en la ruta que encaje con los gustos habituales, decir «Llévame a mi cita con el médico» o «Busca el lavadero de autos de la foto que tomé la semana pasada y llévame hasta allí»."
+                "x": "Las cámaras del vehículo ofrecerán vistas en directo y podrán activarse automáticamente cuando el coche detecte un incidente inminente, como un bocinazo agresivo, para luego subir la grabación a la app. Los conductores también podrán usar la voz para controlar funciones como la climatización y preguntar por cualquier función del vehículo."
               },
               {
                 "t": "p",
-                "x": "Las apps no se conectan hasta que se activa Personal Intelligence, y se puede desactivar en cualquier momento desde los ajustes de Gemini. Los vehículos con Google integrado solo muestran respuestas personales cuando el usuario está en el vehículo con el teléfono conectado. Personal Intelligence llega hoy a Android Auto y en los próximos meses a los vehículos con Google integrado, para cuentas personales aptas de mayores de 18 años (excepto en el Espacio Económico Europeo (EEA), Suiza, Reino Unido (UK) y Nigeria)."
+                "x": "Tras una orden de la FTC sobre el intercambio de datos, GM afirmó que los clientes deciden qué datos se comparten, que las grabaciones están cifradas y tienen un plazo limitado, y que ni GM ni OnStar pueden acceder a las grabaciones de Connected Camera."
               }
             ]
           }
@@ -627,255 +677,165 @@
       }
     },
     {
-      "id": "gadgets-boya-notra-neo-recorder",
+      "id": "gadgets-unitree-h2x",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Boya Notra Neo\nAI MagSafe 녹음기",
-      "body": "Boya의 MagSafe 녹음기는 140개 이상 언어로 받아쓰고 AI로 요약한다.",
-      "mini_headline": "Boya의 AI MagSafe 녹음기",
+      "headline": "Unitree, 쿵후 경호\n휴머노이드 H2-X 공개",
+      "body": "Unitree H2-X는 무술 방어 기술과 8시간 배터리를 갖춘 경호 로봇이다.",
+      "mini_headline": "Unitree 쿵후 경호원 H2-X",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.1428542.0.html",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/ai-platforms-assistants/unitree-reveals-its-h2-x-bodyguard-robot-a-kung-fu-humanoid-with-an-8-hour-battery-life-and-some-serious-martial-arts-skills",
       "accent": "#7928ca",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
-            "cap": "작고 알록달록한 Boya Notra Neo는 AI 기반(AI-powered) 회의 받아쓰기와 요약 기능을 담았다."
+            "t": "video",
+            "yt": "Y3zb4o47yqA"
           },
           {
             "t": "p",
-            "x": "Boya가 통화와 회의 중 메모를 손쉽게 남기게 해 주는 AI 기반(AI-powered) 음성 녹음기 Notra Neo를 공개했다. 주변음, 전화 통화, Bluetooth 녹음 모드를 지원하며 기기와 클라우드 양쪽에 저장할 수 있다."
+            "x": "Unitree가 휴머노이드 H2-X Kung Fu Legend Guardian을 공개했다. H2 플랫폼을 바탕으로 경호용으로 설계했고, Robocop을 떠올리게 한다. 일 분짜리 티저에서 이 로봇은 폐차장에서 자동차에 무릎차기와 주먹을 날리고, 강도를 당할 뻔한 주인 앞으로 뛰어들고, 차 밑에 깔린 사람을 구하려고 자동차를 들어 올린다. "
           },
           {
             "t": "p",
-            "x": "Notra Neo는 140개가 넘는 언어의 받아쓰기와 스마트 화자 식별을 지원한다. AI가 60개 넘는 전문 템플릿으로 요약, 실행 항목, 마인드맵을 만들어 주고 Ask AI를 쓰면 녹음 파일 전체에서 원하는 정보를 찾아낸다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
-            "cap": "MEMS 마이크 두 개가 최대 5 m(16.4 ft.) 떨어진 목소리까지 담는다."
+            "x": "Unitree가 밝힌 사양은 네 미터 높이 단상에서 뛰어내릴 수 있고 재충전 없이 “약 여덟 시간” 서 있을 수 있다는 정도다. 비슷한 H2는 키 1.8미터 휴머노이드로, Nvidia Jetson AGX Thor 칩을 고를 수 있고 값은 $29,900이다. "
           },
           {
             "t": "p",
-            "x": "로컬 저장 공간은 8 GB다. 최대 20시간 연속 녹음되고 충전에는 1.5시간이 걸린다. 녹음 파일은 Boya OS 앱으로 무료 무제한 클라우드 저장소에 동기화되며 10가지 형식으로 내보낼 수 있다. Boya는 데이터가 종단 간 암호화되고 HIPAA 준수(HIPAA-compliant)라고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "가격은 $79.99다. 색상은 블랙, 화이트, 네온 옐로, 라이트 핑크이고 무게는 34.5 g이다. 요금제는 무료 Starter(월 600분, 템플릿 10개), 월 $17.99의 Pro(1,280분, 템플릿 40개, Ask AI), 월 $29.99의 Ultimate(무제한 받아쓰기, 템플릿 60개 전부)로 나뉜다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
-            "cap": "Boya Notra Neo에는 MagSafe 호환(MagSafe-compatible) 자석 마운트도 딸려 온다."
+            "x": "H2-X가 일반에 팔릴 가능성은 낮고, 가격이나 출시 일정도 알려지지 않았다. 개인 경호 로봇이라면 소비자용 인증부터 큰 벽이다. 이와 별개로 Unitree, Nvidia, Sharpa는 차세대 “체화 지능” 로봇용 H2+ 청사진을 함께 만들고 있다. "
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Boya Notra Neo brings AI notes\nto a MagSafe voice recorder",
-          "body": "Boya's MagSafe recorder transcribes calls in 140+ languages, tags speakers, and drafts AI summaries.",
-          "mini_headline": "Boya's AI MagSafe recorder",
+          "headline": "Unitree unveils H2-X, a\nkung fu bodyguard humanoid",
+          "body": "Unitree's H2-X Kung Fu Legend Guardian is a humanoid bodyguard with martial-arts defense skills and an 8-hour battery.",
+          "mini_headline": "Unitree's kung fu\nbodyguard H2-X",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
-                "cap": "The colorful, petite Boya Notra Neo delivers AI-powered meeting transcriptions and summaries."
+                "t": "video",
+                "yt": "Y3zb4o47yqA"
               },
               {
                 "t": "p",
-                "x": "Boya has unveiled the Notra Neo, an AI-powered voice recorder designed to simplify note-taking during calls and meetings. It has ambient, phone call and Bluetooth recording modes, with on-board and cloud storage."
+                "x": "Unitree has revealed a Robocop-esque humanoid called the H2-X Kung Fu Legend Guardian, based on its H2 platform and designed for security. A one-minute teaser shows the robot unleashing knees and punches on cars in a scrapyard, jumping in front of its owner during attempted robberies, and lifting cars to free people trapped underneath."
               },
               {
                 "t": "p",
-                "x": "The Notra Neo supports transcription in more than 140 languages and includes smart speaker identification. The AI can generate summaries, action items and mind maps using more than 60 professional templates, and Ask AI lets users find specific information across their recorded files."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
-                "cap": "Two MEMS microphones capture voices up to 5 m (16.4 ft.) away."
+                "x": "Unitree hasn’t revealed much in the way of specs, beyond that it can jump from four-meter-high platforms and stand for “approximately eight hours” between charges. The similar H2 is a 1.8-meter humanoid with an optional Nvidia Jetson AGX Thor chip, priced at $29,900."
               },
               {
                 "t": "p",
-                "x": "It has 8 GB of local storage and records continuously for up to 20 hours; recharging takes 1.5 hours. Recordings sync via the Boya OS app to free unlimited cloud storage and export in 10 formats. Boya says data is end-to-end encrypted and HIPAA-compliant."
-              },
-              {
-                "t": "p",
-                "x": "The recorder costs $79.99 in black, white, neon yellow and light pink, weighing 34.5 g. Plans: free Starter (600 minutes/month, 10 templates), Pro at $17.99/month (1,280 minutes, 40 templates, Ask AI) and Ultimate at $29.99/month (unlimited transcription, all 60 templates)."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
-                "cap": "The Boya Notra Neo comes with a MagSafe-compatible magnetic mount."
+                "x": "The H2-X is unlikely to go on general sale, and there are no details on pricing or availability — consumer certification would be a major hurdle for a personal bodyguard robot. Separately, Unitree, Nvidia and Sharpa are working on an H2+ blueprint for next-gen “embodied intelligence” robots."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Boya Notra Neo\nAI MagSafe 녹음기",
-          "body": "Boya의 MagSafe 녹음기는 140개 이상 언어로 받아쓰고 AI로 요약한다.",
-          "mini_headline": "Boya의 AI MagSafe 녹음기",
+          "headline": "Unitree, 쿵후 경호\n휴머노이드 H2-X 공개",
+          "body": "Unitree H2-X는 무술 방어 기술과 8시간 배터리를 갖춘 경호 로봇이다.",
+          "mini_headline": "Unitree 쿵후 경호원 H2-X",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
-                "cap": "작고 알록달록한 Boya Notra Neo는 AI 기반(AI-powered) 회의 받아쓰기와 요약 기능을 담았다."
+                "t": "video",
+                "yt": "Y3zb4o47yqA"
               },
               {
                 "t": "p",
-                "x": "Boya가 통화와 회의 중 메모를 손쉽게 남기게 해 주는 AI 기반(AI-powered) 음성 녹음기 Notra Neo를 공개했다. 주변음, 전화 통화, Bluetooth 녹음 모드를 지원하며 기기와 클라우드 양쪽에 저장할 수 있다."
+                "x": "Unitree가 휴머노이드 H2-X Kung Fu Legend Guardian을 공개했다. H2 플랫폼을 바탕으로 경호용으로 설계했고, Robocop을 떠올리게 한다. 일 분짜리 티저에서 이 로봇은 폐차장에서 자동차에 무릎차기와 주먹을 날리고, 강도를 당할 뻔한 주인 앞으로 뛰어들고, 차 밑에 깔린 사람을 구하려고 자동차를 들어 올린다. "
               },
               {
                 "t": "p",
-                "x": "Notra Neo는 140개가 넘는 언어의 받아쓰기와 스마트 화자 식별을 지원한다. AI가 60개 넘는 전문 템플릿으로 요약, 실행 항목, 마인드맵을 만들어 주고 Ask AI를 쓰면 녹음 파일 전체에서 원하는 정보를 찾아낸다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
-                "cap": "MEMS 마이크 두 개가 최대 5 m(16.4 ft.) 떨어진 목소리까지 담는다."
+                "x": "Unitree가 밝힌 사양은 네 미터 높이 단상에서 뛰어내릴 수 있고 재충전 없이 “약 여덟 시간” 서 있을 수 있다는 정도다. 비슷한 H2는 키 1.8미터 휴머노이드로, Nvidia Jetson AGX Thor 칩을 고를 수 있고 값은 $29,900이다. "
               },
               {
                 "t": "p",
-                "x": "로컬 저장 공간은 8 GB다. 최대 20시간 연속 녹음되고 충전에는 1.5시간이 걸린다. 녹음 파일은 Boya OS 앱으로 무료 무제한 클라우드 저장소에 동기화되며 10가지 형식으로 내보낼 수 있다. Boya는 데이터가 종단 간 암호화되고 HIPAA 준수(HIPAA-compliant)라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "가격은 $79.99다. 색상은 블랙, 화이트, 네온 옐로, 라이트 핑크이고 무게는 34.5 g이다. 요금제는 무료 Starter(월 600분, 템플릿 10개), 월 $17.99의 Pro(1,280분, 템플릿 40개, Ask AI), 월 $29.99의 Ultimate(무제한 받아쓰기, 템플릿 60개 전부)로 나뉜다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
-                "cap": "Boya Notra Neo에는 MagSafe 호환(MagSafe-compatible) 자석 마운트도 딸려 온다."
+                "x": "H2-X가 일반에 팔릴 가능성은 낮고, 가격이나 출시 일정도 알려지지 않았다. 개인 경호 로봇이라면 소비자용 인증부터 큰 벽이다. 이와 별개로 Unitree, Nvidia, Sharpa는 차세대 “체화 지능” 로봇용 H2+ 청사진을 함께 만들고 있다. "
               }
             ]
           }
         },
         "ja": {
-          "headline": "Boya Notra Neo\nAI搭載MagSafe録音機",
-          "body": "BoyaのMagSafe録音機は140以上の言語で通話を文字起こしし、AI要約も作る。",
-          "mini_headline": "BoyaのAI MagSafe録音機",
+          "headline": "Unitree、カンフー護衛\nヒューマノイドH2-X公開",
+          "body": "UnitreeのH2-Xは武術の防御技と8時間バッテリーを備えた人型ボディーガードだ。",
+          "mini_headline": "Unitreeのカンフー護衛H2-X",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
-                "cap": "カラフルで小ぶりなBoya Notra Neoは、AIによる（AI-powered）会議の文字起こしと要約を提供する。"
+                "t": "video",
+                "yt": "Y3zb4o47yqA"
               },
               {
                 "t": "p",
-                "x": "BoyaはAI搭載（AI-powered）のボイスレコーダー「Notra Neo」を発表した。通話や会議中のメモ取りを簡単にするための製品で、周囲音・電話通話・Bluetoothの録音モードを備え、本体とクラウドの両方に保存できる。"
+                "x": "Unitreeは、H2プラットフォームをベースに警備用として設計した、Robocopを思わせるヒューマノイド「H2-X Kung Fu Legend Guardian」を公開した。一分間のティーザーでは、ロボットがスクラップ置き場で車に膝蹴りやパンチを浴びせ、強盗未遂の場面で持ち主の前に飛び出し、車を持ち上げて下敷きになった人を助け出す様子が映っている。"
               },
               {
                 "t": "p",
-                "x": "Notra Neoは140を超える言語の文字起こしに対応し、スマートな話者識別も備える。AIは60を超える専門テンプレートを使って要約、アクションアイテム、マインドマップを作成でき、Ask AIを使えば録音ファイル全体から特定の情報を探せる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
-                "cap": "二基のMEMSマイクが最大5 m（16.4 ft.）先の声を拾う。"
+                "x": "Unitreeは、高さ四メートルの台から飛び降りられることと、充電なしで「約八時間」立っていられること以外、仕様をほとんど明らかにしていない。似た機種のH2は身長1.8メートルのヒューマノイドで、Nvidia Jetson AGX Thorチップをオプションで搭載でき、価格は$29,900だ。"
               },
               {
                 "t": "p",
-                "x": "本体ストレージは8 GBで、最大20時間の連続録音が可能、充電には1.5時間かかる。録音はBoya OSアプリ経由で無料・無制限のクラウドストレージに同期され、10種類の形式で書き出せる。Boyaによれば、データはエンドツーエンドで暗号化され、HIPAAに準拠（HIPAA-compliant）している。"
-              },
-              {
-                "t": "p",
-                "x": "価格は$79.99で、カラーはブラック、ホワイト、ネオンイエロー、ライトピンク、重さは34.5 gだ。プランは無料のStarter（月600分、テンプレート10種）、月額$17.99のPro（1,280分、テンプレート40種、Ask AI）、月額$29.99のUltimate（文字起こし無制限、テンプレート60種すべて）である。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
-                "cap": "Boya Notra NeoにはMagSafe対応（MagSafe-compatible）のマグネットマウントが付属する。"
+                "x": "H2-Xが一般販売される可能性は低く、価格や発売時期の詳細も出ていない。個人用ボディーガードロボットにとって、消費者向け認証は大きなハードルになるだろう。これとは別に、Unitree、Nvidia、Sharpaは次世代の「身体性知能」ロボットに向けたH2+の設計図に取り組んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Boya Notra Neo\nAI MagSafe录音笔",
-          "body": "Boya的MagSafe录音器支持140多种语言通话转写、说话人识别和AI摘要。",
-          "mini_headline": "Boya的AI MagSafe录音器",
+          "headline": "Unitree发布H2-X\n功夫保镖人形机器人",
+          "body": "Unitree的H2-X是具备武术防御技能和8小时续航的人形保镖。",
+          "mini_headline": "Unitree功夫保镖H2-X",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
-                "cap": "色彩缤纷、小巧的Boya Notra Neo提供AI驱动（AI-powered）的会议转写和摘要。"
+                "t": "video",
+                "yt": "Y3zb4o47yqA"
               },
               {
                 "t": "p",
-                "x": "Boya发布了Notra Neo，这是一款AI驱动（AI-powered）的录音器，旨在简化通话和会议中的记录工作。它具备环境、电话通话和Bluetooth录音模式，并提供机身存储和云存储。"
+                "x": "Unitree发布了一款颇具Robocop风格的人形机器人H2-X Kung Fu Legend Guardian，它基于H2平台打造，专为安保设计。在一分钟的预告片中，这台机器人在废车场对汽车施展膝击和拳击，在有人企图抢劫时挡在主人身前，还会抬起汽车救出被压在下面的人。"
               },
               {
                 "t": "p",
-                "x": "Notra Neo支持140多种语言的转写，并带有智能说话人识别。AI可借助60多个专业模板生成摘要、待办事项和思维导图，用户还能通过Ask AI在录音文件中查找特定信息。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
-                "cap": "两个MEMS麦克风可拾取最远5 m（16.4 ft.）外的人声。"
+                "x": "除了能从四米高的平台上跳下、无需充电即可站立“约八小时”外，Unitree几乎没有公布规格。与之相似的H2是一款身高1.8米的人形机器人，可选配Nvidia Jetson AGX Thor芯片，售价$29,900。"
               },
               {
                 "t": "p",
-                "x": "它拥有8 GB本地存储，最长可连续录音20小时，充电需1.5小时。录音可通过Boya OS应用同步到免费的无限云存储，并能导出为10种格式。Boya称数据采用端到端加密，并符合HIPAA要求（HIPAA-compliant）。"
-              },
-              {
-                "t": "p",
-                "x": "这款录音器售价$79.99，有黑、白、霓虹黄和浅粉色可选，重34.5 g。套餐包括免费的Starter（每月600分钟、10个模板）、每月$17.99的Pro（1,280分钟、40个模板、Ask AI）以及每月$29.99的Ultimate（无限转写、全部60个模板）。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
-                "cap": "Boya Notra Neo附带兼容MagSafe（MagSafe-compatible）的磁吸支架。"
+                "x": "H2-X不太可能公开发售，也没有价格或上市信息——对于个人保镖机器人来说，消费级认证将是一大障碍。另外，Unitree、Nvidia和Sharpa正在合作制定面向下一代“具身智能”机器人的H2+蓝图。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Boya Notra Neo: notas con AI\nen una grabadora MagSafe",
-          "body": "La grabadora MagSafe de Boya transcribe llamadas en más de 140 idiomas, distingue voces y resume con AI.",
-          "mini_headline": "La grabadora MagSafe con AI de Boya",
+          "headline": "Unitree presenta H2-X,\nun humanoide escolta de kung fu",
+          "body": "El H2-X Kung Fu Legend Guardian de Unitree es un guardaespaldas humanoide con defensa marcial y batería de 8 horas.",
+          "mini_headline": "H2-X, el escolta kung fu de Unitree",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
-                "cap": "La pequeña y colorida Boya Notra Neo ofrece transcripciones y resúmenes de reuniones con AI (AI-powered)."
+                "t": "video",
+                "yt": "Y3zb4o47yqA"
               },
               {
                 "t": "p",
-                "x": "Boya ha presentado la Notra Neo, una grabadora de voz con AI (AI-powered) pensada para simplificar la toma de notas durante llamadas y reuniones. Ofrece modos de grabación ambiental, de llamadas telefónicas y por Bluetooth, con almacenamiento interno y en la nube."
+                "x": "Unitree ha presentado un humanoide al estilo Robocop llamado H2-X Kung Fu Legend Guardian, basado en su plataforma H2 y diseñado para tareas de seguridad. Un adelanto de un minuto muestra al robot lanzando rodillazos y puñetazos contra coches en un desguace, interponiéndose ante su dueño durante intentos de robo y levantando coches para liberar a personas atrapadas debajo."
               },
               {
                 "t": "p",
-                "x": "La Notra Neo admite transcripción en más de 140 idiomas e incluye identificación inteligente de hablantes. La AI puede generar resúmenes, tareas pendientes y mapas mentales con más de 60 plantillas profesionales, y Ask AI permite buscar información concreta en los archivos grabados."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
-                "cap": "Dos micrófonos MEMS captan voces a hasta 5 m (16.4 ft.) de distancia."
+                "x": "Unitree apenas ha revelado especificaciones, más allá de que puede saltar desde plataformas de cuatro metros de altura y mantenerse en pie “aproximadamente ocho horas” entre cargas. El H2, similar, es un humanoide de 1.8 metros con un chip Nvidia Jetson AGX Thor opcional y un precio de $29,900."
               },
               {
                 "t": "p",
-                "x": "Tiene 8 GB de almacenamiento local y graba de forma continua hasta 20 horas; la recarga tarda 1.5 horas. Las grabaciones se sincronizan mediante la app Boya OS con un almacenamiento en la nube gratuito e ilimitado y se exportan en 10 formatos. Boya afirma que los datos tienen cifrado de extremo a extremo y cumplen HIPAA (HIPAA-compliant)."
-              },
-              {
-                "t": "p",
-                "x": "La grabadora cuesta $79.99, pesa 34.5 g y está disponible en negro, blanco, amarillo neón y rosa claro. Planes: Starter gratuito (600 minutos/mes, 10 plantillas), Pro a $17.99/mes (1,280 minutos, 40 plantillas, Ask AI) y Ultimate a $29.99/mes (transcripción ilimitada, las 60 plantillas)."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
-                "cap": "La Boya Notra Neo incluye un soporte magnético compatible con MagSafe (MagSafe-compatible)."
+                "x": "Es poco probable que el H2-X salga a la venta general, y no hay detalles sobre precio ni disponibilidad: la certificación de consumo sería un gran obstáculo para un robot guardaespaldas personal. Por otra parte, Unitree, Nvidia y Sharpa trabajan en un diseño de referencia H2+ para robots de “inteligencia encarnada” de próxima generación."
               }
             ]
           }
@@ -883,165 +843,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Boya Notra Neo\nAI MagSafe 녹음기",
-          "body": "Boya의 MagSafe 녹음기는 140개 이상 언어로 받아쓰고 AI로 요약한다.",
-          "mini_headline": "Boya의 AI MagSafe 녹음기",
+          "headline": "Unitree, 쿵후 경호\n휴머노이드 H2-X 공개",
+          "body": "Unitree H2-X는 무술 방어 기술과 8시간 배터리를 갖춘 경호 로봇이다.",
+          "mini_headline": "Unitree 쿵후 경호원 H2-X",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
-                "cap": "알록달록하고 작은 Boya Notra Neo는 AI 기반(AI-powered) 회의 받아쓰기와 요약 기능을 갖췄다."
+                "t": "video",
+                "yt": "Y3zb4o47yqA"
               },
               {
                 "t": "p",
-                "x": "Boya가 통화와 회의 중 메모를 간편하게 해 주는 AI 기반(AI-powered) 음성 녹음기 Notra Neo를 공개했다. 주변음, 전화 통화, Bluetooth 녹음 모드를 지원하고 기기 내 저장과 클라우드 저장을 모두 제공한다."
+                "x": "Unitree가 H2 플랫폼을 기반으로 경호용으로 설계한, Robocop을 떠올리게 하는 휴머노이드 H2-X Kung Fu Legend Guardian을 공개했다. 일 분 분량의 티저에서 이 로봇은 폐차장에서 자동차에 무릎차기와 주먹을 날리고, 강도 시도 상황에서 주인 앞으로 뛰어들며, 차 밑에 깔린 사람을 구하려고 자동차를 들어 올린다."
               },
               {
                 "t": "p",
-                "x": "Notra Neo는 140개가 넘는 언어의 받아쓰기와 스마트 화자 식별을 지원한다. AI는 60개가 넘는 전문 템플릿으로 요약, 실행 항목, 마인드맵을 만들고, Ask AI로 녹음 파일 전체에서 특정 정보를 찾을 수 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
-                "cap": "MEMS 마이크 두 개가 최대 5 m(16.4 ft.) 떨어진 목소리까지 담는다."
+                "x": "Unitree는 네 미터 높이의 단상에서 뛰어내릴 수 있고 재충전 없이 “약 여덟 시간” 서 있을 수 있다는 점 외에는 사양을 거의 공개하지 않았다. 비슷한 H2는 키 1.8미터의 휴머노이드로, Nvidia Jetson AGX Thor 칩을 선택할 수 있으며 가격은 $29,900이다."
               },
               {
                 "t": "p",
-                "x": "로컬 저장 공간은 8 GB이고 최대 20시간 연속 녹음하며, 충전에는 1.5시간이 걸린다. 녹음은 Boya OS 앱을 통해 무료 무제한 클라우드 저장소에 동기화되고 10가지 형식으로 내보낼 수 있다. Boya는 데이터가 종단 간 암호화되며 HIPAA 준수(HIPAA-compliant)라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "가격은 $79.99이고 색상은 블랙, 화이트, 네온 옐로, 라이트 핑크이며 무게는 34.5 g이다. 요금제는 무료 Starter(월 600분, 템플릿 10개), 월 $17.99의 Pro(1,280분, 템플릿 40개, Ask AI), 월 $29.99의 Ultimate(무제한 받아쓰기, 템플릿 60개 전부)로 나뉜다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
-                "cap": "Boya Notra Neo에는 MagSafe 호환(MagSafe-compatible) 자석 마운트가 함께 들어 있다."
+                "x": "H2-X가 일반 판매될 가능성은 낮으며 가격이나 출시 일정에 대한 정보도 없다. 개인 경호 로봇에게 소비자용 인증은 큰 장벽이 될 것이다. 이와 별개로 Unitree, Nvidia, Sharpa는 차세대 “체화 지능” 로봇을 위한 H2+ 청사진을 함께 만들고 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Boya Notra Neo\nAI搭載MagSafe録音機",
-          "body": "BoyaのMagSafe録音機は140以上の言語で通話を文字起こしし、AI要約も作る。",
-          "mini_headline": "BoyaのAI MagSafe録音機",
+          "headline": "Unitree、カンフー護衛\nヒューマノイドH2-X公開",
+          "body": "UnitreeのH2-Xは武術の防御技と8時間バッテリーを備えた人型ボディーガードだ。",
+          "mini_headline": "Unitreeのカンフー護衛H2-X",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
-                "cap": "カラフルで小ぶりなBoya Notra Neoは、AIによる（AI-powered）会議の文字起こしと要約を提供する。"
+                "t": "video",
+                "yt": "Y3zb4o47yqA"
               },
               {
                 "t": "p",
-                "x": "BoyaはAI搭載（AI-powered）のボイスレコーダー「Notra Neo」を発表した。通話や会議中のメモ取りを簡単にするための製品で、周囲音・電話通話・Bluetoothの録音モードを備え、本体とクラウドの両方に保存できる。"
+                "x": "Unitreeは、H2プラットフォームをベースに警備用として設計した、Robocopを思わせるヒューマノイド「H2-X Kung Fu Legend Guardian」を公開した。一分間のティーザーでは、ロボットがスクラップ置き場で車に膝蹴りやパンチを浴びせ、強盗未遂の場面で持ち主の前に飛び出し、車を持ち上げて下敷きになった人を助け出す様子が映っている。"
               },
               {
                 "t": "p",
-                "x": "Notra Neoは140を超える言語の文字起こしに対応し、スマートな話者識別も備える。AIは60を超える専門テンプレートを使って要約、アクションアイテム、マインドマップを作成でき、Ask AIを使えば録音ファイル全体から特定の情報を探せる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
-                "cap": "二基のMEMSマイクが最大5 m（16.4 ft.）先の声を拾う。"
+                "x": "Unitreeは、高さ四メートルの台から飛び降りられることと、充電なしで「約八時間」立っていられること以外、仕様をほとんど明らかにしていない。似た機種のH2は身長1.8メートルのヒューマノイドで、Nvidia Jetson AGX Thorチップをオプションで搭載でき、価格は$29,900だ。"
               },
               {
                 "t": "p",
-                "x": "本体ストレージは8 GBで、最大20時間の連続録音が可能、充電には1.5時間かかる。録音はBoya OSアプリ経由で無料・無制限のクラウドストレージに同期され、10種類の形式で書き出せる。Boyaによれば、データはエンドツーエンドで暗号化され、HIPAAに準拠（HIPAA-compliant）している。"
-              },
-              {
-                "t": "p",
-                "x": "価格は$79.99で、カラーはブラック、ホワイト、ネオンイエロー、ライトピンク、重さは34.5 gだ。プランは無料のStarter（月600分、テンプレート10種）、月額$17.99のPro（1,280分、テンプレート40種、Ask AI）、月額$29.99のUltimate（文字起こし無制限、テンプレート60種すべて）である。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
-                "cap": "Boya Notra NeoにはMagSafe対応（MagSafe-compatible）のマグネットマウントが付属する。"
+                "x": "H2-Xが一般販売される可能性は低く、価格や発売時期の詳細も出ていない。個人用ボディーガードロボットにとって、消費者向け認証は大きなハードルになるだろう。これとは別に、Unitree、Nvidia、Sharpaは次世代の「身体性知能」ロボットに向けたH2+の設計図に取り組んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Boya Notra Neo\nAI MagSafe录音笔",
-          "body": "Boya的MagSafe录音器支持140多种语言通话转写、说话人识别和AI摘要。",
-          "mini_headline": "Boya的AI MagSafe录音器",
+          "headline": "Unitree发布H2-X\n功夫保镖人形机器人",
+          "body": "Unitree的H2-X是具备武术防御技能和8小时续航的人形保镖。",
+          "mini_headline": "Unitree功夫保镖H2-X",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
-                "cap": "色彩缤纷、小巧的Boya Notra Neo提供AI驱动（AI-powered）的会议转写和摘要。"
+                "t": "video",
+                "yt": "Y3zb4o47yqA"
               },
               {
                 "t": "p",
-                "x": "Boya发布了Notra Neo，这是一款AI驱动（AI-powered）的录音器，旨在简化通话和会议中的记录工作。它具备环境、电话通话和Bluetooth录音模式，并提供机身存储和云存储。"
+                "x": "Unitree发布了一款颇具Robocop风格的人形机器人H2-X Kung Fu Legend Guardian，它基于H2平台打造，专为安保设计。在一分钟的预告片中，这台机器人在废车场对汽车施展膝击和拳击，在有人企图抢劫时挡在主人身前，还会抬起汽车救出被压在下面的人。"
               },
               {
                 "t": "p",
-                "x": "Notra Neo支持140多种语言的转写，并带有智能说话人识别。AI可借助60多个专业模板生成摘要、待办事项和思维导图，用户还能通过Ask AI在录音文件中查找特定信息。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
-                "cap": "两个MEMS麦克风可拾取最远5 m（16.4 ft.）外的人声。"
+                "x": "除了能从四米高的平台上跳下、无需充电即可站立“约八小时”外，Unitree几乎没有公布规格。与之相似的H2是一款身高1.8米的人形机器人，可选配Nvidia Jetson AGX Thor芯片，售价$29,900。"
               },
               {
                 "t": "p",
-                "x": "它拥有8 GB本地存储，最长可连续录音20小时，充电需1.5小时。录音可通过Boya OS应用同步到免费的无限云存储，并能导出为10种格式。Boya称数据采用端到端加密，并符合HIPAA要求（HIPAA-compliant）。"
-              },
-              {
-                "t": "p",
-                "x": "这款录音器售价$79.99，有黑、白、霓虹黄和浅粉色可选，重34.5 g。套餐包括免费的Starter（每月600分钟、10个模板）、每月$17.99的Pro（1,280分钟、40个模板、Ask AI）以及每月$29.99的Ultimate（无限转写、全部60个模板）。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
-                "cap": "Boya Notra Neo附带兼容MagSafe（MagSafe-compatible）的磁吸支架。"
+                "x": "H2-X不太可能公开发售，也没有价格或上市信息——对于个人保镖机器人来说，消费级认证将是一大障碍。另外，Unitree、Nvidia和Sharpa正在合作制定面向下一代“具身智能”机器人的H2+蓝图。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Boya Notra Neo: notas con AI\nen una grabadora MagSafe",
-          "body": "La grabadora MagSafe de Boya transcribe llamadas en más de 140 idiomas, distingue voces y resume con AI.",
-          "mini_headline": "La grabadora MagSafe con AI de Boya",
+          "headline": "Unitree presenta H2-X,\nun humanoide escolta de kung fu",
+          "body": "El H2-X Kung Fu Legend Guardian de Unitree es un guardaespaldas humanoide con defensa marcial y batería de 8 horas.",
+          "mini_headline": "H2-X, el escolta kung fu de Unitree",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
-                "cap": "La pequeña y colorida Boya Notra Neo ofrece transcripciones y resúmenes de reuniones con AI (AI-powered)."
+                "t": "video",
+                "yt": "Y3zb4o47yqA"
               },
               {
                 "t": "p",
-                "x": "Boya ha presentado la Notra Neo, una grabadora de voz con AI (AI-powered) pensada para simplificar la toma de notas durante llamadas y reuniones. Ofrece modos de grabación ambiental, de llamadas telefónicas y por Bluetooth, con almacenamiento interno y en la nube."
+                "x": "Unitree ha presentado un humanoide al estilo Robocop llamado H2-X Kung Fu Legend Guardian, basado en su plataforma H2 y diseñado para tareas de seguridad. Un adelanto de un minuto muestra al robot lanzando rodillazos y puñetazos contra coches en un desguace, interponiéndose ante su dueño durante intentos de robo y levantando coches para liberar a personas atrapadas debajo."
               },
               {
                 "t": "p",
-                "x": "La Notra Neo admite transcripción en más de 140 idiomas e incluye identificación inteligente de hablantes. La AI puede generar resúmenes, tareas pendientes y mapas mentales con más de 60 plantillas profesionales, y Ask AI permite buscar información concreta en los archivos grabados."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-b.jpg",
-                "cap": "Dos micrófonos MEMS captan voces a hasta 5 m (16.4 ft.) de distancia."
+                "x": "Unitree apenas ha revelado especificaciones, más allá de que puede saltar desde plataformas de cuatro metros de altura y mantenerse en pie “aproximadamente ocho horas” entre cargas. El H2, similar, es un humanoide de 1.8 metros con un chip Nvidia Jetson AGX Thor opcional y un precio de $29,900."
               },
               {
                 "t": "p",
-                "x": "Tiene 8 GB de almacenamiento local y graba de forma continua hasta 20 horas; la recarga tarda 1.5 horas. Las grabaciones se sincronizan mediante la app Boya OS con un almacenamiento en la nube gratuito e ilimitado y se exportan en 10 formatos. Boya afirma que los datos tienen cifrado de extremo a extremo y cumplen HIPAA (HIPAA-compliant)."
-              },
-              {
-                "t": "p",
-                "x": "La grabadora cuesta $79.99, pesa 34.5 g y está disponible en negro, blanco, amarillo neón y rosa claro. Planes: Starter gratuito (600 minutos/mes, 10 plantillas), Pro a $17.99/mes (1,280 minutos, 40 plantillas, Ask AI) y Ultimate a $29.99/mes (transcripción ilimitada, las 60 plantillas)."
-              },
-              {
-                "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount-c.jpg",
-                "cap": "La Boya Notra Neo incluye un soporte magnético compatible con MagSafe (MagSafe-compatible)."
+                "x": "Es poco probable que el H2-X salga a la venta general, y no hay detalles sobre precio ni disponibilidad: la certificación de consumo sería un gran obstáculo para un robot guardaespaldas personal. Por otra parte, Unitree, Nvidia y Sharpa trabajan en un diseño de referencia H2+ para robots de “inteligencia encarnada” de próxima generación."
               }
             ]
           }
@@ -1049,267 +949,231 @@
       }
     },
     {
-      "id": "gadgets-voxel1-tidy-robot",
+      "id": "gadgets-timekettle-livetalk",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "두 팔 달린 로봇이\n집을 알아서 치운다",
-      "body": "Tuesday Labs의 Voxel Series 1은 AI로 정리·청소한다.",
-      "mini_headline": "Voxel 1이 집을 치운다",
+      "headline": "54개 언어 통역하는\nLiveTalk 이어폰",
+      "body": "Timekettle LiveTalk는 일상용 이어폰이자 54개 언어 번역기다.",
+      "mini_headline": "54개 언어 통역 이어폰",
       "tool": "Gadgets",
-      "source": "Notebookcheck",
-      "url": "https://www.notebookcheck.net/Voxel-1-robot-can-tidy-up-water-plants-and-clean-up-dirt.1429483.0.html",
+      "source": "Android Authority",
+      "url": "https://www.androidauthority.com/timekettle-livetalk-ai-translation-earbuds-hands-on-3722945/",
       "accent": "#2ec5c5",
       "motif": "headset",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "yt": "_nwhe_N-IvQ"
+            "t": "img",
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+            "cap": "Edgar Cervantes / Android Authority"
+          },
+          {
+            "t": "p",
+            "x": "Timekettle LiveTalk는 평범한 오픈형 이어폰처럼 생겼고, 써 보면 실제로도 그렇다. 음질이 좋고 재생 시간은 8시간, 케이스를 더하면 35시간이며 가격은 $129다. 여기에 54개 언어와 108개 억양을 번역하고, 25개 언어 쌍은 오프라인에서도 된다. "
           },
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
-            "cap": "Tuesday Labs가 집안일을 맡기려고 만든 새 로봇이다."
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-2.jpg",
+            "cap": "Edgar Cervantes / Android Authority"
           },
           {
             "t": "p",
-            "x": "Voxel은 침실 정리부터 리모컨 찾기, 꽃에 물 주기까지 귀찮은 집안일을 대신해 주는 로봇이다. 다만 이 편리함은 값이 꽤 나간다."
-          },
-          {
-            "t": "p",
-            "x": "스마트홈 로봇은 그동안 로봇 청소기와 AI 컴패니언 로봇 정도에 머물렀다. Tuesday Labs는 Voxel Series 1로 요즘 로봇이 훨씬 더 쓸모 있을 수 있다는 걸 보여 주려 한다. 뉴욕 기반(New York-based) 로봇 제조사인 이 회사가 내놓은 건 두 다리와 두 팔을 달고 인공지능의 도움으로 여러 집안일을 해내는 휴머노이드 로봇이다."
-          },
-          {
-            "t": "p",
-            "x": "이 로봇은 집 안 물건마다 제자리를 익힌 뒤 알아서 정리한다. Voxel Series 1은 화분에 물을 주고 더러운 곳을 찾아 청소하며 식기도 정리한다. 이동할 때는 RGB 카메라 두 대와 초광각 카메라 두 대를 쓰고 사용자와는 주로 음성 명령으로 소통한다. 잃어버린 리모컨을 찾아 달라거나 소파로 음료를 가져다 달라고 하는 식이다."
+            "x": "앱에는 Face to Face, Live Listening, Voice Call Translation, Multi-Media Translation의 네 가지 모드가 있다. 대면 번역은 아주 잘 됐고 실시간 청취는 화자보다 약 10–15초 늦었다. iPhone 기본 Phone 앱으로 하는 통화는 불안정했지만 WhatsApp, Messenger, Discord, Android에서는 완벽하게 돌아갔다. 가장 매끄러운 건 기기에서 재생되는 모든 오디오를 번역하는 Multi-Media 모드였다. "
           },
           {
             "t": "img",
-            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+            "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-6.jpg",
+            "cap": "Edgar Cervantes / Android Authority"
           },
           {
             "t": "p",
-            "x": "생김새는 휴머노이드지만 사람을 닮게 만들지는 않았다. Tuesday Labs는 노란색과 갈색의 각진 하우징을 씌우고 카메라는 갈색 커버 뒤에 숨겼다. 몸통의 ‘눈’과 스피커 구멍이 얼굴 노릇을 해 로봇에 나름의 매력을 준다."
-          },
-          {
-            "t": "p",
-            "x": "Tuesday Labs는 출시 초기 Voxel Series 1을 미국(US) 고객에게만 배송한다. 배송 가능한 주소가 있으면 지금 $200 보증금을 걸고 예약할 수 있다. 로봇은 2028년 $20,000에 나올 예정이다."
+            "x": "실험 기능 AI Language Tutor는 영어, 스페인어, 중국어로 커피 주문이나 취업 면접 같은 상황극을 해 준다. 무료 요금제로는 매달 실시간 번역 200분을 쓸 수 있고, Unlimited는 월 $9.99다. "
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A two-armed robot that\ntidies the house itself",
-          "body": "Tuesday Labs' Voxel Series 1 uses AI to learn where things belong, then tidies, waters plants and cleans dirt.",
-          "mini_headline": "Voxel 1 tidies up",
+          "headline": "Timekettle's LiveTalk earbuds\ntranslate 54 languages",
+          "body": "Timekettle's LiveTalk doubles as everyday earbuds while translating conversations and audio across 54 languages.",
+          "mini_headline": "Earbuds that\ntranslate 54 languages",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "_nwhe_N-IvQ"
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
+              },
+              {
+                "t": "p",
+                "x": "The Timekettle LiveTalk looks like a regular pair of open earbuds and works as one, with good sound, 8 hours of playback and 35 hours with the case, for $129. But it can also translate between 54 languages and 108 accents, with 25 language pairs available offline."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
-                "cap": "The new robot from Tuesday Labs is designed to be able to take care of household chores."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-2.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Voxel is finally a robot that takes care of annoying household chores, from tidying up the bedroom and tracking down the remote control to watering the flowers. But anyone who wants this convenience will have to dig deep into their pockets."
-              },
-              {
-                "t": "p",
-                "x": "Smart homes have so far largely been limited to robot vacuums and AI companion robots, but with Voxel Series 1, Tuesday Labs aims to show that modern robots can be far more useful. The New York-based robot manufacturer has developed a humanoid robot with two legs and two arms that is designed to handle many household chores with the help of artificial intelligence."
-              },
-              {
-                "t": "p",
-                "x": "The robot can learn where different objects in the home belong and then tidy up on its own. Voxel Series 1 can also water plants, detect and clean up dirt, and put dishes away. It navigates using two RGB cameras and two ultra-wide-angle cameras, and interacts with the user primarily through voice commands — for example searching for a misplaced remote control or bringing a drink to the couch."
+                "x": "The app has four modes: Face to Face, Live Listening, Voice Call Translation and Multi-Media Translation. In-person translation worked very well; live listening lagged about 10–15 seconds behind the speaker; calls through the iPhone’s stock Phone app were unreliable, though WhatsApp, Messenger, Discord and Android worked perfectly. Multi-Media mode, which translates any audio playing on the device, was the most seamless."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-6.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Although the robot has a humanoid form, its design does not resemble a real human. Tuesday Labs uses an angular housing in yellow and brown, with the cameras hidden behind a brown cover. The \"eyes\" in the torso, together with a speaker opening, form a face intended to give the robot a certain charm."
-              },
-              {
-                "t": "p",
-                "x": "Tuesday Labs will only ship Voxel Series 1 to customers in the US at launch. Anyone with a suitable delivery address can reserve the robot now with a $200 deposit. The robot is expected to launch in 2028 at a price of $20,000."
+                "x": "An experimental AI Language Tutor role-plays scenarios like ordering coffee or a job interview in English, Spanish and Chinese. The free plan includes 200 minutes of live translation a month; Unlimited costs $9.99 a month."
               }
             ]
           }
         },
         "ko": {
-          "headline": "두 팔 달린 로봇이\n집을 알아서 치운다",
-          "body": "Tuesday Labs의 Voxel Series 1은 AI로 정리·청소한다.",
-          "mini_headline": "Voxel 1이 집을 치운다",
+          "headline": "54개 언어 통역하는\nLiveTalk 이어폰",
+          "body": "Timekettle LiveTalk는 일상용 이어폰이자 54개 언어 번역기다.",
+          "mini_headline": "54개 언어 통역 이어폰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "_nwhe_N-IvQ"
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
+              },
+              {
+                "t": "p",
+                "x": "Timekettle LiveTalk는 평범한 오픈형 이어폰처럼 생겼고, 써 보면 실제로도 그렇다. 음질이 좋고 재생 시간은 8시간, 케이스를 더하면 35시간이며 가격은 $129다. 여기에 54개 언어와 108개 억양을 번역하고, 25개 언어 쌍은 오프라인에서도 된다. "
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
-                "cap": "Tuesday Labs가 집안일을 맡기려고 만든 새 로봇이다."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-2.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Voxel은 침실 정리부터 리모컨 찾기, 꽃에 물 주기까지 귀찮은 집안일을 대신해 주는 로봇이다. 다만 이 편리함은 값이 꽤 나간다."
-              },
-              {
-                "t": "p",
-                "x": "스마트홈 로봇은 그동안 로봇 청소기와 AI 컴패니언 로봇 정도에 머물렀다. Tuesday Labs는 Voxel Series 1로 요즘 로봇이 훨씬 더 쓸모 있을 수 있다는 걸 보여 주려 한다. 뉴욕 기반(New York-based) 로봇 제조사인 이 회사가 내놓은 건 두 다리와 두 팔을 달고 인공지능의 도움으로 여러 집안일을 해내는 휴머노이드 로봇이다."
-              },
-              {
-                "t": "p",
-                "x": "이 로봇은 집 안 물건마다 제자리를 익힌 뒤 알아서 정리한다. Voxel Series 1은 화분에 물을 주고 더러운 곳을 찾아 청소하며 식기도 정리한다. 이동할 때는 RGB 카메라 두 대와 초광각 카메라 두 대를 쓰고 사용자와는 주로 음성 명령으로 소통한다. 잃어버린 리모컨을 찾아 달라거나 소파로 음료를 가져다 달라고 하는 식이다."
+                "x": "앱에는 Face to Face, Live Listening, Voice Call Translation, Multi-Media Translation의 네 가지 모드가 있다. 대면 번역은 아주 잘 됐고 실시간 청취는 화자보다 약 10–15초 늦었다. iPhone 기본 Phone 앱으로 하는 통화는 불안정했지만 WhatsApp, Messenger, Discord, Android에서는 완벽하게 돌아갔다. 가장 매끄러운 건 기기에서 재생되는 모든 오디오를 번역하는 Multi-Media 모드였다. "
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-6.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "생김새는 휴머노이드지만 사람을 닮게 만들지는 않았다. Tuesday Labs는 노란색과 갈색의 각진 하우징을 씌우고 카메라는 갈색 커버 뒤에 숨겼다. 몸통의 ‘눈’과 스피커 구멍이 얼굴 노릇을 해 로봇에 나름의 매력을 준다."
-              },
-              {
-                "t": "p",
-                "x": "Tuesday Labs는 출시 초기 Voxel Series 1을 미국(US) 고객에게만 배송한다. 배송 가능한 주소가 있으면 지금 $200 보증금을 걸고 예약할 수 있다. 로봇은 2028년 $20,000에 나올 예정이다."
+                "x": "실험 기능 AI Language Tutor는 영어, 스페인어, 중국어로 커피 주문이나 취업 면접 같은 상황극을 해 준다. 무료 요금제로는 매달 실시간 번역 200분을 쓸 수 있고, Unlimited는 월 $9.99다. "
               }
             ]
           }
         },
         "ja": {
-          "headline": "二本腕のロボットが\n家を自ら片づける",
-          "body": "Tuesday LabsのVoxel Series 1はAIで物の置き場を学び片づける。",
-          "mini_headline": "Voxel 1が片づける",
+          "headline": "54言語を訳す\nLiveTalkイヤホン",
+          "body": "Timekettle LiveTalkは普段使いのイヤホンで、会話や音声を54言語に訳す。",
+          "mini_headline": "54言語を訳すイヤホン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "_nwhe_N-IvQ"
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
+              },
+              {
+                "t": "p",
+                "x": "Timekettle LiveTalkは普通のオープン型イヤホンのように見え、実際にそのとおり機能する。音質は良く、再生時間は8時間、ケース併用で35時間、価格は$129だ。さらに54言語と108のアクセントを翻訳でき、25の言語ペアはオフラインでも使える。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
-                "cap": "Tuesday Labsの新しいロボットは、家事をこなせるよう設計されている。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-2.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Voxelは、寝室の片づけやリモコン探しから花の水やりまで、面倒な家事を引き受けてくれるロボットだ。ただし、この便利さを手に入れるには財布のひもを大きく緩める必要がある。"
-              },
-              {
-                "t": "p",
-                "x": "これまでスマートホームといえばロボット掃除機やAIコンパニオンロボットが中心だったが、Tuesday LabsはVoxel Series 1で現代のロボットがはるかに役立つことを示そうとしている。ニューヨークを拠点とする（New York-based）同社は、二本の脚と二本の腕を持ち、人工知能の助けで多くの家事をこなすよう設計されたヒューマノイドロボットを開発した。"
-              },
-              {
-                "t": "p",
-                "x": "このロボットは家の中の物の定位置を学習し、自分で片づけられる。Voxel Series 1は植物への水やり、汚れの検知と掃除、食器の片づけもこなす。RGBカメラ二基と超広角カメラ二基で移動し、主に音声コマンドでユーザーとやり取りする。なくしたリモコンを探したり、ソファまで飲み物を運んだりといった具合だ。"
+                "x": "アプリにはFace to Face、Live Listening、Voice Call Translation、Multi-Media Translationの四つのモードがある。対面翻訳は非常にうまく機能した。ライブリスニングは話者から約10–15秒遅れた。iPhone標準のPhoneアプリでの通話は不安定だったが、WhatsApp、Messenger、Discord、Androidでは完璧に動いた。デバイスで再生される音声を何でも翻訳するMulti-Mediaモードが最もスムーズだった。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-6.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "ヒューマノイド型ではあるが、そのデザインは実際の人間には似ていない。Tuesday Labsは黄色と茶色の角張った筐体を採用し、カメラは茶色のカバーの裏に隠している。胴体の「目」とスピーカー開口部が顔を形づくり、ロボットに独特の愛嬌を与えている。"
-              },
-              {
-                "t": "p",
-                "x": "Tuesday Labsは発売当初、Voxel Series 1を米国（US）の顧客にのみ出荷する。対応する配送先住所があれば、今すぐ$200の手付金で予約できる。発売は2028年、価格は$20,000の見込みだ。"
+                "x": "試験的なAI Language Tutorは、コーヒーの注文や就職面接といった場面を英語、スペイン語、中国語でロールプレイする。無料プランには月200分のライブ翻訳が含まれ、Unlimitedは月$9.99だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "双臂机器人\n能自己收拾家",
-          "body": "Tuesday Labs的Voxel Series 1用AI记住物品位置并收拾、浇花。",
-          "mini_headline": "Voxel 1来收拾家",
+          "headline": "LiveTalk耳机\n可翻译54种语言",
+          "body": "Timekettle LiveTalk既是日常耳机，也能在54种语言间翻译对话和音频。",
+          "mini_headline": "能译54种语言的耳机",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "_nwhe_N-IvQ"
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
+              },
+              {
+                "t": "p",
+                "x": "Timekettle LiveTalk看起来就像一副普通的开放式耳机，用起来也确实如此：音质不错，续航8小时，加上充电盒可达35小时，售价$129。不过它还能在54种语言和108种口音之间翻译，其中25个语言对可离线使用。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
-                "cap": "Tuesday Labs的新机器人旨在承担家务。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-2.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Voxel终于是一款能包揽恼人家务的机器人，从整理卧室、找遥控器到给花浇水都能做。但想享受这份便利，就得大方掏腰包。"
-              },
-              {
-                "t": "p",
-                "x": "迄今为止，智能家居大多局限于扫地机器人和AI陪伴机器人，而Tuesday Labs希望借Voxel Series 1证明现代机器人可以有用得多。这家总部位于纽约（New York-based）的机器人制造商开发了一款双腿双臂的人形机器人，旨在借助人工智能完成多种家务。"
-              },
-              {
-                "t": "p",
-                "x": "这款机器人能学会家中各种物品该放在哪里，然后自行整理。Voxel Series 1还能浇花、发现并清理污垢、把餐具收好。它依靠两个RGB摄像头和两个超广角摄像头导航，主要通过语音指令与用户互动，例如寻找放错地方的遥控器，或把饮料送到沙发边。"
+                "x": "应用有四种模式：Face to Face、Live Listening、Voice Call Translation和Multi-Media Translation。面对面翻译效果很好；实时收听比说话者慢约10–15秒；通过iPhone自带Phone应用拨打的电话不太稳定，但WhatsApp、Messenger、Discord和Android上的表现都很完美。可翻译设备上播放的任何音频的Multi-Media模式最为顺畅。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-6.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "虽然这款机器人是人形，但设计并不像真人。Tuesday Labs采用黄棕配色的棱角外壳，摄像头藏在棕色盖板之后。躯干上的“眼睛”与扬声器开孔组成一张脸，为机器人增添几分魅力。"
-              },
-              {
-                "t": "p",
-                "x": "Tuesday Labs在上市初期只向美国（US）用户发货Voxel Series 1。拥有合适收货地址的用户现在可支付$200定金预订。该机器人预计于2028年上市，售价$20,000。"
+                "x": "实验性的AI Language Tutor会用英语、西班牙语和中文模拟点咖啡或求职面试等场景。免费方案每月包含200分钟实时翻译；Unlimited方案每月$9.99。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un robot de dos brazos que\nordena la casa por sí solo",
-          "body": "Voxel Series 1, de Tuesday Labs, usa AI para aprender dónde va cada cosa y ordena, riega plantas y limpia suciedad.",
-          "mini_headline": "Voxel 1 ordena la casa",
+          "headline": "Los auriculares LiveTalk de\nTimekettle traducen 54 idiomas",
+          "body": "Los LiveTalk de Timekettle sirven como auriculares diarios y traducen conversaciones y audio en 54 idiomas.",
+          "mini_headline": "Auriculares que traducen 54 idiomas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "_nwhe_N-IvQ"
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
+              },
+              {
+                "t": "p",
+                "x": "Los Timekettle LiveTalk parecen unos auriculares abiertos normales y funcionan como tales, con buen sonido, 8 horas de reproducción y 35 horas con el estuche, por $129. Pero también pueden traducir entre 54 idiomas y 108 acentos, con 25 pares de idiomas disponibles sin conexión."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
-                "cap": "El nuevo robot de Tuesday Labs está diseñado para ocuparse de las tareas domésticas."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-2.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Voxel es, por fin, un robot que se encarga de las molestas tareas del hogar, desde ordenar el dormitorio y encontrar el control remoto hasta regar las flores. Pero quien quiera esta comodidad tendrá que hacer un gran desembolso."
-              },
-              {
-                "t": "p",
-                "x": "Hasta ahora, los hogares inteligentes se han limitado en gran medida a robots aspiradores y robots de compañía con AI, pero con Voxel Series 1 Tuesday Labs quiere demostrar que los robots modernos pueden ser mucho más útiles. El fabricante de robots con sede en Nueva York (New York-based) ha desarrollado un robot humanoide con dos piernas y dos brazos diseñado para encargarse de muchas tareas domésticas con ayuda de la inteligencia artificial."
-              },
-              {
-                "t": "p",
-                "x": "El robot puede aprender dónde va cada objeto de la casa y luego ordenar por su cuenta. Voxel Series 1 también puede regar plantas, detectar y limpiar suciedad y guardar los platos. Se orienta con dos cámaras RGB y dos cámaras ultra gran angular, e interactúa con el usuario principalmente mediante comandos de voz, por ejemplo para buscar un control remoto extraviado o llevar una bebida al sofá."
+                "x": "La app tiene cuatro modos: Face to Face, Live Listening, Voice Call Translation y Multi-Media Translation. La traducción en persona funcionó muy bien; la escucha en directo iba unos 10–15 segundos por detrás del hablante; las llamadas a través de la app Phone de serie del iPhone no eran fiables, aunque WhatsApp, Messenger, Discord y Android funcionaron a la perfección. El modo Multi-Media, que traduce cualquier audio que suene en el dispositivo, fue el más fluido."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-6.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Aunque el robot tiene forma humanoide, su diseño no se parece al de una persona real. Tuesday Labs usa una carcasa angulosa en amarillo y marrón, con las cámaras ocultas tras una cubierta marrón. Los «ojos» del torso, junto con una abertura para el altavoz, forman una cara pensada para darle cierto encanto."
-              },
-              {
-                "t": "p",
-                "x": "Tuesday Labs solo enviará Voxel Series 1 a clientes de Estados Unidos (US) en el lanzamiento. Quien tenga una dirección de entrega adecuada puede reservar el robot ya con un depósito de $200. Se espera que llegue en 2028 a un precio de $20,000."
+                "x": "Un AI Language Tutor experimental plantea situaciones como pedir un café o una entrevista de trabajo en inglés, español y chino. El plan gratuito incluye 200 minutos de traducción en directo al mes; Unlimited cuesta $9.99 al mes."
               }
             ]
           }
@@ -1317,173 +1181,149 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "두 팔 달린 로봇이\n집을 알아서 치운다",
-          "body": "Tuesday Labs의 Voxel Series 1은 AI로 정리·청소한다.",
-          "mini_headline": "Voxel 1이 집을 치운다",
+          "headline": "54개 언어 통역하는\nLiveTalk 이어폰",
+          "body": "Timekettle LiveTalk는 일상용 이어폰이자 54개 언어 번역기다.",
+          "mini_headline": "54개 언어 통역 이어폰",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "_nwhe_N-IvQ"
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
+              },
+              {
+                "t": "p",
+                "x": "Timekettle LiveTalk는 평범한 오픈형 이어폰처럼 생겼고 실제로도 그렇게 작동한다. 음질이 좋고, 재생 시간은 8시간, 케이스 포함 35시간이며 가격은 $129다. 여기에 54개 언어와 108개 억양을 번역할 수 있고, 25개 언어 쌍은 오프라인에서도 쓸 수 있다."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
-                "cap": "Tuesday Labs의 새 로봇은 집안일을 맡도록 설계됐다."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-2.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Voxel은 침실 정리부터 리모컨 찾기, 꽃에 물 주기까지 귀찮은 집안일을 맡아 주는 로봇이다. 다만 이런 편리함을 누리려면 지갑을 크게 열어야 한다."
-              },
-              {
-                "t": "p",
-                "x": "지금까지 스마트홈은 로봇 청소기와 AI 컴패니언 로봇 정도에 머물렀지만, Tuesday Labs는 Voxel Series 1로 최신 로봇이 훨씬 더 쓸모 있을 수 있음을 보여 주려 한다. 뉴욕 기반(New York-based) 로봇 제조사인 이 회사는 두 다리와 두 팔을 갖추고 인공지능의 도움으로 여러 집안일을 처리하도록 설계한 휴머노이드 로봇을 개발했다."
-              },
-              {
-                "t": "p",
-                "x": "이 로봇은 집 안 여러 물건의 제자리를 학습한 뒤 스스로 정리할 수 있다. Voxel Series 1은 화분에 물을 주고, 더러운 곳을 찾아 청소하고, 식기를 정리할 수도 있다. RGB 카메라 두 대와 초광각 카메라 두 대로 이동하며, 주로 음성 명령으로 사용자와 소통한다. 잃어버린 리모컨을 찾거나 소파로 음료를 가져다주는 식이다."
+                "x": "앱에는 Face to Face, Live Listening, Voice Call Translation, Multi-Media Translation의 네 가지 모드가 있다. 대면 번역은 매우 잘 작동했고, 실시간 청취는 화자보다 약 10–15초 늦었다. iPhone 기본 Phone 앱으로 하는 통화는 불안정했지만 WhatsApp, Messenger, Discord, Android에서는 완벽하게 작동했다. 기기에서 재생되는 모든 오디오를 번역하는 Multi-Media 모드가 가장 매끄러웠다."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-6.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "휴머노이드 형태지만 실제 사람을 닮게 디자인하지는 않았다. Tuesday Labs는 노란색과 갈색의 각진 하우징을 쓰고, 카메라는 갈색 커버 뒤에 숨겼다. 몸통의 ‘눈’과 스피커 구멍이 얼굴을 이뤄 로봇에 나름의 매력을 더한다."
-              },
-              {
-                "t": "p",
-                "x": "Tuesday Labs는 출시 초기 Voxel Series 1을 미국(US) 고객에게만 배송한다. 배송 가능한 주소가 있다면 지금 $200 보증금으로 예약할 수 있다. 로봇은 2028년 $20,000에 출시될 예정이다."
+                "x": "실험 기능인 AI Language Tutor는 영어, 스페인어, 중국어로 커피 주문이나 취업 면접 같은 상황극을 진행한다. 무료 요금제는 매달 200분의 실시간 번역을 제공하며, Unlimited는 월 $9.99다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "二本腕のロボットが\n家を自ら片づける",
-          "body": "Tuesday LabsのVoxel Series 1はAIで物の置き場を学び片づける。",
-          "mini_headline": "Voxel 1が片づける",
+          "headline": "54言語を訳す\nLiveTalkイヤホン",
+          "body": "Timekettle LiveTalkは普段使いのイヤホンで、会話や音声を54言語に訳す。",
+          "mini_headline": "54言語を訳すイヤホン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "_nwhe_N-IvQ"
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
+              },
+              {
+                "t": "p",
+                "x": "Timekettle LiveTalkは普通のオープン型イヤホンのように見え、実際にそのとおり機能する。音質は良く、再生時間は8時間、ケース併用で35時間、価格は$129だ。さらに54言語と108のアクセントを翻訳でき、25の言語ペアはオフラインでも使える。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
-                "cap": "Tuesday Labsの新しいロボットは、家事をこなせるよう設計されている。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-2.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Voxelは、寝室の片づけやリモコン探しから花の水やりまで、面倒な家事を引き受けてくれるロボットだ。ただし、この便利さを手に入れるには財布のひもを大きく緩める必要がある。"
-              },
-              {
-                "t": "p",
-                "x": "これまでスマートホームといえばロボット掃除機やAIコンパニオンロボットが中心だったが、Tuesday LabsはVoxel Series 1で現代のロボットがはるかに役立つことを示そうとしている。ニューヨークを拠点とする（New York-based）同社は、二本の脚と二本の腕を持ち、人工知能の助けで多くの家事をこなすよう設計されたヒューマノイドロボットを開発した。"
-              },
-              {
-                "t": "p",
-                "x": "このロボットは家の中の物の定位置を学習し、自分で片づけられる。Voxel Series 1は植物への水やり、汚れの検知と掃除、食器の片づけもこなす。RGBカメラ二基と超広角カメラ二基で移動し、主に音声コマンドでユーザーとやり取りする。なくしたリモコンを探したり、ソファまで飲み物を運んだりといった具合だ。"
+                "x": "アプリにはFace to Face、Live Listening、Voice Call Translation、Multi-Media Translationの四つのモードがある。対面翻訳は非常にうまく機能した。ライブリスニングは話者から約10–15秒遅れた。iPhone標準のPhoneアプリでの通話は不安定だったが、WhatsApp、Messenger、Discord、Androidでは完璧に動いた。デバイスで再生される音声を何でも翻訳するMulti-Mediaモードが最もスムーズだった。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-6.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "ヒューマノイド型ではあるが、そのデザインは実際の人間には似ていない。Tuesday Labsは黄色と茶色の角張った筐体を採用し、カメラは茶色のカバーの裏に隠している。胴体の「目」とスピーカー開口部が顔を形づくり、ロボットに独特の愛嬌を与えている。"
-              },
-              {
-                "t": "p",
-                "x": "Tuesday Labsは発売当初、Voxel Series 1を米国（US）の顧客にのみ出荷する。対応する配送先住所があれば、今すぐ$200の手付金で予約できる。発売は2028年、価格は$20,000の見込みだ。"
+                "x": "試験的なAI Language Tutorは、コーヒーの注文や就職面接といった場面を英語、スペイン語、中国語でロールプレイする。無料プランには月200分のライブ翻訳が含まれ、Unlimitedは月$9.99だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "双臂机器人\n能自己收拾家",
-          "body": "Tuesday Labs的Voxel Series 1用AI记住物品位置并收拾、浇花。",
-          "mini_headline": "Voxel 1来收拾家",
+          "headline": "LiveTalk耳机\n可翻译54种语言",
+          "body": "Timekettle LiveTalk既是日常耳机，也能在54种语言间翻译对话和音频。",
+          "mini_headline": "能译54种语言的耳机",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "_nwhe_N-IvQ"
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
+              },
+              {
+                "t": "p",
+                "x": "Timekettle LiveTalk看起来就像一副普通的开放式耳机，用起来也确实如此：音质不错，续航8小时，加上充电盒可达35小时，售价$129。不过它还能在54种语言和108种口音之间翻译，其中25个语言对可离线使用。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
-                "cap": "Tuesday Labs的新机器人旨在承担家务。"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-2.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Voxel终于是一款能包揽恼人家务的机器人，从整理卧室、找遥控器到给花浇水都能做。但想享受这份便利，就得大方掏腰包。"
-              },
-              {
-                "t": "p",
-                "x": "迄今为止，智能家居大多局限于扫地机器人和AI陪伴机器人，而Tuesday Labs希望借Voxel Series 1证明现代机器人可以有用得多。这家总部位于纽约（New York-based）的机器人制造商开发了一款双腿双臂的人形机器人，旨在借助人工智能完成多种家务。"
-              },
-              {
-                "t": "p",
-                "x": "这款机器人能学会家中各种物品该放在哪里，然后自行整理。Voxel Series 1还能浇花、发现并清理污垢、把餐具收好。它依靠两个RGB摄像头和两个超广角摄像头导航，主要通过语音指令与用户互动，例如寻找放错地方的遥控器，或把饮料送到沙发边。"
+                "x": "应用有四种模式：Face to Face、Live Listening、Voice Call Translation和Multi-Media Translation。面对面翻译效果很好；实时收听比说话者慢约10–15秒；通过iPhone自带Phone应用拨打的电话不太稳定，但WhatsApp、Messenger、Discord和Android上的表现都很完美。可翻译设备上播放的任何音频的Multi-Media模式最为顺畅。"
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-6.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "虽然这款机器人是人形，但设计并不像真人。Tuesday Labs采用黄棕配色的棱角外壳，摄像头藏在棕色盖板之后。躯干上的“眼睛”与扬声器开孔组成一张脸，为机器人增添几分魅力。"
-              },
-              {
-                "t": "p",
-                "x": "Tuesday Labs在上市初期只向美国（US）用户发货Voxel Series 1。拥有合适收货地址的用户现在可支付$200定金预订。该机器人预计于2028年上市，售价$20,000。"
+                "x": "实验性的AI Language Tutor会用英语、西班牙语和中文模拟点咖啡或求职面试等场景。免费方案每月包含200分钟实时翻译；Unlimited方案每月$9.99。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Un robot de dos brazos que\nordena la casa por sí solo",
-          "body": "Voxel Series 1, de Tuesday Labs, usa AI para aprender dónde va cada cosa y ordena, riega plantas y limpia suciedad.",
-          "mini_headline": "Voxel 1 ordena la casa",
+          "headline": "Los auriculares LiveTalk de\nTimekettle traducen 54 idiomas",
+          "body": "Los LiveTalk de Timekettle sirven como auriculares diarios y traducen conversaciones y audio en 54 idiomas.",
+          "mini_headline": "Auriculares que traducen 54 idiomas",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "yt": "_nwhe_N-IvQ"
+                "t": "img",
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
+              },
+              {
+                "t": "p",
+                "x": "Los Timekettle LiveTalk parecen unos auriculares abiertos normales y funcionan como tales, con buen sonido, 8 horas de reproducción y 35 horas con el estuche, por $129. Pero también pueden traducir entre 54 idiomas y 108 acentos, con 25 pares de idiomas disponibles sin conexión."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
-                "cap": "El nuevo robot de Tuesday Labs está diseñado para ocuparse de las tareas domésticas."
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-2.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Voxel es, por fin, un robot que se encarga de las molestas tareas del hogar, desde ordenar el dormitorio y encontrar el control remoto hasta regar las flores. Pero quien quiera esta comodidad tendrá que hacer un gran desembolso."
-              },
-              {
-                "t": "p",
-                "x": "Hasta ahora, los hogares inteligentes se han limitado en gran medida a robots aspiradores y robots de compañía con AI, pero con Voxel Series 1 Tuesday Labs quiere demostrar que los robots modernos pueden ser mucho más útiles. El fabricante de robots con sede en Nueva York (New York-based) ha desarrollado un robot humanoide con dos piernas y dos brazos diseñado para encargarse de muchas tareas domésticas con ayuda de la inteligencia artificial."
-              },
-              {
-                "t": "p",
-                "x": "El robot puede aprender dónde va cada objeto de la casa y luego ordenar por su cuenta. Voxel Series 1 también puede regar plantas, detectar y limpiar suciedad y guardar los platos. Se orienta con dos cámaras RGB y dos cámaras ultra gran angular, e interactúa con el usuario principalmente mediante comandos de voz, por ejemplo para buscar un control remoto extraviado o llevar una bebida al sofá."
+                "x": "La app tiene cuatro modos: Face to Face, Live Listening, Voice Call Translation y Multi-Media Translation. La traducción en persona funcionó muy bien; la escucha en directo iba unos 10–15 segundos por detrás del hablante; las llamadas a través de la app Phone de serie del iPhone no eran fiables, aunque WhatsApp, Messenger, Discord y Android funcionaron a la perfección. El modo Multi-Media, que traduce cualquier audio que suene en el dispositivo, fue el más fluido."
               },
               {
                 "t": "img",
-                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1b.webp"
+                "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-6.jpg",
+                "cap": "Edgar Cervantes / Android Authority"
               },
               {
                 "t": "p",
-                "x": "Aunque el robot tiene forma humanoide, su diseño no se parece al de una persona real. Tuesday Labs usa una carcasa angulosa en amarillo y marrón, con las cámaras ocultas tras una cubierta marrón. Los «ojos» del torso, junto con una abertura para el altavoz, forman una cara pensada para darle cierto encanto."
-              },
-              {
-                "t": "p",
-                "x": "Tuesday Labs solo enviará Voxel Series 1 a clientes de Estados Unidos (US) en el lanzamiento. Quien tenga una dirección de entrega adecuada puede reservar el robot ya con un depósito de $200. Se espera que llegue en 2028 a un precio de $20,000."
+                "x": "Un AI Language Tutor experimental plantea situaciones como pedir un café o una entrevista de trabajo en inglés, español y chino. El plan gratuito incluye 200 minutos de traducción en directo al mes; Unlimited cuesta $9.99 al mes."
               }
             ]
           }
@@ -1491,15 +1331,15 @@
       }
     },
     {
-      "id": "gadgets-garmin-ciq-ai-slop",
+      "id": "gadgets-speakon-button",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Garmin 앱 스토어,\n저품질 AI 범람에 긴장",
-      "body": "Garmin Connect IQ에 AI-generated 앱 범람 우려가 나온다.",
-      "mini_headline": "Garmin, 저품질 AI에 직면",
+      "headline": "SpeakON iPhone\nAI 에이전트 자석 버튼",
+      "body": "SpeakON iPhone 버튼은 AI 에이전트로 말을 메모·알림·메일로 바꾼다.",
+      "mini_headline": "AI 에이전트용 자석 버튼",
       "tool": "Gadgets",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/health-fitness/fitness-trackers/poorly-made-ai-generated-watch-faces-will-consume-everything-garmins-connect-iq-store-has-been-hit-by-an-enormous-influx-of-submissions-and-garmin-users-could-soon-be-grappling-with-a-wave-of-ai-slop",
+      "source": "Notebookcheck",
+      "url": "https://www.notebookcheck.net/SpeakON-introduces-magnetic-iPhone-button-with-AI-powered-voice-actions.1429977.0.html",
       "accent": "#f5a623",
       "motif": "headset",
       "full": {
@@ -1507,345 +1347,355 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+            "cap": "SpeakON"
           },
           {
             "t": "p",
-            "x": "Garmin의 Connect IQ에 골칫거리가 생겼다. 머지않아 스토어에서 앱이나 워치 페이스 하나 받으려 해도 저품질 AI 생성(AI-generated) 제출물 수천 개를 헤치고 지나가야 할지 모른다."
+            "x": "공공장소에서 휴대폰에 대고 말하면 아직 낯선 시선을 받기도 한다. 그래도 SpeakON은 그쪽이 타이핑보다 낫다고 본다. 회사가 선보인 SpeakON Agent는 자석식 iPhone 액세서리용 AI-powered 기능이다. 하드웨어는 iPhone 뒷면에 붙는 작은 자석 버튼이다. 버튼을 누르고 말하면 소프트웨어가 음성을 다듬은 텍스트로 바꿔 준다. 휴대폰 잠금을 풀거나 앱을 오갈 필요가 없다. "
           },
           {
             "t": "p",
-            "x": "Garmin 포럼에서는 개발자들의 불만이 쏟아진다. 보통 1-2일이면 끝나던 제출 심사가 이제 최대 13일까지 걸린다는 것이다. Connect IQ 담당자는 “버그 때문이 아니다. 지난 한 달 동안 앱 제출이 엄청나게 몰렸고 줄어들 기미도 없다. 최대한 빨리 승인을 처리하고 있다”고 답했다."
+            "x": "회의나 아이디어, 기억해야 할 일을 Agent에게 말하면 생각을 메모와 목록, 알림 설정이나 이메일 준비 같은 추천 동작으로 정리해 준다. 다만 다음 단계는 여전히 사용자가 승인해야 한다. Smart Polish는 ums와 ahs 같은 군말을 걷어 내고, 다른 기능 하나는 앱에 맞춰 문체를 바꿔 준다. 12개 언어 번역과 사용자 지정 어휘, 오프라인 녹음도 된다. "
           },
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
-            "cap": "Garmin Connect IQ 스토어 화면 (Image credit: Future)"
+            "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Translation12.png",
+            "cap": "SpeakON"
           },
           {
             "t": "p",
-            "x": "TechRadar는 갑작스러운 과잉 공급의 배경으로 AI를 꼽는다. 쉽게 돈을 벌려고 바이브 코딩으로 만들었거나 AI가 생성한(AI-generated) 제품이라는 얘기다. 한 사용자는 “개발자별 업로드 빈도를 제한해야 한다. 조잡한 AI 생성(AI-generated) 워치 페이스가 모든 것을 잠식할 것”이라고 썼다. 다른 사용자는 스토어가 “발견 가능성을 해치는 성의 없고 반복적인 제출물로 점점 넘쳐나고 있다”고 했다."
+            "x": "회사는 배터리가 연속 10시간 넘게 간다고 내세운다. SpeakON은 US(미국)에서 $129에 팔린다. iPhones도 이미 음성 명령을 알아듣지만, 음성 입력용 버튼을 따로 둔다는 발상은 흥미롭다. "
           },
           {
-            "t": "p",
-            "x": "스토어에서 팔려고 연 $100를 내는 개발자에게도, 사람이 만든 페이스를 찾으려고 AI 슬롭을 헤집어야 하는 사용자에게도 반갑지 않은 일이다. Kindle Unlimited의 AI 생성(AI-generated) 전자책 때와 같은 양상이다. Garmin에는 입장을 요청해 둔 상태다."
+            "t": "video",
+            "yt": "ex-r8xRSIYE"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Garmin's app store braces\nfor a wave of AI slop",
-          "body": "A flood of new Connect IQ apps and watch faces has stirred fears of AI-generated slop in Garmin's store.",
-          "mini_headline": "Garmin faces AI slop",
+          "headline": "SpeakON's magnetic iPhone\nbutton talks to an AI agent",
+          "body": "SpeakON's magnetic iPhone button lets an AI agent turn speech into notes, reminders and emails you still approve.",
+          "mini_headline": "A magnetic button\nfor an AI agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+                "cap": "SpeakON"
               },
               {
                 "t": "p",
-                "x": "Garmin has a Connect IQ problem. Downloading apps and watch faces from the store may soon involve sifting through thousands of low-quality, AI-generated submissions."
+                "x": "Talking to your phone in public might still earn you a few strange looks, but SpeakON thinks it's a better option than typing. The company has introduced SpeakON Agent, an AI-powered feature for its magnetic iPhone accessory. The hardware is a small magnetic button that sticks to the back of your iPhone. Press it, start talking, and the software converts your speech into polished text — even without unlocking the phone or switching apps."
               },
               {
                 "t": "p",
-                "x": "Developers are complaining on Garmin's forums that submission review, which typically takes 1-2 days, is now taking up to 13 days. A Connect IQ representative replied: \"This is not due to a bug — we have gotten an enormous influx of app submissions in the last month, with no signs of slowing down, and are working through approvals as quickly as we can.\""
+                "x": "Tell the Agent about a meeting, an idea or something you need to remember, and it can organize your thoughts into notes, lists and suggested actions, such as setting a reminder or preparing an email, although you'll still need to approve what happens next. Smart Polish removes ums and ahs, another feature adjusts your writing style per app, and there's translation in 12 languages, custom vocabulary and offline recording."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
-                "cap": "Garmin Connect IQ store screenshot (Image credit: Future)"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Translation12.png",
+                "cap": "SpeakON"
               },
               {
                 "t": "p",
-                "x": "TechRadar argues the sudden glut points to AI — vibe-coded or AI-generated products designed to make a quick buck. One user wrote: \"You need to limit the upload frequency for each developer; those poorly made AI-generated watch faces will consume everything.\" Another said the store is \"increasingly flooded with low-effort, repetitive submissions that hurt discoverability.\""
+                "x": "The company advertises over 10 hours of continuous battery life. SpeakON is available in the US for $129. iPhones already understand voice commands, but giving voice input its own dedicated button is an interesting idea."
               },
               {
-                "t": "p",
-                "x": "That's bad for developers, who pay $100 a year to sell on the store, and for users who must wade past AI slop to find human-made faces — the same pattern seen with AI-generated e-books on Kindle Unlimited. Garmin has been asked for comment."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Garmin 앱 스토어,\n저품질 AI 범람에 긴장",
-          "body": "Garmin Connect IQ에 AI-generated 앱 범람 우려가 나온다.",
-          "mini_headline": "Garmin, 저품질 AI에 직면",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Garmin의 Connect IQ에 골칫거리가 생겼다. 머지않아 스토어에서 앱이나 워치 페이스 하나 받으려 해도 저품질 AI 생성(AI-generated) 제출물 수천 개를 헤치고 지나가야 할지 모른다."
-              },
-              {
-                "t": "p",
-                "x": "Garmin 포럼에서는 개발자들의 불만이 쏟아진다. 보통 1-2일이면 끝나던 제출 심사가 이제 최대 13일까지 걸린다는 것이다. Connect IQ 담당자는 “버그 때문이 아니다. 지난 한 달 동안 앱 제출이 엄청나게 몰렸고 줄어들 기미도 없다. 최대한 빨리 승인을 처리하고 있다”고 답했다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
-                "cap": "Garmin Connect IQ 스토어 화면 (Image credit: Future)"
-              },
-              {
-                "t": "p",
-                "x": "TechRadar는 갑작스러운 과잉 공급의 배경으로 AI를 꼽는다. 쉽게 돈을 벌려고 바이브 코딩으로 만들었거나 AI가 생성한(AI-generated) 제품이라는 얘기다. 한 사용자는 “개발자별 업로드 빈도를 제한해야 한다. 조잡한 AI 생성(AI-generated) 워치 페이스가 모든 것을 잠식할 것”이라고 썼다. 다른 사용자는 스토어가 “발견 가능성을 해치는 성의 없고 반복적인 제출물로 점점 넘쳐나고 있다”고 했다."
-              },
-              {
-                "t": "p",
-                "x": "스토어에서 팔려고 연 $100를 내는 개발자에게도, 사람이 만든 페이스를 찾으려고 AI 슬롭을 헤집어야 하는 사용자에게도 반갑지 않은 일이다. Kindle Unlimited의 AI 생성(AI-generated) 전자책 때와 같은 양상이다. Garmin에는 입장을 요청해 둔 상태다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Garminのアプリストア\n低品質AIの波に備える",
-          "body": "Connect IQアプリ急増でGarminにAI-generated粗悪品の懸念が出た。",
-          "mini_headline": "Garminに低品質AIの波",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "GarminのConnect IQに問題が起きている。ストアでアプリやウォッチフェイスをダウンロードするには、近いうちに数千もの低品質なAI生成（AI-generated）の投稿をかき分けなければならなくなるかもしれない。"
-              },
-              {
-                "t": "p",
-                "x": "開発者たちはGarminのフォーラムで、通常1-2日で終わる審査が今では最大13日かかっていると不満を訴えている。Connect IQの担当者は「バグによるものではない。ここひと月でアプリの申請が殺到しており、減る気配もない。できる限り早く承認を進めている」と回答した。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
-                "cap": "Garmin Connect IQストアのスクリーンショット（Image credit: Future）"
-              },
-              {
-                "t": "p",
-                "x": "TechRadarは、急な供給過多の背景にAIがあると指摘する。手早く稼ぐために作られた、バイブコーディングやAI生成（AI-generated）の製品だというのだ。あるユーザーは「開発者ごとのアップロード頻度を制限すべきだ。粗雑なAI生成（AI-generated）のウォッチフェイスがすべてを埋め尽くしてしまう」と書き込んだ。別のユーザーは、ストアが「見つけやすさを損なう、手抜きで似たような投稿でますますあふれている」と述べた。"
-              },
-              {
-                "t": "p",
-                "x": "これはストアで販売するために年$100を払う開発者にとっても、人の手によるフェイスを見つけるためにAIスロップをかき分けなければならないユーザーにとっても好ましくない。Kindle UnlimitedでのAI生成（AI-generated）電子書籍と同じ構図だ。Garminにはコメントを求めている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Garmin应用商店\n面临AI垃圾内容潮",
-          "body": "Connect IQ新应用激增，引发Garmin商店AI-generated垃圾之忧。",
-          "mini_headline": "Garmin遭遇AI垃圾潮",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Garmin的Connect IQ出了问题。用户很快可能要在数以千计的低质量AI生成（AI-generated）投稿中翻找，才能从商店下载应用和表盘。"
-              },
-              {
-                "t": "p",
-                "x": "开发者在Garmin论坛上抱怨，通常需要1-2天的提交审核如今最长要13天。Connect IQ代表回复称：“这不是程序错误导致的——上个月以来我们收到了海量的应用提交，且没有放缓迹象，我们正在尽快处理审批。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
-                "cap": "Garmin Connect IQ商店截图（Image credit: Future）"
-              },
-              {
-                "t": "p",
-                "x": "TechRadar认为，这股突如其来的泛滥指向AI——为了快速赚钱而用氛围编程或AI生成（AI-generated）的产品。一位用户写道：“需要限制每位开发者的上传频率，那些粗制滥造的AI生成（AI-generated）表盘会吞噬一切。”另一位用户表示，商店“越来越多地充斥着敷衍、重复的投稿，影响了可发现性”。"
-              },
-              {
-                "t": "p",
-                "x": "这对每年支付$100在商店销售的开发者不利，对必须绕过AI垃圾才能找到人工制作表盘的用户也不利——Kindle Unlimited上的AI生成（AI-generated）电子书也是同样的情况。Garmin已被请求置评。"
+                "t": "video",
+                "yt": "ex-r8xRSIYE"
               }
             ]
           }
         },
         "es": {
-          "headline": "La tienda de apps de Garmin\nteme una ola de basura de AI",
-          "body": "Una avalancha de apps y esferas en Connect IQ despierta el temor a basura AI-generated en la tienda de Garmin.",
-          "mini_headline": "Garmin ante la basura de AI",
+          "headline": "El botón magnético SpeakON para\niPhone habla con un agente de AI",
+          "body": "Con el botón SpeakON para iPhone, un agente de AI convierte la voz en notas, recordatorios y correos que tú apruebas.",
+          "mini_headline": "Un botón magnético para un agente de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+                "cap": "SpeakON"
               },
               {
                 "t": "p",
-                "x": "Garmin tiene un problema con Connect IQ. Descargar apps y esferas de la tienda podría obligar pronto a rebuscar entre miles de envíos de baja calidad generados por AI (AI-generated)."
+                "x": "Hablarle al teléfono en público todavía puede provocar alguna mirada extraña, pero SpeakON cree que es una opción mejor que escribir. La empresa ha presentado SpeakON Agent, una función AI-powered (impulsada por AI) para su accesorio magnético para iPhone. El hardware es un pequeño botón magnético que se adhiere a la parte trasera del iPhone. Basta con pulsarlo y empezar a hablar para que el software convierta la voz en texto pulido, incluso sin desbloquear el teléfono ni cambiar de app."
               },
               {
                 "t": "p",
-                "x": "Los desarrolladores se quejan en los foros de Garmin de que la revisión de envíos, que suele tardar 1-2 días, ahora tarda hasta 13 días. Un representante de Connect IQ respondió: «No se debe a un error: en el último mes hemos recibido una enorme avalancha de envíos de apps, sin señales de que disminuya, y estamos tramitando las aprobaciones lo más rápido posible»."
+                "x": "Si le cuentas al Agent una reunión, una idea o algo que necesitas recordar, puede organizar tus ideas en notas, listas y acciones sugeridas, como programar un recordatorio o preparar un correo, aunque seguirás teniendo que aprobar lo que ocurra después. Smart Polish elimina las muletillas, otra función adapta tu estilo de escritura a cada app, y hay traducción en 12 idiomas, vocabulario personalizado y grabación sin conexión."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
-                "cap": "Captura de pantalla de la tienda Garmin Connect IQ (Image credit: Future)"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Translation12.png",
+                "cap": "SpeakON"
               },
               {
                 "t": "p",
-                "x": "TechRadar sostiene que el repentino exceso apunta a la AI: productos hechos con vibe coding o generados por AI (AI-generated) para ganar dinero rápido. Un usuario escribió: «Hay que limitar la frecuencia de subida de cada desarrollador; esas esferas mal hechas generadas por AI (AI-generated) lo van a acaparar todo». Otro dijo que la tienda está «cada vez más inundada de envíos repetitivos y de poco esfuerzo que perjudican la visibilidad»."
+                "x": "La empresa anuncia más de 10 horas de batería continua. SpeakON está disponible en Estados Unidos (US) por $129. Los iPhones ya entienden comandos de voz, pero dar a la entrada por voz su propio botón dedicado es una idea interesante."
+              },
+              {
+                "t": "video",
+                "yt": "ex-r8xRSIYE"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "SpeakON iPhone\nAI 에이전트 자석 버튼",
+          "body": "SpeakON iPhone 버튼은 AI 에이전트로 말을 메모·알림·메일로 바꾼다.",
+          "mini_headline": "AI 에이전트용 자석 버튼",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+                "cap": "SpeakON"
               },
               {
                 "t": "p",
-                "x": "Eso perjudica a los desarrolladores, que pagan $100 al año por vender en la tienda, y a los usuarios, que deben sortear la basura de AI para encontrar esferas hechas por personas: el mismo patrón que se vio con los libros electrónicos generados por AI (AI-generated) en Kindle Unlimited. Se ha pedido a Garmin un comentario."
+                "x": "공공장소에서 휴대폰에 대고 말하면 아직 낯선 시선을 받기도 한다. 그래도 SpeakON은 그쪽이 타이핑보다 낫다고 본다. 회사가 선보인 SpeakON Agent는 자석식 iPhone 액세서리용 AI-powered 기능이다. 하드웨어는 iPhone 뒷면에 붙는 작은 자석 버튼이다. 버튼을 누르고 말하면 소프트웨어가 음성을 다듬은 텍스트로 바꿔 준다. 휴대폰 잠금을 풀거나 앱을 오갈 필요가 없다. "
+              },
+              {
+                "t": "p",
+                "x": "회의나 아이디어, 기억해야 할 일을 Agent에게 말하면 생각을 메모와 목록, 알림 설정이나 이메일 준비 같은 추천 동작으로 정리해 준다. 다만 다음 단계는 여전히 사용자가 승인해야 한다. Smart Polish는 ums와 ahs 같은 군말을 걷어 내고, 다른 기능 하나는 앱에 맞춰 문체를 바꿔 준다. 12개 언어 번역과 사용자 지정 어휘, 오프라인 녹음도 된다. "
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Translation12.png",
+                "cap": "SpeakON"
+              },
+              {
+                "t": "p",
+                "x": "회사는 배터리가 연속 10시간 넘게 간다고 내세운다. SpeakON은 US(미국)에서 $129에 팔린다. iPhones도 이미 음성 명령을 알아듣지만, 음성 입력용 버튼을 따로 둔다는 발상은 흥미롭다. "
+              },
+              {
+                "t": "video",
+                "yt": "ex-r8xRSIYE"
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "SpeakON iPhone\nAIエージェント磁気ボタン",
+          "body": "SpeakONのiPhone用ボタンは、AIエージェントで声をメモやメールに変える。",
+          "mini_headline": "AIエージェントのための磁気ボタン",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+                "cap": "SpeakON"
+              },
+              {
+                "t": "p",
+                "x": "人前でスマートフォンに話しかければ、今も多少は奇妙な目で見られるかもしれない。それでもSpeakONは、タイピングより優れた選択肢だと考えている。同社は、磁気式iPhoneアクセサリー向けのAI-powered機能「SpeakON Agent」を発表した。ハードウェアは、iPhoneの背面に貼り付く小さな磁気ボタンである。押して話し始めれば、ソフトウェアが音声を整ったテキストに変換する — 端末のロックを解除したり、アプリを切り替えたりする必要もない。"
+              },
+              {
+                "t": "p",
+                "x": "会議やアイデア、覚えておきたいことをAgentに話すと、考えをメモやリスト、さらにリマインダーの設定やメールの下書きといった提案アクションに整理してくれる。ただし、次に何を実行するかは利用者が承認する必要がある。Smart Polishはumsやahsといった言いよどみを取り除き、別の機能はアプリごとに文体を調整する。12言語の翻訳、カスタム語彙、オフライン録音にも対応する。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Translation12.png",
+                "cap": "SpeakON"
+              },
+              {
+                "t": "p",
+                "x": "同社は10時間以上の連続バッテリー駆動をうたっている。SpeakONはUS（米国）で$129で販売されている。iPhonesはすでに音声コマンドを理解するが、音声入力に専用ボタンを与えるという発想は興味深い。"
+              },
+              {
+                "t": "video",
+                "yt": "ex-r8xRSIYE"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "SpeakON iPhone\n磁吸按键连接AI智能体",
+          "body": "SpeakON的iPhone磁吸按键借助AI智能体，把语音转成笔记、提醒和邮件。",
+          "mini_headline": "为AI智能体打造的磁吸按键",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+                "cap": "SpeakON"
+              },
+              {
+                "t": "p",
+                "x": "在公共场合对着手机说话或许仍会招来一些异样的目光，但SpeakON认为这比打字更好。该公司为其磁吸式iPhone配件推出了AI-powered功能SpeakON Agent。硬件是一个吸附在iPhone背面的小型磁吸按键。按下按键开始说话，软件便会把语音转换成润色后的文字——无需解锁手机，也无需切换应用。"
+              },
+              {
+                "t": "p",
+                "x": "把会议、想法或需要记住的事情告诉Agent，它就能将你的思路整理成笔记、清单以及建议操作，例如设置提醒或准备邮件，不过下一步仍需由你批准。Smart Polish会去除ums和ahs之类的口头赘词，另一项功能可按应用调整写作风格，此外还支持12种语言的翻译、自定义词汇和离线录音。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Translation12.png",
+                "cap": "SpeakON"
+              },
+              {
+                "t": "p",
+                "x": "该公司宣称连续续航超过10小时。SpeakON在US（美国）售价$129。iPhones本身已能理解语音指令，但为语音输入配备一个专用按键，是个有意思的想法。"
+              },
+              {
+                "t": "video",
+                "yt": "ex-r8xRSIYE"
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "Garmin 앱 스토어,\n저품질 AI 범람에 긴장",
-          "body": "Garmin Connect IQ에 AI-generated 앱 범람 우려가 나온다.",
-          "mini_headline": "Garmin, 저품질 AI에 직면",
+        "es": {
+          "headline": "El botón magnético SpeakON para\niPhone habla con un agente de AI",
+          "body": "Con el botón SpeakON para iPhone, un agente de AI convierte la voz en notas, recordatorios y correos que tú apruebas.",
+          "mini_headline": "Un botón magnético para un agente de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+                "cap": "SpeakON"
               },
               {
                 "t": "p",
-                "x": "Garmin의 Connect IQ에 문제가 생겼다. 머지않아 스토어에서 앱과 워치 페이스를 내려받으려면 수천 개의 저품질 AI 생성(AI-generated) 제출물을 헤쳐 나가야 할지도 모른다."
+                "x": "Hablarle al teléfono en público todavía puede provocar alguna mirada extraña, pero SpeakON cree que es una opción mejor que escribir. La empresa ha presentado SpeakON Agent, una función AI-powered (impulsada por AI) para su accesorio magnético para iPhone. El hardware es un pequeño botón magnético que se adhiere a la parte trasera del iPhone. Basta con pulsarlo y empezar a hablar para que el software convierta la voz en texto pulido, incluso sin desbloquear el teléfono ni cambiar de app."
               },
               {
                 "t": "p",
-                "x": "개발자들은 Garmin 포럼에서 보통 1-2일 걸리던 제출 심사가 이제 최대 13일까지 걸린다고 불만을 제기하고 있다. Connect IQ 담당자는 “버그 때문이 아니다. 지난 한 달 동안 앱 제출이 엄청나게 몰렸고 줄어들 기미도 없다. 최대한 빨리 승인을 처리하고 있다”고 답했다."
+                "x": "Si le cuentas al Agent una reunión, una idea o algo que necesitas recordar, puede organizar tus ideas en notas, listas y acciones sugeridas, como programar un recordatorio o preparar un correo, aunque seguirás teniendo que aprobar lo que ocurra después. Smart Polish elimina las muletillas, otra función adapta tu estilo de escritura a cada app, y hay traducción en 12 idiomas, vocabulario personalizado y grabación sin conexión."
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
-                "cap": "Garmin Connect IQ 스토어 화면 (Image credit: Future)"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Translation12.png",
+                "cap": "SpeakON"
               },
               {
                 "t": "p",
-                "x": "TechRadar는 갑작스러운 과잉 공급의 배경에 AI가 있다고 본다. 손쉽게 돈을 벌려고 바이브 코딩으로 만들었거나 AI가 생성한(AI-generated) 제품이라는 얘기다. 한 사용자는 “개발자별 업로드 빈도를 제한해야 한다. 조잡한 AI 생성(AI-generated) 워치 페이스가 모든 것을 잠식할 것”이라고 썼다. 다른 사용자는 스토어가 “발견 가능성을 해치는 성의 없고 반복적인 제출물로 점점 넘쳐나고 있다”고 했다."
+                "x": "La empresa anuncia más de 10 horas de batería continua. SpeakON está disponible en Estados Unidos (US) por $129. Los iPhones ya entienden comandos de voz, pero dar a la entrada por voz su propio botón dedicado es una idea interesante."
+              },
+              {
+                "t": "video",
+                "yt": "ex-r8xRSIYE"
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "SpeakON iPhone\nAI 에이전트 자석 버튼",
+          "body": "SpeakON iPhone 버튼은 AI 에이전트로 말을 메모·알림·메일로 바꾼다.",
+          "mini_headline": "AI 에이전트를 위한 자석 버튼",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+                "cap": "SpeakON"
               },
               {
                 "t": "p",
-                "x": "이는 스토어에서 판매하려고 연 $100를 내는 개발자에게도, 사람이 만든 페이스를 찾으려고 AI 슬롭을 헤쳐 나가야 하는 사용자에게도 나쁜 일이다. Kindle Unlimited의 AI 생성(AI-generated) 전자책에서 나타난 것과 같은 양상이다. Garmin에는 입장을 요청한 상태다."
+                "x": "공공장소에서 휴대폰에 말을 거는 일은 여전히 낯선 시선을 받을 수 있지만, SpeakON은 그것이 타이핑보다 나은 방법이라고 본다. 회사는 자석식 iPhone 액세서리를 위한 AI-powered 기능인 SpeakON Agent를 선보였다. 하드웨어는 iPhone 뒷면에 붙는 작은 자석 버튼이다. 버튼을 누르고 말을 시작하면 소프트웨어가 음성을 다듬어진 텍스트로 바꿔 준다 — 휴대폰 잠금을 풀거나 앱을 전환하지 않아도 된다."
+              },
+              {
+                "t": "p",
+                "x": "회의나 아이디어, 기억해야 할 일을 Agent에게 말하면 생각을 메모와 목록, 그리고 알림 설정이나 이메일 준비 같은 추천 동작으로 정리해 준다. 다만 다음 단계는 여전히 사용자가 승인해야 한다. Smart Polish는 ums와 ahs 같은 군말을 없애고, 또 다른 기능은 앱마다 문체를 맞춰 주며, 12개 언어 번역과 사용자 지정 어휘, 오프라인 녹음도 지원한다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Translation12.png",
+                "cap": "SpeakON"
+              },
+              {
+                "t": "p",
+                "x": "회사는 10시간이 넘는 연속 배터리 사용 시간을 내세운다. SpeakON은 US(미국)에서 $129에 판매된다. iPhones도 이미 음성 명령을 알아듣지만, 음성 입력에 전용 버튼을 따로 준다는 발상은 흥미롭다."
+              },
+              {
+                "t": "video",
+                "yt": "ex-r8xRSIYE"
               }
             ]
           }
         },
         "ja": {
-          "headline": "Garminのアプリストア\n低品質AIの波に備える",
-          "body": "Connect IQアプリ急増でGarminにAI-generated粗悪品の懸念が出た。",
-          "mini_headline": "Garminに低品質AIの波",
+          "headline": "SpeakON iPhone\nAIエージェント磁気ボタン",
+          "body": "SpeakONのiPhone用ボタンは、AIエージェントで声をメモやメールに変える。",
+          "mini_headline": "AIエージェントのための磁気ボタン",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+                "cap": "SpeakON"
               },
               {
                 "t": "p",
-                "x": "GarminのConnect IQに問題が起きている。ストアでアプリやウォッチフェイスをダウンロードするには、近いうちに数千もの低品質なAI生成（AI-generated）の投稿をかき分けなければならなくなるかもしれない。"
+                "x": "人前でスマートフォンに話しかければ、今も多少は奇妙な目で見られるかもしれない。それでもSpeakONは、タイピングより優れた選択肢だと考えている。同社は、磁気式iPhoneアクセサリー向けのAI-powered機能「SpeakON Agent」を発表した。ハードウェアは、iPhoneの背面に貼り付く小さな磁気ボタンである。押して話し始めれば、ソフトウェアが音声を整ったテキストに変換する — 端末のロックを解除したり、アプリを切り替えたりする必要もない。"
               },
               {
                 "t": "p",
-                "x": "開発者たちはGarminのフォーラムで、通常1-2日で終わる審査が今では最大13日かかっていると不満を訴えている。Connect IQの担当者は「バグによるものではない。ここひと月でアプリの申請が殺到しており、減る気配もない。できる限り早く承認を進めている」と回答した。"
+                "x": "会議やアイデア、覚えておきたいことをAgentに話すと、考えをメモやリスト、さらにリマインダーの設定やメールの下書きといった提案アクションに整理してくれる。ただし、次に何を実行するかは利用者が承認する必要がある。Smart Polishはumsやahsといった言いよどみを取り除き、別の機能はアプリごとに文体を調整する。12言語の翻訳、カスタム語彙、オフライン録音にも対応する。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
-                "cap": "Garmin Connect IQストアのスクリーンショット（Image credit: Future）"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Translation12.png",
+                "cap": "SpeakON"
               },
               {
                 "t": "p",
-                "x": "TechRadarは、急な供給過多の背景にAIがあると指摘する。手早く稼ぐために作られた、バイブコーディングやAI生成（AI-generated）の製品だというのだ。あるユーザーは「開発者ごとのアップロード頻度を制限すべきだ。粗雑なAI生成（AI-generated）のウォッチフェイスがすべてを埋め尽くしてしまう」と書き込んだ。別のユーザーは、ストアが「見つけやすさを損なう、手抜きで似たような投稿でますますあふれている」と述べた。"
+                "x": "同社は10時間以上の連続バッテリー駆動をうたっている。SpeakONはUS（米国）で$129で販売されている。iPhonesはすでに音声コマンドを理解するが、音声入力に専用ボタンを与えるという発想は興味深い。"
               },
               {
-                "t": "p",
-                "x": "これはストアで販売するために年$100を払う開発者にとっても、人の手によるフェイスを見つけるためにAIスロップをかき分けなければならないユーザーにとっても好ましくない。Kindle UnlimitedでのAI生成（AI-generated）電子書籍と同じ構図だ。Garminにはコメントを求めている。"
+                "t": "video",
+                "yt": "ex-r8xRSIYE"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Garmin应用商店\n面临AI垃圾内容潮",
-          "body": "Connect IQ新应用激增，引发Garmin商店AI-generated垃圾之忧。",
-          "mini_headline": "Garmin遭遇AI垃圾潮",
+          "headline": "SpeakON iPhone\n磁吸按键连接AI智能体",
+          "body": "SpeakON的iPhone磁吸按键借助AI智能体，把语音转成笔记、提醒和邮件。",
+          "mini_headline": "为AI智能体打造的磁吸按键",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+                "cap": "SpeakON"
               },
               {
                 "t": "p",
-                "x": "Garmin的Connect IQ出了问题。用户很快可能要在数以千计的低质量AI生成（AI-generated）投稿中翻找，才能从商店下载应用和表盘。"
+                "x": "在公共场合对着手机说话或许仍会招来一些异样的目光，但SpeakON认为这比打字更好。该公司为其磁吸式iPhone配件推出了AI-powered功能SpeakON Agent。硬件是一个吸附在iPhone背面的小型磁吸按键。按下按键开始说话，软件便会把语音转换成润色后的文字——无需解锁手机，也无需切换应用。"
               },
               {
                 "t": "p",
-                "x": "开发者在Garmin论坛上抱怨，通常需要1-2天的提交审核如今最长要13天。Connect IQ代表回复称：“这不是程序错误导致的——上个月以来我们收到了海量的应用提交，且没有放缓迹象，我们正在尽快处理审批。”"
+                "x": "把会议、想法或需要记住的事情告诉Agent，它就能将你的思路整理成笔记、清单以及建议操作，例如设置提醒或准备邮件，不过下一步仍需由你批准。Smart Polish会去除ums和ahs之类的口头赘词，另一项功能可按应用调整写作风格，此外还支持12种语言的翻译、自定义词汇和离线录音。"
               },
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
-                "cap": "Garmin Connect IQ商店截图（Image credit: Future）"
+                "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Translation12.png",
+                "cap": "SpeakON"
               },
               {
                 "t": "p",
-                "x": "TechRadar认为，这股突如其来的泛滥指向AI——为了快速赚钱而用氛围编程或AI生成（AI-generated）的产品。一位用户写道：“需要限制每位开发者的上传频率，那些粗制滥造的AI生成（AI-generated）表盘会吞噬一切。”另一位用户表示，商店“越来越多地充斥着敷衍、重复的投稿，影响了可发现性”。"
+                "x": "该公司宣称连续续航超过10小时。SpeakON在US（美国）售价$129。iPhones本身已能理解语音指令，但为语音输入配备一个专用按键，是个有意思的想法。"
               },
               {
-                "t": "p",
-                "x": "这对每年支付$100在商店销售的开发者不利，对必须绕过AI垃圾才能找到人工制作表盘的用户也不利——Kindle Unlimited上的AI生成（AI-generated）电子书也是同样的情况。Garmin已被请求置评。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "La tienda de apps de Garmin\nteme una ola de basura de AI",
-          "body": "Una avalancha de apps y esferas en Connect IQ despierta el temor a basura AI-generated en la tienda de Garmin.",
-          "mini_headline": "Garmin ante la basura de AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Garmin tiene un problema con Connect IQ. Descargar apps y esferas de la tienda podría obligar pronto a rebuscar entre miles de envíos de baja calidad generados por AI (AI-generated)."
-              },
-              {
-                "t": "p",
-                "x": "Los desarrolladores se quejan en los foros de Garmin de que la revisión de envíos, que suele tardar 1-2 días, ahora tarda hasta 13 días. Un representante de Connect IQ respondió: «No se debe a un error: en el último mes hemos recibido una enorme avalancha de envíos de apps, sin señales de que disminuya, y estamos tramitando las aprobaciones lo más rápido posible»."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Af2G5Mkp3Z3ghAsXfvZiMJ.jpg",
-                "cap": "Captura de pantalla de la tienda Garmin Connect IQ (Image credit: Future)"
-              },
-              {
-                "t": "p",
-                "x": "TechRadar sostiene que el repentino exceso apunta a la AI: productos hechos con vibe coding o generados por AI (AI-generated) para ganar dinero rápido. Un usuario escribió: «Hay que limitar la frecuencia de subida de cada desarrollador; esas esferas mal hechas generadas por AI (AI-generated) lo van a acaparar todo». Otro dijo que la tienda está «cada vez más inundada de envíos repetitivos y de poco esfuerzo que perjudican la visibilidad»."
-              },
-              {
-                "t": "p",
-                "x": "Eso perjudica a los desarrolladores, que pagan $100 al año por vender en la tienda, y a los usuarios, que deben sortear la basura de AI para encontrar esferas hechas por personas: el mismo patrón que se vio con los libros electrónicos generados por AI (AI-generated) en Kindle Unlimited. Se ha pedido a Garmin un comentario."
+                "t": "video",
+                "yt": "ex-r8xRSIYE"
               }
             ]
           }

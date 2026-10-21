@@ -6963,6 +6963,122 @@
           "x": "该网站指出,在Bartz v. Anthropic案中,面向图书作者的$1.5 billion和解已于2026年7月20日获得最终批准。"
         }
       ]
+    },
+    "books/books-boreal-orelien": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+          "cap": "2026年9月24日，Thélyson Orélien出席在法国Manosque举行的Les Correspondances文学节。(Joel Saget/AFP via Getty Images)"
+        },
+        {
+          "t": "p",
+          "x": "蒙特利尔出版社Éditions du Boréal周三宣布，将终止与Thélyson Orélien的合作关系，称新信息表明其小说C’était ça ou mourir的写作使用了AI——尽管他曾一再保证自己没有使用这项技术。"
+        },
+        {
+          "t": "p",
+          "x": "声明写道：“因此，Boréal将不再重印这部小说，也不会再出版Thélyson Orélien的任何作品。”"
+        },
+        {
+          "t": "p",
+          "x": "这部小说一直广受好评，直到9月21日，即它获得Prix du roman Fnac的当天，一个匿名X账号分享了AI-detection（AI检测）截图。Orélien称这些指控是“诽谤和异端”，表示自己只是在资料研究中“零星”用过AI。"
+        },
+        {
+          "t": "p",
+          "x": "Boréal委托外部机构分析了这部小说的所有工作版本。出版社写道：“本周收到的结果显示，部分文件的元数据中存在AI标记的痕迹。”并补充说，也许永远无法得知AI的使用程度，归根结底是信任问题。"
+        }
+      ]
+    },
+    "books/books-huawei-pangu": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+          "cap": "中国人工智能(AI)初创公司DeepSeek的标志。路透社=韩联社"
+        },
+        {
+          "t": "p",
+          "x": "继美国AI企业Anthropic之后，21日证实中国AI企业也擅自下载了韩江、黄晳暎等作家的书。华为在2023年3月于arXiv发布的AI模型“盘古Σ”技术报告中明确写道，其英文文本使用了“The Pile”等数据。"
+        },
+        {
+          "t": "p",
+          "x": "“The Pile”中包含Anthropic也曾擅自下载的盗版电子书合集“Books3”，而Books3里有韩江的《少年来了》《素食者》、黄晳暎的《巴里公主》等至少19种韩国作家的英译本（作家10人）。不过，无法确认华为等公司是否用下载的全部小说进行了训练。"
+        },
+        {
+          "t": "img",
+          "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
+          "cap": "7月17日在中国上海举行的世界人工智能大会(WAIC)上的华为标志。路透社=韩联社"
+        },
+        {
+          "t": "p",
+          "x": "DeepSeek在2024年3月的“DeepSeek-VL”报告中表示，训练使用了从盗版图书网站“Anna’s Archive”获取的86万册英文电子书和18万册中文电子书。KAIST AI研究生院教授Jaegul Choo表示：“用盗版图书作为AI训练数据，在AI业界是众所周知的事。”"
+        }
+      ]
+    },
+    "books/books-soa-charter": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+          "cap": "Anna Ganley"
+        },
+        {
+          "t": "p",
+          "x": "作家协会（Society of Authors，SoA）已退出其上周发起的伦理AI宪章（Ethical AI Charter）。此前该宪章引发强烈反对，CEO Anna Ganley随后发表声明，试图澄清协会对生成式AI的立场。会员于21日收到电子邮件，被告知SoA将退出。"
+        },
+        {
+          "t": "p",
+          "x": "该宪章于13日发布，由Creators’ Rights Alliance、Authors Guild、澳大利亚作家协会、加拿大作家联盟和新西兰作家协会共同制定。宪章目前仍然有效，其他组织均未退出。"
+        },
+        {
+          "t": "p",
+          "x": "会员们批评事前缺乏协商，也批评SoA对生成式AI使用的立场。Ganley在16日表示：“由于LLMs是在未经许可、未付报酬的情况下用受版权保护的作品训练的，生成式AI永远不可能有真正合乎伦理的使用。”"
+        }
+      ]
+    },
+    "books/books-buyer-survey": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "在AI持续搅动出版业之际，一项针对U.S.购书者的新调查显示，读者对所读书籍中使用AI的接受程度存在分歧：年轻读者更能接受，但所有人都倾向于完全披露。"
+        },
+        {
+          "t": "p",
+          "x": "由Circana BookScan前高管David Walter今年创立的数据咨询公司BookInsights.ai，调查了过去三个月内买过书的5,025人。只有22%的人接受在图书创作的任何阶段使用AI，而28%的人完全不希望书中出现AI。百分之四十五的人不介意作者把AI用作助手或用来检查语法和拼写。"
+        },
+        {
+          "t": "p",
+          "x": "各年龄段的结果差异明显：36%的青少年接受在图书写作的任何阶段使用AI，而55岁以上人群中只有11%表示同意。"
+        },
+        {
+          "t": "p",
+          "x": "不过，各年龄段85%的读者表示，图书应披露写作过程中是否使用了AI。完整结果将于11月发布。"
+        }
+      ]
+    },
+    "books/books-meta-torrent-execs-order": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg"
+        },
+        {
+          "t": "p",
+          "x": "治安法官Thomas Hixon在一项证据开示命令中——该命令涵盖作家集体诉讼（包括Richard Kadrey和Sarah Silverman）以及出版商Entrepreneur Media提起的诉讼——基本认同Meta必须指认批准从LibGen、Anna's Archive等影子图书馆下载书籍的决策者。"
+        },
+        {
+          "t": "p",
+          "x": "Meta此前辩称，早期AI数据集工作采用一种“非正式做法”，没有任何有权限的人做出决定，员工只是“在技术上”下载了种子。但员工证词和内部消息却指向总监或VP-level（副总裁级）的批准，其中一个讨论串还提到“此前曾上报给MZ”。"
+        },
+        {
+          "t": "p",
+          "x": "Hixon驳回了Meta的狭义解读：该请求并不限于正式决定或单一决策者。Meta必须列出所有做出、授权或批准下载的人及其职务和日期，提交用于种子下载的每台服务器的命令历史文件，并说明未用于训练的盗版作品如何处置。"
+        }
+      ]
     }
   }
 }

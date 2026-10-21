@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-22",
+  "section": "music",
+  "cards": [
+    {
+      "id": "music-moises-soundcloud",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Moises brings AI music tools\nto SoundCloud artists",
+      "body": "A new partnership pairs Moises's stem separation, chord detection and AI mixing with SoundCloud distribution.",
+      "mini_headline": "Moises joins SoundCloud",
+      "tool": "Music",
+      "source": "PR Newswire (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/moises-soundcloud-partner-bring-ai-142300209.html",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+            "cap": "Moises x SoundCloud"
+          },
+          {
+            "t": "p",
+            "x": "Moises, the ethically trained AI-powered creative suite used by 80 million musicians, and SoundCloud announced a partnership on Oct. 21 that lets artists bring their SoundCloud tracks into Moises to practice, produce, collaborate and reimagine them, then publish finished music directly back to SoundCloud."
+          },
+          {
+            "t": "p",
+            "x": "Artists can use Moises' stem separation, chord and lyric detection, open tracks in the web-based Moises Studio to mix, master or reimagine them with contextual stem generation, invite collaborators in real time, and work with Moi, an agentic production assistant that sets up sessions and mixes and masters to their requirements."
+          },
+          {
+            "t": "img",
+            "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+            "cap": "Moises x SoundCloud integration"
+          },
+          {
+            "t": "p",
+            "x": "\"We believe the future of AI in music should be artist-first and human-first,\" said Eliah, CEO of SoundCloud. SoundCloud says it does not use artists' music to train generative AI models without their explicit consent; Moises says its models are trained only on licensed and authorized music, not on user uploads, and its tools do not generate complete songs."
+          },
+          {
+            "t": "p",
+            "x": "Moises Pro subscribers get a 2-month trial of SoundCloud Artist Pro, and SoundCloud Artist Pro members get a 2-month trial of Moises Pro."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,35 +1,76 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "gadgets",
-  "now_iso": "2026-10-20T21:40:00Z",
+  "now_iso": "2026-10-21T22:00:00Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "Get hands-free personalized help on the road with Gemini",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
-      "source": "Google Blog",
+      "title": "Unitree reveals H2-X humanoid bodyguard robot — 'Kung Fu Legend Guardian' packs 8-hour battery and martial arts defense skills",
+      "url": "https://www.techradar.com/ai-platforms-assistants/unitree-reveals-its-h2-x-bodyguard-robot-a-kung-fu-humanoid-with-an-8-hour-battery-life-and-some-serious-martial-arts-skills",
+      "source": "TechRadar",
       "category": "gadgets",
-      "published_iso": "2026-10-20T20:00:00+00:00",
-      "excerpt": "Gemini is available in cars globally. With Personal Intelligence, get uniquely tailored help while keeping your eyes on the road.",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.width-1300.png",
-      "lang": "en",
+      "published_iso": "2026-10-21T12:22:16Z",
+      "excerpt": "Unitree Robotics has revealed its impressive new H2-X Kung Fu Legend Guardian robot — a humanoid bodyguard from our sci-fi dreams.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/k2SxPcYMeT7qWB8dU7ZK46-2000-80.jpg"
+    },
+    {
+      "title": "Chicago lawsuits claim delivery robots collected personal information without authorization — but the defendants say the allegations are 'frivolous'",
+      "url": "https://www.techradar.com/ai-platforms-assistants/sidewalk-surveillance-illinois-residents-accuse-delivery-robots-of-capturing-biometric-data-without-permission",
+      "source": "TechRadar",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T12:24:10Z",
+      "excerpt": "Two lawsuits filed in Chicago claim that delivery robots carried out face and body scans without permission.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/xWsrNEZDJg6yMHWQhM29kk-2000-80.jpg"
+    },
+    {
+      "title": "The Timekettle LiveTalk earbuds can play audio, translate, and help you learn a language",
+      "url": "https://www.androidauthority.com/timekettle-livetalk-ai-translation-earbuds-hands-on-3722945/",
+      "source": "Android Authority",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T13:35:34+00:00",
+      "excerpt": "Hands-on with Timekettle LiveTalk, AI translation earbuds that double as regular earbuds and translate conversations and audio across 54 languages.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
       "history_match": {
-        "score": 0.167,
+        "score": 0.246,
         "date": "2026-09-30",
-        "url": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents/",
-        "title": "Gemini and Find Hub can help you locate your important documents — here's how",
+        "url": "https://www.engadget.com/2271253/translation-earbuds-how-work-explained/",
+        "title": "How do translation earbuds actually work?",
         "band": "related"
       }
     },
     {
-      "title": "Iron Man himself now officially endorses Snap's latest smart glasses",
-      "url": "https://9to5google.com/2026/10/20/iron-man-now-officially-endorses-snap-specs/",
-      "source": "9to5Google",
+      "title": "Philips Hue Bridge Pro custom AI behaviors launch next week",
+      "url": "https://www.androidauthority.com/hue-bridge-pro-custom-ai-behaviors-launch-3726230/",
+      "source": "Android Authority",
       "category": "gadgets",
-      "published_iso": "2026-10-20T16:05:00+00:00",
-      "excerpt": "Snap SPECS smart glasses are finally coming, and actor Robert Downey Jr. is making sure you know how useful they are",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/snap-specs-robert-downey-jr.jpg?quality=82&strip=all&resize=1200,628",
-      "lang": "en"
+      "published_iso": "2026-10-21T17:27:24+00:00",
+      "excerpt": "Philips Hue will soon roll out Custom AI Behaviors for the Hue Bridge Pro, letting users describe what they want in plain language to create a personalized lighting automation.",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg"
+    },
+    {
+      "title": "Ohio State Makes a Stink by Digitally Sending Scents",
+      "url": "https://www.cnet.com/science/new-ai-device-can-detect-and-transmit-scent/",
+      "source": "CNET",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T14:20:18-04:00",
+      "excerpt": "The scent-sending technology could be used in online shopping, healhcare diagnoses and just for fun.",
+      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/tabli-5.jpg"
+    },
+    {
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "source": "The Verge",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T15:00:00+00:00",
+      "excerpt": "CarPlay users in the US can now use Gemini to chat with Google Maps.﻿",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK255_Google_Gemini_B_474198.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "history_match": {
+        "score": 0.162,
+        "date": "2026-10-17",
+        "url": "https://www.androidauthority.com/hey-gemini-camera-activation-android-xr-3724200/",
+        "title": "Google’s next Gemini trick could change how you use Android XR glasses",
+        "band": "related"
+      }
     },
     {
       "title": "The real reason to care about Vivo's latest phone is the camera [Gallery]",
@@ -38,8 +79,130 @@
       "category": "gadgets",
       "published_iso": "2026-10-20T14:45:00+00:00",
       "excerpt": "Vivo's AI Creation camera mode isn't just for flagship phones anymore, thanks to the Vivo V80's affordable price.",
-      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/vivo-ai-creation-vivo-x500.jpg?quality=82&strip=all&resize=1200,628",
-      "lang": "en"
+      "og_image": "https://9to5google.com/wp-content/uploads/sites/4/2026/10/vivo-ai-creation-vivo-x500.jpg?quality=82&strip=all&resize=1200,628"
+    },
+    {
+      "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+      "url": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "published_iso": "2026-10-13T13:16:11+00:00",
+      "excerpt": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/Apple-TV-4K-261013_big.jpg.large_2x.jpg?resize=1200,675",
+      "history_match": {
+        "score": 0.26,
+        "date": "2026-10-06",
+        "url": "https://www.macrumors.com/2026/10/05/tvos-27-2-apple-intelligence-code/",
+        "title": "tvOS 27.2 Code Hints at Apple Intelligence for New Apple TV",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+      "url": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "published_iso": "2026-10-15T19:55:25+00:00",
+      "excerpt": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024",
+      "history_match": {
+        "score": 0.159,
+        "date": "2026-10-16",
+        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+        "band": "related"
+      }
+    },
+    {
+      "title": "GM is giving OnStar an AI makeover",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+      "source": "TechCrunch",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T18:00:00+00:00",
+      "excerpt": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
+    },
+    {
+      "title": "SpeakON introduces magnetic iPhone button with AI-powered voice actions",
+      "url": "https://www.notebookcheck.net/SpeakON-introduces-magnetic-iPhone-button-with-AI-powered-voice-actions.1429977.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T11:53:00+02:00",
+      "excerpt": "One button. No more endless tapping on your iPhone screen. SpeakON's magnetic accessory now comes with an AI agent that can turn your spoken thoughts into notes, reminders and emails, although you'll still have to approve the results.",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+      "history_match": {
+        "score": 0.15,
+        "date": "2026-09-28",
+        "url": "https://www.androidauthority.com/turned-android-phone-ai-button-into-powerful-shortcuts-3714021/",
+        "title": "I turned my Android phone’s annoying AI button into its most powerful shortcut key",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Baseus launches new security camera with a spotlight that tracks intruders",
+      "url": "https://www.notebookcheck.net/Baseus-launches-new-security-camera-with-a-spotlight-that-tracks-intruders.1429760.0.html",
+      "source": "Notebookcheck",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T12:08:00+02:00",
+      "excerpt": "Baseus has launched the PrimeSentinel U2 Pro Outdoor 3K Dual Camera at $269.99 in the US and €269.99 in Europe. The battery-powered camera pairs a fixed 3K lens with a 130-degree view and a second 3K lens that pans 360 degrees and adds a motorized sp",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Group-45-26.jpg"
+    },
+    {
+      "title": "Tailored for Every Home: Samsung “The Brief” Goes Global With AI-Powered Home Appliances - Samsung Global Newsroom",
+      "url": "https://news.samsung.com/global/tailored-for-every-home-samsung-the-brief-goes-global-with-ai-powered-home-appliances",
+      "source": "Samsung Newsroom",
+      "category": "gadgets",
+      "published_iso": "2026-10-20T08:00:31+09:00",
+      "excerpt": "Samsung Electronics hosted \"The Brief,\" a series of home appliance tech seminars across fi",
+      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/19163329/Samsung-Corporate-The-Brief-Global-with-AI-Powered-Home-Appliances_Thumb932.jpg"
+    },
+    {
+      "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+      "url": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+      "source": "Ars Technica",
+      "category": "gadgets",
+      "published_iso": "2026-10-16T12:00:05+00:00",
+      "excerpt": "Microsoft promises one machine for dev, AI, and gaming, and mostly gets there.",
+      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/MS_Surface_Laptop_Ultra_Feature-1152x648.jpg",
+      "history_match": {
+        "score": 0.251,
+        "date": "2026-10-08",
+        "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Nvidia brings Underdog to the RTX Spark, making it easier to run AI models locally",
+      "url": "https://www.xda-developers.com/nvidia-partners-with-underdog-to-make-managing-your-local-ai-models-even-easier/",
+      "source": "XDA Developers",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T11:31:19Z",
+      "excerpt": "On October 16th, several RTX Park-powered laptops released from various OEMs.",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/rtx-spark-laptop-in-tent-mode-showing-the-xda-homepage-in-edge.jpeg?w=1600&h=900&fit=crop",
+      "history_match": {
+        "score": 0.287,
+        "date": "2026-10-10",
+        "url": "https://www.techradar.com/pro/pre-orders-open-for-nvidias-rtx-spark-workstations-and-these-are-the-3-local-ai-laptops-id-buy-for-business",
+        "title": "Pre-orders open for Nvidia's RTX Spark laptops, starting at $2,599",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Microsoft's rollback of Copilot continues as it scales it back from OneDrive's File Explorer options",
+      "url": "https://www.xda-developers.com/microsofts-rollback-of-copilot-continues-as-the-company-removes-it-from-onedrives-file-explorer-options/",
+      "source": "XDA Developers",
+      "category": "gadgets",
+      "published_iso": "2026-10-21T00:06:28Z",
+      "excerpt": "It's still there, but a lot less present.",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/02/reasons-to-use-onedrive.jpg?w=1600&h=900&fit=crop",
+      "history_match": {
+        "score": 0.268,
+        "date": "2026-10-06",
+        "url": "https://www.notebookcheck.net/Windows-11-26H2-begins-roll-out-with-AI-File-Explorer-actions.1415485.0.html",
+        "title": "Windows 11 26H2 begins roll-out with AI File Explorer actions",
+        "band": "related"
+      }
     },
     {
       "title": "Apple explains why HomeView couldn’t launch until now",
@@ -49,9 +212,8 @@
       "published_iso": "2026-10-20T14:47:59+00:00",
       "excerpt": "Apple’s HomeView was reportedly delayed significantly from its initial launch target, here’s why it couldn’t launch until now per Apple.",
       "og_image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Apple-HomeView-lifestyle-living-room-261013_big.jpg.large_2x-2.jpg?quality=82&strip=all&resize=1200,628",
-      "lang": "en",
       "history_match": {
-        "score": 0.223,
+        "score": 0.237,
         "date": "2026-10-14",
         "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
         "title": "Apple’s first smart display is the 7-inch HomeView for $299",
@@ -59,238 +221,27 @@
       }
     },
     {
-      "title": "Perplexity makes it easier to run AI workflows entirely on your own Mac",
-      "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
-      "source": "Engadget",
+      "title": "Hold onto your old HomePod - an upgrade is on the way",
+      "url": "https://www.zdnet.com/home-and-office/keep-old-apple-homepod-upgrades/",
+      "source": "ZDNET",
       "category": "gadgets",
-      "published_iso": "2026-10-20T15:42:45+00:00",
-      "excerpt": "A Mac with at least 36GB of RAM can now run Perplexity AI workflows locally.",
-      "og_image": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg",
-      "lang": "en"
+      "published_iso": "2026-10-21T14:37:08-04:00",
+      "excerpt": "An upcoming update will bring new features to existing HomePods. Here's what to know.",
+      "og_image": "https://www.zdnet.com/wp-content/uploads/sites/3/F269D9F0-A35B-45D4-A3A1-082DA9E58CF0_1_105_c.jpeg"
     },
     {
-      "title": "Amazon Prime comes with an Alexa upgrade you should know about",
-      "url": "https://www.engadget.com/2288734/amazon-prime-alexa-upgrade-you-should-know-about/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T13:45:00+00:00",
-      "excerpt": "Alexa+ is now free for all Amazon Prime members, and they can access the upgrade via their Echo Show and Dot devices, their tablets, the app and on the web.",
-      "og_image": "https://www.engadget.com/img/gallery/amazon-prime-comes-with-an-alexa-upgrade-you-should-know-about/l-intro-1792159763.jpg",
-      "lang": "en",
-      "history_match": {
-        "score": 0.281,
-        "date": "2026-10-09",
-        "url": "https://www.engadget.com/2280917/amazon-alexa-tablets-october-2026/",
-        "title": "Amazon's new Alexa tablets include a 12-inch model with anti-glare screen",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Antigravity's Follow Me bundle adds accurate tracking and gesture controls to its A1 drone",
-      "url": "https://www.engadget.com/2289029/antigravity-a1-drone-follow-me-bundle-hands-on/",
-      "source": "Engadget",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T13:00:00+00:00",
-      "excerpt": "Antigravity's watch and ring remote are available as an accessory bundle or as a full kit with the A1 drone.",
-      "og_image": "https://www.engadget.com/img/gallery/antigravitys-follow-me-bundle-adds-accurate-tracking-and-gesture-controls-to-its-a1-drone/l-intro-1792172648.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "Microsoft Surface Laptop Ultra Review: The First Real AI PC",
-      "url": "https://www.wired.com/review/microsoft-surface-laptop-ultra/",
-      "source": "WIRED",
-      "category": "gadgets",
-      "published_iso": "2026-10-16T09:00:00.000-04:00",
-      "excerpt": "The Surface Laptop Ultra is a true MacBook Pro competitor for Windows, and Microsoft has never been so close to dethroning Apple—if only it weren't for the lack of battery life.",
-      "og_image": "https://media.wired.com/photos/6ad13db2947d3d6c92ec6bb7/191:100/w_1280,c_limit/Review%20Surface%20Laptop%20Ultra%20102026%20top%20art%20SOURCE%20BH%20Photo.jpg",
-      "lang": "en",
-      "history_match": {
-        "score": 0.29,
-        "date": "2026-09-26",
-        "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
-        "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
-        "band": "related"
-      }
-    },
-    {
-      "title": "XREAL Announces '1 Pro+' Flagship AR Glasses, Now Available & Priced at $599",
-      "url": "https://roadtovr.com/xreal-1-pro-plus-release-date-price/",
-      "source": "Road to VR",
-      "category": "gadgets",
-      "published_iso": "2026-10-15T12:59:00+00:00",
-      "excerpt": "XREAL today announced XREAL 1 Pro+, a hardware refresh of its One Pro flagship AR glasses. Launching today at $599, Xreal 1 Pro+ includes a modest set of improvements over the original One Pro, which launched in early 2025. Principally, Xreal 1 Pro+ includes brighter displays, as well as improvement",
-      "og_image": "https://roadtovr.com/wp-content/uploads/2026/10/1_Pro__Image.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "Apple HomeView Hands-On: I Tried Apple's First Smart Display",
-      "url": "https://www.cnet.com/home/smart-home/apple-homeview-hands-on/",
-      "source": "CNET",
-      "category": "gadgets",
-      "published_iso": "2026-10-19T18:29:26-04:00",
-      "excerpt": "I'm not easily impressed when it comes to smart home hubs. Here's why the HomeView is different.",
-      "og_image": "https://www.cnet.com/wp-content/uploads/sites/2/DSC0909.jpg",
-      "lang": "en",
-      "history_match": {
-        "score": 0.434,
-        "date": "2026-10-14",
-        "url": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
-        "title": "Apple’s first smart display is the 7-inch HomeView for $299",
-        "band": "likely-repeat"
-      }
-    },
-    {
-      "title": "Delivery Robots Are Watching You, According to Lawsuit",
-      "url": "https://gizmodo.com/delivery-robots-are-watching-you-according-to-lawsuit-2000828417",
-      "source": "Gizmodo",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T21:15:11+00:00",
-      "excerpt": "Would you trade your face for a sandwich?",
-      "og_image": "https://gizmodo.com/app/uploads/2022/09/c65bb9f48296c5dd073bef4bd132dd83.jpg",
-      "lang": "en",
-      "history_match": {
-        "score": 0.219,
-        "date": "2026-10-10",
-        "url": "https://9to5google.com/2026/10/09/pixel-watch-4-update-adds-ai-face-generator/",
-        "title": "Pixel Watch 4 update adds Google's AI watch face generator",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Tailored for Every Home: Samsung “The Brief” Goes Global With AI-Powered Home Appliances - Samsung Global Newsroom",
-      "url": "https://news.samsung.com/global/tailored-for-every-home-samsung-the-brief-goes-global-with-ai-powered-home-appliances",
-      "source": "Samsung Newsroom",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T08:00:31+09:00",
-      "excerpt": "Samsung Electronics hosted \"The Brief,\" a series of home appliance tech seminars across fi",
-      "og_image": "https://img.global.news.samsung.com/global/wp-content/uploads/2026/10/19163329/Samsung-Corporate-The-Brief-Global-with-AI-Powered-Home-Appliances_Thumb932.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "Voxel 1 robot can tidy up, water plants and clean up dirt",
-      "url": "https://www.notebookcheck.net/Voxel-1-robot-can-tidy-up-water-plants-and-clean-up-dirt.1429483.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T20:35:00+02:00",
-      "excerpt": "Tuesday Labs' Voxel Series 1 is a two-armed, two-legged household robot that uses AI to learn where objects belong, tidy up on its own, water plants, detect and clean dirt and put dishes away, guided by RGB and ultra-wide cameras and voice commands.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "Boya Notra Neo launches with AI-powered meeting transcriptions, summaries, and recordings and MagSafe mount",
-      "url": "https://www.notebookcheck.net/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.1428542.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T04:45:00+02:00",
-      "excerpt": "Boya's Notra Neo is a MagSafe-mount AI voice recorder that transcribes calls and meetings in 140+ languages with speaker identification, then generates summaries, action items and mind maps from 60+ templates, with an Ask AI search across recordings.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "Leak reveals specs and renders of Samsung's smart glasses, and they beat the Ray-Ban Meta (Gen 3) in multiple areas",
-      "url": "https://www.notebookcheck.net/Leak-reveals-specs-and-renders-of-Samsung-s-smart-glasses-and-they-beat-the-Ray-Ban-Meta-Gen-3-in-multiple-areas.1423060.0.html",
-      "source": "Notebookcheck",
-      "category": "gadgets",
-      "published_iso": "2026-10-14T16:41:00+02:00",
-      "excerpt": "A leak reveals every Gentle Monster and Warby Parker design of the Samsung/Google Android XR audio smart glasses due in November, along with specs that reportedly beat Ray-Ban Meta Gen 3 in several areas.",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-Glasses-Warby-Parker.jpg",
-      "lang": "en",
-      "history_match": {
-        "score": 0.3,
-        "date": "2026-10-10",
-        "url": "https://gizmodo.com/ray-ban-meta-gen-3-ai-glasses-review-2000822961",
-        "title": "Ray-Ban Meta Gen 3 review: Meta's new Muse model is the real upgrade",
-        "band": "related"
-      }
-    },
-    {
-      "title": "Amazon wants you to wear an AI that remembers your conversations — but do you really want it knowing that much about you?",
-      "url": "https://www.techradar.com/ai-platforms-assistants/amazons-new-bee-ai-device-can-turn-every-conversation-into-a-shopping-opportunity-and-thats-deeply-unsettling",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T13:15:00Z",
-      "excerpt": "Your conversations could become Amazon's next shopping opportunity, and that's unsettling",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/xfeW8AjnLLGsSHKF7smosf-1920-80.jpg",
-      "lang": "en",
-      "history_match": {
-        "score": 0.162,
-        "date": "2026-10-16",
-        "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-        "band": "related"
-      }
-    },
-    {
-      "title": "The Acer Googlebook 14 is an excellent first attempt at a new type of laptop – but Google's software needs work",
-      "url": "https://www.techradar.com/computing/laptops/acer-googlebook-14-review",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T20:00:00Z",
-      "excerpt": "The Acer Googlebook 14 is the most affordable of these new breed of laptops – but is it the MacBook Air killer Android users have been waiting for?",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/nLXMuPMUJnK8dTGmgtbj26-2560-80.jpg",
-      "lang": "en",
-      "history_match": {
-        "score": 0.283,
-        "date": "2026-09-22",
-        "url": "https://www.theverge.com/gadgets/997659/googlebooks-breakdown-acer-asus-hp-lenovo-dell",
-        "title": "These are the first five Googlebook laptops",
-        "band": "related"
-      }
-    },
-    {
-      "title": "An 'enormous influx' of new Garmin Connect IQ apps and watch faces spark fears of poor-quality AI slop flooding the store",
-      "url": "https://www.techradar.com/health-fitness/fitness-trackers/poorly-made-ai-generated-watch-faces-will-consume-everything-garmins-connect-iq-store-has-been-hit-by-an-enormous-influx-of-submissions-and-garmin-users-could-soon-be-grappling-with-a-wave-of-ai-slop",
-      "source": "TechRadar",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T11:48:27Z",
-      "excerpt": "Garmin has a Connect IQ problem.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "[르포] “AI가 알아서 빨래 정리”…제논 '피지컬 AI 두뇌' 개발 현장",
-      "url": "https://www.etnews.com/20261020000283",
+      "title": "현대차·레인보우 “AI로봇 산업화, 공공수요·정부 리더십 중요”",
+      "url": "https://www.etnews.com/20261021000390",
       "source": "전자신문",
       "category": "gadgets",
-      "published_iso": "2026-10-20T17:00:00+09:00",
-      "excerpt": "20일 서울 강남구에 위치한 제논 피지컬 AI 랩. 휴머노이드 '젠피'가 주변을 살폈다. 휠체어 위에 놓인 빨랫감을 보더니 곧장 허리를 굽혀 세탁 바구니에 넣었다. 최창윤 제논 피지컬AI TF팀장은 “미리 코드를 짜서 동작을 실행한 게 아니라 로봇이 눈앞의 상황을 스스로 인식하고 판단해 행동했다”고 말했다. 제논이 피지컬 인공지능(AI) 기술 개발을 넘어 상용화 단계로 본격 전환한다. 적용 기종을 유니트리 'G1'에서 애지봇 'X2 울트라' 등",
-      "og_image": "https://img.etnews.com/news/article/2026/10/20/news-p.v1.20261020.82f22fb4296a4ee5a0d70c747bf168f1_P1.jpg",
-      "lang": "ko"
-    },
-    {
-      "title": "9일째 러닝머신 걷는 로봇…560km·120만 걸음 돌파",
-      "url": "https://www.etnews.com/20261020000291",
-      "source": "전자신문",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T22:30:00+09:00",
-      "excerpt": "휴머노이드 로봇이 러닝머신 위에서 9일째 계속 걷는 영상이 화제가 되고 있습니다. 미국 로봇 스타트업 피규어 AI의 최고경영자(CEO) 브렛 애드콕은 지난 19일 자사 휴머노이드 로봇 '피규어 03'의 장기 보행 영상을 공개했습니다. 로봇은 러닝머신 위에서 9일 연속 걸으며 약 560km, 120만 걸음을 기록했습니다. 이 영상은 로봇을 장시간 반복해서 걷게 하며 관절과 구동계 등 하드웨어가 얼마나 오래 버티는지, 어떤 지점에서 고장이 발생하는",
-      "og_image": "https://img.etnews.com/news/article/2026/10/20/news-p.v1.20261020.00310bcbb7cd477ea9acc8175e651daa_P1.jpg",
-      "lang": "ko"
-    },
-    {
-      "title": "사운드·착용감·AI 연동까지...삼성, 첫 클립형 이어폰 '갤럭시 버즈 온' 공개",
-      "url": "https://zdnet.co.kr/view/?no=20261020114021",
-      "source": "지디넷코리아",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T11:51:46+09:00",
-      "excerpt": "실제 써보면 알겠지만 착용감 만큼은 '갤럭시 버즈 온'이 세계 최고라고 자부한다.이명환 삼성전자 그룹장은 20일 서울 중구 태평로빌딩에서 열린 기자간담회에서 갤럭시 웨어러블 제품은 착용감, 음질, 기기 간 연동 경험을 가장 중요하게 여긴다며 이렇게 말했다....",
-      "og_image": "https://image.zdnet.co.kr/2026/10/20/53a4ae028639d0039612b647b4198dcf.jpg",
-      "lang": "ko"
-    },
-    {
-      "title": "슈프리마, AI 순찰로봇 솔루션 공개",
-      "url": "https://zdnet.co.kr/view/?no=20261020172330",
-      "source": "지디넷코리아",
-      "category": "gadgets",
-      "published_iso": "2026-10-20T17:23:30+09:00",
-      "excerpt": "슈프리마가 AI 안면인식 기술과 자율주행 로봇을 결합한 순찰로봇 솔루션 '큐페이스 가디언(Q-Face Guardian)'을 공개한다.슈프리마는 21~24일 인천 송도컨벤시아에서 열리는 '2026 국제치안산업대전(KPEX)'에서 이 제품을 처음 선보인다고 ...",
-      "og_image": "https://image.zdnet.co.kr/2026/10/20/60f5a0000d0be7b35a7af8d1509cb454.jpg",
-      "lang": "ko"
+      "published_iso": "2026-10-21T15:37:52+09:00",
+      "excerpt": "현대자동차와 레인보우로보틱스가 중국의 로봇산업 성장과 국내 시장 잠식 가능성에 우려를 나타내며 정부 주도의 인공지능(AI) 로봇 산업 생태계 구축을 촉구했다. 이언주 더불어민주당 의원과 당 미래경제성장전략위원회, 국제질서의 전환기 속 국가전략 포럼이 공동 주최하고 한국AI·로봇산업협회가 주관한 'AI·로봇 산업 생태계 전략 국회포럼'이 21일 국회의원회관 제1소회의실에서 열렸다. 이 의원은 개회사에서 “한국은 반도체와 배터리, 자동차 등 피지컬",
+      "og_image": "https://img.etnews.com/news/article/2026/10/21/news-p.v1.20261021.b3b11fd29cdd4201bfb7196427517c91_P1.jpg"
     }
   ],
   "dedup": {
-    "dropped": 2,
-    "kept": 20,
+    "dropped": 0,
+    "kept": 19,
     "against_days": 5
   },
   "story_dedup": {
@@ -989,6 +940,31 @@
       "date": "2026-10-20",
       "title": "AI lab offers free plumbing and HVAC repairs across three cities to train AI robots",
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-lab-offers-free-plumbing-and-hvac-repairs-across-three-cities-to-train-ai-robots-wearable-sensors-record-video-of-repair-work-for-robotics-training-free-services-also-include-electrical-work-air-duct-cleaning-and-carpet-cleaning"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Get hands-free personalized help on the road with Gemini",
+      "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Perplexity makes it easier to run AI workflows entirely on your own Mac",
+      "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Boya Notra Neo launches with AI-powered meeting transcriptions, summaries, and recordings and MagSafe mount",
+      "url": "https://www.notebookcheck.net/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.1428542.0.html"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Voxel 1 robot can tidy up, water plants and clean up dirt",
+      "url": "https://www.notebookcheck.net/Voxel-1-robot-can-tidy-up-water-plants-and-clean-up-dirt.1429483.0.html"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "An 'enormous influx' of new Garmin Connect IQ apps and watch faces spark fears of poor-quality AI slop flooding the store",
+      "url": "https://www.techradar.com/health-fitness/fitness-trackers/poorly-made-ai-generated-watch-faces-will-consume-everything-garmins-connect-iq-store-has-been-hit-by-an-enormous-influx-of-submissions-and-garmin-users-could-soon-be-grappling-with-a-wave-of-ai-slop"
     }
   ]
 }

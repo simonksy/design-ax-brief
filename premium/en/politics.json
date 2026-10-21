@@ -3195,6 +3195,133 @@
           "x": "The Commission calls it an important milestone ahead of the application of requirements for high-risk AI systems, with further harmonised standards expected to follow."
         }
       ]
+    },
+    "politics/politics-xai-epa-turbine-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg",
+          "cap": "Thermal imaging of xAI's Memphis facility. Credit: Steve Jones, Flight by Southwings for SELC"
+        },
+        {
+          "t": "p",
+          "x": "The NAACP sued xAI (now SpaceXAI after a merger) over gas turbines powering its Colossus data center in Memphis, Tennessee, alleging they run without environmental permits. It seeks an injunction requiring the best available pollution controls and penalties of up to $124,426 per day per violation."
+        },
+        {
+          "t": "p",
+          "x": "The Trump administration moved to intervene on behalf of the EPA, arguing the agency could unilaterally dismiss the citizen suit and that letting it proceed would \"not serve the public interest.\""
+        },
+        {
+          "t": "p",
+          "x": "On Tuesday, US District Judge Debra Brown ruled that \"nothing\" in the Clean Air Act allows the EPA Administrator to \"unilaterally dismiss a citizen suit,\" noting the EPA has taken no enforcement action of its own here. She also rejected the government's constitutional-avoidance argument that civil penalties are an exclusively executive power."
+        },
+        {
+          "t": "p",
+          "x": "The ruling denied the dismissal request but did not deny intervention: the government may still join to support SpaceXAI, and has until October 23 to explain its position or stay out. An appeals court found the government's appeal premature and declined to pause the case. The ruling does not decide whether xAI violated the law."
+        }
+      ]
+    },
+    "politics/politics-unidir-military-ai-forum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fGXR0.img"
+        },
+        {
+          "t": "p",
+          "x": "The U.N. Institute for Disarmament Research (UNIDIR) plans to launch on Thursday the first international forum for key players to address the military uses of artificial intelligence."
+        },
+        {
+          "t": "p",
+          "x": "UNIDIR head Robin Geiss told a U.N. press conference Tuesday that \"the margin for human judgment is increasingly narrow, including in the nuclear domain,\" as AI spreads into early warning, intelligence gathering and reconnaissance."
+        },
+        {
+          "t": "p",
+          "x": "The forum is part of UNIDIR's Center of Excellence on AI, Peace and Security, set up this summer with funding from the U.S., Russia, China, Britain and France. Geiss was vague on exactly what the forum will do."
+        },
+        {
+          "t": "p",
+          "x": "The center is also developing voluntary guidelines for responsible industry behavior, consulting defense tech firms, developers and investors this week, and launching work on AI misuse by armed groups. Geiss cited a proposal last month for a U.S.-China AI safety alert system as a sign concerns are \"transcending geopolitical blocs.\""
+        }
+      ]
+    },
+    "politics/politics-meta-ai-terms-publishers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/21/GettyImages-2256677765-scaled.jpg",
+          "cap": "Meta signage at the World Economic Forum in Davos, Jan. 20, 2026. | Ina Fassbender/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Europe's biggest media companies have asked regulators in Brussels and London to stop Meta from introducing new terms they say would let it copy publishers' websites to build AI. In a letter Monday, the European Publishers Council asked commissioners Teresa Ribera and Henna Virkkunen to press Meta to pause the terms before they take effect Oct. 30."
+        },
+        {
+          "t": "p",
+          "x": "A Commission spokesperson said Brussels remains committed to ensuring Meta's practices comply with EU law, including competition rules and the Digital Markets Act."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/21/GettyImages-2185907422-1024x683.jpg",
+          "cap": "CMA chief executive Sarah Cardell. | Leon Neal/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "In the U.K., CMA chief Sarah Cardell told lawmakers the watchdog had asked Meta to explain the changes and would meet the company Wednesday."
+        },
+        {
+          "t": "p",
+          "x": "Meta called a Nieman Lab report on the terms \"false,\" said they aim to pull product information for ads, and later deleted the word \"train.\" Publishers say the revision changes little. No regulator has taken enforcement action."
+        }
+      ]
+    },
+    "politics/politics-ai-datacenter-gridcode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img9.yna.co.kr/photo/yna/YH/2026/08/05/PYH2026080506570001300_P4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Concerns have been raised that a dedicated 'grid code' (grid connection rules) for AI data centers, which the government is pushing to introduce within the year, could act as a new regulation on investment projects."
+        },
+        {
+          "t": "p",
+          "x": "According to Cho Kyoung-tae, a People Power Party lawmaker on the National Assembly's Science, ICT, Broadcasting and Communications Committee, the Ministry of Climate, Energy and Environment launched an AI data center study group in August and decided to prepare a dedicated grid code within the year to keep sharp swings in power use during AI computation from destabilizing the grid. A grid code is a standard requiring facilities to hold voltage rather than disconnect immediately when the grid has a fault; a standard mainly applied to power generation facilities would in effect be extended to large data centers."
+        },
+        {
+          "t": "p",
+          "x": "Cho noted that the LNG direct-trade (PPA) provision of the AIDC special act was dropped from the version passed at the May plenary session due to opposition from the climate ministry, and said industry anxiety is growing because it is unclear which projects, such as GW-scale projects in Ulsan and Donghae, will be covered and when."
+        },
+        {
+          "t": "p",
+          "x": "Cho said, \"Grid safety standards should be in place, but projects already under way should in principle be exempt from the grid code,\" adding that he would review the Ministry of Science and ICT's response plan at the comprehensive audit. The grid code is still at the planning stage and has not been introduced."
+        }
+      ]
+    },
+    "politics/politics-dhs-deepseek-agency-removal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "The US Department of Homeland Security on Monday ordered federal civilian agencies not to use technology products from Chinese AI lab DeepSeek and to remove existing implementations. The order covers \"all DeepSeek and DeepSeek-affiliate products, and third-party products and services developed using DeepSeek implementations.\""
+        },
+        {
+          "t": "p",
+          "x": "The Register says compliance may be tricky: it is unclear what \"developed using\" means, and AI gateways such as OpenRouter or Vercel AI Gateway could route agencies to DeepSeek models without their knowing. DHS did not immediately respond to a request for comment."
+        },
+        {
+          "t": "p",
+          "x": "Lawmakers have characterised DeepSeek as a national security threat over data concerns since DeepSeek-R1 launched in early 2025; DISA, the Navy, NASA, the House and several states already blocked it."
+        },
+        {
+          "t": "p",
+          "x": "Luta Security CEO Katie Moussouris said there are legitimate reasons to keep DeepSeek's app and servers off government systems, but called the third-party clause impractical to verify and said covering US-hosted versions of the models goes too far."
+        }
+      ]
     }
   }
 }

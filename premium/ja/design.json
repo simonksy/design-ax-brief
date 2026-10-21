@@ -9094,6 +9094,137 @@
           "x": "作りたいものが決まっているならプロンプトでそう伝えれば、Notebookはすぐにレビューへ進む。手早く出力したい場合はReviewトグルを使わず、通常どおり生成すればよい。この共同制作機能は今後一週間で、世界中のすべてのGemini Notebookユーザーに順次提供される。"
         }
       ]
+    },
+    "design/design-nvidia-gtc-berlin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NVIDIAはGTC Berlinで、欧州(Europe)の産業リーダーがエンジニアリングと製造の全般で同社のCUDA-XとOmniverseのライブラリ、CosmosとNemotronのオープンモデルを使っていると述べた。工場エージェントを構築するFactory Operations Blueprint(FOX)はアーリーアクセスを開始し、SiemensはFOXエージェントをIntelligence Center Xに統合している。"
+        },
+        {
+          "t": "p",
+          "x": "設計分野では、CUDA-Xがシミュレーションを高速化し、エンジニアは物理的な試作の前に代替案を検討できる。NVIDIAはcuDSSを一般提供した。AutodeskはNVIDIA PhysicsNeMoとWarpを、Autodesk Aliasと統合されたNavPackに組み込み、Bentleyなどのデザイナーがシミュレーションで学習したAIで車両性能を予測し、より速く反復できるよう支援する。"
+        },
+        {
+          "t": "p",
+          "x": "自動車メーカーは、Dassault SystèmesのNemotron-powered LEO & AURA Virtual Companionsを使ってCATIAとSIMULIAのAIエージェントを統括し、車のドアを素早く設計して仮想的に試験している。LeonardoはNeural ConceptとAI-drivenの航空機設計に取り組み、PhysicsXはGB1とヨット設計に取り組む。"
+        },
+        {
+          "t": "p",
+          "x": "Audi、Schaeffler、WandelbotsはOmniverseとIsaacのデジタルツインを使い、工場のフロアを変更する前に生産ラインとロボットを検証している。"
+        }
+      ]
+    },
+    "design/design-windows-designers-code": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoftのプロダクトデザイン担当バイスプレジデント(Vice President of Product Design)、Diego Baca氏によると、Windows 11のデザインの不統一を整えるため、デザイナーがAIの助けを借りてコード修正に貢献しているという。Lockergnome創業者Chris Pirillo氏とのXでのやり取りで語った。"
+        },
+        {
+          "t": "p",
+          "x": "「AIはすでに当社のデザインチームを大きく加速させている。デザイナーが完成度、一貫性、品質を高めるコード修正に直接貢献する場面さえ見られる。わくわくする進歩であり、まだ始まったばかりだ」"
+        },
+        {
+          "t": "p",
+          "x": "Baca氏は使っているAIツールや修正内容、AIがコードをどれだけ書いているかを明かさず、一貫性が整う時期も示さなかった。「進行中の取り組み」だとしている。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+          "cap": "Windows 11の新しいネイティブSearch UI"
+        },
+        {
+          "t": "p",
+          "x": "MicrosoftはWindows 11の一部をWinUI 3で作り直している。Insiderでテスト中の新しいSearch、表示までの中央値が94msのモダンなRunダイアログ、読み込みが25%速いPhotos Editorなどだ。古いMouse Propertiesダイアログのようなレガシーな部分は残っている。"
+        },
+        {
+          "t": "p",
+          "x": "デザイナーは通常、モックアップをエンジニアに渡して待つ。AIで余白の修正を自分でできるデザイナーなら、多くのやり取りを省ける。"
+        }
+      ]
+    },
+    "design/design-slop-skill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+        },
+        {
+          "t": "p",
+          "x": "どのAIに「ランディングページを作って」と頼んでも、巨大な角丸カード、赤紫のグラデーションに重ねたすりガラス、光るネオンボタン、ライトモードのない真っ黒な背景、中央揃えの64pxの見出し、延々と続く単一カラムが出てくる。80+件の返信がついたV2EXのスレッドでも、同じ罪が列挙された。"
+        },
+        {
+          "t": "p",
+          "x": "design-slop-skillは、こうしたパターンを決定論的に検出し、人の手で整えたデフォルトに向けて書き換えるClaude Codeのスキルだ。標準ライブラリのみ(stdlib-only)の二つのPythonスクリプトで動き、LLMもネットワークも依存関係も要らない。"
+        },
+        {
+          "t": "p",
+          "x": "detect.pyはHTML/CSSを走査し、ルールid、ファイル、行と二言語の説明を添えて結果を報告し、重み付けして0–100のslopスコアを出す。fix.pyはその逆を適用する。角丸を10pxに制限し、ブラーを外し、グローを抑え、紫のグラデーションを平坦にし、light-modeブロックを加え、ヒーロー見出しを2.25remの左揃えに抑える。"
+        },
+        {
+          "t": "p",
+          "x": "七つのルール(SLOP-001〜SLOP-007)が不満リストをカバーし、紫の検出は色相ベースだ。スキルなので、エージェントは生成後ではなく生成中に実行する。テーマ切り替えやグリッドの再構成は人に委ねる。MITライセンスで、ユニットテストは23件ある。"
+        }
+      ]
+    },
+    "design/design-just-eat-ai-photos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+          "cap": "Just EatのAI画像生成ツールは、アイルランド(Irish)伝統のベーコンエッグ・ソーダブレッドサンドなど、複数のメニューで不正確な画像を生成した。画像提供：Just Eat UK"
+        },
+        {
+          "t": "p",
+          "x": "フードデリバリーアプリのJust Eatが、ソーダにベーコンと卵が浮かぶ写真をはじめ、メニューに掲載された不正確なAI-generated写真の数々について謝罪した。"
+        },
+        {
+          "t": "p",
+          "x": "英国(U.K.)で事業を展開するJust Eatは、自前の写真を撮影していない飲食店向けにAI-generated画像を試験導入し、それぞれに「AI-generated」と表示していた。The Independentによると、顧客からの苦情を受けて試験を中止した。"
+        },
+        {
+          "t": "p",
+          "x": "ソーダブレッドのサンドイッチを売る北アイルランド(Northern Ireland)の飲食店には、ソーセージやベーコン、目玉焼きがパイントグラスの炭酸飲料に浮かぶ画像が付けられた。ソルト＆ペッパーチップスは塩とコショウに埋もれた普通のフライドポテトとして、チェダーの品目はフォンデュのようなオレンジ色のソースとして表示された。"
+        },
+        {
+          "t": "p",
+          "x": "Just Eatは「AI-enhanced画像を試験してきたが、どんな新技術もそうであるように、最初から常にうまくいくとは限らない」とし、「掲載された不正確な画像についておわびする」と述べた。同社は画像を削除しており、ツールを開発する間は展開を停止している。"
+        }
+      ]
+    },
+    "design/design-lightroom-open-eyes-tap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+          "cap": "モバイルアプリは写真内の閉じた目を検出すると、新しいOpen Eyes Quick Actionツールを表示する。"
+        },
+        {
+          "t": "p",
+          "x": "Adobeは昨日、iOS、iPadOS、Android向けのLightroomモバイル版で、生成AIを使い写真の閉じた目をワンタップで開けるようになったと発表した。写真の中で一人または複数の人が目を閉じているとアプリが検出すると、新しいOpen Eyes Quick Actionが画像上にアイコンとして自動で表示され、新機能にすぐアクセスできる。"
+        },
+        {
+          "t": "p",
+          "x": "被写体の目を開いて、せっかくの良い写真を救う機能は、AdobeのPhotoshop Elementsに十年近く前からある。ただDPReviewが指摘するように、Elementsは被写体の別の写真から差し替え用の目を持ってくるため、二枚の画像の違いによって仕上がりにばらつきがあった。LightroomモバイルのOpen Eyesは代わりに生成AIを使い、差し替えた目が照明やポーズに合うようにする。さらにLightroomライブラリにある同じ人物の他の画像を参照し、目の色、大きさ、形をその人本来のものに正確に合わせる。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "PhotoshopなどほかのAdobeアプリでも独自の生成AIツールで同様の修正はできるが、ワンタップでは済まず、無料でもない。DPReviewによると、Lightroomモバイルアプリの無料版ユーザーはOpen Eyesを二回試すことができ、その後はさまざまなAI-poweredツール用のクレジットを多く含むAdobe Creative Cloudプランへの加入を促される。"
+        }
+      ]
     }
   }
 }

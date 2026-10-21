@@ -1,227 +1,197 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "marketing",
   "cards": [
     {
-      "id": "marketing-chatgpt-ads-auto-enhance",
+      "id": "marketing-pmax-images",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "ChatGPT Ads가\n소재를 기본값으로 고친다",
-      "body": "OpenAI가 시월 30일부터 AI 소재 수정을 켜면 검토 없이 집행될 수 있다.",
-      "mini_headline": "ChatGPT Ads, 소재 자동 편집",
+      "headline": "PMax, 12월 4일부터\n사이트 이미지 기본 추출",
+      "body": "12월 4일부터 AI가 새 PMax 캠페인에 사이트 이미지를 기본으로 넣는다.",
+      "mini_headline": "PMax, 사이트 이미지 기본 추출",
       "tool": "Marketing",
-      "source": "Search Engine Roundtable",
-      "url": "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html",
+      "source": "PPC Land",
+      "url": "https://ppc.land/google-turns-on-pmax-image-extraction-by-default-from-december-4/",
       "accent": "#ff8a3d",
       "motif": "frame",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "OpenAI는 ChatGPT Ads 광고주에게 보낸 이메일에서 2026년 시월 30일 금요일부터 신규·기존 self-serve 캠페인에 “creative enhancements(소재 개선)” 기능을 켠다고 알렸다. 광고주는 그 전에 옵트아웃하거나 Ads Manager에서 언제든 설정을 바꿀 수 있다. 계정·캠페인 단위로 이미 해 둔 옵트아웃은 그대로 남는다."
-          },
-          {
             "t": "img",
-            "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
-            "cap": "Ads Manager에서 켜져 있는 creative enhancements 설정"
+            "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+            "cap": "12월 4일부터 새 Google PMax 캠페인은 Dynamic images를 꺼도 랜딩 페이지 이미지를 가져온다"
           },
           {
             "t": "p",
-            "x": "OpenAI 설명으로는 이 기능이 광고를 대화 맥락과 사용자 관심사에 더 잘 맞추고 버전을 여럿 만드는 수고도 덜어 준다. 기존 광고와 랜딩 페이지 내용으로 헤드라인과 설명을 새로 쓰거나 고치고, 광고 문구를 다른 언어로 옮기며, 이미지 크기를 조정하고 도착 URLs를 최적화할 수 있다. 변형안은 미리 만들어 두거나 대화에 맞춰 실시간으로 생성된다."
+            "x": "Google은 개발자들에게 2026년 12월 4일부터 새로 만드는 모든 Performance Max 캠페인에서 이미지 추출이 기본으로 켜진다고 알렸다. 광고주가 계정 수준에서 동적 이미지를 꺼 둔 계정도 예외가 아니다. 변경은 Google Ads API, Google Ads 인터페이스, Google Ads Editor에 모두 적용된다."
           },
           {
             "t": "p",
-            "x": "이메일에는 “이 기능을 켜면 각 버전을 검토하거나 승인하지 않아도 광고가 자동으로 집행될 수 있습니다”라는 문구도 담겼다."
-          },
-          {
-            "t": "img",
-            "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
-            "cap": "OpenAI가 광고주에게 보낸 이메일"
+            "x": "Google에 따르면 \"이미지 추출 기능을 쓰면 Google AI가 제공된 랜딩 페이지에서 고해상도 이미지를 찾아 크리에이티브 애셋을 보강하고 Search, YouTube, Display, Discover, Gmail, Maps 전반으로 도달 범위를 넓힌다.\""
           },
           {
             "t": "p",
-            "x": "X에서 PPC 마케터들의 반응은 대체로 회의적이었다. 한 마케터는 리드 품질이 낮아 ChatGPT ads 테스트를 이미 접었다고 했다."
+            "x": "기존 Performance Max 캠페인은 지금 설정 그대로다. 추출을 원하지 않는 연동 서비스라면 12월 4일 전에 캠페인 생성 페이로드를 고쳐 GENERATE_IMAGE_EXTRACTION을 OPTED_OUT으로 지정해야 한다. asset_automation_settings는 반복 필드여서 업데이트하면 배열 전체가 바뀌고 TEXT_ASSET_AUTOMATION 같은 다른 설정이 실수로 지워질 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "Google은 광고주에게 랜딩 페이지 이미지의 권리를 갖고 있고 Google이 이를 광고에 써도 된다는 점까지 확인하라고 요구한다. 라이선스 이미지나 제3자 이미지의 책임은 광고주가 지는 셈이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT Ads will rewrite\nyour creative by default",
-          "body": "From Oct 30, OpenAI will auto-enable AI rewrites, translations and resizing of ad creative, which can run unreviewed.",
-          "mini_headline": "ChatGPT Ads auto-edits creative",
+          "headline": "PMax will pull site images\nby default from Dec 4",
+          "body": "From December 4, Google AI will pull landing-page images into new Performance Max campaigns unless each one opts out.",
+          "mini_headline": "PMax pulls site images by default",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "OpenAI emailed ChatGPT Ads advertisers that starting Friday, October 30, 2026, it will enable “creative enhancements” for new and existing self-serve campaigns. Advertisers can opt out before then or change the setting any time in Ads Manager; existing account and campaign-level opt-outs are preserved."
-              },
-              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
-                "cap": "The creative enhancements setting, toggled on in Ads Manager"
+                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+                "cap": "From December 4, new Google PMax campaigns lift landing page images even if Dynamic images is off"
               },
               {
                 "t": "p",
-                "x": "OpenAI says the enhancements make ads more relevant to the conversation and user interests while reducing the work of creating multiple versions. Using the existing ad and landing-page content, it may write new or updated headlines and descriptions, translate ad text into other languages, resize images and optimize destination URLs. Variations may be prepared in advance or created in real time based on the conversation."
+                "x": "Google told developers that, starting December 4, 2026, every newly created Performance Max campaign will have image extraction switched on by default, even in accounts where advertisers turned off dynamic images at the account level. The change applies across the Google Ads API, the Google Ads interface and Google Ads Editor."
               },
               {
                 "t": "p",
-                "x": "“When enabled, these ads can run automatically without requiring you to review or approve each version,” the email says."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
-                "cap": "OpenAI's email to advertisers"
+                "x": "According to Google, \"with image extraction, Google AI scans provided landing pages for high-resolution images to enrich creative assets and expand reach across Search, YouTube, Display, Discover, Gmail, and Maps.\""
               },
               {
                 "t": "p",
-                "x": "Reaction from PPC marketers on X was largely skeptical, with one saying they had already paused a ChatGPT ads test over poor lead quality."
+                "x": "Existing Performance Max campaigns will retain their current configurations. Integrations that don't want extraction must update campaign creation payloads before December 4 to set GENERATE_IMAGE_EXTRACTION to OPTED_OUT. Because asset_automation_settings is a repeated field, an update replaces the whole array, so other settings such as TEXT_ASSET_AUTOMATION can be wiped by accident."
+              },
+              {
+                "t": "p",
+                "x": "Google also asks advertisers to confirm they own the rights to images on their landing pages and allow Google to use them for advertising, placing responsibility for licensed or third-party imagery on the advertiser."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT Ads가\n소재를 기본값으로 고친다",
-          "body": "OpenAI가 시월 30일부터 AI 소재 수정을 켜면 검토 없이 집행될 수 있다.",
-          "mini_headline": "ChatGPT Ads, 소재 자동 편집",
+          "headline": "PMax, 12월 4일부터\n사이트 이미지 기본 추출",
+          "body": "12월 4일부터 AI가 새 PMax 캠페인에 사이트 이미지를 기본으로 넣는다.",
+          "mini_headline": "PMax, 사이트 이미지 기본 추출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "OpenAI는 ChatGPT Ads 광고주에게 보낸 이메일에서 2026년 시월 30일 금요일부터 신규·기존 self-serve 캠페인에 “creative enhancements(소재 개선)” 기능을 켠다고 알렸다. 광고주는 그 전에 옵트아웃하거나 Ads Manager에서 언제든 설정을 바꿀 수 있다. 계정·캠페인 단위로 이미 해 둔 옵트아웃은 그대로 남는다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
-                "cap": "Ads Manager에서 켜져 있는 creative enhancements 설정"
+                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+                "cap": "12월 4일부터 새 Google PMax 캠페인은 Dynamic images를 꺼도 랜딩 페이지 이미지를 가져온다"
               },
               {
                 "t": "p",
-                "x": "OpenAI 설명으로는 이 기능이 광고를 대화 맥락과 사용자 관심사에 더 잘 맞추고 버전을 여럿 만드는 수고도 덜어 준다. 기존 광고와 랜딩 페이지 내용으로 헤드라인과 설명을 새로 쓰거나 고치고, 광고 문구를 다른 언어로 옮기며, 이미지 크기를 조정하고 도착 URLs를 최적화할 수 있다. 변형안은 미리 만들어 두거나 대화에 맞춰 실시간으로 생성된다."
+                "x": "Google은 개발자들에게 2026년 12월 4일부터 새로 만드는 모든 Performance Max 캠페인에서 이미지 추출이 기본으로 켜진다고 알렸다. 광고주가 계정 수준에서 동적 이미지를 꺼 둔 계정도 예외가 아니다. 변경은 Google Ads API, Google Ads 인터페이스, Google Ads Editor에 모두 적용된다."
               },
               {
                 "t": "p",
-                "x": "이메일에는 “이 기능을 켜면 각 버전을 검토하거나 승인하지 않아도 광고가 자동으로 집행될 수 있습니다”라는 문구도 담겼다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
-                "cap": "OpenAI가 광고주에게 보낸 이메일"
+                "x": "Google에 따르면 \"이미지 추출 기능을 쓰면 Google AI가 제공된 랜딩 페이지에서 고해상도 이미지를 찾아 크리에이티브 애셋을 보강하고 Search, YouTube, Display, Discover, Gmail, Maps 전반으로 도달 범위를 넓힌다.\""
               },
               {
                 "t": "p",
-                "x": "X에서 PPC 마케터들의 반응은 대체로 회의적이었다. 한 마케터는 리드 품질이 낮아 ChatGPT ads 테스트를 이미 접었다고 했다."
+                "x": "기존 Performance Max 캠페인은 지금 설정 그대로다. 추출을 원하지 않는 연동 서비스라면 12월 4일 전에 캠페인 생성 페이로드를 고쳐 GENERATE_IMAGE_EXTRACTION을 OPTED_OUT으로 지정해야 한다. asset_automation_settings는 반복 필드여서 업데이트하면 배열 전체가 바뀌고 TEXT_ASSET_AUTOMATION 같은 다른 설정이 실수로 지워질 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 광고주에게 랜딩 페이지 이미지의 권리를 갖고 있고 Google이 이를 광고에 써도 된다는 점까지 확인하라고 요구한다. 라이선스 이미지나 제3자 이미지의 책임은 광고주가 지는 셈이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Adsが\n広告素材を標準で書き換え",
-          "body": "OpenAIは十月30日からAI素材修正を自動で有効にし、未確認で配信され得る。",
-          "mini_headline": "ChatGPT Ads、広告素材を自動編集",
+          "headline": "PMax、12月4日から\nサイト画像を既定で取得",
+          "body": "12月4日から新規PMaxキャンペーンにGoogle AIがサイト画像を既定で取り込む。",
+          "mini_headline": "PMaxがサイト画像を既定で取得",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "OpenAIはChatGPT Adsの広告主にメールで、2026年十月30日金曜日から新規・既存のself-serveキャンペーンで「creative enhancements（クリエイティブ強化）」を有効にすると通知した。広告主はそれまでにオプトアウトするか、Ads Managerでいつでも設定を変更できる。既存のアカウント単位・キャンペーン単位のオプトアウト設定は維持される。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
-                "cap": "Ads Managerでオンになっているcreative enhancementsの設定"
+                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+                "cap": "12月4日から、新しいGoogle PMaxキャンペーンはDynamic imagesがオフでもランディングページの画像を取り込む"
               },
               {
                 "t": "p",
-                "x": "OpenAIによれば、この機能は広告を会話の文脈やユーザーの関心により合ったものにし、複数のバージョンを作る手間を減らす。既存の広告とランディングページの内容をもとに、見出しや説明文を新たに書いたり更新したりし、広告文を他言語に翻訳し、画像サイズを調整し、遷移先URLsを最適化する場合がある。バリエーションは事前に用意されることも、会話に応じてリアルタイムで生成されることもある。"
+                "x": "Googleは開発者向けに、2026年12月4日以降に新規作成されるすべてのPerformance Maxキャンペーンで画像抽出が既定でオンになると告知した。広告主がアカウント単位で動的画像をオフにしている場合も同様だ。この変更はGoogle Ads API、Google Adsの管理画面、Google Ads Editorのすべてに適用される。"
               },
               {
                 "t": "p",
-                "x": "「有効にすると、これらの広告は各バージョンを確認・承認しなくても自動で配信される場合があります」とメールには記されている。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
-                "cap": "OpenAIが広告主に送ったメール"
+                "x": "Googleによると「画像抽出を使うと、Google AIが提供されたランディングページから高解像度の画像を探してクリエイティブアセットを充実させ、Search、YouTube、Display、Discover、Gmail、Mapsにわたってリーチを広げる」という。"
               },
               {
                 "t": "p",
-                "x": "X上のPPCマーケターの反応はおおむね懐疑的で、リードの質が低いためChatGPT adsのテストをすでに停止したという声もあった。"
+                "x": "既存のPerformance Maxキャンペーンは現在の設定を維持する。抽出を望まない連携サービスは、12月4日までにキャンペーン作成のペイロードを更新し、GENERATE_IMAGE_EXTRACTIONをOPTED_OUTに設定する必要がある。asset_automation_settingsは繰り返しフィールドのため、更新すると配列全体が置き換わり、TEXT_ASSET_AUTOMATIONなど他の設定が誤って消えるおそれがある。"
+              },
+              {
+                "t": "p",
+                "x": "Googleはまた、ランディングページ上の画像の権利を保有し、Googleが広告に利用することを認めていると確認するよう広告主に求めている。ライセンス画像や第三者の画像に関する責任は広告主が負うことになる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Ads\n将默认改写广告素材",
-          "body": "OpenAI将于十月30日起默认启用AI改写、翻译和调整广告素材尺寸，且可能未经审核投放。",
-          "mini_headline": "ChatGPT Ads自动编辑广告素材",
+          "headline": "PMax自12月4日起\n默认抓取网站图片",
+          "body": "自12月4日起，Google AI将把着陆页图片默认加入新建PMax广告系列。",
+          "mini_headline": "PMax默认抓取网站图片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "OpenAI通过邮件通知ChatGPT Ads广告主，自2026年十月30日（周五）起，将为新的和现有的self-serve广告系列启用“creative enhancements”（创意增强）功能。广告主可在此之前选择退出，也可随时在Ads Manager中更改设置；已有的账户级和广告系列级退出设置将予以保留。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
-                "cap": "Ads Manager中已开启的creative enhancements设置"
+                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+                "cap": "自12月4日起，即使关闭Dynamic images，新的Google PMax广告系列也会抓取着陆页图片"
               },
               {
                 "t": "p",
-                "x": "OpenAI表示，这项功能能让广告与对话内容和用户兴趣更相关，同时减少制作多个版本的工作量。它可能基于现有广告和落地页内容撰写新的或更新的标题与描述，将广告文字翻译成其他语言，调整图片尺寸，并优化目标URLs。变体可能提前准备，也可能根据对话实时生成。"
+                "x": "Google告知开发者，自2026年12月4日起，所有新建的Performance Max广告系列都将默认开启图片提取，即使广告主已在账户层级关闭动态图片也不例外。这一变化适用于Google Ads API、Google Ads界面和Google Ads Editor。"
               },
               {
                 "t": "p",
-                "x": "邮件写道：“启用后，这些广告可以自动投放，无需您审核或批准每个版本。”"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
-                "cap": "OpenAI发给广告主的邮件"
+                "x": "Google表示：“借助图片提取，Google AI会扫描所提供的着陆页，寻找高分辨率图片来丰富创意素材，并扩大在Search、YouTube、Display、Discover、Gmail和Maps上的覆盖范围。”"
               },
               {
                 "t": "p",
-                "x": "X上PPC营销人员的反应大多持怀疑态度，其中一人表示，由于线索质量不佳，已经暂停了ChatGPT ads测试。"
+                "x": "现有的Performance Max广告系列将保留当前配置。不希望启用提取的集成方须在12月4日前更新广告系列创建请求，将GENERATE_IMAGE_EXTRACTION设为OPTED_OUT。由于asset_automation_settings是重复字段，更新会替换整个数组，TEXT_ASSET_AUTOMATION等其他设置可能被意外清除。"
+              },
+              {
+                "t": "p",
+                "x": "Google还要求广告主确认自己拥有着陆页图片的版权，并允许Google将其用于广告，从而把授权图片或第三方图片的责任交给广告主。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Ads reescribirá\ntus creatividades por defecto",
-          "body": "Desde el 30 de octubre, OpenAI activará ediciones con AI de los anuncios que pueden publicarse sin revisión.",
-          "mini_headline": "ChatGPT Ads edita creatividades solo",
+          "headline": "PMax tomará imágenes del sitio\npor defecto desde el 4 de dic.",
+          "body": "Desde el 4 de diciembre, Google AI tomará imágenes del sitio en cada nueva campaña Performance Max que no se excluya.",
+          "mini_headline": "PMax toma imágenes del sitio por defecto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "OpenAI informó por correo a los anunciantes de ChatGPT Ads que, a partir del viernes 30 de octubre de 2026, activará las “creative enhancements” (mejoras de creatividades) en las campañas self-serve nuevas y existentes. Los anunciantes pueden desactivarlas antes de esa fecha o cambiar la configuración en cualquier momento en Ads Manager; las exclusiones ya existentes a nivel de cuenta y de campaña se mantienen."
-              },
-              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
-                "cap": "La opción de creative enhancements, activada en Ads Manager"
+                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+                "cap": "Desde el 4 de diciembre, las nuevas campañas de Google PMax toman imágenes de las páginas de destino aunque Dynamic images esté desactivado"
               },
               {
                 "t": "p",
-                "x": "OpenAI afirma que estas mejoras hacen que los anuncios sean más relevantes para la conversación y los intereses del usuario, y reducen el trabajo de crear varias versiones. A partir del contenido del anuncio y de la página de destino, puede redactar titulares y descripciones nuevos o actualizados, traducir el texto del anuncio a otros idiomas, cambiar el tamaño de las imágenes y optimizar las URLs de destino. Las variaciones pueden prepararse de antemano o crearse en tiempo real según la conversación."
+                "x": "Google comunicó a los desarrolladores que, a partir del 4 de diciembre de 2026, todas las campañas Performance Max que se creen tendrán activada por defecto la extracción de imágenes, incluso en cuentas donde los anunciantes desactivaron las imágenes dinámicas a nivel de cuenta. El cambio se aplica en la Google Ads API, la interfaz de Google Ads y Google Ads Editor."
               },
               {
                 "t": "p",
-                "x": "“Cuando están activadas, estos anuncios pueden publicarse automáticamente sin que tenga que revisar o aprobar cada versión”, indica el correo."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
-                "cap": "El correo de OpenAI a los anunciantes"
+                "x": "Según Google, \"con la extracción de imágenes, Google AI analiza las páginas de destino proporcionadas en busca de imágenes de alta resolución para enriquecer los recursos creativos y ampliar el alcance en Search, YouTube, Display, Discover, Gmail y Maps\"."
               },
               {
                 "t": "p",
-                "x": "La reacción de los profesionales de PPC en X fue mayoritariamente escéptica; uno dijo que ya había pausado una prueba de ChatGPT ads por la baja calidad de los leads."
+                "x": "Las campañas Performance Max existentes conservarán su configuración actual. Las integraciones que no quieran la extracción deben actualizar las cargas de creación de campañas antes del 4 de diciembre para fijar GENERATE_IMAGE_EXTRACTION en OPTED_OUT. Como asset_automation_settings es un campo repetido, una actualización reemplaza todo el arreglo, de modo que otros ajustes como TEXT_ASSET_AUTOMATION pueden borrarse por accidente."
+              },
+              {
+                "t": "p",
+                "x": "Google también pide a los anunciantes que confirmen que poseen los derechos de las imágenes de sus páginas de destino y que permiten a Google usarlas en publicidad, lo que traslada al anunciante la responsabilidad sobre las imágenes con licencia o de terceros."
               }
             ]
           }
@@ -229,145 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT Ads가\n소재를 기본값으로 고친다",
-          "body": "OpenAI가 시월 30일부터 AI 소재 수정을 켜고 검토 없이 집행될 수 있다.",
-          "mini_headline": "ChatGPT Ads, 소재 자동 편집",
+          "headline": "PMax, 12월 4일부터\n사이트 이미지 기본 추출",
+          "body": "12월 4일부터 AI가 새 PMax 캠페인에 사이트 이미지를 기본으로 넣는다.",
+          "mini_headline": "PMax, 사이트 이미지 기본 추출",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "OpenAI는 ChatGPT Ads 광고주에게 보낸 이메일에서 2026년 시월 30일 금요일부터 신규·기존 self-serve 캠페인에 “creative enhancements(소재 개선)” 기능을 켠다고 알렸다. 광고주는 그 전에 옵트아웃하거나 Ads Manager에서 언제든 설정을 바꿀 수 있고, 기존 계정·캠페인 단위의 옵트아웃 설정은 그대로 유지된다."
-              },
-              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
-                "cap": "Ads Manager에서 켜져 있는 creative enhancements 설정"
+                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+                "cap": "12월 4일부터 새 Google PMax 캠페인은 Dynamic images를 꺼도 랜딩 페이지 이미지를 가져온다"
               },
               {
                 "t": "p",
-                "x": "OpenAI는 이 기능이 광고를 대화 맥락과 사용자 관심사에 더 맞추고, 여러 버전을 만드는 수고를 덜어 준다고 설명한다. 기존 광고와 랜딩 페이지 내용을 바탕으로 헤드라인과 설명을 새로 쓰거나 고치고, 광고 문구를 다른 언어로 번역하며, 이미지 크기를 조정하고 도착 URLs를 최적화할 수 있다. 변형안은 미리 준비되거나 대화에 따라 실시간으로 만들어질 수 있다."
+                "x": "Google은 개발자들에게 2026년 12월 4일부터 새로 만드는 모든 Performance Max 캠페인에서 이미지 추출이 기본으로 켜진다고 알렸다. 광고주가 계정 수준에서 동적 이미지를 꺼 둔 계정도 마찬가지다. 이 변경은 Google Ads API, Google Ads 인터페이스, Google Ads Editor 전반에 적용된다."
               },
               {
                 "t": "p",
-                "x": "“이 기능을 켜면 각 버전을 검토하거나 승인하지 않아도 광고가 자동으로 집행될 수 있습니다”라고 이메일은 밝혔다."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
-                "cap": "OpenAI가 광고주에게 보낸 이메일"
+                "x": "Google에 따르면 \"이미지 추출 기능을 쓰면 Google AI가 제공된 랜딩 페이지에서 고해상도 이미지를 찾아 크리에이티브 애셋을 보강하고 Search, YouTube, Display, Discover, Gmail, Maps 전반으로 도달 범위를 넓힌다.\""
               },
               {
                 "t": "p",
-                "x": "X에서 PPC 마케터들의 반응은 대체로 회의적이었고, 한 마케터는 리드 품질이 낮아 ChatGPT ads 테스트를 이미 중단했다고 했다."
+                "x": "기존 Performance Max 캠페인은 현재 설정을 그대로 유지한다. 추출을 원하지 않는 연동 서비스는 12월 4일 전에 캠페인 생성 페이로드를 수정해 GENERATE_IMAGE_EXTRACTION을 OPTED_OUT으로 지정해야 한다. asset_automation_settings는 반복 필드라서 업데이트하면 배열 전체가 바뀌고, TEXT_ASSET_AUTOMATION 같은 다른 설정이 실수로 지워질 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "Google은 광고주에게 랜딩 페이지 이미지의 권리를 보유하고 있으며 Google이 이를 광고에 쓰도록 허용한다는 점도 확인하라고 요구한다. 라이선스 이미지나 제3자 이미지에 대한 책임을 광고주에게 지우는 셈이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Adsが\n広告素材を標準で書き換え",
-          "body": "OpenAIは十月30日からAI素材修正を自動で有効にし、未確認で配信され得る。",
-          "mini_headline": "ChatGPT Ads、広告素材を自動編集",
+          "headline": "PMax、12月4日から\nサイト画像を既定で取得",
+          "body": "12月4日から新規PMaxキャンペーンにGoogle AIがサイト画像を既定で取り込む。",
+          "mini_headline": "PMaxがサイト画像を既定で取得",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "OpenAIはChatGPT Adsの広告主にメールで、2026年十月30日金曜日から新規・既存のself-serveキャンペーンで「creative enhancements（クリエイティブ強化）」を有効にすると通知した。広告主はそれまでにオプトアウトするか、Ads Managerでいつでも設定を変更できる。既存のアカウント単位・キャンペーン単位のオプトアウト設定は維持される。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
-                "cap": "Ads Managerでオンになっているcreative enhancementsの設定"
+                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+                "cap": "12月4日から、新しいGoogle PMaxキャンペーンはDynamic imagesがオフでもランディングページの画像を取り込む"
               },
               {
                 "t": "p",
-                "x": "OpenAIによれば、この機能は広告を会話の文脈やユーザーの関心により合ったものにし、複数のバージョンを作る手間を減らす。既存の広告とランディングページの内容をもとに、見出しや説明文を新たに書いたり更新したりし、広告文を他言語に翻訳し、画像サイズを調整し、遷移先URLsを最適化する場合がある。バリエーションは事前に用意されることも、会話に応じてリアルタイムで生成されることもある。"
+                "x": "Googleは開発者向けに、2026年12月4日以降に新規作成されるすべてのPerformance Maxキャンペーンで画像抽出が既定でオンになると告知した。広告主がアカウント単位で動的画像をオフにしている場合も同様だ。この変更はGoogle Ads API、Google Adsの管理画面、Google Ads Editorのすべてに適用される。"
               },
               {
                 "t": "p",
-                "x": "「有効にすると、これらの広告は各バージョンを確認・承認しなくても自動で配信される場合があります」とメールには記されている。"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
-                "cap": "OpenAIが広告主に送ったメール"
+                "x": "Googleによると「画像抽出を使うと、Google AIが提供されたランディングページから高解像度の画像を探してクリエイティブアセットを充実させ、Search、YouTube、Display、Discover、Gmail、Mapsにわたってリーチを広げる」という。"
               },
               {
                 "t": "p",
-                "x": "X上のPPCマーケターの反応はおおむね懐疑的で、リードの質が低いためChatGPT adsのテストをすでに停止したという声もあった。"
+                "x": "既存のPerformance Maxキャンペーンは現在の設定を維持する。抽出を望まない連携サービスは、12月4日までにキャンペーン作成のペイロードを更新し、GENERATE_IMAGE_EXTRACTIONをOPTED_OUTに設定する必要がある。asset_automation_settingsは繰り返しフィールドのため、更新すると配列全体が置き換わり、TEXT_ASSET_AUTOMATIONなど他の設定が誤って消えるおそれがある。"
+              },
+              {
+                "t": "p",
+                "x": "Googleはまた、ランディングページ上の画像の権利を保有し、Googleが広告に利用することを認めていると確認するよう広告主に求めている。ライセンス画像や第三者の画像に関する責任は広告主が負うことになる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Ads\n将默认改写广告素材",
-          "body": "OpenAI将于十月30日起默认启用AI改写、翻译和调整广告素材尺寸，且可能未经审核投放。",
-          "mini_headline": "ChatGPT Ads自动编辑广告素材",
+          "headline": "PMax自12月4日起\n默认抓取网站图片",
+          "body": "自12月4日起，Google AI将把着陆页图片默认加入新建PMax广告系列。",
+          "mini_headline": "PMax默认抓取网站图片",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "OpenAI通过邮件通知ChatGPT Ads广告主，自2026年十月30日（周五）起，将为新的和现有的self-serve广告系列启用“creative enhancements”（创意增强）功能。广告主可在此之前选择退出，也可随时在Ads Manager中更改设置；已有的账户级和广告系列级退出设置将予以保留。"
-              },
-              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
-                "cap": "Ads Manager中已开启的creative enhancements设置"
+                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+                "cap": "自12月4日起，即使关闭Dynamic images，新的Google PMax广告系列也会抓取着陆页图片"
               },
               {
                 "t": "p",
-                "x": "OpenAI表示，这项功能能让广告与对话内容和用户兴趣更相关，同时减少制作多个版本的工作量。它可能基于现有广告和落地页内容撰写新的或更新的标题与描述，将广告文字翻译成其他语言，调整图片尺寸，并优化目标URLs。变体可能提前准备，也可能根据对话实时生成。"
+                "x": "Google告知开发者，自2026年12月4日起，所有新建的Performance Max广告系列都将默认开启图片提取，即使广告主已在账户层级关闭动态图片也不例外。这一变化适用于Google Ads API、Google Ads界面和Google Ads Editor。"
               },
               {
                 "t": "p",
-                "x": "邮件写道：“启用后，这些广告可以自动投放，无需您审核或批准每个版本。”"
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
-                "cap": "OpenAI发给广告主的邮件"
+                "x": "Google表示：“借助图片提取，Google AI会扫描所提供的着陆页，寻找高分辨率图片来丰富创意素材，并扩大在Search、YouTube、Display、Discover、Gmail和Maps上的覆盖范围。”"
               },
               {
                 "t": "p",
-                "x": "X上PPC营销人员的反应大多持怀疑态度，其中一人表示，由于线索质量不佳，已经暂停了ChatGPT ads测试。"
+                "x": "现有的Performance Max广告系列将保留当前配置。不希望启用提取的集成方须在12月4日前更新广告系列创建请求，将GENERATE_IMAGE_EXTRACTION设为OPTED_OUT。由于asset_automation_settings是重复字段，更新会替换整个数组，TEXT_ASSET_AUTOMATION等其他设置可能被意外清除。"
+              },
+              {
+                "t": "p",
+                "x": "Google还要求广告主确认自己拥有着陆页图片的版权，并允许Google将其用于广告，从而把授权图片或第三方图片的责任交给广告主。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Ads reescribirá\ntus creatividades por defecto",
-          "body": "Desde el 30 de octubre, OpenAI activará ediciones con AI de los anuncios que pueden publicarse sin revisión.",
-          "mini_headline": "ChatGPT Ads edita creatividades solo",
+          "headline": "PMax tomará imágenes del sitio\npor defecto desde el 4 de dic.",
+          "body": "Desde el 4 de diciembre, Google AI tomará imágenes del sitio en cada nueva campaña Performance Max que no se excluya.",
+          "mini_headline": "PMax toma imágenes del sitio por defecto",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "OpenAI informó por correo a los anunciantes de ChatGPT Ads que, a partir del viernes 30 de octubre de 2026, activará las “creative enhancements” (mejoras de creatividades) en las campañas self-serve nuevas y existentes. Los anunciantes pueden desactivarlas antes de esa fecha o cambiar la configuración en cualquier momento en Ads Manager; las exclusiones ya existentes a nivel de cuenta y de campaña se mantienen."
-              },
-              {
                 "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
-                "cap": "La opción de creative enhancements, activada en Ads Manager"
+                "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+                "cap": "Desde el 4 de diciembre, las nuevas campañas de Google PMax toman imágenes de las páginas de destino aunque Dynamic images esté desactivado"
               },
               {
                 "t": "p",
-                "x": "OpenAI afirma que estas mejoras hacen que los anuncios sean más relevantes para la conversación y los intereses del usuario, y reducen el trabajo de crear varias versiones. A partir del contenido del anuncio y de la página de destino, puede redactar titulares y descripciones nuevos o actualizados, traducir el texto del anuncio a otros idiomas, cambiar el tamaño de las imágenes y optimizar las URLs de destino. Las variaciones pueden prepararse de antemano o crearse en tiempo real según la conversación."
+                "x": "Google comunicó a los desarrolladores que, a partir del 4 de diciembre de 2026, todas las campañas Performance Max que se creen tendrán activada por defecto la extracción de imágenes, incluso en cuentas donde los anunciantes desactivaron las imágenes dinámicas a nivel de cuenta. El cambio se aplica en la Google Ads API, la interfaz de Google Ads y Google Ads Editor."
               },
               {
                 "t": "p",
-                "x": "“Cuando están activadas, estos anuncios pueden publicarse automáticamente sin que tenga que revisar o aprobar cada versión”, indica el correo."
-              },
-              {
-                "t": "img",
-                "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
-                "cap": "El correo de OpenAI a los anunciantes"
+                "x": "Según Google, \"con la extracción de imágenes, Google AI analiza las páginas de destino proporcionadas en busca de imágenes de alta resolución para enriquecer los recursos creativos y ampliar el alcance en Search, YouTube, Display, Discover, Gmail y Maps\"."
               },
               {
                 "t": "p",
-                "x": "La reacción de los profesionales de PPC en X fue mayoritariamente escéptica; uno dijo que ya había pausado una prueba de ChatGPT ads por la baja calidad de los leads."
+                "x": "Las campañas Performance Max existentes conservarán su configuración actual. Las integraciones que no quieran la extracción deben actualizar las cargas de creación de campañas antes del 4 de diciembre para fijar GENERATE_IMAGE_EXTRACTION en OPTED_OUT. Como asset_automation_settings es un campo repetido, una actualización reemplaza todo el arreglo, de modo que otros ajustes como TEXT_ASSET_AUTOMATION pueden borrarse por accidente."
+              },
+              {
+                "t": "p",
+                "x": "Google también pide a los anunciantes que confirmen que poseen los derechos de las imágenes de sus páginas de destino y que permiten a Google usarlas en publicidad, lo que traslada al anunciante la responsabilidad sobre las imágenes con licencia o de terceros."
               }
             ]
           }
@@ -375,15 +325,15 @@
       }
     },
     {
-      "id": "marketing-gemini-small-business-tools",
+      "id": "marketing-walmart-agents",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Gemini로 잇는\nShopify·Canva",
-      "body": "Gemini 새 페이지가 Google Ads·Shopify·Canva를 묶는다.",
-      "mini_headline": "Gemini, 소상공인 도구 추가",
+      "headline": "Walmart, 쇼핑 대행\nAI 에이전트 규칙 마련",
+      "body": "Walmart가 구매 승인과 지출 한도를 두고 AI 쇼핑 에이전트에 문을 연다.",
+      "mini_headline": "Walmart, AI 쇼핑 에이전트에 문 열어",
       "tool": "Marketing",
-      "source": "Google",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+      "source": "Adweek",
+      "url": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -391,197 +341,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+            "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+            "cap": "Walmart가 에이전트 쇼핑을 지원하는 새 기능을 내놓는다."
           },
           {
             "t": "p",
-            "x": "Google에 따르면 소상공인 수천만 명이 이미 Gemini로 상품 아이디어를 짜고 고객 피드백을 관리하며 성과를 분석한다. Google은 이제 브랜드 구축, 재무 분석, 고객 인사이트 파악을 한곳에 모은 비즈니스 전용 랜딩 페이지를 내놓는다."
+            "x": "Walmart가 고객 대신 쇼핑하는 에이전트에 문을 연다. Amazon이 Meta의 Muse AI 어시스턴트가 같은 시도를 하자 막은 지 한 달 만이다."
           },
           {
             "t": "p",
-            "x": "Gemini는 Google Business Profile, Google Ads, Google Workspace는 물론 Adobe, Canva, Dropbox, Shopify, Wix, Zoho, Xero 같은 서드파티 앱과도 연결된다."
+            "x": "Walmart는 한 달 안에 Agent Profiles를 내놓는다. 쇼핑객은 AI 에이전트마다 전용 프로필로 권한을 주고 그 구매 내역을 따로 본다. 구매할 때마다 승인을 받게 하거나 지출 한도 안에서 에이전트가 알아서 사도록 맡겨도 된다. Walmart Agent Gateway 베타는 MCP로 에이전트에게 소비자용 웹사이트보다 빠르고 안정적인 쇼핑 경로를 열어 준다."
           },
           {
             "t": "p",
-            "x": "사업자는 웹사이트, 브랜드 키트, 폰트, 색상 팔레트를 올려 브랜드에 맞는 시각물을 만들 수 있다. Gemini는 Google의 최신 이미지 모델 Nano Banana 2.1로 제품 출시나 진행 중인 캠페인용 시각물을 처음부터 끝까지 만든다. 스타일도 기억하니 가이드라인을 다시 올릴 필요가 없다."
+            "x": "Walmart 규칙상 반품 정책은 그대로이고 에이전트 구매는 기본적으로 고객 승인을 거친다. 에이전트는 쇼핑객이 의도한 범위를 넘을 수 없고 결제 카드 정보도 받지 않는다. 약관을 어기는 에이전트는 차단된다."
           },
           {
             "t": "p",
-            "x": "어지러운 스프레드시트, 영수증, 구매 기록도 Gemini가 재무 그래픽과 인터랙티브 모델로 바꿔 준다. Google은 상품 설명과 소셜 게시물을 쓰는 데서 하루 두세 시간을 아낀다는 Bordeaux(보르도)의 한 도예가 사례를 들었다."
-          },
-          {
-            "t": "p",
-            "x": "랜딩 페이지와 마케팅·재무 기능, 새로 연결되는 앱은 앞으로 며칠 안에 전 세계 모든 Gemini 앱 사용자에게 차례로 배포된다."
+            "x": "Walmart Connect의 Ryan Mayward는 대화가 키워드보다 많은 것을 드러낸다며 \"기회는 고객이 무엇을 검색하는지뿐 아니라 무엇을 이루려 하는지에 맞춰 관련성을 갖추는 데 있다\"고 말했다. 마켓플레이스 SVP Manish Joneja는 AI 기반(AI-powered) 쇼핑에서는 정확한 상품 정보, 가격, 배송 약속이 한층 더 중요해진다고 봤다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Gemini links Google Ads,\nShopify and Canva",
-          "body": "Google's new Gemini business page links Google Ads, Shopify and Canva and turns brand kits into on-brand visuals.",
-          "mini_headline": "Gemini adds small-business tools",
+          "headline": "Walmart sets rules for AI\nagents that shop for you",
+          "body": "Walmart opens to AI shopping agents with purchase approvals and spending limits, after Amazon blocked Meta's Muse.",
+          "mini_headline": "Walmart opens to AI shoppers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+                "cap": "Walmart is launching new features to support agentic shopping."
               },
               {
                 "t": "p",
-                "x": "Google says tens of millions of small business owners already use Gemini to brainstorm products, manage customer feedback and analyze performance. It is now launching a dedicated business landing page: a central hub to build a brand, analyze finances and understand customer insights."
+                "x": "Walmart is opening the door to agents that shop on customers' behalf, a month after Amazon blocked Meta's Muse AI assistant from doing the same."
               },
               {
                 "t": "p",
-                "x": "Gemini can connect to Google Business Profile, Google Ads and Google Workspace, plus third-party apps including Adobe, Canva, Dropbox, Shopify, Wix, Zoho and Xero."
+                "x": "Within the next month, Walmart will launch Agent Profiles, letting shoppers authorize each AI agent with a dedicated profile and see its purchases separately. Shoppers can require approval for purchases or let an agent buy within a spending limit. A beta of Walmart Agent Gateway uses MCP to give agents a faster, more reliable way to shop than the consumer website."
               },
               {
                 "t": "p",
-                "x": "For on-brand visuals, businesses can upload their website, brand kit, fonts or color palettes. Paired with Nano Banana 2.1, Google's latest image model, Gemini delivers end-to-end visuals for product launches or ongoing campaigns and retains the style so owners don't have to re-upload guidelines."
+                "x": "Walmart's rules say returns still apply, customers must approve agent purchases by default, agents cannot do more than the shopper intends and don't receive payment card information. Agents that don't follow the terms will be blocked."
               },
               {
                 "t": "p",
-                "x": "Gemini can also turn messy spreadsheets, receipts and purchase records into financial graphics and interactive models. Google highlights owners such as a ceramicist in Bordeaux who saves two to three hours a day on product descriptions and social posts."
-              },
-              {
-                "t": "p",
-                "x": "The landing page, marketing and finance skills and new connected apps begin rolling out globally to all Gemini app users in the coming days."
+                "x": "Walmart Connect's Ryan Mayward said conversations reveal more than keywords: \"The opportunity is to be relevant to what a customer is trying to accomplish, not just what they're searching for.\" Marketplace SVP Manish Joneja said accurate product information, prices and delivery promises become even more important for AI-powered shopping."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Gemini로 잇는\nShopify·Canva",
-          "body": "Gemini 새 페이지가 Google Ads·Shopify·Canva를 묶는다.",
-          "mini_headline": "Gemini, 소상공인 도구 추가",
+          "headline": "Walmart, 쇼핑 대행\nAI 에이전트 규칙 마련",
+          "body": "Walmart가 구매 승인과 지출 한도를 두고 AI 쇼핑 에이전트에 문을 연다.",
+          "mini_headline": "Walmart, AI 쇼핑 에이전트에 문 열어",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+                "cap": "Walmart가 에이전트 쇼핑을 지원하는 새 기능을 내놓는다."
               },
               {
                 "t": "p",
-                "x": "Google에 따르면 소상공인 수천만 명이 이미 Gemini로 상품 아이디어를 짜고 고객 피드백을 관리하며 성과를 분석한다. Google은 이제 브랜드 구축, 재무 분석, 고객 인사이트 파악을 한곳에 모은 비즈니스 전용 랜딩 페이지를 내놓는다."
+                "x": "Walmart가 고객 대신 쇼핑하는 에이전트에 문을 연다. Amazon이 Meta의 Muse AI 어시스턴트가 같은 시도를 하자 막은 지 한 달 만이다."
               },
               {
                 "t": "p",
-                "x": "Gemini는 Google Business Profile, Google Ads, Google Workspace는 물론 Adobe, Canva, Dropbox, Shopify, Wix, Zoho, Xero 같은 서드파티 앱과도 연결된다."
+                "x": "Walmart는 한 달 안에 Agent Profiles를 내놓는다. 쇼핑객은 AI 에이전트마다 전용 프로필로 권한을 주고 그 구매 내역을 따로 본다. 구매할 때마다 승인을 받게 하거나 지출 한도 안에서 에이전트가 알아서 사도록 맡겨도 된다. Walmart Agent Gateway 베타는 MCP로 에이전트에게 소비자용 웹사이트보다 빠르고 안정적인 쇼핑 경로를 열어 준다."
               },
               {
                 "t": "p",
-                "x": "사업자는 웹사이트, 브랜드 키트, 폰트, 색상 팔레트를 올려 브랜드에 맞는 시각물을 만들 수 있다. Gemini는 Google의 최신 이미지 모델 Nano Banana 2.1로 제품 출시나 진행 중인 캠페인용 시각물을 처음부터 끝까지 만든다. 스타일도 기억하니 가이드라인을 다시 올릴 필요가 없다."
+                "x": "Walmart 규칙상 반품 정책은 그대로이고 에이전트 구매는 기본적으로 고객 승인을 거친다. 에이전트는 쇼핑객이 의도한 범위를 넘을 수 없고 결제 카드 정보도 받지 않는다. 약관을 어기는 에이전트는 차단된다."
               },
               {
                 "t": "p",
-                "x": "어지러운 스프레드시트, 영수증, 구매 기록도 Gemini가 재무 그래픽과 인터랙티브 모델로 바꿔 준다. Google은 상품 설명과 소셜 게시물을 쓰는 데서 하루 두세 시간을 아낀다는 Bordeaux(보르도)의 한 도예가 사례를 들었다."
-              },
-              {
-                "t": "p",
-                "x": "랜딩 페이지와 마케팅·재무 기능, 새로 연결되는 앱은 앞으로 며칠 안에 전 세계 모든 Gemini 앱 사용자에게 차례로 배포된다."
+                "x": "Walmart Connect의 Ryan Mayward는 대화가 키워드보다 많은 것을 드러낸다며 \"기회는 고객이 무엇을 검색하는지뿐 아니라 무엇을 이루려 하는지에 맞춰 관련성을 갖추는 데 있다\"고 말했다. 마켓플레이스 SVP Manish Joneja는 AI 기반(AI-powered) 쇼핑에서는 정확한 상품 정보, 가격, 배송 약속이 한층 더 중요해진다고 봤다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Shopify・Canvaと\nGeminiが連携",
-          "body": "Geminiの新ページがGoogle Ads・Shopify・Canvaと連携する。",
-          "mini_headline": "Gemini、小規模事業者向け機能",
+          "headline": "Walmart、買い物代行の\nAIエージェントに規則",
+          "body": "Walmartは購入承認と支出上限を設け、AIショッピングエージェントを受け入れる。",
+          "mini_headline": "WalmartがAI買い物客に門戸",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+                "cap": "Walmartはエージェントによるショッピングを支える新機能を投入する。"
               },
               {
                 "t": "p",
-                "x": "Googleによると、すでに数千万人の小規模事業者がGeminiを使って商品のアイデア出しや顧客フィードバックの管理、業績分析を行っている。同社は今回、ブランド構築、財務分析、顧客インサイトの把握を一か所で行えるビジネス専用のランディングページを立ち上げる。"
+                "x": "Walmartは、顧客に代わって買い物をするエージェントに門戸を開く。AmazonがMetaのMuse AIアシスタントによる同様の買い物をブロックしてから、ひと月後のことだ。"
               },
               {
                 "t": "p",
-                "x": "GeminiはGoogle Business Profile、Google Ads、Google Workspaceに加え、Adobe、Canva、Dropbox、Shopify、Wix、Zoho、Xeroといったサードパーティアプリとも連携できる。"
+                "x": "Walmartは今後ひと月以内にAgent Profilesを開始する。買い物客はAIエージェントごとに専用プロフィールで権限を与え、その購入を個別に確認できる。購入ごとに承認を求めることも、支出上限の範囲でエージェントに購入を任せることもできる。Walmart Agent GatewayのベータはMCPを使い、消費者向けウェブサイトより速く確実に買い物できる手段をエージェントに提供する。"
               },
               {
                 "t": "p",
-                "x": "ブランドに沿ったビジュアルのために、事業者はウェブサイトやブランドキット、フォント、カラーパレットをアップロードできる。Googleの最新画像モデルNano Banana 2.1と組み合わせ、Geminiは商品発売や継続中のキャンペーン向けのビジュアルを一貫して制作し、スタイルを保持するのでガイドラインを再アップロードする必要はない。"
+                "x": "Walmartのルールでは、返品は従来どおり適用され、エージェントによる購入は既定で顧客の承認が必要となる。エージェントは買い物客の意図を超える行動はできず、決済カード情報も受け取らない。規約に従わないエージェントはブロックされる。"
               },
               {
                 "t": "p",
-                "x": "Geminiは散らかったスプレッドシートや領収書、購入記録を財務グラフィックやインタラクティブなモデルに変えることもできる。Googleは、商品説明やSNS投稿の作成で1日二、三時間を節約しているBordeaux（ボルドー）の陶芸家などの事例を紹介している。"
-              },
-              {
-                "t": "p",
-                "x": "ランディングページ、マーケティング・財務のスキル、新たな連携アプリは、今後数日のうちに世界中のすべてのGeminiアプリ利用者へ順次提供される。"
+                "x": "Walmart ConnectのRyan Mayward氏は、会話はキーワード以上のものを明らかにすると述べ、「チャンスは、顧客が何を検索しているかだけでなく、何を成し遂げようとしているかに関連性を持たせることにある」と語った。マーケットプレイス担当SVPのManish Joneja氏は、AIを活用した(AI-powered)ショッピングでは正確な商品情報、価格、配送の約束がいっそう重要になると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini打通\nShopify与Canva",
-          "body": "Gemini新商家页面可连接Google Ads、Shopify和Canva。",
-          "mini_headline": "Gemini新增小企业工具",
+          "headline": "Walmart为替你购物的\nAI代理立规矩",
+          "body": "Amazon封堵Meta的Muse后，Walmart以审批和消费上限向AI购物代理开放。",
+          "mini_headline": "Walmart向AI购物代理开放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+                "cap": "Walmart推出支持代理式购物的新功能。"
               },
               {
                 "t": "p",
-                "x": "Google表示，已有数千万小企业主使用Gemini构思产品、管理客户反馈和分析业绩。现在它推出专门的商家落地页，作为打造品牌、分析财务和洞察客户的中心枢纽。"
+                "x": "Walmart正向代替顾客购物的代理敞开大门，而就在一个月前，Amazon阻止了Meta的Muse AI助手做同样的事。"
               },
               {
                 "t": "p",
-                "x": "Gemini可连接Google Business Profile、Google Ads和Google Workspace，以及Adobe、Canva、Dropbox、Shopify、Wix、Zoho和Xero等第三方应用。"
+                "x": "Walmart将在未来一个月内推出Agent Profiles，让购物者为每个AI代理授权专属档案，并单独查看其购买记录。购物者可以要求每笔购买都需批准，也可以让代理在消费上限内自行购买。Walmart Agent Gateway测试版借助MCP，为代理提供比面向消费者的网站更快、更可靠的购物方式。"
               },
               {
                 "t": "p",
-                "x": "为了生成符合品牌调性的视觉内容，商家可以上传网站、品牌套件、字体或配色方案。搭配Google最新的图像模型Nano Banana 2.1，Gemini可为产品发布或持续进行的营销活动提供端到端的视觉素材，并保留风格，商家无需重新上传规范。"
+                "x": "按照Walmart的规则，退货照常适用，代理购买默认须经顾客批准，代理不得超出购物者的意图行事，也不会获得支付卡信息。不遵守条款的代理将被屏蔽。"
               },
               {
                 "t": "p",
-                "x": "Gemini还能把杂乱的电子表格、收据和购买记录变成财务图表和交互式模型。Google举例提到Bordeaux（波尔多）的一位陶艺师，其每天在撰写产品描述和社交帖子上节省两三个小时。"
-              },
-              {
-                "t": "p",
-                "x": "落地页、营销与财务技能以及新的连接应用将在未来几天内面向全球所有Gemini应用用户陆续推出。"
+                "x": "Walmart Connect的Ryan Mayward表示，对话透露的信息比关键词更多：“机会在于贴合顾客想要完成的事情，而不仅仅是他们在搜索什么。”Marketplace高级副总裁（SVP）Manish Joneja表示，对于AI驱动（AI-powered）的购物而言，准确的商品信息、价格和配送承诺变得更加重要。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini conecta Google Ads,\nShopify y Canva",
-          "body": "La nueva página de negocios de Gemini conecta Google Ads, Shopify y Canva y convierte kits de marca en visuales.",
-          "mini_headline": "Gemini suma herramientas para pymes",
+          "headline": "Walmart fija reglas para agentes\nde IA que compran por ti",
+          "body": "Walmart admite agentes de compra con IA, con aprobaciones y topes de gasto, tras el veto de Amazon a Muse de Meta.",
+          "mini_headline": "Walmart se abre a los compradores IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+                "cap": "Walmart lanza nuevas funciones para dar soporte a las compras con agentes."
               },
               {
                 "t": "p",
-                "x": "Google afirma que decenas de millones de propietarios de pequeñas empresas ya usan Gemini para idear productos, gestionar los comentarios de clientes y analizar resultados. Ahora lanza una página de inicio dedicada a negocios: un centro único para construir una marca, analizar las finanzas y entender a los clientes."
+                "x": "Walmart abre la puerta a los agentes que compran en nombre de los clientes, un mes después de que Amazon impidiera al asistente Muse AI de Meta hacer lo mismo."
               },
               {
                 "t": "p",
-                "x": "Gemini puede conectarse con Google Business Profile, Google Ads y Google Workspace, además de aplicaciones de terceros como Adobe, Canva, Dropbox, Shopify, Wix, Zoho y Xero."
+                "x": "En el próximo mes, Walmart lanzará Agent Profiles, que permitirá a los compradores autorizar a cada agente de IA con un perfil propio y ver sus compras por separado. Los compradores podrán exigir aprobación para las compras o dejar que un agente compre dentro de un límite de gasto. Una beta de Walmart Agent Gateway usa MCP para ofrecer a los agentes una forma de comprar más rápida y fiable que el sitio web para consumidores."
               },
               {
                 "t": "p",
-                "x": "Para crear visuales acordes con la marca, las empresas pueden subir su sitio web, su kit de marca, sus fuentes o sus paletas de color. Junto con Nano Banana 2.1, el modelo de imagen más reciente de Google, Gemini produce visuales completos para lanzamientos de productos o campañas en curso y conserva el estilo, de modo que no hace falta volver a subir las pautas."
+                "x": "Según las reglas de Walmart, las devoluciones siguen aplicándose, los clientes deben aprobar por defecto las compras de los agentes, los agentes no pueden hacer más de lo que pretende el comprador y no reciben información de tarjetas de pago. Los agentes que no cumplan los términos serán bloqueados."
               },
               {
                 "t": "p",
-                "x": "Gemini también puede convertir hojas de cálculo desordenadas, recibos y registros de compra en gráficos financieros y modelos interactivos. Google destaca casos como el de una persona ceramista de Bordeaux que ahorra de dos a tres horas al día en descripciones de productos y publicaciones en redes sociales."
-              },
-              {
-                "t": "p",
-                "x": "La página de inicio, las funciones de marketing y finanzas y las nuevas aplicaciones conectadas empezarán a llegar en los próximos días a todos los usuarios de la app de Gemini en todo el mundo."
+                "x": "Ryan Mayward, de Walmart Connect, dijo que las conversaciones revelan más que las palabras clave: \"La oportunidad está en ser relevante para lo que un cliente intenta lograr, no solo para lo que busca\". El SVP de Marketplace, Manish Joneja, afirmó que la información precisa de productos, los precios y las promesas de entrega cobran aún más importancia en las compras impulsadas por IA (AI-powered)."
               }
             ]
           }
@@ -589,137 +521,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Gemini와 연결된\nShopify·Canva",
-          "body": "Gemini 새 페이지가 Google Ads·Shopify·Canva를 잇는다.",
-          "mini_headline": "Gemini, 소상공인 도구 추가",
+          "headline": "Walmart, 쇼핑 대행\nAI 에이전트 규칙 마련",
+          "body": "Walmart가 구매 승인과 지출 한도를 두고 AI 쇼핑 에이전트에 문을 연다.",
+          "mini_headline": "Walmart, AI 쇼핑 에이전트에 문 열어",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+                "cap": "Walmart가 에이전트 쇼핑을 지원하는 새 기능을 내놓는다."
               },
               {
                 "t": "p",
-                "x": "Google에 따르면 이미 수천만 명의 소상공인이 Gemini로 상품 아이디어를 짜고, 고객 피드백을 관리하고, 성과를 분석한다. Google은 이제 브랜드 구축, 재무 분석, 고객 인사이트 파악을 한곳에서 하는 비즈니스 전용 랜딩 페이지를 내놓는다."
+                "x": "Walmart가 고객 대신 쇼핑하는 에이전트에 문을 연다. Amazon이 Meta의 Muse AI 어시스턴트의 같은 시도를 막은 지 한 달 만이다."
               },
               {
                 "t": "p",
-                "x": "Gemini는 Google Business Profile, Google Ads, Google Workspace는 물론 Adobe, Canva, Dropbox, Shopify, Wix, Zoho, Xero 같은 서드파티 앱과도 연결된다."
+                "x": "Walmart는 앞으로 한 달 안에 Agent Profiles를 출시한다. 쇼핑객은 AI 에이전트마다 전용 프로필로 권한을 주고 그 구매 내역을 따로 볼 수 있다. 구매마다 승인을 요구하거나 지출 한도 안에서 에이전트가 사도록 맡길 수도 있다. Walmart Agent Gateway 베타는 MCP를 이용해 에이전트에게 소비자용 웹사이트보다 빠르고 안정적인 쇼핑 경로를 제공한다."
               },
               {
                 "t": "p",
-                "x": "브랜드에 맞는 시각물을 위해 사업자는 웹사이트, 브랜드 키트, 폰트, 색상 팔레트를 올릴 수 있다. Gemini는 Google의 최신 이미지 모델 Nano Banana 2.1과 함께 제품 출시나 진행 중인 캠페인용 시각물을 처음부터 끝까지 만들고, 스타일을 기억해 가이드라인을 다시 올릴 필요가 없다."
+                "x": "Walmart 규칙에 따르면 반품은 그대로 적용되고, 에이전트 구매는 기본적으로 고객 승인을 거쳐야 한다. 에이전트는 쇼핑객이 의도한 범위를 넘어설 수 없고 결제 카드 정보도 받지 않는다. 약관을 지키지 않는 에이전트는 차단된다."
               },
               {
                 "t": "p",
-                "x": "Gemini는 어지러운 스프레드시트, 영수증, 구매 기록도 재무 그래픽과 인터랙티브 모델로 바꿔 준다. Google은 상품 설명과 소셜 게시물 작성에서 하루 두세 시간을 아낀다는 Bordeaux(보르도)의 도예가 같은 사례를 소개했다."
-              },
-              {
-                "t": "p",
-                "x": "랜딩 페이지, 마케팅·재무 기능, 새로 연결되는 앱은 앞으로 며칠 안에 전 세계 모든 Gemini 앱 사용자에게 순차 배포된다."
+                "x": "Walmart Connect의 Ryan Mayward는 대화가 키워드보다 많은 것을 드러낸다며 \"기회는 고객이 무엇을 검색하는지뿐 아니라 무엇을 이루려 하는지에 맞춰 관련성을 갖추는 데 있다\"고 말했다. 마켓플레이스 SVP Manish Joneja는 AI 기반(AI-powered) 쇼핑에서는 정확한 상품 정보, 가격, 배송 약속이 한층 더 중요해진다고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Shopify・Canvaと\nGeminiが連携",
-          "body": "Geminiの新ページがGoogle Ads・Shopify・Canvaと連携する。",
-          "mini_headline": "Gemini、小規模事業者向け機能",
+          "headline": "Walmart、買い物代行の\nAIエージェントに規則",
+          "body": "Walmartは購入承認と支出上限を設け、AIショッピングエージェントを受け入れる。",
+          "mini_headline": "WalmartがAI買い物客に門戸",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+                "cap": "Walmartはエージェントによるショッピングを支える新機能を投入する。"
               },
               {
                 "t": "p",
-                "x": "Googleによると、すでに数千万人の小規模事業者がGeminiを使って商品のアイデア出しや顧客フィードバックの管理、業績分析を行っている。同社は今回、ブランド構築、財務分析、顧客インサイトの把握を一か所で行えるビジネス専用のランディングページを立ち上げる。"
+                "x": "Walmartは、顧客に代わって買い物をするエージェントに門戸を開く。AmazonがMetaのMuse AIアシスタントによる同様の買い物をブロックしてから、ひと月後のことだ。"
               },
               {
                 "t": "p",
-                "x": "GeminiはGoogle Business Profile、Google Ads、Google Workspaceに加え、Adobe、Canva、Dropbox、Shopify、Wix、Zoho、Xeroといったサードパーティアプリとも連携できる。"
+                "x": "Walmartは今後ひと月以内にAgent Profilesを開始する。買い物客はAIエージェントごとに専用プロフィールで権限を与え、その購入を個別に確認できる。購入ごとに承認を求めることも、支出上限の範囲でエージェントに購入を任せることもできる。Walmart Agent GatewayのベータはMCPを使い、消費者向けウェブサイトより速く確実に買い物できる手段をエージェントに提供する。"
               },
               {
                 "t": "p",
-                "x": "ブランドに沿ったビジュアルのために、事業者はウェブサイトやブランドキット、フォント、カラーパレットをアップロードできる。Googleの最新画像モデルNano Banana 2.1と組み合わせ、Geminiは商品発売や継続中のキャンペーン向けのビジュアルを一貫して制作し、スタイルを保持するのでガイドラインを再アップロードする必要はない。"
+                "x": "Walmartのルールでは、返品は従来どおり適用され、エージェントによる購入は既定で顧客の承認が必要となる。エージェントは買い物客の意図を超える行動はできず、決済カード情報も受け取らない。規約に従わないエージェントはブロックされる。"
               },
               {
                 "t": "p",
-                "x": "Geminiは散らかったスプレッドシートや領収書、購入記録を財務グラフィックやインタラクティブなモデルに変えることもできる。Googleは、商品説明やSNS投稿の作成で1日二、三時間を節約しているBordeaux（ボルドー）の陶芸家などの事例を紹介している。"
-              },
-              {
-                "t": "p",
-                "x": "ランディングページ、マーケティング・財務のスキル、新たな連携アプリは、今後数日のうちに世界中のすべてのGeminiアプリ利用者へ順次提供される。"
+                "x": "Walmart ConnectのRyan Mayward氏は、会話はキーワード以上のものを明らかにすると述べ、「チャンスは、顧客が何を検索しているかだけでなく、何を成し遂げようとしているかに関連性を持たせることにある」と語った。マーケットプレイス担当SVPのManish Joneja氏は、AIを活用した(AI-powered)ショッピングでは正確な商品情報、価格、配送の約束がいっそう重要になると述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini打通\nShopify与Canva",
-          "body": "Gemini新商家页面可连接Google Ads、Shopify和Canva。",
-          "mini_headline": "Gemini新增小企业工具",
+          "headline": "Walmart为替你购物的\nAI代理立规矩",
+          "body": "Amazon封堵Meta的Muse后，Walmart以审批和消费上限向AI购物代理开放。",
+          "mini_headline": "Walmart向AI购物代理开放",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+                "cap": "Walmart推出支持代理式购物的新功能。"
               },
               {
                 "t": "p",
-                "x": "Google表示，已有数千万小企业主使用Gemini构思产品、管理客户反馈和分析业绩。现在它推出专门的商家落地页，作为打造品牌、分析财务和洞察客户的中心枢纽。"
+                "x": "Walmart正向代替顾客购物的代理敞开大门，而就在一个月前，Amazon阻止了Meta的Muse AI助手做同样的事。"
               },
               {
                 "t": "p",
-                "x": "Gemini可连接Google Business Profile、Google Ads和Google Workspace，以及Adobe、Canva、Dropbox、Shopify、Wix、Zoho和Xero等第三方应用。"
+                "x": "Walmart将在未来一个月内推出Agent Profiles，让购物者为每个AI代理授权专属档案，并单独查看其购买记录。购物者可以要求每笔购买都需批准，也可以让代理在消费上限内自行购买。Walmart Agent Gateway测试版借助MCP，为代理提供比面向消费者的网站更快、更可靠的购物方式。"
               },
               {
                 "t": "p",
-                "x": "为了生成符合品牌调性的视觉内容，商家可以上传网站、品牌套件、字体或配色方案。搭配Google最新的图像模型Nano Banana 2.1，Gemini可为产品发布或持续进行的营销活动提供端到端的视觉素材，并保留风格，商家无需重新上传规范。"
+                "x": "按照Walmart的规则，退货照常适用，代理购买默认须经顾客批准，代理不得超出购物者的意图行事，也不会获得支付卡信息。不遵守条款的代理将被屏蔽。"
               },
               {
                 "t": "p",
-                "x": "Gemini还能把杂乱的电子表格、收据和购买记录变成财务图表和交互式模型。Google举例提到Bordeaux（波尔多）的一位陶艺师，其每天在撰写产品描述和社交帖子上节省两三个小时。"
-              },
-              {
-                "t": "p",
-                "x": "落地页、营销与财务技能以及新的连接应用将在未来几天内面向全球所有Gemini应用用户陆续推出。"
+                "x": "Walmart Connect的Ryan Mayward表示，对话透露的信息比关键词更多：“机会在于贴合顾客想要完成的事情，而不仅仅是他们在搜索什么。”Marketplace高级副总裁（SVP）Manish Joneja表示，对于AI驱动（AI-powered）的购物而言，准确的商品信息、价格和配送承诺变得更加重要。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Gemini conecta Google Ads,\nShopify y Canva",
-          "body": "La nueva página de negocios de Gemini conecta Google Ads, Shopify y Canva y convierte kits de marca en visuales.",
-          "mini_headline": "Gemini suma herramientas para pymes",
+          "headline": "Walmart fija reglas para agentes\nde IA que compran por ti",
+          "body": "Walmart admite agentes de compra con IA, con aprobaciones y topes de gasto, tras el veto de Amazon a Muse de Meta.",
+          "mini_headline": "Walmart se abre a los compradores IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+                "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+                "cap": "Walmart lanza nuevas funciones para dar soporte a las compras con agentes."
               },
               {
                 "t": "p",
-                "x": "Google afirma que decenas de millones de propietarios de pequeñas empresas ya usan Gemini para idear productos, gestionar los comentarios de clientes y analizar resultados. Ahora lanza una página de inicio dedicada a negocios: un centro único para construir una marca, analizar las finanzas y entender a los clientes."
+                "x": "Walmart abre la puerta a los agentes que compran en nombre de los clientes, un mes después de que Amazon impidiera al asistente Muse AI de Meta hacer lo mismo."
               },
               {
                 "t": "p",
-                "x": "Gemini puede conectarse con Google Business Profile, Google Ads y Google Workspace, además de aplicaciones de terceros como Adobe, Canva, Dropbox, Shopify, Wix, Zoho y Xero."
+                "x": "En el próximo mes, Walmart lanzará Agent Profiles, que permitirá a los compradores autorizar a cada agente de IA con un perfil propio y ver sus compras por separado. Los compradores podrán exigir aprobación para las compras o dejar que un agente compre dentro de un límite de gasto. Una beta de Walmart Agent Gateway usa MCP para ofrecer a los agentes una forma de comprar más rápida y fiable que el sitio web para consumidores."
               },
               {
                 "t": "p",
-                "x": "Para crear visuales acordes con la marca, las empresas pueden subir su sitio web, su kit de marca, sus fuentes o sus paletas de color. Junto con Nano Banana 2.1, el modelo de imagen más reciente de Google, Gemini produce visuales completos para lanzamientos de productos o campañas en curso y conserva el estilo, de modo que no hace falta volver a subir las pautas."
+                "x": "Según las reglas de Walmart, las devoluciones siguen aplicándose, los clientes deben aprobar por defecto las compras de los agentes, los agentes no pueden hacer más de lo que pretende el comprador y no reciben información de tarjetas de pago. Los agentes que no cumplan los términos serán bloqueados."
               },
               {
                 "t": "p",
-                "x": "Gemini también puede convertir hojas de cálculo desordenadas, recibos y registros de compra en gráficos financieros y modelos interactivos. Google destaca casos como el de una persona ceramista de Bordeaux que ahorra de dos a tres horas al día en descripciones de productos y publicaciones en redes sociales."
-              },
-              {
-                "t": "p",
-                "x": "La página de inicio, las funciones de marketing y finanzas y las nuevas aplicaciones conectadas empezarán a llegar en los próximos días a todos los usuarios de la app de Gemini en todo el mundo."
+                "x": "Ryan Mayward, de Walmart Connect, dijo que las conversaciones revelan más que las palabras clave: \"La oportunidad está en ser relevante para lo que un cliente intenta lograr, no solo para lo que busca\". El SVP de Marketplace, Manish Joneja, afirmó que la información precisa de productos, los precios y las promesas de entrega cobran aún más importancia en las compras impulsadas por IA (AI-powered)."
               }
             ]
           }
@@ -727,15 +647,287 @@
       }
     },
     {
-      "id": "marketing-ai-slop-recipe-mfa-sites",
+      "id": "marketing-chatgpt-ads-markets",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 슬롭 레시피 사이트에\n브랜드 광고가 붙었다",
-      "body": "AI 레시피 사이트 2,100여 곳에 Fortune 500 광고가 실렸다.",
-      "mini_headline": "AI 슬롭 사이트에 브랜드 광고",
+      "headline": "ChatGPT Ads,\n26개국 추가 진출",
+      "body": "ChatGPT Ads가 광고주 10만 곳을 넘기고 26개국으로 넓힌다.",
+      "mini_headline": "ChatGPT Ads, 26개국 추가",
       "tool": "Marketing",
       "source": "AdExchanger",
-      "url": "https://www.adexchanger.com/programmatic/ai-slop-sites-are-on-the-rise-is-ad-tech-ready-for-its-new-mfa-challenge/",
+      "url": "https://www.adexchanger.com/marketers/chatgpt-ads-is-expanding-to-new-markets-and-exploring-new-ad-formats/",
+      "accent": "#f5a623",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+          },
+          {
+            "t": "p",
+            "x": "OpenAI는 수요일 ChatGPT Ads를 26개 국가로 새로 넓힌다고 발표했다. 그중 14개국이 아르헨티나, 칠레, 콜롬비아 등 라틴아메리카 국가다. OpenAI는 출시 후 약 8개월 동안 10만 곳이 넘는 광고주가 이 플랫폼에 광고를 집행했다고도 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "다만 활성 광고주가 10만 곳이라는 말은 아니다. The Information은 New Street Research를 인용해 10월 초 기준 활성 광고주를 약 6만 곳으로 보도했다. ChatGPT는 올해 초 연간 환산 광고 매출 10억 달러를 발표했는데 회사가 처음 내다본 매출 24억 달러에는 못 미친다. 광고주 상당수는 예산을 더 늘리기 전에 확실한 성과 측정부터 원한다. OpenAI는 확장과 함께 측정 기능도 만들고 있다고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "OpenAI는 이달 초 이미지를 더 크게 쓰는 시각형 광고 형식을 발표했다. ChatGPT로 이미지를 만드는 사람들에게 노출되며 미국에서 먼저 테스트했다. OpenAI는 \"추가 형식을 모색 중\"이라면서도 자세히 설명하지 않았다. 광고는 앞으로도 ChatGPT의 답변과 구분된다는 게 OpenAI의 설명이다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "ChatGPT Ads expands to\n26 more countries",
+          "body": "ChatGPT Ads expands to 26 new countries after passing 100,000 advertisers, with new ad formats still in the works.",
+          "mini_headline": "ChatGPT Ads adds 26 countries",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI announced on Wednesday that ChatGPT Ads will expand into 26 new countries. Fourteen of them are in Latin America, including Argentina, Chile and Colombia. OpenAI also said more than 100,000 advertisers have run ads on the platform in the roughly eight months since launch."
+              },
+              {
+                "t": "p",
+                "x": "That is not the same as 100,000 active advertisers: The Information reported about 60,000 active advertisers as of early October, citing New Street Research. Earlier this year ChatGPT announced a $1 billion annualized ads run rate, short of the company's initial $2.4 billion revenue prediction. Many advertisers want stronger measurement before committing more budget, and OpenAI says it is building measurement alongside the expansion."
+              },
+              {
+                "t": "p",
+                "x": "Earlier this month OpenAI announced a more visual ad format with larger images, served to people using ChatGPT for image generation and tested first in the US. OpenAI is \"exploring additional formats\" but declined to elaborate. OpenAI says its ads remain distinct from ChatGPT's responses."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "ChatGPT Ads,\n26개국 추가 진출",
+          "body": "ChatGPT Ads가 광고주 10만 곳을 넘기고 26개국으로 넓힌다.",
+          "mini_headline": "ChatGPT Ads, 26개국 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI는 수요일 ChatGPT Ads를 26개 국가로 새로 넓힌다고 발표했다. 그중 14개국이 아르헨티나, 칠레, 콜롬비아 등 라틴아메리카 국가다. OpenAI는 출시 후 약 8개월 동안 10만 곳이 넘는 광고주가 이 플랫폼에 광고를 집행했다고도 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "다만 활성 광고주가 10만 곳이라는 말은 아니다. The Information은 New Street Research를 인용해 10월 초 기준 활성 광고주를 약 6만 곳으로 보도했다. ChatGPT는 올해 초 연간 환산 광고 매출 10억 달러를 발표했는데 회사가 처음 내다본 매출 24억 달러에는 못 미친다. 광고주 상당수는 예산을 더 늘리기 전에 확실한 성과 측정부터 원한다. OpenAI는 확장과 함께 측정 기능도 만들고 있다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI는 이달 초 이미지를 더 크게 쓰는 시각형 광고 형식을 발표했다. ChatGPT로 이미지를 만드는 사람들에게 노출되며 미국에서 먼저 테스트했다. OpenAI는 \"추가 형식을 모색 중\"이라면서도 자세히 설명하지 않았다. 광고는 앞으로도 ChatGPT의 답변과 구분된다는 게 OpenAI의 설명이다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ChatGPT Ads\n新たに26か国へ拡大",
+          "body": "ChatGPT Adsは広告主10万社を超え、26か国に拡大し、新たな広告形式も準備中だ。",
+          "mini_headline": "ChatGPT Adsが26か国を追加",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIは水曜日、ChatGPT Adsを新たに26か国へ拡大すると発表した。うち14か国はアルゼンチン、チリ、コロンビアなどラテンアメリカの国々だ。OpenAIはまた、開始から約8か月で10万社を超える広告主がこのプラットフォームに広告を出したと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "ただし、これはアクティブな広告主が10万社という意味ではない。The InformationはNew Street Researchを引用し、10月上旬時点のアクティブな広告主を約6万社と報じた。ChatGPTは今年初め、広告の年換算ランレートが10億ドルに達したと発表したが、当初予測していた売上24億ドルには届いていない。多くの広告主は予算を増やす前により確かな効果測定を求めており、OpenAIは拡大と並行して測定機能を構築していると述べている。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIは今月初め、より大きな画像を使ったビジュアル重視の広告形式を発表した。画像生成にChatGPTを使う人々に表示されるもので、まず米国でテストされた。OpenAIは「追加の形式を検討している」としたが、詳細は明かさなかった。OpenAIは、広告はChatGPTの回答とは引き続き区別されるとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ChatGPT Ads\n新增26个国家",
+          "body": "ChatGPT Ads广告主突破10万家后扩展至26个新国家，新广告形式仍在开发中。",
+          "mini_headline": "ChatGPT Ads新增26个国家",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI周三宣布，ChatGPT Ads将扩展至26个新国家，其中14个位于拉丁美洲，包括阿根廷、智利和哥伦比亚。OpenAI还表示，上线约八个月以来，已有超过10万家广告主在该平台投放过广告。"
+              },
+              {
+                "t": "p",
+                "x": "这并不等于有10万家活跃广告主：The Information援引New Street Research的数据报道，截至10月初，活跃广告主约为6万家。今年早些时候，ChatGPT宣布广告年化收入达到10亿美元，低于公司最初预测的24亿美元收入。许多广告主希望在追加预算前看到更有力的效果衡量，OpenAI表示正在扩张的同时搭建衡量能力。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI本月初发布了一种视觉效果更强、图片更大的广告形式，面向使用ChatGPT生成图片的用户投放，并率先在美国测试。OpenAI表示正在“探索更多形式”，但未透露细节。OpenAI称其广告仍与ChatGPT的回答保持区分。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "ChatGPT Ads se expande\na 26 países más",
+          "body": "ChatGPT Ads llega a 26 nuevos países tras superar los 100.000 anunciantes y aún prepara nuevos formatos de anuncio.",
+          "mini_headline": "ChatGPT Ads suma 26 países",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI anunció el miércoles que ChatGPT Ads se expandirá a 26 nuevos países. Catorce de ellos están en América Latina, entre ellos Argentina, Chile y Colombia. OpenAI también dijo que más de 100.000 anunciantes han publicado anuncios en la plataforma en los aproximadamente ocho meses transcurridos desde su lanzamiento."
+              },
+              {
+                "t": "p",
+                "x": "Eso no equivale a 100.000 anunciantes activos: The Information informó de unos 60.000 anunciantes activos a principios de octubre, citando a New Street Research. A principios de este año, ChatGPT anunció un ritmo anualizado de ingresos publicitarios de 1.000 millones de dólares, por debajo de la previsión inicial de ingresos de la compañía, de 2.400 millones de dólares. Muchos anunciantes quieren una medición más sólida antes de comprometer más presupuesto, y OpenAI dice que está desarrollando la medición a la vez que la expansión."
+              },
+              {
+                "t": "p",
+                "x": "A principios de este mes, OpenAI presentó un formato publicitario más visual, con imágenes más grandes, que se muestra a quienes usan ChatGPT para generar imágenes y que se probó primero en EE. UU. OpenAI está \"explorando formatos adicionales\", pero declinó dar más detalles. OpenAI asegura que sus anuncios siguen siendo distintos de las respuestas de ChatGPT."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "ChatGPT Ads,\n26개국 추가 진출",
+          "body": "ChatGPT Ads가 광고주 10만 곳을 넘기고 26개국으로 넓힌다.",
+          "mini_headline": "ChatGPT Ads, 26개국 추가",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI는 수요일 ChatGPT Ads를 26개 국가로 새로 확대한다고 발표했다. 이 가운데 14개국은 아르헨티나, 칠레, 콜롬비아를 포함한 라틴아메리카 국가다. OpenAI는 출시 후 약 8개월 동안 10만 곳이 넘는 광고주가 이 플랫폼에 광고를 집행했다고도 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "다만 이는 활성 광고주 10만 곳과 같은 의미가 아니다. The Information은 New Street Research를 인용해 10월 초 기준 활성 광고주를 약 6만 곳으로 보도했다. ChatGPT는 올해 초 연간 환산 광고 매출 10억 달러를 발표했는데, 이는 회사가 처음 예측한 매출 24억 달러에 못 미친다. 많은 광고주가 예산을 더 늘리기 전에 더 확실한 성과 측정을 원하며, OpenAI는 확장과 함께 측정 기능을 구축하고 있다고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "OpenAI는 이달 초 더 큰 이미지를 쓰는 시각적 광고 형식을 발표했다. 이미지 생성에 ChatGPT를 쓰는 사람들에게 노출되며 미국에서 먼저 테스트했다. OpenAI는 \"추가 형식을 모색 중\"이라면서도 자세한 설명은 하지 않았다. OpenAI는 광고가 ChatGPT의 답변과 계속 구분된다고 말했다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ChatGPT Ads\n新たに26か国へ拡大",
+          "body": "ChatGPT Adsは広告主10万社を超え、26か国に拡大し、新たな広告形式も準備中だ。",
+          "mini_headline": "ChatGPT Adsが26か国を追加",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIは水曜日、ChatGPT Adsを新たに26か国へ拡大すると発表した。うち14か国はアルゼンチン、チリ、コロンビアなどラテンアメリカの国々だ。OpenAIはまた、開始から約8か月で10万社を超える広告主がこのプラットフォームに広告を出したと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "ただし、これはアクティブな広告主が10万社という意味ではない。The InformationはNew Street Researchを引用し、10月上旬時点のアクティブな広告主を約6万社と報じた。ChatGPTは今年初め、広告の年換算ランレートが10億ドルに達したと発表したが、当初予測していた売上24億ドルには届いていない。多くの広告主は予算を増やす前により確かな効果測定を求めており、OpenAIは拡大と並行して測定機能を構築していると述べている。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAIは今月初め、より大きな画像を使ったビジュアル重視の広告形式を発表した。画像生成にChatGPTを使う人々に表示されるもので、まず米国でテストされた。OpenAIは「追加の形式を検討している」としたが、詳細は明かさなかった。OpenAIは、広告はChatGPTの回答とは引き続き区別されるとしている。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "ChatGPT Ads\n新增26个国家",
+          "body": "ChatGPT Ads广告主突破10万家后扩展至26个新国家，新广告形式仍在开发中。",
+          "mini_headline": "ChatGPT Ads新增26个国家",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI周三宣布，ChatGPT Ads将扩展至26个新国家，其中14个位于拉丁美洲，包括阿根廷、智利和哥伦比亚。OpenAI还表示，上线约八个月以来，已有超过10万家广告主在该平台投放过广告。"
+              },
+              {
+                "t": "p",
+                "x": "这并不等于有10万家活跃广告主：The Information援引New Street Research的数据报道，截至10月初，活跃广告主约为6万家。今年早些时候，ChatGPT宣布广告年化收入达到10亿美元，低于公司最初预测的24亿美元收入。许多广告主希望在追加预算前看到更有力的效果衡量，OpenAI表示正在扩张的同时搭建衡量能力。"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI本月初发布了一种视觉效果更强、图片更大的广告形式，面向使用ChatGPT生成图片的用户投放，并率先在美国测试。OpenAI表示正在“探索更多形式”，但未透露细节。OpenAI称其广告仍与ChatGPT的回答保持区分。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "ChatGPT Ads se expande\na 26 países más",
+          "body": "ChatGPT Ads llega a 26 nuevos países tras superar los 100.000 anunciantes y aún prepara nuevos formatos de anuncio.",
+          "mini_headline": "ChatGPT Ads suma 26 países",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+              },
+              {
+                "t": "p",
+                "x": "OpenAI anunció el miércoles que ChatGPT Ads se expandirá a 26 nuevos países. Catorce de ellos están en América Latina, entre ellos Argentina, Chile y Colombia. OpenAI también dijo que más de 100.000 anunciantes han publicado anuncios en la plataforma en los aproximadamente ocho meses transcurridos desde su lanzamiento."
+              },
+              {
+                "t": "p",
+                "x": "Eso no equivale a 100.000 anunciantes activos: The Information informó de unos 60.000 anunciantes activos a principios de octubre, citando a New Street Research. A principios de este año, ChatGPT anunció un ritmo anualizado de ingresos publicitarios de 1.000 millones de dólares, por debajo de la previsión inicial de ingresos de la compañía, de 2.400 millones de dólares. Muchos anunciantes quieren una medición más sólida antes de comprometer más presupuesto, y OpenAI dice que está desarrollando la medición a la vez que la expansión."
+              },
+              {
+                "t": "p",
+                "x": "A principios de este mes, OpenAI presentó un formato publicitario más visual, con imágenes más grandes, que se muestra a quienes usan ChatGPT para generar imágenes y que se probó primero en EE. UU. OpenAI está \"explorando formatos adicionales\", pero declinó dar más detalles. OpenAI asegura que sus anuncios siguen siendo distintos de las respuestas de ChatGPT."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "marketing-yelp-lead-agent",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Yelp의 30달러 AI\n에이전트, 리드 응대·선별",
+      "body": "Yelp AI가 월 30달러에 이사·지붕·배관 업체 견적 문의에 답하고 선별한다.",
+      "mini_headline": "Yelp의 30달러 리드 에이전트",
+      "tool": "Marketing",
+      "source": "PPC Land",
+      "url": "https://ppc.land/yelp-charges-30-a-month-for-ai-agent-that-answers-and-qualifies-leads/",
       "accent": "#7928ca",
       "motif": "frame",
       "full": {
@@ -743,203 +935,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
+            "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+            "cap": "Yelp는 Request a Quote 리드에 답하고 선별하는 AI 에이전트에 월 30달러를 받는다"
           },
           {
             "t": "p",
-            "x": "공급망 분석 업체 DecryptAds가 화요일 공개한 연구에 따르면 광고용 사이트(made-for-advertising, MFA) 공식을 따르는 AI 생성(AI-generated) 레시피 사이트가 2,100곳을 넘는다. 공들이지 않은(low-effort) 페이지에 광고를 겹겹이 까는 방식이다. 이런 사이트에 대형 우량(blue-chip) 브랜드와 Fortune 500 브랜드 광고가 실렸다."
+            "x": "Smart Lead Reply는 Yelp 메시지 스레드 안에서 Request a Quote 문의에 답하고 검증하는 AI 에이전트로, 다음 달 출시되며 요금은 월 30달러다. 2026년 10월 20일 공개된 Yelp의 Fall Product Release에서 비즈니스용 기능의 중심에 있다."
           },
           {
             "t": "p",
-            "x": "사이트마다 꾸며낸 저자가 나온다. 저자 소개(“about”) 페이지에는 AI가 만든 아바타, 스톡 이미지, 실제 셰프에게서 도용한 사진은 물론 Emily Blunt 같은 유명인의 합성 이미지까지 쓰였다. 이번 달 Google Search 업데이트는 꾸며낸 크리에이터 프로필을 기만의 한 형태로 규정했는데, 그 기준에 어긋나는 일이다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
-            "cap": "Emily Blunt의 편집된 이미지를 쓴 레시피 사이트 저자 페이지 (DecryptAds 보고서)"
+            "x": "에이전트는 Yelp for Business 계정과 비즈니스 페이지 정보로 질문에 답하고 프로젝트 세부 사항을 모아 리드를 선별한다. 업주는 예약 링크, 서비스, 가격이나 프로모션, 에이전트가 물어볼 질문을 추가할 수 있다. 선별을 통과한 리드에는 에이전트가 예약 링크를 보내고, 대화는 모두 Yelp 받은편지함에 남는다."
           },
           {
             "t": "p",
-            "x": "DecryptAds는 ads.txt와 sellers.json 연결 고리를 따라가며 러시아, 중국, 키프로스, 튀르키예, UAE 등 “위험 지역”의 애드테크 업체 약 300곳을 추적했고 최종 2,116개 사이트를 찾아냈다. 범죄의 증거는 찾지 못했다고 덧붙였다."
+            "x": "판매 대상은 이사, 지붕, 배관, 가정 청소, 시공, 전기 업체 같은 업종이다. Yelp는 정확도 수치를 내놓지 않았고 업주가 메시지를 보내기 전에 승인할 수 있는지도 밝히지 않았다."
           },
           {
             "t": "p",
-            "x": "SSPs는 반발했다. 1,631개 사이트의 파트너로 지목된 HBAgency는 보고서가 제시한 연결 관계를 반박했다. MonetizeMore는 자사 이름이 붙은 11개 사이트를 수익화하지 않는다고 했고, Ezoic은 콘텐츠를 AI가 만들었는지가 아니라 품질로 판단해야 한다고 맞섰다."
+            "x": "이번 릴리스에는 Yelp Assistant의 OpenTable 예약, 식당에 전화해 대기 시간을 묻는 AI 전화 에이전트 Check for Me, Yelp Audiences 디스플레이 캠페인용 의도 기반 크리에이티브도 들어 있다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI slop recipe sites\nare carrying brand ads",
-          "body": "A DecryptAds study found over 2,100 AI-generated recipe sites with fake authors running Fortune 500 programmatic ads.",
-          "mini_headline": "AI slop sites draw brand ads",
+          "headline": "Yelp's $30 AI agent answers\nand qualifies leads",
+          "body": "Yelp's Smart Lead Reply agent answers and qualifies quote requests for movers, roofers and plumbers for $30 a month.",
+          "mini_headline": "Yelp's $30 lead agent",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+                "cap": "Yelp charges $30 a month for an AI agent that answers and qualifies Request a Quote leads"
               },
               {
                 "t": "p",
-                "x": "A study released Tuesday by supply chain intelligence firm DecryptAds uncovered more than 2,100 AI-generated recipe sites following the made-for-advertising (MFA) playbook: overlapping ad placements on low-effort pages. Ads from major blue-chip and Fortune 500 brands appeared on them."
+                "x": "Smart Lead Reply, an AI agent that answers and vets Request a Quote inquiries inside Yelp's message threads, will cost $30 a month when it rolls out next month. It is the business-facing centerpiece of Yelp's Fall Product Release, published October 20, 2026."
               },
               {
                 "t": "p",
-                "x": "The sites feature fabricated authors whose “about” pages use AI-generated avatars, stock images, stolen photos of real chefs or even altered images of celebrities such as Emily Blunt. That runs afoul of a Google Search update this month calling fabricated creator profiles a form of deception."
-              },
-              {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
-                "cap": "A recipe site's author page using an edited image of Emily Blunt (DecryptAds report)"
+                "x": "The agent draws on information in the Yelp for Business account and business page to answer questions, gather project details and qualify leads. Owners can add a scheduling link, services, pricing or promotions, and questions for the agent to ask. Once a lead is qualified, the agent shares the scheduling link, and every conversation is logged in the Yelp inbox."
               },
               {
                 "t": "p",
-                "x": "DecryptAds found the sites by tracing ads.txt and sellers.json links to about 300 ad tech firms in “risky geos” such as Russia, China, Cyprus, Turkey and the UAE, ending with 2,116 sites. It says it found no evidence of crimes."
+                "x": "It is sold to eligible categories such as movers, roofers, plumbers, home cleaners, contractors and electricians. Yelp gives no accuracy figures and doesn't say whether owners can approve messages before they go out."
               },
               {
                 "t": "p",
-                "x": "SSPs pushed back: HBAgency, named as a partner for 1,631 sites, disputed the report's links; MonetizeMore said it doesn't monetize the 11 sites flagged for it; Ezoic argued content should be judged by quality, not whether AI made it."
+                "x": "The release also adds OpenTable reservations to Yelp Assistant, Check for Me, an AI phone agent that calls restaurants to ask about wait times, and intent-based creative for Yelp Audiences display campaigns."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 슬롭 레시피 사이트에\n브랜드 광고가 붙었다",
-          "body": "AI 레시피 사이트 2,100여 곳에 Fortune 500 광고가 실렸다.",
-          "mini_headline": "AI 슬롭 사이트에 브랜드 광고",
+          "headline": "Yelp의 30달러 AI\n에이전트, 리드 응대·선별",
+          "body": "Yelp AI가 월 30달러에 이사·지붕·배관 업체 견적 문의에 답하고 선별한다.",
+          "mini_headline": "Yelp의 30달러 리드 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+                "cap": "Yelp는 Request a Quote 리드에 답하고 선별하는 AI 에이전트에 월 30달러를 받는다"
               },
               {
                 "t": "p",
-                "x": "공급망 분석 업체 DecryptAds가 화요일 공개한 연구에 따르면 광고용 사이트(made-for-advertising, MFA) 공식을 따르는 AI 생성(AI-generated) 레시피 사이트가 2,100곳을 넘는다. 공들이지 않은(low-effort) 페이지에 광고를 겹겹이 까는 방식이다. 이런 사이트에 대형 우량(blue-chip) 브랜드와 Fortune 500 브랜드 광고가 실렸다."
+                "x": "Smart Lead Reply는 Yelp 메시지 스레드 안에서 Request a Quote 문의에 답하고 검증하는 AI 에이전트로, 다음 달 출시되며 요금은 월 30달러다. 2026년 10월 20일 공개된 Yelp의 Fall Product Release에서 비즈니스용 기능의 중심에 있다."
               },
               {
                 "t": "p",
-                "x": "사이트마다 꾸며낸 저자가 나온다. 저자 소개(“about”) 페이지에는 AI가 만든 아바타, 스톡 이미지, 실제 셰프에게서 도용한 사진은 물론 Emily Blunt 같은 유명인의 합성 이미지까지 쓰였다. 이번 달 Google Search 업데이트는 꾸며낸 크리에이터 프로필을 기만의 한 형태로 규정했는데, 그 기준에 어긋나는 일이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
-                "cap": "Emily Blunt의 편집된 이미지를 쓴 레시피 사이트 저자 페이지 (DecryptAds 보고서)"
+                "x": "에이전트는 Yelp for Business 계정과 비즈니스 페이지 정보로 질문에 답하고 프로젝트 세부 사항을 모아 리드를 선별한다. 업주는 예약 링크, 서비스, 가격이나 프로모션, 에이전트가 물어볼 질문을 추가할 수 있다. 선별을 통과한 리드에는 에이전트가 예약 링크를 보내고, 대화는 모두 Yelp 받은편지함에 남는다."
               },
               {
                 "t": "p",
-                "x": "DecryptAds는 ads.txt와 sellers.json 연결 고리를 따라가며 러시아, 중국, 키프로스, 튀르키예, UAE 등 “위험 지역”의 애드테크 업체 약 300곳을 추적했고 최종 2,116개 사이트를 찾아냈다. 범죄의 증거는 찾지 못했다고 덧붙였다."
+                "x": "판매 대상은 이사, 지붕, 배관, 가정 청소, 시공, 전기 업체 같은 업종이다. Yelp는 정확도 수치를 내놓지 않았고 업주가 메시지를 보내기 전에 승인할 수 있는지도 밝히지 않았다."
               },
               {
                 "t": "p",
-                "x": "SSPs는 반발했다. 1,631개 사이트의 파트너로 지목된 HBAgency는 보고서가 제시한 연결 관계를 반박했다. MonetizeMore는 자사 이름이 붙은 11개 사이트를 수익화하지 않는다고 했고, Ezoic은 콘텐츠를 AI가 만들었는지가 아니라 품질로 판단해야 한다고 맞섰다."
+                "x": "이번 릴리스에는 Yelp Assistant의 OpenTable 예약, 식당에 전화해 대기 시간을 묻는 AI 전화 에이전트 Check for Me, Yelp Audiences 디스플레이 캠페인용 의도 기반 크리에이티브도 들어 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIスロップのレシピサイト\nに大手ブランド広告",
-          "body": "Fortune 500企業の広告がAI製レシピサイト2,100超に出ていた。",
-          "mini_headline": "AIスロップにブランド広告",
+          "headline": "Yelpの30ドルAIが\nリードに応答・選別",
+          "body": "Yelpのエージェントは月30ドルで引っ越し・屋根・配管業者の見積依頼に応答し選別する。",
+          "mini_headline": "Yelpの30ドルのリード対応エージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+                "cap": "Yelpは、Request a Quoteのリードに応答し選別するAIエージェントに月30ドルを課す"
               },
               {
                 "t": "p",
-                "x": "サプライチェーン分析企業DecryptAdsが火曜日に公表した調査で、広告収益目的（made-for-advertising、MFA）の手法をなぞるAI生成（AI-generated）のレシピサイトが2,100以上見つかった。手間をかけない（low-effort）ページに広告枠を重ねて配置するやり方だ。これらのサイトには大手優良（blue-chip）ブランドやFortune 500ブランドの広告が表示されていた。"
+                "x": "Smart Lead Replyは、Yelpのメッセージスレッド内でRequest a Quoteの問い合わせに応答し見極めるAIエージェントで、来月の提供開始時には月30ドルとなる。2026年10月20日に公開されたYelpのFall Product Releaseで、事業者向けの目玉となる機能だ。"
               },
               {
                 "t": "p",
-                "x": "各サイトには架空の著者が登場し、その紹介（“about”）ページにはAI生成のアバター、ストック画像、実在シェフの盗用写真、さらにはEmily Bluntのような著名人の加工画像まで使われていた。架空のクリエイタープロフィールを欺瞞の一形態とした今月のGoogle Searchのアップデートに反する行為だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
-                "cap": "Emily Bluntの加工画像を使ったレシピサイトの著者ページ（DecryptAdsの報告書）"
+                "x": "エージェントはYelp for Businessのアカウントとビジネスページの情報をもとに、質問に答え、案件の詳細を集め、リードを選別する。事業者は予約リンク、サービス、料金やプロモーション、エージェントに尋ねさせる質問を追加できる。リードが選別されるとエージェントが予約リンクを共有し、すべての会話はYelpの受信箱に記録される。"
               },
               {
                 "t": "p",
-                "x": "DecryptAdsはads.txtとsellers.jsonのつながりをたどり、ロシア、中国、キプロス、トルコ、UAEなど「リスクの高い地域」にある約300のアドテク企業を追跡して、最終的に2,116サイトを特定した。犯罪の証拠は見つからなかったという。"
+                "x": "販売対象は、引っ越し、屋根工事、配管、ハウスクリーニング、建設業者、電気工事など対象カテゴリーの事業者だ。Yelpは精度の数値を示しておらず、送信前に事業者がメッセージを承認できるかどうかも明らかにしていない。"
               },
               {
                 "t": "p",
-                "x": "SSPsは反論した。1,631サイトのパートナーとされたHBAgencyは報告書が示す関係を否定し、MonetizeMoreは自社に結び付けられた11サイトを収益化していないと述べた。Ezoicは、コンテンツはAIが作ったかどうかではなく質で判断すべきだと主張した。"
+                "x": "今回のリリースでは、Yelp AssistantへのOpenTable予約の追加、レストランに電話して待ち時間を尋ねるAI電話エージェントのCheck for Me、Yelp Audiencesのディスプレイキャンペーン向けの意図ベースのクリエイティブも加わる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI垃圾菜谱网站\n挂着大品牌广告",
-          "body": "DecryptAds发现逾2,100个AI生成菜谱网站刊有Fortune 500品牌广告。",
-          "mini_headline": "AI垃圾网站吸引品牌广告",
+          "headline": "Yelp推30美元AI代理\n应答并筛选潜在客户",
+          "body": "Yelp的AI代理每月30美元，为搬家、屋顶和管道商家应答并筛选报价请求。",
+          "mini_headline": "Yelp推出30美元潜客代理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+                "cap": "Yelp对一款应答并筛选Request a Quote潜在客户的AI代理收取每月30美元"
               },
               {
                 "t": "p",
-                "x": "供应链情报公司DecryptAds周二发布的研究发现，超过2,100个AI生成（AI-generated）的菜谱网站沿用“为广告而生”（made-for-advertising，MFA）的套路：在粗制滥造（low-effort）的页面上叠放广告位。大型蓝筹（blue-chip）品牌和Fortune 500品牌的广告都出现在这些网站上。"
+                "x": "Smart Lead Reply是一款在Yelp消息线程中应答并审核Request a Quote询价的AI代理，将于下月推出，每月收费30美元。它是Yelp于2026年10月20日发布的Fall Product Release中面向商家的核心功能。"
               },
               {
                 "t": "p",
-                "x": "这些网站使用虚构的作者，其“关于”（“about”）页面采用AI生成的头像、图库图片、盗用的真实厨师照片，甚至Emily Blunt等名人的修改图片。这与Google Search本月的一次更新相悖，该更新将虚构的创作者资料视为一种欺骗。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
-                "cap": "某菜谱网站使用Emily Blunt修改图片的作者页面（DecryptAds报告）"
+                "x": "该代理利用Yelp for Business账户和商家页面中的信息来回答问题、收集项目细节并筛选潜在客户。商家可以添加预约链接、服务、价格或促销信息，以及希望代理提出的问题。潜在客户通过筛选后，代理会分享预约链接，所有对话都会记录在Yelp收件箱中。"
               },
               {
                 "t": "p",
-                "x": "DecryptAds通过追踪ads.txt和sellers.json中的关联，查到位于俄罗斯、中国、塞浦路斯、土耳其和UAE等“高风险地区”的约300家广告技术公司，最终锁定2,116个网站。该公司表示未发现犯罪证据。"
+                "x": "该产品面向搬家、屋顶、管道、家庭清洁、承包商和电工等符合条件的类别销售。Yelp未提供任何准确率数据，也未说明商家能否在消息发出前进行审批。"
               },
               {
                 "t": "p",
-                "x": "SSPs对此提出异议：被列为1,631个网站合作方的HBAgency质疑报告所列的关联；MonetizeMore称其并未为被标注的11个网站提供变现；Ezoic则认为，评判内容应看质量，而不是看是否由AI生成。"
+                "x": "此次发布还为Yelp Assistant新增了OpenTable预订功能，推出了会致电餐厅询问等位时间的AI电话代理Check for Me，并为Yelp Audiences展示广告系列加入了基于意图的创意。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sitios de recetas de AI slop\nmuestran anuncios de marcas",
-          "body": "Un estudio de DecryptAds halló más de 2,100 sitios de recetas generados por AI con anuncios de Fortune 500.",
-          "mini_headline": "Sitios de AI slop atraen marcas",
+          "headline": "Agente de IA de Yelp por $30\nresponde y califica leads",
+          "body": "El agente Smart Lead Reply de Yelp responde y califica presupuestos de mudanzas, techos y fontanería por $30 al mes.",
+          "mini_headline": "El agente de leads de Yelp por $30",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+                "cap": "Yelp cobra $30 al mes por un agente de IA que responde y califica los leads de Request a Quote"
               },
               {
                 "t": "p",
-                "x": "Un estudio publicado el martes por DecryptAds, firma de inteligencia de la cadena de suministro, descubrió más de 2,100 sitios de recetas AI-generated (generados por AI) que siguen el manual de los sitios made-for-advertising (MFA): ubicaciones publicitarias superpuestas en páginas low-effort, de poco esfuerzo. En ellos aparecían anuncios de grandes marcas blue-chip y de empresas de Fortune 500."
+                "x": "Smart Lead Reply, un agente de IA que responde y filtra las consultas de Request a Quote dentro de los hilos de mensajes de Yelp, costará $30 al mes cuando se lance el próximo mes. Es la pieza central para empresas del Fall Product Release de Yelp, publicado el 20 de octubre de 2026."
               },
               {
                 "t": "p",
-                "x": "Los sitios presentan autores inventados cuyas páginas “about” usan avatares generados por AI, imágenes de archivo, fotos robadas de chefs reales e incluso imágenes alteradas de celebridades como Emily Blunt. Eso choca con una actualización de Google Search de este mes que considera los perfiles de creadores inventados una forma de engaño."
-              },
-              {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
-                "cap": "Página de autor de un sitio de recetas con una imagen editada de Emily Blunt (informe de DecryptAds)"
+                "x": "El agente se basa en la información de la cuenta de Yelp for Business y de la página del negocio para responder preguntas, recopilar detalles del proyecto y calificar leads. Los propietarios pueden añadir un enlace de reserva, servicios, precios o promociones, y preguntas para que el agente las haga. Una vez calificado un lead, el agente comparte el enlace de reserva, y cada conversación queda registrada en la bandeja de entrada de Yelp."
               },
               {
                 "t": "p",
-                "x": "DecryptAds encontró los sitios rastreando los vínculos de ads.txt y sellers.json hasta unas 300 empresas de ad tech en “zonas de riesgo” como Rusia, China, Chipre, Turquía y UAE, y llegó a 2,116 sitios. Afirma que no halló pruebas de delitos."
+                "x": "Se vende a categorías elegibles como empresas de mudanzas, techadores, fontaneros, limpieza del hogar, contratistas y electricistas. Yelp no ofrece cifras de precisión ni dice si los propietarios pueden aprobar los mensajes antes de que se envíen."
               },
               {
                 "t": "p",
-                "x": "Las SSPs respondieron: HBAgency, señalada como socia de 1,631 sitios, cuestionó los vínculos del informe; MonetizeMore dijo que no monetiza los 11 sitios que se le atribuyen; Ezoic sostuvo que el contenido debe juzgarse por su calidad y no por si lo hizo una AI."
+                "x": "La actualización también añade reservas de OpenTable a Yelp Assistant, Check for Me, un agente telefónico de IA que llama a restaurantes para preguntar por los tiempos de espera, y creatividades basadas en la intención para las campañas de display de Yelp Audiences."
               }
             ]
           }
@@ -947,141 +1115,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 슬롭 레시피 사이트에\n브랜드 광고가 붙는다",
-          "body": "Fortune 500 광고가 AI 레시피 사이트 2,100여 곳에 붙었다.",
-          "mini_headline": "AI 슬롭 사이트에 브랜드 광고",
+          "headline": "Yelp의 30달러 AI\n에이전트, 리드 응대·선별",
+          "body": "Yelp AI가 월 30달러에 이사·지붕·배관 업체 견적 문의에 답하고 선별한다.",
+          "mini_headline": "Yelp의 30달러 리드 에이전트",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+                "cap": "Yelp는 Request a Quote 리드에 답하고 선별하는 AI 에이전트에 월 30달러를 받는다"
               },
               {
                 "t": "p",
-                "x": "공급망 분석 업체 DecryptAds가 화요일 공개한 연구에서 광고용 사이트(made-for-advertising, MFA) 공식을 따르는 AI 생성(AI-generated) 레시피 사이트가 2,100곳 넘게 드러났다. 공들이지 않은(low-effort) 페이지에 광고를 겹겹이 배치하는 방식이다. 이런 사이트에 대형 우량(blue-chip) 브랜드와 Fortune 500 브랜드의 광고가 실렸다."
+                "x": "Smart Lead Reply는 Yelp 메시지 스레드 안에서 Request a Quote 문의에 답하고 검증하는 AI 에이전트로, 다음 달 출시되면 월 30달러에 제공된다. 2026년 10월 20일 공개된 Yelp의 Fall Product Release에서 비즈니스 대상 기능의 핵심이다."
               },
               {
                 "t": "p",
-                "x": "이들 사이트에는 꾸며낸 저자가 등장하고, 그 소개(“about”) 페이지에는 AI가 만든 아바타, 스톡 이미지, 실제 셰프의 도용 사진, 심지어 Emily Blunt 같은 유명인의 합성 이미지까지 쓰였다. 꾸며낸 크리에이터 프로필을 기만의 한 형태로 규정한 이번 달 Google Search 업데이트에 어긋나는 일이다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
-                "cap": "Emily Blunt의 편집된 이미지를 쓴 레시피 사이트 저자 페이지 (DecryptAds 보고서)"
+                "x": "에이전트는 Yelp for Business 계정과 비즈니스 페이지의 정보를 바탕으로 질문에 답하고, 프로젝트 세부 사항을 모으고, 리드를 선별한다. 업주는 예약 링크, 서비스, 가격이나 프로모션, 에이전트가 물어볼 질문을 추가할 수 있다. 리드가 선별되면 에이전트가 예약 링크를 공유하고, 모든 대화는 Yelp 받은편지함에 기록된다."
               },
               {
                 "t": "p",
-                "x": "DecryptAds는 ads.txt와 sellers.json 연결 고리를 따라 러시아, 중국, 키프로스, 튀르키예, UAE 등 “위험 지역”의 애드테크 업체 약 300곳을 추적해 최종 2,116개 사이트를 찾아냈다. 범죄의 증거는 찾지 못했다고 밝혔다."
+                "x": "이사, 지붕, 배관, 가정 청소, 시공, 전기 업체 같은 대상 업종에 판매된다. Yelp는 정확도 수치를 내놓지 않았고, 업주가 메시지 발송 전에 승인할 수 있는지도 밝히지 않았다."
               },
               {
                 "t": "p",
-                "x": "SSPs는 반발했다. 1,631개 사이트의 파트너로 지목된 HBAgency는 보고서가 제시한 연결 관계를 반박했고, MonetizeMore는 자사에 표시된 11개 사이트를 수익화하지 않는다고 했다. Ezoic은 콘텐츠를 AI가 만들었는지가 아니라 품질로 판단해야 한다고 주장했다."
+                "x": "이번 릴리스는 Yelp Assistant의 OpenTable 예약, 식당에 전화해 대기 시간을 묻는 AI 전화 에이전트 Check for Me, Yelp Audiences 디스플레이 캠페인용 의도 기반 크리에이티브도 추가한다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIスロップのレシピサイト\nに大手ブランド広告",
-          "body": "Fortune 500企業の広告がAI製レシピサイト2,100超に出ていた。",
-          "mini_headline": "AIスロップにブランド広告",
+          "headline": "Yelpの30ドルAIが\nリードに応答・選別",
+          "body": "Yelpのエージェントは月30ドルで引っ越し・屋根・配管業者の見積依頼に応答し選別する。",
+          "mini_headline": "Yelpの30ドルのリード対応エージェント",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+                "cap": "Yelpは、Request a Quoteのリードに応答し選別するAIエージェントに月30ドルを課す"
               },
               {
                 "t": "p",
-                "x": "サプライチェーン分析企業DecryptAdsが火曜日に公表した調査で、広告収益目的（made-for-advertising、MFA）の手法をなぞるAI生成（AI-generated）のレシピサイトが2,100以上見つかった。手間をかけない（low-effort）ページに広告枠を重ねて配置するやり方だ。これらのサイトには大手優良（blue-chip）ブランドやFortune 500ブランドの広告が表示されていた。"
+                "x": "Smart Lead Replyは、Yelpのメッセージスレッド内でRequest a Quoteの問い合わせに応答し見極めるAIエージェントで、来月の提供開始時には月30ドルとなる。2026年10月20日に公開されたYelpのFall Product Releaseで、事業者向けの目玉となる機能だ。"
               },
               {
                 "t": "p",
-                "x": "各サイトには架空の著者が登場し、その紹介（“about”）ページにはAI生成のアバター、ストック画像、実在シェフの盗用写真、さらにはEmily Bluntのような著名人の加工画像まで使われていた。架空のクリエイタープロフィールを欺瞞の一形態とした今月のGoogle Searchのアップデートに反する行為だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
-                "cap": "Emily Bluntの加工画像を使ったレシピサイトの著者ページ（DecryptAdsの報告書）"
+                "x": "エージェントはYelp for Businessのアカウントとビジネスページの情報をもとに、質問に答え、案件の詳細を集め、リードを選別する。事業者は予約リンク、サービス、料金やプロモーション、エージェントに尋ねさせる質問を追加できる。リードが選別されるとエージェントが予約リンクを共有し、すべての会話はYelpの受信箱に記録される。"
               },
               {
                 "t": "p",
-                "x": "DecryptAdsはads.txtとsellers.jsonのつながりをたどり、ロシア、中国、キプロス、トルコ、UAEなど「リスクの高い地域」にある約300のアドテク企業を追跡して、最終的に2,116サイトを特定した。犯罪の証拠は見つからなかったという。"
+                "x": "販売対象は、引っ越し、屋根工事、配管、ハウスクリーニング、建設業者、電気工事など対象カテゴリーの事業者だ。Yelpは精度の数値を示しておらず、送信前に事業者がメッセージを承認できるかどうかも明らかにしていない。"
               },
               {
                 "t": "p",
-                "x": "SSPsは反論した。1,631サイトのパートナーとされたHBAgencyは報告書が示す関係を否定し、MonetizeMoreは自社に結び付けられた11サイトを収益化していないと述べた。Ezoicは、コンテンツはAIが作ったかどうかではなく質で判断すべきだと主張した。"
+                "x": "今回のリリースでは、Yelp AssistantへのOpenTable予約の追加、レストランに電話して待ち時間を尋ねるAI電話エージェントのCheck for Me、Yelp Audiencesのディスプレイキャンペーン向けの意図ベースのクリエイティブも加わる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI垃圾菜谱网站\n挂着大品牌广告",
-          "body": "DecryptAds发现逾2,100个AI生成菜谱网站刊有Fortune 500品牌广告。",
-          "mini_headline": "AI垃圾网站吸引品牌广告",
+          "headline": "Yelp推30美元AI代理\n应答并筛选潜在客户",
+          "body": "Yelp的AI代理每月30美元，为搬家、屋顶和管道商家应答并筛选报价请求。",
+          "mini_headline": "Yelp推出30美元潜客代理",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+                "cap": "Yelp对一款应答并筛选Request a Quote潜在客户的AI代理收取每月30美元"
               },
               {
                 "t": "p",
-                "x": "供应链情报公司DecryptAds周二发布的研究发现，超过2,100个AI生成（AI-generated）的菜谱网站沿用“为广告而生”（made-for-advertising，MFA）的套路：在粗制滥造（low-effort）的页面上叠放广告位。大型蓝筹（blue-chip）品牌和Fortune 500品牌的广告都出现在这些网站上。"
+                "x": "Smart Lead Reply是一款在Yelp消息线程中应答并审核Request a Quote询价的AI代理，将于下月推出，每月收费30美元。它是Yelp于2026年10月20日发布的Fall Product Release中面向商家的核心功能。"
               },
               {
                 "t": "p",
-                "x": "这些网站使用虚构的作者，其“关于”（“about”）页面采用AI生成的头像、图库图片、盗用的真实厨师照片，甚至Emily Blunt等名人的修改图片。这与Google Search本月的一次更新相悖，该更新将虚构的创作者资料视为一种欺骗。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
-                "cap": "某菜谱网站使用Emily Blunt修改图片的作者页面（DecryptAds报告）"
+                "x": "该代理利用Yelp for Business账户和商家页面中的信息来回答问题、收集项目细节并筛选潜在客户。商家可以添加预约链接、服务、价格或促销信息，以及希望代理提出的问题。潜在客户通过筛选后，代理会分享预约链接，所有对话都会记录在Yelp收件箱中。"
               },
               {
                 "t": "p",
-                "x": "DecryptAds通过追踪ads.txt和sellers.json中的关联，查到位于俄罗斯、中国、塞浦路斯、土耳其和UAE等“高风险地区”的约300家广告技术公司，最终锁定2,116个网站。该公司表示未发现犯罪证据。"
+                "x": "该产品面向搬家、屋顶、管道、家庭清洁、承包商和电工等符合条件的类别销售。Yelp未提供任何准确率数据，也未说明商家能否在消息发出前进行审批。"
               },
               {
                 "t": "p",
-                "x": "SSPs对此提出异议：被列为1,631个网站合作方的HBAgency质疑报告所列的关联；MonetizeMore称其并未为被标注的11个网站提供变现；Ezoic则认为，评判内容应看质量，而不是看是否由AI生成。"
+                "x": "此次发布还为Yelp Assistant新增了OpenTable预订功能，推出了会致电餐厅询问等位时间的AI电话代理Check for Me，并为Yelp Audiences展示广告系列加入了基于意图的创意。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sitios de recetas de AI slop\nmuestran anuncios de marcas",
-          "body": "Un estudio de DecryptAds halló más de 2,100 sitios de recetas generados por AI con anuncios de Fortune 500.",
-          "mini_headline": "Sitios de AI slop atraen marcas",
+          "headline": "Agente de IA de Yelp por $30\nresponde y califica leads",
+          "body": "El agente Smart Lead Reply de Yelp responde y califica presupuestos de mudanzas, techos y fontanería por $30 al mes.",
+          "mini_headline": "El agente de leads de Yelp por $30",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-1024x964.jpg"
+                "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+                "cap": "Yelp cobra $30 al mes por un agente de IA que responde y califica los leads de Request a Quote"
               },
               {
                 "t": "p",
-                "x": "Un estudio publicado el martes por DecryptAds, firma de inteligencia de la cadena de suministro, descubrió más de 2,100 sitios de recetas AI-generated (generados por AI) que siguen el manual de los sitios made-for-advertising (MFA): ubicaciones publicitarias superpuestas en páginas low-effort, de poco esfuerzo. En ellos aparecían anuncios de grandes marcas blue-chip y de empresas de Fortune 500."
+                "x": "Smart Lead Reply, un agente de IA que responde y filtra las consultas de Request a Quote dentro de los hilos de mensajes de Yelp, costará $30 al mes cuando se lance el próximo mes. Es la pieza central para empresas del Fall Product Release de Yelp, publicado el 20 de octubre de 2026."
               },
               {
                 "t": "p",
-                "x": "Los sitios presentan autores inventados cuyas páginas “about” usan avatares generados por AI, imágenes de archivo, fotos robadas de chefs reales e incluso imágenes alteradas de celebridades como Emily Blunt. Eso choca con una actualización de Google Search de este mes que considera los perfiles de creadores inventados una forma de engaño."
-              },
-              {
-                "t": "img",
-                "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/addcakes-e1792472127302.jpg",
-                "cap": "Página de autor de un sitio de recetas con una imagen editada de Emily Blunt (informe de DecryptAds)"
+                "x": "El agente se basa en la información de la cuenta de Yelp for Business y de la página del negocio para responder preguntas, recopilar detalles del proyecto y calificar leads. Los propietarios pueden añadir un enlace de reserva, servicios, precios o promociones, y preguntas para que el agente las haga. Una vez calificado un lead, el agente comparte el enlace de reserva, y cada conversación queda registrada en la bandeja de entrada de Yelp."
               },
               {
                 "t": "p",
-                "x": "DecryptAds encontró los sitios rastreando los vínculos de ads.txt y sellers.json hasta unas 300 empresas de ad tech en “zonas de riesgo” como Rusia, China, Chipre, Turquía y UAE, y llegó a 2,116 sitios. Afirma que no halló pruebas de delitos."
+                "x": "Se vende a categorías elegibles como empresas de mudanzas, techadores, fontaneros, limpieza del hogar, contratistas y electricistas. Yelp no ofrece cifras de precisión ni dice si los propietarios pueden aprobar los mensajes antes de que se envíen."
               },
               {
                 "t": "p",
-                "x": "Las SSPs respondieron: HBAgency, señalada como socia de 1,631 sitios, cuestionó los vínculos del informe; MonetizeMore dijo que no monetiza los 11 sitios que se le atribuyen; Ezoic sostuvo que el contenido debe juzgarse por su calidad y no por si lo hizo una AI."
+                "x": "La actualización también añade reservas de OpenTable a Yelp Assistant, Check for Me, un agente telefónico de IA que llama a restaurantes para preguntar por los tiempos de espera, y creatividades basadas en la intención para las campañas de display de Yelp Audiences."
               }
             ]
           }
@@ -1089,15 +1241,15 @@
       }
     },
     {
-      "id": "marketing-ai-max-ad-grants-autoon",
+      "id": "marketing-meta-muse",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Ad Grants 계정에\n저절로 켜진 AI Max",
-      "body": "일부 Ad Grants 계정에 AI Max가 켜지며 비영리단체 CTR이 위태롭다.",
-      "mini_headline": "Ad Grants서 AI Max 포착",
+      "headline": "Muse 1000만 돌파\n쇼핑이 주요 용도로",
+      "body": "Meta는 Muse 사용자가 1000만 명을 넘었고 쇼핑이 주요 용도라고 밝혔다.",
+      "mini_headline": "Muse 사용자 1000만 돌파",
       "tool": "Marketing",
-      "source": "Search Engine Land",
-      "url": "https://searchengineland.com/google-ads-ai-max-spotted-automatically-enabled-in-some-ad-grants-accounts-497261",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
       "accent": "#2ec5c5",
       "motif": "frame",
       "full": {
@@ -1105,203 +1257,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
+            "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+            "cap": "이미지 출처: Samuel Boivin/NurPhoto / Getty Images"
           },
           {
             "t": "p",
-            "x": "Google Ads의 AI Max 기능이 일부 Google Ad Grants Search 캠페인에서 광고주가 직접 켜지 않았는데도 자동으로 켜진 채 나타난다. 비영리 광고주가 AI 기반(AI-powered) 캠페인 설정을 어디까지 통제할 수 있느냐는 물음이 나온다. Google은 이번 일이 Ad Grants 전체(Ad Grants-wide)를 대상으로 한 새 배포인지 확인해 주지 않았다."
+            "x": "Meta는 수요일 3분기 실적 발표에서 AI 앱 Muse의 사용자가 1000만 명을 넘었다고 밝혔다. Mark Zuckerberg는 Muse를 설정한 사람 가운데 약 25%가 지금 매일 쓴다고 했다."
           },
           {
             "t": "p",
-            "x": "AI Max는 Search 캠페인의 범위를 넓힌다. 확장 검색(broad-match)과 키워드 없는(keywordless) 검색어 매칭, 랜딩 페이지를 보고 자동 생성하거나 다듬은 광고 문구, 그리고 어떤 검색이 관련 있는지 Google이 판단하도록 돕는 랜딩 페이지 신호가 더해진다."
-          },
-          {
-            "t": "img",
-            "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
-            "cap": "Google Ads의 AI Max for Search campaigns 설정"
+            "x": "그는 AI 에이전트로 쇼핑한 Muse 활성 사용자의 4분의 1 이상은 평균 구매액이 200달러를 넘었다고 덧붙였다. 에이전트 쇼핑은 Plaid의 커넥터로 돌아간다. 이메일이나 캘린더에 에이전트를 붙이는 식의 개인 생산성 작업에도 많이 쓰인다."
           },
           {
             "t": "p",
-            "x": "Ad Grants 광고주에게 CTR은 계정 준수 요건과 바로 이어진다. 매칭이 넓어지면 새 잠재 고객에게 닿을 수 있지만 클릭 없이 노출만 늘면 CTR이 떨어지기 쉽다. 이미 최소 기준에 가까운 계정이라면 걱정할 만하다."
+            "x": "Meta는 대다수 사용자에게 Muse를 무료로 주고 플랫폼에서 오가는 거래에서 일정 비율을 떼어 가며, 파워 유저에게는 요금을 받을 계획이다. Zuckerberg는 내년에 Muse의 비용 효율이 10배 이상 좋아진다고 보고, 결국 사용자당 매출에서 Muse가 자사 앱 패밀리를 앞지를 것으로 내다봤다."
           },
           {
             "t": "p",
-            "x": "비영리단체라면 이번 주 AI Max가 켜져 있는지 보고, 최근 검색어를 검토하고, CTR을 지켜보면서 늘어난 트래픽이 목표에 맞는지 따져 봐야 한다. 이 변화는 디지털 광고 전문가 Dan Kabakov가 LinkedIn에서 처음 짚었다."
+            "x": "그는 \"Muse network\"도 예고했다. \"무언가를 사고 싶다면 그 업체의 웹사이트로 이동하는 데 그치지 않고, 그 업체의 에이전트와 대화하게 된다.\""
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI Max spotted switched on\nin some Ad Grants accounts",
-          "body": "AI Max was spotted switched on unprompted in some Ad Grants accounts, which could threaten nonprofits' CTR floor.",
-          "mini_headline": "AI Max spotted in Ad Grants",
+          "headline": "Meta's Muse passes 10M users\nwith shopping a top use",
+          "body": "Meta says its Muse AI app has passed 10 million users, with shopping one of the top activities on the agent.",
+          "mini_headline": "Muse passes 10M users",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+                "cap": "Image Credits: Samuel Boivin/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google Ads' AI Max feature is appearing automatically enabled in some Google Ad Grants Search campaigns without advertisers manually switching it on, raising questions about how much control nonprofit advertisers have over AI-powered campaign settings. Google has not confirmed that this represents a new, Ad Grants-wide rollout."
+                "x": "Meta said during its third-quarter earnings call on Wednesday that its AI app Muse has been adopted by more than 10 million users. Mark Zuckerberg said about 25% of people who set up Muse now use it daily."
               },
               {
                 "t": "p",
-                "x": "AI Max expands Search campaigns with broad-match and keywordless search term matching, automatically generated or adapted ad text based on landing pages, and landing page signals that help Google judge which searches are relevant."
-              },
-              {
-                "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
-                "cap": "The AI Max for Search campaigns setting in Google Ads"
+                "x": "He said over a quarter of Muse's engaged users who were shopping via the AI agent had an average purchase size of over $200. Muse uses Plaid's connector to enable agentic shopping. Other popular uses include personal productivity tasks such as connecting the agent to email or calendars."
               },
               {
                 "t": "p",
-                "x": "For Ad Grants advertisers, CTR is tied to account compliance. Broader matching may reach new audiences, but extra impressions without clicks could drag CTR down — a concern for accounts already close to the minimum threshold."
+                "x": "Meta plans to keep Muse free for most users while keeping a percentage of the commerce on the platform, and to charge power users. Zuckerberg said Meta expects to improve Muse's cost efficiency by more than 10x in the next year and forecasts it will eventually bring in more revenue per user than its family of apps."
               },
               {
                 "t": "p",
-                "x": "Nonprofits should check this week whether AI Max is enabled, review recent search terms, monitor CTR and confirm any added traffic fits their goals. The change was first spotted by digital advertising specialist Dan Kabakov on LinkedIn."
+                "x": "He also teased a \"Muse network\": \"And if you want to buy something, it's not just navigating to that business's website; it's talking to their agent.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "Ad Grants 계정에\n저절로 켜진 AI Max",
-          "body": "일부 Ad Grants 계정에 AI Max가 켜지며 비영리단체 CTR이 위태롭다.",
-          "mini_headline": "Ad Grants서 AI Max 포착",
+          "headline": "Muse 1000만 돌파\n쇼핑이 주요 용도로",
+          "body": "Meta는 Muse 사용자가 1000만 명을 넘었고 쇼핑이 주요 용도라고 밝혔다.",
+          "mini_headline": "Muse 사용자 1000만 돌파",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+                "cap": "이미지 출처: Samuel Boivin/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google Ads의 AI Max 기능이 일부 Google Ad Grants Search 캠페인에서 광고주가 직접 켜지 않았는데도 자동으로 켜진 채 나타난다. 비영리 광고주가 AI 기반(AI-powered) 캠페인 설정을 어디까지 통제할 수 있느냐는 물음이 나온다. Google은 이번 일이 Ad Grants 전체(Ad Grants-wide)를 대상으로 한 새 배포인지 확인해 주지 않았다."
+                "x": "Meta는 수요일 3분기 실적 발표에서 AI 앱 Muse의 사용자가 1000만 명을 넘었다고 밝혔다. Mark Zuckerberg는 Muse를 설정한 사람 가운데 약 25%가 지금 매일 쓴다고 했다."
               },
               {
                 "t": "p",
-                "x": "AI Max는 Search 캠페인의 범위를 넓힌다. 확장 검색(broad-match)과 키워드 없는(keywordless) 검색어 매칭, 랜딩 페이지를 보고 자동 생성하거나 다듬은 광고 문구, 그리고 어떤 검색이 관련 있는지 Google이 판단하도록 돕는 랜딩 페이지 신호가 더해진다."
-              },
-              {
-                "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
-                "cap": "Google Ads의 AI Max for Search campaigns 설정"
+                "x": "그는 AI 에이전트로 쇼핑한 Muse 활성 사용자의 4분의 1 이상은 평균 구매액이 200달러를 넘었다고 덧붙였다. 에이전트 쇼핑은 Plaid의 커넥터로 돌아간다. 이메일이나 캘린더에 에이전트를 붙이는 식의 개인 생산성 작업에도 많이 쓰인다."
               },
               {
                 "t": "p",
-                "x": "Ad Grants 광고주에게 CTR은 계정 준수 요건과 바로 이어진다. 매칭이 넓어지면 새 잠재 고객에게 닿을 수 있지만 클릭 없이 노출만 늘면 CTR이 떨어지기 쉽다. 이미 최소 기준에 가까운 계정이라면 걱정할 만하다."
+                "x": "Meta는 대다수 사용자에게 Muse를 무료로 주고 플랫폼에서 오가는 거래에서 일정 비율을 떼어 가며, 파워 유저에게는 요금을 받을 계획이다. Zuckerberg는 내년에 Muse의 비용 효율이 10배 이상 좋아진다고 보고, 결국 사용자당 매출에서 Muse가 자사 앱 패밀리를 앞지를 것으로 내다봤다."
               },
               {
                 "t": "p",
-                "x": "비영리단체라면 이번 주 AI Max가 켜져 있는지 보고, 최근 검색어를 검토하고, CTR을 지켜보면서 늘어난 트래픽이 목표에 맞는지 따져 봐야 한다. 이 변화는 디지털 광고 전문가 Dan Kabakov가 LinkedIn에서 처음 짚었다."
+                "x": "그는 \"Muse network\"도 예고했다. \"무언가를 사고 싶다면 그 업체의 웹사이트로 이동하는 데 그치지 않고, 그 업체의 에이전트와 대화하게 된다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "一部のAd Grantsで\nAI Maxが勝手にオン",
-          "body": "一部のAd GrantsでAI Maxが勝手に有効化、非営利のCTRに影響しうる。",
-          "mini_headline": "Ad GrantsでAI Maxを確認",
+          "headline": "Muse、1000万人突破\n買い物が主要な用途",
+          "body": "MetaはAIアプリMuseの利用者が1000万人を超え、買い物が主な用途だと述べた。",
+          "mini_headline": "Muse利用者が1000万人突破",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+                "cap": "画像クレジット：Samuel Boivin/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google AdsのAI Max機能が、一部のGoogle Ad Grants Searchキャンペーンで広告主が手動でオンにしていないのに自動で有効になっている。非営利の広告主がAI活用型（AI-powered）のキャンペーン設定をどこまで制御できるのか、疑問が生じている。Googleは、これがAd Grants全体（Ad Grants-wide）への新たな展開だとは認めていない。"
+                "x": "Metaは水曜日の第3四半期決算説明会で、AIアプリMuseの利用者が1000万人を超えたと明らかにした。Mark Zuckerberg氏によると、Museを設定した人の約25%が現在は毎日利用しているという。"
               },
               {
                 "t": "p",
-                "x": "AI MaxはSearchキャンペーンを、部分一致（broad-match）やキーワードなし（keywordless）の検索語句マッチング、ランディングページをもとに自動生成・調整された広告文、そしてGoogleがどの検索が関連するかを判断するのに役立つランディングページのシグナルによって拡張する。"
-              },
-              {
-                "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
-                "cap": "Google AdsのAI Max for Search campaigns設定"
+                "x": "同氏は、AIエージェント経由で買い物をしたMuseのアクティブユーザーの4分の1超で、平均購入額が200ドルを上回ったと述べた。MuseはPlaidのコネクターを使ってエージェントによる買い物を可能にしている。ほかに人気の用途には、エージェントをメールやカレンダーにつなぐといった個人の生産性向上タスクがある。"
               },
               {
                 "t": "p",
-                "x": "Ad Grantsの広告主にとって、CTRはアカウントのポリシー順守に直結する。マッチングが広がれば新たなオーディエンスに届く可能性があるが、クリックを伴わない表示が増えればCTRが下がりかねない。すでに最低基準に近いアカウントには懸念材料だ。"
+                "x": "Metaは、大半のユーザーにはMuseを無料で提供しつつプラットフォーム上の取引の一定割合を得て、パワーユーザーには課金する計画だ。Zuckerberg氏は、来年中にMuseのコスト効率を10倍以上改善できる見込みだとし、最終的にはユーザー1人当たりの収益が同社のアプリファミリーを上回ると予測した。"
               },
               {
                 "t": "p",
-                "x": "非営利団体は今週中に、AI Maxが有効になっていないか確認し、最近の検索語句を見直し、CTRを監視し、増えたトラフィックが目的に合っているかを確かめるべきだ。この変化はデジタル広告の専門家Dan KabakovがLinkedInで最初に指摘した。"
+                "x": "同氏は「Muse network」についても予告した。「何かを買いたいとき、その企業のウェブサイトに移動するだけではなく、その企業のエージェントと話すことになる」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "部分Ad Grants账户\n被发现自动开启AI Max",
-          "body": "部分Ad Grants账户被发现自动开启AI Max，可能威胁非营利机构的CTR底线。",
-          "mini_headline": "Ad Grants现AI Max自动开启",
+          "headline": "Muse用户破1000万\n购物成主要用途",
+          "body": "Meta称其AI应用Muse用户已突破1000万，购物是该代理最主要的用途之一。",
+          "mini_headline": "Muse用户破1000万",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+                "cap": "图片来源：Samuel Boivin/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google Ads的AI Max功能在部分Google Ad Grants Search广告系列中自动处于开启状态，而广告主并未手动开启，这引发了非营利广告主对AI驱动（AI-powered）广告系列设置究竟有多少控制权的疑问。Google尚未确认这是否属于面向Ad Grants全体（Ad Grants-wide）的新一轮推出。"
+                "x": "Meta在周三的第三季度财报电话会上表示，其AI应用Muse的用户已超过1000万。Mark Zuckerberg称，设置了Muse的人中约有25%如今每天使用它。"
               },
               {
                 "t": "p",
-                "x": "AI Max通过广泛匹配（broad-match）和无关键词（keywordless）的搜索字词匹配、根据落地页自动生成或调整的广告文案，以及帮助Google判断哪些搜索相关的落地页信号，来扩展Search广告系列。"
-              },
-              {
-                "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
-                "cap": "Google Ads中的AI Max for Search campaigns设置"
+                "x": "他说，在通过这一AI代理购物的Muse活跃用户中，超过四分之一的平均购买金额超过200美元。Muse借助Plaid的连接器实现代理式购物。其他热门用途包括把代理连接到电子邮件或日历等个人生产力任务。"
               },
               {
                 "t": "p",
-                "x": "对Ad Grants广告主而言，CTR与账户合规挂钩。更宽泛的匹配也许能触达新受众，但没有点击的额外展示可能拉低CTR，这让本已接近最低门槛的账户感到担忧。"
+                "x": "Meta计划让大多数用户免费使用Muse，同时从平台上的交易中抽取一定比例，并向重度用户收费。Zuckerberg表示，Meta预计明年将Muse的成本效率提升10倍以上，并预测它最终带来的每用户收入将超过其应用家族。"
               },
               {
                 "t": "p",
-                "x": "非营利机构本周应检查AI Max是否已开启，审查近期搜索字词，监控CTR，并确认新增流量是否符合目标。这一变化最早由数字广告专家Dan Kabakov在LinkedIn上发现。"
+                "x": "他还预告了“Muse network”：“如果你想买东西，就不只是访问那家企业的网站，而是与它的代理对话。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI Max aparece activado\nen algunas cuentas de Ad Grants",
-          "body": "Se detectó AI Max activado sin aviso en algunas cuentas de Ad Grants y podría amenazar el mínimo de CTR de las ONG.",
-          "mini_headline": "AI Max detectado en Ad Grants",
+          "headline": "Muse de Meta supera 10M usuarios\ncon las compras como uso clave",
+          "body": "Meta dice que su app de IA Muse supera los 10 millones de usuarios y que las compras están entre sus usos principales.",
+          "mini_headline": "Muse supera 10M usuarios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+                "cap": "Créditos de imagen: Samuel Boivin/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "La función AI Max de Google Ads aparece activada automáticamente en algunas campañas de Search de Google Ad Grants sin que los anunciantes la hayan encendido, lo que plantea dudas sobre cuánto control tienen los anunciantes sin fines de lucro sobre la configuración de campañas AI-powered (impulsadas por AI). Google no ha confirmado que se trate de un nuevo despliegue Ad Grants-wide, para todo Ad Grants."
+                "x": "Meta dijo el miércoles, durante su conferencia de resultados del tercer trimestre, que su app de IA Muse ha sido adoptada por más de 10 millones de usuarios. Mark Zuckerberg dijo que alrededor del 25% de quienes configuran Muse ahora la usan a diario."
               },
               {
                 "t": "p",
-                "x": "AI Max amplía las campañas de Search con concordancia broad-match (amplia) y keywordless (sin palabras clave), textos de anuncio generados o adaptados automáticamente a partir de las páginas de destino y señales de esas páginas que ayudan a Google a juzgar qué búsquedas son relevantes."
-              },
-              {
-                "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
-                "cap": "El ajuste AI Max for Search campaigns en Google Ads"
+                "x": "Según él, más de una cuarta parte de los usuarios activos de Muse que compraban a través del agente de IA tuvo un gasto medio por compra superior a $200. Muse usa el conector de Plaid para permitir las compras con agentes. Otros usos populares incluyen tareas de productividad personal, como conectar el agente al correo electrónico o al calendario."
               },
               {
                 "t": "p",
-                "x": "Para los anunciantes de Ad Grants, el CTR está ligado al cumplimiento de la cuenta. Una concordancia más amplia puede llegar a nuevas audiencias, pero las impresiones adicionales sin clics podrían bajar el CTR, algo preocupante para las cuentas que ya están cerca del umbral mínimo."
+                "x": "Meta planea mantener Muse gratis para la mayoría de los usuarios y quedarse con un porcentaje del comercio en la plataforma, además de cobrar a los usuarios avanzados. Zuckerberg dijo que Meta espera mejorar la eficiencia de costes de Muse más de 10 veces el próximo año y prevé que con el tiempo genere más ingresos por usuario que su familia de apps."
               },
               {
                 "t": "p",
-                "x": "Las organizaciones sin fines de lucro deberían comprobar esta semana si AI Max está activado, revisar los términos de búsqueda recientes, vigilar el CTR y confirmar que el tráfico añadido se ajusta a sus objetivos. El cambio lo detectó primero el especialista en publicidad digital Dan Kabakov en LinkedIn."
+                "x": "También adelantó una \"Muse network\": \"Y si quieres comprar algo, no se trata solo de ir al sitio web de esa empresa; se trata de hablar con su agente\"."
               }
             ]
           }
@@ -1309,423 +1437,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI Max가 저절로 켜진\nAd Grants 계정들",
-          "body": "일부 Ad Grants 계정에서 AI Max가 켜져 비영리단체 CTR이 위태롭다.",
-          "mini_headline": "Ad Grants서 AI Max 포착",
+          "headline": "Muse 1000만 돌파\n쇼핑이 주요 용도로",
+          "body": "Meta는 Muse 사용자가 1000만 명을 넘었고 쇼핑이 주요 용도라고 밝혔다.",
+          "mini_headline": "Muse 사용자 1000만 돌파",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+                "cap": "이미지 출처: Samuel Boivin/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google Ads의 AI Max 기능이 일부 Google Ad Grants Search 캠페인에서 광고주가 직접 켜지 않았는데도 자동으로 활성화된 채 나타나고 있다. 비영리 광고주가 AI 기반(AI-powered) 캠페인 설정을 얼마나 통제할 수 있는지 의문이 제기된다. Google은 이것이 Ad Grants 전체(Ad Grants-wide)를 대상으로 한 새 배포인지 확인하지 않았다."
+                "x": "Meta는 수요일 3분기 실적 발표에서 AI 앱 Muse의 사용자가 1000만 명을 넘었다고 밝혔다. Mark Zuckerberg는 Muse를 설정한 사람의 약 25%가 현재 매일 쓴다고 말했다."
               },
               {
                 "t": "p",
-                "x": "AI Max는 Search 캠페인을 확장 검색(broad-match)과 키워드 없는(keywordless) 검색어 매칭, 랜딩 페이지를 바탕으로 자동 생성하거나 다듬은 광고 문구, 그리고 Google이 어떤 검색이 관련 있는지 판단하도록 돕는 랜딩 페이지 신호로 넓힌다."
-              },
-              {
-                "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
-                "cap": "Google Ads의 AI Max for Search campaigns 설정"
+                "x": "그는 AI 에이전트로 쇼핑한 Muse 활성 사용자 중 4분의 1 이상은 평균 구매액이 200달러를 넘었다고 말했다. Muse는 Plaid의 커넥터로 에이전트 쇼핑을 지원한다. 그 밖에 이메일이나 캘린더에 에이전트를 연결하는 등 개인 생산성 작업에도 많이 쓰인다."
               },
               {
                 "t": "p",
-                "x": "Ad Grants 광고주에게 CTR은 계정 준수 요건과 직결된다. 매칭이 넓어지면 새 잠재 고객에게 닿을 수 있지만, 클릭 없이 노출만 늘면 CTR이 떨어질 수 있다. 이미 최소 기준에 가까운 계정에는 걱정거리다."
+                "x": "Meta는 대다수 사용자에게 Muse를 무료로 제공하면서 플랫폼에서 일어나는 거래의 일정 비율을 가져가고, 파워 유저에게는 요금을 받을 계획이다. Zuckerberg는 내년 Muse의 비용 효율을 10배 이상 높일 것으로 예상하며, 결국 Muse가 사용자당 매출에서 자사 앱 패밀리를 넘어설 것으로 내다봤다."
               },
               {
                 "t": "p",
-                "x": "비영리단체는 이번 주 AI Max가 켜져 있는지 확인하고, 최근 검색어를 검토하며, CTR을 지켜보고, 늘어난 트래픽이 목표에 맞는지 점검해야 한다. 이 변화는 디지털 광고 전문가 Dan Kabakov가 LinkedIn에서 처음 발견했다."
+                "x": "그는 \"Muse network\"도 예고했다. \"무언가를 사고 싶다면 그 업체의 웹사이트로 이동하는 데 그치지 않고, 그 업체의 에이전트와 대화하게 된다.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "一部のAd Grantsで\nAI Maxが勝手にオン",
-          "body": "一部のAd GrantsでAI Maxが勝手に有効化、非営利のCTRに影響しうる。",
-          "mini_headline": "Ad GrantsでAI Maxを確認",
+          "headline": "Muse、1000万人突破\n買い物が主要な用途",
+          "body": "MetaはAIアプリMuseの利用者が1000万人を超え、買い物が主な用途だと述べた。",
+          "mini_headline": "Muse利用者が1000万人突破",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+                "cap": "画像クレジット：Samuel Boivin/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google AdsのAI Max機能が、一部のGoogle Ad Grants Searchキャンペーンで広告主が手動でオンにしていないのに自動で有効になっている。非営利の広告主がAI活用型（AI-powered）のキャンペーン設定をどこまで制御できるのか、疑問が生じている。Googleは、これがAd Grants全体（Ad Grants-wide）への新たな展開だとは認めていない。"
+                "x": "Metaは水曜日の第3四半期決算説明会で、AIアプリMuseの利用者が1000万人を超えたと明らかにした。Mark Zuckerberg氏によると、Museを設定した人の約25%が現在は毎日利用しているという。"
               },
               {
                 "t": "p",
-                "x": "AI MaxはSearchキャンペーンを、部分一致（broad-match）やキーワードなし（keywordless）の検索語句マッチング、ランディングページをもとに自動生成・調整された広告文、そしてGoogleがどの検索が関連するかを判断するのに役立つランディングページのシグナルによって拡張する。"
-              },
-              {
-                "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
-                "cap": "Google AdsのAI Max for Search campaigns設定"
+                "x": "同氏は、AIエージェント経由で買い物をしたMuseのアクティブユーザーの4分の1超で、平均購入額が200ドルを上回ったと述べた。MuseはPlaidのコネクターを使ってエージェントによる買い物を可能にしている。ほかに人気の用途には、エージェントをメールやカレンダーにつなぐといった個人の生産性向上タスクがある。"
               },
               {
                 "t": "p",
-                "x": "Ad Grantsの広告主にとって、CTRはアカウントのポリシー順守に直結する。マッチングが広がれば新たなオーディエンスに届く可能性があるが、クリックを伴わない表示が増えればCTRが下がりかねない。すでに最低基準に近いアカウントには懸念材料だ。"
+                "x": "Metaは、大半のユーザーにはMuseを無料で提供しつつプラットフォーム上の取引の一定割合を得て、パワーユーザーには課金する計画だ。Zuckerberg氏は、来年中にMuseのコスト効率を10倍以上改善できる見込みだとし、最終的にはユーザー1人当たりの収益が同社のアプリファミリーを上回ると予測した。"
               },
               {
                 "t": "p",
-                "x": "非営利団体は今週中に、AI Maxが有効になっていないか確認し、最近の検索語句を見直し、CTRを監視し、増えたトラフィックが目的に合っているかを確かめるべきだ。この変化はデジタル広告の専門家Dan KabakovがLinkedInで最初に指摘した。"
+                "x": "同氏は「Muse network」についても予告した。「何かを買いたいとき、その企業のウェブサイトに移動するだけではなく、その企業のエージェントと話すことになる」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "部分Ad Grants账户\n被发现自动开启AI Max",
-          "body": "部分Ad Grants账户被发现自动开启AI Max，可能威胁非营利机构的CTR底线。",
-          "mini_headline": "Ad Grants现AI Max自动开启",
+          "headline": "Muse用户破1000万\n购物成主要用途",
+          "body": "Meta称其AI应用Muse用户已突破1000万，购物是该代理最主要的用途之一。",
+          "mini_headline": "Muse用户破1000万",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+                "cap": "图片来源：Samuel Boivin/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "Google Ads的AI Max功能在部分Google Ad Grants Search广告系列中自动处于开启状态，而广告主并未手动开启，这引发了非营利广告主对AI驱动（AI-powered）广告系列设置究竟有多少控制权的疑问。Google尚未确认这是否属于面向Ad Grants全体（Ad Grants-wide）的新一轮推出。"
+                "x": "Meta在周三的第三季度财报电话会上表示，其AI应用Muse的用户已超过1000万。Mark Zuckerberg称，设置了Muse的人中约有25%如今每天使用它。"
               },
               {
                 "t": "p",
-                "x": "AI Max通过广泛匹配（broad-match）和无关键词（keywordless）的搜索字词匹配、根据落地页自动生成或调整的广告文案，以及帮助Google判断哪些搜索相关的落地页信号，来扩展Search广告系列。"
-              },
-              {
-                "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
-                "cap": "Google Ads中的AI Max for Search campaigns设置"
+                "x": "他说，在通过这一AI代理购物的Muse活跃用户中，超过四分之一的平均购买金额超过200美元。Muse借助Plaid的连接器实现代理式购物。其他热门用途包括把代理连接到电子邮件或日历等个人生产力任务。"
               },
               {
                 "t": "p",
-                "x": "对Ad Grants广告主而言，CTR与账户合规挂钩。更宽泛的匹配也许能触达新受众，但没有点击的额外展示可能拉低CTR，这让本已接近最低门槛的账户感到担忧。"
+                "x": "Meta计划让大多数用户免费使用Muse，同时从平台上的交易中抽取一定比例，并向重度用户收费。Zuckerberg表示，Meta预计明年将Muse的成本效率提升10倍以上，并预测它最终带来的每用户收入将超过其应用家族。"
               },
               {
                 "t": "p",
-                "x": "非营利机构本周应检查AI Max是否已开启，审查近期搜索字词，监控CTR，并确认新增流量是否符合目标。这一变化最早由数字广告专家Dan Kabakov在LinkedIn上发现。"
+                "x": "他还预告了“Muse network”：“如果你想买东西，就不只是访问那家企业的网站，而是与它的代理对话。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "AI Max aparece activado\nen algunas cuentas de Ad Grants",
-          "body": "Se detectó AI Max activado sin aviso en algunas cuentas de Ad Grants y podría amenazar el mínimo de CTR de las ONG.",
-          "mini_headline": "AI Max detectado en Ad Grants",
+          "headline": "Muse de Meta supera 10M usuarios\ncon las compras como uso clave",
+          "body": "Meta dice que su app de IA Muse supera los 10 millones de usuarios y que las compras están entre sus usos principales.",
+          "mini_headline": "Muse supera 10M usuarios",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD6pX.img"
+                "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+                "cap": "Créditos de imagen: Samuel Boivin/NurPhoto / Getty Images"
               },
               {
                 "t": "p",
-                "x": "La función AI Max de Google Ads aparece activada automáticamente en algunas campañas de Search de Google Ad Grants sin que los anunciantes la hayan encendido, lo que plantea dudas sobre cuánto control tienen los anunciantes sin fines de lucro sobre la configuración de campañas AI-powered (impulsadas por AI). Google no ha confirmado que se trate de un nuevo despliegue Ad Grants-wide, para todo Ad Grants."
+                "x": "Meta dijo el miércoles, durante su conferencia de resultados del tercer trimestre, que su app de IA Muse ha sido adoptada por más de 10 millones de usuarios. Mark Zuckerberg dijo que alrededor del 25% de quienes configuran Muse ahora la usan a diario."
               },
               {
                 "t": "p",
-                "x": "AI Max amplía las campañas de Search con concordancia broad-match (amplia) y keywordless (sin palabras clave), textos de anuncio generados o adaptados automáticamente a partir de las páginas de destino y señales de esas páginas que ayudan a Google a juzgar qué búsquedas son relevantes."
-              },
-              {
-                "t": "img",
-                "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fD3Sg.img",
-                "cap": "El ajuste AI Max for Search campaigns en Google Ads"
+                "x": "Según él, más de una cuarta parte de los usuarios activos de Muse que compraban a través del agente de IA tuvo un gasto medio por compra superior a $200. Muse usa el conector de Plaid para permitir las compras con agentes. Otros usos populares incluyen tareas de productividad personal, como conectar el agente al correo electrónico o al calendario."
               },
               {
                 "t": "p",
-                "x": "Para los anunciantes de Ad Grants, el CTR está ligado al cumplimiento de la cuenta. Una concordancia más amplia puede llegar a nuevas audiencias, pero las impresiones adicionales sin clics podrían bajar el CTR, algo preocupante para las cuentas que ya están cerca del umbral mínimo."
+                "x": "Meta planea mantener Muse gratis para la mayoría de los usuarios y quedarse con un porcentaje del comercio en la plataforma, además de cobrar a los usuarios avanzados. Zuckerberg dijo que Meta espera mejorar la eficiencia de costes de Muse más de 10 veces el próximo año y prevé que con el tiempo genere más ingresos por usuario que su familia de apps."
               },
               {
                 "t": "p",
-                "x": "Las organizaciones sin fines de lucro deberían comprobar esta semana si AI Max está activado, revisar los términos de búsqueda recientes, vigilar el CTR y confirmar que el tráfico añadido se ajusta a sus objetivos. El cambio lo detectó primero el especialista en publicidad digital Dan Kabakov en LinkedIn."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "marketing-hark-agent-pizza-promo",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 에이전트 피자 판촉\n차트 정상 뒤 삐걱",
-      "body": "Hark $1M 피자 경품, Lifestyle No. 1에도 주문은 자꾸 막혔다.",
-      "mini_headline": "AI 에이전트 피자 판촉 삐걱",
-      "tool": "Marketing",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/10/20/hark-ai-agent-startup-free-pizza-doordash",
-      "accent": "#eb367f",
-      "motif": "frame",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
-            "cap": "일러스트: Brendan Lynch/Axios"
-          },
-          {
-            "t": "p",
-            "x": "AI 스타트업 Hark는 자사 에이전트를 알리려고 1백만 달러 규모 경품 행사를 열고 DoorDash 크레딧 30달러를 내걸었다. Hark Pro를 내려받아 계정을 연결한 뒤 에이전트에게 피자 주문을 맡기면 된다. 행사 덕에 Hark는 Apple App Store Lifestyle 부문 No. 1에 올랐다. 몰려든 수요로 기술 문제가 생겼지만 피자 약 20,000판을 배달했다는 게 Hark의 설명이다."
-          },
-          {
-            "t": "p",
-            "x": "많은 사용자에게는 고단한 밤이었다. 투자자 Sheel Mohnot은 주문에 20분이 걸렸다고 했고, 다른 사용자는 크레딧이 적용되지 않아 27.70달러가 청구됐다고 전했다. Replika 창업자 Eugenia Kuyda는 거듭 실패한 시도를 올렸다. Axios 기자는 크레딧은 받았지만 피자는 끝내 받지 못했고, Gmail을 연결하자 Google 보안 경고까지 받았다. Hark는 이메일 읽기·작성·발송을 포함해 Google 권한을 폭넓게 요구한다."
-          },
-          {
-            "t": "p",
-            "x": "CEO Brett Adcock은 사용량이 폭증해 많은 것이 고장 났다고 했다. 그래도 Hark는 Handoff 모델로 203,500건이 넘는 브라우저 세션을 처리했다. 대변인은 문제가 이번 프로모션에 한정된다며 피해 사용자에게 기프트 카드를 제공했다. 에이전트에는 여전히 로그인과 권한, 사람의 도움이 필요하고 그 탓에 간단한 일이 오히려 어려워질 수 있다는 게 이번 일의 교훈이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "A free-pizza AI agent promo\ntops charts, then misfires",
-          "body": "Hark's $1M DoorDash pizza giveaway hit No. 1 in Lifestyle, but many orders failed and it sought broad Gmail access.",
-          "mini_headline": "AI agent pizza promo misfires",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
-                "cap": "Illustration: Brendan Lynch/Axios"
-              },
-              {
-                "t": "p",
-                "x": "AI startup Hark offered $30 in DoorDash credit in a $1 million giveaway meant to showcase its agent: download Hark Pro, connect your accounts and ask the agent to order a pizza. The promo pushed Hark to No. 1 in the Lifestyle category of Apple's App Store, and Hark says it delivered nearly 20,000 pizzas despite technical problems from overwhelming demand."
-              },
-              {
-                "t": "p",
-                "x": "Many users had a worse night. Investor Sheel Mohnot said ordering took 20 minutes; another user reported a $27.70 charge when the credit didn't apply; Replika founder Eugenia Kuyda posted repeated failed attempts. The Axios reporter got the credit but no pizza, plus a Google security alert after connecting Gmail. Hark requests extensive Google permissions, including reading, composing and sending email."
-              },
-              {
-                "t": "p",
-                "x": "CEO Brett Adcock said usage surged and many things broke, though Hark ran more than 203,500 browser sessions through its Handoff model. A spokesperson said the problems were unique to the promotion and offered gift cards to affected users. The lesson: agents still need logins, permissions and human help, which can make simple tasks harder."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI 에이전트 피자 판촉\n차트 정상 뒤 삐걱",
-          "body": "Hark $1M 피자 경품, Lifestyle No. 1에도 주문은 자꾸 막혔다.",
-          "mini_headline": "AI 에이전트 피자 판촉 삐걱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
-                "cap": "일러스트: Brendan Lynch/Axios"
-              },
-              {
-                "t": "p",
-                "x": "AI 스타트업 Hark는 자사 에이전트를 알리려고 1백만 달러 규모 경품 행사를 열고 DoorDash 크레딧 30달러를 내걸었다. Hark Pro를 내려받아 계정을 연결한 뒤 에이전트에게 피자 주문을 맡기면 된다. 행사 덕에 Hark는 Apple App Store Lifestyle 부문 No. 1에 올랐다. 몰려든 수요로 기술 문제가 생겼지만 피자 약 20,000판을 배달했다는 게 Hark의 설명이다."
-              },
-              {
-                "t": "p",
-                "x": "많은 사용자에게는 고단한 밤이었다. 투자자 Sheel Mohnot은 주문에 20분이 걸렸다고 했고, 다른 사용자는 크레딧이 적용되지 않아 27.70달러가 청구됐다고 전했다. Replika 창업자 Eugenia Kuyda는 거듭 실패한 시도를 올렸다. Axios 기자는 크레딧은 받았지만 피자는 끝내 받지 못했고, Gmail을 연결하자 Google 보안 경고까지 받았다. Hark는 이메일 읽기·작성·발송을 포함해 Google 권한을 폭넓게 요구한다."
-              },
-              {
-                "t": "p",
-                "x": "CEO Brett Adcock은 사용량이 폭증해 많은 것이 고장 났다고 했다. 그래도 Hark는 Handoff 모델로 203,500건이 넘는 브라우저 세션을 처리했다. 대변인은 문제가 이번 프로모션에 한정된다며 피해 사용자에게 기프트 카드를 제공했다. 에이전트에는 여전히 로그인과 권한, 사람의 도움이 필요하고 그 탓에 간단한 일이 오히려 어려워질 수 있다는 게 이번 일의 교훈이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "無料ピザのAIエージェント\n販促、首位の後に混乱",
-          "body": "Harkの$1M ピザ企画はLifestyleでNo. 1になったが注文失敗が続出した。",
-          "mini_headline": "AIエージェントのピザ販促が混乱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
-                "cap": "イラスト：Brendan Lynch/Axios"
-              },
-              {
-                "t": "p",
-                "x": "AIスタートアップのHarkは、自社エージェントを披露するための総額1百万ドルのプレゼント企画で、DoorDashの30ドル分のクレジットを提供した。Hark Proをダウンロードし、アカウントを連携して、エージェントにピザの注文を頼む仕組みだ。この企画でHarkはAppleのApp StoreのLifestyleカテゴリでNo. 1になり、Harkは殺到した需要による技術的な問題があったものの、20,000枚近いピザを届けたとしている。"
-              },
-              {
-                "t": "p",
-                "x": "多くのユーザーにとっては散々な夜だった。投資家のSheel Mohnotは注文に20分かかったと述べ、別のユーザーはクレジットが適用されず27.70ドルを請求されたと報告した。Replika創業者のEugenia Kuydaは失敗を繰り返す様子を投稿した。Axiosの記者はクレジットは得たもののピザは届かず、Gmailを連携した後にGoogleのセキュリティ警告まで受けた。Harkはメールの閲覧・作成・送信を含む広範なGoogleの権限を求める。"
-              },
-              {
-                "t": "p",
-                "x": "CEOのBrett Adcockは利用が急増して多くの不具合が出たと述べたが、HarkはHandoffモデルで203,500超のブラウザセッションを処理した。広報担当者は、問題は今回のプロモーション特有のものだとし、影響を受けたユーザーにギフトカードを提供した。教訓は、エージェントにはいまだにログイン、権限、人の手助けが必要で、それが単純な作業をかえって難しくしかねないということだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "免费披萨AI智能体促销\n登顶榜单后频频翻车",
-          "body": "Hark的$1M 披萨赠送登上Lifestyle榜No. 1，但大量订单失败。",
-          "mini_headline": "AI智能体披萨促销翻车",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
-                "cap": "插图：Brendan Lynch/Axios"
-              },
-              {
-                "t": "p",
-                "x": "AI初创公司Hark推出总额1百万美元的赠送活动，发放30美元DoorDash额度，以展示其智能体：下载Hark Pro、连接账户，再让智能体订一份披萨。活动让Hark登上Apple App Store的Lifestyle类别No. 1；Hark称，尽管需求激增导致技术问题，仍送出了近20,000份披萨。"
-              },
-              {
-                "t": "p",
-                "x": "许多用户的这一晚并不顺利。投资人Sheel Mohnot说下单花了20分钟；另一名用户称额度未生效，被扣了27.70美元；Replika创始人Eugenia Kuyda发帖展示了多次失败的尝试。Axios记者拿到了额度却没等到披萨，连接Gmail后还收到了Google安全警报。Hark要求获取广泛的Google权限，包括读取、撰写和发送邮件。"
-              },
-              {
-                "t": "p",
-                "x": "CEO Brett Adcock表示使用量激增，很多环节出了故障，不过Hark通过其Handoff模型运行了超过203,500次浏览器会话。一名发言人称问题仅限于此次促销，并向受影响用户提供礼品卡。教训在于：智能体仍然需要登录、权限和人工协助，这可能让简单的任务变得更难。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Pizza gratis con agente AI\nencabeza listas y luego falla",
-          "body": "El sorteo de pizza de $1M de Hark en DoorDash llegó al No. 1 en Lifestyle, pero muchos pedidos fallaron.",
-          "mini_headline": "Falla la promo de pizza con agente AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
-                "cap": "Ilustración: Brendan Lynch/Axios"
-              },
-              {
-                "t": "p",
-                "x": "La startup de AI Hark ofreció $30 en crédito de DoorDash en un sorteo de $1 millón pensado para mostrar su agente: descargar Hark Pro, conectar las cuentas y pedirle al agente que encargue una pizza. La promoción llevó a Hark al No. 1 de la categoría Lifestyle de la App Store de Apple, y Hark asegura que entregó casi 20,000 pizzas pese a los problemas técnicos causados por la enorme demanda."
-              },
-              {
-                "t": "p",
-                "x": "Muchos usuarios tuvieron una noche peor. El inversor Sheel Mohnot dijo que el pedido le llevó 20 minutos; otro usuario informó de un cargo de $27.70 porque no se aplicó el crédito; la fundadora de Replika, Eugenia Kuyda, publicó varios intentos fallidos. El reportero de Axios obtuvo el crédito pero no la pizza, además de una alerta de seguridad de Google tras conectar Gmail. Hark solicita amplios permisos de Google, incluidos leer, redactar y enviar correos."
-              },
-              {
-                "t": "p",
-                "x": "El CEO, Brett Adcock, dijo que el uso se disparó y muchas cosas fallaron, aunque Hark ejecutó más de 203,500 sesiones de navegador con su modelo Handoff. Un portavoz afirmó que los problemas fueron exclusivos de la promoción y ofreció tarjetas regalo a los usuarios afectados. La lección: los agentes aún necesitan inicios de sesión, permisos y ayuda humana, lo que puede complicar tareas sencillas."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "AI 에이전트 피자 판촉\n차트 정상 뒤 삐걱",
-          "body": "Hark $1M 피자 경품은 Lifestyle No. 1에도 주문은 자꾸 막혔다.",
-          "mini_headline": "AI 에이전트 피자 판촉 삐걱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
-                "cap": "일러스트: Brendan Lynch/Axios"
-              },
-              {
-                "t": "p",
-                "x": "AI 스타트업 Hark는 자사 에이전트를 알리려고 1백만 달러 규모 경품 행사를 열어 DoorDash 크레딧 30달러를 내걸었다. Hark Pro를 내려받고 계정을 연결한 뒤 에이전트에게 피자 주문을 맡기는 방식이다. 행사 덕에 Hark는 Apple App Store Lifestyle 부문 No. 1에 올랐고, Hark는 몰려든 수요로 기술 문제가 생겼는데도 피자 약 20,000판을 배달했다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "많은 사용자에게는 고단한 밤이었다. 투자자 Sheel Mohnot은 주문에 20분이 걸렸다고 했고, 다른 사용자는 크레딧이 적용되지 않아 27.70달러가 청구됐다고 전했다. Replika 창업자 Eugenia Kuyda는 거듭 실패한 시도를 올렸다. Axios 기자는 크레딧은 받았지만 피자는 받지 못했고, Gmail을 연결한 뒤 Google 보안 경고까지 받았다. Hark는 이메일 읽기·작성·발송을 포함한 폭넓은 Google 권한을 요구한다."
-              },
-              {
-                "t": "p",
-                "x": "CEO Brett Adcock은 사용량이 폭증해 많은 것이 고장 났다고 했지만, Hark는 Handoff 모델로 203,500건이 넘는 브라우저 세션을 처리했다. 대변인은 문제가 이번 프로모션에만 해당한다며 피해 사용자에게 기프트 카드를 제공했다. 교훈은 에이전트에 여전히 로그인, 권한, 사람의 도움이 필요하고, 그 탓에 간단한 일이 오히려 어려워질 수 있다는 점이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "無料ピザのAIエージェント\n販促、首位の後に混乱",
-          "body": "Harkの$1M ピザ企画はLifestyleでNo. 1になったが注文失敗が続出した。",
-          "mini_headline": "AIエージェントのピザ販促が混乱",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
-                "cap": "イラスト：Brendan Lynch/Axios"
-              },
-              {
-                "t": "p",
-                "x": "AIスタートアップのHarkは、自社エージェントを披露するための総額1百万ドルのプレゼント企画で、DoorDashの30ドル分のクレジットを提供した。Hark Proをダウンロードし、アカウントを連携して、エージェントにピザの注文を頼む仕組みだ。この企画でHarkはAppleのApp StoreのLifestyleカテゴリでNo. 1になり、Harkは殺到した需要による技術的な問題があったものの、20,000枚近いピザを届けたとしている。"
-              },
-              {
-                "t": "p",
-                "x": "多くのユーザーにとっては散々な夜だった。投資家のSheel Mohnotは注文に20分かかったと述べ、別のユーザーはクレジットが適用されず27.70ドルを請求されたと報告した。Replika創業者のEugenia Kuydaは失敗を繰り返す様子を投稿した。Axiosの記者はクレジットは得たもののピザは届かず、Gmailを連携した後にGoogleのセキュリティ警告まで受けた。Harkはメールの閲覧・作成・送信を含む広範なGoogleの権限を求める。"
-              },
-              {
-                "t": "p",
-                "x": "CEOのBrett Adcockは利用が急増して多くの不具合が出たと述べたが、HarkはHandoffモデルで203,500超のブラウザセッションを処理した。広報担当者は、問題は今回のプロモーション特有のものだとし、影響を受けたユーザーにギフトカードを提供した。教訓は、エージェントにはいまだにログイン、権限、人の手助けが必要で、それが単純な作業をかえって難しくしかねないということだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "免费披萨AI智能体促销\n登顶榜单后频频翻车",
-          "body": "Hark的$1M 披萨赠送登上Lifestyle榜No. 1，但大量订单失败。",
-          "mini_headline": "AI智能体披萨促销翻车",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
-                "cap": "插图：Brendan Lynch/Axios"
-              },
-              {
-                "t": "p",
-                "x": "AI初创公司Hark推出总额1百万美元的赠送活动，发放30美元DoorDash额度，以展示其智能体：下载Hark Pro、连接账户，再让智能体订一份披萨。活动让Hark登上Apple App Store的Lifestyle类别No. 1；Hark称，尽管需求激增导致技术问题，仍送出了近20,000份披萨。"
-              },
-              {
-                "t": "p",
-                "x": "许多用户的这一晚并不顺利。投资人Sheel Mohnot说下单花了20分钟；另一名用户称额度未生效，被扣了27.70美元；Replika创始人Eugenia Kuyda发帖展示了多次失败的尝试。Axios记者拿到了额度却没等到披萨，连接Gmail后还收到了Google安全警报。Hark要求获取广泛的Google权限，包括读取、撰写和发送邮件。"
-              },
-              {
-                "t": "p",
-                "x": "CEO Brett Adcock表示使用量激增，很多环节出了故障，不过Hark通过其Handoff模型运行了超过203,500次浏览器会话。一名发言人称问题仅限于此次促销，并向受影响用户提供礼品卡。教训在于：智能体仍然需要登录、权限和人工协助，这可能让简单的任务变得更难。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Pizza gratis con agente AI\nencabeza listas y luego falla",
-          "body": "El sorteo de pizza de $1M de Hark en DoorDash llegó al No. 1 en Lifestyle, pero muchos pedidos fallaron.",
-          "mini_headline": "Falla la promo de pizza con agente AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://images.axios.com/ZYqxiGym0nND40yaHTuRTXhbZiU=/0x0:1920x1080/1920x1080/2025/04/28/1745859661240.gif?w=3840",
-                "cap": "Ilustración: Brendan Lynch/Axios"
-              },
-              {
-                "t": "p",
-                "x": "La startup de AI Hark ofreció $30 en crédito de DoorDash en un sorteo de $1 millón pensado para mostrar su agente: descargar Hark Pro, conectar las cuentas y pedirle al agente que encargue una pizza. La promoción llevó a Hark al No. 1 de la categoría Lifestyle de la App Store de Apple, y Hark asegura que entregó casi 20,000 pizzas pese a los problemas técnicos causados por la enorme demanda."
-              },
-              {
-                "t": "p",
-                "x": "Muchos usuarios tuvieron una noche peor. El inversor Sheel Mohnot dijo que el pedido le llevó 20 minutos; otro usuario informó de un cargo de $27.70 porque no se aplicó el crédito; la fundadora de Replika, Eugenia Kuyda, publicó varios intentos fallidos. El reportero de Axios obtuvo el crédito pero no la pizza, además de una alerta de seguridad de Google tras conectar Gmail. Hark solicita amplios permisos de Google, incluidos leer, redactar y enviar correos."
-              },
-              {
-                "t": "p",
-                "x": "El CEO, Brett Adcock, dijo que el uso se disparó y muchas cosas fallaron, aunque Hark ejecutó más de 203,500 sesiones de navegador con su modelo Handoff. Un portavoz afirmó que los problemas fueron exclusivos de la promoción y ofreció tarjetas regalo a los usuarios afectados. La lección: los agentes aún necesitan inicios de sesión, permisos y ayuda humana, lo que puede complicar tareas sencillas."
+                "x": "También adelantó una \"Muse network\": \"Y si quieres comprar algo, no se trata solo de ir al sitio web de esa empresa; se trata de hablar con su agente\"."
               }
             ]
           }

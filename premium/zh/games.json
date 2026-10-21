@@ -7845,6 +7845,136 @@
           "x": "它还支持脚本和自动化流水线，并提供项目专属设置和生成历史以保持一致性。CLI面向Pro和Studio套餐开放，可通过npm安装或用npx运行。Ludo还在ludo.ai/developers上线了Developers专区，涵盖CLI、MCP服务器、REST API和Unity插件。"
         }
       ]
+    },
+    "games/games-molleindustria": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+        },
+        {
+          "t": "p",
+          "x": "政治游戏开发者Paulo \"Molleindustria\" Pedercini透露，生态社会主义讽刺游戏Future? No Thanks!的代码中有“极少一部分”是在项目临近尾声时借助AI编写的，用于排查和修复漏洞。游戏还为一个自动马桶和一个会误译的个人助理使用了约两分钟的ElevenLabs文本转语音；他坚称美术和文字内容均非AI-generated。"
+        },
+        {
+          "t": "p",
+          "x": "“Slop和vibe-coded游戏是一场灾难，AI是一个技术法西斯、反人类、反艺术的项目，”他在博客中写道，并补充说99%的代码早于AI编程工具出现，在修复损坏的着色器等问题时，“ChatGPT或Claude”充当了“强大的语义搜索引擎”。“AI generated代码一旦引入就很难移除。”"
+        },
+        {
+          "t": "video",
+          "yt": "nDD-FhqDvow"
+        },
+        {
+          "t": "p",
+          "x": "一段质疑严格“AI-free”标准的结语在Bluesky上遭到强烈反对后被删除。RPS认为这一披露令人失望：他本应在出售游戏之前就阐明立场。"
+        }
+      ]
+    },
+    "games/games-vibecoding-webgame": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp"
+        },
+        {
+          "t": "p",
+          "x": "随着基于自然语言的氛围编程日益普及，人人都能轻松制作和发布网页游戏的时代已经到来。以编程为主的AI能够流畅地实现JavaScript和HTML，在韩国，《这辈子就是棒球》和《80亿分之1》等作品凭借社区口碑大受欢迎。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/344/995/20261019183348.jpg",
+          "cap": "《这辈子就是棒球》让玩家打造自己的球员，并通过训练和策略逐步培养（图片：GameMeca拍摄）"
+        },
+        {
+          "t": "p",
+          "x": "然而，在需要用户提供账户信息或个人验证码的情况下，连最基本的安全指南都不了解、完全依赖AI做出的作品，可能直接导致安全事故。缺乏代码基础知识的人很难识别AI编写的代码中的缺陷或安全漏洞，而API泄露可能让用户和开发者都蒙受损失。"
+        },
+        {
+          "t": "p",
+          "x": "分级审查也容易被忽视。一旦通过赞助或广告等方式开始获得收益，无论金额和规模大小，都必须接受分级审查；即便是非营利游戏，只要含有青少年不宜内容也同样如此。据韩国游戏物管理委员会介绍，网页游戏被归类为“PC/在线”游戏。"
+        },
+        {
+          "t": "p",
+          "x": "人人都能做，并不是可以随意制作和发布的免罪符。当游戏成长为公共服务的那一刻，创作者就必须成为该服务的完全责任人。"
+        }
+      ]
+    },
+    "games/games-pgc-nordics": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "更多并不总是更好。这一观点贯穿了20日至21日在Helsinki（赫尔辛基）举行、汇聚移动游戏行业的PGC Nordics多场会议。"
+        },
+        {
+          "t": "p",
+          "x": "Katharina Schmidt敦促工作室在一开始就商定IP合作的三项细节：持续多久、在哪些地区上线，以及IP在游戏中如何呈现。她说：“尽早商定IP使用权和审批事宜。”"
+        },
+        {
+          "t": "img",
+          "src": "https://media.pocketgamer.biz/images/141813/90088/lukedickenpgcnordics_1200.jpg"
+        },
+        {
+          "t": "p",
+          "x": "LuDic AI创始人、Take-Two Interactive前AI负责人Dr Luke Dicken提醒，既不要全盘否定生成式AI，也不要把一次成功当作一切都已改变的证据。工作室若专注于AI能真正创造价值的领域，比如为回归玩家提供LLM-driven的情境回顾，将收获更多。“追逐生产力话题的人，不过是在跑步机上原地奔跑。”"
+        },
+        {
+          "t": "p",
+          "x": "Outfit7的Urška Leskovar表示，在参与度下滑时增加更多活动并没有抓住要点：“玩家不需要更多事情可做，他们需要一个在乎的理由。”Xsolla的Ola Dokun补充道：“拥有网店并不等于拥有D2C战略。”"
+        }
+      ]
+    },
+    "games/games-xbox-ai-manager": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft高级业务战略经理Brandon Stirrup连发多条帖子，声称Xbox内部普遍使用AI，并表示他不再在意谁知道这件事。他在X上写道：“如果能让Xbox的数百人不再假装没在用AI，我乐意承担后果。”“是时候接受现实、继续前进了。”"
+        },
+        {
+          "t": "p",
+          "x": "“游戏是唯一一个假装不用AI的行业，”他写道，“听着，如果我明天被解雇，那是因为我告诉了你们没人希望你们知道的真相。用一个简单的提示词就能做出游戏，没错，还能做出定制化、量身打造的游戏。”"
+        },
+        {
+          "t": "img",
+          "src": "https://kotaku.com/app/uploads/2026/10/Screenshot-2026-10-20-at-11.21.03%E2%80%AFAM.jpg",
+          "cap": "©Brandon Stirrup / X"
+        },
+        {
+          "t": "p",
+          "x": "该帖子串连同他的账号一起被删除；知情人士告诉PC Gamer，他删除是因为回复数量太多。Kotaku认为，高调宣扬全面采用AI，正是赶走Xbox急需的客户的好办法。“用户想要真相，”他写道，“我们在用AI。”"
+        }
+      ]
+    },
+    "games/games-gemini-agents-ender-dragon": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
+        },
+        {
+          "t": "p",
+          "x": "Google研究人员发表论文称，四个Google Gemini 4 Argon AI智能体在没有任何人类帮助的情况下通关了Minecraft。它们用了27小时多一点击败Ender Dragon，这被认为是全球首次。"
+        },
+        {
+          "t": "p",
+          "x": "Google把这支由四个智能体组成的团队放进一个随机的Minecraft种子，只给了一个目标：击败Ender Dragon。研究人员表示：“每个智能体通过名为Mineflayer的开源库控制一名玩家，并借助游戏内聊天和共享记忆与队友协作。”“没有人分配角色，也没有人编写游戏逻辑。智能体自己规划、编写并调试了每一个程序。”"
+        },
+        {
+          "t": "p",
+          "x": "智能体很快就分好了工——种地、收集食物、探索——还相互分享战斗技巧。整个过程中，它们交换了229条消息，运行了2,783个程序，死亡605次，另有第五个智能体负责检查是否有人作弊。抵达The End用了约13.5小时；智能体共消耗1.35 billion个输入token，按普通用户计约合$1,620。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员表示，他们希望在这类系统被托付现实任务之前，先在一个完全可见的环境中研究智能体团队如何协作：“通关Minecraft所需的技能，例如协调团队、从失败中恢复、持续一天以上追求一个目标，也正是智能体与人可靠地并肩工作所需要的。”"
+        }
+      ]
     }
   }
 }

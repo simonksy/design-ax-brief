@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "music",
   "picks": [
     {
-      "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-      "source": "The Verge",
-      "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
+      "title": "Why did Apple buy AI music startup Samplab, and how might this impact Logic Pro?",
+      "url": "https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/",
+      "source": "MusicTech",
       "tool": "Music",
       "accent": "#ff2d55",
       "motif": "sphere",
-      "rationale": "Spotify has disclosed a new figure: more than 50 million AI slop and spam tracks pulled from recommendations this year, though it still does not label AI tracks. That shapes discoverability for every release on the platform.",
-      "published_iso": "2026-10-20T14:18:37+00:00",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Spotify says it has pulled more than 50 million AI slop and spam tracks from its recommendations this year — but it still isn't labeling AI tracks."
+      "rationale": "Apple quietly bought AI audio startup Samplab (disclosed in an EU DMA filing), a strong signal that polyphonic audio-to-MIDI and note editing are coming to Logic Pro. Directly actionable for Logic users. Kept over the MusicRadar version of the same story (cluster c0).",
+      "published_iso": "2026-10-21T16:40:58+00:00",
+      "og_image": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg",
+      "excerpt": "Apple acquired AI audio startup Samplab (disclosed via an EU Digital Markets Act filing), seemingly to bolster Logic Pro's AI tools such as polyphonic audio-to-MIDI and note editing."
     },
     {
-      "url": "https://www.hypebot.com/believe-tunecore-artists-can-opt-into-spotifys-ai-remix-tool/",
-      "source": "Hypebot",
-      "title": "Believe, TuneCore Artists Can Opt Into Spotify's AI Remix Tool",
+      "title": "IAMDDB accuses Israel of 'stealing her identity' in AI propaganda video",
+      "url": "https://mixmag.net/read/iamddb-accuses-israeli-government-stealing-identity-for-ai-propaganda-video-news",
+      "source": "Mixmag",
       "tool": "Music",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "This is a new licensing deal that lets indie artists opt in and earn royalties when fans make AI remixes and covers on Spotify. It is a concrete consent-and-pay model for derivative AI works.",
-      "published_iso": "2026-10-20T15:25:00.000Z",
-      "og_image": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png",
-      "excerpt": "A new licensing agreement lets participating Believe and TuneCore artists opt in to earn royalties from AI-powered fan remixes and covers on Spotify."
-    },
-    {
-      "url": "https://bedroomproducersblog.com/2026/10/20/session-loops-pitchnet/",
-      "source": "Bedroom Producers Blog",
-      "title": "Session Loops releases PitchNet, a free AI vocal pitch editor",
-      "tool": "Music",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "rationale": "This is a free, cross-platform vocal pitch editor in the style of Melodyne. It uses AI resynthesis to rebuild the vocal at the edited pitch, and producers can use it right away.",
+      "rationale": "A new case of an artist's AI-generated likeness being used without consent in a government video. A concrete deepfake and likeness-rights incident that hasn't been covered before.",
       "published_iso": "2026-10-20T00:00:00+00:00",
-      "og_image": "https://bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
-      "excerpt": "PitchNet is a free Melodyne-style vocal pitch editor for macOS, Windows and Linux that shows notes in a piano roll and uses AI resynthesis to rebuild the vocal at the edited pitch for smoother, more natural results."
+      "og_image": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE",
+      "excerpt": "Manchester artist IAMDDB says a now-deleted government clip used an AI-generated likeness of her, raising artist-likeness and deepfake concerns."
     },
     {
-      "url": "https://www.rollingstone.com/music/music-news/human-made-human-paid-musicians-union-afm-labor-agreement-1235645099/",
-      "source": "Rolling Stone",
-      "title": "'Human Made, Human Paid': The Largest U.S. Musicians Union Is Demanding AI Protections",
+      "title": "Romain Gavras Is Bummed About Those AI Versions of 'Storm'",
+      "url": "https://pitchfork.com/story/romain-gavras-is-bummed-about-those-ai-versions-of-storm/",
+      "source": "Pitchfork",
       "tool": "Music",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "The AFM has launched a new campaign demanding AI protections and pay in its contract with the major labels. It is a labor push separate from the court fight over the 'new use' clause.",
-      "published_iso": "2026-10-20T17:15:32+00:00",
-      "og_image": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
-      "excerpt": "The AFM's 'Human Made, Human Paid' campaign asks major labels to give musicians a contract with AI protections and compensation."
+      "rationale": "Director Romain Gavras reacts to AI copycat recreations of his Yung Lean 'Storm' music video. A fresh example of AI imitating music-video craft, and a creator-side view of what it costs the crew behind the original.",
+      "published_iso": "2026-10-20T18:06:39+00:00",
+      "og_image": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png",
+      "excerpt": "Director Romain Gavras says AI copycat 'recreations' of his Yung Lean 'Storm' video made him sad for the crew who put in so much work on the real thing."
     },
     {
-      "url": "https://musically.com/2026/10/20/just-4-noise-launches-ethically-trained-ai-kick-drum-generator/",
-      "source": "Music Ally",
-      "title": "Just 4 Noise launches ethically-trained AI kick-drum generator",
+      "title": "Streaming Fraud Threatens More Than Fraudsters. We Must Find Meaningful Solutions (Guest Column)",
+      "url": "https://www.billboard.com/pro/streaming-fraud-hurts-songwriters-find-solutions/",
+      "source": "Billboard",
       "tool": "Music",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "This is a new kick-drum generator trained only on licensed material. It is a practical sound-design tool and part of a growing set of ethically trained AI tools for producers.",
-      "published_iso": "2026-10-20T11:43:00+00:00",
-      "og_image": "https://musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg",
-      "excerpt": "Just 4 Noise's Just 4 Kicks is an AI kick-drum sample generator trained on licensed material, part of a wider trend of ethically-trained AI tools for producers."
+      "rationale": "NMPA chief David Israelite argues that AI-fuelled streaming fraud (Deezer counts 90,000 AI tracks a day) is draining songwriter royalties. It is the publishers' formal stance, not a rehash of the earlier Copyright Office inquiry story.",
+      "published_iso": "2026-10-21T21:29:20+00:00",
+      "og_image": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024",
+      "excerpt": "NMPA chief David Israelite argues streaming fraud, exacerbated by AI-generated tracks (Deezer: 90,000 a day), drains songwriter royalties and needs industry solutions."
+    },
+    {
+      "title": "Moises and SoundCloud Partner to Bring AI-Supported Creation, Collaboration and Distribution Together for 150+ Million Artists",
+      "url": "https://finance.yahoo.com/technology/ai/articles/moises-soundcloud-partner-bring-ai-142300209.html",
+      "source": "PR Newswire (via Yahoo Finance)",
+      "tool": "Music",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "rationale": "A concrete new product partnership: Moises's stem separation, chord and lyric detection, and AI mix/master tools plug into SoundCloud's distribution, with a no-training-without-consent pledge. Directly actionable for independent creators, and a different outlet and angle (tools) from the other four picks.",
+      "published_iso": "2026-10-21T14:23:00Z",
+      "og_image": "https://media.zenfs.com/en/prnewswire.com/a4bac47dad1064098ea29683926cc611.jpg",
+      "excerpt": "Moises, the ethically trained AI creative suite used by 80 million musicians, is partnering with SoundCloud to bring stem separation, chord/lyric detection and AI-assisted mixing and mastering together with SoundCloud distribution. SoundCloud says it does not train generative models on artists' music without consent."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed": {
-        "verdict": "new",
-        "nearest": "https://www.digitalmusicnews.com/2026/10/01/spotify-editorial-playlists-consumption-shift/",
-        "new_action": ""
-      },
-      "https://www.hypebot.com/believe-tunecore-artists-can-opt-into-spotifys-ai-remix-tool/": {
+      "https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://bedroomproducersblog.com/2026/10/20/session-loops-pitchnet/": {
-        "verdict": "new",
-        "nearest": "https://bedroomproducersblog.com/2026/10/14/discodsp-waveprompt/",
-        "new_action": ""
-      },
-      "https://www.rollingstone.com/music/music-news/human-made-human-paid-musicians-union-afm-labor-agreement-1235645099/": {
-        "verdict": "new",
-        "nearest": "https://completemusicupdate.com/universal-and-warner-tell-judge-new-use-clause-in-afm-agreement-is-clear-and-unambiguous-and-does-not-apply-to-their-ai-deals/",
-        "new_action": ""
-      },
-      "https://musically.com/2026/10/20/just-4-noise-launches-ethically-trained-ai-kick-drum-generator/": {
+      "https://mixmag.net/read/iamddb-accuses-israeli-government-stealing-identity-for-ai-propaganda-video-news": {
         "verdict": "new",
         "nearest": "",
+        "new_action": ""
+      },
+      "https://pitchfork.com/story/romain-gavras-is-bummed-about-those-ai-versions-of-storm/": {
+        "verdict": "new",
+        "nearest": "",
+        "new_action": ""
+      },
+      "https://www.billboard.com/pro/streaming-fraud-hurts-songwriters-find-solutions/": {
+        "verdict": "new",
+        "nearest": "https://www.billboard.com/pro/copyright-office-music-streaming-fraud-inquiry/",
+        "new_action": ""
+      },
+      "https://finance.yahoo.com/technology/ai/articles/moises-soundcloud-partner-bring-ai-142300209.html": {
+        "verdict": "new",
+        "nearest": "https://www.hypebot.com/believe-tunecore-artists-can-opt-into-spotifys-ai-remix-tool/",
         "new_action": ""
       }
     },
-    "note": "Cluster c7 (Spotify 50M slop tracks): kept The Verge and dropped Engadget's 'dancing around' piece as the same story. The Verge's 50M figure is a new disclosure, distinct from the 10-06 DMN editorial-playlist report and the 10-17 Bureau AI-badge story. PitchNet is a different product from the WavePrompt story it was matched to (same outlet only). The AFM 'Human Made, Human Paid' campaign is a new union action, separate from the 9-22 court filing on the AFM 'new use' clause. Dropped: Gearnews 'humanity of instruments' (commentary on the already-covered vibe-coded plugin story, Attack 10-17 / Verge 10-20); Apple acquires Samplab (M&A noise, and the Logic Pro angle is speculation); ICMP on Australia (a reaction on the running Australian copyright lobbying story, ARIA 10-07, and lower value); Music Ally general AI-jobs/gender studies (not music-specific); Pitchfork Romain Gavras (reaction piece about a music video, low actionability); arXiv MIRA (published 10-07, stale, and close to the 10-19 MIDI-REPA alignment paper). Diversity: 5 picks from 5 different outlets."
+    "note": "Dropped as repeats of published stories: Deezer AI on/off toggle (DMN; MBW published 10-14), YouTube Music AI labels (DMN; TechCrunch published 10-15), Sony/UMG legal action against DistroKid over AI disclosure (DMN; Billboard published 10-17), AFM 'Human Made Human Paid' campaign (CMU; Rolling Stone published 10-21), and the MusicTech opinion piece on vibecoded AI plugins (commentary on the running theme already covered by Attack 10-17, BPB 10-18 and The Verge 10-20, with no new event). Within-pool: the MusicRadar Samplab article (cluster c0) is the same story as the MusicTech one, so MusicTech was kept. SWAP 10-22: the enrichment fetch found that the Synthtopia piece 'Elektron Responds To Explosion Of Unofficial Firmware' is the same story as the 10-20 Verge card (theverge.com/gadgets/1013493), which already reported Elektron's response, so it was dropped. BACKFILL 10-22 (recovery pass): added Moises x SoundCloud as pick 5. No Moises or SoundCloud story appears in the 30-day history; the nearest is the Believe/TuneCore x Spotify AI remix opt-in (10-21), a different partnership. Recovery candidates not chosen: the Guardian 'fans reject AI music' piece (analysis whose news hook is the already-published Spotify 50m slop removal from 10-21, so no new event of its own); ICMP's Australian submission (DMN; a fresh filing but adjacent to the 10-07 ARIA Australian lobbying story, and less actionable); JYP/SM AI idols (Chosun Biz; a strategy trend, not a release); Neutune 'Tal' at ADE (a solid alternate, but a smaller announcement); Chronixx Grammy AI category (10-11, stale, and overlaps the 10-16 Hypebot awards piece); Galaxy Corp robot performances and the Lithuanian voice law (weak AI-music angle). The final 5 come from 5 distinct outlets."
   }
 }

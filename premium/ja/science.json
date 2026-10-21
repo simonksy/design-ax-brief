@@ -8697,6 +8697,140 @@
           "x": "懐疑的な見方もある。Ekoの「soul（魂）」ファイルはEkoを「生まれつき好奇心旺盛」と記しており、続けるよう促されるまで何もせずにいることも多かった。UC BerkeleyのEunice Yiuは「モデルが本当に遊んでいる可能性はあるが、この論文からはわからない」と述べる。"
         }
       ]
+    },
+    "science/science-krict-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+          "cap": "研究者の自然言語入力をLLMが変換してベイズ最適化を導き、結果がフィードバックされる。"
+        },
+        {
+          "t": "p",
+          "x": "韓国化学研究院（KRICT）のGwang-Noh Ahn博士率いるチームが、自律実験室向けのヒューマン・イン・ザ・ループ（human-in-the-loop）型最適化フレームワークを構築した。"
+        },
+        {
+          "t": "p",
+          "x": "大規模言語モデルが研究者の平易な指示を、ベイズ最適化で使える構造化された事前分布と制約に変換する。適応的重み信頼性検出（AWCD）と呼ぶ構成要素が、その指示が実験データと合うかを確かめ、データと矛盾する事前分布を無効にする。"
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+          "cap": "AWCDは、矛盾するデータが蓄積すると誤った指示を無効化する。"
+        },
+        {
+          "t": "p",
+          "x": "実データに基づくシミュレーションでは、目標到達に必要な実験回数がUgi反応で約30回から10回未満に、P3HT-CNT複合材料で約20回から3–5回に減った。チームは対話で実験を調整できる対話型インターフェース「Co-Scientist」も公開した。実際の実験室での検証はこれから予定している。"
+        },
+        {
+          "t": "p",
+          "x": "Amirreza Mottafeghが筆頭著者を務めたこの研究は、Journal of Chemical Information and Modelingに掲載された。"
+        }
+      ]
+    },
+    "science/science-fairstress": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2は、LLMsの人口統計学的な公平性を、モデルが最終的に下す選択を超えて測定するベンチマークFairStressを発表した。シナリオの2つの版で同じ答えに至っても意味のある違いが隠れている場合があるため、説得力のある「敵対的プレフィックス」が集団ごとに判断を異なる形で変えるかどうかも検証する。"
+        },
+        {
+          "t": "p",
+          "x": "採用や医療から融資、刑事司法まで29の領域にわたる、候補者2人の300シナリオで構成され、1300万件を超えるテストケースを生み出す。5万項目のサブセットFairStress-Coreも公開された。"
+        },
+        {
+          "t": "p",
+          "x": "人口統計情報がない場合、挙動はおおむね対称だった。属性が明示的になるほど対称性は崩れた。正しい選択を手放すことが少数派とコード化された候補に有利に働く場合、モデルはより容易にそれを手放した。「反ステレオタイプ的過剰補正」である。曖昧なケースでは、フロンティアモデルが少数派とコード化された候補を選んだ割合は約60–65%だった。"
+        },
+        {
+          "t": "p",
+          "x": "説明にも差が出て、優遇された候補の資格は評価されにくかった。9種類のバイアス緩和策のうち、精度をほぼ保ちながら差を縮めたのは反事実的な思考の連鎖（counterfactual chain-of-thought）だけだった。"
+        }
+      ]
+    },
+    "science/science-sodium-ion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+          "cap": "ビジュアルアブストラクト。出典：Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+        },
+        {
+          "t": "p",
+          "x": "University of Surreyの研究者らは、マンガンの一部を鉄、チタン、バナジウムで置き換えた、ナトリウムマンガン酸化物正極の28組成からなるライブラリーを作製した。"
+        },
+        {
+          "t": "p",
+          "x": "鉄は高いエネルギー容量、バナジウムは優れたサイクル安定性、少量のチタンは優れた高レート性能と関連していた。チタンを含む一部の組成は、100サイクル後も容量の90%超を維持した。"
+        },
+        {
+          "t": "p",
+          "x": "チームはこのデータで機械学習モデルを訓練したが、ライブラリーは信頼できる予測にはまだ小さすぎる。拡充すれば、いずれAIが実験前に有望な組成を提案できるようになる可能性がある。責任著者のDaniel Commandeur博士は、リチウムと比べて「ナトリウムははるかに豊富だ」と指摘した。"
+        },
+        {
+          "t": "p",
+          "x": "研究はJournal of Materials Chemistry Aに掲載された。"
+        }
+      ]
+    },
+    "science/science-glucose-sensing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+          "cap": "写真：Eugenio Marongiu/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "流加培養（fed-batch）発酵では正確なグルコース監視が長年ボトルネックとなっており、オフラインのセンサーでは、ハイブリッド型や連続型のバイオプロセスに必要な高頻度・低遅延の測定値が得られない。"
+        },
+        {
+          "t": "p",
+          "x": "East China University of Science and TechnologyのXiwei Tian氏とGuilin University of Electronic TechnologyのYinlan Ruan氏が率いる研究チームは、ラマンとNIRのスペクトルを別々にエンコードして融合する二重ストリーム・クロスアテンション型トランスフォーマー「DS-CAT」を構築した。ラマンの化学的指紋とNIRの広い測定範囲を組み合わせる仕組みだ。"
+        },
+        {
+          "t": "p",
+          "x": "同期したRaman-NIR記録142件で、DS-CATはグルコース変動の99%を説明し（RMSE 1.09 g/L、MAE 0.89 g/L）、5分割交差検証でも性能を維持したうえ、部分最小二乗法、勾配ブースティング木、CNNs、時間畳み込みネットワークを上回った。1122–1335 cm⁻¹のラマン領域が最も高い予測感度を示した。"
+        },
+        {
+          "t": "p",
+          "x": "研究はBioprocess and Biosystems Engineeringに掲載された。"
+        }
+      ]
+    },
+    "science/science-flip-lunar-supercomputer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+          "cap": "クリーンルーム内のAstrolabのFLIPローバー。"
+        },
+        {
+          "t": "p",
+          "x": "Astrolabは年内に、AstroboticのGriffin-1ミッションで無人ローバーFLIPを月の南極へ打ち上げる。搭載するのはHPEのSpaceborne Computer-4だ。低消費電力の64-bit CPUとGPUを備えた軽量でファンのないモジュールで、KIOXIAのソリッドステートドライブと組み合わせる。"
+        },
+        {
+          "t": "p",
+          "x": "AstrolabのCEO、Jaret Matthews氏は「年内にHPEの初のスーパーコンピューターを月面に送り、月で初のGPU［と］月で初のAI実験を行う」と語った。月面での高性能コンピューティングとAIの初の試験となる。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+          "cap": "Astrolab提供の画像(Image credit: Chelsea Gohd)"
+        },
+        {
+          "t": "p",
+          "x": "飛行ではまず、コンピューターが過酷な環境に耐えられるかを試す。視覚データの解析や自律観測を担い、航法、地図作成、地形解析も処理する。HPEによれば、AIサービスコンテナが月面でスケーラブルなAIアプリケーションを実証する。"
+        },
+        {
+          "t": "p",
+          "x": "実験の一つは、火星(Mars)で使われたJPLの位置推定プログラムだ。GPSがない中、機械学習アルゴリズムが周囲の地形を保存済みの地図と照合し、ローバーを危険なクレーターから遠ざける。"
+        }
+      ]
     }
   }
 }
