@@ -1,54 +1,27 @@
 {
-  "date": "2026-10-21",
   "section": "design",
-  "now_iso": "2026-10-20T21:40:00Z",
+  "generated_at": "2026-10-21T22:00:00Z",
   "window_hours": 72,
   "items": [
     {
-      "category": "figma",
-      "source": "Digital Trends",
-      "title": "ChatGPT Slides lets users create, edit and present decks without leaving ChatGPT",
-      "url": "https://www.digitaltrends.com/computing/chatgpt-wants-to-steal-your-job-as-the-office-powerpoint-person/",
-      "published_iso": "2026-10-20T12:24:51Z",
-      "excerpt": "OpenAI's new ChatGPT Slides turns conversations, uploaded files, outlines or a sample deck into an editable presentation, generating custom images and refining text, visuals and charts, with live team editing and PowerPoint export. Off-list source (no allowed-domain coverage found).",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C630",
-      "lang": "en",
-      "history_match": {
-        "score": 0.212,
-        "date": "2026-10-20",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
-        "title": "How to shape your slides and videos with Gemini Notebook",
-        "band": "related"
-      }
-    },
-    {
-      "category": "figma",
-      "source": "Webflow",
-      "title": "Access the Webflow MCP in Google Gemini",
-      "url": "https://webflow.com/updates/google-gemini",
-      "published_iso": "2026-10-20T07:52:31Z",
-      "excerpt": "Google Gemini now connects to Webflow's MCP server, letting users build pages, manage CMS content and check site performance without leaving Gemini. Off-list vendor source (time from Webflow Updates RSS).",
-      "og_image": "https://cdn.prod.website-files.com/687e8d1b96312cc631cafec7/6acfc2cb02776b2a359fc632_Google%20Gemini%20-%20Updates.png",
-      "lang": "en",
-      "history_match": {
-        "score": 0.249,
-        "date": "2026-09-28",
-        "url": "https://petapixel.com/2026/09/25/you-can-edit-your-photos-with-lightroom-and-photoshop-inside-google-gemini/",
-        "title": "You Can Edit Your Photos With Lightroom and Photoshop Inside Google Gemini",
-        "band": "related"
-      }
-    },
-    {
-      "category": "workflow",
+      "title": "A founder with a tool is not a founder with a clue",
+      "url": "https://uxdesign.cc/a-founder-with-a-tool-is-not-a-founder-with-a-clue-65bccb0dc2f8",
       "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-10-21T21:50:55Z",
+      "excerpt": "Dan Maccarone argues AI lets solo founders ship code, design and marketing without a team, but can't supply the judgment to know whether the product is any good - the expertise designers bring.",
+      "og_image": "https://cdn-images-1.medium.com/max/1024/1*XcVtMCEX_vCOtBKRxiMXCw.jpeg"
+    },
+    {
       "title": "AI doesn't care about your job title",
       "url": "https://uxdesign.cc/ai-doesnt-care-about-your-job-title-c08dd4fdf8d8",
-      "published_iso": "2026-10-20T21:29:26Z",
-      "excerpt": "Patrick Neeman argues AI exposure runs through the tasks a designer does each week, not the role on the badge, and lays out how to measure your own exposure and lower the risk.",
+      "source": "UX Collective",
+      "category": "workflow",
+      "published_iso": "2026-10-20T21:29:28Z",
+      "excerpt": "Patrick Neeman says AI exposure runs through the weekly tasks designers do, not the title on their badge, and lays out a way to measure your own exposure across design files, roadmaps and code editors.",
       "og_image": "https://cdn-images-1.medium.com/max/1024/1*rkrQndbiq5v4xo32eVP06A.png",
-      "lang": "en",
       "history_match": {
-        "score": 0.193,
+        "score": 0.176,
         "date": "2026-10-18",
         "url": "https://uxdesign.cc/the-ai-experience-doesnt-care-about-your-org-chart-5ed595c7b373",
         "title": "The AI experience doesn't care about your org chart",
@@ -56,170 +29,189 @@
       }
     },
     {
-      "category": "workflow",
+      "title": "Can you take AI at its word?",
+      "url": "https://uxdesign.cc/can-you-take-ai-at-its-word-06126b976245",
       "source": "UX Collective",
-      "title": "Human attention is the new old bottleneck. We have to design for it even more.",
-      "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a",
-      "published_iso": "2026-10-19T21:39:26Z",
-      "excerpt": "Reading Anthropic's Oct 16 study (agents now log six hours for every human hour), the piece argues designers' job shifts to building judgement systems for what deserves human attention.",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
-      "lang": "en"
-    },
-    {
       "category": "workflow",
-      "source": "UX Collective",
-      "title": "Let AI have the average user: Why User Research should focus on bad days",
-      "url": "https://uxdesign.cc/let-ai-have-the-average-user-why-user-research-should-focus-on-bad-days-e7bba55f855f",
-      "published_iso": "2026-10-20T21:30:51Z",
-      "excerpt": "Kai Wong: NN/g found synthetic (AI) research captures common responses, so human UX research should concentrate on users' edge cases and bad days.",
-      "og_image": "https://cdn-images-1.medium.com/max/2600/1*0RuE6NZm_DgJUlA0IGG-Aw.jpeg",
-      "lang": "en",
-      "history_match": {
-        "score": 0.25,
-        "date": "2026-10-11",
-        "url": "https://uxdesign.cc/are-synthetic-users-really-the-future-of-ux-research-fd76fcb479ec",
-        "title": "Are synthetic users (really) the future of UX research?",
-        "band": "related"
-      }
+      "published_iso": "2026-10-21T21:50:06Z",
+      "excerpt": "AI agents explain their own work fluently and sometimes wrongly; Dora Czerna argues designers should treat agent self-reports with the same skepticism they learned to apply to human accounts. (Feed carries a teaser only.)",
+      "og_image": "https://cdn-images-1.medium.com/max/1100/1*mPw95o9x2pcMCIOS87WGFA.png"
     },
     {
-      "category": "render",
-      "source": "The Verge",
-      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-      "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-actions-open-eyes",
-      "published_iso": "2026-10-20T13:06:44Z",
-      "excerpt": "Lightroom for iOS, iPadOS and Android adds a one-tap generative-AI Open Eyes fix that matches lighting and pose using other shots of the same person; free users get limited tries.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "lang": "en",
-      "history_match": {
-        "score": 0.264,
-        "date": "2026-09-28",
-        "url": "https://petapixel.com/2026/09/25/you-can-edit-your-photos-with-lightroom-and-photoshop-inside-google-gemini/",
-        "title": "You Can Edit Your Photos With Lightroom and Photoshop Inside Google Gemini",
-        "band": "related"
-      }
-    },
-    {
-      "category": "render",
-      "source": "Digital Camera World",
-      "title": "DxO ViewPoint 6 introduces AI masking, but maintains that no AI image generation takes place",
-      "url": "https://www.digitalcameraworld.com/tech/software/wonky-photos-of-buildings-begone-dxo-viewpoint-6-introduces-ai-masking-but-maintains-that-no-ai-image-generation-takes-place",
-      "published_iso": "2026-10-20T13:22:04Z",
-      "excerpt": "DxO's perspective/geometry-correction tool ViewPoint 6 adds AI masking while stressing it does no generative image creation. Off-list (PetaPixel's version is Cloudflare-blocked).",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-2560-80.jpg",
-      "lang": "en"
-    },
-    {
-      "category": "workflow",
-      "source": "Creative Bloq",
-      "title": "This weird legal case could change how we think of copyright forever",
-      "url": "https://www.creativebloq.com/news/this-weird-legal-case-could-change-how-we-think-of-copyright-forever",
-      "published_iso": "2026-10-18T10:00:00Z",
-      "excerpt": "A copyright dispute over AI-born 'Italian Brain Rot' characters could have profound effects on how creative work and authorship are protected.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/JoUu8JLXzrgKRoDJU72EME-1000-80.jpg",
-      "lang": "en"
-    },
-    {
-      "category": "workflow",
-      "source": "Hyperallergic",
-      "title": "Dear Art World, We Can Tell When You're Using AI",
-      "url": "https://hyperallergic.com/dear-art-world-we-can-tell-when-youre-using-ai/",
-      "published_iso": "2026-10-20T20:40:08Z",
-      "excerpt": "Hyperallergic calls out museums, foundations and cultural organizations for relying on generative tools instead of paying writers and creatives. Off-list source.",
-      "og_image": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/screamfinal.gif",
-      "lang": "en"
-    },
-    {
-      "category": "cad",
-      "source": "3D Printing Industry",
-      "title": "Vibecoded clones of SolidWorks and AutoCAD released as open-source",
-      "url": "https://3dprintingindustry.com/news/vibecoded-clones-of-solidworks-and-autocad-released-as-open-source-255770/",
-      "published_iso": "2026-10-19T09:44:14Z",
-      "excerpt": "SolidCraft (parametric 3D modeller) and CADCraft (AutoCAD-style drafting) were built in Rust with AI coding agents and expose their own tools to agents via MCP, testing how far AI-assisted development can take engineering software. Off-list source.",
-      "og_image": "https://3dprintingindustry.com/wp-content/uploads/2026/10/ui-apartment.png",
-      "lang": "en"
-    },
-    {
-      "category": "cad",
-      "source": "SiliconANGLE",
-      "title": "Neural Concept launches MCP to help AI agents operate commercial CAD tools",
-      "url": "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/",
-      "published_iso": "2026-10-19T16:00:00Z",
-      "excerpt": "Neural Concept's Model Context Protocol Bridge lets AI agents drive commercial CAD and simulation tools, automating geometry cleanup and meshing steps in product design cycles. Off-list source.",
-      "og_image": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg",
-      "lang": "en",
-      "history_match": {
-        "score": 0.183,
-        "date": "2026-09-24",
-        "url": "https://www.engineering.com/multiphysics-gets-mcp-server-and-onshape-gets-simscale-agent/",
-        "title": "Multiphysics gets MCP server and Onshape gets SimScale agent",
-        "band": "related"
-      }
-    },
-    {
-      "category": "vr",
-      "source": "UploadVR",
-      "title": "Meta Expands SDKs To Boost Spatial Apps On Quest & VR Glasses, Including NBA, Disney+",
-      "url": "https://www.uploadvr.com/meta-expands-sdks-to-boost-spatial-apps-on-quest-vr-glasses-including-nba-disney/",
-      "published_iso": "2026-10-20T20:13:53Z",
-      "excerpt": "Meta's new VR Layout SDK lets 2D Android apps add visionOS-style spatial windows without going immersive, and a Gaze SDK brings Look-and-Pinch input for Meta VR Glasses. Time from UploadVR RSS (page is bot-blocked).",
-      "og_image": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Thumb22.png",
-      "lang": "en",
-      "history_match": {
-        "score": 0.246,
-        "date": "2026-09-30",
-        "url": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
-        "title": "Hands-on: Meta's Hologram avatars for VR and display glasses",
-        "band": "related"
-      }
-    },
-    {
+      "title": "I built a Claude Code skill that de-slops AI-generated web design",
+      "url": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
+      "source": "DEV Community",
       "category": "tokens",
-      "source": "Hugging Face",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "published_iso": "2026-10-20T00:00:00Z",
-      "excerpt": "Hugging Face ships AnyLanguageModel 1.0, a Swift package for swapping local and cloud LLMs behind Apple's Foundation Models API on Apple platforms.",
-      "og_image": "https://huggingface.co/blog/assets/anylanguagemodel-1-0/banner.png",
-      "lang": "en"
-    },
-    {
-      "category": "social",
-      "source": "Adobe Creative Cloud (YouTube)",
-      "title": "Design a visual for a travel company with Tommaso Baldi using Adobe Stock's AI Studio",
-      "url": "https://www.youtube.com/watch?v=bLI7Vm9Oi1E",
-      "published_iso": "2026-10-19T21:21:08Z",
-      "excerpt": "Tommaso Baldi transforms an Adobe Stock image to match a travel brand's creative direction using Adobe Stock's AI Studio. (Note: AI Studio itself was covered 2026-08-19.)",
-      "og_image": "https://i.ytimg.com/vi/bLI7Vm9Oi1E/maxresdefault.jpg",
-      "lang": "en",
+      "published_iso": "2026-10-21T19:44:23Z",
+      "excerpt": "design-slop-skill is an open Claude Code skill that deterministically detects the 'AI look' in generated pages (huge radii, glassmorphism, red-purple gradients, dark-only, 64px centered heroes) and rewrites them toward human-crafted defaults.",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png",
       "history_match": {
-        "score": 0.175,
-        "date": "2026-09-27",
-        "url": "https://www.creativebloq.com/design/design-software/adobe-max-2026s-lineup-tells-us-a-lot-about-the-companys-ai-priorities-right-now",
-        "title": "Adobe Max 2026's lineup tells us a lot about the company's AI priorities right now",
+        "score": 0.21,
+        "date": "2026-10-09",
+        "url": "https://dev.to/skillgild/claudes-frontend-design-skill-what-it-does-with-a-real-run-5alm",
+        "title": "Claude's frontend-design skill: what it does, with a real run",
         "band": "related"
       }
     },
     {
+      "title": "Figma embraces new AI paradigm but expresses reservations",
+      "url": "https://dev.to/hacksgr/figma-embraces-new-ai-paradigm-but-expresses-reservations-39n7",
+      "source": "DEV Community",
+      "category": "figma",
+      "published_iso": "2026-10-21T00:06:31Z",
+      "excerpt": "Figma co-founder Dylan Field called MCP incomplete and tilted toward big AI labs even as Figma added 20 MCP partners (Notion, ClickUp, Linear) at its India event. Repost of hacks.gr; original reporting by TechCrunch (2026-10-20).",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
+    },
+    {
+      "title": "How to Extract a Website's Design System into DESIGN.md for Your AI Builder",
+      "url": "https://dev.to/khaled_sabry_b3ce59424b84/how-to-extract-a-websites-design-system-into-designmd-for-your-ai-builder-2fok",
+      "source": "DEV Community",
+      "category": "tokens",
+      "published_iso": "2026-10-21T13:18:52Z",
+      "excerpt": "A workflow for pulling design guidance from a reference site into a DESIGN.md that Lovable, Claude, Codex, Replit or Cursor can follow, so AI-built sites stop looking identical. Note: walkthrough uses the author's tool Preveo (promotional).",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fkpot3mp0crmwhdyoi20v.png"
+    },
+    {
+      "title": "The best a clone can do is tie",
+      "url": "https://www.builder.io/blog/the-best-a-clone-can-do-is-tie",
+      "source": "Builder.io",
+      "category": "figma",
+      "published_iso": "2026-10-20T18:00:00Z",
+      "excerpt": "Agents can now rebuild apps from the outside, but every clone is scored against the original, so the best it can do is tie; Builder.io argues for what product and design teams should build instead.",
+      "og_image": "https://cdn.builder.io/api/v1/image/assets/YJIGb4i01jvw0SRdL5Bt/2f5c755ab59946b98c9644492924cfef?width=1200"
+    },
+    {
+      "title": "Europe's Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+      "source": "NVIDIA Blog",
+      "category": "cad",
+      "published_iso": "2026-10-21T10:30:40Z",
+      "excerpt": "At GTC Berlin, Autodesk brings PhysicsNeMo and Warp into NavPack integrated with Autodesk Alias so Bentley designers can predict vehicle performance with simulation-trained AI, and Dassault's CATIA/SIMULIA AI agents design and virtually test car doors.",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
+    },
+    {
+      "title": "AI that understands physics",
+      "url": "https://www.engineering.com/ai-that-understands-physics/",
+      "source": "Engineering.com",
+      "category": "cad",
+      "published_iso": "2026-10-21T16:08:37Z",
+      "excerpt": "Luminary CEO Pete Schlampp explains 'physics AI' - models that predict how a physical product will behave before simulation or test - and how product designers and engineers are starting to use it (vendor-contributed op-ed).",
+      "og_image": "https://www.engineering.com/wp-content/uploads/2026/10/img_physai_physicalai_thumb2.png"
+    },
+    {
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+      "source": "The Verge",
+      "category": "workflow",
+      "published_iso": "2026-10-21T19:53:20Z",
+      "excerpt": "Anthropic opened a waitlist for Claude Duet, a proactive mobile and desktop agent that works across apps, positioned against Meta Muse and OpenAI Dots. Design hook is indirect (general agent).",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+      "history_match": {
+        "score": 0.251,
+        "date": "2026-10-10",
+        "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+        "title": "Instinct's agent UX faces Muse and OpenAI's Dots",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Even designers are now using AI to code Windows 11, and Microsoft says \"we're only getting started\"",
+      "url": "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/",
+      "source": "Windows Latest",
+      "category": "workflow",
+      "published_iso": "2026-10-20T08:17:40Z",
+      "excerpt": "Microsoft's Diego Baca says Windows 11 designers are now making code fixes themselves with AI as Search, Run and Photos are rebuilt in native UI - an in-house design-org AX case. Off-list outlet (no on-list coverage).",
+      "og_image": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+    },
+    {
+      "title": "I asked Google Antigravity to build a website, then let Claude Code redesign it",
+      "url": "https://www.xda-developers.com/asked-google-antigravity-build-website-then-let-claude-code-redesign-it/",
+      "source": "XDA",
+      "category": "workflow",
+      "published_iso": "2026-10-20T20:00:19Z",
+      "excerpt": "A hands-on test hands a site built by one AI agent (Google Antigravity) to another (Claude Code) for a full visual redesign, comparing what each gets right about layout and design. Off-list outlet.",
+      "og_image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/antigravity-vs-claude-code.jpg?w=1600&h=900&fit=crop",
+      "history_match": {
+        "score": 0.166,
+        "date": "2026-09-25",
+        "url": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+        "title": "Meta is going to let you build games with AI right on your phone",
+        "band": "related"
+      }
+    },
+    {
+      "title": "Food Delivery App Apologizes for AI-Generated Menu Photos Showing Bacon Floating in Soda",
+      "url": "https://petapixel.com/2026/10/21/just-eat-food-delivery-app-apologizes-for-ai-generated-menu-photo-showing-bacon-floating-in-soda/",
+      "source": "PetaPixel",
+      "category": "workflow",
+      "published_iso": "2026-10-21T12:43:16Z",
+      "excerpt": "Just Eat apologized after inaccurate AI-generated menu photos, including bacon and eggs floating in a soda, appeared on its app - a brand-imagery cautionary tale for AI-made food photography. Off-list outlet; date/image from PetaPixel RSS (page 403s).",
+      "og_image": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg"
+    },
+    {
+      "title": "I almost missed the most exciting Photoshop teaser of the year. A new film-inspired filter is coming",
+      "url": "https://www.digitalcameraworld.com/tech/software/photoshop-is-reimagining-the-way-filters-work-a-new-film-inspired-light-leak-filter-is-coming-to-photoshop-later-this-year-and-no-its-not-ai",
+      "source": "Digital Camera World",
+      "category": "workflow",
+      "published_iso": "2026-10-20T14:52:27Z",
+      "excerpt": "Adobe teased non-destructive, layer-like filters in a future Photoshop plus a light-leak filter and an AI Assistant tool for creating your own filters, shown during its RTX Spark demo. Off-list outlet; overlaps the already-covered Adobe x NVIDIA story.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/nzEh3CBJtY92xMKqp9wbyn-2560-80.jpg"
+    },
+    {
+      "title": "Someone turned Draco Malfoy into a girl with AI, and now I need to know what happens next",
+      "url": "https://www.creativebloq.com/news/someone-turned-draco-malfoy-into-a-girl-with-ai-and-now-i-need-to-know-what-happens-next",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "published_iso": "2026-10-21T12:00:00Z",
+      "excerpt": "Creator Foyege's 'In Another Universe' series moves a long-running fan-art idea into AI animation with cinematic scenes and dialogue; Creative Bloq looks at the design choices behind the viral AI fan series.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/Z7fRxcsk56cDERLgNCpPeF-1600-80.jpg"
+    },
+    {
+      "title": "Google Meet gave me facial dysmorphia",
+      "url": "https://www.creativebloq.com/features/google-meets-appearance-filters-just-sent-me-into-an-existential-spiral",
+      "source": "Creative Bloq",
+      "category": "figma",
+      "published_iso": "2026-10-20T08:00:00Z",
+      "excerpt": "A Creative Bloq writer on Google Meet's 'Touch up your appearance?' prompt and what default AI beauty filters in work tools mean for how we present ourselves. Weak tool-news hook.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/6Cpmbt3NodVMvosvPwfx6G-1920-80.jpg"
+    },
+    {
+      "title": "From Travel Clips to a Cinematic Edit with Tati Kapaya | The Brief: Season 2",
+      "url": "https://www.youtube.com/watch?v=StE4rqYpXy8",
+      "source": "Adobe Creative Cloud (YouTube)",
       "category": "social",
-      "source": "OpenAI (YouTube)",
-      "title": "You need a better headshot.",
-      "url": "https://www.youtube.com/watch?v=v45XAMqH7pE",
-      "published_iso": "2026-10-20T13:00:34Z",
-      "excerpt": "OpenAI promo short pushing headshot creation with ChatGPT Images.",
-      "og_image": "https://i.ytimg.com/vi/v45XAMqH7pE/maxresdefault.jpg",
-      "lang": "en"
+      "published_iso": "2026-10-21T09:00:44-07:00",
+      "excerpt": "Adobe's The Brief S2: creator Tati Kapaya reworks old Egypt travel footage into a short-form edit using Adobe Firefly, Adobe Stock and Premiere. Brand-made content.",
+      "og_image": "https://i.ytimg.com/vi/StE4rqYpXy8/maxresdefault.jpg"
+    },
+    {
+      "title": "AI Breakthroughs Everyone Missed",
+      "url": "https://www.youtube.com/watch?v=umGZrkyTRtw",
+      "source": "Matt Wolfe (YouTube)",
+      "category": "social",
+      "published_iso": "2026-10-21T10:45:26-07:00",
+      "excerpt": "Matt Wolfe rounds up under-the-radar AI releases and research, from AI-generated worlds and games to new voice models and 3D tools.",
+      "og_image": "https://i.ytimg.com/vi/umGZrkyTRtw/maxresdefault.jpg"
+    },
+    {
+      "title": "Did Google just dethrone OpenAI and Anthropic?",
+      "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
+      "source": "Fireship (YouTube)",
+      "category": "social",
+      "published_iso": "2026-10-20T09:21:03-07:00",
+      "excerpt": "Fireship test-drives Google's new Gemini 4 Argon against GPT-6 and Claude Opus 5.5 on hands-on build tasks. Model itself launched before the window; this is the in-window hands-on take.",
+      "og_image": "https://i.ytimg.com/vi/b2tjnxX8IHU/maxresdefault.jpg"
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 15,
+    "kept": 19,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 8,
+    "review": 4,
     "same_story_pairs": []
   },
   "history_digest": [
@@ -922,6 +914,31 @@
       "date": "2026-10-20",
       "title": "Fal Debuts FLUX 3 Max Video Model Post-Trained With Black Forest Labs",
       "url": "https://www.unite.ai/fal-debuts-flux-3-max-video-model-post-trained-with-black-forest-labs/"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Neural Concept launches MCP to help AI agents operate commercial CAD tools",
+      "url": "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Human attention is the new old bottleneck. We have to design for it even more.",
+      "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "DxO ViewPoint 6 introduces AI masking, but maintains that no AI image generation takes place",
+      "url": "https://www.digitalcameraworld.com/tech/software/wonky-photos-of-buildings-begone-dxo-viewpoint-6-introduces-ai-masking-but-maintains-that-no-ai-image-generation-takes-place"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "ChatGPT Slides lets users create, edit and present decks without leaving ChatGPT",
+      "url": "https://www.digitaltrends.com/computing/chatgpt-wants-to-steal-your-job-as-the-office-powerpoint-person/"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
+      "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-actions-open-eyes"
     }
   ]
 }

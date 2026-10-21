@@ -3195,6 +3195,133 @@
           "x": "欧盟委员会称，这是高风险AI系统要求开始适用前的重要里程碑，后续还将有更多协调标准出台。"
         }
       ]
+    },
+    "politics/politics-xai-epa-turbine-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg",
+          "cap": "xAI孟菲斯设施的热成像图。来源：Steve Jones, Flight by Southwings for SELC"
+        },
+        {
+          "t": "p",
+          "x": "NAACP起诉xAI（合并后现为SpaceXAI），指其为田纳西州孟菲斯（Memphis）Colossus数据中心供电的燃气涡轮机未获环境许可即运行。NAACP请求法院颁布禁令，要求采用现有最佳污染控制措施，并对每项违规按日处以最高$124,426的罚款。"
+        },
+        {
+          "t": "p",
+          "x": "特朗普政府代表EPA申请介入，称该机构可单方面撤销这起公民诉讼，并称让诉讼继续进行“不符合公共利益”。"
+        },
+        {
+          "t": "p",
+          "x": "周二，美国地区法院（US District）法官黛布拉·布朗（Debra Brown）裁定，《清洁空气法》（Clean Air Act）中“没有任何”条款允许EPA署长“单方面撤销公民诉讼”，并指出EPA在本案中未采取任何自身的执法行动。她还驳回了政府以宪法回避（constitutional-avoidance）为由、称民事罚款专属行政权力的论点。"
+        },
+        {
+          "t": "p",
+          "x": "裁决驳回了撤诉请求，但没有拒绝政府介入：政府仍可加入诉讼支持SpaceXAI，并须在10月23日前说明立场或选择不介入。上诉法院认为政府的上诉为时过早，拒绝暂停此案。该裁决并未判定xAI是否违法。"
+        }
+      ]
+    },
+    "politics/politics-unidir-military-ai-forum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fGXR0.img"
+        },
+        {
+          "t": "p",
+          "x": "联合国裁军研究所（U.N. Institute for Disarmament Research，UNIDIR）计划于周四启动首个国际论坛，供各主要方面探讨人工智能的军事用途。"
+        },
+        {
+          "t": "p",
+          "x": "UNIDIR负责人罗宾·盖斯（Robin Geiss）周二在U.N.新闻发布会上表示，随着AI扩展到预警、情报搜集和侦察领域，“包括在核领域，人类判断的空间正日益收窄”。"
+        },
+        {
+          "t": "p",
+          "x": "该论坛隶属于UNIDIR今年夏天在U.S.、俄罗斯、中国、英国和法国资助下设立的“AI、和平与安全卓越中心”（Center of Excellence on AI, Peace and Security）。盖斯对论坛具体将做什么语焉不详。"
+        },
+        {
+          "t": "p",
+          "x": "该中心还在制定负责任产业行为的自愿准则，本周与国防科技公司、开发者和投资者进行磋商，并启动针对武装团体滥用AI问题的工作。盖斯援引上月提出的U.S.-China AI安全预警机制提议，认为这表明相关担忧正在“超越地缘政治阵营”。"
+        }
+      ]
+    },
+    "politics/politics-meta-ai-terms-publishers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/21/GettyImages-2256677765-scaled.jpg",
+          "cap": "2026年1月20日，达沃斯世界经济论坛上的Meta标识。| Ina Fassbender/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "欧洲最大的几家媒体公司已要求布鲁塞尔和伦敦的监管机构阻止Meta推出新条款，称这些条款将允许Meta复制出版商网站来构建AI。欧洲出版商理事会（European Publishers Council）在周一的信中请求欧盟委员特蕾莎·里贝拉（Teresa Ribera）和亨娜·维尔库宁（Henna Virkkunen）敦促Meta在条款于10月30日生效前暂停实施。"
+        },
+        {
+          "t": "p",
+          "x": "欧盟委员会一位发言人表示，布鲁塞尔仍致力于确保Meta的做法符合EU法律，包括竞争规则和《数字市场法》（Digital Markets Act）。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/21/GettyImages-2185907422-1024x683.jpg",
+          "cap": "CMA首席执行官莎拉·卡德尔（Sarah Cardell）。| Leon Neal/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "在U.K.，CMA负责人莎拉·卡德尔对议员表示，该监管机构已要求Meta解释相关变更，并将于周三与该公司会面。"
+        },
+        {
+          "t": "p",
+          "x": "Meta称Nieman Lab关于这些条款的报道“不实”（false），表示条款旨在为广告抓取产品信息，随后删除了“train”（训练）一词。出版商认为此次修改几乎没有改变什么。目前尚无监管机构采取执法行动。"
+        }
+      ]
+    },
+    "politics/politics-ai-datacenter-gridcode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img9.yna.co.kr/photo/yna/YH/2026/08/05/PYH2026080506570001300_P4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "政府计划年内推行的AI数据中心专用“电网规范（电网接入规则）”被指可能在投资一线成为新的监管。"
+        },
+        {
+          "t": "p",
+          "x": "据国会科学技术信息广播通信委员会成员、国民力量党议员赵庆泰介绍，气候能源环境部于8月成立了AI数据中心研究会，并决定年内制定专用电网规范，以防止AI运算时用电量剧烈波动导致电网不稳。电网规范要求设备在电网出现异常时不立即断开、继续维持电压，相当于把主要适用于发电设施的标准扩展到大型数据中心。"
+        },
+        {
+          "t": "p",
+          "x": "赵庆泰指出，AIDC特别法中的LNG直接交易（PPA）内容因气候部反对，在5月全体会议通过的版本中被删除；他还表示，蔚山、东海等GW级项目的适用对象和时间点不明确，业界不安正在加剧。"
+        },
+        {
+          "t": "p",
+          "x": "赵庆泰表示：“应当建立电网安全标准，但已在推进的项目原则上应排除在电网规范适用范围之外。”他称将在综合监察中检查科学技术信息通信部的应对计划。电网规范目前仍处于引入前的规划阶段。"
+        }
+      ]
+    },
+    "politics/politics-dhs-deepseek-agency-removal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "美国（US）国土安全部（DHS）周一下令联邦民事机构不得使用中国AI实验室DeepSeek的技术产品，并移除现有部署。命令涵盖\"所有DeepSeek及DeepSeek-affiliate（关联）产品，以及使用DeepSeek实现开发的第三方产品和服务\"。"
+        },
+        {
+          "t": "p",
+          "x": "The Register指出，合规可能并不容易：\"developed using\"（使用……开发）的含义尚不明确，而OpenRouter或Vercel AI Gateway等AI网关可能在机构不知情的情况下将其路由至DeepSeek模型。DHS未立即回应置评请求。"
+        },
+        {
+          "t": "p",
+          "x": "自DeepSeek-R1于2025年初发布以来，议员们一直以数据隐患为由将DeepSeek定性为国家安全威胁；DISA、海军（Navy）、NASA、众议院（House）和多个州已将其封禁。"
+        },
+        {
+          "t": "p",
+          "x": "Luta Security首席执行官（CEO）Katie Moussouris表示，将DeepSeek的应用和服务器挡在政府系统之外有正当理由，但第三方条款难以切实核查，而把模型的US-hosted（美国托管）版本也纳入其中则走得太远。"
+        }
+      ]
     }
   }
 }

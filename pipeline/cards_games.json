@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "games",
   "cards": [
     {
-      "id": "games-gemini-agents-ender-dragon",
-      "source_lang": "en",
+      "id": "games-raon1mini",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "도움 없이 Gemini가\nMinecraft 깼다",
-      "body": "Gemini 4 Argon 넷이 27시간여 만에 Ender Dragon을 잡았다.",
-      "mini_headline": "AI 에이전트,\nMinecraft 깼다",
+      "headline": "크래프톤, 자체 LLM\n라온-1 미니 공개",
+      "body": "크래프톤이 300억 파라미터 LLM 프리뷰를 상업 이용 가능한 오픈소스로 공개했다.",
+      "mini_headline": "크래프톤 LLM 공개",
       "tool": "Games",
-      "source": "IGN",
-      "url": "https://www.ign.com/articles/google-ai-agents-killed-ender-dragon-minecraft",
+      "source": "게임메카",
+      "url": "https://www.gamemeca.com/view.php?gid=1782130",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -19,295 +19,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
+            "src": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp"
           },
           {
             "t": "p",
-            "x": "Google 연구진이 논문 하나를 공개했다. Google Gemini 4 Argon AI 에이전트 네 개가 사람 도움 없이 Minecraft를 깼다는 내용이다. Ender Dragon을 쓰러뜨리기까지 27시간 남짓 걸렸고, 세계 최초로 꼽힌다."
+            "x": "크래프톤이 자체적으로 개발한 300억 개급 거대언어모델 라온-1 미니(Raon-1 mini)의 프리뷰 버전을 21일 공개했다. 허깅페이스를 통해 아파치 2.0 라이선스의 오픈소스로 배포되어 누구나 무료로 내려받을 수 있으며, 연구뿐 아니라 상업적 서비스와 제품 개발에도 활용할 수 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gamemeca.com/data_center/345/151/20261021144802.jpg",
+            "cap": "라온-1 미니 벤치마크 성능표 (사진출처: 허깅페이스)"
           },
           {
             "t": "p",
-            "x": "Google은 에이전트 네 개로 꾸린 팀을 무작위 Minecraft 시드에 넣고 목표 하나만 줬다. Ender Dragon을 물리치라는 것이었다. 연구진은 \"각 에이전트는 Mineflayer라는 오픈소스 라이브러리로 플레이어 하나를 조작했고, 게임 내 채팅과 공유 메모리로 팀원과 협업했다\"며 \"아무도 역할을 정해 주거나 게임 로직을 짜 주지 않았다. 에이전트가 모든 프로그램을 직접 계획하고 작성하고 디버깅했다\"고 밝혔다."
+            "x": "모델 설계부터 프롬 스크래치 학습까지 전 과정을 크래프톤이 직접 수행했고, 영어와 한국어를 모두 지원한다. 전체 300억 개 파라미터 중 필요한 40억 개만 활성화하는 전문가 혼합(MoE) 구조에 자체 개발한 선형 어텐션 기술을 결합해 빠른 응답 속도와 낮은 추론 비용을 실현했다."
           },
           {
             "t": "p",
-            "x": "에이전트들은 농사, 식량 채집, 탐험으로 금세 역할을 나눴고 전투 요령도 공유했다. 메시지 229건을 주고받았고 프로그램 2,783개를 돌렸으며 605번 죽었다. 그동안 다섯 번째 에이전트는 부정행위가 없는지 지켜봤다. The End에 닿기까지 약 13.5시간이 걸렸고, 입력 토큰은 1.35 billion개로 일반 사용자 요금으로 치면 약 $1,620어치였다."
+            "x": "일부 지표에서 국내 대형 모델 수준에 근접했으며, 지시 이행 능력을 바탕으로 여러 단계 작업을 처리하는 에이전트 활용 역량을 갖췄다. 크래프톤은 지속적인 업데이트로 성능을 개선한 뒤 정식 버전을 선보이고, 정식 버전 출시 시 학습 과정과 최종 성능을 담은 테크니컬 리포트도 공개할 계획이다."
           },
           {
             "t": "p",
-            "x": "연구진은 이런 시스템에 실제 업무를 맡기기 전에, 모든 것이 드러나는 환경에서 에이전트 팀이 어떻게 협업하는지 먼저 보고 싶었다고 했다. \"팀을 조율하고, 실패에서 회복하고, 하루 넘게 목표를 추구하는 것처럼 Minecraft를 풀어내는 데 필요한 능력은 에이전트가 사람과 함께 안정적으로 일하는 데도 필요한 능력이다.\""
+            "x": "이강욱 크래프톤 CAIO는 \"성능은 높이고 비용 부담은 낮춘 가성비 거대언어모델로 다양한 산업 현장에서 AI 활용의 폭을 넓혀 나가겠다\"고 밝혔다. 크래프톤은 지난 4월 AI 모델 브랜드 '라온'을 출범해 라온 스피치 등 4종의 모델을 오픈소스로 공개한 바 있다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Gemini agents beat\nMinecraft unaided",
-          "body": "Four Google Gemini 4 Argon agents took down the Ender Dragon without human help in just over 27 hours.",
-          "mini_headline": "AI agents beat\nMinecraft",
+        "ko": {
+          "headline": "크래프톤, 자체 LLM\n라온-1 미니 공개",
+          "body": "크래프톤이 300억 파라미터 LLM 프리뷰를 상업 이용 가능한 오픈소스로 공개했다.",
+          "mini_headline": "크래프톤 LLM 공개",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp"
               },
               {
                 "t": "p",
-                "x": "Google researchers have released a paper claiming that four Google Gemini 4 Argon AI agents just beat Minecraft without any help from humans. It took them just over 27 hours to take down the Ender Dragon in what is believed to be a world first."
+                "x": "크래프톤이 자체적으로 개발한 300억 개급 거대언어모델 라온-1 미니(Raon-1 mini)의 프리뷰 버전을 21일 공개했다. 허깅페이스를 통해 아파치 2.0 라이선스의 오픈소스로 배포되어 누구나 무료로 내려받을 수 있으며, 연구뿐 아니라 상업적 서비스와 제품 개발에도 활용할 수 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/345/151/20261021144802.jpg",
+                "cap": "라온-1 미니 벤치마크 성능표 (사진출처: 허깅페이스)"
               },
               {
                 "t": "p",
-                "x": "Google placed the team of four agents into a random Minecraft seed with a single goal: defeat the Ender Dragon. \"Each agent controlled a player via an open-source library called Mineflayer and coordinated with its teammates through in-game chat and shared memory,\" the researchers said. \"No one assigned roles or wrote game logic. The agents planned, wrote, and debugged every program themselves.\""
+                "x": "모델 설계부터 프롬 스크래치 학습까지 전 과정을 크래프톤이 직접 수행했고, 영어와 한국어를 모두 지원한다. 전체 300억 개 파라미터 중 필요한 40억 개만 활성화하는 전문가 혼합(MoE) 구조에 자체 개발한 선형 어텐션 기술을 결합해 빠른 응답 속도와 낮은 추론 비용을 실현했다."
               },
               {
                 "t": "p",
-                "x": "The agents settled into roles quickly — farming, gathering food, exploring — and shared combat tips. Over the run they exchanged 229 messages, ran 2,783 programs and died 605 times, while a fifth agent checked that none were cheating. Reaching The End took around 13.5 hours; the agents used 1.35 billion input tokens, roughly $1,620 for a normal user."
+                "x": "일부 지표에서 국내 대형 모델 수준에 근접했으며, 지시 이행 능력을 바탕으로 여러 단계 작업을 처리하는 에이전트 활용 역량을 갖췄다. 크래프톤은 지속적인 업데이트로 성능을 개선한 뒤 정식 버전을 선보이고, 정식 버전 출시 시 학습 과정과 최종 성능을 담은 테크니컬 리포트도 공개할 계획이다."
               },
               {
                 "t": "p",
-                "x": "The researchers said they wanted to study how teams of agents coordinate in a fully visible setting before such systems are trusted with real-world tasks: \"The skills required to solve Minecraft such as coordinating a team, recovering from failure, and pursuing a goal for more than a day, are also what agents need to work reliably alongside people.\""
+                "x": "이강욱 크래프톤 CAIO는 \"성능은 높이고 비용 부담은 낮춘 가성비 거대언어모델로 다양한 산업 현장에서 AI 활용의 폭을 넓혀 나가겠다\"고 밝혔다. 크래프톤은 지난 4월 AI 모델 브랜드 '라온'을 출범해 라온 스피치 등 4종의 모델을 오픈소스로 공개한 바 있다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "도움 없이 Gemini가\nMinecraft 깼다",
-          "body": "Gemini 4 Argon 넷이 27시간여 만에 Ender Dragon을 잡았다.",
-          "mini_headline": "AI 에이전트,\nMinecraft 깼다",
+        "en": {
+          "headline": "Krafton unveils in-house LLM\nRaon-1 mini",
+          "body": "Krafton released a preview of its 30-billion-parameter LLM as open source that allows commercial use.",
+          "mini_headline": "Krafton releases LLM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp"
               },
               {
                 "t": "p",
-                "x": "Google 연구진이 논문 하나를 공개했다. Google Gemini 4 Argon AI 에이전트 네 개가 사람 도움 없이 Minecraft를 깼다는 내용이다. Ender Dragon을 쓰러뜨리기까지 27시간 남짓 걸렸고, 세계 최초로 꼽힌다."
+                "x": "Krafton on the 21st released a preview version of Raon-1 mini, a 30-billion-class large language model it developed in-house. It is distributed as open source under the Apache 2.0 license via Hugging Face, so anyone can download it for free and use it not only for research but also for commercial services and product development."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/345/151/20261021144802.jpg",
+                "cap": "Raon-1 mini benchmark performance table (Photo source: Hugging Face)"
               },
               {
                 "t": "p",
-                "x": "Google은 에이전트 네 개로 꾸린 팀을 무작위 Minecraft 시드에 넣고 목표 하나만 줬다. Ender Dragon을 물리치라는 것이었다. 연구진은 \"각 에이전트는 Mineflayer라는 오픈소스 라이브러리로 플레이어 하나를 조작했고, 게임 내 채팅과 공유 메모리로 팀원과 협업했다\"며 \"아무도 역할을 정해 주거나 게임 로직을 짜 주지 않았다. 에이전트가 모든 프로그램을 직접 계획하고 작성하고 디버깅했다\"고 밝혔다."
+                "x": "Krafton handled the entire process itself, from model design to training from scratch, and the model supports both English and Korean. It combines a mixture-of-experts (MoE) structure, which activates only the 4 billion parameters needed out of 30 billion in total, with in-house linear attention technology to deliver fast responses and low inference costs."
               },
               {
                 "t": "p",
-                "x": "에이전트들은 농사, 식량 채집, 탐험으로 금세 역할을 나눴고 전투 요령도 공유했다. 메시지 229건을 주고받았고 프로그램 2,783개를 돌렸으며 605번 죽었다. 그동안 다섯 번째 에이전트는 부정행위가 없는지 지켜봤다. The End에 닿기까지 약 13.5시간이 걸렸고, 입력 토큰은 1.35 billion개로 일반 사용자 요금으로 치면 약 $1,620어치였다."
+                "x": "On some metrics it comes close to the level of large domestic models, and its instruction-following ability lets it work as an agent that handles multi-step tasks. Krafton plans to improve performance through continuous updates before releasing an official version, and when the official version launches it will also publish a technical report covering the training process and final performance."
               },
               {
                 "t": "p",
-                "x": "연구진은 이런 시스템에 실제 업무를 맡기기 전에, 모든 것이 드러나는 환경에서 에이전트 팀이 어떻게 협업하는지 먼저 보고 싶었다고 했다. \"팀을 조율하고, 실패에서 회복하고, 하루 넘게 목표를 추구하는 것처럼 Minecraft를 풀어내는 데 필요한 능력은 에이전트가 사람과 함께 안정적으로 일하는 데도 필요한 능력이다.\""
+                "x": "Krafton CAIO Lee Kang-wook said, \"With a cost-effective large language model that raises performance and lowers the cost burden, we will broaden the scope of AI use across diverse industries.\" In April, Krafton launched its AI model brand 'Raon' and released 4 models, including Raon Speech, as open source."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiエージェント\n独力でMinecraft攻略",
-          "body": "Gemini 4 Argon四体が独力で、27時間余りでEnder Dragonを倒した。",
-          "mini_headline": "AIエージェント\nMinecraft攻略",
+          "headline": "クラフトン、自社LLM\nRaon-1 mini公開",
+          "body": "クラフトンが300億パラメータのLLMプレビューを商用可能なオープンソースで公開した。",
+          "mini_headline": "クラフトン、LLM公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp"
               },
               {
                 "t": "p",
-                "x": "Googleの研究者は、Google Gemini 4 ArgonのAIエージェント四体が人間の助けを一切借りずにMinecraftをクリアしたとする論文を公開した。Ender Dragonを倒すまでにかかった時間は27時間余りで、世界初とみられる。"
+                "x": "クラフトンは自社開発した300億規模の大規模言語モデル「Raon-1 mini」のプレビュー版を21日に公開した。Hugging Faceを通じてApache 2.0ライセンスのオープンソースとして配布され、誰でも無料でダウンロードでき、研究だけでなく商用サービスや製品開発にも活用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/345/151/20261021144802.jpg",
+                "cap": "Raon-1 miniのベンチマーク性能表（写真出典：Hugging Face）"
               },
               {
                 "t": "p",
-                "x": "Googleは四体のエージェントからなるチームを無作為なMinecraftのシードに配置し、Ender Dragonを倒すという一つの目標だけを与えた。研究者は「各エージェントはMineflayerというオープンソースのライブラリを介してプレイヤーを操作し、ゲーム内チャットと共有メモリでチームメイトと連携した」と述べ、「誰も役割を割り当てず、ゲームロジックも書かなかった。エージェントがすべてのプログラムを自ら計画し、書き、デバッグした」と説明した。"
+                "x": "モデル設計からフルスクラッチでの学習まで全工程をクラフトンが自ら手がけ、英語と韓国語の両方に対応する。全300億パラメータのうち必要な40億だけを活性化する専門家混合（MoE）構造に自社開発の線形アテンション技術を組み合わせ、高速な応答と低い推論コストを実現した。"
               },
               {
                 "t": "p",
-                "x": "エージェントは農作業、食料集め、探索とすぐに役割を分担し、戦闘のコツも共有した。全体で229件のメッセージを交わし、2,783本のプログラムを実行し、605回死亡した。その間、五体目のエージェントが不正がないかを確認した。The Endへの到達には約13.5時間かかり、入力トークンは1.35 billion、一般ユーザーなら約$1,620に相当する量を使った。"
+                "x": "一部の指標では韓国内の大型モデルに迫る水準に達し、指示追従能力をもとに複数段階の作業をこなすエージェントとしての活用力も備える。クラフトンは継続的なアップデートで性能を高めたうえで正式版を投入し、正式版のリリース時には学習過程と最終性能をまとめたテクニカルレポートも公開する計画だ。"
               },
               {
                 "t": "p",
-                "x": "研究者によれば、こうしたシステムに現実の業務を任せる前に、すべてが見える環境でエージェントのチームがどう連携するかを調べたかったという。「チームを調整し、失敗から立ち直り、一日以上にわたって目標を追い続けるといったMinecraftの攻略に必要なスキルは、エージェントが人と並んで確実に働くためにも必要なものだ」"
+                "x": "クラフトンのイ・ガンウクCAIOは「性能を高めつつコスト負担を抑えた、コストパフォーマンスに優れた大規模言語モデルで、さまざまな産業現場でAI活用の幅を広げていく」と述べた。クラフトンは4月にAIモデルブランド「ラオン」を立ち上げ、ラオン・スピーチなど4種のモデルをオープンソースで公開している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini智能体\n独立通关Minecraft",
-          "body": "Gemini 4 Argon四个智能体无人协助，27小时余便击败Ender Dragon。",
-          "mini_headline": "AI智能体\n通关Minecraft",
+          "headline": "Krafton自研LLM\nRaon-1 mini发布",
+          "body": "Krafton以可商用的开源形式发布了300亿参数LLM的预览版。",
+          "mini_headline": "Krafton发布LLM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp"
               },
               {
                 "t": "p",
-                "x": "Google研究人员发表论文称，四个Google Gemini 4 Argon AI智能体在没有任何人类帮助的情况下通关了Minecraft。它们用了27小时多一点击败Ender Dragon，这被认为是全球首次。"
+                "x": "Krafton于21日发布了自主研发的300亿级大语言模型Raon-1 mini的预览版。该模型通过Hugging Face以Apache 2.0许可证开源发布，任何人都可免费下载，不仅可用于研究，也可用于商业服务和产品开发。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/345/151/20261021144802.jpg",
+                "cap": "Raon-1 mini基准性能表（图片来源：Hugging Face）"
               },
               {
                 "t": "p",
-                "x": "Google把这支由四个智能体组成的团队放进一个随机的Minecraft种子，只给了一个目标：击败Ender Dragon。研究人员表示：“每个智能体通过名为Mineflayer的开源库控制一名玩家，并借助游戏内聊天和共享记忆与队友协作。”“没有人分配角色，也没有人编写游戏逻辑。智能体自己规划、编写并调试了每一个程序。”"
+                "x": "从模型设计到从零开始训练，全部流程均由Krafton自主完成，模型同时支持英语和韩语。它采用在全部300亿个参数中仅激活所需40亿个的混合专家（MoE）架构，并结合自研的线性注意力技术，实现了快速响应和低推理成本。"
               },
               {
                 "t": "p",
-                "x": "智能体很快就分好了工——种地、收集食物、探索——还相互分享战斗技巧。整个过程中，它们交换了229条消息，运行了2,783个程序，死亡605次，另有第五个智能体负责检查是否有人作弊。抵达The End用了约13.5小时；智能体共消耗1.35 billion个输入token，按普通用户计约合$1,620。"
+                "x": "该模型在部分指标上已接近韩国国内大型模型的水平，并具备依托指令遵循能力处理多步骤任务的智能体应用能力。Krafton计划通过持续更新提升性能后推出正式版，并在正式版发布时公开涵盖训练过程和最终性能的技术报告。"
               },
               {
                 "t": "p",
-                "x": "研究人员表示，他们希望在这类系统被托付现实任务之前，先在一个完全可见的环境中研究智能体团队如何协作：“通关Minecraft所需的技能，例如协调团队、从失败中恢复、持续一天以上追求一个目标，也正是智能体与人可靠地并肩工作所需要的。”"
+                "x": "Krafton CAIO李康旭表示：“我们将以性能更高、成本负担更低的高性价比大语言模型，拓宽AI在各行业现场的应用范围。”Krafton曾于4月推出AI模型品牌“Raon”，并以开源形式发布了Raon Speech等4款模型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de Gemini vencen\nMinecraft sin ayuda",
-          "body": "Cuatro agentes Google Gemini 4 Argon derrotaron al Ender Dragon sin ayuda humana en poco más de 27 horas.",
-          "mini_headline": "Agentes de AI\nvencen Minecraft",
+          "headline": "Krafton presenta su LLM propio\nRaon-1 mini",
+          "body": "Krafton publicó en código abierto, con uso comercial, la versión previa de un LLM de 30.000 millones de parámetros.",
+          "mini_headline": "Krafton publica un LLM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Google publicaron un artículo según el cual cuatro agentes de AI Google Gemini 4 Argon acaban de superar Minecraft sin ninguna ayuda humana. Tardaron poco más de 27 horas en derrotar al Ender Dragon, en lo que se considera una primicia mundial."
+                "x": "Krafton publicó el día 21 la versión preliminar de Raon-1 mini, un modelo de lenguaje de gran tamaño de 30.000 millones de parámetros desarrollado internamente. Se distribuye como código abierto bajo la licencia Apache 2.0 a través de Hugging Face, de modo que cualquiera puede descargarlo gratis y usarlo no solo para investigación, sino también para servicios comerciales y desarrollo de productos."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/345/151/20261021144802.jpg",
+                "cap": "Tabla de rendimiento de Raon-1 mini en pruebas de referencia (Fuente de la foto: Hugging Face)"
               },
               {
                 "t": "p",
-                "x": "Google colocó al equipo de cuatro agentes en una semilla aleatoria de Minecraft con un único objetivo: derrotar al Ender Dragon. \"Cada agente controlaba a un jugador mediante una biblioteca de código abierto llamada Mineflayer y se coordinaba con sus compañeros a través del chat del juego y de una memoria compartida\", explicaron los investigadores. \"Nadie asignó roles ni escribió la lógica del juego. Los agentes planificaron, escribieron y depuraron ellos mismos cada programa.\""
+                "x": "Krafton llevó a cabo todo el proceso, desde el diseño del modelo hasta el entrenamiento desde cero, y el modelo admite inglés y coreano. Combina una arquitectura de mezcla de expertos (MoE), que activa solo los 4.000 millones de parámetros necesarios de un total de 30.000 millones, con una tecnología propia de atención lineal, lo que permite respuestas rápidas y un bajo costo de inferencia."
               },
               {
                 "t": "p",
-                "x": "Los agentes se repartieron rápidamente los roles —cultivar, recolectar comida, explorar— y compartieron consejos de combate. A lo largo de la partida intercambiaron 229 mensajes, ejecutaron 2,783 programas y murieron 605 veces, mientras un quinto agente comprobaba que ninguno hiciera trampa. Llegar a The End llevó unas 13.5 horas; los agentes usaron 1.35 billion de tokens de entrada, unos $1,620 para un usuario normal."
+                "x": "En algunos indicadores se acerca al nivel de los grandes modelos surcoreanos y, gracias a su capacidad para seguir instrucciones, puede usarse como agente en tareas de varios pasos. Krafton planea mejorar su rendimiento con actualizaciones continuas antes de lanzar la versión oficial y, cuando la lance, publicará también un informe técnico sobre el proceso de entrenamiento y el rendimiento final."
               },
               {
                 "t": "p",
-                "x": "Los investigadores dijeron que querían estudiar cómo se coordinan los equipos de agentes en un entorno totalmente visible antes de confiar a estos sistemas tareas del mundo real: \"Las habilidades necesarias para resolver Minecraft, como coordinar un equipo, recuperarse de un fallo y perseguir un objetivo durante más de un día, son también las que los agentes necesitan para trabajar de forma fiable junto a las personas.\""
+                "x": "Lee Kang-wook, CAIO de Krafton, afirmó: \"Con un modelo de lenguaje de gran tamaño rentable, que eleva el rendimiento y reduce la carga de costos, ampliaremos el uso de la AI en diversos sectores industriales\". En abril, Krafton lanzó su marca de modelos de AI 'Raon' y publicó como código abierto 4 modelos, entre ellos Raon Speech."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "도움 없이 Gemini가\nMinecraft 깼다",
-          "body": "Gemini 4 Argon 넷이 27시간여 만에 Ender Dragon을 잡았다.",
-          "mini_headline": "AI 에이전트,\nMinecraft 깼다",
+        "en": {
+          "headline": "Krafton unveils in-house LLM\nRaon-1 mini",
+          "body": "Krafton released a preview of its 30-billion-parameter LLM as open source that allows commercial use.",
+          "mini_headline": "Krafton releases LLM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp"
               },
               {
                 "t": "p",
-                "x": "Google 연구진이 Google Gemini 4 Argon AI 에이전트 네 개가 사람의 도움 없이 Minecraft를 깼다는 논문을 공개했다. 이들이 Ender Dragon을 쓰러뜨리기까지 27시간 남짓이 걸렸고, 세계 최초로 여겨진다."
+                "x": "Krafton on the 21st released a preview version of Raon-1 mini, a 30-billion-class large language model it developed in-house. It is distributed as open source under the Apache 2.0 license via Hugging Face, so anyone can download it for free and use it not only for research but also for commercial services and product development."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/345/151/20261021144802.jpg",
+                "cap": "Raon-1 mini benchmark performance table (Photo source: Hugging Face)"
               },
               {
                 "t": "p",
-                "x": "Google은 에이전트 네 개로 꾸린 팀을 무작위 Minecraft 시드에 넣고 단 하나의 목표를 줬다. Ender Dragon을 물리치는 것이다. 연구진은 \"각 에이전트는 Mineflayer라는 오픈소스 라이브러리로 플레이어 하나를 조작했고, 게임 내 채팅과 공유 메모리로 팀원과 협업했다\"며 \"아무도 역할을 정해 주거나 게임 로직을 짜 주지 않았다. 에이전트가 모든 프로그램을 직접 계획하고 작성하고 디버깅했다\"고 밝혔다."
+                "x": "Krafton handled the entire process itself, from model design to training from scratch, and the model supports both English and Korean. It combines a mixture-of-experts (MoE) structure, which activates only the 4 billion parameters needed out of 30 billion in total, with in-house linear attention technology to deliver fast responses and low inference costs."
               },
               {
                 "t": "p",
-                "x": "에이전트들은 농사, 식량 채집, 탐험으로 금세 역할을 나눴고 전투 요령도 공유했다. 전체 과정에서 메시지 229건을 주고받고 프로그램 2,783개를 실행했으며 605번 죽었다. 그사이 다섯 번째 에이전트가 부정행위가 없는지 확인했다. The End에 닿기까지 약 13.5시간이 걸렸고, 에이전트들은 입력 토큰 1.35 billion개, 일반 사용자 기준 약 $1,620어치를 썼다."
+                "x": "On some metrics it comes close to the level of large domestic models, and its instruction-following ability lets it work as an agent that handles multi-step tasks. Krafton plans to improve performance through continuous updates before releasing an official version, and when the official version launches it will also publish a technical report covering the training process and final performance."
               },
               {
                 "t": "p",
-                "x": "연구진은 이런 시스템에 실제 업무를 맡기기 전에, 모든 것이 드러나는 환경에서 에이전트 팀이 어떻게 협업하는지 살펴보려 했다고 설명했다. \"팀을 조율하고, 실패에서 회복하고, 하루 넘게 목표를 추구하는 것처럼 Minecraft를 풀어내는 데 필요한 능력은 에이전트가 사람과 함께 안정적으로 일하는 데도 필요한 능력이다.\""
+                "x": "Krafton CAIO Lee Kang-wook said, \"With a cost-effective large language model that raises performance and lowers the cost burden, we will broaden the scope of AI use across diverse industries.\" In April, Krafton launched its AI model brand 'Raon' and released 4 models, including Raon Speech, as open source."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Geminiエージェント\n独力でMinecraft攻略",
-          "body": "Gemini 4 Argon四体が独力で、27時間余りでEnder Dragonを倒した。",
-          "mini_headline": "AIエージェント\nMinecraft攻略",
+          "headline": "クラフトン、自社LLM\nRaon-1 mini公開",
+          "body": "クラフトンが300億パラメータのLLMプレビューを商用可能なオープンソースで公開した。",
+          "mini_headline": "クラフトン、LLM公開",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp"
               },
               {
                 "t": "p",
-                "x": "Googleの研究者は、Google Gemini 4 ArgonのAIエージェント四体が人間の助けを一切借りずにMinecraftをクリアしたとする論文を公開した。Ender Dragonを倒すまでにかかった時間は27時間余りで、世界初とみられる。"
+                "x": "クラフトンは自社開発した300億規模の大規模言語モデル「Raon-1 mini」のプレビュー版を21日に公開した。Hugging Faceを通じてApache 2.0ライセンスのオープンソースとして配布され、誰でも無料でダウンロードでき、研究だけでなく商用サービスや製品開発にも活用できる。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/345/151/20261021144802.jpg",
+                "cap": "Raon-1 miniのベンチマーク性能表（写真出典：Hugging Face）"
               },
               {
                 "t": "p",
-                "x": "Googleは四体のエージェントからなるチームを無作為なMinecraftのシードに配置し、Ender Dragonを倒すという一つの目標だけを与えた。研究者は「各エージェントはMineflayerというオープンソースのライブラリを介してプレイヤーを操作し、ゲーム内チャットと共有メモリでチームメイトと連携した」と述べ、「誰も役割を割り当てず、ゲームロジックも書かなかった。エージェントがすべてのプログラムを自ら計画し、書き、デバッグした」と説明した。"
+                "x": "モデル設計からフルスクラッチでの学習まで全工程をクラフトンが自ら手がけ、英語と韓国語の両方に対応する。全300億パラメータのうち必要な40億だけを活性化する専門家混合（MoE）構造に自社開発の線形アテンション技術を組み合わせ、高速な応答と低い推論コストを実現した。"
               },
               {
                 "t": "p",
-                "x": "エージェントは農作業、食料集め、探索とすぐに役割を分担し、戦闘のコツも共有した。全体で229件のメッセージを交わし、2,783本のプログラムを実行し、605回死亡した。その間、五体目のエージェントが不正がないかを確認した。The Endへの到達には約13.5時間かかり、入力トークンは1.35 billion、一般ユーザーなら約$1,620に相当する量を使った。"
+                "x": "一部の指標では韓国内の大型モデルに迫る水準に達し、指示追従能力をもとに複数段階の作業をこなすエージェントとしての活用力も備える。クラフトンは継続的なアップデートで性能を高めたうえで正式版を投入し、正式版のリリース時には学習過程と最終性能をまとめたテクニカルレポートも公開する計画だ。"
               },
               {
                 "t": "p",
-                "x": "研究者によれば、こうしたシステムに現実の業務を任せる前に、すべてが見える環境でエージェントのチームがどう連携するかを調べたかったという。「チームを調整し、失敗から立ち直り、一日以上にわたって目標を追い続けるといったMinecraftの攻略に必要なスキルは、エージェントが人と並んで確実に働くためにも必要なものだ」"
+                "x": "クラフトンのイ・ガンウクCAIOは「性能を高めつつコスト負担を抑えた、コストパフォーマンスに優れた大規模言語モデルで、さまざまな産業現場でAI活用の幅を広げていく」と述べた。クラフトンは4月にAIモデルブランド「ラオン」を立ち上げ、ラオン・スピーチなど4種のモデルをオープンソースで公開している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Gemini智能体\n独立通关Minecraft",
-          "body": "Gemini 4 Argon四个智能体无人协助，27小时余便击败Ender Dragon。",
-          "mini_headline": "AI智能体\n通关Minecraft",
+          "headline": "Krafton自研LLM\nRaon-1 mini发布",
+          "body": "Krafton以可商用的开源形式发布了300亿参数LLM的预览版。",
+          "mini_headline": "Krafton发布LLM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp"
               },
               {
                 "t": "p",
-                "x": "Google研究人员发表论文称，四个Google Gemini 4 Argon AI智能体在没有任何人类帮助的情况下通关了Minecraft。它们用了27小时多一点击败Ender Dragon，这被认为是全球首次。"
+                "x": "Krafton于21日发布了自主研发的300亿级大语言模型Raon-1 mini的预览版。该模型通过Hugging Face以Apache 2.0许可证开源发布，任何人都可免费下载，不仅可用于研究，也可用于商业服务和产品开发。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/345/151/20261021144802.jpg",
+                "cap": "Raon-1 mini基准性能表（图片来源：Hugging Face）"
               },
               {
                 "t": "p",
-                "x": "Google把这支由四个智能体组成的团队放进一个随机的Minecraft种子，只给了一个目标：击败Ender Dragon。研究人员表示：“每个智能体通过名为Mineflayer的开源库控制一名玩家，并借助游戏内聊天和共享记忆与队友协作。”“没有人分配角色，也没有人编写游戏逻辑。智能体自己规划、编写并调试了每一个程序。”"
+                "x": "从模型设计到从零开始训练，全部流程均由Krafton自主完成，模型同时支持英语和韩语。它采用在全部300亿个参数中仅激活所需40亿个的混合专家（MoE）架构，并结合自研的线性注意力技术，实现了快速响应和低推理成本。"
               },
               {
                 "t": "p",
-                "x": "智能体很快就分好了工——种地、收集食物、探索——还相互分享战斗技巧。整个过程中，它们交换了229条消息，运行了2,783个程序，死亡605次，另有第五个智能体负责检查是否有人作弊。抵达The End用了约13.5小时；智能体共消耗1.35 billion个输入token，按普通用户计约合$1,620。"
+                "x": "该模型在部分指标上已接近韩国国内大型模型的水平，并具备依托指令遵循能力处理多步骤任务的智能体应用能力。Krafton计划通过持续更新提升性能后推出正式版，并在正式版发布时公开涵盖训练过程和最终性能的技术报告。"
               },
               {
                 "t": "p",
-                "x": "研究人员表示，他们希望在这类系统被托付现实任务之前，先在一个完全可见的环境中研究智能体团队如何协作：“通关Minecraft所需的技能，例如协调团队、从失败中恢复、持续一天以上追求一个目标，也正是智能体与人可靠地并肩工作所需要的。”"
+                "x": "Krafton CAIO李康旭表示：“我们将以性能更高、成本负担更低的高性价比大语言模型，拓宽AI在各行业现场的应用范围。”Krafton曾于4月推出AI模型品牌“Raon”，并以开源形式发布了Raon Speech等4款模型。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Agentes de Gemini vencen\nMinecraft sin ayuda",
-          "body": "Cuatro agentes Google Gemini 4 Argon derrotaron al Ender Dragon sin ayuda humana en poco más de 27 horas.",
-          "mini_headline": "Agentes de AI\nvencen Minecraft",
+          "headline": "Krafton presenta su LLM propio\nRaon-1 mini",
+          "body": "Krafton publicó en código abierto, con uso comercial, la versión previa de un LLM de 30.000 millones de parámetros.",
+          "mini_headline": "Krafton publica un LLM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assets-prd.ignimgs.com/2025/04/07/herobrine-main-1744047116903.png?width=1280&format=jpg&auto=webp&quality=80"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Google publicaron un artículo según el cual cuatro agentes de AI Google Gemini 4 Argon acaban de superar Minecraft sin ninguna ayuda humana. Tardaron poco más de 27 horas en derrotar al Ender Dragon, en lo que se considera una primicia mundial."
+                "x": "Krafton publicó el día 21 la versión preliminar de Raon-1 mini, un modelo de lenguaje de gran tamaño de 30.000 millones de parámetros desarrollado internamente. Se distribuye como código abierto bajo la licencia Apache 2.0 a través de Hugging Face, de modo que cualquiera puede descargarlo gratis y usarlo no solo para investigación, sino también para servicios comerciales y desarrollo de productos."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/345/151/20261021144802.jpg",
+                "cap": "Tabla de rendimiento de Raon-1 mini en pruebas de referencia (Fuente de la foto: Hugging Face)"
               },
               {
                 "t": "p",
-                "x": "Google colocó al equipo de cuatro agentes en una semilla aleatoria de Minecraft con un único objetivo: derrotar al Ender Dragon. \"Cada agente controlaba a un jugador mediante una biblioteca de código abierto llamada Mineflayer y se coordinaba con sus compañeros a través del chat del juego y de una memoria compartida\", explicaron los investigadores. \"Nadie asignó roles ni escribió la lógica del juego. Los agentes planificaron, escribieron y depuraron ellos mismos cada programa.\""
+                "x": "Krafton llevó a cabo todo el proceso, desde el diseño del modelo hasta el entrenamiento desde cero, y el modelo admite inglés y coreano. Combina una arquitectura de mezcla de expertos (MoE), que activa solo los 4.000 millones de parámetros necesarios de un total de 30.000 millones, con una tecnología propia de atención lineal, lo que permite respuestas rápidas y un bajo costo de inferencia."
               },
               {
                 "t": "p",
-                "x": "Los agentes se repartieron rápidamente los roles —cultivar, recolectar comida, explorar— y compartieron consejos de combate. A lo largo de la partida intercambiaron 229 mensajes, ejecutaron 2,783 programas y murieron 605 veces, mientras un quinto agente comprobaba que ninguno hiciera trampa. Llegar a The End llevó unas 13.5 horas; los agentes usaron 1.35 billion de tokens de entrada, unos $1,620 para un usuario normal."
+                "x": "En algunos indicadores se acerca al nivel de los grandes modelos surcoreanos y, gracias a su capacidad para seguir instrucciones, puede usarse como agente en tareas de varios pasos. Krafton planea mejorar su rendimiento con actualizaciones continuas antes de lanzar la versión oficial y, cuando la lance, publicará también un informe técnico sobre el proceso de entrenamiento y el rendimiento final."
               },
               {
                 "t": "p",
-                "x": "Los investigadores dijeron que querían estudiar cómo se coordinan los equipos de agentes en un entorno totalmente visible antes de confiar a estos sistemas tareas del mundo real: \"Las habilidades necesarias para resolver Minecraft, como coordinar un equipo, recuperarse de un fallo y perseguir un objetivo durante más de un día, son también las que los agentes necesitan para trabajar de forma fiable junto a las personas.\""
+                "x": "Lee Kang-wook, CAIO de Krafton, afirmó: \"Con un modelo de lenguaje de gran tamaño rentable, que eleva el rendimiento y reduce la carga de costos, ampliaremos el uso de la AI en diversos sectores industriales\". En abril, Krafton lanzó su marca de modelos de AI 'Raon' y publicó como código abierto 4 modelos, entre ellos Raon Speech."
               }
             ]
           }
@@ -315,793 +365,311 @@
       }
     },
     {
-      "id": "games-vivrato-vaia-ai-report",
+      "id": "games-molleindustria",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "게임 AI 활용,\n넓지만 아직 얕다",
-      "body": "Vivrato VAIA Report 2026은 게임 AI 활용이 넓되 얕다고 봤다.",
-      "mini_headline": "스튜디오 AI 활용\n아직 얕다",
+      "headline": "ChatGPT·Claude\n쓴 Anti-AI 풍자가",
+      "body": "Molleindustria가 코드에 ChatGPT·Claude를 썼다고 인정했다.",
+      "mini_headline": "Anti-AI 개발자의 AI 코드",
       "tool": "Games",
-      "source": "GamesBeat",
-      "url": "https://gamesbeat.com/adam-boyes-vivrato-issues-report-based-on-101-game-leaders-views-on-ai-in-gaming-exclusive/",
-      "accent": "#2ec5c5",
+      "source": "Rock Paper Shotgun",
+      "url": "https://www.rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway",
+      "accent": "#0070f3",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
+            "src": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
           },
           {
             "t": "p",
-            "x": "Adam Boyes가 이끄는 게임 업계 컨설팅사 Vivrato가 Vivrato AI Adoption(VAIA) Report 2026을 내놨다. 게임 제작에 AI가 널리 쓰이지만 아직은 꽤 얕은 수준이라는 내용이다."
+            "x": "정치 게임 개발자 Paulo \"Molleindustria\" Pedercini는 생태사회주의 풍자 게임 Future? No Thanks!의 코드 가운데 \"극히 일부\"는 프로젝트 막바지에 버그를 찾아 고치려고 AI 도움을 받아 짰다고 밝혔다. 자동 변기와 엉터리 번역을 하는 개인 비서에는 ElevenLabs 텍스트 음성 변환이 약 두 분 분량 들어갔다. 그래도 아트와 글에는 AI-generated 콘텐츠가 전혀 없다고 그는 강조했다. "
           },
           {
             "t": "p",
-            "x": "Vivrato가 인터뷰한 스튜디오 리더 101명 중 94%는 아홉 개 제작 단계 가운데 적어도 하나에 AI를 쓴다. 그런데 52%는 제작 파이프라인 전체에 AI가 얼마나 깊이 녹아 있느냐는 물음에 10점 만점에 셋 이하를 줬다. 중앙값은 셋이다. 97%는 어떤 식으로든 AI를 써 봤다. 비공개 일대일 인터뷰는 2026년 사월부터 구월까지 주로 북미(North America)와 유럽(Europe)의 PC·콘솔 스튜디오를 상대로 했고, 모두 같은 44개 문항 가이드를 따랐다."
-          },
-          {
-            "t": "img",
-            "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Boyes는 \"이제 흥미로운 질문은 어떤 게임 스튜디오가 AI를 쓰느냐가 아니다\"라며 \"관심은 이제 어디에 쓰는지, 무엇이 바뀌는지, 실제로 무엇이 도움이 되는지, 팀이 아직 어디서 어려움을 겪는지에 있다\"고 말했다."
-          },
-          {
-            "t": "p",
-            "x": "직원들은 시제품과 콘셉트 작업에 생성형 AI를 쓰지만, 최종 제품에 AI 창작물이 들어가는 건 대부분 원하지 않았다. 서사·세계관 구축에 쓰는 비율은 매우 낮았다. 스튜디오의 발목을 잡는 건 플레이어 정서, 직원들의 감정, 예산, 도구 자체, 일자리 상실 우려, 시간 부족이다. 눈에 띄는 대목은 유럽(Europe)이 북미(North America)보다 AI 도입에 더 빨리 나선다는 점이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Game AI use is wide\nbut still shallow",
-          "body": "Vivrato's VAIA Report 2026 finds AI is widely used in game production, but so far in a fairly shallow way.",
-          "mini_headline": "Studio AI use\nruns shallow",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Vivrato, a games industry consultancy headed by Adam Boyes, released the Vivrato AI Adoption (VAIA) Report 2026, saying AI is being used widely in game production but in a fairly shallow way so far."
-              },
-              {
-                "t": "p",
-                "x": "Of the 101 studio leaders Vivrato interviewed, 94% use AI in at least one of nine production stages, but 52% rate how deeply it is built into their full production pipeline at three or lower out of 10 — the median rating is three. 97% have used AI in some form. The confidential one-to-one interviews ran from April to September 2026, mainly with PC and console studios in North America and Europe, each following the same 44-question guide."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
-              },
-              {
-                "t": "p",
-                "x": "\"The interesting question isn't around which game studios are using AI anymore,\" Boyes said. \"The focus is now where they're using it, what is changing, what's actually helping, and where teams are still running into challenges.\""
-              },
-              {
-                "t": "p",
-                "x": "Staff use generative AI for prototypes and concepts, but most did not want AI creations in the final product, and use in narrative world building was very low. Holding studios back: player sentiment, staff feelings, budget, the tools themselves, job-loss concerns and lack of time. One finding: Europe is moving into AI faster than North America."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "게임 AI 활용,\n넓지만 아직 얕다",
-          "body": "Vivrato VAIA Report 2026은 게임 AI 활용이 넓되 얕다고 봤다.",
-          "mini_headline": "스튜디오 AI 활용\n아직 얕다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Adam Boyes가 이끄는 게임 업계 컨설팅사 Vivrato가 Vivrato AI Adoption(VAIA) Report 2026을 내놨다. 게임 제작에 AI가 널리 쓰이지만 아직은 꽤 얕은 수준이라는 내용이다."
-              },
-              {
-                "t": "p",
-                "x": "Vivrato가 인터뷰한 스튜디오 리더 101명 중 94%는 아홉 개 제작 단계 가운데 적어도 하나에 AI를 쓴다. 그런데 52%는 제작 파이프라인 전체에 AI가 얼마나 깊이 녹아 있느냐는 물음에 10점 만점에 셋 이하를 줬다. 중앙값은 셋이다. 97%는 어떤 식으로든 AI를 써 봤다. 비공개 일대일 인터뷰는 2026년 사월부터 구월까지 주로 북미(North America)와 유럽(Europe)의 PC·콘솔 스튜디오를 상대로 했고, 모두 같은 44개 문항 가이드를 따랐다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Boyes는 \"이제 흥미로운 질문은 어떤 게임 스튜디오가 AI를 쓰느냐가 아니다\"라며 \"관심은 이제 어디에 쓰는지, 무엇이 바뀌는지, 실제로 무엇이 도움이 되는지, 팀이 아직 어디서 어려움을 겪는지에 있다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "직원들은 시제품과 콘셉트 작업에 생성형 AI를 쓰지만, 최종 제품에 AI 창작물이 들어가는 건 대부분 원하지 않았다. 서사·세계관 구축에 쓰는 비율은 매우 낮았다. 스튜디오의 발목을 잡는 건 플레이어 정서, 직원들의 감정, 예산, 도구 자체, 일자리 상실 우려, 시간 부족이다. 눈에 띄는 대목은 유럽(Europe)이 북미(North America)보다 AI 도입에 더 빨리 나선다는 점이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ゲームのAI活用は\n広く、まだ浅い",
-          "body": "VivratoのVAIA Report 2026は、ゲーム制作のAI活用は広いが浅いとした。",
-          "mini_headline": "スタジオのAI活用は\nまだ浅い",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Adam Boyes率いるゲーム業界コンサルティング会社Vivratoは「Vivrato AI Adoption（VAIA）Report 2026」を公開し、ゲーム制作でAIは広く使われているが、今のところかなり浅い使い方にとどまっていると指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "Vivratoが聞き取りをしたスタジオリーダー101人のうち、94%は九つの制作工程の少なくとも一つでAIを使っているが、52%は制作パイプライン全体へのAIの組み込みの深さを10点満点中三以下と評価した。中央値は三だ。97%は何らかの形でAIを使った経験がある。非公開の一対一インタビューは2026年の四月から九月にかけ、主に北米（North America）と欧州（Europe）のPC・コンソールスタジオを対象に、すべて同じ44問のガイドに沿って行われた。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Boyesは「もはや興味深い問いは、どのゲームスタジオがAIを使っているかではない」と述べ、「今の焦点は、どこで使っているのか、何が変わっているのか、実際に何が役立っているのか、そしてチームがまだどこで壁にぶつかっているのかだ」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "スタッフは試作やコンセプトに生成AIを使うが、大半は最終製品にAIによる創作物を入れることを望まず、物語や世界観の構築での利用はごく少なかった。スタジオの足かせとなっているのは、プレイヤーの受け止め方、スタッフの感情、予算、ツールそのもの、雇用喪失への懸念、時間不足だ。注目すべき結果の一つは、欧州（Europe）が北米（North America）より速くAI導入を進めていることだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "游戏AI应用广泛\n但仍停留表层",
-          "body": "Vivrato的VAIA Report 2026发现，AI在游戏制作中应用广泛但仍较浅。",
-          "mini_headline": "工作室AI应用\n仍显浅层",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "由Adam Boyes领导的游戏行业咨询公司Vivrato发布了《Vivrato AI Adoption（VAIA）Report 2026》，指出AI在游戏制作中应用广泛，但迄今为止相当浅层。"
-              },
-              {
-                "t": "p",
-                "x": "在Vivrato访谈的101位工作室负责人中，94%在九个制作环节中至少一个环节使用AI，但有52%将AI融入整个制作管线的深度评为10分制下三分或更低——中位数为三分。97%以某种形式使用过AI。这些保密的一对一访谈于2026年四月至九月进行，主要面向北美（North America）和欧洲（Europe）的PC与主机工作室，均遵循同一份44个问题的提纲。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Boyes表示：“有意思的问题已经不再是哪些游戏工作室在用AI。”“现在的焦点是他们在哪里用、什么在改变、什么真正有帮助，以及团队仍在哪些地方遇到挑战。”"
-              },
-              {
-                "t": "p",
-                "x": "员工会把生成式AI用于原型和概念设计，但大多数人不希望AI创作的内容进入最终产品，在叙事和世界观构建中的使用也非常少。阻碍工作室的因素包括：玩家情绪、员工感受、预算、工具本身、对失业的担忧以及时间不足。其中一项发现是：欧洲（Europe）比北美（North America）更快地拥抱AI。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El uso de AI en juegos es amplio\npero aún superficial",
-          "body": "El VAIA Report 2026 de Vivrato halla que la AI se usa mucho en la producción de juegos, pero de forma aún superficial.",
-          "mini_headline": "Uso de AI en estudios,\naún superficial",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Vivrato, consultora del sector de los videojuegos dirigida por Adam Boyes, publicó el Vivrato AI Adoption (VAIA) Report 2026, según el cual la AI se usa ampliamente en la producción de juegos, aunque hasta ahora de forma bastante superficial."
-              },
-              {
-                "t": "p",
-                "x": "De los 101 líderes de estudio entrevistados por Vivrato, el 94% usa AI en al menos una de nueve etapas de producción, pero el 52% califica con tres o menos sobre 10 el grado de integración en todo su proceso de producción; la mediana es tres. El 97% ha usado AI de alguna forma. Las entrevistas confidenciales individuales se realizaron de abril a septiembre de 2026, sobre todo con estudios de PC y consola de Norteamérica (North America) y Europa (Europe), y todas siguieron la misma guía de 44 preguntas."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
-              },
-              {
-                "t": "p",
-                "x": "\"La pregunta interesante ya no es qué estudios de videojuegos usan AI\", dijo Boyes. \"Ahora la atención está en dónde la usan, qué está cambiando, qué ayuda de verdad y dónde siguen encontrando dificultades los equipos.\""
-              },
-              {
-                "t": "p",
-                "x": "El personal usa AI generativa para prototipos y conceptos, pero la mayoría no quería creaciones de AI en el producto final, y su uso en la construcción narrativa del mundo era muy bajo. Lo que frena a los estudios: la opinión de los jugadores, el sentir del personal, el presupuesto, las propias herramientas, el temor a perder empleos y la falta de tiempo. Un hallazgo: Europa (Europe) avanza hacia la AI más rápido que Norteamérica (North America)."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "게임 AI 활용,\n넓지만 아직 얕다",
-          "body": "Vivrato VAIA Report 2026: 게임 AI 활용은 넓지만 얕다.",
-          "mini_headline": "스튜디오 AI 활용\n아직 얕다",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Adam Boyes가 이끄는 게임 업계 컨설팅사 Vivrato가 Vivrato AI Adoption(VAIA) Report 2026을 내놓고, 게임 제작에서 AI가 널리 쓰이지만 지금까지는 꽤 얕은 수준에 머문다고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Vivrato가 인터뷰한 스튜디오 리더 101명 중 94%가 아홉 개 제작 단계 가운데 적어도 하나에서 AI를 쓰지만, 52%는 전체 제작 파이프라인에 AI가 얼마나 깊이 녹아 있는지를 10점 만점에 셋 이하로 평가했다. 중앙값은 셋이다. 97%는 어떤 형태로든 AI를 써 본 적이 있다. 비공개 일대일 인터뷰는 2026년 사월부터 구월까지 주로 북미(North America)와 유럽(Europe)의 PC·콘솔 스튜디오를 대상으로, 모두 같은 44개 문항 가이드에 따라 진행됐다."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Boyes는 \"이제 흥미로운 질문은 어떤 게임 스튜디오가 AI를 쓰느냐가 아니다\"라며 \"관심은 이제 어디에 쓰는지, 무엇이 바뀌는지, 실제로 무엇이 도움이 되는지, 팀이 아직 어디서 어려움을 겪는지에 있다\"고 말했다."
-              },
-              {
-                "t": "p",
-                "x": "직원들은 시제품과 콘셉트 작업에 생성형 AI를 쓰지만, 대부분은 최종 제품에 AI 창작물이 들어가길 원하지 않았고 서사·세계관 구축에서의 활용은 매우 낮았다. 스튜디오의 발목을 잡는 요인은 플레이어 정서, 직원들의 감정, 예산, 도구 자체, 일자리 상실 우려, 시간 부족이다. 눈에 띄는 결과 하나는 유럽(Europe)이 북미(North America)보다 빠르게 AI 도입에 나서고 있다는 점이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "ゲームのAI活用は\n広く、まだ浅い",
-          "body": "VivratoのVAIA Report 2026は、ゲーム制作のAI活用は広いが浅いとした。",
-          "mini_headline": "スタジオのAI活用は\nまだ浅い",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Adam Boyes率いるゲーム業界コンサルティング会社Vivratoは「Vivrato AI Adoption（VAIA）Report 2026」を公開し、ゲーム制作でAIは広く使われているが、今のところかなり浅い使い方にとどまっていると指摘した。"
-              },
-              {
-                "t": "p",
-                "x": "Vivratoが聞き取りをしたスタジオリーダー101人のうち、94%は九つの制作工程の少なくとも一つでAIを使っているが、52%は制作パイプライン全体へのAIの組み込みの深さを10点満点中三以下と評価した。中央値は三だ。97%は何らかの形でAIを使った経験がある。非公開の一対一インタビューは2026年の四月から九月にかけ、主に北米（North America）と欧州（Europe）のPC・コンソールスタジオを対象に、すべて同じ44問のガイドに沿って行われた。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Boyesは「もはや興味深い問いは、どのゲームスタジオがAIを使っているかではない」と述べ、「今の焦点は、どこで使っているのか、何が変わっているのか、実際に何が役立っているのか、そしてチームがまだどこで壁にぶつかっているのかだ」と語った。"
-              },
-              {
-                "t": "p",
-                "x": "スタッフは試作やコンセプトに生成AIを使うが、大半は最終製品にAIによる創作物を入れることを望まず、物語や世界観の構築での利用はごく少なかった。スタジオの足かせとなっているのは、プレイヤーの受け止め方、スタッフの感情、予算、ツールそのもの、雇用喪失への懸念、時間不足だ。注目すべき結果の一つは、欧州（Europe）が北米（North America）より速くAI導入を進めていることだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "游戏AI应用广泛\n但仍停留表层",
-          "body": "Vivrato的VAIA Report 2026发现，AI在游戏制作中应用广泛但仍较浅。",
-          "mini_headline": "工作室AI应用\n仍显浅层",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "由Adam Boyes领导的游戏行业咨询公司Vivrato发布了《Vivrato AI Adoption（VAIA）Report 2026》，指出AI在游戏制作中应用广泛，但迄今为止相当浅层。"
-              },
-              {
-                "t": "p",
-                "x": "在Vivrato访谈的101位工作室负责人中，94%在九个制作环节中至少一个环节使用AI，但有52%将AI融入整个制作管线的深度评为10分制下三分或更低——中位数为三分。97%以某种形式使用过AI。这些保密的一对一访谈于2026年四月至九月进行，主要面向北美（North America）和欧洲（Europe）的PC与主机工作室，均遵循同一份44个问题的提纲。"
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Boyes表示：“有意思的问题已经不再是哪些游戏工作室在用AI。”“现在的焦点是他们在哪里用、什么在改变、什么真正有帮助，以及团队仍在哪些地方遇到挑战。”"
-              },
-              {
-                "t": "p",
-                "x": "员工会把生成式AI用于原型和概念设计，但大多数人不希望AI创作的内容进入最终产品，在叙事和世界观构建中的使用也非常少。阻碍工作室的因素包括：玩家情绪、员工感受、预算、工具本身、对失业的担忧以及时间不足。其中一项发现是：欧洲（Europe）比北美（North America）更快地拥抱AI。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "El uso de AI en juegos es amplio\npero aún superficial",
-          "body": "El VAIA Report 2026 de Vivrato halla que la AI se usa mucho en la producción de juegos, pero de forma aún superficial.",
-          "mini_headline": "Uso de AI en estudios,\naún superficial",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/2025-AdamBoyes-27-2.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Vivrato, consultora del sector de los videojuegos dirigida por Adam Boyes, publicó el Vivrato AI Adoption (VAIA) Report 2026, según el cual la AI se usa ampliamente en la producción de juegos, aunque hasta ahora de forma bastante superficial."
-              },
-              {
-                "t": "p",
-                "x": "De los 101 líderes de estudio entrevistados por Vivrato, el 94% usa AI en al menos una de nueve etapas de producción, pero el 52% califica con tres o menos sobre 10 el grado de integración en todo su proceso de producción; la mediana es tres. El 97% ha usado AI de alguna forma. Las entrevistas confidenciales individuales se realizaron de abril a septiembre de 2026, sobre todo con estudios de PC y consola de Norteamérica (North America) y Europa (Europe), y todas siguieron la misma guía de 44 preguntas."
-              },
-              {
-                "t": "img",
-                "src": "https://gamesbeat.com/wp-content/uploads/2026/10/Vivrato-AI-Adoption-Lifecycle-Mapping-Image-1024x576.jpg"
-              },
-              {
-                "t": "p",
-                "x": "\"La pregunta interesante ya no es qué estudios de videojuegos usan AI\", dijo Boyes. \"Ahora la atención está en dónde la usan, qué está cambiando, qué ayuda de verdad y dónde siguen encontrando dificultades los equipos.\""
-              },
-              {
-                "t": "p",
-                "x": "El personal usa AI generativa para prototipos y conceptos, pero la mayoría no quería creaciones de AI en el producto final, y su uso en la construcción narrativa del mundo era muy bajo. Lo que frena a los estudios: la opinión de los jugadores, el sentir del personal, el presupuesto, las propias herramientas, el temor a perder empleos y la falta de tiempo. Un hallazgo: Europa (Europe) avanza hacia la AI más rápido que Norteamérica (North America)."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "games-spookitchen-demo-ai-copycat",
-      "source_lang": "ko",
-      "eyebrow": "AI NEWS",
-      "headline": "AI 복제 우려에\n스푸키친 데모 내려",
-      "body": "2인 개발팀 YNOT은 AI 복제작 우려로 '스푸키친' 데모 배포를 멈췄다.",
-      "mini_headline": "AI 복제 우려에\n데모 내려",
-      "tool": "Games",
-      "source": "인벤",
-      "url": "https://www.inven.co.kr/webzine/news/?news=322319",
-      "accent": "#eb367f",
-      "motif": "cube",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
-          },
-          {
-            "t": "p",
-            "x": "최근 출시를 앞둔 인디 게임들이 AI 복제작이 먼저 나올까 봐 공개 데모 배포를 취소하는 일이 잇따르는 가운데, 국내에서도 같은 사례가 나왔다."
-          },
-          {
-            "t": "p",
-            "x": "국내 2인 개발팀 YNOT은 지난 17일, 누군가 AI로 자신들의 게임 '스푸키친'을 베끼고 있다는 연락을 받고 공개 데모 배포를 중단하겠다고 예고했다. 20일 실제로 데모를 내리면서 SNS와 스팀 페이지에 유저들을 향해 고충을 털어놓았다."
+            "x": "그는 블로그에 \"슬롭(Slop)과 바이브 코딩(vibe-coded) 게임은 재앙이고, AI는 테크노파시즘적이며 반인간적이고 반예술적인 프로젝트\"라고 썼다. 코드의 99%는 AI 코딩 도구가 나오기 전에 짰고, 깨진 셰이더 같은 문제를 고칠 때 \"ChatGPT나 Claude\"를 \"강력한 의미 검색 엔진\"으로 썼다는 설명도 붙였다. \"AI generated 코드는 한번 들어오면 걷어내기 어렵다.\" "
           },
           {
             "t": "video",
-            "yt": "HRKQOlIYAQY"
+            "yt": "nDD-FhqDvow"
           },
           {
             "t": "p",
-            "x": "스푸키친은 괴물들이 사는 할로윈 마을에서 요리를 내놓는 타이쿤 게임이다. 귀여운 아트로 인디 팬들의 호응을 얻어 BIC에 2년 연속 나갔지만, 스팀 넥스트 페스트를 앞두고 복제작이 나올까 봐 데모를 닫을 수밖에 없었다."
-          },
-          {
-            "t": "img",
-            "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
-            "cap": "최근 AI 복제 사태로 데모를 닫았다 ©YNOT, @Sini_Ming"
-          },
-          {
-            "t": "p",
-            "x": "YNOT은 \"데모를 닫는것은 일시적인 방법으로, 근본적인 해결이 되지는 않습니다\"라며 \"최대한 흔들리지 않고 평소대로 개발에 전념하려고 합니다\"라고 전했다."
-          },
-          {
-            "t": "p",
-            "x": "이런 우려는 10월 들어 인디 게임계에 번지고 있다. '건초 더미에서 바늘 찾기 시뮬레이터'는 출시 전에 유사작이 최소 8개 나와 상점 이미지에 'ORIGINAL' 문구를 붙였고, '패밀리 타임'도 같은 이름의 유사작이 등장했다. 돈을 주지 않으면 AI 복제작을 먼저 내겠다는 협박 메일도 잇따른다."
+            "x": "엄격한 \"AI-free\" 기준에 의문을 던진 맺음말은 Bluesky에서 반발이 일자 지워졌다. RPS는 이번 공개가 실망스럽다며 게임을 팔기 전에 입장을 밝혔어야 했다고 꼬집었다. "
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "AI 복제 우려에\n스푸키친 데모 내려",
-          "body": "2인 개발팀 YNOT은 AI 복제작 우려로 '스푸키친' 데모 배포를 멈췄다.",
-          "mini_headline": "AI 복제 우려에\n데모 내려",
+        "en": {
+          "headline": "Anti-AI satirist admits\nusing ChatGPT and Claude",
+          "body": "Molleindustria, maker of Future? No Thanks!, admits using ChatGPT and Claude for a tiny fraction of its code.",
+          "mini_headline": "Anti-AI dev used AI code",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "최근 출시를 앞둔 인디 게임들이 AI 복제작이 먼저 나올까 봐 공개 데모 배포를 취소하는 일이 잇따르는 가운데, 국내에서도 같은 사례가 나왔다."
+                "x": "Political game developer Paulo \"Molleindustria\" Pedercini has revealed that \"a tiny fraction\" of the code for ecosocialist satire Future? No Thanks! was written with AI support near the end of the project, to assess and fix bugs. The game also uses about two minutes of ElevenLabs text-to-speech for an automated toilet and a mistranslating personal assistant; he insists none of the art or writing is AI-generated."
               },
               {
                 "t": "p",
-                "x": "국내 2인 개발팀 YNOT은 지난 17일, 누군가 AI로 자신들의 게임 '스푸키친'을 베끼고 있다는 연락을 받고 공개 데모 배포를 중단하겠다고 예고했다. 20일 실제로 데모를 내리면서 SNS와 스팀 페이지에 유저들을 향해 고충을 털어놓았다."
+                "x": "\"Slop and vibe-coded games are a scourge, AI is a technofascist, anti-human and anti-art project,\" he wrote on his blog, adding that 99% of the code predates AI coding tools and that \"ChatGPT or Claude\" served as \"a powerful semantic search engine\" for fixes like a broken shader. \"AI generated code is hard to remove once introduced.\""
               },
               {
                 "t": "video",
-                "yt": "HRKQOlIYAQY"
+                "yt": "nDD-FhqDvow"
               },
               {
                 "t": "p",
-                "x": "스푸키친은 괴물들이 사는 할로윈 마을에서 요리를 내놓는 타이쿤 게임이다. 귀여운 아트로 인디 팬들의 호응을 얻어 BIC에 2년 연속 나갔지만, 스팀 넥스트 페스트를 앞두고 복제작이 나올까 봐 데모를 닫을 수밖에 없었다."
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
-                "cap": "최근 AI 복제 사태로 데모를 닫았다 ©YNOT, @Sini_Ming"
-              },
-              {
-                "t": "p",
-                "x": "YNOT은 \"데모를 닫는것은 일시적인 방법으로, 근본적인 해결이 되지는 않습니다\"라며 \"최대한 흔들리지 않고 평소대로 개발에 전념하려고 합니다\"라고 전했다."
-              },
-              {
-                "t": "p",
-                "x": "이런 우려는 10월 들어 인디 게임계에 번지고 있다. '건초 더미에서 바늘 찾기 시뮬레이터'는 출시 전에 유사작이 최소 8개 나와 상점 이미지에 'ORIGINAL' 문구를 붙였고, '패밀리 타임'도 같은 이름의 유사작이 등장했다. 돈을 주지 않으면 AI 복제작을 먼저 내겠다는 협박 메일도 잇따른다."
+                "x": "Closing thoughts questioning strict \"AI-free\" standards were deleted after a Bluesky backlash. RPS calls the disclosure disappointing: he should have made his case before selling the game."
               }
             ]
           }
         },
-        "en": {
-          "headline": "AI copycat fears pull\nSpookitchen's demo",
-          "body": "The 2-person team YNOT stopped distributing its 'Spookitchen' demo over fears of AI copycats.",
-          "mini_headline": "AI copycat fears\npull a demo",
+        "ko": {
+          "headline": "ChatGPT·Claude\n쓴 Anti-AI 풍자가",
+          "body": "Molleindustria가 코드에 ChatGPT·Claude를 썼다고 인정했다.",
+          "mini_headline": "Anti-AI 개발자의 AI 코드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Indie games nearing launch have recently been reported cancelling public demo releases, fearing that AI-made copycats could appear first, and now such a case has emerged in Korea as well."
+                "x": "정치 게임 개발자 Paulo \"Molleindustria\" Pedercini는 생태사회주의 풍자 게임 Future? No Thanks!의 코드 가운데 \"극히 일부\"는 프로젝트 막바지에 버그를 찾아 고치려고 AI 도움을 받아 짰다고 밝혔다. 자동 변기와 엉터리 번역을 하는 개인 비서에는 ElevenLabs 텍스트 음성 변환이 약 두 분 분량 들어갔다. 그래도 아트와 글에는 AI-generated 콘텐츠가 전혀 없다고 그는 강조했다. "
               },
               {
                 "t": "p",
-                "x": "On the 17th, YNOT, a 2-person Korean development team, announced it would stop distributing its public demo after being told that someone was using AI to copy its game 'Spookitchen'. On the 20th it pulled the demo and shared its frustrations with users through SNS and its Steam page."
+                "x": "그는 블로그에 \"슬롭(Slop)과 바이브 코딩(vibe-coded) 게임은 재앙이고, AI는 테크노파시즘적이며 반인간적이고 반예술적인 프로젝트\"라고 썼다. 코드의 99%는 AI 코딩 도구가 나오기 전에 짰고, 깨진 셰이더 같은 문제를 고칠 때 \"ChatGPT나 Claude\"를 \"강력한 의미 검색 엔진\"으로 썼다는 설명도 붙였다. \"AI generated 코드는 한번 들어오면 걷어내기 어렵다.\" "
               },
               {
                 "t": "video",
-                "yt": "HRKQOlIYAQY"
+                "yt": "nDD-FhqDvow"
               },
               {
                 "t": "p",
-                "x": "Spookitchen is a tycoon game about serving dishes in a Halloween village inhabited by monsters. Its cute art won over indie fans, and it appeared at BIC 2 years in a row. But ahead of Steam Next Fest, the team had no choice but to close the demo over fears that copycats would appear."
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
-                "cap": "The demo was closed because of the recent wave of AI copying ©YNOT, @Sini_Ming"
-              },
-              {
-                "t": "p",
-                "x": "YNOT said, \"Closing the demo is a temporary measure, not a fundamental solution,\" adding, \"We will try our best not to be shaken and to stay focused on development as usual.\""
-              },
-              {
-                "t": "p",
-                "x": "These concerns have been spreading through the indie scene since October. 'Needle in a Haystack Simulator' saw at least 8 lookalikes appear before launch and added the word 'ORIGINAL' to its store images, and 'Family Time' also got a lookalike with the same name. Cases of threatening emails warning that an AI copycat will be released first unless money is paid also keep coming."
+                "x": "엄격한 \"AI-free\" 기준에 의문을 던진 맺음말은 Bluesky에서 반발이 일자 지워졌다. RPS는 이번 공개가 실망스럽다며 게임을 팔기 전에 입장을 밝혔어야 했다고 꼬집었다. "
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI複製を懸念し\nスプーキッチン、デモ撤回",
-          "body": "2人の開発チームYNOTは、AI複製作への懸念から『スプーキッチン』のデモ配布を中止した。",
-          "mini_headline": "AI複製を懸念し\nデモ撤回",
+          "headline": "ChatGPT・Claude\n使用認めたAnti-AI作家",
+          "body": "Molleindustriaが一部コードにChatGPTとClaudeを使ったと認めた。",
+          "mini_headline": "Anti-AI開発者がAIコード使用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "最近、発売を控えたインディーゲームが、AIを使った複製作が先に登場する可能性を懸念して公開デモの配布を取りやめる事例が報告されるなか、韓国国内でも同様のケースが出た。"
+                "x": "政治的なゲームを手がける開発者Paulo \"Molleindustria\" Pedercini氏は、エコ社会主義的な風刺作品Future? No Thanks!のコードの「ごく一部」を、プロジェクト終盤にバグの検証と修正のためAIの支援を受けて書いたと明かした。同作では自動トイレと誤訳するパーソナルアシスタントにElevenLabsのテキスト読み上げを約二分間使っているが、アートや文章にAI-generatedのものは一切ないと同氏は強調している。"
               },
               {
                 "t": "p",
-                "x": "韓国の2人開発チームYNOTは17日、誰かがAIで自分たちのゲーム『スプーキッチン』を模倣して作っているとの連絡を受け、公開デモの配布を中止すると予告した。そして20日にデモの配布を止め、SNSとSteamページを通じてユーザーに苦しい胸の内を明かした。"
+                "x": "「Slopやvibe-codedなゲームは災厄であり、AIはテクノファシズム的で反人間的、反芸術的なプロジェクトだ」と同氏はブログに記した。コードの99%はAIコーディングツールの登場以前に書かれたもので、壊れたシェーダーなどの修正では「ChatGPTかClaude」を「強力なセマンティック検索エンジン」として使ったという。「AI generatedなコードは一度入り込むと取り除くのが難しい」"
               },
               {
                 "t": "video",
-                "yt": "HRKQOlIYAQY"
+                "yt": "nDD-FhqDvow"
               },
               {
                 "t": "p",
-                "x": "『スプーキッチン』はモンスターが暮らすハロウィンの村で料理を振る舞うタイクーンゲームで、かわいいアートでインディーファンの支持を集め、BICに2年連続で出展した。しかしSteam Next Festを前に、複製作の登場を懸念してデモを閉じざるを得なかった。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
-                "cap": "最近のAIによる複製騒動を受けてデモを閉じた ©YNOT, @Sini_Ming"
-              },
-              {
-                "t": "p",
-                "x": "YNOTは「デモを閉じるのは一時的な手段であり、根本的な解決にはなりません」としたうえで、「できる限り動揺せず、普段どおり開発に専念するつもりです」と伝えた。"
-              },
-              {
-                "t": "p",
-                "x": "こうした懸念は10月を境にインディーゲーム界に広がっている。『干し草の山から針を探すシミュレーター』は発売前に類似作が少なくとも8本現れ、ストア画像に「ORIGINAL」の文言を付けた。『ファミリータイム』にも同名の類似作が登場した。金を払わなければAI複製作を先に発売すると脅すメールの事例も相次いでいる。"
+                "x": "厳格な「AI-free」基準に疑問を呈した結びの文章は、Blueskyでの反発を受けて削除された。RPSは今回の告白を残念だとし、ゲームを販売する前に自らの考えを示すべきだったと指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "因忧AI抄袭\nSpookitchen撤试玩",
-          "body": "2人开发团队YNOT因担忧AI抄袭作，停止发布《Spookitchen》试玩版。",
-          "mini_headline": "担忧AI抄袭\n撤下试玩",
+          "headline": "ChatGPT·Claude\nAnti-AI作者承认用过",
+          "body": "Molleindustria承认在极少量代码中使用了ChatGPT和Claude。",
+          "mini_headline": "Anti-AI开发者用了AI代码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "近来有报道称，一些即将发售的独立游戏担心借助AI制作的抄袭作抢先出现，因而取消了公开试玩版的发布；如今韩国国内也出现了这样的案例。"
+                "x": "政治游戏开发者Paulo \"Molleindustria\" Pedercini透露，生态社会主义讽刺游戏Future? No Thanks!的代码中有“极少一部分”是在项目临近尾声时借助AI编写的，用于排查和修复漏洞。游戏还为一个自动马桶和一个会误译的个人助理使用了约两分钟的ElevenLabs文本转语音；他坚称美术和文字内容均非AI-generated。"
               },
               {
                 "t": "p",
-                "x": "韩国2人开发团队YNOT于17日收到消息，称有人正在用AI抄袭他们的游戏《Spookitchen》，随即预告将停止发布公开试玩版。20日，团队正式停止发布试玩版，并通过SNS和Steam页面向玩家倾诉了苦衷。"
+                "x": "“Slop和vibe-coded游戏是一场灾难，AI是一个技术法西斯、反人类、反艺术的项目，”他在博客中写道，并补充说99%的代码早于AI编程工具出现，在修复损坏的着色器等问题时，“ChatGPT或Claude”充当了“强大的语义搜索引擎”。“AI generated代码一旦引入就很难移除。”"
               },
               {
                 "t": "video",
-                "yt": "HRKQOlIYAQY"
+                "yt": "nDD-FhqDvow"
               },
               {
                 "t": "p",
-                "x": "《Spookitchen》是一款在怪物居住的万圣节小镇里烹饪料理的模拟经营游戏，凭借可爱的美术风格获得独立游戏粉丝的好评，连续2年参展BIC。然而在Steam Next Fest前夕，团队因担心抄袭作出现，不得不关闭试玩。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
-                "cap": "因近来用AI抄袭的事件而关闭了试玩 ©YNOT, @Sini_Ming"
-              },
-              {
-                "t": "p",
-                "x": "YNOT表示：“关闭试玩只是权宜之计，并不能从根本上解决问题。”并称：“我们会尽量不受影响，像往常一样专注于开发。”"
-              },
-              {
-                "t": "p",
-                "x": "这种担忧自10月起在独立游戏圈蔓延。《干草堆里找针模拟器》在发售前就出现了至少8款同类作品，只好在商店图片上加上“ORIGINAL”字样；《家庭时光》也出现了同名的同类作品。以不付钱就抢先发布AI抄袭作相威胁的邮件案例也接连不断。"
+                "x": "一段质疑严格“AI-free”标准的结语在Bluesky上遭到强烈反对后被删除。RPS认为这一披露令人失望：他本应在出售游戏之前就阐明立场。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El temor a copias con AI\nretira la demo de Spookitchen",
-          "body": "El equipo de 2 personas YNOT dejó de distribuir la demo de 'Spookitchen' por temor a copias hechas con AI.",
-          "mini_headline": "Temor a copias con AI:\ndemo retirada",
+          "headline": "Satírico Anti-AI admite\nusar ChatGPT y Claude",
+          "body": "Molleindustria, creador de Future? No Thanks!, admite haber usado ChatGPT y Claude en una mínima parte de su código.",
+          "mini_headline": "Dev Anti-AI usó código de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Recientemente se han reportado casos de juegos indie a punto de lanzarse que cancelan la distribución de sus demos públicas por temor a que aparezcan antes copias hechas con AI, y ahora ha surgido un caso así en Corea."
+                "x": "El desarrollador de juegos políticos Paulo \"Molleindustria\" Pedercini reveló que \"una mínima parte\" del código de la sátira ecosocialista Future? No Thanks! se escribió con apoyo de AI cerca del final del proyecto, para evaluar y corregir errores. El juego también usa unos dos minutos de texto a voz de ElevenLabs para un inodoro automático y un asistente personal que traduce mal; él insiste en que nada del arte ni de los textos es AI-generated."
               },
               {
                 "t": "p",
-                "x": "YNOT, un equipo coreano de 2 personas, anunció el día 17 que dejaría de distribuir su demo pública tras recibir un aviso de que alguien estaba copiando con AI su juego 'Spookitchen'. El día 20 retiró la demo y compartió sus dificultades con los usuarios a través de SNS y de su página de Steam."
+                "x": "\"Slop y los juegos vibe-coded son una plaga; la AI es un proyecto tecnofascista, antihumano y antiartístico\", escribió en su blog, y añadió que el 99% del código es anterior a las herramientas de programación con AI y que \"ChatGPT o Claude\" le sirvió como \"un potente motor de búsqueda semántica\" para arreglos como un shader roto. \"El código AI generated es difícil de eliminar una vez introducido\"."
               },
               {
                 "t": "video",
-                "yt": "HRKQOlIYAQY"
+                "yt": "nDD-FhqDvow"
               },
               {
                 "t": "p",
-                "x": "Spookitchen es un juego de gestión tipo tycoon en el que se sirven platos en un pueblo de Halloween habitado por monstruos. Su arte adorable le ganó el apoyo de los fans del indie y participó en BIC 2 años seguidos. Sin embargo, ante el Steam Next Fest, el equipo no tuvo más remedio que cerrar la demo por temor a la aparición de copias."
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
-                "cap": "La demo se cerró a raíz de la reciente ola de copias hechas con AI ©YNOT, @Sini_Ming"
-              },
-              {
-                "t": "p",
-                "x": "YNOT afirmó: \"Cerrar la demo es una medida temporal y no una solución de fondo\", y añadió: \"Intentaremos no dejarnos afectar y seguir concentrados en el desarrollo como siempre\"."
-              },
-              {
-                "t": "p",
-                "x": "Esta preocupación se extiende por la escena indie desde octubre. 'Simulador de buscar una aguja en un pajar' vio aparecer al menos 8 imitaciones antes de su lanzamiento, por lo que añadió la palabra 'ORIGINAL' a las imágenes de su tienda, y 'Tiempo en familia' también tuvo una imitación con el mismo nombre. Además, siguen apareciendo correos con amenazas de lanzar primero una copia hecha con AI si no se paga."
+                "x": "Las reflexiones finales que cuestionaban los estrictos estándares \"AI-free\" se borraron tras una reacción negativa en Bluesky. RPS califica la revelación de decepcionante: debió exponer sus argumentos antes de vender el juego."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "AI copycat fears pull\nSpookitchen's demo",
-          "body": "The 2-person team YNOT stopped distributing its 'Spookitchen' demo over fears of AI copycats.",
-          "mini_headline": "AI copycat fears\npull a demo",
+        "ko": {
+          "headline": "ChatGPT·Claude\n쓴 Anti-AI 풍자가",
+          "body": "Molleindustria가 코드에 ChatGPT·Claude 사용을 인정했다.",
+          "mini_headline": "Anti-AI 개발자의 AI 코드",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Indie games nearing launch have recently been reported cancelling public demo releases, fearing that AI-made copycats could appear first, and now such a case has emerged in Korea as well."
+                "x": "정치 게임 개발자 Paulo \"Molleindustria\" Pedercini는 생태사회주의 풍자 게임 Future? No Thanks!의 코드 중 \"극히 일부\"를 프로젝트 막바지에 버그를 점검하고 고치려고 AI의 도움을 받아 작성했다고 밝혔다. 게임에는 자동 변기와 엉터리 번역을 하는 개인 비서에 쓰인 약 두 분 길이의 ElevenLabs 텍스트 음성 변환도 들어갔지만, 아트와 글 가운데 AI-generated 콘텐츠는 전혀 없다고 그는 강조했다."
               },
               {
                 "t": "p",
-                "x": "On the 17th, YNOT, a 2-person Korean development team, announced it would stop distributing its public demo after being told that someone was using AI to copy its game 'Spookitchen'. On the 20th it pulled the demo and shared its frustrations with users through SNS and its Steam page."
+                "x": "그는 블로그에 \"슬롭(Slop)과 바이브 코딩(vibe-coded) 게임은 재앙이고, AI는 테크노파시즘적이며 반인간적이고 반예술적인 프로젝트\"라고 썼다. 코드의 99%는 AI 코딩 도구가 나오기 전에 만들어졌고, 깨진 셰이더 같은 문제를 고칠 때 \"ChatGPT나 Claude\"를 \"강력한 의미 검색 엔진\"으로 썼다고도 덧붙였다. \"AI generated 코드는 한번 들어오면 걷어내기 어렵다.\""
               },
               {
                 "t": "video",
-                "yt": "HRKQOlIYAQY"
+                "yt": "nDD-FhqDvow"
               },
               {
                 "t": "p",
-                "x": "Spookitchen is a tycoon game about serving dishes in a Halloween village inhabited by monsters. Its cute art won over indie fans, and it appeared at BIC 2 years in a row. But ahead of Steam Next Fest, the team had no choice but to close the demo over fears that copycats would appear."
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
-                "cap": "The demo was closed because of the recent wave of AI copying ©YNOT, @Sini_Ming"
-              },
-              {
-                "t": "p",
-                "x": "YNOT said, \"Closing the demo is a temporary measure, not a fundamental solution,\" adding, \"We will try our best not to be shaken and to stay focused on development as usual.\""
-              },
-              {
-                "t": "p",
-                "x": "These concerns have been spreading through the indie scene since October. 'Needle in a Haystack Simulator' saw at least 8 lookalikes appear before launch and added the word 'ORIGINAL' to its store images, and 'Family Time' also got a lookalike with the same name. Cases of threatening emails warning that an AI copycat will be released first unless money is paid also keep coming."
+                "x": "엄격한 \"AI-free\" 기준에 의문을 던진 맺음말은 Bluesky에서 반발이 일자 삭제됐다. RPS는 이번 공개가 실망스럽다며, 그가 게임을 팔기 전에 자기 입장을 밝혔어야 했다고 지적했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI複製を懸念し\nスプーキッチン、デモ撤回",
-          "body": "2人の開発チームYNOTは、AI複製作への懸念から『スプーキッチン』のデモ配布を中止した。",
-          "mini_headline": "AI複製を懸念し\nデモ撤回",
+          "headline": "ChatGPT・Claude\n使用認めたAnti-AI作家",
+          "body": "Molleindustriaが一部コードにChatGPTとClaudeを使ったと認めた。",
+          "mini_headline": "Anti-AI開発者がAIコード使用",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "最近、発売を控えたインディーゲームが、AIを使った複製作が先に登場する可能性を懸念して公開デモの配布を取りやめる事例が報告されるなか、韓国国内でも同様のケースが出た。"
+                "x": "政治的なゲームを手がける開発者Paulo \"Molleindustria\" Pedercini氏は、エコ社会主義的な風刺作品Future? No Thanks!のコードの「ごく一部」を、プロジェクト終盤にバグの検証と修正のためAIの支援を受けて書いたと明かした。同作では自動トイレと誤訳するパーソナルアシスタントにElevenLabsのテキスト読み上げを約二分間使っているが、アートや文章にAI-generatedのものは一切ないと同氏は強調している。"
               },
               {
                 "t": "p",
-                "x": "韓国の2人開発チームYNOTは17日、誰かがAIで自分たちのゲーム『スプーキッチン』を模倣して作っているとの連絡を受け、公開デモの配布を中止すると予告した。そして20日にデモの配布を止め、SNSとSteamページを通じてユーザーに苦しい胸の内を明かした。"
+                "x": "「Slopやvibe-codedなゲームは災厄であり、AIはテクノファシズム的で反人間的、反芸術的なプロジェクトだ」と同氏はブログに記した。コードの99%はAIコーディングツールの登場以前に書かれたもので、壊れたシェーダーなどの修正では「ChatGPTかClaude」を「強力なセマンティック検索エンジン」として使ったという。「AI generatedなコードは一度入り込むと取り除くのが難しい」"
               },
               {
                 "t": "video",
-                "yt": "HRKQOlIYAQY"
+                "yt": "nDD-FhqDvow"
               },
               {
                 "t": "p",
-                "x": "『スプーキッチン』はモンスターが暮らすハロウィンの村で料理を振る舞うタイクーンゲームで、かわいいアートでインディーファンの支持を集め、BICに2年連続で出展した。しかしSteam Next Festを前に、複製作の登場を懸念してデモを閉じざるを得なかった。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
-                "cap": "最近のAIによる複製騒動を受けてデモを閉じた ©YNOT, @Sini_Ming"
-              },
-              {
-                "t": "p",
-                "x": "YNOTは「デモを閉じるのは一時的な手段であり、根本的な解決にはなりません」としたうえで、「できる限り動揺せず、普段どおり開発に専念するつもりです」と伝えた。"
-              },
-              {
-                "t": "p",
-                "x": "こうした懸念は10月を境にインディーゲーム界に広がっている。『干し草の山から針を探すシミュレーター』は発売前に類似作が少なくとも8本現れ、ストア画像に「ORIGINAL」の文言を付けた。『ファミリータイム』にも同名の類似作が登場した。金を払わなければAI複製作を先に発売すると脅すメールの事例も相次いでいる。"
+                "x": "厳格な「AI-free」基準に疑問を呈した結びの文章は、Blueskyでの反発を受けて削除された。RPSは今回の告白を残念だとし、ゲームを販売する前に自らの考えを示すべきだったと指摘している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "因忧AI抄袭\nSpookitchen撤试玩",
-          "body": "2人开发团队YNOT因担忧AI抄袭作，停止发布《Spookitchen》试玩版。",
-          "mini_headline": "担忧AI抄袭\n撤下试玩",
+          "headline": "ChatGPT·Claude\nAnti-AI作者承认用过",
+          "body": "Molleindustria承认在极少量代码中使用了ChatGPT和Claude。",
+          "mini_headline": "Anti-AI开发者用了AI代码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "近来有报道称，一些即将发售的独立游戏担心借助AI制作的抄袭作抢先出现，因而取消了公开试玩版的发布；如今韩国国内也出现了这样的案例。"
+                "x": "政治游戏开发者Paulo \"Molleindustria\" Pedercini透露，生态社会主义讽刺游戏Future? No Thanks!的代码中有“极少一部分”是在项目临近尾声时借助AI编写的，用于排查和修复漏洞。游戏还为一个自动马桶和一个会误译的个人助理使用了约两分钟的ElevenLabs文本转语音；他坚称美术和文字内容均非AI-generated。"
               },
               {
                 "t": "p",
-                "x": "韩国2人开发团队YNOT于17日收到消息，称有人正在用AI抄袭他们的游戏《Spookitchen》，随即预告将停止发布公开试玩版。20日，团队正式停止发布试玩版，并通过SNS和Steam页面向玩家倾诉了苦衷。"
+                "x": "“Slop和vibe-coded游戏是一场灾难，AI是一个技术法西斯、反人类、反艺术的项目，”他在博客中写道，并补充说99%的代码早于AI编程工具出现，在修复损坏的着色器等问题时，“ChatGPT或Claude”充当了“强大的语义搜索引擎”。“AI generated代码一旦引入就很难移除。”"
               },
               {
                 "t": "video",
-                "yt": "HRKQOlIYAQY"
+                "yt": "nDD-FhqDvow"
               },
               {
                 "t": "p",
-                "x": "《Spookitchen》是一款在怪物居住的万圣节小镇里烹饪料理的模拟经营游戏，凭借可爱的美术风格获得独立游戏粉丝的好评，连续2年参展BIC。然而在Steam Next Fest前夕，团队因担心抄袭作出现，不得不关闭试玩。"
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
-                "cap": "因近来用AI抄袭的事件而关闭了试玩 ©YNOT, @Sini_Ming"
-              },
-              {
-                "t": "p",
-                "x": "YNOT表示：“关闭试玩只是权宜之计，并不能从根本上解决问题。”并称：“我们会尽量不受影响，像往常一样专注于开发。”"
-              },
-              {
-                "t": "p",
-                "x": "这种担忧自10月起在独立游戏圈蔓延。《干草堆里找针模拟器》在发售前就出现了至少8款同类作品，只好在商店图片上加上“ORIGINAL”字样；《家庭时光》也出现了同名的同类作品。以不付钱就抢先发布AI抄袭作相威胁的邮件案例也接连不断。"
+                "x": "一段质疑严格“AI-free”标准的结语在Bluesky上遭到强烈反对后被删除。RPS认为这一披露令人失望：他本应在出售游戏之前就阐明立场。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El temor a copias con AI\nretira la demo de Spookitchen",
-          "body": "El equipo de 2 personas YNOT dejó de distribuir la demo de 'Spookitchen' por temor a copias hechas con AI.",
-          "mini_headline": "Temor a copias con AI:\ndemo retirada",
+          "headline": "Satírico Anti-AI admite\nusar ChatGPT y Claude",
+          "body": "Molleindustria, creador de Future? No Thanks!, admite haber usado ChatGPT y Claude en una mínima parte de su código.",
+          "mini_headline": "Dev Anti-AI usó código de AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1436270041.jpg"
+                "src": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
               },
               {
                 "t": "p",
-                "x": "Recientemente se han reportado casos de juegos indie a punto de lanzarse que cancelan la distribución de sus demos públicas por temor a que aparezcan antes copias hechas con AI, y ahora ha surgido un caso así en Corea."
+                "x": "El desarrollador de juegos políticos Paulo \"Molleindustria\" Pedercini reveló que \"una mínima parte\" del código de la sátira ecosocialista Future? No Thanks! se escribió con apoyo de AI cerca del final del proyecto, para evaluar y corregir errores. El juego también usa unos dos minutos de texto a voz de ElevenLabs para un inodoro automático y un asistente personal que traduce mal; él insiste en que nada del arte ni de los textos es AI-generated."
               },
               {
                 "t": "p",
-                "x": "YNOT, un equipo coreano de 2 personas, anunció el día 17 que dejaría de distribuir su demo pública tras recibir un aviso de que alguien estaba copiando con AI su juego 'Spookitchen'. El día 20 retiró la demo y compartió sus dificultades con los usuarios a través de SNS y de su página de Steam."
+                "x": "\"Slop y los juegos vibe-coded son una plaga; la AI es un proyecto tecnofascista, antihumano y antiartístico\", escribió en su blog, y añadió que el 99% del código es anterior a las herramientas de programación con AI y que \"ChatGPT o Claude\" le sirvió como \"un potente motor de búsqueda semántica\" para arreglos como un shader roto. \"El código AI generated es difícil de eliminar una vez introducido\"."
               },
               {
                 "t": "video",
-                "yt": "HRKQOlIYAQY"
+                "yt": "nDD-FhqDvow"
               },
               {
                 "t": "p",
-                "x": "Spookitchen es un juego de gestión tipo tycoon en el que se sirven platos en un pueblo de Halloween habitado por monstruos. Su arte adorable le ganó el apoyo de los fans del indie y participó en BIC 2 años seguidos. Sin embargo, ante el Steam Next Fest, el equipo no tuvo más remedio que cerrar la demo por temor a la aparición de copias."
-              },
-              {
-                "t": "img",
-                "src": "https://static.inven.co.kr/column/2026/10/20/news/i1648537167.jpg",
-                "cap": "La demo se cerró a raíz de la reciente ola de copias hechas con AI ©YNOT, @Sini_Ming"
-              },
-              {
-                "t": "p",
-                "x": "YNOT afirmó: \"Cerrar la demo es una medida temporal y no una solución de fondo\", y añadió: \"Intentaremos no dejarnos afectar y seguir concentrados en el desarrollo como siempre\"."
-              },
-              {
-                "t": "p",
-                "x": "Esta preocupación se extiende por la escena indie desde octubre. 'Simulador de buscar una aguja en un pajar' vio aparecer al menos 8 imitaciones antes de su lanzamiento, por lo que añadió la palabra 'ORIGINAL' a las imágenes de su tienda, y 'Tiempo en familia' también tuvo una imitación con el mismo nombre. Además, siguen apareciendo correos con amenazas de lanzar primero una copia hecha con AI si no se paga."
+                "x": "Las reflexiones finales que cuestionaban los estrictos estándares \"AI-free\" se borraron tras una reacción negativa en Bluesky. RPS califica la revelación de decepcionante: debió exponer sus argumentos antes de vender el juego."
               }
             ]
           }
@@ -1109,15 +677,15 @@
       }
     },
     {
-      "id": "games-ai-mashup-launcher-tos",
-      "source_lang": "en",
+      "id": "games-vibecoding-webgame",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI 매시업에\n수상한 런처 등장",
-      "body": "Elden Ring·Minecraft AI 매시업이 약관이 수상한 런처로 나왔다.",
-      "mini_headline": "AI 매시업\n전용 런처 등장",
+      "headline": "바이브 코딩 웹게임\n보안 위험 경고",
+      "body": "보안을 모른 채 AI로 만든 웹게임이 취약점과 정보 유출 우려를 낳고 있다.",
+      "mini_headline": "바이브 코딩 보안 위험",
       "tool": "Games",
-      "source": "GamesRadar+",
-      "url": "https://www.gamesradar.com/games/new-launcher-for-viral-ai-mash-ups-of-elden-ring-minecraft-and-more-emerges-with-some-very-questionable-terms-of-service-should-you-value-your-pc/",
+      "source": "게임메카",
+      "url": "https://www.gamemeca.com/view.php?gid=1782007",
       "accent": "#f5a623",
       "motif": "cube",
       "full": {
@@ -1125,295 +693,345 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+            "src": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp"
           },
           {
             "t": "p",
-            "x": "지난 몇 주 사이 웹에서 한 번쯤 봤을 Elden Ring과 Minecraft의 화제작 매시업을 이제 출처가 의심스러운 런처로 손쉽게 플레이할 수 있다. 대신 PC가 위험해질 수 있다."
+            "x": "자연어 기반 바이브 코딩의 확산으로 누구나 손쉽게 웹게임을 제작하고 배포하는 시대가 열렸다. 코딩 중심 AI들이 자바스크립트와 HTML을 원활하게 구현하면서, 국내에서는 '이번 생은 야구다'와 '80억 분의 1' 같은 작품이 커뮤니티 입소문을 타고 큰 인기를 끌었다."
+          },
+          {
+            "t": "img",
+            "src": "https://cdn.gamemeca.com/data_center/344/995/20261019183348.jpg",
+            "cap": "자신의 선수를 만들고 훈련과 전략을 거쳐 점차 성장시키는 이번 생은 야구다 (사진: 게임메카 촬영)"
           },
           {
             "t": "p",
-            "x": "누군가 원하는 기묘한 매시업은 뭐든 플레이하게 해 준다는 Windows용 전용 런처를 만들었다. 이름은 Melty다. 공식 설명에 따르면 \"Melty는 사용자가 보유한 두 게임을 하나의 하이브리드 경험으로 합쳐 주는 Windows용 무료 매시업 런처\"다. 이용약관상 런처는 게임 찾기, 새 도구 내려받기, 파일 복사, 폴더 수정, 프로그램 실행, 자동 업데이트 실행까지 거의 모든 일을 할 수 있다."
+            "x": "그러나 이용자에게 계정 정보나 개인 인증 코드를 요구하는 경우, 최소한의 보안 가이드라인조차 숙지하지 않은 채 AI에만 의존해 만든 결과물은 곧바로 보안 사고로 이어질 수 있다. 코드 기초 지식이 없으면 AI가 만든 코드의 결함이나 보안 허점을 식별하기 어렵고, API 유출로 이용자와 제작자 모두 피해를 입을 수 있다."
           },
           {
             "t": "p",
-            "x": "온라인에서 \"Wubbity\"라는 이름을 쓰는 한 코더는 Melty 설치 파일을 \"뜯어본\" 결과, 이 런처가 \"게임플레이 영상과 입력을 AI 학습 데이터로 기록하는 앱인 LookLoot의 리브랜딩\"이라는 걸 확인했다고 주장한다. 그의 말로는 Melty의 개인정보 처리방침은 \"이 점을 언급하지 않는다\"."
+            "x": "등급분류도 간과되기 쉽다. 후원을 받거나 광고 등으로 수익을 내기 시작하면 금액과 규모에 관계없이 반드시 등급분류를 거쳐야 하며, 비영리 게임이라도 청소년이용불가 내용이 있으면 마찬가지다. 게임위에 따르면 웹게임은 'PC/온라인' 게임으로 분류된다."
           },
           {
             "t": "p",
-            "x": "그는 \"악성코드는 아니고 비밀번호를 훔치지도 않는다\"고 못 박으면서도, 이 런처가 \"웹사이트에서 작동시킬 수 있는 휴면 상태의 게임플레이 녹화 파이프라인을 싣고 있으며, 사용자는 이를 고지받지 못했다\"고 지적한다. 한마디로 이 런처는 건너뛰는 편이 낫다."
+            "x": "누구나 만들 수 있다는 것이 아무렇게나 만들어 배포해도 된다는 면죄부는 아니다. 게임이 공공의 서비스로 발돋움하는 순간 창작자는 서비스의 온전한 책임자가 되어야 한다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "AI mash-ups get\na risky launcher",
-          "body": "The viral AI mash-ups of Elden Ring and Minecraft now ship via a dedicated launcher with worrying terms of service.",
-          "mini_headline": "AI mash-ups\nget a launcher",
+        "ko": {
+          "headline": "바이브 코딩 웹게임\n보안 위험 경고",
+          "body": "보안을 모른 채 AI로 만든 웹게임이 취약점과 정보 유출 우려를 낳고 있다.",
+          "mini_headline": "바이브 코딩 보안 위험",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp"
               },
               {
                 "t": "p",
-                "x": "Those viral Elden Ring and Minecraft mashups you've likely seen circulating the web over the past couple of weeks are now conveniently available to play via a questionably created launcher – one that might compromise your PC in the process."
+                "x": "자연어 기반 바이브 코딩의 확산으로 누구나 손쉽게 웹게임을 제작하고 배포하는 시대가 열렸다. 코딩 중심 AI들이 자바스크립트와 HTML을 원활하게 구현하면서, 국내에서는 '이번 생은 야구다'와 '80억 분의 1' 같은 작품이 커뮤니티 입소문을 타고 큰 인기를 끌었다."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/995/20261019183348.jpg",
+                "cap": "자신의 선수를 만들고 훈련과 전략을 거쳐 점차 성장시키는 이번 생은 야구다 (사진: 게임메카 촬영)"
               },
               {
                 "t": "p",
-                "x": "Somebody's made a special launcher for Windows computers that supposedly lets you play whatever weird mashup you'd like: Melty. As per its official description, \"Melty is a free mashup launcher for Windows that joins two games you own into one hybrid experience.\" Its terms of service let the launcher do just about everything: find games, download new tools, copy files, modify folders, run programs, and execute automatic updates."
+                "x": "그러나 이용자에게 계정 정보나 개인 인증 코드를 요구하는 경우, 최소한의 보안 가이드라인조차 숙지하지 않은 채 AI에만 의존해 만든 결과물은 곧바로 보안 사고로 이어질 수 있다. 코드 기초 지식이 없으면 AI가 만든 코드의 결함이나 보안 허점을 식별하기 어렵고, API 유출로 이용자와 제작자 모두 피해를 입을 수 있다."
               },
               {
                 "t": "p",
-                "x": "A coder who goes by \"Wubbity\" online alleges that he's \"pulled apart\" the Melty installer and found that it's \"a rebrand of LookLoot, an app that records gameplay video and inputs as AI training data.\" As he writes, Melty's privacy policy \"doesn't mention it.\""
+                "x": "등급분류도 간과되기 쉽다. 후원을 받거나 광고 등으로 수익을 내기 시작하면 금액과 규모에 관계없이 반드시 등급분류를 거쳐야 하며, 비영리 게임이라도 청소년이용불가 내용이 있으면 마찬가지다. 게임위에 따르면 웹게임은 'PC/온라인' 게임으로 분류된다."
               },
               {
                 "t": "p",
-                "x": "Although he clarifies it's \"not malware, no password stealing,\" it's \"shipping a dormant gameplay-recording pipeline its website can trigger, and users weren't told.\" In other words, I'd recommend giving this one a miss."
+                "x": "누구나 만들 수 있다는 것이 아무렇게나 만들어 배포해도 된다는 면죄부는 아니다. 게임이 공공의 서비스로 발돋움하는 순간 창작자는 서비스의 온전한 책임자가 되어야 한다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "AI 매시업에\n수상한 런처 등장",
-          "body": "Elden Ring·Minecraft AI 매시업이 약관이 수상한 런처로 나왔다.",
-          "mini_headline": "AI 매시업\n전용 런처 등장",
+        "en": {
+          "headline": "Security risks flagged in\nvibe-coded web games",
+          "body": "Web games built with AI by creators unaware of security are raising concerns about vulnerabilities and data leaks.",
+          "mini_headline": "Vibe coding security risks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp"
               },
               {
                 "t": "p",
-                "x": "지난 몇 주 사이 웹에서 한 번쯤 봤을 Elden Ring과 Minecraft의 화제작 매시업을 이제 출처가 의심스러운 런처로 손쉽게 플레이할 수 있다. 대신 PC가 위험해질 수 있다."
+                "x": "The spread of natural-language vibe coding has opened an era in which anyone can easily make and distribute web games. As coding-focused AI tools handle JavaScript and HTML smoothly, Korean titles such as 'This Life Is Baseball' and '1 in 8 Billion' have become hugely popular through community word of mouth."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/995/20261019183348.jpg",
+                "cap": "This Life Is Baseball, in which you create your own player and gradually develop them through training and strategy (Photo: taken by GameMeca)"
               },
               {
                 "t": "p",
-                "x": "누군가 원하는 기묘한 매시업은 뭐든 플레이하게 해 준다는 Windows용 전용 런처를 만들었다. 이름은 Melty다. 공식 설명에 따르면 \"Melty는 사용자가 보유한 두 게임을 하나의 하이브리드 경험으로 합쳐 주는 Windows용 무료 매시업 런처\"다. 이용약관상 런처는 게임 찾기, 새 도구 내려받기, 파일 복사, 폴더 수정, 프로그램 실행, 자동 업데이트 실행까지 거의 모든 일을 할 수 있다."
+                "x": "However, when a game asks users for account information or personal verification codes, work built by relying solely on AI without knowing even the most basic security guidelines can quickly lead to a security incident. Without basic coding knowledge, it is hard to spot flaws or security holes in code written by AI, and API leaks can harm both users and creators."
               },
               {
                 "t": "p",
-                "x": "온라인에서 \"Wubbity\"라는 이름을 쓰는 한 코더는 Melty 설치 파일을 \"뜯어본\" 결과, 이 런처가 \"게임플레이 영상과 입력을 AI 학습 데이터로 기록하는 앱인 LookLoot의 리브랜딩\"이라는 걸 확인했다고 주장한다. 그의 말로는 Melty의 개인정보 처리방침은 \"이 점을 언급하지 않는다\"."
+                "x": "Age ratings are also easy to overlook. Once a game starts earning money through sponsorships, ads or similar means, it must go through a rating review regardless of amount or scale, and the same applies to non-commercial games with content unsuitable for minors. According to the Game Rating and Administration Committee, web games are classified as 'PC/online' games."
               },
               {
                 "t": "p",
-                "x": "그는 \"악성코드는 아니고 비밀번호를 훔치지도 않는다\"고 못 박으면서도, 이 런처가 \"웹사이트에서 작동시킬 수 있는 휴면 상태의 게임플레이 녹화 파이프라인을 싣고 있으며, 사용자는 이를 고지받지 못했다\"고 지적한다. 한마디로 이 런처는 건너뛰는 편이 낫다."
+                "x": "The fact that anyone can make games is not a license to make and distribute them carelessly. The moment a game grows into a public service, its creator must become fully responsible for that service."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIマッシュアップに\n怪しいランチャー",
-          "body": "Elden Ring×MinecraftのAIマッシュアップが規約の怪しいランチャーで出た。",
-          "mini_headline": "AIマッシュアップに\n専用ランチャー",
+          "headline": "バイブコーディング製ゲーム\nセキュリティに警鐘",
+          "body": "セキュリティを知らずにAIで作られたWebゲームが、脆弱性と情報流出の懸念を生んでいる。",
+          "mini_headline": "バイブコーディングの安全リスク",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp"
               },
               {
                 "t": "p",
-                "x": "ここ数週間ネット上で目にしたであろう話題のElden RingとMinecraftのマッシュアップが、出自の怪しいランチャーで手軽に遊べるようになった。ただし、その過程でPCが危険にさらされるおそれがある。"
+                "x": "自然言語ベースのバイブコーディングの広がりにより、誰もが手軽にWebゲームを制作・配布できる時代が到来した。コーディングに特化したAIがJavaScriptとHTMLを滑らかに実装するようになり、韓国では『今世は野球だ』や『80億分の1』といった作品がコミュニティの口コミで大きな人気を集めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/995/20261019183348.jpg",
+                "cap": "自分の選手を作り、トレーニングと戦略を通じて徐々に育てていく『今世は野球だ』（写真：ゲームメカ撮影）"
               },
               {
                 "t": "p",
-                "x": "何者かが、好きな奇妙なマッシュアップを何でも遊べるとうたうWindows向けの専用ランチャー「Melty」を作った。公式の説明によれば「Meltyは、所有する二つのゲームを一つのハイブリッド体験に融合させる、Windows向けの無料マッシュアップランチャー」だという。利用規約は、ゲームの検索、新しいツールのダウンロード、ファイルのコピー、フォルダーの変更、プログラムの実行、自動アップデートの実行と、ランチャーにほぼあらゆることを許している。"
+                "x": "しかし、利用者にアカウント情報や個人認証コードを求める場合、最低限のセキュリティガイドラインすら把握せずAIだけに頼って作った成果物は、すぐさまセキュリティ事故につながりかねない。コードの基礎知識がなければAIが書いたコードの欠陥やセキュリティホールを見抜くのは難しく、APIの流出で利用者と制作者の双方が被害を受けるおそれがある。"
               },
               {
                 "t": "p",
-                "x": "ネット上で「Wubbity」と名乗るコーダーは、Meltyのインストーラーを「分解」したところ、これが「ゲームプレイの映像と入力をAIの学習データとして記録するアプリ、LookLootのリブランド版」だと分かったと主張する。彼によれば、Meltyのプライバシーポリシーは「そのことに触れていない」。"
+                "x": "等級分類も見落とされがちだ。支援を受けたり広告などで収益を上げ始めたりすれば、金額や規模にかかわらず必ず等級分類を受けなければならず、非営利のゲームでも青少年利用不可の内容があれば同様だ。ゲーム物管理委員会によると、Webゲームは「PC/オンライン」ゲームに分類される。"
               },
               {
                 "t": "p",
-                "x": "彼は「マルウェアではなく、パスワードを盗むこともない」と明言しつつも、「ウェブサイト側から起動できる休眠状態のゲームプレイ録画パイプラインを組み込んで配布しており、ユーザーには知らされていなかった」と指摘する。つまり、これは見送るのが賢明だ。"
+                "x": "誰もが作れるということは、好き勝手に作って配布してよいという免罪符ではない。ゲームが公共のサービスへと踏み出した瞬間、創作者はそのサービスの全責任を負う者にならなければならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI混搭游戏\n迎来高风险启动器",
-          "body": "爆红的Elden Ring与Minecraft AI混搭作，如今通过条款堪忧的启动器发布。",
-          "mini_headline": "AI混搭游戏\n有了启动器",
+          "headline": "氛围编程网页游戏\n安全风险引警示",
+          "body": "不懂安全就用AI做出的网页游戏，正引发人们对漏洞和信息泄露的担忧。",
+          "mini_headline": "氛围编程安全风险",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp"
               },
               {
                 "t": "p",
-                "x": "过去几周你可能在网上见过的那些爆红的Elden Ring与Minecraft混搭作，现在可以通过一个来路可疑的启动器方便地游玩——而这个过程可能会让你的PC面临风险。"
+                "x": "随着基于自然语言的氛围编程日益普及，人人都能轻松制作和发布网页游戏的时代已经到来。以编程为主的AI能够流畅地实现JavaScript和HTML，在韩国，《这辈子就是棒球》和《80亿分之1》等作品凭借社区口碑大受欢迎。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/995/20261019183348.jpg",
+                "cap": "《这辈子就是棒球》让玩家打造自己的球员，并通过训练和策略逐步培养（图片：GameMeca拍摄）"
               },
               {
                 "t": "p",
-                "x": "有人为Windows电脑做了一个专门的启动器，号称能让你玩任何想玩的奇怪混搭：Melty。按照官方介绍，“Melty是一款面向Windows的免费混搭启动器，可将你拥有的两款游戏合成一种混合体验。”其服务条款几乎允许该启动器做任何事：查找游戏、下载新工具、复制文件、修改文件夹、运行程序以及执行自动更新。"
+                "x": "然而，在需要用户提供账户信息或个人验证码的情况下，连最基本的安全指南都不了解、完全依赖AI做出的作品，可能直接导致安全事故。缺乏代码基础知识的人很难识别AI编写的代码中的缺陷或安全漏洞，而API泄露可能让用户和开发者都蒙受损失。"
               },
               {
                 "t": "p",
-                "x": "一位网名为“Wubbity”的程序员声称，他“拆解”了Melty安装程序，发现它是“LookLoot的换皮版本，而LookLoot是一款把游戏视频和操作输入记录为AI训练数据的应用”。他写道，Melty的隐私政策“对此只字未提”。"
+                "x": "分级审查也容易被忽视。一旦通过赞助或广告等方式开始获得收益，无论金额和规模大小，都必须接受分级审查；即便是非营利游戏，只要含有青少年不宜内容也同样如此。据韩国游戏物管理委员会介绍，网页游戏被归类为“PC/在线”游戏。"
               },
               {
                 "t": "p",
-                "x": "尽管他澄清这“不是恶意软件，也不会窃取密码”，但它“附带了一条休眠的游戏录制管线，可由其网站触发，而用户对此并不知情”。换句话说，我建议还是别碰它。"
+                "x": "人人都能做，并不是可以随意制作和发布的免罪符。当游戏成长为公共服务的那一刻，创作者就必须成为该服务的完全责任人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las mezclas con AI llegan\ncon un lanzador arriesgado",
-          "body": "Las mezclas virales con AI de Elden Ring y Minecraft llegan en un lanzador con términos de servicio inquietantes.",
-          "mini_headline": "Mezclas con AI\nestrenan lanzador",
+          "headline": "Alerta por riesgos de seguridad\nen juegos web con vibe coding",
+          "body": "Los juegos web hechos con AI sin saber de seguridad despiertan temor a vulnerabilidades y fugas de datos.",
+          "mini_headline": "Riesgos del vibe coding",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp"
               },
               {
                 "t": "p",
-                "x": "Esas mezclas virales de Elden Ring y Minecraft que probablemente has visto circular por la web en las últimas semanas ya se pueden jugar cómodamente mediante un lanzador de origen dudoso, uno que podría comprometer tu PC en el proceso."
+                "x": "La expansión del vibe coding basado en lenguaje natural ha abierto una época en la que cualquiera puede crear y distribuir juegos web con facilidad. A medida que las AI centradas en la programación implementan JavaScript y HTML con fluidez, en Corea del Sur obras como 'Esta vida es béisbol' y '1 entre 8.000 millones' se han vuelto muy populares gracias al boca a boca en las comunidades."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/995/20261019183348.jpg",
+                "cap": "Esta vida es béisbol, en la que se crea un jugador propio y se le hace crecer poco a poco con entrenamiento y estrategia (Foto: tomada por GameMeca)"
               },
               {
                 "t": "p",
-                "x": "Alguien ha creado un lanzador especial para equipos con Windows que, en teoría, permite jugar cualquier mezcla extraña que se quiera: Melty. Según su descripción oficial, \"Melty es un lanzador de mezclas gratuito para Windows que une dos juegos que posees en una experiencia híbrida\". Sus términos de servicio permiten al lanzador hacer prácticamente de todo: buscar juegos, descargar nuevas herramientas, copiar archivos, modificar carpetas, ejecutar programas y aplicar actualizaciones automáticas."
+                "x": "Sin embargo, cuando se pide a los usuarios información de cuenta o códigos de verificación personales, un producto hecho dependiendo solo de la AI, sin conocer siquiera las pautas mínimas de seguridad, puede derivar de inmediato en un incidente de seguridad. Sin conocimientos básicos de código es difícil detectar fallos o brechas de seguridad en el código escrito por la AI, y una filtración de la API puede perjudicar tanto a los usuarios como a los creadores."
               },
               {
                 "t": "p",
-                "x": "Un programador que se hace llamar \"Wubbity\" en internet asegura que \"desmontó\" el instalador de Melty y descubrió que es \"un cambio de marca de LookLoot, una app que graba video de las partidas y las entradas como datos de entrenamiento para AI\". Según escribe, la política de privacidad de Melty \"no lo menciona\"."
+                "x": "La clasificación por edades también se pasa por alto con facilidad. En cuanto un juego empieza a obtener ingresos mediante patrocinios o publicidad, debe someterse a clasificación sin importar el monto ni la escala, y lo mismo ocurre con los juegos sin fines de lucro que incluyan contenido no apto para menores. Según el Comité de Clasificación y Administración de Juegos, los juegos web se clasifican como juegos 'PC/en línea'."
               },
               {
                 "t": "p",
-                "x": "Aunque aclara que \"no es malware, no roba contraseñas\", sí está \"distribuyendo una canalización latente de grabación de partidas que su sitio web puede activar, y no se informó a los usuarios\". En otras palabras, recomendaría no probar este."
+                "x": "Que cualquiera pueda crearlos no es una licencia para hacerlos y distribuirlos de cualquier manera. En el momento en que un juego se convierte en un servicio público, su creador debe asumir la plena responsabilidad de ese servicio."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "AI 매시업에\n수상한 런처 등장",
-          "body": "Elden Ring·Minecraft AI 매시업이 우려되는 약관의 런처로 나왔다.",
-          "mini_headline": "AI 매시업\n전용 런처 등장",
+        "en": {
+          "headline": "Security risks flagged in\nvibe-coded web games",
+          "body": "Web games built with AI by creators unaware of security are raising concerns about vulnerabilities and data leaks.",
+          "mini_headline": "Vibe coding security risks",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp"
               },
               {
                 "t": "p",
-                "x": "지난 몇 주 동안 웹에서 돌아다니는 것을 봤을 법한 Elden Ring과 Minecraft의 화제의 매시업을 이제 출처가 의심스러운 런처로 간편하게 플레이할 수 있다. 다만 그 과정에서 PC가 위험해질 수 있다."
+                "x": "The spread of natural-language vibe coding has opened an era in which anyone can easily make and distribute web games. As coding-focused AI tools handle JavaScript and HTML smoothly, Korean titles such as 'This Life Is Baseball' and '1 in 8 Billion' have become hugely popular through community word of mouth."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/995/20261019183348.jpg",
+                "cap": "This Life Is Baseball, in which you create your own player and gradually develop them through training and strategy (Photo: taken by GameMeca)"
               },
               {
                 "t": "p",
-                "x": "누군가 원하는 기묘한 매시업을 무엇이든 플레이할 수 있게 해 준다는 Windows용 전용 런처를 만들었다. 이름은 Melty다. 공식 설명에 따르면 \"Melty는 사용자가 보유한 두 게임을 하나의 하이브리드 경험으로 합쳐 주는 Windows용 무료 매시업 런처\"다. 이용약관은 런처가 게임 찾기, 새 도구 내려받기, 파일 복사, 폴더 수정, 프로그램 실행, 자동 업데이트 실행까지 거의 모든 일을 할 수 있게 허용한다."
+                "x": "However, when a game asks users for account information or personal verification codes, work built by relying solely on AI without knowing even the most basic security guidelines can quickly lead to a security incident. Without basic coding knowledge, it is hard to spot flaws or security holes in code written by AI, and API leaks can harm both users and creators."
               },
               {
                 "t": "p",
-                "x": "온라인에서 \"Wubbity\"라는 이름을 쓰는 한 코더는 Melty 설치 파일을 \"뜯어본\" 결과 이것이 \"게임플레이 영상과 입력을 AI 학습 데이터로 기록하는 앱인 LookLoot의 리브랜딩\"이라는 사실을 확인했다고 주장한다. 그에 따르면 Melty의 개인정보 처리방침은 \"이 점을 언급하지 않는다\"."
+                "x": "Age ratings are also easy to overlook. Once a game starts earning money through sponsorships, ads or similar means, it must go through a rating review regardless of amount or scale, and the same applies to non-commercial games with content unsuitable for minors. According to the Game Rating and Administration Committee, web games are classified as 'PC/online' games."
               },
               {
                 "t": "p",
-                "x": "그는 \"악성코드는 아니고 비밀번호를 훔치지도 않는다\"고 분명히 하면서도, 이 런처가 \"웹사이트에서 작동시킬 수 있는 휴면 상태의 게임플레이 녹화 파이프라인을 싣고 있으며, 사용자는 이를 고지받지 못했다\"고 지적한다. 한마디로 이 런처는 건너뛰기를 권한다."
+                "x": "The fact that anyone can make games is not a license to make and distribute them carelessly. The moment a game grows into a public service, its creator must become fully responsible for that service."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIマッシュアップに\n怪しいランチャー",
-          "body": "Elden Ring×MinecraftのAIマッシュアップが規約の怪しいランチャーで出た。",
-          "mini_headline": "AIマッシュアップに\n専用ランチャー",
+          "headline": "バイブコーディング製ゲーム\nセキュリティに警鐘",
+          "body": "セキュリティを知らずにAIで作られたWebゲームが、脆弱性と情報流出の懸念を生んでいる。",
+          "mini_headline": "バイブコーディングの安全リスク",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp"
               },
               {
                 "t": "p",
-                "x": "ここ数週間ネット上で目にしたであろう話題のElden RingとMinecraftのマッシュアップが、出自の怪しいランチャーで手軽に遊べるようになった。ただし、その過程でPCが危険にさらされるおそれがある。"
+                "x": "自然言語ベースのバイブコーディングの広がりにより、誰もが手軽にWebゲームを制作・配布できる時代が到来した。コーディングに特化したAIがJavaScriptとHTMLを滑らかに実装するようになり、韓国では『今世は野球だ』や『80億分の1』といった作品がコミュニティの口コミで大きな人気を集めた。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/995/20261019183348.jpg",
+                "cap": "自分の選手を作り、トレーニングと戦略を通じて徐々に育てていく『今世は野球だ』（写真：ゲームメカ撮影）"
               },
               {
                 "t": "p",
-                "x": "何者かが、好きな奇妙なマッシュアップを何でも遊べるとうたうWindows向けの専用ランチャー「Melty」を作った。公式の説明によれば「Meltyは、所有する二つのゲームを一つのハイブリッド体験に融合させる、Windows向けの無料マッシュアップランチャー」だという。利用規約は、ゲームの検索、新しいツールのダウンロード、ファイルのコピー、フォルダーの変更、プログラムの実行、自動アップデートの実行と、ランチャーにほぼあらゆることを許している。"
+                "x": "しかし、利用者にアカウント情報や個人認証コードを求める場合、最低限のセキュリティガイドラインすら把握せずAIだけに頼って作った成果物は、すぐさまセキュリティ事故につながりかねない。コードの基礎知識がなければAIが書いたコードの欠陥やセキュリティホールを見抜くのは難しく、APIの流出で利用者と制作者の双方が被害を受けるおそれがある。"
               },
               {
                 "t": "p",
-                "x": "ネット上で「Wubbity」と名乗るコーダーは、Meltyのインストーラーを「分解」したところ、これが「ゲームプレイの映像と入力をAIの学習データとして記録するアプリ、LookLootのリブランド版」だと分かったと主張する。彼によれば、Meltyのプライバシーポリシーは「そのことに触れていない」。"
+                "x": "等級分類も見落とされがちだ。支援を受けたり広告などで収益を上げ始めたりすれば、金額や規模にかかわらず必ず等級分類を受けなければならず、非営利のゲームでも青少年利用不可の内容があれば同様だ。ゲーム物管理委員会によると、Webゲームは「PC/オンライン」ゲームに分類される。"
               },
               {
                 "t": "p",
-                "x": "彼は「マルウェアではなく、パスワードを盗むこともない」と明言しつつも、「ウェブサイト側から起動できる休眠状態のゲームプレイ録画パイプラインを組み込んで配布しており、ユーザーには知らされていなかった」と指摘する。つまり、これは見送るのが賢明だ。"
+                "x": "誰もが作れるということは、好き勝手に作って配布してよいという免罪符ではない。ゲームが公共のサービスへと踏み出した瞬間、創作者はそのサービスの全責任を負う者にならなければならない。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI混搭游戏\n迎来高风险启动器",
-          "body": "爆红的Elden Ring与Minecraft AI混搭作，如今通过条款堪忧的启动器发布。",
-          "mini_headline": "AI混搭游戏\n有了启动器",
+          "headline": "氛围编程网页游戏\n安全风险引警示",
+          "body": "不懂安全就用AI做出的网页游戏，正引发人们对漏洞和信息泄露的担忧。",
+          "mini_headline": "氛围编程安全风险",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp"
               },
               {
                 "t": "p",
-                "x": "过去几周你可能在网上见过的那些爆红的Elden Ring与Minecraft混搭作，现在可以通过一个来路可疑的启动器方便地游玩——而这个过程可能会让你的PC面临风险。"
+                "x": "随着基于自然语言的氛围编程日益普及，人人都能轻松制作和发布网页游戏的时代已经到来。以编程为主的AI能够流畅地实现JavaScript和HTML，在韩国，《这辈子就是棒球》和《80亿分之1》等作品凭借社区口碑大受欢迎。"
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/995/20261019183348.jpg",
+                "cap": "《这辈子就是棒球》让玩家打造自己的球员，并通过训练和策略逐步培养（图片：GameMeca拍摄）"
               },
               {
                 "t": "p",
-                "x": "有人为Windows电脑做了一个专门的启动器，号称能让你玩任何想玩的奇怪混搭：Melty。按照官方介绍，“Melty是一款面向Windows的免费混搭启动器，可将你拥有的两款游戏合成一种混合体验。”其服务条款几乎允许该启动器做任何事：查找游戏、下载新工具、复制文件、修改文件夹、运行程序以及执行自动更新。"
+                "x": "然而，在需要用户提供账户信息或个人验证码的情况下，连最基本的安全指南都不了解、完全依赖AI做出的作品，可能直接导致安全事故。缺乏代码基础知识的人很难识别AI编写的代码中的缺陷或安全漏洞，而API泄露可能让用户和开发者都蒙受损失。"
               },
               {
                 "t": "p",
-                "x": "一位网名为“Wubbity”的程序员声称，他“拆解”了Melty安装程序，发现它是“LookLoot的换皮版本，而LookLoot是一款把游戏视频和操作输入记录为AI训练数据的应用”。他写道，Melty的隐私政策“对此只字未提”。"
+                "x": "分级审查也容易被忽视。一旦通过赞助或广告等方式开始获得收益，无论金额和规模大小，都必须接受分级审查；即便是非营利游戏，只要含有青少年不宜内容也同样如此。据韩国游戏物管理委员会介绍，网页游戏被归类为“PC/在线”游戏。"
               },
               {
                 "t": "p",
-                "x": "尽管他澄清这“不是恶意软件，也不会窃取密码”，但它“附带了一条休眠的游戏录制管线，可由其网站触发，而用户对此并不知情”。换句话说，我建议还是别碰它。"
+                "x": "人人都能做，并不是可以随意制作和发布的免罪符。当游戏成长为公共服务的那一刻，创作者就必须成为该服务的完全责任人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Las mezclas con AI llegan\ncon un lanzador arriesgado",
-          "body": "Las mezclas virales con AI de Elden Ring y Minecraft llegan en un lanzador con términos de servicio inquietantes.",
-          "mini_headline": "Mezclas con AI\nestrenan lanzador",
+          "headline": "Alerta por riesgos de seguridad\nen juegos web con vibe coding",
+          "body": "Los juegos web hechos con AI sin saber de seguridad despiertan temor a vulnerabilidades y fugas de datos.",
+          "mini_headline": "Riesgos del vibe coding",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/Vu9TP87krHb5eh4Cmd8qzC-1920-80.jpg"
+                "src": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp"
               },
               {
                 "t": "p",
-                "x": "Esas mezclas virales de Elden Ring y Minecraft que probablemente has visto circular por la web en las últimas semanas ya se pueden jugar cómodamente mediante un lanzador de origen dudoso, uno que podría comprometer tu PC en el proceso."
+                "x": "La expansión del vibe coding basado en lenguaje natural ha abierto una época en la que cualquiera puede crear y distribuir juegos web con facilidad. A medida que las AI centradas en la programación implementan JavaScript y HTML con fluidez, en Corea del Sur obras como 'Esta vida es béisbol' y '1 entre 8.000 millones' se han vuelto muy populares gracias al boca a boca en las comunidades."
+              },
+              {
+                "t": "img",
+                "src": "https://cdn.gamemeca.com/data_center/344/995/20261019183348.jpg",
+                "cap": "Esta vida es béisbol, en la que se crea un jugador propio y se le hace crecer poco a poco con entrenamiento y estrategia (Foto: tomada por GameMeca)"
               },
               {
                 "t": "p",
-                "x": "Alguien ha creado un lanzador especial para equipos con Windows que, en teoría, permite jugar cualquier mezcla extraña que se quiera: Melty. Según su descripción oficial, \"Melty es un lanzador de mezclas gratuito para Windows que une dos juegos que posees en una experiencia híbrida\". Sus términos de servicio permiten al lanzador hacer prácticamente de todo: buscar juegos, descargar nuevas herramientas, copiar archivos, modificar carpetas, ejecutar programas y aplicar actualizaciones automáticas."
+                "x": "Sin embargo, cuando se pide a los usuarios información de cuenta o códigos de verificación personales, un producto hecho dependiendo solo de la AI, sin conocer siquiera las pautas mínimas de seguridad, puede derivar de inmediato en un incidente de seguridad. Sin conocimientos básicos de código es difícil detectar fallos o brechas de seguridad en el código escrito por la AI, y una filtración de la API puede perjudicar tanto a los usuarios como a los creadores."
               },
               {
                 "t": "p",
-                "x": "Un programador que se hace llamar \"Wubbity\" en internet asegura que \"desmontó\" el instalador de Melty y descubrió que es \"un cambio de marca de LookLoot, una app que graba video de las partidas y las entradas como datos de entrenamiento para AI\". Según escribe, la política de privacidad de Melty \"no lo menciona\"."
+                "x": "La clasificación por edades también se pasa por alto con facilidad. En cuanto un juego empieza a obtener ingresos mediante patrocinios o publicidad, debe someterse a clasificación sin importar el monto ni la escala, y lo mismo ocurre con los juegos sin fines de lucro que incluyan contenido no apto para menores. Según el Comité de Clasificación y Administración de Juegos, los juegos web se clasifican como juegos 'PC/en línea'."
               },
               {
                 "t": "p",
-                "x": "Aunque aclara que \"no es malware, no roba contraseñas\", sí está \"distribuyendo una canalización latente de grabación de partidas que su sitio web puede activar, y no se informó a los usuarios\". En otras palabras, recomendaría no probar este."
+                "x": "Que cualquiera pueda crearlos no es una licencia para hacerlos y distribuirlos de cualquier manera. En el momento en que un juego se convierte en un servicio público, su creador debe asumir la plena responsabilidad de ese servicio."
               }
             ]
           }
@@ -1421,219 +1039,213 @@
       }
     },
     {
-      "id": "games-ai-laws-studio-legal-map",
+      "id": "games-pgc-nordics",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 법이 바꾸는\n게임 개발",
-      "body": "바뀌는 AI 법제가 연기부터 광고까지 게임 스튜디오의 주요 영역을 흔든다.",
-      "mini_headline": "AI 법과 게임 스튜디오",
+      "headline": "PGC Nordics\nAI 거품 걷고 IP 먼저",
+      "body": "PGC Nordics의 IP·AI·D2C 세션은 많다고 늘 좋진 않다고 짚었다.",
+      "mini_headline": "PGC Nordics, 덜 하라",
       "tool": "Games",
-      "source": "GamesIndustry.biz",
-      "url": "https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development",
-      "accent": "#ff5a4d",
+      "source": "PocketGamer.biz",
+      "url": "https://www.pocketgamer.biz/pgc-nordics-2026-live-ops-d2c-ai-ip-talks/",
+      "accent": "#2ec5c5",
       "motif": "cube",
       "full": {
         "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+            "src": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg"
           },
           {
             "t": "p",
-            "x": "생성형 AI가 게임 개발에 점점 깊이 자리 잡으면서 이를 둘러싼 법률·규제·가이드라인도 늘고 있다. 달라지는 AI 법적 환경이 게임 스튜디오에 닿는 주요 영역을 큰 틀에서 짚어 본다."
+            "x": "많다고 늘 좋은 건 아니다. 20일과 21일 모바일 게임 업계가 Helsinki(헬싱키)에 모인 PGC Nordics에서는 여러 세션에 이 생각이 깔려 있었다. "
           },
           {
             "t": "p",
-            "x": "IP 침해: LLM은 타인의 저작물로 학습하기 때문에 출력물에 침해 소지가 있는 내용이 간혹 섞일 수 있고, 많은 도구가 입력과 출력을 제공사에 다시 라이선스하게 한다. 스튜디오는 클리어런스 절차로 프롬프트와 출력물을 검증해야 한다."
+            "x": "Katharina Schmidt는 IP 협업을 할 때 진행 기간, 제공 지역, 게임 속 IP 노출 방식 세 가지를 스튜디오가 처음부터 합의해 두라고 당부했다. 그는 \"IP 사용 권한과 승인은 일찍 합의하라\"고 말했다. "
           },
           {
             "t": "img",
-            "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
-            "cap": "SAG-AFTRA는 2025년 AI 관련 합의를 끌어냈다 | 이미지 출처: SAG-AFTRA"
+            "src": "https://media.pocketgamer.biz/images/141813/90088/lukedickenpgcnordics_1200.jpg"
           },
           {
             "t": "p",
-            "x": "연기자: SAG-AFTRA의 2024/25 파업은 연기자의 목소리나 외모를 AI에 쓸 때 명시적 동의와 보상을 받도록 하는 합의로 끝났고, 이 합의가 점점 시장의 기준선이 되어 간다. 소유권: 미국(US)에서는 오로지 AI로 만든(AI-generated) 이미지에 저작권이 인정되지 않는다. 반면 중국은 보호를 부여했고, 영국(UK)은 제작을 준비한 사람에게 권리를 준다."
+            "x": "LuDic AI 창업자이자 Take-Two Interactive의 전 AI 책임자인 Dr Luke Dicken은 생성형 AI를 무시하는 태도도, 한 번의 성공을 모든 게 바뀐 증거로 여기는 태도도 경계했다. 복귀 플레이어에게 LLM-driven 맥락 요약을 보여 주는 것처럼 AI가 실제로 가치를 더하는 곳에 집중해야 스튜디오가 얻는 게 많다고 했다. \"생산성 담론을 좇는 사람들은 그저 러닝머신 위를 달리고 있을 뿐이다.\" "
           },
           {
             "t": "p",
-            "x": "광고: 영국(UK) ASA는 광고 속 AI 콘텐츠 지침을 내놓고 있다. EU AI Act는 딥페이크를 폭넓게 정의하기 때문에 사실적인 콘텐츠에는 표시가 필요할 수 있고, Steam 같은 스토어는 AI 사용 공개를 요구한다. AI 사용 정책은 이제 \"have-to-have\"(반드시 갖춰야 할 것)가 됐고, 투자자·퍼블리셔·보험사·감사인의 요구도 갈수록 커진다."
+            "x": "참여도가 떨어진다고 이벤트를 늘리는 건 핵심을 놓친 처방이라고 Outfit7의 Urška Leskovar는 말했다. \"플레이어에게는 할 일이 더 필요한 게 아니다. 관심을 가질 이유가 필요하다.\" Xsolla의 Ola Dokun은 \"웹숍이 있다고 D2C 전략이 있는 것은 아니다\"라고 덧붙였다. "
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "How AI laws reshape\ngame development",
-          "body": "The changing AI legal landscape is affecting game studios in key areas, from acting to advertising.",
-          "mini_headline": "AI laws meet\ngame studios",
+          "headline": "PGC Nordics: cut AI hype,\nagree IP terms early",
+          "body": "Four PGC Nordics talks on IP, AI hype, live ops and D2C all landed in one place: doing more is not always useful.",
+          "mini_headline": "PGC Nordics: do less",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg"
               },
               {
                 "t": "p",
-                "x": "Generative AI is increasingly embedded in game development, while the laws, regulations and guidelines around it are on the rise. Here is a high-level run through of key areas in which the changing AI legal landscape is affecting game studios."
+                "x": "More isn't always better. That idea ran through several sessions at PGC Nordics, which brought the mobile games industry to Helsinki on October 20th and 21st."
               },
               {
                 "t": "p",
-                "x": "IP infringement: LLM training on third-party works means output could occasionally contain infringing material, and many tools license inputs and outputs back to the provider. Studios should vet prompts and outputs through clearance processes."
+                "x": "Katharina Schmidt urged studios to agree three IP collab details at the start: how long it runs, where it's available and how the IP appears in the game. \"Agree on IP usage rights and approvals early,\" she said."
               },
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "SAG-AFTRA secured an agreement that covered AI in 2025 | Image credit: SAG-AFTRA"
+                "src": "https://media.pocketgamer.biz/images/141813/90088/lukedickenpgcnordics_1200.jpg"
               },
               {
                 "t": "p",
-                "x": "Performers: the SAG-AFTRA strike of 2024/25 ended in an agreement requiring express consent and compensation for AI use of a performer's voice or likeness — now increasingly the market baseline. Ownership: in the US, solely AI-generated images can't be copyrighted, while China has granted protection and the UK assigns it to whoever made the arrangements."
+                "x": "Dr Luke Dicken, founder of LuDic AI and former head of AI at Take-Two Interactive, warned against both writing generative AI off and treating one success as proof everything has changed. Studios will get more from focusing where AI adds real value, such as LLM-driven contextual recaps for returning players. \"People that are chasing the productivity conversation are just running on a treadmill.\""
               },
               {
                 "t": "p",
-                "x": "Advertising: the UK's ASA is issuing guidance on AI content in ads. The EU AI Act's broad deepfake definition may require labelling photorealistic content, and storefronts such as Steam require AI disclosure. The upshot: an AI use policy is now a \"have-to-have\", increasingly demanded by investors, publishers, insurers and auditors."
+                "x": "Outfit7's Urška Leskovar said adding more events when engagement dips misses the point: \"Players don't need more to do. They need a reason to care.\" Xsolla's Ola Dokun added: \"Having a webshop is not the same as having a D2C strategy.\""
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 법이 바꾸는\n게임 개발",
-          "body": "바뀌는 AI 법제가 연기부터 광고까지 게임 스튜디오의 주요 영역을 흔든다.",
-          "mini_headline": "AI 법과 게임 스튜디오",
+          "headline": "PGC Nordics\nAI 거품 걷고 IP 먼저",
+          "body": "PGC Nordics의 IP·AI·D2C 세션은 많다고 늘 좋진 않다고 짚었다.",
+          "mini_headline": "PGC Nordics, 덜 하라",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg"
               },
               {
                 "t": "p",
-                "x": "생성형 AI가 게임 개발에 점점 깊이 자리 잡으면서 이를 둘러싼 법률·규제·가이드라인도 늘고 있다. 달라지는 AI 법적 환경이 게임 스튜디오에 닿는 주요 영역을 큰 틀에서 짚어 본다."
+                "x": "많다고 늘 좋은 건 아니다. 20일과 21일 모바일 게임 업계가 Helsinki(헬싱키)에 모인 PGC Nordics에서는 여러 세션에 이 생각이 깔려 있었다. "
               },
               {
                 "t": "p",
-                "x": "IP 침해: LLM은 타인의 저작물로 학습하기 때문에 출력물에 침해 소지가 있는 내용이 간혹 섞일 수 있고, 많은 도구가 입력과 출력을 제공사에 다시 라이선스하게 한다. 스튜디오는 클리어런스 절차로 프롬프트와 출력물을 검증해야 한다."
+                "x": "Katharina Schmidt는 IP 협업을 할 때 진행 기간, 제공 지역, 게임 속 IP 노출 방식 세 가지를 스튜디오가 처음부터 합의해 두라고 당부했다. 그는 \"IP 사용 권한과 승인은 일찍 합의하라\"고 말했다. "
               },
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "SAG-AFTRA는 2025년 AI 관련 합의를 끌어냈다 | 이미지 출처: SAG-AFTRA"
+                "src": "https://media.pocketgamer.biz/images/141813/90088/lukedickenpgcnordics_1200.jpg"
               },
               {
                 "t": "p",
-                "x": "연기자: SAG-AFTRA의 2024/25 파업은 연기자의 목소리나 외모를 AI에 쓸 때 명시적 동의와 보상을 받도록 하는 합의로 끝났고, 이 합의가 점점 시장의 기준선이 되어 간다. 소유권: 미국(US)에서는 오로지 AI로 만든(AI-generated) 이미지에 저작권이 인정되지 않는다. 반면 중국은 보호를 부여했고, 영국(UK)은 제작을 준비한 사람에게 권리를 준다."
+                "x": "LuDic AI 창업자이자 Take-Two Interactive의 전 AI 책임자인 Dr Luke Dicken은 생성형 AI를 무시하는 태도도, 한 번의 성공을 모든 게 바뀐 증거로 여기는 태도도 경계했다. 복귀 플레이어에게 LLM-driven 맥락 요약을 보여 주는 것처럼 AI가 실제로 가치를 더하는 곳에 집중해야 스튜디오가 얻는 게 많다고 했다. \"생산성 담론을 좇는 사람들은 그저 러닝머신 위를 달리고 있을 뿐이다.\" "
               },
               {
                 "t": "p",
-                "x": "광고: 영국(UK) ASA는 광고 속 AI 콘텐츠 지침을 내놓고 있다. EU AI Act는 딥페이크를 폭넓게 정의하기 때문에 사실적인 콘텐츠에는 표시가 필요할 수 있고, Steam 같은 스토어는 AI 사용 공개를 요구한다. AI 사용 정책은 이제 \"have-to-have\"(반드시 갖춰야 할 것)가 됐고, 투자자·퍼블리셔·보험사·감사인의 요구도 갈수록 커진다."
+                "x": "참여도가 떨어진다고 이벤트를 늘리는 건 핵심을 놓친 처방이라고 Outfit7의 Urška Leskovar는 말했다. \"플레이어에게는 할 일이 더 필요한 게 아니다. 관심을 가질 이유가 필요하다.\" Xsolla의 Ola Dokun은 \"웹숍이 있다고 D2C 전략이 있는 것은 아니다\"라고 덧붙였다. "
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI法が変える\nゲーム開発",
-          "body": "変わりゆくAIの法環境が、演技から広告までゲームスタジオの主な領域に影響を及ぼしている。",
-          "mini_headline": "AI法とゲームスタジオ",
+          "headline": "PGC Nordicsの提言\nAI熱を抑え、IP条件は早く",
+          "body": "PGC NordicsのIP・AI・D2Cの講演は、多ければ良いとは限らないと示した。",
+          "mini_headline": "PGC Nordics：やりすぎない",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg"
               },
               {
                 "t": "p",
-                "x": "生成AIはゲーム開発に深く入り込みつつあり、それをめぐる法律、規制、ガイドラインも増えている。変わりゆくAIの法環境がゲームスタジオに影響を及ぼす主な領域を、大まかに見ていく。"
+                "x": "多ければ良いとは限らない。20日と21日にHelsinki（ヘルシンキ）でモバイルゲーム業界が集ったPGC Nordicsでは、いくつものセッションにこの考えが通底していた。"
               },
               {
                 "t": "p",
-                "x": "IP侵害：LLMは第三者の著作物で学習しているため、出力に侵害にあたる素材がまれに含まれる可能性がある。また多くのツールは、入力と出力を提供元にライセンスし返す仕組みだ。スタジオはクリアランス手続きを通じてプロンプトと出力を精査すべきである。"
+                "x": "Katharina Schmidt氏は、IPコラボの三つの詳細、すなわち実施期間、提供地域、ゲーム内でのIPの見せ方を最初に合意するようスタジオに促した。「IPの使用権と承認は早めに合意すること」と同氏は述べた。"
               },
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "SAG-AFTRAは2025年、AIを対象とする合意を勝ち取った | 画像クレジット：SAG-AFTRA"
+                "src": "https://media.pocketgamer.biz/images/141813/90088/lukedickenpgcnordics_1200.jpg"
               },
               {
                 "t": "p",
-                "x": "出演者：SAG-AFTRAによる2024/25のストライキは、出演者の声や容姿をAIに使う際に明示的な同意と報酬を求める合意で決着し、これがいまや市場の基準になりつつある。所有権：US（米国）では、AIのみで生成された（AI-generated）画像は著作権の対象にならない。一方、中国は保護を認め、UK（英国）は制作の手配をした者に権利を帰属させている。"
+                "x": "LuDic AIの創業者で、Take-Two InteractiveでAI部門の責任者を務めたDr Luke Dicken氏は、生成AIを切り捨てることにも、一つの成功をすべてが変わった証拠とみなすことにも警鐘を鳴らした。スタジオは、復帰プレイヤー向けのLLM-drivenな文脈に応じた振り返りのように、AIが真の価値を生む領域に集中した方が得るものは大きいという。「生産性の議論を追いかける人々は、ただトレッドミルの上を走っているだけだ」"
               },
               {
                 "t": "p",
-                "x": "広告：UK（英国）のASAは、広告におけるAIコンテンツについてのガイダンスを出している。EU AI Actのディープフェイクの定義は広く、写実的なコンテンツには表示が求められる可能性がある。Steamなどのストアもすでに、AI使用の開示を義務づけている。結論として、AI利用ポリシーはいまや「have-to-have」（不可欠なもの）であり、投資家、パブリッシャー、保険会社、監査人からますます求められている。"
+                "x": "Outfit7のUrška Leskovar氏は、エンゲージメントが落ちたときにイベントを増やすのは的外れだと述べた。「プレイヤーに必要なのは、やることを増やすことではない。気にかける理由だ」。XsollaのOla Dokun氏は「Webショップを持つことは、D2C戦略を持つことと同じではない」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI法律如何重塑\n游戏开发",
-          "body": "不断变化的AI法律环境，正在从表演到广告等关键领域影响游戏工作室。",
-          "mini_headline": "AI法律遇上游戏工作室",
+          "headline": "PGC Nordics：\n给AI降温，IP条款早谈",
+          "body": "PGC Nordics四场演讲谈IP、AI、长线运营与D2C：多做未必有用。",
+          "mini_headline": "PGC Nordics：少即是多",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg"
               },
               {
                 "t": "p",
-                "x": "生成式AI正日益融入游戏开发，与之相关的法律、法规和指南也在不断增加。以下概括梳理不断变化的AI法律环境影响游戏工作室的关键领域。"
+                "x": "更多并不总是更好。这一观点贯穿了20日至21日在Helsinki（赫尔辛基）举行、汇聚移动游戏行业的PGC Nordics多场会议。"
               },
               {
                 "t": "p",
-                "x": "IP侵权：LLM使用第三方作品进行训练，意味着输出内容偶尔可能包含侵权素材，而且许多工具会把输入和输出反向授权给提供方。工作室应通过审核流程检查提示词和输出内容。"
+                "x": "Katharina Schmidt敦促工作室在一开始就商定IP合作的三项细节：持续多久、在哪些地区上线，以及IP在游戏中如何呈现。她说：“尽早商定IP使用权和审批事宜。”"
               },
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "SAG-AFTRA在2025年争取到一项涵盖AI的协议 | 图片来源：SAG-AFTRA"
+                "src": "https://media.pocketgamer.biz/images/141813/90088/lukedickenpgcnordics_1200.jpg"
               },
               {
                 "t": "p",
-                "x": "表演者：SAG-AFTRA在2024/25的罢工以一项协议告终，该协议要求在AI使用表演者的声音或形象时须获得明确同意并支付报酬，这正日益成为市场基准。所有权：在US（美国），完全由AI生成（AI-generated）的图像无法获得版权，而中国已给予保护，UK（英国）则将权利归于作出相关安排的人。"
+                "x": "LuDic AI创始人、Take-Two Interactive前AI负责人Dr Luke Dicken提醒，既不要全盘否定生成式AI，也不要把一次成功当作一切都已改变的证据。工作室若专注于AI能真正创造价值的领域，比如为回归玩家提供LLM-driven的情境回顾，将收获更多。“追逐生产力话题的人，不过是在跑步机上原地奔跑。”"
               },
               {
                 "t": "p",
-                "x": "广告：UK（英国）的ASA正在发布关于广告中AI内容的指引。EU AI Act对深度伪造的宽泛定义可能要求为逼真内容加注标签，Steam等商店也要求披露AI使用情况。结论是：AI使用政策如今已是\"have-to-have\"（必备项），投资者、发行商、保险公司和审计方越来越多地提出这一要求。"
+                "x": "Outfit7的Urška Leskovar表示，在参与度下滑时增加更多活动并没有抓住要点：“玩家不需要更多事情可做，他们需要一个在乎的理由。”Xsolla的Ola Dokun补充道：“拥有网店并不等于拥有D2C战略。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cómo las leyes de IA\ncambian el desarrollo de juegos",
-          "body": "El cambiante marco legal de la IA afecta a los estudios de juegos en áreas clave, de la actuación a la publicidad.",
-          "mini_headline": "Leyes de IA y estudios de juegos",
+          "headline": "PGC Nordics: menos euforia AI,\ny pactar la IP desde el inicio",
+          "body": "Cuatro charlas de PGC Nordics sobre IP, AI, live ops y D2C coincidieron en algo: hacer más no siempre sirve.",
+          "mini_headline": "PGC Nordics: hacer menos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg"
               },
               {
                 "t": "p",
-                "x": "La AI generativa está cada vez más integrada en el desarrollo de videojuegos, mientras crecen las leyes, normas y directrices que la rodean. Este es un repaso general de las áreas clave en las que el cambiante marco legal de la IA afecta a los estudios."
+                "x": "Más no siempre es mejor. Esa idea atravesó varias sesiones de PGC Nordics, que reunió a la industria de los juegos móviles en Helsinki los días 20 y 21 de octubre."
               },
               {
                 "t": "p",
-                "x": "Infracción de IP: que los LLM se entrenen con obras de terceros implica que los resultados podrían contener ocasionalmente material infractor, y muchas herramientas licencian las entradas y salidas de vuelta al proveedor. Los estudios deberían revisar prompts y resultados mediante procesos de verificación de derechos."
+                "x": "Katharina Schmidt instó a los estudios a acordar desde el inicio tres detalles de las colaboraciones de IP: cuánto duran, dónde están disponibles y cómo aparece la IP en el juego. \"Acuerden pronto los derechos de uso y las aprobaciones de la IP\", dijo."
               },
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "SAG-AFTRA logró un acuerdo que abarcaba la AI en 2025 | Crédito de imagen: SAG-AFTRA"
+                "src": "https://media.pocketgamer.biz/images/141813/90088/lukedickenpgcnordics_1200.jpg"
               },
               {
                 "t": "p",
-                "x": "Intérpretes: la huelga de SAG-AFTRA de 2024/25 terminó con un acuerdo que exige consentimiento expreso y compensación por el uso con IA de la voz o la imagen de un intérprete, algo que cada vez más se considera la base del mercado. Propiedad: en US (Estados Unidos), las imágenes generadas únicamente por IA (AI-generated) no pueden registrarse con copyright, mientras que China les ha concedido protección y el UK (Reino Unido) atribuye los derechos a quien hizo los arreglos necesarios."
+                "x": "Dr Luke Dicken, fundador de LuDic AI y exjefe de AI en Take-Two Interactive, advirtió tanto contra descartar la AI generativa como contra tomar un único éxito como prueba de que todo ha cambiado. Los estudios sacarán más provecho si se centran donde la AI aporta valor real, como los resúmenes contextuales LLM-driven para jugadores que regresan. \"Quienes persiguen la conversación sobre productividad solo están corriendo en una cinta\"."
               },
               {
                 "t": "p",
-                "x": "Publicidad: la ASA del UK (Reino Unido) está publicando orientaciones sobre contenido de IA en anuncios. La amplia definición de deepfake de la EU AI Act podría exigir etiquetar el contenido fotorrealista, y tiendas como Steam exigen declarar el uso de IA. En resumen, una política de uso de IA es ya un \"have-to-have\", cada vez más exigido por inversores, editoras, aseguradoras y auditores."
+                "x": "Urška Leskovar, de Outfit7, dijo que añadir más eventos cuando cae la participación no resuelve el problema: \"Los jugadores no necesitan más cosas que hacer. Necesitan una razón para que les importe\". Ola Dokun, de Xsolla, añadió: \"Tener una tienda web no es lo mismo que tener una estrategia D2C\"."
               }
             ]
           }
@@ -1641,141 +1253,459 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 법이 바꾸는\n게임 개발",
-          "body": "변화하는 AI 법제가 연기부터 광고까지 게임 스튜디오의 주요 영역을 흔든다.",
-          "mini_headline": "AI 법과 게임 스튜디오",
+          "headline": "PGC Nordics\nAI 거품 걷고 IP 먼저",
+          "body": "PGC Nordics의 IP·AI·D2C 세션은 많을수록 늘 좋진 않다고 했다.",
+          "mini_headline": "PGC Nordics: 덜 하라",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg"
               },
               {
                 "t": "p",
-                "x": "생성형 AI가 게임 개발에 점점 깊이 자리 잡는 가운데, 이를 둘러싼 법률·규제·가이드라인도 늘고 있다. 변화하는 AI 법적 환경이 게임 스튜디오에 영향을 미치는 주요 영역을 큰 틀에서 짚어 본다."
+                "x": "많다고 늘 좋은 것은 아니다. 20일과 21일 Helsinki(헬싱키)에 모바일 게임 업계가 모인 PGC Nordics의 여러 세션을 이 생각이 관통했다."
               },
               {
                 "t": "p",
-                "x": "IP 침해: LLM이 타인의 저작물로 학습하는 만큼 출력물에 침해 소지가 있는 내용이 간혹 섞일 수 있고, 많은 도구가 입력과 출력을 제공사에 다시 라이선스하도록 한다. 스튜디오는 클리어런스 절차를 거쳐 프롬프트와 출력물을 검증해야 한다."
+                "x": "Katharina Schmidt는 스튜디오들이 IP 협업의 세 가지 세부 사항, 즉 진행 기간과 제공 지역, 게임 속 IP 노출 방식을 처음부터 합의해야 한다고 당부했다. 그는 \"IP 사용 권한과 승인은 일찍 합의하라\"고 말했다."
               },
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "SAG-AFTRA는 2025년 AI를 다루는 합의를 이끌어 냈다 | 이미지 출처: SAG-AFTRA"
+                "src": "https://media.pocketgamer.biz/images/141813/90088/lukedickenpgcnordics_1200.jpg"
               },
               {
                 "t": "p",
-                "x": "연기자: SAG-AFTRA의 2024/25 파업은 연기자의 목소리나 외모를 AI에 쓸 때 명시적 동의와 보상을 요구하는 합의로 끝났고, 이는 점점 시장의 기준선이 되고 있다. 소유권: 미국(US)에서는 오로지 AI로 만든(AI-generated) 이미지는 저작권을 인정받지 못하지만, 중국은 보호를 부여했고 영국(UK)은 그 제작을 준비한 사람에게 권리를 귀속한다."
+                "x": "LuDic AI 창업자이자 Take-Two Interactive의 전 AI 책임자인 Dr Luke Dicken은 생성형 AI를 무시하는 태도도, 한 번의 성공을 모든 것이 바뀐 증거로 여기는 태도도 경계했다. 스튜디오는 복귀 플레이어를 위한 LLM-driven 맥락 요약처럼 AI가 실질적 가치를 더하는 곳에 집중할 때 더 많은 것을 얻는다는 설명이다. \"생산성 담론을 좇는 사람들은 그저 러닝머신 위를 달리고 있을 뿐이다.\""
               },
               {
                 "t": "p",
-                "x": "광고: 영국(UK) ASA는 광고 속 AI 콘텐츠에 관한 지침을 내놓고 있다. EU AI Act의 폭넓은 딥페이크 정의에 따라 사실적인 콘텐츠에 표시가 필요할 수 있고, Steam 같은 스토어는 AI 사용 공개를 요구한다. 결국 AI 사용 정책은 이제 \"have-to-have\"(반드시 갖춰야 할 것)이며, 투자자·퍼블리셔·보험사·감사인이 점점 더 요구하고 있다."
+                "x": "Outfit7의 Urška Leskovar는 참여도가 떨어질 때 이벤트를 늘리는 것은 핵심을 놓친 처방이라고 말했다. \"플레이어에게는 할 일이 더 필요한 게 아니다. 관심을 가질 이유가 필요하다.\" Xsolla의 Ola Dokun은 \"웹숍이 있다고 D2C 전략이 있는 것은 아니다\"라고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI法が変える\nゲーム開発",
-          "body": "変わりゆくAIの法環境が、演技から広告までゲームスタジオの主な領域に影響を及ぼしている。",
-          "mini_headline": "AI法とゲームスタジオ",
+          "headline": "PGC Nordicsの提言\nAI熱を抑え、IP条件は早く",
+          "body": "PGC NordicsのIP・AI・D2Cの講演は、多ければ良いとは限らないと示した。",
+          "mini_headline": "PGC Nordics：やりすぎない",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg"
               },
               {
                 "t": "p",
-                "x": "生成AIはゲーム開発に深く入り込みつつあり、それをめぐる法律、規制、ガイドラインも増えている。変わりゆくAIの法環境がゲームスタジオに影響を及ぼす主な領域を、大まかに見ていく。"
+                "x": "多ければ良いとは限らない。20日と21日にHelsinki（ヘルシンキ）でモバイルゲーム業界が集ったPGC Nordicsでは、いくつものセッションにこの考えが通底していた。"
               },
               {
                 "t": "p",
-                "x": "IP侵害：LLMは第三者の著作物で学習しているため、出力に侵害にあたる素材がまれに含まれる可能性がある。また多くのツールは、入力と出力を提供元にライセンスし返す仕組みだ。スタジオはクリアランス手続きを通じてプロンプトと出力を精査すべきである。"
+                "x": "Katharina Schmidt氏は、IPコラボの三つの詳細、すなわち実施期間、提供地域、ゲーム内でのIPの見せ方を最初に合意するようスタジオに促した。「IPの使用権と承認は早めに合意すること」と同氏は述べた。"
               },
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "SAG-AFTRAは2025年、AIを対象とする合意を勝ち取った | 画像クレジット：SAG-AFTRA"
+                "src": "https://media.pocketgamer.biz/images/141813/90088/lukedickenpgcnordics_1200.jpg"
               },
               {
                 "t": "p",
-                "x": "出演者：SAG-AFTRAによる2024/25のストライキは、出演者の声や容姿をAIに使う際に明示的な同意と報酬を求める合意で決着し、これがいまや市場の基準になりつつある。所有権：US（米国）では、AIのみで生成された（AI-generated）画像は著作権の対象にならない。一方、中国は保護を認め、UK（英国）は制作の手配をした者に権利を帰属させている。"
+                "x": "LuDic AIの創業者で、Take-Two InteractiveでAI部門の責任者を務めたDr Luke Dicken氏は、生成AIを切り捨てることにも、一つの成功をすべてが変わった証拠とみなすことにも警鐘を鳴らした。スタジオは、復帰プレイヤー向けのLLM-drivenな文脈に応じた振り返りのように、AIが真の価値を生む領域に集中した方が得るものは大きいという。「生産性の議論を追いかける人々は、ただトレッドミルの上を走っているだけだ」"
               },
               {
                 "t": "p",
-                "x": "広告：UK（英国）のASAは、広告におけるAIコンテンツについてのガイダンスを出している。EU AI Actのディープフェイクの定義は広く、写実的なコンテンツには表示が求められる可能性がある。Steamなどのストアもすでに、AI使用の開示を義務づけている。結論として、AI利用ポリシーはいまや「have-to-have」（不可欠なもの）であり、投資家、パブリッシャー、保険会社、監査人からますます求められている。"
+                "x": "Outfit7のUrška Leskovar氏は、エンゲージメントが落ちたときにイベントを増やすのは的外れだと述べた。「プレイヤーに必要なのは、やることを増やすことではない。気にかける理由だ」。XsollaのOla Dokun氏は「Webショップを持つことは、D2C戦略を持つことと同じではない」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI法律如何重塑\n游戏开发",
-          "body": "不断变化的AI法律环境，正在从表演到广告等关键领域影响游戏工作室。",
-          "mini_headline": "AI法律遇上游戏工作室",
+          "headline": "PGC Nordics：\n给AI降温，IP条款早谈",
+          "body": "PGC Nordics四场演讲谈IP、AI、长线运营与D2C：多做未必有用。",
+          "mini_headline": "PGC Nordics：少即是多",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg"
               },
               {
                 "t": "p",
-                "x": "生成式AI正日益融入游戏开发，与之相关的法律、法规和指南也在不断增加。以下概括梳理不断变化的AI法律环境影响游戏工作室的关键领域。"
+                "x": "更多并不总是更好。这一观点贯穿了20日至21日在Helsinki（赫尔辛基）举行、汇聚移动游戏行业的PGC Nordics多场会议。"
               },
               {
                 "t": "p",
-                "x": "IP侵权：LLM使用第三方作品进行训练，意味着输出内容偶尔可能包含侵权素材，而且许多工具会把输入和输出反向授权给提供方。工作室应通过审核流程检查提示词和输出内容。"
+                "x": "Katharina Schmidt敦促工作室在一开始就商定IP合作的三项细节：持续多久、在哪些地区上线，以及IP在游戏中如何呈现。她说：“尽早商定IP使用权和审批事宜。”"
               },
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "SAG-AFTRA在2025年争取到一项涵盖AI的协议 | 图片来源：SAG-AFTRA"
+                "src": "https://media.pocketgamer.biz/images/141813/90088/lukedickenpgcnordics_1200.jpg"
               },
               {
                 "t": "p",
-                "x": "表演者：SAG-AFTRA在2024/25的罢工以一项协议告终，该协议要求在AI使用表演者的声音或形象时须获得明确同意并支付报酬，这正日益成为市场基准。所有权：在US（美国），完全由AI生成（AI-generated）的图像无法获得版权，而中国已给予保护，UK（英国）则将权利归于作出相关安排的人。"
+                "x": "LuDic AI创始人、Take-Two Interactive前AI负责人Dr Luke Dicken提醒，既不要全盘否定生成式AI，也不要把一次成功当作一切都已改变的证据。工作室若专注于AI能真正创造价值的领域，比如为回归玩家提供LLM-driven的情境回顾，将收获更多。“追逐生产力话题的人，不过是在跑步机上原地奔跑。”"
               },
               {
                 "t": "p",
-                "x": "广告：UK（英国）的ASA正在发布关于广告中AI内容的指引。EU AI Act对深度伪造的宽泛定义可能要求为逼真内容加注标签，Steam等商店也要求披露AI使用情况。结论是：AI使用政策如今已是\"have-to-have\"（必备项），投资者、发行商、保险公司和审计方越来越多地提出这一要求。"
+                "x": "Outfit7的Urška Leskovar表示，在参与度下滑时增加更多活动并没有抓住要点：“玩家不需要更多事情可做，他们需要一个在乎的理由。”Xsolla的Ola Dokun补充道：“拥有网店并不等于拥有D2C战略。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Cómo las leyes de IA\ncambian el desarrollo de juegos",
-          "body": "El cambiante marco legal de la IA afecta a los estudios de juegos en áreas clave, de la actuación a la publicidad.",
-          "mini_headline": "Leyes de IA y estudios de juegos",
+          "headline": "PGC Nordics: menos euforia AI,\ny pactar la IP desde el inicio",
+          "body": "Cuatro charlas de PGC Nordics sobre IP, AI, live ops y D2C coincidieron en algo: hacer más no siempre sirve.",
+          "mini_headline": "PGC Nordics: hacer menos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/steve-a-johnson-1FD-E7Ioblw-unsplash-(1).jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp"
+                "src": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg"
               },
               {
                 "t": "p",
-                "x": "La AI generativa está cada vez más integrada en el desarrollo de videojuegos, mientras crecen las leyes, normas y directrices que la rodean. Este es un repaso general de las áreas clave en las que el cambiante marco legal de la IA afecta a los estudios."
+                "x": "Más no siempre es mejor. Esa idea atravesó varias sesiones de PGC Nordics, que reunió a la industria de los juegos móviles en Helsinki los días 20 y 21 de octubre."
               },
               {
                 "t": "p",
-                "x": "Infracción de IP: que los LLM se entrenen con obras de terceros implica que los resultados podrían contener ocasionalmente material infractor, y muchas herramientas licencian las entradas y salidas de vuelta al proveedor. Los estudios deberían revisar prompts y resultados mediante procesos de verificación de derechos."
+                "x": "Katharina Schmidt instó a los estudios a acordar desde el inicio tres detalles de las colaboraciones de IP: cuánto duran, dónde están disponibles y cómo aparece la IP en el juego. \"Acuerden pronto los derechos de uso y las aprobaciones de la IP\", dijo."
               },
               {
                 "t": "img",
-                "src": "https://assetsio.gnwcdn.com/APP_MembersApprove_VidGames25_v1-copy.jpg?width=1200&quality=85&format=jpg&auto=webp",
-                "cap": "SAG-AFTRA logró un acuerdo que abarcaba la AI en 2025 | Crédito de imagen: SAG-AFTRA"
+                "src": "https://media.pocketgamer.biz/images/141813/90088/lukedickenpgcnordics_1200.jpg"
               },
               {
                 "t": "p",
-                "x": "Intérpretes: la huelga de SAG-AFTRA de 2024/25 terminó con un acuerdo que exige consentimiento expreso y compensación por el uso con IA de la voz o la imagen de un intérprete, algo que cada vez más se considera la base del mercado. Propiedad: en US (Estados Unidos), las imágenes generadas únicamente por IA (AI-generated) no pueden registrarse con copyright, mientras que China les ha concedido protección y el UK (Reino Unido) atribuye los derechos a quien hizo los arreglos necesarios."
+                "x": "Dr Luke Dicken, fundador de LuDic AI y exjefe de AI en Take-Two Interactive, advirtió tanto contra descartar la AI generativa como contra tomar un único éxito como prueba de que todo ha cambiado. Los estudios sacarán más provecho si se centran donde la AI aporta valor real, como los resúmenes contextuales LLM-driven para jugadores que regresan. \"Quienes persiguen la conversación sobre productividad solo están corriendo en una cinta\"."
               },
               {
                 "t": "p",
-                "x": "Publicidad: la ASA del UK (Reino Unido) está publicando orientaciones sobre contenido de IA en anuncios. La amplia definición de deepfake de la EU AI Act podría exigir etiquetar el contenido fotorrealista, y tiendas como Steam exigen declarar el uso de IA. En resumen, una política de uso de IA es ya un \"have-to-have\", cada vez más exigido por inversores, editoras, aseguradoras y auditores."
+                "x": "Urška Leskovar, de Outfit7, dijo que añadir más eventos cuando cae la participación no resuelve el problema: \"Los jugadores no necesitan más cosas que hacer. Necesitan una razón para que les importe\". Ola Dokun, de Xsolla, añadió: \"Tener una tienda web no es lo mismo que tener una estrategia D2C\"."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "games-xbox-ai-manager",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Xbox 매니저\n\"수백 명이 AI 쓴다\"",
+      "body": "Brandon Stirrup은 Xbox에 AI가 만연하다고 올린 뒤 계정을 지웠다.",
+      "mini_headline": "Xbox 내부자, AI 사용 만연",
+      "tool": "Games",
+      "source": "Kotaku",
+      "url": "https://kotaku.com/xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-instead-2000747938",
+      "accent": "#eb367f",
+      "motif": "cube",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Microsoft의 시니어 비즈니스 전략 매니저 Brandon Stirrup은 연달아 글을 올리며 Xbox에서 AI 사용이 만연하고 이제 누가 알든 상관없다고 주장했다. 그는 X에 \"Xbox의 수백 명이 AI를 안 쓰는 척을 그만둘 수 있다면 기꺼이 타격을 감수하겠다\"며 \"이제 받아들이고 나아갈 때\"라고 올렸다. "
+          },
+          {
+            "t": "p",
+            "x": "그는 \"게임은 AI를 안 쓰는 척하는 유일한 업계\"라고 썼다. \"내가 내일 해고된다면, 아무도 당신이 알기를 원하지 않는 진실을 말했기 때문일 것이다. 간단한 프롬프트로 게임을 만들 수 있고, 그렇다, 맞춤형 게임도 만들 수 있다.\""
+          },
+          {
+            "t": "img",
+            "src": "https://kotaku.com/app/uploads/2026/10/Screenshot-2026-10-20-at-11.21.03%E2%80%AFAM.jpg",
+            "cap": "©Brandon Stirrup / X"
+          },
+          {
+            "t": "p",
+            "x": "스레드는 계정째 사라졌다. 소식통이 PC Gamer에 전한 바로는 답글이 쏟아지자 그가 지웠다. Kotaku는 AI 전면 도입을 대놓고 알리면 Xbox에 절실한 고객을 쫓아내기 딱 좋다고 꼬집었다. 그는 \"사용자는 진실을 원한다\"며 \"우리는 AI를 쓰고 있다\"고 썼다. "
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Xbox manager says hundreds\nthere are using AI",
+          "body": "Microsoft senior business strategy manager Brandon Stirrup said Xbox AI use is widespread, then deleted his account.",
+          "mini_headline": "Xbox insider: AI is widespread",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Brandon Stirrup, a senior business strategy manager at Microsoft, went on a posting spree to assert that use of AI at Xbox is widespread and that he no longer cares who knows it. \"I'm happy to take the hit if it means hundreds at Xbox can stop pretending that they're not using AI,\" he posted on X. \"It's time to accept and move forward.\""
+              },
+              {
+                "t": "p",
+                "x": "\"Gaming is the only industry pretending not to use AI,\" he wrote. \"Look, if I'm fired tomorrow it will be because I told you the truth that nobody wants you to know. You can make a game with a simple prompt and yes you can make custom, tailored games.\""
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/Screenshot-2026-10-20-at-11.21.03%E2%80%AFAM.jpg",
+                "cap": "©Brandon Stirrup / X"
+              },
+              {
+                "t": "p",
+                "x": "The thread was deleted along with his account; sources told PC Gamer he deleted it because of the volume of replies. Kotaku argues that broadcasting blanket AI adoption is a good way to drive away customers Xbox sorely needs. \"Users want the truth,\" he wrote. \"We're using AI.\""
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Xbox 매니저\n\"수백 명이 AI 쓴다\"",
+          "body": "Brandon Stirrup은 Xbox에 AI가 만연하다고 올린 뒤 계정을 지웠다.",
+          "mini_headline": "Xbox 내부자, AI 사용 만연",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft의 시니어 비즈니스 전략 매니저 Brandon Stirrup은 연달아 글을 올리며 Xbox에서 AI 사용이 만연하고 이제 누가 알든 상관없다고 주장했다. 그는 X에 \"Xbox의 수백 명이 AI를 안 쓰는 척을 그만둘 수 있다면 기꺼이 타격을 감수하겠다\"며 \"이제 받아들이고 나아갈 때\"라고 올렸다. "
+              },
+              {
+                "t": "p",
+                "x": "그는 \"게임은 AI를 안 쓰는 척하는 유일한 업계\"라고 썼다. \"내가 내일 해고된다면, 아무도 당신이 알기를 원하지 않는 진실을 말했기 때문일 것이다. 간단한 프롬프트로 게임을 만들 수 있고, 그렇다, 맞춤형 게임도 만들 수 있다.\""
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/Screenshot-2026-10-20-at-11.21.03%E2%80%AFAM.jpg",
+                "cap": "©Brandon Stirrup / X"
+              },
+              {
+                "t": "p",
+                "x": "스레드는 계정째 사라졌다. 소식통이 PC Gamer에 전한 바로는 답글이 쏟아지자 그가 지웠다. Kotaku는 AI 전면 도입을 대놓고 알리면 Xbox에 절실한 고객을 쫓아내기 딱 좋다고 꼬집었다. 그는 \"사용자는 진실을 원한다\"며 \"우리는 AI를 쓰고 있다\"고 썼다. "
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Xboxマネージャー\n「数百人がAIを使う」",
+          "body": "MicrosoftのBrandon Stirrup氏がXboxのAI浸透を明かし退会した。",
+          "mini_headline": "Xbox内部者：AIは広く普及",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "MicrosoftのシニアビジネスストラテジーマネージャーBrandon Stirrup氏は立て続けに投稿し、XboxではAIの使用が広く浸透しており、誰に知られてももう構わないと主張した。「Xboxの何百人もがAIを使っていないふりをやめられるなら、喜んで批判を受ける」と同氏はXに投稿し、「受け入れて前に進むときだ」と続けた。"
+              },
+              {
+                "t": "p",
+                "x": "「AIを使っていないふりをしているのはゲーム業界だけだ」と同氏は書いた。「いいか、もし明日クビになるとしたら、それは誰もあなたに知ってほしくない真実を伝えたからだ。シンプルなプロンプトでゲームは作れるし、そう、カスタムで自分好みのゲームも作れる」"
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/Screenshot-2026-10-20-at-11.21.03%E2%80%AFAM.jpg",
+                "cap": "©Brandon Stirrup / X"
+              },
+              {
+                "t": "p",
+                "x": "スレッドはアカウントごと削除された。関係者がPC Gamerに語ったところでは、返信の多さが削除の理由だという。Kotakuは、AIの全面導入を公言することは、Xboxが切実に必要としている顧客を遠ざける格好の方法だと論じている。「ユーザーは真実を求めている」と同氏は書いた。「我々はAIを使っている」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Xbox经理称\n数百名员工在用AI",
+          "body": "Microsoft的Brandon Stirrup称Xbox普遍使用AI，随后注销账号。",
+          "mini_headline": "Xbox内部人士：AI已普及",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft高级业务战略经理Brandon Stirrup连发多条帖子，声称Xbox内部普遍使用AI，并表示他不再在意谁知道这件事。他在X上写道：“如果能让Xbox的数百人不再假装没在用AI，我乐意承担后果。”“是时候接受现实、继续前进了。”"
+              },
+              {
+                "t": "p",
+                "x": "“游戏是唯一一个假装不用AI的行业，”他写道，“听着，如果我明天被解雇，那是因为我告诉了你们没人希望你们知道的真相。用一个简单的提示词就能做出游戏，没错，还能做出定制化、量身打造的游戏。”"
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/Screenshot-2026-10-20-at-11.21.03%E2%80%AFAM.jpg",
+                "cap": "©Brandon Stirrup / X"
+              },
+              {
+                "t": "p",
+                "x": "该帖子串连同他的账号一起被删除；知情人士告诉PC Gamer，他删除是因为回复数量太多。Kotaku认为，高调宣扬全面采用AI，正是赶走Xbox急需的客户的好办法。“用户想要真相，”他写道，“我们在用AI。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un mánager de Xbox dice que\ncientos allí usan AI",
+          "body": "Brandon Stirrup, de Microsoft, dijo que el uso de AI en Xbox está generalizado y después borró su cuenta.",
+          "mini_headline": "Fuente en Xbox: la AI está extendida",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Brandon Stirrup, gerente sénior de estrategia de negocio en Microsoft, publicó una serie de mensajes para afirmar que el uso de AI en Xbox está generalizado y que ya no le importa quién lo sepa. \"Con gusto asumo el golpe si eso significa que cientos de personas en Xbox pueden dejar de fingir que no usan AI\", publicó en X. \"Es hora de aceptarlo y seguir adelante\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Los videojuegos son la única industria que finge no usar AI\", escribió. \"Miren, si me despiden mañana será porque les conté la verdad que nadie quiere que sepan. Se puede hacer un juego con un simple prompt y, sí, se pueden hacer juegos personalizados y a medida\"."
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/Screenshot-2026-10-20-at-11.21.03%E2%80%AFAM.jpg",
+                "cap": "©Brandon Stirrup / X"
+              },
+              {
+                "t": "p",
+                "x": "El hilo se borró junto con su cuenta; fuentes dijeron a PC Gamer que lo eliminó por el volumen de respuestas. Kotaku sostiene que anunciar una adopción generalizada de la AI es una buena forma de alejar a los clientes que Xbox tanto necesita. \"Los usuarios quieren la verdad\", escribió. \"Estamos usando AI\"."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Xbox 매니저\n\"수백 명이 AI 쓴다\"",
+          "body": "Brandon Stirrup은 Xbox의 AI 사용이 만연하다고 한 뒤 탈퇴했다.",
+          "mini_headline": "Xbox 내부자: AI 사용 만연",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft의 시니어 비즈니스 전략 매니저 Brandon Stirrup은 잇달아 글을 올려 Xbox에서 AI 사용이 만연하며 누가 알든 이제 상관없다고 주장했다. 그는 X에 \"Xbox의 수백 명이 AI를 안 쓰는 척을 그만둘 수 있다면 기꺼이 타격을 감수하겠다\"며 \"이제 받아들이고 나아갈 때\"라고 올렸다."
+              },
+              {
+                "t": "p",
+                "x": "그는 \"게임은 AI를 안 쓰는 척하는 유일한 업계\"라고 썼다. \"내가 내일 해고된다면, 아무도 당신이 알기를 원하지 않는 진실을 말했기 때문일 것이다. 간단한 프롬프트로 게임을 만들 수 있고, 그렇다, 맞춤형 게임도 만들 수 있다.\""
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/Screenshot-2026-10-20-at-11.21.03%E2%80%AFAM.jpg",
+                "cap": "©Brandon Stirrup / X"
+              },
+              {
+                "t": "p",
+                "x": "스레드는 계정과 함께 삭제됐다. 소식통은 PC Gamer에 그가 쏟아진 답글 때문에 이를 지웠다고 전했다. Kotaku는 AI 전면 도입을 공공연히 알리는 것은 Xbox에 절실한 고객을 쫓아내기 좋은 방법이라고 지적한다. 그는 \"사용자는 진실을 원한다\"며 \"우리는 AI를 쓰고 있다\"고 썼다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "Xboxマネージャー\n「数百人がAIを使う」",
+          "body": "MicrosoftのBrandon Stirrup氏がXboxのAI浸透を明かし退会した。",
+          "mini_headline": "Xbox内部者：AIは広く普及",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "MicrosoftのシニアビジネスストラテジーマネージャーBrandon Stirrup氏は立て続けに投稿し、XboxではAIの使用が広く浸透しており、誰に知られてももう構わないと主張した。「Xboxの何百人もがAIを使っていないふりをやめられるなら、喜んで批判を受ける」と同氏はXに投稿し、「受け入れて前に進むときだ」と続けた。"
+              },
+              {
+                "t": "p",
+                "x": "「AIを使っていないふりをしているのはゲーム業界だけだ」と同氏は書いた。「いいか、もし明日クビになるとしたら、それは誰もあなたに知ってほしくない真実を伝えたからだ。シンプルなプロンプトでゲームは作れるし、そう、カスタムで自分好みのゲームも作れる」"
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/Screenshot-2026-10-20-at-11.21.03%E2%80%AFAM.jpg",
+                "cap": "©Brandon Stirrup / X"
+              },
+              {
+                "t": "p",
+                "x": "スレッドはアカウントごと削除された。関係者がPC Gamerに語ったところでは、返信の多さが削除の理由だという。Kotakuは、AIの全面導入を公言することは、Xboxが切実に必要としている顧客を遠ざける格好の方法だと論じている。「ユーザーは真実を求めている」と同氏は書いた。「我々はAIを使っている」"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Xbox经理称\n数百名员工在用AI",
+          "body": "Microsoft的Brandon Stirrup称Xbox普遍使用AI，随后注销账号。",
+          "mini_headline": "Xbox内部人士：AI已普及",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft高级业务战略经理Brandon Stirrup连发多条帖子，声称Xbox内部普遍使用AI，并表示他不再在意谁知道这件事。他在X上写道：“如果能让Xbox的数百人不再假装没在用AI，我乐意承担后果。”“是时候接受现实、继续前进了。”"
+              },
+              {
+                "t": "p",
+                "x": "“游戏是唯一一个假装不用AI的行业，”他写道，“听着，如果我明天被解雇，那是因为我告诉了你们没人希望你们知道的真相。用一个简单的提示词就能做出游戏，没错，还能做出定制化、量身打造的游戏。”"
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/Screenshot-2026-10-20-at-11.21.03%E2%80%AFAM.jpg",
+                "cap": "©Brandon Stirrup / X"
+              },
+              {
+                "t": "p",
+                "x": "该帖子串连同他的账号一起被删除；知情人士告诉PC Gamer，他删除是因为回复数量太多。Kotaku认为，高调宣扬全面采用AI，正是赶走Xbox急需的客户的好办法。“用户想要真相，”他写道，“我们在用AI。”"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Un mánager de Xbox dice que\ncientos allí usan AI",
+          "body": "Brandon Stirrup, de Microsoft, dijo que el uso de AI en Xbox está generalizado y después borró su cuenta.",
+          "mini_headline": "Fuente en Xbox: la AI está extendida",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Brandon Stirrup, gerente sénior de estrategia de negocio en Microsoft, publicó una serie de mensajes para afirmar que el uso de AI en Xbox está generalizado y que ya no le importa quién lo sepa. \"Con gusto asumo el golpe si eso significa que cientos de personas en Xbox pueden dejar de fingir que no usan AI\", publicó en X. \"Es hora de aceptarlo y seguir adelante\"."
+              },
+              {
+                "t": "p",
+                "x": "\"Los videojuegos son la única industria que finge no usar AI\", escribió. \"Miren, si me despiden mañana será porque les conté la verdad que nadie quiere que sepan. Se puede hacer un juego con un simple prompt y, sí, se pueden hacer juegos personalizados y a medida\"."
+              },
+              {
+                "t": "img",
+                "src": "https://kotaku.com/app/uploads/2026/10/Screenshot-2026-10-20-at-11.21.03%E2%80%AFAM.jpg",
+                "cap": "©Brandon Stirrup / X"
+              },
+              {
+                "t": "p",
+                "x": "El hilo se borró junto con su cuenta; fuentes dijeron a PC Gamer que lo eliminó por el volumen de respuestas. Kotaku sostiene que anunciar una adopción generalizada de la AI es una buena forma de alejar a los clientes que Xbox tanto necesita. \"Los usuarios quieren la verdad\", escribió. \"Estamos usando AI\"."
               }
             ]
           }

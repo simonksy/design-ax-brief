@@ -1853,6 +1853,131 @@
           "x": "与Meta的GEM和Adaptive Ranking Model搭配后，GenRecs Tokenization在各个版面带来+0.35%的转化提升（Meta内部数据，2026年2月）。下一步是扩大令牌化覆盖范围，并建立横跨文本、图像、音频和视频的共享令牌空间。"
         }
       ]
+    },
+    "marketing/marketing-walmart-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+          "cap": "Walmart推出支持代理式购物的新功能。"
+        },
+        {
+          "t": "p",
+          "x": "Walmart正向代替顾客购物的代理敞开大门，而就在一个月前，Amazon阻止了Meta的Muse AI助手做同样的事。"
+        },
+        {
+          "t": "p",
+          "x": "Walmart将在未来一个月内推出Agent Profiles，让购物者为每个AI代理授权专属档案，并单独查看其购买记录。购物者可以要求每笔购买都需批准，也可以让代理在消费上限内自行购买。Walmart Agent Gateway测试版借助MCP，为代理提供比面向消费者的网站更快、更可靠的购物方式。"
+        },
+        {
+          "t": "p",
+          "x": "按照Walmart的规则，退货照常适用，代理购买默认须经顾客批准，代理不得超出购物者的意图行事，也不会获得支付卡信息。不遵守条款的代理将被屏蔽。"
+        },
+        {
+          "t": "p",
+          "x": "Walmart Connect的Ryan Mayward表示，对话透露的信息比关键词更多：“机会在于贴合顾客想要完成的事情，而不仅仅是他们在搜索什么。”Marketplace高级副总裁（SVP）Manish Joneja表示，对于AI驱动（AI-powered）的购物而言，准确的商品信息、价格和配送承诺变得更加重要。"
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-markets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI周三宣布，ChatGPT Ads将扩展至26个新国家，其中14个位于拉丁美洲，包括阿根廷、智利和哥伦比亚。OpenAI还表示，上线约八个月以来，已有超过10万家广告主在该平台投放过广告。"
+        },
+        {
+          "t": "p",
+          "x": "这并不等于有10万家活跃广告主：The Information援引New Street Research的数据报道，截至10月初，活跃广告主约为6万家。今年早些时候，ChatGPT宣布广告年化收入达到10亿美元，低于公司最初预测的24亿美元收入。许多广告主希望在追加预算前看到更有力的效果衡量，OpenAI表示正在扩张的同时搭建衡量能力。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI本月初发布了一种视觉效果更强、图片更大的广告形式，面向使用ChatGPT生成图片的用户投放，并率先在美国测试。OpenAI表示正在“探索更多形式”，但未透露细节。OpenAI称其广告仍与ChatGPT的回答保持区分。"
+        }
+      ]
+    },
+    "marketing/marketing-yelp-lead-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+          "cap": "Yelp对一款应答并筛选Request a Quote潜在客户的AI代理收取每月30美元"
+        },
+        {
+          "t": "p",
+          "x": "Smart Lead Reply是一款在Yelp消息线程中应答并审核Request a Quote询价的AI代理，将于下月推出，每月收费30美元。它是Yelp于2026年10月20日发布的Fall Product Release中面向商家的核心功能。"
+        },
+        {
+          "t": "p",
+          "x": "该代理利用Yelp for Business账户和商家页面中的信息来回答问题、收集项目细节并筛选潜在客户。商家可以添加预约链接、服务、价格或促销信息，以及希望代理提出的问题。潜在客户通过筛选后，代理会分享预约链接，所有对话都会记录在Yelp收件箱中。"
+        },
+        {
+          "t": "p",
+          "x": "该产品面向搬家、屋顶、管道、家庭清洁、承包商和电工等符合条件的类别销售。Yelp未提供任何准确率数据，也未说明商家能否在消息发出前进行审批。"
+        },
+        {
+          "t": "p",
+          "x": "此次发布还为Yelp Assistant新增了OpenTable预订功能，推出了会致电餐厅询问等位时间的AI电话代理Check for Me，并为Yelp Audiences展示广告系列加入了基于意图的创意。"
+        }
+      ]
+    },
+    "marketing/marketing-meta-muse": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+          "cap": "图片来源：Samuel Boivin/NurPhoto / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Meta在周三的第三季度财报电话会上表示，其AI应用Muse的用户已超过1000万。Mark Zuckerberg称，设置了Muse的人中约有25%如今每天使用它。"
+        },
+        {
+          "t": "p",
+          "x": "他说，在通过这一AI代理购物的Muse活跃用户中，超过四分之一的平均购买金额超过200美元。Muse借助Plaid的连接器实现代理式购物。其他热门用途包括把代理连接到电子邮件或日历等个人生产力任务。"
+        },
+        {
+          "t": "p",
+          "x": "Meta计划让大多数用户免费使用Muse，同时从平台上的交易中抽取一定比例，并向重度用户收费。Zuckerberg表示，Meta预计明年将Muse的成本效率提升10倍以上，并预测它最终带来的每用户收入将超过其应用家族。"
+        },
+        {
+          "t": "p",
+          "x": "他还预告了“Muse network”：“如果你想买东西，就不只是访问那家企业的网站，而是与它的代理对话。”"
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-auto-enhance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI通过邮件通知ChatGPT Ads广告主，自2026年十月30日（周五）起，将为新的和现有的self-serve广告系列启用“creative enhancements”（创意增强）功能。广告主可在此之前选择退出，也可随时在Ads Manager中更改设置；已有的账户级和广告系列级退出设置将予以保留。"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+          "cap": "Ads Manager中已开启的creative enhancements设置"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI表示，这项功能能让广告与对话内容和用户兴趣更相关，同时减少制作多个版本的工作量。它可能基于现有广告和落地页内容撰写新的或更新的标题与描述，将广告文字翻译成其他语言，调整图片尺寸，并优化目标URLs。变体可能提前准备，也可能根据对话实时生成。"
+        },
+        {
+          "t": "p",
+          "x": "邮件写道：“启用后，这些广告可以自动投放，无需您审核或批准每个版本。”"
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+          "cap": "OpenAI发给广告主的邮件"
+        },
+        {
+          "t": "p",
+          "x": "X上PPC营销人员的反应大多持怀疑态度，其中一人表示，由于线索质量不佳，已经暂停了ChatGPT ads测试。"
+        }
+      ]
     }
   }
 }

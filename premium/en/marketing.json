@@ -1853,6 +1853,131 @@
           "x": "Paired with Meta's GEM and Adaptive Ranking Model, GenRecs Tokenization delivered a +0.35% lift in conversions across surfaces (Meta internal data, February 2026). Next: wider tokenization coverage and a shared token space across text, image, audio and video."
         }
       ]
+    },
+    "marketing/marketing-walmart-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=1240",
+          "cap": "Walmart is launching new features to support agentic shopping."
+        },
+        {
+          "t": "p",
+          "x": "Walmart is opening the door to agents that shop on customers' behalf, a month after Amazon blocked Meta's Muse AI assistant from doing the same."
+        },
+        {
+          "t": "p",
+          "x": "Within the next month, Walmart will launch Agent Profiles, letting shoppers authorize each AI agent with a dedicated profile and see its purchases separately. Shoppers can require approval for purchases or let an agent buy within a spending limit. A beta of Walmart Agent Gateway uses MCP to give agents a faster, more reliable way to shop than the consumer website."
+        },
+        {
+          "t": "p",
+          "x": "Walmart's rules say returns still apply, customers must approve agent purchases by default, agents cannot do more than the shopper intends and don't receive payment card information. Agents that don't follow the terms will be blocked."
+        },
+        {
+          "t": "p",
+          "x": "Walmart Connect's Ryan Mayward said conversations reveal more than keywords: \"The opportunity is to be relevant to what a customer is trying to accomplish, not just what they're searching for.\" Marketplace SVP Manish Joneja said accurate product information, prices and delivery promises become even more important for AI-powered shopping."
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-markets": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-1024x512.jpg"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI announced on Wednesday that ChatGPT Ads will expand into 26 new countries. Fourteen of them are in Latin America, including Argentina, Chile and Colombia. OpenAI also said more than 100,000 advertisers have run ads on the platform in the roughly eight months since launch."
+        },
+        {
+          "t": "p",
+          "x": "That is not the same as 100,000 active advertisers: The Information reported about 60,000 active advertisers as of early October, citing New Street Research. Earlier this year ChatGPT announced a $1 billion annualized ads run rate, short of the company's initial $2.4 billion revenue prediction. Many advertisers want stronger measurement before committing more budget, and OpenAI says it is building measurement alongside the expansion."
+        },
+        {
+          "t": "p",
+          "x": "Earlier this month OpenAI announced a more visual ad format with larger images, served to people using ChatGPT for image generation and tested first in the US. OpenAI is \"exploring additional formats\" but declined to elaborate. OpenAI says its ads remain distinct from ChatGPT's responses."
+        }
+      ]
+    },
+    "marketing/marketing-yelp-lead-agent": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
+          "cap": "Yelp charges $30 a month for an AI agent that answers and qualifies Request a Quote leads"
+        },
+        {
+          "t": "p",
+          "x": "Smart Lead Reply, an AI agent that answers and vets Request a Quote inquiries inside Yelp's message threads, will cost $30 a month when it rolls out next month. It is the business-facing centerpiece of Yelp's Fall Product Release, published October 20, 2026."
+        },
+        {
+          "t": "p",
+          "x": "The agent draws on information in the Yelp for Business account and business page to answer questions, gather project details and qualify leads. Owners can add a scheduling link, services, pricing or promotions, and questions for the agent to ask. Once a lead is qualified, the agent shares the scheduling link, and every conversation is logged in the Yelp inbox."
+        },
+        {
+          "t": "p",
+          "x": "It is sold to eligible categories such as movers, roofers, plumbers, home cleaners, contractors and electricians. Yelp gives no accuracy figures and doesn't say whether owners can approve messages before they go out."
+        },
+        {
+          "t": "p",
+          "x": "The release also adds OpenTable reservations to Yelp Assistant, Check for Me, an AI phone agent that calls restaurants to ask about wait times, and intent-based creative for Yelp Audiences display campaigns."
+        }
+      ]
+    },
+    "marketing/marketing-meta-muse": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+          "cap": "Image Credits: Samuel Boivin/NurPhoto / Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Meta said during its third-quarter earnings call on Wednesday that its AI app Muse has been adopted by more than 10 million users. Mark Zuckerberg said about 25% of people who set up Muse now use it daily."
+        },
+        {
+          "t": "p",
+          "x": "He said over a quarter of Muse's engaged users who were shopping via the AI agent had an average purchase size of over $200. Muse uses Plaid's connector to enable agentic shopping. Other popular uses include personal productivity tasks such as connecting the agent to email or calendars."
+        },
+        {
+          "t": "p",
+          "x": "Meta plans to keep Muse free for most users while keeping a percentage of the commerce on the platform, and to charge power users. Zuckerberg said Meta expects to improve Muse's cost efficiency by more than 10x in the next year and forecasts it will eventually bring in more revenue per user than its family of apps."
+        },
+        {
+          "t": "p",
+          "x": "He also teased a \"Muse network\": \"And if you want to buy something, it's not just navigating to that business's website; it's talking to their agent.\""
+        }
+      ]
+    },
+    "marketing/marketing-chatgpt-ads-auto-enhance": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "OpenAI emailed ChatGPT Ads advertisers that starting Friday, October 30, 2026, it will enable “creative enhancements” for new and existing self-serve campaigns. Advertisers can opt out before then or change the setting any time in Ads Manager; existing account and campaign-level opt-outs are preserved."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
+          "cap": "The creative enhancements setting, toggled on in Ads Manager"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI says the enhancements make ads more relevant to the conversation and user interests while reducing the work of creating multiple versions. Using the existing ad and landing-page content, it may write new or updated headlines and descriptions, translate ad text into other languages, resize images and optimize destination URLs. Variations may be prepared in advance or created in real time based on the conversation."
+        },
+        {
+          "t": "p",
+          "x": "“When enabled, these ads can run automatically without requiring you to review or approve each version,” the email says."
+        },
+        {
+          "t": "img",
+          "src": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-email-ah2IShx3.png",
+          "cap": "OpenAI's email to advertisers"
+        },
+        {
+          "t": "p",
+          "x": "Reaction from PPC marketers on X was largely skeptical, with one saying they had already paused a ChatGPT ads test over poor lead quality."
+        }
+      ]
     }
   }
 }

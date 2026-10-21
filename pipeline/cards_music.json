@@ -1,845 +1,503 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "music",
   "cards": [
     {
-      "id": "music-spotify-50m-slop-purge",
+      "id": "music-apple-samplab",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Spotify, AI 슬롭\n5000만 곡 추천서 뺐다",
-      "body": "Spotify가 한 해 AI 슬롭 5000만여 곡을 추천서 뺐지만 표기는 미뤘다.",
-      "mini_headline": "Spotify, 슬롭 5000만 곡 정리",
+      "headline": "Apple이 Samplab\n인수, Logic Pro로",
+      "body": "Apple은 Samplab의 audio-to-MIDI 도구를 들여올 전망이다.",
+      "mini_headline": "Apple, Samplab 인수",
       "tool": "Music",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "source": "MusicTech",
+      "url": "https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/",
       "accent": "#ff2d55",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+          },
+          {
+            "t": "p",
+            "x": "Apple이 스위스 개발사 Samplab을 인수했다. Samplab의 오디오 에디터는 디지털 오디오를 MIDI-style로 편집하게 해 준다. 코드를 감지해 MIDI로 내보내고, 샘플의 템포와 키를 맞추고, 개별 음까지 손볼 만큼 스템을 세밀하게 분리한다."
+          },
+          {
+            "t": "p",
+            "x": "Samplab은 10초 모노 샘플까지만 쓰는 무료 요금제와 월 £9.99짜리 Premium 요금제를 운영했다. 개발진은 이 플러그인이 “AI로 다성 오디오를 편집 가능한 MIDI 노트로 옮기면서 원래 음색은 그대로 지킨다”고 설명한다."
+          },
+          {
+            "t": "p",
+            "x": "Logic Pro도 Flex Pitch로 일부 기능을 이미 갖췄지만, 지금은 어느 DAW에서든 다성 노트를 편집하려면 Melodyne이나 RipX 같은 플러그인을 따로 써야 한다. MusicTech는 Apple이 Samplab의 기능을 Logic Pro에 바로 넣고, 스템 분리 개수도 흔한 네 개보다 늘리며, 차츰 Logic for iPad와 GarageBand, Final Cut Pro로 넓혀 갈 수 있다고 내다본다."
+          },
+          {
+            "t": "p",
+            "x": "Apple은 그동안 AI에서 경쟁사보다 덜 공격적이었다. MusicTech는 이런 인수가 앞으로도 이어지고, 자사 소프트웨어 워크플로에 조용히 스며들 것으로 본다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Apple buys AI startup Samplab\nwith eyes on Logic Pro",
+          "body": "Apple bought Swiss AI audio startup Samplab, likely to build its polyphonic audio-to-MIDI tools into Logic Pro.",
+          "mini_headline": "Apple buys Samplab",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Apple has acquired Samplab, a Swiss developer whose audio editor offers MIDI-style editing of digital audio: chord detection with MIDI export, tempo and key matching of samples, and granular stem separation with editable individual notes."
+              },
+              {
+                "t": "p",
+                "x": "Samplab had a free tier limited to 10-second mono samples and a £9.99/month Premium plan. Its developers say the plugin “uses AI to transcribe polyphonic audio into editable MIDI notes while preserving the original timbre.”"
+              },
+              {
+                "t": "p",
+                "x": "Logic Pro already offers some of this through Flex Pitch, but polyphonic note editing in any DAW currently needs a plug-in such as Melodyne or RipX. MusicTech expects Apple to build Samplab’s capabilities directly into Logic Pro, possibly extending stem separation beyond the usual four stems, and perhaps trickle them into Logic for iPad, GarageBand or Final Cut Pro."
+              },
+              {
+                "t": "p",
+                "x": "Apple has taken a less aggressive approach to AI than rivals; MusicTech expects more acquisitions like this to be quietly folded into its software workflows."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Apple이 Samplab\n인수, Logic Pro로",
+          "body": "Apple은 Samplab의 audio-to-MIDI 도구를 들여올 전망이다.",
+          "mini_headline": "Apple, Samplab 인수",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Apple이 스위스 개발사 Samplab을 인수했다. Samplab의 오디오 에디터는 디지털 오디오를 MIDI-style로 편집하게 해 준다. 코드를 감지해 MIDI로 내보내고, 샘플의 템포와 키를 맞추고, 개별 음까지 손볼 만큼 스템을 세밀하게 분리한다."
+              },
+              {
+                "t": "p",
+                "x": "Samplab은 10초 모노 샘플까지만 쓰는 무료 요금제와 월 £9.99짜리 Premium 요금제를 운영했다. 개발진은 이 플러그인이 “AI로 다성 오디오를 편집 가능한 MIDI 노트로 옮기면서 원래 음색은 그대로 지킨다”고 설명한다."
+              },
+              {
+                "t": "p",
+                "x": "Logic Pro도 Flex Pitch로 일부 기능을 이미 갖췄지만, 지금은 어느 DAW에서든 다성 노트를 편집하려면 Melodyne이나 RipX 같은 플러그인을 따로 써야 한다. MusicTech는 Apple이 Samplab의 기능을 Logic Pro에 바로 넣고, 스템 분리 개수도 흔한 네 개보다 늘리며, 차츰 Logic for iPad와 GarageBand, Final Cut Pro로 넓혀 갈 수 있다고 내다본다."
+              },
+              {
+                "t": "p",
+                "x": "Apple은 그동안 AI에서 경쟁사보다 덜 공격적이었다. MusicTech는 이런 인수가 앞으로도 이어지고, 자사 소프트웨어 워크플로에 조용히 스며들 것으로 본다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AppleがSamplab\n買収、Logic Proへ",
+          "body": "Appleはスイス企業Samplabのaudio-to-MIDI技術を取り込む見通しだ。",
+          "mini_headline": "AppleがSamplab買収",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AppleはスイスのデベロッパーSamplabを買収した。同社のオーディオエディターは、デジタルオーディオをMIDI-styleで編集できる。MIDI書き出しに対応したコード検出、サンプルのテンポとキーの合わせ込み、個々の音を編集できる細かなステム分離などだ。"
+              },
+              {
+                "t": "p",
+                "x": "Samplabには10秒のモノラルサンプルに限った無料プランと、月額£9.99のPremiumプランがあった。開発陣によれば、このプラグインは「AIでポリフォニックなオーディオを編集可能なMIDIノートに書き起こし、元の音色を保つ」という。"
+              },
+              {
+                "t": "p",
+                "x": "Logic ProはFlex Pitchですでに一部を実現しているが、現状どのDAWでもポリフォニックなノート編集にはMelodyneやRipXといったプラグインが要る。MusicTechは、AppleがSamplabの機能をLogic Proに直接組み込み、ステム分離を通常の四つのステム以上に広げ、さらにLogic for iPadやGarageBand、Final Cut Proにも展開する可能性があるとみる。"
+              },
+              {
+                "t": "p",
+                "x": "AppleはAIに対してライバルほど積極的ではない姿勢を取ってきた。MusicTechは、今回のような買収が今後も増え、同社のソフトウェアのワークフローに静かに組み込まれていくと予想する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Apple收购Samplab\n瞄准Logic Pro",
+          "body": "Apple或将把Samplab的多音audio-to-MIDI技术融入Logic Pro。",
+          "mini_headline": "Apple收购Samplab",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Apple已收购瑞士开发商Samplab。该公司的音频编辑器可对数字音频进行MIDI-style编辑：带MIDI导出的和弦检测、采样的速度与调性匹配，以及可编辑单个音符的精细分轨分离。"
+              },
+              {
+                "t": "p",
+                "x": "Samplab此前提供仅限10秒单声道采样的免费方案，以及每月£9.99的Premium方案。开发者称，该插件“利用AI将复音音频转写为可编辑的MIDI音符，同时保留原有音色”。"
+              },
+              {
+                "t": "p",
+                "x": "Logic Pro已通过Flex Pitch提供部分此类功能，但目前在任何DAW中编辑复音音符都需要Melodyne或RipX等插件。MusicTech预计Apple会将Samplab的功能直接整合进Logic Pro，或许还会把分轨分离扩展到常见的四条分轨之外，并可能逐步引入Logic for iPad、GarageBand或Final Cut Pro。"
+              },
+              {
+                "t": "p",
+                "x": "与竞争对手相比，Apple对AI的态度较为保守；MusicTech预计此类收购会更多，并被悄然融入其软件工作流程。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Apple compra la startup Samplab\ncon la vista en Logic Pro",
+          "body": "Apple compró la startup suiza de audio con AI Samplab y quizá lleve sus herramientas audio-to-MIDI a Logic Pro.",
+          "mini_headline": "Apple compra Samplab",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Apple ha adquirido Samplab, un desarrollador suizo cuyo editor de audio ofrece edición MIDI-style de audio digital: detección de acordes con exportación MIDI, ajuste de tempo y tonalidad de las muestras y separación detallada de stems con notas individuales editables."
+              },
+              {
+                "t": "p",
+                "x": "Samplab tenía un plan gratuito limitado a muestras mono de 10 segundos y un plan Premium de £9.99 al mes. Sus desarrolladores dicen que el plugin “usa AI para transcribir audio polifónico en notas MIDI editables conservando el timbre original”."
+              },
+              {
+                "t": "p",
+                "x": "Logic Pro ya ofrece parte de esto con Flex Pitch, pero hoy editar notas polifónicas en cualquier DAW exige un plugin como Melodyne o RipX. MusicTech prevé que Apple integre las funciones de Samplab directamente en Logic Pro, quizá ampliando la separación de stems más allá de los cuatro habituales, y que tal vez las lleve a Logic for iPad, GarageBand o Final Cut Pro."
+              },
+              {
+                "t": "p",
+                "x": "Apple ha adoptado ante la AI un enfoque menos agresivo que sus rivales; MusicTech espera que más adquisiciones como esta se integren discretamente en sus flujos de trabajo de software."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Apple이 Samplab\n인수, Logic Pro로",
+          "body": "Apple은 Samplab의 audio-to-MIDI 도구를 들여올 전망이다.",
+          "mini_headline": "Apple, Samplab 인수",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Apple이 스위스 개발사 Samplab을 인수했다. Samplab의 오디오 에디터는 디지털 오디오의 MIDI-style 편집을 제공한다. MIDI 내보내기가 되는 코드 감지, 샘플의 템포·키 맞춤, 개별 음을 편집할 수 있는 세밀한 스템 분리가 그 기능이다."
+              },
+              {
+                "t": "p",
+                "x": "Samplab은 10초 모노 샘플로 제한된 무료 요금제와 월 £9.99의 Premium 요금제를 운영했다. 개발진은 이 플러그인이 “AI로 다성 오디오를 편집 가능한 MIDI 노트로 옮기면서 원래 음색은 그대로 지킨다”고 설명한다."
+              },
+              {
+                "t": "p",
+                "x": "Logic Pro는 Flex Pitch로 이미 일부 기능을 제공하지만, 지금은 어떤 DAW에서든 다성 노트를 편집하려면 Melodyne이나 RipX 같은 플러그인이 필요하다. MusicTech는 Apple이 Samplab의 기능을 Logic Pro에 직접 넣고, 스템 분리를 흔히 쓰는 네 개 스템 너머로 넓히며, Logic for iPad나 GarageBand, Final Cut Pro로도 차츰 넓힐 수 있다고 내다본다."
+              },
+              {
+                "t": "p",
+                "x": "Apple은 경쟁사보다 AI에 덜 공격적으로 접근해 왔다. MusicTech는 이런 인수가 더 이어지고, 자사 소프트웨어 워크플로에 조용히 녹아들 것으로 본다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AppleがSamplab\n買収、Logic Proへ",
+          "body": "Appleはスイス企業Samplabのaudio-to-MIDI技術を取り込む見通しだ。",
+          "mini_headline": "AppleがSamplab買収",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+              },
+              {
+                "t": "p",
+                "x": "AppleはスイスのデベロッパーSamplabを買収した。同社のオーディオエディターは、デジタルオーディオをMIDI-styleで編集できる。MIDI書き出しに対応したコード検出、サンプルのテンポとキーの合わせ込み、個々の音を編集できる細かなステム分離などだ。"
+              },
+              {
+                "t": "p",
+                "x": "Samplabには10秒のモノラルサンプルに限った無料プランと、月額£9.99のPremiumプランがあった。開発陣によれば、このプラグインは「AIでポリフォニックなオーディオを編集可能なMIDIノートに書き起こし、元の音色を保つ」という。"
+              },
+              {
+                "t": "p",
+                "x": "Logic ProはFlex Pitchですでに一部を実現しているが、現状どのDAWでもポリフォニックなノート編集にはMelodyneやRipXといったプラグインが要る。MusicTechは、AppleがSamplabの機能をLogic Proに直接組み込み、ステム分離を通常の四つのステム以上に広げ、さらにLogic for iPadやGarageBand、Final Cut Proにも展開する可能性があるとみる。"
+              },
+              {
+                "t": "p",
+                "x": "AppleはAIに対してライバルほど積極的ではない姿勢を取ってきた。MusicTechは、今回のような買収が今後も増え、同社のソフトウェアのワークフローに静かに組み込まれていくと予想する。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Apple收购Samplab\n瞄准Logic Pro",
+          "body": "Apple或将把Samplab的多音audio-to-MIDI技术融入Logic Pro。",
+          "mini_headline": "Apple收购Samplab",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Apple已收购瑞士开发商Samplab。该公司的音频编辑器可对数字音频进行MIDI-style编辑：带MIDI导出的和弦检测、采样的速度与调性匹配，以及可编辑单个音符的精细分轨分离。"
+              },
+              {
+                "t": "p",
+                "x": "Samplab此前提供仅限10秒单声道采样的免费方案，以及每月£9.99的Premium方案。开发者称，该插件“利用AI将复音音频转写为可编辑的MIDI音符，同时保留原有音色”。"
+              },
+              {
+                "t": "p",
+                "x": "Logic Pro已通过Flex Pitch提供部分此类功能，但目前在任何DAW中编辑复音音符都需要Melodyne或RipX等插件。MusicTech预计Apple会将Samplab的功能直接整合进Logic Pro，或许还会把分轨分离扩展到常见的四条分轨之外，并可能逐步引入Logic for iPad、GarageBand或Final Cut Pro。"
+              },
+              {
+                "t": "p",
+                "x": "与竞争对手相比，Apple对AI的态度较为保守；MusicTech预计此类收购会更多，并被悄然融入其软件工作流程。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Apple compra la startup Samplab\ncon la vista en Logic Pro",
+          "body": "Apple compró la startup suiza de audio con AI Samplab y quizá lleve sus herramientas audio-to-MIDI a Logic Pro.",
+          "mini_headline": "Apple compra Samplab",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Apple ha adquirido Samplab, un desarrollador suizo cuyo editor de audio ofrece edición MIDI-style de audio digital: detección de acordes con exportación MIDI, ajuste de tempo y tonalidad de las muestras y separación detallada de stems con notas individuales editables."
+              },
+              {
+                "t": "p",
+                "x": "Samplab tenía un plan gratuito limitado a muestras mono de 10 segundos y un plan Premium de £9.99 al mes. Sus desarrolladores dicen que el plugin “usa AI para transcribir audio polifónico en notas MIDI editables conservando el timbre original”."
+              },
+              {
+                "t": "p",
+                "x": "Logic Pro ya ofrece parte de esto con Flex Pitch, pero hoy editar notas polifónicas en cualquier DAW exige un plugin como Melodyne o RipX. MusicTech prevé que Apple integre las funciones de Samplab directamente en Logic Pro, quizá ampliando la separación de stems más allá de los cuatro habituales, y que tal vez las lleve a Logic for iPad, GarageBand o Final Cut Pro."
+              },
+              {
+                "t": "p",
+                "x": "Apple ha adoptado ante la AI un enfoque menos agresivo que sus rivales; MusicTech espera que más adquisiciones como esta se integren discretamente en sus flujos de trabajo de software."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "music-iamddb-ai-likeness",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "IAMDDB, 이스라엘이\nAI로 모습 도용 주장",
+      "body": "IAMDDB는 이스라엘 정부 영상 속 AI-generated 분신을 문제 삼았다.",
+      "mini_headline": "IAMDDB 모습 도용",
+      "tool": "Music",
+      "source": "Mixmag",
+      "url": "https://mixmag.net/read/iamddb-accuses-israeli-government-stealing-identity-for-ai-propaganda-video-news",
+      "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+            "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
           },
           {
             "t": "p",
-            "x": "Spotify는 지난 한 해 AI-generated(AI 생성) 슬롭이나 스팸으로 판단한 곡 5000만 곡 이상을 사용자 추천에서 걷어냈다고 밝혔다. 화요일 발표에 따르면 Spotify는 인간 아티스트의 음악이 더 잘 드러나도록 추천 시스템도 손봤다."
+            "x": "맨체스터 아티스트 IAMDDB는 자신과 꼭 닮은 인물이 AI-generated 선전 영상에 나오자, 이스라엘 정부가 운영하는 소셜미디어 계정이 “자신의 정체성을 훔쳤다”고 비판했다."
           },
           {
             "t": "p",
-            "x": "“편집자들도 같은 기준을 지키며, 슬롭이나 스팸으로 확인된 콘텐츠는 편성하지 않는다”고 Spotify는 말했다. “이런 변화를 적용한 뒤로 이런 콘텐츠가 추천에 뜬다는 청취자 우려가 뚜렷하게 줄었다.”"
+            "x": "지금은 삭제된 이 영상은 10월 15일 이스라엘의 여러 공식 소셜미디어 계정에 올라왔다. 영상에는 포르투갈 태생인 이 뮤지션을 닮은 여성이 “Colonisers? Say the name. Jews from Judea, it's in the damn name.”(식민주의자라고? 이름을 말해 봐. 유대 땅에서 온 유대인, 이름에 다 들어 있잖아) 같은 가사를 읊는다. Manchester Evening News에 따르면 영상은 이스라엘 태생으로 뉴저지에서 활동하는 감독 Eyal Be가 만들었고, “'GO BACK WHERE YOU CAME FROM!' We did.”(‘원래 있던 곳으로 돌아가라!’ 우리는 그렇게 했다)라는 문구가 붙었다."
           },
           {
             "t": "p",
-            "x": "Spotify는 모든 AI 곡에 표기를 의무화하지는 않았다. 대신 AI 정체성을 쓰면서 실존 인물을 대변하지 않는 아티스트에게 “AI Persona” 배지를 붙였고, AI personas(AI 페르소나)의 음악은 추천하지도 않는다. 다른 플랫폼은 더 강경하다. YouTube Music은 AI 곡에 표기를 붙이고, Deezer는 사용자가 AI 슬롭을 걸러내게 해 주며, Bandcamp는 AI 음악을 아예 금지한다."
+            "x": "활동가 Rafael Shimunov는 IAMDDB(본명 Diana DeBrito)가 거의 같은 옷을 입은 2018년 Crack 보도 사진을 찾아냈다. 영상 속 BALR.와 Calvin Klein 로고는 AI가 바꿔 놓아 “RALA.”와 “Calvin Kale.”로 적혀 있었다."
           },
           {
             "t": "p",
-            "x": "Spotify는 청취자 참여와 피드백, 업로드 패턴, 메타데이터, 서드파티(third-party) AI 탐지 도구를 함께 따져 곡이 AI-generated 슬롭일 가능성을 판단한다고 설명했다. 회사는 지난해에도 스팸으로 확인된 곡 7500만 곡 이상을 내렸다고 밝혔다. Universal Music Group, Believe와 손잡고 AI 음악 리믹스 제작 도구도 선보인다."
+            "x": "IAMDDB는 10월 16일 X에 이렇게 썼다. “안녕, 그러니까 - 내가 100% 동의하지 않은 일에 왜 내 정체성을 훔친 거야?”"
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Spotify pulls 50M AI slop\nand spam tracks from recs",
-          "body": "Spotify pulled 50M+ AI slop and spam tracks from recs over the past year but still won't mandate labels on AI songs.",
-          "mini_headline": "Spotify pulls 50M slop tracks",
+          "headline": "IAMDDB says Israel used her\nAI likeness in a propaganda clip",
+          "body": "Manchester artist IAMDDB says a now-deleted Israeli government video used an AI-generated likeness of her.",
+          "mini_headline": "IAMDDB's likeness misused",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
               },
               {
                 "t": "p",
-                "x": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That’s according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists."
+                "x": "IAMDDB has accused Israel's government-run social media account of “stealing her identity” after a figure closely resembling the Manchester artist appeared in an AI-generated propaganda video."
               },
               {
                 "t": "p",
-                "x": "“Our editors hold the same standard and don’t program content identified as slop or spam,” Spotify says. “Since we made these changes, we’ve seen a marked decrease in listener concerns about this content showing up in recommendations.”"
+                "x": "The now-deleted clip, shared across Israel's official social media profiles on October 15, featured a woman resembling the Portuguese-born musician reciting lyrics such as: “Colonisers? Say the name. Jews from Judea, it's in the damn name.” According to the Manchester Evening News, it was created by Israeli-born, New Jersey-based director Eyal Be and captioned “'GO BACK WHERE YOU CAME FROM!' We did.”"
               },
               {
                 "t": "p",
-                "x": "Though Spotify has stopped short of mandating labels on all AI tracks, it launched an “AI Persona” badge for artists that use an AI identity and don’t represent a real person. It also won’t recommend music from AI personas. Other platforms are taking a tougher stance: YouTube Music labels AI songs, Deezer lets users filter out AI slop, and Bandcamp bans AI music entirely."
+                "x": "Activist Rafael Shimunov spotted a 2018 Crack press shot of IAMDDB, real name Diana DeBrito, in a near-identical outfit; the BALR. and Calvin Klein logos had been altered by AI to read “RALA.” and “Calvin Kale.”"
               },
               {
                 "t": "p",
-                "x": "Spotify says it uses a combination of listener engagement and feedback, upload patterns, metadata, and third-party AI detection tools to determine whether a track may be AI-generated slop. Last year, the company said it took down more than 75 million songs identified as spam. It’s also partnering with Universal Music Group and Believe to launch a tool for creating AI music remixes."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Spotify、50M 曲の\nAIスロップを推薦除外",
-          "body": "Spotifyは50M+ 曲のAIスロップやスパムを推薦から外したが、表示は義務化しない。",
-          "mini_headline": "Spotify、粗製曲50M 件を除外",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotifyは、AI生成(AI-generated)の粗製コンテンツ「スロップ」やスパムとみなした5000万曲以上を、この一年でユーザーへの推薦から除外したと明らかにした。火曜日の発表によると、Spotifyは人間のアーティストが作った音楽をより目立たせるよう推薦システムも変更した。"
-              },
-              {
-                "t": "p",
-                "x": "「当社のエディターも同じ基準を守っており、スロップやスパムと判定されたコンテンツはプログラムしない」とSpotifyは述べる。「この変更以降、こうしたコンテンツが推薦に表示されることへのリスナーの懸念は目に見えて減った」"
-              },
-              {
-                "t": "p",
-                "x": "Spotifyはすべての AI楽曲へのラベル表示の義務化には踏み込まなかったが、AIのアイデンティティを用い、実在の人物を表さないアーティスト向けに「AI Persona」バッジを導入した。AIペルソナの音楽は推薦もしない。他のプラットフォームはより厳しい姿勢を取る。YouTube MusicはAI楽曲にラベルを付け、Deezerはユーザーが AIスロップを除外できるようにし、BandcampはAI音楽を全面的に禁止している。"
-              },
-              {
-                "t": "p",
-                "x": "Spotifyによると、楽曲がAI-generatedのスロップかどうかは、リスナーのエンゲージメントとフィードバック、アップロードのパターン、メタデータ、サードパーティーのAI検出ツールを組み合わせて判断している。昨年は、スパムと判定した7500万曲以上を削除したと発表していた。また、Universal Music GroupおよびBelieveと提携し、AI音楽のリミックスを作るツールを立ち上げる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Spotify从推荐中\n移除50M 首AI垃圾曲",
-          "body": "Spotify过去一年从推荐中移除50M+ 首AI劣质与垃圾曲目，但仍不强制标注AI歌曲。",
-          "mini_headline": "Spotify移除50M 首劣质曲",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify表示，过去一年已从用户推荐中移除超过5000万首被认定为AI生成（AI-generated）劣质内容或垃圾内容的歌曲。根据周二发布的公告，Spotify还调整了推荐系统，以更多呈现人类艺术家创作的音乐。"
-              },
-              {
-                "t": "p",
-                "x": "“我们的编辑遵循同样的标准，不会编排被认定为劣质或垃圾内容的作品，”Spotify表示，“自从做出这些调整以来，听众对此类内容出现在推荐中的担忧明显减少。”"
-              },
-              {
-                "t": "p",
-                "x": "虽然Spotify没有强制要求为所有AI曲目添加标签，但它为使用AI身份、并不代表真实人物的艺术家推出了“AI Persona”徽章，也不会推荐AI角色的音乐。其他平台态度更为强硬：YouTube Music为AI歌曲加标签，Deezer允许用户过滤AI劣质内容，Bandcamp则全面禁止AI音乐。"
-              },
-              {
-                "t": "p",
-                "x": "Spotify称，它综合听众互动与反馈、上传模式、元数据以及第三方AI检测工具，判断一首曲目是否可能属于AI-generated劣质内容。去年，该公司称已下架超过7500万首被认定为垃圾内容的歌曲。它还与Universal Music Group和Believe合作，推出用于制作AI音乐混音的工具。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Spotify quita de sus sugerencias\n50M de temas basura AI y spam",
-          "body": "En el último año, Spotify sacó 50M+ temas basura de AI y spam de sus sugerencias, pero no exige etiquetar temas AI.",
-          "mini_headline": "Spotify retira 50M de temas basura",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify afirma que en el último año ha retirado de las recomendaciones de los usuarios más de 50 millones de canciones consideradas basura generada por AI (AI-generated) o spam. Así lo indica un anuncio del martes, según el cual Spotify también ha modificado su sistema de recomendación para destacar más música creada por artistas humanos."
-              },
-              {
-                "t": "p",
-                "x": "“Nuestros editores aplican el mismo criterio y no programan contenido identificado como basura o spam”, afirma Spotify. “Desde que hicimos estos cambios, hemos observado una clara disminución de la preocupación de los oyentes por la aparición de este contenido en las recomendaciones”."
-              },
-              {
-                "t": "p",
-                "x": "Aunque Spotify no ha llegado a exigir etiquetas en todas las pistas AI, lanzó una insignia “AI Persona” para artistas que usan una identidad AI y no representan a una persona real. Tampoco recomendará música de personas AI. Otras plataformas adoptan una postura más firme: YouTube Music etiqueta las canciones AI, Deezer permite a los usuarios filtrar la basura AI y Bandcamp prohíbe por completo la música AI."
-              },
-              {
-                "t": "p",
-                "x": "Spotify explica que combina la interacción y los comentarios de los oyentes, los patrones de subida, los metadatos y herramientas de detección de AI de terceros para determinar si una pista puede ser basura AI-generated. El año pasado, la compañía dijo haber eliminado más de 75 millones de canciones identificadas como spam. También se ha asociado con Universal Music Group y Believe para lanzar una herramienta de creación de remezclas musicales con AI."
+                "x": "On October 16 IAMDDB wrote on X: “Hiya yeah so - why did you steal my identity for something I 100% did not consent to?”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "Spotify, AI 슬롭\n5000만 곡 추천서 뺐다",
-          "body": "Spotify가 한 해 AI 슬롭 5000만여 곡을 추천서 뺐지만 표기는 미뤘다.",
-          "mini_headline": "Spotify, 슬롭 5000만 곡 정리",
+          "headline": "IAMDDB, 이스라엘이\nAI로 모습 도용 주장",
+          "body": "IAMDDB는 이스라엘 정부 영상 속 AI-generated 분신을 문제 삼았다.",
+          "mini_headline": "IAMDDB 모습 도용",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
               },
               {
                 "t": "p",
-                "x": "Spotify는 지난 한 해 AI-generated(AI 생성) 슬롭이나 스팸으로 판단한 곡 5000만 곡 이상을 사용자 추천에서 걷어냈다고 밝혔다. 화요일 발표에 따르면 Spotify는 인간 아티스트의 음악이 더 잘 드러나도록 추천 시스템도 손봤다."
+                "x": "맨체스터 아티스트 IAMDDB는 자신과 꼭 닮은 인물이 AI-generated 선전 영상에 나오자, 이스라엘 정부가 운영하는 소셜미디어 계정이 “자신의 정체성을 훔쳤다”고 비판했다."
               },
               {
                 "t": "p",
-                "x": "“편집자들도 같은 기준을 지키며, 슬롭이나 스팸으로 확인된 콘텐츠는 편성하지 않는다”고 Spotify는 말했다. “이런 변화를 적용한 뒤로 이런 콘텐츠가 추천에 뜬다는 청취자 우려가 뚜렷하게 줄었다.”"
+                "x": "지금은 삭제된 이 영상은 10월 15일 이스라엘의 여러 공식 소셜미디어 계정에 올라왔다. 영상에는 포르투갈 태생인 이 뮤지션을 닮은 여성이 “Colonisers? Say the name. Jews from Judea, it's in the damn name.”(식민주의자라고? 이름을 말해 봐. 유대 땅에서 온 유대인, 이름에 다 들어 있잖아) 같은 가사를 읊는다. Manchester Evening News에 따르면 영상은 이스라엘 태생으로 뉴저지에서 활동하는 감독 Eyal Be가 만들었고, “'GO BACK WHERE YOU CAME FROM!' We did.”(‘원래 있던 곳으로 돌아가라!’ 우리는 그렇게 했다)라는 문구가 붙었다."
               },
               {
                 "t": "p",
-                "x": "Spotify는 모든 AI 곡에 표기를 의무화하지는 않았다. 대신 AI 정체성을 쓰면서 실존 인물을 대변하지 않는 아티스트에게 “AI Persona” 배지를 붙였고, AI personas(AI 페르소나)의 음악은 추천하지도 않는다. 다른 플랫폼은 더 강경하다. YouTube Music은 AI 곡에 표기를 붙이고, Deezer는 사용자가 AI 슬롭을 걸러내게 해 주며, Bandcamp는 AI 음악을 아예 금지한다."
+                "x": "활동가 Rafael Shimunov는 IAMDDB(본명 Diana DeBrito)가 거의 같은 옷을 입은 2018년 Crack 보도 사진을 찾아냈다. 영상 속 BALR.와 Calvin Klein 로고는 AI가 바꿔 놓아 “RALA.”와 “Calvin Kale.”로 적혀 있었다."
               },
               {
                 "t": "p",
-                "x": "Spotify는 청취자 참여와 피드백, 업로드 패턴, 메타데이터, 서드파티(third-party) AI 탐지 도구를 함께 따져 곡이 AI-generated 슬롭일 가능성을 판단한다고 설명했다. 회사는 지난해에도 스팸으로 확인된 곡 7500만 곡 이상을 내렸다고 밝혔다. Universal Music Group, Believe와 손잡고 AI 음악 리믹스 제작 도구도 선보인다."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ja": {
-          "headline": "Spotify、50M 曲の\nAIスロップを推薦除外",
-          "body": "Spotifyは50M+ 曲のAIスロップやスパムを推薦から外したが、表示は義務化しない。",
-          "mini_headline": "Spotify、粗製曲50M 件を除外",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotifyは、AI生成(AI-generated)の粗製コンテンツ「スロップ」やスパムとみなした5000万曲以上を、この一年でユーザーへの推薦から除外したと明らかにした。火曜日の発表によると、Spotifyは人間のアーティストが作った音楽をより目立たせるよう推薦システムも変更した。"
-              },
-              {
-                "t": "p",
-                "x": "「当社のエディターも同じ基準を守っており、スロップやスパムと判定されたコンテンツはプログラムしない」とSpotifyは述べる。「この変更以降、こうしたコンテンツが推薦に表示されることへのリスナーの懸念は目に見えて減った」"
-              },
-              {
-                "t": "p",
-                "x": "Spotifyはすべての AI楽曲へのラベル表示の義務化には踏み込まなかったが、AIのアイデンティティを用い、実在の人物を表さないアーティスト向けに「AI Persona」バッジを導入した。AIペルソナの音楽は推薦もしない。他のプラットフォームはより厳しい姿勢を取る。YouTube MusicはAI楽曲にラベルを付け、Deezerはユーザーが AIスロップを除外できるようにし、BandcampはAI音楽を全面的に禁止している。"
-              },
-              {
-                "t": "p",
-                "x": "Spotifyによると、楽曲がAI-generatedのスロップかどうかは、リスナーのエンゲージメントとフィードバック、アップロードのパターン、メタデータ、サードパーティーのAI検出ツールを組み合わせて判断している。昨年は、スパムと判定した7500万曲以上を削除したと発表していた。また、Universal Music GroupおよびBelieveと提携し、AI音楽のリミックスを作るツールを立ち上げる。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Spotify从推荐中\n移除50M 首AI垃圾曲",
-          "body": "Spotify过去一年从推荐中移除50M+ 首AI劣质与垃圾曲目，但仍不强制标注AI歌曲。",
-          "mini_headline": "Spotify移除50M 首劣质曲",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify表示，过去一年已从用户推荐中移除超过5000万首被认定为AI生成（AI-generated）劣质内容或垃圾内容的歌曲。根据周二发布的公告，Spotify还调整了推荐系统，以更多呈现人类艺术家创作的音乐。"
-              },
-              {
-                "t": "p",
-                "x": "“我们的编辑遵循同样的标准，不会编排被认定为劣质或垃圾内容的作品，”Spotify表示，“自从做出这些调整以来，听众对此类内容出现在推荐中的担忧明显减少。”"
-              },
-              {
-                "t": "p",
-                "x": "虽然Spotify没有强制要求为所有AI曲目添加标签，但它为使用AI身份、并不代表真实人物的艺术家推出了“AI Persona”徽章，也不会推荐AI角色的音乐。其他平台态度更为强硬：YouTube Music为AI歌曲加标签，Deezer允许用户过滤AI劣质内容，Bandcamp则全面禁止AI音乐。"
-              },
-              {
-                "t": "p",
-                "x": "Spotify称，它综合听众互动与反馈、上传模式、元数据以及第三方AI检测工具，判断一首曲目是否可能属于AI-generated劣质内容。去年，该公司称已下架超过7500万首被认定为垃圾内容的歌曲。它还与Universal Music Group和Believe合作，推出用于制作AI音乐混音的工具。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Spotify quita de sus sugerencias\n50M de temas basura AI y spam",
-          "body": "En el último año, Spotify sacó 50M+ temas basura de AI y spam de sus sugerencias, pero no exige etiquetar temas AI.",
-          "mini_headline": "Spotify retira 50M de temas basura",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify afirma que en el último año ha retirado de las recomendaciones de los usuarios más de 50 millones de canciones consideradas basura generada por AI (AI-generated) o spam. Así lo indica un anuncio del martes, según el cual Spotify también ha modificado su sistema de recomendación para destacar más música creada por artistas humanos."
-              },
-              {
-                "t": "p",
-                "x": "“Nuestros editores aplican el mismo criterio y no programan contenido identificado como basura o spam”, afirma Spotify. “Desde que hicimos estos cambios, hemos observado una clara disminución de la preocupación de los oyentes por la aparición de este contenido en las recomendaciones”."
-              },
-              {
-                "t": "p",
-                "x": "Aunque Spotify no ha llegado a exigir etiquetas en todas las pistas AI, lanzó una insignia “AI Persona” para artistas que usan una identidad AI y no representan a una persona real. Tampoco recomendará música de personas AI. Otras plataformas adoptan una postura más firme: YouTube Music etiqueta las canciones AI, Deezer permite a los usuarios filtrar la basura AI y Bandcamp prohíbe por completo la música AI."
-              },
-              {
-                "t": "p",
-                "x": "Spotify explica que combina la interacción y los comentarios de los oyentes, los patrones de subida, los metadatos y herramientas de detección de AI de terceros para determinar si una pista puede ser basura AI-generated. El año pasado, la compañía dijo haber eliminado más de 75 millones de canciones identificadas como spam. También se ha asociado con Universal Music Group y Believe para lanzar una herramienta de creación de remezclas musicales con AI."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Spotify, AI 슬롭\n5000만 곡 추천서 뺐다",
-          "body": "Spotify는 한 해 AI 슬롭 5000만여 곡을 추천서 뺐지만 표기는 미룬다.",
-          "mini_headline": "Spotify, 슬롭 5000만 곡 정리",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Spotify는 지난 한 해 동안 AI-generated(AI 생성) 슬롭이나 스팸으로 판단한 곡 5000만 곡 이상을 사용자 추천에서 뺐다고 밝혔다. 화요일 발표에 따르면 Spotify는 인간 아티스트가 만든 음악을 더 부각하도록 추천 시스템도 손봤다."
-              },
-              {
-                "t": "p",
-                "x": "“편집자들도 같은 기준을 지키며, 슬롭이나 스팸으로 확인된 콘텐츠는 편성하지 않는다”고 Spotify는 말했다. “이런 변화를 적용한 뒤로 이런 콘텐츠가 추천에 뜬다는 청취자 우려가 뚜렷하게 줄었다.”"
-              },
-              {
-                "t": "p",
-                "x": "Spotify는 모든 AI 곡에 표기를 의무화하는 데까지는 나아가지 않았지만, AI 정체성을 쓰고 실존 인물을 대변하지 않는 아티스트에게 “AI Persona” 배지를 도입했다. AI personas(AI 페르소나)의 음악은 추천하지도 않는다. 다른 플랫폼은 더 강경하다. YouTube Music은 AI 곡에 표기를 붙이고, Deezer는 사용자가 AI 슬롭을 걸러낼 수 있게 하며, Bandcamp는 AI 음악을 전면 금지한다."
-              },
-              {
-                "t": "p",
-                "x": "Spotify는 청취자 참여와 피드백, 업로드 패턴, 메타데이터, 서드파티(third-party) AI 탐지 도구를 함께 활용해 곡이 AI-generated 슬롭일 가능성을 판단한다고 설명했다. 지난해 회사는 스팸으로 확인된 곡 7500만 곡 이상을 내렸다고 밝힌 바 있다. 또 Universal Music Group, Believe와 손잡고 AI 음악 리믹스 제작 도구를 선보인다."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "music-believe-tunecore-ai-remix-optin",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Spotify AI 리믹스\nTuneCore도 옵트인",
-      "body": "Believe·TuneCore 음악가도 Spotify AI 리믹스 수익을 받는다.",
-      "mini_headline": "인디 아티스트, AI 리믹스 옵트인",
-      "tool": "Music",
-      "source": "Hypebot",
-      "url": "https://www.hypebot.com/believe-tunecore-artists-can-opt-into-spotifys-ai-remix-tool/",
-      "accent": "#0070f3",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
-          },
-          {
-            "t": "p",
-            "x": "시월 20일 발표된 라이선스 계약으로 참여하는 Believe·TuneCore 아티스트는 Spotify의 AI-powered(AI 기반) 팬 리믹스와 커버에서 로열티를 받는다. 참여 여부는 아티스트가 옵트인으로 정한다."
-          },
-          {
-            "t": "p",
-            "x": "계약은 Spotify가 준비 중인 기존 곡 AI 재해석 도구에 적용된다. 이 도구는 Premium 구독자용 유료 add-on으로 나올 예정이며, 스트리밍이 생기면 참여 아티스트와 권리자에게 로열티가 돌아간다. 완전히 새로운 작품이 아니라 리믹스와 커버를 위한 도구이고, 리믹스마다 원곡과 아티스트로 연결된다."
-          },
-          {
-            "t": "p",
-            "x": "Believe와 TuneCore는 두 단계(two-step) 동의 절차를 둔다. 아티스트와 레이블은 먼저 AI 프로그램 대상에 들어갈지 정하고, 그다음 Spotify 파트너십 참여를 따로 결정한다. 계약의 뼈대는 동의, 통제, 보상, 투명성이라는 Believe의 원칙이다."
-          },
-          {
-            "t": "p",
-            "x": "발표에는 출시일, add-on 가격, 로열티 요율, 수익 배분 방식이 빠져 있다. 독립 음악 사업자에게 이 도구가 얼마나 쓸모 있을지는 이 세부 사항에 달렸다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Believe and TuneCore artists\ncan opt into Spotify AI remixes",
-          "body": "A new deal lets Believe and TuneCore artists opt in to earn royalties from AI fan remixes and covers on Spotify.",
-          "mini_headline": "Indie artists opt into AI remixes",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
-              },
-              {
-                "t": "p",
-                "x": "A licensing agreement announced October 20 lets participating Believe and TuneCore artists earn royalties from AI-powered fan remixes and covers on Spotify — artists choose to opt in."
-              },
-              {
-                "t": "p",
-                "x": "It covers Spotify’s upcoming tool for AI reinterpretations of existing songs, planned as a paid add-on for Premium subscribers, with streams generating royalties for participating artists and rights holders. The tool is meant for remixes and covers rather than entirely new works, and each remix links back to the original track and artist."
-              },
-              {
-                "t": "p",
-                "x": "Believe and TuneCore use a two-step consent process: artists and labels first decide whether to be considered for AI programs, then make a separate decision about the Spotify partnership. The deal is framed around Believe’s principles of consent, control, compensation and transparency."
-              },
-              {
-                "t": "p",
-                "x": "The announcement does not specify a launch date, the add-on price, royalty rates or how revenue will be divided — details that will determine how useful it is for independent music businesses."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Artistas de Believe y TuneCore\nse suman a remixes AI de Spotify",
-          "body": "Un acuerdo permite a artistas de Believe y TuneCore optar por cobrar regalías de remixes y versiones AI en Spotify.",
-          "mini_headline": "Artistas indie se suman a remixes AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
-              },
-              {
-                "t": "p",
-                "x": "Un acuerdo de licencias anunciado el 20 de octubre permite a los artistas de Believe y TuneCore que participen cobrar regalías por los remixes y versiones de fans creados con AI (AI-powered) en Spotify; son los artistas quienes deciden sumarse."
-              },
-              {
-                "t": "p",
-                "x": "Abarca la próxima herramienta de Spotify para reinterpretar con AI canciones existentes, prevista como complemento de pago para los suscriptores de Premium, cuyas reproducciones generarán regalías para los artistas y titulares de derechos participantes. La herramienta está pensada para remixes y versiones, no para obras completamente nuevas, y cada remix enlaza con la pista y el artista originales."
-              },
-              {
-                "t": "p",
-                "x": "Believe y TuneCore aplican un proceso de consentimiento en dos pasos: artistas y sellos deciden primero si quieren ser considerados para programas de AI y después toman una decisión aparte sobre la alianza con Spotify. El acuerdo se enmarca en los principios de Believe: consentimiento, control, compensación y transparencia."
-              },
-              {
-                "t": "p",
-                "x": "El anuncio no especifica la fecha de lanzamiento, el precio del complemento, las tasas de regalías ni cómo se repartirán los ingresos, detalles que determinarán su utilidad para los negocios de música independiente."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Spotify AI 리믹스\nTuneCore도 옵트인",
-          "body": "Believe·TuneCore 음악가도 Spotify AI 리믹스 수익을 받는다.",
-          "mini_headline": "인디 아티스트, AI 리믹스 옵트인",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
-              },
-              {
-                "t": "p",
-                "x": "시월 20일 발표된 라이선스 계약으로 참여하는 Believe·TuneCore 아티스트는 Spotify의 AI-powered(AI 기반) 팬 리믹스와 커버에서 로열티를 받는다. 참여 여부는 아티스트가 옵트인으로 정한다."
-              },
-              {
-                "t": "p",
-                "x": "계약은 Spotify가 준비 중인 기존 곡 AI 재해석 도구에 적용된다. 이 도구는 Premium 구독자용 유료 add-on으로 나올 예정이며, 스트리밍이 생기면 참여 아티스트와 권리자에게 로열티가 돌아간다. 완전히 새로운 작품이 아니라 리믹스와 커버를 위한 도구이고, 리믹스마다 원곡과 아티스트로 연결된다."
-              },
-              {
-                "t": "p",
-                "x": "Believe와 TuneCore는 두 단계(two-step) 동의 절차를 둔다. 아티스트와 레이블은 먼저 AI 프로그램 대상에 들어갈지 정하고, 그다음 Spotify 파트너십 참여를 따로 결정한다. 계약의 뼈대는 동의, 통제, 보상, 투명성이라는 Believe의 원칙이다."
-              },
-              {
-                "t": "p",
-                "x": "발표에는 출시일, add-on 가격, 로열티 요율, 수익 배분 방식이 빠져 있다. 독립 음악 사업자에게 이 도구가 얼마나 쓸모 있을지는 이 세부 사항에 달렸다."
+                "x": "IAMDDB는 10월 16일 X에 이렇게 썼다. “안녕, 그러니까 - 내가 100% 동의하지 않은 일에 왜 내 정체성을 훔친 거야?”"
               }
             ]
           }
         },
         "ja": {
-          "headline": "TuneCoreも任意参加\nSpotifyのAI二次創作",
-          "body": "Believe・TuneCoreの音楽家は任意でSpotifyのAIリミックス印税を得る。",
-          "mini_headline": "インディー勢がAIリミックスに参加",
+          "headline": "IAMDDB「イスラエルが\nAI似姿を宣伝に流用」",
+          "body": "IAMDDBは、イスラエル政府の動画にAI-generatedの自分が使われたと訴える。",
+          "mini_headline": "IAMDDBの似姿を流用",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
               },
               {
                 "t": "p",
-                "x": "十月20日に発表されたライセンス契約により、参加するBelieveとTuneCoreのアーティストは、Spotify上のAI-powered(AI搭載)のファンによるリミックスやカバーから印税を得られる。参加はアーティストがオプトインで選ぶ。"
+                "x": "IAMDDBは、このマンチェスターのアーティストによく似た人物がAI-generatedのプロパガンダ動画に登場したことを受け、イスラエル政府が運営するソーシャルメディアアカウントが「自分のアイデンティティを盗んだ」と非難した。"
               },
               {
                 "t": "p",
-                "x": "対象はSpotifyが準備中の、既存曲をAIで再解釈するツールで、Premium会員向けの有料add-onとして計画されている。再生されると参加アーティストと権利者に印税が入る。このツールはまったく新しい作品ではなくリミックスとカバー向けで、各リミックスは原曲とアーティストにリンクする。"
+                "x": "現在は削除されたこの動画は10月15日、イスラエルの公式ソーシャルメディア各アカウントで共有された。ポルトガル生まれのこのミュージシャンに似た女性が、“Colonisers? Say the name. Jews from Judea, it's in the damn name.”（植民者だと？ 名前を言ってみろ。ユダヤから来たユダヤ人、名前にそう書いてある）といった歌詞を口にする。Manchester Evening Newsによると、制作したのはイスラエル生まれでニュージャージーを拠点とする監督Eyal Beで、“'GO BACK WHERE YOU CAME FROM!' We did.”（「元いた場所へ帰れ！」そうした）というキャプションが付いていた。"
               },
               {
                 "t": "p",
-                "x": "BelieveとTuneCoreは二段階(two-step)の同意手続きを採る。アーティストとレーベルはまずAIプログラムの対象になるかを決め、その後Spotifyとの提携について別に判断する。契約は同意、管理、報酬、透明性というBelieveの原則を軸に組み立てられている。"
+                "x": "活動家のRafael Shimunovは、本名Diana DeBritoのIAMDDBがほぼ同じ服装で写る2018年のCrackの宣材写真を見つけた。BALR.とCalvin KleinのロゴはAIで改変され、“RALA.”と“Calvin Kale.”になっていた。"
               },
               {
                 "t": "p",
-                "x": "発表では、提供開始日、add-onの価格、印税率、収益配分の方法は明らかにされていない。独立系の音楽ビジネスにとっての有用性は、こうした詳細次第だ。"
+                "x": "IAMDDBは10月16日、Xに「どうも、えっと - 私が100%同意していないことに、なぜ私のアイデンティティを盗んだの？」と投稿した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "TuneCore艺人可选择\n加入Spotify AI混音",
-          "body": "协议让Believe与TuneCore艺人可自愿从Spotify AI翻唱和混音中获得版税。",
-          "mini_headline": "独立艺人可选择加入AI混音",
+          "headline": "IAMDDB称以色列\n用AI仿冒她做宣传",
+          "body": "曼彻斯特艺人IAMDDB称，已删除的以色列政府视频用了她的AI-generated形象。",
+          "mini_headline": "IAMDDB形象遭盗用",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
               },
               {
                 "t": "p",
-                "x": "十月20日公布的一项授权协议，让参与的Believe和TuneCore艺人可以从Spotify上AI-powered（AI驱动）的粉丝混音和翻唱中获得版税，是否参与由艺人自行选择加入。"
+                "x": "一个与这位曼彻斯特艺人极为相似的人物出现在一段AI-generated宣传视频中后，IAMDDB指责以色列政府运营的社交媒体账号“盗用了她的身份”。"
               },
               {
                 "t": "p",
-                "x": "协议涵盖Spotify即将推出的一款用AI重新诠释现有歌曲的工具，计划作为面向Premium订阅用户的付费add-on，播放量将为参与的艺人和版权方带来版税。该工具面向混音和翻唱，而非全新作品，每首混音都会链接回原曲和原艺人。"
+                "x": "这段现已删除的视频于10月15日在以色列多个官方社交媒体账号上发布，片中一名酷似这位葡萄牙出生音乐人的女性念出这样的歌词：“Colonisers? Say the name. Jews from Judea, it's in the damn name.”（殖民者？说出名字。来自犹地亚的犹太人，名字里就写着。）据Manchester Evening News报道，视频由出生于以色列、常驻新泽西的导演Eyal Be制作，配文为“'GO BACK WHERE YOU CAME FROM!' We did.”（“回到你们来的地方去！”我们做到了。）"
               },
               {
                 "t": "p",
-                "x": "Believe和TuneCore采用两步（two-step）同意流程：艺人和厂牌先决定是否被纳入AI项目的考虑范围，再单独决定是否参与Spotify合作。协议围绕Believe的同意、控制、补偿和透明原则设计。"
+                "x": "活动人士Rafael Shimunov找到了一张2018年Crack的宣传照，照片中IAMDDB（本名Diana DeBrito）穿着几乎相同的服装；BALR.和Calvin Klein的标志被AI改成了“RALA.”和“Calvin Kale.”。"
               },
               {
                 "t": "p",
-                "x": "公告未说明上线日期、add-on价格、版税费率或收入分配方式，而这些细节将决定它对独立音乐企业有多大用处。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "Artistas de Believe y TuneCore\nse suman a remixes AI de Spotify",
-          "body": "Un acuerdo permite a artistas de Believe y TuneCore optar por cobrar regalías de remixes y versiones AI en Spotify.",
-          "mini_headline": "Artistas indie se suman a remixes AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
-              },
-              {
-                "t": "p",
-                "x": "Un acuerdo de licencias anunciado el 20 de octubre permite a los artistas de Believe y TuneCore que participen cobrar regalías por los remixes y versiones de fans creados con AI (AI-powered) en Spotify; son los artistas quienes deciden sumarse."
-              },
-              {
-                "t": "p",
-                "x": "Abarca la próxima herramienta de Spotify para reinterpretar con AI canciones existentes, prevista como complemento de pago para los suscriptores de Premium, cuyas reproducciones generarán regalías para los artistas y titulares de derechos participantes. La herramienta está pensada para remixes y versiones, no para obras completamente nuevas, y cada remix enlaza con la pista y el artista originales."
-              },
-              {
-                "t": "p",
-                "x": "Believe y TuneCore aplican un proceso de consentimiento en dos pasos: artistas y sellos deciden primero si quieren ser considerados para programas de AI y después toman una decisión aparte sobre la alianza con Spotify. El acuerdo se enmarca en los principios de Believe: consentimiento, control, compensación y transparencia."
-              },
-              {
-                "t": "p",
-                "x": "El anuncio no especifica la fecha de lanzamiento, el precio del complemento, las tasas de regalías ni cómo se repartirán los ingresos, detalles que determinarán su utilidad para los negocios de música independiente."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Spotify AI 리믹스\nTuneCore도 옵트인",
-          "body": "Believe·TuneCore 음악가가 Spotify AI 리믹스 수익에 동참한다.",
-          "mini_headline": "인디 아티스트, AI 리믹스 옵트인",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
-              },
-              {
-                "t": "p",
-                "x": "시월 20일 발표된 라이선스 계약에 따라, 참여하는 Believe·TuneCore 아티스트는 Spotify의 AI-powered(AI 기반) 팬 리믹스와 커버로 로열티를 받는다. 참여는 아티스트가 옵트인 방식으로 선택한다."
-              },
-              {
-                "t": "p",
-                "x": "계약은 Spotify가 준비 중인 기존 곡 AI 재해석 도구에 적용된다. 이 도구는 Premium 구독자용 유료 add-on으로 계획됐으며, 스트리밍이 발생하면 참여 아티스트와 권리자에게 로열티가 돌아간다. 완전히 새로운 작품이 아니라 리믹스와 커버를 위한 도구이고, 각 리믹스는 원곡과 아티스트로 연결된다."
-              },
-              {
-                "t": "p",
-                "x": "Believe와 TuneCore는 두 단계(two-step) 동의 절차를 둔다. 아티스트와 레이블은 먼저 AI 프로그램 대상에 포함될지 정하고, 이어 Spotify 파트너십 참여를 따로 결정한다. 이번 계약은 동의, 통제, 보상, 투명성이라는 Believe의 원칙을 바탕으로 짜였다."
-              },
-              {
-                "t": "p",
-                "x": "발표에는 출시일, add-on 가격, 로열티 요율, 수익 배분 방식이 나와 있지 않다. 독립 음악 사업자에게 이 도구가 얼마나 쓸모 있을지는 이런 세부 사항에 달려 있다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "TuneCoreも任意参加\nSpotifyのAI二次創作",
-          "body": "Believe・TuneCoreの音楽家は任意でSpotifyのAIリミックス印税を得る。",
-          "mini_headline": "インディー勢がAIリミックスに参加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
-              },
-              {
-                "t": "p",
-                "x": "十月20日に発表されたライセンス契約により、参加するBelieveとTuneCoreのアーティストは、Spotify上のAI-powered(AI搭載)のファンによるリミックスやカバーから印税を得られる。参加はアーティストがオプトインで選ぶ。"
-              },
-              {
-                "t": "p",
-                "x": "対象はSpotifyが準備中の、既存曲をAIで再解釈するツールで、Premium会員向けの有料add-onとして計画されている。再生されると参加アーティストと権利者に印税が入る。このツールはまったく新しい作品ではなくリミックスとカバー向けで、各リミックスは原曲とアーティストにリンクする。"
-              },
-              {
-                "t": "p",
-                "x": "BelieveとTuneCoreは二段階(two-step)の同意手続きを採る。アーティストとレーベルはまずAIプログラムの対象になるかを決め、その後Spotifyとの提携について別に判断する。契約は同意、管理、報酬、透明性というBelieveの原則を軸に組み立てられている。"
-              },
-              {
-                "t": "p",
-                "x": "発表では、提供開始日、add-onの価格、印税率、収益配分の方法は明らかにされていない。独立系の音楽ビジネスにとっての有用性は、こうした詳細次第だ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "TuneCore艺人可选择\n加入Spotify AI混音",
-          "body": "协议让Believe与TuneCore艺人可自愿从Spotify AI翻唱和混音中获得版税。",
-          "mini_headline": "独立艺人可选择加入AI混音",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://storage.ghost.io/c/3a/95/3a957c06-c825-4057-9939-0a274cc16d23/content/images/size/w1200/2026/10/BelievexSpotify-logos.png"
-              },
-              {
-                "t": "p",
-                "x": "十月20日公布的一项授权协议，让参与的Believe和TuneCore艺人可以从Spotify上AI-powered（AI驱动）的粉丝混音和翻唱中获得版税，是否参与由艺人自行选择加入。"
-              },
-              {
-                "t": "p",
-                "x": "协议涵盖Spotify即将推出的一款用AI重新诠释现有歌曲的工具，计划作为面向Premium订阅用户的付费add-on，播放量将为参与的艺人和版权方带来版税。该工具面向混音和翻唱，而非全新作品，每首混音都会链接回原曲和原艺人。"
-              },
-              {
-                "t": "p",
-                "x": "Believe和TuneCore采用两步（two-step）同意流程：艺人和厂牌先决定是否被纳入AI项目的考虑范围，再单独决定是否参与Spotify合作。协议围绕Believe的同意、控制、补偿和透明原则设计。"
-              },
-              {
-                "t": "p",
-                "x": "公告未说明上线日期、add-on价格、版税费率或收入分配方式，而这些细节将决定它对独立音乐企业有多大用处。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "music-pitchnet-free-pitch-editor",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "PitchNet 무료 AI\n피치 편집기 나왔다",
-      "body": "PitchNet은 AI 재합성을 쓰는 무료 Melodyne-style 편집기다.",
-      "mini_headline": "PitchNet, 무료 AI 피치 편집기",
-      "tool": "Music",
-      "source": "Bedroom Producers Blog",
-      "url": "https://bedroomproducersblog.com/2026/10/20/session-loops-pitchnet/",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
-            "cap": "PitchNet"
-          },
-          {
-            "t": "p",
-            "x": "Session Loops가 macOS, Windows, Linux용 무료 오픈소스 보컬 피치 편집기 PitchNet을 내놓았다. Your Smile is Art의 bubblegum에 이어 이달 들어 두 번째로 나온 무료 Melodyne 대안이다."
-          },
-          {
-            "t": "p",
-            "x": "작업 방식은 Melodyne과 닮았다. PitchNet은 보컬의 음을 감지해 피아노 롤에 띄우고, 사용자는 그 위에서 피치와 타이밍을 고친다. 음을 나누고 피치 커브를 그리고 미리 들어 본 뒤 오디오나 MIDI로 내보내면 된다. 오토튠 플러그인과 달리 개별 음을 직접 만질 수 있다."
-          },
-          {
-            "t": "p",
-            "x": "처리는 AI 재합성 방식이다. 개발사는 이 방식 덕에 전환이 더 매끄럽고 음색도 더 자연스럽다고 설명한다. 제품 페이지에는 반음 세 개 올린 보컬로 Melodyne과 비교한 결과가 실려 있다."
-          },
-          {
-            "t": "video",
-            "yt": "Q0Ym2sMFB1A"
-          },
-          {
-            "t": "p",
-            "x": "ARA를 지원해 호환 DAWs에서 타임라인과 연결된 채로 PitchNet에 오디오를 보낼 수 있고, ARA가 없는 호스트용 캡처 방식도 있다. 설치 파일은 계정 없이 바로 받을 수 있다(v0.7.2, 158–222 MB). Windows와 macOS에서는 RAM이 최소 8 GB 필요하고 16 GB를 권장한다. 지원 포맷은 Windows가 VST3/AAX, macOS 13+가 VST3/AU/AAX, Linux가 VST3와 스탠드얼론이다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Session Loops' PitchNet\nbrings free AI pitch editing",
-          "body": "PitchNet is a free, cross-platform Melodyne-style editor that rebuilds vocals at the edited pitch via AI resynthesis.",
-          "mini_headline": "PitchNet: free AI pitch editor",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
-                "cap": "PitchNet"
-              },
-              {
-                "t": "p",
-                "x": "Session Loops has released PitchNet, a free, open-source vocal pitch editor for macOS, Windows and Linux — the second free Melodyne alternative covered this month, after bubblegum by Your Smile is Art."
-              },
-              {
-                "t": "p",
-                "x": "The workflow resembles Melodyne: PitchNet detects the notes in a vocal and shows them in a piano roll for pitch and timing edits, with note splitting, pitch-curve drawing and preview before exporting audio or MIDI. Unlike autotune plugins, it gives access to individual notes."
-              },
-              {
-                "t": "p",
-                "x": "Processing uses AI resynthesis, which the developer says produces smoother transitions and a more natural tone; the product page compares it with Melodyne on vocals shifted up three semitones."
-              },
-              {
-                "t": "video",
-                "yt": "Q0Ym2sMFB1A"
-              },
-              {
-                "t": "p",
-                "x": "ARA support lets compatible DAWs send audio to PitchNet while staying linked to the timeline, with a capture workflow for hosts without ARA. Installers are direct downloads with no account needed (v0.7.2, 158–222 MB); Windows and macOS need 8 GB RAM minimum, 16 GB recommended. Formats: VST3/AAX on Windows, VST3/AU/AAX on macOS 13+, VST3 and standalone on Linux."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "PitchNet 무료 AI\n피치 편집기 나왔다",
-          "body": "PitchNet은 AI 재합성을 쓰는 무료 Melodyne-style 편집기다.",
-          "mini_headline": "PitchNet, 무료 AI 피치 편집기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
-                "cap": "PitchNet"
-              },
-              {
-                "t": "p",
-                "x": "Session Loops가 macOS, Windows, Linux용 무료 오픈소스 보컬 피치 편집기 PitchNet을 내놓았다. Your Smile is Art의 bubblegum에 이어 이달 들어 두 번째로 나온 무료 Melodyne 대안이다."
-              },
-              {
-                "t": "p",
-                "x": "작업 방식은 Melodyne과 닮았다. PitchNet은 보컬의 음을 감지해 피아노 롤에 띄우고, 사용자는 그 위에서 피치와 타이밍을 고친다. 음을 나누고 피치 커브를 그리고 미리 들어 본 뒤 오디오나 MIDI로 내보내면 된다. 오토튠 플러그인과 달리 개별 음을 직접 만질 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "처리는 AI 재합성 방식이다. 개발사는 이 방식 덕에 전환이 더 매끄럽고 음색도 더 자연스럽다고 설명한다. 제품 페이지에는 반음 세 개 올린 보컬로 Melodyne과 비교한 결과가 실려 있다."
-              },
-              {
-                "t": "video",
-                "yt": "Q0Ym2sMFB1A"
-              },
-              {
-                "t": "p",
-                "x": "ARA를 지원해 호환 DAWs에서 타임라인과 연결된 채로 PitchNet에 오디오를 보낼 수 있고, ARA가 없는 호스트용 캡처 방식도 있다. 설치 파일은 계정 없이 바로 받을 수 있다(v0.7.2, 158–222 MB). Windows와 macOS에서는 RAM이 최소 8 GB 필요하고 16 GB를 권장한다. 지원 포맷은 Windows가 VST3/AAX, macOS 13+가 VST3/AU/AAX, Linux가 VST3와 스탠드얼론이다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "PitchNet、無料の\nAIピッチ編集ツール",
-          "body": "PitchNetはAI再合成を使う無料のMelodyne-style編集ソフトだ。",
-          "mini_headline": "PitchNet:無料AIピッチ編集",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
-                "cap": "PitchNet"
-              },
-              {
-                "t": "p",
-                "x": "Session Loopsが、macOS、Windows、Linuxに対応した無料のオープンソース・ボーカルピッチ編集ソフトPitchNetを公開した。Your Smile is Artのbubblegumに続き、今月取り上げる二つ目の無料Melodyne代替ツールだ。"
-              },
-              {
-                "t": "p",
-                "x": "ワークフローはMelodyneに似ている。PitchNetはボーカルの音符を検出してピアノロールに表示し、ピッチとタイミングを編集できる。ノートの分割、ピッチカーブの描画、プレビューを経て、オーディオまたはMIDIとして書き出せる。オートチューン系プラグインと違い、個々の音符を扱える。"
-              },
-              {
-                "t": "p",
-                "x": "処理にはAI再合成を使い、開発者によれば、より滑らかなつながりと自然な音色が得られる。製品ページでは、三半音上げたボーカルでMelodyneと比較している。"
-              },
-              {
-                "t": "video",
-                "yt": "Q0Ym2sMFB1A"
-              },
-              {
-                "t": "p",
-                "x": "ARAに対応し、互換性のあるDAWsからタイムラインとの連携を保ったままPitchNetにオーディオを送れる。ARA非対応のホスト向けにはキャプチャ方式も用意する。インストーラーはアカウント不要で直接ダウンロードでき(v0.7.2、158–222 MB)、WindowsとmacOSではRAMが最低8 GB、推奨16 GB必要だ。対応フォーマットはWindowsがVST3/AAX、macOS 13+がVST3/AU/AAX、LinuxがVST3とスタンドアロンだ。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Session Loops\nPitchNet免费AI修音",
-          "body": "PitchNet是免费跨平台Melodyne-style编辑器，以AI重合成重建人声。",
-          "mini_headline": "PitchNet：免费AI音高编辑器",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
-                "cap": "PitchNet"
-              },
-              {
-                "t": "p",
-                "x": "Session Loops发布了PitchNet，这是一款适用于macOS、Windows和Linux的免费开源人声音高编辑器——继Your Smile is Art的bubblegum之后，这是本月报道的第二款免费Melodyne替代品。"
-              },
-              {
-                "t": "p",
-                "x": "其工作流程与Melodyne相似：PitchNet检测人声中的音符并显示在钢琴卷帘中，供编辑音高和时值，支持拆分音符、绘制音高曲线和预览，然后导出音频或MIDI。与自动调音插件不同，它可以处理单个音符。"
-              },
-              {
-                "t": "p",
-                "x": "处理采用AI重合成，开发者称这能带来更平滑的过渡和更自然的音色；产品页面用升高三个半音的人声将其与Melodyne进行了对比。"
-              },
-              {
-                "t": "video",
-                "yt": "Q0Ym2sMFB1A"
-              },
-              {
-                "t": "p",
-                "x": "借助ARA支持，兼容的DAWs可以把音频发送到PitchNet，同时保持与时间线的关联；对于不支持ARA的宿主，则提供捕获工作流程。安装包可直接下载，无需账户（v0.7.2，158–222 MB）；Windows和macOS最低需要8 GB RAM，建议16 GB。格式方面：Windows为VST3/AAX，macOS 13+为VST3/AU/AAX，Linux为VST3和独立版。"
+                "x": "IAMDDB于10月16日在X上写道：“嗨，那个 - 你们为什么要把我的身份用在我100%没有同意的事情上？”"
               }
             ]
           }
         },
         "es": {
-          "headline": "PitchNet, de Session Loops,\nedita el tono gratis con AI",
-          "body": "PitchNet es un editor Melodyne-style gratuito y multiplataforma que reconstruye voces mediante resíntesis AI.",
-          "mini_headline": "PitchNet: editor de tono AI gratuito",
+          "headline": "IAMDDB acusa a Israel de usar\nsu imagen AI en propaganda",
+          "body": "La artista de Manchester IAMDDB dice que un video ya borrado del gobierno israelí usó una imagen suya AI-generated.",
+          "mini_headline": "Uso indebido de la imagen de IAMDDB",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
-                "cap": "PitchNet"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
               },
               {
                 "t": "p",
-                "x": "Session Loops ha lanzado PitchNet, un editor de afinación vocal gratuito y de código abierto para macOS, Windows y Linux; es la segunda alternativa gratuita a Melodyne reseñada este mes, después de bubblegum de Your Smile is Art."
+                "x": "IAMDDB ha acusado a la cuenta de redes sociales gestionada por el gobierno de Israel de “robar su identidad” después de que una figura muy parecida a la artista de Manchester apareciera en un video de propaganda AI-generated."
               },
               {
                 "t": "p",
-                "x": "El flujo de trabajo se parece al de Melodyne: PitchNet detecta las notas de una voz y las muestra en un piano roll para editar afinación y tiempo, con división de notas, dibujo de curvas de tono y vista previa antes de exportar audio o MIDI. A diferencia de los plugins de autotune, da acceso a notas individuales."
+                "x": "El clip, ya eliminado, se compartió el 15 de octubre en los perfiles oficiales de Israel en redes sociales y mostraba a una mujer parecida a la música nacida en Portugal recitando versos como: “Colonisers? Say the name. Jews from Judea, it's in the damn name.” (“¿Colonizadores? Di el nombre. Judíos de Judea, está en el maldito nombre”). Según el Manchester Evening News, lo creó el director Eyal Be, nacido en Israel y radicado en Nueva Jersey, con el texto “'GO BACK WHERE YOU CAME FROM!' We did.” (“¡Vuelvan de donde vinieron!” Lo hicimos)."
               },
               {
                 "t": "p",
-                "x": "El procesamiento usa resíntesis con AI, que según el desarrollador ofrece transiciones más suaves y un tono más natural; la página del producto lo compara con Melodyne en voces subidas tres semitonos."
-              },
-              {
-                "t": "video",
-                "yt": "Q0Ym2sMFB1A"
+                "x": "El activista Rafael Shimunov encontró una foto de prensa de Crack de 2018 en la que IAMDDB, cuyo nombre real es Diana DeBrito, lleva un atuendo casi idéntico; los logos de BALR. y Calvin Klein habían sido alterados con AI para leer “RALA.” y “Calvin Kale.”"
               },
               {
                 "t": "p",
-                "x": "La compatibilidad con ARA permite que las DAWs compatibles envíen audio a PitchNet sin perder el vínculo con la línea de tiempo, y hay un flujo de captura para hosts sin ARA. Los instaladores se descargan directamente sin necesidad de cuenta (v0.7.2, 158–222 MB); Windows y macOS requieren 8 GB de RAM como mínimo y 16 GB recomendados. Formatos: VST3/AAX en Windows, VST3/AU/AAX en macOS 13+, VST3 y versión independiente en Linux."
+                "x": "El 16 de octubre, IAMDDB escribió en X: “Hola, sí, a ver - ¿por qué robaron mi identidad para algo que 100% no consentí?”"
               }
             ]
           }
@@ -847,141 +505,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "PitchNet 무료 AI\n피치 편집기 나왔다",
-          "body": "PitchNet은 AI 재합성 기반의 무료 Melodyne-style 편집기다.",
-          "mini_headline": "PitchNet: 무료 AI 피치 편집기",
+          "headline": "IAMDDB, 이스라엘이\nAI로 모습 도용 주장",
+          "body": "IAMDDB는 이스라엘 정부 영상에 AI-generated 분신이 나왔다고 했다.",
+          "mini_headline": "IAMDDB 모습 도용",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
-                "cap": "PitchNet"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
               },
               {
                 "t": "p",
-                "x": "Session Loops가 macOS, Windows, Linux용 무료 오픈소스 보컬 피치 편집기 PitchNet을 내놓았다. Your Smile is Art의 bubblegum에 이어 이달 소개된 두 번째 무료 Melodyne 대안이다."
+                "x": "맨체스터 아티스트 IAMDDB와 꼭 닮은 인물이 AI-generated 선전 영상에 등장하자, IAMDDB는 이스라엘 정부가 운영하는 소셜미디어 계정이 “자신의 정체성을 훔쳤다”고 비판했다."
               },
               {
                 "t": "p",
-                "x": "작업 방식은 Melodyne과 비슷하다. PitchNet은 보컬의 음을 감지해 피아노 롤에 띄우고, 피치와 타이밍을 고칠 수 있게 한다. 음 나누기, 피치 커브 그리기, 미리 듣기를 거쳐 오디오나 MIDI로 내보낸다. 오토튠 플러그인과 달리 개별 음을 직접 다룰 수 있다."
+                "x": "지금은 삭제된 이 영상은 10월 15일 이스라엘의 여러 공식 소셜미디어 계정에 올라왔다. 영상에는 포르투갈 태생인 이 뮤지션을 닮은 여성이 “Colonisers? Say the name. Jews from Judea, it's in the damn name.”(식민주의자라고? 이름을 말해 봐. 유대 땅에서 온 유대인, 이름에 다 들어 있잖아) 같은 가사를 읊는다. Manchester Evening News에 따르면 영상은 이스라엘 태생으로 뉴저지에서 활동하는 감독 Eyal Be가 만들었고, “'GO BACK WHERE YOU CAME FROM!' We did.”(‘원래 있던 곳으로 돌아가라!’ 우리는 그렇게 했다)라는 문구가 붙었다."
               },
               {
                 "t": "p",
-                "x": "처리는 AI 재합성 방식이다. 개발사는 이 방식이 전환을 더 매끄럽게 하고 음색을 더 자연스럽게 만든다고 설명한다. 제품 페이지에서는 반음 세 개만큼 올린 보컬로 Melodyne과 비교한 결과를 보여준다."
-              },
-              {
-                "t": "video",
-                "yt": "Q0Ym2sMFB1A"
+                "x": "활동가 Rafael Shimunov는 본명이 Diana DeBrito인 IAMDDB가 거의 똑같은 옷을 입은 2018년 Crack 보도 사진을 찾아냈다. 영상 속 BALR.와 Calvin Klein 로고는 AI로 바뀌어 “RALA.”와 “Calvin Kale.”로 적혀 있었다."
               },
               {
                 "t": "p",
-                "x": "ARA를 지원해 호환 DAWs에서 타임라인과 연결된 상태로 PitchNet에 오디오를 보낼 수 있고, ARA가 없는 호스트를 위한 캡처 방식도 있다. 설치 파일은 계정 없이 바로 내려받을 수 있다(v0.7.2, 158–222 MB). Windows와 macOS에서는 RAM이 최소 8 GB, 권장 16 GB 필요하다. 지원 포맷은 Windows에서 VST3/AAX, macOS 13+에서 VST3/AU/AAX, Linux에서 VST3와 스탠드얼론이다."
+                "x": "IAMDDB는 10월 16일 X에 “안녕, 그러니까 - 내가 100% 동의하지 않은 일에 왜 내 정체성을 훔친 거야?”라고 썼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "PitchNet、無料の\nAIピッチ編集ツール",
-          "body": "PitchNetはAI再合成を使う無料のMelodyne-style編集ソフトだ。",
-          "mini_headline": "PitchNet:無料AIピッチ編集",
+          "headline": "IAMDDB「イスラエルが\nAI似姿を宣伝に流用」",
+          "body": "IAMDDBは、イスラエル政府の動画にAI-generatedの自分が使われたと訴える。",
+          "mini_headline": "IAMDDBの似姿を流用",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
-                "cap": "PitchNet"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
               },
               {
                 "t": "p",
-                "x": "Session Loopsが、macOS、Windows、Linuxに対応した無料のオープンソース・ボーカルピッチ編集ソフトPitchNetを公開した。Your Smile is Artのbubblegumに続き、今月取り上げる二つ目の無料Melodyne代替ツールだ。"
+                "x": "IAMDDBは、このマンチェスターのアーティストによく似た人物がAI-generatedのプロパガンダ動画に登場したことを受け、イスラエル政府が運営するソーシャルメディアアカウントが「自分のアイデンティティを盗んだ」と非難した。"
               },
               {
                 "t": "p",
-                "x": "ワークフローはMelodyneに似ている。PitchNetはボーカルの音符を検出してピアノロールに表示し、ピッチとタイミングを編集できる。ノートの分割、ピッチカーブの描画、プレビューを経て、オーディオまたはMIDIとして書き出せる。オートチューン系プラグインと違い、個々の音符を扱える。"
+                "x": "現在は削除されたこの動画は10月15日、イスラエルの公式ソーシャルメディア各アカウントで共有された。ポルトガル生まれのこのミュージシャンに似た女性が、“Colonisers? Say the name. Jews from Judea, it's in the damn name.”（植民者だと？ 名前を言ってみろ。ユダヤから来たユダヤ人、名前にそう書いてある）といった歌詞を口にする。Manchester Evening Newsによると、制作したのはイスラエル生まれでニュージャージーを拠点とする監督Eyal Beで、“'GO BACK WHERE YOU CAME FROM!' We did.”（「元いた場所へ帰れ！」そうした）というキャプションが付いていた。"
               },
               {
                 "t": "p",
-                "x": "処理にはAI再合成を使い、開発者によれば、より滑らかなつながりと自然な音色が得られる。製品ページでは、三半音上げたボーカルでMelodyneと比較している。"
-              },
-              {
-                "t": "video",
-                "yt": "Q0Ym2sMFB1A"
+                "x": "活動家のRafael Shimunovは、本名Diana DeBritoのIAMDDBがほぼ同じ服装で写る2018年のCrackの宣材写真を見つけた。BALR.とCalvin KleinのロゴはAIで改変され、“RALA.”と“Calvin Kale.”になっていた。"
               },
               {
                 "t": "p",
-                "x": "ARAに対応し、互換性のあるDAWsからタイムラインとの連携を保ったままPitchNetにオーディオを送れる。ARA非対応のホスト向けにはキャプチャ方式も用意する。インストーラーはアカウント不要で直接ダウンロードでき(v0.7.2、158–222 MB)、WindowsとmacOSではRAMが最低8 GB、推奨16 GB必要だ。対応フォーマットはWindowsがVST3/AAX、macOS 13+がVST3/AU/AAX、LinuxがVST3とスタンドアロンだ。"
+                "x": "IAMDDBは10月16日、Xに「どうも、えっと - 私が100%同意していないことに、なぜ私のアイデンティティを盗んだの？」と投稿した。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Session Loops\nPitchNet免费AI修音",
-          "body": "PitchNet是免费跨平台Melodyne-style编辑器，以AI重合成重建人声。",
-          "mini_headline": "PitchNet：免费AI音高编辑器",
+          "headline": "IAMDDB称以色列\n用AI仿冒她做宣传",
+          "body": "曼彻斯特艺人IAMDDB称，已删除的以色列政府视频用了她的AI-generated形象。",
+          "mini_headline": "IAMDDB形象遭盗用",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
-                "cap": "PitchNet"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
               },
               {
                 "t": "p",
-                "x": "Session Loops发布了PitchNet，这是一款适用于macOS、Windows和Linux的免费开源人声音高编辑器——继Your Smile is Art的bubblegum之后，这是本月报道的第二款免费Melodyne替代品。"
+                "x": "一个与这位曼彻斯特艺人极为相似的人物出现在一段AI-generated宣传视频中后，IAMDDB指责以色列政府运营的社交媒体账号“盗用了她的身份”。"
               },
               {
                 "t": "p",
-                "x": "其工作流程与Melodyne相似：PitchNet检测人声中的音符并显示在钢琴卷帘中，供编辑音高和时值，支持拆分音符、绘制音高曲线和预览，然后导出音频或MIDI。与自动调音插件不同，它可以处理单个音符。"
+                "x": "这段现已删除的视频于10月15日在以色列多个官方社交媒体账号上发布，片中一名酷似这位葡萄牙出生音乐人的女性念出这样的歌词：“Colonisers? Say the name. Jews from Judea, it's in the damn name.”（殖民者？说出名字。来自犹地亚的犹太人，名字里就写着。）据Manchester Evening News报道，视频由出生于以色列、常驻新泽西的导演Eyal Be制作，配文为“'GO BACK WHERE YOU CAME FROM!' We did.”（“回到你们来的地方去！”我们做到了。）"
               },
               {
                 "t": "p",
-                "x": "处理采用AI重合成，开发者称这能带来更平滑的过渡和更自然的音色；产品页面用升高三个半音的人声将其与Melodyne进行了对比。"
-              },
-              {
-                "t": "video",
-                "yt": "Q0Ym2sMFB1A"
+                "x": "活动人士Rafael Shimunov找到了一张2018年Crack的宣传照，照片中IAMDDB（本名Diana DeBrito）穿着几乎相同的服装；BALR.和Calvin Klein的标志被AI改成了“RALA.”和“Calvin Kale.”。"
               },
               {
                 "t": "p",
-                "x": "借助ARA支持，兼容的DAWs可以把音频发送到PitchNet，同时保持与时间线的关联；对于不支持ARA的宿主，则提供捕获工作流程。安装包可直接下载，无需账户（v0.7.2，158–222 MB）；Windows和macOS最低需要8 GB RAM，建议16 GB。格式方面：Windows为VST3/AAX，macOS 13+为VST3/AU/AAX，Linux为VST3和独立版。"
+                "x": "IAMDDB于10月16日在X上写道：“嗨，那个 - 你们为什么要把我的身份用在我100%没有同意的事情上？”"
               }
             ]
           }
         },
         "es": {
-          "headline": "PitchNet, de Session Loops,\nedita el tono gratis con AI",
-          "body": "PitchNet es un editor Melodyne-style gratuito y multiplataforma que reconstruye voces mediante resíntesis AI.",
-          "mini_headline": "PitchNet: editor de tono AI gratuito",
+          "headline": "IAMDDB acusa a Israel de usar\nsu imagen AI en propaganda",
+          "body": "La artista de Manchester IAMDDB dice que un video ya borrado del gobierno israelí usó una imagen suya AI-generated.",
+          "mini_headline": "Uso indebido de la imagen de IAMDDB",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/bedroomproducersblog.com/wp-content/uploads/2026/10/pitchnet.jpg",
-                "cap": "PitchNet"
+                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
               },
               {
                 "t": "p",
-                "x": "Session Loops ha lanzado PitchNet, un editor de afinación vocal gratuito y de código abierto para macOS, Windows y Linux; es la segunda alternativa gratuita a Melodyne reseñada este mes, después de bubblegum de Your Smile is Art."
+                "x": "IAMDDB ha acusado a la cuenta de redes sociales gestionada por el gobierno de Israel de “robar su identidad” después de que una figura muy parecida a la artista de Manchester apareciera en un video de propaganda AI-generated."
               },
               {
                 "t": "p",
-                "x": "El flujo de trabajo se parece al de Melodyne: PitchNet detecta las notas de una voz y las muestra en un piano roll para editar afinación y tiempo, con división de notas, dibujo de curvas de tono y vista previa antes de exportar audio o MIDI. A diferencia de los plugins de autotune, da acceso a notas individuales."
+                "x": "El clip, ya eliminado, se compartió el 15 de octubre en los perfiles oficiales de Israel en redes sociales y mostraba a una mujer parecida a la música nacida en Portugal recitando versos como: “Colonisers? Say the name. Jews from Judea, it's in the damn name.” (“¿Colonizadores? Di el nombre. Judíos de Judea, está en el maldito nombre”). Según el Manchester Evening News, lo creó el director Eyal Be, nacido en Israel y radicado en Nueva Jersey, con el texto “'GO BACK WHERE YOU CAME FROM!' We did.” (“¡Vuelvan de donde vinieron!” Lo hicimos)."
               },
               {
                 "t": "p",
-                "x": "El procesamiento usa resíntesis con AI, que según el desarrollador ofrece transiciones más suaves y un tono más natural; la página del producto lo compara con Melodyne en voces subidas tres semitonos."
-              },
-              {
-                "t": "video",
-                "yt": "Q0Ym2sMFB1A"
+                "x": "El activista Rafael Shimunov encontró una foto de prensa de Crack de 2018 en la que IAMDDB, cuyo nombre real es Diana DeBrito, lleva un atuendo casi idéntico; los logos de BALR. y Calvin Klein habían sido alterados con AI para leer “RALA.” y “Calvin Kale.”"
               },
               {
                 "t": "p",
-                "x": "La compatibilidad con ARA permite que las DAWs compatibles envíen audio a PitchNet sin perder el vínculo con la línea de tiempo, y hay un flujo de captura para hosts sin ARA. Los instaladores se descargan directamente sin necesidad de cuenta (v0.7.2, 158–222 MB); Windows y macOS requieren 8 GB de RAM como mínimo y 16 GB recomendados. Formatos: VST3/AAX en Windows, VST3/AU/AAX en macOS 13+, VST3 y versión independiente en Linux."
+                "x": "El 16 de octubre, IAMDDB escribió en X: “Hola, sí, a ver - ¿por qué robaron mi identidad para algo que 100% no consentí?”"
               }
             ]
           }
@@ -989,15 +627,15 @@
       }
     },
     {
-      "id": "music-afm-human-made-human-paid",
+      "id": "music-gavras-storm-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "음악가 노조, 음반사에\nAI 보호 장치 요구",
-      "body": "AFM이 'Human Made, Human Paid'를 걸고 AI 권리를 요구했다.",
-      "mini_headline": "음악가 노조, AI 조건 요구",
+      "headline": "Romain Gavras\nAI판 'Storm' 탄식",
+      "body": "Romain Gavras는 AI판 'Storm'에 제작진 생각이 나 슬펐다고 했다.",
+      "mini_headline": "Gavras, AI판 'Storm'에",
       "tool": "Music",
-      "source": "Rolling Stone",
-      "url": "https://www.rollingstone.com/music/music-news/human-made-human-paid-musicians-union-afm-labor-agreement-1235645099/",
+      "source": "Pitchfork",
+      "url": "https://pitchfork.com/story/romain-gavras-is-bummed-about-those-ai-versions-of-storm/",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
@@ -1005,179 +643,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
-            "cap": "American Federation of Musicians가 뉴욕 Rockefeller Center 앞에서 집회를 열었다."
+            "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
           },
           {
             "t": "p",
-            "x": "전문 아티스트 80,000명 이상이 속한 U.S. 최대 음악가 노조 American Federation of Musicians(AFM)가 AI 기술이 발전하자 메이저 레이블에 계약상 보호 장치를 요구하고 나섰다."
+            "x": "Romain Gavras가 Yung Lean과 만든 단편 “Storm”을 모방자들이 AI로 “재현”하며 개, 아기, 할머니, Elon Musk 등을 집어넣었다. Gavras는 Vulture에 AI 복제물을 두고 “우리 영상에 그토록 많은 노력을 쏟은 모든 사람을 생각하니 슬펐다”고 말했다."
           },
           {
             "t": "p",
-            "x": "AFM은 화요일 옹호 캠페인 “Human Made, Human Paid”를 시작했다. 11월로 예정된 Sound Recording Labor Agreement(SRLA) 재협상을 앞둔 행보다. AFM은 Universal, Sony, Warner, Hollywood Records(Disney)에 음악가가 자기 음악을 AI 모델 학습에 쓰도록 승인하거나 거부할 권리, 투명한 크레딧, AI 사용과 레이블 라이선스 계약 양쪽에 대한 보상을 보장하라고 요구한다."
+            "x": "예산은 “아주, 아주, 아주, 아주 적었고” 그는 보수도 받지 않았다. 댄서들은 두 달 동안 캐스팅해 뽑았고 안무가 Damien Jalet과 사흘을 리허설했다. 끊김 없는 16mm 원테이크는 15번쯤 찍어야 했다."
           },
           {
             "t": "p",
-            "x": "“음반사들은 인간의 예술성 위에 쌓은 이익을 챙기면서 현업 음악가를 셈법에서 빼 버릴 수 없다. Human Made, Human Paid는 동의, 크레딧, 보상에 관한 것이다.” AFM International 회장 Tino Gagliardi의 말이다."
+            "x": "그는 “이런 유행은 좋은 작품마저 시시해 보이게 만들 수 있다”고 했다. 법적 대응을 검토 중이고, 몇몇 AI 기업이 내민 라이선스 제안은 거절했다. “우리가 끼고 싶지 않은 경제 모델이 다가오고 있다.”"
           },
           {
             "t": "p",
-            "x": "노조는 AI를 악당으로 몰려는 게 아니라 음악을 지속 가능한 직업으로 지키려는 요구라고 말한다. “기술 발전을 막고 싶은 것이 아니다… 세상에는 더 적은 음악이 아니라 더 많은 음악이 필요하다.”"
+            "x": "복제물들을 계기로 그는 MTV VMAs에서 “Storm”을 라이브로 선보였다. Gavras는 “거기엔 Yung Lean의 스웨거가 빠져 있다”며 “인간의 불완전함 속에는… 아직 거기에 제대로 담기지 않은 무언가가 있다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Musicians union demands AI\nprotections from labels",
-          "body": "The AFM's 'Human Made, Human Paid' push asks major labels for AI consent, credit and pay in its next union contract.",
-          "mini_headline": "Musicians union seeks AI terms",
+          "headline": "Romain Gavras laments AI copies\nof his 'Storm' video",
+          "body": "Romain Gavras told Vulture that AI recreations of his Yung Lean 'Storm' video made him sad for the crew behind it.",
+          "mini_headline": "Gavras on AI 'Storm' copies",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
-                "cap": "The American Federation of Musicians rallies outside of New York’s Rockefeller Center."
+                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
               },
               {
                 "t": "p",
-                "x": "The American Federation of Musicians (AFM), the largest musicians union in the U.S. with more than 80,000 professional artists, is asking the major labels for contract safeguards as AI technology develops."
+                "x": "Copycats have “recreated” Romain Gavras’ “Storm,” his short film with Yung Lean, using AI, swapping in dogs, babies, grandmothers, Elon Musk and others. Gavras told Vulture the AI copies “made me sad for all the people who put in so much work on our video.”"
               },
               {
                 "t": "p",
-                "x": "On Tuesday it launched “Human Made, Human Paid,” an advocacy campaign ahead of November’s renegotiation of the Sound Recording Labor Agreement (SRLA). The AFM wants Universal, Sony, Warner and Hollywood Records (Disney) to give musicians the right to approve or refuse the use of their music to train AI models, transparent credit, and payment for both AI use and label licensing deals."
+                "x": "The budget was “very, very, very, very low” and he worked for free; dancers came from a two-month casting search, rehearsed three days with choreographer Damien Jalet, and the unbroken 16-mm take needed about 15 tries."
               },
               {
                 "t": "p",
-                "x": "“The record labels cannot pocket profits built on the backs of human artistry while cutting working musicians out of the equation. Human Made, Human Paid is about consent, credit, and compensation,” said AFM International President Tino Gagliardi."
+                "x": "“A trend like this can make even good work look lame,” he said. He is exploring legal avenues, and declined licensing offers from a few AI companies: “There’s an economic model coming that we didn’t want to be a part of.”"
               },
               {
                 "t": "p",
-                "x": "The union says the demands aren’t about villainizing AI but about keeping music a viable career: “We don’t want to stop the advancement of technology… We need more music in the world, not less.”"
+                "x": "The copies pushed him to perform “Storm” live at the MTV VMAs. “They’re missing the swagger of Yung Lean,” Gavras said. “There’s something in the imperfection of humanity… that’s not quite there yet.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "음악가 노조, 음반사에\nAI 보호 장치 요구",
-          "body": "AFM이 'Human Made, Human Paid'를 걸고 AI 권리를 요구했다.",
-          "mini_headline": "음악가 노조, AI 조건 요구",
+          "headline": "Romain Gavras\nAI판 'Storm' 탄식",
+          "body": "Romain Gavras는 AI판 'Storm'에 제작진 생각이 나 슬펐다고 했다.",
+          "mini_headline": "Gavras, AI판 'Storm'에",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
-                "cap": "American Federation of Musicians가 뉴욕 Rockefeller Center 앞에서 집회를 열었다."
+                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
               },
               {
                 "t": "p",
-                "x": "전문 아티스트 80,000명 이상이 속한 U.S. 최대 음악가 노조 American Federation of Musicians(AFM)가 AI 기술이 발전하자 메이저 레이블에 계약상 보호 장치를 요구하고 나섰다."
+                "x": "Romain Gavras가 Yung Lean과 만든 단편 “Storm”을 모방자들이 AI로 “재현”하며 개, 아기, 할머니, Elon Musk 등을 집어넣었다. Gavras는 Vulture에 AI 복제물을 두고 “우리 영상에 그토록 많은 노력을 쏟은 모든 사람을 생각하니 슬펐다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "AFM은 화요일 옹호 캠페인 “Human Made, Human Paid”를 시작했다. 11월로 예정된 Sound Recording Labor Agreement(SRLA) 재협상을 앞둔 행보다. AFM은 Universal, Sony, Warner, Hollywood Records(Disney)에 음악가가 자기 음악을 AI 모델 학습에 쓰도록 승인하거나 거부할 권리, 투명한 크레딧, AI 사용과 레이블 라이선스 계약 양쪽에 대한 보상을 보장하라고 요구한다."
+                "x": "예산은 “아주, 아주, 아주, 아주 적었고” 그는 보수도 받지 않았다. 댄서들은 두 달 동안 캐스팅해 뽑았고 안무가 Damien Jalet과 사흘을 리허설했다. 끊김 없는 16mm 원테이크는 15번쯤 찍어야 했다."
               },
               {
                 "t": "p",
-                "x": "“음반사들은 인간의 예술성 위에 쌓은 이익을 챙기면서 현업 음악가를 셈법에서 빼 버릴 수 없다. Human Made, Human Paid는 동의, 크레딧, 보상에 관한 것이다.” AFM International 회장 Tino Gagliardi의 말이다."
+                "x": "그는 “이런 유행은 좋은 작품마저 시시해 보이게 만들 수 있다”고 했다. 법적 대응을 검토 중이고, 몇몇 AI 기업이 내민 라이선스 제안은 거절했다. “우리가 끼고 싶지 않은 경제 모델이 다가오고 있다.”"
               },
               {
                 "t": "p",
-                "x": "노조는 AI를 악당으로 몰려는 게 아니라 음악을 지속 가능한 직업으로 지키려는 요구라고 말한다. “기술 발전을 막고 싶은 것이 아니다… 세상에는 더 적은 음악이 아니라 더 많은 음악이 필요하다.”"
+                "x": "복제물들을 계기로 그는 MTV VMAs에서 “Storm”을 라이브로 선보였다. Gavras는 “거기엔 Yung Lean의 스웨거가 빠져 있다”며 “인간의 불완전함 속에는… 아직 거기에 제대로 담기지 않은 무언가가 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "音楽家組合、レーベルに\nAI保護策を要求",
-          "body": "AFMは「Human Made, Human Paid」でレーベルにAIの権利を求めた。",
-          "mini_headline": "音楽家組合、AI条件を要求",
+          "headline": "Romain Gavras\nAI版'Storm'を嘆く",
+          "body": "Romain GavrasはAI版'Storm'に制作陣を思い悲しんだと語った。",
+          "mini_headline": "GavrasとAI版'Storm'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
-                "cap": "ニューヨークのRockefeller Center前で集会を開くAmerican Federation of Musicians。"
+                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
               },
               {
                 "t": "p",
-                "x": "U.S.最大の音楽家組合で、80,000人以上のプロのアーティストが所属するAmerican Federation of Musicians(AFM)は、AI技術の発展を受け、メジャーレーベルに契約上の保護策を求めている。"
+                "x": "模倣者たちがAIを使い、Romain GavrasがYung Leanと作った短編「Storm」を“再現”し、犬や赤ちゃん、祖母、Elon Muskなどに置き換えている。GavrasはVultureに対し、AIのコピーを見て「私たちの映像に多くの労力を注いだすべての人を思い、悲しくなった」と語った。"
               },
               {
                 "t": "p",
-                "x": "AFMは火曜日、11月に予定されるSound Recording Labor Agreement(SRLA)の再交渉を前に、提言キャンペーン「Human Made, Human Paid」を始めた。AFMはUniversal、Sony、Warner、Hollywood Records(Disney)に対し、自分の音楽がAIモデルの学習に使われることを承認または拒否する権利、透明性のあるクレジット、そしてAI利用とレーベルのライセンス契約の双方に対する報酬を音楽家に与えるよう求めている。"
+                "x": "予算は「とても、とても、とても、とても少なく」、彼は無報酬で働いた。ダンサーは二か月に及ぶキャスティングで選ばれ、振付家Damien Jaletと三日間リハーサルを重ね、途切れのない16mmのワンテイクは約15回の撮り直しを要した。"
               },
               {
                 "t": "p",
-                "x": "「レコード会社は、人間の芸術性の上に築いた利益を手にしながら、現場の音楽家を蚊帳の外に置くことはできない。Human Made, Human Paidは、同意、クレジット、報酬の問題だ」とAFM InternationalのTino Gagliardi会長は述べた。"
+                "x": "「こうしたトレンドは、優れた作品さえ陳腐に見せかねない」と彼は言う。法的手段を検討しており、いくつかのAI企業からのライセンスの申し出も断った。「私たちが加わりたくない経済モデルが来ている」"
               },
               {
                 "t": "p",
-                "x": "組合は、この要求はAIを悪者扱いするためではなく、音楽を職業として成り立たせ続けるためのものだとしている。「技術の進歩を止めたいわけではない……世界にはより少ない音楽ではなく、より多くの音楽が必要だ」"
+                "x": "コピーがきっかけで、彼はMTV VMAsで「Storm」をライブ披露した。「Yung Leanのスワッグが欠けている」とGavrasは言う。「人間の不完全さの中には…まだ届いていない何かがある」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "音乐人工会要求唱片公司\n提供AI保护",
-          "body": "AFM发起“Human Made, Human Paid”，向大厂牌要求AI授权与报酬。",
-          "mini_headline": "音乐人工会寻求AI条款",
+          "headline": "Romain Gavras\n为AI版'Storm'叹息",
+          "body": "Romain Gavras对Vulture说，AI翻拍'Storm'让他为剧组难过。",
+          "mini_headline": "Gavras谈AI版'Storm'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
-                "cap": "American Federation of Musicians在纽约Rockefeller Center外集会。"
+                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
               },
               {
                 "t": "p",
-                "x": "American Federation of Musicians（AFM）是U.S.最大的音乐人工会，拥有80,000多名职业艺人。随着AI技术发展，该工会正要求各大唱片公司在合同中加入保障条款。"
+                "x": "模仿者用AI“重制”了Romain Gavras与Yung Lean合作的短片《Storm》，把主角换成了狗、婴儿、老奶奶、Elon Musk等。Gavras对Vulture表示，这些AI仿作“让我为所有在我们的视频上倾注大量心血的人感到难过”。"
               },
               {
                 "t": "p",
-                "x": "该工会于周二发起倡导活动“Human Made, Human Paid”，为11月重新谈判Sound Recording Labor Agreement（SRLA）做准备。AFM希望Universal、Sony、Warner和Hollywood Records（Disney）给予音乐人批准或拒绝将其音乐用于训练AI模型的权利、透明的署名，以及针对AI使用和唱片公司授权交易的报酬。"
+                "x": "预算“非常、非常、非常、非常低”，他分文未取；舞者经过两个月的选角选出，与编舞Damien Jalet排练了三天，一镜到底的16毫米长镜头拍了约15次。"
               },
               {
                 "t": "p",
-                "x": "“唱片公司不能一边把建立在人类艺术创作之上的利润收入囊中，一边把一线音乐人排除在外。Human Made, Human Paid关乎同意、署名和报酬，”AFM International主席Tino Gagliardi说。"
+                "x": "“这样的潮流会让好作品也显得很逊，”他说。他正在研究法律途径，并拒绝了几家AI公司的授权邀约：“一种经济模式正在到来，我们不想成为其中一部分。”"
               },
               {
                 "t": "p",
-                "x": "工会表示，这些诉求并非要妖魔化AI，而是为了让音乐依然是可以维持生计的职业：“我们不想阻止技术进步……世界需要更多音乐，而不是更少。”"
+                "x": "这些仿作促使他在MTV VMAs上现场表演了《Storm》。“它们缺少Yung Lean的那股气场，”Gavras说，“人类的不完美之中有某种东西……它们还没完全做到。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sindicato de músicos exige\nprotección AI a los sellos",
-          "body": "La campaña 'Human Made, Human Paid' de la AFM pide a los grandes sellos consentimiento, crédito y pago por AI.",
-          "mini_headline": "Sindicato de músicos pide reglas AI",
+          "headline": "Romain Gavras lamenta las\ncopias AI de su video 'Storm'",
+          "body": "Romain Gavras dijo a Vulture que las copias con AI de su video 'Storm' de Yung Lean lo entristecieron por el equipo.",
+          "mini_headline": "Gavras y las copias AI de 'Storm'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
-                "cap": "La American Federation of Musicians se manifiesta frente al Rockefeller Center de Nueva York."
+                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
               },
               {
                 "t": "p",
-                "x": "La American Federation of Musicians (AFM), el mayor sindicato de músicos de Estados Unidos (U.S.), con más de 80,000 artistas profesionales, pide a los grandes sellos salvaguardas contractuales ante el desarrollo de la tecnología AI."
+                "x": "Imitadores han “recreado” con AI “Storm”, el cortometraje de Romain Gavras con Yung Lean, poniendo en su lugar perros, bebés, abuelas, Elon Musk y otros. Gavras dijo a Vulture que las copias con AI “me entristecieron por toda la gente que puso tanto trabajo en nuestro video”."
               },
               {
                 "t": "p",
-                "x": "El martes lanzó “Human Made, Human Paid”, una campaña de defensa previa a la renegociación en noviembre del Sound Recording Labor Agreement (SRLA). La AFM quiere que Universal, Sony, Warner y Hollywood Records (Disney) concedan a los músicos el derecho a aprobar o rechazar el uso de su música para entrenar modelos de AI, créditos transparentes y pago tanto por el uso de AI como por los acuerdos de licencia de los sellos."
+                "x": "El presupuesto fue “muy, muy, muy, muy bajo” y él trabajó gratis; los bailarines salieron de un casting de dos meses, ensayaron tres días con el coreógrafo Damien Jalet, y la toma continua en 16 mm necesitó unos 15 intentos."
               },
               {
                 "t": "p",
-                "x": "“Las discográficas no pueden embolsarse beneficios construidos sobre el arte humano mientras dejan fuera de la ecuación a los músicos en activo. Human Made, Human Paid trata de consentimiento, crédito y compensación”, dijo el presidente de AFM International, Tino Gagliardi."
+                "x": "“Una tendencia así puede hacer que incluso un buen trabajo parezca mediocre”, dijo. Está explorando vías legales y rechazó ofertas de licencia de algunas empresas de AI: “Se acerca un modelo económico del que no queríamos formar parte”."
               },
               {
                 "t": "p",
-                "x": "El sindicato afirma que sus demandas no buscan demonizar la AI, sino mantener la música como una carrera viable: “No queremos frenar el avance de la tecnología… Necesitamos más música en el mundo, no menos”."
+                "x": "Las copias lo impulsaron a interpretar “Storm” en directo en los MTV VMAs. “Les falta el swagger de Yung Lean”, dijo Gavras. “Hay algo en la imperfección de la humanidad… que todavía no está del todo ahí”."
               }
             ]
           }
@@ -1185,125 +817,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "음악가 노조, 음반사에\nAI 보호 장치 요구",
-          "body": "AFM은 'Human Made, Human Paid'로 AI 권리를 요구했다.",
-          "mini_headline": "음악가 노조, AI 조건 요구",
+          "headline": "Romain Gavras\nAI판 'Storm' 탄식",
+          "body": "Romain Gavras는 AI판 'Storm'에 제작진이 떠올라 슬펐다고 했다.",
+          "mini_headline": "Gavras, AI판 'Storm'에",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
-                "cap": "American Federation of Musicians가 뉴욕 Rockefeller Center 앞에서 집회를 열고 있다."
+                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
               },
               {
                 "t": "p",
-                "x": "전문 아티스트 80,000명 이상이 속한 U.S. 최대 음악가 노조 American Federation of Musicians(AFM)가 AI 기술 발전에 맞춰 메이저 레이블에 계약상 보호 장치를 요구하고 있다."
+                "x": "모방자들이 AI로 Romain Gavras가 Yung Lean과 만든 단편 “Storm”을 “재현”하며 개, 아기, 할머니, Elon Musk 등을 넣었다. Gavras는 Vulture에 AI 복제물이 “우리 영상에 그토록 많은 노력을 쏟은 모든 사람을 생각하니 슬펐다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "AFM은 화요일, 11월로 예정된 Sound Recording Labor Agreement(SRLA) 재협상을 앞두고 옹호 캠페인 “Human Made, Human Paid”를 시작했다. AFM은 Universal, Sony, Warner, Hollywood Records(Disney)에 음악가가 자기 음악의 AI 모델 학습 사용을 승인하거나 거부할 권리, 투명한 크레딧, 그리고 AI 사용과 레이블 라이선스 계약 모두에 대한 보상을 보장하라고 요구한다."
+                "x": "예산은 “아주, 아주, 아주, 아주 적었고” 그는 무보수로 일했다. 댄서들은 두 달에 걸친 캐스팅으로 뽑혀 안무가 Damien Jalet과 사흘간 리허설했고, 끊김 없는 16mm 원테이크는 15번가량 찍어야 했다."
               },
               {
                 "t": "p",
-                "x": "“음반사들은 인간의 예술성 위에 쌓은 이익을 챙기면서 현업 음악가를 셈법에서 빼 버릴 수 없다. Human Made, Human Paid는 동의, 크레딧, 보상에 관한 것이다.” AFM International 회장 Tino Gagliardi의 말이다."
+                "x": "“이런 유행은 좋은 작품마저 시시해 보이게 만들 수 있다”고 그는 말했다. 그는 법적 대응을 검토하고 있으며, 몇몇 AI 기업의 라이선스 제안을 거절했다. “우리가 끼고 싶지 않은 경제 모델이 다가오고 있다.”"
               },
               {
                 "t": "p",
-                "x": "노조는 이번 요구가 AI를 악당으로 몰려는 것이 아니라 음악을 지속 가능한 직업으로 지키려는 것이라고 말한다. “기술 발전을 막고 싶은 것이 아니다… 세상에는 더 적은 음악이 아니라 더 많은 음악이 필요하다.”"
+                "x": "복제물들은 그가 MTV VMAs에서 “Storm”을 라이브로 선보이는 계기가 됐다. Gavras는 “거기엔 Yung Lean의 스웨거가 빠져 있다”며 “인간의 불완전함 속에는… 아직 거기에 제대로 담기지 않은 무언가가 있다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "音楽家組合、レーベルに\nAI保護策を要求",
-          "body": "AFMは「Human Made, Human Paid」でレーベルにAIの権利を求めた。",
-          "mini_headline": "音楽家組合、AI条件を要求",
+          "headline": "Romain Gavras\nAI版'Storm'を嘆く",
+          "body": "Romain GavrasはAI版'Storm'に制作陣を思い悲しんだと語った。",
+          "mini_headline": "GavrasとAI版'Storm'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
-                "cap": "ニューヨークのRockefeller Center前で集会を開くAmerican Federation of Musicians。"
+                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
               },
               {
                 "t": "p",
-                "x": "U.S.最大の音楽家組合で、80,000人以上のプロのアーティストが所属するAmerican Federation of Musicians(AFM)は、AI技術の発展を受け、メジャーレーベルに契約上の保護策を求めている。"
+                "x": "模倣者たちがAIを使い、Romain GavrasがYung Leanと作った短編「Storm」を“再現”し、犬や赤ちゃん、祖母、Elon Muskなどに置き換えている。GavrasはVultureに対し、AIのコピーを見て「私たちの映像に多くの労力を注いだすべての人を思い、悲しくなった」と語った。"
               },
               {
                 "t": "p",
-                "x": "AFMは火曜日、11月に予定されるSound Recording Labor Agreement(SRLA)の再交渉を前に、提言キャンペーン「Human Made, Human Paid」を始めた。AFMはUniversal、Sony、Warner、Hollywood Records(Disney)に対し、自分の音楽がAIモデルの学習に使われることを承認または拒否する権利、透明性のあるクレジット、そしてAI利用とレーベルのライセンス契約の双方に対する報酬を音楽家に与えるよう求めている。"
+                "x": "予算は「とても、とても、とても、とても少なく」、彼は無報酬で働いた。ダンサーは二か月に及ぶキャスティングで選ばれ、振付家Damien Jaletと三日間リハーサルを重ね、途切れのない16mmのワンテイクは約15回の撮り直しを要した。"
               },
               {
                 "t": "p",
-                "x": "「レコード会社は、人間の芸術性の上に築いた利益を手にしながら、現場の音楽家を蚊帳の外に置くことはできない。Human Made, Human Paidは、同意、クレジット、報酬の問題だ」とAFM InternationalのTino Gagliardi会長は述べた。"
+                "x": "「こうしたトレンドは、優れた作品さえ陳腐に見せかねない」と彼は言う。法的手段を検討しており、いくつかのAI企業からのライセンスの申し出も断った。「私たちが加わりたくない経済モデルが来ている」"
               },
               {
                 "t": "p",
-                "x": "組合は、この要求はAIを悪者扱いするためではなく、音楽を職業として成り立たせ続けるためのものだとしている。「技術の進歩を止めたいわけではない……世界にはより少ない音楽ではなく、より多くの音楽が必要だ」"
+                "x": "コピーがきっかけで、彼はMTV VMAsで「Storm」をライブ披露した。「Yung Leanのスワッグが欠けている」とGavrasは言う。「人間の不完全さの中には…まだ届いていない何かがある」"
               }
             ]
           }
         },
         "zh": {
-          "headline": "音乐人工会要求唱片公司\n提供AI保护",
-          "body": "AFM发起“Human Made, Human Paid”，向大厂牌要求AI授权与报酬。",
-          "mini_headline": "音乐人工会寻求AI条款",
+          "headline": "Romain Gavras\n为AI版'Storm'叹息",
+          "body": "Romain Gavras对Vulture说，AI翻拍'Storm'让他为剧组难过。",
+          "mini_headline": "Gavras谈AI版'Storm'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
-                "cap": "American Federation of Musicians在纽约Rockefeller Center外集会。"
+                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
               },
               {
                 "t": "p",
-                "x": "American Federation of Musicians（AFM）是U.S.最大的音乐人工会，拥有80,000多名职业艺人。随着AI技术发展，该工会正要求各大唱片公司在合同中加入保障条款。"
+                "x": "模仿者用AI“重制”了Romain Gavras与Yung Lean合作的短片《Storm》，把主角换成了狗、婴儿、老奶奶、Elon Musk等。Gavras对Vulture表示，这些AI仿作“让我为所有在我们的视频上倾注大量心血的人感到难过”。"
               },
               {
                 "t": "p",
-                "x": "该工会于周二发起倡导活动“Human Made, Human Paid”，为11月重新谈判Sound Recording Labor Agreement（SRLA）做准备。AFM希望Universal、Sony、Warner和Hollywood Records（Disney）给予音乐人批准或拒绝将其音乐用于训练AI模型的权利、透明的署名，以及针对AI使用和唱片公司授权交易的报酬。"
+                "x": "预算“非常、非常、非常、非常低”，他分文未取；舞者经过两个月的选角选出，与编舞Damien Jalet排练了三天，一镜到底的16毫米长镜头拍了约15次。"
               },
               {
                 "t": "p",
-                "x": "“唱片公司不能一边把建立在人类艺术创作之上的利润收入囊中，一边把一线音乐人排除在外。Human Made, Human Paid关乎同意、署名和报酬，”AFM International主席Tino Gagliardi说。"
+                "x": "“这样的潮流会让好作品也显得很逊，”他说。他正在研究法律途径，并拒绝了几家AI公司的授权邀约：“一种经济模式正在到来，我们不想成为其中一部分。”"
               },
               {
                 "t": "p",
-                "x": "工会表示，这些诉求并非要妖魔化AI，而是为了让音乐依然是可以维持生计的职业：“我们不想阻止技术进步……世界需要更多音乐，而不是更少。”"
+                "x": "这些仿作促使他在MTV VMAs上现场表演了《Storm》。“它们缺少Yung Lean的那股气场，”Gavras说，“人类的不完美之中有某种东西……它们还没完全做到。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Sindicato de músicos exige\nprotección AI a los sellos",
-          "body": "La campaña 'Human Made, Human Paid' de la AFM pide a los grandes sellos consentimiento, crédito y pago por AI.",
-          "mini_headline": "Sindicato de músicos pide reglas AI",
+          "headline": "Romain Gavras lamenta las\ncopias AI de su video 'Storm'",
+          "body": "Romain Gavras dijo a Vulture que las copias con AI de su video 'Storm' de Yung Lean lo entristecieron por el equipo.",
+          "mini_headline": "Gavras y las copias AI de 'Storm'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.rollingstone.com/wp-content/uploads/2026/10/afm-musicians-AI.jpg?crop=0px%2C14px%2C1800px%2C1014px&resize=1600%2C900",
-                "cap": "La American Federation of Musicians se manifiesta frente al Rockefeller Center de Nueva York."
+                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
               },
               {
                 "t": "p",
-                "x": "La American Federation of Musicians (AFM), el mayor sindicato de músicos de Estados Unidos (U.S.), con más de 80,000 artistas profesionales, pide a los grandes sellos salvaguardas contractuales ante el desarrollo de la tecnología AI."
+                "x": "Imitadores han “recreado” con AI “Storm”, el cortometraje de Romain Gavras con Yung Lean, poniendo en su lugar perros, bebés, abuelas, Elon Musk y otros. Gavras dijo a Vulture que las copias con AI “me entristecieron por toda la gente que puso tanto trabajo en nuestro video”."
               },
               {
                 "t": "p",
-                "x": "El martes lanzó “Human Made, Human Paid”, una campaña de defensa previa a la renegociación en noviembre del Sound Recording Labor Agreement (SRLA). La AFM quiere que Universal, Sony, Warner y Hollywood Records (Disney) concedan a los músicos el derecho a aprobar o rechazar el uso de su música para entrenar modelos de AI, créditos transparentes y pago tanto por el uso de AI como por los acuerdos de licencia de los sellos."
+                "x": "El presupuesto fue “muy, muy, muy, muy bajo” y él trabajó gratis; los bailarines salieron de un casting de dos meses, ensayaron tres días con el coreógrafo Damien Jalet, y la toma continua en 16 mm necesitó unos 15 intentos."
               },
               {
                 "t": "p",
-                "x": "“Las discográficas no pueden embolsarse beneficios construidos sobre el arte humano mientras dejan fuera de la ecuación a los músicos en activo. Human Made, Human Paid trata de consentimiento, crédito y compensación”, dijo el presidente de AFM International, Tino Gagliardi."
+                "x": "“Una tendencia así puede hacer que incluso un buen trabajo parezca mediocre”, dijo. Está explorando vías legales y rechazó ofertas de licencia de algunas empresas de AI: “Se acerca un modelo económico del que no queríamos formar parte”."
               },
               {
                 "t": "p",
-                "x": "El sindicato afirma que sus demandas no buscan demonizar la AI, sino mantener la música como una carrera viable: “No queremos frenar el avance de la tecnología… Necesitamos más música en el mundo, no menos”."
+                "x": "Las copias lo impulsaron a interpretar “Storm” en directo en los MTV VMAs. “Les falta el swagger de Yung Lean”, dijo Gavras. “Hay algo en la imperfección de la humanidad… que todavía no está del todo ahí”."
               }
             ]
           }
@@ -1311,15 +939,15 @@
       }
     },
     {
-      "id": "music-just4kicks-ethical-kick-generator",
+      "id": "music-nmpa-streaming-fraud",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Just 4 Noise,\n윤리적 AI 킥 생성기",
-      "body": "Just 4 Kicks는 직접 녹음한 음원으로 학습한 AI가 킥 샘플을 만든다.",
-      "mini_headline": "윤리적으로 학습한 킥 생성기",
+      "headline": "AI-fuelled 사기\n작곡가 몫 잠식: NMPA",
+      "body": "NMPA 회장은 AI-fuelled 스트리밍 사기가 작곡가 몫을 갉아먹는다고 했다.",
+      "mini_headline": "NMPA, AI 스트리밍 사기",
       "tool": "Music",
-      "source": "Music Ally",
-      "url": "https://musically.com/2026/10/20/just-4-noise-launches-ethically-trained-ai-kick-drum-generator/",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/pro/streaming-fraud-hurts-songwriters-find-solutions/",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -1327,125 +955,521 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
+            "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
           },
           {
             "t": "p",
-            "x": "Just 4 Noise가 AI 킥 드럼 샘플 생성기 Just 4 Kicks를 내놓았다. 킥 드럼 샘플이 얼마나 필요하냐에 따라 관심은 갈리겠지만, 이번 출시는 AI 음악에서 넓게 퍼지는 긍정적 흐름을 보여준다."
+            "x": "2028–2032년 작곡가 스트리밍 요율을 정할 Copyright Royalty Board 심리를 앞두고, NMPA 회장 겸 CEO David Israelite는 법원이 스트리밍 사기도 함께 다뤄야 한다고 주장한다. 사기 규모가 “막대하며 인공지능 때문에 더 심해졌다”는 이유에서다."
           },
           {
             "t": "p",
-            "x": "Just 4 Noise는 “처음부터 완전히 소유하고, 자체 제작하고, 선별한 오디오 데이터”로 AI 모델을 학습시켰다고 밝혔다. 윤리 원칙을 지키려고 몇 달에 걸쳐 전 세계 스튜디오에서 이 데이터셋을 녹음했다."
+            "x": "로열티는 재생 횟수대로 나누는 고정 수익 풀에서 나온다. 사기 스트림이 늘면 사람 작곡가 몫이 그만큼 줄어드는 구조다. AI 곡 수십만 개를 만들어 수십억 회 재생시킨 Michael Smith는 18개월 형을 받았다. Apple Music은 2025년에 사기 스트림 2 billion 건을 잡아냈고, Deezer는 완전히 AI-generated 트랙이 하루 90,000곡씩 올라오며 그 스트림의 최대 85%가 인위적이라고 밝혔다."
+          },
+          {
+            "t": "p",
+            "x": "Israelite는 가짜 스트림을 이용한 자금 세탁과 예측 시장 조작도 짚으며, AI 음악을 둘러싼 플랫폼의 불투명성을 문제 삼는다."
+          },
+          {
+            "t": "p",
+            "x": "NMPA는 이번 주 내슈빌에서 Songs Summit을 열고 AI 표기와 사용 보고, 탐지 기준을 마련한다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Just 4 Noise launches an\nethically trained kick maker",
-          "body": "Just 4 Noise's Just 4 Kicks generates AI kick-drum samples from a model trained on audio it recorded in-house.",
-          "mini_headline": "An ethically trained kick maker",
+          "headline": "NMPA chief: AI-fuelled fraud\nis draining songwriter pay",
+          "body": "David Israelite of the NMPA says AI-fuelled streaming fraud drains songwriter royalties and needs industry solutions.",
+          "mini_headline": "NMPA on AI stream fraud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
+                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "Just 4 Noise has launched Just 4 Kicks, an AI kick-drum sample generator. Your interest level will depend on how much use you have for kick-drum samples, but the launch reflects a wider, positive trend in AI music."
+                "x": "Ahead of the Copyright Royalty Board trial on songwriter streaming rates for 2028–2032, NMPA president and CEO David Israelite argues the court must also confront streaming fraud, whose scale is “enormous and exacerbated by artificial intelligence.”"
               },
               {
                 "t": "p",
-                "x": "Just 4 Noise says it trained the AI model on “fully owned, in-house created and curated audio data from the outset” – recording that dataset in studios around the world over a period of months to stick to its ethical principles."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Just 4 Noise,\n윤리적 AI 킥 생성기",
-          "body": "Just 4 Kicks는 직접 녹음한 음원으로 학습한 AI가 킥 샘플을 만든다.",
-          "mini_headline": "윤리적으로 학습한 킥 생성기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
+                "x": "Because royalties come from a fixed revenue pool split by plays, fraudulent streams directly cut what human songwriters receive. Michael Smith, who made hundreds of thousands of AI songs streamed billions of times, was sentenced to 18 months. Apple Music found 2 billion fraudulent streams in 2025, and Deezer reports 90,000 fully AI-generated tracks uploaded daily, with up to 85% of their streams artificial."
               },
               {
                 "t": "p",
-                "x": "Just 4 Noise가 AI 킥 드럼 샘플 생성기 Just 4 Kicks를 내놓았다. 킥 드럼 샘플이 얼마나 필요하냐에 따라 관심은 갈리겠지만, 이번 출시는 AI 음악에서 넓게 퍼지는 긍정적 흐름을 보여준다."
+                "x": "Israelite also flags money laundering via fake streams and prediction-market manipulation, and blames platforms’ lack of transparency on AI music."
               },
               {
                 "t": "p",
-                "x": "Just 4 Noise는 “처음부터 완전히 소유하고, 자체 제작하고, 선별한 오디오 데이터”로 AI 모델을 학습시켰다고 밝혔다. 윤리 원칙을 지키려고 몇 달에 걸쳐 전 세계 스튜디오에서 이 데이터셋을 녹음했다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Just 4 Noise、\n倫理的なAIキック生成",
-          "body": "Just 4 NoiseのJust 4 Kicksは自社録音で学習したAIでキックを作る。",
-          "mini_headline": "倫理的に学習したキック生成AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "Just 4 Noiseが、AIキックドラム・サンプル生成ツールJust 4 Kicksを発売した。どれだけ関心を持つかはキックドラムのサンプルをどれほど使うか次第だが、この発売はAI音楽におけるより広く前向きな流れを映している。"
-              },
-              {
-                "t": "p",
-                "x": "Just 4 Noiseによると、AIモデルは「当初から完全に自社所有で、自社で制作・選別したオーディオデータ」で学習させた。倫理原則を守るため、数カ月かけて世界各地のスタジオでこのデータセットを録音したという。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Just 4 Noise推出\n合乎伦理的AI底鼓生成器",
-          "body": "Just 4 Noise的Just 4 Kicks用自录音频训练的模型生成AI底鼓采样。",
-          "mini_headline": "合乎伦理训练的底鼓生成器",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
-              },
-              {
-                "t": "p",
-                "x": "Just 4 Noise推出了AI底鼓采样生成器Just 4 Kicks。你对它的兴趣有多大，取决于你对底鼓采样有多少需求，但这次发布反映了AI音乐中一个更广泛的积极趋势。"
-              },
-              {
-                "t": "p",
-                "x": "Just 4 Noise表示，它用“从一开始就完全自有、内部制作并精心整理的音频数据”训练了这个AI模型——为坚守其伦理原则，该公司花了数月时间在世界各地的录音室录制了这个数据集。"
+                "x": "The NMPA will convene a Songs Summit in Nashville this week to set standards on AI labeling, usage reporting and detection."
               }
             ]
           }
         },
         "es": {
-          "headline": "Just 4 Noise lanza un creador\nde bombos entrenado con ética",
-          "body": "Just 4 Kicks, de Just 4 Noise, genera muestras de bombo con un modelo AI entrenado con audio grabado internamente.",
-          "mini_headline": "Un creador de bombos entrenado con ética",
+          "headline": "Jefe de NMPA: fraude AI-fuelled\nmerma el pago a compositores",
+          "body": "David Israelite, de la NMPA, dice que el fraude en streaming AI-fuelled recorta las regalías de los compositores.",
+          "mini_headline": "La NMPA y el fraude AI en streaming",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
+                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
               },
               {
                 "t": "p",
-                "x": "Just 4 Noise ha lanzado Just 4 Kicks, un generador de muestras de bombo con AI. El interés que despierte dependerá de cuánto uso le dé cada uno a las muestras de bombo, pero el lanzamiento refleja una tendencia más amplia y positiva en la música hecha con AI."
+                "x": "Antes del juicio ante la Copyright Royalty Board sobre las tarifas de streaming para compositores de 2028–2032, el presidente y CEO de la NMPA, David Israelite, sostiene que el tribunal también debe abordar el fraude en streaming, cuya escala es “enorme y agravada por la inteligencia artificial”."
               },
               {
                 "t": "p",
-                "x": "Just 4 Noise afirma que entrenó el modelo AI con “datos de audio totalmente propios, creados y seleccionados internamente desde el principio”, y que grabó ese conjunto de datos en estudios de todo el mundo durante meses para ceñirse a sus principios éticos."
+                "x": "Como las regalías salen de un fondo fijo de ingresos repartido según las reproducciones, los streams fraudulentos reducen directamente lo que reciben los compositores humanos. Michael Smith, que creó cientos de miles de canciones con AI reproducidas miles de millones de veces, fue condenado a 18 meses. Apple Music detectó 2 mil millones de streams fraudulentos en 2025, y Deezer informa de 90,000 pistas totalmente AI-generated subidas cada día, con hasta un 85% de sus streams artificiales."
+              },
+              {
+                "t": "p",
+                "x": "Israelite también señala el lavado de dinero mediante streams falsos y la manipulación de mercados de predicción, y culpa a la falta de transparencia de las plataformas sobre la música con AI."
+              },
+              {
+                "t": "p",
+                "x": "La NMPA celebrará esta semana una Songs Summit en Nashville para fijar estándares de etiquetado de AI, reporte de uso y detección."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI-fuelled 사기\n작곡가 몫 잠식: NMPA",
+          "body": "NMPA 회장은 AI-fuelled 스트리밍 사기가 작곡가 몫을 갉아먹는다고 했다.",
+          "mini_headline": "NMPA, AI 스트리밍 사기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "2028–2032년 작곡가 스트리밍 요율을 정할 Copyright Royalty Board 심리를 앞두고, NMPA 회장 겸 CEO David Israelite는 법원이 스트리밍 사기도 함께 다뤄야 한다고 주장한다. 사기 규모가 “막대하며 인공지능 때문에 더 심해졌다”는 이유에서다."
+              },
+              {
+                "t": "p",
+                "x": "로열티는 재생 횟수대로 나누는 고정 수익 풀에서 나온다. 사기 스트림이 늘면 사람 작곡가 몫이 그만큼 줄어드는 구조다. AI 곡 수십만 개를 만들어 수십억 회 재생시킨 Michael Smith는 18개월 형을 받았다. Apple Music은 2025년에 사기 스트림 2 billion 건을 잡아냈고, Deezer는 완전히 AI-generated 트랙이 하루 90,000곡씩 올라오며 그 스트림의 최대 85%가 인위적이라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Israelite는 가짜 스트림을 이용한 자금 세탁과 예측 시장 조작도 짚으며, AI 음악을 둘러싼 플랫폼의 불투명성을 문제 삼는다."
+              },
+              {
+                "t": "p",
+                "x": "NMPA는 이번 주 내슈빌에서 Songs Summit을 열고 AI 표기와 사용 보고, 탐지 기준을 마련한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-fuelled不正が\n作曲家報酬を削る：NMPA",
+          "body": "NMPA会長はAI-fuelledの再生不正が作曲家の印税を奪い、業界の対策が要ると語る。",
+          "mini_headline": "NMPAとAI再生不正",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "2028–2032年の作曲家向けストリーミング料率を決めるCopyright Royalty Boardの審理を前に、NMPAの会長兼CEOのDavid Israeliteは、裁判所がストリーミング不正にも向き合うべきだと主張する。その規模は「膨大で、人工知能によって悪化している」という。"
+              },
+              {
+                "t": "p",
+                "x": "印税は再生数で分ける固定の収益プールから支払われるため、不正なストリームは人間の作曲家の取り分を直接削る。数十万曲のAI楽曲を作り、数十億回再生させたMichael Smithには18か月の刑が言い渡された。Apple Musicは2025年に2 billion件の不正ストリームを検出し、Deezerによれば完全にAI-generatedの楽曲が毎日90,000曲アップロードされ、その再生の最大85%が人為的なものだという。"
+              },
+              {
+                "t": "p",
+                "x": "Israeliteは偽ストリームを使った資金洗浄や予測市場の操作にも触れ、AI音楽をめぐるプラットフォームの透明性の欠如を批判する。"
+              },
+              {
+                "t": "p",
+                "x": "NMPAは今週ナッシュビルでSongs Summitを開き、AIの表示、利用報告、検出に関する基準づくりを進める。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI-fuelled欺诈\n侵蚀词曲作者收入：NMPA",
+          "body": "NMPA负责人称，AI-fuelled流媒体欺诈正侵蚀词曲作者版税，需业界解决。",
+          "mini_headline": "NMPA谈AI流媒体欺诈",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "在Copyright Royalty Board就2028–2032年词曲作者流媒体费率开庭审理前，NMPA总裁兼CEO David Israelite主张，法庭也必须正视流媒体欺诈问题，其规模“巨大，且因人工智能而加剧”。"
+              },
+              {
+                "t": "p",
+                "x": "由于版税来自按播放量分配的固定收入池，欺诈播放会直接削减人类词曲作者的收入。制作了数十万首AI歌曲、播放量达数十亿次的Michael Smith被判处18个月刑期。Apple Music在2025年发现了2 billion次欺诈播放；Deezer称每天有90,000首完全AI-generated的曲目被上传，其中高达85%的播放为人为制造。"
+              },
+              {
+                "t": "p",
+                "x": "Israelite还指出了借虚假播放洗钱和操纵预测市场的问题，并批评平台在AI音乐方面缺乏透明度。"
+              },
+              {
+                "t": "p",
+                "x": "NMPA本周将在纳什维尔召开Songs Summit，为AI标注、使用报告和检测制定标准。"
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "es": {
+          "headline": "Jefe de NMPA: fraude AI-fuelled\nmerma el pago a compositores",
+          "body": "David Israelite, de la NMPA, dice que el fraude en streaming AI-fuelled recorta las regalías de los compositores.",
+          "mini_headline": "La NMPA y el fraude AI en streaming",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "Antes del juicio ante la Copyright Royalty Board sobre las tarifas de streaming para compositores de 2028–2032, el presidente y CEO de la NMPA, David Israelite, sostiene que el tribunal también debe abordar el fraude en streaming, cuya escala es “enorme y agravada por la inteligencia artificial”."
+              },
+              {
+                "t": "p",
+                "x": "Como las regalías salen de un fondo fijo de ingresos repartido según las reproducciones, los streams fraudulentos reducen directamente lo que reciben los compositores humanos. Michael Smith, que creó cientos de miles de canciones con AI reproducidas miles de millones de veces, fue condenado a 18 meses. Apple Music detectó 2 mil millones de streams fraudulentos en 2025, y Deezer informa de 90,000 pistas totalmente AI-generated subidas cada día, con hasta un 85% de sus streams artificiales."
+              },
+              {
+                "t": "p",
+                "x": "Israelite también señala el lavado de dinero mediante streams falsos y la manipulación de mercados de predicción, y culpa a la falta de transparencia de las plataformas sobre la música con AI."
+              },
+              {
+                "t": "p",
+                "x": "La NMPA celebrará esta semana una Songs Summit en Nashville para fijar estándares de etiquetado de AI, reporte de uso y detección."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "AI-fuelled 사기\n작곡가 몫 잠식: NMPA",
+          "body": "NMPA 회장은 AI-fuelled 스트리밍 사기가 작곡가 몫을 빼앗는다고 본다.",
+          "mini_headline": "NMPA, AI 스트리밍 사기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "2028–2032년 작곡가 스트리밍 요율을 정하는 Copyright Royalty Board 심리를 앞두고, NMPA 회장 겸 CEO David Israelite는 법원이 스트리밍 사기도 함께 다뤄야 한다고 주장한다. 그 규모가 “막대하며 인공지능 때문에 더 심해졌다”는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "로열티는 재생 횟수에 따라 나누는 고정 수익 풀에서 나오기 때문에, 사기 스트림은 사람 작곡가가 받는 몫을 그대로 깎는다. AI 곡 수십만 개를 만들어 수십억 회 재생시킨 Michael Smith는 18개월 형을 선고받았다. Apple Music은 2025년에 사기 스트림 2 billion 건을 찾아냈고, Deezer는 완전히 AI-generated 트랙이 매일 90,000곡 올라오며 그 스트림의 최대 85%가 인위적이라고 밝혔다."
+              },
+              {
+                "t": "p",
+                "x": "Israelite는 가짜 스트림을 이용한 자금 세탁과 예측 시장 조작도 지적하며, AI 음악에 관한 플랫폼의 불투명성을 문제 삼는다."
+              },
+              {
+                "t": "p",
+                "x": "NMPA는 이번 주 내슈빌에서 Songs Summit을 열어 AI 표기, 사용 보고, 탐지에 관한 기준을 마련한다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AI-fuelled不正が\n作曲家報酬を削る：NMPA",
+          "body": "NMPA会長はAI-fuelledの再生不正が作曲家の印税を奪い、業界の対策が要ると語る。",
+          "mini_headline": "NMPAとAI再生不正",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "2028–2032年の作曲家向けストリーミング料率を決めるCopyright Royalty Boardの審理を前に、NMPAの会長兼CEOのDavid Israeliteは、裁判所がストリーミング不正にも向き合うべきだと主張する。その規模は「膨大で、人工知能によって悪化している」という。"
+              },
+              {
+                "t": "p",
+                "x": "印税は再生数で分ける固定の収益プールから支払われるため、不正なストリームは人間の作曲家の取り分を直接削る。数十万曲のAI楽曲を作り、数十億回再生させたMichael Smithには18か月の刑が言い渡された。Apple Musicは2025年に2 billion件の不正ストリームを検出し、Deezerによれば完全にAI-generatedの楽曲が毎日90,000曲アップロードされ、その再生の最大85%が人為的なものだという。"
+              },
+              {
+                "t": "p",
+                "x": "Israeliteは偽ストリームを使った資金洗浄や予測市場の操作にも触れ、AI音楽をめぐるプラットフォームの透明性の欠如を批判する。"
+              },
+              {
+                "t": "p",
+                "x": "NMPAは今週ナッシュビルでSongs Summitを開き、AIの表示、利用報告、検出に関する基準づくりを進める。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI-fuelled欺诈\n侵蚀词曲作者收入：NMPA",
+          "body": "NMPA负责人称，AI-fuelled流媒体欺诈正侵蚀词曲作者版税，需业界解决。",
+          "mini_headline": "NMPA谈AI流媒体欺诈",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
+              },
+              {
+                "t": "p",
+                "x": "在Copyright Royalty Board就2028–2032年词曲作者流媒体费率开庭审理前，NMPA总裁兼CEO David Israelite主张，法庭也必须正视流媒体欺诈问题，其规模“巨大，且因人工智能而加剧”。"
+              },
+              {
+                "t": "p",
+                "x": "由于版税来自按播放量分配的固定收入池，欺诈播放会直接削减人类词曲作者的收入。制作了数十万首AI歌曲、播放量达数十亿次的Michael Smith被判处18个月刑期。Apple Music在2025年发现了2 billion次欺诈播放；Deezer称每天有90,000首完全AI-generated的曲目被上传，其中高达85%的播放为人为制造。"
+              },
+              {
+                "t": "p",
+                "x": "Israelite还指出了借虚假播放洗钱和操纵预测市场的问题，并批评平台在AI音乐方面缺乏透明度。"
+              },
+              {
+                "t": "p",
+                "x": "NMPA本周将在纳什维尔召开Songs Summit，为AI标注、使用报告和检测制定标准。"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "music-moises-soundcloud",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Moises의 AI 도구\nSoundCloud에 온다",
+      "body": "제휴로 Moises의 스템 분리·AI 믹싱이 SoundCloud 배포와 이어진다.",
+      "mini_headline": "Moises, SoundCloud와 제휴",
+      "tool": "Music",
+      "source": "PR Newswire (via Yahoo Finance)",
+      "url": "https://finance.yahoo.com/technology/ai/articles/moises-soundcloud-partner-bring-ai-142300209.html",
+      "accent": "#f5a623",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+            "cap": "Moises x SoundCloud"
+          },
+          {
+            "t": "p",
+            "x": "뮤지션 80 million 명이 쓰는, 윤리적으로 학습한 AI-powered 크리에이티브 제품군 Moises가 10월 21일 SoundCloud와 제휴를 발표했다. 아티스트는 SoundCloud 트랙을 Moises로 가져와 연습·프로듀싱·협업을 하고 새롭게 재해석한 뒤, 완성곡을 SoundCloud에 바로 다시 올릴 수 있다."
+          },
+          {
+            "t": "p",
+            "x": "아티스트는 Moises의 스템 분리와 코드·가사 감지를 쓰고, 웹 기반 Moises Studio에서 트랙을 열어 믹싱·마스터링하거나 맥락 기반 스템 생성으로 재해석할 수 있다. 협업자를 실시간으로 부를 수도 있고, 세션을 세팅하고 요구대로 믹싱·마스터링까지 해 주는 에이전트형 프로덕션 어시스턴트 Moi와 작업할 수도 있다."
+          },
+          {
+            "t": "img",
+            "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+            "cap": "Moises x SoundCloud 연동"
+          },
+          {
+            "t": "p",
+            "x": "SoundCloud CEO Eliah는 “음악 속 AI의 미래는 아티스트와 사람이 먼저여야 한다고 믿는다”고 말했다. SoundCloud는 아티스트가 명시적으로 동의하지 않는 한 그들의 음악을 생성형 AI 모델 학습에 쓰지 않는다고 밝혔다. Moises는 사용자 업로드가 아니라 라이선스를 받고 허가된 음악으로만 모델을 학습했고, 자사 도구가 완성곡을 만들어 내지는 않는다고 설명한다."
+          },
+          {
+            "t": "p",
+            "x": "Moises Pro 구독자는 SoundCloud Artist Pro를, SoundCloud Artist Pro 회원은 Moises Pro를 각각 2개월간 써 볼 수 있다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Moises brings AI music tools\nto SoundCloud artists",
+          "body": "A new partnership pairs Moises's stem separation, chord detection and AI mixing with SoundCloud distribution.",
+          "mini_headline": "Moises joins SoundCloud",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+                "cap": "Moises x SoundCloud"
+              },
+              {
+                "t": "p",
+                "x": "Moises, the ethically trained AI-powered creative suite used by 80 million musicians, and SoundCloud announced a partnership on Oct. 21 that lets artists bring their SoundCloud tracks into Moises to practice, produce, collaborate and reimagine them, then publish finished music directly back to SoundCloud."
+              },
+              {
+                "t": "p",
+                "x": "Artists can use Moises' stem separation, chord and lyric detection, open tracks in the web-based Moises Studio to mix, master or reimagine them with contextual stem generation, invite collaborators in real time, and work with Moi, an agentic production assistant that sets up sessions and mixes and masters to their requirements."
+              },
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+                "cap": "Moises x SoundCloud integration"
+              },
+              {
+                "t": "p",
+                "x": "\"We believe the future of AI in music should be artist-first and human-first,\" said Eliah, CEO of SoundCloud. SoundCloud says it does not use artists' music to train generative AI models without their explicit consent; Moises says its models are trained only on licensed and authorized music, not on user uploads, and its tools do not generate complete songs."
+              },
+              {
+                "t": "p",
+                "x": "Moises Pro subscribers get a 2-month trial of SoundCloud Artist Pro, and SoundCloud Artist Pro members get a 2-month trial of Moises Pro."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Moises의 AI 도구\nSoundCloud에 온다",
+          "body": "제휴로 Moises의 스템 분리·AI 믹싱이 SoundCloud 배포와 이어진다.",
+          "mini_headline": "Moises, SoundCloud와 제휴",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+                "cap": "Moises x SoundCloud"
+              },
+              {
+                "t": "p",
+                "x": "뮤지션 80 million 명이 쓰는, 윤리적으로 학습한 AI-powered 크리에이티브 제품군 Moises가 10월 21일 SoundCloud와 제휴를 발표했다. 아티스트는 SoundCloud 트랙을 Moises로 가져와 연습·프로듀싱·협업을 하고 새롭게 재해석한 뒤, 완성곡을 SoundCloud에 바로 다시 올릴 수 있다."
+              },
+              {
+                "t": "p",
+                "x": "아티스트는 Moises의 스템 분리와 코드·가사 감지를 쓰고, 웹 기반 Moises Studio에서 트랙을 열어 믹싱·마스터링하거나 맥락 기반 스템 생성으로 재해석할 수 있다. 협업자를 실시간으로 부를 수도 있고, 세션을 세팅하고 요구대로 믹싱·마스터링까지 해 주는 에이전트형 프로덕션 어시스턴트 Moi와 작업할 수도 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+                "cap": "Moises x SoundCloud 연동"
+              },
+              {
+                "t": "p",
+                "x": "SoundCloud CEO Eliah는 “음악 속 AI의 미래는 아티스트와 사람이 먼저여야 한다고 믿는다”고 말했다. SoundCloud는 아티스트가 명시적으로 동의하지 않는 한 그들의 음악을 생성형 AI 모델 학습에 쓰지 않는다고 밝혔다. Moises는 사용자 업로드가 아니라 라이선스를 받고 허가된 음악으로만 모델을 학습했고, 자사 도구가 완성곡을 만들어 내지는 않는다고 설명한다."
+              },
+              {
+                "t": "p",
+                "x": "Moises Pro 구독자는 SoundCloud Artist Pro를, SoundCloud Artist Pro 회원은 Moises Pro를 각각 2개월간 써 볼 수 있다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "MoisesのAI音楽ツール\nSoundCloudへ",
+          "body": "新提携で、Moisesのステム分離やAIミックスがSoundCloud配信とつながる。",
+          "mini_headline": "MoisesとSoundCloudが提携",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+                "cap": "Moises x SoundCloud"
+              },
+              {
+                "t": "p",
+                "x": "80 million人のミュージシャンが使う、倫理的に学習されたAI-poweredのクリエイティブスイートMoisesとSoundCloudは10月21日、提携を発表した。アーティストはSoundCloudのトラックをMoisesに取り込んで練習、制作、共同作業、再解釈を行い、完成した楽曲をそのままSoundCloudで公開できる。"
+              },
+              {
+                "t": "p",
+                "x": "アーティストはMoisesのステム分離、コードと歌詞の検出を使えるほか、ウェブベースのMoises Studioでトラックを開いてミックスやマスタリングを行い、文脈に応じたステム生成で再解釈することもできる。共同制作者をリアルタイムで招待し、セッションの準備から要望どおりのミックスとマスタリングまでこなすエージェント型制作アシスタントMoiと作業することも可能だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+                "cap": "Moises x SoundCloudの連携"
+              },
+              {
+                "t": "p",
+                "x": "SoundCloudのCEOであるEliahは「音楽におけるAIの未来は、アーティストファースト、ヒューマンファーストであるべきだと考えている」と述べた。SoundCloudは、明示的な同意なしにアーティストの音楽を生成AIモデルの学習に使わないとしている。Moisesは、自社モデルはユーザーのアップロードではなく、ライセンスを得た許諾済みの音楽だけで学習しており、ツールが完全な楽曲を生成することはないと説明する。"
+              },
+              {
+                "t": "p",
+                "x": "Moises Proの加入者はSoundCloud Artist Proを2か月間試用でき、SoundCloud Artist Proの会員はMoises Proを2か月間試用できる。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Moises把AI音乐工具\n带给SoundCloud艺人",
+          "body": "新合作将Moises的分轨分离、和弦识别与AI混音同SoundCloud发行结合起来。",
+          "mini_headline": "Moises携手SoundCloud",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+                "cap": "Moises x SoundCloud"
+              },
+              {
+                "t": "p",
+                "x": "Moises是一款经过合乎伦理训练的AI-powered创作套件，拥有80 million名音乐人用户。它与SoundCloud于10月21日宣布合作，艺人可将SoundCloud上的曲目导入Moises进行练习、制作、协作和再创作，再把完成的音乐直接发布回SoundCloud。"
+              },
+              {
+                "t": "p",
+                "x": "艺人可以使用Moises的分轨分离、和弦与歌词识别功能，在网页版Moises Studio中打开曲目进行混音、母带处理，或借助情境化分轨生成进行再创作；还能实时邀请协作者，并与智能体式制作助手Moi合作，它能搭建工程，并按要求完成混音和母带处理。"
+              },
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+                "cap": "Moises x SoundCloud集成"
+              },
+              {
+                "t": "p",
+                "x": "SoundCloud CEO Eliah表示：“我们相信，音乐领域AI的未来应当以艺人为先、以人为先。”SoundCloud称，未经艺人明确同意，不会用其音乐训练生成式AI模型；Moises称，其模型只使用经授权和许可的音乐训练，而非用户上传内容，其工具也不会生成完整歌曲。"
+              },
+              {
+                "t": "p",
+                "x": "Moises Pro订阅用户可获得2个月的SoundCloud Artist Pro试用，SoundCloud Artist Pro会员可获得2个月的Moises Pro试用。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Moises lleva herramientas AI\na los artistas de SoundCloud",
+          "body": "Una alianza une separación de stems, detección de acordes y mezcla AI de Moises con la distribución de SoundCloud.",
+          "mini_headline": "Moises se une a SoundCloud",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+                "cap": "Moises x SoundCloud"
+              },
+              {
+                "t": "p",
+                "x": "Moises, la suite creativa AI-powered entrenada de forma ética que usan 80 millones de músicos, y SoundCloud anunciaron el 21 de octubre una alianza que permite a los artistas llevar sus pistas de SoundCloud a Moises para practicar, producir, colaborar y reinterpretarlas, y luego publicar la música terminada directamente en SoundCloud."
+              },
+              {
+                "t": "p",
+                "x": "Los artistas pueden usar la separación de stems y la detección de acordes y letras de Moises, abrir pistas en Moises Studio, basado en la web, para mezclarlas, masterizarlas o reinterpretarlas con generación contextual de stems, invitar a colaboradores en tiempo real y trabajar con Moi, un asistente de producción agéntico que prepara sesiones y mezcla y masteriza según sus requisitos."
+              },
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+                "cap": "Integración Moises x SoundCloud"
+              },
+              {
+                "t": "p",
+                "x": "\"Creemos que el futuro de la AI en la música debe poner primero al artista y al ser humano\", dijo Eliah, CEO de SoundCloud. SoundCloud afirma que no usa la música de los artistas para entrenar modelos de AI generativa sin su consentimiento explícito; Moises dice que sus modelos se entrenan solo con música licenciada y autorizada, no con contenido subido por usuarios, y que sus herramientas no generan canciones completas."
+              },
+              {
+                "t": "p",
+                "x": "Los suscriptores de Moises Pro obtienen una prueba de 2 meses de SoundCloud Artist Pro, y los miembros de SoundCloud Artist Pro, una prueba de 2 meses de Moises Pro."
               }
             ]
           }
@@ -1453,89 +1477,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Just 4 Noise,\n윤리적 AI 킥 생성기",
-          "body": "Just 4 Kicks는 자체 녹음 음원으로 학습한 AI로 킥 샘플을 만든다.",
-          "mini_headline": "윤리적으로 학습한 킥 생성기",
+          "headline": "Moises의 AI 도구\nSoundCloud에 온다",
+          "body": "제휴로 Moises의 스템 분리·AI 믹싱이 SoundCloud 배포와 만난다.",
+          "mini_headline": "Moises, SoundCloud와 제휴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
+                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+                "cap": "Moises x SoundCloud"
               },
               {
                 "t": "p",
-                "x": "Just 4 Noise가 AI 킥 드럼 샘플 생성기 Just 4 Kicks를 출시했다. 킥 드럼 샘플이 얼마나 필요한지에 따라 관심도는 다르겠지만, 이번 출시는 AI 음악에서 더 넓게 나타나는 긍정적 흐름을 보여준다."
+                "x": "80 million 명의 뮤지션이 쓰는, 윤리적으로 학습된 AI-powered 크리에이티브 제품군 Moises와 SoundCloud가 10월 21일 제휴를 발표했다. 아티스트는 SoundCloud 트랙을 Moises로 가져와 연습하고, 프로듀싱하고, 협업하고, 새롭게 재해석한 뒤 완성곡을 SoundCloud에 바로 다시 올릴 수 있다."
               },
               {
                 "t": "p",
-                "x": "Just 4 Noise는 “처음부터 완전히 소유하고, 자체 제작하고, 선별한 오디오 데이터”로 AI 모델을 학습시켰다고 밝혔다. 윤리 원칙을 지키려고 몇 달에 걸쳐 전 세계 스튜디오에서 이 데이터셋을 녹음했다."
+                "x": "아티스트는 Moises의 스템 분리와 코드·가사 감지를 쓰고, 웹 기반 Moises Studio에서 트랙을 열어 믹싱·마스터링하거나 맥락 기반 스템 생성으로 재해석할 수 있다. 협업자를 실시간으로 초대하고, 세션을 세팅하고 요구에 맞춰 믹싱·마스터링까지 해 주는 에이전트형 프로덕션 어시스턴트 Moi와 함께 작업할 수도 있다."
+              },
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+                "cap": "Moises x SoundCloud 연동"
+              },
+              {
+                "t": "p",
+                "x": "SoundCloud CEO Eliah는 “음악 속 AI의 미래는 아티스트와 사람이 먼저여야 한다고 믿는다”고 말했다. SoundCloud는 아티스트의 명시적 동의 없이 그들의 음악을 생성형 AI 모델 학습에 쓰지 않는다고 밝혔다. Moises는 자사 모델이 사용자 업로드가 아닌, 라이선스를 받고 허가된 음악으로만 학습했으며 자사 도구는 완성된 곡을 생성하지 않는다고 설명한다."
+              },
+              {
+                "t": "p",
+                "x": "Moises Pro 구독자는 SoundCloud Artist Pro를 2개월간 체험할 수 있고, SoundCloud Artist Pro 회원은 Moises Pro를 2개월간 체험할 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Just 4 Noise、\n倫理的なAIキック生成",
-          "body": "Just 4 NoiseのJust 4 Kicksは自社録音で学習したAIでキックを作る。",
-          "mini_headline": "倫理的に学習したキック生成AI",
+          "headline": "MoisesのAI音楽ツール\nSoundCloudへ",
+          "body": "新提携で、Moisesのステム分離やAIミックスがSoundCloud配信とつながる。",
+          "mini_headline": "MoisesとSoundCloudが提携",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
+                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+                "cap": "Moises x SoundCloud"
               },
               {
                 "t": "p",
-                "x": "Just 4 Noiseが、AIキックドラム・サンプル生成ツールJust 4 Kicksを発売した。どれだけ関心を持つかはキックドラムのサンプルをどれほど使うか次第だが、この発売はAI音楽におけるより広く前向きな流れを映している。"
+                "x": "80 million人のミュージシャンが使う、倫理的に学習されたAI-poweredのクリエイティブスイートMoisesとSoundCloudは10月21日、提携を発表した。アーティストはSoundCloudのトラックをMoisesに取り込んで練習、制作、共同作業、再解釈を行い、完成した楽曲をそのままSoundCloudで公開できる。"
               },
               {
                 "t": "p",
-                "x": "Just 4 Noiseによると、AIモデルは「当初から完全に自社所有で、自社で制作・選別したオーディオデータ」で学習させた。倫理原則を守るため、数カ月かけて世界各地のスタジオでこのデータセットを録音したという。"
+                "x": "アーティストはMoisesのステム分離、コードと歌詞の検出を使えるほか、ウェブベースのMoises Studioでトラックを開いてミックスやマスタリングを行い、文脈に応じたステム生成で再解釈することもできる。共同制作者をリアルタイムで招待し、セッションの準備から要望どおりのミックスとマスタリングまでこなすエージェント型制作アシスタントMoiと作業することも可能だ。"
+              },
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+                "cap": "Moises x SoundCloudの連携"
+              },
+              {
+                "t": "p",
+                "x": "SoundCloudのCEOであるEliahは「音楽におけるAIの未来は、アーティストファースト、ヒューマンファーストであるべきだと考えている」と述べた。SoundCloudは、明示的な同意なしにアーティストの音楽を生成AIモデルの学習に使わないとしている。Moisesは、自社モデルはユーザーのアップロードではなく、ライセンスを得た許諾済みの音楽だけで学習しており、ツールが完全な楽曲を生成することはないと説明する。"
+              },
+              {
+                "t": "p",
+                "x": "Moises Proの加入者はSoundCloud Artist Proを2か月間試用でき、SoundCloud Artist Proの会員はMoises Proを2か月間試用できる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Just 4 Noise推出\n合乎伦理的AI底鼓生成器",
-          "body": "Just 4 Noise的Just 4 Kicks用自录音频训练的模型生成AI底鼓采样。",
-          "mini_headline": "合乎伦理训练的底鼓生成器",
+          "headline": "Moises把AI音乐工具\n带给SoundCloud艺人",
+          "body": "新合作将Moises的分轨分离、和弦识别与AI混音同SoundCloud发行结合起来。",
+          "mini_headline": "Moises携手SoundCloud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
+                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+                "cap": "Moises x SoundCloud"
               },
               {
                 "t": "p",
-                "x": "Just 4 Noise推出了AI底鼓采样生成器Just 4 Kicks。你对它的兴趣有多大，取决于你对底鼓采样有多少需求，但这次发布反映了AI音乐中一个更广泛的积极趋势。"
+                "x": "Moises是一款经过合乎伦理训练的AI-powered创作套件，拥有80 million名音乐人用户。它与SoundCloud于10月21日宣布合作，艺人可将SoundCloud上的曲目导入Moises进行练习、制作、协作和再创作，再把完成的音乐直接发布回SoundCloud。"
               },
               {
                 "t": "p",
-                "x": "Just 4 Noise表示，它用“从一开始就完全自有、内部制作并精心整理的音频数据”训练了这个AI模型——为坚守其伦理原则，该公司花了数月时间在世界各地的录音室录制了这个数据集。"
+                "x": "艺人可以使用Moises的分轨分离、和弦与歌词识别功能，在网页版Moises Studio中打开曲目进行混音、母带处理，或借助情境化分轨生成进行再创作；还能实时邀请协作者，并与智能体式制作助手Moi合作，它能搭建工程，并按要求完成混音和母带处理。"
+              },
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+                "cap": "Moises x SoundCloud集成"
+              },
+              {
+                "t": "p",
+                "x": "SoundCloud CEO Eliah表示：“我们相信，音乐领域AI的未来应当以艺人为先、以人为先。”SoundCloud称，未经艺人明确同意，不会用其音乐训练生成式AI模型；Moises称，其模型只使用经授权和许可的音乐训练，而非用户上传内容，其工具也不会生成完整歌曲。"
+              },
+              {
+                "t": "p",
+                "x": "Moises Pro订阅用户可获得2个月的SoundCloud Artist Pro试用，SoundCloud Artist Pro会员可获得2个月的Moises Pro试用。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Just 4 Noise lanza un creador\nde bombos entrenado con ética",
-          "body": "Just 4 Kicks, de Just 4 Noise, genera muestras de bombo con un modelo AI entrenado con audio grabado internamente.",
-          "mini_headline": "Un creador de bombos entrenado con ética",
+          "headline": "Moises lleva herramientas AI\na los artistas de SoundCloud",
+          "body": "Una alianza une separación de stems, detección de acordes y mezcla AI de Moises con la distribución de SoundCloud.",
+          "mini_headline": "Moises se une a SoundCloud",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i0.wp.com/musically.com/wp-content/uploads/2026/10/Copy-of-hero_color-scaled.jpg?fit=1024%2C565&ssl=1"
+                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+                "cap": "Moises x SoundCloud"
               },
               {
                 "t": "p",
-                "x": "Just 4 Noise ha lanzado Just 4 Kicks, un generador de muestras de bombo con AI. El interés que despierte dependerá de cuánto uso le dé cada uno a las muestras de bombo, pero el lanzamiento refleja una tendencia más amplia y positiva en la música hecha con AI."
+                "x": "Moises, la suite creativa AI-powered entrenada de forma ética que usan 80 millones de músicos, y SoundCloud anunciaron el 21 de octubre una alianza que permite a los artistas llevar sus pistas de SoundCloud a Moises para practicar, producir, colaborar y reinterpretarlas, y luego publicar la música terminada directamente en SoundCloud."
               },
               {
                 "t": "p",
-                "x": "Just 4 Noise afirma que entrenó el modelo AI con “datos de audio totalmente propios, creados y seleccionados internamente desde el principio”, y que grabó ese conjunto de datos en estudios de todo el mundo durante meses para ceñirse a sus principios éticos."
+                "x": "Los artistas pueden usar la separación de stems y la detección de acordes y letras de Moises, abrir pistas en Moises Studio, basado en la web, para mezclarlas, masterizarlas o reinterpretarlas con generación contextual de stems, invitar a colaboradores en tiempo real y trabajar con Moi, un asistente de producción agéntico que prepara sesiones y mezcla y masteriza según sus requisitos."
+              },
+              {
+                "t": "img",
+                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+                "cap": "Integración Moises x SoundCloud"
+              },
+              {
+                "t": "p",
+                "x": "\"Creemos que el futuro de la AI en la música debe poner primero al artista y al ser humano\", dijo Eliah, CEO de SoundCloud. SoundCloud afirma que no usa la música de los artistas para entrenar modelos de AI generativa sin su consentimiento explícito; Moises dice que sus modelos se entrenan solo con música licenciada y autorizada, no con contenido subido por usuarios, y que sus herramientas no generan canciones completas."
+              },
+              {
+                "t": "p",
+                "x": "Los suscriptores de Moises Pro obtienen una prueba de 2 meses de SoundCloud Artist Pro, y los miembros de SoundCloud Artist Pro, una prueba de 2 meses de Moises Pro."
               }
             ]
           }

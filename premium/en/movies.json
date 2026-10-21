@@ -8241,6 +8241,174 @@
           "x": "Split to Clips places speech, music, ambience and effects on the timeline as separate clips for turnover. The author's caveat: separation does not finish a mix. Treat it as the start of the mix, not the end."
         }
       ]
+    },
+    "movies/movies-axe-ai-commercial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
+        },
+        {
+          "t": "p",
+          "x": "In 2021, director Cassandra Brooksbank pitched to direct an AXE commercial developed at The Martin Agency: a guy on a New York subway whose enormous orange puffer jacket inflates until it unleashes a biblical amount of sweat onto horrified commuters. The project was shelved for budgetary reasons."
+        },
+        {
+          "t": "p",
+          "x": "Five years later, working as a creative director at Absurd, a collaborative AI filmmaking platform, she rebuilt it as For Days That Run Hot, a 60-second unofficial AXE spec commercial, approaching it like a real production: treatment, casting, wardrobe, locations, shot list and storyboards."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
+        },
+        {
+          "t": "p",
+          "x": "She cast about 20 distinct synthetic characters, using GPT Image 2.5 Sunburst for portraits and Uni 1.1 for multi-angle reference packs, and locked them in Absurd’s memory to keep them consistent. Video came mainly from Seedance 2.5, generated in sequences of 3–5 shots from a 48-shot list over roughly two days."
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
+        },
+        {
+          "t": "p",
+          "x": "She cut it in Premiere, and cinematographer Andrew Fletcher graded it in DaVinci Resolve and added film grain with Filmbox Pro. “AI can generate images. It can’t decide which images are worth making,” she writes."
+        }
+      ]
+    },
+    "movies/movies-cined-ai-editors-compared": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "A growing number of video editors are built around AI and open-source components, some by small teams or a single developer. cinemaOS is a Mac subscription app with an on-device assistant, CUTROOM is a free open-source editor that runs locally, and invideo puts an AI editing agent and dozens of generative models in the browser."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
+          "cap": "cinemaOS / Momentum Studios"
+        },
+        {
+          "t": "p",
+          "x": "cinemaOS (version 0.2, $9.99 per month) divides work into “rooms” that share one live project; its assistant J.A.R.E.D. runs transcription, translation and looks on the Mac with no credits."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
+          "cap": "CUTROOM"
+        },
+        {
+          "t": "p",
+          "x": "CUTROOM, MIT-licensed and in a 1.2 public beta for Windows and Mac, keeps AI optional: local transcription and drafts via downloadable models and Ollama, or the user’s own API key for a cloud provider."
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
+          "cap": "invideo"
+        },
+        {
+          "t": "p",
+          "x": "invideo’s Agent Two watches and logs every clip and edits on request, alongside video models such as Veo 3.1, Sora 2 and Kling, on credit plans from $10 per seat per month on annual billing."
+        },
+        {
+          "t": "p",
+          "x": "CineD concludes none of the three is a direct replacement for Premiere Pro, Final Cut Pro or DaVinci Resolve in professional work today; the pressure is on subscription pricing and short-form social content."
+        }
+      ]
+    },
+    "movies/movies-felix-film-genai-listing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+        },
+        {
+          "t": "p",
+          "x": "On Saturday, Japanese animation studio Felix Film edited its animator job listing for new graduates over the use of generative AI technology. The second requirement now asks for applicants who wish to use Blender and other 3D CG tools in key animation, and adds that the company is “studying how AI technology can be used as one of the technologies to support the work of creators in the studio.”"
+        },
+        {
+          "t": "p",
+          "x": "Before Saturday, the second requirement stated Felix Film is looking for applicants who “can create illustrations using Blender or image generative AI.” The listing is for applicants graduating from school next spring."
+        },
+        {
+          "t": "p",
+          "x": "In a statement posted Saturday, the studio said, “At this point, our company has not decided to implement generative AI for images in the studio, but we are studying its potential future use.” It emphasized twice that it wants to use the technology to support its creative talent, not replace them."
+        },
+        {
+          "t": "p",
+          "x": "“If we implement generative AI technology in the future, we will carefully consider the elements of the services and techniques used, the rights issues, and the effects on the studio,” Felix Film wrote."
+        }
+      ]
+    },
+    "movies/movies-waititi-ai-prompts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
+        },
+        {
+          "t": "p",
+          "x": "Taika Waititi’s adaptation of Kazuo Ishiguro’s novel Klara and the Sun, starring Jenna Ortega and Amy Adams, was developed years before AI arrived in full force. At the film’s New York special screening on Monday, the team told The Hollywood Reporter it’s a timely story about embracing our own humanity amid new technology."
+        },
+        {
+          "t": "p",
+          "x": "Ortega plays Klara, a solar-powered “Artificial Friend.” “Artificial intelligence doesn’t feel love; it doesn’t know anything about it,” she said."
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
+          "cap": "Jenna Ortega, Taika Waititi and Amy Adams at the special screening."
+        },
+        {
+          "t": "p",
+          "x": "Waititi said he “didn’t get into making film to sit by myself in a room and type in prompts to make a movie. That just seems so boring and lame to me. I want to interact with people.”"
+        },
+        {
+          "t": "p",
+          "x": "“I know it’s probably inevitable that we end up using it in our industry, but as long as it’s used by humans as a tool, as opposed to a replacement — I don’t want to replace humans. I want to work with them.” Klara and the Sun hits theaters on Friday."
+        }
+      ]
+    },
+    "movies/movies-sekondo-chatgpt-claude-adobe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Córdoba-based graphic designer Jose Manuel Fernández has launched Sekondo, a plugin that connects ChatGPT and Claude to six Adobe applications: After Effects, Premiere Pro, Photoshop, Illustrator, InDesign and Lightroom Classic."
+        },
+        {
+          "t": "p",
+          "x": "Instead of generating new images or clips, the AI works inside the artist’s own project. You describe what you need, typed or spoken, and it applies the changes to your layers, keyframes, compositions and timelines, with everything left editable."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Like at any studio, a good part of Fernández’s day went into repetitive work: adapting a piece to twenty formats, versioning, building the same lower thirds again and again. “These tasks are necessary, but they eat up hours I’d rather spend thinking up an idea. I built Sekondo to have more time to design.”"
+        },
+        {
+          "t": "p",
+          "x": "In Premiere Pro and After Effects, Sekondo can edit, animate and finish complete pieces with the artist’s own footage and under their direction, from the first cut to complex motion. Rather than handing back a finished clip that can’t be changed, it reads how a project is built, measures before it acts and keeps every layer editable."
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "The artist decides how far it goes: carrying out instructions, suggesting ideas and options, or building a whole piece from their idea. Files never leave the user’s computer."
+        },
+        {
+          "t": "p",
+          "x": "Sekondo is published on Adobe Exchange, Adobe’s official marketplace for these apps, after passing Adobe’s review. It runs on macOS and Windows with the Claude and ChatGPT desktop apps."
+        }
+      ]
     }
   }
 }

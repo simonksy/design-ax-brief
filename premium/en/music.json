@@ -8098,6 +8098,132 @@
           "x": "The firmwares are less tested than official ones. Elektron banned links to custom firmware from its forums, warning mods could brick machines, while M-Vave announced FM1 Open, an open-source firmware with a dev kit and flashing tool."
         }
       ]
+    },
+    "music/music-iamddb-ai-likeness": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
+        },
+        {
+          "t": "p",
+          "x": "IAMDDB has accused Israel's government-run social media account of “stealing her identity” after a figure closely resembling the Manchester artist appeared in an AI-generated propaganda video."
+        },
+        {
+          "t": "p",
+          "x": "The now-deleted clip, shared across Israel's official social media profiles on October 15, featured a woman resembling the Portuguese-born musician reciting lyrics such as: “Colonisers? Say the name. Jews from Judea, it's in the damn name.” According to the Manchester Evening News, it was created by Israeli-born, New Jersey-based director Eyal Be and captioned “'GO BACK WHERE YOU CAME FROM!' We did.”"
+        },
+        {
+          "t": "p",
+          "x": "Activist Rafael Shimunov spotted a 2018 Crack press shot of IAMDDB, real name Diana DeBrito, in a near-identical outfit; the BALR. and Calvin Klein logos had been altered by AI to read “RALA.” and “Calvin Kale.”"
+        },
+        {
+          "t": "p",
+          "x": "On October 16 IAMDDB wrote on X: “Hiya yeah so - why did you steal my identity for something I 100% did not consent to?”"
+        }
+      ]
+    },
+    "music/music-gavras-storm-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
+        },
+        {
+          "t": "p",
+          "x": "Copycats have “recreated” Romain Gavras’ “Storm,” his short film with Yung Lean, using AI, swapping in dogs, babies, grandmothers, Elon Musk and others. Gavras told Vulture the AI copies “made me sad for all the people who put in so much work on our video.”"
+        },
+        {
+          "t": "p",
+          "x": "The budget was “very, very, very, very low” and he worked for free; dancers came from a two-month casting search, rehearsed three days with choreographer Damien Jalet, and the unbroken 16-mm take needed about 15 tries."
+        },
+        {
+          "t": "p",
+          "x": "“A trend like this can make even good work look lame,” he said. He is exploring legal avenues, and declined licensing offers from a few AI companies: “There’s an economic model coming that we didn’t want to be a part of.”"
+        },
+        {
+          "t": "p",
+          "x": "The copies pushed him to perform “Storm” live at the MTV VMAs. “They’re missing the swagger of Yung Lean,” Gavras said. “There’s something in the imperfection of humanity… that’s not quite there yet.”"
+        }
+      ]
+    },
+    "music/music-nmpa-streaming-fraud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "Ahead of the Copyright Royalty Board trial on songwriter streaming rates for 2028–2032, NMPA president and CEO David Israelite argues the court must also confront streaming fraud, whose scale is “enormous and exacerbated by artificial intelligence.”"
+        },
+        {
+          "t": "p",
+          "x": "Because royalties come from a fixed revenue pool split by plays, fraudulent streams directly cut what human songwriters receive. Michael Smith, who made hundreds of thousands of AI songs streamed billions of times, was sentenced to 18 months. Apple Music found 2 billion fraudulent streams in 2025, and Deezer reports 90,000 fully AI-generated tracks uploaded daily, with up to 85% of their streams artificial."
+        },
+        {
+          "t": "p",
+          "x": "Israelite also flags money laundering via fake streams and prediction-market manipulation, and blames platforms’ lack of transparency on AI music."
+        },
+        {
+          "t": "p",
+          "x": "The NMPA will convene a Songs Summit in Nashville this week to set standards on AI labeling, usage reporting and detection."
+        }
+      ]
+    },
+    "music/music-moises-soundcloud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+          "cap": "Moises x SoundCloud"
+        },
+        {
+          "t": "p",
+          "x": "Moises, the ethically trained AI-powered creative suite used by 80 million musicians, and SoundCloud announced a partnership on Oct. 21 that lets artists bring their SoundCloud tracks into Moises to practice, produce, collaborate and reimagine them, then publish finished music directly back to SoundCloud."
+        },
+        {
+          "t": "p",
+          "x": "Artists can use Moises' stem separation, chord and lyric detection, open tracks in the web-based Moises Studio to mix, master or reimagine them with contextual stem generation, invite collaborators in real time, and work with Moi, an agentic production assistant that sets up sessions and mixes and masters to their requirements."
+        },
+        {
+          "t": "img",
+          "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+          "cap": "Moises x SoundCloud integration"
+        },
+        {
+          "t": "p",
+          "x": "\"We believe the future of AI in music should be artist-first and human-first,\" said Eliah, CEO of SoundCloud. SoundCloud says it does not use artists' music to train generative AI models without their explicit consent; Moises says its models are trained only on licensed and authorized music, not on user uploads, and its tools do not generate complete songs."
+        },
+        {
+          "t": "p",
+          "x": "Moises Pro subscribers get a 2-month trial of SoundCloud Artist Pro, and SoundCloud Artist Pro members get a 2-month trial of Moises Pro."
+        }
+      ]
+    },
+    "music/music-spotify-50m-slop-purge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That’s according to an announcement on Tuesday that says Spotify has also made changes to its recommendation system to highlight more music made by human artists."
+        },
+        {
+          "t": "p",
+          "x": "“Our editors hold the same standard and don’t program content identified as slop or spam,” Spotify says. “Since we made these changes, we’ve seen a marked decrease in listener concerns about this content showing up in recommendations.”"
+        },
+        {
+          "t": "p",
+          "x": "Though Spotify has stopped short of mandating labels on all AI tracks, it launched an “AI Persona” badge for artists that use an AI identity and don’t represent a real person. It also won’t recommend music from AI personas. Other platforms are taking a tougher stance: YouTube Music labels AI songs, Deezer lets users filter out AI slop, and Bandcamp bans AI music entirely."
+        },
+        {
+          "t": "p",
+          "x": "Spotify says it uses a combination of listener engagement and feedback, upload patterns, metadata, and third-party AI detection tools to determine whether a track may be AI-generated slop. Last year, the company said it took down more than 75 million songs identified as spam. It’s also partnering with Universal Music Group and Believe to launch a tool for creating AI music remixes."
+        }
+      ]
     }
   }
 }

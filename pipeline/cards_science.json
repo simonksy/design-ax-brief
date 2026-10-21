@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "science",
   "cards": [
     {
-      "id": "science-flip-lunar-supercomputer",
+      "id": "science-nz-rain",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "슈퍼컴퓨터가 FLIP 타고\n달로 간다",
-      "body": "달 탐사 로버 FLIP이 첫 슈퍼컴퓨터를 싣고 달 표면 작업에 AI를 쓴다.",
-      "mini_headline": "첫 슈퍼컴퓨터, 달로 간다",
+      "headline": "AI가 본 NZ 폭우\n온난화에 더 거세진다",
+      "body": "AI로 15,000+년 모사, NZ 100년 빈도 폭우는 1도당 약 9% 커진다.",
+      "mini_headline": "AI가 본 NZ 폭우 심화",
       "tool": "Science",
-      "source": "Space.com",
-      "url": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-10-ai-reveals-climate-nz-extreme.html",
       "accent": "#2ec5c5",
       "motif": "sphere",
       "full": {
@@ -19,209 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
-            "cap": "클린룸 안에 놓인 Astrolab의 FLIP 로버."
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+            "cap": "뉴질랜드(New Zealand)의 폭우. Credit: Roman Castillo from Pexels"
           },
           {
             "t": "p",
-            "x": "Astrolab은 올해 말 Astrobotic의 Griffin-1 미션으로 무인 로버 FLIP을 달 남극에 보낸다. 로버에는 HPE의 Spaceborne Computer-4가 실린다. 저전력 64-bit CPU와 GPU를 넣은 팬 없는 경량 모듈이고, 저장장치로 KIOXIA 솔리드스테이트 드라이브를 함께 쓴다."
+            "x": "Neelesh Rampal과 Steven Sherwood는 The Conversation 기고에서 생성형 AI로 뉴질랜드(New Zealand)의 가능한 여러 기후 미래를 폭 약 12 km 격자 위에 그려 냈다. 모델은 과거와 더 따뜻한 미래 조건을 아우르는 140년치 지역 기후 시뮬레이션으로 학습했다."
           },
           {
             "t": "p",
-            "x": "Astrolab CEO Jaret Matthews는 \"올해 말 HPE의 첫 슈퍼컴퓨터를 달 표면에 보내 달에서 첫 GPU를 돌리고 [또] 달에서 첫 AI 실험을 한다\"고 말했다. 달 표면에서 고성능 컴퓨팅과 AI를 시험하는 건 이번이 처음이다."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
-            "cap": "Astrolab 제공 이미지 (Image credit: Chelsea Gohd)"
+            "x": "이 AI는 특수 칩 네 개로 여섯 시간 만에 15,000년이 넘는 시뮬레이션 연도를 만들어 냈다. 온실가스 배출이 계속 늘어나는 세계를 가정하고 과거와 2100년까지의 가능한 미래를 다시 돌려 본 결과다."
           },
           {
             "t": "p",
-            "x": "이번 비행의 첫 과제는 컴퓨터가 극한 환경을 버티는지 확인하는 일이다. 컴퓨터는 시각 데이터 분석과 자율 관측을 맡고 항법, 지도 작성, 지형 분석도 처리한다. HPE는 AI 서비스 컨테이너가 확장 가능한 AI 애플리케이션을 달에서 선보인다고 밝혔다."
+            "x": "뉴질랜드(New Zealand) 전역 평균으로 보면 one-in-100-year(백 년에 한 번) 사건의 일 강수량은 기온이 한 도 오를 때마다 약 9%씩 늘었다. 더 잦은 폭우의 증가폭(약 5.6%)보다 빠르다. 지구가 따뜻해질수록 가장 드문 폭우가 더 거세진다."
           },
           {
             "t": "p",
-            "x": "실험 하나는 화성(Mars)에서 쓰던 JPL 위치 추정 프로그램이다. GPS가 없는 곳에서 머신러닝 알고리즘이 주변 지형을 저장된 지도와 맞춰 보고, 로버가 위험한 크레이터를 비켜 가도록 돕는다."
+            "x": "온난화는 덜 심한 미래와 더 심한 미래의 격차도 벌렸다. 더 심한 쪽에서는 극한 강우가 평균보다 훨씬 크게 늘었다. 연구는 Climate Dynamics에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "A supercomputer heads\nto the moon aboard FLIP",
-          "body": "The FLIP lunar rover will carry the first supercomputer to the moon, bringing onboard AI to surface operations.",
-          "mini_headline": "First supercomputer\nheads to the moon",
+          "headline": "AI shows NZ's worst downpours\nwill grow as the climate warms",
+          "body": "An AI model simulated 15,000+ years of NZ rain and found 1-in-100-year downpours grow about 9% per degree of warming.",
+          "mini_headline": "AI sees NZ downpours intensify",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
-                "cap": "Astrolab's FLIP rover in the clean room."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+                "cap": "Heavy rain in New Zealand. Credit: Roman Castillo from Pexels"
               },
               {
                 "t": "p",
-                "x": "Later this year, Astrolab will launch its uncrewed FLIP rover to the lunar south pole on Astrobotic's Griffin-1 mission. On board is HPE's Spaceborne Computer-4, a lightweight, fanless module with a low-power 64-bit CPU and a GPU, paired with KIOXIA solid-state drives."
+                "x": "Neelesh Rampal and Steven Sherwood, writing in The Conversation, used generative AI trained on 140 years of regional climate simulations, covering historical and warmer future conditions, to map many possible New Zealand climate futures on a grid about 12 km wide."
               },
               {
                 "t": "p",
-                "x": "\"We're sending the first supercomputer from HPE to the lunar surface later this year, doing the first GPU on the moon [and the] first AI experiments on the moon,\" Astrolab CEO Jaret Matthews said. It will be the first test of high-performance computing and AI on the lunar surface."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
-                "cap": "Images from Astrolab (Image credit: Chelsea Gohd)"
+                "x": "The AI produced more than 15,000 simulated years in six hours on four specialized chips, rerunning history and possible futures to 2100 in a world where greenhouse gas emissions keep rising."
               },
               {
                 "t": "p",
-                "x": "The flight will first test how the computer survives the extreme environment. It will also analyze visual data, enable autonomous observations and process navigation, mapping and terrain analysis; HPE says an AI services container will demonstrate scalable AI applications on the moon."
+                "x": "Averaged across New Zealand, daily rainfall in a one-in-100-year event rises by about 9% per degree of warming, faster than the roughly 5.6% for more frequent heavy rainfall: the rarest downpours become more intense as the planet warms."
               },
               {
                 "t": "p",
-                "x": "One experiment is a JPL localization program used on Mars: with no GPS, a machine learning algorithm matches local terrain to a stored map to keep the rover away from dangerous craters."
+                "x": "Warming also widened the gap between milder and more severe possible futures. In the more severe futures, extreme rainfall increased substantially more than the averages. The study is published in Climate Dynamics."
               }
             ]
           }
         },
         "ko": {
-          "headline": "슈퍼컴퓨터가 FLIP 타고\n달로 간다",
-          "body": "달 탐사 로버 FLIP이 첫 슈퍼컴퓨터를 싣고 달 표면 작업에 AI를 쓴다.",
-          "mini_headline": "첫 슈퍼컴퓨터, 달로 간다",
+          "headline": "AI가 본 NZ 폭우\n온난화에 더 거세진다",
+          "body": "AI로 15,000+년 모사, NZ 100년 빈도 폭우는 1도당 약 9% 커진다.",
+          "mini_headline": "AI가 본 NZ 폭우 심화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
-                "cap": "클린룸 안에 놓인 Astrolab의 FLIP 로버."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+                "cap": "뉴질랜드(New Zealand)의 폭우. Credit: Roman Castillo from Pexels"
               },
               {
                 "t": "p",
-                "x": "Astrolab은 올해 말 Astrobotic의 Griffin-1 미션으로 무인 로버 FLIP을 달 남극에 보낸다. 로버에는 HPE의 Spaceborne Computer-4가 실린다. 저전력 64-bit CPU와 GPU를 넣은 팬 없는 경량 모듈이고, 저장장치로 KIOXIA 솔리드스테이트 드라이브를 함께 쓴다."
+                "x": "Neelesh Rampal과 Steven Sherwood는 The Conversation 기고에서 생성형 AI로 뉴질랜드(New Zealand)의 가능한 여러 기후 미래를 폭 약 12 km 격자 위에 그려 냈다. 모델은 과거와 더 따뜻한 미래 조건을 아우르는 140년치 지역 기후 시뮬레이션으로 학습했다."
               },
               {
                 "t": "p",
-                "x": "Astrolab CEO Jaret Matthews는 \"올해 말 HPE의 첫 슈퍼컴퓨터를 달 표면에 보내 달에서 첫 GPU를 돌리고 [또] 달에서 첫 AI 실험을 한다\"고 말했다. 달 표면에서 고성능 컴퓨팅과 AI를 시험하는 건 이번이 처음이다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
-                "cap": "Astrolab 제공 이미지 (Image credit: Chelsea Gohd)"
+                "x": "이 AI는 특수 칩 네 개로 여섯 시간 만에 15,000년이 넘는 시뮬레이션 연도를 만들어 냈다. 온실가스 배출이 계속 늘어나는 세계를 가정하고 과거와 2100년까지의 가능한 미래를 다시 돌려 본 결과다."
               },
               {
                 "t": "p",
-                "x": "이번 비행의 첫 과제는 컴퓨터가 극한 환경을 버티는지 확인하는 일이다. 컴퓨터는 시각 데이터 분석과 자율 관측을 맡고 항법, 지도 작성, 지형 분석도 처리한다. HPE는 AI 서비스 컨테이너가 확장 가능한 AI 애플리케이션을 달에서 선보인다고 밝혔다."
+                "x": "뉴질랜드(New Zealand) 전역 평균으로 보면 one-in-100-year(백 년에 한 번) 사건의 일 강수량은 기온이 한 도 오를 때마다 약 9%씩 늘었다. 더 잦은 폭우의 증가폭(약 5.6%)보다 빠르다. 지구가 따뜻해질수록 가장 드문 폭우가 더 거세진다."
               },
               {
                 "t": "p",
-                "x": "실험 하나는 화성(Mars)에서 쓰던 JPL 위치 추정 프로그램이다. GPS가 없는 곳에서 머신러닝 알고리즘이 주변 지형을 저장된 지도와 맞춰 보고, 로버가 위험한 크레이터를 비켜 가도록 돕는다."
+                "x": "온난화는 덜 심한 미래와 더 심한 미래의 격차도 벌렸다. 더 심한 쪽에서는 극한 강우가 평균보다 훨씬 크게 늘었다. 연구는 Climate Dynamics에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スパコンがFLIPに\n乗って月へ",
-          "body": "月面ローバーFLIPが初のスーパーコンピューターを月へ運び、AIを地表活動に持ち込む。",
-          "mini_headline": "初のスパコン、月へ",
+          "headline": "AIが示すNZの豪雨\n温暖化でさらに激化",
+          "body": "AIでNZの雨を15,000+年分再現すると、100年に一度の豪雨は1度あたり約9%強まる。",
+          "mini_headline": "AIが見るNZ豪雨の激化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
-                "cap": "クリーンルーム内のAstrolabのFLIPローバー。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+                "cap": "ニュージーランド(New Zealand)の大雨。Credit: Roman Castillo from Pexels"
               },
               {
                 "t": "p",
-                "x": "Astrolabは年内に、AstroboticのGriffin-1ミッションで無人ローバーFLIPを月の南極へ打ち上げる。搭載するのはHPEのSpaceborne Computer-4だ。低消費電力の64-bit CPUとGPUを備えた軽量でファンのないモジュールで、KIOXIAのソリッドステートドライブと組み合わせる。"
+                "x": "Neelesh RampalとSteven SherwoodはThe Conversationへの寄稿で、過去と温暖化した将来の条件を含む140年分の地域気候シミュレーションで学習させた生成AIを使い、幅約12 kmの格子上にニュージーランド(New Zealand)のさまざまな気候の将来像を描き出した。"
               },
               {
                 "t": "p",
-                "x": "AstrolabのCEO、Jaret Matthews氏は「年内にHPEの初のスーパーコンピューターを月面に送り、月で初のGPU［と］月で初のAI実験を行う」と語った。月面での高性能コンピューティングとAIの初の試験となる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
-                "cap": "Astrolab提供の画像(Image credit: Chelsea Gohd)"
+                "x": "このAIは四つの専用チップで六時間のうちに15,000年を超えるシミュレーション年を生成し、温室効果ガスの排出が増え続ける世界を想定して、過去と2100年までのありうる将来を再現した。"
               },
               {
                 "t": "p",
-                "x": "飛行ではまず、コンピューターが過酷な環境に耐えられるかを試す。視覚データの解析や自律観測を担い、航法、地図作成、地形解析も処理する。HPEによれば、AIサービスコンテナが月面でスケーラブルなAIアプリケーションを実証する。"
+                "x": "ニュージーランド(New Zealand)全体の平均では、one-in-100-year(百年に一度)の事象における日降水量が気温が一度上がるごとに約9%増え、より頻繁な大雨の約5.6%を上回るペースで強まる。地球が温暖化するほど、最もまれな豪雨が激しさを増すということだ。"
               },
               {
                 "t": "p",
-                "x": "実験の一つは、火星(Mars)で使われたJPLの位置推定プログラムだ。GPSがない中、機械学習アルゴリズムが周囲の地形を保存済みの地図と照合し、ローバーを危険なクレーターから遠ざける。"
+                "x": "温暖化は、穏やかな将来と深刻な将来の差も広げた。深刻な将来では、極端な降雨が平均を大きく上回って増えた。研究はClimate Dynamicsに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "超级计算机搭乘\nFLIP登月",
-          "body": "FLIP月球车将把首台超级计算机送上月球，把机载AI带入月面作业。",
-          "mini_headline": "首台超级计算机登月",
+          "headline": "AI显示NZ极端暴雨\n将随气候变暖加剧",
+          "body": "AI模拟NZ降雨15,000+年，发现1-in-100-year暴雨每升温一度约增9%。",
+          "mini_headline": "AI预见NZ暴雨加剧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
-                "cap": "洁净室中的Astrolab FLIP月球车。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+                "cap": "新西兰（New Zealand）的暴雨。Credit: Roman Castillo from Pexels"
               },
               {
                 "t": "p",
-                "x": "今年晚些时候，Astrolab将通过Astrobotic的Griffin-1任务，把无人驾驶的FLIP月球车送往月球南极。车上搭载HPE的Spaceborne Computer-4，这是一款轻量、无风扇的模块，配有低功耗64-bit CPU和GPU，并搭配KIOXIA固态硬盘。"
+                "x": "Neelesh Rampal与Steven Sherwood在The Conversation撰文介绍，他们利用以140年区域气候模拟（涵盖历史与更暖的未来条件）训练的生成式AI，在约12 km宽的网格上描绘新西兰（New Zealand）多种可能的气候未来。"
               },
               {
                 "t": "p",
-                "x": "Astrolab CEO Jaret Matthews表示：“今年晚些时候，我们将把HPE的首台超级计算机送上月面，实现月球上的首个GPU［以及］月球上的首批AI实验。”这将是高性能计算和AI在月面的首次测试。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
-                "cap": "Astrolab提供的图片（Image credit: Chelsea Gohd）"
+                "x": "该AI借助四枚专用芯片，在六小时内生成了逾15,000个模拟年，在温室气体排放持续上升的情景下，重演历史并推演至2100年的可能未来。"
               },
               {
                 "t": "p",
-                "x": "此次飞行首先将测试计算机能否经受极端环境，还将分析视觉数据、实现自主观测，并处理导航、测绘和地形分析；HPE表示，一个AI服务容器将在月球上演示可扩展的AI应用。"
+                "x": "就新西兰（New Zealand）全境平均而言，one-in-100-year（百年一遇）事件的日降雨量每升温一度约增加9%，快于更常见强降雨约5.6%的增幅：地球越暖，最罕见的暴雨就越猛烈。"
               },
               {
                 "t": "p",
-                "x": "其中一项实验是曾在火星（Mars）上使用的JPL定位程序：在没有GPS的情况下，机器学习算法将当地地形与存储的地图比对，让月球车避开危险的陨石坑。"
+                "x": "变暖还拉大了较温和与较严重可能未来之间的差距。在较严重的未来中，极端降雨的增幅明显高于平均水平。该研究发表于Climate Dynamics。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una supercomputadora viaja\na la Luna a bordo de FLIP",
-          "body": "El rover lunar FLIP llevará la primera supercomputadora a la Luna y sumará AI a bordo a las operaciones en superficie.",
-          "mini_headline": "Primera supercomputadora rumbo a la Luna",
+          "headline": "Según la AI, las peores lluvias\nde NZ crecerán con el calor",
+          "body": "Un modelo de AI simuló 15,000+ años de lluvia en NZ: los aguaceros 1-in-100-year crecen cerca de 9% por grado.",
+          "mini_headline": "La AI ve aguaceros más intensos en NZ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
-                "cap": "El rover FLIP de Astrolab en la sala limpia."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+                "cap": "Lluvia intensa en Nueva Zelanda (New Zealand). Credit: Roman Castillo from Pexels"
               },
               {
                 "t": "p",
-                "x": "A finales de este año, Astrolab lanzará su rover no tripulado FLIP hacia el polo sur lunar en la misión Griffin-1 de Astrobotic. A bordo va el Spaceborne Computer-4 de HPE, un módulo ligero y sin ventilador con una CPU de 64-bit de bajo consumo y una GPU, acompañado de unidades de estado sólido de KIOXIA."
+                "x": "Neelesh Rampal y Steven Sherwood, en un artículo para The Conversation, usaron una AI generativa entrenada con 140 años de simulaciones climáticas regionales, que abarcan condiciones históricas y futuras más cálidas, para trazar muchos futuros climáticos posibles de Nueva Zelanda (New Zealand) en una cuadrícula de unos 12 km de ancho."
               },
               {
                 "t": "p",
-                "x": "\"Vamos a enviar la primera supercomputadora de HPE a la superficie lunar a finales de este año, con la primera GPU en la Luna [y los] primeros experimentos de AI en la Luna\", dijo Jaret Matthews, CEO de Astrolab. Será la primera prueba de computación de alto rendimiento y AI en la superficie lunar."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
-                "cap": "Imágenes de Astrolab (Image credit: Chelsea Gohd)"
+                "x": "La AI generó más de 15,000 años simulados en seis horas con cuatro chips especializados, y recreó la historia y los futuros posibles hasta 2100 en un mundo donde las emisiones de gases de efecto invernadero siguen aumentando."
               },
               {
                 "t": "p",
-                "x": "El vuelo pondrá a prueba primero cómo resiste la computadora el entorno extremo. También analizará datos visuales, permitirá observaciones autónomas y procesará navegación, cartografía y análisis del terreno; HPE afirma que un contenedor de servicios de AI demostrará aplicaciones de AI escalables en la Luna."
+                "x": "En promedio para Nueva Zelanda (New Zealand), la lluvia diaria en un evento one-in-100-year aumenta cerca de 9% por grado de calentamiento, más rápido que el 5.6% aproximado de las lluvias intensas más frecuentes: los aguaceros más raros se vuelven más intensos a medida que el planeta se calienta."
               },
               {
                 "t": "p",
-                "x": "Uno de los experimentos es un programa de localización de JPL usado en Marte (Mars): sin GPS, un algoritmo de aprendizaje automático compara el terreno local con un mapa almacenado para mantener al rover lejos de cráteres peligrosos."
+                "x": "El calentamiento también amplió la brecha entre futuros posibles más moderados y más severos. En los futuros más severos, la lluvia extrema aumentó bastante más que los promedios. El estudio se publicó en Climate Dynamics."
               }
             ]
           }
@@ -229,145 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "슈퍼컴퓨터, FLIP 타고\n달로 간다",
-          "body": "FLIP 달 탐사 로버가 첫 슈퍼컴퓨터를 싣고 달 표면 작업에 AI를 들인다.",
-          "mini_headline": "첫 슈퍼컴퓨터, 달로 간다",
+          "headline": "AI가 본 NZ 폭우\n온난화에 더 거세진다",
+          "body": "AI로 15,000+년 모사, NZ 100년 빈도 폭우는 1도당 약 9% 커진다.",
+          "mini_headline": "AI가 본 NZ 폭우 심화",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
-                "cap": "클린룸에 있는 Astrolab의 FLIP 로버."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+                "cap": "뉴질랜드(New Zealand)의 폭우. Credit: Roman Castillo from Pexels"
               },
               {
                 "t": "p",
-                "x": "Astrolab은 올해 말 Astrobotic의 Griffin-1 미션으로 무인 로버 FLIP을 달 남극에 보낸다. 로버에는 HPE의 Spaceborne Computer-4가 실린다. 저전력 64-bit CPU와 GPU를 갖춘 가볍고 팬 없는 모듈로, KIOXIA 솔리드스테이트 드라이브와 짝을 이룬다."
+                "x": "Neelesh Rampal과 Steven Sherwood는 The Conversation 기고에서 과거와 더 따뜻한 미래 조건을 아우르는 140년치 지역 기후 시뮬레이션으로 학습한 생성형 AI를 활용해, 폭 약 12 km 격자 위에 뉴질랜드(New Zealand)의 여러 가능한 기후 미래를 그려 냈다."
               },
               {
                 "t": "p",
-                "x": "Astrolab CEO Jaret Matthews는 \"올해 말 HPE의 첫 슈퍼컴퓨터를 달 표면에 보내 달에서 첫 GPU를 돌리고 [또] 달에서 첫 AI 실험을 한다\"고 말했다. 달 표면에서 고성능 컴퓨팅과 AI를 시험하는 첫 사례가 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
-                "cap": "Astrolab 제공 이미지 (Image credit: Chelsea Gohd)"
+                "x": "이 AI는 특수 칩 네 개로 여섯 시간 만에 15,000년이 넘는 시뮬레이션 연도를 만들어 냈고, 온실가스 배출이 계속 늘어나는 세계를 가정해 과거와 2100년까지의 가능한 미래를 다시 돌려 보았다."
               },
               {
                 "t": "p",
-                "x": "이번 비행은 먼저 컴퓨터가 극한 환경을 견디는지 시험한다. 시각 데이터 분석과 자율 관측도 맡고 항법, 지도 작성, 지형 분석을 처리한다. HPE는 AI 서비스 컨테이너가 확장 가능한 AI 애플리케이션을 달에서 시연할 것이라고 밝혔다."
+                "x": "뉴질랜드(New Zealand) 전역 평균으로 one-in-100-year(백 년에 한 번) 사건의 일 강수량은 기온이 한 도 오를 때마다 약 9% 늘어, 더 잦은 폭우의 약 5.6%보다 빠르게 증가했다. 지구가 따뜻해질수록 가장 드문 폭우가 더 거세진다는 뜻이다."
               },
               {
                 "t": "p",
-                "x": "실험 가운데 하나는 화성(Mars)에서 쓰인 JPL 위치 추정 프로그램이다. GPS가 없는 환경에서 머신러닝 알고리즘이 주변 지형을 저장된 지도와 대조해 로버가 위험한 크레이터를 피하게 한다."
+                "x": "온난화는 덜 심한 미래와 더 심한 미래 사이의 격차도 벌렸다. 더 심한 미래에서는 극한 강우가 평균보다 상당히 크게 늘었다. 연구는 Climate Dynamics에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "スパコンがFLIPに\n乗って月へ",
-          "body": "月面ローバーFLIPが初のスーパーコンピューターを月へ運び、AIを地表活動に持ち込む。",
-          "mini_headline": "初のスパコン、月へ",
+          "headline": "AIが示すNZの豪雨\n温暖化でさらに激化",
+          "body": "AIでNZの雨を15,000+年分再現すると、100年に一度の豪雨は1度あたり約9%強まる。",
+          "mini_headline": "AIが見るNZ豪雨の激化",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
-                "cap": "クリーンルーム内のAstrolabのFLIPローバー。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+                "cap": "ニュージーランド(New Zealand)の大雨。Credit: Roman Castillo from Pexels"
               },
               {
                 "t": "p",
-                "x": "Astrolabは年内に、AstroboticのGriffin-1ミッションで無人ローバーFLIPを月の南極へ打ち上げる。搭載するのはHPEのSpaceborne Computer-4だ。低消費電力の64-bit CPUとGPUを備えた軽量でファンのないモジュールで、KIOXIAのソリッドステートドライブと組み合わせる。"
+                "x": "Neelesh RampalとSteven SherwoodはThe Conversationへの寄稿で、過去と温暖化した将来の条件を含む140年分の地域気候シミュレーションで学習させた生成AIを使い、幅約12 kmの格子上にニュージーランド(New Zealand)のさまざまな気候の将来像を描き出した。"
               },
               {
                 "t": "p",
-                "x": "AstrolabのCEO、Jaret Matthews氏は「年内にHPEの初のスーパーコンピューターを月面に送り、月で初のGPU［と］月で初のAI実験を行う」と語った。月面での高性能コンピューティングとAIの初の試験となる。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
-                "cap": "Astrolab提供の画像(Image credit: Chelsea Gohd)"
+                "x": "このAIは四つの専用チップで六時間のうちに15,000年を超えるシミュレーション年を生成し、温室効果ガスの排出が増え続ける世界を想定して、過去と2100年までのありうる将来を再現した。"
               },
               {
                 "t": "p",
-                "x": "飛行ではまず、コンピューターが過酷な環境に耐えられるかを試す。視覚データの解析や自律観測を担い、航法、地図作成、地形解析も処理する。HPEによれば、AIサービスコンテナが月面でスケーラブルなAIアプリケーションを実証する。"
+                "x": "ニュージーランド(New Zealand)全体の平均では、one-in-100-year(百年に一度)の事象における日降水量が気温が一度上がるごとに約9%増え、より頻繁な大雨の約5.6%を上回るペースで強まる。地球が温暖化するほど、最もまれな豪雨が激しさを増すということだ。"
               },
               {
                 "t": "p",
-                "x": "実験の一つは、火星(Mars)で使われたJPLの位置推定プログラムだ。GPSがない中、機械学習アルゴリズムが周囲の地形を保存済みの地図と照合し、ローバーを危険なクレーターから遠ざける。"
+                "x": "温暖化は、穏やかな将来と深刻な将来の差も広げた。深刻な将来では、極端な降雨が平均を大きく上回って増えた。研究はClimate Dynamicsに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "超级计算机搭乘\nFLIP登月",
-          "body": "FLIP月球车将把首台超级计算机送上月球，把机载AI带入月面作业。",
-          "mini_headline": "首台超级计算机登月",
+          "headline": "AI显示NZ极端暴雨\n将随气候变暖加剧",
+          "body": "AI模拟NZ降雨15,000+年，发现1-in-100-year暴雨每升温一度约增9%。",
+          "mini_headline": "AI预见NZ暴雨加剧",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
-                "cap": "洁净室中的Astrolab FLIP月球车。"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+                "cap": "新西兰（New Zealand）的暴雨。Credit: Roman Castillo from Pexels"
               },
               {
                 "t": "p",
-                "x": "今年晚些时候，Astrolab将通过Astrobotic的Griffin-1任务，把无人驾驶的FLIP月球车送往月球南极。车上搭载HPE的Spaceborne Computer-4，这是一款轻量、无风扇的模块，配有低功耗64-bit CPU和GPU，并搭配KIOXIA固态硬盘。"
+                "x": "Neelesh Rampal与Steven Sherwood在The Conversation撰文介绍，他们利用以140年区域气候模拟（涵盖历史与更暖的未来条件）训练的生成式AI，在约12 km宽的网格上描绘新西兰（New Zealand）多种可能的气候未来。"
               },
               {
                 "t": "p",
-                "x": "Astrolab CEO Jaret Matthews表示：“今年晚些时候，我们将把HPE的首台超级计算机送上月面，实现月球上的首个GPU［以及］月球上的首批AI实验。”这将是高性能计算和AI在月面的首次测试。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
-                "cap": "Astrolab提供的图片（Image credit: Chelsea Gohd）"
+                "x": "该AI借助四枚专用芯片，在六小时内生成了逾15,000个模拟年，在温室气体排放持续上升的情景下，重演历史并推演至2100年的可能未来。"
               },
               {
                 "t": "p",
-                "x": "此次飞行首先将测试计算机能否经受极端环境，还将分析视觉数据、实现自主观测，并处理导航、测绘和地形分析；HPE表示，一个AI服务容器将在月球上演示可扩展的AI应用。"
+                "x": "就新西兰（New Zealand）全境平均而言，one-in-100-year（百年一遇）事件的日降雨量每升温一度约增加9%，快于更常见强降雨约5.6%的增幅：地球越暖，最罕见的暴雨就越猛烈。"
               },
               {
                 "t": "p",
-                "x": "其中一项实验是曾在火星（Mars）上使用的JPL定位程序：在没有GPS的情况下，机器学习算法将当地地形与存储的地图比对，让月球车避开危险的陨石坑。"
+                "x": "变暖还拉大了较温和与较严重可能未来之间的差距。在较严重的未来中，极端降雨的增幅明显高于平均水平。该研究发表于Climate Dynamics。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una supercomputadora viaja\na la Luna a bordo de FLIP",
-          "body": "El rover lunar FLIP llevará la primera supercomputadora a la Luna y sumará AI a bordo a las operaciones en superficie.",
-          "mini_headline": "Primera supercomputadora rumbo a la Luna",
+          "headline": "Según la AI, las peores lluvias\nde NZ crecerán con el calor",
+          "body": "Un modelo de AI simuló 15,000+ años de lluvia en NZ: los aguaceros 1-in-100-year crecen cerca de 9% por grado.",
+          "mini_headline": "La AI ve aguaceros más intensos en NZ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
-                "cap": "El rover FLIP de Astrolab en la sala limpia."
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+                "cap": "Lluvia intensa en Nueva Zelanda (New Zealand). Credit: Roman Castillo from Pexels"
               },
               {
                 "t": "p",
-                "x": "A finales de este año, Astrolab lanzará su rover no tripulado FLIP hacia el polo sur lunar en la misión Griffin-1 de Astrobotic. A bordo va el Spaceborne Computer-4 de HPE, un módulo ligero y sin ventilador con una CPU de 64-bit de bajo consumo y una GPU, acompañado de unidades de estado sólido de KIOXIA."
+                "x": "Neelesh Rampal y Steven Sherwood, en un artículo para The Conversation, usaron una AI generativa entrenada con 140 años de simulaciones climáticas regionales, que abarcan condiciones históricas y futuras más cálidas, para trazar muchos futuros climáticos posibles de Nueva Zelanda (New Zealand) en una cuadrícula de unos 12 km de ancho."
               },
               {
                 "t": "p",
-                "x": "\"Vamos a enviar la primera supercomputadora de HPE a la superficie lunar a finales de este año, con la primera GPU en la Luna [y los] primeros experimentos de AI en la Luna\", dijo Jaret Matthews, CEO de Astrolab. Será la primera prueba de computación de alto rendimiento y AI en la superficie lunar."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
-                "cap": "Imágenes de Astrolab (Image credit: Chelsea Gohd)"
+                "x": "La AI generó más de 15,000 años simulados en seis horas con cuatro chips especializados, y recreó la historia y los futuros posibles hasta 2100 en un mundo donde las emisiones de gases de efecto invernadero siguen aumentando."
               },
               {
                 "t": "p",
-                "x": "El vuelo pondrá a prueba primero cómo resiste la computadora el entorno extremo. También analizará datos visuales, permitirá observaciones autónomas y procesará navegación, cartografía y análisis del terreno; HPE afirma que un contenedor de servicios de AI demostrará aplicaciones de AI escalables en la Luna."
+                "x": "En promedio para Nueva Zelanda (New Zealand), la lluvia diaria en un evento one-in-100-year aumenta cerca de 9% por grado de calentamiento, más rápido que el 5.6% aproximado de las lluvias intensas más frecuentes: los aguaceros más raros se vuelven más intensos a medida que el planeta se calienta."
               },
               {
                 "t": "p",
-                "x": "Uno de los experimentos es un programa de localización de JPL usado en Marte (Mars): sin GPS, un algoritmo de aprendizaje automático compara el terreno local con un mapa almacenado para mantener al rover lejos de cráteres peligrosos."
+                "x": "El calentamiento también amplió la brecha entre futuros posibles más moderados y más severos. En los futuros más severos, la lluvia extrema aumentó bastante más que los promedios. El estudio se publicó en Climate Dynamics."
               }
             ]
           }
@@ -375,15 +325,15 @@
       }
     },
     {
-      "id": "science-kaist-geocore-cloud-removal",
+      "id": "science-krict-lab",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "KAIST AI가\n위성사진 구름을 걷어낸다",
-      "body": "KAIST GeoCore-9B가 위성 영상의 구름을 걷고 레이더를 사진처럼 바꾼다.",
-      "mini_headline": "위성 구름 너머를 보는 AI",
+      "headline": "과학자가 말로\n자율 실험실을 움직인다",
+      "body": "KRICT의 LLM은 조언을 베이지안 사전정보로 바꾸고 데이터와 어긋나면 버린다.",
+      "mini_headline": "말로 조종하는 자율 실험실",
       "tool": "Science",
       "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-ai-reconstructs-cloud-ground-satellite.html",
+      "url": "https://techxplore.com/news/2026-10-conversational-ai-labs.html",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
@@ -391,209 +341,209 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
-            "cap": "구름 제거, SAR-광학 변환, 위성 영상 생성에 적용한 GeoCore-9B. Credit: KAIST"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+            "cap": "연구자가 자연어로 입력하면 LLM이 이를 바꿔 베이지안 최적화를 이끌고 결과는 다시 피드백된다."
           },
           {
             "t": "p",
-            "x": "Munchurl Kim 교수가 이끄는 KAIST 연구진이 위성 영상 파운데이션 모델 GeoCore-9B를 만들었다. 매개변수는 약 9B 개이고, 위성 영상과 텍스트 쌍 10M 개를 학습했다."
+            "x": "한국화학연구원(KRICT) Gwang-Noh Ahn 박사 연구팀이 자율 실험실용 인간 참여형(human-in-the-loop) 최적화 프레임워크를 만들었다."
           },
           {
             "t": "p",
-            "x": "영상마다 위도, 경도, 지상 표본 거리(GSD)가 붙어 있어 모델은 촬영 위치와 축척을 함께 익힌다. 학습 기법 Geospatial Semantic Alignment는 위성 특화 AI를 학습 단계에서만 기준으로 쓴다."
+            "x": "대규모 언어 모델(LLM)은 연구자가 평이하게 내린 지시를 구조화된 사전 정보와 제약 조건으로 바꿔 베이지안 최적화에 넘긴다. 구성 요소인 적응형 가중치 신뢰도 탐지(AWCD)는 그 지시가 실험 데이터와 맞는지 살피다가 어긋나는 사전 정보를 꺼 버린다."
           },
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
-            "cap": "같은 텍스트 프롬프트에서 GSD를 1 m에서 32 m로 바꾸면 생성 이미지가 달라진다. Credit: KAIST"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+            "cap": "상충하는 데이터가 쌓이면 AWCD가 잘못된 지시를 끈다."
           },
           {
             "t": "p",
-            "x": "LoRA로 조정한 모델은 광학 영상의 구름을 지우고 레이더(SAR) 영상을 사진 같은 광학 영상으로 바꾼다. 구름 제거에서는 기존 작업별 모델을 앞질렀고, 레이더-광학 변환에서도 일부 지표에서 최고 성적을 냈다."
+            "x": "실제 데이터로 돌린 시뮬레이션에서 목표에 닿기까지 필요한 실험 횟수는 Ugi 반응이 약 30회에서 10회 미만으로, P3HT-CNT 복합체가 약 20회에서 3–5회로 줄었다. 연구팀은 대화로 실험을 조정하는 \"Co-Scientist\" 인터페이스도 공개했다. 실제 실험실 검증은 다음 단계로 잡았다."
           },
           {
             "t": "p",
-            "x": "연구팀은 센서와 지역을 늘려 시험한 뒤 홍수, 산불, 건물 피해 예측까지 연구를 넓힐 계획이다. 논문은 arXiv에 올라 있다."
+            "x": "제1저자는 Amirreza Mottafegh이며 연구는 Journal of Chemical Information and Modeling에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "KAIST AI clears clouds\nfrom satellite images",
-          "body": "KAIST's GeoCore-9B restores cloud-covered satellite imagery and turns radar images into photo-like views.",
-          "mini_headline": "AI sees through\nsatellite clouds",
+          "headline": "Scientists can now steer\nself-driving labs by talking",
+          "body": "KRICT's LLM turns plain-language advice into Bayesian optimization priors and drops it when the data disagree.",
+          "mini_headline": "Talking to self-driving labs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
-                "cap": "GeoCore-9B applied to cloud removal, SAR-to-optical translation and satellite image generation. Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+                "cap": "A researcher's natural-language input is converted by an LLM to guide Bayesian optimization, with results fed back."
               },
               {
                 "t": "p",
-                "x": "KAIST researchers led by Professor Munchurl Kim built GeoCore-9B, a satellite-image foundation model with about 9 billion parameters, trained on 10 million satellite image-text pairs."
+                "x": "A team at the Korea Research Institute of Chemical Technology (KRICT), led by Dr. Gwang-Noh Ahn, has built a human-in-the-loop optimization framework for self-driving laboratories."
               },
               {
                 "t": "p",
-                "x": "Each image is paired with latitude, longitude and ground sample distance (GSD), so the model learns where an image was taken and at what scale. A training method called Geospatial Semantic Alignment uses a satellite-specialized AI as a reference during training only."
+                "x": "A large language model converts a researcher's plain-language guidance into structured priors and constraints that Bayesian optimization can use. A component called adaptive weight credibility detection (AWCD) checks whether that guidance matches the experimental data and switches off priors the data contradict."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
-                "cap": "Generated images change as GSD goes from 1 m to 32 m under the same text prompt. Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+                "cap": "AWCD disables misleading guidance once contradicting data accumulate."
               },
               {
                 "t": "p",
-                "x": "Adapted with LoRA, the model removes clouds from optical images and converts radar (SAR) images into photo-like optical views. It outperformed existing task-specific models on cloud removal and achieved top results on some radar-to-optical metrics."
+                "x": "In simulations based on real data, experiments needed to reach a target fell from about 30 to fewer than 10 for Ugi reactions, and from about 20 to 3–5 for P3HT-CNT composites. The team also released an interactive \"Co-Scientist\" interface for adjusting experiments through dialogue; physical lab validation is still planned."
               },
               {
                 "t": "p",
-                "x": "The team plans to test more sensors and regions and extend the work to flood, wildfire and building-damage prediction. The paper is posted on arXiv."
+                "x": "The work, with Amirreza Mottafegh as first author, appears in the Journal of Chemical Information and Modeling."
               }
             ]
           }
         },
         "ko": {
-          "headline": "KAIST AI가\n위성사진 구름을 걷어낸다",
-          "body": "KAIST GeoCore-9B가 위성 영상의 구름을 걷고 레이더를 사진처럼 바꾼다.",
-          "mini_headline": "위성 구름 너머를 보는 AI",
+          "headline": "과학자가 말로\n자율 실험실을 움직인다",
+          "body": "KRICT의 LLM은 조언을 베이지안 사전정보로 바꾸고 데이터와 어긋나면 버린다.",
+          "mini_headline": "말로 조종하는 자율 실험실",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
-                "cap": "구름 제거, SAR-광학 변환, 위성 영상 생성에 적용한 GeoCore-9B. Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+                "cap": "연구자가 자연어로 입력하면 LLM이 이를 바꿔 베이지안 최적화를 이끌고 결과는 다시 피드백된다."
               },
               {
                 "t": "p",
-                "x": "Munchurl Kim 교수가 이끄는 KAIST 연구진이 위성 영상 파운데이션 모델 GeoCore-9B를 만들었다. 매개변수는 약 9B 개이고, 위성 영상과 텍스트 쌍 10M 개를 학습했다."
+                "x": "한국화학연구원(KRICT) Gwang-Noh Ahn 박사 연구팀이 자율 실험실용 인간 참여형(human-in-the-loop) 최적화 프레임워크를 만들었다."
               },
               {
                 "t": "p",
-                "x": "영상마다 위도, 경도, 지상 표본 거리(GSD)가 붙어 있어 모델은 촬영 위치와 축척을 함께 익힌다. 학습 기법 Geospatial Semantic Alignment는 위성 특화 AI를 학습 단계에서만 기준으로 쓴다."
+                "x": "대규모 언어 모델(LLM)은 연구자가 평이하게 내린 지시를 구조화된 사전 정보와 제약 조건으로 바꿔 베이지안 최적화에 넘긴다. 구성 요소인 적응형 가중치 신뢰도 탐지(AWCD)는 그 지시가 실험 데이터와 맞는지 살피다가 어긋나는 사전 정보를 꺼 버린다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
-                "cap": "같은 텍스트 프롬프트에서 GSD를 1 m에서 32 m로 바꾸면 생성 이미지가 달라진다. Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+                "cap": "상충하는 데이터가 쌓이면 AWCD가 잘못된 지시를 끈다."
               },
               {
                 "t": "p",
-                "x": "LoRA로 조정한 모델은 광학 영상의 구름을 지우고 레이더(SAR) 영상을 사진 같은 광학 영상으로 바꾼다. 구름 제거에서는 기존 작업별 모델을 앞질렀고, 레이더-광학 변환에서도 일부 지표에서 최고 성적을 냈다."
+                "x": "실제 데이터로 돌린 시뮬레이션에서 목표에 닿기까지 필요한 실험 횟수는 Ugi 반응이 약 30회에서 10회 미만으로, P3HT-CNT 복합체가 약 20회에서 3–5회로 줄었다. 연구팀은 대화로 실험을 조정하는 \"Co-Scientist\" 인터페이스도 공개했다. 실제 실험실 검증은 다음 단계로 잡았다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 센서와 지역을 늘려 시험한 뒤 홍수, 산불, 건물 피해 예측까지 연구를 넓힐 계획이다. 논문은 arXiv에 올라 있다."
+                "x": "제1저자는 Amirreza Mottafegh이며 연구는 Journal of Chemical Information and Modeling에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "KAISTのAIが\n衛星画像の雲を除去",
-          "body": "KAISTのGeoCore-9Bは衛星画像の雲を消し、レーダー画像を写真風に変える。",
-          "mini_headline": "衛星の雲を見通すAI",
+          "headline": "科学者が対話で\n自律実験室を操る",
+          "body": "KRICTのLLMは平易な助言をベイズ最適化の事前分布に変え、データと矛盾すれば捨てる。",
+          "mini_headline": "対話で操る自律実験室",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
-                "cap": "雲除去、SARから光学への変換、衛星画像生成に適用したGeoCore-9B。Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+                "cap": "研究者の自然言語入力をLLMが変換してベイズ最適化を導き、結果がフィードバックされる。"
               },
               {
                 "t": "p",
-                "x": "Munchurl Kim教授率いるKAISTの研究チームは、約9B 個のパラメータを持つ衛星画像基盤モデルGeoCore-9Bを構築した。学習には衛星画像とテキストのペア10M 組を使った。"
+                "x": "韓国化学研究院（KRICT）のGwang-Noh Ahn博士率いるチームが、自律実験室向けのヒューマン・イン・ザ・ループ（human-in-the-loop）型最適化フレームワークを構築した。"
               },
               {
                 "t": "p",
-                "x": "各画像には緯度、経度、地上サンプル距離(GSD)が付いており、モデルは画像の撮影場所と縮尺を学ぶ。Geospatial Semantic Alignmentと呼ぶ学習手法では、衛星に特化したAIを学習時に限り参照として使う。"
+                "x": "大規模言語モデルが研究者の平易な指示を、ベイズ最適化で使える構造化された事前分布と制約に変換する。適応的重み信頼性検出（AWCD）と呼ぶ構成要素が、その指示が実験データと合うかを確かめ、データと矛盾する事前分布を無効にする。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
-                "cap": "同じテキストプロンプトでGSDを1 mから32 mに変えると、生成画像が変化する。Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+                "cap": "AWCDは、矛盾するデータが蓄積すると誤った指示を無効化する。"
               },
               {
                 "t": "p",
-                "x": "LoRAで適応させたモデルは、光学画像から雲を取り除き、レーダー(SAR)画像を写真のような光学画像に変換する。雲除去では既存のタスク特化モデルを上回り、レーダーから光学への変換でも一部の指標で最高の結果を出した。"
+                "x": "実データに基づくシミュレーションでは、目標到達に必要な実験回数がUgi反応で約30回から10回未満に、P3HT-CNT複合材料で約20回から3–5回に減った。チームは対話で実験を調整できる対話型インターフェース「Co-Scientist」も公開した。実際の実験室での検証はこれから予定している。"
               },
               {
                 "t": "p",
-                "x": "チームは今後、より多くのセンサーや地域で検証し、洪水、山火事、建物被害の予測にも広げる計画だ。論文はarXivで公開されている。"
+                "x": "Amirreza Mottafeghが筆頭著者を務めたこの研究は、Journal of Chemical Information and Modelingに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "KAIST AI为\n卫星图像拨开云层",
-          "body": "KAIST的GeoCore-9B能复原被云遮挡的卫星图像，并把雷达图像转成类似照片的画面。",
-          "mini_headline": "AI看穿卫星云层",
+          "headline": "科学家如今可通过对话\n操控自驱动实验室",
+          "body": "KRICT的LLM把通俗建议转为贝叶斯优化先验，数据不符时便将其舍弃。",
+          "mini_headline": "用对话操控自驱动实验室",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
-                "cap": "GeoCore-9B用于去云、SAR到光学图像转换和卫星图像生成。Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+                "cap": "研究人员的自然语言输入经LLM转换后引导贝叶斯优化，结果再反馈回来。"
               },
               {
                 "t": "p",
-                "x": "由Munchurl Kim教授领导的KAIST研究团队构建了卫星图像基础模型GeoCore-9B，拥有约9B 参数，使用10M 组卫星图像与文本配对训练。"
+                "x": "韩国化学技术研究院（KRICT）Gwang-Noh Ahn博士领导的团队，为自驱动实验室打造了一套人在回路（human-in-the-loop）优化框架。"
               },
               {
                 "t": "p",
-                "x": "每张图像都附有纬度、经度和地面采样距离（GSD），因此模型能学到图像的拍摄地点和比例尺。一种名为Geospatial Semantic Alignment的训练方法仅在训练期间以一个卫星专用AI作为参照。"
+                "x": "大语言模型将研究人员的通俗指导转化为贝叶斯优化可用的结构化先验和约束。名为自适应权重可信度检测（AWCD）的组件会检查这些指导是否与实验数据相符，并关闭被数据否定的先验。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
-                "cap": "在相同文本提示下，GSD从1 m变为32 m时，生成图像随之变化。Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+                "cap": "当矛盾数据不断积累时，AWCD会停用误导性的指导。"
               },
               {
                 "t": "p",
-                "x": "经LoRA适配后，该模型可去除光学图像中的云层，并把雷达（SAR）图像转换为类似照片的光学图像。它在去云任务上优于现有的专用模型，并在部分雷达到光学的指标上取得了最佳成绩。"
+                "x": "在基于真实数据的模拟中，达到目标所需的实验次数在Ugi反应中从约30次降至不到10次，在P3HT-CNT复合材料中从约20次降至3–5次。团队还发布了可通过对话调整实验的交互式“Co-Scientist”界面；实体实验室验证仍在计划中。"
               },
               {
                 "t": "p",
-                "x": "团队计划在更多传感器和地区进行测试，并将研究扩展到洪水、野火和建筑损毁预测。论文已发布在arXiv上。"
+                "x": "该研究第一作者为Amirreza Mottafegh，发表于Journal of Chemical Information and Modeling。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una AI de KAIST borra las nubes\nde las imágenes satelitales",
-          "body": "GeoCore-9B, de KAIST, restaura imágenes satelitales cubiertas de nubes y convierte las de radar en vistas fotográficas.",
-          "mini_headline": "Una AI que ve a través de las nubes",
+          "headline": "Los científicos ya pueden guiar\nlaboratorios autónomos hablando",
+          "body": "El LLM del KRICT traduce consejos verbales a priors de optimización bayesiana y los descarta si los datos discrepan.",
+          "mini_headline": "Hablar con laboratorios autónomos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
-                "cap": "GeoCore-9B aplicado a la eliminación de nubes, la traducción de SAR a óptico y la generación de imágenes satelitales. Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+                "cap": "Un LLM convierte la entrada en lenguaje natural del investigador para guiar la optimización bayesiana, y los resultados se retroalimentan."
               },
               {
                 "t": "p",
-                "x": "Investigadores de KAIST dirigidos por el profesor Munchurl Kim crearon GeoCore-9B, un modelo fundacional de imágenes satelitales con unos 9 mil millones de parámetros, entrenado con 10 millones de pares de imagen y texto satelitales."
+                "x": "Un equipo del Instituto Coreano de Investigación de Tecnología Química (KRICT), dirigido por el Dr. Gwang-Noh Ahn, ha creado un marco de optimización con intervención humana (human-in-the-loop) para laboratorios autónomos."
               },
               {
                 "t": "p",
-                "x": "Cada imagen se acompaña de latitud, longitud y distancia de muestreo en el terreno (GSD), de modo que el modelo aprende dónde se tomó una imagen y a qué escala. Un método de entrenamiento llamado Geospatial Semantic Alignment usa una AI especializada en satélites como referencia solo durante el entrenamiento."
+                "x": "Un modelo de lenguaje grande convierte las indicaciones del investigador en lenguaje llano en priors y restricciones estructurados que la optimización bayesiana puede usar. Un componente llamado detección adaptativa de credibilidad de pesos (AWCD) comprueba si esas indicaciones coinciden con los datos experimentales y desactiva los priors que los datos contradicen."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
-                "cap": "Las imágenes generadas cambian cuando la GSD pasa de 1 m a 32 m con el mismo prompt de texto. Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+                "cap": "AWCD desactiva las indicaciones engañosas cuando se acumulan datos contradictorios."
               },
               {
                 "t": "p",
-                "x": "Adaptado con LoRA, el modelo elimina nubes de imágenes ópticas y convierte imágenes de radar (SAR) en vistas ópticas similares a fotografías. Superó a los modelos específicos existentes en eliminación de nubes y logró los mejores resultados en algunas métricas de radar a óptico."
+                "x": "En simulaciones basadas en datos reales, los experimentos necesarios para alcanzar un objetivo bajaron de unos 30 a menos de 10 en las reacciones de Ugi, y de unos 20 a 3–5 en los compuestos de P3HT-CNT. El equipo también publicó una interfaz interactiva, \"Co-Scientist\", para ajustar experimentos mediante diálogo; la validación en un laboratorio físico aún está prevista."
               },
               {
                 "t": "p",
-                "x": "El equipo prevé probar más sensores y regiones y extender el trabajo a la predicción de inundaciones, incendios forestales y daños en edificios. El artículo está publicado en arXiv."
+                "x": "El trabajo, con Amirreza Mottafegh como primer autor, se publica en el Journal of Chemical Information and Modeling."
               }
             ]
           }
@@ -601,145 +551,145 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "KAIST AI가\n위성사진 구름을 걷어낸다",
-          "body": "KAIST GeoCore-9B가 위성 영상 구름을 걷고 레이더를 사진처럼 바꾼다.",
-          "mini_headline": "위성 구름 너머를 보는 AI",
+          "headline": "과학자가 말로\n자율 실험실을 움직인다",
+          "body": "KRICT의 LLM은 조언을 베이지안 사전정보로 바꾸고 데이터와 어긋나면 버린다.",
+          "mini_headline": "말로 조종하는 자율 실험실",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
-                "cap": "구름 제거, SAR-광학 변환, 위성 영상 생성에 적용한 GeoCore-9B. Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+                "cap": "연구자의 자연어 입력을 LLM이 변환해 베이지안 최적화를 이끌고, 결과는 다시 피드백된다."
               },
               {
                 "t": "p",
-                "x": "Munchurl Kim 교수가 이끄는 KAIST 연구진이 위성 영상 파운데이션 모델 GeoCore-9B를 만들었다. 매개변수는 약 9B 개이며, 위성 영상과 텍스트 쌍 10M 개로 학습했다."
+                "x": "한국화학연구원(KRICT) Gwang-Noh Ahn 박사 연구팀이 자율 실험실을 위한 인간 참여형(human-in-the-loop) 최적화 프레임워크를 만들었다."
               },
               {
                 "t": "p",
-                "x": "각 영상에는 위도, 경도, 지상 표본 거리(GSD)가 함께 붙어 있어 모델이 영상의 촬영 위치와 축척을 익힌다. Geospatial Semantic Alignment라는 학습 기법은 위성 특화 AI를 학습 단계에서만 기준으로 삼는다."
+                "x": "대규모 언어 모델(LLM)이 연구자의 평이한 지시를 베이지안 최적화가 쓸 수 있는 구조화된 사전 정보와 제약 조건으로 바꾼다. 적응형 가중치 신뢰도 탐지(AWCD)라는 구성 요소는 이 지시가 실험 데이터와 맞는지 확인하고, 데이터와 어긋나는 사전 정보를 꺼 버린다."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
-                "cap": "같은 텍스트 프롬프트에서 GSD를 1 m에서 32 m로 바꾸면 생성 이미지가 달라진다. Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+                "cap": "AWCD는 상충하는 데이터가 쌓이면 잘못된 지시를 비활성화한다."
               },
               {
                 "t": "p",
-                "x": "LoRA로 조정한 모델은 광학 영상의 구름을 지우고 레이더(SAR) 영상을 사진 같은 광학 영상으로 바꾼다. 구름 제거에서는 기존 작업별 모델을 앞섰고, 일부 레이더-광학 변환 지표에서 최고 성적을 냈다."
+                "x": "실제 데이터 기반 시뮬레이션에서 목표에 도달하는 데 필요한 실험 횟수는 Ugi 반응에서 약 30회에서 10회 미만으로, P3HT-CNT 복합체에서 약 20회에서 3–5회로 줄었다. 연구팀은 대화로 실험을 조정하는 대화형 \"Co-Scientist\" 인터페이스도 공개했으며, 실제 실험실 검증은 앞으로 진행할 계획이다."
               },
               {
                 "t": "p",
-                "x": "연구팀은 더 많은 센서와 지역에서 시험하고 홍수, 산불, 건물 피해 예측으로 연구를 넓힐 계획이다. 논문은 arXiv에 공개돼 있다."
+                "x": "Amirreza Mottafegh가 제1저자로 참여한 이 연구는 Journal of Chemical Information and Modeling에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "KAISTのAIが\n衛星画像の雲を除去",
-          "body": "KAISTのGeoCore-9Bは衛星画像の雲を消し、レーダー画像を写真風に変える。",
-          "mini_headline": "衛星の雲を見通すAI",
+          "headline": "科学者が対話で\n自律実験室を操る",
+          "body": "KRICTのLLMは平易な助言をベイズ最適化の事前分布に変え、データと矛盾すれば捨てる。",
+          "mini_headline": "対話で操る自律実験室",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
-                "cap": "雲除去、SARから光学への変換、衛星画像生成に適用したGeoCore-9B。Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+                "cap": "研究者の自然言語入力をLLMが変換してベイズ最適化を導き、結果がフィードバックされる。"
               },
               {
                 "t": "p",
-                "x": "Munchurl Kim教授率いるKAISTの研究チームは、約9B 個のパラメータを持つ衛星画像基盤モデルGeoCore-9Bを構築した。学習には衛星画像とテキストのペア10M 組を使った。"
+                "x": "韓国化学研究院（KRICT）のGwang-Noh Ahn博士率いるチームが、自律実験室向けのヒューマン・イン・ザ・ループ（human-in-the-loop）型最適化フレームワークを構築した。"
               },
               {
                 "t": "p",
-                "x": "各画像には緯度、経度、地上サンプル距離(GSD)が付いており、モデルは画像の撮影場所と縮尺を学ぶ。Geospatial Semantic Alignmentと呼ぶ学習手法では、衛星に特化したAIを学習時に限り参照として使う。"
+                "x": "大規模言語モデルが研究者の平易な指示を、ベイズ最適化で使える構造化された事前分布と制約に変換する。適応的重み信頼性検出（AWCD）と呼ぶ構成要素が、その指示が実験データと合うかを確かめ、データと矛盾する事前分布を無効にする。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
-                "cap": "同じテキストプロンプトでGSDを1 mから32 mに変えると、生成画像が変化する。Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+                "cap": "AWCDは、矛盾するデータが蓄積すると誤った指示を無効化する。"
               },
               {
                 "t": "p",
-                "x": "LoRAで適応させたモデルは、光学画像から雲を取り除き、レーダー(SAR)画像を写真のような光学画像に変換する。雲除去では既存のタスク特化モデルを上回り、レーダーから光学への変換でも一部の指標で最高の結果を出した。"
+                "x": "実データに基づくシミュレーションでは、目標到達に必要な実験回数がUgi反応で約30回から10回未満に、P3HT-CNT複合材料で約20回から3–5回に減った。チームは対話で実験を調整できる対話型インターフェース「Co-Scientist」も公開した。実際の実験室での検証はこれから予定している。"
               },
               {
                 "t": "p",
-                "x": "チームは今後、より多くのセンサーや地域で検証し、洪水、山火事、建物被害の予測にも広げる計画だ。論文はarXivで公開されている。"
+                "x": "Amirreza Mottafeghが筆頭著者を務めたこの研究は、Journal of Chemical Information and Modelingに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "KAIST AI为\n卫星图像拨开云层",
-          "body": "KAIST的GeoCore-9B能复原被云遮挡的卫星图像，并把雷达图像转成类似照片的画面。",
-          "mini_headline": "AI看穿卫星云层",
+          "headline": "科学家如今可通过对话\n操控自驱动实验室",
+          "body": "KRICT的LLM把通俗建议转为贝叶斯优化先验，数据不符时便将其舍弃。",
+          "mini_headline": "用对话操控自驱动实验室",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
-                "cap": "GeoCore-9B用于去云、SAR到光学图像转换和卫星图像生成。Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+                "cap": "研究人员的自然语言输入经LLM转换后引导贝叶斯优化，结果再反馈回来。"
               },
               {
                 "t": "p",
-                "x": "由Munchurl Kim教授领导的KAIST研究团队构建了卫星图像基础模型GeoCore-9B，拥有约9B 参数，使用10M 组卫星图像与文本配对训练。"
+                "x": "韩国化学技术研究院（KRICT）Gwang-Noh Ahn博士领导的团队，为自驱动实验室打造了一套人在回路（human-in-the-loop）优化框架。"
               },
               {
                 "t": "p",
-                "x": "每张图像都附有纬度、经度和地面采样距离（GSD），因此模型能学到图像的拍摄地点和比例尺。一种名为Geospatial Semantic Alignment的训练方法仅在训练期间以一个卫星专用AI作为参照。"
+                "x": "大语言模型将研究人员的通俗指导转化为贝叶斯优化可用的结构化先验和约束。名为自适应权重可信度检测（AWCD）的组件会检查这些指导是否与实验数据相符，并关闭被数据否定的先验。"
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
-                "cap": "在相同文本提示下，GSD从1 m变为32 m时，生成图像随之变化。Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+                "cap": "当矛盾数据不断积累时，AWCD会停用误导性的指导。"
               },
               {
                 "t": "p",
-                "x": "经LoRA适配后，该模型可去除光学图像中的云层，并把雷达（SAR）图像转换为类似照片的光学图像。它在去云任务上优于现有的专用模型，并在部分雷达到光学的指标上取得了最佳成绩。"
+                "x": "在基于真实数据的模拟中，达到目标所需的实验次数在Ugi反应中从约30次降至不到10次，在P3HT-CNT复合材料中从约20次降至3–5次。团队还发布了可通过对话调整实验的交互式“Co-Scientist”界面；实体实验室验证仍在计划中。"
               },
               {
                 "t": "p",
-                "x": "团队计划在更多传感器和地区进行测试，并将研究扩展到洪水、野火和建筑损毁预测。论文已发布在arXiv上。"
+                "x": "该研究第一作者为Amirreza Mottafegh，发表于Journal of Chemical Information and Modeling。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una AI de KAIST borra las nubes\nde las imágenes satelitales",
-          "body": "GeoCore-9B, de KAIST, restaura imágenes satelitales cubiertas de nubes y convierte las de radar en vistas fotográficas.",
-          "mini_headline": "Una AI que ve a través de las nubes",
+          "headline": "Los científicos ya pueden guiar\nlaboratorios autónomos hablando",
+          "body": "El LLM del KRICT traduce consejos verbales a priors de optimización bayesiana y los descarta si los datos discrepan.",
+          "mini_headline": "Hablar con laboratorios autónomos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-14.jpg",
-                "cap": "GeoCore-9B aplicado a la eliminación de nubes, la traducción de SAR a óptico y la generación de imágenes satelitales. Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+                "cap": "Un LLM convierte la entrada en lenguaje natural del investigador para guiar la optimización bayesiana, y los resultados se retroalimentan."
               },
               {
                 "t": "p",
-                "x": "Investigadores de KAIST dirigidos por el profesor Munchurl Kim crearon GeoCore-9B, un modelo fundacional de imágenes satelitales con unos 9 mil millones de parámetros, entrenado con 10 millones de pares de imagen y texto satelitales."
+                "x": "Un equipo del Instituto Coreano de Investigación de Tecnología Química (KRICT), dirigido por el Dr. Gwang-Noh Ahn, ha creado un marco de optimización con intervención humana (human-in-the-loop) para laboratorios autónomos."
               },
               {
                 "t": "p",
-                "x": "Cada imagen se acompaña de latitud, longitud y distancia de muestreo en el terreno (GSD), de modo que el modelo aprende dónde se tomó una imagen y a qué escala. Un método de entrenamiento llamado Geospatial Semantic Alignment usa una AI especializada en satélites como referencia solo durante el entrenamiento."
+                "x": "Un modelo de lenguaje grande convierte las indicaciones del investigador en lenguaje llano en priors y restricciones estructurados que la optimización bayesiana puede usar. Un componente llamado detección adaptativa de credibilidad de pesos (AWCD) comprueba si esas indicaciones coinciden con los datos experimentales y desactiva los priors que los datos contradicen."
               },
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/kaist-develops-ai-that-17.jpg",
-                "cap": "Las imágenes generadas cambian cuando la GSD pasa de 1 m a 32 m con el mismo prompt de texto. Credit: KAIST"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+                "cap": "AWCD desactiva las indicaciones engañosas cuando se acumulan datos contradictorios."
               },
               {
                 "t": "p",
-                "x": "Adaptado con LoRA, el modelo elimina nubes de imágenes ópticas y convierte imágenes de radar (SAR) en vistas ópticas similares a fotografías. Superó a los modelos específicos existentes en eliminación de nubes y logró los mejores resultados en algunas métricas de radar a óptico."
+                "x": "En simulaciones basadas en datos reales, los experimentos necesarios para alcanzar un objetivo bajaron de unos 30 a menos de 10 en las reacciones de Ugi, y de unos 20 a 3–5 en los compuestos de P3HT-CNT. El equipo también publicó una interfaz interactiva, \"Co-Scientist\", para ajustar experimentos mediante diálogo; la validación en un laboratorio físico aún está prevista."
               },
               {
                 "t": "p",
-                "x": "El equipo prevé probar más sensores y regiones y extender el trabajo a la predicción de inundaciones, incendios forestales y daños en edificios. El artículo está publicado en arXiv."
+                "x": "El trabajo, con Amirreza Mottafegh como primer autor, se publica en el Journal of Chemical Information and Modeling."
               }
             ]
           }
@@ -747,219 +697,189 @@
       }
     },
     {
-      "id": "science-google-verid-wet-lab-agents",
+      "id": "science-fairstress",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Google AI 에이전트\n습식 실험대에 서다",
-      "body": "Google AI 에이전트가 디지털 트윈으로 검증한 뒤 폐루프 실험을 돌렸다.",
-      "mini_headline": "AI 에이전트, 습식 실험실로",
+      "headline": "공정해 보이는 LLMs도\n정체성 단서엔 흔들린다",
+      "body": "Ai2 FairStress에서 LLMs는 신원이 드러날수록 소수자 편으로 기울었다.",
+      "mini_headline": "FairStress로 본 LLM 공정성",
       "tool": "Science",
-      "source": "Google Research",
-      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/",
+      "source": "Ai2",
+      "url": "https://allenai.org/blog/fairstress",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "video",
-            "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
-          },
-          {
-            "t": "p",
-            "x": "Google Research가 AI 에이전트를 습식 실험대에 세웠다. 에이전트를 실제 실험실 로봇에 붙여 폐루프 분자 설계 주기를 빠르게 돌리는데, 전 과정의 주도권은 인간 과학자가 쥔다."
-          },
-          {
-            "t": "p",
-            "x": "VERID는 실험실 워크셀을 본뜬 의미론적 디지털 트윈이다. 로봇의 기하 구조와 웰 용량, 시약, 피펫 팁을 추적한다. PyLabRobot 기반이라 에이전트가 액체 처리 프로토콜을 계획하고 시뮬레이션한 뒤 실행할 수 있고, 물리적으로 불가능한 명령은 실행 전에 걸러낸다."
-          },
-          {
             "t": "img",
-            "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
-            "cap": "에이전트가 폐루프 안에서 앱타머 설계, 합성, 선별, 시퀀싱을 되풀이한다."
+            "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
           },
           {
             "t": "p",
-            "x": "DNA 앱타머 실험에서 에이전트는 두 단백질을 놓고 설계-시험 라운드를 세 차례 돌렸다. 습식 실험의 실패에서 배우며 확인된 표적 적중률을 미오글로빈 33.5%, α-트롬빈 42.1%까지 올렸다."
+            "x": "Ai2가 벤치마크 FairStress를 내놓았다. LLMs의 인구통계학적 공정성을 모델의 최종 선택 너머까지 잰다. 한 시나리오의 두 버전이 같은 답에 이르러도 그 안에 의미 있는 차이가 숨어 있을 수 있어서다. 그래서 설득력 있는 \"적대적 접두어(adversarial prefixes)\"가 집단에 따라 결정을 다르게 바꾸는지도 시험한다."
           },
           {
             "t": "p",
-            "x": "FAP는 고형암에서 과발현되는 수용체다. 여기에 결합하는 de novo 단백질 바인더를 설계할 때 에피토프 절제 파이프라인이 구조 예측을 8.6x 빠르게 했다. 인간과 에이전트가 함께 일하자 in-silico 적중률이 두 배 가까이 뛰었고, 한 자릿수 나노몰 수준의 바인더도 나왔다."
+            "x": "채용과 의료부터 대출, 형사 사법까지 29개 영역에서 후보 두 명짜리 시나리오 300개를 짜 1300만 개가 넘는 테스트 케이스를 만든다. 5만 개 항목으로 추린 하위 세트 FairStress-Core도 함께 공개했다."
+          },
+          {
+            "t": "p",
+            "x": "인구통계 정보가 없으면 모델은 대체로 대칭적으로 행동했다. 정체성이 뚜렷해질수록 그 대칭이 무너졌다. 옳은 선택을 버리면 소수자로 표시된 후보가 유리해지는 경우 모델은 그 선택을 더 쉽게 버렸다. 이른바 \"반고정관념적 과잉 교정\"이다. 모호한 사례에서 프런티어 모델은 소수자로 표시된 후보를 약 60–65% 비율로 골랐다."
+          },
+          {
+            "t": "p",
+            "x": "설명하는 방식도 달랐다. 선호된 후보는 자격을 덜 인정받았다. 편향 완화 개입 아홉 가지 가운데 정확도를 대체로 지키면서 격차를 좁힌 것은 반사실적 사고 사슬(counterfactual chain-of-thought)뿐이었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Google AI agents step\ninto the wet lab",
-          "body": "Google's AI agents ran closed-loop lab experiments, with a digital twin checking robot protocols before they run.",
-          "mini_headline": "AI agents enter\nthe wet lab",
+          "headline": "LLMs that look fair can still\nbend under identity cues",
+          "body": "Ai2's FairStress finds LLMs over-correct toward minority-coded candidates as identity cues become explicit.",
+          "mini_headline": "FairStress probes LLM fairness",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google Research is bringing AI agents to the wet-lab bench, grounding them in physical lab robotics to run fast closed-loop molecular design cycles, all driven by human scientific agency."
-              },
-              {
-                "t": "p",
-                "x": "VERID is a semantic digital twin of the lab workcell that tracks robot geometry, well volumes, reagents and pipette tips. Built on PyLabRobot, it lets an agent plan, simulate and execute liquid-handling protocols, catching commands that are physically impossible before they run."
-              },
-              {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
-                "cap": "Agents iteratively design, synthesize, select, and sequence aptamers in a closed loop."
+                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
               },
               {
                 "t": "p",
-                "x": "With DNA aptamers, agents ran three design-test rounds on two proteins, raising confirmed on-target hit rates to 33.5% for myoglobin and 42.1% for α-thrombin after learning from wet-lab failures."
+                "x": "Ai2 introduced FairStress, a benchmark for measuring demographic fairness in LLMs beyond the choice a model ultimately makes. Arriving at the same answer in two versions of a scenario can hide meaningful differences, so it also tests whether persuasive \"adversarial prefixes\" shift decisions differently by group."
               },
               {
                 "t": "p",
-                "x": "For de novo protein binders against FAP, a receptor overexpressed in solid tumors, an epitope-excision pipeline sped structure prediction 8.6x, and human–agent collaboration nearly doubled the in-silico hit rate, yielding single-digit nanomolar binders."
+                "x": "It spans 300 two-candidate scenarios across 29 domains, from hiring and healthcare to lending and criminal justice, producing more than 13 million test cases; a 50K-item FairStress-Core subset is also released."
+              },
+              {
+                "t": "p",
+                "x": "Without demographic information, behavior was roughly symmetric. As identity became more explicit, it grew less so: models more readily abandoned a correct choice when that favored a minority-coded candidate, an \"anti-stereotypical over-correction.\" Frontier models picked minority-coded candidates about 60–65% of the time in ambiguous cases."
+              },
+              {
+                "t": "p",
+                "x": "Explanations differed too, giving favored candidates' qualifications less recognition. Of nine debiasing interventions, only counterfactual chain-of-thought narrowed the gap while largely preserving accuracy."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Google AI 에이전트\n습식 실험대에 서다",
-          "body": "Google AI 에이전트가 디지털 트윈으로 검증한 뒤 폐루프 실험을 돌렸다.",
-          "mini_headline": "AI 에이전트, 습식 실험실로",
+          "headline": "공정해 보이는 LLMs도\n정체성 단서엔 흔들린다",
+          "body": "Ai2 FairStress에서 LLMs는 신원이 드러날수록 소수자 편으로 기울었다.",
+          "mini_headline": "FairStress로 본 LLM 공정성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google Research가 AI 에이전트를 습식 실험대에 세웠다. 에이전트를 실제 실험실 로봇에 붙여 폐루프 분자 설계 주기를 빠르게 돌리는데, 전 과정의 주도권은 인간 과학자가 쥔다."
-              },
-              {
-                "t": "p",
-                "x": "VERID는 실험실 워크셀을 본뜬 의미론적 디지털 트윈이다. 로봇의 기하 구조와 웰 용량, 시약, 피펫 팁을 추적한다. PyLabRobot 기반이라 에이전트가 액체 처리 프로토콜을 계획하고 시뮬레이션한 뒤 실행할 수 있고, 물리적으로 불가능한 명령은 실행 전에 걸러낸다."
-              },
-              {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
-                "cap": "에이전트가 폐루프 안에서 앱타머 설계, 합성, 선별, 시퀀싱을 되풀이한다."
+                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
               },
               {
                 "t": "p",
-                "x": "DNA 앱타머 실험에서 에이전트는 두 단백질을 놓고 설계-시험 라운드를 세 차례 돌렸다. 습식 실험의 실패에서 배우며 확인된 표적 적중률을 미오글로빈 33.5%, α-트롬빈 42.1%까지 올렸다."
+                "x": "Ai2가 벤치마크 FairStress를 내놓았다. LLMs의 인구통계학적 공정성을 모델의 최종 선택 너머까지 잰다. 한 시나리오의 두 버전이 같은 답에 이르러도 그 안에 의미 있는 차이가 숨어 있을 수 있어서다. 그래서 설득력 있는 \"적대적 접두어(adversarial prefixes)\"가 집단에 따라 결정을 다르게 바꾸는지도 시험한다."
               },
               {
                 "t": "p",
-                "x": "FAP는 고형암에서 과발현되는 수용체다. 여기에 결합하는 de novo 단백질 바인더를 설계할 때 에피토프 절제 파이프라인이 구조 예측을 8.6x 빠르게 했다. 인간과 에이전트가 함께 일하자 in-silico 적중률이 두 배 가까이 뛰었고, 한 자릿수 나노몰 수준의 바인더도 나왔다."
+                "x": "채용과 의료부터 대출, 형사 사법까지 29개 영역에서 후보 두 명짜리 시나리오 300개를 짜 1300만 개가 넘는 테스트 케이스를 만든다. 5만 개 항목으로 추린 하위 세트 FairStress-Core도 함께 공개했다."
+              },
+              {
+                "t": "p",
+                "x": "인구통계 정보가 없으면 모델은 대체로 대칭적으로 행동했다. 정체성이 뚜렷해질수록 그 대칭이 무너졌다. 옳은 선택을 버리면 소수자로 표시된 후보가 유리해지는 경우 모델은 그 선택을 더 쉽게 버렸다. 이른바 \"반고정관념적 과잉 교정\"이다. 모호한 사례에서 프런티어 모델은 소수자로 표시된 후보를 약 60–65% 비율로 골랐다."
+              },
+              {
+                "t": "p",
+                "x": "설명하는 방식도 달랐다. 선호된 후보는 자격을 덜 인정받았다. 편향 완화 개입 아홉 가지 가운데 정확도를 대체로 지키면서 격차를 좁힌 것은 반사실적 사고 사슬(counterfactual chain-of-thought)뿐이었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GoogleのAI\nエージェントがウェットラボへ",
-          "body": "GoogleのAIエージェントが、デジタルツインの検証を経て閉ループ実験を回した。",
-          "mini_headline": "AIエージェント、ウェットラボへ",
+          "headline": "公平に見えるLLMsも\n属性の手がかりで揺らぐ",
+          "body": "Ai2のFairStressでは属性が明示されるほどLLMsが少数派候補へ過剰補正する。",
+          "mini_headline": "FairStressでLLMの公平性を検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google ResearchはAIエージェントをウェットラボの実験台に持ち込み、物理的なラボロボットと結びつけて、高速な閉ループの分子設計サイクルを回している。そのすべてを動かすのは人間の科学者の主体性だ。"
-              },
-              {
-                "t": "p",
-                "x": "VERIDはラボのワークセルを表すセマンティックなデジタルツインで、ロボットの形状、ウェルの液量、試薬、ピペットチップを追跡する。PyLabRobot上に構築され、エージェントが液体ハンドリングのプロトコルを計画、シミュレーション、実行できるようにし、物理的に不可能な命令を実行前に検出する。"
-              },
-              {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
-                "cap": "エージェントは閉ループの中でアプタマーの設計、合成、選抜、シーケンシングを繰り返す。"
+                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
               },
               {
                 "t": "p",
-                "x": "DNAアプタマーでは、エージェントが二つのタンパク質に対して設計と試験のラウンドを三回実施した。ウェットラボでの失敗から学んだ結果、確認された標的ヒット率はミオグロビンで33.5%、α-トロンビンで42.1%に上がった。"
+                "x": "Ai2は、LLMsの人口統計学的な公平性を、モデルが最終的に下す選択を超えて測定するベンチマークFairStressを発表した。シナリオの2つの版で同じ答えに至っても意味のある違いが隠れている場合があるため、説得力のある「敵対的プレフィックス」が集団ごとに判断を異なる形で変えるかどうかも検証する。"
               },
               {
                 "t": "p",
-                "x": "固形がんで過剰発現する受容体FAPに対するde novoタンパク質バインダーでは、エピトープ切除パイプラインが構造予測を8.6x 高速化した。人間とエージェントの協働でin-silicoのヒット率はほぼ倍増し、一桁ナノモル級のバインダーが得られた。"
+                "x": "採用や医療から融資、刑事司法まで29の領域にわたる、候補者2人の300シナリオで構成され、1300万件を超えるテストケースを生み出す。5万項目のサブセットFairStress-Coreも公開された。"
+              },
+              {
+                "t": "p",
+                "x": "人口統計情報がない場合、挙動はおおむね対称だった。属性が明示的になるほど対称性は崩れた。正しい選択を手放すことが少数派とコード化された候補に有利に働く場合、モデルはより容易にそれを手放した。「反ステレオタイプ的過剰補正」である。曖昧なケースでは、フロンティアモデルが少数派とコード化された候補を選んだ割合は約60–65%だった。"
+              },
+              {
+                "t": "p",
+                "x": "説明にも差が出て、優遇された候補の資格は評価されにくかった。9種類のバイアス緩和策のうち、精度をほぼ保ちながら差を縮めたのは反事実的な思考の連鎖（counterfactual chain-of-thought）だけだった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI智能体\n走进湿实验室",
-          "body": "Google的AI智能体完成了闭环实验，并由数字孪生在执行前核查机器人流程。",
-          "mini_headline": "AI智能体走进湿实验室",
+          "headline": "看似公平的LLMs\n仍会被身份线索左右",
+          "body": "Ai2的FairStress发现，身份线索越明确，LLMs越会向少数群体候选人过度矫正。",
+          "mini_headline": "FairStress检验LLM公平性",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google Research正把AI智能体带到湿实验室的工作台上，让它们依托实体实验室机器人，快速运行闭环分子设计循环，而这一切都由人类科学家的能动性主导。"
-              },
-              {
-                "t": "p",
-                "x": "VERID是实验室工作单元的语义数字孪生，可追踪机器人几何结构、孔位体积、试剂和移液枪头。它基于PyLabRobot构建，让智能体能够规划、模拟并执行液体处理流程，在指令运行前拦截物理上不可能执行的命令。"
-              },
-              {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
-                "cap": "智能体在闭环中反复设计、合成、筛选和测序适配体。"
+                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
               },
               {
                 "t": "p",
-                "x": "在DNA适配体实验中，智能体针对两种蛋白质进行了三轮设计-测试，从湿实验失败中学习后，把经确认的靶向命中率提高到肌红蛋白33.5%、α-凝血酶42.1%。"
+                "x": "Ai2推出FairStress基准，用于在模型最终选择之外衡量LLMs的人口统计公平性。同一情景的两个版本即便得出相同答案，也可能掩盖实质差异，因此它还测试具有说服力的“对抗性前缀”是否会因群体不同而以不同方式改变决策。"
               },
               {
                 "t": "p",
-                "x": "在针对FAP（一种在实体瘤中过度表达的受体）的de novo蛋白结合物设计中，表位切除流程使结构预测提速8.6x ，人与智能体的协作让in-silico命中率提高近一倍，得到了个位数纳摩尔级的结合物。"
+                "x": "它涵盖招聘、医疗、贷款、刑事司法等29个领域的300个双候选人情景，生成超过1300万个测试用例；同时发布了包含5万个条目的FairStress-Core子集。"
+              },
+              {
+                "t": "p",
+                "x": "在没有人口统计信息时，模型行为大致对称；身份越明确，对称性越弱：当放弃正确选项会有利于被标记为少数群体的候选人时，模型更容易放弃，即“反刻板印象的过度矫正”。在模棱两可的案例中，前沿模型约有60–65%的时间选择被标记为少数群体的候选人。"
+              },
+              {
+                "t": "p",
+                "x": "解释也存在差异，受偏向候选人的资历获得的认可更少。在九种去偏干预中，只有反事实思维链（counterfactual chain-of-thought）在基本保持准确率的同时缩小了差距。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los agentes de AI de Google\nllegan al laboratorio húmedo",
-          "body": "Agentes de AI de Google hicieron experimentos en bucle cerrado y un gemelo digital validó los protocolos robóticos.",
-          "mini_headline": "Agentes de AI en el laboratorio húmedo",
+          "headline": "LLMs que parecen justos pueden\nceder ante señales de identidad",
+          "body": "FairStress, de Ai2, halla que los LLMs sobrecorrigen hacia candidatos minoritarios si la identidad es explícita.",
+          "mini_headline": "FairStress pone a prueba la equidad de los LLM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google Research está llevando agentes de AI a la mesa del laboratorio húmedo, conectándolos con robótica de laboratorio física para ejecutar ciclos rápidos de diseño molecular en bucle cerrado, todo ello impulsado por la agencia científica humana."
-              },
-              {
-                "t": "p",
-                "x": "VERID es un gemelo digital semántico de la celda de trabajo del laboratorio que registra la geometría del robot, los volúmenes de los pocillos, los reactivos y las puntas de pipeta. Construido sobre PyLabRobot, permite que un agente planifique, simule y ejecute protocolos de manejo de líquidos, y detecta las órdenes físicamente imposibles antes de que se ejecuten."
-              },
-              {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
-                "cap": "Los agentes diseñan, sintetizan, seleccionan y secuencian aptámeros de forma iterativa en un bucle cerrado."
+                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
               },
               {
                 "t": "p",
-                "x": "Con aptámeros de DNA, los agentes completaron tres rondas de diseño y prueba sobre dos proteínas y, tras aprender de los fallos en el laboratorio húmedo, elevaron las tasas de acierto confirmadas sobre el objetivo al 33.5% para la mioglobina y al 42.1% para la α-trombina."
+                "x": "Ai2 presentó FairStress, un benchmark para medir la equidad demográfica en LLMs más allá de la elección final de un modelo. Llegar a la misma respuesta en dos versiones de un escenario puede ocultar diferencias relevantes, por lo que también evalúa si \"prefijos adversariales\" persuasivos alteran las decisiones de forma distinta según el grupo."
               },
               {
                 "t": "p",
-                "x": "Para ligandos proteicos de novo contra FAP, un receptor sobreexpresado en tumores sólidos, un flujo de escisión de epítopos aceleró 8.6x la predicción de estructuras, y la colaboración entre humanos y agentes casi duplicó la tasa de acierto in-silico, con ligandos de afinidad nanomolar de un solo dígito."
+                "x": "Abarca 300 escenarios con dos candidatos en 29 ámbitos, desde la contratación y la sanidad hasta los préstamos y la justicia penal, y genera más de 13 millones de casos de prueba; también se publica un subconjunto, FairStress-Core, de 50.000 elementos."
+              },
+              {
+                "t": "p",
+                "x": "Sin información demográfica, el comportamiento fue aproximadamente simétrico. A medida que la identidad se hacía más explícita, dejaba de serlo: los modelos abandonaban con más facilidad una elección correcta cuando eso favorecía a un candidato codificado como minoritario, una \"sobrecorrección antiestereotípica\". En casos ambiguos, los modelos de frontera eligieron candidatos codificados como minoritarios alrededor del 60–65% de las veces."
+              },
+              {
+                "t": "p",
+                "x": "Las explicaciones también variaron y reconocieron menos las cualificaciones de los candidatos favorecidos. De nueve intervenciones para reducir sesgos, solo la cadena de pensamiento contrafactual (counterfactual chain-of-thought) redujo la brecha conservando en gran medida la precisión."
               }
             ]
           }
@@ -967,141 +887,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Google AI 에이전트\n습식 실험대에 서다",
-          "body": "Google AI 에이전트가 디지털 트윈 검증을 거쳐 폐루프 실험을 돌렸다.",
-          "mini_headline": "AI 에이전트, 습식 실험실로",
+          "headline": "공정해 보이는 LLMs도\n정체성 단서엔 흔들린다",
+          "body": "Ai2 FairStress에서 LLMs는 신원이 드러날수록 소수자 편으로 기울었다.",
+          "mini_headline": "FairStress로 본 LLM 공정성",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google Research는 AI 에이전트를 습식 실험대로 데려오고 있다. 에이전트를 실제 실험실 로봇에 연결해 빠른 폐루프 분자 설계 주기를 돌리며, 이 모든 과정은 인간 과학자의 주도로 움직인다."
-              },
-              {
-                "t": "p",
-                "x": "VERID는 실험실 워크셀의 의미론적 디지털 트윈으로, 로봇의 기하 구조와 웰 용량, 시약, 피펫 팁을 추적한다. PyLabRobot 위에 구축돼 에이전트가 액체 처리 프로토콜을 계획하고 시뮬레이션하고 실행하게 하며, 물리적으로 불가능한 명령은 실행 전에 잡아낸다."
-              },
-              {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
-                "cap": "에이전트가 폐루프 안에서 앱타머를 반복적으로 설계, 합성, 선별, 시퀀싱한다."
+                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
               },
               {
                 "t": "p",
-                "x": "DNA 앱타머 실험에서 에이전트는 두 단백질을 대상으로 설계-시험 라운드를 세 차례 돌렸다. 습식 실험의 실패에서 배운 끝에 확인된 표적 적중률을 미오글로빈 33.5%, α-트롬빈 42.1%까지 끌어올렸다."
+                "x": "Ai2가 LLMs의 인구통계학적 공정성을 모델의 최종 선택 너머까지 측정하는 벤치마크 FairStress를 내놓았다. 한 시나리오의 두 버전에서 같은 답에 이르더라도 의미 있는 차이가 숨어 있을 수 있어, 설득력 있는 \"적대적 접두어(adversarial prefixes)\"가 집단에 따라 결정을 다르게 바꾸는지도 시험한다."
               },
               {
                 "t": "p",
-                "x": "고형암에서 과발현되는 수용체 FAP에 결합하는 de novo 단백질 바인더 설계에서는 에피토프 절제 파이프라인이 구조 예측을 8.6x 빠르게 했다. 인간과 에이전트의 협업으로 in-silico 적중률이 두 배 가까이 뛰었고, 한 자릿수 나노몰 수준의 바인더를 얻었다."
+                "x": "채용과 의료부터 대출, 형사 사법까지 29개 영역에 걸친 후보 두 명짜리 시나리오 300개로 1300만 개가 넘는 테스트 케이스를 만들며, 5만 개 항목의 하위 세트 FairStress-Core도 함께 공개했다."
+              },
+              {
+                "t": "p",
+                "x": "인구통계 정보가 없을 때 모델의 행동은 대체로 대칭적이었다. 정체성이 뚜렷해질수록 대칭이 무너졌다. 옳은 선택을 버리는 쪽이 소수자로 표시된 후보에게 유리할 때 모델은 그 선택을 더 쉽게 버렸는데, 이른바 \"반고정관념적 과잉 교정\"이다. 모호한 사례에서 프런티어 모델은 소수자로 표시된 후보를 약 60–65%의 비율로 골랐다."
+              },
+              {
+                "t": "p",
+                "x": "설명 방식도 달라, 선호된 후보의 자격은 덜 인정받았다. 아홉 가지 편향 완화 개입 가운데 반사실적 사고 사슬(counterfactual chain-of-thought)만이 정확도를 대체로 유지하면서 격차를 좁혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "GoogleのAI\nエージェントがウェットラボへ",
-          "body": "GoogleのAIエージェントが、デジタルツインの検証を経て閉ループ実験を回した。",
-          "mini_headline": "AIエージェント、ウェットラボへ",
+          "headline": "公平に見えるLLMsも\n属性の手がかりで揺らぐ",
+          "body": "Ai2のFairStressでは属性が明示されるほどLLMsが少数派候補へ過剰補正する。",
+          "mini_headline": "FairStressでLLMの公平性を検証",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google ResearchはAIエージェントをウェットラボの実験台に持ち込み、物理的なラボロボットと結びつけて、高速な閉ループの分子設計サイクルを回している。そのすべてを動かすのは人間の科学者の主体性だ。"
-              },
-              {
-                "t": "p",
-                "x": "VERIDはラボのワークセルを表すセマンティックなデジタルツインで、ロボットの形状、ウェルの液量、試薬、ピペットチップを追跡する。PyLabRobot上に構築され、エージェントが液体ハンドリングのプロトコルを計画、シミュレーション、実行できるようにし、物理的に不可能な命令を実行前に検出する。"
-              },
-              {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
-                "cap": "エージェントは閉ループの中でアプタマーの設計、合成、選抜、シーケンシングを繰り返す。"
+                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
               },
               {
                 "t": "p",
-                "x": "DNAアプタマーでは、エージェントが二つのタンパク質に対して設計と試験のラウンドを三回実施した。ウェットラボでの失敗から学んだ結果、確認された標的ヒット率はミオグロビンで33.5%、α-トロンビンで42.1%に上がった。"
+                "x": "Ai2は、LLMsの人口統計学的な公平性を、モデルが最終的に下す選択を超えて測定するベンチマークFairStressを発表した。シナリオの2つの版で同じ答えに至っても意味のある違いが隠れている場合があるため、説得力のある「敵対的プレフィックス」が集団ごとに判断を異なる形で変えるかどうかも検証する。"
               },
               {
                 "t": "p",
-                "x": "固形がんで過剰発現する受容体FAPに対するde novoタンパク質バインダーでは、エピトープ切除パイプラインが構造予測を8.6x 高速化した。人間とエージェントの協働でin-silicoのヒット率はほぼ倍増し、一桁ナノモル級のバインダーが得られた。"
+                "x": "採用や医療から融資、刑事司法まで29の領域にわたる、候補者2人の300シナリオで構成され、1300万件を超えるテストケースを生み出す。5万項目のサブセットFairStress-Coreも公開された。"
+              },
+              {
+                "t": "p",
+                "x": "人口統計情報がない場合、挙動はおおむね対称だった。属性が明示的になるほど対称性は崩れた。正しい選択を手放すことが少数派とコード化された候補に有利に働く場合、モデルはより容易にそれを手放した。「反ステレオタイプ的過剰補正」である。曖昧なケースでは、フロンティアモデルが少数派とコード化された候補を選んだ割合は約60–65%だった。"
+              },
+              {
+                "t": "p",
+                "x": "説明にも差が出て、優遇された候補の資格は評価されにくかった。9種類のバイアス緩和策のうち、精度をほぼ保ちながら差を縮めたのは反事実的な思考の連鎖（counterfactual chain-of-thought）だけだった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Google AI智能体\n走进湿实验室",
-          "body": "Google的AI智能体完成了闭环实验，并由数字孪生在执行前核查机器人流程。",
-          "mini_headline": "AI智能体走进湿实验室",
+          "headline": "看似公平的LLMs\n仍会被身份线索左右",
+          "body": "Ai2的FairStress发现，身份线索越明确，LLMs越会向少数群体候选人过度矫正。",
+          "mini_headline": "FairStress检验LLM公平性",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google Research正把AI智能体带到湿实验室的工作台上，让它们依托实体实验室机器人，快速运行闭环分子设计循环，而这一切都由人类科学家的能动性主导。"
-              },
-              {
-                "t": "p",
-                "x": "VERID是实验室工作单元的语义数字孪生，可追踪机器人几何结构、孔位体积、试剂和移液枪头。它基于PyLabRobot构建，让智能体能够规划、模拟并执行液体处理流程，在指令运行前拦截物理上不可能执行的命令。"
-              },
-              {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
-                "cap": "智能体在闭环中反复设计、合成、筛选和测序适配体。"
+                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
               },
               {
                 "t": "p",
-                "x": "在DNA适配体实验中，智能体针对两种蛋白质进行了三轮设计-测试，从湿实验失败中学习后，把经确认的靶向命中率提高到肌红蛋白33.5%、α-凝血酶42.1%。"
+                "x": "Ai2推出FairStress基准，用于在模型最终选择之外衡量LLMs的人口统计公平性。同一情景的两个版本即便得出相同答案，也可能掩盖实质差异，因此它还测试具有说服力的“对抗性前缀”是否会因群体不同而以不同方式改变决策。"
               },
               {
                 "t": "p",
-                "x": "在针对FAP（一种在实体瘤中过度表达的受体）的de novo蛋白结合物设计中，表位切除流程使结构预测提速8.6x ，人与智能体的协作让in-silico命中率提高近一倍，得到了个位数纳摩尔级的结合物。"
+                "x": "它涵盖招聘、医疗、贷款、刑事司法等29个领域的300个双候选人情景，生成超过1300万个测试用例；同时发布了包含5万个条目的FairStress-Core子集。"
+              },
+              {
+                "t": "p",
+                "x": "在没有人口统计信息时，模型行为大致对称；身份越明确，对称性越弱：当放弃正确选项会有利于被标记为少数群体的候选人时，模型更容易放弃，即“反刻板印象的过度矫正”。在模棱两可的案例中，前沿模型约有60–65%的时间选择被标记为少数群体的候选人。"
+              },
+              {
+                "t": "p",
+                "x": "解释也存在差异，受偏向候选人的资历获得的认可更少。在九种去偏干预中，只有反事实思维链（counterfactual chain-of-thought）在基本保持准确率的同时缩小了差距。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los agentes de AI de Google\nllegan al laboratorio húmedo",
-          "body": "Agentes de AI de Google hicieron experimentos en bucle cerrado y un gemelo digital validó los protocolos robóticos.",
-          "mini_headline": "Agentes de AI en el laboratorio húmedo",
+          "headline": "LLMs que parecen justos pueden\nceder ante señales de identidad",
+          "body": "FairStress, de Ai2, halla que los LLMs sobrecorrigen hacia candidatos minoritarios si la identidad es explícita.",
+          "mini_headline": "FairStress pone a prueba la equidad de los LLM",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "video",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/media/VERID_Video.mp4"
-              },
-              {
-                "t": "p",
-                "x": "Google Research está llevando agentes de AI a la mesa del laboratorio húmedo, conectándolos con robótica de laboratorio física para ejecutar ciclos rápidos de diseño molecular en bucle cerrado, todo ello impulsado por la agencia científica humana."
-              },
-              {
-                "t": "p",
-                "x": "VERID es un gemelo digital semántico de la celda de trabajo del laboratorio que registra la geometría del robot, los volúmenes de los pocillos, los reactivos y las puntas de pipeta. Construido sobre PyLabRobot, permite que un agente planifique, simule y ejecute protocolos de manejo de líquidos, y detecta las órdenes físicamente imposibles antes de que se ejecuten."
-              },
-              {
                 "t": "img",
-                "src": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs1_AptamersPipeline.png",
-                "cap": "Los agentes diseñan, sintetizan, seleccionan y secuencian aptámeros de forma iterativa en un bucle cerrado."
+                "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
               },
               {
                 "t": "p",
-                "x": "Con aptámeros de DNA, los agentes completaron tres rondas de diseño y prueba sobre dos proteínas y, tras aprender de los fallos en el laboratorio húmedo, elevaron las tasas de acierto confirmadas sobre el objetivo al 33.5% para la mioglobina y al 42.1% para la α-trombina."
+                "x": "Ai2 presentó FairStress, un benchmark para medir la equidad demográfica en LLMs más allá de la elección final de un modelo. Llegar a la misma respuesta en dos versiones de un escenario puede ocultar diferencias relevantes, por lo que también evalúa si \"prefijos adversariales\" persuasivos alteran las decisiones de forma distinta según el grupo."
               },
               {
                 "t": "p",
-                "x": "Para ligandos proteicos de novo contra FAP, un receptor sobreexpresado en tumores sólidos, un flujo de escisión de epítopos aceleró 8.6x la predicción de estructuras, y la colaboración entre humanos y agentes casi duplicó la tasa de acierto in-silico, con ligandos de afinidad nanomolar de un solo dígito."
+                "x": "Abarca 300 escenarios con dos candidatos en 29 ámbitos, desde la contratación y la sanidad hasta los préstamos y la justicia penal, y genera más de 13 millones de casos de prueba; también se publica un subconjunto, FairStress-Core, de 50.000 elementos."
+              },
+              {
+                "t": "p",
+                "x": "Sin información demográfica, el comportamiento fue aproximadamente simétrico. A medida que la identidad se hacía más explícita, dejaba de serlo: los modelos abandonaban con más facilidad una elección correcta cuando eso favorecía a un candidato codificado como minoritario, una \"sobrecorrección antiestereotípica\". En casos ambiguos, los modelos de frontera eligieron candidatos codificados como minoritarios alrededor del 60–65% de las veces."
+              },
+              {
+                "t": "p",
+                "x": "Las explicaciones también variaron y reconocieron menos las cualificaciones de los candidatos favorecidos. De nueve intervenciones para reducir sesgos, solo la cadena de pensamiento contrafactual (counterfactual chain-of-thought) redujo la brecha conservando en gran medida la precisión."
               }
             ]
           }
@@ -1109,15 +1009,15 @@
       }
     },
     {
-      "id": "science-pew-synthetic-persona-polling",
+      "id": "science-sodium-ion",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 페르소나는\n표심 변화를 놓칠 수도",
-      "body": "Pew 실험에서 AI 페르소나의 답은 실제 패널과 평균 12퍼센트포인트 차이 났다.",
-      "mini_headline": "AI 페르소나는 진짜 유권자가 아니다",
+      "headline": "AI 나트륨이온 전지 설계\n돕는 양극재 라이브러리",
+      "body": "Surrey대가 나트륨 양극재 28종 라이브러리로 머신러닝 모델을 학습시켰다.",
+      "mini_headline": "AI 배터리 설계의 씨앗 데이터",
       "tool": "Science",
-      "source": "Phys.org",
-      "url": "https://phys.org/news/2026-10-synthetic-opinion-polling-ai-personas.html",
+      "source": "Tech Xplore",
+      "url": "https://techxplore.com/news/2026-10-materials-library-ai-sodium-ion.html",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1125,203 +1025,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
-            "cap": "Credit: Pixabay/CC0 Public Domain"
+            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+            "cap": "그래픽 초록. 출처: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
           },
           {
             "t": "p",
-            "x": "여론조사 업체들은 이제 대규모 언어 모델에 여론조사 데이터와 인구통계를 넣어 페르소나를 수백, 수천 개씩 만든다. 이 페르소나가 포커스 그룹과 설문에서 유권자 자리를 대신한다. Syracuse University의 Jennifer Stromer-Galley 교수는 이를 신중하게 본다."
+            "x": "University of Surrey 연구진이 나트륨 망간 산화물 양극재 조성 28종으로 라이브러리를 만들었다. 망간 일부를 철, 티타늄, 바나듐으로 바꾼 조성들이다."
           },
           {
             "t": "p",
-            "x": "사람들은 주요 쟁점에 대한 답을 몇 달 만에도 바꾸지만, 고정된 지시를 따르는 페르소나는 늘 같은 답을 내놓기 쉽다. 그는 \"내가 우려하는 건 챗봇이 여론의 변화를 어떻게 반영하느냐\"라고 말한다."
+            "x": "철은 더 높은 에너지 용량과, 바나듐은 더 나은 사이클 안정성과, 소량의 티타늄은 더 나은 고율 성능과 관련이 있었다. 티타늄이 들어간 일부 조성은 100회 사이클 뒤에도 용량의 90% 이상을 지켰다."
           },
           {
             "t": "p",
-            "x": "페르소나 집합의 인구통계를 맞춰도 모델 안에 박힌 편향은 바로잡히지 않고, 전형적인 답이 실제 이상치를 지워 버리기도 한다."
+            "x": "연구팀은 이 데이터로 머신러닝 모델을 학습시켰다. 다만 라이브러리가 아직 작아 믿을 만한 예측은 어렵다. 규모를 키우면 언젠가는 AI가 실험 전에 유망한 조성을 제안할 수도 있다. 교신저자 Daniel Commandeur 박사는 리튬과 비교해 \"나트륨이 훨씬 더 풍부하다\"고 짚었다."
           },
           {
             "t": "p",
-            "x": "Pew Research Center가 구월에 한 실험에서는 AI가 실제 American Trends Panel 구성원 역할을 맡았다. 300개 가까운 질문에서 AI의 답은 사람들의 답과 평균 12퍼센트포인트 차이가 났다. 질문 절반 가까이에는 AI 응답자가 아무도 고르지 않은 선택지가 있었다."
-          },
-          {
-            "t": "p",
-            "x": "Stromer-Galley는 합성 여론조사를 \"우리를 일그러뜨려 비추는 거울\"이라고 부른다."
+            "x": "연구 결과는 Journal of Materials Chemistry A에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "AI personas may miss\nhow voters change",
-          "body": "In a Pew experiment, AI personas' answers differed from human panelists' by 12 percentage points on average.",
-          "mini_headline": "AI personas aren't\nreal voters",
+          "headline": "A cathode library to help AI\ndesign sodium-ion batteries",
+          "body": "Surrey built a library of 28 sodium manganese oxide cathodes and trained a machine-learning model on its test data.",
+          "mini_headline": "Seed data for AI battery design",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
-                "cap": "Credit: Pixabay/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+                "cap": "Visual abstract. Credit: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
               },
               {
                 "t": "p",
-                "x": "Polling firms now build hundreds or thousands of personas with large language models, drawn from polling data and demographics, to stand in for voters in focus groups and surveys. Syracuse University professor Jennifer Stromer-Galley is cautious."
+                "x": "University of Surrey researchers created a library of 28 sodium manganese oxide cathode compositions, partly substituting manganese with iron, titanium and vanadium."
               },
               {
                 "t": "p",
-                "x": "Real people's answers on top issues can shift within months, but personas following fixed instructions may give the same answers every time. \"My concern is how the chatbots account for shifts in public opinion,\" she says."
+                "x": "Iron was linked to higher energy capacity, vanadium to better cycling stability, and small amounts of titanium to better high-rate performance; some titanium-containing compositions kept over 90% of their capacity after 100 cycles."
               },
               {
                 "t": "p",
-                "x": "Matching a persona set's demographics doesn't fix bias built into the model, and typical answers can erase real outliers."
+                "x": "The team used the data to train a machine-learning model, though the library is still too small for reliable predictions. Expanding it could eventually let AI suggest promising compositions before lab testing. \"Sodium is far more abundant\" than lithium, noted corresponding author Dr. Daniel Commandeur."
               },
               {
                 "t": "p",
-                "x": "A September Pew Research Center experiment had an AI adopt the personas of real American Trends Panel members: across nearly 300 questions, its answers differed from the humans' by 12 percentage points on average, and nearly half the questions had an option no AI respondent chose."
-              },
-              {
-                "t": "p",
-                "x": "Stromer-Galley calls synthetic polling a \"distorted mirror of us.\""
+                "x": "The study is published in the Journal of Materials Chemistry A."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 페르소나는\n표심 변화를 놓칠 수도",
-          "body": "Pew 실험에서 AI 페르소나의 답은 실제 패널과 평균 12퍼센트포인트 차이 났다.",
-          "mini_headline": "AI 페르소나는 진짜 유권자가 아니다",
+          "headline": "AI 나트륨이온 전지 설계\n돕는 양극재 라이브러리",
+          "body": "Surrey대가 나트륨 양극재 28종 라이브러리로 머신러닝 모델을 학습시켰다.",
+          "mini_headline": "AI 배터리 설계의 씨앗 데이터",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
-                "cap": "Credit: Pixabay/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+                "cap": "그래픽 초록. 출처: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
               },
               {
                 "t": "p",
-                "x": "여론조사 업체들은 이제 대규모 언어 모델에 여론조사 데이터와 인구통계를 넣어 페르소나를 수백, 수천 개씩 만든다. 이 페르소나가 포커스 그룹과 설문에서 유권자 자리를 대신한다. Syracuse University의 Jennifer Stromer-Galley 교수는 이를 신중하게 본다."
+                "x": "University of Surrey 연구진이 나트륨 망간 산화물 양극재 조성 28종으로 라이브러리를 만들었다. 망간 일부를 철, 티타늄, 바나듐으로 바꾼 조성들이다."
               },
               {
                 "t": "p",
-                "x": "사람들은 주요 쟁점에 대한 답을 몇 달 만에도 바꾸지만, 고정된 지시를 따르는 페르소나는 늘 같은 답을 내놓기 쉽다. 그는 \"내가 우려하는 건 챗봇이 여론의 변화를 어떻게 반영하느냐\"라고 말한다."
+                "x": "철은 더 높은 에너지 용량과, 바나듐은 더 나은 사이클 안정성과, 소량의 티타늄은 더 나은 고율 성능과 관련이 있었다. 티타늄이 들어간 일부 조성은 100회 사이클 뒤에도 용량의 90% 이상을 지켰다."
               },
               {
                 "t": "p",
-                "x": "페르소나 집합의 인구통계를 맞춰도 모델 안에 박힌 편향은 바로잡히지 않고, 전형적인 답이 실제 이상치를 지워 버리기도 한다."
+                "x": "연구팀은 이 데이터로 머신러닝 모델을 학습시켰다. 다만 라이브러리가 아직 작아 믿을 만한 예측은 어렵다. 규모를 키우면 언젠가는 AI가 실험 전에 유망한 조성을 제안할 수도 있다. 교신저자 Daniel Commandeur 박사는 리튬과 비교해 \"나트륨이 훨씬 더 풍부하다\"고 짚었다."
               },
               {
                 "t": "p",
-                "x": "Pew Research Center가 구월에 한 실험에서는 AI가 실제 American Trends Panel 구성원 역할을 맡았다. 300개 가까운 질문에서 AI의 답은 사람들의 답과 평균 12퍼센트포인트 차이가 났다. 질문 절반 가까이에는 AI 응답자가 아무도 고르지 않은 선택지가 있었다."
-              },
-              {
-                "t": "p",
-                "x": "Stromer-Galley는 합성 여론조사를 \"우리를 일그러뜨려 비추는 거울\"이라고 부른다."
+                "x": "연구 결과는 Journal of Materials Chemistry A에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIペルソナは\n民意の変化を見逃すかも",
-          "body": "Pewの実験で、AIペルソナの回答は人間のパネルと平均12パーセントポイント異なった。",
-          "mini_headline": "AIペルソナは本物の有権者ではない",
+          "headline": "AIのナトリウム電池設計を\n支える正極ライブラリー",
+          "body": "Surreyは正極28種のライブラリーを作り、その試験データで機械学習モデルを訓練した。",
+          "mini_headline": "AI電池設計の種となるデータ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
-                "cap": "Credit: Pixabay/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+                "cap": "ビジュアルアブストラクト。出典：Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
               },
               {
                 "t": "p",
-                "x": "世論調査会社は今、世論調査データや人口統計をもとに大規模言語モデルで数百から数千のペルソナを作り、フォーカスグループや調査で有権者の代わりに使っている。Syracuse UniversityのJennifer Stromer-Galley教授は慎重だ。"
+                "x": "University of Surreyの研究者らは、マンガンの一部を鉄、チタン、バナジウムで置き換えた、ナトリウムマンガン酸化物正極の28組成からなるライブラリーを作製した。"
               },
               {
                 "t": "p",
-                "x": "主要な争点に対する実際の人々の回答は数カ月で変わりうるが、固定された指示に従うペルソナは毎回同じ答えを返すかもしれない。「懸念しているのは、チャットボットが世論の変化をどう反映するかだ」と彼女は言う。"
+                "x": "鉄は高いエネルギー容量、バナジウムは優れたサイクル安定性、少量のチタンは優れた高レート性能と関連していた。チタンを含む一部の組成は、100サイクル後も容量の90%超を維持した。"
               },
               {
                 "t": "p",
-                "x": "ペルソナ群の人口構成を合わせても、モデルに組み込まれた偏りは解消されず、典型的な回答が実在する外れ値を消してしまうおそれがある。"
+                "x": "チームはこのデータで機械学習モデルを訓練したが、ライブラリーは信頼できる予測にはまだ小さすぎる。拡充すれば、いずれAIが実験前に有望な組成を提案できるようになる可能性がある。責任著者のDaniel Commandeur博士は、リチウムと比べて「ナトリウムははるかに豊富だ」と指摘した。"
               },
               {
                 "t": "p",
-                "x": "Pew Research Centerが九月に行った実験では、AIに実際のAmerican Trends Panel参加者のペルソナを演じさせた。300近い質問全体で、回答は人間と平均12パーセントポイント異なり、質問のほぼ半数にはどのAI回答者も選ばなかった選択肢があった。"
-              },
-              {
-                "t": "p",
-                "x": "Stromer-Galley氏は合成世論調査を「私たちのゆがんだ鏡」と呼ぶ。"
+                "x": "研究はJournal of Materials Chemistry Aに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI虚拟人设\n或难捕捉选民变化",
-          "body": "在Pew的实验中，AI虚拟人设的回答与真人小组成员平均相差12个百分点。",
-          "mini_headline": "AI虚拟人设不是真实选民",
+          "headline": "一座正极材料库\n助AI设计钠离子电池",
+          "body": "Surrey团队建立了含28种钠锰氧化物正极的材料库，并用其测试数据训练机器学习模型。",
+          "mini_headline": "AI电池设计的种子数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
-                "cap": "Credit: Pixabay/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+                "cap": "图文摘要。来源：Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
               },
               {
                 "t": "p",
-                "x": "民调公司如今利用大语言模型，依据民调数据和人口统计资料构建数百乃至数千个虚拟人设，在焦点小组和调查中代替选民。Syracuse University教授Jennifer Stromer-Galley对此持谨慎态度。"
+                "x": "University of Surrey的研究人员建立了一个包含28种钠锰氧化物正极组成的材料库，并用铁、钛和钒部分取代锰。"
               },
               {
                 "t": "p",
-                "x": "真人对重大议题的回答可能在几个月内发生变化，但遵循固定指令的虚拟人设可能每次都给出相同答案。她说：“我担心的是聊天机器人如何反映舆论的变化。”"
+                "x": "铁与更高的能量容量相关，钒与更好的循环稳定性相关，少量钛则与更好的高倍率性能相关；部分含钛组成在100次循环后仍保持90%以上的容量。"
               },
               {
                 "t": "p",
-                "x": "让一组虚拟人设的人口结构与现实匹配，并不能消除模型内在的偏见，而典型化的回答还可能抹去真实存在的极端值。"
+                "x": "团队用这些数据训练了一个机器学习模型，但材料库目前仍太小，尚不足以做出可靠预测。扩充后，AI未来或可在实验室测试前提出有前景的组成。通讯作者Daniel Commandeur博士指出，与锂相比，“钠的储量要丰富得多”。"
               },
               {
                 "t": "p",
-                "x": "Pew Research Center九月的一项实验让AI扮演真实American Trends Panel成员的虚拟人设：在近300个问题中，其回答与真人平均相差12个百分点，近一半问题中都有一个没有任何AI受访者选择的选项。"
-              },
-              {
-                "t": "p",
-                "x": "Stromer-Galley称合成民调是“一面扭曲映照我们的镜子”。"
+                "x": "该研究发表于Journal of Materials Chemistry A。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los perfiles de AI podrían no\nver cómo cambian los votantes",
-          "body": "En un experimento de Pew, los perfiles de AI se desviaron 12 puntos porcentuales de media de los panelistas humanos.",
-          "mini_headline": "Los perfiles de AI no son votantes reales",
+          "headline": "Una biblioteca para que la IA\ndiseñe baterías de ion sodio",
+          "body": "Surrey creó una biblioteca de 28 cátodos de sodio y entrenó con sus datos un modelo de aprendizaje automático.",
+          "mini_headline": "Datos semilla para diseñar baterías con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
-                "cap": "Credit: Pixabay/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+                "cap": "Resumen visual. Crédito: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
               },
               {
                 "t": "p",
-                "x": "Las encuestadoras crean ahora cientos o miles de perfiles con modelos de lenguaje de gran tamaño, a partir de datos de encuestas y demografía, para sustituir a los votantes en grupos focales y sondeos. Jennifer Stromer-Galley, profesora de Syracuse University, se muestra cautelosa."
+                "x": "Investigadores de la University of Surrey crearon una biblioteca de 28 composiciones de cátodos de óxido de sodio y manganeso, en las que sustituyeron parcialmente el manganeso por hierro, titanio y vanadio."
               },
               {
                 "t": "p",
-                "x": "Las respuestas de las personas reales sobre los grandes temas pueden cambiar en cuestión de meses, pero los perfiles que siguen instrucciones fijas pueden dar siempre las mismas respuestas. \"Me preocupa cómo los chatbots reflejan los cambios en la opinión pública\", afirma."
+                "x": "El hierro se asoció a una mayor capacidad energética; el vanadio, a una mejor estabilidad en los ciclos, y pequeñas cantidades de titanio, a un mejor rendimiento a altas tasas; algunas composiciones con titanio conservaron más del 90% de su capacidad tras 100 ciclos."
               },
               {
                 "t": "p",
-                "x": "Igualar la demografía de un conjunto de perfiles no corrige el sesgo integrado en el modelo, y las respuestas típicas pueden borrar los casos atípicos reales."
+                "x": "El equipo usó los datos para entrenar un modelo de aprendizaje automático, aunque la biblioteca aún es demasiado pequeña para hacer predicciones fiables. Ampliarla podría permitir con el tiempo que la IA sugiera composiciones prometedoras antes de las pruebas de laboratorio. \"El sodio es mucho más abundante\" que el litio, señaló el autor de correspondencia, el Dr. Daniel Commandeur."
               },
               {
                 "t": "p",
-                "x": "Un experimento de septiembre del Pew Research Center hizo que una AI adoptara los perfiles de miembros reales del American Trends Panel: en casi 300 preguntas, sus respuestas difirieron de las humanas en 12 puntos porcentuales de media, y casi la mitad de las preguntas tenía una opción que ningún encuestado de AI eligió."
-              },
-              {
-                "t": "p",
-                "x": "Stromer-Galley describe las encuestas sintéticas como un \"espejo distorsionado de nosotros\"."
+                "x": "El estudio se publica en el Journal of Materials Chemistry A."
               }
             ]
           }
@@ -1329,141 +1205,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 페르소나는\n표심 변화를 놓칠 수도",
-          "body": "Pew 실험에서 AI 페르소나의 답은 실제 패널과 평균 12퍼센트포인트 달랐다.",
-          "mini_headline": "AI 페르소나는 진짜 유권자가 아니다",
+          "headline": "AI 나트륨이온 전지 설계\n돕는 양극재 라이브러리",
+          "body": "Surrey대가 나트륨 양극재 28종 라이브러리로 머신러닝 모델을 학습시켰다.",
+          "mini_headline": "AI 배터리 설계의 씨앗 데이터",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
-                "cap": "Credit: Pixabay/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+                "cap": "그래픽 초록. 출처: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
               },
               {
                 "t": "p",
-                "x": "여론조사 업체들은 이제 대규모 언어 모델로 여론조사 데이터와 인구통계를 바탕으로 수백, 수천 개의 페르소나를 만들어 포커스 그룹과 설문에서 유권자를 대신하게 한다. Syracuse University의 Jennifer Stromer-Galley 교수는 신중한 입장이다."
+                "x": "University of Surrey 연구진이 망간 일부를 철, 티타늄, 바나듐으로 치환한 나트륨 망간 산화물 양극재 조성 28종의 라이브러리를 만들었다."
               },
               {
                 "t": "p",
-                "x": "주요 쟁점에 대한 실제 사람들의 답은 몇 달 사이에도 바뀔 수 있지만, 고정된 지시를 따르는 페르소나는 매번 같은 답을 내놓을 수 있다. 그는 \"내가 우려하는 건 챗봇이 여론의 변화를 어떻게 반영하느냐\"라고 말한다."
+                "x": "철은 더 높은 에너지 용량, 바나듐은 더 나은 사이클 안정성, 소량의 티타늄은 더 나은 고율 성능과 관련이 있었다. 티타늄을 포함한 일부 조성은 100회 사이클 후에도 용량의 90% 이상을 유지했다."
               },
               {
                 "t": "p",
-                "x": "페르소나 집합의 인구통계를 맞춘다고 모델에 내재한 편향이 바로잡히지는 않으며, 전형적인 답이 실제 이상치를 지워 버릴 수 있다."
+                "x": "연구팀은 이 데이터로 머신러닝 모델을 학습시켰지만, 라이브러리는 아직 신뢰할 만한 예측을 하기에는 작다. 규모를 키우면 언젠가 AI가 실험 전에 유망한 조성을 제안할 수 있을 것이다. 교신저자 Daniel Commandeur 박사는 리튬과 비교해 \"나트륨이 훨씬 더 풍부하다\"고 짚었다."
               },
               {
                 "t": "p",
-                "x": "Pew Research Center가 구월에 진행한 실험에서는 AI가 실제 American Trends Panel 구성원의 페르소나를 맡았다. 300개 가까운 질문에서 AI의 답은 사람들의 답과 평균 12퍼센트포인트 차이 났고, 질문의 절반 가까이에는 어떤 AI 응답자도 고르지 않은 선택지가 있었다."
-              },
-              {
-                "t": "p",
-                "x": "Stromer-Galley는 합성 여론조사를 \"우리를 일그러뜨려 비추는 거울\"이라고 부른다."
+                "x": "연구 결과는 Journal of Materials Chemistry A에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIペルソナは\n民意の変化を見逃すかも",
-          "body": "Pewの実験で、AIペルソナの回答は人間のパネルと平均12パーセントポイント異なった。",
-          "mini_headline": "AIペルソナは本物の有権者ではない",
+          "headline": "AIのナトリウム電池設計を\n支える正極ライブラリー",
+          "body": "Surreyは正極28種のライブラリーを作り、その試験データで機械学習モデルを訓練した。",
+          "mini_headline": "AI電池設計の種となるデータ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
-                "cap": "Credit: Pixabay/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+                "cap": "ビジュアルアブストラクト。出典：Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
               },
               {
                 "t": "p",
-                "x": "世論調査会社は今、世論調査データや人口統計をもとに大規模言語モデルで数百から数千のペルソナを作り、フォーカスグループや調査で有権者の代わりに使っている。Syracuse UniversityのJennifer Stromer-Galley教授は慎重だ。"
+                "x": "University of Surreyの研究者らは、マンガンの一部を鉄、チタン、バナジウムで置き換えた、ナトリウムマンガン酸化物正極の28組成からなるライブラリーを作製した。"
               },
               {
                 "t": "p",
-                "x": "主要な争点に対する実際の人々の回答は数カ月で変わりうるが、固定された指示に従うペルソナは毎回同じ答えを返すかもしれない。「懸念しているのは、チャットボットが世論の変化をどう反映するかだ」と彼女は言う。"
+                "x": "鉄は高いエネルギー容量、バナジウムは優れたサイクル安定性、少量のチタンは優れた高レート性能と関連していた。チタンを含む一部の組成は、100サイクル後も容量の90%超を維持した。"
               },
               {
                 "t": "p",
-                "x": "ペルソナ群の人口構成を合わせても、モデルに組み込まれた偏りは解消されず、典型的な回答が実在する外れ値を消してしまうおそれがある。"
+                "x": "チームはこのデータで機械学習モデルを訓練したが、ライブラリーは信頼できる予測にはまだ小さすぎる。拡充すれば、いずれAIが実験前に有望な組成を提案できるようになる可能性がある。責任著者のDaniel Commandeur博士は、リチウムと比べて「ナトリウムははるかに豊富だ」と指摘した。"
               },
               {
                 "t": "p",
-                "x": "Pew Research Centerが九月に行った実験では、AIに実際のAmerican Trends Panel参加者のペルソナを演じさせた。300近い質問全体で、回答は人間と平均12パーセントポイント異なり、質問のほぼ半数にはどのAI回答者も選ばなかった選択肢があった。"
-              },
-              {
-                "t": "p",
-                "x": "Stromer-Galley氏は合成世論調査を「私たちのゆがんだ鏡」と呼ぶ。"
+                "x": "研究はJournal of Materials Chemistry Aに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "AI虚拟人设\n或难捕捉选民变化",
-          "body": "在Pew的实验中，AI虚拟人设的回答与真人小组成员平均相差12个百分点。",
-          "mini_headline": "AI虚拟人设不是真实选民",
+          "headline": "一座正极材料库\n助AI设计钠离子电池",
+          "body": "Surrey团队建立了含28种钠锰氧化物正极的材料库，并用其测试数据训练机器学习模型。",
+          "mini_headline": "AI电池设计的种子数据",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
-                "cap": "Credit: Pixabay/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+                "cap": "图文摘要。来源：Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
               },
               {
                 "t": "p",
-                "x": "民调公司如今利用大语言模型，依据民调数据和人口统计资料构建数百乃至数千个虚拟人设，在焦点小组和调查中代替选民。Syracuse University教授Jennifer Stromer-Galley对此持谨慎态度。"
+                "x": "University of Surrey的研究人员建立了一个包含28种钠锰氧化物正极组成的材料库，并用铁、钛和钒部分取代锰。"
               },
               {
                 "t": "p",
-                "x": "真人对重大议题的回答可能在几个月内发生变化，但遵循固定指令的虚拟人设可能每次都给出相同答案。她说：“我担心的是聊天机器人如何反映舆论的变化。”"
+                "x": "铁与更高的能量容量相关，钒与更好的循环稳定性相关，少量钛则与更好的高倍率性能相关；部分含钛组成在100次循环后仍保持90%以上的容量。"
               },
               {
                 "t": "p",
-                "x": "让一组虚拟人设的人口结构与现实匹配，并不能消除模型内在的偏见，而典型化的回答还可能抹去真实存在的极端值。"
+                "x": "团队用这些数据训练了一个机器学习模型，但材料库目前仍太小，尚不足以做出可靠预测。扩充后，AI未来或可在实验室测试前提出有前景的组成。通讯作者Daniel Commandeur博士指出，与锂相比，“钠的储量要丰富得多”。"
               },
               {
                 "t": "p",
-                "x": "Pew Research Center九月的一项实验让AI扮演真实American Trends Panel成员的虚拟人设：在近300个问题中，其回答与真人平均相差12个百分点，近一半问题中都有一个没有任何AI受访者选择的选项。"
-              },
-              {
-                "t": "p",
-                "x": "Stromer-Galley称合成民调是“一面扭曲映照我们的镜子”。"
+                "x": "该研究发表于Journal of Materials Chemistry A。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Los perfiles de AI podrían no\nver cómo cambian los votantes",
-          "body": "En un experimento de Pew, los perfiles de AI se desviaron 12 puntos porcentuales de media de los panelistas humanos.",
-          "mini_headline": "Los perfiles de AI no son votantes reales",
+          "headline": "Una biblioteca para que la IA\ndiseñe baterías de ion sodio",
+          "body": "Surrey creó una biblioteca de 28 cátodos de sodio y entrenó con sus datos un modelo de aprendizaje automático.",
+          "mini_headline": "Datos semilla para diseñar baterías con IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/vote-1.jpg",
-                "cap": "Credit: Pixabay/CC0 Public Domain"
+                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+                "cap": "Resumen visual. Crédito: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
               },
               {
                 "t": "p",
-                "x": "Las encuestadoras crean ahora cientos o miles de perfiles con modelos de lenguaje de gran tamaño, a partir de datos de encuestas y demografía, para sustituir a los votantes en grupos focales y sondeos. Jennifer Stromer-Galley, profesora de Syracuse University, se muestra cautelosa."
+                "x": "Investigadores de la University of Surrey crearon una biblioteca de 28 composiciones de cátodos de óxido de sodio y manganeso, en las que sustituyeron parcialmente el manganeso por hierro, titanio y vanadio."
               },
               {
                 "t": "p",
-                "x": "Las respuestas de las personas reales sobre los grandes temas pueden cambiar en cuestión de meses, pero los perfiles que siguen instrucciones fijas pueden dar siempre las mismas respuestas. \"Me preocupa cómo los chatbots reflejan los cambios en la opinión pública\", afirma."
+                "x": "El hierro se asoció a una mayor capacidad energética; el vanadio, a una mejor estabilidad en los ciclos, y pequeñas cantidades de titanio, a un mejor rendimiento a altas tasas; algunas composiciones con titanio conservaron más del 90% de su capacidad tras 100 ciclos."
               },
               {
                 "t": "p",
-                "x": "Igualar la demografía de un conjunto de perfiles no corrige el sesgo integrado en el modelo, y las respuestas típicas pueden borrar los casos atípicos reales."
+                "x": "El equipo usó los datos para entrenar un modelo de aprendizaje automático, aunque la biblioteca aún es demasiado pequeña para hacer predicciones fiables. Ampliarla podría permitir con el tiempo que la IA sugiera composiciones prometedoras antes de las pruebas de laboratorio. \"El sodio es mucho más abundante\" que el litio, señaló el autor de correspondencia, el Dr. Daniel Commandeur."
               },
               {
                 "t": "p",
-                "x": "Un experimento de septiembre del Pew Research Center hizo que una AI adoptara los perfiles de miembros reales del American Trends Panel: en casi 300 preguntas, sus respuestas difirieron de las humanas en 12 puntos porcentuales de media, y casi la mitad de las preguntas tenía una opción que ningún encuestado de AI eligió."
-              },
-              {
-                "t": "p",
-                "x": "Stromer-Galley describe las encuestas sintéticas como un \"espejo distorsionado de nosotros\"."
+                "x": "El estudio se publica en el Journal of Materials Chemistry A."
               }
             ]
           }
@@ -1471,15 +1331,15 @@
       }
     },
     {
-      "id": "science-turing-three-player-gpt4",
+      "id": "science-glucose-sensing",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Turing 게임은 여전히\nGPT-4-Turbo 간파",
-      "body": "첫 Turing 원안 실험에서 37명 중 36명이 GPT-4-Turbo를 가려냈다.",
-      "mini_headline": "Turing 게임, GPT-4-Turbo 간파",
+      "headline": "라만·NIR 스펙트럼 융합\n바이오공정 포도당 추적",
+      "body": "라만·NIR을 융합한 트랜스포머가 공정 포도당 추적에서 ML 모델 4종을 앞섰다.",
+      "mini_headline": "라만+NIR 포도당 센싱",
       "tool": "Science",
-      "source": "Tech Xplore",
-      "url": "https://techxplore.com/news/2026-10-dispute-ai-turing.html",
+      "source": "GEN",
+      "url": "https://www.genengnews.com/topics/bioprocessing/ramannir-spectra-improves-glucose-soft-sensing/",
       "accent": "#eb367f",
       "motif": "sphere",
       "full": {
@@ -1487,179 +1347,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
-            "cap": "Credit: Unsplash/CC0 Public Domain"
+            "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+            "cap": "출처: Eugenio Marongiu/Getty Images"
           },
           {
             "t": "p",
-            "x": "University of Canterbury의 연구자 Diane Proudfoot, Sharon Temtsin, Christoph Bartneck은 Turing 테스트라는 이름이 붙은 실험 상당수가 정작 Turing의 설계를 따르지 않는다고 지적한다. 이들은 Turing의 원래 설계를 처음으로 실험에 옮겼다고 밝혔다."
+            "x": "유가식(fed-batch) 발효에서 포도당을 정확히 모니터링하는 일은 오랫동안 병목이었다. 오프라인 센서로는 하이브리드·연속 바이오공정이 요구하는 고빈도·저지연 측정값을 얻지 못한다."
           },
           {
             "t": "p",
-            "x": "1948년부터 1952년까지 나온 Turing의 저작을 살펴보니 오 분 제한과 30% 통과 기준은 그가 정한 규칙이 아니었다. Turing이 구상한 건 질문이 자유롭게 오가고 시간 제한도 없는 세 명의 게임이었다."
+            "x": "East China University of Science and Technology의 Xiwei Tian과 Guilin University of Electronic Technology의 Yinlan Ruan이 이끈 연구진은 이중 스트림 교차 어텐션 트랜스포머 DS-CAT을 만들었다. 라만과 NIR 스펙트럼을 따로 인코딩한 뒤 융합해 라만의 화학적 지문과 NIR의 넓은 커버리지를 한데 묶는다."
           },
           {
             "t": "p",
-            "x": "참가자들은 어느 쪽이 기계인지 확신이 설 때까지 사람 한 명, GPT-4-Turbo와 자유롭게 대화했다. 37명 중 36명이 AI를 알아봐 식별률은 97%였다. 89%는 오 분을 넘겼고, 대화는 평균 14분, 가장 긴 것은 46분이었다."
+            "x": "동기화된 Raman-NIR 기록 142건에서 DS-CAT은 포도당 변동의 99%를 설명했다(RMSE 1.09 g/L, MAE 0.89 g/L). 다섯 겹 교차 검증에서도 성능이 유지됐고 부분최소제곱법, 그레이디언트 부스팅 트리, CNNs, 시간 합성곱 신경망을 모두 앞섰다. 예측 민감도는 1122–1335 cm⁻¹ 라만 구간에서 가장 강했다."
           },
           {
             "t": "p",
-            "x": "저자들은 Turing의 원래 설계대로 치른 테스트를 통과한 대형 언어 모델이 아직 확인되지 않았다고 결론지었다. 이번 결과는 GPT-4-Turbo에만 해당하고, 더 새로운 모델은 다를 수 있다. 연구는 Philosophy of Science에 실렸다."
+            "x": "연구는 Bioprocess and Biosystems Engineering에 실렸다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Turing's own game still\nunmasks GPT-4-Turbo",
-          "body": "In what researchers call the first test of Turing's original game, 36 of 37 people spotted GPT-4-Turbo.",
-          "mini_headline": "Turing's game\nunmasks GPT-4-Turbo",
+          "headline": "Fusing Raman and NIR spectra\nto track bioprocess glucose",
+          "body": "A dual-stream transformer fuses Raman and NIR spectra to track bioprocess glucose, outperforming four other ML models.",
+          "mini_headline": "Raman+NIR glucose sensing",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+                "cap": "Credit: Eugenio Marongiu/Getty Images"
               },
               {
                 "t": "p",
-                "x": "University of Canterbury researchers Diane Proudfoot, Sharon Temtsin and Christoph Bartneck argue that many experiments called Turing tests don't follow Turing's design, and say they have implemented his original design experimentally for the first time."
+                "x": "Accurate glucose monitoring has long been a bottleneck in fed-batch fermentation, and off-line sensors lack the high-frequency, low-latency readings that hybrid and continuous bioprocessing need."
               },
               {
                 "t": "p",
-                "x": "Reviewing Turing's writings from 1948 to 1952, they found the five-minute limit and the 30% pass threshold were not his rules; he envisioned a three-player game with open-ended questioning and no fixed time limit."
+                "x": "Researchers led by Xiwei Tian of East China University of Science and Technology and Yinlan Ruan of Guilin University of Electronic Technology built DS-CAT, a dual-stream, cross-attention transformer that encodes Raman and NIR spectra separately and fuses them, pairing Raman's chemical fingerprints with NIR's broad coverage."
               },
               {
                 "t": "p",
-                "x": "Participants chatted freely with a human and GPT-4-Turbo until sure which was the machine. 36 of 37 identified the AI, a 97% rate. 89% took longer than five minutes; conversations averaged 14 minutes, the longest 46."
+                "x": "On 142 synchronized Raman-NIR records, it explained 99% of glucose variation (RMSE 1.09 g/L, MAE 0.89 g/L), held up across five-fold validation, and outperformed partial least squares, gradient boosting trees, CNNs and temporal convolutional networks. The 1122–1335 cm⁻¹ Raman interval showed the strongest prediction sensitivity."
               },
               {
                 "t": "p",
-                "x": "The authors conclude no large language model has yet been shown to pass a test following Turing's original design, though results apply only to GPT-4-Turbo and newer models may differ. The study appears in Philosophy of Science."
+                "x": "The work appears in Bioprocess and Biosystems Engineering."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Turing 게임은 여전히\nGPT-4-Turbo 간파",
-          "body": "첫 Turing 원안 실험에서 37명 중 36명이 GPT-4-Turbo를 가려냈다.",
-          "mini_headline": "Turing 게임, GPT-4-Turbo 간파",
+          "headline": "라만·NIR 스펙트럼 융합\n바이오공정 포도당 추적",
+          "body": "라만·NIR을 융합한 트랜스포머가 공정 포도당 추적에서 ML 모델 4종을 앞섰다.",
+          "mini_headline": "라만+NIR 포도당 센싱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+                "cap": "출처: Eugenio Marongiu/Getty Images"
               },
               {
                 "t": "p",
-                "x": "University of Canterbury의 연구자 Diane Proudfoot, Sharon Temtsin, Christoph Bartneck은 Turing 테스트라는 이름이 붙은 실험 상당수가 정작 Turing의 설계를 따르지 않는다고 지적한다. 이들은 Turing의 원래 설계를 처음으로 실험에 옮겼다고 밝혔다."
+                "x": "유가식(fed-batch) 발효에서 포도당을 정확히 모니터링하는 일은 오랫동안 병목이었다. 오프라인 센서로는 하이브리드·연속 바이오공정이 요구하는 고빈도·저지연 측정값을 얻지 못한다."
               },
               {
                 "t": "p",
-                "x": "1948년부터 1952년까지 나온 Turing의 저작을 살펴보니 오 분 제한과 30% 통과 기준은 그가 정한 규칙이 아니었다. Turing이 구상한 건 질문이 자유롭게 오가고 시간 제한도 없는 세 명의 게임이었다."
+                "x": "East China University of Science and Technology의 Xiwei Tian과 Guilin University of Electronic Technology의 Yinlan Ruan이 이끈 연구진은 이중 스트림 교차 어텐션 트랜스포머 DS-CAT을 만들었다. 라만과 NIR 스펙트럼을 따로 인코딩한 뒤 융합해 라만의 화학적 지문과 NIR의 넓은 커버리지를 한데 묶는다."
               },
               {
                 "t": "p",
-                "x": "참가자들은 어느 쪽이 기계인지 확신이 설 때까지 사람 한 명, GPT-4-Turbo와 자유롭게 대화했다. 37명 중 36명이 AI를 알아봐 식별률은 97%였다. 89%는 오 분을 넘겼고, 대화는 평균 14분, 가장 긴 것은 46분이었다."
+                "x": "동기화된 Raman-NIR 기록 142건에서 DS-CAT은 포도당 변동의 99%를 설명했다(RMSE 1.09 g/L, MAE 0.89 g/L). 다섯 겹 교차 검증에서도 성능이 유지됐고 부분최소제곱법, 그레이디언트 부스팅 트리, CNNs, 시간 합성곱 신경망을 모두 앞섰다. 예측 민감도는 1122–1335 cm⁻¹ 라만 구간에서 가장 강했다."
               },
               {
                 "t": "p",
-                "x": "저자들은 Turing의 원래 설계대로 치른 테스트를 통과한 대형 언어 모델이 아직 확인되지 않았다고 결론지었다. 이번 결과는 GPT-4-Turbo에만 해당하고, 더 새로운 모델은 다를 수 있다. 연구는 Philosophy of Science에 실렸다."
+                "x": "연구는 Bioprocess and Biosystems Engineering에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Turingのゲームは今も\nGPT-4-Turbo見破る",
-          "body": "初めてTuringの原案を再現した実験で37人中36人がGPT-4-Turboを見破った。",
-          "mini_headline": "TuringのゲームがGPT-4-Turboを見破る",
+          "headline": "ラマンとNIRを融合し\n培養液のグルコースを追跡",
+          "body": "ラマンとNIRを融合するトランスフォーマーがグルコース追跡で他のMLモデル4種を上回った。",
+          "mini_headline": "ラマン+NIRでグルコース計測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+                "cap": "写真：Eugenio Marongiu/Getty Images"
               },
               {
                 "t": "p",
-                "x": "University of CanterburyのDiane Proudfoot、Sharon Temtsin、Christoph Bartneckの研究者らは、Turingテストと呼ばれる実験の多くがTuringの設計に従っていないと指摘し、彼の原案を初めて実験的に実装したとしている。"
+                "x": "流加培養（fed-batch）発酵では正確なグルコース監視が長年ボトルネックとなっており、オフラインのセンサーでは、ハイブリッド型や連続型のバイオプロセスに必要な高頻度・低遅延の測定値が得られない。"
               },
               {
                 "t": "p",
-                "x": "1948年から1952年までのTuringの著作を調べた結果、五分間の制限や30%の合格基準は彼のルールではなかった。Turingが構想したのは、自由な質問を交わし、決まった時間制限のない三者によるゲームだった。"
+                "x": "East China University of Science and TechnologyのXiwei Tian氏とGuilin University of Electronic TechnologyのYinlan Ruan氏が率いる研究チームは、ラマンとNIRのスペクトルを別々にエンコードして融合する二重ストリーム・クロスアテンション型トランスフォーマー「DS-CAT」を構築した。ラマンの化学的指紋とNIRの広い測定範囲を組み合わせる仕組みだ。"
               },
               {
                 "t": "p",
-                "x": "参加者は、どちらが機械か確信できるまで、人間とGPT-4-Turboの双方と自由にチャットした。37人中36人がAIを見分け、識別率は97%に達した。89%が五分以上を要し、会話は平均14分、最長で46分だった。"
+                "x": "同期したRaman-NIR記録142件で、DS-CATはグルコース変動の99%を説明し（RMSE 1.09 g/L、MAE 0.89 g/L）、5分割交差検証でも性能を維持したうえ、部分最小二乗法、勾配ブースティング木、CNNs、時間畳み込みネットワークを上回った。1122–1335 cm⁻¹のラマン領域が最も高い予測感度を示した。"
               },
               {
                 "t": "p",
-                "x": "著者らは、Turingの原案に沿ったテストに合格した大規模言語モデルはまだ示されていないと結論づけた。ただし結果はGPT-4-Turboにのみ当てはまり、新しいモデルでは異なる可能性がある。研究はPhilosophy of Scienceに掲載された。"
+                "x": "研究はBioprocess and Biosystems Engineeringに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Turing原版游戏\n仍识破GPT-4-Turbo",
-          "body": "在首次还原Turing原版游戏的测试中，37人里有36人识破了GPT-4-Turbo。",
-          "mini_headline": "Turing游戏识破GPT-4-Turbo",
+          "headline": "融合拉曼与NIR光谱\n追踪生物过程葡萄糖",
+          "body": "双流Transformer融合拉曼与NIR光谱追踪生物过程葡萄糖，优于另外四种ML模型。",
+          "mini_headline": "拉曼+NIR葡萄糖监测",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+                "cap": "图片来源：Eugenio Marongiu/Getty Images"
               },
               {
                 "t": "p",
-                "x": "University of Canterbury的研究人员Diane Proudfoot、Sharon Temtsin和Christoph Bartneck认为，许多被称为Turing测试的实验并未遵循Turing的设计，并表示他们首次以实验方式实现了他的原始设计。"
+                "x": "在补料分批（fed-batch）发酵中，精确的葡萄糖监测长期以来一直是瓶颈，离线传感器无法提供混合式与连续生物工艺所需的高频、低延迟读数。"
               },
               {
                 "t": "p",
-                "x": "通过梳理Turing在1948年至1952年间的著述，他们发现五分钟时限和30%的通过门槛并非他的规则；他设想的是一场三人游戏，提问开放，没有固定时限。"
+                "x": "由East China University of Science and Technology的Xiwei Tian与Guilin University of Electronic Technology的Yinlan Ruan领导的研究人员构建了DS-CAT——一种双流交叉注意力Transformer，它分别编码拉曼与NIR光谱并加以融合，将拉曼的化学指纹与NIR的宽覆盖范围结合起来。"
               },
               {
                 "t": "p",
-                "x": "参与者与一名真人和GPT-4-Turbo自由聊天，直到确定哪一方是机器。37人中有36人认出了AI，识别率为97%。89%的人用时超过五分钟；对话平均持续14分钟，最长46分钟。"
+                "x": "在142组同步的Raman-NIR记录上，它解释了99%的葡萄糖变化（RMSE 1.09 g/L，MAE 0.89 g/L），在五折交叉验证中表现稳定，并优于偏最小二乘、梯度提升树、CNNs和时间卷积网络。1122–1335 cm⁻¹的拉曼区间显示出最强的预测敏感性。"
               },
               {
                 "t": "p",
-                "x": "作者总结称，尚无大语言模型被证明能通过遵循Turing原始设计的测试，不过结果仅适用于GPT-4-Turbo，更新的模型可能有所不同。该研究发表于Philosophy of Science。"
+                "x": "该研究发表于Bioprocess and Biosystems Engineering。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El juego original de Turing\naún desenmascara a GPT-4-Turbo",
-          "body": "En la que los autores llaman primera prueba del juego original de Turing, 36 de 37 personas detectaron a GPT-4-Turbo.",
-          "mini_headline": "El juego de Turing desenmascara a GPT-4-Turbo",
+          "headline": "Espectros Raman y NIR fusionados\nsiguen la glucosa en bioprocesos",
+          "body": "Un transformer de doble flujo fusiona espectros Raman y NIR, sigue la glucosa y supera a otros cuatro modelos de ML.",
+          "mini_headline": "Glucosa con Raman+NIR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+                "cap": "Crédito: Eugenio Marongiu/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Los investigadores de la University of Canterbury Diane Proudfoot, Sharon Temtsin y Christoph Bartneck sostienen que muchos experimentos llamados pruebas de Turing no siguen el diseño de Turing, y afirman haber implementado experimentalmente su diseño original por primera vez."
+                "x": "La monitorización precisa de la glucosa ha sido durante mucho tiempo un cuello de botella en la fermentación por lote alimentado (fed-batch), y los sensores fuera de línea no ofrecen las lecturas de alta frecuencia y baja latencia que requieren los bioprocesos híbridos y continuos."
               },
               {
                 "t": "p",
-                "x": "Al revisar los escritos de Turing de 1948 a 1952, comprobaron que el límite de cinco minutos y el umbral de aprobación del 30% no eran reglas suyas; él concibió un juego de tres jugadores con preguntas abiertas y sin límite de tiempo fijo."
+                "x": "Investigadores dirigidos por Xiwei Tian, de la East China University of Science and Technology, y Yinlan Ruan, de la Guilin University of Electronic Technology, crearon DS-CAT, un transformer de doble flujo con atención cruzada que codifica por separado los espectros Raman y NIR y los fusiona, combinando las huellas químicas de Raman con la amplia cobertura del NIR."
               },
               {
                 "t": "p",
-                "x": "Los participantes conversaron libremente con un humano y con GPT-4-Turbo hasta estar seguros de cuál era la máquina. 36 de 37 identificaron a la AI, una tasa del 97%. El 89% tardó más de cinco minutos; las conversaciones duraron 14 minutos de media, y la más larga, 46."
+                "x": "Con 142 registros Raman-NIR sincronizados, explicó el 99% de la variación de la glucosa (RMSE 1,09 g/L, MAE 0,89 g/L), se mantuvo en una validación cruzada de cinco particiones y superó a los mínimos cuadrados parciales, los árboles de gradient boosting, las CNNs y las redes convolucionales temporales. El intervalo Raman de 1122–1335 cm⁻¹ mostró la mayor sensibilidad predictiva."
               },
               {
                 "t": "p",
-                "x": "Los autores concluyen que aún no se ha demostrado que ningún modelo de lenguaje de gran tamaño supere una prueba que siga el diseño original de Turing, aunque los resultados solo se aplican a GPT-4-Turbo y los modelos más nuevos podrían diferir. El estudio aparece en Philosophy of Science."
+                "x": "El trabajo se publica en Bioprocess and Biosystems Engineering."
               }
             ]
           }
@@ -1667,125 +1527,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Turing 게임은 여전히\nGPT-4-Turbo 간파",
-          "body": "첫 Turing 원안 실험에서 37명 중 36명이 GPT-4-Turbo를 찾았다.",
-          "mini_headline": "Turing 게임, GPT-4-Turbo 간파",
+          "headline": "라만·NIR 스펙트럼 융합\n바이오공정 포도당 추적",
+          "body": "라만·NIR을 융합한 트랜스포머가 공정 포도당 추적에서 ML 모델 4종을 앞섰다.",
+          "mini_headline": "라만+NIR 포도당 센싱",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+                "cap": "출처: Eugenio Marongiu/Getty Images"
               },
               {
                 "t": "p",
-                "x": "University of Canterbury의 연구자 Diane Proudfoot, Sharon Temtsin, Christoph Bartneck은 Turing 테스트라 불리는 실험 상당수가 Turing의 설계를 따르지 않는다고 지적한다. 이들은 Turing의 원래 설계를 처음으로 실험에 구현했다고 밝혔다."
+                "x": "유가식(fed-batch) 발효에서 정확한 포도당 모니터링은 오랫동안 병목이었고, 오프라인 센서는 하이브리드·연속 바이오공정에 필요한 고빈도·저지연 측정값을 내지 못한다."
               },
               {
                 "t": "p",
-                "x": "1948년부터 1952년까지의 Turing 저작을 검토한 결과, 오 분 제한과 30% 통과 기준은 그가 정한 규칙이 아니었다. Turing이 구상한 것은 자유로운 질문이 오가고 정해진 시간 제한이 없는 세 명의 게임이었다."
+                "x": "East China University of Science and Technology의 Xiwei Tian과 Guilin University of Electronic Technology의 Yinlan Ruan이 이끈 연구진은 라만과 NIR 스펙트럼을 각각 인코딩한 뒤 융합하는 이중 스트림 교차 어텐션 트랜스포머 DS-CAT을 만들었다. 라만의 화학적 지문과 NIR의 넓은 커버리지를 결합한 방식이다."
               },
               {
                 "t": "p",
-                "x": "참가자들은 어느 쪽이 기계인지 확신할 때까지 사람 한 명, GPT-4-Turbo와 자유롭게 대화했다. 37명 중 36명이 AI를 가려내 식별률은 97%였다. 89%가 오 분 넘게 걸렸고, 대화는 평균 14분, 가장 긴 것은 46분이었다."
+                "x": "동기화된 Raman-NIR 기록 142건에서 DS-CAT은 포도당 변동의 99%를 설명했고(RMSE 1.09 g/L, MAE 0.89 g/L), 다섯 겹 교차 검증에서도 성능을 유지했으며, 부분최소제곱법, 그레이디언트 부스팅 트리, CNNs, 시간 합성곱 신경망보다 뛰어났다. 1122–1335 cm⁻¹ 라만 구간이 가장 강한 예측 민감도를 보였다."
               },
               {
                 "t": "p",
-                "x": "저자들은 Turing의 원래 설계를 따른 테스트를 통과한 대형 언어 모델은 아직 확인되지 않았다고 결론 내렸다. 다만 결과는 GPT-4-Turbo에만 해당하며 더 새로운 모델은 다를 수 있다. 연구는 Philosophy of Science에 실렸다."
+                "x": "이 연구는 Bioprocess and Biosystems Engineering에 실렸다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Turingのゲームは今も\nGPT-4-Turbo見破る",
-          "body": "初めてTuringの原案を再現した実験で37人中36人がGPT-4-Turboを見破った。",
-          "mini_headline": "TuringのゲームがGPT-4-Turboを見破る",
+          "headline": "ラマンとNIRを融合し\n培養液のグルコースを追跡",
+          "body": "ラマンとNIRを融合するトランスフォーマーがグルコース追跡で他のMLモデル4種を上回った。",
+          "mini_headline": "ラマン+NIRでグルコース計測",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+                "cap": "写真：Eugenio Marongiu/Getty Images"
               },
               {
                 "t": "p",
-                "x": "University of CanterburyのDiane Proudfoot、Sharon Temtsin、Christoph Bartneckの研究者らは、Turingテストと呼ばれる実験の多くがTuringの設計に従っていないと指摘し、彼の原案を初めて実験的に実装したとしている。"
+                "x": "流加培養（fed-batch）発酵では正確なグルコース監視が長年ボトルネックとなっており、オフラインのセンサーでは、ハイブリッド型や連続型のバイオプロセスに必要な高頻度・低遅延の測定値が得られない。"
               },
               {
                 "t": "p",
-                "x": "1948年から1952年までのTuringの著作を調べた結果、五分間の制限や30%の合格基準は彼のルールではなかった。Turingが構想したのは、自由な質問を交わし、決まった時間制限のない三者によるゲームだった。"
+                "x": "East China University of Science and TechnologyのXiwei Tian氏とGuilin University of Electronic TechnologyのYinlan Ruan氏が率いる研究チームは、ラマンとNIRのスペクトルを別々にエンコードして融合する二重ストリーム・クロスアテンション型トランスフォーマー「DS-CAT」を構築した。ラマンの化学的指紋とNIRの広い測定範囲を組み合わせる仕組みだ。"
               },
               {
                 "t": "p",
-                "x": "参加者は、どちらが機械か確信できるまで、人間とGPT-4-Turboの双方と自由にチャットした。37人中36人がAIを見分け、識別率は97%に達した。89%が五分以上を要し、会話は平均14分、最長で46分だった。"
+                "x": "同期したRaman-NIR記録142件で、DS-CATはグルコース変動の99%を説明し（RMSE 1.09 g/L、MAE 0.89 g/L）、5分割交差検証でも性能を維持したうえ、部分最小二乗法、勾配ブースティング木、CNNs、時間畳み込みネットワークを上回った。1122–1335 cm⁻¹のラマン領域が最も高い予測感度を示した。"
               },
               {
                 "t": "p",
-                "x": "著者らは、Turingの原案に沿ったテストに合格した大規模言語モデルはまだ示されていないと結論づけた。ただし結果はGPT-4-Turboにのみ当てはまり、新しいモデルでは異なる可能性がある。研究はPhilosophy of Scienceに掲載された。"
+                "x": "研究はBioprocess and Biosystems Engineeringに掲載された。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Turing原版游戏\n仍识破GPT-4-Turbo",
-          "body": "在首次还原Turing原版游戏的测试中，37人里有36人识破了GPT-4-Turbo。",
-          "mini_headline": "Turing游戏识破GPT-4-Turbo",
+          "headline": "融合拉曼与NIR光谱\n追踪生物过程葡萄糖",
+          "body": "双流Transformer融合拉曼与NIR光谱追踪生物过程葡萄糖，优于另外四种ML模型。",
+          "mini_headline": "拉曼+NIR葡萄糖监测",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+                "cap": "图片来源：Eugenio Marongiu/Getty Images"
               },
               {
                 "t": "p",
-                "x": "University of Canterbury的研究人员Diane Proudfoot、Sharon Temtsin和Christoph Bartneck认为，许多被称为Turing测试的实验并未遵循Turing的设计，并表示他们首次以实验方式实现了他的原始设计。"
+                "x": "在补料分批（fed-batch）发酵中，精确的葡萄糖监测长期以来一直是瓶颈，离线传感器无法提供混合式与连续生物工艺所需的高频、低延迟读数。"
               },
               {
                 "t": "p",
-                "x": "通过梳理Turing在1948年至1952年间的著述，他们发现五分钟时限和30%的通过门槛并非他的规则；他设想的是一场三人游戏，提问开放，没有固定时限。"
+                "x": "由East China University of Science and Technology的Xiwei Tian与Guilin University of Electronic Technology的Yinlan Ruan领导的研究人员构建了DS-CAT——一种双流交叉注意力Transformer，它分别编码拉曼与NIR光谱并加以融合，将拉曼的化学指纹与NIR的宽覆盖范围结合起来。"
               },
               {
                 "t": "p",
-                "x": "参与者与一名真人和GPT-4-Turbo自由聊天，直到确定哪一方是机器。37人中有36人认出了AI，识别率为97%。89%的人用时超过五分钟；对话平均持续14分钟，最长46分钟。"
+                "x": "在142组同步的Raman-NIR记录上，它解释了99%的葡萄糖变化（RMSE 1.09 g/L，MAE 0.89 g/L），在五折交叉验证中表现稳定，并优于偏最小二乘、梯度提升树、CNNs和时间卷积网络。1122–1335 cm⁻¹的拉曼区间显示出最强的预测敏感性。"
               },
               {
                 "t": "p",
-                "x": "作者总结称，尚无大语言模型被证明能通过遵循Turing原始设计的测试，不过结果仅适用于GPT-4-Turbo，更新的模型可能有所不同。该研究发表于Philosophy of Science。"
+                "x": "该研究发表于Bioprocess and Biosystems Engineering。"
               }
             ]
           }
         },
         "es": {
-          "headline": "El juego original de Turing\naún desenmascara a GPT-4-Turbo",
-          "body": "En la que los autores llaman primera prueba del juego original de Turing, 36 de 37 personas detectaron a GPT-4-Turbo.",
-          "mini_headline": "El juego de Turing desenmascara a GPT-4-Turbo",
+          "headline": "Espectros Raman y NIR fusionados\nsiguen la glucosa en bioprocesos",
+          "body": "Un transformer de doble flujo fusiona espectros Raman y NIR, sigue la glucosa y supera a otros cuatro modelos de ML.",
+          "mini_headline": "Glucosa con Raman+NIR",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://scx1.b-cdn.net/csz/news/800a/2026/talking-to-ai-1.jpg",
-                "cap": "Credit: Unsplash/CC0 Public Domain"
+                "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+                "cap": "Crédito: Eugenio Marongiu/Getty Images"
               },
               {
                 "t": "p",
-                "x": "Los investigadores de la University of Canterbury Diane Proudfoot, Sharon Temtsin y Christoph Bartneck sostienen que muchos experimentos llamados pruebas de Turing no siguen el diseño de Turing, y afirman haber implementado experimentalmente su diseño original por primera vez."
+                "x": "La monitorización precisa de la glucosa ha sido durante mucho tiempo un cuello de botella en la fermentación por lote alimentado (fed-batch), y los sensores fuera de línea no ofrecen las lecturas de alta frecuencia y baja latencia que requieren los bioprocesos híbridos y continuos."
               },
               {
                 "t": "p",
-                "x": "Al revisar los escritos de Turing de 1948 a 1952, comprobaron que el límite de cinco minutos y el umbral de aprobación del 30% no eran reglas suyas; él concibió un juego de tres jugadores con preguntas abiertas y sin límite de tiempo fijo."
+                "x": "Investigadores dirigidos por Xiwei Tian, de la East China University of Science and Technology, y Yinlan Ruan, de la Guilin University of Electronic Technology, crearon DS-CAT, un transformer de doble flujo con atención cruzada que codifica por separado los espectros Raman y NIR y los fusiona, combinando las huellas químicas de Raman con la amplia cobertura del NIR."
               },
               {
                 "t": "p",
-                "x": "Los participantes conversaron libremente con un humano y con GPT-4-Turbo hasta estar seguros de cuál era la máquina. 36 de 37 identificaron a la AI, una tasa del 97%. El 89% tardó más de cinco minutos; las conversaciones duraron 14 minutos de media, y la más larga, 46."
+                "x": "Con 142 registros Raman-NIR sincronizados, explicó el 99% de la variación de la glucosa (RMSE 1,09 g/L, MAE 0,89 g/L), se mantuvo en una validación cruzada de cinco particiones y superó a los mínimos cuadrados parciales, los árboles de gradient boosting, las CNNs y las redes convolucionales temporales. El intervalo Raman de 1122–1335 cm⁻¹ mostró la mayor sensibilidad predictiva."
               },
               {
                 "t": "p",
-                "x": "Los autores concluyen que aún no se ha demostrado que ningún modelo de lenguaje de gran tamaño supere una prueba que siga el diseño original de Turing, aunque los resultados solo se aplican a GPT-4-Turbo y los modelos más nuevos podrían diferir. El estudio aparece en Philosophy of Science."
+                "x": "El trabajo se publica en Bioprocess and Biosystems Engineering."
               }
             ]
           }

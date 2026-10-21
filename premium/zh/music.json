@@ -7247,6 +7247,132 @@
           "x": "这些固件的测试程度不如官方固件。Elektron在论坛上禁止发布定制固件链接，警告改装可能让设备变砖；M-Vave则发布了FM1 Open，这是一款附带开发套件和刷机工具的开源固件。"
         }
       ]
+    },
+    "music/music-iamddb-ai-likeness": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
+        },
+        {
+          "t": "p",
+          "x": "一个与这位曼彻斯特艺人极为相似的人物出现在一段AI-generated宣传视频中后，IAMDDB指责以色列政府运营的社交媒体账号“盗用了她的身份”。"
+        },
+        {
+          "t": "p",
+          "x": "这段现已删除的视频于10月15日在以色列多个官方社交媒体账号上发布，片中一名酷似这位葡萄牙出生音乐人的女性念出这样的歌词：“Colonisers? Say the name. Jews from Judea, it's in the damn name.”（殖民者？说出名字。来自犹地亚的犹太人，名字里就写着。）据Manchester Evening News报道，视频由出生于以色列、常驻新泽西的导演Eyal Be制作，配文为“'GO BACK WHERE YOU CAME FROM!' We did.”（“回到你们来的地方去！”我们做到了。）"
+        },
+        {
+          "t": "p",
+          "x": "活动人士Rafael Shimunov找到了一张2018年Crack的宣传照，照片中IAMDDB（本名Diana DeBrito）穿着几乎相同的服装；BALR.和Calvin Klein的标志被AI改成了“RALA.”和“Calvin Kale.”。"
+        },
+        {
+          "t": "p",
+          "x": "IAMDDB于10月16日在X上写道：“嗨，那个 - 你们为什么要把我的身份用在我100%没有同意的事情上？”"
+        }
+      ]
+    },
+    "music/music-gavras-storm-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
+        },
+        {
+          "t": "p",
+          "x": "模仿者用AI“重制”了Romain Gavras与Yung Lean合作的短片《Storm》，把主角换成了狗、婴儿、老奶奶、Elon Musk等。Gavras对Vulture表示，这些AI仿作“让我为所有在我们的视频上倾注大量心血的人感到难过”。"
+        },
+        {
+          "t": "p",
+          "x": "预算“非常、非常、非常、非常低”，他分文未取；舞者经过两个月的选角选出，与编舞Damien Jalet排练了三天，一镜到底的16毫米长镜头拍了约15次。"
+        },
+        {
+          "t": "p",
+          "x": "“这样的潮流会让好作品也显得很逊，”他说。他正在研究法律途径，并拒绝了几家AI公司的授权邀约：“一种经济模式正在到来，我们不想成为其中一部分。”"
+        },
+        {
+          "t": "p",
+          "x": "这些仿作促使他在MTV VMAs上现场表演了《Storm》。“它们缺少Yung Lean的那股气场，”Gavras说，“人类的不完美之中有某种东西……它们还没完全做到。”"
+        }
+      ]
+    },
+    "music/music-nmpa-streaming-fraud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
+        },
+        {
+          "t": "p",
+          "x": "在Copyright Royalty Board就2028–2032年词曲作者流媒体费率开庭审理前，NMPA总裁兼CEO David Israelite主张，法庭也必须正视流媒体欺诈问题，其规模“巨大，且因人工智能而加剧”。"
+        },
+        {
+          "t": "p",
+          "x": "由于版税来自按播放量分配的固定收入池，欺诈播放会直接削减人类词曲作者的收入。制作了数十万首AI歌曲、播放量达数十亿次的Michael Smith被判处18个月刑期。Apple Music在2025年发现了2 billion次欺诈播放；Deezer称每天有90,000首完全AI-generated的曲目被上传，其中高达85%的播放为人为制造。"
+        },
+        {
+          "t": "p",
+          "x": "Israelite还指出了借虚假播放洗钱和操纵预测市场的问题，并批评平台在AI音乐方面缺乏透明度。"
+        },
+        {
+          "t": "p",
+          "x": "NMPA本周将在纳什维尔召开Songs Summit，为AI标注、使用报告和检测制定标准。"
+        }
+      ]
+    },
+    "music/music-moises-soundcloud": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
+          "cap": "Moises x SoundCloud"
+        },
+        {
+          "t": "p",
+          "x": "Moises是一款经过合乎伦理训练的AI-powered创作套件，拥有80 million名音乐人用户。它与SoundCloud于10月21日宣布合作，艺人可将SoundCloud上的曲目导入Moises进行练习、制作、协作和再创作，再把完成的音乐直接发布回SoundCloud。"
+        },
+        {
+          "t": "p",
+          "x": "艺人可以使用Moises的分轨分离、和弦与歌词识别功能，在网页版Moises Studio中打开曲目进行混音、母带处理，或借助情境化分轨生成进行再创作；还能实时邀请协作者，并与智能体式制作助手Moi合作，它能搭建工程，并按要求完成混音和母带处理。"
+        },
+        {
+          "t": "img",
+          "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
+          "cap": "Moises x SoundCloud集成"
+        },
+        {
+          "t": "p",
+          "x": "SoundCloud CEO Eliah表示：“我们相信，音乐领域AI的未来应当以艺人为先、以人为先。”SoundCloud称，未经艺人明确同意，不会用其音乐训练生成式AI模型；Moises称，其模型只使用经授权和许可的音乐训练，而非用户上传内容，其工具也不会生成完整歌曲。"
+        },
+        {
+          "t": "p",
+          "x": "Moises Pro订阅用户可获得2个月的SoundCloud Artist Pro试用，SoundCloud Artist Pro会员可获得2个月的Moises Pro试用。"
+        }
+      ]
+    },
+    "music/music-spotify-50m-slop-purge": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Spotify表示，过去一年已从用户推荐中移除超过5000万首被认定为AI生成（AI-generated）劣质内容或垃圾内容的歌曲。根据周二发布的公告，Spotify还调整了推荐系统，以更多呈现人类艺术家创作的音乐。"
+        },
+        {
+          "t": "p",
+          "x": "“我们的编辑遵循同样的标准，不会编排被认定为劣质或垃圾内容的作品，”Spotify表示，“自从做出这些调整以来，听众对此类内容出现在推荐中的担忧明显减少。”"
+        },
+        {
+          "t": "p",
+          "x": "虽然Spotify没有强制要求为所有AI曲目添加标签，但它为使用AI身份、并不代表真实人物的艺术家推出了“AI Persona”徽章，也不会推荐AI角色的音乐。其他平台态度更为强硬：YouTube Music为AI歌曲加标签，Deezer允许用户过滤AI劣质内容，Bandcamp则全面禁止AI音乐。"
+        },
+        {
+          "t": "p",
+          "x": "Spotify称，它综合听众互动与反馈、上传模式、元数据以及第三方AI检测工具，判断一首曲目是否可能属于AI-generated劣质内容。去年，该公司称已下架超过7500万首被认定为垃圾内容的歌曲。它还与Universal Music Group和Believe合作，推出用于制作AI音乐混音的工具。"
+        }
+      ]
     }
   }
 }

@@ -1,250 +1,238 @@
 {
-  "section": "politics",
-  "now_iso": "2026-10-20T21:40:00Z",
-  "window_hours": 72,
-  "generated": "2026-10-21",
-  "items": [
-    {
-      "title": "DeepSeek deep-sixed at all US federal civilian agencies",
-      "url": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
-      "source": "The Register",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-20T00:11:10Z",
-      "excerpt": "DHS on Monday ordered federal civilian agencies to stop using and remove all DeepSeek and DeepSeek-affiliate products, including third-party services developed using DeepSeek; the order's scope is broad and vague. (Yonhap reports China called it politicisation of science and technology.)",
-      "og_image": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "lang": "en"
-    },
-    {
-      "title": "UK finance watchdog wants firms to report AI failures and close calls",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078",
-      "source": "The Register",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-20T09:57:08Z",
-      "excerpt": "FCA chief data officer Jessica Rusu said firms' incident reporting must cover significant AI failures and near-misses as increasingly autonomous agents enter financial services, demanding clear accountability. (Primary: FCA speech 'Building the future of finance in the age of AI'.)",
-      "og_image": "https://image.theregister.com/243695.jpg?imageId=243695&x=0&y=2.4&cropw=100&croph=88.36&panox=0&panoy=2.4&panow=100&panoh=88.36&width=1200&height=683",
-      "lang": "en"
-    },
-    {
-      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-      "source": "Ars Technica",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-20T17:40:20Z",
-      "excerpt": "In the authors' AI-training copyright case, Meta was ordered to identify the executives who approved torrenting shadow-library books for AI training; Meta argues nobody 'decided' to pirate books.",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-      "source": "Ars Technica",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-20T20:07:58Z",
-      "excerpt": "Meta changed its commercial terms on AI scraping/training after backlash but won't add language committing to respect robots.txt.",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134-1152x648.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "Democrats warn tech firms of election security 'backsliding' ahead of midterms",
-      "url": "https://www.nextgov.com/cybersecurity/2026/10/democrats-warn-tech-firms-election-security-backsliding-ahead-midterms/416701/",
-      "source": "Nextgov/FCW",
-      "category": "politics",
-      "axis": "elections",
-      "published_iso": "2026-10-20T15:07:00Z",
-      "excerpt": "Senior congressional Democrats on intelligence and election oversight sent a letter to 25 companies including Alphabet, Meta, Microsoft, OpenAI and TikTok, warning that inaccurate AI-generated voting information and weakened safeguards could expose voters to manipulation before Nov 3.",
-      "og_image": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2300118228/open-graph.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "Democrats think cracking down on AI could give them an edge",
-      "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
-      "source": "The Verge",
-      "category": "politics",
-      "axis": "elections",
-      "published_iso": "2026-10-19T12:00:00Z",
-      "excerpt": "Democrats are positioning themselves as a regulatory force over the AI industry should they win back control of Congress in the midterms.",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25334821/STK466_ELECTION_2024_CVirginia_C.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
-      "lang": "en"
-    },
-    {
-      "title": "The AI attack-ad nightmare is coming true",
-      "url": "https://www.axios.com/2026/10/19/ai-attack-ads-campaigns-elections-deepfakes",
-      "source": "Axios",
-      "category": "politics",
-      "axis": "elections",
-      "published_iso": "2026-10-19T09:35:04Z",
-      "excerpt": "Axios analysis of undisclosed AI-generated midterm attack ads (Georgia, Michigan, New York races); four states ban certain deepfake political ads, 27 require disclosure, no federal law. NOTE: overlaps Wesleyan $137M data already published 10-19.",
-      "og_image": "https://images.axios.com/gMBWRq5KyKLXh7DN5GkYgW7G8N0=/1366x768/smart/2024/04/26/155246-1714146766186.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "AI takes on great experiment in self-rule",
-      "url": "https://www.axios.com/2026/10/20/ai-govern-anthropic-openai",
-      "source": "Axios",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-20T09:38:57Z",
-      "excerpt": "With Washington hands-off and Trump blessing a voluntary framework, Anthropic, OpenAI, Google, xAI, Meta and Nvidia are building self-governance structures and competing wealth-sharing plans. Analysis.",
-      "og_image": "https://images.axios.com/BIPtiPttm_Jh-4FnlZFk_ViW44Q=/0x0:1920x1080/1366x768/2026/10/19/1792429019246.jpeg",
-      "lang": "en"
-    },
-    {
-      "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-      "url": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-      "source": "WIRED",
-      "category": "politics",
-      "axis": "elections",
-      "published_iso": "2026-10-20T17:41:58Z",
-      "excerpt": "France told TikTok and other platforms to curb protest footage and AI-altered images amid unrest; resale sites reportedly agreed to stop looted goods. AI is a partial hook.",
-      "og_image": "https://media.wired.com/photos/6ad772c1fca8f52b99e9eedc/191:100/w_1280,c_limit/GettyImages-2300075055.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "NYC proposes crackdown on AI customer service chatbots",
-      "url": "https://gothamist.com/news/nyc-proposes-crackdown-down-on-ai-customer-service-chatbots",
-      "source": "Gothamist",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-20T16:04:50Z",
-      "excerpt": "Mamdani administration proposed a first-of-its-kind city rule requiring businesses to give customers a quick off-ramp to a human agent when an AI chatbot can't resolve their request. (Off-list; no allowed outlet covered it.)",
-      "og_image": "https://api-prod.gothamist.com/images/362027/fill-1200x650|format-webp|webpquality-85/",
-      "lang": "en"
-    },
-    {
-      "title": "S. Korea's U.N. envoy named co-chair of global AI governance dialogue",
-      "url": "https://en.yna.co.kr/view/AEN20261021000600315",
-      "source": "Yonhap News Agency",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-21T06:16:40+09:00",
-      "excerpt": "UNGA President appointed Korean Ambassador Cha Ji-hoon and Saint Kitts and Nevis' Mutryce Agatha Williams to co-chair preparations for the 2027 UN Global Dialogue on AI Governance (May 3-4, 2027).",
-      "og_image": "https://img9.yna.co.kr/etc/inner/EN/2026/10/21/AEN20261021000600315_01_i_P4.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "日, 데이터센터·클라우드 안전인증제 신설…\"중국계 배제 목적\"",
-      "url": "https://www.yna.co.kr/view/AKR20261020091900073",
-      "source": "연합뉴스",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-20T13:09:14+09:00",
-      "excerpt": "일본 정부가 데이터센터·클라우드 안전성 인증 제도를 신설해 중요 개인정보를 다루는 기업이 인증 사업자를 쓰도록 할 방침이며, 사실상 중국계 사업자 배제 목적이라고 닛케이가 보도.",
-      "og_image": "https://img2.yna.co.kr/photo/reuters/2026/10/19/PRU20261019365701009_P4.jpg",
-      "lang": "ko"
-    },
-    {
-      "title": "백악관 SIF 공동의장 \"정부에 협조 않는 AI 기업 제어할 것\"",
-      "url": "https://www.yna.co.kr/view/AKR20261020071700009",
-      "source": "연합뉴스",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-20T12:01:00+09:00",
-      "excerpt": "백악관 슈퍼인텔리전스 포스(SIF) 공동의장 에밀 마이클 국방부 차관이 정부에 협조하지 않는 AI 기업에 수출통제·외국인 사용 제한 등 행정수단을 동원하겠다고 밝히고, 중국 오픈모델 대응으로 모델 가중치 감사를 언급.",
-      "og_image": "https://img0.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020071700009_01_i_P4.jpg",
-      "lang": "ko"
-    },
-    {
-      "title": "Investment summit: German government strikes AI deal with Nvidia",
-      "url": "https://www.euronews.com/2026/10/20/investment-summit-german-government-strikes-ai-deal-with-nvidia",
-      "source": "Euronews",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-20T20:10:08+02:00",
-      "excerpt": "At the 'Invest in Germany' summit in Berlin, the federal government secured a partnership with Nvidia on AI plus new Amazon investment, after Jensen Huang warned Germany is falling behind. Sovereign-AI angle; borderline compute deal.",
-      "og_image": "https://images.euronews.com/articles/stories/09/96/05/73/1200x675_cmsv2_20306938-1103-59a8-8b02-1b7f40ac116f-9960573.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "GAO to monitor government AI use, hire AI experts in coming years",
-      "url": "https://fedscoop.com/gao-to-monitor-government-ai-use-hire-ai-experts-in-coming-years/",
-      "source": "FedScoop",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-19T21:16:50Z",
-      "excerpt": "GAO's 2027-2032 strategic plan sets goals on overseeing federal AI use and hiring AI experts. (Off-list.)",
-      "og_image": "",
-      "lang": "en"
-    },
-    {
-      "title": "AI Hype Helped Google Dodge an Antitrust Breakup. What Comes Next?",
-      "url": "https://www.techpolicy.press/ai-hype-helped-google-dodge-an-antitrust-breakup-what-comes-next",
-      "source": "Tech Policy Press",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-20T16:12:26Z",
-      "excerpt": "Barry Lynn and Mihir Kshirsagar discuss what the Google search and ad tech remedies mean for competition and accountability in the AI era. Podcast/analysis.",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/45fdec453fc38d53a991fa7e92974a066623bf11-1200x675.png",
-      "lang": "en"
-    },
-    {
-      "title": "Is Europe Ready for Advanced AI? The Growing Debate Over Liability",
-      "url": "https://www.techpolicy.press/is-europe-ready-for-advanced-ai-the-growing-debate-over-liability",
-      "source": "Tech Policy Press",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-18T05:38:45Z",
-      "excerpt": "Interview with FLI's Risto Uuk and MEP Brando Benifei on renewed calls for EU AI liability rules after agent incidents. Analysis.",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/8ae750a6f3f6f1aa0c0e87970045884e7869fc77-1200x675.png",
-      "lang": "en"
-    },
-    {
-      "title": "Another Week of Lawsuits Piling Up at OpenAI",
-      "url": "https://www.techpolicy.press/another-week-of-lawsuits-piling-up-at-openai",
-      "source": "Tech Policy Press",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-18T05:09:36Z",
-      "excerpt": "Breakdown of eight state AG complaints and five private suits against OpenAI. Mostly follow-up on the 10-15 state lawsuits story.",
-      "og_image": "https://cdn.sanity.io/images/3tzzh18d/production/3d4e6d2db4daf82c369743bf65f720e5d3494b68-1200x675.png",
-      "lang": "en"
-    },
-    {
-      "title": "Exclusive: The national intelligence chief steering AI",
-      "url": "https://www.semafor.com/article/10/19/2026/the-national-intelligence-chief-steering-ai",
-      "source": "Semafor",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-19T03:26:57Z",
-      "excerpt": "Profile of the US national intelligence chief's role steering administration AI policy and enforcement. (Off-list.)",
-      "og_image": "https://img.semafor.com/75989672b38e36b5924d6a4be8deafba7641ccee-5616x3744.jpg?rect=0,398,5616,2948&w=1200&h=630&q=75&auto=format",
-      "lang": "en"
-    },
-    {
-      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-      "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-      "source": "The Verge",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-19T14:30:00Z",
-      "excerpt": "Decoder interview: Illinois Gov. Pritzker on state AI laws, privacy, data centers and Congress. Podcast.",
-      "og_image": "",
-      "lang": "en"
-    },
-    {
-      "title": "Will developing nations be able to handle millions of AI agents?",
-      "url": "https://restofworld.org/2026/meta-muse-openai-dots-ai-agents-global-south/",
-      "source": "Rest of World",
-      "category": "politics",
-      "axis": "geopolitics",
-      "published_iso": "2026-10-19T10:00:00Z",
-      "excerpt": "Examines whether Global South regulators and infrastructure are ready for mass consumer AI agents like Meta Muse and OpenAI Dots.",
-      "og_image": "",
-      "lang": "en"
-    },
-    {
-      "title": "Cyberattack on French supermarkets tells us more about food security than AI safety",
-      "url": "https://www.politico.eu/article/cyberattack-french-supermarkets-food-security-ai-safety/",
-      "source": "POLITICO Europe",
-      "category": "politics",
-      "axis": "policy",
-      "published_iso": "2026-10-19T02:00:00Z",
-      "excerpt": "Opinion/analysis on a cyberattack on French supermarkets and its implications versus AI-safety framing.",
-      "og_image": "",
-      "lang": "en"
-    }
-  ]
+ "section": "politics",
+ "generated_at": "2026-10-21T22:00:00Z",
+ "now_iso": "2026-10-21T22:00:00Z",
+ "window_hours": 72,
+ "items": [
+  {
+   "title": "Judge rejects Trump's claim EPA can dismiss data center pollution lawsuits",
+   "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+   "source": "Ars Technica",
+   "category": "politics",
+   "published_iso": "2026-10-21T18:20:40Z",
+   "excerpt": "A federal court ruled the Trump administration's EPA cannot unilaterally dismiss the pollution lawsuit over SpaceXAI's (xAI) Memphis-area AI data center turbines.",
+   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg",
+   "axis": "geopolitics/datacenter-siting (court ruling)"
+  },
+  {
+   "title": "Publishers want Brussels and London to stop Meta's new AI terms",
+   "url": "https://www.politico.eu/article/publishers-press-brussels-and-london-to-stop-metas-new-ai-terms/",
+   "source": "POLITICO Europe",
+   "category": "politics",
+   "published_iso": "2026-10-21T13:23:02Z",
+   "excerpt": "Publishers asked the European Commission and UK CMA to act against Meta's new AI training terms; the Commission says Meta must comply with EU law and the CMA has called the company in to explain.",
+   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/21/GettyImages-2256677765-scaled.jpg",
+   "axis": "policy/regulation"
+  },
+  {
+   "title": "Socialists push for EU law on deepfakes",
+   "url": "https://www.politico.eu/article/socialists-and-democrats-push-eu-law-deepfake/",
+   "source": "POLITICO Europe",
+   "category": "politics",
+   "published_iso": "2026-10-20T16:45:04Z",
+   "excerpt": "The S&D group in the European Parliament is pushing for a new EU law giving people rights over AI copies of their face and voice.",
+   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/20/GettyImages-104288387.jpg",
+   "axis": "elections/deepfake policy"
+  },
+  {
+   "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+   "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
+   "source": "WIRED",
+   "category": "politics",
+   "published_iso": "2026-10-21T08:30:00Z",
+   "excerpt": "A German plan to route data-center waste heat into homes has stalled; across Europe policymakers are weighing AI infrastructure ambitions against climate law.",
+   "og_image": "https://media.wired.com/photos/6ad7d5f6ceee34bd819fdbeb/191:100/w_1280,c_limit/Business_Can%20Europe%20Build%20Data%20Centers%20Without%20Giving%20Up%20Its%20Climate%20Goals_v2.jpg",
+   "axis": "geopolitics/datacenter policy"
+  },
+  {
+   "title": "MOFCOM's New Rules and the Future of Chinese AI",
+   "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+   "source": "ChinaTalk",
+   "category": "politics",
+   "published_iso": "2026-10-21T13:43:39Z",
+   "excerpt": "China's MOFCOM and MOST jointly proposed expanding the export-controlled technology catalogue, mostly targeting subsets of China's AI industry; comments are open for a month.",
+   "og_image": "https://substackcdn.com/image/fetch/$s_!RyL6!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46954a22-3909-48b4-9d3f-4a3fe0d901e1_2400x1500.png",
+   "axis": "geopolitics/export controls"
+  },
+  {
+   "title": "Trump says paying communities a 'dividend' could make data centers more popular",
+   "url": "https://www.theverge.com/policy/1015392/trump-says-paying-communities-a-dividend-could-make-data-centers-more-popular",
+   "source": "The Verge",
+   "category": "politics",
+   "published_iso": "2026-10-21T14:30:18Z",
+   "excerpt": "In a Truth Social post Trump said AI data center builders should pay host communities a 'dividend', amid widespread local backlash over power and water use.",
+   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/trump-data-center-dividend-post-oct-21.jpeg?quality=90&strip=all&crop=0,17.560662505034,100,64.878674989932",
+   "axis": "policy/datacenter siting"
+  },
+  {
+   "title": "Zohran Mamdani Backs Major Expansion of New York's Data Center Moratorium",
+   "url": "https://ainowinstitute.org/news/zohran-mamdani-backs-major-expansion-of-new-yorks-data-center-moratorium",
+   "source": "AI Now Institute (via Gizmodo)",
+   "category": "politics",
+   "published_iso": "2026-10-20T16:02:48Z",
+   "excerpt": "At AI Now's People's AI Assembly, NYC Mayor Mamdani said 'yes' to urging Gov. Hochul to sign the Responsible Data Center Development Act passed by the state legislature.",
+   "og_image": "",
+   "axis": "policy/datacenter siting"
+  },
+  {
+   "title": "Memphis fails to pass 1-year data center moratorium, opts for 135-day ban",
+   "url": "https://www.cbsnews.com/news/memphis-data-center-moratorium-city-council-vote/",
+   "source": "CBS News",
+   "category": "politics",
+   "published_iso": "2026-10-21T14:01:52Z",
+   "excerpt": "Memphis City Council rejected a one-year data center moratorium in the SpaceXAI hotspot and instead passed a substitute ordinance halting data center construction for 135 days.",
+   "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fHeWB.img",
+   "axis": "geopolitics/datacenter siting (local ordinance)"
+  },
+  {
+   "title": "USPTO looks to AI agents to ease examiner workloads",
+   "url": "https://www.nextgov.com/artificial-intelligence/2026/10/uspto-looks-ai-agents-ease-examiner-workloads/416719/",
+   "source": "Nextgov/FCW",
+   "category": "politics",
+   "published_iso": "2026-10-20T22:25:00Z",
+   "excerpt": "USPTO's acting patents commissioner said giving examiners AI agents could shorten patent review to one year.",
+   "og_image": "https://cdn.nextgov.com/media/img/cd/2026/10/20/GettyImages_2298126508/open-graph.jpg",
+   "axis": "policy/government AI use"
+  },
+  {
+   "title": "Brazil's Enter case and the governance of AI-powered legal services",
+   "url": "https://iapp.org/news/a/brazils-enter-case-and-the-governance-of-ai-powered-legal-services",
+   "source": "IAPP",
+   "category": "politics",
+   "published_iso": "2026-10-21T13:57:33Z",
+   "excerpt": "The São Paulo Bar Association filed a public civil action against AI legal-litigation unicorn Enter (Talisman AI) in federal court; the Rio Bar has asked to join.",
+   "og_image": "https://images.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt5051526440078025/6ad8c4c6842e554579fd2939/sunset-brazil-congress-latam-032626.jpg",
+   "axis": "policy/AI liability (court filing)"
+  },
+  {
+   "title": "Nvidia's CEO wants every country to build its own AI",
+   "url": "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble",
+   "source": "Axios",
+   "category": "politics",
+   "published_iso": "2026-10-21T13:10:35Z",
+   "excerpt": "Jensen Huang is touring Europe courting governments to build sovereign AI on Nvidia chips, spreading the AI buildout beyond the US and China.",
+   "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fIHVU.img",
+   "axis": "geopolitics/sovereign AI"
+  },
+  {
+   "title": "New UN initiative will aim to tackle the military uses of AI",
+   "url": "https://apnews.com/article/un-artificial-intelligence-military-china-us-e0a3c48c91a9de89cab72609d185f658",
+   "source": "Associated Press",
+   "category": "politics",
+   "published_iso": "2026-10-20T23:34:13Z",
+   "excerpt": "The UN Institute for Disarmament Research (UNIDIR) launches the first international forum on military uses of AI this Thursday.",
+   "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fGXR0.img",
+   "axis": "geopolitics/military AI governance"
+  },
+  {
+   "title": "Why Anthropic's draft bill sets $1 billion threshold for AI risk",
+   "url": "https://www.politico.com/news/2026/10/21/anthropic-bill-ai-risk-threshold-01128458",
+   "source": "POLITICO",
+   "category": "politics",
+   "published_iso": "2026-10-21T09:00:00Z",
+   "excerpt": "Anthropic's draft bill shopped to lawmakers would let the government block AI models only if they could kill or seriously injure 50+ people or cause $1B in damage, a threshold borrowed from California's SB 53.",
+   "og_image": "",
+   "axis": "policy/federal AI bill"
+  },
+  {
+   "title": "Maryland Gov. Wes Moore campaign challenges ad, alleges deepfake law violation",
+   "url": "https://www.baltimoresun.com/2026/10/21/wes-moore-maryland-cease-desist-redistricting/",
+   "source": "Baltimore Sun",
+   "category": "politics",
+   "published_iso": "2026-10-21T21:01:00Z",
+   "excerpt": "Moore's campaign says a PAC ad on Question 3 uses his likeness in violation of Maryland's election deepfake law and referred it to the State Board of Elections, which says it will review.",
+   "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fLSKJ.img",
+   "axis": "elections/deepfake law enforcement"
+  },
+  {
+   "title": "Brown Introduces Legislation to Require Labels on AI-Generated Campaign Content",
+   "url": "https://shontelbrown.house.gov/media/press-releases/brown-introduces-legislation-require-labels-ai-generated-campaign-content",
+   "source": "Office of Rep. Shontel Brown (house.gov)",
+   "category": "politics",
+   "published_iso": "2026-10-21T13:09:19Z",
+   "excerpt": "Rep. Shontel Brown introduced the Securing Elections from AI Deception Act to bar using AI to deprive or defraud people of the right to vote and to require disclaimers on AI-generated campaign content.",
+   "og_image": "http://shontelbrown.house.gov/sites/evo-subsites/shontelbrown.house.gov/files/evo-media-image/2026-01-07_mbo_0013.jpg",
+   "axis": "elections/AI political ad bill (primary)"
+  },
+  {
+   "title": "IAMDDB accuses Israel of stealing her identity in AI video",
+   "url": "https://www.euronews.com/2026/10/21/angolan-portuguese-singer-iamddb-accuses-israel-of-stealing-her-identity-in-ai-video",
+   "source": "Euronews",
+   "category": "politics",
+   "published_iso": "2026-10-21T12:54:29Z",
+   "excerpt": "The rapper accuses Israel's government-run social accounts of using an AI-generated likeness of her in a now-deleted propaganda video.",
+   "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fJQcd.img",
+   "axis": "elections-opinion/state AI propaganda"
+  },
+  {
+   "title": "AI 'undress' apps used to target Austrian MEP as 119 MEPs call for EU action",
+   "url": "https://www.ibtimes.co.uk/lena-schilling-ai-nude-deepfakes-eu-action-1826852",
+   "source": "IBTimes UK",
+   "category": "politics",
+   "published_iso": "2026-10-21T04:17:22Z",
+   "excerpt": "MEPs Lena Schilling and Terry Reintke led a letter signed by 119 MEPs urging EU and national authorities to enforce forthcoming bans on AI nudify apps.",
+   "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fHfgb.img",
+   "axis": "policy/deepfake abuse"
+  },
+  {
+   "title": "US judge orders Meta to name employees behind torrenting pirated books for AI",
+   "url": "https://www.indiatoday.in/technology/news/story/us-judge-orders-meta-to-name-employees-behind-torrenting-pirated-books-for-ai-3021739-2026-10-21",
+   "source": "India Today",
+   "category": "politics",
+   "published_iso": "2026-10-21T05:13:17Z",
+   "excerpt": "Magistrate Judge Thomas Hixson ordered Meta to identify everyone who decided to use BitTorrent to source LibGen/Anna's Archive books for AI training, and whether to seed.",
+   "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fHjWO.img",
+   "axis": "policy/AI copyright (court order)"
+  },
+  {
+   "title": "India to bring new AI law? What top government adviser told NDTV",
+   "url": "https://www.ndtv.com/artificial-intelligence/india-to-bring-new-ai-law-what-top-government-adviser-ajay-kumar-sood-told-ndtv-12214525",
+   "source": "NDTV",
+   "category": "politics",
+   "published_iso": "2026-10-21T09:24:33Z",
+   "excerpt": "Principal Scientific Adviser Ajay Kumar Sood said the government is open to a dedicated AI law and has begun preparing a consultation paper on AI regulation.",
+   "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fJfPH.img",
+   "axis": "policy/national AI regulation"
+  },
+  {
+   "title": "정부 지원 AI 사업 학습 데이터 공개 의무화…세부 기준 쟁점",
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=708512",
+   "source": "디지털투데이",
+   "category": "politics",
+   "published_iso": "2026-10-20T22:30:00Z",
+   "excerpt": "정부 지원 사업으로 구축한 AI 학습데이터 공개가 의무화되면서, 민간 기업이 자체 비용으로 확보한 데이터까지 공개 대상인지가 쟁점으로 떠올랐다.",
+   "og_image": "https://cdn.digitaltoday.co.kr/news/photo/202610/708512_656147_227.jpg",
+   "axis": "policy/Korea AI data rule"
+  },
+  {
+   "title": "[AI픽] \"전기는 국가망에서 받으라더니\"…AI 데이터센터 새 규제 논란",
+   "url": "https://www.yna.co.kr/view/AKR20261021039400017",
+   "source": "연합뉴스",
+   "category": "politics",
+   "published_iso": "2026-10-21T00:32:27Z",
+   "excerpt": "정부가 연내 도입을 추진하는 AI 데이터센터 전용 그리드코드(전력망 접속 규칙)를 두고 투자 현장에서 논란이 일고 있다.",
+   "og_image": "https://img9.yna.co.kr/photo/yna/YH/2026/08/05/PYH2026080506570001300_P4.jpg",
+   "axis": "policy/Korea AI datacenter rule"
+  },
+  {
+   "title": "Samsung, SK Hynix upgrading China plants to make more advanced chips, people say: Reuters",
+   "url": "https://www.cnbc.com/2026/10/21/samsung-sk-hynix-upgrading-china-plants-to-make-more-advanced-chips-people-say-reuters.html",
+   "source": "CNBC (Reuters)",
+   "category": "politics",
+   "published_iso": "2026-10-21T05:44:34Z",
+   "excerpt": "Samsung and SK Hynix are upgrading China NAND plants to meet AI demand despite US export-control constraints on equipment.",
+   "og_image": "https://image.cnbcfm.com/api/v1/image/108413630-1792061524731-gettyimages-2287713475-Korea_KOSPI_Index.jpeg?v=1792061563&w=1920&h=1080",
+   "axis": "geopolitics/export controls"
+  },
+  {
+   "title": "UK Electoral Commission builds AI for three-hour deepfake alerts",
+   "url": "https://letsdatascience.com/news/uk-electoral-commission-builds-ai-for-three-hour-deepfake-al-5bd14a1f",
+   "source": "Let's Data Science",
+   "category": "politics",
+   "published_iso": "2026-10-21T13:54:18Z",
+   "excerpt": "The Electoral Commission is building an AI system to alert candidates and parties to serious deepfakes within three hours; a May 2026 pilot screened about three million posts.",
+   "og_image": "",
+   "axis": "elections/deepfake detection"
+  }
+ ]
 }

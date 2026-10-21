@@ -1,157 +1,134 @@
 {
-  "section": "marketing",
-  "now_iso": "2026-10-20T21:40:00Z",
-  "window_hours": 72,
-  "items": [
-    {
-      "title": "OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads",
-      "url": "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html",
-      "source": "Search Engine Roundtable",
-      "category": "marketing",
-      "published_iso": "2026-10-20T15:35:00-04:00",
-      "excerpt": "OpenAI emailed ChatGPT Ads advertisers that from Oct 30 it will auto-enable 'creative enhancements' on new and existing self-serve campaigns, rewriting headlines and descriptions to fit the conversation, translating ad text, resizing images and optimizing destination URLs. The AI-adapted versions can run without advertiser review; opt-out is in Ads Manager.",
-      "og_image": "https://images.seroundtable.com/chatgpt-ads-creative-enhancements-setting-qltJ77hx.png",
-      "lang": "en"
-    },
-    {
-      "title": "Google Ads Now In AI Mode With Personal Intelligence",
-      "url": "https://www.seroundtable.com/google-ads-ai-mode-personal-intelligence-42320.html",
-      "source": "Search Engine Roundtable",
-      "category": "marketing",
-      "published_iso": "2026-10-19T07:31:00-04:00",
-      "excerpt": "Google confirmed it will now show ads in AI Mode results for users who have Personal Intelligence turned on, reversing its March statement that the personalized AI Mode experience would stay ad-free.",
-      "og_image": "https://images.seroundtable.com/google-ads-personal-intelligence-help-doc-MgMTgNAc.png",
-      "lang": "en"
-    },
-    {
-      "title": "AI Slop Sites Are On The Rise. Is Ad Tech Ready For Its New MFA Challenge?",
-      "url": "https://www.adexchanger.com/programmatic/ai-slop-sites-are-on-the-rise-is-ad-tech-ready-for-its-new-mfa-challenge/",
-      "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-10-20T08:00:00+00:00",
-      "excerpt": "A DecryptAds study found more than 2,100 AI-generated recipe sites with fabricated author profiles, monetized through programmatic ads in the made-for-advertising playbook, carrying ads from blue-chip and Fortune 500 brands.",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-featured.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "How Amazon Ads Plans To Make Programmatic Simple Without Taking Control From Marketers",
-      "url": "https://www.adexchanger.com/inside-the-stack/how-amazon-ads-plans-to-make-programmatic-simple-without-taking-control-from-marketers/",
-      "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-10-19T12:05:36+00:00",
-      "excerpt": "Amazon Ads VP Kelly MacLean explains the AI-powered ad platform that merges the ad console and DSP so a programmatic campaign launches in as few as four clicks; in beta, advertisers using Amazon Ads Agent saw 18% lower CPMs, 16% lower CPAs and 65% better delivery.",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/49298-Inside-the-Stack-Amazon-Ads_1080x1080.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "What Frogs And Socks Can Teach Us About AI Implementation",
-      "url": "https://www.adexchanger.com/adexchanger-talks/what-frogs-and-socks-can-teach-us-about-ai-implementation/",
-      "source": "AdExchanger",
-      "category": "marketing",
-      "published_iso": "2026-10-20T05:00:35+00:00",
-      "excerpt": "Brandtech Group partner Rebecca Sykes argues generative AI can work with messy, siloed brand data, and that brand-specific data is what keeps AI marketing output from converging into a generic sea of sameness; she explains why AI pilots stall at scale.",
-      "og_image": "",
-      "lang": "en"
-    },
-    {
-      "title": "Dollar Shave Club markets 'perfectly good' razors as AI push continues",
-      "url": "https://www.marketingdive.com/news/dollar-shave-club-markets-perfectly-good-razors-as-ai-push-continues/833343/",
-      "source": "Marketing Dive",
-      "category": "marketing",
-      "published_iso": "2026-10-20T09:17:00-04:00",
-      "excerpt": "Dollar Shave Club's Oct 20 'Perfectly Good Is Perfect' omnichannel campaign used real talent but leaned on AI for visual gags such as a six-fingered spokesperson, which helped the brand and agency Humanaut cut production to about two and a half months; the CMO says the brand is getting 'more choiceful' about where it uses AI.",
-      "og_image": "https://imgproxy.divecdn.com/ZBn03HjRefXvN5ruGnFI-DTvCeLzsyJ_qlrTeiR3jyk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbWFnZV80X3FGdTJkRHQuanBn.webp",
-      "lang": "en"
-    },
-    {
-      "title": "How marketers can optimize their media mix as confidence takes a turn",
-      "url": "https://www.marketingdive.com/news/how-marketers-can-optimize-their-media-mix-as-confidence-takes-a-turn/833197/",
-      "source": "Marketing Dive",
-      "category": "marketing",
-      "published_iso": "2026-10-19T11:00:00-04:00",
-      "excerpt": "Kantar's 2026 Media Reactions report finds only 57% of advertisers confident in their media mix, yet nearly two-thirds expect generative AI to play a major role in brand recommendations and 75% plan to raise investment in AI assistants next year, while only 23% of consumers trust AI recommendations.",
-      "og_image": "https://imgproxy.divecdn.com/ZJUHnVceRW_KQlGqAsLGC4VjUhE9hj52ob_f5N77wGo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbmZsdWVuY2VyLmpwZw==.webp",
-      "lang": "en"
-    },
-    {
-      "title": "Personal Agents Will Drive More Contact Center Traffic Than They Offset",
-      "url": "https://www.salesforce.com/news/stories/personal-agents-to-drive-more-contact-center-traffic/",
-      "source": "Salesforce",
-      "category": "marketing",
-      "published_iso": "2026-10-19T19:30:00+00:00",
-      "excerpt": "Salesforce argues consumers' personal AI agents will start requests that businesses still must finish, and since agents don't mind waiting on hold or calling repeatedly, they will add contact-center volume rather than cut it, forcing service teams to handle agent-to-business traffic.",
-      "og_image": "https://www.salesforce.com/news/wp-content/uploads/sites/3/2026/10/Personal-Agents-Will-Drive-More-Contact-Center-Traffic-Than-They-Offset.png",
-      "lang": "en"
-    },
-    {
-      "title": "New Gemini tools for small business owners",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
-      "source": "Google",
-      "category": "marketing",
-      "published_iso": "2026-10-20T16:00:00+00:00",
-      "excerpt": "Google launched a Gemini business landing page that connects to Google Ads, Business Profile, Workspace, Shopify and Canva, and can take a brand kit, fonts and palettes to generate on-brand visuals for product launches and marketing campaigns, with marketing and finance skills rolling out.",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png",
-      "lang": "en"
-    },
-    {
-      "title": "The AI attack-ad nightmare is coming true",
-      "url": "https://www.axios.com/2026/10/19/ai-attack-ads-campaigns-elections-deepfakes",
-      "source": "Axios",
-      "category": "marketing",
-      "published_iso": "2026-10-19T09:35:04+00:00",
-      "excerpt": "The Wesleyan Media Project counts $137 million spent on 220 AI-generated political ads through Oct. 11, and an Axios analysis found numerous midterm ads partly or fully made with generative AI, sometimes undisclosed; only four states ban certain deepfake ad uses and no federal rule exists.",
-      "og_image": "",
-      "lang": "en"
-    },
-    {
-      "title": "AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds",
-      "url": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
-      "source": "Search Engine Journal",
-      "category": "marketing",
-      "published_iso": "2026-10-19T13:34:28+00:00",
-      "excerpt": "Researchers seeded a made-up concept on sites that AI search tools cite; four English-web AI search tools were citing it within a week, showing how quickly brand-visible answers in AI search can be shaped.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-search-chatgpt-grok-2609462005.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO",
-      "url": "https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/",
-      "source": "Search Engine Journal",
-      "category": "marketing",
-      "published_iso": "2026-10-20T12:00:04+00:00",
-      "excerpt": "Meta's Muse and OpenAI's Dots personal agents reach brand websites through connectors or a browser, changing how shoppers discover and act on products and what marketers can see in analytics.",
-      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/personal-ai-agent-300.png",
-      "lang": "en"
-    },
-    {
-      "title": "Google shows Gemini fitting shoppers into outfits built from screenshots",
-      "url": "https://ppc.land/google-shows-gemini-fitting-shoppers-into-outfits-built-from-screenshots/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-10-19T19:18:43.000Z",
-      "excerpt": "Google showed Gemini placing a shopper's photo into outfits assembled from item screenshots rather than product listings, raising the question of whether retailers will know when Gemini puts a shopper in their goods.",
-      "og_image": "https://ppc.land/content/images/2026/10/google-gemini-screenshot-outfit-try-on-paper-doll-dark-department-store.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "Meta splits one AI agent into 14 specialists after it hallucinated",
-      "url": "https://ppc.land/meta-splits-one-ai-agent-into-14-specialists-after-it-hallucinated/",
-      "source": "PPC Land",
-      "category": "marketing",
-      "published_iso": "2026-10-19T19:20:18.000Z",
-      "excerpt": "Meta engineers replaced a single hallucinating agent with a thin router and 14 specialist agents, cutting prep for a new data column from up to four days to under an hour, a pattern ad tech teams running agents may copy.",
-      "og_image": "https://ppc.land/content/images/2026/10/meta-thin-orchestrator-14-ai-agents-switchboard-operator.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "I let agents plan a WNBA Finals trip (but kept my wallet to myself)",
-      "url": "https://www.axios.com/2026/10/20/battle-of-bots-openai-meta-ai-agents-test",
-      "source": "Axios",
-      "category": "marketing",
-      "published_iso": "2026-10-20T09:00:06+00:00",
-      "excerpt": "Axios tested OpenAI's Dots and Meta's Muse personal agents on planning a trip, a watch party and shopping for WNBA merch, finding impressive capability but a gap before users hand over their wallets to agentic shopping.",
-      "og_image": "",
-      "lang": "en"
-    }
-  ]
+ "section": "marketing",
+ "generated_at": "2026-10-21T22:00:00Z",
+ "now_iso": "2026-10-21T22:00:00Z",
+ "window_hours": 72,
+ "items": [
+  {
+   "title": "Walmart Embraces AI Agents That Shop on Behalf of Customers",
+   "url": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
+   "source": "Adweek",
+   "category": "marketing",
+   "published_iso": "2026-10-21T21:55:37Z",
+   "excerpt": "Walmart is setting the rules AI shopping agents must follow to buy on its site on customers' behalf, with spending controls and transaction approvals, while Amazon blocks such agents.",
+   "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=600&h=315&crop=1"
+  },
+  {
+   "title": "Meta says Muse has over 10M users, with shopping a top activity",
+   "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+   "source": "TechCrunch",
+   "category": "marketing",
+   "published_iso": "2026-10-21T21:14:19Z",
+   "excerpt": "Meta told investors on its Q3 call that its Muse AI app passed 10M users, with shopping among the top uses, signaling a new AI-mediated discovery surface for brands.",
+   "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024"
+  },
+  {
+   "title": "ChatGPT Ads Is Expanding To New Markets And Exploring New Ad Formats",
+   "url": "https://www.adexchanger.com/marketers/chatgpt-ads-is-expanding-to-new-markets-and-exploring-new-ad-formats/",
+   "source": "AdExchanger",
+   "category": "marketing",
+   "published_iso": "2026-10-21T13:00:19Z",
+   "excerpt": "ChatGPT Ads expands to 26 new countries after more than 100,000 advertisers used the platform, while OpenAI is still working out what conversational ad formats will look like.",
+   "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-scaled.jpg"
+  },
+  {
+   "title": "How we built ChatGPT's novel ad stack for user trust and relevance",
+   "url": "https://openai.com/index/building-chatgpt-ad-stack",
+   "source": "OpenAI",
+   "category": "marketing",
+   "published_iso": "2026-10-21T07:00:00Z",
+   "excerpt": "OpenAI explains its LLM-powered ad stack that reads conversational intent, keeps ads separate from answers, and serves relevant ads at scale inside ChatGPT.",
+   "og_image": ""
+  },
+  {
+   "title": "AI Slop Sites Are On The Rise. Is Ad Tech Ready For Its New MFA Challenge?",
+   "url": "https://www.adexchanger.com/programmatic/ai-slop-sites-are-on-the-rise-is-ad-tech-ready-for-its-new-mfa-challenge/",
+   "source": "AdExchanger",
+   "category": "marketing",
+   "published_iso": "2026-10-20T08:00:00Z",
+   "excerpt": "DecryptAds found more than 2,100 AI-generated recipe sites with fabricated author profiles monetized through programmatic ads, a new made-for-advertising brand-safety problem.",
+   "og_image": "https://www.adexchanger.com/wp-content/uploads/2025/08/Ai-generated-slop-burger-comic-featured.jpg"
+  },
+  {
+   "title": "How Amazon Ads Plans To Make Programmatic Simple Without Taking Control From Marketers",
+   "url": "https://www.adexchanger.com/inside-the-stack/how-amazon-ads-plans-to-make-programmatic-simple-without-taking-control-from-marketers/",
+   "source": "AdExchanger",
+   "category": "marketing",
+   "published_iso": "2026-10-19T12:05:36Z",
+   "excerpt": "Amazon Ads VP Kelly MacLean on the AI-powered Amazon Ads Agent that launches programmatic campaigns in four clicks; beta advertisers saw 18% lower CPMs and 16% lower CPAs.",
+   "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/49298-Inside-the-Stack-Amazon-Ads_1080x1080.jpg"
+  },
+  {
+   "title": "Dollar Shave Club markets 'perfectly good' razors as AI push continues",
+   "url": "https://www.marketingdive.com/news/dollar-shave-club-markets-perfectly-good-razors-as-ai-push-continues/833343/",
+   "source": "Marketing Dive",
+   "category": "marketing",
+   "published_iso": "2026-10-20T13:17:00Z",
+   "excerpt": "Dollar Shave Club's new omnichannel campaign used AI for visual gags and helped the brand and agency Humanaut cut production time to about two and a half months.",
+   "og_image": "https://imgproxy.divecdn.com/ZBn03HjRefXvN5ruGnFI-DTvCeLzsyJ_qlrTeiR3jyk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbWFnZV80X3FGdTJkRHQuanBn.webp"
+  },
+  {
+   "title": "Target's holiday push stresses affordability, exclusives and an AI assistant",
+   "url": "https://www.modernretail.co/marketing/targets-holiday-push-stresses-affordability-exclusives-and-an-ai-assistant/",
+   "source": "Modern Retail",
+   "category": "marketing",
+   "published_iso": "2026-10-21T10:00:00Z",
+   "excerpt": "Target is rolling out a conversational AI shopping assistant, Ask Target, alongside daily deals to win budget-conscious holiday shoppers.",
+   "og_image": "https://www.modernretail.co/wp-content/uploads/sites/5/2026/10/Target-holidays.jpeg"
+  },
+  {
+   "title": "Google turns on PMax image extraction by default from December 4",
+   "url": "https://ppc.land/google-turns-on-pmax-image-extraction-by-default-from-december-4/",
+   "source": "PPC Land",
+   "category": "marketing",
+   "published_iso": "2026-10-21T21:25:22Z",
+   "excerpt": "From December 4, Google AI will scan landing pages for images to enrich Performance Max creative by default; advertisers and API tools must actively opt out.",
+   "og_image": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg"
+  },
+  {
+   "title": "Meta case study credits Nest's AI ads with 20% higher conversion rates",
+   "url": "https://ppc.land/meta-case-study-credits-nests-ai-ads-with-20-higher-conversion-rates/",
+   "source": "PPC Land",
+   "category": "marketing",
+   "published_iso": "2026-10-21T18:57:02Z",
+   "excerpt": "A Meta case study credits Nest's AI creative tool with 20% higher conversion rates across seven UK brands, though it gives no period or baseline.",
+   "og_image": "https://ppc.land/content/images/2026/10/meta-nest-ai-creative-case-study-bar-chart-missing-baseline.jpg"
+  },
+  {
+   "title": "Yelp charges $30 a month for AI agent that answers and qualifies leads",
+   "url": "https://ppc.land/yelp-charges-30-a-month-for-ai-agent-that-answers-and-qualifies-leads/",
+   "source": "PPC Land",
+   "category": "marketing",
+   "published_iso": "2026-10-21T04:40:17Z",
+   "excerpt": "Yelp's Smart Lead Reply AI agent answers and qualifies Request a Quote leads for movers, roofers and plumbers for $30 a month, plus AI calls to restaurants.",
+   "og_image": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg"
+  },
+  {
+   "title": "China Wrote The First GEO Rulebook After A TV Scandal - Western SEOs Should Take Notes",
+   "url": "https://www.searchenginejournal.com/china-wrote-the-first-geo-rulebook-after-a-tv-scandal-western-seos-should-take-notes/593536/",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "published_iso": "2026-10-21T12:00:37Z",
+   "excerpt": "China's voluntary GEO standards set rules for AI visibility metrics, vendor contracts, pricing and manipulation as brands pay to appear in AI answers.",
+   "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/china-geo-rulebook-780.png"
+  },
+  {
+   "title": "AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds",
+   "url": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
+   "source": "Search Engine Journal",
+   "category": "marketing",
+   "published_iso": "2026-10-19T13:34:28Z",
+   "excerpt": "Researchers seeded a made-up concept on sites AI search tools cite; four English-web tools repeated it within a week, showing how easily brand claims can be planted in AI answers.",
+   "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-search-chatgpt-grok-2609462005.jpg"
+  },
+  {
+   "title": "New Gemini tools for small business owners",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/",
+   "source": "Google Blog",
+   "category": "marketing",
+   "published_iso": "2026-10-20T20:00:00Z",
+   "excerpt": "Gemini adds a small-business hub where owners upload their brand style to generate consistent marketing visuals for product launches and campaigns.",
+   "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.width-1300.png"
+  }
+ ]
 }

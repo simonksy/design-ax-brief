@@ -1,31 +1,7 @@
-{
- "date": "2026-10-21",
- "section": "movies",
- "media": [
-  {
-   "id": "movies-sekondo-chatgpt-claude-adobe",
-   "type": "image",
-   "src": "pipeline/media/movies-sekondo-chatgpt-claude-adobe.jpg"
-  },
-  {
-   "id": "movies-wga-east-cloak-ai-shield",
-   "type": "image",
-   "src": "pipeline/media/movies-wga-east-cloak-ai-shield.jpg"
-  },
-  {
-   "id": "movies-microdramas-ai-two-thirds",
-   "type": "image",
-   "src": "pipeline/media/movies-microdramas-ai-two-thirds.jpg"
-  },
-  {
-   "id": "movies-runway-ceo-ai-actors-view",
-   "type": "image",
-   "src": "pipeline/media/movies-runway-ceo-ai-actors-view.jpg"
-  },
-  {
-   "id": "movies-japan-actors-union-ai-rules",
-   "type": "image",
-   "src": "pipeline/media/movies-japan-actors-union-ai-rules.jpg"
-  }
- ]
-}
+{"date":"2026-10-22","section":"movies","media":[
+{"id":"movies-eddie-ai-plan-first","type":"video","src":"pipeline/media/movies-eddie-ai-plan-first.mp4","poster":"pipeline/media/movies-eddie-ai-plan-first.jpg"},
+{"id":"movies-axe-ai-commercial","type":"image","src":"pipeline/media/movies-axe-ai-commercial.jpg"},
+{"id":"movies-cined-ai-editors-compared","type":"image","src":"pipeline/media/movies-cined-ai-editors-compared.jpg"},
+{"id":"movies-felix-film-genai-listing","type":"image","src":"pipeline/media/movies-felix-film-genai-listing.jpg"},
+{"id":"movies-waititi-ai-prompts","type":"image","src":"pipeline/media/movies-waititi-ai-prompts.jpg"}
+]}

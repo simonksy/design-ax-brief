@@ -1,97 +1,96 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "gadgets",
   "picks": [
     {
-      "title": "Perplexity makes it easier to run AI workflows entirely on your own Mac",
-      "url": "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/",
-      "source": "Engadget",
+      "title": "Philips Hue Bridge Pro custom AI behaviors launch next week",
+      "url": "https://www.androidauthority.com/hue-bridge-pro-custom-ai-behaviors-launch-3726230/",
+      "source": "Android Authority",
       "tool": "Gadgets",
       "accent": "#ff5a4d",
       "motif": "headset",
-      "rationale": "New Mac release: full Perplexity AI workflows run locally on 36GB+ Macs, so designers can keep client files on their own machine.",
-      "published_iso": "2026-10-20T15:42:45+00:00",
-      "og_image": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg",
-      "excerpt": "A Mac with at least 36GB of RAM can now run Perplexity AI workflows locally."
+      "rationale": "New feature launch: Hue Bridge Pro users describe a lighting routine in plain language and AI builds the automation. Here the smart-home interface is a prompt, not a settings screen.",
+      "published_iso": "2026-10-21T17:27:24+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+      "excerpt": "Philips Hue will soon roll out Custom AI Behaviors for the Hue Bridge Pro, letting users describe what they want in plain language to create a personalized lighting automation."
     },
     {
-      "title": "Get hands-free personalized help on the road with Gemini",
-      "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
-      "source": "Google Blog",
+      "title": "GM is giving OnStar an AI makeover",
+      "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+      "source": "TechCrunch",
       "tool": "Gadgets",
       "accent": "#0070f3",
       "motif": "headset",
-      "rationale": "Official launch: Gemini is now in cars globally (Android Auto and Google built-in), with Personal Intelligence context. Primary source, broad reach.",
-      "published_iso": "2026-10-20T20:00:00+00:00",
-      "og_image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.width-1300.png",
-      "excerpt": "Gemini is available in cars globally. With Personal Intelligence, get uniquely tailored help while keeping your eyes on the road."
+      "rationale": "New announcement: GM rebuilds its 30-year-old OnStar service around an AI assistant, one of the biggest overhauls of the in-car connected product.",
+      "published_iso": "2026-10-21T18:00:00+00:00",
+      "og_image": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624",
+      "excerpt": "It's one of the biggest overhauls ever to the 30-year-old connected car product."
     },
     {
-      "title": "Boya Notra Neo launches with AI-powered meeting transcriptions, summaries, and recordings and MagSafe mount",
-      "url": "https://www.notebookcheck.net/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.1428542.0.html",
-      "source": "Notebookcheck",
+      "title": "Unitree reveals H2-X humanoid bodyguard robot — 'Kung Fu Legend Guardian' packs 8-hour battery and martial arts defense skills",
+      "url": "https://www.techradar.com/ai-platforms-assistants/unitree-reveals-its-h2-x-bodyguard-robot-a-kung-fu-humanoid-with-an-8-hour-battery-life-and-some-serious-martial-arts-skills",
+      "source": "TechRadar",
       "tool": "Gadgets",
       "accent": "#7928ca",
       "motif": "headset",
-      "rationale": "New AI-led device launch: a MagSafe voice recorder whose main features are AI transcription in 140+ languages, speaker ID, summaries, action items and Ask AI search. Useful for designers in client calls and user interviews.",
-      "published_iso": "2026-10-20T04:45:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.jpg",
-      "excerpt": "Boya's Notra Neo is a MagSafe-mount AI voice recorder that transcribes calls and meetings in 140+ languages with speaker identification, then generates summaries, action items and mind maps from 60+ templates, with an Ask AI search across recordings.",
-      "swap": true
+      "rationale": "New product reveal: Unitree's H2-X is a humanoid 'guardian' robot with learned martial-arts defense moves and an 8-hour battery. It is an embodied-AI hardware launch from the best-known Chinese humanoid maker.",
+      "published_iso": "2026-10-21T12:22:16Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/k2SxPcYMeT7qWB8dU7ZK46-2000-80.jpg",
+      "excerpt": "Unitree Robotics has revealed its impressive new H2-X Kung Fu Legend Guardian robot — a humanoid bodyguard from our sci-fi dreams."
     },
     {
-      "title": "Voxel 1 robot can tidy up, water plants and clean up dirt",
-      "url": "https://www.notebookcheck.net/Voxel-1-robot-can-tidy-up-water-plants-and-clean-up-dirt.1429483.0.html",
-      "source": "Notebookcheck",
+      "title": "The Timekettle LiveTalk earbuds can play audio, translate, and help you learn a language",
+      "url": "https://www.androidauthority.com/timekettle-livetalk-ai-translation-earbuds-hands-on-3722945/",
+      "source": "Android Authority",
       "tool": "Gadgets",
       "accent": "#2ec5c5",
       "motif": "headset",
-      "rationale": "New product: Tuesday Labs' two-armed household robot that learns where objects belong and tidies on its own. A concrete consumer physical-AI device.",
-      "published_iso": "2026-10-20T20:35:00+02:00",
-      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Voxel-1.jpg",
-      "excerpt": "Tuesday Labs' Voxel Series 1 is a two-armed, two-legged household robot that uses AI to learn where objects belong, tidy up on its own, water plants, detect and clean dirt and put dishes away, guided by RGB and ultra-wide cameras and voice commands."
+      "rationale": "New device hands-on: Timekettle's LiveTalk earbuds work as everyday earbuds and also do AI translation of conversations and audio in 54 languages. AI translation is the product.",
+      "published_iso": "2026-10-21T13:35:34+00:00",
+      "og_image": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+      "excerpt": "Hands-on with Timekettle LiveTalk, AI translation earbuds that double as regular earbuds and translate conversations and audio across 54 languages."
     },
     {
-      "title": "An 'enormous influx' of new Garmin Connect IQ apps and watch faces spark fears of poor-quality AI slop flooding the store",
-      "url": "https://www.techradar.com/health-fitness/fitness-trackers/poorly-made-ai-generated-watch-faces-will-consume-everything-garmins-connect-iq-store-has-been-hit-by-an-enormous-influx-of-submissions-and-garmin-users-could-soon-be-grappling-with-a-wave-of-ai-slop",
-      "source": "TechRadar",
+      "title": "SpeakON introduces magnetic iPhone button with AI-powered voice actions",
+      "url": "https://www.notebookcheck.net/SpeakON-introduces-magnetic-iPhone-button-with-AI-powered-voice-actions.1429977.0.html",
+      "source": "Notebookcheck",
       "tool": "Gadgets",
       "accent": "#f5a623",
       "motif": "headset",
-      "rationale": "New development: AI-generated watch faces and apps are flooding Garmin's Connect IQ store. Directly relevant to designers who make wearable UI.",
-      "published_iso": "2026-10-20T11:48:27Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/uetucfrVgCdpWSvbu4JKsC-1920-80.jpg",
-      "excerpt": "Garmin has a Connect IQ problem."
+      "rationale": "New accessory launch: a magnetic iPhone button that sends speech to an AI agent, which drafts notes, reminders and emails for the user to approve. The AI agent is what makes it useful.",
+      "published_iso": "2026-10-21T11:53:00+02:00",
+      "og_image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+      "excerpt": "One button. No more endless tapping on your iPhone screen. SpeakON's magnetic accessory now comes with an AI agent that can turn your spoken thoughts into notes, reminders and emails, although you'll still have to approve the results."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.engadget.com/2291754/perplexity-makes-it-easier-to-run-ai-workflows-entirely-on-your-mac/": {
+      "https://www.androidauthority.com/hue-bridge-pro-custom-ai-behaviors-launch-3726230/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+        "nearest": "https://www.androidauthority.com/nanoleaf-smart-lights-mcp-chatgpt-claude-3717231/",
         "new_action": ""
       },
-      "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/": {
+      "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/": {
         "verdict": "new",
-        "nearest": "https://www.engadget.com/2270766/gemini-find-hub-locate-important-documents/",
+        "nearest": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/Boya-Notra-Neo-launches-with-AI-powered-meeting-transcriptions-summaries-and-recordings-and-MagSafe-mount.1428542.0.html": {
+      "https://www.techradar.com/ai-platforms-assistants/unitree-reveals-its-h2-x-bodyguard-robot-a-kung-fu-humanoid-with-an-8-hour-battery-life-and-some-serious-martial-arts-skills": {
         "verdict": "new",
-        "nearest": "https://9to5mac.com/2026/09/23/macwhisper-update-brings-real-time-meeting-transcripts-improved-speaker-recognition-more/",
+        "nearest": "https://www.techradar.com/ai-platforms-assistants/unitree-ceo-says-robotics-breakthrough-could-happen-in-2027-with-the-chatgpt-moment-for-embodied-intelligence-being-powered-by-openais-gpt-7-model",
         "new_action": ""
       },
-      "https://www.notebookcheck.net/Voxel-1-robot-can-tidy-up-water-plants-and-clean-up-dirt.1429483.0.html": {
+      "https://www.androidauthority.com/timekettle-livetalk-ai-translation-earbuds-hands-on-3722945/": {
         "verdict": "new",
-        "nearest": "https://www.cnet.com/tech/computing/flourish-3555-humanoid-robot-learns-chores-in-30-minutes-startup-says/",
+        "nearest": "https://www.engadget.com/2271253/translation-earbuds-how-work-explained/",
         "new_action": ""
       },
-      "https://www.techradar.com/health-fitness/fitness-trackers/poorly-made-ai-generated-watch-faces-will-consume-everything-garmins-connect-iq-store-has-been-hit-by-an-enormous-influx-of-submissions-and-garmin-users-could-soon-be-grappling-with-a-wave-of-ai-slop": {
+      "https://www.notebookcheck.net/SpeakON-introduces-magnetic-iPhone-button-with-AI-powered-voice-actions.1429977.0.html": {
         "verdict": "new",
-        "nearest": "https://9to5google.com/2026/10/09/pixel-watch-4-update-adds-ai-face-generator/",
+        "nearest": "https://www.androidauthority.com/turned-android-phone-ai-button-into-powerful-shortcuts-3714021/",
         "new_action": ""
       }
     },
-    "note": "SWAP 2026-10-21: enrichment rejected zdnet.co.kr Galaxy Buds On (20261020114021) because it is a hardware launch and not AI-led; removed it and its check. Replacement: Notebookcheck Boya Notra Neo (published 2026-10-20T02:45Z, about 19h before now_iso, inside the 14-day window). It is AI-led: transcription, summaries and Ask AI are the product. It has no history_match. The nearest published story is the 09-24 MacWhisper software update, which is a different product, so it is new. It is not selected in the design or marketing sections today. Notebookcheck now has 2 cards (Voxel and Boya), which is within the cap of 2; the 5 cards come from 4 distinct outlets. Other candidates passed over: Snap Specs celebrity endorsement (marketing), Vivo V80 camera (camera-led), Antigravity drone bundle (gesture-control accessory, not AI-led), XREAL 1 Pro+ (minor refresh), Samsung The Brief (corporate PR), Supreme patrol robot (expo teaser), delivery-robot lawsuit (legal angle), Figure 03 treadmill clip and Xenon field report (not device launches). The HomeView, Samsung glasses, Bee, Googlebook, Surface and Alexa+ items remain dropped as repeats per the original note. Original dedup note: Dropped as repeats of published stories: both Apple HomeView pieces (CNET hands-on was tagged likely-repeat; 9to5Mac's piece on why it was delayed is commentary), all matching the 10-14 Ars HomeView launch card. Notebookcheck's Samsung smart-glasses leak repeats the 10-14 CNET reveal and the 10-02 FCC card. TechRadar's Amazon Bee opinion piece is commentary on the 10-16 Bee launch. Acer Googlebook 14 review follows the 09-22 Googlebook lineup and 10-13 OS review. WIRED's Surface Laptop Ultra review covers the 10-08 Microsoft Nvidia AI PC launch. Engadget's Alexa+ with Prime is an explainer that overlaps the 10-10 Alexa Plus year review and the 10-01 Alexa+ card."
+    "note": "Picks: Hue's tag-free plain-language automation is a different product and vendor from the 10-01 Nanoleaf MCP card. GM OnStar is a different automaker product from the 10-21 Google Gemini-in-cars card. Unitree H2-X is a new product, while the 10-14 card was the Unitree CEO's commentary. Timekettle LiveTalk is a specific new device, while the 09-30 Engadget card was a general explainer (tagged 'related'). SpeakON is a new hardware accessory, while the 09-28 card was an Android how-to (tagged 'related'). Dropped as repeats or follow-ups without a new event: Verge 'Gemini navigation on CarPlay' continues the 10-21 Gemini-in-cars story (Google blog). It is a platform extension, and I left it out for freshness and to avoid a second car card next to OnStar. TechCrunch Apple TV 4K (10-13, nine days old) came from the same Apple event as the 10-14 HomeView card and follows the 10-06 tvOS code-hint card. TechCrunch Panos Panay is interview commentary following the 10-16 Bee launch. Ars Surface Laptop Ultra review covers the 10-08 Microsoft AI PC launch. XDA Nvidia/Underdog on RTX Spark continues the 10-07 Underdog and 10-10 RTX Spark cards. XDA Copilot OneDrive rollback is a minor Windows software change that continues the 10-06 and 10-08 Windows AI cards. 9to5Mac's piece on why HomeView was delayed is commentary on the 10-14 card. Passed over on fit or AI-centrality: CNET Ohio State scent transmission (a research prototype, not a device launch), Vivo V80 (camera-led), Baseus camera (tracking hardware, not AI-led), ZDNET HomePod update (AI angle unclear), Samsung The Brief (corporate PR), etnews robot-industry forum (policy event, not a device), Chicago delivery-robot lawsuits (legal angle). Diversity: 5 cards from 4 outlets (Android Authority 2, TechCrunch, TechRadar, Notebookcheck), all within the cap of 2 per outlet."
   }
 }

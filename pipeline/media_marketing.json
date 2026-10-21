@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-21",
-  "section": "marketing",
-  "media": [
-    {
-      "id": "marketing-chatgpt-ads-auto-enhance",
-      "type": "image",
-      "src": "pipeline/media/marketing-chatgpt-ads-auto-enhance.png"
-    },
-    {
-      "id": "marketing-gemini-small-business-tools",
-      "type": "image",
-      "src": "pipeline/media/marketing-gemini-small-business-tools.png"
-    },
-    {
-      "id": "marketing-ai-slop-recipe-mfa-sites",
-      "type": "image",
-      "src": "pipeline/media/marketing-ai-slop-recipe-mfa-sites.jpg"
-    },
-    {
-      "id": "marketing-ai-max-ad-grants-autoon",
-      "type": "image",
-      "src": "pipeline/media/marketing-ai-max-ad-grants-autoon.jpg"
-    },
-    {
-      "id": "marketing-hark-agent-pizza-promo",
-      "type": "image",
-      "src": "pipeline/media/marketing-hark-agent-pizza-promo.jpg"
-    }
-  ]
-}
+{"date":"2026-10-22","section":"marketing","media":[
+{"id":"marketing-pmax-images","type":"image","src":"pipeline/media/marketing-pmax-images.jpg"},
+{"id":"marketing-walmart-agents","type":"image","src":"pipeline/media/marketing-walmart-agents.jpg"},
+{"id":"marketing-chatgpt-ads-markets","type":"image","src":"pipeline/media/marketing-chatgpt-ads-markets.jpg"},
+{"id":"marketing-yelp-lead-agent","type":"image","src":"pipeline/media/marketing-yelp-lead-agent.jpg"},
+{"id":"marketing-meta-muse","type":"image","src":"pipeline/media/marketing-meta-muse.jpg"}
+]}

@@ -1,80 +1,80 @@
 {
-  "date": "2026-09-30",
-  "section": "music",
-  "now_iso": "2026-09-29T22:03:11Z",
-  "window_hours": 336,
-  "pass": "recovery2",
-  "items": [
-    {
-      "category": "music",
-      "source": "Digital Music News",
-      "url": "https://www.digitalmusicnews.com/2026/09/18/suno-subscribers-have-a-big-problem-with-v6/",
-      "title": "Suno Subscribers Have a Big Problem with v6",
-      "published_iso": "2026-09-19T02:00:01+00:00",
-      "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/09/suno-subscribers-slam-v6.png",
-      "excerpt": "Longtime Suno subscribers are abandoning ship, saying the new label-partnered V6 generation model sounds 'muffled, dull, and strangely lifeless' compared with earlier versions, despite Suno's claims it is faster, more expressive and higher quality.",
-      "keywords": [
-        "Suno v6 model quality",
-        "AI music user backlash"
-      ]
-    },
-    {
-      "category": "music",
-      "source": "Financial News (fnnews.com)",
-      "url": "https://www.fnnews.com/news/202609270056206684",
-      "title": "10초 만에 뚝딱 찍어낸 음악… 완벽한 '가짜'가 위협하는 K팝의 진정성 [박지현의 아트월드]",
-      "published_iso": "2026-09-27T00:59:59+09:00",
-      "og_image": "https://image.fnnews.com/resource/media/image/2026/08/25/202608251809488680_e.jpg",
-      "excerpt": "Korean column on how prompt-to-song generators like Suno and Udio are reshaping creation and distribution, and how K-pop agencies' bets on virtual artists and AI vocal tech are colliding with fans who reject AI-polished singers.",
-      "off_list": true,
-      "off_list_reason": "Korean AI x K-pop angle; no on-list outlet covered it",
-      "keywords": [
-        "AI 작곡",
-        "K팝 AI 보컬",
-        "가상 아티스트"
-      ]
-    },
-    {
-      "category": "music",
-      "source": "Suno (YouTube)",
-      "url": "https://www.youtube.com/watch?v=MofPqieaf0g",
-      "title": "Watch Braylon Browner turn a dance into a song | Suno v6",
-      "published_iso": "2026-09-25T17:26:12-07:00",
-      "og_image": "https://i.ytimg.com/vi/MofPqieaf0g/maxresdefault.jpg",
-      "excerpt": "Suno's official channel shows dancer Braylon Browner flipping the creative process with the v6 model, turning movement into music and then into a finished music video (dir. Nina McNeely).",
-      "keywords": [
-        "Suno v6 creator workflow",
-        "movement-to-music"
-      ]
-    },
-    {
-      "category": "music",
-      "source": "Sound On Sound",
-      "url": "https://www.soundonsound.com/news/finalist-2-tim-exile",
-      "title": "Finalist 2 from Tim Exile",
-      "published_iso": "2026-09-25T18:00:53+01:00",
-      "og_image": "https://dt7v1i9vyp3mf.cloudfront.net/styles/header/s3/imagelibrary/t/tim_exile_finalist_2-B_T3XmiW.qc0vhXUSdeCDx19OOiAlaG_.jpg",
-      "excerpt": "Tim Exile's one-click algorithmic mixing tool Finalist 2 goes standalone and browser-based, adding Drums/Bass/Back/Front stem export that sums exactly to the master -- pitched explicitly as 'stem separation without the AI artefacts' and built with no AI processes.",
-      "borderline": "AI-free counterpoint: body substantively frames the tool against AI mixing/stem separation",
-      "keywords": [
-        "AI-free mixing",
-        "auto-mix tool",
-        "stem export"
-      ]
-    },
-    {
-      "category": "music",
-      "source": "Suno (YouTube)",
-      "url": "https://www.youtube.com/shorts/RFo_0XpyNhs",
-      "title": "You can record straight to the timeline in Suno Studio.",
-      "published_iso": "2026-09-23T19:09:58-07:00",
-      "og_image": "https://i.ytimg.com/vi/RFo_0XpyNhs/maxresdefault.jpg",
-      "excerpt": "Suno Studio, Suno's generative-AI DAW, now lets users arm a track and record audio straight to the timeline alongside AI-generated parts.",
-      "borderline": "thin short; feature is recording in an AI DAW",
-      "keywords": [
-        "Suno Studio",
-        "generative DAW"
-      ]
-    }
-  ]
+ "section": "music",
+ "generated_at": "2026-10-21T22:00:00Z",
+ "window_hours": 336,
+ "mode": "recovery",
+ "items": [
+  {
+   "title": "Moises and SoundCloud Partner to Bring AI-Supported Creation, Collaboration and Distribution Together for 150+ Million Artists",
+   "url": "https://finance.yahoo.com/technology/ai/articles/moises-soundcloud-partner-bring-ai-142300209.html",
+   "source": "PR Newswire (via Yahoo Finance)",
+   "published_iso": "2026-10-21T14:23:00Z",
+   "excerpt": "Moises, the ethically trained AI creative suite used by 80 million musicians, is partnering with SoundCloud to bring stem separation, chord/lyric detection and AI-assisted mixing and mastering together with SoundCloud distribution. SoundCloud says it does not train generative models on artists' music without consent.",
+   "og_image": "https://media.zenfs.com/en/prnewswire.com/a4bac47dad1064098ea29683926cc611.jpg",
+   "category": "music"
+  },
+  {
+   "title": "As fans reject AI-generated music, even boosters are drawing the line",
+   "url": "https://www.theguardian.com/music/2026/oct/21/artificial-intelligence-music-grimes-asap-rocky",
+   "source": "The Guardian",
+   "published_iso": "2026-10-21T13:22:51Z",
+   "excerpt": "Guardian analysis: streaming services, musicians and fans are drawing lines on AI-generated music, and even enthusiasts like Grimes and A$AP Rocky say they embrace AI content but won't produce it themselves. (Background mentions Spotify's 50m-track slop removal, which was already covered; this piece takes the wider artist-sentiment angle.)",
+   "og_image": "https://i.guim.co.uk/img/media/8247f9d5d61677fd63d2d0b76590621d1901f9e1/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d6ff75072b8c034487f4bc6273a47068",
+   "category": "music"
+  },
+  {
+   "title": "AI 음악 기술 '뉴튠', 오디오비주얼 에이전트 DJ '탈' ADE 2026서 첫 공개",
+   "url": "https://wowtale.net/2026/10/19/266499/",
+   "source": "와우테일 (Wowtale)",
+   "published_iso": "2026-10-19T09:14:53+09:00",
+   "excerpt": "Korean AI music company Neutune is premiering 'Tal', an audiovisual agent DJ built on traditional Korean mask motifs, at Amsterdam Dance Event 2026. The project was made with KOCCA's 2026 AI content production grant.",
+   "og_image": "https://cdn.wowtale.net/wp-content/uploads/2026/10/neutune-20261018-article-3dde75.jpg",
+   "category": "music"
+  },
+  {
+   "title": "Korea's JYP Partners and SM pursue AI idols to personalize fan service",
+   "url": "https://biz.chosun.com/en/en-industry/2026/10/20/DN5TM63LHRGSJPARK72NJHWXZM/",
+   "source": "Chosun Biz",
+   "published_iso": "2026-10-19T21:00:35Z",
+   "excerpt": "K-pop agencies JYP (via JYP Partners) and SM are pursuing AI idols and backing startups to test personalized AI idol fan services and build new IP.",
+   "og_image": "https://biz.chosun.com/resizer/v2/TAY4X2AW4FBS7NYHEF6C37CMK4.png?auth=fbf437955745cf15daf53291ab4009d8add442981c8a6565a6ad06782d304d3e&width=1200&height=630&smart=true",
+   "category": "music"
+  },
+  {
+   "title": "Elephant In the Room Reminder: Major Hits from Kylie Minogue and Nick Cave Already Used to Train AI Without Compensation, the ICMP Tells Australian Legislators",
+   "url": "https://www.digitalmusicnews.com/2026/10/19/icmp-kylie-minogue-songs-train-ai/",
+   "source": "Digital Music News",
+   "published_iso": "2026-10-20T04:00:26+00:00",
+   "excerpt": "Global publishers' body ICMP told Australian legislators that AI models have already been trained on songs by Kylie Minogue and Nick Cave without permission or payment, and warned that a text-and-data-mining carve-out would 'legitimize larceny'.",
+   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/major-australian-hits-kylie-minogue-nick-cave-already-used-to-train-ai.png",
+   "category": "music"
+  },
+  {
+   "title": "Is There a Future for 'Humanoid Robot Performances'? South Korea's Galaxy Corporation Thinks So",
+   "url": "https://www.digitalmusicnews.com/2026/10/21/south-korea-humanoid-robot-performances/",
+   "source": "Digital Music News",
+   "published_iso": "2026-10-21T19:45:23+00:00",
+   "excerpt": "Galaxy Corporation, a Korean 'physical AI' entertainment-tech company combining K-pop IP, AI and humanoid robots, is staging a Halloween robot-performance event in Saratoga, California on October 30. Weak AI angle: the AI is about robotics more than the music itself.",
+   "og_image": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/galaxy-corporation-humanoid-robot-k-pop-performances.png",
+   "category": "music"
+  },
+  {
+   "title": "Chronixx calls for separate Grammy category for AI albums",
+   "url": "https://www.dancehallmag.com/2026/10/11/news/chronixx-calls-for-separate-grammy-category-for-ai-albums.html",
+   "source": "DancehallMag",
+   "published_iso": "2026-10-11T20:48:51+00:00",
+   "excerpt": "Ahead of the 2027 Grammy race, reggae singer Chronixx has called for albums made with large language models and machine learning to compete in their own Grammy category. In reggae and dancehall, the AI debate already covers songwriting, visuals, voice imitation and training data.",
+   "og_image": "https://www.dancehallmag.com/wp-content/uploads/2022/06/chronixx.jpg",
+   "category": "music"
+  },
+  {
+   "title": "Lithuanian lawmakers propose legal protection against AI voice cloning",
+   "url": "https://www.lrt.lt/en/news-in-english/19/3080130/lithuanian-lawmakers-propose-legal-protection-against-ai-voice-cloning",
+   "source": "LRT",
+   "published_iso": "2026-10-12T08:17:00Z",
+   "excerpt": "Lithuanian MPs proposed Civil Code amendments creating a legal right to one's voice, so reproducing, publishing or otherwise using it, including AI-generated imitations, would need consent. Music angle is indirect: this is a general voice-likeness law.",
+   "og_image": "https://www.lrt.lt/img/2026/08/25/2471667-56416-1287x836.jpg",
+   "category": "music"
+  }
+ ]
 }

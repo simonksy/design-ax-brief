@@ -1,128 +1,133 @@
 {
-  "section": "books",
-  "generated_at": "2026-10-20T21:40:00Z",
-  "now_iso": "2026-10-20T21:40:00Z",
-  "window_hours": 336,
-  "items": [
-    {
-      "title": "New literary prize Prix Pascal launches in France for manuscripts written with AI",
-      "url": "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-10-20T14:30:00Z",
-      "excerpt": "A new French literary prize will recognise a manuscript written with artificial intelligence, requiring entrants to disclose the tools and methods used to produce their work.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "Tomato Novels Announces Full Shutdown of All AI-Related Services",
-      "url": "https://eu.36kr.com/en/p/4034128921827207",
-      "source": "36Kr",
-      "category": "books",
-      "published_iso": "2026-10-20T20:58:00+08:00",
-      "excerpt": "ByteDance-backed web-fiction platform Tomato Novel is shutting down its AI writing services and switching new low-level authors to full-work-completion signing after a flood of AI-generated serials; authors pushed back and some open-sourced their AI workflows.",
-      "og_image": "https://img.36krcdn.com/hsossms/20261020/v2_29f60425c1204ff8aa053cbbddfc24a2@5888275@ai_oswg881799oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "\"검색창서 책 펼친다\"…밀리의서재, AI로 독서 진입 간소화",
-      "url": "https://www.ddaily.co.kr/page/view/2026102014534352853",
-      "source": "디지털데일리",
-      "category": "books",
-      "published_iso": "2026-10-20T15:06:16+09:00",
-      "excerpt": "KT 밀리의서재가 검색 결과에서 도서 핵심을 요약해 보여주고 바로 독서·추천으로 이어지는 'AI 브리핑' 기능을 도입했다.",
-      "og_image": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
-      "lang": "ko"
-    },
-    {
-      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-      "source": "Ars Technica",
-      "category": "books",
-      "published_iso": "2026-10-20T17:40:20+00:00",
-      "excerpt": "In the authors' book-piracy suit, Meta was ordered to name the executives who approved torrenting books for AI training; Meta argues nobody 'decided' to pirate books.",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "“저작권 신탁기구 추진…AI의 ‘책 도둑질’ 막아야”",
-      "url": "https://www.sedaily.com/article/20103917",
-      "source": "서울경제",
-      "category": "books",
-      "published_iso": "2026-10-20T17:42:56+09:00",
-      "excerpt": "앤트로픽의 국내 도서 대량 매입·해적판 다운로드 논란 속에 한국출판인회의가 AI 학습 이용을 관리할 저작권 신탁기구 설립을 추진한다고 밝혔다.",
-      "og_image": "https://wimg.sedaily.com/news/cms/2026/10/20/news-p.v1.20261011.ae0838158c134012acc47e38f557eebb_Z1.jpg",
-      "lang": "ko"
-    },
-    {
-      "title": "\"내 책 썼는지조차 몰라\"…AI 학습 우려에 경고음 커지는 출판계",
-      "url": "https://www.yna.co.kr/view/AKR20261020031000005",
-      "source": "연합뉴스",
-      "category": "books",
-      "published_iso": "2026-10-20T11:25:01+09:00",
-      "excerpt": "국내외에서 AI 학습용으로 의심되는 도서 대량 구매가 잇따라 포착되면서, 자기 책이 학습에 쓰였는지조차 알 수 없는 작가·출판계의 우려가 커지고 있다.",
-      "og_image": "https://img4.yna.co.kr/photo/cms/2026/04/02/82/PCM20260402000082990_P4.jpg",
-      "lang": "ko"
-    },
-    {
-      "title": "From Content to Trusted Knowledge: Reflections on Frankfurt Book Fair 2026",
-      "url": "https://scholarlykitchen.sspnet.org/2026/10/20/from-content-to-trusted-knowledge-reflections-on-frankfurt-book-fair-2026/",
-      "source": "The Scholarly Kitchen",
-      "category": "books",
-      "published_iso": "2026-10-20T09:30:33+00:00",
-      "excerpt": "Reflections from Frankfurt 2026 on how publishers can turn trusted content into useful knowledge in an AI-mediated landscape, and help people act on it.",
-      "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "[Korean Startup Interview] Sodalive: Turning Finished Webtoon Characters into AI Creators",
-      "url": "https://en.wowtale.net/2026/10/21/235648/",
-      "source": "Wowtale",
-      "category": "books",
-      "published_iso": "2026-10-21T05:01:00+09:00",
-      "excerpt": "Sodalive is pivoting from its voice platform VoiceOn to turn official webtoon and web-novel characters into AI creators that keep producing content after a series ends.",
-      "og_image": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "Iceland Considers AI for New Teaching Materials",
-      "url": "https://www.icelandreview.com/news/iceland-education-minister-ai-teaching-materials-2026/",
-      "source": "Iceland Review",
-      "category": "books",
-      "published_iso": "2026-10-19T13:00:04+00:00",
-      "excerpt": "Iceland's education minister says AI could play a role in producing new school teaching materials, though options and funding remain undecided.",
-      "og_image": "https://www.icelandreview.com/wp-content/uploads/2026/01/Digital-Iceland-1024x683.png",
-      "lang": "en"
-    },
-    {
-      "title": "Why Are Publishers Suing Big Tech With One Hand and Embracing AI With the Other?",
-      "url": "https://lithub.com/why-are-publishers-suing-big-tech-with-one-hand-and-embracing-ai-with-the-other/",
-      "source": "Literary Hub",
-      "category": "books",
-      "published_iso": "2026-10-15T09:10:37+00:00",
-      "excerpt": "An essay from an Authors Guild panel on authorship and AI, asking why publishers litigate against AI firms while quietly adopting AI in their own workflows.",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/AI-hands-scaled.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "Is It or Isn’t It? How Generative AI is Poisoning the Literary Well For Everyone",
-      "url": "https://lithub.com/is-it-or-isnt-it-how-generative-ai-is-poisoning-the-literary-well-for-everyone/",
-      "source": "Literary Hub",
-      "category": "books",
-      "published_iso": "2026-10-14T09:10:55+00:00",
-      "excerpt": "After Vauhini Vara's Atlantic piece suggesting a prize-winning story was probably AI-written, Lit Hub examines how AI-detection suspicion is corroding trust in literary work.",
-      "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/AI-detection.jpg",
-      "lang": "en"
-    },
-    {
-      "title": "Thélyson Orélien denies using AI to write novel but admits to plagiarism in earlier work",
-      "url": "https://www.thebookseller.com/news/thelyson-orelien-denies-using-ai-to-write-novel-but-admits-to-plagiarism-in-earlier-work",
-      "source": "The Bookseller",
-      "category": "books",
-      "published_iso": "2026-10-14T15:00:00Z",
-      "excerpt": "Canadian author Thélyson Orélien has denied using AI to write his prize-winning novel C’était ça ou mourir, but admitted to 'unacceptable' plagiarism in earlier work.",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/asd12.jpg",
-      "lang": "en"
-    }
-  ]
+ "section": "books",
+ "generated_at": "2026-10-21T22:00:00Z",
+ "window_hours": 336,
+ "items": [
+  {
+   "title": "Society of Authors withdraws from Ethical AI Charter after member backlash",
+   "url": "https://www.thebookseller.com/news/society-of-authors-withdraws-from-ethical-ai-charter-after-member-backlash",
+   "source": "The Bookseller",
+   "category": "books",
+   "published_iso": "2026-10-21T07:45:00Z",
+   "excerpt": "The Society of Authors has withdrawn from the Ethical AI Charter it launched last week, following member backlash and a clarifying statement from CEO Anna Ganley on its position on generative AI.",
+   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg"
+  },
+  {
+   "title": "An editor's first read must not be outsourced to AI",
+   "url": "https://www.thebookseller.com/comment/an-editors-first-read-must-not-be-outsourced-to-ai",
+   "source": "The Bookseller",
+   "category": "books",
+   "published_iso": "2026-10-08T07:45:00Z",
+   "excerpt": "Copy editor Adnan Algın argues that used too early, AI can suppress an editor's vital but indefinable first-read instincts on a manuscript.",
+   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/Book_editor_c_Shutterstock_Main.jpg"
+  },
+  {
+   "title": "Thélyson Orélien denies using AI to write novel but admits to plagiarism in earlier work",
+   "url": "https://www.thebookseller.com/news/thelyson-orelien-denies-using-ai-to-write-novel-but-admits-to-plagiarism-in-earlier-work",
+   "source": "The Bookseller",
+   "category": "books",
+   "published_iso": "2026-10-14T15:00:00Z",
+   "excerpt": "Canadian author Thélyson Orélien denied using AI to write his prize-shortlisted novel C'était ça ou mourir, while admitting to 'unacceptable' plagiarism in earlier work. (Superseded 10-21 by publisher Boréal confirming AI use — see CBC/Yonhap.)",
+   "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/679/asd12.jpg"
+  },
+  {
+   "title": "Survey Finds Book Buyers Split on AI Use",
+   "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101576-survey-finds-book-buyers-split-on-ai-use.html",
+   "source": "Publishers Weekly",
+   "category": "books",
+   "published_iso": "2026-10-21T04:00:00Z",
+   "excerpt": "A BookInsights.ai study finds younger readers more open to authors using AI in some form, but readers of all ages agree that books should disclose AI use.",
+   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+  },
+  {
+   "title": "Hundreds Sue Meta for Copyright Infringement, Rejecting Class Action Payouts",
+   "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101578-hundreds-sue-meta-for-copyright-infringement-rejecting-class-action-payouts.html",
+   "source": "Publishers Weekly",
+   "category": "books",
+   "published_iso": "2026-10-21T04:00:00Z",
+   "excerpt": "Nearly 300 authors are suing Meta over AI training on pirated books, seeking a jury trial and the maximum $150,000 per infringement rather than class-action payouts; attorney Kyle Roche says many more cases are coming.",
+   "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
+  },
+  {
+   "title": "Publishers Are Splitting on AI While the Ground Shifts Everywhere Else",
+   "url": "https://www.mediabistro.com/media-news/publishers-are-splitting-on-ai-while-the-ground-shifts-everywhere-else/",
+   "source": "Mediabistro",
+   "category": "books",
+   "published_iso": "2026-10-20T12:28:46Z",
+   "excerpt": "Meta claims AI rights to publisher content while Google pays for it — publishers are diverging on licensing versus resisting AI use of their content.",
+   "og_image": ""
+  },
+  {
+   "title": "From Content to Trusted Knowledge: Reflections on Frankfurt Book Fair 2026",
+   "url": "https://scholarlykitchen.sspnet.org/2026/10/20/from-content-to-trusted-knowledge-reflections-on-frankfurt-book-fair-2026/",
+   "source": "The Scholarly Kitchen",
+   "category": "books",
+   "published_iso": "2026-10-20T09:30:33Z",
+   "excerpt": "Reflections from Frankfurt 2026 on how publishers can turn trusted content into useful knowledge as AI systems and agents become the interface readers act through.",
+   "og_image": "https://scholarlykitchen.sspnet.org/wp-content/uploads/2026/10/iStock-2191733603.jpg"
+  },
+  {
+   "title": "How AI Changes the Fundamental Structure of the Classroom—Especially the Segregated Ones",
+   "url": "https://lithub.com/how-ai-changes-the-fundamental-structure-of-the-classroom-especially-the-segregated-ones/",
+   "source": "Literary Hub",
+   "category": "books",
+   "published_iso": "2026-10-21T09:09:11Z",
+   "excerpt": "A book excerpt examining how ChatGPT-era AI tools reshape reading, writing and instruction in American classrooms, and how they deepen gaps in segregated schools.",
+   "og_image": "https://s26162.pcdn.co/wp-content/uploads/2026/10/chat-gpt-scaled.jpg"
+  },
+  {
+   "title": "佛공쿠르상 후보 제외된 소설 AI 대필 의혹 사실로…출판사 결별",
+   "url": "https://www.yna.co.kr/view/AKR20261022005500072",
+   "source": "연합뉴스",
+   "category": "books",
+   "published_iso": "2026-10-22T04:20:51+09:00",
+   "excerpt": "캐나다 출판사 보레알이 신예 베스트셀러 작가 텔리송 오렐리앵의 인공지능(AI) 활용 의혹이 사실로 확인됐다며 작가와의 관계를 끝낸다고 밝혔다.",
+   "og_image": "https://img6.yna.co.kr/photo/etc/af/2026/10/22/PAF20261022018601009_P4.jpg"
+  },
+  {
+   "title": "[단독] 한강·황석영 책 도둑질, 화웨이 등 中 AI기업도 가세했다",
+   "url": "https://www.joongang.co.kr/article/25471800",
+   "source": "중앙일보",
+   "category": "books",
+   "published_iso": "2026-10-22T05:00:01+09:00",
+   "excerpt": "앤트로픽에 이어 중국 화웨이도 AI 모델 '판구 시그마' 학습에 한강·황석영 등 한국 작가의 책을 무단으로 내려받은 것으로 기술보고서를 통해 확인됐다.",
+   "og_image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg"
+  },
+  {
+   "title": "“저작권 신탁기구 추진…AI의 ‘책 도둑질’ 막아야”",
+   "url": "https://www.sedaily.com/article/20103917",
+   "source": "서울경제",
+   "category": "books",
+   "published_iso": "2026-10-20T17:42:56+09:00",
+   "excerpt": "앤트로픽의 국내 도서 대량 매입·해적판 다운로드 논란 속에 한국출판인회의가 AI 학습 대응을 위한 저작권 신탁기구 설립을 추진한다고 밝혔다.",
+   "og_image": "https://wimg.sedaily.com/news/cms/2026/10/20/news-p.v1.20261011.ae0838158c134012acc47e38f557eebb_Z1.jpg"
+  },
+  {
+   "title": "Publisher cuts ties with Quebec author accused of AI use in award-winning novel",
+   "url": "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119",
+   "source": "CBC News",
+   "category": "books",
+   "published_iso": "2026-10-21T16:37:41Z",
+   "excerpt": "Éditions du Boréal said AI was used in Thélyson Orélien's novel C'était ça ou mourir, contrary to his denials, citing traces of AI tags in document metadata, and ended its relationship with the author.",
+   "og_image": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620"
+  },
+  {
+   "title": "The anti-AI writing police are everywhere. What are they looking for?",
+   "url": "https://www.cp24.com/news/world/2026/10/21/the-anti-ai-writing-police-are-everywhere-what-are-they-looking-for/",
+   "source": "CNN (via CP24)",
+   "category": "books",
+   "published_iso": "2026-10-21T13:00:33Z",
+   "excerpt": "Scandals over suspected AI use have spread across the writing industry this year; readers, prize judges and publishers struggle to verify whether words came from human effort or a machine prompt.",
+   "og_image": "https://www.cp24.com/resizer/v2/CCBCGOZQ6FGEXEBIS5UY6GV2EM.jpg?smart=true&auth=c34f605ff9f8bdd543c2bcada760544a6f1bb576c993349ff726e505482a4cb2&width=1200&height=630"
+  },
+  {
+   "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+   "url": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+   "source": "Ars Technica",
+   "category": "books",
+   "published_iso": "2026-10-20T20:07:58Z",
+   "excerpt": "After publishers and legal experts warned its new commercial terms were an AI-training power grab, Meta removed the word 'train' but still won't commit to respecting robots.txt.",
+   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134-1152x648.jpg"
+  }
+ ]
 }

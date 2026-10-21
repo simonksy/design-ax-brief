@@ -8967,6 +8967,137 @@
           "x": "If you already know what you want, say so in your prompt and Notebook goes straight to review. For a quick output, skip the Review toggle and generate as usual. The co-creation features are rolling out globally to all Gemini Notebook users over the coming week."
         }
       ]
+    },
+    "design/design-nvidia-gtc-berlin": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
+        },
+        {
+          "t": "p",
+          "x": "At GTC Berlin, NVIDIA said Europe's industrial leaders are using its CUDA-X and Omniverse libraries and Cosmos and Nemotron open models across engineering and manufacturing. Its Factory Operations Blueprint (FOX) is now in early access for building factory agents; Siemens is integrating FOX agents into Intelligence Center X."
+        },
+        {
+          "t": "p",
+          "x": "In design, CUDA-X speeds up simulation so engineers can explore alternatives before physical prototypes, and NVIDIA released cuDSS for general availability. Autodesk brings NVIDIA PhysicsNeMo and Warp into NavPack, integrated with Autodesk Alias, to help designers like those at Bentley predict vehicle performance and iterate faster using simulation-trained AI."
+        },
+        {
+          "t": "p",
+          "x": "Car makers use Dassault Systèmes' Nemotron-powered LEO & AURA Virtual Companions to orchestrate CATIA and SIMULIA AI agents that rapidly design and virtually test vehicle doors. Leonardo works with Neural Concept on AI-driven aircraft design, and PhysicsX with GB1 on yacht design."
+        },
+        {
+          "t": "p",
+          "x": "Audi, Schaeffler and Wandelbots use Omniverse and Isaac digital twins to test production lines and robots before changing the factory floor."
+        }
+      ]
+    },
+    "design/design-windows-designers-code": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Diego Baca, Microsoft's Vice President of Product Design, says designers are now contributing code fixes with AI's help to clean up Windows 11's design inconsistencies. He made the comment in an X exchange with Lockergnome founder Chris Pirillo."
+        },
+        {
+          "t": "p",
+          "x": "\"AI has already helped our design team accelerate significantly. We're even seeing designers contribute directly to code fixes that improve craft, consistency, and quality. That's exciting progress, and we're only getting started.\""
+        },
+        {
+          "t": "p",
+          "x": "Baca didn't name the AI tools, the fixes, or how much of the code AI writes, and gave no timeline for consistency, calling it \"an active workstream.\""
+        },
+        {
+          "t": "img",
+          "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+          "cap": "Windows 11’s new native Search UI"
+        },
+        {
+          "t": "p",
+          "x": "Microsoft is rebuilding parts of Windows 11 in WinUI 3: a new Search in Insider testing, a modern Run dialog with a 94ms median time-to-show, and a Photos Editor that loads 25% faster. Legacy corners like the old Mouse Properties dialog remain."
+        },
+        {
+          "t": "p",
+          "x": "Designers usually hand mockups to engineers and wait; one who can make a spacing fix with AI avoids a lot of back and forth."
+        }
+      ]
+    },
+    "design/design-slop-skill": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+        },
+        {
+          "t": "p",
+          "x": "Ask any AI to \"make me a landing page\" and you get giant rounded cards, frosted glass over a red-purple gradient, a glowing neon button, a pitch-black background with no light mode, a 64px centered headline and one endless column. A V2EX thread with 80+ replies listed the same sins."
+        },
+        {
+          "t": "p",
+          "x": "design-slop-skill is a Claude Code skill that detects these patterns deterministically and rewrites them toward human-crafted defaults. Two stdlib-only Python scripts need no LLM, network or dependencies."
+        },
+        {
+          "t": "p",
+          "x": "detect.py scans HTML/CSS and reports findings with rule id, file, line and a bilingual explanation, weighted into a 0–100 slop score. fix.py applies the inverse: radius clamped to 10px, blur dropped, glows neutralized, purple gradients flattened, a light-mode block added, hero titles tamed to 2.25rem left-aligned."
+        },
+        {
+          "t": "p",
+          "x": "Seven rules (SLOP-001 to SLOP-007) cover the complaint list; purple detection is hue-based. As a skill, the agent runs it during generation rather than after. Theme toggles and grid restructuring are left to a human. MIT licensed, with 23 unit tests."
+        }
+      ]
+    },
+    "design/design-just-eat-ai-photos": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+          "cap": "Just Eat’s AI image generator produced inaccurate images of several menu items, including a traditional Irish bacon-and-egg soda bread sandwich. Image credit: Just Eat UK"
+        },
+        {
+          "t": "p",
+          "x": "Food delivery app Just Eat has apologized over several inaccurate AI-generated photos on menus, including a picture of bacon and eggs floating in a soda."
+        },
+        {
+          "t": "p",
+          "x": "Just Eat, which operates in the U.K., was trialling AI-generated images for restaurants that hadn't taken their own photos, tagging each as \"AI-generated.\" According to The Independent, it paused the trial after customer complaints."
+        },
+        {
+          "t": "p",
+          "x": "A Northern Ireland restaurant selling soda bread sandwiches got images of sausages, bacon and fried eggs floating in pints of fizzy drinks. Salt and pepper chips appeared as plain fries buried in salt and pepper, and a cheddar listing showed an orange, fondue-like sauce."
+        },
+        {
+          "t": "p",
+          "x": "\"We've been trialling AI-enhanced images and as with any new technology, it isn't always quite right the first time,\" Just Eat said. \"We're sorry for any inaccurate images that have been posted.\" It is removing them and has paused the rollout while it develops the tool."
+        }
+      ]
+    },
+    "design/design-lightroom-open-eyes-tap": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
+          "cap": "When the mobile app detects closed eyes in a photo it will present users with a new Open Eyes Quick Action tool."
+        },
+        {
+          "t": "p",
+          "x": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature."
+        },
+        {
+          "t": "p",
+          "x": "Being able to easily save an otherwise great photo by opening a subject’s eyes has been a feature in Adobe’s Photoshop Elements for nearly a decade, but as DPReview points out, Elements sources the replacement from another photo of the subject with mixed results depending on variations between the two images. Open Eyes in Lightroom mobile instead relies on generative AI so the replacement eyes match the lighting and pose, and the app will use other images of the same person in your Lightroom library as reference so the open eyes will accurately match the color, size, and shape of their own."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "You can perform a similar fix in other Adobe apps like Photoshop using its own generative AI tools, but it’s not a one-tap fix, and it’s not free. Those using the free version of the Lightroom mobile app can try the Open Eyes feature twice before they’re given a prompt to subscribe to an Adobe Creative Cloud plan that includes more credits for its various AI-powered tools, according to DPReview."
+        }
+      ]
     }
   }
 }

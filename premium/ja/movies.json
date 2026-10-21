@@ -7839,6 +7839,174 @@
           "x": "Split to Clipsは、台詞、音楽、環境音、効果音を別々のクリップとしてタイムラインに並べ、ターンオーバーに使えるようにする。筆者の注意点は、分離でミックスが仕上がるわけではないということだ。ミックスの終わりではなく、始まりとして扱うべきである。"
         }
       ]
+    },
+    "movies/movies-axe-ai-commercial": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/axe-by-cassandra-brooksbank.jpg?id=68494219&width=1245&height=700&quality=50&coordinates=237%2C0%2C237%2C0"
+        },
+        {
+          "t": "p",
+          "x": "2021年、Cassandra Brooksbank監督はThe Martin Agencyが企画したAXEのCMの監督に名乗りを上げた。New Yorkの地下鉄で男性の巨大なオレンジ色のダウンジャケットが膨らみ続け、ついには聖書級の量の汗をおびえる乗客に浴びせるという内容だ。企画は予算上の理由でお蔵入りとなった。"
+        },
+        {
+          "t": "p",
+          "x": "五年後、共同制作型のAI映画制作プラットフォームAbsurdでクリエイティブディレクターを務める彼女は、これを60秒の非公式AXEスペックCM「For Days That Run Hot」として作り直した。トリートメント、キャスティング、衣装、ロケーション、ショットリスト、絵コンテと、本物の制作と同じ手順で臨んだ。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.gif?id=68494812&width=980"
+        },
+        {
+          "t": "p",
+          "x": "彼女は約20人の異なる合成キャラクターをキャスティングし、ポートレートにはGPT Image 2.5 Sunburst、複数アングルの参照素材にはUni 1.1を使い、一貫性を保つためキャラクターをAbsurdのメモリに固定した。映像は主にSeedance 2.5で、48ショットのリストから3–5ショットずつ、およそ二日かけて生成した。"
+        },
+        {
+          "t": "img",
+          "src": "https://nofilmschool.com/media-library/image.gif?id=68494852&width=980"
+        },
+        {
+          "t": "p",
+          "x": "編集はPremiereで彼女自身が行い、撮影監督のAndrew FletcherがDaVinci Resolveでグレーディングし、Filmbox Proでフィルムグレインを加えた。「AIは画像を生成できる。だが、どの画像を作る価値があるかは決められない」と彼女は書いている。"
+        }
+      ]
+    },
+    "movies/movies-cined-ai-editors-compared": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-7-1300x750.jpeg"
+        },
+        {
+          "t": "p",
+          "x": "AIとオープンソースの部品を軸に作られた動画編集ソフトが増えており、小さなチームや開発者一人が手がけるものもある。cinemaOSはオンデバイスのアシスタントを備えたMac向けサブスクリプションアプリ、CUTROOMはローカルで動く無料のオープンソース編集ソフト、invideoはAI編集エージェントと数十の生成モデルをブラウザに載せている。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/cinemaOS-900x538.png",
+          "cap": "cinemaOS / Momentum Studios"
+        },
+        {
+          "t": "p",
+          "x": "cinemaOS(バージョン0.2、月額$9.99)は、一つのライブプロジェクトを共有する「ルーム」に作業を分ける。アシスタントのJ.A.R.E.D.は文字起こし、翻訳、ルック作成をクレジットなしでMac上で実行する。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/CUTROOM-900x506.jpeg",
+          "cap": "CUTROOM"
+        },
+        {
+          "t": "p",
+          "x": "MIT-licensedで、WindowsとMac向けに1.2パブリックベータを公開中のCUTROOMは、AIを任意にしている。ダウンロード可能なモデルとOllamaでローカルに文字起こしや下書きを行うか、ユーザー自身のAPIキーでクラウド事業者を使う。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.cined.com/content/uploads/2026/10/Free-Open-Source-Editor-2-900x506.jpeg",
+          "cap": "invideo"
+        },
+        {
+          "t": "p",
+          "x": "invideoのAgent Twoはすべてのクリップを見て記録し、依頼に応じて編集する。Veo 3.1、Sora 2、Klingなどの動画モデルも使え、クレジット制プランは年払いで1席あたり月$10からだ。"
+        },
+        {
+          "t": "p",
+          "x": "CineDは、三つのいずれも現時点のプロの現場でPremiere Pro、Final Cut Pro、DaVinci Resolveを直接置き換えるものではないと結論づける。圧力がかかるのはサブスクリプション価格とショート形式のソーシャルコンテンツだ。"
+        }
+      ]
+    },
+    "movies/movies-felix-film-genai-listing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIF/cms/interest.3/242957/felix-film.jpg"
+        },
+        {
+          "t": "p",
+          "x": "日本のアニメーションスタジオFelix Filmは土曜日、生成AI技術の使用をめぐり、新卒アニメーターの求人を修正した。二つ目の応募条件は、原画でBlenderなどの3D CGツールを使いたい応募者を求める内容に変わり、同社が「スタジオのクリエイターの仕事を支える技術の一つとして、AI技術をどう活用できるかを研究している」との一文が加わった。"
+        },
+        {
+          "t": "p",
+          "x": "土曜日より前、二つ目の条件には、Felix Filmが「Blenderや画像生成AIを用いてイラストを作成できる」応募者を求めていると書かれていた。この求人は来春に卒業する応募者が対象だ。"
+        },
+        {
+          "t": "p",
+          "x": "スタジオは土曜日に出した声明で「現時点で当社はスタジオへの画像生成AIの導入を決定していないが、今後の活用の可能性については研究している」と述べた。技術はクリエイティブな人材に取って代わるためではなく、支えるために使いたいと二度強調した。"
+        },
+        {
+          "t": "p",
+          "x": "Felix Filmは「将来、生成AI技術を導入する場合は、使用するサービスや技術の要素、権利の問題、スタジオへの影響を慎重に検討する」と記した。"
+        }
+      ]
+    },
+    "movies/movies-waititi-ai-prompts": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301048628.jpg?crop=0px%2C257px%2C3314px%2C1854px&resize=1440%2C810"
+        },
+        {
+          "t": "p",
+          "x": "Jenna OrtegaとAmy Adamsが出演する、Taika WaititiによるKazuo Ishiguroの小説の映画化『Klara and the Sun』は、AIが本格的に到来する何年も前に企画された。月曜日のNew Yorkでの特別上映会で、制作陣はThe Hollywood Reporterに、新しい技術の中で自らの人間性を受け入れることを描いた時宜を得た物語だと語った。"
+        },
+        {
+          "t": "p",
+          "x": "Ortegaは太陽光で動く「Artificial Friend」(人工の友だち)、Klaraを演じる。「人工知能は愛を感じない。愛について何も知らない」と彼女は語った。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.hollywoodreporter.com/wp-content/uploads/2026/10/GettyImages-2301049092_53fca7.jpg?w=1296",
+          "cap": "特別上映会に出席したJenna Ortega、Taika Waititi、Amy Adams。"
+        },
+        {
+          "t": "p",
+          "x": "Waititiは「部屋に一人で座ってプロンプトを打ち込んで映画を作るために、この仕事を始めたわけじゃない。それは本当に退屈でつまらなく思える。僕は人と関わりたいんだ」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "「業界でいずれそれを使うことになるのはおそらく避けられないだろう。ただし、人間が代わりとしてではなく道具として使う限りにおいてだ。僕は人間を置き換えたくない。一緒に働きたいんだ」。『Klara and the Sun』は金曜日に劇場公開される。"
+        }
+      ]
+    },
+    "movies/movies-sekondo-chatgpt-claude-adobe": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_Premiere_Pro.png?fit=1200%2C675&quality=80&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "Córdobaを拠点とするグラフィックデザイナーのJose Manuel Fernándezが、ChatGPTとClaudeをAfter Effects、Premiere Pro、Photoshop、Illustrator、InDesign、Lightroom Classicの六つのAdobeアプリにつなぐプラグイン「Sekondo」を公開した。"
+        },
+        {
+          "t": "p",
+          "x": "AIは新しい画像やクリップを生成するのではなく、作家自身のプロジェクトの中で作業する。必要なことを文字か音声で伝えると、レイヤー、キーフレーム、コンポジション、タイムラインに変更を加え、すべてを編集可能なまま残す。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_After_Effects.jpg?w=850&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "どのスタジオでもそうであるように、Fernándezの一日の多くは反復作業に費やされていた。一つの作品を二十のフォーマットに合わせ、バージョンを作り、同じロワーサードを何度も組む。「必要な作業ですが、アイデアを考えることに使いたい時間を何時間も奪っていきます。デザインする時間を増やすためにSekondoを作りました」"
+        },
+        {
+          "t": "p",
+          "x": "Premiere ProとAfter Effectsでは、Sekondoは作家自身の素材を使い、その指示のもとで、最初のカットから複雑なモーションまで、作品全体の編集、アニメーション、仕上げを行える。変更できない完成クリップを返すのではなく、プロジェクトの構造を読み取り、動く前に測り、すべてのレイヤーを編集可能に保つ。"
+        },
+        {
+          "t": "img",
+          "src": "https://i0.wp.com/motionographer.com/wp-content/uploads/2026/10/Sekondo_PremierePro_takes.jpg?w=850&quality=89&ssl=1"
+        },
+        {
+          "t": "p",
+          "x": "どこまで任せるかは作家が決める。指示の実行、アイデアや選択肢の提案、あるいは作家のアイデアから作品全体を組み立てることまでできる。ファイルがユーザーのコンピューターの外に出ることはない。"
+        },
+        {
+          "t": "p",
+          "x": "SekondoはAdobeの審査を通過し、これらのアプリ向けの公式マーケットプレイスであるAdobe Exchangeで公開されている。macOSとWindowsで、ClaudeおよびChatGPTのデスクトップアプリと組み合わせて動作する。"
+        }
+      ]
     }
   }
 }

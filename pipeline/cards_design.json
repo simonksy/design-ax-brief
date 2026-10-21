@@ -1,339 +1,17 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "design",
   "cards": [
     {
-      "id": "design-lightroom-open-eyes-tap",
+      "id": "design-figma-mcp",
       "source_lang": "en",
-      "tool": "KeyShot",
       "eyebrow": "AI NEWS",
-      "headline": "Lightroom 모바일\n탭 한 번에 감은 눈 뜬다",
-      "body": "Lightroom Open Eyes는 생성형 AI와 본인 사진으로 눈을 맞춘다.",
-      "mini_headline": "Lightroom, 감은 눈을 뜨게 한다",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-actions-open-eyes",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "full": {
-        "mode": "full",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
-            "cap": "모바일 앱이 사진에서 감은 눈을 찾아내면 새 Open Eyes Quick Action 도구가 뜬다."
-          },
-          {
-            "t": "p",
-            "x": "Adobe는 어제 iOS, iPadOS, Android용 Lightroom 모바일 버전에서 생성형 AI로 사진 속 감은 눈을 탭 한 번에 뜨게 할 수 있다고 발표했다. 사진 속 한 사람이든 여러 사람이든 눈을 감은 게 감지되면 앱이 새 Open Eyes Quick Action을 자동으로 띄운다. 이미지 위에 아이콘으로 나타나니 바로 쓰면 된다."
-          },
-          {
-            "t": "p",
-            "x": "피사체의 눈을 뜨게 해 잘 나온 사진을 살리는 기능은 Adobe Photoshop Elements에 거의 십 년 전부터 있었다. 다만 DPReview가 짚었듯 Elements는 피사체의 다른 사진에서 눈을 가져오는 방식이라, 두 이미지가 얼마나 다르냐에 따라 결과가 들쭉날쭉했다. Lightroom 모바일의 Open Eyes는 생성형 AI로 새 눈을 조명과 포즈에 맞춘다. Lightroom 라이브러리에 있는 같은 인물의 다른 사진도 참고해 눈 색과 크기, 모양까지 본인과 정확히 맞춘다."
-          },
-          {
-            "t": "img",
-            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
-          },
-          {
-            "t": "p",
-            "x": "Photoshop 같은 다른 Adobe 앱에서도 자체 생성형 AI 도구로 비슷하게 고칠 수는 있지만, 탭 한 번으로 끝나지 않고 무료도 아니다. DPReview에 따르면 Lightroom 모바일 앱 무료 버전 사용자는 Open Eyes를 두 번 써 볼 수 있다. 그 뒤로는 각종 AI-powered 도구에 쓸 크레딧이 더 들어 있는 Adobe Creative Cloud 플랜 구독 안내가 뜬다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "Lightroom mobile opens\nclosed eyes in one tap",
-          "body": "Lightroom mobile's one-tap Open Eyes uses generative AI and other shots of the same person to match their eyes.",
-          "mini_headline": "Lightroom opens closed eyes",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
-                "cap": "When the mobile app detects closed eyes in a photo it will present users with a new Open Eyes Quick Action tool."
-              },
-              {
-                "t": "p",
-                "x": "Adobe announced yesterday that the mobile version of Lightroom, available for iOS, iPadOS, and Android, can now open closed eyes in photos using generative AI with just a single tap. When the app detects a person, or a group of people, have their eyes closed in a photo it will automatically present users with a new Open Eyes Quick Action that appears as an icon over the image providing easy access to the new feature."
-              },
-              {
-                "t": "p",
-                "x": "Being able to easily save an otherwise great photo by opening a subject’s eyes has been a feature in Adobe’s Photoshop Elements for nearly a decade, but as DPReview points out, Elements sources the replacement from another photo of the subject with mixed results depending on variations between the two images. Open Eyes in Lightroom mobile instead relies on generative AI so the replacement eyes match the lighting and pose, and the app will use other images of the same person in your Lightroom library as reference so the open eyes will accurately match the color, size, and shape of their own."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "You can perform a similar fix in other Adobe apps like Photoshop using its own generative AI tools, but it’s not a one-tap fix, and it’s not free. Those using the free version of the Lightroom mobile app can try the Open Eyes feature twice before they’re given a prompt to subscribe to an Adobe Creative Cloud plan that includes more credits for its various AI-powered tools, according to DPReview."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "Lightroom 모바일\n탭 한 번에 감은 눈 뜬다",
-          "body": "Lightroom Open Eyes는 생성형 AI와 본인 사진으로 눈을 맞춘다.",
-          "mini_headline": "Lightroom, 감은 눈을 뜨게 한다",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
-                "cap": "모바일 앱이 사진에서 감은 눈을 찾아내면 새 Open Eyes Quick Action 도구가 뜬다."
-              },
-              {
-                "t": "p",
-                "x": "Adobe는 어제 iOS, iPadOS, Android용 Lightroom 모바일 버전에서 생성형 AI로 사진 속 감은 눈을 탭 한 번에 뜨게 할 수 있다고 발표했다. 사진 속 한 사람이든 여러 사람이든 눈을 감은 게 감지되면 앱이 새 Open Eyes Quick Action을 자동으로 띄운다. 이미지 위에 아이콘으로 나타나니 바로 쓰면 된다."
-              },
-              {
-                "t": "p",
-                "x": "피사체의 눈을 뜨게 해 잘 나온 사진을 살리는 기능은 Adobe Photoshop Elements에 거의 십 년 전부터 있었다. 다만 DPReview가 짚었듯 Elements는 피사체의 다른 사진에서 눈을 가져오는 방식이라, 두 이미지가 얼마나 다르냐에 따라 결과가 들쭉날쭉했다. Lightroom 모바일의 Open Eyes는 생성형 AI로 새 눈을 조명과 포즈에 맞춘다. Lightroom 라이브러리에 있는 같은 인물의 다른 사진도 참고해 눈 색과 크기, 모양까지 본인과 정확히 맞춘다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Photoshop 같은 다른 Adobe 앱에서도 자체 생성형 AI 도구로 비슷하게 고칠 수는 있지만, 탭 한 번으로 끝나지 않고 무료도 아니다. DPReview에 따르면 Lightroom 모바일 앱 무료 버전 사용자는 Open Eyes를 두 번 써 볼 수 있다. 그 뒤로는 각종 AI-powered 도구에 쓸 크레딧이 더 들어 있는 Adobe Creative Cloud 플랜 구독 안내가 뜬다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Lightroomモバイル\n閉じた目をワンタップで開く",
-          "body": "LightroomのOpen Eyesは生成AIと同じ人物の別写真を使い目を合わせる。",
-          "mini_headline": "Lightroom、閉じた目を開く",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
-                "cap": "モバイルアプリは写真内の閉じた目を検出すると、新しいOpen Eyes Quick Actionツールを表示する。"
-              },
-              {
-                "t": "p",
-                "x": "Adobeは昨日、iOS、iPadOS、Android向けのLightroomモバイル版で、生成AIを使い写真の閉じた目をワンタップで開けるようになったと発表した。写真の中で一人または複数の人が目を閉じているとアプリが検出すると、新しいOpen Eyes Quick Actionが画像上にアイコンとして自動で表示され、新機能にすぐアクセスできる。"
-              },
-              {
-                "t": "p",
-                "x": "被写体の目を開いて、せっかくの良い写真を救う機能は、AdobeのPhotoshop Elementsに十年近く前からある。ただDPReviewが指摘するように、Elementsは被写体の別の写真から差し替え用の目を持ってくるため、二枚の画像の違いによって仕上がりにばらつきがあった。LightroomモバイルのOpen Eyesは代わりに生成AIを使い、差し替えた目が照明やポーズに合うようにする。さらにLightroomライブラリにある同じ人物の他の画像を参照し、目の色、大きさ、形をその人本来のものに正確に合わせる。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "PhotoshopなどほかのAdobeアプリでも独自の生成AIツールで同様の修正はできるが、ワンタップでは済まず、無料でもない。DPReviewによると、Lightroomモバイルアプリの無料版ユーザーはOpen Eyesを二回試すことができ、その後はさまざまなAI-poweredツール用のクレジットを多く含むAdobe Creative Cloudプランへの加入を促される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Lightroom移动版\n一键睁开闭上的眼睛",
-          "body": "Lightroom移动端Open Eyes借助生成式AI与同一人物其他照片匹配眼睛。",
-          "mini_headline": "Lightroom可睁开闭眼",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
-                "cap": "当移动应用检测到照片中有人闭眼时，会向用户显示全新的Open Eyes Quick Action工具。"
-              },
-              {
-                "t": "p",
-                "x": "Adobe昨天宣布，适用于iOS、iPadOS和Android的Lightroom移动版现在可借助生成式AI，一键睁开照片中闭上的眼睛。当应用检测到照片中有一人或多人闭眼时，会自动显示新的Open Eyes Quick Action，以图标形式出现在图像上方，方便用户使用这项新功能。"
-              },
-              {
-                "t": "p",
-                "x": "通过睁开主体的眼睛来挽救一张原本很好的照片，这一功能在Adobe的Photoshop Elements中已存在近十年。但正如DPReview所指出的，Elements从主体的另一张照片中提取替换的眼睛，效果取决于两张图像之间的差异，好坏不一。Lightroom移动版的Open Eyes则依靠生成式AI，使替换的眼睛与光线和姿态相符，并会参考用户Lightroom图库中同一人物的其他图像，让睁开的眼睛在颜色、大小和形状上与本人准确一致。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "在Photoshop等其他Adobe应用中，也可以用其自带的生成式AI工具进行类似修复，但无法一键完成，也不免费。据DPReview报道，Lightroom移动应用免费版用户可试用两次Open Eyes功能，之后会收到提示，订阅包含更多各类AI-powered工具额度的Adobe Creative Cloud方案。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Lightroom para móviles abre\nlos ojos cerrados con un toque",
-          "body": "Open Eyes de Lightroom para móviles usa AI generativa y otras fotos de la misma persona para igualar sus ojos.",
-          "mini_headline": "Lightroom abre los ojos cerrados",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
-                "cap": "Cuando la app móvil detecta ojos cerrados en una foto, muestra a los usuarios la nueva herramienta Open Eyes Quick Action."
-              },
-              {
-                "t": "p",
-                "x": "Adobe anunció ayer que la versión móvil de Lightroom, disponible para iOS, iPadOS y Android, ya puede abrir los ojos cerrados en las fotos con AI generativa y un solo toque. Cuando la app detecta que una persona o un grupo de personas tiene los ojos cerrados en una foto, muestra automáticamente la nueva Open Eyes Quick Action, que aparece como un icono sobre la imagen y da acceso directo a la nueva función."
-              },
-              {
-                "t": "p",
-                "x": "Salvar con facilidad una foto que por lo demás es buena abriendo los ojos del sujeto es algo que Photoshop Elements de Adobe ofrece desde hace casi una década, pero, como señala DPReview, Elements toma el reemplazo de otra foto del sujeto, con resultados desiguales según las diferencias entre ambas imágenes. Open Eyes en Lightroom para móviles recurre en cambio a la AI generativa para que los ojos de reemplazo coincidan con la iluminación y la pose, y la app usa otras imágenes de la misma persona en la biblioteca de Lightroom como referencia para que los ojos abiertos coincidan con precisión en color, tamaño y forma con los suyos."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Se puede hacer un arreglo similar en otras apps de Adobe como Photoshop con sus propias herramientas de AI generativa, pero no se resuelve con un toque y no es gratis. Según DPReview, quienes usan la versión gratuita de la app móvil de Lightroom pueden probar Open Eyes dos veces antes de recibir una invitación a suscribirse a un plan de Adobe Creative Cloud que incluye más créditos para sus diversas herramientas AI-powered."
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "ko": {
-          "headline": "Lightroom 모바일\n탭 한 번에 감은 눈 뜬다",
-          "body": "Lightroom Open Eyes는 생성형 AI와 본인 사진으로 눈을 맞춘다.",
-          "mini_headline": "Lightroom, 감은 눈을 뜨게 한다",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
-                "cap": "모바일 앱은 사진 속 감은 눈을 감지하면 새 Open Eyes Quick Action 도구를 띄운다."
-              },
-              {
-                "t": "p",
-                "x": "Adobe는 어제 iOS, iPadOS, Android용 Lightroom 모바일 버전이 생성형 AI로 사진 속 감은 눈을 탭 한 번에 뜨게 할 수 있다고 발표했다. 앱은 사진 속 한 사람 또는 여러 사람이 눈을 감은 것을 감지하면 새 Open Eyes Quick Action을 자동으로 띄운다. 이 기능은 이미지 위 아이콘으로 나타나 바로 쓸 수 있다."
-              },
-              {
-                "t": "p",
-                "x": "피사체의 눈을 뜨게 해 잘 나온 사진을 살리는 기능은 Adobe Photoshop Elements에 거의 십 년 동안 있었다. 하지만 DPReview가 지적하듯 Elements는 피사체의 다른 사진에서 눈을 가져오기 때문에 두 이미지의 차이에 따라 결과가 들쭉날쭉했다. Lightroom 모바일의 Open Eyes는 생성형 AI를 써서 새 눈이 조명과 포즈에 맞도록 한다. 또 Lightroom 라이브러리에 있는 같은 인물의 다른 사진을 참고해 눈의 색과 크기, 모양까지 본인과 정확히 맞춘다."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Photoshop 같은 다른 Adobe 앱에서도 자체 생성형 AI 도구로 비슷하게 고칠 수 있지만, 탭 한 번으로 끝나지 않고 무료도 아니다. DPReview에 따르면 Lightroom 모바일 앱 무료 버전 사용자는 Open Eyes를 두 번 써 볼 수 있고, 그 뒤에는 각종 AI-powered 도구용 크레딧이 더 포함된 Adobe Creative Cloud 플랜 구독 안내를 받는다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "Lightroomモバイル\n閉じた目をワンタップで開く",
-          "body": "LightroomのOpen Eyesは生成AIと同じ人物の別写真を使い目を合わせる。",
-          "mini_headline": "Lightroom、閉じた目を開く",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
-                "cap": "モバイルアプリは写真内の閉じた目を検出すると、新しいOpen Eyes Quick Actionツールを表示する。"
-              },
-              {
-                "t": "p",
-                "x": "Adobeは昨日、iOS、iPadOS、Android向けのLightroomモバイル版で、生成AIを使い写真の閉じた目をワンタップで開けるようになったと発表した。写真の中で一人または複数の人が目を閉じているとアプリが検出すると、新しいOpen Eyes Quick Actionが画像上にアイコンとして自動で表示され、新機能にすぐアクセスできる。"
-              },
-              {
-                "t": "p",
-                "x": "被写体の目を開いて、せっかくの良い写真を救う機能は、AdobeのPhotoshop Elementsに十年近く前からある。ただDPReviewが指摘するように、Elementsは被写体の別の写真から差し替え用の目を持ってくるため、二枚の画像の違いによって仕上がりにばらつきがあった。LightroomモバイルのOpen Eyesは代わりに生成AIを使い、差し替えた目が照明やポーズに合うようにする。さらにLightroomライブラリにある同じ人物の他の画像を参照し、目の色、大きさ、形をその人本来のものに正確に合わせる。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "PhotoshopなどほかのAdobeアプリでも独自の生成AIツールで同様の修正はできるが、ワンタップでは済まず、無料でもない。DPReviewによると、Lightroomモバイルアプリの無料版ユーザーはOpen Eyesを二回試すことができ、その後はさまざまなAI-poweredツール用のクレジットを多く含むAdobe Creative Cloudプランへの加入を促される。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Lightroom移动版\n一键睁开闭上的眼睛",
-          "body": "Lightroom移动端Open Eyes借助生成式AI与同一人物其他照片匹配眼睛。",
-          "mini_headline": "Lightroom可睁开闭眼",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
-                "cap": "当移动应用检测到照片中有人闭眼时，会向用户显示全新的Open Eyes Quick Action工具。"
-              },
-              {
-                "t": "p",
-                "x": "Adobe昨天宣布，适用于iOS、iPadOS和Android的Lightroom移动版现在可借助生成式AI，一键睁开照片中闭上的眼睛。当应用检测到照片中有一人或多人闭眼时，会自动显示新的Open Eyes Quick Action，以图标形式出现在图像上方，方便用户使用这项新功能。"
-              },
-              {
-                "t": "p",
-                "x": "通过睁开主体的眼睛来挽救一张原本很好的照片，这一功能在Adobe的Photoshop Elements中已存在近十年。但正如DPReview所指出的，Elements从主体的另一张照片中提取替换的眼睛，效果取决于两张图像之间的差异，好坏不一。Lightroom移动版的Open Eyes则依靠生成式AI，使替换的眼睛与光线和姿态相符，并会参考用户Lightroom图库中同一人物的其他图像，让睁开的眼睛在颜色、大小和形状上与本人准确一致。"
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "在Photoshop等其他Adobe应用中，也可以用其自带的生成式AI工具进行类似修复，但无法一键完成，也不免费。据DPReview报道，Lightroom移动应用免费版用户可试用两次Open Eyes功能，之后会收到提示，订阅包含更多各类AI-powered工具额度的Adobe Creative Cloud方案。"
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Lightroom para móviles abre\nlos ojos cerrados con un toque",
-          "body": "Open Eyes de Lightroom para móviles usa AI generativa y otras fotos de la misma persona para igualar sus ojos.",
-          "mini_headline": "Lightroom abre los ojos cerrados",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&w=1200",
-                "cap": "Cuando la app móvil detecta ojos cerrados en una foto, muestra a los usuarios la nueva herramienta Open Eyes Quick Action."
-              },
-              {
-                "t": "p",
-                "x": "Adobe anunció ayer que la versión móvil de Lightroom, disponible para iOS, iPadOS y Android, ya puede abrir los ojos cerrados en las fotos con AI generativa y un solo toque. Cuando la app detecta que una persona o un grupo de personas tiene los ojos cerrados en una foto, muestra automáticamente la nueva Open Eyes Quick Action, que aparece como un icono sobre la imagen y da acceso directo a la nueva función."
-              },
-              {
-                "t": "p",
-                "x": "Salvar con facilidad una foto que por lo demás es buena abriendo los ojos del sujeto es algo que Photoshop Elements de Adobe ofrece desde hace casi una década, pero, como señala DPReview, Elements toma el reemplazo de otra foto del sujeto, con resultados desiguales según las diferencias entre ambas imágenes. Open Eyes en Lightroom para móviles recurre en cambio a la AI generativa para que los ojos de reemplazo coincidan con la iluminación y la pose, y la app usa otras imágenes de la misma persona en la biblioteca de Lightroom como referencia para que los ojos abiertos coincidan con precisión en color, tamaño y forma con los suyos."
-              },
-              {
-                "t": "img",
-                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/adobe2.jpg?quality=90&strip=all&w=1200"
-              },
-              {
-                "t": "p",
-                "x": "Se puede hacer un arreglo similar en otras apps de Adobe como Photoshop con sus propias herramientas de AI generativa, pero no se resuelve con un toque y no es gratis. Según DPReview, quienes usan la versión gratuita de la app móvil de Lightroom pueden probar Open Eyes dos veces antes de recibir una invitación a suscribirse a un plan de Adobe Creative Cloud que incluye más créditos para sus diversas herramientas AI-powered."
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "design-chatgpt-slides-decks",
-      "source_lang": "en",
+      "headline": "Figma, MCP 파트너\n20곳 늘리며 의문 제기",
+      "body": "Figma가 MCP는 불완전하다면서도 Notion 등 파트너 20곳을 더했다.",
+      "mini_headline": "Figma, MCP 파트너 20곳 추가",
       "tool": "Figma",
-      "eyebrow": "AI NEWS",
-      "headline": "ChatGPT Slides\n채팅에서 덱 만들고 발표",
-      "body": "ChatGPT Slides가 대화로 만든 덱을 PowerPoint로 내보낸다.",
-      "mini_headline": "ChatGPT Slides로 덱 제작",
-      "source": "Digital Trends",
-      "url": "https://www.digitaltrends.com/computing/chatgpt-wants-to-steal-your-job-as-the-office-powerpoint-person/",
+      "source": "DEV Community",
+      "url": "https://dev.to/hacksgr/figma-embraces-new-ai-paradigm-but-expresses-reservations-39n7",
       "accent": "#0070f3",
       "motif": "frame",
       "full": {
@@ -341,221 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
           },
           {
             "t": "p",
-            "x": "OpenAI가 ChatGPT Slides를 내놓으며 업무 현장에서 ChatGPT가 맡는 역할을 넓힌다. 10월 16일 릴리스 노트에서 공개한 새 기능으로, 사용자는 플랫폼 안에서 바로 슬라이드 덱을 만들고 편집하며 함께 작업한다."
+            "x": "Figma 공동 창업자 Dylan Field가 Model Context Protocol(MCP)을 두고 우려를 내놨다. 표준이 완벽하지 않은 데다 대형 AI 연구소 쪽에 유리하다는 것이다."
           },
           {
             "t": "p",
-            "x": "출발점은 기존 대화나 업로드한 파일, 개요, 디자인 방향을 잡아 줄 샘플 프레젠테이션이다. ChatGPT는 이 자료로 편집 가능한 덱을 만들고 맞춤 이미지를 생성하며, 텍스트와 시각 요소, 차트 다듬기를 돕는다. 요소를 직접 고치거나 구체적인 수정을 요청해도 된다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+            "x": "Figma는 인도(India)에서 처음 연 Config 콘퍼런스에서 Notion, ClickUp, Linear 등 MCP를 쓸 새 파트너 20곳을 발표했다. 회사는 도입을 밀어붙이지만 Field는 MCP가 \"개선할 여지가 아주 많다\"며 \"프런티어 연구소에 더 유리하다\"고 말했다."
           },
           {
             "t": "p",
-            "x": "팀원들은 같은 프레젠테이션을 동시에 편집하고 공유 댓글을 남긴다. ChatGPT는 피드백을 반영하고 슬라이드끼리 일관성을 지키도록 돕는다. 기존 덱을 참고 자료로 넣으면 결과물도 기존 브랜딩을 따른다."
-          },
-          {
-            "t": "img",
-            "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+            "x": "Field는 MCP를 만든 Anthropic에도 날을 세웠다. 직접 홍보하는 프로토콜로 정작 자기 리소스는 왜 공개하지 않느냐는 지적이다."
           },
           {
             "t": "p",
-            "x": "완성한 덱은 ChatGPT에서 바로 발표하거나 PowerPoint, PDF, 웹의 Google Slides로 내보낼 수 있고, 내보낸 뒤에도 편집할 수 있다. Slides는 Space 접근 권한이 있는 Pro, Business, Enterprise 대상 사용자에게 차례로 제공된다. 발표 전에 수치와 주장을 검증하는 일은 여전히 필요하다."
+            "x": "Figma는 오픈소스 도구 Pi를 지원할 계획이지만 모든 외부 연결에 시스템을 활짝 열지는 않는다. Field는 MCP로 드러나는 데이터가 많을수록 악용될 여지도 커지니 그만큼 조심해야 한다고 했다."
+          },
+          {
+            "t": "p",
+            "x": "Hacks.gr가 다시 실은 기사로, 원 보도는 TechCrunch(October 20, 2026)다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "ChatGPT Slides builds\nand presents decks in chat",
-          "body": "ChatGPT Slides turns chats, files or outlines into editable decks with live co-editing and PowerPoint export.",
-          "mini_headline": "ChatGPT Slides builds decks",
+          "headline": "Figma adds 20 MCP partners\nwhile doubting the protocol",
+          "body": "At Config India, Figma added 20 MCP partners including Notion and Linear, even as Dylan Field called MCP imperfect.",
+          "mini_headline": "Figma adds 20 MCP partners",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
               },
               {
                 "t": "p",
-                "x": "OpenAI is expanding ChatGPT’s role in the workplace with ChatGPT Slides, a new feature announced in its October 16 release notes that lets users create, edit, and collaborate on slide decks directly within the platform."
+                "x": "Figma co-founder Dylan Field has voiced concerns over the Model Context Protocol (MCP), arguing that the standard is not perfect and favors large AI labs."
               },
               {
                 "t": "p",
-                "x": "Users can start with an existing conversation, uploaded files, an outline, or a sample presentation that guides the design. ChatGPT turns that material into an editable deck, generates custom images, and helps refine text, visuals, and charts; users can also edit elements themselves or ask for specific changes."
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+                "x": "At its first Config conference in India, Figma announced 20 new partners that will use MCP, including Notion, ClickUp and Linear. While the company is moving forward with this adoption, Field said MCP \"has tons of room for improvement\" and is \"advantaged more to frontier labs.\""
               },
               {
                 "t": "p",
-                "x": "Teammates can edit the same presentation simultaneously and leave shared comments, while ChatGPT helps implement feedback and keep slides consistent. An existing deck can serve as a reference so output follows established branding."
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+                "x": "Field also criticized Anthropic, the company that created MCP, asking why it does not make its own resources available through the protocol it promotes."
               },
               {
                 "t": "p",
-                "x": "Finished decks can be presented in ChatGPT or exported to PowerPoint, PDF, or Google Slides on the web, and stay editable. Slides is rolling out to eligible Pro, Business, and Enterprise users with Space access, and figures and claims should still be verified before presenting."
+                "x": "Figma plans to support the open source tool Pi, but has chosen not to fully open its systems to every external connection. Field explained that the more data is exposed through MCP, the higher the chance of abuse, so the company must stay cautious."
+              },
+              {
+                "t": "p",
+                "x": "Repost from Hacks.gr; original reporting by TechCrunch (October 20, 2026)."
               }
             ]
           }
         },
         "ko": {
-          "headline": "ChatGPT Slides\n채팅에서 덱 만들고 발표",
-          "body": "ChatGPT Slides가 대화로 만든 덱을 PowerPoint로 내보낸다.",
-          "mini_headline": "ChatGPT Slides로 덱 제작",
+          "headline": "Figma, MCP 파트너\n20곳 늘리며 의문 제기",
+          "body": "Figma가 MCP는 불완전하다면서도 Notion 등 파트너 20곳을 더했다.",
+          "mini_headline": "Figma, MCP 파트너 20곳 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT Slides를 내놓으며 업무 현장에서 ChatGPT가 맡는 역할을 넓힌다. 10월 16일 릴리스 노트에서 공개한 새 기능으로, 사용자는 플랫폼 안에서 바로 슬라이드 덱을 만들고 편집하며 함께 작업한다."
+                "x": "Figma 공동 창업자 Dylan Field가 Model Context Protocol(MCP)을 두고 우려를 내놨다. 표준이 완벽하지 않은 데다 대형 AI 연구소 쪽에 유리하다는 것이다."
               },
               {
                 "t": "p",
-                "x": "출발점은 기존 대화나 업로드한 파일, 개요, 디자인 방향을 잡아 줄 샘플 프레젠테이션이다. ChatGPT는 이 자료로 편집 가능한 덱을 만들고 맞춤 이미지를 생성하며, 텍스트와 시각 요소, 차트 다듬기를 돕는다. 요소를 직접 고치거나 구체적인 수정을 요청해도 된다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+                "x": "Figma는 인도(India)에서 처음 연 Config 콘퍼런스에서 Notion, ClickUp, Linear 등 MCP를 쓸 새 파트너 20곳을 발표했다. 회사는 도입을 밀어붙이지만 Field는 MCP가 \"개선할 여지가 아주 많다\"며 \"프런티어 연구소에 더 유리하다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "팀원들은 같은 프레젠테이션을 동시에 편집하고 공유 댓글을 남긴다. ChatGPT는 피드백을 반영하고 슬라이드끼리 일관성을 지키도록 돕는다. 기존 덱을 참고 자료로 넣으면 결과물도 기존 브랜딩을 따른다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+                "x": "Field는 MCP를 만든 Anthropic에도 날을 세웠다. 직접 홍보하는 프로토콜로 정작 자기 리소스는 왜 공개하지 않느냐는 지적이다."
               },
               {
                 "t": "p",
-                "x": "완성한 덱은 ChatGPT에서 바로 발표하거나 PowerPoint, PDF, 웹의 Google Slides로 내보낼 수 있고, 내보낸 뒤에도 편집할 수 있다. Slides는 Space 접근 권한이 있는 Pro, Business, Enterprise 대상 사용자에게 차례로 제공된다. 발표 전에 수치와 주장을 검증하는 일은 여전히 필요하다."
+                "x": "Figma는 오픈소스 도구 Pi를 지원할 계획이지만 모든 외부 연결에 시스템을 활짝 열지는 않는다. Field는 MCP로 드러나는 데이터가 많을수록 악용될 여지도 커지니 그만큼 조심해야 한다고 했다."
+              },
+              {
+                "t": "p",
+                "x": "Hacks.gr가 다시 실은 기사로, 원 보도는 TechCrunch(October 20, 2026)다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Slides\nチャットでデッキ作成と発表",
-          "body": "ChatGPT Slidesは会話からデッキを作り、PowerPointに書き出す。",
-          "mini_headline": "ChatGPT Slidesでデッキ作成",
+          "headline": "FigmaがMCP提携20社\nプロトコルには疑問も",
+          "body": "FigmaはMCPを不完全としつつ、Notionなど提携先を20社追加した。",
+          "mini_headline": "Figma、MCP提携先を20社追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
               },
               {
                 "t": "p",
-                "x": "OpenAIはChatGPT Slidesで、職場におけるChatGPTの役割を広げる。10月16日のリリースノートで発表された新機能で、ユーザーはプラットフォーム内で直接スライドデッキを作成、編集し、共同作業できる。"
+                "x": "Figmaの共同創業者Dylan Fieldは、Model Context Protocol(MCP)について、標準として完璧ではなく大手AIラボに有利だと懸念を示した。"
               },
               {
                 "t": "p",
-                "x": "既存の会話、アップロードしたファイル、アウトライン、またはデザインの方向性を示すサンプルのプレゼンテーションから始められる。ChatGPTはその素材を編集可能なデッキに変え、独自の画像を生成し、テキスト、ビジュアル、チャートの調整を手伝う。ユーザーが自分で要素を編集したり、具体的な変更を依頼したりすることもできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+                "x": "Figmaはインド(India)で初めて開いたConfigカンファレンスで、Notion、ClickUp、LinearなどMCPを利用する新たなパートナー20社を発表した。導入を進める一方で、FieldはMCPには「改善の余地が大いにある」とし、「フロンティアラボにより有利だ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "チームメンバーは同じプレゼンテーションを同時に編集し、共有コメントを残せる。ChatGPTはフィードバックの反映やスライドの一貫性の維持を支援する。既存のデッキを参照として使えば、出力は確立されたブランディングに沿う。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+                "x": "FieldはMCPを生み出したAnthropicも批判し、自ら推進するプロトコルを通じてなぜ自社のリソースを提供しないのかと問うた。"
               },
               {
                 "t": "p",
-                "x": "完成したデッキはChatGPT内で発表するか、PowerPoint、PDF、またはウェブ版Google Slidesに書き出すことができ、編集可能なまま保たれる。SlidesはSpaceへのアクセス権を持つ対象のPro、Business、Enterpriseユーザーに順次提供されており、発表前には引き続き数値や主張を確認する必要がある。"
+                "x": "Figmaはオープンソースツールの Pi をサポートする予定だが、すべての外部接続にシステムを完全に開放することは見送った。FieldはMCPを通じて公開されるデータが増えるほど悪用の可能性も高まるため、慎重であるべきだと説明した。"
+              },
+              {
+                "t": "p",
+                "x": "Hacks.grからの転載。元記事はTechCrunch(October 20, 2026)。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Slides\n在对话中制作并演示",
-          "body": "ChatGPT Slides将对话或文件变成可编辑幻灯片并导出PowerPoint。",
-          "mini_headline": "ChatGPT Slides制作幻灯片",
+          "headline": "Figma新增20家伙伴\n却质疑MCP协议",
+          "body": "Figma新增Notion等20家MCP伙伴，Dylan Field却称MCP不完美。",
+          "mini_headline": "Figma新增20家MCP伙伴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
               },
               {
                 "t": "p",
-                "x": "OpenAI推出ChatGPT Slides，扩大ChatGPT在职场中的作用。这项新功能在其10月16日的发布说明中公布，用户可直接在平台内创建、编辑幻灯片并协作。"
+                "x": "Figma联合创始人Dylan Field对Model Context Protocol（MCP）表达担忧，认为这一标准并不完美，而且偏向大型AI实验室。"
               },
               {
                 "t": "p",
-                "x": "用户可以从已有对话、上传的文件、大纲或用于引导设计的示例演示文稿开始。ChatGPT会把这些素材变成可编辑的幻灯片，生成定制图像，并帮助完善文字、视觉元素和图表；用户也可以自行编辑元素或提出具体修改要求。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+                "x": "Figma在印度（India）举办首届Config大会，宣布新增20家将使用MCP的合作伙伴，包括Notion、ClickUp和Linear。在公司推进采用的同时，Field表示MCP“还有大量改进空间”，并且“更有利于前沿实验室”。"
               },
               {
                 "t": "p",
-                "x": "团队成员可以同时编辑同一份演示文稿并留下共享评论，ChatGPT则协助落实反馈、保持幻灯片风格一致。已有的幻灯片可作为参考，使输出遵循既定品牌规范。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+                "x": "Field还批评了创建MCP的Anthropic，质问它为何不通过自己推广的协议开放自家资源。"
               },
               {
                 "t": "p",
-                "x": "完成的幻灯片可以在ChatGPT中直接演示，也可导出为PowerPoint、PDF或网页版Google Slides，并保持可编辑。Slides正在向拥有Space访问权限的符合条件的Pro、Business和Enterprise用户逐步推出；演示前仍应核实其中的数据和论断。"
+                "x": "Figma计划支持开源工具Pi，但选择不向所有外部连接完全开放系统。Field解释说，通过MCP暴露的数据越多，被滥用的可能性就越高，因此公司必须保持谨慎。"
+              },
+              {
+                "t": "p",
+                "x": "转载自Hacks.gr；原始报道来自TechCrunch（October 20, 2026）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Slides crea y expone\npresentaciones desde el chat",
-          "body": "ChatGPT Slides convierte chats o archivos en presentaciones editables, con coedición y exportación a PowerPoint.",
-          "mini_headline": "ChatGPT Slides crea presentaciones",
+          "headline": "Figma suma 20 socios de MCP\npese a dudar del protocolo",
+          "body": "En Config India, Figma sumó 20 socios de MCP, entre ellos Notion y Linear, aunque Dylan Field llamó imperfecto a MCP.",
+          "mini_headline": "Figma suma 20 socios de MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
               },
               {
                 "t": "p",
-                "x": "OpenAI amplía el papel de ChatGPT en el trabajo con ChatGPT Slides, una nueva función anunciada en sus notas de versión del 16 de octubre que permite crear, editar y colaborar en presentaciones de diapositivas directamente en la plataforma."
+                "x": "El cofundador de Figma, Dylan Field, expresó reservas sobre el Model Context Protocol (MCP): sostiene que el estándar no es perfecto y favorece a los grandes laboratorios de AI."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden partir de una conversación existente, archivos subidos, un esquema o una presentación de muestra que oriente el diseño. ChatGPT convierte ese material en una presentación editable, genera imágenes personalizadas y ayuda a pulir textos, elementos visuales y gráficos; los usuarios también pueden editar los elementos por su cuenta o pedir cambios concretos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+                "x": "En su primera conferencia Config en India, Figma anunció 20 nuevos socios que usarán MCP, entre ellos Notion, ClickUp y Linear. Aunque la empresa avanza con esta adopción, Field afirmó que MCP \"tiene muchísimo margen de mejora\" y que \"favorece más a los laboratorios de frontera\"."
               },
               {
                 "t": "p",
-                "x": "Los miembros del equipo pueden editar la misma presentación a la vez y dejar comentarios compartidos, mientras ChatGPT ayuda a aplicar los comentarios y a mantener la coherencia de las diapositivas. Una presentación existente puede servir de referencia para que el resultado siga la identidad de marca establecida."
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+                "x": "Field también criticó a Anthropic, la empresa que creó MCP, y preguntó por qué no ofrece sus propios recursos a través del protocolo que promueve."
               },
               {
                 "t": "p",
-                "x": "Las presentaciones terminadas pueden mostrarse en ChatGPT o exportarse a PowerPoint, PDF o Google Slides en la web, y siguen siendo editables. Slides se está desplegando para los usuarios elegibles de Pro, Business y Enterprise con acceso a Space, y conviene verificar las cifras y afirmaciones antes de presentar."
+                "x": "Figma prevé dar soporte a la herramienta de código abierto Pi, pero decidió no abrir del todo sus sistemas a cualquier conexión externa. Field explicó que cuantos más datos se exponen mediante MCP, mayor es la probabilidad de abuso, por lo que la empresa debe actuar con cautela."
+              },
+              {
+                "t": "p",
+                "x": "Republicado de Hacks.gr; información original de TechCrunch (October 20, 2026)."
               }
             ]
           }
@@ -563,153 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "ChatGPT Slides\n채팅에서 덱 만들고 발표",
-          "body": "ChatGPT Slides가 대화로 만든 덱을 PowerPoint로 내보낸다.",
-          "mini_headline": "ChatGPT Slides로 덱 제작",
+          "headline": "Figma, MCP 파트너\n20곳 늘리며 의문 제기",
+          "body": "Figma가 MCP는 불완전하다면서도 Notion 등 파트너 20곳을 더했다.",
+          "mini_headline": "Figma, MCP 파트너 20곳 추가",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
               },
               {
                 "t": "p",
-                "x": "OpenAI가 ChatGPT Slides로 업무 현장에서 ChatGPT의 역할을 넓힌다. 10월 16일 릴리스 노트에서 발표한 새 기능으로, 사용자는 플랫폼 안에서 바로 슬라이드 덱을 만들고 편집하고 함께 작업할 수 있다."
+                "x": "Figma 공동 창업자 Dylan Field가 Model Context Protocol(MCP)에 우려를 나타냈다. 이 표준이 완벽하지 않고 대형 AI 연구소에 유리하다는 주장이다."
               },
               {
                 "t": "p",
-                "x": "기존 대화나 업로드한 파일, 개요, 디자인 방향을 잡아 줄 샘플 프레젠테이션에서 시작할 수 있다. ChatGPT는 이 자료를 편집 가능한 덱으로 바꾸고 맞춤 이미지를 생성하며, 텍스트와 시각 요소, 차트를 다듬도록 돕는다. 사용자가 직접 요소를 고치거나 구체적인 수정을 요청할 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+                "x": "Figma는 인도(India)에서 처음 연 Config 콘퍼런스에서 Notion, ClickUp, Linear 등 MCP를 쓸 새 파트너 20곳을 발표했다. 회사는 도입을 밀고 나가고 있지만, Field는 MCP가 \"개선할 여지가 아주 많다\"며 \"프런티어 연구소에 더 유리하다\"고 말했다."
               },
               {
                 "t": "p",
-                "x": "팀원들은 같은 프레젠테이션을 동시에 편집하고 공유 댓글을 남길 수 있으며, ChatGPT는 피드백 반영과 슬라이드 일관성 유지를 돕는다. 기존 덱을 참고 자료로 쓰면 결과물이 기존 브랜딩을 따른다."
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+                "x": "Field는 MCP를 만든 Anthropic도 비판했다. 자사가 홍보하는 프로토콜로 왜 자기 리소스는 공개하지 않느냐는 것이다."
               },
               {
                 "t": "p",
-                "x": "완성한 덱은 ChatGPT에서 바로 발표하거나 PowerPoint, PDF, 웹의 Google Slides로 내보낼 수 있고, 내보낸 뒤에도 편집할 수 있다. Slides는 Space 접근 권한이 있는 Pro, Business, Enterprise 대상 사용자에게 순차 제공되며, 발표 전에는 여전히 수치와 주장을 검증해야 한다."
+                "x": "Figma는 오픈소스 도구 Pi를 지원할 계획이지만, 모든 외부 연결에 시스템을 완전히 열지는 않기로 했다. Field는 MCP로 노출되는 데이터가 많을수록 악용될 가능성도 커지므로 신중해야 한다고 설명했다."
+              },
+              {
+                "t": "p",
+                "x": "Hacks.gr 재게재 기사이며, 원 보도는 TechCrunch(October 20, 2026)다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ChatGPT Slides\nチャットでデッキ作成と発表",
-          "body": "ChatGPT Slidesは会話からデッキを作り、PowerPointに書き出す。",
-          "mini_headline": "ChatGPT Slidesでデッキ作成",
+          "headline": "FigmaがMCP提携20社\nプロトコルには疑問も",
+          "body": "FigmaはMCPを不完全としつつ、Notionなど提携先を20社追加した。",
+          "mini_headline": "Figma、MCP提携先を20社追加",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
               },
               {
                 "t": "p",
-                "x": "OpenAIはChatGPT Slidesで、職場におけるChatGPTの役割を広げる。10月16日のリリースノートで発表された新機能で、ユーザーはプラットフォーム内で直接スライドデッキを作成、編集し、共同作業できる。"
+                "x": "Figmaの共同創業者Dylan Fieldは、Model Context Protocol(MCP)について、標準として完璧ではなく大手AIラボに有利だと懸念を示した。"
               },
               {
                 "t": "p",
-                "x": "既存の会話、アップロードしたファイル、アウトライン、またはデザインの方向性を示すサンプルのプレゼンテーションから始められる。ChatGPTはその素材を編集可能なデッキに変え、独自の画像を生成し、テキスト、ビジュアル、チャートの調整を手伝う。ユーザーが自分で要素を編集したり、具体的な変更を依頼したりすることもできる。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+                "x": "Figmaはインド(India)で初めて開いたConfigカンファレンスで、Notion、ClickUp、LinearなどMCPを利用する新たなパートナー20社を発表した。導入を進める一方で、FieldはMCPには「改善の余地が大いにある」とし、「フロンティアラボにより有利だ」と述べた。"
               },
               {
                 "t": "p",
-                "x": "チームメンバーは同じプレゼンテーションを同時に編集し、共有コメントを残せる。ChatGPTはフィードバックの反映やスライドの一貫性の維持を支援する。既存のデッキを参照として使えば、出力は確立されたブランディングに沿う。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+                "x": "FieldはMCPを生み出したAnthropicも批判し、自ら推進するプロトコルを通じてなぜ自社のリソースを提供しないのかと問うた。"
               },
               {
                 "t": "p",
-                "x": "完成したデッキはChatGPT内で発表するか、PowerPoint、PDF、またはウェブ版Google Slidesに書き出すことができ、編集可能なまま保たれる。SlidesはSpaceへのアクセス権を持つ対象のPro、Business、Enterpriseユーザーに順次提供されており、発表前には引き続き数値や主張を確認する必要がある。"
+                "x": "Figmaはオープンソースツールの Pi をサポートする予定だが、すべての外部接続にシステムを完全に開放することは見送った。FieldはMCPを通じて公開されるデータが増えるほど悪用の可能性も高まるため、慎重であるべきだと説明した。"
+              },
+              {
+                "t": "p",
+                "x": "Hacks.grからの転載。元記事はTechCrunch(October 20, 2026)。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "ChatGPT Slides\n在对话中制作并演示",
-          "body": "ChatGPT Slides将对话或文件变成可编辑幻灯片并导出PowerPoint。",
-          "mini_headline": "ChatGPT Slides制作幻灯片",
+          "headline": "Figma新增20家伙伴\n却质疑MCP协议",
+          "body": "Figma新增Notion等20家MCP伙伴，Dylan Field却称MCP不完美。",
+          "mini_headline": "Figma新增20家MCP伙伴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
               },
               {
                 "t": "p",
-                "x": "OpenAI推出ChatGPT Slides，扩大ChatGPT在职场中的作用。这项新功能在其10月16日的发布说明中公布，用户可直接在平台内创建、编辑幻灯片并协作。"
+                "x": "Figma联合创始人Dylan Field对Model Context Protocol（MCP）表达担忧，认为这一标准并不完美，而且偏向大型AI实验室。"
               },
               {
                 "t": "p",
-                "x": "用户可以从已有对话、上传的文件、大纲或用于引导设计的示例演示文稿开始。ChatGPT会把这些素材变成可编辑的幻灯片，生成定制图像，并帮助完善文字、视觉元素和图表；用户也可以自行编辑元素或提出具体修改要求。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+                "x": "Figma在印度（India）举办首届Config大会，宣布新增20家将使用MCP的合作伙伴，包括Notion、ClickUp和Linear。在公司推进采用的同时，Field表示MCP“还有大量改进空间”，并且“更有利于前沿实验室”。"
               },
               {
                 "t": "p",
-                "x": "团队成员可以同时编辑同一份演示文稿并留下共享评论，ChatGPT则协助落实反馈、保持幻灯片风格一致。已有的幻灯片可作为参考，使输出遵循既定品牌规范。"
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+                "x": "Field还批评了创建MCP的Anthropic，质问它为何不通过自己推广的协议开放自家资源。"
               },
               {
                 "t": "p",
-                "x": "完成的幻灯片可以在ChatGPT中直接演示，也可导出为PowerPoint、PDF或网页版Google Slides，并保持可编辑。Slides正在向拥有Space访问权限的符合条件的Pro、Business和Enterprise用户逐步推出；演示前仍应核实其中的数据和论断。"
+                "x": "Figma计划支持开源工具Pi，但选择不向所有外部连接完全开放系统。Field解释说，通过MCP暴露的数据越多，被滥用的可能性就越高，因此公司必须保持谨慎。"
+              },
+              {
+                "t": "p",
+                "x": "转载自Hacks.gr；原始报道来自TechCrunch（October 20, 2026）。"
               }
             ]
           }
         },
         "es": {
-          "headline": "ChatGPT Slides crea y expone\npresentaciones desde el chat",
-          "body": "ChatGPT Slides convierte chats o archivos en presentaciones editables, con coedición y exportación a PowerPoint.",
-          "mini_headline": "ChatGPT Slides crea presentaciones",
+          "headline": "Figma suma 20 socios de MCP\npese a dudar del protocolo",
+          "body": "En Config India, Figma sumó 20 socios de MCP, entre ellos Notion y Linear, aunque Dylan Field llamó imperfecto a MCP.",
+          "mini_headline": "Figma suma 20 socios de MCP",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C720"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
               },
               {
                 "t": "p",
-                "x": "OpenAI amplía el papel de ChatGPT en el trabajo con ChatGPT Slides, una nueva función anunciada en sus notas de versión del 16 de octubre que permite crear, editar y colaborar en presentaciones de diapositivas directamente en la plataforma."
+                "x": "El cofundador de Figma, Dylan Field, expresó reservas sobre el Model Context Protocol (MCP): sostiene que el estándar no es perfecto y favorece a los grandes laboratorios de AI."
               },
               {
                 "t": "p",
-                "x": "Los usuarios pueden partir de una conversación existente, archivos subidos, un esquema o una presentación de muestra que oriente el diseño. ChatGPT convierte ese material en una presentación editable, genera imágenes personalizadas y ayuda a pulir textos, elementos visuales y gráficos; los usuarios también pueden editar los elementos por su cuenta o pedir cambios concretos."
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174842.299.jpg?resize=1200%2C720"
+                "x": "En su primera conferencia Config en India, Figma anunció 20 nuevos socios que usarán MCP, entre ellos Notion, ClickUp y Linear. Aunque la empresa avanza con esta adopción, Field afirmó que MCP \"tiene muchísimo margen de mejora\" y que \"favorece más a los laboratorios de frontera\"."
               },
               {
                 "t": "p",
-                "x": "Los miembros del equipo pueden editar la misma presentación a la vez y dejar comentarios compartidos, mientras ChatGPT ayuda a aplicar los comentarios y a mantener la coherencia de las diapositivas. Una presentación existente puede servir de referencia para que el resultado siga la identidad de marca establecida."
-              },
-              {
-                "t": "img",
-                "src": "https://www.digitaltrends.com/tachyon/2026/10/DT-2026-10-20T174835.099.jpg?resize=1200%2C720"
+                "x": "Field también criticó a Anthropic, la empresa que creó MCP, y preguntó por qué no ofrece sus propios recursos a través del protocolo que promueve."
               },
               {
                 "t": "p",
-                "x": "Las presentaciones terminadas pueden mostrarse en ChatGPT o exportarse a PowerPoint, PDF o Google Slides en la web, y siguen siendo editables. Slides se está desplegando para los usuarios elegibles de Pro, Business y Enterprise con acceso a Space, y conviene verificar las cifras y afirmaciones antes de presentar."
+                "x": "Figma prevé dar soporte a la herramienta de código abierto Pi, pero decidió no abrir del todo sus sistemas a cualquier conexión externa. Field explicó que cuantos más datos se exponen mediante MCP, mayor es la probabilidad de abuso, por lo que la empresa debe actuar con cautela."
+              },
+              {
+                "t": "p",
+                "x": "Republicado de Hacks.gr; información original de TechCrunch (October 20, 2026)."
               }
             ]
           }
@@ -717,15 +355,15 @@
       }
     },
     {
-      "id": "design-neural-concept-cad-mcp",
+      "id": "design-nvidia-gtc-berlin",
       "source_lang": "en",
-      "tool": "Text-to-CAD",
       "eyebrow": "AI NEWS",
-      "headline": "Neural Concept\nAI가 CAD 쓰는 MCP",
-      "body": "Neural Concept MCP Bridge로 AI가 CAD 도구를 다룬다.",
-      "mini_headline": "AI 에이전트가 CAD를 다룬다",
-      "source": "SiliconANGLE",
-      "url": "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/",
+      "headline": "Autodesk 물리 AI\nDassault도 차 설계",
+      "body": "Autodesk가 NVIDIA 물리 AI를 Alias용 NavPack에 넣었다.",
+      "mini_headline": "차 설계에 들어온 물리 AI",
+      "tool": "Text-to-CAD",
+      "source": "NVIDIA Blog",
+      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
       "accent": "#7928ca",
       "motif": "cube",
       "full": {
@@ -733,173 +371,173 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+            "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
           },
           {
             "t": "p",
-            "x": "스위스의 AI-native 엔지니어링 기업 Neural Concept SA가 오늘 Model Context Protocol Bridge를 출시했다. AI 에이전트가 상용 컴퓨터 지원 설계·시뮬레이션 도구를 다루게 해 주는 제품이다. 대형 엔지니어링 조직은 실물 제품 설계와 시뮬레이션에 쓰는 소프트웨어 환경을 이 제품으로 자동화할 수 있다."
+            "x": "NVIDIA는 GTC Berlin에서 유럽(Europe) 산업계 선두 기업들이 엔지니어링과 제조 전반에 자사 CUDA-X·Omniverse 라이브러리와 Cosmos·Nemotron 오픈 모델을 쓴다고 밝혔다. 공장 에이전트를 만드는 Factory Operations Blueprint(FOX)는 얼리 액세스에 들어갔고 Siemens는 FOX 에이전트를 Intelligence Center X에 통합하는 중이다."
           },
           {
             "t": "p",
-            "x": "2019년 설립된 Neural Concept의 고객은 자동차, 항공우주, 에너지, 전자, 반도체, 방위 산업의 OEMs다. MCP Bridge는 AI 에이전트에 이 도구들과 함께 도구를 다루는 데 필요한 엔지니어링 노하우를 넘겨준다. 소프트웨어와 데이터의 통제권과 소유권은 기업이 그대로 쥔다."
+            "x": "설계 분야에서는 CUDA-X가 시뮬레이션을 빠르게 돌려 엔지니어가 실물 프로토타입을 만들기 전에 대안을 살펴본다. NVIDIA는 cuDSS도 정식 출시했다. Autodesk는 NVIDIA PhysicsNeMo와 Warp를 Autodesk Alias에 통합된 NavPack에 들여왔다. Bentley 같은 곳의 디자이너는 시뮬레이션으로 학습한 AI로 차량 성능을 예측하고 설계를 더 빠르게 반복한다."
           },
           {
             "t": "p",
-            "x": "공동 창업자이자 CEO인 Pierre Baqué는 “모든 실물 제품을 만드는 소프트웨어를 처음으로 AI가 엔터프라이즈 규모로 운용할 수 있게 됐다”고 말했다. 한 고객 사례에서는 MCP Bridge를 쓴 엔지니어가 휠 림 형상을 삼 분 만에 정리했다. 손으로 하면 하루가 걸리던 일이다."
+            "x": "자동차 제조사들은 Dassault Systèmes의 Nemotron-powered LEO & AURA Virtual Companions로 CATIA·SIMULIA AI 에이전트를 조율해 차량 문을 빠르게 설계하고 가상으로 시험한다. Leonardo는 Neural Concept와 AI-driven 항공기를, PhysicsX는 GB1과 요트를 설계한다."
           },
           {
             "t": "p",
-            "x": "시뮬레이션에 바로 쓸 디지털 트윈을 준비하는 데 몇 주가 걸리기도 하는데, CAE 소프트웨어 안에서 일하는 AI 에이전트라면 이를 몇 시간으로 줄일 수 있다. Volkswagen Group의 Traton SE에서 전자기 설계 엔지니어로 일하는 Ciro Alosa는 “AI 에이전트가 내 일하는 방식을 완전히 바꿨다”고 말했다."
+            "x": "Audi, Schaeffler, Wandelbots는 Omniverse와 Isaac 디지털 트윈으로 생산 라인과 로봇을 먼저 시험한 뒤 공장 현장을 바꾼다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Neural Concept's MCP lets\nAI agents drive CAD tools",
-          "body": "Neural Concept's MCP Bridge lets AI agents run CAD and simulation tools, automating geometry cleanup and meshing.",
-          "mini_headline": "AI agents drive CAD tools",
+          "headline": "Autodesk and Dassault bring\nphysics AI to car design",
+          "body": "Autodesk put NVIDIA physics AI into NavPack for Alias to aid designers like Bentley's, as CATIA agents design car doors.",
+          "mini_headline": "Physics AI enters car design",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
               },
               {
                 "t": "p",
-                "x": "Switzerland-based AI-native engineering company Neural Concept SA today launched Model Context Protocol Bridge to help AI agents operate commercial computer-aided design and simulation tools, helping large engineering organizations automate the software environments used to design and simulate physical products."
+                "x": "At GTC Berlin, NVIDIA said Europe's industrial leaders are using its CUDA-X and Omniverse libraries and Cosmos and Nemotron open models across engineering and manufacturing. Its Factory Operations Blueprint (FOX) is now in early access for building factory agents; Siemens is integrating FOX agents into Intelligence Center X."
               },
               {
                 "t": "p",
-                "x": "Founded in 2019, Neural Concept serves OEMs in automotive, aerospace, energy, electronics, semiconductors and defense. MCP Bridge gives AI agents access to those tools and the engineering know-how to use them, while companies retain control and ownership of their software and data."
+                "x": "In design, CUDA-X speeds up simulation so engineers can explore alternatives before physical prototypes, and NVIDIA released cuDSS for general availability. Autodesk brings NVIDIA PhysicsNeMo and Warp into NavPack, integrated with Autodesk Alias, to help designers like those at Bentley predict vehicle performance and iterate faster using simulation-trained AI."
               },
               {
                 "t": "p",
-                "x": "“For the first time, the software that shapes every physical product can be operated by AI at enterprise scale,” said co-founder and CEO Pierre Baqué. In one customer case, an engineer using MCP Bridge cleaned up the geometry of a wheel rim in three minutes, compared with a day manually."
+                "x": "Car makers use Dassault Systèmes' Nemotron-powered LEO & AURA Virtual Companions to orchestrate CATIA and SIMULIA AI agents that rapidly design and virtually test vehicle doors. Leonardo works with Neural Concept on AI-driven aircraft design, and PhysicsX with GB1 on yacht design."
               },
               {
                 "t": "p",
-                "x": "Preparing simulation-ready digital twins can take weeks; an AI agent working in CAE software can cut that to hours. “AI agents have completely changed the way I work,” said Ciro Alosa, an electromagnetic design engineer at Volkswagen Group’s Traton SE."
+                "x": "Audi, Schaeffler and Wandelbots use Omniverse and Isaac digital twins to test production lines and robots before changing the factory floor."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Neural Concept\nAI가 CAD 쓰는 MCP",
-          "body": "Neural Concept MCP Bridge로 AI가 CAD 도구를 다룬다.",
-          "mini_headline": "AI 에이전트가 CAD를 다룬다",
+          "headline": "Autodesk 물리 AI\nDassault도 차 설계",
+          "body": "Autodesk가 NVIDIA 물리 AI를 Alias용 NavPack에 넣었다.",
+          "mini_headline": "차 설계에 들어온 물리 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
               },
               {
                 "t": "p",
-                "x": "스위스의 AI-native 엔지니어링 기업 Neural Concept SA가 오늘 Model Context Protocol Bridge를 출시했다. AI 에이전트가 상용 컴퓨터 지원 설계·시뮬레이션 도구를 다루게 해 주는 제품이다. 대형 엔지니어링 조직은 실물 제품 설계와 시뮬레이션에 쓰는 소프트웨어 환경을 이 제품으로 자동화할 수 있다."
+                "x": "NVIDIA는 GTC Berlin에서 유럽(Europe) 산업계 선두 기업들이 엔지니어링과 제조 전반에 자사 CUDA-X·Omniverse 라이브러리와 Cosmos·Nemotron 오픈 모델을 쓴다고 밝혔다. 공장 에이전트를 만드는 Factory Operations Blueprint(FOX)는 얼리 액세스에 들어갔고 Siemens는 FOX 에이전트를 Intelligence Center X에 통합하는 중이다."
               },
               {
                 "t": "p",
-                "x": "2019년 설립된 Neural Concept의 고객은 자동차, 항공우주, 에너지, 전자, 반도체, 방위 산업의 OEMs다. MCP Bridge는 AI 에이전트에 이 도구들과 함께 도구를 다루는 데 필요한 엔지니어링 노하우를 넘겨준다. 소프트웨어와 데이터의 통제권과 소유권은 기업이 그대로 쥔다."
+                "x": "설계 분야에서는 CUDA-X가 시뮬레이션을 빠르게 돌려 엔지니어가 실물 프로토타입을 만들기 전에 대안을 살펴본다. NVIDIA는 cuDSS도 정식 출시했다. Autodesk는 NVIDIA PhysicsNeMo와 Warp를 Autodesk Alias에 통합된 NavPack에 들여왔다. Bentley 같은 곳의 디자이너는 시뮬레이션으로 학습한 AI로 차량 성능을 예측하고 설계를 더 빠르게 반복한다."
               },
               {
                 "t": "p",
-                "x": "공동 창업자이자 CEO인 Pierre Baqué는 “모든 실물 제품을 만드는 소프트웨어를 처음으로 AI가 엔터프라이즈 규모로 운용할 수 있게 됐다”고 말했다. 한 고객 사례에서는 MCP Bridge를 쓴 엔지니어가 휠 림 형상을 삼 분 만에 정리했다. 손으로 하면 하루가 걸리던 일이다."
+                "x": "자동차 제조사들은 Dassault Systèmes의 Nemotron-powered LEO & AURA Virtual Companions로 CATIA·SIMULIA AI 에이전트를 조율해 차량 문을 빠르게 설계하고 가상으로 시험한다. Leonardo는 Neural Concept와 AI-driven 항공기를, PhysicsX는 GB1과 요트를 설계한다."
               },
               {
                 "t": "p",
-                "x": "시뮬레이션에 바로 쓸 디지털 트윈을 준비하는 데 몇 주가 걸리기도 하는데, CAE 소프트웨어 안에서 일하는 AI 에이전트라면 이를 몇 시간으로 줄일 수 있다. Volkswagen Group의 Traton SE에서 전자기 설계 엔지니어로 일하는 Ciro Alosa는 “AI 에이전트가 내 일하는 방식을 완전히 바꿨다”고 말했다."
+                "x": "Audi, Schaeffler, Wandelbots는 Omniverse와 Isaac 디지털 트윈으로 생산 라인과 로봇을 먼저 시험한 뒤 공장 현장을 바꾼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Neural Concept\nMCPでAIがCADを操作",
-          "body": "Neural ConceptのMCP BridgeでAIがCADツールを操る。",
-          "mini_headline": "AIエージェントがCADを操作",
+          "headline": "Autodeskの物理AI\nDassaultも車設計へ",
+          "body": "AutodeskはNVIDIAの物理AIをAlias向けNavPackに統合した。",
+          "mini_headline": "車の設計に物理AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
               },
               {
                 "t": "p",
-                "x": "スイスを拠点とするAI-nativeなエンジニアリング企業Neural Concept SAは本日、AIエージェントが商用のコンピューター支援設計ツールやシミュレーションツールを操作できるようにするModel Context Protocol Bridgeを発表した。大規模なエンジニアリング組織が、物理的な製品の設計とシミュレーションに使うソフトウェア環境を自動化するのを支援する。"
+                "x": "NVIDIAはGTC Berlinで、欧州(Europe)の産業リーダーがエンジニアリングと製造の全般で同社のCUDA-XとOmniverseのライブラリ、CosmosとNemotronのオープンモデルを使っていると述べた。工場エージェントを構築するFactory Operations Blueprint(FOX)はアーリーアクセスを開始し、SiemensはFOXエージェントをIntelligence Center Xに統合している。"
               },
               {
                 "t": "p",
-                "x": "2019年に設立されたNeural Conceptは、自動車、航空宇宙、エネルギー、エレクトロニクス、半導体、防衛分野のOEMsを顧客に持つ。MCP BridgeはAIエージェントにこれらのツールと、それを使いこなすためのエンジニアリングの知見を提供し、企業はソフトウェアとデータの管理権と所有権を保持できる。"
+                "x": "設計分野では、CUDA-Xがシミュレーションを高速化し、エンジニアは物理的な試作の前に代替案を検討できる。NVIDIAはcuDSSを一般提供した。AutodeskはNVIDIA PhysicsNeMoとWarpを、Autodesk Aliasと統合されたNavPackに組み込み、Bentleyなどのデザイナーがシミュレーションで学習したAIで車両性能を予測し、より速く反復できるよう支援する。"
               },
               {
                 "t": "p",
-                "x": "共同創業者でCEOのPierre Baquéは「あらゆる物理的な製品を形づくるソフトウェアを、初めてAIがエンタープライズ規模で操作できるようになった」と述べた。ある顧客事例では、MCP Bridgeを使ったエンジニアがホイールリムの形状のクリーンアップを三分で終えた。手作業では一日かかっていた作業だ。"
+                "x": "自動車メーカーは、Dassault SystèmesのNemotron-powered LEO & AURA Virtual Companionsを使ってCATIAとSIMULIAのAIエージェントを統括し、車のドアを素早く設計して仮想的に試験している。LeonardoはNeural ConceptとAI-drivenの航空機設計に取り組み、PhysicsXはGB1とヨット設計に取り組む。"
               },
               {
                 "t": "p",
-                "x": "シミュレーションに使えるデジタルツインの準備には数週間かかることもあるが、CAEソフトウェア上で作業するAIエージェントならそれを数時間に短縮できる。Volkswagen GroupのTraton SEで電磁設計エンジニアを務めるCiro Alosaは「AIエージェントは私の働き方を完全に変えた」と語った。"
+                "x": "Audi、Schaeffler、WandelbotsはOmniverseとIsaacのデジタルツインを使い、工場のフロアを変更する前に生産ラインとロボットを検証している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Neural Concept\nMCP让AI驱动CAD工具",
-          "body": "Neural Concept的MCP Bridge让AI智能体操作CAD和仿真工具。",
-          "mini_headline": "AI智能体操作CAD工具",
+          "headline": "Autodesk引入物理AI\nDassault共推汽车设计",
+          "body": "Autodesk将NVIDIA物理AI引入NavPack，CATIA智能体设计车门。",
+          "mini_headline": "物理AI进入汽车设计",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
               },
               {
                 "t": "p",
-                "x": "总部位于瑞士的AI-native工程公司Neural Concept SA今天推出Model Context Protocol Bridge，帮助AI智能体操作商用计算机辅助设计和仿真工具，助力大型工程组织将用于设计和仿真实体产品的软件环境自动化。"
+                "x": "NVIDIA在GTC Berlin上表示，欧洲（Europe）的工业领军企业正在工程和制造各环节使用其CUDA-X和Omniverse库，以及Cosmos和Nemotron开放模型。用于构建工厂智能体的Factory Operations Blueprint（FOX）现已开放抢先体验；Siemens正将FOX智能体集成到Intelligence Center X中。"
               },
               {
                 "t": "p",
-                "x": "Neural Concept成立于2019年，客户为汽车、航空航天、能源、电子、半导体和国防领域的OEMs。MCP Bridge让AI智能体能够使用这些工具，并掌握使用它们所需的工程知识，同时企业仍保有对其软件和数据的控制权和所有权。"
+                "x": "在设计环节，CUDA-X加快仿真速度，让工程师在制作实体原型前就能探索替代方案；NVIDIA还正式发布了cuDSS。Autodesk将NVIDIA PhysicsNeMo和Warp引入与Autodesk Alias集成的NavPack，帮助Bentley等公司的设计师借助经仿真训练的AI预测车辆性能、加快迭代。"
               },
               {
                 "t": "p",
-                "x": "联合创始人兼CEO Pierre Baqué表示：“塑造每一件实体产品的软件，首次可以由AI以企业级规模来操作。”在一个客户案例中，一名使用MCP Bridge的工程师用三分钟就完成了轮辋几何形状的清理，而手动操作需要一天。"
+                "x": "汽车制造商使用Dassault Systèmes的Nemotron-powered LEO & AURA Virtual Companions编排CATIA和SIMULIA AI智能体，快速设计车门并进行虚拟测试。Leonardo与Neural Concept合作开展AI-driven飞机设计，PhysicsX则与GB1合作设计游艇。"
               },
               {
                 "t": "p",
-                "x": "准备可用于仿真的数字孪生可能需要数周；在CAE软件中工作的AI智能体能将其缩短到数小时。Volkswagen Group旗下Traton SE的电磁设计工程师Ciro Alosa说：“AI智能体彻底改变了我的工作方式。”"
+                "x": "Audi、Schaeffler和Wandelbots借助Omniverse和Isaac数字孪生，在改动工厂车间之前测试生产线和机器人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MCP de Neural Concept permite\nque agentes de AI manejen CAD",
-          "body": "MCP Bridge de Neural Concept permite que agentes de AI operen CAD y simulación, y automaticen limpieza y mallado.",
-          "mini_headline": "Agentes de AI manejan CAD",
+          "headline": "Autodesk y Dassault llevan\nla AI física al diseño de autos",
+          "body": "Autodesk llevó la AI física de NVIDIA a NavPack para Alias, mientras agentes de CATIA diseñan puertas de autos.",
+          "mini_headline": "La AI física llega al diseño de autos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
               },
               {
                 "t": "p",
-                "x": "La empresa suiza de ingeniería AI-native Neural Concept SA lanzó hoy Model Context Protocol Bridge para ayudar a los agentes de AI a operar herramientas comerciales de diseño asistido por computadora y de simulación, de modo que las grandes organizaciones de ingeniería automaticen los entornos de software con los que diseñan y simulan productos físicos."
+                "x": "En GTC Berlin, NVIDIA afirmó que los líderes industriales de Europa usan sus bibliotecas CUDA-X y Omniverse y sus modelos abiertos Cosmos y Nemotron en ingeniería y fabricación. Su Factory Operations Blueprint (FOX) ya está en acceso anticipado para crear agentes de fábrica; Siemens está integrando agentes FOX en Intelligence Center X."
               },
               {
                 "t": "p",
-                "x": "Fundada en 2019, Neural Concept atiende a OEMs de los sectores automotriz, aeroespacial, energético, electrónico, de semiconductores y de defensa. MCP Bridge da a los agentes de AI acceso a esas herramientas y al conocimiento de ingeniería necesario para usarlas, mientras las empresas conservan el control y la propiedad de su software y sus datos."
+                "x": "En diseño, CUDA-X acelera la simulación para que los ingenieros exploren alternativas antes de los prototipos físicos, y NVIDIA lanzó cuDSS en disponibilidad general. Autodesk incorpora NVIDIA PhysicsNeMo y Warp a NavPack, integrado con Autodesk Alias, para ayudar a diseñadores como los de Bentley a predecir el rendimiento del vehículo e iterar más rápido con AI entrenada mediante simulación."
               },
               {
                 "t": "p",
-                "x": "“Por primera vez, el software que da forma a cada producto físico puede ser operado por AI a escala empresarial”, dijo el cofundador y CEO Pierre Baqué. En el caso de un cliente, un ingeniero que usaba MCP Bridge limpió la geometría de una llanta en tres minutos, frente a un día de forma manual."
+                "x": "Los fabricantes de autos usan los Nemotron-powered LEO & AURA Virtual Companions de Dassault Systèmes para orquestar agentes de AI de CATIA y SIMULIA que diseñan y prueban virtualmente puertas de vehículos con rapidez. Leonardo trabaja con Neural Concept en diseño de aeronaves AI-driven, y PhysicsX con GB1 en diseño de yates."
               },
               {
                 "t": "p",
-                "x": "Preparar gemelos digitales listos para simulación puede llevar semanas; un agente de AI que trabaja en software CAE puede reducirlo a horas. “Los agentes de AI han cambiado por completo mi forma de trabajar”, dijo Ciro Alosa, ingeniero de diseño electromagnético de Traton SE, de Volkswagen Group."
+                "x": "Audi, Schaeffler y Wandelbots usan gemelos digitales de Omniverse e Isaac para probar líneas de producción y robots antes de modificar la planta."
               }
             ]
           }
@@ -907,121 +545,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Neural Concept\nAI가 CAD 쓰는 MCP",
-          "body": "Neural Concept MCP Bridge로 AI가 CAD 도구를 다룬다.",
-          "mini_headline": "AI 에이전트가 CAD를 다룬다",
+          "headline": "Autodesk 물리 AI\nDassault도 차 설계",
+          "body": "Autodesk가 NVIDIA 물리 AI를 Alias용 NavPack에 넣었다.",
+          "mini_headline": "차 설계에 들어온 물리 AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
               },
               {
                 "t": "p",
-                "x": "스위스의 AI-native 엔지니어링 기업 Neural Concept SA가 오늘 Model Context Protocol Bridge를 출시했다. AI 에이전트가 상용 컴퓨터 지원 설계·시뮬레이션 도구를 다루도록 돕는 제품으로, 대형 엔지니어링 조직이 실물 제품의 설계와 시뮬레이션에 쓰는 소프트웨어 환경을 자동화할 수 있게 한다."
+                "x": "NVIDIA는 GTC Berlin에서 유럽(Europe) 산업계 선두 기업들이 엔지니어링과 제조 전반에 자사의 CUDA-X·Omniverse 라이브러리와 Cosmos·Nemotron 오픈 모델을 쓰고 있다고 밝혔다. 공장 에이전트를 만드는 Factory Operations Blueprint(FOX)는 얼리 액세스에 들어갔고, Siemens는 FOX 에이전트를 Intelligence Center X에 통합하고 있다."
               },
               {
                 "t": "p",
-                "x": "2019년 설립된 Neural Concept는 자동차, 항공우주, 에너지, 전자, 반도체, 방위 산업의 OEMs를 고객으로 둔다. MCP Bridge는 AI 에이전트에게 이 도구들과 그 사용에 필요한 엔지니어링 노하우를 제공하고, 기업은 소프트웨어와 데이터에 대한 통제권과 소유권을 그대로 유지한다."
+                "x": "설계 분야에서는 CUDA-X가 시뮬레이션 속도를 높여 엔지니어가 실물 프로토타입 전에 대안을 탐색할 수 있게 하며, NVIDIA는 cuDSS를 정식 출시했다. Autodesk는 NVIDIA PhysicsNeMo와 Warp를 Autodesk Alias와 통합된 NavPack에 들여와, Bentley 같은 곳의 디자이너가 시뮬레이션으로 학습한 AI로 차량 성능을 예측하고 더 빠르게 반복하도록 돕는다."
               },
               {
                 "t": "p",
-                "x": "공동 창업자이자 CEO인 Pierre Baqué는 “모든 실물 제품을 만드는 소프트웨어를 처음으로 AI가 엔터프라이즈 규모로 운용할 수 있게 됐다”고 말했다. 한 고객 사례에서는 MCP Bridge를 쓴 엔지니어가 휠 림의 형상을 삼 분 만에 정리했다. 수작업으로는 하루가 걸리던 일이다."
+                "x": "자동차 제조사들은 Dassault Systèmes의 Nemotron-powered LEO & AURA Virtual Companions로 CATIA·SIMULIA AI 에이전트를 조율해 차량 문을 빠르게 설계하고 가상으로 시험한다. Leonardo는 Neural Concept와 함께 AI-driven 항공기 설계를, PhysicsX는 GB1과 함께 요트 설계를 진행한다."
               },
               {
                 "t": "p",
-                "x": "시뮬레이션에 바로 쓸 수 있는 디지털 트윈을 준비하는 데는 몇 주가 걸리기도 하지만, CAE 소프트웨어에서 일하는 AI 에이전트는 이를 몇 시간으로 줄일 수 있다. Volkswagen Group의 Traton SE에서 전자기 설계 엔지니어로 일하는 Ciro Alosa는 “AI 에이전트가 내 일하는 방식을 완전히 바꿨다”고 말했다."
+                "x": "Audi, Schaeffler, Wandelbots는 Omniverse와 Isaac 디지털 트윈으로 생산 라인과 로봇을 먼저 시험한 뒤 공장 현장을 바꾼다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Neural Concept\nMCPでAIがCADを操作",
-          "body": "Neural ConceptのMCP BridgeでAIがCADツールを操る。",
-          "mini_headline": "AIエージェントがCADを操作",
+          "headline": "Autodeskの物理AI\nDassaultも車設計へ",
+          "body": "AutodeskはNVIDIAの物理AIをAlias向けNavPackに統合した。",
+          "mini_headline": "車の設計に物理AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
               },
               {
                 "t": "p",
-                "x": "スイスを拠点とするAI-nativeなエンジニアリング企業Neural Concept SAは本日、AIエージェントが商用のコンピューター支援設計ツールやシミュレーションツールを操作できるようにするModel Context Protocol Bridgeを発表した。大規模なエンジニアリング組織が、物理的な製品の設計とシミュレーションに使うソフトウェア環境を自動化するのを支援する。"
+                "x": "NVIDIAはGTC Berlinで、欧州(Europe)の産業リーダーがエンジニアリングと製造の全般で同社のCUDA-XとOmniverseのライブラリ、CosmosとNemotronのオープンモデルを使っていると述べた。工場エージェントを構築するFactory Operations Blueprint(FOX)はアーリーアクセスを開始し、SiemensはFOXエージェントをIntelligence Center Xに統合している。"
               },
               {
                 "t": "p",
-                "x": "2019年に設立されたNeural Conceptは、自動車、航空宇宙、エネルギー、エレクトロニクス、半導体、防衛分野のOEMsを顧客に持つ。MCP BridgeはAIエージェントにこれらのツールと、それを使いこなすためのエンジニアリングの知見を提供し、企業はソフトウェアとデータの管理権と所有権を保持できる。"
+                "x": "設計分野では、CUDA-Xがシミュレーションを高速化し、エンジニアは物理的な試作の前に代替案を検討できる。NVIDIAはcuDSSを一般提供した。AutodeskはNVIDIA PhysicsNeMoとWarpを、Autodesk Aliasと統合されたNavPackに組み込み、Bentleyなどのデザイナーがシミュレーションで学習したAIで車両性能を予測し、より速く反復できるよう支援する。"
               },
               {
                 "t": "p",
-                "x": "共同創業者でCEOのPierre Baquéは「あらゆる物理的な製品を形づくるソフトウェアを、初めてAIがエンタープライズ規模で操作できるようになった」と述べた。ある顧客事例では、MCP Bridgeを使ったエンジニアがホイールリムの形状のクリーンアップを三分で終えた。手作業では一日かかっていた作業だ。"
+                "x": "自動車メーカーは、Dassault SystèmesのNemotron-powered LEO & AURA Virtual Companionsを使ってCATIAとSIMULIAのAIエージェントを統括し、車のドアを素早く設計して仮想的に試験している。LeonardoはNeural ConceptとAI-drivenの航空機設計に取り組み、PhysicsXはGB1とヨット設計に取り組む。"
               },
               {
                 "t": "p",
-                "x": "シミュレーションに使えるデジタルツインの準備には数週間かかることもあるが、CAEソフトウェア上で作業するAIエージェントならそれを数時間に短縮できる。Volkswagen GroupのTraton SEで電磁設計エンジニアを務めるCiro Alosaは「AIエージェントは私の働き方を完全に変えた」と語った。"
+                "x": "Audi、Schaeffler、WandelbotsはOmniverseとIsaacのデジタルツインを使い、工場のフロアを変更する前に生産ラインとロボットを検証している。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Neural Concept\nMCP让AI驱动CAD工具",
-          "body": "Neural Concept的MCP Bridge让AI智能体操作CAD和仿真工具。",
-          "mini_headline": "AI智能体操作CAD工具",
+          "headline": "Autodesk引入物理AI\nDassault共推汽车设计",
+          "body": "Autodesk将NVIDIA物理AI引入NavPack，CATIA智能体设计车门。",
+          "mini_headline": "物理AI进入汽车设计",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
               },
               {
                 "t": "p",
-                "x": "总部位于瑞士的AI-native工程公司Neural Concept SA今天推出Model Context Protocol Bridge，帮助AI智能体操作商用计算机辅助设计和仿真工具，助力大型工程组织将用于设计和仿真实体产品的软件环境自动化。"
+                "x": "NVIDIA在GTC Berlin上表示，欧洲（Europe）的工业领军企业正在工程和制造各环节使用其CUDA-X和Omniverse库，以及Cosmos和Nemotron开放模型。用于构建工厂智能体的Factory Operations Blueprint（FOX）现已开放抢先体验；Siemens正将FOX智能体集成到Intelligence Center X中。"
               },
               {
                 "t": "p",
-                "x": "Neural Concept成立于2019年，客户为汽车、航空航天、能源、电子、半导体和国防领域的OEMs。MCP Bridge让AI智能体能够使用这些工具，并掌握使用它们所需的工程知识，同时企业仍保有对其软件和数据的控制权和所有权。"
+                "x": "在设计环节，CUDA-X加快仿真速度，让工程师在制作实体原型前就能探索替代方案；NVIDIA还正式发布了cuDSS。Autodesk将NVIDIA PhysicsNeMo和Warp引入与Autodesk Alias集成的NavPack，帮助Bentley等公司的设计师借助经仿真训练的AI预测车辆性能、加快迭代。"
               },
               {
                 "t": "p",
-                "x": "联合创始人兼CEO Pierre Baqué表示：“塑造每一件实体产品的软件，首次可以由AI以企业级规模来操作。”在一个客户案例中，一名使用MCP Bridge的工程师用三分钟就完成了轮辋几何形状的清理，而手动操作需要一天。"
+                "x": "汽车制造商使用Dassault Systèmes的Nemotron-powered LEO & AURA Virtual Companions编排CATIA和SIMULIA AI智能体，快速设计车门并进行虚拟测试。Leonardo与Neural Concept合作开展AI-driven飞机设计，PhysicsX则与GB1合作设计游艇。"
               },
               {
                 "t": "p",
-                "x": "准备可用于仿真的数字孪生可能需要数周；在CAE软件中工作的AI智能体能将其缩短到数小时。Volkswagen Group旗下Traton SE的电磁设计工程师Ciro Alosa说：“AI智能体彻底改变了我的工作方式。”"
+                "x": "Audi、Schaeffler和Wandelbots借助Omniverse和Isaac数字孪生，在改动工厂车间之前测试生产线和机器人。"
               }
             ]
           }
         },
         "es": {
-          "headline": "MCP de Neural Concept permite\nque agentes de AI manejen CAD",
-          "body": "MCP Bridge de Neural Concept permite que agentes de AI operen CAD y simulación, y automaticen limpieza y mallado.",
-          "mini_headline": "Agentes de AI manejan CAD",
+          "headline": "Autodesk y Dassault llevan\nla AI física al diseño de autos",
+          "body": "Autodesk llevó la AI física de NVIDIA a NavPack para Alias, mientras agentes de CATIA diseñan puertas de autos.",
+          "mini_headline": "La AI física llega al diseño de autos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg"
+                "src": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg"
               },
               {
                 "t": "p",
-                "x": "La empresa suiza de ingeniería AI-native Neural Concept SA lanzó hoy Model Context Protocol Bridge para ayudar a los agentes de AI a operar herramientas comerciales de diseño asistido por computadora y de simulación, de modo que las grandes organizaciones de ingeniería automaticen los entornos de software con los que diseñan y simulan productos físicos."
+                "x": "En GTC Berlin, NVIDIA afirmó que los líderes industriales de Europa usan sus bibliotecas CUDA-X y Omniverse y sus modelos abiertos Cosmos y Nemotron en ingeniería y fabricación. Su Factory Operations Blueprint (FOX) ya está en acceso anticipado para crear agentes de fábrica; Siemens está integrando agentes FOX en Intelligence Center X."
               },
               {
                 "t": "p",
-                "x": "Fundada en 2019, Neural Concept atiende a OEMs de los sectores automotriz, aeroespacial, energético, electrónico, de semiconductores y de defensa. MCP Bridge da a los agentes de AI acceso a esas herramientas y al conocimiento de ingeniería necesario para usarlas, mientras las empresas conservan el control y la propiedad de su software y sus datos."
+                "x": "En diseño, CUDA-X acelera la simulación para que los ingenieros exploren alternativas antes de los prototipos físicos, y NVIDIA lanzó cuDSS en disponibilidad general. Autodesk incorpora NVIDIA PhysicsNeMo y Warp a NavPack, integrado con Autodesk Alias, para ayudar a diseñadores como los de Bentley a predecir el rendimiento del vehículo e iterar más rápido con AI entrenada mediante simulación."
               },
               {
                 "t": "p",
-                "x": "“Por primera vez, el software que da forma a cada producto físico puede ser operado por AI a escala empresarial”, dijo el cofundador y CEO Pierre Baqué. En el caso de un cliente, un ingeniero que usaba MCP Bridge limpió la geometría de una llanta en tres minutos, frente a un día de forma manual."
+                "x": "Los fabricantes de autos usan los Nemotron-powered LEO & AURA Virtual Companions de Dassault Systèmes para orquestar agentes de AI de CATIA y SIMULIA que diseñan y prueban virtualmente puertas de vehículos con rapidez. Leonardo trabaja con Neural Concept en diseño de aeronaves AI-driven, y PhysicsX con GB1 en diseño de yates."
               },
               {
                 "t": "p",
-                "x": "Preparar gemelos digitales listos para simulación puede llevar semanas; un agente de AI que trabaja en software CAE puede reducirlo a horas. “Los agentes de AI han cambiado por completo mi forma de trabajar”, dijo Ciro Alosa, ingeniero de diseño electromagnético de Traton SE, de Volkswagen Group."
+                "x": "Audi, Schaeffler y Wandelbots usan gemelos digitales de Omniverse e Isaac para probar líneas de producción y robots antes de modificar la planta."
               }
             ]
           }
@@ -1029,350 +667,15 @@
       }
     },
     {
-      "id": "design-dxo-viewpoint6-ai-masking",
+      "id": "design-windows-designers-code",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "DxO ViewPoint 6 adds AI masking\nwith no generated pixels",
-      "body": "DxO's geometry-correction tool ViewPoint 6 adds AI masking while insisting it generates no new image content.",
-      "mini_headline": "ViewPoint 6 adds AI masking",
-      "tool": "KeyShot",
-      "source": "Digital Camera World",
-      "url": "https://www.digitalcameraworld.com/tech/software/wonky-photos-of-buildings-begone-dxo-viewpoint-6-introduces-ai-masking-but-maintains-that-no-ai-image-generation-takes-place",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
-          },
-          {
-            "t": "p",
-            "x": "Struggling to correct wonky buildings, want a tilt-shift look without a specialist lens, or have barrel distortion stretching subjects at the frame's corners? DxO has launched ViewPoint 6, the latest version of its geometry-based photo editor, and the headline feature is combining geometric corrections with AI masking for precise, local edits."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
-            "cap": "Mesh subdivisions give you much finer, localized control in ViewPoint 6 (Image credit: DxO)"
-          },
-          {
-            "t": "p",
-            "x": "AI masking in ReShape Fusion lets users mask a specific object, such as a tall building, and correct its geometry independently of the rest of the photo, instead of correcting the whole image and cropping. Users draw a selection box around the subject; ViewPoint 6 masks it and places a mesh with control points directly on top of it, with more subdivision options for finer local control."
-          },
-          {
-            "t": "p",
-            "x": "DxO is keen to point out that no AI image generation takes place: “It rearranges the components of the scene the photographer captured rather than recreating them”."
-          },
-          {
-            "t": "img",
-            "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
-            "cap": "Reshaping facial features is possible thanks to ViewPoint 6’s local geometric adjustments (Image credit: DxO)"
-          },
-          {
-            "t": "p",
-            "x": "As standalone software, ViewPoint 6 now opens RAW files (as well as TIFF and JPEG), and it also works as a plug-in for Photoshop, Lightroom Classic and DxO PhotoLab 10. It is available now for $129.99 / £109.99, or $84.99 / £69.99 to upgrade from ViewPoint 5, with a 30-day free trial."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "DxO ViewPoint 6 adds AI masking\nwith no generated pixels",
-          "body": "DxO's geometry-correction tool ViewPoint 6 adds AI masking while insisting it generates no new image content.",
-          "mini_headline": "ViewPoint 6 adds AI masking",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Struggling to correct wonky buildings, want a tilt-shift look without a specialist lens, or have barrel distortion stretching subjects at the frame's corners? DxO has launched ViewPoint 6, the latest version of its geometry-based photo editor, and the headline feature is combining geometric corrections with AI masking for precise, local edits."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
-                "cap": "Mesh subdivisions give you much finer, localized control in ViewPoint 6 (Image credit: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "AI masking in ReShape Fusion lets users mask a specific object, such as a tall building, and correct its geometry independently of the rest of the photo, instead of correcting the whole image and cropping. Users draw a selection box around the subject; ViewPoint 6 masks it and places a mesh with control points directly on top of it, with more subdivision options for finer local control."
-              },
-              {
-                "t": "p",
-                "x": "DxO is keen to point out that no AI image generation takes place: “It rearranges the components of the scene the photographer captured rather than recreating them”."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
-                "cap": "Reshaping facial features is possible thanks to ViewPoint 6’s local geometric adjustments (Image credit: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "As standalone software, ViewPoint 6 now opens RAW files (as well as TIFF and JPEG), and it also works as a plug-in for Photoshop, Lightroom Classic and DxO PhotoLab 10. It is available now for $129.99 / £109.99, or $84.99 / £69.99 to upgrade from ViewPoint 5, with a 30-day free trial."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "DxO ViewPoint 6 suma máscaras\ncon AI sin generar píxeles",
-          "body": "ViewPoint 6 de DxO, para corregir geometría, añade máscaras con AI e insiste en que no genera contenido nuevo.",
-          "mini_headline": "ViewPoint 6 suma máscaras con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "¿Cuesta corregir edificios torcidos, se busca un efecto tilt-shift sin un objetivo especializado o la distorsión de barril estira a los sujetos en las esquinas del encuadre? DxO ha lanzado ViewPoint 6, la versión más reciente de su editor de fotos basado en geometría, y su función principal combina correcciones geométricas con máscaras con AI para ediciones locales y precisas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
-                "cap": "Las subdivisiones de la malla ofrecen un control local mucho más fino en ViewPoint 6 (Imagen: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "Las máscaras con AI de ReShape Fusion permiten enmascarar un objeto concreto, como un edificio alto, y corregir su geometría con independencia del resto de la foto, en lugar de corregir toda la imagen y recortarla. El usuario dibuja un cuadro de selección alrededor del sujeto; ViewPoint 6 lo enmascara y coloca encima una malla con puntos de control, con más opciones de subdivisión para un control local más fino."
-              },
-              {
-                "t": "p",
-                "x": "DxO insiste en que no se genera ninguna imagen con AI: “Reorganiza los componentes de la escena que captó el fotógrafo en lugar de recrearlos”."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
-                "cap": "Los ajustes geométricos locales de ViewPoint 6 permiten remodelar los rasgos faciales (Imagen: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "Como software independiente, ViewPoint 6 ya abre archivos RAW (además de TIFF y JPEG) y también funciona como complemento de Photoshop, Lightroom Classic y DxO PhotoLab 10. Ya está disponible por $129.99 / £109.99, o $84.99 / £69.99 como actualización desde ViewPoint 5, con una prueba gratuita de 30 días."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "DxO ViewPoint\n6、生成なしのAIマスク",
-          "body": "DxOのViewPoint 6がAIマスクを追加し、画像は生成しないと強調する。",
-          "mini_headline": "ViewPoint 6がAIマスクを追加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "傾いた建物の補正に苦労している、専用レンズなしでティルトシフト(tilt-shift)風の写真にしたい、あるいはたる型歪曲でフレームの隅の被写体が引き伸ばされている――そんな悩みはないだろうか。DxOは幾何補正ベースの写真編集ソフトの最新版ViewPoint 6を発表した。目玉は、幾何補正とAIマスクを組み合わせた精密な部分編集である。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
-                "cap": "ViewPoint 6ではメッシュの分割により、はるかに細かな部分調整ができる (Image credit: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "ReShape FusionのAIマスクを使えば、高い建物など特定の対象だけをマスクし、画像全体を補正してトリミングする代わりに、写真の他の部分とは独立してその形状を補正できる。対象の周りに選択ボックスを描くと、ViewPoint 6がそれをマスクし、制御点付きのメッシュを直接その上に配置する。より細かな部分調整のための分割オプションも増えた。"
-              },
-              {
-                "t": "p",
-                "x": "DxOは、AIによる画像生成は一切行われないと強調する。「写真家が撮影したシーンの構成要素を作り直すのではなく、並べ替えている」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
-                "cap": "ViewPoint 6の局所的な幾何調整により、顔の造作を整えることもできる (Image credit: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "単体ソフトとしてのViewPoint 6はRAWファイル(TIFFとJPEGも)を開けるようになり、Photoshop、Lightroom Classic、DxO PhotoLab 10のプラグインとしても動作する。価格は$129.99 / £109.99で、ViewPoint 5からのアップグレードは$84.99 / £69.99。30日間の無料体験版もあり、すでに提供が始まっている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "DxO ViewPoint\n6新增AI蒙版，不生成像素",
-          "body": "DxO的几何校正工具ViewPoint 6新增AI蒙版，并强调不会生成新的图像内容。",
-          "mini_headline": "ViewPoint 6新增AI蒙版",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "难以校正歪斜的建筑？想不用专业镜头就拍出移轴(tilt-shift)效果？还是桶形畸变把画面角落的主体拉变形了？DxO推出了其几何校正类照片编辑软件的最新版本ViewPoint 6，主打功能是将几何校正与AI蒙版相结合，实现精确的局部编辑。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
-                "cap": "在ViewPoint 6中，网格细分带来更精细的局部控制 (Image credit: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "借助ReShape Fusion中的AI蒙版，用户可以为高楼等特定对象建立蒙版，并独立于照片其余部分校正其几何形状，而不必校正整张图像再裁剪。用户在主体周围画出选框后，ViewPoint 6会为其建立蒙版，并直接在其上方放置带控制点的网格，还提供更多细分选项以实现更精细的局部控制。"
-              },
-              {
-                "t": "p",
-                "x": "DxO特别强调，过程中不涉及任何AI图像生成：“它是重新排列摄影师所拍场景中的元素，而不是重新创造它们”。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
-                "cap": "借助ViewPoint 6的局部几何调整，还能重塑面部特征 (Image credit: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "作为独立软件，ViewPoint 6现在可以打开RAW文件（以及TIFF和JPEG），也可作为Photoshop、Lightroom Classic和DxO PhotoLab 10的插件使用。该软件现已上市，售价$129.99 / £109.99，从ViewPoint 5升级为$84.99 / £69.99，并提供30天免费试用。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "DxO ViewPoint 6 suma máscaras\ncon AI sin generar píxeles",
-          "body": "ViewPoint 6 de DxO, para corregir geometría, añade máscaras con AI e insiste en que no genera contenido nuevo.",
-          "mini_headline": "ViewPoint 6 suma máscaras con AI",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "¿Cuesta corregir edificios torcidos, se busca un efecto tilt-shift sin un objetivo especializado o la distorsión de barril estira a los sujetos en las esquinas del encuadre? DxO ha lanzado ViewPoint 6, la versión más reciente de su editor de fotos basado en geometría, y su función principal combina correcciones geométricas con máscaras con AI para ediciones locales y precisas."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
-                "cap": "Las subdivisiones de la malla ofrecen un control local mucho más fino en ViewPoint 6 (Imagen: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "Las máscaras con AI de ReShape Fusion permiten enmascarar un objeto concreto, como un edificio alto, y corregir su geometría con independencia del resto de la foto, en lugar de corregir toda la imagen y recortarla. El usuario dibuja un cuadro de selección alrededor del sujeto; ViewPoint 6 lo enmascara y coloca encima una malla con puntos de control, con más opciones de subdivisión para un control local más fino."
-              },
-              {
-                "t": "p",
-                "x": "DxO insiste en que no se genera ninguna imagen con AI: “Reorganiza los componentes de la escena que captó el fotógrafo en lugar de recrearlos”."
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
-                "cap": "Los ajustes geométricos locales de ViewPoint 6 permiten remodelar los rasgos faciales (Imagen: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "Como software independiente, ViewPoint 6 ya abre archivos RAW (además de TIFF y JPEG) y también funciona como complemento de Photoshop, Lightroom Classic y DxO PhotoLab 10. Ya está disponible por $129.99 / £109.99, o $84.99 / £69.99 como actualización desde ViewPoint 5, con una prueba gratuita de 30 días."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "DxO ViewPoint\n6、生成なしのAIマスク",
-          "body": "DxOのViewPoint 6がAIマスクを追加し、画像は生成しないと強調する。",
-          "mini_headline": "ViewPoint 6がAIマスクを追加",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "傾いた建物の補正に苦労している、専用レンズなしでティルトシフト(tilt-shift)風の写真にしたい、あるいはたる型歪曲でフレームの隅の被写体が引き伸ばされている――そんな悩みはないだろうか。DxOは幾何補正ベースの写真編集ソフトの最新版ViewPoint 6を発表した。目玉は、幾何補正とAIマスクを組み合わせた精密な部分編集である。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
-                "cap": "ViewPoint 6ではメッシュの分割により、はるかに細かな部分調整ができる (Image credit: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "ReShape FusionのAIマスクを使えば、高い建物など特定の対象だけをマスクし、画像全体を補正してトリミングする代わりに、写真の他の部分とは独立してその形状を補正できる。対象の周りに選択ボックスを描くと、ViewPoint 6がそれをマスクし、制御点付きのメッシュを直接その上に配置する。より細かな部分調整のための分割オプションも増えた。"
-              },
-              {
-                "t": "p",
-                "x": "DxOは、AIによる画像生成は一切行われないと強調する。「写真家が撮影したシーンの構成要素を作り直すのではなく、並べ替えている」という。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
-                "cap": "ViewPoint 6の局所的な幾何調整により、顔の造作を整えることもできる (Image credit: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "単体ソフトとしてのViewPoint 6はRAWファイル(TIFFとJPEGも)を開けるようになり、Photoshop、Lightroom Classic、DxO PhotoLab 10のプラグインとしても動作する。価格は$129.99 / £109.99で、ViewPoint 5からのアップグレードは$84.99 / £69.99。30日間の無料体験版もあり、すでに提供が始まっている。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "DxO ViewPoint\n6新增AI蒙版，不生成像素",
-          "body": "DxO的几何校正工具ViewPoint 6新增AI蒙版，并强调不会生成新的图像内容。",
-          "mini_headline": "ViewPoint 6新增AI蒙版",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-1200-80.jpg"
-              },
-              {
-                "t": "p",
-                "x": "难以校正歪斜的建筑？想不用专业镜头就拍出移轴(tilt-shift)效果？还是桶形畸变把画面角落的主体拉变形了？DxO推出了其几何校正类照片编辑软件的最新版本ViewPoint 6，主打功能是将几何校正与AI蒙版相结合，实现精确的局部编辑。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/WXHooZsByNe2waekZP8nCQ-1200-80.jpg",
-                "cap": "在ViewPoint 6中，网格细分带来更精细的局部控制 (Image credit: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "借助ReShape Fusion中的AI蒙版，用户可以为高楼等特定对象建立蒙版，并独立于照片其余部分校正其几何形状，而不必校正整张图像再裁剪。用户在主体周围画出选框后，ViewPoint 6会为其建立蒙版，并直接在其上方放置带控制点的网格，还提供更多细分选项以实现更精细的局部控制。"
-              },
-              {
-                "t": "p",
-                "x": "DxO特别强调，过程中不涉及任何AI图像生成：“它是重新排列摄影师所拍场景中的元素，而不是重新创造它们”。"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn.mos.cms.futurecdn.net/MLUvsgmn9y4MxNCk89ewsP-1200-80.jpg",
-                "cap": "借助ViewPoint 6的局部几何调整，还能重塑面部特征 (Image credit: DxO)"
-              },
-              {
-                "t": "p",
-                "x": "作为独立软件，ViewPoint 6现在可以打开RAW文件（以及TIFF和JPEG），也可作为Photoshop、Lightroom Classic和DxO PhotoLab 10的插件使用。该软件现已上市，售价$129.99 / £109.99，从ViewPoint 5升级为$84.99 / £69.99，并提供30天免费试用。"
-              }
-            ]
-          }
-        }
-      },
-      "i18n_status": {
-        "ko": "fallback"
-      }
-    },
-    {
-      "id": "design-anthropic-attention-bottleneck",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "사람의 주의력이\n다시 디자인 병목이다",
-      "body": "Anthropic 연구에서 에이전트는 사람의 여섯 배 시간을 일했다.",
-      "mini_headline": "사람의 주의력을 위한 디자인",
+      "headline": "Windows 11에선\n디자이너도 AI로 코딩",
+      "body": "Diego Baca는 Windows 11 디자이너가 AI로 코드를 고친다고 했다.",
+      "mini_headline": "Windows 디자이너, 코드를 내놓다",
       "tool": "AI Workflow",
-      "source": "UX Collective",
-      "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a",
+      "source": "Windows Latest",
+      "url": "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/",
       "accent": "#ff5a4d",
       "motif": "frame",
       "full": {
@@ -1380,185 +683,575 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
-            "cap": "넓은 사무실 책상에 한 사람이 앉아 글을 읽는다. 주변 화면 수십 개에는 처리할 새 일이 계속 쌓인다."
+            "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
           },
           {
             "t": "p",
-            "x": "10월 16일 Anthropic 연구원 네 명이 “How employment is changing at Anthropic”을 발표했다. 2026년 8월에는 직원이 지시한 에이전트가 사람이 한 시간 일할 때마다 여섯 시간을 기록했다. 에이전트 세션은 시간의 약 80%를 사람을 기다리며 유휴 상태로 보냈다. 코딩을 하지 않는 직원도 에이전트가 만든 결과물을 다 읽으려면 주당 근무 시간의 절반 넘게 써야 한다. “그것이 읽기 세금이며, 에이전트를 쓰는 모든 팀이 이를 치르게 될 것이다.”"
+            "x": "Microsoft 제품 디자인 부사장(Vice President of Product Design) Diego Baca는 Windows 11의 들쭉날쭉한 디자인을 정리하려고 이제 디자이너들이 AI의 도움을 받아 코드 수정에 손을 보탠다고 밝혔다. Lockergnome 창업자 Chris Pirillo와 X에서 나눈 대화에서 나온 말이다."
+          },
+          {
+            "t": "p",
+            "x": "\"AI는 이미 우리 디자인팀의 속도를 크게 끌어올렸습니다. 디자이너가 완성도와 일관성, 품질을 높이는 코드 수정에 직접 기여하는 모습까지 보고 있습니다. 흥미로운 진전이고, 이제 막 시작했을 뿐입니다.\""
+          },
+          {
+            "t": "p",
+            "x": "Baca는 어떤 AI 도구를 쓰는지, 무엇을 고쳤는지, 코드를 AI가 얼마나 쓰는지는 밝히지 않았다. 일관성을 언제 갖출지 일정도 없이 \"진행 중인 작업(an active workstream)\"이라고만 했다."
           },
           {
             "t": "img",
-            "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
-            "cap": "에이전트가 사람보다 더 많이 일한다. 놀랄 일은 아니다."
+            "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+            "cap": "Windows 11의 새 네이티브 Search UI"
           },
           {
             "t": "p",
-            "x": "Patrick Neeman은 이 흐름이 모두를 관리자로 만든다고 보고, 사람이 루프의 주도권을 쥐는 일곱 단계를 내놓는다. 읽기 시간을 페이지 로드 예산처럼 재고, 에이전트 요청은 심각도 순으로 줄 세우고, 검토 단계를 설계하고, 결정 사항은 에이전트가 찾을 수 있는 곳에 남기고, 에이전트를 관리하고, 판단력을 보고 채용하고, 신입 직무는 검토 중심으로 다시 짠다."
+            "x": "Microsoft는 Windows 11 일부를 WinUI 3로 다시 짓는 중이다. Insider에서 테스트하는 새 Search, 뜨기까지 걸리는 시간 중앙값이 94ms인 새 Run 대화상자, 25% 더 빨리 열리는 Photos Editor가 그렇다. 옛 Mouse Properties 대화상자 같은 구형 화면은 아직 그대로다."
           },
           {
             "t": "p",
-            "x": "산출물은 갈수록 싸지는데 사람의 주의력은 그대로다. 디자이너, 리서처, 프로덕트 매니저는 에이전트가 사람에게 무엇을 보여 줄지, 언제 끼어들지, 검토를 어떻게 할지 정한다. 이제 이들은 무엇이 주의를 기울일 가치가 있는지 가려내는 판단 체계를 만든다."
+            "x": "디자이너는 보통 목업을 엔지니어에게 넘기고 기다린다. AI로 간격을 직접 고칠 수 있다면 주고받는 수고가 크게 준다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Human attention is the\ndesign bottleneck again",
-          "body": "Anthropic's study logs six agent hours per human hour, so designers must now decide what deserves human attention.",
-          "mini_headline": "Design for human attention",
+          "headline": "Windows 11 designers now\ncontribute code fixes with AI",
+          "body": "Microsoft's Diego Baca says Windows 11 designers now contribute code fixes with AI as Search, Run and Photos go native.",
+          "mini_headline": "Windows designers ship code",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
-                "cap": "A wide office floor where one person reads at a desk while dozens of screens around them keep filling with new work for them to address."
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
               },
               {
                 "t": "p",
-                "x": "On October 16, four Anthropic researchers published “How employment is changing at Anthropic.” By August 2026, agents directed by employees were logging six hours for every hour their people worked. Agent sessions spent about 80% of their time idle, waiting for a person, and even for non-coders, reading everything their agents produced would take more than half the workweek. “That’s the reading tax, and every team with agents will pay it.”"
+                "x": "Diego Baca, Microsoft's Vice President of Product Design, says designers are now contributing code fixes with AI's help to clean up Windows 11's design inconsistencies. He made the comment in an X exchange with Lockergnome founder Chris Pirillo."
+              },
+              {
+                "t": "p",
+                "x": "\"AI has already helped our design team accelerate significantly. We're even seeing designers contribute directly to code fixes that improve craft, consistency, and quality. That's exciting progress, and we're only getting started.\""
+              },
+              {
+                "t": "p",
+                "x": "Baca didn't name the AI tools, the fixes, or how much of the code AI writes, and gave no timeline for consistency, calling it \"an active workstream.\""
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
-                "cap": "Agents work more than humans. Not a surprise."
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+                "cap": "Windows 11’s new native Search UI"
               },
               {
                 "t": "p",
-                "x": "Patrick Neeman argues the work is turning everyone into a manager, and offers seven steps for keeping people in charge of the loop: measure reading time like a page-load budget, rank agent requests by severity, design the review step, write decisions down where agents can find them, manage the agents, hire for judgment, and rebuild entry-level roles around review."
+                "x": "Microsoft is rebuilding parts of Windows 11 in WinUI 3: a new Search in Insider testing, a modern Run dialog with a 94ms median time-to-show, and a Photos Editor that loads 25% faster. Legacy corners like the old Mouse Properties dialog remain."
               },
               {
                 "t": "p",
-                "x": "Output keeps getting cheaper while human attention stays fixed. Designers, researchers and product managers set what agents show people, when they interrupt and how review works, and the job is to create judgement systems for what deserves attention."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "사람의 주의력이\n다시 디자인 병목이다",
-          "body": "Anthropic 연구에서 에이전트는 사람의 여섯 배 시간을 일했다.",
-          "mini_headline": "사람의 주의력을 위한 디자인",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
-                "cap": "넓은 사무실 책상에 한 사람이 앉아 글을 읽는다. 주변 화면 수십 개에는 처리할 새 일이 계속 쌓인다."
-              },
-              {
-                "t": "p",
-                "x": "10월 16일 Anthropic 연구원 네 명이 “How employment is changing at Anthropic”을 발표했다. 2026년 8월에는 직원이 지시한 에이전트가 사람이 한 시간 일할 때마다 여섯 시간을 기록했다. 에이전트 세션은 시간의 약 80%를 사람을 기다리며 유휴 상태로 보냈다. 코딩을 하지 않는 직원도 에이전트가 만든 결과물을 다 읽으려면 주당 근무 시간의 절반 넘게 써야 한다. “그것이 읽기 세금이며, 에이전트를 쓰는 모든 팀이 이를 치르게 될 것이다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
-                "cap": "에이전트가 사람보다 더 많이 일한다. 놀랄 일은 아니다."
-              },
-              {
-                "t": "p",
-                "x": "Patrick Neeman은 이 흐름이 모두를 관리자로 만든다고 보고, 사람이 루프의 주도권을 쥐는 일곱 단계를 내놓는다. 읽기 시간을 페이지 로드 예산처럼 재고, 에이전트 요청은 심각도 순으로 줄 세우고, 검토 단계를 설계하고, 결정 사항은 에이전트가 찾을 수 있는 곳에 남기고, 에이전트를 관리하고, 판단력을 보고 채용하고, 신입 직무는 검토 중심으로 다시 짠다."
-              },
-              {
-                "t": "p",
-                "x": "산출물은 갈수록 싸지는데 사람의 주의력은 그대로다. 디자이너, 리서처, 프로덕트 매니저는 에이전트가 사람에게 무엇을 보여 줄지, 언제 끼어들지, 검토를 어떻게 할지 정한다. 이제 이들은 무엇이 주의를 기울일 가치가 있는지 가려내는 판단 체계를 만든다."
+                "x": "Designers usually hand mockups to engineers and wait; one who can make a spacing fix with AI avoids a lot of back and forth."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人間の注意力が再び\nデザインのボトルネックに",
-          "body": "Anthropicの研究では、エージェントの稼働時間が人間の六倍に達した。",
-          "mini_headline": "人間の注意力のためのデザイン",
+          "headline": "Windows 11の設計者\nAIでコード修正に貢献",
+          "body": "Diego BacaはWindows 11のデザイナーがAIでコードを直すと述べた。",
+          "mini_headline": "Windowsのデザイナーがコードへ",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
-                "cap": "広いオフィスで一人が机に向かって読み物をしている。周りの何十もの画面には、その人が対処すべき新しい仕事が次々と表示されていく。"
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
               },
               {
                 "t": "p",
-                "x": "10月16日、Anthropicの研究者四人が「How employment is changing at Anthropic」を公開した。2026年8月までに、従業員が指示するエージェントは、人が働く一時間ごとに六時間分の作業を記録するようになった。エージェントのセッションは時間の約80%を人を待つアイドル状態で過ごしており、コードを書かない人でも、エージェントの出力をすべて読むには週の労働時間の半分以上がかかる。「それが読む税金であり、エージェントを使うすべてのチームが払うことになる」"
+                "x": "Microsoftのプロダクトデザイン担当バイスプレジデント(Vice President of Product Design)、Diego Baca氏によると、Windows 11のデザインの不統一を整えるため、デザイナーがAIの助けを借りてコード修正に貢献しているという。Lockergnome創業者Chris Pirillo氏とのXでのやり取りで語った。"
+              },
+              {
+                "t": "p",
+                "x": "「AIはすでに当社のデザインチームを大きく加速させている。デザイナーが完成度、一貫性、品質を高めるコード修正に直接貢献する場面さえ見られる。わくわくする進歩であり、まだ始まったばかりだ」"
+              },
+              {
+                "t": "p",
+                "x": "Baca氏は使っているAIツールや修正内容、AIがコードをどれだけ書いているかを明かさず、一貫性が整う時期も示さなかった。「進行中の取り組み」だとしている。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
-                "cap": "エージェントは人間より多く働く。驚くことではない。"
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+                "cap": "Windows 11の新しいネイティブSearch UI"
               },
               {
                 "t": "p",
-                "x": "Patrick Neemanは、この仕事が誰もをマネージャーに変えつつあると論じ、人がループの主導権を握り続けるための七つのステップを示す。読む時間をページ読み込みの予算のように測る、エージェントの要求を重大度で順位づける、レビューの工程を設計する、決定事項をエージェントが見つけられる場所に書き残す、エージェントを管理する、判断力で採用する、そしてエントリーレベルの職務をレビュー中心に作り直す、というものだ。"
+                "x": "MicrosoftはWindows 11の一部をWinUI 3で作り直している。Insiderでテスト中の新しいSearch、表示までの中央値が94msのモダンなRunダイアログ、読み込みが25%速いPhotos Editorなどだ。古いMouse Propertiesダイアログのようなレガシーな部分は残っている。"
               },
               {
                 "t": "p",
-                "x": "アウトプットはますます安くなる一方、人間の注意力は増えない。デザイナー、リサーチャー、プロダクトマネージャーは、エージェントが人に何を見せ、いつ割り込み、レビューをどう進めるかを決める立場にある。その仕事は、何が注意に値するかを見極める判断の仕組みをつくることだ。"
+                "x": "デザイナーは通常、モックアップをエンジニアに渡して待つ。AIで余白の修正を自分でできるデザイナーなら、多くのやり取りを省ける。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "人的注意力\n再次成为设计瓶颈",
-          "body": "Anthropic研究显示，智能体工作时长是人的六倍，设计者须决定什么值得关注。",
-          "mini_headline": "为人的注意力而设计",
+          "headline": "Windows 11设计师\n借AI贡献代码修复",
+          "body": "Microsoft的Diego Baca称Windows 11设计师已借AI贡献代码修复。",
+          "mini_headline": "Windows设计师上手写代码",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
-                "cap": "宽敞的办公区里，一个人坐在桌前阅读，周围数十块屏幕不断涌现等待他处理的新工作。"
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
               },
               {
                 "t": "p",
-                "x": "10月16日，四位Anthropic研究人员发表了《How employment is changing at Anthropic》。到2026年8月，员工指挥的智能体在员工每工作一小时的同时，会记录六小时的工作。智能体会话约有80%的时间处于闲置状态，等待人来处理；即便是不写代码的人，要读完智能体产出的全部内容，也要花掉一周工作时间的一半以上。“这就是阅读税，每个使用智能体的团队都要为此买单。”"
+                "x": "Microsoft产品设计副总裁（Vice President of Product Design）Diego Baca表示，为清理Windows 11的设计不一致问题，设计师如今正借助AI贡献代码修复。他是在X上与Lockergnome创始人Chris Pirillo交流时说这番话的。"
+              },
+              {
+                "t": "p",
+                "x": "“AI已经帮助我们的设计团队大幅提速。我们甚至看到设计师直接参与代码修复，提升工艺、一致性和质量。这是令人振奋的进展，而我们才刚刚开始。”"
+              },
+              {
+                "t": "p",
+                "x": "Baca没有说明使用了哪些AI工具、修复了什么，以及AI写了多少代码，也没有给出实现一致性的时间表，只称这是“一项正在进行的工作”。"
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
-                "cap": "智能体比人干得多。这并不意外。"
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+                "cap": "Windows 11全新的原生Search UI"
               },
               {
                 "t": "p",
-                "x": "Patrick Neeman认为，这项工作正在把每个人都变成管理者，并提出了让人始终掌控循环的七个步骤：像对待页面加载预算一样衡量阅读时间；按严重程度给智能体请求排序；设计审查环节；把决策写在智能体能找到的地方；管理智能体；以判断力为标准招聘；围绕审查重建入门级岗位。"
+                "x": "Microsoft正在用WinUI 3重建Windows 11的部分组件：正在Insider中测试的新版Search、显示时间中位数为94ms的新版Run对话框，以及加载速度快25%的Photos Editor。旧版Mouse Properties对话框等遗留角落依然存在。"
               },
               {
                 "t": "p",
-                "x": "产出越来越便宜，而人的注意力始终有限。设计师、研究人员和产品经理决定智能体向人展示什么、何时打断以及审查如何进行，他们的工作是建立判断体系，甄别什么值得关注。"
+                "x": "设计师通常把设计稿交给工程师后等待；能借助AI自己修正间距的设计师，可以省去大量来回沟通。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La atención humana, otra vez\ncuello de botella del diseño",
-          "body": "Anthropic registra seis horas de agentes por hora humana, y los diseñadores deben decidir qué merece atención.",
-          "mini_headline": "Diseñar para la atención humana",
+          "headline": "Diseñadores de Windows 11\nya corrigen código con AI",
+          "body": "Según Diego Baca, de Microsoft, diseñadores de Windows 11 corrigen código con AI y Search, Run y Photos pasan a nativo.",
+          "mini_headline": "Diseñadores de Windows que programan",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
-                "cap": "Una amplia planta de oficinas donde una persona lee en un escritorio mientras decenas de pantallas a su alrededor se siguen llenando de trabajo nuevo que debe atender."
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
               },
               {
                 "t": "p",
-                "x": "El 16 de octubre, cuatro investigadores de Anthropic publicaron “How employment is changing at Anthropic”. Para agosto de 2026, los agentes dirigidos por empleados registraban seis horas por cada hora de trabajo de sus personas. Las sesiones de agentes pasaban cerca del 80% de su tiempo inactivas, esperando a una persona, e incluso para quienes no programan, leer todo lo que producían sus agentes llevaría más de media semana laboral. “Ese es el impuesto de lectura, y todo equipo con agentes lo pagará”."
+                "x": "Diego Baca, vicepresidente de Diseño de Producto de Microsoft (Vice President of Product Design), afirma que los diseñadores ya contribuyen con correcciones de código, con ayuda de la AI, para depurar las incoherencias de diseño de Windows 11. Lo dijo en un intercambio en X con Chris Pirillo, fundador de Lockergnome."
+              },
+              {
+                "t": "p",
+                "x": "\"La AI ya ha ayudado a nuestro equipo de diseño a acelerar de forma notable. Incluso vemos a diseñadores contribuir directamente con correcciones de código que mejoran el oficio, la coherencia y la calidad. Es un avance emocionante, y apenas estamos empezando.\""
+              },
+              {
+                "t": "p",
+                "x": "Baca no precisó qué herramientas de AI usan, qué correcciones se hicieron ni cuánto código escribe la AI, y no dio un plazo para la coherencia: lo calificó de \"un frente de trabajo activo\"."
               },
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
-                "cap": "Los agentes trabajan más que los humanos. No es una sorpresa."
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+                "cap": "La nueva Search UI nativa de Windows 11"
               },
               {
                 "t": "p",
-                "x": "Patrick Neeman sostiene que este trabajo está convirtiendo a todos en gestores y propone siete pasos para que las personas sigan al mando del ciclo: medir el tiempo de lectura como un presupuesto de carga de página, clasificar las solicitudes de los agentes por gravedad, diseñar el paso de revisión, dejar las decisiones por escrito donde los agentes puedan encontrarlas, gestionar a los agentes, contratar por criterio y rediseñar los puestos de nivel inicial en torno a la revisión."
+                "x": "Microsoft está reconstruyendo partes de Windows 11 en WinUI 3: un nuevo Search en pruebas en Insider, un cuadro de diálogo Run moderno con una mediana de 94ms hasta mostrarse y un Photos Editor que carga un 25% más rápido. Siguen quedando rincones heredados, como el antiguo cuadro de diálogo Mouse Properties."
               },
               {
                 "t": "p",
-                "x": "La producción es cada vez más barata, mientras la atención humana sigue siendo fija. Diseñadores, investigadores y gerentes de producto definen qué muestran los agentes a las personas, cuándo interrumpen y cómo funciona la revisión, y el trabajo consiste en crear sistemas de criterio sobre qué merece atención."
+                "x": "Los diseñadores suelen entregar maquetas a los ingenieros y esperar; quien puede corregir un espaciado con AI se ahorra muchas idas y vueltas."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Windows 11에선\n디자이너도 AI로 코딩",
+          "body": "Diego Baca는 Windows 11 디자이너가 AI로 코드를 고친다고 했다.",
+          "mini_headline": "Windows 디자이너, 코드를 내놓다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft 제품 디자인 부사장(Vice President of Product Design) Diego Baca는 Windows 11의 들쭉날쭉한 디자인을 정리하려고 이제 디자이너들이 AI의 도움을 받아 코드 수정에 손을 보탠다고 밝혔다. Lockergnome 창업자 Chris Pirillo와 X에서 나눈 대화에서 나온 말이다."
+              },
+              {
+                "t": "p",
+                "x": "\"AI는 이미 우리 디자인팀의 속도를 크게 끌어올렸습니다. 디자이너가 완성도와 일관성, 품질을 높이는 코드 수정에 직접 기여하는 모습까지 보고 있습니다. 흥미로운 진전이고, 이제 막 시작했을 뿐입니다.\""
+              },
+              {
+                "t": "p",
+                "x": "Baca는 어떤 AI 도구를 쓰는지, 무엇을 고쳤는지, 코드를 AI가 얼마나 쓰는지는 밝히지 않았다. 일관성을 언제 갖출지 일정도 없이 \"진행 중인 작업(an active workstream)\"이라고만 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+                "cap": "Windows 11의 새 네이티브 Search UI"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft는 Windows 11 일부를 WinUI 3로 다시 짓는 중이다. Insider에서 테스트하는 새 Search, 뜨기까지 걸리는 시간 중앙값이 94ms인 새 Run 대화상자, 25% 더 빨리 열리는 Photos Editor가 그렇다. 옛 Mouse Properties 대화상자 같은 구형 화면은 아직 그대로다."
+              },
+              {
+                "t": "p",
+                "x": "디자이너는 보통 목업을 엔지니어에게 넘기고 기다린다. AI로 간격을 직접 고칠 수 있다면 주고받는 수고가 크게 준다."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ja": {
+          "headline": "Windows 11の設計者\nAIでコード修正に貢献",
+          "body": "Diego BacaはWindows 11のデザイナーがAIでコードを直すと述べた。",
+          "mini_headline": "Windowsのデザイナーがコードへ",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Microsoftのプロダクトデザイン担当バイスプレジデント(Vice President of Product Design)、Diego Baca氏によると、Windows 11のデザインの不統一を整えるため、デザイナーがAIの助けを借りてコード修正に貢献しているという。Lockergnome創業者Chris Pirillo氏とのXでのやり取りで語った。"
+              },
+              {
+                "t": "p",
+                "x": "「AIはすでに当社のデザインチームを大きく加速させている。デザイナーが完成度、一貫性、品質を高めるコード修正に直接貢献する場面さえ見られる。わくわくする進歩であり、まだ始まったばかりだ」"
+              },
+              {
+                "t": "p",
+                "x": "Baca氏は使っているAIツールや修正内容、AIがコードをどれだけ書いているかを明かさず、一貫性が整う時期も示さなかった。「進行中の取り組み」だとしている。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+                "cap": "Windows 11の新しいネイティブSearch UI"
+              },
+              {
+                "t": "p",
+                "x": "MicrosoftはWindows 11の一部をWinUI 3で作り直している。Insiderでテスト中の新しいSearch、表示までの中央値が94msのモダンなRunダイアログ、読み込みが25%速いPhotos Editorなどだ。古いMouse Propertiesダイアログのようなレガシーな部分は残っている。"
+              },
+              {
+                "t": "p",
+                "x": "デザイナーは通常、モックアップをエンジニアに渡して待つ。AIで余白の修正を自分でできるデザイナーなら、多くのやり取りを省ける。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Windows 11设计师\n借AI贡献代码修复",
+          "body": "Microsoft的Diego Baca称Windows 11设计师已借AI贡献代码修复。",
+          "mini_headline": "Windows设计师上手写代码",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft产品设计副总裁（Vice President of Product Design）Diego Baca表示，为清理Windows 11的设计不一致问题，设计师如今正借助AI贡献代码修复。他是在X上与Lockergnome创始人Chris Pirillo交流时说这番话的。"
+              },
+              {
+                "t": "p",
+                "x": "“AI已经帮助我们的设计团队大幅提速。我们甚至看到设计师直接参与代码修复，提升工艺、一致性和质量。这是令人振奋的进展，而我们才刚刚开始。”"
+              },
+              {
+                "t": "p",
+                "x": "Baca没有说明使用了哪些AI工具、修复了什么，以及AI写了多少代码，也没有给出实现一致性的时间表，只称这是“一项正在进行的工作”。"
+              },
+              {
+                "t": "img",
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+                "cap": "Windows 11全新的原生Search UI"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft正在用WinUI 3重建Windows 11的部分组件：正在Insider中测试的新版Search、显示时间中位数为94ms的新版Run对话框，以及加载速度快25%的Photos Editor。旧版Mouse Properties对话框等遗留角落依然存在。"
+              },
+              {
+                "t": "p",
+                "x": "设计师通常把设计稿交给工程师后等待；能借助AI自己修正间距的设计师，可以省去大量来回沟通。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Diseñadores de Windows 11\nya corrigen código con AI",
+          "body": "Según Diego Baca, de Microsoft, diseñadores de Windows 11 corrigen código con AI y Search, Run y Photos pasan a nativo.",
+          "mini_headline": "Diseñadores de Windows que programan",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Diego Baca, vicepresidente de Diseño de Producto de Microsoft (Vice President of Product Design), afirma que los diseñadores ya contribuyen con correcciones de código, con ayuda de la AI, para depurar las incoherencias de diseño de Windows 11. Lo dijo en un intercambio en X con Chris Pirillo, fundador de Lockergnome."
+              },
+              {
+                "t": "p",
+                "x": "\"La AI ya ha ayudado a nuestro equipo de diseño a acelerar de forma notable. Incluso vemos a diseñadores contribuir directamente con correcciones de código que mejoran el oficio, la coherencia y la calidad. Es un avance emocionante, y apenas estamos empezando.\""
+              },
+              {
+                "t": "p",
+                "x": "Baca no precisó qué herramientas de AI usan, qué correcciones se hicieron ni cuánto código escribe la AI, y no dio un plazo para la coherencia: lo calificó de \"un frente de trabajo activo\"."
+              },
+              {
+                "t": "img",
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+                "cap": "La nueva Search UI nativa de Windows 11"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft está reconstruyendo partes de Windows 11 en WinUI 3: un nuevo Search en pruebas en Insider, un cuadro de diálogo Run moderno con una mediana de 94ms hasta mostrarse y un Photos Editor que carga un 25% más rápido. Siguen quedando rincones heredados, como el antiguo cuadro de diálogo Mouse Properties."
+              },
+              {
+                "t": "p",
+                "x": "Los diseñadores suelen entregar maquetas a los ingenieros y esperar; quien puede corregir un espaciado con AI se ahorra muchas idas y vueltas."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Windows 11에선\n디자이너도 AI로 코딩",
+          "body": "Diego Baca는 Windows 11 디자이너가 AI로 코드를 고친다고 했다.",
+          "mini_headline": "Windows 디자이너, 코드를 내놓다",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft 제품 디자인 부사장(Vice President of Product Design) Diego Baca는 Windows 11의 디자인 불일치를 정리하기 위해 이제 디자이너들이 AI의 도움으로 코드 수정에 기여하고 있다고 밝혔다. 그는 Lockergnome 창업자 Chris Pirillo와 X에서 주고받은 대화에서 이렇게 말했다."
+              },
+              {
+                "t": "p",
+                "x": "\"AI는 이미 우리 디자인팀의 속도를 크게 끌어올렸습니다. 디자이너가 완성도와 일관성, 품질을 높이는 코드 수정에 직접 기여하는 모습까지 보고 있습니다. 흥미로운 진전이고, 이제 막 시작했을 뿐입니다.\""
+              },
+              {
+                "t": "p",
+                "x": "Baca는 어떤 AI 도구를 쓰는지, 무엇을 고쳤는지, 코드의 얼마만큼을 AI가 쓰는지 밝히지 않았다. 일관성을 언제 갖출지 일정도 내놓지 않은 채 \"진행 중인 작업(an active workstream)\"이라고만 했다."
+              },
+              {
+                "t": "img",
+                "src": "https://www.windowslatest.com/wp-content/uploads/2026/10/Windows-11s-new-native-Search-UI.jpg",
+                "cap": "Windows 11의 새 네이티브 Search UI"
+              },
+              {
+                "t": "p",
+                "x": "Microsoft는 Windows 11의 일부를 WinUI 3로 다시 만들고 있다. Insider 테스트 중인 새 Search, 표시까지 걸리는 시간 중앙값이 94ms인 새 Run 대화상자, 25% 더 빨리 열리는 Photos Editor가 그 예다. 예전 Mouse Properties 대화상자 같은 구형 화면은 아직 남아 있다."
+              },
+              {
+                "t": "p",
+                "x": "디자이너는 보통 목업을 엔지니어에게 넘기고 기다린다. AI로 간격 수정을 직접 할 수 있는 디자이너라면 오가는 수고를 크게 덜 수 있다."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-slop-skill",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "웹페이지의 'AI 티'\n지우는 오픈 스킬",
+      "body": "Claude Code용 design-slop-skill이 AI 티를 찾아 고친다.",
+      "mini_headline": "'AI 티' 걷어내기",
+      "tool": "Design Tokens",
+      "source": "DEV Community",
+      "url": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+          },
+          {
+            "t": "p",
+            "x": "어떤 AI에든 \"랜딩 페이지 만들어 줘\"라고 하면 거대한 둥근 카드, 붉은 보라색 그라데이션 위 반투명 유리, 빛나는 네온 버튼, 라이트 모드 없는 새까만 배경, 가운데 정렬된 64px 제목, 끝없이 이어지는 단일 칼럼이 나온다. 댓글이 80+개 달린 V2EX 스레드에도 똑같은 죄목이 줄줄이 올라왔다."
+          },
+          {
+            "t": "p",
+            "x": "design-slop-skill은 이런 패턴을 결정론적으로 잡아내 사람이 다듬은 기본값으로 바꿔 주는 Claude Code 스킬이다. 표준 라이브러리만 쓰는(stdlib-only) Python 스크립트 두 개가 전부라 LLM도, 네트워크도, 의존성도 필요 없다."
+          },
+          {
+            "t": "p",
+            "x": "detect.py는 HTML/CSS를 훑어 규칙 id, 파일, 줄 번호, 두 언어 설명을 담은 결과를 보고하고 이를 가중해 0–100 slop 점수를 매긴다. fix.py는 거꾸로 이를 고친다. 모서리 반경을 10px로 묶고, 블러를 없애고, 글로를 누그러뜨리고, 보라색 그라데이션을 평평하게 바꾸고, light-mode 블록을 넣고, 히어로 제목을 2.25rem 왼쪽 정렬로 줄인다."
+          },
+          {
+            "t": "p",
+            "x": "규칙 일곱 가지(SLOP-001~SLOP-007)가 불만 목록을 다루고, 보라색은 색상(hue)으로 가려낸다. 스킬이라서 에이전트가 다 만든 뒤가 아니라 만드는 도중에 돌린다. 테마 토글과 그리드 재구성은 사람 몫으로 남겼다. MIT 라이선스에 단위 테스트 23개를 갖췄다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "An open skill strips the\n'AI look' from web pages",
+          "body": "design-slop-skill for Claude Code flags glassmorphism, red-purple gradients and other AI tells, then rewrites them.",
+          "mini_headline": "Stripping the 'AI look'",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+              },
+              {
+                "t": "p",
+                "x": "Ask any AI to \"make me a landing page\" and you get giant rounded cards, frosted glass over a red-purple gradient, a glowing neon button, a pitch-black background with no light mode, a 64px centered headline and one endless column. A V2EX thread with 80+ replies listed the same sins."
+              },
+              {
+                "t": "p",
+                "x": "design-slop-skill is a Claude Code skill that detects these patterns deterministically and rewrites them toward human-crafted defaults. Two stdlib-only Python scripts need no LLM, network or dependencies."
+              },
+              {
+                "t": "p",
+                "x": "detect.py scans HTML/CSS and reports findings with rule id, file, line and a bilingual explanation, weighted into a 0–100 slop score. fix.py applies the inverse: radius clamped to 10px, blur dropped, glows neutralized, purple gradients flattened, a light-mode block added, hero titles tamed to 2.25rem left-aligned."
+              },
+              {
+                "t": "p",
+                "x": "Seven rules (SLOP-001 to SLOP-007) cover the complaint list; purple detection is hue-based. As a skill, the agent runs it during generation rather than after. Theme toggles and grid restructuring are left to a human. MIT licensed, with 23 unit tests."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "웹페이지의 'AI 티'\n지우는 오픈 스킬",
+          "body": "Claude Code용 design-slop-skill이 AI 티를 찾아 고친다.",
+          "mini_headline": "'AI 티' 걷어내기",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+              },
+              {
+                "t": "p",
+                "x": "어떤 AI에든 \"랜딩 페이지 만들어 줘\"라고 하면 거대한 둥근 카드, 붉은 보라색 그라데이션 위 반투명 유리, 빛나는 네온 버튼, 라이트 모드 없는 새까만 배경, 가운데 정렬된 64px 제목, 끝없이 이어지는 단일 칼럼이 나온다. 댓글이 80+개 달린 V2EX 스레드에도 똑같은 죄목이 줄줄이 올라왔다."
+              },
+              {
+                "t": "p",
+                "x": "design-slop-skill은 이런 패턴을 결정론적으로 잡아내 사람이 다듬은 기본값으로 바꿔 주는 Claude Code 스킬이다. 표준 라이브러리만 쓰는(stdlib-only) Python 스크립트 두 개가 전부라 LLM도, 네트워크도, 의존성도 필요 없다."
+              },
+              {
+                "t": "p",
+                "x": "detect.py는 HTML/CSS를 훑어 규칙 id, 파일, 줄 번호, 두 언어 설명을 담은 결과를 보고하고 이를 가중해 0–100 slop 점수를 매긴다. fix.py는 거꾸로 이를 고친다. 모서리 반경을 10px로 묶고, 블러를 없애고, 글로를 누그러뜨리고, 보라색 그라데이션을 평평하게 바꾸고, light-mode 블록을 넣고, 히어로 제목을 2.25rem 왼쪽 정렬로 줄인다."
+              },
+              {
+                "t": "p",
+                "x": "규칙 일곱 가지(SLOP-001~SLOP-007)가 불만 목록을 다루고, 보라색은 색상(hue)으로 가려낸다. 스킬이라서 에이전트가 다 만든 뒤가 아니라 만드는 도중에 돌린다. 테마 토글과 그리드 재구성은 사람 몫으로 남겼다. MIT 라이선스에 단위 테스트 23개를 갖췄다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "ウェブの「AIっぽさ」を\n消す公開スキル",
+          "body": "Claude Code向けdesign-slop-skillはAIっぽさを検出し修正する。",
+          "mini_headline": "「AIっぽさ」を消す",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+              },
+              {
+                "t": "p",
+                "x": "どのAIに「ランディングページを作って」と頼んでも、巨大な角丸カード、赤紫のグラデーションに重ねたすりガラス、光るネオンボタン、ライトモードのない真っ黒な背景、中央揃えの64pxの見出し、延々と続く単一カラムが出てくる。80+件の返信がついたV2EXのスレッドでも、同じ罪が列挙された。"
+              },
+              {
+                "t": "p",
+                "x": "design-slop-skillは、こうしたパターンを決定論的に検出し、人の手で整えたデフォルトに向けて書き換えるClaude Codeのスキルだ。標準ライブラリのみ(stdlib-only)の二つのPythonスクリプトで動き、LLMもネットワークも依存関係も要らない。"
+              },
+              {
+                "t": "p",
+                "x": "detect.pyはHTML/CSSを走査し、ルールid、ファイル、行と二言語の説明を添えて結果を報告し、重み付けして0–100のslopスコアを出す。fix.pyはその逆を適用する。角丸を10pxに制限し、ブラーを外し、グローを抑え、紫のグラデーションを平坦にし、light-modeブロックを加え、ヒーロー見出しを2.25remの左揃えに抑える。"
+              },
+              {
+                "t": "p",
+                "x": "七つのルール(SLOP-001〜SLOP-007)が不満リストをカバーし、紫の検出は色相ベースだ。スキルなので、エージェントは生成後ではなく生成中に実行する。テーマ切り替えやグリッドの再構成は人に委ねる。MITライセンスで、ユニットテストは23件ある。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "一款开源技能\n抹去网页的“AI感”",
+          "body": "Claude Code技能design-slop-skill识别并改写红紫渐变等AI痕迹。",
+          "mini_headline": "抹去“AI感”",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+              },
+              {
+                "t": "p",
+                "x": "无论让哪个AI“做一个落地页”，得到的都是巨大的圆角卡片、红紫渐变上的毛玻璃、发光的霓虹按钮、没有浅色模式的纯黑背景、居中的64px大标题，以及一条无尽的单栏。一个有80+条回复的V2EX帖子也列出了同样的毛病。"
+              },
+              {
+                "t": "p",
+                "x": "design-slop-skill是一款Claude Code技能，能以确定性方式检测这些模式，并按人工打磨的默认值改写。两个仅依赖标准库（stdlib-only）的Python脚本不需要LLM、网络或任何依赖。"
+              },
+              {
+                "t": "p",
+                "x": "detect.py扫描HTML/CSS，报告每条发现的规则id、文件、行号和双语说明，并加权得出0–100的slop分数。fix.py则反向处理：圆角限制在10px，去掉模糊，中和发光，压平紫色渐变，添加light-mode区块，并把主视觉标题收敛为2.25rem左对齐。"
+              },
+              {
+                "t": "p",
+                "x": "七条规则（SLOP-001至SLOP-007）覆盖了这份吐槽清单；紫色检测基于色相。作为技能，代理会在生成过程中而非生成后运行它。主题切换和网格重构留给人来处理。采用MIT许可，附带23个单元测试。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Una skill abierta elimina el\n'aspecto AI' de páginas web",
+          "body": "design-slop-skill para Claude Code detecta glassmorphism, degradados rojo-púrpura y otras señales de AI y las corrige.",
+          "mini_headline": "Quitar el 'aspecto AI'",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
+              },
+              {
+                "t": "p",
+                "x": "Si se le pide a cualquier AI que \"haga una landing page\", el resultado son tarjetas enormes con esquinas redondeadas, vidrio esmerilado sobre un degradado rojo-púrpura, un botón de neón brillante, un fondo negro absoluto sin modo claro, un titular centrado de 64px y una única columna interminable. Un hilo de V2EX con 80+ respuestas enumeró los mismos pecados."
+              },
+              {
+                "t": "p",
+                "x": "design-slop-skill es una skill de Claude Code que detecta estos patrones de forma determinista y los reescribe hacia valores por defecto de factura humana. Dos scripts de Python que solo usan la biblioteca estándar (stdlib-only) no necesitan LLM, red ni dependencias."
+              },
+              {
+                "t": "p",
+                "x": "detect.py analiza HTML/CSS e informa de cada hallazgo con id de regla, archivo, línea y una explicación bilingüe, ponderados en una puntuación slop de 0–100. fix.py aplica lo inverso: radio limitado a 10px, desenfoque eliminado, brillos neutralizados, degradados púrpura aplanados, un bloque light-mode añadido y títulos hero reducidos a 2.25rem alineados a la izquierda."
+              },
+              {
+                "t": "p",
+                "x": "Siete reglas (SLOP-001 a SLOP-007) cubren la lista de quejas; la detección del púrpura se basa en el tono. Al ser una skill, el agente la ejecuta durante la generación y no después. Los selectores de tema y la reestructuración de la cuadrícula quedan en manos de una persona. Licencia MIT, con 23 pruebas unitarias."
               }
             ]
           }
@@ -1566,129 +1259,443 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "사람의 주의력이\n다시 디자인 병목이다",
-          "body": "Anthropic 연구에서 에이전트는 사람의 여섯 배 시간을 일했다.",
-          "mini_headline": "사람의 주의력을 위한 디자인",
+          "headline": "웹페이지의 'AI 티'\n지우는 오픈 스킬",
+          "body": "Claude Code용 design-slop-skill이 AI 티를 찾아 고친다.",
+          "mini_headline": "'AI 티' 걷어내기",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
-                "cap": "넓은 사무실에서 한 사람이 책상에 앉아 글을 읽고, 주변의 수십 개 화면에는 그가 처리해야 할 새 일이 계속 쌓인다."
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
               },
               {
                 "t": "p",
-                "x": "10월 16일, Anthropic 연구원 네 명이 “How employment is changing at Anthropic”을 발표했다. 2026년 8월에는 직원이 지시한 에이전트가 사람이 일한 한 시간마다 여섯 시간을 기록했다. 에이전트 세션은 시간의 약 80%를 사람을 기다리며 유휴 상태로 보냈고, 코딩을 하지 않는 직원이라도 에이전트가 만든 결과물을 모두 읽으려면 주당 근무 시간의 절반 이상이 걸린다. “그것이 읽기 세금이며, 에이전트를 쓰는 모든 팀이 이를 치르게 될 것이다.”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
-                "cap": "에이전트가 사람보다 더 많이 일한다. 놀랄 일은 아니다."
+                "x": "어떤 AI에든 \"랜딩 페이지 만들어 줘\"라고 하면 거대한 둥근 카드, 붉은 보라색 그라데이션 위 반투명 유리, 빛나는 네온 버튼, 라이트 모드 없는 새까만 배경, 가운데 정렬된 64px 제목, 끝없이 이어지는 단일 칼럼이 나온다. 댓글 80+개가 달린 V2EX 스레드에도 같은 죄목이 나열됐다."
               },
               {
                 "t": "p",
-                "x": "Patrick Neeman은 이 일이 모두를 관리자로 만들고 있다고 주장하며, 사람이 루프의 주도권을 쥐기 위한 일곱 단계를 제시한다. 읽기 시간을 페이지 로드 예산처럼 측정하고, 에이전트 요청에 심각도에 따라 순위를 매기고, 검토 단계를 설계하고, 결정 사항을 에이전트가 찾을 수 있는 곳에 기록하고, 에이전트를 관리하고, 판단력을 기준으로 채용하고, 신입 직무를 검토 중심으로 다시 짜는 것이다."
+                "x": "design-slop-skill은 이런 패턴을 결정론적으로 찾아내 사람이 다듬은 기본값으로 고쳐 쓰는 Claude Code 스킬이다. 표준 라이브러리만 쓰는(stdlib-only) Python 스크립트 두 개로 이뤄져 LLM도, 네트워크도, 의존성도 필요 없다."
               },
               {
                 "t": "p",
-                "x": "산출물은 갈수록 싸지지만 사람의 주의력은 그대로다. 디자이너, 리서처, 프로덕트 매니저는 에이전트가 사람에게 무엇을 보여 줄지, 언제 끼어들지, 검토가 어떻게 이뤄질지를 정한다. 이제 이들의 일은 무엇이 주의를 기울일 가치가 있는지 가려내는 판단 체계를 만드는 것이다."
+                "x": "detect.py는 HTML/CSS를 훑어 규칙 id, 파일, 줄 번호와 두 언어 설명을 담은 결과를 보고하고, 이를 가중해 0–100 slop 점수를 낸다. fix.py는 그 반대 작업을 한다. 모서리 반경을 10px로 제한하고, 블러를 없애고, 글로를 중화하고, 보라색 그라데이션을 평평하게 바꾸고, light-mode 블록을 추가하고, 히어로 제목을 2.25rem 왼쪽 정렬로 줄인다."
+              },
+              {
+                "t": "p",
+                "x": "일곱 가지 규칙(SLOP-001~SLOP-007)이 불만 목록을 다루며, 보라색 감지는 색상(hue) 기반이다. 스킬 형태라 에이전트가 생성 후가 아니라 생성 중에 실행한다. 테마 토글과 그리드 재구성은 사람 몫으로 남겨 두었다. MIT 라이선스이며 단위 테스트 23개를 갖췄다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "人間の注意力が再び\nデザインのボトルネックに",
-          "body": "Anthropicの研究では、エージェントの稼働時間が人間の六倍に達した。",
-          "mini_headline": "人間の注意力のためのデザイン",
+          "headline": "ウェブの「AIっぽさ」を\n消す公開スキル",
+          "body": "Claude Code向けdesign-slop-skillはAIっぽさを検出し修正する。",
+          "mini_headline": "「AIっぽさ」を消す",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
-                "cap": "広いオフィスで一人が机に向かって読み物をしている。周りの何十もの画面には、その人が対処すべき新しい仕事が次々と表示されていく。"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
               },
               {
                 "t": "p",
-                "x": "10月16日、Anthropicの研究者四人が「How employment is changing at Anthropic」を公開した。2026年8月までに、従業員が指示するエージェントは、人が働く一時間ごとに六時間分の作業を記録するようになった。エージェントのセッションは時間の約80%を人を待つアイドル状態で過ごしており、コードを書かない人でも、エージェントの出力をすべて読むには週の労働時間の半分以上がかかる。「それが読む税金であり、エージェントを使うすべてのチームが払うことになる」"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
-                "cap": "エージェントは人間より多く働く。驚くことではない。"
+                "x": "どのAIに「ランディングページを作って」と頼んでも、巨大な角丸カード、赤紫のグラデーションに重ねたすりガラス、光るネオンボタン、ライトモードのない真っ黒な背景、中央揃えの64pxの見出し、延々と続く単一カラムが出てくる。80+件の返信がついたV2EXのスレッドでも、同じ罪が列挙された。"
               },
               {
                 "t": "p",
-                "x": "Patrick Neemanは、この仕事が誰もをマネージャーに変えつつあると論じ、人がループの主導権を握り続けるための七つのステップを示す。読む時間をページ読み込みの予算のように測る、エージェントの要求を重大度で順位づける、レビューの工程を設計する、決定事項をエージェントが見つけられる場所に書き残す、エージェントを管理する、判断力で採用する、そしてエントリーレベルの職務をレビュー中心に作り直す、というものだ。"
+                "x": "design-slop-skillは、こうしたパターンを決定論的に検出し、人の手で整えたデフォルトに向けて書き換えるClaude Codeのスキルだ。標準ライブラリのみ(stdlib-only)の二つのPythonスクリプトで動き、LLMもネットワークも依存関係も要らない。"
               },
               {
                 "t": "p",
-                "x": "アウトプットはますます安くなる一方、人間の注意力は増えない。デザイナー、リサーチャー、プロダクトマネージャーは、エージェントが人に何を見せ、いつ割り込み、レビューをどう進めるかを決める立場にある。その仕事は、何が注意に値するかを見極める判断の仕組みをつくることだ。"
+                "x": "detect.pyはHTML/CSSを走査し、ルールid、ファイル、行と二言語の説明を添えて結果を報告し、重み付けして0–100のslopスコアを出す。fix.pyはその逆を適用する。角丸を10pxに制限し、ブラーを外し、グローを抑え、紫のグラデーションを平坦にし、light-modeブロックを加え、ヒーロー見出しを2.25remの左揃えに抑える。"
+              },
+              {
+                "t": "p",
+                "x": "七つのルール(SLOP-001〜SLOP-007)が不満リストをカバーし、紫の検出は色相ベースだ。スキルなので、エージェントは生成後ではなく生成中に実行する。テーマ切り替えやグリッドの再構成は人に委ねる。MITライセンスで、ユニットテストは23件ある。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "人的注意力\n再次成为设计瓶颈",
-          "body": "Anthropic研究显示，智能体工作时长是人的六倍，设计者须决定什么值得关注。",
-          "mini_headline": "为人的注意力而设计",
+          "headline": "一款开源技能\n抹去网页的“AI感”",
+          "body": "Claude Code技能design-slop-skill识别并改写红紫渐变等AI痕迹。",
+          "mini_headline": "抹去“AI感”",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
-                "cap": "宽敞的办公区里，一个人坐在桌前阅读，周围数十块屏幕不断涌现等待他处理的新工作。"
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
               },
               {
                 "t": "p",
-                "x": "10月16日，四位Anthropic研究人员发表了《How employment is changing at Anthropic》。到2026年8月，员工指挥的智能体在员工每工作一小时的同时，会记录六小时的工作。智能体会话约有80%的时间处于闲置状态，等待人来处理；即便是不写代码的人，要读完智能体产出的全部内容，也要花掉一周工作时间的一半以上。“这就是阅读税，每个使用智能体的团队都要为此买单。”"
-              },
-              {
-                "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
-                "cap": "智能体比人干得多。这并不意外。"
+                "x": "无论让哪个AI“做一个落地页”，得到的都是巨大的圆角卡片、红紫渐变上的毛玻璃、发光的霓虹按钮、没有浅色模式的纯黑背景、居中的64px大标题，以及一条无尽的单栏。一个有80+条回复的V2EX帖子也列出了同样的毛病。"
               },
               {
                 "t": "p",
-                "x": "Patrick Neeman认为，这项工作正在把每个人都变成管理者，并提出了让人始终掌控循环的七个步骤：像对待页面加载预算一样衡量阅读时间；按严重程度给智能体请求排序；设计审查环节；把决策写在智能体能找到的地方；管理智能体；以判断力为标准招聘；围绕审查重建入门级岗位。"
+                "x": "design-slop-skill是一款Claude Code技能，能以确定性方式检测这些模式，并按人工打磨的默认值改写。两个仅依赖标准库（stdlib-only）的Python脚本不需要LLM、网络或任何依赖。"
               },
               {
                 "t": "p",
-                "x": "产出越来越便宜，而人的注意力始终有限。设计师、研究人员和产品经理决定智能体向人展示什么、何时打断以及审查如何进行，他们的工作是建立判断体系，甄别什么值得关注。"
+                "x": "detect.py扫描HTML/CSS，报告每条发现的规则id、文件、行号和双语说明，并加权得出0–100的slop分数。fix.py则反向处理：圆角限制在10px，去掉模糊，中和发光，压平紫色渐变，添加light-mode区块，并把主视觉标题收敛为2.25rem左对齐。"
+              },
+              {
+                "t": "p",
+                "x": "七条规则（SLOP-001至SLOP-007）覆盖了这份吐槽清单；紫色检测基于色相。作为技能，代理会在生成过程中而非生成后运行它。主题切换和网格重构留给人来处理。采用MIT许可，附带23个单元测试。"
               }
             ]
           }
         },
         "es": {
-          "headline": "La atención humana, otra vez\ncuello de botella del diseño",
-          "body": "Anthropic registra seis horas de agentes por hora humana, y los diseñadores deben decidir qué merece atención.",
-          "mini_headline": "Diseñar para la atención humana",
+          "headline": "Una skill abierta elimina el\n'aspecto AI' de páginas web",
+          "body": "design-slop-skill para Claude Code detecta glassmorphism, degradados rojo-púrpura y otras señales de AI y las corrige.",
+          "mini_headline": "Quitar el 'aspecto AI'",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
-                "cap": "Una amplia planta de oficinas donde una persona lee en un escritorio mientras decenas de pantallas a su alrededor se siguen llenando de trabajo nuevo que debe atender."
+                "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png"
               },
               {
                 "t": "p",
-                "x": "El 16 de octubre, cuatro investigadores de Anthropic publicaron “How employment is changing at Anthropic”. Para agosto de 2026, los agentes dirigidos por empleados registraban seis horas por cada hora de trabajo de sus personas. Las sesiones de agentes pasaban cerca del 80% de su tiempo inactivas, esperando a una persona, e incluso para quienes no programan, leer todo lo que producían sus agentes llevaría más de media semana laboral. “Ese es el impuesto de lectura, y todo equipo con agentes lo pagará”."
+                "x": "Si se le pide a cualquier AI que \"haga una landing page\", el resultado son tarjetas enormes con esquinas redondeadas, vidrio esmerilado sobre un degradado rojo-púrpura, un botón de neón brillante, un fondo negro absoluto sin modo claro, un titular centrado de 64px y una única columna interminable. Un hilo de V2EX con 80+ respuestas enumeró los mismos pecados."
               },
+              {
+                "t": "p",
+                "x": "design-slop-skill es una skill de Claude Code que detecta estos patrones de forma determinista y los reescribe hacia valores por defecto de factura humana. Dos scripts de Python que solo usan la biblioteca estándar (stdlib-only) no necesitan LLM, red ni dependencias."
+              },
+              {
+                "t": "p",
+                "x": "detect.py analiza HTML/CSS e informa de cada hallazgo con id de regla, archivo, línea y una explicación bilingüe, ponderados en una puntuación slop de 0–100. fix.py aplica lo inverso: radio limitado a 10px, desenfoque eliminado, brillos neutralizados, degradados púrpura aplanados, un bloque light-mode añadido y títulos hero reducidos a 2.25rem alineados a la izquierda."
+              },
+              {
+                "t": "p",
+                "x": "Siete reglas (SLOP-001 a SLOP-007) cubren la lista de quejas; la detección del púrpura se basa en el tono. Al ser una skill, el agente la ejecuta durante la generación y no después. Los selectores de tema y la reestructuración de la cuadrícula quedan en manos de una persona. Licencia MIT, con 23 pruebas unitarias."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "design-just-eat-ai-photos",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "Just Eat, 엉터리\nAI 메뉴 사진에 사과",
+      "body": "Just Eat이 베이컨·달걀이 소다에 뜬 AI-generated 사진에 사과했다.",
+      "mini_headline": "Just Eat의 AI 메뉴 실수",
+      "tool": "AI Workflow",
+      "source": "PetaPixel",
+      "url": "https://petapixel.com/2026/10/21/just-eat-food-delivery-app-apologizes-for-ai-generated-menu-photo-showing-bacon-floating-in-soda/",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+            "cap": "Just Eat의 AI 이미지 생성기가 아일랜드(Irish) 전통 베이컨·달걀 소다 브레드 샌드위치를 비롯한 여러 메뉴의 부정확한 이미지를 만들었다. 이미지 출처: Just Eat UK"
+          },
+          {
+            "t": "p",
+            "x": "음식 배달 앱 Just Eat이 소다에 베이컨과 달걀이 떠 있는 사진 등 메뉴에 올린 부정확한 AI-generated 사진 여러 장을 두고 사과했다."
+          },
+          {
+            "t": "p",
+            "x": "영국(U.K.)에서 영업하는 Just Eat은 직접 찍은 사진이 없는 음식점에 AI-generated 이미지를 시험 삼아 붙이면서 이미지마다 \"AI-generated\" 표시를 달았다. The Independent에 따르면 고객 불만이 나오자 시험을 접었다."
+          },
+          {
+            "t": "p",
+            "x": "소다 브레드 샌드위치를 파는 북아일랜드(Northern Ireland)의 한 음식점에는 소시지, 베이컨, 달걀 프라이가 탄산음료 파인트 잔에 떠 있는 이미지가 붙었다. 소금·후추 칩스는 소금과 후추에 파묻힌 평범한 감자튀김으로, 체다 메뉴는 퐁뒤 같은 주황색 소스로 나왔다."
+          },
+          {
+            "t": "p",
+            "x": "Just Eat은 \"AI-enhanced 이미지를 시험해 왔는데, 새로운 기술이 다 그렇듯 처음부터 늘 딱 맞지는 않는다\"며 \"게시된 부정확한 이미지에 대해 사과드린다\"고 밝혔다. 회사는 해당 이미지를 지우는 중이며 도구를 개발하는 동안 도입을 멈췄다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Just Eat apologizes for\nAI menu photos gone wrong",
+          "body": "Just Eat apologized after inaccurate AI-generated menu photos on its app showed bacon and eggs floating in a soda.",
+          "mini_headline": "Just Eat's AI menu misfire",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn-images-1.medium.com/max/1024/1*F4gMOUmsg_N_tCiHAIMmhg.png",
-                "cap": "Los agentes trabajan más que los humanos. No es una sorpresa."
+                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+                "cap": "Just Eat’s AI image generator produced inaccurate images of several menu items, including a traditional Irish bacon-and-egg soda bread sandwich. Image credit: Just Eat UK"
               },
               {
                 "t": "p",
-                "x": "Patrick Neeman sostiene que este trabajo está convirtiendo a todos en gestores y propone siete pasos para que las personas sigan al mando del ciclo: medir el tiempo de lectura como un presupuesto de carga de página, clasificar las solicitudes de los agentes por gravedad, diseñar el paso de revisión, dejar las decisiones por escrito donde los agentes puedan encontrarlas, gestionar a los agentes, contratar por criterio y rediseñar los puestos de nivel inicial en torno a la revisión."
+                "x": "Food delivery app Just Eat has apologized over several inaccurate AI-generated photos on menus, including a picture of bacon and eggs floating in a soda."
               },
               {
                 "t": "p",
-                "x": "La producción es cada vez más barata, mientras la atención humana sigue siendo fija. Diseñadores, investigadores y gerentes de producto definen qué muestran los agentes a las personas, cuándo interrumpen y cómo funciona la revisión, y el trabajo consiste en crear sistemas de criterio sobre qué merece atención."
+                "x": "Just Eat, which operates in the U.K., was trialling AI-generated images for restaurants that hadn't taken their own photos, tagging each as \"AI-generated.\" According to The Independent, it paused the trial after customer complaints."
+              },
+              {
+                "t": "p",
+                "x": "A Northern Ireland restaurant selling soda bread sandwiches got images of sausages, bacon and fried eggs floating in pints of fizzy drinks. Salt and pepper chips appeared as plain fries buried in salt and pepper, and a cheddar listing showed an orange, fondue-like sauce."
+              },
+              {
+                "t": "p",
+                "x": "\"We've been trialling AI-enhanced images and as with any new technology, it isn't always quite right the first time,\" Just Eat said. \"We're sorry for any inaccurate images that have been posted.\" It is removing them and has paused the rollout while it develops the tool."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "Just Eat, 엉터리\nAI 메뉴 사진에 사과",
+          "body": "Just Eat이 베이컨·달걀이 소다에 뜬 AI-generated 사진에 사과했다.",
+          "mini_headline": "Just Eat의 AI 메뉴 실수",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+                "cap": "Just Eat의 AI 이미지 생성기가 아일랜드(Irish) 전통 베이컨·달걀 소다 브레드 샌드위치를 비롯한 여러 메뉴의 부정확한 이미지를 만들었다. 이미지 출처: Just Eat UK"
+              },
+              {
+                "t": "p",
+                "x": "음식 배달 앱 Just Eat이 소다에 베이컨과 달걀이 떠 있는 사진 등 메뉴에 올린 부정확한 AI-generated 사진 여러 장을 두고 사과했다."
+              },
+              {
+                "t": "p",
+                "x": "영국(U.K.)에서 영업하는 Just Eat은 직접 찍은 사진이 없는 음식점에 AI-generated 이미지를 시험 삼아 붙이면서 이미지마다 \"AI-generated\" 표시를 달았다. The Independent에 따르면 고객 불만이 나오자 시험을 접었다."
+              },
+              {
+                "t": "p",
+                "x": "소다 브레드 샌드위치를 파는 북아일랜드(Northern Ireland)의 한 음식점에는 소시지, 베이컨, 달걀 프라이가 탄산음료 파인트 잔에 떠 있는 이미지가 붙었다. 소금·후추 칩스는 소금과 후추에 파묻힌 평범한 감자튀김으로, 체다 메뉴는 퐁뒤 같은 주황색 소스로 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "Just Eat은 \"AI-enhanced 이미지를 시험해 왔는데, 새로운 기술이 다 그렇듯 처음부터 늘 딱 맞지는 않는다\"며 \"게시된 부정확한 이미지에 대해 사과드린다\"고 밝혔다. 회사는 해당 이미지를 지우는 중이며 도구를 개발하는 동안 도입을 멈췄다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIメニュー写真の誤り\nJust Eatが謝罪",
+          "body": "Just Eatはソーダにベーコンと卵が浮くAI-generated写真で謝罪した。",
+          "mini_headline": "Just EatのAIメニュー騒動",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+                "cap": "Just EatのAI画像生成ツールは、アイルランド(Irish)伝統のベーコンエッグ・ソーダブレッドサンドなど、複数のメニューで不正確な画像を生成した。画像提供：Just Eat UK"
+              },
+              {
+                "t": "p",
+                "x": "フードデリバリーアプリのJust Eatが、ソーダにベーコンと卵が浮かぶ写真をはじめ、メニューに掲載された不正確なAI-generated写真の数々について謝罪した。"
+              },
+              {
+                "t": "p",
+                "x": "英国(U.K.)で事業を展開するJust Eatは、自前の写真を撮影していない飲食店向けにAI-generated画像を試験導入し、それぞれに「AI-generated」と表示していた。The Independentによると、顧客からの苦情を受けて試験を中止した。"
+              },
+              {
+                "t": "p",
+                "x": "ソーダブレッドのサンドイッチを売る北アイルランド(Northern Ireland)の飲食店には、ソーセージやベーコン、目玉焼きがパイントグラスの炭酸飲料に浮かぶ画像が付けられた。ソルト＆ペッパーチップスは塩とコショウに埋もれた普通のフライドポテトとして、チェダーの品目はフォンデュのようなオレンジ色のソースとして表示された。"
+              },
+              {
+                "t": "p",
+                "x": "Just Eatは「AI-enhanced画像を試験してきたが、どんな新技術もそうであるように、最初から常にうまくいくとは限らない」とし、「掲載された不正確な画像についておわびする」と述べた。同社は画像を削除しており、ツールを開発する間は展開を停止している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI菜单图片出错\nJust Eat公开致歉",
+          "body": "Just Eat应用的AI-generated菜单图片让培根和鸡蛋漂在汽水里，公司已致歉。",
+          "mini_headline": "Just Eat的AI菜单翻车",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+                "cap": "Just Eat的AI图像生成器为多道菜品生成了不准确的图片，其中包括一款传统爱尔兰（Irish）培根鸡蛋苏打面包三明治。图片来源：Just Eat UK"
+              },
+              {
+                "t": "p",
+                "x": "外卖应用Just Eat就菜单上多张不准确的AI-generated照片致歉，其中一张显示培根和鸡蛋漂浮在汽水中。"
+              },
+              {
+                "t": "p",
+                "x": "在英国（U.K.）运营的Just Eat此前为未自行拍照的餐厅试用AI-generated图片，并为每张图片标注“AI-generated”。据The Independent报道，在顾客投诉后，公司已暂停这项试用。"
+              },
+              {
+                "t": "p",
+                "x": "北爱尔兰（Northern Ireland）一家售卖苏打面包三明治的餐厅，被配上了香肠、培根和煎蛋漂浮在一品脱碳酸饮料中的图片。椒盐薯条变成了埋在盐和胡椒里的普通薯条，一道切达奶酪菜品则显示为一种类似芝士火锅的橙色酱汁。"
+              },
+              {
+                "t": "p",
+                "x": "Just Eat表示：“我们一直在试用AI-enhanced图片，和任何新技术一样，第一次并不总能做到完全正确。”“对于已发布的不准确图片，我们深表歉意。”公司正在删除这些图片，并在开发该工具期间暂停推广。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Just Eat se disculpa por\nfotos de menú erróneas con AI",
+          "body": "Just Eat se disculpó por fotos de menú AI-generated inexactas en su app, con tocino y huevos flotando en un refresco.",
+          "mini_headline": "El tropiezo de Just Eat con menús de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+                "cap": "El generador de imágenes con AI de Just Eat produjo imágenes inexactas de varios platos del menú, entre ellos un tradicional sándwich irlandés (Irish) de pan de soda con tocino y huevo. Crédito de la imagen: Just Eat UK"
+              },
+              {
+                "t": "p",
+                "x": "La app de reparto de comida Just Eat pidió disculpas por varias fotos AI-generated inexactas en sus menús, entre ellas una imagen de tocino y huevos flotando en un refresco."
+              },
+              {
+                "t": "p",
+                "x": "Just Eat, que opera en el Reino Unido (U.K.), estaba probando imágenes AI-generated para restaurantes que no habían tomado sus propias fotos, y marcaba cada una como \"AI-generated\". Según The Independent, suspendió la prueba tras las quejas de los clientes."
+              },
+              {
+                "t": "p",
+                "x": "Un restaurante de Irlanda del Norte (Northern Ireland) que vende sándwiches de pan de soda recibió imágenes de salchichas, tocino y huevos fritos flotando en pintas de bebidas gaseosas. Las patatas con sal y pimienta aparecían como simples patatas fritas enterradas en sal y pimienta, y un plato con cheddar mostraba una salsa naranja parecida a una fondue."
+              },
+              {
+                "t": "p",
+                "x": "\"Hemos estado probando imágenes AI-enhanced y, como con cualquier tecnología nueva, no siempre sale del todo bien la primera vez\", dijo Just Eat. \"Lamentamos las imágenes inexactas que se hayan publicado\". La empresa las está retirando y ha pausado el despliegue mientras desarrolla la herramienta."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "Just Eat, 엉터리\nAI 메뉴 사진에 사과",
+          "body": "Just Eat이 베이컨·달걀이 소다에 뜬 AI-generated 사진에 사과했다.",
+          "mini_headline": "Just Eat의 AI 메뉴 실수",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+                "cap": "Just Eat의 AI 이미지 생성기가 아일랜드(Irish) 전통 베이컨·달걀 소다 브레드 샌드위치를 비롯한 여러 메뉴의 부정확한 이미지를 만들었다. 이미지 출처: Just Eat UK"
+              },
+              {
+                "t": "p",
+                "x": "음식 배달 앱 Just Eat이 소다에 베이컨과 달걀이 떠 있는 사진 등 메뉴에 올라간 부정확한 AI-generated 사진 여러 장에 대해 사과했다."
+              },
+              {
+                "t": "p",
+                "x": "영국(U.K.)에서 영업하는 Just Eat은 자체 사진을 찍지 않은 음식점에 AI-generated 이미지를 시험 적용하면서 각 이미지에 \"AI-generated\" 표시를 달았다. The Independent에 따르면 고객 불만이 나오자 이 시험을 중단했다."
+              },
+              {
+                "t": "p",
+                "x": "소다 브레드 샌드위치를 파는 북아일랜드(Northern Ireland)의 한 음식점에는 소시지, 베이컨, 달걀 프라이가 탄산음료 파인트 잔에 떠 있는 이미지가 붙었다. 소금·후추 칩스는 소금과 후추에 파묻힌 평범한 감자튀김으로, 체다 메뉴는 퐁뒤 같은 주황색 소스로 나왔다."
+              },
+              {
+                "t": "p",
+                "x": "Just Eat은 \"AI-enhanced 이미지를 시험해 왔는데, 새로운 기술이 다 그렇듯 처음부터 늘 딱 맞지는 않는다\"며 \"게시된 부정확한 이미지에 대해 사과드린다\"고 밝혔다. 회사는 해당 이미지를 삭제하고 있으며, 도구를 개발하는 동안 도입을 멈췄다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "AIメニュー写真の誤り\nJust Eatが謝罪",
+          "body": "Just Eatはソーダにベーコンと卵が浮くAI-generated写真で謝罪した。",
+          "mini_headline": "Just EatのAIメニュー騒動",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+                "cap": "Just EatのAI画像生成ツールは、アイルランド(Irish)伝統のベーコンエッグ・ソーダブレッドサンドなど、複数のメニューで不正確な画像を生成した。画像提供：Just Eat UK"
+              },
+              {
+                "t": "p",
+                "x": "フードデリバリーアプリのJust Eatが、ソーダにベーコンと卵が浮かぶ写真をはじめ、メニューに掲載された不正確なAI-generated写真の数々について謝罪した。"
+              },
+              {
+                "t": "p",
+                "x": "英国(U.K.)で事業を展開するJust Eatは、自前の写真を撮影していない飲食店向けにAI-generated画像を試験導入し、それぞれに「AI-generated」と表示していた。The Independentによると、顧客からの苦情を受けて試験を中止した。"
+              },
+              {
+                "t": "p",
+                "x": "ソーダブレッドのサンドイッチを売る北アイルランド(Northern Ireland)の飲食店には、ソーセージやベーコン、目玉焼きがパイントグラスの炭酸飲料に浮かぶ画像が付けられた。ソルト＆ペッパーチップスは塩とコショウに埋もれた普通のフライドポテトとして、チェダーの品目はフォンデュのようなオレンジ色のソースとして表示された。"
+              },
+              {
+                "t": "p",
+                "x": "Just Eatは「AI-enhanced画像を試験してきたが、どんな新技術もそうであるように、最初から常にうまくいくとは限らない」とし、「掲載された不正確な画像についておわびする」と述べた。同社は画像を削除しており、ツールを開発する間は展開を停止している。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "AI菜单图片出错\nJust Eat公开致歉",
+          "body": "Just Eat应用的AI-generated菜单图片让培根和鸡蛋漂在汽水里，公司已致歉。",
+          "mini_headline": "Just Eat的AI菜单翻车",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+                "cap": "Just Eat的AI图像生成器为多道菜品生成了不准确的图片，其中包括一款传统爱尔兰（Irish）培根鸡蛋苏打面包三明治。图片来源：Just Eat UK"
+              },
+              {
+                "t": "p",
+                "x": "外卖应用Just Eat就菜单上多张不准确的AI-generated照片致歉，其中一张显示培根和鸡蛋漂浮在汽水中。"
+              },
+              {
+                "t": "p",
+                "x": "在英国（U.K.）运营的Just Eat此前为未自行拍照的餐厅试用AI-generated图片，并为每张图片标注“AI-generated”。据The Independent报道，在顾客投诉后，公司已暂停这项试用。"
+              },
+              {
+                "t": "p",
+                "x": "北爱尔兰（Northern Ireland）一家售卖苏打面包三明治的餐厅，被配上了香肠、培根和煎蛋漂浮在一品脱碳酸饮料中的图片。椒盐薯条变成了埋在盐和胡椒里的普通薯条，一道切达奶酪菜品则显示为一种类似芝士火锅的橙色酱汁。"
+              },
+              {
+                "t": "p",
+                "x": "Just Eat表示：“我们一直在试用AI-enhanced图片，和任何新技术一样，第一次并不总能做到完全正确。”“对于已发布的不准确图片，我们深表歉意。”公司正在删除这些图片，并在开发该工具期间暂停推广。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Just Eat se disculpa por\nfotos de menú erróneas con AI",
+          "body": "Just Eat se disculpó por fotos de menú AI-generated inexactas en su app, con tocino y huevos flotando en un refresco.",
+          "mini_headline": "El tropiezo de Just Eat con menús de AI",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+                "cap": "El generador de imágenes con AI de Just Eat produjo imágenes inexactas de varios platos del menú, entre ellos un tradicional sándwich irlandés (Irish) de pan de soda con tocino y huevo. Crédito de la imagen: Just Eat UK"
+              },
+              {
+                "t": "p",
+                "x": "La app de reparto de comida Just Eat pidió disculpas por varias fotos AI-generated inexactas en sus menús, entre ellas una imagen de tocino y huevos flotando en un refresco."
+              },
+              {
+                "t": "p",
+                "x": "Just Eat, que opera en el Reino Unido (U.K.), estaba probando imágenes AI-generated para restaurantes que no habían tomado sus propias fotos, y marcaba cada una como \"AI-generated\". Según The Independent, suspendió la prueba tras las quejas de los clientes."
+              },
+              {
+                "t": "p",
+                "x": "Un restaurante de Irlanda del Norte (Northern Ireland) que vende sándwiches de pan de soda recibió imágenes de salchichas, tocino y huevos fritos flotando en pintas de bebidas gaseosas. Las patatas con sal y pimienta aparecían como simples patatas fritas enterradas en sal y pimienta, y un plato con cheddar mostraba una salsa naranja parecida a una fondue."
+              },
+              {
+                "t": "p",
+                "x": "\"Hemos estado probando imágenes AI-enhanced y, como con cualquier tecnología nueva, no siempre sale del todo bien la primera vez\", dijo Just Eat. \"Lamentamos las imágenes inexactas que se hayan publicado\". La empresa las está retirando y ha pausado el despliegue mientras desarrolla la herramienta."
               }
             ]
           }

@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-21",
-  "section": "design",
-  "media": [
-    {
-      "id": "design-lightroom-open-eyes-tap",
-      "type": "image",
-      "src": "pipeline/media/design-lightroom-open-eyes-tap.jpg"
-    },
-    {
-      "id": "design-chatgpt-slides-decks",
-      "type": "image",
-      "src": "pipeline/media/design-chatgpt-slides-decks.jpg"
-    },
-    {
-      "id": "design-neural-concept-cad-mcp",
-      "type": "image",
-      "src": "pipeline/media/design-neural-concept-cad-mcp.jpg"
-    },
-    {
-      "id": "design-dxo-viewpoint6-ai-masking",
-      "type": "image",
-      "src": "pipeline/media/design-dxo-viewpoint6-ai-masking.jpg"
-    },
-    {
-      "id": "design-anthropic-attention-bottleneck",
-      "type": "image",
-      "src": "pipeline/media/design-anthropic-attention-bottleneck.png"
-    }
-  ]
-}
+{"date":"2026-10-22","section":"design","media":[
+{"id":"design-figma-mcp","type":"image","src":"pipeline/media/design-figma-mcp.jpg"},
+{"id":"design-nvidia-gtc-berlin","type":"image","src":"pipeline/media/design-nvidia-gtc-berlin.jpg"},
+{"id":"design-windows-designers-code","type":"video","src":"pipeline/media/design-windows-designers-code.mp4","poster":"pipeline/media/design-windows-designers-code.jpg"},
+{"id":"design-slop-skill","type":"image","src":"pipeline/media/design-slop-skill.png"},
+{"id":"design-just-eat-ai-photos","type":"image","src":"pipeline/media/design-just-eat-ai-photos.jpg"}
+]}

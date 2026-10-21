@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "books",
   "picks": [
     {
-      "url": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
-      "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
-      "source": "Ars Technica",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101578-hundreds-sue-meta-for-copyright-infringement-rejecting-class-action-payouts.html",
+      "title": "Hundreds Sue Meta for Copyright Infringement, Rejecting Class Action Payouts",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-10-20T17:40:20+00:00",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2273107915-1024x648.jpg",
-      "excerpt": "In the authors' book-piracy suit, Meta was ordered to name the executives who approved torrenting books for AI training; Meta argues nobody 'decided' to pirate books.",
+      "published_iso": "2026-10-21T04:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG",
+      "excerpt": "Nearly 300 authors are suing Meta over AI training on pirated books, seeking a jury trial and the maximum $150,000 per infringement rather than class-action payouts; attorney Kyle Roche says many more cases are coming.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "A new court order in the authors' piracy suit: Meta must name the executives who approved torrenting books for AI training."
+      "rationale": "A new filing: nearly 300 authors opt out of class payouts and sue Meta individually for up to $150,000 per infringed work, which gives authors a new way to pursue AI-training claims."
     },
     {
-      "url": "https://eu.36kr.com/en/p/4034128921827207",
-      "title": "Tomato Novels Announces Full Shutdown of All AI-Related Services",
-      "source": "36Kr",
+      "url": "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119",
+      "title": "Publisher cuts ties with Quebec author accused of AI use in award-winning novel",
+      "source": "CBC News",
       "category": "books",
-      "published_iso": "2026-10-20T20:58:00+08:00",
-      "og_image": "https://img.36krcdn.com/hsossms/20261020/v2_29f60425c1204ff8aa053cbbddfc24a2@5888275@ai_oswg881799oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
-      "excerpt": "ByteDance-backed web-fiction platform Tomato Novel is shutting down its AI writing services and switching new low-level authors to full-work-completion signing after a flood of AI-generated serials; authors pushed back and some open-sourced their AI workflows.",
+      "published_iso": "2026-10-21T16:37:41Z",
+      "og_image": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
+      "excerpt": "Éditions du Boréal said AI was used in Thélyson Orélien's novel C'était ça ou mourir, contrary to his denials, citing traces of AI tags in document metadata, and ended its relationship with the author.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "A major web-fiction platform is shutting down all of its AI writing tools and changing how it signs authors. This is a concrete policy change for serial writers."
+      "rationale": "Follow-up with a new action: the publisher confirms AI use from document metadata and drops the author. This is the first publisher-confirmed case in the Orélien affair."
     },
     {
-      "url": "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai",
-      "title": "New literary prize Prix Pascal launches in France for manuscripts written with AI",
-      "source": "The Bookseller",
+      "url": "https://www.joongang.co.kr/article/25471800",
+      "title": "[단독] 한강·황석영 책 도둑질, 화웨이 등 中 AI기업도 가세했다",
+      "source": "중앙일보",
       "category": "books",
-      "published_iso": "2026-10-20T14:30:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/681/ert.jpg",
-      "excerpt": "A new French literary prize will recognise a manuscript written with artificial intelligence, requiring entrants to disclose the tools and methods used to produce their work.",
-      "source_lang": "en",
+      "published_iso": "2026-10-22T05:00:01+09:00",
+      "og_image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
+      "excerpt": "앤트로픽에 이어 중국 화웨이도 AI 모델 '판구 시그마' 학습에 한강·황석영 등 한국 작가의 책을 무단으로 내려받은 것으로 기술보고서를 통해 확인됐다.",
+      "source_lang": "ko",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "A new prize launch: France's Prix Pascal openly accepts AI-written manuscripts as long as entrants disclose their tools. This runs against the trend of prizes vetting entrants to exclude AI."
+      "rationale": "A new revelation: Huawei's own technical report shows Korean authors' books in its Pangu training data. It is a different company from the Anthropic case published on 10-16."
     },
     {
-      "url": "https://www.ddaily.co.kr/page/view/2026102014534352853",
-      "title": "\"검색창서 책 펼친다\"…밀리의서재, AI로 독서 진입 간소화",
-      "source": "디지털데일리",
+      "url": "https://www.thebookseller.com/news/society-of-authors-withdraws-from-ethical-ai-charter-after-member-backlash",
+      "title": "Society of Authors withdraws from Ethical AI Charter after member backlash",
+      "source": "The Bookseller",
       "category": "books",
-      "published_iso": "2026-10-20T15:06:16+09:00",
-      "og_image": "https://www.ddaily.co.kr/photos/2026/10/20/2026102014524757235_l.jpg",
-      "excerpt": "KT 밀리의서재가 검색 결과에서 도서 핵심을 요약해 보여주고 바로 독서·추천으로 이어지는 'AI 브리핑' 기능을 도입했다.",
-      "source_lang": "ko",
+      "published_iso": "2026-10-21T07:45:00Z",
+      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
+      "excerpt": "The Society of Authors has withdrawn from the Ethical AI Charter it launched last week, following member backlash and a clarifying statement from CEO Anna Ganley on its position on generative AI.",
+      "source_lang": "en",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "A new feature release: Millie's Library (밀리의서재) now shows AI summaries of a book in search results and takes readers straight into reading."
+      "rationale": "Follow-up with a new decision: a founding signatory leaves the Ethical AI Charter a week after its launch because members objected."
     },
     {
-      "url": "https://en.wowtale.net/2026/10/21/235648/",
-      "title": "[Korean Startup Interview] Sodalive: Turning Finished Webtoon Characters into AI Creators",
-      "source": "Wowtale",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101576-survey-finds-book-buyers-split-on-ai-use.html",
+      "title": "Survey Finds Book Buyers Split on AI Use",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-10-21T05:01:00+09:00",
-      "og_image": "https://cdn.wowtale.net/wp-content/uploads/sites/2/2026/10/sodalive-interview-thumbnail-en2.jpg",
-      "excerpt": "Sodalive is pivoting from its voice platform VoiceOn to turn official webtoon and web-novel characters into AI creators that keep producing content after a series ends.",
+      "published_iso": "2026-10-21T04:00:00Z",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG",
+      "excerpt": "A BookInsights.ai study finds younger readers more open to authors using AI in some form, but readers of all ages agree that books should disclose AI use.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "A new IP model: official characters from finished webtoons and web novels become AI creators that keep producing content after the series ends."
+      "rationale": "New reader data: younger buyers are more open to authors using AI, but readers of all ages want AI use disclosed, which gives disclosure policy a direct reader basis."
     }
   ],
   "dedup": {
     "checks": {
-      "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/": {
+      "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101578-hundreds-sue-meta-for-copyright-infringement-rejecting-class-action-payouts.html": {
         "verdict": "new",
-        "nearest": "https://nltimes.nl/2026/09/28/authors-journalists-protest-facebook-headquarters-use-work-train-ai",
+        "nearest": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
         "new_action": ""
       },
-      "https://eu.36kr.com/en/p/4034128921827207": {
+      "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119": {
+        "verdict": "follow-up",
+        "nearest": "https://www.thebookseller.com/news/canadian-author-thelyson-orelien-accused-of-using-ai-to-write-award-winning-novel",
+        "new_action": "On 10-21 publisher Éditions du Boréal confirmed AI use (from AI tags in the document metadata) and ended its relationship with the author. Earlier cards covered the 9-24 accusation and the 9-26 removal from the Goncourt list."
+      },
+      "https://www.joongang.co.kr/article/25471800": {
         "verdict": "new",
-        "nearest": "https://www.mt.co.kr/tech/2026/09/22/2026092214054459193",
+        "nearest": "https://www.sedaily.com/article/20102152",
         "new_action": ""
       },
-      "https://www.thebookseller.com/news/new-literary-prize-prix-pascal-launches-in-france-for-manuscripts-written-with-ai": {
-        "verdict": "new",
-        "nearest": "https://www.theguardian.com/books/2026/sep/25/thelyson-orelien-goncourt-prize-france",
-        "new_action": ""
+      "https://www.thebookseller.com/news/society-of-authors-withdraws-from-ethical-ai-charter-after-member-backlash": {
+        "verdict": "follow-up",
+        "nearest": "https://www.thebookseller.com/news/global-creative-bodies-launch-ethical-ai-charter-in-the-vacuum-of-government-policy",
+        "new_action": "The Society of Authors formally withdrew from the Ethical AI Charter, which launched on 10-15, after member backlash."
       },
-      "https://www.ddaily.co.kr/page/view/2026102014534352853": {
+      "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101576-survey-finds-book-buyers-split-on-ai-use.html": {
         "verdict": "new",
-        "nearest": "https://goodereader.com/blog/e-book-news/google-launched-expert-intelligence-on-google-play-books",
-        "new_action": ""
-      },
-      "https://en.wowtale.net/2026/10/21/235648/": {
-        "verdict": "new",
-        "nearest": "https://en.sedaily.com/culture/2026/10/15/culture-minister-pledges-ai-support-for-webtoon-creators",
+        "nearest": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-audible-commissioned-survey-finds-audio-sends-readers-back-to-print-half-would-try-ai-narration/",
         "new_action": ""
       }
     },
-    "note": "Dropped: Yonhap 'I didn't even know my book was used' (more reporting on the Anthropic/Korean book-buying story already covered 10-15 JoongAng, 10-16/10-20 Sedaily, 10-17 Yonhap); Sedaily copyright-trust plan (Korean Publishers Society statement in the same running story; the 10-17 Yonhap card already covered the group's demand for compensation, and this is a stated plan, not a filed or established body); Scholarly Kitchen Frankfurt reflections (commentary; Frankfurt 2026 covered extensively 10-07 to 10-19); Lit Hub x2 (10-14/10-15 essays, opinion pieces); Iceland teaching materials (a minister's remark with no decision or funding). History-tagged picks checked: Prix Pascal is a new prize launch, distinct from the Orelien/Goncourt scandal; Sodalive is a startup product pivot, distinct from the minister's webtoon pledge. Diversity: 5 distinct outlets."
+    "note": "Dropped: (1) Bookseller 'Orélien denies using AI' (10-14), part of the running story published 9-24 and 9-26 and superseded by Boréal's decision. (2) Yonhap 佛공쿠르상 AI 대필 의혹 사실로…출판사 결별, the same Boréal event as the CBC pick; kept CBC as the primary report so the story appears once. (3) Sedaily 저작권 신탁기구 추진, the same 한국출판인회의 AI-training response as the 10-17 Yonhap card (AKR20261016078400005) and the 10-20 Sedaily follow-up; it reads as a reiteration from the same statement, not a separate new filing. Lower-ranked and not picked: Ars 'Meta drops train from TOS' (a new event but a second Meta story; also overlaps Mediabistro), Mediabistro analysis (no image), Scholarly Kitchen Frankfurt reflections, LitHub classroom excerpt, CNN/CP24 'anti-AI writing police' analysis, Bookseller 'editor's first read' comment (10-08). Outlets: PW x2, CBC, JoongAng, Bookseller."
   }
 }

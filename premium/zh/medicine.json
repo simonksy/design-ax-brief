@@ -1672,6 +1672,128 @@
           "x": "权俊明代表强调:“既然进军全球最大的美国市场的准备已经完成,我们将努力创造重大成果。”"
         }
       ]
+    },
+    "medicine/medicine-seoul-declaration": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "保健福祉部与世界卫生组织（WHO）制定了国际共同原则，以在卫生医疗领域使用AI时保障医务人员的监督和人类的最终判断，并推广临床效果与安全性经过验证的AI技术。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
+          "cap": "出席记者会的保健福祉部长官郑银敬（左）与WHO总干事谭德塞（右）。摄影：Lee Jae-won记者"
+        },
+        {
+          "t": "p",
+          "x": "郑银敬长官与谭德塞总干事21日在“2026世界生物峰会”开幕式上共同发布了《面向负责任创新与全球团结的AI医疗首尔宣言》。这是保健福祉部与WHO总干事首次就卫生医疗AI发表联合宣言。"
+        },
+        {
+          "t": "p",
+          "x": "宣言明确，AI应在经过验证的使用范围内、在可由人类监督的条件下使用，最终判断权在人类。宣言还建议从开发到使用全过程引入与风险水平相称的治理。"
+        },
+        {
+          "t": "p",
+          "x": "宣言还包含防止数据垄断和市场支配、协调国际标准与监管、支持中低收入国家参与、管理生物安全风险等原则。谭德塞总干事表示：“这并不意味着创新可以在没有安全保障的情况下推进。”"
+        },
+        {
+          "t": "p",
+          "x": "郑长官表示，正与WHO就建设全球AI中心进行工作层面磋商，将在对AI技术进行实证和验证后推广至中低收入国家。"
+        }
+      ]
+    },
+    "medicine/medicine-cbct-lung-biopsy": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "肺穿刺活检是诊断肺结节的金标准，但CBCT图像质量欠佳、引导智能化不足拖慢了操作，在小而复杂的病灶上尤为明显。"
+        },
+        {
+          "t": "p",
+          "x": "由Huazhong University of Science and Technology牵头的研究团队开发了生成式AI驱动的穿刺手术导航系统GPS-Lung（Generative AI-Powered Puncture Surgery Navigation System），并在多中心随机对照试验（NCT06762613）中进行了测试。"
+        },
+        {
+          "t": "p",
+          "x": "使用GPS-Lung后，穿刺次数减少（2.0 ± 1.2 vs. 2.5 ± 1.7，P = 0.005），手术时间从23.2 ± 6.3分钟缩短至20.4 ± 5.6分钟（P = 0.001），辐射暴露从5570.9降至4357.4 μGy·m²（P = 0.033）。"
+        },
+        {
+          "t": "p",
+          "x": "气胸并发症从23.9%降至12.7%（P = 0.033）。作者表示，该系统使操作更加规范、高效。"
+        }
+      ]
+    },
+    "medicine/medicine-unfold-surgery-mode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Avenda Health推出Surgery Mode，这是为其Unfold AI前列腺癌图谱平台打造的一套术中功能。"
+        },
+        {
+          "t": "p",
+          "x": "该平台分析患者的MRI、活检、病理和前列腺特异性抗原数据，生成显示癌症范围的3D 图谱。"
+        },
+        {
+          "t": "p",
+          "x": "Surgery Mode让外科医生可在机器人和非机器人手术中使用这些图谱。新功能包括：放大的3D 视图及可按手术控制台摄像头角度调整的癌症估计图；术中查看原始MRI切片；可自动跟随手术摄像头视角、按象限以颜色标示风险以辅助保留神经决策的包膜风险评分叠加层；以及面向医生和工作人员的更新版病例管理与行政工具。"
+        },
+        {
+          "t": "p",
+          "x": "据该公司称，Unfold AI预测癌症向周围解剖结构扩散的准确率为92%，而仅用MRI时为52%。"
+        }
+      ]
+    },
+    "medicine/medicine-aidoc-pe": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "肺栓塞（PE）是心血管死亡的主要原因之一，但FDA-cleared AI检测模型在真实世界中的表现仍未得到充分评估。"
+        },
+        {
+          "t": "p",
+          "x": "Emory University的研究人员在一个拥有17家机构的学术医疗体系中，回顾性评估了两款FDA-cleared的Aidoc BriefCase算法：一款用于专门CT肺动脉造影中的PE分诊（n = 30,678），另一款用于常规增强CTs中偶然发现的PE（n = 37,191）。参考标签通过经过验证的LLM流程从放射学报告中提取（准确率97%，κ = 0.94）。"
+        },
+        {
+          "t": "p",
+          "x": "PE模型的敏感度为86.8%，特异度为99.1%。敏感度从鞍状栓塞的99.3%降至亚段PE的72.9%，从急性PE的89.7%降至非急性（non-acute）PE的65.3%。偶发PE（incidental-PE）模型的敏感度为73.5%，特异度为99.8%。"
+        },
+        {
+          "t": "p",
+          "x": "两款模型的特异度均高于获批水平，但敏感度都低于其FDA-clearance基准。作者表示，这凸显了对AI-enabled医疗器械开展标准化上市后（post-market）监测的必要性。"
+        }
+      ]
+    },
+    "medicine/medicine-fahr-face-illness-photo": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/1800/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "美国（US）研究人员表示，一款AI工具或可帮助医生仅凭一张面部照片判断患者病情的轻重。该工具以数百万张健康人脸和35,000张癌症患者照片训练，通过细看眼部附近的特征来估计生存情况。初步研究结果发表在Lancet Digital Health上。"
+        },
+        {
+          "t": "img",
+          "src": "https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/a1e6/live/25088dc0-c945-11f1-9357-bdb8a3cad3e4.png",
+          "cap": "对癌症生存（左）和年龄（右）最重要的面部区域。Mass General Brigham/Lancet Digital Health"
+        },
+        {
+          "t": "p",
+          "x": "在多种癌症中，包括已转移至骨骼或大脑的癌症，“FaceSurvival”工具都将眼下和鼻梁周围视为最关键的区域。第二款工具“FaceAge”则根据鼻唇沟、额头和太阳穴等部位估算生理年龄。"
+        },
+        {
+          "t": "p",
+          "x": "首席研究员、Mass General Brigham的Raymond Mak博士表示，目标是让基于面部的健康评估“更加量化、一致且可扩展”，以支持治疗决策，“而不是取代医生的判断”。团队表示还需要多得多的数据，尤其是来自不同族群的数据。"
+        },
+        {
+          "t": "p",
+          "x": "University of Surrey的Miroslaw Bober教授称其为“一项有前景的概念验证，但尚不能用于临床”，并警告：“预测结果并不等于解释结果。”"
+        }
+      ]
     }
   }
 }

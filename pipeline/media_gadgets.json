@@ -1,33 +1,7 @@
-{
-  "date": "2026-10-21",
-  "section": "gadgets",
-  "media": [
-    {
-      "id": "gadgets-perplexity-mac-local",
-      "type": "image",
-      "src": "pipeline/media/gadgets-perplexity-mac-local.jpg"
-    },
-    {
-      "id": "gadgets-gemini-cars-global",
-      "type": "video",
-      "src": "pipeline/media/gadgets-gemini-cars-global.mp4",
-      "poster": "pipeline/media/gadgets-gemini-cars-global.jpg"
-    },
-    {
-      "id": "gadgets-boya-notra-neo-recorder",
-      "type": "image",
-      "src": "pipeline/media/gadgets-boya-notra-neo-recorder.jpg"
-    },
-    {
-      "id": "gadgets-voxel1-tidy-robot",
-      "type": "video",
-      "src": "pipeline/media/gadgets-voxel1-tidy-robot.mp4",
-      "poster": "pipeline/media/gadgets-voxel1-tidy-robot.jpg"
-    },
-    {
-      "id": "gadgets-garmin-ciq-ai-slop",
-      "type": "image",
-      "src": "pipeline/media/gadgets-garmin-ciq-ai-slop.jpg"
-    }
-  ]
-}
+{"date":"2026-10-22","section":"gadgets","media":[
+{"id":"gadgets-hue-ai-behaviors","type":"image","src":"pipeline/media/gadgets-hue-ai-behaviors.jpg"},
+{"id":"gadgets-gm-onstar-ai","type":"image","src":"pipeline/media/gadgets-gm-onstar-ai.jpg"},
+{"id":"gadgets-unitree-h2x","type":"video","src":"pipeline/media/gadgets-unitree-h2x.mp4","poster":"pipeline/media/gadgets-unitree-h2x.jpg"},
+{"id":"gadgets-timekettle-livetalk","type":"image","src":"pipeline/media/gadgets-timekettle-livetalk.jpg"},
+{"id":"gadgets-speakon-button","type":"image","src":"pipeline/media/gadgets-speakon-button.png"}
+]}

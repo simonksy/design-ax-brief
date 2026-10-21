@@ -8477,6 +8477,139 @@
           "x": "うまく動けば、スクロールは未来のように感じられる。Translationは賢く、Navigationは便利で、AIも十分に速い。ただしConversateの会議メモは結論を導き出すのに苦労する。レビュアーは今も販売終了したG1のほうを好む。"
         }
       ]
+    },
+    "gadgets/gadgets-gm-onstar-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-AI-Assistant.jpg?resize=1200,624"
+        },
+        {
+          "t": "p",
+          "x": "General Motorsは、30年前に始めたサブスクリプション型コネクテッドカーサービスOnStarの大幅な刷新の一環として、パーソナルAIアシスタントを追加する。同社はニューヨークで開いたGM Forwardイベントで、OnStar AI Assistantが今後数カ月のうちに2027 Cadillac Lyriq EVでデビューし、その後ほかのGM車にも広がると述べた。"
+        },
+        {
+          "t": "p",
+          "x": "2027年に登場する新しいOnStarモバイルアプリは車内ソフトウェアと同期し、OnStar GuardianアプリとBuick、Cadillac、Chevrolet、GMCの各ブランドアプリを置き換える。GoogleのDialogflowやGeminiを基盤としたこれまでの取り組みと異なり、このアシスタントはエージェント型AIを中心に据えた自社開発だ。"
+        },
+        {
+          "t": "img",
+          "src": "https://techcrunch.com/wp-content/uploads/2026/10/OnStar-Mobile-App-Stills.jpg?w=1200"
+        },
+        {
+          "t": "p",
+          "x": "車両カメラはライブ映像を提供し、攻撃的なクラクションなど差し迫った事態を車が察知すると自動で起動して、録画をアプリにアップロードする。ドライバーは音声で空調などの機能を操作でき、車のあらゆる機能について質問もできる。"
+        },
+        {
+          "t": "p",
+          "x": "データ共有をめぐるFTCの命令を受け、GMは、どのデータを共有するかは顧客が決め、録画は暗号化されて保存期間が限られ、GMもOnStarもConnected Cameraの録画にはアクセスできないと説明した。"
+        }
+      ]
+    },
+    "gadgets/gadgets-unitree-h2x": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "Y3zb4o47yqA"
+        },
+        {
+          "t": "p",
+          "x": "Unitreeは、H2プラットフォームをベースに警備用として設計した、Robocopを思わせるヒューマノイド「H2-X Kung Fu Legend Guardian」を公開した。一分間のティーザーでは、ロボットがスクラップ置き場で車に膝蹴りやパンチを浴びせ、強盗未遂の場面で持ち主の前に飛び出し、車を持ち上げて下敷きになった人を助け出す様子が映っている。"
+        },
+        {
+          "t": "p",
+          "x": "Unitreeは、高さ四メートルの台から飛び降りられることと、充電なしで「約八時間」立っていられること以外、仕様をほとんど明らかにしていない。似た機種のH2は身長1.8メートルのヒューマノイドで、Nvidia Jetson AGX Thorチップをオプションで搭載でき、価格は$29,900だ。"
+        },
+        {
+          "t": "p",
+          "x": "H2-Xが一般販売される可能性は低く、価格や発売時期の詳細も出ていない。個人用ボディーガードロボットにとって、消費者向け認証は大きなハードルになるだろう。これとは別に、Unitree、Nvidia、Sharpaは次世代の「身体性知能」ロボットに向けたH2+の設計図に取り組んでいる。"
+        }
+      ]
+    },
+    "gadgets/gadgets-timekettle-livetalk": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Timekettle-LiveTalk-AI-Translation-Earbuds-case-closed-1.jpg",
+          "cap": "Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "Timekettle LiveTalkは普通のオープン型イヤホンのように見え、実際にそのとおり機能する。音質は良く、再生時間は8時間、ケース併用で35時間、価格は$129だ。さらに54言語と108のアクセントを翻訳でき、25の言語ペアはオフラインでも使える。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-2.jpg",
+          "cap": "Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "アプリにはFace to Face、Live Listening、Voice Call Translation、Multi-Media Translationの四つのモードがある。対面翻訳は非常にうまく機能した。ライブリスニングは話者から約10–15秒遅れた。iPhone標準のPhoneアプリでの通話は不安定だったが、WhatsApp、Messenger、Discord、Androidでは完璧に動いた。デバイスで再生される音声を何でも翻訳するMulti-Mediaモードが最もスムーズだった。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2026/10/Woman-using-Timekettle-LiveTalk-6.jpg",
+          "cap": "Edgar Cervantes / Android Authority"
+        },
+        {
+          "t": "p",
+          "x": "試験的なAI Language Tutorは、コーヒーの注文や就職面接といった場面を英語、スペイン語、中国語でロールプレイする。無料プランには月200分のライブ翻訳が含まれ、Unlimitedは月$9.99だ。"
+        }
+      ]
+    },
+    "gadgets/gadgets-speakon-button": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Device_Black.png",
+          "cap": "SpeakON"
+        },
+        {
+          "t": "p",
+          "x": "人前でスマートフォンに話しかければ、今も多少は奇妙な目で見られるかもしれない。それでもSpeakONは、タイピングより優れた選択肢だと考えている。同社は、磁気式iPhoneアクセサリー向けのAI-powered機能「SpeakON Agent」を発表した。ハードウェアは、iPhoneの背面に貼り付く小さな磁気ボタンである。押して話し始めれば、ソフトウェアが音声を整ったテキストに変換する — 端末のロックを解除したり、アプリを切り替えたりする必要もない。"
+        },
+        {
+          "t": "p",
+          "x": "会議やアイデア、覚えておきたいことをAgentに話すと、考えをメモやリスト、さらにリマインダーの設定やメールの下書きといった提案アクションに整理してくれる。ただし、次に何を実行するかは利用者が承認する必要がある。Smart Polishはumsやahsといった言いよどみを取り除き、別の機能はアプリごとに文体を調整する。12言語の翻訳、カスタム語彙、オフライン録音にも対応する。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/SpeakON_Translation12.png",
+          "cap": "SpeakON"
+        },
+        {
+          "t": "p",
+          "x": "同社は10時間以上の連続バッテリー駆動をうたっている。SpeakONはUS（米国）で$129で販売されている。iPhonesはすでに音声コマンドを理解するが、音声入力に専用ボタンを与えるという発想は興味深い。"
+        },
+        {
+          "t": "video",
+          "yt": "ex-r8xRSIYE"
+        }
+      ]
+    },
+    "gadgets/gadgets-perplexity-mac-local": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.engadget.com/img/gallery/perplexity-makes-it-easier-to-run-entire-ai-workflows-entirely-on-your-own-mac/l-intro-1792510842.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Perplexityは9月初め、Computerアプリのアップデート「Hybrid Compute」を導入し、AIの処理をフロンティアモデルとローカルモデルに振り分けられるようにした。今回はプラットフォーム全体を自分の端末だけで動かせるようにする。"
+        },
+        {
+          "t": "p",
+          "x": "36GB以上のRAMを搭載した最新のApple Silicon Macがあれば、ハーネスやオーケストレーターを含むComputerの体験全体を手元のマシンで実行できる。Perplexityは、出費を抑えたい人やデータを手元に置きたい人に利点があると説明する。NotesとMailにアクセスすれば、メールのデータをクラウドに送らずに優先度付きのやることリストを作れるという。同社は「機密データとクレジット消費をユーザーがより管理しやすくなる」としている。"
+        },
+        {
+          "t": "p",
+          "x": "ローカルモデルは二つから選べる。Qwen 3.6か、Qwen 3.6をComputer向けに追加学習したPerplexity独自のPPLX Proだ。フロンティアモデルが向くタスクなら、15を超えるモデルのいずれかを呼び出すことを許可できる。コードやツールの実行はすべて隔離されたサンドボックス内で行われる。"
+        },
+        {
+          "t": "p",
+          "x": "Perplexity Pro、Max、Enterpriseの加入者は本日から、最新のPerplexity Macアプリをインストールし、アプリ内の案内に従ってローカルモデルをダウンロードすれば、Computerをローカルで使い始められる。"
+        }
+      ]
     }
   }
 }

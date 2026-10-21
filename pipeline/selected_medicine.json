@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "medicine",
   "user_selection": null,
   "picks": [
@@ -9,14 +9,14 @@
       "category": "medicine",
       "accent": "#00897b",
       "motif": "sphere",
-      "title": "Can one photo of your face reveal how ill you are?",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo",
-      "source": "BBC News",
-      "published_iso": "2026-10-20T07:29:01Z",
-      "og_image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/56c3/live/041be760-c945-11f1-9357-bdb8a3cad3e4.jpg",
-      "excerpt": "US researchers report a foundation AI model (FAHR-Face, Lancet Digital Health) that may help doctors judge how ill a patient is from a single photograph of their face.",
+      "title": "Epic launches Connectors to link its AI tools with third-party apps",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/epic-launches-connectors-link-its-ai-tools-third-party-apps",
+      "source": "Fierce Healthcare",
+      "published_iso": "2026-10-21T08:00:00-0400",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+      "excerpt": "Epic launched a new capability that lets its artificial intelligence agents access information and perform tasks in third-party applications. Through \"Connectors,\" developers can connect their apps to Epic's AI tools (Emmie, Art and Penny) as well as custom AI agents organizations create through Agent Factory.",
       "lang": "en",
-      "rationale": "A Lancet Digital Health foundation model, FAHR-Face, that estimates how ill a patient is from one face photo, aimed at clinicians' bedside judgement. Nothing like it appears in the 30-day history."
+      "rationale": "Epic's new Connectors let its clinician and patient AI agents (Art, Emmie, Penny) act inside third-party apps, a product release that reaches care teams at the largest EHR vendor. No Epic story appears in the 30-day history."
     },
     {
       "rank": 2,
@@ -24,14 +24,14 @@
       "category": "medicine",
       "accent": "#0070f3",
       "motif": "sphere",
-      "title": "미 소아 자폐 진단 AI 승인",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013789",
+      "title": "복지부·WHO, AI 헬스케어 서울선언문 채택...의료 AI 최종 판단은 인간이",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014484",
       "source": "의학신문",
-      "published_iso": "2026-10-15T12:00:00+09:00",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3013789_414694_5639.png",
-      "excerpt": "아거스 코그니티브의 18개월~12세 소아 대상 자폐 스펙트럼 장애 진단 AI 소프트웨어가 미국 FDA 승인을 받았다.",
+      "published_iso": "2026-10-21T13:57:02+09:00",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
+      "excerpt": "보건복지부와 세계보건기구(WHO)가 보건의료 분야 AI 활용 과정에서 의료인의 감독과 인간의 최종 판단을 보장하는 내용의 AI 헬스케어 서울선언문을 채택했다.",
       "lang": "ko",
-      "rationale": "An FDA authorization for Argus Cognitive's AI that diagnoses autism in children aged 18 months to 12 years, so it reaches regulators directly. The full URL (idxno=3013789) and the autism topic are absent from the history."
+      "rationale": "An official declaration adopted by Korea's health ministry and the WHO that requires clinician oversight and a final human judgement for healthcare AI, so it reaches regulators directly. The full URL (idxno=3014484) is new, and no WHO or Seoul-declaration story appears in the history."
     },
     {
       "rank": 3,
@@ -39,14 +39,14 @@
       "category": "medicine",
       "accent": "#f5a623",
       "motif": "sphere",
-      "title": "Robotic therapy for stroke patients",
-      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
-      "source": "MIT Technology Review",
-      "published_iso": "2026-10-20T17:00:00-04:00",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-173725.png",
-      "excerpt": "An adaptive physical rehab system uses generative AI to learn from physical therapists and offer personalized support to stroke patients.",
+      "title": "A Generative AI-powered navigation system for precision CBCT-guided lung biopsies: a randomized controlled trial",
+      "url": "https://www.nature.com/articles/s41746-026-03355-1",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-10-21T00:00:00Z",
+      "og_image": "",
+      "excerpt": "Lung puncture biopsy is the gold standard for diagnosing lung nodules, but poor CBCT image quality and limited guidance intelligence slow procedures. This randomized controlled trial tests a generative-AI navigation system for CBCT-guided lung biopsies.",
       "lang": "en",
-      "rationale": "An adaptive robotic rehab system that learns from physical therapists to deliver personalized stroke rehabilitation, an AI tool used with patients. It is a different disease and modality from the 10-08 Parkinson's telerehab trial."
+      "rationale": "A randomized controlled trial of generative-AI navigation during CBCT-guided lung nodule biopsy, which is interventional AI tested on patients. It differs from the 10-17 lung-screening EHR identification card in both procedure and evidence type."
     },
     {
       "rank": 4,
@@ -54,14 +54,14 @@
       "category": "medicine",
       "accent": "#7928ca",
       "motif": "sphere",
-      "title": "Expertise modulates automation bias and sentinel behavior in human-AI collaborative diagnosis of neonatal pneumoperitoneum",
-      "url": "https://www.nature.com/articles/s41746-026-03399-3",
-      "source": "npj Digital Medicine",
-      "published_iso": "2026-10-20T00:00:00Z",
-      "og_image": "",
-      "excerpt": "Tests the assumption that AI sensitivity plus clinician oversight adds up: in neonatal pneumoperitoneum diagnosis, clinician expertise shaped automation bias and whether readers caught AI errors.",
+      "title": "Avenda Health adds intraoperative Surgery Mode to Unfold AI",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15837947/avenda-avenda-health-adds-intraoperative-surgery-mode-to-unfold-ai",
+      "source": "AuntMinnie",
+      "published_iso": "2026-10-20T20:51:49.000Z",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200",
+      "excerpt": "Avenda Health added an intraoperative Surgery Mode to Unfold AI, letting surgeons use AI-generated prostate cancer maps built from a patient's MRI, biopsy and other data during procedures.",
       "lang": "en",
-      "rationale": "Finds that clinician expertise determines whether readers catch AI errors or defer to them in neonatal pneumoperitoneum diagnosis, which bears on how human oversight of diagnostic AI is designed. It asks a different question from the 10-14 neonatal continual-learning study."
+      "rationale": "A new Surgery Mode in Avenda's Unfold AI that brings AI-built prostate cancer maps into the operating room, a product release used by surgeons. The earlier prostate cards (RadNet biopsy avoidance on 10-10, MRI detection parity on 10-14) covered diagnosis rather than intraoperative use."
     },
     {
       "rank": 5,
@@ -69,44 +69,44 @@
       "category": "medicine",
       "accent": "#eb367f",
       "motif": "sphere",
-      "title": "Why teaching AI about symmetry could make prenatal diagnosis more reliable",
-      "url": "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019",
-      "source": "MIT News",
-      "published_iso": "2026-10-19T18:20:00Z",
-      "og_image": "https://news.mit.edu/sites/default/files/images/202609/mit-jameel-clinic-fetal-brain.jpg",
-      "excerpt": "A new AI model called E(3)-Pose helps capture high-resolution images of a fetus's head to improve early detection of developmental anomalies during pregnancy.",
+      "title": "Multi-site real-world performance of commercial AI for pulmonary and incidental pulmonary embolism detection",
+      "url": "https://www.nature.com/articles/s41746-026-03418-3",
+      "source": "npj Digital Medicine",
+      "published_iso": "2026-10-21T00:00:00Z",
+      "og_image": "",
+      "excerpt": "A retrospective multi-site evaluation of two FDA-cleared Aidoc BriefCase algorithms, one for PE triage on dedicated CT pulmonary angiography and one for incidental PE, characterizing their real-world performance.",
       "lang": "en",
-      "rationale": "E(3)-Pose, a symmetry-aware model that steers high-resolution fetal head imaging toward earlier detection of developmental anomalies in prenatal care. No prenatal or fetal-imaging story appears in the history, and the pick adds a fifth outlet."
+      "rationale": "A multi-site real-world check of two FDA-cleared Aidoc pulmonary embolism algorithms already in clinical use, which tells radiology departments how deployed AI performs outside its clearance data. No PE or Aidoc story appears in the history."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo": {
+      "https://www.fiercehealthcare.com/ai-and-machine-learning/epic-launches-connectors-link-its-ai-tools-third-party-apps": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41591-026-04626-w",
+        "nearest": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-university-texas-system-enter-enterprise-wide-agreement-expanded-ai",
         "new_action": ""
       },
-      "https://www.bosa.co.kr/news/articleView.html?idxno=3013789": {
+      "https://www.bosa.co.kr/news/articleView.html?idxno=3014484": {
         "verdict": "new",
-        "nearest": "https://radiologybusiness.com/topics/medical-imaging/diagnostic-imaging/fda-clears-ai-tool-pediatric-bone-age-assessments",
+        "nearest": "https://www.gov.uk/government/news/government-backs-recommendations-of-nhs-doctors-led-ai-commission",
         "new_action": ""
       },
-      "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/": {
+      "https://www.nature.com/articles/s41746-026-03355-1": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41746-026-03339-1",
+        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/radiology-department-uses-ai-identify-lung-cancer-screening-patients-ehr",
         "new_action": ""
       },
-      "https://www.nature.com/articles/s41746-026-03399-3": {
+      "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15837947/avenda-avenda-health-adds-intraoperative-surgery-mode-to-unfold-ai": {
         "verdict": "new",
-        "nearest": "https://www.nature.com/articles/s41551-026-01812-6",
+        "nearest": "https://www.auntminnie.com/clinical-news/mri/news/15837355/ai-on-par-with-radiologists-for-finding-prostate-cancer-on-mri",
         "new_action": ""
       },
-      "https://news.mit.edu/2026/teaching-ai-about-symmetry-could-make-prenatal-diagnosis-more-reliable-1019": {
+      "https://www.nature.com/articles/s41746-026-03418-3": {
         "verdict": "new",
-        "nearest": "",
+        "nearest": "https://radiologybusiness.com/topics/artificial-intelligence/widespread-ai-adoption-private-practice-produces-measurable-efficiency-gains",
         "new_action": ""
       }
     },
-    "note": "Dropped as duplicates: (1) BMJ Utah/Nolla AI prescriptions (history_match related to the 10-07 Healthcare Dive Utah pilots) is part of the running Utah health-AI sandbox story and reports no new decision of its own; it was also dropped on 10-20. (2) STAT 'AI sandboxes' (related to the 10-07 Utah card) is a newsletter on the same state-sandbox regulation story as the 10-15 STAT lobbyists card; it was also dropped on 10-20. Not picked on judgement: (3) Medigate Lunit HER2/AIforHER at ESMO (history_match related to the 10-20 Dailypharm Lunit SITC card). On content it is a distinct announcement (a different congress, HER2 with AstraZeneca/Daiichi Sankyo, versus SITC ovarian/bladder IO response), so it is not a strict duplicate. It was held back because a second same-company conference-abstract card one day later adds little; use it if a backfill is needed. Not picked on merit: two Cardiovascular Business AI items (an off-list exception domain; there were AI-ECG cards on 10-19 and 10-20); GUARD-LGG and the rTMS RL paper (would make a second npj card); AuntMinnie Choosing Wisely LLMs (close in theme to the 10-17 NEJM AI LLM cost-of-care card); Stanford HAI benchmark retrospective, WIRED genome feature, NEJM AI SAIL perspective and medulloblastoma case study (commentary or single case); Samsung IHF keynote (commentary); bosa Ajou CT lung IO biomarker (Oct 14, weaker than the autism FDA item from the same outlet). Diversity: 5 distinct outlets, one per outlet; no pathogen or biosecurity content."
+    "note": "Dropped as duplicates: (1) STAT Clairity direct-to-patient breast cancer risk AI (Oct 8, history_match related) is the same Clairity consumer-access story published 10-08 via AuntMinnie/Everlywell, and it is also stale. (2) Ars Technica OpenEvidence '$15B ad-powered startup' is a feature on the running OpenEvidence story (10-16 JAMA usage study card) with no new release or decision. Not picked on judgement: Doximity adds UpToDate to Ask (history_match related to the 10-09 Suki/UpToDate Ask card). It is a distinct partnership and not a strict duplicate, but it is the same UpToDate-in-AI-CDS pattern and would be a second Fierce product card next to Epic; use it if a backfill is needed. Also not picked on merit: Elucid FFR-IQ FDA clearance (cardiovascularbusiness.com is not on the medicine allowed_domains list; a valid backfill if the orchestrator accepts the domain); MedCity FDA official interview and AMA GenAI oversight comments (commentary and a comment letter; the AMA item continues the 10-16 AMA governance framework thread); JAMA Psychiatry LLM viewpoint (commentary); JAMA Psychiatry MDD relapse ML, Barrett's foundation-model ensemble, RSNA BT-RADS agentic scoring and Gut ROSE AI (solid research, but npj already holds 2 slots and these are lower priority); Radiology Business pulmonary fibrosis CT tool; 화순전남대 AI 의무기록 (a hospital EMR deployment close to the 10-19 bosa BITMate AI EMR card, and it would be a second bosa card); 필립스 X-ray (vendor promotion); 청년의사 IHF 병원 AI 명과 암 (conference commentary, same congress as the IHF keynote dropped 10-21); Microsoft NHS ambulance (vendor feature); AuntMinnie turnaround times (Oct 8, stale); NEJM AI medulloblastoma case study and up-front workup editorial (single case and editorial). Diversity: 4 outlets (npj Digital Medicine x2, Fierce, 의학신문, AuntMinnie). Types are spread: a product release, a regulator declaration, an RCT, a surgical feature and a real-world evaluation. bosa URLs were compared in full including idxno. No pathogen or biosecurity content."
   }
 }

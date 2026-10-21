@@ -8512,6 +8512,140 @@
           "x": "Skeptics note Eko’s “soul” file called it “naturally curious,” and it often stood idle until prompted to continue. “It could be the case that the models are genuinely playing, but we don’t know based on the paper,” says UC Berkeley’s Eunice Yiu."
         }
       ]
+    },
+    "science/science-krict-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+          "cap": "A researcher's natural-language input is converted by an LLM to guide Bayesian optimization, with results fed back."
+        },
+        {
+          "t": "p",
+          "x": "A team at the Korea Research Institute of Chemical Technology (KRICT), led by Dr. Gwang-Noh Ahn, has built a human-in-the-loop optimization framework for self-driving laboratories."
+        },
+        {
+          "t": "p",
+          "x": "A large language model converts a researcher's plain-language guidance into structured priors and constraints that Bayesian optimization can use. A component called adaptive weight credibility detection (AWCD) checks whether that guidance matches the experimental data and switches off priors the data contradict."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+          "cap": "AWCD disables misleading guidance once contradicting data accumulate."
+        },
+        {
+          "t": "p",
+          "x": "In simulations based on real data, experiments needed to reach a target fell from about 30 to fewer than 10 for Ugi reactions, and from about 20 to 3–5 for P3HT-CNT composites. The team also released an interactive \"Co-Scientist\" interface for adjusting experiments through dialogue; physical lab validation is still planned."
+        },
+        {
+          "t": "p",
+          "x": "The work, with Amirreza Mottafegh as first author, appears in the Journal of Chemical Information and Modeling."
+        }
+      ]
+    },
+    "science/science-fairstress": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 introduced FairStress, a benchmark for measuring demographic fairness in LLMs beyond the choice a model ultimately makes. Arriving at the same answer in two versions of a scenario can hide meaningful differences, so it also tests whether persuasive \"adversarial prefixes\" shift decisions differently by group."
+        },
+        {
+          "t": "p",
+          "x": "It spans 300 two-candidate scenarios across 29 domains, from hiring and healthcare to lending and criminal justice, producing more than 13 million test cases; a 50K-item FairStress-Core subset is also released."
+        },
+        {
+          "t": "p",
+          "x": "Without demographic information, behavior was roughly symmetric. As identity became more explicit, it grew less so: models more readily abandoned a correct choice when that favored a minority-coded candidate, an \"anti-stereotypical over-correction.\" Frontier models picked minority-coded candidates about 60–65% of the time in ambiguous cases."
+        },
+        {
+          "t": "p",
+          "x": "Explanations differed too, giving favored candidates' qualifications less recognition. Of nine debiasing interventions, only counterfactual chain-of-thought narrowed the gap while largely preserving accuracy."
+        }
+      ]
+    },
+    "science/science-sodium-ion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+          "cap": "Visual abstract. Credit: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+        },
+        {
+          "t": "p",
+          "x": "University of Surrey researchers created a library of 28 sodium manganese oxide cathode compositions, partly substituting manganese with iron, titanium and vanadium."
+        },
+        {
+          "t": "p",
+          "x": "Iron was linked to higher energy capacity, vanadium to better cycling stability, and small amounts of titanium to better high-rate performance; some titanium-containing compositions kept over 90% of their capacity after 100 cycles."
+        },
+        {
+          "t": "p",
+          "x": "The team used the data to train a machine-learning model, though the library is still too small for reliable predictions. Expanding it could eventually let AI suggest promising compositions before lab testing. \"Sodium is far more abundant\" than lithium, noted corresponding author Dr. Daniel Commandeur."
+        },
+        {
+          "t": "p",
+          "x": "The study is published in the Journal of Materials Chemistry A."
+        }
+      ]
+    },
+    "science/science-glucose-sensing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+          "cap": "Credit: Eugenio Marongiu/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Accurate glucose monitoring has long been a bottleneck in fed-batch fermentation, and off-line sensors lack the high-frequency, low-latency readings that hybrid and continuous bioprocessing need."
+        },
+        {
+          "t": "p",
+          "x": "Researchers led by Xiwei Tian of East China University of Science and Technology and Yinlan Ruan of Guilin University of Electronic Technology built DS-CAT, a dual-stream, cross-attention transformer that encodes Raman and NIR spectra separately and fuses them, pairing Raman's chemical fingerprints with NIR's broad coverage."
+        },
+        {
+          "t": "p",
+          "x": "On 142 synchronized Raman-NIR records, it explained 99% of glucose variation (RMSE 1.09 g/L, MAE 0.89 g/L), held up across five-fold validation, and outperformed partial least squares, gradient boosting trees, CNNs and temporal convolutional networks. The 1122–1335 cm⁻¹ Raman interval showed the strongest prediction sensitivity."
+        },
+        {
+          "t": "p",
+          "x": "The work appears in Bioprocess and Biosystems Engineering."
+        }
+      ]
+    },
+    "science/science-flip-lunar-supercomputer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+          "cap": "Astrolab's FLIP rover in the clean room."
+        },
+        {
+          "t": "p",
+          "x": "Later this year, Astrolab will launch its uncrewed FLIP rover to the lunar south pole on Astrobotic's Griffin-1 mission. On board is HPE's Spaceborne Computer-4, a lightweight, fanless module with a low-power 64-bit CPU and a GPU, paired with KIOXIA solid-state drives."
+        },
+        {
+          "t": "p",
+          "x": "\"We're sending the first supercomputer from HPE to the lunar surface later this year, doing the first GPU on the moon [and the] first AI experiments on the moon,\" Astrolab CEO Jaret Matthews said. It will be the first test of high-performance computing and AI on the lunar surface."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+          "cap": "Images from Astrolab (Image credit: Chelsea Gohd)"
+        },
+        {
+          "t": "p",
+          "x": "The flight will first test how the computer survives the extreme environment. It will also analyze visual data, enable autonomous observations and process navigation, mapping and terrain analysis; HPE says an AI services container will demonstrate scalable AI applications on the moon."
+        },
+        {
+          "t": "p",
+          "x": "One experiment is a JPL localization program used on Mars: with no GPS, a machine learning algorithm matches local terrain to a stored map to keep the rover away from dangerous craters."
+        }
+      ]
     }
   }
 }

@@ -1,32 +1,7 @@
-{
-  "date": "2026-10-21",
-  "section": "games",
-  "media": [
-    {
-      "id": "games-gemini-agents-ender-dragon",
-      "type": "image",
-      "src": "pipeline/media/games-gemini-agents-ender-dragon.jpg"
-    },
-    {
-      "id": "games-vivrato-vaia-ai-report",
-      "type": "image",
-      "src": "pipeline/media/games-vivrato-vaia-ai-report.jpg"
-    },
-    {
-      "id": "games-spookitchen-demo-ai-copycat",
-      "type": "video",
-      "src": "pipeline/media/games-spookitchen-demo-ai-copycat.mp4",
-      "poster": "pipeline/media/games-spookitchen-demo-ai-copycat.jpg"
-    },
-    {
-      "id": "games-ai-mashup-launcher-tos",
-      "type": "image",
-      "src": "pipeline/media/games-ai-mashup-launcher-tos.jpg"
-    },
-    {
-      "id": "games-ai-laws-studio-legal-map",
-      "type": "image",
-      "src": "pipeline/media/games-ai-laws-studio-legal-map.jpg"
-    }
-  ]
-}
+{"date":"2026-10-22","section":"games","media":[
+{"id":"games-raon1mini","type":"image","src":"pipeline/media/games-raon1mini.jpg"},
+{"id":"games-molleindustria","type":"video","src":"pipeline/media/games-molleindustria.mp4","poster":"pipeline/media/games-molleindustria.jpg"},
+{"id":"games-vibecoding-webgame","type":"image","src":"pipeline/media/games-vibecoding-webgame.jpg"},
+{"id":"games-pgc-nordics","type":"image","src":"pipeline/media/games-pgc-nordics.jpg"},
+{"id":"games-xbox-ai-manager","type":"image","src":"pipeline/media/games-xbox-ai-manager.jpg"}
+]}

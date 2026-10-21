@@ -1,109 +1,107 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "section": "design",
   "user_selection": null,
   "picks": [
     {
       "rank": 1,
-      "title": "Adobe Lightroom mobile can now open closed eyes in photos with a simple tap",
-      "url": "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-actions-open-eyes",
-      "source": "The Verge",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#f5a623",
-      "motif": "sphere",
-      "published_iso": "2026-10-20T13:06:44Z",
-      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/lightroom1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-      "excerpt": "Lightroom for iOS, iPadOS and Android adds a one-tap generative-AI Open Eyes fix that matches lighting and pose using other shots of the same person; free users get limited tries.",
-      "rationale": "A new one-tap generative fix in Lightroom mobile that photographers and image-makers can use right away. It is a different feature from the 9/28 Lightroom-in-Gemini story and the 10/05 Prompt to Edit story."
-    },
-    {
-      "rank": 2,
-      "title": "ChatGPT Slides lets users create, edit and present decks without leaving ChatGPT",
-      "url": "https://www.digitaltrends.com/computing/chatgpt-wants-to-steal-your-job-as-the-office-powerpoint-person/",
-      "source": "Digital Trends",
+      "title": "Figma embraces new AI paradigm but expresses reservations",
+      "url": "https://dev.to/hacksgr/figma-embraces-new-ai-paradigm-but-expresses-reservations-39n7",
+      "source": "DEV Community",
       "category": "figma",
       "tool": "Figma",
       "accent": "#0070f3",
       "motif": "frame",
-      "published_iso": "2026-10-20T12:24:51Z",
-      "og_image": "https://www.digitaltrends.com/tachyon/2026/08/ChatGPT-logo-on-iPhone.jpg?resize=1200%2C630",
-      "excerpt": "OpenAI's new ChatGPT Slides turns conversations, uploaded files, outlines or a sample deck into an editable presentation, generating custom images and refining text, visuals and charts, with live team editing and PowerPoint export.",
-      "rationale": "A new OpenAI deck-building product with live co-editing and PowerPoint export, which changes how decks get made. It is a different product from yesterday's Gemini Notebook slides card."
+      "published_iso": "2026-10-21T00:06:31Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp",
+      "excerpt": "Figma co-founder Dylan Field called MCP incomplete and tilted toward big AI labs even as Figma added 20 MCP partners (Notion, ClickUp, Linear) at its India event. Repost of hacks.gr; original reporting by TechCrunch (2026-10-20).",
+      "rationale": "Hard Figma news: 20 new MCP partners (Notion, ClickUp, Linear) announced at its India event, plus Dylan Field's public critique of MCP. No Figma MCP partner story appears in the 30-day history. The card is a repost, so enrichment should cite TechCrunch's 10-20 report as the original."
     },
     {
-      "rank": 3,
-      "title": "Neural Concept launches MCP to help AI agents operate commercial CAD tools",
-      "url": "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/",
-      "source": "SiliconANGLE",
+      "rank": 2,
+      "title": "Europe's Industrial Leaders Reinvent Engineering and Manufacturing With NVIDIA",
+      "url": "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/",
+      "source": "NVIDIA Blog",
       "category": "cad",
       "tool": "Text-to-CAD",
       "accent": "#7928ca",
       "motif": "cube",
-      "published_iso": "2026-10-19T16:00:00Z",
-      "og_image": "https://images.siliconangle.com/blogs.dir/1/files/2026/04/A-semitransparent-AI-agent-hand-touching-a-computer-screen-doing-work-with-a-user-interface-abstract.jpeg",
-      "excerpt": "Neural Concept's Model Context Protocol Bridge lets AI agents drive commercial CAD and simulation tools, automating geometry cleanup and meshing steps in product design cycles.",
-      "rationale": "A new MCP bridge from Neural Concept that lets agents drive commercial CAD and simulation tools. It is a separate vendor and release from the 9/24 Multiphysics MCP and 10/03 ClassCAD stories."
+      "published_iso": "2026-10-21T10:30:40Z",
+      "og_image": "https://blogs.nvidia.com/wp-content/uploads/2026/10/European-Leaders-Industrial-Manufacturing-2.jpg",
+      "excerpt": "At GTC Berlin, Autodesk brings PhysicsNeMo and Warp into NavPack integrated with Autodesk Alias so Bentley designers can predict vehicle performance with simulation-trained AI, and Dassault's CATIA/SIMULIA AI agents design and virtually test car doors.",
+      "rationale": "New GTC Berlin announcements: physics AI built into Autodesk Alias for Bentley's designers, and CATIA agents that design and test car doors. This is a separate event from the 10-14 RTX Spark, 10-18 Adobe x NVIDIA and 10-10 SimReady cards."
     },
     {
-      "rank": 4,
-      "title": "DxO ViewPoint 6 introduces AI masking, but maintains that no AI image generation takes place",
-      "url": "https://www.digitalcameraworld.com/tech/software/wonky-photos-of-buildings-begone-dxo-viewpoint-6-introduces-ai-masking-but-maintains-that-no-ai-image-generation-takes-place",
-      "source": "Digital Camera World",
-      "category": "render",
-      "tool": "KeyShot",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "published_iso": "2026-10-20T13:22:04Z",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/pXoEvbQLG8zSwfkXY97L5Q-2560-80.jpg",
-      "excerpt": "DxO's perspective/geometry-correction tool ViewPoint 6 adds AI masking while stressing it does no generative image creation.",
-      "rationale": "A new version release: AI masking arrives in DxO's perspective-correction tool, with no generative content, which matters to architecture and product photographers who must avoid generated pixels.",
-      "swap": true
-    },
-    {
-      "rank": 5,
-      "title": "Human attention is the new old bottleneck. We have to design for it even more.",
-      "url": "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a",
-      "source": "UX Collective",
+      "rank": 3,
+      "title": "Even designers are now using AI to code Windows 11, and Microsoft says \"we're only getting started\"",
+      "url": "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/",
+      "source": "Windows Latest",
       "category": "workflow",
       "tool": "AI Workflow",
       "accent": "#ff5a4d",
       "motif": "frame",
-      "published_iso": "2026-10-19T21:39:26Z",
-      "og_image": "https://cdn-images-1.medium.com/max/1024/1*sE14LY9q2J83iqFOPTgcmg.png",
-      "excerpt": "Reading Anthropic's Oct 16 study (agents now log six hours for every human hour), the piece argues designers' job shifts to building judgement systems for what deserves human attention.",
-      "rationale": "A design-practice read of fresh Anthropic data (six agent hours per human hour) that reframes the designer's job as deciding what deserves human attention. No earlier design card covers this study.",
-      "swap": true
+      "published_iso": "2026-10-20T08:17:40Z",
+      "og_image": "https://www.windowslatest.com/wp-content/uploads/2026/10/Microsoft-confirms-designers-are-using-AI-to-fix-Windows-11.jpg",
+      "excerpt": "Microsoft's Diego Baca says Windows 11 designers are now making code fixes themselves with AI as Search, Run and Photos are rebuilt in native UI - an in-house design-org AX case. Off-list outlet (no on-list coverage).",
+      "rationale": "A concrete workflow shift at a major design org: Windows 11 designers now ship their own code fixes with AI. That is a named, on-the-record case, not an essay."
+    },
+    {
+      "rank": 4,
+      "title": "I built a Claude Code skill that de-slops AI-generated web design",
+      "url": "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn",
+      "source": "DEV Community",
+      "category": "tokens",
+      "tool": "Design Tokens",
+      "accent": "#2ec5c5",
+      "motif": "swatch",
+      "published_iso": "2026-10-21T19:44:23Z",
+      "og_image": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fscroodb62eav32be6wq3.png",
+      "excerpt": "design-slop-skill is an open Claude Code skill that deterministically detects the 'AI look' in generated pages (huge radii, glassmorphism, red-purple gradients, dark-only, 64px centered heroes) and rewrites them toward human-crafted defaults.",
+      "rationale": "A new open-source tool that designers can install tomorrow. It flags the 'AI look' in generated pages and rewrites it toward human-crafted defaults. It is a different release from Anthropic's frontend-design skill (10-09) and from the 9-30 de-slopify essay."
+    },
+    {
+      "rank": 5,
+      "title": "Food Delivery App Apologizes for AI-Generated Menu Photos Showing Bacon Floating in Soda",
+      "url": "https://petapixel.com/2026/10/21/just-eat-food-delivery-app-apologizes-for-ai-generated-menu-photo-showing-bacon-floating-in-soda/",
+      "source": "PetaPixel",
+      "category": "workflow",
+      "tool": "AI Workflow",
+      "accent": "#3b6bff",
+      "motif": "frame",
+      "published_iso": "2026-10-21T12:43:16Z",
+      "og_image": "https://petapixel.com/assets/uploads/2026/10/bacon-and-egg-ai-generated.jpg",
+      "excerpt": "Just Eat apologized after inaccurate AI-generated menu photos, including bacon and eggs floating in a soda, appeared on its app - a brand-imagery cautionary tale for AI-made food photography. Off-list outlet; date/image from PetaPixel RSS (page 403s).",
+      "rationale": "A real brand incident and public apology over AI-generated product imagery, a direct QA warning for designers who ship AI visuals at scale. It is unrelated to the 10-20 PetaPixel false-memories study."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.theverge.com/tech/1014246/adobe-lightroom-mobile-ai-quick-actions-open-eyes": {
+      "https://dev.to/hacksgr/figma-embraces-new-ai-paradigm-but-expresses-reservations-39n7": {
         "verdict": "new",
-        "nearest": "https://petapixel.com/2026/09/25/you-can-edit-your-photos-with-lightroom-and-photoshop-inside-google-gemini/",
+        "nearest": "https://www.figma.com/blog/build-by-design/",
         "new_action": ""
       },
-      "https://www.digitaltrends.com/computing/chatgpt-wants-to-steal-your-job-as-the-office-powerpoint-person/": {
+      "https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/": {
         "verdict": "new",
-        "nearest": "https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/",
+        "nearest": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation",
         "new_action": ""
       },
-      "https://siliconangle.com/2026/10/19/neural-concept-launches-mcp-to-help-ai-agents-operate-commercial-cad-tools/": {
+      "https://www.windowslatest.com/2026/10/20/even-designers-are-now-using-ai-to-code-windows-11-and-microsoft-says-were-only-getting-started/": {
         "verdict": "new",
-        "nearest": "https://www.engineering.com/multiphysics-gets-mcp-server-and-onshape-gets-simscale-agent/",
+        "nearest": "https://uxdesign.cc/design-in-the-material-you-ship-7adf198388ee",
         "new_action": ""
       },
-      "https://www.digitalcameraworld.com/tech/software/wonky-photos-of-buildings-begone-dxo-viewpoint-6-introduces-ai-masking-but-maintains-that-no-ai-image-generation-takes-place": {
+      "https://dev.to/haoli/i-built-a-claude-code-skill-that-de-slops-ai-generated-web-design-42kn": {
         "verdict": "new",
-        "nearest": "https://fstoppers.com/photoshop/hands-adobes-new-prompt-edit-lightroom-feature-904858",
+        "nearest": "https://dev.to/skillgild/claudes-frontend-design-skill-what-it-does-with-a-real-run-5alm",
         "new_action": ""
       },
-      "https://uxdesign.cc/anthropic-october-2026-study-human-attention-is-the-new-old-bottleneck-d7bc4642668a": {
+      "https://petapixel.com/2026/10/21/just-eat-food-delivery-app-apologizes-for-ai-generated-menu-photo-showing-bacon-floating-in-soda/": {
         "verdict": "new",
-        "nearest": "https://uxdesign.cc/designing-for-ai-human-in-the-loop-means-making-sure-the-human-is-not-out-of-the-loop-e3882630",
+        "nearest": "https://petapixel.com/2026/10/19/ai-edited-photos-can-lead-people-to-form-fake-memories/",
         "new_action": ""
       }
     },
-    "note": "SWAP pass (2026-10-21). Removed after the enrichment fact-check: the UploadVR Meta SDKs story (not AI-led; its only AI mention is SDKs 'optimized for AI coding agents') and Webflow MCP in Gemini (the page says it launched October 15, 2026, outside the 72h window). Replacements, checked for freshness against now_iso 2026-10-20T21:40Z: DxO ViewPoint 6 (published 10-20 13:22Z, 8h old; no DxO card in the 30-day history; a different product and release from the Lightroom Open Eyes pick, so the render category now has 2 cards and the second gets palette accent #2ec5c5) and the UX Collective attention-bottleneck essay (published 10-19 21:39Z, 24h old; no design card has covered the Anthropic Oct 16 study, and it is a separate essay from the 10-17 human-in-the-loop piece). Neither URL appears in today's other sections. Not used: the SolidCraft/CADCraft vibecoded clones, because they would make a second CAD card next to Neural Concept while non-CAD candidates were still eligible. Also not used: the UX Collective job-title and bad-days essays, since the attention essay ties to new data and has no history_match tag, and only one UX Collective card was wanted. Earlier skips stand: Creative Bloq Brain Rot and Hyperallergic, HF AnyLanguageModel, the Adobe Stock AI Studio tutorial and the OpenAI headshot promo. Final 5: five distinct outlets; categories render x2, figma, cad and workflow."
+    "note": "Pool of 19 items, none auto-dropped. Dropped as duplicates or follow-ups: the Digital Camera World Photoshop filter teaser, which was shown in the RTX Spark demo already covered by the 10-18 Adobe x NVIDIA card and is not a release of its own. Also dropped: the UX Collective 'AI doesn't care about your job title' essay, tagged related to the 10-18 org-chart essay; it is a different author and angle, but it is still an essay. Skipped as essays, how-tos or promo: three UX Collective essays (founder, take AI at its word, job title), the DESIGN.md how-to (promotes the author's own tool Preveo), the Builder.io clone essay, the Engineering.com physics-AI vendor op-ed, the Adobe Brief creator video, and the Matt Wolfe and Fireship roundups. Skipped for weak design angle: Claude Duet (a general agent, tagged related to the 10-10 Instinct/Muse card; a new product, but the design hook is indirect), Creative Bloq's Draco fan animation and Google Meet filter pieces, and the XDA Antigravity vs Claude Code test (a hands-on piece, lower novelty). Final 5: four outlets (dev.to x2, NVIDIA, Windows Latest, PetaPixel). Categories: figma, cad, tokens and workflow x2; the second workflow card gets palette accent #3b6bff. No two picks share a URL."
   }
 }

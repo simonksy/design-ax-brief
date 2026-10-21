@@ -8262,6 +8262,140 @@
           "x": "Los escépticos señalan que el archivo “soul” (alma) de Eko lo describía como “curioso por naturaleza”, y que a menudo se quedaba inactivo hasta que se le pedía continuar. “Puede que los modelos estén jugando de verdad, pero no lo sabemos a partir del artículo”, dice Eunice Yiu, de UC Berkeley."
         }
       ]
+    },
+    "science/science-krict-lab": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-1.jpg",
+          "cap": "Un LLM convierte la entrada en lenguaje natural del investigador para guiar la optimización bayesiana, y los resultados se retroalimentan."
+        },
+        {
+          "t": "p",
+          "x": "Un equipo del Instituto Coreano de Investigación de Tecnología Química (KRICT), dirigido por el Dr. Gwang-Noh Ahn, ha creado un marco de optimización con intervención humana (human-in-the-loop) para laboratorios autónomos."
+        },
+        {
+          "t": "p",
+          "x": "Un modelo de lenguaje grande convierte las indicaciones del investigador en lenguaje llano en priors y restricciones estructurados que la optimización bayesiana puede usar. Un componente llamado detección adaptativa de credibilidad de pesos (AWCD) comprueba si esas indicaciones coinciden con los datos experimentales y desactiva los priors que los datos contradicen."
+        },
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers-2.jpg",
+          "cap": "AWCD desactiva las indicaciones engañosas cuando se acumulan datos contradictorios."
+        },
+        {
+          "t": "p",
+          "x": "En simulaciones basadas en datos reales, los experimentos necesarios para alcanzar un objetivo bajaron de unos 30 a menos de 10 en las reacciones de Ugi, y de unos 20 a 3–5 en los compuestos de P3HT-CNT. El equipo también publicó una interfaz interactiva, \"Co-Scientist\", para ajustar experimentos mediante diálogo; la validación en un laboratorio físico aún está prevista."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo, con Amirreza Mottafegh como primer autor, se publica en el Journal of Chemical Information and Modeling."
+        }
+      ]
+    },
+    "science/science-fairstress": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+        },
+        {
+          "t": "p",
+          "x": "Ai2 presentó FairStress, un benchmark para medir la equidad demográfica en LLMs más allá de la elección final de un modelo. Llegar a la misma respuesta en dos versiones de un escenario puede ocultar diferencias relevantes, por lo que también evalúa si \"prefijos adversariales\" persuasivos alteran las decisiones de forma distinta según el grupo."
+        },
+        {
+          "t": "p",
+          "x": "Abarca 300 escenarios con dos candidatos en 29 ámbitos, desde la contratación y la sanidad hasta los préstamos y la justicia penal, y genera más de 13 millones de casos de prueba; también se publica un subconjunto, FairStress-Core, de 50.000 elementos."
+        },
+        {
+          "t": "p",
+          "x": "Sin información demográfica, el comportamiento fue aproximadamente simétrico. A medida que la identidad se hacía más explícita, dejaba de serlo: los modelos abandonaban con más facilidad una elección correcta cuando eso favorecía a un candidato codificado como minoritario, una \"sobrecorrección antiestereotípica\". En casos ambiguos, los modelos de frontera eligieron candidatos codificados como minoritarios alrededor del 60–65% de las veces."
+        },
+        {
+          "t": "p",
+          "x": "Las explicaciones también variaron y reconocieron menos las cualificaciones de los candidatos favorecidos. De nueve intervenciones para reducir sesgos, solo la cadena de pensamiento contrafactual (counterfactual chain-of-thought) redujo la brecha conservando en gran medida la precisión."
+        }
+      ]
+    },
+    "science/science-sodium-ion": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
+          "cap": "Resumen visual. Crédito: Journal of Materials Chemistry A (2026). DOI: 10.1039/d6ta04588j"
+        },
+        {
+          "t": "p",
+          "x": "Investigadores de la University of Surrey crearon una biblioteca de 28 composiciones de cátodos de óxido de sodio y manganeso, en las que sustituyeron parcialmente el manganeso por hierro, titanio y vanadio."
+        },
+        {
+          "t": "p",
+          "x": "El hierro se asoció a una mayor capacidad energética; el vanadio, a una mejor estabilidad en los ciclos, y pequeñas cantidades de titanio, a un mejor rendimiento a altas tasas; algunas composiciones con titanio conservaron más del 90% de su capacidad tras 100 ciclos."
+        },
+        {
+          "t": "p",
+          "x": "El equipo usó los datos para entrenar un modelo de aprendizaje automático, aunque la biblioteca aún es demasiado pequeña para hacer predicciones fiables. Ampliarla podría permitir con el tiempo que la IA sugiera composiciones prometedoras antes de las pruebas de laboratorio. \"El sodio es mucho más abundante\" que el litio, señaló el autor de correspondencia, el Dr. Daniel Commandeur."
+        },
+        {
+          "t": "p",
+          "x": "El estudio se publica en el Journal of Materials Chemistry A."
+        }
+      ]
+    },
+    "science/science-glucose-sensing": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.genengnews.com/wp-content/uploads/2020/08/Aug7_2020_Getty_626533919_FemaleScientistUsingFTIRSpectrophotometer-1024x683.jpg",
+          "cap": "Crédito: Eugenio Marongiu/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "La monitorización precisa de la glucosa ha sido durante mucho tiempo un cuello de botella en la fermentación por lote alimentado (fed-batch), y los sensores fuera de línea no ofrecen las lecturas de alta frecuencia y baja latencia que requieren los bioprocesos híbridos y continuos."
+        },
+        {
+          "t": "p",
+          "x": "Investigadores dirigidos por Xiwei Tian, de la East China University of Science and Technology, y Yinlan Ruan, de la Guilin University of Electronic Technology, crearon DS-CAT, un transformer de doble flujo con atención cruzada que codifica por separado los espectros Raman y NIR y los fusiona, combinando las huellas químicas de Raman con la amplia cobertura del NIR."
+        },
+        {
+          "t": "p",
+          "x": "Con 142 registros Raman-NIR sincronizados, explicó el 99% de la variación de la glucosa (RMSE 1,09 g/L, MAE 0,89 g/L), se mantuvo en una validación cruzada de cinco particiones y superó a los mínimos cuadrados parciales, los árboles de gradient boosting, las CNNs y las redes convolucionales temporales. El intervalo Raman de 1122–1335 cm⁻¹ mostró la mayor sensibilidad predictiva."
+        },
+        {
+          "t": "p",
+          "x": "El trabajo se publica en Bioprocess and Biosystems Engineering."
+        }
+      ]
+    },
+    "science/science-flip-lunar-supercomputer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/W5R5YipbnMTdEMGxiifAjZ-1920-80.jpg",
+          "cap": "El rover FLIP de Astrolab en la sala limpia."
+        },
+        {
+          "t": "p",
+          "x": "A finales de este año, Astrolab lanzará su rover no tripulado FLIP hacia el polo sur lunar en la misión Griffin-1 de Astrobotic. A bordo va el Spaceborne Computer-4 de HPE, un módulo ligero y sin ventilador con una CPU de 64-bit de bajo consumo y una GPU, acompañado de unidades de estado sólido de KIOXIA."
+        },
+        {
+          "t": "p",
+          "x": "\"Vamos a enviar la primera supercomputadora de HPE a la superficie lunar a finales de este año, con la primera GPU en la Luna [y los] primeros experimentos de AI en la Luna\", dijo Jaret Matthews, CEO de Astrolab. Será la primera prueba de computación de alto rendimiento y AI en la superficie lunar."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/jn5RnzfgxMEo23kxheaEsi-1200-80.jpg",
+          "cap": "Imágenes de Astrolab (Image credit: Chelsea Gohd)"
+        },
+        {
+          "t": "p",
+          "x": "El vuelo pondrá a prueba primero cómo resiste la computadora el entorno extremo. También analizará datos visuales, permitirá observaciones autónomas y procesará navegación, cartografía y análisis del terreno; HPE afirma que un contenedor de servicios de AI demostrará aplicaciones de AI escalables en la Luna."
+        },
+        {
+          "t": "p",
+          "x": "Uno de los experimentos es un programa de localización de JPL usado en Marte (Mars): sin GPS, un algoritmo de aprendizaje automático compara el terreno local con un mapa almacenado para mantener al rover lejos de cráteres peligrosos."
+        }
+      ]
     }
   }
 }

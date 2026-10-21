@@ -3195,6 +3195,133 @@
           "x": "La Comisión lo califica de hito importante ante la aplicación de los requisitos para sistemas de IA de alto riesgo, y se prevé que lleguen más normas armonizadas."
         }
       ]
+    },
+    "politics/politics-xai-epa-turbine-suit": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg",
+          "cap": "Imagen térmica de las instalaciones de xAI en Memphis. Crédito: Steve Jones, Flight by Southwings for SELC"
+        },
+        {
+          "t": "p",
+          "x": "La NAACP demandó a xAI (ahora SpaceXAI tras una fusión) por las turbinas de gas que alimentan su centro de datos Colossus en Memphis, Tennessee, al alegar que operan sin permisos ambientales. Pide una orden judicial que exija los mejores controles de contaminación disponibles y multas de hasta $124,426 por día por infracción."
+        },
+        {
+          "t": "p",
+          "x": "El gobierno de Trump solicitó intervenir en nombre de la EPA con el argumento de que la agencia podía desestimar por sí sola la demanda ciudadana y de que permitir que siguiera adelante \"no serviría al interés público\"."
+        },
+        {
+          "t": "p",
+          "x": "El martes, la jueza Debra Brown, del tribunal de distrito de EE. UU. (US District), dictaminó que \"nada\" en la Clean Air Act permite al administrador de la EPA \"desestimar unilateralmente una demanda ciudadana\", y señaló que la EPA no ha emprendido aquí ninguna acción de cumplimiento propia. También rechazó el argumento de evitación constitucional (constitutional-avoidance) del gobierno, según el cual las sanciones civiles son una potestad exclusiva del poder ejecutivo."
+        },
+        {
+          "t": "p",
+          "x": "El fallo rechazó la solicitud de desestimación, pero no negó la intervención: el gobierno aún puede sumarse para apoyar a SpaceXAI y tiene hasta el 23 de octubre para explicar su postura o mantenerse al margen. Un tribunal de apelaciones consideró prematura la apelación del gobierno y se negó a suspender el caso. El fallo no decide si xAI violó la ley."
+        }
+      ]
+    },
+    "politics/politics-unidir-military-ai-forum": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fGXR0.img"
+        },
+        {
+          "t": "p",
+          "x": "El Instituto de las Naciones Unidas de Investigación sobre el Desarme (U.N. Institute for Disarmament Research, UNIDIR) prevé lanzar el jueves el primer foro internacional en el que los actores clave aborden los usos militares de la inteligencia artificial."
+        },
+        {
+          "t": "p",
+          "x": "El director de UNIDIR, Robin Geiss, dijo el martes en una conferencia de prensa de la U.N. que \"el margen para el juicio humano es cada vez más estrecho, también en el ámbito nuclear\", a medida que la IA se extiende a la alerta temprana, la recopilación de inteligencia y el reconocimiento."
+        },
+        {
+          "t": "p",
+          "x": "El foro forma parte del Center of Excellence on AI, Peace and Security de UNIDIR, creado este verano con fondos de Estados Unidos (U.S.), Rusia, China, Reino Unido y Francia. Geiss fue impreciso sobre qué hará exactamente el foro."
+        },
+        {
+          "t": "p",
+          "x": "El centro también elabora directrices voluntarias para una conducta responsable de la industria, consulta esta semana a empresas de tecnología de defensa, desarrolladores e inversores, y pone en marcha trabajos sobre el uso indebido de la IA por grupos armados. Geiss citó una propuesta del mes pasado para un sistema de alerta de seguridad de IA U.S.-China como señal de que las preocupaciones están \"trascendiendo los bloques geopolíticos\"."
+        }
+      ]
+    },
+    "politics/politics-meta-ai-terms-publishers": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/21/GettyImages-2256677765-scaled.jpg",
+          "cap": "Cartel de Meta en el Foro Económico Mundial de Davos, el 20 de enero de 2026. | Ina Fassbender/AFP via Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "Las mayores empresas de medios de Europa pidieron a los reguladores de Bruselas y Londres que impidan a Meta introducir nuevos términos que, según dicen, le permitirían copiar los sitios web de los editores para crear IA. En una carta del lunes, el European Publishers Council pidió a las comisarias Teresa Ribera y Henna Virkkunen que presionen a Meta para suspender los términos antes de su entrada en vigor el 30 de octubre."
+        },
+        {
+          "t": "p",
+          "x": "Un portavoz de la Comisión dijo que Bruselas sigue comprometida con garantizar que las prácticas de Meta cumplan la legislación de la EU, incluidas las normas de competencia y la Digital Markets Act."
+        },
+        {
+          "t": "img",
+          "src": "https://www.politico.eu/wp-content/uploads/2026/10/21/GettyImages-2185907422-1024x683.jpg",
+          "cap": "La directora ejecutiva de la CMA, Sarah Cardell. | Leon Neal/Getty Images"
+        },
+        {
+          "t": "p",
+          "x": "En el U.K., la jefa de la CMA, Sarah Cardell, dijo a los legisladores que el organismo pidió a Meta que explicara los cambios y que se reuniría con la empresa el miércoles."
+        },
+        {
+          "t": "p",
+          "x": "Meta calificó de \"falso\" (\"false\") un informe de Nieman Lab sobre los términos, dijo que buscan extraer información de productos para anuncios y luego eliminó la palabra \"train\". Los editores dicen que la revisión cambia poco. Ningún regulador ha tomado medidas de aplicación."
+        }
+      ]
+    },
+    "politics/politics-ai-datacenter-gridcode": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img9.yna.co.kr/photo/yna/YH/2026/08/05/PYH2026080506570001300_P4.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Se ha advertido que el 'código de red' (reglas de conexión a la red eléctrica) exclusivo para centros de datos de IA, que el gobierno impulsa para introducir este año, podría convertirse en una nueva regulación para los proyectos de inversión."
+        },
+        {
+          "t": "p",
+          "x": "Según el diputado Cho Kyoung-tae, del Partido del Poder Popular y miembro de la Comisión de Ciencia, TIC, Radiodifusión y Comunicaciones de la Asamblea Nacional, el Ministerio de Clima, Energía y Medio Ambiente creó en agosto un grupo de estudio sobre centros de datos de IA y decidió preparar este año un código de red específico para evitar que las bruscas variaciones del consumo eléctrico durante el cómputo de IA desestabilicen la red. El código de red es una norma que exige que las instalaciones no se desconecten de inmediato y mantengan el voltaje aunque la red sufra una falla; en la práctica, una norma aplicada sobre todo a instalaciones de generación se extendería a los grandes centros de datos."
+        },
+        {
+          "t": "p",
+          "x": "Cho señaló que la disposición sobre comercio directo de LNG (PPA) de la ley especial AIDC quedó fuera del texto aprobado en el pleno de mayo por la oposición del Ministerio de Clima, y explicó que crece la inquietud en el sector porque no está claro a qué proyectos, como los de escala GW en Ulsan y Donghae, se aplicará ni cuándo."
+        },
+        {
+          "t": "p",
+          "x": "Cho dijo que \"hay que contar con normas de seguridad de la red, pero los proyectos ya en marcha deberían quedar, en principio, excluidos de la aplicación del código de red\", y anunció que revisará el plan de respuesta del Ministerio de Ciencia y TIC en la auditoría general. El código de red aún está en fase de planificación y no se ha introducido."
+        }
+      ]
+    },
+    "politics/politics-dhs-deepseek-agency-removal": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://image.theregister.com/5304014.jpg?imageId=5304014&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683"
+        },
+        {
+          "t": "p",
+          "x": "El Departamento de Seguridad Nacional de EE. UU. (US Department of Homeland Security, DHS) ordenó el lunes a las agencias civiles federales no usar productos tecnológicos del laboratorio chino de inteligencia artificial (AI) DeepSeek y retirar las implementaciones existentes. La orden abarca \"todos los productos de DeepSeek y DeepSeek-affiliate, y los productos y servicios de terceros desarrollados con implementaciones de DeepSeek\"."
+        },
+        {
+          "t": "p",
+          "x": "The Register señala que el cumplimiento puede ser complicado: no está claro qué significa \"developed using\" (desarrollado con), y pasarelas de AI como OpenRouter o Vercel AI Gateway podrían dirigir a las agencias hacia modelos de DeepSeek sin que lo sepan. El DHS no respondió de inmediato a una solicitud de comentarios."
+        },
+        {
+          "t": "p",
+          "x": "Desde el lanzamiento de DeepSeek-R1 a principios de 2025, los legisladores han calificado a DeepSeek de amenaza para la seguridad nacional por preocupaciones sobre los datos; DISA, la Marina (Navy), NASA, la Cámara de Representantes (House) y varios estados ya lo han bloqueado."
+        },
+        {
+          "t": "p",
+          "x": "Katie Moussouris, CEO de Luta Security, afirmó que hay razones legítimas para mantener la app y los servidores de DeepSeek fuera de los sistemas del gobierno, pero calificó la cláusula de terceros de imposible de verificar en la práctica y dijo que incluir las versiones US-hosted (alojadas en EE. UU.) de los modelos va demasiado lejos."
+        }
+      ]
     }
   }
 }
