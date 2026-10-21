@@ -1,0 +1,76 @@
+{
+ "meta": {
+  "issue": "ChatGPT 안에서 슬라이드 덱을 만든다",
+  "date": "2026.10.20",
+  "section": "DESIGN",
+  "accent": "#0070f3",
+  "note": "Digital Trends(2026.10.20) — 원문은 캡차로 막혀 파이프라인이 받아 둔 본문(full)과 Android Headlines 보도로 확인. 그림은 기사 속 화면 두 장.",
+  "sources": [
+   "Digital Trends — ChatGPT wants to steal your job as the office PowerPoint person (2026.10.20)"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "media": "src/slides2.jpg",
+   "eyebrow": "AI × 디자인 · 2026.10.20",
+   "headline": "ChatGPT 안에서 슬라이드 덱을 만든다",
+   "body": "OpenAI가 10월 16일 ChatGPT Slides를 내놨다. 대화나 파일로 덱을 만들고 고치고, 팀과 함께 작업한다.",
+   "foot": "밀어서 보기 →",
+   "n": 1
+  },
+  {
+   "kind": "photo",
+   "media": "src/slides1.jpg",
+   "eyebrow": "어디서 시작하나",
+   "headline": "대화·파일·샘플 덱에서",
+   "body": "기존 대화, 올린 파일, 개요가 출발점이다. 샘플 덱을 넣으면 그 디자인 방향과 브랜딩을 따른다.",
+   "foot": "2026.10.20",
+   "n": 2
+  },
+  {
+   "kind": "stat",
+   "stat_top": "동시 편집",
+   "stat_arrow": "댓글을 읽고",
+   "stat_bottom": "ChatGPT가 반영",
+   "stat_strike": false,
+   "eyebrow": "어떻게 쓰나",
+   "headline": "팀이 같이 고친다",
+   "body": "팀원들이 같은 덱을 동시에 고치고 댓글을 남기면, ChatGPT가 피드백을 반영해 슬라이드끼리 일관성을 맞춘다.",
+   "foot": "2026.10.20",
+   "n": 3
+  },
+  {
+   "kind": "stat",
+   "stat_top": "PowerPoint",
+   "stat_arrow": "PDF 그리고",
+   "stat_bottom": "Google Slides",
+   "stat_strike": false,
+   "eyebrow": "그다음은",
+   "headline": "발표하거나 내보내거나",
+   "body": "완성한 덱은 ChatGPT에서 바로 발표하거나 내보낼 수 있고, 내보낸 뒤에도 계속 고칠 수 있다.",
+   "foot": "2026.10.20",
+   "n": 4
+  },
+  {
+   "kind": "stat",
+   "stat_top": "Pro · Business",
+   "stat_arrow": "그리고",
+   "stat_bottom": "Enterprise",
+   "stat_strike": false,
+   "eyebrow": "짚을 대목",
+   "headline": "Space 쓰는 유료 계정부터",
+   "body": "Space 접근 권한이 있는 사용자에게 차례로 열린다. 발표 전에 수치와 주장을 확인하는 일은 여전히 사람 몫이다.",
+   "foot": "2026.10.20",
+   "n": 5
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

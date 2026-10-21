@@ -1,0 +1,94 @@
+{
+ "meta": {
+  "issue": "진단 보조 AI 셋, FDA 문턱을 넘었다",
+  "date": "2026.10.21",
+  "section": "MEDICINE",
+  "accent": "#00897b",
+  "note": "유방 MRI, 소아 행동 영상, 일상 심전도를 읽는 AI가 잇달아 FDA 510(k) 허가를 받았다. 셋 다 진단을 대신하지 않고 돕는 도구다.",
+  "sources": [
+   "https://www.prnewswire.com/news-releases/simbiosys-secures-fda-clearance-for-tumorsight-risk-introducing-the-worlds-first-ai-powered-mri-derived-breast-cancer-recurrence-risk-assessment-302910055.html",
+   "https://www.bosa.co.kr/news/articleView.html?idxno=3014060",
+   "https://www.bosa.co.kr/news/articleView.html?idxno=3013789"
+  ]
+ },
+ "cards": [
+  {
+   "n": 1,
+   "kind": "thread",
+   "thread_badge": "이슈 트렌드",
+   "thread_cap": "3건 · 의료 · 10.15~10.16",
+   "thread": [
+    {
+     "d": "10.15",
+     "t": "유방암 MRI",
+     "c": "#00897b",
+     "s": "MEDICINE"
+    },
+    {
+     "d": "10.15",
+     "t": "소아 자폐",
+     "c": "#00897b",
+     "s": "MEDICINE"
+    },
+    {
+     "d": "10.16",
+     "t": "심전도 심부전",
+     "c": "#00897b",
+     "s": "MEDICINE"
+    }
+   ],
+   "thread_note": "FDA 허가를 받은 AI 셋은 진단을 대신하지 않고, 의사가 볼 신호를 더한다",
+   "eyebrow": "흐름 · 의료",
+   "headline": "FDA 허가 받은 진단 AI 셋",
+   "body": "한 건씩 보면 각각의 허가 소식이지만, 이어 보면 MRI·영상·심전도를 AI가 읽어 의사의 판단을 돕는 도구가 잇달아 문턱을 넘었다.",
+   "foot": "밀어서 보기 →"
+  },
+  {
+   "n": 2,
+   "kind": "stat",
+   "eyebrow": "2026.10.15",
+   "headline": "MRI로 유방암 재발 위험",
+   "body": "SimBioSys TumorSight Risk가 FDA 510(k) 허가를 받았다. 유방 MRI와 병리·임상 데이터로 수술 전 재발 위험을 낸다.",
+   "foot": "2026.10.15",
+   "_src": "https://www.prnewswire.com/news-releases/simbiosys-secures-fda-clearance-for-tumorsight-risk-introducing-the-worlds-first-ai-powered-mri-derived-breast-cancer-recurrence-risk-assessment-302910055.html",
+   "_id": "medicine-simbiosys-tumorsight-risk",
+   "stat_top": "2.2%",
+   "stat_arrow": "점수 따라 추정 5년 재발 위험",
+   "stat_bottom": "13.6%",
+   "stat_strike": false
+  },
+  {
+   "n": 3,
+   "kind": "photo",
+   "eyebrow": "2026.10.15",
+   "headline": "영상으로 소아 자폐를",
+   "body": "아거스 코그니티브의 뉴로라가 FDA 510(k) 허가를 받았다. 18개월~12세 아이의 영상·음성에서 100여 지표를 재 의사의 진단을 돕는다.",
+   "foot": "2026.10.15",
+   "_src": "https://www.bosa.co.kr/news/articleView.html?idxno=3013789",
+   "_id": "medicine-argus-autism-ai-fda",
+   "media": "pipeline/media/medicine-argus-autism-ai-fda.png"
+  },
+  {
+   "n": 4,
+   "kind": "stat",
+   "eyebrow": "2026.10.16",
+   "headline": "심전도로 심부전을",
+   "body": "메디컬에이아이 AiTiALVSD가 FDA 510(k) 허가를 받았다. 병원에서 늘 재는 심전도로 좌심실 수축기능 부전 진단을 돕는다.",
+   "foot": "2026.10.16",
+   "_src": "https://www.bosa.co.kr/news/articleView.html?idxno=3014060",
+   "_id": "medicine-aitialvsd-fda-2026",
+   "stat_top": "미국 대형병원 6곳",
+   "stat_arrow": "다인종·다환경 임상시험",
+   "stat_bottom": "2만 명 이상",
+   "stat_strike": false
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 5
+  }
+ ]
+}
