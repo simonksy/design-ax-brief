@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "issue": "하원 AI 선거 콘텐츠 표시 의무화 법안 발의",
+    "date": "2026.10.22",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "자동 초안. 썸네일은 초안이라 겹친다 — 올리기로 정하면 원문을 받아 숫자를 확인하고 글을 다시 쓰면서 stat·quote 로 장을 세운다.",
+    "sources": [
+      "https://shontelbrown.house.gov/media/press-releases/brown-introduces-legislation-require-labels-ai-generated-campaign-content"
+    ]
+  },
+  "cards": [
+    {
+      "kind": "cover",
+      "eyebrow": "AI × 정책 · 2026.10.22",
+      "headline": "하원 AI 선거 콘텐츠 표시 의무화 법안…",
+      "body": "숀텔 브라운(Shontel Brown, OH-11) 하원의원이 'AI 기만으로부터 선거 보호법(Securing Elections…",
+      "foot": "밀어서 보기 →",
+      "media": "pipeline/media/politics-brown-ai-campaign-labels.jpg",
+      "n": 1
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "무슨 일인가",
+      "headline": "하원 AI 선거 콘텐츠 표시 의무화 법안…",
+      "body": "법안은 연방·주·지방 선거 콘텐츠에 적용되며 집행은 연방거래위원회(Federal Trade Commission)가 맡는다. 의원실에…",
+      "foot": "2026.10.22",
+      "media": "pipeline/media/politics-brown-ai-campaign-labels.jpg",
+      "n": 2
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "어떻게 되는가",
+      "headline": "하원 AI 선거 콘텐츠 표시 의무화 법안…",
+      "body": "고지 대상은 후보를 흉내 내거나 변형한 AI 생성 이미지·텍스트·영상·음성, 그리고 투표나 유권자 등록의 시기·장소·방법을 다룬…",
+      "foot": "2026.10.22",
+      "media": "pipeline/media/politics-brown-ai-campaign-labels.jpg",
+      "n": 3
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "짚을 대목",
+      "headline": "하원 AI 선거 콘텐츠 표시 의무화 법안…",
+      "body": "AI 개발자나 배포자가 고의로 AI를 써서 개인의 투표권을 빼앗거나 속이는 행위도 금지한다. 위반하면 벌금이나 징역형을 받는다.",
+      "foot": "2026.10.22",
+      "media": "pipeline/media/politics-brown-ai-campaign-labels.jpg",
+      "n": 4
+    },
+    {
+      "kind": "photo",
+      "eyebrow": "그래서 지금",
+      "headline": "하원 AI 선거 콘텐츠 표시 의무화 법안…",
+      "body": "브라운 의원은 \"유권자는 자신이 보고 듣는 선거 콘텐츠가 진짜인지 알 권리가 있다\"고 말했다. 법안은 아직 발의 단계이고 표결은 하지…",
+      "foot": "2026.10.22",
+      "media": "pipeline/media/politics-brown-ai-campaign-labels.jpg",
+      "n": 5
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

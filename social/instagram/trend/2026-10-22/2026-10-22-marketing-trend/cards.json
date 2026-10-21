@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "ChatGPT Ads 확장",
+    "date": "2026.10.22",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "ChatGPT Ads가 타기팅·측정·소재 자동화·해외 확장까지 갖춰 가고 있다",
+    "sources": [
+      "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
+      "https://searchengineland.com/chatgpt-ads-introduces-new-measurement-tools-and-visual-ad-formats-496998",
+      "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html",
+      "https://www.adexchanger.com/marketers/chatgpt-ads-is-expanding-to-new-markets-and-exploring-new-ad-formats/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 마케팅 · 10.17~10.22",
+      "thread": [
+        {
+          "d": "10.17",
+          "t": "이메일 타기팅",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.17",
+          "t": "측정 파트너",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.21",
+          "t": "소재 자동수정",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.22",
+          "t": "26개국",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "ChatGPT Ads가 타기팅·측정·소재 자동화·해외 확장까지 갖춰 가고 있다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "ChatGPT가 광고판이 된다",
+      "body": "한 건씩 보면 기능 하나 추가지만, 이어 보면 타기팅·측정·소재·시장을 다 갖춘 광고 플랫폼이 보인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "이메일·번호로 광고를 겨눈다",
+      "body": "404 Media가 시험해 보니 ChatGPT 광고주는 이메일, 전화번호, 휴대폰 식별자로 사용자를 겨눌 수 있었다.",
+      "foot": "2026.10.17",
+      "_src": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
+      "_id": "marketing-chatgpt-ads-targeting",
+      "media": "pipeline/media/marketing-chatgpt-ads-targeting.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "측정 파트너 6곳을 더했다",
+      "body": "OpenAI가 Northbeam, Kochava 등 측정 파트너 6곳을 더하고, 더 크고 시각적인 ChatGPT 광고를 시험한다.",
+      "foot": "2026.10.17",
+      "_src": "https://searchengineland.com/chatgpt-ads-introduces-new-measurement-tools-and-visual-ad-formats-496998",
+      "_id": "marketing-chatgpt-ads-measurement",
+      "media": "pipeline/media/marketing-chatgpt-ads-measurement.png"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "소재는 AI가 기본으로 고친다",
+      "body": "10월 30일부터 OpenAI가 광고 소재의 AI 수정·번역·크기 조정을 자동으로 켠다. 검토 없이 집행될 수 있다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html",
+      "_id": "marketing-chatgpt-ads-auto-enhance",
+      "media": "pipeline/media/marketing-chatgpt-ads-auto-enhance.png"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.22",
+      "headline": "광고주 10만, 26개국 더",
+      "body": "ChatGPT Ads가 광고주 10만 곳을 넘긴 뒤 26개국으로 넓힌다. 새 광고 형식도 준비 중이다.",
+      "foot": "2026.10.22",
+      "_src": "https://www.adexchanger.com/marketers/chatgpt-ads-is-expanding-to-new-markets-and-exploring-new-ad-formats/",
+      "_id": "marketing-chatgpt-ads-markets",
+      "media": "pipeline/media/marketing-chatgpt-ads-markets.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

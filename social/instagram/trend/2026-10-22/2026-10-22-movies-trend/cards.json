@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "편집 툴 안으로 들어온 AI",
+    "date": "2026.10.22",
+    "section": "MOVIES",
+    "accent": "#7928ca",
+    "note": "AI가 새 영상을 만드는 대신 편집자가 쓰던 툴 안으로 들어가고 있다",
+    "sources": [
+      "https://www.animationmagazine.net/2026/10/tech-reviews-gaomon-pd1561-v2-foundry-smartroto-huion-kamvas-pro-24/",
+      "https://www.provideocoalition.com/stem-separation-moves-into-the-edit-what-enhance-audio-changes-for-dialogue-workflows-in-premiere-beta/",
+      "https://motionographer.com/news/sekondo-puts-chatgpt-and-claude-inside-after-effects-and-premiere-pro/",
+      "https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 영화 · 10.18~10.22",
+      "thread": [
+        {
+          "d": "10.18",
+          "t": "Nuke 로토",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.20",
+          "t": "대사 분리",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.21",
+          "t": "Sekondo",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        },
+        {
+          "d": "10.22",
+          "t": "AI 편집기",
+          "c": "#7928ca",
+          "s": "MOVIES"
+        }
+      ],
+      "thread_note": "AI가 새 영상을 만드는 대신 편집자가 쓰던 툴 안으로 들어가고 있다",
+      "eyebrow": "흐름 · 영화",
+      "headline": "AI는 편집 툴 안에서 일한다",
+      "body": "한 건씩 보면 플러그인 소식이지만, 이어 보면 로토·오디오·컷 편집이 모두 툴 안의 AI로 옮겨 가고 있다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.18",
+      "headline": "Nuke 속 AI가 로토를 돕는다",
+      "body": "Foundry SmartRoto는 Nuke의 Roto 노드 안에서 스플라인을 전파한다. 리뷰어 테스트에선 작업이 4배 빨랐다.",
+      "foot": "2026.10.18",
+      "_src": "https://www.animationmagazine.net/2026/10/tech-reviews-gaomon-pd1561-v2-foundry-smartroto-huion-kamvas-pro-24/",
+      "_id": "movies-foundry-smartroto",
+      "media": "pipeline/media/movies-foundry-smartroto.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.20",
+      "headline": "타임라인에서 대사를 가른다",
+      "body": "Premiere 베타 Enhance Audio는 대사·음악·환경음·효과음을 갈라 타임라인에서 각각 조절하게 한다.",
+      "foot": "2026.10.20",
+      "_src": "https://www.provideocoalition.com/stem-separation-moves-into-the-edit-what-enhance-audio-changes-for-dialogue-workflows-in-premiere-beta/",
+      "_id": "movies-premiere-enhance-stems",
+      "media": "pipeline/media/movies-premiere-enhance-stems.png"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "AI가 Adobe 프로젝트 안으로",
+      "body": "Sekondo는 ChatGPT·Claude를 Adobe 앱 여섯 개에 잇는다. 새 클립 대신 작가의 레이어와 타임라인에서 일한다.",
+      "foot": "2026.10.21",
+      "_src": "https://motionographer.com/news/sekondo-puts-chatgpt-and-claude-inside-after-effects-and-premiere-pro/",
+      "_id": "movies-sekondo-chatgpt-claude-adobe",
+      "media": "pipeline/media/movies-sekondo-chatgpt-claude-adobe.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.22",
+      "headline": "AI 편집기 셋, 대체는 아직",
+      "body": "CineD가 AI 편집기 셋을 비교했다. 셋 다 아직 Premiere Pro·Resolve를 곧바로 대체하진 못한다고 봤다.",
+      "foot": "2026.10.22",
+      "_src": "https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/",
+      "_id": "movies-cined-ai-editors-compared",
+      "media": "pipeline/media/movies-cined-ai-editors-compared.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

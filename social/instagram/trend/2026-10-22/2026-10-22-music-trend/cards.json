@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "issue": "이름표 없는 AI 곡",
+    "date": "2026.10.22",
+    "section": "MUSIC",
+    "accent": "#eb367f",
+    "note": "AI 곡이 스트리밍에 넘치는데, 플랫폼은 표기보다 추천에서 빼는 쪽을 택했다",
+    "sources": [
+      "https://musically.com/2026/10/16/duke-sanford-study-explores-ai-music-encounters-on-spotify/",
+      "https://www.thebureauinvestigates.com/stories/2026-10-15/spotify-ai-artist-badge-global-policy-after-bureau-investigation",
+      "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "https://www.billboard.com/pro/streaming-fraud-hurts-songwriters-find-solutions/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 음악 · 10.17~10.22",
+      "thread": [
+        {
+          "d": "10.17",
+          "t": "Duke 조사",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.17",
+          "t": "AI 배지",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.21",
+          "t": "5000만 곡",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        },
+        {
+          "d": "10.22",
+          "t": "스트림 사기",
+          "c": "#eb367f",
+          "s": "MUSIC"
+        }
+      ],
+      "thread_note": "AI 곡이 스트리밍에 넘치는데, 플랫폼은 표기보다 추천에서 빼는 쪽을 택했다",
+      "eyebrow": "흐름 · 음악",
+      "headline": "AI 곡은 걸러도 이름표는 없다",
+      "body": "한 건씩은 연구·배지·삭제·사기 소식이지만, 이어 보면 AI 곡을 표기보다 걸러내는 쪽으로 대응하는 흐름이 보인다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "추천 목록 속 숨은 AI 아홉 팀",
+      "body": "Duke 연구진이 Release Radar에서 AI 아티스트 아홉 팀을 찾았다. 스스로 AI라 밝힌 팀은 없었다.",
+      "foot": "2026.10.17",
+      "_src": "https://musically.com/2026/10/16/duke-sanford-study-explores-ai-music-encounters-on-spotify/",
+      "_id": "music-duke-spotify",
+      "media": "pipeline/media/music-duke-spotify.png"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.17",
+      "headline": "AI Persona 배지가 붙었다",
+      "body": "TBIJ 질의 엿새 뒤 Spotify가 AI Persona 배지를 발표했고, 이제 AI 래퍼 Danny Bones에도 붙었다.",
+      "foot": "2026.10.17",
+      "_src": "https://www.thebureauinvestigates.com/stories/2026-10-15/spotify-ai-artist-badge-global-policy-after-bureau-investigation",
+      "_id": "music-spotify-ai-badge",
+      "media": "pipeline/media/music-spotify-ai-badge.png"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.21",
+      "headline": "슬롭 5000만 곡, 추천서 뺐다",
+      "body": "Spotify는 한 해 AI 슬롭·스팸 5000만 곡 이상을 추천에서 걷어냈지만, AI 곡 표기를 의무화하지는 않았다.",
+      "foot": "2026.10.21",
+      "_src": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
+      "_id": "music-spotify-50m-slop-purge",
+      "media": "pipeline/media/music-spotify-50m-slop-purge.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.22",
+      "headline": "가짜 스트림이 작곡가 몫 깎는다",
+      "body": "NMPA 회장 David Israelite는 AI로 더 커진 스트리밍 사기가 작곡가 로열티를 갉아먹는다고 했다.",
+      "foot": "2026.10.22",
+      "_src": "https://www.billboard.com/pro/streaming-fraud-hurts-songwriters-find-solutions/",
+      "_id": "music-nmpa-streaming-fraud",
+      "media": "pipeline/media/music-nmpa-streaming-fraud.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}
