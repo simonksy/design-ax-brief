@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "issue": "손님이 된 쇼핑 에이전트",
+    "date": "2026.10.23",
+    "section": "MARKETING",
+    "accent": "#ff8a3d",
+    "note": "AI 쇼핑 에이전트가 손님으로 들어오자, 유통은 규칙을 짜고 사람은 여전히 리뷰를 본다",
+    "sources": [
+      "https://www.semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season",
+      "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
+      "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "4건 · 마케팅 · 10.19~10.23",
+      "thread": [
+        {
+          "d": "10.19",
+          "t": "트래픽 100x",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.22",
+          "t": "Muse 1000만",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.22",
+          "t": "Walmart 규칙",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        },
+        {
+          "d": "10.23",
+          "t": "리뷰 확인",
+          "c": "#ff8a3d",
+          "s": "MARKETING"
+        }
+      ],
+      "thread_note": "AI 쇼핑 에이전트가 손님으로 들어오자, 유통은 규칙을 짜고 사람은 여전히 리뷰를 본다",
+      "eyebrow": "흐름 · 마케팅",
+      "headline": "손님이 된 AI 에이전트",
+      "body": "한 건씩은 트래픽·사용자 수·정책 소식이지만, 이어 보면 에이전트가 가게 문 앞에 섰고 판매자와 소비자가 각자 선을 긋는다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "stat",
+      "eyebrow": "2026.10.19",
+      "headline": "에이전트 트래픽 급증",
+      "body": "Cheq 집계로 소비자용 에이전트 출시 뒤 45일간 에이전트 트래픽이 100x 늘었다. Amazon·eBay는 막았다.",
+      "foot": "2026.10.19",
+      "_src": "https://www.semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season",
+      "_id": "marketing-cheq",
+      "stat_top": "45일",
+      "stat_arrow": "소비자용 에이전트 출시 뒤",
+      "stat_bottom": "100x"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.22",
+      "headline": "Muse 1000만, 쇼핑이 주 용도",
+      "body": "Muse 사용자가 1000만 명을 넘었다. 에이전트로 쇼핑한 활성 사용자 4분의 1 이상은 평균 200달러 넘게 샀다.",
+      "foot": "2026.10.22",
+      "_src": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+      "_id": "marketing-meta-muse",
+      "media": "pipeline/media/marketing-meta-muse.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.22",
+      "headline": "Walmart, 에이전트에 문을",
+      "body": "Agent Profiles로 에이전트마다 권한을 준다. 구매 승인이나 지출 한도를 정하고, 결제 카드 정보는 넘기지 않는다.",
+      "foot": "2026.10.22",
+      "_src": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
+      "_id": "marketing-walmart-agents",
+      "media": "pipeline/media/marketing-walmart-agents.jpg"
+    },
+    {
+      "n": 5,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "찾는 건 AI, 사는 건 리뷰",
+      "body": "AI 추천을 받고 바로 사는 사람은 5%뿐이었다. 다른 조사에서는 33%가 리뷰를, 22.3%가 가격을 먼저 확인했다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
+      "_id": "marketing-ai-discovery-reviews",
+      "media": "pipeline/media/marketing-ai-discovery-reviews.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 6
+    }
+  ]
+}

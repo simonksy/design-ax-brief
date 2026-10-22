@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "issue": "AI 안전 규칙, 누가 쓰나",
+    "date": "2026.10.23",
+    "section": "POLITICS",
+    "accent": "#9aa8c7",
+    "note": "프런티어 AI 안전 규칙을 두고 기업은 법안 초안·로비로, 캘리포니아는 행정명령으로 움직인다(각 보도·공시 기준)",
+    "sources": [
+      "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+      "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run",
+      "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
+    ]
+  },
+  "cards": [
+    {
+      "n": 1,
+      "kind": "thread",
+      "thread_badge": "이슈 트렌드",
+      "thread_cap": "3건 · 정책 · 10.19~10.23",
+      "thread": [
+        {
+          "d": "10.19",
+          "t": "법안 초안",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.19",
+          "t": "주 행정명령",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        },
+        {
+          "d": "10.23",
+          "t": "로비 신기록",
+          "c": "#9aa8c7",
+          "s": "POLITICS"
+        }
+      ],
+      "thread_note": "AI 안전 규칙을 쓰는 자리에 기업과 주정부가 함께 손을 뻗는다",
+      "eyebrow": "흐름 · 정책",
+      "headline": "AI 안전 규칙, 펜을 쥐려는 손들",
+      "body": "한 건씩 보면 각자의 소식이지만, 이어 보면 같은 질문이 보인다. 프런티어 AI의 안전 규칙을 연방·주·기업 중 누가 쓰느냐다.",
+      "foot": "밀어서 보기 →"
+    },
+    {
+      "n": 2,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "Anthropic, 법안 초안 제안",
+      "body": "POLITICO 보도. 초안은 정부가 첨단 모델 출시를 막을 수 있는 경우를 제한하고 일부 주 AI 안전법을 대체한다.",
+      "foot": "2026.10.19",
+      "_src": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
+      "_id": "politics-anthropic-draft-bill",
+      "media": "pipeline/media/politics-anthropic-draft-bill.jpg"
+    },
+    {
+      "n": 3,
+      "kind": "photo",
+      "eyebrow": "2026.10.19",
+      "headline": "캘리포니아, AI 독립 검증 명령",
+      "body": "Newsom 주지사는 AI 모델 독립 검증을 요구하고, 에이전트를 멈출 킬스위치 전문가 위원회를 꾸렸다.",
+      "foot": "2026.10.19",
+      "_src": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run",
+      "_id": "politics-newsom-ai-verification-order",
+      "media": "pipeline/media/politics-newsom-ai-verification-order.jpg"
+    },
+    {
+      "n": 4,
+      "kind": "photo",
+      "eyebrow": "2026.10.23",
+      "headline": "AI 3사, 분기 로비 최고치",
+      "body": "연방 공시상 7~9월 Nvidia $2.2M, Anthropic $2.1M, OpenAI $1.5M. 저마다 분기 최대 지출이다.",
+      "foot": "2026.10.23",
+      "_src": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "_id": "politics-ai-lobbying-records-q3",
+      "media": "pipeline/media/politics-ai-lobbying-records-q3.jpg"
+    },
+    {
+      "kind": "outro",
+      "eyebrow": "매일 아침, AI가 바꾸는 현장",
+      "headline": "더 많은 소식은 axitnow.com",
+      "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+      "foot": "",
+      "n": 5
+    }
+  ]
+}
