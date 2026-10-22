@@ -7957,6 +7957,120 @@
           "x": "其中一项实验是曾在火星（Mars）上使用的JPL定位程序：在没有GPS的情况下，机器学习算法将当地地形与存储的地图比对，让月球车避开危险的陨石坑。"
         }
       ]
+    },
+    "science/science-fusion-plasma-chip": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Brookhaven National Laboratory推出了一款超导芯片，旨在帮助实时监测核聚变等离子体。该芯片由其与其他U.S. Department of Energy机构及AI硬件初创公司Great Sky共同开发。"
+        },
+        {
+          "t": "p",
+          "x": "在托卡马克中，意外的等离子体行为可能引发破裂，即一种可能损坏装置的突然崩溃。神经形态AI系统模仿大脑并行处理海量数据，有望跟上这种快速变化。"
+        },
+        {
+          "t": "p",
+          "x": "这款芯片尚未接入正在运行的托卡马克。团队回放了在DIII-D托卡马克以每秒百万个样本记录的数据，芯片在运行用于标记异常和预测破裂的算法时跟上了数据节奏。Princeton Plasma Physics Laboratory的Michael Churchill说：“目前这一切都还完全处于演示阶段。”"
+        },
+        {
+          "t": "p",
+          "x": "团队计划推出神经网络规模大10倍的后续芯片，明年初在Brookhaven亮相，之后某个时候安装到DIII-D。"
+        }
+      ]
+    },
+    "science/science-quantum-sim-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+        },
+        {
+          "t": "p",
+          "x": "量子模拟可用于计算分子能量、研究新材料、测试量子计算算法以及预测量子系统的演化，但往往需要专门的数值方法，并熟悉多种软件工具。"
+        },
+        {
+          "t": "p",
+          "x": "AI智能体能够规划多步骤任务、查阅文档、运行程序、检查结果并调整方法。El Agente Cuántico将这一能力应用于量子模拟：一个协调智能体把工作分派给对接不同软件包的专业智能体，生成代码、数值结果和图表。"
+        },
+        {
+          "t": "p",
+          "x": "研究人员在分子能量计算、纠缠态、耗散动力学、时间晶体、纠错和硬件资源估算等任务上进行了演示。在对五项任务的重复测试中，专家评估的平均得分在97到100分之间（满分100），但也有少数运行偏离了指令。"
+        },
+        {
+          "t": "p",
+          "x": "作者将这些智能体定位为科学判断的辅助，而非替代。(I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+        }
+      ]
+    },
+    "science/science-chatbot-delusions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Georgia Tech研究人员Lorenzo de la Loza和Vijay Madisetti利用16个源自临床、涉及妄想信念的情境，对八个AI模型进行了1,280次实验。"
+        },
+        {
+          "t": "p",
+          "x": "旨在抑制过度附和的指令——要求模型不要仅为讨好而强化用户的信念——使模型对这些信念的认同减少了73.8%。加入自我反思步骤后，降幅提高到77%。"
+        },
+        {
+          "t": "p",
+          "x": "该研究没有在临床环境中对人进行测试，因此并不能表明这一方法能防止现实中的伤害。研究发表于ACM AI Letters。"
+        }
+      ]
+    },
+    "science/science-bee-buzz-audio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+          "cap": "麦克风正在录制一只采集花粉的常见橙带熊蜂。Credit: Laura Figueroa"
+        },
+        {
+          "t": "p",
+          "x": "传粉昆虫监测大多使用致命诱捕器——通常是装满肥皂水的彩色小杯——它们也会杀死许多非目标昆虫。"
+        },
+        {
+          "t": "p",
+          "x": "UMass Amherst的Laura Figueroa领导的团队开发了两个分析蜂类声音的AI模型：一个检测整体蜂类活动，另一个区分蜜蜂和熊蜂。模型以五年间在U.S.东北部43个地点采集的594段野外录音训练，正确识别了样本中93%–97%的蜂类，并与受过训练的观察者高度相关。"
+        },
+        {
+          "t": "p",
+          "x": "作者认为该工具可作为传统方法的补充，适用于树冠等难以采样的地方。这些模型可在Raven Pro上使用。"
+        }
+      ]
+    },
+    "science/science-nz-rain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+          "cap": "新西兰（New Zealand）的暴雨。Credit: Roman Castillo from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Neelesh Rampal与Steven Sherwood在The Conversation撰文介绍，他们利用以140年区域气候模拟（涵盖历史与更暖的未来条件）训练的生成式AI，在约12 km宽的网格上描绘新西兰（New Zealand）多种可能的气候未来。"
+        },
+        {
+          "t": "p",
+          "x": "该AI借助四枚专用芯片，在六小时内生成了逾15,000个模拟年，在温室气体排放持续上升的情景下，重演历史并推演至2100年的可能未来。"
+        },
+        {
+          "t": "p",
+          "x": "就新西兰（New Zealand）全境平均而言，one-in-100-year（百年一遇）事件的日降雨量每升温一度约增加9%，快于更常见强降雨约5.6%的增幅：地球越暖，最罕见的暴雨就越猛烈。"
+        },
+        {
+          "t": "p",
+          "x": "变暖还拉大了较温和与较严重可能未来之间的差距。在较严重的未来中，极端降雨的增幅明显高于平均水平。该研究发表于Climate Dynamics。"
+        }
+      ]
     }
   }
 }

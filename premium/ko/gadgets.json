@@ -14280,6 +14280,171 @@
           "x": "Perplexity Pro, Max, Enterprise 구독자라면 오늘부터 최신 Perplexity Mac 앱을 깔고 앱 안내대로 로컬 모델을 내려받아 Computer를 로컬에서 쓰면 된다."
         }
       ]
+    },
+    "gadgets/gadgets-meta-spatial-sdks": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta가 Meta Connect 2026에서 공간 앱용 새 SDKs와 기능을 여럿 내놓았다. Meta VR Glasses 출시를 앞두고 컴퓨팅 영역을 넓히려는 움직임이다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
+        },
+        {
+          "t": "p",
+          "x": "Meta VR Layout SDK를 쓰면 개발자는 일반 Jetpack Compose나 React Native Android 앱의 메인 창 둘레에 공간 컴포넌트와 창을 붙일 수 있다. 앱은 비몰입형 그대로 기존 구조를 유지하고, Spatial SDK로 옮겨 갈 필요도 없다. NBA 앱이 가장 먼저 이를 들인 앱 중 하나다. visionOS-like 창 배치는 되지만 3D 객체는 띄울 수 없으며, 완전한 지원은 Horizon OS 2.7 이상부터다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
+          "cap": "Callstack이 시연한 Meta VR Layout SDK."
+        },
+        {
+          "t": "p",
+          "x": "얼리 액세스로 나온 새 Gaze SDK를 쓰면 개발자가 안경의 \"Look and Pinch\" 눈·손 추적 입력에 힌트를 주고 호버 동작을 원하는 대로 바꿀 수 있다."
+        },
+        {
+          "t": "video",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Meta VR UI Set SDK는 다크·라이트 색 구성, 시맨틱 색상, 타이포그래피, 아이콘, 컴포넌트 치수, 인터랙션 피드백을 갖춘 Jetpack Compose 디자인 시스템이다. Meta는 이 SDK를 AI 코딩 에이전트가 구현하기 좋게 최적화했다고 설명하고, Horizon OS UI Set의 뒤를 잇는 제품이라고 부른다."
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
+        },
+        {
+          "t": "p",
+          "x": "십일월에는 Quest용 Disney+의 공간 UI가 크게 바뀐다. visionOS 앱에 있던 3D 미디어와 여러 3D 환경이 들어온다."
+        }
+      ]
+    },
+    "gadgets/gadgets-amd-fsr41-older-gpus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Radeon 총괄 Jack Huynh는 Radeon RX 6000 시리즈 카드, Xbox Series X·Series S 콘솔, Ryzen Z-series 휴대용 기기, Ryzen AI Max·AI 9 칩 탑재 기기에 FSR 4.1을 내놓는다고 발표했다. AMD가 RX 6000용으로 약속했던 2027년 초보다 이른 일정이다."
+        },
+        {
+          "t": "p",
+          "x": "AMD는 FSR 4.1의 신경망 모델을 Radeon 9000 카드의 FP8 행렬 가속 대신 INT8 셰이더 하드웨어에서 돌도록 손봤다고 밝혔다. 휴대용 버전은 더 덜어내 크기가 전체 버전의 절반도 안 된다."
+        },
+        {
+          "t": "p",
+          "x": "AMD는 화질이 FSR 3보다 낫다고 말한다. Tom's Hardware가 Radeon RX 6900 XT에서 Cyberpunk 2077을 4K 해상도, FSR Balanced 모드로 간단히 돌려 보니 FSR 4는 성능을 약 13% 깎았다. 더 선명하고 안정적인 화면을 얻는 값으로는 작다. 화질이 좋으니 Performance 모드로 내려 손실을 메울 수도 있다."
+        },
+        {
+          "t": "video",
+          "yt": "fT6TIXnmv-s"
+        },
+        {
+          "t": "p",
+          "x": "AMD는 FSR Frame Generation의 프레임 페이싱이 나아졌고 FSR 4.1의 Vulkan 지원도 곧 들어간다고 밝혔다. FSR Ray Regeneration은 Warhammer 40,000: Darktide를 시작으로 더 많은 게임으로 넓어진다."
+        }
+      ]
+    },
+    "gadgets/gadgets-llamacpp-moe-offload-8gb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+        },
+        {
+          "t": "p",
+          "x": "PC가 돌릴 수 있는 로컬 AI 모델의 한계는 VRAM이 정하는 듯 보인다. 하지만 XDA 필자는 8GB RTX 3070 Mobile GPU를 단 Lenovo Legion 5에서 거대한 모델을 쓸 만한 속도로 돌리는 우회법을 찾아냈다."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
+          "cap": "8GB 노트북에서 llama-bench를 돌리는 모습."
+        },
+        {
+          "t": "p",
+          "x": "Mixture-of-Experts 모델은 가중치 가운데 일부만 활성화한다. Qwen3.6-35B-A3B는 파라미터 350억 개 가운데 약 30억 개만 활성 상태다. llama.cpp의 --n-cpu-moe N 플래그를 -ngl 99와 함께 쓰면 처음 N개 레이어의 전문가 텐서는 시스템 RAM으로 가고 어텐션 레이어·임베딩·공유 가중치·KV 캐시는 VRAM에 남는다."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
+          "cap": "llama-bench로 얻은 벤치마크 데이터."
+        },
+        {
+          "t": "p",
+          "x": "llama-bench로 재 보니 밀집형 Qwen3.6-27B 모델은 초당 0.75토큰을 생성했다. Qwen3.6-35B-A3B는 오프로드 없이 초당 4.02토큰이었고, 전문가 레이어 28개를 RAM에 두자 32.82토큰까지 올랐다. 프롬프트 처리도 초당 109.66토큰에서 341.37토큰으로 빨라졌다."
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
+        },
+        {
+          "t": "p",
+          "x": "초당 약 33토큰이면 필자가 읽는 속도보다 훨씬 빠르다. 이제 35B 모델을 노트북에 담아 비행기에서든 호텔에서든 네트워크 없이 쓸 수 있다."
+        }
+      ]
+    },
+    "gadgets/gadgets-birdbuddy-nook": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Birdbuddy가 CES 2026에서 공개한 스마트 모이통을 이름을 바꿔 내놓는다. Birdbuddy 2 Mini는 Birdbuddy Nook이 됐다. 회사가 \"지금까지 가장 접근하기 쉬운 스마트 모이통\"이라 부르는, 더 작고 싼 모델이다. 플래그십 Birdbuddy 2의 새 이름은 Birdbuddy Home이다. 둘 다 Birdbuddy 온라인 스토어에서 판다."
+        },
+        {
+          "t": "p",
+          "x": "Nook은 99달러부터다. 새로 디자인한 원형 2K HDR 카메라는 시야각이 135도이고, 새가 앉으면 깨어나 가로나 세로로 찍는다. 찾아온 새의 종은 AI-powered Birdbuddy 앱이 정확히 알아낸다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Nook에는 모이가 3.8컵 들어간다. 159달러짜리 Nook Solar는 지붕에 태양광 패널을 얹었고, 199달러짜리 Nook Extended Edition은 횃대가 더 크다."
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
+          "cap": "Birdbuddy Home에는 배터리 수명을 늘리도록 지붕에 태양광 패널 두 개가 기본으로 달려 있다."
+        },
+        {
+          "t": "p",
+          "x": "219달러인 Home은 같은 카메라를 더 크고 손이 덜 가는 모이통에 넣었다. 여섯 컵들이 저장통, 태양광 패널 두 개, 내장 횃대 연장대, 듀얼 밴드 Wi-Fi에 새소리로 종을 가려내도록 돕는 개선된 마이크까지 갖췄다."
+        }
+      ]
+    },
+    "gadgets/gadgets-hue-ai-behaviors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+          "cap": "Signify"
+        },
+        {
+          "t": "p",
+          "x": "Philips Hue는 IFA 2026에서 새 하드웨어부터 새 연동 기능까지 여러 가지를 발표했다. Hue Bridge Pro에 Custom AI Behaviors라는 기능을 넣겠다는 계획도 그중 하나다. 원래 시월 초에 나올 예정이었는데 아직 나오지 않았다. "
+        },
+        {
+          "t": "p",
+          "x": "오래 기다리진 않아도 된다. Hueblog에 따르면 Philips Hue는 Custom AI Behaviors를 다음 주에 내놓는다고 확인했다. 일정은 밀렸어도 시월은 넘기지 않는다. "
+        },
+        {
+          "t": "p",
+          "x": "조명 자동화를 직접 짜고 싶은 Hue Bridge Pro 사용자용 새 도구다. Hue AI 어시스턴트에게 원하는 조명 자동화를 설명하면 AI가 요청대로 자동화를 만들어 준다. "
+        },
+        {
+          "t": "p",
+          "x": "특정 시간이 지나 Hue 디머 스위치를 누르면 장면이 켜지고 차례로 바뀌게 해 달라고 AI 어시스턴트에게 말하는 식이다. 자동화는 AI가 대신 만들어 주니 직접 설정할 일이 없다. 이 기능은 Hue Bridge Pro에서만 쓸 수 있다. "
+        }
+      ]
     }
   }
 }

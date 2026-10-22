@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "section": "games",
   "generated_by": "curator",
   "selection_mode": "curator (user deferred)",
@@ -10,13 +10,13 @@
       "category": "games",
       "accent": "#7928ca",
       "motif": "cube",
-      "title": "크래프톤, 독자 개발 LLM '라온-1 미니' 성능 공개",
-      "url": "https://www.gamemeca.com/view.php?gid=1782130",
-      "source": "게임메카",
-      "published_iso": "2026-10-21T16:29:03+09:00",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp",
-      "excerpt": "크래프톤이 자체 개발한 300억 개 파라미터 규모의 거대언어모델 라온-1 미니 프리뷰를 공개했다. 이번 모델은 허깅페이스를 통해 오픈소스로 배포되어 상업적 활용도 가능하다. 크래프톤은 향후 지속적인 업데이트와 정식 버전 출 싲 테크니컬 리포트를 공개할 예정이다",
-      "rationale": "New release: a major game publisher open-sources its own 30B LLM (Raon-1 mini preview) on Hugging Face with commercial use allowed."
+      "title": "Wonder Interactive's Strata uses AI to take Unreal Engine games to browsers using WebAssembly and WebGPU",
+      "url": "https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/",
+      "source": "GamesBeat",
+      "published_iso": "2026-10-22T13:15:00+00:00",
+      "og_image": "https://gamesbeat.com/wp-content/uploads/2026/10/wonder-2.jpg",
+      "excerpt": "Wonder Interactive has unveiled Strata, an AI-powered dev tool that that can turn Unreal Engine projects into playable browser links using WebAssembly and WebGPU.",
+      "rationale": "New dev tool release: AI-assisted pipeline that turns Unreal Engine projects into shareable browser builds via WebAssembly/WebGPU — directly actionable for devs."
     },
     {
       "rank": 2,
@@ -24,13 +24,13 @@
       "category": "games",
       "accent": "#0070f3",
       "motif": "cube",
-      "title": "\"AI is a technofascist, anti-human and anti-art project\", says creator of lefty tech satire Future? No Thanks!, before explaining why he used it anyway",
-      "url": "https://www.rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway",
-      "source": "Rock Paper Shotgun",
-      "published_iso": "2026-10-21T11:42:31.597221+00:00",
-      "og_image": "https://assetsio.gnwcdn.com/futurenothanks_XVnmkEK.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
-      "excerpt": "Molleindustria, developer of leftist tech satire Future? No Thanks!, has admitted he used ChatGPT and Claude for a \"tiny fraction\" of code.",
-      "rationale": "New disclosure: an outspoken anti-AI developer (Molleindustria) admits using ChatGPT and Claude for part of the code, a concrete case of where the line sits for indie devs."
+      "title": "Epic wants to pay you $50,000 to vibe code an AI slop game",
+      "url": "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-10-22T21:09:38Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg",
+      "excerpt": "Epic Games' Unreal Engine AI MegaJam promises up to $50,000 in prizes for games built with AI tools ('Vibe your way to 50K'), drawing backlash over Epic's AI-first push.",
+      "rationale": "New announcement: Epic launches the Unreal Engine AI MegaJam with up to $50K in prizes for AI-built games — a concrete program, not more commentary on the AI-first memo."
     },
     {
       "rank": 3,
@@ -38,13 +38,13 @@
       "category": "games",
       "accent": "#f5a623",
       "motif": "cube",
-      "title": "누구나 만드는 '바이브 코딩 웹게임'의 위험성",
-      "url": "https://www.gamemeca.com/view.php?gid=1782007",
-      "source": "게임메카",
-      "published_iso": "2026-10-19T18:56:50+09:00",
-      "og_image": "https://cdn.gamemeca.com/gmdata/0001/782/007/gm516237_vc.webp",
-      "excerpt": "자연어 기반 바이브 코딩의 확산으로 누구나 손쉽게 웹게임을 제작하고 배포하는 시대가 열렸다. 그러나 보안 지식이 부족한 상태에서 AI에만 의존해 제작된 웹게임들은 심각한 보안 취약점과 정보 유출 우려를 낳고 있다. 또한 규모가 커진 웹게임들은 영리 활동 여부와 콘텐츠 내용에 따라...",
-      "rationale": "Actionable: security holes, data leaks and regulatory exposure of AI-only vibe-coded web games — a checklist angle not covered by earlier vibe-coding stories."
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "url": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "source": "The Verge",
+      "published_iso": "2026-10-22T17:21:31+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
+      "excerpt": "The Nintendo Switch 2 has apparently been jailbroken by a modder who used OpenAI tools and the $25 SmileBASIC 4 eShop app, already showing a custom Mario Kart World with new playable characters.",
+      "rationale": "New event: an AI-assisted Switch 2 jailbreak via a $25 eShop app — a first for AI-driven console exploitation with platform-security implications."
     },
     {
       "rank": 4,
@@ -52,13 +52,13 @@
       "category": "games",
       "accent": "#2ec5c5",
       "motif": "cube",
-      "title": "Agree IP terms early, cut through AI hype, stop overloading players: Four lessons from PGC Nordics",
-      "url": "https://www.pocketgamer.biz/pgc-nordics-2026-live-ops-d2c-ai-ip-talks/",
-      "source": "PocketGamer.biz",
-      "published_iso": "2026-10-21T17:28:00+01:00",
-      "og_image": "https://media.pocketgamer.biz/images/141811/90088/sessionspgcnordics_l1200.jpg",
-      "excerpt": "Four sessions at PGC Nordics covered four different topics. All four landed in the same place: doing more is not always a useful strategy",
-      "rationale": "Fresh conference takeaways for studios: practical guidance on cutting through AI hype alongside IP, live-ops and D2C lessons."
+      "title": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting'",
+      "url": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/",
+      "source": "PC Gamer",
+      "published_iso": "2026-10-21T22:26:41Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg",
+      "excerpt": "Amanita Design condemned an AI-generated 'tribute' to Machinarium posted by the CEO of AI storytelling company Nura Studios, saying it 'looks disgusting and has nothing to do with us or our craft'.",
+      "rationale": "New incident: Amanita Design publicly disowns an AI-generated Machinarium 'tribute' by an AI studio CEO — art-style appropriation, relevant to artists and IP holders."
     },
     {
       "rank": 5,
@@ -66,43 +66,43 @@
       "category": "games",
       "accent": "#eb367f",
       "motif": "cube",
-      "title": "Xbox Manager Says 'Hundreds' There Are Using AI Before Deleting Account: 'If I'm Fired Tomorrow It Will Be Because I Told You The Truth That Nobody Wants You To Know'",
-      "url": "https://kotaku.com/xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-instead-2000747938",
-      "source": "Kotaku",
-      "published_iso": "2026-10-20T16:40:58+00:00",
-      "og_image": "https://kotaku.com/app/uploads/2026/08/xbox-red-ring2-1200x675.jpg",
-      "excerpt": "When 'posting through it' goes horribly wrong — Brandon Stirrup wants you to know that he's done pretending. The senior business strategy manager at Microsoft went on a posting spree to assert that use of AI at Xbox is widespread and that he no longer cares who knows it, even if it costs him his job.",
-      "rationale": "Insider claim from a Microsoft senior strategy manager that hundreds at Xbox use AI internally, a new data point on platform-holder adoption, distinct from the 10-14 Xbox Labs ports story."
+      "title": "\"Someone's getting fired\": Arc Raiders player says Embark used ChatGPT to respond to their complaint and accidentally sent several messages intended for others",
+      "url": "https://www.gamesradar.com/games/third-person-shooter/someones-getting-fired-arc-raiders-player-says-embark-used-chatgpt-to-respond-to-their-complaint-and-accidentally-sent-several-messages-intended-for-others/",
+      "source": "GamesRadar+",
+      "published_iso": "2026-10-22T15:36:48Z",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg",
+      "excerpt": "An Arc Raiders player says Embark Studios support used ChatGPT to answer their complaint, accidentally pasting a chain of about 10 prompt-and-response exchanges including messages meant for other players.",
+      "rationale": "New incident: Embark's player support pasted a ChatGPT prompt chain including other players' messages — a cautionary case for AI in live-ops customer support."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.gamemeca.com/view.php?gid=1782130": {
+      "https://gamesbeat.com/wonder-interactives-strata-uses-ai-to-take-unreal-engine-games-to-browsers-using-webassembly-and-webgpu/": {
         "verdict": "new",
-        "nearest": "https://www.gamemeca.com/view.php?gid=1781560",
+        "nearest": "https://www.gamesindustry.biz/meta-unveils-ai-powered-game-tools-for-mobile-devices-and-browsers-announces-vr-glasses-with-day-one-unity-support",
         "new_action": ""
       },
-      "https://www.rockpapershotgun.com/ai-is-a-technofascist-anti-human-and-anti-art-project-says-creator-of-lefty-tech-satire-future-no-thanks-before-explaining-why-he-used-it-anyway": {
+      "https://www.gamesradar.com/games/epic-wants-to-pay-you-usd50-000-to-vibe-code-an-ai-slop-game/": {
+        "verdict": "new",
+        "nearest": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
+        "new_action": ""
+      },
+      "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://www.gamemeca.com/view.php?gid=1782007": {
-        "verdict": "new",
-        "nearest": "https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300",
-        "new_action": ""
-      },
-      "https://www.pocketgamer.biz/pgc-nordics-2026-live-ops-d2c-ai-ip-talks/": {
+      "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/": {
         "verdict": "new",
         "nearest": "",
         "new_action": ""
       },
-      "https://kotaku.com/xbox-manager-tries-to-legitimize-ai-in-wild-rant-deletes-his-account-instead-2000747938": {
+      "https://www.gamesradar.com/games/third-person-shooter/someones-getting-fired-arc-raiders-player-says-embark-used-chatgpt-to-respond-to-their-complaint-and-accidentally-sent-several-messages-intended-for-others/": {
         "verdict": "new",
-        "nearest": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+        "nearest": "https://www.polygon.com/arc-raiders-frozen-trail-bully-machine-learning/",
         "new_action": ""
       }
     },
-    "note": "Pool 16. Full gamemeca URLs checked incl. ?gid=: 1782130 and 1782007 are not in history (history has 1781560/1781573/1781633/1781919). Dropped Steam Next Fest AI-slop items as the same running story as 10-20 IGN no-AI-filter: PC Gamer week-in-review, Destructoid 'AI slop fest', GamesRadar Palworld lead, GamesRadar 'Probably Stolen' demo; Aftermath demo-theft fears (= 10-17 Kotaku demo ditch / 10-21 Inven 스푸키친) — none kept, so zero Next Fest cards. Dropped Kotaku Goku voice actor (reaction tied to the union guidance published 10-20 via Eurogamer; no new decision; same call as 10-21 curator). Dropped GameMeca gid=1782071 AI reverse-engineering copycats (analysis on the AI-copycat running story, 10-17/10-21). Dropped Kotaku Pokemon decompilation (same running story as 10-16 decomp.dev shutdown, no new release). Dropped GamesRadar Kenney/Sweeney/Musk spat and Aftermath Sweeney column (commentary on 10-13 Epic 'AI first'). Dropped PC Gamer Samson founder (studio-closure business news, speculative AI angle). Diversity: 4 outlets (게임메카 x2, RPS, PocketGamer.biz, Kotaku), distinct palette accents."
+    "note": "Pool 20. Epic MegaJam pair (cluster c0): kept GamesRadar ($50K detail, better image), dropped Destructoid duplicate; MegaJam is a new contest announcement distinct from 10-13 Epic 'AI first' memo and 10-15 vibe-coded launcher. Dropped PC Gamer driving-sim $1,000/day (= 10-10 gamemeca gid=1781573 same story). Dropped Kotaku Goku voice (reaction to union guidance published 10-20 Eurogamer). Dropped RPS Tarn Adams (= 10-14 GI.biz 'happiest man in gaming hates generative AI'). Dropped AI-copycat/demo running story: Aftermath Next Fest demo theft, Game Developer Digital Sun ReVamp playtest, gamemeca gid=1782071 (same thread as 10-17 Kotaku demo ditch / 10-21 inven news=322319). Dropped gamemeca gid=1782201 Com2uS GGDC Hive Axel talk (conference talk on product launched 9-30 inven news=321491, no new release). Dropped GamesRadar Sweeney/Musk spat (commentary on 10-13 Epic AI-first). Dropped Kotaku Pokemon decompilation (decomp running story, as on 10-22). Dropped PC Gamer Google golden-age essay and RPS Samson founder (commentary), Aftermath slop-hobbies essay, inven news=322451 modding feature (analysis; not in history by full URL). Kotaku SonicFox left as next backfill. Full gamemeca ?gid= / inven ?news= URLs compared — none picked. Diversity: 4 outlets (GamesRadar+ x2, GamesBeat, The Verge, PC Gamer), distinct accents."
   }
 }

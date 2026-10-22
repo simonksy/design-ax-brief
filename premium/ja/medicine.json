@@ -1794,6 +1794,139 @@
           "x": "University of SurreyのMiroslaw Bober教授は「有望な概念実証だが、臨床で使える段階ではない」と評し、「結果を予測することは、それを説明することと同じではない」と警告する。"
         }
       ]
+    },
+    "medicine/medicine-sentara-regard-case-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+        },
+        {
+          "t": "p",
+          "x": "非営利の医療システムSentara Healthは火曜日、臨床意思決定支援企業Regardと共同開発した新たな人工知能によるケース管理ソリューションを導入した。"
+        },
+        {
+          "t": "p",
+          "x": "ケース管理者はこのツールで平易な言葉を使ってカルテを照会し、患者の病歴や状態の変化といった重要な情報をすばやく把握できる。直近24時間以内の変化も確認できる。"
+        },
+        {
+          "t": "p",
+          "x": "Sentaraの最高医療情報責任者Rollin Reeder, M.D.は「退院計画に取りかかる前に、患者の経過をつなぎ合わせるのにかつてどれほどの時間を費やしていたかを考えると、驚くばかりだ」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "Sentaraはこのツールを急性期医療全体に広げ、外来医療にも拡大する計画だ。経営陣によれば、約90,000時間を節約でき、これはフルタイム職員40人超、人件費約$5 million 相当に当たるという。Sentaraはバージニア州(Virginia)とノースカロライナ州北東部(Northeast North Carolina)で12の病院と400を超える診療拠点を運営している。"
+        },
+        {
+          "t": "p",
+          "x": "RegardのCEO、Eli Ben-Joseph氏は、同社のプラットフォームが医師に受け入れられた診断を20 million 件以上提示してきたとし、運用チームへの拡大は「自然な次のステップ」だと述べた。"
+        }
+      ]
+    },
+    "medicine/medicine-coreline-neck-ct-lung-cancer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+        },
+        {
+          "t": "p",
+          "x": "特定の疾患を確認するために撮影したCTから、検査目的以外の隠れた重症疾患まで見つけ出す「機会検診(Opportunistic Screening)」が、医療AI業界の中心的な話題に浮上している。"
+        },
+        {
+          "t": "p",
+          "x": "Coreline Softの胸部CT肺結節解析ソリューション「AVIEW LCS」を用い、首のCT読影で見落とされやすい初期肺がん病変を検出した臨床研究が、国際学術誌『Korean Journal of Radiology』の最新号に掲載された。首のCTは撮影範囲の下端に肺尖部が部分的に含まれるが、読影医の視線が首の周辺に集中するため、端にある小さな肺病変が見落とされることが少なくなかった。"
+        },
+        {
+          "t": "p",
+          "x": "韓国の上級総合病院の研究チームが2008〜2024年に首のCTを撮影した成人8万1794人を後ろ向きに追跡した結果、後に肺がんと確定診断された患者のうち、過去の首のCTにすでに病変が写っていた例が123件あった。このうち65.0%にあたる80人の読影記録には、肺病変の所見がまったくなかった。見落とし群は確定診断まで中央値27.5カ月を要し、T·N·Mのいずれかが悪化した割合も47.5%と、即時発見群(11.6%)の4倍以上だった。"
+        },
+        {
+          "t": "p",
+          "x": "研究チームが見落とし例80件にAVIEW LCSを適用したところ、胸部専用のアルゴリズムを首のCT向けに再学習させていないにもかかわらず、80件中41件(感度51.3%)を指摘した。偽陽性率や特異度など追加検証の課題は残るものの、特定部位向けのAIが他部位の画像でも補完的なセーフティネットになり得ることを示す探索的な根拠を得たと評価されている。"
+        },
+        {
+          "t": "p",
+          "x": "Coreline Softは胸部CTだけで肺結節、COPD・肺気腫、冠動脈石灰化を同時に解析する「One CT, Multi-Disease」戦略を掲げており、2026年上半期の売上高は前年同期比45.7%増、海外売上高は123.0%増となった。"
+        }
+      ]
+    },
+    "medicine/medicine-llm-choosing-wisely": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+        },
+        {
+          "t": "p",
+          "x": "大規模言語モデル(LLMs)はChoosing Wiselyの試験で不要な医療をほとんど勧めないが、甲状腺超音波検査ではその傾向が出やすいとする研究結果が、10月19日付のAnnals of Internal Medicineに掲載された。"
+        },
+        {
+          "t": "p",
+          "x": "テルアビブ(Tel Aviv)のClalit Health ServicesのDean Ariel, MDらのチームは、Choosing Wiselyの推奨15項目から225のシナリオを作成し、臨床医の立場からのプロンプトを用いて六つの商用LLMを試験し、4,050件の回答を得た。"
+        },
+        {
+          "t": "p",
+          "x": "LLMが過剰医療を勧めた例(LLM-recommended overuse)は5.4%で、15項目中八つでは皆無だった。大半を占めたのは二つで、偶然見つかったセンチメートル未満の結節に対する甲状腺超音波(回答の42.8%)と、低リスク成人への定期的な心電図検査(28.3%)である。必要な医療を誤って控えた例は0.6%で、PSA検診が3.3%と最も高かった。"
+        },
+        {
+          "t": "p",
+          "x": "小さな偶発結節に対する甲状腺超音波は、この研究で学会ガイドライン間に明確な見解の相違がある唯一の推奨である。著者らは「両者を分け、モデルが直面したのは、まさに画像検査をするかどうかだ」と記した。"
+        },
+        {
+          "t": "p",
+          "x": "同時掲載の論説は、実際の症例を用いた研究を求めるとともに、本研究を過剰医療を明示的に扱った初の発表研究と位置づけた。"
+        }
+      ]
+    },
+    "medicine/medicine-brainomix-elung-fibrosis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+        },
+        {
+          "t": "p",
+          "x": "人工知能を活用した定量CT解析により、臨床診断の数カ月前に肺線維症の兆候を特定できることが、Annals of the American Thoracic Societyに掲載された新たな多施設研究で明らかになった。"
+        },
+        {
+          "t": "p",
+          "x": "この後ろ向き研究では、University of Chicago、Weill Cornell Medicine、University of Alabama at Birminghamの線維性間質性肺疾患患者509人を、FDA承認済み(FDA-cleared)の定量CTツールであるBrainomixのe-Lungで評価した。研究資金はBoehringer Ingelheimが提供した。"
+        },
+        {
+          "t": "p",
+          "x": "これらの指標は、臨床的な肺線維症診断より平均16カ月早く画像上の進行を捉え、ある施設では最大28カ月に達した。検査時点で臨床的に安定とみなされていた患者のかなりの割合でも、進行を検出した。"
+        },
+        {
+          "t": "p",
+          "x": "ベースラインの加重網状血管スコアが高いほど将来の肺線維症リスクが高く、連続CTで総病変範囲が1.5%変化すると死亡率の上昇と関連していた。BrainomixとBoehringer Ingelheimは、米国(U.S.)での前向き多施設研究PROGRESS-PPFを通じて研究を続ける計画だ。"
+        }
+      ]
+    },
+    "medicine/medicine-epic-connectors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+          "cap": "医療機関はMarch 2027から、開発者が作ったConnectorsをEpic Showroomで探せるようになる。(ismagilov/GettyImages)"
+        },
+        {
+          "t": "p",
+          "x": "Epicは、開発者が自社アプリをEpicのAIツールに接続できる「Connectors」を発表した。対象は患者向けアシスタントEmmie、臨床医向けアシスタントArt、収益サイクル・業務向けAIのPenny、さらに医療機関がAgent Factoryで構築する独自エージェントである。発表はOpen@Epicカンファレンスに先立って行われた。"
+        },
+        {
+          "t": "p",
+          "x": "Epicの例では、Connectorが救急車アプリから到着時刻を取得してED（救急部門）が準備できるようにし、Emmieが入院患者の食事注文を栄養管理アプリに直接入力する。エージェントは複数のConnectorsを組み合わせ、一つの多段階ワークフローにできる。"
+        },
+        {
+          "t": "p",
+          "x": "Epicは当初、Model Context Protocol（MCP）を標準として採用する。医療機関は各Connectorが何を読み取り、何を変更できるかを確認してから有効化し、EpicはShowroomへの掲載について開発者に料金を課す（価格は非公開）。"
+        },
+        {
+          "t": "p",
+          "x": "Epic VPのJohnston Thayer氏は「これらの機能によって新たな自律的行動が取られることはない」と述べた。一部の医療機関パートナーとのテストは年末までに始まる。"
+        }
+      ]
     }
   }
 }

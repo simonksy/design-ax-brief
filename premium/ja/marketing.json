@@ -1978,6 +1978,139 @@
           "x": "X上のPPCマーケターの反応はおおむね懐疑的で、リードの質が低いためChatGPT adsのテストをすでに停止したという声もあった。"
         }
       ]
+    },
+    "marketing/marketing-chatgpt-ad-stack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIは、ChatGPTの広告システムが会話を解釈し、関連する広告を選び、広告配信をオーガニックな回答から切り離す仕組みを公開した。同社によると、ChatGPT Adsはローンチから200日足らずで年換算売上ランレートが$1 billion の水準に達し、100,000以上の広告主が広告を出稿した。"
+        },
+        {
+          "t": "p",
+          "x": "広告を選ぶシステムは、ChatGPTの回答を書くシステムとは別に、独自のモデルとコードで動く。ChatGPTはそれを待たず、届くのが遅すぎた広告はその回答には表示されない。"
+        },
+        {
+          "t": "p",
+          "x": "OpenAIが「orchestrator(オーケストレーター)」と呼ぶモデルが会話を読み、関連部分を検索クエリと埋め込みに変換し、「stateful」なセッションをまたいで詳細を追跡する。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+        },
+        {
+          "t": "p",
+          "x": "このモデルは適格性(地域ターゲティング、ポリシー、予算、ペーシング)を確認し、適合度と表示・クリック・コンバージョンの見込みを評価したうえで、最終的なランク付け、価格設定、選定を担う別の入札ツールに候補を送る。言語モデルが落札者を直接選んだり、価格を決めたりすることはない。"
+        },
+        {
+          "t": "p",
+          "x": "入札で勝った広告でも、入札後の適合チェックで外されたり、配信の時間枠を逃したりすることがある。投稿にはCPA、ROAS、コンバージョン率のベンチマークは示されていない。"
+        }
+      ]
+    },
+    "marketing/marketing-cnn-international-agentic-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Skydanceとの取引が完了し、CNNの将来は多くが不透明になった。だが、AIエージェントを通じて広告を販売するCNN Internationalの計画はその例外だ。発表から七か月が経った今も、同ネットワークは2027年第一四半期のローンチに向けて計画どおり進めている。"
+        },
+        {
+          "t": "p",
+          "x": "CNN International CommercialとWarner Bros Discoveryでデジタルオペレーション担当副社長を務めるFaisal Karmaliは「最初の売上が入る時期としてQ1を示した。今もそうなることを期待している」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "同局は自前のエージェント基盤に、デマンドサイドプラットフォームなど外部の技術パートナーを組み合わせている。そのためには、エージェントに自社のビジネスルールを教え、フロントエンドを与え、買い手のエージェントが頼るLLMsに在庫が正しく読み取られるようにする必要がある。"
+        },
+        {
+          "t": "p",
+          "x": "未解決の問題も残る。エージェントが取引慣行をすり抜けるのを防ぐガードレールは何か、競合する規格がある中でどの語彙を使うのか、といった点だ。SWYMのCEO、Ravi Patelは「セラーエージェントは直接販売にとって確かな効率化だ」と述べ、「ただし自動化するのは取引であって、配信ではない」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "Karmaliは、エージェントがパブリッシャー側に力を移せるかどうかについて「まだ言うには早すぎる」とした。Agent-ledの取引はCNN Internationalの広告事業の5%から始まる可能性もあれば、いずれ50%に達する可能性もあるという。"
+        }
+      ]
+    },
+    "marketing/marketing-ai-discovery-reviews": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
+        },
+        {
+          "t": "p",
+          "x": "Feedvisorの新たな調査によると、買い物客の16%がChatGPTで商品探しを始めるが、購入のために使うのは9%にとどまる。AIアシスタントが商品を薦めても、その場で買うのは5%だけで、残りはより安い価格を求めてGoogleやAmazonなどのプラットフォームをまず確認する。"
+        },
+        {
+          "t": "p",
+          "x": "PartnerCentricの調査では、AIの提案を受けた後、買い物客の33%が既存のレビューを確認し、22.3%が価格を比較し、18.8%がAmazonなどの小売サイトで検索した。ブランドのウェブサイトを訪れたのは14.8%にすぎない。創業者兼CEOのStephanie Harrisは「AIは出発点であって、最終的な判断ではない」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "Channel V MediaのKieran Powellは、AIはリサーチの段階を制していると述べた。Prosper Insights & Analyticsの調査では、AIエージェントに衣料品の購入を任せるとした人は7.3%にとどまった。Powellは「$40のシャツさえAIに買わせないのなら、どのシャツが良いかもAIには決めさせないだろう」と語った。"
+        },
+        {
+          "t": "p",
+          "x": "AIアシスタントからのトラフィックが着実に伸びているMuselyは、GEOに注力している。Paris Rocheは「私たちの目標は、単にAIに言及されることではない」と述べた。Harrisは「そうしたシグナルが食い違うと、AIはそれを取り繕わない。むしろそのずれを早く浮き彫りにする」と付け加えた。"
+        }
+      ]
+    },
+    "marketing/marketing-kobaco-aisac-gambling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "共に民主党のイ・ジョンホン議員は、韓国放送広告振興公社(KOBACO)の生成AI広告制作プラットフォームが違法・有害広告をきちんと遮断できていないと指摘した。"
+        },
+        {
+          "t": "p",
+          "x": "イ議員は22日、国会科学技術情報放送通信委員会の国政監査で、KOBACOのAI広告制作支援プラットフォーム「アイザック(AiSAC)」に「稼げるスロットゲーム」「スロットマシン」などのキーワードを入力し、違法賭博ゲームを宣伝する広告の絵コンテを実際に作ってみせた。"
+        },
+        {
+          "t": "p",
+          "x": "イ議員は「特定の単語や画像だけを遮断してはならない」とし、「広告の全体的な文脈と目的まで検証すべきだ」と指摘した。"
+        },
+        {
+          "t": "p",
+          "x": "KOBACOのオム・ジョンファン社長職務代行は「良い意図で始めたが、禁止語とキーワード中心のフィルタリングだったため、迂回する手口までは補えなかった」と述べ、「全体の文脈を把握する方式でフィルタリングを強化し、最終段階でもう一度検証する手続きを準備する」と明らかにした。"
+        }
+      ]
+    },
+    "marketing/marketing-pmax-images": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+          "cap": "12月4日から、新しいGoogle PMaxキャンペーンはDynamic imagesがオフでもランディングページの画像を取り込む"
+        },
+        {
+          "t": "p",
+          "x": "Googleは開発者向けに、2026年12月4日以降に新規作成されるすべてのPerformance Maxキャンペーンで画像抽出が既定でオンになると告知した。広告主がアカウント単位で動的画像をオフにしている場合も同様だ。この変更はGoogle Ads API、Google Adsの管理画面、Google Ads Editorのすべてに適用される。"
+        },
+        {
+          "t": "p",
+          "x": "Googleによると「画像抽出を使うと、Google AIが提供されたランディングページから高解像度の画像を探してクリエイティブアセットを充実させ、Search、YouTube、Display、Discover、Gmail、Mapsにわたってリーチを広げる」という。"
+        },
+        {
+          "t": "p",
+          "x": "既存のPerformance Maxキャンペーンは現在の設定を維持する。抽出を望まない連携サービスは、12月4日までにキャンペーン作成のペイロードを更新し、GENERATE_IMAGE_EXTRACTIONをOPTED_OUTに設定する必要がある。asset_automation_settingsは繰り返しフィールドのため、更新すると配列全体が置き換わり、TEXT_ASSET_AUTOMATIONなど他の設定が誤って消えるおそれがある。"
+        },
+        {
+          "t": "p",
+          "x": "Googleはまた、ランディングページ上の画像の権利を保有し、Googleが広告に利用することを認めていると確認するよう広告主に求めている。ライセンス画像や第三者の画像に関する責任は広告主が負うことになる。"
+        }
+      ]
     }
   }
 }

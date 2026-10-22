@@ -12839,6 +12839,120 @@
           "x": "실험 하나는 화성(Mars)에서 쓰던 JPL 위치 추정 프로그램이다. GPS가 없는 곳에서 머신러닝 알고리즘이 주변 지형을 저장된 지도와 맞춰 보고, 로버가 위험한 크레이터를 비켜 가도록 돕는다."
         }
       ]
+    },
+    "science/science-fusion-plasma-chip": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Brookhaven National Laboratory가 핵융합 플라스마를 실시간으로 감시하는 데 쓸 초전도 칩을 공개했다. 다른 U.S. Department of Energy 시설들, AI 하드웨어 스타트업 Great Sky와 함께 만들었다."
+        },
+        {
+          "t": "p",
+          "x": "토카막에서 플라스마가 예상 밖으로 움직이면 디스럽션이 일어날 수 있다. 장치를 망가뜨릴 수도 있는 급격한 붕괴다. 뇌를 본떠 방대한 데이터를 병렬로 처리하는 뉴로모픽 AI 시스템은 이런 빠른 변화를 따라잡을 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "칩은 아직 실제로 돌아가는 토카막에 연결된 적이 없다. 연구팀이 DIII-D 토카막에서 초당 백만 개 샘플로 기록한 데이터를 재생하자, 칩은 이상을 감지하고 디스럽션을 예측하는 알고리즘을 돌리면서도 속도를 놓치지 않았다. Princeton Plasma Physics Laboratory의 Michael Churchill은 “지금은 이 모든 것이 그야말로 시연 단계”라고 말한다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀은 신경망이 10배 큰 후속 칩을 준비 중이다. 내년 초 Brookhaven에서 먼저 공개하고 그다음 DIII-D에 설치할 계획이다."
+        }
+      ]
+    },
+    "science/science-quantum-sim-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+        },
+        {
+          "t": "p",
+          "x": "양자 시뮬레이션은 분자 에너지 계산, 신소재 탐구, 양자컴퓨팅 알고리즘 시험, 양자계의 시간 변화 예측에 쓰인다. 하지만 전문 수치 기법을 알고 여러 소프트웨어 도구를 능숙하게 다뤄야 하는 경우가 많다."
+        },
+        {
+          "t": "p",
+          "x": "AI 에이전트는 여러 단계짜리 작업을 계획하고 문서를 찾아보고 프로그램을 돌린 뒤 결과를 검토해 접근 방식을 고칠 수 있다. El Agente Cuántico는 이 능력을 양자 시뮬레이션에 가져왔다. 조정 에이전트가 서로 다른 소프트웨어 패키지에 연결된 전문 에이전트들에게 일을 나눠 맡기면 코드와 수치 결과, 그림이 나온다."
+        },
+        {
+          "t": "p",
+          "x": "연구진은 분자 에너지 계산, 얽힘 상태, 소산 동역학, 시간 결정, 오류 정정, 하드웨어 자원 추정에서 이 시스템을 선보였다. 다섯 가지 과제를 되풀이해 시험하니 전문가 평가 평균 점수는 100점 만점에 97점에서 100점이었다. 다만 일부 실행은 지시를 벗어났다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 이 에이전트들이 과학적 판단을 대신하지 않고 거드는 도구라고 말한다. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+        }
+      ]
+    },
+    "science/science-chatbot-delusions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Georgia Tech 연구진 Lorenzo de la Loza와 Vijay Madisetti는 망상적 믿음을 다루는 임상 기반 시나리오 16개로 AI 모델 여덟 종을 1,280회 시험했다."
+        },
+        {
+          "t": "p",
+          "x": "과잉 동의를 억제하는 지시, 곧 비위를 맞추려고 사용자의 믿음을 키워 주지 말라는 지시를 넣자 모델이 그런 믿음을 확인해 주는 경우가 73.8% 줄었다. 자기 성찰 단계를 더하자 감소 폭은 77%까지 커졌다."
+        },
+        {
+          "t": "p",
+          "x": "연구는 임상 현장의 사람을 상대로 시험하지 않았다. 그래서 이 방식이 실제 피해를 막는지까지는 보여 주지 못한다. 결과는 ACM AI Letters에 실렸다."
+        }
+      ]
+    },
+    "science/science-bee-buzz-audio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+          "cap": "꽃가루를 모으는 흔한 주황띠뒤영벌의 소리를 마이크로 녹음하는 모습. Credit: Laura Figueroa"
+        },
+        {
+          "t": "p",
+          "x": "꽃가루 매개 곤충을 모니터링할 때는 주로 곤충을 죽이는 덫을 쓴다. 비눗물을 채운 작은 색깔 컵이 흔한데, 대상이 아닌 곤충까지 많이 죽인다."
+        },
+        {
+          "t": "p",
+          "x": "UMass Amherst의 Laura Figueroa가 이끄는 연구팀은 벌의 소리를 분석하는 AI 모델 두 개를 만들었다. 하나는 벌 활동 전체를 감지하고 다른 하나는 꿀벌과 뒤영벌을 가려낸다. 모델은 U.S. 북동부 43곳에서 다섯 해 동안 모은 현장 녹음 594건으로 학습했다. 표본 속 벌의 93%–97%를 정확히 식별했고, 훈련된 관찰자의 결과와도 상관관계가 강했다."
+        },
+        {
+          "t": "p",
+          "x": "저자들은 이 도구가 전통적 방법을 보완한다고 보고, 나무 수관처럼 표본을 얻기 어려운 곳에서 쓸모 있다고 설명한다. 모델은 Raven Pro에서 쓸 수 있다."
+        }
+      ]
+    },
+    "science/science-nz-rain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+          "cap": "뉴질랜드(New Zealand)의 폭우. Credit: Roman Castillo from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Neelesh Rampal과 Steven Sherwood는 The Conversation 기고에서 생성형 AI로 뉴질랜드(New Zealand)의 가능한 여러 기후 미래를 폭 약 12 km 격자 위에 그려 냈다. 모델은 과거와 더 따뜻한 미래 조건을 아우르는 140년치 지역 기후 시뮬레이션으로 학습했다."
+        },
+        {
+          "t": "p",
+          "x": "이 AI는 특수 칩 네 개로 여섯 시간 만에 15,000년이 넘는 시뮬레이션 연도를 만들어 냈다. 온실가스 배출이 계속 늘어나는 세계를 가정하고 과거와 2100년까지의 가능한 미래를 다시 돌려 본 결과다."
+        },
+        {
+          "t": "p",
+          "x": "뉴질랜드(New Zealand) 전역 평균으로 보면 one-in-100-year(백 년에 한 번) 사건의 일 강수량은 기온이 한 도 오를 때마다 약 9%씩 늘었다. 더 잦은 폭우의 증가폭(약 5.6%)보다 빠르다. 지구가 따뜻해질수록 가장 드문 폭우가 더 거세진다."
+        },
+        {
+          "t": "p",
+          "x": "온난화는 덜 심한 미래와 더 심한 미래의 격차도 벌렸다. 더 심한 쪽에서는 극한 강우가 평균보다 훨씬 크게 늘었다. 연구는 Climate Dynamics에 실렸다."
+        }
+      ]
     }
   }
 }

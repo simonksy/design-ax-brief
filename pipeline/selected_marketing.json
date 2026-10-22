@@ -1,96 +1,96 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "section": "marketing",
   "picks": [
     {
-      "url": "https://ppc.land/google-turns-on-pmax-image-extraction-by-default-from-december-4/",
-      "title": "Google turns on PMax image extraction by default from December 4",
-      "source": "PPC Land",
+      "url": "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/",
+      "title": "Advertisers Pull Meta Ads That Had Unwanted AI Glow-ups",
+      "source": "Adweek",
       "tool": "Marketing",
       "accent": "#ff8a3d",
       "motif": "frame",
-      "rationale": "Starting December 4, Google AI will pull images from advertisers' landing pages into Performance Max creative by default. Advertisers and API tool builders have to opt out before then if they want to keep control of their visuals.",
-      "published_iso": "2026-10-21T21:25:22Z",
-      "og_image": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
-      "excerpt": "From December 4, Google AI will scan landing pages for images to enrich Performance Max creative by default; advertisers and API tools must actively opt out."
+      "rationale": "Meta's new terms, effective Oct 30, make advertisers solely responsible for whatever Meta's Advantage+ AI adds to their ads, and agencies are already pulling live ads over AI edits they never opted into. Anyone running Meta campaigns needs to audit their AI creative toggles this week.",
+      "published_iso": "2026-10-22T12:09:52-04:00",
+      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/ATM.webp?w=600&h=315&crop=1",
+      "excerpt": "Under Meta's new terms coming into play Oct 30, advertisers are \"solely responsible\" for whatever its AI creates"
     },
     {
-      "url": "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/",
-      "title": "Walmart Embraces AI Agents That Shop on Behalf of Customers",
-      "source": "Adweek",
+      "url": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
+      "title": "OpenAI Details How ChatGPT's LLM Ad Stack Selects And Serves Ads",
+      "source": "Search Engine Journal",
       "tool": "Marketing",
       "accent": "#0070f3",
       "motif": "frame",
-      "rationale": "Walmart is publishing rules for third-party AI shopping agents, including spending controls and transaction approvals, while Amazon blocks them. The largest US retailers are now split on whether to open agentic checkout.",
-      "published_iso": "2026-10-21T21:55:37Z",
-      "og_image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Walmart-AI.jpg?w=600&h=315&crop=1",
-      "excerpt": "Walmart is setting the rules AI shopping agents must follow to buy on its site on customers' behalf, with spending controls and transaction approvals, while Amazon blocks such agents."
+      "rationale": "OpenAI has published how its ChatGPT ad stack works: a custom LLM orchestrator reads multi-turn intent, runs the auction and serves sponsored placements. It is the first official look at how ads get picked inside the assistant, which matters for anyone buying that inventory.",
+      "published_iso": "2026-10-22T16:58:09+00:00",
+      "og_image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png",
+      "excerpt": "OpenAI details how the ChatGPT ad stack uses a custom LLM orchestrator to interpret multi-turn intent, run auctions, and serve sponsored placements."
     },
     {
-      "url": "https://www.adexchanger.com/marketers/chatgpt-ads-is-expanding-to-new-markets-and-exploring-new-ad-formats/",
-      "title": "ChatGPT Ads Is Expanding To New Markets And Exploring New Ad Formats",
-      "source": "AdExchanger",
+      "url": "https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/",
+      "title": "Why CNN International is building for agentic ad market that barely exists yet",
+      "source": "Digiday",
       "tool": "Marketing",
       "accent": "#f5a623",
       "motif": "frame",
-      "rationale": "ChatGPT Ads is opening in 26 more countries after passing 100,000 advertisers. That widens the in-assistant ad surface for international media plans.",
-      "published_iso": "2026-10-21T13:00:19Z",
-      "og_image": "https://www.adexchanger.com/wp-content/uploads/2026/10/shutterstock_2806646937-scaled.jpg",
-      "excerpt": "ChatGPT Ads expands to 26 new countries after more than 100,000 advertisers used the platform, while OpenAI is still working out what conversational ad formats will look like."
+      "rationale": "CNN International is setting up its inventory to be sold through AI buying agents before that market exists at scale. It shows how a major publisher is getting ready for agent-to-agent media buying on the sell side.",
+      "published_iso": "2026-10-22T04:01:00+00:00",
+      "og_image": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg",
+      "excerpt": "Plenty about CNN is up in the air post the Skydance deal. CNN International's plan to sell ads through AI agents isn't among them."
     },
     {
-      "url": "https://ppc.land/yelp-charges-30-a-month-for-ai-agent-that-answers-and-qualifies-leads/",
-      "title": "Yelp charges $30 a month for AI agent that answers and qualifies leads",
-      "source": "PPC Land",
+      "url": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
+      "title": "AI boosts discovery but reviews still seal the deal, new research shows",
+      "source": "Modern Retail",
       "tool": "Marketing",
       "accent": "#7928ca",
       "motif": "frame",
-      "rationale": "Yelp launched Smart Lead Reply, a paid AI agent that answers and qualifies quote requests for $30 a month. It is a priced, concrete AI lead-generation product for local service businesses.",
-      "published_iso": "2026-10-21T04:40:17Z",
-      "og_image": "https://ppc.land/content/images/size/w1200/2026/10/yelp-smart-lead-reply-30-ai-agent-lead-qualification-self-typing-typewriter.jpg",
-      "excerpt": "Yelp's Smart Lead Reply AI agent answers and qualifies Request a Quote leads for movers, roofers and plumbers for $30 a month, plus AI calls to restaurants."
+      "rationale": "New holiday consumer surveys show shoppers use AI assistants to find gifts but still check reviews, compare prices and read retailer policies before they buy. Retailers putting money into AI shopping surfaces still need to fund reviews and price competitiveness to close the sale.",
+      "published_iso": "2026-10-22T04:00:00+00:00",
+      "og_image": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp",
+      "excerpt": "Consumer surveys show AI helps shoppers find gifts, but most check reviews, compare prices and review retailers' policies before buying."
     },
     {
-      "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "title": "Meta says Muse has over 10M users, with shopping a top activity",
-      "source": "TechCrunch",
+      "url": "https://www.mt.co.kr/index.php/politics/2026/10/22/2026102221435830253",
+      "title": "코바코 'AI광고 플랫폼', 불법도박 '슬롯게임'도 뚝딱…필터링 구멍",
+      "source": "머니투데이",
       "tool": "Marketing",
       "accent": "#2ec5c5",
       "motif": "frame",
-      "rationale": "On its Q3 call, Meta said its Muse AI app has passed 10M users and that shopping is one of its top uses. That makes Muse a sizable new AI product-discovery surface that brands and Meta's ad business will target.",
-      "published_iso": "2026-10-21T21:14:19Z",
-      "og_image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-      "excerpt": "Meta told investors on its Q3 call that its Muse AI app passed 10M users, with shopping among the top uses, signaling a new AI-mediated discovery surface for brands."
+      "rationale": "At the National Assembly audit, a lawmaker used KOBACO's state-run generative-AI ad tool, AiSAC, to produce storyboards for illegal gambling ads. The demonstration exposed missing safety filters in an AI ad-creation platform offered to advertisers.",
+      "published_iso": "2026-10-22T21:47:23+09:00",
+      "og_image": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102221435830253_1.jpg",
+      "excerpt": "이정헌 더불어민주당 의원이 한국방송광고진흥공사(KOBACO)의 생성형 AI 광고 제작 플랫폼이 불법·유해 광고를 제대로 걸러내지 못하고 있다는 점을 지적했다. 이 의원은 22일 국회 과학기술정보방송통신위원회 국정감사에서 KOBACO의 AI 광고 창작지원 플랫폼 '아이작(AiSAC)'에 '돈 버는 슬롯게임', '슬롯머신' 등의 키워드를 입력해 불법 도박게임을 홍보하는 광고 스토리보드를 실제로 만들어 보였다."
     }
   ],
   "dedup": {
     "checks": {
-      "https://ppc.land/google-turns-on-pmax-image-extraction-by-default-from-december-4/": {
+      "https://www.adweek.com/media/advertisers-pull-meta-ads-that-had-unwanted-ai-glow-ups/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/meta-will-turn-on-product-browsing-in-existing-ads-on-october-28/",
+        "nearest": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
         "new_action": ""
       },
-      "https://www.adweek.com/commerce/walmart-embraces-ai-agents-that-shop-on-behalf-of-customers/": {
-        "verdict": "new",
-        "nearest": "https://www.mk.co.kr/news/it/12173227",
-        "new_action": ""
-      },
-      "https://www.adexchanger.com/marketers/chatgpt-ads-is-expanding-to-new-markets-and-exploring-new-ad-formats/": {
+      "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/": {
         "verdict": "follow-up",
-        "nearest": "https://searchengineland.com/chatgpt-ads-introduces-new-measurement-tools-and-visual-ad-formats-496998",
-        "new_action": "New announcement: ChatGPT Ads is expanding to 26 additional countries and has passed 100,000 advertisers. The 10-17 card covered measurement and visual formats, and the 10-21 card covered auto-enabled creative enhancements. Neither covered the market expansion."
+        "nearest": "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html",
+        "new_action": "New official OpenAI release: an engineering disclosure of the ChatGPT ad stack covering the LLM orchestrator, multi-turn intent interpretation, the auction and serving. The 10-21 card covered auto-enabled creative enhancements, the 10-22 card covered expansion to 26 markets, and the 10-17 cards covered measurement, visual formats and 404 Media's targeting reporting. None of them covered OpenAI's own account of ad selection and auction mechanics."
       },
-      "https://ppc.land/yelp-charges-30-a-month-for-ai-agent-that-answers-and-qualifies-leads/": {
+      "https://digiday.com/media/why-cnn-international-is-building-for-agentic-ad-market-that-barely-exists-yet/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/monday-coms-harmony-voice-ai-lifted-car-brokers-deals-9-client-says/",
+        "nearest": "https://www.adweek.com/convergent-tv/fox-expands-agentic-push-with-eyes-set-on-tv-upfront-future/",
         "new_action": ""
       },
-      "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/": {
+      "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/": {
         "verdict": "new",
-        "nearest": "https://ppc.land/metas-muse-accounts-for-72-of-ai-agent-requests-human-finds/",
+        "nearest": "https://www.semafor.com/article/10/16/2026/ecommerce-confronts-ai-shopping-agents-ahead-of-holiday-season",
+        "new_action": ""
+      },
+      "https://www.mt.co.kr/index.php/politics/2026/10/22/2026102221435830253": {
+        "verdict": "new",
+        "nearest": "https://tomorrowspublisher.today/news/national-trust-pulls-tiktok-ads-after-platform-s-ai-publishes-unauthorised-video-68149cb63312/index.html",
         "new_action": ""
       }
     },
-    "note": "Pool: 12 items. Dropped (1) Marketing Dive Dollar Shave Club: enrichment rejected it in the 10-21 swap pass because AI was incidental to the campaign concept, and we did not reconsider. (2) AdExchanger 'Inside the Stack' Amazon Ads: a vendor-exec interview and advertorial, also rejected on 10-21. It is also close to the 10-19 Amazon Full-Funnel AI card. (3) SEJ 'AI search tools cited a made-up concept': GEO/SEO research with no paid surface, rejected on 10-21. (4) OpenAI 'building ChatGPT ad stack': an engineering explainer in the same ChatGPT Ads cluster as the AdExchanger expansion pick. We kept only one ChatGPT Ads story, and this one has no og:image. (5) Modern Retail Target holiday push: AI is one of three elements and the headline stands without it, so it fails the delete-AI test. It is also close to running holiday and AI-assistant coverage. (6) PPC Land Meta/Nest case study: a vendor case study with no baseline, and it would have been a third PPC Land pick. (7) SEJ China GEO rulebook: commentary on voluntary GEO standards that is mostly SEO-side. Checks: Walmart's history_match (the 10-12 MK Naver/Amazon lockout card) is a different retailer and a different action, so the verdict is new. PMax's history_match (the 10-16 Meta product browsing card) is a different platform and feature, so the verdict is new. Muse 10M is a new Q3 earnings disclosure, distinct from the 10-11 HUMAN 72% and 10-12 Muse ad-account cards. Outlets: PPC Land x2, Adweek, AdExchanger, TechCrunch (4 distinct, max 2)."
+    "note": "Pool: 17 items. Cluster c0 (Meta makes advertisers liable for AI edits) appeared twice: kept Adweek, the original reporting, and dropped PPC Land 'Meta makes advertisers solely responsible...' as the same story. The 10-17 SEJ and 10-18 TechCrunch Meta-terms cards covered the crawling/scraping clause, while this story covers the AI-features liability clause and advertisers pulling live ads, so it is a distinct story. SEJ ChatGPT ad stack versus the 10-21 SER creative-enhancements card and the 10-22 AdExchanger expansion card: kept as a follow-up because it reports a new official OpenAI release (ad stack, auction and orchestrator mechanics), not commentary. Note that the 10-22 curator held back the primary OpenAI post only to keep one ChatGPT Ads story per day; it was never published. Cross-section swap: the 매일경제 KFTC AI-washing ad guideline pick (mk.co.kr/news/economy/12183211) was removed because politics claimed the same story (Korea Times FTC 'AI washing' draft guidelines). It was replaced with the Modern Retail AI-discovery-versus-reviews survey. That replacement is a new consumer survey, distinct from the 10-16 Semafor and 10-11 Modern Retail ChatGPT-ads holiday cards, and it does not overlap any story claimed by other sections today (KFTC AI-washing, Canva Craft, Meta AI-training terms, WA political-ad AI law, AI lobbying). Dropped: Axios Seattle WA PAC AI-mailer story (left to politics per orchestrator). Modern Retail Target holiday push (fails the delete-AI test; rejected 10-22). PPC Land Meta/Nest case study (vendor case study with no baseline; rejected 10-22). PPC Land Semrush AI Overviews 88% (SEO-side, no paid surface). SER Google Ads Translation Tool (the AI angle is not stated, so it fails the delete-AI test). SEL Merchant Center conversational attributes and SEL PPC landing pages for AI Overviews (evergreen explainer/how-to; the former is also related to the 10-08 UCP hub card). The Cool Down GLP-1 TikTok AI ads (weak secondary outlet re-reporting a 10-19 Futurism piece outside the window). Mediaweek AgenticAdvertising.org Australia chapter (industry-body chapter launch plus prediction). IT Times TikTok Summit Korea (event recap that largely rehashes the 10-07 TikTok AI-ad-tools card). Outlets: Adweek, SEJ, Digiday, Modern Retail, Money Today (5 distinct, max 1 each)."
   }
 }

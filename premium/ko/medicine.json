@@ -1794,6 +1794,139 @@
           "x": "University of Surrey의 Miroslaw Bober 교수는 \"유망한 개념 증명이지만 임상에 쓸 단계는 아니다\"라고 평가했다. 그러면서 \"결과를 예측하는 것과 설명하는 것은 다르다\"고 경고했다."
         }
       ]
+    },
+    "medicine/medicine-sentara-regard-case-ai": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+        },
+        {
+          "t": "p",
+          "x": "비영리 의료 시스템 Sentara Health가 화요일 임상 의사결정 지원 기업 Regard와 함께 만든 인공지능 사례관리 솔루션을 새로 도입했다."
+        },
+        {
+          "t": "p",
+          "x": "사례관리자는 이 도구에 일상 언어로 물어 차트를 조회하고 환자 병력과 상태 변화 같은 핵심 정보를 빠르게 확인한다. 최근 24시간 안에 생긴 변화도 볼 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Sentara 최고보건정보책임자 Rollin Reeder, M.D.는 “퇴원 계획을 시작하기도 전에 환자의 이야기를 짜 맞추느라 예전에 얼마나 많은 시간을 썼는지 생각하면 놀랍다”고 돌아봤다."
+        },
+        {
+          "t": "p",
+          "x": "Sentara는 이 도구를 급성기 진료 전반에 이어 외래 진료까지 넓힐 계획이다. 경영진은 약 90,000시간을 아낄 수 있다고 본다. 정규직 40명 이상, 인건비로 약 $5 million에 해당하는 규모다. Sentara는 버지니아(Virginia)와 노스캐롤라이나 북동부(Northeast North Carolina)에서 병원 12곳과 400곳이 넘는 진료 거점을 운영한다."
+        },
+        {
+          "t": "p",
+          "x": "Regard의 CEO Eli Ben-Joseph는 자사 플랫폼이 찾아내 의사들이 받아들인 진단이 20 million 건을 넘는다며 이를 운영팀으로 넓히는 일은 “자연스러운 다음 단계”라고 말했다."
+        }
+      ]
+    },
+    "medicine/medicine-coreline-neck-ct-lung-cancer": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
+        },
+        {
+          "t": "p",
+          "x": "특정 질환 확인을 위해 찍은 CT에서 검사 목적 외의 숨은 중증 질환까지 찾아내는 ‘기회검진(Opportunistic Screening)’이 의료 AI 업계의 핵심 화두로 떠오르고 있다."
+        },
+        {
+          "t": "p",
+          "x": "코어라인소프트의 흉부 CT 폐결절 분석 솔루션 ‘AVIEW LCS’로 목 CT 판독에서 간과하기 쉬운 초기 폐암 병변을 검출한 임상 연구가 국제학술지 ‘Korean Journal of Radiology’ 최신호에 게재됐다. 목 CT는 촬영 범위 하단에 폐첨부가 일부 포함되지만, 판독의의 시선이 목 주변에 집중돼 가장자리의 작은 폐 병변이 누락되는 경우가 적지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "국내 상급종합병원 연구진이 2008~2024년 목 CT를 촬영한 성인 8만 1794명을 후향적으로 추적한 결과, 추후 폐암 확진 환자 중 과거 목 CT에 이미 병변이 찍혀 있던 사례가 123건이었다. 이 중 65.0%인 80명의 판독 기록에는 폐 병변 소견이 전혀 없었다. 누락군은 최종 확진까지 중앙값 27.5개월이 걸렸고, T·N·M 중 하나 이상이 악화된 비율도 47.5%로 즉시 발견군(11.6%)보다 4배 이상 높았다."
+        },
+        {
+          "t": "p",
+          "x": "연구팀이 누락 사례 80건에 AVIEW LCS를 적용하자, 흉부 전용 알고리즘을 목 CT에 맞춰 재학습하지 않았는데도 80건 중 41건(민감도 51.3%)을 짚어냈다. 위양성률·특이도 등 추가 검증 과제는 남아 있지만, 특정 부위용 AI가 다른 부위 영상에서도 보완적 안전망이 될 수 있다는 탐색적 근거를 마련했다는 평가다."
+        },
+        {
+          "t": "p",
+          "x": "코어라인소프트는 한 번의 흉부 CT로 폐결절, COPD·폐기종, 관상동맥석회화를 동시에 분석하는 ‘One CT, Multi-Disease’ 전략을 내세우고 있으며, 2026년 상반기 매출은 전년 동기 대비 45.7%, 해외 매출은 123.0% 늘었다."
+        }
+      ]
+    },
+    "medicine/medicine-llm-choosing-wisely": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
+        },
+        {
+          "t": "p",
+          "x": "대규모 언어 모델(LLMs)은 Choosing Wisely 시험에서 불필요한 진료를 거의 권하지 않았으나 갑상선 초음파에서는 더 취약했다는 연구 결과가 10월 19일 Annals of Internal Medicine에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "텔아비브(Tel Aviv) Clalit Health Services의 Dean Ariel, MD가 이끄는 연구팀은 Choosing Wisely 권고 15개로 시나리오 225개를 만들고 임상의 입장에서 쓴 프롬프트로 상용 LLM 여섯 종을 시험해 응답 4,050건을 모았다."
+        },
+        {
+          "t": "p",
+          "x": "LLM이 과잉진료를 권한 경우(LLM-recommended overuse)는 5.4%였고 권고 15개 중 여덟 개에서는 한 건도 나오지 않았다. 대부분은 두 항목에 몰렸다. 우연히 발견된 센티미터 미만 결절의 갑상선 초음파(응답의 42.8%)와 저위험 성인의 정기 심전도 검사(28.3%)다. 필요한 진료를 잘못 막은 경우는 0.6%였는데, PSA 검사에서 3.3%로 가장 많았다."
+        },
+        {
+          "t": "p",
+          "x": "작은 우연 결절의 갑상선 초음파는 이 연구에서 학회 지침끼리 실제로 견해가 엇갈리는 유일한 권고다. 저자들은 “지침들을 가르는 지점, 그리고 모델이 맞닥뜨린 지점은 바로 영상 검사를 할지 말지다”라고 썼다."
+        },
+        {
+          "t": "p",
+          "x": "함께 실린 사설은 이번 연구를 과잉진료를 명시적으로 다룬 첫 발표 연구로 평가하고 실제 사례를 쓴 연구가 필요하다고 촉구했다."
+        }
+      ]
+    },
+    "medicine/medicine-brainomix-elung-fibrosis": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
+        },
+        {
+          "t": "p",
+          "x": "인공지능 기반 정량 CT 분석으로 임상 진단보다 몇 달 앞서 폐섬유증 징후를 찾아낼 수 있다는 다기관 연구가 새로 Annals of the American Thoracic Society에 실렸다."
+        },
+        {
+          "t": "p",
+          "x": "후향적으로 진행된 이 연구는 University of Chicago, Weill Cornell Medicine, University of Alabama at Birmingham의 섬유성 간질성 폐질환 환자 509명을 Brainomix의 e-Lung으로 평가했다. e-Lung은 FDA 허가를 받은(FDA-cleared) 정량 CT 도구다. 연구비는 Boehringer Ingelheim이 댔다."
+        },
+        {
+          "t": "p",
+          "x": "이 지표들은 임상적 폐섬유증 진단보다 평균 16개월 앞서 영상의학적 진행을 찾아냈고 한 센터에서는 최대 28개월까지 앞섰다. 검사 당시 임상적으로 안정적이라고 본 환자 상당수에서도 진행을 잡아냈다."
+        },
+        {
+          "t": "p",
+          "x": "기저 가중 망상혈관 점수가 높을수록 향후 폐섬유증 위험이 커졌다. 연속 CT에서 전체 병변 범위가 1.5% 변하면 사망률 증가와 연관됐다. Brainomix와 Boehringer Ingelheim은 미국(U.S.)에서 전향적 다기관 연구 PROGRESS-PPF를 진행하며 연구를 이어갈 계획이다."
+        }
+      ]
+    },
+    "medicine/medicine-epic-connectors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+          "cap": "의료기관은 March 2027부터 Epic Showroom에서 개발자가 만든 Connectors를 찾을 수 있다. (ismagilov/GettyImages)"
+        },
+        {
+          "t": "p",
+          "x": "Epic이 \"Connectors\"를 출시했다. 개발자가 자기 앱을 Epic의 AI 도구에 붙이는 기능이다. 연결 대상은 환자용 어시스턴트 Emmie, 임상의용 어시스턴트 Art, 수익 사이클·운영 AI인 Penny, 그리고 의료기관이 Agent Factory에서 직접 만드는 맞춤형 에이전트다. 발표는 Open@Epic 콘퍼런스를 앞두고 나왔다."
+        },
+        {
+          "t": "p",
+          "x": "Epic이 든 예를 보면 Connector가 구급차 앱에서 도착 시간을 가져와 ED(응급실)가 미리 준비하게 한다. Emmie는 입원 환자의 식사 주문을 식이 관리 앱에 바로 넣는다. 에이전트는 여러 Connectors를 엮어 다단계 워크플로 하나로 돌릴 수도 있다."
+        },
+        {
+          "t": "p",
+          "x": "Epic은 일단 Model Context Protocol(MCP)을 표준으로 삼았다. 의료기관은 Connector마다 무엇을 읽고 바꿀 수 있는지 검토한 뒤 켠다. Epic은 Showroom 등재 대가로 개발자에게 비용을 받는데, 가격은 공개하지 않았다."
+        },
+        {
+          "t": "p",
+          "x": "Epic VP Johnston Thayer는 \"이 기능으로 인해 새로운 자율 행동이 이뤄지지는 않을 것\"이라고 말했다. 일부 의료기관 파트너와 하는 테스트는 연말 전에 시작된다."
+        }
+      ]
     }
   }
 }

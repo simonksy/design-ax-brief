@@ -9225,6 +9225,147 @@
           "x": "PhotoshopなどほかのAdobeアプリでも独自の生成AIツールで同様の修正はできるが、ワンタップでは済まず、無料でもない。DPReviewによると、Lightroomモバイルアプリの無料版ユーザーはOpen Eyesを二回試すことができ、その後はさまざまなAI-poweredツール用のクレジットを多く含むAdobe Creative Cloudプランへの加入を促される。"
         }
       ]
+    },
+    "design/design-lufthansa-figma-make": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "Lufthansa Systemsのチームは、コックピットに設置したiPadsで動くLidoのPilot Appsを設計している。毎日100,000人を超えるパイロットが使い、その中核にあるのが動的な地図だ。本物のように感じられるプロトタイプを作ることは、ずっと課題だった。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+          "cap": "実際に使われるLido mPilot"
+        },
+        {
+          "t": "p",
+          "x": "「アプリの地図は動的だが、デザインのプロトタイプは以前は必ずしもそうではなかった」と、リードプロダクトデザイナーのPank Juvekarは言う。チームは主に静的なデザインと手作業のプロトタイピングに頼っていた。社内ハッカソン「Innovation Week」で、彼はMapboxで構築した社内版のWeb地図をFigma Makeに取り込んだ。"
+        },
+        {
+          "t": "p",
+          "x": "さらにMakeをOpenSky Networkに接続し、模擬位置から500海里以内のサンプル機体マーカーを表示させ、アイコンにFAAの航空機重量区分を適用するよう指示した。「いくつかのキーワードだけで、Makeは私のやりたいことを理解した」ことに彼は驚いたという。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "チームはSwiftUIの実装に手を付けずに、何度もパイロットのもとへ足を運んだ。「[Figma Make]は単なるプロトタイピングツールではなく、共に考える協働パートナーに近い」とJuvekarは語る。現在、一部のLidoプロジェクトはMakeだけで進めている。"
+        }
+      ]
+    },
+    "design/design-agent-color-palette-library": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
+        },
+        {
+          "t": "p",
+          "x": "金融アプリ用の配色を頼むと、Claudeはチャット上では正しく見えるhexコードを六つ返した。実際のUIでは、本文テキストがプライマリカラー上で約2.8:1のコントラストしかなかった。「モデルが怠けていたわけではない。定規を持っていないのだ」。そこで筆者は定規を作った。"
+        },
+        {
+          "t": "p",
+          "x": "PaletteGetは、モバイルアプリ、Web、ミニプログラム向けに厳選した約90の配色を集めた小さなサイトだ。各配色には役割別の色、重要な組み合わせについて測定したWCAGコントラスト、短い編集者メモが付く。MCPサーバーでもあるため、Cursor、Claude Desktop、あるいはStreamable HTTPに対応する任意のクライアントが直接読み込める。APIキーも登録も不要だ。"
+        },
+        {
+          "t": "p",
+          "x": "公開する読み取り専用ツールは四つ。list_palettes、get_palette、suggest_palette、get_css_variablesだ。ダークモードの金融向け配色を頼むと、エージェントはInk Blue Nightを提案した。本文テキスト#e8ecf4は15.29:1でAAA、プライマリ上の白は3.26:1で大きな文字にしか足りないことも指摘した。「モデルは断言するのをやめ、測定し始める」。"
+        },
+        {
+          "t": "p",
+          "x": "プロンプトを工夫すれば済むのでは？ コントラストは特定の式による算術で、LLMsはこれが苦手だ。しかも失敗は静かに起こり、実際の段落を載せて初めて気づく。これは生成ツールでもデザインシステムでもなく、Worker上の読み取り専用エンドポイントにすぎない。"
+        }
+      ]
+    },
+    "design/design-firefly-character-likeness": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "W1IYLaWyL70"
+        },
+        {
+          "t": "p",
+          "x": "同じキャラクターを一から生成し直すのはもうやめよう。AIの被写体をあらゆるポーズ、アングル、シーンで見分けられるようにするリファレンスシートの技を学ぶ。"
+        },
+        {
+          "t": "p",
+          "x": "このチュートリアルでは次の方法を学ぶ。新たに生成するたびに似姿を固定できる多角度のキャラクターリファレンスシートを作る方法、キャラクターシートと背景を一つのプロンプトにまとめてポーズ、ライティング、被写界深度を指示する方法、そして全身アセットを切り出してニュートラルな背景上に拡張し、トリミングや拡大縮小、フォーマット変更をしやすくする方法だ。"
+        },
+        {
+          "t": "p",
+          "x": "映画ポスター、キャラクターデザインのプロジェクト、キャンペーンのコンセプトに最適だ。"
+        },
+        {
+          "t": "p",
+          "x": "目次：00:01 イントロと作者Jesús Ramirezの紹介 · 03:48 一貫したキャラクターを生成 · 07:08 リファレンスを合成して映画的なポスターに · 08:05 編集・拡大縮小できる出力のための全身アセット準備。"
+        }
+      ]
+    },
+    "design/design-nomic-arcadis-design-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
+        },
+        {
+          "t": "p",
+          "x": "NomicはArcadisのエンジニアリング審査の自動化を支援しているが、AIの次のボトルネックは、その確認に責任を負い続けるシニアエンジニアかもしれない。NomicのCEO、Andriy Mulyarは、制約は「シニアエンジニアリングスタッフがレビューできる頭の余裕」になると語る。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
+        },
+        {
+          "t": "p",
+          "x": "図面審査が導入の弾みとなり、仕様書、入札、提出書類へと広がった。Nomicに戦略的投資を行ったArcadisによると、6か月・12か国の試行で参加者の86%がNomicによって仕事の進め方が変わったと答えた。ライセンスユーザーは7月以降に500人近くまで増え、750を超えるワークフローが構築された。"
+        },
+        {
+          "t": "p",
+          "x": "NomicはAutodesk、Procore（Datagridを買収）、Bluebeamと競合する。エージェントは今や「人間がメールを見る前に」提出書類のチェックを始め、SharePointに準備済みのレビューを残せる。こうしてシニアエンジニアの机の前に待ち行列ができかねない。"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "レビューの生成にかかる時間は計算の一部にすぎず、それを確認し、修正し、承認する時間こそが、仕事が実際に速くなったかを決める。「そこでこそ、より速いAIはより速いエンジニアリングにならなければならない」。"
+        }
+      ]
+    },
+    "design/design-figma-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
+        },
+        {
+          "t": "p",
+          "x": "Figmaの共同創業者Dylan Fieldは、Model Context Protocol(MCP)について、標準として完璧ではなく大手AIラボに有利だと懸念を示した。"
+        },
+        {
+          "t": "p",
+          "x": "Figmaはインド(India)で初めて開いたConfigカンファレンスで、Notion、ClickUp、LinearなどMCPを利用する新たなパートナー20社を発表した。導入を進める一方で、FieldはMCPには「改善の余地が大いにある」とし、「フロンティアラボにより有利だ」と述べた。"
+        },
+        {
+          "t": "p",
+          "x": "FieldはMCPを生み出したAnthropicも批判し、自ら推進するプロトコルを通じてなぜ自社のリソースを提供しないのかと問うた。"
+        },
+        {
+          "t": "p",
+          "x": "Figmaはオープンソースツールの Pi をサポートする予定だが、すべての外部接続にシステムを完全に開放することは見送った。FieldはMCPを通じて公開されるデータが増えるほど悪用の可能性も高まるため、慎重であるべきだと説明した。"
+        },
+        {
+          "t": "p",
+          "x": "Hacks.grからの転載。元記事はTechCrunch(October 20, 2026)。"
+        }
+      ]
     }
   }
 }

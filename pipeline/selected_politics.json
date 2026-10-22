@@ -1,116 +1,116 @@
 {
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "section": "politics",
  "picks": [
   {
-   "url": "https://shontelbrown.house.gov/media/press-releases/brown-introduces-legislation-require-labels-ai-generated-campaign-content",
-   "title": "Brown Introduces Legislation to Require Labels on AI-Generated Campaign Content",
-   "source": "Office of Rep. Shontel Brown (house.gov)",
+   "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/nunes-marques-suspende-postagens-ilegais-contra-campanha-de-lula",
+   "title": "Nunes Marques suspende postagens ilegais contra campanha de Lula",
+   "source": "Agência Brasil",
    "category": "politics",
    "axis": "elections",
-   "published_iso": "2026-10-21T13:09:19Z",
-   "og_image": "http://shontelbrown.house.gov/sites/evo-subsites/shontelbrown.house.gov/files/evo-media-image/2026-01-07_mbo_0013.jpg",
-   "excerpt": "Rep. Shontel Brown introduced the Securing Elections from AI Deception Act to bar using AI to deprive or defraud people of the right to vote and to require disclaimers on AI-generated campaign content.",
-   "source_lang": "en",
+   "published_iso": "2026-10-22T03:39:00Z",
+   "og_image": "https://imagens.ebc.com.br/zM4JZGHb4z0OCzLLGrDWp2B-700=/1600x800/https://agenciabrasil.ebc.com.br/sites/default/files/thumbnails/image/2026/08/17/tse_lanca_campanha_para_estimular_participacao_da_populacao_nas_eleicoes02.jpg",
+   "excerpt": "TSE President Nunes Marques ordered removal of about 20 posts by lawmakers allied with Flávio Bolsonaro that the Lula campaign said contained deepfakes, days before Brazil's Oct 25 runoff.",
+   "source_lang": "pt",
    "tool": "Politics",
    "accent": "#3b6bff",
    "motif": "cube",
-   "rationale": "A primary document: a newly introduced federal bill that would require disclaimers on AI-generated campaign content, which falls directly on anyone producing political media with AI. The copy should call it an introduced bill, not a law, and attribute its aims to the sponsor."
+   "rationale": "A new electoral-court ruling, separate from the 10-19 Meta equal-treatment order: the TSE ordered alleged deepfake posts taken down days before the runoff. The copy must attribute the deepfake claim to the Lula campaign and must not take sides between the candidates."
   },
   {
-   "url": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
-   "title": "Judge rejects Trump's claim EPA can dismiss data center pollution lawsuits",
-   "source": "Ars Technica",
+   "url": "https://www.euronews.com/2026/10/20/investment-summit-german-government-strikes-ai-deal-with-nvidia",
+   "title": "Investment summit: German government strikes AI deal with Nvidia",
+   "source": "Euronews",
    "category": "politics",
    "axis": "geopolitics",
-   "published_iso": "2026-10-21T18:20:40Z",
-   "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg",
-   "excerpt": "A federal court ruled the Trump administration's EPA cannot unilaterally dismiss the pollution lawsuit over SpaceXAI's (xAI) Memphis-area AI data center turbines.",
+   "published_iso": "2026-10-20T18:10:08Z",
+   "og_image": "https://images.euronews.com/articles/stories/09/96/05/73/1200x675_cmsv2_20306938-1103-59a8-8b02-1b7f40ac116f-9960573.jpg",
+   "excerpt": "At the 'Invest in Germany' summit in Berlin, the federal government secured an AI partnership with Nvidia and new Amazon investment, part of Europe's sovereign-compute push.",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#0070f3",
    "motif": "cube",
-   "rationale": "A new court ruling: the pollution suit over the xAI Memphis data center turbines goes ahead despite the EPA's move to dismiss it. It is a concrete decision on how AI data centers are sited and powered. Use neutral wording for the headline (drop Ars's 'wild') and attribute the EPA's position to the administration."
+   "rationale": "A concrete government agreement on sovereign AI compute: Germany signed an AI partnership with Nvidia at a federal investment summit. This is a different country and event from the 10-20 Greek Daedalus supercomputer card."
   },
   {
-   "url": "https://apnews.com/article/un-artificial-intelligence-military-china-us-e0a3c48c91a9de89cab72609d185f658",
-   "title": "New UN initiative will aim to tackle the military uses of AI",
-   "source": "Associated Press",
+   "url": "https://www.koreatimes.co.kr/business/20261022/ftc-to-collect-public-opinion-on-draft-guidelines-against-ai-washing",
+   "title": "FTC to collect public opinion on draft guidelines against 'AI washing'",
+   "source": "The Korea Times",
    "category": "politics",
-   "axis": "geopolitics",
-   "published_iso": "2026-10-20T23:34:13Z",
-   "og_image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2fGXR0.img",
-   "excerpt": "The UN Institute for Disarmament Research (UNIDIR) launches the first international forum on military uses of AI this Thursday.",
+   "axis": "policy",
+   "published_iso": "2026-10-22T01:14:03Z",
+   "og_image": "https://newsimg.koreatimes.co.kr/2026/10/22/aee3e0ce-958d-4abe-a3c6-492a063faa58.jpg",
+   "excerpt": "Korea's Fair Trade Commission opened public comment on draft guidelines against ads that exaggerate products' use of AI, so-called AI washing.",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#7928ca",
    "motif": "cube",
-   "rationale": "An official multilateral launch: UNIDIR's first international forum on military AI. It covers the military-AI governance angle and is distinct from the 10-21 card on the UNGA co-chairs for the AI Governance Dialogue, which is a different body and process."
+   "rationale": "An official regulator action: Korea's FTC released draft guidelines against AI washing and opened them for public comment. They set what anyone marketing an AI product may claim. The copy should call them draft guidelines, not final rules."
   },
   {
-   "url": "https://www.politico.eu/article/publishers-press-brussels-and-london-to-stop-metas-new-ai-terms/",
-   "title": "Publishers want Brussels and London to stop Meta's new AI terms",
-   "source": "POLITICO Europe",
+   "url": "https://www.policeconduct.gov.uk/news/iopc-investigating-officers-use-ai-criminal-investigations",
+   "title": "IOPC investigating officer's use of AI in criminal investigations",
+   "source": "Independent Office for Police Conduct (gov.uk)",
    "category": "politics",
    "axis": "policy",
-   "published_iso": "2026-10-21T13:23:02Z",
-   "og_image": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/10/21/GettyImages-2256677765-scaled.jpg",
-   "excerpt": "Publishers asked the European Commission and UK CMA to act against Meta's new AI training terms; the Commission says Meta must comply with EU law and the CMA has called the company in to explain.",
+   "published_iso": "2026-10-22T09:43:00Z",
+   "og_image": "",
+   "excerpt": "The UK police watchdog opened a gross-misconduct investigation into a Derbyshire detective alleged to have used AI to make policy decisions, assess risk and justify decisions, and to have entered sensitive case data into it.",
    "source_lang": "en",
    "tool": "Politics",
    "accent": "#2ec5c5",
    "motif": "cube",
-   "rationale": "Regulators have acted: the UK CMA called Meta in over its AI-training terms, and the Commission has stated its position. This is a step past the corporate terms change itself, and it touches how platform data can feed AI training. Attribute the complaint to the publishers and do not present it as an enforcement decision."
+   "rationale": "A primary release reporting a new enforcement step: the UK police watchdog opened a gross-misconduct investigation into an officer's use of AI on casework. It sets a public-sector accountability marker for AI use. The copy must say 'alleged', because nothing has been found yet. There is no og_image, so ax-media needs to source an image."
   },
   {
-   "url": "https://www.yna.co.kr/view/AKR20261021039400017",
-   "title": "[AI픽] \"전기는 국가망에서 받으라더니\"…AI 데이터센터 새 규제 논란",
-   "source": "연합뉴스",
+   "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+   "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+   "source": "The Verge",
    "category": "politics",
    "axis": "policy",
-   "published_iso": "2026-10-21T00:32:27Z",
-   "og_image": "https://img9.yna.co.kr/photo/yna/YH/2026/08/05/PYH2026080506570001300_P4.jpg",
-   "excerpt": "정부가 연내 도입을 추진하는 AI 데이터센터 전용 그리드코드(전력망 접속 규칙)를 두고 투자 현장에서 논란이 일고 있다.",
-   "source_lang": "ko",
+   "published_iso": "2026-10-22T15:50:30Z",
+   "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+   "excerpt": "Third-quarter federal lobbying disclosures show OpenAI, Anthropic and Nvidia each set company spending records; Apple also had a record quarter.",
+   "source_lang": "en",
    "tool": "Politics",
    "accent": "#eb367f",
    "motif": "cube",
-   "rationale": "Korea plans to introduce a grid code for AI data centers within the year, setting rules for how they connect to the national grid. That directly changes the economics of building AI infrastructure in Korea, and it adds a non-US/EU jurisdiction. The copy should present it as a planned rule, attribute the criticism to industry, and not pass judgement on the policy."
+   "rationale": "New official filings: Q3 federal lobbying disclosures show record spending by the main AI labs and Nvidia while AI rules are being written. This is lobbying, which is distinct from the 10-14 and 10-16 cards on election and super PAC spending. Report the figures and leave out any judgement on them."
   }
  ],
  "alternates": [
-  "https://www.cbsnews.com/news/memphis-data-center-moratorium-city-council-vote/",
-  "https://www.nextgov.com/artificial-intelligence/2026/10/uspto-looks-ai-agents-ease-examiner-workloads/416719/",
-  "https://www.politico.eu/article/socialists-and-democrats-push-eu-law-deepfake/"
+  "https://www.stripes.com/theaters/us/2026-10-21/pentagon-ai-oversight-gao-23214882.html",
+  "https://www.nextgov.com/artificial-intelligence/2026/10/state-department-orders-super-intelligence-wording-across-all-official-communications/416703/",
+  "https://www.euronews.com/2026/10/22/palantir-says-nato-ai-system-has-no-kill-switch-after-starlink-disruptions-in-ukraine"
  ],
  "dedup": {
   "checks": {
-   "https://shontelbrown.house.gov/media/press-releases/brown-introduces-legislation-require-labels-ai-generated-campaign-content": {
+   "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/nunes-marques-suspende-postagens-ilegais-contra-campanha-de-lula": {
+    "verdict": "follow-up",
+    "nearest": "https://jurinews.com.br/en/justica-eleitoral/tse-determines-that-meta-treat-lula-and-flavio-campaigns-equally-under-fine-of-r-500-thousand",
+    "new_action": "New TSE ruling (10-21/22): President Nunes Marques ordered removal of ~20 posts alleged by the Lula campaign to contain deepfakes, a separate decision from the 10-19 order on Meta's equal treatment of campaigns."
+   },
+   "https://www.euronews.com/2026/10/20/investment-summit-german-government-strikes-ai-deal-with-nvidia": {
     "verdict": "new",
-    "nearest": "https://gizmodo.com/137-million-has-been-spent-on-ai-generated-ads-ahead-of-midterms-only-27-included-a-disclaimer-2000827138",
+    "nearest": "https://www.euronews.com/2026/10/19/daedalus-greece-unveils-new-supercomputer-as-it-eyes-role-in-europes-ai-race",
     "new_action": ""
    },
-   "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/": {
-    "verdict": "new",
-    "nearest": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-    "new_action": ""
-   },
-   "https://apnews.com/article/un-artificial-intelligence-military-china-us-e0a3c48c91a9de89cab72609d185f658": {
-    "verdict": "new",
-    "nearest": "https://en.yna.co.kr/view/AEN20261021000600315",
-    "new_action": ""
-   },
-   "https://www.politico.eu/article/publishers-press-brussels-and-london-to-stop-metas-new-ai-terms/": {
+   "https://www.koreatimes.co.kr/business/20261022/ftc-to-collect-public-opinion-on-draft-guidelines-against-ai-washing": {
     "verdict": "new",
     "nearest": "",
     "new_action": ""
    },
-   "https://www.yna.co.kr/view/AKR20261021039400017": {
+   "https://www.policeconduct.gov.uk/news/iopc-investigating-officers-use-ai-criminal-investigations": {
     "verdict": "new",
-    "nearest": "https://www.axios.com/2026/10/08/data-centers-power-regime",
+    "nearest": "https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649",
+    "new_action": ""
+   },
+   "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records": {
+    "verdict": "new",
+    "nearest": "https://www.axios.com/2026/10/14/ai-safety-regulation-election-spending-50-million",
     "new_action": ""
    }
   },
-  "note": "Politics 10-22, curator chose the picks (the user deferred). DEDUP DROPS: (1) Let's Data Science, UK Electoral Commission three-hour deepfake alerts: the same story as the 10-16 techpolicy.press card (likely-repeat, 0.48), reported by an aggregator. (2) POLITICO, Anthropic draft bill's $1B threshold: analysis of the bill published 10-19 ('Anthropic quietly pitches its own AI safety bill'), with no new filing. (3) ChinaTalk, MOFCOM's new rules: commentary on the China export-control draft published 10-19. (4) India Today, judge orders Meta to name torrenting employees: the books section ran this order on 10-21 (Ars), so it is a cross-section repeat, and the outlet is an aggregator. (5) IBTimes, 119 MEPs' letter on nudify apps: a running story on top of the 10-06 card on EU lawmakers targeted by deepfakes and the 10-03 EU nudify ban, and the letter is only an urging. (6) 디지털투데이, mandatory disclosure of AI training data: the running story of the AI Basic Act and Data Industry Act amendments passed on 10-15, with only discussion of the fine print. DROPPED ON SCOPE/STRENGTH: Axios on Nvidia's Huang touring Europe (corporate tour); CNBC/Reuters on the Samsung and SK Hynix China fab upgrades (corporate, with only a weak policy action); WIRED on Europe's data centers (analysis feature); The Verge on Trump's data-center 'dividend' (a social-media post with no decision); AI Now/Gizmodo on Mamdani backing the moratorium (an endorsement remark, not an action); NDTV on an India AI law (an adviser interview, with the consultation paper not yet released); IAPP on Brazil's Enter case (an analysis piece, and the filing date is unclear); Euronews on IAMDDB and Israel (a contested accusation that is hard to frame neutrally); Baltimore Sun on Moore's deepfake complaint (a campaign-vs-PAC dispute that carries a high partisan-framing risk, with only a referral to the board and no ruling). ALTERNATES: the CBS Memphis 135-day moratorium is a concrete ordinance, but I held it back because a second Memphis data-center card next to the Ars ruling would overlap; it is the first backfill. USPTO AI agents (official remarks only) and the S&D deepfake law push (a party-group push, not a filing) are the next backfills. DIVERSITY: 5 distinct outlets (house.gov, Ars Technica, AP, POLITICO Europe, Yonhap). Axes: elections x1, geopolitics x2, policy x2. Each pick has a distinct accent. No pick shares a cluster."
+  "note": "Politics 10-23, curator chose the picks (the user deferred). DEDUP / FOLLOW-UP DROPS: (1) Olhar Digital, Meta may be fined by the TSE: the electoral prosecutor's request for a fine is not a ruling, so it is a running story on top of the 10-19 TSE/Meta card. (2) Ars Technica, Meta drops 'train' from its TOS: follows the 10-22 publishers-vs-Meta card with a corporate terms edit and no regulatory decision. (3) ChinaTalk on the MOFCOM rules: likely-repeat analysis of the China export-control draft published 10-19. (4) AP, Ukraine strikes on Russian data centers: extra reporting on the running story from the 10-10 Ars card on Yandex data centers, with no new decision. (5) Digital Today, AI training-data disclosure: discussion of the fine print of the AI Basic Act and Data Industry Act amendments published 10-15, already dropped on 10-22. (6) Euronews on Trump's data-centre 'dividend': a social-media post with no decision, already dropped on 10-22 in its Verge version. POLITICO Europe on coalition fractures over AI liability and Tech Policy Press on Parliament divided on AI: I treated these as ONE story (the same EP plenary debate). I dropped it because a debate is not a decision and it is a running story after the 10-08 POLITICO liability card and the 10-13 von der Leyen card. DROPPED ON SCOPE/STRENGTH: S&D deepfake-law push (a party-group push, not a filing); USPTO AI agents (official remarks only); Lawfare kill-switch essay and CSIS Global South piece (analysis); Freedom House via Tech Policy Press (AI is only one of three themes and fails the delete-AI test). ALTERNATES: the GAO report on Pentagon CDAO understaffing (a primary GAO finding, off-list outlet, held back for outlet and axis spread) is the first backfill. The State Department 'super intelligence' wording cable implements the 9-30 order; it is a follow-up with a new agency directive but has little impact for builders, so it is the second backfill. Palantir's NATO kill-switch statement (a company statement) is the third. DIVERSITY: 5 distinct outlets (Agência Brasil, Euronews, Korea Times, IOPC, The Verge). Axes: elections x1, geopolitics x1, policy x3 across Korea, the UK and the US. Each pick has a distinct accent. No pick shares a cluster."
  }
 }

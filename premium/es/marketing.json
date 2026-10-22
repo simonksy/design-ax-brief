@@ -1978,6 +1978,139 @@
           "x": "La reacción de los profesionales de PPC en X fue mayoritariamente escéptica; uno dijo que ya había pausado una prueba de ChatGPT ads por la baja calidad de los leads."
         }
       ]
+    },
+    "marketing/marketing-chatgpt-ad-stack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI explicó cómo su sistema publicitario de ChatGPT interpreta las conversaciones, selecciona anuncios relevantes y mantiene la publicación de anuncios separada de las respuestas orgánicas. Según la empresa, ChatGPT Ads alcanzó una tasa anualizada de ingresos de $1 billion (mil millones de dólares) menos de 200 días después de su lanzamiento, y más de 100,000 anunciantes han publicado anuncios."
+        },
+        {
+          "t": "p",
+          "x": "El sistema que elige los anuncios funciona por separado del que redacta las respuestas de ChatGPT, con sus propios modelos y código. ChatGPT no lo espera: un anuncio que llega demasiado tarde no aparecerá con esa respuesta."
+        },
+        {
+          "t": "p",
+          "x": "Un modelo que OpenAI llama \"orchestrator\" (orquestador) lee la conversación, convierte las partes relevantes en consultas de búsqueda y embeddings, y sigue los detalles a lo largo de sesiones \"stateful\" (con estado)."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+        },
+        {
+          "t": "p",
+          "x": "Comprueba la elegibilidad (segmentación por ubicación, políticas, presupuesto, ritmo de entrega), evalúa la adecuación y la probabilidad de visualización, clic o conversión, y luego envía los candidatos a una herramienta de subasta independiente que se encarga de la clasificación final, el precio y la selección. El modelo de lenguaje no elige directamente al ganador ni fija el precio."
+        },
+        {
+          "t": "p",
+          "x": "Incluso un ganador de la subasta puede quedar descartado por una comprobación de adecuación posterior o perder la ventana de entrega. La publicación no ofrece referencias de CPA, ROAS ni tasa de conversión."
+        }
+      ]
+    },
+    "marketing/marketing-cnn-international-agentic-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Mucho del futuro de CNN está en el aire ahora que se ha cerrado el acuerdo con Skydance. El plan de CNN International de vender anuncios a través de agentes de AI no forma parte de esa incertidumbre. Siete meses después de anunciar la iniciativa, la cadena mantiene previsto su lanzamiento en el primer trimestre de 2027."
+        },
+        {
+          "t": "p",
+          "x": "\"Di un plazo de Q1 para que empezaran a entrar los primeros dólares, y sigo teniendo esa esperanza\", dijo Faisal Karmali, vp de operaciones digitales de CNN International Commercial y Warner Bros Discovery."
+        },
+        {
+          "t": "p",
+          "x": "La cadena combina su propia infraestructura de agentes con socios tecnológicos externos, como plataformas del lado de la demanda, lo que implica enseñar a un agente sus reglas de negocio, darle una interfaz y asegurarse de que su inventario se lea correctamente en los LLMs de los que dependen los agentes de los compradores."
+        },
+        {
+          "t": "p",
+          "x": "Quedan preguntas abiertas: qué salvaguardas impiden que los agentes eludan las prácticas comerciales y qué vocabulario usan ante estándares que compiten entre sí. \"Los agentes vendedores son una ganancia real de eficiencia para la venta directa\", dijo Ravi Patel, CEO de SWYM. \"Pero automatizan el acuerdo, no la entrega\"."
+        },
+        {
+          "t": "p",
+          "x": "Karmali dijo que es \"demasiado pronto para decir\" si los agentes podrían trasladar poder a los editores. Según él, los acuerdos Agent-led podrían empezar con el 5% del negocio publicitario de CNN International o llegar algún día al 50%."
+        }
+      ]
+    },
+    "marketing/marketing-ai-discovery-reviews": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
+        },
+        {
+          "t": "p",
+          "x": "Según una nueva encuesta de Feedvisor, el 16% de los compradores empieza a buscar productos en ChatGPT, pero solo el 9% acude allí para comprar. Cuando un asistente de AI recomienda un producto, solo el 5% lo compra en el momento; el resto revisa primero plataformas como Google y Amazon en busca de mejores precios."
+        },
+        {
+          "t": "p",
+          "x": "Los datos de PartnerCentric muestran que, tras una sugerencia de la AI, el 33% de los compradores consulta reseñas existentes, el 22.3% compara precios y el 18.8% busca en Amazon u otro minorista. Solo el 14.8% visita el sitio web de la marca. \"La AI es un punto de partida, no un veredicto final\", dijo su fundadora y CEO, Stephanie Harris."
+        },
+        {
+          "t": "p",
+          "x": "Kieran Powell, de Channel V Media, dijo que la AI está ganando la fase de investigación. Una encuesta de Prosper Insights & Analytics halló que solo el 7.3% dejaría que un agente de AI comprara ropa por él. \"Si la gente no deja que la AI le compre una camisa de $40, tampoco dejará que le diga qué camisa es buena\", dijo Powell."
+        },
+        {
+          "t": "p",
+          "x": "Musely, que recibe un tráfico creciente y constante desde asistentes de AI, se centra en GEO. \"Para nosotros, el objetivo no es simplemente que la AI nos mencione\", dijo Paris Roche. Harris añadió: \"Cuando esas señales se contradicen, la AI no lo disimula. Expone la brecha antes\"."
+        }
+      ]
+    },
+    "marketing/marketing-kobaco-aisac-gambling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El diputado Lee Jung-heon, del Partido Democrático, señaló que la plataforma de AI generativa para crear anuncios de la Corporación Coreana de Promoción de Publicidad en Radiodifusión (KOBACO) no logra filtrar adecuadamente la publicidad ilegal y nociva."
+        },
+        {
+          "t": "p",
+          "x": "En la auditoría estatal del Comité de Ciencia, Tecnología, Información, Radiodifusión y Comunicaciones de la Asamblea Nacional, celebrada el día 22, Lee introdujo palabras clave como \"juego de slots para ganar dinero\" y \"máquina de slots\" en AiSAC, la plataforma de apoyo a la creación publicitaria con AI de KOBACO, y generó en la práctica un storyboard publicitario que promocionaba juegos de azar ilegales."
+        },
+        {
+          "t": "p",
+          "x": "Lee afirmó que \"no se deben bloquear solo determinadas palabras o imágenes\" y que \"hay que verificar también el contexto completo y el propósito del anuncio\"."
+        },
+        {
+          "t": "p",
+          "x": "Eom Jeong-hwan, presidente interino de KOBACO, dijo: \"Empezamos con buenas intenciones, pero como el filtrado se centraba en palabras prohibidas y palabras clave, no llegamos a cubrir los métodos para eludirlo\". Añadió: \"Reforzaremos el filtrado con un enfoque que capte el contexto completo y prepararemos un procedimiento para verificar una vez más en la etapa final\"."
+        }
+      ]
+    },
+    "marketing/marketing-pmax-images": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+          "cap": "Desde el 4 de diciembre, las nuevas campañas de Google PMax toman imágenes de las páginas de destino aunque Dynamic images esté desactivado"
+        },
+        {
+          "t": "p",
+          "x": "Google comunicó a los desarrolladores que, a partir del 4 de diciembre de 2026, todas las campañas Performance Max que se creen tendrán activada por defecto la extracción de imágenes, incluso en cuentas donde los anunciantes desactivaron las imágenes dinámicas a nivel de cuenta. El cambio se aplica en la Google Ads API, la interfaz de Google Ads y Google Ads Editor."
+        },
+        {
+          "t": "p",
+          "x": "Según Google, \"con la extracción de imágenes, Google AI analiza las páginas de destino proporcionadas en busca de imágenes de alta resolución para enriquecer los recursos creativos y ampliar el alcance en Search, YouTube, Display, Discover, Gmail y Maps\"."
+        },
+        {
+          "t": "p",
+          "x": "Las campañas Performance Max existentes conservarán su configuración actual. Las integraciones que no quieran la extracción deben actualizar las cargas de creación de campañas antes del 4 de diciembre para fijar GENERATE_IMAGE_EXTRACTION en OPTED_OUT. Como asset_automation_settings es un campo repetido, una actualización reemplaza todo el arreglo, de modo que otros ajustes como TEXT_ASSET_AUTOMATION pueden borrarse por accidente."
+        },
+        {
+          "t": "p",
+          "x": "Google también pide a los anunciantes que confirmen que poseen los derechos de las imágenes de sus páginas de destino y que permiten a Google usarlas en publicidad, lo que traslada al anunciante la responsabilidad sobre las imágenes con licencia o de terceros."
+        }
+      ]
     }
   }
 }

@@ -1978,6 +1978,139 @@
           "x": "X에서 PPC 마케터들의 반응은 대체로 회의적이었다. 한 마케터는 리드 품질이 낮아 ChatGPT ads 테스트를 이미 접었다고 했다."
         }
       ]
+    },
+    "marketing/marketing-chatgpt-ad-stack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 ChatGPT 광고 시스템의 작동 방식을 공개했다. 대화를 해석하고 관련 광고를 고르며, 광고 노출을 일반 답변과 떼어 놓는 구조다. OpenAI에 따르면 ChatGPT Ads는 출시 후 200일이 채 안 돼 연환산 매출 런레이트 $1 billion 수준에 올랐고, 광고를 집행한 광고주는 100,000곳이 넘는다."
+        },
+        {
+          "t": "p",
+          "x": "광고를 고르는 시스템은 ChatGPT의 답변을 쓰는 시스템과 따로, 자체 모델과 코드로 돌아간다. ChatGPT는 이 시스템을 기다려 주지 않는다. 너무 늦게 도착한 광고는 그 답변에 붙지 못한다."
+        },
+        {
+          "t": "p",
+          "x": "OpenAI가 \"오케스트레이터(orchestrator)\"라 부르는 모델이 대화를 읽고 관련 부분을 검색 쿼리와 임베딩으로 바꾼다. \"상태 유지(stateful)\" 세션 내내 세부 정보도 추적한다."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+        },
+        {
+          "t": "p",
+          "x": "이 모델은 자격 요건(위치 타기팅, 정책, 예산, 페이싱)을 확인하고 적합성과 예상 조회·클릭·전환 가능성을 따진 다음, 최종 순위·가격·선정을 맡은 별도 경매 도구에 후보를 넘긴다. 낙찰자를 고르거나 가격을 매기는 일은 언어 모델이 직접 하지 않는다."
+        },
+        {
+          "t": "p",
+          "x": "경매에서 이긴 광고도 경매 후 적합성 검사에서 걸러지거나 노출 시간대를 놓칠 수 있다. 이번 글에 CPA, ROAS, 전환율 벤치마크는 없다."
+        }
+      ]
+    },
+    "marketing/marketing-cnn-international-agentic-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Skydance 거래가 마무리되면서 CNN의 앞날은 상당 부분 불투명해졌다. AI 에이전트로 광고를 팔겠다는 CNN International의 계획만은 예외다. 발표 후 일곱 달이 지났지만 이 방송사는 2027년 첫 분기 출시 일정을 그대로 지키고 있다."
+        },
+        {
+          "t": "p",
+          "x": "CNN International Commercial과 Warner Bros Discovery에서 디지털 운영을 맡은 부사장 Faisal Karmali는 \"첫 매출이 들어오는 시점으로 Q1을 제시했고, 지금도 그렇게 되길 기대한다\"고 했다."
+        },
+        {
+          "t": "p",
+          "x": "이 방송사는 자체 에이전트 인프라에 수요측 플랫폼 같은 외부 기술 파트너를 엮는 중이다. 그러려면 에이전트에 사업 규칙을 가르치고 프런트엔드를 붙여야 하며, 구매자 에이전트가 기대는 LLMs가 자사 인벤토리를 제대로 읽게 해야 한다."
+        },
+        {
+          "t": "p",
+          "x": "풀리지 않은 질문도 있다. 에이전트가 거래 관행을 우회하지 못하게 막을 가드레일은 무엇인지, 표준끼리 경쟁하는 와중에 어떤 용어 체계를 쓸지다. SWYM CEO Ravi Patel은 \"셀러 에이전트는 직접 판매에서 실질적인 효율 향상\"이라며 \"하지만 자동화하는 것은 거래이지 집행이 아니다\"라고 했다."
+        },
+        {
+          "t": "p",
+          "x": "Karmali는 에이전트가 권력을 퍼블리셔 쪽으로 옮겨 올지는 \"말하기엔 너무 이르다\"고 했다. 에이전트 주도(Agent-led) 거래는 CNN International 광고 사업의 5%에서 출발할 수도, 언젠가 50%에 이를 수도 있다는 게 그의 말이다."
+        }
+      ]
+    },
+    "marketing/marketing-ai-discovery-reviews": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
+        },
+        {
+          "t": "p",
+          "x": "Feedvisor가 새로 진행한 설문에서는 쇼핑객의 16%가 ChatGPT에서 상품 탐색을 시작하지만 구매하러 가는 비율은 9%에 그친다. AI 어시스턴트가 상품을 추천해도 곧바로 사는 사람은 5%뿐이다. 나머지는 더 나은 가격을 찾아 Google과 Amazon 같은 플랫폼부터 들른다."
+        },
+        {
+          "t": "p",
+          "x": "PartnerCentric 조사에서는 AI 추천을 받은 쇼핑객 가운데 33%가 기존 리뷰를 확인했고, 22.3%는 가격을 비교했으며, 18.8%는 Amazon이나 다른 소매점에서 검색했다. 브랜드 웹사이트를 찾은 비율은 14.8%에 그쳤다. 창업자 겸 CEO Stephanie Harris는 \"AI는 출발점이지 최종 판결이 아니다\"라고 말했다."
+        },
+        {
+          "t": "p",
+          "x": "Channel V Media의 Kieran Powell은 조사 단계는 이미 AI 몫이 됐다고 말했다. Prosper Insights & Analytics 설문에서 AI 에이전트에게 의류 구매를 맡기겠다는 응답은 7.3%뿐이었다. Powell은 \"사람들이 $40짜리 셔츠도 AI에게 사게 하지 않는다면, 어떤 셔츠가 좋은지도 AI에게 맡기지 않을 것\"이라고 했다."
+        },
+        {
+          "t": "p",
+          "x": "AI 어시스턴트에서 들어오는 트래픽이 꾸준히 느는 Musely는 GEO에 힘을 쏟는다. Paris Roche는 \"우리 목표는 단순히 AI에 언급되는 것이 아니다\"라고 했다. Harris는 \"그런 신호들이 서로 어긋나면 AI는 그것을 덮어 주지 않는다. 오히려 그 간극을 더 빨리 드러낸다\"고 덧붙였다."
+        }
+      ]
+    },
+    "marketing/marketing-kobaco-aisac-gambling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "이정헌 더불어민주당 의원이 한국방송광고진흥공사(KOBACO)의 생성형 AI 광고 제작 플랫폼이 불법·유해 광고를 제대로 걸러내지 못하고 있다는 점을 지적했다."
+        },
+        {
+          "t": "p",
+          "x": "이 의원은 22일 국회 과학기술정보방송통신위원회 국정감사에서 KOBACO의 AI 광고 창작지원 플랫폼 '아이작(AiSAC)'에 '돈 버는 슬롯게임', '슬롯머신' 등의 키워드를 입력해 불법 도박게임을 홍보하는 광고 스토리보드를 실제로 만들어 보였다."
+        },
+        {
+          "t": "p",
+          "x": "이 의원은 \"특정 단어나 이미지만 차단해서는 안 된다\"며 \"광고의 전체 맥락과 목적까지 검증해야 한다\"고 지적했다."
+        },
+        {
+          "t": "p",
+          "x": "엄정환 KOBACO 사장직무대행은 \"좋은 의도로 시작했지만 금칙어와 키워드 위주의 필터링이어서 우회 방식까지 미처 보완하지 못했다\"며 \"전체 맥락을 파악하는 방식으로 필터링을 강화하고 최종 단계에서 한 번 더 검증하는 절차를 준비하겠다\"고 밝혔다."
+        }
+      ]
+    },
+    "marketing/marketing-pmax-images": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+          "cap": "12월 4일부터 새 Google PMax 캠페인은 Dynamic images를 꺼도 랜딩 페이지 이미지를 가져온다"
+        },
+        {
+          "t": "p",
+          "x": "Google은 개발자들에게 2026년 12월 4일부터 새로 만드는 모든 Performance Max 캠페인에서 이미지 추출이 기본으로 켜진다고 알렸다. 광고주가 계정 수준에서 동적 이미지를 꺼 둔 계정도 예외가 아니다. 변경은 Google Ads API, Google Ads 인터페이스, Google Ads Editor에 모두 적용된다."
+        },
+        {
+          "t": "p",
+          "x": "Google에 따르면 \"이미지 추출 기능을 쓰면 Google AI가 제공된 랜딩 페이지에서 고해상도 이미지를 찾아 크리에이티브 애셋을 보강하고 Search, YouTube, Display, Discover, Gmail, Maps 전반으로 도달 범위를 넓힌다.\""
+        },
+        {
+          "t": "p",
+          "x": "기존 Performance Max 캠페인은 지금 설정 그대로다. 추출을 원하지 않는 연동 서비스라면 12월 4일 전에 캠페인 생성 페이로드를 고쳐 GENERATE_IMAGE_EXTRACTION을 OPTED_OUT으로 지정해야 한다. asset_automation_settings는 반복 필드여서 업데이트하면 배열 전체가 바뀌고 TEXT_ASSET_AUTOMATION 같은 다른 설정이 실수로 지워질 수 있다."
+        },
+        {
+          "t": "p",
+          "x": "Google은 광고주에게 랜딩 페이지 이미지의 권리를 갖고 있고 Google이 이를 광고에 써도 된다는 점까지 확인하라고 요구한다. 라이선스 이미지나 제3자 이미지의 책임은 광고주가 지는 셈이다."
+        }
+      ]
     }
   }
 }

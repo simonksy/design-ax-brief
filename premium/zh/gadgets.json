@@ -8271,6 +8271,171 @@
           "x": "Perplexity Pro、Max和Enterprise订阅用户从今天起即可安装最新版Perplexity Mac应用，按应用内指引下载本地模型，开始在本地使用Computer。"
         }
       ]
+    },
+    "gadgets/gadgets-meta-spatial-sdks": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Meta在Meta Connect 2026上发布了多款面向空间应用的新SDKs和功能，在Meta VR Glasses推出前拓宽其计算布局。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/Layoutsdk.png"
+        },
+        {
+          "t": "p",
+          "x": "借助Meta VR Layout SDK，开发者可以在标准Jetpack Compose或React Native Android应用的主窗口周围添加空间组件和窗口。应用保持非沉浸式并沿用现有架构，无需切换到Spatial SDK。NBA应用是首批采用者之一。它可实现visionOS-like的窗口布局，但无法生成3D物体，并在Horizon OS 2.7及更高版本上获得完整支持。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/callstack.webp",
+          "cap": "Callstack演示的Meta VR Layout SDK。"
+        },
+        {
+          "t": "p",
+          "x": "处于抢先体验阶段的新Gaze SDK，让开发者可以为眼镜的“Look and Pinch”眼动与手部追踪输入提供提示，并自定义悬停行为。"
+        },
+        {
+          "t": "video",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/media/2026/10/UISETdemo.mp4"
+        },
+        {
+          "t": "p",
+          "x": "Meta VR UI Set SDK是一套Jetpack Compose设计系统，包含深色与浅色配色方案、语义色彩、字体排印、图标、组件尺寸和交互反馈。Meta指出它针对AI编码智能体的实现做了优化，并称其为Horizon OS UI Set的继任者。"
+        },
+        {
+          "t": "img",
+          "src": "https://storage.ghost.io/c/2a/2f/2a2f38f0-4b71-407a-9c7e-18a9e2541980/content/images/2026/10/DisneyUI.png"
+        },
+        {
+          "t": "p",
+          "x": "十一月，Quest上的Disney+将迎来空间UI大改版，加入其visionOS应用中的3D媒体和多个3D环境。"
+        }
+      ]
+    },
+    "gadgets/gadgets-amd-fsr41-older-gpus": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/FKEfLV3WiguWYAz37vRmyW-1920-80.png"
+        },
+        {
+          "t": "p",
+          "x": "Radeon负责人Jack Huynh宣布，FSR 4.1将登陆Radeon RX 6000系列显卡、Xbox Series X与Series S主机、Ryzen Z-series掌机，以及搭载Ryzen AI Max和AI 9芯片的设备，早于AMD此前为RX 6000承诺的2027年初。"
+        },
+        {
+          "t": "p",
+          "x": "AMD表示，它调整了FSR 4.1的神经网络模型，使其在INT8着色器硬件上运行，而非Radeon 9000显卡上的FP8矩阵加速。掌机版本进一步精简，体积不到完整版的一半。"
+        },
+        {
+          "t": "p",
+          "x": "AMD称其画质优于FSR 3。在Tom's Hardware以Radeon RX 6900 XT、4K 分辨率和FSR Balanced模式对Cyberpunk 2077进行的快速测试中，FSR 4带来约13%的性能损失，换来更清晰、更稳定的画面，代价不大。更高的画质也可能让玩家降到Performance模式来抵消这部分损失。"
+        },
+        {
+          "t": "video",
+          "yt": "fT6TIXnmv-s"
+        },
+        {
+          "t": "p",
+          "x": "AMD还表示，FSR Frame Generation的帧节奏将有所改善，FSR 4.1即将支持Vulkan，FSR Ray Regeneration也将扩展到更多游戏，首款是Warhammer 40,000: Darktide。"
+        }
+      ]
+    },
+    "gadgets/gadgets-llamacpp-moe-offload-8gb": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/main-llama-cpp-8gb-laptop.jpg?&fit=crop&w=1600&h=900"
+        },
+        {
+          "t": "p",
+          "x": "VRAM似乎决定了一台PC能运行哪些本地AI模型，但XDA的作者找到了一个变通办法，让配备8GB RTX 3070 Mobile GPU的Lenovo Legion 5以合理速度运行大型模型。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/flag-image.jpg?q=49&fit=crop&w=1600&dpr=1",
+          "cap": "在8GB笔记本上运行的llama-bench。"
+        },
+        {
+          "t": "p",
+          "x": "Mixture-of-Experts模型只激活一小部分权重：Qwen3.6-35B-A3B的350亿参数中，约30亿处于激活状态。llama.cpp的--n-cpu-moe N参数配合-ngl 99使用，会把前N层的专家张量放在系统RAM中，而注意力层、嵌入、共享权重和KV缓存则留在VRAM里。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/data-benchmark-models.png?q=49&fit=crop&w=1600&dpr=1",
+          "cap": "来自llama-bench的基准测试数据。"
+        },
+        {
+          "t": "p",
+          "x": "在llama-bench中，稠密的Qwen3.6-27B 模型每秒生成0.75个token。Qwen3.6-35B-A3B在不卸载时每秒4.02个token，把28层专家放进RAM后达到32.82个，提示词处理速度则从每秒109.66个token升至341.37个。"
+        },
+        {
+          "t": "img",
+          "src": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/10/28-offloaded.png?q=49&fit=contain&w=1600&dpr=1"
+        },
+        {
+          "t": "p",
+          "x": "每秒约33个token远快于作者的阅读速度，这意味着35B 模型可以装进笔记本随身携带，在飞机上、酒店里或没有网络时都能使用。"
+        }
+      ]
+    },
+    "gadgets/gadgets-birdbuddy-nook": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy1.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Birdbuddy正以新名称推出其在CES 2026上发布的智能喂鸟器。Birdbuddy 2 Mini更名为Birdbuddy Nook，这款更小、更实惠的型号被公司称为“迄今最易入手的智能喂鸟器”；旗舰款Birdbuddy 2则更名为Birdbuddy Home。两款产品均已在Birdbuddy官网商店上架。"
+        },
+        {
+          "t": "p",
+          "x": "Nook起售价99美元，配备重新设计的圆形2K HDR摄像头，视野135度，鸟儿落下时自动唤醒，可横拍或竖拍。AI-powered的Birdbuddy应用能准确识别来访的鸟类品种。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Birdbuddy-Nook-Solar.jpg?quality=90&strip=all&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Nook可容纳3.8杯鸟食。售价159美元的Nook Solar在顶部加装了太阳能板，售价199美元的Nook Extended Edition则配有更大的栖木。"
+        },
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/birdbuddy3.jpg?quality=90&strip=all&w=1200",
+          "cap": "Birdbuddy Home标配两块屋顶太阳能板，有助于延长电池续航。"
+        },
+        {
+          "t": "p",
+          "x": "售价219美元的Home采用同款摄像头，喂鸟器更大、更省心，配有六杯容量的储食仓、两块太阳能板、内置栖木延长件、双频Wi-Fi，以及可帮助应用通过鸟鸣识别品种的升级麦克风。"
+        }
+      ]
+    },
+    "gadgets/gadgets-hue-ai-behaviors": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.androidauthority.com/wp-content/uploads/2022/08/Philips-Hue-Lightguide-bulbs-and-matching-pendant-light-cords-scaled.jpg",
+          "cap": "Signify"
+        },
+        {
+          "t": "p",
+          "x": "在IFA 2026期间，Philips Hue发布了从新硬件到新集成的一系列消息。公司还透露将为Hue Bridge Pro推出名为Custom AI Behaviors的功能。该功能原定十月初上线，但至今尚未推出。"
+        },
+        {
+          "t": "p",
+          "x": "不必再等太久。据Hueblog报道，Philips Hue已确认Custom AI Behaviors定于下周发布。虽然没能按时到来，但至少仍会在十月推出。"
+        },
+        {
+          "t": "p",
+          "x": "这将是面向想要创建自定义灯光自动化的Hue Bridge Pro用户的新工具。用户可以通过Hue AI助手描述想要的灯光自动化，AI随后会根据请求生成相应的自动化。"
+        },
+        {
+          "t": "p",
+          "x": "例如，你可以告诉AI助手，在某个时间之后按下Hue调光开关时，启动并轮换场景。AI会替你创建这一自动化，无需自己动手设置。该功能仅支持Hue Bridge Pro。"
+        }
+      ]
     }
   }
 }

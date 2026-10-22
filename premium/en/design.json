@@ -9098,6 +9098,147 @@
           "x": "You can perform a similar fix in other Adobe apps like Photoshop using its own generative AI tools, but it’s not a one-tap fix, and it’s not free. Those using the free version of the Lightroom mobile app can try the Open Eyes feature twice before they’re given a prompt to subscribe to an Adobe Creative Cloud plan that includes more credits for its various AI-powered tools, according to DPReview."
         }
       ]
+    },
+    "design/design-lufthansa-figma-make": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "At Lufthansa Systems, the team designs Lido’s Pilot Apps to run on iPads mounted in the cockpit. More than 100,000 pilots use them daily, and at the heart of the app is a dynamic map. Building prototypes that feel like the real thing has been a consistent challenge."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+          "cap": "Lido mPilot in action"
+        },
+        {
+          "t": "p",
+          "x": "“The maps in our app are dynamic, but our design prototypes didn’t always used to be,” says Lead Product Designer Pank Juvekar. The team mostly relied on static designs and manual prototyping. During an internal hackathon, Innovation Week, he brought an in-house web version of the map, built on Mapbox, into Figma Make."
+        },
+        {
+          "t": "p",
+          "x": "He then connected Make to the OpenSky Network to show sample aircraft markers within 500 nautical miles of a simulated position, and asked it to apply FAA aircraft weight classes to the icons. He was surprised that “with just a few keywords, Make understood what I was trying to do.”"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "The team went back to pilots again and again without touching the SwiftUI implementation. “[Figma Make] is more of a collaborative thinking partner, not just a prototyping tool,” Juvekar says. Some Lido projects are now Make-only."
+        }
+      ]
+    },
+    "design/design-agent-color-palette-library": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
+        },
+        {
+          "t": "p",
+          "x": "Asked for a finance-app palette, Claude gave six hex codes that looked right in chat. In the actual UI, body text sat on the primary color at about 2.8:1 contrast. “The model wasn’t being lazy. It has no ruler.” So the author built the ruler."
+        },
+        {
+          "t": "p",
+          "x": "PaletteGet is a small site with about 90 hand-picked palettes for mobile apps, web, and mini programs. Each ships with role colors, measured WCAG contrast for the pairs that matter, and a short editor note. It is also an MCP server, so Cursor, Claude Desktop, or any client that speaks Streamable HTTP can read it directly. No API key, no sign-up."
+        },
+        {
+          "t": "p",
+          "x": "It exposes four read-only tools: list_palettes, get_palette, suggest_palette and get_css_variables. Asked for a dark-mode finance palette, the agent suggested Ink Blue Night: body text #e8ecf4 at 15.29:1, AAA, and noted that white on the primary measures 3.26:1, enough for large text only. “The model stops asserting and starts measuring.”"
+        },
+        {
+          "t": "p",
+          "x": "Why not just prompt better? Contrast is arithmetic with a specific formula, which LLMs are not good at, and the failure is silent: you only discover it when a real paragraph lands on it. It is not a generator or a design system, just a read-only endpoint on a Worker."
+        }
+      ]
+    },
+    "design/design-firefly-character-likeness": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "W1IYLaWyL70"
+        },
+        {
+          "t": "p",
+          "x": "Stop regenerating the same character from scratch. Learn the reference-sheet trick that makes your AI subject recognizable in every pose, angle, and scene."
+        },
+        {
+          "t": "p",
+          "x": "In this tutorial, you'll discover how to: build multi-angle character reference sheets that keep likeness locked across every new generation; merge character sheets and backgrounds into a single prompt to direct pose, lighting, and depth of field; and isolate and extend full-body assets onto a neutral background for easy cropping, scaling, and reformatting."
+        },
+        {
+          "t": "p",
+          "x": "Perfect for movie posters, character design projects, and campaign concepts."
+        },
+        {
+          "t": "p",
+          "x": "Contents: 00:01 Intro and meet author Jesús Ramirez · 03:48 Generate consistent characters · 07:08 Composite references into a cinematic poster · 08:05 Prep full-body assets for editable, scalable output."
+        }
+      ]
+    },
+    "design/design-nomic-arcadis-design-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nomic is helping Arcadis automate engineering reviews, but AI’s next bottleneck may be the senior engineers still responsible for checking them. Nomic CEO Andriy Mulyar says the constraint becomes “the mental bandwidth of our senior engineering staff’s ability to review things.”"
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Drawing review got adoption moving, extending into specifications, tenders and submittals. Arcadis, which has backed Nomic with a strategic investment, reports that 86% of participants in its six-month, 12-country trial said Nomic changed how they approached their work; licensed users are up to almost 500 since July, with more than 750 workflows built."
+        },
+        {
+          "t": "p",
+          "x": "Nomic faces competition from Autodesk, Procore (which acquired Datagrid) and Bluebeam. Agents can now start submittal checks “before the human even sees the email,” leaving engineers a prepared review in SharePoint, which is how the queue at the senior engineer’s desk could fill up."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "The time taken to generate a review is only part of the calculation; the time taken to check, correct and approve it determines whether the work has actually moved faster. “That is where faster AI must become faster engineering.”"
+        }
+      ]
+    },
+    "design/design-figma-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
+        },
+        {
+          "t": "p",
+          "x": "Figma co-founder Dylan Field has voiced concerns over the Model Context Protocol (MCP), arguing that the standard is not perfect and favors large AI labs."
+        },
+        {
+          "t": "p",
+          "x": "At its first Config conference in India, Figma announced 20 new partners that will use MCP, including Notion, ClickUp and Linear. While the company is moving forward with this adoption, Field said MCP \"has tons of room for improvement\" and is \"advantaged more to frontier labs.\""
+        },
+        {
+          "t": "p",
+          "x": "Field also criticized Anthropic, the company that created MCP, asking why it does not make its own resources available through the protocol it promotes."
+        },
+        {
+          "t": "p",
+          "x": "Figma plans to support the open source tool Pi, but has chosen not to fully open its systems to every external connection. Field explained that the more data is exposed through MCP, the higher the chance of abuse, so the company must stay cautious."
+        },
+        {
+          "t": "p",
+          "x": "Repost from Hacks.gr; original reporting by TechCrunch (October 20, 2026)."
+        }
+      ]
     }
   }
 }

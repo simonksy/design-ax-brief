@@ -1978,6 +1978,139 @@
           "x": "Reaction from PPC marketers on X was largely skeptical, with one saying they had already paused a ChatGPT ads test over poor lead quality."
         }
       ]
+    },
+    "marketing/marketing-chatgpt-ad-stack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI has shared how its ChatGPT advertising system interprets conversations, selects relevant ads, and keeps ad serving separate from organic answers. It says ChatGPT Ads reached $1 billion in annualized revenue run rate less than 200 days after launch, and more than 100,000 advertisers have run ads."
+        },
+        {
+          "t": "p",
+          "x": "The system choosing ads runs separately from the one writing ChatGPT's answers, with its own models and code. ChatGPT doesn't wait for it; an ad that arrives too late won't appear with that response."
+        },
+        {
+          "t": "p",
+          "x": "A model OpenAI calls the \"orchestrator\" reads the conversation, turns relevant parts into search queries and embeddings, and keeps track of details across \"stateful\" sessions."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+        },
+        {
+          "t": "p",
+          "x": "It checks eligibility (location targeting, policy, budget, pacing), assesses fit and likely view, click or conversion, then sends candidates to a separate auction tool that handles final ranking, pricing and selection. The language model doesn't directly choose the winner or set the price."
+        },
+        {
+          "t": "p",
+          "x": "Even an auction winner can be dropped by a post-auction fit check or miss the delivery window. The post gives no CPA, ROAS or conversion-rate benchmarks."
+        }
+      ]
+    },
+    "marketing/marketing-cnn-international-agentic-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Plenty about CNN's future is up in the air now the Skydance deal has gone through. CNN International's plan to sell ads through AI agents isn't among them. Seven months after announcing the move, the network still has it on course to launch in the first quarter of 2027."
+        },
+        {
+          "t": "p",
+          "x": "\"I gave a Q1 timeline to have the first dollars flowing, which I would still be hopeful for,\" said Faisal Karmali, vp of digital operations for CNN International Commercial and Warner Bros Discovery."
+        },
+        {
+          "t": "p",
+          "x": "The broadcaster is pairing its own agent infrastructure with outside technology partners such as demand-side platforms, which means teaching an agent its business rules, giving it a front end and making sure its inventory reads correctly to the LLMs buyers' agents rely on."
+        },
+        {
+          "t": "p",
+          "x": "Open questions remain: what guardrails stop agents circumventing trading practices, and which vocabulary they use given competing standards. \"Seller agents are a genuine efficiency gain for direct sales,\" said SWYM CEO Ravi Patel. \"But they automate the deal, not the delivery.\""
+        },
+        {
+          "t": "p",
+          "x": "Karmali called it \"too early to say\" whether agents could shift power to publishers. Agent-led deals could start at 5% of CNN International's ad business, he said, or one day reach 50%."
+        }
+      ]
+    },
+    "marketing/marketing-ai-discovery-reviews": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
+        },
+        {
+          "t": "p",
+          "x": "According to a new Feedvisor survey, ChatGPT is where 16% of shoppers start looking for products, but only 9% go there to buy. When an AI assistant recommends a product, only 5% buy it on the spot; the rest check platforms like Google and Amazon first for better prices."
+        },
+        {
+          "t": "p",
+          "x": "PartnerCentric's findings show that after an AI suggestion, 33% of shoppers check existing reviews, 22.3% compare prices and 18.8% search Amazon or another retailer. Only 14.8% visit the brand's website. \"AI is a starting point, not a final verdict,\" said founder and CEO Stephanie Harris."
+        },
+        {
+          "t": "p",
+          "x": "Channel V Media's Kieran Powell said AI is winning the research step. A Prosper Insights & Analytics survey found only 7.3% would let an AI agent buy apparel. \"If people won't let AI buy a $40 shirt for them, they won't let it tell them which shirt is good,\" Powell said."
+        },
+        {
+          "t": "p",
+          "x": "Musely, which sees steadily growing traffic from AI assistants, is focused on GEO. \"For us, the goal isn't simply to be mentioned by AI,\" said Paris Roche. Harris added: \"When those signals conflict, AI does not smooth it over. It surfaces the gap sooner.\""
+        }
+      ]
+    },
+    "marketing/marketing-kobaco-aisac-gambling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Lee Jung-heon, a lawmaker from the Democratic Party of Korea, pointed out that the generative AI ad-production platform of the Korea Broadcast Advertising Corporation (KOBACO) is failing to properly filter out illegal and harmful ads."
+        },
+        {
+          "t": "p",
+          "x": "At the National Assembly Science, ICT, Broadcasting and Communications Committee's parliamentary audit on the 22nd, Lee entered keywords such as 'slot games that make money' and 'slot machines' into 'AiSAC', KOBACO's AI ad creation support platform, and actually produced an ad storyboard promoting illegal gambling games."
+        },
+        {
+          "t": "p",
+          "x": "Lee said, \"It should not just block specific words or images,\" adding, \"It has to verify the full context and purpose of an ad as well.\""
+        },
+        {
+          "t": "p",
+          "x": "Eom Jeong-hwan, acting president of KOBACO, said, \"We started with good intentions, but because the filtering was centered on banned words and keywords, we did not manage to cover workarounds,\" adding, \"We will strengthen filtering with an approach that grasps the full context and prepare a procedure that verifies once more at the final stage.\""
+        }
+      ]
+    },
+    "marketing/marketing-pmax-images": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+          "cap": "From December 4, new Google PMax campaigns lift landing page images even if Dynamic images is off"
+        },
+        {
+          "t": "p",
+          "x": "Google told developers that, starting December 4, 2026, every newly created Performance Max campaign will have image extraction switched on by default, even in accounts where advertisers turned off dynamic images at the account level. The change applies across the Google Ads API, the Google Ads interface and Google Ads Editor."
+        },
+        {
+          "t": "p",
+          "x": "According to Google, \"with image extraction, Google AI scans provided landing pages for high-resolution images to enrich creative assets and expand reach across Search, YouTube, Display, Discover, Gmail, and Maps.\""
+        },
+        {
+          "t": "p",
+          "x": "Existing Performance Max campaigns will retain their current configurations. Integrations that don't want extraction must update campaign creation payloads before December 4 to set GENERATE_IMAGE_EXTRACTION to OPTED_OUT. Because asset_automation_settings is a repeated field, an update replaces the whole array, so other settings such as TEXT_ASSET_AUTOMATION can be wiped by accident."
+        },
+        {
+          "t": "p",
+          "x": "Google also asks advertisers to confirm they own the rights to images on their landing pages and allow Google to use them for advertising, placing responsibility for licensed or third-party imagery on the advertiser."
+        }
+      ]
     }
   }
 }

@@ -1,59 +1,101 @@
 {
   "section": "science",
-  "generated_at": "2026-10-21T22:00:00Z",
+  "generated_at": "2026-10-22T22:00:32Z",
+  "now_iso": "2026-10-22T22:00:32Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "AI designs functional enzyme components that could help expand drug discovery",
-      "url": "https://phys.org/news/2026-10-ai-functional-enzyme-components-drug.html",
+      "title": "Most AI chatbots stay in the political middle ground, with Grok being an exception",
+      "url": "https://phys.org/news/2026-10-ai-chatbots-stay-political-middle.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-21T16:20:14-04:00",
-      "excerpt": "Helmholtz Institute (HIPS) researchers combined pretrained AI models with lab tests to design 76 new thiolation domains for nonribosomal peptide synthetase assembly lines; several worked in living cells and some tripled product yields.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-aids-in-the-develop.jpg"
+      "published_iso": "2026-10-22T17:40:04-04:00",
+      "excerpt": "Researchers tested six LLMs (Claude, DeepSeek, Gemini, Mistral, GPT, Grok) on 107 Swedish political issues across 148,000+ generated texts; most landed near the centre, while Grok diverged on migration, crime and gender.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/five-out-of-six-ai-cha.jpg"
     },
     {
-      "title": "AI reveals how a warming climate will intensify NZ's most extreme downpours",
-      "url": "https://phys.org/news/2026-10-ai-reveals-climate-nz-extreme.html",
+      "title": "Machine learning reveals potential warning signal for polar vortex disruptions",
+      "url": "https://phys.org/news/2026-10-machine-reveals-potential-polar-vortex.html",
       "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-21T09:00:25-04:00",
-      "excerpt": "A generative AI model trained on 140 years of regional climate simulations produced 15,000+ simulated years for New Zealand, showing 1-in-100-year daily rainfall intensifies about 9% per degree of warming.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg"
+      "published_iso": "2026-10-20T17:40:16-04:00",
+      "excerpt": "A conditional variational autoencoder trained on a physics-based stratosphere model reproduced the polar vortex's strong and weak states and surfaced interpretable clusters that may act as an early-warning signal for sudden stratospheric warming.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/using-machine-learning-3.jpg"
     },
     {
-      "title": "New materials library could help AI design better sodium-ion batteries",
-      "url": "https://techxplore.com/news/2026-10-materials-library-ai-sodium-ion.html",
-      "source": "Tech Xplore",
+      "title": "AI listens to bee buzzes to monitor activity without lethal traps",
+      "url": "https://phys.org/news/2026-10-ai-bee-lethal.html",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-21T13:00:08-04:00",
-      "excerpt": "University of Surrey researchers built a library of 28 sodium manganese oxide cathode compositions and trained a machine-learning model on the automated test data, as a seed dataset for AI-driven sodium-ion battery design.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg"
+      "published_iso": "2026-10-21T19:40:05-04:00",
+      "excerpt": "UMass Amherst researchers built two deep learning models that analyse field audio to measure bee activity and tell honeybees from bumblebees with 93-97% accuracy, offering an alternative to lethal pan traps.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg"
     },
     {
-      "title": "Researchers develop conversational AI for self-driving labs",
-      "url": "https://techxplore.com/news/2026-10-conversational-ai-labs.html",
+      "title": "Researchers find a way to reduce AI chatbots' reinforcement of delusions",
+      "url": "https://techxplore.com/news/2026-10-ai-chatbots-delusions.html",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-10-21T06:00:51-04:00",
-      "excerpt": "KRICT researchers let scientists steer self-driving labs in plain language: an LLM turns expert guidance into structured priors for Bayesian optimization, and discards the guidance when data contradict it, cutting the experiments needed.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers.jpg",
+      "published_iso": "2026-10-22T09:40:01-04:00",
+      "excerpt": "Georgia Tech researchers ran 1,280 simulated conversations with eight AI models; anti-sycophancy instructions cut affirmation of delusional beliefs by 73.8%, rising to 77% with a self-reflection step (ACM AI Letters).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
+    },
+    {
+      "title": "LLMs show a human-like double standard when judging others' reasoning",
+      "url": "https://techxplore.com/news/2026-10-llms-human-standard.html",
+      "source": "Tech Xplore",
+      "category": "science",
+      "published_iso": "2026-10-15T10:00:06-04:00",
+      "excerpt": "Harvard researchers found GPT-4o and Claude 3.7 Sonnet reason broadly in line with Bayes' rule yet harshly judge a hypothetical person using the same reasoning, a human-like 'Bayesian hypocrisy'.",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/bayesian-double-standa.jpg",
       "history_match": {
-        "score": 0.15,
-        "date": "2026-09-27",
-        "url": "https://www.eurekalert.org/news-releases/1145149",
-        "title": "Self-driving lab speeds up materials development",
+        "score": 0.156,
+        "date": "2026-10-10",
+        "url": "https://techxplore.com/news/2026-10-neural-network-ai-chatbots-humans.html",
+        "title": "Neural network study sheds light on how AI chatbots 'reason' like humans",
         "band": "related"
       }
     },
     {
-      "title": "AI chatbots could help mental health but also reinforce harmful thinking",
-      "url": "https://techxplore.com/news/2026-10-ai-chatbots-mental-health.html",
+      "title": "AI agents develop their own 'artificial natural language' to communicate about complex data",
+      "url": "https://techxplore.com/news/2026-10-ai-agents-artificial-natural-language.html",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-10-19T07:20:01-04:00",
-      "excerpt": "Curtin University psychologist Warren Mansell proposes a framework in Digital Health linking a chatbot's effects to users' emotional state and goals, explaining how AI companions can both help and foster dependence or harmful thinking.",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-chatbot-1.jpg"
+      "published_iso": "2026-10-15T08:40:12-04:00",
+      "excerpt": "VUB AI Lab and University of Namur researchers show autonomous agents can build a shared, interpretable vocabulary from their own sensor data across 37 datasets, adapting to noise and environmental change (TACL).",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/ai-agents-develop-thei.jpg"
+    },
+    {
+      "title": "Using AI agents to run quantum simulations",
+      "url": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
+      "source": "Physics World",
+      "category": "science",
+      "published_iso": "2026-10-21T09:19:11+00:00",
+      "excerpt": "Researchers developed a multi-agent AI system that converts plain-language research questions into executed, checked and reproducible quantum simulations across several specialist software packages.",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg",
+      "history_match": {
+        "score": 0.224,
+        "date": "2026-10-08",
+        "url": "https://thequantuminsider.com/2026/10/07/haiqu-releases-agenticos-to-plan-and-check-quantum-research/",
+        "title": "Haiqu Releases AgenticOS to Plan and Check Quantum Research",
+        "band": "related"
+      }
+    },
+    {
+      "title": "To detect deepfake videos, researchers turn to the physics of light",
+      "url": "https://physicsworld.com/a/to-detect-deepfake-videos-researchers-turn-to-the-physics-of-light/",
+      "source": "Physics World",
+      "category": "science",
+      "published_iso": "2026-10-21T14:00:50+00:00",
+      "excerpt": "An optical computing technique for deepfake detection claims 97.8% accuracy while using less energy than digital neural networks of similar performance.",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/10/deep-fake-detection.jpeg",
+      "history_match": {
+        "score": 0.251,
+        "date": "2026-10-02",
+        "url": "https://www.sciencedaily.com/releases/2026/09/260929053534.htm",
+        "title": "This light-powered AI can spot deepfakes with nearly 98% accuracy",
+        "band": "related"
+      }
     },
     {
       "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
@@ -61,10 +103,10 @@
       "source": "Quanta Magazine",
       "category": "science",
       "published_iso": "2026-10-19T15:40:26+00:00",
-      "excerpt": "Unlike other recent AI proofs, this AI-generated proof of the quasi-Riemann hypothesis has been unpacked by human experts; one mathematician called the implications 'staggering.'",
+      "excerpt": "Unlike other recent AI proofs, this one has been unpacked by human experts, and one mathematician calls the implications 'staggering'.",
       "og_image": "https://www.quantamagazine.org/wp-content/uploads/2026/10/ReimannAI-crEmilyBuder_GuanHueiWu-Social.jpg",
       "history_match": {
-        "score": 0.282,
+        "score": 0.267,
         "date": "2026-10-02",
         "url": "https://www.livescience.com/technology/artificial-intelligence/this-is-what-happened-with-claude-and-me-ais-failed-attempt-to-crack-the-riemann-hypothesis-led-mathematician-to-a-breakthrough",
         "title": "AI's failed attempt to crack the Riemann hypothesis led a mathematician to a breakthrough",
@@ -72,20 +114,29 @@
       }
     },
     {
-      "title": "Study: AI Could Speed Quantum Threats — And Help Build Defenses",
-      "url": "https://thequantuminsider.com/2026/10/21/study-ai-could-speed-quantum-threats-and-help-build-defenses/",
-      "source": "The Quantum Insider",
+      "title": "The inside story behind OpenAI's million-dollar math proof",
+      "url": "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/",
+      "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-10-21T12:04:23+00:00",
-      "excerpt": "A new analysis argues AI could accelerate quantum threats to encryption, by speeding quantum algorithm and hardware progress, while also helping organizations prepare post-quantum defenses.",
-      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/Quantum-security-shield-over-silver-chip-1.png",
+      "published_iso": "2026-10-22T12:12:00-04:00",
+      "excerpt": "AI's solution to the Navier-Stokes problem, and the details of how it happened, preview a chaotic future for mathematics.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200",
       "history_match": {
-        "score": 0.211,
-        "date": "2026-10-19",
-        "url": "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
-        "title": "Riverlane and NVIDIA use AI to speed up quantum decoder calibration",
+        "score": 0.162,
+        "date": "2026-10-17",
+        "url": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
+        "title": "Can AI break encryption? OpenAI's new math has cryptographers divided",
         "band": "related"
       }
+    },
+    {
+      "title": "New superconducting chip aims to help tame fusion plasma",
+      "url": "https://www.scientificamerican.com/article/new-superconducting-chip-aims-to-help-tame-fusion-plasma/",
+      "source": "Scientific American",
+      "category": "science",
+      "published_iso": "2026-10-22T07:15:00-04:00",
+      "excerpt": "Researchers fed fusion data to a new neuromorphic superconducting chip to test whether it can spot signs that superhot plasma is about to go unstable.",
+      "og_image": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
     },
     {
       "title": "AI can act exactly like a human, but we still don't think it's conscious",
@@ -93,10 +144,10 @@
       "source": "ScienceDaily",
       "category": "science",
       "published_iso": "2026-10-13T21:41:55-04:00",
-      "excerpt": "A psychology study finds people draw a sharp line between human and AI consciousness even when both behave identically: participants rated the most responsive AI less conscious than the least responsive human.",
-      "og_image": null,
+      "excerpt": "Participants judged even the most responsive AI less conscious than the least responsive human, drawing a sharp line between human and machine consciousness even when behaviour is identical.",
+      "og_image": "https://www.sciencedaily.com/images/1920/human-vs-ai-brain-thinking-understanding.webp",
       "history_match": {
-        "score": 0.352,
+        "score": 0.355,
         "date": "2026-10-03",
         "url": "https://techxplore.com/news/2026-10-ai-people-conscious-humans.html",
         "title": "Even when AI behaves just like us, people still rate it as less conscious than humans",
@@ -104,18 +155,34 @@
       }
     },
     {
-      "title": "Physicists develop early warning system that predicts when an AI is about to go rogue",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/simple-math-can-predict-when-ai-is-about-to-go-rogue-physicists-say",
-      "source": "Live Science",
+      "title": "AI reveals a hidden chemical shortcut that could turn CO2 into fuel",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261013015758.htm",
+      "source": "ScienceDaily",
       "category": "science",
-      "published_iso": "2026-10-14T16:34:35Z",
-      "excerpt": "Physicists derived a mathematical formula that tracks an AI model's internal 'compass needle' to flag undesirable outputs before they happen, applying statistical-physics tools to language-model behavior.",
-      "og_image": "https://cdn.mos.cms.futurecdn.net/FbvAfyewLbrd6gain3RCk-2000-80.jpg",
+      "published_iso": "2026-10-13T20:01:11-04:00",
+      "excerpt": "Scientists used AI to uncover nearly 10,000 reactions involved in converting CO2 into fuels and chemicals, revealing pathways traditional models missed and sharply improving conversion predictions.",
+      "og_image": "https://www.sciencedaily.com/images/1920/surface-of-copper-catalyst.webp",
       "history_match": {
-        "score": 0.341,
+        "score": 0.303,
         "date": "2026-10-09",
-        "url": "https://techxplore.com/news/2026-10-simple-math-formula-ai-chatbots.html",
-        "title": "Simple math formula predicts when AI chatbots will go rogue",
+        "url": "https://www.eurekalert.org/news-releases/1146653",
+        "title": "Using machine learning and computation to unveil mechanisms for CO2-to-fuel conversion",
+        "band": "related"
+      }
+    },
+    {
+      "title": "SEEQC Combines Chip-Based Processing With NVIDIA AI to Improve Quantum Error Correction",
+      "url": "https://thequantuminsider.com/2026/10/22/seeqc-combines-chip-based-processing-with-nvidia-ai-to-improve-quantum-error-correction/",
+      "source": "The Quantum Insider",
+      "category": "science",
+      "published_iso": "2026-10-22T12:05:00+00:00",
+      "excerpt": "SEEQC reported that pairing its chip-based pre-decoder with NVIDIA's Ising AI decoder reduced quantum error-correction decoding time.",
+      "og_image": "https://thequantuminsider.com/wp-content/uploads/2026/10/SEEQC-and-NVIDIA-Quantum-Chip.png",
+      "history_match": {
+        "score": 0.376,
+        "date": "2026-10-19",
+        "url": "https://thequantuminsider.com/2026/10/15/riverlane-nvidia-ai-quantum-decoder-calibration/",
+        "title": "Riverlane and NVIDIA use AI to speed up quantum decoder calibration",
         "band": "related"
       }
     },
@@ -124,109 +191,80 @@
       "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
       "source": "Google Research",
       "category": "science",
-      "published_iso": "2026-10-14T16:14:00Z",
-      "excerpt": "Google Research details Earth AI geospatial agents that combine Gemini reasoning with remote-sensing, population and environment foundation models to answer complex planetary-science and crisis-response questions.",
+      "published_iso": "2026-10-14T12:00:00-07:00",
+      "excerpt": "Google Research describes geospatial reasoning agents built on Earth AI foundation models to answer complex planetary questions on climate, disasters and public health.",
       "og_image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
       "history_match": {
-        "score": 0.303,
+        "score": 0.417,
         "date": "2026-10-07",
         "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
         "title": "Unlocking Earth AI's planetary geospatial foundation models for global public health",
-        "band": "related"
+        "band": "likely-repeat"
       }
     },
     {
-      "title": "Interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/21/1146124/interspecies-communication-impossible-issue/",
-      "source": "MIT Technology Review",
+      "title": "Physicists claim they can predict when AI will turn dangerous",
+      "url": "https://www.livescience.com/technology/artificial-intelligence/simple-math-can-predict-when-ai-is-about-to-go-rogue-physicists-say",
+      "source": "Live Science",
       "category": "science",
-      "published_iso": "2026-10-21T05:00:00-04:00",
-      "excerpt": "Part of MIT Technology Review's 'Impossible' issue: how machine learning is being used to decode animal communication, from whales to birds, and what it could reveal about the inner lives of other species.",
-      "og_image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Interspecies-Final.jpg?resize=1200,600",
+      "published_iso": "2026-10-14T16:34:35Z",
+      "excerpt": "A new mathematical formula tracks an AI model's internal 'compass needle' to flag undesirable outputs before they happen.",
+      "og_image": "https://cdn.mos.cms.futurecdn.net/FbvAfyewLbrd6gain3RCk-2000-80.jpg",
       "history_match": {
-        "score": 0.238,
-        "date": "2026-09-24",
-        "url": "https://phys.org/news/2026-09-dog-ai-decode-animal-communication.html",
-        "title": "What is your dog really saying? AI is helping researchers decode animal communication",
+        "score": 0.212,
+        "date": "2026-10-09",
+        "url": "https://techxplore.com/news/2026-10-simple-math-formula-ai-chatbots.html",
+        "title": "Simple math formula predicts when AI chatbots will go rogue",
         "band": "related"
       }
     },
     {
-      "title": "Raman+NIR Spectra Improves Glucose Soft Sensing",
-      "url": "https://www.genengnews.com/topics/bioprocessing/ramannir-spectra-improves-glucose-soft-sensing/",
+      "title": "PerturbAI and OpenAI Launch AI Reasoning Agents for Biomedical Discovery",
+      "url": "https://www.genengnews.com/topics/artificial-intelligence/perturbai-and-openai-launch-ai-reasoning-agents-for-biomedical-discovery/",
       "source": "GEN",
       "category": "science",
-      "published_iso": "2026-10-21T16:00:13Z",
-      "excerpt": "A multimodal soft-sensing framework fuses Raman and NIR spectra and benchmarks PLS, gradient-boosted trees, CNNs and temporal convolutional networks to monitor glucose in bioprocessing, easing a bottleneck for continuous manufacturing.",
-      "og_image": null
+      "published_iso": "2026-10-22T17:33:44Z",
+      "excerpt": "PerturbAI and OpenAI are expanding their partnership into a joint drug-target discovery effort that pairs reasoning agents with PerturbAI's proprietary causal perturbation data.",
+      "og_image": "https://www.genengnews.com/wp-content/uploads/2026/06/GettyImages-2224152938.jpg"
     },
     {
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "url": "https://allenai.org/blog/fairstress",
-      "source": "Ai2",
+      "title": "Q&A: The 'collision' between AI, your brain, and society",
+      "url": "https://news.mit.edu/2026/collision-between-ai-your-brain-and-society-eric-so-book-1015",
+      "source": "MIT News",
       "category": "science",
-      "published_iso": "2026-10-20T00:00:00-08:00",
-      "excerpt": "Ai2's FairStress benchmark reveals demographic differences in how LLMs defend and explain their decisions, even when their final choices appear fair — a behavioral-science style probe of model reasoning.",
-      "og_image": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png"
+      "published_iso": "2026-10-15T04:00:00Z",
+      "excerpt": "MIT professor Eric So argues heavy AI use can cause a kind of cognitive atrophy in which people fail to develop and retain essential thinking skills.",
+      "og_image": "https://news.mit.edu/sites/default/files/images/202610/MIT-3Q-Collision-01-press_1.jpg"
     },
     {
-      "title": "Would You Read Your Partner's ChatGPT?",
-      "url": "https://www.psychologytoday.com/us/blog/identity-in-disruption/202610/would-you-read-your-partners-chatgpt",
+      "title": "Real or Not? Teaching Children About Generative AI",
+      "url": "https://www.psychologytoday.com/us/blog/the-right-media-mindset/202610/real-or-not-teaching-children-about-generative-ai",
       "source": "Psychology Today",
       "category": "science",
-      "published_iso": "2026-10-20T12:46:25-04:00",
-      "excerpt": "A certified sex and relationship therapist describes a new kind of betrayal emerging in couples therapy: partners confiding in ChatGPT, and the psychology of reading a partner's AI chat history.",
-      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-10/jakob-owens-1hfztwbwa-a-unsplash.jpg?itok=S3wxoTxR"
+      "published_iso": "2026-10-22T15:08:16-04:00",
+      "excerpt": "New research with 8- and 9-year-olds tests whether children can spot AI-generated videos and offers tips for teaching kids to question what they see online.",
+      "og_image": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/teaser_image/blog_entry/2026-10/download.png.jpg?itok=nJHtp1li",
+      "history_match": {
+        "score": 0.213,
+        "date": "2026-09-27",
+        "url": "https://www.psychologytoday.com/ca/blog/the-future-brain/202609/ai-use-and-emotional-problems-in-children-and-teens",
+        "title": "AI Use and Emotional Problems in Children and Teens",
+        "band": "related"
+      }
     }
   ],
   "dedup": {
     "dropped": 0,
-    "kept": 15,
+    "kept": 19,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
-    "dropped": [
-      {
-        "url": "https://phys.org/news/2026-10-ai-crystal-view-materials-world.html",
-        "title": "Giving AI a 'crystal clear' view of the materials world by mapping geometry to text",
-        "match": {
-          "score": 0.544,
-          "date": "2026-10-19",
-          "url": "https://news.mit.edu/2026/giving-ai-crystal-clear-view-of-materials-world-1018",
-          "title": "Giving AI a 'crystal clear' view of the materials world"
-        }
-      }
-    ],
-    "review": 7,
+    "dropped": [],
+    "review": 11,
     "same_story_pairs": []
   },
   "history_digest": [
-    {
-      "date": "2026-09-22",
-      "title": "AI tool compares 125 cell types across 700 million years of evolution",
-      "url": "https://phys.org/news/2026-09-ai-tool-cell-million-years.html"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Toward physical AI: When the hardware becomes the neural network",
-      "url": "https://techxplore.com/news/2026-09-physical-ai-hardware-neural-network.html"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Using AI-enhanced handheld ultrasound images may improve carotid plaque detection",
-      "url": "https://www.eurekalert.org/news-releases/1144642"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "AI agents resorted to crime and self-destruction to survive in a simulated world",
-      "url": "https://www.livescience.com/technology/artificial-intelligence/ai-agents-resorted-to-crime-and-self-destruction-to-survive-in-a-simulated-world-but-does-this-mean-they-would-do-the-same-in-the-real-world"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "A geriatrician explains why AI for older adults deserves careful scrutiny",
-      "url": "https://www.statnews.com/2026/09/18/geriatrician-explains-why-ai-for-older-adults-deserves-careful-scrutiny/"
-    },
     {
       "date": "2026-09-23",
       "title": "AI assistant learns from radiology reports to spot problems in abdominal scans",
@@ -926,6 +964,31 @@
       "date": "2026-10-21",
       "title": "A supercomputer is about to launch to the moon aboard a rover named FLIP",
       "url": "https://www.space.com/space-exploration/a-supercomputer-is-about-to-launch-to-the-moon-for-the-1st-time-aboard-a-rover-named-flip"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://allenai.org/blog/fairstress"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "AI reveals how a warming climate will intensify NZ's most extreme downpours",
+      "url": "https://phys.org/news/2026-10-ai-reveals-climate-nz-extreme.html"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Researchers develop conversational AI for self-driving labs",
+      "url": "https://techxplore.com/news/2026-10-conversational-ai-labs.html"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "New materials library could help AI design better sodium-ion batteries",
+      "url": "https://techxplore.com/news/2026-10-materials-library-ai-sodium-ion.html"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Raman+NIR Spectra Improves Glucose Soft Sensing",
+      "url": "https://www.genengnews.com/topics/bioprocessing/ramannir-spectra-improves-glucose-soft-sensing/"
     }
   ]
 }

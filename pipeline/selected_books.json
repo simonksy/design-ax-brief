@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "section": "books",
   "picks": [
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101578-hundreds-sue-meta-for-copyright-infringement-rejecting-class-action-payouts.html",
-      "title": "Hundreds Sue Meta for Copyright Infringement, Rejecting Class Action Payouts",
-      "source": "Publishers Weekly",
+      "url": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
+      "title": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
+      "source": "The Verge",
       "category": "books",
-      "published_iso": "2026-10-21T04:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG",
-      "excerpt": "Nearly 300 authors are suing Meta over AI training on pirated books, seeking a jury trial and the maximum $150,000 per infringement rather than class-action payouts; attorney Kyle Roche says many more cases are coming.",
+      "published_iso": "2026-10-22T17:46:40+00:00",
+      "og_image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200",
+      "excerpt": "Kindle Unlimited is now Kindle Plus; subscribers get access to more audiobooks, including some read by AI narrators, at the same monthly price.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#f5a623",
       "motif": "swatch",
-      "rationale": "A new filing: nearly 300 authors opt out of class payouts and sue Meta individually for up to $150,000 per infringed work, which gives authors a new way to pursue AI-training claims."
+      "rationale": "Amazon is rebranding its biggest ebook subscription and adding AI-narrated audiobooks to it. That puts AI narration in front of millions of readers and changes what KDP authors can earn from subscription reads."
     },
     {
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119",
-      "title": "Publisher cuts ties with Quebec author accused of AI use in award-winning novel",
-      "source": "CBC News",
+      "url": "https://globalnews.ca/news/12111768/canada-artificial-intelligence-books-copyright/",
+      "title": "Library and Archives Canada cracking down on AI books amid copyright threats",
+      "source": "Global News",
       "category": "books",
-      "published_iso": "2026-10-21T16:37:41Z",
-      "og_image": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
-      "excerpt": "Éditions du Boréal said AI was used in Thélyson Orélien's novel C'était ça ou mourir, contrary to his denials, citing traces of AI tags in document metadata, and ended its relationship with the author.",
+      "published_iso": "2026-10-22T15:28:46-04:00",
+      "og_image": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "excerpt": "LAC updated its ISBN policy to limit registrations for primarily AI-generated books; registrants must now declare a human author. Canadian author groups welcomed the change.",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#0070f3",
       "motif": "swatch",
-      "rationale": "Follow-up with a new action: the publisher confirms AI use from document metadata and drops the author. This is the first publisher-confirmed case in the Orélien affair."
+      "rationale": "A national ISBN agency has made a new policy decision: registrants must now declare a human author, which limits ISBNs for mostly AI-generated books. This changes what Canadian self-publishers must do to register a book."
     },
     {
-      "url": "https://www.joongang.co.kr/article/25471800",
-      "title": "[단독] 한강·황석영 책 도둑질, 화웨이 등 中 AI기업도 가세했다",
-      "source": "중앙일보",
+      "url": "https://janefriedman.com/new-meta-commercial-terms-might-have-granted-it-ai-training-rights-until-it-changed-course/",
+      "title": "New Meta commercial terms might have granted it AI training rights, until it changed course",
+      "source": "Jane Friedman",
       "category": "books",
-      "published_iso": "2026-10-22T05:00:01+09:00",
-      "og_image": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
-      "excerpt": "앤트로픽에 이어 중국 화웨이도 AI 모델 '판구 시그마' 학습에 한강·황석영 등 한국 작가의 책을 무단으로 내려받은 것으로 기술보고서를 통해 확인됐다.",
-      "source_lang": "ko",
+      "published_iso": "2026-10-21T16:00:00+00:00",
+      "og_image": "https://janefriedman.com/wp-content/uploads/2026/07/Jane-Friedman-2025-site-Yoast.png",
+      "excerpt": "After publisher outcry, Meta modified its commercial terms to remove the word 'train' from permitted uses of content shared on its platforms.",
+      "source_lang": "en",
       "tool": "Books",
       "accent": "#7928ca",
       "motif": "swatch",
-      "rationale": "A new revelation: Huawei's own technical report shows Korean authors' books in its Pangu training data. It is a different company from the Anthropic case published on 10-16."
+      "rationale": "After publishers objected, Meta removed AI-training rights from its commercial terms. This affects anyone who posts book content on Meta platforms."
     },
     {
-      "url": "https://www.thebookseller.com/news/society-of-authors-withdraws-from-ethical-ai-charter-after-member-backlash",
-      "title": "Society of Authors withdraws from Ethical AI Charter after member backlash",
-      "source": "The Bookseller",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101589-pla-partners-with-microsoft-on-library-ai-info-sessions.html",
+      "title": "PLA Partners with Microsoft on Library AI Info Sessions",
+      "source": "Publishers Weekly",
       "category": "books",
-      "published_iso": "2026-10-21T07:45:00Z",
-      "og_image": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-      "excerpt": "The Society of Authors has withdrawn from the Ethical AI Charter it launched last week, following member backlash and a clarifying statement from CEO Anna Ganley on its position on generative AI.",
+      "published_iso": "2026-10-22T00:00:00-04:00",
+      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG",
+      "excerpt": "The Public Library Association and Microsoft launch AI education sessions in public libraries starting in December, aimed at helping patrons 'exercise their agency when it comes to AI.'",
       "source_lang": "en",
       "tool": "Books",
       "accent": "#2ec5c5",
       "motif": "swatch",
-      "rationale": "Follow-up with a new decision: a founding signatory leaves the Ethical AI Charter a week after its launch because members objected."
+      "rationale": "A new program: the Public Library Association and Microsoft will run AI education sessions for patrons in US public libraries starting in December."
     },
     {
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101576-survey-finds-book-buyers-split-on-ai-use.html",
-      "title": "Survey Finds Book Buyers Split on AI Use",
-      "source": "Publishers Weekly",
+      "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210108&t=RS",
+      "title": "\"태그만 고르면 2분 만에 웹소설\"…모사재인, 일본 진출",
+      "source": "한국경제TV",
       "category": "books",
-      "published_iso": "2026-10-21T04:00:00Z",
-      "og_image": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG",
-      "excerpt": "A BookInsights.ai study finds younger readers more open to authors using AI in some form, but readers of all ages agree that books should disclose AI use.",
-      "source_lang": "en",
+      "published_iso": "2026-10-21T05:14:18Z",
+      "og_image": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png",
+      "excerpt": "AI 스타트업 모사재인이 일본에 맞춤형 AI 웹소설 플랫폼 '아이로쿠'를 출시했다. 장르·배경·인물을 고르면 여러 AI 에이전트가 약 2분 만에 첫 화를 생성한다.",
+      "source_lang": "ko",
       "tool": "Books",
       "accent": "#eb367f",
       "motif": "swatch",
-      "rationale": "New reader data: younger buyers are more open to authors using AI, but readers of all ages want AI use disclosed, which gives disclosure policy a direct reader basis."
+      "rationale": "A new product launch where AI is the whole product: Mosajaein's Airoku platform in Japan uses several AI agents to write a reader-customised first web-novel episode in about two minutes."
     }
   ],
   "dedup": {
     "checks": {
-      "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101578-hundreds-sue-meta-for-copyright-infringement-rejecting-class-action-payouts.html": {
+      "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks": {
         "verdict": "new",
-        "nearest": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+        "nearest": "https://janefriedman.com/amazon-kdp-limits-authors-to-two-titles-per-format-per-week/",
         "new_action": ""
       },
-      "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119": {
-        "verdict": "follow-up",
-        "nearest": "https://www.thebookseller.com/news/canadian-author-thelyson-orelien-accused-of-using-ai-to-write-award-winning-novel",
-        "new_action": "On 10-21 publisher Éditions du Boréal confirmed AI use (from AI tags in the document metadata) and ended its relationship with the author. Earlier cards covered the 9-24 accusation and the 9-26 removal from the Goncourt list."
-      },
-      "https://www.joongang.co.kr/article/25471800": {
+      "https://globalnews.ca/news/12111768/canada-artificial-intelligence-books-copyright/": {
         "verdict": "new",
-        "nearest": "https://www.sedaily.com/article/20102152",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/101377-as-publishers-speed-up-ai-implementation-employees-slow-down.html",
         "new_action": ""
       },
-      "https://www.thebookseller.com/news/society-of-authors-withdraws-from-ethical-ai-charter-after-member-backlash": {
-        "verdict": "follow-up",
-        "nearest": "https://www.thebookseller.com/news/global-creative-bodies-launch-ethical-ai-charter-in-the-vacuum-of-government-policy",
-        "new_action": "The Society of Authors formally withdrew from the Ethical AI Charter, which launched on 10-15, after member backlash."
-      },
-      "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101576-survey-finds-book-buyers-split-on-ai-use.html": {
+      "https://janefriedman.com/new-meta-commercial-terms-might-have-granted-it-ai-training-rights-until-it-changed-course/": {
         "verdict": "new",
-        "nearest": "https://publishingperspectives.com/2026/10/frankfurter-buchmesse-2026-audible-commissioned-survey-finds-audio-sends-readers-back-to-print-half-would-try-ai-narration/",
+        "nearest": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101578-hundreds-sue-meta-for-copyright-infringement-rejecting-class-action-payouts.html",
+        "new_action": ""
+      },
+      "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101589-pla-partners-with-microsoft-on-library-ai-info-sessions.html": {
+        "verdict": "new",
+        "nearest": "https://www.hindustantimes.com/lifestyle/art-culture/booksmart-and-shelf-aware-how-ai-and-bots-are-changing-libraries-101790935951543.html",
+        "new_action": ""
+      },
+      "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210108&t=RS": {
+        "verdict": "new",
+        "nearest": "https://www.mt.co.kr/tech/2026/09/22/2026092214054459193",
         "new_action": ""
       }
     },
-    "note": "Dropped: (1) Bookseller 'Orélien denies using AI' (10-14), part of the running story published 9-24 and 9-26 and superseded by Boréal's decision. (2) Yonhap 佛공쿠르상 AI 대필 의혹 사실로…출판사 결별, the same Boréal event as the CBC pick; kept CBC as the primary report so the story appears once. (3) Sedaily 저작권 신탁기구 추진, the same 한국출판인회의 AI-training response as the 10-17 Yonhap card (AKR20261016078400005) and the 10-20 Sedaily follow-up; it reads as a reiteration from the same statement, not a separate new filing. Lower-ranked and not picked: Ars 'Meta drops train from TOS' (a new event but a second Meta story; also overlaps Mediabistro), Mediabistro analysis (no image), Scholarly Kitchen Frankfurt reflections, LitHub classroom excerpt, CNN/CP24 'anti-AI writing police' analysis, Bookseller 'editor's first read' comment (10-08). Outlets: PW x2, CBC, JoongAng, Bookseller."
+    "note": "Swap: enrichment found that AI is not substantive in the Good e-Reader 'Onyx Boox V4.3' article (a firmware changelog), so I replaced it with the 한국경제TV 모사재인 Airoku Japan launch. It was the next-best fresh AI×books candidate, nothing in the 30-day history covers it, and it does not overlap any story other sections claimed today. Dropped as duplicates: (1) Good e-Reader 'Kindle Unlimited is now known as Amazon Kindle+' is the same story as The Verge pick (cluster c0); kept The Verge. (2) AfroTech 'AI Agents Are Hustling To Make A Living As Writers' covers the same iLands-agent story as the 10-12 Vulture card. (3) Korea Times 'Publishers seek safeguards over suspected AI book-buying spree' adds no new filing or decision to the running Korean bulk-buying story (10-15 JoongAng, 10-17 Yonhap, 10-20 Sedaily). (4) 디지털데일리 Naver Webtoon byUs Japan launch takes the AI story-chat service published 9-26 (inews24) to a new market; it is a borderline follow-up, so I left it out. Fresh but ranked lower: Jane Friedman YouTube audiobooks (paywalled lede only; also a second Jane Friedman card), two Scholarly Kitchen commentary pieces (one guest post and one Frankfurt recap), 라이프페스타 AI book recommendation pilot, 미래엔 interview (10-11), 뉴시스 Gyeongnam AIDT stat, CNN/WTOP 'anti-AI writing police' feature. Outlets: The Verge, Global News, Jane Friedman, Publishers Weekly, 한국경제TV, five distinct with one each."
   }
 }

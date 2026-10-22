@@ -7994,6 +7994,161 @@
           "x": "Sekondo está publicado en Adobe Exchange, el mercado oficial de Adobe para estas aplicaciones, tras superar la revisión de Adobe. Funciona en macOS y Windows con las aplicaciones de escritorio de Claude y ChatGPT."
         }
       ]
+    },
+    "movies/movies-stage32-vetted-marketplace": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+          "cap": "Richard Botto"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE: La plataforma de guiones Stage 32 ha lanzado un mercado oficial en parte para ayudar a combatir la llegada masiva de proyectos escritos con IA (AI-written)."
+        },
+        {
+          "t": "p",
+          "x": "El Stage 32 Marketplace, que se lanzó ayer, permite a los ejecutivos descubrir proyectos de cine y TV revisados a fondo mediante un “proceso de evaluación” realizado por personas. Solo aparecerán en el mercado los guiones enviados a lo largo de los 15 años de existencia de Stage 32 que obtuvieron “valoraciones excepcionales”, y los ejecutivos podrán revisar las credenciales de cada proyecto y descargar guiones y materiales, además de solicitar reuniones con sus creadores."
+        },
+        {
+          "t": "p",
+          "x": "Desde su lanzamiento en 2011, Stage 32 ha evaluado 235.000 proyectos, según la empresa. El mercado arranca con más de 4.000 proyectos y acceso para 3.000 ejecutivos del sector."
+        },
+        {
+          "t": "p",
+          "x": "Entre los proyectos recientes que nacieron en Stage 32 figuran el thriller Neighborhood Watch, con Jeffrey Dean Morgan y Jack Quaid, y No Address, protagonizada por William Baldwin."
+        },
+        {
+          "t": "p",
+          "x": "Richard Botto, que dirige Stage 32, dijo que la plataforma tiene una estricta política que prohíbe la IA y que usa el mercado como una forma de combatir la basura generada por IA."
+        },
+        {
+          "t": "p",
+          "x": "“No falta buen material escrito, pero los productores y ejecutivos simplemente no tienen el tiempo ni los recursos para evaluar todo lo que hay”, dijo Botto, guionista de la WGA y productor de Another Happy Day, premiada en Sundance."
+        },
+        {
+          "t": "p",
+          "x": "“Como guionista y productor, he visto este desafío desde ambos lados. Creé Stage 32 para acercar a la industria, y el Marketplace es la culminación de esa visión”."
+        }
+      ]
+    },
+    "movies/movies-free-previz-iron-goddess": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "qlSI_ZbRdEc"
+        },
+        {
+          "t": "p",
+          "x": "Theoretically Media analiza CozyClay 3.0, una herramienta gratuita y de código abierto de previsualización 3D creada para video con IA que permite obtener el plano exacto antes de generar. Se instala con un clic a través de Pinokio, funciona en el navegador y no necesita GPU."
+        },
+        {
+          "t": "p",
+          "x": "Su agente puede construir el decorado por ti mediante un inicio de sesión de ChatGPT (Codex) o una clave de API (Anthropic, OpenAI, Gemini). El plano se sigue renderizando con tu propio modelo de video."
+        },
+        {
+          "t": "p",
+          "x": "La solución para planos rígidos, vía PJ: si las generaciones guiadas por 3D salen rígidas, haz una captura de la previsualización, organízala como storyboard y pasa a imagen a video, conservando la composición, el objetivo y la relación de aspecto exactos."
+        },
+        {
+          "t": "p",
+          "x": "El video también trata Iron Goddess, un modelo de video con IA sin autor reconocido que apareció en el modo batalla de Arena con movimientos amplios y rápidos, pero con fotogramas borrosos en los momentos más veloces, además de la supuesta IPO de Kling, Ideogram Vector y una filtración de Seedream 5.5."
+        }
+      ]
+    },
+    "movies/movies-sanxingdui-ai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+          "cap": "Material promocional de Sanxingdui, el primer largometraje de China generado íntegramente con IA. Foto: cortesía de Bona Film Group"
+        },
+        {
+          "t": "p",
+          "x": "El primer largometraje chino generado íntegramente con IA (AI-generated) que recibe un permiso de estreno en cines llegará a las salas el viernes, una prueba para una industria que busca adoptar la nueva tecnología sin perder espectadores. Sanxingdui se inspira en los misterios de la antigua civilización china para contar una historia que abarca el pasado y un futuro moldeado por la IA."
+        },
+        {
+          "t": "p",
+          "x": "Desarrollada durante más de dos años, implicó generar más de 1,2 millones de imágenes preliminares y realizar más de 100 iteraciones de la película completa. Su producción costó más de 10 millones de yuanes (1,5 millones de dólares)."
+        },
+        {
+          "t": "img",
+          "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+          "cap": "Material promocional de Sanxingdui, el primer largometraje de China generado íntegramente con IA. Foto: cortesía de Bona Film Group"
+        },
+        {
+          "t": "p",
+          "x": "Jiang Defu, productor y COO de Bona Film Group, explicó que el equipo siguió un proceso propio de la industria cinematográfica, con responsabilidades repartidas en 17 funciones profesionales en un entorno de producción virtual y revisores que examinaron la película fotograma a fotograma."
+        },
+        {
+          "t": "p",
+          "x": "La película, ya presentada en Cannes, también se estrena el viernes en Malasia. “La IA ha igualado las condiciones en cuanto a herramientas, pero ha ampliado la brecha entre creadores”, dijo el productor Qu Jixiaojiang."
+        }
+      ]
+    },
+    "movies/movies-brahma-ai-face-replacement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
+        },
+        {
+          "t": "p",
+          "x": "El 14 de octubre, el Technology & Engineering Emmy 2026 en la categoría AI-Based Face Replacement and Performance-Preserving Post-Production Transformation fue para Disney Research, Digital Domain, Rising Sun Pictures y Brahma AI, que adquirió a principios de 2025 la tecnología de humanos digitales fotorrealistas de Metaphysic."
+        },
+        {
+          "t": "p",
+          "x": "Lo premiado es el Neural Performance Toolset, visto por primera vez a escala de largometraje en Here, de Robert Zemeckis. Su cofundador y CTO, Jo Plaete, habla con AWN sobre el experimento de ABBA Voyage que le dio origen y la ronda de financiación de 150 millones de dólares."
+        },
+        {
+          "t": "video",
+          "yt": "QGKGSbghe_4"
+        },
+        {
+          "t": "p",
+          "x": "Plaete: “Dale metraje normal de la cámara principal, sin marcadores, sin casco de captura, sin escenario de captura, y lee toda la interpretación facial del actor... Luego vuelve a sintetizar esa interpretación a través de otra identidad.” En Here, Zemeckis veía en su monitor a un Tom Hanks de 25 años seis fotogramas después de la cámara; la película final recibió 60 minutos de transformación en 4K."
+        },
+        {
+          "t": "p",
+          "x": "“En una pantalla de cine no se esconde nada”, dice. “Si el modelo se desvía un cinco por ciento, todo el mundo lo nota.”"
+        }
+      ]
+    },
+    "movies/movies-eddie-ai-plan-first": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La última actualización de Eddie AI, presentada para NAB Show New York, muestra un plan antes de cualquier ejecución de pago, añade un panel para Resolve Studio e importa plantillas de After Effects. Las nuevas funciones empresariales incluyen el uso de claves propias con Anthropic (Claude), OpenAI (ChatGPT) y Google (Gemini), ejecución local en las instalaciones del cliente, propiedad de la IP por parte del cliente, ningún entrenamiento con datos de clientes y auditorías SOC 2 Type I y II con certificación GDPR."
+        },
+        {
+          "t": "video",
+          "yt": "KaiEjtkvfek"
+        },
+        {
+          "t": "p",
+          "x": "Los prompts que vayan a gastar créditos ahora devuelven un plan que enumera cada paso e indica cuáles cuestan créditos. Se puede aprobar, cambiar un paso o eliminarlo, y nada se ejecuta ni se cobra hasta aprobar la lista. Cuando un paso implica una elección, como una corrección de color, Eddie muestra las opciones como fotogramas del propio metraje."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El panel de DaVinci Resolve Studio explora bins, importa metraje, líneas de tiempo y clips multicámara, y devuelve las ediciones como una nueva línea de tiempo. Una exportación “Source clips” genera un evento del navegador de Final Cut Pro vinculado de nuevo a los originales de cámara, y los cortes de entrevistas multicámara de Premiere ahora se reconstruyen como clips multicámara conmutables."
+        },
+        {
+          "t": "p",
+          "x": "Se añadieron trece páginas de tarea única, desde quitar silencios y muletillas hasta subtítulos, doblaje, B-roll y redimensionado a vertical. Una nueva fila del espacio de trabajo muestra horas ahorradas, proyectos ejecutados y ediciones exportadas; los espacios de equipo añaden créditos y duración prevista, pero nada clasifica a los editores ni compara equipos."
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+        }
+      ]
     }
   }
 }

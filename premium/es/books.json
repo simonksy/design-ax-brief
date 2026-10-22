@@ -7312,6 +7312,131 @@
           "x": "Hixon rechazó las lecturas restrictivas de Meta: la solicitud no se limitaba a decisiones formales ni a una sola persona. Meta debe nombrar a todos los que tomaron, autorizaron o aprobaron las descargas, con sus cargos y fechas, entregar los archivos de historial de comandos de cada servidor que usó para el torrent y explicar qué pasó con las obras pirateadas que no se usaron para el entrenamiento."
         }
       ]
+    },
+    "books/books-canada-isbn-human-author": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+          "cap": "FILE - Biblioteca y Archivos de Canadá (Library and Archives Canada), en Ottawa, el lunes 3 de junio de 2024."
+        },
+        {
+          "t": "p",
+          "x": "Grupos de autores y editores canadienses dicen estar satisfechos con que Biblioteca y Archivos de Canadá (LAC) haya actualizado su política de ISBN para limitar los registros de libros generados por IA (AI-generated) y otros contenidos."
+        },
+        {
+          "t": "p",
+          "x": "«Al registrarse en ISBN Canada, usted declara que su publicación fue escrita por un autor humano», indica LAC en su sitio web, actualizado el 9 de octubre. Las herramientas de IA solo pueden usarse para tareas de apoyo limitadas, como generar ideas, revisar la gramática o el formato, e ISBN Canada limita la cantidad de ISBNs para obras cuyo contenido está generado principalmente por IA (texto, ilustración, traducción). LAC afirma que su política está en revisión y que el registro de ISBN no otorga protección de derechos de autor."
+        },
+        {
+          "t": "p",
+          "x": "La Canadian Authors Association dijo que aplaude el cambio, pero lo calificó de «solo un primer paso» y preguntó cómo se supervisará y verificará la autodeclaración. La Association of Canadian Publishers afirmó que limitar los ISBNs a libros de autoría humana debería reducir el fraude, y citó una avalancha de libros «AI-slop»."
+        },
+        {
+          "t": "p",
+          "x": "La medida llega cuando Ottawa aún carece de protecciones de derechos de autor modernizadas frente al entrenamiento no autorizado de IA; la estrategia federal de IA presentada en junio no abordó los derechos de autor."
+        }
+      ]
+    },
+    "books/books-meta-terms-ai-training": {
+      "blocks": [
+        {
+          "t": "p",
+          "x": "Los nuevos términos comerciales de Meta podrían haberle otorgado derechos de entrenamiento de IA (AI training), hasta que cambió de rumbo."
+        },
+        {
+          "t": "p",
+          "x": "Tras las quejas de las editoriales, Meta modificó sus términos comerciales para eliminar la palabra train de los usos permitidos."
+        },
+        {
+          "t": "p",
+          "x": "El artículo completo está disponible para los suscriptores de pago del boletín de Jane Friedman."
+        }
+      ]
+    },
+    "books/books-pla-microsoft-ai-sessions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
+        },
+        {
+          "t": "p",
+          "x": "La Public Library Association colabora con Microsoft en una iniciativa gratuita de habilidades de IA. «Building AI Skills and Agency Through Libraries» combinará seminarios web con sesiones de práctica comunitaria pensadas tanto para el personal de las bibliotecas como para los usuarios. El primero de cuatro seminarios web, «The AI-Ready Public Library», se celebrará a principios de diciembre."
+        },
+        {
+          "t": "p",
+          "x": "La iniciativa fue desarrollada por el grupo de trabajo Transformative Technology de la PLA junto con Microsoft Elevate, una división creada para abordar la alfabetización en IA en contextos no comerciales. Su presidente, Justin Spelhaug, subrayó la seguridad y el riesgo de la «descarga cognitiva» (cognitive offloading) en la IA, que interfiere con el aprendizaje genuino."
+        },
+        {
+          "t": "p",
+          "x": "Los miembros de la PLA habían pedido formación para el personal, educación comunitaria y ejemplos de políticas prácticas de IA. «Como bibliotecas, estamos comprometidos con tener bibliotecarios humanos», dijo Brandy McNeil, de la New York Public Library y expresidenta de la PLA. «Se trata de garantizar que las personas sepan cómo ejercer su autonomía en lo que respecta a la IA». Y añadió: «No estamos impulsando la adopción de Microsoft ni de sus herramientas»."
+        }
+      ]
+    },
+    "books/books-mosajaein-airoku-japan": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+        },
+        {
+          "t": "p",
+          "x": "La startup de inteligencia artificial (AI) Mosajaein ha entrado en el mercado japonés."
+        },
+        {
+          "t": "p",
+          "x": "Mosajaein anunció el día 21 que lanzó oficialmente en Japón Airoku (アイロク), una plataforma personalizada de novelas web con IA."
+        },
+        {
+          "t": "p",
+          "x": "Airoku es la versión japonesa de HeartFiction, la plataforma de novelas web con IA que Mosajaein opera en Corea. Cuando el usuario elige el género, la ambientación, los personajes y otros elementos, varios agentes de IA colaboran para generar el capítulo inicial de una novela web en unos 2 minutos. El usuario también puede cambiar el rumbo de la obra introduciendo en cada entrega el desarrollo que desee. Su rasgo distintivo es que va más allá de la simple lectura de novelas web y está diseñada para que el usuario participe en el proceso de creación de la historia."
+        },
+        {
+          "t": "p",
+          "x": "Según Mosajaein, su servicio en Corea, HeartFiction, superaba los 100.000 usuarios registrados en el mes 11 del año pasado, y los usuarios han generado más de 200.000 historias."
+        },
+        {
+          "t": "p",
+          "x": "Mosajaein explicó que eligió Japón como su primer mercado exterior por su cultura consolidada de pago por contenidos, su cultura fan y su mercado de obras derivadas (creación de 2.º grado). Para ello, desarrolló un motor de generación de contenidos especializado en japonés y adaptó el servicio incorporando las preferencias de los usuarios locales. Airoku está disponible en Google Play y en la App Store de Apple."
+        },
+        {
+          "t": "p",
+          "x": "Los programas gubernamentales de apoyo al desarrollo de contenidos y tecnología también sentaron las bases de esta entrada en Japón. Mosajaein fue seleccionada para el programa «Apoyo a la producción de contenidos de inteligencia artificial 2026» del Ministerio de Cultura, Deportes y Turismo y la Agencia Coreana de Contenidos Creativos, y está realizando la prueba piloto de una plataforma multimodal de creación de storyverse basada en múltiples agentes de IA."
+        },
+        {
+          "t": "p",
+          "x": "A través de este programa desarrolla una tecnología que combina ilustraciones y audio con historias generadas por IA y, en conexión con proyectos de investigación y desarrollo (R&D) del Ministerio de Cultura, Deportes y Turismo y del Ministerio de Pymes y Startups, también desarrolla tecnología de localización al japonés basada en Deep-RAG (generación aumentada por recuperación) multilingüe. La empresa también ha solicitado 4 patentes relacionadas con la generación de contenidos con IA."
+        },
+        {
+          "t": "p",
+          "x": "Jo Jin-hyuk, codirector ejecutivo de Mosajaein, afirmó: «Hemos llevado al mercado japonés un modelo de contenidos participativo validado en Corea», y añadió: «En el futuro planeamos ampliar el servicio a las regiones de habla china e inglesa»."
+        }
+      ]
+    },
+    "books/books-meta-suits": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
+        },
+        {
+          "t": "p",
+          "x": "Casi 300 autores presentaron el 19 de octubre demandas por infracción de derechos de autor contra Meta Platforms ante el U.S. District Court for the Northern District of California, alegando que la empresa entrenó sus modelos de AI con copias piratas de sus libros y, más recientemente, con libros físicos que compró y escaneó sin licencia. En lugar de sumarse a una demanda colectiva, cada autor presenta una reclamación individual."
+        },
+        {
+          "t": "p",
+          "x": "El abogado Kyle Roche, de Freedman Normand Friedland, afirma que su firma representa a más de 2,200 autores, reclutados a través de ClaimsHero, y que prevé presentar hasta 1,000 reclamaciones individuales antes de fin de año."
+        },
+        {
+          "t": "p",
+          "x": "Mientras el acuerdo de Anthropic paga unos $3,000 por obra, los demandantes quieren que los jurados concedan daños legales de hasta $150,000 por obra por infracción deliberada."
+        },
+        {
+          "t": "p",
+          "x": "Según la demanda, Meta descargó libros de bibliotecas en la sombra como LibGen, Z-Library y Anna’s Archive, y desde mid-2025 operó un programa de escaneo de libros, Project Vellum, para entrenar sus modelos Muse Spark y Muse Glimmer. Los casos relacionados con Meta tienen juicios con jurado previstos a partir del 3 de mayo de 2027."
+        }
+      ]
     }
   }
 }

@@ -8935,6 +8935,147 @@
           "x": "Se puede hacer un arreglo similar en otras apps de Adobe como Photoshop con sus propias herramientas de AI generativa, pero no se resuelve con un toque y no es gratis. Según DPReview, quienes usan la versión gratuita de la app móvil de Lightroom pueden probar Open Eyes dos veces antes de recibir una invitación a suscribirse a un plan de Adobe Creative Cloud que incluye más créditos para sus diversas herramientas AI-powered."
         }
       ]
+    },
+    "design/design-lufthansa-figma-make": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/25a1a68c5c527f854a2b80c859e10fbd1cc1d8c0-3840x2160.png?w=1200&q=70&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "En Lufthansa Systems, el equipo diseña las Pilot Apps de Lido para que funcionen en iPads instalados en la cabina. Más de 100.000 pilotos las usan a diario, y en el centro de la app hay un mapa dinámico. Crear prototipos que se sientan como el producto real ha sido un reto constante."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/c6cc11bd45b4fc2ef06eddb9f3f584179842f610-2400x1280.jpg?w=1200&q=75&fit=max&auto=format",
+          "cap": "Lido mPilot en acción"
+        },
+        {
+          "t": "p",
+          "x": "“Los mapas de nuestra app son dinámicos, pero nuestros prototipos de diseño no siempre lo eran”, dice el diseñador de producto principal Pank Juvekar. El equipo dependía sobre todo de diseños estáticos y prototipado manual. Durante una hackatón interna, la Innovation Week, llevó a Figma Make una versión web propia del mapa, construida sobre Mapbox."
+        },
+        {
+          "t": "p",
+          "x": "Después conectó Make a OpenSky Network para mostrar marcadores de aeronaves de ejemplo a menos de 500 millas náuticas de una posición simulada, y le pidió aplicar a los iconos las categorías de peso de aeronaves de la FAA. Le sorprendió que “con solo unas pocas palabras clave, Make entendió lo que intentaba hacer”."
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.sanity.io/images/599r6htc/regionalized/8e5581dfdf2630f99dfd620974d45584c200733f-2400x1280.jpg?w=1200&q=75&fit=max&auto=format"
+        },
+        {
+          "t": "p",
+          "x": "El equipo volvió a consultar a los pilotos una y otra vez sin tocar la implementación en SwiftUI. “[Figma Make] es más un compañero de pensamiento colaborativo que una simple herramienta de prototipado”, dice Juvekar. Algunos proyectos de Lido ya se hacen solo con Make."
+        }
+      ]
+    },
+    "design/design-agent-color-palette-library": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fgxpmzmr0pr4x03ohfqk8.png"
+        },
+        {
+          "t": "p",
+          "x": "Al pedirle una paleta para una app financiera, Claude dio seis códigos hex que parecían correctos en el chat. En la UI real, el texto del cuerpo quedaba sobre el color primario con un contraste de aproximadamente 2.8:1. “El modelo no estaba siendo perezoso. No tiene regla”. Así que el autor construyó la regla."
+        },
+        {
+          "t": "p",
+          "x": "PaletteGet es un sitio pequeño con unas 90 paletas seleccionadas a mano para apps móviles, web y miniprogramas. Cada una incluye colores por función, el contraste WCAG medido para las combinaciones que importan y una breve nota del editor. También es un servidor MCP, así que Cursor, Claude Desktop o cualquier cliente que hable Streamable HTTP puede leerlo directamente. Sin clave de API ni registro."
+        },
+        {
+          "t": "p",
+          "x": "Expone cuatro herramientas de solo lectura: list_palettes, get_palette, suggest_palette y get_css_variables. Al pedirle una paleta financiera en modo oscuro, el agente sugirió Ink Blue Night: texto del cuerpo #e8ecf4 a 15.29:1, AAA, y señaló que el blanco sobre el primario mide 3.26:1, suficiente solo para texto grande. “El modelo deja de afirmar y empieza a medir”."
+        },
+        {
+          "t": "p",
+          "x": "¿Por qué no escribir mejor el prompt? El contraste es aritmética con una fórmula concreta, algo en lo que los LLMs no son buenos, y el fallo es silencioso: solo se descubre cuando un párrafo real cae encima. No es un generador ni un sistema de diseño, solo un endpoint de solo lectura en un Worker."
+        }
+      ]
+    },
+    "design/design-firefly-character-likeness": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "W1IYLaWyL70"
+        },
+        {
+          "t": "p",
+          "x": "Deja de regenerar el mismo personaje desde cero. Aprende el truco de la hoja de referencia que hace que tu sujeto de IA sea reconocible en cada pose, ángulo y escena."
+        },
+        {
+          "t": "p",
+          "x": "En este tutorial descubrirás cómo crear hojas de referencia de personajes con múltiples ángulos que mantienen el parecido fijo en cada nueva generación; combinar hojas de personaje y fondos en un solo prompt para dirigir la pose, la iluminación y la profundidad de campo; y aislar y extender recursos de cuerpo entero sobre un fondo neutro para recortarlos, escalarlos y cambiarles el formato con facilidad."
+        },
+        {
+          "t": "p",
+          "x": "Ideal para carteles de cine, proyectos de diseño de personajes y conceptos de campaña."
+        },
+        {
+          "t": "p",
+          "x": "Contenido: 00:01 Introducción y presentación del autor Jesús Ramirez · 03:48 Generar personajes coherentes · 07:08 Componer referencias en un cartel cinematográfico · 08:05 Preparar recursos de cuerpo entero para un resultado editable y escalable."
+        }
+      ]
+    },
+    "design/design-nomic-arcadis-design-review": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Nomic.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Nomic ayuda a Arcadis a automatizar revisiones de ingeniería, pero el próximo cuello de botella de la IA podrían ser los ingenieros sénior que siguen siendo responsables de comprobarlas. El CEO de Nomic, Andriy Mulyar, dice que la limitación pasa a ser “el ancho de banda mental de nuestro personal sénior de ingeniería para revisar las cosas”."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/Andrij.jpg"
+        },
+        {
+          "t": "p",
+          "x": "La revisión de planos impulsó la adopción, que se extendió a especificaciones, licitaciones y documentos de aprobación. Arcadis, que respaldó a Nomic con una inversión estratégica, informa que el 86% de los participantes en su prueba de seis meses en 12 países dijo que Nomic cambió su forma de abordar el trabajo; los usuarios con licencia han subido a casi 500 desde julio, con más de 750 flujos de trabajo creados."
+        },
+        {
+          "t": "p",
+          "x": "Nomic compite con Autodesk, Procore (que adquirió Datagrid) y Bluebeam. Los agentes ya pueden empezar a revisar documentos “antes de que el humano siquiera vea el correo”, dejando a los ingenieros una revisión preparada en SharePoint, y así es como podría llenarse la cola en la mesa del ingeniero sénior."
+        },
+        {
+          "t": "img",
+          "src": "https://aecmag.com/wp-content/uploads/2026/10/image1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "El tiempo que se tarda en generar una revisión es solo parte del cálculo; el tiempo que se tarda en comprobarla, corregirla y aprobarla determina si el trabajo realmente avanzó más rápido. “Ahí es donde una IA más rápida debe convertirse en una ingeniería más rápida”."
+        }
+      ]
+    },
+    "design/design-figma-mcp": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://media2.dev.to/dynamic/image/width=1200,height=627,fit=cover,gravity=auto/https%3A%2F%2Fhacks.gr%2Fwp-content%2Fuploads%2F2026%2F10%2Fgettyimages-1233645802.webp"
+        },
+        {
+          "t": "p",
+          "x": "El cofundador de Figma, Dylan Field, expresó reservas sobre el Model Context Protocol (MCP): sostiene que el estándar no es perfecto y favorece a los grandes laboratorios de AI."
+        },
+        {
+          "t": "p",
+          "x": "En su primera conferencia Config en India, Figma anunció 20 nuevos socios que usarán MCP, entre ellos Notion, ClickUp y Linear. Aunque la empresa avanza con esta adopción, Field afirmó que MCP \"tiene muchísimo margen de mejora\" y que \"favorece más a los laboratorios de frontera\"."
+        },
+        {
+          "t": "p",
+          "x": "Field también criticó a Anthropic, la empresa que creó MCP, y preguntó por qué no ofrece sus propios recursos a través del protocolo que promueve."
+        },
+        {
+          "t": "p",
+          "x": "Figma prevé dar soporte a la herramienta de código abierto Pi, pero decidió no abrir del todo sus sistemas a cualquier conexión externa. Field explicó que cuantos más datos se exponen mediante MCP, mayor es la probabilidad de abuso, por lo que la empresa debe actuar con cautela."
+        },
+        {
+          "t": "p",
+          "x": "Republicado de Hacks.gr; información original de TechCrunch (October 20, 2026)."
+        }
+      ]
     }
   }
 }

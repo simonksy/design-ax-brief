@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "section": "music",
   "cards": [
     {
-      "id": "music-apple-samplab",
+      "id": "music-reservoir-suno-anthropic",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Apple이 Samplab\n인수, Logic Pro로",
-      "body": "Apple은 Samplab의 audio-to-MIDI 도구를 들여올 전망이다.",
-      "mini_headline": "Apple, Samplab 인수",
+      "headline": "Suno·Anthropic\n$340M 규모 피소",
+      "body": "Reservoir가 Suno·Anthropic에 약 $340M 규모 소송을 냈다.",
+      "mini_headline": "Reservoir, Suno·Anthropic 제소",
       "tool": "Music",
-      "source": "MusicTech",
-      "url": "https://musictech.com/news/industry/why-did-apple-buy-ai-music-startup-samplab-and-how-might-this-impact-logic-pro/",
+      "source": "Digital Music News",
+      "url": "https://www.digitalmusicnews.com/2026/10/22/reservoir-media-suno-anthropic-lawsuit/",
       "accent": "#ff2d55",
       "motif": "sphere",
       "full": {
@@ -19,173 +19,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+            "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+            "cap": "사진: Planet Volumes"
           },
           {
             "t": "p",
-            "x": "Apple이 스위스 개발사 Samplab을 인수했다. Samplab의 오디오 에디터는 디지털 오디오를 MIDI-style로 편집하게 해 준다. 코드를 감지해 MIDI로 내보내고, 샘플의 템포와 키를 맞추고, 개별 음까지 손볼 만큼 스템을 세밀하게 분리한다."
+            "x": "Reservoir Media가 Suno를 상대로 약 2억 달러 규모의 저작권 침해와 DMCA 소송을 냈다. Anthropic에도 비슷한 소송을 걸었다. 두 소송 모두 캘리포니아 북부지구 U.S. 연방지방법원에 접수됐다."
           },
           {
             "t": "p",
-            "x": "Samplab은 10초 모노 샘플까지만 쓰는 무료 요금제와 월 £9.99짜리 Premium 요금제를 운영했다. 개발진은 이 플러그인이 “AI로 다성 오디오를 편집 가능한 MIDI 노트로 옮기면서 원래 음색은 그대로 지킨다”고 설명한다."
+            "x": "Reservoir는 Suno가 보호받는 음악을 허락 없이 학습에 썼다고 본다. Warner Music, BMG, Believe 등과 라이선스 계약을 맺은 순간 “학습 데이터용 음악과 음원 라이선스 시장이 제대로 작동하고 있다는 사실을 사실상 인정했다”고도 주장한다. 소장에 따르면 Suno는 Bright Data의 서비스로 YouTube에서 약 113,879시간 분량, 이백만 개가 넘는 음악 클립이 담긴 파일을 긁어 갔다."
           },
           {
             "t": "p",
-            "x": "Logic Pro도 Flex Pitch로 일부 기능을 이미 갖췄지만, 지금은 어느 DAW에서든 다성 노트를 편집하려면 Melodyne이나 RipX 같은 플러그인을 따로 써야 한다. MusicTech는 Apple이 Samplab의 기능을 Logic Pro에 바로 넣고, 스템 분리 개수도 흔한 네 개보다 늘리며, 차츰 Logic for iPad와 GarageBand, Final Cut Pro로 넓혀 갈 수 있다고 내다본다."
+            "x": "Reservoir는 Suno를 상대로 고의 침해가 의심되는 1,050개 작품마다 법정 최고액 15만 달러씩, 합계 1억5750만 달러를 청구했다. 여기에 접근 통제 우회로 263만 달러, 저작권 관리 정보 삭제로 2625만 달러를 더했다."
           },
           {
             "t": "p",
-            "x": "Apple은 그동안 AI에서 경쟁사보다 덜 공격적이었다. MusicTech는 이런 인수가 앞으로도 이어지고, 자사 소프트웨어 워크플로에 조용히 스며들 것으로 본다."
+            "x": "Anthropic 소장도 853개 작품을 두고 같은 주장을 펼친다. The Atlantic의 AI Watchdog 데이터셋 검색 도구를 근거로 침해 배상금 1억2795만 달러(“Claude는 853개 작품 모두에 대해 침해 결과물을 만들어 냈다”)와 DMCA 관련 2350만 달러를 함께 청구했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Apple buys AI startup Samplab\nwith eyes on Logic Pro",
-          "body": "Apple bought Swiss AI audio startup Samplab, likely to build its polyphonic audio-to-MIDI tools into Logic Pro.",
-          "mini_headline": "Apple buys Samplab",
+          "headline": "Reservoir sues Suno and\nAnthropic for nearly $340M",
+          "body": "Reservoir filed separate infringement and DMCA suits against Suno and Anthropic, seeking nearly $340 million.",
+          "mini_headline": "Reservoir sues Suno, Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+                "cap": "Photo Credit: Planet Volumes"
               },
               {
                 "t": "p",
-                "x": "Apple has acquired Samplab, a Swiss developer whose audio editor offers MIDI-style editing of digital audio: chord detection with MIDI export, tempo and key matching of samples, and granular stem separation with editable individual notes."
+                "x": "Suno is now facing a nearly $200 million copyright infringement and DMCA complaint from Reservoir Media, which has also fired off a similar action against Anthropic. Both suits were submitted to the U.S. District Court for the Northern District of California."
               },
               {
                 "t": "p",
-                "x": "Samplab had a free tier limited to 10-second mono samples and a £9.99/month Premium plan. Its developers say the plugin “uses AI to transcribe polyphonic audio into editable MIDI notes while preserving the original timbre.”"
+                "x": "Reservoir says Suno trained on protected music without authorization and, by inking licensing pacts with Warner Music, BMG, Believe and others, “all but admitted that there is a functioning market for licensing music and sound recordings for training data.” The complaint also alleges Suno used Bright Data’s services to scrape files including over two million music clips of approximately 113,879 hours of music from YouTube."
               },
               {
                 "t": "p",
-                "x": "Logic Pro already offers some of this through Flex Pitch, but polyphonic note editing in any DAW currently needs a plug-in such as Melodyne or RipX. MusicTech expects Apple to build Samplab’s capabilities directly into Logic Pro, possibly extending stem separation beyond the usual four stems, and perhaps trickle them into Logic for iPad, GarageBand or Final Cut Pro."
+                "x": "Against Suno, Reservoir seeks the statutory maximum of $150,000 for each of 1,050 allegedly willfully infringed works, or $157.5 million, plus $2.63 million for circumvention of access controls and $26.25 million for removal of copyright management information."
               },
               {
                 "t": "p",
-                "x": "Apple has taken a less aggressive approach to AI than rivals; MusicTech expects more acquisitions like this to be quietly folded into its software workflows."
+                "x": "The Anthropic complaint makes the same claims for 853 works, citing The Atlantic’s AI Watchdog dataset-search tool, and seeks $127.95 million for infringement (“Claude has created infringing output for all 853 of the Works”) plus another $23.5 million on the DMCA side."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Apple이 Samplab\n인수, Logic Pro로",
-          "body": "Apple은 Samplab의 audio-to-MIDI 도구를 들여올 전망이다.",
-          "mini_headline": "Apple, Samplab 인수",
+          "headline": "Suno·Anthropic\n$340M 규모 피소",
+          "body": "Reservoir가 Suno·Anthropic에 약 $340M 규모 소송을 냈다.",
+          "mini_headline": "Reservoir, Suno·Anthropic 제소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+                "cap": "사진: Planet Volumes"
               },
               {
                 "t": "p",
-                "x": "Apple이 스위스 개발사 Samplab을 인수했다. Samplab의 오디오 에디터는 디지털 오디오를 MIDI-style로 편집하게 해 준다. 코드를 감지해 MIDI로 내보내고, 샘플의 템포와 키를 맞추고, 개별 음까지 손볼 만큼 스템을 세밀하게 분리한다."
+                "x": "Reservoir Media가 Suno를 상대로 약 2억 달러 규모의 저작권 침해와 DMCA 소송을 냈다. Anthropic에도 비슷한 소송을 걸었다. 두 소송 모두 캘리포니아 북부지구 U.S. 연방지방법원에 접수됐다."
               },
               {
                 "t": "p",
-                "x": "Samplab은 10초 모노 샘플까지만 쓰는 무료 요금제와 월 £9.99짜리 Premium 요금제를 운영했다. 개발진은 이 플러그인이 “AI로 다성 오디오를 편집 가능한 MIDI 노트로 옮기면서 원래 음색은 그대로 지킨다”고 설명한다."
+                "x": "Reservoir는 Suno가 보호받는 음악을 허락 없이 학습에 썼다고 본다. Warner Music, BMG, Believe 등과 라이선스 계약을 맺은 순간 “학습 데이터용 음악과 음원 라이선스 시장이 제대로 작동하고 있다는 사실을 사실상 인정했다”고도 주장한다. 소장에 따르면 Suno는 Bright Data의 서비스로 YouTube에서 약 113,879시간 분량, 이백만 개가 넘는 음악 클립이 담긴 파일을 긁어 갔다."
               },
               {
                 "t": "p",
-                "x": "Logic Pro도 Flex Pitch로 일부 기능을 이미 갖췄지만, 지금은 어느 DAW에서든 다성 노트를 편집하려면 Melodyne이나 RipX 같은 플러그인을 따로 써야 한다. MusicTech는 Apple이 Samplab의 기능을 Logic Pro에 바로 넣고, 스템 분리 개수도 흔한 네 개보다 늘리며, 차츰 Logic for iPad와 GarageBand, Final Cut Pro로 넓혀 갈 수 있다고 내다본다."
+                "x": "Reservoir는 Suno를 상대로 고의 침해가 의심되는 1,050개 작품마다 법정 최고액 15만 달러씩, 합계 1억5750만 달러를 청구했다. 여기에 접근 통제 우회로 263만 달러, 저작권 관리 정보 삭제로 2625만 달러를 더했다."
               },
               {
                 "t": "p",
-                "x": "Apple은 그동안 AI에서 경쟁사보다 덜 공격적이었다. MusicTech는 이런 인수가 앞으로도 이어지고, 자사 소프트웨어 워크플로에 조용히 스며들 것으로 본다."
+                "x": "Anthropic 소장도 853개 작품을 두고 같은 주장을 펼친다. The Atlantic의 AI Watchdog 데이터셋 검색 도구를 근거로 침해 배상금 1억2795만 달러(“Claude는 853개 작품 모두에 대해 침해 결과물을 만들어 냈다”)와 DMCA 관련 2350만 달러를 함께 청구했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AppleがSamplab\n買収、Logic Proへ",
-          "body": "Appleはスイス企業Samplabのaudio-to-MIDI技術を取り込む見通しだ。",
-          "mini_headline": "AppleがSamplab買収",
+          "headline": "Suno・Anthropic\n$340M 規模の提訴",
+          "body": "ReservoirがSunoとAnthropicを提訴、約3億4000万ドルを請求した。",
+          "mini_headline": "ReservoirがSuno・Anthropicを提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+                "cap": "写真：Planet Volumes"
               },
               {
                 "t": "p",
-                "x": "AppleはスイスのデベロッパーSamplabを買収した。同社のオーディオエディターは、デジタルオーディオをMIDI-styleで編集できる。MIDI書き出しに対応したコード検出、サンプルのテンポとキーの合わせ込み、個々の音を編集できる細かなステム分離などだ。"
+                "x": "SunoはReservoir Mediaから、約2億ドル規模の著作権侵害およびDMCA違反の訴えを起こされた。Reservoir MediaはAnthropicに対しても同様の訴訟を起こしている。両訴訟はいずれもカリフォルニア州北部地区のU.S.連邦地方裁判所に提起された。"
               },
               {
                 "t": "p",
-                "x": "Samplabには10秒のモノラルサンプルに限った無料プランと、月額£9.99のPremiumプランがあった。開発陣によれば、このプラグインは「AIでポリフォニックなオーディオを編集可能なMIDIノートに書き起こし、元の音色を保つ」という。"
+                "x": "Reservoirによれば、Sunoは保護された楽曲を無断で学習に用いたうえ、Warner Music、BMG、Believeなどとライセンス契約を結んだことで「学習データ向けに楽曲と録音物をライセンスする市場が機能していることを事実上認めた」という。訴状はさらに、SunoがBright DataのサービスでYouTubeから約113,879時間分、二百万本を超える楽曲クリップを含むファイルを収集したと主張している。"
               },
               {
                 "t": "p",
-                "x": "Logic ProはFlex Pitchですでに一部を実現しているが、現状どのDAWでもポリフォニックなノート編集にはMelodyneやRipXといったプラグインが要る。MusicTechは、AppleがSamplabの機能をLogic Proに直接組み込み、ステム分離を通常の四つのステム以上に広げ、さらにLogic for iPadやGarageBand、Final Cut Proにも展開する可能性があるとみる。"
+                "x": "Sunoに対しReservoirは、故意に侵害されたとする1,050作品それぞれに法定上限の15万ドル、計1億5750万ドルを求めている。さらにアクセス制御の回避で263万ドル、著作権管理情報の削除で2625万ドルを請求した。"
               },
               {
                 "t": "p",
-                "x": "AppleはAIに対してライバルほど積極的ではない姿勢を取ってきた。MusicTechは、今回のような買収が今後も増え、同社のソフトウェアのワークフローに静かに組み込まれていくと予想する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Apple收购Samplab\n瞄准Logic Pro",
-          "body": "Apple或将把Samplab的多音audio-to-MIDI技术融入Logic Pro。",
-          "mini_headline": "Apple收购Samplab",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple已收购瑞士开发商Samplab。该公司的音频编辑器可对数字音频进行MIDI-style编辑：带MIDI导出的和弦检测、采样的速度与调性匹配，以及可编辑单个音符的精细分轨分离。"
-              },
-              {
-                "t": "p",
-                "x": "Samplab此前提供仅限10秒单声道采样的免费方案，以及每月£9.99的Premium方案。开发者称，该插件“利用AI将复音音频转写为可编辑的MIDI音符，同时保留原有音色”。"
-              },
-              {
-                "t": "p",
-                "x": "Logic Pro已通过Flex Pitch提供部分此类功能，但目前在任何DAW中编辑复音音符都需要Melodyne或RipX等插件。MusicTech预计Apple会将Samplab的功能直接整合进Logic Pro，或许还会把分轨分离扩展到常见的四条分轨之外，并可能逐步引入Logic for iPad、GarageBand或Final Cut Pro。"
-              },
-              {
-                "t": "p",
-                "x": "与竞争对手相比，Apple对AI的态度较为保守；MusicTech预计此类收购会更多，并被悄然融入其软件工作流程。"
+                "x": "Anthropicへの訴状も853作品について同じ主張を展開し、The AtlanticのAI Watchdogデータセット検索ツールを根拠に、侵害で1億2795万ドル（「Claudeは853作品すべてについて侵害する出力を生成した」）、DMCA関連でさらに2350万ドルを求めている。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple compra la startup Samplab\ncon la vista en Logic Pro",
-          "body": "Apple compró la startup suiza de audio con AI Samplab y quizá lleve sus herramientas audio-to-MIDI a Logic Pro.",
-          "mini_headline": "Apple compra Samplab",
+          "headline": "Reservoir demanda a Suno y\nAnthropic por casi $340M",
+          "body": "Reservoir presentó demandas separadas por infracción y DMCA contra Suno y Anthropic por casi 340 millones de dólares.",
+          "mini_headline": "Reservoir demanda a Suno y Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+                "cap": "Foto: Planet Volumes"
               },
               {
                 "t": "p",
-                "x": "Apple ha adquirido Samplab, un desarrollador suizo cuyo editor de audio ofrece edición MIDI-style de audio digital: detección de acordes con exportación MIDI, ajuste de tempo y tonalidad de las muestras y separación detallada de stems con notas individuales editables."
+                "x": "Suno enfrenta ahora una demanda por infracción de derechos de autor y DMCA de casi 200 millones de dólares presentada por Reservoir Media, que también ha emprendido una acción similar contra Anthropic. Ambas demandas se presentaron ante la U.S. District Court del Distrito Norte de California."
               },
               {
                 "t": "p",
-                "x": "Samplab tenía un plan gratuito limitado a muestras mono de 10 segundos y un plan Premium de £9.99 al mes. Sus desarrolladores dicen que el plugin “usa AI para transcribir audio polifónico en notas MIDI editables conservando el timbre original”."
+                "x": "Reservoir afirma que Suno entrenó con música protegida sin autorización y que, al firmar acuerdos de licencia con Warner Music, BMG, Believe y otros, “prácticamente admitió que existe un mercado operativo para licenciar música y grabaciones sonoras como datos de entrenamiento”. La demanda también sostiene que Suno usó los servicios de Bright Data para extraer de YouTube archivos que incluyen más de dos millones de clips musicales, con aproximadamente 113.879 horas de música."
               },
               {
                 "t": "p",
-                "x": "Logic Pro ya ofrece parte de esto con Flex Pitch, pero hoy editar notas polifónicas en cualquier DAW exige un plugin como Melodyne o RipX. MusicTech prevé que Apple integre las funciones de Samplab directamente en Logic Pro, quizá ampliando la separación de stems más allá de los cuatro habituales, y que tal vez las lleve a Logic for iPad, GarageBand o Final Cut Pro."
+                "x": "Contra Suno, Reservoir reclama el máximo legal de 150.000 dólares por cada una de las 1.050 obras presuntamente infringidas de forma deliberada, es decir, 157,5 millones de dólares, más 2,63 millones por la elusión de controles de acceso y 26,25 millones por la eliminación de información de gestión de derechos de autor."
               },
               {
                 "t": "p",
-                "x": "Apple ha adoptado ante la AI un enfoque menos agresivo que sus rivales; MusicTech espera que más adquisiciones como esta se integren discretamente en sus flujos de trabajo de software."
+                "x": "La demanda contra Anthropic plantea las mismas reclamaciones sobre 853 obras, cita la herramienta de búsqueda de conjuntos de datos AI Watchdog de The Atlantic y reclama 127,95 millones de dólares por infracción (“Claude ha generado resultados infractores para las 853 Obras”), además de otros 23,5 millones por la parte de la DMCA."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Reservoir向两家AI\n公司索赔近$340M",
+          "body": "Reservoir分别以侵权和DMCA起诉Suno与Anthropic，索赔近3.4亿美元。",
+          "mini_headline": "Reservoir起诉Suno、Anthropic",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+                "cap": "图片来源：Planet Volumes"
+              },
+              {
+                "t": "p",
+                "x": "Reservoir Media对Suno提起了一项金额近2亿美元的版权侵权及DMCA诉讼，并对Anthropic提起了类似诉讼。两起诉讼均已提交至U.S.加州北区联邦地区法院。"
+              },
+              {
+                "t": "p",
+                "x": "Reservoir称，Suno未经授权使用受保护的音乐进行训练，而且通过与Warner Music、BMG、Believe等公司签订授权协议，“几乎等于承认存在一个将音乐和录音授权用作训练数据的成熟市场”。诉状还指控Suno借助Bright Data的服务，从YouTube抓取文件，其中包括超过两百万段音乐片段，总时长约113,879小时。"
+              },
+              {
+                "t": "p",
+                "x": "针对Suno，Reservoir就1,050件据称遭故意侵权的作品，按每件15万美元的法定上限索赔，合计15750万美元；另就规避访问控制索赔263万美元，就移除版权管理信息索赔2625万美元。"
+              },
+              {
+                "t": "p",
+                "x": "针对Anthropic的诉状就853件作品提出相同主张，援引了The Atlantic的AI Watchdog数据集搜索工具，索赔侵权赔偿1.2795亿美元（“Claude针对全部853件作品都生成了侵权输出”），另在DMCA方面索赔2350万美元。"
               }
             ]
           }
@@ -193,121 +199,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Apple이 Samplab\n인수, Logic Pro로",
-          "body": "Apple은 Samplab의 audio-to-MIDI 도구를 들여올 전망이다.",
-          "mini_headline": "Apple, Samplab 인수",
+          "headline": "Suno·Anthropic\n$340M 규모 피소",
+          "body": "Reservoir가 Suno·Anthropic에 약 $340M 규모 소송을 냈다.",
+          "mini_headline": "Reservoir, Suno·Anthropic 제소",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+                "cap": "사진: Planet Volumes"
               },
               {
                 "t": "p",
-                "x": "Apple이 스위스 개발사 Samplab을 인수했다. Samplab의 오디오 에디터는 디지털 오디오의 MIDI-style 편집을 제공한다. MIDI 내보내기가 되는 코드 감지, 샘플의 템포·키 맞춤, 개별 음을 편집할 수 있는 세밀한 스템 분리가 그 기능이다."
+                "x": "Suno가 Reservoir Media로부터 약 2억 달러 규모의 저작권 침해 및 DMCA 소송을 당했다. Reservoir Media는 Anthropic에도 비슷한 소송을 냈다. 두 소송 모두 캘리포니아 북부지구 U.S. 연방지방법원에 접수됐다."
               },
               {
                 "t": "p",
-                "x": "Samplab은 10초 모노 샘플로 제한된 무료 요금제와 월 £9.99의 Premium 요금제를 운영했다. 개발진은 이 플러그인이 “AI로 다성 오디오를 편집 가능한 MIDI 노트로 옮기면서 원래 음색은 그대로 지킨다”고 설명한다."
+                "x": "Reservoir는 Suno가 보호받는 음악을 허락 없이 학습에 썼고, Warner Music, BMG, Believe 등과 라이선스 계약을 맺음으로써 “학습 데이터용 음악과 음원 라이선스 시장이 제대로 작동하고 있다는 사실을 사실상 인정했다”고 주장한다. 소장은 또 Suno가 Bright Data의 서비스를 이용해 YouTube에서 약 113,879시간 분량, 이백만 개가 넘는 음악 클립을 포함한 파일을 긁어 갔다고 주장한다."
               },
               {
                 "t": "p",
-                "x": "Logic Pro는 Flex Pitch로 이미 일부 기능을 제공하지만, 지금은 어떤 DAW에서든 다성 노트를 편집하려면 Melodyne이나 RipX 같은 플러그인이 필요하다. MusicTech는 Apple이 Samplab의 기능을 Logic Pro에 직접 넣고, 스템 분리를 흔히 쓰는 네 개 스템 너머로 넓히며, Logic for iPad나 GarageBand, Final Cut Pro로도 차츰 넓힐 수 있다고 내다본다."
+                "x": "Reservoir는 Suno를 상대로 고의 침해 혐의가 있는 1,050개 작품 각각에 법정 최고액인 15만 달러, 합계 1억5750만 달러를 청구했다. 여기에 접근 통제 우회에 대한 263만 달러와 저작권 관리 정보 삭제에 대한 2625만 달러를 더했다."
               },
               {
                 "t": "p",
-                "x": "Apple은 경쟁사보다 AI에 덜 공격적으로 접근해 왔다. MusicTech는 이런 인수가 더 이어지고, 자사 소프트웨어 워크플로에 조용히 녹아들 것으로 본다."
+                "x": "Anthropic을 상대로 한 소장도 853개 작품에 대해 같은 주장을 담았다. The Atlantic의 AI Watchdog 데이터셋 검색 도구를 근거로 침해 배상금 1억2795만 달러(“Claude는 853개 작품 모두에 대해 침해 결과물을 만들어 냈다”)와 DMCA 관련 2350만 달러를 함께 청구했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AppleがSamplab\n買収、Logic Proへ",
-          "body": "Appleはスイス企業Samplabのaudio-to-MIDI技術を取り込む見通しだ。",
-          "mini_headline": "AppleがSamplab買収",
+          "headline": "Suno・Anthropic\n$340M 規模の提訴",
+          "body": "ReservoirがSunoとAnthropicを提訴、約3億4000万ドルを請求した。",
+          "mini_headline": "ReservoirがSuno・Anthropicを提訴",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+                "cap": "写真：Planet Volumes"
               },
               {
                 "t": "p",
-                "x": "AppleはスイスのデベロッパーSamplabを買収した。同社のオーディオエディターは、デジタルオーディオをMIDI-styleで編集できる。MIDI書き出しに対応したコード検出、サンプルのテンポとキーの合わせ込み、個々の音を編集できる細かなステム分離などだ。"
+                "x": "SunoはReservoir Mediaから、約2億ドル規模の著作権侵害およびDMCA違反の訴えを起こされた。Reservoir MediaはAnthropicに対しても同様の訴訟を起こしている。両訴訟はいずれもカリフォルニア州北部地区のU.S.連邦地方裁判所に提起された。"
               },
               {
                 "t": "p",
-                "x": "Samplabには10秒のモノラルサンプルに限った無料プランと、月額£9.99のPremiumプランがあった。開発陣によれば、このプラグインは「AIでポリフォニックなオーディオを編集可能なMIDIノートに書き起こし、元の音色を保つ」という。"
+                "x": "Reservoirによれば、Sunoは保護された楽曲を無断で学習に用いたうえ、Warner Music、BMG、Believeなどとライセンス契約を結んだことで「学習データ向けに楽曲と録音物をライセンスする市場が機能していることを事実上認めた」という。訴状はさらに、SunoがBright DataのサービスでYouTubeから約113,879時間分、二百万本を超える楽曲クリップを含むファイルを収集したと主張している。"
               },
               {
                 "t": "p",
-                "x": "Logic ProはFlex Pitchですでに一部を実現しているが、現状どのDAWでもポリフォニックなノート編集にはMelodyneやRipXといったプラグインが要る。MusicTechは、AppleがSamplabの機能をLogic Proに直接組み込み、ステム分離を通常の四つのステム以上に広げ、さらにLogic for iPadやGarageBand、Final Cut Proにも展開する可能性があるとみる。"
+                "x": "Sunoに対しReservoirは、故意に侵害されたとする1,050作品それぞれに法定上限の15万ドル、計1億5750万ドルを求めている。さらにアクセス制御の回避で263万ドル、著作権管理情報の削除で2625万ドルを請求した。"
               },
               {
                 "t": "p",
-                "x": "AppleはAIに対してライバルほど積極的ではない姿勢を取ってきた。MusicTechは、今回のような買収が今後も増え、同社のソフトウェアのワークフローに静かに組み込まれていくと予想する。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "Apple收购Samplab\n瞄准Logic Pro",
-          "body": "Apple或将把Samplab的多音audio-to-MIDI技术融入Logic Pro。",
-          "mini_headline": "Apple收购Samplab",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
-              },
-              {
-                "t": "p",
-                "x": "Apple已收购瑞士开发商Samplab。该公司的音频编辑器可对数字音频进行MIDI-style编辑：带MIDI导出的和弦检测、采样的速度与调性匹配，以及可编辑单个音符的精细分轨分离。"
-              },
-              {
-                "t": "p",
-                "x": "Samplab此前提供仅限10秒单声道采样的免费方案，以及每月£9.99的Premium方案。开发者称，该插件“利用AI将复音音频转写为可编辑的MIDI音符，同时保留原有音色”。"
-              },
-              {
-                "t": "p",
-                "x": "Logic Pro已通过Flex Pitch提供部分此类功能，但目前在任何DAW中编辑复音音符都需要Melodyne或RipX等插件。MusicTech预计Apple会将Samplab的功能直接整合进Logic Pro，或许还会把分轨分离扩展到常见的四条分轨之外，并可能逐步引入Logic for iPad、GarageBand或Final Cut Pro。"
-              },
-              {
-                "t": "p",
-                "x": "与竞争对手相比，Apple对AI的态度较为保守；MusicTech预计此类收购会更多，并被悄然融入其软件工作流程。"
+                "x": "Anthropicへの訴状も853作品について同じ主張を展開し、The AtlanticのAI Watchdogデータセット検索ツールを根拠に、侵害で1億2795万ドル（「Claudeは853作品すべてについて侵害する出力を生成した」）、DMCA関連でさらに2350万ドルを求めている。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Apple compra la startup Samplab\ncon la vista en Logic Pro",
-          "body": "Apple compró la startup suiza de audio con AI Samplab y quizá lleve sus herramientas audio-to-MIDI a Logic Pro.",
-          "mini_headline": "Apple compra Samplab",
+          "headline": "Reservoir demanda a Suno y\nAnthropic por casi $340M",
+          "body": "Reservoir presentó demandas separadas por infracción y DMCA contra Suno y Anthropic por casi 340 millones de dólares.",
+          "mini_headline": "Reservoir demanda a Suno y Anthropic",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://musictech.com/wp-content/uploads/2026/10/Apple-Samplab@2000x1500-1068x801.jpg"
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+                "cap": "Foto: Planet Volumes"
               },
               {
                 "t": "p",
-                "x": "Apple ha adquirido Samplab, un desarrollador suizo cuyo editor de audio ofrece edición MIDI-style de audio digital: detección de acordes con exportación MIDI, ajuste de tempo y tonalidad de las muestras y separación detallada de stems con notas individuales editables."
+                "x": "Suno enfrenta ahora una demanda por infracción de derechos de autor y DMCA de casi 200 millones de dólares presentada por Reservoir Media, que también ha emprendido una acción similar contra Anthropic. Ambas demandas se presentaron ante la U.S. District Court del Distrito Norte de California."
               },
               {
                 "t": "p",
-                "x": "Samplab tenía un plan gratuito limitado a muestras mono de 10 segundos y un plan Premium de £9.99 al mes. Sus desarrolladores dicen que el plugin “usa AI para transcribir audio polifónico en notas MIDI editables conservando el timbre original”."
+                "x": "Reservoir afirma que Suno entrenó con música protegida sin autorización y que, al firmar acuerdos de licencia con Warner Music, BMG, Believe y otros, “prácticamente admitió que existe un mercado operativo para licenciar música y grabaciones sonoras como datos de entrenamiento”. La demanda también sostiene que Suno usó los servicios de Bright Data para extraer de YouTube archivos que incluyen más de dos millones de clips musicales, con aproximadamente 113.879 horas de música."
               },
               {
                 "t": "p",
-                "x": "Logic Pro ya ofrece parte de esto con Flex Pitch, pero hoy editar notas polifónicas en cualquier DAW exige un plugin como Melodyne o RipX. MusicTech prevé que Apple integre las funciones de Samplab directamente en Logic Pro, quizá ampliando la separación de stems más allá de los cuatro habituales, y que tal vez las lleve a Logic for iPad, GarageBand o Final Cut Pro."
+                "x": "Contra Suno, Reservoir reclama el máximo legal de 150.000 dólares por cada una de las 1.050 obras presuntamente infringidas de forma deliberada, es decir, 157,5 millones de dólares, más 2,63 millones por la elusión de controles de acceso y 26,25 millones por la eliminación de información de gestión de derechos de autor."
               },
               {
                 "t": "p",
-                "x": "Apple ha adoptado ante la AI un enfoque menos agresivo que sus rivales; MusicTech espera que más adquisiciones como esta se integren discretamente en sus flujos de trabajo de software."
+                "x": "La demanda contra Anthropic plantea las mismas reclamaciones sobre 853 obras, cita la herramienta de búsqueda de conjuntos de datos AI Watchdog de The Atlantic y reclama 127,95 millones de dólares por infracción (“Claude ha generado resultados infractores para las 853 Obras”), además de otros 23,5 millones por la parte de la DMCA."
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "Reservoir向两家AI\n公司索赔近$340M",
+          "body": "Reservoir分别以侵权和DMCA起诉Suno与Anthropic，索赔近3.4亿美元。",
+          "mini_headline": "Reservoir起诉Suno、Anthropic",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://www.digitalmusicnews.com/wp-content/uploads/2026/10/Anthropic-Suno-Reservoir-Suits-1024x546.jpg",
+                "cap": "图片来源：Planet Volumes"
+              },
+              {
+                "t": "p",
+                "x": "Reservoir Media对Suno提起了一项金额近2亿美元的版权侵权及DMCA诉讼，并对Anthropic提起了类似诉讼。两起诉讼均已提交至U.S.加州北区联邦地区法院。"
+              },
+              {
+                "t": "p",
+                "x": "Reservoir称，Suno未经授权使用受保护的音乐进行训练，而且通过与Warner Music、BMG、Believe等公司签订授权协议，“几乎等于承认存在一个将音乐和录音授权用作训练数据的成熟市场”。诉状还指控Suno借助Bright Data的服务，从YouTube抓取文件，其中包括超过两百万段音乐片段，总时长约113,879小时。"
+              },
+              {
+                "t": "p",
+                "x": "针对Suno，Reservoir就1,050件据称遭故意侵权的作品，按每件15万美元的法定上限索赔，合计15750万美元；另就规避访问控制索赔263万美元，就移除版权管理信息索赔2625万美元。"
+              },
+              {
+                "t": "p",
+                "x": "针对Anthropic的诉状就853件作品提出相同主张，援引了The Atlantic的AI Watchdog数据集搜索工具，索赔侵权赔偿1.2795亿美元（“Claude针对全部853件作品都生成了侵权输出”），另在DMCA方面索赔2350万美元。"
               }
             ]
           }
@@ -315,189 +325,195 @@
       }
     },
     {
-      "id": "music-iamddb-ai-likeness",
+      "id": "music-umg-tyger-license",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "IAMDDB, 이스라엘이\nAI로 모습 도용 주장",
-      "body": "IAMDDB는 이스라엘 정부 영상 속 AI-generated 분신을 문제 삼았다.",
-      "mini_headline": "IAMDDB 모습 도용",
+      "headline": "UMG, AI 게임 플랫폼\nTYGER에 음원 라이선스",
+      "body": "UMG가 메이저 중 처음으로 AI 게임 플랫폼 TYGER와 라이선스 계약을 맺었다.",
+      "mini_headline": "UMG, TYGER에 라이선스",
       "tool": "Music",
-      "source": "Mixmag",
-      "url": "https://mixmag.net/read/iamddb-accuses-israeli-government-stealing-identity-for-ai-propaganda-video-news",
+      "source": "Billboard",
+      "url": "https://www.billboard.com/pro/universal-music-group-tyger-licensing-agreement/",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
+            "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+            "cap": "사진 일러스트: Timon Schneider/SOPA Images/LightRocket via Getty Images"
           },
           {
             "t": "p",
-            "x": "맨체스터 아티스트 IAMDDB는 자신과 꼭 닮은 인물이 AI-generated 선전 영상에 나오자, 이스라엘 정부가 운영하는 소셜미디어 계정이 “자신의 정체성을 훔쳤다”고 비판했다."
+            "x": "Universal Music Group은 10월 22일(목) TYGER와 라이선스 계약을 맺었다고 발표했다. TYGER는 AI로 팬의 게임 플레이에 맞춰 음악을 실시간으로 바꿔 준다. 이번 계약으로 UMG 아티스트들이 참여하게 됐고 TYGER 사용자는 엄선된 UMG 곡을 쓸 수 있다."
           },
           {
             "t": "p",
-            "x": "지금은 삭제된 이 영상은 10월 15일 이스라엘의 여러 공식 소셜미디어 계정에 올라왔다. 영상에는 포르투갈 태생인 이 뮤지션을 닮은 여성이 “Colonisers? Say the name. Jews from Judea, it's in the damn name.”(식민주의자라고? 이름을 말해 봐. 유대 땅에서 온 유대인, 이름에 다 들어 있잖아) 같은 가사를 읊는다. Manchester Evening News에 따르면 영상은 이스라엘 태생으로 뉴저지에서 활동하는 감독 Eyal Be가 만들었고, “'GO BACK WHERE YOU CAME FROM!' We did.”(‘원래 있던 곳으로 돌아가라!’ 우리는 그렇게 했다)라는 문구가 붙었다."
+            "x": "TYGER 플랫폼에는 그동안 인디 아티스트 곡을 중심으로 40만 곡이 넘는 음악이 올라 있었다. 메이저 레이블과 계약한 건 이번이 처음이다."
           },
           {
             "t": "p",
-            "x": "활동가 Rafael Shimunov는 IAMDDB(본명 Diana DeBrito)가 거의 같은 옷을 입은 2018년 Crack 보도 사진을 찾아냈다. 영상 속 BALR.와 Calvin Klein 로고는 AI가 바꿔 놓아 “RALA.”와 “Calvin Kale.”로 적혀 있었다."
+            "x": "TYGER의 CEO이자 공동 창업자인 Nick Venti는 “게임은 다음 세대가 시간을 보내고, 문화를 발견하고, 친구와 교류하는 곳이지만, 음악에는 그동안 이들에게 닿을 고유한 방법이 없었다”고 말했다."
           },
           {
             "t": "p",
-            "x": "IAMDDB는 10월 16일 X에 이렇게 썼다. “안녕, 그러니까 - 내가 100% 동의하지 않은 일에 왜 내 정체성을 훔친 거야?”"
+            "x": "UMG의 최고디지털책임자이자 수석부사장인 Michael Nash는 이번 계약으로 “우리 아티스트와 그들의 음악이 이제 개인화된 게임 플레이 경험의 사운드트랙이 되고, 전 세계 수백만 명의 게이머 및 팬과 연결될 수 있다”고 말했다. UMG는 올해 초 Spotify와도 플랫폼 안 AI 리믹스용 라이선스 계약을 맺었다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "IAMDDB says Israel used her\nAI likeness in a propaganda clip",
-          "body": "Manchester artist IAMDDB says a now-deleted Israeli government video used an AI-generated likeness of her.",
-          "mini_headline": "IAMDDB's likeness misused",
+          "headline": "UMG licenses its music to\nAI game platform TYGER",
+          "body": "UMG is the first major to license TYGER, an AI gaming platform that adapts licensed songs to gameplay in real time.",
+          "mini_headline": "UMG licenses TYGER",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+                "cap": "Photo Illustration by Timon Schneider/SOPA Images/LightRocket via Getty Images"
               },
               {
                 "t": "p",
-                "x": "IAMDDB has accused Israel's government-run social media account of “stealing her identity” after a figure closely resembling the Manchester artist appeared in an AI-generated propaganda video."
+                "x": "Universal Music Group announced a licensing agreement with TYGER on Thursday (Oct. 22). TYGER utilizes AI to help music adapt in real-time to fan gameplay. The new deal allows for UMG artists to participate, with TYGER users having access to select UMG songs."
               },
               {
                 "t": "p",
-                "x": "The now-deleted clip, shared across Israel's official social media profiles on October 15, featured a woman resembling the Portuguese-born musician reciting lyrics such as: “Colonisers? Say the name. Jews from Judea, it's in the damn name.” According to the Manchester Evening News, it was created by Israeli-born, New Jersey-based director Eyal Be and captioned “'GO BACK WHERE YOU CAME FROM!' We did.”"
+                "x": "TYGER previously had more than 400,000 songs on its platform, primarily with independent artists. The new deal marks their first agreement with a major label."
               },
               {
                 "t": "p",
-                "x": "Activist Rafael Shimunov spotted a 2018 Crack press shot of IAMDDB, real name Diana DeBrito, in a near-identical outfit; the BALR. and Calvin Klein logos had been altered by AI to read “RALA.” and “Calvin Kale.”"
+                "x": "“Gaming is where the next generation spends its time, discovers culture and connects with friends, but music has never had a native way to reach those audiences,” said Nick Venti, CEO and cofounder of TYGER."
               },
               {
                 "t": "p",
-                "x": "On October 16 IAMDDB wrote on X: “Hiya yeah so - why did you steal my identity for something I 100% did not consent to?”"
+                "x": "Michael Nash, chief digital officer and executive vp at UMG, said that through the agreement “our artists and their music will now be able to soundtrack personalized gameplay experiences and connect with millions of gamers and fans around the world.” Earlier this year, UMG also signed a licensing agreement with Spotify for AI remixing on the platform."
               }
             ]
           }
         },
         "ko": {
-          "headline": "IAMDDB, 이스라엘이\nAI로 모습 도용 주장",
-          "body": "IAMDDB는 이스라엘 정부 영상 속 AI-generated 분신을 문제 삼았다.",
-          "mini_headline": "IAMDDB 모습 도용",
+          "headline": "UMG, AI 게임 플랫폼\nTYGER에 음원 라이선스",
+          "body": "UMG가 메이저 중 처음으로 AI 게임 플랫폼 TYGER와 라이선스 계약을 맺었다.",
+          "mini_headline": "UMG, TYGER에 라이선스",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+                "cap": "사진 일러스트: Timon Schneider/SOPA Images/LightRocket via Getty Images"
               },
               {
                 "t": "p",
-                "x": "맨체스터 아티스트 IAMDDB는 자신과 꼭 닮은 인물이 AI-generated 선전 영상에 나오자, 이스라엘 정부가 운영하는 소셜미디어 계정이 “자신의 정체성을 훔쳤다”고 비판했다."
+                "x": "Universal Music Group은 10월 22일(목) TYGER와 라이선스 계약을 맺었다고 발표했다. TYGER는 AI로 팬의 게임 플레이에 맞춰 음악을 실시간으로 바꿔 준다. 이번 계약으로 UMG 아티스트들이 참여하게 됐고 TYGER 사용자는 엄선된 UMG 곡을 쓸 수 있다."
               },
               {
                 "t": "p",
-                "x": "지금은 삭제된 이 영상은 10월 15일 이스라엘의 여러 공식 소셜미디어 계정에 올라왔다. 영상에는 포르투갈 태생인 이 뮤지션을 닮은 여성이 “Colonisers? Say the name. Jews from Judea, it's in the damn name.”(식민주의자라고? 이름을 말해 봐. 유대 땅에서 온 유대인, 이름에 다 들어 있잖아) 같은 가사를 읊는다. Manchester Evening News에 따르면 영상은 이스라엘 태생으로 뉴저지에서 활동하는 감독 Eyal Be가 만들었고, “'GO BACK WHERE YOU CAME FROM!' We did.”(‘원래 있던 곳으로 돌아가라!’ 우리는 그렇게 했다)라는 문구가 붙었다."
+                "x": "TYGER 플랫폼에는 그동안 인디 아티스트 곡을 중심으로 40만 곡이 넘는 음악이 올라 있었다. 메이저 레이블과 계약한 건 이번이 처음이다."
               },
               {
                 "t": "p",
-                "x": "활동가 Rafael Shimunov는 IAMDDB(본명 Diana DeBrito)가 거의 같은 옷을 입은 2018년 Crack 보도 사진을 찾아냈다. 영상 속 BALR.와 Calvin Klein 로고는 AI가 바꿔 놓아 “RALA.”와 “Calvin Kale.”로 적혀 있었다."
+                "x": "TYGER의 CEO이자 공동 창업자인 Nick Venti는 “게임은 다음 세대가 시간을 보내고, 문화를 발견하고, 친구와 교류하는 곳이지만, 음악에는 그동안 이들에게 닿을 고유한 방법이 없었다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "IAMDDB는 10월 16일 X에 이렇게 썼다. “안녕, 그러니까 - 내가 100% 동의하지 않은 일에 왜 내 정체성을 훔친 거야?”"
+                "x": "UMG의 최고디지털책임자이자 수석부사장인 Michael Nash는 이번 계약으로 “우리 아티스트와 그들의 음악이 이제 개인화된 게임 플레이 경험의 사운드트랙이 되고, 전 세계 수백만 명의 게이머 및 팬과 연결될 수 있다”고 말했다. UMG는 올해 초 Spotify와도 플랫폼 안 AI 리믹스용 라이선스 계약을 맺었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "IAMDDB「イスラエルが\nAI似姿を宣伝に流用」",
-          "body": "IAMDDBは、イスラエル政府の動画にAI-generatedの自分が使われたと訴える。",
-          "mini_headline": "IAMDDBの似姿を流用",
+          "headline": "UMG、AIゲーム基盤\nTYGERに楽曲ライセンス",
+          "body": "UMGがメジャーで初めて、AIゲーム基盤TYGERに楽曲をライセンスした。",
+          "mini_headline": "UMGがTYGERにライセンス",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+                "cap": "写真イラスト：Timon Schneider/SOPA Images/LightRocket via Getty Images"
               },
               {
                 "t": "p",
-                "x": "IAMDDBは、このマンチェスターのアーティストによく似た人物がAI-generatedのプロパガンダ動画に登場したことを受け、イスラエル政府が運営するソーシャルメディアアカウントが「自分のアイデンティティを盗んだ」と非難した。"
+                "x": "Universal Music Groupは10月22日（木）、TYGERとのライセンス契約を発表した。TYGERはAIを活用し、ファンのゲームプレイに合わせて音楽をリアルタイムで変化させる。今回の契約によりUMGのアーティストが参加できるようになり、TYGERのユーザーは選ばれたUMGの楽曲を利用できる。"
               },
               {
                 "t": "p",
-                "x": "現在は削除されたこの動画は10月15日、イスラエルの公式ソーシャルメディア各アカウントで共有された。ポルトガル生まれのこのミュージシャンに似た女性が、“Colonisers? Say the name. Jews from Judea, it's in the damn name.”（植民者だと？ 名前を言ってみろ。ユダヤから来たユダヤ人、名前にそう書いてある）といった歌詞を口にする。Manchester Evening Newsによると、制作したのはイスラエル生まれでニュージャージーを拠点とする監督Eyal Beで、“'GO BACK WHERE YOU CAME FROM!' We did.”（「元いた場所へ帰れ！」そうした）というキャプションが付いていた。"
+                "x": "TYGERはこれまで、主にインディーアーティストによる40万曲以上をプラットフォーム上で扱ってきた。今回の契約はメジャーレーベルとの初の契約となる。"
               },
               {
                 "t": "p",
-                "x": "活動家のRafael Shimunovは、本名Diana DeBritoのIAMDDBがほぼ同じ服装で写る2018年のCrackの宣材写真を見つけた。BALR.とCalvin KleinのロゴはAIで改変され、“RALA.”と“Calvin Kale.”になっていた。"
+                "x": "TYGERのCEO兼共同創業者Nick Ventiは「ゲームは次世代が時間を費やし、文化に出会い、友人とつながる場所だが、音楽にはこれまでその層に届くネイティブな手段がなかった」と語った。"
               },
               {
                 "t": "p",
-                "x": "IAMDDBは10月16日、Xに「どうも、えっと - 私が100%同意していないことに、なぜ私のアイデンティティを盗んだの？」と投稿した。"
+                "x": "UMGのチーフ・デジタル・オフィサー兼エグゼクティブVPのMichael Nashは、この契約によって「当社のアーティストとその音楽が、パーソナライズされたゲームプレイ体験のサウンドトラックとなり、世界中の何百万人ものゲーマーやファンとつながれるようになる」と述べた。UMGは今年初め、プラットフォーム上でのAIリミックスに関してSpotifyともライセンス契約を結んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "IAMDDB称以色列\n用AI仿冒她做宣传",
-          "body": "曼彻斯特艺人IAMDDB称，已删除的以色列政府视频用了她的AI-generated形象。",
-          "mini_headline": "IAMDDB形象遭盗用",
+          "headline": "UMG向AI游戏平台\nTYGER授权音乐",
+          "body": "UMG成为首家授权AI游戏平台TYGER的主流唱片公司，该平台可实时让歌曲配合游戏。",
+          "mini_headline": "UMG授权TYGER",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+                "cap": "图片插画：Timon Schneider/SOPA Images/LightRocket via Getty Images"
               },
               {
                 "t": "p",
-                "x": "一个与这位曼彻斯特艺人极为相似的人物出现在一段AI-generated宣传视频中后，IAMDDB指责以色列政府运营的社交媒体账号“盗用了她的身份”。"
+                "x": "Universal Music Group于周四（10月22日）宣布与TYGER达成授权协议。TYGER利用AI让音乐根据粉丝的游戏进程实时变化。新协议允许UMG旗下艺人参与，TYGER用户可使用精选的UMG歌曲。"
               },
               {
                 "t": "p",
-                "x": "这段现已删除的视频于10月15日在以色列多个官方社交媒体账号上发布，片中一名酷似这位葡萄牙出生音乐人的女性念出这样的歌词：“Colonisers? Say the name. Jews from Judea, it's in the damn name.”（殖民者？说出名字。来自犹地亚的犹太人，名字里就写着。）据Manchester Evening News报道，视频由出生于以色列、常驻新泽西的导演Eyal Be制作，配文为“'GO BACK WHERE YOU CAME FROM!' We did.”（“回到你们来的地方去！”我们做到了。）"
+                "x": "TYGER平台此前已有超过40万首歌曲，主要来自独立艺人。这是其首次与主流唱片公司达成协议。"
               },
               {
                 "t": "p",
-                "x": "活动人士Rafael Shimunov找到了一张2018年Crack的宣传照，照片中IAMDDB（本名Diana DeBrito）穿着几乎相同的服装；BALR.和Calvin Klein的标志被AI改成了“RALA.”和“Calvin Kale.”。"
+                "x": "TYGER首席执行官兼联合创始人Nick Venti表示：“游戏是下一代消磨时间、发现文化、与朋友联系的地方，但音乐此前从未有过触达这些受众的原生方式。”"
               },
               {
                 "t": "p",
-                "x": "IAMDDB于10月16日在X上写道：“嗨，那个 - 你们为什么要把我的身份用在我100%没有同意的事情上？”"
+                "x": "UMG首席数字官兼执行副总裁Michael Nash表示，通过这项协议，“我们的艺人及其音乐将能够为个性化的游戏体验配乐，并与全球数百万玩家和粉丝建立联系。”今年早些时候，UMG还与Spotify签署了授权协议，用于该平台上的AI混音。"
               }
             ]
           }
         },
         "es": {
-          "headline": "IAMDDB acusa a Israel de usar\nsu imagen AI en propaganda",
-          "body": "La artista de Manchester IAMDDB dice que un video ya borrado del gobierno israelí usó una imagen suya AI-generated.",
-          "mini_headline": "Uso indebido de la imagen de IAMDDB",
+          "headline": "UMG licencia su catálogo a\nTYGER, plataforma de juegos IA",
+          "body": "UMG es la primera gran discográfica que licencia a TYGER, plataforma de IA que adapta temas al juego en tiempo real.",
+          "mini_headline": "UMG licencia a TYGER",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+                "cap": "Ilustración fotográfica de Timon Schneider/SOPA Images/LightRocket via Getty Images"
               },
               {
                 "t": "p",
-                "x": "IAMDDB ha acusado a la cuenta de redes sociales gestionada por el gobierno de Israel de “robar su identidad” después de que una figura muy parecida a la artista de Manchester apareciera en un video de propaganda AI-generated."
+                "x": "Universal Music Group anunció el jueves (22 de octubre) un acuerdo de licencia con TYGER. TYGER utiliza IA para que la música se adapte en tiempo real a la partida de los fans. El nuevo acuerdo permite la participación de artistas de UMG, y los usuarios de TYGER tendrán acceso a una selección de canciones de UMG."
               },
               {
                 "t": "p",
-                "x": "El clip, ya eliminado, se compartió el 15 de octubre en los perfiles oficiales de Israel en redes sociales y mostraba a una mujer parecida a la música nacida en Portugal recitando versos como: “Colonisers? Say the name. Jews from Judea, it's in the damn name.” (“¿Colonizadores? Di el nombre. Judíos de Judea, está en el maldito nombre”). Según el Manchester Evening News, lo creó el director Eyal Be, nacido en Israel y radicado en Nueva Jersey, con el texto “'GO BACK WHERE YOU CAME FROM!' We did.” (“¡Vuelvan de donde vinieron!” Lo hicimos)."
+                "x": "TYGER ya contaba con más de 400.000 canciones en su plataforma, principalmente de artistas independientes. El nuevo acuerdo es el primero que firma con una gran discográfica."
               },
               {
                 "t": "p",
-                "x": "El activista Rafael Shimunov encontró una foto de prensa de Crack de 2018 en la que IAMDDB, cuyo nombre real es Diana DeBrito, lleva un atuendo casi idéntico; los logos de BALR. y Calvin Klein habían sido alterados con AI para leer “RALA.” y “Calvin Kale.”"
+                "x": "“Los videojuegos son el lugar donde la próxima generación pasa su tiempo, descubre la cultura y se conecta con sus amigos, pero la música nunca ha tenido una vía nativa para llegar a ese público”, dijo Nick Venti, CEO y cofundador de TYGER."
               },
               {
                 "t": "p",
-                "x": "El 16 de octubre, IAMDDB escribió en X: “Hola, sí, a ver - ¿por qué robaron mi identidad para algo que 100% no consentí?”"
+                "x": "Michael Nash, director digital y vicepresidente ejecutivo de UMG, afirmó que gracias al acuerdo “nuestros artistas y su música podrán poner banda sonora a experiencias de juego personalizadas y conectar con millones de jugadores y fans de todo el mundo”. A comienzos de este año, UMG también firmó un acuerdo de licencia con Spotify para remezclas con IA en la plataforma."
               }
             ]
           }
@@ -505,121 +521,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "IAMDDB, 이스라엘이\nAI로 모습 도용 주장",
-          "body": "IAMDDB는 이스라엘 정부 영상에 AI-generated 분신이 나왔다고 했다.",
-          "mini_headline": "IAMDDB 모습 도용",
+          "headline": "UMG, AI 게임 플랫폼\nTYGER에 음원 라이선스",
+          "body": "UMG가 메이저 중 최초로 AI 게임 플랫폼 TYGER와 라이선스 계약을 맺었다.",
+          "mini_headline": "UMG, TYGER에 라이선스",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+                "cap": "사진 일러스트: Timon Schneider/SOPA Images/LightRocket via Getty Images"
               },
               {
                 "t": "p",
-                "x": "맨체스터 아티스트 IAMDDB와 꼭 닮은 인물이 AI-generated 선전 영상에 등장하자, IAMDDB는 이스라엘 정부가 운영하는 소셜미디어 계정이 “자신의 정체성을 훔쳤다”고 비판했다."
+                "x": "Universal Music Group은 10월 22일(목) TYGER와 라이선스 계약을 맺었다고 발표했다. TYGER는 AI를 활용해 음악이 팬의 게임 플레이에 맞춰 실시간으로 바뀌도록 돕는다. 이번 계약으로 UMG 아티스트들이 참여할 수 있게 됐고, TYGER 사용자는 엄선된 UMG 곡을 이용할 수 있다."
               },
               {
                 "t": "p",
-                "x": "지금은 삭제된 이 영상은 10월 15일 이스라엘의 여러 공식 소셜미디어 계정에 올라왔다. 영상에는 포르투갈 태생인 이 뮤지션을 닮은 여성이 “Colonisers? Say the name. Jews from Judea, it's in the damn name.”(식민주의자라고? 이름을 말해 봐. 유대 땅에서 온 유대인, 이름에 다 들어 있잖아) 같은 가사를 읊는다. Manchester Evening News에 따르면 영상은 이스라엘 태생으로 뉴저지에서 활동하는 감독 Eyal Be가 만들었고, “'GO BACK WHERE YOU CAME FROM!' We did.”(‘원래 있던 곳으로 돌아가라!’ 우리는 그렇게 했다)라는 문구가 붙었다."
+                "x": "TYGER는 그동안 주로 인디 아티스트의 곡을 중심으로 40만 곡이 넘는 음악을 플랫폼에 보유해 왔다. 이번 계약은 메이저 레이블과 맺은 첫 계약이다."
               },
               {
                 "t": "p",
-                "x": "활동가 Rafael Shimunov는 본명이 Diana DeBrito인 IAMDDB가 거의 똑같은 옷을 입은 2018년 Crack 보도 사진을 찾아냈다. 영상 속 BALR.와 Calvin Klein 로고는 AI로 바뀌어 “RALA.”와 “Calvin Kale.”로 적혀 있었다."
+                "x": "TYGER의 CEO이자 공동 창업자인 Nick Venti는 “게임은 다음 세대가 시간을 보내고, 문화를 발견하고, 친구와 교류하는 곳이지만, 음악에는 그동안 이들에게 닿을 고유한 방법이 없었다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "IAMDDB는 10월 16일 X에 “안녕, 그러니까 - 내가 100% 동의하지 않은 일에 왜 내 정체성을 훔친 거야?”라고 썼다."
+                "x": "UMG의 최고디지털책임자이자 수석부사장인 Michael Nash는 이번 계약을 통해 “우리 아티스트와 그들의 음악이 이제 개인화된 게임 플레이 경험의 사운드트랙이 되고, 전 세계 수백만 명의 게이머 및 팬과 연결될 수 있다”고 말했다. UMG는 올해 초 Spotify와도 플랫폼 내 AI 리믹스를 위한 라이선스 계약을 맺었다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "IAMDDB「イスラエルが\nAI似姿を宣伝に流用」",
-          "body": "IAMDDBは、イスラエル政府の動画にAI-generatedの自分が使われたと訴える。",
-          "mini_headline": "IAMDDBの似姿を流用",
+          "headline": "UMG、AIゲーム基盤\nTYGERに楽曲ライセンス",
+          "body": "UMGがメジャーで初めて、AIゲーム基盤TYGERに楽曲をライセンスした。",
+          "mini_headline": "UMGがTYGERにライセンス",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+                "cap": "写真イラスト：Timon Schneider/SOPA Images/LightRocket via Getty Images"
               },
               {
                 "t": "p",
-                "x": "IAMDDBは、このマンチェスターのアーティストによく似た人物がAI-generatedのプロパガンダ動画に登場したことを受け、イスラエル政府が運営するソーシャルメディアアカウントが「自分のアイデンティティを盗んだ」と非難した。"
+                "x": "Universal Music Groupは10月22日（木）、TYGERとのライセンス契約を発表した。TYGERはAIを活用し、ファンのゲームプレイに合わせて音楽をリアルタイムで変化させる。今回の契約によりUMGのアーティストが参加できるようになり、TYGERのユーザーは選ばれたUMGの楽曲を利用できる。"
               },
               {
                 "t": "p",
-                "x": "現在は削除されたこの動画は10月15日、イスラエルの公式ソーシャルメディア各アカウントで共有された。ポルトガル生まれのこのミュージシャンに似た女性が、“Colonisers? Say the name. Jews from Judea, it's in the damn name.”（植民者だと？ 名前を言ってみろ。ユダヤから来たユダヤ人、名前にそう書いてある）といった歌詞を口にする。Manchester Evening Newsによると、制作したのはイスラエル生まれでニュージャージーを拠点とする監督Eyal Beで、“'GO BACK WHERE YOU CAME FROM!' We did.”（「元いた場所へ帰れ！」そうした）というキャプションが付いていた。"
+                "x": "TYGERはこれまで、主にインディーアーティストによる40万曲以上をプラットフォーム上で扱ってきた。今回の契約はメジャーレーベルとの初の契約となる。"
               },
               {
                 "t": "p",
-                "x": "活動家のRafael Shimunovは、本名Diana DeBritoのIAMDDBがほぼ同じ服装で写る2018年のCrackの宣材写真を見つけた。BALR.とCalvin KleinのロゴはAIで改変され、“RALA.”と“Calvin Kale.”になっていた。"
+                "x": "TYGERのCEO兼共同創業者Nick Ventiは「ゲームは次世代が時間を費やし、文化に出会い、友人とつながる場所だが、音楽にはこれまでその層に届くネイティブな手段がなかった」と語った。"
               },
               {
                 "t": "p",
-                "x": "IAMDDBは10月16日、Xに「どうも、えっと - 私が100%同意していないことに、なぜ私のアイデンティティを盗んだの？」と投稿した。"
+                "x": "UMGのチーフ・デジタル・オフィサー兼エグゼクティブVPのMichael Nashは、この契約によって「当社のアーティストとその音楽が、パーソナライズされたゲームプレイ体験のサウンドトラックとなり、世界中の何百万人ものゲーマーやファンとつながれるようになる」と述べた。UMGは今年初め、プラットフォーム上でのAIリミックスに関してSpotifyともライセンス契約を結んでいる。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "IAMDDB称以色列\n用AI仿冒她做宣传",
-          "body": "曼彻斯特艺人IAMDDB称，已删除的以色列政府视频用了她的AI-generated形象。",
-          "mini_headline": "IAMDDB形象遭盗用",
+          "headline": "UMG向AI游戏平台\nTYGER授权音乐",
+          "body": "UMG成为首家授权AI游戏平台TYGER的主流唱片公司，该平台可实时让歌曲配合游戏。",
+          "mini_headline": "UMG授权TYGER",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+                "cap": "图片插画：Timon Schneider/SOPA Images/LightRocket via Getty Images"
               },
               {
                 "t": "p",
-                "x": "一个与这位曼彻斯特艺人极为相似的人物出现在一段AI-generated宣传视频中后，IAMDDB指责以色列政府运营的社交媒体账号“盗用了她的身份”。"
+                "x": "Universal Music Group于周四（10月22日）宣布与TYGER达成授权协议。TYGER利用AI让音乐根据粉丝的游戏进程实时变化。新协议允许UMG旗下艺人参与，TYGER用户可使用精选的UMG歌曲。"
               },
               {
                 "t": "p",
-                "x": "这段现已删除的视频于10月15日在以色列多个官方社交媒体账号上发布，片中一名酷似这位葡萄牙出生音乐人的女性念出这样的歌词：“Colonisers? Say the name. Jews from Judea, it's in the damn name.”（殖民者？说出名字。来自犹地亚的犹太人，名字里就写着。）据Manchester Evening News报道，视频由出生于以色列、常驻新泽西的导演Eyal Be制作，配文为“'GO BACK WHERE YOU CAME FROM!' We did.”（“回到你们来的地方去！”我们做到了。）"
+                "x": "TYGER平台此前已有超过40万首歌曲，主要来自独立艺人。这是其首次与主流唱片公司达成协议。"
               },
               {
                 "t": "p",
-                "x": "活动人士Rafael Shimunov找到了一张2018年Crack的宣传照，照片中IAMDDB（本名Diana DeBrito）穿着几乎相同的服装；BALR.和Calvin Klein的标志被AI改成了“RALA.”和“Calvin Kale.”。"
+                "x": "TYGER首席执行官兼联合创始人Nick Venti表示：“游戏是下一代消磨时间、发现文化、与朋友联系的地方，但音乐此前从未有过触达这些受众的原生方式。”"
               },
               {
                 "t": "p",
-                "x": "IAMDDB于10月16日在X上写道：“嗨，那个 - 你们为什么要把我的身份用在我100%没有同意的事情上？”"
+                "x": "UMG首席数字官兼执行副总裁Michael Nash表示，通过这项协议，“我们的艺人及其音乐将能够为个性化的游戏体验配乐，并与全球数百万玩家和粉丝建立联系。”今年早些时候，UMG还与Spotify签署了授权协议，用于该平台上的AI混音。"
               }
             ]
           }
         },
         "es": {
-          "headline": "IAMDDB acusa a Israel de usar\nsu imagen AI en propaganda",
-          "body": "La artista de Manchester IAMDDB dice que un video ya borrado del gobierno israelí usó una imagen suya AI-generated.",
-          "mini_headline": "Uso indebido de la imagen de IAMDDB",
+          "headline": "UMG licencia su catálogo a\nTYGER, plataforma de juegos IA",
+          "body": "UMG es la primera gran discográfica que licencia a TYGER, plataforma de IA que adapta temas al juego en tiempo real.",
+          "mini_headline": "UMG licencia a TYGER",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://cdn.craft.cloud/0bfe5635-ac77-4d17-9f4e-811b54bed2f3/assets/images/IAMDDB_2026-10-20-113511_wnwl.jpg?fit=cover&format=baseline-jpeg&height=630&width=1200&s=8KBED0ZCpd2SZBDc-yRs7qsoxcdwxtxNrGtcRWqy_dE"
+                "src": "https://www.billboard.com/wp-content/uploads/2026/08/universal-music-group-logo-smartphone-billboard-1800.jpg?w=1024",
+                "cap": "Ilustración fotográfica de Timon Schneider/SOPA Images/LightRocket via Getty Images"
               },
               {
                 "t": "p",
-                "x": "IAMDDB ha acusado a la cuenta de redes sociales gestionada por el gobierno de Israel de “robar su identidad” después de que una figura muy parecida a la artista de Manchester apareciera en un video de propaganda AI-generated."
+                "x": "Universal Music Group anunció el jueves (22 de octubre) un acuerdo de licencia con TYGER. TYGER utiliza IA para que la música se adapte en tiempo real a la partida de los fans. El nuevo acuerdo permite la participación de artistas de UMG, y los usuarios de TYGER tendrán acceso a una selección de canciones de UMG."
               },
               {
                 "t": "p",
-                "x": "El clip, ya eliminado, se compartió el 15 de octubre en los perfiles oficiales de Israel en redes sociales y mostraba a una mujer parecida a la música nacida en Portugal recitando versos como: “Colonisers? Say the name. Jews from Judea, it's in the damn name.” (“¿Colonizadores? Di el nombre. Judíos de Judea, está en el maldito nombre”). Según el Manchester Evening News, lo creó el director Eyal Be, nacido en Israel y radicado en Nueva Jersey, con el texto “'GO BACK WHERE YOU CAME FROM!' We did.” (“¡Vuelvan de donde vinieron!” Lo hicimos)."
+                "x": "TYGER ya contaba con más de 400.000 canciones en su plataforma, principalmente de artistas independientes. El nuevo acuerdo es el primero que firma con una gran discográfica."
               },
               {
                 "t": "p",
-                "x": "El activista Rafael Shimunov encontró una foto de prensa de Crack de 2018 en la que IAMDDB, cuyo nombre real es Diana DeBrito, lleva un atuendo casi idéntico; los logos de BALR. y Calvin Klein habían sido alterados con AI para leer “RALA.” y “Calvin Kale.”"
+                "x": "“Los videojuegos son el lugar donde la próxima generación pasa su tiempo, descubre la cultura y se conecta con sus amigos, pero la música nunca ha tenido una vía nativa para llegar a ese público”, dijo Nick Venti, CEO y cofundador de TYGER."
               },
               {
                 "t": "p",
-                "x": "El 16 de octubre, IAMDDB escribió en X: “Hola, sí, a ver - ¿por qué robaron mi identidad para algo que 100% no consentí?”"
+                "x": "Michael Nash, director digital y vicepresidente ejecutivo de UMG, afirmó que gracias al acuerdo “nuestros artistas y su música podrán poner banda sonora a experiencias de juego personalizadas y conectar con millones de jugadores y fans de todo el mundo”. A comienzos de este año, UMG también firmó un acuerdo de licencia con Spotify para remezclas con IA en la plataforma."
               }
             ]
           }
@@ -627,189 +647,195 @@
       }
     },
     {
-      "id": "music-gavras-storm-ai",
+      "id": "music-mixagent-post-production",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Romain Gavras\nAI판 'Storm' 탄식",
-      "body": "Romain Gavras는 AI판 'Storm'에 제작진 생각이 나 슬펐다고 했다.",
-      "mini_headline": "Gavras, AI판 'Storm'에",
+      "headline": "오디오 엔지니어처럼\n믹스 짜는 MixAgent",
+      "body": "MixAgent는 그룹화·계획 에이전트로 참조곡에 맞춘 믹싱 계획을 짠다.",
+      "mini_headline": "MixAgent, 믹스를 설계하다",
       "tool": "Music",
-      "source": "Pitchfork",
-      "url": "https://pitchfork.com/story/romain-gavras-is-bummed-about-those-ai-versions-of-storm/",
+      "source": "arXiv",
+      "url": "https://arxiv.org/abs/2610.29093",
       "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
+            "t": "p",
+            "x": "MixAgent는 음악 후반 작업용 에이전트 파이프라인이다. 오디오 엔지니어처럼 레퍼런스 곡을 기준 삼아 믹싱 계획을 세우는데, 이 계획은 사람이 해석하고 고칠 수 있다. Rice University와 Sony 연구진이 개발했다."
+          },
+          {
+            "t": "p",
+            "x": "그룹화 에이전트가 먼저 드럼 녹음처럼 서로 관련된 입력 트랙을 하위 그룹으로 묶는다. 다음으로 계획 에이전트가 검색해 온 예시를 참고해 트랙, 하위 그룹, 전체 믹스에 쓸 볼륨 조절, 리버브 같은 오디오 이펙트를 고르고 순서를 정한다. 믹스를 다듬을 때는 검출기가 고칠 부분을 찾고, 비평기가 수치로 된 파라미터 조정안을 제시한다."
+          },
+          {
             "t": "img",
-            "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
+            "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+            "cap": "그림 2: MixAgent 개요."
           },
           {
             "t": "p",
-            "x": "Romain Gavras가 Yung Lean과 만든 단편 “Storm”을 모방자들이 AI로 “재현”하며 개, 아기, 할머니, Elon Musk 등을 집어넣었다. Gavras는 Vulture에 AI 복제물을 두고 “우리 영상에 그토록 많은 노력을 쏟은 모든 사람을 생각하니 슬펐다”고 말했다."
+            "x": "최신 멀티모달 모델에 듣고 고치라고 시키면 오히려 믹스가 나빠지는 일이 잦았다. 그래서 연구진은 전문가 믹스에 맞춰 추정한 파라미터에서 도출한 수정 비평 45,657건으로 이뤄진 데이터셋 MixCritic을 만들고 지도 미세조정, 선호 최적화 순으로 비평기를 학습시켰다."
           },
           {
             "t": "p",
-            "x": "예산은 “아주, 아주, 아주, 아주 적었고” 그는 보수도 받지 않았다. 댄서들은 두 달 동안 캐스팅해 뽑았고 안무가 Damien Jalet과 사흘을 리허설했다. 끊김 없는 16mm 원테이크는 15번쯤 찍어야 했다."
-          },
-          {
-            "t": "p",
-            "x": "그는 “이런 유행은 좋은 작품마저 시시해 보이게 만들 수 있다”고 했다. 법적 대응을 검토 중이고, 몇몇 AI 기업이 내민 라이선스 제안은 거절했다. “우리가 끼고 싶지 않은 경제 모델이 다가오고 있다.”"
-          },
-          {
-            "t": "p",
-            "x": "복제물들을 계기로 그는 MTV VMAs에서 “Storm”을 라이브로 선보였다. Gavras는 “거기엔 Yung Lean의 스웨거가 빠져 있다”며 “인간의 불완전함 속에는… 아직 거기에 제대로 담기지 않은 무언가가 있다”고 말했다."
+            "x": "MedleyDB로 학습한 보정은 초기 믹스 대비 오류를 19% 줄였고, 선호 최적화는 지도 학습만 했을 때보다 오류를 8.4% 더 줄였다. 사람이 직접 듣는 평가에서 MixAgent는 Qwen3-Omni, Gemini 3.8 Flash, GPT-4o-audio가 만든 믹스보다 높은 품질 점수를 받았다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Romain Gavras laments AI copies\nof his 'Storm' video",
-          "body": "Romain Gavras told Vulture that AI recreations of his Yung Lean 'Storm' video made him sad for the crew behind it.",
-          "mini_headline": "Gavras on AI 'Storm' copies",
+          "headline": "MixAgent plans a mix the way\nan audio engineer would",
+          "body": "MixAgent uses grouping and planning agents to build editable mixing plans guided by a reference song.",
+          "mini_headline": "MixAgent plans the mix",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "MixAgent is an agentic pipeline for music post-production that follows the workflow of audio engineers to build interpretable and editable mixing plans guided by a reference song. The work comes from Rice University and Sony researchers."
+              },
+              {
+                "t": "p",
+                "x": "A grouping agent first routes related input tracks, such as drum recordings, into subgroups. A planning agent then uses retrieved examples to choose and order audio effects, such as volume control and reverb, for tracks, subgroups, and the full mix. To refine the mix, a detector identifies what needs correction, and a critic proposes numerical parameter adjustments."
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
+                "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+                "cap": "Figure 2: Overview of MixAgent."
               },
               {
                 "t": "p",
-                "x": "Copycats have “recreated” Romain Gavras’ “Storm,” his short film with Yung Lean, using AI, swapping in dogs, babies, grandmothers, Elon Musk and others. Gavras told Vulture the AI copies “made me sad for all the people who put in so much work on our video.”"
+                "x": "The authors found that prompting recent multimodal models to listen and revise often worsens the mix. They therefore built MixCritic, a dataset of 45,657 repair critiques derived from parameters fitted to professional mixes, and trained the critic with supervised fine-tuning followed by preference optimization."
               },
               {
                 "t": "p",
-                "x": "The budget was “very, very, very, very low” and he worked for free; dancers came from a two-month casting search, rehearsed three days with choreographer Damien Jalet, and the unbroken 16-mm take needed about 15 tries."
-              },
-              {
-                "t": "p",
-                "x": "“A trend like this can make even good work look lame,” he said. He is exploring legal avenues, and declined licensing offers from a few AI companies: “There’s an economic model coming that we didn’t want to be a part of.”"
-              },
-              {
-                "t": "p",
-                "x": "The copies pushed him to perform “Storm” live at the MTV VMAs. “They’re missing the swagger of Yung Lean,” Gavras said. “There’s something in the imperfection of humanity… that’s not quite there yet.”"
+                "x": "On MedleyDB, learned refinement reduces error by 19% relative to the initial mix, with preference optimization reducing it by 8.4% over supervised training alone. In a human listening test, MixAgent got higher quality ratings than mixes produced by Qwen3-Omni, Gemini 3.8 Flash and GPT-4o-audio."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Romain Gavras\nAI판 'Storm' 탄식",
-          "body": "Romain Gavras는 AI판 'Storm'에 제작진 생각이 나 슬펐다고 했다.",
-          "mini_headline": "Gavras, AI판 'Storm'에",
+          "headline": "오디오 엔지니어처럼\n믹스 짜는 MixAgent",
+          "body": "MixAgent는 그룹화·계획 에이전트로 참조곡에 맞춘 믹싱 계획을 짠다.",
+          "mini_headline": "MixAgent, 믹스를 설계하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "MixAgent는 음악 후반 작업용 에이전트 파이프라인이다. 오디오 엔지니어처럼 레퍼런스 곡을 기준 삼아 믹싱 계획을 세우는데, 이 계획은 사람이 해석하고 고칠 수 있다. Rice University와 Sony 연구진이 개발했다."
+              },
+              {
+                "t": "p",
+                "x": "그룹화 에이전트가 먼저 드럼 녹음처럼 서로 관련된 입력 트랙을 하위 그룹으로 묶는다. 다음으로 계획 에이전트가 검색해 온 예시를 참고해 트랙, 하위 그룹, 전체 믹스에 쓸 볼륨 조절, 리버브 같은 오디오 이펙트를 고르고 순서를 정한다. 믹스를 다듬을 때는 검출기가 고칠 부분을 찾고, 비평기가 수치로 된 파라미터 조정안을 제시한다."
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
+                "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+                "cap": "그림 2: MixAgent 개요."
               },
               {
                 "t": "p",
-                "x": "Romain Gavras가 Yung Lean과 만든 단편 “Storm”을 모방자들이 AI로 “재현”하며 개, 아기, 할머니, Elon Musk 등을 집어넣었다. Gavras는 Vulture에 AI 복제물을 두고 “우리 영상에 그토록 많은 노력을 쏟은 모든 사람을 생각하니 슬펐다”고 말했다."
+                "x": "최신 멀티모달 모델에 듣고 고치라고 시키면 오히려 믹스가 나빠지는 일이 잦았다. 그래서 연구진은 전문가 믹스에 맞춰 추정한 파라미터에서 도출한 수정 비평 45,657건으로 이뤄진 데이터셋 MixCritic을 만들고 지도 미세조정, 선호 최적화 순으로 비평기를 학습시켰다."
               },
               {
                 "t": "p",
-                "x": "예산은 “아주, 아주, 아주, 아주 적었고” 그는 보수도 받지 않았다. 댄서들은 두 달 동안 캐스팅해 뽑았고 안무가 Damien Jalet과 사흘을 리허설했다. 끊김 없는 16mm 원테이크는 15번쯤 찍어야 했다."
-              },
-              {
-                "t": "p",
-                "x": "그는 “이런 유행은 좋은 작품마저 시시해 보이게 만들 수 있다”고 했다. 법적 대응을 검토 중이고, 몇몇 AI 기업이 내민 라이선스 제안은 거절했다. “우리가 끼고 싶지 않은 경제 모델이 다가오고 있다.”"
-              },
-              {
-                "t": "p",
-                "x": "복제물들을 계기로 그는 MTV VMAs에서 “Storm”을 라이브로 선보였다. Gavras는 “거기엔 Yung Lean의 스웨거가 빠져 있다”며 “인간의 불완전함 속에는… 아직 거기에 제대로 담기지 않은 무언가가 있다”고 말했다."
+                "x": "MedleyDB로 학습한 보정은 초기 믹스 대비 오류를 19% 줄였고, 선호 최적화는 지도 학습만 했을 때보다 오류를 8.4% 더 줄였다. 사람이 직접 듣는 평가에서 MixAgent는 Qwen3-Omni, Gemini 3.8 Flash, GPT-4o-audio가 만든 믹스보다 높은 품질 점수를 받았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Romain Gavras\nAI版'Storm'を嘆く",
-          "body": "Romain GavrasはAI版'Storm'に制作陣を思い悲しんだと語った。",
-          "mini_headline": "GavrasとAI版'Storm'",
+          "headline": "MixAgent、\nエンジニア流のミックス設計",
+          "body": "MixAgentはグループ化・計画エージェントで参照曲に沿うミックス計画を立てる。",
+          "mini_headline": "MixAgentがミックスを設計",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "MixAgentは、オーディオエンジニアのワークフローに沿って、参照曲をもとに解釈・編集が可能なミキシング計画を組み立てる、音楽ポストプロダクション向けのエージェント型パイプラインだ。Rice UniversityとSonyの研究者による成果である。"
+              },
+              {
+                "t": "p",
+                "x": "まずグループ化エージェントが、ドラムの録音など関連する入力トラックをサブグループにまとめる。次に計画エージェントが検索した事例をもとに、トラック、サブグループ、ミックス全体に対して音量調整やリバーブなどのオーディオエフェクトを選び、順序を決める。ミックスの仕上げでは、検出器が修正すべき点を特定し、批評器が数値によるパラメータ調整を提案する。"
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
+                "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+                "cap": "図2：MixAgentの概要。"
               },
               {
                 "t": "p",
-                "x": "模倣者たちがAIを使い、Romain GavrasがYung Leanと作った短編「Storm」を“再現”し、犬や赤ちゃん、祖母、Elon Muskなどに置き換えている。GavrasはVultureに対し、AIのコピーを見て「私たちの映像に多くの労力を注いだすべての人を思い、悲しくなった」と語った。"
+                "x": "著者らは、最新のマルチモーダルモデルに聴いて修正するよう指示すると、かえってミックスが悪化することが多いと突き止めた。そこでプロのミックスに当てはめたパラメータから導いた修正批評45,657件からなるデータセットMixCriticを構築し、教師ありファインチューニングの後に選好最適化を行って批評器を訓練した。"
               },
               {
                 "t": "p",
-                "x": "予算は「とても、とても、とても、とても少なく」、彼は無報酬で働いた。ダンサーは二か月に及ぶキャスティングで選ばれ、振付家Damien Jaletと三日間リハーサルを重ね、途切れのない16mmのワンテイクは約15回の撮り直しを要した。"
-              },
-              {
-                "t": "p",
-                "x": "「こうしたトレンドは、優れた作品さえ陳腐に見せかねない」と彼は言う。法的手段を検討しており、いくつかのAI企業からのライセンスの申し出も断った。「私たちが加わりたくない経済モデルが来ている」"
-              },
-              {
-                "t": "p",
-                "x": "コピーがきっかけで、彼はMTV VMAsで「Storm」をライブ披露した。「Yung Leanのスワッグが欠けている」とGavrasは言う。「人間の不完全さの中には…まだ届いていない何かがある」"
+                "x": "MedleyDBでは、学習による調整で初期ミックス比の誤差が19%減り、選好最適化によって教師あり学習のみの場合よりさらに8.4%減った。人による聴取テストでは、MixAgentはQwen3-Omni、Gemini 3.8 Flash、GPT-4o-audioが作ったミックスより高い品質評価を得た。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Romain Gavras\n为AI版'Storm'叹息",
-          "body": "Romain Gavras对Vulture说，AI翻拍'Storm'让他为剧组难过。",
-          "mini_headline": "Gavras谈AI版'Storm'",
+          "headline": "MixAgent像音频工程师\n一样规划混音",
+          "body": "MixAgent借助分组与规划智能体，参照一首参考歌曲制定可编辑的混音方案。",
+          "mini_headline": "MixAgent规划混音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "MixAgent是一套面向音乐后期制作的智能体流程，遵循音频工程师的工作方式，以参考歌曲为指引，生成可解释、可编辑的混音方案。这项研究来自Rice University和Sony的研究人员。"
+              },
+              {
+                "t": "p",
+                "x": "首先，分组智能体将鼓组录音等相关输入音轨归入子组。随后，规划智能体借助检索到的示例，为音轨、子组和整体混音选择音量控制、混响等音频效果并安排顺序。在精修阶段，检测器找出需要修正之处，评审器则提出参数数值调整建议。"
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
+                "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+                "cap": "图2：MixAgent概览。"
               },
               {
                 "t": "p",
-                "x": "模仿者用AI“重制”了Romain Gavras与Yung Lean合作的短片《Storm》，把主角换成了狗、婴儿、老奶奶、Elon Musk等。Gavras对Vulture表示，这些AI仿作“让我为所有在我们的视频上倾注大量心血的人感到难过”。"
+                "x": "作者发现，让最新的多模态模型边听边改，往往会使混音变差。因此他们构建了MixCritic数据集，包含45,657条修正评语，这些评语源自拟合专业混音所得的参数；评审器先经过监督微调，再进行偏好优化训练。"
               },
               {
                 "t": "p",
-                "x": "预算“非常、非常、非常、非常低”，他分文未取；舞者经过两个月的选角选出，与编舞Damien Jalet排练了三天，一镜到底的16毫米长镜头拍了约15次。"
-              },
-              {
-                "t": "p",
-                "x": "“这样的潮流会让好作品也显得很逊，”他说。他正在研究法律途径，并拒绝了几家AI公司的授权邀约：“一种经济模式正在到来，我们不想成为其中一部分。”"
-              },
-              {
-                "t": "p",
-                "x": "这些仿作促使他在MTV VMAs上现场表演了《Storm》。“它们缺少Yung Lean的那股气场，”Gavras说，“人类的不完美之中有某种东西……它们还没完全做到。”"
+                "x": "在MedleyDB上，经学习的精修使误差较初始混音降低19%，偏好优化比单纯监督训练再降低8.4%。在人工听感测试中，MixAgent获得的质量评分高于Qwen3-Omni、Gemini 3.8 Flash和GPT-4o-audio生成的混音。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Romain Gavras lamenta las\ncopias AI de su video 'Storm'",
-          "body": "Romain Gavras dijo a Vulture que las copias con AI de su video 'Storm' de Yung Lean lo entristecieron por el equipo.",
-          "mini_headline": "Gavras y las copias AI de 'Storm'",
+          "headline": "MixAgent planifica una mezcla\ncomo lo haría un ingeniero",
+          "body": "MixAgent usa agentes de agrupación y planificación para crear planes de mezcla editables según un tema de referencia.",
+          "mini_headline": "MixAgent planifica la mezcla",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "MixAgent es un flujo agéntico para la posproducción musical que sigue el método de trabajo de los ingenieros de sonido para elaborar planes de mezcla interpretables y editables guiados por una canción de referencia. El trabajo procede de investigadores de Rice University y Sony."
+              },
+              {
+                "t": "p",
+                "x": "Primero, un agente de agrupación dirige las pistas de entrada relacionadas, como las grabaciones de batería, a subgrupos. Después, un agente de planificación usa ejemplos recuperados para elegir y ordenar efectos de audio, como el control de volumen y la reverberación, para las pistas, los subgrupos y la mezcla completa. Para pulir la mezcla, un detector identifica lo que debe corregirse y un crítico propone ajustes numéricos de parámetros."
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
+                "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+                "cap": "Figura 2: Visión general de MixAgent."
               },
               {
                 "t": "p",
-                "x": "Imitadores han “recreado” con AI “Storm”, el cortometraje de Romain Gavras con Yung Lean, poniendo en su lugar perros, bebés, abuelas, Elon Musk y otros. Gavras dijo a Vulture que las copias con AI “me entristecieron por toda la gente que puso tanto trabajo en nuestro video”."
+                "x": "Los autores comprobaron que pedir a modelos multimodales recientes que escuchen y revisen suele empeorar la mezcla. Por eso crearon MixCritic, un conjunto de 45.657 críticas de corrección derivadas de parámetros ajustados a mezclas profesionales, y entrenaron al crítico con ajuste fino supervisado seguido de optimización de preferencias."
               },
               {
                 "t": "p",
-                "x": "El presupuesto fue “muy, muy, muy, muy bajo” y él trabajó gratis; los bailarines salieron de un casting de dos meses, ensayaron tres días con el coreógrafo Damien Jalet, y la toma continua en 16 mm necesitó unos 15 intentos."
-              },
-              {
-                "t": "p",
-                "x": "“Una tendencia así puede hacer que incluso un buen trabajo parezca mediocre”, dijo. Está explorando vías legales y rechazó ofertas de licencia de algunas empresas de AI: “Se acerca un modelo económico del que no queríamos formar parte”."
-              },
-              {
-                "t": "p",
-                "x": "Las copias lo impulsaron a interpretar “Storm” en directo en los MTV VMAs. “Les falta el swagger de Yung Lean”, dijo Gavras. “Hay algo en la imperfección de la humanidad… que todavía no está del todo ahí”."
+                "x": "En MedleyDB, el refinamiento aprendido reduce el error un 19% respecto a la mezcla inicial, y la optimización de preferencias lo reduce un 8,4% más que el entrenamiento supervisado por sí solo. En una prueba de escucha con personas, MixAgent obtuvo mejores valoraciones de calidad que las mezclas producidas por Qwen3-Omni, Gemini 3.8 Flash y GPT-4o-audio."
               }
             ]
           }
@@ -817,121 +843,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Romain Gavras\nAI판 'Storm' 탄식",
-          "body": "Romain Gavras는 AI판 'Storm'에 제작진이 떠올라 슬펐다고 했다.",
-          "mini_headline": "Gavras, AI판 'Storm'에",
+          "headline": "오디오 엔지니어처럼\n믹스 짜는 MixAgent",
+          "body": "MixAgent는 그룹화·계획 에이전트로 참조곡에 맞춘 믹싱 계획을 짠다.",
+          "mini_headline": "MixAgent, 믹스를 설계하다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "MixAgent는 오디오 엔지니어의 작업 방식을 따라, 레퍼런스 곡을 기준으로 해석과 편집이 가능한 믹싱 계획을 세우는 음악 후반 작업용 에이전트 파이프라인이다. Rice University와 Sony 연구진이 개발했다."
+              },
+              {
+                "t": "p",
+                "x": "먼저 그룹화 에이전트가 드럼 녹음처럼 서로 관련된 입력 트랙을 하위 그룹으로 묶는다. 이어 계획 에이전트가 검색한 예시를 바탕으로 트랙, 하위 그룹, 전체 믹스에 쓸 볼륨 조절, 리버브 같은 오디오 이펙트를 고르고 순서를 정한다. 믹스를 다듬을 때는 검출기가 고칠 부분을 찾고, 비평기가 수치로 된 파라미터 조정안을 제시한다."
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
+                "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+                "cap": "그림 2: MixAgent 개요."
               },
               {
                 "t": "p",
-                "x": "모방자들이 AI로 Romain Gavras가 Yung Lean과 만든 단편 “Storm”을 “재현”하며 개, 아기, 할머니, Elon Musk 등을 넣었다. Gavras는 Vulture에 AI 복제물이 “우리 영상에 그토록 많은 노력을 쏟은 모든 사람을 생각하니 슬펐다”고 말했다."
+                "x": "연구진은 최신 멀티모달 모델에 듣고 수정하라고 지시하면 오히려 믹스가 나빠지는 경우가 많다는 사실을 확인했다. 그래서 전문가 믹스에 맞춰 추정한 파라미터에서 도출한 수정 비평 45,657건으로 이뤄진 데이터셋 MixCritic을 만들고, 지도 미세조정에 이어 선호 최적화로 비평기를 학습시켰다."
               },
               {
                 "t": "p",
-                "x": "예산은 “아주, 아주, 아주, 아주 적었고” 그는 무보수로 일했다. 댄서들은 두 달에 걸친 캐스팅으로 뽑혀 안무가 Damien Jalet과 사흘간 리허설했고, 끊김 없는 16mm 원테이크는 15번가량 찍어야 했다."
-              },
-              {
-                "t": "p",
-                "x": "“이런 유행은 좋은 작품마저 시시해 보이게 만들 수 있다”고 그는 말했다. 그는 법적 대응을 검토하고 있으며, 몇몇 AI 기업의 라이선스 제안을 거절했다. “우리가 끼고 싶지 않은 경제 모델이 다가오고 있다.”"
-              },
-              {
-                "t": "p",
-                "x": "복제물들은 그가 MTV VMAs에서 “Storm”을 라이브로 선보이는 계기가 됐다. Gavras는 “거기엔 Yung Lean의 스웨거가 빠져 있다”며 “인간의 불완전함 속에는… 아직 거기에 제대로 담기지 않은 무언가가 있다”고 말했다."
+                "x": "MedleyDB에서 학습된 보정은 초기 믹스 대비 오류를 19% 줄였고, 선호 최적화는 지도 학습만 했을 때보다 오류를 8.4% 더 줄였다. 사람이 직접 듣는 평가에서 MixAgent는 Qwen3-Omni, Gemini 3.8 Flash, GPT-4o-audio가 만든 믹스보다 높은 품질 점수를 받았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Romain Gavras\nAI版'Storm'を嘆く",
-          "body": "Romain GavrasはAI版'Storm'に制作陣を思い悲しんだと語った。",
-          "mini_headline": "GavrasとAI版'Storm'",
+          "headline": "MixAgent、\nエンジニア流のミックス設計",
+          "body": "MixAgentはグループ化・計画エージェントで参照曲に沿うミックス計画を立てる。",
+          "mini_headline": "MixAgentがミックスを設計",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "MixAgentは、オーディオエンジニアのワークフローに沿って、参照曲をもとに解釈・編集が可能なミキシング計画を組み立てる、音楽ポストプロダクション向けのエージェント型パイプラインだ。Rice UniversityとSonyの研究者による成果である。"
+              },
+              {
+                "t": "p",
+                "x": "まずグループ化エージェントが、ドラムの録音など関連する入力トラックをサブグループにまとめる。次に計画エージェントが検索した事例をもとに、トラック、サブグループ、ミックス全体に対して音量調整やリバーブなどのオーディオエフェクトを選び、順序を決める。ミックスの仕上げでは、検出器が修正すべき点を特定し、批評器が数値によるパラメータ調整を提案する。"
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
+                "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+                "cap": "図2：MixAgentの概要。"
               },
               {
                 "t": "p",
-                "x": "模倣者たちがAIを使い、Romain GavrasがYung Leanと作った短編「Storm」を“再現”し、犬や赤ちゃん、祖母、Elon Muskなどに置き換えている。GavrasはVultureに対し、AIのコピーを見て「私たちの映像に多くの労力を注いだすべての人を思い、悲しくなった」と語った。"
+                "x": "著者らは、最新のマルチモーダルモデルに聴いて修正するよう指示すると、かえってミックスが悪化することが多いと突き止めた。そこでプロのミックスに当てはめたパラメータから導いた修正批評45,657件からなるデータセットMixCriticを構築し、教師ありファインチューニングの後に選好最適化を行って批評器を訓練した。"
               },
               {
                 "t": "p",
-                "x": "予算は「とても、とても、とても、とても少なく」、彼は無報酬で働いた。ダンサーは二か月に及ぶキャスティングで選ばれ、振付家Damien Jaletと三日間リハーサルを重ね、途切れのない16mmのワンテイクは約15回の撮り直しを要した。"
-              },
-              {
-                "t": "p",
-                "x": "「こうしたトレンドは、優れた作品さえ陳腐に見せかねない」と彼は言う。法的手段を検討しており、いくつかのAI企業からのライセンスの申し出も断った。「私たちが加わりたくない経済モデルが来ている」"
-              },
-              {
-                "t": "p",
-                "x": "コピーがきっかけで、彼はMTV VMAsで「Storm」をライブ披露した。「Yung Leanのスワッグが欠けている」とGavrasは言う。「人間の不完全さの中には…まだ届いていない何かがある」"
+                "x": "MedleyDBでは、学習による調整で初期ミックス比の誤差が19%減り、選好最適化によって教師あり学習のみの場合よりさらに8.4%減った。人による聴取テストでは、MixAgentはQwen3-Omni、Gemini 3.8 Flash、GPT-4o-audioが作ったミックスより高い品質評価を得た。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Romain Gavras\n为AI版'Storm'叹息",
-          "body": "Romain Gavras对Vulture说，AI翻拍'Storm'让他为剧组难过。",
-          "mini_headline": "Gavras谈AI版'Storm'",
+          "headline": "MixAgent像音频工程师\n一样规划混音",
+          "body": "MixAgent借助分组与规划智能体，参照一首参考歌曲制定可编辑的混音方案。",
+          "mini_headline": "MixAgent规划混音",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "MixAgent是一套面向音乐后期制作的智能体流程，遵循音频工程师的工作方式，以参考歌曲为指引，生成可解释、可编辑的混音方案。这项研究来自Rice University和Sony的研究人员。"
+              },
+              {
+                "t": "p",
+                "x": "首先，分组智能体将鼓组录音等相关输入音轨归入子组。随后，规划智能体借助检索到的示例，为音轨、子组和整体混音选择音量控制、混响等音频效果并安排顺序。在精修阶段，检测器找出需要修正之处，评审器则提出参数数值调整建议。"
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
+                "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+                "cap": "图2：MixAgent概览。"
               },
               {
                 "t": "p",
-                "x": "模仿者用AI“重制”了Romain Gavras与Yung Lean合作的短片《Storm》，把主角换成了狗、婴儿、老奶奶、Elon Musk等。Gavras对Vulture表示，这些AI仿作“让我为所有在我们的视频上倾注大量心血的人感到难过”。"
+                "x": "作者发现，让最新的多模态模型边听边改，往往会使混音变差。因此他们构建了MixCritic数据集，包含45,657条修正评语，这些评语源自拟合专业混音所得的参数；评审器先经过监督微调，再进行偏好优化训练。"
               },
               {
                 "t": "p",
-                "x": "预算“非常、非常、非常、非常低”，他分文未取；舞者经过两个月的选角选出，与编舞Damien Jalet排练了三天，一镜到底的16毫米长镜头拍了约15次。"
-              },
-              {
-                "t": "p",
-                "x": "“这样的潮流会让好作品也显得很逊，”他说。他正在研究法律途径，并拒绝了几家AI公司的授权邀约：“一种经济模式正在到来，我们不想成为其中一部分。”"
-              },
-              {
-                "t": "p",
-                "x": "这些仿作促使他在MTV VMAs上现场表演了《Storm》。“它们缺少Yung Lean的那股气场，”Gavras说，“人类的不完美之中有某种东西……它们还没完全做到。”"
+                "x": "在MedleyDB上，经学习的精修使误差较初始混音降低19%，偏好优化比单纯监督训练再降低8.4%。在人工听感测试中，MixAgent获得的质量评分高于Qwen3-Omni、Gemini 3.8 Flash和GPT-4o-audio生成的混音。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Romain Gavras lamenta las\ncopias AI de su video 'Storm'",
-          "body": "Romain Gavras dijo a Vulture que las copias con AI de su video 'Storm' de Yung Lean lo entristecieron por el equipo.",
-          "mini_headline": "Gavras y las copias AI de 'Storm'",
+          "headline": "MixAgent planifica una mezcla\ncomo lo haría un ingeniero",
+          "body": "MixAgent usa agentes de agrupación y planificación para crear planes de mezcla editables según un tema de referencia.",
+          "mini_headline": "MixAgent planifica la mezcla",
           "full": {
             "mode": "summary",
             "blocks": [
               {
+                "t": "p",
+                "x": "MixAgent es un flujo agéntico para la posproducción musical que sigue el método de trabajo de los ingenieros de sonido para elaborar planes de mezcla interpretables y editables guiados por una canción de referencia. El trabajo procede de investigadores de Rice University y Sony."
+              },
+              {
+                "t": "p",
+                "x": "Primero, un agente de agrupación dirige las pistas de entrada relacionadas, como las grabaciones de batería, a subgrupos. Después, un agente de planificación usa ejemplos recuperados para elegir y ordenar efectos de audio, como el control de volumen y la reverberación, para las pistas, los subgrupos y la mezcla completa. Para pulir la mezcla, un detector identifica lo que debe corregirse y un crítico propone ajustes numéricos de parámetros."
+              },
+              {
                 "t": "img",
-                "src": "https://media.pitchfork.com/photos/6ad7abef14dfa97cd2ad58cb/16:9/w_1280,c_limit/romaingav.png"
+                "src": "https://arxiv.org/html/2610.29093v1/MixAgent_Pipeline_v4.png",
+                "cap": "Figura 2: Visión general de MixAgent."
               },
               {
                 "t": "p",
-                "x": "Imitadores han “recreado” con AI “Storm”, el cortometraje de Romain Gavras con Yung Lean, poniendo en su lugar perros, bebés, abuelas, Elon Musk y otros. Gavras dijo a Vulture que las copias con AI “me entristecieron por toda la gente que puso tanto trabajo en nuestro video”."
+                "x": "Los autores comprobaron que pedir a modelos multimodales recientes que escuchen y revisen suele empeorar la mezcla. Por eso crearon MixCritic, un conjunto de 45.657 críticas de corrección derivadas de parámetros ajustados a mezclas profesionales, y entrenaron al crítico con ajuste fino supervisado seguido de optimización de preferencias."
               },
               {
                 "t": "p",
-                "x": "El presupuesto fue “muy, muy, muy, muy bajo” y él trabajó gratis; los bailarines salieron de un casting de dos meses, ensayaron tres días con el coreógrafo Damien Jalet, y la toma continua en 16 mm necesitó unos 15 intentos."
-              },
-              {
-                "t": "p",
-                "x": "“Una tendencia así puede hacer que incluso un buen trabajo parezca mediocre”, dijo. Está explorando vías legales y rechazó ofertas de licencia de algunas empresas de AI: “Se acerca un modelo económico del que no queríamos formar parte”."
-              },
-              {
-                "t": "p",
-                "x": "Las copias lo impulsaron a interpretar “Storm” en directo en los MTV VMAs. “Les falta el swagger de Yung Lean”, dijo Gavras. “Hay algo en la imperfección de la humanidad… que todavía no está del todo ahí”."
+                "x": "En MedleyDB, el refinamiento aprendido reduce el error un 19% respecto a la mezcla inicial, y la optimización de preferencias lo reduce un 8,4% más que el entrenamiento supervisado por sí solo. En una prueba de escucha con personas, MixAgent obtuvo mejores valoraciones de calidad que las mezclas producidas por Qwen3-Omni, Gemini 3.8 Flash y GPT-4o-audio."
               }
             ]
           }
@@ -939,327 +969,15 @@
       }
     },
     {
-      "id": "music-nmpa-streaming-fraud",
+      "id": "music-fontaines-dc-marianne-ai",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI-fuelled 사기\n작곡가 몫 잠식: NMPA",
-      "body": "NMPA 회장은 AI-fuelled 스트리밍 사기가 작곡가 몫을 갉아먹는다고 했다.",
-      "mini_headline": "NMPA, AI 스트리밍 사기",
+      "headline": "Fontaines D.C.\n뮤비에 몰래 쓰인 AI",
+      "body": "Fontaines D.C.의 뮤비 'Marianne'에 밴드 몰래 AI가 쓰였다.",
+      "mini_headline": "Fontaines D.C., 무단 AI에 반발",
       "tool": "Music",
-      "source": "Billboard",
-      "url": "https://www.billboard.com/pro/streaming-fraud-hurts-songwriters-find-solutions/",
-      "accent": "#2ec5c5",
-      "motif": "sphere",
-      "full": {
-        "mode": "summary",
-        "blocks": [
-          {
-            "t": "img",
-            "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
-          },
-          {
-            "t": "p",
-            "x": "2028–2032년 작곡가 스트리밍 요율을 정할 Copyright Royalty Board 심리를 앞두고, NMPA 회장 겸 CEO David Israelite는 법원이 스트리밍 사기도 함께 다뤄야 한다고 주장한다. 사기 규모가 “막대하며 인공지능 때문에 더 심해졌다”는 이유에서다."
-          },
-          {
-            "t": "p",
-            "x": "로열티는 재생 횟수대로 나누는 고정 수익 풀에서 나온다. 사기 스트림이 늘면 사람 작곡가 몫이 그만큼 줄어드는 구조다. AI 곡 수십만 개를 만들어 수십억 회 재생시킨 Michael Smith는 18개월 형을 받았다. Apple Music은 2025년에 사기 스트림 2 billion 건을 잡아냈고, Deezer는 완전히 AI-generated 트랙이 하루 90,000곡씩 올라오며 그 스트림의 최대 85%가 인위적이라고 밝혔다."
-          },
-          {
-            "t": "p",
-            "x": "Israelite는 가짜 스트림을 이용한 자금 세탁과 예측 시장 조작도 짚으며, AI 음악을 둘러싼 플랫폼의 불투명성을 문제 삼는다."
-          },
-          {
-            "t": "p",
-            "x": "NMPA는 이번 주 내슈빌에서 Songs Summit을 열고 AI 표기와 사용 보고, 탐지 기준을 마련한다."
-          }
-        ]
-      },
-      "text": {
-        "en": {
-          "headline": "NMPA chief: AI-fuelled fraud\nis draining songwriter pay",
-          "body": "David Israelite of the NMPA says AI-fuelled streaming fraud drains songwriter royalties and needs industry solutions.",
-          "mini_headline": "NMPA on AI stream fraud",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Ahead of the Copyright Royalty Board trial on songwriter streaming rates for 2028–2032, NMPA president and CEO David Israelite argues the court must also confront streaming fraud, whose scale is “enormous and exacerbated by artificial intelligence.”"
-              },
-              {
-                "t": "p",
-                "x": "Because royalties come from a fixed revenue pool split by plays, fraudulent streams directly cut what human songwriters receive. Michael Smith, who made hundreds of thousands of AI songs streamed billions of times, was sentenced to 18 months. Apple Music found 2 billion fraudulent streams in 2025, and Deezer reports 90,000 fully AI-generated tracks uploaded daily, with up to 85% of their streams artificial."
-              },
-              {
-                "t": "p",
-                "x": "Israelite also flags money laundering via fake streams and prediction-market manipulation, and blames platforms’ lack of transparency on AI music."
-              },
-              {
-                "t": "p",
-                "x": "The NMPA will convene a Songs Summit in Nashville this week to set standards on AI labeling, usage reporting and detection."
-              }
-            ]
-          }
-        },
-        "es": {
-          "headline": "Jefe de NMPA: fraude AI-fuelled\nmerma el pago a compositores",
-          "body": "David Israelite, de la NMPA, dice que el fraude en streaming AI-fuelled recorta las regalías de los compositores.",
-          "mini_headline": "La NMPA y el fraude AI en streaming",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Antes del juicio ante la Copyright Royalty Board sobre las tarifas de streaming para compositores de 2028–2032, el presidente y CEO de la NMPA, David Israelite, sostiene que el tribunal también debe abordar el fraude en streaming, cuya escala es “enorme y agravada por la inteligencia artificial”."
-              },
-              {
-                "t": "p",
-                "x": "Como las regalías salen de un fondo fijo de ingresos repartido según las reproducciones, los streams fraudulentos reducen directamente lo que reciben los compositores humanos. Michael Smith, que creó cientos de miles de canciones con AI reproducidas miles de millones de veces, fue condenado a 18 meses. Apple Music detectó 2 mil millones de streams fraudulentos en 2025, y Deezer informa de 90,000 pistas totalmente AI-generated subidas cada día, con hasta un 85% de sus streams artificiales."
-              },
-              {
-                "t": "p",
-                "x": "Israelite también señala el lavado de dinero mediante streams falsos y la manipulación de mercados de predicción, y culpa a la falta de transparencia de las plataformas sobre la música con AI."
-              },
-              {
-                "t": "p",
-                "x": "La NMPA celebrará esta semana una Songs Summit en Nashville para fijar estándares de etiquetado de AI, reporte de uso y detección."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI-fuelled 사기\n작곡가 몫 잠식: NMPA",
-          "body": "NMPA 회장은 AI-fuelled 스트리밍 사기가 작곡가 몫을 갉아먹는다고 했다.",
-          "mini_headline": "NMPA, AI 스트리밍 사기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "2028–2032년 작곡가 스트리밍 요율을 정할 Copyright Royalty Board 심리를 앞두고, NMPA 회장 겸 CEO David Israelite는 법원이 스트리밍 사기도 함께 다뤄야 한다고 주장한다. 사기 규모가 “막대하며 인공지능 때문에 더 심해졌다”는 이유에서다."
-              },
-              {
-                "t": "p",
-                "x": "로열티는 재생 횟수대로 나누는 고정 수익 풀에서 나온다. 사기 스트림이 늘면 사람 작곡가 몫이 그만큼 줄어드는 구조다. AI 곡 수십만 개를 만들어 수십억 회 재생시킨 Michael Smith는 18개월 형을 받았다. Apple Music은 2025년에 사기 스트림 2 billion 건을 잡아냈고, Deezer는 완전히 AI-generated 트랙이 하루 90,000곡씩 올라오며 그 스트림의 최대 85%가 인위적이라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Israelite는 가짜 스트림을 이용한 자금 세탁과 예측 시장 조작도 짚으며, AI 음악을 둘러싼 플랫폼의 불투명성을 문제 삼는다."
-              },
-              {
-                "t": "p",
-                "x": "NMPA는 이번 주 내슈빌에서 Songs Summit을 열고 AI 표기와 사용 보고, 탐지 기준을 마련한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-fuelled不正が\n作曲家報酬を削る：NMPA",
-          "body": "NMPA会長はAI-fuelledの再生不正が作曲家の印税を奪い、業界の対策が要ると語る。",
-          "mini_headline": "NMPAとAI再生不正",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "2028–2032年の作曲家向けストリーミング料率を決めるCopyright Royalty Boardの審理を前に、NMPAの会長兼CEOのDavid Israeliteは、裁判所がストリーミング不正にも向き合うべきだと主張する。その規模は「膨大で、人工知能によって悪化している」という。"
-              },
-              {
-                "t": "p",
-                "x": "印税は再生数で分ける固定の収益プールから支払われるため、不正なストリームは人間の作曲家の取り分を直接削る。数十万曲のAI楽曲を作り、数十億回再生させたMichael Smithには18か月の刑が言い渡された。Apple Musicは2025年に2 billion件の不正ストリームを検出し、Deezerによれば完全にAI-generatedの楽曲が毎日90,000曲アップロードされ、その再生の最大85%が人為的なものだという。"
-              },
-              {
-                "t": "p",
-                "x": "Israeliteは偽ストリームを使った資金洗浄や予測市場の操作にも触れ、AI音楽をめぐるプラットフォームの透明性の欠如を批判する。"
-              },
-              {
-                "t": "p",
-                "x": "NMPAは今週ナッシュビルでSongs Summitを開き、AIの表示、利用報告、検出に関する基準づくりを進める。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI-fuelled欺诈\n侵蚀词曲作者收入：NMPA",
-          "body": "NMPA负责人称，AI-fuelled流媒体欺诈正侵蚀词曲作者版税，需业界解决。",
-          "mini_headline": "NMPA谈AI流媒体欺诈",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "在Copyright Royalty Board就2028–2032年词曲作者流媒体费率开庭审理前，NMPA总裁兼CEO David Israelite主张，法庭也必须正视流媒体欺诈问题，其规模“巨大，且因人工智能而加剧”。"
-              },
-              {
-                "t": "p",
-                "x": "由于版税来自按播放量分配的固定收入池，欺诈播放会直接削减人类词曲作者的收入。制作了数十万首AI歌曲、播放量达数十亿次的Michael Smith被判处18个月刑期。Apple Music在2025年发现了2 billion次欺诈播放；Deezer称每天有90,000首完全AI-generated的曲目被上传，其中高达85%的播放为人为制造。"
-              },
-              {
-                "t": "p",
-                "x": "Israelite还指出了借虚假播放洗钱和操纵预测市场的问题，并批评平台在AI音乐方面缺乏透明度。"
-              },
-              {
-                "t": "p",
-                "x": "NMPA本周将在纳什维尔召开Songs Summit，为AI标注、使用报告和检测制定标准。"
-              }
-            ]
-          }
-        }
-      },
-      "_i18n_passed": {
-        "es": {
-          "headline": "Jefe de NMPA: fraude AI-fuelled\nmerma el pago a compositores",
-          "body": "David Israelite, de la NMPA, dice que el fraude en streaming AI-fuelled recorta las regalías de los compositores.",
-          "mini_headline": "La NMPA y el fraude AI en streaming",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "Antes del juicio ante la Copyright Royalty Board sobre las tarifas de streaming para compositores de 2028–2032, el presidente y CEO de la NMPA, David Israelite, sostiene que el tribunal también debe abordar el fraude en streaming, cuya escala es “enorme y agravada por la inteligencia artificial”."
-              },
-              {
-                "t": "p",
-                "x": "Como las regalías salen de un fondo fijo de ingresos repartido según las reproducciones, los streams fraudulentos reducen directamente lo que reciben los compositores humanos. Michael Smith, que creó cientos de miles de canciones con AI reproducidas miles de millones de veces, fue condenado a 18 meses. Apple Music detectó 2 mil millones de streams fraudulentos en 2025, y Deezer informa de 90,000 pistas totalmente AI-generated subidas cada día, con hasta un 85% de sus streams artificiales."
-              },
-              {
-                "t": "p",
-                "x": "Israelite también señala el lavado de dinero mediante streams falsos y la manipulación de mercados de predicción, y culpa a la falta de transparencia de las plataformas sobre la música con AI."
-              },
-              {
-                "t": "p",
-                "x": "La NMPA celebrará esta semana una Songs Summit en Nashville para fijar estándares de etiquetado de AI, reporte de uso y detección."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI-fuelled 사기\n작곡가 몫 잠식: NMPA",
-          "body": "NMPA 회장은 AI-fuelled 스트리밍 사기가 작곡가 몫을 빼앗는다고 본다.",
-          "mini_headline": "NMPA, AI 스트리밍 사기",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "2028–2032년 작곡가 스트리밍 요율을 정하는 Copyright Royalty Board 심리를 앞두고, NMPA 회장 겸 CEO David Israelite는 법원이 스트리밍 사기도 함께 다뤄야 한다고 주장한다. 그 규모가 “막대하며 인공지능 때문에 더 심해졌다”는 것이다."
-              },
-              {
-                "t": "p",
-                "x": "로열티는 재생 횟수에 따라 나누는 고정 수익 풀에서 나오기 때문에, 사기 스트림은 사람 작곡가가 받는 몫을 그대로 깎는다. AI 곡 수십만 개를 만들어 수십억 회 재생시킨 Michael Smith는 18개월 형을 선고받았다. Apple Music은 2025년에 사기 스트림 2 billion 건을 찾아냈고, Deezer는 완전히 AI-generated 트랙이 매일 90,000곡 올라오며 그 스트림의 최대 85%가 인위적이라고 밝혔다."
-              },
-              {
-                "t": "p",
-                "x": "Israelite는 가짜 스트림을 이용한 자금 세탁과 예측 시장 조작도 지적하며, AI 음악에 관한 플랫폼의 불투명성을 문제 삼는다."
-              },
-              {
-                "t": "p",
-                "x": "NMPA는 이번 주 내슈빌에서 Songs Summit을 열어 AI 표기, 사용 보고, 탐지에 관한 기준을 마련한다."
-              }
-            ]
-          }
-        },
-        "ja": {
-          "headline": "AI-fuelled不正が\n作曲家報酬を削る：NMPA",
-          "body": "NMPA会長はAI-fuelledの再生不正が作曲家の印税を奪い、業界の対策が要ると語る。",
-          "mini_headline": "NMPAとAI再生不正",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "2028–2032年の作曲家向けストリーミング料率を決めるCopyright Royalty Boardの審理を前に、NMPAの会長兼CEOのDavid Israeliteは、裁判所がストリーミング不正にも向き合うべきだと主張する。その規模は「膨大で、人工知能によって悪化している」という。"
-              },
-              {
-                "t": "p",
-                "x": "印税は再生数で分ける固定の収益プールから支払われるため、不正なストリームは人間の作曲家の取り分を直接削る。数十万曲のAI楽曲を作り、数十億回再生させたMichael Smithには18か月の刑が言い渡された。Apple Musicは2025年に2 billion件の不正ストリームを検出し、Deezerによれば完全にAI-generatedの楽曲が毎日90,000曲アップロードされ、その再生の最大85%が人為的なものだという。"
-              },
-              {
-                "t": "p",
-                "x": "Israeliteは偽ストリームを使った資金洗浄や予測市場の操作にも触れ、AI音楽をめぐるプラットフォームの透明性の欠如を批判する。"
-              },
-              {
-                "t": "p",
-                "x": "NMPAは今週ナッシュビルでSongs Summitを開き、AIの表示、利用報告、検出に関する基準づくりを進める。"
-              }
-            ]
-          }
-        },
-        "zh": {
-          "headline": "AI-fuelled欺诈\n侵蚀词曲作者收入：NMPA",
-          "body": "NMPA负责人称，AI-fuelled流媒体欺诈正侵蚀词曲作者版税，需业界解决。",
-          "mini_headline": "NMPA谈AI流媒体欺诈",
-          "full": {
-            "mode": "summary",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.billboard.com/wp-content/uploads/2025/10/David-Israelite-2021-Courtesy-NMPA-billboard-1800.jpg?w=1024"
-              },
-              {
-                "t": "p",
-                "x": "在Copyright Royalty Board就2028–2032年词曲作者流媒体费率开庭审理前，NMPA总裁兼CEO David Israelite主张，法庭也必须正视流媒体欺诈问题，其规模“巨大，且因人工智能而加剧”。"
-              },
-              {
-                "t": "p",
-                "x": "由于版税来自按播放量分配的固定收入池，欺诈播放会直接削减人类词曲作者的收入。制作了数十万首AI歌曲、播放量达数十亿次的Michael Smith被判处18个月刑期。Apple Music在2025年发现了2 billion次欺诈播放；Deezer称每天有90,000首完全AI-generated的曲目被上传，其中高达85%的播放为人为制造。"
-              },
-              {
-                "t": "p",
-                "x": "Israelite还指出了借虚假播放洗钱和操纵预测市场的问题，并批评平台在AI音乐方面缺乏透明度。"
-              },
-              {
-                "t": "p",
-                "x": "NMPA本周将在纳什维尔召开Songs Summit，为AI标注、使用报告和检测制定标准。"
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "id": "music-moises-soundcloud",
-      "source_lang": "en",
-      "eyebrow": "AI NEWS",
-      "headline": "Moises의 AI 도구\nSoundCloud에 온다",
-      "body": "제휴로 Moises의 스템 분리·AI 믹싱이 SoundCloud 배포와 이어진다.",
-      "mini_headline": "Moises, SoundCloud와 제휴",
-      "tool": "Music",
-      "source": "PR Newswire (via Yahoo Finance)",
-      "url": "https://finance.yahoo.com/technology/ai/articles/moises-soundcloud-partner-bring-ai-142300209.html",
+      "source": "VICE",
+      "url": "https://www.vice.com/en/article/fontaines-dc-blindsided-by-unsanctioned-ironic-use-of-ai-on-marianne-music-video/",
       "accent": "#f5a623",
       "motif": "sphere",
       "full": {
@@ -1267,209 +985,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
-            "cap": "Moises x SoundCloud"
+            "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+            "cap": "사진: Kieran Frost/Redferns"
           },
           {
             "t": "p",
-            "x": "뮤지션 80 million 명이 쓰는, 윤리적으로 학습한 AI-powered 크리에이티브 제품군 Moises가 10월 21일 SoundCloud와 제휴를 발표했다. 아티스트는 SoundCloud 트랙을 Moises로 가져와 연습·프로듀싱·협업을 하고 새롭게 재해석한 뒤, 완성곡을 SoundCloud에 바로 다시 올릴 수 있다."
+            "x": "Fontaines D.C.는 2026년 10월 16일 새 앨범 Dopamine Chamber를 냈다. 그런데 밴드는 “Marianne” 뮤직비디오 제작 과정 어딘가에서 누군가 AI를 썼다는 소식에 허를 찔렸다. 프런트맨 Grian Chatten은 이 상황을 “아이러니”라고 불렀다."
           },
           {
             "t": "p",
-            "x": "아티스트는 Moises의 스템 분리와 코드·가사 감지를 쓰고, 웹 기반 Moises Studio에서 트랙을 열어 믹싱·마스터링하거나 맥락 기반 스템 생성으로 재해석할 수 있다. 협업자를 실시간으로 부를 수도 있고, 세션을 세팅하고 요구대로 믹싱·마스터링까지 해 주는 에이전트형 프로덕션 어시스턴트 Moi와 작업할 수도 있다."
-          },
-          {
-            "t": "img",
-            "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
-            "cap": "Moises x SoundCloud 연동"
+            "x": "Chatten은 Los Angeles Times에 “작업 과정 어딘가에서 VFX 팀의 누군가가 워크플로에 일종의 AI를 쓴 것 같다”고 말했다. “그리고 우리 중 누구도 그 사실을 듣지 못했다. 듣자 하니 레이블도, 매니지먼트도 전달받지 못했다고 한다. 정말 충격이었다.”"
           },
           {
             "t": "p",
-            "x": "SoundCloud CEO Eliah는 “음악 속 AI의 미래는 아티스트와 사람이 먼저여야 한다고 믿는다”고 말했다. SoundCloud는 아티스트가 명시적으로 동의하지 않는 한 그들의 음악을 생성형 AI 모델 학습에 쓰지 않는다고 밝혔다. Moises는 사용자 업로드가 아니라 라이선스를 받고 허가된 음악으로만 모델을 학습했고, 자사 도구가 완성곡을 만들어 내지는 않는다고 설명한다."
+            "x": "Chatten은 주요 장면과 효과를 VFX와 특수분장으로 만들었다며 “110명이 넘는 사람이 작업했다”고 말했다. 그는 “앞으로는 우리 뮤직비디오에 그것을 쓸 수 없다는 조항을 계약서에 넣을 것”이라고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "Moises Pro 구독자는 SoundCloud Artist Pro를, SoundCloud Artist Pro 회원은 Moises Pro를 각각 2개월간 써 볼 수 있다."
+            "x": "Dopamine Chamber가 기술, 소셜미디어, AI에 기대는 사회를 비평하는 앨범이어서 아이러니가 더 날카롭다. Chatten은 “AI는 말 그대로 우리의 영혼을 쓸모없게 만들고 있고, 나는 그것이 진정한 죽음이라고 생각한다”고 말했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Moises brings AI music tools\nto SoundCloud artists",
-          "body": "A new partnership pairs Moises's stem separation, chord detection and AI mixing with SoundCloud distribution.",
-          "mini_headline": "Moises joins SoundCloud",
+          "headline": "Fontaines D.C. blindsided by\nAI in their own music video",
+          "body": "Fontaines D.C. discovered that AI had been used on their 'Marianne' music video without the band's sign-off.",
+          "mini_headline": "Fontaines D.C. vs unsanctioned AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
-                "cap": "Moises x SoundCloud"
+                "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+                "cap": "Photo by Kieran Frost/Redferns"
               },
               {
                 "t": "p",
-                "x": "Moises, the ethically trained AI-powered creative suite used by 80 million musicians, and SoundCloud announced a partnership on Oct. 21 that lets artists bring their SoundCloud tracks into Moises to practice, produce, collaborate and reimagine them, then publish finished music directly back to SoundCloud."
+                "x": "Fontaines D.C. released their latest album, Dopamine Chamber, on October 16, 2026, and in a situation frontman Grian Chatten called “ironic”, they were blindsided by the news that someone used AI somewhere in the process of making the “Marianne” video."
               },
               {
                 "t": "p",
-                "x": "Artists can use Moises' stem separation, chord and lyric detection, open tracks in the web-based Moises Studio to mix, master or reimagine them with contextual stem generation, invite collaborators in real time, and work with Moi, an agentic production assistant that sets up sessions and mixes and masters to their requirements."
-              },
-              {
-                "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
-                "cap": "Moises x SoundCloud integration"
+                "x": "“Somewhere in the process, someone from the VFX team I guess used some kind of AI in the workflow,” Chatten told the Los Angeles Times. “And none of us were told about it. Apparently, not even our label or our management were told about it and it was a real shock.”"
               },
               {
                 "t": "p",
-                "x": "\"We believe the future of AI in music should be artist-first and human-first,\" said Eliah, CEO of SoundCloud. SoundCloud says it does not use artists' music to train generative AI models without their explicit consent; Moises says its models are trained only on licensed and authorized music, not on user uploads, and its tools do not generate complete songs."
+                "x": "Chatten said the main scenes and effects were VFX and prosthetics, and that “over 110 people worked on the thing.” He added, “We’re gonna have it written into our contracts going forward that it can’t be in our music videos.”"
               },
               {
                 "t": "p",
-                "x": "Moises Pro subscribers get a 2-month trial of SoundCloud Artist Pro, and SoundCloud Artist Pro members get a 2-month trial of Moises Pro."
+                "x": "The irony is sharper because Dopamine Chamber is a commentary on society’s reliance on technology, social media, and AI. “AI is literally rendering our souls obsolete and I think that is true death,” Chatten said."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Moises의 AI 도구\nSoundCloud에 온다",
-          "body": "제휴로 Moises의 스템 분리·AI 믹싱이 SoundCloud 배포와 이어진다.",
-          "mini_headline": "Moises, SoundCloud와 제휴",
+          "headline": "Fontaines D.C.\n뮤비에 몰래 쓰인 AI",
+          "body": "Fontaines D.C.의 뮤비 'Marianne'에 밴드 몰래 AI가 쓰였다.",
+          "mini_headline": "Fontaines D.C., 무단 AI에 반발",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
-                "cap": "Moises x SoundCloud"
+                "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+                "cap": "사진: Kieran Frost/Redferns"
               },
               {
                 "t": "p",
-                "x": "뮤지션 80 million 명이 쓰는, 윤리적으로 학습한 AI-powered 크리에이티브 제품군 Moises가 10월 21일 SoundCloud와 제휴를 발표했다. 아티스트는 SoundCloud 트랙을 Moises로 가져와 연습·프로듀싱·협업을 하고 새롭게 재해석한 뒤, 완성곡을 SoundCloud에 바로 다시 올릴 수 있다."
+                "x": "Fontaines D.C.는 2026년 10월 16일 새 앨범 Dopamine Chamber를 냈다. 그런데 밴드는 “Marianne” 뮤직비디오 제작 과정 어딘가에서 누군가 AI를 썼다는 소식에 허를 찔렸다. 프런트맨 Grian Chatten은 이 상황을 “아이러니”라고 불렀다."
               },
               {
                 "t": "p",
-                "x": "아티스트는 Moises의 스템 분리와 코드·가사 감지를 쓰고, 웹 기반 Moises Studio에서 트랙을 열어 믹싱·마스터링하거나 맥락 기반 스템 생성으로 재해석할 수 있다. 협업자를 실시간으로 부를 수도 있고, 세션을 세팅하고 요구대로 믹싱·마스터링까지 해 주는 에이전트형 프로덕션 어시스턴트 Moi와 작업할 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
-                "cap": "Moises x SoundCloud 연동"
+                "x": "Chatten은 Los Angeles Times에 “작업 과정 어딘가에서 VFX 팀의 누군가가 워크플로에 일종의 AI를 쓴 것 같다”고 말했다. “그리고 우리 중 누구도 그 사실을 듣지 못했다. 듣자 하니 레이블도, 매니지먼트도 전달받지 못했다고 한다. 정말 충격이었다.”"
               },
               {
                 "t": "p",
-                "x": "SoundCloud CEO Eliah는 “음악 속 AI의 미래는 아티스트와 사람이 먼저여야 한다고 믿는다”고 말했다. SoundCloud는 아티스트가 명시적으로 동의하지 않는 한 그들의 음악을 생성형 AI 모델 학습에 쓰지 않는다고 밝혔다. Moises는 사용자 업로드가 아니라 라이선스를 받고 허가된 음악으로만 모델을 학습했고, 자사 도구가 완성곡을 만들어 내지는 않는다고 설명한다."
+                "x": "Chatten은 주요 장면과 효과를 VFX와 특수분장으로 만들었다며 “110명이 넘는 사람이 작업했다”고 말했다. 그는 “앞으로는 우리 뮤직비디오에 그것을 쓸 수 없다는 조항을 계약서에 넣을 것”이라고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "Moises Pro 구독자는 SoundCloud Artist Pro를, SoundCloud Artist Pro 회원은 Moises Pro를 각각 2개월간 써 볼 수 있다."
+                "x": "Dopamine Chamber가 기술, 소셜미디어, AI에 기대는 사회를 비평하는 앨범이어서 아이러니가 더 날카롭다. Chatten은 “AI는 말 그대로 우리의 영혼을 쓸모없게 만들고 있고, 나는 그것이 진정한 죽음이라고 생각한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MoisesのAI音楽ツール\nSoundCloudへ",
-          "body": "新提携で、Moisesのステム分離やAIミックスがSoundCloud配信とつながる。",
-          "mini_headline": "MoisesとSoundCloudが提携",
+          "headline": "Fontaines D.C.\n自作MVに無断でAI",
+          "body": "Fontaines D.C.の「Marianne」MVでバンドに無断でAIが使われていた。",
+          "mini_headline": "Fontaines D.C.、無断AIに反発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
-                "cap": "Moises x SoundCloud"
+                "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+                "cap": "写真：Kieran Frost/Redferns"
               },
               {
                 "t": "p",
-                "x": "80 million人のミュージシャンが使う、倫理的に学習されたAI-poweredのクリエイティブスイートMoisesとSoundCloudは10月21日、提携を発表した。アーティストはSoundCloudのトラックをMoisesに取り込んで練習、制作、共同作業、再解釈を行い、完成した楽曲をそのままSoundCloudで公開できる。"
+                "x": "Fontaines D.C.は2026年10月16日に最新アルバム『Dopamine Chamber』をリリースしたが、フロントマンのGrian Chattenが「皮肉」と呼ぶ事態の中、「Marianne」のビデオ制作過程のどこかで誰かがAIを使っていたという知らせに不意を突かれた。"
               },
               {
                 "t": "p",
-                "x": "アーティストはMoisesのステム分離、コードと歌詞の検出を使えるほか、ウェブベースのMoises Studioでトラックを開いてミックスやマスタリングを行い、文脈に応じたステム生成で再解釈することもできる。共同制作者をリアルタイムで招待し、セッションの準備から要望どおりのミックスとマスタリングまでこなすエージェント型制作アシスタントMoiと作業することも可能だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
-                "cap": "Moises x SoundCloudの連携"
+                "x": "「制作過程のどこかで、VFXチームの誰かがワークフローに何らかのAIを使ったんだと思う」とChattenはLos Angeles Timesに語った。「そして僕らの誰もそれを知らされなかった。どうやらレーベルやマネジメントにさえ知らされていなかったようで、本当にショックだった」"
               },
               {
                 "t": "p",
-                "x": "SoundCloudのCEOであるEliahは「音楽におけるAIの未来は、アーティストファースト、ヒューマンファーストであるべきだと考えている」と述べた。SoundCloudは、明示的な同意なしにアーティストの音楽を生成AIモデルの学習に使わないとしている。Moisesは、自社モデルはユーザーのアップロードではなく、ライセンスを得た許諾済みの音楽だけで学習しており、ツールが完全な楽曲を生成することはないと説明する。"
+                "x": "Chattenによれば、主要な場面やエフェクトはVFXと特殊メイクによるもので、「110人以上がこの作品に携わった」という。さらに「今後は、僕らのミュージックビデオにそれを使ってはならないと契約書に明記するつもりだ」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "Moises Proの加入者はSoundCloud Artist Proを2か月間試用でき、SoundCloud Artist Proの会員はMoises Proを2か月間試用できる。"
+                "x": "『Dopamine Chamber』がテクノロジーやソーシャルメディア、AIへの社会の依存を論評する作品であるだけに、皮肉はいっそう際立つ。「AIは文字どおり僕らの魂を時代遅れにしつつあり、それこそが本当の死だと思う」とChattenは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Moises把AI音乐工具\n带给SoundCloud艺人",
-          "body": "新合作将Moises的分轨分离、和弦识别与AI混音同SoundCloud发行结合起来。",
-          "mini_headline": "Moises携手SoundCloud",
+          "headline": "Fontaines D.C.\n自家MV被擅用AI",
+          "body": "Fontaines D.C.发现，《Marianne》MV未经乐队同意使用了AI。",
+          "mini_headline": "Fontaines D.C.对抗擅用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
-                "cap": "Moises x SoundCloud"
+                "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+                "cap": "摄影：Kieran Frost/Redferns"
               },
               {
                 "t": "p",
-                "x": "Moises是一款经过合乎伦理训练的AI-powered创作套件，拥有80 million名音乐人用户。它与SoundCloud于10月21日宣布合作，艺人可将SoundCloud上的曲目导入Moises进行练习、制作、协作和再创作，再把完成的音乐直接发布回SoundCloud。"
+                "x": "Fontaines D.C.于2026年10月16日发行新专辑《Dopamine Chamber》，而在一个被主唱Grian Chatten称为“讽刺”的情境下，乐队意外得知有人在制作《Marianne》MV过程中的某个环节使用了AI。"
               },
               {
                 "t": "p",
-                "x": "艺人可以使用Moises的分轨分离、和弦与歌词识别功能，在网页版Moises Studio中打开曲目进行混音、母带处理，或借助情境化分轨生成进行再创作；还能实时邀请协作者，并与智能体式制作助手Moi合作，它能搭建工程，并按要求完成混音和母带处理。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
-                "cap": "Moises x SoundCloud集成"
+                "x": "“在制作过程中的某个环节，我猜是VFX团队的某个人在工作流程里用了某种AI，”Chatten对Los Angeles Times说，“而我们没有一个人被告知。显然，连我们的厂牌和经纪团队都不知情，这真的让人震惊。”"
               },
               {
                 "t": "p",
-                "x": "SoundCloud CEO Eliah表示：“我们相信，音乐领域AI的未来应当以艺人为先、以人为先。”SoundCloud称，未经艺人明确同意，不会用其音乐训练生成式AI模型；Moises称，其模型只使用经授权和许可的音乐训练，而非用户上传内容，其工具也不会生成完整歌曲。"
+                "x": "Chatten表示，主要场景和特效都是用VFX和假体化妆完成的，“有超过110人参与了这个作品”。他补充说：“今后我们会把‘音乐录影带中不能使用它’写进合同。”"
               },
               {
                 "t": "p",
-                "x": "Moises Pro订阅用户可获得2个月的SoundCloud Artist Pro试用，SoundCloud Artist Pro会员可获得2个月的Moises Pro试用。"
+                "x": "讽刺意味之所以更加强烈，是因为《Dopamine Chamber》正是一张评论社会对科技、社交媒体和AI依赖的专辑。Chatten说：“AI正在名副其实地让我们的灵魂变得过时，我认为那才是真正的死亡。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Moises lleva herramientas AI\na los artistas de SoundCloud",
-          "body": "Una alianza une separación de stems, detección de acordes y mezcla AI de Moises con la distribución de SoundCloud.",
-          "mini_headline": "Moises se une a SoundCloud",
+          "headline": "Fontaines D.C., sorprendidos por\nla IA en su propio videoclip",
+          "body": "Fontaines D.C. descubrió que en el videoclip de 'Marianne' se había usado IA sin la aprobación de la banda.",
+          "mini_headline": "Fontaines D.C. frente a la IA no autorizada",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
-                "cap": "Moises x SoundCloud"
+                "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+                "cap": "Foto de Kieran Frost/Redferns"
               },
               {
                 "t": "p",
-                "x": "Moises, la suite creativa AI-powered entrenada de forma ética que usan 80 millones de músicos, y SoundCloud anunciaron el 21 de octubre una alianza que permite a los artistas llevar sus pistas de SoundCloud a Moises para practicar, producir, colaborar y reinterpretarlas, y luego publicar la música terminada directamente en SoundCloud."
+                "x": "Fontaines D.C. publicó su último álbum, Dopamine Chamber, el 16 de octubre de 2026 y, en una situación que el líder Grian Chatten calificó de “irónica”, la banda se vio sorprendida por la noticia de que alguien usó IA en algún punto del proceso de creación del video de “Marianne”."
               },
               {
                 "t": "p",
-                "x": "Los artistas pueden usar la separación de stems y la detección de acordes y letras de Moises, abrir pistas en Moises Studio, basado en la web, para mezclarlas, masterizarlas o reinterpretarlas con generación contextual de stems, invitar a colaboradores en tiempo real y trabajar con Moi, un asistente de producción agéntico que prepara sesiones y mezcla y masteriza según sus requisitos."
-              },
-              {
-                "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
-                "cap": "Integración Moises x SoundCloud"
+                "x": "“En algún momento del proceso, alguien del equipo de VFX, supongo, usó algún tipo de IA en el flujo de trabajo”, dijo Chatten a Los Angeles Times. “Y a ninguno de nosotros nos lo dijeron. Al parecer, ni siquiera se lo dijeron a nuestro sello ni a nuestro mánager, y fue un verdadero shock”."
               },
               {
                 "t": "p",
-                "x": "\"Creemos que el futuro de la AI en la música debe poner primero al artista y al ser humano\", dijo Eliah, CEO de SoundCloud. SoundCloud afirma que no usa la música de los artistas para entrenar modelos de AI generativa sin su consentimiento explícito; Moises dice que sus modelos se entrenan solo con música licenciada y autorizada, no con contenido subido por usuarios, y que sus herramientas no generan canciones completas."
+                "x": "Chatten explicó que las escenas y efectos principales se hicieron con VFX y prótesis, y que “más de 110 personas trabajaron en ello”. Añadió: “A partir de ahora vamos a dejar por escrito en nuestros contratos que no puede aparecer en nuestros videoclips”."
               },
               {
                 "t": "p",
-                "x": "Los suscriptores de Moises Pro obtienen una prueba de 2 meses de SoundCloud Artist Pro, y los miembros de SoundCloud Artist Pro, una prueba de 2 meses de Moises Pro."
+                "x": "La ironía es mayor porque Dopamine Chamber es un comentario sobre la dependencia de la sociedad respecto a la tecnología, las redes sociales y la IA. “La IA está literalmente volviendo obsoletas nuestras almas y creo que eso es la verdadera muerte”, dijo Chatten."
               }
             ]
           }
@@ -1477,145 +1165,437 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Moises의 AI 도구\nSoundCloud에 온다",
-          "body": "제휴로 Moises의 스템 분리·AI 믹싱이 SoundCloud 배포와 만난다.",
-          "mini_headline": "Moises, SoundCloud와 제휴",
+          "headline": "Fontaines D.C.\n뮤비에 몰래 쓰인 AI",
+          "body": "Fontaines D.C.의 뮤비 'Marianne'에 밴드 몰래 AI가 쓰였다.",
+          "mini_headline": "Fontaines D.C., 무단 AI에 반발",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
-                "cap": "Moises x SoundCloud"
+                "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+                "cap": "사진: Kieran Frost/Redferns"
               },
               {
                 "t": "p",
-                "x": "80 million 명의 뮤지션이 쓰는, 윤리적으로 학습된 AI-powered 크리에이티브 제품군 Moises와 SoundCloud가 10월 21일 제휴를 발표했다. 아티스트는 SoundCloud 트랙을 Moises로 가져와 연습하고, 프로듀싱하고, 협업하고, 새롭게 재해석한 뒤 완성곡을 SoundCloud에 바로 다시 올릴 수 있다."
+                "x": "Fontaines D.C.는 2026년 10월 16일 새 앨범 Dopamine Chamber를 발매했다. 그런데 프런트맨 Grian Chatten이 “아이러니”라고 부른 상황 속에서, 밴드는 “Marianne” 뮤직비디오 제작 과정 어딘가에서 누군가 AI를 썼다는 소식에 허를 찔렸다."
               },
               {
                 "t": "p",
-                "x": "아티스트는 Moises의 스템 분리와 코드·가사 감지를 쓰고, 웹 기반 Moises Studio에서 트랙을 열어 믹싱·마스터링하거나 맥락 기반 스템 생성으로 재해석할 수 있다. 협업자를 실시간으로 초대하고, 세션을 세팅하고 요구에 맞춰 믹싱·마스터링까지 해 주는 에이전트형 프로덕션 어시스턴트 Moi와 함께 작업할 수도 있다."
-              },
-              {
-                "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
-                "cap": "Moises x SoundCloud 연동"
+                "x": "“작업 과정 어딘가에서 VFX 팀의 누군가가 워크플로에 일종의 AI를 쓴 것 같다”고 Chatten은 Los Angeles Times에 말했다. “그리고 우리 중 누구도 그 사실을 듣지 못했다. 듣자 하니 레이블도, 매니지먼트도 전달받지 못했다고 한다. 정말 충격이었다.”"
               },
               {
                 "t": "p",
-                "x": "SoundCloud CEO Eliah는 “음악 속 AI의 미래는 아티스트와 사람이 먼저여야 한다고 믿는다”고 말했다. SoundCloud는 아티스트의 명시적 동의 없이 그들의 음악을 생성형 AI 모델 학습에 쓰지 않는다고 밝혔다. Moises는 자사 모델이 사용자 업로드가 아닌, 라이선스를 받고 허가된 음악으로만 학습했으며 자사 도구는 완성된 곡을 생성하지 않는다고 설명한다."
+                "x": "Chatten은 주요 장면과 효과를 VFX와 특수분장으로 만들었으며 “110명이 넘는 사람이 작업했다”고 말했다. 그는 “앞으로는 우리 뮤직비디오에 그것을 쓸 수 없다는 조항을 계약서에 넣을 것”이라고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "Moises Pro 구독자는 SoundCloud Artist Pro를 2개월간 체험할 수 있고, SoundCloud Artist Pro 회원은 Moises Pro를 2개월간 체험할 수 있다."
+                "x": "Dopamine Chamber가 기술, 소셜미디어, AI에 기대는 사회를 비평하는 앨범이라 아이러니는 더 날카롭다. Chatten은 “AI는 말 그대로 우리의 영혼을 쓸모없게 만들고 있고, 나는 그것이 진정한 죽음이라고 생각한다”고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "MoisesのAI音楽ツール\nSoundCloudへ",
-          "body": "新提携で、Moisesのステム分離やAIミックスがSoundCloud配信とつながる。",
-          "mini_headline": "MoisesとSoundCloudが提携",
+          "headline": "Fontaines D.C.\n自作MVに無断でAI",
+          "body": "Fontaines D.C.の「Marianne」MVでバンドに無断でAIが使われていた。",
+          "mini_headline": "Fontaines D.C.、無断AIに反発",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
-                "cap": "Moises x SoundCloud"
+                "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+                "cap": "写真：Kieran Frost/Redferns"
               },
               {
                 "t": "p",
-                "x": "80 million人のミュージシャンが使う、倫理的に学習されたAI-poweredのクリエイティブスイートMoisesとSoundCloudは10月21日、提携を発表した。アーティストはSoundCloudのトラックをMoisesに取り込んで練習、制作、共同作業、再解釈を行い、完成した楽曲をそのままSoundCloudで公開できる。"
+                "x": "Fontaines D.C.は2026年10月16日に最新アルバム『Dopamine Chamber』をリリースしたが、フロントマンのGrian Chattenが「皮肉」と呼ぶ事態の中、「Marianne」のビデオ制作過程のどこかで誰かがAIを使っていたという知らせに不意を突かれた。"
               },
               {
                 "t": "p",
-                "x": "アーティストはMoisesのステム分離、コードと歌詞の検出を使えるほか、ウェブベースのMoises Studioでトラックを開いてミックスやマスタリングを行い、文脈に応じたステム生成で再解釈することもできる。共同制作者をリアルタイムで招待し、セッションの準備から要望どおりのミックスとマスタリングまでこなすエージェント型制作アシスタントMoiと作業することも可能だ。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
-                "cap": "Moises x SoundCloudの連携"
+                "x": "「制作過程のどこかで、VFXチームの誰かがワークフローに何らかのAIを使ったんだと思う」とChattenはLos Angeles Timesに語った。「そして僕らの誰もそれを知らされなかった。どうやらレーベルやマネジメントにさえ知らされていなかったようで、本当にショックだった」"
               },
               {
                 "t": "p",
-                "x": "SoundCloudのCEOであるEliahは「音楽におけるAIの未来は、アーティストファースト、ヒューマンファーストであるべきだと考えている」と述べた。SoundCloudは、明示的な同意なしにアーティストの音楽を生成AIモデルの学習に使わないとしている。Moisesは、自社モデルはユーザーのアップロードではなく、ライセンスを得た許諾済みの音楽だけで学習しており、ツールが完全な楽曲を生成することはないと説明する。"
+                "x": "Chattenによれば、主要な場面やエフェクトはVFXと特殊メイクによるもので、「110人以上がこの作品に携わった」という。さらに「今後は、僕らのミュージックビデオにそれを使ってはならないと契約書に明記するつもりだ」と付け加えた。"
               },
               {
                 "t": "p",
-                "x": "Moises Proの加入者はSoundCloud Artist Proを2か月間試用でき、SoundCloud Artist Proの会員はMoises Proを2か月間試用できる。"
+                "x": "『Dopamine Chamber』がテクノロジーやソーシャルメディア、AIへの社会の依存を論評する作品であるだけに、皮肉はいっそう際立つ。「AIは文字どおり僕らの魂を時代遅れにしつつあり、それこそが本当の死だと思う」とChattenは語った。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Moises把AI音乐工具\n带给SoundCloud艺人",
-          "body": "新合作将Moises的分轨分离、和弦识别与AI混音同SoundCloud发行结合起来。",
-          "mini_headline": "Moises携手SoundCloud",
+          "headline": "Fontaines D.C.\n自家MV被擅用AI",
+          "body": "Fontaines D.C.发现，《Marianne》MV未经乐队同意使用了AI。",
+          "mini_headline": "Fontaines D.C.对抗擅用AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
-                "cap": "Moises x SoundCloud"
+                "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+                "cap": "摄影：Kieran Frost/Redferns"
               },
               {
                 "t": "p",
-                "x": "Moises是一款经过合乎伦理训练的AI-powered创作套件，拥有80 million名音乐人用户。它与SoundCloud于10月21日宣布合作，艺人可将SoundCloud上的曲目导入Moises进行练习、制作、协作和再创作，再把完成的音乐直接发布回SoundCloud。"
+                "x": "Fontaines D.C.于2026年10月16日发行新专辑《Dopamine Chamber》，而在一个被主唱Grian Chatten称为“讽刺”的情境下，乐队意外得知有人在制作《Marianne》MV过程中的某个环节使用了AI。"
               },
               {
                 "t": "p",
-                "x": "艺人可以使用Moises的分轨分离、和弦与歌词识别功能，在网页版Moises Studio中打开曲目进行混音、母带处理，或借助情境化分轨生成进行再创作；还能实时邀请协作者，并与智能体式制作助手Moi合作，它能搭建工程，并按要求完成混音和母带处理。"
-              },
-              {
-                "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
-                "cap": "Moises x SoundCloud集成"
+                "x": "“在制作过程中的某个环节，我猜是VFX团队的某个人在工作流程里用了某种AI，”Chatten对Los Angeles Times说，“而我们没有一个人被告知。显然，连我们的厂牌和经纪团队都不知情，这真的让人震惊。”"
               },
               {
                 "t": "p",
-                "x": "SoundCloud CEO Eliah表示：“我们相信，音乐领域AI的未来应当以艺人为先、以人为先。”SoundCloud称，未经艺人明确同意，不会用其音乐训练生成式AI模型；Moises称，其模型只使用经授权和许可的音乐训练，而非用户上传内容，其工具也不会生成完整歌曲。"
+                "x": "Chatten表示，主要场景和特效都是用VFX和假体化妆完成的，“有超过110人参与了这个作品”。他补充说：“今后我们会把‘音乐录影带中不能使用它’写进合同。”"
               },
               {
                 "t": "p",
-                "x": "Moises Pro订阅用户可获得2个月的SoundCloud Artist Pro试用，SoundCloud Artist Pro会员可获得2个月的Moises Pro试用。"
+                "x": "讽刺意味之所以更加强烈，是因为《Dopamine Chamber》正是一张评论社会对科技、社交媒体和AI依赖的专辑。Chatten说：“AI正在名副其实地让我们的灵魂变得过时，我认为那才是真正的死亡。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Moises lleva herramientas AI\na los artistas de SoundCloud",
-          "body": "Una alianza une separación de stems, detección de acordes y mezcla AI de Moises con la distribución de SoundCloud.",
-          "mini_headline": "Moises se une a SoundCloud",
+          "headline": "Fontaines D.C., sorprendidos por\nla IA en su propio videoclip",
+          "body": "Fontaines D.C. descubrió que en el videoclip de 'Marianne' se había usado IA sin la aprobación de la banda.",
+          "mini_headline": "Fontaines D.C. frente a la IA no autorizada",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018079/Moises-x-SoundCloud.jpg?id=OA3032062&p=original",
-                "cap": "Moises x SoundCloud"
+                "src": "https://www.vice.com/wp-content/uploads/sites/2/2026/10/Fontaines-D.C1.jpg?w=1200",
+                "cap": "Foto de Kieran Frost/Redferns"
               },
               {
                 "t": "p",
-                "x": "Moises, la suite creativa AI-powered entrenada de forma ética que usan 80 millones de músicos, y SoundCloud anunciaron el 21 de octubre una alianza que permite a los artistas llevar sus pistas de SoundCloud a Moises para practicar, producir, colaborar y reinterpretarlas, y luego publicar la música terminada directamente en SoundCloud."
+                "x": "Fontaines D.C. publicó su último álbum, Dopamine Chamber, el 16 de octubre de 2026 y, en una situación que el líder Grian Chatten calificó de “irónica”, la banda se vio sorprendida por la noticia de que alguien usó IA en algún punto del proceso de creación del video de “Marianne”."
               },
               {
                 "t": "p",
-                "x": "Los artistas pueden usar la separación de stems y la detección de acordes y letras de Moises, abrir pistas en Moises Studio, basado en la web, para mezclarlas, masterizarlas o reinterpretarlas con generación contextual de stems, invitar a colaboradores en tiempo real y trabajar con Moi, un asistente de producción agéntico que prepara sesiones y mezcla y masteriza según sus requisitos."
+                "x": "“En algún momento del proceso, alguien del equipo de VFX, supongo, usó algún tipo de IA en el flujo de trabajo”, dijo Chatten a Los Angeles Times. “Y a ninguno de nosotros nos lo dijeron. Al parecer, ni siquiera se lo dijeron a nuestro sello ni a nuestro mánager, y fue un verdadero shock”."
               },
+              {
+                "t": "p",
+                "x": "Chatten explicó que las escenas y efectos principales se hicieron con VFX y prótesis, y que “más de 110 personas trabajaron en ello”. Añadió: “A partir de ahora vamos a dejar por escrito en nuestros contratos que no puede aparecer en nuestros videoclips”."
+              },
+              {
+                "t": "p",
+                "x": "La ironía es mayor porque Dopamine Chamber es un comentario sobre la dependencia de la sociedad respecto a la tecnología, las redes sociales y la IA. “La IA está literalmente volviendo obsoletas nuestras almas y creo que eso es la verdadera muerte”, dijo Chatten."
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "id": "music-anthropic-lyrics-dilution",
+      "source_lang": "en",
+      "eyebrow": "AI NEWS",
+      "headline": "출판사 “Claude 가사\n진짜 가사 시장 희석”",
+      "body": "UMG 등 출판사는 Claude가 쓴 가사가 실제 가사 시장을 희석한다고 주장했다.",
+      "mini_headline": "Claude 가사가 진짜를 ‘희석’",
+      "tool": "Music",
+      "source": "CMU",
+      "url": "https://completemusicupdate.com/claudes-lyrics-are-diluting-real-lyrics-say-music-publishers-in-latest-anthropic-proceedings/",
+      "accent": "#2ec5c5",
+      "motif": "sphere",
+      "full": {
+        "mode": "summary",
+        "blocks": [
+          {
+            "t": "img",
+            "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+          },
+          {
+            "t": "p",
+            "x": "AI 학습이 미국 저작권법상 공정 이용에 해당하는지를 놓고 미국 법정에서 다시 한번 공방이 벌어졌다. 이번 분쟁 당사자는 Anthropic과 음악 출판사 Universal, Concord, ABKCO다. 양측은 저마다 유리한 약식 판결을 내려 달라며 Eumi Lee 판사를 설득하려 했다."
+          },
+          {
+            "t": "p",
+            "x": "심리에서 가장 흥미로운 대목은 시장 희석 논쟁이었다. Claude는 출판사들이 보유한, 사람이 쓴 가사로 학습했는데 그런 Claude가 새 가사를 내놓으면 원곡의 시장 가치가 희석되느냐는 것이다."
+          },
+          {
+            "t": "p",
+            "x": "출판사 측 Matthew J Oppenheim은 Claude가 6개월 동안 “합성 가사” 요청을 12만 건 가까이 받았다는 증거가 있다며 AI가 만든 음악(AI-generated)이 “시장을 쉽게 압도할 수 있다”고 주장했다."
+          },
+          {
+            "t": "p",
+            "x": "Lee 판사는 시장 희석을 보여 줄 구체적 증거를 원하는 눈치였다. Anthropic 측 변호인 Sonal Mehta는 “기록 어디에도 음악 산업의 파멸을 보여 주는 것은 없다”며 Universal이 투자자들에게 AI가 음악 산업에 “압도적으로 순이익”이라고 말해 왔다고 덧붙였다."
+          }
+        ]
+      },
+      "text": {
+        "en": {
+          "headline": "Publishers say Claude's lyrics\ndilute the real thing",
+          "body": "UMG, Concord and ABKCO told the court that Claude's AI-generated lyrics dilute the market for real lyrics.",
+          "mini_headline": "Claude lyrics 'dilute' real ones",
+          "full": {
+            "mode": "summary",
+            "blocks": [
               {
                 "t": "img",
-                "src": "https://mmx.prnewswire.com/media/MS2018081/Moises-x-SoundCloud-Screenshot.jpg?id=OA3032064&p=original",
-                "cap": "Integración Moises x SoundCloud"
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
               },
               {
                 "t": "p",
-                "x": "\"Creemos que el futuro de la AI en la música debe poner primero al artista y al ser humano\", dijo Eliah, CEO de SoundCloud. SoundCloud afirma que no usa la música de los artistas para entrenar modelos de AI generativa sin su consentimiento explícito; Moises dice que sus modelos se entrenan solo con música licenciada y autorizada, no con contenido subido por usuarios, y que sus herramientas no generan canciones completas."
+                "x": "Whether AI training constitutes fair use under American copyright law was considered in a US courtroom again, this time in the dispute between Anthropic and the Universal, Concord and ABKCO music publishers, with both sides trying to convince Judge Eumi Lee to grant summary judgements in their favour."
               },
               {
                 "t": "p",
-                "x": "Los suscriptores de Moises Pro obtienen una prueba de 2 meses de SoundCloud Artist Pro, y los miembros de SoundCloud Artist Pro, una prueba de 2 meses de Moises Pro."
+                "x": "The most interesting part of the hearing centred on whether Claude outputting new lyrics, having been trained on the publishers’ human-created lyrics, dilutes the market value of the original songs."
+              },
+              {
+                "t": "p",
+                "x": "Speaking for the publishers, Matthew J Oppenheim said there is evidence that Claude received nearly 120,000 requests for “synthetic lyrics” in a six month period, arguing that AI-generated music “could easily overwhelm the market”."
+              },
+              {
+                "t": "p",
+                "x": "Judge Lee seemed to want tangible evidence of this market dilution. Anthropic’s lawyer, Sonal Mehta, said “there isn’t anything in the record that shows doom for the music industry”, adding that Universal has told its investors that AI is “overwhelmingly a net positive” for the music industry."
+              }
+            ]
+          }
+        },
+        "ko": {
+          "headline": "출판사 “Claude 가사\n진짜 가사 시장 희석”",
+          "body": "UMG 등 출판사는 Claude가 쓴 가사가 실제 가사 시장을 희석한다고 주장했다.",
+          "mini_headline": "Claude 가사가 진짜를 ‘희석’",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+              },
+              {
+                "t": "p",
+                "x": "AI 학습이 미국 저작권법상 공정 이용에 해당하는지를 놓고 미국 법정에서 다시 한번 공방이 벌어졌다. 이번 분쟁 당사자는 Anthropic과 음악 출판사 Universal, Concord, ABKCO다. 양측은 저마다 유리한 약식 판결을 내려 달라며 Eumi Lee 판사를 설득하려 했다."
+              },
+              {
+                "t": "p",
+                "x": "심리에서 가장 흥미로운 대목은 시장 희석 논쟁이었다. Claude는 출판사들이 보유한, 사람이 쓴 가사로 학습했는데 그런 Claude가 새 가사를 내놓으면 원곡의 시장 가치가 희석되느냐는 것이다."
+              },
+              {
+                "t": "p",
+                "x": "출판사 측 Matthew J Oppenheim은 Claude가 6개월 동안 “합성 가사” 요청을 12만 건 가까이 받았다는 증거가 있다며 AI가 만든 음악(AI-generated)이 “시장을 쉽게 압도할 수 있다”고 주장했다."
+              },
+              {
+                "t": "p",
+                "x": "Lee 판사는 시장 희석을 보여 줄 구체적 증거를 원하는 눈치였다. Anthropic 측 변호인 Sonal Mehta는 “기록 어디에도 음악 산업의 파멸을 보여 주는 것은 없다”며 Universal이 투자자들에게 AI가 음악 산업에 “압도적으로 순이익”이라고 말해 왔다고 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "出版社「Claudeの歌詞が\n本物の価値を薄める」",
+          "body": "UMGなどの出版社は、ClaudeのAI歌詞が本物の歌詞市場を薄めると法廷で訴えた。",
+          "mini_headline": "Claudeの歌詞は本物を「薄める」",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+              },
+              {
+                "t": "p",
+                "x": "AI学習が米国著作権法上のフェアユースに当たるかどうかが、再び米国の法廷で争われた。今回はAnthropicと音楽出版社Universal、Concord、ABKCOとの紛争で、双方とも自らに有利なサマリージャッジメントを下すようEumi Lee判事を説得しようとした。"
+              },
+              {
+                "t": "p",
+                "x": "審理で最も興味深かったのは、出版社が持つ人間の手による歌詞で学習したClaudeが新たな歌詞を出力することが、原曲の市場価値を薄めるかどうかという点だった。"
+              },
+              {
+                "t": "p",
+                "x": "出版社側のMatthew J Oppenheimは、Claudeが6か月間に「合成歌詞」のリクエストを12万件近く受けた証拠があると述べ、AI生成（AI-generated）の音楽は「容易に市場を圧倒しうる」と主張した。"
+              },
+              {
+                "t": "p",
+                "x": "Lee判事は、この市場の希釈を示す具体的な証拠を求めているようだった。Anthropicの弁護士Sonal Mehtaは「記録には音楽業界の破滅を示すものは何もない」と述べ、Universalが投資家に対し、AIは音楽業界にとって「圧倒的に差し引きプラス」だと説明してきたことにも触れた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "出版商：Claude生成歌词\n稀释了真实歌词市场",
+          "body": "UMG、Concord和ABKCO在法庭上称，Claude的AI生成歌词稀释真实歌词市场。",
+          "mini_headline": "Claude歌词“稀释”真作",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+              },
+              {
+                "t": "p",
+                "x": "AI训练是否构成美国版权法下的合理使用，这一问题再次在美国法庭上接受审理。这次是Anthropic与Universal、Concord和ABKCO三家音乐出版商之间的纠纷，双方都试图说服Eumi Lee法官作出对己方有利的简易判决。"
+              },
+              {
+                "t": "p",
+                "x": "听证会上最引人关注的部分，是Claude在以出版商的人类创作歌词训练后输出新歌词，是否会稀释原曲的市场价值。"
+              },
+              {
+                "t": "p",
+                "x": "代表出版商发言的Matthew J Oppenheim表示，有证据显示Claude在六个月内收到了近12万次“合成歌词”请求，并称AI生成（AI-generated）的音乐“很容易压垮市场”。"
+              },
+              {
+                "t": "p",
+                "x": "Lee法官似乎希望看到这种市场稀释的切实证据。Anthropic的律师Sonal Mehta表示，“记录中没有任何内容表明音乐产业将面临厄运”，并补充说Universal曾对投资者表示，AI对音乐产业而言“压倒性地是净利好”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Editoras: las letras de Claude\ndiluyen el mercado real",
+          "body": "UMG, Concord y ABKCO dijeron ante el tribunal que las letras de IA de Claude diluyen el mercado de las letras reales.",
+          "mini_headline": "Claude 'diluye' las letras reales",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+              },
+              {
+                "t": "p",
+                "x": "Un tribunal de Estados Unidos volvió a examinar si el entrenamiento de IA constituye uso legítimo según la ley de derechos de autor estadounidense, esta vez en la disputa entre Anthropic y las editoras musicales Universal, Concord y ABKCO, en la que ambas partes intentaron convencer a la jueza Eumi Lee de dictar sentencia sumaria a su favor."
+              },
+              {
+                "t": "p",
+                "x": "La parte más interesante de la audiencia giró en torno a si las nuevas letras que genera Claude, tras entrenarse con letras creadas por personas de las editoras, diluyen el valor de mercado de las canciones originales."
+              },
+              {
+                "t": "p",
+                "x": "En nombre de las editoras, Matthew J Oppenheim afirmó que hay pruebas de que Claude recibió casi 120.000 solicitudes de “letras sintéticas” en un periodo de seis meses, y sostuvo que la música generada por IA (AI-generated) “podría saturar fácilmente el mercado”."
+              },
+              {
+                "t": "p",
+                "x": "La jueza Lee pareció pedir pruebas tangibles de esa dilución del mercado. La abogada de Anthropic, Sonal Mehta, dijo que “no hay nada en el expediente que muestre una catástrofe para la industria musical” y añadió que Universal ha dicho a sus inversores que la IA es “abrumadoramente positiva en términos netos” para la industria musical."
+              }
+            ]
+          }
+        }
+      },
+      "_i18n_passed": {
+        "ko": {
+          "headline": "출판사 “Claude 가사\n진짜 가사 시장 희석”",
+          "body": "UMG 등 출판사는 Claude의 가사가 실제 가사 시장을 희석한다고 주장했다.",
+          "mini_headline": "Claude 가사가 진짜를 ‘희석’",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+              },
+              {
+                "t": "p",
+                "x": "AI 학습이 미국 저작권법상 공정 이용에 해당하는지가 다시 한번 미국 법정에서 다뤄졌다. 이번에는 Anthropic과 음악 출판사 Universal, Concord, ABKCO 간 분쟁으로, 양측은 각자에게 유리한 약식 판결을 내려 달라며 Eumi Lee 판사를 설득하려 했다."
+              },
+              {
+                "t": "p",
+                "x": "심리에서 가장 흥미로운 대목은 출판사들이 보유한, 사람이 쓴 가사로 학습한 Claude가 새 가사를 출력하는 것이 원곡의 시장 가치를 희석하는지를 둘러싼 논쟁이었다."
+              },
+              {
+                "t": "p",
+                "x": "출판사 측 Matthew J Oppenheim은 Claude가 6개월 동안 “합성 가사” 요청을 12만 건 가까이 받았다는 증거가 있다며, AI가 만든 음악(AI-generated)이 “시장을 쉽게 압도할 수 있다”고 주장했다."
+              },
+              {
+                "t": "p",
+                "x": "Lee 판사는 이런 시장 희석을 보여 주는 구체적 증거를 원하는 듯했다. Anthropic 측 변호인 Sonal Mehta는 “기록 어디에도 음악 산업의 파멸을 보여 주는 것은 없다”며, Universal이 투자자들에게 AI가 음악 산업에 “압도적으로 순이익”이라고 말해 왔다고 덧붙였다."
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "出版社「Claudeの歌詞が\n本物の価値を薄める」",
+          "body": "UMGなどの出版社は、ClaudeのAI歌詞が本物の歌詞市場を薄めると法廷で訴えた。",
+          "mini_headline": "Claudeの歌詞は本物を「薄める」",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+              },
+              {
+                "t": "p",
+                "x": "AI学習が米国著作権法上のフェアユースに当たるかどうかが、再び米国の法廷で争われた。今回はAnthropicと音楽出版社Universal、Concord、ABKCOとの紛争で、双方とも自らに有利なサマリージャッジメントを下すようEumi Lee判事を説得しようとした。"
+              },
+              {
+                "t": "p",
+                "x": "審理で最も興味深かったのは、出版社が持つ人間の手による歌詞で学習したClaudeが新たな歌詞を出力することが、原曲の市場価値を薄めるかどうかという点だった。"
+              },
+              {
+                "t": "p",
+                "x": "出版社側のMatthew J Oppenheimは、Claudeが6か月間に「合成歌詞」のリクエストを12万件近く受けた証拠があると述べ、AI生成（AI-generated）の音楽は「容易に市場を圧倒しうる」と主張した。"
+              },
+              {
+                "t": "p",
+                "x": "Lee判事は、この市場の希釈を示す具体的な証拠を求めているようだった。Anthropicの弁護士Sonal Mehtaは「記録には音楽業界の破滅を示すものは何もない」と述べ、Universalが投資家に対し、AIは音楽業界にとって「圧倒的に差し引きプラス」だと説明してきたことにも触れた。"
+              }
+            ]
+          }
+        },
+        "zh": {
+          "headline": "出版商：Claude生成歌词\n稀释了真实歌词市场",
+          "body": "UMG、Concord和ABKCO在法庭上称，Claude的AI生成歌词稀释真实歌词市场。",
+          "mini_headline": "Claude歌词“稀释”真作",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+              },
+              {
+                "t": "p",
+                "x": "AI训练是否构成美国版权法下的合理使用，这一问题再次在美国法庭上接受审理。这次是Anthropic与Universal、Concord和ABKCO三家音乐出版商之间的纠纷，双方都试图说服Eumi Lee法官作出对己方有利的简易判决。"
+              },
+              {
+                "t": "p",
+                "x": "听证会上最引人关注的部分，是Claude在以出版商的人类创作歌词训练后输出新歌词，是否会稀释原曲的市场价值。"
+              },
+              {
+                "t": "p",
+                "x": "代表出版商发言的Matthew J Oppenheim表示，有证据显示Claude在六个月内收到了近12万次“合成歌词”请求，并称AI生成（AI-generated）的音乐“很容易压垮市场”。"
+              },
+              {
+                "t": "p",
+                "x": "Lee法官似乎希望看到这种市场稀释的切实证据。Anthropic的律师Sonal Mehta表示，“记录中没有任何内容表明音乐产业将面临厄运”，并补充说Universal曾对投资者表示，AI对音乐产业而言“压倒性地是净利好”。"
+              }
+            ]
+          }
+        },
+        "es": {
+          "headline": "Editoras: las letras de Claude\ndiluyen el mercado real",
+          "body": "UMG, Concord y ABKCO dijeron ante el tribunal que las letras de IA de Claude diluyen el mercado de las letras reales.",
+          "mini_headline": "Claude 'diluye' las letras reales",
+          "full": {
+            "mode": "summary",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://storage.ghost.io/c/b6/e7/b6e72f7d-e916-4d62-ba8b-51d004f69097/content/images/size/w1200/2026/10/anthropic.png"
+              },
+              {
+                "t": "p",
+                "x": "Un tribunal de Estados Unidos volvió a examinar si el entrenamiento de IA constituye uso legítimo según la ley de derechos de autor estadounidense, esta vez en la disputa entre Anthropic y las editoras musicales Universal, Concord y ABKCO, en la que ambas partes intentaron convencer a la jueza Eumi Lee de dictar sentencia sumaria a su favor."
+              },
+              {
+                "t": "p",
+                "x": "La parte más interesante de la audiencia giró en torno a si las nuevas letras que genera Claude, tras entrenarse con letras creadas por personas de las editoras, diluyen el valor de mercado de las canciones originales."
+              },
+              {
+                "t": "p",
+                "x": "En nombre de las editoras, Matthew J Oppenheim afirmó que hay pruebas de que Claude recibió casi 120.000 solicitudes de “letras sintéticas” en un periodo de seis meses, y sostuvo que la música generada por IA (AI-generated) “podría saturar fácilmente el mercado”."
+              },
+              {
+                "t": "p",
+                "x": "La jueza Lee pareció pedir pruebas tangibles de esa dilución del mercado. La abogada de Anthropic, Sonal Mehta, dijo que “no hay nada en el expediente que muestre una catástrofe para la industria musical” y añadió que Universal ha dicho a sus inversores que la IA es “abrumadoramente positiva en términos netos” para la industria musical."
               }
             ]
           }

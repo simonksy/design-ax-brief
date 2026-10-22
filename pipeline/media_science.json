@@ -1,7 +1,31 @@
-{"date":"2026-10-22","section":"science","media":[
-{"id":"science-nz-rain","type":"image","src":"pipeline/media/science-nz-rain.jpg"},
-{"id":"science-krict-lab","type":"image","src":"pipeline/media/science-krict-lab.jpg"},
-{"id":"science-fairstress","type":"image","src":"pipeline/media/science-fairstress.png"},
-{"id":"science-sodium-ion","type":"image","src":"pipeline/media/science-sodium-ion.jpg"},
-{"id":"science-glucose-sensing","type":"image","src":"pipeline/media/science-glucose-sensing.jpg"}
-]}
+{
+  "date": "2026-10-23",
+  "section": "science",
+  "media": [
+    {
+      "id": "science-navier-stokes-proof",
+      "type": "image",
+      "src": "pipeline/media/science-navier-stokes-proof.jpg"
+    },
+    {
+      "id": "science-fusion-plasma-chip",
+      "type": "image",
+      "src": "pipeline/media/science-fusion-plasma-chip.jpg"
+    },
+    {
+      "id": "science-quantum-sim-agents",
+      "type": "image",
+      "src": "pipeline/media/science-quantum-sim-agents.jpg"
+    },
+    {
+      "id": "science-chatbot-delusions",
+      "type": "image",
+      "src": "pipeline/media/science-chatbot-delusions.jpg"
+    },
+    {
+      "id": "science-bee-buzz-audio",
+      "type": "image",
+      "src": "pipeline/media/science-bee-buzz-audio.jpg"
+    }
+  ]
+}

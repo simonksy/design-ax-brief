@@ -1,80 +1,48 @@
 {
   "section": "medicine",
-  "category": "medicine",
-  "now_iso": "2026-10-21T22:00:00Z",
+  "generated_at": "2026-10-22T22:00:32Z",
   "window_hours": 336,
   "items": [
     {
-      "title": "A Generative AI-powered navigation system for precision CBCT-guided lung biopsies: a randomized controlled trial - npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03355-1",
-      "source": "npj Digital Medicine",
+      "title": "American Medical Association CEO talks regulating AI care",
+      "url": "https://endpoints.news/american-medical-association-ceo-talks-regulating-ai-care/",
+      "source": "Endpoints News",
       "category": "medicine",
-      "published_iso": "2026-10-21T00:00:00Z",
-      "excerpt": "Lung puncture biopsy is the gold standard for the qualitative diagnosis of lung nodules. Cone Beam CT (CBCT) is commonly used for guiding punctures to locate lung nodules. However, the poor quality of CBCT images and the limited intelligence of surgical guidance systems have lowered the efficiency of puncture procedures, particularly for small and ",
-      "og_image": ""
+      "published_iso": "2026-10-22T15:51:50+00:00",
+      "excerpt": "AMA CEO John Whyte warns against weak oversight as FDA races to set rules for AI medical devices, including generative AI tools that act on patients directly.",
+      "og_image": "https://endpoints.news/wp-content/uploads/2024/12/Healthtech_social.jpg",
+      "history_match": {
+        "score": 0.158,
+        "date": "2026-10-16",
+        "url": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+        "title": "AMA releases governance framework for agentic AI in healthcare",
+        "band": "related"
+      }
     },
     {
-      "title": "Multi-site real-world performance of commercial AI for pulmonary and incidental pulmonary embolism detection - npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03418-3",
-      "source": "npj Digital Medicine",
+      "title": "Healthcare industry weighs in on evidence standards for generative AI medical devices",
+      "url": "https://endpoints.news/healthcare-industry-weighs-in-on-evidence-standards-for-generative-ai-medical-devices/",
+      "source": "Endpoints News",
       "category": "medicine",
-      "published_iso": "2026-10-21T00:00:00Z",
-      "excerpt": "Pulmonary embolism (PE) is a leading cause of cardiovascular mortality, yet the real-world performance of FDA-cleared AI detection models remains incompletely characterized. We retrospectively evaluated two FDA-cleared AI algorithms from a single commercial platform (Aidoc Medical BriefCase)—one for PE triage on dedicated CT pulmonary angiography (",
-      "og_image": ""
+      "published_iso": "2026-10-22T12:30:01+00:00",
+      "excerpt": "FDA is weighing evidence standards for generative AI medical devices such as prescription bots; AMA opposes accepting upfront uncertainty while ATA Action backs post-market monitoring.",
+      "og_image": "https://endpoints.news/wp-content/uploads/2025/04/FDA-AP-social21.jpg",
+      "history_match": {
+        "score": 0.177,
+        "date": "2026-10-16",
+        "url": "https://www.healthcaredive.com/news/ama-releases-governance-framework-for-agentic-ai-in-healthcare/833120/",
+        "title": "AMA releases governance framework for agentic AI in healthcare",
+        "band": "related"
+      }
     },
     {
-      "title": "Towards reliable morphological subtyping and cancer detection on Barrett’s esophagus pathology through ensembling foundation models - npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03329-3",
-      "source": "npj Digital Medicine",
+      "title": "Developers, not doctors, should be held accountable for generative AI medical devices, providers say",
+      "url": "https://www.healthcaredive.com/news/developers-not-doctors-held-accountable-generative-ai-medical-devices-fda/833738/",
+      "source": "Healthcare Dive",
       "category": "medicine",
-      "published_iso": "2026-10-21T00:00:00Z",
-      "excerpt": "The reliability of emergent histopathology foundation models (Histo-FMs) for real-world diagnostic tasks remains unproven. Given the complexity of diagnostic tasks and the challenges inherent in real-world data, we utilized Histo-FMs to investigate their utility for morphological subtyping of Barrett’s esophagus (BE) and detecting esophageal adenoc",
-      "og_image": ""
-    },
-    {
-      "title": "Avenda Health adds intraoperative Surgery Mode to Unfold AI",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15837947/avenda-avenda-health-adds-intraoperative-surgery-mode-to-unfold-ai",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-10-20T20:51:49.000Z",
-      "excerpt": "Avenda Health added an intraoperative Surgery Mode to Unfold AI, letting surgeons use AI-generated prostate cancer maps built from a patient's MRI, biopsy and other data during procedures.",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
-    },
-    {
-      "title": "AI leads to lower turnaround times for high-volume imaging",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/article/15836861/ai-leads-to-lower-turnaround-times-for-highvolume-imaging",
-      "source": "AuntMinnie",
-      "category": "medicine",
-      "published_iso": "2026-10-08T12:22:00.000Z",
-      "excerpt": "A study found AI use lowered report turnaround times for high-volume imaging, and that most AI-related latency came from data routing rather than the algorithms themselves.",
-      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-medical-healthcare-tools-400.drf6j1JBuf.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
-    },
-    {
-      "title": "FDA clears Elucid's new AI-enabled FFR-CT software",
-      "url": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-elucids-new-ai-enabled-ffr-ct-software",
-      "source": "Cardiovascular Business",
-      "category": "medicine",
-      "published_iso": "2026-10-21T19:13:24+0000",
-      "excerpt": "FDA cleared Elucid's FFR-IQ, AI software that estimates fractional flow reserve from coronary CT angiography using coronary anatomy and plaque composition to guide treatment decisions.",
-      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
-    },
-    {
-      "title": "CT tool may detect pulmonary fibrosis progression more than 2 years sooner",
-      "url": "https://radiologybusiness.com/topics/medical-imaging/computed-tomography-ct/ct-tool-may-detect-pulmonary-fibrosis-progression-more-2-years-sooner",
-      "source": "Radiology Business",
-      "category": "medicine",
-      "published_iso": "2026-10-20T20:13:53+0000",
-      "excerpt": "Artificial intelligence-powered quantitative CT analysis is capable of identifying signs of pulmonary fibrosis months before clinical diagnosis, according to a new multicenter study.",
-      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
-    },
-    {
-      "title": "FDA Official Believes GenAI-enabled Tools Will Need to Be Assessed Like a Physician",
-      "url": "https://medcitynews.com/2026/10/fda-official-believes-genai-enabled-tools-will-need-to-be-assessed-like-a-physician/",
-      "source": "MedCity News",
-      "category": "medicine",
-      "published_iso": "2026-10-20T22:23:38+00:00",
-      "excerpt": "Rick Abramson, a radiologist by training and the director of FDA's Digital Health Center of Excellence said, \"We ended up putting out this idea that maybe these devices are starting to behave a little bit more like me as a physician than a heart valve or a defibrillator.\"",
-      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2023/09/GettyImages-1377896928.jpg"
+      "published_iso": "2026-10-22T11:54:47-04:00",
+      "excerpt": "Provider groups are lobbying the FDA to make tech companies responsible for the safety and performance of generative AI-backed medical devices, arguing makers are best equipped to evaluate them.",
+      "og_image": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
     },
     {
       "title": "AMA Calls for Risk-Based GenAI Oversight to Protect Patients and Support Responsible Innovation",
@@ -82,28 +50,37 @@
       "source": "MedCity News",
       "category": "medicine",
       "published_iso": "2026-10-21T17:25:01+00:00",
-      "excerpt": "As generative AI moves toward performing increasingly consequential clinical functions, the American Medical Association (AMA) is urging the U.S. Food and Drug Administration to address a foundational question: Who is responsible for ensuring that these tools remain safe once they enter clinical practice?",
+      "excerpt": "As generative AI takes on more consequential clinical functions, the AMA urges FDA to settle who is responsible for keeping these tools safe once they enter clinical practice, via risk-based oversight.",
       "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2023/04/GettyImages-1474155562.jpg"
     },
     {
-      "title": "Epic launches Connectors to link its AI tools with third-party apps",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/epic-launches-connectors-link-its-ai-tools-third-party-apps",
-      "source": "Fierce Healthcare",
+      "title": "FDA Official Believes GenAI-enabled Tools Will Need to Be Assessed Like a Physician",
+      "url": "https://medcitynews.com/2026/10/fda-official-believes-genai-enabled-tools-will-need-to-be-assessed-like-a-physician/",
+      "source": "MedCity News",
       "category": "medicine",
-      "published_iso": "2026-10-21T08:00:00-0400",
-      "excerpt": "Epic launched a new capability that lets its artificial intelligence agents access information and perform tasks in third-party applications. | Through \"Connectors,\" developers can connect their apps to Epic's AI tools—Emmie, Art and Penny—as well as custom AI agents organizations create through Agent Factory.",
-      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe"
+      "published_iso": "2026-10-20T22:23:38+00:00",
+      "excerpt": "FDA Digital Health Center of Excellence director Rick Abramson says generative AI devices behave 'more like me as a physician than a heart valve', signaling physician-style evaluation.",
+      "og_image": "https://medcitynews.com/wp-content/uploads/sites/7/2023/09/GettyImages-1377896928.jpg"
     },
     {
-      "title": "Doximity adds UpToDate to Ask in push to become doctors’ go-to AI platform",
+      "title": "Sentara Health deploys new AI case management tool co-developed with Regard",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard",
+      "source": "Fierce Healthcare",
+      "category": "medicine",
+      "published_iso": "2026-10-22T14:30:00-04:00",
+      "excerpt": "Sentara Health rolled out an AI case-management tool built with Regard that lets case managers query charts in plain language for discharge planning; it plans to expand into acute and ambulatory care, projecting ~90,000 hours saved.",
+      "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
+    },
+    {
+      "title": "Doximity adds UpToDate to Ask in push to become doctors' go-to AI platform",
       "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-adds-uptodate-ask-push-become-doctors-go-ai-platform",
       "source": "Fierce Healthcare",
       "category": "medicine",
-      "published_iso": "2026-10-21T16:30:00-0400",
-      "excerpt": "Doximity inked a partnership with Wolters Kluwer Health to embed UpToDate's evidence-based clinical content directly within Doximity Ask, the company’s AI clinical decision support tool. | Doximity inked a partnership with Wolters Kluwer to embed UpToDate's evidence-based clinical content directly within Doximity Ask, the company’s AI clinical deci",
+      "published_iso": "2026-10-21T16:30:00-04:00",
+      "excerpt": "Doximity partnered with Wolters Kluwer to embed UpToDate's evidence-based clinical content directly inside Doximity Ask, its AI clinical decision support tool for physicians.",
       "og_image": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2229247291.jpg?VersionId=iT2xffiTsfbfPwNM_SW3dz_eFZZ.4yvd",
       "history_match": {
-        "score": 0.323,
+        "score": 0.334,
         "date": "2026-10-09",
         "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer",
         "title": "Suki launches 'Ask' feature for clinical decision support driven by Wolters Kluwer UpToDate AI API",
@@ -111,33 +88,15 @@
       }
     },
     {
-      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-      "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-      "source": "Ars Technica",
+      "title": "Artificial intelligence checks the trustworthiness of breast cancer AI models",
+      "url": "https://radiologybusiness.com/topics/artificial-intelligence/artificial-intelligence-checks-trustworthiness-breast-cancer-ai-models",
+      "source": "Radiology Business",
       "category": "medicine",
-      "published_iso": "2026-10-21T15:14:07+00:00",
-      "excerpt": "OpenEvidence is booming despite questions about accuracy and ads.",
-      "og_image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-1152x648.jpg"
-    },
-    {
-      "title": "Before the ambulance arrives: How AI is helping the NHS rethink patient care",
-      "url": "https://news.microsoft.com/source/emea/features/before-the-ambulance-arrives-how-ai-is-helping-the-nhs-rethink-patient-care/",
-      "source": "Microsoft Source EMEA",
-      "category": "medicine",
-      "published_iso": "2026-10-21T09:30:06+00:00",
-      "excerpt": "Yorkshire Ambulance Service NHS Trust is using AI for planning, training and call analysis before crews reach patients, as the NHS rethinks pre-hospital emergency care.",
-      "og_image": "https://news.microsoft.com/source/emea/wp-content/uploads/2026/10/HeroImage_Microsoft-CoPilot-YAS-Esme-Mai-119_preview.jpg"
-    },
-    {
-      "title": "Why this startup is taking its AI to predict breast cancer risk directly to patients",
-      "url": "https://www.statnews.com/2026/10/08/why-clairity-took-breast-cancer-risk-prediction-ai-directly-to-patients/",
-      "source": "STAT",
-      "category": "medicine",
-      "published_iso": "2026-10-08T08:30:00+00:00",
-      "excerpt": "A startup didn't want to wait for doctors and insurers to get behind its breast-cancer risk prediction AI. So it's going directly to patients.",
-      "og_image": "https://www.statnews.com/wp-content/uploads/2026/10/AdobeStock_295013946-1024x576.jpeg",
+      "published_iso": "2026-10-21T22:16:44+00:00",
+      "excerpt": "University of Pittsburgh researchers built an uncertainty-weighted deep learning model for mammography that outputs a confidence score alongside each prediction, flagging cases where breast cancer AI may be unreliable.",
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-06/istock-2202666684.jpg?h=140710cd&itok=XUsmUugX",
       "history_match": {
-        "score": 0.248,
+        "score": 0.155,
         "date": "2026-10-08",
         "url": "https://www.auntminnie.com/clinical-news/womens-imaging/news/15836407/clairity-expands-access-to-ai-breast-cancer-risk-tool-via-everlywell",
         "title": "Clairity expands access to AI breast cancer risk tool via Everlywell",
@@ -145,99 +104,133 @@
       }
     },
     {
-      "title": "Evaluating Large Language Models for Mental Health Care",
-      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2855663",
-      "source": "JAMA Psychiatry",
-      "published_iso": "2026-10-21T15:00:29Z",
-      "excerpt": "A JAMA Psychiatry Viewpoint calls for community-wide coordination to evaluate large language models before and during their use in mental health care.",
-      "og_image": "",
+      "title": "Body composition changes on CT could signal pancreatic cancer years before diagnosis",
+      "url": "https://radiologybusiness.com/topics/medical-imaging/computed-tomography-ct/body-composition-changes-ct-could-signal-pancreatic-cancer-years-diagnosis",
+      "source": "Radiology Business",
       "category": "medicine",
+      "published_iso": "2026-10-21T16:43:30+00:00",
+      "excerpt": "Mayo Clinic used an AI body-composition tool on routine abdominal CTs of 1,825 pancreatic cancer patients and 3,650 controls, finding steeper fat loss up to three years before diagnosis (Pancreatology).",
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2026-04/istock-909971794_1.jpg?h=125a58ae&itok=Hx6WtZ8E",
       "history_match": {
-        "score": 0.172,
-        "date": "2026-10-17",
-        "url": "https://ai.nejm.org/doi/full/10.1056/AIoa2600537",
-        "title": "Comparative Cost of Care Recommended by Large Language Models versus Treating Physicians",
+        "score": 0.178,
+        "date": "2026-10-12",
+        "url": "https://www.nature.com/articles/s43856-026-01952-5",
+        "title": "Inferring clinically relevant molecular subtypes of pancreatic cancer from routine histopathology using deep learning",
         "band": "related"
       }
     },
     {
-      "title": "Multimodal Machine Learning-Based Prediction of Relapse in Major Depressive Disorder",
-      "url": "https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2855664",
-      "source": "JAMA Psychiatry",
-      "published_iso": "2026-10-21T15:00:28Z",
-      "excerpt": "A multimodal machine learning model predicts relapse risk in patients with major depressive disorder, aiming at early identification for personalized preventive strategies.",
-      "og_image": "",
+      "title": "CT tool may detect pulmonary fibrosis progression more than 2 years sooner",
+      "url": "https://radiologybusiness.com/topics/medical-imaging/computed-tomography-ct/ct-tool-may-detect-pulmonary-fibrosis-progression-more-2-years-sooner",
+      "source": "Radiology Business",
       "category": "medicine",
+      "published_iso": "2026-10-20T20:13:53+00:00",
+      "excerpt": "Brainomix's FDA-cleared AI quantitative CT tool e-Lung flagged pulmonary fibrosis progression an average of 16 months (up to 28) before clinical diagnosis in 509 patients across three U.S. centers.",
+      "og_image": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG",
       "history_match": {
-        "score": 0.206,
-        "date": "2026-10-20",
-        "url": "https://www.nature.com/articles/s41746-026-03392-w",
-        "title": "A generalizable deep learning model for predicting opioid use disorder using language modeling for cross-EHR data harmonization",
+        "score": 0.174,
+        "date": "2026-10-22",
+        "url": "https://www.nature.com/articles/s41746-026-03418-3",
+        "title": "Multi-site real-world performance of commercial AI for pulmonary and incidental pulmonary embolism detection",
         "band": "related"
       }
     },
     {
-      "title": "Agentic Automation of BT-RADS Scoring Using an End-to-End System for Standardized Glioma Follow-up",
-      "url": "https://pubs.rsna.org/doi/10.1148/ryai.260234",
-      "source": "Radiology: Artificial Intelligence",
-      "published_iso": "2026-10-21T14:04:41Z",
-      "excerpt": "An end-to-end multiagent LLM and CNN system automates Brain Tumor Reporting and Data System (BT-RADS) scoring of posttreatment glioma MRI, integrating imaging trends, medication effects and radiation timing.",
-      "og_image": "",
-      "category": "medicine"
+      "title": "FDA clears Elucid's new AI-enabled FFR-CT software",
+      "url": "https://cardiovascularbusiness.com/topics/artificial-intelligence/fda-clears-elucids-new-ai-enabled-ffr-ct-software",
+      "source": "Cardiovascular Business",
+      "category": "medicine",
+      "published_iso": "2026-10-21T19:13:24+00:00",
+      "excerpt": "FDA cleared Elucid's AI-based FFR-IQ, which estimates fractional flow reserve from coronary CT angiography using plaque composition; it reported 92.2% sensitivity and 93.1% specificity, making Elucid the third U.S. FFR-CT vendor.",
+      "og_image": "https://cardiovascularbusiness.com/sites/default/files/styles/facebook/public/2026-10/elucid_ffr-iq_ffr-ct_ai_software_3.png?h=d1699ae9&itok=WmZZy_qa"
     },
     {
-      "title": "Can commercial artificial intelligence replace onsite cytopathologists for rapid onsite evaluation during EUS-guided tissue acquisition?",
-      "url": "https://gut.bmj.com/content/early/2026/10/16/gutjnl-2026-339837",
-      "source": "Gut (BMJ)",
-      "published_iso": "2026-10-16T00:00:00Z",
-      "excerpt": "Rapid onsite evaluation (ROSE) by a cytopathologist improves EUS biopsy yield but is not universally available due to workforce shortages; this study tests whether commercial deep-learning AI can stand in for the onsite cytopathologist.",
-      "og_image": "https://gut.bmj.com/sites/default/files/highwire/gutjnl/75/11.cover-source.jpg",
-      "category": "medicine"
+      "title": "LLMs mostly avoid unnecessary care in Choosing Wisely tests",
+      "url": "https://www.auntminnie.com/home/article/15837911/llms-mostly-avoid-unnecessary-care-in-choosing-wisely-tests",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-10-19T21:00:00.000Z",
+      "excerpt": "In an Annals of Internal Medicine study, LLMs recommended potentially unnecessary care in about 5% of Choosing Wisely scenarios, but over 40% of responses recommended thyroid ultrasound for small incidental nodules.",
+      "og_image": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
     },
     {
-      "title": "AI-Assisted Molecular Review Refines SMO Inhibitor Candidacy in SHH Medulloblastoma",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIcs2600997",
-      "source": "NEJM AI",
-      "published_iso": "2026-10-16T14:00:33Z",
-      "excerpt": "An NEJM AI case study shows AI-assisted molecular review refining which patients with SHH-subgroup medulloblastoma are candidates for SMO inhibitor therapy.",
-      "og_image": "",
-      "category": "medicine"
+      "title": "Manual, DL-generated segmentations differ in radiomic features",
+      "url": "https://www.auntminnie.com/clinical-news/mri/article/15837496/manual-dlgenerated-segmentations-differ-in-radiomic-features",
+      "source": "AuntMinnie",
+      "category": "medicine",
+      "published_iso": "2026-10-14T19:29:21.000Z",
+      "excerpt": "An AJR study from Cincinnati Children's found deep learning-generated segmentations on abdominal CT and MRI yield radiomic features with poor-to-fair agreement and bias versus manual segmentation.",
+      "og_image": "https://img.auntminnie.com/files/base/smg/all/image/2023/10/fat_tissue_adipocytes_400.653ffc7d50202.png"
     },
     {
-      "title": "Comprehensive or Wasteful? Clinical AI and the Up-front Workup",
-      "url": "https://ai.nejm.org/doi/full/10.1056/AIe2601260",
-      "source": "NEJM AI",
-      "published_iso": "2026-10-15T14:02:21Z",
-      "excerpt": "An NEJM AI editorial examines whether clinical AI tools that recommend extensive up-front diagnostic workups make care more comprehensive or more wasteful.",
-      "og_image": "",
-      "category": "medicine"
+      "title": "AI 도입하면 끝?…세계 병원들 \"AI 성과를 숫자로 증명하라\"",
+      "url": "https://www.medigatenews.com/news/1387980206",
+      "source": "메디게이트뉴스",
+      "category": "medicine",
+      "published_iso": "2026-10-23T06:21:00+09:00",
+      "excerpt": "세계병원총회 세션에서 시더스사이나이·인도 릴라이언스재단병원·지멘스 헬시니어스 등이 병원 AI 도입 경험을 공유하며 업무시간 절감·환자안전 개선을 수치로 입증해야 한다고 강조했다.",
+      "og_image": "https://medigatenews.com/file/news/535889"
     },
     {
-      "title": "화순전남대병원, AI 의무기록 자동화 시스템 구축",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014480",
+      "title": "Silent evaluation reveals context-dependent validity of automated metrics for AI-generated clinical messages",
+      "url": "https://www.nature.com/articles/s41746-026-03211-2",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-10-21T00:00:00Z",
+      "excerpt": "A staged rollout of GPT-generated draft replies to patient portal messages among 30 primary care physicians (Sept 2023-Aug 2024) tested whether automated metrics reflect the drafts' real clinical utility.",
+      "og_image": ""
+    },
+    {
+      "title": "GUARD-LGG: a glioma upfront AI-driven radiotherapy response decipher for lower-grade glioma",
+      "url": "https://www.nature.com/articles/s41746-026-03112-4",
+      "source": "npj Digital Medicine",
+      "category": "medicine",
+      "published_iso": "2026-10-20T00:00:00Z",
+      "excerpt": "GUARD-LGG, a machine learning model trained on 963 patients, predicts early radiotherapy response in lower-grade glioma before treatment begins.",
+      "og_image": ""
+    },
+    {
+      "title": "Using AI to offer personalized health advice",
+      "url": "https://www.nature.com/articles/d41586-026-03065-4",
+      "source": "Nature",
+      "category": "medicine",
+      "published_iso": "2026-10-21T00:00:00Z",
+      "excerpt": "The use of AI tools in medicine is increasing. What health-advice technologies are on the horizon, and how should they be tested?",
+      "og_image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03065-4/d41586-026-03065-4_53883050.jpg",
+      "history_match": {
+        "score": 0.16,
+        "date": "2026-10-21",
+        "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+        "title": "Robotic therapy for stroke patients",
+        "band": "related"
+      }
+    },
+    {
+      "title": "'AI sandboxes' are all the rage. Advocates scramble to control their future",
+      "url": "https://www.statnews.com/2026/10/15/scramble-to-shape-regulations-around-state-ai-sandboxes-health-tech/",
+      "source": "STAT",
+      "category": "medicine",
+      "published_iso": "2026-10-15T13:14:37+00:00",
+      "excerpt": "STAT Health Tech: the groups vying to shape the rules that would govern state AI regulatory sandboxes for health care AI.",
+      "og_image": "https://www.statnews.com/wp-content/uploads/2024/02/AdobeStock_540774532-1024x576.jpeg"
+    },
+    {
+      "title": "“목 찍다 놓친 폐암, AI가 잡아낸다” 의료영상 ‘기회검진’ 새 지평",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014596",
       "source": "의학신문",
       "category": "medicine",
-      "published_iso": "2026-10-21T13:12:40+09:00",
-      "excerpt": "[의학신문·일간보사=차원준 기자] 화순전남대학교병원(병원장 이완식)이 의료 특화 음성인식과 생성형 AI, AI 에이전트 기술을 결합한 의무기록 자동화 시스템을 구",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014480_415400_119.jpg"
+      "published_iso": "2026-10-22T13:36:27+09:00",
+      "excerpt": "코어라인소프트의 흉부 CT 폐결절 AI 'AVIEW LCS'로 목 CT 판독에서 놓치기 쉬운 초기 폐암 병변을 검출한 연구가 Korean Journal of Radiology에 실렸다. 8만1794명 추적에서 폐암 확진자 123명의 과거 목 CT에 병변이 이미 찍혀 있었다.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
     },
     {
-      "title": "복지부·WHO, AI 헬스케어 서울선언문 채택...의료 AI 최종 판단은 인간이",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014484",
+      "title": "[KIMES BUSAN 특별좌담회] 한·중·일 ‘혁신 의료기기 규제’ 3국 3색",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014542",
       "source": "의학신문",
       "category": "medicine",
-      "published_iso": "2026-10-21T13:57:02+09:00",
-      "excerpt": "[의학신문·일간보사=이재원 기자] 보건복지부와 세계보건기구(WHO)가 보건의료 분야 인공지능(AI) 활용 과정에서 의료인의 감독과 인간의 최종 판단을 보장하고,",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg"
-    },
-    {
-      "title": "필립스, 100년 X-ray 기술에 AI·전동화 더하다",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014428",
-      "source": "의학신문",
-      "category": "medicine",
-      "published_iso": "2026-10-21T12:00:00+09:00",
-      "excerpt": "[의학신문·일간보사=오인규 기자] 엑스레이(X-ray) 검사와 영상 유도 시술에서는 필요한 부위를 선명하게 확인하는 것만큼 촬영을 준비하고 장비를 조작하는 과정도",
-      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014428_415346_2613.jpg"
+      "published_iso": "2026-10-23T06:00:00+09:00",
+      "excerpt": "의료 AI 기업 인허가 실무자와 중국·일본 규제 전문가가 MFDS·NMPA·PMDA 인허가 장벽과 K-의료 AI 솔루션의 해외 진출 전략을 짚은 좌담회.",
+      "og_image": "https://cdn.bosa.co.kr/news/photo/202610/3014542_415473_245.png"
     },
     {
       "title": "병원 AI 혁신의 명과 암…성과 뒤에 숨은 과제들",
@@ -245,19 +238,28 @@
       "source": "청년의사",
       "category": "medicine",
       "published_iso": "2026-10-22T06:45:02+09:00",
-      "excerpt": "인공지능(AI)이 환자의 진료 대기시간을 줄이고 의료진의 업무 부담을 덜어주는 등 의료 현장에서 성과를 내고 있지만, AI를 도입했다고 해서 반드시 진료 효율이 높아지는 것은 아니다. AI 도입에 앞장선 글로벌 병원들조차 기대했던 효과를 얻지 못하거나 현장 적용에 실패한 사례가 있었다.AI 도입의 성패를 가르는 것은 기술 자체보다 이를 어떤 목적으로 활용하고, 환자와 의료진에게 얼마나 실질적인 도움을 주느냐에 달려 있다는 지적이다.지난 21일 서울 코엑스 마곡 컨벤션센터에서 열린 ‘제49차 IHF 세계병원대회’ 둘째날 메인 세션 ‘",
+      "excerpt": "IHF 세계병원대회에서 스탠퍼드 헬스케어(약 100개 AI 도구 운영, EHR 연결 LLM 'ChatEHR'), 휴스턴 메소디스트 등 병원 경영진이 AI 도입 성과와 실패 사례를 공유했다.",
       "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202610/3043836_3047723_3123_v150.jpg"
+    },
+    {
+      "title": "\"AI 신약 개발·팬데믹 대응, 열쇠는 '데이터 공유와 협력'\"",
+      "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3043856",
+      "source": "청년의사",
+      "category": "medicine",
+      "published_iso": "2026-10-22T07:04:23+09:00",
+      "excerpt": "EMA 종양학 과학자문관은 AI가 개입된 신약 개발을 평가할 때 유익성 입증과 데이터의 전이 가능성을 본다며 글로벌 규제 조화와 데이터 공유를 강조했다.",
+      "og_image": "https://cdn.docdocdoc.co.kr/news/thumbnail/202610/3043856_3047746_1159_v150.jpg"
     }
   ],
   "dedup": {
-    "dropped": 5,
-    "kept": 20,
+    "dropped": 4,
+    "kept": 18,
     "against_days": 5
   },
   "story_dedup": {
     "history_days": 30,
     "dropped": [],
-    "review": 4,
+    "review": 7,
     "same_story_pairs": []
   },
   "history_digest": [
@@ -630,6 +632,31 @@
       "date": "2026-10-21",
       "title": "Robotic therapy for stroke patients",
       "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Avenda Health adds intraoperative Surgery Mode to Unfold AI",
+      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15837947/avenda-avenda-health-adds-intraoperative-surgery-mode-to-unfold-ai"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "복지부·WHO, AI 헬스케어 서울선언문 채택...의료 AI 최종 판단은 인간이",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014484"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Epic launches Connectors to link its AI tools with third-party apps",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/epic-launches-connectors-link-its-ai-tools-third-party-apps"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "A Generative AI-powered navigation system for precision CBCT-guided lung biopsies: a randomized controlled trial",
+      "url": "https://www.nature.com/articles/s41746-026-03355-1"
+    },
+    {
+      "date": "2026-10-22",
+      "title": "Multi-site real-world performance of commercial AI for pulmonary and incidental pulmonary embolism detection",
+      "url": "https://www.nature.com/articles/s41746-026-03418-3"
     }
   ]
 }

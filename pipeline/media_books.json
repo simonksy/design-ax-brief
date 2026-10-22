@@ -1,31 +1,7 @@
-{
-  "date": "2026-10-22",
-  "section": "books",
-  "media": [
-    {
-      "id": "books-meta-suits",
-      "type": "image",
-      "src": "pipeline/media/books-meta-suits.jpg"
-    },
-    {
-      "id": "books-boreal-orelien",
-      "type": "image",
-      "src": "pipeline/media/books-boreal-orelien.jpg"
-    },
-    {
-      "id": "books-huawei-pangu",
-      "type": "image",
-      "src": "pipeline/media/books-huawei-pangu.jpg"
-    },
-    {
-      "id": "books-soa-charter",
-      "type": "image",
-      "src": "pipeline/media/books-soa-charter.jpg"
-    },
-    {
-      "id": "books-buyer-survey",
-      "type": "image",
-      "src": "pipeline/media/books-buyer-survey.jpg"
-    }
-  ]
-}
+{"date":"2026-10-23","section":"books","media":[
+{"id":"books-kindle-plus-ai-audiobooks","type":"image","src":"pipeline/media/books-kindle-plus-ai-audiobooks.jpg"},
+{"id":"books-canada-isbn-human-author","type":"image","src":"pipeline/media/books-canada-isbn-human-author.jpg"},
+{"id":"books-meta-terms-ai-training","type":"svg"},
+{"id":"books-pla-microsoft-ai-sessions","type":"image","src":"pipeline/media/books-pla-microsoft-ai-sessions.jpg"},
+{"id":"books-mosajaein-airoku-japan","type":"image","src":"pipeline/media/books-mosajaein-airoku-japan.png"}
+]}

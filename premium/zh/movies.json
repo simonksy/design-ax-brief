@@ -7599,6 +7599,161 @@
           "x": "Sekondo通过Adobe审核后，已上架Adobe为这些应用设立的官方市场Adobe Exchange。它可在macOS和Windows上配合Claude与ChatGPT桌面应用运行。"
         }
       ]
+    },
+    "movies/movies-stage32-vetted-marketplace": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://deadline.com/wp-content/uploads/2025/07/RBCannes-e1752566295303.jpg?w=1024",
+          "cap": "Richard Botto"
+        },
+        {
+          "t": "p",
+          "x": "EXCLUSIVE：剧本平台Stage 32推出官方市场，部分目的是应对大量涌入的AI写作（AI-written）项目。"
+        },
+        {
+          "t": "p",
+          "x": "昨日上线的Stage 32 Marketplace让高管们能够发现经过人工“评估流程”全面审核的电影和TV项目。只有Stage 32成立15年来提交的、获得“出色评价”的剧本才会出现在该市场上，高管可以查看每个项目的资历、下载剧本和资料，并申请与创作者会面。"
+        },
+        {
+          "t": "p",
+          "x": "Stage 32表示，自2011年上线以来已评估235,000个项目。该市场起步时有超过4,000个项目，并向3,000名业内高管开放。"
+        },
+        {
+          "t": "p",
+          "x": "近期从Stage 32起步的项目包括Jeffrey Dean Morgan和Jack Quaid主演的惊悚片Neighborhood Watch，以及William Baldwin主演的No Address。"
+        },
+        {
+          "t": "p",
+          "x": "运营Stage 32的Richard Botto表示，平台实行严格的禁用AI政策，并把这一市场作为对抗AI垃圾内容的一种方式。"
+        },
+        {
+          "t": "p",
+          "x": "“优秀的作品从来不缺，但制片人和高管根本没有时间和资源去评估所有作品，”Botto说。他是WGA编剧，也是Sundance获奖影片Another Happy Day的制片人。"
+        },
+        {
+          "t": "p",
+          "x": "“作为编剧和制片人，我从两方面都看到了这个难题。我创建Stage 32是为了让行业联系更紧密，而Marketplace正是这一愿景的集大成。”"
+        }
+      ]
+    },
+    "movies/movies-free-previz-iron-goddess": {
+      "blocks": [
+        {
+          "t": "video",
+          "yt": "qlSI_ZbRdEc"
+        },
+        {
+          "t": "p",
+          "x": "Theoretically Media介绍了CozyClay 3.0，这是一款专为AI视频打造的免费开源3D预演工具，能让你在生成前就得到精确的镜头。它可通过Pinokio一键安装，在浏览器中运行，无需GPU。"
+        },
+        {
+          "t": "p",
+          "x": "它的智能体可以通过ChatGPT登录（Codex）或API密钥（Anthropic、OpenAI、Gemini）为你搭建场景。镜头仍需用你自己的视频模型渲染。"
+        },
+        {
+          "t": "p",
+          "x": "PJ分享的僵硬镜头解决法：如果3D引导生成的画面显得僵硬，就截取预演画面，排成故事板，再走图生视频流程，保留精确的构图、镜头和画幅比。"
+        },
+        {
+          "t": "p",
+          "x": "视频还介绍了Iron Goddess，这是一款出现在Arena对战模式中、来历不明的AI视频模型，动作幅度大且快速，但在最快的瞬间画面会模糊。此外还谈到了Kling据报道的IPO、Ideogram Vector以及Seedream 5.5泄露。"
+        }
+      ]
+    },
+    "movies/movies-sanxingdui-ai-feature": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/9c488b41-a7f8-47e6-abc7-dbedefcad4fb.jpeg",
+          "cap": "中国首部全AI生成长片《Sanxingdui》宣传物料 图片：Bona Film Group提供"
+        },
+        {
+          "t": "p",
+          "x": "中国首部获得公映许可的全AI生成（AI-generated）长片将于周五登陆影院，这对一个正在探索如何拥抱新技术又不流失观众的行业而言是一次试水。《Sanxingdui》取材于古代中华文明之谜，讲述一个横跨过去与AI塑造的未来的故事。"
+        },
+        {
+          "t": "p",
+          "x": "影片历时两年多开发，生成了超过120万张前期图像，全片迭代超过100次。制作成本超过1000万元人民币（150万美元）。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.globaltimes.cn/Portals/0/attachment/2026/2026-10-20/0e49e80c-d8e8-4140-b137-b8636d2243bd.jpeg",
+          "cap": "中国首部全AI生成长片《Sanxingdui》宣传物料 图片：Bona Film Group提供"
+        },
+        {
+          "t": "p",
+          "x": "Bona Film Group制片人兼COO Jiang Defu表示，团队遵循电影工业流程，在虚拟制作环境中按17个专业职能分工，并由审片人员逐帧审查影片。"
+        },
+        {
+          "t": "p",
+          "x": "该片此前已在Cannes亮相，周五也将在马来西亚上映。制片人Qu Jixiaojiang说：“AI在工具层面拉平了起跑线，却拉大了创作者之间的差距。”"
+        }
+      ]
+    },
+    "movies/movies-brahma-ai-face-replacement": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.awn.com/sites/default/files/styles/og_1200/public/image/featured/brahma2-1280.jpg?itok=3cjyb-Kd"
+        },
+        {
+          "t": "p",
+          "x": "10月14日，2026 Technology & Engineering Emmy的AI-Based Face Replacement and Performance-Preserving Post-Production Transformation奖项授予了Disney Research、Digital Domain、Rising Sun Pictures，以及在2025年初收购了Metaphysic照片级真实数字人技术的Brahma AI。"
+        },
+        {
+          "t": "p",
+          "x": "获奖的是Neural Performance Toolset，它首次以长片规模亮相于Robert Zemeckis执导的《Here》。联合创始人兼CTO Jo Plaete接受AWN采访，谈到了作为起点的ABBA Voyage实验以及1.5亿美元的融资。"
+        },
+        {
+          "t": "video",
+          "yt": "QGKGSbghe_4"
+        },
+        {
+          "t": "p",
+          "x": "Plaete说：“给它主摄影机拍的普通素材就行，不用标记点、不用头戴装置、不用动捕棚，它就能读取演员完整的面部表演……然后通过另一个身份重新合成这段表演。”拍摄《Here》时，Zemeckis在摄影机后六帧就能在监视器上看到25岁的Tom Hanks；最终成片包含60分钟的4K 转换。"
+        },
+        {
+          "t": "p",
+          "x": "“在电影银幕上什么都藏不住，”他说，“模型只要偏差百分之五，所有人都看得出来。”"
+        }
+      ]
+    },
+    "movies/movies-eddie-ai-plan-first": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hubfs/eddie%20ai%20updates-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Eddie AI配合NAB Show New York推出的最新更新，会在任何付费运行前先展示计划，新增Resolve Studio面板，并可导入After Effects模板。新的企业功能包括自带Anthropic (Claude)、OpenAI (ChatGPT)和Google (Gemini)密钥、本地部署运行、客户拥有IP、不使用客户数据训练，以及SOC 2 Type I和II审计与GDPR认证。"
+        },
+        {
+          "t": "video",
+          "yt": "KaiEjtkvfek"
+        },
+        {
+          "t": "p",
+          "x": "会消耗点数的提示词现在会先返回一份计划，列出每个步骤以及哪些步骤需要点数。用户可以批准、修改或删去某个步骤，在批准清单之前不会运行任何内容，也不会扣费。遇到调色这类需要选择的步骤时，Eddie会用素材中的静帧展示选项。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie%20ai%20prompts.jpg?width=1920&height=1080&name=eddie%20ai%20prompts.jpg"
+        },
+        {
+          "t": "p",
+          "x": "DaVinci Resolve Studio面板可以浏览素材箱，导入素材、时间线和多机位片段，并把剪辑结果作为新时间线发回。“Source clips”导出会生成一个重新链接到摄影机原始素材的Final Cut Pro浏览器事件，Premiere的多机位访谈剪辑现在也会重建为可切换的多机位片段。"
+        },
+        {
+          "t": "p",
+          "x": "新增了十三个单一任务页面，从去除静音和口头禅，到字幕、配音、B-roll以及竖屏改尺寸。新的工作区一栏显示节省的时长、运行的项目和导出的剪辑；团队工作区还会显示点数和预计时长，但不会给剪辑师排名，也不会对团队做对标。"
+        },
+        {
+          "t": "img",
+          "src": "https://www.redsharknews.com/hs-fs/hubfs/eddie-editor.jpg?width=1600&height=1000&name=eddie-editor.jpg"
+        }
+      ]
     }
   }
 }

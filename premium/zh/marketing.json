@@ -1978,6 +1978,139 @@
           "x": "X上PPC营销人员的反应大多持怀疑态度，其中一人表示，由于线索质量不佳，已经暂停了ChatGPT ads测试。"
         }
       ]
+    },
+    "marketing/marketing-chatgpt-ad-stack": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/shutterstock_2810482073_1600x840-92.png"
+        },
+        {
+          "t": "p",
+          "x": "OpenAI介绍了ChatGPT广告系统如何理解对话、挑选相关广告，并将广告投放与自然回答分开。OpenAI称，ChatGPT Ads上线不到200天，年化收入运行率就达到 $1 billion 的水平，已有超过100,000家广告主投放广告。"
+        },
+        {
+          "t": "p",
+          "x": "挑选广告的系统与撰写ChatGPT回答的系统分开运行，拥有各自的模型和代码。ChatGPT不会等待它；来得太晚的广告不会随该条回答出现。"
+        },
+        {
+          "t": "p",
+          "x": "被OpenAI称为\"orchestrator\"（编排器）的模型会读取对话，把相关部分转为搜索查询和嵌入向量，并在\"stateful\"（有状态）会话中持续追踪细节。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/sej_openai-orchestrator-infographic-332.png"
+        },
+        {
+          "t": "p",
+          "x": "它会检查投放资格（地理定向、政策、预算、投放节奏），评估匹配度以及可能的浏览、点击或转化，再把候选广告交给独立的竞价工具，由后者完成最终排序、定价和选择。语言模型不会直接选出胜者或设定价格。"
+        },
+        {
+          "t": "p",
+          "x": "即便赢得竞价，广告也可能在竞价后的匹配检查中被剔除，或错过投放窗口。文章未提供CPA、ROAS或转化率基准。"
+        }
+      ]
+    },
+    "marketing/marketing-cnn-international-agentic-ads": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://digiday.com/wp-content/uploads/sites/3/2026/10/interational-agentic-workflow-digiday.jpg"
+        },
+        {
+          "t": "p",
+          "x": "随着Skydance交易落定，CNN的未来有许多悬而未决之处，但CNN International通过AI智能体销售广告的计划不在其中。宣布这一举措七个月后，该电视网仍按计划于2027年第一季度推出。"
+        },
+        {
+          "t": "p",
+          "x": "CNN International Commercial与Warner Bros Discovery数字运营副总裁Faisal Karmali说：\"我给出的时间表是Q1开始有第一笔收入进账，我现在仍抱有希望。\""
+        },
+        {
+          "t": "p",
+          "x": "这家广播公司正把自有的智能体基础设施与需求方平台等外部技术伙伴结合起来，这意味着要教会智能体自身的业务规则、为它配置前端，并确保买方智能体所依赖的LLMs能正确读取其广告库存。"
+        },
+        {
+          "t": "p",
+          "x": "悬而未决的问题仍然存在：用什么护栏防止智能体绕过交易惯例，以及在标准相互竞争的情况下使用哪套词汇。SWYM CEO Ravi Patel说：\"卖方智能体对直销来说是实实在在的效率提升。\"\"但它们自动化的是交易，而不是投放。\""
+        },
+        {
+          "t": "p",
+          "x": "Karmali表示，智能体能否把权力转向出版商\"现在说还为时过早\"。他说，Agent-led交易起初可能占CNN International广告业务的5%，有朝一日也可能达到50%。"
+        }
+      ]
+    },
+    "marketing/marketing-ai-discovery-reviews": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://www.modernretail.co/wp-content/uploads/sites/5/2025/10/ai-compensation-digiday.webp"
+        },
+        {
+          "t": "p",
+          "x": "Feedvisor的一项新调查显示，16%的购物者从ChatGPT开始寻找商品，但只有9%会去那里购买。当AI助手推荐某件商品时，只有5%的人会当场购买，其余人会先去Google和Amazon等平台寻找更低的价格。"
+        },
+        {
+          "t": "p",
+          "x": "PartnerCentric的调查结果显示，在收到AI建议后，33%的购物者会查看已有评价，22.3%会比较价格，18.8%会在Amazon或其他零售商处搜索，只有14.8%会访问品牌官网。创始人兼CEO Stephanie Harris说：\"AI是起点，而不是最终裁决。\""
+        },
+        {
+          "t": "p",
+          "x": "Channel V Media的Kieran Powell表示，AI正在赢下调研环节。Prosper Insights & Analytics的一项调查发现，只有7.3%的人愿意让AI智能体替自己购买服装。Powell说：\"如果人们连一件$40的衬衫都不愿让AI替他们买，他们也不会让AI告诉他们哪件衬衫好。\""
+        },
+        {
+          "t": "p",
+          "x": "来自AI助手的流量稳步增长的Musely正专注于GEO。Paris Roche说：\"对我们来说，目标不只是被AI提及。\"Harris补充道：\"当这些信号相互矛盾时，AI不会帮你抹平，反而会更快暴露差距。\""
+        }
+      ]
+    },
+    "marketing/marketing-kobaco-aisac-gambling": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://thumb.mt.co.kr/21/2026/10/2026102221435830253_1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "共同民主党议员Lee Jung-heon指出，韩国广播广告振兴公社（KOBACO）的生成式AI广告制作平台未能有效过滤非法和有害广告。"
+        },
+        {
+          "t": "p",
+          "x": "这位议员22日在国会科学技术信息广播通信委员会的国政监查中，向KOBACO的AI广告创作支持平台\"AiSAC\"输入\"赚钱的老虎机游戏\"\"老虎机\"等关键词，实际生成了宣传非法赌博游戏的广告分镜脚本。"
+        },
+        {
+          "t": "p",
+          "x": "他指出：\"不能只屏蔽特定的词语或图像，\"\"还必须核查广告的整体语境和目的。\""
+        },
+        {
+          "t": "p",
+          "x": "KOBACO社长职务代理Eom Jeong-hwan表示：\"初衷是好的，但过滤以禁用词和关键词为主，没能补上绕过的方式。\"他还表示：\"将改用把握整体语境的方式加强过滤，并准备在最后阶段再核查一次的程序。\""
+        }
+      ]
+    },
+    "marketing/marketing-pmax-images": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://ppc.land/content/images/2026/10/google-pmax-image-extraction-default-horseshoe-magnet-picture-frames.jpg",
+          "cap": "自12月4日起，即使关闭Dynamic images，新的Google PMax广告系列也会抓取着陆页图片"
+        },
+        {
+          "t": "p",
+          "x": "Google告知开发者，自2026年12月4日起，所有新建的Performance Max广告系列都将默认开启图片提取，即使广告主已在账户层级关闭动态图片也不例外。这一变化适用于Google Ads API、Google Ads界面和Google Ads Editor。"
+        },
+        {
+          "t": "p",
+          "x": "Google表示：“借助图片提取，Google AI会扫描所提供的着陆页，寻找高分辨率图片来丰富创意素材，并扩大在Search、YouTube、Display、Discover、Gmail和Maps上的覆盖范围。”"
+        },
+        {
+          "t": "p",
+          "x": "现有的Performance Max广告系列将保留当前配置。不希望启用提取的集成方须在12月4日前更新广告系列创建请求，将GENERATE_IMAGE_EXTRACTION设为OPTED_OUT。由于asset_automation_settings是重复字段，更新会替换整个数组，TEXT_ASSET_AUTOMATION等其他设置可能被意外清除。"
+        },
+        {
+          "t": "p",
+          "x": "Google还要求广告主确认自己拥有着陆页图片的版权，并允许Google将其用于广告，从而把授权图片或第三方图片的责任交给广告主。"
+        }
+      ]
     }
   }
 }

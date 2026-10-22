@@ -1,106 +1,106 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "section": "science",
   "picks": [
     {
-      "url": "https://phys.org/news/2026-10-ai-reveals-climate-nz-extreme.html",
-      "title": "AI reveals how a warming climate will intensify NZ's most extreme downpours",
-      "source": "Phys.org",
+      "url": "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/",
+      "title": "The inside story behind OpenAI's million-dollar math proof",
+      "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-10-21T09:00:25-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
-      "excerpt": "A generative AI model trained on 140 years of regional climate simulations produced 15,000+ simulated years for New Zealand, showing 1-in-100-year daily rainfall intensifies about 9% per degree of warming.",
+      "published_iso": "2026-10-22T12:12:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/676cb480-a9d0-4bb0-a42f-466e549cfa5c/ink-clash.jpg?m=1792683756.522&w=1200",
+      "excerpt": "AI's solution to the Navier-Stokes problem, and the details of how it happened, preview a chaotic future for mathematics.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#2ec5c5",
       "motif": "sphere",
-      "rationale": "Climate slot: a generative emulator produced 15,000+ simulated years and found 1-in-100-year rainfall rises about 9% per degree of warming. That is a concrete, quantified research result."
+      "rationale": "Math slot: the first account in our feed of the AI-produced Navier-Stokes (Millennium Prize) result. It is a different problem from the 10-17 SciAm encryption card, and the biggest AI-for-science story in the pool."
     },
     {
-      "url": "https://techxplore.com/news/2026-10-conversational-ai-labs.html",
-      "title": "Researchers develop conversational AI for self-driving labs",
-      "source": "Tech Xplore",
+      "url": "https://www.scientificamerican.com/article/new-superconducting-chip-aims-to-help-tame-fusion-plasma/",
+      "title": "New superconducting chip aims to help tame fusion plasma",
+      "source": "Scientific American",
       "category": "science",
-      "published_iso": "2026-10-21T06:00:51-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/krict-develops-convers.jpg",
-      "excerpt": "KRICT researchers let scientists steer self-driving labs in plain language: an LLM turns expert guidance into structured priors for Bayesian optimization, and discards the guidance when data contradict it, cutting the experiments needed.",
+      "published_iso": "2026-10-22T07:15:00-04:00",
+      "og_image": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200",
+      "excerpt": "Researchers fed fusion data to a new neuromorphic superconducting chip to test whether it can spot signs that superhot plasma is about to go unstable.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#0070f3",
       "motif": "sphere",
-      "rationale": "Lab-method slot: KRICT's LLM turns plain-language expert advice into Bayesian-optimization priors and drops that advice when the data contradict it. This is a different system from the 09-27 self-driving materials lab card."
+      "rationale": "Physics/hardware slot: a neuromorphic superconducting chip was tested on real fusion data to flag plasma instabilities. This is new hardware meeting a hard physics problem."
     },
     {
-      "url": "https://allenai.org/blog/fairstress",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "source": "Ai2",
+      "url": "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/",
+      "title": "Using AI agents to run quantum simulations",
+      "source": "Physics World",
       "category": "science",
-      "published_iso": "2026-10-20T00:00:00-08:00",
-      "og_image": "https://www.datocms-assets.com/64837/1791813343-fairstress-blog-draft-google-docs-image-1-1.png",
-      "excerpt": "Ai2's FairStress benchmark reveals demographic differences in how LLMs defend and explain their decisions, even when their final choices appear fair — a behavioral-science style probe of model reasoning.",
+      "published_iso": "2026-10-21T09:19:11+00:00",
+      "og_image": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg",
+      "excerpt": "Researchers developed a multi-agent AI system that converts plain-language research questions into executed, checked and reproducible quantum simulations across several specialist software packages.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#7928ca",
       "motif": "sphere",
-      "rationale": "AI-behavior slot: Ai2 released a new benchmark showing that LLMs justify identical decisions differently across demographic groups, even when their final choices look fair."
+      "rationale": "Research-method slot: an academic multi-agent system turns plain-language questions into checked, reproducible quantum simulations across specialist codes. It is a different system from Haiqu's commercial AgenticOS (10-08)."
     },
     {
-      "url": "https://techxplore.com/news/2026-10-materials-library-ai-sodium-ion.html",
-      "title": "New materials library could help AI design better sodium-ion batteries",
+      "url": "https://techxplore.com/news/2026-10-ai-chatbots-delusions.html",
+      "title": "Researchers find a way to reduce AI chatbots' reinforcement of delusions",
       "source": "Tech Xplore",
       "category": "science",
-      "published_iso": "2026-10-21T13:00:08-04:00",
-      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/new-materials-library.jpg",
-      "excerpt": "University of Surrey researchers built a library of 28 sodium manganese oxide cathode compositions and trained a machine-learning model on the automated test data, as a seed dataset for AI-driven sodium-ion battery design.",
+      "published_iso": "2026-10-22T09:40:01-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg",
+      "excerpt": "Georgia Tech researchers ran 1,280 simulated conversations with eight AI models; anti-sycophancy instructions cut affirmation of delusional beliefs by 73.8%, rising to 77% with a self-reflection step (ACM AI Letters).",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#f5a623",
       "motif": "sphere",
-      "rationale": "Materials slot: Surrey built a 28-composition sodium-ion cathode library with automated testing, a new open seed dataset for ML-driven battery design."
+      "rationale": "AI-behavior slot: a quantified result (1,280 simulated conversations, 8 models) showing that anti-sycophancy prompts cut affirmation of delusions by about 74-77%. It is a model-behavior study, not a clinical one."
     },
     {
-      "url": "https://www.genengnews.com/topics/bioprocessing/ramannir-spectra-improves-glucose-soft-sensing/",
-      "title": "Raman+NIR Spectra Improves Glucose Soft Sensing",
-      "source": "GEN",
+      "url": "https://phys.org/news/2026-10-ai-bee-lethal.html",
+      "title": "AI listens to bee buzzes to monitor activity without lethal traps",
+      "source": "Phys.org",
       "category": "science",
-      "published_iso": "2026-10-21T16:00:13Z",
-      "og_image": null,
-      "excerpt": "A multimodal soft-sensing framework fuses Raman and NIR spectra and benchmarks PLS, gradient-boosted trees, CNNs and temporal convolutional networks to monitor glucose in bioprocessing, easing a bottleneck for continuous manufacturing.",
+      "published_iso": "2026-10-21T19:40:05-04:00",
+      "og_image": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+      "excerpt": "UMass Amherst researchers built two deep learning models that analyse field audio to measure bee activity and tell honeybees from bumblebees with 93-97% accuracy, offering an alternative to lethal pan traps.",
       "source_lang": "en",
       "tool": "Science",
       "accent": "#eb367f",
       "motif": "sphere",
-      "rationale": "Bioprocess-sensing slot: a study that fuses Raman and NIR spectra and benchmarks ML models for real-time glucose monitoring in continuous manufacturing."
+      "rationale": "Ecology slot: audio deep learning tells honeybees from bumblebees with 93-97% accuracy, replacing lethal pan traps. It is unrelated to the 09-28 bee-repellent chemistry card."
     }
   ],
   "dedup": {
     "checks": {
-      "https://phys.org/news/2026-10-ai-reveals-climate-nz-extreme.html": {
+      "https://www.scientificamerican.com/article/the-inside-story-behind-openais-million-dollar-math-proof/": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-ai-techniques-image-creation-river.html",
+        "nearest": "https://www.scientificamerican.com/article/can-ai-break-encryption-openai-new-math-has-cryptographers-divided/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-conversational-ai-labs.html": {
+      "https://www.scientificamerican.com/article/new-superconducting-chip-aims-to-help-tame-fusion-plasma/": {
         "verdict": "new",
-        "nearest": "https://www.eurekalert.org/news-releases/1145149",
+        "nearest": "https://techxplore.com/news/2026-09-scientists-real-ai-advanced-nuclear.html",
         "new_action": ""
       },
-      "https://allenai.org/blog/fairstress": {
+      "https://physicsworld.com/a/using-ai-agents-to-run-quantum-simulations/": {
         "verdict": "new",
-        "nearest": "https://techxplore.com/news/2026-10-gay-ai-people-stereotypical-straight.html",
+        "nearest": "https://thequantuminsider.com/2026/10/07/haiqu-releases-agenticos-to-plan-and-check-quantum-research/",
         "new_action": ""
       },
-      "https://techxplore.com/news/2026-10-materials-library-ai-sodium-ion.html": {
+      "https://techxplore.com/news/2026-10-ai-chatbots-delusions.html": {
         "verdict": "new",
-        "nearest": "https://phys.org/news/2026-10-fully-automated-bulk-metals-paves.html",
+        "nearest": "https://techxplore.com/news/2026-10-reveals-hidden-agendas-ai-advice.html",
         "new_action": ""
       },
-      "https://www.genengnews.com/topics/bioprocessing/ramannir-spectra-improves-glucose-soft-sensing/": {
+      "https://phys.org/news/2026-10-ai-bee-lethal.html": {
         "verdict": "new",
-        "nearest": "https://www.genengnews.com/topics/bioprocessing/hybrid-digital-twins-developed-for-future-autonomous-labs/",
+        "nearest": "https://phys.org/news/2026-09-machine-chemicals-repel-honey-bees.html",
         "new_action": ""
       }
     },
-    "note": "Dropped as repeats: ScienceDaily AI-consciousness study (same study as techxplore 10-03), Live Science rogue-AI formula (same as techxplore 10-09), Google Research Earth AI geospatial agents (same Earth AI line as the 10-07 card; dropped on 10-20 and 10-21 too). Dropped by exclusion: Phys.org HIPS AI-designed thiolation domains (AI protein design). Held back as uncertain: Quanta quasi-Riemann AI proof, tagged 'related' to the Live Science 10-02 Riemann card and an analysis piece; held back on 10-20 and 10-21 as well. Ranked below the picks: Quantum Insider AI/quantum-threat analysis (argument piece, and close to the 10-17 SciAm encryption card), MIT Tech Review interspecies communication (feature, related to the 09-24 animal-communication card), Curtin chatbot mental-health framework (conceptual), Psychology Today partner-ChatGPT (blog opinion). Outlets: Phys.org 1, Tech Xplore 2, Ai2 1, GEN 1. Note: the GEN pick has no og_image."
+    "note": "Dropped as repeats: Physics World optical deepfake detection (same 97.8% light-based study as ScienceDaily 10-02), ScienceDaily AI-consciousness study (same as Tech Xplore 10-03), ScienceDaily CO2-to-fuel AI reactions (same work as EurekAlert 10-09), Live Science rogue-AI formula (same as Tech Xplore 10-09), Google Research Earth AI geospatial agents (same Earth AI line as 10-07; vendor blog). Held back as uncertain: Quanta quasi-Riemann AI proof, which may be the same running story as the Live Science 10-02 Riemann card (held back since 10-20). Dropped by exclusion or downweighting: PerturbAI+OpenAI (vendor partnership, biomedical drug-target work), SEEQC+NVIDIA (vendor news, close to the Riverlane+NVIDIA card from 10-19), MIT Q&A (book Q&A). Ranked below the picks: Phys.org chatbots political middle ground (would have been a second LLM-behavior card next to the delusions pick), Phys.org polar-vortex ML, Tech Xplore Bayesian hypocrisy (related to 10-10, and 8 days old), Tech Xplore agents' artificial language, Psychology Today children and AI videos (blog). Outlets: Scientific American 2, Physics World 1, Tech Xplore 1, Phys.org 1."
   }
 }

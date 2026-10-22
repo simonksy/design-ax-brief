@@ -1,191 +1,191 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "section": "books",
   "cards": [
     {
-      "id": "books-meta-suits",
+      "id": "books-kindle-plus-ai-audiobooks",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "작가 300명 가까이\n해적판 학습 Meta 제소",
-      "body": "작가 약 300명이 집단소송 대신 Meta에 건당 최대 $150,000를 청구했다.",
-      "mini_headline": "작가 300명, Meta 제소",
+      "headline": "Unlimited 대신\nKindle Plus 출범",
+      "body": "Kindle Plus로 바뀌며 AI-narrated 오디오북이 늘었다.",
+      "mini_headline": "Kindle Unlimited, 이제 Kindle Plus",
       "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101578-hundreds-sue-meta-for-copyright-infringement-rejecting-class-action-payouts.html",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
       "accent": "#f5a623",
       "motif": "swatch",
       "full": {
-        "mode": "summary",
+        "mode": "full",
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
+            "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
           },
           {
             "t": "p",
-            "x": "작가 300명 가까이가 10월 19일 U.S. District Court for the Northern District of California(캘리포니아 북부 연방지방법원)에 Meta Platforms를 상대로 저작권 침해 소송을 냈다. 작가들의 책 해적판으로, 최근에는 라이선스 없이 사들여 스캔한 실물 책으로 회사가 AI 모델을 학습시켰다고 주장한다. 작가들은 집단소송에 합류하지 않고 각자 따로 청구한다. "
+            "x": "구독 서비스의 ‘플러스화’가 거침없이 이어지는 가운데 Amazon도 Kindle Unlimited의 이름을 바꿔 이 흐름에 올라탔다. 새 이름은 Kindle Plus다. 그래도 월 $11.99에 Kindle 카탈로그에서 고른 전자책, 만화, 잡지를 무제한으로 보는 건 그대로다. ZDNet에 따르면 이 가운데 수천 종은 지금처럼 딸린 오디오북으로 읽던 자리에서 바로 이어 들을 수 있다. Kindle Plus는 여기에 AI 내레이터가 읽어 주는 ‘가상 음성(virtual voice)’ 오디오북까지 더한다."
           },
           {
             "t": "p",
-            "x": "Freedman Normand Friedland의 Kyle Roche 변호사는 로펌이 ClaimsHero로 모은 작가 2,200명 이상을 대리하고 있다며, 연말까지 개별 청구를 최대 1,000건 낼 계획이라고 밝혔다. "
+            "x": "“이 구독은 수백만 종의 타이틀과 함께 변함없이 훌륭한 독서 경험을 제공하며, 이제 U.S. 카탈로그의 오디오북 수천 종을 추가 비용 없이 더했습니다.” Amazon 대변인 Josh Pflug는 The Verge에 보낸 이메일 성명에서 이렇게 밝혔다."
           },
           {
             "t": "p",
-            "x": "Anthropic 합의금은 작품당 약 $3,000 수준이다. 원고들은 배심원단이 고의 침해로 보고 작품당 최대 $150,000의 법정 손해배상을 인정해 주길 바란다. "
+            "x": "Kindle Plus는 Amazon Prime과 따로 가입하는 독립 구독으로 남는다. 지금처럼 한 번에 최대 20종까지만 빌릴 수 있지만 반납 기한은 없다. 이제 Kindle Direct Publishing 플랫폼을 쓰는 작가들도 자기 오디오북을 Kindle Plus 구독자에게 내놓을 수 있다."
           },
           {
             "t": "p",
-            "x": "소장에 따르면 Meta는 LibGen, Z-Library, Anna’s Archive 같은 섀도 라이브러리에서 책을 내려받았고, mid-2025부터는 책 스캔 프로그램 Project Vellum을 운영해 Muse Spark와 Muse Glimmer 모델을 학습시켰다. 관련 Meta 사건들은 2027년 5월 3일부터 배심 재판에 들어간다. "
+            "x": "신간을 KDP Select에 등록하면 가상 음성 오디오북이 자동으로 따라붙고, 이미 낸 작품에도 AI 내레이터를 고를 수 있다. 사람 내레이터를 원하는 작가라면 Audible의 Audiobook Creation Exchange(ACX) 마켓플레이스에서 만든 오디오북을 Kindle Plus에 올리면 된다. 우선 US 구독자부터 적용하고 Amazon은 차차 다른 시장으로 넓힐 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Nearly 300 authors sue Meta\nover pirated training books",
-          "body": "Nearly 300 authors sued Meta individually, seeking up to $150,000 per infringement instead of class-action payouts.",
-          "mini_headline": "300 authors sue Meta",
+          "headline": "Kindle Unlimited becomes\nKindle Plus, adds audiobooks",
+          "body": "Amazon renamed Kindle Unlimited to Kindle Plus, adding more audiobooks, some AI-narrated, at the same monthly price.",
+          "mini_headline": "Kindle Unlimited\nis now Kindle Plus",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
               },
               {
                 "t": "p",
-                "x": "Nearly 300 authors filed copyright infringement claims against Meta Platforms on October 19 in the U.S. District Court for the Northern District of California, alleging the company trained its AI models on pirated copies of their books and, more recently, on physical books it bought and scanned without a license. Rather than join a class action, each author is pursuing an individual claim."
+                "x": "The plus-ification of subscription services continues unabated with Amazon becoming the latest company to follow suit with a Kindle Unlimited rebrand. The subscription service is now known as Kindle Plus but will continue to offer unlimited access to a select collection of ebooks, comics, and magazines from the Kindle catalog for $11.99 per month. Thousands of those titles will also still have access to companion audiobooks so you can switch back and forth between reading and listening exactly where you left off, but Kindle Plus will expand that access to include “virtual voice” audiobooks read by AI narrators, according to ZDNet."
               },
               {
                 "t": "p",
-                "x": "Attorney Kyle Roche of Freedman Normand Friedland says his firm represents more than 2,200 authors, recruited through ClaimsHero, and plans to file up to 1,000 individual claims by the end of the year."
+                "x": "“The subscription continues to offer the same great reading experience with access to millions of titles, now with the addition of thousands of audiobooks in the U.S. catalog at no extra cost,” Amazon spokesperson Josh Pflug told The Verge in an emailed statement."
               },
               {
                 "t": "p",
-                "x": "While the Anthropic settlement pays roughly $3,000 per work, the plaintiffs want juries to award statutory damages of up to $150,000 per work for willful infringement."
+                "x": "Kindle Plus will remain a standalone subscription that’s separate from Amazon Prime, and users will still be limited to borrowing up to 20 titles at once, but with no return dates. Amazon is now also allowing authors using its Kindle Direct Publishing platform to make their audiobooks available to Kindle Plus subscribers."
               },
               {
                 "t": "p",
-                "x": "The complaint says Meta downloaded books from shadow libraries such as LibGen, Z-Library and Anna’s Archive, and from mid-2025 ran a book-scanning program, Project Vellum, to train its Muse Spark and Muse Glimmer models. Related Meta cases are set for jury trials beginning May 3, 2027."
+                "x": "Virtual voice audiobooks will automatically be available as new titles are enrolled in KDP Select, but authors can opt-in to AI narrators for previous published titles, too. For authors who prefer a human narrator, audiobooks created using Audible’s Audiobook Creation Exchange (ACX) marketplace will now also be available through Kindle Plus, but starting with subscribers in the US. Amazon plans to expand availability to other markets over time."
               }
             ]
           }
         },
         "ko": {
-          "headline": "작가 300명 가까이\n해적판 학습 Meta 제소",
-          "body": "작가 약 300명이 집단소송 대신 Meta에 건당 최대 $150,000를 청구했다.",
-          "mini_headline": "작가 300명, Meta 제소",
+          "headline": "Unlimited 대신\nKindle Plus 출범",
+          "body": "Kindle Plus로 바뀌며 AI-narrated 오디오북이 늘었다.",
+          "mini_headline": "Kindle Unlimited, 이제 Kindle Plus",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
               },
               {
                 "t": "p",
-                "x": "작가 300명 가까이가 10월 19일 U.S. District Court for the Northern District of California(캘리포니아 북부 연방지방법원)에 Meta Platforms를 상대로 저작권 침해 소송을 냈다. 작가들의 책 해적판으로, 최근에는 라이선스 없이 사들여 스캔한 실물 책으로 회사가 AI 모델을 학습시켰다고 주장한다. 작가들은 집단소송에 합류하지 않고 각자 따로 청구한다. "
+                "x": "구독 서비스의 ‘플러스화’가 거침없이 이어지는 가운데 Amazon도 Kindle Unlimited의 이름을 바꿔 이 흐름에 올라탔다. 새 이름은 Kindle Plus다. 그래도 월 $11.99에 Kindle 카탈로그에서 고른 전자책, 만화, 잡지를 무제한으로 보는 건 그대로다. ZDNet에 따르면 이 가운데 수천 종은 지금처럼 딸린 오디오북으로 읽던 자리에서 바로 이어 들을 수 있다. Kindle Plus는 여기에 AI 내레이터가 읽어 주는 ‘가상 음성(virtual voice)’ 오디오북까지 더한다."
               },
               {
                 "t": "p",
-                "x": "Freedman Normand Friedland의 Kyle Roche 변호사는 로펌이 ClaimsHero로 모은 작가 2,200명 이상을 대리하고 있다며, 연말까지 개별 청구를 최대 1,000건 낼 계획이라고 밝혔다. "
+                "x": "“이 구독은 수백만 종의 타이틀과 함께 변함없이 훌륭한 독서 경험을 제공하며, 이제 U.S. 카탈로그의 오디오북 수천 종을 추가 비용 없이 더했습니다.” Amazon 대변인 Josh Pflug는 The Verge에 보낸 이메일 성명에서 이렇게 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Anthropic 합의금은 작품당 약 $3,000 수준이다. 원고들은 배심원단이 고의 침해로 보고 작품당 최대 $150,000의 법정 손해배상을 인정해 주길 바란다. "
+                "x": "Kindle Plus는 Amazon Prime과 따로 가입하는 독립 구독으로 남는다. 지금처럼 한 번에 최대 20종까지만 빌릴 수 있지만 반납 기한은 없다. 이제 Kindle Direct Publishing 플랫폼을 쓰는 작가들도 자기 오디오북을 Kindle Plus 구독자에게 내놓을 수 있다."
               },
               {
                 "t": "p",
-                "x": "소장에 따르면 Meta는 LibGen, Z-Library, Anna’s Archive 같은 섀도 라이브러리에서 책을 내려받았고, mid-2025부터는 책 스캔 프로그램 Project Vellum을 운영해 Muse Spark와 Muse Glimmer 모델을 학습시켰다. 관련 Meta 사건들은 2027년 5월 3일부터 배심 재판에 들어간다. "
+                "x": "신간을 KDP Select에 등록하면 가상 음성 오디오북이 자동으로 따라붙고, 이미 낸 작품에도 AI 내레이터를 고를 수 있다. 사람 내레이터를 원하는 작가라면 Audible의 Audiobook Creation Exchange(ACX) 마켓플레이스에서 만든 오디오북을 Kindle Plus에 올리면 된다. 우선 US 구독자부터 적용하고 Amazon은 차차 다른 시장으로 넓힐 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "作家約300人が\n海賊版学習でMetaを提訴",
-          "body": "約300人の作家が集団訴訟ではなくMetaを訴え、侵害ごとに最大$150,000を求める。",
-          "mini_headline": "作家300人がMetaを提訴",
+          "headline": "Unlimitedに代わり\nKindle Plus誕生",
+          "body": "Kindle Plusへの改称で、AI-narratedのオーディオブックが増えた。",
+          "mini_headline": "Kindle UnlimitedはKindle Plusに",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
               },
               {
                 "t": "p",
-                "x": "約300人の作家が10月19日、U.S. District Court for the Northern District of California(カリフォルニア北部地区連邦地裁)にMeta Platformsを相手取り著作権侵害の訴えを起こした。同社が作家の本の海賊版で、さらに最近はライセンスなしに購入・スキャンした紙の本でAIモデルを学習させたと主張している。各作家は集団訴訟に加わらず、個別に請求を進める。"
+                "x": "サブスクリプションサービスの「プラス化」はとどまる気配がなく、AmazonもKindle Unlimitedのリブランドでその流れに加わった。サービスの新名称はKindle Plusだが、引き続き月額$11.99でKindleカタログから選ばれた電子書籍、コミック、雑誌を読み放題で利用できる。ZDNetによると、そのうち多数のタイトルでは従来どおり対応するオーディオブックも使え、中断した箇所から読書と聴取を行き来できるが、Kindle PlusではAIナレーターが読み上げる「バーチャルボイス」のオーディオブックにも対象を広げる。"
               },
               {
                 "t": "p",
-                "x": "Freedman Normand FriedlandのKyle Roche弁護士によると、同事務所はClaimsHeroを通じて集めた2,200人超の作家を代理しており、年末までに最大1,000件の個別請求を起こす予定だという。"
+                "x": "「このサブスクリプションは、膨大な数のタイトルにアクセスできる優れた読書体験をこれまでどおり提供し、さらにU.S.カタログの多数のオーディオブックを追加料金なしで利用できるようになります」と、Amazonの広報担当Josh PflugはThe Vergeへのメール声明で述べた。"
               },
               {
                 "t": "p",
-                "x": "Anthropicの和解では作品ごとに約$3,000が支払われるが、原告側は故意の侵害に対し作品ごとに最大$150,000の法定損害賠償を陪審が認めるよう求めている。"
+                "x": "Kindle PlusはAmazon Primeとは別の単独のサブスクリプションとして続き、同時に借りられるのは引き続き最大20タイトルまでだが、返却期限はない。AmazonはKindle Direct Publishingプラットフォームを使う著者が、自身のオーディオブックをKindle Plus会員に提供できるようにもした。"
               },
               {
                 "t": "p",
-                "x": "訴状によれば、MetaはLibGen、Z-Library、Anna’s Archiveといったシャドーライブラリーから本をダウンロードし、mid-2025からは書籍スキャン計画Project Vellumを実施してMuse SparkとMuse Glimmerモデルを学習させた。関連するMetaの訴訟は2027年5月3日から陪審裁判が始まる予定だ。"
+                "x": "バーチャルボイスのオーディオブックは、新刊がKDP Selectに登録されると自動的に提供されるが、著者は既刊作品についてもAIナレーターを選択できる。人間のナレーターを好む著者向けには、AudibleのAudiobook Creation Exchange（ACX）マーケットプレイスで制作されたオーディオブックもKindle Plusで利用可能になるが、まずはUSの会員から始まる。Amazonは今後、時間をかけて他の市場にも広げる計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "近300名作家起诉Meta\n指其用盗版书训练",
-          "body": "近300名作家放弃集体诉讼，各自起诉Meta，每项侵权索赔最高$150,000。",
-          "mini_headline": "300名作家起诉Meta",
+          "headline": "Unlimited改名\nKindle Plus登场",
+          "body": "Amazon将服务更名为Kindle Plus，并增加含AI-narrated在内的有声书。",
+          "mini_headline": "Kindle Unlimited更名Kindle Plus",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
               },
               {
                 "t": "p",
-                "x": "近300名作家于10月19日在U.S. District Court for the Northern District of California（加州北区联邦地区法院）对Meta Platforms提起版权侵权诉讼，指控该公司用其书籍的盗版副本训练AI模型，近来还使用未经授权购买并扫描的实体书。作家们没有加入集体诉讼，而是各自提出个人索赔。"
+                "x": "订阅服务的“Plus化”势头不减，Amazon也成为最新跟进者，对Kindle Unlimited进行了品牌重塑。这项订阅服务如今名为Kindle Plus，但仍将以每月$11.99的价格，提供Kindle目录中精选电子书、漫画和杂志的无限畅读。据ZDNet报道，其中大量书目仍配有对应的有声书，读者可在阅读和收听之间切换，并从上次停下的位置继续；Kindle Plus还将把范围扩大到由AI旁白朗读的“虚拟语音”有声书。"
               },
               {
                 "t": "p",
-                "x": "Freedman Normand Friedland律师事务所的律师Kyle Roche表示，该所代理通过ClaimsHero招募的2,200多名作家，并计划在年底前提交最多1,000项个人索赔。"
+                "x": "“这项订阅将继续提供同样出色的阅读体验，可访问海量书目，现在还新增了U.S.目录中的大量有声书，且不额外收费，”Amazon发言人Josh Pflug在给The Verge的电子邮件声明中表示。"
               },
               {
                 "t": "p",
-                "x": "Anthropic和解方案每部作品赔付约$3,000，而原告希望陪审团就故意侵权判给每部作品最高$150,000的法定赔偿。"
+                "x": "Kindle Plus仍是独立于Amazon Prime的单独订阅，用户同时最多仍只能借阅20种书目，但没有归还期限。Amazon现在还允许使用Kindle Direct Publishing平台的作者，将自己的有声书提供给Kindle Plus订阅用户。"
               },
               {
                 "t": "p",
-                "x": "诉状称，Meta从LibGen、Z-Library和Anna’s Archive等影子图书馆下载书籍，并自mid-2025起运行书籍扫描项目Project Vellum，用于训练Muse Spark和Muse Glimmer模型。Meta的相关案件定于2027年5月3日起进行陪审团审理。"
+                "x": "新书加入KDP Select后，将自动提供虚拟语音有声书，作者也可以为此前已出版的作品选择AI旁白。对于偏好真人旁白的作者，通过Audible的Audiobook Creation Exchange（ACX）平台制作的有声书现在也可在Kindle Plus上收听，但先从US订阅用户开始。Amazon计划逐步扩展到其他市场。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Casi 300 autores demandan a Meta\npor entrenar con libros piratas",
-          "body": "Casi 300 autores demandaron a Meta por separado y piden hasta $150,000 por infracción, no pagos colectivos.",
-          "mini_headline": "300 autores demandan a Meta",
+          "headline": "Kindle Unlimited pasa a ser\nKindle Plus y suma audiolibros",
+          "body": "Amazon renombró Kindle Unlimited como Kindle Plus y sumó audiolibros, algunos con voz de IA (AI-narrated).",
+          "mini_headline": "Kindle Unlimited ahora es Kindle Plus",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
               },
               {
                 "t": "p",
-                "x": "Casi 300 autores presentaron el 19 de octubre demandas por infracción de derechos de autor contra Meta Platforms ante el U.S. District Court for the Northern District of California, alegando que la empresa entrenó sus modelos de AI con copias piratas de sus libros y, más recientemente, con libros físicos que compró y escaneó sin licencia. En lugar de sumarse a una demanda colectiva, cada autor presenta una reclamación individual."
+                "x": "La «plusificación» de los servicios de suscripción sigue sin freno, y Amazon es la última empresa en sumarse con un cambio de marca de Kindle Unlimited. El servicio de suscripción ahora se llama Kindle Plus, pero seguirá ofreciendo acceso ilimitado a una selección de libros electrónicos, cómics y revistas del catálogo de Kindle por $11.99 al mes. Miles de esos títulos seguirán contando con audiolibros complementarios para alternar entre leer y escuchar justo donde se dejó, pero Kindle Plus ampliará ese acceso a audiolibros de «voz virtual» leídos por narradores de IA, según ZDNet."
               },
               {
                 "t": "p",
-                "x": "El abogado Kyle Roche, de Freedman Normand Friedland, afirma que su firma representa a más de 2,200 autores, reclutados a través de ClaimsHero, y que prevé presentar hasta 1,000 reclamaciones individuales antes de fin de año."
+                "x": "«La suscripción sigue ofreciendo la misma gran experiencia de lectura con acceso a millones de títulos, ahora con miles de audiolibros del catálogo de U.S. sin costo adicional», dijo Josh Pflug, portavoz de Amazon, a The Verge en un comunicado por correo electrónico."
               },
               {
                 "t": "p",
-                "x": "Mientras el acuerdo de Anthropic paga unos $3,000 por obra, los demandantes quieren que los jurados concedan daños legales de hasta $150,000 por obra por infracción deliberada."
+                "x": "Kindle Plus seguirá siendo una suscripción independiente, separada de Amazon Prime, y los usuarios seguirán limitados a tomar prestados hasta 20 títulos a la vez, aunque sin fechas de devolución. Amazon ahora también permite que los autores que usan su plataforma Kindle Direct Publishing ofrezcan sus audiolibros a los suscriptores de Kindle Plus."
               },
               {
                 "t": "p",
-                "x": "Según la demanda, Meta descargó libros de bibliotecas en la sombra como LibGen, Z-Library y Anna’s Archive, y desde mid-2025 operó un programa de escaneo de libros, Project Vellum, para entrenar sus modelos Muse Spark y Muse Glimmer. Los casos relacionados con Meta tienen juicios con jurado previstos a partir del 3 de mayo de 2027."
+                "x": "Los audiolibros de voz virtual estarán disponibles automáticamente cuando se inscriban títulos nuevos en KDP Select, pero los autores también pueden optar por narradores de IA para títulos publicados anteriormente. Para los autores que prefieren un narrador humano, los audiolibros creados en el mercado Audiobook Creation Exchange (ACX) de Audible también estarán disponibles en Kindle Plus, empezando por los suscriptores en US. Amazon prevé ampliar la disponibilidad a otros mercados con el tiempo."
               }
             ]
           }
@@ -193,121 +193,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "작가 300명 가까이\n해적판 학습 Meta 제소",
-          "body": "작가 약 300명이 집단소송 대신 Meta에 건당 최대 $150,000를 청구했다.",
-          "mini_headline": "작가 300명, Meta 제소",
+          "headline": "Unlimited 대신\nKindle Plus 출범",
+          "body": "Kindle Plus로 개편되며 AI-narrated 오디오북이 늘었다.",
+          "mini_headline": "Kindle Unlimited, 이제 Kindle Plus",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
               },
               {
                 "t": "p",
-                "x": "작가 300명 가까이가 10월 19일 U.S. District Court for the Northern District of California(캘리포니아 북부 연방지방법원)에 Meta Platforms를 상대로 저작권 침해 소송을 냈다. 이 회사가 작가들의 책 해적판으로, 최근에는 라이선스 없이 사들여 스캔한 실물 책으로 AI 모델을 학습시켰다는 주장이다. 작가들은 집단소송에 합류하지 않고 각자 개별 청구를 진행한다."
+                "x": "구독 서비스의 ‘플러스화’가 거침없이 이어지는 가운데 Amazon도 Kindle Unlimited의 이름을 바꾸며 이 흐름에 합류했다. 이 구독 서비스의 새 이름은 Kindle Plus지만, 앞으로도 월 $11.99에 Kindle 카탈로그에서 엄선한 전자책, 만화, 잡지를 무제한으로 이용할 수 있다. ZDNet에 따르면 이 가운데 수천 종은 지금처럼 함께 제공되는 오디오북으로 읽던 자리에서 바로 듣기로 오갈 수 있으며, Kindle Plus는 여기에 AI 내레이터가 읽어 주는 ‘가상 음성(virtual voice)’ 오디오북까지 범위를 넓힌다."
               },
               {
                 "t": "p",
-                "x": "Freedman Normand Friedland의 Kyle Roche 변호사는 자신의 로펌이 ClaimsHero를 통해 모집한 작가 2,200명 이상을 대리하고 있으며, 연말까지 개별 청구를 최대 1,000건 제기할 계획이라고 밝혔다."
+                "x": "“이 구독은 수백만 종의 타이틀과 함께 변함없이 훌륭한 독서 경험을 제공하며, 이제 U.S. 카탈로그의 오디오북 수천 종을 추가 비용 없이 더했습니다.” Amazon 대변인 Josh Pflug는 The Verge에 보낸 이메일 성명에서 이렇게 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Anthropic 합의금은 작품당 약 $3,000이지만, 원고들은 고의 침해에 대해 배심원단이 작품당 최대 $150,000의 법정 손해배상을 인정하기를 원한다."
+                "x": "Kindle Plus는 Amazon Prime과 별개인 독립 구독으로 남고, 이용자는 지금처럼 한 번에 최대 20종까지만 빌릴 수 있지만 반납 기한은 없다. Amazon은 이제 Kindle Direct Publishing 플랫폼을 쓰는 작가들도 자신의 오디오북을 Kindle Plus 구독자에게 제공할 수 있도록 했다."
               },
               {
                 "t": "p",
-                "x": "소장에 따르면 Meta는 LibGen, Z-Library, Anna’s Archive 같은 섀도 라이브러리에서 책을 내려받았고, mid-2025부터는 책 스캔 프로그램 Project Vellum을 운영해 Muse Spark와 Muse Glimmer 모델을 학습시켰다. 관련 Meta 사건들은 2027년 5월 3일부터 배심 재판이 열릴 예정이다."
+                "x": "가상 음성 오디오북은 신간이 KDP Select에 등록되면 자동으로 제공되며, 작가는 이미 출간한 작품에도 AI 내레이터를 선택할 수 있다. 사람 내레이터를 선호하는 작가를 위해 Audible의 Audiobook Creation Exchange(ACX) 마켓플레이스에서 만든 오디오북도 이제 Kindle Plus에서 이용할 수 있으며, 우선 US 구독자부터 시작한다. Amazon은 시간을 두고 다른 시장으로 확대할 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "作家約300人が\n海賊版学習でMetaを提訴",
-          "body": "約300人の作家が集団訴訟ではなくMetaを訴え、侵害ごとに最大$150,000を求める。",
-          "mini_headline": "作家300人がMetaを提訴",
+          "headline": "Unlimitedに代わり\nKindle Plus誕生",
+          "body": "Kindle Plusへの改称で、AI-narratedのオーディオブックが増えた。",
+          "mini_headline": "Kindle UnlimitedはKindle Plusに",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
               },
               {
                 "t": "p",
-                "x": "約300人の作家が10月19日、U.S. District Court for the Northern District of California(カリフォルニア北部地区連邦地裁)にMeta Platformsを相手取り著作権侵害の訴えを起こした。同社が作家の本の海賊版で、さらに最近はライセンスなしに購入・スキャンした紙の本でAIモデルを学習させたと主張している。各作家は集団訴訟に加わらず、個別に請求を進める。"
+                "x": "サブスクリプションサービスの「プラス化」はとどまる気配がなく、AmazonもKindle Unlimitedのリブランドでその流れに加わった。サービスの新名称はKindle Plusだが、引き続き月額$11.99でKindleカタログから選ばれた電子書籍、コミック、雑誌を読み放題で利用できる。ZDNetによると、そのうち多数のタイトルでは従来どおり対応するオーディオブックも使え、中断した箇所から読書と聴取を行き来できるが、Kindle PlusではAIナレーターが読み上げる「バーチャルボイス」のオーディオブックにも対象を広げる。"
               },
               {
                 "t": "p",
-                "x": "Freedman Normand FriedlandのKyle Roche弁護士によると、同事務所はClaimsHeroを通じて集めた2,200人超の作家を代理しており、年末までに最大1,000件の個別請求を起こす予定だという。"
+                "x": "「このサブスクリプションは、膨大な数のタイトルにアクセスできる優れた読書体験をこれまでどおり提供し、さらにU.S.カタログの多数のオーディオブックを追加料金なしで利用できるようになります」と、Amazonの広報担当Josh PflugはThe Vergeへのメール声明で述べた。"
               },
               {
                 "t": "p",
-                "x": "Anthropicの和解では作品ごとに約$3,000が支払われるが、原告側は故意の侵害に対し作品ごとに最大$150,000の法定損害賠償を陪審が認めるよう求めている。"
+                "x": "Kindle PlusはAmazon Primeとは別の単独のサブスクリプションとして続き、同時に借りられるのは引き続き最大20タイトルまでだが、返却期限はない。AmazonはKindle Direct Publishingプラットフォームを使う著者が、自身のオーディオブックをKindle Plus会員に提供できるようにもした。"
               },
               {
                 "t": "p",
-                "x": "訴状によれば、MetaはLibGen、Z-Library、Anna’s Archiveといったシャドーライブラリーから本をダウンロードし、mid-2025からは書籍スキャン計画Project Vellumを実施してMuse SparkとMuse Glimmerモデルを学習させた。関連するMetaの訴訟は2027年5月3日から陪審裁判が始まる予定だ。"
+                "x": "バーチャルボイスのオーディオブックは、新刊がKDP Selectに登録されると自動的に提供されるが、著者は既刊作品についてもAIナレーターを選択できる。人間のナレーターを好む著者向けには、AudibleのAudiobook Creation Exchange（ACX）マーケットプレイスで制作されたオーディオブックもKindle Plusで利用可能になるが、まずはUSの会員から始まる。Amazonは今後、時間をかけて他の市場にも広げる計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "近300名作家起诉Meta\n指其用盗版书训练",
-          "body": "近300名作家放弃集体诉讼，各自起诉Meta，每项侵权索赔最高$150,000。",
-          "mini_headline": "300名作家起诉Meta",
+          "headline": "Unlimited改名\nKindle Plus登场",
+          "body": "Amazon将服务更名为Kindle Plus，并增加含AI-narrated在内的有声书。",
+          "mini_headline": "Kindle Unlimited更名Kindle Plus",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
               },
               {
                 "t": "p",
-                "x": "近300名作家于10月19日在U.S. District Court for the Northern District of California（加州北区联邦地区法院）对Meta Platforms提起版权侵权诉讼，指控该公司用其书籍的盗版副本训练AI模型，近来还使用未经授权购买并扫描的实体书。作家们没有加入集体诉讼，而是各自提出个人索赔。"
+                "x": "订阅服务的“Plus化”势头不减，Amazon也成为最新跟进者，对Kindle Unlimited进行了品牌重塑。这项订阅服务如今名为Kindle Plus，但仍将以每月$11.99的价格，提供Kindle目录中精选电子书、漫画和杂志的无限畅读。据ZDNet报道，其中大量书目仍配有对应的有声书，读者可在阅读和收听之间切换，并从上次停下的位置继续；Kindle Plus还将把范围扩大到由AI旁白朗读的“虚拟语音”有声书。"
               },
               {
                 "t": "p",
-                "x": "Freedman Normand Friedland律师事务所的律师Kyle Roche表示，该所代理通过ClaimsHero招募的2,200多名作家，并计划在年底前提交最多1,000项个人索赔。"
+                "x": "“这项订阅将继续提供同样出色的阅读体验，可访问海量书目，现在还新增了U.S.目录中的大量有声书，且不额外收费，”Amazon发言人Josh Pflug在给The Verge的电子邮件声明中表示。"
               },
               {
                 "t": "p",
-                "x": "Anthropic和解方案每部作品赔付约$3,000，而原告希望陪审团就故意侵权判给每部作品最高$150,000的法定赔偿。"
+                "x": "Kindle Plus仍是独立于Amazon Prime的单独订阅，用户同时最多仍只能借阅20种书目，但没有归还期限。Amazon现在还允许使用Kindle Direct Publishing平台的作者，将自己的有声书提供给Kindle Plus订阅用户。"
               },
               {
                 "t": "p",
-                "x": "诉状称，Meta从LibGen、Z-Library和Anna’s Archive等影子图书馆下载书籍，并自mid-2025起运行书籍扫描项目Project Vellum，用于训练Muse Spark和Muse Glimmer模型。Meta的相关案件定于2027年5月3日起进行陪审团审理。"
+                "x": "新书加入KDP Select后，将自动提供虚拟语音有声书，作者也可以为此前已出版的作品选择AI旁白。对于偏好真人旁白的作者，通过Audible的Audiobook Creation Exchange（ACX）平台制作的有声书现在也可在Kindle Plus上收听，但先从US订阅用户开始。Amazon计划逐步扩展到其他市场。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Casi 300 autores demandan a Meta\npor entrenar con libros piratas",
-          "body": "Casi 300 autores demandaron a Meta por separado y piden hasta $150,000 por infracción, no pagos colectivos.",
-          "mini_headline": "300 autores demandan a Meta",
+          "headline": "Kindle Unlimited pasa a ser\nKindle Plus y suma audiolibros",
+          "body": "Amazon renombró Kindle Unlimited como Kindle Plus y sumó audiolibros, algunos con voz de IA (AI-narrated).",
+          "mini_headline": "Kindle Unlimited ahora es Kindle Plus",
           "full": {
-            "mode": "summary",
+            "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132315-2.JPG"
+                "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/kindleplus.jpg?quality=90&strip=all&crop=0%2C10.721349621873%2C100%2C78.557300756254&w=1200"
               },
               {
                 "t": "p",
-                "x": "Casi 300 autores presentaron el 19 de octubre demandas por infracción de derechos de autor contra Meta Platforms ante el U.S. District Court for the Northern District of California, alegando que la empresa entrenó sus modelos de AI con copias piratas de sus libros y, más recientemente, con libros físicos que compró y escaneó sin licencia. En lugar de sumarse a una demanda colectiva, cada autor presenta una reclamación individual."
+                "x": "La «plusificación» de los servicios de suscripción sigue sin freno, y Amazon es la última empresa en sumarse con un cambio de marca de Kindle Unlimited. El servicio de suscripción ahora se llama Kindle Plus, pero seguirá ofreciendo acceso ilimitado a una selección de libros electrónicos, cómics y revistas del catálogo de Kindle por $11.99 al mes. Miles de esos títulos seguirán contando con audiolibros complementarios para alternar entre leer y escuchar justo donde se dejó, pero Kindle Plus ampliará ese acceso a audiolibros de «voz virtual» leídos por narradores de IA, según ZDNet."
               },
               {
                 "t": "p",
-                "x": "El abogado Kyle Roche, de Freedman Normand Friedland, afirma que su firma representa a más de 2,200 autores, reclutados a través de ClaimsHero, y que prevé presentar hasta 1,000 reclamaciones individuales antes de fin de año."
+                "x": "«La suscripción sigue ofreciendo la misma gran experiencia de lectura con acceso a millones de títulos, ahora con miles de audiolibros del catálogo de U.S. sin costo adicional», dijo Josh Pflug, portavoz de Amazon, a The Verge en un comunicado por correo electrónico."
               },
               {
                 "t": "p",
-                "x": "Mientras el acuerdo de Anthropic paga unos $3,000 por obra, los demandantes quieren que los jurados concedan daños legales de hasta $150,000 por obra por infracción deliberada."
+                "x": "Kindle Plus seguirá siendo una suscripción independiente, separada de Amazon Prime, y los usuarios seguirán limitados a tomar prestados hasta 20 títulos a la vez, aunque sin fechas de devolución. Amazon ahora también permite que los autores que usan su plataforma Kindle Direct Publishing ofrezcan sus audiolibros a los suscriptores de Kindle Plus."
               },
               {
                 "t": "p",
-                "x": "Según la demanda, Meta descargó libros de bibliotecas en la sombra como LibGen, Z-Library y Anna’s Archive, y desde mid-2025 operó un programa de escaneo de libros, Project Vellum, para entrenar sus modelos Muse Spark y Muse Glimmer. Los casos relacionados con Meta tienen juicios con jurado previstos a partir del 3 de mayo de 2027."
+                "x": "Los audiolibros de voz virtual estarán disponibles automáticamente cuando se inscriban títulos nuevos en KDP Select, pero los autores también pueden optar por narradores de IA para títulos publicados anteriormente. Para los autores que prefieren un narrador humano, los audiolibros creados en el mercado Audiobook Creation Exchange (ACX) de Audible también estarán disponibles en Kindle Plus, empezando por los suscriptores en US. Amazon prevé ampliar la disponibilidad a otros mercados con el tiempo."
               }
             ]
           }
@@ -315,15 +315,15 @@
       }
     },
     {
-      "id": "books-boreal-orelien",
+      "id": "books-canada-isbn-human-author",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "AI 사용 문제로\n출판사, 퀘벡 작가와 결별",
-      "body": "Éditions du Boréal이 AI로 Thélyson Orélien을 내쳤다.",
-      "mini_headline": "Boréal, Orélien과 결별",
+      "headline": "캐나다 ISBNs 제한\nAI-generated 책",
+      "body": "캐나다 국립도서관·기록보존소가 ISBN 신청자에게 인간 저자 선언을 요구한다.",
+      "mini_headline": "캐나다, AI-book ISBN 제한",
       "tool": "Books",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/canada/montreal/quebec-authour-ai-scandal-thelyson-orelien-9.7390119",
+      "source": "Global News",
+      "url": "https://globalnews.ca/news/12111768/canada-artificial-intelligence-books-copyright/",
       "accent": "#0070f3",
       "motif": "swatch",
       "full": {
@@ -331,179 +331,179 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
-            "cap": "2026년 9월 24일 프랑스 Manosque에서 열린 Les Correspondances 문학 축제에 참석한 Thélyson Orélien. (Joel Saget/AFP via Getty Images)"
+            "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+            "cap": "FILE - 2024년 유월 3일 월요일, 오타와의 캐나다 국립도서관·기록보존소(Library and Archives Canada) 모습."
           },
           {
             "t": "p",
-            "x": "몬트리올 출판사 Éditions du Boréal은 수요일, Thélyson Orélien이 소설 C’était ça ou mourir를 쓰는 데 AI가 쓰였다는 새 정보가 나왔다며 그와 더는 함께 일하지 않겠다고 발표했다. Orélien은 이 기술을 쓰지 않았다고 거듭 밝혀 왔다. "
+            "x": "캐나다 국립도서관·기록보존소(LAC)가 ISBN 정책을 고쳐 AI 생성(AI-generated) 도서와 기타 콘텐츠의 등록을 제한하자, 캐나다 작가·출판 단체들은 만족한다고 밝혔다."
           },
           {
             "t": "p",
-            "x": "“따라서 Boréal은 이 소설을 다시 찍지 않으며, Thélyson Orélien의 다른 책도 더는 내지 않을 것”이라고 보도자료는 밝혔다."
+            "x": "LAC는 시월 9일 갱신한 웹사이트에 “ISBN Canada에 등록하면 해당 출판물을 인간 저자가 썼다고 선언하는 것”이라고 적었다. AI 도구는 브레인스토밍, 문법 검사, 서식 정리 같은 제한된 보조 작업에만 쓸 수 있다. 내용 대부분을 AI로 만든 작품(텍스트, 삽화, 번역)에는 ISBN Canada가 ISBNs 발급 수량을 제한한다. LAC는 정책이 아직 검토 중이며 ISBN을 등록한다고 저작권이 보호되지는 않는다고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "이 소설은 호평을 받았다. 그러다 Prix du roman Fnac을 받은 9월 21일, 익명의 X 계정이 AI-detection(AI 탐지) 화면 캡처를 올렸다. Orélien은 이 의혹을 “중상이자 이단”이라 부르며 자료 조사에 AI를 “여기저기” 썼을 뿐이라고 말했다. "
+            "x": "캐나다작가협회(Canadian Authors Association)는 이번 변경을 환영하면서도 “첫걸음에 불과하다”며 자기 선언을 어떻게 감시하고 검증할지 물었다. 캐나다출판인협회(Association of Canadian Publishers)는 “AI-slop” 도서가 쏟아지는 상황을 들어 ISBNs를 사람이 쓴 책으로 제한하면 사기가 줄 것이라고 봤다."
           },
           {
             "t": "p",
-            "x": "Boréal은 소설의 작업 버전 전부를 외부에 맡겨 분석했다. 출판사는 “이번 주에 받은 결과에서 일부 문서의 메타데이터에 AI 표지의 흔적이 드러났다”고 썼다. AI가 얼마나 쓰였는지는 끝내 모를 수도 있지만 결국 문제는 신뢰였다는 말도 덧붙였다. "
+            "x": "캐나다 연방정부는 무허가 AI 학습을 막을 현대적 저작권 보호 장치를 아직 마련하지 못했다. 유월에 내놓은 연방 AI 전략에서도 저작권 문제는 빠졌다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Publisher cuts ties with\nQuebec novelist over AI use",
-          "body": "Éditions du Boréal cited traces of AI markers in the metadata of working files and cut ties with Thélyson Orélien.",
-          "mini_headline": "Boréal drops Orélien",
+          "headline": "Canada limits ISBNs for\nmostly AI-generated books",
+          "body": "Library and Archives Canada now requires ISBN registrants to declare a human author, curbing mostly AI-generated books.",
+          "mini_headline": "Canada curbs\nAI-book ISBNs",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
-                "cap": "Thélyson Orélien at the Les Correspondances literature festival in Manosque, France, on Sept. 24, 2026. (Joel Saget/AFP via Getty Images)"
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "cap": "FILE - The Library and Archives Canada is pictured in Ottawa on Monday, June 3, 2024."
               },
               {
                 "t": "p",
-                "x": "Montreal publishing house Éditions du Boréal announced Wednesday it is ending its professional relationship with Thélyson Orélien, saying new information indicates AI was used in writing his novel C’était ça ou mourir — despite his repeated assurances that he had not used the technology."
+                "x": "Canadian author and publisher groups say they are pleased that Library and Archives Canada (LAC) updated its ISBN policy to limit registrations for AI-generated books and other content."
               },
               {
                 "t": "p",
-                "x": "“Consequently, Boréal will not reprint the novel, nor will it publish any further books by Thélyson Orélien,” the release reads."
+                "x": "“By registering with ISBN Canada, you declare that your publication was written by a human author,” LAC says on its website, updated on Oct. 9. AI tools may be used only for limited support tasks such as brainstorming, checking grammar or formatting, and ISBN Canada limits the quantity of ISBNs for works whose content is primarily generated by AI (text, illustration, translation). LAC says its policy is under review and that ISBN registration does not provide copyright protection."
               },
               {
                 "t": "p",
-                "x": "The novel was lauded until an anonymous X account shared AI-detection screengrabs on Sept. 21, the day it won the Prix du roman Fnac. Orélien called the accusations “slander and heresy,” saying he used AI only “here and there” for research."
+                "x": "The Canadian Authors Association said it applauds the change but called it “only a first step,” asking how the self-declaration will be monitored and verified. The Association of Canadian Publishers said limiting ISBNs to human-authored books should lead to less fraud, citing a flood of “AI-slop” books."
               },
               {
                 "t": "p",
-                "x": "Boréal commissioned an external analysis of all working versions of the novel. “The results, received this week, revealed traces of AI markers in the metadata of certain documents,” the publisher wrote, adding that it may never know to what extent AI was used — what it came down to was trust."
+                "x": "The move comes as Ottawa still lacks modernized copyright protections against unlicensed AI training; the federal AI strategy unveiled in June did not address copyright."
               }
             ]
           }
         },
         "ko": {
-          "headline": "AI 사용 문제로\n출판사, 퀘벡 작가와 결별",
-          "body": "Éditions du Boréal이 AI로 Thélyson Orélien을 내쳤다.",
-          "mini_headline": "Boréal, Orélien과 결별",
+          "headline": "캐나다 ISBNs 제한\nAI-generated 책",
+          "body": "캐나다 국립도서관·기록보존소가 ISBN 신청자에게 인간 저자 선언을 요구한다.",
+          "mini_headline": "캐나다, AI-book ISBN 제한",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
-                "cap": "2026년 9월 24일 프랑스 Manosque에서 열린 Les Correspondances 문학 축제에 참석한 Thélyson Orélien. (Joel Saget/AFP via Getty Images)"
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "cap": "FILE - 2024년 유월 3일 월요일, 오타와의 캐나다 국립도서관·기록보존소(Library and Archives Canada) 모습."
               },
               {
                 "t": "p",
-                "x": "몬트리올 출판사 Éditions du Boréal은 수요일, Thélyson Orélien이 소설 C’était ça ou mourir를 쓰는 데 AI가 쓰였다는 새 정보가 나왔다며 그와 더는 함께 일하지 않겠다고 발표했다. Orélien은 이 기술을 쓰지 않았다고 거듭 밝혀 왔다. "
+                "x": "캐나다 국립도서관·기록보존소(LAC)가 ISBN 정책을 고쳐 AI 생성(AI-generated) 도서와 기타 콘텐츠의 등록을 제한하자, 캐나다 작가·출판 단체들은 만족한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "“따라서 Boréal은 이 소설을 다시 찍지 않으며, Thélyson Orélien의 다른 책도 더는 내지 않을 것”이라고 보도자료는 밝혔다."
+                "x": "LAC는 시월 9일 갱신한 웹사이트에 “ISBN Canada에 등록하면 해당 출판물을 인간 저자가 썼다고 선언하는 것”이라고 적었다. AI 도구는 브레인스토밍, 문법 검사, 서식 정리 같은 제한된 보조 작업에만 쓸 수 있다. 내용 대부분을 AI로 만든 작품(텍스트, 삽화, 번역)에는 ISBN Canada가 ISBNs 발급 수량을 제한한다. LAC는 정책이 아직 검토 중이며 ISBN을 등록한다고 저작권이 보호되지는 않는다고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "이 소설은 호평을 받았다. 그러다 Prix du roman Fnac을 받은 9월 21일, 익명의 X 계정이 AI-detection(AI 탐지) 화면 캡처를 올렸다. Orélien은 이 의혹을 “중상이자 이단”이라 부르며 자료 조사에 AI를 “여기저기” 썼을 뿐이라고 말했다. "
+                "x": "캐나다작가협회(Canadian Authors Association)는 이번 변경을 환영하면서도 “첫걸음에 불과하다”며 자기 선언을 어떻게 감시하고 검증할지 물었다. 캐나다출판인협회(Association of Canadian Publishers)는 “AI-slop” 도서가 쏟아지는 상황을 들어 ISBNs를 사람이 쓴 책으로 제한하면 사기가 줄 것이라고 봤다."
               },
               {
                 "t": "p",
-                "x": "Boréal은 소설의 작업 버전 전부를 외부에 맡겨 분석했다. 출판사는 “이번 주에 받은 결과에서 일부 문서의 메타데이터에 AI 표지의 흔적이 드러났다”고 썼다. AI가 얼마나 쓰였는지는 끝내 모를 수도 있지만 결국 문제는 신뢰였다는 말도 덧붙였다. "
+                "x": "캐나다 연방정부는 무허가 AI 학습을 막을 현대적 저작권 보호 장치를 아직 마련하지 못했다. 유월에 내놓은 연방 AI 전략에서도 저작권 문제는 빠졌다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI使用めぐり出版社が\nケベックの作家と決別",
-          "body": "Éditions du BoréalがAI問題でThélyson Orélienと決別した。",
-          "mini_headline": "BoréalがOrélienと決別",
+          "headline": "カナダがISBNs制限\nAI-generated本",
+          "body": "カナダ国立図書館・文書館がISBN登録者に人間の著者の申告を義務づけた。",
+          "mini_headline": "カナダ、AI-bookのISBNを抑制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
-                "cap": "2026年9月24日、フランスのManosqueで開かれた文学祭Les Correspondancesに出席したThélyson Orélien。(Joel Saget/AFP via Getty Images)"
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "cap": "FILE - Monday, June 3, 2024、オタワのカナダ国立図書館・文書館（Library and Archives Canada）。"
               },
               {
                 "t": "p",
-                "x": "モントリオールの出版社Éditions du Boréalは水曜日、Thélyson Orélienの小説C’était ça ou mourirの執筆にAIが使われたことを示す新たな情報が得られたとして、同氏との仕事上の関係を終えると発表した。Orélienはこの技術を使っていないと繰り返し説明していた。"
+                "x": "カナダの作家団体や出版社団体は、カナダ国立図書館・文書館（LAC）がISBNポリシーを改定し、AI-generated（AI生成）の書籍などのコンテンツの登録を制限したことを歓迎している。"
               },
               {
                 "t": "p",
-                "x": "発表文には「したがってBoréalはこの小説を増刷せず、Thélyson Orélienの今後の著作も一切出版しない」とある。"
+                "x": "「ISBN Canadaに登録することで、あなたは出版物が人間の著者によって書かれたことを申告します」と、LACはOct. 9に更新したウェブサイトで説明している。AIツールの利用はブレインストーミングや文法・書式のチェックなど限定的な補助作業に限られ、ISBN Canadaは内容の大半がAIで生成された作品（テキスト、イラスト、翻訳）に対し、割り当てるISBNsの数を制限する。LACはこの方針が見直し中であり、ISBN登録は著作権保護をもたらさないとしている。"
               },
               {
                 "t": "p",
-                "x": "この小説は、Prix du roman Fnacを受賞した9月21日に匿名のXアカウントがAI-detection(AI検出)の画面キャプチャを公開するまで高く評価されていた。Orélienは疑惑を「中傷であり異端」と呼び、AIは調べものに「あちこちで」使っただけだと述べた。"
+                "x": "カナダ作家協会（Canadian Authors Association）は変更を称賛しつつも「あくまで出発点にすぎない」とし、自己申告をどう監視・検証するのかを問うた。カナダ出版社協会（Association of Canadian Publishers）は「AI-slop」書籍の氾濫を挙げ、ISBNsを人間が書いた本に限ることで不正は減るはずだと述べた。"
               },
               {
                 "t": "p",
-                "x": "Boréalは小説のすべての作業版について外部分析を依頼した。出版社は「今週受け取った結果で、一部の文書のメタデータにAIマーカーの痕跡が見つかった」と記し、AIがどの程度使われたかは永遠にわからないかもしれないが、結局は信頼の問題だったと付け加えた。"
+                "x": "今回の措置は、カナダ政府が無許諾のAI学習に対する著作権保護をいまだ現代化できていない中で打ち出された。Juneに公表された連邦AI戦略も著作権には触れていなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "因AI使用问题\n出版社与魁北克作家解约",
-          "body": "Éditions du Boréal因发现AI痕迹与Thélyson Orélien解约。",
-          "mini_headline": "Boréal与Orélien解约",
+          "headline": "加拿大限发ISBNs\nAI-generated书",
+          "body": "加拿大图书馆与档案馆要求ISBN申请者声明作者为人类，以遏制主要由AI生成的图书。",
+          "mini_headline": "加拿大限制AI-book的ISBN",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
-                "cap": "2026年9月24日，Thélyson Orélien出席在法国Manosque举行的Les Correspondances文学节。(Joel Saget/AFP via Getty Images)"
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "cap": "FILE - 资料图：Monday, June 3, 2024，位于渥太华的加拿大图书馆与档案馆（Library and Archives Canada）。"
               },
               {
                 "t": "p",
-                "x": "蒙特利尔出版社Éditions du Boréal周三宣布，将终止与Thélyson Orélien的合作关系，称新信息表明其小说C’était ça ou mourir的写作使用了AI——尽管他曾一再保证自己没有使用这项技术。"
+                "x": "加拿大作家与出版商团体表示，很高兴看到加拿大图书馆与档案馆（LAC）更新ISBN政策，限制AI-generated（AI生成）图书及其他内容的登记。"
               },
               {
                 "t": "p",
-                "x": "声明写道：“因此，Boréal将不再重印这部小说，也不会再出版Thélyson Orélien的任何作品。”"
+                "x": "LAC在Oct. 9更新的网站上表示：“在ISBN Canada登记，即表示您声明出版物由人类作者撰写。”AI工具仅可用于有限的辅助工作，例如头脑风暴、检查语法或排版；对于内容主要由AI生成的作品（文本、插图、翻译），ISBN Canada会限制ISBNs的发放数量。LAC表示，该政策正在审查中，且ISBN登记并不提供版权保护。"
               },
               {
                 "t": "p",
-                "x": "这部小说一直广受好评，直到9月21日，即它获得Prix du roman Fnac的当天，一个匿名X账号分享了AI-detection（AI检测）截图。Orélien称这些指控是“诽谤和异端”，表示自己只是在资料研究中“零星”用过AI。"
+                "x": "加拿大作家协会（Canadian Authors Association）表示赞赏这项变化，但称其“只是起点”，并质疑自我声明将如何监督和核实。加拿大出版商协会（Association of Canadian Publishers）援引“AI-slop”图书泛滥的现象，表示将ISBNs限定于人类作者的图书应能减少欺诈。"
               },
               {
                 "t": "p",
-                "x": "Boréal委托外部机构分析了这部小说的所有工作版本。出版社写道：“本周收到的结果显示，部分文件的元数据中存在AI标记的痕迹。”并补充说，也许永远无法得知AI的使用程度，归根结底是信任问题。"
+                "x": "此举出台之际，加拿大联邦政府仍缺乏针对未经许可的AI训练的现代化版权保护；June公布的联邦AI战略也未涉及版权问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una editorial rompe con un\nnovelista de Quebec por la AI",
-          "body": "Éditions du Boréal rompió con Thélyson Orélien citando rastros de AI en los metadatos de sus archivos de trabajo.",
-          "mini_headline": "Boréal rompe con Orélien",
+          "headline": "Canadá limita ISBNs a libros\nmayormente AI-generated",
+          "body": "Biblioteca y Archivos de Canadá exige declarar un autor humano para obtener un ISBN y frenar libros hechos con IA.",
+          "mini_headline": "Canadá frena los ISBN «AI-book»",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
-                "cap": "Thélyson Orélien en el festival literario Les Correspondances en Manosque, Francia, el 24 de septiembre de 2026. (Joel Saget/AFP via Getty Images)"
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "cap": "FILE - Biblioteca y Archivos de Canadá (Library and Archives Canada), en Ottawa, el lunes 3 de junio de 2024."
               },
               {
                 "t": "p",
-                "x": "La editorial montrealesa Éditions du Boréal anunció el miércoles que pone fin a su relación profesional con Thélyson Orélien, al señalar que nueva información indica que se usó AI en la escritura de su novela C’était ça ou mourir, pese a que él aseguró en repetidas ocasiones que no había usado esa tecnología."
+                "x": "Grupos de autores y editores canadienses dicen estar satisfechos con que Biblioteca y Archivos de Canadá (LAC) haya actualizado su política de ISBN para limitar los registros de libros generados por IA (AI-generated) y otros contenidos."
               },
               {
                 "t": "p",
-                "x": "“En consecuencia, Boréal no reimprimirá la novela ni publicará ningún otro libro de Thélyson Orélien”, dice el comunicado."
+                "x": "«Al registrarse en ISBN Canada, usted declara que su publicación fue escrita por un autor humano», indica LAC en su sitio web, actualizado el 9 de octubre. Las herramientas de IA solo pueden usarse para tareas de apoyo limitadas, como generar ideas, revisar la gramática o el formato, e ISBN Canada limita la cantidad de ISBNs para obras cuyo contenido está generado principalmente por IA (texto, ilustración, traducción). LAC afirma que su política está en revisión y que el registro de ISBN no otorga protección de derechos de autor."
               },
               {
                 "t": "p",
-                "x": "La novela recibió elogios hasta que una cuenta anónima de X compartió capturas de AI-detection el 21 de septiembre, el día en que ganó el Prix du roman Fnac. Orélien calificó las acusaciones de “calumnia y herejía” y dijo que solo usó AI “aquí y allá” para documentarse."
+                "x": "La Canadian Authors Association dijo que aplaude el cambio, pero lo calificó de «solo un primer paso» y preguntó cómo se supervisará y verificará la autodeclaración. La Association of Canadian Publishers afirmó que limitar los ISBNs a libros de autoría humana debería reducir el fraude, y citó una avalancha de libros «AI-slop»."
               },
               {
                 "t": "p",
-                "x": "Boréal encargó un análisis externo de todas las versiones de trabajo de la novela. “Los resultados, recibidos esta semana, revelaron rastros de marcadores de AI en los metadatos de ciertos documentos”, escribió la editorial, que añadió que quizá nunca sepa en qué medida se usó la AI: al final, todo se redujo a la confianza."
+                "x": "La medida llega cuando Ottawa aún carece de protecciones de derechos de autor modernizadas frente al entrenamiento no autorizado de IA; la estrategia federal de IA presentada en junio no abordó los derechos de autor."
               }
             ]
           }
@@ -511,125 +511,125 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "AI 사용 문제로\n출판사, 퀘벡 작가와 결별",
-          "body": "Éditions du Boréal이 AI로 Thélyson Orélien을 내쳤다.",
-          "mini_headline": "Boréal, Orélien과 결별",
+          "headline": "캐나다 ISBNs 제한\nAI-generated 책",
+          "body": "캐나다 국립도서관·기록보존소가 ISBN 신청자에게 인간 저자 선언을 요구한다.",
+          "mini_headline": "캐나다, AI-book ISBN 제한",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
-                "cap": "2026년 9월 24일 프랑스 Manosque에서 열린 Les Correspondances 문학 축제에 참석한 Thélyson Orélien. (Joel Saget/AFP via Getty Images)"
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "cap": "FILE - 2024년 유월 3일 월요일, 오타와의 캐나다 국립도서관·기록보존소(Library and Archives Canada) 모습."
               },
               {
                 "t": "p",
-                "x": "몬트리올 출판사 Éditions du Boréal은 수요일, Thélyson Orélien의 소설 C’était ça ou mourir 집필에 AI가 쓰였다는 새로운 정보가 나왔다며 그와의 업무 관계를 끝낸다고 발표했다. Orélien은 이 기술을 쓰지 않았다고 거듭 밝혀 왔다."
+                "x": "캐나다 작가·출판 단체들은 캐나다 국립도서관·기록보존소(LAC)가 ISBN 정책을 개정해 AI 생성(AI-generated) 도서와 기타 콘텐츠의 등록을 제한한 데 만족한다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "“따라서 Boréal은 이 소설을 다시 찍지 않으며, Thélyson Orélien의 다른 책도 더는 내지 않을 것”이라고 보도자료는 밝혔다."
+                "x": "LAC는 시월 9일 갱신한 웹사이트에서 “ISBN Canada에 등록하면 해당 출판물을 인간 저자가 썼다고 선언하는 것”이라고 밝혔다. AI 도구는 브레인스토밍, 문법 검사, 서식 정리 같은 제한된 보조 작업에만 쓸 수 있으며, ISBN Canada는 내용이 주로 AI로 생성된 작품(텍스트, 삽화, 번역)에 대해 ISBNs 발급 수량을 제한한다. LAC는 이 정책이 검토 중이며 ISBN 등록이 저작권 보호를 제공하지는 않는다고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "이 소설은 Prix du roman Fnac을 받은 9월 21일, 익명의 X 계정이 AI-detection(AI 탐지) 화면 캡처를 공유하기 전까지 호평을 받았다. Orélien은 이 의혹을 “중상이자 이단”이라 부르며, 자료 조사에 AI를 “여기저기” 썼을 뿐이라고 말했다."
+                "x": "캐나다작가협회(Canadian Authors Association)는 이번 변경을 환영하면서도 “첫걸음에 불과하다”며 자기 선언을 어떻게 감시하고 검증할지 물었다. 캐나다출판인협회(Association of Canadian Publishers)는 “AI-slop” 도서가 쏟아지는 상황을 들어 ISBNs를 인간이 쓴 책으로 제한하면 사기가 줄어들 것이라고 밝혔다."
               },
               {
                 "t": "p",
-                "x": "Boréal은 소설의 모든 작업 버전에 대한 외부 분석을 맡겼다. 출판사는 “이번 주에 받은 결과에서 일부 문서의 메타데이터에 AI 표지의 흔적이 드러났다”고 썼다. AI가 어느 정도 쓰였는지는 끝내 알 수 없을지도 모르지만, 결국 문제는 신뢰였다고 덧붙였다."
+                "x": "이번 조치는 캐나다 연방정부가 무허가 AI 학습에 맞설 현대화된 저작권 보호 장치를 아직 갖추지 못한 가운데 나왔다. 유월에 공개된 연방 AI 전략도 저작권 문제는 다루지 않았다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "AI使用めぐり出版社が\nケベックの作家と決別",
-          "body": "Éditions du BoréalがAI問題でThélyson Orélienと決別した。",
-          "mini_headline": "BoréalがOrélienと決別",
+          "headline": "カナダがISBNs制限\nAI-generated本",
+          "body": "カナダ国立図書館・文書館がISBN登録者に人間の著者の申告を義務づけた。",
+          "mini_headline": "カナダ、AI-bookのISBNを抑制",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
-                "cap": "2026年9月24日、フランスのManosqueで開かれた文学祭Les Correspondancesに出席したThélyson Orélien。(Joel Saget/AFP via Getty Images)"
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "cap": "FILE - Monday, June 3, 2024、オタワのカナダ国立図書館・文書館（Library and Archives Canada）。"
               },
               {
                 "t": "p",
-                "x": "モントリオールの出版社Éditions du Boréalは水曜日、Thélyson Orélienの小説C’était ça ou mourirの執筆にAIが使われたことを示す新たな情報が得られたとして、同氏との仕事上の関係を終えると発表した。Orélienはこの技術を使っていないと繰り返し説明していた。"
+                "x": "カナダの作家団体や出版社団体は、カナダ国立図書館・文書館（LAC）がISBNポリシーを改定し、AI-generated（AI生成）の書籍などのコンテンツの登録を制限したことを歓迎している。"
               },
               {
                 "t": "p",
-                "x": "発表文には「したがってBoréalはこの小説を増刷せず、Thélyson Orélienの今後の著作も一切出版しない」とある。"
+                "x": "「ISBN Canadaに登録することで、あなたは出版物が人間の著者によって書かれたことを申告します」と、LACはOct. 9に更新したウェブサイトで説明している。AIツールの利用はブレインストーミングや文法・書式のチェックなど限定的な補助作業に限られ、ISBN Canadaは内容の大半がAIで生成された作品（テキスト、イラスト、翻訳）に対し、割り当てるISBNsの数を制限する。LACはこの方針が見直し中であり、ISBN登録は著作権保護をもたらさないとしている。"
               },
               {
                 "t": "p",
-                "x": "この小説は、Prix du roman Fnacを受賞した9月21日に匿名のXアカウントがAI-detection(AI検出)の画面キャプチャを公開するまで高く評価されていた。Orélienは疑惑を「中傷であり異端」と呼び、AIは調べものに「あちこちで」使っただけだと述べた。"
+                "x": "カナダ作家協会（Canadian Authors Association）は変更を称賛しつつも「あくまで出発点にすぎない」とし、自己申告をどう監視・検証するのかを問うた。カナダ出版社協会（Association of Canadian Publishers）は「AI-slop」書籍の氾濫を挙げ、ISBNsを人間が書いた本に限ることで不正は減るはずだと述べた。"
               },
               {
                 "t": "p",
-                "x": "Boréalは小説のすべての作業版について外部分析を依頼した。出版社は「今週受け取った結果で、一部の文書のメタデータにAIマーカーの痕跡が見つかった」と記し、AIがどの程度使われたかは永遠にわからないかもしれないが、結局は信頼の問題だったと付け加えた。"
+                "x": "今回の措置は、カナダ政府が無許諾のAI学習に対する著作権保護をいまだ現代化できていない中で打ち出された。Juneに公表された連邦AI戦略も著作権には触れていなかった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "因AI使用问题\n出版社与魁北克作家解约",
-          "body": "Éditions du Boréal因发现AI痕迹与Thélyson Orélien解约。",
-          "mini_headline": "Boréal与Orélien解约",
+          "headline": "加拿大限发ISBNs\nAI-generated书",
+          "body": "加拿大图书馆与档案馆要求ISBN申请者声明作者为人类，以遏制主要由AI生成的图书。",
+          "mini_headline": "加拿大限制AI-book的ISBN",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
-                "cap": "2026年9月24日，Thélyson Orélien出席在法国Manosque举行的Les Correspondances文学节。(Joel Saget/AFP via Getty Images)"
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "cap": "FILE - 资料图：Monday, June 3, 2024，位于渥太华的加拿大图书馆与档案馆（Library and Archives Canada）。"
               },
               {
                 "t": "p",
-                "x": "蒙特利尔出版社Éditions du Boréal周三宣布，将终止与Thélyson Orélien的合作关系，称新信息表明其小说C’était ça ou mourir的写作使用了AI——尽管他曾一再保证自己没有使用这项技术。"
+                "x": "加拿大作家与出版商团体表示，很高兴看到加拿大图书馆与档案馆（LAC）更新ISBN政策，限制AI-generated（AI生成）图书及其他内容的登记。"
               },
               {
                 "t": "p",
-                "x": "声明写道：“因此，Boréal将不再重印这部小说，也不会再出版Thélyson Orélien的任何作品。”"
+                "x": "LAC在Oct. 9更新的网站上表示：“在ISBN Canada登记，即表示您声明出版物由人类作者撰写。”AI工具仅可用于有限的辅助工作，例如头脑风暴、检查语法或排版；对于内容主要由AI生成的作品（文本、插图、翻译），ISBN Canada会限制ISBNs的发放数量。LAC表示，该政策正在审查中，且ISBN登记并不提供版权保护。"
               },
               {
                 "t": "p",
-                "x": "这部小说一直广受好评，直到9月21日，即它获得Prix du roman Fnac的当天，一个匿名X账号分享了AI-detection（AI检测）截图。Orélien称这些指控是“诽谤和异端”，表示自己只是在资料研究中“零星”用过AI。"
+                "x": "加拿大作家协会（Canadian Authors Association）表示赞赏这项变化，但称其“只是起点”，并质疑自我声明将如何监督和核实。加拿大出版商协会（Association of Canadian Publishers）援引“AI-slop”图书泛滥的现象，表示将ISBNs限定于人类作者的图书应能减少欺诈。"
               },
               {
                 "t": "p",
-                "x": "Boréal委托外部机构分析了这部小说的所有工作版本。出版社写道：“本周收到的结果显示，部分文件的元数据中存在AI标记的痕迹。”并补充说，也许永远无法得知AI的使用程度，归根结底是信任问题。"
+                "x": "此举出台之际，加拿大联邦政府仍缺乏针对未经许可的AI训练的现代化版权保护；June公布的联邦AI战略也未涉及版权问题。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Una editorial rompe con un\nnovelista de Quebec por la AI",
-          "body": "Éditions du Boréal rompió con Thélyson Orélien citando rastros de AI en los metadatos de sus archivos de trabajo.",
-          "mini_headline": "Boréal rompe con Orélien",
+          "headline": "Canadá limita ISBNs a libros\nmayormente AI-generated",
+          "body": "Biblioteca y Archivos de Canadá exige declarar un autor humano para obtener un ISBN y frenar libros hechos con IA.",
+          "mini_headline": "Canadá frena los ISBN «AI-book»",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://i.cbc.ca/ais/dac92f6c-93ec-4049-b670-e76a87121894,1792599934696/full/max/0/default.jpg?im=Crop%2Crect%3D%28208%2C726%2C6676%2C3755%29%3BResize%3D620",
-                "cap": "Thélyson Orélien en el festival literario Les Correspondances en Manosque, Francia, el 24 de septiembre de 2026. (Joel Saget/AFP via Getty Images)"
+                "src": "https://globalnews.ca/wp-content/uploads/2026/10/CP171900259-e1792608559278.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+                "cap": "FILE - Biblioteca y Archivos de Canadá (Library and Archives Canada), en Ottawa, el lunes 3 de junio de 2024."
               },
               {
                 "t": "p",
-                "x": "La editorial montrealesa Éditions du Boréal anunció el miércoles que pone fin a su relación profesional con Thélyson Orélien, al señalar que nueva información indica que se usó AI en la escritura de su novela C’était ça ou mourir, pese a que él aseguró en repetidas ocasiones que no había usado esa tecnología."
+                "x": "Grupos de autores y editores canadienses dicen estar satisfechos con que Biblioteca y Archivos de Canadá (LAC) haya actualizado su política de ISBN para limitar los registros de libros generados por IA (AI-generated) y otros contenidos."
               },
               {
                 "t": "p",
-                "x": "“En consecuencia, Boréal no reimprimirá la novela ni publicará ningún otro libro de Thélyson Orélien”, dice el comunicado."
+                "x": "«Al registrarse en ISBN Canada, usted declara que su publicación fue escrita por un autor humano», indica LAC en su sitio web, actualizado el 9 de octubre. Las herramientas de IA solo pueden usarse para tareas de apoyo limitadas, como generar ideas, revisar la gramática o el formato, e ISBN Canada limita la cantidad de ISBNs para obras cuyo contenido está generado principalmente por IA (texto, ilustración, traducción). LAC afirma que su política está en revisión y que el registro de ISBN no otorga protección de derechos de autor."
               },
               {
                 "t": "p",
-                "x": "La novela recibió elogios hasta que una cuenta anónima de X compartió capturas de AI-detection el 21 de septiembre, el día en que ganó el Prix du roman Fnac. Orélien calificó las acusaciones de “calumnia y herejía” y dijo que solo usó AI “aquí y allá” para documentarse."
+                "x": "La Canadian Authors Association dijo que aplaude el cambio, pero lo calificó de «solo un primer paso» y preguntó cómo se supervisará y verificará la autodeclaración. La Association of Canadian Publishers afirmó que limitar los ISBNs a libros de autoría humana debería reducir el fraude, y citó una avalancha de libros «AI-slop»."
               },
               {
                 "t": "p",
-                "x": "Boréal encargó un análisis externo de todas las versiones de trabajo de la novela. “Los resultados, recibidos esta semana, revelaron rastros de marcadores de AI en los metadatos de ciertos documentos”, escribió la editorial, que añadió que quizá nunca sepa en qué medida se usó la AI: al final, todo se redujo a la confianza."
+                "x": "La medida llega cuando Ottawa aún carece de protecciones de derechos de autor modernizadas frente al entrenamiento no autorizado de IA; la estrategia federal de IA presentada en junio no abordó los derechos de autor."
               }
             ]
           }
@@ -637,331 +637,231 @@
       }
     },
     {
-      "id": "books-huawei-pangu",
-      "source_lang": "ko",
+      "id": "books-meta-terms-ai-training",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "화웨이도 한강·황석영 책\n무단으로 내려받았다",
-      "body": "화웨이 '판구 시그마' 학습 데이터셋에 한강·황석영 책 해적판이 들어 있었다.",
-      "mini_headline": "화웨이도 한국 책 무단 다운",
+      "headline": "Meta, 상업 약관서\nAI 학습 조항 삭제",
+      "body": "출판계 반발에 Meta가 새 상업 약관의 허용 용도에서 'train'을 뺐다.",
+      "mini_headline": "Meta, AI 학습 조항 철회",
       "tool": "Books",
-      "source": "중앙일보",
-      "url": "https://www.joongang.co.kr/article/25471800",
+      "source": "Jane Friedman",
+      "url": "https://janefriedman.com/new-meta-commercial-terms-might-have-granted-it-ai-training-rights-until-it-changed-course/",
       "accent": "#7928ca",
       "motif": "swatch",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "img",
-            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
-            "cap": "중국 인공지능(AI) 스타트업 딥시크(DeepSeek) 로고. 로이터=연합뉴스"
+            "t": "p",
+            "x": "새 상업 약관대로라면 Meta에 AI 학습 권리가 생길 수도 있었다. 하지만 Meta는 방향을 틀었다."
           },
           {
             "t": "p",
-            "x": "미국 AI 기업 앤트로픽에 이어 중국 AI 기업도 한강·황석영 등의 책을 무단으로 다운로드한 것으로 21일 확인됐다. 화웨이는 2023년 3월 arXiv에 공개한 AI 모델 ‘판구 시그마(Σ)’ 기술보고서에서 영어 텍스트로 ‘더 파일(The Pile)’ 등을 썼다고 명시했다."
+            "x": "출판계가 반발하자 Meta는 상업 약관을 고쳐 허용 용도에서 train이라는 단어를 지웠다."
           },
           {
             "t": "p",
-            "x": "‘더 파일’에는 앤트로픽도 무단 다운로드한 해적판 전자책 모음 ‘북스3(Books3)’가 포함돼 있고, 북스3에는 한강의 『소년이 온다』·『채식주의자』, 황석영의 『바리데기』 등 한국 작가 영어 번역본이 최소 19종(작가 10명) 들어 있다. 다만 화웨이 등이 내려받은 소설을 전부 학습했는지는 확인할 수 없다."
-          },
-          {
-            "t": "img",
-            "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
-            "cap": "지난 7월 17일 중국 상하이에서 열린 세계 인공지능(AI) 컨퍼런스(WAIC)에서 화웨이 로고. 로이터=연합뉴스"
-          },
-          {
-            "t": "p",
-            "x": "딥시크는 2024년 3월 ‘딥시크-VL’ 보고서에서 해적 도서 사이트 ‘안나의 아카이브’에서 확보한 영어 전자책 86만 권과 중국어 전자책 18만 권을 학습에 썼다고 밝혔다. 주재걸 카이스트 AI대학원 교수는 “해적판 도서를 AI 학습 데이터로 쓴다는 건 AI 업계에선 많이 알려진 내용”이라고 말했다."
+            "x": "기사 전문은 Jane Friedman 뉴스레터 유료 구독자만 읽을 수 있다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "화웨이도 한강·황석영 책\n무단으로 내려받았다",
-          "body": "화웨이 '판구 시그마' 학습 데이터셋에 한강·황석영 책 해적판이 들어 있었다.",
-          "mini_headline": "화웨이도 한국 책 무단 다운",
+        "en": {
+          "headline": "Meta drops AI training\nfrom its commercial terms",
+          "body": "After publisher outcry, Meta changed its new commercial terms to remove the word 'train' from permitted uses.",
+          "mini_headline": "Meta drops\nAI training terms",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
-                "cap": "중국 인공지능(AI) 스타트업 딥시크(DeepSeek) 로고. 로이터=연합뉴스"
+                "t": "p",
+                "x": "New Meta commercial terms might have granted it AI training rights, until it changed course."
               },
               {
                 "t": "p",
-                "x": "미국 AI 기업 앤트로픽에 이어 중국 AI 기업도 한강·황석영 등의 책을 무단으로 다운로드한 것으로 21일 확인됐다. 화웨이는 2023년 3월 arXiv에 공개한 AI 모델 ‘판구 시그마(Σ)’ 기술보고서에서 영어 텍스트로 ‘더 파일(The Pile)’ 등을 썼다고 명시했다."
+                "x": "After publisher outcry, Meta modified its commercial terms to remove the word train from permitted uses."
               },
               {
                 "t": "p",
-                "x": "‘더 파일’에는 앤트로픽도 무단 다운로드한 해적판 전자책 모음 ‘북스3(Books3)’가 포함돼 있고, 북스3에는 한강의 『소년이 온다』·『채식주의자』, 황석영의 『바리데기』 등 한국 작가 영어 번역본이 최소 19종(작가 10명) 들어 있다. 다만 화웨이 등이 내려받은 소설을 전부 학습했는지는 확인할 수 없다."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
-                "cap": "지난 7월 17일 중국 상하이에서 열린 세계 인공지능(AI) 컨퍼런스(WAIC)에서 화웨이 로고. 로이터=연합뉴스"
-              },
-              {
-                "t": "p",
-                "x": "딥시크는 2024년 3월 ‘딥시크-VL’ 보고서에서 해적 도서 사이트 ‘안나의 아카이브’에서 확보한 영어 전자책 86만 권과 중국어 전자책 18만 권을 학습에 썼다고 밝혔다. 주재걸 카이스트 AI대학원 교수는 “해적판 도서를 AI 학습 데이터로 쓴다는 건 AI 업계에선 많이 알려진 내용”이라고 말했다."
+                "x": "The full article is available to paid subscribers of Jane Friedman's newsletter."
               }
             ]
           }
         },
-        "en": {
-          "headline": "Huawei also downloaded books\nby Han Kang, Hwang Sok-yong",
-          "body": "Pirated books by Han Kang and Hwang Sok-yong were in the training data for Huawei's PanGu-Σ model.",
-          "mini_headline": "Huawei also took Korean books",
+        "ko": {
+          "headline": "Meta, 상업 약관서\nAI 학습 조항 삭제",
+          "body": "출판계 반발에 Meta가 새 상업 약관의 허용 용도에서 'train'을 뺐다.",
+          "mini_headline": "Meta, AI 학습 조항 철회",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
-                "cap": "Logo of Chinese artificial intelligence (AI) startup DeepSeek. Reuters=Yonhap News"
+                "t": "p",
+                "x": "새 상업 약관대로라면 Meta에 AI 학습 권리가 생길 수도 있었다. 하지만 Meta는 방향을 틀었다."
               },
               {
                 "t": "p",
-                "x": "Following American AI company Anthropic, Chinese AI companies were also confirmed on the 21st to have downloaded books by Han Kang, Hwang Sok-yong and others without permission. In the technical report for its AI model ‘PanGu-Σ’, posted to arXiv in March 2023, Huawei stated that it used ‘The Pile’ and other sources for English text."
+                "x": "출판계가 반발하자 Meta는 상업 약관을 고쳐 허용 용도에서 train이라는 단어를 지웠다."
               },
               {
                 "t": "p",
-                "x": "‘The Pile’ includes ‘Books3’, a collection of pirated e-books that Anthropic also downloaded without permission, and Books3 contains at least 19 English translations of Korean writers (10 authors), including Han Kang’s Human Acts and The Vegetarian and Hwang Sok-yong’s Princess Bari. It cannot be confirmed, however, whether Huawei and the others trained on every novel they downloaded."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
-                "cap": "The Huawei logo at the World Artificial Intelligence Conference (WAIC) in Shanghai, China, on July 17. Reuters=Yonhap News"
-              },
-              {
-                "t": "p",
-                "x": "In its ‘DeepSeek-VL’ report in March 2024, DeepSeek said it used 86만 English e-books and 18만 Chinese e-books obtained from the pirate book site ‘Anna’s Archive’ for training. Jaegul Choo, a professor at the KAIST Graduate School of AI, said, “Using pirated books as AI training data is widely known in the AI industry.”"
+                "x": "기사 전문은 Jane Friedman 뉴스레터 유료 구독자만 읽을 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ファーウェイも韓江らの\n本を無断ダウンロード",
-          "body": "ファーウェイ「PanGu-Σ」の学習データに韓江・黄晳暎の本の海賊版が含まれていた。",
-          "mini_headline": "ファーウェイも韓国の本を無断入手",
+          "headline": "Meta、商用規約から\nAI学習を削除",
+          "body": "出版業界の反発を受け、Metaは新たな商用規約の許可用途から「train」を削除した。",
+          "mini_headline": "Meta、AI学習の条項を撤回",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
-                "cap": "中国の人工知能(AI)スタートアップ、DeepSeekのロゴ。ロイター=聯合ニュース"
+                "t": "p",
+                "x": "Metaの新しい商用規約は、同社にAI学習の権利を与える可能性があったが、Metaは方針を転換した。"
               },
               {
                 "t": "p",
-                "x": "米AI企業Anthropicに続き、中国のAI企業も韓江(ハン・ガン)や黄晳暎(ファン・ソギョン)らの本を無断でダウンロードしていたことが21日わかった。ファーウェイは2023年3月にarXivで公開したAIモデル「PanGu-Σ」の技術報告書で、英語テキストとして「The Pile」などを使ったと明記している。"
+                "x": "出版業界の反発を受け、Metaは商用規約を修正し、許可される用途からtrainという語を削除した。"
               },
               {
                 "t": "p",
-                "x": "「The Pile」にはAnthropicも無断でダウンロードした海賊版電子書籍集「Books3」が含まれ、Books3には韓江の『少年が来る』『菜食主義者』、黄晳暎の『パリデギ』など韓国作家の英訳本が少なくとも19点(作家10人)入っている。ただし、ファーウェイなどがダウンロードした小説をすべて学習に使ったかどうかは確認できない。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
-                "cap": "7月17日、中国・上海で開かれた世界人工知能会議(WAIC)でのファーウェイのロゴ。ロイター=聯合ニュース"
-              },
-              {
-                "t": "p",
-                "x": "DeepSeekは2024年3月の「DeepSeek-VL」報告書で、海賊版書籍サイト「Anna’s Archive」から入手した英語の電子書籍86万冊と中国語の電子書籍18万冊を学習に使ったと明らかにした。KAIST AI大学院のチュ・ジェゴル教授は「海賊版の書籍をAIの学習データに使うことは、AI業界ではよく知られた話だ」と述べた。"
+                "x": "記事全文はJane Friedmanのニュースレターの有料購読者向けに公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "华为也擅自下载了\n韩江、黄晳暎的书",
-          "body": "华为“盘古Σ”训练数据集中含有韩江、黄晳暎作品的盗版电子书。",
-          "mini_headline": "华为也擅自下载韩国图书",
+          "headline": "Meta从商业条款中\n删除AI训练",
+          "body": "因出版商强烈反对，Meta修改新商业条款，从允许用途中删去了“train”。",
+          "mini_headline": "Meta撤回AI训练条款",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
-                "cap": "中国人工智能(AI)初创公司DeepSeek的标志。路透社=韩联社"
+                "t": "p",
+                "x": "Meta的新商业条款原本可能授予其AI训练权，直到Meta改变了方向。"
               },
               {
                 "t": "p",
-                "x": "继美国AI企业Anthropic之后，21日证实中国AI企业也擅自下载了韩江、黄晳暎等作家的书。华为在2023年3月于arXiv发布的AI模型“盘古Σ”技术报告中明确写道，其英文文本使用了“The Pile”等数据。"
+                "x": "在出版商强烈反对后，Meta修改了商业条款，从允许用途中删除了train这个词。"
               },
               {
                 "t": "p",
-                "x": "“The Pile”中包含Anthropic也曾擅自下载的盗版电子书合集“Books3”，而Books3里有韩江的《少年来了》《素食者》、黄晳暎的《巴里公主》等至少19种韩国作家的英译本（作家10人）。不过，无法确认华为等公司是否用下载的全部小说进行了训练。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
-                "cap": "7月17日在中国上海举行的世界人工智能大会(WAIC)上的华为标志。路透社=韩联社"
-              },
-              {
-                "t": "p",
-                "x": "DeepSeek在2024年3月的“DeepSeek-VL”报告中表示，训练使用了从盗版图书网站“Anna’s Archive”获取的86万册英文电子书和18万册中文电子书。KAIST AI研究生院教授Jaegul Choo表示：“用盗版图书作为AI训练数据，在AI业界是众所周知的事。”"
+                "x": "全文仅向Jane Friedman通讯的付费订阅者开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Huawei también descargó libros\nde Han Kang y Hwang Sok-yong",
-          "body": "Ediciones piratas de libros de Han Kang y Hwang Sok-yong estaban en los datos de entrenamiento de PanGu-Σ, de Huawei.",
-          "mini_headline": "Huawei también tomó libros coreanos",
+          "headline": "Meta retira el entrenamiento de\nIA de sus términos comerciales",
+          "body": "Ante las quejas editoriales, Meta quitó la palabra 'train' de los usos permitidos en sus nuevos términos comerciales.",
+          "mini_headline": "Meta retira los términos de entrenamiento de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
-                "cap": "Logotipo de la startup china de inteligencia artificial (AI) DeepSeek. Reuters=Yonhap"
+                "t": "p",
+                "x": "Los nuevos términos comerciales de Meta podrían haberle otorgado derechos de entrenamiento de IA (AI training), hasta que cambió de rumbo."
               },
               {
                 "t": "p",
-                "x": "Tras la empresa estadounidense de AI Anthropic, se confirmó el día 21 que también empresas chinas de AI descargaron sin permiso libros de Han Kang, Hwang Sok-yong y otros autores. En el informe técnico de su modelo de AI ‘PanGu-Σ’, publicado en arXiv en marzo de 2023, Huawei indicó que usó ‘The Pile’, entre otras fuentes, como texto en inglés."
+                "x": "Tras las quejas de las editoriales, Meta modificó sus términos comerciales para eliminar la palabra train de los usos permitidos."
               },
               {
                 "t": "p",
-                "x": "‘The Pile’ incluye ‘Books3’, una colección de libros electrónicos piratas que Anthropic también descargó sin permiso, y Books3 contiene al menos 19 traducciones al inglés de escritores coreanos (10 autores), entre ellas Actos humanos y La vegetariana, de Han Kang, y La princesa Bari, de Hwang Sok-yong. Sin embargo, no puede confirmarse si Huawei y las demás empresas entrenaron con todas las novelas que descargaron."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
-                "cap": "Logotipo de Huawei en la Conferencia Mundial de Inteligencia Artificial (WAIC), celebrada en Shanghái, China, el 17 de julio. Reuters=Yonhap"
-              },
-              {
-                "t": "p",
-                "x": "En su informe ‘DeepSeek-VL’ de marzo de 2024, DeepSeek indicó que usó para el entrenamiento 86만 libros electrónicos en inglés y 18만 en chino obtenidos del sitio de libros piratas ‘Anna’s Archive’. Jaegul Choo, profesor de la Escuela de Posgrado de AI de KAIST, afirmó: “Que se usen libros piratas como datos de entrenamiento de AI es algo muy conocido en la industria de la AI”."
+                "x": "El artículo completo está disponible para los suscriptores de pago del boletín de Jane Friedman."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Huawei also downloaded books\nby Han Kang, Hwang Sok-yong",
-          "body": "Pirated books by Han Kang and Hwang Sok-yong were in the training data for Huawei's PanGu-Σ model.",
-          "mini_headline": "Huawei also took Korean books",
+        "ko": {
+          "headline": "Meta, 상업 약관서\nAI 학습 조항 삭제",
+          "body": "출판계 반발에 Meta가 새 상업 약관의 허용 용도에서 'train'을 뺐다.",
+          "mini_headline": "Meta, AI 학습 조항 철회",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
-                "cap": "Logo of Chinese artificial intelligence (AI) startup DeepSeek. Reuters=Yonhap News"
+                "t": "p",
+                "x": "Meta의 새 상업 약관은 Meta에 AI 학습 권리를 부여할 수도 있었지만, Meta는 방향을 바꿨다."
               },
               {
                 "t": "p",
-                "x": "Following American AI company Anthropic, Chinese AI companies were also confirmed on the 21st to have downloaded books by Han Kang, Hwang Sok-yong and others without permission. In the technical report for its AI model ‘PanGu-Σ’, posted to arXiv in March 2023, Huawei stated that it used ‘The Pile’ and other sources for English text."
+                "x": "출판계의 반발이 일자 Meta는 상업 약관을 수정해 허용 용도에서 train이라는 단어를 삭제했다."
               },
               {
                 "t": "p",
-                "x": "‘The Pile’ includes ‘Books3’, a collection of pirated e-books that Anthropic also downloaded without permission, and Books3 contains at least 19 English translations of Korean writers (10 authors), including Han Kang’s Human Acts and The Vegetarian and Hwang Sok-yong’s Princess Bari. It cannot be confirmed, however, whether Huawei and the others trained on every novel they downloaded."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
-                "cap": "The Huawei logo at the World Artificial Intelligence Conference (WAIC) in Shanghai, China, on July 17. Reuters=Yonhap News"
-              },
-              {
-                "t": "p",
-                "x": "In its ‘DeepSeek-VL’ report in March 2024, DeepSeek said it used 86만 English e-books and 18만 Chinese e-books obtained from the pirate book site ‘Anna’s Archive’ for training. Jaegul Choo, a professor at the KAIST Graduate School of AI, said, “Using pirated books as AI training data is widely known in the AI industry.”"
+                "x": "전체 기사는 Jane Friedman 뉴스레터의 유료 구독자만 볼 수 있다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "ファーウェイも韓江らの\n本を無断ダウンロード",
-          "body": "ファーウェイ「PanGu-Σ」の学習データに韓江・黄晳暎の本の海賊版が含まれていた。",
-          "mini_headline": "ファーウェイも韓国の本を無断入手",
+          "headline": "Meta、商用規約から\nAI学習を削除",
+          "body": "出版業界の反発を受け、Metaは新たな商用規約の許可用途から「train」を削除した。",
+          "mini_headline": "Meta、AI学習の条項を撤回",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
-                "cap": "中国の人工知能(AI)スタートアップ、DeepSeekのロゴ。ロイター=聯合ニュース"
+                "t": "p",
+                "x": "Metaの新しい商用規約は、同社にAI学習の権利を与える可能性があったが、Metaは方針を転換した。"
               },
               {
                 "t": "p",
-                "x": "米AI企業Anthropicに続き、中国のAI企業も韓江(ハン・ガン)や黄晳暎(ファン・ソギョン)らの本を無断でダウンロードしていたことが21日わかった。ファーウェイは2023年3月にarXivで公開したAIモデル「PanGu-Σ」の技術報告書で、英語テキストとして「The Pile」などを使ったと明記している。"
+                "x": "出版業界の反発を受け、Metaは商用規約を修正し、許可される用途からtrainという語を削除した。"
               },
               {
                 "t": "p",
-                "x": "「The Pile」にはAnthropicも無断でダウンロードした海賊版電子書籍集「Books3」が含まれ、Books3には韓江の『少年が来る』『菜食主義者』、黄晳暎の『パリデギ』など韓国作家の英訳本が少なくとも19点(作家10人)入っている。ただし、ファーウェイなどがダウンロードした小説をすべて学習に使ったかどうかは確認できない。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
-                "cap": "7月17日、中国・上海で開かれた世界人工知能会議(WAIC)でのファーウェイのロゴ。ロイター=聯合ニュース"
-              },
-              {
-                "t": "p",
-                "x": "DeepSeekは2024年3月の「DeepSeek-VL」報告書で、海賊版書籍サイト「Anna’s Archive」から入手した英語の電子書籍86万冊と中国語の電子書籍18万冊を学習に使ったと明らかにした。KAIST AI大学院のチュ・ジェゴル教授は「海賊版の書籍をAIの学習データに使うことは、AI業界ではよく知られた話だ」と述べた。"
+                "x": "記事全文はJane Friedmanのニュースレターの有料購読者向けに公開されている。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "华为也擅自下载了\n韩江、黄晳暎的书",
-          "body": "华为“盘古Σ”训练数据集中含有韩江、黄晳暎作品的盗版电子书。",
-          "mini_headline": "华为也擅自下载韩国图书",
+          "headline": "Meta从商业条款中\n删除AI训练",
+          "body": "因出版商强烈反对，Meta修改新商业条款，从允许用途中删去了“train”。",
+          "mini_headline": "Meta撤回AI训练条款",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
-                "cap": "中国人工智能(AI)初创公司DeepSeek的标志。路透社=韩联社"
+                "t": "p",
+                "x": "Meta的新商业条款原本可能授予其AI训练权，直到Meta改变了方向。"
               },
               {
                 "t": "p",
-                "x": "继美国AI企业Anthropic之后，21日证实中国AI企业也擅自下载了韩江、黄晳暎等作家的书。华为在2023年3月于arXiv发布的AI模型“盘古Σ”技术报告中明确写道，其英文文本使用了“The Pile”等数据。"
+                "x": "在出版商强烈反对后，Meta修改了商业条款，从允许用途中删除了train这个词。"
               },
               {
                 "t": "p",
-                "x": "“The Pile”中包含Anthropic也曾擅自下载的盗版电子书合集“Books3”，而Books3里有韩江的《少年来了》《素食者》、黄晳暎的《巴里公主》等至少19种韩国作家的英译本（作家10人）。不过，无法确认华为等公司是否用下载的全部小说进行了训练。"
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
-                "cap": "7月17日在中国上海举行的世界人工智能大会(WAIC)上的华为标志。路透社=韩联社"
-              },
-              {
-                "t": "p",
-                "x": "DeepSeek在2024年3月的“DeepSeek-VL”报告中表示，训练使用了从盗版图书网站“Anna’s Archive”获取的86万册英文电子书和18万册中文电子书。KAIST AI研究生院教授Jaegul Choo表示：“用盗版图书作为AI训练数据，在AI业界是众所周知的事。”"
+                "x": "全文仅向Jane Friedman通讯的付费订阅者开放。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Huawei también descargó libros\nde Han Kang y Hwang Sok-yong",
-          "body": "Ediciones piratas de libros de Han Kang y Hwang Sok-yong estaban en los datos de entrenamiento de PanGu-Σ, de Huawei.",
-          "mini_headline": "Huawei también tomó libros coreanos",
+          "headline": "Meta retira el entrenamiento de\nIA de sus términos comerciales",
+          "body": "Ante las quejas editoriales, Meta quitó la palabra 'train' de los usos permitidos en sus nuevos términos comerciales.",
+          "mini_headline": "Meta retira los términos de entrenamiento de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/9d277629-1953-419d-ab11-220617d126d9.jpg",
-                "cap": "Logotipo de la startup china de inteligencia artificial (AI) DeepSeek. Reuters=Yonhap"
+                "t": "p",
+                "x": "Los nuevos términos comerciales de Meta podrían haberle otorgado derechos de entrenamiento de IA (AI training), hasta que cambió de rumbo."
               },
               {
                 "t": "p",
-                "x": "Tras la empresa estadounidense de AI Anthropic, se confirmó el día 21 que también empresas chinas de AI descargaron sin permiso libros de Han Kang, Hwang Sok-yong y otros autores. En el informe técnico de su modelo de AI ‘PanGu-Σ’, publicado en arXiv en marzo de 2023, Huawei indicó que usó ‘The Pile’, entre otras fuentes, como texto en inglés."
+                "x": "Tras las quejas de las editoriales, Meta modificó sus términos comerciales para eliminar la palabra train de los usos permitidos."
               },
               {
                 "t": "p",
-                "x": "‘The Pile’ incluye ‘Books3’, una colección de libros electrónicos piratas que Anthropic también descargó sin permiso, y Books3 contiene al menos 19 traducciones al inglés de escritores coreanos (10 autores), entre ellas Actos humanos y La vegetariana, de Han Kang, y La princesa Bari, de Hwang Sok-yong. Sin embargo, no puede confirmarse si Huawei y las demás empresas entrenaron con todas las novelas que descargaron."
-              },
-              {
-                "t": "img",
-                "src": "https://pds.joongang.co.kr/news/component/htmlphoto_mmdata/202610/22/c581ed9f-abd3-4ea3-bd2b-a4eb1cd3514a.jpg",
-                "cap": "Logotipo de Huawei en la Conferencia Mundial de Inteligencia Artificial (WAIC), celebrada en Shanghái, China, el 17 de julio. Reuters=Yonhap"
-              },
-              {
-                "t": "p",
-                "x": "En su informe ‘DeepSeek-VL’ de marzo de 2024, DeepSeek indicó que usó para el entrenamiento 86만 libros electrónicos en inglés y 18만 en chino obtenidos del sitio de libros piratas ‘Anna’s Archive’. Jaegul Choo, profesor de la Escuela de Posgrado de AI de KAIST, afirmó: “Que se usen libros piratas como datos de entrenamiento de AI es algo muy conocido en la industria de la AI”."
+                "x": "El artículo completo está disponible para los suscriptores de pago del boletín de Jane Friedman."
               }
             ]
           }
@@ -969,15 +869,15 @@
       }
     },
     {
-      "id": "books-soa-charter",
+      "id": "books-pla-microsoft-ai-sessions",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "작가협회(SoA)\n윤리적 AI 헌장 탈퇴",
-      "body": "작가협회가 지난 13일 함께 출범시킨 윤리적 AI 헌장에서 회원 반발로 빠졌다.",
-      "mini_headline": "SoA, AI 헌장 탈퇴",
+      "headline": "PLA·Microsoft\nAI 교육 협력",
+      "body": "PLA와 Microsoft가 도서관 직원과 이용자에게 무료 AI 교육을 연다.",
+      "mini_headline": "도서관과 Microsoft, AI 교육",
       "tool": "Books",
-      "source": "The Bookseller",
-      "url": "https://www.thebookseller.com/news/society-of-authors-withdraws-from-ethical-ai-charter-after-member-backlash",
+      "source": "Publishers Weekly",
+      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/libraries/article/101589-pla-partners-with-microsoft-on-library-ai-info-sessions.html",
       "accent": "#2ec5c5",
       "motif": "swatch",
       "full": {
@@ -985,155 +885,149 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-            "cap": "Anna Ganley"
+            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
           },
           {
             "t": "p",
-            "x": "작가협회(Society of Authors, SoA)가 지난주 출범한 윤리적 AI 헌장(Ethical AI Charter)에서 탈퇴했다. 반발이 일자 Anna Ganley CEO가 생성형 AI를 두고 협회 입장을 정리하는 성명을 냈고, 그 뒤에 내린 결정이다. 회원들은 21일 이메일로 SoA의 탈퇴 소식을 받았다. "
+            "x": "공공도서관협회(Public Library Association)가 Microsoft와 손잡고 무료 AI 역량 사업을 펼친다. “Building AI Skills and Agency Through Libraries”(도서관을 통한 AI 역량과 주체성 함양)는 웨비나와 지역사회 실습 세션을 묶은 프로그램으로, 도서관 직원과 이용자 모두 참여할 수 있다. 웨비나는 모두 네 차례이고 첫 순서인 “The AI-Ready Public Library”는 십이월 초에 열린다."
           },
           {
             "t": "p",
-            "x": "협회는 13일 발표된 이 헌장을 Creators’ Rights Alliance, Authors Guild, 호주작가협회, 캐나다작가연맹, 뉴질랜드작가협회와 함께 만들었다. 헌장은 그대로 남아 있고 다른 단체는 탈퇴하지 않았다. "
+            "x": "이 사업은 PLA의 Transformative Technology 태스크포스가 Microsoft Elevate와 함께 만들었다. Microsoft Elevate는 비상업 영역의 AI 리터러시를 맡으려고 출범한 부문이다. 이 부문을 이끄는 Justin Spelhaug는 안전을 강조하면서 생각을 AI에 떠넘기는 ‘인지적 오프로딩(cognitive offloading)’이 진정한 학습을 가로막을 위험도 짚었다."
           },
           {
             "t": "p",
-            "x": "회원들은 의견 수렴이 없었던 점과 생성형 AI 사용을 두고 SoA가 내세운 입장을 문제 삼았다. Ganley는 16일 “LLMs가 허락이나 대가 없이 저작물로 학습된 방식 때문에, 생성형 AI의 진정으로 윤리적인 사용이란 결코 있을 수 없다”고 말했다. "
+            "x": "PLA 회원들은 그동안 직원 교육, 지역사회 교육, 실용적인 AI 정책 사례를 요청해 왔다. New York Public Library 소속으로 PLA 회장을 지낸 Brandy McNeil은 “도서관으로서 우리는 사람 사서를 두는 데 힘쓰고 있다”며 “이는 사람들이 AI와 관련해 자신의 주체성을 어떻게 발휘할지 알도록 하는 일”이라고 말했다. “우리는 Microsoft나 그들의 도구 도입을 밀어붙이는 것이 아니다”라는 말도 덧붙였다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Society of Authors quits\nEthical AI Charter",
-          "body": "The Society of Authors withdrew from the Ethical AI Charter it co-launched on 13 October after a backlash from members.",
-          "mini_headline": "SoA exits AI charter",
+          "headline": "Public Library Association\nteams with Microsoft on AI",
+          "body": "PLA and Microsoft will offer free AI webinars and practice sessions for library staff and patrons, starting in December.",
+          "mini_headline": "Libraries and Microsoft\nteach AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
               },
               {
                 "t": "p",
-                "x": "The Society of Authors (SoA) has withdrawn from its Ethical AI Charter, launched last week, following backlash and a subsequent statement from CEO Anna Ganley that aimed to clarify the organisation’s position on generative AI. Members were emailed on 21 October and told the SoA would be withdrawing."
+                "x": "The Public Library Association is collaborating with Microsoft on a free AI skills initiative. “Building AI Skills and Agency Through Libraries” will combine webinars with community practice sessions designed for library staffers as well as patrons. The first of four webinars, “The AI-Ready Public Library,” will take place in early December."
               },
               {
                 "t": "p",
-                "x": "The charter, published on 13 October, was created in collaboration with the Creators’ Rights Alliance, the Authors Guild, the Australian Society of Authors, the Writers’ Union of Canada and the New Zealand Society of Authors. It is still live, and no other organisations have withdrawn."
+                "x": "The initiative was developed by PLA’s Transformative Technology task force with Microsoft Elevate, a division launched to address AI literacy in non-commercial contexts. Its president, Justin Spelhaug, stressed safety and the risk of “cognitive offloading” to AI, which interferes with genuine learning."
               },
               {
                 "t": "p",
-                "x": "Members criticised the lack of consultation and the SoA’s position on generative AI use. On 16 October Ganley said: “There can never be any truly ethical use of generative AI because of the way LLMs have been trained on copyright works without permission or payment.”"
+                "x": "PLA members had asked for staff training, community education and examples of practical AI policies. “As libraries, we are committed to having human librarians,” said past PLA president Brandy McNeil of the New York Public Library. “This is about ensuring that people know how to exercise their agency when it comes to AI.” She added: “We’re not pushing the adoption of Microsoft or their tools.”"
               }
             ]
           }
         },
         "ko": {
-          "headline": "작가협회(SoA)\n윤리적 AI 헌장 탈퇴",
-          "body": "작가협회가 지난 13일 함께 출범시킨 윤리적 AI 헌장에서 회원 반발로 빠졌다.",
-          "mini_headline": "SoA, AI 헌장 탈퇴",
+          "headline": "PLA·Microsoft\nAI 교육 협력",
+          "body": "PLA와 Microsoft가 도서관 직원과 이용자에게 무료 AI 교육을 연다.",
+          "mini_headline": "도서관과 Microsoft, AI 교육",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
               },
               {
                 "t": "p",
-                "x": "작가협회(Society of Authors, SoA)가 지난주 출범한 윤리적 AI 헌장(Ethical AI Charter)에서 탈퇴했다. 반발이 일자 Anna Ganley CEO가 생성형 AI를 두고 협회 입장을 정리하는 성명을 냈고, 그 뒤에 내린 결정이다. 회원들은 21일 이메일로 SoA의 탈퇴 소식을 받았다. "
+                "x": "공공도서관협회(Public Library Association)가 Microsoft와 손잡고 무료 AI 역량 사업을 펼친다. “Building AI Skills and Agency Through Libraries”(도서관을 통한 AI 역량과 주체성 함양)는 웨비나와 지역사회 실습 세션을 묶은 프로그램으로, 도서관 직원과 이용자 모두 참여할 수 있다. 웨비나는 모두 네 차례이고 첫 순서인 “The AI-Ready Public Library”는 십이월 초에 열린다."
               },
               {
                 "t": "p",
-                "x": "협회는 13일 발표된 이 헌장을 Creators’ Rights Alliance, Authors Guild, 호주작가협회, 캐나다작가연맹, 뉴질랜드작가협회와 함께 만들었다. 헌장은 그대로 남아 있고 다른 단체는 탈퇴하지 않았다. "
+                "x": "이 사업은 PLA의 Transformative Technology 태스크포스가 Microsoft Elevate와 함께 만들었다. Microsoft Elevate는 비상업 영역의 AI 리터러시를 맡으려고 출범한 부문이다. 이 부문을 이끄는 Justin Spelhaug는 안전을 강조하면서 생각을 AI에 떠넘기는 ‘인지적 오프로딩(cognitive offloading)’이 진정한 학습을 가로막을 위험도 짚었다."
               },
               {
                 "t": "p",
-                "x": "회원들은 의견 수렴이 없었던 점과 생성형 AI 사용을 두고 SoA가 내세운 입장을 문제 삼았다. Ganley는 16일 “LLMs가 허락이나 대가 없이 저작물로 학습된 방식 때문에, 생성형 AI의 진정으로 윤리적인 사용이란 결코 있을 수 없다”고 말했다. "
+                "x": "PLA 회원들은 그동안 직원 교육, 지역사회 교육, 실용적인 AI 정책 사례를 요청해 왔다. New York Public Library 소속으로 PLA 회장을 지낸 Brandy McNeil은 “도서관으로서 우리는 사람 사서를 두는 데 힘쓰고 있다”며 “이는 사람들이 AI와 관련해 자신의 주체성을 어떻게 발휘할지 알도록 하는 일”이라고 말했다. “우리는 Microsoft나 그들의 도구 도입을 밀어붙이는 것이 아니다”라는 말도 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "作家協会(SoA)が\n倫理的AI憲章を離脱",
-          "body": "作家協会は会員の反発を受け、13日に共同発足させた倫理的AI憲章から離脱した。",
-          "mini_headline": "SoAがAI憲章を離脱",
+          "headline": "PLAがMicrosoftと\nAI教育で連携",
+          "body": "PLAとMicrosoftは図書館職員と利用者向けに無料のAI講座を開く。",
+          "mini_headline": "図書館とMicrosoftがAIを教える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
               },
               {
                 "t": "p",
-                "x": "作家協会(Society of Authors、SoA)は、先週発足させた倫理的AI憲章(Ethical AI Charter)から離脱した。反発を受けてAnna Ganley CEOが生成AIに関する協会の立場を説明する声明を出していた。会員には21日にメールで、SoAが離脱すると伝えられた。"
+                "x": "公共図書館協会（Public Library Association）は、無料のAIスキル向上の取り組みでMicrosoftと協力している。「Building AI Skills and Agency Through Libraries」は、ウェビナーと地域での実践セッションを組み合わせ、図書館職員と利用者の双方を対象とする。シリーズ初回のウェビナー「The AI-Ready Public Library」はDecember上旬に開かれる。"
               },
               {
                 "t": "p",
-                "x": "13日に公表された同憲章は、Creators’ Rights Alliance、Authors Guild、オーストラリア作家協会、カナダ作家組合、ニュージーランド作家協会と共同で作成された。憲章は現在も有効で、ほかに離脱した団体はない。"
+                "x": "この取り組みは、PLAのTransformative Technologyタスクフォースが、非営利の文脈でAIリテラシーに取り組むために設立されたMicrosoftの部門Microsoft Elevateと共同で開発した。同部門のプレジデントJustin Spelhaugは、安全性と、真の学びを妨げるAIへの「認知的オフローディング（cognitive offloading）」のリスクを強調した。"
               },
               {
                 "t": "p",
-                "x": "会員らは、意見聴取がなかったことや生成AIの利用に関するSoAの立場を批判した。Ganleyは16日、「LLMsが許可も対価もなく著作物で学習されてきた経緯を考えれば、生成AIの真に倫理的な利用はあり得ない」と述べた。"
+                "x": "PLAの会員は、職員研修、地域向け教育、実用的なAIポリシーの事例を求めていた。New York Public Libraryに所属するPLA元会長のBrandy McNeilは「図書館として、私たちは人間の司書を置くことに力を注いでいる」と述べ、「これは、AIに関して人々が自らの主体性をどう発揮すればよいかを知ってもらうためのものだ」と語った。さらに「私たちはMicrosoftやそのツールの導入を推し進めているわけではない」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "作家协会(SoA)\n退出伦理AI宪章",
-          "body": "因会员强烈反对，作家协会退出了其于13日共同发起的伦理AI宪章。",
-          "mini_headline": "SoA退出AI宪章",
+          "headline": "PLA携手Microsoft\n推广AI技能",
+          "body": "PLA与Microsoft将为图书馆员工和读者提供免费AI网络研讨会及实践课程。",
+          "mini_headline": "图书馆与Microsoft合作教AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
               },
               {
                 "t": "p",
-                "x": "作家协会（Society of Authors，SoA）已退出其上周发起的伦理AI宪章（Ethical AI Charter）。此前该宪章引发强烈反对，CEO Anna Ganley随后发表声明，试图澄清协会对生成式AI的立场。会员于21日收到电子邮件，被告知SoA将退出。"
+                "x": "公共图书馆协会（Public Library Association）正与Microsoft合作推出免费的AI技能计划。“Building AI Skills and Agency Through Libraries”将网络研讨会与社区实践课程相结合，面向图书馆员工和读者。系列首场网络研讨会“The AI-Ready Public Library”将于December上旬举行。"
               },
               {
                 "t": "p",
-                "x": "该宪章于13日发布，由Creators’ Rights Alliance、Authors Guild、澳大利亚作家协会、加拿大作家联盟和新西兰作家协会共同制定。宪章目前仍然有效，其他组织均未退出。"
+                "x": "该计划由PLA的Transformative Technology工作组与Microsoft Elevate共同开发，后者是Microsoft为在非商业场景中推动AI素养而设立的部门。其总裁Justin Spelhaug强调了安全问题，以及向AI进行“认知卸载”（cognitive offloading）而妨碍真正学习的风险。"
               },
               {
                 "t": "p",
-                "x": "会员们批评事前缺乏协商，也批评SoA对生成式AI使用的立场。Ganley在16日表示：“由于LLMs是在未经许可、未付报酬的情况下用受版权保护的作品训练的，生成式AI永远不可能有真正合乎伦理的使用。”"
+                "x": "PLA会员此前希望获得员工培训、社区教育以及实用AI政策的范例。来自New York Public Library的PLA前任主席Brandy McNeil表示：“作为图书馆，我们致力于保留人类馆员。”“这是为了确保人们知道在AI面前如何行使自己的主动权。”她还说：“我们并不是在推动采用Microsoft或其工具。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Society of Authors abandona\nla Ethical AI Charter",
-          "body": "La Society of Authors se retiró de la Ethical AI Charter, que copromovió el 13 de octubre, ante críticas de sus socios.",
-          "mini_headline": "SoA abandona la carta de AI",
+          "headline": "La Public Library Association\nse alía con Microsoft en IA",
+          "body": "La PLA y Microsoft ofrecerán seminarios web y prácticas gratuitas de IA al personal y usuarios de bibliotecas.",
+          "mini_headline": "Bibliotecas y Microsoft enseñan IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
               },
               {
                 "t": "p",
-                "x": "La Society of Authors (SoA) se ha retirado de su Ethical AI Charter, lanzada la semana pasada, tras las críticas y un comunicado posterior de su CEO, Anna Ganley, que buscaba aclarar la postura de la organización sobre la AI generativa. Los socios recibieron un correo el 21 de octubre en el que se les informaba de que la SoA se retiraría."
+                "x": "La Public Library Association colabora con Microsoft en una iniciativa gratuita de habilidades de IA. «Building AI Skills and Agency Through Libraries» combinará seminarios web con sesiones de práctica comunitaria pensadas tanto para el personal de las bibliotecas como para los usuarios. El primero de cuatro seminarios web, «The AI-Ready Public Library», se celebrará a principios de diciembre."
               },
               {
                 "t": "p",
-                "x": "La carta, publicada el 13 de octubre, se elaboró en colaboración con la Creators’ Rights Alliance, la Authors Guild, la Australian Society of Authors, la Writers’ Union of Canada y la New Zealand Society of Authors. Sigue vigente y ninguna otra organización se ha retirado."
+                "x": "La iniciativa fue desarrollada por el grupo de trabajo Transformative Technology de la PLA junto con Microsoft Elevate, una división creada para abordar la alfabetización en IA en contextos no comerciales. Su presidente, Justin Spelhaug, subrayó la seguridad y el riesgo de la «descarga cognitiva» (cognitive offloading) en la IA, que interfiere con el aprendizaje genuino."
               },
               {
                 "t": "p",
-                "x": "Los socios criticaron la falta de consulta y la postura de la SoA sobre el uso de la AI generativa. El 16 de octubre, Ganley dijo: “Nunca puede haber un uso verdaderamente ético de la AI generativa, por la forma en que los LLMs se han entrenado con obras protegidas por derechos de autor sin permiso ni pago”."
+                "x": "Los miembros de la PLA habían pedido formación para el personal, educación comunitaria y ejemplos de políticas prácticas de IA. «Como bibliotecas, estamos comprometidos con tener bibliotecarios humanos», dijo Brandy McNeil, de la New York Public Library y expresidenta de la PLA. «Se trata de garantizar que las personas sepan cómo ejercer su autonomía en lo que respecta a la IA». Y añadió: «No estamos impulsando la adopción de Microsoft ni de sus herramientas»."
               }
             ]
           }
@@ -1141,109 +1035,105 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "작가협회(SoA)\n윤리적 AI 헌장 탈퇴",
-          "body": "작가협회가 회원 반발로 지난 13일 공동 출범한 윤리적 AI 헌장에서 탈퇴했다.",
-          "mini_headline": "SoA, AI 헌장 탈퇴",
+          "headline": "PLA·Microsoft\nAI 교육 협력",
+          "body": "PLA와 Microsoft가 도서관 직원과 이용자를 위한 무료 AI 교육을 연다.",
+          "mini_headline": "도서관과 Microsoft, AI 교육",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
               },
               {
                 "t": "p",
-                "x": "작가협회(Society of Authors, SoA)가 지난주 출범한 윤리적 AI 헌장(Ethical AI Charter)에서 탈퇴했다. 반발이 일었고, 이어 Anna Ganley CEO가 생성형 AI에 대한 협회 입장을 분명히 하려는 성명을 낸 뒤의 결정이다. 회원들은 21일 이메일로 SoA의 탈퇴 소식을 전달받았다."
+                "x": "공공도서관협회(Public Library Association)가 Microsoft와 손잡고 무료 AI 역량 사업을 진행한다. “Building AI Skills and Agency Through Libraries”(도서관을 통한 AI 역량과 주체성 함양)는 웨비나와 지역사회 실습 세션을 결합한 프로그램으로, 도서관 직원과 이용자 모두를 대상으로 한다. 네 차례 웨비나 가운데 첫 순서인 “The AI-Ready Public Library”는 십이월 초에 열린다."
               },
               {
                 "t": "p",
-                "x": "13일 발표된 이 헌장은 Creators’ Rights Alliance, Authors Guild, 호주작가협회, 캐나다작가연맹, 뉴질랜드작가협회와 함께 만들었다. 헌장은 지금도 유지되고 있으며, 다른 단체는 탈퇴하지 않았다."
+                "x": "이 사업은 PLA의 Transformative Technology 태스크포스가 Microsoft Elevate와 함께 개발했다. Microsoft Elevate는 비상업적 맥락의 AI 리터러시를 다루기 위해 출범한 부문이다. 이 부문의 Justin Spelhaug 대표는 안전, 그리고 진정한 학습을 방해하는 AI로의 ‘인지적 오프로딩(cognitive offloading)’ 위험을 강조했다."
               },
               {
                 "t": "p",
-                "x": "회원들은 의견 수렴이 없었다는 점과 생성형 AI 사용에 대한 SoA의 입장을 비판했다. Ganley는 16일 “LLMs가 허락이나 대가 없이 저작물로 학습된 방식 때문에, 생성형 AI의 진정으로 윤리적인 사용이란 결코 있을 수 없다”고 말했다."
+                "x": "PLA 회원들은 직원 교육, 지역사회 교육, 실용적인 AI 정책 사례를 요청해 왔다. New York Public Library 소속으로 PLA 회장을 지낸 Brandy McNeil은 “도서관으로서 우리는 사람 사서를 두는 데 힘쓰고 있다”며 “이는 사람들이 AI와 관련해 자신의 주체성을 어떻게 발휘할지 알도록 하는 일”이라고 말했다. 그는 “우리는 Microsoft나 그들의 도구 도입을 밀어붙이는 것이 아니다”라고 덧붙였다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "作家協会(SoA)が\n倫理的AI憲章を離脱",
-          "body": "作家協会は会員の反発を受け、13日に共同発足させた倫理的AI憲章から離脱した。",
-          "mini_headline": "SoAがAI憲章を離脱",
+          "headline": "PLAがMicrosoftと\nAI教育で連携",
+          "body": "PLAとMicrosoftは図書館職員と利用者向けに無料のAI講座を開く。",
+          "mini_headline": "図書館とMicrosoftがAIを教える",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
               },
               {
                 "t": "p",
-                "x": "作家協会(Society of Authors、SoA)は、先週発足させた倫理的AI憲章(Ethical AI Charter)から離脱した。反発を受けてAnna Ganley CEOが生成AIに関する協会の立場を説明する声明を出していた。会員には21日にメールで、SoAが離脱すると伝えられた。"
+                "x": "公共図書館協会（Public Library Association）は、無料のAIスキル向上の取り組みでMicrosoftと協力している。「Building AI Skills and Agency Through Libraries」は、ウェビナーと地域での実践セッションを組み合わせ、図書館職員と利用者の双方を対象とする。シリーズ初回のウェビナー「The AI-Ready Public Library」はDecember上旬に開かれる。"
               },
               {
                 "t": "p",
-                "x": "13日に公表された同憲章は、Creators’ Rights Alliance、Authors Guild、オーストラリア作家協会、カナダ作家組合、ニュージーランド作家協会と共同で作成された。憲章は現在も有効で、ほかに離脱した団体はない。"
+                "x": "この取り組みは、PLAのTransformative Technologyタスクフォースが、非営利の文脈でAIリテラシーに取り組むために設立されたMicrosoftの部門Microsoft Elevateと共同で開発した。同部門のプレジデントJustin Spelhaugは、安全性と、真の学びを妨げるAIへの「認知的オフローディング（cognitive offloading）」のリスクを強調した。"
               },
               {
                 "t": "p",
-                "x": "会員らは、意見聴取がなかったことや生成AIの利用に関するSoAの立場を批判した。Ganleyは16日、「LLMsが許可も対価もなく著作物で学習されてきた経緯を考えれば、生成AIの真に倫理的な利用はあり得ない」と述べた。"
+                "x": "PLAの会員は、職員研修、地域向け教育、実用的なAIポリシーの事例を求めていた。New York Public Libraryに所属するPLA元会長のBrandy McNeilは「図書館として、私たちは人間の司書を置くことに力を注いでいる」と述べ、「これは、AIに関して人々が自らの主体性をどう発揮すればよいかを知ってもらうためのものだ」と語った。さらに「私たちはMicrosoftやそのツールの導入を推し進めているわけではない」と付け加えた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "作家协会(SoA)\n退出伦理AI宪章",
-          "body": "因会员强烈反对，作家协会退出了其于13日共同发起的伦理AI宪章。",
-          "mini_headline": "SoA退出AI宪章",
+          "headline": "PLA携手Microsoft\n推广AI技能",
+          "body": "PLA与Microsoft将为图书馆员工和读者提供免费AI网络研讨会及实践课程。",
+          "mini_headline": "图书馆与Microsoft合作教AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
               },
               {
                 "t": "p",
-                "x": "作家协会（Society of Authors，SoA）已退出其上周发起的伦理AI宪章（Ethical AI Charter）。此前该宪章引发强烈反对，CEO Anna Ganley随后发表声明，试图澄清协会对生成式AI的立场。会员于21日收到电子邮件，被告知SoA将退出。"
+                "x": "公共图书馆协会（Public Library Association）正与Microsoft合作推出免费的AI技能计划。“Building AI Skills and Agency Through Libraries”将网络研讨会与社区实践课程相结合，面向图书馆员工和读者。系列首场网络研讨会“The AI-Ready Public Library”将于December上旬举行。"
               },
               {
                 "t": "p",
-                "x": "该宪章于13日发布，由Creators’ Rights Alliance、Authors Guild、澳大利亚作家协会、加拿大作家联盟和新西兰作家协会共同制定。宪章目前仍然有效，其他组织均未退出。"
+                "x": "该计划由PLA的Transformative Technology工作组与Microsoft Elevate共同开发，后者是Microsoft为在非商业场景中推动AI素养而设立的部门。其总裁Justin Spelhaug强调了安全问题，以及向AI进行“认知卸载”（cognitive offloading）而妨碍真正学习的风险。"
               },
               {
                 "t": "p",
-                "x": "会员们批评事前缺乏协商，也批评SoA对生成式AI使用的立场。Ganley在16日表示：“由于LLMs是在未经许可、未付报酬的情况下用受版权保护的作品训练的，生成式AI永远不可能有真正合乎伦理的使用。”"
+                "x": "PLA会员此前希望获得员工培训、社区教育以及实用AI政策的范例。来自New York Public Library的PLA前任主席Brandy McNeil表示：“作为图书馆，我们致力于保留人类馆员。”“这是为了确保人们知道在AI面前如何行使自己的主动权。”她还说：“我们并不是在推动采用Microsoft或其工具。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Society of Authors abandona\nla Ethical AI Charter",
-          "body": "La Society of Authors se retiró de la Ethical AI Charter, que copromovió el 13 de octubre, ante críticas de sus socios.",
-          "mini_headline": "SoA abandona la carta de AI",
+          "headline": "La Public Library Association\nse alía con Microsoft en IA",
+          "body": "La PLA y Microsoft ofrecerán seminarios web y prácticas gratuitas de IA al personal y usuarios de bibliotecas.",
+          "mini_headline": "Bibliotecas y Microsoft enseñan IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://drsw10gc90t0z.cloudfront.net/AcuCustom/Sitename/DAM/594/14.jpg",
-                "cap": "Anna Ganley"
+                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132331-1.JPG"
               },
               {
                 "t": "p",
-                "x": "La Society of Authors (SoA) se ha retirado de su Ethical AI Charter, lanzada la semana pasada, tras las críticas y un comunicado posterior de su CEO, Anna Ganley, que buscaba aclarar la postura de la organización sobre la AI generativa. Los socios recibieron un correo el 21 de octubre en el que se les informaba de que la SoA se retiraría."
+                "x": "La Public Library Association colabora con Microsoft en una iniciativa gratuita de habilidades de IA. «Building AI Skills and Agency Through Libraries» combinará seminarios web con sesiones de práctica comunitaria pensadas tanto para el personal de las bibliotecas como para los usuarios. El primero de cuatro seminarios web, «The AI-Ready Public Library», se celebrará a principios de diciembre."
               },
               {
                 "t": "p",
-                "x": "La carta, publicada el 13 de octubre, se elaboró en colaboración con la Creators’ Rights Alliance, la Authors Guild, la Australian Society of Authors, la Writers’ Union of Canada y la New Zealand Society of Authors. Sigue vigente y ninguna otra organización se ha retirado."
+                "x": "La iniciativa fue desarrollada por el grupo de trabajo Transformative Technology de la PLA junto con Microsoft Elevate, una división creada para abordar la alfabetización en IA en contextos no comerciales. Su presidente, Justin Spelhaug, subrayó la seguridad y el riesgo de la «descarga cognitiva» (cognitive offloading) en la IA, que interfiere con el aprendizaje genuino."
               },
               {
                 "t": "p",
-                "x": "Los socios criticaron la falta de consulta y la postura de la SoA sobre el uso de la AI generativa. El 16 de octubre, Ganley dijo: “Nunca puede haber un uso verdaderamente ético de la AI generativa, por la forma en que los LLMs se han entrenado con obras protegidas por derechos de autor sin permiso ni pago”."
+                "x": "Los miembros de la PLA habían pedido formación para el personal, educación comunitaria y ejemplos de políticas prácticas de IA. «Como bibliotecas, estamos comprometidos con tener bibliotecarios humanos», dijo Brandy McNeil, de la New York Public Library y expresidenta de la PLA. «Se trata de garantizar que las personas sepan cómo ejercer su autonomía en lo que respecta a la IA». Y añadió: «No estamos impulsando la adopción de Microsoft ni de sus herramientas»."
               }
             ]
           }
@@ -1251,15 +1141,15 @@
       }
     },
     {
-      "id": "books-buyer-survey",
-      "source_lang": "en",
+      "id": "books-mosajaein-airoku-japan",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "AI엔 갈린 독자들\n공개 요구엔 한목소리",
-      "body": "BookInsights.ai 조사에서 젊을수록 AI에 관대하나 모두 공개를 원했다.",
-      "mini_headline": "독자들, AI 사용 공개 원해",
+      "headline": "모사재인, 일본에\nAI 웹소설 플랫폼 출시",
+      "body": "장르·배경·인물을 고르면 여러 AI 에이전트가 약 2분 만에 첫 화를 생성한다.",
+      "mini_headline": "모사재인, 일본 진출",
       "tool": "Books",
-      "source": "Publishers Weekly",
-      "url": "https://www.publishersweekly.com/pw/by-topic/industry-news/publisher-news/article/101576-survey-finds-book-buyers-split-on-ai-use.html",
+      "source": "한국경제TV",
+      "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210108&t=RS",
       "accent": "#eb367f",
       "motif": "swatch",
       "full": {
@@ -1267,295 +1157,455 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+            "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
           },
           {
             "t": "p",
-            "x": "AI가 출판계를 계속 흔드는 사이, 자기가 읽는 책에 AI가 쓰이는 걸 두고 독자들 생각은 갈렸다. U.S. 도서 구매자를 상대로 한 새 조사에서 젊은 독자일수록 받아들이는 쪽이었지만, 완전한 공개를 바라는 건 모든 독자가 같았다. "
+            "x": "인공지능(AI) 스타트업 모사재인이 일본 시장에 진출했다."
           },
           {
             "t": "p",
-            "x": "전 Circana BookScan 임원 David Walter가 올해 세운 데이터 컨설팅사 BookInsights.ai는 최근 세 달 안에 책을 산 5,025명의 의견을 들었다. 책 제작의 어느 단계에서든 AI 사용을 받아들인다는 응답은 22%에 그쳤고, 28%는 책에 AI가 아예 쓰이지 않기를 바랐다. Forty-five percent는 작가가 AI를 보조 도구로 쓰거나 맞춤법·문법 검사에 쓰는 건 괜찮다고 답했다. "
+            "x": "모사재인은 일본에서 개인 맞춤형 AI 웹소설 플랫폼 '아이로쿠(アイロク)'를 정식 출시했다고 21일 밝혔다."
           },
           {
             "t": "p",
-            "x": "연령대별로는 차이가 컸다. 십대의 36%는 책 집필의 어느 단계에서든 AI 사용에 열려 있었지만, 55세 이상에서는 11%만 동의했다. "
+            "x": "아이로쿠는 모사재인이 국내에서 운영하는 AI 웹소설 플랫폼 '하트픽션'의 일본 서비스다. 이용자가 장르와 배경, 등장인물 등을 선택하면 여러 AI 에이전트가 협업해 약 2분 만에 웹소설 첫 화를 생성하는 방식이다. 이용자는 매회 원하는 이야기 전개를 입력해 작품의 흐름을 바꿀 수도 있다. 기존 웹소설을 읽는 방식에서 나아가 이용자가 이야기 제작 과정에 참여하도록 설계한 것이 특징이다."
           },
           {
             "t": "p",
-            "x": "다만 연령대를 가리지 않고 독자의 85%가 집필에 AI가 쓰였는지 책에 밝혀야 한다고 답했다. 전체 결과는 11월에 나온다. "
+            "x": "모사재인에 따르면 국내 서비스 하트픽션은 지난해 11월 기준 가입자 10만 명을 넘었으며, 이용자가 생성한 이야기는 20만 편 이상이다."
+          },
+          {
+            "t": "p",
+            "x": "모사재인은 유료 콘텐츠 결제 문화와 팬덤, 2차 창작 시장이 형성돼 있다는 점을 고려해 일본을 첫 해외 진출 시장으로 선정했다고 설명했다. 이를 위해 일본어에 특화된 콘텐츠 생성 엔진을 개발하고 현지 이용자의 선호를 반영하는 등 서비스 현지화를 진행했다. 아이로쿠는 구글 플레이와 애플 앱스토어를 통해 제공된다."
+          },
+          {
+            "t": "p",
+            "x": "이번 일본 진출에는 정부의 콘텐츠 및 기술 개발 지원 사업도 밑거름이 됐다. 모사재인은 문화체육관광부와 한국콘텐츠진흥원의 '2026년 인공지능 콘텐츠 제작 지원' 사업에 선정돼 다중 AI 에이전트 기반 멀티모달 스토리버스 창작 플랫폼의 실증을 진행하고 있다."
+          },
+          {
+            "t": "p",
+            "x": "이 사업을 통해 AI가 생성한 이야기에 삽화와 음원을 결합하는 기술을 개발하고 있으며, 문화체육관광부와 중소벤처기업부의 연구개발(R&D) 과제와 연계해 다국어 Deep-RAG(검색증강생성) 기반 일본어 현지화 기술도 개발 중이다. 회사는 AI 콘텐츠 생성 관련 특허 4건도 출원했다."
+          },
+          {
+            "t": "p",
+            "x": "조진혁 모사재인 공동대표는 \"국내에서 검증한 참여형 콘텐츠 모델을 일본 시장에서 선보이게 됐다\"며 \"향후 중화권과 영어권으로도 서비스를 확대할 계획\"이라고 말했다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Book buyers split on AI,\nunited on disclosure",
-          "body": "A BookInsights.ai study finds younger readers more open to authors using AI, but every age group wants it disclosed.",
-          "mini_headline": "Readers want AI disclosed",
+        "ko": {
+          "headline": "모사재인, 일본에\nAI 웹소설 플랫폼 출시",
+          "body": "장르·배경·인물을 고르면 여러 AI 에이전트가 약 2분 만에 첫 화를 생성한다.",
+          "mini_headline": "모사재인, 일본 진출",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
               },
               {
                 "t": "p",
-                "x": "As AI continues to roil the publishing industry, readers are split on how comfortable they are with its use in the books they consume, with more acceptance from younger readers but full disclosure preferred by all, according to a new survey of U.S. book buyers."
+                "x": "인공지능(AI) 스타트업 모사재인이 일본 시장에 진출했다."
               },
               {
                 "t": "p",
-                "x": "BookInsights.ai, a data consultancy launched this year by former Circana BookScan executive David Walter, sought input from 5,025 people who bought a book in the last three months. Just 22% are okay with the use of AI at any stage of creating a book, while 28% don’t want it in books at all. Forty-five percent don’t mind if an author uses AI as an assistant or for checking grammar and spelling."
+                "x": "모사재인은 일본에서 개인 맞춤형 AI 웹소설 플랫폼 '아이로쿠(アイロク)'를 정식 출시했다고 21일 밝혔다."
               },
               {
                 "t": "p",
-                "x": "The results diverged sharply among age groups: 36% of teenagers are open to AI being used at any stage of the writing of a book, while only 11% of people over 55 agreed."
+                "x": "아이로쿠는 모사재인이 국내에서 운영하는 AI 웹소설 플랫폼 '하트픽션'의 일본 서비스다. 이용자가 장르와 배경, 등장인물 등을 선택하면 여러 AI 에이전트가 협업해 약 2분 만에 웹소설 첫 화를 생성하는 방식이다. 이용자는 매회 원하는 이야기 전개를 입력해 작품의 흐름을 바꿀 수도 있다. 기존 웹소설을 읽는 방식에서 나아가 이용자가 이야기 제작 과정에 참여하도록 설계한 것이 특징이다."
               },
               {
                 "t": "p",
-                "x": "However, 85% of readers of all ages said books should disclose whether AI was used in the writing process. Full results will be released in November."
+                "x": "모사재인에 따르면 국내 서비스 하트픽션은 지난해 11월 기준 가입자 10만 명을 넘었으며, 이용자가 생성한 이야기는 20만 편 이상이다."
+              },
+              {
+                "t": "p",
+                "x": "모사재인은 유료 콘텐츠 결제 문화와 팬덤, 2차 창작 시장이 형성돼 있다는 점을 고려해 일본을 첫 해외 진출 시장으로 선정했다고 설명했다. 이를 위해 일본어에 특화된 콘텐츠 생성 엔진을 개발하고 현지 이용자의 선호를 반영하는 등 서비스 현지화를 진행했다. 아이로쿠는 구글 플레이와 애플 앱스토어를 통해 제공된다."
+              },
+              {
+                "t": "p",
+                "x": "이번 일본 진출에는 정부의 콘텐츠 및 기술 개발 지원 사업도 밑거름이 됐다. 모사재인은 문화체육관광부와 한국콘텐츠진흥원의 '2026년 인공지능 콘텐츠 제작 지원' 사업에 선정돼 다중 AI 에이전트 기반 멀티모달 스토리버스 창작 플랫폼의 실증을 진행하고 있다."
+              },
+              {
+                "t": "p",
+                "x": "이 사업을 통해 AI가 생성한 이야기에 삽화와 음원을 결합하는 기술을 개발하고 있으며, 문화체육관광부와 중소벤처기업부의 연구개발(R&D) 과제와 연계해 다국어 Deep-RAG(검색증강생성) 기반 일본어 현지화 기술도 개발 중이다. 회사는 AI 콘텐츠 생성 관련 특허 4건도 출원했다."
+              },
+              {
+                "t": "p",
+                "x": "조진혁 모사재인 공동대표는 \"국내에서 검증한 참여형 콘텐츠 모델을 일본 시장에서 선보이게 됐다\"며 \"향후 중화권과 영어권으로도 서비스를 확대할 계획\"이라고 말했다."
+              }
+            ]
+          }
+        },
+        "en": {
+          "headline": "Mosajaein launches AI web novel\nplatform Airoku in Japan",
+          "body": "Users pick a genre, setting and characters, and multiple AI agents generate an opening episode in about 2 minutes.",
+          "mini_headline": "Mosajaein enters Japan",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+              },
+              {
+                "t": "p",
+                "x": "Artificial intelligence (AI) startup Mosajaein has entered the Japanese market."
+              },
+              {
+                "t": "p",
+                "x": "Mosajaein said on the 21st that it has officially launched Airoku (アイロク), a personalized AI web novel platform, in Japan."
+              },
+              {
+                "t": "p",
+                "x": "Airoku is the Japanese version of HeartFiction, the AI web novel platform Mosajaein runs in Korea. When users select a genre, setting, characters and other elements, multiple AI agents work together to generate the opening episode of a web novel in about 2 minutes. Users can also change the course of the story by entering the plot developments they want in each episode. Its defining feature is that it goes beyond simply reading web novels and is designed to let users take part in creating the story."
+              },
+              {
+                "t": "p",
+                "x": "According to Mosajaein, its domestic service HeartFiction passed 100,000 subscribers as of the 11th month of last year, and users have generated more than 200,000 stories."
+              },
+              {
+                "t": "p",
+                "x": "Mosajaein explained that it chose Japan as its first overseas market given the country's established culture of paying for content, its fandoms and its market for 2nd-order creative works (fan derivatives). To that end, it localized the service, developing a content generation engine specialized for Japanese and reflecting local users' preferences. Airoku is available on Google Play and the Apple App Store."
+              },
+              {
+                "t": "p",
+                "x": "Government support programs for content and technology development also laid the groundwork for the Japan launch. Mosajaein was selected for the '2026 AI Content Production Support' program run by the Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency, and is piloting a multimodal storyverse creation platform built on multiple AI agents."
+              },
+              {
+                "t": "p",
+                "x": "Through this program, it is developing technology that combines illustrations and audio with AI-generated stories, and, in connection with research and development (R&D) projects of the Ministry of Culture, Sports and Tourism and the Ministry of SMEs and Startups, it is also developing Japanese localization technology based on multilingual Deep-RAG (retrieval-augmented generation). The company has also filed 4 patent applications related to AI content generation."
+              },
+              {
+                "t": "p",
+                "x": "Jo Jin-hyuk, co-CEO of Mosajaein, said, \"We are now introducing to the Japanese market a participatory content model proven in Korea,\" adding, \"We plan to expand the service to Chinese-speaking and English-speaking regions in the future.\""
               }
             ]
           }
         },
         "ja": {
-          "headline": "AIで割れる本の購入者\n開示を望む点は一致",
-          "body": "BookInsights.aiの調査で若い読者ほどAI利用に寛容だが、全世代が開示を望んだ。",
-          "mini_headline": "読者はAI利用の開示を望む",
+          "headline": "モサジェイン、日本で\nAIウェブ小説を開始",
+          "body": "ジャンルや舞台、登場人物を選ぶと、複数のAIエージェントが約2分で初回を生成する。",
+          "mini_headline": "モサジェイン、日本進出",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
               },
               {
                 "t": "p",
-                "x": "AIが出版業界を揺さぶり続けるなか、自分が読む本にAIが使われることへの抵抗感について読者の意見は割れている。U.S.の書籍購入者を対象にした新たな調査によると、若い読者ほど受け入れる傾向が強いが、完全な開示を望む点は全員に共通していた。"
+                "x": "人工知能（AI）スタートアップのモサジェインが日本市場に進出した。"
               },
               {
                 "t": "p",
-                "x": "Circana BookScanの元幹部David Walterが今年立ち上げたデータコンサルティング会社BookInsights.aiは、直近三か月に本を購入した5,025人から回答を得た。本づくりのどの段階でもAIの使用を容認するのはわずか22%で、28%は本にAIを一切使ってほしくないと答えた。四十五パーセントは、作家がAIをアシスタントとして、あるいは文法や綴りのチェックに使うのは構わないとした。"
+                "x": "モサジェインは21日、個人に合わせたAIウェブ小説プラットフォーム「アイロク」を日本で正式にリリースしたと明らかにした。"
               },
               {
                 "t": "p",
-                "x": "結果は年齢層によって大きく分かれた。十代の36%が本の執筆のどの段階でもAIの使用を受け入れる一方、55歳を超える層で同意したのは11%にとどまった。"
+                "x": "アイロクは、モサジェインが韓国国内で運営するAIウェブ小説プラットフォーム「ハートフィクション」の日本版サービスだ。利用者がジャンルや舞台、登場人物などを選ぶと、複数のAIエージェントが協業して約2分でウェブ小説の初回を生成する仕組みだ。利用者は毎回、望む展開を入力して作品の流れを変えることもできる。従来のようにウェブ小説を読むだけでなく、利用者が物語の制作過程に参加できるよう設計した点が特徴だ。"
               },
               {
                 "t": "p",
-                "x": "ただし、全年齢の読者の85%が、執筆過程でAIが使われたかどうかを本に明記すべきだと答えた。全結果は11月に公表される。"
+                "x": "モサジェインによると、国内サービスのハートフィクションは昨年11月時点で加入者が10万人を超え、利用者が生成した物語は20万編以上に上る。"
+              },
+              {
+                "t": "p",
+                "x": "モサジェインは、有料コンテンツへの課金文化やファンダム、2次創作市場が形成されている点を考慮し、日本を初の海外進出先に選んだと説明した。そのため日本語に特化したコンテンツ生成エンジンを開発し、現地利用者の好みを反映するなどサービスのローカライズを進めた。アイロクはGoogle PlayとApple App Storeで提供される。"
+              },
+              {
+                "t": "p",
+                "x": "今回の日本進出には、政府のコンテンツおよび技術開発支援事業も土台となった。モサジェインは文化体育観光部と韓国コンテンツ振興院の「2026年人工知能コンテンツ制作支援」事業に選ばれ、マルチAIエージェント基盤のマルチモーダル・ストーリーバース創作プラットフォームの実証を進めている。"
+              },
+              {
+                "t": "p",
+                "x": "この事業を通じて、AIが生成した物語に挿絵と音源を組み合わせる技術を開発しており、文化体育観光部と中小ベンチャー企業部の研究開発（R&D）課題と連携し、多言語Deep-RAG（検索拡張生成）に基づく日本語ローカライズ技術も開発中だ。同社はAIコンテンツ生成に関する特許4件も出願した。"
+              },
+              {
+                "t": "p",
+                "x": "モサジェインのチョ・ジニョク共同代表は「国内で検証した参加型コンテンツモデルを日本市場で披露することになった」とし、「今後は中華圏と英語圏にもサービスを拡大する計画だ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "购书者对AI看法分歧\n但都要求披露",
-          "body": "BookInsights.ai调查显示，年轻读者更能接受作者用AI，但各年龄层都希望披露。",
-          "mini_headline": "读者希望披露AI使用",
+          "headline": "Mosajaein在日本\n推出AI网文平台",
+          "body": "用户选择题材、背景和角色后，多个AI智能体约2分钟即可生成首章。",
+          "mini_headline": "Mosajaein进军日本",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
               },
               {
                 "t": "p",
-                "x": "在AI持续搅动出版业之际，一项针对U.S.购书者的新调查显示，读者对所读书籍中使用AI的接受程度存在分歧：年轻读者更能接受，但所有人都倾向于完全披露。"
+                "x": "人工智能（AI）初创公司Mosajaein进军日本市场。"
               },
               {
                 "t": "p",
-                "x": "由Circana BookScan前高管David Walter今年创立的数据咨询公司BookInsights.ai，调查了过去三个月内买过书的5,025人。只有22%的人接受在图书创作的任何阶段使用AI，而28%的人完全不希望书中出现AI。百分之四十五的人不介意作者把AI用作助手或用来检查语法和拼写。"
+                "x": "Mosajaein于21日宣布，已在日本正式推出个性化AI网络小说平台“アイロク”。"
               },
               {
                 "t": "p",
-                "x": "各年龄段的结果差异明显：36%的青少年接受在图书写作的任何阶段使用AI，而55岁以上人群中只有11%表示同意。"
+                "x": "アイロク是Mosajaein在韩国运营的AI网络小说平台HeartFiction的日本版服务。用户选择题材、背景、角色等后，多个AI智能体协作，约2分钟即可生成网络小说的首章。用户还可以在每章输入希望的剧情走向，改变作品的发展。其特点是突破了传统阅读网络小说的方式，让用户参与到故事创作过程中。"
               },
               {
                 "t": "p",
-                "x": "不过，各年龄段85%的读者表示，图书应披露写作过程中是否使用了AI。完整结果将于11月发布。"
+                "x": "据Mosajaein介绍，国内服务HeartFiction截至去年11月注册用户已突破10万人，用户生成的故事超过20万篇。"
+              },
+              {
+                "t": "p",
+                "x": "Mosajaein解释称，考虑到日本已形成付费内容消费文化、粉丝文化和2次创作市场，因此将日本选为首个海外市场。为此，公司开发了专门针对日语的内容生成引擎，并结合当地用户偏好推进服务本地化。アイロク通过Google Play和Apple App Store提供。"
+              },
+              {
+                "t": "p",
+                "x": "此次进军日本，也得益于政府的内容及技术开发支持项目。Mosajaein入选韩国文化体育观光部和韩国内容振兴院的“2026年人工智能内容制作支持”项目，正在对基于多AI智能体的多模态故事宇宙创作平台进行实证。"
+              },
+              {
+                "t": "p",
+                "x": "通过该项目，公司正在开发将插图和音源与AI生成的故事相结合的技术，并与文化体育观光部和中小风险企业部的研发（R&D）课题联动，开发基于多语言Deep-RAG（检索增强生成）的日语本地化技术。公司还申请了4项AI内容生成相关专利。"
+              },
+              {
+                "t": "p",
+                "x": "Mosajaein联合代表Jo Jin-hyuk表示：“我们将在韩国验证过的参与式内容模式带到了日本市场。”他还表示：“今后计划将服务扩展到大中华区和英语圈。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lectores divididos ante la AI,\nunidos en pedir transparencia",
-          "body": "Según BookInsights.ai, los lectores jóvenes aceptan más que los autores usen AI, pero todos piden transparencia.",
-          "mini_headline": "Los lectores quieren saber si hay AI",
+          "headline": "Mosajaein lanza en Japón una\nplataforma de novela web con IA",
+          "body": "Al elegir género, ambientación y personajes, varios agentes de IA generan el capítulo inicial en unos 2 minutos.",
+          "mini_headline": "Mosajaein llega a Japón",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
               },
               {
                 "t": "p",
-                "x": "Mientras la AI sigue sacudiendo a la industria editorial, los lectores están divididos sobre cuánto les incomoda su uso en los libros que leen: los más jóvenes la aceptan más, pero todos prefieren una transparencia total, según una nueva encuesta a compradores de libros de U.S."
+                "x": "La startup de inteligencia artificial (AI) Mosajaein ha entrado en el mercado japonés."
               },
               {
                 "t": "p",
-                "x": "BookInsights.ai, una consultora de datos creada este año por David Walter, exdirectivo de Circana BookScan, consultó a 5,025 personas que habían comprado un libro en los últimos tres meses. Solo el 22% acepta el uso de AI en cualquier fase de la creación de un libro, mientras que el 28% no la quiere en los libros en absoluto. Al cuarenta y cinco por ciento no le importa que un autor use AI como asistente o para revisar la gramática y la ortografía."
+                "x": "Mosajaein anunció el día 21 que lanzó oficialmente en Japón Airoku (アイロク), una plataforma personalizada de novelas web con IA."
               },
               {
                 "t": "p",
-                "x": "Los resultados variaron mucho según la edad: el 36% de los adolescentes acepta que se use AI en cualquier fase de la escritura de un libro, frente a solo el 11% de los mayores de 55."
+                "x": "Airoku es la versión japonesa de HeartFiction, la plataforma de novelas web con IA que Mosajaein opera en Corea. Cuando el usuario elige el género, la ambientación, los personajes y otros elementos, varios agentes de IA colaboran para generar el capítulo inicial de una novela web en unos 2 minutos. El usuario también puede cambiar el rumbo de la obra introduciendo en cada entrega el desarrollo que desee. Su rasgo distintivo es que va más allá de la simple lectura de novelas web y está diseñada para que el usuario participe en el proceso de creación de la historia."
               },
               {
                 "t": "p",
-                "x": "Sin embargo, el 85% de los lectores de todas las edades afirmó que los libros deberían indicar si se usó AI en el proceso de escritura. Los resultados completos se publicarán en noviembre."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI엔 갈린 독자들\n공개 요구엔 한목소리",
-          "body": "BookInsights.ai 조사에서 젊을수록 AI에 관대하나 모두 공개를 원했다.",
-          "mini_headline": "독자들, AI 사용 공개 원해",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+                "x": "Según Mosajaein, su servicio en Corea, HeartFiction, superaba los 100.000 usuarios registrados en el mes 11 del año pasado, y los usuarios han generado más de 200.000 historias."
               },
               {
                 "t": "p",
-                "x": "AI가 출판계를 계속 흔드는 사이, 자기가 읽는 책에 AI가 쓰이는 걸 두고 독자들 생각은 갈렸다. U.S. 도서 구매자를 상대로 한 새 조사에서 젊은 독자일수록 받아들이는 쪽이었지만, 완전한 공개를 바라는 건 모든 독자가 같았다. "
+                "x": "Mosajaein explicó que eligió Japón como su primer mercado exterior por su cultura consolidada de pago por contenidos, su cultura fan y su mercado de obras derivadas (creación de 2.º grado). Para ello, desarrolló un motor de generación de contenidos especializado en japonés y adaptó el servicio incorporando las preferencias de los usuarios locales. Airoku está disponible en Google Play y en la App Store de Apple."
               },
               {
                 "t": "p",
-                "x": "전 Circana BookScan 임원 David Walter가 올해 세운 데이터 컨설팅사 BookInsights.ai는 최근 세 달 안에 책을 산 5,025명의 의견을 들었다. 책 제작의 어느 단계에서든 AI 사용을 받아들인다는 응답은 22%에 그쳤고, 28%는 책에 AI가 아예 쓰이지 않기를 바랐다. Forty-five percent는 작가가 AI를 보조 도구로 쓰거나 맞춤법·문법 검사에 쓰는 건 괜찮다고 답했다. "
+                "x": "Los programas gubernamentales de apoyo al desarrollo de contenidos y tecnología también sentaron las bases de esta entrada en Japón. Mosajaein fue seleccionada para el programa «Apoyo a la producción de contenidos de inteligencia artificial 2026» del Ministerio de Cultura, Deportes y Turismo y la Agencia Coreana de Contenidos Creativos, y está realizando la prueba piloto de una plataforma multimodal de creación de storyverse basada en múltiples agentes de IA."
               },
               {
                 "t": "p",
-                "x": "연령대별로는 차이가 컸다. 십대의 36%는 책 집필의 어느 단계에서든 AI 사용에 열려 있었지만, 55세 이상에서는 11%만 동의했다. "
+                "x": "A través de este programa desarrolla una tecnología que combina ilustraciones y audio con historias generadas por IA y, en conexión con proyectos de investigación y desarrollo (R&D) del Ministerio de Cultura, Deportes y Turismo y del Ministerio de Pymes y Startups, también desarrolla tecnología de localización al japonés basada en Deep-RAG (generación aumentada por recuperación) multilingüe. La empresa también ha solicitado 4 patentes relacionadas con la generación de contenidos con IA."
               },
               {
                 "t": "p",
-                "x": "다만 연령대를 가리지 않고 독자의 85%가 집필에 AI가 쓰였는지 책에 밝혀야 한다고 답했다. 전체 결과는 11월에 나온다. "
+                "x": "Jo Jin-hyuk, codirector ejecutivo de Mosajaein, afirmó: «Hemos llevado al mercado japonés un modelo de contenidos participativo validado en Corea», y añadió: «En el futuro planeamos ampliar el servicio a las regiones de habla china e inglesa»."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ja": {
-          "headline": "AIで割れる本の購入者\n開示を望む点は一致",
-          "body": "BookInsights.aiの調査で若い読者ほどAI利用に寛容だが、全世代が開示を望んだ。",
-          "mini_headline": "読者はAI利用の開示を望む",
+        "en": {
+          "headline": "Mosajaein launches AI web novel\nplatform Airoku in Japan",
+          "body": "Users pick a genre, setting and characters, and multiple AI agents generate an opening episode in about 2 minutes.",
+          "mini_headline": "Mosajaein enters Japan",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
               },
               {
                 "t": "p",
-                "x": "AIが出版業界を揺さぶり続けるなか、自分が読む本にAIが使われることへの抵抗感について読者の意見は割れている。U.S.の書籍購入者を対象にした新たな調査によると、若い読者ほど受け入れる傾向が強いが、完全な開示を望む点は全員に共通していた。"
+                "x": "Artificial intelligence (AI) startup Mosajaein has entered the Japanese market."
               },
               {
                 "t": "p",
-                "x": "Circana BookScanの元幹部David Walterが今年立ち上げたデータコンサルティング会社BookInsights.aiは、直近三か月に本を購入した5,025人から回答を得た。本づくりのどの段階でもAIの使用を容認するのはわずか22%で、28%は本にAIを一切使ってほしくないと答えた。四十五パーセントは、作家がAIをアシスタントとして、あるいは文法や綴りのチェックに使うのは構わないとした。"
+                "x": "Mosajaein said on the 21st that it has officially launched Airoku (アイロク), a personalized AI web novel platform, in Japan."
               },
               {
                 "t": "p",
-                "x": "結果は年齢層によって大きく分かれた。十代の36%が本の執筆のどの段階でもAIの使用を受け入れる一方、55歳を超える層で同意したのは11%にとどまった。"
+                "x": "Airoku is the Japanese version of HeartFiction, the AI web novel platform Mosajaein runs in Korea. When users select a genre, setting, characters and other elements, multiple AI agents work together to generate the opening episode of a web novel in about 2 minutes. Users can also change the course of the story by entering the plot developments they want in each episode. Its defining feature is that it goes beyond simply reading web novels and is designed to let users take part in creating the story."
               },
               {
                 "t": "p",
-                "x": "ただし、全年齢の読者の85%が、執筆過程でAIが使われたかどうかを本に明記すべきだと答えた。全結果は11月に公表される。"
+                "x": "According to Mosajaein, its domestic service HeartFiction passed 100,000 subscribers as of the 11th month of last year, and users have generated more than 200,000 stories."
+              },
+              {
+                "t": "p",
+                "x": "Mosajaein explained that it chose Japan as its first overseas market given the country's established culture of paying for content, its fandoms and its market for 2nd-order creative works (fan derivatives). To that end, it localized the service, developing a content generation engine specialized for Japanese and reflecting local users' preferences. Airoku is available on Google Play and the Apple App Store."
+              },
+              {
+                "t": "p",
+                "x": "Government support programs for content and technology development also laid the groundwork for the Japan launch. Mosajaein was selected for the '2026 AI Content Production Support' program run by the Ministry of Culture, Sports and Tourism and the Korea Creative Content Agency, and is piloting a multimodal storyverse creation platform built on multiple AI agents."
+              },
+              {
+                "t": "p",
+                "x": "Through this program, it is developing technology that combines illustrations and audio with AI-generated stories, and, in connection with research and development (R&D) projects of the Ministry of Culture, Sports and Tourism and the Ministry of SMEs and Startups, it is also developing Japanese localization technology based on multilingual Deep-RAG (retrieval-augmented generation). The company has also filed 4 patent applications related to AI content generation."
+              },
+              {
+                "t": "p",
+                "x": "Jo Jin-hyuk, co-CEO of Mosajaein, said, \"We are now introducing to the Japanese market a participatory content model proven in Korea,\" adding, \"We plan to expand the service to Chinese-speaking and English-speaking regions in the future.\""
+              }
+            ]
+          }
+        },
+        "ja": {
+          "headline": "モサジェイン、日本で\nAIウェブ小説を開始",
+          "body": "ジャンルや舞台、登場人物を選ぶと、複数のAIエージェントが約2分で初回を生成する。",
+          "mini_headline": "モサジェイン、日本進出",
+          "full": {
+            "mode": "full",
+            "blocks": [
+              {
+                "t": "img",
+                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
+              },
+              {
+                "t": "p",
+                "x": "人工知能（AI）スタートアップのモサジェインが日本市場に進出した。"
+              },
+              {
+                "t": "p",
+                "x": "モサジェインは21日、個人に合わせたAIウェブ小説プラットフォーム「アイロク」を日本で正式にリリースしたと明らかにした。"
+              },
+              {
+                "t": "p",
+                "x": "アイロクは、モサジェインが韓国国内で運営するAIウェブ小説プラットフォーム「ハートフィクション」の日本版サービスだ。利用者がジャンルや舞台、登場人物などを選ぶと、複数のAIエージェントが協業して約2分でウェブ小説の初回を生成する仕組みだ。利用者は毎回、望む展開を入力して作品の流れを変えることもできる。従来のようにウェブ小説を読むだけでなく、利用者が物語の制作過程に参加できるよう設計した点が特徴だ。"
+              },
+              {
+                "t": "p",
+                "x": "モサジェインによると、国内サービスのハートフィクションは昨年11月時点で加入者が10万人を超え、利用者が生成した物語は20万編以上に上る。"
+              },
+              {
+                "t": "p",
+                "x": "モサジェインは、有料コンテンツへの課金文化やファンダム、2次創作市場が形成されている点を考慮し、日本を初の海外進出先に選んだと説明した。そのため日本語に特化したコンテンツ生成エンジンを開発し、現地利用者の好みを反映するなどサービスのローカライズを進めた。アイロクはGoogle PlayとApple App Storeで提供される。"
+              },
+              {
+                "t": "p",
+                "x": "今回の日本進出には、政府のコンテンツおよび技術開発支援事業も土台となった。モサジェインは文化体育観光部と韓国コンテンツ振興院の「2026年人工知能コンテンツ制作支援」事業に選ばれ、マルチAIエージェント基盤のマルチモーダル・ストーリーバース創作プラットフォームの実証を進めている。"
+              },
+              {
+                "t": "p",
+                "x": "この事業を通じて、AIが生成した物語に挿絵と音源を組み合わせる技術を開発しており、文化体育観光部と中小ベンチャー企業部の研究開発（R&D）課題と連携し、多言語Deep-RAG（検索拡張生成）に基づく日本語ローカライズ技術も開発中だ。同社はAIコンテンツ生成に関する特許4件も出願した。"
+              },
+              {
+                "t": "p",
+                "x": "モサジェインのチョ・ジニョク共同代表は「国内で検証した参加型コンテンツモデルを日本市場で披露することになった」とし、「今後は中華圏と英語圏にもサービスを拡大する計画だ」と述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "购书者对AI看法分歧\n但都要求披露",
-          "body": "BookInsights.ai调查显示，年轻读者更能接受作者用AI，但各年龄层都希望披露。",
-          "mini_headline": "读者希望披露AI使用",
+          "headline": "Mosajaein在日本\n推出AI网文平台",
+          "body": "用户选择题材、背景和角色后，多个AI智能体约2分钟即可生成首章。",
+          "mini_headline": "Mosajaein进军日本",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
               },
               {
                 "t": "p",
-                "x": "在AI持续搅动出版业之际，一项针对U.S.购书者的新调查显示，读者对所读书籍中使用AI的接受程度存在分歧：年轻读者更能接受，但所有人都倾向于完全披露。"
+                "x": "人工智能（AI）初创公司Mosajaein进军日本市场。"
               },
               {
                 "t": "p",
-                "x": "由Circana BookScan前高管David Walter今年创立的数据咨询公司BookInsights.ai，调查了过去三个月内买过书的5,025人。只有22%的人接受在图书创作的任何阶段使用AI，而28%的人完全不希望书中出现AI。百分之四十五的人不介意作者把AI用作助手或用来检查语法和拼写。"
+                "x": "Mosajaein于21日宣布，已在日本正式推出个性化AI网络小说平台“アイロク”。"
               },
               {
                 "t": "p",
-                "x": "各年龄段的结果差异明显：36%的青少年接受在图书写作的任何阶段使用AI，而55岁以上人群中只有11%表示同意。"
+                "x": "アイロク是Mosajaein在韩国运营的AI网络小说平台HeartFiction的日本版服务。用户选择题材、背景、角色等后，多个AI智能体协作，约2分钟即可生成网络小说的首章。用户还可以在每章输入希望的剧情走向，改变作品的发展。其特点是突破了传统阅读网络小说的方式，让用户参与到故事创作过程中。"
               },
               {
                 "t": "p",
-                "x": "不过，各年龄段85%的读者表示，图书应披露写作过程中是否使用了AI。完整结果将于11月发布。"
+                "x": "据Mosajaein介绍，国内服务HeartFiction截至去年11月注册用户已突破10万人，用户生成的故事超过20万篇。"
+              },
+              {
+                "t": "p",
+                "x": "Mosajaein解释称，考虑到日本已形成付费内容消费文化、粉丝文化和2次创作市场，因此将日本选为首个海外市场。为此，公司开发了专门针对日语的内容生成引擎，并结合当地用户偏好推进服务本地化。アイロク通过Google Play和Apple App Store提供。"
+              },
+              {
+                "t": "p",
+                "x": "此次进军日本，也得益于政府的内容及技术开发支持项目。Mosajaein入选韩国文化体育观光部和韩国内容振兴院的“2026年人工智能内容制作支持”项目，正在对基于多AI智能体的多模态故事宇宙创作平台进行实证。"
+              },
+              {
+                "t": "p",
+                "x": "通过该项目，公司正在开发将插图和音源与AI生成的故事相结合的技术，并与文化体育观光部和中小风险企业部的研发（R&D）课题联动，开发基于多语言Deep-RAG（检索增强生成）的日语本地化技术。公司还申请了4项AI内容生成相关专利。"
+              },
+              {
+                "t": "p",
+                "x": "Mosajaein联合代表Jo Jin-hyuk表示：“我们将在韩国验证过的参与式内容模式带到了日本市场。”他还表示：“今后计划将服务扩展到大中华区和英语圈。”"
               }
             ]
           }
         },
         "es": {
-          "headline": "Lectores divididos ante la AI,\nunidos en pedir transparencia",
-          "body": "Según BookInsights.ai, los lectores jóvenes aceptan más que los autores usen AI, pero todos piden transparencia.",
-          "mini_headline": "Los lectores quieren saber si hay AI",
+          "headline": "Mosajaein lanza en Japón una\nplataforma de novela web con IA",
+          "body": "Al elegir género, ambientación y personajes, varios agentes de IA generan el capítulo inicial en unos 2 minutos.",
+          "mini_headline": "Mosajaein llega a Japón",
           "full": {
             "mode": "full",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+                "src": "https://img.wowtv.co.kr/nrcs/production/images/20261021/20261021_b501b3e7f14d4ed8b38f8ce91388387f.png"
               },
               {
                 "t": "p",
-                "x": "Mientras la AI sigue sacudiendo a la industria editorial, los lectores están divididos sobre cuánto les incomoda su uso en los libros que leen: los más jóvenes la aceptan más, pero todos prefieren una transparencia total, según una nueva encuesta a compradores de libros de U.S."
+                "x": "La startup de inteligencia artificial (AI) Mosajaein ha entrado en el mercado japonés."
               },
               {
                 "t": "p",
-                "x": "BookInsights.ai, una consultora de datos creada este año por David Walter, exdirectivo de Circana BookScan, consultó a 5,025 personas que habían comprado un libro en los últimos tres meses. Solo el 22% acepta el uso de AI en cualquier fase de la creación de un libro, mientras que el 28% no la quiere en los libros en absoluto. Al cuarenta y cinco por ciento no le importa que un autor use AI como asistente o para revisar la gramática y la ortografía."
+                "x": "Mosajaein anunció el día 21 que lanzó oficialmente en Japón Airoku (アイロク), una plataforma personalizada de novelas web con IA."
               },
               {
                 "t": "p",
-                "x": "Los resultados variaron mucho según la edad: el 36% de los adolescentes acepta que se use AI en cualquier fase de la escritura de un libro, frente a solo el 11% de los mayores de 55."
+                "x": "Airoku es la versión japonesa de HeartFiction, la plataforma de novelas web con IA que Mosajaein opera en Corea. Cuando el usuario elige el género, la ambientación, los personajes y otros elementos, varios agentes de IA colaboran para generar el capítulo inicial de una novela web en unos 2 minutos. El usuario también puede cambiar el rumbo de la obra introduciendo en cada entrega el desarrollo que desee. Su rasgo distintivo es que va más allá de la simple lectura de novelas web y está diseñada para que el usuario participe en el proceso de creación de la historia."
               },
               {
                 "t": "p",
-                "x": "Sin embargo, el 85% de los lectores de todas las edades afirmó que los libros deberían indicar si se usó AI en el proceso de escritura. Los resultados completos se publicarán en noviembre."
-              }
-            ]
-          }
-        },
-        "ko": {
-          "headline": "AI엔 갈린 독자들\n공개 요구엔 한목소리",
-          "body": "BookInsights.ai 조사에서 젊을수록 AI에 관대하나 모두 공개를 원했다.",
-          "mini_headline": "독자들, AI 사용 공개 원해",
-          "full": {
-            "mode": "full",
-            "blocks": [
-              {
-                "t": "img",
-                "src": "https://www.publishersweekly.com/images/data/ARTICLE_PHOTO/photo/000/132/132310-1.JPG"
+                "x": "Según Mosajaein, su servicio en Corea, HeartFiction, superaba los 100.000 usuarios registrados en el mes 11 del año pasado, y los usuarios han generado más de 200.000 historias."
               },
               {
                 "t": "p",
-                "x": "AI가 출판계를 계속 뒤흔드는 가운데, 읽는 책에 AI가 쓰이는 데 대한 독자들의 생각은 엇갈렸다. U.S. 도서 구매자를 대상으로 한 새 조사에 따르면 젊은 독자일수록 수용도가 높았지만, 모든 독자가 완전한 공개를 선호했다."
+                "x": "Mosajaein explicó que eligió Japón como su primer mercado exterior por su cultura consolidada de pago por contenidos, su cultura fan y su mercado de obras derivadas (creación de 2.º grado). Para ello, desarrolló un motor de generación de contenidos especializado en japonés y adaptó el servicio incorporando las preferencias de los usuarios locales. Airoku está disponible en Google Play y en la App Store de Apple."
               },
               {
                 "t": "p",
-                "x": "전 Circana BookScan 임원 David Walter가 올해 세운 데이터 컨설팅사 BookInsights.ai는 최근 세 달 안에 책을 산 5,025명의 의견을 들었다. 책 제작의 어느 단계에서든 AI 사용을 받아들인다는 응답은 22%에 그쳤고, 28%는 책에 AI가 아예 쓰이지 않기를 바랐다. Forty-five percent는 작가가 AI를 보조 도구로 쓰거나 맞춤법·문법 검사에 쓰는 것은 괜찮다고 답했다."
+                "x": "Los programas gubernamentales de apoyo al desarrollo de contenidos y tecnología también sentaron las bases de esta entrada en Japón. Mosajaein fue seleccionada para el programa «Apoyo a la producción de contenidos de inteligencia artificial 2026» del Ministerio de Cultura, Deportes y Turismo y la Agencia Coreana de Contenidos Creativos, y está realizando la prueba piloto de una plataforma multimodal de creación de storyverse basada en múltiples agentes de IA."
               },
               {
                 "t": "p",
-                "x": "연령대별 결과는 크게 갈렸다. 십대의 36%는 책 집필의 어느 단계에서든 AI 사용에 열려 있었지만, 55세 이상에서는 11%만 동의했다."
+                "x": "A través de este programa desarrolla una tecnología que combina ilustraciones y audio con historias generadas por IA y, en conexión con proyectos de investigación y desarrollo (R&D) del Ministerio de Cultura, Deportes y Turismo y del Ministerio de Pymes y Startups, también desarrolla tecnología de localización al japonés basada en Deep-RAG (generación aumentada por recuperación) multilingüe. La empresa también ha solicitado 4 patentes relacionadas con la generación de contenidos con IA."
               },
               {
                 "t": "p",
-                "x": "그러나 모든 연령대 독자의 85%는 집필 과정에 AI가 쓰였는지 책에 밝혀야 한다고 답했다. 전체 결과는 11월에 공개된다."
+                "x": "Jo Jin-hyuk, codirector ejecutivo de Mosajaein, afirmó: «Hemos llevado al mercado japonés un modelo de contenidos participativo validado en Corea», y añadió: «En el futuro planeamos ampliar el servicio a las regiones de habla china e inglesa»."
               }
             ]
           }

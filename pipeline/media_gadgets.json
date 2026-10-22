@@ -1,7 +1,33 @@
-{"date":"2026-10-22","section":"gadgets","media":[
-{"id":"gadgets-hue-ai-behaviors","type":"image","src":"pipeline/media/gadgets-hue-ai-behaviors.jpg"},
-{"id":"gadgets-gm-onstar-ai","type":"image","src":"pipeline/media/gadgets-gm-onstar-ai.jpg"},
-{"id":"gadgets-unitree-h2x","type":"video","src":"pipeline/media/gadgets-unitree-h2x.mp4","poster":"pipeline/media/gadgets-unitree-h2x.jpg"},
-{"id":"gadgets-timekettle-livetalk","type":"image","src":"pipeline/media/gadgets-timekettle-livetalk.jpg"},
-{"id":"gadgets-speakon-button","type":"image","src":"pipeline/media/gadgets-speakon-button.png"}
-]}
+{
+  "date": "2026-10-23",
+  "section": "gadgets",
+  "media": [
+    {
+      "id": "gadgets-mori-mushroom-lamp",
+      "type": "image",
+      "src": "pipeline/media/gadgets-mori-mushroom-lamp.jpg"
+    },
+    {
+      "id": "gadgets-meta-spatial-sdks",
+      "type": "video",
+      "src": "pipeline/media/gadgets-meta-spatial-sdks.mp4",
+      "poster": "pipeline/media/gadgets-meta-spatial-sdks.jpg"
+    },
+    {
+      "id": "gadgets-amd-fsr41-older-gpus",
+      "type": "video",
+      "src": "pipeline/media/gadgets-amd-fsr41-older-gpus.mp4",
+      "poster": "pipeline/media/gadgets-amd-fsr41-older-gpus.jpg"
+    },
+    {
+      "id": "gadgets-llamacpp-moe-offload-8gb",
+      "type": "image",
+      "src": "pipeline/media/gadgets-llamacpp-moe-offload-8gb.jpg"
+    },
+    {
+      "id": "gadgets-birdbuddy-nook",
+      "type": "image",
+      "src": "pipeline/media/gadgets-birdbuddy-nook.jpg"
+    }
+  ]
+}

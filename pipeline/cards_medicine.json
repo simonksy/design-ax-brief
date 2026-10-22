@@ -1,17 +1,17 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "section": "medicine",
   "cards": [
     {
-      "id": "medicine-epic-connectors",
+      "id": "medicine-genai-device-liability",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Epic AI 에이전트\n외부 앱과 연결된다",
-      "body": "Epic의 Emmie·Art·Penny가 Connectors로 외부 앱을 다룬다.",
-      "mini_headline": "Epic AI 에이전트, 외부 앱 연결",
+      "headline": "AI 의료기기 책임은\n의사 아닌 개발사에",
+      "body": "의료계가 FDA에 생성형 AI 기기 안전은 의사가 아닌 개발사 몫이라고 했다.",
+      "mini_headline": "의료계 \"AI 개발사가 책임져야\"",
       "tool": "Medicine",
-      "source": "Fierce Healthcare",
-      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/epic-launches-connectors-link-its-ai-tools-third-party-apps",
+      "source": "Healthcare Dive",
+      "url": "https://www.healthcaredive.com/news/developers-not-doctors-held-accountable-generative-ai-medical-devices-fda/833738/",
       "accent": "#00897b",
       "motif": "sphere",
       "full": {
@@ -19,179 +19,197 @@
         "blocks": [
           {
             "t": "img",
-            "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-            "cap": "의료기관은 March 2027부터 Epic Showroom에서 개발자가 만든 Connectors를 찾을 수 있다. (ismagilov/GettyImages)"
+            "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
           },
           {
             "t": "p",
-            "x": "Epic이 \"Connectors\"를 출시했다. 개발자가 자기 앱을 Epic의 AI 도구에 붙이는 기능이다. 연결 대상은 환자용 어시스턴트 Emmie, 임상의용 어시스턴트 Art, 수익 사이클·운영 AI인 Penny, 그리고 의료기관이 Agent Factory에서 직접 만드는 맞춤형 에이전트다. 발표는 Open@Epic 콘퍼런스를 앞두고 나왔다."
+            "x": "병원과 의료 시스템, 의사, 원격의료 기업을 대표하는 전국 단위 의료 단체들이 생성형 AI를 쓰는 의료기기의 안전과 성능 책임을 떠안고 싶지 않다고 FDA에 밝혔다. 그 부담은 개발사가 져야 한다는 것이다."
           },
           {
             "t": "p",
-            "x": "Epic이 든 예를 보면 Connector가 구급차 앱에서 도착 시간을 가져와 ED(응급실)가 미리 준비하게 한다. Emmie는 입원 환자의 식사 주문을 식이 관리 앱에 바로 넣는다. 에이전트는 여러 Connectors를 엮어 다단계 워크플로 하나로 돌릴 수도 있다."
+            "x": "American Hospital Association, American Medical Association, American Telemedicine Association은 챗봇이나 의료 정보를 종합하는 도구 같은 기기를 감시하는 일이 의료 제공자, 특히 소규모·농촌 의료기관에는 지나친 부담이라고 말했다. 의료 제공자가 문제를 보고할 경로를 만들어 달라는 요청도 FDA에 했다."
           },
           {
             "t": "p",
-            "x": "Epic은 일단 Model Context Protocol(MCP)을 표준으로 삼았다. 의료기관은 Connector마다 무엇을 읽고 바꿀 수 있는지 검토한 뒤 켠다. Epic은 Showroom 등재 대가로 개발자에게 비용을 받는데, 가격은 공개하지 않았다."
+            "x": "원격의료 단체의 로비 조직인 ATA Action은 “제조사는 자신이 판매하는 기기의 안전과 성능에 계속 책임을 져야 한다”고 말했다. 병원들은 모델이 어떻게 작동하는지 드러나지 않아 의료 제공자가 결함을 알아차리기 어렵다고 덧붙였다."
           },
           {
             "t": "p",
-            "x": "Epic VP Johnston Thayer는 \"이 기능으로 인해 새로운 자율 행동이 이뤄지지는 않을 것\"이라고 말했다. 일부 의료기관 파트너와 하는 테스트는 연말 전에 시작된다."
+            "x": "FDA가 생성형 AI 기반(AI-enabled) 기기 규제 방안을 놓고 의견을 구하자 단체들이 이렇게 답했다. 이런 기기는 열린 형태의 입력을 받고 비슷한 입력에도 결과가 달라질 수 있다. 기기가 하는 행위로 위험을 평가하겠다는 계획은 의료 단체들이 대체로 지지했다. 다만 AHA는 행위만으로는 위험을 예측하기 어려울 수 있다고 했고 AMA는 사람이 개입한다고 위험이 꼭 줄지는 않는다고 지적했다."
+          },
+          {
+            "t": "p",
+            "x": "WEDI는 이상 사례 보고 절차와 AI 도구용 “영양 성분” 라벨을 제안했다. FDA의 Rick Abramson은 몇 달 안에 생성형 AI 기반(AI-enabled) 기기 가이던스 초안을 내놓겠다고 밝혔다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Epic Connectors link its AI\nagents to third-party apps",
-          "body": "Epic's Connectors let its AI agents Emmie, Art and Penny pull data and act inside third-party apps.",
-          "mini_headline": "Epic links AI agents to outside apps",
+          "headline": "Providers want AI makers\nheld accountable, not doctors",
+          "body": "Provider groups urged the FDA to make developers, not doctors, answer for generative AI medical device safety.",
+          "mini_headline": "Providers: hold AI makers accountable",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "Healthcare organizations will be able to find developer-created Connectors on Epic Showroom starting in March 2027. (ismagilov/GettyImages)"
+                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
               },
               {
                 "t": "p",
-                "x": "Epic launched \"Connectors,\" which let developers connect their apps to Epic's AI tools: patient-facing assistant Emmie, clinician assistant Art and Penny, its revenue cycle and operations AI, plus custom agents health systems build in Agent Factory. It was announced ahead of the Open@Epic conference."
+                "x": "National healthcare groups representing hospitals, health systems, physicians and telehealth companies told the FDA they don't want to be held responsible for the safety and performance of medical devices that use generative AI, arguing that developers should shoulder that burden."
               },
               {
                 "t": "p",
-                "x": "In Epic's examples, a Connector pulls an arrival time from an ambulance app so the ED can prepare, and Emmie places a hospitalized patient's meal order directly in the dietary app. Agents can chain several Connectors into one multi-step workflow."
+                "x": "The American Hospital Association, American Medical Association and American Telemedicine Association said monitoring such devices — including chatbots and tools that synthesize medical information — would place too heavy a load on providers, particularly small and rural practices. They also asked the FDA to create ways for providers to report problems."
               },
               {
                 "t": "p",
-                "x": "Epic will initially use the Model Context Protocol (MCP) as the standard. Health systems review what each Connector can read and change before enabling it, and Epic will charge developers to list in Showroom (pricing undisclosed)."
+                "x": "“Manufacturers should remain responsible for the safety and performance of the devices they sell,” said ATA Action, the telemedicine group's lobbying arm. Hospitals added that a lack of transparency into how the models work makes flaws hard for providers to spot."
               },
               {
                 "t": "p",
-                "x": "\"There will not be new autonomous actions taken as a result of these capabilities,\" said Epic VP Johnston Thayer. Testing with some health system partners begins by the end of the year."
+                "x": "The comments responded to the FDA's request for feedback on its proposed approach to regulating generative AI-enabled devices, which accept open-ended inputs and can produce different outputs to similar inputs. Provider groups largely backed its plan to assess risk by the actions a device performs, though the AHA said action alone may not predict risk, and the AMA noted a human in the loop does not necessarily mitigate it."
+              },
+              {
+                "t": "p",
+                "x": "WEDI suggested an adverse-event reporting process and “nutrition” labels for AI tools. The FDA's Rick Abramson said the agency plans to post draft guidance on generative AI-enabled devices in the coming months."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Epic AI 에이전트\n외부 앱과 연결된다",
-          "body": "Epic의 Emmie·Art·Penny가 Connectors로 외부 앱을 다룬다.",
-          "mini_headline": "Epic AI 에이전트, 외부 앱 연결",
+          "headline": "AI 의료기기 책임은\n의사 아닌 개발사에",
+          "body": "의료계가 FDA에 생성형 AI 기기 안전은 의사가 아닌 개발사 몫이라고 했다.",
+          "mini_headline": "의료계 \"AI 개발사가 책임져야\"",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "의료기관은 March 2027부터 Epic Showroom에서 개발자가 만든 Connectors를 찾을 수 있다. (ismagilov/GettyImages)"
+                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
               },
               {
                 "t": "p",
-                "x": "Epic이 \"Connectors\"를 출시했다. 개발자가 자기 앱을 Epic의 AI 도구에 붙이는 기능이다. 연결 대상은 환자용 어시스턴트 Emmie, 임상의용 어시스턴트 Art, 수익 사이클·운영 AI인 Penny, 그리고 의료기관이 Agent Factory에서 직접 만드는 맞춤형 에이전트다. 발표는 Open@Epic 콘퍼런스를 앞두고 나왔다."
+                "x": "병원과 의료 시스템, 의사, 원격의료 기업을 대표하는 전국 단위 의료 단체들이 생성형 AI를 쓰는 의료기기의 안전과 성능 책임을 떠안고 싶지 않다고 FDA에 밝혔다. 그 부담은 개발사가 져야 한다는 것이다."
               },
               {
                 "t": "p",
-                "x": "Epic이 든 예를 보면 Connector가 구급차 앱에서 도착 시간을 가져와 ED(응급실)가 미리 준비하게 한다. Emmie는 입원 환자의 식사 주문을 식이 관리 앱에 바로 넣는다. 에이전트는 여러 Connectors를 엮어 다단계 워크플로 하나로 돌릴 수도 있다."
+                "x": "American Hospital Association, American Medical Association, American Telemedicine Association은 챗봇이나 의료 정보를 종합하는 도구 같은 기기를 감시하는 일이 의료 제공자, 특히 소규모·농촌 의료기관에는 지나친 부담이라고 말했다. 의료 제공자가 문제를 보고할 경로를 만들어 달라는 요청도 FDA에 했다."
               },
               {
                 "t": "p",
-                "x": "Epic은 일단 Model Context Protocol(MCP)을 표준으로 삼았다. 의료기관은 Connector마다 무엇을 읽고 바꿀 수 있는지 검토한 뒤 켠다. Epic은 Showroom 등재 대가로 개발자에게 비용을 받는데, 가격은 공개하지 않았다."
+                "x": "원격의료 단체의 로비 조직인 ATA Action은 “제조사는 자신이 판매하는 기기의 안전과 성능에 계속 책임을 져야 한다”고 말했다. 병원들은 모델이 어떻게 작동하는지 드러나지 않아 의료 제공자가 결함을 알아차리기 어렵다고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "Epic VP Johnston Thayer는 \"이 기능으로 인해 새로운 자율 행동이 이뤄지지는 않을 것\"이라고 말했다. 일부 의료기관 파트너와 하는 테스트는 연말 전에 시작된다."
+                "x": "FDA가 생성형 AI 기반(AI-enabled) 기기 규제 방안을 놓고 의견을 구하자 단체들이 이렇게 답했다. 이런 기기는 열린 형태의 입력을 받고 비슷한 입력에도 결과가 달라질 수 있다. 기기가 하는 행위로 위험을 평가하겠다는 계획은 의료 단체들이 대체로 지지했다. 다만 AHA는 행위만으로는 위험을 예측하기 어려울 수 있다고 했고 AMA는 사람이 개입한다고 위험이 꼭 줄지는 않는다고 지적했다."
+              },
+              {
+                "t": "p",
+                "x": "WEDI는 이상 사례 보고 절차와 AI 도구용 “영양 성분” 라벨을 제안했다. FDA의 Rick Abramson은 몇 달 안에 생성형 AI 기반(AI-enabled) 기기 가이던스 초안을 내놓겠다고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EpicのAIエージェント\n外部アプリと連携",
-          "body": "EpicのEmmie・Art・PennyがConnectorsで外部アプリを操作する。",
-          "mini_headline": "Epic、AIエージェントを外部アプリへ接続",
+          "headline": "AI医療機器の責任は\n医師でなく開発者に",
+          "body": "医療団体はFDAに対し、生成AI医療機器の安全責任を医師ではなく開発者に負わせるよう求めた。",
+          "mini_headline": "医療団体「AI開発者が責任を」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "医療機関はMarch 2027から、開発者が作ったConnectorsをEpic Showroomで探せるようになる。(ismagilov/GettyImages)"
+                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
               },
               {
                 "t": "p",
-                "x": "Epicは、開発者が自社アプリをEpicのAIツールに接続できる「Connectors」を発表した。対象は患者向けアシスタントEmmie、臨床医向けアシスタントArt、収益サイクル・業務向けAIのPenny、さらに医療機関がAgent Factoryで構築する独自エージェントである。発表はOpen@Epicカンファレンスに先立って行われた。"
+                "x": "病院、医療システム、医師、遠隔医療企業を代表する全米規模の医療団体は、生成AIを用いる医療機器の安全性と性能について責任を負いたくないとFDAに伝えた。その負担は開発者が担うべきだという主張である。"
               },
               {
                 "t": "p",
-                "x": "Epicの例では、Connectorが救急車アプリから到着時刻を取得してED（救急部門）が準備できるようにし、Emmieが入院患者の食事注文を栄養管理アプリに直接入力する。エージェントは複数のConnectorsを組み合わせ、一つの多段階ワークフローにできる。"
+                "x": "American Hospital Association、American Medical Association、American Telemedicine Associationは、チャットボットや医療情報を統合するツールを含むこうした機器の監視は、医療提供者、とりわけ小規模・地方の診療所にとって負担が重すぎると述べた。また、医療提供者が問題を報告できる仕組みをつくるようFDAに求めた。"
               },
               {
                 "t": "p",
-                "x": "Epicは当初、Model Context Protocol（MCP）を標準として採用する。医療機関は各Connectorが何を読み取り、何を変更できるかを確認してから有効化し、EpicはShowroomへの掲載について開発者に料金を課す（価格は非公開）。"
+                "x": "遠隔医療団体のロビー部門であるATA Actionは「製造者は自らが販売する機器の安全性と性能に引き続き責任を負うべきだ」と述べた。病院側は、モデルの仕組みが不透明なため、医療提供者が欠陥に気づきにくいと付け加えた。"
               },
               {
                 "t": "p",
-                "x": "Epic VPのJohnston Thayer氏は「これらの機能によって新たな自律的行動が取られることはない」と述べた。一部の医療機関パートナーとのテストは年末までに始まる。"
+                "x": "これらの意見は、生成AI搭載(AI-enabled)機器の規制案に対するFDAの意見募集に応えたものだ。こうした機器は自由形式の入力を受け付け、似た入力にも異なる出力を返しうる。医療団体は、機器が行う動作によってリスクを評価する計画をおおむね支持した。ただしAHAは動作だけではリスクを予測できない場合があるとし、AMAは人間が介在しても必ずしもリスクが軽減されるわけではないと指摘した。"
+              },
+              {
+                "t": "p",
+                "x": "WEDIは有害事象の報告プロセスと、AIツール向けの「栄養成分」ラベルを提案した。FDAのRick Abramsonは、生成AI搭載(AI-enabled)機器に関するガイダンス案を今後数か月以内に公表する予定だと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Epic AI智能体\n接入第三方应用",
-          "body": "Epic的Emmie、Art和Penny可通过Connectors操作第三方应用。",
-          "mini_headline": "Epic将AI智能体接入外部应用",
+          "headline": "AI医疗器械责任\n应由开发者而非医生承担",
+          "body": "医疗服务机构团体敦促FDA让开发者而非医生为生成式AI医疗器械安全负责。",
+          "mini_headline": "医疗团体：应由AI开发者担责",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "从March 2027起，医疗机构可在Epic Showroom上找到开发者创建的Connectors。(ismagilov/GettyImages)"
+                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
               },
               {
                 "t": "p",
-                "x": "Epic推出了“Connectors”，让开发者把自家应用接入Epic的AI工具：面向患者的助手Emmie、面向临床医生的助手Art、负责收入周期与运营的AI Penny，以及医疗系统在Agent Factory中自建的定制智能体。该消息在Open@Epic大会前发布。"
+                "x": "代表医院、医疗系统、医生和远程医疗企业的全国性医疗团体告诉FDA，他们不希望为使用生成式AI的医疗器械的安全性和性能承担责任，认为这一负担应由开发者承担。"
               },
               {
                 "t": "p",
-                "x": "在Epic举的例子中，Connector从救护车应用获取到达时间，让ED（急诊科）提前准备；Emmie则直接在膳食应用中为住院患者下单订餐。智能体可将多个Connectors串联成一个多步骤工作流。"
+                "x": "American Hospital Association、American Medical Association和American Telemedicine Association表示，监测这类器械（包括聊天机器人和整合医疗信息的工具）会给医疗服务提供者带来过重负担，小型和农村诊所尤甚。他们还要求FDA建立供医疗服务提供者报告问题的渠道。"
               },
               {
                 "t": "p",
-                "x": "Epic初期将以Model Context Protocol（MCP）为标准。医疗系统在启用前会审查每个Connector能读取和更改的内容，Epic将向在Showroom上架的开发者收费（价格未披露）。"
+                "x": "远程医疗团体的游说机构ATA Action表示：“制造商应继续对其销售的器械的安全性和性能负责。”医院方面补充说，模型运作方式缺乏透明度，使医疗服务提供者难以发现缺陷。"
               },
               {
                 "t": "p",
-                "x": "Epic VP Johnston Thayer表示：“这些功能不会带来新的自主操作。”部分医疗系统合作伙伴的测试将于年底前启动。"
+                "x": "这些意见是对FDA就生成式AI赋能（AI-enabled）器械监管拟议方案征求意见的回应。这类器械接受开放式输入，对相似输入可能产生不同输出。医疗团体大体支持按器械所执行的操作评估风险的计划，但AHA表示仅凭操作未必能预测风险，AMA则指出有人参与其中并不一定能降低风险。"
+              },
+              {
+                "t": "p",
+                "x": "WEDI建议建立不良事件报告流程，并为AI工具设立“营养成分”标签。FDA的Rick Abramson表示，该机构计划在未来几个月内发布关于生成式AI赋能（AI-enabled）器械的指南草案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Epic conecta sus agentes de AI\na apps de terceros",
-          "body": "Con Connectors de Epic, sus agentes de AI Emmie, Art y Penny extraen datos y actúan en apps de terceros.",
-          "mini_headline": "Epic conecta sus agentes de AI con apps externas",
+          "headline": "Piden responsabilizar a los\nfabricantes de IA, no a médicos",
+          "body": "Prestadores pidieron a la FDA que los desarrolladores, no los médicos, respondan por los equipos de IA generativa.",
+          "mini_headline": "Prestadores: que respondan los fabricantes de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "Las organizaciones de salud podrán encontrar en Epic Showroom los Connectors creados por desarrolladores a partir de marzo de 2027. (ismagilov/GettyImages)"
+                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
               },
               {
                 "t": "p",
-                "x": "Epic lanzó \"Connectors\", que permiten a los desarrolladores conectar sus apps con las herramientas de AI de Epic: Emmie, asistente para pacientes; Art, asistente para clínicos; Penny, su AI de ciclo de ingresos y operaciones; y los agentes personalizados que los sistemas de salud crean en Agent Factory. El anuncio se hizo antes de la conferencia Open@Epic."
+                "x": "Grupos sanitarios nacionales que representan a hospitales, sistemas de salud, médicos y empresas de telesalud dijeron a la FDA que no quieren ser responsables de la seguridad y el rendimiento de los dispositivos médicos que usan IA generativa, y sostuvieron que esa carga debe recaer en los desarrolladores."
               },
               {
                 "t": "p",
-                "x": "En los ejemplos de Epic, un Connector obtiene la hora de llegada desde una app de ambulancias para que el ED (servicio de urgencias) se prepare, y Emmie registra directamente el pedido de comida de un paciente hospitalizado en la app de dietética. Los agentes pueden encadenar varios Connectors en un único flujo de trabajo de varios pasos."
+                "x": "La American Hospital Association, la American Medical Association y la American Telemedicine Association afirmaron que vigilar estos dispositivos —incluidos chatbots y herramientas que sintetizan información médica— supondría una carga excesiva para los prestadores, en especial para las consultas pequeñas y rurales. También pidieron a la FDA que cree vías para que los prestadores informen de problemas."
               },
               {
                 "t": "p",
-                "x": "Epic usará inicialmente el Model Context Protocol (MCP) como estándar. Los sistemas de salud revisan qué puede leer y modificar cada Connector antes de activarlo, y Epic cobrará a los desarrolladores por aparecer en Showroom (precio no revelado)."
+                "x": "“Los fabricantes deben seguir siendo responsables de la seguridad y el rendimiento de los dispositivos que venden”, dijo ATA Action, el brazo de cabildeo del grupo de telemedicina. Los hospitales añadieron que la falta de transparencia sobre cómo funcionan los modelos dificulta que los prestadores detecten fallos."
               },
               {
                 "t": "p",
-                "x": "\"No habrá nuevas acciones autónomas como resultado de estas capacidades\", dijo Johnston Thayer, VP de Epic. Las pruebas con algunos sistemas de salud socios comenzarán antes de fin de año."
+                "x": "Los comentarios respondían a la solicitud de la FDA de opiniones sobre su propuesta para regular los dispositivos habilitados con IA generativa (AI-enabled), que aceptan entradas abiertas y pueden producir resultados distintos ante entradas similares. Los grupos de prestadores respaldaron en general su plan de evaluar el riesgo según las acciones que realiza un dispositivo, aunque la AHA señaló que la acción por sí sola puede no predecir el riesgo, y la AMA indicó que tener a una persona en el circuito no necesariamente lo mitiga."
+              },
+              {
+                "t": "p",
+                "x": "WEDI propuso un proceso de notificación de eventos adversos y etiquetas “nutricionales” para las herramientas de IA. Rick Abramson, de la FDA, dijo que la agencia prevé publicar en los próximos meses un borrador de guía sobre los dispositivos habilitados con IA generativa (AI-enabled)."
               }
             ]
           }
@@ -199,125 +217,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Epic AI 에이전트\n외부 앱과 연결된다",
-          "body": "Epic의 Emmie·Art·Penny가 Connectors로 외부 앱을 다룬다.",
-          "mini_headline": "Epic AI 에이전트, 외부 앱 연결",
+          "headline": "AI 의료기기 책임은\n의사 아닌 개발사에",
+          "body": "의료계가 FDA에 생성형 AI 기기 안전 책임을 의사 아닌 개발사가 지라고 했다.",
+          "mini_headline": "의료계 \"AI 개발사가 책임져야\"",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "의료기관은 March 2027부터 Epic Showroom에서 개발자가 만든 Connectors를 찾을 수 있다. (ismagilov/GettyImages)"
+                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
               },
               {
                 "t": "p",
-                "x": "Epic이 개발자가 자사 앱을 Epic의 AI 도구에 연결할 수 있는 \"Connectors\"를 출시했다. 연결 대상은 환자용 어시스턴트 Emmie, 임상의용 어시스턴트 Art, 수익 사이클·운영 AI인 Penny, 그리고 의료기관이 Agent Factory에서 직접 만드는 맞춤형 에이전트다. 발표는 Open@Epic 콘퍼런스를 앞두고 나왔다."
+                "x": "병원과 의료 시스템, 의사, 원격의료 기업을 대표하는 전국 단위 의료 단체들이 FDA에 생성형 AI를 쓰는 의료기기의 안전과 성능에 대한 책임을 지고 싶지 않다고 밝혔다. 그 부담은 개발사가 져야 한다는 주장이다."
               },
               {
                 "t": "p",
-                "x": "Epic이 든 예시에서 Connector는 구급차 앱에서 도착 시간을 가져와 ED(응급실)가 미리 준비하게 하고, Emmie는 입원 환자의 식사 주문을 식이 관리 앱에 바로 넣는다. 에이전트는 여러 Connectors를 엮어 하나의 다단계 워크플로로 실행할 수 있다."
+                "x": "American Hospital Association, American Medical Association, American Telemedicine Association은 챗봇과 의료 정보를 종합하는 도구를 포함한 이런 기기를 감시하는 일이 의료 제공자, 특히 소규모·농촌 의료기관에 지나친 부담이 된다고 말했다. 이들은 의료 제공자가 문제를 보고할 수 있는 경로를 만들어 달라고 FDA에 요청하기도 했다."
               },
               {
                 "t": "p",
-                "x": "Epic은 우선 Model Context Protocol(MCP)을 표준으로 쓴다. 의료기관은 각 Connector가 무엇을 읽고 바꿀 수 있는지 검토한 뒤 활성화하며, Epic은 Showroom 등재 대가로 개발자에게 비용을 받는다(가격 미공개)."
+                "x": "원격의료 단체의 로비 조직인 ATA Action은 “제조사는 자신이 판매하는 기기의 안전과 성능에 계속 책임을 져야 한다”고 말했다. 병원들은 모델의 작동 방식이 투명하지 않아 의료 제공자가 결함을 알아차리기 어렵다고 덧붙였다."
               },
               {
                 "t": "p",
-                "x": "Epic VP Johnston Thayer는 \"이 기능으로 인해 새로운 자율 행동이 이뤄지지는 않을 것\"이라고 말했다. 일부 의료기관 파트너와의 테스트는 연말까지 시작된다."
+                "x": "이번 의견은 생성형 AI 기반(AI-enabled) 기기 규제 방안에 대한 FDA의 의견 수렴에 답한 것이다. 이런 기기는 열린 형태의 입력을 받고, 비슷한 입력에도 다른 결과를 낼 수 있다. 의료 단체들은 기기가 수행하는 행위로 위험을 평가하겠다는 계획을 대체로 지지했다. 다만 AHA는 행위만으로 위험을 예측하기 어려울 수 있다고 했고, AMA는 사람이 개입한다고 해서 위험이 반드시 줄지는 않는다고 지적했다."
+              },
+              {
+                "t": "p",
+                "x": "WEDI는 이상 사례 보고 절차와 AI 도구용 “영양 성분” 라벨을 제안했다. FDA의 Rick Abramson은 앞으로 몇 달 안에 생성형 AI 기반(AI-enabled) 기기에 관한 가이던스 초안을 공개할 계획이라고 밝혔다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "EpicのAIエージェント\n外部アプリと連携",
-          "body": "EpicのEmmie・Art・PennyがConnectorsで外部アプリを操作する。",
-          "mini_headline": "Epic、AIエージェントを外部アプリへ接続",
+          "headline": "AI医療機器の責任は\n医師でなく開発者に",
+          "body": "医療団体はFDAに対し、生成AI医療機器の安全責任を医師ではなく開発者に負わせるよう求めた。",
+          "mini_headline": "医療団体「AI開発者が責任を」",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "医療機関はMarch 2027から、開発者が作ったConnectorsをEpic Showroomで探せるようになる。(ismagilov/GettyImages)"
+                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
               },
               {
                 "t": "p",
-                "x": "Epicは、開発者が自社アプリをEpicのAIツールに接続できる「Connectors」を発表した。対象は患者向けアシスタントEmmie、臨床医向けアシスタントArt、収益サイクル・業務向けAIのPenny、さらに医療機関がAgent Factoryで構築する独自エージェントである。発表はOpen@Epicカンファレンスに先立って行われた。"
+                "x": "病院、医療システム、医師、遠隔医療企業を代表する全米規模の医療団体は、生成AIを用いる医療機器の安全性と性能について責任を負いたくないとFDAに伝えた。その負担は開発者が担うべきだという主張である。"
               },
               {
                 "t": "p",
-                "x": "Epicの例では、Connectorが救急車アプリから到着時刻を取得してED（救急部門）が準備できるようにし、Emmieが入院患者の食事注文を栄養管理アプリに直接入力する。エージェントは複数のConnectorsを組み合わせ、一つの多段階ワークフローにできる。"
+                "x": "American Hospital Association、American Medical Association、American Telemedicine Associationは、チャットボットや医療情報を統合するツールを含むこうした機器の監視は、医療提供者、とりわけ小規模・地方の診療所にとって負担が重すぎると述べた。また、医療提供者が問題を報告できる仕組みをつくるようFDAに求めた。"
               },
               {
                 "t": "p",
-                "x": "Epicは当初、Model Context Protocol（MCP）を標準として採用する。医療機関は各Connectorが何を読み取り、何を変更できるかを確認してから有効化し、EpicはShowroomへの掲載について開発者に料金を課す（価格は非公開）。"
+                "x": "遠隔医療団体のロビー部門であるATA Actionは「製造者は自らが販売する機器の安全性と性能に引き続き責任を負うべきだ」と述べた。病院側は、モデルの仕組みが不透明なため、医療提供者が欠陥に気づきにくいと付け加えた。"
               },
               {
                 "t": "p",
-                "x": "Epic VPのJohnston Thayer氏は「これらの機能によって新たな自律的行動が取られることはない」と述べた。一部の医療機関パートナーとのテストは年末までに始まる。"
+                "x": "これらの意見は、生成AI搭載(AI-enabled)機器の規制案に対するFDAの意見募集に応えたものだ。こうした機器は自由形式の入力を受け付け、似た入力にも異なる出力を返しうる。医療団体は、機器が行う動作によってリスクを評価する計画をおおむね支持した。ただしAHAは動作だけではリスクを予測できない場合があるとし、AMAは人間が介在しても必ずしもリスクが軽減されるわけではないと指摘した。"
+              },
+              {
+                "t": "p",
+                "x": "WEDIは有害事象の報告プロセスと、AIツール向けの「栄養成分」ラベルを提案した。FDAのRick Abramsonは、生成AI搭載(AI-enabled)機器に関するガイダンス案を今後数か月以内に公表する予定だと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Epic AI智能体\n接入第三方应用",
-          "body": "Epic的Emmie、Art和Penny可通过Connectors操作第三方应用。",
-          "mini_headline": "Epic将AI智能体接入外部应用",
+          "headline": "AI医疗器械责任\n应由开发者而非医生承担",
+          "body": "医疗服务机构团体敦促FDA让开发者而非医生为生成式AI医疗器械安全负责。",
+          "mini_headline": "医疗团体：应由AI开发者担责",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "从March 2027起，医疗机构可在Epic Showroom上找到开发者创建的Connectors。(ismagilov/GettyImages)"
+                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
               },
               {
                 "t": "p",
-                "x": "Epic推出了“Connectors”，让开发者把自家应用接入Epic的AI工具：面向患者的助手Emmie、面向临床医生的助手Art、负责收入周期与运营的AI Penny，以及医疗系统在Agent Factory中自建的定制智能体。该消息在Open@Epic大会前发布。"
+                "x": "代表医院、医疗系统、医生和远程医疗企业的全国性医疗团体告诉FDA，他们不希望为使用生成式AI的医疗器械的安全性和性能承担责任，认为这一负担应由开发者承担。"
               },
               {
                 "t": "p",
-                "x": "在Epic举的例子中，Connector从救护车应用获取到达时间，让ED（急诊科）提前准备；Emmie则直接在膳食应用中为住院患者下单订餐。智能体可将多个Connectors串联成一个多步骤工作流。"
+                "x": "American Hospital Association、American Medical Association和American Telemedicine Association表示，监测这类器械（包括聊天机器人和整合医疗信息的工具）会给医疗服务提供者带来过重负担，小型和农村诊所尤甚。他们还要求FDA建立供医疗服务提供者报告问题的渠道。"
               },
               {
                 "t": "p",
-                "x": "Epic初期将以Model Context Protocol（MCP）为标准。医疗系统在启用前会审查每个Connector能读取和更改的内容，Epic将向在Showroom上架的开发者收费（价格未披露）。"
+                "x": "远程医疗团体的游说机构ATA Action表示：“制造商应继续对其销售的器械的安全性和性能负责。”医院方面补充说，模型运作方式缺乏透明度，使医疗服务提供者难以发现缺陷。"
               },
               {
                 "t": "p",
-                "x": "Epic VP Johnston Thayer表示：“这些功能不会带来新的自主操作。”部分医疗系统合作伙伴的测试将于年底前启动。"
+                "x": "这些意见是对FDA就生成式AI赋能（AI-enabled）器械监管拟议方案征求意见的回应。这类器械接受开放式输入，对相似输入可能产生不同输出。医疗团体大体支持按器械所执行的操作评估风险的计划，但AHA表示仅凭操作未必能预测风险，AMA则指出有人参与其中并不一定能降低风险。"
+              },
+              {
+                "t": "p",
+                "x": "WEDI建议建立不良事件报告流程，并为AI工具设立“营养成分”标签。FDA的Rick Abramson表示，该机构计划在未来几个月内发布关于生成式AI赋能（AI-enabled）器械的指南草案。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Epic conecta sus agentes de AI\na apps de terceros",
-          "body": "Con Connectors de Epic, sus agentes de AI Emmie, Art y Penny extraen datos y actúan en apps de terceros.",
-          "mini_headline": "Epic conecta sus agentes de AI con apps externas",
+          "headline": "Piden responsabilizar a los\nfabricantes de IA, no a médicos",
+          "body": "Prestadores pidieron a la FDA que los desarrolladores, no los médicos, respondan por los equipos de IA generativa.",
+          "mini_headline": "Prestadores: que respondan los fabricantes de IA",
           "full": {
             "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-                "cap": "Las organizaciones de salud podrán encontrar en Epic Showroom los Connectors creados por desarrolladores a partir de marzo de 2027. (ismagilov/GettyImages)"
+                "src": "https://imgproxy.divecdn.com/xBI1Tv0GTXys6wpRV0QS8JGGmJztWfwwzzGhEKntsIc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTU1X2FzUm5RNnkuanBn.webp"
               },
               {
                 "t": "p",
-                "x": "Epic lanzó \"Connectors\", que permiten a los desarrolladores conectar sus apps con las herramientas de AI de Epic: Emmie, asistente para pacientes; Art, asistente para clínicos; Penny, su AI de ciclo de ingresos y operaciones; y los agentes personalizados que los sistemas de salud crean en Agent Factory. El anuncio se hizo antes de la conferencia Open@Epic."
+                "x": "Grupos sanitarios nacionales que representan a hospitales, sistemas de salud, médicos y empresas de telesalud dijeron a la FDA que no quieren ser responsables de la seguridad y el rendimiento de los dispositivos médicos que usan IA generativa, y sostuvieron que esa carga debe recaer en los desarrolladores."
               },
               {
                 "t": "p",
-                "x": "En los ejemplos de Epic, un Connector obtiene la hora de llegada desde una app de ambulancias para que el ED (servicio de urgencias) se prepare, y Emmie registra directamente el pedido de comida de un paciente hospitalizado en la app de dietética. Los agentes pueden encadenar varios Connectors en un único flujo de trabajo de varios pasos."
+                "x": "La American Hospital Association, la American Medical Association y la American Telemedicine Association afirmaron que vigilar estos dispositivos —incluidos chatbots y herramientas que sintetizan información médica— supondría una carga excesiva para los prestadores, en especial para las consultas pequeñas y rurales. También pidieron a la FDA que cree vías para que los prestadores informen de problemas."
               },
               {
                 "t": "p",
-                "x": "Epic usará inicialmente el Model Context Protocol (MCP) como estándar. Los sistemas de salud revisan qué puede leer y modificar cada Connector antes de activarlo, y Epic cobrará a los desarrolladores por aparecer en Showroom (precio no revelado)."
+                "x": "“Los fabricantes deben seguir siendo responsables de la seguridad y el rendimiento de los dispositivos que venden”, dijo ATA Action, el brazo de cabildeo del grupo de telemedicina. Los hospitales añadieron que la falta de transparencia sobre cómo funcionan los modelos dificulta que los prestadores detecten fallos."
               },
               {
                 "t": "p",
-                "x": "\"No habrá nuevas acciones autónomas como resultado de estas capacidades\", dijo Johnston Thayer, VP de Epic. Las pruebas con algunos sistemas de salud socios comenzarán antes de fin de año."
+                "x": "Los comentarios respondían a la solicitud de la FDA de opiniones sobre su propuesta para regular los dispositivos habilitados con IA generativa (AI-enabled), que aceptan entradas abiertas y pueden producir resultados distintos ante entradas similares. Los grupos de prestadores respaldaron en general su plan de evaluar el riesgo según las acciones que realiza un dispositivo, aunque la AHA señaló que la acción por sí sola puede no predecir el riesgo, y la AMA indicó que tener a una persona en el circuito no necesariamente lo mitiga."
+              },
+              {
+                "t": "p",
+                "x": "WEDI propuso un proceso de notificación de eventos adversos y etiquetas “nutricionales” para las herramientas de IA. Rick Abramson, de la FDA, dijo que la agencia prevé publicar en los próximos meses un borrador de guía sobre los dispositivos habilitados con IA generativa (AI-enabled)."
               }
             ]
           }
@@ -325,361 +355,351 @@
       }
     },
     {
-      "id": "medicine-seoul-declaration",
-      "source_lang": "ko",
+      "id": "medicine-sentara-regard-case-ai",
+      "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "복지부·WHO 서울선언\n의료 AI 판단은 인간이",
-      "body": "복지부·WHO가 의료인 감독과 인간 최종 판단을 담은 AI 서울선언문을 채택했다.",
-      "mini_headline": "AI 서울선언 채택",
+      "headline": "Sentara, 사례관리용\nAI 도구 도입",
+      "body": "Sentara Health 사례관리자는 Regard AI에 차트를 일상어로 묻는다.",
+      "mini_headline": "Sentara, 사례관리에 AI 도입",
       "tool": "Medicine",
-      "source": "의학신문",
-      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014484",
+      "source": "Fierce Healthcare",
+      "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/sentara-health-deploys-new-ai-case-management-tool-co-developed-regard",
       "accent": "#0070f3",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "보건복지부와 세계보건기구(WHO)가 보건의료 분야 AI 활용 과정에서 의료인의 감독과 인간의 최종 판단을 보장하고, 임상적 효과와 안전성이 검증된 AI 기술을 확산하기 위한 국제 공동 원칙을 마련했다."
-          },
-          {
             "t": "img",
-            "src": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
-            "cap": "언론브리핑에 참석한 정은경 복지부 장관(왼쪽)과 테드로스 WHO 사무총장(오른쪽). 사진=이재원 기자"
+            "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
           },
           {
             "t": "p",
-            "x": "정은경 장관과 테드로스 사무총장은 21일 '2026 세계 바이오 서밋' 개회식에서 '책임 있는 혁신과 글로벌 연대를 위한 AI 헬스케어 서울선언문'을 공동 발표했다. 복지부와 WHO 사무총장이 보건의료 AI에 관한 공동 선언을 낸 첫 사례다."
+            "x": "비영리 의료 시스템 Sentara Health가 화요일 임상 의사결정 지원 기업 Regard와 함께 만든 인공지능 사례관리 솔루션을 새로 도입했다."
           },
           {
             "t": "p",
-            "x": "선언문은 AI를 검증된 사용 범위 안에서 인간의 감독이 가능한 조건으로 활용하고, 최종 판단은 인간에게 있다는 원칙을 명시했다. 개발부터 활용까지 위험 수준에 비례한 거버넌스 도입도 권고했다."
+            "x": "사례관리자는 이 도구에 일상 언어로 물어 차트를 조회하고 환자 병력과 상태 변화 같은 핵심 정보를 빠르게 확인한다. 최근 24시간 안에 생긴 변화도 볼 수 있다."
           },
           {
             "t": "p",
-            "x": "데이터 독점과 시장 지배 방지, 국제 표준과 규제 조화, 중저소득국 참여 지원, 생물보안 위험 관리 원칙도 담겼다. 테드로스 사무총장은 \"혁신이 안전장치 없이 추진돼도 된다는 의미는 아니다\"라고 말했다."
+            "x": "Sentara 최고보건정보책임자 Rollin Reeder, M.D.는 “퇴원 계획을 시작하기도 전에 환자의 이야기를 짜 맞추느라 예전에 얼마나 많은 시간을 썼는지 생각하면 놀랍다”고 돌아봤다."
           },
           {
             "t": "p",
-            "x": "정 장관은 WHO와 글로벌 AI 허브 구축을 실무 협의 중이라며, AI 기술을 실증·검증한 뒤 중저소득국으로 확산하겠다고 밝혔다."
+            "x": "Sentara는 이 도구를 급성기 진료 전반에 이어 외래 진료까지 넓힐 계획이다. 경영진은 약 90,000시간을 아낄 수 있다고 본다. 정규직 40명 이상, 인건비로 약 $5 million에 해당하는 규모다. Sentara는 버지니아(Virginia)와 노스캐롤라이나 북동부(Northeast North Carolina)에서 병원 12곳과 400곳이 넘는 진료 거점을 운영한다."
+          },
+          {
+            "t": "p",
+            "x": "Regard의 CEO Eli Ben-Joseph는 자사 플랫폼이 찾아내 의사들이 받아들인 진단이 20 million 건을 넘는다며 이를 운영팀으로 넓히는 일은 “자연스러운 다음 단계”라고 말했다."
           }
         ]
       },
       "text": {
-        "ko": {
-          "headline": "복지부·WHO 서울선언\n의료 AI 판단은 인간이",
-          "body": "복지부·WHO가 의료인 감독과 인간 최종 판단을 담은 AI 서울선언문을 채택했다.",
-          "mini_headline": "AI 서울선언 채택",
+        "en": {
+          "headline": "Sentara deploys AI tool\nfor case managers",
+          "body": "Sentara Health's AI tool, co-developed with Regard, lets case managers query patient charts in plain language.",
+          "mini_headline": "Sentara rolls out case AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "보건복지부와 세계보건기구(WHO)가 보건의료 분야 AI 활용 과정에서 의료인의 감독과 인간의 최종 판단을 보장하고, 임상적 효과와 안전성이 검증된 AI 기술을 확산하기 위한 국제 공동 원칙을 마련했다."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
-                "cap": "언론브리핑에 참석한 정은경 복지부 장관(왼쪽)과 테드로스 WHO 사무총장(오른쪽). 사진=이재원 기자"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
               },
               {
                 "t": "p",
-                "x": "정은경 장관과 테드로스 사무총장은 21일 '2026 세계 바이오 서밋' 개회식에서 '책임 있는 혁신과 글로벌 연대를 위한 AI 헬스케어 서울선언문'을 공동 발표했다. 복지부와 WHO 사무총장이 보건의료 AI에 관한 공동 선언을 낸 첫 사례다."
+                "x": "Not-for-profit health system Sentara Health deployed a new artificial intelligence case management solution Tuesday, which it co-developed with clinical decision support company Regard."
               },
               {
                 "t": "p",
-                "x": "선언문은 AI를 검증된 사용 범위 안에서 인간의 감독이 가능한 조건으로 활용하고, 최종 판단은 인간에게 있다는 원칙을 명시했다. 개발부터 활용까지 위험 수준에 비례한 거버넌스 도입도 권고했다."
+                "x": "Case managers can use the tool to query charts in plain language, quickly surfacing key insights like patient history and status changes, and can view changes within the last 24 hours."
               },
               {
                 "t": "p",
-                "x": "데이터 독점과 시장 지배 방지, 국제 표준과 규제 조화, 중저소득국 참여 지원, 생물보안 위험 관리 원칙도 담겼다. 테드로스 사무총장은 \"혁신이 안전장치 없이 추진돼도 된다는 의미는 아니다\"라고 말했다."
+                "x": "“It's incredible to think about how much time we used to spend piecing together a patient's story before they could even start discharge planning,” said Rollin Reeder, M.D., Sentara's chief health information officer."
               },
               {
                 "t": "p",
-                "x": "정 장관은 WHO와 글로벌 AI 허브 구축을 실무 협의 중이라며, AI 기술을 실증·검증한 뒤 중저소득국으로 확산하겠다고 밝혔다."
+                "x": "Sentara plans to expand the tool across acute care and into ambulatory care. Executives say it could save nearly 90,000 hours, equivalent to more than 40 full-time employees and nearly $5 million in labor costs. Sentara operates 12 hospitals and more than 400 care sites in Virginia and Northeast North Carolina."
+              },
+              {
+                "t": "p",
+                "x": "Regard CEO Eli Ben-Joseph said its platform has surfaced more than 20 million diagnoses that physicians accepted, and extending it to operational teams is “a natural next step.”"
               }
             ]
           }
         },
-        "en": {
-          "headline": "Health ministry, WHO in Seoul\nHumans decide on medical AI",
-          "body": "Korea's health ministry and WHO adopted an AI Seoul Declaration on clinician oversight and final human judgment.",
-          "mini_headline": "AI Seoul Declaration adopted",
+        "ko": {
+          "headline": "Sentara, 사례관리용\nAI 도구 도입",
+          "body": "Sentara Health 사례관리자는 Regard AI에 차트를 일상어로 묻는다.",
+          "mini_headline": "Sentara, 사례관리에 AI 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "The Ministry of Health and Welfare and the World Health Organization (WHO) have set out joint international principles to guarantee clinician oversight and final human judgment when AI is used in health care, and to spread AI technologies whose clinical effectiveness and safety have been verified."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
-                "cap": "Minister of Health and Welfare Jeong Eun-kyeong (left) and WHO Director-General Tedros (right) at a press briefing. Photo by reporter Lee Jae-won"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
               },
               {
                 "t": "p",
-                "x": "Minister Jeong and Director-General Tedros jointly announced the 'AI Healthcare Seoul Declaration for Responsible Innovation and Global Solidarity' at the opening ceremony of the '2026 World Bio Summit' on the 21st. It is the first joint declaration on health AI issued by the ministry and the WHO Director-General."
+                "x": "비영리 의료 시스템 Sentara Health가 화요일 임상 의사결정 지원 기업 Regard와 함께 만든 인공지능 사례관리 솔루션을 새로 도입했다."
               },
               {
                 "t": "p",
-                "x": "The declaration sets out the principle that AI should be used within its validated scope, under conditions that allow human oversight, and that final judgment rests with humans. It also recommends governance proportionate to the level of risk, from development through use."
+                "x": "사례관리자는 이 도구에 일상 언어로 물어 차트를 조회하고 환자 병력과 상태 변화 같은 핵심 정보를 빠르게 확인한다. 최근 24시간 안에 생긴 변화도 볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "It also includes principles on preventing data monopolies and market dominance, harmonizing international standards and regulation, supporting the participation of low- and middle-income countries, and managing biosecurity risks. \"This does not mean innovation can proceed without safeguards,\" Director-General Tedros said."
+                "x": "Sentara 최고보건정보책임자 Rollin Reeder, M.D.는 “퇴원 계획을 시작하기도 전에 환자의 이야기를 짜 맞추느라 예전에 얼마나 많은 시간을 썼는지 생각하면 놀랍다”고 돌아봤다."
               },
               {
                 "t": "p",
-                "x": "Minister Jeong said the ministry is in working-level talks with WHO on building a global AI hub, and that it will demonstrate and validate AI technologies before expanding them to low- and middle-income countries."
+                "x": "Sentara는 이 도구를 급성기 진료 전반에 이어 외래 진료까지 넓힐 계획이다. 경영진은 약 90,000시간을 아낄 수 있다고 본다. 정규직 40명 이상, 인건비로 약 $5 million에 해당하는 규모다. Sentara는 버지니아(Virginia)와 노스캐롤라이나 북동부(Northeast North Carolina)에서 병원 12곳과 400곳이 넘는 진료 거점을 운영한다."
+              },
+              {
+                "t": "p",
+                "x": "Regard의 CEO Eli Ben-Joseph는 자사 플랫폼이 찾아내 의사들이 받아들인 진단이 20 million 건을 넘는다며 이를 운영팀으로 넓히는 일은 “자연스러운 다음 단계”라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "保健福祉部・WHOソウル宣言\n医療AIの判断は人間に",
-          "body": "保健福祉部とWHOが、医療者の監督と人間の最終判断を盛り込んだAIソウル宣言を採択した。",
-          "mini_headline": "AIソウル宣言を採択",
+          "headline": "Sentara、ケース管理に\nAIツール導入",
+          "body": "Sentara HealthとRegardのAIでケース管理者がカルテを自然言語で照会する。",
+          "mini_headline": "Sentara、ケース管理AIを導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "保健福祉部と世界保健機関（WHO）は、保健医療分野でのAI活用において医療者の監督と人間の最終判断を保障し、臨床的効果と安全性が検証されたAI技術を広めるための国際共同原則をまとめた。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
-                "cap": "記者会見に出席した鄭銀敬（チョン・ウンギョン）保健福祉部長官（左）とテドロスWHO事務局長（右）。写真＝イ・ジェウォン記者"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
               },
               {
                 "t": "p",
-                "x": "鄭長官とテドロス事務局長は21日、「2026世界バイオサミット」の開会式で「責任あるイノベーションとグローバル連帯のためのAIヘルスケア・ソウル宣言」を共同発表した。保健福祉部とWHO事務局長が保健医療AIに関する共同宣言を出すのは初めてである。"
+                "x": "非営利の医療システムSentara Healthは火曜日、臨床意思決定支援企業Regardと共同開発した新たな人工知能によるケース管理ソリューションを導入した。"
               },
               {
                 "t": "p",
-                "x": "宣言は、AIを検証された使用範囲内で、人間による監督が可能な条件のもとで活用し、最終判断は人間が担うという原則を明記した。開発から活用まで、リスクの程度に応じたガバナンスの導入も勧告した。"
+                "x": "ケース管理者はこのツールで平易な言葉を使ってカルテを照会し、患者の病歴や状態の変化といった重要な情報をすばやく把握できる。直近24時間以内の変化も確認できる。"
               },
               {
                 "t": "p",
-                "x": "データ独占と市場支配の防止、国際標準と規制の調和、中低所得国の参加支援、バイオセキュリティリスク管理の原則も盛り込まれた。テドロス事務局長は「イノベーションが安全装置なしに進められてよいという意味ではない」と述べた。"
+                "x": "Sentaraの最高医療情報責任者Rollin Reeder, M.D.は「退院計画に取りかかる前に、患者の経過をつなぎ合わせるのにかつてどれほどの時間を費やしていたかを考えると、驚くばかりだ」と語った。"
               },
               {
                 "t": "p",
-                "x": "鄭長官は、WHOとグローバルAIハブの構築について実務協議を進めているとし、AI技術を実証・検証したうえで中低所得国へ広げていく考えを示した。"
+                "x": "Sentaraはこのツールを急性期医療全体に広げ、外来医療にも拡大する計画だ。経営陣によれば、約90,000時間を節約でき、これはフルタイム職員40人超、人件費約$5 million 相当に当たるという。Sentaraはバージニア州(Virginia)とノースカロライナ州北東部(Northeast North Carolina)で12の病院と400を超える診療拠点を運営している。"
+              },
+              {
+                "t": "p",
+                "x": "RegardのCEO、Eli Ben-Joseph氏は、同社のプラットフォームが医師に受け入れられた診断を20 million 件以上提示してきたとし、運用チームへの拡大は「自然な次のステップ」だと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "保健福祉部·WHO首尔宣言\n医疗AI由人来最终判断",
-          "body": "保健福祉部与WHO通过AI首尔宣言，明确医疗人员监督与人类最终判断。",
-          "mini_headline": "AI首尔宣言获通过",
+          "headline": "Sentara为个案管理员\n部署AI工具",
+          "body": "Sentara Health与Regard合作开发的AI工具让个案管理员用日常语言查询病历。",
+          "mini_headline": "Sentara推出个案管理AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "保健福祉部与世界卫生组织（WHO）制定了国际共同原则，以在卫生医疗领域使用AI时保障医务人员的监督和人类的最终判断，并推广临床效果与安全性经过验证的AI技术。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
-                "cap": "出席记者会的保健福祉部长官郑银敬（左）与WHO总干事谭德塞（右）。摄影：Lee Jae-won记者"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
               },
               {
                 "t": "p",
-                "x": "郑银敬长官与谭德塞总干事21日在“2026世界生物峰会”开幕式上共同发布了《面向负责任创新与全球团结的AI医疗首尔宣言》。这是保健福祉部与WHO总干事首次就卫生医疗AI发表联合宣言。"
+                "x": "非营利医疗系统Sentara Health于周二部署了与临床决策支持公司Regard共同开发的全新人工智能个案管理解决方案。"
               },
               {
                 "t": "p",
-                "x": "宣言明确，AI应在经过验证的使用范围内、在可由人类监督的条件下使用，最终判断权在人类。宣言还建议从开发到使用全过程引入与风险水平相称的治理。"
+                "x": "个案管理员可以通过该工具用日常语言查询病历，快速获取病史和状态变化等关键信息，还可查看最近24小时内的变化。"
               },
               {
                 "t": "p",
-                "x": "宣言还包含防止数据垄断和市场支配、协调国际标准与监管、支持中低收入国家参与、管理生物安全风险等原则。谭德塞总干事表示：“这并不意味着创新可以在没有安全保障的情况下推进。”"
+                "x": "Sentara首席健康信息官Rollin Reeder, M.D.表示：“想想我们过去在患者甚至还没开始做出院计划之前，要花多少时间拼凑他们的病情经过，真是不可思议。”"
               },
               {
                 "t": "p",
-                "x": "郑长官表示，正与WHO就建设全球AI中心进行工作层面磋商，将在对AI技术进行实证和验证后推广至中低收入国家。"
+                "x": "Sentara计划将该工具推广至整个急症护理领域，并扩展到门诊护理。高管表示，这可节省近90,000小时，相当于超过40名全职员工和近$5 million 的人力成本。Sentara在弗吉尼亚州(Virginia)和北卡罗来纳州东北部(Northeast North Carolina)运营着12家医院和400多个医疗服务点。"
+              },
+              {
+                "t": "p",
+                "x": "Regard CEO Eli Ben-Joseph表示，其平台已提出超过20 million 项获医生认可的诊断，将其扩展至运营团队是“自然而然的下一步”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Declaración de Seúl con la WHO\nAI médica: decide el humano",
-          "body": "El Ministerio de Salud y la WHO adoptaron la Declaración de Seúl de AI con supervisión médica y juicio final humano.",
-          "mini_headline": "Adoptada la Declaración de Seúl sobre AI",
+          "headline": "Sentara implanta una herramienta\nde AI para gestores de casos",
+          "body": "La AI de Sentara Health, creada con Regard, deja a los gestores de casos consultar historiales en lenguaje llano.",
+          "mini_headline": "Sentara lanza AI para gestión de casos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El Ministerio de Salud y Bienestar y la Organización Mundial de la Salud (WHO) establecieron principios internacionales comunes para garantizar la supervisión de los profesionales sanitarios y el juicio final humano en el uso de AI en la atención sanitaria, y para difundir tecnologías de AI con eficacia clínica y seguridad verificadas."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
-                "cap": "La ministra de Salud y Bienestar, Jeong Eun-kyeong (izquierda), y el director general de la WHO, Tedros (derecha), en una rueda de prensa. Foto: Lee Jae-won, periodista"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
               },
               {
                 "t": "p",
-                "x": "La ministra Jeong y el director general Tedros presentaron conjuntamente la 'Declaración de Seúl sobre AI en Salud para la Innovación Responsable y la Solidaridad Global' en la ceremonia de apertura de la 'Cumbre Mundial Bio 2026' el día 21. Es la primera vez que el ministerio y el director general de la WHO emiten una declaración conjunta sobre AI en salud."
+                "x": "El sistema de salud sin ánimo de lucro Sentara Health implantó el martes una nueva solución de gestión de casos con inteligencia artificial, desarrollada junto con Regard, empresa de apoyo a la decisión clínica."
               },
               {
                 "t": "p",
-                "x": "La declaración establece el principio de que la AI se utilice dentro de su ámbito de uso validado y en condiciones que permitan la supervisión humana, y de que el juicio final corresponde a las personas. También recomienda una gobernanza proporcional al nivel de riesgo, desde el desarrollo hasta el uso."
+                "x": "Los gestores de casos pueden usar la herramienta para consultar historias clínicas en lenguaje llano, obtener con rapidez datos clave como los antecedentes del paciente y los cambios de estado, y ver los cambios de las últimas 24 horas."
               },
               {
                 "t": "p",
-                "x": "Incluye además principios sobre la prevención del monopolio de datos y del dominio del mercado, la armonización de estándares y regulaciones internacionales, el apoyo a la participación de países de ingresos bajos y medianos, y la gestión de riesgos de bioseguridad. \"Esto no significa que la innovación pueda avanzar sin salvaguardas\", afirmó el director general Tedros."
+                "x": "“Es increíble pensar en cuánto tiempo dedicábamos a reconstruir la historia de un paciente antes incluso de poder empezar a planificar el alta”, dijo Rollin Reeder, M.D., director de información sanitaria de Sentara."
               },
               {
                 "t": "p",
-                "x": "La ministra Jeong señaló que mantiene conversaciones técnicas con la WHO para crear un centro global de AI y que, tras demostrar y validar las tecnologías de AI, las extenderá a países de ingresos bajos y medianos."
+                "x": "Sentara prevé extender la herramienta a toda la atención de agudos y a la atención ambulatoria. Sus directivos calculan que podría ahorrar cerca de 90,000 horas, equivalentes a más de 40 empleados a tiempo completo y casi $5 millones en costes laborales. Sentara opera 12 hospitales y más de 400 centros asistenciales en Virginia y el noreste de Carolina del Norte (Northeast North Carolina)."
+              },
+              {
+                "t": "p",
+                "x": "El CEO de Regard, Eli Ben-Joseph, dijo que su plataforma ha detectado más de 20 millones de diagnósticos que los médicos aceptaron y que extenderla a los equipos operativos es “el siguiente paso natural”."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "en": {
-          "headline": "Health ministry, WHO in Seoul\nHumans decide on medical AI",
-          "body": "Korea's health ministry and WHO adopted an AI Seoul Declaration on clinician oversight and final human judgment.",
-          "mini_headline": "AI Seoul Declaration adopted",
+        "ko": {
+          "headline": "Sentara, 사례관리용\nAI 도구 도입",
+          "body": "Sentara Health·Regard AI로 사례관리자가 차트를 일상어로 묻는다.",
+          "mini_headline": "Sentara, 사례관리 AI 도입",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "The Ministry of Health and Welfare and the World Health Organization (WHO) have set out joint international principles to guarantee clinician oversight and final human judgment when AI is used in health care, and to spread AI technologies whose clinical effectiveness and safety have been verified."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
-                "cap": "Minister of Health and Welfare Jeong Eun-kyeong (left) and WHO Director-General Tedros (right) at a press briefing. Photo by reporter Lee Jae-won"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
               },
               {
                 "t": "p",
-                "x": "Minister Jeong and Director-General Tedros jointly announced the 'AI Healthcare Seoul Declaration for Responsible Innovation and Global Solidarity' at the opening ceremony of the '2026 World Bio Summit' on the 21st. It is the first joint declaration on health AI issued by the ministry and the WHO Director-General."
+                "x": "비영리 의료 시스템 Sentara Health가 화요일 임상 의사결정 지원 기업 Regard와 함께 개발한 새 인공지능 사례관리 솔루션을 도입했다."
               },
               {
                 "t": "p",
-                "x": "The declaration sets out the principle that AI should be used within its validated scope, under conditions that allow human oversight, and that final judgment rests with humans. It also recommends governance proportionate to the level of risk, from development through use."
+                "x": "사례관리자는 이 도구로 일상 언어를 써서 차트를 조회하고, 환자 병력과 상태 변화 같은 핵심 정보를 빠르게 확인할 수 있다. 최근 24시간 이내의 변화도 볼 수 있다."
               },
               {
                 "t": "p",
-                "x": "It also includes principles on preventing data monopolies and market dominance, harmonizing international standards and regulation, supporting the participation of low- and middle-income countries, and managing biosecurity risks. \"This does not mean innovation can proceed without safeguards,\" Director-General Tedros said."
+                "x": "Sentara의 최고보건정보책임자 Rollin Reeder, M.D.는 “퇴원 계획을 시작하기도 전에 환자의 이야기를 짜 맞추느라 예전에 얼마나 많은 시간을 썼는지 생각하면 놀랍다”고 말했다."
               },
               {
                 "t": "p",
-                "x": "Minister Jeong said the ministry is in working-level talks with WHO on building a global AI hub, and that it will demonstrate and validate AI technologies before expanding them to low- and middle-income countries."
+                "x": "Sentara는 이 도구를 급성기 진료 전반으로 넓히고 외래 진료까지 확대할 계획이다. 경영진은 약 90,000시간을 절약할 수 있다고 본다. 정규직 40명 이상과 인건비 약 $5 million 규모에 해당한다. Sentara는 버지니아(Virginia)와 노스캐롤라이나 북동부(Northeast North Carolina)에서 병원 12곳과 400곳이 넘는 진료 거점을 운영한다."
+              },
+              {
+                "t": "p",
+                "x": "Regard의 CEO Eli Ben-Joseph는 자사 플랫폼이 의사들이 받아들인 진단을 20 million 건 넘게 찾아냈다며, 이를 운영팀으로 넓히는 것은 “자연스러운 다음 단계”라고 말했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "保健福祉部・WHOソウル宣言\n医療AIの判断は人間に",
-          "body": "保健福祉部とWHOが、医療者の監督と人間の最終判断を盛り込んだAIソウル宣言を採択した。",
-          "mini_headline": "AIソウル宣言を採択",
+          "headline": "Sentara、ケース管理に\nAIツール導入",
+          "body": "Sentara HealthとRegardのAIでケース管理者がカルテを自然言語で照会する。",
+          "mini_headline": "Sentara、ケース管理AIを導入",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "保健福祉部と世界保健機関（WHO）は、保健医療分野でのAI活用において医療者の監督と人間の最終判断を保障し、臨床的効果と安全性が検証されたAI技術を広めるための国際共同原則をまとめた。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
-                "cap": "記者会見に出席した鄭銀敬（チョン・ウンギョン）保健福祉部長官（左）とテドロスWHO事務局長（右）。写真＝イ・ジェウォン記者"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
               },
               {
                 "t": "p",
-                "x": "鄭長官とテドロス事務局長は21日、「2026世界バイオサミット」の開会式で「責任あるイノベーションとグローバル連帯のためのAIヘルスケア・ソウル宣言」を共同発表した。保健福祉部とWHO事務局長が保健医療AIに関する共同宣言を出すのは初めてである。"
+                "x": "非営利の医療システムSentara Healthは火曜日、臨床意思決定支援企業Regardと共同開発した新たな人工知能によるケース管理ソリューションを導入した。"
               },
               {
                 "t": "p",
-                "x": "宣言は、AIを検証された使用範囲内で、人間による監督が可能な条件のもとで活用し、最終判断は人間が担うという原則を明記した。開発から活用まで、リスクの程度に応じたガバナンスの導入も勧告した。"
+                "x": "ケース管理者はこのツールで平易な言葉を使ってカルテを照会し、患者の病歴や状態の変化といった重要な情報をすばやく把握できる。直近24時間以内の変化も確認できる。"
               },
               {
                 "t": "p",
-                "x": "データ独占と市場支配の防止、国際標準と規制の調和、中低所得国の参加支援、バイオセキュリティリスク管理の原則も盛り込まれた。テドロス事務局長は「イノベーションが安全装置なしに進められてよいという意味ではない」と述べた。"
+                "x": "Sentaraの最高医療情報責任者Rollin Reeder, M.D.は「退院計画に取りかかる前に、患者の経過をつなぎ合わせるのにかつてどれほどの時間を費やしていたかを考えると、驚くばかりだ」と語った。"
               },
               {
                 "t": "p",
-                "x": "鄭長官は、WHOとグローバルAIハブの構築について実務協議を進めているとし、AI技術を実証・検証したうえで中低所得国へ広げていく考えを示した。"
+                "x": "Sentaraはこのツールを急性期医療全体に広げ、外来医療にも拡大する計画だ。経営陣によれば、約90,000時間を節約でき、これはフルタイム職員40人超、人件費約$5 million 相当に当たるという。Sentaraはバージニア州(Virginia)とノースカロライナ州北東部(Northeast North Carolina)で12の病院と400を超える診療拠点を運営している。"
+              },
+              {
+                "t": "p",
+                "x": "RegardのCEO、Eli Ben-Joseph氏は、同社のプラットフォームが医師に受け入れられた診断を20 million 件以上提示してきたとし、運用チームへの拡大は「自然な次のステップ」だと述べた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "保健福祉部·WHO首尔宣言\n医疗AI由人来最终判断",
-          "body": "保健福祉部与WHO通过AI首尔宣言，明确医疗人员监督与人类最终判断。",
-          "mini_headline": "AI首尔宣言获通过",
+          "headline": "Sentara为个案管理员\n部署AI工具",
+          "body": "Sentara Health与Regard合作开发的AI工具让个案管理员用日常语言查询病历。",
+          "mini_headline": "Sentara推出个案管理AI",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "保健福祉部与世界卫生组织（WHO）制定了国际共同原则，以在卫生医疗领域使用AI时保障医务人员的监督和人类的最终判断，并推广临床效果与安全性经过验证的AI技术。"
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
-                "cap": "出席记者会的保健福祉部长官郑银敬（左）与WHO总干事谭德塞（右）。摄影：Lee Jae-won记者"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
               },
               {
                 "t": "p",
-                "x": "郑银敬长官与谭德塞总干事21日在“2026世界生物峰会”开幕式上共同发布了《面向负责任创新与全球团结的AI医疗首尔宣言》。这是保健福祉部与WHO总干事首次就卫生医疗AI发表联合宣言。"
+                "x": "非营利医疗系统Sentara Health于周二部署了与临床决策支持公司Regard共同开发的全新人工智能个案管理解决方案。"
               },
               {
                 "t": "p",
-                "x": "宣言明确，AI应在经过验证的使用范围内、在可由人类监督的条件下使用，最终判断权在人类。宣言还建议从开发到使用全过程引入与风险水平相称的治理。"
+                "x": "个案管理员可以通过该工具用日常语言查询病历，快速获取病史和状态变化等关键信息，还可查看最近24小时内的变化。"
               },
               {
                 "t": "p",
-                "x": "宣言还包含防止数据垄断和市场支配、协调国际标准与监管、支持中低收入国家参与、管理生物安全风险等原则。谭德塞总干事表示：“这并不意味着创新可以在没有安全保障的情况下推进。”"
+                "x": "Sentara首席健康信息官Rollin Reeder, M.D.表示：“想想我们过去在患者甚至还没开始做出院计划之前，要花多少时间拼凑他们的病情经过，真是不可思议。”"
               },
               {
                 "t": "p",
-                "x": "郑长官表示，正与WHO就建设全球AI中心进行工作层面磋商，将在对AI技术进行实证和验证后推广至中低收入国家。"
+                "x": "Sentara计划将该工具推广至整个急症护理领域，并扩展到门诊护理。高管表示，这可节省近90,000小时，相当于超过40名全职员工和近$5 million 的人力成本。Sentara在弗吉尼亚州(Virginia)和北卡罗来纳州东北部(Northeast North Carolina)运营着12家医院和400多个医疗服务点。"
+              },
+              {
+                "t": "p",
+                "x": "Regard CEO Eli Ben-Joseph表示，其平台已提出超过20 million 项获医生认可的诊断，将其扩展至运营团队是“自然而然的下一步”。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Declaración de Seúl con la WHO\nAI médica: decide el humano",
-          "body": "El Ministerio de Salud y la WHO adoptaron la Declaración de Seúl de AI con supervisión médica y juicio final humano.",
-          "mini_headline": "Adoptada la Declaración de Seúl sobre AI",
+          "headline": "Sentara implanta una herramienta\nde AI para gestores de casos",
+          "body": "La AI de Sentara Health, creada con Regard, deja a los gestores de casos consultar historiales en lenguaje llano.",
+          "mini_headline": "Sentara lanza AI para gestión de casos",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "El Ministerio de Salud y Bienestar y la Organización Mundial de la Salud (WHO) establecieron principios internacionales comunes para garantizar la supervisión de los profesionales sanitarios y el juicio final humano en el uso de AI en la atención sanitaria, y para difundir tecnologías de AI con eficacia clínica y seguridad verificadas."
-              },
-              {
                 "t": "img",
-                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014484_415406_5313.jpg",
-                "cap": "La ministra de Salud y Bienestar, Jeong Eun-kyeong (izquierda), y el director general de la WHO, Tedros (derecha), en una rueda de prensa. Foto: Lee Jae-won, periodista"
+                "src": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1489370843.jpg?VersionId=TgJt3wnG4D8o0Y1CLBmihDbxRdigvp0."
               },
               {
                 "t": "p",
-                "x": "La ministra Jeong y el director general Tedros presentaron conjuntamente la 'Declaración de Seúl sobre AI en Salud para la Innovación Responsable y la Solidaridad Global' en la ceremonia de apertura de la 'Cumbre Mundial Bio 2026' el día 21. Es la primera vez que el ministerio y el director general de la WHO emiten una declaración conjunta sobre AI en salud."
+                "x": "El sistema de salud sin ánimo de lucro Sentara Health implantó el martes una nueva solución de gestión de casos con inteligencia artificial, desarrollada junto con Regard, empresa de apoyo a la decisión clínica."
               },
               {
                 "t": "p",
-                "x": "La declaración establece el principio de que la AI se utilice dentro de su ámbito de uso validado y en condiciones que permitan la supervisión humana, y de que el juicio final corresponde a las personas. También recomienda una gobernanza proporcional al nivel de riesgo, desde el desarrollo hasta el uso."
+                "x": "Los gestores de casos pueden usar la herramienta para consultar historias clínicas en lenguaje llano, obtener con rapidez datos clave como los antecedentes del paciente y los cambios de estado, y ver los cambios de las últimas 24 horas."
               },
               {
                 "t": "p",
-                "x": "Incluye además principios sobre la prevención del monopolio de datos y del dominio del mercado, la armonización de estándares y regulaciones internacionales, el apoyo a la participación de países de ingresos bajos y medianos, y la gestión de riesgos de bioseguridad. \"Esto no significa que la innovación pueda avanzar sin salvaguardas\", afirmó el director general Tedros."
+                "x": "“Es increíble pensar en cuánto tiempo dedicábamos a reconstruir la historia de un paciente antes incluso de poder empezar a planificar el alta”, dijo Rollin Reeder, M.D., director de información sanitaria de Sentara."
               },
               {
                 "t": "p",
-                "x": "La ministra Jeong señaló que mantiene conversaciones técnicas con la WHO para crear un centro global de AI y que, tras demostrar y validar las tecnologías de AI, las extenderá a países de ingresos bajos y medianos."
+                "x": "Sentara prevé extender la herramienta a toda la atención de agudos y a la atención ambulatoria. Sus directivos calculan que podría ahorrar cerca de 90,000 horas, equivalentes a más de 40 empleados a tiempo completo y casi $5 millones en costes laborales. Sentara opera 12 hospitales y más de 400 centros asistenciales en Virginia y el noreste de Carolina del Norte (Northeast North Carolina)."
+              },
+              {
+                "t": "p",
+                "x": "El CEO de Regard, Eli Ben-Joseph, dijo que su plataforma ha detectado más de 20 millones de diagnósticos que los médicos aceptaron y que extenderla a los equipos operativos es “el siguiente paso natural”."
               }
             ]
           }
@@ -687,271 +707,351 @@
       }
     },
     {
-      "id": "medicine-cbct-lung-biopsy",
-      "source_lang": "en",
+      "id": "medicine-coreline-neck-ct-lung-cancer",
+      "source_lang": "ko",
       "eyebrow": "AI NEWS",
-      "headline": "생성형 AI 내비게이션\n폐 생검 RCT로 검증",
-      "body": "다기관 RCT에서 GPS-Lung은 기흉을 23.9%에서 12.7%로 낮췄다.",
-      "mini_headline": "폐 생검용 AI 내비게이션",
+      "headline": "목 CT서 놓친 폐암\n절반 AI가 찾았다",
+      "body": "AI가 목 CT 판독에서 놓친 폐암 80건 중 41건을 찾아냈다.",
+      "mini_headline": "놓친 폐암 절반, AI가 찾다",
       "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03355-1",
-      "accent": "#f5a623",
+      "source": "의학신문",
+      "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014596",
+      "accent": "#7928ca",
       "motif": "sphere",
       "full": {
         "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "폐 천자 생검은 폐 결절 진단의 표준이다. 하지만 CBCT 영상의 화질이 낮고 유도 지능도 제한적이라 시술이 더디다. 작고 복잡한 병변이면 더 그렇다."
+            "t": "img",
+            "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
           },
           {
             "t": "p",
-            "x": "Huazhong University of Science and Technology가 이끄는 연구진이 생성형 AI 기반 천자 수술 내비게이션 시스템 GPS-Lung(Generative AI-Powered Puncture Surgery Navigation System)을 개발하고 다기관 무작위 대조 시험(NCT06762613)으로 검증했다."
+            "x": "특정 질환 확인을 위해 찍은 CT에서 검사 목적 외의 숨은 중증 질환까지 찾아내는 ‘기회검진(Opportunistic Screening)’이 의료 AI 업계의 핵심 화두로 떠오르고 있다."
           },
           {
             "t": "p",
-            "x": "GPS-Lung을 쓰자 천자 횟수가 줄었다(2.0 ± 1.2 vs. 2.5 ± 1.7, P = 0.005). 수술 시간은 23.2 ± 6.3분에서 20.4 ± 5.6분으로(P = 0.001), 방사선 노출량은 5570.9에서 4357.4 μGy·m²로 내려갔다(P = 0.033)."
+            "x": "코어라인소프트의 흉부 CT 폐결절 분석 솔루션 ‘AVIEW LCS’로 목 CT 판독에서 간과하기 쉬운 초기 폐암 병변을 검출한 임상 연구가 국제학술지 ‘Korean Journal of Radiology’ 최신호에 게재됐다. 목 CT는 촬영 범위 하단에 폐첨부가 일부 포함되지만, 판독의의 시선이 목 주변에 집중돼 가장자리의 작은 폐 병변이 누락되는 경우가 적지 않았다."
           },
           {
             "t": "p",
-            "x": "기흉 합병증도 23.9%에서 12.7%로 줄었다(P = 0.033). 연구진은 이 시스템 덕분에 시술이 더 표준화되고 효율적이 됐다고 밝혔다."
+            "x": "국내 상급종합병원 연구진이 2008~2024년 목 CT를 촬영한 성인 8만 1794명을 후향적으로 추적한 결과, 추후 폐암 확진 환자 중 과거 목 CT에 이미 병변이 찍혀 있던 사례가 123건이었다. 이 중 65.0%인 80명의 판독 기록에는 폐 병변 소견이 전혀 없었다. 누락군은 최종 확진까지 중앙값 27.5개월이 걸렸고, T·N·M 중 하나 이상이 악화된 비율도 47.5%로 즉시 발견군(11.6%)보다 4배 이상 높았다."
+          },
+          {
+            "t": "p",
+            "x": "연구팀이 누락 사례 80건에 AVIEW LCS를 적용하자, 흉부 전용 알고리즘을 목 CT에 맞춰 재학습하지 않았는데도 80건 중 41건(민감도 51.3%)을 짚어냈다. 위양성률·특이도 등 추가 검증 과제는 남아 있지만, 특정 부위용 AI가 다른 부위 영상에서도 보완적 안전망이 될 수 있다는 탐색적 근거를 마련했다는 평가다."
+          },
+          {
+            "t": "p",
+            "x": "코어라인소프트는 한 번의 흉부 CT로 폐결절, COPD·폐기종, 관상동맥석회화를 동시에 분석하는 ‘One CT, Multi-Disease’ 전략을 내세우고 있으며, 2026년 상반기 매출은 전년 동기 대비 45.7%, 해외 매출은 123.0% 늘었다."
           }
         ]
       },
       "text": {
-        "en": {
-          "headline": "Generative AI navigation\ntested in lung biopsy RCT",
-          "body": "In a multicenter RCT, GPS-Lung AI navigation cut operative time and lowered pneumothorax to 12.7% from 23.9%.",
-          "mini_headline": "AI navigation for lung biopsy",
+        "ko": {
+          "headline": "목 CT서 놓친 폐암\n절반 AI가 찾았다",
+          "body": "AI가 목 CT 판독에서 놓친 폐암 80건 중 41건을 찾아냈다.",
+          "mini_headline": "놓친 폐암 절반, AI가 찾다",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Lung puncture biopsy is the gold standard for diagnosing lung nodules, but poor CBCT image quality and limited guidance intelligence slow procedures, particularly for small and complex lesions."
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
               },
               {
                 "t": "p",
-                "x": "Researchers led by Huazhong University of Science and Technology built GPS-Lung, a Generative AI-Powered Puncture Surgery Navigation System, and tested it in a multicenter randomized controlled trial (NCT06762613)."
+                "x": "특정 질환 확인을 위해 찍은 CT에서 검사 목적 외의 숨은 중증 질환까지 찾아내는 ‘기회검진(Opportunistic Screening)’이 의료 AI 업계의 핵심 화두로 떠오르고 있다."
               },
               {
                 "t": "p",
-                "x": "With GPS-Lung, surgeons needed fewer punctures (2.0 ± 1.2 vs. 2.5 ± 1.7, P = 0.005), operative time fell from 23.2 ± 6.3 to 20.4 ± 5.6 minutes (P = 0.001), and radiation exposure dropped from 5570.9 to 4357.4 μGy·m² (P = 0.033)."
+                "x": "코어라인소프트의 흉부 CT 폐결절 분석 솔루션 ‘AVIEW LCS’로 목 CT 판독에서 간과하기 쉬운 초기 폐암 병변을 검출한 임상 연구가 국제학술지 ‘Korean Journal of Radiology’ 최신호에 게재됐다. 목 CT는 촬영 범위 하단에 폐첨부가 일부 포함되지만, 판독의의 시선이 목 주변에 집중돼 가장자리의 작은 폐 병변이 누락되는 경우가 적지 않았다."
               },
               {
                 "t": "p",
-                "x": "Pneumothorax complications fell from 23.9% to 12.7% (P = 0.033). The authors say the system made the procedure more standardized and efficient."
+                "x": "국내 상급종합병원 연구진이 2008~2024년 목 CT를 촬영한 성인 8만 1794명을 후향적으로 추적한 결과, 추후 폐암 확진 환자 중 과거 목 CT에 이미 병변이 찍혀 있던 사례가 123건이었다. 이 중 65.0%인 80명의 판독 기록에는 폐 병변 소견이 전혀 없었다. 누락군은 최종 확진까지 중앙값 27.5개월이 걸렸고, T·N·M 중 하나 이상이 악화된 비율도 47.5%로 즉시 발견군(11.6%)보다 4배 이상 높았다."
+              },
+              {
+                "t": "p",
+                "x": "연구팀이 누락 사례 80건에 AVIEW LCS를 적용하자, 흉부 전용 알고리즘을 목 CT에 맞춰 재학습하지 않았는데도 80건 중 41건(민감도 51.3%)을 짚어냈다. 위양성률·특이도 등 추가 검증 과제는 남아 있지만, 특정 부위용 AI가 다른 부위 영상에서도 보완적 안전망이 될 수 있다는 탐색적 근거를 마련했다는 평가다."
+              },
+              {
+                "t": "p",
+                "x": "코어라인소프트는 한 번의 흉부 CT로 폐결절, COPD·폐기종, 관상동맥석회화를 동시에 분석하는 ‘One CT, Multi-Disease’ 전략을 내세우고 있으며, 2026년 상반기 매출은 전년 동기 대비 45.7%, 해외 매출은 123.0% 늘었다."
               }
             ]
           }
         },
-        "ko": {
-          "headline": "생성형 AI 내비게이션\n폐 생검 RCT로 검증",
-          "body": "다기관 RCT에서 GPS-Lung은 기흉을 23.9%에서 12.7%로 낮췄다.",
-          "mini_headline": "폐 생검용 AI 내비게이션",
+        "en": {
+          "headline": "AI caught half the lung cancers\nmissed on neck CT",
+          "body": "AI flagged 41 of 80 lung cancers that had been missed in neck CT readings.",
+          "mini_headline": "AI finds half of missed lung cancers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "폐 천자 생검은 폐 결절 진단의 표준이다. 하지만 CBCT 영상의 화질이 낮고 유도 지능도 제한적이라 시술이 더디다. 작고 복잡한 병변이면 더 그렇다."
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
               },
               {
                 "t": "p",
-                "x": "Huazhong University of Science and Technology가 이끄는 연구진이 생성형 AI 기반 천자 수술 내비게이션 시스템 GPS-Lung(Generative AI-Powered Puncture Surgery Navigation System)을 개발하고 다기관 무작위 대조 시험(NCT06762613)으로 검증했다."
+                "x": "‘Opportunistic Screening,’ which uses a CT taken to check for a specific condition to also find hidden serious diseases beyond the purpose of the exam, is emerging as a key topic in the medical AI industry."
               },
               {
                 "t": "p",
-                "x": "GPS-Lung을 쓰자 천자 횟수가 줄었다(2.0 ± 1.2 vs. 2.5 ± 1.7, P = 0.005). 수술 시간은 23.2 ± 6.3분에서 20.4 ± 5.6분으로(P = 0.001), 방사선 노출량은 5570.9에서 4357.4 μGy·m²로 내려갔다(P = 0.033)."
+                "x": "A clinical study that used Coreline Soft's chest CT lung nodule analysis solution ‘AVIEW LCS’ to detect early lung cancer lesions that are easily overlooked in neck CT readings was published in the latest issue of the international journal ‘Korean Journal of Radiology.’ Neck CT includes part of the lung apex at the bottom of the scan range, but because readers focus on the neck area, small lung lesions at the edges were often missed."
               },
               {
                 "t": "p",
-                "x": "기흉 합병증도 23.9%에서 12.7%로 줄었다(P = 0.033). 연구진은 이 시스템 덕분에 시술이 더 표준화되고 효율적이 됐다고 밝혔다."
+                "x": "Researchers at a Korean tertiary hospital retrospectively followed 81,794 adults who had neck CT scans in 2008~2024 and found 123 cases among patients later diagnosed with lung cancer in which the lesion had already appeared on an earlier neck CT. In 80 of them, or 65.0%, the reading report noted no lung lesion at all. The missed group took a median of 27.5 months to final diagnosis, and the share with worsening in any of T·N·M was 47.5%, more than 4 times that of the group detected immediately (11.6%)."
+              },
+              {
+                "t": "p",
+                "x": "When the team applied AVIEW LCS to the 80 missed cases, it flagged 41 of the 80 (sensitivity 51.3%) even though the chest-only algorithm was not retrained for neck CT. Further validation, such as false-positive rate and specificity, remains, but the study is seen as providing exploratory evidence that AI built for a specific body region can serve as a complementary safety net on images of other regions."
+              },
+              {
+                "t": "p",
+                "x": "Coreline Soft is pursuing a ‘One CT, Multi-Disease’ strategy that analyzes lung nodules, COPD and emphysema, and coronary artery calcification at once from a single chest CT. Its revenue in the first half of 2026 rose 45.7% year on year, and overseas revenue rose 123.0%."
               }
             ]
           }
         },
         "ja": {
-          "headline": "生成AIナビゲーション\n肺生検のRCTで検証",
-          "body": "多施設RCTでGPS-Lungは気胸を23.9%から12.7%に減らした。",
-          "mini_headline": "肺生検向けAIナビゲーション",
+          "headline": "首のCTで見逃した肺がん\n半分をAIが発見",
+          "body": "AIが首のCT読影で見逃された肺がん80件のうち41件を見つけ出した。",
+          "mini_headline": "見逃し肺がんの半分、AIが発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "肺穿刺生検は肺結節診断のゴールドスタンダードだが、CBCT画像の画質の低さと誘導の知能化の不足が手技を遅らせており、特に小さく複雑な病変で顕著である。"
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
               },
               {
                 "t": "p",
-                "x": "Huazhong University of Science and Technologyが率いる研究チームは、生成AIを用いた穿刺手術ナビゲーションシステムGPS-Lung（Generative AI-Powered Puncture Surgery Navigation System）を開発し、多施設ランダム化比較試験（NCT06762613）で検証した。"
+                "x": "特定の疾患を確認するために撮影したCTから、検査目的以外の隠れた重症疾患まで見つけ出す「機会検診(Opportunistic Screening)」が、医療AI業界の中心的な話題に浮上している。"
               },
               {
                 "t": "p",
-                "x": "GPS-Lungを使うと穿刺回数が減り（2.0 ± 1.2 vs. 2.5 ± 1.7、P = 0.005）、手術時間は23.2 ± 6.3分から20.4 ± 5.6分に短縮し（P = 0.001）、放射線被曝量は5570.9から4357.4 μGy·m²に減少した（P = 0.033）。"
+                "x": "Coreline Softの胸部CT肺結節解析ソリューション「AVIEW LCS」を用い、首のCT読影で見落とされやすい初期肺がん病変を検出した臨床研究が、国際学術誌『Korean Journal of Radiology』の最新号に掲載された。首のCTは撮影範囲の下端に肺尖部が部分的に含まれるが、読影医の視線が首の周辺に集中するため、端にある小さな肺病変が見落とされることが少なくなかった。"
               },
               {
                 "t": "p",
-                "x": "気胸の合併症は23.9%から12.7%に減少した（P = 0.033）。著者らは、このシステムにより手技がより標準化され効率的になったとしている。"
+                "x": "韓国の上級総合病院の研究チームが2008〜2024年に首のCTを撮影した成人8万1794人を後ろ向きに追跡した結果、後に肺がんと確定診断された患者のうち、過去の首のCTにすでに病変が写っていた例が123件あった。このうち65.0%にあたる80人の読影記録には、肺病変の所見がまったくなかった。見落とし群は確定診断まで中央値27.5カ月を要し、T·N·Mのいずれかが悪化した割合も47.5%と、即時発見群(11.6%)の4倍以上だった。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームが見落とし例80件にAVIEW LCSを適用したところ、胸部専用のアルゴリズムを首のCT向けに再学習させていないにもかかわらず、80件中41件(感度51.3%)を指摘した。偽陽性率や特異度など追加検証の課題は残るものの、特定部位向けのAIが他部位の画像でも補完的なセーフティネットになり得ることを示す探索的な根拠を得たと評価されている。"
+              },
+              {
+                "t": "p",
+                "x": "Coreline Softは胸部CTだけで肺結節、COPD・肺気腫、冠動脈石灰化を同時に解析する「One CT, Multi-Disease」戦略を掲げており、2026年上半期の売上高は前年同期比45.7%増、海外売上高は123.0%増となった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "生成式AI导航\n在肺活检RCT中受检验",
-          "body": "多中心RCT中，GPS-Lung缩短手术时间，并将气胸率从23.9%降至12.7%。",
-          "mini_headline": "AI导航用于肺穿刺活检",
+          "headline": "颈部CT漏诊的肺癌\nAI找出一半",
+          "body": "AI从颈部CT判读中被漏诊的80例肺癌里成功找出了41例。",
+          "mini_headline": "漏诊肺癌一半由AI找出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "肺穿刺活检是诊断肺结节的金标准，但CBCT图像质量欠佳、引导智能化不足拖慢了操作，在小而复杂的病灶上尤为明显。"
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
               },
               {
                 "t": "p",
-                "x": "由Huazhong University of Science and Technology牵头的研究团队开发了生成式AI驱动的穿刺手术导航系统GPS-Lung（Generative AI-Powered Puncture Surgery Navigation System），并在多中心随机对照试验（NCT06762613）中进行了测试。"
+                "x": "利用为确认特定疾病而拍摄的CT，进而发现检查目的之外的隐匿重症疾病的“机会性筛查(Opportunistic Screening)”，正成为医疗AI行业的核心议题。"
               },
               {
                 "t": "p",
-                "x": "使用GPS-Lung后，穿刺次数减少（2.0 ± 1.2 vs. 2.5 ± 1.7，P = 0.005），手术时间从23.2 ± 6.3分钟缩短至20.4 ± 5.6分钟（P = 0.001），辐射暴露从5570.9降至4357.4 μGy·m²（P = 0.033）。"
+                "x": "利用Coreline Soft的胸部CT肺结节分析解决方案“AVIEW LCS”，在颈部CT判读中检出易被忽视的早期肺癌病变的临床研究，发表于国际学术期刊《Korean Journal of Radiology》最新刊。颈部CT的扫描范围下端会包含部分肺尖，但阅片医生的视线集中在颈部周围，边缘的小肺部病变常被遗漏。"
               },
               {
                 "t": "p",
-                "x": "气胸并发症从23.9%降至12.7%（P = 0.033）。作者表示，该系统使操作更加规范、高效。"
+                "x": "韩国某上级综合医院研究团队对2008~2024年间接受颈部CT检查的8万1794名成年人进行回顾性追踪，发现在后来确诊肺癌的患者中，既往颈部CT上已拍到病变的病例有123例。其中65.0%即80人的判读记录中完全没有肺部病变的描述。漏诊组到最终确诊的中位时间为27.5个月，T·N·M中有任何指标恶化的比例为47.5%，是即时发现组(11.6%)的4倍以上。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队将AVIEW LCS应用于80例漏诊病例，尽管该胸部专用算法并未针对颈部CT重新训练，仍检出了80例中的41例(灵敏度51.3%)。虽然假阳性率、特异度等仍有待进一步验证，但业界认为，这项研究为特定部位用AI可在其他部位影像中充当补充安全网提供了探索性依据。"
+              },
+              {
+                "t": "p",
+                "x": "Coreline Soft提出用单次胸部CT同时分析肺结节、COPD·肺气肿和冠状动脉钙化的“One CT, Multi-Disease”战略，2026年上半年营收同比增长45.7%，海外营收增长123.0%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Navegación con AI generativa\nen biopsia pulmonar: un RCT",
-          "body": "En un RCT multicéntrico, la navegación con AI GPS-Lung acortó la cirugía y bajó el neumotórax del 23.9% al 12.7%.",
-          "mini_headline": "Navegación con AI para biopsia pulmonar",
+          "headline": "Cáncer de pulmón omitido en CT\nde cuello: la AI halló la mitad",
+          "body": "Una AI detectó 41 de 80 cánceres de pulmón que se habían pasado por alto al leer CT de cuello.",
+          "mini_headline": "La AI halla la mitad del cáncer omitido",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La biopsia por punción pulmonar es el estándar de referencia para diagnosticar nódulos pulmonares, pero la baja calidad de imagen de la CBCT y la limitada inteligencia de guiado ralentizan los procedimientos, sobre todo en lesiones pequeñas y complejas."
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
               },
               {
                 "t": "p",
-                "x": "Investigadores liderados por la Huazhong University of Science and Technology crearon GPS-Lung, un Generative AI-Powered Puncture Surgery Navigation System, y lo probaron en un ensayo controlado aleatorizado multicéntrico (NCT06762613)."
+                "x": "El ‘cribado oportunista (Opportunistic Screening)’, que aprovecha una CT tomada para comprobar una enfermedad concreta para detectar también enfermedades graves ocultas ajenas al objetivo del examen, se perfila como un tema central en el sector de la AI médica."
               },
               {
                 "t": "p",
-                "x": "Con GPS-Lung, los cirujanos necesitaron menos punciones (2.0 ± 1.2 vs. 2.5 ± 1.7, P = 0.005), el tiempo operatorio bajó de 23.2 ± 6.3 a 20.4 ± 5.6 minutos (P = 0.001) y la exposición a radiación cayó de 5570.9 a 4357.4 μGy·m² (P = 0.033)."
+                "x": "Un estudio clínico que usó ‘AVIEW LCS’, la solución de Coreline Soft para analizar nódulos pulmonares en CT de tórax, para detectar lesiones tempranas de cáncer de pulmón que suelen pasarse por alto en la lectura de CT de cuello se publicó en el último número de la revista internacional ‘Korean Journal of Radiology’. La CT de cuello incluye parte del vértice pulmonar en el extremo inferior del rango de exploración, pero como la mirada del radiólogo se concentra en la zona del cuello, no era raro que se pasaran por alto pequeñas lesiones pulmonares en los bordes."
               },
               {
                 "t": "p",
-                "x": "Las complicaciones por neumotórax bajaron del 23.9% al 12.7% (P = 0.033). Los autores afirman que el sistema hizo el procedimiento más estandarizado y eficiente."
+                "x": "Un equipo de un hospital terciario de Corea siguió de forma retrospectiva a 81,794 adultos que se hicieron una CT de cuello en 2008~2024 y halló que, entre los pacientes diagnosticados después de cáncer de pulmón, en 123 casos la lesión ya aparecía en una CT de cuello anterior. En 80 de ellos, el 65.0%, el informe de lectura no recogía ningún hallazgo pulmonar. El grupo omitido tardó una mediana de 27.5 meses hasta el diagnóstico definitivo, y la proporción con empeoramiento en alguno de T·N·M fue del 47.5%, más de 4 veces la del grupo detectado de inmediato (11.6%)."
+              },
+              {
+                "t": "p",
+                "x": "Cuando el equipo aplicó AVIEW LCS a los 80 casos omitidos, detectó 41 de los 80 (sensibilidad del 51.3%), pese a que el algoritmo, exclusivo para tórax, no se reentrenó para la CT de cuello. Aunque quedan pendientes más validaciones, como la tasa de falsos positivos y la especificidad, se considera que el estudio aporta evidencia exploratoria de que una AI diseñada para una región concreta puede servir de red de seguridad complementaria en imágenes de otras regiones."
+              },
+              {
+                "t": "p",
+                "x": "Coreline Soft impulsa la estrategia ‘One CT, Multi-Disease’, que analiza a la vez nódulos pulmonares, COPD y enfisema, y calcificación coronaria con una sola CT de tórax. En el primer semestre de 2026, sus ventas crecieron un 45.7% interanual y las ventas en el extranjero, un 123.0%."
               }
             ]
           }
         }
       },
       "_i18n_passed": {
-        "ko": {
-          "headline": "생성형 AI 내비게이션\n폐 생검 RCT로 검증",
-          "body": "다기관 RCT에서 GPS-Lung은 기흉을 23.9%에서 12.7%로 낮췄다.",
-          "mini_headline": "폐 생검용 AI 내비게이션",
+        "en": {
+          "headline": "AI caught half the lung cancers\nmissed on neck CT",
+          "body": "AI flagged 41 of 80 lung cancers that had been missed in neck CT readings.",
+          "mini_headline": "AI finds half of missed lung cancers",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "폐 천자 생검은 폐 결절 진단의 표준이지만, CBCT 영상의 낮은 화질과 제한적인 유도 지능 탓에 시술이 더디고, 작고 복잡한 병변에서 특히 그렇다."
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
               },
               {
                 "t": "p",
-                "x": "Huazhong University of Science and Technology가 이끄는 연구진은 생성형 AI 기반 천자 수술 내비게이션 시스템 GPS-Lung(Generative AI-Powered Puncture Surgery Navigation System)을 개발해 다기관 무작위 대조 시험(NCT06762613)으로 검증했다."
+                "x": "‘Opportunistic Screening,’ which uses a CT taken to check for a specific condition to also find hidden serious diseases beyond the purpose of the exam, is emerging as a key topic in the medical AI industry."
               },
               {
                 "t": "p",
-                "x": "GPS-Lung을 쓰자 천자 횟수가 줄었고(2.0 ± 1.2 vs. 2.5 ± 1.7, P = 0.005), 수술 시간은 23.2 ± 6.3분에서 20.4 ± 5.6분으로 줄었으며(P = 0.001), 방사선 노출량은 5570.9에서 4357.4 μGy·m²로 감소했다(P = 0.033)."
+                "x": "A clinical study that used Coreline Soft's chest CT lung nodule analysis solution ‘AVIEW LCS’ to detect early lung cancer lesions that are easily overlooked in neck CT readings was published in the latest issue of the international journal ‘Korean Journal of Radiology.’ Neck CT includes part of the lung apex at the bottom of the scan range, but because readers focus on the neck area, small lung lesions at the edges were often missed."
               },
               {
                 "t": "p",
-                "x": "기흉 합병증은 23.9%에서 12.7%로 줄었다(P = 0.033). 연구진은 이 시스템이 시술을 더 표준화하고 효율적으로 만들었다고 밝혔다."
+                "x": "Researchers at a Korean tertiary hospital retrospectively followed 81,794 adults who had neck CT scans in 2008~2024 and found 123 cases among patients later diagnosed with lung cancer in which the lesion had already appeared on an earlier neck CT. In 80 of them, or 65.0%, the reading report noted no lung lesion at all. The missed group took a median of 27.5 months to final diagnosis, and the share with worsening in any of T·N·M was 47.5%, more than 4 times that of the group detected immediately (11.6%)."
+              },
+              {
+                "t": "p",
+                "x": "When the team applied AVIEW LCS to the 80 missed cases, it flagged 41 of the 80 (sensitivity 51.3%) even though the chest-only algorithm was not retrained for neck CT. Further validation, such as false-positive rate and specificity, remains, but the study is seen as providing exploratory evidence that AI built for a specific body region can serve as a complementary safety net on images of other regions."
+              },
+              {
+                "t": "p",
+                "x": "Coreline Soft is pursuing a ‘One CT, Multi-Disease’ strategy that analyzes lung nodules, COPD and emphysema, and coronary artery calcification at once from a single chest CT. Its revenue in the first half of 2026 rose 45.7% year on year, and overseas revenue rose 123.0%."
               }
             ]
           }
         },
         "ja": {
-          "headline": "生成AIナビゲーション\n肺生検のRCTで検証",
-          "body": "多施設RCTでGPS-Lungは気胸を23.9%から12.7%に減らした。",
-          "mini_headline": "肺生検向けAIナビゲーション",
+          "headline": "首のCTで見逃した肺がん\n半分をAIが発見",
+          "body": "AIが首のCT読影で見逃された肺がん80件のうち41件を見つけ出した。",
+          "mini_headline": "見逃し肺がんの半分、AIが発見",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "肺穿刺生検は肺結節診断のゴールドスタンダードだが、CBCT画像の画質の低さと誘導の知能化の不足が手技を遅らせており、特に小さく複雑な病変で顕著である。"
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
               },
               {
                 "t": "p",
-                "x": "Huazhong University of Science and Technologyが率いる研究チームは、生成AIを用いた穿刺手術ナビゲーションシステムGPS-Lung（Generative AI-Powered Puncture Surgery Navigation System）を開発し、多施設ランダム化比較試験（NCT06762613）で検証した。"
+                "x": "特定の疾患を確認するために撮影したCTから、検査目的以外の隠れた重症疾患まで見つけ出す「機会検診(Opportunistic Screening)」が、医療AI業界の中心的な話題に浮上している。"
               },
               {
                 "t": "p",
-                "x": "GPS-Lungを使うと穿刺回数が減り（2.0 ± 1.2 vs. 2.5 ± 1.7、P = 0.005）、手術時間は23.2 ± 6.3分から20.4 ± 5.6分に短縮し（P = 0.001）、放射線被曝量は5570.9から4357.4 μGy·m²に減少した（P = 0.033）。"
+                "x": "Coreline Softの胸部CT肺結節解析ソリューション「AVIEW LCS」を用い、首のCT読影で見落とされやすい初期肺がん病変を検出した臨床研究が、国際学術誌『Korean Journal of Radiology』の最新号に掲載された。首のCTは撮影範囲の下端に肺尖部が部分的に含まれるが、読影医の視線が首の周辺に集中するため、端にある小さな肺病変が見落とされることが少なくなかった。"
               },
               {
                 "t": "p",
-                "x": "気胸の合併症は23.9%から12.7%に減少した（P = 0.033）。著者らは、このシステムにより手技がより標準化され効率的になったとしている。"
+                "x": "韓国の上級総合病院の研究チームが2008〜2024年に首のCTを撮影した成人8万1794人を後ろ向きに追跡した結果、後に肺がんと確定診断された患者のうち、過去の首のCTにすでに病変が写っていた例が123件あった。このうち65.0%にあたる80人の読影記録には、肺病変の所見がまったくなかった。見落とし群は確定診断まで中央値27.5カ月を要し、T·N·Mのいずれかが悪化した割合も47.5%と、即時発見群(11.6%)の4倍以上だった。"
+              },
+              {
+                "t": "p",
+                "x": "研究チームが見落とし例80件にAVIEW LCSを適用したところ、胸部専用のアルゴリズムを首のCT向けに再学習させていないにもかかわらず、80件中41件(感度51.3%)を指摘した。偽陽性率や特異度など追加検証の課題は残るものの、特定部位向けのAIが他部位の画像でも補完的なセーフティネットになり得ることを示す探索的な根拠を得たと評価されている。"
+              },
+              {
+                "t": "p",
+                "x": "Coreline Softは胸部CTだけで肺結節、COPD・肺気腫、冠動脈石灰化を同時に解析する「One CT, Multi-Disease」戦略を掲げており、2026年上半期の売上高は前年同期比45.7%増、海外売上高は123.0%増となった。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "生成式AI导航\n在肺活检RCT中受检验",
-          "body": "多中心RCT中，GPS-Lung缩短手术时间，并将气胸率从23.9%降至12.7%。",
-          "mini_headline": "AI导航用于肺穿刺活检",
+          "headline": "颈部CT漏诊的肺癌\nAI找出一半",
+          "body": "AI从颈部CT判读中被漏诊的80例肺癌里成功找出了41例。",
+          "mini_headline": "漏诊肺癌一半由AI找出",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "肺穿刺活检是诊断肺结节的金标准，但CBCT图像质量欠佳、引导智能化不足拖慢了操作，在小而复杂的病灶上尤为明显。"
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
               },
               {
                 "t": "p",
-                "x": "由Huazhong University of Science and Technology牵头的研究团队开发了生成式AI驱动的穿刺手术导航系统GPS-Lung（Generative AI-Powered Puncture Surgery Navigation System），并在多中心随机对照试验（NCT06762613）中进行了测试。"
+                "x": "利用为确认特定疾病而拍摄的CT，进而发现检查目的之外的隐匿重症疾病的“机会性筛查(Opportunistic Screening)”，正成为医疗AI行业的核心议题。"
               },
               {
                 "t": "p",
-                "x": "使用GPS-Lung后，穿刺次数减少（2.0 ± 1.2 vs. 2.5 ± 1.7，P = 0.005），手术时间从23.2 ± 6.3分钟缩短至20.4 ± 5.6分钟（P = 0.001），辐射暴露从5570.9降至4357.4 μGy·m²（P = 0.033）。"
+                "x": "利用Coreline Soft的胸部CT肺结节分析解决方案“AVIEW LCS”，在颈部CT判读中检出易被忽视的早期肺癌病变的临床研究，发表于国际学术期刊《Korean Journal of Radiology》最新刊。颈部CT的扫描范围下端会包含部分肺尖，但阅片医生的视线集中在颈部周围，边缘的小肺部病变常被遗漏。"
               },
               {
                 "t": "p",
-                "x": "气胸并发症从23.9%降至12.7%（P = 0.033）。作者表示，该系统使操作更加规范、高效。"
+                "x": "韩国某上级综合医院研究团队对2008~2024年间接受颈部CT检查的8万1794名成年人进行回顾性追踪，发现在后来确诊肺癌的患者中，既往颈部CT上已拍到病变的病例有123例。其中65.0%即80人的判读记录中完全没有肺部病变的描述。漏诊组到最终确诊的中位时间为27.5个月，T·N·M中有任何指标恶化的比例为47.5%，是即时发现组(11.6%)的4倍以上。"
+              },
+              {
+                "t": "p",
+                "x": "研究团队将AVIEW LCS应用于80例漏诊病例，尽管该胸部专用算法并未针对颈部CT重新训练，仍检出了80例中的41例(灵敏度51.3%)。虽然假阳性率、特异度等仍有待进一步验证，但业界认为，这项研究为特定部位用AI可在其他部位影像中充当补充安全网提供了探索性依据。"
+              },
+              {
+                "t": "p",
+                "x": "Coreline Soft提出用单次胸部CT同时分析肺结节、COPD·肺气肿和冠状动脉钙化的“One CT, Multi-Disease”战略，2026年上半年营收同比增长45.7%，海外营收增长123.0%。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Navegación con AI generativa\nen biopsia pulmonar: un RCT",
-          "body": "En un RCT multicéntrico, la navegación con AI GPS-Lung acortó la cirugía y bajó el neumotórax del 23.9% al 12.7%.",
-          "mini_headline": "Navegación con AI para biopsia pulmonar",
+          "headline": "Cáncer de pulmón omitido en CT\nde cuello: la AI halló la mitad",
+          "body": "Una AI detectó 41 de 80 cánceres de pulmón que se habían pasado por alto al leer CT de cuello.",
+          "mini_headline": "La AI halla la mitad del cáncer omitido",
           "full": {
             "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La biopsia por punción pulmonar es el estándar de referencia para diagnosticar nódulos pulmonares, pero la baja calidad de imagen de la CBCT y la limitada inteligencia de guiado ralentizan los procedimientos, sobre todo en lesiones pequeñas y complejas."
+                "t": "img",
+                "src": "https://cdn.bosa.co.kr/news/photo/202610/3014596_415527_236.png"
               },
               {
                 "t": "p",
-                "x": "Investigadores liderados por la Huazhong University of Science and Technology crearon GPS-Lung, un Generative AI-Powered Puncture Surgery Navigation System, y lo probaron en un ensayo controlado aleatorizado multicéntrico (NCT06762613)."
+                "x": "El ‘cribado oportunista (Opportunistic Screening)’, que aprovecha una CT tomada para comprobar una enfermedad concreta para detectar también enfermedades graves ocultas ajenas al objetivo del examen, se perfila como un tema central en el sector de la AI médica."
               },
               {
                 "t": "p",
-                "x": "Con GPS-Lung, los cirujanos necesitaron menos punciones (2.0 ± 1.2 vs. 2.5 ± 1.7, P = 0.005), el tiempo operatorio bajó de 23.2 ± 6.3 a 20.4 ± 5.6 minutos (P = 0.001) y la exposición a radiación cayó de 5570.9 a 4357.4 μGy·m² (P = 0.033)."
+                "x": "Un estudio clínico que usó ‘AVIEW LCS’, la solución de Coreline Soft para analizar nódulos pulmonares en CT de tórax, para detectar lesiones tempranas de cáncer de pulmón que suelen pasarse por alto en la lectura de CT de cuello se publicó en el último número de la revista internacional ‘Korean Journal of Radiology’. La CT de cuello incluye parte del vértice pulmonar en el extremo inferior del rango de exploración, pero como la mirada del radiólogo se concentra en la zona del cuello, no era raro que se pasaran por alto pequeñas lesiones pulmonares en los bordes."
               },
               {
                 "t": "p",
-                "x": "Las complicaciones por neumotórax bajaron del 23.9% al 12.7% (P = 0.033). Los autores afirman que el sistema hizo el procedimiento más estandarizado y eficiente."
+                "x": "Un equipo de un hospital terciario de Corea siguió de forma retrospectiva a 81,794 adultos que se hicieron una CT de cuello en 2008~2024 y halló que, entre los pacientes diagnosticados después de cáncer de pulmón, en 123 casos la lesión ya aparecía en una CT de cuello anterior. En 80 de ellos, el 65.0%, el informe de lectura no recogía ningún hallazgo pulmonar. El grupo omitido tardó una mediana de 27.5 meses hasta el diagnóstico definitivo, y la proporción con empeoramiento en alguno de T·N·M fue del 47.5%, más de 4 veces la del grupo detectado de inmediato (11.6%)."
+              },
+              {
+                "t": "p",
+                "x": "Cuando el equipo aplicó AVIEW LCS a los 80 casos omitidos, detectó 41 de los 80 (sensibilidad del 51.3%), pese a que el algoritmo, exclusivo para tórax, no se reentrenó para la CT de cuello. Aunque quedan pendientes más validaciones, como la tasa de falsos positivos y la especificidad, se considera que el estudio aporta evidencia exploratoria de que una AI diseñada para una región concreta puede servir de red de seguridad complementaria en imágenes de otras regiones."
+              },
+              {
+                "t": "p",
+                "x": "Coreline Soft impulsa la estrategia ‘One CT, Multi-Disease’, que analiza a la vez nódulos pulmonares, COPD y enfisema, y calcificación coronaria con una sola CT de tórax. En el primer semestre de 2026, sus ventas crecieron un 45.7% interanual y las ventas en el extranjero, un 123.0%."
               }
             ]
           }
@@ -959,189 +1059,213 @@
       }
     },
     {
-      "id": "medicine-unfold-surgery-mode",
+      "id": "medicine-llm-choosing-wisely",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Unfold AI 전립선암\n지도, 수술실로 간다",
-      "body": "Avenda Surgery Mode로 수술 중 Unfold AI 암 지도를 쓴다.",
-      "mini_headline": "Unfold AI, 수술실로",
+      "headline": "LLMs는 대체로\n과잉진료 피했다",
+      "body": "LLMs는 Choosing Wisely 시험에서 불필요한 진료를 드물게 권했다.",
+      "mini_headline": "LLMs, 저가치 진료 대체로 안 권해",
       "tool": "Medicine",
       "source": "AuntMinnie",
-      "url": "https://www.auntminnie.com/imaging-informatics/artificial-intelligence/news/15837947/avenda-avenda-health-adds-intraoperative-surgery-mode-to-unfold-ai",
-      "accent": "#7928ca",
+      "url": "https://www.auntminnie.com/home/article/15837911/llms-mostly-avoid-unnecessary-care-in-choosing-wisely-tests",
+      "accent": "#ff5a4d",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
             "t": "img",
-            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
+            "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
           },
           {
             "t": "p",
-            "x": "Avenda Health가 Unfold AI 전립선암 매핑 플랫폼에 Surgery Mode를 더한다. 수술 중에 쓰는 기능 묶음이다."
+            "x": "대규모 언어 모델(LLMs)은 Choosing Wisely 시험에서 불필요한 진료를 거의 권하지 않았으나 갑상선 초음파에서는 더 취약했다는 연구 결과가 10월 19일 Annals of Internal Medicine에 실렸다."
           },
           {
             "t": "p",
-            "x": "플랫폼은 환자의 MRI, 생검, 병리, 전립선 특이 항원 데이터를 분석해 암이 어디까지 퍼졌는지 3D 지도로 보여준다."
+            "x": "텔아비브(Tel Aviv) Clalit Health Services의 Dean Ariel, MD가 이끄는 연구팀은 Choosing Wisely 권고 15개로 시나리오 225개를 만들고 임상의 입장에서 쓴 프롬프트로 상용 LLM 여섯 종을 시험해 응답 4,050건을 모았다."
           },
           {
             "t": "p",
-            "x": "Surgery Mode를 쓰면 외과의는 로봇 수술이든 비로봇 수술이든 수술 중에 이 지도를 볼 수 있다. 새 기능에는 확대된 3D 화면과 수술 콘솔 카메라 각도에 맞춰 조정하는 암 추정 지도, 수술 중 원본 MRI 단면 검토, 피막 위험 점수 오버레이, 의사와 직원을 위해 개선한 증례 관리·행정 도구가 있다. 오버레이는 수술 카메라 화면을 자동으로 따라가며 사분면별 위험을 색으로 나눠 신경 보존 결정을 돕는다."
+            "x": "LLM이 과잉진료를 권한 경우(LLM-recommended overuse)는 5.4%였고 권고 15개 중 여덟 개에서는 한 건도 나오지 않았다. 대부분은 두 항목에 몰렸다. 우연히 발견된 센티미터 미만 결절의 갑상선 초음파(응답의 42.8%)와 저위험 성인의 정기 심전도 검사(28.3%)다. 필요한 진료를 잘못 막은 경우는 0.6%였는데, PSA 검사에서 3.3%로 가장 많았다."
           },
           {
             "t": "p",
-            "x": "회사에 따르면 Unfold AI는 암이 주변 해부 구조로 번졌는지를 92% 정확도로 예측한다. MRI만 쓰면 52%다."
+            "x": "작은 우연 결절의 갑상선 초음파는 이 연구에서 학회 지침끼리 실제로 견해가 엇갈리는 유일한 권고다. 저자들은 “지침들을 가르는 지점, 그리고 모델이 맞닥뜨린 지점은 바로 영상 검사를 할지 말지다”라고 썼다."
+          },
+          {
+            "t": "p",
+            "x": "함께 실린 사설은 이번 연구를 과잉진료를 명시적으로 다룬 첫 발표 연구로 평가하고 실제 사례를 쓴 연구가 필요하다고 촉구했다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Unfold AI takes prostate\ncancer maps into surgery",
-          "body": "Avenda's Surgery Mode lets surgeons use Unfold AI prostate cancer maps built from MRI and biopsy data mid-procedure.",
-          "mini_headline": "Unfold AI enters surgery",
+          "headline": "LLMs mostly avoid\nunnecessary care in tests",
+          "body": "LLMs rarely advised unnecessary care in Choosing Wisely tests, except for ultrasound of small thyroid nodules.",
+          "mini_headline": "LLMs mostly skip low-value care",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
               },
               {
                 "t": "p",
-                "x": "Avenda Health is launching Surgery Mode, a suite of intraoperative features for its Unfold AI prostate cancer mapping platform."
+                "x": "Large language models (LLMs) rarely recommend unnecessary care in Choosing Wisely tests, though thyroid ultrasound is more susceptible, suggest findings published October 19 in the Annals of Internal Medicine."
               },
               {
                 "t": "p",
-                "x": "The platform analyzes a patient's MRI, biopsy, pathology, and prostate-specific antigen data to produce a 3D map of the cancer's extent."
+                "x": "A team led by Dean Ariel, MD, from Clalit Health Services in Tel Aviv used 15 Choosing Wisely recommendations to develop 225 scenarios, then tested six commercial LLMs that generated 4,050 responses using a prompt from the clinician perspective."
               },
               {
                 "t": "p",
-                "x": "Surgery Mode allows surgeons to use the maps during robotic and nonrobotic procedures. New capabilities include enlarged 3D views and a cancer estimation map that can be adjusted to match the surgical console's camera angle; review of underlying MRI slices during the procedure; a capsule risk score overlay that automatically mirrors the surgical camera view, providing color-coded risk by quadrant to guide nerve-sparing decisions; and updated case management and administrative tools for physicians and staff."
+                "x": "LLM-recommended overuse occurred in 5.4% of cases, and none in eight of 15 recommendations. Two accounted for most of it: thyroid ultrasound for an incidental sub-centimeter nodule (42.8% of responses) and routine electrocardiography in low-risk adults (28.3%). False restraint occurred in 0.6% of cases, highest for PSA screening at 3.3%."
               },
               {
                 "t": "p",
-                "x": "Unfold AI predicts cancer spread into nearby anatomy with 92% accuracy, compared with 52% using MRI alone, according to the company."
+                "x": "Thyroid ultrasound for small incidental nodules is the only recommendation in the study with active disagreement between society guidelines. “What divides them, and what the models confronted, is precisely whether to image,” the authors wrote."
+              },
+              {
+                "t": "p",
+                "x": "An accompanying editorial called for studies using real-life cases, describing the work as the first published study to explicitly address overuse."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Unfold AI 전립선암\n지도, 수술실로 간다",
-          "body": "Avenda Surgery Mode로 수술 중 Unfold AI 암 지도를 쓴다.",
-          "mini_headline": "Unfold AI, 수술실로",
+          "headline": "LLMs는 대체로\n과잉진료 피했다",
+          "body": "LLMs는 Choosing Wisely 시험에서 불필요한 진료를 드물게 권했다.",
+          "mini_headline": "LLMs, 저가치 진료 대체로 안 권해",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
               },
               {
                 "t": "p",
-                "x": "Avenda Health가 Unfold AI 전립선암 매핑 플랫폼에 Surgery Mode를 더한다. 수술 중에 쓰는 기능 묶음이다."
+                "x": "대규모 언어 모델(LLMs)은 Choosing Wisely 시험에서 불필요한 진료를 거의 권하지 않았으나 갑상선 초음파에서는 더 취약했다는 연구 결과가 10월 19일 Annals of Internal Medicine에 실렸다."
               },
               {
                 "t": "p",
-                "x": "플랫폼은 환자의 MRI, 생검, 병리, 전립선 특이 항원 데이터를 분석해 암이 어디까지 퍼졌는지 3D 지도로 보여준다."
+                "x": "텔아비브(Tel Aviv) Clalit Health Services의 Dean Ariel, MD가 이끄는 연구팀은 Choosing Wisely 권고 15개로 시나리오 225개를 만들고 임상의 입장에서 쓴 프롬프트로 상용 LLM 여섯 종을 시험해 응답 4,050건을 모았다."
               },
               {
                 "t": "p",
-                "x": "Surgery Mode를 쓰면 외과의는 로봇 수술이든 비로봇 수술이든 수술 중에 이 지도를 볼 수 있다. 새 기능에는 확대된 3D 화면과 수술 콘솔 카메라 각도에 맞춰 조정하는 암 추정 지도, 수술 중 원본 MRI 단면 검토, 피막 위험 점수 오버레이, 의사와 직원을 위해 개선한 증례 관리·행정 도구가 있다. 오버레이는 수술 카메라 화면을 자동으로 따라가며 사분면별 위험을 색으로 나눠 신경 보존 결정을 돕는다."
+                "x": "LLM이 과잉진료를 권한 경우(LLM-recommended overuse)는 5.4%였고 권고 15개 중 여덟 개에서는 한 건도 나오지 않았다. 대부분은 두 항목에 몰렸다. 우연히 발견된 센티미터 미만 결절의 갑상선 초음파(응답의 42.8%)와 저위험 성인의 정기 심전도 검사(28.3%)다. 필요한 진료를 잘못 막은 경우는 0.6%였는데, PSA 검사에서 3.3%로 가장 많았다."
               },
               {
                 "t": "p",
-                "x": "회사에 따르면 Unfold AI는 암이 주변 해부 구조로 번졌는지를 92% 정확도로 예측한다. MRI만 쓰면 52%다."
+                "x": "작은 우연 결절의 갑상선 초음파는 이 연구에서 학회 지침끼리 실제로 견해가 엇갈리는 유일한 권고다. 저자들은 “지침들을 가르는 지점, 그리고 모델이 맞닥뜨린 지점은 바로 영상 검사를 할지 말지다”라고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "함께 실린 사설은 이번 연구를 과잉진료를 명시적으로 다룬 첫 발표 연구로 평가하고 실제 사례를 쓴 연구가 필요하다고 촉구했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unfold AIのがん地図\n前立腺手術の現場へ",
-          "body": "AvendaのSurgery Modeで術中にUnfold AIのがん地図を使える。",
-          "mini_headline": "Unfold AI、手術室へ",
+          "headline": "LLMs、不要な医療を\nおおむね回避",
+          "body": "LLMsはChoosing Wiselyの試験で、不要な医療をほとんど勧めなかった。",
+          "mini_headline": "LLMs、低価値医療を概ね勧めず",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
               },
               {
                 "t": "p",
-                "x": "Avenda Healthは、前立腺がんマッピングプラットフォームUnfold AI向けの術中機能群Surgery Modeを投入する。"
+                "x": "大規模言語モデル(LLMs)はChoosing Wiselyの試験で不要な医療をほとんど勧めないが、甲状腺超音波検査ではその傾向が出やすいとする研究結果が、10月19日付のAnnals of Internal Medicineに掲載された。"
               },
               {
                 "t": "p",
-                "x": "同プラットフォームは患者のMRI、生検、病理、前立腺特異抗原のデータを解析し、がんの広がりを示す3D マップを作成する。"
+                "x": "テルアビブ(Tel Aviv)のClalit Health ServicesのDean Ariel, MDらのチームは、Choosing Wiselyの推奨15項目から225のシナリオを作成し、臨床医の立場からのプロンプトを用いて六つの商用LLMを試験し、4,050件の回答を得た。"
               },
               {
                 "t": "p",
-                "x": "Surgery Modeにより、外科医はロボット手術と非ロボット手術の両方でこのマップを使える。新機能には、拡大した3D 表示と手術コンソールのカメラ角度に合わせて調整できるがん推定マップ、術中の元のMRI断面の確認、手術カメラの視野に自動で追従し、象限ごとのリスクを色分けして神経温存の判断を助ける被膜リスクスコアのオーバーレイ、医師やスタッフ向けの症例管理・事務ツールの更新が含まれる。"
+                "x": "LLMが過剰医療を勧めた例(LLM-recommended overuse)は5.4%で、15項目中八つでは皆無だった。大半を占めたのは二つで、偶然見つかったセンチメートル未満の結節に対する甲状腺超音波(回答の42.8%)と、低リスク成人への定期的な心電図検査(28.3%)である。必要な医療を誤って控えた例は0.6%で、PSA検診が3.3%と最も高かった。"
               },
               {
                 "t": "p",
-                "x": "同社によると、Unfold AIは周辺組織へのがんの広がりを92%の精度で予測し、MRIのみの場合は52%にとどまる。"
+                "x": "小さな偶発結節に対する甲状腺超音波は、この研究で学会ガイドライン間に明確な見解の相違がある唯一の推奨である。著者らは「両者を分け、モデルが直面したのは、まさに画像検査をするかどうかだ」と記した。"
+              },
+              {
+                "t": "p",
+                "x": "同時掲載の論説は、実際の症例を用いた研究を求めるとともに、本研究を過剰医療を明示的に扱った初の発表研究と位置づけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unfold AI癌症图谱\n走进前列腺手术",
-          "body": "Avenda的Surgery Mode让外科医生在术中使用Unfold AI癌症图谱。",
-          "mini_headline": "Unfold AI走进手术室",
+          "headline": "LLMs在测试中\n大多避开不必要医疗",
+          "body": "在Choosing Wisely测试中，LLMs极少建议不必要的医疗，小甲状腺结节超声除外。",
+          "mini_headline": "LLMs大多不建议低价值医疗",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
               },
               {
                 "t": "p",
-                "x": "Avenda Health推出Surgery Mode，这是为其Unfold AI前列腺癌图谱平台打造的一套术中功能。"
+                "x": "10月19日发表于Annals of Internal Medicine的研究结果显示，大语言模型(LLMs)在Choosing Wisely测试中很少建议不必要的医疗，但在甲状腺超声方面更易出现此类问题。"
               },
               {
                 "t": "p",
-                "x": "该平台分析患者的MRI、活检、病理和前列腺特异性抗原数据，生成显示癌症范围的3D 图谱。"
+                "x": "由特拉维夫(Tel Aviv)Clalit Health Services的Dean Ariel, MD领导的团队，利用15项Choosing Wisely建议设计了225个场景，再以临床医生视角的提示词测试了六款商用LLM，共生成4,050条回答。"
               },
               {
                 "t": "p",
-                "x": "Surgery Mode让外科医生可在机器人和非机器人手术中使用这些图谱。新功能包括：放大的3D 视图及可按手术控制台摄像头角度调整的癌症估计图；术中查看原始MRI切片；可自动跟随手术摄像头视角、按象限以颜色标示风险以辅助保留神经决策的包膜风险评分叠加层；以及面向医生和工作人员的更新版病例管理与行政工具。"
+                "x": "LLM建议的过度医疗(LLM-recommended overuse)出现在5.4%的病例中，15项建议中有八项完全没有出现。其中大部分来自两项：针对偶然发现的亚厘米结节的甲状腺超声(占回答的42.8%)，以及低风险成人的常规心电图检查(28.3%)。错误克制出现在0.6%的病例中，PSA筛查最高，为3.3%。"
               },
               {
                 "t": "p",
-                "x": "据该公司称，Unfold AI预测癌症向周围解剖结构扩散的准确率为92%，而仅用MRI时为52%。"
+                "x": "针对小型偶发结节的甲状腺超声，是该研究中唯一在各学会指南间存在明确分歧的建议。作者写道：“分歧所在，也是模型所面对的，正是是否要做影像检查。”"
+              },
+              {
+                "t": "p",
+                "x": "同期社论呼吁开展基于真实病例的研究，并称这是首项明确针对过度医疗的已发表研究。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Unfold AI lleva sus mapas de\ncáncer de próstata al quirófano",
-          "body": "Surgery Mode de Avenda permite usar en plena cirugía los mapas de cáncer de Unfold AI basados en MRI y biopsia.",
-          "mini_headline": "Unfold AI llega al quirófano",
+          "headline": "Los LLMs evitan casi siempre\nla atención innecesaria",
+          "body": "Los LLMs rara vez recomendaron atención innecesaria en Choosing Wisely, salvo ecografías de nódulos tiroideos pequeños.",
+          "mini_headline": "Los LLMs evitan la atención de bajo valor",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
               },
               {
                 "t": "p",
-                "x": "Avenda Health lanza Surgery Mode, un conjunto de funciones intraoperatorias para su plataforma de mapeo del cáncer de próstata Unfold AI."
+                "x": "Los grandes modelos de lenguaje (LLMs) rara vez recomiendan atención innecesaria en pruebas de Choosing Wisely, aunque la ecografía tiroidea es más vulnerable, según un estudio publicado el 19 de octubre en Annals of Internal Medicine."
               },
               {
                 "t": "p",
-                "x": "La plataforma analiza los datos de MRI, biopsia, patología y antígeno prostático específico del paciente para generar un mapa 3D de la extensión del cáncer."
+                "x": "Un equipo dirigido por Dean Ariel, MD, de Clalit Health Services en Tel Aviv, usó 15 recomendaciones de Choosing Wisely para crear 225 escenarios y luego probó seis LLM comerciales, que generaron 4,050 respuestas con una instrucción formulada desde la perspectiva del clínico."
               },
               {
                 "t": "p",
-                "x": "Surgery Mode permite a los cirujanos usar los mapas durante procedimientos robóticos y no robóticos. Las nuevas funciones incluyen vistas 3D ampliadas y un mapa de estimación del cáncer que puede ajustarse al ángulo de la cámara de la consola quirúrgica; la revisión de los cortes de MRI subyacentes durante el procedimiento; una superposición de puntuación de riesgo capsular que replica automáticamente la vista de la cámara quirúrgica y muestra el riesgo por cuadrante con códigos de color para orientar las decisiones de preservación nerviosa; y herramientas actualizadas de gestión de casos y administrativas para médicos y personal."
+                "x": "El uso excesivo recomendado por los LLM (LLM-recommended overuse) se dio en el 5.4% de los casos, y en ocho de las 15 recomendaciones no hubo ninguno. Dos concentraron la mayor parte: la ecografía tiroidea ante un nódulo incidental subcentimétrico (42.8% de las respuestas) y el electrocardiograma rutinario en adultos de bajo riesgo (28.3%). La falsa contención se dio en el 0.6% de los casos, con el máximo en el cribado de PSA, del 3.3%."
               },
               {
                 "t": "p",
-                "x": "Según la empresa, Unfold AI predice la extensión del cáncer a la anatomía cercana con un 92% de precisión, frente al 52% con MRI sola."
+                "x": "La ecografía tiroidea para nódulos incidentales pequeños es la única recomendación del estudio con un desacuerdo activo entre las guías de las sociedades. “Lo que las divide, y lo que enfrentaron los modelos, es precisamente si hacer pruebas de imagen”, escribieron los autores."
+              },
+              {
+                "t": "p",
+                "x": "Un editorial adjunto pidió estudios con casos reales y describió el trabajo como el primer estudio publicado que aborda de forma explícita el uso excesivo."
               }
             ]
           }
@@ -1149,121 +1273,137 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Unfold AI 전립선암\n지도, 수술실로 간다",
-          "body": "Avenda Surgery Mode로 수술 중 Unfold AI 암 지도를 쓴다.",
-          "mini_headline": "Unfold AI, 수술실로",
+          "headline": "LLMs는 대체로\n과잉진료 피했다",
+          "body": "LLMs는 Choosing Wisely 시험서 불필요한 진료를 거의 권하지 않았다.",
+          "mini_headline": "LLMs, 저가치 진료 대체로 안 권해",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
               },
               {
                 "t": "p",
-                "x": "Avenda Health가 Unfold AI 전립선암 매핑 플랫폼에 수술 중 기능 묶음인 Surgery Mode를 내놓는다."
+                "x": "대규모 언어 모델(LLMs)은 Choosing Wisely 시험에서 불필요한 진료를 거의 권하지 않았지만, 갑상선 초음파에서는 더 취약했다는 연구 결과가 10월 19일 Annals of Internal Medicine에 실렸다."
               },
               {
                 "t": "p",
-                "x": "이 플랫폼은 환자의 MRI, 생검, 병리, 전립선 특이 항원 데이터를 분석해 암이 퍼진 범위를 보여주는 3D 지도를 만든다."
+                "x": "텔아비브(Tel Aviv) Clalit Health Services의 Dean Ariel, MD가 이끄는 연구팀은 Choosing Wisely 권고 15개로 시나리오 225개를 만든 뒤, 임상의 관점의 프롬프트로 상용 LLM 여섯 종을 시험해 응답 4,050건을 얻었다."
               },
               {
                 "t": "p",
-                "x": "Surgery Mode를 쓰면 외과의는 로봇 수술과 비로봇 수술 중에 이 지도를 활용할 수 있다. 새 기능은 확대된 3D 화면과 수술 콘솔 카메라 각도에 맞춰 조정할 수 있는 암 추정 지도, 수술 중 원본 MRI 단면 검토, 수술 카메라 화면을 자동으로 따라가며 사분면별 위험을 색으로 구분해 신경 보존 결정을 돕는 피막 위험 점수 오버레이, 의사와 직원을 위한 개선된 증례 관리·행정 도구다."
+                "x": "LLM이 과잉진료를 권한 경우(LLM-recommended overuse)는 5.4%였고, 권고 15개 중 여덟 개에서는 한 건도 없었다. 대부분은 두 항목에서 나왔다. 우연히 발견된 센티미터 미만 결절에 대한 갑상선 초음파(응답의 42.8%)와 저위험 성인의 정기 심전도 검사(28.3%)다. 필요한 진료를 잘못 억제한 경우는 0.6%였고, PSA 검사가 3.3%로 가장 높았다."
               },
               {
                 "t": "p",
-                "x": "회사에 따르면 Unfold AI는 주변 해부 구조로의 암 확산을 92% 정확도로 예측하며, MRI만 쓸 때는 52%다."
+                "x": "작은 우연 결절에 대한 갑상선 초음파는 이 연구에서 학회 지침끼리 견해가 실제로 엇갈리는 유일한 권고다. 저자들은 “지침들을 가르는 지점, 그리고 모델이 맞닥뜨린 지점은 바로 영상 검사를 할지 말지다”라고 썼다."
+              },
+              {
+                "t": "p",
+                "x": "함께 실린 사설은 실제 사례를 활용한 연구가 필요하다고 촉구하면서, 이번 연구를 과잉진료를 명시적으로 다룬 첫 발표 연구라고 평가했다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Unfold AIのがん地図\n前立腺手術の現場へ",
-          "body": "AvendaのSurgery Modeで術中にUnfold AIのがん地図を使える。",
-          "mini_headline": "Unfold AI、手術室へ",
+          "headline": "LLMs、不要な医療を\nおおむね回避",
+          "body": "LLMsはChoosing Wiselyの試験で、不要な医療をほとんど勧めなかった。",
+          "mini_headline": "LLMs、低価値医療を概ね勧めず",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
               },
               {
                 "t": "p",
-                "x": "Avenda Healthは、前立腺がんマッピングプラットフォームUnfold AI向けの術中機能群Surgery Modeを投入する。"
+                "x": "大規模言語モデル(LLMs)はChoosing Wiselyの試験で不要な医療をほとんど勧めないが、甲状腺超音波検査ではその傾向が出やすいとする研究結果が、10月19日付のAnnals of Internal Medicineに掲載された。"
               },
               {
                 "t": "p",
-                "x": "同プラットフォームは患者のMRI、生検、病理、前立腺特異抗原のデータを解析し、がんの広がりを示す3D マップを作成する。"
+                "x": "テルアビブ(Tel Aviv)のClalit Health ServicesのDean Ariel, MDらのチームは、Choosing Wiselyの推奨15項目から225のシナリオを作成し、臨床医の立場からのプロンプトを用いて六つの商用LLMを試験し、4,050件の回答を得た。"
               },
               {
                 "t": "p",
-                "x": "Surgery Modeにより、外科医はロボット手術と非ロボット手術の両方でこのマップを使える。新機能には、拡大した3D 表示と手術コンソールのカメラ角度に合わせて調整できるがん推定マップ、術中の元のMRI断面の確認、手術カメラの視野に自動で追従し、象限ごとのリスクを色分けして神経温存の判断を助ける被膜リスクスコアのオーバーレイ、医師やスタッフ向けの症例管理・事務ツールの更新が含まれる。"
+                "x": "LLMが過剰医療を勧めた例(LLM-recommended overuse)は5.4%で、15項目中八つでは皆無だった。大半を占めたのは二つで、偶然見つかったセンチメートル未満の結節に対する甲状腺超音波(回答の42.8%)と、低リスク成人への定期的な心電図検査(28.3%)である。必要な医療を誤って控えた例は0.6%で、PSA検診が3.3%と最も高かった。"
               },
               {
                 "t": "p",
-                "x": "同社によると、Unfold AIは周辺組織へのがんの広がりを92%の精度で予測し、MRIのみの場合は52%にとどまる。"
+                "x": "小さな偶発結節に対する甲状腺超音波は、この研究で学会ガイドライン間に明確な見解の相違がある唯一の推奨である。著者らは「両者を分け、モデルが直面したのは、まさに画像検査をするかどうかだ」と記した。"
+              },
+              {
+                "t": "p",
+                "x": "同時掲載の論説は、実際の症例を用いた研究を求めるとともに、本研究を過剰医療を明示的に扱った初の発表研究と位置づけた。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Unfold AI癌症图谱\n走进前列腺手术",
-          "body": "Avenda的Surgery Mode让外科医生在术中使用Unfold AI癌症图谱。",
-          "mini_headline": "Unfold AI走进手术室",
+          "headline": "LLMs在测试中\n大多避开不必要医疗",
+          "body": "在Choosing Wisely测试中，LLMs极少建议不必要的医疗，小甲状腺结节超声除外。",
+          "mini_headline": "LLMs大多不建议低价值医疗",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
               },
               {
                 "t": "p",
-                "x": "Avenda Health推出Surgery Mode，这是为其Unfold AI前列腺癌图谱平台打造的一套术中功能。"
+                "x": "10月19日发表于Annals of Internal Medicine的研究结果显示，大语言模型(LLMs)在Choosing Wisely测试中很少建议不必要的医疗，但在甲状腺超声方面更易出现此类问题。"
               },
               {
                 "t": "p",
-                "x": "该平台分析患者的MRI、活检、病理和前列腺特异性抗原数据，生成显示癌症范围的3D 图谱。"
+                "x": "由特拉维夫(Tel Aviv)Clalit Health Services的Dean Ariel, MD领导的团队，利用15项Choosing Wisely建议设计了225个场景，再以临床医生视角的提示词测试了六款商用LLM，共生成4,050条回答。"
               },
               {
                 "t": "p",
-                "x": "Surgery Mode让外科医生可在机器人和非机器人手术中使用这些图谱。新功能包括：放大的3D 视图及可按手术控制台摄像头角度调整的癌症估计图；术中查看原始MRI切片；可自动跟随手术摄像头视角、按象限以颜色标示风险以辅助保留神经决策的包膜风险评分叠加层；以及面向医生和工作人员的更新版病例管理与行政工具。"
+                "x": "LLM建议的过度医疗(LLM-recommended overuse)出现在5.4%的病例中，15项建议中有八项完全没有出现。其中大部分来自两项：针对偶然发现的亚厘米结节的甲状腺超声(占回答的42.8%)，以及低风险成人的常规心电图检查(28.3%)。错误克制出现在0.6%的病例中，PSA筛查最高，为3.3%。"
               },
               {
                 "t": "p",
-                "x": "据该公司称，Unfold AI预测癌症向周围解剖结构扩散的准确率为92%，而仅用MRI时为52%。"
+                "x": "针对小型偶发结节的甲状腺超声，是该研究中唯一在各学会指南间存在明确分歧的建议。作者写道：“分歧所在，也是模型所面对的，正是是否要做影像检查。”"
+              },
+              {
+                "t": "p",
+                "x": "同期社论呼吁开展基于真实病例的研究，并称这是首项明确针对过度医疗的已发表研究。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Unfold AI lleva sus mapas de\ncáncer de próstata al quirófano",
-          "body": "Surgery Mode de Avenda permite usar en plena cirugía los mapas de cáncer de Unfold AI basados en MRI y biopsia.",
-          "mini_headline": "Unfold AI llega al quirófano",
+          "headline": "Los LLMs evitan casi siempre\nla atención innecesaria",
+          "body": "Los LLMs rara vez recomendaron atención innecesaria en Choosing Wisely, salvo ecografías de nódulos tiroideos pequeños.",
+          "mini_headline": "Los LLMs evitan la atención de bajo valor",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
                 "t": "img",
-                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/prostate-cancer-400.zogIfLg8CA.jpg?auto=format%2Ccompress&fit=fill&h=675&q=70&w=1200"
+                "src": "https://img.auntminnie.com/mindful/smg/workspaces/default/uploads/2026/10/artificial-intelligence-ai-binary-code-400.8uQeMX4Imz.jpg?auto=format%2Ccompress&fit=fillmax&q=70&w=400"
               },
               {
                 "t": "p",
-                "x": "Avenda Health lanza Surgery Mode, un conjunto de funciones intraoperatorias para su plataforma de mapeo del cáncer de próstata Unfold AI."
+                "x": "Los grandes modelos de lenguaje (LLMs) rara vez recomiendan atención innecesaria en pruebas de Choosing Wisely, aunque la ecografía tiroidea es más vulnerable, según un estudio publicado el 19 de octubre en Annals of Internal Medicine."
               },
               {
                 "t": "p",
-                "x": "La plataforma analiza los datos de MRI, biopsia, patología y antígeno prostático específico del paciente para generar un mapa 3D de la extensión del cáncer."
+                "x": "Un equipo dirigido por Dean Ariel, MD, de Clalit Health Services en Tel Aviv, usó 15 recomendaciones de Choosing Wisely para crear 225 escenarios y luego probó seis LLM comerciales, que generaron 4,050 respuestas con una instrucción formulada desde la perspectiva del clínico."
               },
               {
                 "t": "p",
-                "x": "Surgery Mode permite a los cirujanos usar los mapas durante procedimientos robóticos y no robóticos. Las nuevas funciones incluyen vistas 3D ampliadas y un mapa de estimación del cáncer que puede ajustarse al ángulo de la cámara de la consola quirúrgica; la revisión de los cortes de MRI subyacentes durante el procedimiento; una superposición de puntuación de riesgo capsular que replica automáticamente la vista de la cámara quirúrgica y muestra el riesgo por cuadrante con códigos de color para orientar las decisiones de preservación nerviosa; y herramientas actualizadas de gestión de casos y administrativas para médicos y personal."
+                "x": "El uso excesivo recomendado por los LLM (LLM-recommended overuse) se dio en el 5.4% de los casos, y en ocho de las 15 recomendaciones no hubo ninguno. Dos concentraron la mayor parte: la ecografía tiroidea ante un nódulo incidental subcentimétrico (42.8% de las respuestas) y el electrocardiograma rutinario en adultos de bajo riesgo (28.3%). La falsa contención se dio en el 0.6% de los casos, con el máximo en el cribado de PSA, del 3.3%."
               },
               {
                 "t": "p",
-                "x": "Según la empresa, Unfold AI predice la extensión del cáncer a la anatomía cercana con un 92% de precisión, frente al 52% con MRI sola."
+                "x": "La ecografía tiroidea para nódulos incidentales pequeños es la única recomendación del estudio con un desacuerdo activo entre las guías de las sociedades. “Lo que las divide, y lo que enfrentaron los modelos, es precisamente si hacer pruebas de imagen”, escribieron los autores."
+              },
+              {
+                "t": "p",
+                "x": "Un editorial adjunto pidió estudios con casos reales y describió el trabajo como el primer estudio publicado que aborda de forma explícita el uso excesivo."
               }
             ]
           }
@@ -1271,165 +1411,189 @@
       }
     },
     {
-      "id": "medicine-aidoc-pe",
+      "id": "medicine-brainomix-elung-fibrosis",
       "source_lang": "en",
       "eyebrow": "AI NEWS",
-      "headline": "Aidoc PE AI\n실제론 FDA 기준 미달",
-      "body": "17개 시설서 Aidoc PE AI 민감도는 86.8%로 FDA 기준 밑돌았다.",
-      "mini_headline": "Aidoc PE AI, FDA 기준 밑돌아",
+      "headline": "AI CT, 섬유증 진행\n최대 28개월 먼저 포착",
+      "body": "Brainomix e-Lung은 509명 섬유증 진행을 평균 16개월 앞서 잡았다.",
+      "mini_headline": "e-Lung, 섬유증 조기 포착",
       "tool": "Medicine",
-      "source": "npj Digital Medicine",
-      "url": "https://www.nature.com/articles/s41746-026-03418-3",
-      "accent": "#eb367f",
+      "source": "Radiology Business",
+      "url": "https://radiologybusiness.com/topics/medical-imaging/computed-tomography-ct/ct-tool-may-detect-pulmonary-fibrosis-progression-more-2-years-sooner",
+      "accent": "#3b6bff",
       "motif": "sphere",
       "full": {
-        "mode": "full",
+        "mode": "summary",
         "blocks": [
           {
-            "t": "p",
-            "x": "폐색전증(PE)은 심혈관 사망의 주요 원인이다. 그런데 FDA-cleared AI 탐지 모델이 실제로 얼마나 잘 작동하는지는 아직 충분히 밝혀지지 않았다."
+            "t": "img",
+            "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
           },
           {
             "t": "p",
-            "x": "Emory University 연구진은 17개 시설을 둔 학술 의료 시스템에서 FDA-cleared Aidoc BriefCase 알고리즘 두 가지를 후향적으로 평가했다. 하나는 전용 CT 폐혈관조영술(n = 30,678)에서 PE를 분류하고, 다른 하나는 일상적인 조영증강 CTs(n = 37,191)에서 우연히 발견되는 PE를 잡는다. 기준 라벨은 검증된 LLM 파이프라인(정확도 97%, κ = 0.94)으로 영상의학 판독문에서 뽑았다."
+            "x": "인공지능 기반 정량 CT 분석으로 임상 진단보다 몇 달 앞서 폐섬유증 징후를 찾아낼 수 있다는 다기관 연구가 새로 Annals of the American Thoracic Society에 실렸다."
           },
           {
             "t": "p",
-            "x": "PE 모델의 민감도는 86.8%, 특이도는 99.1%였다. 민감도는 안장 색전에서 99.3%였지만 아분절 PE에서는 72.9%까지 떨어졌다. 급성 PE에서 89.7%였던 민감도는 비급성(non-acute) PE에서 65.3%로 내려갔다. 우발적 PE(incidental-PE) 모델의 민감도는 73.5%, 특이도는 99.8%였다."
+            "x": "후향적으로 진행된 이 연구는 University of Chicago, Weill Cornell Medicine, University of Alabama at Birmingham의 섬유성 간질성 폐질환 환자 509명을 Brainomix의 e-Lung으로 평가했다. e-Lung은 FDA 허가를 받은(FDA-cleared) 정량 CT 도구다. 연구비는 Boehringer Ingelheim이 댔다."
           },
           {
             "t": "p",
-            "x": "두 모델 모두 특이도는 허가 수준을 넘겼으나 민감도는 FDA-clearance 기준에 못 미쳤다. 연구진은 AI-enabled 의료기기를 표준화된 방식으로 시판 후(post-market) 감시해야 한다는 근거라고 밝혔다."
+            "x": "이 지표들은 임상적 폐섬유증 진단보다 평균 16개월 앞서 영상의학적 진행을 찾아냈고 한 센터에서는 최대 28개월까지 앞섰다. 검사 당시 임상적으로 안정적이라고 본 환자 상당수에서도 진행을 잡아냈다."
+          },
+          {
+            "t": "p",
+            "x": "기저 가중 망상혈관 점수가 높을수록 향후 폐섬유증 위험이 커졌다. 연속 CT에서 전체 병변 범위가 1.5% 변하면 사망률 증가와 연관됐다. Brainomix와 Boehringer Ingelheim은 미국(U.S.)에서 전향적 다기관 연구 PROGRESS-PPF를 진행하며 연구를 이어갈 계획이다."
           }
         ]
       },
       "text": {
         "en": {
-          "headline": "Aidoc PE AI trails its FDA\nbenchmark in real-world use",
-          "body": "Across 17 facilities, Aidoc's FDA-cleared PE AI hit 86.8% sensitivity, below its FDA-clearance benchmark.",
-          "mini_headline": "Aidoc PE AI below FDA benchmark",
+          "headline": "AI CT flags fibrosis progression\nup to 28 months early",
+          "body": "Brainomix's e-Lung flagged pulmonary fibrosis progression an average 16 months before diagnosis in 509 patients.",
+          "mini_headline": "e-Lung spots fibrosis early",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "Pulmonary embolism (PE) is a leading cause of cardiovascular mortality, yet the real-world performance of FDA-cleared AI detection models remains incompletely characterized."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
               },
               {
                 "t": "p",
-                "x": "Emory University researchers retrospectively evaluated two FDA-cleared Aidoc BriefCase algorithms across a 17-facility academic health system: one for PE triage on dedicated CT pulmonary angiography (n = 30,678) and one for incidental PE on routine contrast-enhanced CTs (n = 37,191). Reference labels came from radiology reports via a validated LLM pipeline (97% accuracy, κ = 0.94)."
+                "x": "Artificial intelligence-powered quantitative CT analysis is capable of identifying signs of pulmonary fibrosis months before clinical diagnosis, according to a new multicenter study published in the Annals of the American Thoracic Society."
               },
               {
                 "t": "p",
-                "x": "The PE model achieved 86.8% sensitivity and 99.1% specificity. Sensitivity fell from 99.3% for saddle emboli to 72.9% for subsegmental PE, and from 89.7% for acute to 65.3% for non-acute PE. The incidental-PE model achieved 73.5% sensitivity and 99.8% specificity."
+                "x": "The retrospective study evaluated 509 patients with fibrotic interstitial lung disease at the University of Chicago, Weill Cornell Medicine and the University of Alabama at Birmingham, using Brainomix's e-Lung, an FDA-cleared quantitative CT tool. Boehringer Ingelheim funded the study."
               },
               {
                 "t": "p",
-                "x": "Both models showed lower sensitivity than their FDA-clearance benchmarks while exceeding cleared specificity, which the authors say underscores the need for standardized post-market surveillance of AI-enabled medical devices."
+                "x": "These measures identified radiological progression an average of 16 months before clinical pulmonary fibrosis diagnosis, reaching up to 28 months at one center. They also detected progression in a substantial proportion of patients considered clinically stable at the time of their exam."
+              },
+              {
+                "t": "p",
+                "x": "A higher baseline weighted reticulovascular score was associated with increased risk of future pulmonary fibrosis, while a 1.5% change in total disease extent on serial CT was associated with increased mortality. Brainomix and Boehringer Ingelheim plan to continue through PROGRESS-PPF, a prospective, multicenter U.S. study."
               }
             ]
           }
         },
         "ko": {
-          "headline": "Aidoc PE AI\n실제론 FDA 기준 미달",
-          "body": "17개 시설서 Aidoc PE AI 민감도는 86.8%로 FDA 기준 밑돌았다.",
-          "mini_headline": "Aidoc PE AI, FDA 기준 밑돌아",
+          "headline": "AI CT, 섬유증 진행\n최대 28개월 먼저 포착",
+          "body": "Brainomix e-Lung은 509명 섬유증 진행을 평균 16개월 앞서 잡았다.",
+          "mini_headline": "e-Lung, 섬유증 조기 포착",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "폐색전증(PE)은 심혈관 사망의 주요 원인이다. 그런데 FDA-cleared AI 탐지 모델이 실제로 얼마나 잘 작동하는지는 아직 충분히 밝혀지지 않았다."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
               },
               {
                 "t": "p",
-                "x": "Emory University 연구진은 17개 시설을 둔 학술 의료 시스템에서 FDA-cleared Aidoc BriefCase 알고리즘 두 가지를 후향적으로 평가했다. 하나는 전용 CT 폐혈관조영술(n = 30,678)에서 PE를 분류하고, 다른 하나는 일상적인 조영증강 CTs(n = 37,191)에서 우연히 발견되는 PE를 잡는다. 기준 라벨은 검증된 LLM 파이프라인(정확도 97%, κ = 0.94)으로 영상의학 판독문에서 뽑았다."
+                "x": "인공지능 기반 정량 CT 분석으로 임상 진단보다 몇 달 앞서 폐섬유증 징후를 찾아낼 수 있다는 다기관 연구가 새로 Annals of the American Thoracic Society에 실렸다."
               },
               {
                 "t": "p",
-                "x": "PE 모델의 민감도는 86.8%, 특이도는 99.1%였다. 민감도는 안장 색전에서 99.3%였지만 아분절 PE에서는 72.9%까지 떨어졌다. 급성 PE에서 89.7%였던 민감도는 비급성(non-acute) PE에서 65.3%로 내려갔다. 우발적 PE(incidental-PE) 모델의 민감도는 73.5%, 특이도는 99.8%였다."
+                "x": "후향적으로 진행된 이 연구는 University of Chicago, Weill Cornell Medicine, University of Alabama at Birmingham의 섬유성 간질성 폐질환 환자 509명을 Brainomix의 e-Lung으로 평가했다. e-Lung은 FDA 허가를 받은(FDA-cleared) 정량 CT 도구다. 연구비는 Boehringer Ingelheim이 댔다."
               },
               {
                 "t": "p",
-                "x": "두 모델 모두 특이도는 허가 수준을 넘겼으나 민감도는 FDA-clearance 기준에 못 미쳤다. 연구진은 AI-enabled 의료기기를 표준화된 방식으로 시판 후(post-market) 감시해야 한다는 근거라고 밝혔다."
+                "x": "이 지표들은 임상적 폐섬유증 진단보다 평균 16개월 앞서 영상의학적 진행을 찾아냈고 한 센터에서는 최대 28개월까지 앞섰다. 검사 당시 임상적으로 안정적이라고 본 환자 상당수에서도 진행을 잡아냈다."
+              },
+              {
+                "t": "p",
+                "x": "기저 가중 망상혈관 점수가 높을수록 향후 폐섬유증 위험이 커졌다. 연속 CT에서 전체 병변 범위가 1.5% 변하면 사망률 증가와 연관됐다. Brainomix와 Boehringer Ingelheim은 미국(U.S.)에서 전향적 다기관 연구 PROGRESS-PPF를 진행하며 연구를 이어갈 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Aidoc PE AI\n実運用でFDA基準割れ",
-          "body": "17施設でAidocのPE AIは感度86.8%にとどまり、FDA基準を下回った。",
-          "mini_headline": "Aidoc PE AI、FDA基準を下回る",
+          "headline": "AI CTが線維症進行を\n最大28カ月早く検出",
+          "body": "Brainomixのe-Lungは509人で肺線維症の進行を診断の平均16カ月前に捉えた。",
+          "mini_headline": "e-Lung、線維症を早期に捕捉",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "肺塞栓症（PE）は心血管死の主要な原因だが、FDA-cleared AI検出モデルの実臨床での性能はまだ十分に解明されていない。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
               },
               {
                 "t": "p",
-                "x": "Emory University の研究チームは、17施設からなる学術医療システムで、FDA-cleared の Aidoc BriefCase アルゴリズム2種を後ろ向きに評価した。一つは専用のCT肺動脈造影（n = 30,678）でのPEトリアージ用、もう一つは通常の造影CTs（n = 37,191）で偶発的に見つかるPE用である。参照ラベルは、検証済みのLLMパイプライン（精度97%、κ = 0.94）を用いて読影レポートから抽出した。"
+                "x": "人工知能を活用した定量CT解析により、臨床診断の数カ月前に肺線維症の兆候を特定できることが、Annals of the American Thoracic Societyに掲載された新たな多施設研究で明らかになった。"
               },
               {
                 "t": "p",
-                "x": "PEモデルの感度は86.8%、特異度は99.1%だった。感度は鞍状塞栓の99.3%から亜区域PEでは72.9%に、急性PEの89.7%から非急性（non-acute）PEでは65.3%に低下した。偶発PE（incidental-PE）モデルの感度は73.5%、特異度は99.8%だった。"
+                "x": "この後ろ向き研究では、University of Chicago、Weill Cornell Medicine、University of Alabama at Birminghamの線維性間質性肺疾患患者509人を、FDA承認済み(FDA-cleared)の定量CTツールであるBrainomixのe-Lungで評価した。研究資金はBoehringer Ingelheimが提供した。"
               },
               {
                 "t": "p",
-                "x": "両モデルとも特異度は承認時の水準を上回ったが、感度はFDA-clearance時のベンチマークを下回った。著者らは、AI-enabled医療機器について標準化された市販後（post-market）監視が必要であることを示す結果だとしている。"
+                "x": "これらの指標は、臨床的な肺線維症診断より平均16カ月早く画像上の進行を捉え、ある施設では最大28カ月に達した。検査時点で臨床的に安定とみなされていた患者のかなりの割合でも、進行を検出した。"
+              },
+              {
+                "t": "p",
+                "x": "ベースラインの加重網状血管スコアが高いほど将来の肺線維症リスクが高く、連続CTで総病変範囲が1.5%変化すると死亡率の上昇と関連していた。BrainomixとBoehringer Ingelheimは、米国(U.S.)での前向き多施設研究PROGRESS-PPFを通じて研究を続ける計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Aidoc PE AI\n实际表现低于FDA基准",
-          "body": "在17家机构中，Aidoc的PE AI敏感度为86.8%，低于其FDA基准。",
-          "mini_headline": "Aidoc PE AI低于FDA基准",
+          "headline": "AI CT最多提前28个月\n发现纤维化进展",
+          "body": "Brainomix的e-Lung在509名患者中比确诊平均提前16个月发现肺纤维化进展。",
+          "mini_headline": "e-Lung提早发现纤维化",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "肺栓塞（PE）是心血管死亡的主要原因之一，但FDA-cleared AI检测模型在真实世界中的表现仍未得到充分评估。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
               },
               {
                 "t": "p",
-                "x": "Emory University的研究人员在一个拥有17家机构的学术医疗体系中，回顾性评估了两款FDA-cleared的Aidoc BriefCase算法：一款用于专门CT肺动脉造影中的PE分诊（n = 30,678），另一款用于常规增强CTs中偶然发现的PE（n = 37,191）。参考标签通过经过验证的LLM流程从放射学报告中提取（准确率97%，κ = 0.94）。"
+                "x": "发表于Annals of the American Thoracic Society的新多中心研究显示，人工智能驱动的定量CT分析能够在临床诊断前数月识别出肺纤维化迹象。"
               },
               {
                 "t": "p",
-                "x": "PE模型的敏感度为86.8%，特异度为99.1%。敏感度从鞍状栓塞的99.3%降至亚段PE的72.9%，从急性PE的89.7%降至非急性（non-acute）PE的65.3%。偶发PE（incidental-PE）模型的敏感度为73.5%，特异度为99.8%。"
+                "x": "这项回顾性研究使用获FDA许可(FDA-cleared)的定量CT工具Brainomix的e-Lung，评估了University of Chicago、Weill Cornell Medicine和University of Alabama at Birmingham的509名纤维化间质性肺病患者。该研究由Boehringer Ingelheim资助。"
               },
               {
                 "t": "p",
-                "x": "两款模型的特异度均高于获批水平，但敏感度都低于其FDA-clearance基准。作者表示，这凸显了对AI-enabled医疗器械开展标准化上市后（post-market）监测的必要性。"
+                "x": "这些指标比临床肺纤维化诊断平均提前16个月识别出影像学进展，在某个中心最多提前28个月。在检查时被视为临床稳定的患者中，它们也在相当比例的人身上检测到了进展。"
+              },
+              {
+                "t": "p",
+                "x": "较高的基线加权网状血管评分与未来肺纤维化风险升高相关，而连续CT上总病变范围变化1.5%与死亡率上升相关。Brainomix和Boehringer Ingelheim计划通过前瞻性多中心美国(U.S.)研究PROGRESS-PPF继续推进。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Aidoc PE AI queda por debajo\ndel referente FDA en uso real",
-          "body": "En 17 centros, la PE AI de Aidoc autorizada por la FDA logró un 86.8% de sensibilidad, bajo su referencia.",
-          "mini_headline": "Aidoc PE AI, por debajo del referente FDA",
+          "headline": "AI en CT anticipa la progresión\nde la fibrosis hasta 28 meses",
+          "body": "El e-Lung de Brainomix detectó el avance de la fibrosis en promedio 16 meses antes del diagnóstico en 509 pacientes.",
+          "mini_headline": "e-Lung detecta pronto la fibrosis",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La embolia pulmonar (PE) es una de las principales causas de mortalidad cardiovascular, pero el rendimiento real de los modelos de detección con AI FDA-cleared sigue sin caracterizarse por completo."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Emory University evaluaron de forma retrospectiva dos algoritmos Aidoc BriefCase FDA-cleared en un sistema de salud académico de 17 centros: uno para el triaje de PE en angiografía pulmonar por CT dedicada (n = 30,678) y otro para PE incidental en CTs rutinarias con contraste (n = 37,191). Las etiquetas de referencia se obtuvieron de los informes radiológicos mediante un flujo LLM validado (97% de precisión, κ = 0.94)."
+                "x": "El análisis cuantitativo de CT impulsado por inteligencia artificial puede identificar signos de fibrosis pulmonar meses antes del diagnóstico clínico, según un nuevo estudio multicéntrico publicado en Annals of the American Thoracic Society."
               },
               {
                 "t": "p",
-                "x": "El modelo de PE alcanzó un 86.8% de sensibilidad y un 99.1% de especificidad. La sensibilidad bajó del 99.3% en émbolos en silla de montar al 72.9% en PE subsegmentaria, y del 89.7% en PE aguda al 65.3% en PE no aguda (non-acute). El modelo incidental-PE alcanzó un 73.5% de sensibilidad y un 99.8% de especificidad."
+                "x": "El estudio retrospectivo evaluó a 509 pacientes con enfermedad pulmonar intersticial fibrótica en la University of Chicago, Weill Cornell Medicine y la University of Alabama at Birmingham con e-Lung de Brainomix, una herramienta de CT cuantitativa con autorización de la FDA (FDA-cleared). Boehringer Ingelheim financió el estudio."
               },
               {
                 "t": "p",
-                "x": "Ambos modelos mostraron una sensibilidad inferior a sus referencias de FDA-clearance, aunque superaron la especificidad autorizada, lo que según los autores subraya la necesidad de una vigilancia post-market estandarizada de los dispositivos médicos AI-enabled."
+                "x": "Estas mediciones identificaron la progresión radiológica una media de 16 meses antes del diagnóstico clínico de fibrosis pulmonar, y hasta 28 meses en un centro. También detectaron progresión en una proporción considerable de pacientes que se consideraban clínicamente estables en el momento del examen."
+              },
+              {
+                "t": "p",
+                "x": "Una puntuación reticulovascular ponderada basal más alta se asoció con un mayor riesgo de fibrosis pulmonar futura, mientras que un cambio del 1.5% en la extensión total de la enfermedad en CT seriadas se asoció con un aumento de la mortalidad. Brainomix y Boehringer Ingelheim prevén continuar con PROGRESS-PPF, un estudio prospectivo y multicéntrico en Estados Unidos (U.S.)."
               }
             ]
           }
@@ -1437,105 +1601,121 @@
       },
       "_i18n_passed": {
         "ko": {
-          "headline": "Aidoc PE AI\n실제론 FDA 기준 미달",
-          "body": "17개 시설서 Aidoc PE AI 민감도는 86.8%로 FDA 기준 밑돌았다.",
-          "mini_headline": "Aidoc PE AI, FDA 기준 밑돌아",
+          "headline": "AI CT, 섬유증 진행\n최대 28개월 먼저 포착",
+          "body": "Brainomix e-Lung은 509명서 섬유증 진행을 평균 16개월 전 찾았다.",
+          "mini_headline": "e-Lung, 섬유증 조기 포착",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "폐색전증(PE)은 심혈관 사망의 주요 원인이지만, FDA-cleared AI 탐지 모델의 실제 성능은 아직 충분히 밝혀지지 않았다."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
               },
               {
                 "t": "p",
-                "x": "Emory University 연구진은 17개 시설을 둔 학술 의료 시스템에서 FDA-cleared Aidoc BriefCase 알고리즘 두 가지를 후향적으로 평가했다. 하나는 전용 CT 폐혈관조영술(n = 30,678)에서 PE를 분류하는 모델이고, 다른 하나는 일상적인 조영증강 CTs(n = 37,191)에서 우연히 발견되는 PE를 잡는 모델이다. 기준 라벨은 검증된 LLM 파이프라인(정확도 97%, κ = 0.94)으로 영상의학 판독문에서 추출했다."
+                "x": "인공지능 기반 정량 CT 분석으로 임상 진단 몇 달 전에 폐섬유증 징후를 찾아낼 수 있다는 새 다기관 연구가 Annals of the American Thoracic Society에 실렸다."
               },
               {
                 "t": "p",
-                "x": "PE 모델의 민감도는 86.8%, 특이도는 99.1%였다. 민감도는 안장 색전에서 99.3%였으나 아분절 PE에서는 72.9%로 떨어졌고, 급성 PE의 89.7%에서 비급성(non-acute) PE는 65.3%로 낮아졌다. 우발적 PE(incidental-PE) 모델의 민감도는 73.5%, 특이도는 99.8%였다."
+                "x": "이 후향적 연구는 University of Chicago, Weill Cornell Medicine, University of Alabama at Birmingham의 섬유성 간질성 폐질환 환자 509명을 FDA 허가를 받은(FDA-cleared) 정량 CT 도구인 Brainomix의 e-Lung으로 평가했다. 연구비는 Boehringer Ingelheim이 댔다."
               },
               {
                 "t": "p",
-                "x": "두 모델 모두 특이도는 허가 수준을 넘었지만 민감도는 FDA-clearance 기준보다 낮았다. 연구진은 이 결과가 AI-enabled 의료기기에 대한 표준화된 시판 후(post-market) 감시가 필요함을 보여준다고 밝혔다."
+                "x": "이 지표들은 임상적 폐섬유증 진단보다 평균 16개월 앞서 영상의학적 진행을 찾아냈고, 어느 센터에서는 최대 28개월까지 앞섰다. 검사 당시 임상적으로 안정 상태로 여겨진 환자 가운데 상당수에서도 진행을 감지했다."
+              },
+              {
+                "t": "p",
+                "x": "기저 가중 망상혈관 점수가 높을수록 향후 폐섬유증 위험이 커졌고, 연속 CT에서 전체 병변 범위가 1.5% 변하면 사망률 증가와 연관이 있었다. Brainomix와 Boehringer Ingelheim은 전향적 다기관 미국(U.S.) 연구인 PROGRESS-PPF로 연구를 이어갈 계획이다."
               }
             ]
           }
         },
         "ja": {
-          "headline": "Aidoc PE AI\n実運用でFDA基準割れ",
-          "body": "17施設でAidocのPE AIは感度86.8%にとどまり、FDA基準を下回った。",
-          "mini_headline": "Aidoc PE AI、FDA基準を下回る",
+          "headline": "AI CTが線維症進行を\n最大28カ月早く検出",
+          "body": "Brainomixのe-Lungは509人で肺線維症の進行を診断の平均16カ月前に捉えた。",
+          "mini_headline": "e-Lung、線維症を早期に捕捉",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "肺塞栓症（PE）は心血管死の主要な原因だが、FDA-cleared AI検出モデルの実臨床での性能はまだ十分に解明されていない。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
               },
               {
                 "t": "p",
-                "x": "Emory University の研究チームは、17施設からなる学術医療システムで、FDA-cleared の Aidoc BriefCase アルゴリズム2種を後ろ向きに評価した。一つは専用のCT肺動脈造影（n = 30,678）でのPEトリアージ用、もう一つは通常の造影CTs（n = 37,191）で偶発的に見つかるPE用である。参照ラベルは、検証済みのLLMパイプライン（精度97%、κ = 0.94）を用いて読影レポートから抽出した。"
+                "x": "人工知能を活用した定量CT解析により、臨床診断の数カ月前に肺線維症の兆候を特定できることが、Annals of the American Thoracic Societyに掲載された新たな多施設研究で明らかになった。"
               },
               {
                 "t": "p",
-                "x": "PEモデルの感度は86.8%、特異度は99.1%だった。感度は鞍状塞栓の99.3%から亜区域PEでは72.9%に、急性PEの89.7%から非急性（non-acute）PEでは65.3%に低下した。偶発PE（incidental-PE）モデルの感度は73.5%、特異度は99.8%だった。"
+                "x": "この後ろ向き研究では、University of Chicago、Weill Cornell Medicine、University of Alabama at Birminghamの線維性間質性肺疾患患者509人を、FDA承認済み(FDA-cleared)の定量CTツールであるBrainomixのe-Lungで評価した。研究資金はBoehringer Ingelheimが提供した。"
               },
               {
                 "t": "p",
-                "x": "両モデルとも特異度は承認時の水準を上回ったが、感度はFDA-clearance時のベンチマークを下回った。著者らは、AI-enabled医療機器について標準化された市販後（post-market）監視が必要であることを示す結果だとしている。"
+                "x": "これらの指標は、臨床的な肺線維症診断より平均16カ月早く画像上の進行を捉え、ある施設では最大28カ月に達した。検査時点で臨床的に安定とみなされていた患者のかなりの割合でも、進行を検出した。"
+              },
+              {
+                "t": "p",
+                "x": "ベースラインの加重網状血管スコアが高いほど将来の肺線維症リスクが高く、連続CTで総病変範囲が1.5%変化すると死亡率の上昇と関連していた。BrainomixとBoehringer Ingelheimは、米国(U.S.)での前向き多施設研究PROGRESS-PPFを通じて研究を続ける計画だ。"
               }
             ]
           }
         },
         "zh": {
-          "headline": "Aidoc PE AI\n实际表现低于FDA基准",
-          "body": "在17家机构中，Aidoc的PE AI敏感度为86.8%，低于其FDA基准。",
-          "mini_headline": "Aidoc PE AI低于FDA基准",
+          "headline": "AI CT最多提前28个月\n发现纤维化进展",
+          "body": "Brainomix的e-Lung在509名患者中比确诊平均提前16个月发现肺纤维化进展。",
+          "mini_headline": "e-Lung提早发现纤维化",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "肺栓塞（PE）是心血管死亡的主要原因之一，但FDA-cleared AI检测模型在真实世界中的表现仍未得到充分评估。"
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
               },
               {
                 "t": "p",
-                "x": "Emory University的研究人员在一个拥有17家机构的学术医疗体系中，回顾性评估了两款FDA-cleared的Aidoc BriefCase算法：一款用于专门CT肺动脉造影中的PE分诊（n = 30,678），另一款用于常规增强CTs中偶然发现的PE（n = 37,191）。参考标签通过经过验证的LLM流程从放射学报告中提取（准确率97%，κ = 0.94）。"
+                "x": "发表于Annals of the American Thoracic Society的新多中心研究显示，人工智能驱动的定量CT分析能够在临床诊断前数月识别出肺纤维化迹象。"
               },
               {
                 "t": "p",
-                "x": "PE模型的敏感度为86.8%，特异度为99.1%。敏感度从鞍状栓塞的99.3%降至亚段PE的72.9%，从急性PE的89.7%降至非急性（non-acute）PE的65.3%。偶发PE（incidental-PE）模型的敏感度为73.5%，特异度为99.8%。"
+                "x": "这项回顾性研究使用获FDA许可(FDA-cleared)的定量CT工具Brainomix的e-Lung，评估了University of Chicago、Weill Cornell Medicine和University of Alabama at Birmingham的509名纤维化间质性肺病患者。该研究由Boehringer Ingelheim资助。"
               },
               {
                 "t": "p",
-                "x": "两款模型的特异度均高于获批水平，但敏感度都低于其FDA-clearance基准。作者表示，这凸显了对AI-enabled医疗器械开展标准化上市后（post-market）监测的必要性。"
+                "x": "这些指标比临床肺纤维化诊断平均提前16个月识别出影像学进展，在某个中心最多提前28个月。在检查时被视为临床稳定的患者中，它们也在相当比例的人身上检测到了进展。"
+              },
+              {
+                "t": "p",
+                "x": "较高的基线加权网状血管评分与未来肺纤维化风险升高相关，而连续CT上总病变范围变化1.5%与死亡率上升相关。Brainomix和Boehringer Ingelheim计划通过前瞻性多中心美国(U.S.)研究PROGRESS-PPF继续推进。"
               }
             ]
           }
         },
         "es": {
-          "headline": "Aidoc PE AI queda por debajo\ndel referente FDA en uso real",
-          "body": "En 17 centros, la PE AI de Aidoc autorizada por la FDA logró un 86.8% de sensibilidad, bajo su referencia.",
-          "mini_headline": "Aidoc PE AI, por debajo del referente FDA",
+          "headline": "AI en CT anticipa la progresión\nde la fibrosis hasta 28 meses",
+          "body": "El e-Lung de Brainomix detectó el avance de la fibrosis en promedio 16 meses antes del diagnóstico en 509 pacientes.",
+          "mini_headline": "e-Lung detecta pronto la fibrosis",
           "full": {
-            "mode": "full",
+            "mode": "summary",
             "blocks": [
               {
-                "t": "p",
-                "x": "La embolia pulmonar (PE) es una de las principales causas de mortalidad cardiovascular, pero el rendimiento real de los modelos de detección con AI FDA-cleared sigue sin caracterizarse por completo."
+                "t": "img",
+                "src": "https://radiologybusiness.com/sites/default/files/styles/facebook/public/2025-03/istock-2135067814.jpg?h=d5eed9cb&itok=YDymF8NG"
               },
               {
                 "t": "p",
-                "x": "Investigadores de Emory University evaluaron de forma retrospectiva dos algoritmos Aidoc BriefCase FDA-cleared en un sistema de salud académico de 17 centros: uno para el triaje de PE en angiografía pulmonar por CT dedicada (n = 30,678) y otro para PE incidental en CTs rutinarias con contraste (n = 37,191). Las etiquetas de referencia se obtuvieron de los informes radiológicos mediante un flujo LLM validado (97% de precisión, κ = 0.94)."
+                "x": "El análisis cuantitativo de CT impulsado por inteligencia artificial puede identificar signos de fibrosis pulmonar meses antes del diagnóstico clínico, según un nuevo estudio multicéntrico publicado en Annals of the American Thoracic Society."
               },
               {
                 "t": "p",
-                "x": "El modelo de PE alcanzó un 86.8% de sensibilidad y un 99.1% de especificidad. La sensibilidad bajó del 99.3% en émbolos en silla de montar al 72.9% en PE subsegmentaria, y del 89.7% en PE aguda al 65.3% en PE no aguda (non-acute). El modelo incidental-PE alcanzó un 73.5% de sensibilidad y un 99.8% de especificidad."
+                "x": "El estudio retrospectivo evaluó a 509 pacientes con enfermedad pulmonar intersticial fibrótica en la University of Chicago, Weill Cornell Medicine y la University of Alabama at Birmingham con e-Lung de Brainomix, una herramienta de CT cuantitativa con autorización de la FDA (FDA-cleared). Boehringer Ingelheim financió el estudio."
               },
               {
                 "t": "p",
-                "x": "Ambos modelos mostraron una sensibilidad inferior a sus referencias de FDA-clearance, aunque superaron la especificidad autorizada, lo que según los autores subraya la necesidad de una vigilancia post-market estandarizada de los dispositivos médicos AI-enabled."
+                "x": "Estas mediciones identificaron la progresión radiológica una media de 16 meses antes del diagnóstico clínico de fibrosis pulmonar, y hasta 28 meses en un centro. También detectaron progresión en una proporción considerable de pacientes que se consideraban clínicamente estables en el momento del examen."
+              },
+              {
+                "t": "p",
+                "x": "Una puntuación reticulovascular ponderada basal más alta se asoció con un mayor riesgo de fibrosis pulmonar futura, mientras que un cambio del 1.5% en la extensión total de la enfermedad en CT seriadas se asoció con un aumento de la mortalidad. Brainomix y Boehringer Ingelheim prevén continuar con PROGRESS-PPF, un estudio prospectivo y multicéntrico en Estados Unidos (U.S.)."
               }
             ]
           }

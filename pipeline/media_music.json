@@ -1,7 +1,32 @@
-{"date":"2026-10-22","section":"music","media":[
-{"id":"music-apple-samplab","type":"image","src":"pipeline/media/music-apple-samplab.jpg"},
-{"id":"music-iamddb-ai-likeness","type":"image","src":"pipeline/media/music-iamddb-ai-likeness.jpg"},
-{"id":"music-gavras-storm-ai","type":"image","src":"pipeline/media/music-gavras-storm-ai.png"},
-{"id":"music-nmpa-streaming-fraud","type":"image","src":"pipeline/media/music-nmpa-streaming-fraud.jpg"},
-{"id":"music-moises-soundcloud","type":"image","src":"pipeline/media/music-moises-soundcloud.jpg"}
-]}
+{
+  "date": "2026-10-23",
+  "section": "music",
+  "media": [
+    {
+      "id": "music-reservoir-suno-anthropic",
+      "type": "image",
+      "src": "pipeline/media/music-reservoir-suno-anthropic.jpg"
+    },
+    {
+      "id": "music-umg-tyger-license",
+      "type": "image",
+      "src": "pipeline/media/music-umg-tyger-license.jpg"
+    },
+    {
+      "id": "music-mixagent-post-production",
+      "type": "image",
+      "src": "pipeline/media/music-mixagent-post-production.png"
+    },
+    {
+      "id": "music-fontaines-dc-marianne-ai",
+      "type": "video",
+      "src": "pipeline/media/music-fontaines-dc-marianne-ai.mp4",
+      "poster": "pipeline/media/music-fontaines-dc-marianne-ai.jpg"
+    },
+    {
+      "id": "music-anthropic-lyrics-dilution",
+      "type": "image",
+      "src": "pipeline/media/music-anthropic-lyrics-dilution.jpg"
+    }
+  ]
+}

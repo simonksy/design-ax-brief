@@ -8646,6 +8646,120 @@
           "x": "One experiment is a JPL localization program used on Mars: with no GPS, a machine learning algorithm matches local terrain to a stored map to keep the rover away from dangerous craters."
         }
       ]
+    },
+    "science/science-fusion-plasma-chip": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://static.scientificamerican.com/dam/asset/38a091ea-3dc2-42f4-82ed-e44a03e8b9e4/neuromorphic-Great-Sky-chip-from-BNL-release.jpg?m=1792614243.041&w=1200"
+        },
+        {
+          "t": "p",
+          "x": "Brookhaven National Laboratory debuted a superconducting chip designed to help monitor fusion plasma in real time, developed with other U.S. Department of Energy facilities and the AI hardware start-up Great Sky."
+        },
+        {
+          "t": "p",
+          "x": "In tokamaks, unexpected plasma behavior can cause a disruption, a sudden collapse that can harm the device. Neuromorphic AI systems, which mimic the brain to crunch huge amounts of data in parallel, could keep up with such fast changes."
+        },
+        {
+          "t": "p",
+          "x": "The chip hasn't been wired to a working tokamak yet. The team replayed data recorded at the DIII-D tokamak at a million samples per second, and the chip kept up while running algorithms meant to flag anomalies and predict disruptions. “All of this is very demonstration-stage right now,” says Michael Churchill of the Princeton Plasma Physics Laboratory."
+        },
+        {
+          "t": "p",
+          "x": "The team plans a successor chip with a neural network 10 times larger, to debut at Brookhaven early next year and be installed at DIII-D sometime after."
+        }
+      ]
+    },
+    "science/science-quantum-sim-agents": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://physicsworld.com/wp-content/uploads/2026/10/ai-agent-computer-chip-or-software-2217030312-istock-mf3d.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Quantum simulations are used to calculate molecular energies, investigate new materials, test quantum-computing algorithms and predict how quantum systems evolve, but they often require specialist numerical methods and familiarity with multiple software tools."
+        },
+        {
+          "t": "p",
+          "x": "AI agents can plan multistep tasks, consult documentation, run programs, examine results and revise their approach. El Agente Cuántico applies this to quantum simulation: a coordinating agent delegates work to specialist agents tied to different software packages, producing code, numerical results and figures."
+        },
+        {
+          "t": "p",
+          "x": "The researchers demonstrated it on molecular-energy calculations, entangled states, dissipative dynamics, time crystals, error correction and hardware-resource estimation. In repeated tests of five tasks, average expert-assessment scores ranged from 97 to 100 out of 100, though a few runs departed from the instructions."
+        },
+        {
+          "t": "p",
+          "x": "The authors present the agents as an aid to scientific judgement, not a replacement for it. (I. Gustin et al 2026 Rep. Prog. Phys. 89 077602)"
+        }
+      ]
+    },
+    "science/science-chatbot-delusions": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/chatbots-1.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Georgia Tech researchers Lorenzo de la Loza and Vijay Madisetti tested eight AI models in 1,280 experiments, using 16 clinically derived scenarios involving delusional beliefs."
+        },
+        {
+          "t": "p",
+          "x": "Instructions designed to discourage excessive agreement — telling models not to reinforce users' beliefs simply to be agreeable — reduced the models' confirmation of those beliefs by 73.8%. Adding a self-reflection step increased the reduction to 77%."
+        },
+        {
+          "t": "p",
+          "x": "The study did not test people in clinical settings, so it does not show the approach prevents real-world harm. The work appears in ACM AI Letters."
+        }
+      ]
+    },
+    "science/science-bee-buzz-audio": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/a-microphone-captures.jpg",
+          "cap": "A microphone records a common orange-belted bumblebee collecting pollen. Credit: Laura Figueroa"
+        },
+        {
+          "t": "p",
+          "x": "Pollinator monitoring mostly uses lethal traps — often small, colored cups filled with soapy water — which also kill many nontarget insects."
+        },
+        {
+          "t": "p",
+          "x": "A team led by Laura Figueroa at UMass Amherst built two AI models that analyze bee audio: one detects overall bee activity, the other distinguishes honeybees from bumblebees. Trained on 594 field recordings from 43 sites in the northeastern U.S. over five years, the models correctly identified 93%–97% of the bees in a sample and correlated strongly with trained observers."
+        },
+        {
+          "t": "p",
+          "x": "The authors see the tool as a complement to traditional methods, useful in hard-to-sample places such as tree canopies. The models are available on Raven Pro."
+        }
+      ]
+    },
+    "science/science-nz-rain": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://scx1.b-cdn.net/csz/news/800a/2026/heavy-rain-in-new-zeal.jpg",
+          "cap": "Heavy rain in New Zealand. Credit: Roman Castillo from Pexels"
+        },
+        {
+          "t": "p",
+          "x": "Neelesh Rampal and Steven Sherwood, writing in The Conversation, used generative AI trained on 140 years of regional climate simulations, covering historical and warmer future conditions, to map many possible New Zealand climate futures on a grid about 12 km wide."
+        },
+        {
+          "t": "p",
+          "x": "The AI produced more than 15,000 simulated years in six hours on four specialized chips, rerunning history and possible futures to 2100 in a world where greenhouse gas emissions keep rising."
+        },
+        {
+          "t": "p",
+          "x": "Averaged across New Zealand, daily rainfall in a one-in-100-year event rises by about 9% per degree of warming, faster than the roughly 5.6% for more frequent heavy rainfall: the rarest downpours become more intense as the planet warms."
+        },
+        {
+          "t": "p",
+          "x": "Warming also widened the gap between milder and more severe possible futures. In the more severe futures, extreme rainfall increased substantially more than the averages. The study is published in Climate Dynamics."
+        }
+      ]
     }
   }
 }

@@ -7975,6 +7975,150 @@
           "x": "研究人员表示，他们希望在这类系统被托付现实任务之前，先在一个完全可见的环境中研究智能体团队如何协作：“通关Minecraft所需的技能，例如协调团队、从失败中恢复、持续一天以上追求一个目标，也正是智能体与人可靠地并肩工作所需要的。”"
         }
       ]
+    },
+    "games/games-epic-ai-megajam": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/7M3WodRrErU8qfasfyuLrW-2560-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "Epic热衷于在一场AI-focused的游戏创作活动中向有志的氛围编程者发钱，承诺提供价值$65,000的现金奖励，并可能为“出色”项目提供$50,000的资助。"
+        },
+        {
+          "t": "p",
+          "x": "2026 AI MegaJam将于11月12日至15日举行，现已在Itch.io开放报名，参赛者需使用Unreal Engine或UEFN制作游戏。该公司表示：“从资产生成到编程智能体，把任何AI工具带进你的工作流程。”"
+        },
+        {
+          "t": "p",
+          "x": "奖项包括授予“展示你如何用AI工具制作游戏的最佳开发日志”以及使用LLM-driven NPCs的最佳游戏的$2,500奖金，另有“最高$50,000的开发延续资助，让你在活动结束后继续开发”。"
+        },
+        {
+          "t": "p",
+          "x": "从带着六根手指的宣传图和“vibe your way to 50K”的口号来看，Epic显然是在调侃AI批评者。Twitter上的反应可谓毫不客气，而开发者对AI的抵触声浪一段时间以来一直响亮且持续。"
+        }
+      ]
+    },
+    "games/games-switch2-ai-jailbreak": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-22-at-10.19.11-AM.png?quality=90&strip=all&crop=1.7484243697479%2C0%2C96.503151260504%2C100&w=1200",
+          "cap": "图片：X用户pepsipu"
+        },
+        {
+          "t": "p",
+          "x": "Nintendo Switch 2似乎已被越狱，一名模组作者已经展示了主机运行定制版Mario Kart World的画面，其中加入了Cinnamoroll、红色Angry Bird、Peter Griffin以及Minecraft中的Steve等新的可玩角色。"
+        },
+        {
+          "t": "p",
+          "x": "据网名“pepsipu”的Sammy Hajhamid介绍，OpenAI的Codex帮助完成了这个“ns2jb”越狱。这是一种纯软件的不完美越狱（tethered），在这里意味着每次开机都必须从一款游戏中运行它才能生效。该漏洞利用需要游戏SmileBASIC 4，这款游戏允许用户编程并游玩游戏（不过另一位模组作者称这款游戏“并非绝对必需”）。"
+        },
+        {
+          "t": "p",
+          "x": "对大多数人来说，这个越狱看起来仍然极其复杂，其全面影响也尚不明朗；Switch 2破解Reddit子版块的用户正在争论此事究竟有多重要。尽管如此，这可能标志着针对Switch 2的一连串漏洞利用的开始，尤其是如果模组作者借助AI的话。"
+        }
+      ]
+    },
+    "games/games-machinarium-ai-tribute": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/QovyvgnTDavqyf4mSEdhu6-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "10月20日，“AI叙事”公司Nura Studios的CEO发布了一段向Amanita Design 2009年的邪典经典Machinarium致敬的视频，目前已删除。视频还在线时我瞥过一眼，毫无疑问是AI生成的——不过考虑到它的来源，这大概不言自明。"
+        },
+        {
+          "t": "p",
+          "x": "视频并不好，但话说回来，Amanita Design是全球视觉风格最独特的工作室之一。从它对Nura Studios视频的回应来看，这支总部位于捷克的团队也是态度最强硬的工作室之一。"
+        },
+        {
+          "t": "p",
+          "x": "该工作室就这段AI致敬视频发推称：“竟敢把Machinarium的素材喂给AI，做出AI垃圾动画，还称之为情书……”“情书本该是手写的。这看起来令人作呕，和我们以及我们的手艺毫无关系。”"
+        },
+        {
+          "t": "p",
+          "x": "真狠。在这种情况下，工作室通常会礼貌地无视Nura Studios这类团伙的笨拙示好。该公司的使命是“通过人类主导的AI平台赋能创作者，让高质量故事成为现实”，而它的网站是这样的："
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/fnYAu3QZaHxVQvx45ofhNA-1200-80.png",
+          "cap": "图片来源：Nura Studios"
+        },
+        {
+          "t": "p",
+          "x": "所以看到Amanita奋起反击，令人欣慰。"
+        },
+        {
+          "t": "p",
+          "x": "Nura Studios CEO Sylvio Drouin确实表达了悔意。Drouin发推说：“我们对发布的帖子深感抱歉。我们原以为这是对你们出色作品的致敬，我已经删除了帖子，再次请接受我们诚挚的道歉。”"
+        },
+        {
+          "t": "p",
+          "x": "Amanita Design尚未公开接受这一道歉。其下一款游戏Machinarium 2已于本月早些时候公布。"
+        }
+      ]
+    },
+    "games/games-arc-raiders-chatgpt-support": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/rNhJaVUEevSjNDA7SxKetK-1920-80.jpg"
+        },
+        {
+          "t": "p",
+          "x": "据报道，开发商Embark Studios旗下的Arc Raiders客服团队使用ChatGPT处理一名玩家的咨询，却误将多条似乎是发给其他几名玩家的消息一并发给了他。"
+        },
+        {
+          "t": "p",
+          "x": "Reddit用户a1vmp1分享了带有ChatGPT提示与回复往来痕迹的聊天记录。其中一条疑似提示写着“写一个简短回复”，另一条写着“索要当前技能树截图”。这串对话似乎包含约10轮独立的往来。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.mos.cms.futurecdn.net/PG7DLjdgnsbu6ZnbikD2nQ-1200-80.jpg",
+          "cap": "图片来源：Embark Studios"
+        },
+        {
+          "t": "p",
+          "x": "a1vmp1“因游戏问题在出生后20秒内”丢失了整套装备，而给他的回复称Embark“无法恢复丢失的物品或试炼分数”。GamesRadar+用Grammarly、Solvely和GPTZero的AI-text检测工具检测了这段回复，结果均判定为100% AI-made。Embark尚未回应置评请求。"
+        },
+        {
+          "t": "p",
+          "x": "一名玩家抱怨：“明明这里根本不存在‘我们’，却还说着‘我们理解你的沮丧’这类客套话，感觉格外恶劣。”"
+        }
+      ]
+    },
+    "games/games-raon1mini": {
+      "blocks": [
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/gmdata/0001/782/130/gm596105_48496.webp"
+        },
+        {
+          "t": "p",
+          "x": "Krafton于21日发布了自主研发的300亿级大语言模型Raon-1 mini的预览版。该模型通过Hugging Face以Apache 2.0许可证开源发布，任何人都可免费下载，不仅可用于研究，也可用于商业服务和产品开发。"
+        },
+        {
+          "t": "img",
+          "src": "https://cdn.gamemeca.com/data_center/345/151/20261021144802.jpg",
+          "cap": "Raon-1 mini基准性能表（图片来源：Hugging Face）"
+        },
+        {
+          "t": "p",
+          "x": "从模型设计到从零开始训练，全部流程均由Krafton自主完成，模型同时支持英语和韩语。它采用在全部300亿个参数中仅激活所需40亿个的混合专家（MoE）架构，并结合自研的线性注意力技术，实现了快速响应和低推理成本。"
+        },
+        {
+          "t": "p",
+          "x": "该模型在部分指标上已接近韩国国内大型模型的水平，并具备依托指令遵循能力处理多步骤任务的智能体应用能力。Krafton计划通过持续更新提升性能后推出正式版，并在正式版发布时公开涵盖训练过程和最终性能的技术报告。"
+        },
+        {
+          "t": "p",
+          "x": "Krafton CAIO李康旭表示：“我们将以性能更高、成本负担更低的高性价比大语言模型，拓宽AI在各行业现场的应用范围。”Krafton曾于4月推出AI模型品牌“Raon”，并以开源形式发布了Raon Speech等4款模型。"
+        }
+      ]
     }
   }
 }
