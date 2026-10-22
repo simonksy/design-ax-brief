@@ -1,0 +1,73 @@
+{
+ "meta": {
+  "issue": "Windows 디자이너가 AI로 코드를 고친다",
+  "date": "2026.10.20",
+  "section": "DESIGN",
+  "accent": "#0070f3",
+  "note": "Windows Latest(2026.10.20 08:17 UTC) 원문 대조. Baca 발언은 X 답글. '밝히지 않았다'는 Windows Latest의 관찰로 돌렸다. 영상은 새 Windows Search 시연(기사 첨부), 사진은 기사 속 X 캡처와 Search 화면.",
+  "sources": [
+   "Windows Latest — Even designers are now using AI to code Windows 11 (2026.10.20)"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "video": "src/search.mp4",
+   "start": 0,
+   "dur": 4,
+   "eyebrow": "AI × 디자인 · 2026.10.20",
+   "headline": "Windows 디자이너, AI로 코드까지",
+   "body": "Microsoft 제품 디자인 부사장 Diego Baca가 X에서 밝혔다. 디자이너가 코드 수정에 직접 손을 보탠다.",
+   "foot": "밀어서 보기 →",
+   "n": 1
+  },
+  {
+   "kind": "quote",
+   "quote": "AI 덕분에 디자인팀 속도가 크게 빨라졌습니다. 디자이너가 완성도와 일관성, 품질을 높이는 코드 수정에 직접 기여합니다.",
+   "quote_by": "Diego Baca · Microsoft 제품 디자인 부사장",
+   "eyebrow": "무슨 말을 했나",
+   "headline": "\"이제 막 시작했다\"",
+   "body": "그는 이를 반가운 진전이라 부르며 이제 막 시작했을 뿐이라고 덧붙였다.",
+   "foot": "2026.10.20",
+   "n": 2
+  },
+  {
+   "kind": "photo",
+   "media": "src/xthread.jpg",
+   "eyebrow": "어디서 나왔나",
+   "headline": "새 Search 영상에 달린 답글",
+   "body": "새 Windows Search 영상을 두고 Chris Pirillo와 주고받은 X 답글이다. 10억 명이 넘는 사용자를 위한 디자인은 어렵다고도 했다.",
+   "foot": "2026.10.20",
+   "n": 3
+  },
+  {
+   "kind": "photo",
+   "media": "src/search.jpg",
+   "eyebrow": "무엇을 다시 짓나",
+   "headline": "Search부터 WinUI 3로",
+   "body": "Windows 11 일부를 WinUI 3로 다시 짓는 중이다. 새 Search는 10월 7일부터 Insider 채널에서 시험하고 있다.",
+   "foot": "2026.10.20",
+   "n": 4
+  },
+  {
+   "kind": "stat",
+   "stat_top": "어떤 AI 도구?",
+   "stat_arrow": "무엇을 고쳤나",
+   "stat_bottom": "AI 코드 비율?",
+   "stat_strike": false,
+   "eyebrow": "짚을 대목",
+   "headline": "구체적인 내용은 없다",
+   "body": "Windows Latest에 따르면 Baca는 쓰는 도구도, 고친 내용도, AI가 쓴 코드 비율도 밝히지 않았다.",
+   "foot": "2026.10.20",
+   "n": 5
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}

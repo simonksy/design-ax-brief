@@ -1,0 +1,77 @@
+{
+ "meta": {
+  "issue": "AI 선거 콘텐츠에 표시를 의무화한다",
+  "date": "2026.10.21",
+  "section": "POLITICS",
+  "accent": "#9aa8c7",
+  "note": "의원실 보도자료(2026.10.21)와 법안 PDF 대조. 법안 번호 없음, 2024년 발의안의 재발의, 공동발의 30명. 금지 조항은 '고의로(intentionally)'. 징역 최대 1년.",
+  "sources": [
+   "Rep. Shontel Brown 보도자료 — Securing Elections from AI Deception Act (2026.10.21)"
+  ]
+ },
+ "cards": [
+  {
+   "kind": "cover",
+   "media": "src/capitol.jpg",
+   "eyebrow": "AI × 정책 · 2026.10.21",
+   "headline": "AI 선거 콘텐츠에 표시를 의무화한다",
+   "body": "미국 하원의원 숀텔 브라운(Shontel Brown)이 'AI 기만으로부터 선거 보호법'을 다시 발의했다. 공동발의자는 30명이다.",
+   "foot": "밀어서 보기 →",
+   "n": 1
+  },
+  {
+   "kind": "stat",
+   "stat_top": "AI Disclaimer",
+   "stat_arrow": "문구 또는",
+   "stat_bottom": "원 안의 AI 기호",
+   "stat_strike": false,
+   "eyebrow": "어디에 붙이나",
+   "headline": "후보 흉내·투표 안내 콘텐츠",
+   "body": "후보를 흉내 내거나 바꾼 AI 이미지·글·영상·음성, 투표와 유권자 등록 방법을 알리는 AI 콘텐츠가 대상이다.",
+   "foot": "2026.10.21",
+   "n": 2
+  },
+  {
+   "kind": "stat",
+   "stat_top": "연방·주·지방",
+   "stat_arrow": "선거 모두",
+   "stat_bottom": "FTC가 집행",
+   "stat_strike": false,
+   "eyebrow": "누가 맡나",
+   "headline": "연방거래위원회가 집행한다",
+   "body": "표시 위반은 불공정·기만 행위로 다룬다. FTC는 대국민 교육과 의회 보고도 맡는다.",
+   "foot": "2026.10.21",
+   "n": 3
+  },
+  {
+   "kind": "stat",
+   "stat_top": "벌금",
+   "stat_arrow": "또는",
+   "stat_bottom": "징역 최대 1년",
+   "stat_strike": false,
+   "eyebrow": "무엇을 금지하나",
+   "headline": "AI로 투표권을 빼앗으면 처벌",
+   "body": "AI 개발·배포자가 고의로 AI를 써서 투표권을 빼앗거나 속이면 처벌한다. 투표 장소·방법을 속이는 정보도 포함된다.",
+   "foot": "2026.10.21",
+   "n": 4
+  },
+  {
+   "kind": "quote",
+   "quote": "복잡한 문제가 아닙니다. 유권자는 자신이 보고 듣는 선거 콘텐츠가 진짜인지 알 권리가 있습니다.",
+   "quote_by": "숀텔 브라운 하원의원 (OH-11)",
+   "eyebrow": "그래서 지금",
+   "headline": "아직 발의 단계다",
+   "body": "2024년에 처음 낸 법안을 다시 낸 것으로, 아직 표결 전이다.",
+   "foot": "2026.10.21",
+   "n": 5
+  },
+  {
+   "kind": "outro",
+   "eyebrow": "매일 아침, AI가 바꾸는 현장",
+   "headline": "더 많은 소식은 axitnow.com",
+   "body": "매일 아침 열 개 분야에서 새 카드 50장. 분야를 넘나드는 연결은 지식 그래프로 한눈에 봅니다.",
+   "foot": "",
+   "n": 6
+  }
+ ]
+}
